@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000100000)
 
 Der Bund richtet beim Bundesamt für Familie und zivilgesellschaftliche
 Aufgaben ein bundesweites zentrales Hilfetelefon „Gewalt gegen Frauen“
@@ -29,6 +30,7 @@ Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000200000)
 
 (1) Mit dem Hilfetelefon werden kostenlos Erstberatung und
 Informationen zu Hilfemöglichkeiten bei allen Formen von Gewalt gegen
@@ -45,6 +47,7 @@ auf aktuellem Stand.
 
 
 ## § 3 Adressatenkreis
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000300000)
 
 Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
@@ -64,6 +67,7 @@ Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
 
 ## § 4 Anforderungen an die Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000401116)
 
 (1) Erstberatung, Information und Weitervermittlung erfolgen durch
 qualifizierte weibliche Fachkräfte.
@@ -84,6 +88,7 @@ diesbezüglich die nähere Ausgestaltung fest.
 
 
 ## § 5 Anforderungen an die Erreichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000500000)
 
 (1) Das Hilfetelefon ist 24 Stunden täglich unter einer entgeltfreien
 Rufnummer erreichbar.
@@ -97,6 +102,7 @@ Wartezeiten in Anspruch genommen werden können.
 
 
 ## § 6 Öffentlichkeitsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000600000)
 
 Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben stellt
 sicher, dass das Hilfetelefon durch Öffentlichkeitsarbeit bundesweit
@@ -104,6 +110,7 @@ bekannt gemacht und kontinuierlich bekannt gehalten wird.
 
 
 ## § 7 Sachstandsbericht; Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000700000)
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 veröffentlicht jährlich einen Sachstandsbericht zur Inanspruchnahme
@@ -117,6 +124,7 @@ dessen Wirksamkeit.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hilfetelefong/BJNR044800012.html#BJNR044800012BJNE000800000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

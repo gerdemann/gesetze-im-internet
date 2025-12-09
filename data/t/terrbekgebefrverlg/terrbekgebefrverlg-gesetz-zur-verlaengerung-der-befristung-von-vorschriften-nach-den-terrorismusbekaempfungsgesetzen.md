@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 4 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/terrbekgebefrverlg/BJNR216100015.html#BJNR216100015BJNE000100000)
 
 
 ## Art 5 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/terrbekgebefrverlg/BJNR216100015.html#BJNR216100015BJNE000200000)
 
 Die Anwendung der durch das Terrorismusbekämpfungsgesetz vom 9. Januar
 2002 (BGBl. I S. 361, 3142), das
@@ -42,12 +44,14 @@ erfolgen.
 
 
 ## Art 6 Einschränkung eines Grundrechts
+[Direktlink](https://www.gesetze-im-internet.de/terrbekgebefrverlg/BJNR216100015.html#BJNR216100015BJNE000300000)
 
 Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des
 Grundgesetzes) wird nach Maßgabe des Artikels 1 eingeschränkt.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/terrbekgebefrverlg/BJNR216100015.html#BJNR216100015BJNE000400000)
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach der
 Verkündung in Kraft. Die Artikel 3 und 4 treten am 1. März 2016 in

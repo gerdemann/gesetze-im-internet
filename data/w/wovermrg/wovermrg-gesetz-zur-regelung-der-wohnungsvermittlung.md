@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000100301)
 
 (1) Wohnungsvermittler im Sinne dieses Gesetzes ist, wer den Abschluß
 von Mietverträgen über Wohnräume vermittelt oder die Gelegenheit zum
@@ -35,6 +36,7 @@ Wohnräume im Fremdenverkehr.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000205360)
 
 (1) Ein Anspruch auf Entgelt für die Vermittlung oder den Nachweis der
 Gelegenheit zum Abschluß von Mietverträgen über Wohnräume steht dem
@@ -100,6 +102,7 @@ werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000302360)
 
 (1) Das Entgelt nach § 2 Abs. 1 Satz 1 ist in einem Bruchteil oder
 Vielfachen der Monatsmiete anzugeben.
@@ -132,6 +135,7 @@ Gegenstand hat.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000402360)
 
 Der Wohnungsvermittler und der Auftraggeber können vereinbaren, daß
 bei Nichterfüllung von vertraglichen Verpflichtungen eine
@@ -141,6 +145,7 @@ Euro nicht übersteigen.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE001000307)
 
 (1) Eine Vereinbarung, die den Wohnungssuchenden oder für ihn einen
 Dritten verpflichtet, ein Entgelt dafür zu leisten, daß der bisherige
@@ -159,6 +164,7 @@ Inventarstücks steht.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000504360)
 
 (1) Soweit an den Wohnungsvermittler ein ihm nach diesem Gesetz nicht
 zustehendes Entgelt, eine Vergütung anderer Art, eine
@@ -174,6 +180,7 @@ wirksam geworden sind, ist Absatz 1 entsprechend anzuwenden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000600301)
 
 (1) Der Wohnungsvermittler darf Wohnräume nur anbieten, wenn er dazu
 einen Auftrag von dem Vermieter oder einem anderen Berechtigten hat.
@@ -187,6 +194,7 @@ Nebenleistungen besonders zu vergüten sind.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000700301)
 
 Die Vorschriften des § 3 Abs. 1 und des § 6 gelten nur, soweit der
 Wohnungsvermittler die in § 1 Abs. 1 bezeichnete Tätigkeit
@@ -194,6 +202,7 @@ gewerbsmäßig ausübt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000803360)
 
 (1) Ordnungswidrig handelt, wer als Wohnungsvermittler vorsätzlich
 oder fahrlässig
@@ -227,6 +236,7 @@ werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wovermrg/BJNR017470971.html#BJNR017470971BJNE000901307)
 
 (1)
 

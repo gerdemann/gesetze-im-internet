@@ -32,6 +32,7 @@ Stand: Ersetzt V 2129-27-2-15 v. 19.6.2002 I 1938 (GewAbfV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000100000)
 
 Auf Grund
 
@@ -51,9 +52,11 @@ verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000302130)
 
 (1) Diese Verordnung gilt für die Bewirtschaftung, insbesondere die
 Erfassung, die Vorbehandlung, die Vorbereitung zur Wiederverwendung,
@@ -112,6 +115,7 @@ Fassung bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000401125)
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -213,9 +217,11 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Gewerbliche Siedlungsabfälle
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNG000200000)
 
 
 ### § 3 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von gewerblichen Siedlungsabfällen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000502125)
 
 (1) Erzeuger und Besitzer von gewerblichen Siedlungsabfällen haben die
 folgenden Abfallfraktionen jeweils getrennt zu sammeln und zu
@@ -300,6 +306,7 @@ elektronisch zu erfolgen.
 
 
 ### § 4 Vorbehandlung von gewerblichen Siedlungsabfällen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000602125)
 
 (1) Entfallen die Pflichten nach § 3 Absatz 1 Satz 1 unter den
 Voraussetzungen des § 3 Absatz 2, sind Erzeuger und Besitzer der nicht
@@ -415,6 +422,7 @@ erfolgen.
 
 
 ### § 4a Umgang mit verpackten Bioabfällen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE002000125)
 
 (1) Verpackte Bioabfälle, insbesondere verpackte Lebensmittelabfälle,
 sind
@@ -443,6 +451,7 @@ mit, ob die Anforderungen nach Absatz 1 erfüllt werden.
 
 
 ### § 5 Gemeinsame Erfassung und Entsorgung von Kleinmengen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000700000)
 
 Erzeuger und Besitzer von gewerblichen Siedlungsabfällen können diese
 gemeinsam mit den auf dem jeweiligen Grundstück anfallenden Abfällen
@@ -456,6 +465,7 @@ Pflicht zur Benutzung von Abfallbehältern nach § 7 Absatz 2.
 
 
 ### § 6 Anforderungen an Vorbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000801000)
 
 (1) Betreiber von Vorbehandlungsanlagen haben zur Gewährleistung eines
 ordnungsgemäßen, schadlosen und hochwertigen Recyclings, insbesondere
@@ -545,6 +555,7 @@ zuzuführen.
 
 
 ### § 7 Überlassung von gewerblichen Siedlungsabfällen, die nicht verwertet werden
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE000901116)
 
 (1) Erzeuger und Besitzer von gewerblichen Siedlungsabfällen, die
 nicht verwertet werden, haben diese dem zuständigen öffentlich-
@@ -564,9 +575,11 @@ Entsorgung ausgeschlossen hat.
 
 
 ## Abschnitt 3 - Bau- und Abbruchabfälle
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNG000300000)
 
 
 ### § 8 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabfällen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001004125)
 
 (1) Erzeuger und Besitzer von Bau- und Abbruchabfällen haben die
 folgenden Abfallfraktionen jeweils getrennt zu sammeln, zu befördern
@@ -669,6 +682,7 @@ insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 
 ### § 9 Vorbehandlung und Aufbereitung von bestimmten Bau- und Abbruchabfällen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001101125)
 
 (1) Entfallen die Pflichten nach § 8 Absatz 1 unter den
 Voraussetzungen des § 8 Absatz 2 sind Erzeuger und Besitzer der nicht
@@ -739,9 +753,11 @@ insgesamt anfallenden Abfälle 10 Kubikmeter nicht überschreitet.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNG000400000)
 
 
 ### § 10 Eigenkontrolle bei Vorbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001200000)
 
 (1) Betreiber von Vorbehandlungsanlagen haben bei jeder
 Abfallanlieferung unverzüglich eine Annahmekontrolle nach Satz 2
@@ -801,6 +817,7 @@ ausschließlich gelagert werden. In der Bestätigung sind anzugeben:
 
 
 ### § 11 Fremdkontrolle bei Vorbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001300000)
 
 (1) Betreiber von Vorbehandlungsanlagen haben für jedes Kalenderjahr
 innerhalb von zwei Monaten nach Jahresende eine Fremdkontrolle nach
@@ -874,6 +891,7 @@ Gewerbeordnung entsprechend.
 
 
 ### § 12 Betriebstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001400000)
 
 (1) Betreiber von Vorbehandlungsanlagen haben ein Betriebstagebuch
 nach Satz 2 zu führen und dieses nach Kalenderjahren zu unterteilen.
@@ -917,6 +935,7 @@ Vollständigkeit zu überprüfen. Die Überprüfung ist zu dokumentieren.
 
 
 ### § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001500000)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1023,6 +1042,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001600000)
 
 Abweichend von § 4 Absatz 3 Satz 3 ist für das Entfallen der Pflicht
 nach § 4 Absatz 1 Satz 1
@@ -1045,6 +1065,7 @@ nach § 4 Absatz 1 Satz 1
 
 
 ### § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001700000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. August
 2017 in Kraft. Gleichzeitig tritt die Gewerbeabfallverordnung vom 19.
@@ -1057,12 +1078,14 @@ außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 6 Absatz 1 Satz 1)
 
 ### Anlage Technische Mindestanforderungen für Vorbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/gewabfv_2017/BJNR089600017.html#BJNR089600017BJNE001900000)
 
 (Fundstelle: BGBl. I 2017, 904)
 

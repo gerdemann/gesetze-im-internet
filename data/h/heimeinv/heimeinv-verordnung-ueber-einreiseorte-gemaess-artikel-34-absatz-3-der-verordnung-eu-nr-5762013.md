@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 am 21.4.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heimeinv/BJNR1AB0A0024.html#BJNR1AB0A0024BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 des Tiergesundheitsrechtlichen
 Bußgeldgesetzes vom 8. Dezember 2024 (BGBl. 2024 I Nr. 405) verordnet
@@ -26,6 +27,7 @@ das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Liste der Einreiseorte
+[Direktlink](https://www.gesetze-im-internet.de/heimeinv/BJNR1AB0A0024.html#BJNR1AB0A0024BJNE000200000)
 
 Die Liste der Einreiseorte nach Artikel 34 Absatz 3 der Verordnung
 (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12.
@@ -37,12 +39,14 @@ zuletzt durch die Delegierte Verordnung (EU) 2024/822 (ABl. L,
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heimeinv/BJNR1AB0A0024.html#BJNR1AB0A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 21.
 April 2026 außer Kraft.
 
 
 ## Anlage Einreiseorte nach Artikel 34 Absatz 3 der Verordnung (EU) Nr. 576/2013
+[Direktlink](https://www.gesetze-im-internet.de/heimeinv/BJNR1AB0A0024.html#BJNR1AB0A0024BJNE000400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 427, S. 2 - 3)
 

@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000201305)
 
 (1) Die bisherigen Reichswasserstraßen (Binnen- und Seewasserstraßen)
 sind mit Wirkung vom 24. Mai 1949 als Bundeswasserstraßen Eigentum des
@@ -49,12 +51,14 @@ weiter.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000300308)
 
 Treuhandschaften der Länder an dem Eigentum und den Vermögensrechten,
 die unter § 1 fallen, erlöschen mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000400308)
 
 Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Eigentum und Vermögensrechte der in § 1 bezeichneten Art vor dem
@@ -62,6 +66,7 @@ Inkrafttreten dieses Gesetzes getroffen worden sind, bleibt unberührt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000500308)
 
 § 1 gilt nicht für Eigentum und Vermögensrechte, die nach dem 30.
 Januar 1933 einer Gewerkschaft, Genossenschaft, politischen Partei
@@ -69,11 +74,13 @@ oder sonstigen demokratischen Organisation weggenommen worden sind.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000601305)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000700308)
 
 Ein Ersatz für Aufwendungen und Verwendungen, die bis zum 20.
 September 1949 von den Ländern in Bezug auf Eigentum und
@@ -83,12 +90,14 @@ ihnen erzielte Erträge.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000800308)
 
 Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die
 unter § 1 fallen, bleiben bestehen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE000903305)
 
 (1) Steht das Eigentum an einem Grundstück nach § 1 dem Bund zu, so
 ist der Antrag auf Berichtigung des Grundbuchs von der höheren Behörde
@@ -112,6 +121,7 @@ entsprechend.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE001000308)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
@@ -119,11 +129,13 @@ außer Ansatz.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE001100308)
 
 -
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/wastrvermrg/BJNR003520951.html#BJNR003520951BJNE001200308)
 
 Das Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -29,9 +29,11 @@ Geändert durch
 
 
 ## Teil 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNG000101128)
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000301128)
 
 Die Ausbildungsberufe
 
@@ -50,11 +52,13 @@ anerkannt.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000401128)
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
 
 
 ### § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000502128)
 
 Die Ausbildung gliedert sich in
 
@@ -107,9 +111,11 @@ Die Ausbildung gliedert sich in
 
 
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Chemielaborant/Chemielaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNG000201128)
 
 
 ### § 4 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000602128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
@@ -301,6 +307,7 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
 
 
 ### § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000702128)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -316,6 +323,7 @@ erstellen.
 
 
 ### § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000801128)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -337,6 +345,7 @@ Prozent gewichtet.
 
 
 ### § 7 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE000901128)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -472,6 +481,7 @@ folgende Vorgaben:
 
 
 ### § 8 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001002128)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
@@ -640,6 +650,7 @@ folgende Vorgaben:
 
 
 ### § 9 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001101128)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -709,6 +720,7 @@ bewertet worden sind.
 
 
 ### § 10 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001201128)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
@@ -722,9 +734,11 @@ zu gewichten.
 
 
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Biologielaborant/Biologielaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNG000301128)
 
 
 ### § 11 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001302128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse
@@ -892,6 +906,7 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe b
 
 
 ### § 12 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001402128)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -907,6 +922,7 @@ erstellen.
 
 
 ### § 13 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001501128)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -928,6 +944,7 @@ Prozent gewichtet.
 
 
 ### § 14 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001601128)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1072,6 +1089,7 @@ Vorgaben:
 
 
 ### § 15 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001702128)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
@@ -1222,6 +1240,7 @@ folgende Vorgaben:
 
 
 ### § 16 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001801128)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1291,6 +1310,7 @@ bewertet worden sind.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE001901128)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
@@ -1304,9 +1324,11 @@ zu gewichten.
 
 
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Lacklaborant/Lacklaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNG000401128)
 
 
 ### § 18 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002002128)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 3) aufgeführten Fertigkeiten, Kenntnisse
@@ -1504,6 +1526,7 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
 
 ### § 19 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002102128)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -1519,6 +1542,7 @@ erstellen.
 
 
 ### § 20 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002201128)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1540,6 +1564,7 @@ Prozent gewichtet.
 
 
 ### § 21 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002301128)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1674,6 +1699,7 @@ bestehen folgende Vorgaben:
 
 
 ### § 22 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002403128)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 3
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer
@@ -1820,6 +1846,7 @@ folgende Vorgaben:
 
 
 ### § 23 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002501128)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1899,6 +1926,7 @@ bewertet worden sind.
 
 
 ### § 24 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002601128)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
@@ -1912,14 +1940,17 @@ zu gewichten.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNG000501128)
 
 
 ### § 25 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002701128)
 
 
 (zu § 4 Absatz 1 Satz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE002902128)
 
 (Fundstelle: BGBl. I 2020, 879 – 888)
 
@@ -3502,6 +3533,7 @@ Nummer 1.1**
 (zu § 11 Absatz 1 Satz 1)
 
 ### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE003003128)
 
 (Fundstelle: BGBl. I 2020, 889 – 897)
 
@@ -4895,6 +4927,7 @@ Nummer 1.1**
 (zu § 18 Absatz 1 Satz 1)
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin
+[Direktlink](https://www.gesetze-im-internet.de/chembiolackausbv_2009/BJNR160000009.html#BJNR160000009BJNE003102128)
 
 (Fundstelle: BGBl. I 2020, 898 – 910)
 

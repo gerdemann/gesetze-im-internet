@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -33,6 +34,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 „Geprüften Fachwirt im Gesundheits- und Sozialwesen“ und zur
@@ -110,6 +112,7 @@ Sozialwesen“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -154,6 +157,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000401128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -220,6 +224,7 @@ ausreichende Leistungen erbracht wurden.
 
 
 ## § 4 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000500000)
 
 (1) Im Handlungsbereich „Planen, Steuern und Organisieren
 betrieblicher Prozesse“ soll die Fähigkeit nachgewiesen werden,
@@ -442,6 +447,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -454,6 +460,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -487,6 +494,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
 und mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden
@@ -508,6 +516,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -534,6 +543,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -549,6 +559,7 @@ Fall das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE000901128)
 
 (1) Die zu prüfende Person kann nach erfolgreichem Abschluss der
 Prüfung zum „Geprüften Fachwirt im Gesundheits- und Sozialwesen“ oder
@@ -576,6 +587,7 @@ auszustellen.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001001128)
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt/zur Fachwirtin im Sozial-
 und Gesundheitswesen (IHK), zum Fachwirt/zur Fachwirtin für die Alten-
@@ -596,12 +608,14 @@ Anwendung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001101128)
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2350 – 2351)
 
@@ -903,6 +917,7 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/geswfachwprv/BJNR167900011.html#BJNR167900011BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2351 – 2352)
 

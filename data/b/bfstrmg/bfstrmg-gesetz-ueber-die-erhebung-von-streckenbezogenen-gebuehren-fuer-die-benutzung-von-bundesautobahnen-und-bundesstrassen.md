@@ -24,6 +24,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Autobahn- und Bundesstraßenmaut
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000112123)
 
 (1) Für die Benutzung der Bundesautobahnen und der Bundesstraßen mit
 Fahrzeugen im Sinne des Satzes 2 ist eine Gebühr im Sinne des Artikels
@@ -146,6 +147,7 @@ straßenverkehrsrechtliche Beschilderung hinzuweisen.
 
 
 ## § 2 Mautschuldner
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000202116)
 
 (1) Mautschuldner ist die Person,
 
@@ -174,6 +176,7 @@ Gesamtschuldner.
 
 
 ## § 3 Mautsätze und Mautberechnung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000305123)
 
 (1) Die geschuldete Maut bestimmt sich nach der auf mautpflichtigen
 Straßen im Sinne des § 1 zurückgelegten Strecke des Fahrzeuges oder
@@ -271,6 +274,7 @@ sein:
 
 
 ## § 3a Knotenpunkte
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001705123)
 
 (1) Ein Knotenpunkt im Sinne dieses Gesetzes ist
 
@@ -314,6 +318,7 @@ Bundesamt für Logistik und Mobilität zu übertragen.
 
 
 ## § 4 Mautentrichtung und Mauterstattung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000411123)
 
 (1) Der Mautschuldner hat die Maut in der sich aus § 3, auch in
 Verbindung mit § 14, ergebenden Höhe spätestens bei Beginn der
@@ -489,12 +494,14 @@ Absatz 5 und 6 entsprechend.
 
 
 ## § 4a Europäischer elektronischer Mautdienst
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002100305)
 
 Das Mautsystem nach diesem Gesetz ist ein elektronisches Mautsystem im
 Sinne des § 1 Absatz 1 des Mautsystemgesetzes.
 
 
 ## § 4b Bundesamt für Logistik und Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002201123)
 
 Vorbehaltlich abweichender Regelungen in diesem Gesetz ist das
 Bundesamt für Logistik und Mobilität für das elektronische Mautsystem
@@ -503,6 +510,7 @@ Mautsystemgesetz.
 
 
 ## § 4c Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002300305)
 
 (1) Für die Zulassung nach § 10 des Mautsystemgesetzes für die nach §
 1 mautpflichtigen Straßen sind
@@ -530,6 +538,7 @@ Pilotbetrieb nach Absatz 1 Nummer 4.
 
 
 ## § 4d Prüfvereinbarung und Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002402123)
 
 (1) Das Bundesamt für Logistik und Mobilität hat mit einem Anbieter,
 der nach § 4 des Mautsystemgesetzes registriert ist und einen Antrag
@@ -597,6 +606,7 @@ Pilotbetriebs nach § 4e Absatz 2 möglich ist.
 
 
 ## § 4e Beschränkte Zulassung und Pilotbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002502123)
 
 (1) Das Bundesamt für Logistik und Mobilität lässt nach § 11 Absatz 1
 des Mautsystemgesetzes einen Anbieter auf Antrag zur Erbringung
@@ -614,6 +624,7 @@ Vorgaben nach § 4f Absatz 1 Nummer 1 bis 3 erfüllt.
 
 
 ## § 4f Zulassung von Anbietern
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002603123)
 
 (1) Das Bundesamt für Logistik und Mobilität lässt nach § 10 Absatz 2
 des Mautsystemgesetzes einen Anbieter auf Antrag zur Mitwirkung bei
@@ -711,6 +722,7 @@ Vertragsparteien erforderlich sind.
 
 
 ## § 4g Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002701123)
 
 (1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung
 der Pflichten der Anbieter aus den Prüfvereinbarungen nach § 4d Absatz
@@ -740,6 +752,7 @@ beschränkten Zulassung haben keine aufschiebende Wirkung.
 
 
 ## § 4h Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002803123)
 
 Das Bundesministerium für Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
@@ -752,6 +765,7 @@ Logistik und Mobilität zu übertragen.
 
 
 ## § 4i Rechtsverordnungen zu Gebietsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002903123)
 
 Das Bundesministerium für Verkehr wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Gebietsvorgaben
@@ -763,6 +777,7 @@ Bundesamt für Logistik und Mobilität zu übertragen.
 
 
 ## § 4j Nutzerlisten
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003004123)
 
 (1) Der Betreiber und die nach § 4e oder § 4f zugelassenen Anbieter
 übermitteln dem Bundesamt für Logistik und Mobilität auf
@@ -851,6 +866,7 @@ haushaltsrechtlichen Aufbewahrungsfristen unverzüglich zu löschen.
 
 
 ## § 5 Nachweispflicht des Mautschuldners
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000506123)
 
 (1) Der Mautschuldner hat auf Verlangen des Betreibers nach § 4 Absatz
 3 Satz 1, eines Anbieters nach § 10 Absatz 1 oder § 11 Absatz 1 des
@@ -880,6 +896,7 @@ festzustellen.
 
 
 ## § 6 Einrichtungen zur Erhebung der Maut
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000602116)
 
 Der Betreiber hat die Einrichtungen für den Betrieb des
 Mauterhebungssystems und für die Feststellung von mautpflichtigen
@@ -894,6 +911,7 @@ zuständig.
 
 
 ## § 7 Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000708123)
 
 (1) Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung
 der Vorschriften dieses Gesetzes. Das Bundesamt für Logistik und
@@ -1071,6 +1089,7 @@ zustehen, bleiben unberührt.
 
 
 ## § 8 Nachträgliche Mauterhebung
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000805123)
 
 (1) Die Maut kann auch nachträglich durch Bescheid von jedem
 Mautschuldner der jeweiligen mautpflichtigen Straßenbenutzung erhoben
@@ -1101,6 +1120,7 @@ bei der Mautentrichtung erfüllt hat.
 
 
 ## § 8a Bekanntgabe von Verwaltungsakten im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001800311)
 
 Ergänzend zu § 41 Absatz 2 des Verwaltungsverfahrensgesetzes gilt für
 die Bekanntgabe von Verwaltungsakten im Ausland § 122 Absatz 2 Nummer
@@ -1108,6 +1128,7 @@ die Bekanntgabe von Verwaltungsakten im Ausland § 122 Absatz 2 Nummer
 
 
 ## § 8b Aufrechnungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003500123)
 
 Gegen Mautforderungen, die durch Verwaltungsakt nach § 7 Absatz 7 Satz
 1 und § 8 Absatz 1 Satz 1 und 3 festgesetzt werden, ist die
@@ -1115,6 +1136,7 @@ Aufrechnung nicht zulässig.
 
 
 ## § 9 Datenlöschung, Statistiken
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE000906123)
 
 (1) Der Betreiber hat die nach § 4 Absatz 3 Satz 3 Nummer 1 bis 9
 gespeicherten Daten unverzüglich zu löschen, wenn ein
@@ -1212,6 +1234,7 @@ gebührenfrei und in standardisierter Form bereitgestellt.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001002123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1249,6 +1272,7 @@ Mobilität.
 
 
 ## § 10a Kostentragungspflicht bei Nichtermittelbarkeit des Führers des Motorfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003600123)
 
 (1) Kann in einem Bußgeldverfahren wegen einer Zuwiderhandlung nach §
 10 Absatz 1 Nummer 1 und 2 der Führer des Motorfahrzeugs, der den
@@ -1267,6 +1291,7 @@ entsprechend.
 
 
 ## § 11 Mautaufkommen
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001107123)
 
 (1) Das Mautaufkommen wird vollständig im Bundeshaushalt vereinnahmt
 und wird abzüglich eines jährlichen Betrages von 150 Millionen Euro
@@ -1325,6 +1350,7 @@ Ausgaben zu berücksichtigen.
 
 
 ## § 12 Beginn der Mauterhebung auf Bundesautobahnen
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001200000)
 
 Der Beginn der Erhebung der Maut auf mautpflichtigen Bundesautobahnen
 richtet sich nach § 12 des Autobahnmautgesetzes für schwere
@@ -1334,6 +1360,7 @@ Mai 2009 (BGBl. I S. 1170) geändert worden ist.
 
 
 ## § 13 Bericht über die erhobenen Mautgebühren
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001304123)
 
 (1) Bis zum 25. März 2025 und anschließend alle fünf Jahre
 veröffentlicht das Bundesministerium für Verkehr in zusammengefasster
@@ -1385,6 +1412,7 @@ Angaben zu enthalten:
 
 
 ## § 13a Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003202123)
 
 (1) Bis zum Ablauf des 30. Juni 2018 sind die §§ 1, 3a und 11 dieses
 Gesetzes in der am 30. März 2017 geltenden Fassung mit der Maßgabe
@@ -1405,6 +1433,7 @@ Rechtsverordnung erhoben werden kann.
 
 
 ## § 14 Alt-Sachverhalte
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001408123)
 
 (1) Für Sachverhalte, die ab dem 1. Juli 2003 und bis zum Ablauf des
 31\. August 2007 entstanden sind, bestimmt sich der Mautsatz abweichend
@@ -1466,9 +1495,11 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001502123)
 
 
 ## Anlage 1 (zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003308123)
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 8 – 9)
 
@@ -1885,6 +1916,7 @@ abweichend von § 3 Absatz 3 nach der Anlage 11.
 
 
 ## Anlage 2 (zu § 14 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001900311)
 
 (Fundstelle: BGBl. I 2013, 2551)
 
@@ -1965,6 +1997,7 @@ Mautsätze im Zeitraum vom 1. Juli 2003 bis zum Ablauf des 31. August
 
 
 ## Anlage 3 (zu § 14 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE002000311)
 
 (Fundstelle: BGBl. I 2013, 2552)
 
@@ -2025,6 +2058,7 @@ Dezember 2008
 (zu § 14 Absatz 3)
 
 ## Anlage 4 Mautsätze im Zeitraum vom 1. Januar 2009 bis zum Ablauf des 31. Dezember 2014
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003100305)
 
 (Fundstelle: BGBl. I 2011, 1383)
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2107,6 +2141,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 14 Absatz 4)
 
 ## Anlage 5 Mautsätze im Zeitraum vom 1. Januar 2015 bis zum Ablauf des 30. September 2015
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE001604123)
 
 (Fundstelle: BGBl. I 2014, 2473 - 2474)
 
@@ -2216,6 +2251,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 6 (zu § 14 Absatz 5) Mautsätze im Zeitraum vom 1. Oktober 2015 bis zum Ablauf des 31. Dezember 2018
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003400124)
 
 (Fundstelle: BGBl. I 2015, 923)
 
@@ -2336,6 +2372,7 @@ Kategorie A zugeordnet, wenn sie über eine Kennzeichnung im Sinne des
 (zu § 14 Absatz 6)
 
 ## Anlage 7 Mautsätze im Zeitraum vom 1. Januar 2019 bis zum Ablauf des 27. Oktober 2020
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003700123)
 
 (Fundstelle: BGBl. I 2021, 1611 - 1612)
 
@@ -2461,6 +2498,7 @@ Kategorie A zugeordnet, wenn sie über eine Kennzeichnung im Sinne des
 (zu § 14 Absatz 7)
 
 ## Anlage 8 Mautsätze im Zeitraum vom 28. Oktober 2020 bis zum Ablauf des 30. September 2021
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003800123)
 
 Fundstelle: BGBl. I 2021, 1612)
 
@@ -2585,6 +2623,7 @@ Fundstelle: BGBl. I 2021, 1612)
 
 
 ## Anlage 9 (zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE003900123)
 
 (Fundstelle: BGBl. I 2022, 2238)
 
@@ -2706,6 +2745,7 @@ Fundstelle: BGBl. I 2021, 1612)
 
 
 ## Anlage 10 (zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE004000123)
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 6 – 7)
 
@@ -2911,6 +2951,7 @@ Fundstelle: BGBl. I 2021, 1612)
 
 
 ## Anlage 11 (zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024
+[Direktlink](https://www.gesetze-im-internet.de/bfstrmg/BJNR137810011.html#BJNR137810011BJNE004100123)
 
 (Fundstelle: BGBl. 2023 I Nr. 315, S. 9 – 11)
 

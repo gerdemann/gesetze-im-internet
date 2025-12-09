@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Bewilligung von Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/postbatzv/BJNR220410015.html#BJNR220410015BJNE000102119)
 
 (1) Den bei der Deutschen Post AG beschäftigten Beamtinnen und
 Beamten, die Anspruch auf Besoldung haben, kann auf Antrag
@@ -89,6 +90,7 @@ Absatz 1 nicht anzuwenden.
 
 
 ## § 2 Post-Altersteilzeitzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/postbatzv/BJNR220410015.html#BJNR220410015BJNE000201119)
 
 (1) Beamtinnen und Beamten, denen Altersteilzeit nach § 1 bewilligt
 worden ist, erhalten einen nicht ruhegehaltfähigen Zuschlag zur

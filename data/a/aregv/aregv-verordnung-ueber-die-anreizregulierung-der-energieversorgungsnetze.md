@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Die V ist gem. Art. 4 V v. 29.10.2007 I 2529 am 6.11.2007 in Kraft getreten
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000202377)
 
 (1) Diese Rechtsverordnung regelt die Bestimmung der Entgelte für den
 Zugang zu den Energieversorgungsnetzen im Wege der Anreizregulierung.
@@ -47,18 +49,22 @@ anzuwenden.
 
 
 ### § 2 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000300000)
 
 Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen
 eingeleitet.
 
 
 ## Teil 2 - Allgemeine Vorschriften zur Anreizregulierung
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000200000)
 
 
 ### Abschnitt 1 - Regulierungsperioden
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000300000)
 
 
 #### § 3 Beginn und Dauer der Regulierungsperioden
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000400000)
 
 (1) Die erste Regulierungsperiode beginnt am 1. Januar 2009. Die
 nachfolgenden Regulierungsperioden beginnen jeweils am 1. Januar des
@@ -69,9 +75,11 @@ folgenden Kalenderjahres.
 
 
 ### Abschnitt 2 - Allgemeine Vorgaben zur Bestimmung der Erlösobergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000400000)
 
 
 #### § 4 Erlösobergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000513377)
 
 (1) Die Erlösobergrenzen werden nach Maßgabe der §§ 5 bis 17, 19, 22
 und 24 bestimmt.
@@ -136,6 +144,7 @@ Kalenderjahres.
 
 
 #### § 5 Regulierungskonto
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000611377)
 
 (1) Die Differenz zwischen den nach § 4 zulässigen Erlösen und den vom
 Netzbetreiber unter Berücksichtigung der tatsächlichen
@@ -205,6 +214,7 @@ Gasnetzentgeltverordnung.
 
 
 #### § 6 Bestimmung des Ausgangsniveaus der Erlösobergrenze und des Kapitalkostenabzugs
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000704377)
 
 (1) Die Regulierungsbehörde ermittelt das Ausgangsniveau für die
 Bestimmung der Erlösobergrenzen durch eine Kostenprüfung nach den
@@ -250,12 +260,14 @@ Investitionen nach dem Basisjahr nicht berücksichtigt.
 
 
 #### § 7 Regulierungsformel
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000802310)
 
 Die Bestimmung der Erlösobergrenzen für die Netzbetreiber erfolgt in
 Anwendung der jeweiligen Regulierungsformel in Anlage 1.
 
 
 #### § 8 Allgemeine Geldwertentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE000900000)
 
 Der Wert für die allgemeine Geldwertentwicklung ergibt sich aus dem
 durch das Statistische Bundesamt veröffentlichten
@@ -267,6 +279,7 @@ Verbraucherpreisgesamtindex für das Basisjahr.
 
 
 #### § 9 Genereller sektoraler Produktivitätsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001002310)
 
 (1) Der generelle sektorale Produktivitätsfaktor wird ermittelt aus
 der Abweichung des netzwirtschaftlichen Produktivitätsfortschritts vom
@@ -300,6 +313,7 @@ Absätzen 2 und 3 mit dem jeweiligen Jahr der Regulierungsperiode.
 
 
 #### § 10 Erweiterungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001102301)
 
 (1) Ändert sich während der Regulierungsperiode die Versorgungsaufgabe
 des Netzbetreibers nachhaltig, wird dies bei der Bestimmung der
@@ -350,6 +364,7 @@ Hochspannungsnetzes unberücksichtigt.
 
 
 #### § 10a Kapitalkostenaufschlag
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004002377)
 
 (1) Die Regulierungsbehörde genehmigt nach Maßgabe der Absätze 2 bis 9
 einen Kapitalkostenaufschlag auf die Erlösobergrenze für
@@ -495,6 +510,7 @@ Satz 2 Nummer 4 der Stromnetzentgeltverordnung oder § 7 Absatz 2 Satz
 
 
 #### § 11 Beeinflussbare und nicht beeinflussbare Kostenanteile
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001223377)
 
 (1) Als nicht beeinflussbare Kostenanteile gelten dauerhaft nicht
 beeinflussbare Kostenanteile und vorübergehend nicht beeinflussbare
@@ -691,6 +707,7 @@ Kostenanteile.
 
 
 #### § 12 Effizienzvergleich
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001301310)
 
 (1) Die Bundesnetzagentur führt vor Beginn der Regulierungsperiode mit
 den in Anlage 3 aufgeführten Methoden, unter Berücksichtigung der in
@@ -755,6 +772,7 @@ in den Effizienzvergleich einzubeziehen.
 
 
 #### § 12a Effizienzbonus
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004100310)
 
 (1) Die Bundesnetzagentur ermittelt für im Effizienzvergleich nach §
 12 als effizient ausgewiesene Netzbetreiber für die Dauer einer
@@ -789,6 +807,7 @@ Fernleitungsnetzen anzuwenden.
 
 
 #### § 13 Parameter für den Effizienzvergleich
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001401310)
 
 (1) Die Regulierungsbehörde hat im Effizienzvergleich
 Aufwandsparameter und Vergleichsparameter zu berücksichtigen.
@@ -860,6 +879,7 @@ und der Verbraucher rechtzeitig zu hören.
 
 
 #### § 14 Bestimmung der Kosten zur Durchführung des Effizienzvergleichs
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001501310)
 
 (1) Die im Rahmen des Effizienzvergleichs als Aufwandsparameter
 anzusetzenden Kosten werden nach folgenden Maßgaben ermittelt:
@@ -912,6 +932,7 @@ Verbraucherpreisgesamtindex zu ermäßigen.
 
 
 #### § 15 Ermittlung der Ineffizienzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001601301)
 
 (1) Weist ein Netzbetreiber nach, dass Besonderheiten seiner
 Versorgungsaufgabe im Sinne des Vorliegens außergewöhnlicher
@@ -942,6 +963,7 @@ beeinflussbaren Kosten.
 
 
 #### § 16 Effizienzvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001701310)
 
 (1) Die Festlegung der Erlösobergrenzen durch die Regulierungsbehörde
 hat so zu erfolgen, dass die nach den §§ 12 und 13 bis 15 ermittelten
@@ -963,9 +985,11 @@ Besonderheiten erfolgt ausschließlich nach Maßgabe des § 15 Abs. 1.
 
 
 ### Abschnitt 3 - Anreizelement zur Verringerung von Engpassmanagementkosten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000502377)
 
 
 #### § 17 Anreizinstrument zur Verringerung von Engpassmanagementkosten der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001804377)
 
 (1) Die Übertragungsnetzbetreiber berechnen den für sie gemeinsam
 geltenden Referenzwert jährlich zum 31. August für das folgende
@@ -1006,9 +1030,11 @@ der gesetzliche Aufteilungsschlüssel nach Absatz 2 Satz 4 mitzuteilen.
 
 
 ### Abschnitt 4 - Qualitätsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000600000)
 
 
 #### § 18 Qualitätsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE001900000)
 
 Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten,
 leistungsfähigen und zuverlässigen Betriebs von
@@ -1017,6 +1043,7 @@ Energieversorgungsnetzen. Hierzu dienen Qualitätselemente nach den §§
 
 
 #### § 19 Qualitätselement in der Regulierungsformel
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002001310)
 
 (1) Auf die Erlösobergrenzen können Zu- oder Abschläge vorgenommen
 werden, wenn Netzbetreiber hinsichtlich der Netzzuverlässigkeit oder
@@ -1047,6 +1074,7 @@ zu befriedigen.
 
 
 #### § 20 Bestimmung des Qualitätselements
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002101377)
 
 (1) Zulässige Kennzahlen für die Bewertung der Netzzuverlässigkeit
 nach § 19 sind insbesondere die Dauer der Unterbrechung der
@@ -1088,6 +1116,7 @@ abzustellen ist.
 
 
 #### § 21 Bericht zum Investitionsverhalten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002200000)
 
 Die Netzbetreiber sind verpflichtet, auf Anforderung der
 Regulierungsbehörde einen Bericht zu ihrem Investitionsverhalten zu
@@ -1104,12 +1133,15 @@ verlangen.
 
 
 ## Teil 3 - Besondere Vorschriften zur Anreizregulierung
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000700000)
 
 
 ### Abschnitt 1 - Betreiber von Übertragungs- und Fernleitungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000800000)
 
 
 #### § 22 Sondervorschriften für den Effizienzvergleich
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002301310)
 
 (1) Bei Betreibern von Übertragungsnetzen ist vor Beginn der
 Regulierungsperiode zur Ermittlung der Effizienzwerte ein
@@ -1180,6 +1212,7 @@ verbessern.
 
 
 #### § 23 Investitionsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002412377)
 
 (1) Die Bundesnetzagentur genehmigt Investitionsmaßnahmen für
 Erweiterungs- und Umstrukturierungsinvestitionen in die Übertragungs-
@@ -1408,9 +1441,11 @@ nach § 11 des Energiewirtschaftsgesetzes notwendig sind. Absatz 1 Satz
 
 
 ### Abschnitt 2 - Besondere Vorschriften für kleine Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG000900000)
 
 
 #### § 24 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002504377)
 
 (1) Netzbetreiber, an deren Gasverteilernetz weniger als 15 000 Kunden
 oder an deren Elektrizitätsverteilernetz weniger als 30 000 Kunden
@@ -1461,14 +1496,17 @@ Landesregulierungsbehörde zu unterrichten.
 
 
 ### Abschnitt 3 - Forschungs- und Entwicklungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG001002310)
 
 
 #### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002601310)
 
 -
 
 
 #### § 25a Forschungs- und Entwicklungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003903377)
 
 (1) Auf Antrag des Netzbetreibers ist von der Regulierungsbehörde ein
 Zuschlag für Kosten aus Forschung und Entwicklung in die
@@ -1518,9 +1556,11 @@ ausgestellten Bescheid bei der Regulierungsbehörde vorzulegen.
 
 
 ### Abschnitt 4 - Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG001100000)
 
 
 #### § 26 Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002702377)
 
 (1) Wird ein Energieversorgungsnetz oder werden mehrere
 Energieversorgungsnetze, für das oder die jeweils eine oder mehrere
@@ -1616,9 +1656,11 @@ entsprechend anzuwenden.
 
 
 ## Teil 4 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG001200000)
 
 
 ### § 27 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002805377)
 
 Die Regulierungsbehörde ermittelt die zur Bestimmung der
 Erlösobergrenzen nach Teil 2 und 3 notwendigen Tatsachen. Hierzu
@@ -1674,6 +1716,7 @@ ermittelt sie insbesondere die erforderlichen Tatsachen
 
 
 ### § 28 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE002905377)
 
 Die Netzbetreiber teilen der Regulierungsbehörde mit
 
@@ -1731,6 +1774,7 @@ Gasverteilernetzes bezogen auf Bundesländer mitzuteilen.
 
 
 ### § 29 Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003002310)
 
 (1) Die Bundesnetzagentur und die Landesregulierungsbehörden
 übermitteln einander die zur Durchführung ihrer Aufgaben nach den
@@ -1757,6 +1801,7 @@ Aufgabenerfüllung der Landesregulierungsbehörden erforderlich sind.
 
 
 ### § 30 Fehlende oder unzureichende Daten
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003100000)
 
 Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1,
 insbesondere für die Anwendung der Regulierungsformel nach § 7 und zur
@@ -1771,10 +1816,12 @@ Regulierungsbehörde vorhandenen oder ihr bekannten Daten bestimmen. §
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003205377)
 
 
 
 ### § 32 Festlegungen oder Genehmigungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003308377)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -1892,13 +1939,16 @@ Verteilernetzbetreibern beruht.
 
 
 ### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003408377)
 
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNG001300000)
 
 
 ### § 34 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003509377)
 
 (1) Mehr- oder Mindererlöse nach § 10 der Gasnetzentgeltverordnung
 oder § 11 der Stromnetzentgeltverordnung werden in der ersten
@@ -2121,6 +2171,7 @@ Verordnung in den zulässigen Erlösen nach § 4 berücksichtigt wurden.
 
 
 ### § 34a Ergänzende Übergangsregelungen für Kapitalkosten der Betreiber von Energieverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004400377)
 
 (1) Die Regulierungsbehörde genehmigt für die Dauer der vierten
 Regulierungsperiode auf Antrag eines Verteilernetzbetreibers eine
@@ -2182,6 +2233,7 @@ Erlösobergrenze berücksichtigt und diese entsprechend angepasst.
 Ergänzende Übergangsregelungen für Kapitalkosten der Betreiber
 
 ### § 35 von Übertragungs- und Fernleitungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004500377)
 
 (1) § 23 Absatz 1 bis 5 ist für Übertragungs- und
 Fernleitungsnetzbetreiber ab der fünften Regulierungsperiode nicht
@@ -2274,6 +2326,7 @@ genehmigt wurde.
 
 
 ### Anlage 1 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003605377)
 
 (Fundstelle: BGBl. I 2011, 3035;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2461,6 +2514,7 @@ Das Basisjahr bestimmt sich jeweils nach Maßgabe des § 6 Absatz 1.
 
 
 ### Anlage 2 (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003701301)
 
 (Fundstelle: BGBl. I 2007, 2542)
 Die Ermittlung eines Erweiterungsfaktors nach § 10 erfolgt nach der
@@ -2516,6 +2570,7 @@ Mittelwert über alle Netzebenen.
 
 
 ### Anlage 2a (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004202377)
 
 (Fundstelle: BGBl. I 2016, 2155;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2733,6 +2788,7 @@ fortgeführten Kapitalkosten die folgenden Grundsätze anzuwenden:
 
 
 ### Anlage 3 (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE003801310)
 
 (Fundstelle: BGBl. I 2007, 2543)
 
@@ -2823,6 +2879,7 @@ fortgeführten Kapitalkosten die folgenden Grundsätze anzuwenden:
 
 
 ### Anlage 4 (zu § 26)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004300310)
 
 (Fundstelle: BGBl. I 2016, 2157)
 
@@ -2874,6 +2931,7 @@ t   Die in der nach § 32 Absatz 1 Nummer 1 ursprünglich für den abgebenden
 
 
 ### Anlage 5 (zu § 17 Absatz 1 und 2)
+[Direktlink](https://www.gesetze-im-internet.de/aregv/BJNR252910007.html#BJNR252910007BJNE004600377)
 
 (Fundstelle: BGBl. I 2021, 3234)
 

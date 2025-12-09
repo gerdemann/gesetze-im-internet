@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 96-1-55 v. 15.9.2019 I 1402 (LuftVGBV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000100000)
 
 Das Bundesministerium der Verteidigung verordnet auf Grund
 
@@ -37,6 +38,7 @@ Das Bundesministerium der Verteidigung verordnet auf Grund
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000200000)
 
 (1) Im Sinne dieser Verordnung sind Luftfahrtgeräte
 
@@ -66,6 +68,7 @@ Luftfahrtgeräte auf Vollständigkeit und Konsistenz geprüft.
 
 
 ## § 2 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000300000)
 
 Die Übertragung der in § 4 aufgeführten hoheitlichen Aufgaben zur
 selbstständigen Wahrnehmung in den Handlungsformen des öffentlichen
@@ -74,6 +77,7 @@ Verwaltungsakt des Luftfahrtamtes der Bundeswehr.
 
 
 ## § 3 Voraussetzungen für die Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000400000)
 
 (1) Beliehen werden kann eine juristische Person des privaten Rechts
 nur, wenn sie durch das Luftfahrtamt der Bundeswehr als
@@ -86,6 +90,7 @@ Luftfahrtamt der Bundeswehr in Verwaltungsvorschriften.
 
 
 ## § 4 Gegenstand der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000500000)
 
 (1) Die Beleihung von juristischen Personen des privaten Rechts, die
 Luftfahrtgeräte herstellen, umfasst die Durchführung der Stückprüfung
@@ -101,6 +106,7 @@ Luftfahrtgeräten auf dem Nachprüfschein.
 
 
 ## § 5 Widerruf der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000600000)
 
 Die Beleihung ist zu widerrufen, wenn
 
@@ -118,6 +124,7 @@ Die Beleihung ist zu widerrufen, wenn
 
 
 ## § 6 Höchstbetrag für den Rückgriff bei der beliehenen juristischen Person des privaten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000700000)
 
 (1) Wird die Bundesrepublik Deutschland von einem Dritten wegen eines
 Schadens in Anspruch genommen, den eine beliehene juristische Person
@@ -184,6 +191,7 @@ sonstiger Weise ausgeschlossen oder in der Höhe beschränkt werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvgbv_2024/BJNR14E0A0024.html#BJNR14E0A0024BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die LuftVG-Beleihungsverordnung vom 15. September

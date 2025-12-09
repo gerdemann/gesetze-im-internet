@@ -97,15 +97,18 @@ Stand: Gem. § 14 Abs. 2 Satz 1 treten die §§ 1 bis 10 mit Ausnahme des § 5 A
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) §§ 1 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE000201000)
 
 
 ## § 5 Maßgaben für die Anwendung des Bundes-Immissionsschutzgesetzes und der Industriekläranlagen-Zulassungs- und Überwachungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE000605377)
 
 (1) (weggefallen)
 
@@ -158,9 +161,11 @@ ist.
 
 
 ## (XXXX) §§ 6 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE000701000)
 
 
 ## § 9 Beschleunigte Vergabe- und Nachprüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001001000)
 
 (1)(außer Kraft)
 
@@ -292,9 +297,11 @@ Geltendmachung von Schadensersatzansprüchen.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001101000)
 
 
 ## § 11 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001201311)
 
 (1) Widerspruch und Anfechtungsklage gegen eine Zulassungsentscheidung
 für die Vorhaben nach § 2 sowie gegen die Entscheidung über den
@@ -319,6 +326,7 @@ Beschwerte von den Tatsachen Kenntnis erlangt.
 
 
 ## § 12 Zuständigkeit des Bundesverwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001300000)
 
 Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug über sämtliche Streitigkeiten über Vorhaben nach § 2. Satz 1
@@ -337,6 +345,7 @@ ist auch anzuwenden für
 
 
 ## § 13 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001402377)
 
 (1) Die Regelungen dieses Gesetzes sind auf bereits vor Inkrafttreten
 dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren
@@ -382,6 +391,7 @@ anzuwenden.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001501377)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
@@ -391,6 +401,7 @@ tritt mit Ablauf des 30. Juni 2027 außer Kraft.
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html#BJNR080200022BJNE001602377)
 
 (Fundstelle: BGBl. I 2022, 809;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

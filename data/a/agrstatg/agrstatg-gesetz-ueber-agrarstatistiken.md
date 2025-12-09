@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000106160)
 
 
 
 ### § 1 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE002810377)
 
 Nach Maßgabe dieses Gesetzes werden folgende Agrarstatistiken als
 Bundesstatistiken durchgeführt:
@@ -68,18 +70,22 @@ Bundesstatistiken durchgeführt:
 
 
 ## Teil 2 - Agrarstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000207160)
 
 
 
 ### Abschnitt 1 - Bodennutzungserhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000306160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000406160)
 
 
 
 ##### § 2 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE002907377)
 
 Die Bodennutzungserhebung umfasst folgende Einzelerhebungen:
 
@@ -108,10 +114,12 @@ Die Bodennutzungserhebung umfasst folgende Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Flächenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000506160)
 
 
 
 ##### § 3 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003006130)
 
 Erhebungseinheiten der Flächenerhebung sind die merkmalstragenden
 Flächenobjekte in den Datenbeständen der nach Landesrecht für die
@@ -120,6 +128,7 @@ erforderlicher amtlicher Unterlagen zuständigen Stellen.
 
 
 ##### § 4 Erhebungsart, Periodizität, Berichtszeitpunkt, Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003110130)
 
 (1) Die Flächenerhebung wird allgemein jährlich zum Berichtszeitpunkt
 31\. Dezember des Vorjahres durchgeführt. Sie erfolgt auf der Grundlage
@@ -133,15 +142,18 @@ Eigenschaften eines Flächenobjekts.
 
 
 ##### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003206160)
 
 -
 
 
 #### Unterabschnitt 3 - Bodennutzungshaupterhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000606160)
 
 
 
 ##### § 6 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003311130)
 
 Erhebungseinheiten der Bodennutzungshaupterhebung sind:
 
@@ -156,6 +168,7 @@ Erhebungseinheiten der Bodennutzungshaupterhebung sind:
 
 
 ##### § 7 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003412130)
 
 (1) Die Bodennutzungshaupterhebung wird in der Zeit von Januar bis Mai
 durchgeführt:
@@ -180,6 +193,7 @@ Agrarstrukturerhebung.
 
 
 ##### § 8 Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003510160)
 
 (1) Erhebungsmerkmale der Bodennutzungshaupterhebung sind die Nutzung
 der Flächen nach Hauptnutzungsarten und Nutzungszweck, Kulturarten,
@@ -194,10 +208,12 @@ Vorjahres bis Mai des laufenden Jahres.
 
 
 #### Unterabschnitt 4 - Zierpflanzenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000707377)
 
 
 
 ##### § 9 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003609377)
 
 Erhebungseinheiten der Zierpflanzenerhebung sind die Betriebe nach §
 91 Absatz 1, deren Flächen, auf denen Blumen oder Zierpflanzen oder
@@ -207,12 +223,14 @@ Schutzabdeckungen betragen.
 
 
 ##### § 10 Erhebungsart, Periodizität, Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003710360)
 
 Die Zierpflanzenerhebung wird allgemein im Jahr 2012, im Jahr 2017 und
 dann alle vier Jahre in der Zeit von Juli bis Oktober durchgeführt.
 
 
 ##### § 11 Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003809377)
 
 (1) Erhebungsmerkmale der Zierpflanzenerhebung sind
 
@@ -251,10 +269,12 @@ Vorjahres bis Juni des laufenden Jahres.
 
 
 #### Unterabschnitt 5 - Gemüseerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000807377)
 
 
 
 ##### § 11a Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013400377)
 
 Erhebungseinheiten der Gemüseerhebung sind die Betriebe nach § 91
 Absatz 1
@@ -271,6 +291,7 @@ Absatz 1
 
 
 ##### § 11b Erhebungsart, Periodizität, Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013500377)
 
 (1) Die Gemüseerhebung wird durchgeführt:
 
@@ -309,6 +330,7 @@ Monate Januar und Februar des Folgejahres.
 
 
 ##### § 11c Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013600377)
 
 (1) Erhebungsmerkmale der Gemüseerhebung sind
 
@@ -355,10 +377,12 @@ Auskunftserteilung.
 
 
 #### Unterabschnitt 6 - Baumschulerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG005000377)
 
 
 
 ##### § 12 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE003909377)
 
 Erhebungseinheiten der Baumschulerhebung (Baumschulen) sind die
 Betriebe nach § 91 Absatz 1 mit Baumschulflächen von mindestens 0,5
@@ -366,6 +390,7 @@ Hektar; nicht mit einzubeziehen sind Pflanzgärten in Forstbetrieben.
 
 
 ##### § 13 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004008360)
 
 Die Baumschulerhebung wird allgemein in den Jahren 2004, 2008, 2012,
 2017 und dann alle vier Jahre in der Zeit von Juli bis August
@@ -374,6 +399,7 @@ erhoben.
 
 
 ##### § 14 Erhebungsmerkmale und Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004107160)
 
 (1) Erhebungsmerkmale der Baumschulerhebung sind die Baumschulfläche
 insgesamt und nach Pflanzengruppen und Vermehrungsmerkmalen sowie die
@@ -384,16 +410,19 @@ Auskunftserteilung.
 
 
 #### Unterabschnitt 7 - Baumobstanbauerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG000908377)
 
 
 
 ##### § 15 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004209377)
 
 Erhebungseinheiten der Baumobstanbauerhebung sind die Betriebe nach §
 91 Absatz 1, deren Baumobstflächen mindestens 0,5 Hektar betragen.
 
 
 ##### § 16 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004306160)
 
 Die Baumobstanbauerhebung wird allgemein alle fünf Jahre, beginnend
 1992, in der Zeit von Januar bis Juni durchgeführt. Es werden Merkmale
@@ -401,6 +430,7 @@ Die Baumobstanbauerhebung wird allgemein alle fünf Jahre, beginnend
 
 
 ##### § 17 Erhebungsmerkmale und Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004407360)
 
 (1) Erhebungsmerkmale der Baumobstanbauerhebung sind:
 
@@ -422,10 +452,12 @@ Auskunftserteilung.
 
 
 #### Unterabschnitt 8 - Strauchbeerenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG005100377)
 
 
 
 ##### § 17a Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013700377)
 
 Erhebungseinheiten der Strauchbeerenerhebung sind die Betriebe nach §
 91 Absatz 1 mit Strauchbeerenflächen von mindestens 0,5 Hektar im
@@ -434,6 +466,7 @@ Schutzabdeckungen.
 
 
 ##### § 17b Erhebungsart, Periodizität, Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013800377)
 
 Die Strauchbeerenerhebung wird allgemein jährlich, beginnend 2012, in
 der Zeit von September bis Dezember durchgeführt. In den Ländern
@@ -441,6 +474,7 @@ Berlin und Bremen wird die Erhebung nicht durchgeführt.
 
 
 ##### § 17c Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013900377)
 
 (1) Erhebungsmerkmale der Strauchbeerenerhebung sind
 
@@ -471,10 +505,12 @@ Auskunftserteilung.
 
 
 ### Abschnitt 2 - Erhebung über die Viehbestände
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001008160)
 
 
 
 #### § 18 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004510377)
 
 (1) Erhebungseinheiten der Erhebung über die Viehbestände sind die
 Betriebe nach § 91 Absatz 1a Nummer 1 mit Tierbeständen, die für die
@@ -488,6 +524,7 @@ Eigentum oder die sonstigen Rechtsgründe des Besitzes.
 
 
 #### § 19 Erhebungsart, Periodizität, Berichtszeitpunkt, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004610160)
 
 (1) Die Erhebung über die Viehbestände wird in jedem Jahr
 durchgeführt:
@@ -520,6 +557,7 @@ durchgeführt:
 
 
 #### § 20 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004707160)
 
 Erhebungsmerkmale der Erhebung über die Viehbestände sind:
 
@@ -536,6 +574,7 @@ Erhebungsmerkmale der Erhebung über die Viehbestände sind:
 
 
 #### § 20a Besondere Vorschriften zur Erhebung der Rinderbestände
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013104377)
 
 (1) Liegen bundesweit die Erhebungsmerkmale für die Bestände an
 Rindern als Daten, die von Verwaltungsstellen auf Grund
@@ -570,22 +609,27 @@ Anwendung:
 
 
 ### Abschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001107160)
 
 
 
 #### (XXXX) §§ 21 bis 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE004807160)
 
 
 
 ### Abschnitt 4 - Strukturerhebungen in land- und forstwirtschaftlichen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001208119)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001307119)
 
 
 
 ##### § 24 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005108119)
 
 (1) Die Strukturerhebungen umfassen folgende Einzelerhebungen:
 
@@ -603,21 +647,25 @@ zugeordnet werden, die mindestens 100 Hektar groß sind.
 
 
 #### Unterabschnitt 2 - Agrarstrukturerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004906119)
 
 
 
 ##### § 25 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005212119)
 
 Erhebungseinheiten der Agrarstrukturerhebung sind die Betriebe nach §
 91 Absatz 1a Nummer 1.
 
 
 ##### § 26 Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005312130)
 
 Die Agrarstrukturerhebung wird im ersten Halbjahr 2023 durchgeführt.
 
 
 ##### § 27 Erhebungsart und Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005413130)
 
 (1) Die Erhebung wird als Stichprobe bei höchstens 80 000
 Erhebungseinheiten, in den Ländern Berlin, Bremen und Hamburg jedoch
@@ -963,6 +1011,7 @@ Buchstabe a gilt § 20a Absatz 1 und 2 Nummer 3 entsprechend.
 
 
 ##### § 28 Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005511130)
 
 (1) Der Berichtszeitraum ist für
 
@@ -1013,10 +1062,12 @@ ersten Aufforderung zur Auskunftserteilung.
 
 
 #### Unterabschnitt 3 - Strukturerhebung der Forstbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001808119)
 
 
 
 ##### § 29 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005611119)
 
 Erhebungseinheiten der Strukturerhebung der Forstbetriebe sind die
 Betriebe nach § 91 Absatz 1a Nummer 2, sofern sie keine der in § 91
@@ -1024,12 +1075,14 @@ Absatz 1a Nummer 1 genannten Bedingungen erfüllen.
 
 
 ##### § 30 Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005710119)
 
 Die Strukturerhebung der Forstbetriebe wird im ersten Halbjahr 2022
 und dann alle fünf Jahre durchgeführt.
 
 
 ##### § 31 Erhebungsart und Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013303119)
 
 (1) Die Strukturerhebung der Forstbetriebe wird allgemein
 durchgeführt.
@@ -1049,12 +1102,14 @@ durchgeführt.
 
 
 ##### § 32 Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE005910119)
 
 Der Berichtszeitpunkt für die Erhebungsmerkmale nach § 31 Absatz 2 ist
 der Tag der ersten Aufforderung zur Auskunftserteilung.
 
 
 ##### § 33 Besondere Vorschrift zur Verwendung von Verwaltungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE006009119)
 
 (1) Liegen Verwaltungsdaten zu den Erhebungsmerkmalen nach § 31 Absatz
 2 mit Ausnahme der Angabe zu den Lagekoordinaten bundesweit in
@@ -1089,18 +1144,22 @@ Anwendung:
 
 
 ##### (XXXX) §§ 34 bis 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE006010119)
 
 
 
 ### Abschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG001707160)
 
 
 
 ### Abschnitt 6 - Ernteerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002306160)
 
 
 
 #### § 44 Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007108160)
 
 Die Ernteerhebung umfasst:
 
@@ -1114,11 +1173,13 @@ Die Ernteerhebung umfasst:
 
 
 #### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007206160)
 
 -
 
 
 #### § 46 Ernte- und Betriebsberichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007313360)
 
 (1) Die Ernte- und Betriebsberichterstattung wird in jedem Jahr, außer
 in den Ländern Berlin und Bremen, in den Monaten April bis Dezember
@@ -1164,6 +1225,7 @@ Weinmost einbezogen werden.
 
 
 #### § 47 Besondere Ernte- und Qualitätsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007414360)
 
 (1) Die Besondere Ernte- und Qualitätsermittlung wird in jedem Jahr,
 außer in den Ländern Berlin, Bremen und Hamburg, auf höchstens 10 000
@@ -1190,14 +1252,17 @@ Satz 1 pseudonymisierte Proben der einbezogenen Pflanzenarten.
 
 
 ### Abschnitt 7 - Geflügelstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002606160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002706160)
 
 
 
 ##### § 48 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008505160)
 
 Die Geflügelstatistik umfasst folgende Einzelerhebungen:
 
@@ -1214,10 +1279,12 @@ Die Geflügelstatistik umfasst folgende Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Erhebung in Brütereien
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002806160)
 
 
 
 ##### § 49 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008605160)
 
 Erhebungseinheiten sind die Brütereien mit einem Fassungsvermögen von
 mindestens 1 000 Eiern ausschließlich des Schlupfraumes. Die
@@ -1227,6 +1294,7 @@ Land, in dem sie einen Betrieb haben, gesondert zu melden.
 
 
 ##### § 50 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008706160)
 
 Die Erhebung in Brütereien wird allgemein in jedem Monat durchgeführt.
 Es werden Merkmale über die Bruteiereinlagen und die Kükenerzeugung
@@ -1234,6 +1302,7 @@ erhoben.
 
 
 ##### § 51 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008806160)
 
 (1) Erhebungsmerkmale der Erhebung in Brütereien sind:
 
@@ -1254,10 +1323,12 @@ Nummer 1 ist der jeweilige Monat, für das Erhebungsmerkmal nach Absatz
 
 
 #### Unterabschnitt 3 - Erhebung in Unternehmen mit Hennenhaltung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002906160)
 
 
 
 ##### § 52 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008905160)
 
 Erhebungseinheiten sind Unternehmen mit mindestens 3 000
 Hennenhaltungsplätzen. Die Unternehmen geben ihre Meldung
@@ -1267,6 +1338,7 @@ haben, gesondert zu melden.
 
 
 ##### § 53 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009006160)
 
 Die Erhebung in Unternehmen mit Hennenhaltung wird allgemein in jedem
 Monat durchgeführt. Es werden Merkmale über Hennenhaltung und
@@ -1274,6 +1346,7 @@ Eiererzeugung erhoben.
 
 
 ##### § 54 Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009107360)
 
 (1) Erhebungsmerkmale der Erhebung in Unternehmen mit Hennenhaltung
 sind die Zahl der vorhandenen Hennenhaltungsplätze, die Zahl der
@@ -1287,10 +1360,12 @@ erzeugten Eier ist der jeweilige Vormonat.
 
 
 #### Unterabschnitt 4 - Erhebung in Geflügelschlachtereien
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003006160)
 
 
 
 ##### § 55 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009209119)
 
 Erhebungseinheiten der Erhebung in Geflügelschlachtereien sind die
 Schlachtereien, die
@@ -1328,12 +1403,14 @@ Land, in dem sie einen Betrieb haben, gesondert zu melden.
 
 
 ##### § 56 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009306160)
 
 Die Erhebung in Geflügelschlachtereien wird allgemein in jedem Monat
 durchgeführt. Es werden Merkmale über Geflügelschlachtungen erhoben.
 
 
 ##### § 57 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009407160)
 
 (1) Erhebungsmerkmale der Erhebung in Geflügelschlachtereien sind die
 Zahl und das Schlachtgewicht des geschlachteten Geflügels nach Art,
@@ -1344,14 +1421,17 @@ der jeweilige Monat.
 
 
 ### Abschnitt 8 - Schlachtungs- und Schlachtgewichtsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003106160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003206160)
 
 
 
 ##### § 58 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009505160)
 
 Die Schlachtungs- und Schlachtgewichtsstatistik umfasst folgende
 Einzelerhebungen:
@@ -1366,10 +1446,12 @@ Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Erhebung über Schlachtungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003306160)
 
 
 
 ##### § 59 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009610130)
 
 Die Erhebung über Schlachtungen wird allgemein in jedem Monat
 durchgeführt. Erhoben werden die Merkmale über die Schlachtungen von
@@ -1408,6 +1490,7 @@ Fassung zur amtlichen Untersuchung angemeldet worden sind.
 
 
 ##### § 60 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009705160)
 
 (1) Erhebungsmerkmale der Schlachtungsstatistik sind die Zahl der in §
 59 genannten Tiere nach Herkunft, Tierart und Kategorie, Art der
@@ -1418,10 +1501,12 @@ der jeweilige Monat.
 
 
 #### Unterabschnitt 3 - Schlachtgewichtsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003406160)
 
 
 
 ##### § 61 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009808160)
 
 Die Schlachtgewichtsstatistik wird allgemein in jedem Monat
 durchgeführt. Es werden Merkmale über Schlachtgewichte von Rindern und
@@ -1431,6 +1516,7 @@ erstattenden Meldungen erhoben.
 
 
 ##### § 62 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE009905160)
 
 (1) Erhebungsmerkmale der Schlachtgewichtsstatistik sind das
 Gesamtschlachtgewicht und die Zahl der in § 61 genannten Tiere nach
@@ -1441,10 +1527,12 @@ der jeweilige Monat.
 
 
 ### Abschnitt 9 - Milchstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003506160)
 
 
 
 #### § 63 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010006160)
 
 Die Milchstatistik wird allgemein in jedem Monat durchgeführt. Es
 werden Merkmale über die Erzeugung von Milch auf Grund der nach der
@@ -1454,6 +1542,7 @@ erhoben.
 
 
 #### § 64 Erhebungsmerkmal und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010106160)
 
 (1) Erhebungsmerkmal der Milchstatistik ist die angelieferte
 Milchmenge nach Kreisen.
@@ -1463,6 +1552,7 @@ der jeweilige Monat.
 
 
 #### § 65 Ergänzende Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010206160)
 
 Die Differenz zwischen angelieferter und erzeugter Milchmenge sowie
 die Verwendung der Milch beim Erzeuger jeweils nach Kreisen werden
@@ -1470,14 +1560,17 @@ durch die Bundesanstalt für Landwirtschaft und Ernährung geschätzt.
 
 
 ### Abschnitt 10 - Fischerei- und Aquakulturstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003607377)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG005200377)
 
 
 
 ##### § 65a Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE014000377)
 
 Die Fischerei- und Aquakulturstatistik umfasst folgende
 Einzelerhebungen:
@@ -1492,10 +1585,12 @@ Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Hochsee- und Küstenfischereistatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG005300377)
 
 
 
 ##### § 66 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010306160)
 
 Erhebungseinheiten der Hochsee- und Küstenfischereistatistik sind die
 Fischereibetriebe, die Seefischmärkte, die
@@ -1504,6 +1599,7 @@ und Fischverarbeitung.
 
 
 ##### § 67 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010406160)
 
 Die Hochsee- und Küstenfischereistatistik wird allgemein in jedem
 Monat durchgeführt. Es werden Merkmale über die Fangreise und die
@@ -1511,6 +1607,7 @@ Fangergebnisse von Fischen erhoben.
 
 
 ##### § 68 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010506160)
 
 (1) Erhebungsmerkmale der Hochsee- und Küstenfischereistatistik bei
 Anlandungen deutscher Fischereifahrzeuge innerhalb und außerhalb des
@@ -1550,10 +1647,12 @@ der jeweilige Monat.
 
 
 #### Unterabschnitt 3 - Aquakulturstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG005400377)
 
 
 
 ##### § 68a Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE014101119)
 
 Erhebungseinheiten der Aquakulturstatistik sind die Betriebe, die
 Aquakultur im Sinne von Artikel 4 Absatz 1 Nummer 25 der Verordnung
@@ -1585,6 +1684,7 @@ einbezogen, die
 
 
 ##### § 68b Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE014200377)
 
 (1) Die Aquakulturstatistik wird jährlich, beginnend 2012,
 durchgeführt:
@@ -1643,14 +1743,17 @@ das dem Erhebungsjahr vorausgehende Kalenderjahr.
 
 
 ### Abschnitt 11 - Weinstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003706160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003806160)
 
 
 
 ##### § 69 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010605160)
 
 Die Weinstatistik umfasst folgende Einzelerhebungen:
 
@@ -1670,15 +1773,18 @@ Die Weinstatistik umfasst folgende Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Rebflächenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG003906160)
 
 
 
 ##### § 70 Erhebungsart und Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010707160)
 
 Die Rebflächenerhebung wird allgemein in jedem Jahr durchgeführt.
 
 
 ##### § 71 Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010809360)
 
 (1) Erhebungsmerkmale der Rebflächenerhebung sind
 
@@ -1705,10 +1811,12 @@ Nummer 2 ist jeweils der 31. Juli.
 
 
 #### Unterabschnitt 3 - Ernteerhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004006160)
 
 
 
 ##### § 72 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE010907377)
 
 Die Ernteerhebung wird allgemein jährlich durchgeführt. Es werden
 Merkmale über die Traubenernte erhoben. Erhebungszeitpunkt ist
@@ -1716,6 +1824,7 @@ spätestens der 15. Januar des Folgejahres.
 
 
 ##### § 73 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011007377)
 
 (1) Erhebungsmerkmale der Ernteerhebung sind die geerntete
 Traubenmenge nach Rebsorten, Art der Rebfläche und Bestimmung der
@@ -1736,10 +1845,12 @@ Erhebungszeitpunkt.
 
 
 #### Unterabschnitt 4 - Erhebung der Erzeugung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004106160)
 
 
 
 ##### § 74 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011108377)
 
 Die Erhebung der Erzeugung wird allgemein jährlich durchgeführt. Es
 werden Merkmale über die Weinerzeugung erhoben. Erhebungszeitpunkt ist
@@ -1747,6 +1858,7 @@ spätestens der 15. Januar des Folgejahres.
 
 
 ##### § 75 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011207377)
 
 (1) Erhebungsmerkmale sind die Art der zur Erzeugung von Wein oder
 Most verwendeten Erzeugnisse, die Erzeugung, untergliedert nach
@@ -1759,10 +1871,12 @@ Erhebungszeitpunkt.
 
 
 #### Unterabschnitt 5 - Bestandserhebung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004207160)
 
 
 
 ##### § 75a Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012905160)
 
 Erhebungseinheiten der Bestandserhebung sind:
 
@@ -1782,6 +1896,7 @@ soweit sie zum Berichtszeitpunkt über einen Weinbestand von mindestens
 
 
 ##### § 76 Erhebungsart, Periodizität, Merkmale, Erhebungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011306160)
 
 Die Bestandserhebung wird allgemein in jedem Jahr durchgeführt. Es
 werden Merkmale über Weinbestände erhoben. Erhebungszeitpunkt ist
@@ -1789,6 +1904,7 @@ spätestens der 7. August eines jeden Jahres.
 
 
 ##### § 77 Erhebungsmerkmale und Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011407377)
 
 (1) Erhebungsmerkmale der Bestandserhebung sind die Bestände an Wein
 und Traubenmost, jeweils untergliedert nach roten und weißen Trauben
@@ -1807,14 +1923,17 @@ jeweils der 31. Juli.
 
 
 ### Abschnitt 12 - Holzstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004306160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004406160)
 
 
 
 ##### § 78 Einzelerhebungen
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011505160)
 
 Die Holzstatistik umfasst folgende Einzelerhebungen:
 
@@ -1828,16 +1947,19 @@ Die Holzstatistik umfasst folgende Einzelerhebungen:
 
 
 #### Unterabschnitt 2 - Erhebung in forstlichen Erzeugerbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004506160)
 
 
 
 ##### § 79 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011606160)
 
 Erhebungseinheiten der Erhebung in forstlichen Erzeugerbetrieben sind
 die Betriebe, die Rohholz erzeugen.
 
 
 ##### § 80 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011709160)
 
 (1) Die Erhebung in forstlichen Erzeugerbetrieben wird als Stichprobe
 bei höchstens 15 000 Erhebungseinheiten jährlich durchgeführt. Es
@@ -1849,6 +1971,7 @@ ihnen zu bestimmenden Stellen geschätzt werden.
 
 
 ##### § 81 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011809130)
 
 (1) Erhebungsmerkmale der Erhebung in forstlichen Erzeugerbetrieben
 sind der Einschlag und die Einschlagsursache nach Holzarten und
@@ -1859,10 +1982,12 @@ jeweilige Kalenderjahr.
 
 
 #### Unterabschnitt 3 - Erhebung in Betrieben der Holzbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004606160)
 
 
 
 ##### § 82 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE011907160)
 
 Erhebungseinheiten sind Betriebe mit mindestens 20 Beschäftigten, in
 denen Erzeugnisse des holzbearbeitenden Gewerbes hergestellt werden.
@@ -1871,6 +1996,7 @@ Beschäftigten.
 
 
 ##### § 83 Erhebungsart, Periodizität, Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012008160)
 
 Die Erhebung in Betrieben der Holzbearbeitung wird allgemein jährlich
 durchgeführt. Es werden Merkmale über Rohholz und Erzeugnisse des
@@ -1878,6 +2004,7 @@ holzbearbeitenden Gewerbes erhoben.
 
 
 ##### § 84 Erhebungsmerkmale und Berichtszeit
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012108160)
 
 (1) Erhebungsmerkmale der Erhebung in Betrieben der Holzbearbeitung
 sind die Zugänge, Abgänge und Bestände an Rohholz und Erzeugnissen des
@@ -1889,18 +2016,22 @@ ist das Ende des jeweiligen Kalenderjahres.
 
 
 ### Abschnitt 13 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004707160)
 
 
 
 #### (XXXX) §§ 85 bis 87 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012206160)
 
 
 
 ### Abschnitt 14 - Düngemittelstatistik
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG004806160)
 
 
 
 #### § 88 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012507130)
 
 Erhebungseinheiten der Düngemittelstatistik sind die Unternehmen, die
 im Geltungsbereich dieses Gesetzes erstmals in Verkehr bringen
@@ -1915,6 +2046,7 @@ im Geltungsbereich dieses Gesetzes erstmals in Verkehr bringen
 
 
 #### § 89 Erhebungsart, Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012607130)
 
 Die Düngemittelstatistik wird allgemein durchgeführt, und zwar
 
@@ -1929,6 +2061,7 @@ Die Düngemittelstatistik wird allgemein durchgeführt, und zwar
 
 
 #### § 90 Erhebungsmerkmale und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012707130)
 
 (1) Erhebungsmerkmale der Düngemittelstatistik sind der Inlandsabsatz
 von
@@ -1950,10 +2083,12 @@ Kalenderjahr.
 
 
 ## Teil 3 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNG002407160)
 
 
 
 ### § 91 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007515119)
 
 (1) Soweit auf diese Vorschrift verwiesen wird, sind Betriebe
 landwirtschaftliche Betriebe im Sinne von Artikel 2 Buchstabe a der
@@ -2049,6 +2184,7 @@ Erhebungseinheiten nach mathematisch-statistischen Auswahlverfahren.
 
 
 ### § 92 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007615130)
 
 Hilfsmerkmale sind:
 
@@ -2102,6 +2238,7 @@ Hilfsmerkmale sind:
 
 
 ### § 93 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007720130)
 
 (1) Für die Erhebungen zu den Agrarstatistiken nach § 1 besteht
 Auskunftspflicht, soweit in Absatz 3 nichts anderes bestimmt ist. § 6
@@ -2231,6 +2368,7 @@ amtlichen Hauskoordinaten.
 
 
 ### § 94 Durchführung von Bundesstatistiken
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE012813360)
 
 (1) Die für die Quotenüberwachung zuständige Bundesbehörde übernimmt
 die Aufbereitung der Hochsee- und Küstenfischereistatistik (§ 65a
@@ -2252,6 +2390,7 @@ Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben.
 
 
 ### § 94a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE013014130)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2328,6 +2467,7 @@ ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 95 Erhebungsstellen, Erhebungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007808160)
 
 (1) Zur Durchführung der Erhebungen nach § 1 können Erhebungsstellen
 eingerichtet werden. Die Bestimmung der Erhebungsstellen obliegt den
@@ -2350,6 +2490,7 @@ während der üblichen Betriebs- und Geschäftszeiten zu gestatten.
 
 
 ### § 96 Fortschreibeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE007909377)
 
 Die Bodennutzungshaupterhebung (§ 2 Nummer 2) und die
 Baumobstanbauerhebung (§ 2 Nummer 6) können ganz oder teilweise im
@@ -2361,6 +2502,7 @@ der Länder gespeicherten Angaben zur Fortschreibung vorgelegt.
 
 
 ### § 97 Betriebsregister
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008020130)
 
 (1) Zur Vorbereitung, Durchführung und Aufbereitung der
 Agrarstatistiken nach § 1 Nummer 1, mit Ausnahme der Flächenerhebung,
@@ -2648,6 +2790,7 @@ Jahre lang nicht mehr zu Zuordnungszwecken verwendet worden sind.
 
 
 ### § 98 Übermittlung, Verwendung und Veröffentlichung von Einzelangaben
+[Direktlink](https://www.gesetze-im-internet.de/agrstatg/BJNR004690989.html#BJNR004690989BJNE008115130)
 
 (1) Die Übermittlung von Einzelangaben an die zuständigen obersten
 Bundes- oder Landesbehörden ist im Rahmen des § 16 Absatz 4 des

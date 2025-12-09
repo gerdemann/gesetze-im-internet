@@ -26,6 +26,7 @@ Bekämpfung der Maul- und Klauenseuche, zur Aufhebung der Richtlinie
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000205124)
 
 
 *    *
@@ -314,10 +315,12 @@ Teil 7
 
 
 ## Teil 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000102124)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000302124)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -501,14 +504,17 @@ Teil 7
 
 
 ## Teil 2 - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000202124)
 
 
 
 ### Abschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000302124)
 
 
 
 #### § 2 Impfungen und Heilversuche
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000402124)
 
 (1) Impfungen gegen die Maul- und Klauenseuche sind vorbehaltlich des
 Absatzes 2 und des § 16 verboten. Heilversuche sind verboten.
@@ -519,6 +525,7 @@ genehmigen, sofern Belange der Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 2a Früherkennung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE004401124)
 
 Treten innerhalb von sieben Tagen in einem Bestand mit Wiederkäuern
 
@@ -539,14 +546,17 @@ durch geeignete Untersuchungen ausschließen zu lassen.
 
 
 ### Abschnitt 2 - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000402124)
 
 
 
 #### Unterabschnitt 1 - Vor amtlicher Feststellung der Maul- und Klauenseuche
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000502124)
 
 
 
 ##### § 3 Verdachtsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000503124)
 
 (1) Im Falle des Verdachts auf Maul- und Klauenseuche in einem Betrieb
 ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb
@@ -760,6 +770,7 @@ anordnen.
 
 
 ##### § 4 Anordnungen für weitere Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000602124)
 
 Die zuständige Behörde ordnet, sofern die Seuchenlage dies erfordert,
 für weitere Betriebe Maßnahmen nach § 3 an, insbesondere wenn für
@@ -770,6 +781,7 @@ eingestellt worden sind.
 
 
 ##### § 5 Kontrollzone
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000702124)
 
 (1) Hat die zuständige Behörde eine Anordnung nach § 3 Absatz 1 Satz 1
 getroffen, kann sie zusätzlich, sofern es aus Gründen der
@@ -821,10 +833,12 @@ Seuchenbekämpfung erforderlich, wenn
 
 
 #### Unterabschnitt 2 - Nach amtlicher Feststellung der Maul- und Klauenseuche
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000602124)
 
 
 
 ##### § 6 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000802124)
 
 Die zuständige Behörde macht den Ausbruch der Maul- und Klauenseuche
 sowie den Zeitpunkt ihrer mutmaßlichen Einschleppung in den
@@ -832,6 +846,7 @@ betroffenen Betrieb (Seuchenbetrieb) öffentlich bekannt.
 
 
 ##### § 7 Schutzmaßregeln für den Seuchenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE000904124)
 
 (1) Ist der Ausbruch der Maul- und Klauenseuche in einem Betrieb
 amtlich festgestellt, so ordnet die zuständige Behörde in Bezug auf
@@ -940,6 +955,7 @@ Hunde, die
 
 
 ##### § 8 Schutzmaßregeln in besonderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001005124)
 
 (1) Die zuständige Behörde kann bei einem Ausbruch der Maul- und
 Klauenseuche in einer Untersuchungseinrichtung, einem Zoo, einem
@@ -970,6 +986,7 @@ erteilten Ausnahmegenehmigungen mit.
 
 
 ##### § 9 Schutzmaßregeln in Bezug auf den Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001105124)
 
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich
 festgestellt, so legt die zuständige Behörde ein Gebiet um den
@@ -1223,6 +1240,7 @@ Nummer 2, Absatz 6 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b, Nummer
 
 
 ##### § 10 Ausnahmen von der Sperrbezirksregelung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001204124)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 9 Absatz 5 Nummer 1
 und 6 für das Verbringen oder den Transport von Tieren empfänglicher
@@ -1903,6 +1921,7 @@ für das Inverkehrbringen von Fleisch genehmigen, sofern
 
 
 ##### § 11 Schutzmaßregeln in Bezug auf das Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001305124)
 
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich
 festgestellt, so legt die zuständige Behörde um den den Seuchenbetrieb
@@ -2072,6 +2091,7 @@ beschränken oder verbieten.
 
 
 ##### § 12 Ausnahmen von der Beobachtungsgebietsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001403124)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 11 Absatz 4 Nummer 1
 für das Verbringen von Tieren empfänglicher Arten genehmigen,
@@ -2228,6 +2248,7 @@ Absatz 7 entsprechend.
 
 
 ##### § 13 Seuchenausbruch in einem benachbarten Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001502124)
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaats der Ausbruch der
 Maul- und Klauenseuche innerhalb einer Entfernung von zehn Kilometern
@@ -2238,6 +2259,7 @@ und 12 gelten entsprechend.
 
 
 ##### § 14 Schutzmaßregeln für den Kontaktbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001604124)
 
 (1) Führen die epidemiologischen Nachforschungen nach § 3 Absatz 1
 Satz 2 zu dem Ergebnis, dass die Maul- und Klauenseuche aus einem
@@ -2272,6 +2294,7 @@ Beobachtung an.
 
 
 ##### § 15 Sperrgebiet
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001703124)
 
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich
 festgestellt und droht sich die Maul- und Klauenseuche großflächig
@@ -2344,6 +2367,7 @@ Bescheinigung nach dem Muster der Anlage 1 begleitet sind.
 
 
 ##### § 16 Notimpfung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001804124)
 
 (1) Die zuständige oberste Landesbehörde kann, vorbehaltlich des
 Vorliegens der Genehmigung der Europäischen Kommission, für ein
@@ -2455,6 +2479,7 @@ Breite von mindestens zehn Kilometern.
 
 
 ##### § 17 Maßregeln vom Beginn bis zum 30. Tag nach Beendigung der Notimpfung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE001902124)
 
 (1) In der Zeit vom Beginn der Notimpfung bis zum Ablauf des 30.
 Tages, gerechnet von dem von der zuständigen Behörde bekannt gemachten
@@ -2669,6 +2694,7 @@ Tage getrennt von anderem Samen gelagert wird und,
 
 
 ##### § 18 Maßregeln vom 31. Tag nach Beendigung der Notimpfung bis zur Beendigung der Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002004124)
 
 (1) In der Zeit vom 31. Tag nach Beendigung der Notimpfung bis zur
 Beendigung der Untersuchungen nach § 19 gilt für das Impfgebiet
@@ -2778,6 +2804,7 @@ Schlachtung genehmigen, sofern sichergestellt ist, dass
 
 
 ##### § 19 Untersuchungen nach Notimpfung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002102124)
 
 (1) Frühestens 30 Tage nach Beendigung der Notimpfung führt die
 zuständige Behörde in allen Betrieben im Impfgebiet, in denen Tiere
@@ -2797,6 +2824,7 @@ durchführen, sofern dies zur Seuchenbekämpfung erforderlich ist.
 
 
 ##### § 20 Maßregeln bei Feststellung von Tieren mit Antikörpern gegen Nichtstrukturproteine
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002202124)
 
 In Betrieben, in denen bei einer serologischen Untersuchung nach § 19
 Tiere mit Antikörpern gegen Nichtstrukturproteine des Virus der Maul-
@@ -2821,6 +2849,7 @@ an.
 
 
 ##### § 21 Maßregeln nach Beendigung der Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002305124)
 
 (1) In der Zeit von der Beendigung der Untersuchungen nach § 19 bis
 zur Entscheidung der Europäischen Kommission nach Artikel 59 der
@@ -3003,6 +3032,7 @@ genehmigen für das Verbringen von
 
 
 ##### § 22 Anwendungsvorrang
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002402124)
 
 Liegt das Impfgebiet ganz oder teilweise in einem Sperrbezirk oder
 einem Beobachtungsgebiet, gelten in dem Sperrbezirk die §§ 9 und 10
@@ -3011,6 +3041,7 @@ finden insoweit keine Anwendung.
 
 
 ##### § 23 Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002502124)
 
 Die zuständige Behörde kann die Tötung von Tieren empfänglicher Arten
 im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet anordnen,
@@ -3019,6 +3050,7 @@ unverzüglichen Beseitigung eines Infektionsherdes, erforderlich ist.
 
 
 ##### § 24 Gefährdeter Bezirk beim Auftreten der Maul- und Klauenseuche bei Wildtieren
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002602124)
 
 (1) Im Falle des Verdachts auf Maul- und Klauenseuche bei Wildtieren
 empfänglicher Arten ordnet die zuständige Behörde die serologische und
@@ -3208,6 +3240,7 @@ Absatz 8 auch in diesem Gebiet anordnen.
 
 
 ##### § 25 Maßregeln zur Erkennung der Maul- und Klauenseuche im gefährdeten Bezirk
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002703124)
 
 (1) Zur Erkennung der Maul- und Klauenseuche bei Wildtieren
 empfänglicher Arten gilt im gefährdeten Bezirk Folgendes:
@@ -3305,6 +3338,7 @@ bestimmtes Gebiet anordnen, dass Jagdausübungsberechtigte
 
 
 ##### § 26 Tilgungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002802124)
 
 Die zuständige Behörde legt dem Bundesministerium innerhalb von 90
 Tagen nach Feststellung der Maul- und Klauenseuche bei einem Wildtier
@@ -3314,6 +3348,7 @@ der Richtlinie 2003/85/EG vor.
 
 
 ##### § 27 Seuchenausbruch bei Wildtieren in einem benachbarten Mitgliedstaat oder Drittland
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE002902124)
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaats oder eines
 Drittlands der Ausbruch der Maul- und Klauenseuche bei Wildtieren
@@ -3324,10 +3359,12 @@ diese die Maßnahmen entsprechend den §§ 24 und 25 an.
 
 
 ## Teil 3 - Schutzmaßregeln in Schlachtstätten, auf dem Transport und in Grenzkontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000702124)
 
 
 
 ### § 28 Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003003124)
 
 (1) Im Falle des Verdachts auf Maul- und Klauenseuche in einer
 Schlachtstätte, in einem Transportmittel oder in einer
@@ -3423,10 +3460,12 @@ beseitigen oder beseitigen zu lassen.
 
 
 ## Teil 4 - Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000802124)
 
 
 
 ### § 29 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003104124)
 
 (1) Die zuständige Behörde hebt die für den Sperrbezirk angeordneten
 Schutzmaßregeln auf, wenn frühestens 15 Tage nach Abnahme der
@@ -3511,6 +3550,7 @@ Aufhebung anderer Maßregeln unberührt.
 
 
 ### § 30 Wiederbelegung von Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003202124)
 
 (1) Betriebe, in denen nach Ausbruch der Maul- und Klauenseuche auf
 Anordnung der zuständigen Behörde Tiere empfänglicher Arten getötet
@@ -3604,10 +3644,12 @@ Satz 1 geimpft worden ist, gelten die Absätze 1 bis 4 entsprechend.
 
 
 ## Teil 5 - Behördliche Anordnungen, Tierseuchenbekämpfungszentrum
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG000902124)
 
 
 
 ### § 31 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003302124)
 
 Die zuständige Behörde kann, soweit es aus Gründen der
 Seuchenbekämpfung erforderlich ist,
@@ -3639,6 +3681,7 @@ anordnen.
 
 
 ### § 31a Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE004103124)
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Maul- und
 Klauenseuche weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung
@@ -3649,6 +3692,7 @@ nicht entgegenstehen, bleibt unberührt.
 
 
 ### § 32 Tierseuchenbekämpfungszentrum
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003402124)
 
 (1) Die zuständigen obersten Landesbehörden tragen dafür Sorge, dass
 bei einem Ausbruch von Maul- und Klauenseuche unverzüglich ein
@@ -3662,10 +3706,12 @@ Richtlinie 2003/85/EG eingerichtet wird.
 
 
 ## Teil 6 - Arbeiten mit MKS-Virus
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG001101124)
 
 
 
 ### § 33 Anforderungen an das Arbeiten mit MKS-Virus
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE004202124)
 
 Laboratorien und Einrichtungen, die
 
@@ -3690,6 +3736,7 @@ Laboratorien und Einrichtungen, die
 
 
 ### § 33a Erlaubnis für das Arbeiten mit MKS-Virus
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE004302124)
 
 (1) Wer ein Labor oder eine Einrichtung betreibt, in dem oder in der
 mit lebendem Virus der Maul- und Klauenseuche gearbeitet wird, bedarf
@@ -3709,10 +3756,12 @@ soweit die Voraussetzungen
 
 
 ## Teil 7 - Ordnungswidrigkeiten, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNG001003124)
 
 
 
 ### § 34 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003507124)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3903,17 +3952,20 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 35 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003603124)
 
 Auf die Berechnung von Fristen nach dieser Verordnung findet § 193 des
 Bürgerlichen Gesetzbuchs keine Anwendung.
 
 
 ### § 36 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003703124)
 
 
 (zu § 15 Absatz 2 Nummer 1)
 
 ### Anlage 1 Bescheinigung für den Versand von Tieren empfänglicher Arten oder von diesen Tieren gewonnenen Erzeugnissen aus einem Sperrgebiet im Sinne der MKS-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003802124)
 
 (Fundstelle: BGBl. I 2017, 2692 - 2693)
 
@@ -4206,6 +4258,7 @@ Bürgerlichen Gesetzbuchs keine Anwendung.
 (zu § 18 Absatz 2 Nummer 3)
 
 ### Anlage 2 Bescheinigung für den Versand von Tieren empfänglicher Arten aus einem Impfgebiet im Sinne der MKS-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE003902124)
 
 (Fundstelle: BGBl. I 2017, 2694)
 
@@ -4383,6 +4436,7 @@ Bürgerlichen Gesetzbuchs keine Anwendung.
 (zu § 24 Absatz 6 Nummer 3 Buchstabe a)
 
 ### Anlage 3 Bescheinigung für den Versand von Tieren empfänglicher Arten aus gefährdeten Bezirken im Sinne der MKS-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/mkseuchv_2005/BJNR385700004.html#BJNR385700004BJNE004002124)
 
 (Fundstelle: BGBl. I 2017, 2695)
 

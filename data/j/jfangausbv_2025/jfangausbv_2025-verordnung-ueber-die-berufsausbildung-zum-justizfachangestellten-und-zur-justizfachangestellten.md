@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-249 v. 26.1.1998 I 195 (JFAngAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 19. Juli 2024 (BGBl.
@@ -34,9 +35,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des
 Justizfachangestellten und der Justizfachangestellten wird nach § 4
@@ -44,11 +47,13 @@ Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -149,6 +155,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -156,9 +163,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -171,6 +180,7 @@ Stelle fest.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -187,6 +197,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001000000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -204,6 +215,7 @@ statt:
 
 
 ### § 9 Prüfungsbereich „Arbeitsabläufe in Straf- und Ordnungswidrigkeitenverfahren planen und umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001100000)
 
 (1) Im Prüfungsbereich „Arbeitsabläufe in Straf- und
 Ordnungswidrigkeitenverfahren planen und umsetzen“ hat der Prüfling
@@ -240,6 +252,7 @@ Aufgaben müssen praxisbezogen sein.
 
 
 ### § 10 Prüfungsbereich „Gerichtliche Entscheidungen in Zivilprozessverfahren und in Zwangsvollstreckungsverfahren in das bewegliche Vermögen vorbereiten und deren Umsetzung unterstützen“
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001200000)
 
 (1) Im Prüfungsbereich „Gerichtliche Entscheidungen in
 Zivilprozessverfahren und in Zwangsvollstreckungsverfahren in das
@@ -292,6 +305,7 @@ Aufgaben müssen praxisbezogen sein.
 
 
 ### § 11 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001300000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -313,6 +327,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001400000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -331,6 +346,7 @@ statt:
 
 
 ### § 13 Prüfungsbereich „Fachliche Sachbearbeitung“
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001500000)
 
 (1) Im Prüfungsbereich „Fachliche Sachbearbeitung“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -379,6 +395,7 @@ Aufgaben müssen praxisbezogen sein.
 
 
 ### § 14 Prüfungsbereich „Auskünfte in Nachlasssachen und betreuungsgerichtlichen Angelegenheiten erteilen“
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Auskünfte in Nachlasssachen und
 betreuungsgerichtlichen Angelegenheiten erteilen“ hat der Prüfling
@@ -435,6 +452,7 @@ soll 25 Minuten betragen.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -448,6 +466,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -529,6 +548,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -566,9 +586,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNG000300000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE002000000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2025 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -585,6 +607,7 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum
@@ -595,6 +618,7 @@ Justizfachangestellten/zur Justizfachangestellten vom 26. Januar 1998
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten und zur Justizfachangestellten
+[Direktlink](https://www.gesetze-im-internet.de/jfangausbv_2025/BJNR0510A0025.html#BJNR0510A0025BJNE002200000)
 
 (Fundstelle: BGBl. 2025 I Nr. 81, S. 8 - 14)
 

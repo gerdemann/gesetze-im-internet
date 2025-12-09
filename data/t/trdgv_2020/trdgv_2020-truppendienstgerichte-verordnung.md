@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 52-5-3 v. 15.8.2012 I 1714 (TrDGV) u. V 52-5-1 v. 16.5.2006 I 1262 (ErrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/trdgv_2020/BJNR160200020.html#BJNR160200020BJNE000100000)
 
 Auf Grund des § 69 Absatz 1 und 2 Satz 2 der Wehrdisziplinarordnung
 vom 16. August 2001 (BGBl. I S. 2093) verordnet das Bundesministerium
@@ -25,6 +26,7 @@ der Verteidigung:
 
 
 ## § 1 Truppendienstgerichte
+[Direktlink](https://www.gesetze-im-internet.de/trdgv_2020/BJNR160200020.html#BJNR160200020BJNE000200000)
 
 Truppendienstgerichte sind
 
@@ -38,6 +40,7 @@ Truppendienstgerichte sind
 
 
 ## § 2 Dienstbereiche der Truppendienstgerichte
+[Direktlink](https://www.gesetze-im-internet.de/trdgv_2020/BJNR160200020.html#BJNR160200020BJNE000300000)
 
 (1) Der Dienstbereich des Truppendienstgerichts Nord umfasst
 
@@ -122,6 +125,7 @@ Truppendienstgerichte sind
 
 
 ## § 3 Auswärtige Truppendienstkammern
+[Direktlink](https://www.gesetze-im-internet.de/trdgv_2020/BJNR160200020.html#BJNR160200020BJNE000400000)
 
 Neben den Truppendienstkammern an den Sitzen der Truppendienstgerichte
 bestehen als auswärtige Truppendienstkammern
@@ -158,6 +162,7 @@ bestehen als auswärtige Truppendienstkammern
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/trdgv_2020/BJNR160200020.html#BJNR160200020BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten die Errichtungsverordnung vom 16. Mai 2006 (BGBl.

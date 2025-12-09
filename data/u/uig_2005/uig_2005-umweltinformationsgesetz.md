@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNG000101116)
 
 
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000101116)
 
 (1) Zweck dieses Gesetzes ist es, den rechtlichen Rahmen für den
 freien Zugang zu Umweltinformationen bei informationspflichtigen
@@ -40,6 +42,7 @@ Rechts.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000202116)
 
 (1) Informationspflichtige Stellen sind
 
@@ -165,10 +168,12 @@ die diese Stelle einen Übermittlungsanspruch hat.
 
 
 ## Abschnitt 2 - Informationszugang auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNG000201116)
 
 
 
 ### § 3 Anspruch auf Zugang zu Umweltinformationen
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000301116)
 
 (1) Jede Person hat nach Maßgabe dieses Gesetzes Anspruch auf freien
 Zugang zu Umweltinformationen, über die eine informationspflichtige
@@ -206,6 +211,7 @@ Stelle, die über die Informationen verfügt, und endet
 
 
 ### § 4 Antrag und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000401116)
 
 (1) Umweltinformationen werden von einer informationspflichtigen
 Stelle auf Antrag zugänglich gemacht.
@@ -239,6 +245,7 @@ unterrichten.
 
 
 ### § 5 Ablehnung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000501116)
 
 (1) Wird der Antrag ganz oder teilweise nach den §§ 8 und 9 abgelehnt,
 ist die antragstellende Person innerhalb der Fristen nach § 3 Absatz 3
@@ -270,6 +277,7 @@ Rechtsschutz nachgesucht werden kann.
 
 
 ### § 6 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000601116)
 
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.
@@ -303,6 +311,7 @@ Verwaltungsrechtsweg vorgesehen werden.
 
 
 ### § 7 Unterstützung des Zugangs zu Umweltinformationen
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000701116)
 
 (1) Die informationspflichtigen Stellen ergreifen Maßnahmen, um den
 Zugang zu den bei ihnen verfügbaren Umweltinformationen zu
@@ -340,16 +349,19 @@ vergleichbar sind.
 
 
 ### § 7a Bundesbeauftragte für die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001500116)
 
 § 12 des Informationsfreiheitsgesetzes findet auf Anträge auf Zugang
 zu Umweltinformationen nach § 3 entsprechende Anwendung.
 
 
 ## Abschnitt 3 - Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNG000301116)
 
 
 
 ### § 8 Schutz öffentlicher Belange
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000801116)
 
 (1) Soweit das Bekanntgeben der Informationen nachteilige Auswirkungen
 hätte auf
@@ -408,6 +420,7 @@ Bekanntgabe überwiegt.
 
 
 ### § 9 Schutz sonstiger Belange
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE000901116)
 
 (1) Soweit
 
@@ -451,10 +464,12 @@ Gründe abgelehnt werden.
 
 
 ## Abschnitt 4 - Verbreitung von Umweltinformationen
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNG000401116)
 
 
 
 ### § 10 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001004116)
 
 (1) Die informationspflichtigen Stellen unterrichten die
 Öffentlichkeit in angemessenem Umfang aktiv und systematisch über die
@@ -553,6 +568,7 @@ Zustimmung des Bundesrates zu regeln:
 
 
 ### § 11 Umweltzustandsbericht
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001101116)
 
 Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht
 mehr als vier Jahren einen Bericht über den Zustand der Umwelt im
@@ -563,10 +579,12 @@ Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNG000501116)
 
 
 
 ### § 12 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001202116)
 
 (1) Für die Übermittlung von Informationen auf Grund dieses Gesetzes
 werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
@@ -598,6 +616,7 @@ bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
 
 ### § 13 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001301116)
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die
 Kontrolle im Sinne des § 2 Absatz 2 für den Bund oder eine unter der
@@ -623,6 +642,7 @@ Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der
 
 
 ### § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/uig_2005/BJNR370410004.html#BJNR370410004BJNE001401116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 13 Absatz 3 zuwiderhandelt.

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000300307)
 
 Das in der Deutschen Demokratischen Republik bestehende umfassende
 System der Sozialleistungen garantiert den durch Straftaten
@@ -32,6 +33,7 @@ beschließt die Volkskammer folgendes Gesetz:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000400307)
 
 Dieses Gesetz regelt die Voraussetzungen und das Verfahren für die
 Gewährung einer staatlichen Vorauszahlung an Bürger, denen durch eine
@@ -39,6 +41,7 @@ Straftat ein Schaden zugefügt wurde.
 
 
 ## § 2 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000500307)
 
 (1) Bürgern, die auf dem Staatsgebiet der Deutschen Demokratischen
 Republik durch eine Straftat geschädigt wurden, wird nach Maßgabe der
@@ -55,10 +58,12 @@ Versicherung der DDR.
 
 
 ## - - Voraussetzungen und Umfang der staatlichen Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNG000100307)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000600307)
 
 (1) Ist einem Bürger durch eine Straftat ein Gesundheitsschaden
 zugefügt worden, wird eine staatliche Vorauszahlung gewährt, wenn der
@@ -76,6 +81,7 @@ Kosten der Rechtsverfolgung.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000700307)
 
 Hat die Straftat zum Tod eines Bürgers geführt, wird eine staatliche
 Vorauszahlung für die Kosten der Bestattung und für die
@@ -84,6 +90,7 @@ Kosten der Rechtsverfolgung gewährt.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000800307)
 
 Ist einem Bürger durch die Straftat ein Vermögensschaden zugefügt
 worden, wird eine staatliche Vorauszahlung gewährt, wenn der Schaden
@@ -93,6 +100,7 @@ gefährdet ist.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE000900307)
 
 Ist einem Bürger durch eine Straftat ein Schaden bei Ausübung oder
 wegen seiner staatlichen oder gesellschaftlichen Tätigkeit zugefügt
@@ -103,6 +111,7 @@ Ordnung und Sicherheit durch eine Straftat ein Schaden zugefügt wurde.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001000307)
 
 Die Gewährung einer staatlichen Vorauszahlung erfordert, daß
 
@@ -124,6 +133,7 @@ Die Gewährung einer staatlichen Vorauszahlung erfordert, daß
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001100307)
 
 (1) Eine staatliche Vorauszahlung wird nicht gewährt, soweit ein
 Ersatz des Schadens durch Versicherungsleistungen oder auf andere
@@ -136,6 +146,7 @@ die er geschädigt wurde, gegeben hat.
 
 
 ### § 9 Höhe der staatlichen Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001200307)
 
 (1) Die staatliche Vorauszahlung wird grundsätzlich in Höhe des im
 Vollstreckungstitel festgestellten Schadenersatzanspruchs oder, soweit
@@ -153,6 +164,7 @@ werden kann.
 
 
 ### § 10 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001300307)
 
 Die Gewährung einer staatlichen Vorauszahlung erfolgt auf Antrag.
 Antragsberechtigt sind
@@ -170,6 +182,7 @@ eine Straftat geschädigt wurden.
 
 
 ### § 11 Zuständigkeit des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001400307)
 
 (1) Für die Entscheidung über die Gewährung einer staatlichen
 Vorauszahlung ist das Kreisgericht zuständig, bei dem die
@@ -189,6 +202,7 @@ aufzunehmen.
 
 
 ### § 12 Entscheidung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001500307)
 
 (1) Über den Antrag entscheidet das Kreisgericht durch Beschluß. Es
 kann vor seiner Entscheidung eine mündliche Verhandlung durchführen.
@@ -222,6 +236,7 @@ entsprechende Anwendung.
 
 
 ### § 13 Gewährung einer staatlichen Vorauszahlung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001600307)
 
 (1) Liegen die in den §§ 3 bis 6 genannten, nicht jedoch die nach
 diesem Gesetz weiterhin erforderlichen Voraussetzungen vor, kann dem
@@ -232,6 +247,7 @@ staatliche Vorauszahlung gewährt werden.
 
 
 ### § 14 Leistungen durch die Staatliche Versicherung der DDR
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001700307)
 
 (1) Die staatliche Vorauszahlung wird in Höhe des im Beschluß des
 Gerichts zuerkannten Betrages durch die Staatliche Versicherung der
@@ -257,6 +273,7 @@ insbesondere wenn die Forderung nicht durchsetzbar ist.
 
 
 ### § 15 Ausgleichszahlung ohne Vollstreckungstitel
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001800307)
 
 (1) Liegen die Voraussetzungen zur Gewährung einer staatlichen
 Vorauszahlung nicht vor, weil der Straftäter unbekannt oder aus
@@ -282,27 +299,32 @@ Bezirkes informiert, wenn der Straftäter ermittelt wurde.
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNG000200307)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE001900307)
 
 Dieses Gesetz gilt für Schadenersatzansprüche aus Straftaten, die nach
 dem 1. Januar 1985 begangen wurden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE002000307)
 
 Durchführungsbestimmungen zu diesem Gesetz erläßt der Minister der
 Justiz.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE002100307)
 
 Dieses Gesetz tritt am 1. März 1989 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sch_vzg/DDNR003450988.html#DDNR003450988BJNE002200307)
 
 **Der Vorsitzende des Staatsrates der Deutschen Demokratischen
 Republik**

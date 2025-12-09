@@ -24,10 +24,12 @@ Geändert durch
 
 
 ## Erster Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000100327)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001100327)
 
 Einrichtungen im Sinne des § 1 Abs. 1 des Heimgesetzes, die in der
 Regel mindestens sechs Personen aufnehmen, dürfen nur betrieben
@@ -36,6 +38,7 @@ soweit nicht nach den §§ 30 und 31 etwas anderes bestimmt wird.
 
 
 ### § 2 Wohn- und Pflegeplätze
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001200327)
 
 Wohnplätze (§§ 14, 19) und Pflegeplätze (§ 23) müssen unmittelbar von
 einem Flur erreichbar sein, der den Heimbewohnern, dem Personal und
@@ -43,6 +46,7 @@ den Besuchern allgemein zugänglich ist.
 
 
 ### § 3 Flure und Treppen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001300327)
 
 (1) Flure, die von Heimbewohnern benutzt werden, dürfen innerhalb
 eines Geschosses keine oder nur solche Stufen haben, die zusammen mit
@@ -57,6 +61,7 @@ versehen.
 
 
 ### § 4 Aufzüge
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001400327)
 
 In Einrichtungen, in denen bei regelmäßiger Benutzung durch die
 Bewohner mehr als eine Geschoßhöhe zu überwinden ist oder in denen
@@ -67,12 +72,14 @@ entsprechen.
 
 
 ### § 5 Fußböden
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004500327)
 
 Fußbodenbeläge der von Heimbewohnern benutzten Räume und
 Verkehrsflächen müssen rutschfest sein.
 
 
 ### § 6 Beleuchtung
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001500327)
 
 (1) Die Lichtschalter müssen ohne Schwierigkeit zu bedienen sein.
 
@@ -85,6 +92,7 @@ Anschlüsse den Betten zugeordnet sein.
 
 
 ### § 7 Rufanlage
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001600327)
 
 Räume, in denen Pflegebedürftige untergebracht sind, müssen mit einer
 Rufanlage ausgestattet sein, die von jedem Bett aus bedient werden
@@ -92,6 +100,7 @@ kann.
 
 
 ### § 8 Fernsprecher
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001700327)
 
 In den Einrichtungen muß in jedem Gebäude mindestens ein Fernsprecher
 vorhanden sein, über den die Bewohner erreichbar sind und der von
@@ -100,6 +109,7 @@ kann.
 
 
 ### § 9 Zugänge
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001800327)
 
 (1) Wohn-, Schlaf- und Sanitärräume müssen im Notfall von außen
 zugänglich sein.
@@ -110,6 +120,7 @@ transportiert werden können.
 
 
 ### § 10 Sanitäre Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE001900327)
 
 (1) Badewannen und Duschen in Gemeinschaftsanlagen müssen bei ihrer
 Benutzung einen Sichtschutz haben.
@@ -124,6 +135,7 @@ geeignete sanitäre Anlagen in ausreichender Zahl vorhanden sein.
 
 
 ### § 11 Wirtschaftsräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002000327)
 
 Wirtschaftsräume müssen in der erforderlichen Zahl und Größe vorhanden
 sein, soweit die Versorgung nicht durch Betriebe außerhalb des Heimes
@@ -131,6 +143,7 @@ sichergestellt ist.
 
 
 ### § 12 Heizung
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002100327)
 
 Durch geeignete Heizanlagen ist für alle Räume, Treppenräume, Flure
 und sanitäre Anlagen eine den Bedürfnissen der Heimbewohner angepaßte
@@ -138,6 +151,7 @@ Temperatur sicherzustellen.
 
 
 ### § 13 Gebäudezugänge
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002200327)
 
 Die Eingangsebene der von den Bewohnern benutzten Gebäude einer
 Einrichtung soll von der öffentlichen Verkehrsfläche stufenlos
@@ -145,14 +159,17 @@ erreichbar sein. Der Zugang muß beleuchtbar sein.
 
 
 ## Zweiter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000200327)
 
 
 
 ### Erster Abschnitt - Altenheime und gleichartige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000300327)
 
 
 
 #### § 14 Wohnplätze
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002301310)
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
 mit einer Wohnfläche von 12 m
@@ -177,6 +194,7 @@ Warmwasseranschluß vorhanden sein.
 
 
 #### § 15 Funktions- und Zubehörräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002400327)
 
 (1) In jeder Einrichtung müssen mindestens vorhanden sein:
 
@@ -202,6 +220,7 @@ werden.
 
 
 #### § 16 Gemeinschaftsräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002500327)
 
 (1) Die Einrichtung muß mindestens einen Gemeinschaftsraum von 20 m
 2 Nutzfläche haben. In Einrichtungen mit mehr als 20 Bewohnern muß
@@ -215,6 +234,7 @@ Loggien und Balkone werden nicht berücksichtigt.
 
 
 #### § 17 Therapieräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002600327)
 
 In jeder Einrichtung muß ein Raum für Bewegungstherapie oder Gymnastik
 vorhanden sein, wenn nicht geeignete Gymnastik- und Therapieräume in
@@ -224,6 +244,7 @@ dafür verwendet werden.
 
 
 #### § 18 Sanitäre Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002700327)
 
 (1) Für jeweils bis zu acht Bewohner muß im gleichen Geschoß
 mindestens ein Spülabort mit Handwaschbecken vorhanden sein.
@@ -237,10 +258,12 @@ aufzustellen.
 
 
 ### Zweiter Abschnitt - Altenwohnheime und gleichartige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000400327)
 
 
 
 #### § 19 Wohnplätze
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002800327)
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
 mit einer Wohnfläche von 12 m
@@ -259,6 +282,7 @@ entsprechend.
 
 
 #### § 20 Gemeinschaftsräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE002900327)
 
 (1) § 16 gilt entsprechend mit der Maßgabe, daß je Heimbewohner
 Gemeinschaftsraum von mindestens 0,75 m
@@ -271,6 +295,7 @@ stehen, können sie auf die Gemeinschaftsräume angerechnet werden.
 
 
 #### § 21 Funktions- und Zubehörräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003000327)
 
 In jeder Einrichtung müssen mindestens vorhanden sein:
 
@@ -285,16 +310,19 @@ In jeder Einrichtung müssen mindestens vorhanden sein:
 
 
 #### § 22 Sanitäre Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003100327)
 
 Für jeweils bis zu 20 Bewohner muß im gleichen Gebäude mindestens eine
 Badewanne oder eine Dusche zur Verfügung stehen.
 
 
 ### Dritter Abschnitt - Pflegeheime für Volljährige und gleichartige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000500327)
 
 
 
 #### § 23 Pflegeplätze
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003200327)
 
 (1) Pflegeplätze müssen mindestens einen Wohnschlafraum mit einer
 Wohnfläche von 12
@@ -309,6 +337,7 @@ entsprechend.
 
 
 #### § 24 Funktions- und Zubehörräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003300327)
 
 (1) Funktions- und Zubehörräume müssen in ausreichender Zahl vorhanden
 und den Besonderheiten der Pflegebedürftigkeit angepaßt sein.
@@ -319,6 +348,7 @@ erforderlicher Zahl vorhanden sein.
 
 
 #### § 25 Gemeinschaftsräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003400327)
 
 § 20 Abs. 1 gilt entsprechend. Die Nutzflächen müssen jedoch so
 angelegt sein, daß auch Bettlägerige an Veranstaltungen und
@@ -326,11 +356,13 @@ Zusammenkünften teilnehmen können.
 
 
 #### § 26 Therapieräume
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003500327)
 
 § 17 gilt entsprechend.
 
 
 #### § 27 Sanitäre Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003600327)
 
 (1) Für jeweils bis zu vier Bewohner müssen in unmittelbarer Nähe des
 Wohnschlafraumes ein Waschtisch mit Kalt- und Warmwasseranschluß und
@@ -348,10 +380,12 @@ jeweiligen Geschoß vorgehalten werden.
 
 
 ### Vierter Abschnitt - Einrichtungen mit Mischcharakter
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000600327)
 
 
 
 #### § 28 Einrichtungen mit Mischcharakter
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003700327)
 
 Sind Teile einer Einrichtung mehreren Einrichtungsarten im Sinne des §
 1 Abs. 1 des Heimgesetzes zuzuordnen, so sind auf diese Teile die
@@ -360,10 +394,12 @@ Einrichtungsart anzuwenden.
 
 
 ## Dritter Teil - Einrichtungen für behinderte Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000700327)
 
 
 
 ### § 29 Einrichtungen für behinderte Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003800327)
 
 (1) In Einrichtungen für behinderte Volljährige sind bei der Anwendung
 der Verordnung die besonderen Bedürfnisse der Bewohner, die sich
@@ -377,10 +413,12 @@ für behinderte Volljährige.
 
 
 ## Vierter Teil - Fristen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000800327)
 
 
 
 ### § 30 Fristen zur Angleichung
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE003900327)
 
 (1) Erfüllen Einrichtungen, die bei Inkrafttreten dieser Verordnung im
 Betrieb, im Bau oder im baureifen Planungsstadium sind, die
@@ -399,6 +437,7 @@ Ausnahmefällen verlängert werden.
 
 
 ### § 31 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004000327)
 
 (1) Ist dem Träger einer Einrichtung die Erfüllung der in den §§ 2 bis
 29 genannten Anforderungen technisch nicht möglich oder aus
@@ -412,10 +451,12 @@ von der Verpflichtung zur Angleichung vorläufig befreit.
 
 
 ## Fünfter Teil - Ordnungswidrigkeiten und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNG000900327)
 
 
 
 ### § 32 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004100327)
 
 Ordnungswidrig im Sinne des § 17 Abs. 2 Nr. 1 des Heimgesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 1 eine Einrichtung
@@ -449,6 +490,7 @@ betreibt, in der
 
 
 ### § 33 Nichtanwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004200327)
 
 Mit Inkrafttreten der Verordnung sind folgende Vorschriften, soweit
 sie Vorschriften über Mindestanforderungen für die Räume,
@@ -526,18 +568,21 @@ nach § 1 nicht mehr anzuwenden:
 
 
 ### § 34 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004300327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
 
 ### § 35 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004400327)
 
 -
 
 Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1096)
+[Direktlink](https://www.gesetze-im-internet.de/heimmindbauv/BJNR001890978.html#BJNR001890978BJNE004600307)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

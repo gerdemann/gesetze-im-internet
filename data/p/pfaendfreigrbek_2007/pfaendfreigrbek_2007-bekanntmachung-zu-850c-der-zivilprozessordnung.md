@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2007/BJNR006400007.html#BJNR006400007BJNE000100000)
 
 Auf Grund des § 850c Abs. 2a Satz 2 der Zivilprozessordnung, der durch
 Artikel 1 Nr. 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl.
@@ -29,6 +30,7 @@ Zivilprozessordnung bleiben für den Zeitraum vom 1. Juli 2007 bis zum
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2007/BJNR006400007.html#BJNR006400007BJNE000200000)
 
 Die Bundesministerin der Justiz
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE000500305)
 
 Auf Grund des § 152 Nr. 1 bis 6 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
@@ -29,10 +30,12 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## 1. Kapitel - Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNG000100305)
 
 
 
 ### § 1 Vergabe und Zuordnung der Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE000602119)
 
 Die Datenstelle der Rentenversicherung vergibt für Versicherte, an die
 noch keine inländische Versicherungsnummer vergeben wurde, gemäß § 147
@@ -45,6 +48,7 @@ zu.
 
 
 ### § 2 Aufbau der Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE000703124)
 
 (1) Die Versicherungsnummer wird gemäß § 147 Abs. 2 des Sechsten
 Buches Sozialgesetzbuch nach Maßgabe der folgenden Absätze gebildet
@@ -108,6 +112,7 @@ dividiert. Der verbleibende Rest ist die Prüfziffer.
 
 
 ### § 3 Berichtigung der Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE000800305)
 
 (1) Eine Versicherungsnummer wird nur einmal vergeben und nicht
 berichtigt. Versicherungsnummern, in denen das Geburtsdatum oder die
@@ -130,10 +135,12 @@ Rentenversicherungsträger dem richtigen Versicherungskonto zugeordnet.
 
 
 ## 2. Kapitel - Kontoführung
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNG000200305)
 
 
 
 ### § 4 Zuständigkeit für die Kontoführung
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE000901308)
 
 Zuständig für die Kontoführung ist der Träger der Rentenversicherung,
 der nach den Bestimmungen des Sechsten Buches Sozialgesetzbuch für die
@@ -141,6 +148,7 @@ Erfüllung der Aufgaben der Rentenversicherung zuständig ist.
 
 
 ### § 5 Aufgaben der Datenstelle im Rahmen der Kontoführung
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001002119)
 
 Die Datenstelle der Rentenversicherung ist zur Aufgabenerfüllung nach
 § 150 des Sechsten Buches Sozialgesetzbuch von den
@@ -149,6 +157,7 @@ Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 
 
 ### § 6 Wechsel der Kontoführung
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001102119)
 
 (1) Bei einem Wechsel der Kontoführung erfolgt der Austausch des
 Inhalts des Versicherungskontos über die Datenstelle. Auf Anforderung
@@ -162,10 +171,12 @@ aufzufordern.
 
 
 ## 3. Kapitel - Unterrichtung der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNG000300305)
 
 
 
 ### § 7 Versendung eines Versicherungsverlaufs
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001200305)
 
 (1) Der Konto führende Träger der Rentenversicherung teilt den
 Versicherten, die das 43. Lebensjahr vollendet haben, alle sechs Jahre
@@ -185,10 +196,12 @@ noch nicht bindend festgestellte Daten beschränkt werden.
 
 
 ## 4. Kapitel - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNG000400305)
 
 
 
 ### § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001300305)
 
 (1) Diese Verordnung tritt am 1. Juli 2001 in Kraft.
 
@@ -196,12 +209,14 @@ noch nicht bindend festgestellte Daten beschränkt werden.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001400305)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Abs. 2)
 
 ### Anlage Bereichsnummern
+[Direktlink](https://www.gesetze-im-internet.de/vkvv/BJNR047500001.html#BJNR047500001BJNE001502308)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3290 u. 3291
 

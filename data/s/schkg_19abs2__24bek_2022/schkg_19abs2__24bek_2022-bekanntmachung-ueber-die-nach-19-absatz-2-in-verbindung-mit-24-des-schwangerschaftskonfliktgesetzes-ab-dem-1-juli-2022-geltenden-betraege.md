@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/schkg_19abs2__24bek_2022/BJNR616800022.html#BJNR616800022BJNE000100000)
 
 Aufgrund des § 24 des Schwangerschaftskonfliktgesetzes, der durch
 Artikel 36 Nummer 4 des Gesetzes vom 8. Dezember 2010 (BGBl. I S.

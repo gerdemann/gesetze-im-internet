@@ -28,9 +28,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Eisenbahners in der
 Zugverkehrssteuerung und der Eisenbahnerin in der Zugverkehrssteuerung
@@ -38,11 +40,13 @@ wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000400000)
 
 (1) Abweichungen im Sinne dieser Verordnung sind alle Änderungen der
 Planung des Eisenbahnbetriebs, wie zum Beispiel ein Gleiswechsel oder
@@ -55,6 +59,7 @@ Signalstörung oder eine Störung am Fahrzeug.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -75,6 +80,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -172,6 +178,7 @@ vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -179,9 +186,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -197,6 +206,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -213,6 +223,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001000000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -227,6 +238,7 @@ statt:
 
 
 ### § 10 Prüfungsbereich „Gesamtsystem Eisenbahn und Regelbetrieb“
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001100000)
 
 (1) Im Prüfungsbereich „Gesamtsystem Eisenbahn und Regelbetrieb“
 besteht die Prüfung aus zwei Teilen.
@@ -293,6 +305,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 11 Prüfungsbereich „Örtliche Sicherung einer Weiche“
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001200000)
 
 (1) Im Prüfungsbereich „Örtliche Sicherung einer Weiche“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -317,6 +330,7 @@ Fachgespräch dauert höchstens 10 Minuten.
 
 
 ### § 12 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001300000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -338,6 +352,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001400000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -355,6 +370,7 @@ statt:
 
 
 ### § 14 Prüfungsbereich „Abweichungen vom Regelbetrieb“
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001500000)
 
 (1) Im Prüfungsbereich „Abweichungen vom Regelbetrieb“ besteht die
 Prüfung aus zwei Teilen.
@@ -433,6 +449,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 15 Prüfungsbereich „Störungen im Eisenbahnbetrieb“
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001600000)
 
 (1) Im Prüfungsbereich „Störungen im Eisenbahnbetrieb“ besteht die
 Prüfung aus zwei Teilen.
@@ -512,6 +529,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -525,6 +543,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -610,6 +629,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 18 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -652,9 +672,11 @@ gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNG000300000)
 
 
 ### § 19 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE002000000)
 
 Eine erfolgreich abgeschlossene Berufsausbildung zum Eisenbahner im
 Betriebsdienst Lokführer und Transport und zur Eisenbahnerin im
@@ -668,6 +690,7 @@ vereinbaren.
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner in der Zugverkehrssteuerung und zur Eisenbahnerin in der Zugverkehrssteuerung
+[Direktlink](https://www.gesetze-im-internet.de/zvsausbv/BJNR044700022.html#BJNR044700022BJNE002101128)
 
 (Fundstelle: BGBl. I 2022, 452 - 458, bzgl. der einzelnen Änderungen
 vgl. Fußnote)

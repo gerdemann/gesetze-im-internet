@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE000600305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNG000100305)
 
 (1) Die Bundesregierung wird ermächtigt, Vereinbarungen mit
 ausländischen Staaten über Einreise und vorübergehenden Aufenthalt
@@ -42,12 +44,14 @@ gestatten.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNG000200305)
 
 In die Vereinbarungen werden, soweit nach ihrem Gegenstand und Zweck
 erforderlich, Regelungen mit folgendem Inhalt aufgenommen.
 
 
 ## § 1 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE000700305)
 
 (1) Für Einreise und Aufenthalt bestimmen sich die Rechte und
 Pflichten der ausländischen Streitkräfte und ihrer Mitglieder nach den
@@ -58,6 +62,7 @@ der ausländischen Streitkräfte nach Art, Umfang und Dauer festzulegen.
 
 
 ## § 2 Grenzübertritt, Einreise
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE000801310)
 
 (1) Ausländische Streitkräfte und deren Mitglieder sind im Rahmen
 dieses Gesetzes und der ausländerrechtlichen Vorschriften berechtigt,
@@ -107,6 +112,7 @@ bleiben die Bestimmungen des Aufenthaltsgesetzes unberührt.
 
 
 ## § 3 Meldewesen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE000900305)
 
 Mitglieder ausländischer Streitkräfte sind von der allgemeinen
 Meldepflicht befreit. Diese Befreiung erstreckt sich nicht auf die
@@ -115,6 +121,7 @@ Pflegeheimen oder ähnlichen Einrichtungen.
 
 
 ## § 4 Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001000305)
 
 (1) In der Vereinbarung sind Art und Anzahl der Kriegswaffen
 festzulegen, die ein- oder mitgeführt werden. Ferner ist zu bestimmen,
@@ -127,6 +134,7 @@ gelten als erteilt.
 
 
 ## § 5 Waffen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001100305)
 
 (1) Mitglieder ausländischer Streitkräfte sind während ihres
 Aufenthaltes in der Bundesrepublik Deutschland zum Besitz und zum
@@ -141,6 +149,7 @@ im Rahmen des deutschen Notwehrrechts befugt.
 
 
 ## § 6 Uniformtragen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001200305)
 
 Mitglieder ausländischer Streitkräfte, die zum militärischen Personal
 gehören, sind vorbehaltlich gegenteiliger Vereinbarungen mit den
@@ -149,6 +158,7 @@ Aufenthaltes in der Bundesrepublik Deutschland Uniform zu tragen.
 
 
 ## § 7 Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001300305)
 
 (1) Mitglieder ausländischer Streitkräfte unterliegen, insbesondere
 auch hinsichtlich der Straf- und Zivilgerichtsbarkeit, deutschem
@@ -175,6 +185,7 @@ der Strafverfolgung unterbreiten.
 
 
 ## § 8 Disziplinargewalt
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001400305)
 
 (1) Die vom ausländischen Staat zu bestimmenden Behörden oder
 Vorgesetzten haben das Recht, innerhalb der Bundesrepublik Deutschland
@@ -190,6 +201,7 @@ werden.
 
 
 ## § 9 Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001500305)
 
 (1) Deutsche Behörden und Gerichte sind im Rahmen ihrer
 Zuständigkeiten und Befugnisse berechtigt, Zwangsmaßnahmen gegenüber
@@ -203,6 +215,7 @@ Richter der vorläufig Festgenommene vorgeführt wird.
 
 
 ## § 10 Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001604116)
 
 (1) Für die Inanspruchnahme von öffentlich angebotenen
 Telekommunikationsdienstleistungen gelten neben den allgemeinen
@@ -257,6 +270,7 @@ festzulegen.
 
 
 ## § 11 Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001700305)
 
 (1) Zur Verhütung und Bekämpfung übertragbarer Krankheiten bei
 Menschen, Tieren und Pflanzen sowie zur Verhütung der Verbreitung und
@@ -276,6 +290,7 @@ der Grundlage gegenseitiger Vereinbarungen gewährt werden.
 
 
 ## § 12 Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001800305)
 
 (1) Die ausländischen Streitkräfte erkennen und anerkennen die
 Bedeutung des Umweltschutzes bei ihren Tätigkeiten in der
@@ -324,6 +339,7 @@ Vorbereitung von Übungen.
 
 
 ## § 13 Führerscheine, Luftfahrerscheine, Befähigungszeugnisse für militärische Wasserfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE001900305)
 
 (1) Führerscheine oder andere Erlaubnisscheine, die den Mitgliedern
 ausländischer Streitkräfte von einer Behörde des ausländischen Staates
@@ -349,6 +365,7 @@ muß beim Führen privater Kraftfahrzeuge ständig mitgeführt werden.
 
 
 ## § 14 Verkehr mit eigenen Fahrzeugen des ausländischen Staates
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002000305)
 
 (1) Kraftfahrzeuge und Kraftfahrzeuganhänger werden von dem
 ausländischen Staat registriert und zugelassen. Sie führen außer ihrer
@@ -425,6 +442,7 @@ Erreichung des Aufenthaltszweckes zu gewährleisten.
 
 
 ## § 15 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002100305)
 
 Für seine Dienstkraftfahrzeuge, militärischen Luft- und
 Wasserfahrzeuge sowie das Führen von Waffen entfällt die Pflicht zum
@@ -433,6 +451,7 @@ Risiken hieraus werden vom ausländischen Staat selbst übernommen.
 
 
 ## § 16 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002200305)
 
 (1) Der ausländische Staat haftet für alle der Bundesrepublik
 Deutschland und Dritten entstandenen Schäden, die durch dienstliche
@@ -487,6 +506,7 @@ c)  Die Bestimmungen dieses Absatzes lassen die Zuständigkeit der
 
 
 ## § 17 Übungen zu Lande
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002300305)
 
 (1) Für Übungen gelten die deutschen Vorschriften.
 
@@ -503,6 +523,7 @@ Anmeldung und Koordinierung vorzusehen.
 
 
 ## § 18 Übungen im Luftraum
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002400305)
 
 (1) Für Übungen im deutschen Luftraum gelten die deutschen
 Vorschriften über den Einflug in den deutschen Luftraum und seine
@@ -528,6 +549,7 @@ Flugsicherheit oder Flugsicherung erforderlich ist.
 
 
 ## § 19 Übungen in deutschen Hoheitsgewässern
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002500305)
 
 (1) Für Übungen ausländischer Kriegs- und Hilfsschiffe im Küstenmeer
 und in den inneren Gewässern gelten die deutschen Vorschriften.
@@ -537,6 +559,7 @@ des § 18.
 
 
 ## § 20 Befreiung von Steuern und sonstigen Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002600305)
 
 Die Befreiung der ausländischen Streitkräfte und ihrer Mitglieder von
 Steuern und sonstigen Abgaben richtet sich nach dem in der
@@ -544,6 +567,7 @@ Bundesrepublik Deutschland geltenden Recht.
 
 
 ## § 21 Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002700305)
 
 Meinungsverschiedenheiten der Vertragsparteien über die Anwendung und
 Auslegung der auf diesem Gesetz beruhenden Vereinbarungen unterliegen
@@ -552,10 +576,12 @@ Staates. Sie sind im Verhandlungswege beizulegen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNG000300305)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002801311)
 
 Das Bundesministerium der Verteidigung erläßt im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat allgemeine
@@ -565,12 +591,14 @@ ausländischen Militärangehörigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE002900305)
 
 Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit gemäß
 Artikel 2 § 7 Abs. 2 wird von der Staatsanwaltschaft erklärt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE003000305)
 
 Für die Zusammenarbeit in strafrechtlichen Angelegenheiten gemäß
 Artikel 2 § 7 findet Artikel 4a des Gesetzes zum NATO-Truppenstatut
@@ -579,6 +607,7 @@ und zu den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE003100305)
 
 Verpflichtungen der ausländischen Streitkräfte, die sich aus Artikel 2
 § 12 Abs. 5 herleiten, lassen die bestehenden Verantwortlichkeiten für
@@ -587,6 +616,7 @@ unberührt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNE003201320)
 
 Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und 25
 des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
@@ -595,6 +625,7 @@ Fassung entsprechende Anwendung.
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNG000400305)
 
 Dieses Gesetz findet keine Anwendung auf
 Militärattachés eines ausländischen Staates in der Bundesrepublik
@@ -604,6 +635,7 @@ konsularischen Status haben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/skaufg/BJNR055429995.html#BJNR055429995BJNG000500305)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Übertritt des Personals
+[Direktlink](https://www.gesetze-im-internet.de/rvknseemannskasse_g/BJNR214600008.html#BJNR214600008BJNE000100000)
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See tritt mit
 Ablauf des 31. Dezember 2008 in die Dienstverhältnisse ein, die zu dem
@@ -47,6 +48,7 @@ diese vor.
 
 
 ## § 2 Besitzstandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/rvknseemannskasse_g/BJNR214600008.html#BJNR214600008BJNE000200000)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer, die aufgrund der Eingliederung
 der Seemannskasse in die Deutsche Rentenversicherung Knappschaft-Bahn-

@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Gewährleistungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000201140)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für
 Finanzierungsgeschäfte, die die Europäische
@@ -85,6 +87,7 @@ werden.
 
 
 ## § 2 Haushalts- und Stabilitätsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000400140)
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten der Europäischen
 Finanzstabilisierungsfazilität zur Durchführung von Notmaßnahmen
@@ -100,6 +103,7 @@ maßgeblichen Fristvorgaben.
 
 
 ## § 3 Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000502123)
 
 (1) Die Bundesregierung darf in Angelegenheiten der Europäischen
 Finanzstabilisierungsfazilität einem Beschlussvorschlag, der die
@@ -160,6 +164,7 @@ Fortfall der besonderen Vertraulichkeit.
 
 
 ## § 4 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000601140)
 
 (1) In allen die Haushaltsverantwortung des Deutschen Bundestages
 berührenden Angelegenheiten der Europäischen
@@ -208,6 +213,7 @@ unterstützt werden muss.
 
 
 ## § 5 Unterrichtung durch die Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000701140)
 
 (1) Die Bundesregierung hat den Deutschen Bundestag in Angelegenheiten
 dieses Gesetzes umfassend, zum frühestmöglichen Zeitpunkt, fortlaufend
@@ -247,6 +253,7 @@ Deutschen Bundestages unverzüglich nach.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stabmechg/BJNR062700010.html#BJNR062700010BJNE000301140)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

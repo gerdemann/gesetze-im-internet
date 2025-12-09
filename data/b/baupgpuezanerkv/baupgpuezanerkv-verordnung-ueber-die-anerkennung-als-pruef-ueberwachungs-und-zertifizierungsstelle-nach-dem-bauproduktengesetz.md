@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000100000)
 
 Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10.
 August 1992 (BGBl. I S. 1495) verordnet das Bundesministerium für
@@ -29,14 +30,17 @@ Raumordnung, Bauwesen und Städtebau:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNG000200000)
 
 
 
 ### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000201116)
 
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000300000)
 
 (1) Prüfstelle im Sinne dieser Verordnung ist jede natürliche oder
 juristische Person, Stelle oder Überwachungsgemeinschaft, zu deren
@@ -58,6 +62,7 @@ abschließende Bewertung der Ergebnisse von Prüf- oder
 
 
 ### § 3 Allgemeine Grundsätze und Voraussetzungen für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000401116)
 
 (1) Die PÜZ-Stelle muß unparteilich, insbesondere hinsichtlich ihres
 technischen und bewertenden Urteils frei von wirtschaftlichen
@@ -74,6 +79,7 @@ Stellen zulässig, die Gegenstand der Anerkennung waren.
 
 
 ### § 4 Allgemeine Pflichten und Rechte der anerkannten PÜZ-Stelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000500000)
 
 (1) Die anerkannte PÜZ-Stelle muß im Rahmen ihrer Anerkennung und
 Kapazitäten von allen Herstellern der Bauprodukte, deren Vertretern
@@ -128,10 +134,12 @@ Stellvertreters ist der Anerkennungsbehörde unverzüglich anzuzeigen.
 
 
 ## Abschnitt 2 - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNG000300000)
 
 
 
 ### § 5 Besondere Anerkennungsvoraussetzungen als Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000600000)
 
 (1) Die Prüfstelle muß über eine ausreichende Zahl an Beschäftigten
 mit der für die Prüfungen notwendigen Ausbildung und beruflichen
@@ -175,6 +183,7 @@ Kommission der Europäischen Gemeinschaften.
 
 
 ### § 6 Besondere Pflichten der anerkannten Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000700000)
 
 (1) Die Prüfgeräte müssen nach den allgemein anerkannten Regeln der
 Technik kalibriert sein.
@@ -195,6 +204,7 @@ Verlangen vorzulegen.
 
 
 ### § 7 Besondere Anerkennungsvoraussetzungen als Überwachungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000800000)
 
 (1) Die Überwachungsstelle muß über eine ausreichende Zahl an
 Beschäftigten mit der für die Überwachungsaufgaben notwendigen
@@ -221,6 +231,7 @@ beachtenden technischen Anforderungen.
 
 
 ### § 8 Besondere Pflichten der anerkannten Überwachungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE000900000)
 
 Die Überwachungsstelle hat Berichte über die Durchführung der
 Überwachungen anzufertigen. Diese müssen Angaben zum
@@ -234,6 +245,7 @@ Behörde oder der von ihr beauftragten Stelle auf Verlangen vorzulegen.
 
 
 ### § 9 Besondere Anerkennungsvoraussetzungen als Zertifizierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001000000)
 
 (1) Die Zertifizierungsstelle muß über eine ausreichende Zahl an
 Beschäftigten mit der für die Zertifizierungen notwendigen Ausbildung
@@ -261,6 +273,7 @@ technischen Anforderungen.
 
 
 ### § 10 Besondere Pflichten der anerkannten Zertifizierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001100000)
 
 Die Zertifizierungsstelle hat Aufzeichnungen und Berichte über ihre
 Zertifizierungen anzufertigen. Die Berichte müssen Angaben zum
@@ -274,10 +287,12 @@ Notwendigkeit eines Konformitätszertifikats zu erstellen.
 Antrag auf Anerkennung,
 
 ## Abschnitt 3 - Widerruf und Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNG000400000)
 
 
 
 ### § 11 Antrag und Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001200000)
 
 (1) Die Anerkennung ist schriftlich bei der Anerkennungsbehörde zu
 beantragen.
@@ -324,6 +339,7 @@ einzelner Anerkennungsvoraussetzungen einholen.
 
 
 ### § 12 Widerruf und Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001300000)
 
 (1) Die Anerkennung ist zu widerrufen, wenn die anerkannte PÜZ-Stelle
 gegen die ihr obliegenden Pflichten wiederholt oder grob verstoßen
@@ -361,11 +377,13 @@ angezeigt wird.
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/baupgp_zanerkv/BJNR079800996.html#BJNR079800996BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,31 +21,38 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE000900313)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000100313)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001000313)
 
 -
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001101308)
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001201308)
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000200313)
 
 
 
 ## § 1 Entlastung des öffentlichen Personennahverkehrs mit Kraftfahrzeugen von Mineralölsteuer
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001301308)
 
 (1) Den Inhabern von Verkehrsbetrieben wird eine Betriebsbeihilfe
 gewährt für versteuertes Gasöl sowie für versteuertes Flüssiggas und
@@ -127,6 +134,7 @@ kein Anspruch auf Betriebsbeihilfe.
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001400313)
 
 (1) Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von einem
 Beihilfeberechtigten bezogen wurde und für das ein Verbilligungsbetrag
@@ -148,6 +156,7 @@ Branntweinmonopol vom 26. Juni 1973 nachversteuert wurde.
 
 
 ## Art 3 - Zweckbindung des Mehraufkommens der Mineralölsteuer
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000300313)
 
 Das Mehraufkommen an Mineralölsteuer, das sich infolge der Änderung
 des § 2 Abs. 1 des Mineralölsteuergesetzes durch Artikel 1 § 1 dieses
@@ -193,19 +202,23 @@ Bestimmungen des Gemeindefinanzierungsgesetzes zu verwenden.
 
 
 ## Art 4 u. 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000400313)
 
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000500313)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001500313)
 
 -
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001600313)
 
 Für Gasöl, das vor Inkrafttreten dieses Gesetzes von einem
 Verbilligungsberechtigten bezogen wurde und für das ein
@@ -216,15 +229,18 @@ Inkrafttreten dieses Gesetzes bezogenes Gasöl entsprechend.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000600313)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001700313)
 
 -
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001800313)
 
 Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von einem
 Beihilfeberechtigten nach der Gasöl-Betriebsbeihilfe-VO-
@@ -236,15 +252,18 @@ Artikel 1 § 2 dieses Gesetzes nachversteuert wurde.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG000700313)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE001900313)
 
 -
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNE002000313)
 
 Hat die Höhe der zu entrichtenden Kraftfahrzeugsteuer sich auf Grund
 dieses Gesetzes geändert, so ist die Mehrsteuer für die Zeit vom
@@ -258,6 +277,7 @@ Mindersteuer ergibt.
 
 
 ## Art 9 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG002100313)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -267,6 +287,7 @@ Dritten Überleitungsgesetzes.
 
 
 ## Art 10 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkfing_1971/BJNR002019972.html#BJNR002019972BJNG002200313)
 
 Artikel 8 § 1 Nr. 4 und § 2 treten am 1. April 1972, im übrigen tritt
 das Gesetz am 1. März 1972 in Kraft.

@@ -25,6 +25,7 @@ demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -41,6 +42,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000200000)
 
 Der Ausbildungsberuf Mechatroniker für Kältetechnik/Mechatronikerin
 für Kältetechnik wird
@@ -57,11 +59,13 @@ für Kältetechnik wird
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -139,6 +143,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -160,6 +165,7 @@ durchzusehen.
 
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000600000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung besteht aus den beiden
 zeitlich auseinanderfallenden Teilen 1 und 2. Durch die
@@ -182,6 +188,7 @@ Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000700000)
 
 (1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des
 zweiten Ausbildungsjahres stattfinden.
@@ -237,6 +244,7 @@ Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000800000)
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
 in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -424,6 +432,7 @@ zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE000900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -433,12 +442,14 @@ Zwischenprüfung abgelegt worden ist.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (zu § 3)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik
+[Direktlink](https://www.gesetze-im-internet.de/k_ltemechaausbv/BJNR149300007.html#BJNR149300007BJNE001100000)
 
 (Fundstelle: BGBl. I 2007, 1496 - 1500)
 

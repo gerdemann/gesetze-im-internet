@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz1pfbek_bw/BDNR000120949.html#BDNR000120949BJNE000100317)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des
 Geldwesens (Emissionsgesetz) werden demnächst neue auf 1 Pfennig

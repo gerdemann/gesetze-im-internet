@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000100000)
 
 Auf Grund des § 26a Absatz 2 des Wohnungseigentumsgesetzes in der
 Fassung der Bekanntmachung vom 12. Januar 2021 (BGBl. I S. 34)
@@ -24,6 +25,7 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Gegenstand der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000200000)
 
 Gegenstand der Prüfung zum zertifizierten Verwalter nach § 26a Absatz
 1 des Wohnungseigentumsgesetzes sind die in Anlage 1 aufgeführten
@@ -36,6 +38,7 @@ erforderlich.
 
 
 ## § 2 Zuständige Stelle und Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000300000)
 
 (1) Die Prüfung kann vor jeder Industrie- und Handelskammer abgelegt
 werden, die sie anbietet.
@@ -50,6 +53,7 @@ müssen für die Mitwirkung im Prüfungsverfahren geeignet sein.
 
 
 ## § 3 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000400000)
 
 (1) Die Prüfung setzt sich aus einem schriftlichen und einem
 mündlichen Teil zusammen. Die Teilnahme am mündlichen Teil der Prüfung
@@ -68,6 +72,7 @@ Prüfung soll sich zumindest auf Nummer 2.1 der Anlage 1 beziehen.
 
 
 ## § 4 Nichtöffentlichkeit der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000500000)
 
 (1) Die Prüfung ist nicht öffentlich.
 
@@ -94,6 +99,7 @@ eingreifen.
 
 
 ## § 5 Bewertung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000600000)
 
 (1) Nach der Prüfung berät der Prüfungsausschuss über das
 Prüfungsergebnis. Die Personen nach § 4 Absatz 2 dürfen nicht in die
@@ -112,6 +118,7 @@ erreichbaren Punkte erzielt.
 
 
 ## § 6 Wiederholung der Prüfung und Prüfungsbescheinigung, weitere Einzelheiten des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000700000)
 
 (1) Die Prüfung darf beliebig oft wiederholt werden.
 
@@ -126,6 +133,7 @@ Handelskammern durch Satzung.
 
 
 ## § 7 Befreiung von der Prüfungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000800000)
 
 Einem zertifizierten Verwalter gleichgestellt ist, wer
 
@@ -150,6 +158,7 @@ zertifizierte Verwalter bezeichnen.
 
 
 ## § 8 Juristische Personen und Personengesellschaften als zertifizierte Verwalter
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE000900000)
 
 Juristische Personen und Personengesellschaften dürfen sich als
 zertifizierte Verwalter bezeichnen, wenn die bei ihnen Beschäftigten,
@@ -159,17 +168,20 @@ nach § 7 einem zertifizierten Verwalter gleichgestellt sind.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Satz 1)
 
 ## Anlage 1 Prüfungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE001200000)
 
 (Fundstelle: BGBl. I 2021, 5184 - 5185)
 
@@ -325,6 +337,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 6 Absatz 2 Satz 1)
 
 ## Anlage 2 Zertifikat über die erfolgreiche Ablegung einer Prüfung nach § 26a des Wohnungseigentumsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/zertverwv/BJNR518200021.html#BJNR518200021BJNE001300000)
 
 (Fundstelle: BGBl. I 2021, 5186)
 

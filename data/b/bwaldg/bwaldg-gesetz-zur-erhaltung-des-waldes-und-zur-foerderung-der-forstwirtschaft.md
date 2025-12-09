@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000100319)
 
 
 
 ### § 1 Gesetzeszweck
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001300319)
 
 Zweck dieses Gesetzes ist insbesondere,
 
@@ -47,6 +49,7 @@ Zweck dieses Gesetzes ist insbesondere,
 
 
 ### § 2 Wald
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001402377)
 
 (1) Wald im Sinne dieses Gesetzes ist jede mit Forstpflanzen bestockte
 Grundfläche. Als Wald gelten auch kahlgeschlagene oder verlichtete
@@ -103,6 +106,7 @@ gehörende Parkanlagen vom Waldbegriff ausnehmen.
 
 
 ### § 3 Waldeigentumsarten
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001501377)
 
 (1) Staatswald im Sinne dieses Gesetzes ist Wald, der im
 Alleineigentum des Bundes, eines Landes oder einer Anstalt oder
@@ -124,6 +128,7 @@ noch Körperschaftswald ist.
 
 
 ### § 4 Waldbesitzer
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001600319)
 
 Waldbesitzer im Sinne dieses Gesetzes sind der Waldeigentümer und der
 Nutzungsberechtigte, sofern dieser unmittelbarer Besitzer des Waldes
@@ -131,10 +136,12 @@ ist.
 
 
 ## Zweites Kapitel - Erhaltung des Waldes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000200319)
 
 
 
 ### § 5 Vorschriften für die Landesgesetzgebung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001700319)
 
 Die Vorschriften dieses Kapitels sind Rahmenvorschriften für die
 Landesgesetzgebung. Die Länder sollen innerhalb von zwei Jahren nach
@@ -145,14 +152,17 @@ anpassen.
 
 
 ### Abschnitt I - Forstliche Rahmenplanung und Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000300319)
 
 
 
 #### (XXXX) §§ 6 und 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE001801377)
 
 
 
 #### § 8 Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002000319)
 
 Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen,
 die eine Inanspruchnahme von Waldflächen vorsehen oder die in ihren
@@ -172,10 +182,12 @@ Auswirkungen Waldflächen betreffen können,
 
 
 ### Abschnitt II - Erhaltung und Bewirtschaftung des Waldes, Erstaufforstung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000400319)
 
 
 
 #### § 9 Erhaltung des Waldes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002100319)
 
 (1) Wald darf nur mit Genehmigung der nach Landesrecht zuständigen
 Behörde gerodet und in eine andere Nutzungsart umgewandelt werden
@@ -208,6 +220,7 @@ aufgeforstet wird.
 
 
 #### § 10 Erstaufforstung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002200319)
 
 (1) Die Erstaufforstung von Flächen bedarf der Genehmigung der nach
 Landesrecht zuständigen Behörde. Die Genehmigung darf nur versagt
@@ -230,6 +243,7 @@ werden kann. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
 
 #### § 11 Bewirtschaftung des Waldes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002301377)
 
 (1) Der Wald soll im Rahmen seiner Zweckbestimmung ordnungsgemäß und
 nachhaltig bewirtschaftet werden. Durch Landesgesetz ist mindestens
@@ -262,6 +276,7 @@ angemessen berücksichtigt werden.
 
 
 #### § 12 Schutzwald
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002401377)
 
 (1) Wald kann zu Schutzwald erklärt werden, wenn es zur Abwehr oder
 Verhütung von Gefahren, erheblichen Nachteilen oder erheblichen
@@ -291,6 +306,7 @@ Schutzwald zu unterlassen oder durchzuführen.
 
 
 #### § 13 Erholungswald
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002500319)
 
 (1) Wald kann zu Erholungswald erklärt werden, wenn es das Wohl der
 Allgemeinheit erfordert, Waldflächen für Zwecke der Erholung zu
@@ -318,6 +334,7 @@ erlassen über
 
 
 #### § 14 Betreten des Waldes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002601377)
 
 (1) Das Betreten des Waldes zum Zwecke der Erholung ist gestattet. Das
 Radfahren, das Fahren mit Krankenfahrstühlen und das Reiten im Walde
@@ -333,14 +350,17 @@ ganz oder teilweise dem Betreten gleichstellen.
 
 
 ## Drittes Kapitel - Forstwirtschaftliche Zusammenschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000500319)
 
 
 
 ### Abschnitt I - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000600319)
 
 
 
 #### § 15 Arten der forstwirtschaftlichen Zusammenschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002700319)
 
 Forstwirtschaftliche Zusammenschlüsse im Sinne dieses Gesetzes sind
 anerkannte Forstbetriebsgemeinschaften (Abschnitt II),
@@ -349,10 +369,12 @@ Forstwirtschaftliche Vereinigungen (Abschnitt IV).
 
 
 ### Abschnitt II - Forstbetriebsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000700319)
 
 
 
 #### § 16 Begriff
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002800319)
 
 Forstbetriebsgemeinschaften sind privatrechtliche Zusammenschlüsse von
 Grundbesitzern, die den Zweck verfolgen, die Bewirtschaftung der
@@ -364,6 +386,7 @@ Waldaufschlusses oder anderer Strukturmängel zu überwinden.
 
 
 #### § 17 Aufgaben der Forstbetriebsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE002900319)
 
 Die Forstbetriebsgemeinschaft muß mindestens eine der folgenden
 Maßnahmen zur Aufgabe haben:
@@ -395,6 +418,7 @@ Maßnahmen zur Aufgabe haben:
 
 
 #### § 18 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003000319)
 
 (1) Eine Forstbetriebsgemeinschaft wird von der nach Landesrecht
 zuständigen Behörde auf Antrag anerkannt, wenn sie folgende
@@ -479,6 +503,7 @@ umfaßt.
 
 
 #### § 19 Verleihung der Rechtsfähigkeit an Vereine
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003100319)
 
 Hat der forstwirtschaftliche Zusammenschluß die Rechtsform des
 rechtsfähigen Vereins mit wirtschaftlichem Geschäftsbetrieb gewählt,
@@ -488,6 +513,7 @@ Bürgerlichen Gesetzbuchs verliehen werden.
 
 
 #### § 20 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003200319)
 
 Die nach Landesrecht zuständige Behörde kann die Anerkennung
 widerrufen, wenn eine Anerkennungsvoraussetzung nicht mehr vorliegt
@@ -496,10 +522,12 @@ längeren Zeitraumes nicht oder unzulänglich erfüllt hat.
 
 
 ### Abschnitt III - Forstbetriebsverbände
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000800319)
 
 
 
 #### § 21 Begriff und Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003300319)
 
 (1) Forstbetriebsverbände sind Zusammenschlüsse von
 Grundstückseigentümern in der Form von Körperschaften des öffentlichen
@@ -511,6 +539,7 @@ werden.
 
 
 #### § 22 Voraussetzungen für die Bildung eines Forstbetriebsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003400319)
 
 (1) Ein Forstbetriebsverband kann nur für forstwirtschaftlich
 besonders ungünstig strukturierte Gebiete gebildet werden.
@@ -548,6 +577,7 @@ Nutzungsberechtigten in einen Forstbetriebsverband einbezogen werden.
 
 
 #### § 23 Bildung eines Forstbetriebsverbands
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003500319)
 
 (1) Zur Bildung eines Forstbetriebsverbandes hält die nach Landesrecht
 zuständige Behörde eine einleitende Versammlung ab, stellt einen
@@ -568,6 +598,7 @@ Ermächtigung auf oberste Landesbehörden übertragen.
 
 
 #### § 24 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003600319)
 
 (1) Mitglieder eines Forstbetriebsverbands sind die Eigentümer der
 beteiligten Grundstücke. Ist ein anderer als der Eigentümer
@@ -581,6 +612,7 @@ Forstbetriebsverband zu erklären.
 
 
 #### § 25 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003700319)
 
 (1) Die Satzung wird von den Mitgliedern mit der in § 22 Abs. 2 Nr. 3
 bezeichneten Mehrheit beschlossen.
@@ -620,12 +652,14 @@ gelten entsprechend.
 
 
 #### § 26 Organe des Forstbetriebsverbands
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003800319)
 
 Organe des Forstbetriebsverbandes sind die Verbandsversammlung, der
 Vorstand und, sofern es die Satzung vorsieht, der Verbandsausschuß.
 
 
 #### § 27 Aufgaben der Verbandsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE003900319)
 
 Die Verbandsversammlung wählt den Vorstand und dessen Vorsitzenden.
 Sie beschließt über
@@ -656,6 +690,7 @@ Sie beschließt über
 
 
 #### § 28 Vorsitz in der Verbandsversammlung, Einberufung und Stimmenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004000319)
 
 (1) Den Vorsitz in der Verbandsversammlung führt der Vorsitzende des
 Vorstands.
@@ -674,6 +709,7 @@ ist.
 
 
 #### § 29 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004100319)
 
 (1) Der Vorstand des Forstbetriebsverbands besteht aus dem
 Vorsitzenden und mindestens zwei weiteren Mitgliedern.
@@ -683,6 +719,7 @@ gerichtlich und außergerichtlich.
 
 
 #### § 30 Verbandsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004200319)
 
 In der Satzung kann bestimmt werden, daß ein Verbandsausschuß gebildet
 wird. Diesem können in der Satzung unbeschadet des § 27
@@ -693,6 +730,7 @@ mitwirkt.
 
 
 #### § 31 Änderung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004300319)
 
 (1) Über eine Änderung der Satzung beschließt die Verbandsversammlung
 mit einer Mehrheit von mindestens zwei Dritteln der Stimmen aller
@@ -704,6 +742,7 @@ Bekanntmachung wirksam.
 
 
 #### § 32 Ausscheiden von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004400319)
 
 (1) Grundstücke, deren forstwirtschaftliche Nutzung oder Bestimmung
 sich auf Grund einer Rechtsvorschrift oder einer behördlichen
@@ -720,6 +759,7 @@ die Nutzungsberechtigten es verlangen.
 
 
 #### § 33 Umlage, Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004500319)
 
 (1) Der Forstbetriebsverband erhebt von den Mitgliedern eine Umlage,
 soweit seine sonstigen Einnahmen nicht ausreichen, um seinen
@@ -732,6 +772,7 @@ Zwecke oder Leistungen Beiträge erheben.
 
 
 #### § 34 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004600319)
 
 (1) Der Forstbetriebsverband unterliegt der Aufsicht der nach
 Landesrecht zuständigen Behörde. Er bedarf der Genehmigung der
@@ -754,6 +795,7 @@ Landesbehörden übertragen.
 
 
 #### § 35 Verbandsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004700319)
 
 Der Forstbetriebsverband führt ein Verzeichnis der beteiligten
 Grundstücke, der Eigentümer und ihrer Stimmrechte. Die
@@ -764,6 +806,7 @@ Landesbehörden übertragen.
 
 
 #### § 36 Auflösung des Forstbetriebsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004800319)
 
 (1) Die Verbandsversammlung kann mit einer Mehrheit von mindestens
 drei Vierteln der Stimmen aller Mitglieder die Auflösung des
@@ -774,10 +817,12 @@ zuständigen Behörde.
 
 
 ### Abschnitt IV - Forstwirtschaftliche Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG000900319)
 
 
 
 #### § 37 Begriff und Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE004901377)
 
 (1) Forstwirtschaftliche Vereinigungen sind privatrechtliche
 Zusammenschlüsse von
@@ -812,6 +857,7 @@ zur Aufgabe haben:
 
 
 #### § 38 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005000319)
 
 (1) Eine Forstwirtschaftliche Vereinigung wird durch die nach
 Landesrecht zuständige Behörde auf Antrag anerkannt, wenn sie folgende
@@ -852,10 +898,12 @@ können, zu der Forstwirtschaftlichen Vereinigung zulassen.
 
 
 ### Abschnitt V - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG001000319)
 
 
 
 #### § 39 Sonstige Zusammenschlüsse in der Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005100319)
 
 (1) Die nach der Verordnung über die Bildung wirtschaftlicher
 Zusammenschlüsse in der Forstwirtschaft vom 7. Mai 1943
@@ -888,6 +936,7 @@ Zusammenschlüsse in der Forstwirtschaft unberührt.
 
 
 #### § 40 Befreiung von Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005204311)
 
 (1) § 1 des Gesetzes gegen Wettbewerbsbeschränkungen findet keine
 Anwendung auf Beschlüsse von Vereinigungen forstwirtschaftlicher
@@ -918,10 +967,12 @@ werden oder gebildet worden sind.
 
 
 ## Viertes Kapitel - Förderung der Forstwirtschaft, Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG001100319)
 
 
 
 ### § 41 Förderung
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005300319)
 
 (1) Die Forstwirtschaft soll wegen der Nutz-, Schutz- und
 Erholungsfunktionen des Waldes nach § 1 öffentlich gefördert werden.
@@ -973,6 +1024,7 @@ Gesetzes können erhalten:
 
 
 ### § 41a Walderhebungen
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005404118)
 
 (1) Zur Erfüllung der Aufgaben dieses Gesetzes sowie zur Durchführung
 von Rechtsakten der Europäischen Union oder völkerrechtlich
@@ -1029,6 +1081,7 @@ Absatz 2 entsprechend.
 
 
 ### § 42 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005501377)
 
 (1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
@@ -1044,6 +1097,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ### § 43 Verletzung der Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005601377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 42 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder
@@ -1054,10 +1108,12 @@ Euro geahndet werden.
 
 
 ## Fünftes Kapitel - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNG001200319)
 
 
 
 ### § 44 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005703118)
 
 Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit
 Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und
@@ -1065,6 +1121,7 @@ Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und
 
 
 ### § 45 Anwendung des Gesetzes in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005802377)
 
 (1) Auf Flächen, die Zwecken
 
@@ -1106,6 +1163,7 @@ Vorschriften des § 8 zu beachten.
 
 
 ### § 46 Weitere Vorschriften in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE005901311)
 
 (1) Für Beschlüsse und Vereinbarungen über die der Holzvermarktung
 nicht zuzurechnenden forstwirtschaftlichen Maßnahmen von
@@ -1139,11 +1197,13 @@ gegebenenfalls notwendige Anpassungen der Regelungen enthalten.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE006001377)
 
 (weggefallen)
 
 
 ### § 48 Inkrafttreten, Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwaldg/BJNR010370975.html#BJNR010370975BJNE006100319)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

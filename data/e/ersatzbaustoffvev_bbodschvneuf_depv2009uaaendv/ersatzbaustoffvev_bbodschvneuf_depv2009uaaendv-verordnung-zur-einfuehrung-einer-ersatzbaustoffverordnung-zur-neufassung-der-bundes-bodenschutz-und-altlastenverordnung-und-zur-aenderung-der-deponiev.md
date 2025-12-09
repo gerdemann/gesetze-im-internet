@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/BJNR259800021.html#BJNR259800021BJNE000100000)
 
 Auf Grund
 
@@ -68,15 +69,19 @@ Wasserhaushaltsgesetzes:
 
 
 ## Art 1 Verordnung über Anforderungen an den Einbau von mineralischen Ersatz- baustoffen in technische Bauwerke (Ersatzbaustoffverordnung - ErsatzbaustoffV)
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/BJNR259800021.html#BJNR259800021BJNE000200000)
 
 
 ## Art 2 Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV)
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/BJNR259800021.html#BJNR259800021BJNE000300000)
 
 
 ## (XXXX) Art 3 bis 4 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/BJNR259800021.html#BJNR259800021BJNE000400000)
 
 
 ## Art 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/BJNR259800021.html#BJNR259800021BJNE000500000)
 
 (1) Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig
 tritt die Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli

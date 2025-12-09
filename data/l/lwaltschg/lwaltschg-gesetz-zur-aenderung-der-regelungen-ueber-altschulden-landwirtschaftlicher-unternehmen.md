@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNG000100000)
 
 
 
 ### § 1 Altschulden, Kreditnehmer
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000100000)
 
 (1) Als Altschulden landwirtschaftlicher Unternehmen
 (landwirtschaftliche Altschulden) im Sinne dieses Gesetzes gelten
@@ -57,10 +59,12 @@ Rangrücktrittsvereinbarungen der Schuldner einbezogen sind.
 
 
 ## Teil 2 - Änderung von Vertragsinhalten bei Rangrücktrittsvereinbarungen über landwirtschaftliche Altschulden
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNG000200000)
 
 
 
 ### § 2 Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche Altschulden
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000201377)
 
 (1) Bemessungsgrundlage für die von den Kreditnehmern auf
 landwirtschaftliche Altschulden zu leistenden Zahlungen aus dem
@@ -166,6 +170,7 @@ anzusehen sind.
 
 
 ### § 3 Erhöhung des Abführungssatzes
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000300000)
 
 (1) Zahlungen auf landwirtschaftliche Altschulden sind jeweils
 jährlich in Höhe von 55 Prozent der gemäß § 2 für das jeweilige
@@ -185,6 +190,7 @@ Höchstbetrages.
 
 
 ### § 4 Veräußerung nicht betriebsnotwendiger Vermögens- und Betriebsteile
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000400000)
 
 (1) Die Kreditnehmer sind verpflichtet, in der Anlage 2 der
 Rangrücktrittsvereinbarung enthaltene nicht betriebsnotwendige
@@ -216,6 +222,7 @@ hierfür trägt der Kreditnehmer.
 
 
 ### § 5 Überprüfung der Sanierungsabsicht
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000500000)
 
 (1) Bei hinreichend begründeten Zweifeln der Gläubigerbank an der
 tatsächlichen Sanierungsabsicht des Kreditnehmers ist die
@@ -237,6 +244,7 @@ sofortiger Wirkung zu kündigen.
 
 
 ### § 6 Gesetzliche Änderung der Rangrücktrittsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000600000)
 
 Mit dem 1. Juli 2004 werden die in den §§ 2 bis 5 enthaltenen
 Regelungen Bestandteil der zwischen den Kreditnehmern und den
@@ -245,10 +253,12 @@ ersetzen entgegenstehende Regelungen.
 
 
 ## Teil 3 - Vorzeitige Ablösung der landwirtschaftlichen Altschulden
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNG000300000)
 
 
 
 ### § 7 Ablöseregelung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000700000)
 
 (1) Die landwirtschaftlichen Altschulden können auf Antrag durch
 einmalige Zahlung eines für jeden Kreditnehmer gesondert bestimmten
@@ -272,6 +282,7 @@ angewendet.
 
 
 ### § 8 Antragsfristen, Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000800000)
 
 (1) Eine vorzeitige Ablösung der landwirtschaftlichen Altschulden kann
 nur erfolgen, wenn innerhalb von neun Monaten nach dem Inkrafttreten
@@ -325,6 +336,7 @@ Prüfungsverband testierte Unterlagen beizufügen:
 
 
 ### § 9 Entscheidungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE000902377)
 
 (1) Die Gläubigerbank entscheidet über Anträge auf Ablösung der
 landwirtschaftlichen Altschulden im Zusammenwirken mit einer vom
@@ -375,6 +387,7 @@ zu erlassen.
 
 
 ### § 10 Vermögensauseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE001000000)
 
 (1) Der den Ablösebetrag nach § 7 übersteigende Teil der
 landwirtschaftlichen Altschulden steht für die
@@ -389,10 +402,12 @@ Gesellschaftsmitteln verwendet werden darf.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNG000400000)
 
 
 
 ### § 11 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE001100000)
 
 Die Kreditnehmer sind verpflichtet, der Gläubigerbank und der
 beauftragten Stelle auf Verlangen Auskunft über alle für die
@@ -402,6 +417,7 @@ Einsicht in ihre Unterlagen und in ihren Betrieb zu gewähren.
 
 
 ### § 12 Formvorschriften, Änderung der Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE001200000)
 
 (1) Für die Berechnungen der Bemessungsgrundlage nach § 2 sind die
 Regelungen über die Führung von Büchern und Aufzeichnungen nach §§ 140
@@ -417,12 +433,14 @@ Vorschriften ermittelten Gewinns haben sollten.
 
 
 ### § 13 Erstmalige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE001300000)
 
 Die Vorschriften der §§ 2, 3 und 12 sind erstmals auf das
 Geschäftsjahr anzuwenden, das nach dem 30. Juni 2004 beginnt.
 
 
 ### § 14 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lwaltschg/BJNR138310004.html#BJNR138310004BJNE001400000)
 
 (1) Bei Kreditnehmern, die einen Antrag nach § 8 Abs. 1 stellen,
 werden Vorschriften der §§ 2, 3 und 12 in dem Geschäftsjahr, das nach

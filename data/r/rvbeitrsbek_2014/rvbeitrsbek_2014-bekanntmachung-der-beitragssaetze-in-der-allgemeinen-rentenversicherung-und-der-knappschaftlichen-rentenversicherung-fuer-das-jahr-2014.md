@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rvbeitrsbek_2014/BJNR431300013.html#BJNR431300013BJNE000100000)
 
 Auf Grund des § 158 Absatz 4 des Sechsten Buches Sozialgesetzbuch
 – Gesetzliche Rentenversicherung –, der zuletzt durch Artikel 259
@@ -37,6 +38,7 @@ Höhe vor.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rvbeitrsbek_2014/BJNR431300013.html#BJNR431300013BJNE000200000)
 
 Die Bundesministerin für Arbeit und Soziales
 

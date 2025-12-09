@@ -19,6 +19,7 @@ Stand: Zuletzt geändert Art. 1 G v. 19.6.2022 I 920
 
 
 ## § 1 Einsetzung eines Nationalen Normenkontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000102377)
 
 (1) Beim Bundesministerium der Justiz wird ein Nationaler
 Normenkontrollrat mit Dienstsitz in Berlin eingerichtet. Er ist nur an
@@ -40,6 +41,7 @@ Gegenstand der Prüfungen des Nationalen Normenkontrollrates.
 
 
 ## § 2 Erfüllungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000201160)
 
 (1) Der Erfüllungsaufwand umfasst den gesamten messbaren Zeitaufwand
 und die Kosten, die durch die Befolgung einer bundesrechtlichen
@@ -71,6 +73,7 @@ Bürokratiekosten zu berücksichtigen, die auf Bundesrecht beruhen.
 
 
 ## § 3 Zusammensetzung und Organisation des Nationalen Normenkontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000303377)
 
 (1) Der Nationale Normenkontrollrat besteht aus zehn Mitgliedern. Der
 Bundesminister der Justiz schlägt sie im Einvernehmen mit den anderen
@@ -152,6 +155,7 @@ werden.
 
 
 ## § 4 Aufgaben des Nationalen Normenkontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000402377)
 
 (1) Dem Prüfungsrecht des Nationalen Normenkontrollrates unterliegen:
 
@@ -230,6 +234,7 @@ Verwaltung.
 
 
 ## § 5 Befugnisse des Nationalen Normenkontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000501160)
 
 (1) Der Nationale Normenkontrollrat ist berechtigt,
 
@@ -253,6 +258,7 @@ Amtshilfe.
 
 
 ## § 6 Pflichten des Nationalen Normenkontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000602377)
 
 (1) Der Nationale Normenkontrollrat gibt seine Stellungnahmen zu den
 Gesetzentwürfen nicht öffentlich ab. Diese Stellungnahmen und die
@@ -270,6 +276,7 @@ Bundesrates zur Beratung zur Verfügung.
 
 
 ## § 7 Pflichten der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000701160)
 
 Die Bundesregierung erstattet dem Deutschen Bundestag jährlich einen
 Bericht über
@@ -293,6 +300,7 @@ Bericht über
 
 
 ## § 8 Aufgaben des Statistischen Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000900160)
 
 Das Statistische Bundesamt unterstützt bei Bedarf Bundesregierung,
 Bundestag und Bundesrat bei den sich aus diesem Gesetz ergebenden
@@ -303,6 +311,7 @@ Erfolgskontrolle im Sinne dieses Gesetzes erforderlich sind.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/nkrg/BJNR186600006.html#BJNR186600006BJNE000802377)
 
 § 4 Absatz 3 ist ab dem 1. Januar 2023 anzuwenden.
 

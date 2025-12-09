@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000100307)
 
 Auf Grund des § 6 Satz 1 Nr. 1 des Bundesarchivgesetzes vom 6. Januar
 1988 (BGBl. I S. 62) verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Benutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000200307)
 
 Archivgut beim Bundesarchiv steht jedermann auf Antrag nach den
 Vorschriften des Bundesarchivgesetzes und dieser Verordnung zur
@@ -31,6 +33,7 @@ Benutzung offen.
 
 
 ## § 2 Benutzungsart
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000300307)
 
 (1) Archivgut wird zur Benutzung im Original oder in Kopie vorgelegt,
 als Kopie abgegeben, oder es werden Auskünfte über seinen Inhalt
@@ -41,6 +44,7 @@ vorgelegt. Über Ausnahmen entscheidet der Präsident.
 
 
 ## § 3 Benutzungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000400307)
 
 (1) Der Benutzungsantrag ist unter genauer Angabe von Thema und Zweck
 der Nachforschung schriftlich zu stellen.
@@ -64,6 +68,7 @@ neuer Antrag erforderlich.
 
 
 ## § 4 Sorgfaltspflicht des Benutzers
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000500307)
 
 Der Benutzer ist verpflichtet, das Archivgut in den Benutzerräumen zu
 belassen, die innere Ordnung des Archivgutes zu bewahren, es nicht zu
@@ -72,6 +77,7 @@ gefährden.
 
 
 ## § 5 Ausschluß von der Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000600307)
 
 Verstößt ein Benutzer gröblich gegen Vorschriften des
 Bundesarchivgesetzes oder gegen die nach § 6 des Bundesarchivgesetzes
@@ -80,6 +86,7 @@ Bundesarchiv ausgeschlossen.
 
 
 ## § 6 Nutzung durch Stellen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000700307)
 
 Eine der in § 2 Abs. 1 Satz 1 des Bundesarchivgesetzes oder der in § 1
 Abs. 2 und § 2 des Gesetzes über die zentrale Archivierung der
@@ -92,6 +99,7 @@ insoweit keine Anwendung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/barchbv/BJNR185700993.html#BJNR185700993BJNE000800307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rmverblg/BJNR003650950.html#BJNR003650950BJNE000100326)
 
 (1) Reichsmarkverbindlichkeiten zwischen Ländern, Gemeinden und
 Gemeindeverbänden (Gebietskörperschaften) erlöschen, soweit sie vor
@@ -29,6 +30,7 @@ Fälligkeit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rmverblg/BJNR003650950.html#BJNR003650950BJNE000200326)
 
 (1) Folgende Reichsmarkverbindlichkeiten zwischen
 Gebietskörperschaften erlöschen nicht:
@@ -65,6 +67,7 @@ fällig geworden sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rmverblg/BJNR003650950.html#BJNR003650950BJNE000300326)
 
 (1) Bei Meinungsverschiedenheiten darüber, ob eine
 Reichsmarkverbindlichkeit auf Grund dieses Gesetzes erlischt,
@@ -87,12 +90,14 @@ des Schiedsverfahrens über die zuständige Aufsichtsbehörde zu leiten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rmverblg/BJNR003650950.html#BJNR003650950BJNE000400326)
 
 Dieses Gesetz findet auf bereits erfüllte Verbindlichkeiten keine
 Anwendung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rmverblg/BJNR003650950.html#BJNR003650950BJNE000500326)
 
 Dieses Gesetz tritt mit Wirkung vom 21. Juni 1948 in Kraft.
 

@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritav/BJNR023530974.html#BJNR023530974BJNE000100306)
 
 Auf Grund des Artikels 2 des Gesetzes vom 30. Juli 1974 zu dem Vertrag
 vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland und der
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritav/BJNR023530974.html#BJNR023530974BJNE000200306)
 
 Die Beglaubigung nach Artikel 2 des Vertrages vom 7. Juni 1969
 zwischen der Bundesrepublik Deutschland und der Italienischen Republik
@@ -40,6 +42,7 @@ Anstalten und Stiftungen des öffentlichen Rechts.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritav/BJNR023530974.html#BJNR023530974BJNE000300306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 5
@@ -50,6 +53,7 @@ Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urkbefritav/BJNR023530974.html#BJNR023530974BJNE000400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

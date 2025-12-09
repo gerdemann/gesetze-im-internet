@@ -26,9 +26,11 @@ Stand: Ersetzt V 806-22-1-75 v. 21.5.2012 I 1168 (KStoffVerfMAusbV 2012)
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Kunststoff- und
 Kautschuktechnologen und der Kunststoff- und Kautschuktechnologin wird
@@ -36,11 +38,13 @@ nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000300000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse
@@ -59,6 +63,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Ausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000500000)
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -312,6 +317,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000600000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -319,12 +325,15 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000200000)
 
 
 ### Unterabschnitt 1 - Aufteilung der Abschlussprüfung, Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000300000)
 
 
 #### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000700000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -340,6 +349,7 @@ der Abschlussprüfung stattfinden.
 
 
 #### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000800000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -356,6 +366,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE000900000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Herstellen
 einer mechanischen Baugruppe“ statt.
@@ -404,9 +415,11 @@ schriftliche Bearbeitung der Aufgaben 90 Minuten.
 
 
 ### Unterabschnitt 2 - Teil 2 der Abschlussprüfung in der Fachrichtung Formteile
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000400000)
 
 
 #### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -428,6 +441,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001100000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -448,6 +462,7 @@ statt:
 
 
 #### § 11 Prüfungsbereich „Herstellen von Formteilen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001200000)
 
 (1) Im Prüfungsbereich „Herstellen von Formteilen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -524,6 +539,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 12 Prüfungsbereich „Verfahrenstechnische Systeme“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001300000)
 
 (1) Im Prüfungsbereich „Verfahrenstechnische Systeme“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -567,6 +583,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 13 Prüfungsbereich „Produktionsplanung und -analyse“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001400000)
 
 (1) Im Prüfungsbereich „Produktionsplanung und -analyse“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -598,6 +615,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001500000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -611,6 +629,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -685,6 +704,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -725,9 +745,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000500000)
 
 
 #### § 17 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -749,6 +771,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 18 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE001900000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -769,6 +792,7 @@ statt:
 
 
 #### § 19 Prüfungsbereich „Herstellen von Halbzeugen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002000000)
 
 (1) Im Prüfungsbereich „Herstellen von Halbzeugen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -846,6 +870,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 20 Prüfungsbereich „Verfahrenstechnische Systeme“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002100000)
 
 (1) Im Prüfungsbereich „Verfahrenstechnische Systeme“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -889,6 +914,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 21 Prüfungsbereich „Produktionsplanung und -analyse“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002200000)
 
 (1) Im Prüfungsbereich „Produktionsplanung und -analyse“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -920,6 +946,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 22 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002300000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -933,6 +960,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002400000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1007,6 +1035,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 24 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002500000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1047,9 +1076,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000600000)
 
 
 #### § 25 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002600000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -1071,6 +1102,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 26 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002700000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -1091,6 +1123,7 @@ statt:
 
 
 #### § 27 Prüfungsbereich „Herstellen von Mehrschichtkautschukteilen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002800000)
 
 (1) Im Prüfungsbereich „Herstellen von Mehrschichtkautschukteilen“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1174,6 +1207,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 28 Prüfungsbereich „Verfahrenstechnische Systeme“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE002900000)
 
 (1) Im Prüfungsbereich „Verfahrenstechnische Systeme“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1217,6 +1251,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 29 Prüfungsbereich „Produktionsplanung und -analyse“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003000000)
 
 (1) Im Prüfungsbereich „Produktionsplanung und -analyse“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1248,6 +1283,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 30 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003100000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1261,6 +1297,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 31 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1335,6 +1372,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 32 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003300000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1375,9 +1413,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 5 - Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000700000)
 
 
 #### § 33 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -1399,6 +1439,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 34 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003500000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -1419,6 +1460,7 @@ statt:
 
 
 #### § 35 Prüfungsbereich „Herstellen von Compounds und Masterbatches“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003600000)
 
 (1) Im Prüfungsbereich „Herstellen von Compounds und Masterbatches“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1487,6 +1529,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 36 Prüfungsbereich „Verfahrenstechnische Systeme“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003700000)
 
 (1) Im Prüfungsbereich „Verfahrenstechnische Systeme“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1523,6 +1566,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 37 Prüfungsbereich „Kunststoffprüfung und Qualitätsmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003800000)
 
 (1) Im Prüfungsbereich „Kunststoffprüfung und Qualitätsmanagement“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1568,6 +1612,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 38 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE003900000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1581,6 +1626,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 39 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1655,6 +1701,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 40 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004100000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1695,9 +1742,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 6 - Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000800000)
 
 
 #### § 41 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -1719,6 +1768,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 42 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004300000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -1739,6 +1789,7 @@ statt:
 
 
 #### § 43 Prüfungsbereich „Fertigungsauftrag“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004400000)
 
 (1) Im Prüfungsbereich „Fertigungsauftrag“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1799,6 +1850,7 @@ ausgebildet wurde, zu berücksichtigen.
 
 
 #### § 44 Prüfungsbereich „Reparieren und Instandsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004500000)
 
 (1) Im Prüfungsbereich „Reparieren und Instandsetzen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1839,6 +1891,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 45 Prüfungsbereich „Fertigungstechnik und technische Kommunikation“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004600000)
 
 (1) Im Prüfungsbereich „Fertigungstechnik und technische
 Kommunikation“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -1892,6 +1945,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 46 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1905,6 +1959,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 47 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1979,6 +2034,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 48 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE004900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -2016,9 +2072,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 7 - Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG000900000)
 
 
 #### § 49 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -2040,6 +2098,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 50 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005100000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -2060,6 +2119,7 @@ statt:
 
 
 #### § 51 Prüfungsbereich „Herstellen von Faserverbundbauteilen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005200000)
 
 (1) Im Prüfungsbereich „Herstellen von Faserverbundbauteilen“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -2132,6 +2192,7 @@ Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
 
 #### § 52 Prüfungsbereich „Verfahrenstechnische Systeme“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005300000)
 
 (1) Im Prüfungsbereich „Verfahrenstechnische Systeme“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2180,6 +2241,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 53 Prüfungsbereich „Produktionsplanung und -analyse“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005400000)
 
 (1) Im Prüfungsbereich „Produktionsplanung und -analyse“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -2211,6 +2273,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 54 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005500000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -2224,6 +2287,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 55 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005600000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -2298,6 +2362,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 56 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005700000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -2338,9 +2403,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 8 - Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG001000000)
 
 
 #### § 57 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -2362,6 +2429,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 58 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE005900000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -2382,6 +2450,7 @@ statt:
 
 
 #### § 59 Prüfungsbereich „Herstellen von Fenster-, Tür- oder Fassadenelementen“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006000000)
 
 (1) Im Prüfungsbereich „Herstellen von Fenster-, Tür- oder
 Fassadenelementen“ hat der Prüfling nachzuweisen, dass er in der Lage
@@ -2434,6 +2503,7 @@ Zeit soll das situative Fachgespräch höchstens 20 Minuten dauern.
 
 
 #### § 60 Prüfungsbereich „Fertigungstechnik“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006100000)
 
 (1) Im Prüfungsbereich „Fertigungstechnik“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -2482,6 +2552,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 61 Prüfungsbereich „Produktionsplanung und -analyse“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006200000)
 
 (1) Im Prüfungsbereich „Produktionsplanung und -analyse“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -2516,6 +2587,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 62 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006300000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -2529,6 +2601,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 #### § 63 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006400000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -2603,6 +2676,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 #### § 64 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006500000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -2643,12 +2717,15 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG001100000)
 
 
 ### Unterabschnitt 1 - Zusatzqualifikation „Additive Fertigungsverfahren“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG001200000)
 
 
 #### § 65 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006600000)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation „Additive Fertigungsverfahren“
@@ -2659,6 +2736,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 66 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006700000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -2686,6 +2764,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 67 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006800000)
 
 (1) In der Prüfung wird mit dem Prüfling ein fallbezogenes
 Fachgespräch geführt.
@@ -2723,9 +2802,11 @@ bewertet worden ist.
 
 
 ### Unterabschnitt 2 - Zusatzqualifikation „Prozessintegration“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG001300000)
 
 
 #### § 68 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE006900000)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation „Prozessintegration“ vereinbart
@@ -2736,6 +2817,7 @@ genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 #### § 69 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007000000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -2766,6 +2848,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 #### § 70 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007100000)
 
 (1) In der Prüfung wird mit dem Prüfling ein fallbezogenes
 Fachgespräch geführt.
@@ -2803,9 +2886,11 @@ bewertet worden ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNG001400000)
 
 
 ### § 71 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007200000)
 
 Die Regelungen zu den Zusatzqualifikationen nach Abschnitt 3 können ab
 dem 1. August 2023 auch auf Berufsausbildungsverhältnisse, die bereits
@@ -2815,6 +2900,7 @@ Vertragsparteien dies vereinbaren.
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 151, S. 27 - 43)
 
@@ -5014,6 +5100,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 65 Absatz 2)
 
 ### Anlage 2 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation „Additive Fertigungsverfahren“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 151, S. 44)
 
@@ -5115,6 +5202,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 (zu § 68 Absatz 2)
 
 ### Anlage 3 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation „Prozessintegration“
+[Direktlink](https://www.gesetze-im-internet.de/kstofftechausbv/BJNR0970B0023.html#BJNR0970B0023BJNE007500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 151, S. 45)
 

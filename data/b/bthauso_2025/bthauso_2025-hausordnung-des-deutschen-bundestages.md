@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt Hausordnung 1101-1-5 v. 27.4.2023 I Nr. 122 (BTHausO 2023)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000100000)
 
 Auf Grund des Artikels 40 des Grundgesetzes in Verbindung mit § 7
 Absatz 2 der Geschäftsordnung des Deutschen Bundestages habe ich im
@@ -28,6 +29,7 @@ Hausordnung in der Fassung vom 24. Februar 2025 bekannt:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000200000)
 
 Die Gebäude des Deutschen Bundestages (sämtliche der Verwaltung des
 Deutschen Bundestages auf Dauer oder vorübergehend unterstehende
@@ -45,6 +47,7 @@ diese Hausordnung.
 
 
 ## § 2 Zutrittsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000300000)
 
 (1) Zutritt zu den nicht für die Öffentlichkeit zugänglichen Gebäuden
 des Deutschen Bundestages haben
@@ -286,6 +289,7 @@ Sicherheitsmaßnahmen ablehnen, haben keinen Zutritt.
 
 
 ## § 2a Zugangsberechtigung zu IT-Systemen
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000400000)
 
 (1) Der Deutsche Bundestag stellt ein gemeinsames Informations- und
 Kommunikationssystem bereit (IT-Systeme).
@@ -303,6 +307,7 @@ Absatz 2 festgelegt.
 
 
 ## § 3 Plenarsaal
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000500000)
 
 (1) Zutritt zum Plenarsaal des Deutschen Bundestages haben während der
 Sitzungen
@@ -369,6 +374,7 @@ eingeteilten Beschäftigten der Verwaltung des Deutschen Bundestages.
 
 
 ## § 4 Verhalten in Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000600000)
 
 (1) In den Gebäuden des Deutschen Bundestages sind Ruhe und Ordnung zu
 wahren, die Würde des Hauses zu achten und auf die Arbeit im Haus
@@ -417,6 +423,7 @@ erteilten Berechtigung gestattet.
 
 
 ## § 5 Besondere Verhaltensregeln für die Besucherinnen und Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000700000)
 
 (1) Einzelbesucherinnen und Einzelbesucher sowie Angehörige von
 Besuchergruppen haben vor dem Betreten Mäntel, Schirme, Koffer und
@@ -435,6 +442,7 @@ die geeignet sind, den Ablauf der Sitzungen zu stören, untersagt.
 
 
 ## § 6 Bild- und Tonaufnahmen, Medien
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000800000)
 
 (1) Geräte zur Aufzeichnung, Übermittlung, Übertragung oder Wiedergabe
 von Bild und Ton dürfen nur mit Einwilligung der Präsidentin oder des
@@ -462,6 +470,7 @@ antisemitische Inhalte aufweist.
 
 
 ## § 7 Anordnungen des Ordnungspersonals, Hausverbot
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE000900000)
 
 (1) Die zuständigen Mitarbeiterinnen und Mitarbeiter haben die zum
 Schutze der parlamentarischen Arbeit erforderlichen Ordnungs- und
@@ -476,6 +485,7 @@ bei einem Verstoß gegen diese Hausordnung ein Hausverbot verhängen.
 
 
 ## § 8 Besondere Veranstaltungen, Pachtbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE001000000)
 
 (1) Über die Überlassung von Räumlichkeiten des Bundestages für
 Veranstaltungen von Behörden, Organisationen oder anderen Stellen
@@ -498,6 +508,7 @@ Vereinbarungen maßgebend.
 
 
 ## § 9 Bibliothek, Archiv, Sondereinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE001100000)
 
 Für die Benutzung der Bibliothek, der Archive und anderer
 Sondereinrichtungen sind die entsprechenden Benutzungsordnungen
@@ -505,6 +516,7 @@ maßgebend.
 
 
 ## § 10 Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bthauso_2025/BJNR04D0A0025.html#BJNR04D0A0025BJNE001200000)
 
 (1) Diese Hausordnung tritt mit dem Tage ihrer Veröffentlichung im
 Bundesgesetzblatt in Kraft.

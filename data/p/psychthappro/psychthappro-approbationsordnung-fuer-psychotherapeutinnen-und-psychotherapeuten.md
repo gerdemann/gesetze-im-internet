@@ -27,6 +27,7 @@ Stand: Ersetzt V 2122-5-1 v. 18.12.1998 I 3749 (PsychTh-APrV) u. V 2122-5-2 v. 1
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000100000)
 
 Auf Grund des § 20 Absatz 1 und 2 des Psychotherapeutengesetzes vom
 15\. November 2019 (BGBl. I S. 1604) verordnet das Bundesministerium
@@ -34,12 +35,15 @@ für Gesundheit:
 
 
 ## Abschnitt 1 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000200000)
 
 
 #### § 1 Inhalte des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000300000)
 
 (1) In dem Studium, das nach § 2 Absatz 1 Nummer 1 des
 Psychotherapeutengesetzes Voraussetzung für die Erteilung einer
@@ -65,6 +69,7 @@ Psychotherapeutengesetzes genannte Studienziel erreicht werden kann.
 
 
 #### § 2 Regelstudienzeit
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000400000)
 
 Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes
 beträgt
@@ -79,6 +84,7 @@ beträgt
 
 
 #### § 3 Organisation des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000500000)
 
 (1) Das Studium ist an Lernergebnissen orientiert in Modulen zu
 organisieren, sofern in dieser Verordnung nicht etwas Abweichendes
@@ -91,6 +97,7 @@ entsprechen.
 
 
 #### § 4 Modulhandbücher
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000600000)
 
 (1) Die Hochschule hat ein Modulhandbuch für den Bachelorstudiengang
 und ein Modulhandbuch für den Masterstudiengang zu erstellen.
@@ -109,6 +116,7 @@ hervorgehen, in welchen Modulen die in Anlage 2 und in den §§ 17 und
 
 
 #### § 5 Prüfungsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000701116)
 
 (1) Die Hochschule legt in einer Prüfungsordnung für den
 Bachelorstudiengang und in einer Prüfungsordnung für den
@@ -138,6 +146,7 @@ des Studiums nach § 7 des Psychotherapeutengesetzes erreicht wird.
 
 
 #### § 6 Leistungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000800000)
 
 Die Hochschule hat der studierenden Person eine Leistungsübersicht
 über die Studien- und Prüfungsleistungen, die die studierende Person
@@ -146,6 +155,7 @@ Person dies bei der Hochschule beantragt.
 
 
 #### § 7 Evaluierung der Studiengänge
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE000900000)
 
 Die Hochschulen teilen die Ergebnisse der nach Landesrecht
 vorgeschriebenen Evaluierung der Studiengänge den nach § 22 Absatz 5
@@ -153,9 +163,11 @@ des Psychotherapeutengesetzes zuständigen Stellen mit.
 
 
 ### Unterabschnitt 2 - Hochschulische Lehre
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000300000)
 
 
 #### § 8 Hochschulische Lehre
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001000000)
 
 Die Hochschulen müssen den studierenden Personen im Rahmen der
 hochschulischen Lehre mindestens den Erwerb folgender Inhalte
@@ -176,6 +188,7 @@ ermöglichen:
 
 
 #### § 9 Praktische Übungen und Seminare
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001100000)
 
 (1) Die praktischen Übungen und Seminare umfassen die Unterweisung an
 Simulationspatientinnen und Simulationspatienten sowie die Vorstellung
@@ -188,6 +201,7 @@ für Patientinnen und Patienten sind zu vermeiden.
 
 
 #### § 10 Berufsqualifizierende Tätigkeit II – vertiefte Praxis der Psychotherapie
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001200000)
 
 (1) Die berufsqualifizierende Tätigkeit II – vertiefte Praxis der
 Psychotherapie umfasst folgende Wissensbereiche:
@@ -254,6 +268,7 @@ studierenden Personen durch fachkundiges Personal anzuleiten.
 
 
 #### § 11 Selbstreflexion
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001300000)
 
 (1) Die Selbstreflexion findet studienbegleitend und in Form von
 Seminaren oder praktischen Übungen statt. Sie wird an der Hochschule
@@ -268,9 +283,11 @@ Abhängigkeitsverhältnis besteht.
 
 
 ### Unterabschnitt 3 - Berufspraktische Einsätze
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000400000)
 
 
 #### § 12 Berufspraktische Einsätze im Bachelorstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001400000)
 
 (1) Die Hochschulen müssen den studierenden Personen im
 Bachelorstudiengang mindestens folgende berufspraktische Einsätze
@@ -295,6 +312,7 @@ der jeweiligen Inhalte erforderlich sind.
 
 
 #### § 13 Forschungsorientiertes Praktikum I – Grundlagen der Forschung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001500000)
 
 (1) Das forschungsorientierte Praktikum I – Grundlagen der Forschung
 dient dem Erwerb grundlegender Erfahrungen im wissenschaftlichen
@@ -325,6 +343,7 @@ und Durchführung mitzuarbeiten.
 
 
 #### § 14 Orientierungspraktikum
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001601130)
 
 (1) Das Orientierungspraktikum dient dem Erwerb erster praktischer
 Erfahrungen in allgemeinen Bereichen mit Bezug zur Gesundheits- und
@@ -355,6 +374,7 @@ entsprechen.
 
 
 #### § 15 Berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001700000)
 
 (1) Die berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der
 Psychotherapie dient dem Erwerb erster praktischer Erfahrungen in
@@ -418,6 +438,7 @@ hat.
 
 
 #### § 16 Berufspraktische Einsätze im Masterstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001800000)
 
 (1) Die Hochschulen müssen den studierenden Personen im
 Masterstudiengang mindestens folgende berufspraktische Einsätze
@@ -439,6 +460,7 @@ jeweils zu erwerbenden Inhalte erforderlich sind.
 
 
 #### § 17 Forschungsorientiertes Praktikum II – Psychotherapieforschung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE001900000)
 
 (1) Das forschungsorientierte Praktikum II – Psychotherapieforschung
 dient dem Erwerb vertiefter praktischer Erfahrungen in der Erforschung
@@ -486,6 +508,7 @@ deren Planung und Durchführung mitzuarbeiten.
 
 
 #### § 18 Berufsqualifizierende Tätigkeit III – angewandte Praxis der Psychotherapie
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002000000)
 
 (1) Die berufsqualifizierende Tätigkeit III – angewandte Praxis der
 Psychotherapie dient der Vertiefung der praktischen Kompetenzen in der
@@ -602,18 +625,22 @@ Fachkunde.
 
 
 ## Abschnitt 2 - Psychotherapeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000500000)
 
 
 ### Unterabschnitt 1 - Allgemeine Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000600000)
 
 
 #### § 19 Einrichtung der für das Prüfungswesen zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002100000)
 
 Die Länder richten für die psychotherapeutische Prüfung zuständige
 Stellen ein.
 
 
 #### § 20 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002200000)
 
 (1) Die psychotherapeutische Prüfung wird vor der zuständigen Stelle
 des Landes abgelegt, in dem die Prüfungskandidatin oder der
@@ -632,6 +659,7 @@ nach Absatz 1 oder Absatz 2 zuständigen Stelle.
 
 
 #### § 21 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002301130)
 
 (1) Der Antrag auf Zulassung zur psychotherapeutischen Prüfung ist an
 die nach § 20 zuständige Stelle zu richten.
@@ -647,6 +675,7 @@ Regelstudienzeit des Masterstudiengangs gestellt werden.
 
 
 #### § 22 Erforderliche Unterlagen bei Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002400000)
 
 (1) Dem Antrag auf Zulassung zur psychotherapeutischen Prüfung sind
 folgende Unterlagen im Original oder in beglaubigter Kopie beizufügen:
@@ -707,6 +736,7 @@ Prüfungskandidatin oder den Prüfungskandidaten ist nicht zulässig.
 
 
 #### § 23 Entscheidung über die Zulassung, Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002500000)
 
 (1) Die nach § 20 zuständige Stelle entscheidet über die Zulassung zur
 psychotherapeutischen Prüfung.
@@ -762,6 +792,7 @@ mitzuteilen.
 
 
 #### § 24 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002600000)
 
 (1) Einer Prüfungskandidatin oder einem Prüfungskandidaten mit
 Behinderung oder Beeinträchtigung wird bei der Durchführung der
@@ -791,6 +822,7 @@ verändert werden.
 
 
 #### § 25 Prüfungskommission für die psychotherapeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002702130)
 
 (1) Die nach § 20 zuständige Stelle richtet die Prüfungskommission für
 die psychotherapeutische Prüfung ein.
@@ -853,6 +885,7 @@ bestellt.
 
 
 #### § 26 Anwesenheit weiterer Personen in der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002800000)
 
 Die nach § 20 zuständige Stelle kann zu beiden Teilen der
 psychotherapeutischen Prüfung weitere Personen als Beobachterinnen
@@ -863,6 +896,7 @@ teilzunehmen.
 
 
 #### § 27 Inhalt der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE002901130)
 
 Die psychotherapeutische Prüfung erstreckt sich auf die im Studium
 vermittelten Inhalte, über die eine Psychotherapeutin oder ein
@@ -876,6 +910,7 @@ einzubeziehen.
 
 
 #### § 28 Bestehen der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003000000)
 
 Die psychotherapeutische Prüfung ist bestanden, wenn
 
@@ -889,6 +924,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 
 #### § 29 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003100000)
 
 (1) Hat eine Prüfungskandidatin oder ein Prüfungskandidat einen Teil
 der psychotherapeutischen Prüfung in erheblichem Maß gestört oder in
@@ -905,6 +941,7 @@ psychotherapeutischen Prüfung zulässig.
 
 
 #### § 30 Rücktritt von der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003200000)
 
 (1) Tritt eine Prüfungskandidatin oder ein Prüfungskandidat nach der
 Zulassung zur psychotherapeutischen Prüfung, aber vor Beginn des
@@ -929,6 +966,7 @@ Teil der psychotherapeutischen Prüfung nicht bestanden.
 
 
 #### § 31 Fernbleiben und Abbruch der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003300000)
 
 (1) Bleibt eine Prüfungskandidatin oder ein Prüfungskandidat einem
 Teil der psychotherapeutischen Prüfung fern, ist § 30 entsprechend
@@ -940,6 +978,7 @@ der Abbruch als Fernbleiben.
 
 
 #### § 32 Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003400000)
 
 (1) Anträge auf Zulassung zur psychotherapeutischen Prüfung, die
 Niederschrift über die mündlich-praktische Fallprüfung und die
@@ -955,6 +994,7 @@ Aufbewahrung derselben regelt die nach § 20 zuständige Stelle.
 
 
 #### § 33 Zeugnis über die psychotherapeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003500000)
 
 (1) Das Zeugnis über die psychotherapeutische Prüfung wird von der
 nach § 20 zuständigen Stelle ausgestellt, sobald die
@@ -967,6 +1007,7 @@ Prüfung ist das Muster der Anlage 3 zu verwenden.
 
 
 #### § 34 Mitteilung bei endgültigem Nichtbestehen der psychotherapeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003600000)
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat einen Teil
 der psychotherapeutischen Prüfung und damit die psychotherapeutische
@@ -987,9 +1028,11 @@ gemeinsamen Einrichtung übermittelt werden.
 
 
 ### Unterabschnitt 2 - Mündlich-praktische Fallprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000700000)
 
 
 #### § 35 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003700000)
 
 (1) Die mündlich-praktische Fallprüfung wird frühestens in einem
 Wintersemester im Monat März und in einem Sommersemester im Monat
@@ -1001,6 +1044,7 @@ Stelle in Absprache mit der Hochschule festgelegt.
 
 
 #### § 36 Ladung zum Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003800000)
 
 (1) Die nach § 20 zuständige Stelle stellt der Prüfungskandidatin oder
 dem Prüfungskandidaten die Ladung zur mündlich-praktischen Fallprüfung
@@ -1014,6 +1058,7 @@ Prüfungskandidaten eingegangen sein.
 
 
 #### § 37 Prüferinnen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE003900000)
 
 (1) Für die mündlich-praktische Fallprüfung werden auf Vorschlag der
 Hochschule von der nach § 20 zuständigen Stelle aus den weiteren
@@ -1058,6 +1103,7 @@ zuständig.
 
 
 #### § 38 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004000000)
 
 (1) Gegenstand der mündlich-praktischen Fallprüfung ist eine
 Patientenanamnese.
@@ -1111,6 +1157,7 @@ der psychotherapeutischen Prüfung zu ermöglichen.
 
 
 #### § 39 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004100000)
 
 (1) Die mündlich-praktische Fallprüfung wird als Einzelprüfung
 durchgeführt.
@@ -1120,6 +1167,7 @@ und soll höchstens 45 Minuten dauern.
 
 
 #### § 40 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004200000)
 
 (1) Über die mündlich-praktische Fallprüfung ist eine Niederschrift
 nach dem Muster der Anlage 4 zu erstellen.
@@ -1130,6 +1178,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 #### § 41 Bewertung und Notenwerte
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004300000)
 
 (1) Die in der mündlich-praktischen Fallprüfung erbrachte Leistung
 sowie das eingereichte Sitzungsprotokoll sind einzeln zu bewerten.
@@ -1206,6 +1255,7 @@ praktische Fallprüfung. In die Berechnung geht ein:
 
 
 #### § 42 Bestehen und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004400000)
 
 (1) Die mündlich-praktische Fallprüfung ist bestanden, wenn der für
 die Prüfungskandidatin oder den Prüfungskandidaten nach § 41 Absatz 6
@@ -1222,6 +1272,7 @@ praktische Fallprüfung.
 
 
 #### § 43 Mitteilung der Notenwerte und der Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004500000)
 
 (1) Die oder der Vorsitzende der mündlich-praktischen Fallprüfung
 teilt der Prüfungskandidatin oder dem Prüfungskandidaten die
@@ -1235,6 +1286,7 @@ Niederschrift.
 
 
 #### § 44 Übermittlung der einzelnen Noten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004600000)
 
 Die oder der Vorsitzende der mündlich-praktischen Fallprüfung
 übermittelt der nach § 20 zuständigen Stelle die Notenwerte für die in
@@ -1245,6 +1297,7 @@ mündlich-praktischen Fallprüfung innerhalb von zwei Werktagen.
 
 
 #### § 45 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004700000)
 
 (1) Die mündlich-praktische Fallprüfung kann zweimal wiederholt
 werden. Eine weitere Wiederholung ist auch nach einem erneuten Studium
@@ -1276,9 +1329,11 @@ erneuten Studium nicht zulässig.
 
 
 ### Unterabschnitt 3 - Anwendungsorientierte Parcoursprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000800000)
 
 
 #### § 46 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004800000)
 
 (1) Die anwendungsorientierte Parcoursprüfung wird frühestens in einem
 Wintersemester im Monat März und in einem Sommersemester im Monat
@@ -1290,6 +1345,7 @@ Stelle in Absprache mit der Hochschule festgelegt.
 
 
 #### § 47 Ladung zum Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE004900000)
 
 (1) Die nach § 20 zuständige Stelle stellt der Prüfungskandidatin oder
 dem Prüfungskandidaten die Ladung zur anwendungsorientierten
@@ -1303,6 +1359,7 @@ Prüfungskandidaten eingegangen sein.
 
 
 #### § 48 Stationen und Kompetenzbereiche
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005001130)
 
 (1) Der Parcours der anwendungsorientierten Parcoursprüfung besteht
 aus zwei Stationen. Gegenstand der Stationen sind die
@@ -1361,6 +1418,7 @@ nach § 20 zuständige Stelle festgelegt ist.
 
 
 #### § 49 Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005103130)
 
 (1) Für jeden Prüfungstermin der anwendungsorientierten
 Parcoursprüfung wird ein Parcours erstellt; jeder Parcours umfasst
@@ -1422,6 +1480,7 @@ Vereinbarung der Länder einer gemeinsamen Einrichtung bedienen.
 
 
 #### § 50 Prüferinnen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005202130)
 
 (1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag
 der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren
@@ -1481,6 +1540,7 @@ Ordnung. Sie oder er leitet die Prüfung und prüft selbst.
 
 
 #### § 51 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005303130)
 
 (1) Die nach § 20 zuständige Stelle stellt für jeden Prüfungstermin
 der anwendungsorientierten Parcoursprüfung den Parcours nach § 49
@@ -1510,6 +1570,7 @@ Stationen erfolgen.
 
 
 #### § 52 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005401130)
 
 (1) Die an jeder Station in den Kompetenzbereichen erbrachten
 Leistungen werden von beiden Prüferinnen oder Prüfern der jeweiligen
@@ -1534,6 +1595,7 @@ anwendungsorientierten Parcoursprüfung.
 
 
 #### § 53 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005501130)
 
 (1) Die oder der Vorsitzende der anwendungsorientierten
 Parcoursprüfung stellt anhand der für jeden Kompetenzbereich
@@ -1562,6 +1624,7 @@ Kompetenzbereiche.
 
 
 #### § 54 Note
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005602130)
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat die
 anwendungsorientierte Parcoursprüfung bestanden, so lautet die Note
@@ -1596,6 +1659,7 @@ Note für die anwendungsorientierte Parcoursprüfung „nicht bestanden“.
 
 
 #### § 55 Übermittlung der Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005701130)
 
 (1) Die oder der Vorsitzende der anwendungsorientierten
 Parcoursprüfung übermittelt der nach § 20 zuständigen Stelle die
@@ -1618,6 +1682,7 @@ oder der Vorsitzende Folgendes gesondert anzugeben:
 
 
 #### § 56 Mitteilung des Ergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005801130)
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat die
 anwendungsorientierte Parcoursprüfung bestanden, so teilt die nach §
@@ -1659,6 +1724,7 @@ nach § 20 zuständige Stelle ihr oder ihm Folgendes mit:
 
 
 #### § 57 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE005900000)
 
 (1) Die anwendungsorientierte Parcoursprüfung kann zweimal wiederholt
 werden. Eine weitere Wiederholung ist auch nach einem erneuten Studium
@@ -1681,9 +1747,11 @@ erneuten Studium nicht zulässig.
 
 
 ## Abschnitt 3 - Allgemeine Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG000900000)
 
 
 ### § 58 Vorlage von Unterlagen, Bescheinigungen oder sonstigen Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006000000)
 
 (1) Wird in dieser Verordnung die Vorlage von Unterlagen,
 Bescheinigungen oder sonstigen Nachweisen gefordert, so können sie im
@@ -1702,9 +1770,11 @@ verlangen.
 
 
 ## Abschnitt 4 - Approbation
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001000000)
 
 
 ### § 59 Ausstellung und Aushändigung der Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006100000)
 
 (1) Die nach § 22 Absatz 1 oder Absatz 2 des Psychotherapeutengesetzes
 zuständige Behörde stellt die Approbationsurkunde aus. Bei der
@@ -1717,6 +1787,7 @@ ihr mit Zustellungsurkunde zu.
 
 
 ### § 60 Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006200000)
 
 (1) Personen, die die Approbation als Psychotherapeutin oder
 Psychotherapeut aufgrund einer in Deutschland erworbenen
@@ -1759,12 +1830,15 @@ nicht älter als einen Monat sind.
 
 
 ## Abschnitt 5 - Anerkennung von im Ausland erworbenen Berufsqualifikationen und erforderliche Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001100000)
 
 
 ### Unterabschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001200000)
 
 
 #### § 61 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006300000)
 
 (1) Beantragt eine Person, die im Ausland eine Berufsqualifikation
 erworben hat, die Approbation als Psychotherapeutin oder als
@@ -1784,6 +1858,7 @@ innerhalb von zwei Monaten erfolgen.
 
 
 #### § 62 Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer im Ausland erworbenen Berufsqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006400000)
 
 (1) Personen, die die Approbation als Psychotherapeutin oder
 Psychotherapeut aufgrund einer im Ausland erworbenen
@@ -1827,6 +1902,7 @@ beglaubigter Übersetzung vorzulegen.
 
 
 #### § 63 Bescheid bei Feststellung wesentlicher Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006500000)
 
 (1) Stellt die nach § 22 Absatz 2 des Psychotherapeutengesetzes
 zuständige Behörde hinsichtlich der Gleichwertigkeit der erworbenen
@@ -1874,9 +1950,11 @@ antragstellenden Person einen rechtsmittelfähigen Bescheid.
 
 
 ### Unterabschnitt 2 - Anpassungsmaßnahmen nach § 11 des Psychotherapeutengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001300000)
 
 
 #### § 64 Gegenstand und Art der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006600000)
 
 (1) In der Kenntnisprüfung hat die antragstellende Person
 nachzuweisen, dass sie über die Kenntnisse und Fähigkeiten verfügt,
@@ -1888,6 +1966,7 @@ Parcoursprüfung.
 
 
 #### § 65 Durchführung und Abschluss der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006700000)
 
 (1) Die Kenntnisprüfung wird als Teil der psychotherapeutischen
 Prüfung durchgeführt. Die Länder können zur Durchführung der
@@ -1918,9 +1997,11 @@ einer Erlaubnis zur vorübergehenden Berufsausübung möglich ist.
 
 
 ### Unterabschnitt 3 - Anpassungsmaßnahmen nach § 12 des Psychotherapeutengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001400000)
 
 
 #### § 66 Anpassungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006800000)
 
 (1) Der Anpassungslehrgang nach § 12 Absatz 3 Satz 1 des
 Psychotherapeutengesetzes (Anpassungslehrgang) ist eine praktische
@@ -1962,6 +2043,7 @@ festgestellt worden sind.
 
 
 #### § 67 Durchführung und Abschluss des Anpassungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE006900000)
 
 (1) Während des Anpassungslehrgangs arbeitet die antragstellende
 Person unter Aufsicht und Weisung einer Psychotherapeutin oder eines
@@ -1985,6 +2067,7 @@ aus. Bei der Ausstellung ist das Muster der Anlage 7 zu verwenden.
 
 
 #### § 68 Gegenstand der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007000000)
 
 (1) In der Eignungsprüfung hat die antragstellende Person
 nachzuweisen, dass sie über die Kenntnisse und Fähigkeiten verfügt,
@@ -2011,6 +2094,7 @@ folgender Art zu stellen:
 
 
 #### § 69 Durchführung und Abschluss der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007100000)
 
 (1) Die Länder können zur Durchführung der Eignungsprüfung die
 Prüferinnen oder Prüfer und die Prüfungstermine der mündlich-
@@ -2047,9 +2131,11 @@ Durchführung der Eignungsprüfung entsprechend.
 
 
 ### Unterabschnitt 4 - Nachweise bei in einem Drittstaat erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001500000)
 
 
 #### § 70 Nachweis der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007200000)
 
 (1) Personen, die die Approbation als Psychotherapeutin oder
 Psychotherapeut aufgrund einer in einem Drittstaat erworbenen
@@ -2105,6 +2191,7 @@ untersagt worden ist.
 
 
 #### § 71 Nachweis der gesundheitlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007300000)
 
 Personen, die die Approbation als Psychotherapeutin oder
 Psychotherapeut aufgrund einer in einem Drittstaat erworbenen
@@ -2134,6 +2221,7 @@ beigefügt werden.
 
 
 #### § 72 Aktualität von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007400000)
 
 Die Nachweise nach den §§ 70 und 71 werden nur anerkannt, wenn sie zum
 Zeitpunkt ihres Eingangs bei der nach § 22 Absatz 2 des
@@ -2142,9 +2230,11 @@ Monate sind.
 
 
 ### Unterabschnitt 5 - Nachweise bei in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat erworbenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001600000)
 
 
 #### § 73 Nachweis der Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007500000)
 
 (1) Eine Person, die über eine in einem anderen Mitgliedstaat, in
 einem anderen Vertragsstaat oder in einem gleichgestellten Staat
@@ -2189,6 +2279,7 @@ Erklärung gibt.
 
 
 #### § 74 Nachweis der gesundheitlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007600000)
 
 (1) Eine Person, die über eine in einem anderen Mitgliedstaat, in
 einem anderen Vertragsstaat oder in einem gleichgestellten Staat
@@ -2206,6 +2297,7 @@ erfüllt ist.
 
 
 #### § 75 Aktualität von Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007700000)
 
 Die Nachweise nach den §§ 73 und 74 werden nur anerkannt, wenn sie zum
 Zeitpunkt ihres Eingangs bei der nach § 22 Absatz 2 des
@@ -2214,9 +2306,11 @@ Monate sind.
 
 
 ## Abschnitt 6 - Erlaubnis zur vorübergehenden Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001700000)
 
 
 ### § 76 Erforderliche Unterlagen beim Antrag
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007800000)
 
 (1) Personen, die eine Erlaubnis zur vorübergehenden Berufsausübung
 nach § 3 des Psychotherapeutengesetzes erstmals beantragen, haben dem
@@ -2280,6 +2374,7 @@ zusätzlich in amtlich beglaubigter Übersetzung vorzulegen.
 
 
 ### § 77 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE007900000)
 
 (1) Beantragt eine Person, die über eine im Ausland erworbene
 Berufsqualifikation verfügt, eine Erlaubnis zur vorübergehenden
@@ -2298,6 +2393,7 @@ Person.
 
 
 ### § 78 Erteilung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008000000)
 
 (1) Bei der Entscheidung über die erstmalige Erteilung der Erlaubnis
 zur vorübergehenden Berufsausübung nach § 3 des
@@ -2360,6 +2456,7 @@ Muster nach Anlage 9 zu verwenden.
 
 
 ### § 79 Verlängerung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008100000)
 
 (1) Dem Antrag auf Verlängerung der Erlaubnis zur vorübergehenden
 Berufsausübung nach § 3 des Psychotherapeutengesetzes sind folgende
@@ -2395,9 +2492,11 @@ entsprechend.
 
 
 ## Abschnitt 7 - Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001800000)
 
 
 ### § 80 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008200000)
 
 Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach §
 4 Absatz 1 des Psychotherapeutengesetzes ist das Muster nach Anlage 10
@@ -2405,9 +2504,11 @@ zu verwenden.
 
 
 ## Abschnitt 8 - Dienstleistungserbringung in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG001900000)
 
 
 ### § 81 Unterrichtung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008300000)
 
 (1) Die nach § 22 Absatz 6 Satz 1 des Psychotherapeutengesetzes
 zuständige Behörde teilt der Person, die erstmals gemeldet hat, eine
@@ -2429,6 +2530,7 @@ zuständigen Behörde eingegangen sind.
 
 
 ### § 82 Verfahren bei Verzögerung der Prüfung, Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008400000)
 
 (1) Ist es der nach § 22 Absatz 6 Satz 1 des Psychotherapeutengesetzes
 zuständigen Behörde in besonderen Ausnahmefällen nicht möglich, die
@@ -2457,6 +2559,7 @@ durchgeführt.
 
 
 ### § 83 Verfahren bei Ausbleiben einer Reaktion der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008500000)
 
 Bleibt die Unterrichtung durch die nach § 22 Absatz 6 Satz 1 des
 Psychotherapeutengesetzes zuständige Behörde innerhalb der Frist nach
@@ -2465,9 +2568,11 @@ erbracht werden.
 
 
 ## Abschnitt 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNG002000000)
 
 
 ### § 84 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008602130)
 
 (1) Personen, die nach § 27 des Psychotherapeutengesetzes ihre
 Ausbildung zur Psychologischen Psychotherapeutin oder zum
@@ -2517,6 +2622,7 @@ Satzes 1 insgesamt nur zweimal wiederholt werden.
 
 
 ### § 85 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008700000)
 
 Diese Verordnung tritt am 1. September 2020 in Kraft. Gleichzeitig
 treten außer Kraft:
@@ -2537,12 +2643,14 @@ treten außer Kraft:
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 8 Nummer 1)
 
 ### Anlage 1 Inhalte, die im Bachelorstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE008900000)
 
 (Fundstelle: BGBl. I 2020, 469 - 472)
 
@@ -3014,6 +3122,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 8 Nummer 2)
 
 ### Anlage 2 Inhalte, die im Masterstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009000000)
 
 (Fundstelle: BGBl. I 2020, 473 - 475)
 
@@ -3434,6 +3543,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 33 Absatz 2)
 
 ### Anlage 3 Zeugnis über die psychotherapeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009100000)
 
 (Fundstelle: BGBl. I 2020, 476)
 
@@ -3490,6 +3600,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 40 Absatz 1)
 
 ### Anlage 4 Niederschrift über die mündlich-praktische Fallprüfung nach § 40 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009200000)
 
 (Fundstelle: BGBl. I 2020, 477)
 
@@ -3581,6 +3692,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 59 Absatz 1)
 
 ### Anlage 5 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009300000)
 
 (Fundstelle: BGBl. I 2020, 478)
 
@@ -3647,6 +3759,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 65 Absatz 5)
 
 ### Anlage 6 Bescheinigung über die Kenntnisprüfung nach den §§ 64 und 65 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009400000)
 
 (Fundstelle: BGBl. I 2020, 479)
 
@@ -3714,6 +3827,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 67 Absatz 4)
 
 ### Anlage 7 Bescheinigung über die Teilnahme am Anpassungslehrgang nach den §§ 66 und 67 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009500000)
 
 (Fundstelle: BGBl. I 2020, 480)
 
@@ -3772,6 +3886,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 69 Absatz 6)
 
 ### Anlage 8 Bescheinigung über die Eignungsprüfung nach den §§ 68 und 69 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009600000)
 
 (Fundstelle: BGBl. I 2020, 481)
 
@@ -3845,6 +3960,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 78 Absatz 5)
 
 ### Anlage 9 Erlaubnis zur vorübergehenden Berufsausübung des psychotherapeutischen Berufs
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009700000)
 
 (Fundstelle: BGBl. I 2020, 482)
 
@@ -3908,6 +4024,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 80)
 
 ### Anlage 10 Erlaubnis zur partiellen Berufsausübung des psychotherapeutischen Berufs
+[Direktlink](https://www.gesetze-im-internet.de/psychthappro/BJNR044800020.html#BJNR044800020BJNE009800000)
 
 (Fundstelle: BGBl. I 2020, 483)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft. Abweichend davon ist § 1 iVm Nr. 33 der Anlage gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 u. § 1 iVm Nr. 29 der Anlage gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten.
 
 ## § 1 Gegenstand des Bundesbedarfsplans
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000102377)
 
 (1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die
 der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur
@@ -42,6 +43,7 @@ enden jeweils an den Netzverknüpfungspunkten.
 
 
 ## § 2 Gekennzeichnete Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000208311)
 
 (1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind
 länderübergreifend im Sinne von § 2 Absatz 1 des
@@ -131,6 +133,7 @@ Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
 
 ## § 3 Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000305377)
 
 (1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im
 Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe
@@ -219,6 +222,7 @@ anzuwenden.
 
 
 ## § 4 Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000703377)
 
 (1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als
 Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“
@@ -283,6 +287,7 @@ Träger des Vorhabens dies beantragt.
 
 
 ## § 5 Berichtspflicht der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000803377)
 
 (1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen
 Erfahrungen legt der jeweils verantwortliche Betreiber des
@@ -303,6 +308,7 @@ berichten.
 
 
 ## § 6 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000403377)
 
 Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50
 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist
@@ -321,6 +327,7 @@ auch anzuwenden für
 
 
 ## Anlage (zu § 1 Absatz 1) Bundesbedarfsplan
+[Direktlink](https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html#BJNR254310013BJNE000611377)
 
 (Fundstelle: BGBl. I 2015, 2495 - 2497;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

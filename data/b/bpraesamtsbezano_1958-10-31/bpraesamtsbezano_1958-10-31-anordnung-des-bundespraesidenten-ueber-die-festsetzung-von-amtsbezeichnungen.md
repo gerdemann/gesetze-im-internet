@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbezano_1958-10-31/BJNR007710958.html#BJNR007710958BJNE000100303)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes in der Fassung vom 18.
 September 1957 (Bundesgesetzbl. I S. 1337) setze ich folgende

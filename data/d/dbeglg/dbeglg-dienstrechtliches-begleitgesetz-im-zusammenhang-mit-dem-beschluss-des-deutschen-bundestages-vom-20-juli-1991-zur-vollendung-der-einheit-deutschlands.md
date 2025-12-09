@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000100310)
 
 Dieses Gesetz trifft Regelungen im Zusammenhang mit dem Beschluß des
 Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit
@@ -43,6 +44,7 @@ erfolgen.
 
 
 ## § 2 Anwendung des Bundesumzugskostengesetzes und der Trennungsgeldverordnung
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000201377)
 
 (1) Das Bundesumzugskostengesetz in der Fassung vom 11. Dezember 1990
 (BGBl. I S. 2682) wird in den Fällen des § 1 mit folgender Maßgabe
@@ -145,6 +147,7 @@ Gesetzes.
 
 
 ## § 3 Vorübergehende geringerwertige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000300310)
 
 Einem Beamten, dessen Aufgabengebiet von der Verlegung von Behörden
 gemäß § 1 berührt ist, kann unter Beibehaltung seines Amtes ohne seine
@@ -158,6 +161,7 @@ abgeordnet oder versetzt wird.
 
 
 ## § 4 Ausgleichsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000400310)
 
 (1) Besoldungsempfänger, deren bisherige Behörde oder Einrichtung ganz
 oder teilweise gemäß § 1 verlegt wird und die bei einer anderen
@@ -179,6 +183,7 @@ Dienstbezüge um ein Drittel des Erhöhungsbetrages.
 
 
 ## § 5 Stellenobergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000500310)
 
 In den Fällen des § 4 Abs. 1 bleibt die Planstelle des
 Besoldungsempfängers bei der Anwendung der
@@ -187,6 +192,7 @@ Einrichtung unberücksichtigt.
 
 
 ## § 6 Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000601160)
 
 (1) Einem Beamten mit Dienstbezügen kann im Zusammenhang mit Maßnahmen
 nach § 1 auf Antrag Teilzeitbeschäftigung bis zur Hälfte der
@@ -204,6 +210,7 @@ findet keine Anwendung.
 
 
 ## § 7 Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000700310)
 
 (1) Einem Beamten mit Dienstbezügen kann im Zusammenhang mit Maßnahmen
 nach § 1 auf Antrag Urlaub ohne Dienstbezüge bis zu fünf Jahren
@@ -228,6 +235,7 @@ Beamtenversorgungsgesetzes findet keine Anwendung.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbeglg/BJNR118300996.html#BJNR118300996BJNE000800310)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

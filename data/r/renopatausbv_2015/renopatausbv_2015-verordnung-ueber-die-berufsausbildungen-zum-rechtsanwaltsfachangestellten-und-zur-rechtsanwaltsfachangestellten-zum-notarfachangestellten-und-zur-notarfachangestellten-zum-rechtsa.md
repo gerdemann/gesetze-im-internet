@@ -31,6 +31,7 @@ Stand: Ersetzt V 806-21-1-147 v. 23.11.1987 I 2392 (ReNoPatAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -42,6 +43,7 @@ im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000200000)
 
 Die Ausbildungsberufe Rechtsanwaltsfachangestellter und
 Rechtsanwaltsfachangestellte, Notarfachangestellter und
@@ -52,11 +54,13 @@ nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000300000)
 
 Die Berufsausbildungen dauern jeweils drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000400000)
 
 (1) Gegenstand der Berufsausbildungen sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -68,6 +72,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 4 Struktur der Berufsausbildungen, Ausbildungsberufsbilder
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000500000)
 
 (1) Die Berufsausbildungen gliedern sich in
 
@@ -407,6 +412,7 @@ Fähigkeiten sind
 
 
 ## § 5 Durchführung der Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -428,6 +434,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Anfang des zweiten Ausbildungsjahres
@@ -533,6 +540,7 @@ Vorgaben:
 
 
 ## § 7 Abschlussprüfung für den Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000800000)
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -834,6 +842,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 8 Abschlussprüfung für den Ausbildungsberuf Notarfachangestellter und Notarfachangestellte
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE000900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -1126,6 +1135,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Abschlussprüfung für den Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -1445,6 +1455,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Abschlussprüfung für den Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -1757,6 +1768,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE001200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1766,6 +1778,7 @@ Zwischenprüfung abgelegt wurde.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S.
@@ -1775,6 +1788,7 @@ die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S.
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten
+[Direktlink](https://www.gesetze-im-internet.de/renopatausbv_2015/BJNR149000014.html#BJNR149000014BJNE001401128)
 
 (Fundstelle: BGBl. I 2014, 1498 - 1513)
 

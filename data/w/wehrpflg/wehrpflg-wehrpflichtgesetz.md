@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Wehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000108310)
 
 
 
 ### Unterabschnitt 1 - Umfang der Wehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000208310)
 
 
 
 #### § 1 Allgemeine Wehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE001810310)
 
 (1) Wehrpflichtig sind alle Männer vom vollendeten 18. Lebensjahr an,
 die Deutsche im Sinne des Grundgesetzes sind und
@@ -80,11 +83,13 @@ Aufenthalt
 
 
 #### § 2 Geltung der folgenden Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE001911311)
 
 Die §§ 3 bis 53 gelten im Spannungs- oder Verteidigungsfall.
 
 
 #### § 3 Inhalt und Dauer der Wehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002117377)
 
 (1) Die Wehrpflicht wird durch den Wehrdienst oder im Falle des § 1
 des Kriegsdienstverweigerungsgesetzes durch den Zivildienst erfüllt.
@@ -124,10 +129,12 @@ vollendet.
 
 
 ### Unterabschnitt 2 - Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000308310)
 
 
 
 #### § 4 Arten des Wehrdienstes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002214377)
 
 (1) Der nach Maßgabe dieses Gesetzes zu leistende Wehrdienst umfasst
 
@@ -167,6 +174,7 @@ Innern nach § 6c und die Hilfeleistung im Ausland nach § 6d.
 
 
 #### § 5 Grundwehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002420310)
 
 (1) Grundwehrdienst leisten Wehrpflichtige, die zu dem für den
 Diensteintritt festgesetzten Zeitpunkt das 23. Lebensjahr noch nicht
@@ -266,6 +274,7 @@ wird.
 
 
 #### § 6 Wehrübungen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002613310)
 
 (1) Eine Wehrübung dauert grundsätzlich höchstens drei Monate. Über
 Ausnahmen entscheidet das Bundesministerium der Verteidigung.
@@ -297,6 +306,7 @@ Verwendungsfähigkeit allgemein oder für den Einzelfall abweichend von
 
 
 #### § 6a Besondere Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE009908377)
 
 (1) Zu Verwendungen, die auf Grund eines Übereinkommens, eines
 Vertrages oder einer Vereinbarung mit einer über- oder
@@ -341,6 +351,7 @@ Wehrdienst nach der Entlassung rechtfertigen, nicht bedarf.
 
 
 #### § 6b Freiwilliger zusätzlicher Wehrdienst im Anschluss an den Grundwehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010108377)
 
 (1) Wehrpflichtige können im Anschluss an den Grundwehrdienst
 freiwilligen zusätzlichen Wehrdienst leisten. Der freiwillige
@@ -372,6 +383,7 @@ nicht mehr erfüllt. Absatz 2 Satz 3 gilt sinngemäß.
 
 
 #### § 6c Hilfeleistung im Innern
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010204310)
 
 (1) Zu Verwendungen der Streitkräfte im Rahmen der Amtshilfe oder zur
 Hilfeleistung bei einer Naturkatastrophe oder einem besonders schweren
@@ -396,6 +408,7 @@ Rahmen der zivil-militärischen Zusammenarbeit.
 
 
 #### § 6d Hilfeleistung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010302310)
 
 (1) Zu Verwendungen der Streitkräfte im Rahmen von humanitären
 Hilfeleistungen im Ausland kann ein gedienter Wehrpflichtiger
@@ -416,6 +429,7 @@ anzuwenden.
 
 
 #### § 7 Anrechnung von freiwillig geleistetem Wehrdienst und von geleistetem Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE002910310)
 
 (1) Der auf Grund freiwilliger Verpflichtung in der Bundeswehr
 geleistete Wehrdienst ist auf den Grundwehrdienst anzurechnen; er kann
@@ -432,6 +446,7 @@ anzurechnen.
 
 
 #### § 8 Wehrdienst außerhalb der Bundeswehr; Anrechnung von Wehrdienst und anderen Diensten außerhalb der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003011377)
 
 (1) Wehrpflichtige dürfen sich nur mit Zustimmung des
 Bundesministeriums der Verteidigung zu einem Wehrdienst außerhalb der
@@ -460,6 +475,7 @@ Versicherung des Wehrpflichtigen an Eides statt verlangen.
 
 
 #### § 8a Tauglichkeitsgrade; Verwendungsgrade
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003111310)
 
 (1) Folgende Tauglichkeitsgrade werden festgesetzt:
 
@@ -482,15 +498,18 @@ anderes bestimmt.
 
 
 ### Unterabschnitt 3 - Wehrdienstausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000408310)
 
 
 
 #### § 9 Wehrdienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003208310)
 
 Zum Wehrdienst wird nicht herangezogen, wer nicht wehrdienstfähig ist.
 
 
 #### § 10 Ausschluss vom Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003315377)
 
 Vom Wehrdienst ist ausgeschlossen,
 
@@ -522,6 +541,7 @@ Vom Wehrdienst ist ausgeschlossen,
 
 
 #### § 11 Befreiung vom Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003420377)
 
 (1) Vom Wehrdienst sind befreit
 
@@ -615,6 +635,7 @@ bekannt. Er ist zu begründen.
 
 
 #### § 12 Zurückstellung vom Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003515310)
 
 (1) Vom Wehrdienst wird zurückgestellt,
 
@@ -738,6 +759,7 @@ Antrag auszusetzen.
 
 
 #### § 13 Unabkömmlichstellung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003611377)
 
 (1) Zum Ausgleich des personellen Kräftebedarfs für die Aufgaben der
 Bundeswehr und andere Aufgaben kann ein Wehrpflichtiger im Spannungs-
@@ -772,6 +794,7 @@ haben den Wegfall der Voraussetzungen selbst anzuzeigen.
 
 
 #### § 13a Zivilschutz oder Katastrophenschutz
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003719311)
 
 (1) Wehrpflichtige, die sich vor Vollendung des 23. Lebensjahres mit
 Zustimmung der zuständigen Behörde auf mindestens vier Jahre zum
@@ -808,6 +831,7 @@ anzuzeigen.
 
 
 #### § 13b Entwicklungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003813310)
 
 (1) Wehrpflichtige werden bis zur Vollendung des 28. Lebensjahres
 nicht zum Wehrdienst herangezogen, wenn sie sich gegenüber einem nach
@@ -837,10 +861,12 @@ Wehrersatzbehörde anzuzeigen.
 
 
 ## Abschnitt 2 - Wehrersatzwesen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG000508310)
 
 
 
 ### § 14 Wehrersatzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE003911377)
 
 (1) Die Aufgaben des Wehrersatzwesens mit Ausnahme der Erfassung
 werden in bundeseigener Verwaltung durchgeführt und folgenden, dem
@@ -868,6 +894,7 @@ Vorschriften des Verwaltungsverfahrensgesetzes regeln.
 
 
 ### § 15 Erfassung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004013310)
 
 (1) Die Erfassungsbehörde darf, soweit zur Feststellung der
 Wehrpflicht erforderlich, für die Erfassung folgende über den
@@ -968,6 +995,7 @@ Satz 2 Halbsatz 1 gelten entsprechend.
 
 
 ### § 16 Zweck der Musterung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004114377)
 
 (1) Ungediente Wehrpflichtige werden vor der Heranziehung zum
 Wehrdienst gemustert.
@@ -989,6 +1017,7 @@ an finden auf diese männlichen Personen die Absätze 1 und 2, §§ 17,
 
 
 ### § 17 Durchführung der Musterung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004215377)
 
 (1) Die Musterung wird von den Karrierecentern der Bundeswehr
 durchgeführt.
@@ -1054,11 +1083,13 @@ sich der Wehrpflichtige nicht untersuchen lässt.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004309310)
 
 -
 
 
 ### § 19 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004413377)
 
 (1) Das Karrierecenter der Bundeswehr erforscht den Sachverhalt von
 Amts wegen und erhebt die erforderlichen Beweise. Eine Beeidigung von
@@ -1098,6 +1129,7 @@ Vertretungskosten regelt eine Rechtsverordnung.
 
 
 ### § 20 Zurückstellungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004511377)
 
 Anträge auf Zurückstellung nach § 12 Absatz 2 und 4 sind frühestens
 nach Mitteilung der Erfassung durch die Erfassungsbehörde (§ 15 Absatz
@@ -1108,6 +1140,7 @@ ein oder wird später bekannt. Sie sind zu begründen.
 
 
 ### § 20a Eignungsuntersuchung und Eignungsfeststellung nach der Musterung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004611310)
 
 (1) Ungediente Wehrpflichtige können auch nach ihrer Musterung vor
 ihrer Einberufung auf ihre Eignung für Verwendungen in den
@@ -1120,6 +1153,7 @@ entsprechende Anwendung.
 
 
 ### § 20b Überprüfungsuntersuchung; Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008709377)
 
 Ungediente Wehrpflichtige können auch nach ihrer Musterung ärztlich
 untersucht werden. Ungediente Wehrpflichtige, die nicht innerhalb von
@@ -1140,6 +1174,7 @@ gilt entsprechend.
 
 
 ### § 21 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004712377)
 
 (1) Ungediente Wehrpflichtige werden von den Karrierecentern der
 Bundeswehr in Ausführung des Musterungsbescheides zum Wehrdienst
@@ -1181,11 +1216,13 @@ ohne Einhaltung einer Frist einberufen werden, wenn
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004809310)
 
 -
 
 
 ### § 23 Heranziehung von gedienten Wehrpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE004915377)
 
 Wehrpflichtige, die bereits in der Bundeswehr gedient haben, werden
 nach Prüfung ihrer Verfügbarkeit durch die zuständigen
@@ -1204,6 +1241,7 @@ Absatz 3 gilt entsprechend.
 
 
 ### § 24 Wehrüberwachung; Haftung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005018377)
 
 (1) Die Wehrpflichtigen unterliegen der Wehrüberwachung. Diese endet
 bei Offizieren mit Ablauf des Jahres, in dem sie das 60., bei
@@ -1341,6 +1379,7 @@ oder mündlich zu melden
 
 
 ### § 24a Änderungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008909377)
 
 Für Zwecke der Musterungsvorbereitung und der Wehrüberwachung teilt
 die Meldebehörde dem zuständigen Karrierecenter der Bundeswehr die
@@ -1383,6 +1422,7 @@ Lebensjahr vollendet haben, mit:
 
 
 ### § 24b Aufenthaltsfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE009008310)
 
 (1) Kann die für die Wehrpflichtigen zuständige Wehrersatzbehörde
 (ausschreibende Behörde) den ständigen Aufenthaltsort eines
@@ -1451,25 +1491,30 @@ Stellen die ihnen zuvor übermittelte Datei zu löschen.
 
 
 ## Abschnitt 3 - Personalakten
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG009108310)
 
 
 
 ### § 25 Personalakten ungedienter Wehrpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE009412377)
 
 Für die Führung der Personalakten ungedienter Wehrpflichtiger gelten
 die §§ 29 bis 29f des Soldatengesetzes entsprechend.
 
 
 ### (XXXX) §§ 26 und 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE009507310)
 
 -
 
 
 ## Abschnitt 4 - Beendigung des Wehrdienstes und Verlust des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG001308310)
 
 
 
 ### § 28 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005510310)
 
 Der Wehrdienst endet
 
@@ -1493,6 +1538,7 @@ Der Wehrdienst endet
 
 
 ### § 29 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005614377)
 
 (1) Ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst leistet,
 ist mit Ablauf der für den Wehrdienst im Einberufungsbescheid
@@ -1629,6 +1675,7 @@ einem Spannungs- oder Verteidigungsfall nicht erfolgen kann.
 
 
 ### § 29a Verlängerung des Wehrdienstes bei stationärer truppenärztlicher Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005708310)
 
 Befindet sich ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst
 leistet, im Entlassungszeitpunkt in stationärer truppenärztlicher
@@ -1648,6 +1695,7 @@ Das Wehrdienstverhältnis des Soldaten bleibt hiervon unberührt.
 
 
 ### § 29b Verlängerung des Wehrdienstes aus sonstigen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010005310)
 
 Ist ein Soldat während einer besonderen Auslandsverwendung wegen
 Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst
@@ -1659,6 +1707,7 @@ Gefährdungslage.
 
 
 ### § 30 Ausschluss aus der Bundeswehr und Verlust des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005812377)
 
 (1) Ein Soldat, der nach Maßgabe dieses Gesetzes Wehrdienst leistet,
 ist aus der Bundeswehr ausgeschlossen, wenn gegen ihn durch Urteil
@@ -1688,6 +1737,7 @@ Dienstgrades mit dem Ende des Wehrdienstes ein.
 
 
 ### § 31 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE005907310)
 
 Wird ein Urteil mit den Folgen des § 30 im Wiederaufnahmeverfahren
 durch ein Urteil ersetzt, das diese Folgen nicht hat, so gilt der
@@ -1697,16 +1747,19 @@ Wehrpflicht nicht zum Nachteil des Betroffenen geltend gemacht werden.
 
 
 ## Abschnitt 5 - Rechtsbehelfe; Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG001408310)
 
 
 
 ### § 32 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE006007310)
 
 Für Rechtsstreitigkeiten bei der Ausführung dieses Gesetzes ist der
 Verwaltungsrechtsweg gegeben.
 
 
 ### § 33 Besondere Vorschriften für das Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE006217377)
 
 (1) Der Widerspruch gegen Verwaltungsakte, die auf Grund dieses
 Gesetzes durch die Wehrersatzbehörden ergehen, ist binnen zwei Wochen
@@ -1736,6 +1789,7 @@ gemacht wird.
 
 
 ### § 34 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE006308310)
 
 Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere
 Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt
@@ -1748,6 +1802,7 @@ Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
 
 ### § 35 Besondere Vorschriften für die Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE006512377)
 
 Die Anfechtungsklage gegen den Musterungsbescheid, die
 Anfechtungsklage gegen den Tauglichkeitsüberprüfungsbescheid, die
@@ -1759,15 +1814,18 @@ für das Personalmanagement der Bundeswehr zu hören.
 
 
 ## Abschnitt 6 - Einschränkung von Grundrechten, Sonder-, Bußgeld- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNG001509310)
 
 
 
 ### (XXXX) §§ 36 bis 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE006709310)
 
 -
 
 
 ### § 42 Sondervorschriften für Angehörige des Polizeivollzugsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007312377)
 
 (1) Wehrpflichtige, die dem Vollzugsdienst der Polizei angehören oder
 für diesen durch schriftlichen Bescheid angenommen sind, werden für
@@ -1784,6 +1842,7 @@ der Polizei Dienst geleistet haben, gilt § 23 entsprechend.
 
 
 ### § 42a Grenzschutzdienstpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007410310)
 
 Männer, die nach dem Bundesgrenzschutzgesetz vom 18. August 1972
 (BGBl. I S. 1834) zum Polizeivollzugsdienst im Bundesgrenzschutz
@@ -1793,11 +1852,13 @@ Dienst ist auf den Grundwehrdienst anzurechnen.
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007511310)
 
 -
 
 
 ### § 44 Zustellung, Vorführung und Zuführung
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007611310)
 
 (1) Ein Bescheid, der in Ausführung dieses Gesetzes ergeht, ist
 zuzustellen. Dies gilt nicht für begünstigende Verwaltungsakte. Bei
@@ -1844,6 +1905,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 ### § 45 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007713377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1884,11 +1946,13 @@ Bundeswehr.
 
 
 ### (XXXX) §§ 46 und 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE007809310)
 
 -
 
 
 ### § 48 Bereitschaftsdienst, Spannungs- oder Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008118377)
 
 (1) Sind Wehrübungen als Bereitschaftsdienst nach § 6 Absatz 6
 angeordnet worden,
@@ -1999,11 +2063,13 @@ Satz 1 Nummer 5 gilt nicht für männliche Personen, die
 
 
 ### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008211310)
 
 -
 
 
 ### § 50 Zuständigkeit für den Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008414310)
 
 (1) Die Bundesregierung erlässt die Rechtsverordnungen über die
 
@@ -2021,6 +2087,7 @@ des Bundesrates.
 
 
 ### § 51 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008507310)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2
 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2
@@ -2030,6 +2097,7 @@ Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 52 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE008612310)
 
 Auf Wehrpflichtige, die vor dem Inkrafttreten des Gesetzes vom 31.
 Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt worden sind, ist §
@@ -2038,6 +2106,7 @@ anzuwenden.
 
 
 ### § 53 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
+[Direktlink](https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html#BJNR006510956BJNE010401310)
 
 (1) Wehrpflichtige, die am 31. Dezember 2010 sechs Monate oder länger
 Grundwehrdienst geleistet haben, sind mit Ablauf dieses Tages zu

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bmptamtsbezano_1991/BJNR111790991.html#BJNR111790991BJNE000100308)
 
 Gemäß § 47 Abs. 3 Satz 2 und Abs. 4 des Postverfassungsgesetzes vom 8.
 Juni 1989 (BGBl. I S. 1026), geändert durch Anlage I Kapitel XIII

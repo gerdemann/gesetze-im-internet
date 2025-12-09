@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000100326)
 
 (1) Der Tierarzt ist berufen, Leiden und Krankheiten der Tiere zu
 verhüten, zu lindern und zu heilen, zur Erhaltung und Entwicklung
@@ -37,6 +38,7 @@ ein freier Beruf.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000203377)
 
 (1) Wer im Geltungsbereich dieses Gesetzes den tierärztlichen Beruf
 ausüben will, bedarf der Approbation als Tierarzt.
@@ -64,6 +66,7 @@ abgeschlossenen zwischenstaatlichen Verträge.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000300326)
 
 Die Berufsbezeichnung "Tierarzt" oder "Tierärztin" darf nur führen,
 wer als Tierarzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur
@@ -71,6 +74,7 @@ vorübergehenden Ausübung des tierärztlichen Berufs befugt ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000414123)
 
 (1) Die Approbation als Tierarzt ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -484,6 +488,7 @@ verlangt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000510123)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft regelt mit
 Zustimmung des Bundesrates in einer Verordnung zur Approbation von
@@ -562,6 +567,7 @@ Verwaltungsverfahrens mit Ausnahme der Fristenregelung in § 4 Absatz
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000603377)
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die
 Tierärztliche Prüfung nicht bestanden oder die Ausbildung nach § 4
@@ -573,6 +579,7 @@ Voraussetzungen nach § 4 Abs. 1 Nr. 2 weggefallen ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000704124)
 
 (1) Die Approbation kann zurückgenommen werden, wenn bei ihrer
 Erteilung eine der Voraussetzungen nach § 4 Absatz 1 Nummer 2 oder 3
@@ -586,6 +593,7 @@ Voraussetzungen nach § 4 Abs. 1 Nr. 3 weggefallen ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000802377)
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -623,11 +631,13 @@ Zeitraum durch einen anderen Tierarzt weitergeführt werden kann.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE000900326)
 
 -
 
 
 ## § 9a
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001001308)
 
 (1) Bei einer Person, deren Approbation oder Bestallung wegen Fehlens
 oder späteren Wegfalls einer der Voraussetzungen des § 4 Abs. 1 Nr. 2
@@ -645,6 +655,7 @@ werden. Personen, denen die Erlaubnis erteilt worden ist, haben im
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001100326)
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
@@ -652,6 +663,7 @@ Bedingung erklärt wird, ist unwirksam.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001204124)
 
 (1) Eine Erlaubnis zur vorübergehenden Ausübung des tierärztlichen
 Berufs nach § 2 Abs. 2 kann auf Antrag Personen erteilt werden, die
@@ -719,6 +731,7 @@ und Pflichten eines Tierarztes
 
 
 ## § 11a
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001308124)
 
 (1) Staatsangehörige eines Mitgliedstaats der Europäischen Union oder
 eines anderen Vertragsstaates des Abkommens über den Europäischen
@@ -896,6 +909,7 @@ Absatz 2 Satz 1 bis 4 bei der zuständigen Behörde.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001405124)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Entgelte für tierärztliche Leistungen
@@ -920,6 +934,7 @@ Beitritt gegolten hat, zu berücksichtigen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001509124)
 
 (1) Die Approbation erteilt in den Fällen des § 4 Abs. 1 die
 zuständige Behörde des Landes, in dem der Antragsteller die
@@ -985,6 +1000,7 @@ hat dies binnen zwei Monaten zu erfolgen.
 
 
 ## § 13a
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002200124)
 
 (1) Die zuständige Behörde unterrichtet die zuständigen Behörden der
 anderen Mitgliedstaaten der Europäischen Union oder der anderen
@@ -1089,6 +1105,7 @@ Im Falle des Satzes 1 Nummer 3 gilt Absatz 3 entsprechend.
 
 
 ## § 13b
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002300124)
 
 Staatsangehörige eines Mitgliedstaates der Europäischen Union, eines
 anderen Vertragsstaates des Abkommens über den Europäischen
@@ -1109,6 +1126,7 @@ Nachweises, kann sie, soweit sie dies für erforderlich erachtet, die
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001600326)
 
 Wer den tierärztlichen Beruf ausübt, solange durch vollziehbare
 Verfügung das Ruhen der Approbation angeordnet ist, wird mit
@@ -1116,6 +1134,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001701308)
 
 (1) Eine Approbation oder Bestallung, die am 1. Juni 1975 im
 Geltungsbereich dieses Gesetzes zur Ausübung des tierärztlichen Berufs
@@ -1162,6 +1181,7 @@ Beginn dieses Studiums an.
 
 
 ## § 15a
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001804124)
 
 (1) Antragstellern, die die Voraussetzungen des § 4 Absatz 1 Nummer 2,
 3 und 5 erfüllen und eine Approbation als Tierarzt auf Grund der
@@ -1240,6 +1260,7 @@ rechtmäßig den tierärztlichen Beruf in Estland ausgeübt hat.
 
 
 ## § 15b
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002400124)
 
 (1) Abweichend von § 2 Absatz 1 und 2 genehmigt die zuständige Behörde
 Antragstellern, die Staatsangehörige eines anderen Mitgliedstaates der
@@ -1345,6 +1366,7 @@ Bundesministerium für Ernährung und Landwirtschaft getroffen werden.
 
 
 ## § 15c
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002500124)
 
 (1) Abweichend von § 11a Absatz 1 Satz 1 genehmigt die zuständige
 Behörde auf Antrag das Ausüben bestimmter tierärztlicher Tätigkeiten,
@@ -1389,6 +1411,7 @@ entsprechend.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE001903124)
 
 Die Vorschriften dieses Gesetzes gelten mit Ausnahme des § 2 Absatz 3,
 § 4 Absatz 3, § 11 Absatz 1 Satz 2, der §§ 11a, 13a, 15b und 15c
@@ -1413,6 +1436,7 @@ Identitätsnachweis vorzulegen.
 
 
 ## § 16a
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002100377)
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 keine Anwendung.
@@ -1420,6 +1444,7 @@ Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 (zu § 4 Absatz 1a Satz 1, 2 und 3 und Absatz 6 Satz 3)
 
 ## Anlage Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
+[Direktlink](https://www.gesetze-im-internet.de/bt_o/BJNR004160965.html#BJNR004160965BJNE002006124)
 
 (Fundstelle: BGBl. I 2017, 823 - 826)
 

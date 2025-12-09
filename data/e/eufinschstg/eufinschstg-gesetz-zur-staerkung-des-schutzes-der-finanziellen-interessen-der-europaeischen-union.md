@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Missbräuchliche Verwendung von Leistungen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eufinschstg/BJNR084410019.html#BJNR084410019BJNE000100000)
 
 Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen
 Vermögensvorteil zu verschaffen, dem Vermögen der Europäischen Union
@@ -31,6 +32,7 @@ Strafgesetzbuches.
 
 
 ## § 2 Rechtswidrige Verminderung von Einnahmen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eufinschstg/BJNR084410019.html#BJNR084410019BJNE000200000)
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer die Einnahmen der Europäischen Union dadurch
@@ -51,6 +53,7 @@ indem er
 
 
 ## § 3 Bestechlichkeit und Bestechung mit Bezug zu den finanziellen Interessen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eufinschstg/BJNR084410019.html#BJNR084410019BJNE000300000)
 
 Für die Anwendung der §§ 332 und 334 des Strafgesetzbuches, jeweils
 auch in Verbindung mit den §§ 335 und 335a des Strafgesetzbuches, auf

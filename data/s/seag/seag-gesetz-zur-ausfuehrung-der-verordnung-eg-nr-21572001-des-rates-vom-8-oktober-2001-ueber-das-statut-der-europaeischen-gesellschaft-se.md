@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000100000)
 
 
 
 ### § 1 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000200000)
 
 Soweit nicht die Verordnung (EG) Nr. 2157/2001 des Rates vom 8.
 Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl.
@@ -35,17 +37,20 @@ Inland die folgenden Vorschriften anzuwenden.
 
 
 ### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000301140)
 
 -
 
 
 ### § 3 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000400000)
 
 Die SE wird gemäß den für Aktiengesellschaften geltenden Vorschriften
 im Handelsregister eingetragen.
 
 
 ### § 4 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000501140)
 
 Für die Eintragung der SE und für die in Artikel 8 Abs. 8, Artikel 25
 Abs. 2 sowie den Artikeln 26 und 64 Abs. 4 der Verordnung bezeichneten
@@ -59,14 +64,17 @@ freiwilligen Gerichtsbarkeit.
 
 
 ## Abschnitt 2 - Gründung einer SE
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Verschmelzung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000300000)
 
 
 
 #### § 5 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000600000)
 
 Die nach Artikel 21 der Verordnung bekannt zu machenden Angaben sind
 dem Register bei Einreichung des Verschmelzungsplans mitzuteilen. Das
@@ -75,6 +83,7 @@ Umwandlungsgesetzes vorgeschriebenen Hinweis bekannt zu machen.
 
 
 #### § 6 Verbesserung des Umtauschverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000702360)
 
 (1) Unter den Voraussetzungen des Artikels 25 Abs. 3 Satz 1 der
 Verordnung kann eine Klage gegen den Verschmelzungsbeschluss nicht
@@ -113,6 +122,7 @@ Spruchverfahrensgesetzes sind entsprechend anzuwenden.
 
 
 #### § 7 Abfindungsangebot im Verschmelzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000802360)
 
 (1) Bei der Gründung einer SE, die ihren Sitz im Ausland haben soll,
 durch Verschmelzung nach dem Verfahren der Verordnung hat eine
@@ -177,6 +187,7 @@ zuständig sind.
 
 
 #### § 8 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE000900000)
 
 Liegt der künftige Sitz der SE im Ausland, ist § 13 Abs. 1 und 2
 entsprechend anzuwenden. Das zuständige Gericht stellt die
@@ -188,10 +199,12 @@ wurde.
 
 
 ### Unterabschnitt 2 - Gründung einer Holding-SE
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000400000)
 
 
 
 #### § 9 Abfindungsangebot im Gründungsplan
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001000000)
 
 (1) Bei der Gründung einer Holding-SE nach dem Verfahren der
 Verordnung, die ihren Sitz im Ausland haben soll oder die ihrerseits
@@ -214,6 +227,7 @@ Eintragung und Bekanntmachung der neu gegründeten Holding-SE tritt.
 
 
 #### § 10 Zustimmungsbeschluss; Negativerklärung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001100000)
 
 (1) Der Zustimmungsbeschluss gemäß Artikel 32 Abs. 6 der Verordnung
 bedarf einer Mehrheit, die bei einer Aktiengesellschaft mindestens
@@ -229,6 +243,7 @@ abgewiesen oder zurückgenommen worden ist.
 
 
 #### § 11 Verbesserung des Umtauschverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001200000)
 
 (1) Ist bei der Gründung einer Holding-SE nach dem Verfahren der
 Verordnung das Umtauschverhältnis der Anteile nicht angemessen, so
@@ -241,10 +256,12 @@ Eintragung und Bekanntmachung der Gründung der Holding-SE tritt.
 
 
 ## Abschnitt 3 - Sitzverlegung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000500000)
 
 
 
 ### § 12 Abfindungsangebot im Verlegungsplan
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001300000)
 
 (1) Verlegt eine SE nach Maßgabe von Artikel 8 der Verordnung ihren
 Sitz, hat sie jedem Aktionär, der gegen den Verlegungsbeschluss
@@ -263,6 +280,7 @@ Eintragung und Bekanntmachung der SE im neuen Sitzstaat tritt.
 
 
 ### § 13 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001401125)
 
 (1) Verlegt eine SE nach Maßgabe von Artikel 8 der Verordnung ihren
 Sitz, ist den Gläubigern der Gesellschaft, wenn sie binnen zwei
@@ -288,6 +306,7 @@ geleistet wurde.
 
 
 ### § 14 Negativerklärung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001500000)
 
 Das zuständige Gericht stellt die Bescheinigung nach Artikel 8 Abs. 8
 der Verordnung nur aus, wenn die Vertretungsorgane einer SE, die nach
@@ -298,14 +317,17 @@ abgewiesen oder zurückgenommen worden ist.
 
 
 ## Abschnitt 4 - Aufbau der SE
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000600000)
 
 
 
 ### Unterabschnitt 1 - Dualistisches System
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000700000)
 
 
 
 #### § 15 Wahrnehmung der Geschäftsleitung durch Mitglieder des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001600000)
 
 Die Abstellung eines Mitglieds des Aufsichtsorgans zur Wahrnehmung der
 Aufgaben eines Mitglieds des Leitungsorgans nach Artikel 39 Abs. 3
@@ -316,6 +338,7 @@ insgesamt ein Jahr nicht übersteigt.
 
 
 #### § 16 Zahl der Mitglieder des Leitungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001701360)
 
 (1) Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen
 Euro hat das Leitungsorgan aus mindestens zwei Personen zu bestehen,
@@ -341,6 +364,7 @@ Beteiligungsgebot ohne den Widerruf eingehalten wäre.
 
 
 #### § 17 Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001802123)
 
 (1) Das Aufsichtsorgan besteht aus drei Mitgliedern. Die Satzung kann
 eine bestimmte höhere Zahl festsetzen. Die Zahl muss durch drei
@@ -394,6 +418,7 @@ Inland gilt § 37 Abs. 2 des SE-Beteiligungsgesetzes.
 
 
 #### § 18 Informationsverlangen einzelner Mitglieder des Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE001900000)
 
 Jedes einzelne Mitglied des Aufsichtsorgans kann vom Leitungsorgan
 jegliche Information nach Artikel 41 Abs. 3 Satz 1 der Verordnung,
@@ -401,16 +426,19 @@ jedoch nur an das Aufsichtsorgan, verlangen.
 
 
 #### § 19 Festlegung zustimmungsbedürftiger Geschäfte durch das Aufsichtsorgan
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002000000)
 
 Das Aufsichtsorgan kann selbst bestimmte Arten von Geschäften von
 seiner Zustimmung abhängig machen.
 
 
 ### Unterabschnitt 2 - Monistisches System
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000800000)
 
 
 
 #### § 20 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002100000)
 
 Wählt eine SE gemäß Artikel 38 Buchstabe b der Verordnung in ihrer
 Satzung das monistische System mit einem Verwaltungsorgan
@@ -419,6 +447,7 @@ Aktiengesetzes die nachfolgenden Vorschriften.
 
 
 #### § 21 Anmeldung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002202140)
 
 (1) Die SE ist bei Gericht von allen Gründern, Mitgliedern des
 Verwaltungsrats und geschäftsführenden Direktoren zur Eintragung in
@@ -445,6 +474,7 @@ deren Vertretungsbefugnis anzugeben.
 
 
 #### § 22 Aufgaben und Rechte des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002304360)
 
 (1) Der Verwaltungsrat leitet die Gesellschaft, bestimmt die
 Grundlinien ihrer Tätigkeit und überwacht deren Umsetzung.
@@ -491,6 +521,7 @@ Direktoren besondere Regelungen enthalten sind.
 
 
 #### § 23 Zahl der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002400000)
 
 (1) Der Verwaltungsrat besteht aus drei Mitgliedern. Die Satzung kann
 etwas anderes bestimmen; bei Gesellschaften mit einem Grundkapital von
@@ -520,6 +551,7 @@ bleibt unberührt.
 
 
 #### § 24 Zusammensetzung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002502360)
 
 (1) Der Verwaltungsrat setzt sich zusammen aus
 Verwaltungsratsmitgliedern der Aktionäre und, soweit eine Vereinbarung
@@ -548,6 +580,7 @@ des Aktiengesetzes gelten entsprechend.
 
 
 #### § 25 Bekanntmachung über die Zusammensetzung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002600000)
 
 (1) Ist der Vorsitzende des Verwaltungsrats der Ansicht, dass der
 Verwaltungsrat nicht nach den maßgeblichen vertraglichen oder
@@ -585,6 +618,7 @@ erfolgen.
 
 
 #### § 26 Gerichtliche Entscheidung über die Zusammensetzung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002701140)
 
 (1) Ist streitig oder ungewiss, nach welchen Vorschriften der
 Verwaltungsrat zusammenzusetzen ist, so entscheidet darüber auf Antrag
@@ -621,6 +655,7 @@ des Verwaltungsrats erfolgt.
 
 
 #### § 27 Persönliche Voraussetzungen der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002803360)
 
 (1) Mitglied des Verwaltungsrats kann nicht sein, wer
 
@@ -661,6 +696,7 @@ sein.
 
 
 #### § 28 Bestellung der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE002900000)
 
 (1) Die Bestellung der Mitglieder des Verwaltungsrats richtet sich
 nach der Verordnung.
@@ -679,6 +715,7 @@ weggefallenen Mitglieds.
 
 
 #### § 29 Abberufung der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003001140)
 
 (1) Mitglieder des Verwaltungsrats, die von der Hauptversammlung ohne
 Bindung an einen Wahlvorschlag gewählt worden sind, können von ihr vor
@@ -708,6 +745,7 @@ die Beschwerde zulässig.
 
 
 #### § 30 Bestellung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003101140)
 
 (1) Gehört dem Verwaltungsrat die zur Beschlussfähigkeit nötige Zahl
 von Mitgliedern nicht an, so hat ihn das Gericht auf Antrag eines
@@ -748,6 +786,7 @@ Zivilprozessordnung statt.
 
 
 #### § 31 Nichtigkeit der Wahl von Verwaltungsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003201377)
 
 (1) Die Wahl eines Verwaltungsratsmitglieds durch die Hauptversammlung
 ist außer im Fall des § 241 Nr. 1, 2 und 5 des Aktiengesetzes nur dann
@@ -781,6 +820,7 @@ Weise als durch Erhebung der Klage geltend zu machen.
 
 
 #### § 32 Anfechtung der Wahl von Verwaltungsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003300000)
 
 Für die Anfechtung der Wahl von Verwaltungsratsmitgliedern findet §
 251 des Aktiengesetzes mit der Maßgabe Anwendung, dass das
@@ -792,11 +832,13 @@ Inland gilt § 37 Abs. 2 des SE-Beteiligungsgesetzes.
 
 
 #### § 33 Wirkung des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003400000)
 
 Für die Urteilswirkung gilt § 252 des Aktiengesetzes entsprechend.
 
 
 #### § 34 Innere Ordnung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003504360)
 
 (1) Der Verwaltungsrat hat neben dem Vorsitzenden nach näherer
 Bestimmung der Satzung aus seiner Mitte mindestens einen
@@ -854,6 +896,7 @@ geschäftsführenden Direktoren hierüber unverzüglich zu unterrichten.
 
 
 #### § 35 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003600000)
 
 (1) Abwesende Mitglieder können dadurch an der Beschlussfassung des
 Verwaltungsrats und seiner Ausschüsse teilnehmen, dass sie
@@ -876,6 +919,7 @@ Vorsitzende des Verwaltungsrats eine zusätzliche Stimme.
 
 
 #### § 36 Teilnahme an Sitzungen des Verwaltungsrats und seiner Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003700000)
 
 (1) An den Sitzungen des Verwaltungsrats und seiner Ausschüsse sollen
 Personen, die dem Verwaltungsrat nicht angehören, nicht teilnehmen.
@@ -895,6 +939,7 @@ können, wenn diese sie in Textform ermächtigt haben.
 
 
 #### § 37 Einberufung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003800000)
 
 (1) Jedes Verwaltungsratsmitglied kann unter Angabe des Zwecks und der
 Gründe verlangen, dass der Vorsitzende des Verwaltungsrats
@@ -907,6 +952,7 @@ Angabe einer Tagesordnung selbst den Verwaltungsrat einberufen.
 
 
 #### § 38 Rechtsverhältnisse der Mitglieder des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE003900000)
 
 (1) Für die Vergütung der Mitglieder des Verwaltungsrats gilt § 113
 des Aktiengesetzes entsprechend.
@@ -917,12 +963,14 @@ die §§ 114 und 115 des Aktiengesetzes entsprechend.
 
 
 #### § 39 Sorgfaltspflicht und Verantwortlichkeit der Verwaltungsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004000000)
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Verwaltungsratsmitglieder gilt § 93 des Aktiengesetzes entsprechend.
 
 
 #### § 40 Geschäftsführende Direktoren
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004101360)
 
 (1) Der Verwaltungsrat bestellt einen oder mehrere geschäftsführende
 Direktoren. Mitglieder des Verwaltungsrats können zu
@@ -1029,6 +1077,7 @@ auch für ihre Stellvertreter.
 
 
 #### § 41 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004201140)
 
 (1) Die geschäftsführenden Direktoren vertreten die Gesellschaft
 gerichtlich und außergerichtlich. Hat eine Gesellschaft keine
@@ -1061,11 +1110,13 @@ Verwaltungsrat die Gesellschaft gerichtlich und außergerichtlich.
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004301140)
 
 -
 
 
 #### § 43 Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004401377)
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
 bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der
@@ -1080,6 +1131,7 @@ des Aktiengesetzes gilt entsprechend.
 
 
 #### § 44 Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004500000)
 
 (1) Die Vertretungsbefugnis der geschäftsführenden Direktoren kann
 nicht beschränkt werden.
@@ -1093,6 +1145,7 @@ Direktoren für die Geschäftsführungsbefugnis getroffen haben.
 
 
 #### § 45 Bestellung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004600000)
 
 Fehlt ein erforderlicher geschäftsführender Direktor, so hat in
 dringenden Fällen das Gericht auf Antrag eines Beteiligten das
@@ -1101,6 +1154,7 @@ Aktiengesetzes gilt entsprechend.
 
 
 #### § 46 Anmeldung von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004701377)
 
 (1) Die geschäftsführenden Direktoren haben jeden Wechsel der
 Verwaltungsratsmitglieder unverzüglich in den Gesellschaftsblättern
@@ -1124,6 +1178,7 @@ Direktoren entsprechend.
 
 
 #### § 47 Prüfung und Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004801360)
 
 (1) Die geschäftsführenden Direktoren haben den Jahresabschluss und
 den Lagebericht unverzüglich nach ihrer Aufstellung dem Verwaltungsrat
@@ -1171,6 +1226,7 @@ die Billigung des Konzernabschlusses durch die Hauptversammlung gilt §
 
 
 #### § 48 Ordentliche Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE004901140)
 
 (1) Unverzüglich nach der Zuleitung des Berichts an die
 geschäftsführenden Direktoren hat der Verwaltungsrat die
@@ -1194,6 +1250,7 @@ Kreditinstitute nicht anzuwenden.
 
 
 #### § 49 Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005000000)
 
 (1) Für die Anwendung der Vorschriften der §§ 308 bis 318 des
 Aktiengesetzes treten an die Stelle des Vorstands der Gesellschaft die
@@ -1205,10 +1262,12 @@ Gesellschaft die geschäftsführenden Direktoren.
 
 
 ### Unterabschnitt 3 - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG000900000)
 
 
 
 #### § 50 Einberufung und Ergänzung der Tagesordnung auf Verlangen einer Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005100000)
 
 (1) Die Einberufung der Hauptversammlung und die Aufstellung ihrer
 Tagesordnung nach Artikel 55 der Verordnung kann von einem oder
@@ -1222,6 +1281,7 @@ Grundkapitals oder den anteiligen Betrag von 500.000 Euro erreicht.
 
 
 #### § 51 Satzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005200000)
 
 Die Satzung kann bestimmen, dass für einen Beschluss der
 Hauptversammlung über die Änderung der Satzung die einfache Mehrheit
@@ -1233,10 +1293,12 @@ gesetzlich zwingend vorgeschrieben ist.
 
 
 ## Abschnitt 5 - Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001000000)
 
 
 
 ### § 52 Auflösung der SE bei Auseinanderfallen von Sitz und Hauptverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005301140)
 
 (1) Erfüllt eine SE nicht mehr die Verpflichtung nach Artikel 7 der
 Verordnung, so gilt dies als Mangel der Satzung im Sinne des § 262
@@ -1260,10 +1322,12 @@ getroffen wird, findet die Beschwerde statt.
 
 
 ## Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001300360)
 
 
 
 ### § 52a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005900360)
 
 (1) Eine SE mit Mehrheitsbeteiligung des Bundes ist eine SE mit Sitz
 im Inland,
@@ -1340,14 +1404,17 @@ eines Landes entsprechend Absatz 1 besteht.
 
 
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001100000)
 
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001101360)
 
 
 
 ### § 53 Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005406360)
 
 (1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des
 § 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333
@@ -1428,14 +1495,17 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001200140)
 
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNG001201360)
 
 
 
 ### § 54 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005500140)
 
 § 27 Abs. 1 Satz 4 und § 34 Abs. 4 Satz 2 und 3 in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
@@ -1444,6 +1514,7 @@ und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 
 ### § 55 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005600140)
 
 In den Fällen des § 6 Abs. 3 Satz 1 und des § 7 Abs. 2 Satz 2 bleibt
 es für die Zeit vor dem 1. September 2009 bei dem bis dahin geltenden
@@ -1451,6 +1522,7 @@ Zinssatz.
 
 
 ### § 56 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005700123)
 
 § 27 Absatz 1 Satz 4 und § 34 Absatz 4 Satz 5 jeweils in der Fassung
 des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
@@ -1460,6 +1532,7 @@ bestellt worden sind.
 
 
 ### § 57 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE005800360)
 
 (1) § 53 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf
 alle gesetzlichen vorgeschriebenen Abschlussprüfungen für das nach dem
@@ -1477,6 +1550,7 @@ bestellt worden sind.
 
 
 ### § 58 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/seag/BJNR367510004.html#BJNR367510004BJNE006000360)
 
 § 47 Absatz 4a und § 53 Absatz 1 in der jeweils ab dem 22. Juni 2023
 geltenden Fassung sind erstmals auf Ertragsteuerinformationsberichte

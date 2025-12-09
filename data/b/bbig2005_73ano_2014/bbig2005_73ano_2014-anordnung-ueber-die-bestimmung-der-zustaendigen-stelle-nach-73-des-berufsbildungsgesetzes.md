@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2014/BJNR154510014.html#BJNR154510014BJNE000100000)
 
 Auf Grund des § 73 Absatz 1 Nummer 2 des Berufsbildungsgesetzes vom
 23\. März 2005 (BGBl. I S. 931) bestimme ich nach § 12 Absatz 1 des
@@ -33,11 +34,13 @@ Kauffrau für Büromanagement“.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2014/BJNR154510014.html#BJNR154510014BJNE000200000)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2014/BJNR154510014.html#BJNR154510014BJNE000300000)
 
 Bundesministerium der Finanzen
 

@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000100000)
 
 Auf Grund des § 12 Absatz 3a des Energiewirtschaftsgesetzes vom 7.
 Juli 2005 (BGBl. I S. 1970, 3621), der zuletzt durch Artikel 2 Nummer
@@ -32,12 +33,14 @@ und Klimaschutz:
 
 
 ## § 1 Zweck und Ziele der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000200000)
 
 Diese Verordnung hat die Gewährleistung der technischen Sicherheit und
 der Systemstabilität der Elektrizitätsversorgungsnetze zum Ziel.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000300000)
 
 Diese Verordnung ist anzuwenden auf Erzeugungsanlagen sowie Anlagen
 zur Speicherung elektrischer Energie mit einer kumulierten
@@ -47,6 +50,7 @@ allgemeinen Versorgung.
 
 
 ## § 3 Technische Anforderungen an Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000400000)
 
 (1) Anlagen im Sinne des § 2 mit einer maximalen Einspeiseleistung von
 270 Kilowatt, deren Verknüpfungspunkt mit dem Netz der allgemeinen
@@ -106,6 +110,7 @@ Schutzfunktion gleichwertig anerkannt ist.
 
 
 ## § 4 Verhältnis zu anderen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000500000)
 
 (1) § 49 des Energiewirtschaftsgesetzes bleibt unberührt.
 
@@ -116,6 +121,7 @@ geändert worden ist, bleiben unberührt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eaav/BJNR09F0A0024.html#BJNR09F0A0024BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

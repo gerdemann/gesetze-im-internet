@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000100000)
 
 Auf Grund des § 137k Absatz 4 des Fünften Buches Sozialgesetzbuch, der
 durch Artikel 1 Nummer 3 des Gesetzes vom 20. Dezember 2022 (BGBl. I
@@ -29,9 +30,11 @@ Gesundheit im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000100000)
 
 
 ### § 1 Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000200000)
 
 (1) Diese Verordnung hat das Ziel, eine bedarfsgerechte Pflege von
 Patientinnen und Patienten sicherzustellen, indem Vorgaben zur
@@ -54,6 +57,7 @@ Verordnung ausgenommen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000301126)
 
 (1) Im Sinne dieser Verordnung ist eine Pflegekraft eine
 Pflegefachkraft oder eine Pflegehilfskraft.
@@ -161,6 +165,7 @@ achtzehnte Lebensjahr vollendet haben.
 
 
 ### § 3 Entsprechende Anwendung der Vorschriften über die Ermittlung des Pflegebedarfs der teilstationär zu behandelnden Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000400000)
 
 Bei der Ermittlung des Pflegebedarfs finden in Bezug auf Patientinnen
 und Patienten, die in einem Krankenhaus nach § 115f des Fünften Buches
@@ -171,9 +176,11 @@ Anwendung.
 
 
 ## Kapitel 2 - Ermittlung der Soll- und Ist-Personalbesetzung, Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000200000)
 
 
 ### § 4 Ermittlung der Soll-Personalbesetzung auf Normalstationen für Erwachsene
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000500000)
 
 (1) Krankenhäuser sind verpflichtet, für jede Normalstation für
 Erwachsene die Anzahl der dort jeweils auf der Grundlage des
@@ -270,6 +277,7 @@ Pflegefachkraft oberhalb der Stationsebene anteilig hinzuzurechnen.
 
 
 ### § 5 Ermittlung der Soll-Personalbesetzung auf Normal- und Intensivstationen für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000600000)
 
 (1) Krankenhäuser sind verpflichtet, für jede Normalstation für Kinder
 und jede Intensivstation für Kinder die Anzahl der dort jeweils auf
@@ -319,6 +327,7 @@ entsprechend.
 
 
 ### § 6 Ermittlung der Ist-Personalbesetzung
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000700000)
 
 (1) Krankenhäuser sind verpflichtet, für jeden Kalendermonat und für
 jede in § 1 Absatz 2 Satz 1 genannte Station, für Normalstationen für
@@ -398,6 +407,7 @@ Satz 1 genannten Kategorien zu ermitteln und zu erfassen.
 
 
 ### § 7 Übermittlung von Angaben an das Institut für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000800000)
 
 (1) Krankenhäuser sind verpflichtet, dem Institut für das
 Entgeltsystem im Krankenhaus bis zum 31. August 2024 die verwendeten
@@ -456,6 +466,7 @@ für die Übermittlung der Angaben auf seiner Internetseite.
 
 
 ### § 8 Erhebung und Auswertung von Angaben durch das Institut für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE000900000)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus wertet die nach
 § 7 Absatz 2 Satz 1 übermittelten Angaben und die nach § 7 Absatz 3
@@ -475,9 +486,11 @@ September 2026.
 
 
 ## Kapitel 3 - Personalbemessung auf Normalstationen für Erwachsene
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000300000)
 
 
 ### § 9 Leistungsstufen und Patientengruppen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001000000)
 
 (1) Zur Ermittlung des Pflegebedarfs sind Patientinnen und Patienten
 durch die Pflegefachkräfte auf der Grundlage der für sie notwendigen
@@ -564,6 +577,7 @@ Pflegefachkräfte in der Pflegedokumentation auszuweisen.
 
 
 ### § 10 Zuordnung zu Leistungsstufen der allgemeinen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001100000)
 
 (1) Alle Patientinnen und Patienten, die nicht der Leistungsstufe A2,
 A3 oder A4 zugeordnet werden, sind der Leistungsstufe A1 zuzuordnen.
@@ -606,6 +620,7 @@ Zuordnungsmerkmal aus der Leistungsstufe A4 zutrifft und
 
 
 ### § 11 Zuordnung zu Leistungsstufen der speziellen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001200000)
 
 (1) Alle Patientinnen und Patienten, die nicht der Leistungsstufe S2,
 S3 oder S4 zugeordnet werden, sind der Leistungsstufe S1 zuzuordnen.
@@ -624,6 +639,7 @@ Zuordnungsmerkmal der Leistungsstufe S3 zutrifft.
 
 
 ### § 12 Pflegegrundwert, erhöhter Pflegegrundwert, Minutenwerte und Fallwert
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001300000)
 
 (1) Der Pflegegrundwert beträgt je Patientin oder Patient und Tag 33
 Minuten. Im Fall einer Isolationspflicht, insbesondere bei
@@ -769,12 +785,15 @@ einmal je Kalenderquartal zugrunde zu legen.
 
 
 ## Kapitel 4 - Personalbemessung auf Stationen für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000400000)
 
 
 ### Abschnitt 1 - Personalbemessung auf Normalstationen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000500000)
 
 
 #### § 13 Leistungsstufen und Patientengruppen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001400000)
 
 (1) Zur Ermittlung des Pflegebedarfs sind durch die Pflegefachkräfte
 
@@ -916,6 +935,7 @@ Pflegefachkräfte in der Pflegedokumentation auszuweisen.
 
 
 #### § 14 Pflegegrundwert, Minutenwerte und Fallwert
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001500000)
 
 (1) Der Pflegegrundwert beträgt je Patientin oder Patient und Tag 55
 Minuten.
@@ -1112,6 +1132,7 @@ Höhe zugrunde zu legen.
 
 
 #### § 15 Zuordnung zu Leistungsstufen der allgemeinen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001600000)
 
 (1) Alle Patientinnen und Patienten, die nicht der jeweiligen
 Leistungsstufe KA2, KA3 oder KA4 zugeordnet werden, sind der
@@ -1157,6 +1178,7 @@ Pflegedokumentation auszuweisen.
 
 
 #### § 16 Zuordnung zu Leistungsstufen der speziellen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001700000)
 
 (1) Alle Patientinnen und Patienten, die nicht der Leistungsstufe KS2,
 KS3 oder KS4 zugeordnet werden, sind der Leistungsstufe KS1
@@ -1176,9 +1198,11 @@ Leistungsstufe KS4 zutrifft.
 
 
 ### Abschnitt 2 - Personalbemessung auf Intensivstationen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000600000)
 
 
 #### § 17 Leistungsstufen und Patientengruppen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001800000)
 
 (1) Zur Ermittlung des Pflegebedarfs sind durch die Pflegefachkräfte
 
@@ -1282,6 +1306,7 @@ Patientengruppen zuzuordnen.
 
 
 #### § 18 Zuordnung zu Leistungsstufen der Intensivpflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE001900000)
 
 (1) Alle Patientinnen und Patienten, die nicht der jeweiligen
 Leistungsstufe IS2 oder IS3 zugeordnet werden, sind der jeweiligen
@@ -1299,6 +1324,7 @@ der jeweiligen Leistungsstufe IS3 zutrifft.
 
 
 #### § 19 Pflegegrundwert, Minutenwerte und Fallwert
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002000000)
 
 (1) Der Pflegegrundwert beträgt je Patientin oder Patient und Tag 55
 Minuten.
@@ -1478,9 +1504,11 @@ Krankenhauses ist oder sind für die Patientin oder den Patienten
 
 
 ## Kapitel 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNG000700000)
 
 
 ### § 20 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002100000)
 
 Das Bundesministerium für Gesundheit evaluiert bis zum 1. Juli 2029
 
@@ -1502,17 +1530,20 @@ Das Bundesministerium für Gesundheit evaluiert bis zum 1. Juli 2029
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002200000)
 
 Diese Verordnung tritt am 1. Juli 2024 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 7 Absatz 2 und 5)
 
 ### Anlage 1 Format für die Datenübermittlung an das Institut für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 188, S. 14 - 15)
 
@@ -1679,6 +1710,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 9 Absatz 1)
 
 ### Anlage 2 Ermittlung des Pflegebedarfs auf Normalstationen für Erwachsene: Zuordnung zu den Leistungsstufen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002500000)
 
 (Fundstelle: BGBl. 2024 I Nr. 188, S. 16 - 21)
 
@@ -2455,6 +2487,7 @@ Spezielle Pflege
    (zu § 13 Absatz 2 Satz 1)
 
 ### Anlage 3 Ermittlung des Pflegebedarfs auf Normalstationen für Kinder: Zuordnung zu den Leistungsstufen der allgemeinen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 188, S. 22 - 42)
 
@@ -4847,6 +4880,7 @@ Bewegen und Lagern:**
 (zu § 13 Absatz 2 Satz 1)
 
 ### Anlage 4 Ermittlung des Pflegebedarfs auf Normalstationen für Kinder: Zuordnung zu den Leistungsstufen der speziellen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 188, S. 43 - 47)
 
@@ -5449,6 +5483,7 @@ Assistenz:**
 (zu § 17 Absatz 2)
 
 ### Anlage 5 Ermittlung des Pflegebedarfs auf Intensivstationen für Kinder: Zuordnung zu den Leistungsstufen
+[Direktlink](https://www.gesetze-im-internet.de/ppbv/BJNR0BC0A0024.html#BJNR0BC0A0024BJNE002800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 188, S. 48 - 50)
 

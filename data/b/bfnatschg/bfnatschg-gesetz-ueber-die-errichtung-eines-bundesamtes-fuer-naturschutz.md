@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bfnatschg/BJNR145810993.html#BJNR145810993BJNE000102119)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
 und nukleare Sicherheit wird ein "Bundesamt für Naturschutz" als
@@ -30,6 +31,7 @@ selbständige Bundesoberbehörde errichtet.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bfnatschg/BJNR145810993.html#BJNR145810993BJNE000202119)
 
 (1) Das Bundesamt für Naturschutz erledigt Verwaltungsaufgaben des
 Bundes auf den Gebieten des Naturschutzes und der Landschaftspflege,
@@ -54,6 +56,7 @@ zuständigen Bundesbehörde beauftragt wird.
 
 
 ## § 3 Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfnatschg/BJNR145810993.html#BJNR145810993BJNE000302119)
 
 Soweit das Bundesamt für Naturschutz Aufgaben aus einem anderen
 Geschäftsbereich als dem des Bundesministeriums für Umwelt,

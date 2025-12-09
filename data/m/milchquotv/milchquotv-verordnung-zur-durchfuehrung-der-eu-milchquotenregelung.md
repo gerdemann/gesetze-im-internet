@@ -23,9 +23,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000101377)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000302377)
 
 Diese Verordnung dient der Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union über das
@@ -34,6 +36,7 @@ Milchquotenregelung).
 
 
 ### § 2 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000402377)
 
 (1) Soweit diese Verordnung nichts anderes bestimmt, sind für die
 Durchführung dieser Verordnung und der EU-Milchquotenregelung die
@@ -50,6 +53,7 @@ dem aus die Quote zuletzt genutzt werden konnte, maßgeblich.
 
 
 ### § 3 Betriebssitz
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000501377)
 
 (1) Als Betriebssitz im Sinne dieser Verordnung gilt für die in § 2
 Absatz 2 genannten Personen der Ort, an dem die Milchkühe gehalten
@@ -67,6 +71,7 @@ anzuzeigen.
 
 
 ### § 4 Unschädliche Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000601377)
 
 Soweit Milchmengen einen Betrieb zum Zwecke der unschädlichen
 Beseitigung verlassen haben und die Beseitigung auf Grund
@@ -80,6 +85,7 @@ Beseitigung vorgenommen wurde, beizufügen.
 
 
 ### § 5 Bundes- und Landesreserven
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000703301)
 
 (1) Die in der EU-Milchquotenregelung vorgesehene nationale Reserve
 teilt sich in eine Bundesreserve für Anlieferungs- und
@@ -93,6 +99,7 @@ zuständigen Stellen der Länder (Landesstellen) verwaltet.
 
 
 ### § 6 Einziehung und Zuteilung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000802377)
 
 (1) Ist in der EU-Milchquotenregelung oder in dieser Verordnung die
 Einziehung einer Quote vorgesehen, wird die betreffende Quote im Falle
@@ -120,6 +127,7 @@ eingezogene Direktverkaufsquote überweist das Land der Bundesreserve.
 
 
 ### § 7 Überschussabgabe
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE000902377)
 
 Soweit nach der EU-Milchquotenregelung und unter Berücksichtigung der
 Vorschriften dieser Verordnung eine Überschussabgabe zu erheben ist,
@@ -141,12 +149,15 @@ wird die Überschussabgabe
 
 
 ## Abschnitt 2 - Übertragungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000201377)
 
 
 ### Unterabschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000301377)
 
 
 #### § 8 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001002377)
 
 (1) Quoten können nur im Rahmen und nach Maßgabe der in dieser
 Verordnung vorgesehenen Möglichkeiten übertragen werden. Soweit in
@@ -222,6 +233,7 @@ Quote nicht geltend machen kann.
 
 
 #### § 9 Pflicht zur Weiterübertragung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001102377)
 
 (1) Soweit der Übernehmer in den in § 8 Absatz 2 Satz 2 genannten
 Fällen kein Milcherzeuger ist, hat er die Quote bis zum Ablauf des
@@ -254,6 +266,7 @@ Absatzes 1 Satz 1 der Zeitpunkt der Unanfechtbarkeit der Übernahme.
 
 
 #### § 10 Umgehungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001202377)
 
 (1) Die Bestimmungen der EU-Milchquotenregelung, nach denen ein im
 Rahmen der EU-Milchquotenregelung normierter Vorteil zu versagen ist,
@@ -275,9 +288,11 @@ Gestaltungsmöglichkeit benutzt, um die Voraussetzungen für die
 
 
 ### Unterabschnitt 2 - Übertragungsstellenverfahren für Anlieferungsquoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000401377)
 
 
 #### § 11 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001301377)
 
 (1) Von Übertragungsstellen wird zum 1. April, 1. Juli und 2. November
 jedes Kalenderjahres (Übertragungsstellentermin) ein amtliches
@@ -311,6 +326,7 @@ Quoten werden auf den Standardfettgehalt umgerechnet.
 
 
 #### § 12 Angebote
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001402377)
 
 (1) Angebote müssen folgende Angaben enthalten:
 
@@ -399,6 +415,7 @@ entsprechender Nachweise zu beantragen.
 
 
 #### § 13 Nachfragegebote
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001502377)
 
 (1) Nachfragegebote müssen folgende Angaben enthalten:
 
@@ -439,6 +456,7 @@ Sicherheit in Höhe des Entgelts an die Stelle des Entgelts und wird im
 
 
 #### § 14 Einreichung und Bestätigung der Gebote
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001602377)
 
 (1) Die Gebote sind für den Übertragungsstellentermin
 
@@ -469,6 +487,7 @@ dem Übertragungsstellentermin durch Bescheid zurückgewiesen.
 
 
 #### § 15 Übertragungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001701377)
 
 (1) Das Übertragungsstellenverfahren wird für jeden der in Absatz 2
 genannten Übertragungsbereiche getrennt durchgeführt.
@@ -479,6 +498,7 @@ Sachsen-Anhalt und Thüringen bilden den Übertragungsbereich Ost; die
 
 
 #### § 16 Übertragungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001803377)
 
 (1) Die Durchführung des Übertragungsstellenverfahrens im
 Übertragungsbereich Ost erfolgt durch die Übertragungsstelle Ost als
@@ -524,6 +544,7 @@ maßgeblich.
 
 
 #### § 17 Gleichgewichtspreis
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE001901377)
 
 (1) Der Gleichgewichtspreis wird ermittelt, indem
 
@@ -584,6 +605,7 @@ dem Übertragungsstellenverfahren verbundenen Daten zu wahren.
 
 
 #### § 18 Festlegung der Übertragungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002001377)
 
 (1) Quoten von Anbietern, deren geforderter Angebotspreis niedriger
 oder gleich dem Gleichgewichtspreis ist, sind zum Gleichgewichtspreis
@@ -610,6 +632,7 @@ wird auf drei Nachkommastellen berechnet.
 
 
 #### § 19 Durchführung der Übertragungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002102377)
 
 (1) Die nach § 18 Absatz 1 Satz 1 zu übertragenden Quoten werden nach
 den Absätzen 3 bis 6 übertragen. Die nach den §§ 17 und 18 nicht zu
@@ -652,6 +675,7 @@ jeweils übertragene Quote an die Anbieter.
 
 
 #### § 20 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002203118)
 
 (1) Die Übertragungsstellen führen unverzüglich für jeden
 Übertragungsstellentermin Aufzeichnungen, mit denen sich die
@@ -703,9 +727,11 @@ der Übertragungsstelle Ost werden nachrichtlich den Ländern des
 
 
 ### Unterabschnitt 3 - Besondere Übertragungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000501377)
 
 
 #### § 21 Erbfolge, Verwandte und Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002301377)
 
 (1) Quoten können im Wege gesetzlicher oder gewillkürter Erbfolge oder
 bei der Übergabe eines Betriebes im Wege der vorweggenommenen Erbfolge
@@ -719,6 +745,7 @@ oder eingetragenen Lebenspartnern übertragen werden.
 
 
 #### § 22 Betriebsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002402377)
 
 (1) Wird ein Betrieb, der als selbstständige Produktionseinheit zur
 Milcherzeugung in Höhe von mindestens 50 vom Hundert seiner Quote
@@ -803,6 +830,7 @@ S. 16) in ihrer jeweils geltenden Fassung ausgeübt wird.
 
 
 #### § 23 Gesellschafterstellung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002502377)
 
 (1) Handelt es sich im Falle einer Übertragung nach § 22 Absatz 1 Satz
 1 bei dem Übernehmer der Quote um eine Gesellschaft und ist oder wird
@@ -831,6 +859,7 @@ Gesellschaftsanteile mitzuteilen und nachzuweisen.
 
 
 #### § 24 Beschränkungen zur Abgrenzung der Übertragungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002602377)
 
 (1) Ist der Sitz eines Betriebes, der als selbstständige
 Produktionseinheit zur Milcherzeugung bewirtschaftet wird, in einen
@@ -879,6 +908,7 @@ Absätze 2 bis 4 entsprechende Anwendung.
 
 
 #### § 25 Ausscheiden eines Gesellschafters; Auflösung einer Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002702377)
 
 (1) Scheidet ein Gesellschafter aus einer Gesellschaft, die Inhaber
 einer Quote ist, aus, kann im Wege eines schriftlichen Beschlusses der
@@ -905,6 +935,7 @@ Gesellschaft übertragen hat.
 
 
 #### § 26 Zwangsweise Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002802377)
 
 Die zwangsweise Übertragung einer Quote zur wirtschaftlichen
 Verwertung insbesondere im Rahmen einer Zwangsvollstreckung oder eines
@@ -919,6 +950,7 @@ aufgelöst oder zusammen mit der Quote nach § 22 Absatz 1 Satz 1
 
 
 #### § 27 Verfahren der Übertragungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE002902377)
 
 (1) Im Falle einer Übertragung nach den §§ 21 bis 26 ist von dem
 Übernehmer der Quote bei der für ihn zuständigen Landesstelle eine
@@ -1023,6 +1055,7 @@ werden.
 
 
 #### § 28 Inhalt der Übertragungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003001377)
 
 (1) Die Übertragungsbescheinigung nach § 27 enthält
 
@@ -1053,6 +1086,7 @@ Angaben in die Übertragungsbescheinigung aufnehmen.
 
 
 #### § 29 Spätere Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003101377)
 
 (1) Erfolgt die Antragstellung nach § 27 Absatz 1 in einem dem
 Zeitpunkt der Übertragung nachfolgenden Zwölfmonatszeitraum, wird die
@@ -1066,6 +1100,7 @@ bescheinigt werden.
 
 
 #### § 30 Zeitweilige Übertragung im Falle verendeter oder getöteter Milchkühe
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003202377)
 
 (1) Der Inhaber einer Quote kann
 
@@ -1144,9 +1179,11 @@ auf ein Vorliegen des Satzes 1 hinzuweisen.
 
 
 ## Abschnitt 3 - Kürzung, Einziehung, Umwandlung und Saldierung
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000601377)
 
 
 ### § 31 Kürzung von Quoten und Referenzfettgehalten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003303377)
 
 (1) Soweit die Bundesrepublik Deutschland die ihr nach der EU-
 Milchquotenregelung zugewiesene einzelstaatliche Anlieferungsquote
@@ -1171,6 +1208,7 @@ Inhabern von Quoten mitzuteilen.
 
 
 ### § 32 Einziehung nicht genutzter Quoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003402377)
 
 (1) Der Käufer teilt dem für ihn zuständigen Hauptzollamt bis zum 45.
 Tag nach Ablauf jedes Zwölfmonatszeitraums die Inhaber von
@@ -1227,6 +1265,7 @@ Bundesreserve einzieht.
 
 
 ### § 33 Umwandlung von Quoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003502377)
 
 (1) Soll nach der EU-Milchquotenregelung eine noch nicht für die
 Vermarktung von Milch genutzte Quote umgewandelt werden, ist der
@@ -1279,6 +1318,7 @@ Zwölfmonatszeiträume, kann das Hauptzollamt die Umwandlung widerrufen.
 
 
 ### § 34 Saldierung nicht genutzter Quoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003602377)
 
 (1) Soweit die einzelstaatliche Anlieferungsquote der Bundesrepublik
 Deutschland in einem Zwölfmonatszeitraum überschritten wird, werden
@@ -1330,9 +1370,11 @@ worden sind, entsprechend den Absätzen 2 bis 5 vor.
 
 
 ## Abschnitt 4 - Durchführung und Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000701377)
 
 
 ### § 35 Neuberechnung von Quoten und Referenzfettgehalten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003701377)
 
 (1) Ordnet eine gesetzliche Bestimmung oder ein Bescheid die Änderung
 des Umfangs einer Quote an, ist sie neu zu berechnen (Neuberechnung).
@@ -1378,6 +1420,7 @@ Bestimmungen des § 19 Absatz 4 und 6.
 
 
 ### § 36 Beförderungsdokumente
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003802377)
 
 Soweit nach der EU-Milchquotenregelung während der Beförderung von
 Milch Dokumente zur Bestimmung der jeweiligen Anlieferungen
@@ -1389,6 +1432,7 @@ Dokumente zur Verfügung zu stellen.
 
 
 ### § 37 Zulassung der Käufer
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE003902377)
 
 (1) Jeder Käufer hat die in der EU-Milchquotenregelung vorgesehene
 Zulassung zu beantragen. Er darf seine Tätigkeit als Käufer erst nach
@@ -1405,6 +1449,7 @@ sind.
 
 
 ### § 38 Käuferwechsel
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004002377)
 
 (1) Wechselt der Milcherzeuger denjenigen Käufer, an den er liefert
 und der damit für die Erhebung der Überschussabgabe zuständig ist, hat
@@ -1437,6 +1482,7 @@ Erhebung der Überschussabgabe zu berücksichtigen. Ist keine
 
 
 ### § 39 Erhebung der Überschussabgabe bei Anlieferungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004104377)
 
 (1) Der Käufer zieht dem Milcherzeuger den Betrag der
 Überschussabgabe, der nach der EU-Milchquotenregelung von dem Käufer
@@ -1482,6 +1528,7 @@ Rahmen seiner Buchführung auf einem gesonderten Konto
 
 
 ### § 40 Mitteilungen der Käufer
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004202377)
 
 (1) Der Käufer übersendet dem für ihn zuständigen Hauptzollamt vor dem
 15\. Mai jedes Jahres für den vorangegangenen Zwölfmonatszeitraum eine
@@ -1649,6 +1696,7 @@ Milcherzeuger bekannt gegeben.
 
 
 ### § 41 Mehrere Käufer
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004302377)
 
 (1) Liefert ein Milcherzeuger Milch gleichzeitig an mehrere Käufer,
 bestimmt er denjenigen Käufer, der die einem Käufer nach dieser
@@ -1670,6 +1718,7 @@ unverzüglich zu übermitteln.
 
 
 ### § 42 Erhebung der Überschussabgabe bei Direktverkäufen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004402377)
 
 (1) Die Abgabeanmeldung, die ein Milcherzeuger im Falle von
 Direktverkäufen vor dem 15. Mai jedes Jahres nach der EU-
@@ -1685,6 +1734,7 @@ jeweiligen Zwölfmonatszeitraums an die Bundeskasse Kiel abzuführen.
 
 
 ### § 43 Äquivalenzmengen für Käse
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004501377)
 
 (1) Im Falle von Direktverkäufen werden die Äquivalenzmengen je
 Kilogramm Käse wie folgt festgesetzt:
@@ -1758,6 +1808,7 @@ anfallen, erfolgt keine erneute Äquivalenzmengenberechnung.
 
 
 ### § 44 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004601377)
 
 Soweit es für die Durchführung der Milchquotenregelung einschließlich
 ihrer Überwachung erforderlich ist, haben die Milcherzeuger und die
@@ -1771,6 +1822,7 @@ auszudrucken.
 
 
 ### § 45 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004702377)
 
 (1) Soweit in dieser Verordnung und der EU-Milchquotenregelung nichts
 anderes bestimmt ist, sind sämtliche Unterlagen, die die
@@ -1799,6 +1851,7 @@ auf die neuen Käufer über.
 
 
 ### § 46 Mitteilungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004801377)
 
 Die Länder teilen der vom Bundesministerium der Finanzen bekannt zu
 gebenden Stelle innerhalb von zwei Monaten nach Ablauf jedes
@@ -1829,9 +1882,11 @@ Zwölfmonatszeitraums Folgendes mit:
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNG000801377)
 
 
 ### § 47 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE004901377)
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des Gesetzes zur
 Durchführung der Gemeinsamen Marktorganisationen und der
@@ -1859,6 +1914,7 @@ Direktzahlungen handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 48 Behandlung laufender Pachtverträge
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005002377)
 
 (1) Pachtverträge, die Quoten nach § 7, auch in Verbindung mit § 14
 Absatz 2, der Milch-Garantiemengen-Verordnung in der Fassung der
@@ -1919,6 +1975,7 @@ aufgehoben.
 
 
 ### § 49 Übernahmerecht des Pächters
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005102377)
 
 (1) Soweit Quoten nach § 48 Absatz 3 Satz 1 bei Beendigung des
 Pachtvertrages zurückzugewähren sind und der Pächter Milcherzeuger
@@ -1972,6 +2029,7 @@ die rechtzeitige Zahlung des Entgelts nachweist.
 
 
 ### § 50 Übertragung übernommener Quoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005202377)
 
 (1) Übt der Pächter sein Übernahmerecht aus, darf er innerhalb eines
 Kalenderjahres nach der Übernahme keine Quote auf einen Dritten
@@ -1987,6 +2045,7 @@ teilweise abgesehen werden.
 
 
 ### § 51 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005303377)
 
 (1) Die Einziehung nach § 48 Absatz 3 Satz 1 und das Übernahmerecht
 nach § 49 Absatz 1 Satz 1 gelten nicht, wenn
@@ -2039,6 +2098,7 @@ erfüllt.
 
 
 ### § 52 Übertragungsbescheinigungen bei Beendigung von Pachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005402377)
 
 Übertragungen nach den §§ 48 bis 51 werden durch eine
 Übertragungsbescheinigung bescheinigt. Soweit die §§ 48 bis 51 nichts
@@ -2046,6 +2106,7 @@ anderes bestimmen, gelten die §§ 27 bis 29 Absatz 1 entsprechend.
 
 
 ### § 53 Zuteilung von Quoten in den Zwölfmonatszeiträumen 2009/10 bis 2013/14
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005503377)
 
 (1) Die Quote, die einem Milcherzeuger am 1. Februar 2010, 1. April
 2010, 1. April 2011, 1. April 2012 und 1. April 2013 jeweils zur
@@ -2119,6 +2180,7 @@ Quoten als Anlieferungsquoten in die Bundesreserve.
 
 
 ### § 54 Neuberechnung auf Grund einer Erhöhung nach § 53
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005603377)
 
 (1) Die von einer Erhöhung nach § 53 Absatz 1 Satz 1 betroffenen
 Milcherzeuger erhalten nach Maßgabe des § 35 anlässlich jeder Erhöhung
@@ -2138,6 +2200,7 @@ vor.
 
 
 ### § 55 Erhöhung von zeitweilig übertragenen Quoten
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005702377)
 
 (1) Soweit es sich bei der nach § 53 Absatz 1 Satz 1 der Erhöhung
 jeweils zugrunde liegenden Quote um eine verpachtete oder anderweitig
@@ -2154,6 +2217,7 @@ zeitweiligen Übertragung schriftlich vereinbaren.
 
 
 ### § 56 Abweichung durch Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE006301377)
 
 Von den Bestimmungen über das Verwaltungsverfahren in § 2 Absatz 2, §§
 3 und 12 Absatz 4, § 13 Absatz 3 Satz 1, § 14 Absatz 3, §§ 16 und 17
@@ -2162,6 +2226,7 @@ durch Landesrecht nicht abgewichen werden.
 
 
 ### § 57 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005803377)
 
 (1) Die Durchführung der Milchquotenregelung bis einschließlich des
 Zwölfmonatszeitraums, der am 31. März 2011 endet, erfolgt auf der
@@ -2253,6 +2318,7 @@ Ist eine vormalige Beschränkung Inhalt einer amtlichen Bescheinigung
 
 
 ### § 58 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE005902377)
 
 (1) Die Milchabgabenverordnung vom 7. März 2007 (BGBl. I S. 295) wird
 aufgehoben, soweit nicht diese Verordnung die Fortgeltung einzelner
@@ -2267,5 +2333,6 @@ auch nach dieser Verordnung fort.
 
 
 ### § 59 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/milchquotv/BJNR035900008.html#BJNR035900008BJNE006002377)
 
 

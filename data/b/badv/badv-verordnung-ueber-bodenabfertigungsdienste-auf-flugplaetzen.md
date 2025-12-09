@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000100310)
 
 (1) Diese Verordnung gilt für den Zugang zum Markt der
 Bodenabfertigungsdienste auf Flugplätzen in der Bundesrepublik
@@ -67,6 +68,7 @@ innergemeinschaftlichen Flugverkehrs.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000200310)
 
 Im Sinne dieser Verordnung bezeichnet das Wort
 
@@ -122,6 +124,7 @@ Im Sinne dieser Verordnung bezeichnet das Wort
 
 
 ## § 3 Bodenabfertigungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000304119)
 
 (1) Der Flugplatzunternehmer hat Selbstabfertigern und Dienstleistern
 die Erbringung von Bodenabfertigungsdiensten zu ermöglichen.
@@ -183,6 +186,7 @@ erforderlichen Unterlagen und Begründungen rechtzeitig zu übermitteln.
 
 
 ## § 4 Trennung der Tätigkeitsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000400310)
 
 (1) Jeder Dienstleiter muß zwischen dem Tätigkeitsbereich
 Bodenabfertigungsdienste auf einem Flugplatz und seinen übrigen
@@ -201,6 +205,7 @@ nach Absatz 1 nachzuweisen.
 
 
 ## § 5 Nutzerausschuß
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000500310)
 
 (1) Der Nutzerausschuß wird aus den Nutzern eines Flugplatzes
 gebildet. Der Nutzerausschuß gibt sich eine Geschäftsordnung. Die in
@@ -212,6 +217,7 @@ ein. Sie kann diese Aufgabe dem Flugplatzunternehmer übertragen.
 
 
 ## § 6 Zentrale Infrastruktureinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000600310)
 
 (1) In der Flugplatzbenutzungsordnung werden die Zentralen
 Infrastruktureinrichtungen zur Erbringung von
@@ -233,6 +239,7 @@ nichtdiskriminierenden Kriterien festzulegen.
 
 
 ## § 7 Auswahl der Dienstleister und der Selbstabfertiger
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000701305)
 
 (1) In den Fällen des § 3 Abs. 2 bis 5 hat der Flugplatzunternehmer
 die Vergabe von Dienstleistungen im Amtsblatt der Europäischen
@@ -279,6 +286,7 @@ aufgegeben wird.
 
 
 ## § 8 Anforderungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000801308)
 
 (1) Dienstleister und Selbstabfertiger haben die "Anforderungen für
 die Erbringung von Bodenabfertigungsdiensten" (Anlage 3) zu erfüllen.
@@ -305,6 +313,7 @@ ausgeübt haben.
 
 
 ## § 9 Zugang
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE000901308)
 
 (1) Der Flugplatzunternehmer und der Dienstleister oder
 Selbstabfertiger sind verpflichtet, einen Vertrag über die Nutzung des
@@ -331,6 +340,7 @@ insbesondere zur Selbstfinanzierung des Flugplatzes beitragen.
 
 
 ## § 10 Aufsicht und Betriebsablauf, Arbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001000310)
 
 (1) Die Nutzer, Dienstleister und Selbstabfertiger haben ihren Betrieb
 so einzurichten und zu gestalten, daß der ordnungsgemäße
@@ -357,6 +367,7 @@ Rechtsvorschriften haben, bleiben unberührt.
 
 
 ## § 11 Konsultation
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001100310)
 
 Der Flugplatzunternehmer hält mindestens einmal im Jahr eine
 gemeinsame Konsultation über die Anwendung dieser Verordnung mit dem
@@ -366,6 +377,7 @@ Luftfahrtbehörde ab.
 
 
 ## § 12 Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001204119)
 
 (1) Wird festgestellt, daß ein Drittland Dienstleister und
 Selbstabfertiger, deren Unternehmen mehrheitlich im Eigentum von
@@ -399,6 +411,7 @@ Entscheidung.
 (zu § 2 Nr. 4)
 
 ## Anlage 1 Verzeichnis der Bodenabfertigungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001400310)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
@@ -587,6 +600,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 (zu § 7)
 
 ## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Digitales und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001506119)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -780,6 +794,7 @@ sowie den Bewerbern bekanntzugeben.
 (zu § 8)
 
 ## Anlage 3 Anforderungen für die Erbringung von Bodenabfertigungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001605116)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2890 - 2892;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1025,6 +1040,7 @@ hierdurch Marktzugangshindernisse entstehen.
 (zu § 5)
 
 ## Anlage 4 Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001701305)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893
 Die Geschäftsordnung, die sich der Nutzerausschuß eines Flugplatzes
@@ -1181,6 +1197,7 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
 
 
 ## Anlage 5 (zu § 3 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/badv/BJNR288510997.html#BJNR288510997BJNE001805119)
 
 (Fundstelle: BGBl. I 1997, 2893 - 2899,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

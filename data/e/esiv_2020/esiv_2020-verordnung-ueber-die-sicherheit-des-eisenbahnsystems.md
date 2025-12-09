@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 930-9-12 v. 5.7.2007 I 1305, 1318 (ESiV)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000100000)
 
 (1) Diese Verordnung gilt für das öffentliche Eisenbahnsystem im
 übergeordneten Netz nach § 2b des Allgemeinen Eisenbahngesetzes.
@@ -41,6 +43,7 @@ Stand: Ersetzt V 930-9-12 v. 5.7.2007 I 1305, 1318 (ESiV)
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000200000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -95,6 +98,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ### § 3 Notifizierung von Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000300000)
 
 (1) Sicherheitsvorschriften dürfen nur dann erlassen oder
 herausgegeben werden,
@@ -164,12 +168,15 @@ Kenntnis.
 
 
 ## Teil 2 - Einheitliche Sicherheitsbescheinigung und Sicherheitsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000200000)
 
 
 ### Kapitel 1 - Einheitliche Sicherheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000300000)
 
 
 #### § 4 Voraussetzungen für die Erteilung einer einheitlichen Sicherheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000400000)
 
 Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung)
 ist für nach Art, Umfang und räumliche Ausdehnung festgelegte
@@ -194,6 +201,7 @@ dass es
 
 
 #### § 5 Sicherheitsbescheinigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000500000)
 
 (1) Die Sicherheitsbescheinigungsstelle erteilt
 Sicherheitsbescheinigungen nach der Durchführungsverordnung (EU)
@@ -227,6 +235,7 @@ Artikel 10 Absatz 7 der Richtlinie (EU) 2016/798 anzuwenden.
 
 
 #### § 6 Antrag auf Erteilung einer Sicherheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000600000)
 
 (1) Eisenbahnverkehrsunternehmen haben eine Sicherheitsbescheinigung
 bei der Sicherheitsbescheinigungsstelle über die zentrale Anlaufstelle
@@ -240,6 +249,7 @@ deutscher Sprache vorzulegen.
 
 
 #### § 7 Erweiterung des geografischen Tätigkeitsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000700000)
 
 (1) Wenn das Eisenbahnverkehrsunternehmen eine Erweiterung des
 geografischen Tätigkeitsgebiets beabsichtigt, hat es die Änderung der
@@ -265,6 +275,7 @@ vor, wenn
 
 
 #### § 8 Überprüfung nach Artikel 14 der Durchführungsverordnung (EU) 2018/763
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000800000)
 
 (1) Hat die Sicherheitsbescheinigungsstelle einem Antrag auf Erteilung
 einer Sicherheitsbescheinigung nicht oder nicht vollständig
@@ -281,6 +292,7 @@ Verordnung (EU) 2016/796 Beschwerde einlegen.
 
 
 #### § 9 Änderung einer Sicherheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE000900000)
 
 (1) Wenn sich Art und Umfang der Eisenbahnverkehrsdienste wesentlich
 ändern, hat das Eisenbahnverkehrsunternehmen unverzüglich die Änderung
@@ -292,6 +304,7 @@ der Sicherheitsbescheinigung zu beantragen.
 
 
 #### § 10 Widerruf einer Sicherheitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001000000)
 
 (1) Die Sicherheitsbescheinigung kann ganz oder teilweise widerrufen
 werden, wenn
@@ -319,6 +332,7 @@ die Sicherheitsbehörde Sicherheitsbescheinigungsstelle war.
 
 
 #### § 11 Widerruf einer Sicherheitsbescheinigung der Agentur
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001100000)
 
 (1) Die Sicherheitsbehörde kann bei der Agentur beantragen, die
 Sicherheitsbescheinigung ganz oder teilweise zu widerrufen, wenn die
@@ -350,6 +364,7 @@ widerrufen oder nur teilweise widerrufen wird.
 
 
 #### § 12 Unverhältnismäßige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001200000)
 
 Hält die Agentur im Fall des § 5a Absatz 2 Satz 1 des Allgemeinen
 Eisenbahngesetzes die von der Sicherheitsbehörde getroffenen Maßnahmen
@@ -358,6 +373,7 @@ Unterabsatz 3 der Richtlinie (EU) 2016/798 Anwendung.
 
 
 #### § 13 Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001300000)
 
 (1) Die Sicherheitsbehörde unterrichtet die Agentur über die zentrale
 Anlaufstelle unverzüglich, bei erstmaliger Erteilung spätestens
@@ -393,9 +409,11 @@ Sicherheitsbescheinigung.
 
 
 ### Kapitel 2 - Sicherheitsgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000400000)
 
 
 #### § 14 Voraussetzungen für die Erteilung einer Sicherheitsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001400000)
 
 Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder
 Schienenwege des übergeordneten Netzes zu erteilen, wenn das
@@ -415,6 +433,7 @@ Eisenbahninfrastrukturunternehmen den Nachweis erbringt, dass es
 
 
 #### § 15 Antrag auf Erteilung einer Sicherheitsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001500000)
 
 (1) Eisenbahninfrastrukturunternehmen haben eine
 Sicherheitsgenehmigung bei der Sicherheitsbehörde zu beantragen. Der
@@ -431,6 +450,7 @@ aufgelistet sind.
 
 
 #### § 16 Verfahren für die Erteilung einer Sicherheitsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001600000)
 
 (1) Die Sicherheitsbehörde entscheidet über einen Antrag auf Erteilung
 einer Sicherheitsgenehmigung unverzüglich nach Vorlage der für die
@@ -455,6 +475,7 @@ gelten die §§ 9 und 10 Absatz 1 und 3 entsprechend.
 
 
 #### § 17 Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001700000)
 
 (1) Die Sicherheitsbehörde unterrichtet die Agentur über die
 erstmalige Erteilung, die Erneuerung, die Änderung oder den Widerruf
@@ -486,9 +507,11 @@ oder dem Widerruf einer Sicherheitsgenehmigung zu erfolgen.
 
 
 ## Teil 3 - Pflichten der Eisenbahnen, der Halter von Eisenbahnfahrzeugen, der für die Instandhaltung zuständigen Stellen und der sonstigen Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000500000)
 
 
 ### § 18 Pflicht, Voraussetzungen einer Sicherheitsbescheinigung und einer Sicherheitsgenehmigung zu erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001800000)
 
 Eisenbahnen haben sicherzustellen, dass die Voraussetzungen, die für
 die Erteilung einer Sicherheitsbescheinigung oder einer
@@ -497,6 +520,7 @@ werden.
 
 
 ### § 19 Pflichten der für die Instandhaltung zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE001900000)
 
 (1) Die für die Instandhaltung zuständigen Stellen stellen sicher,
 dass sich die Instandhaltung richtet nach
@@ -516,6 +540,7 @@ dass sich die Instandhaltung richtet nach
 
 
 ### § 20 Maßnahmen zur Risikobegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002000000)
 
 (1) Eisenbahnen verpflichten bei Änderungen am Eisenbahnsystem
 gegebenenfalls die Halter von Eisenbahnfahrzeugen und die sonstigen
@@ -556,6 +581,7 @@ vertragliche Vereinbarung dafür sorgen:
 
 
 ### § 21 Beseitigungs- und Informationspflicht bei Sicherheitsrisiken
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002100000)
 
 (1) Erkennen
 
@@ -586,6 +612,7 @@ melden.
 
 
 ### § 22 Informationspflicht im Fall eines Fahrzeugaustausches
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002200000)
 
 Tauschen Eisenbahnverkehrsunternehmen untereinander ein Fahrzeug aus,
 übermitteln die nach § 21 Absatz 1 verpflichteten Betroffenen einander
@@ -593,9 +620,11 @@ alle für einen sicheren Betrieb relevanten Informationen.
 
 
 ## Teil 4 - Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000600000)
 
 
 ### § 23 Sicherheitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002300000)
 
 Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen
 sind verpflichtet, der Sicherheitsbehörde zum 31. Mai jedes Jahres
@@ -611,6 +640,7 @@ Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010 (ABl. L 129 vom
 
 
 ### § 24 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002400000)
 
 (1) Die Sicherheitsbehörde veröffentlicht jedes Jahr einen Bericht
 über ihre Tätigkeiten des Vorjahres. Sie übermittelt den Bericht der
@@ -646,9 +676,11 @@ Agentur spätestens bis zum 30. September jedes Jahres.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNG000700000)
 
 
 ### § 25 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002500000)
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des
 Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -658,6 +690,7 @@ rechtzeitig vorlegt.
 
 
 ### § 26 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/esiv_2020/BJNR129810020.html#BJNR129810020BJNE002600000)
 
 Eisenbahnen sind verpflichtet, der Sicherheitsbehörde den
 Sicherheitsbericht für das Jahr 2019 nach § 6 der Eisenbahn-

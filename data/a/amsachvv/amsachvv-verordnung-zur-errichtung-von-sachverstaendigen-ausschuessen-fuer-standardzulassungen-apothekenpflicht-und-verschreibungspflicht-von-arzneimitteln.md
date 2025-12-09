@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000100314)
 
 Auf Grund des § 53 des Arzneimittelgesetzes vom 24. August 1976 (BGBl.
 I S. 2445, 2448) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000206116)
 
 Das Bundesministerium für Gesundheit (Bundesministerium) hört vor
 Erlaß einer Rechtsverordnung
@@ -47,6 +49,7 @@ an.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000304116)
 
 (1) (weggefallen)
 
@@ -157,6 +160,7 @@ an.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000406116)
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden
 durch das Bundesministerium einheitlich für den Zeitraum von jeweils
@@ -178,6 +182,7 @@ jederzeit beenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000500314)
 
 Die Mitglieder der Ausschüsse und deren Stellvertreter haben, auch
 nach Beendigung ihrer ehrenamtlichen Tätigkeit, über die ihnen dabei
@@ -187,6 +192,7 @@ ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000604116)
 
 (1) Die Ausschüsse beraten unter dem Vorsitz des Präsidenten des
 Bundesinstitutes für Arzneimittel und Medizinprodukte. Die Sitzungen
@@ -202,11 +208,13 @@ dessen Homepage im Internet veröffentlicht.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE000702116)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amsachvv/BJNR000300978.html#BJNR000300978BJNE001001116)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

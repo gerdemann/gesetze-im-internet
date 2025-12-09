@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000900326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000100326)
 
 Der Bund gewährt den Ländern Schleswig-Holstein, Niedersachsen, Freie
 Hansestadt Bremen sowie Freie und Hansestadt Hamburg Finanzhilfen für
@@ -39,6 +41,7 @@ sowie die Freie und Hansestadt Hamburg 30.000.000 Deutsche Mark.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000200326)
 
 Durch die Finanzhilfen werden Investitionsmaßnahmen zur Verbesserung
 der Infrastruktur, insbesondere der Verkehrsinfrastruktur, zum
@@ -46,6 +49,7 @@ Ausgleich unterschiedlicher Wirtschaftskraft gefördert.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000300326)
 
 Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in
 unmittelbar ursächlichem Zusammenhang mit den Maßnahmen nach § 2
@@ -53,6 +57,7 @@ stehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000400326)
 
 (1) Die Finanzhilfen werden nach Maßgabe jährlich fortzuschreibender
 Förderungslisten der Länder gewährt. Die Förderungslisten enthalten
@@ -88,6 +93,7 @@ gilt für Zinsbeträge.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000500326)
 
 (1) Die Finanzhilfen des Bundes betragen 65 vom Hundert der
 förderungsfähigen Ausgaben.
@@ -100,6 +106,7 @@ anzuweisen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000600326)
 
 (1) Die Länder übersenden dem Bund innerhalb von fünf Monaten nach
 Abschluß des Haushaltsjahrs einen Bericht über die Durchführung und
@@ -113,12 +120,14 @@ Sachdarstellung enthalten.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000700326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bfinhshuag/BJNR025840986.html#BJNR025840986BJNE000800326)
 
 Dieses Gesetz tritt am 1. Januar 1987 in Kraft.
 

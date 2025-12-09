@@ -25,6 +25,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000100000)
 
 Auf Grund des § 10 Satz 2 des Atomgesetzes, der durch Artikel 1 Nummer
 9 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) eingefügt wurde, und
@@ -39,6 +40,7 @@ S. 2972) geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000201118)
 
 (1) Diese Verordnung gilt für die Überwachung und Kontrolle
 grenzüberschreitender Verbringungen radioaktiver Abfälle und
@@ -64,6 +66,7 @@ abgebrannter Brennelemente.
 
 
 ## § 2 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000302116)
 
 Genehmigungs-, Anzeige- und Anmeldeerfordernisse sowie sonstige
 Anforderungen nach dem Atomgesetz und des Strahlenschutzgesetzes und
@@ -83,6 +86,7 @@ Brennelemente diese Verordnung anzuwenden ist.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000402116)
 
 Im Sinne dieser Verordnung bedeuten die Begriffe:
 
@@ -187,6 +191,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe:
 
 
 ## § 4 Einheitlicher Begleitschein
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000500000)
 
 (1) Das Genehmigungsverfahren zur Verbringung radioaktiver Abfälle
 oder abgebrannter Brennelemente erfolgt unter Verwendung des
@@ -202,6 +207,7 @@ wann dies erfolgt ist.
 
 
 ## § 5 Verbringungsverbot, Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000602116)
 
 (1) Die Verbringung radioaktiver Abfälle oder abgebrannter
 Brennelemente ist unzulässig
@@ -287,6 +293,7 @@ beteiligt ist.
 
 
 ## § 6 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000700000)
 
 (1) Eine Genehmigung nach § 5 ist beim Bundesamt für Wirtschaft und
 Ausfuhrkontrolle unter Verwendung von Abschnitt A-1 oder B-1 des
@@ -319,6 +326,7 @@ Begleitscheins in Kopie zwecks Zustimmung.
 
 
 ## § 7 Eingangsbestätigung und Informationsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000800000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle prüft innerhalb
 von 20 Tagen nach Eingang, ob der ihm von der zuständigen Behörde
@@ -373,6 +381,7 @@ angeforderten Informationen.
 
 
 ## § 8 Verbringung in einen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE000900000)
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 1 Buchstabe a ist
 zu erteilen, wenn
@@ -416,6 +425,7 @@ Atomgesetzes werden dem einheitlichen Begleitschein beigefügt.
 
 
 ## § 9 Verbringung in ein Drittland
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001000000)
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 1 Buchstabe b darf
 nur erteilt werden, wenn
@@ -444,6 +454,7 @@ nur erteilt werden, wenn
 
 
 ## § 10 Verbringung in das Inland aus einem Drittland
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001100000)
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 2 ist zu erteilen,
 wenn
@@ -483,6 +494,7 @@ wenn
 
 
 ## § 11 Verbringung durch das Inland
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001200000)
 
 (1) Die Genehmigung nach § 5 Absatz 2 Satz 1 Nummer 3 darf nur erteilt
 werden, wenn
@@ -506,6 +518,7 @@ werden, wenn
 
 
 ## § 12 Unterrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001300000)
 
 (1) Von der Erteilung einer Genehmigung nach § 5 Absatz 2 Satz 1
 unterrichtet das Bundesamt für Wirtschaft und Ausfuhrkontrolle unter
@@ -520,6 +533,7 @@ von der Verbringung in Kenntnis.
 
 
 ## § 13 Übermittlung und Mitführen von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001400000)
 
 Vor Beginn der Verbringung übermittelt das Bundesamt für Wirtschaft
 und Ausfuhrkontrolle den zuständigen Behörden aller von der
@@ -532,6 +546,7 @@ sicherzustellen, dass die Verpflichtung nach Satz 2 erfüllt wird.
 
 
 ## § 14 Zustimmung zur Verbringung in das Inland aus einem Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001500000)
 
 (1) Die Verbringung radioaktiver Abfälle oder abgebrannter
 Brennelemente in das Inland aus einem Mitgliedstaat bedarf der
@@ -582,6 +597,7 @@ Zustimmung als erteilt.
 
 
 ## § 15 Zustimmung zur Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001600000)
 
 (1) Die Verbringung radioaktiver Abfälle oder abgebrannter
 Brennelemente durch das Inland aus einem oder in einen Mitgliedstaat
@@ -623,6 +639,7 @@ kann die Zustimmung zur Rückverbringung nicht verweigert werden, wenn
 
 
 ## § 16 Genehmigung durch andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001700000)
 
 In den Fällen der §§ 14 und 15 ist eine Verbringung radioaktiver
 Abfälle oder abgebrannter Brennelemente in oder durch das Inland nur
@@ -635,6 +652,7 @@ gilt entsprechend.
 
 
 ## § 17 Nicht zu Ende geführte Verbringungen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001800000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann
 entscheiden, dass eine den Geltungsbereich dieser Verordnung
@@ -655,6 +673,7 @@ trägt der Genehmigungsinhaber die dadurch entstehenden Kosten.
 
 
 ## § 18 Bestätigung über den Erhalt
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE001900000)
 
 (1) Der Empfänger radioaktiver Abfälle oder abgebrannter
 Brennelemente, die in das Inland verbracht worden sind, hat der für
@@ -701,6 +720,7 @@ Bestimmungslands anzugeben.
 
 
 ## § 19 Sprachenregelung
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002000000)
 
 (1) Der Genehmigungsantrag sowie erforderliche zusätzliche Unterlagen
 und Informationen sind in deutscher oder englischer Sprache
@@ -714,6 +734,7 @@ englischer Sprache.
 
 
 ## § 20 Mitwirkung der Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002100000)
 
 Radioaktive Abfälle oder abgebrannte Brennelemente sind bei der
 zuständigen Zollstelle unter Vorlage der in § 13 genannten Unterlagen
@@ -723,6 +744,7 @@ Drittland verbracht werden.
 
 
 ## § 21 Aufbewahrung der einheitlichen Begleitscheine nach Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002200000)
 
 (1) Nach Abschluss des Genehmigungs- und Zustimmungsverfahrens behält
 das Bundesamt für Wirtschaft und Ausfuhrkontrolle die Ausfertigung 1
@@ -735,6 +757,7 @@ aufzubewahren.
 
 
 ## § 22 Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002302119)
 
 Das für die kerntechnische Sicherheit und den Strahlenschutz
 zuständige Bundesministerium für Umwelt, Naturschutz und nukleare
@@ -745,6 +768,7 @@ dieser Verordnung zu erlassen.
 
 
 ## § 23 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002400000)
 
 Ordnungswidrig im Sinne des § 46 Absatz 1 Nummer 4 des Atomgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -767,20 +791,24 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002501118)
 
 
 
 ## § 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage Einheitlicher Begleitschein für die Überwachung und Kontrolle von Verbringungen radioaktiver Abfälle und abgebrannter Brennelemente (Richtlinie 2006/117/Euratom des Rates)
+[Direktlink](https://www.gesetze-im-internet.de/atav_2009/BJNR100000009.html#BJNR100000009BJNE002800000)
 
 (Fundstelle: BGBl. I 2009, 1007 - 1031)
 ### Allgemeine Bemerkungen

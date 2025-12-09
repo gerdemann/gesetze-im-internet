@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschowizustv_1974/BJNR037090974.html#BJNR037090974BJNE000100304)
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten vom
 24\. Mai 1968 (Bundesgesetzbl. I S. 481), zuletzt geändert durch
@@ -29,6 +30,7 @@ Artikel 29 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/binschowizustv_1974/BJNR037090974.html#BJNR037090974BJNE000204123)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 2 des Gesetzes zur Ausführung des
@@ -41,14 +43,17 @@ Schifffahrt übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/binschowizustv_1974/BJNR037090974.html#BJNR037090974BJNE000301123)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/binschowizustv_1974/BJNR037090974.html#BJNR037090974BJNE000400304)
 
 Diese Verordnung tritt am 1. Januar 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/binschowizustv_1974/BJNR037090974.html#BJNR037090974BJNE000500304)
 
 Der Bundesminister für Verkehr
 

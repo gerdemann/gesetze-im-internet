@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000100000)
 
 Auf Grund des § 16 Abs. 6 des Gentechnikgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066) verordnet das
@@ -30,6 +31,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1 Verfahren bei Anträgen zur Freisetzung im Geltungsbereich des Gentechnikgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000202310)
 
 (1) Die zuständige Bundesoberbehörde hat binnen 30 Tagen nach Eingang
 des Antrags auf Genehmigung einer Freisetzung von gentechnisch
@@ -67,6 +69,7 @@ genehmigten Freisetzungen.
 
 
 ## § 2 Verfahren bei Anträgen zur Freisetzung aus Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000302310)
 
 (1) Erhält die zuständige Bundesoberbehörde von der Kommission eine
 Zusammenfassung von Antragsunterlagen für eine Freisetzung aus einem
@@ -92,6 +95,7 @@ angrenzenden Landes über diese Entscheidung zu unterrichten.
 
 
 ## § 3 Verfahren bei Anträgen zum Inverkehrbringen von Produkten im Geltungsbereich des Gentechnikgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000402310)
 
 (1) Wird die Erteilung der Genehmigung eines Inverkehrbringens
 beantragt, hat die zuständige Bundesoberbehörde unverzüglich nach
@@ -181,6 +185,7 @@ Wirtschaftsraum unverzüglich zu übermitteln.
 
 
 ## § 4 Verfahren bei Anträgen zum Inverkehrbringen von Produkten aus den Mitgliedstaaten der Europäischen Union oder den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000502310)
 
 Erhält die zuständige Bundesoberbehörde von der Kommission einen
 Bewertungsbericht nach § 3 Abs. 1 Satz 3 oder 4, Abs. 6a Satz 1 oder
@@ -195,6 +200,7 @@ Gentechnikgesetzes genannten Behörden zur Stellungnahme zuzuleiten.
 
 
 ## § 5 Verfahren bei der Anordnung des Ruhens der Genehmigung für ein Inverkehrbringen oder bei der einstweiligen Untersagung des Inverkehrbringens eines Produktes
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000602310)
 
 (1) Die zuständige Bundesoberbehörde unterrichtet unter Angabe von
 Gründen sowie unter Vorlage eines Bewertungsberichts und, falls
@@ -221,6 +227,7 @@ der Europäischen Union befristet war.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Die darin
 enthaltenen Regelungen über die Beteiligung der anderen
@@ -229,6 +236,7 @@ sind ab dem 1. Januar 1995 anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gentbetv/BJNR073400995.html#BJNR073400995BJNE000800000)
 
 Der Bundesrat hat zugestimmt
 

@@ -25,9 +25,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2129-27-2-5 v. 10.9.1996 I 1421 (EfbV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000200000)
 
 Diese Verordnung regelt die Anforderungen an Entsorgungsfachbetriebe
 nach § 56 Absatz 2 des Kreislaufwirtschaftsgesetzes sowie die
@@ -38,6 +40,7 @@ Kreislaufwirtschaftsgesetzes und durch Entsorgergemeinschaften nach §
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000300000)
 
 (1) Inhaber im Sinne dieser Verordnung ist diejenige natürliche oder
 juristische Person oder Personenvereinigung, die den
@@ -65,9 +68,11 @@ abfallwirtschaftlichen Tätigkeiten mitwirken.
 
 
 ## Abschnitt 2 - Anforderungen an die Organisation, die Ausstattung und die Tätigkeit eines Entsorgungsfachbetriebes
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000200000)
 
 
 ### § 3 Anforderungen an die Betriebsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000400000)
 
 (1) Die Organisation des Entsorgungsfachbetriebes ist so
 auszugestalten, dass die erforderliche Überwachung und Kontrolle der
@@ -121,6 +126,7 @@ in gleich geeigneter Weise durch Arbeitsanweisungen festzulegen.
 
 
 ### § 4 Anforderungen an die personelle, gerätetechnische und sonstige Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000500000)
 
 (1) Der Entsorgungsfachbetrieb hat für jeden zu zertifizierenden
 Standort mindestens eine für die Leitung und Beaufsichtigung des
@@ -152,6 +158,7 @@ abfallwirtschaftlichen Tätigkeit notwendig sind.
 
 
 ### § 5 Betriebstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000600000)
 
 (1) Zum Nachweis einer fach- und sachgerechten Durchführung der
 abfallwirtschaftlichen Tätigkeiten hat der Entsorgungsfachbetrieb für
@@ -211,6 +218,7 @@ Die Überprüfung ist zu dokumentieren.
 
 
 ### § 6 Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000700000)
 
 Der Entsorgungsfachbetrieb muss über einen für seine
 abfallwirtschaftlichen Tätigkeiten ausreichenden Versicherungsschutz
@@ -235,6 +243,7 @@ Der Versicherungsschutz muss Folgendes umfassen:
 
 
 ### § 7 Anforderungen an die Durchführung der abfallwirtschaftlichen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000800000)
 
 (1) Der Entsorgungsfachbetrieb hat die für seine abfallwirtschaftliche
 Tätigkeit geltenden öffentlich-rechtlichen Vorschriften zu beachten.
@@ -317,9 +326,11 @@ Tätigkeiten sicherzustellen. Dies setzt insbesondere voraus, dass
 
 
 ## Abschnitt 3 - Anforderungen an den Inhaber und die im Entsorgungsfachbetrieb beschäftigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000300000)
 
 
 ### § 8 Zuverlässigkeit des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE000900000)
 
 (1) Der Inhaber und die für die Leitung und Beaufsichtigung des
 Betriebes verantwortlichen Personen müssen zuverlässig sein. Die
@@ -412,6 +423,7 @@ werden.
 
 
 ### § 9 Fachkunde des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001000000)
 
 (1) Der Inhaber, soweit er für die Leitung und Beaufsichtigung des
 Betriebes verantwortlich ist, und die für die Leitung und
@@ -513,6 +525,7 @@ werden.
 
 
 ### § 10 Zuverlässigkeit und Sachkunde des sonstigen Personals
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001100000)
 
 (1) Das sonstige Personal muss zuverlässig sein. § 8 Absatz 1 Satz 2
 ist entsprechend anzuwenden.
@@ -530,9 +543,11 @@ Betriebes verantwortlichen Personen.
 
 
 ## Abschnitt 4 - Abschluss eines Überwachungsvertrages mit einer technischen Überwachungsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000400000)
 
 
 ### § 11 Überwachungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001200000)
 
 (1) Der Überwachungsvertrag nach § 56 Absatz 5 Satz 2 des
 Kreislaufwirtschaftsgesetzes bedarf der Schriftform. Er hat mindestens
@@ -651,6 +666,7 @@ Zustimmung zum Überwachungsvertrag vorzulegen.
 
 
 ### § 12 Zustimmung zum Überwachungsvertrag, Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001300000)
 
 (1) Die nach § 56 Absatz 5 Satz 3 des Kreislaufwirtschaftsgesetzes für
 die Zustimmung zum Überwachungsvertrag zuständige Behörde
@@ -717,9 +733,11 @@ sicherzustellen.
 
 
 ## Abschnitt 5 - Mitgliedschaft in einer Entsorgergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000500000)
 
 
 ### § 13 Satzung oder sonstige Regelung der Entsorgergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001400000)
 
 (1) Die Satzung oder sonstige Regelung der Entsorgergemeinschaft nach
 § 56 Absatz 6 Satz 3 des Kreislaufwirtschaftsgesetzes bedarf der
@@ -733,6 +751,7 @@ widersprechen.
 
 
 ### § 14 Überwachungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001500000)
 
 (1) Die Entsorgergemeinschaft hat einen Überwachungsausschuss zu
 bilden. Der Überwachungsausschuss hat die Aufgabe, die Überwachung von
@@ -783,6 +802,7 @@ Ort der Sitzung auf Verlangen mitzuteilen.
 
 
 ### § 15 Anforderungen an die Mitgliedschaft und Mitteilung der Aufnahme und des Austritts
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001600000)
 
 (1) Die Entsorgergemeinschaft darf einen Betrieb nur als Mitglied
 aufnehmen, wenn eine Vorprüfung ergibt, dass der Betrieb die Gewähr
@@ -812,6 +832,7 @@ Vorprüfung auch der Überwachungsbehörde zu übermitteln.
 
 
 ### § 16 Anerkennung der Entsorgergemeinschaft, Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001700000)
 
 (1) Die Anerkennung nach § 56 Absatz 6 Satz 2 des
 Kreislaufwirtschaftsgesetzes ist zu erteilen, wenn
@@ -875,9 +896,11 @@ genannten Anforderungen sicherzustellen.
 
 
 ## Abschnitt 6 - Anforderungen an Sachverständige und Kontrolle der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000600000)
 
 
 ### § 17 Zuverlässigkeit von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001800000)
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes
 erforderliche Zuverlässigkeit ist gegeben, wenn der Sachverständige
@@ -946,6 +969,7 @@ wenn die betroffene Person
 
 
 ### § 18 Unabhängigkeit von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE001900000)
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes
 erforderliche Unabhängigkeit ist gegeben, wenn der Sachverständige
@@ -1035,6 +1059,7 @@ wenn die betroffene Person
 
 
 ### § 19 Fach- und Sachkunde von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002002116)
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes
 erforderliche Fach- und Sachkunde ist gegeben, wenn der
@@ -1131,6 +1156,7 @@ seine Tätigkeit notwendigen aktuellen Wissensstand verfügen.
 
 
 ### § 20 Zulassung als Umweltgutachter oder Umweltgutachterorganisation
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002100000)
 
 (1) Die in den §§ 17 bis 19 genannten Anforderungen gelten als
 erfüllt, wenn
@@ -1169,6 +1195,7 @@ beschränkt, die unter diesen Unternehmensbereich fallen.
 
 
 ### § 21 Kontrolle der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002200000)
 
 (1) Die technische Überwachungsorganisation und die
 Entsorgergemeinschaft haben durch Kontrollen sicherzustellen, dass die
@@ -1205,9 +1232,11 @@ Umweltauditgesetzes besitzt.
 
 
 ## Abschnitt 7 - Anforderungen an die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000700000)
 
 
 ### § 22 Erstmalige und jährliche Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002300000)
 
 (1) Im Rahmen der erstmaligen und der jährlichen Überprüfung nach § 56
 Absatz 3 Satz 5 des Kreislaufwirtschaftsgesetzes wird geprüft, ob der
@@ -1262,6 +1291,7 @@ ein anderer Sachverständiger die Überprüfung des Betriebes durchführt.
 
 
 ### § 23 Überwachungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002400000)
 
 Der Sachverständige dokumentiert den Verlauf und das Ergebnis der
 Überprüfung gegenüber dem Betrieb schriftlich in einem
@@ -1270,9 +1300,11 @@ sich aus Anlage 2.
 
 
 ## Abschnitt 8 - Umfang der Zertifizierung und Gestaltung des Zertifikats
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000800000)
 
 
 ### § 24 Teilzertifizierung und Beschränkung des Zertifizierungsumfangs
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002500000)
 
 (1) Das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes
 kann für einen Teil des Betriebes nur erteilt werden, wenn
@@ -1314,15 +1346,18 @@ werden.
 
 
 ### § 25 Gestaltung des Zertifikats
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002600000)
 
 Das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes hat
 den Anforderungen des Vordrucks nach Anlage 3 zu entsprechen.
 
 
 ## Abschnitt 9 - Sonstige gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNG000900000)
 
 
 ### § 26 Entzug des Zertifikats und des Überwachungszeichens
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002700000)
 
 (1) In den Fällen des § 56 Absatz 8 Satz 1 des
 Kreislaufwirtschaftsgesetzes hat der Entzug des Zertifikats
@@ -1368,6 +1403,7 @@ wenn er die zertifizierte Tätigkeit auf Dauer einstellt.
 
 
 ### § 27 Pflicht zur Kündigung des Überwachungsvertrages oder der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002800000)
 
 Die technische Überwachungsorganisation hat den Überwachungsvertrag
 oder die Entsorgergemeinschaft die Mitgliedschaft zu kündigen, wenn
@@ -1396,6 +1432,7 @@ oder die Entsorgergemeinschaft die Mitgliedschaft zu kündigen, wenn
 
 
 ### § 28 Entsorgungsfachbetrieberegister
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE002901000)
 
 (1) Die technische Überwachungsorganisation hat der Zustimmungsbehörde
 und die Entsorgergemeinschaft hat der Anerkennungsbehörde elektronisch
@@ -1438,6 +1475,7 @@ Vereinbarung.
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003000000)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1472,6 +1510,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 30 Zugänglichkeit privater Regelwerke
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003100000)
 
 Die bezeichneten DIN-Normen können bei der Beuth Verlag GmbH, Berlin
 bezogen werden. Sie sind bei der Deutschen Nationalbibliothek
@@ -1479,6 +1518,7 @@ archivmäßig gesichert niedergelegt.
 
 
 ### § 31 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003200000)
 
 (1) Die behördliche Anerkennung eines Lehrgangs nach § 9 Absatz 2 Satz
 2 Nummer 3 und § 11 Satz 2 der Entsorgungsfachbetriebeverordnung vom
@@ -1509,6 +1549,7 @@ Vordrucks nach Anlage 3 entsprechen.
 2)
 
 ### Anlage 1 Lehrgangsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003302130)
 
 (Fundstelle: BGBl. I 2016, 2782 - 2783)
 
@@ -1679,6 +1720,7 @@ vermitteln:
 (zu § 23 Satz 2)
 
 ### Anlage 2 Mindestinhalt von Überwachungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003400000)
 
 (Fundstelle: BGBl. I 2016, 2784 - 2785)
 
@@ -1970,6 +2012,7 @@ vermitteln:
 (zu § 25)
 
 ### Anlage 3 Vordruck für das Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/efbv_2017/BJNR277010016.html#BJNR277010016BJNE003500000)
 
 (Fundstelle: BGBl. I 2016, 2786 - 2788)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nbek_1986/BJNR000870986.html#BJNR000870986BJNE000100327)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -34,11 +35,13 @@ S. 1252) wiedergegebenen Kennzeichens.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nbek_1986/BJNR000870986.html#BJNR000870986BJNE000900327)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nbek_1986/BJNR000870986.html#BJNR000870986BJNE000200327)
 
 (Inhalt: Nicht darstellbares Warenzeichen,
 Fundstelle: BGBl I 1986, 87)

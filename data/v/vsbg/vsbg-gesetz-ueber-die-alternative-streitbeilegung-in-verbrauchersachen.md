@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000100000)
 
 (1) Dieses Gesetz gilt für die außergerichtliche Beilegung von
 Streitigkeiten durch eine nach diesem Gesetz anerkannte private
@@ -43,6 +45,7 @@ tätig werden.
 
 
 ### § 2 Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000200000)
 
 (1) Verbraucherschlichtungsstelle ist eine Einrichtung, die
 
@@ -75,9 +78,11 @@ anerkannten Streitbeilegungsstellen aufgenommen worden ist.
 
 
 ## Abschnitt 2 - Private Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000200000)
 
 
 ### § 3 Träger der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000301125)
 
 Träger der Verbraucherschlichtungsstelle muss ein eingetragener Verein
 sein. Für den Betrieb der Verbraucherschlichtungsstelle muss ein vom
@@ -107,6 +112,7 @@ Haushalt zur Verfügung stehen, wenn der Träger
 
 
 ### § 4 Zuständigkeit von Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000401125)
 
 (1) Die Verbraucherschlichtungsstelle führt auf Antrag eines
 Verbrauchers Verfahren zur außergerichtlichen Beilegung von
@@ -181,6 +187,7 @@ niedergelassen sind.
 
 
 ### § 5 Verfahrensordnung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000500000)
 
 (1) Die Verbraucherschlichtungsstelle muss eine Verfahrensordnung
 haben. Die Verfahrensordnung bestimmt das Konfliktbeilegungsverfahren
@@ -193,6 +200,7 @@ ausschließen, die Gerichte anzurufen.
 
 
 ### § 6 Streitmittler
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000600000)
 
 (1) Die Verbraucherschlichtungsstelle ist mit mindestens einer Person
 zu besetzen, die mit der außergerichtlichen Streitbeilegung betraut
@@ -236,6 +244,7 @@ entgegen.
 
 
 ### § 7 Unabhängigkeit und Unparteilichkeit des Streitmittlers
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000700000)
 
 (1) Der Streitmittler ist unabhängig und an Weisungen nicht gebunden.
 Er muss Gewähr für eine unparteiische Streitbeilegung bieten.
@@ -264,6 +273,7 @@ anzuwenden.
 
 
 ### § 8 Amtsdauer und Abberufung des Streitmittlers
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000800000)
 
 (1) Der Streitmittler muss für eine angemessene Dauer bestellt werden.
 Die Amtsdauer soll drei Jahre nicht unterschreiten. Wiederbestellung
@@ -286,6 +296,7 @@ ist zulässig.
 
 
 ### § 9 Beteiligung von Verbraucherverbänden und Unternehmerverbänden
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE000902360)
 
 (1) Die Festlegung und die Änderung der Zuständigkeit der
 Verbraucherschlichtungsstelle, die Aufstellung und Änderung der
@@ -326,6 +337,7 @@ Verbraucherschlichtungsstelle fachlich eignen.
 
 
 ### § 10 Informationspflichten der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001000000)
 
 (1) Die Verbraucherschlichtungsstelle unterhält eine Webseite, auf der
 die Verfahrensordnung und klare und verständliche Informationen zur
@@ -339,9 +351,11 @@ Streitbeilegungsverfahrens veröffentlicht sind.
 
 
 ## Abschnitt 3 - Streitbeilegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000300000)
 
 
 ### § 11 Form von Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001100000)
 
 Der Antrag auf Durchführung eines Streitbeilegungsverfahrens,
 Stellungnahmen, Belege und sonstige Mitteilungen können der
@@ -349,6 +363,7 @@ Verbraucherschlichtungsstelle in Textform übermittelt werden.
 
 
 ### § 12 Verfahrenssprache
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001200000)
 
 (1) Verfahrenssprache ist Deutsch.
 
@@ -361,6 +376,7 @@ vereinbaren.
 
 
 ### § 13 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001300000)
 
 (1) Die Parteien können sich im Streitbeilegungsverfahren durch einen
 Rechtsanwalt oder durch eine andere Person, soweit diese zur
@@ -372,6 +388,7 @@ Streitbeilegungsverfahren vertreten zu lassen.
 
 
 ### § 14 Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001402360)
 
 (1) Der Streitmittler lehnt die Durchführung eines
 Streitbeilegungsverfahrens ab, wenn
@@ -482,6 +499,7 @@ Geltendmachung des streitigen Anspruchs fort.
 
 
 ### § 15 Beendigung des Verfahrens auf Wunsch der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001500000)
 
 (1) Das Streitbeilegungsverfahren endet, wenn der Antragsteller seinen
 Antrag zurücknimmt oder der weiteren Durchführung des Verfahrens
@@ -498,6 +516,7 @@ beschränkt werden.
 
 
 ### § 16 Unterrichtung der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001600000)
 
 (1) Die Verbraucherschlichtungsstelle muss den Antragsteller
 unverzüglich nach Eingang des Antrags auf Durchführung eines
@@ -548,6 +567,7 @@ Unterrichtungen verzichtet hat, kann abgesehen werden.
 
 
 ### § 17 Rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001700000)
 
 (1) Die Parteien erhalten rechtliches Gehör und können Tatsachen und
 Bewertungen vorbringen. Die Verbraucherschlichtungsstelle kann den
@@ -562,6 +582,7 @@ zustimmen.
 
 
 ### § 18 Mediation
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001800000)
 
 Führt der Streitmittler nach der Verfahrensordnung der
 Verbraucherschlichtungsstelle eine Mediation durch, so sind die
@@ -570,6 +591,7 @@ Mediationsgesetzes ergänzend anzuwenden.
 
 
 ### § 19 Schlichtungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE001900000)
 
 (1) Hat der Streitmittler nach der Verfahrensordnung den Parteien
 einen Vorschlag zur Beilegung der Streitigkeit (Schlichtungsvorschlag)
@@ -598,6 +620,7 @@ unterworfen hat.
 
 
 ### § 20 Verfahrensdauer
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002000000)
 
 (1) Die Verbraucherschlichtungsstelle benachrichtigt die Parteien,
 sobald sie keine weiteren Unterlagen und Informationen mehr benötigt
@@ -618,6 +641,7 @@ Frist.
 
 
 ### § 21 Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002100000)
 
 (1) Die Verbraucherschlichtungsstelle übermittelt den Parteien das
 Ergebnis des Streitbeilegungsverfahrens in Textform mit den
@@ -635,6 +659,7 @@ bezeichnen.
 
 
 ### § 22 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002200000)
 
 Der Streitmittler und die weiteren in die Durchführung des
 Streitbeilegungsverfahrens eingebundenen Personen sind zur
@@ -645,6 +670,7 @@ Mediationsgesetzes gilt entsprechend.
 
 
 ### § 23 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002300000)
 
 (1) Ist ein Unternehmer an dem Streitbeilegungsverfahren beteiligt, so
 kann von dem Verbraucher ein Entgelt nur erhoben werden, wenn der
@@ -670,9 +696,11 @@ verpflichtet ist, ein angemessenes Entgelt verlangen.
 
 
 ## Abschnitt 4 - Anerkennung privater Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000400000)
 
 
 ### § 24 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002400000)
 
 Die zuständige Behörde erkennt auf Antrag eine Einrichtung als
 Verbraucherschlichtungsstelle an, wenn die Einrichtung die
@@ -685,6 +713,7 @@ unberührt.
 
 
 ### § 25 Antrag auf Anerkennung und Mitteilung von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002500000)
 
 (1) Der Antrag auf Anerkennung als Verbraucherschlichtungsstelle ist
 zu begründen. Dem Antrag sind beizufügen:
@@ -711,6 +740,7 @@ paritätisch besetzten Gremiums an der Entscheidung mitgewirkt.
 
 
 ### § 26 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002601125)
 
 (1) Erfüllt die Verbraucherschlichtungsstelle die für ihre Anerkennung
 notwendigen Voraussetzungen nicht mehr oder verstößt sie bei ihrer
@@ -731,6 +761,7 @@ Verbraucherstreitbeilegungsgesetzes zu löschen.
 
 
 ### § 27 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002700000)
 
 (1) Zuständige Behörde ist, soweit nicht durch Bundesgesetz etwas
 anderes bestimmt ist, das Bundesamt für Justiz.
@@ -747,9 +778,11 @@ dieser anderen Behörde begründet.
 
 
 ## Abschnitt 5 - Behördliche Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000500000)
 
 
 ### § 28 Behördliche Verbraucherschlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002800000)
 
 Für behördliche Verbraucherschlichtungsstellen gelten die §§ 4 bis 7
 Absatz 1 und 3 bis 5, die §§ 8, 10 und 11 sowie 13 bis 22 sinngemäß. §
@@ -760,9 +793,11 @@ Rechtsvorschriften ergeben, bleiben unberührt.
 
 
 ## Abschnitt 6 - Universalschlichtungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000601125)
 
 
 ### § 29 Errichtung der Universalschlichtungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE002902125)
 
 (1) Der Bund errichtet eine ergänzende Verbraucherschlichtungsstelle
 (Universalschlichtungsstelle des Bundes).
@@ -799,6 +834,7 @@ nach Absatz 2 Satz 1 Nummer 2 beliehene Verbraucherschlichtungsstelle.
 
 
 ### § 30 Zuständigkeit und Verfahren der Universalschlichtungsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003002360)
 
 (1) Die Universalschlichtungsstelle des Bundes führt auf Antrag eines
 Verbrauchers Verfahren zur außergerichtlichen Beilegung folgender
@@ -914,6 +950,7 @@ Entgelt nach § 23 erhoben werden kann.
 
 
 ### § 31 Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003101125)
 
 (1) Die Universalschlichtungsstelle des Bundes nach § 29 Absatz 2 Satz
 1 Nummer 1 und 2 erhebt für die Durchführung des
@@ -934,9 +971,11 @@ als missbräuchlich anzusehen ist.
 
 
 ## Abschnitt 7 - Zentrale Anlaufstelle für Verbraucherschlichtung, Liste der Verbraucherschlichtungsstellen und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000700000)
 
 
 ### § 32 Zentrale Anlaufstelle für Verbraucherschlichtung und Mitteilungspflichten der zuständigen Behörden und Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003201125)
 
 (1) Das Bundesamt für Justiz ist zentrale Anlaufstelle für die
 Europäische Kommission (Zentrale Anlaufstelle für
@@ -979,6 +1018,7 @@ mitzuteilen.
 
 
 ### § 33 Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission und zur Europäischen Plattform zur Online-Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003300000)
 
 (1) Die Zentrale Anlaufstelle für Verbraucherschlichtung führt eine
 Liste der Verbraucherschlichtungsstellen. Diese Liste wird der
@@ -997,6 +1037,7 @@ Anfrage stellen sie diese Liste in Textform zur Verfügung.
 
 
 ### § 34 Berichtspflichten und Auskunftspflichten der Verbraucherschlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003402125)
 
 (1) Die Verbraucherschlichtungsstelle erstellt jährlich einen
 Tätigkeitsbericht. Sie veröffentlicht den Tätigkeitsbericht auf ihrer
@@ -1027,6 +1068,7 @@ Rahmen ihrer Zuständigkeit darum ersucht.
 
 
 ### § 35 Verbraucherschlichtungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003501125)
 
 (1) Die Zentrale Anlaufstelle für Verbraucherschlichtung
 veröffentlicht zum 9. Juli 2018 und danach alle vier Jahre einen
@@ -1042,9 +1084,11 @@ Evaluationsberichte.
 
 
 ## Abschnitt 8 - Informationspflichten des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000800000)
 
 
 ### § 36 Allgemeine Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003601000)
 
 (1) Ein Unternehmer, der eine Webseite unterhält oder Allgemeine
 Geschäftsbedingungen verwendet, hat den Verbraucher leicht zugänglich,
@@ -1085,6 +1129,7 @@ oder weniger Personen beschäftigt hat.
 
 
 ### § 37 Informationen nach Entstehen der Streitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003701000)
 
 (1) Der Unternehmer hat den Verbraucher auf eine für ihn zuständige
 Verbraucherschlichtungsstelle unter Angabe von deren Anschrift und
@@ -1101,9 +1146,11 @@ hat er diese Stelle oder diese Stellen anzugeben.
 
 
 ## Abschnitt 9 - Grenzübergreifende Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG000900000)
 
 
 ### § 38 Zusammenarbeit mit ausländischen Streitbeilegungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003800000)
 
 Die Verbraucherschlichtungsstelle arbeitet mit Streitbeilegungsstellen
 zusammen, die in Umsetzung der Richtlinie 2013/11/EU in einem anderen
@@ -1114,6 +1161,7 @@ zuständig sind.
 
 
 ### § 39 Zusammenarbeit mit der Europäischen Plattform zur Online-Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE003900000)
 
 Die Verbraucherschlichtungsstelle ist Stelle für alternative
 Streitbeilegung im Sinne der Verordnung (EU) Nr. 524/2013 des
@@ -1124,6 +1172,7 @@ Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur
 
 
 ### § 40 Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten; Kontaktstelle für die Europäische Plattform zur Online-Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE004002125)
 
 (1) Das Bundesamt für Justiz
 
@@ -1174,9 +1223,11 @@ bekannt.
 
 
 ## Abschnitt 10 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNG001000000)
 
 
 ### § 41 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE004100000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1198,6 +1249,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ### § 42 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE004203125)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -1268,6 +1320,7 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 
 ### § 43 Projektförderung, Forschungsvorhaben, Bericht
+[Direktlink](https://www.gesetze-im-internet.de/vsbg/BJNR025410016.html#BJNR025410016BJNE004301125)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz fördert
 bis zum 31. Dezember 2019 die Arbeit einer ausgewählten Allgemeinen

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/intbmesswvorrv/BJNR206730959.html#BJNR206730959BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/intbmesswvorrv/BJNR206730959.html#BJNR206730959BJNE000200314)
 
 (1) Die Bestimmungen der Artikel III §§ 4 bis 9, VI §§ 19 bis 23 und
 VII des Abkommens über die Vorrechte und Befreiungen der
@@ -54,6 +56,7 @@ a.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/intbmesswvorrv/BJNR206730959.html#BJNR206730959BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
@@ -66,11 +69,13 @@ vom 3. Juni 1957 auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/intbmesswvorrv/BJNR206730959.html#BJNR206730959BJNE000400314)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/intbmesswvorrv/BJNR206730959.html#BJNR206730959BJNE000500314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen zur Errichtung einer internationalen Organisation für

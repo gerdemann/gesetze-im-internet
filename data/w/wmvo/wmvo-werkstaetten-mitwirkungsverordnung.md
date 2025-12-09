@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004300000)
 
 Auf Grund des § 144 Abs. 2 des Neunten Buches Sozialgesetzbuch -
 Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des
@@ -29,10 +30,12 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Abschnitt 1 - Anwendungsbereich, Errichtung, Zusammensetzung und Aufgaben des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000103119)
 
 (1) Diese Verordnung gilt für die Mitbestimmung und die Mitwirkung der
 in § 221 Absatz 1 des Neunten Buches Sozialgesetzbuch genannten
@@ -46,6 +49,7 @@ gleichwertige Regelungen getroffen haben.
 
 
 ### § 2 Errichtung von Werkstatträten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000200000)
 
 (1) Ein Werkstattrat wird in Werkstätten gewählt.
 
@@ -54,6 +58,7 @@ Werkstatt.
 
 
 ### § 3 Zahl der Mitglieder des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000301119)
 
 (1) Der Werkstattrat besteht in Werkstätten mit in der Regel
 
@@ -82,6 +87,7 @@ Verhältnis vertreten sein.
 
 
 ### § 4 Allgemeine Aufgaben des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000401119)
 
 (1) Der Werkstattrat hat folgende allgemeine Aufgaben:
 
@@ -146,6 +152,7 @@ besteht.
 
 
 ### § 5 Mitwirkung und Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000501119)
 
 (1) Der Werkstattrat hat in folgenden Angelegenheiten ein
 Mitwirkungsrecht:
@@ -255,6 +262,7 @@ Angelegenheiten des Absatzes 1.
 
 
 ### § 6 Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000602311)
 
 (1) Die Vermittlungsstelle besteht aus einem oder einer
 unparteiischen, in Werkstattangelegenheiten erfahrenen Vorsitzenden,
@@ -286,6 +294,7 @@ Einigungsvorschlag, gilt die Entscheidung der Werkstatt.
 
 
 ### § 7 Unterrichtungsrechte des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000700000)
 
 (1) Der Werkstattrat ist in folgenden Angelegenheiten zu unterrichten:
 
@@ -312,6 +321,7 @@ der Werkstattbeschäftigten bleiben unberührt.
 
 
 ### § 8 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000802377)
 
 (1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige
 Mitarbeitervertretung, die Schwerbehindertenvertretung, die Vertretung
@@ -332,6 +342,7 @@ Beilegung von Meinungsverschiedenheiten zu machen.
 
 
 ### § 9 Werkstattversammlung
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE000900000)
 
 Der Werkstattrat führt mindestens einmal im Kalenderjahr eine
 Versammlung der Werkstattbeschäftigten durch. Die in der Werkstatt für
@@ -344,20 +355,24 @@ teilnehmen, einladen.
 
 
 ## Abschnitt 2 - Wahl des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Wahlberechtigung und Wählbarkeit; Zeitpunkt der Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000300000)
 
 
 
 #### § 10 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001000000)
 
 Wahlberechtigt sind alle Werkstattbeschäftigten, soweit sie keine
 Arbeitnehmer sind.
 
 
 #### § 11 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001100000)
 
 Wählbar sind alle Wahlberechtigten, die am Wahltag seit mindestens
 sechs Monaten in der Werkstatt beschäftigt sind. Zeiten des
@@ -366,6 +381,7 @@ Berufsbildungsbereich werden angerechnet.
 
 
 #### § 12 Zeitpunkt der Wahlen zum Werkstattrat
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001200000)
 
 (1) Die regelmäßigen Wahlen zum Werkstattrat finden alle vier Jahre in
 der Zeit vom 1. Oktober bis 30. November statt, erstmals im Jahre
@@ -398,10 +414,12 @@ regelmäßigen Wahlen neu zu wählen.
 
 
 ### Unterabschnitt 2 - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000400000)
 
 
 
 #### § 13 Bestellung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001301119)
 
 (1) Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der
 Werkstattrat einen Wahlvorstand aus drei Wahlberechtigten oder
@@ -417,6 +435,7 @@ können drei Wahlberechtigte einladen.
 
 
 #### § 14 Aufgaben des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001400000)
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Die
 Werkstatt hat dem Wahlvorstand auf dessen Wunsch aus den Angehörigen
@@ -449,6 +468,7 @@ notwendigen Unterlagen zur Verfügung.
 
 
 #### § 15 Erstellung der Liste der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001500000)
 
 Der Wahlvorstand stellt eine Liste der Wahlberechtigten auf. Die
 Wahlberechtigten sollen mit dem Familiennamen und dem Vornamen,
@@ -457,6 +477,7 @@ aufgeführt werden.
 
 
 #### § 16 Bekanntmachung der Liste der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001600000)
 
 Die Liste der Wahlberechtigten oder eine Abschrift ist unverzüglich
 nach Einleitung der Wahl bis zum Abschluss der Stimmabgabe an
@@ -464,6 +485,7 @@ geeigneter Stelle zur Einsicht auszulegen.
 
 
 #### § 17 Einspruch gegen die Liste der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001700000)
 
 (1) Wahlberechtigte und sonstige Beschäftigte, die ein berechtigtes
 Interesse an einer ordnungsgemäßen Wahl glaubhaft machen, können
@@ -488,6 +510,7 @@ werden.
 
 
 #### § 18 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001800000)
 
 (1) Spätestens sechs Wochen vor dem Wahltag erlässt der Wahlvorstand
 ein Wahlausschreiben, das von dem oder der Vorsitzenden und mindestens
@@ -554,6 +577,7 @@ Wahlberechtigten zugänglichen Stellen vom Wahlvorstand auszuhängen.
 
 
 #### § 19 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE001900000)
 
 Die Wahlberechtigten können innerhalb von zwei Wochen seit Erlass des
 Wahlausschreibens Vorschläge beim Wahlvorstand einreichen. Jeder
@@ -564,6 +588,7 @@ Zulassung zur Wahl.
 
 
 #### § 20 Bekanntmachung der Bewerber und Bewerberinnen
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002000000)
 
 Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss
 der Stimmabgabe macht der Wahlvorstand die Namen und Fotos oder
@@ -573,10 +598,12 @@ bekannt wie das Wahlausschreiben (§ 18 Abs. 2).
 
 
 ### Unterabschnitt 3 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000500000)
 
 
 
 #### § 21 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002101126)
 
 (1) Der Werkstattrat wird in geheimer und unmittelbarer Wahl nach den
 Grundsätzen der Mehrheitswahl gewählt.
@@ -614,6 +641,7 @@ Briefwahl durchgeführt wird.
 
 
 #### § 22 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002200000)
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen für die unbeobachtete
 Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die
@@ -654,6 +682,7 @@ durchgeführt wird.
 
 
 #### § 23 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002300000)
 
 (1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor und stellt das Ergebnis
@@ -672,6 +701,7 @@ enthalten.
 
 
 #### § 24 Benachrichtigung der Gewählten und Annahme der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002400000)
 
 (1) Der Wahlvorstand benachrichtigt die zum Werkstattrat Gewählten
 unverzüglich von ihrer Wahl. Erklärt eine gewählte Person nicht
@@ -683,6 +713,7 @@ Bewerber oder die Bewerberin mit der nächsthöchsten Stimmenzahl.
 
 
 #### § 25 Bekanntmachung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002500000)
 
 Sobald die Namen der Mitglieder des Werkstattrats endgültig
 feststehen, macht der Wahlvorstand sie durch zweiwöchigen Aushang in
@@ -691,6 +722,7 @@ teilt sie unverzüglich der Werkstatt mit.
 
 
 #### § 26 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002600000)
 
 Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen
 und Stimmzettel, werden vom Werkstattrat mindestens bis zum Ende der
@@ -698,6 +730,7 @@ Wahlperiode aufbewahrt.
 
 
 #### § 27 Wahlanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002700000)
 
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen
 wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das
@@ -712,6 +745,7 @@ zulässig.
 
 
 #### § 28 Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002800000)
 
 (1) Niemand darf die Wahl des Werkstattrats behindern. Insbesondere
 dürfen Werkstattbeschäftigte in der Ausübung des aktiven und passiven
@@ -730,10 +764,12 @@ Beschäftigung als Werkstattbeschäftigter gleich.
 
 
 ## Abschnitt 3 - Amtszeit des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000600000)
 
 
 
 ### § 29 Amtszeit des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE002900000)
 
 Die regelmäßige Amtszeit des Werkstattrats beträgt vier Jahre. Die
 Amtszeit beginnt mit der Bekanntgabe des Wahlergebnisses oder, wenn
@@ -748,6 +784,7 @@ gewählten Werkstattrats.
 
 
 ### § 30 Erlöschen der Mitgliedschaft im Werkstattrat; Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003000000)
 
 (1) Die Mitgliedschaft im Werkstattrat erlischt durch
 
@@ -776,10 +813,12 @@ Bei Stimmengleichheit entscheidet das Los.
 
 
 ## Abschnitt 4 - Geschäftsführung des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000700000)
 
 
 
 ### § 31 Vorsitz des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003100000)
 
 (1) Der Werkstattrat wählt aus seiner Mitte den Vorsitzenden oder die
 Vorsitzende und die ihn oder sie vertretende Person.
@@ -793,6 +832,7 @@ der Verhinderung die ihn oder sie vertretende Person berechtigt.
 
 
 ### § 32 Einberufung der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003201119)
 
 (1) Innerhalb einer Woche nach dem Wahltag beruft der Vorsitzende oder
 die Vorsitzende des Wahlvorstandes den neu gewählten Werkstattrat zu
@@ -814,6 +854,7 @@ eingeladen worden ist, teil.
 
 
 ### § 33 Sitzungen des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003301311)
 
 (1) Die Sitzungen des Werkstattrats finden in der Regel während der
 Beschäftigungszeit statt. Der Werkstattrat hat bei der Ansetzung der
@@ -859,6 +900,7 @@ Offenbarungs- und Verwertungsverbote gemäß § 37 Abs. 6 entsprechend.
 
 
 ### § 34 Beschlüsse des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003401311)
 
 (1) Die Beschlüsse des Werkstattrats werden mit der Mehrheit der
 Stimmen der anwesenden Mitglieder gefasst. Mitglieder des
@@ -872,6 +914,7 @@ durch Ersatzmitglieder ist zulässig.
 
 
 ### § 35 Sitzungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003501311)
 
 Über die Sitzungen des Werkstattrats ist eine Sitzungsniederschrift
 aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die
@@ -888,6 +931,7 @@ abschriftlich auszuhändigen.
 
 
 ### § 36 Geschäftsordnung des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003600000)
 
 Der Werkstattrat kann sich für seine Arbeit eine schriftliche
 Geschäftsordnung geben, in der weitere Bestimmungen über die
@@ -895,6 +939,7 @@ Geschäftsführung getroffen werden.
 
 
 ### § 37 Persönliche Rechte und Pflichten der Mitglieder des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003701119)
 
 (1) Die Mitglieder des Werkstattrats führen ihr Amt unentgeltlich als
 Ehrenamt.
@@ -948,6 +993,7 @@ Vermittlungsstelle.
 
 
 ### § 38 Sprechstunden
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003800000)
 
 (1) Der Werkstattrat kann während der Beschäftigungszeit Sprechstunden
 einrichten. Zeit und Ort sind mit der Werkstatt zu vereinbaren.
@@ -960,6 +1006,7 @@ Werkstattbeschäftigung gleich.
 
 
 ### § 39 Kosten und Sachaufwand des Werkstattrats
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE003903126)
 
 (1) Die durch die Tätigkeit des Werkstattrats entstehenden Kosten
 trägt die Werkstatt. Das Gleiche gilt für die Kosten, die durch die
@@ -1000,10 +1047,12 @@ Bundesanzeiger bekannt.
 
 
 ## Abschnitt 4a - Frauenbeauftragte und Stellvertreterinnen
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000801119)
 
 
 
 ### § 39a Aufgaben und Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004501126)
 
 (1) Die Frauenbeauftragte vertritt die Interessen der in der Werkstatt
 beschäftigten behinderten Frauen gegenüber der Werkstattleitung,
@@ -1064,6 +1113,7 @@ Bundesanzeiger bekannt.
 
 
 ### § 39b Wahlen und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004600119)
 
 (1) Die Wahlen der Frauenbeauftragten und der Stellvertreterinnen
 sollen zusammen mit den Wahlen zum Werkstattrat stattfinden.
@@ -1089,6 +1139,7 @@ erfolgreicher Wahlanfechtung.
 
 
 ### § 39c Vorzeitiges Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004700119)
 
 (1) Scheidet die Frauenbeauftragte vor dem Ablauf der Amtszeit aus dem
 Amt aus, wird die erste Stellvertreterin zur Frauenbeauftragten.
@@ -1114,10 +1165,12 @@ Zeitraum der regelmäßigen Wahlen neu zu wählen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNG000800000)
 
 
 
 ### § 40 Amtszeit der bestehenden Werkstatträte
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004000000)
 
 Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung
 bereits bestehenden Werkstatträte endet am Tag der Bekanntgabe des
@@ -1127,19 +1180,23 @@ November 2001. § 13 gilt entsprechend.
 
 
 ### § 40a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004801126)
 
 
 
 ### § 40b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004902126)
 
 
 
 ### § 41 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004100000)
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wmvo/BJNR129700001.html#BJNR129700001BJNE004400000)
 
 Der Bundesrat hat zugestimmt.
 

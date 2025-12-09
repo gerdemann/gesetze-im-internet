@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cskfinbek/BJNR002240992.html#BJNR002240992BJNE000100314)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
@@ -40,11 +41,13 @@ August 1991 (BGBl. I S. 1926).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cskfinbek/BJNR002240992.html#BJNR002240992BJNE000900314)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cskfinbek/BJNR002240992.html#BJNR002240992BJNE000200314)
 
 Amtliche Prüfzeichen der Tschechischen und Slowakischen Föderativen
 Republik ab 1991 für Meßgeräte
@@ -169,6 +172,7 @@ kennzeichnenden Nummer.
 
 
 ## Anlage 2 Nordisches Umweltzeichen als amtliches Prüf- und Gewährzeichen für Finnland
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cskfinbek/BJNR002240992.html#BJNR002240992BJNE000300314)
 
 Fundstelle: BGBl. I 1992, 226)
 ![bgbl1_1992_j0226_0010.jpg](bgbl1_1992_j0226_0010.jpg)

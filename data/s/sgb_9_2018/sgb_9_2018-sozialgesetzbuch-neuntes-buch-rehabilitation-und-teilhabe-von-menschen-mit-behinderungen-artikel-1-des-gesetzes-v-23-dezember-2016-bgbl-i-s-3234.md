@@ -21,12 +21,15 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000200000)
 
 
 #### § 1 Selbstbestimmung und Teilhabe am Leben in der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000200000)
 
 Menschen mit Behinderungen oder von Behinderung bedrohte Menschen
 erhalten Leistungen nach diesem Buch und den für die
@@ -41,6 +44,7 @@ Rechnung getragen.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000300000)
 
 (1) Menschen mit Behinderungen sind Menschen, die körperliche,
 seelische, geistige oder Sinnesbeeinträchtigungen haben, die sie in
@@ -68,6 +72,7 @@ Menschen).
 
 
 #### § 3 Vorrang von Prävention
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000400000)
 
 (1) Die Rehabilitationsträger und die Integrationsämter wirken bei der
 Aufklärung, Beratung, Auskunft und Ausführung von Leistungen im Sinne
@@ -90,6 +95,7 @@ Arbeitsuchende nach § 20a des Fünften Buches eng zusammen.
 
 
 #### § 4 Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000500000)
 
 (1) Die Leistungen zur Teilhabe umfassen die notwendigen
 Sozialleistungen, um unabhängig von der Ursache der Behinderung
@@ -139,6 +145,7 @@ unterstützen.
 
 
 #### § 5 Leistungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000600000)
 
 Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
@@ -161,6 +168,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 
 #### § 6 Rehabilitationsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000706126)
 
 (1) Träger der Leistungen zur Teilhabe (Rehabilitationsträger) können
 sein:
@@ -201,6 +209,7 @@ eigenverantwortlich wahr.
 
 
 #### § 7 Vorbehalt abweichender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000800000)
 
 (1) Die Vorschriften im Teil 1 gelten für die Leistungen zur Teilhabe,
 soweit sich aus den für den jeweiligen Rehabilitationsträger geltenden
@@ -217,6 +226,7 @@ Landesrecht nicht abgewichen werden.
 
 
 #### § 8 Wunsch- und Wahlrecht der Leistungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE000900000)
 
 (1) Bei der Entscheidung über die Leistungen und bei der Ausführung
 der Leistungen zur Teilhabe wird berechtigten Wünschen der
@@ -247,9 +257,11 @@ Leistungsberechtigten.
 
 
 ### Kapitel 2 - Einleitung der Rehabilitation von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000300000)
 
 
 #### § 9 Vorrangige Prüfung von Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001001126)
 
 (1) Werden bei einem Rehabilitationsträger Sozialleistungen wegen oder
 unter Berücksichtigung einer Behinderung oder einer drohenden
@@ -281,6 +293,7 @@ sollen.
 
 
 #### § 10 Sicherung der Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001100000)
 
 (1) Soweit es im Einzelfall geboten ist, prüft der zuständige
 Rehabilitationsträger gleichzeitig mit der Einleitung einer Leistung
@@ -315,6 +328,7 @@ Leistungsgesetzen hin. Absatz 4 Satz 2 gilt entsprechend.
 
 
 #### § 11 Förderung von Modellvorhaben zur Stärkung der Rehabilitation, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001201119)
 
 (1) Das Bundesministerium für Arbeit und Soziales fördert im Rahmen
 der für diesen Zweck zur Verfügung stehenden Haushaltsmittel im
@@ -351,9 +365,11 @@ Soziales kann Dritte mit diesen Untersuchungen beauftragen.
 
 
 ### Kapitel 3 - Erkennung und Ermittlung des Rehabilitationsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000400000)
 
 
 #### § 12 Maßnahmen zur Unterstützung der frühzeitigen Bedarfserkennung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001301126)
 
 (1) Die Rehabilitationsträger stellen durch geeignete Maßnahmen
 sicher, dass ein Rehabilitationsbedarf frühzeitig erkannt und auf eine
@@ -395,6 +411,7 @@ und vermitteln lassen.
 
 
 #### § 13 Instrumente zur Ermittlung des Rehabilitationsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001400000)
 
 (1) Zur einheitlichen und überprüfbaren Ermittlung des individuellen
 Rehabilitationsbedarfs verwenden die Rehabilitationsträger
@@ -439,9 +456,11 @@ in die Untersuchung nach Absatz 3 einbeziehen.
 
 
 ### Kapitel 4 - Koordinierung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000500000)
 
 
 #### § 14 Leistender Rehabilitationsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001500000)
 
 (1) Werden Leistungen zur Teilhabe beantragt, stellt der
 Rehabilitationsträger innerhalb von zwei Wochen nach Eingang des
@@ -497,6 +516,7 @@ Teilhabe bei einem Rehabilitationsträger beantragt werden.
 
 
 #### § 15 Leistungsverantwortung bei Mehrheit von Rehabilitationsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001600000)
 
 (1) Stellt der leistende Rehabilitationsträger fest, dass der Antrag
 neben den nach seinem Leistungsgesetz zu erbringenden Leistungen
@@ -557,6 +577,7 @@ unterrichtet.
 
 
 #### § 16 Erstattungsansprüche zwischen Rehabilitationsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001702126)
 
 (1) Hat ein leistender Rehabilitationsträger nach § 14 Absatz 2 Satz 4
 Leistungen erbracht, für die ein anderer Rehabilitationsträger
@@ -623,6 +644,7 @@ entsprechend.
 
 
 #### § 17 Begutachtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001800000)
 
 (1) Ist für die Feststellung des Rehabilitationsbedarfs ein Gutachten
 erforderlich, beauftragt der leistende Rehabilitationsträger
@@ -661,6 +683,7 @@ Kommunikationsbarrieren bestehen.
 
 
 #### § 18 Erstattung selbstbeschaffter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE001902126)
 
 (1) Kann über den Antrag auf Leistungen zur Teilhabe nicht innerhalb
 einer Frist von zwei Monaten ab Antragseingang bei dem leistenden
@@ -738,6 +761,7 @@ und 5 des Soldatenentschädigungsgesetzes erbringt.
 
 
 #### § 19 Teilhabeplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002002377)
 
 (1) Soweit Leistungen verschiedener Leistungsgruppen oder mehrerer
 Rehabilitationsträger erforderlich sind, ist der leistende
@@ -840,6 +864,7 @@ Sinne von Absatz 1.
 
 
 #### § 20 Teilhabeplankonferenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002101377)
 
 (1) Mit Zustimmung der Leistungsberechtigten kann der für die
 Durchführung des Teilhabeplanverfahrens nach § 19 verantwortliche
@@ -888,6 +913,7 @@ Frist zur Entscheidung über den Antrag nach § 15 Absatz 4.
 
 
 #### § 21 Besondere Anforderungen an das Teilhabeplanverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002204126)
 
 Ist der Träger der Eingliederungshilfe der für die Durchführung des
 Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten
@@ -907,6 +933,7 @@ Soldatenentschädigungsgesetz ergänzend.
 
 
 #### § 22 Einbeziehung anderer öffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002304377)
 
 (1) Der für die Durchführung des Teilhabeplanverfahrens
 verantwortliche Rehabilitationsträger bezieht unter Berücksichtigung
@@ -947,6 +974,7 @@ Leistungsberechtigten am Teilhabeplanverfahren beratend teilnehmen.
 
 
 #### § 23 Verantwortliche Stelle für den Sozialdatenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002401126)
 
 (1) Der für die Durchführung des Teilhabeplanverfahrens
 verantwortliche Rehabilitationsträger ist bei der Erstellung des
@@ -974,6 +1002,7 @@ Teilhabeplans unberührt.
 
 
 #### § 24 Vorläufige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002500000)
 
 Die Bestimmungen dieses Kapitels lassen die Verpflichtung der
 Rehabilitationsträger zur Erbringung vorläufiger Leistungen nach den
@@ -985,9 +1014,11 @@ anzuwenden.
 
 
 ### Kapitel 5 - Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000600000)
 
 
 #### § 25 Zusammenarbeit der Rehabilitationsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002600000)
 
 (1) Im Rahmen der durch Gesetz, Rechtsverordnung oder allgemeine
 Verwaltungsvorschrift getroffenen Regelungen sind die
@@ -1026,6 +1057,7 @@ Satz 1 und Absatz 2 des Zehnten Buches gilt entsprechend.
 
 
 #### § 26 Gemeinsame Empfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002700000)
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5
 vereinbaren zur Sicherung der Zusammenarbeit nach § 25 Absatz 1
@@ -1146,6 +1178,7 @@ Rehabilitationsträger konkretisiert werden.
 
 
 #### § 27 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002800000)
 
 Vereinbaren die Rehabilitationsträger nicht innerhalb von sechs
 Monaten, nachdem das Bundesministerium für Arbeit und Soziales sie
@@ -1164,12 +1197,15 @@ Bundesministerium für Gesundheit.
 
 
 ### Kapitel 6 - Leistungsformen, Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000700000)
 
 
 #### Abschnitt 1 - Leistungsformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000800000)
 
 
 ##### § 28 Ausführung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE002900000)
 
 (1) Der zuständige Rehabilitationsträger kann Leistungen zur Teilhabe
 
@@ -1199,6 +1235,7 @@ ermöglichen.
 
 
 ##### § 29 Persönliches Budget
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003002126)
 
 (1) Auf Antrag der Leistungsberechtigten werden Leistungen zur
 Teilhabe durch die Leistungsform eines Persönlichen Budgets
@@ -1285,6 +1322,7 @@ Persönlichen Budgets abgeschlossen.
 
 
 ##### § 30 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003100000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Gesundheit durch
@@ -1295,6 +1333,7 @@ regeln.
 
 
 ##### § 31 Leistungsort
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003200000)
 
 Sach- und Dienstleistungen können auch im Ausland erbracht werden,
 wenn sie dort bei zumindest gleicher Qualität und Wirksamkeit
@@ -1305,9 +1344,11 @@ selbständigen Tätigkeit erforderlich sind.
 
 
 #### Abschnitt 2 - Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG000900000)
 
 
 ##### § 32 Ergänzende unabhängige Teilhabeberatung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003302126)
 
 (1) Zur Stärkung der Selbstbestimmung von Menschen mit Behinderungen
 und von Behinderung bedrohter Menschen fördert das Bundesministerium
@@ -1349,6 +1390,7 @@ umzusetzen.
 
 
 ##### § 33 Pflichten der Personensorgeberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003400000)
 
 Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen
 anvertrauten Personen Beeinträchtigungen (§ 2 Absatz 1) wahrnehmen
@@ -1360,6 +1402,7 @@ Leistungen zur Teilhabe vorstellen.
 
 
 ##### § 34 Sicherung der Beratung von Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003500000)
 
 (1) Die Beratung durch Ärzte, denen eine Person nach § 33 vorgestellt
 wird, erstreckt sich auf geeignete Leistungen zur Teilhabe. Dabei
@@ -1383,6 +1426,7 @@ eine Beratungsstelle für Rehabilitation oder eine ärztliche Beratung
 
 
 ##### § 35 Landesärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003601119)
 
 (1) In den Ländern können Landesärzte bestellt werden, die über
 besondere Erfahrungen in der Hilfe für Menschen mit Behinderungen und
@@ -1414,9 +1458,11 @@ von Behinderung bedrohte Menschen verfügen.
 
 
 ### Kapitel 7 - Struktur, Qualitätssicherung, Gewaltschutz und Verträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001001377)
 
 
 #### § 36 Rehabilitationsdienste und -einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003700000)
 
 (1) Die Rehabilitationsträger wirken gemeinsam unter Beteiligung der
 Bundesregierung und der Landesregierungen darauf hin, dass die
@@ -1452,6 +1498,7 @@ Aufgabenstellung sollen Arbeitsgemeinschaften bilden.
 
 
 #### § 37 Qualitätssicherung, Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003800000)
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5
 vereinbaren gemeinsame Empfehlungen zur Sicherung und
@@ -1498,6 +1545,7 @@ Grund gesetzlicher Vorschriften für die Rehabilitationsträger.
 
 
 #### § 37a Gewaltschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024600377)
 
 (1) Die Leistungserbringer treffen geeignete Maßnahmen zum Schutz vor
 Gewalt für Menschen mit Behinderungen und von Behinderung bedrohte
@@ -1514,6 +1562,7 @@ wird.
 
 
 #### § 38 Verträge mit Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE003900000)
 
 (1) Verträge mit Leistungserbringern müssen insbesondere folgende
 Regelungen über die Ausführung von Leistungen durch
@@ -1573,9 +1622,11 @@ Rehabilitationsträger entsprechend angewendet.
 
 
 ### Kapitel 8 - Bundesarbeitsgemeinschaft für Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001100000)
 
 
 #### § 39 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004000000)
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5
 gestalten und organisieren die trägerübergreifende Zusammenarbeit zur
@@ -1650,12 +1701,14 @@ insbesondere
 
 
 #### § 40 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004100000)
 
 Die Bundesarbeitsgemeinschaft für Rehabilitation untersteht der
 Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales.
 
 
 #### § 41 Teilhabeverfahrensbericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004200000)
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 erfassen
 
@@ -1773,9 +1826,11 @@ Rehabilitation die notwendigen Aufwendungen für folgende Tätigkeiten:
 
 
 ### Kapitel 9 - Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001200000)
 
 
 #### § 42 Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004301377)
 
 (1) Zur medizinischen Rehabilitation von Menschen mit Behinderungen
 und von Behinderung bedrohter Menschen werden die erforderlichen
@@ -1864,12 +1919,14 @@ erreichen. Solche Leistungen sind insbesondere
 
 
 #### § 43 Krankenbehandlung und Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004400000)
 
 Die in § 42 Absatz 1 genannten Ziele und § 12 Absatz 1 und 3 sowie §
 19 gelten auch bei Leistungen der Krankenbehandlung.
 
 
 #### § 44 Stufenweise Wiedereingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004500000)
 
 Können arbeitsunfähige Leistungsberechtigte nach ärztlicher
 Feststellung ihre bisherige Tätigkeit teilweise ausüben und können sie
@@ -1880,6 +1937,7 @@ Zielrichtung erbracht werden.
 
 
 #### § 45 Förderung der Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004600000)
 
 Selbsthilfegruppen, Selbsthilfeorganisationen und
 Selbsthilfekontaktstellen, die sich die Prävention, Rehabilitation,
@@ -1891,6 +1949,7 @@ Bundesarbeitsgemeinschaft für Rehabilitation nach § 41 ein.
 
 
 #### § 46 Früherkennung und Frühförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004700000)
 
 (1) Die medizinischen Leistungen zur Früherkennung und Frühförderung
 für Kinder mit Behinderungen und von Behinderung bedrohte Kinder nach
@@ -1978,6 +2037,7 @@ Rechtsverordnung entsprechend Absatz 4 Nummer 1 bis 3 treffen.
 
 
 #### § 47 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004800000)
 
 (1) Hilfsmittel (Körperersatzstücke sowie orthopädische und andere
 Hilfsmittel) nach § 42 Absatz 2 Nummer 6 umfassen die Hilfen, die von
@@ -2023,6 +2083,7 @@ Fall gelten die Absätze 2 und 3 entsprechend.
 
 
 #### § 47a Digitale Gesundheitsanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024700377)
 
 (1) Digitale Gesundheitsanwendungen nach § 42 Absatz 2 Nummer 6a
 umfassen die in das Verzeichnis nach § 139e Absatz 1 des Fünften
@@ -2054,6 +2115,7 @@ Mehrkosten selbst zu tragen.
 
 
 #### § 48 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE004900000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Gesundheit durch
@@ -2073,9 +2135,11 @@ Rechtsverordnung mit Zustimmung des Bundesrates Näheres zu regeln
 
 
 ### Kapitel 10 - Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001300000)
 
 
 #### § 49 Leistungen zur Teilhabe am Arbeitsleben, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005002126)
 
 (1) Zur Teilhabe am Arbeitsleben werden die erforderlichen Leistungen
 erbracht, um die Erwerbsfähigkeit von Menschen mit Behinderungen oder
@@ -2256,6 +2320,7 @@ Leistungen der Kraftfahrzeughilfe zur Teilhabe am Arbeitsleben regeln.
 
 
 #### § 50 Leistungen an Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005100000)
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 2 bis 5 können
 Leistungen zur Teilhabe am Arbeitsleben auch an Arbeitgeber erbringen,
@@ -2329,6 +2394,7 @@ geförderte Nachbeschäftigungszeiten werden anteilig berücksichtigt.
 
 
 #### § 51 Einrichtungen der beruflichen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005200000)
 
 (1) Leistungen werden durch Berufsbildungswerke, Berufsförderungswerke
 und vergleichbare Einrichtungen der beruflichen Rehabilitation
@@ -2370,6 +2436,7 @@ der auszubildenden Jugendlichen mit Behinderungen.
 
 
 #### § 52 Rechtsstellung der Teilnehmenden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005300000)
 
 Werden Leistungen in Einrichtungen der beruflichen Rehabilitation
 ausgeführt, werden die Teilnehmenden nicht in den Betrieb der
@@ -2383,6 +2450,7 @@ die Gleichberechtigung von Männern und Frauen entsprechend angewendet.
 
 
 #### § 53 Dauer von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005400000)
 
 (1) Leistungen werden für die Zeit erbracht, die vorgeschrieben oder
 allgemein üblich ist, um das angestrebte Teilhabeziel zu erreichen.
@@ -2402,6 +2470,7 @@ Drittel der üblichen Ausbildungszeit dauern.
 
 
 #### § 54 Beteiligung der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005500000)
 
 Die Bundesagentur für Arbeit nimmt auf Anforderung eines anderen
 Rehabilitationsträgers gutachterlich Stellung zu Notwendigkeit, Art
@@ -2412,6 +2481,7 @@ medizinisch-beruflichen Rehabilitation aufhalten.
 
 
 #### § 55 Unterstützte Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005600000)
 
 (1) Ziel der Unterstützten Beschäftigung ist es, Leistungsberechtigten
 mit besonderem Unterstützungsbedarf eine angemessene, geeignete und
@@ -2491,6 +2561,7 @@ Absatz 4, 6 und 7 sowie § 27 gelten entsprechend.
 
 
 #### § 56 Leistungen in Werkstätten für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005700000)
 
 Leistungen in anerkannten Werkstätten für behinderte Menschen (§ 219)
 werden erbracht, um die Leistungs- oder Erwerbsfähigkeit der Menschen
@@ -2501,6 +2572,7 @@ sichern.
 
 
 #### § 57 Leistungen im Eingangsverfahren und im Berufsbildungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005800000)
 
 (1) Leistungen im Eingangsverfahren und im Berufsbildungsbereich einer
 anerkannten Werkstatt für behinderte Menschen erhalten Menschen mit
@@ -2546,6 +2618,7 @@ Berufsbildungsbereichs insgesamt nicht mehr als 36 Monate betragen.
 
 
 #### § 58 Leistungen im Arbeitsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE005900000)
 
 (1) Leistungen im Arbeitsbereich einer anerkannten Werkstatt für
 behinderte Menschen erhalten Menschen mit Behinderungen, bei denen
@@ -2623,6 +2696,7 @@ Minderung der Vergütungen nach Absatz 3 verwendet werden.
 
 
 #### § 59 Arbeitsförderungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006000000)
 
 (1) Die Werkstätten für behinderte Menschen erhalten von dem
 zuständigen Rehabilitationsträger zur Auszahlung an die im
@@ -2641,6 +2715,7 @@ unberücksichtigt.
 
 
 #### § 60 Andere Leistungsanbieter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006102126)
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach den
 §§ 57 und 58 haben, können diese auch bei einem anderen
@@ -2697,6 +2772,7 @@ und dem Menschen mit Behinderungen gilt § 221 entsprechend.
 
 
 #### § 61 Budget für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006201126)
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 58
 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein
@@ -2729,6 +2805,7 @@ ermöglichen, besteht nicht.
 
 
 #### § 61a Budget für Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024502126)
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 57
 oder § 58 haben und denen von einem privaten oder öffentlichen
@@ -2784,6 +2861,7 @@ beruflichen Rehabilitation.
 
 
 #### § 62 Wahlrecht des Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006300000)
 
 (1) Auf Wunsch des Menschen mit Behinderungen werden die Leistungen
 nach den §§ 57 und 58 von einer nach § 225 anerkannten Werkstatt für
@@ -2798,6 +2876,7 @@ Zustimmung des unmittelbar verantwortlichen Leistungsanbieters.
 
 
 #### § 63 Zuständigkeit nach den Leistungsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006405126)
 
 (1) Die Leistungen im Eingangsverfahren und im Berufsbildungsbereich
 einer anerkannten Werkstatt für behinderte Menschen erbringen
@@ -2860,9 +2939,11 @@ nach § 57 haben, sowie für die Leistung des Budgets für Arbeit.
 
 
 ### Kapitel 11 - Unterhaltssichernde und andere ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001400000)
 
 
 #### § 64 Ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006502126)
 
 (1) Die Leistungen zur medizinischen Rehabilitation und zur Teilhabe
 am Arbeitsleben der in § 6 Absatz 1 Nummer 1 bis 5 genannten
@@ -2930,6 +3011,7 @@ Der Zuschuss wird nach § 174 Absatz 2 des Dritten Buches berechnet.
 
 
 #### § 65 Leistungen zum Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006602126)
 
 (1) Im Zusammenhang mit Leistungen zur medizinischen Rehabilitation
 leisten
@@ -3021,6 +3103,7 @@ angesetzt.
 
 
 #### § 66 Höhe und Berechnung des Übergangsgelds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006703126)
 
 (1) Der Berechnung des Übergangsgelds werden 80 Prozent des erzielten
 regelmäßigen Arbeitsentgelts und Arbeitseinkommens, soweit es der
@@ -3078,6 +3161,7 @@ Arbeitsentgelt nach § 67 Absatz 1 Satz 1 bis 5 ergibt, nicht
 
 
 #### § 67 Berechnung des Regelentgelts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006802126)
 
 (1) Für die Berechnung des Regelentgelts wird das von den
 Leistungsempfängern im letzten vor Beginn der Leistung oder einer
@@ -3135,6 +3219,7 @@ Ansässigkeitsstaats der Steuer unterliegt.
 
 
 #### § 68 Berechnungsgrundlage in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE006902126)
 
 (1) Für die Berechnung des Übergangsgeldes während des Bezuges von
 Leistungen zur Teilhabe am Arbeitsleben werden 65 Prozent eines
@@ -3191,6 +3276,7 @@ Kalendermonat vor dem Beginn der Leistung gilt.
 
 
 #### § 69 Kontinuität der Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007002126)
 
 Haben Leistungsempfänger Krankengeld, Verletztengeld, Krankengeld der
 Sozialen Entschädigung, Krankengeld der Soldatenentschädigung oder
@@ -3203,6 +3289,7 @@ Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
 
 
 #### § 70 Anpassung der Entgeltersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007102126)
 
 (1) Die Berechnungsgrundlage, die dem Krankengeld, dem Krankengeld der
 Sozialen Entschädigung, dem Krankengeld der Soldatenentschädigung, dem
@@ -3228,6 +3315,7 @@ zwölf Monate maßgebend ist, im Bundesanzeiger bekannt.
 
 
 #### § 71 Weiterzahlung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007203126)
 
 (1) Sind nach Abschluss von Leistungen zur medizinischen
 Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben
@@ -3292,6 +3380,7 @@ Wiedereingliederung weitergezahlt.
 
 
 #### § 72 Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007300000)
 
 (1) Auf das Übergangsgeld der Rehabilitationsträger nach § 6 Absatz 1
 Nummer 2, 4 und 5 wird Folgendes angerechnet:
@@ -3352,6 +3441,7 @@ insoweit mit Zahlung des Übergangsgeldes auf den Rehabilitationsträger
 
 
 #### § 73 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007400000)
 
 (1) Als Reisekosten werden die erforderlichen Fahr-, Verpflegungs- und
 Übernachtungskosten übernommen, die im Zusammenhang mit der Ausführung
@@ -3402,6 +3492,7 @@ zu leisten wäre.
 
 
 #### § 74 Haushalts- oder Betriebshilfe und Kinderbetreuungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007500000)
 
 (1) Haushaltshilfe wird geleistet, wenn
 
@@ -3449,9 +3540,11 @@ mitarbeitenden Ehegatten nach den §§ 54 und 55 des Siebten Buches.
 
 
 ### Kapitel 12 - Leistungen zur Teilhabe an Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001500000)
 
 
 #### § 75 Leistungen zur Teilhabe an Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007600000)
 
 (1) Zur Teilhabe an Bildung werden unterstützende Leistungen erbracht,
 die erforderlich sind, damit Menschen mit Behinderungen
@@ -3480,9 +3573,11 @@ zur Teilhabe am Leben in der Gemeinschaft.
 
 
 ### Kapitel 13 - Soziale Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001600000)
 
 
 #### § 76 Leistungen zur Sozialen Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007700000)
 
 (1) Leistungen zur Sozialen Teilhabe werden erbracht, um eine
 gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen
@@ -3524,6 +3619,7 @@ Feststellungen nach den Kapiteln 3 und 4.
 
 
 #### § 77 Leistungen für Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007800000)
 
 (1) Leistungen für Wohnraum werden erbracht, um Leistungsberechtigten
 zu Wohnraum zu verhelfen, der zur Führung eines möglichst
@@ -3538,6 +3634,7 @@ von Assistenzleistungen ein gesteigerter Wohnraumbedarf besteht.
 
 
 #### § 78 Assistenzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE007900000)
 
 (1) Zur selbstbestimmten und eigenständigen Bewältigung des Alltages
 einschließlich der Tagesstrukturierung werden Leistungen für Assistenz
@@ -3590,6 +3687,7 @@ Besonderheiten des Einzelfalles erforderlich ist.
 
 
 #### § 79 Heilpädagogische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008000000)
 
 (1) Heilpädagogische Leistungen werden an noch nicht eingeschulte
 Kinder erbracht, wenn nach fachlicher Erkenntnis zu erwarten ist, dass
@@ -3624,6 +3722,7 @@ ebenfalls als Komplexleistung erbracht.
 
 
 #### § 80 Leistungen zur Betreuung in einer Pflegefamilie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008100000)
 
 Leistungen zur Betreuung in einer Pflegefamilie werden erbracht, um
 Leistungsberechtigten die Betreuung in einer anderen Familie als der
@@ -3635,6 +3734,7 @@ Regelungen über Verträge mit Leistungserbringern bleiben unberührt.
 
 
 #### § 81 Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008200000)
 
 Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und
 Fähigkeiten werden erbracht, um Leistungsberechtigten die für sie
@@ -3650,6 +3750,7 @@ Grundausbildung.
 
 
 #### § 82 Leistungen zur Förderung der Verständigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008300000)
 
 Leistungen zur Förderung der Verständigung werden erbracht, um
 Leistungsberechtigten mit Hör- und Sprachbehinderungen die
@@ -3660,6 +3761,7 @@ Gebärdensprachdolmetscher und andere geeignete Kommunikationshilfen. §
 
 
 #### § 83 Leistungen zur Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008400000)
 
 (1) Leistungen zur Mobilität umfassen
 
@@ -3708,6 +3810,7 @@ sowie Leistungen nach Absatz 3 Nummer 2.
 
 
 #### § 84 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008500000)
 
 (1) Die Leistungen umfassen Hilfsmittel, die erforderlich sind, um
 eine durch die Behinderung bestehende Einschränkung einer
@@ -3723,9 +3826,11 @@ eine Doppelausstattung erbracht.
 
 
 ### Kapitel 14 - Beteiligung der Verbände und Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001700000)
 
 
 #### § 85 Klagerecht der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008600000)
 
 Werden Menschen mit Behinderungen in ihren Rechten nach diesem Buch
 verletzt, können an ihrer Stelle und mit ihrem Einverständnis Verbände
@@ -3737,6 +3842,7 @@ vorliegen.
 
 
 #### § 86 Beirat für die Teilhabe von Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008700000)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Beirat für
 die Teilhabe von Menschen mit Behinderungen gebildet, der das
@@ -3838,6 +3944,7 @@ Für jedes Mitglied ist ein stellvertretendes Mitglied zu berufen.
 
 
 #### § 87 Verfahren des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008800000)
 
 Der Beirat für die Teilhabe von Menschen mit Behinderungen wählt aus
 den ihm angehörenden Mitgliedern von Seiten der Arbeitnehmer,
@@ -3848,6 +3955,7 @@ entsprechend.
 
 
 #### § 88 Berichte über die Lage von Menschen mit Behinderungen und die Entwicklung ihrer Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE008900000)
 
 (1) Die Bundesregierung berichtet den gesetzgebenden Körperschaften
 des Bundes einmal in der Legislaturperiode, mindestens jedoch alle
@@ -3866,6 +3974,7 @@ Weiterentwicklung des Berichtskonzeptes beteiligt.
 
 
 #### § 89 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009000000)
 
 Das Bundesministerium für Arbeit und Soziales kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates weitere Vorschriften
@@ -3874,12 +3983,15 @@ erlassen.
 
 
 ## Teil 2 - Besondere Leistungen zur selbstbestimmten Lebensführung für Menschen mit Behinderungen (Eingliederungshilferecht)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001800000)
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG001900000)
 
 
 #### § 90 Aufgabe der Eingliederungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009101000)
 
 (1) Aufgabe der Eingliederungshilfe ist es, Leistungsberechtigten eine
 individuelle Lebensführung zu ermöglichen, die der Würde des Menschen
@@ -3912,6 +4024,7 @@ oder zu erleichtern.
 
 
 #### § 91 Nachrang der Eingliederungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009200000)
 
 (1) Eingliederungshilfe erhält, wer die erforderliche Leistung nicht
 von anderen oder von Trägern anderer Sozialleistungen erhält.
@@ -3930,12 +4043,14 @@ des Elften Buches.
 
 
 #### § 92 Beitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009300000)
 
 Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des
 Kapitels 9 ein Beitrag aufzubringen.
 
 
 #### § 93 Verhältnis zu anderen Rechtsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009401377)
 
 (1) Die Vorschriften über die Leistungen zur Sicherung des
 Lebensunterhalts nach dem Zweiten Buch sowie über die Hilfe zum
@@ -3954,6 +4069,7 @@ mit Absatz 2 geeignet sind.
 
 
 #### § 94 Aufgaben der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009502377)
 
 (1) Die Länder bestimmen die für die Durchführung dieses Teils
 zuständigen Träger der Eingliederungshilfe.
@@ -4014,6 +4130,7 @@ zusammengeführt werden.
 
 
 #### § 95 Sicherstellungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009601000)
 
 Die Träger der Eingliederungshilfe haben im Rahmen ihrer
 Leistungsverpflichtung eine personenzentrierte Leistung für
@@ -4026,6 +4143,7 @@ Kapitel 7 zu berücksichtigen.
 
 
 #### § 96 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009701126)
 
 (1) Die Träger der Eingliederungshilfe arbeiten mit Leistungsanbietern
 und anderen Stellen, deren Aufgabe die Lebenssituation von Menschen
@@ -4047,6 +4165,7 @@ angeordnet oder erlaubt ist.
 
 
 #### § 97 Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009801377)
 
 Bei der Durchführung der Aufgaben dieses Teils beschäftigen die Träger
 der Eingliederungshilfe eine dem Bedarf entsprechende Anzahl an
@@ -4086,6 +4205,7 @@ Aufgaben nach den §§ 106 und 117 umfasst, ist zu gewährleisten.
 
 
 #### § 98 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE009901126)
 
 (1) Für die Eingliederungshilfe örtlich zuständig ist der Träger der
 Eingliederungshilfe, in dessen Bereich die leistungsberechtigte Person
@@ -4139,9 +4259,11 @@ gilt entsprechend. Im Übrigen bleiben die Absätze 2 bis 4 unberührt.
 
 
 ### Kapitel 2 - Grundsätze der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002001000)
 
 
 #### § 99 Leistungsberechtigung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010003377)
 
 (1) Leistungen der Eingliederungshilfe erhalten Menschen mit
 Behinderungen im Sinne von § 2 Absatz 1 Satz 1 und 2, die wesentlich
@@ -4170,6 +4292,7 @@ Inkrafttreten einer nach Satz 1 erlassenen Rechtsverordnung gelten die
 
 
 #### § 100 Eingliederungshilfe für Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010100000)
 
 (1) Ausländer, die sich im Inland tatsächlich aufhalten, können
 Leistungen nach diesem Teil erhalten, soweit dies im Einzelfall
@@ -4189,6 +4312,7 @@ Eingliederungshilfe.
 
 
 #### § 101 Eingliederungshilfe für Deutsche im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010201377)
 
 (1) Deutsche, die ihren gewöhnlichen Aufenthalt im Ausland haben,
 erhalten keine Leistungen der Eingliederungshilfe. Hiervon kann im
@@ -4234,6 +4358,7 @@ Dienststellen im Ausland zusammen.
 
 
 #### § 102 Leistungen der Eingliederungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010300000)
 
 (1) Die Leistungen der Eingliederungshilfe umfassen
 
@@ -4256,6 +4381,7 @@ Absatz 1 Nummer 4 vor.
 
 
 #### § 103 Regelung für Menschen mit Behinderungen und Pflegebedarf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010401126)
 
 (1) Werden Leistungen der Eingliederungshilfe in Einrichtungen oder
 Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit
@@ -4289,6 +4415,7 @@ erbrachten Leistungen der häuslichen Pflege zu erstatten hat.
 
 
 #### § 104 Leistungen nach der Besonderheit des Einzelfalles
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010500000)
 
 (1) Die Leistungen der Eingliederungshilfe bestimmen sich nach der
 Besonderheit des Einzelfalles, insbesondere nach der Art des Bedarfes,
@@ -4340,6 +4467,7 @@ Mehraufwendungen entstehen.
 
 
 #### § 105 Leistungsformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010600000)
 
 (1) Die Leistungen der Eingliederungshilfe werden als Sach-, Geld-
 oder Dienstleistung erbracht.
@@ -4360,6 +4488,7 @@ Persönlichen Budget nach § 29 ist insoweit anzuwenden.
 
 
 #### § 106 Beratung und Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010700000)
 
 (1) Zur Erfüllung der Aufgaben dieses Teils werden die
 Leistungsberechtigten, auf ihren Wunsch auch im Beisein einer Person
@@ -4441,6 +4570,7 @@ Angehörigen der rechtsberatenden Berufe und von sonstigen Stellen.
 
 
 #### § 107 Übertragung, Verpfändung oder Pfändung, Auswahlermessen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010800000)
 
 (1) Der Anspruch auf Leistungen der Eingliederungshilfe kann nicht
 übertragen, verpfändet oder gepfändet werden.
@@ -4450,6 +4580,7 @@ Ermessen zu entscheiden, soweit das Ermessen nicht ausgeschlossen ist.
 
 
 #### § 108 Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE010900000)
 
 (1) Die Leistungen der Eingliederungshilfe nach diesem Teil werden auf
 Antrag erbracht. Die Leistungen werden frühestens ab dem Ersten des
@@ -4461,9 +4592,11 @@ Verfahren nach Kapitel 7 ermittelt worden ist.
 
 
 ### Kapitel 3 - Medizinische Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002101000)
 
 
 #### § 109 Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011001000)
 
 (1) Leistungen zur medizinischen Rehabilitation sind insbesondere die
 in § 42 Absatz 2 und 3 und § 64 Absatz 1 Nummer 3 bis 6 genannten
@@ -4474,6 +4607,7 @@ Rehabilitationsleistungen der gesetzlichen Krankenversicherung.
 
 
 #### § 110 Leistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011100000)
 
 (1) Leistungsberechtigte haben entsprechend den Bestimmungen der
 gesetzlichen Krankenversicherung die freie Wahl unter den Ärzten und
@@ -4498,9 +4632,11 @@ Eingliederungshilfe entsprechend.
 
 
 ### Kapitel 4 - Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002201000)
 
 
 #### § 111 Leistungen zur Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011202377)
 
 (1) Leistungen zur Beschäftigung umfassen
 
@@ -4536,9 +4672,11 @@ Arbeitsförderungsgeld nach § 59.
 
 
 ### Kapitel 5 - Teilhabe an Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002301000)
 
 
 #### § 112 Leistungen zur Teilhabe an Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011301000)
 
 (1) Leistungen zur Teilhabe an Bildung umfassen
 
@@ -4625,9 +4763,11 @@ auf Wunsch der Leistungsberechtigten gemeinsam zu erbringen.
 
 
 ### Kapitel 6 - Soziale Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002401000)
 
 
 #### § 113 Leistungen zur Sozialen Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011403126)
 
 (1) Leistungen zur Sozialen Teilhabe werden erbracht, um eine
 gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen
@@ -4717,6 +4857,7 @@ Sozialleistungssystem der Eingliederungshilfe untersucht werden.
 
 
 #### § 114 Leistungen zur Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011500000)
 
 Bei den Leistungen zur Mobilität nach § 113 Absatz 2 Nummer 7 gilt §
 83 mit der Maßgabe, dass
@@ -4734,6 +4875,7 @@ Bei den Leistungen zur Mobilität nach § 113 Absatz 2 Nummer 7 gilt §
 
 
 #### § 115 Besuchsbeihilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011601126)
 
 Werden Leistungen bei einem oder mehreren Anbietern über Tag und Nacht
 erbracht, können den Leistungsberechtigten oder ihren Angehörigen zum
@@ -4742,6 +4884,7 @@ Einzelfall erforderlich ist.
 
 
 #### § 116 Pauschale Geldleistung, gemeinsame Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011700000)
 
 (1) Die Leistungen
 
@@ -4801,9 +4944,11 @@ erreicht werden können.
 
 
 ### Kapitel 7 - Gesamtplanung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002501000)
 
 
 #### § 117 Gesamtplanverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011804377)
 
 (1) Das Gesamtplanverfahren ist nach folgenden Maßstäben
 durchzuführen:
@@ -4895,6 +5040,7 @@ würde.
 
 
 #### § 118 Instrumente der Bedarfsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE011900000)
 
 (1) Der Träger der Eingliederungshilfe hat die Leistungen nach den
 Kapiteln 3 bis 6 unter Berücksichtigung der Wünsche des
@@ -4939,6 +5085,7 @@ das Nähere über das Instrument zur Bedarfsermittlung zu bestimmen.
 
 
 #### § 119 Gesamtplankonferenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012001377)
 
 (1) Mit Zustimmung des Leistungsberechtigten kann der Träger der
 Eingliederungshilfe eine Gesamtplankonferenz durchführen, um die
@@ -5002,6 +5149,7 @@ Umfeld und beteiligt sie an der Gesamtplankonferenz.
 
 
 #### § 120 Feststellung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012100000)
 
 (1) Nach Abschluss der Gesamtplankonferenz stellen der Träger der
 Eingliederungshilfe und die beteiligten Leistungsträger ihre
@@ -5033,6 +5181,7 @@ Gesamtleistung bestimmt sich nach pflichtgemäßem Ermessen.
 
 
 #### § 121 Gesamtplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012201126)
 
 (1) Der Träger der Eingliederungshilfe stellt unverzüglich nach der
 Feststellung der Leistungen einen Gesamtplan insbesondere zur
@@ -5114,6 +5263,7 @@ leistungsberechtigten Person den Gesamtplan zur Verfügung.
 
 
 #### § 122 Teilhabezielvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012300000)
 
 Der Träger der Eingliederungshilfe kann mit dem Leistungsberechtigten
 eine Teilhabezielvereinbarung zur Umsetzung der Mindestinhalte des
@@ -5128,9 +5278,11 @@ Nummer 3 gelten entsprechend.
 
 
 ### Kapitel 8 - Vertragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002600000)
 
 
 #### § 123 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012402126)
 
 (1) Der Träger der Eingliederungshilfe darf Leistungen der
 Eingliederungshilfe mit Ausnahme der Leistungen nach § 113 Absatz 2
@@ -5212,6 +5364,7 @@ Leistungsberechtigten erbrachten Leistungen der Eingliederungshilfe.
 
 
 #### § 124 Geeignete Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012503311)
 
 (1) Sind geeignete Leistungserbringer vorhanden, soll der Träger der
 Eingliederungshilfe zur Erfüllung seiner Aufgaben eigene Angebote
@@ -5272,6 +5425,7 @@ anderer Leistungserbringer.
 
 
 #### § 125 Inhalt der schriftlichen Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012600000)
 
 (1) In der schriftlichen Vereinbarung zwischen dem Träger der
 Eingliederungshilfe und dem Leistungserbringer sind zu regeln:
@@ -5339,6 +5493,7 @@ des Trägers der Eingliederungshilfe zu mindern.
 
 
 #### § 126 Verfahren und Inkrafttreten der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012700000)
 
 (1) Der Leistungserbringer oder der Träger der Eingliederungshilfe hat
 die jeweils andere Partei schriftlich zu Verhandlungen über den
@@ -5372,6 +5527,7 @@ Fällen der Sätze 1 bis 4 nicht zulässig.
 
 
 #### § 127 Verbindlichkeit der vereinbarten Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012800000)
 
 (1) Mit der Zahlung der vereinbarten Vergütung gelten alle während des
 Vereinbarungszeitraumes entstandenen Ansprüche des Leistungserbringers
@@ -5403,6 +5559,7 @@ einer neuen Vergütungsvereinbarung weiter.
 
 
 #### § 128 Wirtschaftlichkeits- und Qualitätsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE012902126)
 
 (1) Soweit tatsächliche Anhaltspunkte dafür bestehen, dass ein
 Leistungserbringer seine vertraglichen oder gesetzlichen Pflichten
@@ -5438,6 +5595,7 @@ zugänglich zu machen.
 
 
 #### § 129 Kürzung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013000000)
 
 (1) Hält ein Leistungserbringer seine gesetzlichen oder vertraglichen
 Verpflichtungen ganz oder teilweise nicht ein, ist die vereinbarte
@@ -5459,6 +5617,7 @@ Anspruch auf Nachverhandlung gemäß § 127 Absatz 3.
 
 
 #### § 130 Außerordentliche Kündigung der Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013100000)
 
 Der Träger der Eingliederungshilfe kann die Vereinbarungen mit einem
 Leistungserbringer fristlos kündigen, wenn ihm ein Festhalten an den
@@ -5490,6 +5649,7 @@ entsprechend.
 
 
 #### § 131 Rahmenverträge zur Erbringung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013200000)
 
 (1) Die Träger der Eingliederungshilfe schließen auf Landesebene mit
 den Vereinigungen der Leistungserbringer gemeinsam und einheitlich
@@ -5551,6 +5711,7 @@ die Landesregierung die Inhalte durch Rechtsverordnung regeln.
 
 
 #### § 132 Abweichende Zielvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013300000)
 
 (1) Leistungsträger und Träger der Leistungserbringer können
 Zielvereinbarungen zur Erprobung neuer und zur Weiterentwicklung der
@@ -5564,6 +5725,7 @@ Kapitel des Zwölften Buches gewährt werden.
 
 
 #### § 133 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013400000)
 
 (1) Für jedes Land oder für Teile eines Landes wird eine Schiedsstelle
 gebildet.
@@ -5630,6 +5792,7 @@ das Nähere zu bestimmen über
 
 
 #### § 134 Sonderregelung zum Inhalt der Vereinbarungen zur Erbringung von Leistungen für minderjährige Leistungsberechtigte und in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013501126)
 
 (1) In der schriftlichen Vereinbarung zur Erbringung von Leistungen
 für minderjährige Leistungsberechtigte zwischen dem Träger der
@@ -5715,9 +5878,11 @@ volljährigen Leistungsberechtigten, wenn
 
 
 ### Kapitel 9 - Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002701000)
 
 
 #### § 135 Begriff des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013601000)
 
 (1) Maßgeblich für die Ermittlung des Beitrages nach § 136 ist die
 Summe der Einkünfte des Vorvorjahres nach § 2 Absatz 2 des
@@ -5731,6 +5896,7 @@ Absatzes 1 zu ermitteln und zugrunde zu legen.
 
 
 #### § 136 Beitrag aus Einkommen zu den Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013701126)
 
 (1) Bei den Leistungen nach diesem Teil ist ein Beitrag zu den
 Aufwendungen aufzubringen, wenn das Einkommen im Sinne des § 135 der
@@ -5779,6 +5945,7 @@ Leistungsberechtigten. Die Absätze 3 und 4 sind nicht anzuwenden.
 
 
 #### § 137 Höhe des Beitrages zu den Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013801126)
 
 (1) Die antragstellende Person im Sinne des § 136 Absatz 1 hat aus dem
 Einkommen im Sinne des § 135 einen Beitrag zu den Aufwendungen nach
@@ -5803,6 +5970,7 @@ Gesamtschuldner.
 
 
 #### § 138 Besondere Höhe des Beitrages zu den Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE013903126)
 
 (1) Ein Beitrag ist nicht aufzubringen bei
 
@@ -5855,6 +6023,7 @@ Vierfache des monatlichen Beitrages einmalig aufzubringen.
 
 
 #### § 139 Begriff des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014002126)
 
 Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare
 Vermögen. Die Leistungen nach diesem Teil dürfen nicht abhängig
@@ -5869,6 +6038,7 @@ unterhaltsberechtigten Angehörigen eine Härte bedeuten würde.
 
 
 #### § 140 Einsatz des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014100000)
 
 (1) Die antragstellende Person sowie bei minderjährigen Personen die
 im Haushalt lebenden Eltern oder ein Elternteil haben vor der
@@ -5888,6 +6058,7 @@ Berücksichtigung von vorhandenem Vermögen zu erbringen.
 
 
 #### § 141 Übergang von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014201126)
 
 (1) Hat eine Person im Sinne von § 136 Absatz 1 oder der nicht
 getrennt lebende Ehegatte oder Lebenspartner für die antragstellende
@@ -5916,6 +6087,7 @@ Die §§ 115 und 116 des Zehnten Buches gehen der Regelung des Absatzes
 
 
 #### § 142 Sonderregelungen für minderjährige Leistungsberechtigte und in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014303377)
 
 (1) Minderjährigen Leistungsberechtigten und ihren Eltern oder einem
 Elternteil ist bei Leistungen im Sinne des § 138 Absatz 1 Nummer 1, 2,
@@ -5946,9 +6118,11 @@ Lebensunterhalt ersparten Aufwendungen zuzumuten.
 
 
 ### Kapitel 10 - Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002801000)
 
 
 #### § 143 Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014401000)
 
 Zur Beurteilung der Auswirkungen dieses Teils und zu seiner
 Fortentwicklung werden Erhebungen über
@@ -5964,6 +6138,7 @@ als Bundesstatistik durchgeführt.
 
 
 #### § 144 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014500000)
 
 (1) Erhebungsmerkmale bei den Erhebungen nach § 143 Nummer 1 sind für
 jeden Leistungsberechtigten
@@ -6047,6 +6222,7 @@ nach Einnahmearten sowie die Höhe der aufgebrachten Beiträge gesamt.
 
 
 #### § 145 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014600000)
 
 (1) Hilfsmerkmale sind
 
@@ -6072,11 +6248,13 @@ wiederkehrenden Bestandserhebung, zu löschen.
 
 
 #### § 146 Periodizität und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014700000)
 
 Die Erhebungen erfolgen jährlich für das abgelaufene Kalenderjahr.
 
 
 #### § 147 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014800000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben nach §
 145 Absatz 1 Nummer 2 und die Angaben zum Gemeindeteil nach § 144
@@ -6086,6 +6264,7 @@ Absatz 1 Nummer 1 sind freiwillig.
 
 
 #### § 148 Übermittlung, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE014900000)
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards
 formatierten Einzeldatensätze sind von den Auskunftspflichtigen
@@ -6116,9 +6295,11 @@ die einzelnen Gemeinden bezogen veröffentlicht werden.
 
 
 ### Kapitel 11 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG002901000)
 
 
 #### § 149 Übergangsregelung für ambulant Betreute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015001000)
 
 Für Personen, die Leistungen der Eingliederungshilfe für behinderte
 Menschen erhalten, deren Betreuung am 26. Juni 1996 durch von ihnen
@@ -6128,6 +6309,7 @@ geltenden Fassung.
 
 
 #### § 150 Übergangsregelung zum Einsatz des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015100000)
 
 Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für
 Leistungsberechtigte, die am 31. Dezember 2019 Leistungen nach dem
@@ -6142,6 +6324,7 @@ nach dem am 31. Dezember 2019 geltenden Recht.
 
 
 #### § 150a Übergangsregelung für Ausländerinnen und Ausländer mit Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024900126)
 
 § 100 Absatz 1 findet keine Anwendung, soweit Leistungsberechtigte
 nach § 18 des Asylbewerberleistungsgesetzes Leistungen nach dem
@@ -6149,12 +6332,15 @@ Asylbewerberleistungsgesetz erhalten.
 
 
 ## Teil 3 - Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003000000)
 
 
 ### Kapitel 1 - Geschützter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003100000)
 
 
 #### § 151 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015200000)
 
 (1) Die Regelungen dieses Teils gelten für schwerbehinderte und diesen
 gleichgestellte behinderte Menschen.
@@ -6182,6 +6368,7 @@ Berufsausbildung im Sinne des § 185 Absatz 3 Nummer 2 Buchstabe c.
 
 
 #### § 152 Feststellung der Behinderung, Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015303126)
 
 (1) Auf Antrag des behinderten Menschen stellen die für die
 Durchführung des Vierzehnten Buches zuständigen Behörden das Vorliegen
@@ -6236,6 +6423,7 @@ Neufeststellung unanfechtbar geworden ist.
 
 
 #### § 153 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015400000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der
@@ -6250,6 +6438,7 @@ im Schwerbehindertenausweis einzutragen sind.
 
 
 #### § 153a Sachverständigenbeirat, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE025300126)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein
 unabhängiger „Sachverständigenbeirat Versorgungsmedizinische
@@ -6293,9 +6482,11 @@ gebildet werden.
 
 
 ### Kapitel 2 - Beschäftigungspflicht der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003200000)
 
 
 #### § 154 Pflicht der Arbeitgeber zur Beschäftigung schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015500000)
 
 (1) Private und öffentliche Arbeitgeber (Arbeitgeber) mit
 jahresdurchschnittlich monatlich mindestens 20 Arbeitsplätzen im Sinne
@@ -6337,6 +6528,7 @@ schwerbehinderte Menschen zu beschäftigen.
 
 
 #### § 155 Beschäftigung besonderer Gruppen schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015600000)
 
 (1) Im Rahmen der Erfüllung der Beschäftigungspflicht sind in
 angemessenem Umfang zu beschäftigen:
@@ -6383,6 +6575,7 @@ Schwerbehindertenvertretung zu beraten.
 
 
 #### § 156 Begriff des Arbeitsplatzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015700000)
 
 (1) Arbeitsplätze im Sinne dieses Teils sind alle Stellen, auf denen
 Arbeitnehmerinnen und Arbeitnehmer, Beamtinnen und Beamte,
@@ -6432,6 +6625,7 @@ wöchentlich beschäftigt werden.
 
 
 #### § 157 Berechnung der Mindestzahl von Arbeitsplätzen und der Pflichtarbeitsplatzzahl
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015800000)
 
 (1) Bei der Berechnung der Mindestzahl von Arbeitsplätzen und der Zahl
 der Arbeitsplätze, auf denen schwerbehinderte Menschen zu beschäftigen
@@ -6446,6 +6640,7 @@ aufzurunden, bei Arbeitgebern mit jahresdurchschnittlich weniger als
 
 
 #### § 158 Anrechnung Beschäftigter auf die Zahl der Pflichtarbeitsplätze für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE015901377)
 
 (1) Ein schwerbehinderter Mensch, der auf einem Arbeitsplatz im Sinne
 des § 156 Absatz 1 oder Absatz 2 Nummer 1 oder 4 beschäftigt wird,
@@ -6479,6 +6674,7 @@ angerechnet.
 
 
 #### § 159 Mehrfachanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016001126)
 
 (1) Die Bundesagentur für Arbeit kann die Anrechnung eines
 schwerbehinderten Menschen, besonders eines schwerbehinderten Menschen
@@ -6516,6 +6712,7 @@ vor dem 1. August 1986 erlassen worden sind, gelten fort.
 
 
 #### § 160 Ausgleichsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016101126)
 
 (1) Solange Arbeitgeber die vorgeschriebene Zahl schwerbehinderter
 Menschen nicht beschäftigen, entrichten sie für jeden unbesetzten
@@ -6637,6 +6834,7 @@ Nummer 2 genannten Stellen das Land als ein Arbeitgeber.
 
 
 #### § 161 Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016201126)
 
 (1) Zur besonderen Förderung der Einstellung und Beschäftigung
 schwerbehinderter Menschen auf Arbeitsplätzen und zur Förderung von
@@ -6660,6 +6858,7 @@ Administrationskosten aus dem Ausgleichsfonds finanziert.
 
 
 #### § 162 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016301126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -6708,9 +6907,11 @@ Zustimmung des Bundesrates
 
 
 ### Kapitel 3 - Sonstige Pflichten der Arbeitgeber; Rechte der schwerbehinderten Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003300000)
 
 
 #### § 163 Zusammenwirken der Arbeitgeber mit der Bundesagentur für Arbeit und den Integrationsämtern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016400000)
 
 (1) Die Arbeitgeber haben, gesondert für jeden Betrieb und jede
 Dienststelle, ein Verzeichnis der bei ihnen beschäftigten
@@ -6777,6 +6978,7 @@ Integrationsamt zu benennen.
 
 
 #### § 164 Pflichten des Arbeitgebers und Rechte schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016500000)
 
 (1) Die Arbeitgeber sind verpflichtet zu prüfen, ob freie
 Arbeitsplätze mit schwerbehinderten Menschen, insbesondere mit bei der
@@ -6862,6 +7064,7 @@ entsprechend.
 
 
 #### § 165 Besondere Pflichten der öffentlichen Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016600000)
 
 Die Dienststellen der öffentlichen Arbeitgeber melden den Agenturen
 für Arbeit frühzeitig nach einer erfolglosen Prüfung zur internen
@@ -6879,6 +7082,7 @@ durchgeführt werden.
 
 
 #### § 166 Inklusionsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016700000)
 
 (1) Die Arbeitgeber treffen mit der Schwerbehindertenvertretung und
 den in § 176 genannten Vertretungen in Zusammenarbeit mit dem
@@ -6940,6 +7144,7 @@ Eingliederung schwerbehinderter Menschen.
 
 
 #### § 167 Prävention
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016801377)
 
 (1) Der Arbeitgeber schaltet bei Eintreten von personen-, verhaltens-
 oder betriebsbedingten Schwierigkeiten im Arbeits- oder sonstigen
@@ -6983,9 +7188,11 @@ durch Prämien oder einen Bonus fördern.
 
 
 ### Kapitel 4 - Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003400000)
 
 
 #### § 168 Erfordernis der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE016900000)
 
 Die Kündigung des Arbeitsverhältnisses eines schwerbehinderten
 Menschen durch den Arbeitgeber bedarf der vorherigen Zustimmung des
@@ -6993,11 +7200,13 @@ Integrationsamtes.
 
 
 #### § 169 Kündigungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017000000)
 
 Die Kündigungsfrist beträgt mindestens vier Wochen.
 
 
 #### § 170 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017101119)
 
 (1) Die Zustimmung zur Kündigung beantragt der Arbeitgeber bei dem für
 den Sitz des Betriebes oder der Dienststelle zuständigen
@@ -7015,6 +7224,7 @@ gütliche Einigung hin.
 
 
 #### § 171 Entscheidung des Integrationsamtes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017200000)
 
 (1) Das Integrationsamt soll die Entscheidung, falls erforderlich, auf
 Grund mündlicher Verhandlung, innerhalb eines Monats vom Tag des
@@ -7039,6 +7249,7 @@ erteilt. Die Absätze 3 und 4 gelten entsprechend.
 
 
 #### § 172 Einschränkungen der Ermessensentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017300000)
 
 (1) Das Integrationsamt erteilt die Zustimmung bei Kündigungen in
 Betrieben und Dienststellen, die nicht nur vorübergehend eingestellt
@@ -7087,6 +7298,7 @@ eröffnet, soll das Integrationsamt die Zustimmung erteilen, wenn
 
 
 #### § 173 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017401119)
 
 (1) Die Vorschriften dieses Kapitels gelten nicht für schwerbehinderte
 Menschen,
@@ -7139,6 +7351,7 @@ Gesetzen dem Integrationsamt innerhalb von vier Tagen an.
 
 
 #### § 174 Außerordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017500000)
 
 (1) Die Vorschriften dieses Kapitels gelten mit Ausnahme von § 169
 auch bei außerordentlicher Kündigung, soweit sich aus den folgenden
@@ -7169,6 +7382,7 @@ nach Beendigung des Streiks oder der Aussperrung wieder eingestellt.
 
 
 #### § 175 Erweiterter Beendigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017600000)
 
 Die Beendigung des Arbeitsverhältnisses eines schwerbehinderten
 Menschen bedarf auch dann der vorherigen Zustimmung des
@@ -7180,9 +7394,11 @@ Kündigung gelten entsprechend.
 
 
 ### Kapitel 5 - Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrat, Schwerbehindertenvertretung, Inklusionsbeauftragter des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003500000)
 
 
 #### § 176 Aufgaben des Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrates
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017700000)
 
 Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrat
 fördern die Eingliederung schwerbehinderter Menschen. Sie achten
@@ -7192,6 +7408,7 @@ die Wahl der Schwerbehindertenvertretung hin.
 
 
 #### § 177 Wahl und Amtszeit der Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017800000)
 
 (1) In Betrieben und Dienststellen, in denen wenigstens fünf
 schwerbehinderte Menschen nicht nur vorübergehend beschäftigt sind,
@@ -7285,6 +7502,7 @@ entsprechend.
 
 
 #### § 178 Aufgaben der Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE017901311)
 
 (1) Die Schwerbehindertenvertretung fördert die Eingliederung
 schwerbehinderter Menschen in den Betrieb oder die Dienststelle,
@@ -7392,6 +7610,7 @@ Dienststelle sind.
 
 
 #### § 179 Persönliche Rechte und Pflichten der Vertrauenspersonen der schwerbehinderten Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018000000)
 
 (1) Die Vertrauenspersonen führen ihr Amt unentgeltlich als Ehrenamt.
 
@@ -7479,6 +7698,7 @@ eigene Räume und sächliche Mittel zur Verfügung gestellt werden.
 
 
 #### § 180 Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018100000)
 
 (1) Ist für mehrere Betriebe eines Arbeitgebers ein Gesamtbetriebsrat
 oder für den Geschäftsbereich mehrerer Dienststellen ein
@@ -7557,6 +7777,7 @@ Bezirks- oder Hauptschwerbehindertenvertretung entsprechend.
 
 
 #### § 181 Inklusionsbeauftragter des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018200000)
 
 Der Arbeitgeber bestellt einen Inklusionsbeauftragten, der ihn in
 Angelegenheiten schwerbehinderter Menschen verantwortlich vertritt;
@@ -7568,6 +7789,7 @@ werden.
 
 
 #### § 182 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018300000)
 
 (1) Arbeitgeber, Inklusionsbeauftragter des Arbeitgebers,
 Schwerbehindertenvertretung und Betriebs-, Personal-, Richter-,
@@ -7584,6 +7806,7 @@ zu dem Integrationsamt.
 
 
 #### § 183 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018400000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Vorschriften über die Vorbereitung
@@ -7592,9 +7815,11 @@ Stufenvertretungen zu erlassen.
 
 
 ### Kapitel 6 - Durchführung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003600000)
 
 
 #### § 184 Zusammenarbeit der Integrationsämter und der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018500000)
 
 (1) Soweit die besonderen Regelungen zur Teilhabe schwerbehinderter
 Menschen am Arbeitsleben nicht durch freie Entschließung der
@@ -7615,6 +7840,7 @@ obliegenden Aufgaben bleiben unberührt.
 
 
 #### § 185 Aufgaben des Integrationsamtes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018603126)
 
 (1) Das Integrationsamt hat folgende Aufgaben:
 
@@ -7795,6 +8021,7 @@ gilt entsprechend.
 
 
 #### § 185a Einheitliche Ansprechstellen für Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024800377)
 
 (1) Einheitliche Ansprechstellen für Arbeitgeber informieren, beraten
 und unterstützen Arbeitgeber bei der Ausbildung, Einstellung und
@@ -7847,6 +8074,7 @@ zusammenarbeiten.
 
 
 #### § 186 Beratender Ausschuss für behinderte Menschen bei dem Integrationsamt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018700000)
 
 (1) Bei jedem Integrationsamt wird ein Beratender Ausschuss für
 behinderte Menschen gebildet, der die Teilhabe der behinderten
@@ -7909,6 +8137,7 @@ Behörde und die Bundesagentur für Arbeit berufen je ein Mitglied.
 
 
 #### § 187 Aufgaben der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018800000)
 
 (1) Die Bundesagentur für Arbeit hat folgende Aufgaben:
 
@@ -8016,6 +8245,7 @@ die Bundesagentur für Arbeit
 
 
 #### § 188 Beratender Ausschuss für behinderte Menschen bei der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE018900000)
 
 (1) Bei der Zentrale der Bundesagentur für Arbeit wird ein Beratender
 Ausschuss für behinderte Menschen gebildet, der die Teilhabe der
@@ -8064,6 +8294,7 @@ Soziales das Mitglied, das dieses vertritt.
 
 
 #### § 189 Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019000000)
 
 (1) Die Beratenden Ausschüsse für behinderte Menschen (§§ 186, 188)
 wählen aus den ihnen angehörenden Mitgliedern von Seiten der
@@ -8089,6 +8320,7 @@ Jahre.
 
 
 #### § 190 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019100000)
 
 (1) Die Landesregierung oder die von ihr bestimmte Stelle kann die
 Verlängerung der Gültigkeitsdauer der Ausweise nach § 152 Absatz 5,
@@ -8104,6 +8336,7 @@ obliegenden Aufgaben bestimmen.
 
 
 #### § 191 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019201126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Nähere über die Voraussetzungen des
@@ -8112,9 +8345,11 @@ die Dauer und Ausführung der Leistungen zu regeln.
 
 
 ### Kapitel 7 - Integrationsfachdienste
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003700000)
 
 
 #### § 192 Begriff und Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019300000)
 
 (1) Integrationsfachdienste sind Dienste Dritter, die bei der
 Durchführung der Maßnahmen zur Teilhabe schwerbehinderter Menschen am
@@ -8158,6 +8393,7 @@ seelischen Behinderung bedrohter Menschen Rechnung getragen.
 
 
 #### § 193 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019401377)
 
 (1) Die Integrationsfachdienste können zur Teilhabe schwerbehinderter
 Menschen am Arbeitsleben (Aufnahme, Ausübung und Sicherung einer
@@ -8229,6 +8465,7 @@ möglichst dauerhaften Beschäftigung) beteiligt werden, indem sie
 
 
 #### § 194 Beauftragung und Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019500000)
 
 (1) Die Integrationsfachdienste werden im Auftrag der
 Integrationsämter oder der Rehabilitationsträger tätig. Diese bleiben
@@ -8284,6 +8521,7 @@ beauftragten Integrationsfachdiensten konzentriert werden.
 
 
 #### § 195 Fachliche Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019600000)
 
 (1) Die Integrationsfachdienste müssen
 
@@ -8321,6 +8559,7 @@ angemessener Anteil der Stellen mit schwerbehinderten Frauen besetzt.
 
 
 #### § 196 Finanzielle Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019700000)
 
 (1) Die Inanspruchnahme von Integrationsfachdiensten wird vom
 Auftraggeber vergütet. Die Vergütung für die Inanspruchnahme von
@@ -8345,6 +8584,7 @@ entsprechend.
 
 
 #### § 197 Ergebnisbeobachtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019801126)
 
 (1) Der Integrationsfachdienst dokumentiert Verlauf und Ergebnis der
 jeweiligen Bemühungen um die Förderung der Teilhabe am Arbeitsleben.
@@ -8375,6 +8615,7 @@ Besonderheiten sowie der Art der Behinderung.
 
 
 #### § 198 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE019900000)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
@@ -8393,9 +8634,11 @@ Bundesrates erlassen.
 
 
 ### Kapitel 8 - Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter und gleichgestellter behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003800000)
 
 
 #### § 199 Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020000000)
 
 (1) Die besonderen Regelungen für schwerbehinderte Menschen werden
 nicht angewendet nach dem Wegfall der Voraussetzungen nach § 2 Absatz
@@ -8417,6 +8660,7 @@ der Pflichtarbeitsplätze für schwerbehinderte Menschen angerechnet.
 
 
 #### § 200 Entziehung der besonderen Hilfen für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020100000)
 
 (1) Einem schwerbehinderten Menschen, der einen zumutbaren
 Arbeitsplatz ohne berechtigten Grund zurückweist oder aufgibt oder
@@ -8435,9 +8679,11 @@ schwerbehinderten Menschen bekannt gegeben.
 
 
 ### Kapitel 9 - Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG003900000)
 
 
 #### § 201 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020200000)
 
 (1) Den Widerspruchsbescheid nach § 73 der Verwaltungsgerichtsordnung
 erlässt bei Verwaltungsakten der Integrationsämter und bei
@@ -8454,6 +8700,7 @@ Bundesagentur für Arbeit.
 
 
 #### § 202 Widerspruchsausschuss bei dem Integrationsamt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020300000)
 
 (1) Bei jedem Integrationsamt besteht ein Widerspruchsausschuss aus
 sieben Mitgliedern, und zwar aus zwei Mitgliedern, die
@@ -8491,6 +8738,7 @@ unentgeltlich aus.
 
 
 #### § 203 Widerspruchsausschüsse der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020400000)
 
 (1) Die Bundesagentur für Arbeit richtet Widerspruchsausschüsse ein,
 die aus sieben Mitgliedern bestehen, und zwar aus zwei Mitgliedern,
@@ -8532,6 +8780,7 @@ Stellvertreterin des jeweiligen Mitglieds.
 
 
 #### § 204 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020500000)
 
 (1) Für den Widerspruchsausschuss bei dem Integrationsamt (§ 202) und
 die Widerspruchsausschüsse bei der Bundesagentur für Arbeit (§ 203)
@@ -8547,9 +8796,11 @@ Ausschuss, dem das Mitglied angehört.
 
 
 ### Kapitel 10 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG004000000)
 
 
 #### § 205 Vorrang der schwerbehinderten Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020600000)
 
 Verpflichtungen zur bevorzugten Einstellung und Beschäftigung
 bestimmter Personenkreise nach anderen Gesetzen entbinden den
@@ -8559,6 +8810,7 @@ schwerbehinderte Menschen.
 
 
 #### § 206 Arbeitsentgelt und Dienstbezüge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020700000)
 
 (1) Bei der Bemessung des Arbeitsentgelts und der Dienstbezüge aus
 einem bestehenden Beschäftigungsverhältnis werden Renten und
@@ -8574,12 +8826,14 @@ Ruhen vorsehen, wenn Arbeitsentgelt oder Dienstbezüge gezahlt werden.
 
 
 #### § 207 Mehrarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020800000)
 
 Schwerbehinderte Menschen werden auf ihr Verlangen von Mehrarbeit
 freigestellt.
 
 
 #### § 208 Zusatzurlaub
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE020900000)
 
 (1) Schwerbehinderte Menschen haben Anspruch auf einen bezahlten
 zusätzlichen Urlaub von fünf Arbeitstagen im Urlaubsjahr; verteilt
@@ -8607,6 +8861,7 @@ Regelungen Anwendung.
 
 
 #### § 209 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021000000)
 
 (1) Die Vorschriften über Hilfen für behinderte Menschen zum Ausgleich
 behinderungsbedingter Nachteile oder Mehraufwendungen
@@ -8619,6 +8874,7 @@ Rechtsvorschriften erfolgen, bleiben unberührt.
 
 
 #### § 210 Beschäftigung schwerbehinderter Menschen in Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021100000)
 
 (1) Schwerbehinderte Menschen, die in Heimarbeit beschäftigt oder
 diesen gleichgestellt sind (§ 1 Absatz 1 und 2 des
@@ -8668,6 +8924,7 @@ Verpflichtungen gelten auch für Personen, die Heimarbeit ausgeben.
 
 
 #### § 211 Schwerbehinderte Beamtinnen und Beamte, Richterinnen und Richter, Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021200000)
 
 (1) Die besonderen Vorschriften und Grundsätze für die Besetzung der
 Beamtenstellen sind unbeschadet der Geltung dieses Teils auch für
@@ -8687,6 +8944,7 @@ Dienstverhältnisses vereinbar sind.
 
 
 #### § 212 Unabhängige Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021300000)
 
 Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung
 erforderlich ist, soll schwerbehinderten Menschen, die eine Zulassung
@@ -8695,6 +8953,7 @@ gesetzlichen Voraussetzungen die Zulassung bevorzugt erteilt werden.
 
 
 #### § 213 Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021400000)
 
 (1) Die Beschäftigten der Integrationsämter, der Bundesagentur für
 Arbeit, der Rehabilitationsträger sowie der von diesen Stellen
@@ -8731,6 +8990,7 @@ Stellen.
 
 
 #### § 214 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021500000)
 
 (1) Über schwerbehinderte Menschen wird alle zwei Jahre eine
 Bundesstatistik durchgeführt. Sie umfasst die folgenden
@@ -8769,9 +9029,11 @@ Absatz 2 Nummer 2 sind freiwillig.
 
 
 ### Kapitel 11 - Inklusionsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG004100000)
 
 
 #### § 215 Begriff und Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021600000)
 
 (1) Inklusionsbetriebe sind rechtlich und wirtschaftlich selbständige
 Unternehmen oder unternehmensinterne oder von öffentlichen
@@ -8827,6 +9089,7 @@ Schwierigkeiten stößt.
 
 
 #### § 216 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021701126)
 
 Die Inklusionsbetriebe bieten den schwerbehinderten Menschen
 Beschäftigung, Maßnahmen der betrieblichen Gesundheitsförderung und
@@ -8839,6 +9102,7 @@ Satz 1 gilt entsprechend für psychisch kranke Menschen im Sinne des §
 
 
 #### § 217 Finanzielle Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021800000)
 
 (1) Inklusionsbetriebe können aus Mitteln der Ausgleichsabgabe
 Leistungen für Aufbau, Erweiterung, Modernisierung und Ausstattung
@@ -8850,6 +9114,7 @@ den zuständigen Rehabilitationsträger.
 
 
 #### § 218 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE021900000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über den
@@ -8859,9 +9124,11 @@ finanziellen Leistungen zu regeln.
 
 
 ### Kapitel 12 - Werkstätten für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG004200000)
 
 
 #### § 219 Begriff und Aufgaben der Werkstatt für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022000000)
 
 (1) Die Werkstatt für behinderte Menschen ist eine Einrichtung zur
 Teilhabe behinderter Menschen am Arbeitsleben im Sinne des Kapitels 10
@@ -8912,6 +9179,7 @@ Beschäftigung enthalten.
 
 
 #### § 220 Aufnahme in die Werkstätten für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022102377)
 
 (1) Anerkannte Werkstätten nehmen diejenigen behinderten Menschen aus
 ihrem Einzugsgebiet auf, die die Aufnahmevoraussetzungen gemäß § 219
@@ -8947,6 +9215,7 @@ Werkstatt für behinderte Menschen.
 
 
 #### § 221 Rechtsstellung und Arbeitsentgelt behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022201124)
 
 (1) Behinderte Menschen im Arbeitsbereich anerkannter Werkstätten
 stehen, wenn sie nicht Arbeitnehmer sind, zu den Werkstätten in einem
@@ -8991,6 +9260,7 @@ schriftlichen Form und ist zu begründen.
 
 
 #### § 222 Mitbestimmung, Mitwirkung, Frauenbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022300000)
 
 (1) Die in § 221 Absatz 1 genannten behinderten Menschen bestimmen und
 wirken unabhängig von ihrer Geschäftsfähigkeit durch Werkstatträte in
@@ -9027,6 +9297,7 @@ gewählt.
 
 
 #### § 223 Anrechnung von Aufträgen auf die Ausgleichsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022400000)
 
 (1) Arbeitgeber, die durch Aufträge an anerkannte Werkstätten für
 behinderte Menschen zur Beschäftigung behinderter Menschen beitragen,
@@ -9061,6 +9332,7 @@ Werkstätten für behinderte Menschen gilt Absatz 2 entsprechend.
 
 
 #### § 224 Vergabe von Aufträgen durch die öffentliche Hand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022501377)
 
 (1) Aufträge der öffentlichen Hand, die von anerkannten Werkstätten
 für behinderte Menschen ausgeführt werden können, werden bevorzugt
@@ -9075,6 +9347,7 @@ Verwaltungsvorschriften zur Vergabe von Aufträgen durch die
 
 
 #### § 225 Anerkennungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022601119)
 
 Werkstätten für behinderte Menschen, die eine Vergünstigung im Sinne
 dieses Kapitels in Anspruch nehmen wollen, bedürfen der Anerkennung.
@@ -9087,6 +9360,7 @@ Werkstätten für behinderte Menschen aufgenommen.
 
 
 #### § 226 Blindenwerkstätten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022700000)
 
 Die §§ 223 und 224 sind auch zugunsten von auf Grund des
 Blindenwarenvertriebsgesetzes anerkannten Blindenwerkstätten
@@ -9094,6 +9368,7 @@ anzuwenden.
 
 
 #### § 227 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022800000)
 
 (1) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
 des Bundesrates das Nähere über den Begriff und die Aufgaben der
@@ -9125,9 +9400,11 @@ getroffen haben.
 
 
 ### Kapitel 13 - Unentgeltliche Beförderung schwerbehinderter Menschen im öffentlichen Personenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG004300000)
 
 
 #### § 228 Unentgeltliche Beförderung, Anspruch auf Erstattung der Fahrgeldausfälle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE022903377)
 
 (1) Schwerbehinderte Menschen, die infolge ihrer Behinderung in ihrer
 Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt oder
@@ -9232,6 +9509,7 @@ auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr.
 
 
 #### § 229 Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023000000)
 
 (1) In seiner Bewegungsfähigkeit im Straßenverkehr erheblich
 beeinträchtigt ist, wer infolge einer Einschränkung des Gehvermögens
@@ -9277,6 +9555,7 @@ Beeinträchtigung gleich kommt.
 
 
 #### § 230 Nah- und Fernverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023100000)
 
 (1) Nahverkehr im Sinne dieses Gesetzes ist der öffentliche
 Personenverkehr mit
@@ -9350,6 +9629,7 @@ unentgeltlichen Beförderung nach § 228 Absatz 1 nicht besteht.
 
 
 #### § 231 Erstattung der Fahrgeldausfälle im Nahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023201119)
 
 (1) Die Fahrgeldausfälle im Nahverkehr werden nach einem Prozentsatz
 der von den Unternehmern oder den Nahverkehrsorganisationen im Sinne
@@ -9411,6 +9691,7 @@ Unternehmens zu erfolgen hat.
 
 
 #### § 232 Erstattung der Fahrgeldausfälle im Fernverkehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023301119)
 
 (1) Die Fahrgeldausfälle im Fernverkehr werden nach einem Prozentsatz
 der von den Unternehmern nachgewiesenen Fahrgeldeinnahmen im
@@ -9443,6 +9724,7 @@ Der Prozentsatz ist nach folgender Formel zu berechnen:
 
 
 #### § 233 Erstattungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023400000)
 
 (1) Die Fahrgeldausfälle werden auf Antrag des Unternehmers erstattet.
 Bei einem von mehreren Unternehmern gebildeten zusammenhängenden
@@ -9512,6 +9794,7 @@ der Verwaltungsrechtsweg gegeben.
 
 
 #### § 234 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023500000)
 
 Der Bund trägt die Aufwendungen für die unentgeltliche Beförderung
 
@@ -9531,6 +9814,7 @@ im übrigen Nahverkehr.
 
 
 #### § 235 Einnahmen aus Wertmarken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023600000)
 
 Von den durch die Ausgabe der Wertmarken erzielten jährlichen
 Einnahmen erhält der Bund einen Anteil von 27 Prozent. Dieser ist
@@ -9542,6 +9826,7 @@ Kalenderjahres an den Bund abzuführen.
 
 
 #### § 236 Erfassung der Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023700000)
 
 Die für die Ausstellung der Ausweise nach § 152 Absatz 5 zuständigen
 Behörden erfassen
@@ -9564,6 +9849,7 @@ Prozentsätze festzusetzen sind.
 
 
 #### § 237 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023800000)
 
 (1) Die Bundesregierung wird ermächtigt, in der Rechtsverordnung auf
 Grund des § 153 Absatz 1 nähere Vorschriften über die Gestaltung der
@@ -9580,9 +9866,11 @@ zählen.
 
 
 ### Kapitel 14 - Straf-, Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNG004400000)
 
 
 #### § 237a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE023900000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 179 Absatz 7 Satz 1 Nummer 2, auch in
@@ -9593,6 +9881,7 @@ Geschäftsgeheimnis verwertet.
 
 
 #### § 237b Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024000000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 179 Absatz 7 Satz 1, auch in Verbindung mit
@@ -9606,6 +9895,7 @@ die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 
 #### § 238 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024101126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -9664,6 +9954,7 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 #### § 239 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024200000)
 
 (1) Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die
 Schwerbehindertenvertretung für Angelegenheiten, die mehrere oder alle
@@ -9676,6 +9967,7 @@ Absatz 2, 3, 6 und 7 entsprechend.
 
 
 #### § 240 Sonderregelung für den Bundesnachrichtendienst und den Militärischen Abschirmdienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024300000)
 
 (1) Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden
 Abweichungen:
@@ -9741,6 +10033,7 @@ als einheitliche Dienststelle.
 
 
 #### § 241 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_9_2018/BJNR323410016.html#BJNR323410016BJNE024408126)
 
 (1) Abweichend von § 154 Absatz 1 beträgt die Pflichtquote für die in
 § 154 Absatz 2 Nummer 1 und 4 genannten öffentlichen Arbeitgeber des

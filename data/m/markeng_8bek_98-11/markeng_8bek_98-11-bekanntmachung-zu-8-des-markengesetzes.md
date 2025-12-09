@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-11/BJNR353800998.html#BJNR353800998BJNE000100308)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156), zuletzt geändert durch Artikel 5 des
@@ -35,6 +36,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage Name, Abkürzung und Emblem der Internationalen Mobilfunksatelliten-Organisation
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-11/BJNR353800998.html#BJNR353800998BJNE000200308)
 
 Fundstelle: BGBl. I 1998, 3539)
 

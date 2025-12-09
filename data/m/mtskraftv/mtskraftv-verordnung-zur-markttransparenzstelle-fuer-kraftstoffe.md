@@ -22,6 +22,7 @@ Stand: Der § 4 Abs. 2 ist gem. Bek. v. 23.8.2013 I 3304 am 31.8.2013 in Kraft g
 Stand: Die §§ 5 und 7 sind gem. Bek. v. 23.8.2013 I 3304 am 1.12.2013 in Kraft getreten.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000100000)
 
 Auf Grund des § 47k Absatz 8 des Gesetzes gegen
 Wettbewerbsbeschränkungen, der durch Artikel 1 Nummer 2 des Gesetzes
@@ -32,6 +33,7 @@ unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Gegenstand der Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000200000)
 
 Diese Rechtsverordnung bestimmt
 
@@ -68,6 +70,7 @@ Diese Rechtsverordnung bestimmt
 
 
 ## § 2 Meldepflichtige
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000300000)
 
 (1) Meldepflichtig nach § 47k Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen sind
@@ -118,6 +121,7 @@ Daten nach Satz 1 sind der Markttransparenzstelle unverzüglich zu
 
 
 ## § 3 Befreiung von der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000400000)
 
 (1) Die Markttransparenzstelle stellt einen Meldepflichtigen auf
 Antrag von den Pflichten zur Übermittlung der Angaben nach § 4 Absatz
@@ -143,6 +147,7 @@ Markttransparenzstelle unverzüglich zu übermitteln.
 
 
 ## § 4 Übermittlung der Grund- und Preisdaten
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000501000)
 
 (1) Der Meldepflichtige hat der Markttransparenzstelle folgende Daten
 (Grunddaten) zu den Tankstellen, bei denen er über die
@@ -208,6 +213,7 @@ Daten zur Verfügung.
 
 
 ## § 5 Datenweitergabe an Anbieter von Verbraucher-Informationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000601000)
 
 (1) Die Markttransparenzstelle stellt den nach § 6 Satz 1 zugelassenen
 Anbietern von Verbraucher-Informationsdiensten die jeweils aktuellen
@@ -227,6 +233,7 @@ Absatz 1 absehen.
 
 
 ## § 6 Zulassung von Anbietern von Verbraucher-Informationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000701360)
 
 Die Markttransparenzstelle erteilt auf Antrag die Zulassung eines
 Anbieters von Verbraucher-Informationsdiensten, wenn der Antragsteller
@@ -280,6 +287,7 @@ Markttransparenzstelle unverzüglich zu übermitteln.
 
 
 ## § 7 Information der Verbraucherinnen und Verbraucher von Kraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000801000)
 
 (1) Die zugelassenen Anbieter von VerbraucherInformationsdiensten
 veröffentlichen die nach § 5 Absatz 1 von der Markttransparenzstelle
@@ -329,6 +337,7 @@ entsprechend.
 
 
 ## § 8 Vorgaben zur technischen Ausgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE000900000)
 
 (1) Die Markttransparenzstelle kann die technische Ausgestaltung der
 elektronischen Datenübermittlung nach § 4 Absatz 4 Satz 1 und des
@@ -347,6 +356,7 @@ Daten ermöglicht.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mtskraftv/BJNR059500013.html#BJNR059500013BJNE001000000)
 
 (1) § 4 Absatz 2 tritt zwei Wochen nach dem Tag in Kraft, an dem die
 Grunddaten von mindestens 13 000 Tankstellen auf der Grundlage von § 4

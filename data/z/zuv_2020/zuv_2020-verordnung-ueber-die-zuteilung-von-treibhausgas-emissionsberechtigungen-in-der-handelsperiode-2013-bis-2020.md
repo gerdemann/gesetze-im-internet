@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000100000)
 
 Auf Grund der §§ 10 und 28 Absatz 1 Nummer 2, 4 und 5 des
 Treibhausgas-Emissionshandelsgesetzes vom 21. Juli 2011 (BGBl. I S.
@@ -30,9 +31,11 @@ Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000300000)
 
 Diese Verordnung gilt im Anwendungsbereich des Treibhausgas-
 Emissionshandelsgesetzes. Sie dient
@@ -54,6 +57,7 @@ Emissionshandelsgesetzes. Sie dient
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000400000)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des § 3 des
 Treibhausgas-Emissionshandelsgesetzes die folgenden
@@ -421,12 +425,15 @@ Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Zuteilungsregeln für Bestandsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeine Zuteilungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000300000)
 
 
 #### § 3 Bildung von Zuteilungselementen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000500000)
 
 (1) Im Antrag auf kostenlose Zuteilung von Berechtigungen für eine
 Anlage ist die Gesamtheit der für die Zuteilung relevanten
@@ -516,6 +523,7 @@ Wärmenetzbetreibers sind zu verifizieren.
 
 
 #### § 4 Bestimmung der installierten Anfangskapazität von Bestandsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000600000)
 
 (1) Zur Bestimmung der installierten Anfangskapazität eines
 Zuteilungselements mit Produkt-Emissionswert ist der Durchschnitt der
@@ -582,6 +590,7 @@ Kapazitätserweiterungen mit Aufnahme des geänderten Betriebs nach dem
 
 
 #### § 5 Erhebung von Bezugsdaten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000700000)
 
 (1) Der Anlagenbetreiber ist verpflichtet, im Antrag auf kostenlose
 Zuteilung für Bestandsanlagen insbesondere folgende Angaben zu machen:
@@ -785,6 +794,7 @@ der Basis einheitlicher Stoffwerte mitgeteilten Emissionsdaten
 
 
 #### § 6 Bestimmung von Bezugsdaten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000800000)
 
 (1) Aktivitätsraten, Eingangs- und Ausgangsströme, zu denen nur für
 die Gesamtanlage Daten vorliegen, werden den jeweiligen
@@ -868,6 +878,7 @@ hergestellten Produkten nach Maßgabe von Anhang 1 Teil 3 zuzuordnen.
 
 
 #### § 7 Anforderungen an die Verifizierung von Zuteilungsanträgen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE000900000)
 
 (1) Die tatsachenbezogenen Angaben im Zuteilungsantrag sowie die
 Erhebungsmethodik sind von einer sachverständigen Stelle im Sinne des
@@ -915,6 +926,7 @@ Zuteilungselementen noch Doppelzählungen enthält.
 
 
 #### § 8 Maßgebliche Aktivitätsrate
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001000000)
 
 (1) Für Bestandsanlagen bestimmt sich die maßgebliche Aktivitätsrate
 auf Basis der gemäß § 5 erhobenen Daten nach Wahl des Antragstellers
@@ -1038,6 +1050,7 @@ Halbsatz entsprechend.
 
 
 #### § 9 Zuteilung für Bestandsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001100000)
 
 (1) Zur Ermittlung der kostenlosen Zuteilungsmenge für Bestandsanlagen
 wird zunächst für jedes Zuteilungselement die vorläufige jährliche
@@ -1130,9 +1143,11 @@ Zuteilung ab.
 
 
 ### Unterabschnitt 2 - Besondere Zuteilungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000400000)
 
 
 #### § 10 Zuteilungsregel für die Wärmeversorgung von Privathaushalten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001200000)
 
 (1) Soweit messbare Wärme an Privathaushalte abgegeben wird und sofern
 der auf die Produktion dieser Wärme entfallende Teil der nach § 9
@@ -1192,6 +1207,7 @@ abgegeben.
 
 
 #### § 11 Zuteilungsregel für die Herstellung von Zellstoff
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001300000)
 
 Besteht eine Anlage aus Zuteilungselementen, in denen Zellstoff
 hergestellt wird, unabhängig davon, ob dieser Zellstoff unter einen
@@ -1206,6 +1222,7 @@ technisch angeschlossenen Anlagen zu Papier verarbeitet werden.
 
 
 #### § 12 Zuteilungsregel für Steamcracking-Prozesse
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001400000)
 
 Abweichend von § 9 Absatz 2 Nummer 1 berechnet sich die vorläufige
 jährliche Anzahl Berechtigungen, die einem Zuteilungselement mit
@@ -1214,6 +1231,7 @@ zuzuteilen sind, nach Maßgabe von Anhang 1 Teil 1.
 
 
 #### § 13 Zuteilungsregel für Vinylchlorid-Monomer
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001500000)
 
 Abweichend von § 9 Absatz 2 Nummer 1 berechnet sich die vorläufige
 jährliche Anzahl der einem Zuteilungselement für die Herstellung von
@@ -1225,6 +1243,7 @@ Brennstoff verwendet wurde.
 
 
 #### § 14 Wärmeflüsse zwischen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001600000)
 
 Soweit in einem Zuteilungselement mit Produkt-Emissionswert messbare
 Wärme aus einer nicht unter den Anwendungsbereich des Treibhausgas-
@@ -1247,6 +1266,7 @@ Anzahl Berechtigungen, die dem Produkt entspricht aus
 
 
 #### § 15 Austauschbarkeit von Brennstoff und Strom
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001700000)
 
 (1) Für jedes Zuteilungselement mit Produkt-Emissionswert, bei dem die
 Austauschbarkeit von Brennstoff und Strom nach Anhang I Nummer 2 der
@@ -1286,9 +1306,11 @@ nach Maßgabe von Anhang 1 Teil 3 aufgeteilt.
 
 
 ## Abschnitt 3 - Neue Marktteilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000500000)
 
 
 ### § 16 Antrag auf kostenlose Zuteilung von Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001800000)
 
 (1) Anträge auf kostenlose Zuteilung für neue Marktteilnehmer sind
 innerhalb eines Jahres nach Aufnahme des Regelbetriebs der Anlage zu
@@ -1495,6 +1517,7 @@ Kommission melden.
 
 
 ### § 17 Aktivitätsraten neuer Marktteilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE001900000)
 
 (1) Für die nach § 3 zu bestimmenden Zuteilungselemente von Neuanlagen
 bestimmen sich die für die Zuteilung von Berechtigungen maßgeblichen
@@ -1553,6 +1576,7 @@ die sich die wesentliche Kapazitätserweiterung bezieht.
 
 
 ### § 18 Zuteilung für neue Marktteilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002000000)
 
 (1) Für die Zuteilung von Berechtigungen für Neuanlagen berechnet die
 zuständige Behörde die vorläufige jährliche Anzahl der bei Aufnahme
@@ -1626,9 +1650,11 @@ Anfangskapazität des Zuteilungselements zugrunde.
 
 
 ## Abschnitt 4 - Kapazitätsverringerungen und Betriebseinstellungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000600000)
 
 
 ### § 19 Wesentliche Kapazitätsverringerung
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002100000)
 
 (1) Im Fall einer wesentlichen Kapazitätsverringerung eines
 Zuteilungselements ab dem 30. Juni 2011 ist die Anzahl der für eine
@@ -1654,6 +1680,7 @@ installierte Anfangskapazität des Zuteilungselements zugrunde.
 
 
 ### § 20 Betriebseinstellungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002200000)
 
 (1) Der Betrieb einer Anlage gilt als eingestellt, wenn eine oder
 mehrere der folgenden Bedingungen gegeben sind:
@@ -1705,6 +1732,7 @@ Ablehnung durch die Europäische Kommission.
 
 
 ### § 21 Teilweise Betriebseinstellungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002300000)
 
 (1) Es wird davon ausgegangen, dass eine Anlage ihren Betrieb
 teilweise eingestellt hat, wenn ein Zuteilungselement, auf das
@@ -1785,6 +1813,7 @@ unberücksichtigt:
 
 
 ### § 22 Änderungen des Betriebs einer Anlage
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002400000)
 
 (1) Der Anlagenbetreiber hat der zuständigen Behörde alle relevanten
 Informationen über geplante oder tatsächliche Änderungen der
@@ -1801,9 +1830,11 @@ Behörde das Datum der Betriebseinstellung unverzüglich mitzuteilen.
 
 
 ## Abschnitt 5 - Befreiung von Kleinemittenten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000700000)
 
 
 ### § 23 Angaben im Antrag auf Befreiung für Kleinemittenten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002500000)
 
 (1) Im Rahmen der Antragstellung nach § 27 Absatz 2 Satz 1 des
 Treibhausgas-Emissionshandelsgesetzes kann der Anlagenbetreiber im
@@ -1874,6 +1905,7 @@ Inbetriebnahme folgenden Jahren.
 
 
 ### § 24 Bestimmung des Emissionswertes der Anlage in der Basisperiode
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002600000)
 
 (1) Der Emissionswert der Anlage bezieht sich
 
@@ -1936,6 +1968,7 @@ Anwendung von Absatz 2 Satz 1 gewichtet.
 
 
 ### § 25 Nachweis anlagenspezifischer Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002700000)
 
 (1) Für die anlagenspezifische Emissionsminderung ist die Reduzierung
 des Emissionswertes der Anlage in einem Berichtsjahr der
@@ -1979,6 +2012,7 @@ bei der Bestimmung der Emissionsminderung unberücksichtigt.
 
 
 ### § 26 Ausgleichszahlungs- und Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002800000)
 
 (1) Bei Ermittlung des Ausgleichsbetrages nach § 27 Absatz 3 des
 Treibhausgas-Emissionshandelsgesetzes für ein Berichtsjahr der
@@ -1999,6 +2033,7 @@ April 2021 abgeben.
 
 
 ### § 27 Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE002900000)
 
 (1) Die zuständige Behörde gibt auf ihrer Internetseite folgende
 Informationen bekannt:
@@ -2025,6 +2060,7 @@ die zuständige Behörde auf ihrer Internetseite bekannt.
 
 
 ### § 28 Erleichterungen bei der Emissionsberichterstattung von Kleinemittenten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003000000)
 
 (1) Für Betreiber von Anlagen, die in den Jahren 2008 bis 2010 oder in
 den drei Kalenderjahren vor dem Berichtsjahr jeweils weniger als 5 000
@@ -2094,9 +2130,11 @@ entsprechend.
 
 
 ## Abschnitt 6 - Sonstige Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNG000800000)
 
 
 ### § 29 Einheitliche Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003100000)
 
 (1) Auf Antrag des Betreibers stellt die zuständige Behörde fest, dass
 Anlagen nach Anhang 1 Teil 2 Nummer 1 bis 6 des Treibhausgas-
@@ -2125,6 +2163,7 @@ der Bildung einer solchen einheitlichen Anlage entgegenstehen.
 
 
 ### § 30 Auktionierung
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003200000)
 
 (1) Anbieter der gemäß § 8 Absatz 1 Satz 1 des Treibhausgas-
 Emissionshandelsgesetzes zu versteigernden Berechtigungen ist das
@@ -2140,6 +2179,7 @@ Refinanzierungsbedarf des darauffolgenden Jahres anzurechnen.
 
 
 ### § 31 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003300000)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 1 Nummer 2 und Absatz 2
 des Treibhausgas-Emissionshandelsgesetzes handelt, wer vorsätzlich
@@ -2171,6 +2211,7 @@ fahrlässig
 
 
 ### § 32 Übergangsregelung zur Einbeziehung von Polymerisationsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003700116)
 
 Für Polymerisationsanlagen gelten für die Jahre 2018 bis 2020 folgende
 Übergangsregelungen:
@@ -2213,6 +2254,7 @@ Für Polymerisationsanlagen gelten für die Jahre 2018 bis 2020 folgende
 
 
 ### § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003401116)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -2221,6 +2263,7 @@ Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5
 Buchstabe c, § 23 Absatz 4 Satz 2)
 
 ### Anhang 1 Anwendung besonderer Zuteilungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003500000)
 
 (Fundstelle: BGBl. I 2011, 1938- 1939)
 
@@ -2488,6 +2531,7 @@ Zuordnung der Eingangsströme und Emissionen
 (zu § 7 Absatz 3)
 
 ### Anhang 2 Anforderungen an die sachverständigen Stellen und die Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2020/BJNR192100011.html#BJNR192100011BJNE003600000)
 
 (Fundstelle: BGBl. I 2011, 1940 - 1941)
 

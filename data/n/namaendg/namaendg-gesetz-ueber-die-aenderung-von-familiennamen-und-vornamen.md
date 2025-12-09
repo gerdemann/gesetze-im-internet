@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000202360)
 
 Der Familienname eines Deutschen im Sinne des Grundgesetzes, eines
 Staatenlosen oder heimatlosen Ausländers mit gewöhnlichem Aufenthalt
@@ -31,6 +32,7 @@ mit Wohnsitz im Inland kann auf Antrag geändert werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000304125)
 
 (1) Für eine beschränkt geschäftsfähige oder geschäftsunfähige Person
 stellt der gesetzliche Vertreter den Antrag; ein Vormund oder Pfleger
@@ -48,6 +50,7 @@ dem Antrag zu hören.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000401360)
 
 (1) Ein Familienname darf nur geändert werden, wenn ein wichtiger
 Grund die Änderung rechtfertigt.
@@ -59,6 +62,7 @@ gehört werden, deren Rechte durch die Namensänderung berührt werden.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000501360)
 
 (1) Ist ein deutscher Staatsangehöriger, der die deutsche
 Staatsangehörigkeit nach dem 1. Januar 1919 erworben hat, daran
@@ -75,6 +79,7 @@ frühere Name durch Ableitung übergegangen wäre.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000603360)
 
 Die Änderung des Familiennamens erstreckt sich, soweit nicht bei der
 Entscheidung etwas anderes bestimmt wird, auf Kinder der Person, deren
@@ -84,6 +89,7 @@ besteht.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000702360)
 
 (1) Der Antrag auf Änderung eines Familiennamens ist schriftlich oder
 zu Protokoll bei der nach Landesrecht zuständigen Verwaltungsbehörde
@@ -102,14 +108,17 @@ für alle Antragsteller durchführen.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000802360)
 
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE000901360)
 
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001002360)
 
 (1) Ist zweifelhaft, welchen Familiennamen ein Deutscher im Sinne des
 Grundgesetzes, ein Staatenloser oder heimatloser Ausländer mit
@@ -129,6 +138,7 @@ auf den Rechtsweg verweisen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001104360)
 
 Die nach Landesrecht zuständige Verwaltungsbehörde veranlasst die
 Folgebeurkundung über die Namensänderung oder die Namensfeststellung
@@ -140,26 +150,31 @@ Die Mitteilungen nach den Sätzen 1 und 2 bedürfen der Schriftform.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001202360)
 
 Die namensrechtlichen Vorschriften des Bürgerlichen Gesetzbuchs
 bleiben unberührt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001302360)
 
 Die §§ 1 bis 3, 5 und 9 finden auch auf die Änderung von Vornamen
 Anwendung.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001401360)
 
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001502360)
 
 
 
 ## § 13a
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001602360)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 zuständigen Behörden abweichend von § 5 Absatz 1 Satz 1, den §§ 8 und
@@ -168,5 +183,6 @@ Landesbehörden übertragen.
 
 
 ## § 14 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/nam_ndg/BJNR000090938.html#BJNR000090938BJNE001701360)
 
 

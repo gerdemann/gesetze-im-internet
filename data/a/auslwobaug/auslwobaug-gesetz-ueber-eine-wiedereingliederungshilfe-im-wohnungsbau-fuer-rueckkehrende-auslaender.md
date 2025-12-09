@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000202377)
 
 Ein ausländischer Bausparer kann ein Bauspardarlehen für
 wohnungswirtschaftliche Maßnahmen in dem Staat verwenden, dessen
@@ -56,12 +58,14 @@ Staatsangehörigkeit er besitzt, wenn er
 
 
 ## § 2 Höhe der Bausparsumme
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000300328)
 
 Die nach § 1 verwendete Bausparsumme darf für den Bausparer insgesamt
 60\.000 Deutsche Mark nicht übersteigen.
 
 
 ## § 3 Rückkehrverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000400328)
 
 (1) Der Bausparer hat sich zu verpflichten, den Geltungsbereich dieses
 Gesetzes innerhalb von vier Jahren nach Beginn der Auszahlung der
@@ -76,6 +80,7 @@ Beginns der Auszahlung der 31. Dezember 1993.
 
 
 ## § 4 Unverzügliche Rückzahlung des Bauspardarlehens
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000500328)
 
 Das Bauspardarlehen oder ein Gelddarlehen zur Zwischenfinanzierung
 nach § 6 Abs. 2 ist unverzüglich zurückzuzahlen, wenn der Bausparer
@@ -93,6 +98,7 @@ verwenden.
 
 
 ## § 5 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000601377)
 
 (1) Die Verpflichtungserklärung nach § 3 ist gegenüber der
 Bausparkasse abzugeben. Die Bausparkasse hat den Bausparer über die
@@ -112,6 +118,7 @@ Bausparer seinen Wohnsitz hatte, über die Ausreise.
 
 
 ## § 6 Befristung
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000700328)
 
 (1) Die Vorschriften der §§ 1 bis 5 gelten nur für Bausparverträge,
 mit deren Auszahlung bis zum 31. Dezember 1993 begonnen worden ist.
@@ -123,16 +130,19 @@ begonnen worden ist.
 
 
 ## (XXXX) §§ 7 und 8
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000800328)
 
 
 
 ## § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE000900328)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwobaug/BJNR002800986.html#BJNR002800986BJNE001000328)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1986 in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Ansprüche der beruflichen Betreuer und Betreuungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/betrinasg/BJNR1870B0023.html#BJNR1870B0023BJNE000100000)
 
 (1) Ein beruflicher Betreuer nach § 19 Absatz 2 des
 Betreuungsorganisationsgesetzes, der selbständig rechtliche
@@ -50,6 +51,7 @@ nach § 12 des Vormünder- und Betreuervergütungsgesetzes.
 
 
 ## § 2 Höhe und Anspruchszeitraum der Inflationsausgleichs-Sonderzahlung
+[Direktlink](https://www.gesetze-im-internet.de/betrinasg/BJNR1870B0023.html#BJNR1870B0023BJNE000200000)
 
 (1) Die Inflationsausgleichs-Sonderzahlung nach § 1 beträgt 7,50 Euro
 je geführter Betreuung und je angefangenem Monat.
@@ -61,6 +63,7 @@ einem Tag geführt wird.
 
 
 ## § 3 Verfahren zur Geltendmachung von Ansprüchen nach § 1
+[Direktlink](https://www.gesetze-im-internet.de/betrinasg/BJNR1870B0023.html#BJNR1870B0023BJNE000300000)
 
 (1) Die Inflationsausgleichs-Sonderzahlung nach § 1 kann nur gemeinsam
 mit einem Vergütungsantrag nach den §§ 8 und 9 des Vormünder- und
@@ -85,6 +88,7 @@ zum Verfahren zu treffen.
 
 
 ## § 4 Anspruch der ehrenamtlichen Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/betrinasg/BJNR1870B0023.html#BJNR1870B0023BJNE000400000)
 
 (1) Ein ehrenamtlicher Betreuer im Sinne des § 19 Absatz 1 Satz 1 des
 Betreuungsorganisationsgesetzes, der zur Abgeltung seines Anspruchs
@@ -118,6 +122,7 @@ Absatz 1 besteht für die Zeit vom 1. Januar 2024 bis zum 31. Dezember
 
 
 ## § 5 Verfahren zur Geltendmachung von Ansprüchen nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/betrinasg/BJNR1870B0023.html#BJNR1870B0023BJNE000500000)
 
 (1) Der Anspruch auf die Inflationsausgleichs-Sonderzahlung kann nur
 gemeinsam mit der Aufwandspauschale nach § 1878 Absatz 1 Satz 1 des

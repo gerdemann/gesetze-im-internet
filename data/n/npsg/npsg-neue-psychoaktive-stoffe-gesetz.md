@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000101116)
 
 (1) Dieses Gesetz ist anzuwenden auf neue psychoaktive Stoffe im Sinne
 des § 2 Nummer 1.
@@ -48,6 +49,7 @@ des § 2 Nummer 1.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000200000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -74,6 +76,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Unerlaubter Umgang mit neuen psychoaktiven Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000301116)
 
 (1) Es ist verboten, mit einem neuen psychoaktiven Stoff Handel zu
 treiben, ihn in den Verkehr zu bringen, ihn herzustellen, ihn in den,
@@ -116,6 +119,7 @@ Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 
 ## § 4 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000400000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 3 Absatz 1
@@ -184,12 +188,14 @@ Geldstrafe.
 
 
 ## § 5 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000501116)
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können
 eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden.
 
 
 ## § 6 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000600000)
 
 Das Zollkriminalamt darf zu Straftaten nach § 4 Informationen,
 einschließlich personenbezogener Daten nach der aufgrund des § 7
@@ -203,6 +209,7 @@ Rechtsvorschriften bleiben unberührt.
 
 
 ## § 7 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000701116)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, im
@@ -217,6 +224,7 @@ mittelbaren Gefährdung der Gesundheit erforderlich ist.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/npsg/BJNR261510016.html#BJNR261510016BJNE000807125)
 
 (Fundstelle: BGBl. 2025 I Nr. 292, S. 3 – 21)
 

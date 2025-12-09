@@ -22,16 +22,19 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000100317)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000200317)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000301308)
 
 Die Bundesregierung wird ermächtigt, Abänderungen der Tabelle I -
 Liste der Berufskrankheiten - zu dem Übereinkommen nach dessen Artikel
@@ -42,17 +45,20 @@ sind im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000400317)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000500317)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk121g/BJNR211690971.html#BJNR211690971BJNE000600317)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

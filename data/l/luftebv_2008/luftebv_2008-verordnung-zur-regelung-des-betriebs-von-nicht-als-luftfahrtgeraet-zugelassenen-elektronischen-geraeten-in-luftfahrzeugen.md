@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V ersetzt V v. 1.3.1999 I 239 (LuftEBV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000100000)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 7a in Verbindung mit § 27 Abs. 3
 Satz 2 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom
@@ -27,6 +28,7 @@ Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Verbotsausnahmen gemäß § 27 Abs. 3 des Luftverkehrsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000200000)
 
 (1) Ausgenommen von dem Verbot des Betriebs elektronischer Geräte in
 Luftfahrzeugen gemäß § 27 Abs. 3 Satz 1 des Luftverkehrsgesetzes sind
@@ -72,6 +74,7 @@ Infrarotschnittstelle ist darin nicht eingeschlossen.
 
 
 ## § 2 Weitergehende Freistellungen
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000300000)
 
 (1) Der Luftfahrzeughalter kann von den Beschränkungen des § 1 Abs. 1
 Nr. 4 zweiter Halbsatz Befreiungen erteilen sowie den Betrieb von
@@ -100,12 +103,14 @@ Luftfahrzeuges führt.
 
 
 ## § 3 Befugnisse des verantwortlichen Luftfahrzeugführers
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000400000)
 
 Die Befugnisse des verantwortlichen Luftfahrzeugführers gemäß § 12 des
 Luftsicherheitsgesetzes bleiben unberührt.
 
 
 ## § 4 Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000500000)
 
 Spätestens vor dem Anlassen der Triebwerke, während des Abrollens zum
 Start und vor Beginn des Endanflugs sind die Fluggäste vom
@@ -115,6 +120,7 @@ Betriebseinschränkungen und Verbote zu unterrichten.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000600000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -122,6 +128,7 @@ Betriebseinschränkungen und Verbote zu unterrichten.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftebv_2008/BJNR026600008.html#BJNR026600008BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

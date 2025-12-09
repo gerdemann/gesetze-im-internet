@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2000-09/BJNR141600000.html#BJNR141600000BJNE000100305)
 
 Nach § 34 Abs. 2 und § 35 Abs. 2 Nr. 2 des Patentgesetzes, die durch
 Artikel 2 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827) neu gefasst
@@ -48,6 +49,7 @@ Entgegennahme der Anmeldungen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patinfozbek_2000-09/BJNR141600000.html#BJNR141600000BJNE000200305)
 
 Bundesministerium der Justiz
 

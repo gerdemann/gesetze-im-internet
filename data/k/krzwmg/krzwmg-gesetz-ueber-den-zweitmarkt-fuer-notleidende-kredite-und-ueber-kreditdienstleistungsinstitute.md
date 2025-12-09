@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich; Verhältnis zum Rechtsdienstleistungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000200000)
 
 (1) Dieses Gesetz regelt die Pflichten von Kreditinstituten als
 Verkäufer notleidender Kredite, die Pflichten von Käufern notleidender
@@ -63,6 +65,7 @@ diesem Gesetz unterfallen, keine Anwendung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000300000)
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen der Absätze 2
 bis 24.
@@ -284,6 +287,7 @@ ein Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum.
 
 
 ### § 3 Aufgaben und allgemeine Befugnisse der Bundesanstalt; Zusammenarbeit mit der Deutschen Bundesbank und der zuständigen Behörde nach dem Rechtsdienstleistungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000400000)
 
 (1) Die Bundesanstalt übt die Aufsicht über die Kreditinstitute, die
 Kreditdienstleister, die Kreditkäufer und deren Vertreter sowie die
@@ -327,6 +331,7 @@ gelten.
 
 
 ### § 4 Zusammenarbeit mit zuständigen Behörden anderer Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000500000)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten bei der
 Wahrnehmung ihrer Aufgaben nach diesem Gesetz mit den zuständigen
@@ -349,6 +354,7 @@ den dortigen nationalen Bestimmungen zur Umsetzung der Richtlinie (EU)
 
 
 ### § 5 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000600000)
 
 Die Bundesanstalt und die Deutsche Bundesbank dürfen vertrauliche
 Angaben, die sie in Wahrnehmung ihrer Aufgaben nach diesem Gesetz
@@ -366,9 +372,11 @@ entsprechend.
 
 
 ## Abschnitt 2 - Kreditkauf
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000200000)
 
 
 ### § 6 Informations- und Mitteilungspflichten des verkaufenden Kreditinstituts; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000700000)
 
 (1) Ein Kreditinstitut hat einem potenziellen Kreditkäufer vor
 Abschluss einer Vereinbarung über den Erwerb eines notleidenden
@@ -478,6 +486,7 @@ Kreditinstitute anzuhören.
 
 
 ### § 7 Pflichten des Kreditkäufers
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000800000)
 
 (1) Ein Kreditkäufer, der nicht Kreditdienstleister ist, hat bei
 Abschluss einer Vereinbarung über den Erwerb eines notleidenden
@@ -534,6 +543,7 @@ weiterhin diesen Verpflichtungen.
 
 
 ### § 8 Mitteilungspflichten des Kreditkäufers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE000900000)
 
 (1) Beauftragt der Kreditkäufer oder sein Vertreter einen
 Kreditdienstleister, um Kreditdienstleistungen im Zusammenhang mit
@@ -622,6 +632,7 @@ Kreditdienstleister anzuhören.
 
 
 ### § 9 Vertreter von Kreditkäufern aus einem Drittstaat; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001000000)
 
 (1) Ein Kreditkäufer, der nicht in einem Vertragsstaat wohnhaft ist
 oder seinen satzungsmäßigen Sitz oder, sofern er nach seinem
@@ -654,12 +665,15 @@ Kreditdienstleister anzuhören.
 
 
 ## Abschnitt 3 - Erbringung von Kreditdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000300000)
 
 
 ### Unterabschnitt 1 - Erlaubnis; Organisationspflichten; Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans; Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000400000)
 
 
 #### § 10 Erlaubnis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001100000)
 
 (1) Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in
 kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert,
@@ -790,6 +804,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 #### § 11 Erlaubnisfreie Erbringung von Kreditdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001200000)
 
 Keiner Erlaubnis nach § 10 Absatz 1 Satz 1 bedarf die Erbringung von
 Kreditdienstleistungen durch
@@ -816,6 +831,7 @@ Kreditdienstleistungen durch
 
 
 #### § 12 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001300000)
 
 Die Erlaubnis nach § 10 Absatz 1 Satz 1 ist zu versagen, wenn
 
@@ -865,6 +881,7 @@ und dies nicht in angemessener Frist behoben wird.
 
 
 #### § 13 Erlöschen und Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001400000)
 
 (1) Die Erlaubnis nach § 10 Absatz 1 Satz 1 erlischt, wenn das
 Kreditdienstleistungsinstitut von der Erlaubnis nicht innerhalb eines
@@ -928,6 +945,7 @@ nicht anzuwenden.
 
 
 #### § 14 Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001500000)
 
 (1) Ein Kreditdienstleistungsinstitut muss über eine ordnungsgemäße
 Geschäftsorganisation verfügen, die die Einhaltung der vom
@@ -1012,6 +1030,7 @@ betroffen sind.
 
 
 #### § 15 Geschäftsleiter; Mitglieder des Verwaltungs- oder Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001600000)
 
 (1) Ein Kreditdienstleistungsinstitut hat mindestens einen
 Geschäftsleiter zu bestellen. Geschäftsleiter haben für die Leitung
@@ -1097,6 +1116,7 @@ Rechtsdienstleistungsgesetzes benennen.
 
 
 #### § 16 Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001700000)
 
 (1) Inhaber einer bedeutenden Beteiligung an einem
 Kreditdienstleistungsinstitut müssen zuverlässig sein und den
@@ -1127,9 +1147,11 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 ### Unterabschnitt 2 - Entgegennahme und Halten von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000500000)
 
 
 #### § 17 Entgegennahme und Halten von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001800000)
 
 (1) Kreditdienstleistungsinstitute dürfen finanzielle Mittel von
 Kreditnehmern entgegennehmen und halten, um diese Mittel an
@@ -1166,9 +1188,11 @@ entgegenzunehmen und zu halten.
 
 
 ### Unterabschnitt 3 - Kreditdienstleistungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000600000)
 
 
 #### § 18 Kreditdienstleistungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE001900000)
 
 (1) Für den Fall, dass ein Kreditkäufer selbst keine
 Kreditdienstleistungen erbringt, hat der beauftragte
@@ -1211,6 +1235,7 @@ umfassen:
 
 
 #### § 19 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002000000)
 
 (1) Kreditdienstleister haben die folgenden Aufzeichnungen nach der
 Beendigung der Kreditdienstleistungsvereinbarung wie folgt
@@ -1255,9 +1280,11 @@ Bundesanstalt auf Verlangen zur Verfügung zu stellen.
 
 
 ### Unterabschnitt 4 - Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000700000)
 
 
 #### § 20 Auslagerung von Kreditdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002100000)
 
 (1) Kreditdienstleistungsinstitute können einzelne
 Kreditdienstleistungen an ein Auslagerungsunternehmen auslagern. Vor
@@ -1305,6 +1332,7 @@ für Auslagerungen § 25b des Kreditwesengesetzes.
 
 
 #### § 21 Unterrichtungspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002200000)
 
 (1) Kreditdienstleistungsinstitute haben die Bundesanstalt, die
 Deutsche Bundesbank und, falls ein Aufnahmemitgliedstaat vorhanden
@@ -1324,6 +1352,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 #### § 22 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002300000)
 
 (1) Kreditdienstleistungsinstitute haben die Auslagerungsvereinbarung
 sowie Aufzeichnungen zu dieser und den relevanten Anweisungen an das
@@ -1337,9 +1366,11 @@ zur Verfügung zu stellen.
 
 
 ### Unterabschnitt 5 - Europäischer Pass
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000800000)
 
 
 #### § 23 Grenzüberschreitende Erbringung von Kreditdienstleistungen von Unternehmen mit Sitz in einem anderen Vertragsstaat
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002400000)
 
 (1) Kreditdienstleistungsinstitute, die nach den dortigen nationalen
 Bestimmungen zur Umsetzung der Richtlinie (EU) 2021/2167 in einem
@@ -1379,6 +1410,7 @@ Herkunftsmitgliedstaats in dem Register nach § 26.
 
 
 #### § 24 Grenzüberschreitende Erbringung von Kreditdienstleistungen durch inländische Kreditdienstleistungsinstitute; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002500000)
 
 (1) Beabsichtigt ein Kreditdienstleistungsinstitut, das über eine
 Erlaubnis nach § 10 Absatz 1 Satz 1 verfügt, Kreditdienstleistungen in
@@ -1491,6 +1523,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 #### § 25 Beaufsichtigung grenzüberschreitend tätiger Kreditdienstleistungsinstitute
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002600000)
 
 (1) Die Bundesanstalt beaufsichtigt Kreditdienstleistungsinstitute,
 die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen, im
@@ -1588,9 +1621,11 @@ Maßnahmen und Sanktionen vorab zu unterrichten.
 
 
 ## Abschnitt 4 - Register
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG000900000)
 
 
 ### § 26 Register der zugelassenen Institute; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002700000)
 
 (1) Die Bundesanstalt führt über die Kreditdienstleistungsinstitute,
 die über eine Erlaubnis nach § 10 Absatz 1 Satz 1 verfügen oder nach §
@@ -1615,9 +1650,11 @@ Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
 
 ## Abschnitt 5 - Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG001000000)
 
 
 ### § 27 Risikobewertung; Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002800000)
 
 (1) Die Bundesanstalt bewertet unter Anwendung eines risikobasierten
 Ansatzes mindestens einmal jährlich, inwieweit die
@@ -1656,9 +1693,11 @@ Risikobewertungen benötigen.
 
 
 ## Abschnitt 6 - Verhaltensvorschriften; Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG001100000)
 
 
 ### § 28 Beziehung zu Kreditnehmern
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE002900000)
 
 (1) Kreditkäufer und Kreditdienstleister haben in ihren Beziehungen zu
 Kreditnehmern
@@ -1688,6 +1727,7 @@ Kreditkäufer und Kreditdienstleister entsprechend.
 
 
 ### § 29 Beschwerden bei einem Kreditdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003000000)
 
 (1) Kreditdienstleister haben vor der erstmaligen Erbringung von
 Kreditdienstleistungen wirkungsvolle und transparente Verfahren für
@@ -1702,6 +1742,7 @@ Maßnahme zu dokumentieren.
 
 
 ### § 30 Pflichten zur Information des Kreditnehmers
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003100000)
 
 (1) Nach der Übertragung eines notleidenden Kreditvertrags oder von
 Ansprüchen hieraus auf einen Kreditkäufer hat der Kreditkäufer oder
@@ -1784,9 +1825,11 @@ festgelegten Angaben ebenfalls aufzunehmen.
 
 
 ## Abschnitt 7 - Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG001200000)
 
 
 ### § 31 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003200000)
 
 (1) Kreditkäufer oder deren Vertreter, Kreditdienstleister,
 Auslagerungsunternehmen sowie Kreditnehmer haben der Bundesanstalt und
@@ -1822,6 +1865,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 32 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003300000)
 
 (1) Kreditdienstleistungsinstitute haben
 
@@ -1858,6 +1902,7 @@ Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs.
 
 
 ### § 33 Bestellung des Abschlussprüfers in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003400000)
 
 (1) Ist ein Kreditdienstleistungsinstitut verpflichtet, einen
 Abschlussprüfer zu bestellen, hat es der Bundesanstalt und der
@@ -1888,6 +1933,7 @@ anzuwenden.
 
 
 ### § 34 Prüfungspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003500000)
 
 (1) Ist ein Kreditdienstleistungsinstitut verpflichtet, seinen
 Jahresabschluss prüfen zu lassen, hat der Abschlussprüfer als Teil der
@@ -1928,6 +1974,7 @@ Kreditdienstleistungsinstitute anzuhören.
 
 
 ### § 35 Anzeigepflichten der Kreditdienstleistungsinstitute; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003600000)
 
 (1) Kreditdienstleistungsinstitute haben der Bundesanstalt und der
 Deutschen Bundesbank unverzüglich Folgendes anzuzeigen:
@@ -2052,6 +2099,7 @@ Spitzenverbände der Kreditdienstleistungsinstitute anzuhören.
 
 
 ### § 36 Maßnahmen bei Gefahren und Insolvenzantrag
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003700000)
 
 (1) Ist die Erfüllung der Verpflichtungen eines
 Kreditdienstleistungsinstituts gegenüber seinen Gläubigern gefährdet,
@@ -2147,6 +2195,7 @@ Insolvenzverfahren verlangen.
 
 
 ### § 37 Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003800000)
 
 (1) Die Bundesanstalt kann im Einzelfall Maßnahmen treffen, die
 geeignet und erforderlich sind, um die Einhaltung der Vorschriften
@@ -2376,6 +2425,7 @@ Mitbestimmungsgesetze.
 
 
 ### § 38 Untersagung unerlaubter Kreditdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE003900000)
 
 (1) Werden ohne die nach § 10 Absatz 1 Satz 1 erforderliche Erlaubnis
 Kreditdienstleistungen erbracht, kann die Bundesanstalt die sofortige
@@ -2420,6 +2470,7 @@ Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
 
 ### § 39 Verfolgung unerlaubter Kreditdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004000000)
 
 (1) Steht es fest oder rechtfertigen Tatsachen die Annahme, dass ein
 Unternehmen unerlaubt Kreditdienstleistungen erbringt oder erbracht
@@ -2498,6 +2549,7 @@ Personen, sofern
 
 
 ### § 40 Beschwerden über Kreditdienstleistungsinstitute, Kreditkäufer und Auslagerungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004100000)
 
 Kreditnehmer können wegen behaupteter Verstöße gegen Bestimmungen
 dieses Gesetzes Beschwerden gegen Kreditkäufer, deren Vertreter,
@@ -2509,6 +2561,7 @@ Weise öffentlich zu machen.
 
 
 ### § 41 Bekanntmachung von Maßnahmen; öffentliche Warnungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004200000)
 
 (1) Für die Bekanntmachung von Maßnahmen und Bußgeldentscheidungen
 nach diesem Gesetz gilt § 60b des Kreditwesengesetzes entsprechend.
@@ -2530,6 +2583,7 @@ bekannt gegeben hat.
 
 
 ### § 42 Sofortige Vollziehbarkeit; elektronische Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004300000)
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 nach § 3 Absatz 4, § 13 Absatz 2 Nummer 2 bis 5, § 14 Absatz 6, § 16
@@ -2550,9 +2604,11 @@ Finanzdienstleistungsaufsichtsgesetzes elektronisch zugestellt werden.
 
 
 ## Abschnitt 8 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG001300000)
 
 
 ### § 43 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004400000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -2577,6 +2633,7 @@ Geldstrafe.
 
 
 ### § 44 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004500000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2722,6 +2779,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 45 Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004600000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber,
@@ -2762,9 +2820,11 @@ gilt entsprechend.
 
 
 ## Abschnitt 9 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNG001400000)
 
 
 ### § 46 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krzwmg/BJNR19B0B0023.html#BJNR19B0B0023BJNE004700000)
 
 (1) Unternehmen in der Rechtsform einer juristischen Person oder
 Personenhandelsgesellschaft, die Kreditdienstleistungen bereits vor

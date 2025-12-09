@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euauslf_rhi_bkg/BJNR213690964.html#BJNR213690964BJNE000100306)
 
 Dem in Paris am 13. Dezember 1957 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Auslieferungsübereinkommen und dem in
@@ -32,6 +33,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euauslf_rhi_bkg/BJNR213690964.html#BJNR213690964BJNE000200306)
 
 (1) Auch bei einem Durchlieferungsverfahren nach Artikel 21 Abs. 4
 Buchstabe a des Europäischen Auslieferungsübereinkommens ist Artikel
@@ -60,6 +62,7 @@ Beschuldigten festgesetzten Zeitpunkt zugeht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euauslf_rhi_bkg/BJNR213690964.html#BJNR213690964BJNE000301306)
 
 (1) Die Überstellung eines Zeugen ist in den Fällen des Artikels 11
 Abs. 1 Unterabsatz 2 des Europäischen Übereinkommens vom 20. April
@@ -72,12 +75,14 @@ Bundesrepublik Deutschland verletzt werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/euauslf_rhi_bkg/BJNR213690964.html#BJNR213690964BJNE000400306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/euauslf_rhi_bkg/BJNR213690964.html#BJNR213690964BJNE000500306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

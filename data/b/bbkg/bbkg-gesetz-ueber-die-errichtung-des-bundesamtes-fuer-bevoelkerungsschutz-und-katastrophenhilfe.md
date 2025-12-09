@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bbkg/BJNR063010004.html#BJNR063010004BJNE000101116)
 
 Der Bund errichtet das Bundesamt für Bevölkerungsschutz und
 Katastrophenhilfe als Bundesoberbehörde. Es untersteht dem
@@ -28,6 +29,7 @@ Bundesministerium des Innern, für Bau und Heimat.
 
 
 ## § 2 Aufgaben des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/bbkg/BJNR063010004.html#BJNR063010004BJNE000202116)
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des
 Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch das

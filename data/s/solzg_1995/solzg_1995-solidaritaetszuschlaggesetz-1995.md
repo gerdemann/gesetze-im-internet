@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erhebung eines Solidaritätszuschlags
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000107123)
 
 (1) Zur Einkommensteuer und zur Körperschaftsteuer wird ein
 Solidaritätszuschlag als Ergänzungsabgabe erhoben.
@@ -58,6 +59,7 @@ der Solidaritätszuschlag entsprechend.
 
 
 ## § 2 Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000202301)
 
 Abgabepflichtig sind
 
@@ -78,6 +80,7 @@ Abgabepflichtig sind
 
 
 ## § 3 Bemessungsgrundlage und zeitliche Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000330123)
 
 (1) Der Solidaritätszuschlag bemisst sich vorbehaltlich der Absätze 2
 bis 5,
@@ -250,6 +253,7 @@ beträgt.
 
 
 ## § 4 Zuschlagsatz
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000406123)
 
 Der Solidaritätszuschlag beträgt 5,5 Prozent der Bemessungsgrundlage.
 Er beträgt nicht mehr als 11,9 Prozent des Unterschiedsbetrages
@@ -263,6 +267,7 @@ beträgt ungeachtet des Satzes 2 5,5 Prozent.
 
 
 ## § 5 Doppelbesteuerungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000501301)
 
 Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung
 im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen
@@ -271,6 +276,7 @@ zu beziehen.
 
 
 ## § 6 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/solzg_1995/BJNR097500993.html#BJNR097500993BJNE000626123)
 
 (1) § 2 in der Fassung des Gesetzes vom 18. Dezember 1995 (BGBl. I S.
 1959) ist ab dem Veranlagungszeitraum 1995 anzuwenden.

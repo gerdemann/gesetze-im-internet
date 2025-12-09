@@ -136,6 +136,7 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000100314)
 
 Der Bundesminister für Gesundheit verordnet, jeweils in Verbindung mit
 Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März
@@ -171,6 +172,7 @@ Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März
 
 
 ## § 1 Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000202310)
 
 Imprägnierungsmittel in Aerosolpackungen für Leder- und
 Textilerzeugnisse, die für den häuslichen Bedarf bestimmt und nicht
@@ -180,6 +182,7 @@ gleichgestellt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000309125)
 
 Im Sinne dieser Verordnung sind
 
@@ -324,6 +327,7 @@ ein Nanometer.
 
 
 ## § 2a Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003900130)
 
 (1) Unternehmer, die Lebensmittelbedarfsgegenstände als
 Fertigerzeugnis herstellen, behandeln oder in den Verkehr bringen,
@@ -374,6 +378,7 @@ mitzuteilen, wenn die Änderung zu diesem Zeitpunkt noch besteht.
 
 
 ## § 3 Verbotene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000401307)
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1
 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht
@@ -381,6 +386,7 @@ verwendet werden.
 
 
 ## § 4 Zugelassene Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000513130)
 
 (1) Bei dem gewerbsmäßigen Herstellen von
 Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe a und b
@@ -567,12 +573,14 @@ wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
 
 ## § 5 Verbotene Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000601307)
 
 Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände
 dürfen die dort genannten Verfahren nicht angewendet werden.
 
 
 ## § 6 Höchstmengen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000708130)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -616,6 +624,7 @@ Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
 
 ## § 7 Verwendungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000801307)
 
 (1) Lebensmittelbedarfsgegenstände, die den Anforderungen der §§ 4 bis
 6 nicht entsprechen, dürfen beim gewerbsmäßigen Herstellen oder
@@ -626,6 +635,7 @@ daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
 
 
 ## § 8 Übergang von Stoffen auf Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE000911125)
 
 (1) (weggefallen)
 
@@ -681,6 +691,7 @@ solche in Form von Nanomaterialien gilt als nicht nachweisbar ein
 
 
 ## § 9 Warnhinweise
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001001307)
 
 In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in
 den Verkehr gebracht werden, wenn die dort aufgeführten Warnhinweise
@@ -689,6 +700,7 @@ lesbar und in deutscher Sprache angegeben sind.
 
 
 ## § 10 Kennzeichnung, Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001111130)
 
 (1) (weggefallen)
 
@@ -757,6 +769,7 @@ Anhangs 1, auch in Verbindung mit Artikel 4 Absatz 2, der Verordnung
 
 
 ## § 10a Kennzeichnung von Schuherzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003002310)
 
 (1) Schuherzeugnisse nach Anlage 11 Nr. 1 müssen von dem Hersteller
 oder seinem in der Europäischen Union niedergelassenen
@@ -812,12 +825,14 @@ Laschen, Ösen oder ähnlichen Vorrichtungen.
 
 
 ## § 11 Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001201307)
 
 Die in Anlage 10 genannten Untersuchungen sind nach den dort
 aufgeführten Untersuchungsverfahren durchzuführen.
 
 
 ## § 11a Besondere Vorschriften für die Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003501116)
 
 (1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend
 für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die
@@ -852,6 +867,7 @@ nachrichtlich auf seiner Internetseite bekannt.
 
 
 ## § 12 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001314130)
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -1055,6 +1071,7 @@ oder fahrlässig
 
 
 ## § 13 Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001401307)
 
 Die Bestimmungen der auf das Chemikaliengesetz gestützten
 Rechtsverordnungen und der Verordnung über die Sicherheit von
@@ -1062,16 +1079,19 @@ Spielzeug bleiben unberührt.
 
 
 ## § 14 (Aufhebung von Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001501307)
 
 -
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001602310)
 
 -
 
 
 ## § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001722130)
 
 (1) Lebensmittelbedarfsgegenstände, die den Vorschriften dieser
 Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen
@@ -1233,17 +1253,20 @@ bis zum 31. Oktober 2024 an die zuständige Behörde zu übermitteln.
 
 
 ## § 17 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001801307)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE001900314)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3)
 
 ## Anlage 1 Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002013116)
 
 (Fundstelle: BGBl. I 1998, 10 - 11;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1644,6 +1667,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1
 
 ## Anlage 2 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002103310)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1998, 12 - 21;
@@ -2895,10 +2919,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002216116)
 
 (zu § 5)
 
 ## Anlage 4 Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002304377)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 31;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2945,6 +2971,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Nr. 3)
 
 ## Anlage 5 Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002403310)
 
 
 *    *   (Fundstelle: BGBl. I 1998, 31;
@@ -3028,6 +3055,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 6 Nr. 4)
 
 ## Anlage 5a Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003201310)
 
 Fundstelle des (Originaltextes: BGBl. I 2000, 850;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3090,6 +3118,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3)
 
 ## Anlage 6 Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002503116)
 
 (Fundstelle: BGBl. I 1998, 32;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3170,6 +3199,7 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 (zu § 9)
 
 ## Anlage 7 Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002604310)
 
 (Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen
 Änderungen vgl. Fußnote)
@@ -3226,12 +3256,14 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
 
 ## Anlage 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002702310)
 
    -
 
 (zu § 10 Abs. 3)
 
 ## Anlage 9 Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002804310)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 33;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3290,6 +3322,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11)
 
 ## Anlage 10 Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE002914116)
 
 (Fundstelle: BGBl. I 1998, 34 - 35;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3429,6 +3462,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 11 (zu § 10a)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003103116)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 35 - 36;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3586,10 +3620,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003602116)
 
 (zu § 4 Absatz 3 und 4)
 
 ## Anlage 13 Vorläufiges Verzeichnis der Additive
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003702116)
 
 (Fundstelle: BGBl. I 2009, 3135 - 3137;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3921,6 +3957,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 14
+[Direktlink](https://www.gesetze-im-internet.de/bedggstv/BJNR008660992.html#BJNR008660992BJNE003801130)
 
    (Fundstelle: BGBl. I 2021, 5070 - 5125;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

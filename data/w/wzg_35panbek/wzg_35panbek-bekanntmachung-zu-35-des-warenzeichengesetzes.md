@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35panbek/BJNR002640967.html#BJNR002640967BJNE000100304)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
 9\. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird gemäß einer Erklärung
@@ -28,6 +29,7 @@ Umfang wie inländische zum gesetzlichen Schutz zugelassen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35panbek/BJNR002640967.html#BJNR002640967BJNE000200304)
 
 Der Bundesminister der Justiz
 

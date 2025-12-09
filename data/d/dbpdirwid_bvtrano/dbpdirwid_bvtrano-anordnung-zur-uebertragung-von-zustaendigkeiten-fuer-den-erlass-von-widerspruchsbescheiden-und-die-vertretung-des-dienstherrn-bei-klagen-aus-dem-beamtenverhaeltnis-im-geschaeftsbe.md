@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I. Erlaß von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/BJNR020520990.html#BJNR020520990BJNE000100308)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit
@@ -43,6 +44,7 @@ Verwaltungsakts abgelehnt haben.
 
 
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/BJNR020520990.html#BJNR020520990BJNE000200308)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir
 die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
@@ -52,6 +54,7 @@ besondere Fälle behalten wir uns die Vertretung des Dienstherrn vor.
 
 
 ## III. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/BJNR020520990.html#BJNR020520990BJNE000300308)
 
 Diese Anordnung tritt mit Wirkung vom 11. Juni 1990 in Kraft.
 Gleichzeitig tritt die Anordnung des Bundesministers für das Post- und
@@ -60,6 +63,7 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/BJNR020520990.html#BJNR020520990BJNE000400308)
 
 Das Direktorium der Deutschen Bundespost
 

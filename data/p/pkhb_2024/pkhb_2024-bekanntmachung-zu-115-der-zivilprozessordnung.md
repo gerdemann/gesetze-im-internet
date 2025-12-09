@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2024/BJNR1930A0023.html#BJNR1930A0023BJNE000100000)
 
 Auf Grund des § 115 Absatz 1 Satz 6 der Zivilprozessordnung, der
 zuletzt durch Artikel 10 Nummer 3 des Gesetzes vom 21. Dezember 2020
@@ -156,6 +157,7 @@ gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2024/BJNR1930A0023.html#BJNR1930A0023BJNE000200000)
 
 Der Bundesminister der Justiz
 

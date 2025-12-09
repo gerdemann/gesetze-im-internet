@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000106305)
 
 (1) Dieses Gesetz bestimmt, welche Maßnahmen bei der Durchführung der
 jeweils geltenden internationalen Regelungen zur Schiffssicherheit und
@@ -71,6 +72,7 @@ nicht für
 
 
 ## § 2 Weitere Begriffsbestimmungen und Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000202305)
 
 (1) Schiffe im Sinne dieses Gesetzes sind
 
@@ -162,6 +164,7 @@ nicht anwendbar.
 
 
 ## § 3 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000302305)
 
 Wer ein Schiff zur Seefahrt einsetzt, ist verpflichtet, für dessen
 sicheren Betrieb und insbesondere dafür zu sorgen, daß es samt seinem
@@ -176,6 +179,7 @@ unterstützt werden.
 
 
 ## § 4 Einheitliche Durchführung völkerrechtlicher Regeln und Normen
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000401305)
 
 Soweit sich aus den innerstaatlichen Rechtsvorschriften, die die in
 den Abschnitten A und B der Anlage genannten internationalen
@@ -191,6 +195,7 @@ der Anlage genannten Bestimmungen zugrunde zu legen.
 
 
 ## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union\*)
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000502305)
 
 (1) Soweit die in Abschnitt D der Anlage genannten Regelungen der
 Europäischen Gemeinschaften oder der Europäischen Union durch
@@ -217,6 +222,7 @@ daraus ergebenden Pflichten die §§ 7 bis 9 entsprechend.
 
 
 ## § 6 Ergänzende Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000606360)
 
 (1) Der Schiffseigentümer hat ein Seeschiff, das in ein deutsches
 Schiffsregister eingetragen wird, zuvor im Einklang mit den
@@ -248,6 +254,7 @@ betreffende Änderungen und Ergänzungen im Verkehrsblatt bekannt.
 
 
 ## § 7 Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000702305)
 
 Für die Erfüllung von Anforderungen, die
 
@@ -277,6 +284,7 @@ betreffen, ist der Schiffseigentümer verantwortlich.
 
 
 ## § 8 Verhalten beim Schiffsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000802305)
 
 (1) Für die Erfüllung von Anforderungen hinsichtlich des Verhaltens
 beim Schiffsbetrieb an Bord, insbesondere in Bezug auf den Wachdienst,
@@ -321,6 +329,7 @@ betreffen.
 
 
 ## § 9 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE000901305)
 
 (1) Verantwortlich im Sinne dieses Gesetzes sind,
 
@@ -371,6 +380,7 @@ unberührt.
 
 
 ## § 10 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001001305)
 
 (1) Der Schiffseigentümer und der Schiffsführer haben auf Anforderung
 der zuständigen Behörde die amtliche Überwachung der Einhaltung der
@@ -402,6 +412,7 @@ Rechtsvorschriften Genannten bleibt unberührt.
 
 
 ## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union\*)
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001101305)
 
 (1) Die im Sinne des § 10 Abs. 2 zuständigen Behörden des Bundes haben
 - hinsichtlich der schiffahrtspolizeilichen Vollzugsaufgaben
@@ -433,6 +444,7 @@ für ungültig erklärt, eingezogen oder verwahrt.
 
 
 ## § 12 Ermessensbindung
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001201305)
 
 Wird in den internationalen Regelungen die Ausfüllung eines
 vorgeschriebenen Standards ausdrücklich in das Ermessen der Verwaltung
@@ -445,6 +457,7 @@ Sprache bekanntgemacht hat.
 
 
 ## § 13 Maßnahmen bei Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001301305)
 
 (1) Bei der Anordnung von Maßnahmen wegen eines Verstoßes gegen
 internationale Schiffssicherheitsregelungen und Pflichten nach diesem
@@ -466,6 +479,7 @@ der Sicherheitsorganisation verstoßen wird.
 
 
 ## § 14 Überprüfung von Schiffen unter ausländischer Flagge\*)
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001404360)
 
 (1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt
 unter Beachtung der allgemeinen Regeln des Völkerrechts und der
@@ -500,6 +514,7 @@ Einhaltung von Umweltschutzstandards.
 
 
 ## § 15 Rechtsetzungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001506360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur
 Abwehr von Gefahren im Sinne des Seeaufgabengesetzes durch
@@ -512,6 +527,7 @@ unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu
 zum Schiffssicherheitsgesetz
 
 ## Anlage Internationaler schiffsbezogener Sicherheitsstandard
+[Direktlink](https://www.gesetze-im-internet.de/schsg/BJNR286010998.html#BJNR286010998BJNE001666119)
 
 (Fundstelle: BGBl. I 2005, 2986 - 3006;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

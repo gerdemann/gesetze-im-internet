@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000100000)
 
 Auf Grund des § 29a Absatz 3 Satz 1 des
 Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
@@ -28,6 +29,7 @@ Deutschen Bundesbank:
 
 
 ## § 1 Anwendungsbereich; Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000201118)
 
 (1) Monatsausweise sowie die weiteren Angaben nach dieser Verordnung
 sind von allen Instituten im Sinne des
@@ -46,6 +48,7 @@ dieser Verordnung erlassen.
 
 
 ## § 2 Art und Umfang des Monatsausweises
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000300000)
 
 Der Monatsausweis besteht aus einem Vermögensstatus bezogen auf das
 Ende des jeweiligen Berichtszeitraums und einer Gewinn- und
@@ -54,6 +57,7 @@ Geschäftsjahres umfasst.
 
 
 ## § 3 Weitere Angaben
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000401118)
 
 (1) Die weiteren Angaben sind im Falle
 
@@ -99,6 +103,7 @@ untergliedern.
 
 
 ## § 4 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000500000)
 
 Berichtszeitraum ist das Kalendervierteljahr. Die Bundesanstalt kann
 durch Entscheidung im Einzelfall den Berichtszeitraum auf einen
@@ -107,6 +112,7 @@ Bundesanstalt erforderlich ist.
 
 
 ## § 5 Einreichungsverfahren und Einreichungstermin
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000602118)
 
 (1) Die Monatsausweise und die weiteren Angaben nach § 3 sind von den
 Instituten mit den folgenden Formularen einzureichen:
@@ -155,6 +161,7 @@ Satzformate und den Einreichungsweg.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000700000)
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
@@ -162,6 +169,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 STZAG
 
 ## Anlage 1 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Vermögensstatus –
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000801118)
 
 (Fundstelle: BGBl. I 2018, 2456 - 2458)
 
@@ -1625,6 +1633,7 @@ STZAG
 GVZAG
 
 ## Anlage 2 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE000901118)
 
 (Fundstelle: BGBl. I 2018, 2459 - 2461)
 
@@ -2867,6 +2876,7 @@ GVZAG
 WAZAG
 
 ## Anlage 3 Weitere Angaben gemäß § 3 ZAGMonAwV – Zahlungsvolumen –
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE001001118)
 
 (Fundstelle: BGBl. I 2018, 2462 - 2463)
 
@@ -3421,6 +3431,7 @@ WAZAG
 ESTZAG
 
 ## Anlage 4 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Vermögensstatus –
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE001101118)
 
 (Fundstelle: BGBl. I 2018, 2464 - 2465)
 
@@ -4247,6 +4258,7 @@ ESTZAG
 EGVZAG
 
 ## Anlage 5 Monatsausweis gemäß § 29 Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
+[Direktlink](https://www.gesetze-im-internet.de/zagmonawv/BJNR359100009.html#BJNR359100009BJNE001201118)
 
 (Fundstelle: BGBl. I 2018, 2466 - 2467)
 

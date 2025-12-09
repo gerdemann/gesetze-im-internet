@@ -28,6 +28,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 ## Inhaltsverzeichnis 
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000105119)
 
 
 *    *   **Erster Teil**
@@ -4321,12 +4322,15 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 [^BJNR000210012BJNE000100000_01_BJNR000210012BJNE000105119]: 
 
 ## Erster Teil - Gemeinsame Bestimmungen für alle Binnenschifffahrtsstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000200000)
 
 
 #### § 1.01 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000211119)
 
 In dieser Verordnung gelten als:
 
@@ -4794,6 +4798,7 @@ In dieser Verordnung gelten als:
 [^bjnr000210012bjne000200000_1_BJNR000210012BJNE000211119]: 
 
 #### § 1.02 Schiffsführer
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000305119)
 
 
 1.  Ein Fahrzeug sowie einen Schwimmkörper darf nur führen
@@ -4906,6 +4911,7 @@ In dieser Verordnung gelten als:
 
 
 #### § 1.03 Pflichten der Besatzung und sonstiger Personen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000403119)
 
 
 1.  Jedes Mitglied der Besatzung hat den Anweisungen des Schiffsführers
@@ -5013,6 +5019,7 @@ In dieser Verordnung gelten als:
 
 
 #### § 1.04 Allgemeine Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000500000)
 
 Über die Anforderungen nach dieser Verordnung hinaus hat jeder
 Verkehrsteilnehmer auf Binnenschifffahrtsstraßen alle
@@ -5037,6 +5044,7 @@ und die Übung der Schifffahrt gebieten, um insbesondere
 
 
 #### § 1.05 Verhalten unter besonderen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000600000)
 
 Bei unmittelbar drohender Gefahr muss der Schiffsführer alle Maßnahmen
 treffen, die die Umstände gebieten, auch wenn er dadurch gezwungen
@@ -5044,6 +5052,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.06 Benutzung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000700000)
 
 
 1.  Unbeschadet der für die einzelnen Binnenschifffahrtsstraßen geltenden
@@ -5075,6 +5084,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.07 Anforderungen an die Beladung und freie Sicht; Höchstzahl der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000804126)
 
 
 1.  Ein Fahrzeug darf nicht tiefer als bis zur Unterkante der
@@ -5180,6 +5190,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE000902126)
 
 
 1.  Ein Fahrzeug muss so gebaut und ausgerüstet sein, dass die Sicherheit
@@ -5308,6 +5319,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.09 Besetzung des Ruders
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001005119)
 
 
 1.  Auf jedem in Fahrt befindlichen Fahrzeug hat der Schiffsführer
@@ -5575,6 +5587,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001109119)
 
 
 1.  Folgende Urkunden und sonstige Unterlagen müssen sich an Bord
@@ -5941,6 +5954,7 @@ ist, von dieser Verordnung abzuweichen.
 
 
 #### § 1.11 Mitführen der Binnenschifffahrtsstraßen-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001200000)
 
 Der Schiffsführer hat dafür zu sorgen, dass sich an Bord jedes
 Fahrzeugs ein Abdruck dieser Verordnung in ihrer jeweils geltenden
@@ -5961,6 +5975,7 @@ lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
 Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen;
 
 #### § 1.12 Schifffahrtshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001301305)
 
 
 1.  Ein Gegenstand, der eine Gefährdung, eine Beschädigung, eine
@@ -6002,6 +6017,7 @@ Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen;
 
 
 #### § 1.13 Schutz der Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001401305)
 
 
 1.  Es ist verboten, ein Schifffahrtszeichen, insbesondere eine Tonne,
@@ -6030,6 +6046,7 @@ Gefährdung durch Gegenstände an Bord; Verlust von Gegenständen;
 
 
 #### § 1.14 Beschädigung der Wasserstraße oder von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001501305)
 
 Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder
 Schwimmkörper die Wasserstraße oder eine Anlage beschädigt, muss er
@@ -6040,6 +6057,7 @@ Wasserschutzpolizei mitteilen.
 Verbot des Einbringens von Gegenständen und
 
 #### § 1.15 anderen Stoffen in die Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001601305)
 
 
 1.  Es ist verboten, einen festen Gegenstand oder anderen Stoff, der
@@ -6060,6 +6078,7 @@ Verbot des Einbringens von Gegenständen und
 
 
 #### § 1.16 Rettung und Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001700000)
 
 
 1.  Der Schiffsführer muss bei einem Unfall, der die Besatzung oder
@@ -6087,6 +6106,7 @@ Verbot des Einbringens von Gegenständen und
 
 
 #### § 1.17 Festgefahrene oder gesunkene Fahrzeuge; Anzeige von Unfällen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001802119)
 
 
 1.  Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder
@@ -6129,6 +6149,7 @@ Verbot des Einbringens von Gegenständen und
 
 
 #### § 1.18 Freimachen des Fahrwassers
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE001900000)
 
 
 1.  Wenn ein festgefahrenes oder gesunkenes Fahrzeug, ein festgefahrener
@@ -6147,6 +6168,7 @@ Verbot des Einbringens von Gegenständen und
 
 
 #### § 1.19 Besondere Anweisungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002000000)
 
 Der Schiffsführer hat eine Anweisung zu befolgen, die ihm von einem
 Beschäftigten der Strom- und Schifffahrtspolizeibehörde, einem
@@ -6157,6 +6179,7 @@ ausgehender Gefahren erteilt wird.
 
 
 #### § 1.20 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002100000)
 
 Der Schiffsführer hat einem Beschäftigten der Strom- und
 Schifffahrtspolizeibehörde, einem Beschäftigten einer ihr
@@ -6168,6 +6191,7 @@ Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
 
 
 #### § 1.21 Sondertransporte
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002200000)
 
 
 1.  Als Sondertransport gilt die Fortbewegung
@@ -6209,6 +6233,7 @@ Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
 
 
 #### § 1.22 Anordnungen vorübergehender Art
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002301119)
 
 
 1.  Der Schiffsführer muss eine von der zuständigen Behörde erlassene
@@ -6244,6 +6269,7 @@ Binnenschifffahrtsstraßen geltenden Regelwerke überwachen kann.
 
 
 #### § 1.23 Erlaubnis besonderer Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002400000)
 
 Eine sportliche Veranstaltung, Wasserfestlichkeit oder sonstige
 Veranstaltung, die die Sicherheit und Leichtigkeit des Verkehrs
@@ -6254,6 +6280,7 @@ Leichtigkeit des Schiffsverkehrs erforderlichen Auflagen zu versehen.
 Sonderregelung für Fahrzeuge
 
 #### § 1.24 im öffentlichen Dienst und für Wasserrettungsfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002502119)
 
 
 1.  Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
@@ -6276,6 +6303,7 @@ Sonderregelung für Fahrzeuge
 
 
 #### § 1.25 Laden, Löschen und Leichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002600000)
 
 
 1.  Der Schiffsführer hat dafür zu sorgen, dass ein Fahrzeug ohne
@@ -6299,6 +6327,7 @@ Sonderregelung für Fahrzeuge
 
 
 #### § 1.26 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002700000)
 
 Die Geschwindigkeitsbeschränkungen nach § 10.04 Nummer 1 und 2, §§
 11\.04, 12.04 Nummer 1, § 13.04 Nummer 1, §§ 14.04, 15.04 Nummer 1 bis
@@ -6324,6 +6353,7 @@ Nummer 3, 4, 5 Satz 1, § 25.04 Nummer 1 und 2, § 26.04 Nummer 1 und §
 
 
 #### § 1.27 Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002800000)
 
 Die in dieser Verordnung enthaltenen Vorschriften für ein Fahrzeug
 gelten für einen Verband entsprechend, soweit diese Verordnung für
@@ -6331,9 +6361,11 @@ einen Verband nicht ausdrücklich etwas anderes bestimmt.
 
 
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge; Schiffseichung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000300000)
 
 
 #### § 2.01 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE002903119)
 
 
 1.  An jedem Fahrzeug müssen nach außen sichtbar entweder unmittelbar auf
@@ -6417,6 +6449,7 @@ einen Verband nicht ausdrücklich etwas anderes bestimmt.
 
 
 #### § 2.02 Kennzeichen der Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003002119)
 
 
 1.  Sofern ein Kleinfahrzeug nicht auf Grund besonderer Bestimmungen ein
@@ -6458,12 +6491,14 @@ einen Verband nicht ausdrücklich etwas anderes bestimmt.
 
 
 #### § 2.03 Schiffseichung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003100000)
 
 Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen
 ein Kleinfahrzeug, muss geeicht sein.
 
 
 #### § 2.04 Einsenkungsmarken und Tiefgangsanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003200000)
 
 
 1.  An jedem Fahrzeug – mit Ausnahme eines Kleinfahrzeugs – müssen Marken
@@ -6484,6 +6519,7 @@ ein Kleinfahrzeug, muss geeicht sein.
 
 
 #### § 2.05 Kennzeichen der Anker
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003301119)
 
 
 1.  Ein Schiffsanker muss ein dauerhaftes Kennzeichen tragen. Dieses muss
@@ -6512,6 +6548,7 @@ Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff
 nutzen
 
 #### § 2.06 (Anlage 3: Bild 65)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068600126)
 
 
 *    *   1.
@@ -6548,6 +6585,7 @@ nutzen
 
 
 #### § 2.07 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003402119)
 
 
 1.  Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme
@@ -6597,13 +6635,16 @@ nutzen
 
 
 ### Kapitel 3 - Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000400000)
 
 
 #### Abschnitt I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000500000)
 
 Begriffsbestimmungen und Anwendungen
 
 ##### § 3.01 (Anlage 3: Bild 1)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003500000)
 
 
 1.  In diesem Kapitel gelten als
@@ -6663,6 +6704,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.02 Lichter und Signalleuchten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003602124)
 
 
 1.  Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung
@@ -6689,6 +6731,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.03 Flaggen, Tafeln und Wimpel
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003700000)
 
 
 1.  Soweit nichts anderes bestimmt ist, muss eine in dieser Verordnung
@@ -6720,6 +6763,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.04 Zylinder, Bälle und Kegel
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003800000)
 
 
 1.  Ein in dieser Verordnung vorgeschriebener Zylinder, Ball oder Kegel
@@ -6761,6 +6805,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.05 Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE003900000)
 
 
 1.  Es ist verboten, andere als die in dieser Verordnung vorgesehenen
@@ -6779,11 +6824,13 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.06
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004000000)
 
 (ohne Inhalt)
 
 
 ##### § 3.07 Verbotener Gebrauch von Lichtern, Scheinwerfern, Sichtzeichen und anderen Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004100000)
 
 
 1.  Es ist verboten, ein Licht, einen Schweinwerfer, ein Sichtzeichen oder
@@ -6802,13 +6849,16 @@ Begriffsbestimmungen und Anwendungen
 
 
 #### Abschnitt II. - Nacht- und Tagbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000600000)
 
 
 ##### Titel A. - Bezeichnung während der Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000700000)
 
 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
 ###### § 3.08 (Anlage 3: Bild 2, 3)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004201119)
 
 
 1.  Ein einzeln fahrendes Fahrzeug mit Maschinenantrieb muss bei Nacht
@@ -6878,6 +6928,7 @@ Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 Bezeichnung der Schleppverbände in Fahrt
 
 ###### § 3.09 (Anlage 3: Bild 4, 5, 6, 7, 8, 9, 10)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004302119)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muss das Fahrzeug mit
@@ -7073,6 +7124,7 @@ Bezeichnung der Schleppverbände in Fahrt
 Bezeichnung der Schubverbände in Fahrt
 
 ###### § 3.10 (Anlage 3: Bild 11, 12, 13, 14)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004402119)
 
 
 1.  Ein Schubverband in Fahrt muss bei Nacht führen:
@@ -7183,6 +7235,7 @@ Bezeichnung der Schubverbände in Fahrt
    Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
 ###### § 3.11 (Anlage 3: Bild 15, 16)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004501119)
 
 
 1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
@@ -7239,6 +7292,7 @@ Bezeichnung der Schubverbände in Fahrt
 Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
 ###### § 3.12 (Anlage 3: Bild 17)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004600000)
 
 
 1.  Ein Fahrzeug unter Segel in Fahrt muss bei Nacht führen:
@@ -7267,6 +7321,7 @@ Bezeichnung der Fahrzeuge unter Segel in Fahrt
 Bezeichnung der Kleinfahrzeuge in Fahrt
 
 ###### § 3.13 (Anlage 3: Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004700000)
 
 
 1.  Ein einzeln fahrendes Kleinfahrzeug mit Maschinenantrieb muss bei
@@ -7442,6 +7497,7 @@ Bezeichnung der Kleinfahrzeuge in Fahrt
 bestimmter gefährlicher Güter
 
 ###### § 3.14 (Anlage 3: Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004802119)
 
 
 1.  Ein Fahrzeug in Fahrt, das bestimmte entzündbare Stoffe nach Kapitel
@@ -7662,6 +7718,7 @@ und deren Schiffskörper eine größte Länge von weniger als 20,00 m
 aufweist
 
 ###### § 3.15 (Anlage 3: Bild 33)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE004900000)
 
 Ein Fahrzeug, das zur Beförderung von mehr als zwölf Fahrgästen
 zugelassen ist und dessen Schiffskörper eine größte Länge von weniger
@@ -7678,6 +7735,7 @@ als 20,00 m aufweist, muss in Fahrt bei Tag
 Bezeichnung der Fähren in Fahrt
 
 ###### § 3.16 (Anlage 3: Bild 34, 35, 36)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005000000)
 
 
 1.  Eine nicht frei fahrende Fähre in Fahrt muss bei Nacht führen:
@@ -7738,6 +7796,7 @@ Bezeichnung der Fähren in Fahrt
 besitzen
 
 ###### § 3.17 (Anlage 3: Bild 37)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005100000)
 
 Ein Fahrzeug, dem die zuständige Behörde zur Durchfahrt durch eine
 Stelle, an der eine bestimmte Reihenfolge gilt, einen Vorrang
@@ -7754,6 +7813,7 @@ vorgeschriebenen Bezeichnung bei Tag
    Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
 ###### § 3.18 (Anlage 3: Bild 38)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005200000)
 
 
 1.  Ein manövrierunfähiges Fahrzeug in Fahrt muss zusätzlich zu der
@@ -7794,6 +7854,7 @@ vorgeschriebenen Bezeichnung bei Tag
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
 ###### § 3.19 (Anlage 3: Bild 39)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005300000)
 
 Unbeschadet der besonderen Auflagen, die nach § 1.21 festgelegt werden
 können, muss ein Schwimmkörper oder eine schwimmende Anlage in Fahrt
@@ -7808,10 +7869,12 @@ bei Nacht
 
 
 ##### Titel B. - Bezeichnung beim Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000800000)
 
    Bezeichnung der Fahrzeuge beim Stillliegen
 
 ###### § 3.20 (Anlage 3: Bild 40, 41)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005400000)
 
 
 1.  Mit Ausnahme eines Kleinfahrzeugs und der in den §§ 3.22 und 3.25
@@ -7873,6 +7936,7 @@ Zusätzliche Bezeichnung stillliegender Fahrzeuge bei Beförderung
 bestimmter gefährlicher Güter
 
 ###### § 3.21 (Anlage 3: Bild 42, 43, 44)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005500000)
 
 Die nach § 3.14 jeweils vorgeschriebene Bezeichnung ist von den dort
 genannten Fahrzeugen, Schubverbänden und gekuppelten Fahrzeugen auch
@@ -7895,6 +7959,7 @@ beim Stillliegen zu führen.
    Bezeichnung der Fähren, die an ihrer Anlegestelle stillliegen
 
 ###### § 3.22 (Anlage 3: Bild 45, 46)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005600000)
 
 
 1.  Eine nicht frei fahrende Fähre muss während des Betriebes bei Nacht
@@ -7929,6 +7994,7 @@ beim Stillliegen zu führen.
 Stillliegen
 
 ###### § 3.23 (Anlage 3: Bild 47)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005700000)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, muss ein Schwimmkörper oder eine schwimmende Anlage
@@ -7953,6 +8019,7 @@ Bezeichnung bestimmter
 stillliegender Fischereifahrzeuge und der Netze oder Ausleger
 
 ###### § 3.24 (Anlage 3: Bild 48)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005801119)
 
 
 1.  Ein Fischereifahrzeug, ein Kleinfahrzeug eingeschlossen, das seine
@@ -7998,6 +8065,7 @@ Bezeichnung schwimmender Geräte
 bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 
 ###### § 3.25 (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE005900000)
 
 
 1.  Ein schwimmendes Gerät bei der Arbeit oder ein Fahrzeug, das in der
@@ -8177,6 +8245,7 @@ und schwimmenden Anlagen, deren Anker die Schifffahrt gefährden
 können, und ihrer Anker
 
 ###### § 3.26 (Anlage 3: Bild 53, 54, 55)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006000000)
 
 
 1.  Ein stillliegendes Fahrzeug, dessen Anker so ausgeworfen sind, dass
@@ -8247,10 +8316,12 @@ können, und ihrer Anker
 
 
 #### Abschnitt III. - Sonstige Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG000900000)
 
    Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
 ##### § 3.27 (Anlage 3: Bild 56)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006102119)
 
 Ein Fahrzeug der Überwachungsbehörden nach § 1.20 kann bei Nacht und
 bei Tag ein blaues Funkellicht zeigen, um sich kenntlich zu machen.
@@ -8270,6 +8341,7 @@ Bundeskriminalamtes.
 Wasserstraße ausführen
 
 ##### § 3.28 (Anlage 3: Bild 57)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006200000)
 
 Ein in Fahrt befindliches Fahrzeug, das in der Wasserstraße Arbeiten,
 Peilungen oder andere Messungen ausführt, kann mit Erlaubnis der
@@ -8286,6 +8358,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 
 
 ##### § 3.28a Bezeichnung und Fahrregeln für Mehrzweckfahrzeuge der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006300000)
 
 
 1.  Ein Mehrzweckfahrzeug der Bundeswehr führt während der Fahrt bei Nacht
@@ -8305,6 +8378,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 Schutz gegen Sog und Wellenschlag
 
 ##### § 3.29 (Anlage 3: Bild 58)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006401126)
 
 
 1.  Ein in Fahrt befindliches oder stillliegendes Fahrzeug, ein in Fahrt
@@ -8364,6 +8438,7 @@ Schutz gegen Sog und Wellenschlag
 Notzeichen
 
 ##### § 3.30 (Anlage 3: Bild 59)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006500000)
 
 
 1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
@@ -8400,6 +8475,7 @@ Notzeichen
 Hinweis auf das Verbot, das Fahrzeug zu betreten
 
 ##### § 3.31 (Anlage 3: Bild 60)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006600000)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
@@ -8441,6 +8517,7 @@ Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu
 verwenden
 
 ##### § 3.32 (Anlage 3: Bild 61)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006700000)
 
 
 1.  Sofern es durch andere Vorschriften verboten ist, an Bord
@@ -8490,6 +8567,7 @@ verwenden
 Hinweis auf das Verbot des Stillliegens nebeneinander
 
 ##### § 3.33 (Anlage 3: Bild 62)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006800000)
 
 
 1.  Sofern das seitliche Stillliegen in der Nähe eines Fahrzeugs durch
@@ -8522,9 +8600,11 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 #### Abschnitt IV. - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001000000)
 
 
 ##### § 3.34 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE006902119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -8666,12 +8746,15 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 ### Kapitel 4 - Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001101305)
 
 
 #### Abschnitt I. - Schallzeichen (Anlage 6)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001200000)
 
 
 ##### § 4.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007000000)
 
 
 1.  Soweit in dieser Verordnung das Geben eines Schallzeichens und nicht
@@ -8720,6 +8803,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 ##### § 4.02 Gebrauch der Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007100000)
 
 
 1.  Vorbehaltlich anderer Bestimmungen dieser Verordnung muss jedes
@@ -8740,6 +8824,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 ##### § 4.03 Verbotene Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007200000)
 
 
 1.  Es darf kein anderes als die in dieser Verordnung vorgesehenen
@@ -8757,6 +8842,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 ##### § 4.04 Notzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007300000)
 
 
 1.  Ein Fahrzeug, das Hilfe durch ein Schallzeichen herbeirufen will,
@@ -8773,9 +8859,11 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 #### Abschnitt II. - Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001300000)
 
 
 ##### § 4.05 Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007404119)
 
 
 1.  Jede Sprechfunkanlage an Bord eines Fahrzeugs oder einer schwimmenden
@@ -8879,9 +8967,11 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 #### Abschnitt III. - Informations- und Navigationsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001401305)
 
 
 ##### § 4.06 Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007507119)
 
 
 1.  Ein Fahrzeug darf nur dann Radar benutzen, wenn
@@ -8961,6 +9051,7 @@ Hinweis auf das Verbot des Stillliegens nebeneinander
 
 
 ##### § 4.07 Inland AIS und Inland ECDIS
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007607119)
 
 Auf den Wasserstraßen **Neckar**, **Main**, **Main-Donau-Kanal**,
 **Ruhr**, **Rhein-Herne-Kanal**, **Wesel-Datteln-Kanal**, **Datteln-
@@ -9292,9 +9383,11 @@ Regelungen zu Inland AIS und Inland ECDIS:
 [^F808822_02_BJNR000210012BJNE007607119]: 
 
 ### Kapitel 5 - Schifffahrtszeichen und Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001500000)
 
 
 #### § 5.01 Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007700000)
 
 
 1.  Anlage 7 enthält die Schifffahrtszeichen für Verbote, Gebote,
@@ -9316,6 +9409,7 @@ Regelungen zu Inland AIS und Inland ECDIS:
 
 
 #### § 5.02 Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007800000)
 
 
 1.  Anlage 8 enthält die Schifffahrtszeichen, die ausgelegt oder
@@ -9332,17 +9426,21 @@ Regelungen zu Inland AIS und Inland ECDIS:
 
 
 ### Kapitel 6 - Fahrregeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001600000)
 
 
 #### Abschnitt I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001700000)
 
 
 ##### § 6.01
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE007900000)
 
 (ohne Inhalt)
 
 
 ##### § 6.02 Gegenseitiges Verhalten von Kleinfahrzeugen und anderen Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008000000)
 
 
 1.  Ein einzeln fahrendes Kleinfahrzeug oder ein Verband, der
@@ -9395,6 +9493,7 @@ Regelungen zu Inland AIS und Inland ECDIS:
 
 
 ##### § 6.02a Besondere Fahrregeln für Kleinfahrzeuge untereinander
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008100000)
 
 
 1.  Ein Kleinfahrzeug mit Maschinenantrieb muss einem Kleinfahrzeug ohne
@@ -9477,9 +9576,11 @@ Regelungen zu Inland AIS und Inland ECDIS:
 
 
 #### Abschnitt II. - Begegnen, Kreuzen und Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001800000)
 
 
 ##### § 6.03 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008200000)
 
 
 1.  Das Begegnen, Kreuzen oder Überholen ist nur gestattet, wenn das
@@ -9503,6 +9604,7 @@ Regelungen zu Inland AIS und Inland ECDIS:
 
 
 ##### § 6.03a Kreuzen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008300000)
 
 
 1.  Kreuzen sich die Kurse zweier Fahrzeuge so, dass die Gefahr eines
@@ -9523,6 +9625,7 @@ Regelungen zu Inland AIS und Inland ECDIS:
 Allgemeine Bestimmungen für das Begegnen
 
 ##### § 6.04 (Anlage 3: Bild 63)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008402305)
 
 
 1.  Beim Begegnen muss der Bergfahrer unter Berücksichtigung der örtlichen
@@ -9597,6 +9700,7 @@ Allgemeine Bestimmungen für das Begegnen
 [^BJNR000210012BJNE008400000_01_BJNR000210012BJNE008402305]: 
 
 ##### § 6.05 Ausnahmen von den allgemeinen Bestimmungen für das Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008500000)
 
 
 1.  Abweichend von § 6.04 kann
@@ -9661,11 +9765,13 @@ Allgemeine Bestimmungen für das Begegnen
 [^BJNR000210012BJNE008500000_01]: 
 
 ##### § 6.06
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008600000)
 
 (ohne Inhalt)
 
 
 ##### § 6.07 Begegnen im engen Fahrwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008700000)
 
 
 1.  Um nach Möglichkeit ein Begegnen auf einer Strecke oder an einer
@@ -9709,6 +9815,7 @@ Allgemeine Bestimmungen für das Begegnen
 [^BJNR000210012BJNE008700000_01]: 
 
 ##### § 6.08 Durch Schifffahrtszeichen verbotenes Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008801126)
 
 
 *    *
@@ -9798,6 +9905,7 @@ Allgemeine Bestimmungen für das Begegnen
 [^F808822_03_BJNR000210012BJNE008801126]: 
 
 ##### § 6.09 Allgemeine Bestimmungen für das Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE008900000)
 
 
 1.  Das Überholen ist nur gestattet, nachdem sich der Überholende
@@ -9815,6 +9923,7 @@ Allgemeine Bestimmungen für das Begegnen
 
 
 ##### § 6.10 Verhalten und Zeichengebung der Fahrzeuge beim Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009000000)
 
 
 1.  Der Überholende darf an Backbord oder an Steuerbord des
@@ -9887,6 +9996,7 @@ Allgemeine Bestimmungen für das Begegnen
 [^BJNR000210012BJNE009000000_01]: 
 
 ##### § 6.11 Überholverbot durch Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009100000)
 
 Unbeschadet des § 6.08 Nummer 1 besteht
 
@@ -9919,9 +10029,11 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 [^BJNR000210012BJNE009100000_01]: 
 
 #### Abschnitt III. - Weitere Regeln für die Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG001900000)
 
 
 ##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009200000)
 
 
 1.  Auf einer Strecke, die mit einem der Tafelzeichen B.1, B.2a, B.2b,
@@ -9980,6 +10092,7 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 [^BJNR000210012BJNE009200000_02]: 
 
 ##### § 6.13 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009300000)
 
 
 1.  Ein Fahrzeug darf nur wenden,
@@ -10046,6 +10159,7 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 
 
 ##### § 6.14 Verhalten vor der Abfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009400000)
 
 
 1.  § 6.13 Nummer 1 bis 3 gilt nach Maßgabe der nachstehenden Nummer 2
@@ -10071,6 +10185,7 @@ Unbeschadet des § 6.08 Nummer 1 besteht
 Verbot des Hineinfahrens in
 
 ##### § 6.15 die Abstände zwischen Teilen eines Schleppverbandes
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009500000)
 
 Es ist verboten, in die Abstände zwischen den Teilen eines
 Schleppverbandes hineinzufahren.
@@ -10078,6 +10193,7 @@ Schleppverbandes hineinzufahren.
 Überqueren der Wasserstraße;
 
 ##### § 6.16 Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009602119)
 
 
 1.  Ein Fahrzeug darf
@@ -10223,6 +10339,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.17 Fahrt auf gleicher Höhe; Verbot der Annäherung an Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009701119)
 
 
 1.  Fahrzeuge dürfen nur auf gleicher Höhe fahren, wenn es der verfügbare
@@ -10250,6 +10367,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.18 Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009800000)
 
 
 1.  Es ist verboten, einen Anker, eine Trosse oder eine Kette schleifen zu
@@ -10273,6 +10391,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.19 Schifffahrt durch Treibenlassen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE009900000)
 
 
 1.  Schifffahrt durch Treibenlassen ist ohne Erlaubnis der zuständigen
@@ -10293,6 +10412,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.20 Vermeidung von Wellenschlag
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010000000)
 
 
 1.  Ein Fahrzeug muss seine Geschwindigkeit so einrichten, dass
@@ -10358,6 +10478,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.21 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010101119)
 
 
 1.  Ein Fahrzeug mit Maschinenantrieb, das einen Verband fortbewegt, muss
@@ -10399,6 +10520,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.22 Sperrung der Schifffahrt und gesperrte Wasserflächen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010201119)
 
 
 *    *
@@ -10449,6 +10571,7 @@ Schleppverbandes hineinzufahren.
 bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen
 
 ##### § 6.22a (Anlage 3: Bild 50a, 50b, 52)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010300000)
 
 Es ist verboten, an einem der in § 3.25 genannten Fahrzeuge an der
 Seite vorbeizufahren, an dem es
@@ -10502,9 +10625,11 @@ Seite vorbeizufahren, an dem es
 
 
 #### Abschnitt IV. - Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002000000)
 
 
 ##### § 6.23 Verhalten der Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010400000)
 
 
 1.  Eine Fähre darf eine Wasserstraße nur überqueren, wenn sie sich
@@ -10542,9 +10667,11 @@ Seite vorbeizufahren, an dem es
 
 
 #### Abschnitt V. - Durchfahren von Brücken, Wehren und Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002100000)
 
 
 ##### § 6.24 Allgemeine Regelungen zum Durchfahren von Brücken und Wehren
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010501119)
 
 
 1.  In einer Brückenöffnung oder Wehröffnung gilt § 6.07, es sei denn, das
@@ -10582,6 +10709,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.25 Durchfahrt unter festen Brücken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010600000)
 
 
 *    *
@@ -10638,6 +10766,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.26 Durchfahren beweglicher Brücken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010701119)
 
 
 1.  Unbeschadet der §§ 6.07, 6.08 und 6.24 hat der Schiffsführer oder die
@@ -10714,6 +10843,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.27 Durchfahren der Wehre
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010800000)
 
 
 *    *
@@ -10769,6 +10899,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.28 Durchfahren der Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE010904119)
 
 
 1.  Zum Schleusenbereich gehören
@@ -11025,6 +11156,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011001119)
 
 
 1.  Sind mehrere Schleusen vorhanden, wird die Weisung zur Benutzung durch
@@ -11158,6 +11290,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.29 Reihenfolge der Schleusungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011106119)
 
 
 1.  Es wird, soweit nachstehend nichts anderes bestimmt ist, in der
@@ -11264,6 +11397,7 @@ Seite vorbeizufahren, an dem es
 
 
 ##### § 6.29a Durchfahren der Schiffshebewerke
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011200000)
 
 Die §§ 6.28, 6.28a und 6.29 sind auch auf ein Schiffshebewerk
 anzuwenden. In diesem Fall tritt an die Stelle des Schleusenbereiches
@@ -11272,9 +11406,11 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 
 
 #### Abschnitt VI. - Unsichtiges Wetter; Benutzung von Radar
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002200000)
 
 
 ##### § 6.30 Allgemeine Regeln für die Fahrt bei unsichtigem Wetter
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011300000)
 
 
 1.  Bei unsichtigem Wetter muss ein Fahrzeug, vorbehaltlich der Nummer 5,
@@ -11306,6 +11442,7 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 
 
 ##### § 6.31 Stillliegende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011400000)
 
 
 1.  Ein Fahrzeug, das in der Fahrrinne oder deren Nähe oder - im Falle des
@@ -11336,6 +11473,7 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 
 
 ##### § 6.32 Mit Radar fahrende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011503119)
 
 
 1.  Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die
@@ -11416,6 +11554,7 @@ Schleusenaufsicht die Aufsicht des Schiffshebewerkes.
 
 
 ##### § 6.33 Nicht mit Radar fahrende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011601305)
 
 Ein Fahrzeug oder ein Verband, das oder der kein Radar benutzen kann
 und einen Liegeplatz aufsuchen muss, muss während der Fahrt zu dieser
@@ -11461,6 +11600,7 @@ Stelle folgendes beachten:
 
 
 ##### § 6.34 Abweichende Regeln für die Fahrt bei unsichtigem Wetter
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011701305)
 
 In den Anwendungsbereichen der Kapitel 16 (ohne die Weser von km
 204,47 bis Fuldahafen Bremen, ohne die Weser von Fuldahafen Bremen bis
@@ -11545,9 +11685,11 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### Abschnitt VII. - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002300311)
 
 
 ##### § 6.35 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011805119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -11617,9 +11759,11 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 ### Kapitel 7 - Regeln für das Stillliegen, das Ankern und das Festmachen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002400000)
 
 
 #### § 7.01 Allgemeine Grundsätze für das Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE011901126)
 
 
 1.  Unbeschadet anderer Bestimmungen dieser Verordnung muss ein Fahrzeug
@@ -11664,6 +11808,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.02 Liegeverbot
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012000000)
 
 
 1.  Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf
@@ -11824,6 +11969,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.03 Ankern und Verwendung von Pfählen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012101126)
 
 
 1.  Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf
@@ -11872,6 +12018,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.04 Festmachen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012200000)
 
 
 1.  Ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage darf am
@@ -11926,6 +12073,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.05 Liegestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012301119)
 
 
 *    *   1.
@@ -11973,6 +12121,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.06 Besondere Liegestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012401126)
 
 
 1.  Auf einer Liegestelle, bei der eines der Tafelzeichen E.5.4 bis E.5.15
@@ -12059,6 +12208,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.07 Mindestabstände bei der Beförderung bestimmter gefährlicher Güter beim Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012502119)
 
 
 1.  Zu einem Fahrzeug, zu einem Schubverband oder zu gekuppelten
@@ -12102,6 +12252,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.08 Wache und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012602119)
 
 
 1.  Eine einsatzfähige Wache muss sich ständig an Bord aufhalten
@@ -12189,6 +12340,7 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 #### § 7.09 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012702119)
 
 
 1.  Der Schiffsführer hat die in § 7.01 Nummer 1 bis 4 und Nummer 5 Satz
@@ -12225,15 +12377,18 @@ Fahrt bei unsichtigem Wetter folgende Regeln:
 
 
 ### Kapitel 8 - Zusatzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002500000)
 
 
 #### § 8.01 Höchstabmessungen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012800000)
 
 Die zugelassenen Höchstabmessungen eines Fahrzeugs auf der jeweiligen
 Wasserstraße bestimmen sich nach den Kapiteln 10 bis 27.
 
 
 #### § 8.02 Geschleppte und schleppende Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE012900000)
 
 
 1.  Ein Schubverband darf nicht geschleppt werden. Soweit
@@ -12257,6 +12412,7 @@ Wasserstraße bestimmen sich nach den Kapiteln 10 bis 27.
 
 
 #### § 8.03 Schubverbände, die andere Fahrzeuge als Schubleichter mitführen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013000000)
 
 Ein Schubverband darf andere Fahrzeuge als Schubleichter nur
 mitführen, wenn dies in der Fahrtauglichkeitsbescheinigung des
@@ -12264,6 +12420,7 @@ schiebenden und des geschobenen Fahrzeugs zugelassen ist.
 
 
 #### § 8.04 Schubverbände, die Trägerschiffsleichter mitführen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013100000)
 
 
 1.  Ein Schubverband darf an seiner Spitze nur dann einen
@@ -12300,6 +12457,7 @@ schiebenden und des geschobenen Fahrzeugs zugelassen ist.
 
 
 #### § 8.05 Fortbewegung von Schubleichtern außerhalb eines Schubverbandes
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013200000)
 
 Außerhalb eines Schubverbandes darf ein Schubleichter nur fortbewegt
 werden:
@@ -12318,6 +12476,7 @@ werden:
 
 
 #### § 8.06 Kupplungen der Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013300000)
 
 
 1.  Die Kupplungen eines Schubverbandes müssen die starre Verbindung aller
@@ -12346,6 +12505,7 @@ werden:
 
 
 #### § 8.07 Sprechverbindung auf Verbänden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013400000)
 
 
 1.  Ist ein Schubverband länger als 110,00 m, muss eine Sprechverbindung
@@ -12376,6 +12536,7 @@ werden:
 
 
 #### § 8.08 Begehbarkeit der Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013500000)
 
 Ein Schubverband muss leicht und gefahrlos begehbar sein.
 Zwischenräume zwischen den Fahrzeugen müssen durch geeignete
@@ -12383,6 +12544,7 @@ Schutzvorrichtungen gesichert sein.
 
 
 #### § 8.09 Bleib-weg-Signal
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013601305)
 
 
 1.  Bei einem Zwischenfall oder Unfall, der ein Freiwerden der beförderten
@@ -12491,6 +12653,7 @@ Schutzvorrichtungen gesichert sein.
 
 
 #### § 8.10 Bade- und Schwimmverbot
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013701305)
 
 
 1.  Das Baden und Schwimmen ist verboten
@@ -12549,6 +12712,7 @@ Schutzvorrichtungen gesichert sein.
 
 
 #### § 8.11 Bezeichnung von Fanggeräten der Fischerei
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013800000)
 
 
 1.  Ein Großfanggerät der Fischerei ist nach § 3.25 Nummer 1 zu
@@ -12577,6 +12741,7 @@ Schutzvorrichtungen gesichert sein.
 Bezeichnung beim Einsatz von Tauchern
 
 #### § 8.12 (Anlage 3: Bild 64)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE013900000)
 
 Eine Stelle oder ein Fahrzeug, von der oder dem aus Taucherarbeiten
 durchgeführt werden, muss bei Tag und bei Nacht außer der nach dieser
@@ -12597,6 +12762,7 @@ gleicher Farbe ersetzt werden.
 
 
 #### § 8.13 Verbot des Kitesurfens
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014001305)
 
 
 *    *
@@ -12627,6 +12793,7 @@ gleicher Farbe ersetzt werden.
 
 
 #### § 8.14 Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068700126)
 
 
 1.  Vor Beginn des Bunkerns von Flüssigerdgas (LNG) muss sich der
@@ -12685,6 +12852,7 @@ gleicher Farbe ersetzt werden.
 
 
 #### § 8.15 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014102126)
 
 
 1.  Der Schiffsführer, die nach § 1.03 Nummer 3 für Kurs und
@@ -12769,9 +12937,11 @@ gleicher Farbe ersetzt werden.
 
 
 ### Kapitel 9 - Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002600000)
 
 
 #### § 9.01 Fahrpläne
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014200000)
 
 
 1.  Wer regelmäßig Fahrten mit einem Fahrgastschiff unternimmt
@@ -12790,6 +12960,7 @@ gleicher Farbe ersetzt werden.
 
 
 #### § 9.02 Anlegestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014300000)
 
 Der Schiffsführer eines Fahrgastschiffes darf dieses zum Ein- und
 Aussteigen der Fahrgäste nur an einer Anlegestelle, die von der
@@ -12798,6 +12969,7 @@ lassen.
 
 
 #### § 9.03 Schiffsverkehr an den Anlegestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014400000)
 
 Der Schiffsführer eines anderen Fahrzeugs als ein Fahrgastschiff darf
 das Fahrzeug an einer Anlegestelle der Fahrgastschiffe nur mit
@@ -12807,6 +12979,7 @@ nicht behindert wird.
 
 
 #### § 9.04 Ein- und Aussteigen der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014501119)
 
 
 1.  Der Schiffsführer oder die von ihm beauftragten Mitglieder der
@@ -12847,6 +13020,7 @@ nicht behindert wird.
 
 
 #### § 9.05 Zurückweisung von Fahrgästen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014600000)
 
 Der Schiffsführer oder die von ihm beauftragten Mitglieder der
 Besatzung haben jeweils Personen, von denen eine Gefährdung des
@@ -12855,6 +13029,7 @@ befürchten ist, von der Beförderung auszuschließen.
 
 
 #### § 9.06 Sicherheit an Bord und an den Anlegestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014700000)
 
 
 1.  Die Fahrgäste und die Benutzer einer Anlegestelle müssen sich so
@@ -12877,6 +13052,7 @@ befürchten ist, von der Beförderung auszuschließen.
 
 
 #### § 9.07 Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als zwölf Fahrgästen zugelassen sind
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014800000)
 
 Für ein Fahrzeug, das für die Beförderung und Übernachtung von mehr
 als zwölf Fahrgästen zugelassen ist, gelten die folgenden zusätzlichen
@@ -12927,6 +13103,7 @@ Anforderungen:
 
 
 #### § 9.08 Personenbarkassen und Sportfahrzeuge im Sinne des § 34 Absatz 1 der Binnenschiffsuntersuchungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE014901124)
 
 Die §§ 9.01, 9.02, 9.04, 9.05 und 9.06 sind auf eine Personenbarkasse
 entsprechend anzuwenden. Die §§ 9.02, 9.04, 9.05 und 9.06 sind auf ein
@@ -12935,12 +13112,15 @@ Binnenschiffsuntersuchungsordnung entsprechend anzuwenden.
 
 
 ## Zweiter Teil - Zusätzliche Bestimmungen für einzelne Binnenschifffahrtsstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002700311)
 
 
 ### Kapitel 10 - Neckar
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002800311)
 
 
 #### § 10.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015000000)
 
 Die Vorschriften dieses Kapitel gelten auf dem **Neckar** (Ne) von der
 Mündung in den Rhein (Rh) bei Rh-km 428,16 bis zur Gemeindegrenze
@@ -12948,6 +13128,7 @@ Wernau-Plochingen (Ne-km 203,01).
 
 
 #### § 10.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015101119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -13106,6 +13287,7 @@ Wernau-Plochingen (Ne-km 203,01).
 
 
 #### § 10.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015200000)
 
 In einen Schleppverband dürfen nur so viele Fahrzeuge eingestellt
 werden, dass er nicht mehr als eine Schleusung benötigt. In der
@@ -13114,6 +13296,7 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
 
 #### § 10.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015300000)
 
 
 1.  Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
@@ -13173,11 +13356,13 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
 
 #### § 10.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015501305)
 
 
 1.  In der Stauhaltung Hofen (km 176,20 bis km 182,70)
@@ -13301,21 +13486,25 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
 
 #### § 10.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE015901126)
 
 
 1.  Außerhalb der durch die Tafelzeichen E.5, E.6 oder E.7 (Anlage 7)
@@ -13421,6 +13610,7 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
 
 #### § 10.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016001119)
 
 
 1.  Zwischen der Neckarmündung und der Schleusengruppe Feudenheim ist die
@@ -13661,16 +13851,19 @@ Talfahrt muss ein leerer Leichter ohne aktive Bugsteuereinrichtung
 
 
 #### § 10.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016300000)
 
 Ein Trägerschiffsleichter darf nicht an die Spitze eines
 Schubverbandes gesetzt werden. Die zuständige Behörde kann Ausnahmen
@@ -13678,78 +13871,93 @@ hiervon zulassen.
 
 
 #### § 10.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016600000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 10.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016801119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE016900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017600000)
 
 Das Befahren der Binnenschifffahrtsstraße oberhalb km 201,49 ist
 verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
 
 #### § 10.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 10.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017801119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -13840,9 +14048,11 @@ verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
 
 ### Kapitel 11 - Main
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG002900311)
 
 
 #### § 11.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE017900000)
 
 Die Vorschriften dieses Kapitels gelten auf dem **Main** (Ma) von der
 Mündung in den Rhein (Rh-km 496,63) bis oberhalb der Eisenbahnbrücke
@@ -13850,6 +14060,7 @@ bei Hallstadt (Ma-km 387,69).
 
 
 #### § 11.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und -breite
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018003119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -14105,6 +14316,7 @@ bei Hallstadt (Ma-km 387,69).
 
 
 #### § 11.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018101119)
 
 
 1.  Das Fahren mit einem Schleppverband ist verboten. Satz 1 gilt nicht
@@ -14124,6 +14336,7 @@ bei Hallstadt (Ma-km 387,69).
 
 
 #### § 11.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018200000)
 
 Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
@@ -14153,11 +14366,13 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 
 #### § 11.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018401119)
 
 
 1.  Beim Begegnen müssen Fahrzeuge und Verbände abweichend von den §§ 6.04
@@ -14185,21 +14400,25 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 
 #### § 11.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018800000)
 
 
 1.  Für ein Kleinfahrzeug kann die zuständige Behörde für bestimmte
@@ -14215,6 +14434,7 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 
 #### § 11.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE018900000)
 
 
 1.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an
@@ -14350,6 +14570,7 @@ Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
 
 
 #### § 11.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019000000)
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
 muss ein Fahrzeug oder ein Verband nach Weisung der zuständigen
@@ -14358,16 +14579,19 @@ aufsuchen.
 
 
 #### § 11.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019302119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN
@@ -14490,17 +14714,20 @@ aufsuchen.
 
 
 #### § 11.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019500000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 11.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019600000)
 
 
 1.  An der Friedensbrücke in Würzburg (km 251,65) hat ein zu Tal fahrendes
@@ -14523,6 +14750,7 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 11.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019701119)
 
 
 1.  Ein Kleinfahrzeug darf die Bootsschleusen und Bootsumsetzanlagen nicht
@@ -14572,11 +14800,13 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 11.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE019900000)
 
 Eine frei fahrende Fähre mit Maschinenantrieb, die im Übersetzverkehr
 keine Längsfahrt durchführt, braucht die Seitenlichter und das
@@ -14586,6 +14816,7 @@ Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
 
 
 #### § 11.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020001119)
 
 Werden auf einem Kabinenschiff mit einer Länge von mehr als 110,00 m
 in der Fahrt auf dem Main oberhalb des Hafens Aschaffenburg
@@ -14596,26 +14827,31 @@ sichern.
 
 
 #### § 11.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 11.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020500000)
 
 
 1.  Bei einem Wasserstand am Richtpegel Würzburg von 200 cm und mehr darf
@@ -14634,12 +14870,14 @@ sichern.
 
 
 #### § 11.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020600000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 11.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020702119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -14751,9 +14989,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 12 - Main-Donau-Kanal
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003000000)
 
 
 #### § 12.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020801305)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -14794,6 +15034,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 12.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE020901119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf auf dem Main-Donau-Kanal eine Länge
@@ -14826,6 +15067,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 12.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021001119)
 
 
 1.  Das Fahren mit einem Schleppverband ist verboten. Satz 1 gilt nicht
@@ -14845,6 +15087,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 12.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021100000)
 
 
 1.  Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
@@ -14904,11 +15147,13 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 12.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021200000)
 
 Als Bergfahrt gilt die Fahrt in Richtung Bachhausen.
 
 
 #### § 12.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021301119)
 
 
 1.  Beim Begegnen müssen Fahrzeuge und Verbände abweichend von den §§ 6.04
@@ -14934,6 +15179,7 @@ Als Bergfahrt gilt die Fahrt in Richtung Bachhausen.
 
 
 #### § 12.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021400000)
 
 Das Überholen eines Fahrzeugs oder Verbandes ist verboten
 
@@ -14951,6 +15197,7 @@ werden.
 
 
 #### § 12.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021500000)
 
 
 1.  Ein Fahrzeug mit einer Länge von mehr als 20,00 m darf nur an den
@@ -14982,6 +15229,7 @@ werden.
 
 
 #### § 12.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021600000)
 
 
 1.  Das Ankern ist verboten.
@@ -15016,6 +15264,7 @@ werden.
 
 
 #### § 12.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021700000)
 
 
 1.  Das Stillliegen eines unbemannten Kleinfahrzeugs ist verboten.
@@ -15044,6 +15293,7 @@ werden.
 
 
 #### § 12.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021800000)
 
 
 1.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an
@@ -15154,6 +15404,7 @@ werden.
 
 
 #### § 12.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE021900000)
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
 muss ein Fahrzeug oder ein Verband nach Weisung der zuständigen
@@ -15162,37 +15413,44 @@ aufsuchen.
 
 
 #### § 12.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022400000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 12.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022600000)
 
 
 1.  In einer Schleuse – ausgenommen Schleuse Forchheim – muss ein einzeln
@@ -15228,6 +15486,7 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 12.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022700000)
 
 Das Segeln ist verboten. Die zuständige Behörde kann im Einzelfall
 Ausnahmen zulassen, wenn die Sicherheit und Leichtigkeit des Verkehrs
@@ -15235,11 +15494,13 @@ dadurch nicht beeinträchtigt wird.
 
 
 #### § 12.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE022901119)
 
 Werden auf einem Kabinenschiff mit einer Länge von mehr als 110,00 m
 Fensterreihen während der Fahrt teilweise oder ganz unter den
@@ -15249,16 +15510,19 @@ sichern.
 
 
 #### § 12.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023200000)
 
 
 1.  Das Befahren der außerhalb des Fahrwassers des Main-Donau-Kanals, der
@@ -15317,6 +15581,7 @@ sichern.
 
 
 #### § 12.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023300000)
 
 Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt
 werden, wenn seine Bugform im Grundriss auf beiden Seiten abgerundet
@@ -15328,17 +15593,20 @@ eines einzeln fahrenden Fahrzeugs mit Pontonform.
 
 
 #### § 12.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 12.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023500000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 12.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023601119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -15472,9 +15740,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 13 - Lahn
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003100311)
 
 
 #### § 13.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023700000)
 
 Die Vorschriften dieses Kapitels gelten auf der **Lahn** von der
 Mündung in den Rhein (Lahn-km 137,30/Rh-km 585,72) bis zum Unterwasser
@@ -15482,6 +15752,7 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023801305)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -15614,6 +15885,7 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE023900000)
 
 
 1.  In einen Schleppverband darf nur ein Anhang eingestellt werden. Satz 1
@@ -15628,6 +15900,7 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024000000)
 
 
 1.  Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein
@@ -15665,36 +15938,43 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024700000)
 
 
 1.  Erreicht oder überschreitet der Wasserstand den Höchsten
@@ -15744,11 +16024,13 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE024900000)
 
 
 1.  Bei Nacht darf nur ein solches Fahrzeug fahren, das das Fahrwasser und
@@ -15766,84 +16048,100 @@ des ehemaligen Badenburger Wehres oberhalb Gießen (Lahn-km-11,08).
 
 
 #### § 13.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025300000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 13.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE025900000)
 
 § 4.05 Nummer 2 ist von km -11,08 bis km 65,00 für ein Fahrzeug mit
 Maschinenantrieb nicht anzuwenden.
 
 
 #### § 13.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 13.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026400000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 13.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026500000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -15898,9 +16196,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 14 - Schifffahrtsweg Rhein-Kleve
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003200000)
 
 
 #### § 14.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026600000)
 
 Die Vorschriften dieses Kapitels gelten auf dem **Schifffahrtsweg
 Rhein-Kleve** (SRK), bestehend aus
@@ -15917,6 +16217,7 @@ Rhein-Kleve** (SRK), bestehend aus
 
 
 #### § 14.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026700000)
 
 
 1.  Ein Fahrzeug oder ein Schubverband darf jeweils eine Länge von 67,00 m
@@ -15940,6 +16241,7 @@ Rhein-Kleve** (SRK), bestehend aus
 
 
 #### § 14.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026800000)
 
 
 1.  In einen Schleppverband dürfen höchstens drei Anhänge eingestellt
@@ -15958,6 +16260,7 @@ Rhein-Kleve** (SRK), bestehend aus
 
 
 #### § 14.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE026900000)
 
 
 *    *   Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt
@@ -15969,36 +16272,43 @@ Rhein-Kleve** (SRK), bestehend aus
 
 
 #### § 14.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027600000)
 
 Auf dem Griethauser Altrhein ist die Schifffahrt mit Ausnahme des
 Übersetzverkehrs verboten, wenn der Wasserstand des Rheins am Pegel
@@ -16006,21 +16316,25 @@ Emmerich 810 cm erreicht oder überschritten hat.
 
 
 #### § 14.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE027900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028002119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN
@@ -16142,32 +16456,38 @@ Emmerich 810 cm erreicht oder überschritten hat.
 
 
 #### § 14.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028200000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 14.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028600000)
 
 Eine frei fahrende Fähre mit Maschinenantrieb, die im Übersetzverkehr
 keine Längsfahrt durchführt, braucht die Seitenlichter und das
@@ -16177,42 +16497,50 @@ Schifffahrt die Umrisse der Fähre ausreichend erkennen kann.
 
 
 #### § 14.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE028900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 14.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029300000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 14.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029401119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -16262,9 +16590,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 15 - Norddeutsche Kanäle
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003300000)
 
 
 #### § 15.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029502305)
 
 Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen
 Kanälen**. Hierzu gehören im Sinne dieses Kapitels
@@ -16375,6 +16705,7 @@ Kanälen**. Hierzu gehören im Sinne dieses Kapitels
 
 
 #### § 15.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029608119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen und
@@ -18824,6 +19155,7 @@ Kanälen**. Hierzu gehören im Sinne dieses Kapitels
 
 
 #### § 15.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029701305)
 
 
 1.  Auf dem **Dortmund-Ems-Kanal** nördlich Bergeshövede einschließlich
@@ -18879,6 +19211,7 @@ Kanälen**. Hierzu gehören im Sinne dieses Kapitels
 
 
 #### § 15.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029801305)
 
 
 *    *
@@ -19223,6 +19556,7 @@ Kanälen**. Hierzu gehören im Sinne dieses Kapitels
 
 
 #### § 15.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE029900000)
 
 Als Bergfahrt gilt
 
@@ -19325,6 +19659,7 @@ Als Bergfahrt gilt
 
 
 #### § 15.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030002119)
 
 
 1.  Beim Begegnen müssen Fahrzeuge und Verbände abweichend von den §§ 6.04
@@ -19844,6 +20179,7 @@ Als Bergfahrt gilt
 
 
 #### § 15.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030101305)
 
 
 1.  Das Überholen ist verboten.
@@ -19941,17 +20277,20 @@ Als Bergfahrt gilt
 
 
 #### § 15.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030200000)
 
 Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer
 und Bauwerke ausgeführt werden kann.
 
 
 #### § 15.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030400000)
 
 
 1.  Einem Kleinfahrzeug ist das Stillliegen an einer Liegestelle ohne
@@ -19981,26 +20320,31 @@ und Bauwerke ausgeführt werden kann.
 
 
 #### § 15.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE030902119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder Verbandes, das oder der dem ADN
@@ -20127,6 +20471,7 @@ und Bauwerke ausgeführt werden kann.
 
 
 #### § 15.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031002119)
 
 
 *    *   1.
@@ -20422,12 +20767,14 @@ und Bauwerke ausgeführt werden kann.
 
 
 #### § 15.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031100000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 15.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031202119)
 
 
 1.  An der Hase-Hubbrücke in Meppen werden die Signallichter nach § 6.26
@@ -20487,12 +20834,14 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 15.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031300000)
 
 Bei Wasserständen von mehr als 500 cm am Elbpegel der Schleuse Parey
 wird der Schleusenbetrieb eingestellt.
 
 
 #### § 15.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031400000)
 
 Das Segeln, ausgenommen auf den Wasserstraßen **Großer Wendsee** und
 **Kleiner Wendsee-Wusterwitzer See**, ist verboten. Die zuständige
@@ -20501,6 +20850,7 @@ Leichtigkeit des Verkehrs dadurch nicht beeinträchtigt wird.
 
 
 #### § 15.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031500000)
 
 
 1.  Die Abstände zwischen dem Topplicht des Fahrzeugs an der Spitze eines
@@ -20517,11 +20867,13 @@ Leichtigkeit des Verkehrs dadurch nicht beeinträchtigt wird.
 
 
 #### § 15.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031601305)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031700000)
 
 Auf dem **Dortmund-Ems-Kanal** vom Hafen Dortmund (km 1,44) bis
 Papenburg (km 225,82) einschließlich **Hase** und **Ems** gilt § 4.05
@@ -20532,11 +20884,13 @@ Verkehrs nicht beeinträchtigt wird.
 
 
 #### § 15.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 15.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE031900000)
 
 Ein Fahrzeug, ausgenommen ein Kleinfahrzeug, darf
 
@@ -20553,6 +20907,7 @@ nur nach Freigabe durch die Schleusenaufsicht befahren.
 
 
 #### § 15.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032000000)
 
 
 1.  Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt
@@ -20576,6 +20931,7 @@ nur nach Freigabe durch die Schleusenaufsicht befahren.
 
 
 #### § 15.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032100000)
 
 Das Befahren der Altkanäle **Ems-Hase-Kanal, Hanekenfähr und Meppen,**
 der **Ems** von Hanekenfähr bis Meppen, der **Hase** oberhalb der
@@ -20586,12 +20942,14 @@ für ein Kleinfahrzeug.
 
 
 #### § 15.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032200000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 15.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032306119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -20770,15 +21128,18 @@ Verhaltenspflichten des Schiffsführers,
 
 
 #### § 15.30 Schließung des Sperrtors bei Artlenburg (Elbe-Seitenkanal)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032400000)
 
 Das Sperrtor bei Artlenburg wird geschlossen, wenn der Wasserstand der
 Elbe am Pegel Hohnstorf 840 cm erreicht oder überschritten hat.
 
 
 ### Kapitel 16 - Wesergebiet
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003400000)
 
 
 #### § 16.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032502305)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -20821,6 +21182,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 16.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032602119)
 
 Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und
 Abladetiefen nicht überschreiten:
@@ -21130,6 +21492,7 @@ Abladetiefen nicht überschreiten:
 
 
 #### § 16.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032700000)
 
 Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen
 eines beschädigten Fahrzeugs, zu einem kurzen Verholen oder mit
@@ -21139,6 +21502,7 @@ Gesamtbreite der gekuppelten Fahrzeuge 20,00 m nicht überschreitet.
 
 
 #### § 16.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032802119)
 
 
 *    *   1.
@@ -21267,12 +21631,14 @@ Gesamtbreite der gekuppelten Fahrzeuge 20,00 m nicht überschreitet.
 
 
 #### § 16.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE032900000)
 
 Als Bergfahrt gilt auf dem **Verbindungskanal zur Leine** die Fahrt in
 Richtung Stichkanal Hannover-Linden.
 
 
 #### § 16.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033000000)
 
 Auf dem Verbindungskanal zur Leine müssen beim Begegnen Fahrzeuge oder
 Verbände abweichend von den §§ 6.04 und 6.05 Backbord an Backbord
@@ -21281,6 +21647,7 @@ Fahrwasser bleiben unberührt.
 
 
 #### § 16.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033100000)
 
 
 1.  Das Überholen auf dem **Verbindungskanal zur Leine** ist verboten.
@@ -21310,16 +21677,19 @@ Fahrwasser bleiben unberührt.
 
 
 #### § 16.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033400000)
 
 Die nach § 3.23 vorgeschriebene Bezeichnung braucht von einer
 Landungsbrücke der Fahrgastschifffahrt nicht geführt zu werden, wenn
@@ -21327,6 +21697,7 @@ sich diese außerhalb der Fahrrinne befindet.
 
 
 #### § 16.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033501305)
 
 
 1.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke I an
@@ -21557,6 +21928,7 @@ sich diese außerhalb der Fahrrinne befindet.
 
 
 #### § 16.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033600000)
 
 Bei anhaltendem Treibeis muss ein Fahrzeug einen Schutzhafen
 aufsuchen. Auf der **Weser** und auf der **Aller** darf auch der
@@ -21567,16 +21939,19 @@ zuständigen Behörde gestattet.
 
 
 #### § 16.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE033902119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der
@@ -21694,6 +22069,7 @@ zuständigen Behörde gestattet.
 
 
 #### § 16.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034001305)
 
 Die Durchfahrtshöhe einer Brücke auf der **Mittelweser** und den
 dazugehörigen Schleusenkanälen in den Stauhaltungen Petershagen,
@@ -21708,27 +22084,32 @@ m.
 
 
 #### § 16.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034100000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 16.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034500000)
 
 
 1.  Auf der **Weser** und auf der **Aller** muss ein einzeln fahrendes
@@ -21758,6 +22139,7 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 16.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034600000)
 
 Abweichend von § 6.16 Nummer 1 Satz 2 hat ein von der Weser kommender
 Talfahrer zur Einfahrt zum **Verbindungskanal Süd** zur Weser sowie
@@ -21766,6 +22148,7 @@ einem anderen Fahrzeug. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
 
 #### § 16.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034700000)
 
 § 4.05 Nummer 3 gilt nicht für eine Fähre mit Maschinenantrieb auf der
 **Aller** von Celle (km 0,25) bis zur Allermündung (km 117,17) und auf
@@ -21774,21 +22157,25 @@ Verbindungskanal Süd zur Weser (km 204,47).
 
 
 #### § 16.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE034900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035100000)
 
 Das Befahren der **Werra**, der **Fulda** oberhalb des Waldauer
 Kiesteichs bei Kassel (km 76,78), der **Leine** oberhalb der
@@ -21799,11 +22186,13 @@ Kleinfahrzeug.
 
 
 #### § 16.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 16.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035302119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -21916,9 +22305,11 @@ Kleinfahrzeug.
 
 
 ### Kapitel 17 - Elbe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003500000)
 
 
 #### § 17.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035401126)
 
 Die Vorschriften dieses Kapitels gelten auf der **Elbe** von der
 deutsch-tschechischen Grenze bei Schöna (km 0,00) bis zur oberen
@@ -21926,6 +22317,7 @@ Grenze des Hamburger Hafens bei Oortkaten (km 607,50).
 
 
 #### § 17.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035501126)
 
 
 1.  Ein Fahrzeug, ein Fahrzeug mit Seitenradantrieb oder ein schleppendes
@@ -22421,6 +22813,7 @@ Grenze des Hamburger Hafens bei Oortkaten (km 607,50).
 
 
 #### § 17.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035601119)
 
 
 1.  In einen Schleppverband dürfen
@@ -22466,6 +22859,7 @@ Grenze des Hamburger Hafens bei Oortkaten (km 607,50).
 
 
 #### § 17.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035700000)
 
 Auf der **Elbe** beträgt die Mindestgeschwindigkeit gegenüber dem Ufer
 für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge, in
@@ -22473,36 +22867,43 @@ der Bergfahrt 4 km/h.
 
 
 #### § 17.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE035900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036200000)
 
 (siehe § 17.18 Nummer 6 Satz 3)
 
 
 #### § 17.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036400000)
 
 
 1.  Erreicht oder überschreitet der Wasserstand den Höchsten
@@ -22610,6 +23011,7 @@ der Bergfahrt 4 km/h.
 
 
 #### § 17.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036500000)
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
 muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
@@ -22618,26 +23020,31 @@ aufsuchen.
 
 
 #### § 17.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE036900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037000000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -22669,6 +23076,7 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 17.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037100000)
 
 
 1.  Die **Magdeburger Stromstrecke** von km 324,50 bis km 327,20 ist bei
@@ -22729,21 +23137,25 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 17.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037500000)
 
 
 1.  Bei Annäherung an eine Seilfähre hat ein Fahrzeug, ausgenommen ein
@@ -22773,36 +23185,43 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 17.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037600000)
 
 § 4.05 Nummer 3 gilt auch für eine Seilfähre.
 
 
 #### § 17.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE037900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 17.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038202119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -22905,9 +23324,11 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 ### Kapitel 18 - Ilmenau
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003600000)
 
 
 #### § 18.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038300000)
 
 Die Vorschriften dieses Kapitels gelten auf der **Ilmenau** (Im) von
 der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (Im-km
@@ -22915,6 +23336,7 @@ der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (Im-km
 
 
 #### § 18.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038400000)
 
 Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen nicht
 überschreiten:
@@ -23002,6 +23424,7 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen nicht
 
 
 #### § 18.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038500000)
 
 
 1.  In einen Schleppverband dürfen in der Bergfahrt nur ein Anhang, in der
@@ -23017,68 +23440,81 @@ Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen nicht
 
 
 #### § 18.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038600000)
 
 Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein
 Fahrzeug oder einen Verband 7 km/h.
 
 
 #### § 18.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE038900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039000000)
 
 Ein Fahrzeug von mehr als 15,00 m Länge darf nur an einer durch das
 Tafelzeichen E.8 (Anlage 7) bezeichneten Stelle wenden.
 
 
 #### § 18.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039801305)
 
 Die niedrigste Durchfahrtshöhe unter der ungeöffneten Klappbrücke
 Wittorf beträgt bei einem Wasserstand von 5,00 m am Pegel Wittorf 1,40
@@ -23086,58 +23522,69 @@ m.
 
 
 #### § 18.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE039900000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 18.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040001305)
 
 Die Klappbrücken Wittorf und Bardowick werden nur nach Anmeldung
 geöffnet.
 
 
 #### § 18.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 18.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE040902119)
 
 Das Befahren der **Ilmenau** von der Nordwestkante der Brausebrücke an
 der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km 0,50) ist
@@ -23146,12 +23593,14 @@ zulassen.
 
 
 #### § 18.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041000000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 18.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041100000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -23197,9 +23646,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 19 - Elbe-Lübeck-Kanal und Kanaltrave
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003700000)
 
 
 #### § 19.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041200000)
 
 Die Vorschriften dieses Kapitels gelten auf
 
@@ -23219,6 +23670,7 @@ Die Vorschriften dieses Kapitels gelten auf
 
 
 #### § 19.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041302119)
 
 Ein Fahrzeug oder ein Schubverband darf folgende Abmessungen und
 Abladetiefen nicht überschreiten:
@@ -23396,6 +23848,7 @@ Abladetiefen nicht überschreiten:
 
 
 #### § 19.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041400000)
 
 
 1.  In einen Schleppverband dürfen nur so viele Fahrzeuge eingestellt
@@ -23418,6 +23871,7 @@ Abladetiefen nicht überschreiten:
 
 
 #### § 19.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041502126)
 
 
 *    *   1.
@@ -23465,17 +23919,20 @@ Abladetiefen nicht überschreiten:
 
 
 #### § 19.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041601305)
 
 Als Bergfahrt auf dem **Elbe-Lübeck-Kanal** gilt die Fahrt in Richtung
 Elbe.
 
 
 #### § 19.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041800000)
 
 
 1.  Das Überholen bei Nacht ist verboten.
@@ -23489,17 +23946,20 @@ Elbe.
 
 
 #### § 19.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE041900000)
 
 Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer
 und Bauwerke ausgeführt werden kann.
 
 
 #### § 19.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042100000)
 
 Die nach § 3.20 vorgeschriebene Bezeichnung braucht nicht geführt zu
 werden, wenn das Fahrzeug an einer Liege- oder Umschlagstelle
@@ -23507,31 +23967,37 @@ außerhalb der durchgehenden Fahrrinne stillliegt.
 
 
 #### § 19.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042700000)
 
 
 1.  Die Durchfahrtshöhe unter einer Brücke beträgt zwischen der Schleusen
@@ -23577,22 +24043,26 @@ außerhalb der durchgehenden Fahrrinne stillliegt.
 
 
 #### § 19.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042800000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 19.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE042900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043100000)
 
 Das Segeln ist verboten. Die zuständige Behörde kann auf der
 **Kanaltrave** im Einzelfall Ausnahmen zulassen, soweit die Sicherheit
@@ -23600,47 +24070,56 @@ und Leichtigkeit des Verkehrs dadurch nicht beeinträchtigt wird.
 
 
 #### § 19.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 19.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE043900000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 19.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044000000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -23702,9 +24181,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 20 - Saar
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003800000)
 
 
 #### § 20.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044100000)
 
 Die Vorschriften dieses Kapitels gelten auf der **Saar** (Sa) von der
 Mündung in die Mosel (Sa-km 0,00/Moselkm 200,81) bis zur deutsch-
@@ -23712,6 +24193,7 @@ französischen Grenze bei Saargemünd (lothr. km 64,975 re.U.).
 
 
 #### § 20.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044201124)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -23907,12 +24389,14 @@ französischen Grenze bei Saargemünd (lothr. km 64,975 re.U.).
 
 
 #### § 20.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044300000)
 
 In einen Schleppverband dürfen nur so viele Fahrzeuge eingestellt
 werden, dass er nicht mehr als eine Schleusung benötigt.
 
 
 #### § 20.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044400000)
 
 
 1.  Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein
@@ -23954,11 +24438,13 @@ werden, dass er nicht mehr als eine Schleusung benötigt.
 
 
 #### § 20.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044600000)
 
 
 *    *   1.
@@ -24161,11 +24647,13 @@ werden, dass er nicht mehr als eine Schleusung benötigt.
 
 
 #### § 20.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044800000)
 
 Ein Fahrzeug darf nur wenden, wenn das Manöver ohne Berührung der Ufer
 und der Bauwerke ausgeführt werden kann. Für ein Fahrzeug bis 110,00 m
@@ -24174,17 +24662,20 @@ Länge stehen Wendestellen bei Ensdorf (km 65,34), bei Völklingen (km
 
 
 #### § 20.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE044900000)
 
 Das Ankern ist verboten.
 
 
 #### § 20.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045000000)
 
 Das Stillliegen ist nur an den dafür ausgewiesenen Liegestellen
 zugelassen.
 
 
 #### § 20.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045101119)
 
 
 *    *   1.
@@ -24309,16 +24800,19 @@ zugelassen.
 
 
 #### § 20.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045400000)
 
 Ein Trägerschiffsleichter darf nicht an die Spitze eines
 Schubverbandes gesetzt werden. Die zuständige Behörde kann Ausnahmen
@@ -24326,6 +24820,7 @@ hiervon zulassen.
 
 
 #### § 20.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045501119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder eines Verbandes, das oder der
@@ -24480,6 +24975,7 @@ hiervon zulassen.
 
 
 #### § 20.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045600000)
 
 
 *    *   Die Durchfahrtshöhe unter den Brücken beträgt beim Höchsten
@@ -24514,17 +25010,20 @@ hiervon zulassen.
 
 
 #### § 20.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045700000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 20.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE045900000)
 
 Ein Fahrzeug von nicht mehr als 40,00 m Länge und von nicht mehr als
 6,40 m Breite muss in Kanzem, Serrig, Mettlach und Rehlingen die
@@ -24533,52 +25032,62 @@ andere Weisung erteilen.
 
 
 #### § 20.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 20.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046800000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 20.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE046901119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -24730,9 +25239,11 @@ Verhaltenspflichten des Schiffsführers,
 Spree-Oder-Wasserstraße,
 
 ### Kapitel 21 - Berliner und Brandenburger Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG003900000)
 
 
 #### § 21.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047001305)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -24795,6 +25306,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047103305)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen und
@@ -26644,6 +27156,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047200000)
 
 
 1.  Auf einem Kanal dürfen Fahrzeuge, ausgenommen Kleinfahrzeuge, nur zum
@@ -26668,6 +27181,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047304126)
 
 
 *    *   1.
@@ -26968,6 +27482,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047400000)
 
 
 *    *   Als Bergfahrt gilt
@@ -27121,6 +27636,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047500000)
 
 
 1.  Auf dem **Teltowkanal** ist es in der Fahrwasserenge vom Britzer Kreuz
@@ -27211,6 +27727,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047601305)
 
 
 1.  Das Überholen auf der **Spree-Oder-Wasserstraße**, einem Kanal, einem
@@ -27269,6 +27786,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 21.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047700000)
 
 Ein Fahrgastschiff, das auf der **Spree-Oder-Wasserstraße** im Bereich
 des unteren Vorhafens der Schleuse Mühlendamm (km 17,80) wenden will,
@@ -27278,6 +27796,7 @@ Schleusenvorhafenbereich anzeigen.
 
 
 #### § 21.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047801119)
 
 Auf der **Müggelspree** zwischen km 0,00 und km 11,40 und auf der
 **Spree-Oder-Wasserstraße** zwischen km 24,40 und km 45,11 ist das
@@ -27286,6 +27805,7 @@ Kleinfahrzeug ist.
 
 
 #### § 21.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE047901305)
 
 
 1.  Das Stillliegen an den mit Tafelzeichen E.5, E.6 oder E.7 (Anlage 7)
@@ -27320,36 +27840,43 @@ Kleinfahrzeug ist.
 
 
 #### § 21.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048600000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -27377,6 +27904,7 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 21.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048700000)
 
 
 1.  Ein Fahrzeug mit einer Breite von mehr als 5,05 m darf die Schleuse
@@ -27396,11 +27924,13 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 21.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE048900000)
 
 Das Segeln auf einem Kanal und den nachfolgend bezeichneten Strecken
 
@@ -27426,6 +27956,7 @@ Das Segeln auf einem Kanal und den nachfolgend bezeichneten Strecken
 
 
 #### § 21.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049000000)
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
@@ -27433,6 +27964,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049100000)
 
 
 1.  Auf der **Spree-Oder-Wasserstraße** von oberhalb des Spreekreuzes (km
@@ -27472,6 +28004,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049201126)
 
 
 1.  Abweichend von § 4.05 Nummer 2 darf ein Fahrgastschiff auf
@@ -27509,6 +28042,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049306119)
 
 
 1.  Auf der **Spree-Oder-Wasserstraße** vom Kanzleramtssteg (km 14,10) bis
@@ -27569,11 +28103,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049500000)
 
 
 1.  Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt
@@ -27597,6 +28133,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049602126)
 
 
 1.  Das Befahren der **Müggelspree** (MgS) vom Unterwasser des Wehres
@@ -27670,11 +28207,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 21.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 21.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049804119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -27840,9 +28379,11 @@ Bezeichnung nach § 8.12 führen.
 
 
 ### Kapitel 22 - Untere Havel-Wasserstraße und Havelkanal
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004000000)
 
 
 #### § 22.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE049900000)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -27872,6 +28413,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050000000)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen und
@@ -29196,6 +29738,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050100000)
 
 
 1.  Auf einem Kanal dürfen Fahrzeuge, ausgenommen Kleinfahrzeuge, nur zum
@@ -29215,6 +29758,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050200000)
 
 
 *    *   1.
@@ -29529,6 +30073,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050300000)
 
 
 *    *   Als Bergfahrt gilt
@@ -29616,6 +30161,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050401119)
 
 
 1.  Auf der **Unteren Havel-Wasserstraße** auf den Strecken
@@ -29716,6 +30262,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050500000)
 
 
 1.  Das Überholen auf einem Stichkanal, einem Nebenarm und einem Altarm
@@ -29748,16 +30295,19 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050800000)
 
 
 1.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1
@@ -29773,6 +30323,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 22.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE050900000)
 
 Bei einem Wasserstand von mehr als 200 cm am Unterpegel Rathenow ist
 das Befahren der **Unteren Havel-Wasserstraße** vom Oberwasser der
@@ -29781,21 +30332,25 @@ Mündungsstrecke (km 145,80) bei Nacht verboten.
 
 
 #### § 22.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051302119)
 
 
 1.  Der Schiffsführer eines Fahrzeugs oder Verbandes muss sich vor der
@@ -29842,11 +30397,13 @@ Mündungsstrecke (km 145,80) bei Nacht verboten.
 
 
 #### § 22.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051500000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -29874,17 +30431,20 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 22.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051600000)
 
 Bei erhöhter Wasserführung wird die Schifffahrt an den Staustufen
 Grütz und Garz über die Nadelwehre geführt.
 
 
 #### § 22.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051800000)
 
 Das Segeln auf einem Kanal und auf der Strecke **Untere Havel-
 Wasserstraße**von der Spreemündung (km 0,00) bis zum Pichelsdorfer
@@ -29892,6 +30452,7 @@ Gemünd (km 4,00) ist verboten.
 
 
 #### § 22.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE051900000)
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
@@ -29899,6 +30460,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 22.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052004119)
 
 
 1.[^bjnr000210012bjne052000000_1_BJNR000210012BJNE052004119]
@@ -30018,11 +30580,13 @@ Bezeichnung nach § 8.12 führen.
 [^bjnr000210012bjne052000000_1_BJNR000210012BJNE052004119]: 
 
 #### § 22.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052200000)
 
 
 1.  Ein Kleinfahrzeug muss auf einem Kanal, in einem engen Fahrwasser und
@@ -30059,11 +30623,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 22.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052400000)
 
 
 1.  Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt
@@ -30087,6 +30653,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 22.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052501126)
 
 
 1.  Das Befahren der **Unteren Havel-Wasserstraße** zwischen km 104,20 und
@@ -30148,11 +30715,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 22.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 22.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052702305)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -30326,9 +30895,11 @@ Bezeichnung nach § 8.12 führen.
 
 
 ### Kapitel 23 - Havel-Oder-Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004100000)
 
 
 #### § 23.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052800000)
 
 Die Vorschriften dieses Kapitels gelten auf der **Havel-Oder-
 Wasserstraße** (HOW) von der Spreemündung bei Spandau (HOW-km
@@ -30347,6 +30918,7 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.02 Abmessungen der Fahrzeuge und Verbände, Tauchtiefe, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE052904119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen und
@@ -31421,6 +31993,7 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053000000)
 
 
 1.  Auf einem Kanal dürfen Fahrzeuge, ausgenommen Kleinfahrzeuge, nur zum
@@ -31445,6 +32018,7 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053100000)
 
 
 *    *   1.
@@ -31593,6 +32167,7 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053200000)
 
 
 *    *   Als Bergfahrt gilt
@@ -31679,11 +32254,13 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053400000)
 
 
 1.  Das Überholen ist verboten.
@@ -31716,16 +32293,19 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053700000)
 
 
 1.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1
@@ -31772,6 +32352,7 @@ Verbindungskanal Schwedter Querfahrt (zur Oder).
 
 
 #### § 23.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053800000)
 
 Erreicht oder überschreitet der Wasserstand den Höchsten
 Schifffahrtswasserstand (HSW) von 660 cm an dem Richtpegel
@@ -31781,6 +32362,7 @@ die Westoder (km 134,96) verboten.
 
 
 #### § 23.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE053900000)
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
 muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
@@ -31789,26 +32371,31 @@ aufsuchen.
 
 
 #### § 23.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054400000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -31836,17 +32423,20 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 23.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054500000)
 
 Auf dem **Finowkanal** beträgt die lichte Durchfahrtsbreite der
 Schleusenbrücke Schöpfurth (FiK-km 67,56) 5,10 m.
 
 
 #### § 23.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054700000)
 
 Das Segeln auf der **Havel-Oder-Wasserstraße** ist verboten. Dies gilt
 nicht für
@@ -31876,6 +32466,7 @@ nicht für
 
 
 #### § 23.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054800000)
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
@@ -31883,11 +32474,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 23.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE054900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055000000)
 
 
 1.  Abweichend von § 4.05 Nummer 2 darf ein Fahrgastschiff auf
@@ -31918,6 +32511,7 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 23.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055100000)
 
 
 1.  Ein Kleinfahrzeug muss auf einem Kanal, in einem engen Fahrwasser und
@@ -31942,16 +32536,19 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 23.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055401126)
 
 
 1.  Das Befahren des **Nordteils des Nieder Neuendorfer Sees** ab km
@@ -32006,11 +32603,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 23.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 23.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055602305)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -32168,9 +32767,11 @@ Bezeichnung nach § 8.12 führen.
 
 
 ### Kapitel 24 - Obere Havel-Wasserstraße, Müritz-Havel-Wasserstraße und Müritz-Elde-Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004200000)
 
 
 #### § 24.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055702119)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -32231,6 +32832,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 24.02 Abmessungen der Fahrzeuge und Verbände, Tauchtiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055803119)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen und
@@ -32937,6 +33539,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 24.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE055900000)
 
 
 1.  Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen
@@ -32956,6 +33559,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 24.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056001305)
 
 
 *    *   1.
@@ -33090,6 +33694,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 24.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056100000)
 
 
 *    *   Als Bergfahrt gilt
@@ -33204,6 +33809,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 24.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056200000)
 
 Auf den **Zechliner Gewässern** und dem **Dollgowkanal** darf ein
 Fahrzeug mit einer Breite von 5,10 m nur einem Fahrzeug mit einer
@@ -33211,21 +33817,25 @@ Breite von bis zu 4,60 m begegnen.
 
 
 #### § 24.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056600000)
 
 
 1.  Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1
@@ -33242,11 +33852,13 @@ Breite von bis zu 4,60 m begegnen.
 
 
 #### § 24.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056800000)
 
 Droht infolge zunehmender Eisbildung die Einstellung der Schifffahrt,
 muss ein Fahrzeug oder ein Verband nach Hinweis der zuständigen
@@ -33255,26 +33867,31 @@ aufsuchen.
 
 
 #### § 24.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE056900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057300000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -33301,16 +33918,19 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 24.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057602126)
 
 Das Segeln auf einem Kanal und auf den nachfolgend bezeichneten
 Strecken
@@ -33347,6 +33967,7 @@ Strecken
 
 
 #### § 24.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057700000)
 
 Ein Sportfahrzeug, von dem aus Sporttauchen betrieben wird, muss neben
 der nach dieser Verordnung allgemein vorgeschriebenen Bezeichnung die
@@ -33354,11 +33975,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 24.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE057900000)
 
 
 1.  Abweichend von § 4.05 Nummer 2 darf ein Fahrgastschiff auf
@@ -33411,21 +34034,25 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 24.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058303305)
 
 
 1.  Das Befahren des **Bolter Kanals** (Alte-Müritz-Havel-Wasserstraße)
@@ -33451,11 +34078,13 @@ Bezeichnung nach § 8.12 führen.
 
 
 #### § 24.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 24.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058502305)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -33567,9 +34196,11 @@ Bezeichnung nach § 8.12 führen.
 
 
 ### Kapitel 25 - Saale und Saale-Leipzig-Kanal
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004300000)
 
 
 #### § 25.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058600000)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -33585,6 +34216,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 25.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058700000)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -33773,6 +34405,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 25.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058800000)
 
 
 1.  Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen
@@ -33792,6 +34425,7 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 25.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE058900000)
 
 
 *    *   1.
@@ -33861,11 +34495,13 @@ Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 
 #### § 25.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059000000)
 
    (keine besondere Vorschriften)
 
 
 #### § 25.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059100000)
 
 Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als
 67,00 m darf
@@ -33882,26 +34518,31 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als
 
 
 #### § 25.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059200000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059300000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059400000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059500000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059600000)
 
 
 *    *   1.
@@ -34009,31 +34650,37 @@ Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als
 
 
 #### § 25.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059700000)
 
    (keine besondere Vorschriften)
 
 
 #### § 25.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059800000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE059900000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060000000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060100000)
 
 (keine besondere Vorschriften)
 
 
 #### § 25.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060200000)
 
 Abweichend von der Kennzeichnung nach den §§ 6.24 und 6.25 kann eine
 Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
@@ -34061,6 +34708,7 @@ Brückendurchfahrt bei Nacht wie folgt gekennzeichnet sein:
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 25.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060300000)
 
 
 1.  Bei der Fahrt zu Tal müssen bei einem Wasserstand von mehr als
@@ -34088,21 +34736,25 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 25.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060700000)
 
 
 1.  Bei Annäherung an eine Seilfähre muss ein Fahrzeug, ausgenommen ein
@@ -34126,6 +34778,7 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 25.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060800000)
 
 
 1.  Abweichend von § 4.05 Nummer 2 darf ein Fahrgastschiff auf der Saale
@@ -34146,33 +34799,39 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 25.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE060900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 25.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061200000)
 
 Das Befahren des **Saale-Leipzig-Kanals** ist verboten. Satz 1 gilt
 nicht für ein Kleinfahrzeug.
 
 
 #### § 25.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061300000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 25.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061400000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -34261,9 +34920,11 @@ Verhaltenspflichten des Schiffsführers,
 Grenzgewässer Oder,
 
 ### Kapitel 26 - Westoder und Lausitzer Neiße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004400000)
 
 
 #### § 26.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061500000)
 
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
@@ -34291,6 +34952,7 @@ gelegenen Häfen.
 
 
 #### § 26.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061600000)
 
 
 1.  Ein Fahrzeug darf auf der Oder und Westoder eine Länge von 82,00 m und
@@ -34792,6 +35454,7 @@ gelegenen Häfen.
 
 
 #### § 26.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061700000)
 
 
 1.  Ein Schubverband darf andere Fahrzeuge und Schubverbände nur
@@ -34852,6 +35515,7 @@ gelegenen Häfen.
 
 
 #### § 26.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061800000)
 
 
 *    *   1.
@@ -34880,31 +35544,37 @@ gelegenen Häfen.
 
 
 #### § 26.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE061900000)
 
    (keine besonderen Vorschriften)
 
 
 #### § 26.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062400000)
 
 Das Stillliegen zum Zusammenstellen und Auflösen eines Verbandes darf
 an der Einmündung des **Verbindungskanals Hohensaaten Ost** nur von km
@@ -34912,6 +35582,7 @@ an der Einmündung des **Verbindungskanals Hohensaaten Ost** nur von km
 
 
 #### § 26.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062500000)
 
 
 *    *   1.
@@ -35184,6 +35855,7 @@ an der Einmündung des **Verbindungskanals Hohensaaten Ost** nur von km
 
 
 #### § 26.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062600000)
 
    Bei Eisbildung werden die Wasserstraßen oder Teilstrecken der
 Wasserstraßen von der zuständigen Behörde gesperrt. Droht infolge
@@ -35195,6 +35867,7 @@ zuständige Behörde wieder aufgenommen werden.
 
 
 #### § 26.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062701126)
 
 
 1.  Die Nachtschifffahrt auf der Oder darf nur bei bekannt gemachter
@@ -35262,21 +35935,25 @@ zuständige Behörde wieder aufgenommen werden.
 
 
 #### § 26.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE062900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063100000)
 
 Abweichend von § 6.24 Nummer 2 Buchstabe a können zusätzlich zum
 Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
@@ -35284,26 +35961,31 @@ Tafelzeichen A.10 zwei grüne Lichter gezeigt werden.
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 26.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063600000)
 
 
 1.  Ein Talfahrer auf der **Oder**, der in die **Spree-Oder-Wasserstraße**
@@ -35334,6 +36016,7 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 26.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063700000)
 
 
 1.  Ein Fahrzeug mit Maschinenantrieb, ausgenommen ein Kleinfahrzeug, muss
@@ -35349,21 +36032,25 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 26.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE063900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 26.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064100000)
 
 
 1.  Das Befahren der **Lausitzer Neiße** ist verboten. Satz 1 gilt nicht
@@ -35378,12 +36065,14 @@ Durchfahren der Brücken, Sperrwerke,
 
 
 #### § 26.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064200000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 26.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064300000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -35514,9 +36203,11 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 27 - Peene
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004500000)
 
 
 #### § 27.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064400000)
 
 Die Vorschriften dieses Kapitels gelten auf der **Peene** von der
 Einmündung des Malchiner Peenekanals in die Westpeene (km 2,50) bis
@@ -35526,6 +36217,7 @@ Pinnow (km 98,16) einschließlich Kummerower See.
 
 
 #### § 27.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064500000)
 
 
 1.  Ein Fahrzeug oder ein Verband darf folgende Abmessungen nicht
@@ -35705,6 +36397,7 @@ Pinnow (km 98,16) einschließlich Kummerower See.
 
 
 #### § 27.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064600000)
 
 In einen Schleppverband dürfen
 
@@ -35720,6 +36413,7 @@ eingestellt werden.
 
 
 #### § 27.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064700000)
 
 
 *    *   1.
@@ -35771,128 +36465,153 @@ eingestellt werden.
 
 
 #### § 27.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE064900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065000000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE065900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066000000)
 
 (keine besonderen Vorschriften)
 
 Durchfahren der Brücken, Sperrwerke,
 
 #### § 27.18 Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066100000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066200000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066300000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066400000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066500000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066600000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066700000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066800000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE066900000)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.27 Verkehrsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067001305)
 
 (keine besonderen Vorschriften)
 
 
 #### § 27.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067100000)
 
 (keine besonderen Vorschriften)
 
 Verhaltenspflichten des Schiffsführers,
 
 #### § 27.29 der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067200000)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -35934,15 +36653,18 @@ Verhaltenspflichten des Schiffsführers,
 
 
 ### Kapitel 28 - Donau
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004800119)
 
 
 #### § 28.01 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069000119)
 
 Die Vorschriften dieses Kapitels gelten auf der **Donau** zwischen
 Kelheim (Donau-km 2414,72) und Jochenstein (Donau-km 2201,75).
 
 
 #### § 28.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069100119)
 
 
 1.  Ein Fahrzeug darf auf den nachfolgend genannten Streckenabschnitten
@@ -36492,6 +37214,7 @@ Kelheim (Donau-km 2414,72) und Jochenstein (Donau-km 2201,75).
 
 
 #### § 28.03 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069200119)
 
 
 1.  Ein Schleppverband darf auf den nachfolgend genannten
@@ -36659,16 +37382,19 @@ Kelheim (Donau-km 2414,72) und Jochenstein (Donau-km 2201,75).
 
 
 #### § 28.04 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069300119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.05 Bergfahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069400119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.06 Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069500119)
 
 
 1.  Für das Begegnen auf den Strecken
@@ -36725,21 +37451,25 @@ Kelheim (Donau-km 2414,72) und Jochenstein (Donau-km 2201,75).
 
 
 #### § 28.07 Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069600119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.08 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069700119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.09 Ankern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069800119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.10 Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE069900119)
 
 An der Liegestelle Heining (km 2232,36 bis km 2231,62) gelten folgende
 besonderen Regeln zum Stillliegen:
@@ -36768,6 +37498,7 @@ besonderen Regeln zum Stillliegen:
 
 
 #### § 28.11 Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070000119)
 
 
 1.  Hat der Wasserstand den Höchsten Schifffahrtswasserstand (HSW)
@@ -36837,26 +37568,31 @@ besonderen Regeln zum Stillliegen:
 
 
 #### § 28.12 Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070100119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.13 Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070200119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.14 Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070300119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.15 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070400119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070500119)
 
 Die zulässigen Durchfahrtshöhen und -breiten unter festen Brücken und
 die hierfür maßgeblichen Voraussetzungen werden von der zuständigen
@@ -36864,11 +37600,13 @@ Behörde durch schifffahrtspolizeilichen Hinweis bekannt gemacht.
 
 
 #### § 28.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070600119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070700119)
 
 Ein Verband muss seine mitgeführten Einheiten rechtzeitig für die
 Schleusung umgruppieren, soweit dies für eine ordnungsgemäße
@@ -36883,6 +37621,7 @@ nicht gefährdet werden.
 
 
 #### § 28.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070800119)
 
 
 1.  Abweichend von § 6.28 Nummer 1 Satz 1 gehören im Falle der Schleusen
@@ -36963,16 +37702,19 @@ nicht gefährdet werden.
 
 
 #### § 28.20 Segeln
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE070900119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.21 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071000119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.22 Regelungen über den Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071100119)
 
 
 1.  Der Schiffsführer eines zu Tal fahrenden Fahrzeugs und der Führer
@@ -36998,16 +37740,19 @@ nicht gefährdet werden.
 
 
 #### § 28.23 Regelungen zum Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071200119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.24 Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071300119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071400119)
 
 Ein Kleinfahrzeug das mit einer Antriebsmaschine ausgerüstet ist, darf
 die Altwässer, insbesondere Wasserflächen hinter Parallelwerken oder
@@ -37025,22 +37770,26 @@ Leitdämmen, nicht befahren. Satz 1 gilt nicht für
 
 
 #### § 28.26 Schutz der Kanäle und Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071500119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.27 Verkehrsbeschränkungen der Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071600119)
 
 Das Befahren der zwischen Friesheim (km 2363,25) und Kiefenholz (km
 2359,05) ausgewiesenen Fischruhezonen ist verboten.
 
 
 #### § 28.28 Benutzung der Wasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071700119)
 
 (keine besonderen Vorschriften)
 
 
 #### § 28.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071800119)
 
 
 1.  Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und
@@ -37103,6 +37852,7 @@ Das Befahren der zwischen Friesheim (km 2363,25) und Kiefenholz (km
 
 
 #### § 28.30 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE071900119)
 
 Unbeschadet des § 1.01 Nummer 30 und 31, § 3.02 Nummer 2 und § 4.06
 Nummer 1 Satz 1 Buchstabe a dürfen Lichter, Signalleuchten und
@@ -37114,12 +37864,15 @@ Einsenkungsmarken und Tiefgangsanzeiger entsprechend.
 
 
 ## Dritter Teil - Umweltbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004601119)
 
 
 ### Kapitel 29 - Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNG004701119)
 
 
 #### § 29.01 Behandlung von Schiffsabfällen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067301119)
 
 Für die Behandlung von Schiffsabfällen einschließlich deren Einleitung
 oder Einbringung in das Wasser gelten die Bestimmungen des
@@ -37129,6 +37882,7 @@ II S. 1799) sowie die zu seiner Ausführung ergangenen Vorschriften.
 
 
 #### § 29.02 Allgemeine Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067401119)
 
 Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord
 müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine
@@ -37138,6 +37892,7 @@ in die Wasserstraße gelangt.
 
 
 #### § 29.03 Sorgfaltspflicht beim Bunkern
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067503119)
 
 
 1.  Der Schiffsführer hat beim Bunkern von Brenn- und Schmierstoffen dafür
@@ -37196,6 +37951,7 @@ in die Wasserstraße gelangt.
 
 
 #### § 29.04 Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068803119)
 
 
 1.  Die in § 29.03 Nummer 1 Buchstabe a und b und Nummer 2 Buchstabe a und
@@ -37361,6 +38117,7 @@ in die Wasserstraße gelangt.
 
 
 #### § 29.05 Anstrich und Außenreinigung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067602119)
 
 Es ist verboten, die Außenhaut eines Fahrzeugs mit Öl anzustreichen
 oder mit Mitteln zu reinigen, die nicht in das Gewässer gelangen
@@ -37370,6 +38127,7 @@ Unterscheidungsbuchstabe oder -buchstabengruppe des Staates,
 in dem der Heimat- oder Registerort des Fahrzeugs liegt
 
 #### Anlage 1 (nur Hinweis)
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067700000)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 213)
 
@@ -37629,11 +38387,13 @@ in dem der Heimat- oder Registerort des Fahrzeugs liegt
 
 
 #### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067800000)
 
    (ohne Inhalt)
 
 
 #### Anlage 3 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE067902119)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 214 - 232 ;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38626,16 +39386,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 #### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068000000)
 
 (ohne Inhalt)
 
 
 #### Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068100000)
 
 (ohne Inhalt)
 
 
 #### Anlage 6 Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068201126)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 233 - 235 ;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39568,6 +40331,7 @@ werden.
 
 
 #### Anlage 7 Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068303126)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 236 - 255 ;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -41346,6 +42110,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 #### Anlage 8 Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068400000)
 
    (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 256 - 271)
 
@@ -43515,6 +44280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    Daten, die in das Inland AIS Gerät einzugeben sind:
 
 #### Anlage 9 Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068501119)
 
 (Fundstelle: BGBl. I 2016, S. 2959 - 2960)
 
@@ -43673,6 +44439,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 #### Anlage 10 Liste der berauschenden Mittel und Substanzen
+[Direktlink](https://www.gesetze-im-internet.de/binschstro_2012/BJNR000210012.html#BJNR000210012BJNE068902119)
 
 (Fundstelle: BGBl. 2024 I Nr. 286, S. 29 – 30)
 

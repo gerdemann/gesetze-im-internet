@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/shstatg1985aussv/BJNR025270985.html#BJNR025270985BJNE000100326)
 
 Auf Grund des § 6 Abs. 4 des Bundesstatistikgesetzes vom 14. März 1980
 (BGBl. I S. 289) verordnet die Bundesregierung mit Zustimmung des
@@ -27,6 +28,7 @@ Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/shstatg1985aussv/BJNR025270985.html#BJNR025270985BJNE000200326)
 
 Im Jahre 1985 werden folgende nach § 4 des Gesetzes über die
 Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der
@@ -52,12 +54,14 @@ Fassung, geändert durch Artikel 19 des Gesetzes vom 14. März 1980
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/shstatg1985aussv/BJNR025270985.html#BJNR025270985BJNE000300326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 16 des Bundesstatistikgesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/shstatg1985aussv/BJNR025270985.html#BJNR025270985BJNE000400326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

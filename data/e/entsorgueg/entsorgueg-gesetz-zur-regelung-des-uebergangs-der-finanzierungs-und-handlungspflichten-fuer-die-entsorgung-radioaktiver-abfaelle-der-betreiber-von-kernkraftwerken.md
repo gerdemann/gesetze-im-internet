@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
 
 ## § 1 Übergang der Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000101118)
 
 Die folgenden künftigen Verpflichtungen des Betreibers einer in Anhang
 1 des Entsorgungsfondsgesetzes aufgeführten Anlage zur Spaltung von
@@ -47,6 +48,7 @@ wurde:
 
 
 ## § 2 Übergang der Handlungspflicht für die Entsorgung radioaktiver Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000202128)
 
 (1) Radioaktive Abfälle aus dem Betrieb und der Stilllegung, dem
 sicheren Einschluss sowie dem Abbau einer Anlage zur Spaltung von
@@ -169,6 +171,7 @@ alle Daten aus dem elektronischen Buchführungssystem gemäß § 2 Absatz
 
 
 ## § 3 Zwischenlager, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000302119)
 
 (1) Die Betreiber übertragen dem Dritten nach § 2 Absatz 1 Satz 1 zum
 1\. Januar 2019 unentgeltlich die in dem Anhang Tabelle 1 aufgeführten
@@ -269,6 +272,7 @@ dem Entsorgungsfondsgesetz festzusetzen.
 
 
 ## § 4 Erstattung der Aufwendungen des Dritten nach § 2 Absatz 1 Satz 1
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000401119)
 
 (1) Der Fonds nach dem Entsorgungsfondsgesetz erstattet dem Bund die
 Aufwendungen für die Entsorgung radioaktiver Abfälle nach diesem
@@ -286,6 +290,7 @@ Betrag durch Bescheid fest.
 
 
 ## § 5 Zahlungen für entsorgungskostenreduzierende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000600123)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und
@@ -298,6 +303,7 @@ die Zahlungsmodalitäten und der Zahlungsempfänger festzusetzen.
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/entsorg_g/BJNR012000017.html#BJNR012000017BJNE000501128)
 
 (Fundstelle: BGBl. I 2017, 123 - 124)
 

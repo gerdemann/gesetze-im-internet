@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 212-4-2 v. 3.7.2020 I 1547, 1550 (DmMV 2020)
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/dmmv_2023/BJNR0430B0023.html#BJNR0430B0023BJNE000100000)
 
 Die nicht geringe Menge der Stoffe im Sinne des § 2 Absatz 3 des Anti-
 Doping-Gesetzes ist die in der Anlage bestimmte Menge. Die nicht
@@ -26,6 +27,7 @@ angegeben.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/dmmv_2023/BJNR0430B0023.html#BJNR0430B0023BJNE000200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 67, S. 5 - 10)
 

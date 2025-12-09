@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000100000)
 
 Aufgrund des § 10 des Unternehmensbasisdatenregistergesetzes vom 9.
 Juli 2021 (BGBl. I S. 2506), der durch Artikel 1 des Gesetzes vom 22.
@@ -29,6 +30,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Zeitpunkt der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000200000)
 
 (1) Die Datenübermittlung an die Registerbehörde nach § 4 Absatz 2 des
 Unternehmensbasisdatenregistergesetzes erfolgt unverzüglich nach der
@@ -48,6 +50,7 @@ jedoch 24 Stunden nach der Speicherung des jeweiligen Ereignisses.
 
 
 ## § 2 Übermittlung voneinander abweichender Daten
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000300000)
 
 Liegen bei einer datenübermittelnden Stelle nach § 4 Absatz 1 des
 Unternehmensbasisdatenregistergesetzes zu einem Unternehmen nach § 3
@@ -60,6 +63,7 @@ vorliegenden Daten.
 
 
 ## § 3 Änderung von Identifikationsnummern
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000400000)
 
 Bei der Änderung von Identifikationsnummern gemäß § 3 Absatz 3 des
 Unternehmensbasisdatenregistergesetzes sind der Registerbehörde auch
@@ -69,6 +73,7 @@ vorliegen.
 
 
 ## § 4 Technische Anforderungen an die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000500000)
 
 (1) Für die Datenübermittlung an die Registerbehörde nach § 4 Absatz 1
 und 2 des Unternehmensbasisdatenregistergesetzes und die
@@ -100,6 +105,7 @@ Landesjustizverwaltungen vereinbart.
 
 
 ## § 5 Informationssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000600000)
 
 (1) Kommt es während einer Datenübermittlung nach § 4 Absatz 2 des
 Unternehmensbasisdatenregistergesetzes zu Störungen oder
@@ -113,6 +119,7 @@ BSI-Standard 200-2.
 
 
 ## § 6 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000700000)
 
 (1) Bei der Datenübermittlung nach § 4 Absatz 1 und 2 des
 Unternehmensbasisdatenregistergesetzes protokolliert die
@@ -185,6 +192,7 @@ ab, protokolliert die Registerbehörde folgende Daten:
 
 
 ## § 7 Einsichtnahme in die Protokolldaten, Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000800000)
 
 (1) Jedes im Basisregister geführte Unternehmen nach § 3 Absatz 1 des
 Unternehmensbasisdatenregistergesetzes kann in die Daten, die nach § 6
@@ -207,6 +215,7 @@ unberührt.
 
 
 ## § 8 Mitteilung der bundeseinheitlichen Wirtschaftsnummer für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE000900000)
 
 Die bundeseinheitliche Wirtschaftsnummer für Unternehmen nach § 2 des
 Unternehmensbasisdatenregistergesetzes wird vom Bundeszentralamt für
@@ -219,11 +228,13 @@ bundeseinheitliche Wirtschaftsnummer für Unternehmen verwendet wird.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ubregv/BJNR0DC0A0024.html#BJNR0DC0A0024BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

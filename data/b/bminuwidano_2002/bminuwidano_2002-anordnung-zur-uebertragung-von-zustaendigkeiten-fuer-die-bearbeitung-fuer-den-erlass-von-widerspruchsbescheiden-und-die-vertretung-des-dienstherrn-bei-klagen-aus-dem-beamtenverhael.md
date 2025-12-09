@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2002/BJNR351500002.html#BJNR351500002BJNE000100000)
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
 dem Bundesamt für Finanzen die Bearbeitung der Angelegenheiten der
@@ -37,6 +38,7 @@ jeweils geltenden Fassung.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2002/BJNR351500002.html#BJNR351500002BJNE000200000)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -58,6 +60,7 @@ Verwaltungsaktes oder zur Ablehnung des Anspruchs zuständig war.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2002/BJNR351500002.html#BJNR351500002BJNE000300000)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich im
@@ -68,6 +71,7 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2002/BJNR351500002.html#BJNR351500002BJNE000400000)
 
 Diese Anordnung tritt mit Wirkung vom 1. September 2002 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor dem Inkrafttreten
@@ -76,6 +80,7 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano_2002/BJNR351500002.html#BJNR351500002BJNE000500000)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

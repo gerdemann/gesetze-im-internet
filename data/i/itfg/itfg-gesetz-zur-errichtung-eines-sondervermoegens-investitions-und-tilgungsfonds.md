@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000100000)
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung
 „Investitions- und Tilgungsfonds“ errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000201377)
 
 Aus dem Sondervermögen sollen folgende Maßnahmen des Konjunkturpakets
 der Bundesregierung vom 14. Januar 2009 bis zu einem Betrag von 20,4
@@ -53,6 +55,7 @@ Milliarden Euro finanziert werden:
 
 
 ## § 3 Förderfähige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000301377)
 
 (1) Das Gesetz zur Umsetzung von Zukunftsinvestitionen der Kommunen
 und Länder regelt die Einzelheiten der Finanzhilfen an die Länder.
@@ -74,6 +77,7 @@ mehr auszahlen.
 
 
 ## § 4 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000400000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -89,6 +93,7 @@ haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
 
 ## § 5 Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000502128)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
 der Ausgaben des Sondervermögens Kredite bis zur Höhe von 25,2
@@ -101,6 +106,7 @@ Krediten wieder zu.
 
 
 ## § 6 Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000600000)
 
 (1) Das Sondervermögen erhält aus dem Bundeshaushalt mit Wirkung vom
 1\. Januar 2010 jährlich Zuführungen in Höhe der Einnahmen aus dem
@@ -119,6 +125,7 @@ Sondervermögens vollständig getilgt sind.
 
 
 ## § 7 Wirtschaftsplan, Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000700000)
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und
@@ -127,6 +134,7 @@ Bundeshaushaltsordnung anzuwenden.
 
 
 ## § 8 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000800000)
 
 Das Bundesministerium der Finanzen legt jährlich zum Stichtag 31.
 Dezember Rechnung über die Einnahmen und Ausgaben sowie über das
@@ -135,17 +143,20 @@ Vermögen und die Schulden des Sondervermögens. Die Rechnungen sind als
 
 
 ## § 9 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE000900000)
 
 Für die Durchführung des Programms zur Stärkung der Pkw-Nachfrage ist
 das Bundesamt für Wirtschaft und Ausfuhrkontrolle zuständig.
 
 
 ## § 10 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE001000000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 11 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE001100000)
 
 Das Sondervermögen wird mit Tilgung seiner Verbindlichkeiten
 aufgelöst. Die Auflösung ist im Bundesanzeiger bekannt zu geben. Ein
@@ -154,6 +165,7 @@ verbleibendes Vermögen fällt dem Bund zu.
 (zu § 3 Absatz 2)
 
 ## Anlage Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE001201118)
 
 (Fundstelle: BGBl. I 2009, 419 - 427)
 
@@ -2181,6 +2193,7 @@ verbleibendes Vermögen fällt dem Bund zu.
    (Nachtrag)
 
 ## Anlage Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
+[Direktlink](https://www.gesetze-im-internet.de/itfg/BJNR041710009.html#BJNR041710009BJNE001201377)
 
 (Fundstelle: BGBl. I 2009; 1578 - 1579)
 Wirtschaftsplan

@@ -20,21 +20,26 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 und 2 (Änderungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000200000)
 
 
 ## Art 3 Gesetz über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter (Ganztagsfinanzhilfegesetz - GaFinHG)
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000300000)
 
 
 ## (XXXX) Art 4 und 5 (Änderungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000400000)
 
 
 ## Art 6 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000501126)
 
 Die Bundesregierung evaluiert unter Beteiligung der Länder zum 31.
 Dezember 2027 und zum 31. Dezember 2030 die durch dieses Gesetz
@@ -45,6 +50,7 @@ angemessen ausgleichen.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gaf_g/BJNR460200021.html#BJNR460200021BJNE000601126)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 6 am Tag nach
 der Verkündung in Kraft.

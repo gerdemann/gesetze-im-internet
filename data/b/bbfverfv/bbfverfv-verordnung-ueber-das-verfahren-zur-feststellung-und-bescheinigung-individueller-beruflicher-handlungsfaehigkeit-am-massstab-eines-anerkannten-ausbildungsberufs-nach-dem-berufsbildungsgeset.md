@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000100000)
 
 Auf Grund des § 50e des Berufsbildungsgesetzes in der Fassung der
 Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), der durch Artikel 2
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000300000)
 
 Diese Verordnung regelt zur Feststellung und Bescheinigung der
 individuellen beruflichen Handlungsfähigkeit am Maßstab eines
@@ -62,6 +64,7 @@ Berufsbildungsgesetzes:
 
 
 ## § 2 Festlegung von Feststellungsinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000400000)
 
 (1) Für Ausbildungsberufe, bei denen bundesweit mit mehr als 25
 zulässigen Anträgen auf Feststellung der individuellen beruflichen
@@ -156,6 +159,7 @@ Feststellerin oder den Feststeller in geeigneter Weise.
 
 
 ## § 3 Feststellungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000500000)
 
 Feststellungsinstrumente
 
@@ -198,6 +202,7 @@ vorzunehmen.
 
 
 ## § 4 Auswahl der Feststellungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000600000)
 
 Die Feststellerin oder der Feststeller wählt die
 Feststellungsinstrumente für ein konkretes Feststellungsverfahren aus,
@@ -238,6 +243,7 @@ anzuwenden,
 
 
 ## § 5 Verfahren zur Würdigung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000700000)
 
 (1) Die Feststellerin oder der Feststeller stellt anhand der
 Bearbeitung der konkreten Aufgabenstellungen durch die Antragstellerin
@@ -280,6 +286,7 @@ anzuwenden.
 
 
 ## § 6 Verfahren zur Dokumentation der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000800000)
 
 Das Verfahren ist zu dokumentieren. Die Verfahrensdokumentation muss
 enthalten:
@@ -315,6 +322,7 @@ enthalten:
 
 
 ## § 7 Maßgaben zur Ausgestaltung des Zeugnisses bei Feststellung der vollständigen Vergleichbarkeit und des Bescheides bei Feststellung der überwiegenden oder teilweisen Vergleichbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE000900000)
 
 (1) Das Zeugnis nach § 50c Absatz 3 Satz 2 des Berufsbildungsgesetzes
 oder nach § 41c Absatz 3 Satz 2 der Handwerksordnung wird nach Maßgabe
@@ -330,6 +338,7 @@ ausgestaltet.
 
 
 ## § 8 Ergänzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001000000)
 
 (1) Der Antrag auf Durchführung eines Ergänzungsverfahrens nach § 50b
 Absatz 5 des Berufsbildungsgesetzes oder nach § 41b Absatz 5 der
@@ -354,6 +363,7 @@ entsprechend anzuwenden.
 
 
 ## § 9 Erneuter Antrag zum Zweck der Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001100000)
 
 (1) Wird ein Antrag auf Feststellung der vollständigen, der teilweisen
 oder der überwiegenden Vergleichbarkeit der individuellen beruflichen
@@ -375,12 +385,14 @@ entsprechend anzuwenden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001200000)
 
 Diese Verordnung tritt am 8. November 2024 in Kraft.
 
 (zu § 7 Absatz 1)
 
 ## Anlage 1 Zeugnis über die Feststellung der vollständigen Vergleichbarkeit der beruflichen Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 346, S. 6)
 
@@ -426,6 +438,7 @@ Diese Verordnung tritt am 8. November 2024 in Kraft.
 (zu § 7 Absatz 2)
 
 ## Anlage 2 Bescheid über die Feststellung der überwiegenden Vergleichbarkeit der beruflichen Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001400000)
 
 (Fundstelle: BGBl. 2024 I Nr. 346, S. 7)
 
@@ -508,6 +521,7 @@ Diese Verordnung tritt am 8. November 2024 in Kraft.
 (zu § 7 Absatz 3)
 
 ## Anlage 3 Bescheid über die Feststellung der teilweisen Vergleichbarkeit der beruflichen Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbfverfv/BJNR15A0A0024.html#BJNR15A0A0024BJNE001500000)
 
 (Fundstelle: BGBl. 2024 I Nr. 346, S. 8 - 9)
 

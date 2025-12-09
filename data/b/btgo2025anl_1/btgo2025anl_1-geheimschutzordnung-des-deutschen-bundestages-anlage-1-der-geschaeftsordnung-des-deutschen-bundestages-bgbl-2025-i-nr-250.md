@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000100000)
 
 (1) Diese Geheimschutzordnung gilt für Verschlusssachen (VS), die
 innerhalb des Bundestages entstehen oder dem Bundestag, seinen
@@ -37,6 +38,7 @@ Fehldrucke, u. U. auch Löschpapier) ist wie eine VS zu behandeln.
 
 
 ## § 2 Geheimhaltungsgrade
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000200000)
 
 (1) VS werden je nach dem Schutz, dessen sie bedürfen, in folgende
 Geheimhaltungsgrade eingestuft:
@@ -90,6 +92,7 @@ der Verschlusssachenanweisung für die Bundesbehörden.
 
 
 ## § 2a Private Geheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000300000)
 
 (1) Als GEHEIM können auch wichtige Geschäfts-, Betriebs-,
 Erfindungs-, Steuer- oder sonstige private Geheimnisse oder Umstände
@@ -102,6 +105,7 @@ Interesse des Berechtigten abträglich sein könnte.
 
 
 ## § 3 Wahl und Änderung der Geheimhaltungsgrade
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000400000)
 
 (1) Von Geheimeinstufungen ist nur der unbedingt notwendige Gebrauch
 zu machen. VS sind nicht höher einzustufen, als es ihr Inhalt
@@ -127,6 +131,7 @@ c)  weitere vom Präsidenten ermächtigte Stellen.
 
 
 ## § 3a Einsichtnahme in VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000500000)
 
 VS der Geheimhaltungsgrade STRENG GEHEIM oder GEHEIM dürfen nur in den
 Räumen der Geheimregistratur eingesehen werden. Abweichend hiervon
@@ -140,6 +145,7 @@ werden.
 
 
 ## § 4 Kenntnis und Weitergabe einer VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000600000)
 
 (1) Über den Inhalt einer VS des Geheimhaltungsgrades VS-VERTRAULICH
 und höher darf nicht umfassender und früher unterrichtet werden, als
@@ -165,6 +171,7 @@ Geheimhaltung förmlich verpflichtet sind.
 
 
 ## § 5 Ferngespräche über VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000700000)
 
 Über Angelegenheiten des Geheimhaltungsgrades VS-VERTRAULICH oder
 höher dürfen Ferngespräche nur in außergewöhnlichen und dringenden
@@ -175,6 +182,7 @@ ist ein Kontrollanruf erforderlich.
 
 
 ## § 6 Herstellung von Duplikaten
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000800000)
 
 Der Empfänger von VS der Geheimhaltungsgrade VS-VERTRAULICH und höher
 darf weitere Exemplare (Abschriften, Abdrucke, Ablichtungen und
@@ -185,6 +193,7 @@ Original-VS zu behandeln.
 
 
 ## § 7 Behandlung von VS in Ausschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE000900000)
 
 (1) Die Ausschüsse können für einen Beratungsgegenstand oder für Teile
 desselben einen Geheimhaltungsgrad beschließen (§ 69 Absatz 3 der
@@ -234,6 +243,7 @@ nachträglich beschließen.
 
 
 ## § 8 Registrierung und Verwaltung von VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001000000)
 
 (1) Werden VS der Geheimhaltungsgrade VS-VERTRAULICH oder höher dem
 Bundestag, seinen Ausschüssen oder Mitgliedern des Bundestages
@@ -259,6 +269,7 @@ haben.
 
 
 ## § 9 Vernichtung von VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001100000)
 
 VS einschließlich des im Bundestag entstehenden Zwischenmaterials
 sind, wenn sie nicht mehr benötigt werden, der Geheimregistratur
@@ -267,6 +278,7 @@ die Geheimregistratur vernichtet.
 
 
 ## § 10 Weiterleitung von VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001200000)
 
 (1) VS der Geheimhaltungsgrade STRENG GEHEIM und GEHEIM sind bei
 Beförderung innerhalb des Hauses grundsätzlich über die
@@ -285,6 +297,7 @@ Verschlusssachenanweisung für die Bundesbehörden vorgenommen.
 
 
 ## § 11 Mitnahme von VS
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001300000)
 
 (1) Die Mitnahme von VS der Geheimhaltungsgrade STRENG GEHEIM und
 GEHEIM aus den der Verwaltung des Bundestages unterstehenden Räumen
@@ -306,6 +319,7 @@ VERTRAULICH oder höher nicht gelesen und erörtert werden.
 
 
 ## § 12 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001400000)
 
 Jeder Verdacht, jede Wahrnehmung oder jeder Vorfall, der auf
 Anbahnungsversuche fremder Nachrichtendienste oder darauf schließen
@@ -317,6 +331,7 @@ Deutschen Bundestages mitzuteilen.
 
 
 ## § 13 Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_1/BJNR0FA0C0025.html#BJNR0FA0C0025BJNE001500000)
 
 Der Präsident ist ermächtigt, Ausführungsbestimmungen zu erlassen.
 

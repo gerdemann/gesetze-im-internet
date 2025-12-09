@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grabferlpolabkg/BJNR026520994.html#BJNR026520994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grabferlpolabkg/BJNR026520994.html#BJNR026520994BJNE000200307)
 
 Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über Erleichterungen
@@ -36,6 +38,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grabferlpolabkg/BJNR026520994.html#BJNR026520994BJNE000301311)
 
 Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen
 werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung
@@ -56,6 +59,7 @@ erforderlich sind.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grabferlpolabkg/BJNR026520994.html#BJNR026520994BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

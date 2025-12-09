@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000100328)
 
 Mit Zustimmung des Bundesrates verordnen
 auf Grund der §§ 37 und 52 Abs. 1 Satz 1 des Milchgesetzes vom 31.
@@ -48,6 +49,7 @@ Landwirtschaft und Forsten und dem Bundesminister für Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000202119)
 
 (1) Milcherzeugnisse im Sinne dieser Verordnung sind die in der Anlage
 1 bezeichneten Erzeugnisse, soweit sie zur Verwendung als Lebensmittel
@@ -63,6 +65,7 @@ werden.
 
 
 ## § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE002200377)
 
 (1) Milchretentat im Sinne dieser Verordnung ist das Erzeugnis, das
 durch Konzentrieren von Milcheiweiß mit Hilfe der Ultrafiltration von
@@ -74,6 +77,7 @@ Milch oder Magermilch mit Hilfe der Ultrafiltration entsteht.
 
 
 ## § 2 Anforderungen an die Herstellung und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000309311)
 
 (1) Ungezuckerte Kondensmilch der Gruppe VII der Anlage 1 darf nur in
 den Verkehr gebracht werden, wenn sie nach einem Verfahren
@@ -144,11 +148,13 @@ nachteiliger Beeinflussung schützen.
 
 
 ## § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE002002377)
 
 -
 
 
 ## § 3 Allgemeine Kennzeichnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000419119)
 
 (1) Milcherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn
 sie nach den Vorschriften dieser Verordnung gekennzeichnet sind.
@@ -285,6 +291,7 @@ Verzehr an Ort und Stelle abgegeben werden.
 
 
 ## § 4 Besondere Kennzeichnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000510311)
 
 (1) Die Kennzeichnung muß ferner enthalten
 
@@ -364,6 +371,7 @@ enthält.
 
 
 ## § 5 Verwendung von Vitaminen
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000604119)
 
 (1) Bei der Herstellung von Milcherzeugnissen dürfen die in Anlage 2
 aufgeführten Vitamine für die dort bezeichneten Zwecke verwendet
@@ -392,11 +400,13 @@ machen. § 3 Absatz 2 Nummer 3 bleibt unberührt.
 
 
 ## § 5a
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000700328)
 
 -
 
 
 ## § 5b Analysenmethoden
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000800328)
 
 (1) Bei den in Anlage 3 genannten Milcherzeugnissen sind die
 Bestimmungen, die zur Überprüfung der dort angegebenen Merkmale
@@ -408,6 +418,7 @@ anzugeben.
 
 
 ## § 6 Ausländische Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE002103377)
 
 (1) Außerhalb des Geltungsbereichs dieser Verordnung hergestellte
 Milcherzeugnisse (ausländische Milcherzeugnisse), die nicht den
@@ -435,6 +446,7 @@ Irreführung des Verbrauchers nicht ausgeschlossen werden kann.
 
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE000907119)
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -485,6 +497,7 @@ Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7a Besondere Zubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001101308)
 
 § 2 Abs. 2, § 3 Abs. 3 und § 4 Abs. 1 gelten nicht für Zubereitungen
 aus Sauermilch-, Joghurt- und Kefirerzeugnissen, die in Griechenland
@@ -494,6 +507,7 @@ Herstellungsweise und Zusammensetzung entsprechen.
 
 
 ## § 7b Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001210124)
 
 (1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
 entgegenstehen aus
@@ -531,11 +545,13 @@ Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 8 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001502119)
 
 Diese Verordnung tritt am 14. Juli 2026 außer Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001609311)
 
 (Fundstelle des Originaltextes: BGBl. I 1970, 1154 - 1159;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1654,11 +1670,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 1a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001702377)
 
 
 (zu § 5 Absatz 1)
 
 ## Anlage 2 Vitamine
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001803119)
 
 
 1.  Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel
@@ -1691,6 +1709,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5b Abs. 1)
 
 ## Anlage 3 Analysenmethoden
+[Direktlink](https://www.gesetze-im-internet.de/milchv/BJNR011500970.html#BJNR011500970BJNE001903311)
 
 (Fundstelle: BGBl. I 1987, 2452 u. 2453
 bzgl. der einzelnen Änderungen vgl. Fußnote)

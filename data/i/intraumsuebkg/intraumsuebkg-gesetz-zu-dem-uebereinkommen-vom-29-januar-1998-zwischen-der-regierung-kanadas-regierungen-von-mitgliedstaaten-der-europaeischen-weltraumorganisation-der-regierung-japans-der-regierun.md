@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intraums_bkg/BJNR244520998.html#BJNR244520998BJNE000100305)
 
 Dem in Washington am 29. Januar 1998 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen zwischen der Regierung
@@ -34,6 +35,7 @@ Raumstation und dem Briefwechsel der Verhandlungsleiter vom 26. Januar
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intraums_bkg/BJNR244520998.html#BJNR244520998BJNE000200305)
 
 Eine Tätigkeit, die in oder an einem von der Europäischen
 Weltraumorganisation registrierten Element durchgeführt wird, gilt für
@@ -42,6 +44,7 @@ im Geltungsbereich dieses Gesetzes durchgeführt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/intraums_bkg/BJNR244520998.html#BJNR244520998BJNE000300305)
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 Taten, die in oder an einem Flugelement der Raumstation im Weltraum
@@ -61,6 +64,7 @@ begangen werden, wenn
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/intraums_bkg/BJNR244520998.html#BJNR244520998BJNE000400305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

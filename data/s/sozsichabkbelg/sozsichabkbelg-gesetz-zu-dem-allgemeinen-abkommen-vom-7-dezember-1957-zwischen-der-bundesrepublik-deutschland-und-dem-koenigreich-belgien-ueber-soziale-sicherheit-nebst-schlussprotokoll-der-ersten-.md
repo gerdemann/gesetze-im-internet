@@ -23,16 +23,19 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkbelg/BJNR204040963.html#BJNR204040963BJNE000100314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkbelg/BJNR204040963.html#BJNR204040963BJNE000201308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkbelg/BJNR204040963.html#BJNR204040963BJNE000300314)
 
 Der Bundesminister für Arbeit und Sozialordnung kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung des
@@ -54,6 +57,7 @@ b)  den Personen, auf die das Abkommen und die Zusatzvereinbarungen
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkbelg/BJNR204040963.html#BJNR204040963BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -63,6 +67,7 @@ S. 1).
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkbelg/BJNR204040963.html#BJNR204040963BJNE000500314)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.
 

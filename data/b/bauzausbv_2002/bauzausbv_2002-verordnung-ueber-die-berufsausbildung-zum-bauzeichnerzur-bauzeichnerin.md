@@ -26,6 +26,7 @@ Ersetzt durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE001200000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -36,17 +37,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000100000)
 
 Der Ausbildungsberuf Bauzeichner/Bauzeichnerin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000300000)
 
 In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind
 
@@ -70,6 +74,7 @@ vermitteln.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -123,6 +128,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000500000)
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen unter
 Berücksichtigung der Schwerpunkte Architektur, Ingenieurbau sowie
@@ -142,12 +148,14 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000600000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000700000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -156,6 +164,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -197,6 +206,7 @@ berücksichtigen.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE000902119)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -607,6 +617,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE001001301)
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -620,12 +631,14 @@ Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
 
 ## § 11 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE001102128)
 
 Diese Verordnung tritt mit Ablauf des 31. Juli 2026 außer Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+[Direktlink](https://www.gesetze-im-internet.de/bauzausbv_2002/BJNR262200002.html#BJNR262200002BJNE001300000)
 
 (Fundstelle: BGBl. I 2002, 2625 - 2630)
 

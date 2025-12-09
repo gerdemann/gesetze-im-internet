@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung und Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000100310)
 
 Unter dem Namen "Stiftung Denkmal für die ermordeten Juden Europas"
 wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen
@@ -29,6 +30,7 @@ Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000201310)
 
 (1) Zweck der Stiftung ist die Erinnerung an den
 nationalsozialistischen Völkermord an den Juden Europas. Die Stiftung
@@ -59,6 +61,7 @@ im Nationalsozialismus verfolgten Homosexuellen.
 
 
 ## § 3 Stiftungsvermögen, Gemeinnützigkeit
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000300310)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der
 Bundesrepublik Deutschland für die unselbständige Stiftung Denkmal für
@@ -83,6 +86,7 @@ begünstigt werden.
 
 
 ## § 4 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000401310)
 
 Organe der Stiftung sind:
 
@@ -99,6 +103,7 @@ Organe der Stiftung sind:
 
 
 ## § 5 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000502116)
 
 (1) In das Kuratorium entsenden:
 
@@ -180,6 +185,7 @@ Mitglieder abberufen und durch neue Mitglieder ersetzen.
 
 
 ## § 6 Direktor oder Direktorin
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000601310)
 
 (1) Der Direktor oder die Direktorin wird vom Kuratorium für fünf
 Jahre bestellt. Die wiederholte Bestellung ist zulässig. Erster
@@ -191,6 +197,7 @@ Kuratoriums aus und führt die Geschäfte der Stiftung.
 
 
 ## § 7 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000701310)
 
 (1) Der Beirat besteht aus mindestens zwölf Mitgliedern. Sie werden
 vom Kuratorium für vier Jahre bestellt. Wiederholte Bestellung ist
@@ -201,6 +208,7 @@ Direktorin.
 
 
 ## § 8 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000801310)
 
 Die Mitglieder des Kuratoriums und des Beirats sind ehrenamtlich
 tätig. Sie erhalten Reisekostenentschädigung nach dem
@@ -208,12 +216,14 @@ Bundesreisekostengesetz.
 
 
 ## § 9 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE000900310)
 
 Auf die Arbeitnehmer der Stiftung sind die für Arbeitnehmer des Bundes
 jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 
 ## § 10 Haushalt, Rechnungsprüfung, Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE001000310)
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung gelten die Bestimmungen für die
@@ -225,6 +235,7 @@ obersten Bundesbehörde.
 
 
 ## § 11 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE001100310)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von drei Vierteln seiner Mitglieder beschlossen wird. Das
@@ -232,6 +243,7 @@ Gleiche gilt für Änderungen der Satzung.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/juddenkmstiftg/BJNR021200000.html#BJNR021200000BJNE001201310)
 
 Die Stiftung führt ein Dienstsiegel mit einer besonderen Form des
 Bundesadlers und der Umschrift „Stiftung Denkmal für die ermordeten

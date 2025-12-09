@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000100319)
 
 Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des
 deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole
@@ -35,6 +36,7 @@ September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000200319)
 
 (1) Für Kontingentswaren hängt die Zollfreiheit nach § 7 Abs. 1 und 2
 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete
@@ -54,6 +56,7 @@ erforderlich.
 
 
 ## § 2 Bleibende Zollgutverwendung
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000300319)
 
 Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt
 sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
@@ -74,22 +77,26 @@ sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000401140)
 
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000500319)
 
 Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft.
 ...
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000600319)
 
 Der Bundesminister der Finanzen
 
 (zu § 2)
 
 ## Anlage \*Fe Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland \*/
+[Direktlink](https://www.gesetze-im-internet.de/ktgwv_1963/BJNR006340963.html#BJNR006340963BJNE000700319)
 
 (Fundstelle: BGBl. Teil III 600-2-4, S. 36 - 37)
 

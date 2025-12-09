@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000300000)
 
 Der Ausbildungsberuf des Hörakustikers und der Hörakustikerin wird
 nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach
@@ -47,11 +50,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -151,6 +157,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -158,6 +165,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -168,9 +176,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -180,6 +190,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -196,6 +207,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001100000)
 
 Die Zwischenprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -209,6 +221,7 @@ Die Zwischenprüfung findet in folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich Dreidimensionale Abbilder
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001200000)
 
 (1) Im Prüfungsbereich Dreidimensionale Abbilder soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -239,6 +252,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 11 Prüfungsbereich Audiologische Kenndaten
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001300000)
 
 (1) Die Prüfung im Prüfungsbereich Audiologische Kenndaten besteht aus
 zwei Teilen.
@@ -275,9 +289,11 @@ beträgt 60 Minuten.
 
 
 ## Abschnitt 3 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNG000300000)
 
 
 ### § 12 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001400000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -287,6 +303,7 @@ werden.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001500000)
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -303,6 +320,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 
 ### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001600000)
 
 Die Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -325,6 +343,7 @@ Die Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
 
 ### § 15 Prüfungsbereich Audiologische Kenndaten von Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001700000)
 
 (1) Die Prüfung im Prüfungsbereich Audiologische Kenndaten von
 Patientinnen und Patienten besteht aus zwei Teilen.
@@ -379,6 +398,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 16 Prüfungsbereich Dreidimensionale Abbilder des äußeren Ohres und Otoplastiken
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001800000)
 
 (1) Im Prüfungsbereich Dreidimensionale Abbilder des äußeren Ohres und
 Otoplastiken soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -413,6 +433,7 @@ Otoplastiken soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 17 Prüfungsbereich Hörsystemanpassung und Patientenberatung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE001900000)
 
 (1) Die Prüfung im Prüfungsbereich Hörsystemanpassung und
 Patientenberatung besteht aus zwei Teilen.
@@ -495,6 +516,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 18 Prüfungsbereich Servicemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002000000)
 
 (1) Die Prüfung im Prüfungsbereich Servicemaßnahmen besteht aus zwei
 Teilen.
@@ -557,6 +579,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ### § 19 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -570,6 +593,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002201118)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -636,9 +660,11 @@ gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNG000400000)
 
 
 ### § 21 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002300000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -648,6 +674,7 @@ Auszubildende noch keine Zwischenprüfung absolviert hat.
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002400000)
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Hörgeräteakustiker/zur
@@ -656,6 +683,7 @@ Hörgeräteakustikerin vom 12. Mai 1997 (BGBl. I S. 1019) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Hörakustiker und zur Hörakustikerin
+[Direktlink](https://www.gesetze-im-internet.de/h_rakausbv/BJNR101200016.html#BJNR101200016BJNE002500000)
 
 (Fundstelle: BGBl. I 2016, 1017 - 1024)
 

@@ -26,6 +26,7 @@ Geändert durch
 Stand: Ersetzt V 7134-1-2 v. 17.12.1970 I 1748 (BAMKostO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -33,6 +34,7 @@ verordnet das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000201130)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung erhebt in
 ihrem Zuständigkeitsbereich Gebühren und Auslagen für individuell
@@ -69,6 +71,7 @@ erbracht werden, wird durch diese Verordnung nicht berührt.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000301130)
 
 (1) Für gebührenfähige Leistungen erhebt die Bundesanstalt für
 Materialforschung und -prüfung Fest- oder Zeitgebühren gemäß § 11
@@ -94,6 +97,7 @@ Kosten für die Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000401130)
 
 (1) Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung nach Abschnitt 1 des Gebührenverzeichnisses, die vor dem 1.
@@ -138,6 +142,7 @@ Ablauf des 1. Dezember 2025 geltenden Fassung zu erheben.
 
 
 ## § 4 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000500000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -149,6 +154,7 @@ März 2018 (BGBl. I S. 373) geändert worden ist, außer Kraft.
 (zu § 2 Absatz 1 Satz 2)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bambgebv/BJNR171200021.html#BJNR171200021BJNE000602130)
 
 (Fundstelle: BGBl. 2025 I Nr. 294, S. 2 – 4)
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/cmrg/BJNR211190961.html#BJNR211190961BJNE000100308)
 
 Dem in Genf am 19. Mai 1956 unterzeichneten Übereinkommen über den
 Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) nebst
@@ -30,6 +31,7 @@ veröffentlicht.
 
 
 ## Art 1a
+[Direktlink](https://www.gesetze-im-internet.de/cmrg/BJNR211190961.html#BJNR211190961BJNE000200308)
 
 Für Rechtsstreitigkeiten aus einer dem Übereinkommen unterliegenden
 Beförderung ist auch das Gericht zuständig, in dessen Bezirk der Ort
@@ -38,12 +40,14 @@ vorgesehene Ort liegt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/cmrg/BJNR211190961.html#BJNR211190961BJNE000300308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/cmrg/BJNR211190961.html#BJNR211190961BJNE000400308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

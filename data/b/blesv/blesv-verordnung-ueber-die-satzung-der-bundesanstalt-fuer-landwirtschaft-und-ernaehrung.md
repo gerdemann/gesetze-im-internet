@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blesv/BJNR278000994.html#BJNR278000994BJNE000100000)
 
 Auf Grund des § 8 Abs. 1 Satz 1 und 2 Nr. 1 bis 4 des Gesetzes über
 die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
@@ -32,12 +33,14 @@ Forsten im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/blesv/BJNR278000994.html#BJNR278000994BJNE000200000)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung erhält die
 anliegende Satzung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/blesv/BJNR278000994.html#BJNR278000994BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 

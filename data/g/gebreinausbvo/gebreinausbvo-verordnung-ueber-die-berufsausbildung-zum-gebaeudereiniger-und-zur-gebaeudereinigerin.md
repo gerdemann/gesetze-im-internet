@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-73 v. 21.4.1999 I 797 (GebReinigAusbV 1999)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -35,9 +36,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000300000)
 
 Der Ausbildungsberuf des Gebäudereinigers und der Gebäudereinigerin
 wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe
@@ -46,11 +49,13 @@ Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000500000)
 
 Im Sinne dieser Verordnung ist
 
@@ -73,6 +78,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -90,6 +96,7 @@ Kontrollieren ein.
 
 
 ### § 5 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -160,6 +167,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000800000)
 
 (1) Die Berufsausbildung ist während einer Dauer von insgesamt sechs
 Wochen in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu
@@ -204,6 +212,7 @@ in gleicher inhaltlicher und zeitlicher Ausgestaltung wie in der
 
 
 ### § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE000900000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -211,9 +220,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNG000200000)
 
 
 ### § 8 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001000000)
 
 (1) Die Gesellenprüfung nach § 31 Absatz 1 der Handwerksordnung
 besteht aus den Teilen 1 und 2.
@@ -225,6 +236,7 @@ Prüfungsausschüsse fest.
 
 
 ### § 9 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001100000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -241,6 +253,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 10 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001200000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich „Durchführen
 von Gebäudereinigungsarbeiten“ statt.
@@ -319,6 +332,7 @@ schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 
 ### § 11 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001300000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -340,6 +354,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001400000)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -360,6 +375,7 @@ statt:
 
 
 ### § 13 Prüfungsbereich „Anwenden von Grund- und Außenreinigungsverfahren“
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001500000)
 
 (1) Im Prüfungsbereich „Anwenden von Grund- und
 Außenreinigungsverfahren“ soll der Prüfling nachweisen, dass er in der
@@ -428,6 +444,7 @@ situativen Fachgespräche insgesamt höchstens 10 Minuten.
 
 
 ### § 14 Prüfungsbereich „Durchführen von Hygienemaßnahmen“
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001600000)
 
 (1) Im Prüfungsbereich „Durchführen von Hygienemaßnahmen“ soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -487,6 +504,7 @@ die Dokumentation beträgt insgesamt 150 Minuten.
 
 
 ### § 15 Prüfungsbereich „Reinigen, Pflegen und Konservieren von Oberflächen“
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001700000)
 
 (1) Im Prüfungsbereich „Reinigen, Pflegen und Konservieren von
 Oberflächen“ soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -548,6 +566,7 @@ Oberflächen“ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001800000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ soll der
 Prüfling nachweisen, dass er in der Lage ist, allgemeine
@@ -562,6 +581,7 @@ bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -653,9 +673,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNG000300000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE002000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -668,6 +690,7 @@ geltenden Fassung absolviert hat.
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2019 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Gebäudereiniger/zur
@@ -676,6 +699,7 @@ Gebäudereinigerin vom 21. April 1999 (BGBl. I S. 797) außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin
+[Direktlink](https://www.gesetze-im-internet.de/gebreinausbvo/BJNR089200019.html#BJNR089200019BJNE002200000)
 
 (Fundstelle: BGBl. I 2019, 897 - 903)
 

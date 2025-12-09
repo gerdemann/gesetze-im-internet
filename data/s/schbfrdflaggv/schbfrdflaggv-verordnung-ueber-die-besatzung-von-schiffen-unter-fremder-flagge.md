@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000100328)
 
 Auf Grund des durch Artikel 2 Nr. 4 des Gesetzes vom 28. April 1980
 (BGBl. II S. 606) eingefügten § 9b Abs. 1 und des durch Artikel 1 Nr.
@@ -33,6 +34,7 @@ mit dem Bundesminister der Finanzen, verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000201308)
 
 Diese Verordnung gilt für Schiffe unter fremder Flagge, die dem Erwerb
 durch die Seefahrt dienen, wenn sie das Küstenmeer oder die inneren
@@ -43,6 +45,7 @@ Küstenmeer bleiben unberührt.
 
 
 ## § 2 Mindestbesatzung und ihre Mindestbefähigung auf Schiffen unter fremder Flagge
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000300328)
 
 (1) Schiffe unter fremder Flagge müssen mit Kapitänen,
 Schiffsoffizieren und sonstigen Besatzungsmitgliedern so besetzt sein,
@@ -63,6 +66,7 @@ S. 297) entspricht.
 
 
 ## § 3 Sicherheit und Gesundheit von Seeleuten auf Schiffen unter fremder Flagge
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000400328)
 
 Schiffe unter fremder Flagge müssen hinsichtlich Sicherheit und
 Gesundheit der Seeleute zumindest den Anforderungen nach Artikel 2
@@ -72,6 +76,7 @@ Handelsschiffen (BGBl. 1980 II S. 606) entsprechen.
 
 
 ## § 4 Aufgaben der See-Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000501308)
 
 (1) Die See-Berufsgenossenschaft überwacht die Einhaltung der §§ 2 und
 3 nach Maßgabe des § 6 des Gesetzes über die Aufgaben des Bundes auf
@@ -93,6 +98,7 @@ bestimmter Voraussetzungen abhängig ist.
 
 
 ## § 5 Unterrichtung über Mängel und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000603305)
 
 Über Mängel nach den §§ 2 oder 3 sowie über Anordnungen unterrichtet
 die See-Berufsgenossenschaft unverzüglich
@@ -115,6 +121,7 @@ die See-Berufsgenossenschaft unverzüglich
 
 
 ## § 6 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000700328)
 
 Der Eigentümer, der Besitzer und der Schiffsführer eines Schiffes
 unter fremder Flagge sind dafür verantwortlich, daß das Schiff den §§
@@ -123,6 +130,7 @@ erfüllt werden.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000800328)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Gesetzes über
 die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt handelt, wer
@@ -135,21 +143,25 @@ Berufsgenossenschaft übertragen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE000900328)
 
 -
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE001001308)
 
 -
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE001100328)
 
 Diese Verordnung tritt am 28. November 1981 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schbfrdflaggv/BJNR011630981.html#BJNR011630981BJNE001200328)
 
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung

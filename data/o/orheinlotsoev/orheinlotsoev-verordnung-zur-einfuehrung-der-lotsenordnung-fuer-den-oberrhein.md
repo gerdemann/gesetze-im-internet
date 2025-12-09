@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000100325)
 
 Auf Grund des § 3 Abs. 1 Nr. 3 und 4 des Gesetzes über die Aufgaben
 des Bundes auf dem Gebiet der Binnenschiffahrt vom 15. Februar 1956
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesminister der Finanzen - verordnet:
 
 
 ## Art 1 Inkraftsetzung
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000200325)
 
 Die Lotsenordnung für den Rhein zwischen Basel und
 Mannheim/Ludwigshafen wird in der Fassung der Anlage 1 in Kraft
@@ -39,6 +41,7 @@ gesetzt.
 
 
 ## Art 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000301305)
 
 (1) Zuständige Behörde nach den §§ 2, 4 Nummer 1 Satz 1, §§ 6, 7
 Nummer 1, §§ 11, 12, 18, 20 und 21 ist für Bewerber, die zur Zeit der
@@ -76,6 +79,7 @@ Nummer 3 ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ## Art 3 Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000401305)
 
 Prüfungsausschüsse zur Abnahme der Lotsenprüfung (§ 9 Nr. 1) werden
 bei den in Artikel 2 Abs. 1 genannten Wasserstraßen- und
@@ -83,6 +87,7 @@ Schifffahrtsämtern gebildet.
 
 
 ## Art 4 Körperliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000500325)
 
 Die nach § 4 Nr. 1 Buchstabe d erforderliche körperliche Eignung zur
 Führung eines Fahrzeugs, insbesondere der Besitz eines ausreichenden
@@ -91,6 +96,7 @@ amtsärztlichen Zeugnisses nach dem Muster der Anlage 2 nachzuweisen.
 
 
 ## Art 5 Gebühren und Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000601305)
 
 (1) An Gebühren werden erhoben
 1\.  für die Abnahme der Lotsenprüfung
@@ -116,17 +122,20 @@ hat er die hierdurch entstehenden Mehrkosten zu tragen.
 
 
 ## Art 6 Strafbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000700325)
 
 Zuwiderhandlungen gegen diese Verordnung werden nach
 § 366 Nr. 10 des Strafgesetzbuchs bestraft.
 
 
 ## Art 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000801308)
 
 -
 
 
 ## Art 8 Außerkrafttreten von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE000900325)
 
 Es treten außer Kraft
 das Hessische Regulativ, betreffend das Steuermannswesen auf der
@@ -142,21 +151,25 @@ mit allen dazu ergangenen Änderungen und Ergänzungen.
 
 
 ## Art 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE001000325)
 
 Diese Verordnung tritt am 1. Juli 1956 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE001100325)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage 1 Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE001200325)
 
 Text siehe: RheinLotsO; Gliederungsnummer 9503-7
 
 
 ## Anlage 2 Amtsärztliches Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/orheinlots_v/BJNR207030956.html#BJNR207030956BJNE001300325)
 
 Fundstelle des Originaltextes: BGBl. Teil III 9503-7 S. 24 - 25;
 bezgl. der einzelnen Änderungen vgl. Fußnote

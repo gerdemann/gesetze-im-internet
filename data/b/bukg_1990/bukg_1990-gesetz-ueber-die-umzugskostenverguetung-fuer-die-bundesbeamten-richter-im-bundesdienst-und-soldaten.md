@@ -24,6 +24,7 @@ Konstitutiv neugefasst durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001103310)
 
 (1) Dieses Gesetz regelt Art und Umfang der Erstattung von Auslagen
 aus Anlaß der in den §§ 3 und 4 bezeichneten Umzüge und der in § 12
@@ -62,6 +63,7 @@ Betreuungsgemeinschaft in demselben Hause voraus.
 
 
 ## § 2 Anspruch auf Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001203320)
 
 (1) Voraussetzung für den Anspruch auf Umzugskostenvergütung ist die
 schriftliche oder elektronische Zusage. Sie soll gleichzeitig mit der
@@ -83,6 +85,7 @@ verlängern. § 4 Abs. 3 Satz 2 bleibt unberührt.
 
 
 ## § 3 Zusage der Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001303116)
 
 (1) Die Umzugskostenvergütung ist zuzusagen für Umzüge
 
@@ -176,6 +179,7 @@ dienstlichen Gründen notwendig ist.
 
 
 ## § 4 Zusage der Umzugskostenvergütung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE004000310)
 
 (1) Die Umzugskostenvergütung kann in entsprechender Anwendung des § 3
 Abs. 1 Nr. 1 zugesagt werden für Umzüge aus Anlaß
@@ -255,6 +259,7 @@ gleich.
 
 
 ## § 5 Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001502310)
 
 (1) Die Umzugskostenvergütung umfaßt
 
@@ -295,6 +300,7 @@ Bundesbesoldungsgesetzes bezeichneten Einrichtung übertritt.
 
 
 ## § 6 Beförderungsauslagen
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001602310)
 
 (1) Die notwendigen Auslagen für das Befördern des Umzugsgutes von der
 bisherigen zur neuen Wohnung werden erstattet. Liegt die neue Wohnung
@@ -322,6 +328,7 @@ gesundheitlichen Gründen nicht nur vorübergehend bedarf.
 
 
 ## § 7 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001801307)
 
 (1) Die Auslagen für die Reise des Berechtigten und der zur häuslichen
 Gemeinschaft gehörenden Personen (§ 6 Abs. 3 Satz 2 und 3) von der
@@ -358,6 +365,7 @@ bisherigen Wohnung, gemäß Absatz 2 Satz 1 erstattet.
 
 
 ## § 8 Mietentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE001902307)
 
 (1) Miete für die bisherige Wohnung wird bis zu dem Zeitpunkt, zu dem
 das Mietverhältnis frühestens gelöst werden konnte, längstens jedoch
@@ -388,6 +396,7 @@ anderweitig vermietet oder benutzt worden ist.
 
 
 ## § 9 Andere Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002005116)
 
 (1) Die notwendigen ortsüblichen Maklergebühren für die Vermittlung
 einer Mietwohnung und einer Garage oder die entsprechenden Auslagen
@@ -403,6 +412,7 @@ Besoldungsgruppe A 13.
 
 
 ## § 10 Pauschvergütung für sonstige Umzugsauslagen
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002104116)
 
 (1) Berechtigte, die am Tage vor dem Einladen des Umzugsgutes eine
 Wohnung hatten und nach dem Umzug wieder eine Wohnung eingerichtet
@@ -465,6 +475,7 @@ Pauschbetrag nach Absatz 1 Satz 2 Nummer 1 gewährt.
 
 
 ## § 11 Umzugskostenvergütung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002203310)
 
 (1) Ein Beamter mit Wohnung im Sinne des § 10 Abs. 3, dem
 Umzugskostenvergütung für einen Umzug nach § 3 Abs. 1 Nr. 1, 3 oder 4,
@@ -498,6 +509,7 @@ erledigt.
 
 
 ## § 12 Trennungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002306116)
 
 (1) Trennungsgeld wird gewährt
 
@@ -601,6 +613,7 @@ Reisebeihilfen für Heimfahrten erhält.
 
 
 ## § 13 Auslandsumzüge
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002401307)
 
 (1) Auslandsumzüge sind Umzüge zwischen Inland und Ausland sowie im
 Ausland.
@@ -633,6 +646,7 @@ gewährt; § 7 Abs. 2 und 3 findet keine Anwendung.
 
 
 ## § 14 Sondervorschriften für Auslandsumzüge
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002502116)
 
 (1) Das Auswärtige Amt wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat, dem
@@ -797,6 +811,7 @@ rechtfertigen.
 
 
 ## § 15 Dienstortbestimmung, Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002603116)
 
 (1) Die oberste Dienstbehörde wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat benachbarte Gemeinden
@@ -810,6 +825,7 @@ Bundesministerium der Verteidigung.
 
 
 ## § 16 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bukg_1990/BJNR268210990.html#BJNR268210990BJNE002802310)
 
 Ist ein Mietbeitrag vor der Verkündung dieses Gesetzes bewilligt
 worden, wird er nach bisherigem Recht weiter gewährt.

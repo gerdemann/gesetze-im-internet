@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000100000)
 
 Es verordnen
 
@@ -77,9 +78,11 @@ Es verordnen
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000208119)
 
 (1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung
 gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21.
@@ -102,6 +105,7 @@ und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
 
 ### § 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000302124)
 
 (1) Zuständige Behörde im Sinne der Binnenschifffahrtsstraßen-Ordnung
 ist die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und
@@ -119,6 +123,7 @@ Binnenschiffsuntersuchungsordnung.
 
 
 ### § 3 Rechtsverordnung mit vorübergehender Geltungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000402119)
 
 Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis
 nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, und § 3
@@ -138,6 +143,7 @@ Ordnung abweichende schifffahrtspolizeiliche Maßnahmen zu treffen.
 
 
 ### § 4 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000500000)
 
 Liegen die Voraussetzungen der §§ 48 oder 49 des
 Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom
@@ -150,9 +156,11 @@ Auflagen versehen.
 
 
 ## Abschnitt 2 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNG000200000)
 
 
 ### § 5 Bewehrung der allgemeinen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000608119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -530,6 +538,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 6 Bewehrung der Vorschriften über Alkohol und Drogenkonsum
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000701119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -552,6 +561,7 @@ oder fahrlässig
 
 
 ### § 7 Bewehrung der Vorschriften über die Abmessungen der Fahrzeuge oder Verbände, die Fahrrinnentiefe, Abladetiefe, zusätzliche Ausrüstung oder erforderliche Sprechverbindung
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000807119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -810,6 +820,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 8 Bewehrung der Vorschriften über die zugelassenen Höchstgeschwindigkeiten oder die geforderten Mindestgeschwindigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE000903119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -978,6 +989,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 9 Bewehrung der Vorschriften über das Mitführen oder Aushändigen von Urkunden oder Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001004119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1084,6 +1096,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 10 Bewehrung der Vorschriften über die Kennzeichnung der Fahrzeuge oder Ausrüstungsteile
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001102119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1151,6 +1164,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 11 Bewehrung der Vorschriften über die Bezeichnung der Fahrzeuge, Ausrüstungsteile, Lichter oder Sichtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001203119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1545,6 +1559,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 12 Bewehrung der Vorschriften über Schallzeichen, Sprechfunk oder Navigationsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001307119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1762,6 +1777,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 13 Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001403119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1889,6 +1905,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 14 Bewehrung der Vorschriften über das Verhalten von Kleinfahrzeugen im Verkehr oder der Sonderbestimmungen für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001503119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1913,6 +1930,7 @@ dass diese beachtet wird.
 
 
 ### § 15 Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001602119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -1999,6 +2017,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 16 Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Kreuzen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001700000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2013,6 +2032,7 @@ werden.
 
 
 ### § 17 Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Überholen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001800000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2071,6 +2091,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 18 Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Wenden
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE001900000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2118,6 +2139,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 19 Bewehrung der Vorschriften über das Verhalten von Fähren oder gegenüber Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002000000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2147,6 +2169,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 20 Bewehrung der Vorschriften über das Durchfahren der Brücken, Sperrwerke, Wehre, Schleusenvorhäfen, Schleusen, Schleusenbereiche, Schiffshebewerke oder einzelner Stromstrecken
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002106119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2278,6 +2301,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 21 Bewehrung der Vorschriften über die Fahrt bei unsichtigem Wetter
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002201305)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2310,6 +2334,7 @@ besetzt ist.
 
 
 ### § 22 Bewehrung der Vorschriften über die Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002303119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2435,6 +2460,7 @@ werden können.
 
 
 ### § 23 Bewehrung der Vorschriften über das Stillliegen, Ankern oder Festmachen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002402119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2503,6 +2529,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 24 Bewehrung der besonderen Vorschriften über das Fortbewegen von Schubverbänden oder Schubleichtern oder den Einsatz von Trägerschiffsleichtern
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002502126)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2632,6 +2659,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 ### § 25 Bewehrung der besonderen Vorschriften über die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002601126)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2710,6 +2738,7 @@ Sicherheitsrolle nach § 9.07 Nummer 1 unterwiesen wurde.
 
 
 ### § 26 Bewehrung der Vorschriften über die Schifffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002702119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2791,6 +2820,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 27 Bewehrung der Vorschriften über die Schifffahrt bei Eis
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002800000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2823,6 +2853,7 @@ und Geschwindigkeit verantwortliche Person
 
 
 ### § 28 Bewehrung der Vorschriften über die Nachtschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE002900000)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2866,6 +2897,7 @@ Verbindung mit Satz 2, ausgerüstet ist.
 
 
 ### § 29 Bewehrung der Vorschriften über die Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003002119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2908,6 +2940,7 @@ sicherstellt, dass diese eingehalten wird.
 
 
 ### § 30 Bewehrung der Vorschriften über Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003100000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2954,6 +2987,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 31 Bewehrung der Vorschriften über Segelverbote
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003201119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -2998,6 +3032,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 32 Bewehrung der Vorschriften über besondere Verkehrsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003303119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -3024,6 +3059,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 33 Bewehrung der Vorschriften über den Schutz der Anlagen oder Kanäle
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003400000)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -3057,6 +3093,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 34 Bewehrung der Vorschriften über Befahrensverbote
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003503119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -3139,6 +3176,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 35 Bewehrung der Vorschriften über Verkehrsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003603119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -3184,6 +3222,7 @@ oder fahrlässig als Schiffsführer
 
 
 ### § 36 Bewehrung der Vorschriften zum Umweltschutz oder über das Bunkern
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003703119)
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
@@ -3234,9 +3273,11 @@ nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNG000300000)
 
 
 ### § 37 Aufhebung binnenschifffahrtsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003800000)
 
 Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
@@ -3351,15 +3392,18 @@ Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
 
 ### § 38 Änderung binnenschifffahrtsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE003900000)
 
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE004102119)
 
 Diese Verordnung tritt am 1. Februar 2012 in Kraft.
 
 
 ### Anlage
+[Direktlink](https://www.gesetze-im-internet.de/binschstrev_2012/BJNR000200012.html#BJNR000200012BJNE004200000)
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 3 - 271)
 

@@ -22,9 +22,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000100000)
 
 
 ### § 1 Grenzüberschreitende Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000200000)
 
 (1) Im Interesse einer besseren regionalen Zusammenarbeit und einer
 stärkeren Angleichung der Rahmenbedingungen in den europäischen
@@ -117,6 +119,7 @@ sind nur zulässig, wenn
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000300000)
 
 (1) Diese Verordnung ist anzuwenden für
 
@@ -153,6 +156,7 @@ Bundesgebiet bleiben unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000400000)
 
 Im Sinn dieser Verordnung ist
 
@@ -190,12 +194,15 @@ Im Sinn dieser Verordnung ist
 
 
 ## Teil 2 - Verfahren der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeine Ausschreibungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000300000)
 
 
 #### § 4 Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000500000)
 
 (1) Die ausschreibende Stelle führt die nach § 39 in den
 völkerrechtlichen Vereinbarungen festgelegten Ausschreibungen durch
@@ -223,6 +230,7 @@ registrieren.
 
 
 #### § 5 Bekanntmachung der Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000600000)
 
 (1) Die ausschreibende Stelle macht die Ausschreibungen frühestens
 acht Wochen und spätestens fünf Wochen vor dem jeweiligen Gebotstermin
@@ -308,6 +316,7 @@ der völkerrechtlichen Vereinbarung festgelegt ist.
 
 
 #### § 6 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000701128)
 
 (1) Bei den Ausschreibungen dürfen natürliche Personen, rechtsfähige
 Personengesellschaften und juristische Personen Gebote abgeben. Bieter
@@ -394,6 +403,7 @@ welchem Gebot gehören.
 
 
 #### § 7 Ausschreibungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000800000)
 
 (1) Die ausschreibende Stelle darf für die Ausschreibungsverfahren
 Formatvorgaben machen. Gebote müssen diesen Formatvorgaben
@@ -427,6 +437,7 @@ elektronische Verfahren hingewiesen werden.
 
 
 #### § 8 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE000900000)
 
 (1) Bieter müssen bei der ausschreibenden Stelle für ihre Gebote bis
 zum jeweiligen Gebotstermin eine Sicherheit leisten. Durch die
@@ -488,6 +499,7 @@ nicht verzinst.
 
 
 #### § 9 Erstattungen von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001000000)
 
 Die ausschreibende Stelle gibt unverzüglich die hinterlegten
 Sicherheiten für ein bestimmtes Gebot zurück, soweit
@@ -531,6 +543,7 @@ in voller Höhe.
 
 
 #### § 10 Ausschluss von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001101128)
 
 (1) Die ausschreibende Stelle schließt Gebote von dem
 Zuschlagsverfahren aus, wenn
@@ -601,6 +614,7 @@ an Land zugebaut werden sollen und hierfür Gebote abgegeben werden.
 
 
 #### § 11 Ausschluss von Bietern
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001200000)
 
 Die ausschreibende Stelle kann Bieter und deren Gebote von dem
 Zuschlagsverfahren ausschließen, wenn
@@ -632,6 +646,7 @@ Zuschlagsverfahren ausschließen, wenn
 
 
 #### § 12 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001300000)
 
 (1) Die ausschreibende Stelle führt das folgende Zuschlagsverfahren
 durch. Sie öffnet die fristgerecht eingegangenen Gebote nach dem
@@ -674,6 +689,7 @@ Nachweise sowie den Zuschlagswert.
 
 
 #### § 13 Zuordnung der Zuschläge und Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001400000)
 
 (1) Bezuschlagte Gebote in geöffneten nationalen Ausschreibungen sind
 der Bundesrepublik Deutschland zugeordnet und bezuschlagte Gebote in
@@ -709,6 +725,7 @@ anzuwenden.
 
 
 #### § 14 Bekanntgabe des Zuschlags und des Zuschlagswerts
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001500000)
 
 (1) Die ausschreibende Stelle gibt die Zuschläge mit den folgenden
 Angaben auf ihrer Internetseite bekannt:
@@ -757,6 +774,7 @@ die Zuschlagserteilung und den Zuschlagswert.
 
 
 #### § 15 Entwertung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001600000)
 
 (1) Die ausschreibende Stelle entwertet einen Zuschlag,
 
@@ -783,19 +801,23 @@ der zugrundliegende Zuschlag entwertet.
 
 
 ### Abschnitt 2 - Ausschreibungen für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000400000)
 
 
 #### § 16 Höchstwert für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001700000)
 
 Der Höchstwert für Gebote für Windenergieanlagen an Land entspricht
 dem nach § 37b des Erneuerbare-Energien-Gesetzes ermittelten Wert.
 
 
 #### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001801128)
 
 
 
 #### § 18 Änderungen und Erlöschen von Zuschlägen für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE001901128)
 
 (1) Für Änderungen der Genehmigungen für Anlagen im Bundesgebiet nach
 der Erteilung der Zuschläge ist § 36f des Erneuerbare-Energien-
@@ -812,6 +834,7 @@ vorgesehen werden.
 
 
 #### § 19 Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002000000)
 
 Die besonderen Ausschreibungsbestimmungen für
 Bürgerenergiegesellschaften nach § 36g des Erneuerbare-Energien-
@@ -845,21 +868,25 @@ Vereinbarung ausdrücklich festgelegt wird. In diesem Fall ist
 
 
 #### § 20 Anzulegender Wert für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002100000)
 
 Der anzulegende Wert der Windenergieanlage an Land ist der
 Zuschlagswert der ihr zugeteilten Gebotsmenge.
 
 
 #### § 21 Dauer des Zahlungsanspruchs für Windenergieanlagen an Land
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002200000)
 
 Die Dauer des Zahlungsanspruchs für Windenergieanlagen an Land richtet
 sich nach den §§ 25 und 36i des Erneuerbare-Energien-Gesetzes.
 
 
 ### Abschnitt 3 - Ausschreibungen für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000500000)
 
 
 #### § 22 Besondere Zuschlagsbedingungen für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002300000)
 
 (1) Der Höchstwert für Gebote für Solaranlagen richtet sich nach § 37b
 des Erneuerbare-Energien-Gesetzes.
@@ -880,6 +907,7 @@ ausschreibenden Stelle zurückgeben.
 
 
 #### § 23 Zahlungsberechtigungen für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002400000)
 
 (1) Die ausschreibende Stelle stellt auf Antrag eines Bieters, dem
 mindestens ein Zuschlag erteilt worden ist, eine Zahlungsberechtigung
@@ -928,6 +956,7 @@ für Solaranlagen aus.
 
 
 #### § 24 Ausstellung von Zahlungsberechtigungen für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002501128)
 
 (1) Die Zahlungsberechtigung für Solaranlagen darf von der
 ausschreibenden Stelle nur ausgestellt werden, wenn
@@ -1043,21 +1072,25 @@ anzuwenden.
 
 
 #### § 25 Anzulegender Wert für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002600000)
 
 Der anzulegende Wert der Solaranlage ist der Zuschlagswert der ihr
 zugeteilten Gebotsmenge.
 
 
 #### § 26 Dauer des Zahlungsanspruchs für Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002700000)
 
 Die Dauer des Zahlungsanspruchs für Solaranlagen richtet sich nach §
 25 des Erneuerbare-EnergienGesetzes.
 
 
 ## Teil 3 - Zahlungen von Marktprämien nach dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000600000)
 
 
 ### § 27 Zahlungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002801118)
 
 (1) Betreiber von Solaranlagen und Windenergieanlagen an Land im
 Bundesgebiet oder im Staatsgebiet eines Kooperationsstaates mit einem
@@ -1116,6 +1149,7 @@ Zahlungsansprüche nach dem Erneuerbare-Energien-Gesetz geltend machen.
 
 
 ### § 28 Überprüfung der Voraussetzungen des Zahlungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE002900000)
 
 Die Überprüfung der Voraussetzungen des Zahlungsanspruchs nach § 27
 für Betreiber von Solaranlagen und Windenergieanlagen an Land im
@@ -1146,6 +1180,7 @@ ein Netz im Bundesgebiet haben, erfolgt durch
 
 
 ### § 29 Ausgleichsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003000000)
 
 Für Zahlungen nach § 27, die aufgrund eines Zuschlags oder einer
 Zahlungsberechtigung nach dieser Verordnung geleistet werden, sind die
@@ -1159,9 +1194,11 @@ Verordnung.
 
 
 ## Teil 4 - Pönalen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000700000)
 
 
 ### § 30 Pönalen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003100000)
 
 (1) Bei Geboten für Windenergieanlagen an Land müssen Bieter eine
 Pönale leisten,
@@ -1259,6 +1296,7 @@ der Pönalen erforderliche Angaben mit:
 
 
 ### § 31 Pflichten der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003200000)
 
 Die Übertragungsnetzbetreiber müssen Pönalen der Bieter nach dieser
 Verordnung als Einnahmen nach § 3 Absatz 3 der Erneuerbare-Energien-
@@ -1269,9 +1307,11 @@ Stelle unverzüglich mitteilen.
 
 
 ## Teil 5 - Die ausschreibende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000800000)
 
 
 ### § 32 Ausschreibende Stelle und ausländische Stelle
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003300000)
 
 (1) Die ausschreibende Stelle ist die Bundesnetzagentur, sofern nach §
 39 in der völkerrechtlichen Vereinbarung keine andere öffentliche oder
@@ -1298,6 +1338,7 @@ oder widerrufen.
 
 
 ### § 33 Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003400000)
 
 Die ausschreibende Stelle muss auf ihrer Internetseite spätestens zum
 letzten Kalendertag des auf die öffentliche Bekanntgabe des letzten
@@ -1325,6 +1366,7 @@ Daten veröffentlichen:
 
 
 ### § 34 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003500000)
 
 (1) Die ausschreibende Stelle muss unverzüglich nach Abschluss des
 Zuschlagsverfahrens nach § 12 den Bietern die Gründe für den
@@ -1371,6 +1413,7 @@ Geltendmachung der Pönale erforderlichen Angaben mitteilen:
 
 
 ### § 35 Vorgaben und Maßnahmen der ausschreibenden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003600000)
 
 (1) Die Bundesnetzagentur darf im Rahmen ihrer Zuständigkeit durch
 Allgemeinverfügung unter Beachtung der Regelungen des Erneuerbare-
@@ -1392,6 +1435,7 @@ Bundesamtes für Sicherheit in der Informationstechnik treffen.
 
 
 ### § 36 Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003700000)
 
 Die Bundesnetzagentur darf im Rahmen dieser Verordnung Festlegungen
 nach § 88a Absatz 3 Nummer 1 des Erneuerbare-Energien-Gesetzes in
@@ -1420,9 +1464,11 @@ Abstimmung mit dem Kooperationsstaat treffen:
 
 
 ## Teil 6 - Bestimmungen für Anlagen im Bundesgebiet, die von einem Kooperationsstaat gefördert werden
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG000900000)
 
 
 ### § 37 Geöffnete ausländische Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003801128)
 
 Für Strom aus Anlagen zur Erzeugung von Strom aus erneuerbaren
 Energien darf eine Zahlung nach dem geöffneten Fördersystem eines
@@ -1438,6 +1484,7 @@ erfolgen.
 
 
 ### § 38 Anlagen im Bundesgebiet, die eine Förderung von einem Kooperationsstaat erhalten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE003901118)
 
 (1) Für Strom aus Solaranlagen oder Windenergieanlagen an Land im
 Bundesgebiet besteht gegen einen Netzbetreiber kein Anspruch auf eine
@@ -1507,9 +1554,11 @@ Zahlungsanspruchs zur Verfügung.
 
 
 ## Teil 7 - Völkerrechtliche Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG001000000)
 
 
 ### § 39 Inhalt der völkerrechtlichen Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004001118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann in einer
 völkerrechtlichen Vereinbarung mit anderen Mitgliedstaaten der
@@ -1752,9 +1801,11 @@ die nationalen Gesamtziele nach Artikel 3 Absatz 2 der Richtlinie
 
 
 ## Teil 8 - Datenschutz, Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNG001100000)
 
 
 ### § 40 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004100000)
 
 (1) Dem Bundesministerium für Wirtschaft und Energie, dem
 Umweltbundesamt und der für die Ausschreibung zuständigen Stelle im
@@ -1772,6 +1823,7 @@ Gesetz erforderlich ist.
 
 
 ### § 41 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004200000)
 
 Die aufgrund dieser Verordnung gespeicherten Daten sind unverzüglich
 zu löschen, wenn sie für die Wahrnehmung der Aufgaben nach dieser
@@ -1779,6 +1831,7 @@ Verordnung nicht mehr erforderlich sind.
 
 
 ### § 42 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004300000)
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine
 Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten,
@@ -1806,6 +1859,7 @@ befinden.
 
 
 ### § 43 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004400000)
 
 Für Strom aus Solaranlagen, denen eine Zahlungsberechtigung auf der
 Grundlage eines Zuschlags, der vor dem 16. August 2017 erteilt worden
@@ -1816,6 +1870,7 @@ Verordnung anzuwenden.
 (zu § 27 Absatz 1)
 
 ### Anlage Höhe der Marktprämie für Strom aus Solaranlagen und Windenergieanlagen an Land, die Strom in ein Netz außerhalb der Preiszone der Bundesrepublik Deutschland einspeisen
+[Direktlink](https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html#BJNR310210017BJNE004600000)
 
 (Fundstelle: BGBl. I 2017, 3117)
 

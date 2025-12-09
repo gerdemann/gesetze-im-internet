@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fgnv/BJNR009300003.html#BJNR009300003BJNE000100000)
 
 Auf Grund des § 35a Abs. 1 Satz 1 Nr. 2 des Fünften Buches
 Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des
@@ -31,6 +32,7 @@ im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fgnv/BJNR009300003.html#BJNR009300003BJNE000200000)
 
 Die in der Anlage Teil 1 aufgeführte Arzneimittel-Festbetragsgruppe
 wird gemäß § 35a Abs. 3 Satz 1 Nr. 2 des Fünften Buches
@@ -48,6 +50,7 @@ der jeweiligen Gruppenbeschreibung erfasst werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fgnv/BJNR009300003.html#BJNR009300003BJNE000300000)
 
 Die nach § 1 Satz 2 festgesetzten Festbeträge sowie die nach § 1 Satz
 3 errechneten Festbeträge sind an den nächsten, sich aus den §§ 2 und
@@ -59,6 +62,7 @@ Apothekenabgabepreisen gilt der höhere Preis.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fgnv/BJNR009300003.html#BJNR009300003BJNE000400000)
 
 (1) Diese Verordnung tritt am 1. März 2003 in Kraft.
 
@@ -66,6 +70,7 @@ Apothekenabgabepreisen gilt der höhere Preis.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/fgnv/BJNR009300003.html#BJNR009300003BJNE000500000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 94 - 95
 

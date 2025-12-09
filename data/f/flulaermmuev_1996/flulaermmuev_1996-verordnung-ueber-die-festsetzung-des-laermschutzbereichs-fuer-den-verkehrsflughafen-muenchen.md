@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000100305)
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
 30\. März 1971 (BGBl. I S. 282), der gemäß Artikel 3 Abs. 1 der
@@ -29,6 +30,7 @@ Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000200305)
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
 erheblichen Belästigungen durch Fluglärm in der Umgebung des
@@ -37,6 +39,7 @@ festgesetzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000300305)
 
 Der Lärmschutzbereich wird nach Anlage 1 bestimmt durch die
 interpolierten Verbindungslinien zwischen den Kurvenpunkten, soweit
@@ -44,6 +47,7 @@ diese Linien außerhalb des Flugplatzgeländes verlaufen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000400305)
 
 (1) Liegt eine bauliche Anlage zu einem Teil im Lärmschutzbereich, so
 gilt sie als ganz im Lärmschutzbereich gelegen. Liegt eine bauliche
@@ -55,6 +59,7 @@ entsprechend anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000500305)
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
 Karte im Maßstab 1:50.000 und in Karten im Maßstabe 1:5.000
@@ -67,16 +72,19 @@ gesichert niedergelegt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000600305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000700305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen München)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000800305)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, 1561 - 1565)
 
@@ -4864,6 +4872,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen München)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmm_v_1996/BJNR156000996.html#BJNR156000996BJNE000900305)
 
    Fundstelle des Originaltextes: BGBl. I 1996, 1566 - 1567
 

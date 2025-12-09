@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000200314)
 
 Dem in Wien am 19. Dezember 1967 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über
@@ -35,6 +37,7 @@ Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000300314)
 
 Für die nach diesem Vertrag von der Bundesrepublik Deutschland
 anzuwendenden deutschen Rechtsvorschriften gilt der Flughafen Salzburg
@@ -46,6 +49,7 @@ Vertrages ist in der Anlage zu diesem Gesetz festgelegt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000400314)
 
 Zuständige deutsche Luftfahrtbehörde ist in den Fällen des Artikels 2
 Abs. 2 sowie des Artikels 3 Abs. 2 und 3 des Vertrages das Bayerische
@@ -56,12 +60,14 @@ anwendbaren deutschen Rechtsvorschriften.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
@@ -70,6 +76,7 @@ tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Anlage zum Vertragsgesetz (Artikel 2 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/BJNR200130974.html#BJNR200130974BJNE000700314)
 
 Das Ausmaß des Bauschutzbereichs auf deutschem Hoheitsgebiet nach
 Artikel 2 Satz 3 bestimmt sich nach § 3 der Verordnung des

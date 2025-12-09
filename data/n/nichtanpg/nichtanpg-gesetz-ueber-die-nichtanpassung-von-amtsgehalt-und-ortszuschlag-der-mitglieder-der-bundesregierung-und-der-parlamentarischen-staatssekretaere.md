@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nichtanpg/BJNR039000993.html#BJNR039000993BJNE000100307)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Amtsverhältnisrechtliche Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/nichtanpg/BJNR039000993.html#BJNR039000993BJNE000203160)
 
 (1) Die Mitglieder der Bundesregierung und die Parlamentarischen
 Staatssekretäre des Bundes erhalten ihre gesetzlichen Amtsbezüge in
@@ -59,6 +61,7 @@ I S. 1552) nicht teil.
 
 
 ## § 1a Fortgeltung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/nichtanpg/BJNR039000993.html#BJNR039000993BJNE000401377)
 
 Artikel 3 des Gesetzes zur Reform des öffentlichen Dienstrechts vom
 24\. Februar 1997 (BGBl. I S. 322) gilt nicht für die Amtsbezüge der
@@ -79,6 +82,7 @@ des § 1 nicht unterfallenden Versorgungsbezüge teil; im übrigen bleibt
 
 
 ## § 1b Bezugsgröße B 11
+[Direktlink](https://www.gesetze-im-internet.de/nichtanpg/BJNR039000993.html#BJNR039000993BJNE000502160)
 
 Die Mitglieder der Bundesregierung und die Parlamentarischen
 Staatssekretäre des Bundes und die Empfänger laufender
@@ -91,6 +95,7 @@ Bundesbeamten der Besoldungsgruppe B 11 teil.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nichtanpg/BJNR039000993.html#BJNR039000993BJNE000300307)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000100000)
 
 Dieses Gesetz gilt für Beamtinnen, Beamte, Soldatinnen, Soldaten,
 Angestellte, Arbeiterinnen und Arbeiter des Geschäftsbereichs des
@@ -31,18 +32,21 @@ die Bundeswehr eine Kooperation eingegangen ist.
 
 
 ## § 2 Aktives Wahlrecht zum Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000200000)
 
 Beamtinnen, Beamte, Angestellte, Arbeiterinnen und Arbeiter bleiben
 zum Personalrat ihrer Dienststelle wahlberechtigt.
 
 
 ## § 3 Passives Wahlrecht zum Personalrat
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000301377)
 
 Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 15 des
 Bundespersonalvertretungsgesetzes.
 
 
 ## § 4 Sondervorschriften für Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000401123)
 
 (1) Die Wahlberechtigung und die Wählbarkeit von Soldatinnen und
 Soldaten, die einer Dienststelle oder Einrichtung angehören, für die
@@ -59,6 +63,7 @@ Vertrauensperson nicht wählbar.
 
 
 ## § 5 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000500000)
 
 (1) Die Tätigkeit in einem Kooperationsbetrieb lässt die
 Rechtsstellung von schwerbehinderten Menschen bei der Anwendung des
@@ -71,6 +76,7 @@ Kooperationsbetrieb als Beschäftigte.
 
 
 ## § 6 Geltung arbeitsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000600000)
 
 (1) Die in § 1 genannten Personen gelten für die Anwendung der
 Vorschriften über die Vertretung der Arbeitnehmerinnen und
@@ -93,6 +99,7 @@ ist, treffen diese Verpflichtungen deren jeweilige Dienststelle.
 
 
 ## § 7 Übergangsmandat
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000700000)
 
 (1) Der Personalrat der zuweisenden Dienststelle nimmt in dem
 Kooperationsbetrieb die Aufgaben eines Betriebsrats nach dem
@@ -122,6 +129,7 @@ Schwerbehindertenvertretungen.
 
 
 ## § 8 Weitergeltung von Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000800000)
 
 Die in den Dienststellen im Zeitpunkt der Zuweisung geltenden
 Dienstvereinbarungen gelten im Kooperationsbetrieb für längstens zwölf
@@ -130,6 +138,7 @@ andere Regelungen ersetzt werden.
 
 
 ## § 9 Anhängige Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bwkoopg/BJNR202710004.html#BJNR202710004BJNE000900000)
 
 Auf förmlich eingeleitete Beteiligungsverfahren im Bereich der
 Dienststelle, Verfahren vor der Einigungsstelle beim Bundesministerium

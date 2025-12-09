@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_43/BJNR036100993.html#BJNR036100993BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_43/BJNR036100993.html#BJNR036100993BJNE000201311)
 
 Abweichend von § 53 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung darf
 an Kraftfahrzeugen - ausgenommen Krafträder - und ihren Anhängern eine
@@ -63,6 +65,7 @@ zusätzliche zentrale Bremsleuchte angebaut sein, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_43/BJNR036100993.html#BJNR036100993BJNE000300307)
 
 Diese Verordnung tritt am Tage der Verkündung in Kraft.
 

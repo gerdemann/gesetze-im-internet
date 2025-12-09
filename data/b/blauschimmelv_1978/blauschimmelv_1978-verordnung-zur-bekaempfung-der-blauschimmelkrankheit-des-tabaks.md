@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000100326)
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3, 6, 11 und 15 des
 Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 2.
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000200326)
 
 Verfügungsberechtigte und Besitzer von Tabakpflanzen sind
 verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht
@@ -39,6 +41,7 @@ unverzüglich zu melden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000300326)
 
 Verfügungsberechtigte und Besitzer von Tabakpflanzen sind
 verpflichtet,
@@ -77,12 +80,14 @@ verpflichtet,
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000400326)
 
 Das Züchten und Halten des Blauschimmelpilzes sowie das Arbeiten mit
 diesem Schadorganismus sind verboten.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000501308)
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von
 
@@ -100,6 +105,7 @@ Schadorganismus entsteht.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000603377)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -132,11 +138,13 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000801308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/blauschimmelv_1978/BJNR005020978.html#BJNR005020978BJNE000900326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

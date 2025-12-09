@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000100307)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird ein amtliches Prüf- und
@@ -26,6 +27,7 @@ das in Norwegen eingeführt ist (Anlage 1).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000200307)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht,
 daß das neue Emblem der Europäischen Organisation für Flugsicherung
@@ -34,17 +36,20 @@ Eintragung als Marke ausgeschlossen sind.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000300307)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 13.
 Mai 1996 (BGBl. I S. 747).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000400307)
 
 Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000500307)
 
 (Fundstelle: BGBl I 1996, 1359)
 
@@ -62,6 +67,7 @@ werden.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_96-08/BJNR135800996.html#BJNR135800996BJNE000600307)
 
 (Fundstelle: BGBl. I 1996, 1360)
 

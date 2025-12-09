@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/mindversshbek_2013/BJNR600200013.html#BJNR600200013BJNE000100000)
 
 Gemäß § 9 Absatz 2 der Versicherungsvermittlungsverordnung vom 15. Mai
 2007 (BGBl. I S. 733, 1967), die zuletzt durch Artikel 6 des Gesetzes

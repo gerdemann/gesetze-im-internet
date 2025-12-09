@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000100305)
 
 Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der
 Grundlage von Artikel 1 Abs. 1 des Vertrages zwischen der
@@ -34,6 +35,7 @@ fortgeltendes Recht ist, folgenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000200305)
 
 (1) Die Gemeinde Cunsdorf im Landkreis Greiz (katastermäßig: Gemarkung
 Cunsdorf: künftig Umgliederungsgebiet) wird aus dem Freistaat
@@ -47,6 +49,7 @@ sind aus der Anlage zu diesem Vertrag ersichtlich.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000300305)
 
 (1) Das Umgliederungsgebiet wird im Freistaat Sachsen zunächst in den
 Landkreis Plauen aufgenommen.
@@ -100,6 +103,7 @@ werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000400305)
 
 (1) Das im Umgliederungsgebiet belegene Verwaltungsvermögen von
 Körperschaften des öffentlichen Rechts geht gegen angemessene
@@ -143,6 +147,7 @@ werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000500305)
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst
 innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit
@@ -156,6 +161,7 @@ sämtliche Landesbehörden einschließlich der Gerichte.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000600305)
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Kultus
 und des Thüringer Kultusministeriums sind sich die Vertragsparteien
@@ -190,6 +196,7 @@ und des Thüringer Kultusministeriums sind sich die Vertragsparteien
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000700305)
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für
 Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums
@@ -212,6 +219,7 @@ folgendes einig:
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000800305)
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt
 und Landesentwicklung und des Thüringer Ministeriums für Umwelt und
@@ -242,6 +250,7 @@ Landesplanung sind sich die Vertragsparteien über folgendes einig:
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE000900305)
 
 Die Anlage ist Bestandteil des Vertrages. Ausfertigungen der Anlage
 (Artikel 1 Abs. 3) werden bei dem Landesvermessungsamt Sachsen, bei
@@ -250,6 +259,7 @@ und Plauen aufbewahrt und können von jedermann eingesehen werden.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE001000305)
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden ausgetauscht, sobald der Sächsische Landtag und der Thüringer
@@ -264,6 +274,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th_2/BJNR285500994.html#BJNR285500994BJNE001100305)
 
 (Fundstelle: BGBl. I 1994, 2857)
 

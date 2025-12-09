@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 7402-1-1 v. 2.4.1962 I 206 (AHStatDV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000100000)
 
 Auf Grund des § 18 Nummer 1 und 3 bis 14 des
 Außenhandelsstatistikgesetzes vom 14. Juni 2021 (BGBl. I S. 1751)
@@ -30,9 +31,11 @@ für Wirtschaft und Energie:
 
 
 ## Abschnitt 1 - Anmeldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000300000)
 
 (1) „Durchfuhr“ ist der einfache Verkehr von Waren, die aus dem
 Ausland durch das Erhebungsgebiet unmittelbar wieder in das Ausland
@@ -52,6 +55,7 @@ Warenverkehr innerhalb des Zollgebietes der Europäischen Union von
 
 
 ### § 2 Datenübermittlung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000401128)
 
 (1) Die Zollbehörden übermitteln dem Statistischen Bundesamt alle
 Anmeldungen zu Warenverkehren nach § 10 Absatz 3 des
@@ -146,6 +150,7 @@ frei.
 
 
 ### § 3 Anmeldung von Zolllagerverkehren
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000501128)
 
 (1) Der Import in ein Zolllager oder in eine Freizone, die Entnahme
 aus einem Zolllager oder aus einer Freizone und der Export aus einem
@@ -164,6 +169,7 @@ Land verbracht, ist die Entnahme als Export anzumelden.
 
 
 ### § 4 Veredelungsverkehre
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000601128)
 
 (1) Im Rahmen dieser Verordnung ist
 
@@ -246,6 +252,7 @@ wird, so ist diese Veredelung nicht erneut anzumelden.
 
 
 ### § 5 Befreiung der Anmeldung von Waren zu oder nach der vorübergehenden Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000701128)
 
 (1) Waren zu oder nach der vorübergehenden Verwendung, die die
 Voraussetzungen für die Befreiung nach Anlage 4 Buchstabe c erfüllen,
@@ -263,6 +270,7 @@ erstmalig nicht mehr erfüllt sind.
 
 
 ### § 6 Anmeldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000801128)
 
 (1) Für grenzüberschreitenden Warenverkehr, für den keine oder keine
 vollständige Zollanmeldung bei einer deutschen Zollbehörde abgegeben
@@ -331,6 +339,7 @@ die Delegierte Verordnung (EU) 2021/1704 (ABl. L 339 vom 24.9.2021, S.
 
 
 ### § 7 Verfahren bei statistischen Anmeldungen/Anmeldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE000901128)
 
 (1) Die Anmeldung von Warenverkehren beim Statistischen Bundesamt
 erfolgt elektronisch.
@@ -370,6 +379,7 @@ Außenhandelsstatistikgesetzes sind elektronisch abzugeben.
 
 
 ### § 8 Berichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001001128)
 
 (1) Stellt der Auskunftspflichtige fest, dass Anmeldedaten bereits zum
 Zeitpunkt der Anmeldung fehlerhaft waren, und betrifft der Fehler das
@@ -409,9 +419,11 @@ Berichtigung freiwillig.
 
 
 ## Abschnitt 2 - Nähere Bestimmung zu den Erhebungsmerkmalen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNG000200000)
 
 
 ### § 9 Warenbezeichnung und Warennummer
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001100000)
 
 (1) Das Warenverzeichnis für die Außenhandelsstatistik
 (Warenverzeichnis) besteht aus
@@ -462,6 +474,7 @@ Warenbezeichnung anzugeben.
 
 
 ### § 10 Menge der Ware
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001200000)
 
 (1) „Menge der Ware“ sind die Eigenmasse, die Rohmasse, das
 Reingewicht und die Besondere Maßeinheit.
@@ -484,6 +497,7 @@ andere Maßeinheit für die Menge mehr angegeben werden.
 
 
 ### § 11 Rechnungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001301128)
 
 (1) „Rechnungsbetrag“ ist das in Rechnung gestellte Entgelt in vollen
 Euro pro anmeldepflichtiger Ware ohne Umsatzsteuer. Er entspricht der
@@ -527,6 +541,7 @@ gestellt werden, ist
 
 
 ### § 12 Statistischer Wert
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001401128)
 
 (1) „Statistischer Wert“ ist der Wert der Ware zum Zeitpunkt des
 Grenzübertritts. Bei Kaufgeschäften ist er auf Grundlage des
@@ -660,6 +675,7 @@ des Statistischen Wertes, so ist er unter Beachtung der Absätze 1 bis
 
 
 ### § 13 Lieferbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001500000)
 
 Die Lieferbedingungen eines Warenverkehrs sind in der
 Extrahandelsstatistik mit den Bezeichnungen nach Anhang B Titel II
@@ -668,6 +684,7 @@ Datenelement Nummer 14 01 000 000 der Durchführungsverordnung (EU)
 
 
 ### § 14 Ursprungsland
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001601128)
 
 (1) Bei Waren, die in einem einzigen Land oder Gebiet vollständig
 gewonnen oder hergestellt worden sind, gilt dieses Land oder Gebiet
@@ -695,6 +712,7 @@ Ausnahme des Teils „Verschiedenes“, zu benennen.
 
 
 ### § 15 Versendungsland
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001700000)
 
 (1) „Versendungsland“ ist das Land, aus dem die Waren in das
 Erhebungsgebiet verbracht worden sind. Unberücksichtigt bleiben
@@ -715,6 +733,7 @@ der Durchführungsverordnung (EU) 2020/1470 zu benennen.
 
 
 ### § 16 Bestimmungsland
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001800000)
 
 (1) „Bestimmungsland“ ist das Land, in dem die Ware ge- oder
 verbraucht oder be- oder verarbeitet werden soll. Ist das
@@ -728,6 +747,7 @@ die in der Durchführungsverordnung (EU) 2020/1470 genannt sind.
 
 
 ### § 17 Ursprungsbundesland, Bestimmungsbundesland
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE001900000)
 
 (1) „Ursprungsbundesland“ ist das Bundesland, in dem die Ware
 vollständig gewonnen oder hergestellt worden ist. Bei Waren, die aus
@@ -751,6 +771,7 @@ ist stattdessen die Schlüsselnummer für das Ausland zu benennen.
 
 
 ### § 18 Art des Geschäfts
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002000000)
 
 Die Art des Geschäfts ist mit der Schlüsselnummer nach Anhang 1, Teil
 C, Tabelle 1 der Durchführungsverordnung (EU) 2020/1197 sowie
@@ -762,6 +783,7 @@ geliefert werden.
 
 
 ### § 19 Teilsendungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002101128)
 
 (1) „Teilsendungen“ sind Lieferungen von Komponenten einer zerlegten
 Ware, die aufgrund der Erfordernisse des Handels oder aus
@@ -782,9 +804,11 @@ zusammengefasst bei Lieferung der letzten Teilsendung zu melden.
 
 
 ## Abschnitt 3 - Besondere Waren und Warenbewegungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNG000300000)
 
 
 ### § 20 Schiffe, Luft- und Raumfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002201128)
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -922,6 +946,7 @@ den Wechsel des wirtschaftlichen Eigentums festzustellen.
 
 
 ### § 21 Schiffs- und Luftfahrzeugbedarf
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002301128)
 
 (1) Im Sinne dieser Verordnung sind Schiffs- und Luftfahrzeugbedarf
 
@@ -994,6 +1019,7 @@ Absatz 2.
 
 
 ### § 22 Waren an und von Einrichtungen auf hoher See
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002401128)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -1097,6 +1123,7 @@ verwenden:
 
 
 ### § 23 Meeresprodukte
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002500000)
 
 (1) „Meeresprodukte“ im Sinne dieser Verordnung sind
 Fischereiprodukte, mineralische Stoffe, Bergungsgut und alle anderen
@@ -1135,6 +1162,7 @@ angelandet werden.
 
 
 ### § 24 Strom und Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002600000)
 
 (1) Bei grenzüberschreitenden Lieferungen von elektrischem Strom und
 Erdgas in Leitungen sind jeweils die Menge der Ware, die
@@ -1166,6 +1194,7 @@ zugeordnet:
 
 
 ### § 25 Warenverkehre mit exterritorialen Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002700000)
 
 (1) Diplomatische Vertretungen und Streitkräfte anderer Staaten auf
 deutschem Staatsgebiet gelten als ihrem Entsendestaat angehörig.
@@ -1196,6 +1225,7 @@ Außenhandelsstatistikgesetzes zu verwenden:
 
 
 ### § 26 Warenverkehre mit Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002801128)
 
 (1) Abfälle ohne Wert sind Abfälle, bei denen der Eigentümer für die
 Lieferung der Abfälle kein Entgelt erhält. Die grenzüberschreitenden
@@ -1224,9 +1254,11 @@ Vorschriften anzumelden.
 
 
 ## Abschnitt 4 - Vereinfachungen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNG000400000)
 
 
 ### § 27 Vereinfachte Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE002900000)
 
 (1) Meldepflichtige Importe oder Exporte können unter den in den §§ 28
 bis 32 genannten Voraussetzungen vereinfacht angemeldet werden.
@@ -1270,6 +1302,7 @@ bleiben unberührt.
 
 
 ### § 28 Verwendung von genehmigungspflichtigen Sammelwarennummern
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003000000)
 
 (1) Das Statistische Bundesamt kann eine vereinfachte Anmeldung unter
 Verwendung einer Sammelwarennummer der Kapitel 98 (§ 29) oder Kapitel
@@ -1304,6 +1337,7 @@ diese widerrechtlich verwendet wurden.
 
 
 ### § 29 Vereinfachte Anmeldung von Fabrikationsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003101128)
 
 (1) Im Sinne dieser Vorschrift ist
 
@@ -1390,6 +1424,7 @@ Fabrikationsanlage sowie andere Einzelheiten der Anmeldung festgelegt.
 
 
 ### § 30 Vereinfachte Anmeldung für Zusammenstellungen von Waren
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003201128)
 
 (1) Zusammenstellungen von mindestens drei Waren, von denen jede Ware
 eine unterschiedliche Warennummer des Warenverzeichnisses erhält und
@@ -1445,6 +1480,7 @@ folgende Zusammenstellungen genehmigt werden:
 
 
 ### § 31 Genehmigungsfreie Vereinfachungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003301128)
 
 (1) Teile und Zubehör für Maschinen, Apparate, Geräte,
 Beförderungsmittel und Instrumente der Kapitel 84 bis 90 des
@@ -1488,6 +1524,7 @@ statistischen Anmeldung zulässig:
 
 
 ### § 32 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003401128)
 
 (1) Die Anmeldeschwelle im Eingang nach § 14 Absatz 3 des
 Außenhandelsstatistikgesetzes wird auf 3 Millionen Euro festgelegt.
@@ -1540,9 +1577,11 @@ zur Außenhandelsstatistik befreit.
 
 
 ## Abschnitt 5 - Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNG000500000)
 
 
 ### § 33 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003500000)
 
 (1) Das Statistische Bundesamt übermittelt von den Zollbehörden
 erhaltene Einzelangaben, die diese im Rahmen der Zentralen
@@ -1560,16 +1599,19 @@ Mitgliedstaates der Europäischen Union.
 
 
 ### § 34 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003600000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 Kapitel 99 des Warenverzeichnisses Zusammenstellung verschiedener Waren und besondere Warenbewegungen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003801128)
 
 (Fundstelle: BGBl. I 2021, 2592 - 2593;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1876,6 +1918,7 @@ statistischen Verwendung nichts im Wege steht.
 
 
 ### Anlage 2 Verzeichnis der Arten des Geschäfts
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE003900000)
 
 (Fundstelle: BGBl. I 2021, 2594)
 
@@ -1891,6 +1934,7 @@ und weitere von der Anmeldung befreite Warenverkehre.
 
 
 ### Anlage 3 Verzeichnis der Ursprungs- bzw. Bestimmungsregionen
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE004000000)
 
 (Fundstelle: BGBl. I 2021, 2595)
 
@@ -1916,6 +1960,7 @@ und weitere von der Anmeldung befreite Warenverkehre.
 
 
 ### Anlage 4 Befreiungsliste
+[Direktlink](https://www.gesetze-im-internet.de/ahstatdv_2022/BJNR258000021.html#BJNR258000021BJNE004101128)
 
 (Fundstelle: BGBl. I 2021, 2596 - 2597;
 bzgl. der einzelnen Änderungen vgl. Fußnote))

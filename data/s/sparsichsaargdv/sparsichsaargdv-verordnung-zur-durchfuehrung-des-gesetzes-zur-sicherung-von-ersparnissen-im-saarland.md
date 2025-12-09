@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000100328)
 
 Auf Grund des § 2 Abs. 3 des Gesetzes zur Sicherung von Ersparnissen
 im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 367) verordnet die
@@ -26,6 +27,7 @@ Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000200328)
 
 (1) Natürlichen Personen im Sinne von § 2 des Gesetzes werden
 gleichgestellt
@@ -64,6 +66,7 @@ S. 1592) maßgebend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000300328)
 
 (1) Eine Sparanlage gilt als für die begünstigten Zwecke gebunden,
 wenn das Vermögen des Berechtigten am 19. Dezember 1958 nach der
@@ -97,6 +100,7 @@ waren, Hilfe in Fällen der Not zu ermöglichen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000400328)
 
 Diente das Vermögen des Berechtigten am 19. Dezember 1958 nur
 teilweise den begünstigten Zwecken, so gilt folgendes:
@@ -131,6 +135,7 @@ teilweise den begünstigten Zwecken, so gilt folgendes:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000500328)
 
 Die Leistung nach § 5 des Gesetzes wird in den Fällen des § 1 Abs. 1
 nur auf Antrag gewährt. Über die Anträge entscheidet die
@@ -138,6 +143,7 @@ Oberfinanzdirektion Saarbrücken.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000600328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 23 des
@@ -146,11 +152,13 @@ Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000700328)
 
 Diese Verordnung tritt mit Wirkung vom 6. Juli 1959 in Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000800328)
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 
@@ -185,6 +193,7 @@ Fundstelle des Originaltextes: BGBl. I 1959, 563
 (zu § 3 Nr. 2)
 
 ## Anlage 2 Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/sparsichsaargdv/BJNR005610959.html#BJNR005610959BJNE000900328)
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 

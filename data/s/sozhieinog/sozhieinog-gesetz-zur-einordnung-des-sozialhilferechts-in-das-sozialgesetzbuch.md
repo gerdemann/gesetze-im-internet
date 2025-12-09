@@ -32,12 +32,14 @@ Art. 70 geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000800310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000700310)
 
 
 *    *   Artikel 1
@@ -416,15 +418,18 @@ beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000100310)
 
 -
 
 
 ## (XXXX) Art 2 bis 66
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000200310)
 
 
 
 ## Art 67 Weitergeltung von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000300310)
 
 Die auf Grund des Bundessozialhilfegesetzes erlassenen
 Rechtsverordnungen gelten weiter und können nach Maßgabe der in diesem
@@ -433,11 +438,13 @@ geändert und aufgehoben werden.
 
 
 ## Art 68
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000400310)
 
 -
 
 
 ## Art 69 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000500310)
 
 Die auf Artikel 12 bis 16, 18, 29, 31, 33, 35, 36, 49, 53 bis 55, 59,
 63, 64 und 66 beruhenden Teile der dort geänderten Anordnungen und
@@ -447,6 +454,7 @@ aufgehoben werden.
 
 
 ## Art 70 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sozhieinog/BJNR302200003.html#BJNR302200003BJNE000600310)
 
 (1) Dieses Gesetz tritt am 1. Januar 2005 in Kraft, soweit in Absatz 2
 nichts Abweichendes bestimmt ist.

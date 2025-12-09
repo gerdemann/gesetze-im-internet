@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000200000)
 
 (1) Dieses Gesetz regelt den Austausch von voraussichtlich erheblichen
 Informationen in Steuersachen zwischen Deutschland und den anderen
@@ -82,6 +84,7 @@ bestimmt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000303123)
 
 (1) Person im Sinne dieses Gesetzes ist
 
@@ -279,6 +282,7 @@ Sachverhalt aufzuklären, und die ausgeübt werden
 
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000402123)
 
 (1) Zuständige Behörde im Sinne von Artikel 4 Absatz 1 der
 Amtshilferichtlinie ist das Bundesministerium der Finanzen.
@@ -330,6 +334,7 @@ Finanzbehörden im Sinne dieses Gesetzes.
 
 
 ### § 3a Automatisierter Abruf von Kontoinformationen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002300123)
 
 (1) Das zentrale Verbindungsbüro nach § 3 Absatz 2 darf das
 Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in
@@ -366,9 +371,11 @@ anderen Mitgliedstaats gilt.
 
 
 ## Abschnitt 2 - Übermittlung von Informationen auf Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNG000200000)
 
 
 ### § 4 Ersuchen von anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000502123)
 
 (1) Auf Ersuchen erstellt die zuständige Finanzbehörde alle Antworten,
 die für die Festsetzung von Steuern nach § 1 voraussichtlich erheblich
@@ -432,6 +439,7 @@ die Gründe hierfür mitzuteilen.
 
 
 ### § 5 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000603123)
 
 (1) Das zentrale Verbindungsbüro übermittelt die Informationen nach §
 4 unverzüglich, spätestens jedoch drei Monate, nachdem es das Ersuchen
@@ -495,6 +503,7 @@ Nennung der Gründe mit.
 
 
 ### § 6 Ersuchen an andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000701377)
 
 (1) Die Finanzbehörde ist befugt, ein Ersuchen zu stellen, welches das
 zentrale Verbindungsbüro dem anderen Mitgliedstaat nach den
@@ -517,6 +526,7 @@ versprechend dar.
 
 
 ### § 6a Voraussichtliche Erheblichkeit
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002400123)
 
 (1) Für die Zwecke eines Ersuchens nach den §§ 4 und 6 sind
 Informationen voraussichtlich erheblich, wenn die zuständige Behörde
@@ -542,6 +552,7 @@ folgenden Angaben mitteilen:
 
 
 ### § 6b Gruppenersuchen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002500123)
 
 Bezieht sich ein Ersuchen nach den §§ 4 und 6 auf eine Gruppe von
 Steuerpflichtigen, die nicht einzeln identifiziert werden können, muss
@@ -573,9 +584,11 @@ mitteilen:
 
 
 ## Abschnitt 3 - Weitere Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNG000300000)
 
 
 ### § 7 Automatische Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000805123)
 
 (1) Das zentrale Verbindungsbüro übermittelt an andere Mitgliedstaaten
 systematisch auf elektronischem Weg, ohne vorheriges Ersuchen, alle
@@ -927,6 +940,7 @@ Anwendung.
 
 
 ### § 8 Spontane Übermittlung von Informationen an andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE000900000)
 
 (1) Die Finanzbehörde kann nach pflichtgemäßem Ermessen ohne Ersuchen
 alle Informationen an das zentrale Verbindungsbüro übermitteln, die
@@ -971,6 +985,7 @@ geworden sind.
 
 
 ### § 9 Spontane Übermittlung von Informationen durch andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001000000)
 
 Das zentrale Verbindungsbüro leitet Informationen, die andere
 Mitgliedstaaten spontan übermittelt haben, den Finanzbehörden zur
@@ -980,9 +995,11 @@ möglichst auf elektronischem Weg deren Erhalt.
 
 
 ## Abschnitt 4 - Sonstige Formen der Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNG000400000)
 
 
 ### § 10 Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001102123)
 
 (1) Auf Ersuchen der zuständigen Behörde eines anderen Mitgliedstaats
 kann das zentrale Verbindungsbüro gestatten, dass unter den von ihm
@@ -1045,6 +1062,7 @@ und dienstliche Stellung hervorgehen.
 
 
 ### § 11 Anwesenheit von inländischen Bediensteten in anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001200000)
 
 Sofern die Komplexität eines Ersuchens es erfordert, können
 bevollmächtigte inländische Bedienstete in andere Mitgliedstaaten
@@ -1052,6 +1070,7 @@ entsandt werden. § 10 gilt sinngemäß.
 
 
 ### § 12 Gleichzeitige Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001302123)
 
 (1) Auf Vorschlag der zuständigen Finanzbehörde kann das zentrale
 Verbindungsbüro einen anderen Mitgliedstaat oder mehrere andere
@@ -1106,6 +1125,7 @@ Abgabenordnung ist nicht erforderlich.
 
 
 ### § 12a Gemeinsame Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002700123)
 
 (1) Auf Vorschlag der zuständigen Finanzbehörden kann das zentrale
 Verbindungsbüro einen oder mehrere Mitgliedstaaten ersuchen, eine
@@ -1161,6 +1181,7 @@ und 2 unberührt.
 
 
 ### § 13 Zustellungsersuchen an andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001400000)
 
 (1) Auf Ersuchen der zuständigen Finanzbehörde beantragt das zentrale
 Verbindungsbüro bei einem anderen Mitgliedstaat die Zustellung von
@@ -1205,6 +1226,7 @@ Informationen verwenden, weiter.
 
 
 ### § 14 Zustellungsersuchen von anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001500000)
 
 (1) Auf Ersuchen werden alle Dokumente zugestellt, die mit einer
 Steuer gemäß § 1 zusammenhängen, einschließlich der gerichtlichen
@@ -1221,9 +1243,11 @@ zugestellt worden ist.
 
 
 ## Abschnitt 5 - Weitere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNG000500000)
 
 
 ### § 15 Verwendung von Informationen und Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001600000)
 
 (1) Übermittelt das zentrale Verbindungsbüro einem anderen
 Mitgliedstaat Informationen, so gestattet es diesem auf Anfrage, die
@@ -1276,6 +1300,7 @@ die Berichtigung, Sperrung oder Löschung dieser Daten vorzunehmen.
 
 
 ### § 16 Rückmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001700000)
 
 (1) In den Fällen der §§ 4 und 8 kann das zentrale Verbindungsbüro den
 anderen Mitgliedstaat um Rückmeldung über die Verwendung der erbetenen
@@ -1293,6 +1318,7 @@ Verbindungsbüro die erforderlichen Angaben mit.
 
 
 ### § 17 Standardformblätter und Kommunikationsmittel
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001800000)
 
 (1) Ersuchen nach § 4 Absatz 1 und 2 und § 6 Absatz 1, spontane
 Übermittlungen von Informationen nach § 8 Absatz 1 und 2 und § 9,
@@ -1315,6 +1341,7 @@ Amtshilfe ergriffenen Maßnahmen.
 
 
 ### § 18 Informationsübermittlung an Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE001900000)
 
 (1) Erhält das zentrale Verbindungsbüro von einem Drittstaat
 Informationen, die für die Anwendung und Durchsetzung des deutschen
@@ -1346,6 +1373,7 @@ Gesetz erhaltenen Informationen an einen Drittstaat weitergeben, wenn
 
 
 ### § 19 Datenschutz und Zweckbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002001123)
 
 (1) Die Informationen, die im Rahmen dieses Gesetzes an Deutschland
 übermittelt werden, unterliegen dem Steuergeheimnis und genießen den
@@ -1383,6 +1411,7 @@ Verwendung von den in der Liste genannten Zwecken umfasst ist.
 
 
 ### § 19a Verletzung des Schutzes personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002600123)
 
 (1) Kommt es in Bezug auf Informationen, die im Rahmen dieses Gesetzes
 verarbeitet werden, zu einer Verletzung des Datenschutzes,
@@ -1427,6 +1456,7 @@ jeweils geltenden Fassung, bleiben unberührt.
 
 
 ### § 20 Statistiken und Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002104123)
 
 (1) Die zuständige Behörde übermittelt
 
@@ -1479,6 +1509,7 @@ im Bundessteuerblatt zu veröffentlichen.
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/euahig/BJNR180910013.html#BJNR180910013BJNE002201123)
 
 (1) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1
 ist ab dem 1. Januar 2015 vorzunehmen und erstmals auf Informationen

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Die V tritt gem. § 4 idF d. Art. 1 Nr. 4 V v 14.6.2021 I 1780 mWv 1.1.2030 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000100000)
 
 Auf Grund des § 35c des Einkommensteuergesetzes, der durch Artikel 1
 des Gesetzes vom 21. Dezember 2019 (BGBl. I S. 2886) eingefügt worden
@@ -30,6 +31,7 @@ des Bundesrates:
 
 
 ## § 1 Mindestanforderungen an energetische Einzelmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000201123)
 
 Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1
 Satz 3 des Einkommensteuergesetzes, die die zu dieser Verordnung
@@ -74,6 +76,7 @@ ist durch ein Fachunternehmen nach § 2 zu bestätigen.
 
 
 ## § 2 Anforderung an ein Fachunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000302123)
 
 (1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des
 Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend
@@ -165,6 +168,7 @@ Ausstellungsberechtigung nach § 88 des Gebäudeenergiegesetzes, sofern
 
 
 ## § 3 Anwendungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000403123)
 
 Diese Fassung der Verordnung ist erstmals für den Veranlagungszeitraum
 2025 anzuwenden; sie gilt für energetische Maßnahmen, mit denen nach
@@ -172,12 +176,14 @@ dem 31. Dezember 2024 begonnen wurde.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE001300123)
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft. Diese Verordnung
 tritt mit Ablauf des 31. Dezember 2029 außer Kraft.
 
 
 ## Anlage 1 Wärmedämmung von Wänden
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000501123)
 
 (Fundstelle: BGBl. I 2021, 1782)
 
@@ -252,6 +258,7 @@ Notwendige Maßnahmen sind umzusetzen.
 
 
 ## Anlage 2 Wärmedämmung von Dachflächen
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000601123)
 
 (Fundstelle: BGBl. I 2021, 1783)
 
@@ -320,6 +327,7 @@ Notwendige Maßnahmen sind umzusetzen.
 
 
 ## Anlage 3 Wärmedämmung von Geschossdecken
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000701123)
 
 (Fundstelle: BGBl. I 2021, 1784)
 
@@ -386,6 +394,7 @@ Notwendige Maßnahmen sind umzusetzen.
 
 
 ## Anlage 4 Erneuerung der Fenster oder Außentüren
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000801123)
 
 (Fundstelle: BGBl. I 2021, 1785)
 
@@ -540,6 +549,7 @@ und Ausführung der umgebenden Wände).
 
 
 ## Anlage 4a Sommerlicher Wärmeschutz
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE001401123)
 
 (Fundstelle: BGBl. 2024 I Nr. 341, S. 3)
 
@@ -557,6 +567,7 @@ parallel zur Verglasungsfläche installiert werden.
 
 
 ## Anlage 5 Erneuerung oder Einbau einer Lüftungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE000901123)
 
 (Fundstelle: BGBl. I 2021, 1787)
 
@@ -635,6 +646,7 @@ Gestaltung von Wohnungslüftungsanlagen einhalten.
 
 
 ## Anlage 6 Erneuerung der Heizungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE001003123)
 
 (Fundstelle: BGBl. 2024 I Nr. 341, S. 4 – 7)
 
@@ -1164,6 +1176,7 @@ zusammen mit der dazugehörigen Musterbescheinigung nach FW 309 Teil 7.
 [^F831660_1_BJNR000300020BJNE001003123]: 
 
 ## Anlage 7 Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE001102123)
 
 (Fundstelle: BGBl. 2024 I Nr. 341, S. 8)
 
@@ -1291,6 +1304,7 @@ Beispiel Handy, Tablet, Computer, Fernseher, Lautsprecher.
 
 
 ## Anlage 8 Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
+[Direktlink](https://www.gesetze-im-internet.de/esanmv/BJNR000300020.html#BJNR000300020BJNE001202123)
 
 (Fundstelle: BGBl. 2024 I Nr. 341, S. 9 – 10)
 

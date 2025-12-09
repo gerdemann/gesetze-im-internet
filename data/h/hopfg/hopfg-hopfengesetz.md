@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000202119)
 
 (1) Dieses Gesetz gilt für die Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union
@@ -82,6 +84,7 @@ des Marktorganisationsgesetzes mit den Maßgaben, dass
 
 
 ## § 2 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000303119)
 
 (1) Die Landesregierungen legen durch Rechtsverordnung zur
 Durchführung der in § 1 Absatz 1 Nummer 1 genannten Rechtsakte fest
@@ -191,6 +194,7 @@ für den Sektor Hopfen Vorschriften zu erlassen
 
 
 ## § 3 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000406119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -225,6 +229,7 @@ anzuwenden.
 
 
 ## § 4 Übertragung von Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000500000)
 
 Soweit dieses Gesetz die Landesregierungen zum Erlaß von
 Rechtsverordnungen ermächtigt, sind diese befugt, die Ermächtigung
@@ -233,11 +238,13 @@ durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000601377)
 
 -
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hopfg/BJNR153000996.html#BJNR153000996BJNE000700000)
 
 (1) Die §§ 2 und 3 Abs. 3 treten am Tage nach der Verkündung in Kraft.
 

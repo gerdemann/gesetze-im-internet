@@ -27,6 +27,7 @@ S. 113).
 
 
 ## § 1 Zuständigkeit und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000101116)
 
 (1) Beaufsichtigte Unternehmen eines Finanzkonglomerats unterliegen
 einer zusätzlichen Aufsicht nach Maßgabe dieses Gesetzes. Die Aufsicht
@@ -79,6 +80,7 @@ Sinne des § 7 in der Finanzbranche liegen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000204128)
 
 (1) Beaufsichtigte Unternehmen eines Finanzkonglomerats sind
 konglomeratsangehörige
@@ -396,6 +398,7 @@ der Europäischen Wertpapier- und Marktaufsichtsbehörde.
 
 
 ## § 3 Zusammenarbeit mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000300000)
 
 Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach Maßgabe
 dieses Gesetzes zusammen. § 7 des Kreditwesengesetzes gilt
@@ -403,6 +406,7 @@ entsprechend.
 
 
 ## § 4 Zusammenarbeit mit den zuständigen Behörden und dem Gemeinsamen Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000402118)
 
 (1) Bei der Beaufsichtigung von Finanzkonglomeraten, die
 grenzüberschreitend tätig sind, arbeiten die Bundesanstalt und die
@@ -457,6 +461,7 @@ entsprechend.
 
 
 ## § 5 Aufgaben der Bundesanstalt als Koordinator
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000500000)
 
 (1) Ist die Bundesanstalt Koordinator, hat sie folgende Aufgaben:
 
@@ -573,6 +578,7 @@ teilnehmen.
 
 
 ## § 6 Ermittlung eines Finanzkonglomerats
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000600000)
 
 (1) Die Bundesanstalt ermittelt, ob eine branchenübergreifend tätige
 Gruppe als Finanzkonglomerat einzustufen ist.
@@ -586,6 +592,7 @@ Gemeinsamen Ausschuss mit.
 
 
 ## § 7 Zugehörigkeit zur Finanzbranche
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000700000)
 
 Eine Gruppe ist vorwiegend in der Finanzbranche tätig, wenn der Anteil
 der Bilanzsumme der beaufsichtigten und unbeaufsichtigten
@@ -594,6 +601,7 @@ insgesamt mehr als 40 Prozent beträgt.
 
 
 ## § 8 Erheblichkeit von konsolidierten oder aggregierten Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000801360)
 
 (1) Die branchenübergreifenden Tätigkeiten von Unternehmen der Gruppe
 oder Untergruppe sind als erheblich anzusehen, wenn
@@ -628,6 +636,7 @@ zugerechnet.
 
 
 ## § 9 Berechnung der Zugehörigkeit zur Finanzbranche und der Erheblichkeit von konsolidierten oder aggregierten Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE000900000)
 
 (1) Bei den Berechnungen nach den §§ 7 und 8 kann die Bundesanstalt
 vorbehaltlich der Sätze 2 und 3 im Einzelfall ein
@@ -686,6 +695,7 @@ Einvernehmen mit den jeweils zuständigen Behörden.
 
 
 ## § 10 Schwellenwerte für die Einstufung als Finanzkonglomerat
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001000000)
 
 Werden bei einer Gruppe, deren beaufsichtigte Unternehmen im Sinne des
 § 2 Absatz 1 Nummer 1 bis 5 bereits einer zusätzlichen Beaufsichtigung
@@ -708,6 +718,7 @@ folgende Schwellenwerte überschritten werden:
 
 
 ## § 11 Feststellung eines Finanzkonglomerats
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001100000)
 
 (1) Die Bundesanstalt stellt fest, dass eine branchenübergreifend
 tätige Gruppe ein Finanzkonglomerat ist. Sie gibt die Feststellung dem
@@ -744,6 +755,7 @@ Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ## § 12 Übergeordnetes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001200000)
 
 (1) Übergeordnetes Unternehmen eines Finanzkonglomerats ist ein
 beaufsichtigtes Unternehmen des Finanzkonglomerats, das an der Spitze
@@ -764,6 +776,7 @@ Unternehmen ist vorab anzuhören.
 
 
 ## § 13 Befreiung und Freistellung von der zusätzlichen Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001301116)
 
 (1) Auf Antrag des Mutterunternehmens an der Spitze der Gruppe kann
 die Bundesanstalt von der Feststellung, dass eine Gruppe ein
@@ -821,6 +834,7 @@ risikobasierten Einschätzungen der Gruppen.
 
 
 ## § 14 Ausnahme von der laufenden Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001400000)
 
 Auf Antrag eines übergeordneten Unternehmens eines Finanzkonglomerats
 kann die Bundesanstalt von der laufenden Beaufsichtigung auf
@@ -846,6 +860,7 @@ zur Äußerung zu geben.
 
 
 ## § 15 Erweiterung der zusätzlichen Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001500000)
 
 (1) Die Bundesanstalt kann im Einvernehmen mit den jeweils zuständigen
 Behörden über die Fälle des § 1 Absatz 2, § 12 Absatz 2 Satz 2 oder
@@ -902,6 +917,7 @@ Einvernehmen mit dem Koordinator.
 
 
 ## § 16 Bezugnahme auf Bilanzsumme oder auf Solvabilitätsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001602118)
 
 (1) Soweit in den §§ 7 bis 13 auf die Bilanzsumme Bezug genommen wird,
 ist von der anhand der einzelnen Jahresabschlüsse ermittelten
@@ -926,6 +942,7 @@ gleichwertige Solvabilitätsanforderungen bestehen.
 
 
 ## § 17 Eigenmittelausstattung
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001700000)
 
 (1) Ein Finanzkonglomerat muss auf Konglomeratsebene angemessene
 Eigenmittel haben.
@@ -937,6 +954,7 @@ die hierfür erforderlichen Angaben einzureichen.
 
 
 ## § 18 Berechnung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001803116)
 
 (1) In die Berechnung der Eigenmittel auf Konglomeratsebene nach § 17
 Absatz 1 sind einzubeziehen das übergeordnete Unternehmen eines
@@ -998,6 +1016,7 @@ Unternehmen seinen Sitz im Inland hat.
 
 
 ## § 19 Freistellung von den Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE001900000)
 
 (1) Die Bundesanstalt kann ein übergeordnetes Unternehmen eines
 Finanzkonglomerats auf dessen Antrag oder von Amts wegen von den
@@ -1027,6 +1046,7 @@ Bedeutung sind.
 
 
 ## § 20 Festsetzung von Korrekturposten
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002000000)
 
 (1) Die Bundesanstalt kann auf die Eigenmittel des Finanzkonglomerats
 einen Korrekturposten festsetzen, wenn
@@ -1052,6 +1072,7 @@ oder zum Teil aufzuheben, wenn die Gefährdung wegfällt.
 
 
 ## § 21 Maßnahmen bei unzureichenden Eigenmitteln auf Konglomeratsebene
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002101118)
 
 (1) Entsprechen bei einem Finanzkonglomerat die Eigenmittel nicht den
 Anforderungen des § 17 Absatz 1, kann die Bundesanstalt gegenüber
@@ -1087,6 +1108,7 @@ sie einer Anordnung nach Absatz 1 Nummer 2 widersprechen.
 
 
 ## § 22 Verordnungsermächtigung für nähere Bestimmungen über die angemessene Eigenmittelausstattung
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002201118)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen
 mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der
@@ -1138,6 +1160,7 @@ Versicherungsaufsichtsgesetzes anzuhören.
 
 
 ## § 23 Risikokonzentrationen und konglomeratsinterne Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002300000)
 
 (1) Das übergeordnete Unternehmen eines Finanzkonglomerats hat der
 Bundesanstalt und der Deutschen Bundesbank bedeutende
@@ -1201,6 +1224,7 @@ Transaktionen unverzüglich anzuzeigen.
 
 
 ## § 24 Verordnungsermächtigung für nähere Bestimmungen zu Risikokonzentrationen und konglomeratsinternen Transaktionen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002401115)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen
 mit der Deutschen Bundesbank durch Rechtsverordnung, die nicht der
@@ -1237,6 +1261,7 @@ Versicherungsaufsichtsgesetzes zu hören.
 
 
 ## § 25 Besondere organisatorische Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002503118)
 
 (1) Ein Finanzkonglomerat muss über eine ordnungsgemäße
 Geschäftsorganisation nach Maßgabe des Artikels 9 der Richtlinie
@@ -1282,6 +1307,7 @@ veröffentlichen.
 
 
 ## § 26 Prognoserechnungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002600000)
 
 (1) Die Bundesanstalt kann von dem übergeordneten Unternehmen eines
 Finanzkonglomerats die Vorlage von Prognoserechnungen für das
@@ -1297,6 +1323,7 @@ bestimmte Rechnungsannahmen zugrunde gelegt werden.
 
 
 ## § 27 Begründung von Unternehmensbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002701360)
 
 (1) Ein beaufsichtigtes Unternehmen eines Finanzkonglomerats hat bei
 dem Erwerb einer Beteiligung an einem Unternehmen mit Sitz im Ausland
@@ -1338,6 +1365,7 @@ eines Finanzkonglomerats die für die Erfüllung der Pflichten nach den
 
 
 ## § 28 Gemischte Finanzholding-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002800000)
 
 (1) Die Bundesanstalt kann einer gemischten Finanzholding-Gesellschaft
 an der Spitze eines Finanzkonglomerats die Ausübung ihrer Stimmrechte
@@ -1411,6 +1439,7 @@ Gesellschaften bleiben unberührt.
 
 
 ## § 29 Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE002901123)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank sind befugt, von
 beaufsichtigten Unternehmen eines Finanzkonglomerats, den Mitgliedern
@@ -1466,6 +1495,7 @@ würde.
 
 
 ## § 30 Grenzüberschreitende Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE003000000)
 
 (1) Rechtsvorschriften, die einer Übermittlung von Daten
 entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten
@@ -1519,6 +1549,7 @@ das betreffende Unternehmen erleichtern.
 
 
 ## § 31 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE003100000)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach den §§ 21, 23
 Absatz 4, § 28 Absatz 1 und § 29 Absatz 1 und 2 haben keine
@@ -1526,6 +1557,7 @@ aufschiebende Wirkung.
 
 
 ## § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE003200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 28 Absatz 5 Satz 1 eine Anzeige nicht, nicht richtig, nicht
@@ -1536,6 +1568,7 @@ zweihunderttausend Euro geahndet werden.
 
 
 ## § 33 Übergangsvorschriften zu § 23
+[Direktlink](https://www.gesetze-im-internet.de/fkag/BJNR186210013.html#BJNR186210013BJNE003302118)
 
 Bis zum Erlass der Rechtsverordnung nach § 24 Absatz 1 hat das
 übergeordnete Unternehmen eines Finanzkonglomerats der Bundesanstalt

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2022/BJNR601300022.html#BJNR601300022BJNE000100000)
 
 Der Kostensatz nach § 20 Satz 1 der
 Verwaltungskostenfeststellungsverordnung beträgt mit Wirkung vom 1.
@@ -25,6 +26,7 @@ Einrichtungen monatlich 198,39 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2022/BJNR601300022.html#BJNR601300022BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

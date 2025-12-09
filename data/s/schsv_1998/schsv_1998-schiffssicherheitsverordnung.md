@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zielsetzung und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000102305)
 
 (1) Diese Verordnung dient der Sicherheit auf See einschließlich des
 damit unmittelbar im Zusammenhang stehenden Arbeitsschutzes von
@@ -47,6 +48,7 @@ und die dort genannten Regelungen sowie § 13 Abs. 5 anzuwenden.
 
 
 ## § 2 Verantwortlichkeit und Selbstkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000201124)
 
 (1) Wer ein Schiff zur Seefahrt einsetzt, hat dafür zu sorgen, daß im
 Schiffsbetrieb auftretende Gefahrenquellen überprüft, im Betrieb
@@ -64,6 +66,7 @@ Schiffssicherheitsgesetzes ist anzuwenden.
 
 
 ## § 3 Zusammenarbeit und maritime Sicherheitspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000312119)
 
 (1) In der Zusammenarbeit der zuständigen Behörden der
 Bundesverkehrsverwaltung im Rahmen ihrer Möglichkeiten mit den nach §
@@ -130,6 +133,7 @@ zuständig:
 
 
 ## § 4 Regeln der Technik und der seemännischen Praxis
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000402308)
 
 (1) Als Regeln der Technik und der seemännischen Praxis sind
 insbesondere die in Abschnitt E der Anlage zum
@@ -141,6 +145,7 @@ bekanntgemachten internationalen Schiffssicherheitsnormen zu beachten.
 
 
 ## § 5 Internationaler schiffsbezogener Sicherheitsstandard
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000503124)
 
 (1) Soweit internationale Regelungen, die in den Abschnitten A und C
 der Anlage zum Schiffssicherheitsgesetz aufgeführt sind, auf ein
@@ -170,6 +175,7 @@ genannten besonderen Anforderungen einzuhalten.
 
 
 ## § 5a Internationaler schiffsbezogener Sicherheitsstandard in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002208124)
 
 (1) Soweit für ein Schiff, das § 5 Absatz 1 unterliegt, Ausnahmen
 gewährt werden, weil es sich im Verlauf seiner Reise nicht weiter als
@@ -183,6 +189,7 @@ muss.
 
 
 ## § 6 Schiffsbezogener Sicherheitsstandard in übrigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000614119)
 
 (1) Soweit für ein Schiff, das die Bundesflagge führt, nicht die in §
 5 Absatz 1 und 2 bezeichneten Anforderungen einzuhalten sind, sind die
@@ -256,6 +263,7 @@ bestimmt ist.
 
 
 ## § 6a Dampfkessel
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002101124)
 
 Dampfkesselanlagen an Bord von Seeschiffen unter deutscher Flagge sind
 nach Maßgabe der Anlage 1a Teil 8 so auszulegen, zu bauen, auszurüsten
@@ -270,6 +278,7 @@ erfüllt sind.
 
 
 ## § 6b Abwasserrückhalteanlagen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002300305)
 
 (1) In Anlage IV Regel 2 Abs. 1 des MARPOL-Übereinkommens nicht
 genannte deutsche Schiffe, einschließlich Sportboote, oder solche
@@ -322,6 +331,7 @@ nachgewiesen ist.
 
 
 ## § 7 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000712119)
 
 (1) Das Bundesamt für Seeschiffahrt und Hydrographie und die
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -385,6 +395,7 @@ Verordnung der Bruttoraumgehalt anstelle der Bruttoraumzahl.
 
 
 ## § 8 Funktionsfähigkeit von Schiffsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000805119)
 
 Schiffsausrüstung, die vor ihrer Verwendung an Bord von Schiffen, die
 die Bundesflagge führen, von der zuständigen Stelle oder von einem von
@@ -401,6 +412,7 @@ durchgeführt wird.
 
 
 ## § 9 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE000914119)
 
 (1) Die Besichtigung und Zeugniserteilung ist vorzunehmen in
 Übereinstimmung mit den Leitlinien der Internationalen
@@ -493,6 +505,7 @@ ausstellenden Behörde zurückgeben.
 
 
 ## § 10 Ausübung der Vollzugsaufgaben, Schiffsdaten
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001002305)
 
 (1) Die für die Vollzugsaufgaben nach dem Seeaufgabengesetz und dem
 Schiffssicherheitsgesetz zuständigen Behörden können Anordnungen
@@ -512,6 +525,7 @@ erforderlichen Schiffsdaten.
 
 
 ## § 11 Auslaufen und Weiterfahrt von Schiffen, die die Bundesflagge führen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001105124)
 
 (1) Wenn
 
@@ -553,6 +567,7 @@ bestimmenden angemessenen Zeitraum verhindern.
 
 
 ## § 12 Überprüfung von Schiffen unter ausländischer Flagge (Hafenstaatkontrolle)
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001209119)
 
 (1) Für die Hafenstaatkontrolle ist die Berufsgenossenschaft
 Verkehrswirtschaft Post-Logistik Telekommunikation zuständig. Sehen
@@ -600,6 +615,7 @@ geltenden Fassung entsprechend.
 
 
 ## § 13 Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001312119)
 
 (1) Der Eigentümer eines Schiffes, das die Bundesflagge führt, hat
 dafür zu sorgen, daß
@@ -861,6 +877,7 @@ Maßgabe des § 7 Abs. 1 Ausnahmen zulassen.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001410119)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1035,6 +1052,7 @@ Ordnungswidrigkeiten wird übertragen
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001508124)
 
 Fahrzeuge, die am 13. März 2018 über ein Sicherheitszeugnis für
 Ausbildungsfahrzeuge nach § 6 Absatz 1 Nummer 7 Buchstabe c in
@@ -1051,6 +1069,7 @@ vergangen sind.
 
 
 ## § 16 Anwendung weiterer Vorschriften, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001603305)
 
 (1) Die sich aus den internationalen Regelungen (§ 1 Abs. 2 des
 Schiffssicherheitsgesetzes) ergebenden Pflichten, Anforderungen,
@@ -1083,6 +1102,7 @@ zuständige Behörde oder Stelle.
 
 
 ## § 17 Verweisung auf technische Regelwerke
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001701119)
 
 Soweit in oder auf Grund dieser Verordnung auf DIN-, DIN EN- und DIN
 EN ISO Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH,
@@ -1092,6 +1112,7 @@ Markenamt archivmäßig gesichert niedergelegt.
 (zu § 5)
 
 ## Anlage 1 Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001824119)
 
 (Fundstelle: BGBl. I 1998, 3030 - 3035,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1901,6 +1922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu den §§ 6 und 6a)
 
 ## Anlage 1a Schiffsbezogener Sicherheitsstandard in den übrigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002505119)
 
 (Fundstelle: BGBl. I 2018, 244 - 334;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14330,6 +14352,7 @@ Kapitel 7
 (zu § 9)
 
 ## Anlage 2 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE001918119)
 
 (Fundstelle: BGBl. I 1998, 3036 - 3039;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -15159,6 +15182,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Abs. 4a)
 
 ## Anlage 3 Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002008119)
 
 Fundstelle: BGBl. I 2001, 2281 - 2284;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -15722,6 +15746,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 4 Umsetzung von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002600119)
 
 (Fundstelle: BGBl. 2024 I Nr. 217, S. 2 – 4)
 
@@ -16059,6 +16084,7 @@ besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L
 
 
 ## Anhang zu Anlage 1 (Wattfahrt)
+[Direktlink](https://www.gesetze-im-internet.de/schsv_1998/BJNR302300998.html#BJNR302300998BJNE002401119)
 
 (Fundstelle: BGBl. 2024 I, Nr. 370 S. 31 – 37)
 

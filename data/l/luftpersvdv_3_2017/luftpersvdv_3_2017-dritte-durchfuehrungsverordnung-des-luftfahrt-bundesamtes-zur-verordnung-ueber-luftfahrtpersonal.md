@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V v. 3.12.2010 BAnz. Nr. 187, 4086 (LuftPersVDV 3)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000100000)
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 4 und 5 und Absatz 3 Satz 1
 bis 3 des Luftverkehrsgesetzes, von denen Absatz 1 Satz 1 zuletzt
@@ -43,6 +44,7 @@ Artikel 3 Nummer 3 der Verordnung vom 21. September 2008 (BGBl. I S.
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000201119)
 
 Diese Verordnung enthält Regelungen zu
 
@@ -84,6 +86,7 @@ Diese Verordnung enthält Regelungen zu
 
 
 ## § 2 Gegenstand der Sprachprüfung; Bestehen der Sprachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000301119)
 
 (1) In der Sprachprüfung nach § 125 Absatz 1 der Verordnung über
 Luftfahrtpersonal werden Hörverstehen und Sprechfertigkeiten des
@@ -98,6 +101,7 @@ Anhang I der Verordnung (EU) Nr. 1178/2011 erreicht wurde.
 
 
 ## § 3 Nachweis von Sprachkenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000401119)
 
 (1) Der Nachweis der Sprachkenntnisse erfolgt im Präsenz-Verfahren bei
 persönlicher Anwesenheit des Bewerbers und mindestens eines
@@ -147,6 +151,7 @@ Absatz 3.
 
 
 ## § 4 Erstprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000500000)
 
 (1) Die erstmalige Bewertung der Sprachkenntnisse einer Stufe gilt als
 Erstprüfung.
@@ -157,6 +162,7 @@ abgelaufen ist.
 
 
 ## § 5 Verlängerungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000602119)
 
 (1) Die regelmäßige Neubewertung der Sprachkenntnisse einer Stufe
 entsprechend § 125 Absatz 2 der Verordnung über Luftfahrtpersonal gilt
@@ -196,6 +202,7 @@ fliegerischen Ereignis, der wiederkehrenden Schulung oder der
 
 
 ## § 6 Sprachprüfer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000700000)
 
 (1) Die Erstprüfung für eine Stufe erfolgt durch eine Kommission,
 bestehend aus mindestens zwei Sprachprüfern. Der für die Bewertung der
@@ -215,6 +222,7 @@ Bescheid.
 
 
 ## § 7 Prüfungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000802119)
 
 (1) Der Prüfungsverlauf ist durch die an der Sprachprüfung beteiligten
 Sprachprüfer zu protokollieren. Das Prüfungsprotokoll muss mindestens
@@ -271,6 +279,7 @@ Einzelprüfer nach § 15.
 
 
 ## § 8 Sprachvermerk nach Erstprüfung; Geltungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE000901119)
 
 (1) Nach einer bestandenen Erstprüfung wird der Sprachvermerk über die
 Sprachkenntnisse der entsprechenden Stufe von der nach § 5 der
@@ -287,6 +296,7 @@ Sprachvermerken für die entsprechende Stufe.
 
 
 ## § 9 Sprachvermerk nach Verlängerungsprüfung; Geltungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001001119)
 
 (1) Sofern nach bestandener Verlängerungsprüfung die Geltungsdauer des
 Sprachvermerks nicht durch die nach § 5 der Verordnung über
@@ -319,6 +329,7 @@ Luftfahrtpersonal zuständige Stelle auf der Vorderseite der Lizenz.
 
 
 ## § 10 Nachweis von Sprachkenntnissen der Stufe 6
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001101119)
 
 Zum Nachweis von Sprachkenntnissen der Stufe 6 entsprechend § 125
 Absatz 1 Satz 2 der Verordnung über Luftfahrtpersonal muss der
@@ -338,6 +349,7 @@ der Verordnung (EU) Nr. 1178/2011 durchzuführen, und dass
 
 
 ## § 11 Nachweis der Erstsprache
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001201119)
 
 (1) Die Erstsprache kann gegenüber der nach § 5 der Verordnung über
 Luftfahrtpersonal zuständigen Stelle durch die Vorlage von Dokumenten
@@ -361,6 +373,7 @@ Luftfahrtpersonal zuständigen Stelle nachgewiesen werden.
 
 
 ## § 12 Nachweis eines sprachlichen Studiums
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001300000)
 
 Dokumente über ein abgeschlossenes sprachliches Studium werden als
 Nachweis über Sprachkenntnisse der Stufe 6 anerkannt, wenn aus diesen
@@ -382,6 +395,7 @@ Dokumenten hervorgeht, dass
 
 
 ## § 13 Anerkennung von Stellen für die Abnahme von Sprachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001400000)
 
 Die Anerkennung als Stelle für die Abnahme von Sprachprüfungen können
 sowohl Organisationen als auch Einzelpersonen beantragen.
@@ -390,6 +404,7 @@ für Stufe 4 anerkannt werden.
 
 
 ## § 14 Prüfstellenhandbuch einer Organisation; anerkannte Organisation
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001501119)
 
 (1) Eine Organisation weist das Vorliegen der Voraussetzungen nach
 Anlage 2 zu § 125a der Verordnung über Luftfahrtpersonal durch ein
@@ -404,6 +419,7 @@ Bundesamt anerkannt (anerkannte Organisation).
 
 
 ## § 15 Standardisierungsgespräch und Handbuch für Einzelprüfer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001601119)
 
 (1) Eine Einzelperson kann das Vorliegen der Voraussetzungen nach
 Anlage 2 zu § 125a der Verordnung über Luftfahrtpersonal durch ein
@@ -431,6 +447,7 @@ Bescheid erteilt worden ist.
 
 
 ## § 16 Aufsicht über anerkannte Stellen für die Abnahme von Sprachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001701119)
 
 (1) Für seine Aufsicht über die anerkannten Stellen gemäß § 125a
 Absatz 2 der Verordnung über Luftfahrtpersonal ergreift das Luftfahrt-
@@ -479,6 +496,7 @@ Maßnahmen ergreifen:
 
 
 ## § 17 Pflichten der anerkannten Stelle im Rahmen der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001802119)
 
 (1) Die anerkannte Stelle erteilt dem Luftfahrt-Bundesamt auf
 Verlangen die zur Wahrnehmung der Aufsicht erforderlichen Auskünfte
@@ -552,6 +570,7 @@ absolvieren.
 
 
 ## § 18 Standardisierung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE001900000)
 
 (1) Die Einhaltung rechtlicher, organisatorischer,
 verfahrenstechnischer und fachlicher Vorgaben, insbesondere der
@@ -586,6 +605,7 @@ Standardisierung nach Absatz 1 überprüfen und dokumentieren.
 
 
 ## § 19 Beschwerde über das Ergebnis einer Sprachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE002000000)
 
 (1) Ist der Bewerber mit dem Ergebnis einer Sprachprüfung nicht
 einverstanden, kann er Beschwerde bei der anerkannten Stelle einlegen.
@@ -630,6 +650,7 @@ Einhaltung der genehmigten Verfahren anzubieten.
 
 
 ## § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_3_2017/BJNR615700017.html#BJNR615700017BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Dritte Durchführungsverordnung zur Verordnung

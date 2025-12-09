@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000100000)
 
 Auf Grund
 
@@ -77,6 +78,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Gegenstand, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000200000)
 
 (1) Waren im persönlichen Gepäck von Reisenden, die aus einem
 Drittland oder aus einem Drittlandsgebiet eingeführt werden, sind nach
@@ -164,6 +166,7 @@ Satz 3 des Zollverwaltungsgesetzes befreit.
 
 
 ## § 2 Höchstmengen und Wertgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000300000)
 
 (1) Je Reisenden sind Reisemitbringsel (§ 1 Nr. 6) im Rahmen der
 folgenden Mengen- und Wertgrenzen von den Einfuhrabgaben befreit:
@@ -272,6 +275,7 @@ einem Drittland oder Drittlandsgebiet befindet.
 
 
 ## § 3 Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000400000)
 
 (1) Bei Einfuhren durch
 
@@ -343,11 +347,13 @@ nicht als Seereisende.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000500000)
 
 Diese Verordnung tritt am 1. Dezember 2008 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ef-vo_2008/BJNR223500008.html#BJNR223500008BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

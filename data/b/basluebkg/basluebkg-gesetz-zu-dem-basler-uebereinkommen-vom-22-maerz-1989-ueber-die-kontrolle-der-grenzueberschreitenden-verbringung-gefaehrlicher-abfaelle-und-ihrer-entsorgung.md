@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/basl_bkg/BJNR270320994.html#BJNR270320994BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/basl_bkg/BJNR270320994.html#BJNR270320994BJNE000200308)
 
 Dem in New York am 23. Oktober 1989 von der Bundesrepublik Deutschland
 unterzeichneten Basler Übereinkommen vom 22. März 1989 über die
@@ -34,6 +36,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/basl_bkg/BJNR270320994.html#BJNR270320994BJNE000300308)
 
 Die Bundesregierung wird ermächtigt, Änderungen des Basler
 Übereinkommens sowie von Anlagen und Protokollen zu dem Basler
@@ -46,6 +49,7 @@ Verbringung beizubringenden Unterlagen und die in Ausführung des
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/basl_bkg/BJNR270320994.html#BJNR270320994BJNE000400308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

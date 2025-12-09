@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 611-19-1-5 v. 29.11.2019 I 2033 (LuftVStAbsenkV 2020)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/BJNR076200020.html#BJNR076200020BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt
 durch Artikel 1 Nummer 6 Buchstabe b des Gesetzes vom 12. Dezember
@@ -32,6 +33,7 @@ Infrastruktur und dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Steuersätze 2020
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/BJNR076200020.html#BJNR076200020BJNE000200000)
 
 Unter Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
@@ -70,6 +72,7 @@ Flüge mit einem Zielort
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/BJNR076200020.html#BJNR076200020BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 2020 in Kraft.
 Gleichzeitig tritt die Luftverkehrsteuer-Absenkungsverordnung 2020 vom

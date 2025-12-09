@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzegybek/BJNR207910926.html#BJNR207910926BJNE000100303)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der
 Warenbezeichnungen (Reichsgesetzbl. 1923 II S. 437) wird hierdurch

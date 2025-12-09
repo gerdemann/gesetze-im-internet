@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000100311)
 
 Auf Grund des § 43 Abs. 3 Satz 2 und 3 des Beamtenversorgungsgesetzes
 vom 24. August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung
@@ -27,6 +28,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1 Flugdienst
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000200311)
 
 (1) Flugdienst im Sinne des § 43 Abs. 3 Satz 1 Nr. 1 des
 Beamtenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines
@@ -78,6 +80,7 @@ bei Drehflüglern mit dem Aufsetzen oder dem Ausrollen.
 
 
 ## § 2 Besonders gefährdetes fliegendes Personal
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000300311)
 
 (1) Beamte, die
 
@@ -114,6 +117,7 @@ Streitkräfte mitfliegen, gilt Absatz 1 sinngemäß.
 
 
 ## § 3 Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000400311)
 
 (1) Ein besonders gefährlicher Auftrag (§ 2 Abs. 1 Nr. 5) liegt vor
 bei vorgeschriebenen Flügen
@@ -180,6 +184,7 @@ Nr. 6) liegt vor
 
 
 ## § 4 Helm- und Schwimmtaucher
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000500311)
 
 (1) Beamte, die zu Unterwasserarbeiten mit einem Helmtauchgerät
 ausgebildet, in Übung gehalten oder eingesetzt werden, sind
@@ -199,6 +204,7 @@ werden, sind Schwimmtaucher.
 
 
 ## § 5 Beamte im Bergrettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000600311)
 
 (1) Beamte, die
 
@@ -228,6 +234,7 @@ Beamten für die Bergnothilfe in Übung zu halten.
 
 
 ## § 6 Munitionsuntersuchungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000700311)
 
 (1) Beamte, die zur Untersuchung von Munition dienstlich eingesetzt,
 und Beamte, die dabei als Hilfskräfte tätig sind, gehören während des
@@ -249,6 +256,7 @@ Hinzufügen von Teilen.
 
 
 ## § 7 Angehörige von Verbänden für besondere polizeiliche Einsätze
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000801310)
 
 (1) Polizeivollzugsbeamte, die in den zur Bekämpfung schwerer
 Gewaltkriminalität gebildeten Verbänden der Bundespolizei und
@@ -267,6 +275,7 @@ Gefährdung hinausgeht.
 
 
 ## § 8 Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE001200306)
 
 Beamte, die unter einem schwebenden Drehflügelflugzeug Außenlasten an
 diesem Flugzeug ein- oder aushängen oder die Verbindung einer
@@ -277,6 +286,7 @@ Erprobung.
 
 
 ## § 9 Andere Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE000901306)
 
 Für Angestellte und Arbeiter, zu deren Dienstobliegenheiten
 Tätigkeiten der in § 43 Abs. 3 Satz 1 Nr. 1 bis 6 des
@@ -285,6 +295,7 @@ bis 8 entsprechend.
 
 
 ## § 10 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE001001306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im
@@ -292,6 +303,7 @@ Land Berlin.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beamtvg_43abs3v/BJNR010110977.html#BJNR010110977BJNE001101306)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Die Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE000800307)
 
 (1) Zur Durchführung des Schlichtungsverfahrens über streitige
 Rechtsangelegenheiten richtet jede Gemeinde eine oder mehrere
@@ -43,6 +45,7 @@ von Berlin.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE000900307)
 
 (1) Die Aufgaben der Schiedsstelle werden von Schiedspersonen
 wahrgenommen. Die Schiedsperson ist ehrenamtlich tätig.
@@ -52,6 +55,7 @@ Stellvertretern zu besetzen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001000307)
 
 (1) Die Schiedsperson muß nach ihrer Persönlichkeit und ihren
 Fähigkeiten für das Amt geeignet sein. Sie muß das Wahlrecht besitzen.
@@ -68,6 +72,7 @@ Fähigkeiten für das Amt geeignet sein. Sie muß das Wahlrecht besitzen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001100307)
 
 (1) Die Schiedsperson wird als Vorsitzender oder Stellvertreter einer
 Schiedsstelle von der Gemeindevertretung auf fünf Jahre gewählt.
@@ -77,6 +82,7 @@ aufgelöst wird.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001200307)
 
 (1) Die gewählte Schiedsperson bedarf der Bestätigung durch den
 Direktor des Kreisgerichts, in dessen Bereich die Schiedsstelle ihren
@@ -95,6 +101,7 @@ Gemeindeverwaltung schriftlich mitzuteilen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001300307)
 
 Die Schiedsperson wird vom Direktor des Kreisgerichts in ihr Amt
 berufen und verpflichtet, ihre Aufgaben gewissenhaft und unparteiisch
@@ -102,6 +109,7 @@ zu erfüllen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001400307)
 
 (1) Die Berufung zur Schiedsperson kann ablehnen, wer
 
@@ -129,6 +137,7 @@ entscheidet der Direktor des Kreisgerichts.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001500307)
 
 (1) Die Schiedsperson ist ihres Amtes zu entheben, wenn die
 Voraussetzungen ihrer Wahl gemäß § 3 dieses Gesetzes nicht mehr
@@ -153,6 +162,7 @@ Gemeindeverwaltung der Präsident des Bezirksgerichts.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001600307)
 
 (1) Die Tätigkeit der Schiedsperson im Schlichtungsverfahren wird von
 den Behörden der Justizverwaltung, insbesondere hinsichtlich ihrer
@@ -164,6 +174,7 @@ Rechtspflegebereich betrifft.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001700307)
 
 Der Vorsitzende der Schiedsstelle führt ein Protokollbuch und ein
 Kassenbuch sowie eine Sammlung der Kostenrechnungen. Abgeschlossene
@@ -172,6 +183,7 @@ einzureichen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001800307)
 
 (1) Die Schiedsperson hat, auch nach Beendigung ihrer Amtstätigkeit,
 über ihre Verhandlungen und die Verhältnisse der Parteien, soweit sie
@@ -183,6 +195,7 @@ Kreisgerichts aussagen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE001900307)
 
 (1) Die Sachkosten der Schiedsstelle trägt die Gemeinde.
 
@@ -202,10 +215,12 @@ Einwohnerzahl geteilt.
 
 
 ## Zweiter Abschnitt - Das Schlichtungsverfahren in bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000200307)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002000307)
 
 In bürgerlichen Rechtsstreitigkeiten findet das Schlichtungsverfahren
 über vermögensrechtliche Ansprüche statt, soweit nicht die
@@ -214,6 +229,7 @@ Kreisgerichte zuständig sind.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002100307)
 
 (1) Das Schlichtungsverfahren ist darauf gerichtet, den Rechtsstreit
 im Wege des Vergleiches beizulegen. Es wird auf Grund eines Antrages
@@ -226,6 +242,7 @@ die Verhandlung allein führen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002200307)
 
 (1) Zuständig ist die Schiedsstelle, in deren Bereich der
 Antragsgegner oder die Antragsgegnerin wohnen.
@@ -237,6 +254,7 @@ stattfindet.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002300307)
 
 Das Schlichtungsverfahren wird in deutscher Sprache geführt; mit
 Einvernehmen der Parteien kann die Verhandlung in einer anderen
@@ -244,6 +262,7 @@ Sprache geführt werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002400307)
 
 Die Schiedsperson ist von der Ausübung ihres Amtes kraft Gesetzes
 ausgeschlossen:
@@ -258,6 +277,7 @@ Beistand einer Partei bestellt ist oder war.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002500307)
 
 (1) Die Schiedsstelle wird nicht oder nicht weiter tätig, wenn
 die zu protokollierende Vereinbarung nur in notarieller Form gültig
@@ -275,6 +295,7 @@ oder Einigungsstellen anhängig ist.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002600307)
 
 Die Schiedsstelle kann den Antrag auf Einleitung eines
 Schlichtungsverfahrens ablehnen, wenn
@@ -287,6 +308,7 @@ mißbräuchlich gestellt ist.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002700307)
 
 Zu einer amtlichen Tätigkeit außerhalb des Bereichs der Schiedsstelle
 ist die Schiedsperson nur befugt, wenn die Amtsräume außerhalb des
@@ -295,6 +317,7 @@ werden soll.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002800307)
 
 (1) Die Schiedsstelle leitet das Schlichtungsverfahren auf Antrag
 einer Partei ein. Der Antrag kann zurückgenommen werden, nach Beginn
@@ -308,6 +331,7 @@ ist bei der Antragstellung vorzulegen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE002900307)
 
 (1) Der Antrag auf Durchführung des Schlichtungsverfahrens sowie
 dessen Rücknahme sind bei der Schiedsstelle schriftlich einzureichen
@@ -324,6 +348,7 @@ zu übermitteln.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003000307)
 
 (1) Die Schiedsstelle bestimmt Ort und Zeit der
 Schlichtungsverhandlung.
@@ -353,6 +378,7 @@ Termin nicht auf, so hat sie das der Partei mitzuteilen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003100307)
 
 (1) Die Parteien haben in dem anberaumten Termin persönlich zu
 erscheinen.
@@ -397,6 +423,7 @@ neuen Termin an.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003200307)
 
 (1) War der Betroffene ohne Verschulden gehindert, die Frist nach § 24
 Abs. 4 Satz 2 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in
@@ -420,11 +447,13 @@ Parteien werden nicht erstattet.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003300307)
 
 Für die Berechnung der Fristen gilt § 222 der Zivilprozeßordnung.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003400307)
 
 Die Verhandlung vor der Schiedsstelle ist mündlich und nicht
 öffentlich. Sie ist möglichst ohne Unterbrechung zu Ende zu führen;
@@ -432,6 +461,7 @@ ein Termin zur Fortsetzung der Verhandlung ist sofort zu bestimmen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003500307)
 
 Die Vertretung natürlicher Personen durch Bevollmächtigte in der
 Schlichtungsverhandlung ist nicht zulässig. Eltern als gesetzliche
@@ -440,6 +470,7 @@ Vollmacht vertreten.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003600307)
 
 Jede Partei kann vor der Schiedsstelle mit einem Beistand erscheinen.
 In der Schlichtungsverhandlung darf ein Beistand nur zurückgewiesen
@@ -451,6 +482,7 @@ beherrschen oder die blind, taub oder stumm sind.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003700307)
 
 (1) Zeugen und Sachverständige, die freiwillig erschienen sind, können
 gehört werden. Mit Zustimmung und in Anwesenheit der Parteien kann
@@ -462,6 +494,7 @@ Versicherungen ist die Schiedsperson nicht befugt.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003800307)
 
 (1) Kommt ein Vergleich zustande, so ist er zu Protokoll zu nehmen.
 
@@ -488,6 +521,7 @@ Vermerk aufzunehmen.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE003900307)
 
 (1) Das Protokoll ist den Parteien vorzulesen oder zur Durchsicht
 vorzulegen und von ihnen zu genehmigen. Dies ist in dem Protokoll zu
@@ -503,6 +537,7 @@ besonderen Vermerk beglaubigen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004000307)
 
 (1) Die Parteien oder deren Rechtsnachfolger erhalten auf Verlangen
 Abschriften oder Ausfertigungen des Protokolls.
@@ -525,6 +560,7 @@ erteilt.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004100307)
 
 (1) Aus dem vor einer Schiedsstelle geschlossenen Vergleich findet die
 Zwangsvollstreckung statt.
@@ -544,14 +580,17 @@ verwahrt.
 
 
 ## Dritter Abschnitt - Das Schlichtungsverfahren in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000300307)
 
 
 
 ### - - Das Sühneverfahren vor Erhebung der Privatklage
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000400307)
 
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004200307)
 
 (1) Die Schiedsstelle ist die Vergleichsbehörde im Sinne des § 380
 Abs. 1 Strafprozeßordnung. Sie ist zuständig für die dort genannten
@@ -564,6 +603,7 @@ getroffen sind.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004300307)
 
 (1) Das im Falle der Erhebung der Privatklage zuständige Gericht kann
 auf Antrag gestatten, daß von dem Sühneversuch abgesehen wird, wenn
@@ -582,6 +622,7 @@ anfechten.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004400307)
 
 Die Schiedsstelle darf den Sühneversuch nur ablehnen, wenn die
 Parteien auch nach Unterbrechung oder Vertagung der
@@ -589,6 +630,7 @@ Schlichtungsverhandlung ihre Identität nicht nachweisen.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004500307)
 
 Hat der Antragsgegner oder die Antragsgegnerin einen gesetzlichen
 Vertreter, so stellt die Schiedsstelle auch diesem die
@@ -597,6 +639,7 @@ Schlichtungsverhandlung zugelassen.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004600307)
 
 (1) Auf Antrag bescheinigt die Schiedsperson die Erfolglosigkeit des
 Sühneversuchs zum Zwecke der Einreichung der Klage (§ 380 Abs. 1 Satz
@@ -629,18 +672,22 @@ Datum der Ausstellung zu enthalten.
 
 
 ### - - Das Schlichtungsverfahren zur außergerichtlichen Erledigung einer Strafsache
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000500307)
 
 
 
 #### (XXXX) §§ 40 bis 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE004701301)
 
 
 
 ## Vierter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000600307)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005300307)
 
 (1) Die Schiedsstelle erhebt für ihre Tätigkeit Kosten (Gebühren und
 Auslagen) nur nach diesem Gesetz.
@@ -651,6 +698,7 @@ Stellvertreter beauftragen.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005400307)
 
 (1) Zur Zahlung der Kosten ist derjenige verpflichtet, der die
 Tätigkeit der Schiedsstelle veranlaßt hat; im Schlichtungsverfahren
@@ -678,6 +726,7 @@ Kostenschuldners nach Absatz 1 vor.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005500307)
 
 (1) Gebühren werden mit der Beendigung des gebührenpflichtigen
 Geschäfts, Auslagen mit ihrem Entstehen fällig.
@@ -697,6 +746,7 @@ entstandenen Kosten gezahlt sind.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005600307)
 
 (1) Die Kosten und Ordnungsgelder werden aufgrund einer von der
 Schiedsperson unterschriebenen und dem Kostenschuldner mitgeteilten
@@ -708,6 +758,7 @@ Schiedsperson im Verwaltungswege beigetrieben.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005700307)
 
 (1) Für das Schlichtungsverfahren wird eine Gebühr von 15 Deutsche
 Mark erhoben; kommt ein Vergleich zustande, so beträgt die Gebühr 30
@@ -724,6 +775,7 @@ nur einmal erhoben.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005801301)
 
 (1) Die Schiedsstelle erhebt
 
@@ -755,6 +807,7 @@ anzuwenden.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE005900307)
 
 (1) Die Schiedsstelle kann ausnahmsweise, wenn das mit Rücksicht auf
 die wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder sonst
@@ -769,6 +822,7 @@ Schiedsstelle zu tragen sind.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006000307)
 
 Über Einwendungen des Kostenschuldners gegen die Kostenrechnung oder
 gegen Maßnahmen nach § 48 Abs. 2 und 4 entscheidet das Kreisgericht,
@@ -778,6 +832,7 @@ werden nicht erhoben. Auslagen der Parteien werden nicht erstattet.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006100307)
 
 (1) Die Gebühren stehen zu gleichen Teilen der Schiedsstelle und der
 Gemeinde zu.
@@ -789,10 +844,12 @@ Schiedsstelle.
 
 
 ## Fünfter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNG000700307)
 
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006200307)
 
 Das Gesetz vom 25. März 1982 über die gesellschaftlichen Gerichte der
 Deutschen Demokratischen Republik - GGG - (GBl. I Nr. 13 S. 269) sowie
@@ -809,6 +866,7 @@ vom 3. März 1989 (GBl. I Nr. 8 S. 117) werden aufgehoben.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006300307)
 
 (1) Die bei Inkrafttreten dieses Gesetzes bestehenden
 Zuständigkeitsbereiche der Schiedskommissionen bestehen als Bereiche
@@ -820,6 +878,7 @@ nach Inkrafttreten dieses Gesetzes zu bilden.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006400307)
 
 (1) Die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bei den
 gesellschaftlichen Gerichten anhängigen Verfahren werden in dem Stand,
@@ -832,6 +891,7 @@ findet die Zwangsvollstreckung statt.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006500307)
 
 Dieses Gesetz tritt am Tage des Inkrafttretens des Einigungsvertrages
 zwischen der Deutschen Demokratischen Republik und der Bundesrepublik
@@ -839,6 +899,7 @@ Deutschland in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schiedsg/DDNR015270990.html#DDNR015270990BJNE006600307)
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen
 Republik am dreizehnten September neunzehnhundertneunzig beschlossene

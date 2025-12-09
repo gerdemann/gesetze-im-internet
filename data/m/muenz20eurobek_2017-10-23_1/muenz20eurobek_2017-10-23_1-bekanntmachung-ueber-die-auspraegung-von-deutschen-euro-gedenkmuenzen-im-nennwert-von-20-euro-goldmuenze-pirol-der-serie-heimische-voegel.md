@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2017-10-23_1/BJNR362800017.html#BJNR362800017BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2016 bis
@@ -47,11 +48,13 @@ Münzstätte – das Münzzeichen „A“, „D“, „F“, „G“ oder „J�
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2017-10-23_1/BJNR362800017.html#BJNR362800017BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2017-10-23_1/BJNR362800017.html#BJNR362800017BJNE000300000)
 
 
 *    *        ![bgbl1_2017_j3628-1_0010.jpg](bgbl1_2017_j3628-1_0010.jpg)

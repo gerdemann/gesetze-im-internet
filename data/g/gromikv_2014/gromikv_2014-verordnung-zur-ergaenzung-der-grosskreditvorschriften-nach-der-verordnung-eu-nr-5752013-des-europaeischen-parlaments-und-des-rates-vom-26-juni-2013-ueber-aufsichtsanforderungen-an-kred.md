@@ -35,6 +35,7 @@ Stand: Ersetzt V 7610-2-31 v. 14.12.2006 I 3065
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000100000)
 
 Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3
 des Kreditwesengesetzes, von denen § 13 Absatz 1 Satz 1 und 3 durch
@@ -46,12 +47,15 @@ Institute:
 
 
 ## Teil 1 - Ergänzende Regelungen für Großkredite
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000100000)
 
 
 ### Kapitel 1 - Ausnahmen von der Anwendung der Obergrenze für Großkredite
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000200000)
 
 
 #### § 1 Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000303119)
 
 Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach
 Berücksichtigung der Wirkung einer Kreditrisikominderung nach den
@@ -221,6 +225,7 @@ Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung
 
 
 #### § 2 Weitere Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000402119)
 
 (1) Bei der Berechnung der Auslastung der Obergrenze für Großkredite
 nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 sind
@@ -339,6 +344,7 @@ ausgenommen.
 
 
 #### § 2a Gleichzeitige Anwendung von mehreren Ausnahmen auf eine Risikoposition
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE003300119)
 
 Eine gleichzeitige Anwendung von mehr als einer der in Artikel 400
 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 und in den §§ 1 und 2
@@ -347,9 +353,11 @@ gestattet.
 
 
 ### Kapitel 2 - Beschlussfassungspflichten der Geschäftsleiter
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000300000)
 
 
 #### § 3 Ausnahmen von der Beschlussfassungspflicht nach § 13 Absatz 2 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000501119)
 
 (1) Ein Geschäftsleiterbeschluss nach § 13 Absatz 2 und 3 des
 Kreditwesengesetzes ist nicht erforderlich bei
@@ -375,6 +383,7 @@ Risikoposition durch Änderungen nach Satz 1 überschritten wird.
 
 
 #### § 4 Beschlussfassungspflicht bei Großkreditüberschreitungen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000600000)
 
 Soll ein Großkredit über die Obergrenze für Großkredite hinaus erhöht
 werden, haben die Geschäftsleiter hierüber vor der Erhöhung einstimmig
@@ -382,24 +391,30 @@ nach § 13 Absatz 2 und 3 des Kreditwesengesetzes zu beschließen.
 
 
 ### Kapitel 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000401119)
 
 
 #### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000701119)
 
 
 
 #### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000801119)
 
 
 
 #### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE000901119)
 
 
 
 ### Kapitel 4 - Meldungen zu Großkrediten
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000500000)
 
 
 #### § 8 Stammdaten der Großkreditnehmer
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001002118)
 
 (1) Besteht eine Meldepflicht nach Artikel 394 Absatz 1 und 2 der
 Verordnung (EU) Nr. 575/2013 in Bezug auf einen Kreditnehmer oder eine
@@ -453,9 +468,11 @@ dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
 
 #### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001101119)
 
 
 #### § 10 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001200000)
 
 Die Institute und die übergeordneten Unternehmen haben die Meldungen
 zu den Stammdaten und die Meldungen nach Artikel 394 Absatz 1 und 2
@@ -465,12 +482,15 @@ aufzubewahren.
 
 
 ## Teil 2 - Bestimmungen für Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000600000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000700000)
 
 
 #### § 11 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001300000)
 
 (1) Geschäftsschluss im Sinne von Teil 2 dieser Verordnung ist täglich
 um 24 Uhr MEZ/MESZ. Die Bundesanstalt kann auf Antrag eines Instituts
@@ -482,6 +502,7 @@ angemessen Rechnung trägt.
 
 
 #### § 12 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001402119)
 
 (1) Die Bemessungsgrundlage für die Ermittlung der Kreditbeträge nach
 § 14 des Kreditwesengesetzes ist
@@ -564,6 +585,7 @@ die Bundesanstalt kann die Zustimmung jederzeit widerrufen.
 
 
 #### § 13 Umrechnung der auf fremde Währungen lautenden Positionen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001501124)
 
 Eine auf eine fremde Währung lautende Position ist entweder zu dem
 Referenzkurs, der von der Europäischen Zentralbank am Tag des
@@ -579,6 +601,7 @@ legen.
 
 
 #### § 14 Bestimmung des Kreditnehmers
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001601124)
 
 (1) Für die Zwecke des § 14 des Kreditwesengesetzes ist der
 Kreditnehmer
@@ -644,9 +667,11 @@ Institut auch die zugrunde liegenden Vermögenswerte zu melden.
 
 
 ### Kapitel 2 - Meldeverfahren für Millionenkreditanzeigen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000800000)
 
 
 #### § 15 Meldeverfahren, Meldestichtag, Ermittlung der Millionenkreditmeldegrenze
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001701124)
 
 (1) Im Rahmen der Millionenkreditanzeigen nach § 14 des
 Kreditwesengesetzes haben die am Millionenkreditmeldeverfahren
@@ -683,6 +708,7 @@ unberücksichtigt.
 
 
 #### § 16 Stammdaten für Millionenkreditnehmer
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001801118)
 
 (1) Ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen muss
 die Angaben zu den Stammdaten eines Kunden oder einer
@@ -768,6 +794,7 @@ dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
 
 #### § 17 Betragsdaten für Millionenkredite
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE001902118)
 
 (1) Ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen muss
 die Angaben zu den Betragsdaten der Millionenkredite der
@@ -823,6 +850,7 @@ Meldungen dadurch nicht beeinträchtigt wird.
 
 
 #### § 18 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002000000)
 
 Die am Millionenkreditmeldeverfahren beteiligten Unternehmen haben die
 Meldungen zu den Stammdaten und zu den Betragsdaten nach den §§ 15 bis
@@ -831,9 +859,11 @@ Kalenderjahren eingereicht haben, aufzubewahren.
 
 
 ## Teil 3 - Benachrichtigung nach § 14 Absatz 2 Satz 1 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG000900000)
 
 
 ### § 19 Benachrichtigung über die Verschuldung der Kreditnehmer
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002102118)
 
 (1) Die Benachrichtigung nach § 14 Absatz 2 Satz 1 des
 Kreditwesengesetzes stellt die Evidenzzentrale den am
@@ -887,13 +917,16 @@ bereitstellen.
 
 
 ## Teil 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNG001000000)
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002204119)
 
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002300000)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt
 die Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006
@@ -902,10 +935,12 @@ Oktober 2011 (BGBl. I S. 2103) geändert worden ist, außer Kraft.
 
 
 ### Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002401119)
 
 
 
 ### Anlage 2 Meldeformular EA
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002502119)
 
 (Fundstelle: BGBl. I 2019, 153 - 154; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -1319,6 +1354,7 @@ formular-center/meldungen veröffentlicht sind.
 [^F806348_16_BJNR418300013BJNE002502119]: 
 
 ### Anlage 3 Meldeformular STA
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002602119)
 
 (Fundstelle: BGBl. I 2019, 155 - 156; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -1724,6 +1760,7 @@ formular-center/meldungen veröffentlicht sind.
 [^F806348_16a_BJNR418300013BJNE002602119]: 
 
 ### Anlage 4 GbR
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002701119)
 
 (Fundstelle: BGBl. I 2013, 4197 - 4198; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -1732,6 +1769,7 @@ formular-center/meldungen veröffentlicht sind.
 
 
 ### Anlage 5 MKNE
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002801119)
 
 (Fundstelle: BGBl. I 2013, 4199 - 4200; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -1740,6 +1778,7 @@ formular-center/meldungen veröffentlicht sind.
 
 
 ### Anlage 6 STAK
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE002901119)
 
 (Fundstelle: BGBl. I 2013, 4201 - 4202; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -1748,6 +1787,7 @@ formular-center/meldungen veröffentlicht sind.
 
 
 ### Anlage 7 BA
+[Direktlink](https://www.gesetze-im-internet.de/gromikv_2014/BJNR418300013.html#BJNR418300013BJNE003003119)
 
 (Fundstelle: BGBl. I 2019, 157 - 160; bezüglich der einzelnen
 Änderungen vgl. Fußnote)

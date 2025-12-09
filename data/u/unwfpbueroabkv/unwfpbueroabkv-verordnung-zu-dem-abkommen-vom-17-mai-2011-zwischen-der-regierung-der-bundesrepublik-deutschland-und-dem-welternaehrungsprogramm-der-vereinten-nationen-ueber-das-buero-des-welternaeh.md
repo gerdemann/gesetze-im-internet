@@ -20,6 +20,7 @@ Fundstelle
 Stand: Diese V ist gem. Art. 3 Abs. 1 u. 3 iVm Bek. v. 13.12.2013; 2014 II 89 am 22.10.2013 in Kraft getreten. Sie tritt gem. Art. 3 Abs. 2 an dem Tag außer Kraft, an dem das in Art. 1 genannte Abkommen nach seinem Art. 5 Abs. 3 außer Kraft tritt.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unwfpb_roabkv/BJNR029420013.html#BJNR029420013BJNE000100000)
 
 Auf Grund des Artikels 2 Absatz 2 des Gesetzes vom 5. Juni 1996 zu dem
 Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland
@@ -29,6 +30,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unwfpb_roabkv/BJNR029420013.html#BJNR029420013BJNE000200000)
 
 Das in Rom am 17. Mai 2011 geschlossene Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und dem
@@ -39,6 +41,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unwfpb_roabkv/BJNR029420013.html#BJNR029420013BJNE000300000)
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10.
 November 1995 zwischen der Bundesrepublik Deutschland und den
@@ -49,6 +52,7 @@ im Sinne des Artikels 24 Absatz 2 des Abkommens vom 10. November 1995.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unwfpb_roabkv/BJNR029420013.html#BJNR029420013BJNE000400000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das in Artikel
 1 genannte Abkommen nach seinem Artikel 5 Absatz 1 in Kraft tritt.
@@ -62,6 +66,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/unwfpb_roabkv/BJNR029420013.html#BJNR029420013BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

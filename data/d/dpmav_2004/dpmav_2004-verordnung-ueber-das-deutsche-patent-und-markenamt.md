@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000100000)
 
 Auf Grund
 
@@ -69,10 +70,12 @@ sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998
 
 
 ## Abschnitt 1 - Organisation, Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNG000100000)
 
 
 
 ### § 1 Leitung, Aufsicht, Übertragung von Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000304123)
 
 (1) Der Präsident oder die Präsidentin leitet und beaufsichtigt den
 gesamten Geschäftsbetrieb des Deutschen Patent- und Markenamts und
@@ -90,6 +93,7 @@ Designgesetzes werden auf das Deutsche Patent- und Markenamt
 
 
 ### § 2 Prüfungsstellen und Patentabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000400000)
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Prüfungsstellen und Patentabteilungen sowie die Vorsitzenden und
@@ -140,6 +144,7 @@ Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
 
 ### § 3 Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000500000)
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Gebrauchsmusterstelle und der Gebrauchsmusterabteilungen sowie die
@@ -178,6 +183,7 @@ Ausschlag.
 
 
 ### § 4 Topografiestelle und Topografieabteilung
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000600000)
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Topografiestelle und der Topografieabteilung sowie den oder die
@@ -214,6 +220,7 @@ Ausschlag.
 
 
 ### § 5 Markenstellen und Markenabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000701360)
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Markenstellen und Markenabteilungen sowie die Vorsitzenden und
@@ -244,6 +251,7 @@ Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
 
 ### § 6 Designstellen und Designabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000803360)
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Designstellen und der Designabteilungen sowie die Vorsitzenden und
@@ -278,10 +286,12 @@ Ausschlag.
 
 
 ## Abschnitt 2 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNG000200000)
 
 
 
 ### § 7 DIN-Normen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE000900000)
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
@@ -289,6 +299,7 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 ### § 8 Behandlung von Eingängen, Empfangsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001002123)
 
 (1) In den Akten wird der Tag des Eingangs vermerkt.
 
@@ -299,6 +310,7 @@ sowie den Tag des Eingangs der Anmeldung angibt.
 
 
 ### § 9 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001101360)
 
 (1) Das Deutsche Patent- und Markenamt gibt für
 Schutzrechtsanmeldungen und andere Anträge Formblätter heraus, die in
@@ -315,6 +327,7 @@ Deutschen Patent- und Markenamts www.dpma.de bekannt gemacht.
 
 
 ### § 10 Originale
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001201360)
 
 (1) Originale von Anträgen und Eingaben sind unterschrieben
 einzureichen.
@@ -328,6 +341,7 @@ fortlaufend nummeriert sein.
 
 
 ### § 11 Übermittlung durch Telefax
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001300000)
 
 (1) Das unterschriebene Original kann auch durch Telefax übermittelt
 werden.
@@ -341,6 +355,7 @@ Anforderungen des Deutschen Patent- und Markenamts nicht entspricht.
 
 
 ### § 12 Einreichung elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001404360)
 
 Elektronische Dokumente sind nach Maßgabe der Verordnung über den
 elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
@@ -349,6 +364,7 @@ dieser Verordnung vor.
 
 
 ### § 13 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001500000)
 
 (1) Beteiligte können sich in jeder Lage des Verfahrens durch
 Bevollmächtigte vertreten lassen.
@@ -360,6 +376,7 @@ in dem Zusammenschluss tätigen Vertreter.
 
 
 ### § 14 Mehrere Beteiligte, mehrere Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001600000)
 
 (1) Falls mehrere Personen ohne gemeinsamen Vertreter gemeinschaftlich
 an einem Verfahren beteiligt oder mehrere Vertreter mit
@@ -388,6 +405,7 @@ Anschrift maßgebend, die zuerst genannt ist.
 
 
 ### § 15 Vollmachten
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001701360)
 
 (1) Bevollmächtigte, soweit sie nicht nur zum Empfang von Zustellungen
 oder Mitteilungen ermächtigt sind, haben beim Deutschen Patent- und
@@ -414,6 +432,7 @@ Bevollmächtigte auftreten.
 
 
 ### § 16 Kennnummern für Anmelder, Vertreter und Angestelltenvollmachten
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001801360)
 
 Zur Erleichterung der Bearbeitung von Anmeldungen teilt das Deutsche
 Patent- und Markenamt den Anmeldern, den Vertretern und den
@@ -423,6 +442,7 @@ Formularen angegeben werden, sofern dies vorgesehen ist.
 
 
 ### § 17 Sonstige Erfordernisse für Anträge und Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE001901360)
 
 (1) Nach Mitteilung des Aktenzeichens ist dieses auf allen Anträgen
 und Eingaben anzugeben. Auf allen Bestandteilen einer an das Deutsche
@@ -441,6 +461,7 @@ Fällen die Beteiligten jedoch auffordern, Abschriften nachzureichen.
 
 
 ### § 18 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002000000)
 
 (1) Die vom Deutschen Patent- und Markenamt bestimmten oder auf Antrag
 gewährten Fristen sollen mindestens einen Monat, bei Beteiligten, die
@@ -457,6 +478,7 @@ Beteiligten glaubhaft gemacht werden.
 
 
 ### § 18a Fristberechnung bei Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003700360)
 
 Ist beim Deutschen Patent- und Markenamt innerhalb einer Frist eine
 Willenserklärung abzugeben, eine Leistung zu bewirken oder eine
@@ -467,6 +489,7 @@ der nächste Werktag.
 
 
 ### § 19 Entscheidung nach Lage der Akten
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002100000)
 
 (1) Über Anträge oder Erinnerungen ohne Begründung kann im einseitigen
 Verfahren nach Ablauf von einem Monat nach Eingang nach Lage der Akten
@@ -487,6 +510,7 @@ Beteiligten nicht abgewartet werden.
 
 
 ### § 20 Form der Ausfertigungen und Abschriften; formlose Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002202123)
 
 (1) Ausfertigungen von Dokumenten enthalten in der Kopfzeile die
 Angabe „Deutsches Patent- und Markenamt“, am Schluss die Bezeichnung
@@ -510,6 +534,7 @@ die Angabe der zuständigen Stelle.
 
 
 ### § 21 Zustellung und formlose Übersendung
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002302123)
 
 (1) Soweit durch Gesetz oder Rechtsverordnung eine Zustellung nicht
 vorgesehen ist, werden Bescheide und sonstige Mitteilungen des
@@ -523,6 +548,7 @@ bleibt unberührt.
 
 
 ### § 22 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002404360)
 
 (1) Über den Antrag auf Einsicht in die Akten sowie in die zu den
 Akten gehörenden Muster, Modelle und Probestücke nach § 31 Abs. 1 Satz
@@ -556,10 +582,12 @@ für Modelle, die nach § 7 Abs. 6 des Designgesetzes in seiner bis zum
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002501360)
 
 
 
 ### § 24 Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002601360)
 
 (1) Über den Antrag auf Gewährung von Verfahrenskostenhilfe nach § 135
 des Patentgesetzes entscheidet nach dessen § 27 Abs. 1 Nr. 2 und Abs.
@@ -577,6 +605,7 @@ Rechtsverordnung etwas anderes bestimmt ist.
 
 
 ### § 25 Urkunden, Schmuckurkunden
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002701360)
 
 (1) Das Deutsche Patent- und Markenamt fertigt für die
 Schutzrechtsinhaber gedruckte Urkunden über die Erteilung des Patents,
@@ -588,6 +617,7 @@ Schmuckurkunde ausgefertigt.
 
 
 ### § 26 Berichtigung der Register und Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002800000)
 
 (1) In dem Berichtigungsantrag sind anzugeben:
 
@@ -618,6 +648,7 @@ Veröffentlichungen anzuwenden.
 
 
 ### § 27 Änderungen von Namen oder Anschriften
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE002901360)
 
 (1) In dem Antrag auf Eintragung von Änderungen des Namens oder der
 Anschrift des Inhabers eines eingetragenen Schutzrechts sind
@@ -650,6 +681,7 @@ Vertreters oder eines Zustellungsbevollmächtigten anzuwenden.
 
 
 ### § 28 Eintragung eines Rechtsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003005360)
 
 (1) Der Antrag auf Eintragung eines Rechtsübergangs nach § 30 Abs. 3
 des Patentgesetzes, § 8 Abs. 4 des Gebrauchsmustergesetzes, § 4 Abs. 2
@@ -730,6 +762,7 @@ Schutzrechte gemeinsam gestellt werden.
 
 
 ### § 29 Eintragung von dinglichen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003100000)
 
 (1) Dem Antrag auf Eintragung einer Verpfändung oder eines sonstigen
 dinglichen Rechts an dem durch die Eintragung eines gewerblichen
@@ -741,6 +774,7 @@ entsprechend anzuwenden.
 
 
 ### § 30 Maßnahmen der Zwangsvollstreckung, Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003200000)
 
 (1) Der Antrag auf Eintragung einer Maßnahme der Zwangsvollstreckung
 in das Register kann vom Inhaber des eingetragenen Schutzrechts oder
@@ -752,6 +786,7 @@ Register sind die erforderlichen Nachweise beizufügen.
 
 
 ### § 31 Aufbewahrung von eingereichten Gegenständen oder Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003303360)
 
 Über Muster, Modelle, Probestücke und ähnliche Unterlagen, deren
 Rückgabe nicht beantragt worden ist, verfügt das Deutsche Patent- und
@@ -786,10 +821,12 @@ Markenamt,
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNG000300000)
 
 
 
 ### § 32 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003400000)
 
 Für Anträge, die vor Inkrafttreten dieser Verordnung eingereicht
 worden sind, finden die Vorschriften der Verordnung über das Deutsche
@@ -799,6 +836,7 @@ S. 3656), weiter Anwendung.
 
 
 ### § 33 Übergangsregelung für künftige Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003500000)
 
 Für Anträge, die vor Inkrafttreten von Änderungen dieser Verordnung
 eingereicht worden sind, gelten die Vorschriften dieser Verordnung
@@ -806,6 +844,7 @@ jeweils in ihrer bis dahin geltenden Fassung.
 
 
 ### § 34 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dpmav_2004/BJNR051400004.html#BJNR051400004BJNE003600000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Juni
 2004 in Kraft.

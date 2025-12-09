@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Weitere Polizeivollzugsbehörden des Landes Bayern
+[Direktlink](https://www.gesetze-im-internet.de/redteilnv/BJNR030300015.html#BJNR030300015BJNE000100000)
 
 Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff
 auf die Rechtsextremismus-Datei berechtigt:
@@ -86,6 +87,7 @@ auf die Rechtsextremismus-Datei berechtigt:
 
 
 ## § 2 Weitere Polizeivollzugsbehörde des Landes Brandenburg
+[Direktlink](https://www.gesetze-im-internet.de/redteilnv/BJNR030300015.html#BJNR030300015BJNE000200000)
 
 Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum
 Zugriff auf die Rechtsextremismus-Datei berechtigt:
@@ -96,6 +98,7 @@ Kaiser-Friedrich-Straße 143
 
 
 ## § 3 Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
+[Direktlink](https://www.gesetze-im-internet.de/redteilnv/BJNR030300015.html#BJNR030300015BJNE000300000)
 
 Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind
 zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
@@ -129,6 +132,7 @@ zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 
 ## § 4 Weitere Polizeivollzugsbehörden des Landes Sachsen
+[Direktlink](https://www.gesetze-im-internet.de/redteilnv/BJNR030300015.html#BJNR030300015BJNE000400000)
 
 Als weitere Polizeivollzugsbehörden des Landes Sachsen sind zum
 Zugriff auf die Rechtsextremismus-Datei berechtigt:
@@ -162,6 +166,7 @@ Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
 
 ## § 5 Weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt
+[Direktlink](https://www.gesetze-im-internet.de/redteilnv/BJNR030300015.html#BJNR030300015BJNE000500000)
 
 Als weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt sind zum
 Zugriff auf die Rechtsextremismus-Datei berechtigt:

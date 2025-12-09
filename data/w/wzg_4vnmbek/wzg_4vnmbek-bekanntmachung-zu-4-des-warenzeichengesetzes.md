@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4vnmbek/BJNR012650985.html#BJNR012650985BJNE000100319)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29)
@@ -29,11 +30,13 @@ die in der Sozialistischen Republik Vietnam eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4vnmbek/BJNR012650985.html#BJNR012650985BJNE000900319)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Prüf- und Gewährzeichen der Sozialistischen Republik Vietnam
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4vnmbek/BJNR012650985.html#BJNR012650985BJNE000200319)
 
 (Inhalt: Nicht darstellbare Muster,
 Fundstelle: BGBl. I 1985, 1265)

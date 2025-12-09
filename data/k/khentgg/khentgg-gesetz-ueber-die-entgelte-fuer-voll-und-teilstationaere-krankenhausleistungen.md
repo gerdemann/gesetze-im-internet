@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG000600000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000105126)
 
 (1) Die vollstationären und teilstationären Leistungen der DRG-
 Krankenhäuser werden nach diesem Gesetz und dem
@@ -70,6 +72,7 @@ Sozialgesetzbuch vergütet.
 
 
 ### § 2 Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000209126)
 
 (1) Krankenhausleistungen nach § 1 Abs. 1 sind insbesondere ärztliche
 Behandlung, auch durch nicht fest angestellte Ärztinnen und Ärzte,
@@ -162,10 +165,12 @@ zwischen Krankenhäusern erbracht werden.
 
 
 ## Abschnitt 2 - Vergütung der Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG000700000)
 
 
 
 ### § 3 Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000309126)
 
 Die voll- und teilstationären allgemeinen Krankenhausleistungen werden
 vergütet durch
@@ -206,6 +211,7 @@ vergütet durch
 
 
 ### § 4 Vereinbarung eines Erlösbudgets
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000441126)
 
 (1) Das von den Vertragsparteien nach § 11 Abs. 1 zu vereinbarende
 Erlösbudget umfasst für voll- und teilstationäre Leistungen die
@@ -749,6 +755,7 @@ Verfahren für die Übermittlung fest.
 
 
 ### § 4a Ermittlung eines Erlösvolumens für die Versorgung von Kindern und Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002500126)
 
 (1) Als Grundlage der Ermittlung eines Erlösvolumens für die
 Versorgung von Kindern und Jugendlichen für die Jahre 2023 und 2024
@@ -926,6 +933,7 @@ ermittelten und aktualisierten Erlösvolumens.
 
 
 ### § 5 Vereinbarung und Abrechnung von Zu- und Abschlägen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000518126)
 
 (1) Die nach § 9 Abs. 1 Satz 1 Nr. 3 vereinbarten Regelungen für
 bundeseinheitliche Zu- und Abschläge nach § 17b Absatz 1a des
@@ -1488,6 +1496,7 @@ abweichende Vereinbarung schließen.
 
 
 ### § 6 Vereinbarung sonstiger Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000616126)
 
 (1) Für Leistungen, die noch nicht mit den DRG-Fallpauschalen und
 Zusatzentgelten sachgerecht vergütet werden können, und für besondere
@@ -1644,6 +1653,7 @@ Rahmen der Erlössumme vergütet.
 
 
 ### § 6a Vereinbarung eines Pflegebudgets
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002407126)
 
 (1) Die Vertragsparteien nach § 11 vereinbaren zur Finanzierung der
 Pflegepersonalkosten nach § 17b Absatz 4 des
@@ -1907,6 +1917,7 @@ Pflegepersonal für das Vereinbarungsjahr 2021 zugrunde.
 
 
 ### § 6b Vergütung eines Vorhaltebudgets
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002600126)
 
 (1) Jedes Krankenhaus erhält ab dem 1. Januar 2027 für jede
 Leistungsgruppe, die ihm nach § 6a Absatz 1 Satz 1 des
@@ -2066,6 +2077,7 @@ Entgelten nach § 7 Absatz 1 Satz 1 Nummer 6b vorzulegen.
 
 
 ### § 6c Vergütung von sektorenübergreifenden Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002700126)
 
 (1) Die Vertragsparteien nach § 11 vereinbaren für die nach § 115g
 Absatz 3 Satz 1 Nummer 1 bis 3 des Fünften Buches Sozialgesetzbuch
@@ -2292,10 +2304,12 @@ folgt, in dem die Bestimmung erfolgte, abrechnen.
 
 
 ## Abschnitt 3 - Entgeltarten und Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG000800000)
 
 
 
 ### § 7 Entgelte für allgemeine Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002303129)
 
 (1) Die allgemeinen Krankenhausleistungen werden gegenüber den
 Patienten oder ihren Kostenträgern mit folgenden Entgelten
@@ -2394,6 +2408,7 @@ und 10 vereinbarten Abrechnungsbestimmungen sind anzuwenden.
 
 
 ### § 8 Berechnung der Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000825129)
 
 (1) Die Entgelte für allgemeine Krankenhausleistungen sind für alle
 Benutzer des Krankenhauses einheitlich zu berechnen; § 17 Abs. 5 des
@@ -2638,10 +2653,12 @@ jeweilige Fallpauschale vorgesehen ist.
 
 
 ## Abschnitt 4 - Vereinbarungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG000900000)
 
 
 
 ### § 9 Vereinbarung auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE000919126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der
 Privaten Krankenversicherung gemeinsam vereinbaren mit der Deutschen
@@ -2922,6 +2939,7 @@ Erhöhungsrate und die anteilige Erhöhungsrate.
 
 
 ### § 10 Vereinbarung auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001031126)
 
 (1) Zur Bestimmung der Höhe der Fallpauschalen nach § 9 Abs. 1 Satz 1
 Nr. 1 vereinbaren die in § 18 Abs. 1 Satz 2 des
@@ -3252,6 +3270,7 @@ insoweit nicht.
 
 
 ### § 11 Vereinbarung für das einzelne Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001109126)
 
 (1) Nach Maßgabe der §§ 3 bis 6b und unter Beachtung des
 Versorgungsauftrags des Krankenhauses nach § 8 Absatz 1 Satz 3 und 4,
@@ -3398,6 +3417,7 @@ Absatz 4 Satz 6 wie folgt zu vereinbaren ist:
 
 
 ### § 12 Vorläufige Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001203126)
 
 Können sich die Vertragsparteien insbesondere über die Höhe des
 Erlösbudgets, des Pflegebudgets, die Höhe sonstiger Entgelte oder über
@@ -3414,6 +3434,7 @@ ausgeglichen.
 
 
 ### § 13 Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001303126)
 
 (1) Kommt eine Vereinbarung nach § 6c Absatz 1 Satz 1, § 10 oder § 11
 ganz oder teilweise nicht zustande, entscheidet die Schiedsstelle nach
@@ -3453,6 +3474,7 @@ Gründen beruht.
 
 
 ### § 14 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001407126)
 
 (1) Die Genehmigung des vereinbarten oder von der Schiedsstelle nach §
 13 festgesetzten landesweit geltenden Basisfallwerts nach § 10, des
@@ -3505,6 +3527,7 @@ nicht statt; die Klage hat keine aufschiebende Wirkung.
 
 
 ### § 15 Laufzeit
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001513126)
 
 (1) Die für das Kalenderjahr vereinbarten Fallpauschalen und
 Zusatzentgelte nach § 7 Abs. 1 Satz 1 Nr. 1 und 2 werden bei
@@ -3618,14 +3641,17 @@ Vereinbarungsjahres.
 
 
 ## Abschnitt 5 - Gesondert berechenbare ärztliche und andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG001000000)
 
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001601308)
 
 
 
 ### § 17 Wahlleistungen
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001708126)
 
 (1) Neben den Entgelten für die voll- und teilstationäre Behandlung
 dürfen andere als die allgemeinen Krankenhausleistungen als
@@ -3702,6 +3728,7 @@ Dezember 2012 geltenden Fassung abzuziehenden Kosten decken.
 
 
 ### § 18 Belegärzte
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001803126)
 
 (1) Belegärzte im Sinne dieses Gesetzes sind nicht am Krankenhaus
 angestellte Vertragsärzte, die berechtigt sind, ihre Patienten
@@ -3759,6 +3786,7 @@ Nummer 2 vereinbarten krankenhausindividuellen Tagesentgelte ab.
 
 
 ### § 19 Kostenerstattung der Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE001904308)
 
 (1) Soweit Belegärzte zur Erbringung ihrer Leistungen nach § 18 Ärzte
 des Krankenhauses in Anspruch nehmen, sind sie verpflichtet, dem
@@ -3804,10 +3832,12 @@ bis 4 nicht berührt.
 
 
 ## Abschnitt 6 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNG001100000)
 
 
 
 ### § 20 Zuständigkeit der Krankenkassen auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002003308)
 
 Die in diesem Gesetz den Landesverbänden der Krankenkassen
 zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
@@ -3819,6 +3849,7 @@ Landwirtschaft, Forsten und Gartenbau wahr.
 
 
 ### § 21 Übermittlung und Nutzung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002121126)
 
 (1) Das Krankenhaus übermittelt auf einem maschinenlesbaren
 Datenträger jeweils zum 31. März für das jeweils vorangegangene
@@ -4255,6 +4286,7 @@ entsprechend.
 
 
 ### Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)
+[Direktlink](https://www.gesetze-im-internet.de/khentgg/BJNR142200002.html#BJNR142200002BJNE002207119)
 
 (Fundstelle: BGBl. I 2002, 1433 - 1437;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

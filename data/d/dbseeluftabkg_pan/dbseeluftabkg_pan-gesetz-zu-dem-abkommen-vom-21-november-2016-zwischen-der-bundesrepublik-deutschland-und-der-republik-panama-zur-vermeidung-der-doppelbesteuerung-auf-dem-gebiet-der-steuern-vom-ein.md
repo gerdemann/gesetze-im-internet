@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbseeluftabkg_pan/BJNR107220017.html#BJNR107220017BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbseeluftabkg_pan/BJNR107220017.html#BJNR107220017BJNE000200000)
 
 Dem in Panama-Stadt am 21. November 2016 unterzeichneten Abkommen
 zwischen der Bundesrepublik Deutschland und der Republik Panama zur
@@ -36,6 +38,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbseeluftabkg_pan/BJNR107220017.html#BJNR107220017BJNE000300000)
 
 Soweit das Abkommen aufgrund seines Artikels 8 Absatz 2 für die Zeit
 vor dem Inkrafttreten des Abkommens anzuwenden ist, sind bereits
@@ -47,6 +50,7 @@ folgt, in dem das Abkommen in Kraft getreten ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbseeluftabkg_pan/BJNR107220017.html#BJNR107220017BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

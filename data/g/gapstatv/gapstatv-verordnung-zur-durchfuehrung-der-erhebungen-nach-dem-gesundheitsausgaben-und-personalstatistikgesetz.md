@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000100000)
 
 Auf Grund des § 8 des Gesundheitsausgaben- und
 -personalstatistikgesetzes vom 11. Juli 2021 (BGBl. I S. 2754, 2799)
@@ -25,6 +26,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Übermittlungspflichten der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000200000)
 
 (1) Die Bundesagentur für Arbeit übermittelt dem Statistischen
 Bundesamt für Zwecke der Gesundheitsausgabenstatistik jährlich,
@@ -44,6 +46,7 @@ kreisfreier Stadt und für den Bund zu übermitteln.
 
 
 ## § 2 Übermittlungspflicht des Bundesministeriums für Arbeit und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000300000)
 
 Das Bundesministerium für Arbeit und Soziales übermittelt dem
 Statistischen Bundesamt für Zwecke der Gesundheitsausgabenstatistik
@@ -53,6 +56,7 @@ untergliedert nach Funktionen, Institutionen und Beitragspositionen.
 
 
 ## § 3 Übermittlungspflichten der Kassenzahnärztlichen Bundesvereinigung
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000400000)
 
 Die Kassenzahnärztliche Bundesvereinigung übermittelt dem
 Statistischen Bundesamt für Zwecke der Gesundheitsausgabenstatistik
@@ -79,6 +83,7 @@ Frequenzstatistik:
 
 
 ## § 4 Übermittlungspflicht der Postbeamtenkrankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000500000)
 
 Die Postbeamtenkrankenkasse übermittelt dem Statistischen Bundesamt
 für Zwecke der Gesundheitsausgabenstatistik jährlich, spätestens bis
@@ -90,6 +95,7 @@ sonstige Leistungen.
 
 
 ## § 5 Übermittlungspflichten des Verbands der Privaten Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000600000)
 
 (1) Der Verband der Privaten Krankenversicherung übermittelt dem
 Statistischen Bundesamt für Zwecke der Gesundheitsausgabenstatistik
@@ -120,6 +126,7 @@ Bereichs.
 
 
 ## § 6 Übermittlungspflicht des Arbeitgeberverbands der Versicherungsunternehmen in Deutschland e.V.
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000700000)
 
 Der Arbeitgeberverband der Versicherungsunternehmen in Deutschland
 e.V. übermittelt dem Statistischen Bundesamt für Zwecke der
@@ -129,6 +136,7 @@ der Mitarbeiterinnen und Mitarbeiter der Privaten Krankenversicherung.
 
 
 ## § 7 Übermittlungspflichten des Instituts des Bewertungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000800000)
 
 Das Institut nach § 87 Absatz 3b Satz 1 des Fünften Buches
 Sozialgesetzbuch übermittelt dem Statistischen Bundesamt für Zwecke
@@ -143,6 +151,7 @@ Leistungsarten.
 
 
 ## § 8 Übermittlungspflichten des AOK-Bundesverbands
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE000900000)
 
 Der AOK-Bundesverband übermittelt dem Statistischen Bundesamt für
 Zwecke der Krankheitskostenstatistik jährlich, spätestens bis zum 31.
@@ -162,6 +171,7 @@ März des zweiten dem Berichtsjahr folgenden Kalenderjahres,
 
 
 ## § 9 Übermittlungspflicht des Zentralinstituts für die kassenärztliche Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001000000)
 
 Das Zentralinstitut für die kassenärztliche Versorgung übermittelt dem
 Statistischen Bundesamt für Zwecke der Krankheitskostenstatistik
@@ -173,6 +183,7 @@ gegliedert nach Alter und Geschlecht.
 
 
 ## § 10 Übermittlungspflicht des Instituts der Deutschen Zahnärzte
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001100000)
 
 Das Institut der Deutschen Zahnärzte übermittelt dem Statistischen
 Bundesamt für Zwecke der Krankheitskostenstatistik jährlich,
@@ -182,6 +193,7 @@ gegliedert nach ICD-Diagnosecodes, Alter und Geschlecht.
 
 
 ## § 11 Übermittlungspflichten des Medizinischen Dienstes Bund
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001200000)
 
 (1) Der Medizinische Dienst Bund übermittelt dem Statistischen
 Bundesamt für Zwecke der Krankheitskostenstatistik jährlich,
@@ -201,6 +213,7 @@ gegliedert nach Geschlecht, jeweils zum Stichtag 31. Dezember.
 
 
 ## § 12 Übermittlungspflicht der Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001300000)
 
 Die Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege
 übermittelt dem Statistischen Bundesamt für Zwecke der
@@ -213,6 +226,7 @@ Gewerbezweig.
 
 
 ## § 13 Übermittlungspflicht der Bundeszahnärztekammer
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001400000)
 
 Die Bundeszahnärztekammer übermittelt dem Statistischen Bundesamt für
 Zwecke der Gesundheitspersonalstatistik jährlich, spätestens bis zum
@@ -222,6 +236,7 @@ Geschlecht, Tätigkeitsbereich und Kammerbezirk.
 
 
 ## § 14 Übermittlungspflicht des Verbands Deutscher Zahntechniker-Innungen
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001500000)
 
 Der Verband Deutscher Zahntechniker-Innungen übermittelt dem
 Statistischen Bundesamt für Zwecke der Gesundheitspersonalstatistik
@@ -232,6 +247,7 @@ zahntechnischem Labor.
 
 
 ## § 15 Übermittlungspflichten der Einrichtungen des Öffentlichen Gesundheitsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001600000)
 
 Die Stellen, die nach Landesrecht für die Wahrnehmung der Aufgaben des
 Öffentlichen Gesundheitsdienstes zuständig sind, sowie die Stellen des
@@ -278,6 +294,7 @@ Stichtag für die Angaben nach Satz 1 Nummer 1 und 2 ist jeweils der
 
 
 ## § 16 Keine Beschaffungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001700000)
 
 Die in dieser Verordnung geregelten Übermittlungspflichten umfassen
 nicht die Pflicht für die jeweilige Einrichtung, sich die zu
@@ -285,6 +302,7 @@ nicht die Pflicht für die jeweilige Einrichtung, sich die zu
 
 
 ## § 17 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001800000)
 
 Für die Statistik zum Personal im Öffentlichen Gesundheitsdienst sind
 die Leitungen der jeweils personalaktenführenden Stellen der in § 15
@@ -292,6 +310,7 @@ genannten Institutionen auskunftspflichtig.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapstatv/BJNR1710A0023.html#BJNR1710A0023BJNE001900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

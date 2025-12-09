@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-04/BJNR911790991.html#BJNR911790991BJNE000100333)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-04/BJNR911790991.html#BJNR911790991BJNE000200333)
 
 Dem Bundesminister für Ernährung, Landwirtschaft und Forsten wird aus
 dem Geschäftsbereich des Bundesministers für Gesundheit die
@@ -32,12 +34,14 @@ Getränke (einschließlich Überwachung) übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-04/BJNR911790991.html#BJNR911790991BJNE000300333)
 
 Rechtsvorschriften auf diesem Zuständigkeitsgebiet werden im
 Einvernehmen mit dem Bundesminister für Gesundheit erlassen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-04/BJNR911790991.html#BJNR911790991BJNE000400333)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Bundesministern geregelt und dem Chef des Bundeskanzleramtes

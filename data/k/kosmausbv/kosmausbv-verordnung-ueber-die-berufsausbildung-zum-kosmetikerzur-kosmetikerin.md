@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -28,16 +29,19 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000200305)
 
 Der Ausbildungsberuf Kosmetiker/Kosmetikerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000300305)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000400305)
 
 Die Ausbildung gliedert sich in:
 
@@ -52,6 +56,7 @@ Die Ausbildung gliedert sich in:
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000500305)
 
 (1) Gegenstand der Berufsausbildung ist mindestens die Vermittlung
 folgender Fertigkeiten und Kenntnisse:
@@ -125,6 +130,7 @@ folgender Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000600305)
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
 in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -144,12 +150,14 @@ nachzuweisen.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000700305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000800305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -158,6 +166,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE000900305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -180,6 +189,7 @@ individuellen Hauttyps und der individuellen Hauterscheinung umfasst.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE001000305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -310,12 +320,14 @@ bestanden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE001100305)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
+[Direktlink](https://www.gesetze-im-internet.de/kosmausbv/BJNR041700002.html#BJNR041700002BJNE001200305)
 
 (Fundstelle: BGBl. I 2002, 419 - 423)
 

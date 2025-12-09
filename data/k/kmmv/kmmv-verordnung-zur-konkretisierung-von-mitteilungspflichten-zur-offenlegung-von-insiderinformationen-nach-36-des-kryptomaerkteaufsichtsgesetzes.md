@@ -39,6 +39,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet aufgrund
 des § 1g Nummer 2 der Verordnung zur Übertragung von Befugnissen zum
@@ -50,6 +51,7 @@ Deutschen Bundesbank:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf:
 
@@ -69,6 +71,7 @@ Diese Verordnung ist anzuwenden auf:
 
 
 ## § 2 Inhalt der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000300000)
 
 In der Mitteilung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
 sind anzugeben:
@@ -87,6 +90,7 @@ sind anzugeben:
 
 
 ## § 3 Art und Weise der Übermittlung nach § 36 Absatz 1 des Kryptomärkteaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000400000)
 
 Die Mitteilungen nach § 2 sind der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) in elektronischer Form
@@ -96,6 +100,7 @@ Nutzung ihres Melde- und Veröffentlichungssystems vorsehen.
 
 
 ## § 4 Anforderungen an den Mindestinhalt einer Aufschubmitteilung nach Artikel 88 Absatz 3 der Verordnung (EU) 2023/1114
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000500000)
 
 (1) Die Aufschubmitteilung nach Artikel 88 Absatz 3 Satz 1 der
 Verordnung (EU) 2023/1114 hat in Ergänzung zu den Vorschriften der
@@ -119,6 +124,7 @@ Aufschubmitteilungen nach Absatz 1 an die Bundesanstalt entsprechend.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kmmv/BJNR0C50A0025.html#BJNR0C50A0025BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

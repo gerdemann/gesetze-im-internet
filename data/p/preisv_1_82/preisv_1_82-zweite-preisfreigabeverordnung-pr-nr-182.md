@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/preisv_1_82/BJNR006170982.html#BJNR006170982BJNE000100326)
 
 Auf Grund der §§ 2 und 3 des Preisgesetzes in der im Bundesgesetzblatt
 Teil III, Gliederungsnummer 720-1, veröffentlichten bereinigten
@@ -31,6 +32,7 @@ Städtebau verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/preisv_1_82/BJNR006170982.html#BJNR006170982BJNE000200326)
 
 Soweit in § 2 nichts anderes bestimmt ist, werden folgende
 Vorschriften aufgehoben:
@@ -61,6 +63,7 @@ Vorschriften aufgehoben:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/preisv_1_82/BJNR006170982.html#BJNR006170982BJNE000300326)
 
 Folgende Vorschriften sind weiterhin anzuwenden:
 
@@ -125,11 +128,13 @@ Folgende Vorschriften sind weiterhin anzuwenden:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/preisv_1_82/BJNR006170982.html#BJNR006170982BJNE000400326)
 
 Diese Verordnung tritt am 1. Juni 1982 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/preisv_1_82/BJNR006170982.html#BJNR006170982BJNE000500326)
 
 Der Bundesminister für Wirtschaft
 

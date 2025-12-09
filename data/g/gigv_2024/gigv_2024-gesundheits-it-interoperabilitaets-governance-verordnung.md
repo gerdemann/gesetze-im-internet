@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 860-5-78 v. 7.10.2021 I 4634 (GIGV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000100000)
 
 Auf Grund des § 385 Absatz 1 Satz 1 in Verbindung mit Satz 2, Absatz 2
 Satz 1 sowie Absatz 3 und Absatz 4 Satz 5 des Fünften Buches
@@ -48,9 +49,11 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## Kapitel 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000100000)
 
 
 ### § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000200000)
 
 Zweck dieser Verordnung ist es, durch die Einrichtung eines
 Kompetenzzentrums die Voraussetzungen für die Förderung der
@@ -60,9 +63,11 @@ vernetzte Zusammenarbeit von Leistungserbringenden zu schaffen.
 
 
 ## Kapitel 2 - Akteure; Wissensplattform
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000200000)
 
 
 ### § 2 Kompetenzzentrum für Interoperabilität im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000300000)
 
 (1) Die Gesellschaft für Telematik unterhält ein Kompetenzzentrum für
 Interoperabilität im Gesundheitswesen (Kompetenzzentrum).
@@ -169,6 +174,7 @@ Interoperabilität im Gesundheitswesen (Kompetenzzentrum).
 
 
 ### § 3 Expertengremium
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000400000)
 
 (1) Das Kompetenzzentrum setzt in Abstimmung mit dem Bundesministerium
 für Gesundheit ein Expertengremium zur Förderung der Interoperabilität
@@ -250,6 +256,7 @@ Bestimmungen in der Geschäfts- und Verfahrensordnung nach § 18.
 
 
 ### § 4 IOP-Expertenkreis
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000500000)
 
 (1) Der IOP-Expertenkreis ist die Gesamtheit von ernannten Expertinnen
 und Experten, aus der die konkreten Mitglieder für das Expertengremium
@@ -317,6 +324,7 @@ Wissensplattform.
 
 
 ### § 5 IOP-Arbeitskreise
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000600000)
 
 (1) Das Kompetenzzentrum richtet im Einvernehmen mit dem
 Expertengremium themenspezifische IOP-Arbeitskreise ein, die sich aus
@@ -345,6 +353,7 @@ Arbeitskreise und ihrer Besetzung.
 
 
 ### § 6 Wissensplattform für Interoperabilität im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000700000)
 
 (1) Das Kompetenzzentrum betreibt und pflegt eine öffentlich
 zugängliche, barrierefreie Plattform (Wissensplattform).
@@ -450,9 +459,11 @@ regeln.
 
 
 ## Kapitel 3 - Verfahren zur Erstellung, Empfehlung und verbindlichen Festlegung von Spezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000300000)
 
 
 ### § 7 Beauftragung Dritter mit der Erstellung von Spezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000800000)
 
 (1) Das Kompetenzzentrum kann fachlich geeignete natürliche Personen
 oder fachlich geeignete juristische Personen des öffentlichen oder
@@ -480,6 +491,7 @@ Telematik zu tragen.
 
 
 ### § 8 Gesetzliche Spezifikationsaufträge an öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE000900000)
 
 Die Beauftragung eines öffentlichen Auftraggebers im Sinne des § 99
 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen mit der
@@ -491,6 +503,7 @@ Spezifikation und der hierfür maßgeblichen Frist in Anlage 2.
 
 
 ### § 9 Standardisiertes Kommentierungs- und Stellungnahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001000000)
 
 (1) Das Kompetenzzentrum richtet ein standardisiertes Kommentierungs-
 und Stellungnahmeverfahren für die Verfahren ein, die der Entwicklung,
@@ -504,6 +517,7 @@ von der spezifizierenden Stelle.
 
 
 ### § 10 Aufnahme in die Wissensplattform
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001100000)
 
 (1) Anbieterinnen und Anbieter eines informationstechnischen Systems
 oder Dritte mit einem berechtigten Interesse können bei dem
@@ -557,6 +571,7 @@ Bundesvereinigungen auf der Plattform nach § 6.
 
 
 ### § 11 Empfehlungen für informationstechnische Systeme im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001200000)
 
 (1) Das Kompetenzzentrum empfiehlt in Zusammenarbeit mit dem
 Expertengremium auf der Wissensplattform veröffentlichte technische,
@@ -575,6 +590,7 @@ auf der Wissensplattform.
 
 
 ### § 12 Vorschlag an das Bundesministerium für Gesundheit zur verbindlichen Festlegung von Empfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001300000)
 
 (1) Das Kompetenzzentrum legt seinen Vorschlag zur verbindlichen
 Festlegung einer Empfehlung nach § 11 einschließlich der Fristen zur
@@ -587,9 +603,11 @@ verbindlichen Festlegung vorschlägt, ein.
 
 
 ## Kapitel 4 - Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000400000)
 
 
 ### § 13 Antrag auf Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001400000)
 
 (1) Herstellerinnen und Hersteller informationstechnischer Systeme,
 die im Gesundheitswesen zur Verarbeitung personenbezogener
@@ -694,6 +712,7 @@ andernfalls lehnt das Kompetenzzentrum den Antrag ab.
 
 
 ### § 14 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001500000)
 
 (1) Ein informationstechnisches System wird zertifiziert, wenn es die
 in Anlage 1 verbindlich festgelegten Anforderungen erfüllt.
@@ -763,9 +782,11 @@ Kompetenzzentrums gelten fort.
 
 
 ## Kapitel 5 - Anzeigepflicht bei wesentlichen Änderungen; Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000500000)
 
 
 ### § 15 Anzeigepflicht bei wesentlichen Änderungen an informationstechnischen Systemen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001600000)
 
 (1) Soll ein nach §§ 13 und 14 zertifiziertes informationstechnisches
 System wesentlich verändert werden, so hat die Herstellerin oder der
@@ -792,6 +813,7 @@ widerrufen.
 
 
 ### § 16 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001700000)
 
 Das Kompetenzzentrum legt in der Geschäfts- und Verfahrensordnung nach
 § 18 ein Verfahren zur Behandlung von Hinweisen auf das negative
@@ -800,9 +822,11 @@ Anforderungen nach Anlage 1 fest.
 
 
 ## Kapitel 6 - Geschäfts- und Verfahrensordnung, Berichtswesen und Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNG000600000)
 
 
 ### § 17 Bericht über die Tätigkeiten des Kompetenzzentrums und des Expertengremiums
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001800000)
 
 (1) Das Kompetenzzentrum legt dem Bundesministerium für Gesundheit
 jeweils zum 31. März einen Bericht über das abgelaufene Kalenderjahr
@@ -836,6 +860,7 @@ durch das Bundesministerium für Gesundheit auf der Wissensplattform.
 
 
 ### § 18 Geschäfts- und Verfahrensordnung
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE001900000)
 
 (1) Das Kompetenzzentrum gibt sich eine Geschäfts- und
 Verfahrensordnung. Die Geschäfts- und Verfahrensordnung ergänzt und
@@ -956,6 +981,7 @@ Bundesministerium für Gesundheit auf der Wissensplattform.
 
 
 ### § 19 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002000000)
 
 Das Bundesministerium für Gesundheit beauftragt eine externe
 Forschungseinrichtung mit der Evaluation des Kompetenzzentrums und der
@@ -965,6 +991,7 @@ vorliegen.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die IOP-Governance-Verordnung vom 7. Oktober 2021
@@ -973,6 +1000,7 @@ Gleichzeitig tritt die IOP-Governance-Verordnung vom 7. Oktober 2021
 (zu § 13 Absatz 1 Satz 1)
 
 ### Anlage 1 Verbindlich festgelegte Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002200000)
 
 (Fundstelle: BGBl. 2024 I Nr. 279, S. 11)
 
@@ -1095,6 +1123,7 @@ umzusetzen ist.
 (zu § 8)
 
 ### Anlage 2 Liste gesetzlicher Spezifikationsaufträge an öffentliche Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/gigv_2024/BJNR1170A0024.html#BJNR1170A0024BJNE002301311)
 
 (Fundstelle: BGBl. 2024 I Nr. 279, S. 12;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

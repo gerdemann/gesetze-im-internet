@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000101377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE000203377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
@@ -35,6 +37,7 @@ Betriebsprämiendurchführungsgesetzes.
 
 
 ### § 2 Regionaler Durchschnitt
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE000303377)
 
 Für die Anwendung des Anhangs IX Abschnitt B der Verordnung (EG) Nr.
 73/2009 mit gemeinsamen Regeln für Direktzahlungen im Rahmen der
@@ -49,6 +52,7 @@ Betriebsprämiendurchführungsgesetzes.
 
 
 ### § 3 Verfügbarkeit der beihilfefähigen Fläche, landwirtschaftliche Mindesttätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE000405377)
 
 (1) Die im Sammelantrag nach § 7 der InVeKoS-Verordnung für die
 Betriebsprämie angemeldeten beihilfefähigen Flächen müssen dem
@@ -74,6 +78,7 @@ nachzuweisen.
 
 
 ### § 3a Niederwald mit Kurzumtrieb
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002804377)
 
 Die Liste der für Niederwald mit Kurzumtrieb bei der Betriebsprämie
 geeigneten Arten und deren maximale Erntezyklen wird von der
@@ -82,30 +87,37 @@ bekannt gemacht.
 
 
 ### § 3b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE003501377)
 
 
 
 ## Abschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000202377)
 
 
 
 ### (XXXX) §§ 4 bis 9a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE000502377)
 
 
 
 ## Abschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000302377)
 
 
 
 ### (XXXX) §§ 10 und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001102377)
 
 
 
 ## Abschnitt 4 - Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000401377)
 
 
 
 ### § 12 Flächenbezogene Beträge für Dauergrünland und sonstige beihilfefähige Flächen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001301377)
 
 (1) Für die Anwendung der §§ 14 bis 18 entspricht der flächenbezogene
 Betrag je Hektar für Dauergrünland dem Betrag, der in der jeweiligen
@@ -127,10 +139,12 @@ Flächen angewendet wurde.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001402377)
 
 
 
 ### § 14 Übertragung verpachteter Flächen im Falle des Artikels 20 der Verordnung (EG) Nr. 1120/2009
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001508377)
 
 (1) In Fällen der Übertragung eines verpachteten Betriebes oder
 Betriebsteiles im Sinne des Artikels 20 der Verordnung (EG) Nr.
@@ -318,10 +332,12 @@ Betriebsprämiendurchführungsgesetzes.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001607377)
 
 
 
 ### § 16 Pacht oder Kauf eines Betriebes oder Betriebsteiles im Falle des Artikels 22 der Verordnung (EG) Nr. 1120/2009
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001708377)
 
 (1) In Fällen der Pacht oder des Kaufs eines Betriebes oder
 Betriebsteiles im Sinne des Artikels 22 der Verordnung (EG) Nr.
@@ -429,26 +445,32 @@ Betriebsprämiendurchführungsgesetzes ergebenden Betrages ermittelt.
 
 
 ### (XXXX) §§ 17 und 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE001807377)
 
 
 
 ## Abschnitt 4a - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000601377)
 
 
 
 ### (XXXX) §§ 18a bis 18c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE003202377)
 
 
 
 ## Abschnitt 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNG000501377)
 
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002002377)
 
 
 
 ### § 20 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002102377)
 
 Verwaltungsbehörde im Sinne des Marktorganisationsgesetzes und des §
 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist soweit
@@ -460,6 +482,7 @@ Landesbehörde.
 
 
 ### § 21 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002202377)
 
 Die mit der Verordnung vom 7. Mai 2010 aufgehobenen, ersetzten oder
 geänderten Vorschriften dieser Verordnung sind
@@ -476,9 +499,11 @@ in der am 10. Mai 2010 geltenden Fassung weiter anzuwenden.
 
 
 ### § 22 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002301377)
 
 
 
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/betrpr_mdurchfv/BJNR320400004.html#BJNR320400004BJNE002502377)
 
 

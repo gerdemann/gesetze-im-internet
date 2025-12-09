@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-7-7-1 v. 20.7.2001 I 1682 (LAP-MDZollV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000200000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der
 Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des
@@ -32,6 +34,7 @@ Bundes.
 
 
 ### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004801311)
 
 Von den bis zum 31. Dezember 2024 befristeten Sonderregelungen dieser
 Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
@@ -39,6 +42,7 @@ Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ziele der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000300000)
 
 Die Ausbildung vermittelt das fachtheoretische Wissen und die
 berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung
@@ -54,6 +58,7 @@ eigenverantwortlich weiterzubilden.
 
 
 ### § 3 Dauer der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000400000)
 
 Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Über eine
 Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheiden die
@@ -62,6 +67,7 @@ Generalzolldirektion.
 
 
 ### § 4 Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000501311)
 
 (1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom
 Bundesministerium der Finanzen oder bei entsprechender Delegation auf
@@ -83,6 +89,7 @@ befinden.
 
 
 ### § 5 Nachteilsausgleich im Auswahlverfahren, bei Leistungstests und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000600000)
 
 (1) Menschen mit Behinderung und Menschen mit einer vorübergehenden
 Beeinträchtigung wird auf ihren Antrag im Auswahlverfahren, bei
@@ -114,6 +121,7 @@ Auswahlverfahren gewährten Nachteilsausgleiche dem Prüfungsamt mit.
 
 
 ### § 6 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000701311)
 
 (1) Die Leistungen der Auszubildenden werden wie folgt bewertet:
 
@@ -299,6 +307,7 @@ berechnet.
 
 
 ### § 7 Fernbleiben und Rücktritt von Leistungstests und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000800000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem
 Leistungstest, von einer Prüfung, einem Prüfungsteil oder einer
@@ -324,6 +333,7 @@ versehen.
 
 
 ### § 8 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE000900000)
 
 (1) Auszubildenden, die bei einem Leistungstest, bei einer Klausur in
 einer Prüfung oder bei der mündlichen Abschlussprüfung täuschen, eine
@@ -370,15 +380,18 @@ der mündlichen Abschlussprüfung für nicht bestanden erklären.
 
 
 ### § 9 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001000000)
 
 Erholungsurlaub wird in der Regel während der berufspraktischen
 Ausbildung gewährt und auf den Vorbereitungsdienst angerechnet.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNG000200000)
 
 
 ### § 10 Zweck des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001101311)
 
 (1) Auf Grundlage eines Auswahlverfahrens entscheidet die
 Einstellungsbehörde über die Einstellung in den Vorbereitungsdienst.
@@ -408,6 +421,7 @@ verfügen über:
 
 
 ### § 11 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001203311)
 
 (1) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen,
 wer nach den eingereichten Unterlagen die in der Ausschreibung
@@ -442,6 +456,7 @@ spätestens ein Jahr nach der Ablehnung zu vernichten. Elektronisch
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001301311)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie
@@ -488,6 +503,7 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 13 Gemeinsame Auswahlkommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001401311)
 
 (1) Die Generalzolldirektion kann vorsehen, dass eine oder mehrere
 gemeinsame Auswahlkommissionen bestimmt werden, die das
@@ -501,12 +517,14 @@ Einzelheiten in einer entsprechenden Verfügung.
 
 
 ### § 14 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001501311)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 15 Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001603311)
 
 (1) Das Bundesministerium der Finanzen oder bei entsprechender
 Delegation die Generalzolldirektion legt bundeseinheitlich fest:
@@ -541,6 +559,7 @@ Auswahlverfahrens ändern.
 
 
 ### § 16 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001701311)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens können folgende
 Kompetenzbereiche geprüft werden:
@@ -593,6 +612,7 @@ gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 
 ### § 17 Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001801311)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn im
 Leistungstest und im Fall der Ergänzung durch weitere
@@ -612,6 +632,7 @@ Auswahlverfahren maßgebend.
 
 
 ### § 17a Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004900311)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens bestanden hat.
@@ -637,6 +658,7 @@ Auswahlverfahrens noch nicht festgestellt werden konnte.
 
 
 ### § 17b Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005000311)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberinnen und Bewerber in verschiedenen persönlichen und
@@ -666,6 +688,7 @@ zur Stellungnahme zu geben.
 
 
 ### § 17c Bestehen des mündlichen Teils des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005100311)
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn in den
 Simulationsübungen und im strukturierten Interview jeweils die
@@ -673,6 +696,7 @@ erforderliche Mindestpunktzahl erreicht worden ist.
 
 
 ### § 17d Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005200311)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens
@@ -696,6 +720,7 @@ Frist zu löschen.
 
 
 ### § 17e Ausnahmeregelung zur Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005300311)
 
 (1) Schwerbehinderte Bewerberinnen und Bewerber und diesen
 gleichgestellte behinderte Bewerberinnen und Bewerber, die den
@@ -722,6 +747,7 @@ erfolglos am Auswahlverfahren teilgenommen.
 
 
 ### § 17f Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005400311)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -731,6 +757,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 17g Einstellung und gesundheitliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005500311)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -758,9 +785,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Ausbildungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNG000300000)
 
 
 ### § 18 Aufbau der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE001902311)
 
 (1) Die Ausbildung gliedert sich in folgende Abschnitte:
 
@@ -796,6 +825,7 @@ Ausbildungsbehörde durchgeführt.
 
 
 ### § 19 Lehrplan und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002000000)
 
 (1) Für die fachtheoretische Ausbildung erstellt die
 Generalzolldirektion einen Lehrplan, in dem der Ausbildungsverlauf im
@@ -810,6 +840,7 @@ Zeitrichtwerte geregelt ist.
 
 
 ### § 20 Ausbildungsleitung, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002100000)
 
 (1) Die Ausbildungsbehörde bestellt jeweils mindestens eine Beamtin
 oder einen Beamten des gehobenen Dienstes als Ausbildungsleitung und
@@ -827,6 +858,7 @@ können. Sie sind angemessen von anderen Dienstgeschäften zu entlasten.
 
 
 ### § 21 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002200000)
 
 (1) Die Ausbildungsbehörde führt für jede Auszubildende und jeden
 Auszubildenden eine Ausbildungsakte.
@@ -862,6 +894,7 @@ Auszubildenden eine Ausbildungsakte.
 
 
 ### § 22 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002301311)
 
 (1) Während der Ausbildung werden Leistungstests durchgeführt.
 
@@ -897,6 +930,7 @@ bewertet.
 
 
 ### § 23 Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002400000)
 
 (1) Bei jeder Klausur werden die Hilfsmittel, die benutzt werden
 dürfen, angegeben.
@@ -915,6 +949,7 @@ endgültigen Bewertung der Klausur bekannt gegeben werden.
 
 
 ### § 24 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002500000)
 
 (1) Die Leistungstests werden von Lehrkräften oder sonstigen mit
 Lehraufgaben betrauten Angehörigen der Generalzolldirektion bewertet.
@@ -924,6 +959,7 @@ weisungsgebunden.
 
 
 ### § 25 Inhalt der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002600000)
 
 (1) Die Ausbildungsgebiete der fachtheoretischen Ausbildung sind:
 
@@ -972,6 +1008,7 @@ berufspraktischen Ausbildung vermittelten Kenntnissen auf.
 
 
 ### § 26 Inhalt der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002700000)
 
 (1) Während der berufspraktischen Ausbildung sollen die Auszubildenden
 berufliche Kenntnisse und Erfahrungen als Grundlage für die
@@ -1005,6 +1042,7 @@ entsprechen, dürfen den Auszubildenden nicht übertragen werden.
 
 
 ### § 27 Leistungstests während des Einführungslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002800000)
 
 (1) Im Einführungslehrgang schreibt jede und jeder Auszubildende vier
 Klausuren. Je eine Klausur wird geschrieben
@@ -1030,6 +1068,7 @@ der Aufgabenstellung berücksichtigt werden.
 
 
 ### § 28 Leistungstests während des Abschlusslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE002900000)
 
 (1) Im Abschlusslehrgang schreibt jede und jeder Auszubildende vier
 Klausuren. Je eine Klausur wird geschrieben
@@ -1055,6 +1094,7 @@ Klausuren. Je eine Klausur wird geschrieben
 
 
 ### § 29 Schriftliche Bestätigungen für Leistungstests während des Einführungs- und des Abschlusslehrgangs
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003000000)
 
 (1) Über das Ergebnis jedes Leistungstestes während des Einführungs-
 und des Abschlusslehrgangs erstellt die Generalzolldirektion eine
@@ -1080,6 +1120,7 @@ können in einer schriftlichen Bestätigung zusammengefasst werden.
 
 
 ### § 30 Zeugnis über die fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003100000)
 
 (1) Nach Beendigung des Abschlusslehrgangs ermittelt die
 Generalzolldirektion die Durchschnittsrangpunktzahl der
@@ -1101,6 +1142,7 @@ In dem Zeugnis werden aufgeführt:
 
 
 ### § 31 Leistungstests während der berufspraktischen Ausbildung, schriftliche Bewertungen, Zeugnis über die berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003200000)
 
 (1) Während der praxisbezogenen Lehrveranstaltungen werden vier
 Leistungstests durchgeführt. Die Form der Leistungstests wird im
@@ -1135,9 +1177,11 @@ der schriftlichen Bewertungen.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNG000400000)
 
 
 ### § 32 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003300000)
 
 Die Laufbahnprüfung besteht aus:
 
@@ -1158,6 +1202,7 @@ Die Laufbahnprüfung besteht aus:
 
 
 ### § 33 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003400000)
 
 (1) Das bei der Generalzolldirektion eingerichtete Prüfungsamt ist
 insbesondere zuständig für
@@ -1186,6 +1231,7 @@ Prüfungsangelegenheiten.
 
 
 ### § 34 Prüfungsakte, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003500000)
 
 (1) Zu jeder und jedem Auszubildenden wird eine Prüfungsakte geführt.
 In die Prüfungsakte aufzunehmen sind:
@@ -1234,6 +1280,7 @@ in der Akte zu vermerken.
 
 
 ### § 35 Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003602311)
 
 (1) Das Prüfungsamt richtet für die Bewertung der Zwischenprüfung, der
 schriftlichen Abschlussprüfung und der mündlichen Abschlussprüfung
@@ -1333,6 +1380,7 @@ Prüfungskommissionen sind nicht öffentlich.
 
 
 ### § 36 Prüfungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003700000)
 
 (1) Das Prüfungsamt
 
@@ -1368,6 +1416,7 @@ der Vorsitzende der Prüfungskommission.
 
 
 ### § 37 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003801311)
 
 (1) In der Zwischenprüfung sollen die Auszubildenden nachweisen, dass
 sie den Wissens- und Kenntnisstand erreicht haben, der eine
@@ -1416,6 +1465,7 @@ nehmen. Für die Einsichtnahme gilt § 34 Absatz 3 entsprechend.
 
 
 ### § 38 Bescheid, Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE003900000)
 
 (1) Die Auszubildenden erhalten vom Prüfungsamt über das Ergebnis der
 Zwischenprüfung einen Bescheid über das Bestehen oder Nichtbestehen
@@ -1438,6 +1488,7 @@ wird der Einstellungsbehörde für die Personalakte übermittelt.
 
 
 ### § 39 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004000000)
 
 (1) In der Abschlussprüfung sollen die Auszubildenden nachweisen, dass
 sie gründliche Fachkenntnisse erworben haben und für die vorgesehene
@@ -1452,6 +1503,7 @@ Prüfung ist bis zum Ende des Vorbereitungsdienstes abzuschließen.
 
 
 ### § 40 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004101311)
 
 (1) Zur schriftlichen Abschlussprüfung ist zugelassen, wer die
 berufspraktische Ausbildung und den Abschlusslehrgang absolviert hat.
@@ -1496,6 +1548,7 @@ Rangpunkten, die in den vier Klausuren erzielt worden sind.
 
 
 ### § 41 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004200000)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
 schriftliche Abschlussprüfung bestanden hat.
@@ -1514,6 +1567,7 @@ Einstellungsbehörde für die Personalakte übermittelt.
 
 
 ### § 42 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004303311)
 
 (1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den
 Ausbildungsgebieten nach § 25 Absatz 1 Nummer 2 bis 9 zu entnehmen.
@@ -1620,6 +1674,7 @@ Prüfungskommission zu bestätigen.
 
 
 ### § 43 Bestehen der Laufbahnprüfung, Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004401311)
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die
 Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die
@@ -1703,6 +1758,7 @@ eine ganze Zahl gerundet.
 
 
 ### § 43a Laufbahnbefähigung und Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE005600311)
 
 Wer die Laufbahnprüfung bestanden hat, hat die Befähigung für die
 Laufbahn des mittleren nichttechnischen Zolldienstes des Bundes
@@ -1711,6 +1767,7 @@ erlangt und ist berechtigt, die Berufsbezeichnung „Finanzwirtin“ oder
 
 
 ### § 44 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004502311)
 
 (1) Die Auszubildenden erhalten vom Prüfungsamt einen Bescheid über
 das Bestehen oder Nichtbestehen der Laufbahnprüfung und ein
@@ -1767,6 +1824,7 @@ Auszubildende zurückzugeben.
 
 
 ### § 45 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntzolldvdv/BJNR117910017.html#BJNR117910017BJNE004601311)
 
 (1) Auszubildende, die die Zwischenprüfung oder die schriftliche oder
 mündliche Abschlussprüfung nicht bestanden haben oder deren Prüfung

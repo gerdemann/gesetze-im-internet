@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000100311)
 
 Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des
 Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232),
@@ -30,6 +31,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000201307)
 
 Als Höchstbeträge, bis zu denen die Herstellungskosten von
 Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12
@@ -56,6 +58,7 @@ festgesetzt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000301307)
 
 Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten
 Höchstbeträge gelten erstmals für Hausschutzräume, die nach dem 31.
@@ -66,11 +69,13 @@ vom 25. Februar 1970 (BGBl. I S. 217).
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000400311)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000501307)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -648,6 +653,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000601307)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958;
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -892,6 +898,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000701307)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -1136,6 +1143,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/h_betrv/BJNR002170970.html#BJNR002170970BJNE000801307)
 
 -
 

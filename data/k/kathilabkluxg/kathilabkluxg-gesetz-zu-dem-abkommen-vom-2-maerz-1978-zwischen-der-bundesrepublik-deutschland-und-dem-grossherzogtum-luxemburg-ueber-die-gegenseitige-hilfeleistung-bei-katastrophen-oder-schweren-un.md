@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkluxg/BJNR204450981.html#BJNR204450981BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkluxg/BJNR204450981.html#BJNR204450981BJNE000200314)
 
 Dem in Luxemburg am 2. März 1978 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die
@@ -35,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkluxg/BJNR204450981.html#BJNR204450981BJNE000300314)
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in Luxemburg entstehen, trägt in den Fällen
@@ -56,12 +59,14 @@ Hilfsmaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkluxg/BJNR204450981.html#BJNR204450981BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkluxg/BJNR204450981.html#BJNR204450981BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

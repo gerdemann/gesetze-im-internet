@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000100000)
 
 Auf Grund des § 37i Abs. 1 Satz 3 und 4 und des § 37m Satz 3 und 4 des
 Wertpapierhandelsgesetzes in der Fassung der Bekanntmachung vom 9.
@@ -33,20 +34,24 @@ S. 3), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000202123)
 
 Diese Verordnung ist anzuwenden auf Anträge auf Erteilung einer
 Erlaubnis nach § 102 des Wertpapierhandelsgesetzes.
 
 
 ## Abschnitt 2 - Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNG000201123)
 
 
 
 ### § 2 Name und Anschrift
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000301377)
 
 Der Antrag muss Name oder Firma und jeweils die Anschrift des Marktes,
 des Betreibers und der jeweiligen Geschäftsleitung enthalten. Bei
@@ -56,6 +61,7 @@ Gewerberegister anzugeben.
 
 
 ### § 3 Zuverlässigkeit der Geschäftsleitung
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000400000)
 
 Die Geschäftsleiter haben zur Prüfung ihrer Zuverlässigkeit dem Antrag
 eine Erklärung, ob gegen sie ein Strafverfahren schwebt, ob ein
@@ -73,6 +79,7 @@ Geschäftsleiters dessen Funktion ausüben soll.
 
 
 ### § 4 Geschäftsplan
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000501377)
 
 Dem Antrag ist ein Geschäftsplan beizufügen, der folgende Angaben
 enthalten muss:
@@ -120,6 +127,7 @@ enthalten muss:
 
 
 ### § 5 Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000600000)
 
 Der Antragsteller hat Namen und Anschrift eines Bevollmächtigten im
 Inland anzugeben, der rechtlich und tatsächlich in der Lage ist,
@@ -130,6 +138,7 @@ entsprechenden Urkunde nachzuweisen.
 
 
 ### § 6 Zuständige Überwachungsstellen und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000701377)
 
 (1) Der Antragsteller hat Bezeichnung und Anschrift der zuständigen
 Überwachungsstellen des Marktes anzugeben. Weiterhin sind die
@@ -158,6 +167,7 @@ Befugnisse nach den Absätzen 1 und 2 beruhen, ist beizufügen.
 
 
 ### § 7 Gehandelte Finanzinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000801377)
 
 Der Antragsteller hat anzugeben, welche Arten von Finanzinstrumenten
 über den unmittelbaren Marktzugang gehandelt werden sollen. Dabei ist
@@ -169,6 +179,7 @@ Funktionsweise zu beschreiben.
 
 
 ### § 8 Handelsteilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE000900000)
 
 Dem Antrag ist eine Liste mit Name oder Firma und jeweils der
 Anschrift der Handelsteilnehmer mit Sitz im Inland beizufügen, denen
@@ -177,6 +188,7 @@ Personen sind zusätzlich Rechtsform und Sitz anzugeben.
 
 
 ### § 9 Zusätzliche Angaben und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE001001123)
 
 Die Bundesanstalt kann zusätzliche Angaben und Unterlagen verlangen,
 soweit diese im Rahmen des § 102 Absatz 1 Satz 2 des
@@ -185,6 +197,7 @@ Antrag erforderlich sind.
 
 
 ### § 10 Form des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE001101360)
 
 Angaben und vorzulegende Unterlagen nach diesem Abschnitt sind in
 deutscher oder englischer Sprache abzufassen. Die Unterlagen sind der
@@ -196,24 +209,29 @@ Finanzdienstleistungsaufsichtsgesetzes gilt entsprechend.
 
 
 ## Abschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNG000301377)
 
 
 
 ### (XXXX) §§ 11 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE001201377)
 
 
 
 ## Abschnitt 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNG000400000)
 
 
 
 ### § 14 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE001500000)
 
 Diese Verordnung ist nicht auf Anträge und Anzeigen anzuwenden, die
 bei der Bundesanstalt vor dem 16. Oktober 2004 eingegangen sind.
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/marktangv/BJNR257600004.html#BJNR257600004BJNE001600000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

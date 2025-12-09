@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000100308)
 
 Auf Grund des § 10 Nr. 2 des Gesetzes über die Eignungsprüfung für die
 Zulassung zur Rechtsanwaltschaft vom 6. Juli 1990 (BGBl. I S. 1349)
@@ -27,10 +28,12 @@ verordnet der Bundesminister der Justiz:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000201311)
 
 
 
 ## § 2 Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000301311)
 
 (1) Prüfer sind der Präsident des für die zweite juristische
 Staatsprüfung zuständigen Prüfungsamts, seine Vertreter und die
@@ -43,6 +46,7 @@ beteiligten Länder berufen werden.
 
 
 ## § 3 Ablegung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000405311)
 
 (1) Hat das Prüfungsamt der antragstellenden Person eine
 Eignungsprüfung auferlegt, so muss es ihr die Ablegung der Prüfung
@@ -77,6 +81,7 @@ Absätze 1 bis 3 entsprechend.
 
 
 ## § 4 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000501311)
 
 Der Antragsteller kann nach Ablauf der Frist nach § 3 Absatz 4 Satz 1
 und nach einer Anzeige nach § 3 Absatz 4 Satz 2 nur aus wichtigem
@@ -85,6 +90,7 @@ gilt die Prüfung als nicht bestanden.
 
 
 ## § 5 Erlass von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000602311)
 
 Begehrt die antragstellende Person den Erlass von Prüfungsleistungen,
 so hat sie nachzuweisen:
@@ -103,6 +109,7 @@ so hat sie nachzuweisen:
 
 
 ## § 6 Prüfungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000700308)
 
 (1) Die Eignungsprüfung erstreckt sich im Pflichtfach Zivilrecht auf
 
@@ -201,6 +208,7 @@ so hat sie nachzuweisen:
 
 
 ## § 7 Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000800308)
 
 (1) Die Aufsichtsarbeiten haben Aufgaben aus der beruflichen Praxis
 eines Rechtsanwalts zum Gegenstand. Die Bearbeitungszeit für eine
@@ -214,6 +222,7 @@ fünfundvierzig, die Dauer des Kurzvortrags etwa fünfzehn Minuten.
 
 
 ## § 8 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE000900308)
 
 (1) Vorsitzender der Prüfungskommission ist der Präsident des für die
 zweite juristische Staatsprüfung zuständigen Prüfungsamts oder ein von
@@ -230,6 +239,7 @@ mündlichen Prüfung ständig anwesend sein.
 
 
 ## § 9 Versäumnis von Prüfungsterminen und Nichtabgabe von Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001000308)
 
 (1) Folgt der Antragsteller ohne ausreichende Entschuldigung einer
 Ladung zur Anfertigung einer Aufsichtsarbeit nicht oder gibt er eine
@@ -243,6 +253,7 @@ nicht bestanden.
 
 
 ## § 10 Ordnungswidriges Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001100308)
 
 (1) Über die Folgen eines ordnungswidrigen Verhaltens des
 Antragstellers, namentlich eines Täuschungsversuchs, entscheidet das
@@ -263,6 +274,7 @@ dem Tag der mündlichen Prüfung für nicht bestanden erklärt werden.
 
 
 ## § 11 Entscheidung über das Ergebnis der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001200308)
 
 (1) Im Anschluß an die mündliche Prüfung berät die Prüfungskommission
 über das Ergebnis der Prüfung und stellt auf Grund des Gesamteindrucks
@@ -277,6 +289,7 @@ Prüfungsamt erteilt hierüber eine schriftliche Bestätigung.
 
 
 ## § 12 Wiederholung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001300308)
 
 (1) Hat der Antragsteller die Eignungsprüfung nicht bestanden, so darf
 er sie zweimal wiederholen.
@@ -287,6 +300,7 @@ darf, wiederholt werden kann.
 
 
 ## § 13 Übertragung auf die Rechtsanwaltskammern
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001701311)
 
 Wird die Durchführung der Eignungsprüfung durch Rechtsverordnung auf
 die Rechtsanwaltskammern übertragen, ist diese Verordnung mit der
@@ -295,11 +309,13 @@ Präsidenten die Rechtsanwaltskammer und deren Präsident tritt.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001500308)
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/razeignprv/BJNR028810990.html#BJNR028810990BJNE001600308)
 
 Der Bundesrat hat zugestimmt.
 

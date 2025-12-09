@@ -21,20 +21,24 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000300314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 3
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNG000100314)
 
 
 
 ## Art 4 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNG000200314)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000401308)
 
 § 14 Abs. 2 und § 15 Satz 4 des Gesetzes zur Regelung der
 Wiedergutmachung nationalsozialistischen Unrechts in der
@@ -44,6 +48,7 @@ auch für Versicherungsfälle vor seinem Inkrafttreten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000501308)
 
 (1) Entsteht auf Grund dieses Gesetzes ein Anspruch auf Rente oder
 wird durch dieses Gesetz ein Anspruch auf eine höhere Rente begründet
@@ -60,6 +65,7 @@ dieses Gesetzes an zu zahlen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000600314)
 
 Soweit in anderen Vorschriften auf Bestimmungen verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
@@ -68,6 +74,7 @@ Bezeichnungen dieses Gesetzes.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000700314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -77,6 +84,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wgsvg_ndg/BJNR018469970.html#BJNR018469970BJNE000800314)
 
 (1) Dieses Gesetz tritt mit dem Ersten des auf die Verkündung
 folgenden zweiten Kalendermonats in Kraft.

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000200000)
 
 Unter dem Namen "Museumsstiftung Post und Telekommunikation" wird mit
 Sitz in Bonn eine rechtsfähige Stiftung des öffentlichen Rechts
@@ -28,6 +29,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000300000)
 
 (1) Zweck der Stiftung ist die Erschließung, Sammlung und Darstellung
 der gesamten Entwicklung der Nachrichtenübermittlung und des damit im
@@ -60,6 +62,7 @@ Fernmeldewesen.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000400000)
 
 (1) Der Stiftung sind nach näherer Maßgabe der §§ 13 und 14 des
 Postumwandlungsgesetzes ohne Wertausgleich alle Vermögensgegenstände
@@ -82,6 +85,7 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000501305)
 
 (1) Die Stiftung wird finanziert durch
 
@@ -113,11 +117,13 @@ Kuratoriumsmitglieder aus dem Museumswesen.
 
 
 ## § 5 Organe
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000600000)
 
 Organe der Stiftung sind das Kuratorium und der Kurator.
 
 
 ## § 6 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000701308)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von zwei Dritteln der Mitglieder beschlossen wird und die der
@@ -126,6 +132,7 @@ gilt für Änderungen der Satzung.
 
 
 ## § 7 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000802119)
 
 (1) Das Kuratorium besteht aus mindestens elf Mitgliedern. Die
 Deutsche Postbank AG ist berechtigt, einen Vertreter zu entsenden. Ein
@@ -173,6 +180,7 @@ Vorsitzenden.
 
 
 ## § 8 Aufgaben des Kuratoriums
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE000900000)
 
 (1) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die
 zum Aufgabenbereich der Stiftung gehören. Dazu zählt insbesondere:
@@ -218,6 +226,7 @@ Bücher verlangen.
 
 
 ## § 9 Kurator
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001001308)
 
 (1) Der hauptamtliche Kurator und sein ständiger Vertreter werden vom
 Bundesministerium der Finanzen auf Vorschlag des Kuratoriums ernannt.
@@ -230,6 +239,7 @@ Kuratoriums vertreten.
 
 
 ## § 10 Aufgaben des Kurators
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001100000)
 
 (1) Der Kurator hat die Beschlüsse des Kuratoriums auszuführen und die
 laufenden Angelegenheiten der Stiftung wahrzunehmen. Das Nähere,
@@ -241,6 +251,7 @@ außergerichtlich.
 
 
 ## § 11 Personal
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001203305)
 
 (1) Unbeschadet des Rechts, Angestellte und Arbeiter zu beschäftigen,
 wird der Stiftung das Recht verliehen, Beamte zu haben.
@@ -264,6 +275,7 @@ die Stiftung übergeleiteten Beschäftigten gelten die Abschnitte 7 und
 
 
 ## § 12 Haushaltsplan, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001301308)
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung
@@ -279,17 +291,20 @@ Genehmigung durch das Bundesministerium der Finanzen.
 
 
 ## § 13 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001401308)
 
 Die Stiftung unterliegt der Rechtsaufsicht durch das Bundesministerium
 der Finanzen.
 
 
 ## § 14 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001500000)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 15 Steuer-, Gebühren- und Abgabenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/ptstiftg/BJNR238200994.html#BJNR238200994BJNE001600000)
 
 Die Stiftung wird von Steuerpflichten sowie von Gerichtsgebühren und
 Abgaben, die aus Anlaß ihrer Errichtung entstehen, befreit. Auslagen

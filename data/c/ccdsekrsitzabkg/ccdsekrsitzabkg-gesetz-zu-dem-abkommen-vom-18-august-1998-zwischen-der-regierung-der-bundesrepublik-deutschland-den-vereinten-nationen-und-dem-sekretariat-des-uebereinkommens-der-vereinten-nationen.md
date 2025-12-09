@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000200307)
 
 Dem in Bonn am 18. August 1998 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und
@@ -38,6 +40,7 @@ Notenwechsel werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000300307)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Änderungen des Abkommens unter folgenden
@@ -50,6 +53,7 @@ Vereinten Nationen (BGBl. 1996 II S. 903, 917) vereinbart werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000400307)
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November
 1995 zwischen der Bundesrepublik Deutschland und den Vereinten
@@ -62,6 +66,7 @@ den Sitz des Freiwilligenprogramms der Vereinten Nationen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000500307)
 
 Artikel 5 des Abkommens gilt auch für Personen im Sinne des Artikels
 22 Abs. 7 Satz 1 und 2 des Übereinkommens der Vereinten Nationen zur
@@ -74,6 +79,7 @@ Bestimmungen des Abkommens Vorrechte und Immunitäten genießen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/ccdsekrsitzabkg/BJNR021820999.html#BJNR021820999BJNE000600307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

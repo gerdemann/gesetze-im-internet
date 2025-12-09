@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/BJNR225810967.html#BJNR225810967BJNE000100314)
 
 Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September
 1965 (Bundesgesetzbl. II S. 1273) zu der Vereinbarung vom 10. Dezember
@@ -30,6 +31,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/BJNR225810967.html#BJNR225810967BJNE000200314)
 
 Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs.
 (1) Nr. 1 Buchstabe g) der Vereinbarung wird die
@@ -53,6 +55,7 @@ Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/BJNR225810967.html#BJNR225810967BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 6
@@ -60,6 +63,7 @@ Satz 2 des Gesetzes vom 15. September 1965 auch im Lande Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/BJNR225810967.html#BJNR225810967BJNE000400314)
 
 (1) Diese Verordnung tritt rückwirkend zum 1. März 1967 in Kraft.
 
@@ -70,6 +74,7 @@ Vereinbarung zur Durchführung des Abkommens außer Kraft tritt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/BJNR225810967.html#BJNR225810967BJNE000500314)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

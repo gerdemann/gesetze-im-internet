@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lottstvereinfv/BJNR001380961.html#BJNR001380961BJNE000100303)
 
 Auf Grund des § 14 Abs. 1 Nr. 1 der Reichsabgabenordnung in der
 Fassung des Gesetzes zur Änderung von einzelnen Vorschriften der
@@ -29,6 +30,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lottstvereinfv/BJNR001380961.html#BJNR001380961BJNE000201301)
 
 Von der Festsetzung der Lotteriesteuer nach § 17 des Rennwett- und
 Lotteriegesetzes vom 8. April 1922 (Reichsgesetzbl. I S. 393) in der
@@ -38,6 +40,7 @@ nicht übersteigt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lottstvereinfv/BJNR001380961.html#BJNR001380961BJNE000300303)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel V
@@ -47,11 +50,13 @@ Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lottstvereinfv/BJNR001380961.html#BJNR001380961BJNE000400303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lottstvereinfv/BJNR001380961.html#BJNR001380961BJNE000500303)
 
 Der Bundesminister der Finanzen
 

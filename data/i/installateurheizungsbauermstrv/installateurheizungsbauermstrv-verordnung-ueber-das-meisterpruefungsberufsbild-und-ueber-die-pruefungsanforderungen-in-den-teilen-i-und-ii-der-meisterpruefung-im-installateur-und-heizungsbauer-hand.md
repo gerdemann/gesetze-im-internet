@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000000000)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
@@ -32,6 +33,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000100000)
 
 Die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk umfasst
 folgende selbständige Prüfungsteile:
@@ -55,6 +57,7 @@ folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000200000)
 
 (1) Durch die Meisterprüfung im Installateur- und Heizungsbauer-
 Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen
@@ -146,6 +149,7 @@ sanitärer Einrichtungen, beziehen:
 
 
 ## § 3 Gliederung, Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000300000)
 
 (1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein
 Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
@@ -165,6 +169,7 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000400000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass
@@ -210,6 +215,7 @@ mit 50 vom Hundert gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000500000)
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt
 wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er
@@ -221,6 +227,7 @@ und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000601360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung
 technologischer, sicherheitstechnischer, ablauf- und
@@ -432,6 +439,7 @@ ist nicht bestanden, wenn
 
 
 ## § 7 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000702128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -442,6 +450,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 8 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000801360)
 
 Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -449,6 +458,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/installateurheizungsba_rmstrv/BJNR269300002.html#BJNR269300002BJNE000900000)
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 

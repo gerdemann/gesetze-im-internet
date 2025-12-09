@@ -35,10 +35,12 @@ Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom
 
 
 ## Teil 1 - Allgemeine Vorschriften für die Umweltprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000105360)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000109360)
 
 (1) Dieses Gesetz gilt für
 
@@ -96,6 +98,7 @@ unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000214130)
 
 (1) Schutzgüter im Sinne dieses Gesetzes sind
 
@@ -231,6 +234,7 @@ eines Vorhabens relevant sind.
 
 
 ### § 3 Grundsätze für Umweltprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000311360)
 
 Umweltprüfungen umfassen die Ermittlung, Beschreibung und Bewertung
 der erheblichen Auswirkungen eines Vorhabens oder eines Plans oder
@@ -241,14 +245,17 @@ durchgeführt.
 
 
 ## Teil 2 - Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000704360)
 
 
 
 ### Abschnitt 1 - Voraussetzungen für eine Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000804360)
 
 
 
 #### § 4 Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000406360)
 
 Die Umweltverträglichkeitsprüfung ist unselbständiger Teil
 verwaltungsbehördlicher Verfahren, die Zulassungsentscheidungen
@@ -256,6 +263,7 @@ dienen.
 
 
 #### § 5 Feststellung der UVP-Pflicht
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000510130)
 
 (1) Die zuständige Behörde stellt auf der Grundlage geeigneter Angaben
 des Vorhabenträgers sowie eigener Informationen unverzüglich fest,
@@ -294,6 +302,7 @@ Ergebnis nachvollziehbar ist.
 
 
 #### § 6 Unbedingte UVP-Pflicht bei Neuvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000606360)
 
 Für ein Neuvorhaben, das in Anlage 1 Spalte 1 mit dem Buchstaben „X“
 gekennzeichnet ist, besteht die UVP-Pflicht, wenn die zur Bestimmung
@@ -303,6 +312,7 @@ Werte erreicht oder überschritten werden.
 
 
 #### § 7 Vorprüfung bei Neuvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000706360)
 
 (1) Bei einem Neuvorhaben, das in Anlage 1 Spalte 2 mit dem Buchstaben
 „A“ gekennzeichnet ist, führt die zuständige Behörde eine allgemeine
@@ -366,6 +376,7 @@ Ergebnis der allgemeinen und der standortbezogenen Vorprüfung.
 
 
 #### § 8 UVP-Pflicht bei Störfallrisiko
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000807360)
 
 Sofern die allgemeine Vorprüfung ergibt, dass aufgrund der
 Verwirklichung eines Vorhabens, das zugleich benachbartes Schutzobjekt
@@ -380,6 +391,7 @@ Vorhaben erhebliche nachteilige Umweltauswirkungen haben kann.
 
 
 #### § 9 UVP-Pflicht bei Änderungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE000910360)
 
 (1) Wird ein Vorhaben geändert, für das eine
 Umweltverträglichkeitsprüfung durchgeführt worden ist, so besteht für
@@ -450,6 +462,7 @@ unberücksichtigt.
 
 
 #### § 10 UVP-Pflicht bei kumulierenden Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001005360)
 
 (1) Für kumulierende Vorhaben besteht die UVP-Pflicht, wenn die
 kumulierenden Vorhaben zusammen die maßgeblichen Größen- oder
@@ -492,6 +505,7 @@ unberücksichtigt.
 
 
 #### § 11 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001108360)
 
 (1) Hinzutretende kumulierende Vorhaben liegen vor, wenn zu einem
 beantragten oder bestehenden Vorhaben (früheren Vorhaben) nachträglich
@@ -561,6 +575,7 @@ unberücksichtigt.
 
 
 #### § 12 UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001205360)
 
 (1) Wenn für das frühere Vorhaben zum Zeitpunkt der Antragstellung für
 das hinzutretende kumulierende Vorhaben noch keine
@@ -665,12 +680,14 @@ unberücksichtigt.
 
 
 #### § 13 Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001306360)
 
 Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten
 Industriezonen und Städtebauprojekte gelten die §§ 10 bis 12 nicht.
 
 
 #### § 14 Entwicklungs- und Erprobungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001406360)
 
 (1) Sofern ein in Anlage 1 Spalte 1 mit einem „X“ gekennzeichnetes
 Vorhaben ein Entwicklungs- und Erprobungsvorhaben ist und nicht länger
@@ -686,6 +703,7 @@ Verfahren oder Erzeugnisse dient.
 
 
 #### § 14a Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009602116)
 
 (1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung eines
 Schienenwegs oder einer sonstigen Bahnbetriebsanlage nach den Nummern
@@ -762,6 +780,7 @@ Feststellung der UVP-Pflicht durchgeführt für
 
 
 #### § 14b Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003909130)
 
 (1) Bei Städtebauprojekten für Anlagen zur Nutzung solarer
 Strahlungsenergie im bisherigen Außenbereich im Sinne des § 35 des
@@ -781,6 +800,7 @@ Ablauf des 30. Juni 2025 abgeschlossen wird.
 
 
 #### § 14c Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009800360)
 
 (1) Keiner Umweltverträglichkeitsprüfung bedürfen unselbständige Teile
 von Ausbaumaßnahmen, die im Verlauf von Bundesautobahnen oder
@@ -799,6 +819,7 @@ betroffen sein kann.
 
 
 #### § 14d Bau von Radwegen an Bundesstraßen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009900360)
 
 (1) Keiner Umweltverträglichkeitsprüfung bedarf die Änderung einer
 Bundesstraße durch den Bau eines straßenbegleitenden Radweges mit
@@ -810,10 +831,12 @@ wenn durch die Baumaßnahme ein Natura 2000-Gebiet betroffen sein kann.
 
 
 ### Abschnitt 2 - Verfahrensschritte der Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000306360)
 
 
 
 #### § 15 Unterrichtung über den Untersuchungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005901360)
 
 (1) Auf Antrag des Vorhabenträgers oder wenn die zuständige Behörde es
 für zweckmäßig hält, unterrichtet und berät die zuständige Behörde den
@@ -872,6 +895,7 @@ zügige und sachgerechte Durchführung des Verfahrens zweckmäßig ist.
 
 
 #### § 16 UVP-Bericht
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006001360)
 
 (1) Der Vorhabenträger hat der zuständigen Behörde einen Bericht zu
 den voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht)
@@ -968,6 +992,7 @@ vorzulegen.
 
 
 #### § 17 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006101360)
 
 (1) Die zuständige Behörde unterrichtet die Behörden, deren
 umweltbezogener Aufgabenbereich durch das Vorhaben berührt wird,
@@ -982,6 +1007,7 @@ Verwaltungsverfahrensgesetzes entsprechend.
 
 
 #### § 18 Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006202360)
 
 (1) Die zuständige Behörde beteiligt die Öffentlichkeit zu den
 Umweltauswirkungen des Vorhabens. Der betroffenen Öffentlichkeit wird
@@ -1004,6 +1030,7 @@ vorgelagerten Verfahren verzichtet werden.
 
 
 #### § 19 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006301360)
 
 (1) Bei der Bekanntmachung zu Beginn des Beteiligungsverfahrens
 unterrichtet die zuständige Behörde die Öffentlichkeit
@@ -1072,6 +1099,7 @@ Umweltinformationen zugänglich zu machen.
 
 
 #### § 20 Zentrale Internetportale; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006402360)
 
 (1) Für die Zugänglichmachung des Inhalts der Bekanntmachung nach § 19
 Absatz 1 und der nach § 19 Absatz 2 auszulegenden Unterlagen im
@@ -1105,6 +1133,7 @@ sind elektronisch vorzulegen.
 
 
 #### § 21 Äußerungen und Einwendungen der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006501360)
 
 (1) Die betroffene Öffentlichkeit kann sich im Rahmen der Beteiligung
 schriftlich oder zur Niederschrift bei der zuständigen Behörde äußern.
@@ -1128,6 +1157,7 @@ nicht auf die Umweltauswirkungen des Vorhabens beziehen.
 
 
 #### § 22 Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006602130)
 
 (1) Ändert der Vorhabenträger im Laufe des Verfahrens die Unterlagen,
 die nach § 19 Absatz 2 auszulegen sind, so ist eine erneute
@@ -1144,6 +1174,7 @@ vom Vorhabenträger vorgesehenen Vorkehrungen ausgeschlossen werden.
 
 
 #### § 23 Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006701360)
 
 (1) Die Rechtsvorschriften über Geheimhaltung und Datenschutz sowie
 über die Rechte am geistigen Eigentum bleiben unberührt. Insbesondere
@@ -1166,6 +1197,7 @@ die Inhaltsdarstellung zu ersetzen.
 
 
 #### § 24 Zusammenfassende Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006801360)
 
 (1) Die zuständige Behörde erarbeitet eine zusammenfassende
 Darstellung
@@ -1197,6 +1229,7 @@ erarbeitet werden.
 
 
 #### § 25 Begründete Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE006901360)
 
 (1) Auf der Grundlage der zusammenfassenden Darstellung bewertet die
 zuständige Behörde die Umweltauswirkungen des Vorhabens im Hinblick
@@ -1213,6 +1246,7 @@ Einschätzung der zuständigen Behörde hinreichend aktuell sein.
 
 
 #### § 26 Inhalt des Bescheids über die Zulassung oder Ablehnung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007001360)
 
 (1) Der Bescheid zur Zulassung des Vorhabens muss zumindest die
 folgenden Angaben enthalten:
@@ -1259,6 +1293,7 @@ einschlägigen fachrechtlichen Vorschriften.
 
 
 #### § 27 Bekanntmachung der Entscheidung und Auslegung des Bescheids
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007102360)
 
 (1) Die zuständige Behörde hat in entsprechender Anwendung des § 74
 Absatz 5 Satz 2 des Verwaltungsverfahrensgesetzes die Entscheidung zur
@@ -1278,6 +1313,7 @@ kann entsprechend dem in § 19 Absatz 2 Satz 2 geregelten Verfahren
 
 
 #### § 28 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007201360)
 
 (1) Soweit bundes- oder landesrechtliche Regelungen keine
 Überwachungsmaßnahmen vorsehen, ergreift die zuständige Behörde die
@@ -1310,10 +1346,12 @@ Satz 1 aufgeben.
 
 
 ### Abschnitt 3 - Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001201360)
 
 
 
 #### § 29 Umweltverträglichkeitsprüfung bei Teilzulassungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007301360)
 
 (1) In Verfahren zur Vorbereitung eines Vorbescheids und zur Erteilung
 einer ersten Teilgenehmigung oder einer sonstigen ersten Teilzulassung
@@ -1332,6 +1370,7 @@ erhebliche Umweltauswirkungen des Vorhabens beschränkt werden. Absatz
 
 
 #### § 30 Erneute Öffentlichkeitsbeteiligung bei Teilzulassungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007401360)
 
 (1) Ist für ein Vorhaben bereits eine Teilzulassung nach § 29 erteilt
 worden, so ist im Verfahren zur Erteilung der Zulassung oder weiterer
@@ -1348,6 +1387,7 @@ vom Vorhabenträger vorgesehenen Vorkehrungen ausgeschlossen werden.
 
 
 #### § 31 Zulassung eines Vorhabens durch mehrere Behörden; federführende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007501360)
 
 (1) Bedarf ein Vorhaben der Zulassung durch mehrere Landesbehörden, so
 bestimmen die Länder eine federführende Behörde.
@@ -1402,6 +1442,7 @@ Behörde stellt das Zusammenwirken der Zulassungsbehörden sicher.
 
 
 #### § 32 Verbundene Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007601360)
 
 Für ein Vorhaben, das einzeln oder im Zusammenwirken mit anderen
 Vorhaben, Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet
@@ -1414,14 +1455,17 @@ verbunden werden.
 
 
 ## Teil 3 - Strategische Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000904360)
 
 
 
 ### Abschnitt 1 - Voraussetzungen für eine Strategische Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001004360)
 
 
 
 #### § 33 Strategische Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007701360)
 
 Die Strategische Umweltprüfung (SUP) ist unselbständiger Teil
 behördlicher Verfahren zur Aufstellung oder Änderung von Plänen und
@@ -1429,6 +1473,7 @@ Programmen.
 
 
 #### § 34 Feststellung der SUP-Pflicht
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003804360)
 
 (1) Die zuständige Behörde stellt frühzeitig fest, ob nach den §§ 35
 bis 37 eine Verpflichtung zur Durchführung einer Strategischen
@@ -1444,6 +1489,7 @@ selbständig anfechtbar.
 
 
 #### § 35 SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003908360)
 
 (1) Eine Strategische Umweltprüfung ist durchzuführen bei Plänen und
 Programmen, die
@@ -1487,6 +1533,7 @@ und das Ergebnis der Vorprüfung sind zu dokumentieren.
 
 
 #### § 36 SUP-Pflicht aufgrund einer Verträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004005360)
 
 Eine Strategische Umweltprüfung ist durchzuführen bei Plänen und
 Programmen, die einer Verträglichkeitsprüfung nach § 36 Satz 1 Nummer
@@ -1494,6 +1541,7 @@ Programmen, die einer Verträglichkeitsprüfung nach § 36 Satz 1 Nummer
 
 
 #### § 37 Ausnahmen von der SUP-Pflicht
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004110360)
 
 Werden Pläne und Programme nach § 35 Absatz 1 und § 36 nur geringfügig
 geändert oder legen sie die Nutzung kleiner Gebiete auf lokaler Ebene
@@ -1505,10 +1553,12 @@ Absatz 2 des Raumordnungsgesetzes bleiben unberührt.
 
 
 ### Abschnitt 2 - Verfahrensschritte der Strategischen Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001104360)
 
 
 
 #### § 38 Vorrang anderer Rechtsvorschriften bei der SUP
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004205360)
 
 Unbeschadet des § 52 finden die Vorschriften dieses Abschnitts
 Anwendung, soweit Rechtsvorschriften des Bundes und der Länder die
@@ -1518,6 +1568,7 @@ weitergehenden Anforderungen bleiben unberührt.
 
 
 #### § 39 Festlegung des Untersuchungsrahmens
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004305360)
 
 (1) Die für die Strategische Umweltprüfung zuständige Behörde legt den
 Untersuchungsrahmen der Strategischen Umweltprüfung einschließlich des
@@ -1566,6 +1617,7 @@ zuständigen Behörde.
 
 
 #### § 40 Umweltbericht
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004405360)
 
 (1) Die zuständige Behörde erstellt frühzeitig einen Umweltbericht.
 Dabei werden die voraussichtlichen erheblichen Umweltauswirkungen der
@@ -1638,6 +1690,7 @@ sind.
 
 
 #### § 41 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004504360)
 
 Die zuständige Behörde übermittelt den Behörden, deren umwelt- und
 gesundheitsbezogener Aufgabenbereich durch den Plan oder das Programm
@@ -1648,6 +1701,7 @@ angemessene Frist von mindestens einem Monat.
 
 
 #### § 42 Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004607360)
 
 (1) Für die Öffentlichkeitsbeteiligung gelten § 18 Absatz 1 sowie die
 §§ 19, 21 Absatz 1 und § 22 entsprechend, soweit nachfolgend nichts
@@ -1673,6 +1727,7 @@ Bundes dies für bestimmte Pläne und Programme vorsehen.
 
 
 #### § 43 Abschließende Bewertung und Berücksichtigung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004804360)
 
 (1) Nach Abschluss der Behörden- und Öffentlichkeitsbeteiligung
 überprüft die zuständige Behörde die Darstellungen und Bewertungen des
@@ -1686,6 +1741,7 @@ Aufstellung oder Änderung des Plans oder Programms zu berücksichtigen.
 
 
 #### § 44 Bekanntgabe der Entscheidung über die Annahme oder Ablehnung des Plans oder Programms
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE004905360)
 
 (1) Die Annahme eines Plans oder Programms ist öffentlich bekannt zu
 machen. Die Ablehnung eines Plans oder Programms kann öffentlich
@@ -1716,6 +1772,7 @@ zur Einsicht auszulegen:
 
 
 #### § 45 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005004360)
 
 (1) Die erheblichen Umweltauswirkungen, die sich aus der Durchführung
 des Plans oder Programms ergeben, sind zu überwachen, um insbesondere
@@ -1744,6 +1801,7 @@ werden. § 40 Absatz 4 gilt entsprechend.
 
 
 #### § 46 Verbundene Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005104360)
 
 Für einen Plan nach § 35 oder § 36, der einzeln oder im Zusammenwirken
 mit anderen Vorhaben, Projekten oder Plänen geeignet ist, ein Natura
@@ -1756,10 +1814,12 @@ Bewertung von Umweltauswirkungen verbunden werden.
 
 
 ## Teil 4 - Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000406360)
 
 
 
 ### § 47 Linienbestimmung und Genehmigung von Flugplätzen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001510130)
 
 (1) Für die Linienbestimmung nach § 16 Absatz 1 des
 Bundesfernstraßengesetzes und für die Linienbestimmung nach § 13
@@ -1784,6 +1844,7 @@ Rechtsbehelfsverfahrens gegen die nachfolgende Zulassungsentscheidung
 
 
 ### § 48 Raumordnungspläne
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001613360)
 
 Besteht für die Aufstellung eines Raumordnungsplans nach diesem Gesetz
 die SUP-Pflicht, so wird die Strategische Umweltprüfung einschließlich
@@ -1795,6 +1856,7 @@ anzuwenden.
 
 
 ### § 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE007902130)
 
 In der Raumverträglichkeitsprüfung erfolgt die Prüfung der
 Umweltauswirkungen nur nach Maßgabe des Raumordnungsgesetzes. Die
@@ -1805,6 +1867,7 @@ Umweltauswirkungen.
 
 
 ### § 50 Bauleitpläne
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001710360)
 
 (1) Werden Bebauungspläne im Sinne des § 2 Absatz 6 Nummer 3,
 insbesondere bei Vorhaben nach Anlage 1 Nummer 18.1 bis 18.9,
@@ -1832,6 +1895,7 @@ beschränkt werden.
 
 
 ### § 51 Bergrechtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE001807360)
 
 Bei bergbaulichen Vorhaben, die in der Anlage 1 aufgeführt sind und
 dem Bergrecht unterliegen, werden die Umweltverträglichkeitsprüfung
@@ -1842,12 +1906,14 @@ Bundesberggesetz dies anordnet.
 
 
 ### § 52 Landschaftsplanungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005305360)
 
 Bei Landschaftsplanungen richten sich die Erforderlichkeit und die
 Durchführung einer Strategischen Umweltprüfung nach Landesrecht.
 
 
 ### § 53 Verkehrswegeplanungen auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005409360)
 
 (1) Bei Bedarfsplänen nach Nummer 1.1 der Anlage 5 ist eine
 Strategische Umweltprüfung nur für solche erheblichen
@@ -1910,14 +1976,17 @@ notwendig sind.
 
 
 ## Teil 5 - Grenzüberschreitende Umweltprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001301360)
 
 
 
 ### Abschnitt 1 - Grenzüberschreitende Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001401360)
 
 
 
 #### § 54 Benachrichtigung eines anderen Staates
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008501360)
 
 (1) Wenn ein Vorhaben, für das eine UVP-Pflicht besteht, erhebliche
 grenzüberschreitende Umweltauswirkungen haben kann, benachrichtigt die
@@ -1950,6 +2019,7 @@ Beteiligungsverfahren nach Maßgabe der §§ 18 bis 22 beteiligen.
 
 
 #### § 55 Grenzüberschreitende Behördenbeteiligung bei inländischen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008601360)
 
 (1) Die zuständige deutsche Behörde übermittelt der benannten Behörde
 des anderen Staates sowie weiteren von dieser angegebenen Behörden,
@@ -2017,6 +2087,7 @@ Mitteilungen und Stellungnahmen in einer ihrer Amtssprachen
 
 
 #### § 56 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008702360)
 
 (1) Bei der grenzüberschreitenden Öffentlichkeitsbeteiligung kann sich
 die Öffentlichkeit des anderen Staates am Verfahren nach den §§ 18 bis
@@ -2064,6 +2135,7 @@ einer ihrer Amtssprachen übermitteln.
 
 
 #### § 57 Übermittlung des Bescheids
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008801360)
 
 (1) Die zuständige deutsche Behörde übermittelt der benannten Behörde
 des anderen Staates sowie denjenigen Behörden des anderen Staates, die
@@ -2110,6 +2182,7 @@ betroffenen Öffentlichkeit des anderen Staates
 
 
 #### § 58 Grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008901360)
 
 (1) Erhält die zuständige Behörde die Benachrichtigung eines anderen
 Staates über ein geplantes Vorhaben, für das in dem anderen Staat eine
@@ -2156,6 +2229,7 @@ entsprechend.
 
 
 #### § 59 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009001360)
 
 (1) Auf der Grundlage der von dem anderen Staat zu diesem Zweck
 übermittelten Unterlagen macht die zuständige deutsche Behörde das
@@ -2180,10 +2254,12 @@ etwas Abweichendes regeln.
 
 
 ### Abschnitt 2 - Grenzüberschreitende Strategische Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001501360)
 
 
 
 #### § 60 Grenzüberschreitende Behördenbeteiligung bei inländischen Plänen und Programmen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009101360)
 
 (1) Für die grenzüberschreitende Behördenbeteiligung bei Strategischen
 Umweltprüfungen gelten die Vorschriften über die Benachrichtigung
@@ -2220,6 +2296,7 @@ zur Stellungnahme hat.
 
 
 #### § 61 Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Plänen und Programmen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009201360)
 
 (1) Für die grenzüberschreitende Öffentlichkeitsbeteiligung bei
 Strategischen Umweltprüfungen gilt § 56 entsprechend. Die in dem
@@ -2265,6 +2342,7 @@ Informationen auch in einer Amtssprache des anderen Staates:
 
 
 #### § 62 Grenzüberschreitende Behördenbeteiligung bei ausländischen Plänen und Programmen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009301360)
 
 Für die Beteiligung der deutschen Behörden bei Plänen und Programmen
 eines anderen Staates gelten die Vorschriften für die
@@ -2274,6 +2352,7 @@ Absatz 5 entsprechend.
 
 
 #### § 63 Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Plänen und Programmen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009401360)
 
 (1) Für die Beteiligung der deutschen Öffentlichkeit bei Plänen und
 Programmen eines anderen Staates gilt § 59 Absatz 1 bis 3 und 5
@@ -2285,20 +2364,24 @@ Unterlagen im Falle der Annahme gilt § 44 entsprechend.
 
 
 ### Abschnitt 3 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG001601360)
 
 
 
 #### § 64 Völkerrechtliche Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009501360)
 
 Weitergehende Regelungen zur Umsetzung völkerrechtlicher
 Verpflichtungen von Bund und Ländern bleiben unberührt.
 
 
 ## Teil 6 - Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000506360)
 
 
 
 ### § 65 Planfeststellung; Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003407360)
 
 (1) Vorhaben, die in der Anlage 1 unter den Nummern 19.3 bis 19.9
 aufgeführt sind, sowie die Änderung solcher Vorhaben bedürfen der
@@ -2320,6 +2403,7 @@ ausgenommen Änderungen von unwesentlicher Bedeutung.
 
 
 ### § 66 Entscheidung; Nebenbestimmungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002116360)
 
 (1) Der Planfeststellungsbeschluss darf nur ergehen, wenn
 
@@ -2512,6 +2596,7 @@ die Aufgaben des Vollzugs und der Überwachung.
 
 
 ### § 67 Verfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003505360)
 
 Für die Durchführung des Planfeststellungsverfahrens und des
 Plangenehmigungsverfahrens gelten die §§ 72 bis 78 des
@@ -2522,6 +2607,7 @@ Umfang der Antragsunterlagen, zu regeln.
 
 
 ### § 67a Zulassung des vorzeitigen Baubeginns
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE009701360)
 
 (1) In einem Planfeststellungs- oder Plangenehmigungsverfahren für ein
 Vorhaben nach § 65 Absatz 1 in Verbindung mit der Anlage 1 Nummer 19.7
@@ -2586,6 +2672,7 @@ vorzeitigen Baubeginns haben keine aufschiebende Wirkung.
 
 
 ### § 68 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE003609360)
 
 (1) Die zuständige Behörde hat durch geeignete Maßnahmen zu
 überwachen, dass Vorhaben, die in Anlage 1 unter den Nummern 19.3 bis
@@ -2604,6 +2691,7 @@ ist.
 
 
 ### § 69 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008001360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2639,10 +2727,12 @@ werden.
 
 
 ## Teil 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNG000606360)
 
 
 
 ### § 70 Ermächtigung zum Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002007360)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften erlassen, insbesondere über
@@ -2673,6 +2763,7 @@ Verwaltungsvorschriften erlassen, insbesondere über
 
 
 ### § 71 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005803360)
 
 Von den Regelungen des Verwaltungsverfahrens, die in diesem Gesetz und
 aufgrund dieses Gesetzes getroffen werden, kann durch Landesrecht nur
@@ -2681,6 +2772,7 @@ ist.
 
 
 ### § 72 Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008101360)
 
 Ist die zuständige Behörde bei der Umweltverträglichkeitsprüfung
 zugleich Vorhabenträger, so ist die Unabhängigkeit des
@@ -2690,6 +2782,7 @@ insbesondere durch eine angemessene funktionale Trennung.
 
 
 ### § 73 Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008201360)
 
 (1) Zur Vorbereitung der Berichterstattung an die Europäische
 Kommission teilen die zuständigen Behörden des Bundes und der Länder
@@ -2733,6 +2826,7 @@ mitzuteilen:
 
 
 ### § 74 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002218360)
 
 (1) Für Vorhaben, für die das Verfahren zur Feststellung der UVP-
 Pflicht im Einzelfall nach § 3c oder nach § 3e Absatz 1 Nummer 2 in
@@ -2837,6 +2931,7 @@ dieses Gesetz nur anzuwenden, wenn das Verfahren nach dem 1. August
 
 
 ### Anlage 1 Liste „UVP-pflichtige Vorhaben“
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002439130)
 
 (Fundstelle: BGBl. I 2021, 565 – 582;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7164,6 +7259,7 @@ und 2.
 
 
 ### Anlage 2 Angaben des Vorhabenträgers zur Vorbereitung der Vorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008301360)
 
 (Fundstelle: BGBl. I 2021, 583)
 
@@ -7231,6 +7327,7 @@ und 2.
 
 
 ### Anlage 3 Kriterien für die Vorprüfung im Rahmen einer Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE002521360)
 
 (Fundstelle: BGBl. I 2021, 584 – 585)
 
@@ -7465,6 +7562,7 @@ wird.
 
 
 ### Anlage 4 Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE008401360)
 
 (Fundstelle: BGBl. I 2021, 586 – 587)
 
@@ -7707,6 +7805,7 @@ Angaben enthalten.
 
 
 ### Anlage 5 Liste „SUP-pflichtiger Pläne und Programme“
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005533360)
 
 (Fundstelle: BGBl. I 2021, 588 – 589;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7950,6 +8049,7 @@ Nachstehende Pläne und Programme fallen nach § 1 Absatz 1 Nummer 2, §
 
 
 ### Anlage 6 Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung
+[Direktlink](https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html#BJNR102050990BJNE005604360)
 
 (Fundstelle: BGBl. I 2021, 590)
 

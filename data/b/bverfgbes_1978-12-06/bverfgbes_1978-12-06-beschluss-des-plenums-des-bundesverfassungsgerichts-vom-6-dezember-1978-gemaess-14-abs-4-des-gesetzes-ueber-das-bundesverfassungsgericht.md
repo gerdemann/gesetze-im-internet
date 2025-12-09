@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1978-12-06/BJNR120950978.html#BJNR120950978BJNE000100311)
 
 Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs. 4 des
 Gesetzes über das Bundesverfassungsgericht in der Fassung der
@@ -28,6 +29,7 @@ S. 2485), beschlossen:
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1978-12-06/BJNR120950978.html#BJNR120950978BJNE000200311)
 
 Mit Wirkung vom 1. Januar 1979 ist abweichend von § 14 Abs. 1 bis 3
 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des
@@ -75,6 +77,7 @@ Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bverfgbes_1978-12-06/BJNR120950978.html#BJNR120950978BJNE000300311)
 
 Der Präsident des Bundesverfassungsgerichts
 

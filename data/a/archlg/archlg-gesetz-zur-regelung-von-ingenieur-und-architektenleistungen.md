@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ermächtigung zum Erlass einer Honorarordnung für Ingenieur- und Architektenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/archlg/BJNR017490971.html#BJNR017490971BJNE000102360)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates eine Honorarordnung für Ingenieur- und
@@ -57,6 +58,7 @@ Leistungen im Zusammenhang mit Vergabeverfahren.
 
 
 ## § 2 Unverbindlichkeit der Kopplung von Grundstückskaufverträgen mit Ingenieur- und Architektenverträgen
+[Direktlink](https://www.gesetze-im-internet.de/archlg/BJNR017490971.html#BJNR017490971BJNE000301360)
 
 Eine Vereinbarung, durch die der Erwerber eines Grundstücks sich im
 Zusammenhang mit dem Erwerb verpflichtet, bei der Planung oder

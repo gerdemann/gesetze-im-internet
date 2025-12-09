@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000100307)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 17 des Luftverkehrsgesetzes in
 der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61),
@@ -31,6 +32,7 @@ verordnet das Bundesministerium für Verkehr:
 
 
 ## § 1 Der Koordinierung und Flugplanvermittlung unterliegende Flugplätze und Verfahren der Flugplanvermittlung und Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000205119)
 
 (1) Folgende Verkehrsflughäfen sind flugplanvermittelte oder
 koordinierte Verkehrsflughäfen im Sinne des Artikels 2 Buchstabe g, h
@@ -122,6 +124,7 @@ und Verkehr im Rahmen seiner Rechts- und Fachaufsicht.
 
 
 ## § 2 Koordinierungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000305119)
 
 (1) Für jeden koordinierten Verkehrsflughafen wird ein
 Koordinierungsausschuss eingesetzt. Er besteht aus je einem Vertreter
@@ -147,6 +150,7 @@ wahrnimmt.
 
 
 ## § 3 Umfang der Koordinierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000401308)
 
 (1) Auf den in § 1 Abs. 1 genannten Verkehrsflughäfen hat der Halter
 eines Luftfahrzeugs alle beabsichtigten Starts und Landungen von
@@ -178,6 +182,7 @@ anzumelden.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000501305)
 
 (1) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -203,11 +208,13 @@ Flugsicherung.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000600307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fpkv/BJNR126200994.html#BJNR126200994BJNE000700307)
 
 Der Bundesrat hat zugestimmt.
 

@@ -29,9 +29,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNG000100000)
 
 
 ### § 1 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000102123)
 
 (1) Zur Erstattung der nach § 3e des Stabilisierungsfondsgesetzes
 zurechenbaren Kosten an den Bund verpflichtet ist,
@@ -51,6 +53,7 @@ zurechenbaren Kosten an den Bund verpflichtet ist,
 
 
 ### § 2 Entstehung der Pflicht zur Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000201116)
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit Beendigung der
 Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung
@@ -87,6 +90,7 @@ vorsehen, gelten die Absätze 1 und 2.
 
 
 ### § 3 Umfang der zu erstattenden Kosten; Kostenpauschale
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000301116)
 
 (1) Zu den zu erstattenden Kosten gehören auch solche Kosten, die in
 Vorbereitung oder während der Laufzeit einer Maßnahme oder anlässlich
@@ -107,6 +111,7 @@ Kostenpauschalen abweichend von § 2 festlegen.
 
 
 ### § 4 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000401116)
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe
 der Festsetzung an den Kostenschuldner fällig, es sei denn, die
@@ -119,6 +124,7 @@ Vertrag.
 
 
 ### § 5 Vorschusszahlung und Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000501116)
 
 (1) Die Anstalt oder die Finanzagentur können von einem
 Kostenschuldner nach § 1 die Zahlung eines Vorschusses oder die
@@ -137,9 +143,11 @@ Sicherheit nach dieser Verpflichtungserklärung oder diesem Vertrag.
 
 
 ## Abschnitt 2 - Verjährung und Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNG000401116)
 
 
 ### § 6 Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE000901116)
 
 (1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung oder
 Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
@@ -165,6 +173,7 @@ oder Änderung der Festsetzung gilt Satz 1 entsprechend.
 
 
 ### § 7 Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001001116)
 
 (1) Der Anspruch auf Zahlung von festgesetzten Kostenerstattungen
 verjährt nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist
@@ -177,6 +186,7 @@ nicht verfolgt werden kann.
 
 
 ### § 8 Unterbrechung der Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001101116)
 
 (1) Die Zahlungsverjährung wird unterbrochen durch
 
@@ -265,6 +275,7 @@ nach Absatz 1 unterbrochen werden.
 
 
 ### § 9 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001201116)
 
 (1) Werden Kostenerstattungsbeträge nicht bis zum Ablauf des
 Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat der
@@ -298,12 +309,14 @@ die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 
 ### § 10 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001301116)
 
 Stundung, Niederschlagung und Erlass festgesetzter Kostenerstattungen
 richten sich nach § 59 der Bundeshaushaltsordnung.
 
 
 ### § 11 Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001401116)
 
 (1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die nicht
 auf der Erhebung einer Vorauszahlung beruhen, sind nach
@@ -321,9 +334,11 @@ Verjährung beginnt nicht vor der Unanfechtbarkeit der Festsetzung.
 
 
 ## Abschnitt 3 - Übergangsregelungen und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNG000501116)
 
 
 ### § 12 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fmsakostv/BJNR192810015.html#BJNR192810015BJNE001502123)
 
 (1) Für Unternehmen des Finanzsektors, die eine
 Stabilisierungsmaßnahme nach dem Stabilisierungsfondsgesetz beantragt

@@ -26,6 +26,7 @@ Hafenanlagen (ABl. L 129 vom 29.4.2004, S. 6).
 
 
 ## § 1 Zielsetzung und Geltungsbereich, bundeseigene Schleusenanlagen
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000100000)
 
 (1) Diese Verordnung dient dem Schutz vor Angriffen auf die Sicherheit
 der bundeseigenen Schleusenanlagen im Nord-Ostsee-Kanal, insbesondere
@@ -43,6 +44,7 @@ Häfen im Sinne des Artikels 3 Absatz 1 der Richtlinie
 
 
 ## § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000200000)
 
 Zuständige Behörde im Sinne dieser Verordnung ist die Generaldirektion
 Wasserstraßen und Schifffahrt, soweit in den nachstehenden
@@ -52,6 +54,7 @@ Rechtsvorschriften dieser Verordnung und der Verordnung (EG) Nr.
 
 
 ## § 3 Beauftragte oder Beauftragter für die Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000300000)
 
 (1) Als Beauftragte oder Beauftragter für die Gefahrenabwehr im Sinne
 des Artikels 3 Absatz 1 der Verordnung (EG) Nr. 725/2004 in Verbindung
@@ -102,6 +105,7 @@ geschult werden.
 
 
 ## § 4 Maßnahmen nach der Verordnung (EG) Nr. 725/2004
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000400000)
 
 (1) Die zuständige Behörde hat die Risikobewertung nach Maßgabe des
 Artikels 3 Absatz 1 der Verordnung (EG) Nr. 725/2004 in Verbindung mit
@@ -169,6 +173,7 @@ für die Hafenanlage hat die geeigneten Maßnahmen zu koordinieren.
 
 
 ## § 5 Maßnahmen zur Umsetzung der Richtlinie 2005/65/EG
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000500000)
 
 (1) Die zuständige Behörde führt eine Risikobewertung zum Zweck der
 Gefahrenabwehr durch, die die nach § 4 Absatz 1 durchgeführten
@@ -205,6 +210,7 @@ der Gefahrenstufe.
 
 
 ## § 6 Weitere Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000600000)
 
 Mit dem Vollzug dieser Verordnung beauftragte Beschäftigte der
 zuständigen Behörde, insbesondere der oder die Beauftragte für
@@ -226,6 +232,7 @@ Schleusenanlagen im Nord-Ostsee-Kanal
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nok-gefabwv/BJNR077210022.html#BJNR077210022BJNE000700000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig

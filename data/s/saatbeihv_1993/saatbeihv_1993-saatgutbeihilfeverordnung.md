@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 7, des § 15 Satz 1, des § 16 und des § 31
 Abs. 2 Satz 1 Nr. 2 in Verbindung mit Satz 2 des Gesetzes zur
@@ -31,6 +32,7 @@ Wirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000200307)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
@@ -39,6 +41,7 @@ hinsichtlich der Gewährung einer Beihilfe.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -46,6 +49,7 @@ Ernährung.
 
 
 ## § 3 Voraussetzung für die Beihilfegewährung
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000402308)
 
 (1) Voraussetzung für die Gewährung der Beihilfe ist, daß der Züchter,
 die Saatgutfirma oder der Vermehrer der Bundesanstalt für
@@ -85,6 +89,7 @@ oder der Sortenzulassung nachzuholen.
 
 
 ## § 4 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000501308)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung erstellt auf
 Grund der Meldungen nach § 3 Abs. 1 ein Register der Züchter und der
@@ -95,6 +100,7 @@ berechtigtes Interesse glaubhaft macht.
 
 
 ## § 5 Beihilfeantrag
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000601308)
 
 (1) Der Beihilfeantrag ist bei der Bundesanstalt für Landwirtschaft
 und Ernährung bis zum 31. Mai des auf die Ernte des Saatgutes
@@ -121,6 +127,7 @@ wurden.
 
 
 ## § 6 Ergänzende Melde- und Vorlagepflichten
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000701308)
 
 Der Züchter, die Saatgutfirma oder der Vermehrer hat Änderungen des
 nach § 3 Abs. 1 gemeldeten Vermehrungsvorhabens unverzüglich der
@@ -131,6 +138,7 @@ Feldbestandes vorzulegen.
 
 
 ## § 7 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000800307)
 
 (1) Der Beihilfeberechtigte ist verpflichtet, neben den nach
 saatgutverkehrsrechtlichen Vorschriften erforderlichen Aufzeichnungen
@@ -148,6 +156,7 @@ Saatguternte folgenden Kalenderjahres aufzubewahren.
 
 
 ## § 8 Muster und Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE000901308)
 
 Sofern die Bundesanstalt für Landwirtschaft und Ernährung für die
 Vermehrungserklärung oder die Mitteilung des Vertragsabschlusses nach
@@ -157,6 +166,7 @@ bekanntgegeben hat oder Vordrucke bereithält, sind diese zu verwenden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE001000307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Gewährung von Beihilfen für
@@ -167,6 +177,7 @@ Saatgut im Wirtschaftsjahr 1993/94 weiter anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/saatbeihv_1993/BJNR175600993.html#BJNR175600993BJNE001100307)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-07-20/BJNR172310999.html#BJNR172310999BJNE000100305)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082, 1995 I S. 156) wird bekanntgemacht, daß die
@@ -38,6 +39,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-07-20/BJNR172310999.html#BJNR172310999BJNE000200305)
 
 Fundstelle: BGBl. I 1999, 1724)
 
@@ -46,6 +48,7 @@ Fundstelle: BGBl. I 1999, 1724)
 ![bgbl1_1999_j1724_0010.jpg](bgbl1_1999_j1724_0010.jpg)
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_99-07-20/BJNR172310999.html#BJNR172310999BJNE000300305)
 
 Fundstelle: BGBl. I 1999, 1725)
 

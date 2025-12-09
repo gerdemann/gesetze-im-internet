@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Verlegung des Sitzes von Kreditinstituten
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNG000100328)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE000600328)
 
 (1) Die Vorschriften über die Beschränkung der Inanspruchnahme eines
 Geldinstituts, das eine nach § 3 der Fünfunddreißigsten
@@ -43,6 +45,7 @@ von Amts wegen zu löschen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE000700328)
 
 Ist die Anerkennung als verlagertes Geldinstitut nach § 3 der
 Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz mit
@@ -53,6 +56,7 @@ Verlegung seines Sitzes Bankgeschäfte betreibt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE000800328)
 
 (1) Verlegt eine Berliner Altbank ihren Sitz in den Geltungsbereich
 dieses Gesetzes, so hat die bestätigte Altbankenrechnung die Wirkung
@@ -85,23 +89,28 @@ Altbankenrechnung gilt § 19 des Altbanken-Bilanz-Gesetzes.
 
 
 ## Zweiter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNG000201377)
 
 
 
 ### (XXXX) §§ 4 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE000901377)
 
 
 
 ## Dritter Abschnitt - Änderung von Vorschriften des Umstellungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNG000300328)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001300328)
 
 -
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001400328)
 
 Wo im Umstellungsergänzungsgesetz der für das Bankwesen zuständige
 Berliner Senator (Berliner Bankaufsichtsbehörde) oder die Berliner
@@ -110,10 +119,12 @@ oberste Landesbehörde des Landes Berlin.
 
 
 ### (XXXX) §§ 10 bis 12
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001500328)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001600328)
 
 Die Rechtskraft einer gerichtlichen Entscheidung, durch die ein
 Anspruch vor Inkrafttreten dieses Gesetzes abgelehnt worden ist, der
@@ -123,28 +134,34 @@ dieses Anspruchs nicht entgegen.
 
 
 ### (XXXX) §§ 14 bis 16
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001700328)
 
 
 
 ## Vierter Abschnitt - Ergänzung des Rückstellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNG000400328)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001800328)
 
 -
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNG000500328)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE001900328)
 
 -
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE002000328)
 
 Soweit dieses Gesetz auf das D-Markbilanzgesetz Bezug nimmt, ist
 darunter je nach dem Geltungsbereich das Gesetz über die
@@ -160,6 +177,7 @@ verstehen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE002100328)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -181,11 +199,13 @@ Verordnungsblatt für Berlin S. 382).
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE002200328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_rgg_3/BJNR000330964.html#BJNR000330964BJNE002300328)
 
 Die verfassungsmäßigen Rechte des Bundesrates sind gewahrt.
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113

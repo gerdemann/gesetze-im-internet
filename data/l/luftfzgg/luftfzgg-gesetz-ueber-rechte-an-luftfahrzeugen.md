@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001200315)
 
 
 *    *   ERSTER TEIL
@@ -159,14 +160,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Vorschriften für Luftfahrzeuge, die in die Luftfahrzeugrolle eingetragen sind
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000100315)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften über das Registerpfandrecht an einem Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000200315)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001300315)
 
 Ein in der Luftfahrzeugrolle eingetragenes Luftfahrzeug kann zur
 Sicherung einer Forderung in der Weise belastet werden, daß der
@@ -175,12 +179,14 @@ Befriedigung aus dem Luftfahrzeug zu suchen (Registerpfandrecht).
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001400315)
 
 Ein Registerpfandrecht kann auch für eine zukünftige oder eine
 bedingte Forderung bestellt werden.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001500315)
 
 Ein Registerpfandrecht kann auch in der Weise bestellt werden, daß nur
 der Höchstbetrag, bis zu dem das Luftfahrzeug haften soll, bestimmt,
@@ -190,12 +196,14 @@ eingerechnet.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001600315)
 
 Das Recht des Gläubigers aus dem Registerpfandrecht bestimmt sich nur
 nach der Forderung.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001700315)
 
 (1) Zur Bestellung des Registerpfandrechts ist die Einigung des
 Eigentümers und des Gläubigers sowie die Eintragung des
@@ -215,6 +223,7 @@ gestellt worden ist.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001800315)
 
 Ein Bruchteil des Eigentums an einem Luftfahrzeug kann mit einem
 Registerpfandrecht nur belastet werden, wenn er in dem Anteil eines
@@ -222,6 +231,7 @@ Miteigentümers besteht.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE001900315)
 
 Die Bestellung eines Registerpfandrechts ist unzulässig, solange das
 Luftfahrzeug mit einem Registerpfandrecht belastet ist, das im Wege
@@ -229,6 +239,7 @@ der Zwangsvollstreckung oder der Arrestvollziehung eingetragen ist.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002000315)
 
 Für die Forderung aus einer Schuldverschreibung auf den Inhaber, aus
 einem Wechsel oder aus einem anderen Papier, das durch Indossament
@@ -237,6 +248,7 @@ werden.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002100315)
 
 (1) Ein in der Luftfahrzeugrolle eingetragenes Luftfahrzeug kann nicht
 in anderer Weise mit einem Recht belastet werden, als in diesem Gesetz
@@ -249,6 +261,7 @@ eingetragen ist.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002201307)
 
 (1) Zur Sicherung des Anspruchs auf Einräumung oder Aufhebung eines
 Registerpfandrechts an einem Luftfahrzeug oder eines Rechts an einem
@@ -272,6 +285,7 @@ berufen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002300315)
 
 (1) Die Vormerkung wird auf Grund einer einstweiligen Verfügung oder
 auf Grund der Bewilligung dessen eingetragen, dessen Luftfahrzeug oder
@@ -285,6 +299,7 @@ Eintragungsbewilligung Bezug genommen werden.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002400315)
 
 Steht dem, dessen Luftfahrzeug oder dessen Recht von der Vormerkung
 betroffen wird, eine Einrede zu, durch welche die Geltendmachung des
@@ -294,6 +309,7 @@ verlangen.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002501140)
 
 (1) Ist der Gläubiger, dessen Anspruch durch die Vormerkung gesichert
 ist, unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem
@@ -315,6 +331,7 @@ Luftfahrzeugs von Amts wegen zuzustellen.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002600315)
 
 (1) Soweit der Erwerb eines Registerpfandrechts oder des Rechts an
 einem solchen dem gegenüber, zu dessen Gunsten die Vormerkung besteht,
@@ -327,6 +344,7 @@ gesichert ist.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002700315)
 
 (1) Ist im Register für jemanden ein Registerpfandrecht oder ein Recht
 an einem solchen eingetragen, so wird vermutet, daß ihm das Recht
@@ -337,6 +355,7 @@ nicht mehr besteht.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002800315)
 
 (1) Zugunsten dessen, der ein Registerpfandrecht oder ein Recht an
 einem solchen durch Rechtsgeschäft erwirbt, gilt der Inhalt des
@@ -355,6 +374,7 @@ kommt, die Zeit der Einigung maßgebend.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE002900315)
 
 § 16 gilt sinngemäß, wenn an den, für den ein Recht (§ 16 Abs. 1 Satz
 1) im Register eingetragen ist, auf Grund dieses Rechts eine Leistung
@@ -364,6 +384,7 @@ Recht enthält.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003000315)
 
 (1) Steht der Inhalt des Registers, soweit er das Eigentum, ein
 Registerpfandrecht, ein Recht an einem solchen oder eine
@@ -380,6 +401,7 @@ Verlangen sein Recht eintragen zu lassen.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003100315)
 
 Wer die Berichtigung verlangt, hat die Kosten der Berichtigung des
 Registers und der dazu erforderlichen Erklärungen zu tragen, sofern
@@ -388,11 +410,13 @@ Rechtsverhältnis etwas anderes ergibt.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003200315)
 
 Die in § 18 bestimmten Ansprüche unterliegen nicht der Verjährung.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003300315)
 
 (1) In den Fällen des § 18 kann ein Widerspruch gegen die Richtigkeit
 des Registers eingetragen werden.
@@ -405,6 +429,7 @@ glaubhaft gemacht wird.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003400315)
 
 Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen
 Verfügung eingetragen, so erlischt die Vormerkung oder der
@@ -413,6 +438,7 @@ Entscheidung aufgehoben wird.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003500315)
 
 (1) Die Ansprüche aus eingetragenen Rechten unterliegen nicht der
 Verjährung. Dies gilt nicht für Ansprüche, die auf Rückstände
@@ -423,10 +449,12 @@ Registers eingetragen ist, steht dem eingetragenen Recht gleich.
 
 
 ### Zweiter Abschnitt - Eintragung und Inhalt des Registerpfandrechts an einem Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000300315)
 
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003600315)
 
 (1) Bei der Eintragung eines Registerpfandrechts müssen der Gläubiger,
 der Geldbetrag der Forderung und, wenn die Forderung verzinslich ist,
@@ -444,6 +472,7 @@ auf die Satzung.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003700315)
 
 (1) Ist ein Luftfahrzeug mit mehreren Registerpfandrechten belastet,
 so bestimmt sich ihr Rangverhältnis nach der Reihenfolge der
@@ -456,6 +485,7 @@ Register eingetragen werden.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003800315)
 
 (1) Das Rangverhältnis kann nachträglich geändert werden. Der
 nachträglichen Änderung des Rangverhältnisses steht es gleich, wenn
@@ -481,6 +511,7 @@ Rangänderung nicht berührt.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE003900315)
 
 (1) Der Eigentümer kann sich bei der Belastung des Luftfahrzeugs mit
 einem Registerpfandrecht die Befugnis vorbehalten, ein anderes dem
@@ -502,6 +533,7 @@ Vorbehalt hinausgehende Beeinträchtigung erleiden würde.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004000315)
 
 (1) Besteht für die Forderung ein Registerpfandrecht an mehreren
 Luftfahrzeugen oder an mehreren Anteilen eines Luftfahrzeugs, so
@@ -523,6 +555,7 @@ dessen Gunsten sie erfolgt; sie ist unwiderruflich.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004100315)
 
 Kraft des Registerpfandrechts haftet das Luftfahrzeug auch für die
 gesetzlichen Zinsen der Forderung sowie für die Kosten der Kündigung
@@ -531,6 +564,7 @@ Rechtsverfolgung.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004200315)
 
 (1) Ist die Forderung unverzinslich oder ist der Zinssatz niedriger
 als fünf vom Hundert, so kann das Registerpfandrecht ohne die
@@ -543,6 +577,7 @@ Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004300315)
 
 (1) Das Registerpfandrecht erstreckt sich auf das Zubehör des
 Luftfahrzeugs mit Ausnahme der Zubehörstücke, die nicht in das
@@ -569,6 +604,7 @@ vorübergehenden Zweck erfolgt.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004400315)
 
 (1) Hat der Eigentümer oder für seine Rechnung ein anderer für das
 Luftfahrzeug eine Versicherung genommen, so erstreckt sich das
@@ -589,6 +625,7 @@ Versicherer gegenüber der Zahlung widersprechen.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004500315)
 
 (1) Eine Zahlung des Versicherers auf die Versicherungsforderung ist
 dem Gläubiger gegenüber wirksam, soweit sie zum Zweck der
@@ -606,6 +643,7 @@ und für die ein in § 75 bezeichnetes Recht bestand.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004601307)
 
 (1) Hat der Gläubiger sein Registerpfandrecht bei dem Versicherer
 angemeldet, so hat dieser dem Gläubiger unverzüglich mitzuteilen, wenn
@@ -642,6 +680,7 @@ sie in anderer Weise erfahren hat.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004700315)
 
 (1) Ist das Luftfahrzeug bei mehreren Versicherern gemeinschaftlich
 versichert, so genügt die Anmeldung des Registerpfandrechts nach § 34
@@ -658,6 +697,7 @@ regelmäßiger Beförderung dem Gläubiger zugegangen sein würde.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004800315)
 
 Ist der Versicherer wegen eines Verhaltens des Versicherungsnehmers
 oder des Versicherten, das nicht den Betrieb des Luftfahrzeugs
@@ -669,6 +709,7 @@ deshalb frei ist, weil eine Prämie nicht rechtzeitig gezahlt ist.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE004900315)
 
 Soweit der Versicherer auf Grund des § 34 Abs. 2 bis 4, § 36 den
 Gläubiger befriedigt, geht das Registerpfandrecht auf ihn über. Der
@@ -679,6 +720,7 @@ geltend gemacht werden.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005000315)
 
 (1) Der Versicherer muß fällige Prämien oder sonstige ihm auf Grund
 des Versicherungsvertrags gebührende Zahlungen vom Versicherten und
@@ -693,6 +735,7 @@ verwendet hat.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005100315)
 
 (1) Ist infolge einer Verschlechterung des Luftfahrzeugs oder seiner
 Einrichtungen die Sicherheit des Registerpfandrechts gefährdet, so
@@ -721,6 +764,7 @@ zuwider von dem Luftfahrzeug entfernt werden.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005200315)
 
 Ist infolge der Einwirkung eines Dritten eine die Sicherheit des
 Registerpfandrechts gefährdende Verschlechterung des Luftfahrzeugs zu
@@ -728,6 +772,7 @@ besorgen, so kann der Gläubiger gegen ihn nur auf Unterlassung klagen.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005300315)
 
 (1) Der Eigentümer kann gegen das Registerpfandrecht die dem Schuldner
 gegen die Forderung zustehenden Einreden geltend machen. Er kann die
@@ -744,6 +789,7 @@ Einrede nicht dadurch, daß der Schuldner auf sie verzichtet.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005400315)
 
 (1) Hängt die Fälligkeit der Forderung von einer Kündigung ab, so ist
 die Kündigung für das Registerpfandrecht nur wirksam, wenn sie von dem
@@ -760,6 +806,7 @@ Gläubiger ohne Fahrlässigkeit nicht weiß, wer der Eigentümer ist.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005500315)
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
 die Forderung ihm gegenüber fällig geworden oder wenn der Schuldner
@@ -770,6 +817,7 @@ durch Aufrechnung befriedigen.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005600315)
 
 (1) Ist der Eigentümer nicht der Schuldner, so geht, soweit er den
 Gläubiger befriedigt, die Forderung auf ihn über; der Übergang kann
@@ -782,6 +830,7 @@ für dieses die Vorschriften des § 64.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005700315)
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 der zur Berichtigung des Registers oder zur Löschung des
@@ -789,6 +838,7 @@ Registerpfandrechts erforderlichen Urkunden verlangen.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005800315)
 
 Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
@@ -796,10 +846,12 @@ aus dem Luftfahrzeug.
 
 
 ### Dritter Abschnitt - Die Geltendmachung des Registerpfandrechts an einem Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000400315)
 
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE005900315)
 
 (1) Der Gläubiger kann seine Befriedigung aus dem Luftfahrzeug und den
 Gegenständen, auf die sich das Registerpfandrecht erstreckt, nur im
@@ -811,6 +863,7 @@ suchen.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006000315)
 
 Bei der Verfolgung des Rechts aus dem Registerpfandrecht gilt
 zugunsten des Gläubigers als Eigentümer, wer im Register als
@@ -820,6 +873,7 @@ Einwendungen geltend zu machen, bleibt unberührt.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006100315)
 
 Solange die Forderung dem Eigentümer gegenüber nicht fällig geworden
 ist, kann dieser dem Gläubiger nicht das Recht einräumen, zum Zweck
@@ -829,6 +883,7 @@ Zwangsvollstreckung zu veräußern.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006200315)
 
 (1) Verlangt der Gläubiger Befriedigung aus dem Luftfahrzeug, so ist
 jeder, der Gefahr läuft, durch die Zwangsvollstreckung ein Recht an
@@ -848,10 +903,12 @@ dem Dritten bestehenden Rechtsverhältnis bleiben unberührt.
 
 
 ### Vierter Abschnitt - Übertragung, Änderung und Erlöschen des Registerpfandrechts an einem Luftfahrzeug
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000500315)
 
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006300315)
 
 (1) Mit der Übertragung der Forderung geht das Registerpfandrecht auf
 den neuen Gläubiger über.
@@ -871,6 +928,7 @@ ist der Übergang des Registerpfandrechts ausgeschlossen.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006400315)
 
 (1) Eine Einrede, die dem Eigentümer auf Grund eines zwischen ihm und
 dem bisherigen Gläubiger bestehenden Rechtsverhältnisses gegen das
@@ -886,6 +944,7 @@ den in Absatz 1 bezeichneten Einreden nicht auf § 16 berufen.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006500315)
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder anderen
 Nebenleistungen oder auf Erstattung von Kosten der Kündigung und
@@ -900,6 +959,7 @@ Registers gelten für die im Absatz 1 bezeichneten Ansprüche nicht.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006600315)
 
 (1) Zur Änderung des Inhalts des Registerpfandrechts ist die Einigung
 des Eigentümers und des Gläubigers über den Eintritt der
@@ -913,6 +973,7 @@ erfolgt; sie ist unwiderruflich.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006700315)
 
 (1) An die Stelle der Forderung, für welche das Registerpfandrecht
 besteht, kann eine andere Forderung gesetzt werden. Zu der Änderung
@@ -927,6 +988,7 @@ gelten sinngemäß.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006800315)
 
 (1) Zur Aufhebung des Registerpfandrechts durch Rechtsgeschäft ist die
 Erklärung des Gläubigers, daß er das Registerpfandrecht aufgebe, und
@@ -949,6 +1011,7 @@ gestellt worden ist.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE006900315)
 
 Das Registerpfandrecht erlischt vorbehaltlich der Fälle des § 59 mit
 der Forderung. Das Registerpfandrecht erlischt auch, wenn der
@@ -958,6 +1021,7 @@ der Zwangsvollstreckung befriedigt wird.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007000315)
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 des Registerpfandrechts dauernd ausgeschlossen wird, so kann er
@@ -965,6 +1029,7 @@ verlangen, daß der Gläubiger das Registerpfandrecht aufgibt.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007100315)
 
 (1) Befriedigt der Schuldner den Gläubiger, so geht das
 Registerpfandrecht auf ihn über, soweit er von dem Eigentümer oder
@@ -984,6 +1049,7 @@ Forderung und Schuld in einer Person vereinigen.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007200315)
 
 Gibt der Gläubiger das Registerpfandrecht auf oder räumt er einem
 anderen Registerpfandrecht den Vorrang ein, so wird der Schuldner
@@ -992,6 +1058,7 @@ Registerpfandrecht hätte Ersatz verlangen können.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007300315)
 
 Ist der Schuldner berechtigt, von dem Eigentümer Ersatz zu verlangen,
 falls er den Gläubiger befriedigt, so kann er, wenn der Gläubiger die
@@ -1003,6 +1070,7 @@ Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007400315)
 
 Hat der Schuldner dadurch, daß er den Gläubiger befriedigt hat, das
 Registerpfandrecht erworben oder hat er aus demselben Grund ein
@@ -1012,6 +1080,7 @@ Registers erforderlichen Urkunden ihm aushändigt.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007500315)
 
 (1) Das Registerpfandrecht erlischt, wenn es mit dem Eigentum in
 derselben Person zusammentrifft.
@@ -1024,6 +1093,7 @@ nicht.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007600315)
 
 (1) Befriedigt der Eigentümer eines mit einem Gesamtregisterpfandrecht
 belasteten Luftfahrzeugs den Gläubiger und erwirbt er nach § 44 die
@@ -1051,6 +1121,7 @@ befriedigt, so gilt Absatz 2 sinngemäß.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007700315)
 
 (1) Ist ein Registerpfandrecht im Register zu Unrecht gelöscht, so
 erlischt es, wenn der Anspruch des Gläubigers gegen den Eigentümer
@@ -1061,6 +1132,7 @@ Registerpfandrecht nicht in das Register eingetragen worden ist.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007802140)
 
 (1) Ist der Gläubiger unbekannt, so kann er im Wege des
 Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit
@@ -1086,6 +1158,7 @@ dem das Register für Pfandrechte an Luftfahrzeugen geführt wird.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE007901140)
 
 (1) Der unbekannte Gläubiger kann im Wege des Aufgebotsverfahrens mit
 seinem Recht auch dann ausgeschlossen werden, wenn der Eigentümer zur
@@ -1115,10 +1188,12 @@ Register für Pfandrechte an Luftfahrzeugen geführt wird.
 
 
 ### Fünfter Abschnitt - Die Erweiterung des Registerpfandrechts auf Ersatzteile von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000600315)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008000315)
 
 (1) Das Registerpfandrecht an einem in der Luftfahrzeugrolle
 eingetragenen Luftfahrzeug kann auf die Ersatzteile erweitert werden,
@@ -1137,6 +1212,7 @@ sinngemäß.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008100315)
 
 Der Eigentümer des belasteten Luftfahrzeugs ist gegenüber dem
 Gläubiger des Registerpfandrechts oder eines Rechts an diesem
@@ -1147,6 +1223,7 @@ den Namen und die Anschrift des Gläubigers angibt.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008200315)
 
 (1) Für die Erweiterung, die Eintragung und das Recht, das sich aus
 der Erweiterung ergibt, gelten die Vorschriften der §§ 6, 10 bis 23,
@@ -1158,6 +1235,7 @@ aufgehoben.
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008300315)
 
 (1) Auf Grund der Erweiterung erstreckt sich das Registerpfandrecht
 auf die zur Zeit der Erweiterung oder später in das Ersatzteillager
@@ -1171,6 +1249,7 @@ genommen worden sind.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008400315)
 
 Erstrecken sich nach § 71 mehrere Registerpfandrechte auf dieselben
 Ersatzteile, so bestimmt sich ihr Rangverhältnis hinsichtlich der
@@ -1179,6 +1258,7 @@ Register eingetragen sind. § 25 Abs. 1 Satz 2, Abs. 2 gilt sinngemäß.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008500315)
 
 Werden Ersatzteile, auf welche das Registerpfandrecht sich nach § 71
 erstreckt, verschlechtert oder den Regeln einer ordnungsmäßigen
@@ -1187,6 +1267,7 @@ Verschlechterung des Luftfahrzeugs gleich.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008600315)
 
 Erlischt ein Registerpfandrecht, das sich nach § 71 auf Ersatzteile
 erstreckt, durch den Untergang oder die Enteignung des belasteten
@@ -1197,10 +1278,12 @@ gesicherte Forderung erloschen ist.
 
 
 ### Sechster Abschnitt - Rechte aus Bergungs- und Erhaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000700315)
 
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008700315)
 
 Begründet ein Anspruch wegen Entschädigung für die Bergung eines in
 der Luftfahrzeugrolle eingetragenen Luftfahrzeugs oder wegen
@@ -1214,6 +1297,7 @@ Artikel IV des Genfer Abkommens vom 19. Juni 1948 (Bundesgesetzbl.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008800315)
 
 Das Recht gewährt dem Berechtigten im Verhältnis zu anderen Rechten an
 dem Luftfahrzeug dieselben Rechte wie ein Registerpfandrecht. Es geht
@@ -1226,6 +1310,7 @@ untereinander den gleichen Rang.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE008900315)
 
 (1) Zur Wahrung des Rechts kann für den Berechtigten innerhalb von
 drei Monaten nach Abschluß der Bergungs- oder Erhaltungsmaßnahmen ein
@@ -1241,10 +1326,12 @@ Luftfahrzeug oder eine Vormerkung in das Register eingetragen ist.
 
 
 ### Siebenter Abschnitt - Register für Pfandrechte an Luftfahrzeugen, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000800315)
 
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009000315)
 
 Das Register für Pfandrechte an Luftfahrzeugen wird von dem
 Amtsgericht, in dessen Bezirk das Luftfahrt-Bundesamt seinen Sitz hat,
@@ -1252,6 +1339,7 @@ als Registergericht geführt.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009100315)
 
 Ein in der Luftfahrzeugrolle eingetragenes Luftfahrzeug wird in das
 Register eingetragen, wenn es ordnungsmäßig zur Eintragung angemeldet
@@ -1263,6 +1351,7 @@ ist.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009200315)
 
 (1) Bei der Anmeldung des Luftfahrzeugs sind anzugeben
 
@@ -1292,6 +1381,7 @@ machen, daß er Eigentümer des Luftfahrzeugs ist.
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009300315)
 
 (1) Jedes Luftfahrzeug erhält bei der Eintragung eine besondere Stelle
 (Registerblatt). Das Registerblatt ist für das Luftfahrzeug als das
@@ -1302,6 +1392,7 @@ bezeichneten Angaben und den Tag der Eintragung zu enthalten.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009400315)
 
 (1) Wird das Luftfahrzeug auf Grund der Anmeldung einer Person
 eingetragen, die auf Grund eines vollstreckbaren Titels eine
@@ -1322,6 +1413,7 @@ gegen die Richtigkeit der Eigentumseintragung eintragen.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009500315)
 
 Das Registergericht soll die Eintragung des Luftfahrzeugs in das
 Register dem Luftfahrt-Bundesamt, dem Anmeldenden, dem als Eigentümer
@@ -1330,6 +1422,7 @@ widersprochen hat, bekanntmachen.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009600315)
 
 (1) Jedes Lager von Ersatzteilen, auf die sich ein Registerpfandrecht
 an einem Luftfahrzeug nach § 71 erstreckt, erhält bei der ersten
@@ -1351,6 +1444,7 @@ endgültige Eintragung hier vorzunehmen ist.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009700315)
 
 (1) Das Register ist öffentlich; die Einsicht in das Register ist
 jedem gestattet. Auf Verlangen ist eine Abschrift der Eintragungen zu
@@ -1366,6 +1460,7 @@ sinngemäß.
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009800315)
 
 (1) Für Eintragungen in das Register gelten die Vorschriften des
 Dritten Abschnitts der Schiffsregisterordnung vom 26. Mai 1951
@@ -1382,6 +1477,7 @@ ist.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE009900315)
 
 Wird für eine Forderung, die auf ausländische Währung lautet und deren
 Gläubiger seinen Wohnsitz oder Sitz außerhalb des Geltungsbereichs
@@ -1392,6 +1488,7 @@ haften soll, in ausländischer Währung angegeben werden.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010000315)
 
 (1) Dem Antrag, die Erweiterung eines Registerpfandrechts an einem
 Luftfahrzeug auf Ersatzteile in das Register einzutragen, ist ein
@@ -1416,6 +1513,7 @@ Registerblatt des Ersatzteillagers gelöscht wird.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010100315)
 
 (1) Der Schutzvermerk nach § 77 wird von Amts wegen eingetragen, wenn
 der Berechtigte das Recht ordnungsmäßig und rechtzeitig vor Ablauf der
@@ -1436,6 +1534,7 @@ Gesetzes nicht mehr anzuerkennen ist.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010200315)
 
 (1) Werden nach der Eintragung des Luftfahrzeugs in das Register
 Eintragungen in der Luftfahrzeugrolle geändert, welche die in § 80
@@ -1449,6 +1548,7 @@ Eigentümer im Register Eingetragene der Berichtigung zustimmt.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010300315)
 
 Wird die Eintragung eines im Register eingetragenen Luftfahrzeugs in
 der Luftfahrzeugrolle gelöscht, so hat das Luftfahrt-Bundesamt das
@@ -1456,6 +1556,7 @@ Registergericht zu ersuchen, dies in das Register einzutragen.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010400315)
 
 Wird ein im Register eingetragenes Luftfahrzeug, das in der
 Luftfahrzeugrolle gelöscht ist, erneut in die Luftfahrzeugrolle
@@ -1465,6 +1566,7 @@ Eintragung zu löschen. § 90 gilt sinngemäß.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010500315)
 
 (1) Die Eintragung des Luftfahrzeugs im Register wird auf Antrag des
 als Eigentümer Eingetragenen oder seines Rechtsnachfolgers gelöscht,
@@ -1478,6 +1580,7 @@ Eigentümer des Luftfahrzeugs Eingetragenen bekanntmachen.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010600315)
 
 (1) Die Eintragung des Ersatzteillagers kann von Amts wegen gelöscht
 werden, wenn alle anderen Eintragungen in dem Registerblatt gelöscht
@@ -1490,6 +1593,7 @@ des belasteten Luftfahrzeugs eingetragen war.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010702360)
 
 (1) Die Vorschriften des Sechsten Abschnitts der
 Schiffsregisterordnung über die Anfechtung von Entscheidungen des
@@ -1509,6 +1613,7 @@ Akte kann auf einzelne Verfahren beschränkt werden.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010805301)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, bis
@@ -1541,6 +1646,7 @@ Landesjustizverwaltung.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE010901301)
 
 Der Bundesminister der Justiz und für Verbraucherschutz wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung das
@@ -1555,10 +1661,12 @@ erforderliche Eintragung ersetzt wird.
 
 
 ### Achter Abschnitt - Anwendbarkeit der Vorschriften anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG000900315)
 
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011005125)
 
 (1) Für Luftfahrzeuge, die in der Luftfahrzeugrolle oder im Register
 für Pfandrechte an Luftfahrzeugen eingetragen sind, gelten die für
@@ -1584,6 +1692,7 @@ Luftfahrzeugrolle eingetragenen Luftfahrzeug gleich.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011102140)
 
 (1) Die Vorschriften in §§ 58, 266, 325 Abs. 4, §§ 592, 720a, 787, 794
 Abs. 1 Nr. 5, §§ 800a, 830a, 837a, 847a, 855a, 864, 865, 870a,
@@ -1620,6 +1729,7 @@ Bundesamt seinen Sitz hat.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011200315)
 
 Für die Zwangsvollstreckung in Ersatzteile, auf die sich ein
 Registerpfandrecht an einem Luftfahrzeug nach § 71 erstreckt, gelten
@@ -1687,6 +1797,7 @@ mit folgenden Maßgaben:
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011300315)
 
 Für das Verfahren des Vollstreckungsgerichts auf Festsetzung des
 Mindestgebots wird ein Viertel der vollen Gebühr nach dem Betrag der
@@ -1698,14 +1809,17 @@ einzureichen, soll erst nach Zahlung der Gebühr erlassen werden. Im
 
 
 #### § 102 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011401301)
 
 
 
 ## Zweiter Teil - Vorschriften für ausländische Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG001000315)
 
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011500315)
 
 Besteht an einem ausländischen Luftfahrzeug
 
@@ -1730,6 +1844,7 @@ eingetragen ist.
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011600315)
 
 Besteht an einem ausländischen Luftfahrzeug ein Recht wegen
 Entschädigung für dessen Bergung oder wegen außerordentlicher, zur
@@ -1744,6 +1859,7 @@ Ereignis entstanden, so haben sie untereinander den gleichen Rang.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011700315)
 
 Erstreckt sich ein zur Sicherung einer Forderung eingetragenes Recht,
 das nach § 103 mit Vorrang anzuerkennen ist, auf Ersatzteile, die an
@@ -1755,6 +1871,7 @@ Berechtigten angibt.
 
 
 ### § 106
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011800315)
 
 (1) Es sind sinngemäß anzuwenden
 
@@ -1804,10 +1921,12 @@ Zeitpunkt der Verfügung Kenntnis von der Beschlagnahme hatte.
 
 
 ## Dritter Teil - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNG001100315)
 
 
 
 ### § 107
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE011900315)
 
 (1) Besteht beim Inkrafttreten dieses Gesetzes an einem in der
 Luftfahrzeugrolle eingetragenen Luftfahrzeug ein Pfandrecht oder wird
@@ -1826,21 +1945,25 @@ fortgesetzt.
 
 
 ### (XXXX) §§ 108 und 109
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE012000315)
 
 -
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE012100315)
 
 -
 
 
 ### (XXXX) §§ 111 bis 113
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE012200315)
 
 -
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE012300315)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1850,6 +1973,7 @@ enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach
 
 
 ### § 115
+[Direktlink](https://www.gesetze-im-internet.de/luftfzgg/BJNR000570959.html#BJNR000570959BJNE012400315)
 
 Dieses Gesetz tritt mit Beginn des zweiten Kalendermonats nach seiner
 Verkündung in Kraft. § 96 tritt mit der Verkündung in Kraft.

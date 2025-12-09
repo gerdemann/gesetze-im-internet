@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -36,6 +37,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000200000)
 
 Der Ausbildungsberuf des Bootsbauers und der Bootsbauerin wird
 
@@ -52,11 +54,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und in die Ausbildung in einer der Fachrichtungen
@@ -71,6 +75,7 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -222,6 +227,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -243,6 +249,7 @@ durchzusehen.
 
 
 ## § 6 Gesellenprüfung, Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000700000)
 
 (1) Die Gesellen- oder Abschlussprüfung besteht aus den beiden
 zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellen- oder
@@ -265,6 +272,7 @@ Abschlussprüfung mit 75 Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000800000)
 
 (1) Teil 1 der Gesellen- oder Abschlussprüfung soll zum Ende des
 zweiten Ausbildungsjahres stattfinden.
@@ -343,6 +351,7 @@ Vorgaben:
 
 
 ## § 8 Teil 2 der Gesellen- oder Abschlussprüfung in der Fachrichtung Neu-, Aus- und Umbau
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE000900000)
 
 (1) Teil 2 der Gesellen- oder Abschlussprüfung erstreckt sich auf die
 in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -521,6 +530,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Neu-, Aus- und Umbau
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001000000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -595,6 +605,7 @@ gewichten.
 
 
 ## § 10 Teil 2 der Gesellen- oder Abschlussprüfung in der Fachrichtung Technik
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001100000)
 
 (1) Teil 2 der Gesellen- oder Abschlussprüfung erstreckt sich auf die
 in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -775,6 +786,7 @@ folgende Vorgaben:
 
 
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Technik
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001200000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -849,6 +861,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 12 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001300000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -857,6 +870,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Bootsbauer/zur
@@ -865,6 +879,7 @@ Bootsbauerin vom 26. Juni 2000 (BGBl. I S. 987) außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
+[Direktlink](https://www.gesetze-im-internet.de/bootsbausbv_2011/BJNR105800011.html#BJNR105800011BJNE001500000)
 
 (Fundstelle: BGBl. I 2011, 1063 - 1074)
 

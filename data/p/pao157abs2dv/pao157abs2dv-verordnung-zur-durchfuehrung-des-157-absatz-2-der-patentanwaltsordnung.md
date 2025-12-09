@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pao157abs2dv/BJNR140000022.html#BJNR140000022BJNE000100000)
 
 Auf Grund des § 157 Absatz 2 Satz 1 der Patentanwaltsordnung, der
 durch Artikel 3 Nummer 87 des Gesetzes vom 7. Juli 2021 (BGBl. I S.
@@ -30,6 +31,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Patentanwaltsberufe aus Mitgliedstaaten der Welthandelsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/pao157abs2dv/BJNR140000022.html#BJNR140000022BJNE000200000)
 
 Die in der Anlage aufgeführten Berufe der dort bezeichneten Staaten
 und Gebiete erfüllen die Voraussetzungen des § 157 Absatz 2 Satz 1 der
@@ -37,12 +39,14 @@ Patentanwaltsordnung.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pao157abs2dv/BJNR140000022.html#BJNR140000022BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Patentanwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
+[Direktlink](https://www.gesetze-im-internet.de/pao157abs2dv/BJNR140000022.html#BJNR140000022BJNE000402125)
 
 (Fundstelle: BGBl. I 2022, 1400; bzgl. einzelner Änderungen vgl.
 Fußnote)

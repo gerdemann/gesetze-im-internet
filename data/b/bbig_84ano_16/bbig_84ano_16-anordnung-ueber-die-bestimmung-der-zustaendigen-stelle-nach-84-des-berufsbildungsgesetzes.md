@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_16/BJNR019250989.html#BJNR019250989BJNE000100308)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -44,11 +45,13 @@ für wirtschaftliche Zusammenarbeit.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_16/BJNR019250989.html#BJNR019250989BJNE000200308)
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_16/BJNR019250989.html#BJNR019250989BJNE000300308)
 
 Der Bundesminister für wirtschaftliche Zusammenarbeit
 

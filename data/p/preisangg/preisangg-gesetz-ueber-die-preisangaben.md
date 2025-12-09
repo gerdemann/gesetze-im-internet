@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/preisangg/BJNR114290984.html#BJNR114290984BJNE000105118)
 
 Zum Zwecke der Unterrichtung und des Schutzes der Verbraucher und zur
 Förderung des Wettbewerbs sowie zur Durchführung von diesen Zwecken
@@ -36,11 +37,13 @@ die Angabe des Preisstandes fortlaufender Leistungen getroffen werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/preisangg/BJNR114290984.html#BJNR114290984BJNE000404377)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/preisangg/BJNR114290984.html#BJNR114290984BJNE000201308)
 
 (1) Soweit es erforderlich ist, um die Einhaltung einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung zu überwachen, können die

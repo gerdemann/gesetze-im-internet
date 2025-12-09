@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes in Verbindung mit § 10 und Anlage 2 Nummer 16
@@ -40,9 +41,11 @@ des Innern, für Bau und Heimat:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000100000)
 
 
 ### § 1 Studium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000300000)
 
 Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den
 Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für
@@ -60,6 +63,7 @@ Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000401311)
 
 (1) Das Studium vermittelt in enger Verbindung von Wissenschaft und
 Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -86,6 +90,7 @@ Kompetenz sind zu fördern.
 
 
 ### § 3 Dienstbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000500000)
 
 (1) Dienstbehörde ist
 
@@ -105,6 +110,7 @@ anderen Behörden übertragen werden.
 
 
 ### § 4 Ausbildungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000600000)
 
 Ausbildungsbehörden sind
 
@@ -119,6 +125,7 @@ Ausbildungsbehörden sind
 
 
 ### § 5 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000700000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die
 Leiterin oder der Leiter der Dienstbehörde.
@@ -139,12 +146,14 @@ Leiterin oder der Leiter der Dienstbehörde.
 
 
 ### § 6 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000800000)
 
 Erholungsurlaub wird in der Regel während der berufspraktischen
 Studienzeiten gewährt.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE000901311)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren,
@@ -177,6 +186,7 @@ Gutachten trägt die Dienstbehörde.
 
 
 ### § 8 Bewertung der Leistungen im Studium und in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001000000)
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen
 werden wie folgt bewertet:
@@ -366,6 +376,7 @@ ohne Rundung zu berechnen.
 
 
 ### § 9 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001100000)
 
 (1) Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine
 gleichwertige Qualifikation besitzen.
@@ -377,6 +388,7 @@ des Erstprüfenden haben.
 
 
 ### § 10 Abweichende Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001200000)
 
 (1) Weichen die Bewertungen von zwei Prüfenden um höchstens drei
 Rangpunkte voneinander ab, so wird als Bewertung eine Rangpunktzahl
@@ -412,9 +424,11 @@ aus
 
 
 ## Teil 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000200000)
 
 
 ### § 11 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001301311)
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
 und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer
@@ -463,6 +477,7 @@ Auswahlverfahrens endgültig zu löschen.
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001403129)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Dienstbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere
@@ -521,12 +536,14 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 
 ### § 13 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001500000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 14 Festlegungen der Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001600000)
 
 (1) Die Dienstbehörde legt fest:
 
@@ -555,6 +572,7 @@ vor jedem Teil des Auswahlverfahrens.
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001703129)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 kognitive und sprachliche Fähigkeiten geprüft.
@@ -576,6 +594,7 @@ und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 
 ### § 16 Bestehen des schriftlichen Teils und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001802129)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in
 den Leistungstests und im Aufsatz jeweils die erforderliche
@@ -586,6 +605,7 @@ Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
 
 ### § 17 Zulassung zum mündlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE001900000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil bestanden hat.
@@ -605,6 +625,7 @@ werden sie immer zum mündlichen Teil zugelassen.
 
 
 ### § 18 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002000000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der
 Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich
@@ -647,6 +668,7 @@ teilnehmenden Bewerberinnen und Bewerber auf fünf begrenzt.
 
 
 ### § 19 Bestehen des mündlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002100000)
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im
 halbstrukturierten Interview und bei den weiteren Aufgaben jeweils die
@@ -654,6 +676,7 @@ erforderliche Mindestpunktzahl erreicht worden ist.
 
 
 ### § 20 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002201311)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens
@@ -675,6 +698,7 @@ Auswahlverfahrens endgültig zu löschen.
 
 
 ### § 21 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002301311)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
 einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren
@@ -684,12 +708,15 @@ ausgeschlossen.
 
 
 ## Teil 3 - Studium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000400000)
 
 
 #### § 22 Dauer und Gliederung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002403129)
 
 (1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über
 die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
@@ -769,6 +796,7 @@ berücksichtigt werden.
 
 
 #### § 23 Studienplan
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002500000)
 
 (1) Für das Studium erstellt die Hochschule einen Studienplan.
 
@@ -829,6 +857,7 @@ berücksichtigt werden.
 
 
 #### § 24 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002600000)
 
 (1) Leistungstests werden durchgeführt in der Form
 
@@ -862,6 +891,7 @@ bewertet.
 
 
 #### § 25 Fernbleiben und Rücktritt von Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002701311)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem
 Leistungstest gilt der Leistungstest als mit null Rangpunkten
@@ -887,6 +917,7 @@ nachgeholt wird.
 
 
 #### § 26 Täuschung und Ordnungsverstoß bei Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002801311)
 
 (1) Studierenden, die bei einem Leistungstest täuschen, eine Täuschung
 versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen,
@@ -916,9 +947,11 @@ und 3 anzuhören.
 
 
 ### Abschnitt 2 - Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000500000)
 
 
 #### § 27 Studiengebiete des Grundstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE002900000)
 
 Die Studiengebiete des Grundstudiums sind:
 
@@ -942,6 +975,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 
 #### § 28 Studiengebiete des Hauptstudiums
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003004129)
 
 Die Studiengebiete des Hauptstudiums sind:
 
@@ -976,6 +1010,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 
 #### § 29 Leistungstests im Hauptstudium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003103129)
 
 (1) Im Hauptstudium sind mindestens zwölf Leistungstests zu
 absolvieren. Sechs Leistungstests sind Klausuren.
@@ -1012,6 +1047,7 @@ Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
 
 
 #### § 30 Zeugnis über die Leistungstests im Hauptstudium, Rangpunktzahl der Leistungstests im Hauptstudium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003201311)
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis
 über die Leistungstests im Hauptstudium mit Angabe der Rangpunkte
@@ -1030,9 +1066,11 @@ Hauptstudium sind
 
 
 ### Abschnitt 3 - Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000600000)
 
 
 #### § 31 Gliederung, Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003300000)
 
 (1) Die berufspraktischen Studienzeiten bestehen aus
 
@@ -1054,6 +1092,7 @@ durchgeführt.
 
 
 #### § 32 Ausbildungsleitung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003400000)
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule
 eine Beamtin oder einen Beamten des gehobenen oder höheren Dienstes
@@ -1074,6 +1113,7 @@ Studierenden während der berufspraktischen Studienzeiten.
 
 
 #### § 33 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003500000)
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktischen
 Studienzeiten Ausbildende.
@@ -1087,6 +1127,7 @@ werden sie von anderen Dienstgeschäften entlastet.
 
 
 #### § 34 Praktikumsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003600000)
 
 (1) Die Hochschule erlässt für jede Fachrichtung im Einvernehmen mit
 der zuständigen Dienstbehörde eine Praktikumsordnung.
@@ -1106,12 +1147,14 @@ der zuständigen Dienstbehörde eine Praktikumsordnung.
 
 
 #### § 35 Leistungstests in den praxisbezogenen Lehrveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003703129)
 
 In den praxisbezogenen Lehrveranstaltungen sind mindestens drei
 Leistungstests zu absolvieren.
 
 
 #### § 36 Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003800000)
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis
 über die Leistungstests in den praxisbezogenen Lehrveranstaltungen mit
@@ -1123,6 +1166,7 @@ einzelnen Leistungstests.
 
 
 #### § 37 Ausbildungsplan für die Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE003903129)
 
 (1) Der Fachbereich Nachrichtendienste der Hochschule stellt im
 Einvernehmen mit den betroffenen Ausbildungsbehörden für jede
@@ -1140,6 +1184,7 @@ Hochschule und der oder dem Studierenden mitzuteilen.
 
 
 #### § 38 Bewertung der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004000000)
 
 (1) Die Ausbildenden bewerten die Leistungen der Studierenden während
 der Praktika für jede Ausbildungsstation, der die Studierenden für
@@ -1149,6 +1194,7 @@ mindestens 20 Arbeitstage zugewiesen sind, mit Rangpunkten.
 
 
 #### § 39 Zeugnis über die Praktika, Rangpunktzahl der Praktika
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004101311)
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis
 über die Praktika mit Angabe der Rangpunkte jeder bewerteten
@@ -1159,12 +1205,15 @@ Einzelbewertungen der einzelnen Ausbildungsstationen.
 
 
 ## Teil 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000700000)
 
 
 ### Abschnitt 1 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000800000)
 
 
 #### § 40 Zeitpunkt und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004203129)
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
@@ -1174,12 +1223,14 @@ erfolgreiches weiteres Studium erwarten lässt.
 
 
 #### § 41 Prüfungsamt für die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004300000)
 
 Die Zwischenprüfung wird vom Prüfungsamt für das Grundstudium am
 Zentralen Lehrbereich der Hochschule organisiert und durchgeführt.
 
 
 #### § 42 Gegenstand und Durchführung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004403129)
 
 (1) Die Zwischenprüfung besteht aus vier Klausuren.
 
@@ -1196,12 +1247,14 @@ Prüfungstagen ist ein freier Tag vorzusehen.
 
 
 #### § 43 Prüfende für die Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004500000)
 
 Zur Bewertung wird vom Prüfungsamt für jede Klausur der
 Zwischenprüfung eine Prüfende oder ein Prüfender bestellt.
 
 
 #### § 44 Rangpunktzahl der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004600000)
 
 Aus den Bewertungen der Klausuren der Zwischenprüfung wird eine
 Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen
@@ -1209,6 +1262,7 @@ der einzelnen Klausuren ist.
 
 
 #### § 45 Bestehen der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004701311)
 
 Die Zwischenprüfung hat bestanden,
 
@@ -1223,6 +1277,7 @@ Die Zwischenprüfung hat bestanden,
 
 
 #### § 46 Zwischenprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004800000)
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein
 Zwischenprüfungszeugnis mit Angabe
@@ -1237,6 +1292,7 @@ Zwischenprüfungszeugnis mit Angabe
 
 
 #### § 47 Bescheid über die nichtbestandene Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE004900000)
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid über die nichtbestandene Zwischenprüfung sowie eine
@@ -1244,6 +1300,7 @@ Bescheinigung über die erbrachten Studienleistungen.
 
 
 #### § 48 Wiederholung der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005002311)
 
 (1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
@@ -1267,17 +1324,21 @@ erreicht werden, ersetzen die zuvor erreichten.
 
 
 ### Abschnitt 2 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG000900000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001000000)
 
 
 ##### § 49 Diplomprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005100000)
 
 Die Diplomprüfung ist die Laufbahnprüfung.
 
 
 ##### § 50 Prüfungsamt für die Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005200000)
 
 Die Laufbahnprüfung wird vom Prüfungsamt am Zentrum für
 Nachrichtendienstliche Aus- und Fortbildung organisiert und
@@ -1285,6 +1346,7 @@ durchgeführt.
 
 
 ##### § 51 Bestandteile der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005300000)
 
 Die Laufbahnprüfung besteht aus
 
@@ -1301,9 +1363,11 @@ Die Laufbahnprüfung besteht aus
 
 
 #### Unterabschnitt 2 - Diplomarbeit und Diplomkolloquium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001100000)
 
 
 ##### § 52 Zweck und Zeitpunkt der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005403129)
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass
 sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -1315,6 +1379,7 @@ angefertigt.
 
 
 ##### § 53 Thema und Bearbeitungszeit der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005503129)
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine
 Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Die
@@ -1332,12 +1397,14 @@ machen.
 
 
 ##### § 54 Diplomarbeitsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005600000)
 
 Die formalen Anforderungen an die Diplomarbeit regelt die Hochschule
 in einer Diplomarbeitsordnung.
 
 
 ##### § 55 Prüfende für die Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005700000)
 
 (1) Für die Bewertung der Diplomarbeit bestellt das Prüfungsamt zwei
 Prüfende.
@@ -1362,6 +1429,7 @@ schriftlichen Abschlussprüfung abgeschlossen sein.
 
 
 ##### § 56 Betreuung und Freistellung bei der Anfertigung der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005800000)
 
 (1) Bei der Anfertigung der Diplomarbeit wird die oder der Studierende
 von der oder dem Erstprüfenden betreut.
@@ -1372,6 +1440,7 @@ Tätigkeiten freigestellt.
 
 
 ##### § 57 Verhinderung bei der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE005900000)
 
 (1) Sind Studierende durch eine Erkrankung oder sonstige nicht zu
 vertretende Umstände an der Bearbeitung der Diplomarbeit verhindert,
@@ -1387,6 +1456,7 @@ gilt. In diesem Fall wird ein neues Thema ausgegeben.
 
 
 ##### § 58 Abgabe der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006000000)
 
 (1) Der Termin für die Abgabe der Diplomarbeit wird vom Prüfungsamt
 festgelegt.
@@ -1411,12 +1481,14 @@ als mit null Rangpunkten bewertet.
 
 
 ##### § 59 Bestehen der Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006100000)
 
 Die Diplomarbeit ist bestanden, wenn eine Rangpunktzahl von mindestens
 5,00 erreicht worden ist.
 
 
 ##### § 60 Diplomkolloquium
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006200000)
 
 (1) Die Studierenden stellen die Diplomarbeit im Rahmen eines
 Diplomkolloquiums vor.
@@ -1454,6 +1526,7 @@ Erstprüfenden der Diplomarbeit.
 
 
 ##### § 61 Wiederholung der Diplomarbeit und des Diplomkolloquiums
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006303129)
 
 (1) Studierende, die die Diplomarbeit nicht bestanden haben, können
 sie einmal wiederholen.
@@ -1478,9 +1551,11 @@ die zuvor erreichten.
 
 
 #### Unterabschnitt 3 - Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001200000)
 
 
 ##### § 62 Gegenstand und Durchführung der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006403129)
 
 (1) Die schriftliche Abschlussprüfung besteht aus sechs Klausuren.
 
@@ -1517,6 +1592,7 @@ Prüfungstagen ist ein freier Tag vorzusehen.
 
 
 ##### § 63 Prüfende für die schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006501311)
 
 (1) Zur Bewertung werden vom Prüfungsamt für jede Klausur der
 schriftlichen Abschlussprüfung zwei Prüfende bestellt.
@@ -1537,6 +1613,7 @@ Tarifbeschäftigter oder eine Soldatin oder ein Soldat sein.
 
 
 ##### § 64 Rangpunktzahl der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006600000)
 
 Aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung
 wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der
@@ -1544,6 +1621,7 @@ Bewertungen der sechs Klausuren ist.
 
 
 ##### § 65 Bestehen der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006701311)
 
 Die schriftliche Abschlussprüfung hat bestanden,
 
@@ -1559,9 +1637,11 @@ Die schriftliche Abschlussprüfung hat bestanden,
 
 
 #### Unterabschnitt 4 - Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001300000)
 
 
 ##### § 66 Zulassung zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006800000)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
 schriftliche Abschlussprüfung bestanden hat.
@@ -1571,6 +1651,7 @@ rechtzeitig vor der mündlichen Abschlussprüfung bekannt gegeben.
 
 
 ##### § 67 Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE006903129)
 
 Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen
 Abschlussprüfung werden der oder dem Studierenden mitgeteilt
@@ -1587,6 +1668,7 @@ Abschlussprüfung werden der oder dem Studierenden mitgeteilt
 
 
 ##### § 68 Prüfungskommissionen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007004129)
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung
 richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission
@@ -1634,6 +1716,7 @@ Mitglieder anwesend sind.
 
 
 ##### § 69 Gegenstand und Durchführung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007103129)
 
 (1) Die Prüfungsfächer für die mündliche Abschlussprüfung stammen aus
 den Studiengebieten des Hauptstudiums nach § 28 Nummer 1 bis 6.
@@ -1654,6 +1737,7 @@ Studierende oder Studierenden nicht überschreiten.
 
 
 ##### § 70 Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007201311)
 
 (1) Die mündliche Abschlussprüfung ist nicht öffentlich.
 
@@ -1692,6 +1776,7 @@ Mitglieder anwesend sein.
 
 
 ##### § 71 Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007300000)
 
 (1) Jedes Prüfungsfach der mündlichen Abschlussprüfung wird einzeln
 bewertet.
@@ -1706,6 +1791,7 @@ Leistungen.
 
 
 ##### § 72 Protokoll zur mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007400000)
 
 (1) Über die mündliche Abschlussprüfung ist ein Protokoll
 anzufertigen.
@@ -1718,15 +1804,18 @@ Prüfungskommission zu bestätigen.
 
 
 ##### § 73 Bestehen der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007501311)
 
 Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen
 Abschlussprüfung mindestens eine Rangpunktzahl von 5,00 erreicht hat.
 
 
 #### Unterabschnitt 5 - Bestehen der Laufbahnprüfung, Wiederholung der schriftlichen und der mündlichen Abschlussprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001400000)
 
 
 ##### § 74 Bestehen der Laufbahnprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007603129)
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet das
 Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung
@@ -1782,6 +1871,7 @@ als Abschlussnote festgesetzt.
 
 
 ##### § 75 Wiederholung der schriftlichen und der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007700000)
 
 (1) Studierende, die die schriftliche oder mündliche Abschlussprüfung
 nicht bestanden haben oder deren Rangpunktzahl der Laufbahnprüfung
@@ -1816,6 +1906,7 @@ ersetzen die zuvor erreichten.
 
 
 ##### § 76 Abschlusszeugnis und Diplomurkunde
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007800000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -1846,6 +1937,7 @@ ersetzen die zuvor erreichten.
 
 
 ##### § 77 Bescheid über die nichtbestandene Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE007900000)
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am
 Zentrum für Nachrichtendienstliche Aus- und Fortbildung
@@ -1860,9 +1952,11 @@ Zentrum für Nachrichtendienstliche Aus- und Fortbildung
 
 
 ### Abschnitt 3 - Weitere Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001500000)
 
 
 #### § 78 Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008000000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung
 oder einem Prüfungsteil gilt die Prüfung oder der Prüfungsteil als mit
@@ -1884,6 +1978,7 @@ Prüfungsteil nachgeholt wird.
 
 
 #### § 79 Täuschung und Ordnungsverstoß bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008100000)
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
 täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst
@@ -1932,6 +2027,7 @@ bis 4 anzuhören.
 
 
 #### § 80 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008200000)
 
 (1) Zu jeder und jedem Studierenden wird eine Prüfungsakte geführt.
 
@@ -1980,6 +2076,7 @@ Prüfungsakte ist aktenkundig zu machen.
 
 
 #### § 80a Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008700311)
 
 Über Widersprüche gegen Maßnahmen, die bei den Prüfungsverfahren nach
 dieser Verordnung getroffen worden sind, entscheidet das Prüfungsamt,
@@ -1987,9 +2084,11 @@ das für die Organisation und Durchführung der Prüfung zuständig ist.
 
 
 ## Teil 5 - Anerkennung anderer Studienleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001600000)
 
 
 ### § 81 Anerkennung von Studienleistungen und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008300000)
 
 (1) Auf Antrag der oder des Studierenden können folgende Leistungen
 anerkannt werden:
@@ -2035,9 +2134,11 @@ der Rangpunktzahl der Laufbahnprüfung einzubeziehen.
 
 
 ## Teil 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNG001700000)
 
 
 ### § 82 Qualitätsmanagement, Evaluation und Evaluationsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gdbndverfschvdv/BJNR136800018.html#BJNR136800018BJNE008400000)
 
 (1) Das Studium wird einem systematischen Qualitätsmanagement
 unterworfen.

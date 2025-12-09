@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000102305)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002103305)
 
 (1) Das Bundesverfassungsgericht ist ein allen übrigen
 Verfassungsorganen gegenüber selbständiger und unabhängiger
@@ -39,6 +41,7 @@ das Plenum beschließt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002202305)
 
 (1) Das Bundesverfassungsgericht besteht aus zwei Senaten.
 
@@ -51,6 +54,7 @@ Bundes tätig gewesen sind.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002303377)
 
 (1) Die Richter müssen das 40. Lebensjahr vollendet haben, zum
 Bundestag wählbar sein und sich schriftlich bereit erklärt haben,
@@ -73,6 +77,7 @@ Bundesverfassungsgerichts geht der Tätigkeit als Hochschullehrer vor.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002402305)
 
 (1) Die Amtszeit der Richter dauert zwölf Jahre, längstens bis zur
 Altersgrenze.
@@ -88,6 +93,7 @@ zur Ernennung des Nachfolgers fort.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002502305)
 
 (1) Die Richter jedes Senats werden je zur Hälfte vom Bundestag und
 vom Bundesrat gewählt. Von den aus der Zahl der Richter an den
@@ -107,6 +113,7 @@ ausgeschiedenen Richter gewählt hat.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002604116)
 
 (1) Die vom Bundestag zu berufenden Richter werden auf Vorschlag des
 Wahlausschusses nach Absatz 2 ohne Aussprache mit verdeckten
@@ -141,12 +148,14 @@ des Wahlausschusses beschlossen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002702305)
 
 Die vom Bundesrat zu berufenden Richter werden mit zwei Dritteln der
 Stimmen des Bundesrates gewählt.
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002804377)
 
 (1) Kommt innerhalb von zwei Monaten nach dem Ablauf der Amtszeit oder
 dem vorzeitigen Ausscheiden eines Richters die Wahl eines Nachfolgers
@@ -177,6 +186,7 @@ ursprünglich zuständigen Wahlorgan gewählt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE002904377)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz stellt
 eine Liste aller Bundesrichter auf, die die Voraussetzungen des § 3
@@ -195,6 +205,7 @@ zuzuleiten.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003003305)
 
 (1) Bundestag und Bundesrat wählen im Wechsel den Präsidenten des
 Bundesverfassungsgerichts und den Vizepräsidenten. Der Vizepräsident
@@ -207,11 +218,13 @@ Bundesrat den Vizepräsidenten.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003102305)
 
 Der Bundespräsident ernennt die Gewählten.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003203305)
 
 (1) Die Richter des Bundesverfassungsgerichts leisten bei Antritt
 ihres Amtes vor dem Bundespräsidenten folgenden Eid:
@@ -235,6 +248,7 @@ werden.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003302305)
 
 Die Richter des Bundesverfassungsgerichts können jederzeit ihre
 Entlassung aus dem Amt beantragen. Der Bundespräsident hat die
@@ -242,6 +256,7 @@ Entlassung auszusprechen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003409377)
 
 Das Bundesverfassungsgericht entscheidet
 
@@ -361,6 +376,7 @@ Das Bundesverfassungsgericht entscheidet
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003506377)
 
 (1) Der Erste Senat des Bundesverfassungsgerichts ist zuständig für
 Normenkontrollverfahren (§ 13 Nr. 6 und 11), in denen überwiegend die
@@ -397,6 +413,7 @@ Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003606377)
 
 (1) Der Präsident des Bundesverfassungsgerichts und der Vizepräsident
 führen den Vorsitz in ihrem Senat. Sie werden von dem dienstältesten,
@@ -425,6 +442,7 @@ sonstiges Bundesrecht nicht festgestellt werden.
 
 
 ### § 15a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013103305)
 
 (1) Die Senate berufen für die Dauer eines Geschäftsjahres mehrere
 Kammern. Jede Kammer besteht aus drei Richtern. Die Zusammensetzung
@@ -438,6 +456,7 @@ Mitglieder.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003702305)
 
 (1) Will ein Senat in einer Rechtsfrage von der in einer Entscheidung
 des anderen Senats enthaltenen Rechtsauffassung abweichen, so
@@ -448,14 +467,17 @@ Richter anwesend sind.
 
 
 ## II. Teil - Verfassungsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000203307)
 
 
 
 ### Erster Abschnitt - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG002100307)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003802305)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, sind hinsichtlich
 der Öffentlichkeit, der Sitzungspolizei, der Gerichtssprache, der
@@ -464,6 +486,7 @@ Gerichtsverfassungsgesetzes entsprechend anzuwenden.
 
 
 #### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013901311)
 
 (1) Die Verhandlung vor dem Bundesverfassungsgericht einschließlich
 der Verkündung von Entscheidungen ist öffentlich. Ton- und Fernseh-
@@ -511,6 +534,7 @@ angerufen werden.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE003903377)
 
 (1) Ein Richter des Bundesverfassungsgerichts ist von der Ausübung
 seines Richteramtes ausgeschlossen, wenn er
@@ -545,6 +569,7 @@ Verfahrens interessiert ist.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004003305)
 
 (1) Wird ein Richter des Bundesverfassungsgerichts wegen Besorgnis der
 Befangenheit abgelehnt, so entscheidet das Gericht unter Ausschluß des
@@ -566,11 +591,13 @@ Das Nähere regelt die Geschäftsordnung.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004102305)
 
 Die Beteiligten haben das Recht der Akteneinsicht.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004202305)
 
 Wenn das Verfahren von einer Personengruppe oder gegen eine
 Personengruppe beantragt wird, kann das Bundesverfassungsgericht
@@ -579,6 +606,7 @@ im Termin, durch einen oder mehrere Beauftragte wahrnehmen läßt.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004304160)
 
 (1) Die Beteiligten können sich in jeder Lage des Verfahrens durch
 einen Rechtsanwalt oder einen Rechtslehrer an einer staatlichen oder
@@ -605,6 +633,7 @@ Gerichts an ihn zu richten.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004405377)
 
 (1) Anträge, die das Verfahren einleiten, sind schriftlich beim
 Bundesverfassungsgericht einzureichen. Sie sind zu begründen; die
@@ -625,6 +654,7 @@ nachzureichen. Das gilt nicht für elektronisch übermittelte Dokumente.
 
 
 #### § 23a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015401377)
 
 (1) Schriftlich einzureichende Anträge und Erklärungen sowie sonstige
 Schriftsätze und deren Anlagen können nach Maßgabe der folgenden
@@ -709,6 +739,7 @@ inhaltlich übereinstimmt.
 
 
 #### § 23b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015500377)
 
 Soweit die handschriftliche Unterzeichnung durch den Richter, den
 Rechtspfleger oder den Urkundsbeamten der Geschäftsstelle
@@ -722,6 +753,7 @@ handschriftlich unterzeichnete Schriftstück gemäß § 23e Absatz 2 Satz
 
 
 #### § 23c
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015602377)
 
 (1) Schriftlich einzureichende Anträge und Erklärungen sowie sonstige
 Schriftsätze und deren Anlagen, die durch einen Rechtsanwalt, durch
@@ -742,6 +774,7 @@ Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 
 #### § 23d
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015700377)
 
 (1) Werden die Akten in Papierform geführt, ist von einem
 elektronischen Dokument ein Ausdruck für die Akte zu fertigen. Kann
@@ -775,6 +808,7 @@ sechs Monaten gelöscht werden.
 
 
 #### § 23e
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015801377)
 
 (1) Die Verfahrensakten können elektronisch geführt werden. Sie können
 auch teilweise elektronisch geführt werden.
@@ -797,6 +831,7 @@ sofern sie nicht rückgabepflichtig sind.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004502305)
 
 Unzulässige oder offensichtlich unbegründete Anträge können durch
 einstimmigen Beschluß des Gerichts verworfen werden. Der Beschluß
@@ -806,6 +841,7 @@ hingewiesen worden ist.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004602305)
 
 (1) Das Bundesverfassungsgericht entscheidet, soweit nichts anderes
 bestimmt ist, auf Grund mündlicher Verhandlung, es sei denn, daß alle
@@ -821,6 +857,7 @@ des Volkes".
 
 
 #### § 25a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013601305)
 
 Über die mündliche Verhandlung wird ein Protokoll geführt. Darüber
 hinaus wird sie in einer Tonbandaufnahme festgehalten; das Nähere
@@ -828,6 +865,7 @@ regelt die Geschäftsordnung.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004702305)
 
 (1) Das Bundesverfassungsgericht erhebt den zur Erforschung der
 Wahrheit erforderlichen Beweis. Es kann damit außerhalb der mündlichen
@@ -842,6 +880,7 @@ unvereinbar ist.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004803305)
 
 Alle Gerichte und Verwaltungsbehörden leisten dem
 Bundesverfassungsgericht Rechts- und Amtshilfe. Fordert das
@@ -850,12 +889,14 @@ diese unmittelbar vorgelegt.
 
 
 #### § 27a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014000307)
 
 Das Bundesverfassungsgericht kann sachkundigen Dritten Gelegenheit zur
 Stellungnahme geben.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE004903377)
 
 (1) Für die Vernehmung von Zeugen und Sachverständigen gelten in den
 Fällen des § 13 Nummer 1, 2, 2a, 4 und 9 die Vorschriften der
@@ -872,6 +913,7 @@ Aussagegenehmigung für unbegründet erklärt.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005002305)
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und
 können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
@@ -880,6 +922,7 @@ entscheidet das Gericht.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005104305)
 
 (1) Das Bundesverfassungsgericht entscheidet in geheimer Beratung nach
 seiner freien, aus dem Inhalt der Verhandlung und dem Ergebnis der
@@ -905,6 +948,7 @@ Stimmenverhältnis mitteilen. Das Nähere regelt die Geschäftsordnung.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005205377)
 
 (1) Die Entscheidungen des Bundesverfassungsgerichts binden die
 Verfassungsorgane des Bundes und der Länder sowie alle Gerichte und
@@ -923,6 +967,7 @@ den Fällen des § 13 Nr. 12 und 14.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005304305)
 
 (1) Das Bundesverfassungsgericht kann im Streitfall einen Zustand
 durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr
@@ -964,6 +1009,7 @@ Kraft.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005402305)
 
 (1) Das Bundesverfassungsgericht kann sein Verfahren bis zur
 Erledigung eines bei einem anderen Gericht anhängigen Verfahrens
@@ -977,6 +1023,7 @@ Amts wegen zu erforschen ist.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005505320)
 
 (1) Das Verfahren des Bundesverfassungsgerichts ist kostenfrei.
 
@@ -991,6 +1038,7 @@ Bundeshaushaltsordnung entsprechend.
 
 
 #### § 34a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013202305)
 
 (1) Erweist sich der Antrag auf Verwirkung der Grundrechte (§ 13 Nr.
 1), die Anklage gegen den Bundespräsidenten (§ 13 Nr. 4) oder einen
@@ -1007,6 +1055,7 @@ teilweise Erstattung der Auslagen anordnen.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005602305)
 
 Das Bundesverfassungsgericht kann in seiner Entscheidung bestimmen,
 wer sie vollstreckt; es kann auch im Einzelfall die Art und Weise der
@@ -1014,10 +1063,12 @@ Vollstreckung regeln.
 
 
 ### Zweiter Abschnitt - Akteneinsicht außerhalb des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG002200307)
 
 
 
 #### § 35a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014101377)
 
 Betreffen außerhalb des Verfahrens gestellte Anträge auf Auskunft aus
 oder Einsicht in Akten des Bundesverfassungsgerichts personenbezogene
@@ -1033,6 +1084,7 @@ Zulässigkeit der Übermittlung besteht.
 
 
 #### § 35b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014203377)
 
 Auskunft aus oder Einsicht in Akten des Bundesverfassungsgerichts kann
 gewährt werden
@@ -1110,6 +1162,7 @@ betreffenden Verfügung vernichtet werden.
 
 
 #### § 35c
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014301377)
 
 Das Bundesverfassungsgericht darf in einem verfassungsgerichtlichen
 Verfahren zu den Akten gelangte personenbezogene Daten für ein anderes
@@ -1117,14 +1170,17 @@ verfassungsgerichtliches Verfahren verarbeiten.
 
 
 ## III. Teil - Einzelne Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000303307)
 
 
 
 ### Erster Abschnitt - Verfahren in den Fällen des § 13 Nr. 1
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000402305)
 
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005702305)
 
 Der Antrag auf Entscheidung gemäß Artikel 18 Satz 2 des Grundgesetzes
 kann vom Bundestag, von der Bundesregierung oder von einer
@@ -1132,6 +1188,7 @@ Landesregierung gestellt werden.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005802305)
 
 Das Bundesverfassungsgericht gibt dem Antragsgegner Gelegenheit zur
 Äußerung binnen einer zu bestimmenden Frist und beschließt dann, ob
@@ -1140,6 +1197,7 @@ zurückzuweisen oder ob die Verhandlung durchzuführen ist.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE005902305)
 
 (1) Nach Eingang des Antrags kann das Bundesverfassungsgericht eine
 Beschlagnahme oder Durchsuchung nach den Vorschriften der
@@ -1152,6 +1210,7 @@ Hauptsache zuständigen Senats zu übertragen.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006002305)
 
 (1) Erweist sich der Antrag als begründet, so stellt das
 Bundesverfassungsgericht fest, welche Grundrechte der Antragsgegner
@@ -1169,6 +1228,7 @@ juristischen Personen ihre Auflösung anordnen.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006102305)
 
 Ist die Verwirkung zeitlich nicht befristet oder für einen längeren
 Zeitraum als ein Jahr ausgesprochen, so kann das
@@ -1181,6 +1241,7 @@ verstrichen ist.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006202305)
 
 Hat das Bundesverfassungsgericht über einen Antrag sachlich
 entschieden, so kann er gegen denselben Antragsgegner nur wiederholt
@@ -1188,14 +1249,17 @@ werden, wenn er auf neue Tatsachen gestützt wird.
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006302305)
 
 
 
 ### Zweiter Abschnitt - Verfahren in den Fällen des § 13 Nummer 2 und 2a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000503377)
 
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006403377)
 
 (1) Der Antrag auf Entscheidung, ob eine Partei verfassungswidrig
 (Artikel 21 Absatz 2 des Grundgesetzes) oder von staatlicher
@@ -1212,6 +1276,7 @@ beschränkt.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006502305)
 
 Die Vertretung der Partei bestimmt sich nach den gesetzlichen
 Vorschriften, hilfsweise nach ihrer Satzung. Sind die
@@ -1223,6 +1288,7 @@ veranlaßt hat, zuletzt tatsächlich geführt haben.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006602305)
 
 Das Bundesverfassungsgericht gibt dem Vertretungsberechtigten (§ 44)
 Gelegenheit zur Äußerung binnen einer zu bestimmenden Frist und
@@ -1232,6 +1298,7 @@ durchzuführen ist.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006703377)
 
 (1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 2
 des Grundgesetzes als begründet, so stellt das
@@ -1251,6 +1318,7 @@ aussprechen.
 
 
 #### § 46a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015300377)
 
 (1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 3
 des Grundgesetzes als begründet, so stellt das
@@ -1274,15 +1342,18 @@ entsprechend. Erneute Verlängerungsanträge sind statthaft.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006802305)
 
 Die Vorschriften der §§ 38 und 41 gelten entsprechend.
 
 
 ### Dritter Abschnitt - Verfahren in den Fällen des § 13 Nr. 3
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000602305)
 
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE006904377)
 
 (1) Die Beschwerde gegen den Beschluß des Bundestages über die
 Gültigkeit einer Wahl, die Verletzung von Rechten bei der Vorbereitung
@@ -1308,10 +1379,12 @@ Verletzung fest, wenn es nicht die Wahl für ungültig erklärt.
 
 
 ### Vierter Abschnitt - Verfahren in den Fällen des § 13 Nr. 4
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000702305)
 
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007002305)
 
 (1) Die Anklage gegen den Bundespräsidenten wegen vorsätzlicher
 Verletzung des Grundgesetzes oder eines anderen Bundesgesetzes wird
@@ -1333,6 +1406,7 @@ Bundesrates gefaßt worden ist.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007102305)
 
 Die Anklage kann nur binnen drei Monaten, nachdem der ihr zugrunde
 liegende Sachverhalt der antragsberechtigten Körperschaft bekannt
@@ -1340,6 +1414,7 @@ geworden ist, erhoben werden.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007202305)
 
 Die Einleitung und Durchführung des Verfahrens wird durch den
 Rücktritt des Bundespräsidenten, durch sein Ausscheiden aus dem Amt
@@ -1348,6 +1423,7 @@ Wahlperiode nicht berührt.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007302305)
 
 (1) Die Anklage kann bis zur Verkündung des Urteils auf Grund eines
 Beschlusses der antragstellenden Körperschaft zurückgenommen werden.
@@ -1364,6 +1440,7 @@ Bundespräsident binnen eines Monats widerspricht.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007402305)
 
 Das Bundesverfassungsgericht kann nach Erhebung der Anklage durch
 einstweilige Anordnung bestimmen, daß der Bundespräsident an der
@@ -1371,6 +1448,7 @@ Ausübung seines Amtes verhindert ist.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007502305)
 
 (1) Das Bundesverfassungsgericht kann zur Vorbereitung der mündlichen
 Verhandlung eine Voruntersuchung anordnen; es muß sie anordnen, wenn
@@ -1381,6 +1459,7 @@ zur Entscheidung in der Hauptsache zuständigen Senats zu übertragen.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007602305)
 
 (1) Das Bundesverfassungsgericht entscheidet auf Grund mündlicher
 Verhandlung.
@@ -1404,6 +1483,7 @@ Wort.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007702305)
 
 (1) Das Bundesverfassungsgericht stellt im Urteil fest, ob der
 Bundespräsident einer vorsätzlichen Verletzung des Grundgesetzes oder
@@ -1415,16 +1495,19 @@ Verkündung des Urteils tritt der Amtsverlust ein.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007802305)
 
 Eine Ausfertigung des Urteils samt Gründen ist dem Bundestag, dem
 Bundesrat und der Bundesregierung zu übersenden.
 
 
 ### Fünfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 9
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000802305)
 
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE007903377)
 
 (1) Stellt der Bundestag gegen einen Bundesrichter den Antrag nach
 Artikel 98 Abs. 2 des Grundgesetzes, so sind die Vorschriften der §§
@@ -1449,6 +1532,7 @@ Beauftragten des Bundestages vertreten.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008002305)
 
 (1) Das Bundesverfassungsgericht erkennt auf eine der im Artikel 98
 Abs. 2 des Grundgesetzes vorgesehenen Maßnahmen oder auf Freispruch.
@@ -1466,6 +1550,7 @@ Bundespräsidenten, dem Bundestag und der Bundesregierung zu
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008102305)
 
 Solange ein Verfahren vor dem Bundesverfassungsgericht anhängig ist,
 wird das wegen desselben Sachverhalts bei einem Disziplinargericht
@@ -1476,6 +1561,7 @@ eingestellt; im anderen Falle wird es fortgesetzt.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008203320)
 
 (1) Die Wiederaufnahme des Verfahrens findet nur zugunsten des
 Verurteilten und nur auf seinen Antrag oder nach seinem Tode auf
@@ -1496,6 +1582,7 @@ zu erkennen.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008302305)
 
 Soweit gemäß Artikel 98 Abs. 5 Satz 2 des Grundgesetzes fortgeltendes
 Landesverfassungsrecht nichts Abweichendes bestimmt, gelten die
@@ -1505,10 +1592,12 @@ entsprechende Regelung trifft.
 
 
 ### Sechster Abschnitt - Verfahren in den Fällen des § 13 Nr. 5
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG000902305)
 
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008403305)
 
 Antragsteller und Antragsgegner können nur sein: der Bundespräsident,
 der Bundestag, der Bundesrat, die Bundesregierung und die im
@@ -1517,6 +1606,7 @@ Bundesrates mit eigenen Rechten ausgestatteten Teile dieser Organe.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008502305)
 
 (1) Der Antrag ist nur zulässig, wenn der Antragsteller geltend macht,
 daß er oder das Organ, dem er angehört, durch eine Maßnahme oder
@@ -1538,6 +1628,7 @@ gestellt werden.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008602305)
 
 (1) Dem Antragsteller und dem Antragsgegner können in jeder Lage des
 Verfahrens andere in § 63 genannte Antragsberechtigte beitreten, wenn
@@ -1550,12 +1641,14 @@ Bundesregierung Kenntnis.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008702305)
 
 Das Bundesverfassungsgericht kann anhängige Verfahren verbinden und
 verbundene trennen.
 
 
 #### § 66a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014401160)
 
 In Verfahren nach § 13 Nr. 5 in Verbindung mit § 2 Abs. 3 des
 Untersuchungsausschussgesetzes sowie in Verfahren nach § 18 Abs. 3 des
@@ -1568,6 +1661,7 @@ Bundes in Verbindung mit § 63.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008802305)
 
 Das Bundesverfassungsgericht stellt in seiner Entscheidung fest, ob
 die beanstandete Maßnahme oder Unterlassung des Antragsgegners gegen
@@ -1579,10 +1673,12 @@ Feststellung gemäß Satz 1 abhängt.
 
 
 ### Siebenter Abschnitt - Verfahren in den Fällen des § 13 Nr. 7
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001002305)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE008902305)
 
 Antragsteller und Antragsgegner können nur sein:
 für den Bund die Bundesregierung,
@@ -1590,11 +1686,13 @@ für ein Land die Landesregierung.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009002305)
 
 Die Vorschriften der §§ 64 bis 67 gelten entsprechend.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009102305)
 
 Der Beschluß des Bundesrates nach Artikel 84 Abs. 4 Satz 1 des
 Grundgesetzes kann nur binnen eines Monats nach der Beschlußfassung
@@ -1602,10 +1700,12 @@ angefochten werden.
 
 
 ### Achter Abschnitt - Verfahren in den Fällen des § 13 Nr. 8
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001102305)
 
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009203377)
 
 (1) Antragsteller und Antragsgegner können nur sein
 
@@ -1637,6 +1737,7 @@ angefochten werden.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009302305)
 
 (1) Das Bundesverfassungsgericht kann in seiner Entscheidung erkennen
 auf
@@ -1661,10 +1762,12 @@ gelten entsprechend.
 
 
 ### Neunter Abschnitt - Verfahren in den Fällen des § 13 Nr. 10
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001202305)
 
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009402305)
 
 (1) An einer Verfassungsstreitigkeit innerhalb eines Landes können nur
 die obersten Organe dieses Landes und die in der Landesverfassung oder
@@ -1676,6 +1779,7 @@ Landesrecht nichts anderes bestimmt.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009502305)
 
 Bestimmt das Landesrecht nicht, welchen Inhalt und welche Wirkung die
 Entscheidung des Bundesverfassungsgerichts haben kann, so gilt § 72
@@ -1683,16 +1787,19 @@ Abs. 2 entsprechend.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009602305)
 
 Für das Verfahren gelten die allgemeinen Vorschriften des II. Teiles
 dieses Gesetzes entsprechend.
 
 
 ### Zehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6 und 6a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001303307)
 
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009705377)
 
 (1) Der Antrag der Bundesregierung, einer Landesregierung oder eines
 Viertels der Mitglieder des Bundestages gemäß Artikel 94 Absatz 1
@@ -1721,6 +1828,7 @@ Grundgesetzes für nichtig hält.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009803307)
 
 Das Bundesverfassungsgericht gibt
 
@@ -1741,6 +1849,7 @@ binnen einer zu bestimmenden Frist Gelegenheit zur Äußerung.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE009902305)
 
 Kommt das Bundesverfassungsgericht zu der Überzeugung, daß Bundesrecht
 mit dem Grundgesetz oder Landesrecht mit dem Grundgesetz oder dem
@@ -1752,6 +1861,7 @@ erklären.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010002305)
 
 (1) Gegen ein rechtskräftiges Strafurteil, das auf einer mit dem
 Grundgesetz für unvereinbar oder nach § 78 für nichtig erklärten Norm
@@ -1771,10 +1881,12 @@ aus ungerechtfertigter Bereicherung sind ausgeschlossen.
 
 
 ### Elfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 11 und 11a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001403377)
 
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010102305)
 
 (1) Sind die Voraussetzungen des Artikels 100 Abs. 1 des Grundgesetzes
 gegeben, so holen die Gerichte unmittelbar die Entscheidung des
@@ -1790,11 +1902,13 @@ Nichtigkeit der Rechtsvorschrift durch einen Prozeßbeteiligten.
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010202305)
 
 Das Bundesverfassungsgericht entscheidet nur über die Rechtsfrage.
 
 
 #### § 81a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013701305)
 
 Die Kammer kann durch einstimmigen Beschluß die Unzulässigkeit eines
 Antrages nach § 80 feststellen. Die Entscheidung bleibt dem Senat
@@ -1803,6 +1917,7 @@ von einem obersten Gerichtshof des Bundes gestellt wird.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010302305)
 
 (1) Die Vorschriften der §§ 77 bis 79 gelten entsprechend.
 
@@ -1827,6 +1942,7 @@ der Stellungnahme.
 
 
 #### § 82a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014500377)
 
 (1) Die §§ 80 bis 82 gelten vorbehaltlich der Absätze 2 und 3
 sinngemäß für die Überprüfung der Vereinbarkeit eines Beschlusses des
@@ -1847,10 +1963,12 @@ entscheiden.
 
 
 ### Zwölfter Abschnitt - Verfahren in den Fällen des § 13 Nr. 12
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001502305)
 
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010402305)
 
 (1) Das Bundesverfassungsgericht stellt in den Fällen des Artikels 100
 Abs. 2 des Grundgesetzes in seiner Entscheidung fest, ob die Regel des
@@ -1864,15 +1982,18 @@ Verfahrens beitreten.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010502305)
 
 Die Vorschriften der §§ 80 und 82 Abs. 3 gelten entsprechend.
 
 
 ### Dreizehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 13
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001602305)
 
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010602305)
 
 (1) Ist die Entscheidung des Bundesverfassungsgerichts gemäß Artikel
 100 Abs. 3 Satz 1 des Grundgesetzes einzuholen, so legt das
@@ -1888,10 +2009,12 @@ Gelegenheit zur Äußerung binnen einer zu bestimmenden Frist.
 
 
 ### Vierzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 14
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001702305)
 
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010702305)
 
 (1) Antragsberechtigt sind der Bundestag, der Bundesrat, die
 Bundesregierung und die Landesregierungen.
@@ -1903,6 +2026,7 @@ Bundesverfassungsgerichts einzuholen.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010802305)
 
 (1) Der Antrag des Bundesrates, der Bundesregierung oder einer
 Landesregierung ist nur zulässig, wenn von der Entscheidung die
@@ -1915,11 +2039,13 @@ Absatz 1 bezeichneten Voraussetzung ergeben.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE010902305)
 
 Die Vorschrift des § 82 gilt entsprechend.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011002305)
 
 Das Bundesverfassungsgericht spricht aus, ob das Gesetz ganz oder
 teilweise in dem gesamten Bundesgebiet oder einem bestimmten Teil des
@@ -1927,10 +2053,12 @@ Bundesgebiets als Bundesrecht fortgilt.
 
 
 ### Fünfzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 8a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001802305)
 
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011102305)
 
 (1) Jedermann kann mit der Behauptung, durch die öffentliche Gewalt in
 einem seiner Grundrechte oder in einem seiner in Artikel 20 Abs. 4,
@@ -1952,6 +2080,7 @@ erheben, bleibt unberührt.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011202305)
 
 Gemeinden und Gemeindeverbände können die Verfassungsbeschwerde mit
 der Behauptung erheben, daß ein Gesetz des Bundes oder des Landes die
@@ -1963,10 +2092,12 @@ Landesverfassungsgericht erhoben werden kann.
 
 
 #### § 91a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011302305)
 
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011402305)
 
 In der Begründung der Beschwerde sind das Recht, das verletzt sein
 soll, und die Handlung oder Unterlassung des Organs oder der Behörde,
@@ -1974,6 +2105,7 @@ durch die der Beschwerdeführer sich verletzt fühlt, zu bezeichnen.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011503305)
 
 (1) Die Verfassungsbeschwerde ist binnen eines Monats zu erheben und
 zu begründen. Die Frist beginnt mit der Zustellung oder formlosen
@@ -2013,6 +2145,7 @@ die Verfassungsbeschwerde bis zum 1. April 1952 erhoben werden.
 
 
 #### § 93a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011604305)
 
 (1) Die Verfassungsbeschwerde bedarf der Annahme zur Entscheidung.
 
@@ -2031,6 +2164,7 @@ b)  wenn es zur Durchsetzung der in § 90 Abs. 1 genannten Rechte angezeigt
 
 
 #### § 93b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013303305)
 
 Die Kammer kann die Annahme der Verfassungsbeschwerde ablehnen oder
 die Verfassungsbeschwerde im Falle des § 93c zur Entscheidung
@@ -2038,6 +2172,7 @@ annehmen. Im übrigen entscheidet der Senat über die Annahme.
 
 
 #### § 93c
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013403305)
 
 (1) Liegen die Voraussetzungen des § 93a Abs. 2 Buchstabe b vor und
 ist die für die Beurteilung der Verfassungsbeschwerde maßgebliche
@@ -2054,6 +2189,7 @@ Anwendung.
 
 
 #### § 93d
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013801305)
 
 (1) Die Entscheidung nach § 93b und § 93c ergeht ohne mündliche
 Verhandlung. Sie ist unanfechtbar. Die Ablehnung der Annahme der
@@ -2073,6 +2209,7 @@ Richter ihr zustimmen.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011702305)
 
 (1) Das Bundesverfassungsgericht gibt dem Verfassungsorgan des Bundes
 oder des Landes, dessen Handlung oder Unterlassung in der
@@ -2099,6 +2236,7 @@ Verhandlung verzichten.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE011802305)
 
 (1) Wird der Verfassungsbeschwerde stattgegeben, so ist in der
 Entscheidung festzustellen, welche Vorschrift des Grundgesetzes und
@@ -2119,14 +2257,17 @@ Die Vorschrift des § 79 gilt entsprechend.
 
 
 #### § 95a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013503305)
 
 
 
 ### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG001904377)
 
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012005377)
 
 (1) Aus der Begründung eines Antrags nach Artikel 94 Absatz 2 Satz 1
 des Grundgesetzes muss sich das Vorliegen der in Artikel 94 Absatz 2
@@ -2141,10 +2282,12 @@ Verfahrens beitreten.
 
 
 ### Siebzehnter Abschnitt - Verfahren in den Fällen des § 13 Nummer 3a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG002400377)
 
 
 
 #### § 96a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015100377)
 
 (1) Beschwerdeberechtigt sind Vereinigungen und Parteien, denen die
 Anerkennung als wahlvorschlagsberechtigte Partei nach § 18 Absatz 4
@@ -2159,17 +2302,20 @@ begründen.
 
 
 #### § 96b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015200377)
 
 Dem Bundeswahlausschuss ist Gelegenheit zur Äußerung zu geben.
 
 
 #### § 96c
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015201377)
 
 Das Bundesverfassungsgericht kann ohne Durchführung einer mündlichen
 Verhandlung entscheiden.
 
 
 #### § 96d
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015202377)
 
 Das Bundesverfassungsgericht kann seine Entscheidung ohne Begründung
 bekanntgeben. In diesem Fall ist die Begründung der Beschwerdeführerin
@@ -2177,10 +2323,12 @@ und dem Bundeswahlausschuss gesondert zu übermitteln.
 
 
 ## IV. Teil - Verzögerungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG002300377)
 
 
 
 ### § 97a
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014600377)
 
 (1) Wer infolge unangemessener Dauer eines Verfahrens vor dem
 Bundesverfassungsgericht als Verfahrensbeteiligter oder als
@@ -2204,6 +2352,7 @@ festsetzen.
 
 
 ### § 97b
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014700377)
 
 (1) Über Entschädigung und Wiedergutmachung wird auf Grund einer
 Beschwerde zum Bundesverfassungsgericht entschieden
@@ -2225,6 +2374,7 @@ ist der Anspruch nicht übertragbar.
 
 
 ### § 97c
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014800377)
 
 (1) Über die Verzögerungsbeschwerde entscheidet die Beschwerdekammer,
 in die das Plenum zwei Richter aus jedem Senat beruft. Die regelmäßige
@@ -2241,6 +2391,7 @@ Geschäftsordnung.
 
 
 ### § 97d
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE014900377)
 
 (1) Der Berichterstatter des beanstandeten Verfahrens soll binnen
 eines Monats nach Eingang der Begründung der Verzögerungsbeschwerde
@@ -2255,6 +2406,7 @@ Beschluss über die Verzögerungsbeschwerde bedarf keiner Begründung.
 
 
 ### § 97e
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE015000377)
 
 Die §§ 97a bis 97d gelten auch für Verfahren, die am 3. Dezember 2011
 bereits anhängig waren, sowie für abgeschlossene Verfahren, deren
@@ -2267,10 +2419,12 @@ März 2012 erhoben werden muss.
 
 
 ## V. Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNG002003377)
 
 
 
 ### § 98
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012105320)
 
 (1) Ein Richter des Bundesverfassungsgerichts tritt mit Ablauf der
 Amtszeit (§ 4 Abs. 1, 3 und 4) in den Ruhestand.
@@ -2304,10 +2458,12 @@ gilt für die Hinterbliebenenversorgung.
 
 
 ### § 99 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012202305)
 
 
 
 ### § 100
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012302305)
 
 (1) Endet das Amt eines Richters des Bundesverfassungsgerichts nach §
 12, so erhält er, wenn er sein Amts wenigstens zwei Jahre bekleidet
@@ -2324,6 +2480,7 @@ Waisengeld werden aus dem Übergangsgeld berechnet.
 
 
 ### § 101
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012402305)
 
 (1) Ein zum Richter des Bundesverfassungsgerichts gewählter Beamter
 oder Richter scheidet vorbehaltlich der Vorschrift des § 70 des
@@ -2354,6 +2511,7 @@ Höhe der angerechneten Beträge.
 
 
 ### § 102
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012502305)
 
 (1) Steht einem früheren Richter des Bundesverfassungsgerichts ein
 Anspruch auf Ruhegehalt nach § 101 zu, so ruht dieser Anspruch für den
@@ -2384,6 +2542,7 @@ sinngemäß.
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012603160)
 
 Soweit in den §§ 98 bis 102 nichts anderes bestimmt ist, finden auf
 die Richter des Bundesverfassungsgerichts die für Bundesrichter
@@ -2396,6 +2555,7 @@ trifft der Präsident des Bundesverfassungsgerichts.
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012702305)
 
 (1) Wird ein Rechtsanwalt zum Richter am Bundesverfassungsgericht
 ernannt, so ruhen seine Rechte aus der Zulassung für die Dauer seines
@@ -2406,6 +2566,7 @@ gilt § 101 Abs. 1 Satz 2 entsprechend.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012802305)
 
 (1) Das Bundesverfassungsgericht kann den Bundespräsidenten
 ermächtigen,
@@ -2443,9 +2604,11 @@ Ansprüche aus seinem Amt.
 
 
 ### § 106 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE012903305)
 
 
 
 ### § 107 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfgg/BJNR002430951.html#BJNR002430951BJNE013003305)
 
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2007/BJNR229800007.html#BJNR229800007BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „UNESCO
@@ -49,11 +50,13 @@ Der Entwurf der Münze stammt von Herrn Bodo Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2007/BJNR229800007.html#BJNR229800007BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2007/BJNR229800007.html#BJNR229800007BJNE000300000)
 
 (Fundstelle der Originalgrafik: BGBl. I 2007, 2298)
 ![bgbl1_2007_j2298_0010.jpg](bgbl1_2007_j2298_0010.jpg)

@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000100308)
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -34,6 +35,7 @@ Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000200308)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Drechsler (Elfenbeinschnitzer)/Drechslerin (Elfenbeinschnitzerin) nach
@@ -41,6 +43,7 @@ der Handwerksordnung.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000300308)
 
 Die Ausbildung dauert 3 Jahre. Nach dem dritten Ausbildungshalbjahr
 kann für die Dauer eines Jahres zwischen den Fachrichtungen
@@ -56,6 +59,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000400308)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -143,6 +147,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000500308)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -153,12 +158,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000600308)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000700308)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -167,6 +174,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000800308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -222,6 +230,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE000900308)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -399,6 +408,7 @@ sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001000308)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
@@ -409,6 +419,7 @@ vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001100308)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -417,23 +428,27 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001200308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001300308)
 
 Diese Verordnung tritt am 1. August 1988 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001400308)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE001500308)
 
 (Fundstelle: BGBl. I 1987, 2524 - 2530)
 
@@ -1415,6 +1430,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 998)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/drechslausbv/BJNR025210987.html#BJNR025210987BJNE888800309)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

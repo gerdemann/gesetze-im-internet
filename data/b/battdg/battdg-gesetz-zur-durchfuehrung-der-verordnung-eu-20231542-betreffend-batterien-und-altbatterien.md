@@ -28,9 +28,11 @@ Mittelbare änderung durch
 Stand: Ersetzt G 2129-53 v. 25.6.2009 I 1582 (BattG)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000200000)
 
 Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU)
 2023/1542. Um diese Ziele zu erreichen, soll das Gesetz das
@@ -38,6 +40,7 @@ Marktverhalten der Verpflichteten regeln.
 
 
 ### § 2 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000300000)
 
 (1) Dieses Gesetz ist anzuwenden auf Batterien und Altbatterien im
 Anwendungsbereich der Verordnung (EU) 2023/1542. Es findet keine
@@ -65,6 +68,7 @@ anzuwenden.
 
 
 ### § 3 Ergänzende Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000400000)
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 3 der Verordnung
 (EU) 2023/1542 bezeichnet im Sinne dieses Gesetzes und im
@@ -136,12 +140,15 @@ Anwendungsbereich dieses Gesetzes der Ausdruck:
 
 
 ## Teil 2 - Bewirtschaftung von Altbatterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000200000)
 
 
 ### Kapitel 1 - Vertrieb von Batterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000300000)
 
 
 #### § 4 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000500000)
 
 (1) Hersteller dürfen Batterien nur bereitstellen, wenn sie oder im
 Fall der Bevollmächtigung nach § 40 Absatz 2 Satz 1 der
@@ -173,6 +180,7 @@ Herstellerverantwortung nicht oder nicht ordnungsgemäß nach § 5 Absatz
 
 
 #### § 5 Registrierung der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000600000)
 
 (1) Bevor ein Hersteller Batterien im Geltungsbereich dieses Gesetzes
 erstmals auf dem Markt bereitstellt, ist er oder im Fall der
@@ -216,12 +224,15 @@ veröffentlichen.
 
 
 ### Kapitel 2 - Rücknahme von Altbatterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000400000)
 
 
 #### Abschnitt 1 - Pflichten des Endnutzers
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000500000)
 
 
 ##### § 6 Pflichten des Endnutzers
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000700000)
 
 (1) Endnutzer haben Altbatterien einer vom unsortierten
 Siedlungsabfall getrennten Erfassung zuzuführen. Satz 1 gilt nicht für
@@ -251,9 +262,11 @@ erfassen.
 
 
 #### Abschnitt 2 - Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000600000)
 
 
 ##### § 7 Pflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000800000)
 
 (1) Hersteller von Batterien haben sich mit diesen Batterien zur
 Gewährleistung der flächendeckenden Rücknahme von Altbatterien je
@@ -287,6 +300,7 @@ vorgenommen.
 
 
 ##### § 8 Zulassung von Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE000900000)
 
 (1) Der Betrieb einer Organisation für Herstellerverantwortung bedarf
 der Zulassung durch die zuständige Behörde. Die Zulassung wird auf
@@ -455,6 +469,7 @@ zuständigen Behörde zu veröffentlichen.
 
 
 ##### § 9 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001000000)
 
 (1) Jede Organisation für Herstellerverantwortung ist verpflichtet,
 der zuständigen Behörde kalenderjährlich eine angemessene und
@@ -530,6 +545,7 @@ geleistet ist.
 
 
 ##### § 10 Berücksichtigung ökologischer Kriterien bei der Beitragsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001100000)
 
 (1) Die Organisationen für Herstellerverantwortung sind verpflichtet,
 im Rahmen der Bemessung der finanziellen Beiträge der Hersteller oder
@@ -573,6 +589,7 @@ veröffentlichen.
 
 
 ##### § 11 Pflichten der Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001200000)
 
 (1) Die Organisationen für Herstellerverantwortung haben Altbatterien
 von den folgenden Stellen unentgeltlich zurückzunehmen und nach
@@ -704,6 +721,7 @@ beteiligten Hersteller.
 
 
 ##### § 12 Wegfall einer Organisation für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001300000)
 
 (1) Wird die Zulassung einer Organisation für Herstellerverantwortung
 für eine bestimmte Kategorie von Batterien nach Artikel 58 Absatz 6
@@ -741,9 +759,11 @@ zugewiesen wurde.
 
 
 #### Abschnitt 3 - Rücknahme von Gerätealtbatterien und LV-Altbatterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000700000)
 
 
 ##### § 13 Sammelziele
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001400000)
 
 (1) Abweichend von Artikel 59 Absatz 3 Satz 1 Buchstabe a der
 Verordnung (EU) 2023/1542 müssen die Organisationen für
@@ -803,6 +823,7 @@ individuell wahrnehmen, entsprechend.
 
 
 ##### § 14 Rücknahmepflichten der Händler
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001500000)
 
 (1) Ergänzend zu der Rücknahmepflicht nach Artikel 62 Absatz 1 und 2
 der Verordnung (EU) 2023/1542 ist jeder Händler verpflichtet, vom
@@ -839,6 +860,7 @@ unwirksam wird.
 
 
 ##### § 15 Annahmepflicht der öffentlich-rechtlichen Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001600000)
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger sind verpflichtet,
 Gerätealtbatterien und LV-Altbatterien aus privaten Haushaltungen
@@ -861,6 +883,7 @@ der Laufzeit widerrufen oder unwirksam wird.
 
 
 ##### § 16 Mitwirkung von freiwilligen Sammelstellen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001700000)
 
 (1) Freiwillige Sammelstellen haben die anfallenden und gesammelten
 Gerätealtbatterien und LV-Altbatterien einer für die jeweilige
@@ -883,6 +906,7 @@ treffen.
 
 
 ##### § 17 Überlassungspflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001800000)
 
 (1) Die Betreiber von Behandlungsanlagen, für die die Richtlinie
 2012/19/EU in der Fassung vom 13. März 2024 gilt, haben bei der
@@ -909,9 +933,11 @@ der Laufzeit widerrufen oder unwirksam wird.
 
 
 #### Abschnitt 4 - Rücknahme von Starter-, Industrie- und Elektrofahrzeugbatterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000800000)
 
 
 ##### § 18 Rücknahmepflichten der Händler
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE001900000)
 
 (1) Ergänzend zu Artikel 62 Absatz 1 und 2 der Verordnung (EU)
 2023/1542 ist jeder Händler verpflichtet, vom Endnutzer Starter-,
@@ -945,6 +971,7 @@ so gelten die Anforderungen der Artikel 70 und 71 der Verordnung (EU)
 
 
 ##### § 19 Pfandpflicht für Starterbatterien
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002000000)
 
 (1) Händler, die Starterbatterien an Endnutzer abgeben, sind
 verpflichtet, je Starterbatterie ein Pfand in Höhe von 7,50 Euro
@@ -972,6 +999,7 @@ ab- oder weitergegeben, so entfällt die Pfandpflicht.
 
 
 ##### § 20 Mitwirkung von öffentlich-rechtlichen Entsorgungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002100000)
 
 (1) Öffentlich-rechtliche Entsorgungsträger können sich an der
 Rücknahme von Starter- und Industriealtbatterien beteiligen. Sofern
@@ -996,6 +1024,7 @@ anzuzeigen.
 
 
 ##### § 21 Überlassungspflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002200000)
 
 (1) Die Betreiber von Behandlungsanlagen, für die die Richtlinie
 2012/19/EU in der Fassung vom 4. Juli 2012 gilt, haben bei der
@@ -1027,6 +1056,7 @@ Verordnung (EU) 2023/1542 ausgewählten Abfallbewirtschafter zu
 
 
 ##### § 22 Meldung zur Zuweisung an Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002300000)
 
 (1) Händler nach § 18, mitwirkende öffentlich-rechtliche
 Entsorgungsträger nach § 20 und überlassungspflichtige Dritte nach
@@ -1076,9 +1106,11 @@ Herstellerverantwortung zu überlassen.
 
 
 ### Kapitel 3 - Behandlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG000900000)
 
 
 #### § 23 Behandlung und Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002400000)
 
 (1) Ergänzend zu Artikel 70 Absatz 1 der Verordnung (EU) 2023/1542
 sind auch Abfälle der Batterieerzeugung gemäß Artikel 70 und 71 der
@@ -1091,9 +1123,11 @@ beseitigt werden.
 
 
 ### Kapitel 4 - Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001000000)
 
 
 #### § 24 Informationspflichten der Händler
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002500000)
 
 (1) Ergänzend zu Artikel 74 Absatz 4 und 5 der Verordnung (EU)
 2023/1542 haben Händler, die zur Rücknahme von Altbatterien nach
@@ -1133,6 +1167,7 @@ schriftlich beizufügen.
 
 
 #### § 25 Informationspflichten der Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002600000)
 
 (1) Ergänzend zu Artikel 74 Absatz 1 und 2 der Verordnung (EU)
 2023/1542 sind die Organisationen für Herstellerverantwortung ab dem
@@ -1208,9 +1243,11 @@ Satz 1 beauftragen. Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### Kapitel 5 - Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001100000)
 
 
 #### § 26 Mitteilungspflichten der Organisationen für Herstellerverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002700000)
 
 (1) Jede Organisation für Herstellerverantwortung hat dem
 Umweltbundesamt jährlich bis zum Ablauf des 30. Juni eine
@@ -1300,6 +1337,7 @@ der Berechnung des Verpflichtungssaldos nach § 32 Absatz 3 mitteilen.
 
 
 #### § 27 Mitteilungspflichten ausgewählter Abfallbewirtschafter
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002800000)
 
 Jeder nach Artikel 57 Absatz 8 der Verordnung (EU) 2023/1542 in der
 Fassung vom 13. Juni 2024 ausgewählte Abfallbewirtschafter hat dem
@@ -1337,6 +1375,7 @@ Dokumentationen der ausgewählten Abfallbewirtschafter.
 
 
 #### § 28 Mitteilungspflichten öffentlich-rechtlicher Entsorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE002900000)
 
 Jeder öffentlich-rechtliche Entsorgungsträger hat dem Umweltbundesamt
 im Fall des § 20 Absatz 2 jährlich bis zum 30. Juni eine Dokumentation
@@ -1373,6 +1412,7 @@ Entsorgungsträger.
 
 
 #### § 29 Mitteilungspflichten von Abfallbewirtschaftern, die Altbatterien behandeln, und Recyclingbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003000000)
 
 (1) Jeder Abfallbewirtschafter, der Altbatterien behandelt, hat dem
 Umweltbundesamt jährlich bis zum Ablauf des 30. Juni eine
@@ -1427,18 +1467,22 @@ Recyclingbetreiber.
 
 
 ### Kapitel 6 - Aufgaben und Befugnisse der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001200000)
 
 
 #### Abschnitt 1 - Zuständige Behörde nach Kapitel VIII der Verordnung (EU) 2023/1542
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001300000)
 
 
 ##### § 30 Zuständige Behörde nach Kapitel VIII der Verordnung (EU) 2023/1542
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003100000)
 
 Zuständige Behörde gemäß Kapitel VIII der Verordnung (EU) 2023/1542
 und gemäß Teil 2 dieses Gesetzes ist das Umweltbundesamt.
 
 
 ##### § 31 Aufgaben der zuständigen Behörde im Zusammenhang mit der Registrierung und Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003200000)
 
 (1) Die zuständige Behörde registriert den Hersteller auf dessen
 Antrag mit der Marke, der Firma, dem Ort der Niederlassung oder dem
@@ -1562,6 +1606,7 @@ worden oder in sonstiger Weise unwirksam geworden ist.
 
 
 ##### § 32 Weitere Aufgaben der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003300000)
 
 (1) Die zuständige Behörde nimmt folgende Anzeigen, Meldungen und
 Mitteilungen entgegen:
@@ -1649,6 +1694,7 @@ auf der Internetseite der zuständigen Behörde zu veröffentlichen.
 
 
 ##### § 33 Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003400000)
 
 (1) Ergänzend zu Artikel 55 Absatz 11 der Verordnung (EU) 2023/1542
 kann die zuständige Behörde unbeschadet des § 49 des
@@ -1708,6 +1754,7 @@ Herstellerverantwortung zu ersuchen.
 
 
 ##### § 34 Vollständig automatisierter Erlass von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003500000)
 
 Verwaltungsakte der zuständigen Behörde nach den §§ 31 bis 33 und 41
 Absatz 1 können unbeschadet des § 24 Absatz 1 Satz 3 des
@@ -1717,9 +1764,11 @@ Einzelfall durch Amtsträger zu bearbeiten.
 
 
 #### Abschnitt 2 - Altbatteriekommission
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001400000)
 
 
 ##### § 35 Einrichtung, Aufgaben und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003600000)
 
 (1) Es wird eine Altbatteriekommission eingerichtet. Sie berät die
 zuständige Behörde bei
@@ -1776,6 +1825,7 @@ ohne Mitwirkung der Altbatteriekommission fortgesetzt.
 
 
 ##### § 36 Besetzung und Benennung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003700000)
 
 (1) Die Altbatteriekommission besteht aus zwölf Mitgliedern. Die
 Mitglieder verteilen sich wie folgt:
@@ -1817,9 +1867,11 @@ Geschäftsordnung nach § 35 Absatz 4 Satz 1 geregelt.
 
 
 #### Abschnitt 3 - Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001500000)
 
 
 ##### § 37 Ermächtigung zur Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003800000)
 
 (1) Die zuständige Behörde wird ermächtigt, die Gemeinsame Stelle nach
 § 5 des Elektro- und Elektronikgerätegesetzes mit den Aufgaben und
@@ -1869,6 +1921,7 @@ bekannt zu machen.
 
 
 ##### § 38 Aufsicht über die Beliehene
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE003900000)
 
 (1) Die Beliehene untersteht der Rechts- und Fachaufsicht der
 zuständigen Behörde.
@@ -1886,6 +1939,7 @@ veranschlagten Einnahmen nicht übersteigen.
 
 
 ##### § 39 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004000000)
 
 (1) Die Beleihung endet, wenn die Beliehene aufgelöst ist.
 
@@ -1904,9 +1958,11 @@ erforderlich ist, zu entsprechen.
 
 
 ### Kapitel 7 - Beauftragung Dritter, Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001600000)
 
 
 #### § 40 Beauftragung Dritter und Bevollmächtigung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004100000)
 
 (1) Die nach der Verordnung (EU) 2023/1542 und nach diesem Gesetz
 Verpflichteten können Dritte mit der Erfüllung ihrer Pflichten
@@ -1927,6 +1983,7 @@ schriftlich und in deutscher Sprache zu erfolgen.
 
 
 #### § 41 Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004200000)
 
 (1) Die zuständige Behörde soll gegenüber den Organisationen für
 Herstellerverantwortung die Anordnungen treffen, die erforderlich
@@ -1943,9 +2000,11 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 ## Teil 3 - Beteiligung von Bundesbehörden an Verfahren zur Änderung von Beschränkungen für Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001700000)
 
 
 ### § 42 Beteiligung der Bundesbehörden an Beschränkungsverfahren für Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004300000)
 
 (1) Bei der Durchführung von Beschränkungsverfahren für Stoffe nach
 Artikel 86 der Verordnung (EU) 2023/1542 wirken mit:
@@ -2039,12 +2098,15 @@ Absatz 1 genannten Behörden nicht abschließend beurteilt werden kann.
 
 
 ## Teil 4 - Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001800000)
 
 
 ### Kapitel 1 - Bestimmungen über die notifizierende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG001900000)
 
 
 #### § 43 Notifizierende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004400000)
 
 Die Länder haben in ihrer Zuständigkeit eine Behörde einzurichten, die
 die Aufgaben der notifizierenden Behörde nach Artikel 22 Absatz 1 der
@@ -2053,6 +2115,7 @@ Verordnung (EU) 2023/1542 wahrnimmt und den Anforderungen des Artikels
 
 
 #### § 44 Aufgaben der notifizierenden Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004500000)
 
 (1) Die notifizierende Behörde führt die Notifizierung von
 Konformitätsbewertungsstellen durch. Sie hat hierfür die
@@ -2067,6 +2130,7 @@ auf die Durchführung der Tätigkeiten als notifizierte Stelle haben.
 
 
 #### § 45 Aufgaben und Befugnisse der Akkreditierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004600000)
 
 (1) Bewertung von Konformitätsbewertungsstellen und Überwachung von
 notifizierten Stellen erfolgen durch die Stelle, die auch für die
@@ -2146,9 +2210,11 @@ Verstöße notwendig sind.
 [^F834210_06_BJNR0E90B0025BJNE004600000]: 
 
 ### Kapitel 2 - Notifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG002000000)
 
 
 #### § 46 Anträge auf Notifizierung, Erteilung der Befugnis
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004700000)
 
 (1) Eine Konformitätsbewertungsstelle kann bei der notifizierenden
 Behörde die Befugnis beantragen, als notifizierte Stelle tätig werden
@@ -2180,6 +2246,7 @@ in dem mitgeteilten Umfang einer notifizierten Stelle gleich.
 
 
 #### § 47 Einspruch gegen Entscheidungen notifizierter Stellen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004800000)
 
 Die notifizierten Stellen haben sicherzustellen, dass
 Wirtschaftsakteuren ein transparentes und zugängliches
@@ -2193,6 +2260,7 @@ Einspruch und die Entscheidung hierüber.
 
 
 #### § 48 Sprache der Anleitungen, der Informationen und der EU-Konformitätserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE004900000)
 
 (1) Folgende Unterlagen sind durch die Wirtschaftsakteure in deutscher
 Sprache abzufassen:
@@ -2221,9 +2289,11 @@ abgefasst sind.
 
 
 ### Kapitel 3 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG002100000)
 
 
 #### § 49 Unterrichtung bei Nichtkonformität einer Batterie
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005000000)
 
 Die Unterrichtung bei Nichtkonformität einer Batterie nach Artikel 79
 Absatz 2 und 4 Unterabsatz 2 der Verordnung (EU) 2023/1542 hat die
@@ -2232,6 +2302,7 @@ Arbeitsschutz und Arbeitsmedizin vorzunehmen.
 
 
 #### § 50 Maßnahmen bei Nichtkonformität einer Batterie in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005100000)
 
 (1) Erhält die Marktüberwachungsbehörde nach Artikel 79 Absatz 4
 Unterabsatz 2 der Verordnung (EU)
@@ -2271,6 +2342,7 @@ Maßnahmen zu unterrichten.
 
 
 #### § 51 Unterrichtung bei Risiken trotz Konformität einer Batterie
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005200000)
 
 Die Unterrichtung bei Risiken trotz Konformität einer Batterie nach
 Artikel 81 Absatz 3 der Verordnung (EU)
@@ -2281,9 +2353,11 @@ vorzunehmen.
 
 
 ## Teil 5 - Sorgfaltspflichten in der Lieferkette
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG002200000)
 
 
 ### § 52 Zuständige Behörde für die Durchführung von Kapitel VII der Verordnung (EU) 2023/1542
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005300000)
 
 (1) Zuständige Behörde zur Durchführung von Kapitel VII der Verordnung
 (EU) 2023/1542 ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
@@ -2295,6 +2369,7 @@ nukleare Sicherheit.
 
 
 ### § 53 Aufgaben der zuständigen Behörde und Eingriffsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005400000)
 
 (1) Dem Bundesamt für Wirtschaft und Ausfuhrkontrolle obliegt die
 Durchführung von Kapitel VII der Verordnung (EU) 2023/1542 und der auf
@@ -2394,6 +2469,7 @@ dieses Gesetzes erforderlich ist.
 
 
 ### § 54 Tätigwerden der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005500000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle wird von Amts
 wegen nach pflichtgemäßem Ermessen tätig, um
@@ -2421,6 +2497,7 @@ Wirtschaft und Ausfuhrkontrolle zu veröffentlichen.
 
 
 ### § 55 Datenübermittlung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005600000)
 
 (1) Die Zollbehörden übermitteln dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle auf deren Ersuchen die für die Erfüllung ihrer
@@ -2437,6 +2514,7 @@ einsetzen.
 
 
 ### § 56 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005700000)
 
 (1) Wirtschaftsakteure und nach § 53 Absatz 3 Nummer 2 geladene
 Personen sind verpflichtet, dem Bundesamt für Wirtschaft und
@@ -2513,6 +2591,7 @@ Verschwiegenheitspflichten bleiben unberührt.
 
 
 ### § 57 Betretensrechte, Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005800000)
 
 (1) Zur Erfüllung der ihr nach § 53 übertragenen Aufgaben dürfen die
 mit der Überwachung beauftragten Personen des Bundesamtes für
@@ -2541,6 +2620,7 @@ berufenen Personen.
 
 
 ### § 58 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE005900000)
 
 Die Höhe des Zwangsgelds im Verwaltungszwangsverfahren des Bundesamtes
 für Wirtschaft und Ausfuhrkontrolle beträgt abweichend von § 11 Absatz
@@ -2548,9 +2628,11 @@ für Wirtschaft und Ausfuhrkontrolle beträgt abweichend von § 11 Absatz
 
 
 ## Teil 6 - Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG002300000)
 
 
 ### § 59 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006000000)
 
 (1) Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
 nukleare Sicherheit wird ermächtigt, zum Schutz der Umwelt vor den
@@ -2597,9 +2679,11 @@ Absatz 1 näher zu regeln.
 
 
 ## Teil 7 - Bußgeldvorschriften, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNG002400000)
 
 
 ### § 60 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006100000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2851,6 +2935,7 @@ bis zu zehntausend Euro geahndet werden.
 
 
 ### § 61 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006200000)
 
 (1) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist
@@ -2875,6 +2960,7 @@ auferlegten Kosten trägt.
 
 
 ### § 62 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006300000)
 
 Ist eine Ordnungswidrigkeit nach § 60 Absatz 1 oder 2 begangen worden,
 so können Gegenstände eingezogen werden,
@@ -2891,6 +2977,7 @@ so können Gegenstände eingezogen werden,
 
 
 ### § 63 Geändertes Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006400000)
 
 Durch Rechtsverordnung ohne Zustimmung des Bundesrates kann das
 Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare
@@ -2916,6 +3003,7 @@ Anpassung von Änderungshinweisen Gebrauch gemacht werden.
 
 
 ### § 64 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html#BJNR0E90B0025BJNE006500000)
 
 (1) Registrierungen mit der Batterieart Fahrzeugbatterie gemäß § 2
 Absatz 4 des Batteriegesetzes vom 25. Juni 2009 (BGBl. I S. 1582), das

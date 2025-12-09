@@ -25,6 +25,7 @@ Diese Verordnung dient auch der Durchführung der Verordnung (EG) Nr.
 
 
 ## § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000100000)
 
 Haftungsbescheinigung im Sinne dieser Verordnung ist
 
@@ -40,6 +41,7 @@ Haftungsbescheinigung im Sinne dieser Verordnung ist
 
 
 ## § 2 Antrag auf Ausstellung einer Wrackbeseitigungshaftungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000201116)
 
 (1) Eine Wrackbeseitigungshaftungsbescheinigung ist schriftlich oder
 elektronisch zu beantragen. Der Antrag muss enthalten:
@@ -94,6 +96,7 @@ elektronisch zu beantragen. Der Antrag muss enthalten:
 
 
 ## § 3 Antrag auf Ausstellung einer Personenhaftungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000301116)
 
 (1) Eine Personenhaftungsbescheinigung ist schriftlich oder
 elektronisch zu beantragen. Der Antrag muss enthalten:
@@ -150,6 +153,7 @@ elektronisch zu beantragen. Der Antrag muss enthalten:
 
 
 ## § 4 Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000401116)
 
 (1) Die Wrackbeseitigungshaftungsbescheinigung wird nach dem Muster
 der Anlage 1 ausgestellt.
@@ -173,6 +177,7 @@ zurückzugeben.
 
 
 ## § 5 Pflichten des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000500000)
 
 (1) Der eingetragene Eigentümer, dem eine Bescheinigung nach § 5
 Absatz 2 des Seeversicherungsnachweisgesetzes ausgestellt worden ist,
@@ -211,6 +216,7 @@ mitzuteilen.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000601116)
 
 (1) § 5 Absatz 1 ist erst ab dem Tag anzuwenden, an dem das
 Wrackbeseitigungsübereinkommen für die Bundesrepublik Deutschland in
@@ -239,6 +245,7 @@ den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
 
 ## Anlage 1 (zu § 4 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000700000)
 
 (Fundstelle: BGBl I 2013, 1929)
 
@@ -375,6 +382,7 @@ Federal Maritime and Hydrographic Agency
 
 
 ## Anlage 2 (zu § 4 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/seeversnachwv/BJNR192700013.html#BJNR192700013BJNE000800000)
 
    (Fundstelle: BGBl. I 2013, 1930 – 1931)
 

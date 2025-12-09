@@ -22,12 +22,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbazabkbelg/BJNR161520003.html#BJNR161520003BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbazabkbelg/BJNR161520003.html#BJNR161520003BJNE000200000)
 
 Dem in Brüssel am 5. November 2002 unterzeichneten Zusatzabkommen zum
 Abkommen vom 11. April 1967 zwischen der Bundesrepublik Deutschland
@@ -40,6 +42,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbazabkbelg/BJNR161520003.html#BJNR161520003BJNE000300000)
 
 Den in Artikel 3 des Zusatzabkommens festgelegten Ausgleichsbetrag von
 18 Millionen Euro entrichtet der Bund am 30. Juni des jeweiligen
@@ -51,6 +54,7 @@ Rheinland-Pfalz in Höhe eines Anteils von fünf Prozent getragen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbazabkbelg/BJNR161520003.html#BJNR161520003BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

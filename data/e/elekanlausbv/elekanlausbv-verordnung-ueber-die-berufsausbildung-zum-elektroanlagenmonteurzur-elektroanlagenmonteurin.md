@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,12 +31,14 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000200310)
 
 Der Ausbildungsberuf Elektroanlagenmonteur/Elektroanlagenmonteurin
 wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000300310)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -47,6 +50,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000400310)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -63,6 +67,7 @@ ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000500310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -123,6 +128,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000600310)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -133,12 +139,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -147,6 +155,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -193,6 +202,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE001000310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -332,12 +342,14 @@ erbracht sind.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE001100310)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin
+[Direktlink](https://www.gesetze-im-internet.de/elekanlausbv/BJNR136200997.html#BJNR136200997BJNE001200310)
 
 (Fundstelle: BGBl. I 1997, S. 1365 - 1370)
 

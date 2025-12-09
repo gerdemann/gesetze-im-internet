@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000200000)
 
 
 *    *   Abschnitt 1
@@ -140,6 +141,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000100000)
 
 Auf Grund des § 7 Abs. 1 Satz 2, § 8 Abs. 1 Satz 5, § 11 Abs. 1 Satz 4
 und Abs. 2 Satz 4, § 12 Abs. 2 Satz 3 und Abs. 4 Satz 3, § 13 Abs. 2
@@ -150,10 +152,12 @@ Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000301310)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
@@ -168,6 +172,7 @@ Art der beizubringenden Nachweise sowie deren Überprüfung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -249,6 +254,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Allgemeine Anforderungen an die Zuteilungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000501310)
 
 (1) Soweit die Vorschriften der Abschnitte 2 und 3 keine abweichenden
 Regelungen enthalten, sind die für die Zuteilung von
@@ -281,10 +287,12 @@ die Zuteilungsentscheidung folgende Zuteilungsperiode vorzuweisen.
 
 
 ## Abschnitt 2 - Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNG000200000)
 
 
 
 ### § 4 Bestimmung der Emissionsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000601310)
 
 (1) Die Angabe von Emissionsfaktoren erfolgt auf der Grundlage der
 spezifischen Eigenschaften der eingesetzten Stoffe. Dabei sind die
@@ -331,6 +339,7 @@ Kohlendioxid durch Multiplikation mit dem Quotienten aus 44 und 12.
 
 
 ### § 5 Bestimmung der energiebedingten Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000700000)
 
 (1) Die energiebedingten Kohlendioxid-Emissionen einer Anlage pro Jahr
 sind das rechnerische Produkt aus der Aktivitätsrate des Brennstoffs,
@@ -358,6 +367,7 @@ muss der Zuteilungsantrag die Angaben enthalten über
 
 
 ### § 6 Bestimmung der prozessbedingten Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000800000)
 
 (1) Für die Berechnung prozessbedingter Emissionen sind alle
 Freisetzungen von Kohlendioxid in die Atmosphäre einzubeziehen, bei
@@ -507,6 +517,7 @@ erforderlichen Angaben enthalten über
 
 
 ### § 7 Emissionsberechnung auf der Grundlage einer Bilanzierung des Kohlenstoffgehalts
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE000900000)
 
 (1) Abweichend von den Vorschriften der §§ 5 und 6 kann die Ermittlung
 der gesamten Kohlendioxid-Emissionen auf Basis einer Bilanzierung des
@@ -544,6 +555,7 @@ der Zuteilungsantrag Angaben enthalten über
 
 
 ### § 8 Ermittlung der Emissionen auf Grundlage des Eigenverbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001001310)
 
 Die Emissionen einer einheitlichen Anlage im Sinne des § 25 des
 Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
@@ -563,6 +575,7 @@ erfasst werden.
 
 
 ### § 9 Messung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001101310)
 
 (1) Abweichend von den Vorschriften der §§ 5 bis 7 können
 Kohlendioxid-Emissionen durch Messung direkt ermittelt werden, wenn
@@ -616,10 +629,12 @@ Zuteilungsantrag die nach Absatz 1 erforderlichen Angaben enthalten
 
 
 ## Abschnitt 3 - Besondere Regeln der Berechnung der Kohlendioxid-Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNG000300000)
 
 
 
 ### § 10 Zuteilung für bestehende Anlagen auf Basis historischer Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001200000)
 
 (1) Die Kohlendioxid-Emissionen einer Anlage pro Jahr berechnen sich
 nach den Vorschriften des Abschnitts 2 unter Zugrundelegung der
@@ -701,6 +716,7 @@ Angaben nach Abschnitt 2 Angaben enthalten über
 
 
 ### § 11 Zuteilung für Anlagen auf Basis angemeldeter Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001300000)
 
 (1) Die nach § 8 Abs. 1 des Zuteilungsgesetzes 2007 anzumeldenden
 durchschnittlichen jährlichen Kohlendioxid-Emissionen einer Anlage
@@ -794,6 +810,7 @@ enthalten über
 
 
 ### § 12 Zuteilung für zusätzliche Neuanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001400000)
 
 (1) Die nach § 11 Abs. 4 Nr. 5 des Zuteilungsgesetzes 2007
 anzugebenden durchschnittlichen jährlichen Kohlendioxid-Emissionen
@@ -1001,6 +1018,7 @@ enthalten über
 
 
 ### § 13 Frühzeitige Emissionsminderungen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001500000)
 
 (1) Für die Berechnung frühzeitiger Emissionsminderungen werden die
 energiebedingten jährlichen Kohlendioxid-Emissionen einer Anlage nach
@@ -1088,10 +1106,12 @@ Angaben nach Abschnitt 2 Angaben enthalten
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNG000400000)
 
 
 
 ### § 14 Anforderungen an die Verifizierung der Zuteilungsanträge
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001601310)
 
 (1) Der Sachverständige hat im Rahmen der Verifizierung der
 Zuteilungsanträge nach § 10 Abs. 1 Satz 3 des Treibhausgas-
@@ -1147,17 +1167,20 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001701310)
 
 -
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (zu § 4 Abs. 3)
 
 ### Anhang 1 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE001900000)
 
 Fundstelle des (Originaltextes: BGBl. I 2004, 2264)
 Formel
@@ -1171,6 +1194,7 @@ H(tief)u  unterer Heizwert des Brennstoffs in GJ/t
 (zu § 6 Abs. 3)
 
 ### Anhang 2 Berechnung der prozessbedingten Kohlendioxid-Emissionen für den Hochofenprozess
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002000000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2264
 Formel 1
@@ -1200,6 +1224,7 @@ G(tief)abg       Abgabe von Gichtgas an Anlagen Dritter
 (zu § 6 Abs. 4)
 
 ### Anhang 3 Berechnung der prozessbedingten Kohlendioxid-Emissionen für Oxygenstahlwerke
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002100000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2265
 Formel 1
@@ -1237,6 +1262,7 @@ G(tief)abg       Abgabe von Konvertergas an Anlagen Dritter
 (zu § 6 Abs. 5)
 
 ### Anhang 4 Berechnung der prozessbedingten Kohlendioxid-Emissionen für Anlagen, die Kuppelgase aus Hochofenanlagen und Oxygenstahlwerken nutzen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002200000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2266
 Formel
@@ -1275,6 +1301,7 @@ G(tief)GichtG;abg  Abgabe von Gichtgas an die jeweilige Drittanlage
 (zu § 6 Abs. 6)
 
 ### Anhang 5 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren in Erdölraffinerien
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002300000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2267
 Formel 1
@@ -1335,6 +1362,7 @@ Vol-%
 (zu § 6 Abs. 7)
 
 ### Anhang 6 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Kalzinierung von Petrolkoks in Erdölraffinerien
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002400000)
 
 (Fundstelle: BGBl. I 2004, 2268)
 
@@ -1394,6 +1422,7 @@ Vol-%
 (zu § 6 Abs. 8)
 
 ### Anhang 7 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Wasserstoffherstellung in Erdölraffinerien
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002500000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2268
 Formel 1
@@ -1420,6 +1449,7 @@ Kohlenwasserstoffe insgesamt in mol/mol
 (zu § 10)
 
 ### Anhang 8 Emissionshochrechnung ohne zusätzliche Einflüsse
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002600000)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2269 - 2270)
 
@@ -1616,6 +1646,7 @@ Behörde auf ihrer Internetseite zur Verfügung gestellt wird.
 (zu § 13 Abs. 6)
 
 ### Anhang 9 Berechnung der relativen Emissionsminderung bei Kraft-Wärme-Kopplungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/zuv_2007/BJNR225500004.html#BJNR225500004BJNE002700000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2271 - 2272
 

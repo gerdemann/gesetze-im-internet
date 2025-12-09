@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/zoonosev/BJNR187100007.html#BJNR187100007BJNE000100000)
 
 Die Verordnung regelt die von Lebensmittelunternehmern zu ergreifenden
 lebensmittelrechtlichen Maßnahmen zur frühzeitigen Erfassung von
@@ -30,6 +31,7 @@ Herkunft und der Entwicklungstendenzen ihres Vorkommens.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zoonosev/BJNR187100007.html#BJNR187100007BJNE000200000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -49,6 +51,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/zoonosev/BJNR187100007.html#BJNR187100007BJNE000301119)
 
 (1) Wer im Rahmen von Kontrollen nach Artikel 3 Absatz 1 der
 Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005
@@ -118,6 +121,7 @@ Verlangen vorzulegen.
 
 
 ## § 3a Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178/2002
+[Direktlink](https://www.gesetze-im-internet.de/zoonosev/BJNR187100007.html#BJNR187100007BJNE000500377)
 
 Lebensmittelunternehmer, die der zuständigen Behörde eine Mitteilung
 nach Artikel 19 Absatz 3 der Verordnung (EG) Nr. 178/2002 des
@@ -134,6 +138,7 @@ zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zoonosev/BJNR187100007.html#BJNR187100007BJNE000401119)
 
 Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich

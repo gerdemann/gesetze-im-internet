@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Förderaufgaben, Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000100000)
 
 (1) Die Bundesagentur für Sprunginnovationen SPRIND GmbH mit Sitz in
 Leipzig unter dem Handelsregistereintrag HRB 36977 (SPRIND) wird durch
@@ -82,6 +83,7 @@ Bundes.
 
 
 ## § 2 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000200000)
 
 (1) Die SPRIND unterliegt der Rechts- und Fachaufsicht des
 Bundesministeriums für Bildung und Forschung. Die Fachaufsicht soll
@@ -101,6 +103,7 @@ Bundesministerium für Bildung und Forschung anzuzeigen.
 
 
 ## § 3 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000300000)
 
 (1) Die SPRIND darf Haushaltsmittel des Bundes verwalten. § 44 Absatz
 2 der Bundeshaushaltsordnung bleibt unberührt.
@@ -125,6 +128,7 @@ werden.
 
 
 ## § 4 Beteiligung an Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000400000)
 
 (1) Auf die Gründung von Tochtergesellschaften, in denen jeweils
 Projekte mit Sprunginnovationspotential umgesetzt werden und deren
@@ -154,6 +158,7 @@ die Notwendigkeit zu deren Ergänzung hin.
 
 
 ## § 5 Einschränkung des Besserstellungsverbots
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000500000)
 
 Die SPRIND kann bei Vorliegen zwingender Gründe für die eigene
 Geschäftstätigkeit und ihre Tochtergesellschaften sowie die weiteren
@@ -169,6 +174,7 @@ Förderung durch die SPRIND.
 
 
 ## § 6 Prüfungsrechte des Bundesrechnungshofes
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000600000)
 
 (1) Der Bundesrechnungshof hat die Befugnisse des § 54 des
 Haushaltsgrundsätzegesetzes.
@@ -179,6 +185,7 @@ Absatz 1 Nummer 3 der Bundeshaushaltsordnung.
 
 
 ## § 7 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000700000)
 
 (1) Das Bundesministerium für Bildung und Forschung wird die Förderung
 von Sprunginnovationen durch die SPRIND bis Ende 2024 evaluieren.
@@ -190,6 +197,7 @@ Grundlage gesetzliche Änderungen geprüft werden.
 
 
 ## § 8 Regress
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000800000)
 
 Die SPRIND hat den Bund von allen Ansprüchen Dritter wegen Schäden
 freizustellen, die von der SPRIND in Wahrnehmung der ihr übertragenen
@@ -197,6 +205,7 @@ Förderaufgaben vorsätzlich oder fahrlässig verursacht werden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sprindfg/BJNR19F0A0023.html#BJNR19F0A0023BJNE000900000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

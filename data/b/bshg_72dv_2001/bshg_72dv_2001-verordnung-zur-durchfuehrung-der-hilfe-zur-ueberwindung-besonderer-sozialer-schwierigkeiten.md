@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000100305)
 
 Auf Grund des § 72 Abs. 5 des Bundessozialhilfegesetzes in der Fassung
 der Bekanntmachung vom 23. März 1994 (BGBl. I S. 646, 2975), der
@@ -30,6 +31,7 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000200305)
 
 (1) Personen leben in besonderen sozialen Schwierigkeiten, wenn
 besondere Lebensverhältnisse derart mit sozialen Schwierigkeiten
@@ -56,6 +58,7 @@ anderen sozialen Beziehungen oder mit Straffälligkeit.
 
 
 ## § 2 Art und Umfang der Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000301310)
 
 (1) Art und Umfang der Maßnahmen richten sich nach dem Ziel, die
 Hilfesuchenden zur Selbsthilfe zu befähigen, die Teilnahme am Leben in
@@ -119,6 +122,7 @@ ausgeschlossen.
 
 
 ## § 3 Beratung und persönliche Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000400305)
 
 (1) Zur Beratung und persönlichen Unterstützung gehört es vor allem,
 den Hilfebedarf zu ermitteln, die Ursachen der besonderen
@@ -159,6 +163,7 @@ Erfolg der Maßnahmen herbeizuführen.
 
 
 ## § 4 Erhaltung und Beschaffung einer Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000501310)
 
 (1) Maßnahmen zur Erhaltung und Beschaffung einer Wohnung sind vor
 allem die erforderliche Beratung und persönliche Unterstützung.
@@ -174,6 +179,7 @@ Beschaffung einer Wohnung unberührt.
 
 
 ## § 5 Ausbildung, Erlangung und Sicherung eines Arbeitsplatzes
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000600305)
 
 (1) Die Hilfe zur Ausbildung sowie zur Erlangung und Sicherung eines
 Arbeitsplatzes umfasst, wenn andere arbeits- und
@@ -212,6 +218,7 @@ bestreiten.
 
 
 ## § 6 Hilfe zum Aufbau und zur Aufrechterhaltung sozialer Beziehungen und zur Gestaltung des Alltags
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000701310)
 
 Zu den Maßnahmen im Sinne des § 68 Abs. 1 des Zwölften Buches
 Sozialgesetzbuch gehört auch Hilfe zum Aufbau und zur
@@ -239,6 +246,7 @@ fördern oder ermöglichen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000800305)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 sechsten Kalendermonats in Kraft. Gleichzeitig tritt die Verordnung
@@ -248,6 +256,7 @@ vom 16. Februar 1993 (BGBl I S. 239), außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bshg_72dv_2001/BJNR017900001.html#BJNR017900001BJNE000900305)
 
 Der Bundesrat hat zugestimmt.
 

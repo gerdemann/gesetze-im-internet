@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000100000)
 
 Die Notifizierungen von Konformitätsbewertungsstellen entsprechend
 Kapitel IV der Verordnung (EU)
@@ -36,6 +37,7 @@ durchgeführt.
 
 
 ## § 2 Richtwert für Stichproben bei der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000201126)
 
 Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob
@@ -45,6 +47,7 @@ Richtwerts nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
 
 
 ## § 3 Unterrichtung bei Nichtkonformität eines Geräts oder einer Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000300000)
 
 Unterrichtungen nach Artikel 37 Absatz 2 und 4 Unterabsatz 2 der
 Verordnung (EU) 2016/426 bei Nichtkonformität eines Geräts oder einer
@@ -54,6 +57,7 @@ Kommission und an die übrigen Mitgliedstaaten der Europäischen Union.
 
 
 ## § 4 Nichtkonformität eines Geräts oder einer Ausrüstung in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000400000)
 
 (1) Erhält die Marktüberwachungsbehörde Informationen nach Artikel 37
 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2016/426 darüber, dass in
@@ -94,6 +98,7 @@ Maßnahmen zu unterrichten.
 
 
 ## § 5 Unterrichtung bei Risiken trotz Konformität eines Geräts oder einer Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000500000)
 
 Die Unterrichtung über die Feststellung, dass konforme Geräte oder
 Ausrüstungen ein Risiko für die Gesundheit von Personen, für Haus-
@@ -106,10 +111,12 @@ Mitgliedstaaten der Europäischen Union.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000601126)
 
 
 
 ## § 7 Sprache der Gebrauchsanleitungen, der Sicherheitsinformationen und der EU-Konformitätserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000700000)
 
 (1) Bei Geräten und Ausrüstungen sind folgende Unterlagen in deutscher
 Sprache abzufassen:
@@ -138,6 +145,7 @@ ist, in deutscher Sprache abgefasst sind.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/426 des
 Europäischen Parlaments und des Rates vom 9. März 2016 über Geräte zur
@@ -269,6 +277,7 @@ werden.
 
 
 ## § 9 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gasger_tedg/BJNR047310019.html#BJNR047310019BJNE000900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 8 Absatz 1 Nummer 7, 12, 14, 18 oder 19

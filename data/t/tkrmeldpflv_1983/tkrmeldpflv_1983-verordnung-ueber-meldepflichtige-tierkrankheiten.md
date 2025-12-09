@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000207377)
 
 (1) Die Leiter der Veterinäruntersuchungsämter, der
 Tiergesundheitsämter oder sonstiger öffentlicher oder privater
@@ -40,6 +41,7 @@ bei einer der in Absatz 1 genannten Stellen untersucht worden ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000306301)
 
 Die zuständige Behörde gibt jede Meldung nach § 1 dem
 Bundesministerium für Ernährung und Landwirtschaft im Wege der
@@ -50,10 +52,12 @@ zuständigen Behörde die Meldung zugegangen ist.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000404377)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000504301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer als Leiter einer privaten
@@ -63,11 +67,13 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 ## § 5 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000704377)
 
 
 (zu § 1)
 
 ## Anlage Meldepflichtige Tierkrankheiten/Erregernachweise
+[Direktlink](https://www.gesetze-im-internet.de/tkrmeldpflv_1983/BJNR010950983.html#BJNR010950983BJNE000914119)
 
 (Fundstelle: BGBl. I 2011, 253 - 254;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

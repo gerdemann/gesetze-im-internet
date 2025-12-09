@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7110-3-158 v. 29.8.2005 I 2562 (ZwrMechMstrV 2005)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt
@@ -31,6 +32,7 @@ Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die in der
 Prüfung in den Teilen I und II der Meisterprüfung im
@@ -38,6 +40,7 @@ Zweiradmechaniker-Handwerk zu stellenden Anforderungen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000300000)
 
 In den Teilen I und II der Meisterprüfung im Zweiradmechaniker-
 Handwerk hat der Prüfling die beruflichen Handlungskompetenzen
@@ -201,6 +204,7 @@ Die nach Satz 2 Nummer 5 zu erbringenden Leistungen sind insbesondere:
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -220,6 +224,7 @@ verrichtet.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus
@@ -272,6 +277,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000600000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -300,6 +306,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000700000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt den Nachweis der beruflichen Handlungskompetenz für
@@ -318,6 +325,7 @@ Minuten zur Verfügung.
 
 
 ## § 7 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Für das Gesamtergebnis
@@ -340,6 +348,7 @@ gewichtet.
 
 
 ## § 8 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE000900000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -375,6 +384,7 @@ Minuten an einem Tag darf nicht überschritten werden.
 
 
 ## § 9 Handlungsfeld „Anforderungen von Kunden eines Betriebs im Zweiradmechaniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001000000)
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Betriebs im
 Zweiradmechaniker-Handwerk analysieren, Lösungen erarbeiten und
@@ -481,6 +491,7 @@ anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Leistungen eines Betriebs im Zweiradmechaniker-Handwerk erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001100000)
 
 (1) Im Handlungsfeld „Leistungen eines Betriebs im Zweiradmechaniker-
 Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling
@@ -613,6 +624,7 @@ Qualifikationen:
 
 
 ## § 11 Handlungsfeld „Einen Betrieb im Zweiradmechaniker-Handwerk führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001200000)
 
 (1) Im Handlungsfeld „Einen Betrieb im Zweiradmechaniker-Handwerk
 führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der
@@ -757,6 +769,7 @@ führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 12 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001300000)
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung
 ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach
@@ -785,6 +798,7 @@ Meisterprüfung ausschlaggebend ist.
 
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001401128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -795,6 +809,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001500000)
 
 (1) Die bis zum Ablauf des 31. Dezember 2021 begonnenen
 Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende
@@ -811,6 +826,7 @@ werden.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zwrmechmstrv_2022/BJNR011700021.html#BJNR011700021BJNE001600000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft. Gleichzeitig tritt
 die Zweiradmechanikermeisterverordnung vom 29. August 2005 (BGBl. I S.

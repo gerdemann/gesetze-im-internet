@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/verdordenneuferl/BJNR007490955.html#BJNR007490955BJNE000100319)
 
 Das Statut des "Verdienstordens der Bundesrepublik Deutschland" vom 7.
 September 1951 (Bundesgesetzbl. I S. 831) in der Fassung des Erlasses

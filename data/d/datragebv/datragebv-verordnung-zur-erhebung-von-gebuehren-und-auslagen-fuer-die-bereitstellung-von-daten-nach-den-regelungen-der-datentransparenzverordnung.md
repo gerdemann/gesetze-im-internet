@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000100000)
 
 Auf Grund des § 303e Absatz 2 Satz 4 des Fünften Buches
 Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch
@@ -30,6 +31,7 @@ Gesundheit:
 
 
 ## § 1 Anwendungsbereich und Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000202126)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt als
 Forschungsdatenzentrum Gebühren und Auslagen für individuell
@@ -43,6 +45,7 @@ nicht übersteigt.
 
 
 ## § 2 Entstehung der Gebührenschuld
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000300000)
 
 (1) Die Gebührenschuld für eine individuell zurechenbare öffentliche
 Leistung nach § 1 sowie die Verpflichtung zur Erstattung von Auslagen
@@ -54,6 +57,7 @@ Zurücknahme des Antrags.
 
 
 ## § 3 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000402124)
 
 (1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist
 verpflichtet,
@@ -77,6 +81,7 @@ Forschungsdatenzentrum dies schriftlich oder elektronisch mitzuteilen.
 
 
 ## § 4 Befreiung von der Zahlung der Gebühren und von der Erstattung der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000501126)
 
 Von der Zahlung der Gebühren und von der Erstattung der Auslagen nach
 dieser Verordnung befreit sind die gesetzlichen Krankenkassen, die
@@ -86,11 +91,13 @@ Behörden in seinem Geschäftsbereich.
 
 
 ## § 5 Höhe der Grundgebühr
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000602126)
 
 Die Grundgebühr für die Bearbeitung eines Antrags beträgt 4 000 Euro.
 
 
 ## § 6 Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000702126)
 
 (1) Für die Bereitstellung von standardisierten Datensätzen beträgt
 die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
@@ -105,6 +112,7 @@ die Nutzung der Umgebung von 1 000 Euro pro Tag berechnet.
 
 
 ## § 7 Höhe der Gebühr für Beratung, Erstellung vorläufiger Auswertungen und Zwischenergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000802126)
 
 Für jede Beratung, jede Erstellung vorläufiger Auswertungen und für
 Zwischenergebnisse wird abhängig von Umfang und Komplexität der
@@ -113,6 +121,7 @@ Sachleistungen eine Gebühr von 100 bis 3 000 Euro berechnet.
 
 
 ## § 8 Höhe der Gebühr bei Rücknahme des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE000901124)
 
 (1) Wird ein Antrag zurückgenommen, bevor das Forschungsdatenzentrum
 mit den Arbeiten für die Datenauswertung und Datenbereitstellung
@@ -128,6 +137,7 @@ Zusatzgebühr.
 
 
 ## § 9 Erstattung von Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE001001124)
 
 Das Forschungsdatenzentrum verlangt die Erstattung von Auslagen, die
 nicht bereits in die Zusatzgebühren nach § 6 und die Gebühr nach § 7
@@ -139,6 +149,7 @@ Auswertungsergebnissen entstehen.
 
 
 ## § 10 Höhe der Gebühr für Schulungen
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE001501126)
 
 Die Grundgebühr für eine Schulung beträgt 1 000 Euro. Das
 Forschungsdatenzentrum kann für zusätzliche Module eine Zusatzgebühr
@@ -148,6 +159,7 @@ der entsprechenden Gebühren.
 
 
 ## § 11 Gebührenerhöhung und -ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE001102126)
 
 (1) Erfordert eine gebührenpflichtige Leistung im Einzelfall einen
 außergewöhnlich hohen Personal- und Sachaufwand, so kann das
@@ -251,6 +263,7 @@ Institution erfolgt.
 
 
 ## § 12 Anwendung des Bundesgebührengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE001201124)
 
 § 13 Absatz 3 sowie die §§ 14, 16 bis 19 und 21 des
 Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) zur
@@ -260,6 +273,7 @@ anzuwenden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/datragebv/BJNR045800014.html#BJNR045800014BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

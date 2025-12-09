@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000100311)
 
 Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der
 Fassung der Bekanntmachung vom 19. April 1994 (BGBl. I S. 854),
@@ -31,6 +32,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Höhe der Konzessionsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000201308)
 
 (1) Die Höhe der nach § 15 Abs. 3 Satz 1 des Bundesfernstraßengesetzes
 zu entrichtenden Konzessionsabgabe richtet sich nach der Menge des in
@@ -59,6 +61,7 @@ und Unterhalten einer Verkehrsanlage an diesem Nebenbetrieb entstehen.
 
 
 ## § 2 Fälligkeit der Konzessionsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000301360)
 
 (1) Der Konzessionsinhaber hat dem Bundesamt für Logistik und
 Mobilität spätestens 30 Tage nach Ablauf eines Kalendervierteljahres
@@ -83,6 +86,7 @@ als Anlage beigefügte Formblatt zu verwenden.
 
 
 ## § 3 Vorlage der Geschäftsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000401360)
 
 Der Konzessionsinhaber hat dem Bundesamt für Logistik und Mobilität
 auf Verlangen seine Bücher und Aufzeichnungen vorzulegen und Auskünfte
@@ -93,6 +97,7 @@ die Pflichten aus Satz 1.
 
 
 ## § 4 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000501360)
 
 Zur Sicherung der Ansprüche auf Zahlung der Konzessionsabgabe kann das
 Bundesamt für Logistik und Mobilität vom Konzessionsinhaber Sicherheit
@@ -102,6 +107,7 @@ Sicherheit anderer Art geleistet werden.
 
 
 ## § 5 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000600311)
 
 Auf die Konzessionsabgabe sind ergänzend die Vorschriften der
 Abgabenordnung über die Führung von Büchern und Aufzeichnungen (§§ 140
@@ -115,6 +121,7 @@ sinngemäß anzuwenden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000700311)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendervierteljahres in Kraft.
@@ -122,6 +129,7 @@ Kalendervierteljahres in Kraft.
 (zu § 2 Abs. 3)
 
 ## Anlage Konzessionsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/bab-kabgv/BJNR151300997.html#BJNR151300997BJNE000801308)
 
 (Fundstelle: BGBl. I 2001, 3764)
 **Meldung für das .. Kalendervierteljahr 20../für das Jahr 20.. \*)**

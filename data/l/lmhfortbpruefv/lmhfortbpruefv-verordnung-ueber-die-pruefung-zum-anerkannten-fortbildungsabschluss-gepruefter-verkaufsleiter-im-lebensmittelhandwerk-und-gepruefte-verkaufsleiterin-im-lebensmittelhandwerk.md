@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000100000)
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 der
 Handwerksordnung, von denen Absatz 1 durch Artikel 283 der Verordnung
@@ -31,6 +32,7 @@ mit dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000200000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Verkaufsleiter im Lebensmittelhandwerk und Geprüfte Verkaufsleiterin
@@ -117,6 +119,7 @@ Verkaufsleiterin im Lebensmittelhandwerk“.
 
 
 ## § 2 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -162,6 +165,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Teile des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000400000)
 
 (1) Für den Fortbildungsabschluss zum Geprüften Verkaufsleiter im
 Lebensmittelhandwerk und zur Geprüften Verkaufsleiterin im
@@ -188,6 +192,7 @@ ersten abgelegten Prüfungsleistung in dieser Prüfung abzuschließen.
 
 
 ## § 4 Nachweis des Erwerbs der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000501119)
 
 (1) Den Erwerb der betriebswirtschaftlichen, kaufmännischen und
 rechtlichen Qualifikationen hat die zu prüfende Person nachzuweisen
@@ -201,6 +206,7 @@ Verkaufsleitungsqualifikationen“ abgelegt worden sein.
 
 
 ## § 5 Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000601119)
 
 Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat
 die zu prüfende Person nachzuweisen durch
@@ -223,6 +229,7 @@ die zu prüfende Person nachzuweisen durch
 
 
 ## § 6 Inhalte der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000701119)
 
 (1) In der Prüfung „Schwerpunktspezifische
 Verkaufsleitungsqualifikationen“ wählt die zu prüfende Person einen
@@ -269,6 +276,7 @@ geprüft:
 
 
 ## § 7 Handlungsbereich „Informationen zu Rohstoffen und Herstellungsweisen aufbereiten und weitergeben“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000801119)
 
 (1) Im Handlungsbereich „Informationen zu Rohstoffen und
 Herstellungsweisen aufbereiten und weitergeben“ soll die zu prüfende
@@ -293,6 +301,7 @@ Verfügung zu stellen.
 
 
 ## § 8 Handlungsbereich „Vertriebskonzepte entwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE000901119)
 
 (1) Im Handlungsbereich „Vertriebskonzepte entwickeln“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist, den Markt
@@ -333,6 +342,7 @@ Sortimente gestalten und Marketinginstrumente anwenden.
 
 
 ## § 9 Handlungsbereich „Warenströme und Retourenmanagement organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001001119)
 
 (1) Im Handlungsbereich „Warenströme und Retourenmanagement
 organisieren“ soll die zu prüfende Person nachweisen, dass sie in der
@@ -370,6 +380,7 @@ organisiert werden.
 
 
 ## § 10 Handlungsbereich „Qualitätsmanagement gestalten, Maßstäbe für die Lebensmittelqualität bestimmen und die Einhaltung von Qualitätsvorgaben systematisch überwachen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001101119)
 
 (1) Im Handlungsbereich „Qualitätsmanagement gestalten, Maßstäbe für
 die Lebensmittelqualität bestimmen und die Einhaltung von
@@ -404,6 +415,7 @@ vermitteln und deren Einhaltung sicherzustellen.
 
 
 ## § 11 Handlungsbereich „Betriebswirtschaftliche Kennzahlen ermitteln und für die Verkaufsleitung nutzen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001201119)
 
 (1) Im Handlungsbereich „Betriebswirtschaftliche Kennzahlen ermitteln
 und für die Verkaufsleitung nutzen“ soll die zu prüfende Person
@@ -434,6 +446,7 @@ Kommunikationstechnologien.
 
 
 ## § 12 Handlungsbereich „Marketing- und Präsentationskonzepte planen, umsetzen und optimieren“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001301119)
 
 (1) Im Handlungsbereich „Marketing- und Präsentationskonzepte planen,
 umsetzen und optimieren“ soll die zu prüfende Person nachweisen, dass
@@ -471,6 +484,7 @@ Lebensmittelrecht und zur Hygiene Folgendes geprüft werden:
 
 
 ## § 13 Handlungsbereich „Gastronomiekonzepte für Imbiss, Café und Außer-Haus-Service ausgestalten und realisieren“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001401119)
 
 (1) Im Handlungsbereich „Gastronomiekonzepte für Imbiss, Café und
 Außer-Haus-Service ausgestalten und realisieren“ soll die zu prüfende
@@ -503,6 +517,7 @@ die schwerpunktspezifischen Kompetenzen zu nutzen.
 
 
 ## § 14 Handlungsbereich „Verkaufs-, Verhandlungs- und Beratungsgespräche fachlich vorbereiten, führen und auswerten“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001501119)
 
 (1) Im Handlungsbereich „Verkaufs-, Verhandlungs- und
 Beratungsgespräche fachlich vorbereiten, führen und auswerten“ soll
@@ -545,6 +560,7 @@ Instrumente zur Konfliktlösung anwenden und vermitteln.
 
 
 ## § 15 Handlungsbereich „Mitarbeiter und Mitarbeiterinnen führen, fördern und schulen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001601119)
 
 (1) Im Handlungsbereich „Mitarbeiter und Mitarbeiterinnen führen,
 fördern und schulen“ soll die zu prüfende Person nachweisen, dass sie
@@ -586,6 +602,7 @@ Instrumente zur Konfliktbewältigung im Team einsetzen.
 
 
 ## § 16 Gliederung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001700000)
 
 Die Prüfung gliedert sich in
 
@@ -599,6 +616,7 @@ Die Prüfung gliedert sich in
 
 
 ## § 17 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001800000)
 
 (1) Die schriftliche Prüfung umfasst alle Handlungsbereiche der §§ 7
 bis 11.
@@ -611,6 +629,7 @@ werden handlungsbereichsübergreifend gestellt.
 
 
 ## § 18 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE001901119)
 
 (1) Die praktische Prüfung umfasst
 
@@ -632,6 +651,7 @@ werden.
 
 
 ## § 19 Projektarbeit
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002001119)
 
 (1) Die Projektarbeit besteht aus
 
@@ -682,6 +702,7 @@ Person nachweisen, dass sie in der Lage ist,
 
 
 ## § 20 Arbeitsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002101119)
 
 (1) Im Rahmen der Arbeitsaufgabe soll die zu prüfende Person
 
@@ -715,6 +736,7 @@ Vor- und Nachbereitung 300 Minuten zur Verfügung.
 
 
 ## § 21 Gesprächssimulation
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002201119)
 
 (1) Im Rahmen der Gesprächssimulation führt die zu prüfende Person ein
 Verkaufs-, Verhandlungs-, Beratungs- oder Mitarbeitergespräch mit
@@ -725,6 +747,7 @@ oder zu dem von ihr entwickelten Gastronomiekonzept.
 
 
 ## § 22 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002301119)
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
@@ -736,6 +759,7 @@ den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 23 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002401119)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -793,6 +817,7 @@ zu gewichten:
 
 
 ## § 24 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002900119)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -830,6 +855,7 @@ ist die Gesamtnote.
 
 
 ## § 25 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002601119)
 
 (1) Wer die Prüfung nach § 24 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -857,6 +883,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002700000)
 
 (1) Diesem Fortbildungsabschluss entsprechende Prüfungen nach den nach
 der Handwerksordnung in Kraft gesetzten Regelungen der
@@ -910,6 +937,7 @@ diesem Fall nicht anzuwenden.
 
 
 ## § 26 Wiederholung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002501119)
 
 (1) Ist die schriftliche oder die praktische Prüfung nicht bestanden,
 kann sie jeweils zweimal wiederholt werden.
@@ -929,12 +957,14 @@ diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 27 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE002800000)
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
 (zu den §§ 23 und 24)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE003000119)
 
 (Fundstelle: BGBl. I 2019, 2176 - 2177)
 
@@ -1236,6 +1266,7 @@ Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 (zu § 25)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/lmhfortbpr_fv/BJNR198000015.html#BJNR198000015BJNE003100119)
 
 (Fundstelle: BGBl. I 2019, 2177 - 2178)
 

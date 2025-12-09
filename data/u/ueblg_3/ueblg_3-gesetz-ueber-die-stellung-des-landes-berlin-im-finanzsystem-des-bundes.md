@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) §§ 1 bis 15
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE000101309)
 
 
 
 ## § 16 Bundeshilfe für das Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE001600319)
 
 (1) Solange das Land Berlin am Finanzausgleich unter den Ländern nicht
 teilnimmt, erhält es zur Deckung eines auf andere Weise nicht
@@ -47,11 +49,13 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 
 ## (XXXX) §§ 17 bis 20
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE001701309)
 
 
 (§ 12 Abs. 2)
 
 ## Anlage 1 Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE002100319)
 
 (Fundstelle: BGBl. I 1952, 5)
 
@@ -134,6 +138,7 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 (§ 12 Abs. 3)
 
 ## Anlage 2 Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE002201309)
 
 1\.
 
@@ -154,6 +159,7 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 (§ 13 Abs. 2)
 
 ## Anlage 3 Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE002300319)
 
 (Fundstelle: BGBl. I 1952, 5 - 6)
 
@@ -290,6 +296,7 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 (§ 12 Abs. 3)
 
 ## Anlage 4 Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden\*.
+[Direktlink](https://www.gesetze-im-internet.de/_blg_3/BJNR000010952.html#BJNR000010952BJNE002401301)
 
 (Fundstelle: BGBl. I 1952, 822 - 823;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

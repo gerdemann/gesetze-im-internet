@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000100326)
 
 Auf Grund des § 19 des Gesetzes zur Regelung des öffentlichen
 Vereinsrechts (Vereinsgesetz) vom 5. August 1964 (Bundesgesetzbl. I S.
@@ -28,6 +29,7 @@ Vereinsrechts (Vereinsgesetz) vom 5. August 1964 (Bundesgesetzbl. I S.
 
 
 ## § 1 Bekanntgabe des Verbots an Teilorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000201320)
 
 (1) Nach Erlaß eines Vereinsverbots geben die für seinen Vollzug
 zuständigen Landesbehörden (Vollzugsbehörden) das Verbot sämtlichen im
@@ -52,6 +54,7 @@ Vereins bekannt.
 
 
 ## § 2 Registereintragung
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000300326)
 
 (1) Nach Eintritt der Vollziehbarkeit ist die Beschlagnahme in das
 Grundbuch, das Schiffsregister und das Schiffsbauregister einzutragen
@@ -87,6 +90,7 @@ der Brief nicht vorgelegt zu werden.
 
 
 ## § 3 Sicherstellung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000400326)
 
 Sachen und Sachgesamtheiten werden dadurch sichergestellt, daß die
 Vollzugsbehörde sie in Gewahrsam nimmt. Läßt die Eigenart der
@@ -96,6 +100,7 @@ Die Sicherstellung soll dem Gewahrsamsinhaber angezeigt werden.
 
 
 ## § 4 Sicherstellung von Sachen im Gewahrsam Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000500326)
 
 Von der Beschlagnahme erfaßte Sachen des Vereinsvermögens im Gewahrsam
 Dritter können nur auf Grund einer besonderen Anordnung der
@@ -109,6 +114,7 @@ Vereinsvermögen gehört.
 
 
 ## § 5 Aufhebung der Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000600326)
 
 Die Sicherstellung ist aufzuheben, wenn ihre Voraussetzungen
 weggefallen sind. Die Sicherstellung von Sachen, die im Gewahrsam des
@@ -120,6 +126,7 @@ Urteils in einem Rechtsstreit über das Eigentum.
 
 
 ## § 6 Beschlagnahme von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000700326)
 
 (1) Die Vollzugsbehörde setzt die Schuldner des Vereins sowie die
 Gläubiger und Schuldner der nach § 10 Abs. 1 Satz 3 des
@@ -133,6 +140,7 @@ entsprechend.
 
 
 ## § 7 Beendigung der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000800326)
 
 (1) Mit dem Eintritt der Rechtskraft des das Vereinsverbot aufhebenden
 Urteils endet auch die Beschlagnahme des Vereinsvermögens.
@@ -147,6 +155,7 @@ auszunehmen, auf die § 13 Abs. 2 des Vereinsgesetzes angewandt wurde.
 
 
 ## § 8 Bestellung und Abberufung von Verwaltern
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE000901320)
 
 (1) Zum Verwalter ist eine geschäftskundige, vom Verein unabhängige
 Person zu bestellen. Für Teile des Vereinsvermögens, die eigene
@@ -167,6 +176,7 @@ Die Abberufung kann jederzeit ohne Angabe von Gründen erfolgen.
 
 
 ## § 9 Rechte und Pflichten des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001000326)
 
 (1) Der Verwalter hat das beschlagnahmte Vermögen in Besitz zu nehmen
 und unbeschadet der Weisungsbefugnis der Verbotsbehörde alle
@@ -203,6 +213,7 @@ Zivilprozeßordnung gelten entsprechend.
 
 
 ## § 10 Vergütung des Verwalters
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001100326)
 
 (1) Der Verwalter kann für seine Tätigkeit eine angemessene Vergütung
 beanspruchen.
@@ -242,6 +253,7 @@ Bund.
 
 
 ## § 11 Von der Einziehungsbehörde bestellte Verwalter
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001200326)
 
 Ein von der Einziehungsbehörde bestellter Verwalter (§ 11 Abs. 3 Satz
 2 des Vereinsgesetzes) ist unbeschadet der Weisungsbefugnis der
@@ -253,6 +265,7 @@ gelten entsprechend.
 
 
 ## § 12 Verwaltung durch die Vollzugsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001300326)
 
 Ist kein Verwalter bestellt, hat die Vollzugsbehörde das
 beschlagnahmte Vermögen zu verwalten. Sie hat das beschlagnahmte
@@ -262,6 +275,7 @@ zu erhalten. § 9 Abs. 1 Satz 2, Abs. 3 und 4 gilt entsprechend.
 
 
 ## § 13 Mitteilung des Rechtsübergangs
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001400326)
 
 Die Verbotsbehörde oder die Einziehungsbehörde setzt von dem nach § 11
 Abs. 2 Satz 1 des Vereinsgesetzes erfolgten Rechtsübergang in Kenntnis
@@ -285,6 +299,7 @@ Abs. 2 Satz 1 des Vereinsgesetzes erfolgten Rechtsübergang in Kenntnis
 
 
 ## § 14 Einziehungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001500326)
 
 Einziehungsverfügungen nach § 12 des Vereinsgesetzes sind schriftlich
 abzufassen und dem Inhaber des eingezogenen Gegenstands zuzustellen.
@@ -294,6 +309,7 @@ und den Grund der Einziehung hinzuweisen.
 
 
 ## § 15 Anmeldung von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001600326)
 
 (1) Sind das Verbot und die Einziehung (§ 3 Abs. 1 Satz 2 des
 Vereinsgesetzes) unanfechtbar geworden, fordert die Verbotsbehörde
@@ -327,6 +343,7 @@ nachrichtlich veröffentlichen.
 
 
 ## § 16 Vorzeitige Befriedigung von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001700326)
 
 (1) Forderungen, für die ein Vorrecht nach § 61 Nr. 1 der
 Konkursordnung bestehen würde, wenn im Zeitpunkt der Beschlagnahme des
@@ -345,6 +362,7 @@ Befriedigung aller Gläubiger ausreichende bare Masse ergeben wird.
 
 
 ## § 17 Härtefälle
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001800326)
 
 (1) Eine unbillige Härte im Sinne des § 13 Abs. 2 des Vereinsgesetzes
 liegt insbesondere vor, wenn das Interesse des Betroffenen an der
@@ -359,6 +377,7 @@ Rechtsverlustes oder nach erfolgter Einziehung, so hebt sie diese auf.
 
 
 ## § 18 Berichtigung des Grundbuchs, des Schiffsregisters und des Schiffsbauregisters
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE001900326)
 
 (1) Werden durch eine wirksam gewordene Einziehung nach § 11 oder § 12
 des Vereinsgesetzes Grundstücke oder Rechte erfaßt, die für den
@@ -388,6 +407,7 @@ Schiffsregisterordnung in der Fassung vom 26. Mai 1951
 
 
 ## § 19 Anmeldepflicht für Ausländervereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002000326)
 
 (1) Ausländervereine, die ihren Sitz im Geltungsbereich des
 Vereinsgesetzes haben, sind innerhalb von zwei Wochen nach ihrer
@@ -427,6 +447,7 @@ Bescheinigung, für die keine Gebühren und Auslagen erhoben werden.
 
 
 ## § 20 Auskunftspflicht für Ausländervereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002100326)
 
 (1) Ausländervereine mit Sitz im Geltungsbereich des Vereinsgesetzes
 haben der nach § 19 Abs. 1 Satz 1 zuständigen Behörde auf Verlangen
@@ -453,6 +474,7 @@ bezeichneten Personen.
 
 
 ## § 21 Anmelde- und Auskunftspflicht ausländischer Vereine
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002200326)
 
 (1) Für ausländische Vereine, die im Geltungsbereich des
 Vereinsgesetzes organisatorische Einrichtungen gründen oder
@@ -469,18 +491,21 @@ haben.
 
 
 ## § 22 Mitteilung an das Bundesverwaltungsamt
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002300326)
 
 Die zuständigen Behörden teilen die Angaben, die sie auf Grund der §§
 19 bis 21 erhalten, dem Bundesverwaltungsamt mit.
 
 
 ## § 23 Zuwiderhandlungen gegen Anmelde- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002400326)
 
 Ordnungswidrig im Sinne des § 21 des Vereinsgesetzes handelt, wer den
 Anmelde- oder Auskunftspflichten nach den §§ 19 bis 21 zuwiderhandelt.
 
 
 ## § 24 Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002500326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 33 Abs.
@@ -488,6 +513,7 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 
 
 ## § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vereinsgdv/BJNR004570966.html#BJNR004570966BJNE002600326)
 
 Diese Verordnung tritt am 1. August 1966 in Kraft.
 

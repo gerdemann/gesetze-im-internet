@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konjv_2/BJNR011280970.html#BJNR011280970BJNE000100303)
 
 Auf Grund des § 51 Abs. 2 des Einkommensteuergesetzes in der Fassung
 der Bekanntmachung vom 12. Dezember 1969 (Bundesgesetzbl. I S. 2265)
@@ -26,6 +27,7 @@ Bundesrates:
 
 
 ## § 1 Vorübergehender Ausschluß der Absetzung für Abnutzung in fallenden Jahresbeträgen bei beweglichen Wirtschaftsgütern des Anlagevermögens und bei zum Anlagevermögen gehörenden Gebäuden mit Ausnahme der Wohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/konjv_2/BJNR011280970.html#BJNR011280970BJNE000200303)
 
 (1) Bei beweglichen Wirtschaftsgütern des Anlagevermögens, die vom
 Steuerpflichtigen nach dem 5. Juli 1970 und vor dem 1. Februar 1971
@@ -57,6 +59,7 @@ Zeitpunkt der Herstellung ist der Zeitpunkt der Fertigstellung.
 
 
 ## § 2 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/konjv_2/BJNR011280970.html#BJNR011280970BJNE000300303)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
@@ -65,6 +68,7 @@ des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konjv_2/BJNR011280970.html#BJNR011280970BJNE000400303)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000100304)
 
 Auf Grund des § 9 Abs. 2 des Gesetzes über die Angleichung der
 Leistungen zur Rehabilitation vom 7. August 1974 (BGBl. I S. 1881),
@@ -33,6 +34,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000204126)
 
 Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben
 richtet sich bei den Trägern der gesetzlichen Unfallversicherung, der
@@ -43,6 +45,7 @@ Verordnung.
 
 
 ## § 2 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000300304)
 
 (1) Die Kraftfahrzeughilfe umfaßt Leistungen
 
@@ -62,6 +65,7 @@ Darlehen erbracht.
 
 
 ## § 3 Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000401308)
 
 (1) Die Leistungen setzen voraus, daß
 
@@ -97,6 +101,7 @@ anzuwenden.
 
 
 ## § 4 Hilfe zur Beschaffung eines Kraftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000501308)
 
 (1) Hilfe zur Beschaffung eines Kraftfahrzeugs setzt voraus, daß der
 behinderte Mensch nicht über ein Kraftfahrzeug verfügt, das die
@@ -114,6 +119,7 @@ mindestens 50 vom Hundert des seinerzeitigen Neuwagenpreises beträgt.
 
 
 ## § 5 Bemessungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000603377)
 
 (1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in
 Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 22 000
@@ -131,6 +137,7 @@ Altwagens sind von dem Betrag nach Absatz 1 oder 2 abzusetzen.
 
 
 ## § 6 Art und Höhe der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000704308)
 
 (1) Hilfe zur Beschaffung eines Kraftfahrzeugs wird in der Regel als
 Zuschuß geleistet. Der Zuschuß richtet sich nach dem Einkommen des
@@ -208,6 +215,7 @@ geleistet werden.
 
 
 ## § 7 Behinderungsbedingte Zusatzausstattung
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000801308)
 
 Für eine Zusatzausstattung, die wegen der Behinderung erforderlich
 ist, ihren Einbau, ihre technische Überprüfung und die
@@ -221,6 +229,7 @@ pflichtgemäßem Ermessen zu leisten sind, sind anzurechnen.
 
 
 ## § 8 Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE000902308)
 
 (1) Zu den Kosten, die für die Erlangung einer Fahrerlaubnis notwendig
 sind, wird ein Zuschuß geleistet. Er beläuft sich bei behinderten
@@ -250,6 +259,7 @@ werden in vollem Umfang übernommen.
 
 
 ## § 9 Leistungen in besonderen Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001001308)
 
 (1) Zur Vermeidung besonderer Härten können Leistungen auch abweichend
 von § 2 Abs. 1, §§ 6 und 8 Abs. 1 erbracht werden, soweit dies
@@ -293,6 +303,7 @@ genannten Voraussetzungen verzichtet werden.
 
 
 ## § 10 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001101308)
 
 Leistungen sollen vor dem Abschluß eines Kaufvertrages über das
 Kraftfahrzeug und die behinderungsbedingte Zusatzausstattung sowie vor
@@ -304,16 +315,19 @@ Rechnungstellung zu beantragen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001200304)
 
 -
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001300304)
 
 -
 
 
 ## § 13 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001406126)
 
 (1) Auf Geschädigte im Sinne des Vierzehnten Buches Sozialgesetzbuch
 und der Gesetze, die das Vierzehnte Buch Sozialgesetzbuch für
@@ -332,6 +346,7 @@ entscheiden, wenn sie für den behinderten Menschen günstiger sind.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfzhv/BJNR022510987.html#BJNR022510987BJNE001601308)
 
 Diese Verordnung tritt am 1. Oktober 1987 in Kraft.
 

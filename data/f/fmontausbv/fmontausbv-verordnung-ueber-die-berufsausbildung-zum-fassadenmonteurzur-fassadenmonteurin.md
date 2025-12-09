@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000100307)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -30,12 +31,14 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000200307)
 
 Der Ausbildungsberuf Fassadenmonteur/Fassadenmonteurin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000300307)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -47,6 +50,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000400307)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -63,6 +67,7 @@ ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000500307)
 
 (1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
 (Anlage) während einer Dauer von 32 bis 37 Wochen wie folgt in
@@ -98,6 +103,7 @@ betrieblichen Ausbildungsstätte anzurechnen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000600307)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -181,6 +187,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000700307)
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage für die berufliche Grundbildung und für die berufliche
@@ -194,12 +201,14 @@ Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000800307)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE000900307)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -208,6 +217,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE001000307)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -247,6 +257,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 ## § 10 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE001100307)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -403,12 +414,14 @@ bestanden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE001200307)
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
+[Direktlink](https://www.gesetze-im-internet.de/fmontausbv/BJNR099700999.html#BJNR099700999BJNE001300307)
 
 (Fundstelle: BGBl. I 1999, 1000 - 1008)
 

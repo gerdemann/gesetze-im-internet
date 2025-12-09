@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000100000)
 
 Es wird ein Sondervermögen des Bundes unter der Bezeichnung „Vorsorge
 für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
@@ -28,6 +29,7 @@ errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000201123)
 
 Mit der Errichtung des Sondervermögens soll durch Zuführung von
 Mitteln aus dem Bundeshaushalt Vorsorge für die Inflationsentwicklung
@@ -41,12 +43,14 @@ bezeichnet.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000300000)
 
 Das Sondervermögen ist nicht rechtsfähig. Das Bundesministerium der
 Finanzen verwaltet das Sondervermögen.
 
 
 ## § 4 Zuführung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000401123)
 
 (1) Für jedes inflationsindexierte Bundeswertpapier ist dem
 Sondervermögen jährlich jeweils zum Kupontermin derjenige Betrag
@@ -78,6 +82,7 @@ Sondervermögen mit eigener Kreditermächtigung zuzuführen.
 
 
 ## § 5 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000500000)
 
 Die geplanten Einnahmen und Ausgaben des Sondervermögens werden in
 einer Übersicht aufgeführt, die dem Bundeshaushaltsplan als Anlage
@@ -92,6 +97,7 @@ abzuschließende Haushaltsjahr umgebucht werden.
 
 
 ## § 6 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000600000)
 
 Das Bundesministerium der Finanzen legt jährlich zum Stichtag 31.
 Dezember Rechnung über die Einnahmen und Ausgaben des Sondervermögens.
@@ -100,6 +106,7 @@ beizufügen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schlussfing/BJNR170200009.html#BJNR170200009BJNE000700000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

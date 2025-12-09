@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000100000)
 
 (1) Der zuständigen Behörde nach § 6 Absatz 1 obliegt die Durchführung
 dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen
@@ -70,6 +71,7 @@ Ordnungswidrigkeit aussetzen würde.
 
 
 ## § 2 Anordnungen und Abhilfemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000200000)
 
 (1) Die zuständige Behörde trifft die erforderlichen Anordnungen zur
 Beseitigung von Verstößen gegen die in § 1 Absatz 1 bezeichneten
@@ -93,6 +95,7 @@ zum Arten- und Tierschutz zu beachten.
 
 
 ## § 3 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000301311)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -122,6 +125,7 @@ insbesondere regeln:
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -183,6 +187,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
 
 
 ## § 5 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000500000)
 
 Ist eine Ordnungswidrigkeit nach § 4 begangen worden, so können
 Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, eingezogen
@@ -190,6 +195,7 @@ werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 6 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000601311)
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes und des Artikels 6
 Absatz 1 der Verordnung (EU) Nr. 511/2014 ist das Bundesamt für
@@ -224,6 +230,7 @@ Berichtspflicht nach Artikel 16 der Verordnung (EU) Nr. 511/2014.
 
 
 ## § 7 Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/BJNR209210015.html#BJNR209210015BJNE000700000)
 
 Die bei der Erfüllung von Auskunfts- und Mitwirkungspflichten im
 Rahmen der Kontrollen, der Erklärungspflichten sowie der

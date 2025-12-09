@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000100000)
 
 Auf Grund des § 110a Absatz 3 Satz 1 des Gesetzes über
 Ordnungswidrigkeiten, der durch Artikel 8 Nummer 13 des Gesetzes vom
@@ -29,6 +30,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf die Übermittlung elektronisch
 geführter Bußgeldakten
@@ -46,6 +48,7 @@ geführter Bußgeldakten
 
 
 ## § 2 Übermittlung elektronischer Akten
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000300000)
 
 (1) Elektronische Akten sollen elektronisch übermittelt werden, wenn
 die empfangende Stelle die Akten elektronisch führt. Führt die
@@ -102,6 +105,7 @@ Dokumentenerstellungs- und -übermittlungsverordnung entsprechend.
 
 
 ## § 3 Übergang der Aktenführung oder Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000400000)
 
 (1) Zur Abgabe der Aktenführung oder der Bearbeitung wird die
 elektronische Akte mit einem Übernahmeersuchen übermittelt.
@@ -123,6 +127,7 @@ entsprechend gekennzeichnet sein.
 
 
 ## § 4 Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000500000)
 
 (1) Die Übermittlung elektronischer Akten zwischen aktenführenden
 Behörden und Gerichten untereinander erfolgt über das elektronische
@@ -139,6 +144,7 @@ sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 
 ## § 5 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000601130)
 
 (1) Ist aus technischen Gründen eine Übermittlung nach § 4
 vorübergehend nicht möglich, so ist die Übermittlung der Akte auch auf
@@ -154,6 +160,7 @@ nach § 6 Absatz 1 Nummer 2 zulässig.
 
 
 ## § 6 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000701130)
 
 (1) Die Bundesregierung macht folgende technische Anforderungen an die
 Übermittlung elektronischer Akten im Bundesanzeiger und auf der
@@ -174,11 +181,13 @@ Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bussakt_bv/BJNR076500020.html#BJNR076500020BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

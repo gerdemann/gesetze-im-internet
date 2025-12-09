@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160), § 56 der
@@ -37,6 +38,7 @@ geändert worden ist, ordne ich an:
 
 
 ## § 1 Zuständigkeit im Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000200000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für den Erlass des
 Widerspruchsbescheids nach § 126 Absatz 3 Satz 1 des
@@ -48,6 +50,7 @@ das Bundesministerium die Maßnahme nicht selbst getroffen hat.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000300000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen in
 Angelegenheiten der Besoldung und der Beihilfe wird nach § 127 Absatz
@@ -57,6 +60,7 @@ zuständig war.
 
 
 ## § 3 Absehen von der Rückforderung zu viel gezahlter Bezüge aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000400000)
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, ohne Einholen
 der Zustimmung des Bundesministeriums für Wohnen, Stadtentwicklung und
@@ -66,6 +70,7 @@ Bundesbesoldungsgesetzes abzusehen.
 
 
 ## § 4 Beihilfefestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000500000)
 
 Dem Bundesverwaltungsamt wird die Zuständigkeit für die
 Beihilfefestsetzung für Beihilfeanträge der Bediensteten des
@@ -77,6 +82,7 @@ vorbehalten sind.
 
 
 ## § 5 Übertragung von Zuständigkeiten der Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000600000)
 
 (1) Dem Bundesverwaltungsamt werden, soweit Beamtinnen und Beamte des
 Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen betroffen
@@ -116,6 +122,7 @@ für den Erlass des Widerspruchsbescheides zuständig war.
 
 
 ## § 6 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000700000)
 
 Für besondere Fälle bleibt vorbehalten, im Einzelfall die Befugnisse
 nach den §§ 1 bis 5 selbst auszuüben. Fälle von grundsätzlicher
@@ -124,11 +131,13 @@ Bauwesen zur Entscheidung vorzulegen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000800000)
 
 Diese Anordnung tritt mit Wirkung vom 2. August 2022 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwsbbesbeihunffano/BJNR0560A0025.html#BJNR0560A0025BJNE000900000)
 
 Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen
 

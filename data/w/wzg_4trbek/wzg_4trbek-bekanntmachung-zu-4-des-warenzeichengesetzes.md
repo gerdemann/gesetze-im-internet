@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000100307)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden
@@ -26,6 +27,7 @@ Tschechischen Republik eingeführt sind (Anlage 1).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000200307)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
 bekanntgemacht, daß
@@ -46,27 +48,32 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000300307)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 25.
 Juni 1993 (BGBl. I S. 1155).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000400307)
 
 Bundesministerium der Justiz
 
 
 ## Anlage 1 Amtliche Feingehalts-Zeichen für Gold-, Silber- und Platinartikel der Tschechischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000500307)
 
 Fundstelle: BGBl. I 1994, 850)
 ![bgbl1_1994_j0850_0010.jpg](bgbl1_1994_j0850_0010.jpg)
 
 ## Anlage 2 Neues Kennzeichen der Fernmeldesatellitenorganisation "INTELSAT"
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000600307)
 
 Fundstelle: BGBl. I 1994, S. 851)
 ![bgbl1_1994_j0851_0010.jpg](bgbl1_1994_j0851_0010.jpg)
 
 ## Anlage 3 Flagge der Internationalen Zivilluftfahrt-Organisation
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek/BJNR084900994.html#BJNR084900994BJNE000700307)
 
 Fundstelle: BGBl. I 1994, 851)
 ![bgbl1_1994_j0851_0020.jpg](bgbl1_1994_j0851_0020.jpg)

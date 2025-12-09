@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## (XXXX) §§ 1 bis 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE000504377)
 
 
 
 ## § 15 Aufzeichnungs- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE001911119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne
@@ -126,6 +128,7 @@ Zulässigkeit des Abrufes oder der Übermittlung des Gesamtbestandes.
 
 
 ## § 15a Übermittlung von Einzelangaben für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002802119)
 
 (1) Die Bundesanstalt darf pseudonymisierte Einzelangaben an
 Hochschulen oder sonstige Einrichtungen, die unabhängige
@@ -177,6 +180,7 @@ anonymisieren.
 
 
 ## § 16 Allgemeine Prüfungsrechte und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002004377)
 
 (1) Die Bundesanstalt kann Auskünfte verlangen, soweit dies
 erforderlich ist, um die Einhaltung dieses Gesetzes und der zu diesem
@@ -206,6 +210,7 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002105377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -247,6 +252,7 @@ Euro geahndet werden.
 
 
 ## § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002901377)
 
 (1) Auf Meldungen für die Erzeugnisse, die den Meldepflichten nach § 4
 oder § 5 der Marktordnungswaren-Meldeverordnung vom 24. November 1999
@@ -260,9 +266,11 @@ Meldezeiträume dieses Gesetz in der bis zum Ablauf des 28. November
 
 
 ## § 19 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002604377)
 
 
 
 ## (XXXX) §§ 20 bis 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marktonog/BJNR016080976.html#BJNR016080976BJNE002702377)
 
 

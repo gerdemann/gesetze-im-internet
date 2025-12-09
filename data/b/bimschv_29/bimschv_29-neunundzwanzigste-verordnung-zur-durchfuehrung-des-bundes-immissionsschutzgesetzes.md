@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000100310)
 
 Auf Grund des § 33 Abs. 1 Nr. 4 des Bundes-Immissionsschutzgesetzes in
 der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880), der
@@ -31,6 +32,7 @@ der beteiligten Kreise:
 
 
 ## § 1 Gebührentarif
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000200310)
 
 Für Amtshandlungen nach der Verordnung über Emissionsgrenzwerte für
 Verbrennungsmotoren werden Gebühren nach dieser Verordnung erhoben.
@@ -40,6 +42,7 @@ Verbrennungsmotoren (Anlage).
 
 
 ## § 2 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000301377)
 
 (1) Hinsichtlich der Auslagen gilt § 10 des Verwaltungskostengesetzes.
 
@@ -73,6 +76,7 @@ von den Kosten befreit ist.
 
 
 ## § 3 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000400310)
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
 wird eine Gebühr bis zur Höhe der für die angefochtene Amtshandlung
@@ -88,6 +92,7 @@ der Widerspruchsgebühr.
 
 
 ## § 4 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000500310)
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
 eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
@@ -96,16 +101,19 @@ Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000600310)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000700310)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_29/BJNR073500000.html#BJNR073500000BJNE000802140)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 2000, 736;

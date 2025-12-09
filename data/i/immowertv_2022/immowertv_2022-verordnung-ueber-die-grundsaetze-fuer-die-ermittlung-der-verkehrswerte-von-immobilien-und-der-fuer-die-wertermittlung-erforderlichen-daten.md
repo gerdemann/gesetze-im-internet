@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 213-1-7 v. 19.5.2010 I 639 (ImmoWertV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000100000)
 
 Auf Grund des § 199 Absatz 1 des Baugesetzbuchs in der Fassung der
 Bekanntmachung vom 3. November 2017 (BGBl. I S. 3634) verordnet die
@@ -26,12 +27,15 @@ Bundesregierung:
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000200000)
 
 
 #### § 1 Anwendungsbereich; Wertermittlungsobjekt
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000300000)
 
 (1) Diese Verordnung ist anzuwenden
 
@@ -59,6 +63,7 @@ Bundesregierung:
 
 
 #### § 2 Grundlagen der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000400000)
 
 (1) Der Wertermittlung sind die allgemeinen Wertverhältnisse auf dem
 Grundstücksmarkt zum Wertermittlungsstichtag und der
@@ -150,9 +155,11 @@ Zeitpunkt maßgeblich ist.
 
 
 ### Abschnitt 2 - Begriffsbestimmungen zu einzelnen Grundstücksmerkmalen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000300000)
 
 
 #### § 3 Entwicklungszustand; sonstige Flächen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000500000)
 
 (1) Flächen der Land- oder Forstwirtschaft sind Flächen, die, ohne
 Bauerwartungsland, Rohbauland oder baureifes Land zu sein, land- oder
@@ -178,6 +185,7 @@ Entwicklungszustände nach den Absätzen 1 bis 4 zuordnen lassen.
 
 
 #### § 4 Alter, Gesamt- und Restnutzungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000600000)
 
 (1) Das Alter einer baulichen Anlage ergibt sich aus der Differenz
 zwischen dem Kalenderjahr des maßgeblichen Stichtags und dem Baujahr.
@@ -201,6 +209,7 @@ verlängern oder verkürzen.
 
 
 #### § 5 Weitere Grundstücksmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000700000)
 
 (1) Art und Maß der baulichen oder sonstigen Nutzung ergeben sich
 vorbehaltlich des Satzes 2 aus den für die planungsrechtliche
@@ -235,9 +244,11 @@ Eignung als Baugrund und das Vorhandensein von Bodenverunreinigungen.
 
 
 ### Abschnitt 3 - Allgemeine Grundsätze der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000400000)
 
 
 #### § 6 Wertermittlungsverfahren; Ermittlung des Verkehrswerts
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000800000)
 
 (1) Grundsätzlich sind zur Wertermittlung das Vergleichswertverfahren,
 das Ertragswertverfahren, das Sachwertverfahren oder mehrere dieser
@@ -282,6 +293,7 @@ ihrer Aussagefähigkeit zu ermitteln.
 
 
 #### § 7 Berücksichtigung der allgemeinen Wertverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE000900000)
 
 (1) Die Berücksichtigung der allgemeinen Wertverhältnisse erfolgt
 
@@ -309,6 +321,7 @@ marktübliche Zu- oder Abschläge erforderlich.
 
 
 #### § 8 Berücksichtigung der allgemeinen und besonderen objektspezifischen Grundstücksmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001000000)
 
 (1) Im Rahmen der Wertermittlung sind Grundstücksmerkmale zu
 berücksichtigen, denen der Grundstücksmarkt einen Werteinfluss
@@ -357,6 +370,7 @@ anzusetzen.
 
 
 #### § 9 Eignung und Anpassung der Daten; ungewöhnliche oder persönliche Verhältnisse; Herkunft der Daten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001100000)
 
 (1) Kaufpreise sowie weitere Daten wie insbesondere Bodenrichtwerte
 und sonstige für die Wertermittlung erforderliche Daten sind zur
@@ -392,6 +406,7 @@ geschätzt werden; die Grundlagen der Schätzung sind zu dokumentieren.
 
 
 #### § 10 Grundsatz der Modellkonformität
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001200000)
 
 (1) Bei Anwendung der sonstigen für die Wertermittlung erforderlichen
 Daten sind dieselben Modelle und Modellansätze zu verwenden, die der
@@ -408,6 +423,7 @@ ist.
 
 
 #### § 11 Künftige Änderungen des Grundstückszustands
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001300000)
 
 (1) Künftige Änderungen des Grundstückszustands sind zu
 berücksichtigen, wenn sie am Qualitätsstichtag mit hinreichender
@@ -420,12 +436,15 @@ dieser Änderung (Realisierungsrisiko) angemessen zu berücksichtigen.
 
 
 ## Teil 2 - Für die Wertermittlung erforderliche Daten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000500000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000600000)
 
 
 #### § 12 Allgemeines zu den für die Wertermittlung erforderlichen Daten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001400000)
 
 (1) Zu den für die Wertermittlung erforderlichen Daten gehören die
 Bodenrichtwerte und die sonstigen für die Wertermittlung
@@ -522,9 +541,11 @@ Modellbeschreibung anzugeben; hierzu gehören insbesondere
 
 
 ### Abschnitt 2 - Bodenrichtwerte
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000700000)
 
 
 #### § 13 Bodenrichtwert und Bodenrichtwertgrundstück
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001500000)
 
 (1) Der Bodenrichtwert ist bezogen auf einen Quadratmeter
 Grundstücksfläche des Bodenrichtwertgrundstücks.
@@ -538,6 +559,7 @@ anzugeben. Bodenrichtwertspannen sind nicht zulässig.
 
 
 #### § 14 Grundlagen der Bodenrichtwertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001600000)
 
 (1) Bodenrichtwerte sind vorrangig im Vergleichswertverfahren nach den
 §§ 24 und 25 zu ermitteln. Für die Anpassung der Kaufpreise an die
@@ -562,6 +584,7 @@ nicht zu begründen.
 
 
 #### § 15 Bildung der Bodenrichtwertzonen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001700000)
 
 (1) Eine Bodenrichtwertzone besteht aus einem räumlich
 zusammenhängenden Gebiet. Die Bodenrichtwertzonen sind so abzugrenzen,
@@ -601,6 +624,7 @@ der Grundstücke gegeben ist.
 
 
 #### § 16 Grundstücksmerkmale des Bodenrichtwertgrundstücks
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001800000)
 
 (1) Das Bodenrichtwertgrundstück weist keine Grundstücksmerkmale auf,
 die nur im Rahmen einer Einzelbegutachtung ermittelt werden können;
@@ -669,15 +693,18 @@ sind.
 
 
 #### § 17 Automatisiertes Führen der Bodenrichtwerte
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE001900000)
 
 Die Bodenrichtwerte sind in automatisierter Form auf der Grundlage der
 amtlichen Geobasisdaten zu führen.
 
 
 ### Abschnitt 3 - Sonstige für die Wertermittlung erforderliche Daten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000800000)
 
 
 #### § 18 Indexreihen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002000000)
 
 (1) Indexreihen dienen der Berücksichtigung von im Zeitverlauf
 eintretenden Änderungen der allgemeinen Wertverhältnisse.
@@ -693,6 +720,7 @@ bestimmter räumlicher und sachlicher Teilmärkte ermittelt.
 
 
 #### § 19 Umrechnungskoeffizienten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002100000)
 
 (1) Umrechnungskoeffizienten dienen der Berücksichtigung von
 Wertunterschieden ansonsten gleichartiger Grundstücke, die sich aus
@@ -714,6 +742,7 @@ abgeleitet werden.
 
 
 #### § 20 Vergleichsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002200000)
 
 (1) Vergleichsfaktoren dienen der Ermittlung von Vergleichswerten
 insbesondere für bebaute Grundstücke.
@@ -737,6 +766,7 @@ wertbeeinflussenden Grundstücksmerkmalen (Normobjekte).
 
 
 #### § 21 Liegenschaftszinssätze; Sachwertfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002300000)
 
 (1) Liegenschaftszinssätze und Sachwertfaktoren dienen der
 Berücksichtigung der allgemeinen Wertverhältnisse auf dem jeweiligen
@@ -758,6 +788,7 @@ den ihnen entsprechenden vorläufigen Sachwerten ermittelt.
 
 
 #### § 22 Erbbaurechts- und Erbbaugrundstücksfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002400000)
 
 (1) Erbbaurechts- und Erbbaugrundstücksfaktoren dienen im Wesentlichen
 der Berücksichtigung der dem Erbbaurecht allgemein beizumessenden
@@ -777,6 +808,7 @@ finanzmathematischen Werten ermittelt.
 
 
 #### § 23 Erbbaurechts- und Erbbaugrundstückskoeffizienten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002500000)
 
 (1) Erbbaurechts- und Erbbaugrundstückskoeffizienten dienen im
 Wesentlichen der Berücksichtigung der dem Erbbaurecht allgemein
@@ -799,12 +831,15 @@ fiktiv unbelasteten Grundstücke ermittelt.
 
 
 ## Teil 3 - Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG000900000)
 
 
 ### Abschnitt 1 - Vergleichswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001000000)
 
 
 #### § 24 Grundlagen des Vergleichswertverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002600000)
 
 (1) Im Vergleichswertverfahren wird der Vergleichswert aus einer
 ausreichenden Anzahl von Vergleichspreisen im Sinne des § 25
@@ -838,6 +873,7 @@ Wertermittlungsobjekts.
 
 
 #### § 25 Vergleichspreise
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002700000)
 
 Zur Ermittlung von Vergleichspreisen sind Kaufpreise solcher
 Grundstücke (Vergleichsgrundstücke) heranzuziehen, die mit dem zu
@@ -851,6 +887,7 @@ Gegebenheiten des Wertermittlungsobjekts anzupassen.
 
 
 #### § 26 Objektspezifisch angepasster Vergleichsfaktor; objektspezifisch angepasster Bodenrichtwert
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002800000)
 
 (1) Zur Ermittlung des objektspezifisch angepassten Vergleichsfaktors
 ist der nach § 20 ermittelte Vergleichsfaktor auf seine Eignung im
@@ -866,12 +903,15 @@ Gegebenheiten des Wertermittlungsobjekts anzupassen.
 
 
 ### Abschnitt 2 - Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001100000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001200000)
 
 
 ##### § 27 Grundlagen des Ertragswertverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE002900000)
 
 (1) Im Ertragswertverfahren wird der Ertragswert auf der Grundlage
 marktüblich erzielbarer Erträge ermittelt. Soweit die
@@ -910,9 +950,11 @@ Verfahrensvarianten zur Verfügung:
 
 
 #### Unterabschnitt 2 - Verfahrensvarianten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001300000)
 
 
 ##### § 28 Allgemeines Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003000000)
 
 Im allgemeinen Ertragswertverfahren wird der vorläufige Ertragswert
 ermittelt durch Bildung der Summe aus
@@ -935,6 +977,7 @@ baulichen Anlagen.
 
 
 ##### § 29 Vereinfachtes Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003100000)
 
 Im vereinfachten Ertragswertverfahren wird der vorläufige Ertragswert
 ermittelt durch Bildung der Summe aus
@@ -956,6 +999,7 @@ Anlagen.
 
 
 ##### § 30 Periodisches Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003200000)
 
 (1) Im periodischen Ertragswertverfahren kann der vorläufige
 Ertragswert ermittelt werden durch Bildung der Summe aus
@@ -996,9 +1040,11 @@ Liegenschaftszinssatz zugrunde zu legen.
 
 
 #### Unterabschnitt 3 - Ermittlung des Ertragswerts
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001400000)
 
 
 ##### § 31 Reinertrag; Rohertrag
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003300000)
 
 (1) Der jährliche Reinertrag ergibt sich aus dem jährlichen Rohertrag
 abzüglich der Bewirtschaftungskosten.
@@ -1012,6 +1058,7 @@ vertraglichen Vereinbarungen.
 
 
 ##### § 32 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003400000)
 
 (1) Bewirtschaftungskosten sind die für eine ordnungsgemäße
 Bewirtschaftung und zulässige Nutzung entstehenden regelmäßigen
@@ -1067,6 +1114,7 @@ müssten.
 
 
 ##### § 33 Objektspezifisch angepasster Liegenschaftszinssatz
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003500000)
 
 Zur Ermittlung des objektspezifisch angepassten
 Liegenschaftszinssatzes ist der nach § 21 Absatz 2 ermittelte
@@ -1077,6 +1125,7 @@ anzupassen.
 
 
 ##### § 34 Barwertfaktor
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003600000)
 
 (1) Der Kapitalisierung und der Abzinsung sind Barwertfaktoren auf der
 Grundlage der Restnutzungsdauer und des objektspezifisch angepassten
@@ -1143,9 +1192,11 @@ der folgenden Formel zu ermitteln:
 
 
 ### Abschnitt 3 - Sachwertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001500000)
 
 
 #### § 35 Grundlagen des Sachwertverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003700000)
 
 (1) Im Sachwertverfahren wird der Sachwert des Grundstücks aus den
 vorläufigen Sachwerten der nutzbaren baulichen und sonstigen Anlagen
@@ -1178,6 +1229,7 @@ objektspezifischer Grundstücksmerkmale des Wertermittlungsobjekts.
 
 
 #### § 36 Vorläufiger Sachwert der baulichen Anlagen; durchschnittliche Herstellungskosten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003800000)
 
 (1) Zur Ermittlung des vorläufigen Sachwerts der baulichen Anlagen,
 ohne bauliche Außenanlagen, sind die durchschnittlichen
@@ -1212,6 +1264,7 @@ Grundstücksmarkt.
 
 
 #### § 37 Vorläufiger Sachwert der baulichen Außenanlagen und sonstigen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE003900000)
 
 Der vorläufige Sachwert der für die jeweilige Gebäudeart üblichen
 baulichen Außenanlagen und sonstigen Anlagen ist gesondert zu
@@ -1226,12 +1279,14 @@ der baulichen Anlage.
 
 
 #### § 38 Alterswertminderungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004000000)
 
 Der Alterswertminderungsfaktor entspricht dem Verhältnis der
 Restnutzungsdauer zur Gesamtnutzungsdauer.
 
 
 #### § 39 Objektspezifisch angepasster Sachwertfaktor
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004100000)
 
 Zur Ermittlung des objektspezifisch angepassten Sachwertfaktors ist
 der nach § 21 Absatz 3 ermittelte Sachwertfaktor auf seine Eignung im
@@ -1241,12 +1296,15 @@ Wertermittlungsobjekts anzupassen.
 
 
 ## Teil 4 - Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001600000)
 
 
 ### Abschnitt 1 - Bodenwertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001700000)
 
 
 #### § 40 Allgemeines zur Bodenwertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004200000)
 
 (1) Der Bodenwert ist vorbehaltlich des Absatzes 5 ohne
 Berücksichtigung der vorhandenen baulichen Anlagen auf dem Grundstück
@@ -1295,6 +1353,7 @@ Fällen den Bodenwert beeinflussen:
 
 
 #### § 41 Erhebliche Überschreitung der marktüblichen Grundstücksgröße
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004300000)
 
 Bei einer erheblichen Überschreitung der marktüblichen
 Grundstücksgröße kommt eine getrennte Ermittlung des Werts der über
@@ -1305,6 +1364,7 @@ Grundstücksmerkmal zu berücksichtigen.
 
 
 #### § 42 Bodenwert von Bauerwartungsland und Rohbauland
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004400000)
 
 Der Bodenwert von Bauerwartungs- oder Rohbauland kann in Anwendung des
 § 40 Absatz 3 ausgehend vom Bodenwert für entsprechend genutztes oder
@@ -1316,6 +1376,7 @@ sonstiger geeigneter Weise ermittelt werden.
 
 
 #### § 43 Nutzungsabhängiger Bodenwert bei Liquidationsobjekten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004500000)
 
 (1) Ist bei einem Grundstück mit einem Liquidationsobjekt im Sinne des
 § 8 Absatz 3 Satz 2 Nummer 3 insbesondere aus rechtlichen Gründen mit
@@ -1338,6 +1399,7 @@ Grundstücksmerkmal zu berücksichtigen, soweit dies marktüblich ist.
 
 
 #### § 44 Gemeinbedarfsflächen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004600000)
 
 Gemeinbedarfsflächen sind Flächen, für die eine öffentlichen
 Zweckbindung besteht. Bei Ermittlung des Werts ist danach zu
@@ -1361,6 +1423,7 @@ differenzieren, ob es sich um Gemeinbedarfsflächen handelt, die
 
 
 #### § 45 Wasserflächen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004700000)
 
 Der Verkehrswert von Wasserflächen hängt in erster Linie von der
 rechtlich zulässigen Nutzungsmöglichkeit ab. Dabei kann insbesondere
@@ -1371,12 +1434,15 @@ maßgeblich sein.
 
 
 ### Abschnitt 2 - Grundstücksbezogene Rechte und Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001800000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG001900000)
 
 
 ##### § 46 Allgemeines zu grundstücksbezogenen Rechten und Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004800000)
 
 (1) Grundstücksbezogene Rechte und Belastungen können den Wert des
 begünstigten und den Wert des belasteten Grundstücks beeinflussen
@@ -1404,6 +1470,7 @@ in Betracht
 
 
 ##### § 47 Grundsätze der Wertermittlung bei Rechten und Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE004900000)
 
 (1) Der Wert des begünstigten oder des belasteten Grundstücks kann
 ermittelt werden
@@ -1472,9 +1539,11 @@ angemessenen Zeitrentenbarwertfaktor auszugehen.
 
 
 #### Unterabschnitt 2 - Erbbaurecht und Erbbaugrundstück
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG002000000)
 
 
 ##### § 48 Allgemeines zum Erbbaurecht und Erbbaugrundstück
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005000000)
 
 Der Verkehrswert des Erbbaurechts und der Verkehrswert des
 Erbbaugrundstücks sind unter Berücksichtigung der vertraglichen
@@ -1488,6 +1557,7 @@ werden.
 
 
 ##### § 49 Vergleichswertverfahren für das Erbbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005100000)
 
 (1) Im Vergleichswertverfahren kann der Wert des Erbbaurechts
 insbesondere ermittelt werden
@@ -1543,6 +1613,7 @@ Grundstücksmerkmale des Wertermittlungsobjekts.
 
 
 ##### § 50 Finanzmathematischer Wert des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005200000)
 
 (1) Ausgangsgröße für die Ermittlung des finanzmathematischen Werts
 des Erbbaurechts ist der Wert des fiktiven Volleigentums im Sinne des
@@ -1582,6 +1653,7 @@ Anpassungsmöglichkeiten ergibt.
 
 
 ##### § 51 Vergleichswertverfahren für das Erbbaugrundstück
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005300000)
 
 (1) Im Vergleichswertverfahren kann der Wert des Erbbaugrundstücks
 insbesondere ermittelt werden
@@ -1631,6 +1703,7 @@ Grundstücksmerkmale des Wertermittlungsobjekts.
 
 
 ##### § 52 Finanzmathematischer Wert des Erbbaugrundstücks
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005400000)
 
 (1) Ausgangsgröße für die Ermittlung des finanzmathematischen Werts
 des Erbbaugrundstücks ist der Bodenwert des fiktiv unbelasteten
@@ -1655,9 +1728,11 @@ abzuzinsen und hinzuzuaddieren.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNG002100000)
 
 
 ### § 53 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005500000)
 
 (1) Bei Verkehrswertgutachten, die ab dem 1. Januar 2022 erstellt
 werden, ist unabhängig vom Wertermittlungsstichtag diese Verordnung
@@ -1671,6 +1746,7 @@ Satz 1 und Anlage 2 ermittelt werden.
 
 
 ### § 54 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005600000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft. Gleichzeitig tritt
 die Immobilienwertermittlungsverordnung vom 19. Mai 2010 (BGBl. I S.
@@ -1679,12 +1755,14 @@ S. 1794) geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005700000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 12 Absatz 5 Satz 1)
 
 ### Anlage 1 Modellansätze für die Gesamtnutzungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005800000)
 
 (Fundstelle: BGBl. I 2021, 2819)
 
@@ -1797,6 +1875,7 @@ baulicher Anlagen abzuleiten.
 (zu § 12 Absatz 5 Satz 1)
 
 ### Anlage 2 Modell zur Ermittlung der Restnutzungsdauer von Wohngebäuden bei Modernisierungen
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE005900000)
 
 (Fundstelle: BGBl. I 2021, 2820 - 2821)
 
@@ -2229,6 +2308,7 @@ die Anwendung der Formel zur Ermittlung der Restnutzungsdauer.
 (zu § 12 Absatz 5 Satz 2)
 
 ### Anlage 3 Modellansätze für Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE006000000)
 
 (Fundstelle: BGBl. I 2021, 2822 - 2823)
 
@@ -2411,6 +2491,7 @@ Instandhaltungskosten ausgegangen:
 (zu § 12 Absatz 5 Satz 3)
 
 ### Anlage 4 Normalherstellungskosten 2010 (NHK 2010)
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE006100000)
 
 (Fundstelle: BGBl. I 2021, 2824 - 2855)
 
@@ -7605,6 +7686,7 @@ Gebäudeart  Gebäudeart  Gebäudeart  Gebäudeart
 (zu § 16 Absatz 3)
 
 ### Anlage 5 Katalog der Grundstücksmerkmale des Bodenrichtwertgrundstücks
+[Direktlink](https://www.gesetze-im-internet.de/immowertv_2022/BJNR280500021.html#BJNR280500021BJNE006200000)
 
 (Fundstelle: BGBl. I 2021, 2856 - 2859)
 

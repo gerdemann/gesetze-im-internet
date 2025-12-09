@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000000000)
 
 Auf Grund des § 11 Abs. 2 des Gesetzes über die elektromagnetische
 Verträglichkeit von Geräten vom 18. September 1998 (BGBl. I S. 2882),
@@ -31,6 +32,7 @@ Technologie im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000101308)
 
 (1) Beitragspflichtig für die Aufwendungen, die der Bundesnetzagentur
 für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen durch
@@ -58,6 +60,7 @@ rückwirkender Verzicht ist ausgeschlossen.
 
 
 ## § 2 Beitragsbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000200000)
 
 (1) Von der Zahlung der Beiträge sind befreit:
 
@@ -97,6 +100,7 @@ Personenkreis unterliegen, werden keine Beiträge erhoben.
 
 
 ## § 3 Festlegung von EMV-Jahresbeiträgen für die Jahre 1999, 2000, 2001 und 2002
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000300000)
 
 (1) Die EMV-Beiträge für die Jahre 1999, 2000, 2001 und 2002 werden
 auf die in Spalte 5 der Anlage aufgeführten Jahresbeiträge je
@@ -115,6 +119,7 @@ November 1993 (BGBl. I S. 1898) für das Jahr 1999 ergeben hätte.
 
 
 ## § 4 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000400000)
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheides,
 wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 16 des
@@ -122,6 +127,7 @@ Verwaltungskostengesetzes gilt entsprechend.
 
 
 ## § 5 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000500000)
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
@@ -129,6 +135,7 @@ Verwaltungskostengesetzes erhoben.
 
 
 ## § 6 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000600000)
 
 Für die Verjährung der Festsetzung von Beiträgen und des Anspruchs auf
 Zahlung von Beiträgen gilt § 20 des Verwaltungskostengesetzes
@@ -136,6 +143,7 @@ entsprechend.
 
 
 ## § 7 Erstattung von Beitragsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000700000)
 
 Für Zeiten innerhalb eines Kalenderjahres, für die keine
 Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je
@@ -144,6 +152,7 @@ der nächsten Beitragszahlung verrechnet.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000800000)
 
 (1) Die Verordnung tritt mit Wirkung vom 1. Januar 1999 in Kraft.
 
@@ -152,6 +161,7 @@ der nächsten Beitragszahlung verrechnet.
 EMV-Beiträge 1999 bis 2002
 
 ## Anlage (zu § 1 Abs. 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/emvbeitrv_2002/BJNR335900002.html#BJNR335900002BJNE000900000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3361 - 3362
 

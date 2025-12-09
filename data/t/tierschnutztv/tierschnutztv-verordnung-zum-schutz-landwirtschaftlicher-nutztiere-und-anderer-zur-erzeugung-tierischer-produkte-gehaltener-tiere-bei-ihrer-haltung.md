@@ -65,10 +65,12 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000101377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000202360)
 
 (1) Diese Verordnung gilt für das Halten von Nutztieren zu
 Erwerbszwecken.
@@ -94,6 +96,7 @@ Erwerbszwecken.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000307124)
 
 Im Sinne dieser Verordnung sind
 
@@ -209,6 +212,7 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 3 Allgemeine Anforderungen an Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000407124)
 
 (1) Nutztiere dürfen vorbehaltlich der Vorschriften der Abschnitte 2
 bis 6 nur in Haltungseinrichtungen gehalten werden, die den
@@ -273,6 +277,7 @@ Alarmanlage zur Meldung eines solchen Ausfalles vorhanden sein.
 
 
 ### § 4 Allgemeine Anforderungen an Überwachung, Fütterung und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000507124)
 
 (1) Wer Nutztiere hält, hat vorbehaltlich der Vorschriften der
 Abschnitte 2 bis 6 sicherzustellen, dass
@@ -355,10 +360,12 @@ vorzulegen.
 
 
 ## Abschnitt 2 - Anforderungen an das Halten von Kälbern
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000201377)
 
 
 
 ### § 5 Allgemeine Anforderungen an das Halten von Kälbern
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000603119)
 
 Kälber dürfen, unbeschadet der Anforderungen des § 3, nur nach Maßgabe
 der folgenden Vorschriften sowie der §§ 6 bis 10 gehalten werden:
@@ -383,6 +390,7 @@ vermeidbare Schäden bereiten.
 
 
 ### § 6 Allgemeine Anforderungen an das Halten von Kälbern in Ställen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000701377)
 
 (1) Kälber dürfen in Ställen nur gehalten werden, wenn diese den
 Anforderungen der Absätze 2 bis 7 entsprechen.
@@ -475,6 +483,7 @@ Niederschläge, Sonne und Wind dienen.
 
 
 ### § 7 Besondere Anforderungen an das Halten von Kälbern im Alter von bis zu zwei Wochen in Ställen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000801377)
 
 Kälber im Alter von bis zu zwei Wochen dürfen nur in Ställen gehalten
 werden, wenn
@@ -492,6 +501,7 @@ zur Verfügung stehen.
 
 
 ### § 8 Besondere Anforderungen an das Halten von Kälbern im Alter von über zwei bis zu acht Wochen in Ställen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE000901377)
 
 (1) Kälber im Alter von über zwei bis zu acht Wochen dürfen einzeln in
 Boxen nur gehalten werden, wenn
@@ -525,6 +535,7 @@ Einrichtungen mit vergleichbarer Funktion.
 
 
 ### § 9 Besondere Anforderungen an das Halten von Kälbern im Alter von über acht Wochen in Ställen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001001377)
 
 (1) Kälber im Alter von über acht Wochen dürfen nur in Gruppen
 gehalten werden. Dies gilt nicht, wenn
@@ -577,6 +588,7 @@ dürfen einzeln in Boxen nur gehalten werden, wenn
 
 
 ### § 10 Platzbedarf bei Gruppenhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001101377)
 
 (1) Kälber dürfen vorbehaltlich des Absatzes 2 in Gruppen nur gehalten
 werden, wenn für jedes Kalb eine uneingeschränkt benutzbare
@@ -624,6 +636,7 @@ Mindestbodenfläche hat.
 
 
 ### § 11 Überwachung, Fütterung und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001201377)
 
 Wer Kälber hält, hat, unbeschadet der Anforderungen des § 4,
 sicherzustellen, dass
@@ -685,10 +698,12 @@ sicherzustellen, dass
 
 
 ## Abschnitt 3 - Anforderungen an das Halten von Legehennen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000401377)
 
 
 
 ### § 12 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001701377)
 
 Legehennen, die zu Erwerbszwecken gehalten werden, dürfen, unbeschadet
 der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften
@@ -696,6 +711,7 @@ dieses Abschnitts gehalten werden.
 
 
 ### § 13 Allgemeine Anforderungen an Haltungseinrichtungen für Legehennen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001805119)
 
 (1) Legehennen dürfen nur in Haltungseinrichtungen gehalten werden,
 die den Anforderungen der Absätze 2 bis 5 sowie des § 13a entsprechen.
@@ -776,6 +792,7 @@ Einzäunung eines Auslaufs im Freien.
 
 
 ### § 13a Besondere Anforderungen an Haltungseinrichtungen für Legehennen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE003104119)
 
 (1) Haltungseinrichtungen müssen
 
@@ -896,10 +913,12 @@ ist.
 
 
 ### § 13b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE003202118)
 
 
 
 ### § 14 Überwachung, Fütterung und Pflege von Legehennen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001902308)
 
 (1) Wer Legehennen hält, hat sicherzustellen, dass
 
@@ -932,6 +951,7 @@ Aufzeichnungen zu machen. § 4 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
 
 ### § 15 Anlagen zur Erprobung neuer Haltungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002002118)
 
 Die zuständige Behörde kann im Einzelfall für längstens drei Jahre zur
 Erprobung von neuartigen Haltungseinrichtungen Ausnahmen von einzelnen
@@ -946,10 +966,12 @@ Mindestanforderungen zum Schutz von Legehennen (ABl. EG Nr. L 203 S.
 
 
 ## Abschnitt 4 - Anforderungen an das Halten von Masthühnern
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000700308)
 
 
 
 ### § 16 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE003900308)
 
 Masthühner dürfen, unbeschadet der Anforderungen der §§ 3 und 4, in
 Betrieben mit 500 oder mehr Masthühnern nur nach Maßgabe der
@@ -978,6 +1000,7 @@ gehalten werden.
 
 
 ### § 17 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004000308)
 
 (1) Masthühner darf nach dem 30. Juni 2010 nur halten, wer im Besitz
 einer gültigen Bescheinigung der zuständigen Behörde oder der sonst
@@ -1089,6 +1112,7 @@ angeleitet werden.
 
 
 ### § 18 Anforderungen an Haltungseinrichtungen für Masthühner
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004100308)
 
 (1) Wer Masthühner hält, hat sicherzustellen, dass die
 Tränkevorrichtungen so installiert und instand gehalten werden, dass
@@ -1198,6 +1222,7 @@ wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
 
 ### § 19 Anforderungen an das Halten von Masthühnern
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004200308)
 
 (1) Wer Masthühner hält, hat sicherzustellen, dass
 
@@ -1347,6 +1372,7 @@ die Angaben aus den Aufzeichnungen nach Absatz 5 zusammengefasst sind.
 
 
 ### § 20 Überwachung und Folgemaßnahmen im Schlachthof
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004300308)
 
 (1) Der Halter eines Masthühnerbestands berechnet die tägliche
 Mortalitätsrate jedes Masttages sowie die kumulative tägliche
@@ -1405,10 +1431,12 @@ Untersuchungen sind der anordnenden Behörde unverzüglich vorzulegen.
 
 
 ## Abschnitt 5 - Anforderungen an das Halten von Schweinen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000502308)
 
 
 
 ### § 21 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002102308)
 
 Schweine dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur
 nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden. Die
@@ -1417,6 +1445,7 @@ außerhalb von Ställen.
 
 
 ### § 22 Allgemeine Anforderungen an Haltungseinrichtungen für Schweine
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002202308)
 
 (1) Schweine dürfen nur in Haltungseinrichtungen gehalten werden, die
 den Anforderungen der Absätze 2 bis 4 entsprechen.
@@ -1540,6 +1569,7 @@ wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
 
 ### § 23 Besondere Anforderungen an Haltungseinrichtungen für Saugferkel
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002303119)
 
 (1) Saugferkel dürfen nur in Haltungseinrichtungen gehalten werden,
 die den Anforderungen der Absätze 2 bis 4 entsprechen.
@@ -1558,6 +1588,7 @@ Liegebereich der Saugferkel muss abgedeckt sein.
 
 
 ### § 24 Besondere Anforderungen an Haltungseinrichtungen für Jungsauen und Sauen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002404119)
 
 (1) Jungsauen und Sauen dürfen nur in Haltungseinrichtungen gehalten
 werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
@@ -1613,6 +1644,7 @@ müssen so angelegt und beschaffen sein, dass
 
 
 ### § 25 Besondere Anforderungen an Haltungseinrichtungen für Eber
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002502308)
 
 Eber dürfen nur in Haltungseinrichtungen gehalten werden, die so
 beschaffen sind, dass der Eber sich ungehindert umdrehen und andere
@@ -1632,6 +1664,7 @@ benutzt werden, nur gehalten werden, wenn diese
 
 
 ### § 26 Allgemeine Anforderungen an das Halten von Schweinen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002604119)
 
 (1) Wer Schweine hält, hat sicherzustellen, dass
 
@@ -1734,6 +1767,7 @@ ungehindert umdrehen können.
 
 
 ### § 27 Besondere Anforderungen an das Halten von Saugferkeln
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002702308)
 
 (1) Saugferkel dürfen erst im Alter von über vier Wochen abgesetzt
 werden. Abweichend von Satz 1 darf ein Saugferkel früher abgesetzt
@@ -1786,6 +1820,7 @@ Temperatur nach folgender Tabelle nicht unterschritten wird:
 
 
 ### § 28 Besondere Anforderungen an das Halten von Absatzferkeln
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002804119)
 
 (1) Absatzferkel sind in der Gruppe zu halten. Umgruppierungen sind
 möglichst zu vermeiden.
@@ -1853,6 +1888,7 @@ Gruppen gehalten werden:
 
 
 ### § 29 Besondere Anforderungen an das Halten von Zuchtläufern und Mastschweinen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE002903119)
 
 (1) Zuchtläufer und Mastschweine sind in der Gruppe zu halten.
 Umgruppierungen sind möglichst zu vermeiden.
@@ -1894,6 +1930,7 @@ entsprechend.
 
 
 ### § 30 Besondere Anforderungen an das Halten von Jungsauen und Sauen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE003003119)
 
 (1) Jungsauen und Sauen dürfen nur nach Maßgabe der Absätze 2 bis 8
 gehalten werden.
@@ -2012,10 +2049,12 @@ Kot- und Harnentsorgung vereinbar ist.
 
 
 ## Abschnitt 6 - Anforderungen an das Halten von Kaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000602310)
 
 
 
 ### § 31 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004400310)
 
 (1) Kaninchen dürfen, unbeschadet der Anforderungen der §§ 3 und 4,
 nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
@@ -2034,6 +2073,7 @@ nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
 
 
 ### § 32 Allgemeine Anforderungen an Haltungseinrichtungen für Kaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004500310)
 
 (1) Kaninchen dürfen nur in Haltungseinrichtungen gehalten werden, die
 den Anforderungen der Absätze 2 bis 10 entsprechen.
@@ -2166,6 +2206,7 @@ Tränken sind täglich auf Dichtigkeit zu prüfen.
 
 
 ### § 33 Besondere Anforderungen an Haltungseinrichtungen für Mastkaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004600310)
 
 (1) Mastkaninchen dürfen nur in Haltungseinrichtungen gehalten werden,
 die den Anforderungen der Absätze 2 bis 5 entsprechen.
@@ -2242,6 +2283,7 @@ Mastkaninchen eine Tränkstelle vorhanden sein.
 
 
 ### § 34 Besondere Anforderungen an Haltungseinrichtungen für Zuchtkaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004700310)
 
 (1) Zuchtkaninchen dürfen nur in Haltungseinrichtungen gehalten
 werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
@@ -2345,6 +2387,7 @@ eine Tränkstelle vorhanden sein.
 
 
 ### § 35 Allgemeine Anforderungen an das Halten von Kaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004800310)
 
 (1) Wer Kaninchen hält, hat sicherzustellen, dass
 
@@ -2434,6 +2477,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ### § 35a Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE004900310)
 
 (1) Kaninchen darf nach dem 10. Februar 2015 nur halten, wer im Besitz
 einer gültigen Bescheinigung der zuständigen Behörde über seine
@@ -2535,6 +2579,7 @@ angewiesen und angeleitet werden.
 
 
 ### § 36 Besondere Anforderungen an das Halten von Mastkaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE005000310)
 
 (1) Mastkaninchen dürfen nicht einzeln gehalten werden. Abweichend von
 Satz 1 ist eine Einzelhaltung zulässig, wenn gesundheitliche oder
@@ -2578,6 +2623,7 @@ Behörde auf Verlangen vorzulegen.
 
 
 ### § 37 Besondere Anforderungen an das Halten von Zuchtkaninchen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE005100310)
 
 (1) Die Besamung oder das Decken der Häsin darf frühestens am 11. Tag
 nach der Geburt der Jungtiere des vorhergegangenen Wurfes erfolgen.
@@ -2622,18 +2668,22 @@ getrennt nach Häsinnen und Rammlern. § 35 Absatz 5 gilt entsprechend.
 
 
 ## Abschnitt 7 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000801124)
 
 
 
 ### (XXXX) §§ 38 bis 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE003303124)
 
 
 
 ## Abschnitt 8 - Ordnungswidrigkeiten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNG000306310)
 
 
 
 ### § 44 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001309119)
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2912,6 +2962,7 @@ drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
 
 ### § 45 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001409119)
 
 (1) Abweichend von § 5 Satz 1 Nummer 1 dürfen Kälber in
 Haltungseinrichtungen, die vor dem 9. Februar 2021 bereits genehmigt
@@ -3442,6 +3493,7 @@ Februar 2019 gehalten werden.
 
 
 ### § 46 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tierschnutztv/BJNR275800001.html#BJNR275800001BJNE001506310)
 
 -
 

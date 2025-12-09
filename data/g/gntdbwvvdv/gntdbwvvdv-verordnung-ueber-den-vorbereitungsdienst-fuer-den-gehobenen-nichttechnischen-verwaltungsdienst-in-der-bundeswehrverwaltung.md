@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
 Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer
@@ -36,9 +37,11 @@ das Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000100000)
 
 
 ### § 1 Studium
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000300000)
 
 Das Studium „Bachelor of Public Administration“ an der Hochschule des
 Bundes für öffentliche Verwaltung (Hochschule) ist der
@@ -47,6 +50,7 @@ Verwaltungsdienstes in der Bundeswehrverwaltung.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000400000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -56,6 +60,7 @@ erfüllen zu können.
 
 
 ### § 3 Einstellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000500000)
 
 (1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement
 der Bundeswehr.
@@ -69,6 +74,7 @@ nachgeordnete Behörde übertragen.
 
 
 ### § 4 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000600000)
 
 (1) Die Studierenden unterstehen der Dienstaufsicht der
 Einstellungsbehörde.
@@ -86,6 +92,7 @@ Einstellungsbehörde.
 
 
 ### § 5 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000701311)
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der
 nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren
@@ -113,6 +120,7 @@ herabgesetzt werden.
 
 
 ### § 6 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000800000)
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -127,6 +135,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 
 ### § 7 Elektronisches Informations- und Kommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE000900000)
 
 (1) Die Hochschule kann ein elektronisches Informations- und
 Kommunikationssystem nutzen, um den Studierenden die Informationen
@@ -168,9 +177,11 @@ und Kommunikationssystem abzurufen.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000200000)
 
 
 ### § 8 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001000000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
@@ -197,6 +208,7 @@ zurückgesandt.
 
 
 ### § 9 Anforderungen im Auswahlverfahren und Auswahlinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001100000)
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen
 und Bewerber die Anforderungen an ihre Eignung und Befähigung
@@ -227,6 +239,7 @@ unterstützt werden.
 
 
 ### § 10 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001200000)
 
 (1) Für das Auswahlverfahren richtet die Einstellungsbehörde eine
 Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen
@@ -257,6 +270,7 @@ nicht stimmberechtigt.
 
 
 ### § 11 Ergänzende Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001300000)
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -293,12 +307,14 @@ Ministerialblatt veröffentlicht.
 
 
 ### § 12 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001400000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 13 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001500000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier
 der folgenden Auswahlinstrumente eingesetzt werden:
@@ -325,6 +341,7 @@ einen Arbeitstag.
 
 
 ### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001600000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
 den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
@@ -337,6 +354,7 @@ teilgenommen haben.
 
 
 ### § 15 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001700000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der
 folgenden Auswahlinstrumente eingesetzt werden:
@@ -375,6 +393,7 @@ Schwerbehindertenvertretung ausdrücklich ablehnen.
 
 
 ### § 16 Bewertung der Eignungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001800000)
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
 den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
@@ -389,6 +408,7 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 
 ### § 17 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE001900000)
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
 Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
@@ -418,6 +438,7 @@ Rangfolge vor den anderen Bewerberinnen und Bewerbern geführt.
 
 
 ### § 18 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002000000)
 
 (1) In den Vorbereitungsdienst für den gehobenen nichttechnischen
 Verwaltungsdienst in der Bundeswehrverwaltung kann eingestellt werden,
@@ -451,9 +472,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000300000)
 
 
 ### § 19 Dauer des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002100000)
 
 (1) Das Studium dauert sechs Semester.
 
@@ -461,6 +484,7 @@ entsprechend.
 
 
 ### § 20 ECTS-Leistungspunkte
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002200000)
 
 (1) Je Semester erwerben die Studierenden 30 Leistungspunkte nach dem
 Europäischen System zur Übertragung und Akkumulierung von
@@ -474,6 +498,7 @@ Leistungspunkte benötigt.
 
 
 ### § 21 Module
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002301311)
 
 (1) Die Studieninhalte werden in Modulen vermittelt.
 
@@ -489,6 +514,7 @@ Studienfächern oder Studienfachkombinationen wählen.
 
 
 ### § 22 Verteilung und Inhalt der Module
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002401311)
 
 (1) Die Module verteilen sich wie folgt auf die Semester:
 
@@ -807,11 +833,13 @@ verpflichtend.
 
 
 ### § 23 Durchführungsort der Fachmodule
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002500000)
 
 Die Fachmodule werden an der Hochschule durchgeführt.
 
 
 ### § 24 Ziel der Praxismodule
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002600000)
 
 (1) In den Praxismodulen erwerben die Studierenden berufliche
 Kenntnisse und Fähigkeiten, vertiefen die in den Fachmodulen
@@ -824,6 +852,7 @@ Teamarbeit, erlangen.
 
 
 ### § 25 Durchführungsort der Praxismodule
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002700000)
 
 (1) Die Praxismodule I bis III finden in einer Oberbehörde oder einer
 Unterbehörde der Bundeswehrverwaltung statt. Sie werden von der
@@ -835,6 +864,7 @@ durchgeführt.
 
 
 ### § 26 Ausbildungsbeauftragte und Praxisbeauftragte für die Praxismodule
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002800000)
 
 (1) Für die Praxismodule bestimmt die Einstellungsbehörde im Benehmen
 mit der Hochschule Ausbildungsbeauftragte in den
@@ -851,12 +881,15 @@ und für die Einstellungsbehörde.
 
 
 ## Abschnitt 4 - Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000500000)
 
 
 #### § 27 Laufbahnprüfung und Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE002900000)
 
 (1) Die Bachelorprüfung ist die Laufbahnprüfung.
 
@@ -872,6 +905,7 @@ und für die Einstellungsbehörde.
 
 
 #### § 28 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003000000)
 
 (1) Die Hochschule richtet für Prüfungsangelegenheiten ein Prüfungsamt
 ein.
@@ -884,6 +918,7 @@ nicht weisungsgebunden.
 
 
 #### § 29 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003101311)
 
 (1) Die Prüfungsleistungen werden wie folgt bewertet:
 
@@ -1066,9 +1101,11 @@ kaufmännisch auf eine ganze Zahl gerundet.
 
 
 ### Unterabschnitt 2 - Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000600000)
 
 
 #### § 30 Module mit Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003200000)
 
 (1) In den Modulen 2 bis 19 und in den Praxismodulen ist jeweils eine
 Modulprüfung abzulegen.
@@ -1080,6 +1117,7 @@ die Modulprüfung aus mehreren Prüfungsleistungen bestehen.
 
 
 #### § 31 Prüfungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003300000)
 
 (1) Die Modulprüfungen sollen innerhalb desjenigen Semesters
 abgenommen werden, in dem das Modul absolviert wird.
@@ -1096,6 +1134,7 @@ Verteidigung der Bachelorthesis abgeschlossen sein.
 
 
 #### § 32 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003400000)
 
 (1) Für die Bewertung der Modulprüfungen in den Fachmodulen werden die
 Prüfenden durch das Prüfungsamt bestellt. Sie sollen haupt- oder
@@ -1123,6 +1162,7 @@ nicht weisungsgebunden.
 
 
 #### § 33 Prüfungsformen und Praxisbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003500000)
 
 (1) In den Fachmodulen sind folgende Prüfungsformen möglich:
 
@@ -1189,6 +1229,7 @@ Ausbildungsdienststelle.
 
 
 #### § 34 Grundsätze zu den einzelnen Prüfungsformen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003600000)
 
 (1) In einer Klausur bearbeitet die oder der Studierende eine Aufgabe
 oder mehrere Aufgaben oder einen Fall oder mehrere Fälle aus den
@@ -1222,6 +1263,7 @@ aufgeführten Kompetenzen üben.
 
 
 #### § 35 Gesamtbewertung eines Moduls
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003700000)
 
 (1) Für die Module 2 bis 19 und für die Praxismodule I bis III
 ermittelt das Prüfungsamt für jedes Modul eine Gesamtbewertung.
@@ -1264,6 +1306,7 @@ in einer Ordnung.
 
 
 #### § 36 Sprachprüfung und Sprachprüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003800000)
 
 (1) In der Sprachprüfung werden die folgenden Fertigkeiten geprüft:
 
@@ -1350,6 +1393,7 @@ jede Fertigkeit die Bewertung mit den erreichten Leistungsstufen.
 
 
 #### § 37 Bestehen einer Modulprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE003900000)
 
 (1) Eine Modulprüfung ist bestanden, wenn in der Gesamtbewertung eine
 Rangpunktzahl von mindestens 5,00 erreicht worden ist.
@@ -1360,6 +1404,7 @@ gerundet.
 
 
 #### § 38 Wiederholung nichtbestandener Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004000000)
 
 (1) Eine nichtbestandene Modulprüfung kann einmal wiederholt werden.
 
@@ -1371,9 +1416,11 @@ Sie sollen im jeweils folgenden Semester liegen.
 
 
 ### Unterabschnitt 3 - Abschlussarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000700000)
 
 
 #### § 39 Bestandteile der Abschlussarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004100000)
 
 Die Abschlussarbeit besteht aus
 
@@ -1387,6 +1434,7 @@ Die Abschlussarbeit besteht aus
 
 
 #### § 40 Ziel der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004200000)
 
 Durch die Bachelorthesis sollen die Studierenden nachweisen, dass sie
 fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -1395,6 +1443,7 @@ selbständig zu bearbeiten.
 
 
 #### § 41 Thema und Bearbeitungszeit der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004300000)
 
 (1) Das Thema der Bachelorthesis wird vom Prüfungsamt festgelegt. Die
 Lehrenden der Hochschule schlagen dem Prüfungsamt ein Thema vor. Den
@@ -1417,6 +1466,7 @@ Bachelorthesis regelt die Hochschule in einer Ordnung.
 
 
 #### § 42 Prüfende für die Bachelorthesis und die Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004400000)
 
 (1) Sobald das Thema der Bachelorthesis festgelegt worden ist,
 bestellt das Prüfungsamt zwei Prüfende für die Bewertung der
@@ -1458,6 +1508,7 @@ nicht weisungsgebunden.
 
 
 #### § 43 Freistellung und Betreuung bei der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004501311)
 
 (1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die
 letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht
@@ -1470,6 +1521,7 @@ Studierende von der oder dem Erstprüfenden betreut.
 
 
 #### § 44 Abgabe der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004600000)
 
 (1) Die Bachelorthesis ist innerhalb der Bearbeitungszeit beim
 Prüfungsamt abzugeben.
@@ -1490,6 +1542,7 @@ versichern, dass sie oder er
 
 
 #### § 45 Bewertung und Bestehen der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004700000)
 
 (1) Für die Bewertung der Bachelorthesis ist ein Gutachten zu
 erstellen.
@@ -1511,6 +1564,7 @@ Rangpunkten bewertet worden ist.
 
 
 #### § 46 Wiederholung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004800000)
 
 (1) Ist die Bachelorthesis nicht bestanden worden, so kann sie einmal
 wiederholt werden.
@@ -1523,6 +1577,7 @@ beträgt drei Monate. Sie beginnt mit der Ausgabe des Themas.
 
 
 #### § 47 Zulassung zur Verteidigung der Bachelorthesis und Termin
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE004900000)
 
 (1) Zugelassen zur Verteidigung der Bachelorthesis wird, wer
 
@@ -1540,6 +1595,7 @@ Prüfungsamt fest.
 
 
 #### § 48 Bestandteile der Verteidigung der Bachelorthesis und Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005000000)
 
 (1) Die Verteidigung der Bachelorthesis besteht aus
 
@@ -1595,6 +1651,7 @@ unterschreiben.
 
 
 #### § 49 Bewertung und Bestehen der Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005100000)
 
 (1) Folgende Teile der Verteidigung der Bachelorthesis werden
 gesondert bewertet:
@@ -1630,6 +1687,7 @@ Bachelorthesis wird kaufmännisch auf eine ganze Zahl gerundet.
 
 
 #### § 50 Zuhörende bei der Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005200000)
 
 (1) Die Verteidigung der Bachelorthesis ist hochschulöffentlich, es
 sei denn, die oder der Studierende widerspricht dem.
@@ -1639,6 +1697,7 @@ die Zulassung entscheidet das Prüfungsamt nach Voranmeldung.
 
 
 #### § 51 Wiederholung der Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005300000)
 
 (1) Ist die Verteidigung der Bachelorthesis nicht bestanden worden,
 kann sie einmal wiederholt werden.
@@ -1648,6 +1707,7 @@ des Ergebnisses stattfinden.
 
 
 #### § 52 Note der Abschlussarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005400000)
 
 (1) Ist die Verteidigung der Bachelorthesis bestanden worden, legt das
 Prüfungsamt die Note der Abschlussarbeit fest.
@@ -1671,9 +1731,11 @@ der Abschlussarbeit zugeordnet.
 
 
 ### Unterabschnitt 4 - Weitere gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000800000)
 
 
 #### § 53 Bestehen der Bachelorprüfung und akademischer Grad
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005500000)
 
 (1) Die Bachelorprüfung hat bestanden, wer
 
@@ -1694,6 +1756,7 @@ akademischen Grad „Bachelor of Laws (LL. B.)“.
 
 
 #### § 54 Rangpunktzahl der Bachelorprüfung und Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005601311)
 
 (1) Hat die oder der Studierende die Bachelorprüfung bestanden, so
 ermittelt das Prüfungsamt für sie oder ihn die Rangpunktzahl der
@@ -1737,6 +1800,7 @@ entsprechende Note als Abschlussnote zugeordnet.
 
 
 #### § 55 Abschlusszeugnis, Bachelorurkunde und Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005700000)
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält
 
@@ -1804,6 +1868,7 @@ ausgestellt.
 
 
 #### § 56 Bescheid über die nichtbestandene Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005800000)
 
 (1) Wer die Bachelorprüfung nicht bestanden hat, erhält vom
 Prüfungsamt
@@ -1830,6 +1895,7 @@ Prüfungsamt
 
 
 #### § 57 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE005901311)
 
 (1) Sind Studierende an der Erbringung einer Prüfungsleistung ganz
 oder teilweise gehindert, so können sie beim Prüfungsamt beantragen,
@@ -1861,6 +1927,7 @@ Rangpunkten bewertet.
 
 
 #### § 58 Täuschung und Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006000000)
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
 täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen
@@ -1901,6 +1968,7 @@ anzuhören.
 
 
 #### § 59 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006101311)
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -1939,9 +2007,11 @@ eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
 ## Abschnitt 5 - Anerkennung und Anrechnung von außerhalb des Studiengangs erworbenen Kompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG000900000)
 
 
 ### § 60 Anerkennung von Studien- und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006201311)
 
 (1) Auf Antrag werden Studien- und Prüfungsleistungen, die an anderen
 staatlichen oder staatlich anerkannten Hochschulen oder
@@ -1957,6 +2027,7 @@ Unterlagen vorzulegen.
 
 
 ### § 61 Anrechnung von nicht an einer Hochschule erworbenen Kenntnissen und Fähigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006300000)
 
 (1) Kenntnisse und Fähigkeiten, die nicht an einer Hochschule erworben
 worden sind, können höchstens bis zu 50 Prozent der
@@ -1973,6 +2044,7 @@ Unterlagen vorzulegen.
 
 
 ### § 62 Anrechnungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006400000)
 
 (1) Die Hochschule bestimmt eine Anrechnungsbeauftragte oder einen
 Anrechnungsbeauftragten.
@@ -1983,15 +2055,18 @@ Anrechnung und Anerkennung.
 
 
 ### § 63 Ordnung der Hochschule zum Anrechnungs- und Anerkennungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006500000)
 
 Näheres zum Anrechnungs- und Anerkennungsverfahren regelt die
 Hochschule in einer Ordnung.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNG001000000)
 
 
 ### § 64 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006600000)
 
 Für Studierende, die vor dem 1. April 2019 mit dem Vorbereitungsdienst
 begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und
@@ -2003,6 +2078,7 @@ Fassung weiter anzuwenden.
 
 
 ### § 65 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gntdbwvvdv/BJNR020500019.html#BJNR020500019BJNE006700000)
 
 Diese Verordnung tritt am 1. April 2019 in Kraft. Gleichzeitig tritt
 die Verordnung über die Laufbahn, Ausbildung und Prüfung für den

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkausg/BJNR230620002.html#BJNR230620002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkausg/BJNR230620002.html#BJNR230620002BJNE000200000)
 
 Dem in Canberra am 13. Dezember 2000 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und Australien über Soziale Sicherheit
@@ -32,6 +34,7 @@ wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkausg/BJNR230620002.html#BJNR230620002BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -64,6 +67,7 @@ zu treffen über:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkausg/BJNR230620002.html#BJNR230620002BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

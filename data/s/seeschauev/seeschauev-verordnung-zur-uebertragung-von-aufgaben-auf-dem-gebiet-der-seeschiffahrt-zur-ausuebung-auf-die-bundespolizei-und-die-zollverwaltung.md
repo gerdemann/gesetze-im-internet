@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seescha_v/BJNR007330982.html#BJNR007330982BJNE000100326)
 
 Auf Grund des § 3 Abs. 2 des Gesetzes über die Aufgaben des Bundes auf
 dem Gebiet der Seeschiffahrt in der Fassung der Bekanntmachung vom 30.
@@ -31,6 +32,7 @@ Bundesminister der Finanzen verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/seescha_v/BJNR007330982.html#BJNR007330982BJNE000202308)
 
 (1) Seewärts der Begrenzung des deutschen Küstenmeeres werden der
 Bundespolizei und der Zollverwaltung folgende Aufgaben nach § 1 Nr. 3
@@ -105,18 +107,21 @@ erreichbar ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/seescha_v/BJNR007330982.html#BJNR007330982BJNE000301308)
 
 Die Bundespolizei und die Zollverwaltung nehmen die Aufgaben nach den
 von den zuständigen Behörden erteilten fachlichen Weisungen wahr.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/seescha_v/BJNR007330982.html#BJNR007330982BJNE000400326)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seescha_v/BJNR007330982.html#BJNR007330982BJNE000500326)
 
 Der Bundesminister für Verkehr
 

@@ -28,6 +28,7 @@ Zuletzt geändert durch
 [^bjnr125700998_01_BJNR125700998]: 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -38,6 +39,7 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000201308)
 
 (1) Der Ausbildungsberuf Fachangestellter für Medien- und
 Informationsdienste/Fachangestellte für Medien- und
@@ -66,11 +68,13 @@ gewählt werden.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000401308)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -195,6 +199,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000501308)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -213,12 +218,14 @@ ist auch in den Prüfungen nach den §§ 7 bis 12 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000600310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000700310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -227,6 +234,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000800310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -255,6 +263,7 @@ Prüfungsgebieten durchzuführen:
 
 
 ## § 8 Abschlußprüfung in der Fachrichtung Archiv
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE000900310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Archiv erstreckt sich auf
 die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 1 aufgeführten
@@ -366,6 +375,7 @@ bestanden.
 
 
 ## § 9 Abschlußprüfung in der Fachrichtung Bibliothek
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001000310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Bibliothek erstreckt sich
 auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 2
@@ -477,6 +487,7 @@ bestanden.
 
 
 ## § 10 Abschlußprüfung in der Fachrichtung Information und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001100310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Information und
 Dokumentation erstreckt sich auf die in der Anlage 1 Abschnitt I und
@@ -586,6 +597,7 @@ bestanden.
 
 
 ## § 11 Abschlußprüfung in der Fachrichtung Bildagentur
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001200310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Bildagentur erstreckt sich
 auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 4
@@ -695,6 +707,7 @@ bestanden.
 
 
 ## § 12 Abschlussprüfung in der Fachrichtung Medizinische Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001700308)
 
 (1) Die Abschlussprüfung in der Fachrichtung Medizinische
 Dokumentation erstreckt sich auf die in der Anlage 1 Abschnitt I und
@@ -804,6 +817,7 @@ bestanden.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001301308)
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -816,12 +830,14 @@ Vorschriften vereinbaren.
 
 
 ## § 14 Inkrafttreten/Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001401308)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 (zu § 4)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001501308)
 
 (Fundstelle: BGBl. I 1998, S. 1262 - 1266
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1807,6 +1823,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum/zur
 Fachangestellten für Medien- und Informationsdienste
 
 ## Anlage 2 - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/medinfofangausbv/BJNR125700998.html#BJNR125700998BJNE001601308)
 
 (Fundstelle: BGBl. I 1998, S. 1267 - 1275, 2426,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl_1990/BJNR022590990.html#BJNR022590990BJNE000100308)
 
 Das Ordenskapitel des Ordens Pour le merite für Wissenschaften und
 Künste hat am 29. Mai 1990 eine Änderung der Satzung des Ordens

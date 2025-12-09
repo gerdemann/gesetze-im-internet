@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khkapsurv/BJNR626200022.html#BJNR626200022BJNE000100000)
 
 Das Bundesministerium für Gesundheit verordnet auf Grund des § 13
 Absatz 7 Satz 4 Nummer 1, 2, 4 und 5 des Infektionsschutzgesetzes, der
@@ -25,6 +26,7 @@ durch Artikel 1 Nummer 8 Buchstabe c des Gesetzes vom 16. September
 
 
 ## § 1 Angabe für die Ermittlung nicht intensivmedizinischer somatischer Behandlungskapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/khkapsurv/BJNR626200022.html#BJNR626200022BJNE000200000)
 
 (1) Zur Ermittlung der nicht intensivmedizinischen somatischen
 Behandlungskapazitäten ist als erforderliche Angabe im Sinne von § 13
@@ -38,6 +40,7 @@ Kindern belegten Betten, zu übermitteln.
 
 
 ## § 2 Angaben für die Ermittlung intensivmedizinischer Behandlungskapazitäten
+[Direktlink](https://www.gesetze-im-internet.de/khkapsurv/BJNR626200022.html#BJNR626200022BJNE000301000)
 
 (1) Zur Ermittlung der intensivmedizinischen Behandlungskapazitäten
 sind als erforderliche Angaben im Sinne von § 13 Absatz 7 Satz 4
@@ -107,6 +110,7 @@ maschinenlesbarer Form aus anderen IT-Systemen übermittelt werden.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/khkapsurv/BJNR626200022.html#BJNR626200022BJNE000400000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.

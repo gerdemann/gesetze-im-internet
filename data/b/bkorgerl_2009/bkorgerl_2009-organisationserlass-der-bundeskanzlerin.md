@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2009/BJNR002200009.html#BJNR002200009BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 Wirkung zum 1. Januar 2009 an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2009/BJNR002200009.html#BJNR002200009BJNE000200000)
 
 Dem Bundesministerium für Bildung und Forschung wird unter teilweiser
 Aufhebung der Organisationserlasse des Bundeskanzlers von Dezember
@@ -54,6 +56,7 @@ f)  Zoologisches Forschungsmuseum Alexander Koenig, Bonn (ZFMK).
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2009/BJNR002200009.html#BJNR002200009BJNE000300000)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
@@ -61,6 +64,7 @@ Bundeskanzleramtes mitgeteilt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2009/BJNR002200009.html#BJNR002200009BJNE000400000)
 
 Die Bundeskanzlerin
 

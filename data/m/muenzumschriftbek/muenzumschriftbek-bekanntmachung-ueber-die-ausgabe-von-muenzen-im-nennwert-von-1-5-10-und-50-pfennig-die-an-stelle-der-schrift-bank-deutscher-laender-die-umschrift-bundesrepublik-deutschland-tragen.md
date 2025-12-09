@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nzumschriftbek/BJNR508800950.html#BJNR508800950BJNE000100314)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des
 Geldwesens (Emissionsgesetz) werden demnächst Münzen zu 1, 5, 10 und

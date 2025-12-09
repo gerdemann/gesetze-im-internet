@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1 Zustimmung zum Versorgungslastenteilungs-Staatsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtrg/BJNR128800010.html#BJNR128800010BJNE000100000)
 
 Dem am 16. Dezember 2009 und 26. Januar 2010 unterzeichneten
 Staatsvertrag über die Verteilung von Versorgungslasten bei bund- und
@@ -27,11 +28,13 @@ veröffentlicht.
 
 
 ## (XXXX) Art 2 bis Art 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtrg/BJNR128800010.html#BJNR128800010BJNE000200000)
 
 -
 
 
 ## Art 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vsorglastvteilstvtrg/BJNR128800010.html#BJNR128800010BJNE000300000)
 
 (1) Artikel 1 tritt am Tag nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/trverjg/BJNR098600993.html#BJNR098600993BJNE000100307)
 
 (1) Ansprüche wegen unberechtigter oder rechtswidriger Erlangung von
 DM-Gegenwerten aus der Verrechnung von Transferrubeln bzw. bilateralen

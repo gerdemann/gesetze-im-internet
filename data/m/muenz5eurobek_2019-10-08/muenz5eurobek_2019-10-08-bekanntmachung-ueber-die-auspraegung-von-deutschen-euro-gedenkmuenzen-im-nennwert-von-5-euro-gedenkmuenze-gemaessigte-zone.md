@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5eurobek_2019-10-08/BJNR154300019.html#BJNR154300019BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-
@@ -60,11 +61,13 @@ wurde von der Künstlerin Stefanie Radtke aus Leipzig gestaltet.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5eurobek_2019-10-08/BJNR154300019.html#BJNR154300019BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5eurobek_2019-10-08/BJNR154300019.html#BJNR154300019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 1543)
 

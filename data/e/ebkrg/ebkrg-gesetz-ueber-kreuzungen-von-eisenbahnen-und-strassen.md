@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000100312)
 
 (1) Dieses Gesetz gilt für Kreuzungen von Eisenbahnen und Straßen.
 
@@ -48,6 +49,7 @@ Baulast der kreuzenden Straße.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000200312)
 
 (1) Neue Kreuzungen von Eisenbahnen und Straßen, die nach der
 Beschaffenheit ihrer Fahrbahn geeignet und dazu bestimmt sind, einen
@@ -63,6 +65,7 @@ beiden Verkehrswege oder beide Verkehrswege neu angelegt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000300312)
 
 Wenn und soweit es die Sicherheit oder die Abwicklung des Verkehrs
 unter Berücksichtigung der übersehbaren Verkehrsentwicklung erfordert,
@@ -86,6 +89,7 @@ Anordnung im Kreuzungsrechtsverfahren (§§ 6 und 7) Kreuzungen
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000400312)
 
 (1) Erfordert die Linienführung einer neu zu bauenden Straße oder
 Eisenbahn eine Kreuzung, so hat der andere Beteiligte die neue
@@ -98,6 +102,7 @@ und betrieblichen Belange sind angemessen zu berücksichtigen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000505360)
 
 (1) Über Art, Umfang und Durchführung einer nach § 2 oder § 3
 durchzuführenden Maßnahme sowie über die Verteilung der Kosten sollen
@@ -118,12 +123,14 @@ Maßnahme ein Planfeststellungsverfahren durchgeführt wird.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000600312)
 
 Kommt eine Vereinbarung nicht zustande, so kann jeder Beteiligte eine
 Anordnung im Kreuzungsrechtsverfahren beantragen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000700312)
 
 Die Anordnungsbehörde kann das Kreuzungsrechtsverfahren auch ohne
 Antrag einleiten, wenn die Sicherheit oder die Abwicklung des Verkehrs
@@ -132,6 +139,7 @@ für Maßnahmen nach § 3 vorlegen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000805360)
 
 (1) Wenn an der Kreuzung ein Schienenweg einer Eisenbahn des Bundes
 beteiligt ist, entscheidet als Anordnungsbehörde das Bundesministerium
@@ -143,11 +151,13 @@ Landesrecht zuständige Behörde.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE000902314)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001000312)
 
 (1) Wird eine Maßnahme nach § 2 oder § 3 angeordnet, so ist über Art
 und Umfang der Maßnahme, über die Duldungspflicht sowie über die
@@ -177,6 +187,7 @@ zuzustellen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001100312)
 
 (1) Wird eine neue Kreuzung hergestellt, so hat der Beteiligte, dessen
 Verkehrsweg neu hinzukommt, die Kosten der Kreuzungsanlage zu tragen.
@@ -189,6 +200,7 @@ zu tragen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001201360)
 
 (1) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so
 fallen die dadurch entstehenden Kosten
@@ -216,6 +228,7 @@ Anordnung eine solche Änderung hätten verlangen müssen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001303360)
 
 (1) Wird an einem Bahnübergang eine Maßnahme nach § 3 durchgeführt, so
 tragen die Beteiligten je ein Drittel der Kosten. Das letzte Drittel
@@ -243,6 +256,7 @@ wird.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001401360)
 
 (1) Die Anlagen an Kreuzungen, soweit sie Eisenbahnanlagen sind, hat
 der Eisenbahnunternehmer, soweit sie Straßenanlagen sind, der Träger
@@ -276,6 +290,7 @@ Eisenbahnanlagen, Straßenüberführungen zu den Straßenanlagen.
 
 
 ## § 14a
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001502360)
 
 (1) Wird die Straße eingezogen oder der Betrieb der Eisenbahn dauernd
 eingestellt, so bleiben die Beteiligten verpflichtet, die
@@ -316,6 +331,7 @@ Verkehrswert des Grundstücks zugrunde zu legen ist.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001601360)
 
 (1) Wird eine neue Kreuzung hergestellt, so hat im Fall des § 11 Abs.
 1 der Beteiligte, dessen Verkehrsweg neu hinzukommt, die hierdurch
@@ -340,6 +356,7 @@ abzulösen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001704305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
@@ -370,6 +387,7 @@ für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001801360)
 
 Zur Förderung des Baus und des Ausbaus kommunaler Radwege sowie von
 Maßnahmen nach den §§ 2 und 3 soll die Anordnungsbehörde den
@@ -377,12 +395,14 @@ Beteiligten Zuschüsse gewähren.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE001900312)
 
 Die Aufsichtsbehörden haben die Durchführung der Anordnung nach diesem
 Gesetz sicherzustellen.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE002002307)
 
 (1) Bisherige Vereinbarungen, die sich auf Kreuzungen zwischen Straßen
 und Straßenbahnen, Anschlußbahnen sowie den Anschlußbahnen
@@ -405,6 +425,7 @@ bis zum Zeitpunkt des gesetzlichen Übergangs der Baulast.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE002101360)
 
 § 13 Absatz 2 Satz 2 kommt nicht zur Anwendung für Maßnahmen, über die
 die Beteiligten nach § 1 Absatz 6 des Eisenbahnkreuzungsgesetzes vor
@@ -412,6 +433,7 @@ dem 1. Januar 2022 eine Vereinbarung getroffen haben.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/ebkrg/BJNR006810963.html#BJNR006810963BJNE002200312)
 
 Dieses Gesetz tritt am 1. Januar 1964 in Kraft.
 

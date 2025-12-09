@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmaszustano/BJNR116200006.html#BJNR116200006BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -35,6 +36,7 @@ Angelegenheiten von Amtsbezügen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmaszustano/BJNR116200006.html#BJNR116200006BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Vertretung des Bundesministeriums für Arbeit
@@ -45,11 +47,13 @@ Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmaszustano/BJNR116200006.html#BJNR116200006BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 22. November 2005 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmaszustano/BJNR116200006.html#BJNR116200006BJNE000400000)
 
 Der Bundesminister für Arbeit und Soziales
 

@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000200000)
 
 Es wird ein Sondervermögen des Bundes "Kinderbetreuungsausbau"
 errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000301119)
 
 Aus dem Sondervermögen sollen Investitionen zum Ausbau der Betreuung
 von Kindern gefördert werden. Das Nähere wird durch eine Regelung nach
@@ -33,6 +35,7 @@ Artikel 104b des Grundgesetzes bestimmt.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000400000)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
 Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der
@@ -48,12 +51,14 @@ die Verbindlichkeiten des Sondervermögens.
 
 
 ## § 4 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000500000)
 
 Der Bund stellt dem Sondervermögen im Jahr 2007 einen einmaligen
 Betrag in Höhe von 2,15 Milliarden Euro zur Verfügung.
 
 
 ## § 4a Aufstockung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE001003126)
 
 (1) Der Bund stellt dem Sondervermögen zur Finanzierung der Errichtung
 von 30 000 zusätzlichen Betreuungsplätzen für Kinder unter drei Jahren
@@ -119,6 +124,7 @@ Euro zur Verfügung. Der in Satz 1 genannte Betrag beläuft sich im Jahr
 
 
 ## § 5 Wirtschaftsplan, Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000600000)
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt, der dem Einzelplan 17 des
@@ -132,6 +138,7 @@ Bundeshaushaltsordnung anzuwenden.
 
 
 ## § 6 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000700000)
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend stellt
 die Jahresrechnung für das Sondervermögen auf und übermittelt sie an
@@ -140,11 +147,13 @@ Haushaltsrechnung des Bundes beizufügen.
 
 
 ## § 7 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000800000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 8 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/kbfg/BJNR302210007.html#BJNR302210007BJNE000907377)
 
 Das Sondervermögen ist nach Erfüllung seiner gesetzlichen Aufgaben,
 spätestens mit Ablauf des Jahres 2026 aufzulösen. Ein verbleibendes

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000100000)
 
 
 ### § 1 Ausweispflicht; Ausweisrecht
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000205116)
 
 (1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind
 verpflichtet, einen gültigen Ausweis zu besitzen, sobald sie 16 Jahre
@@ -78,6 +80,7 @@ Personen von der Ausweispflicht befreien,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000306116)
 
 (1) Ausweise im Sinne dieses Gesetzes sind der Personalausweis, der
 vorläufige Personalausweis und der Ersatz-Personalausweis.
@@ -169,6 +172,7 @@ können.
 
 
 ### § 3 Vorläufiger Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000400000)
 
 (1) Macht die antragstellende Person glaubhaft, dass sie sofort einen
 Ausweis benötigt, ist ihr ein vorläufiger Personalausweis
@@ -179,6 +183,7 @@ zuständig.
 
 
 ### § 4 Eigentum am Ausweis; Ausweishersteller; Vergabestelle für Berechtigungszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000503130)
 
 (1) Niemand darf mehr als einen auf seine Person ausgestellten
 gültigen Ausweis der Bundesrepublik Deutschland besitzen.
@@ -209,6 +214,7 @@ beim Auswärtigen Amt gefertigt werden.
 
 
 ### § 5 Ausweismuster; gespeicherte Daten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000609130)
 
 (1) Ausweise sind nach einheitlichen Mustern auszustellen.
 
@@ -399,6 +405,7 @@ nach § 18.
 
 
 ### § 6 Gültigkeitsdauer des Ausweises; vorzeitige Beantragung; räumliche Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000703130)
 
 (1) Personalausweise werden für eine Gültigkeitsdauer von zehn Jahren
 ausgestellt.
@@ -432,6 +439,7 @@ Grenzfahndungsbestand gespeichert werden.
 
 
 ### § 6a Versagung und Entziehung; Ersatz-Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003800116)
 
 (1) Ein Personalausweis oder ein vorläufiger Personalausweis kann
 unter den Voraussetzungen des § 7 Absatz 1 Nummer 1 oder Nummer 10 des
@@ -489,6 +497,7 @@ zuständig.
 
 
 ### § 7 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000803116)
 
 (1) Für Ausweisangelegenheiten in Deutschland sind die von den Ländern
 bestimmten Behörden zuständig (Personalausweisbehörden).
@@ -527,6 +536,7 @@ des § 21 Absatz 4 Satz 3.
 
 
 ### § 7a Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004700130)
 
 (1) Das Bundesministerium des Innern und für Heimat kann
 teilrechtsfähigen Vereinigungen sowie juristischen Personen des
@@ -582,6 +592,7 @@ nehmen.
 
 
 ### § 8 Örtliche Zuständigkeit; Tätigwerden bei örtlicher Unzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE000901130)
 
 (1) In Deutschland ist die Personalausweisbehörde zuständig, in deren
 Bezirk die antragstellende Person oder der Ausweisinhaber für seine
@@ -612,9 +623,11 @@ ausgestellt werden.
 
 
 ## Abschnitt 2 - Ausstellung und Sperrung des Ausweises; elektronischer Identitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000201116)
 
 
 ### § 9 Ausstellung des Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001004116)
 
 (1) Personalausweise und vorläufige Personalausweise werden auf Antrag
 für Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes
@@ -686,6 +699,7 @@ bis 3 sowie die Absätze 4 und 5 gelten entsprechend.
 
 
 ### § 10 Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identitätsnachweises mit dem Personalausweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001105130)
 
 (1) Der Personalausweis wird mit einer Funktion zum elektronischen
 Identitätsnachweis nach § 18 ausgegeben.
@@ -767,6 +781,7 @@ und der ausstellenden Personalausweisbehörde mitzuteilen.
 
 
 ### § 10a Einrichtung des elektronischen Identitätsnachweises mit einem mobilen Endgerät
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004500116)
 
 (1) Auf elektronische Veranlassung durch den Ausweisinhaber
 übermittelt der Ausweishersteller die Daten nach § 5 Absatz 5a aus dem
@@ -820,6 +835,7 @@ durchzuführen.
 
 
 ### § 11 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001204116)
 
 (1) Auf Verlangen des Personalausweisinhabers hat die
 Personalausweisbehörde ihm Einsicht in die im elektronischen Speicher-
@@ -867,6 +883,7 @@ Funktion zum elektronischen Identitätsnachweis.
 
 
 ### § 12 Form und Verfahren der Datenerfassung, -prüfung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001304116)
 
 (1) Die Datenübermittlung von den Personalausweisbehörden an den
 Ausweishersteller zum Zweck der Ausweisherstellung, insbesondere die
@@ -893,13 +910,16 @@ Rechtsverordnung nach § 34 Satz 1 Nummer 4 festzustellen.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001402130)
 
 
 
 ## Abschnitt 3 - Umgang mit personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000300000)
 
 
 ### § 14 Erhebung und Verwendung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001500000)
 
 Die Erhebung und Verwendung personenbezogener Daten aus dem Ausweis
 oder mithilfe des Ausweises darf ausschließlich erfolgen durch
@@ -916,6 +936,7 @@ oder mithilfe des Ausweises darf ausschließlich erfolgen durch
 
 
 ### § 15 Automatisierter Abruf und automatisierte Speicherung durch zur Identitätsfeststellung berechtigte Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001600000)
 
 (1) Zur Identitätsfeststellung berechtigte Behörden dürfen den Ausweis
 nicht zum automatisierten Abruf personenbezogener Daten verwenden.
@@ -950,6 +971,7 @@ Feststellung geführt haben.
 
 
 ### § 16 Echtheitsprüfung und Identitätsprüfung; Verarbeitung von Personalausweisdaten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001703130)
 
 (1) Soweit die Polizeivollzugsbehörden, die Zollverwaltung, die
 Steuerfahndungsstellen der Länder sowie die Personalausweis-, Pass-
@@ -986,6 +1008,7 @@ der Identität des Ausweisinhabers zu löschen.
 
 
 ### § 17 Verarbeitung der sichtbaren Daten des Personalausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001801130)
 
 (1) Die in § 16 Absatz 1 Satz 1 genannten Behörden dürfen die auf dem
 Personalausweis sichtbar aufgedruckten Daten durch nicht
@@ -1001,6 +1024,7 @@ auslesen und unter den Voraussetzungen des § 16 Absatz 2 speichern. §
 
 
 ### § 18 Elektronischer Identitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE001906130)
 
 (1) Der Personalausweisinhaber, der mindestens 16 Jahre alt ist, kann
 den elektronischen Identitätsnachweis dazu verwenden, seine Identität
@@ -1125,6 +1149,7 @@ verwenden.
 
 
 ### § 18a Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003900116)
 
 (1) Der Ausweisinhaber kann seinen Personalausweis ferner dazu
 verwenden, die in § 18 Absatz 3 Satz 2 genannten Daten zum Zwecke der
@@ -1142,6 +1167,7 @@ das Speicher- und Verarbeitungsmedium des Personalausweises
 
 
 ### § 19 Speicherung im Rahmen des elektronischen Identitätsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003704116)
 
 (1) Die Speicherung eines Sperrmerkmals ist ausschließlich zulässig
 
@@ -1205,6 +1231,7 @@ Ausfüllen des Formulars nach § 18 oder nach § 18a identifiziert hat.
 
 
 ### § 19a Speicherung durch Identifizierungsdiensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004000116)
 
 (1) Ein Identifizierungsdiensteanbieter darf die personenbezogenen
 Daten des Ausweisinhabers ausschließlich zum Zwecke der bei ihm in
@@ -1222,6 +1249,7 @@ den Auftraggeber übermittelt wurden.
 
 
 ### § 20 Verwendung durch öffentliche und nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002104130)
 
 (1) Der Inhaber kann den Ausweis bei öffentlichen und
 nichtöffentlichen Stellen als Identitätsnachweis und
@@ -1324,9 +1352,11 @@ unzulässig.
 
 
 ## Abschnitt 4 - Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000401360)
 
 
 ### § 20a Hoheitliche Berechtigungszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004400360)
 
 (1) Zur Identitätsfeststellung berechtigte Behörden erhalten
 hoheitliche Berechtigungszertifikate, die ausschließlich für die
@@ -1344,6 +1374,7 @@ Testausweisen.
 
 
 ### § 21 Berechtigungen für Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002202116)
 
 (1) Um Daten im Wege des elektronischen Identitätsnachweises
 anzufragen, benötigen Diensteanbieter eine Berechtigung. Die
@@ -1408,6 +1439,7 @@ anzufragen.
 
 
 ### § 21a Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004100116)
 
 Um Ausweisdaten nach § 18a unter Anwesenden vor Ort auslesen zu
 dürfen, benötigen Vor-Ort-Diensteanbieter eine Vor-Ort-Berechtigung
@@ -1416,6 +1448,7 @@ entsprechend.
 
 
 ### § 21b Berechtigung für Identifizierungsdiensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004201116)
 
 (1) Wer als Identifizierungsdiensteanbieter die Funktion des
 elektronischen Identitätsnachweises nach § 18 Absatz 2 Satz 1 in
@@ -1439,6 +1472,7 @@ Im Übrigen gilt § 21 entsprechend.
 
 
 ### § 22 Elektronische Signatur
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002301116)
 
 Der Personalausweis kann als qualifizierte elektronische
 Signaturerstellungseinheit im Sinne des Artikels 3 Nummer 23 der
@@ -1449,9 +1483,11 @@ des Vertrauensdienstegesetzes bleiben unberührt.
 
 
 ## Abschnitt 5 - Personalausweisregister; Speicherungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000500000)
 
 
 ### § 23 Personalausweisregister
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002420130)
 
 (1) Die Personalausweisbehörden führen Personalausweisregister.
 
@@ -1562,6 +1598,7 @@ biometrischen Daten speichern. Absatz 4 gilt entsprechend.
 
 
 ### § 24 Verwendung im Personalausweisregister gespeicherter Daten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002504130)
 
 (1) Die Personalausweisbehörden dürfen personenbezogene Daten nur nach
 Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen
@@ -1619,6 +1656,7 @@ werden.
 
 
 ### § 25 Datenübertragung und automatisierter Abruf von Lichtbildern
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002604130)
 
 (1) In den Fällen des § 24 Abs. 2 dürfen personenbezogene Daten auch
 durch Datenübertragung übermittelt werden. § 12 Abs. 1 Satz 3 gilt
@@ -1705,6 +1743,7 @@ abrufenden Stelle unterbleibt der automatisierte Abruf.
 
 
 ### § 26 Sonstige Speicherung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002701116)
 
 (1) Beantragung, Ausstellung und Aushändigung von Ausweisen dürfen
 nicht zum Anlass genommen werden, die dafür erforderlichen Angaben und
@@ -1733,9 +1772,11 @@ errichtet.
 
 
 ## Abschnitt 6 - Pflichten des Ausweisinhabers; Ungültigkeit und Entziehung des Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000600000)
 
 
 ### § 27 Pflichten des Ausweisinhabers
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002806130)
 
 (1) Der Ausweisinhaber ist verpflichtet, der Personalausweisbehörde
 unverzüglich
@@ -1788,6 +1829,7 @@ als für diesen Einsatzzweck sicher bewertet werden.
 
 
 ### § 28 Ungültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE002901116)
 
 (1) Ein Ausweis ist ungültig, wenn
 
@@ -1818,6 +1860,7 @@ Personalausweises.
 
 
 ### § 29 Sicherstellung und Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003001116)
 
 (1) Ein nach § 28 Abs. 1 oder Abs. 2 ungültiger Ausweis kann
 eingezogen werden.
@@ -1842,6 +1885,7 @@ eingezogen werden.
 
 
 ### § 30 Sofortige Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003101116)
 
 Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis
 nicht zum Verlassen Deutschlands berechtigt (§ 6 Abs. 7), gegen die
@@ -1853,9 +1897,11 @@ Wirkung.
 
 
 ## Abschnitt 7 - Gebühren und Auslagen; Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000700000)
 
 
 ### § 31 Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003203130)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben
@@ -1890,6 +1936,7 @@ bis zu 300 Prozent der Gebühren betragen.
 
 
 ### § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003306130)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1955,6 +2002,7 @@ zu dreitausend Euro geahndet werden.
 
 
 ### § 33 Bußgeldbehörden
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003401116)
 
 Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten sind, soweit dieses Gesetz von Bundesbehörden
@@ -1976,9 +2024,11 @@ ausgeführt wird,
 
 
 ## Abschnitt 8 - Verordnungsermächtigung; Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNG000800000)
 
 
 ### § 34 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003516130)
 
 Das Bundesministerium des Innern und für Heimat wird ermächtigt, mit
 Zustimmung des Bundesrates durch Rechtsverordnung
@@ -2100,6 +2150,7 @@ vorzusehen.
 
 
 ### § 34a Regelungsbefugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE004600116)
 
 Durch Landesrecht können zentrale Personalausweisregisterdatenbestände
 zur Speicherung des Lichtbilds und der Unterschrift für die
@@ -2116,6 +2167,7 @@ benötigten Daten ermöglicht wird.
 
 
 ### § 35 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pauswg/BJNR134610009.html#BJNR134610009BJNE003600000)
 
 Abweichend von § 7 Abs. 2, § 8 Abs. 2, § 10 Abs. 1 Satz 4 und Abs. 2
 Satz 2, § 23 Abs. 4 Satz 2 sowie § 31 Abs. 2 ist bis zum 31. Dezember

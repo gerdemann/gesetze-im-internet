@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2021dv_1/BJNR039500021.html#BJNR039500021BJNE000100000)
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes, von denen §
 14 zuletzt durch Artikel 2 Nummer 15 und § 17 zuletzt durch Artikel 2
@@ -26,6 +27,7 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2021
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2021dv_1/BJNR039500021.html#BJNR039500021BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzkraftausgleichs im Ausgleichsjahr 2021 wird der Zahlungsverkehr
@@ -156,11 +158,13 @@ des Folgemonats überwiesen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2021dv_1/BJNR039500021.html#BJNR039500021BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2021dv_1/BJNR039500021.html#BJNR039500021BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2013/BJNR071000013.html#BJNR071000013BJNE000100000)
 
 Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung in der
 Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006
@@ -75,11 +76,13 @@ Die ab 1. Juli 2013 geltenden Pfändungsfreibeträge ergeben sich im
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2013/BJNR071000013.html#BJNR071000013BJNE000200000)
 
 Die Bundesministerin der Justiz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2013/BJNR071000013.html#BJNR071000013BJNE000300000)
 
 (Fundstelle: BGBl. I 2013, 711 - 725)
 

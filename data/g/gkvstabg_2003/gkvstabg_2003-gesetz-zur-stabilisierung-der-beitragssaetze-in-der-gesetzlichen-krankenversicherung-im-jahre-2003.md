@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gkvstabg_2003/BJNR464020002.html#BJNR464020002BJNE000100000)
 
 (1) Bis zum 31. Dezember 2003 sind Beitragssatzanhebungen der
 Krankenkassen (§ 4 des Fünften Buches Sozialgesetzbuch) nur zulässig,

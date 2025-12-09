@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 2129-32-1 v. 12.7.1999 I 1554 (BBodSchV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000200000)
 
 (1) Diese Verordnung regelt nähere Anforderungen, insbesondere
 
@@ -80,6 +82,7 @@ Stand: Ersetzt V 2129-32-1 v. 12.7.1999 I 1554 (BBodSchV)
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000300000)
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -242,9 +245,11 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Vorsorge gegen das Entstehen schädlicher Bodenveränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000200000)
 
 
 ### § 3 Besorgnis schädlicher Bodenveränderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000400000)
 
 (1) Das Entstehen schädlicher Bodenveränderungen ist in der Regel zu
 besorgen, wenn
@@ -281,6 +286,7 @@ nachteilige Auswirkungen auf die Bodenfunktionen erwarten lassen.
 
 
 ### § 4 Vorsorgeanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000500000)
 
 (1) In den Fällen des § 3 Absatz 1 Satz 1 Nummer 1, auch unter
 Berücksichtigung von Absatz 2, haben die nach § 7 Satz 1 des Bundes-
@@ -333,6 +339,7 @@ durchgeführt wird.
 
 
 ### § 5 Zulässige Zusatzbelastung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000600000)
 
 (1) Werden Vorsorgewerte nach Anlage 1 Tabelle 1 oder 2 bei einem
 Schadstoff überschritten, ist insoweit unter Berücksichtigung der zu
@@ -352,6 +359,7 @@ Bodenschutzgesetzes.
 
 
 ### § 6 Allgemeine Anforderungen an das Auf- oder Einbringen von Materialien auf oder in den Boden
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000700000)
 
 (1) Die §§ 6 bis 8 gelten für das Auf- oder Einbringen von Materialien
 auf oder in den Boden, insbesondere im Rahmen der Rekultivierung, der
@@ -511,6 +519,7 @@ Anforderungen nach den Absätzen 9 bis 11 verlangen.
 
 
 ### § 7 Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien auf oder in eine durchwurzelbare Bodenschicht
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000800000)
 
 (1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen
 dürfen für das Auf- oder Einbringen auf oder in eine durchwurzelbare
@@ -647,6 +656,7 @@ Bodenveränderung nicht zu besorgen ist.
 
 
 ### § 8 Zusätzliche Anforderungen an das Auf- oder Einbringen von Materialien unterhalb oder außerhalb einer durchwurzelbaren Bodenschicht
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE000900000)
 
 (1) Die nach § 7 Satz 1 des Bundes-Bodenschutzgesetzes Pflichtigen
 dürfen für das Auf- oder Einbringen unterhalb oder außerhalb einer
@@ -783,12 +793,15 @@ Verwertung erfolgt.
 
 
 ## Abschnitt 3 - Abwehr und Sanierung schädlicher Bodenveränderungen und Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000300000)
 
 
 ### Unterabschnitt 1 - Gefahrenabwehr bei Bodenerosion
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000400000)
 
 
 #### § 9 Gefahrenabwehr bei Bodenerosion durch Wasser oder Wind
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001000000)
 
 (1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von
 Bodenerosion durch Wasser oder Wind ist insbesondere auszugehen, wenn
@@ -844,9 +857,11 @@ ergeben.
 
 
 ### Unterabschnitt 2 - Untersuchung, Bewertung und Sanierung schädlicher Bodenveränderungen und Altlasten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000500000)
 
 
 #### § 10 Erforderlichkeit von Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001100000)
 
 (1) Anhaltspunkte im Sinne des § 9 Absatz 1 Satz 1 des Bundes-
 Bodenschutzgesetzes für das Vorliegen einer Altlast bestehen bei einem
@@ -922,6 +937,7 @@ Umstände angeordnet werden.
 
 
 #### § 11 Allgemeine Anforderungen an Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001200000)
 
 (1) Bei der Festlegung des Untersuchungsumfangs sind alle verfügbaren
 Informationen, insbesondere die Kenntnisse oder begründeten
@@ -962,6 +978,7 @@ Nutzungen zu unterscheiden:
 
 
 #### § 12 Orientierende Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001300000)
 
 (1) Ziel der orientierenden Untersuchung ist, auf der Grundlage der
 Ergebnisse der Erfassung mit Hilfe örtlicher Untersuchungen,
@@ -985,6 +1002,7 @@ Sickerwassers in das Grundwasser berücksichtigt werden.
 
 
 #### § 13 Detailuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001400000)
 
 (1) Ziel der Detailuntersuchung ist, mit Hilfe vertiefender und
 weitergehender Untersuchungen eine abschließende
@@ -1026,6 +1044,7 @@ sind.
 
 
 #### § 14 Sickerwasserprognose
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001500000)
 
 (1) Die Prognose der Stoffkonzentration für einen Prüfwertvergleich am
 Ort der Beurteilung kann, auch unter Anwendung von
@@ -1092,6 +1111,7 @@ festgestellt oder abgeschätzt werden.
 
 
 #### § 15 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001600000)
 
 (1) Die Ergebnisse der Untersuchungen nach den §§ 12 bis 14 sind unter
 Beachtung der Umstände des Einzelfalls, insbesondere anhand der Prüf-
@@ -1149,6 +1169,7 @@ lassen.
 
 
 #### § 16 Sanierungsuntersuchungen und Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001700000)
 
 (1) Ziel von Sanierungsuntersuchungen ist, anhand eines
 Sanierungsziels zu ermitteln, mit welchen Maßnahmen eine Sanierung im
@@ -1238,6 +1259,7 @@ Bodenschutzgesetzes zu erfüllen.
 
 
 #### § 17 Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen, natürliche Schadstoffminderung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001800000)
 
 (1) Dekontaminations- und Sicherungsmaßnahmen müssen gewährleisten
 oder wesentlich dazu beitragen, dass durch im Boden oder in Altlasten
@@ -1296,9 +1318,11 @@ angeordnet werden.
 
 
 ## Abschnitt 4 - Vorerkundung, Probennahme und -analyse
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000600000)
 
 
 ### § 18 Vorerkundung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE001900000)
 
 (1) Die Vorerkundung von Böden in situ und von Materialien in
 Haufwerken dient
@@ -1341,6 +1365,7 @@ erforderlich ist.
 
 
 ### § 19 Allgemeine Anforderungen an die Probennahme
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002000000)
 
 (1) Die Probennahme ist von Sachverständigen im Sinne des § 18 des
 Bundes-Bodenschutzgesetzes oder Personen mit vergleichbarer Sachkunde
@@ -1393,6 +1418,7 @@ richtet sich nach Anlage 3 Tabelle 8.
 
 
 ### § 20 Besondere Anforderungen an die Probennahme aus Böden in situ
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002100000)
 
 (1) Böden sind in der Regel horizontweise zu beproben. Grundlage für
 die Ermittlung der Horizontabfolge ist die „Arbeitshilfe für die
@@ -1414,6 +1440,7 @@ ISO 22475-1 und der DIN ISO 10381-2 aufgeführt sind.
 
 
 ### § 21 Besondere Anforderungen an die Probennahme aus Haufwerken
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002200000)
 
 (1) Die Beprobung von Haufwerken ist gemäß der „Richtlinie für das
 Vorgehen bei physikalischen, chemischen und biologischen
@@ -1429,6 +1456,7 @@ homogene Schadstoffverteilung hinreichend belegt ist.
 
 
 ### § 22 Zusätzliche wirkungspfadbezogene Anforderungen an die Probennahme bei orientierenden Untersuchungen und Detailuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002300000)
 
 (1) Beim Wirkungspfad Boden-Mensch sind im Rahmen der Festlegung der
 Probennahmestellen und der Beprobungstiefe auch Ermittlungen zu den im
@@ -1496,6 +1524,7 @@ besondere Sicherungsmaßnahmen zu ergreifen.
 
 
 ### § 23 Konservierung, Transport und Aufbewahrung von Proben; Probenvorbehandlung, -vorbereitung und -aufarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002400000)
 
 (1) Für die Auswahl von Probengefäßen sowie für Konservierung,
 Transport und Aufbewahrung von Proben sind die DIN ISO 10381-1, die
@@ -1513,6 +1542,7 @@ Erfordernissen des Einzelfalls festlegen.
 
 
 ### § 24 Physikalisch-chemische und chemische Analyse
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002500000)
 
 (1) Die physikalisch-chemische und chemische Analyse der Proben ist
 durch eine nach DIN EN
@@ -1649,9 +1679,11 @@ praktische Eignung
 
 
 ## Abschnitt 5 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNG000700000)
 
 
 ### § 25 Fachbeirat Bodenuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002600000)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ein Fachbeirat Bodenuntersuchungen (FBU) eingerichtet.
@@ -1698,6 +1730,7 @@ Sicherheit.
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002700000)
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 1 des Bundes-
 Bodenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1732,6 +1765,7 @@ Bodenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 27 Zugänglichkeit technischer Regeln und Normen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002800000)
 
 (1) Die in dieser Verordnung genannten DIN- und ISO-Normen,
 Normentwürfe und VDI-Richtlinien sind in Anlage 4 mit ihrer
@@ -1751,6 +1785,7 @@ angegebenen Zeitpunkt veröffentlicht ist.
 
 
 ### § 28 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE002900000)
 
 (1) Werden Materialien bei Verfüllungen von Abgrabungen auf Grund von
 Zulassungen, die vor dem 16. Juli 2021 erteilt wurden und die
@@ -1770,6 +1805,7 @@ und 6,
 Absatz 10 Nummer 1)
 
 ### Anlage 1 Vorsorgewerte und Werte zur Beurteilung von Materialien
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE003000000)
 
 (Fundstelle: BGBl. I 2021, 2731 - 2733)
 
@@ -2300,6 +2336,7 @@ durchwurzelbaren Bodenschicht**
 Absatz 7 Nummer 2 und 3, Absatz 9 Nummer 2 und Absatz 10 Nummer 2)
 
 ### Anlage 2 Prüf- und Maßnahmenwert
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE003100000)
 
 (Fundstelle: BGBl. I 2021, 2734 - 2739)
 
@@ -3362,6 +3399,7 @@ Kulturpflanzen**
 § 20 Absatz 1 Satz 3 und 4, § 24 Absatz 2 und 4 bis 10)
 
 ### Anlage 3 Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE003200000)
 
 (Fundstelle: BGBl. I 2021, 2740 - 2745)
 
@@ -4102,6 +4140,7 @@ Stoffe**
 (zu § 27 Absatz 1 Satz 1)
 
 ### Anlage 4 Technische Regeln und Normen
+[Direktlink](https://www.gesetze-im-internet.de/bbodschv_2023/BJNR271600021.html#BJNR271600021BJNE003300000)
 
 (Fundstelle: BGBl. I 2021, 2746 - 2750)
 

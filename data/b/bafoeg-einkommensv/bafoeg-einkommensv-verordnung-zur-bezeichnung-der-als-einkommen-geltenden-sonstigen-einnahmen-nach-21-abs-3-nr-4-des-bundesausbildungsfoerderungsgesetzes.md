@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000100325)
 
 Auf Grund des § 21 Abs. 3 Satz 1 Nr. 4 des
 Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung
@@ -29,6 +30,7 @@ Bildung und Wissenschaft mit Zustimmung des Bundesrates:
 
 
 ## § 1 Leistungen der sozialen Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000217311)
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten
 folgende Leistungen der sozialen Sicherung:
@@ -223,6 +225,7 @@ folgende Leistungen der sozialen Sicherung:
 
 
 ## § 2 Weitere Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000304310)
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten
 auch folgende Leistungen:
@@ -288,6 +291,7 @@ auch folgende Leistungen:
 
 
 ## § 3 Einnahmen bei Auslandstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000401308)
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten
 ferner
@@ -324,6 +328,7 @@ ferner
 
 
 ## § 3a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000702311)
 
 Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben,
 sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003
@@ -331,6 +336,7 @@ geltenden Fassung weiter anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_g-einkommensv/BJNR005050988.html#BJNR005050988BJNE000601308)
 
 Diese Verordnung tritt am 1. Juni 1988 mit der Maßgabe in Kraft, daß
 sie für alle Bewilligungszeiträume anzuwenden ist, die nach dem 30.

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000101123)
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
@@ -42,9 +43,11 @@ jeweils in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000300000)
 
 Diese Verordnung regelt die Anforderungen und das Verfahren
 
@@ -82,6 +85,7 @@ Diese Verordnung regelt die Anforderungen und das Verfahren
 
 
 ### § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000400000)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen (Bundesnetzagentur) ist im Rahmen dieser
@@ -132,6 +136,7 @@ Beschwerden über einzelne Entscheidungen von notifizierten Stellen.
 
 
 ### § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000502119)
 
 (1) Um als notifizierte Stelle anerkannt zu werden, muss
 
@@ -181,6 +186,7 @@ und eine Prüfung beim Antragsteller durchführen.
 
 
 ### § 4 Anerkennung als notifizierte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000602119)
 
 (1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die
 Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem
@@ -252,6 +258,7 @@ Stellen die Anforderungen nach Absatz 1 Satz 1 weiterhin erfüllen.
 
 
 ### § 5 Allgemeine Anforderungen an die notifizierte Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000700000)
 
 (1) Die notifizierte Stelle muss Rechtspersönlichkeit nach deutschem
 Recht besitzen.
@@ -449,6 +456,7 @@ oder durch notifizierte Bevollmächtigte nachzukommen.
 
 
 ### § 6 Konformitätsvermutung bei notifizierten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000801123)
 
 Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien
 der einschlägigen harmonisierten Normen, deren Fundstellen im
@@ -459,6 +467,7 @@ harmonisierten Normen diese Anforderungen abdecken.
 
 
 ### § 7 Verpflichtungen der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE000900000)
 
 (1) Konformitätsbewertungen sind unter Wahrung der Verhältnismäßigkeit
 und im Einklang mit den Konformitätsbewertungsverfahren gemäß den
@@ -522,6 +531,7 @@ Frequenzplanung mit.
 
 
 ### § 8 Meldepflichten der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001000000)
 
 (1) Die notifizierte Stelle ist verpflichtet, der Bundesnetzagentur
 Folgendes zu melden:
@@ -564,6 +574,7 @@ gemäß den Anhängen III und IV dieser Richtlinie.
 
 
 ### § 9 Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001101123)
 
 (1) Mit der Konformitätsbewertung verbundene Aufgaben dürfen nur mit
 Zustimmung des Auftraggebers an Unterauftragnehmer oder
@@ -588,9 +599,11 @@ Konformitätsbewertungsverfahrens gemäß Anhang III der Richtlinie
 
 
 ## Abschnitt 2 - Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNG000200000)
 
 
 ### § 10 Befugnis der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001201123)
 
 Mit der Anerkennung als notifizierte Stelle im Sinne des
 Funkanlagengesetzes ist eine natürliche oder juristische Person oder
@@ -601,6 +614,7 @@ Anhang IV der Richtlinie 2014/53/EU wahrzunehmen.
 
 
 ### § 11 Befugnis der Konformitätsbewertungsstelle für Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001300000)
 
 (1) Aufgrund der Anerkennung als Konformitätsbewertungsstelle für
 Drittstaaten im Rahmen der in Anlage 1 zu dieser Verordnung
@@ -628,9 +642,11 @@ durch diesen anerkannt und bestätigt ist.
 
 
 ## Abschnitt 3 - Elektromagnetische Verträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNG000300000)
 
 
 ### § 12 Befugnis der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001401123)
 
 Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über
 die elektromagnetische Verträglichkeit von Betriebsmitteln ist eine
@@ -640,6 +656,7 @@ der Richtlinie 2014/30/EU wahrzunehmen.
 
 
 ### § 13 Befugnis der Konformitätsbewertungsstelle für Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001500000)
 
 (1) Mit der Anerkennung als Konformitätsbewertungsstelle für
 Drittstaaten im Rahmen der in Anlage 2 zu dieser Verordnung
@@ -667,9 +684,11 @@ durch diesen anerkannt und bestätigt ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNG000400000)
 
 
 ### § 14 Widerruf der erteilten Befugnis
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001602119)
 
 (1) Die Anerkennung als notifizierte Stelle oder
 Konformitätsbewertungsstelle für Drittstaaten erlischt mit der
@@ -716,9 +735,11 @@ die geeigneten Maßnahmen, um zu gewährleisten, dass
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001701123)
 
 
 ### § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001802123)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Anerkennungs-Verordnung vom 7. Juni 2002 (BGBl.
@@ -728,6 +749,7 @@ August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.
 (zu § 11)
 
 ### Anlage 1 Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE001900000)
 
 (Fundstelle: BGBl. I 2016, 83)
 
@@ -765,6 +787,7 @@ vom 16.10.2002, S. 23)
 (zu § 13)
 
 ### Anlage 2 Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE002000000)
 
 (Fundstelle: BGBl. I 2016, 84)
 
@@ -801,4 +824,5 @@ vom 16.10.2002, S. 23)
 
 
 ### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/banerkv_2016/BJNR007700016.html#BJNR007700016BJNE002101123)
 

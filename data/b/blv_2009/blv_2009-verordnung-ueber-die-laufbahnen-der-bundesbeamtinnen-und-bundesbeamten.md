@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 Satz 3, § 11 Absatz 1 Satz 5, § 17 Absatz
 7, § 20 Satz 2, § 21 Satz 2, § 22 Absatz 5 Satz 2 und des § 26 des
@@ -28,15 +29,18 @@ die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000300000)
 
 Diese Verordnung gilt für die Beamtinnen und Beamten des Bundes,
 soweit nicht gesetzlich etwas anderes bestimmt ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000400000)
 
 (1) Einstellung ist eine Ernennung unter Begründung eines
 Beamtenverhältnisses.
@@ -73,6 +77,7 @@ Amtsbezeichnung wechselt, durch Ernennung.
 
 
 ### § 3 Mutterschutz
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000501311)
 
 Zeiten des Mutterschutzes sind auf Zeiten anzurechnen, die nach dieser
 Verordnung Voraussetzung für eine Einstellung oder für die berufliche
@@ -81,6 +86,7 @@ Entwicklung sind. Die Verlängerung eines Vorbereitungsdienstes nach §
 
 
 ### § 4 Stellenausschreibungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000601311)
 
 (1) Zu besetzende Stellen sind außer in den Fällen des Absatzes 2
 auszuschreiben. Der Einstellung von Bewerberinnen und Bewerbern muss
@@ -138,6 +144,7 @@ eine öffentliche Ausschreibung vorausgehen.
 
 
 ### § 5 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000701311)
 
 (1) Von schwerbehinderten Menschen darf nur das Mindestmaß an
 körperlicher Eignung verlangt werden.
@@ -152,12 +159,15 @@ der Behinderung zu berücksichtigen.
 
 
 ## Abschnitt 2 - Einstellung von Bewerberinnen und Bewerbern
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000200000)
 
 
 ### Unterabschnitt 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000300000)
 
 
 #### § 6 Gestaltung der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000801116)
 
 (1) Die Laufbahnen sind den Laufbahngruppen des einfachen, mittleren,
 gehobenen und höheren Dienstes zugeordnet. Die Zugehörigkeit einer
@@ -196,6 +206,7 @@ werden:
 
 
 #### § 7 Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE000901311)
 
 Bewerberinnen und Bewerber erlangen die Laufbahnbefähigung
 
@@ -221,6 +232,7 @@ Bewerberinnen und Bewerber erlangen die Laufbahnbefähigung
 
 
 #### § 8 Feststellung der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001000000)
 
 (1) Besitzen Bewerberinnen oder Bewerber die für die entsprechende
 Laufbahn vorgeschriebene Vorbildung, erkennt die zuständige oberste
@@ -240,6 +252,7 @@ das Datum des Befähigungserwerbs sind in der Mitteilung zu bezeichnen.
 
 
 #### § 9 Ämter der Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001101311)
 
 (1) Die zu den Laufbahnen gehörenden Ämter sowie die dazugehörigen
 Amtsbezeichnungen ergeben sich aus Anlage 1. Für die Dauer einer
@@ -251,9 +264,11 @@ durchlaufen.
 
 
 ### Unterabschnitt 2 - Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000400000)
 
 
 #### § 10 Einrichtung von Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001202311)
 
 (1) Die Befugnis nach § 26 Absatz 2 des Bundesbeamtengesetzes wird für
 die in Anlage 2 genannten fachspezifischen Vorbereitungsdienste den
@@ -270,6 +285,7 @@ Dienst eine Berufsbezeichnung verliehen wird.
 
 
 #### § 10a Auswahlverfahren für die Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006503311)
 
 (1) Voraussetzung für die Einstellung in den Vorbereitungsdienst ist
 die erfolgreiche Teilnahme an einem Auswahlverfahren. In dem
@@ -404,6 +420,7 @@ Bundesbeamtengesetzes ist zu regeln,
 
 
 #### § 11 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001302311)
 
 Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf
 Widerruf in den Vorbereitungsdienst eingestellt. Sie führen als
@@ -416,12 +433,14 @@ Innern und für Heimat andere Dienstbezeichnungen festsetzen.
 
 
 #### § 11a Einfacher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006600311)
 
 Ein Vorbereitungsdienst für den einfachen Dienst dauert mindestens
 sechs Monate.
 
 
 #### § 12 Mittlerer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001400000)
 
 Ein Vorbereitungsdienst für den mittleren Dienst dauert mindestens ein
 Jahr, in der Regel jedoch zwei Jahre. Er besteht aus einer
@@ -429,6 +448,7 @@ fachtheoretischen und einer berufspraktischen Ausbildung.
 
 
 #### § 13 Gehobener Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001503311)
 
 (1) Ein Vorbereitungsdienst für den gehobenen Dienst dauert in der
 Regel drei Jahre und besteht aus Fachstudien und berufspraktischen
@@ -449,6 +469,7 @@ ist nicht zulässig.
 
 
 #### § 14 Höherer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001600000)
 
 Ein Vorbereitungsdienst für den höheren Dienst dauert mindestens 18
 Monate, in der Regel jedoch zwei Jahre. Er vermittelt die für die
@@ -456,6 +477,7 @@ Laufbahn erforderlichen berufspraktischen Fähigkeiten und Kenntnisse.
 
 
 #### § 15 Verlängerung der Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001702116)
 
 (1) Der Vorbereitungsdienst ist nach Anhörung der Referendarinnen,
 Referendare, Anwärterinnen und Anwärter im Einzelfall zu verlängern,
@@ -496,6 +518,7 @@ insgesamt jedoch nicht mehr als 24 Monate verlängert werden.
 
 
 #### § 16 Verkürzung der Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001802311)
 
 (1) Der Vorbereitungsdienst kann verkürzt werden, wenn
 
@@ -556,6 +579,7 @@ angerechnet werden kann.
 
 
 #### § 17 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE001904311)
 
 (1) Im Rahmen des Vorbereitungsdienstes ist eine Laufbahnprüfung
 abzulegen. Sie kann in Form von Modulprüfungen durchgeführt werden.
@@ -625,9 +649,11 @@ obersten Dienstbehörde auf die unmittelbar nachgeordneten Behörden
 
 
 ### Unterabschnitt 3 - Anerkennung von Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000500000)
 
 
 #### § 18 Einfacher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002001311)
 
 Die Anerkennung der Befähigung für eine Laufbahn des einfachen
 Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den
@@ -635,6 +661,7 @@ Bildungsvoraussetzungen eine abgeschlossene Berufsausbildung voraus.
 
 
 #### § 19 Mittlerer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002102311)
 
 (1) Die Anerkennung der Befähigung für eine Laufbahn des mittleren
 Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den
@@ -685,6 +712,7 @@ worden ist.
 
 
 #### § 20 Gehobener Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002201311)
 
 (1) Die Anerkennung der Befähigung für eine Laufbahn des gehobenen
 Dienstes nach § 7 Nummer 2 Buchstabe a setzt Folgendes voraus:
@@ -721,6 +749,7 @@ auch, wer einen der folgenden Vorbereitungsdienste abgeschlossen hat:
 
 
 #### § 21 Höherer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002302311)
 
 (1) Die Anerkennung der Befähigung für eine Laufbahn des höheren
 Dienstes nach § 7 Nummer 2 Buchstabe a setzt Folgendes voraus:
@@ -815,6 +844,7 @@ Verwaltungsdienst hat auch, wer die Befähigung zum Richteramt hat.
 
 
 #### § 22 Andere Bewerberinnen und andere Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002400000)
 
 (1) Wer nicht die Voraussetzungen des § 7 Nummer 1 oder 2 Buchstabe a
 erfüllt, darf nur berücksichtigt werden, wenn keine geeigneten
@@ -838,9 +868,11 @@ Absatz 2 regelt der Bundespersonalausschuss.
 
 
 ### Unterabschnitt 4 - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000600000)
 
 
 #### § 23 Besondere Qualifikationen und Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002503311)
 
 (1) Abweichend von § 17 Absatz 3 Nummer 1 Buchstabe a des
 Bundesbeamtengesetzes können Beamtinnen und Beamte, die einen
@@ -1004,6 +1036,7 @@ werden.
 
 
 #### § 24 Zulassung zur höheren Laufbahn bei Besitz einer Berufsausbildung oder einer Hochschulausbildung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002602311)
 
 (1) Abweichend von § 17 Absatz 2 bis 5 des Bundesbeamtengesetzes
 können Beamtinnen und Beamte, die die für eine höhere Laufbahn
@@ -1052,6 +1085,7 @@ Laufbahngruppe verliehen werden.
 
 
 #### § 25 Einstellung in ein Beförderungsamt
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002702311)
 
 (1) Eine Bewerberin oder ein Bewerber kann in ein Beförderungsamt
 eingestellt werden, wenn sie oder er
@@ -1105,6 +1139,7 @@ Einstellung in ein Beförderungsamt nicht einbezogen werden.
 
 
 #### § 26 Übernahme von Richterinnen und Richtern
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002800000)
 
 (1) Abweichend von § 25 kann Richterinnen und Richtern, die in die
 Laufbahn des höheren nichttechnischen Verwaltungsdienstes wechseln,
@@ -1120,6 +1155,7 @@ entsprechend.
 
 
 #### § 27 Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE002901311)
 
 (1) Abweichend von § 17 Absatz 3 bis 5 des Bundesbeamtengesetzes
 können geeignete Dienstposten nach entsprechender Ausschreibung auch
@@ -1206,12 +1242,15 @@ geeigneten Dienstposten im Sinne des Absatzes 2 eingesetzt werden.
 
 
 ## Abschnitt 3 - Berufliche Entwicklung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000700000)
 
 
 ### Unterabschnitt 1 - Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000800000)
 
 
 #### § 28 Dauer der Probezeit und Feststellung der Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003001311)
 
 (1) Die regelmäßige Probezeit dauert drei Jahre.
 
@@ -1239,6 +1278,7 @@ entlassen.
 
 
 #### § 29 Anrechnung hauptberuflicher Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003103311)
 
 (1) Hauptberufliche Tätigkeiten, die nach Art
 und Schwierigkeit mindestens der Tätigkeit in einem Amt der
@@ -1259,6 +1299,7 @@ angerechnet werden.
 
 
 #### § 30 Verlängerung der Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003204311)
 
 (1) Die Probezeit verlängert sich um die Zeit einer Beurlaubung ohne
 Besoldung. Dies gilt nicht, wenn die oberste Dienstbehörde bei der
@@ -1291,6 +1332,7 @@ Innern und für Heimat, unter welchen Voraussetzungen dienstliche oder
 
 
 #### § 31 Mindestprobezeit
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003301311)
 
 (1) Die Probezeit muss mindestens ein Jahr dauern (Mindestprobezeit).
 
@@ -1324,9 +1366,11 @@ Tätigkeit angerechnet werden, soweit die hauptberufliche Tätigkeit
 
 
 ### Unterabschnitt 2 - Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG000900000)
 
 
 #### § 32 Voraussetzungen einer Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003400000)
 
 Eine Beamtin oder ein Beamter kann befördert werden, wenn
 
@@ -1345,6 +1389,7 @@ Eine Beamtin oder ein Beamter kann befördert werden, wenn
 
 
 #### § 33 Auswahlentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003504311)
 
 (1) Feststellungen über Eignung, Befähigung und fachliche Leistung
 sind in der Regel auf der Grundlage aktueller dienstlicher
@@ -1445,6 +1490,7 @@ Probezeit angerechnet worden sind.
 
 
 #### § 34 Erprobungszeit
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003601311)
 
 (1) Die Erprobungszeit beträgt mindestens sechs Monate und soll ein
 Jahr nicht überschreiten. § 19 Absatz 4 gilt entsprechend.
@@ -1463,9 +1509,11 @@ dauerhaften Übertragung des Dienstpostens abzusehen oder die
 
 
 ### Unterabschnitt 3 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG001000000)
 
 
 #### § 35 Voraussetzungen für den Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003702311)
 
 (1) Der Aufstieg setzt die erfolgreiche Teilnahme an einem
 Auswahlverfahren voraus. Weitere Voraussetzungen sind:
@@ -1513,6 +1561,7 @@ Entwicklung familienfreundlicher Konzepte.
 
 
 #### § 36 Auswahlverfahren für den Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003804311)
 
 (1) Vor der Durchführung eines Auswahlverfahrens geben die obersten
 Dienstbehörden in einer Ausschreibung bekannt, welche fachspezifischen
@@ -1588,6 +1637,7 @@ Auswahlkommission. Sie kann diese Befugnis auf eine andere Behörde
 
 
 #### § 37 Teilnahme an Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE003901311)
 
 (1) Nehmen die Beamtinnen und Beamten an einem fachspezifischen
 Vorbereitungsdienst teil, sind die für die Referendarinnen,
@@ -1602,6 +1652,7 @@ für die einzelnen Laufbahnen und Vorbereitungsdienste nach § 26 Absatz
 
 
 #### § 38 Fachspezifische Qualifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004003311)
 
 (1) Fachspezifische Qualifizierungen dauern
 
@@ -1679,6 +1730,7 @@ durchführen. Das Feststellungsverfahren kann einmal wiederholt werden.
 
 
 #### § 39 Hochschulstudium und berufspraktische Einführung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004102311)
 
 (1) Die Aufstiegsausbildung kann auch außerhalb eines fachspezifischen
 Vorbereitungsdienstes in einem Studiengang an einer Hochschule
@@ -1710,6 +1762,7 @@ Aufstieg durch Rechtsverordnung besondere Vorschriften zu erlassen.
 
 
 #### § 40 Übertragung eines Amtes der neuen Laufbahn
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004200000)
 
 Nach Erwerb der Befähigung für die höhere Laufbahn wird den Beamtinnen
 und Beamten im Rahmen der besetzbaren Planstellen ein Amt der neuen
@@ -1719,6 +1772,7 @@ eines Amtes der höheren Laufbahngruppe verliehen werden.
 
 
 #### § 41 Erstattung der Kosten einer Aufstiegsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004300000)
 
 Hat eine Beamtin oder ein Beamter an einer fachspezifischen
 Qualifizierung oder an einer Hochschulausbildung teilgenommen, muss
@@ -1732,9 +1786,11 @@ besondere Härte bedeuten würde.
 
 
 ### Unterabschnitt 4 - Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG001100000)
 
 
 #### § 42 Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004401116)
 
 (1) Der Wechsel in eine andere Laufbahn derselben Laufbahngruppe ist
 aus dienstlichen Gründen zulässig, wenn die Beamtin oder der Beamte
@@ -1759,6 +1815,7 @@ Methoden- und sozialen Kompetenzen vermittelt werden.
 
 
 #### § 43 Wechsel von Wissenschaftlerinnen und Wissenschaftlern
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004501311)
 
 Wenn sie die Befähigung für die vorgesehene Laufbahn besitzen, kann
 Beamtinnen und Beamten, die seit mindestens sechs Monaten
@@ -1800,6 +1857,7 @@ Beamtinnen und Beamten, die seit mindestens sechs Monaten
 
 
 #### § 44 Wechsel von einem anderen Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004601311)
 
 (1) Beim Wechsel von Beamtinnen und Beamten und früheren Beamtinnen
 und Beamten anderer Dienstherren in ein Beamtenverhältnis beim Bund
@@ -1814,6 +1872,7 @@ Dienstherrn in einer gleichwertigen Laufbahn bewährt hat.
 
 
 #### § 45 Internationale Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004701116)
 
 Erfolgreich absolvierte hauptberufliche Tätigkeiten in einer
 öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtung, in
@@ -1828,9 +1887,11 @@ auswirken.
 
 
 ## Abschnitt 4 - Personalentwicklung und Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG001200000)
 
 
 ### § 46 Personalentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004800000)
 
 (1) Als Grundlage für die Personalentwicklung sind
 Personalentwicklungskonzepte zu erstellen. Über die Gestaltung
@@ -1870,6 +1931,7 @@ zum Beispiel
 
 
 ### § 47 Dienstliche Qualifizierung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE004901311)
 
 (1) Die dienstliche Qualifizierung ist zu fördern.
 Qualifizierungsmaßnahmen sind insbesondere
@@ -1918,9 +1980,11 @@ hierbei ihre besondere fachliche Eignung nachzuweisen.
 
 
 ## Abschnitt 5 - Dienstliche Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG001300000)
 
 
 ### § 48 Ausnahmen von der regelmäßigen Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005002311)
 
 Ausnahmen von der regelmäßigen Beurteilung können zugelassen werden,
 wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies ist
@@ -1929,6 +1993,7 @@ bis 31 bleiben unberührt.
 
 
 ### § 49 Inhalt der dienstlichen Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005101311)
 
 (1) Die fachliche Leistung ist insbesondere nach den
 Arbeitsergebnissen, der praktischen Arbeitsweise, dem Arbeitsverhalten
@@ -1945,6 +2010,7 @@ die Eignung für Aufgaben der nächsthöheren Laufbahn enthalten.
 
 
 ### § 50 Beurteilungsverfahren und Beurteilungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005202116)
 
 (1) Die dienstlichen Beurteilungen erfolgen nach einem einheitlichen
 Beurteilungsmaßstab unter Berücksichtigung der Anforderungen des Amtes
@@ -1978,9 +2044,11 @@ bleibt.
 
 
 ## Abschnitt 6 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNG001400000)
 
 
 ### § 51 Überleitung der Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005303311)
 
 (1) Beamtinnen und Beamte, die sich beim Inkrafttreten dieser
 Rechtsverordnung bereits in einer Laufbahn befinden, die in § 35
@@ -2018,6 +2086,7 @@ weiterführen.
 
 
 ### § 52 Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005401116)
 
 (1) Die in Anlage 2 aufgeführten obersten Dienstbehörden erlassen nach
 § 10 die den jeweiligen fachspezifischen Vorbereitungsdienst regelnden
@@ -2042,6 +2111,7 @@ zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009
 
 
 ### § 53 Beamtenverhältnis auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005502116)
 
 (1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein
 Beamtenverhältnis auf Probe berufen worden sind, gelten anstelle der
@@ -2059,6 +2129,7 @@ bis dahin geltenden Fassung anzuwenden.
 
 
 ### § 54 Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005601116)
 
 (1) Auf Beamtinnen und Beamte, die bis zum 31. Dezember 2015 nach § 54
 Absatz 2 Satz 1 der bis zum 26. Januar 2017 geltenden Fassung
@@ -2095,6 +2166,7 @@ S. 160) geändert worden ist, anzuwenden.
 
 
 ### § 55 Übergangsregelung zu § 27
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005702116)
 
 Auf Beamtinnen und Beamte, die zum Zeitpunkt des Inkrafttretens dieser
 Verordnung die Voraussetzungen des § 27 Absatz 1 Nummer 1 und 2
@@ -2104,11 +2176,13 @@ Anlassbeurteilung erstellt werden kann.
 
 
 ### § 56 Folgeänderungen
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005800000)
 
 -
 
 
 ### § 57 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE005900000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -2117,6 +2191,7 @@ der Verkündung in Kraft.
 
 
 ### Anlage 1 (zu § 9 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006104311)
 
 (Fundstelle: BGBl. I 2013, 318 - 320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2369,6 +2444,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2 (zu § 10 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006208311)
 
 (Fundstelle: BGBl. I 2013, 320 - 322;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2766,6 +2842,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (zu § 10 Absatz 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006301311)
 
 (Fundstelle: BGBl. I 2021, 3592)
 ## **Prüfungsnoten**
@@ -2845,6 +2922,7 @@ auszuweisen.
 
 
 ### Anlage 4 (zu § 51 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/blv_2009/BJNR028400009.html#BJNR028400009BJNE006404311)
 
 (Fundstelle: BGBl. I 2021, 3593–3599)
 ## **Tabelle 1**

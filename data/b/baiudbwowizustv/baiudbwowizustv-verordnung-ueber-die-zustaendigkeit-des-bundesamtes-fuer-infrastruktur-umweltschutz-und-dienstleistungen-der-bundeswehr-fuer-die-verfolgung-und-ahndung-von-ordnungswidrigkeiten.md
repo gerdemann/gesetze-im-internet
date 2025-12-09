@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000100000)
 
 Auf Grund des § 36 Absatz 3 des Gesetzes über Ordnungswidrigkeiten in
 der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602),
@@ -30,6 +31,7 @@ der Verteidigung:
 
 
 ## § 1 Zuständigkeit nach dem Lebensmittel- und Futtermittelgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000200000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 60 des Lebensmittel- und
@@ -42,6 +44,7 @@ zuständigen Stellen und Sachverständigen der Bundeswehr obliegt.
 
 
 ## § 2 Zuständigkeit nach dem Tierschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000300000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 18 des Tierschutzgesetzes wird auf das
@@ -52,6 +55,7 @@ Bundeswehr den zuständigen Dienststellen der Bundeswehr obliegt.
 
 
 ## § 3 Zuständigkeit nach dem Tiergesundheitsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000401360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 32 des Tiergesundheitsgesetzes wird auf
@@ -62,6 +66,7 @@ der Bundeswehr den zuständigen Dienststellen der Bundeswehr obliegt.
 
 
 ## § 4 Zuständigkeit nach dem Tierische Nebenprodukte-Beseitigungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000500000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 14 des Tierische Nebenprodukte-
@@ -73,6 +78,7 @@ Dienststellen der Bundeswehr obliegt.
 
 
 ## § 5 Zuständigkeit nach dem Infektionsschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000601360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 73 des Infektionsschutzgesetzes wird auf
@@ -83,6 +89,7 @@ zuständigen Stellen der Bundeswehr obliegt.
 
 
 ## § 6 Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000702360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des
@@ -92,6 +99,7 @@ Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr
 
 
 ## § 7 Zuständigkeit nach dem Gefahrgutbeförderungsgesetz in Verbindung mit der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE001001360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 10 Absatz 1 Nummer 1 Buchstabe b des
@@ -106,6 +114,7 @@ obliegt.
 
 
 ## § 8 Zuständigkeit nach der Trinkwasserverordnung
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000902360)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 72 Absatz 1 der Trinkwasserverordnung wird
@@ -116,6 +125,7 @@ zuständigen Stellen der Bundeswehr obliegt.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baiudbwowizustv/BJNR168500013.html#BJNR168500013BJNE000802360)
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Zuständigkeit des Bundesamtes für

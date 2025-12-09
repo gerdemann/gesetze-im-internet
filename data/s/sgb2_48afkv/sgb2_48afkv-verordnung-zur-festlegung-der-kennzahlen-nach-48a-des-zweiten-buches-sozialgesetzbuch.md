@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000100000)
 
 Auf Grund des § 48a Absatz 2 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende –, der durch Artikel 1 Nummer 14 des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000200000)
 
 Zur Erstellung der Kennzahlenvergleiche nach § 48a Absatz 1 des
 Zweiten Buches Sozialgesetzbuch werden Kennzahlen und Ergänzungsgrößen
@@ -36,6 +38,7 @@ festgelegt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000301126)
 
 (1) Kennzahlen und Ergänzungsgrößen sind relative Maßzahlen, die als
 Quotient aus einem Zähler und einem Nenner gebildet werden. Eine
@@ -79,6 +82,7 @@ beeinflusst werden können, ähnlich sind.
 
 
 ## § 3 Umsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000400000)
 
 Die Kennzahlen und Ergänzungsgrößen werden monatlich für alle
 Jobcenter gebildet. Berechnungsgrundlage sind die Daten nach § 51b
@@ -88,6 +92,7 @@ Alle Kennzahlen und Ergänzungsgrößen werden in Prozent abgebildet.
 
 
 ## § 4 Verringerung der Hilfebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000501308)
 
 (1) Kennzahl für die Verringerung der Hilfebedürftigkeit ist die
 „Veränderung der Summe der Leistungen zum Lebensunterhalt (ohne
@@ -173,6 +178,7 @@ Leistungen für Unterkunft und Heizung)“:
 
 
 ## § 5 Verbesserung der Integration in Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000602126)
 
 (1) Kennzahl für die Verbesserung der Integration in Erwerbstätigkeit
 ist die „Integrationsquote“:
@@ -263,6 +269,7 @@ nur eine Integration gezählt.
 
 
 ## § 6 Vermeidung von langfristigem Leistungsbezug
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000702126)
 
 (1) Kennzahl ist die „Veränderung des Bestands an
 Langzeitleistungsbeziehenden“:
@@ -320,6 +327,7 @@ waren.
 
 
 ## § 7 Form der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000800000)
 
 Das Bundesministerium für Arbeit und Soziales veröffentlicht monatlich
 die Ergebnisse zu den Kennzahlen und Ergänzungsgrößen sowie deren
@@ -329,6 +337,7 @@ Ergebnisse nach Vergleichstypen auszuweisen.
 
 
 ## § 8 Verfahren zur Weiterentwicklung dieser Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE000900000)
 
 Der Bund-Länder-Ausschuss nach § 18c des Zweiten Buches
 Sozialgesetzbuch begleitet die Umsetzung dieser Rechtsverordnung und
@@ -337,11 +346,13 @@ Arbeitsgruppe einrichten.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE001000000)
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_48afkv/BJNR115200010.html#BJNR115200010BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

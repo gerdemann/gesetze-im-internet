@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frstllgv/BJNR006010962.html#BJNR006010962BJNE000100312)
 
 Auf Grund des § 58 Abs. 1 Nr. 1 des Personenbeförderungsgesetzes vom
 21\. März 1961 (Bundesgesetzbl. I S. 241) wird mit Zustimmung der
@@ -28,6 +29,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/frstllgv/BJNR006010962.html#BJNR006010962BJNE000202308)
 
 Von den Vorschriften des Personenbeförderungsgesetzes werden
 freigestellt
@@ -135,6 +137,7 @@ Kraftomnibus nur dann, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frstllgv/BJNR006010962.html#BJNR006010962BJNE000300312)
 
 Diese Verordnung - mit Ausnahme des § 1 Nr. 5 - gilt nach § 14 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
@@ -143,11 +146,13 @@ Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/frstllgv/BJNR006010962.html#BJNR006010962BJNE000400312)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/frstllgv/BJNR006010962.html#BJNR006010962BJNE000500312)
 
 Der Bundesminister für Verkehr
 

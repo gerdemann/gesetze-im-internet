@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Zweck des Wohngeldes und Wohngeldberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000100000)
 
 
 ### § 1 Zweck des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000200000)
 
 (1) Das Wohngeld dient der wirtschaftlichen Sicherung angemessenen und
 familiengerechten Wohnens.
@@ -33,6 +35,7 @@ geleistet.
 
 
 ### § 2 Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000300000)
 
 Wohnraum sind Räume, die vom Verfügungsberechtigten zum Wohnen
 bestimmt und hierfür nach ihrer baulichen Anlage und Ausstattung
@@ -40,6 +43,7 @@ tatsächlich geeignet sind.
 
 
 ### § 3 Wohngeldberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004902126)
 
 (1) Wohngeldberechtigte Person ist für den Mietzuschuss jede
 natürliche Person, die Wohnraum gemietet hat und diesen selbst nutzt.
@@ -134,12 +138,15 @@ Aufenthaltsgesetzes sind.
 
 
 ## Teil 2 - Berechnung und Höhe des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000200000)
 
 
 ### Kapitel 1 - Berechnungsgrößen des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000300000)
 
 
 #### § 4 Berechnungsgrößen des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000500000)
 
 Das Wohngeld richtet sich nach
 
@@ -157,9 +164,11 @@ und ist nach § 19 zu berechnen.
 
 
 ### Kapitel 2 - Haushaltsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000400000)
 
 
 #### § 5 Haushaltsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000601305)
 
 (1) Haushaltsmitglied ist die wohngeldberechtigte Person, wenn der
 Wohnraum, für den sie Wohngeld beantragt, der Mittelpunkt ihrer
@@ -214,6 +223,7 @@ gelten die Sätze 1 bis 3 entsprechend.
 
 
 #### § 6 Zu berücksichtigende Haushaltsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000700000)
 
 (1) Bei der Berechnung des Wohngeldes sind vorbehaltlich des Absatzes
 2 und der §§ 7 und 8 sämtliche Haushaltsmitglieder zu berücksichtigen
@@ -241,6 +251,7 @@ Todesfall
 
 
 #### § 7 Ausschluss vom Wohngeld
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000812126)
 
 (1) Vom Wohngeld ausgeschlossen sind Empfänger und Empfängerinnen von
 
@@ -370,6 +381,7 @@ Der Ausschluss besteht nicht, wenn
 
 
 #### § 8 Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE000902305)
 
 (1) Der Ausschluss vom Wohngeld besteht vorbehaltlich des § 7 Abs. 1
 Satz 3 Nr. 2 und Abs. 2 Satz 2 Nr. 2 für die Dauer des
@@ -449,9 +461,11 @@ Buches Sozialgesetzbuch ist in diesem Fall nicht anzuwenden.
 
 
 ### Kapitel 3 - Miete und Belastung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000500000)
 
 
 #### § 9 Miete
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001003126)
 
 (1) Miete ist das vereinbarte Entgelt für die Gebrauchsüberlassung von
 Wohnraum auf Grund von Mietverträgen oder ähnlichen
@@ -495,6 +509,7 @@ Klimakomponente nach § 12 Absatz 7 zu Grunde zu legen.
 
 
 #### § 10 Belastung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001101126)
 
 (1) Belastung sind die Kosten für den Kapitaldienst und die
 Bewirtschaftung von Wohnraum in vereinbarter oder festgesetzter Höhe.
@@ -508,6 +523,7 @@ Absatz 7 erreicht oder übersteigt.
 
 
 #### § 11 Zu berücksichtigende Miete und Belastung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001203126)
 
 (1) Die bei der Berechnung des Wohngeldes zu berücksichtigende Miete
 oder Belastung ist die Summe aus
@@ -584,6 +600,7 @@ die Gesamtzahl der Haushaltsmitglieder maßgebend.
 
 
 #### § 12 Höchstbeträge für Miete und Belastung sowie Entlastung bei den Heizkosten und die Klimakomponente
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001307126)
 
 (1) Die monatlichen Höchstbeträge für Miete und Belastung sind
 vorbehaltlich des § 11 Absatz 3 nach der Anzahl der zu
@@ -819,9 +836,11 @@ Klimakomponente zu berücksichtigen:
 
 
 ### Kapitel 4 - Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000600000)
 
 
 #### § 13 Gesamteinkommen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001401126)
 
 (1) Das Gesamteinkommen ist die Summe der Jahreseinkommen (§ 14) der
 zu berücksichtigenden Haushaltsmitglieder abzüglich der Freibeträge
@@ -833,6 +852,7 @@ Gesamteinkommens.
 
 
 #### § 14 Jahreseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001509126)
 
 (1) Das Jahreseinkommen eines zu berücksichtigenden
 Haushaltsmitgliedes ist vorbehaltlich des Absatzes 3 die Summe der
@@ -1177,6 +1197,7 @@ zulässig.
 
 
 #### § 15 Ermittlung des Jahreseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001602126)
 
 (1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu
 Grunde zu legen, das im Zeitpunkt der Antragstellung im
@@ -1205,6 +1226,7 @@ monatlichen Einkommens zu Grunde zu legen.
 
 
 #### § 16 Abzugsbeträge für Steuern und Sozialversicherungsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001701305)
 
 Bei der Ermittlung des Jahreseinkommens sind von dem Betrag, der sich
 nach den §§ 14 und 15 ergibt, jeweils 10 Prozent abzuziehen, wenn zu
@@ -1234,6 +1256,7 @@ Jahr der Zurechnung entsprechend.
 
 
 #### § 17 Freibeträge
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001802126)
 
 Bei der Ermittlung des Gesamteinkommens sind die folgenden jährlichen
 Freibeträge abzuziehen:
@@ -1282,6 +1305,7 @@ Freibeträge abzuziehen:
 
 
 #### § 17a Freibetrag für zu berücksichtigende Haushaltsmitglieder mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005401126)
 
 (1) Für jedes zu berücksichtigende Haushaltsmitglied, das mindestens
 33 Jahre an Grundrentenzeiten nach § 76g Absatz 2 des Sechsten Buches
@@ -1347,6 +1371,7 @@ Voraussetzungen des § 27 berücksichtigt.
 
 
 #### § 18 Abzugsbeträge für Unterhaltsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE001902305)
 
 Bei der Ermittlung des Gesamteinkommens sind die folgenden zu
 erwartenden Aufwendungen zur Erfüllung gesetzlicher
@@ -1380,9 +1405,11 @@ abzuziehen.
 
 
 ### Kapitel 5 - Höhe des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000700000)
 
 
 #### § 19 Höhe des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002004126)
 
 (1) Das ungerundete monatliche Wohngeld für bis zu zwölf zu
 berücksichtigende Haushaltsmitglieder beträgt
@@ -1408,9 +1435,11 @@ berücksichtigenden Miete oder Belastung.
 
 
 ## Teil 3 - Nichtbestehen des Wohngeldanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000800000)
 
 
 ### § 20 Gesetzeskonkurrenz
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002104126)
 
 (1) (weggefallen)
 
@@ -1443,6 +1472,7 @@ Höhe weiterzuleisten; § 27 Abs. 2 und § 28 bleiben unberührt.
 
 
 ### § 21 Sonstige Gründe
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002200000)
 
 Ein Wohngeldanspruch besteht nicht,
 
@@ -1461,9 +1491,11 @@ Ein Wohngeldanspruch besteht nicht,
 
 
 ## Teil 4 - Bewilligung, Zahlung und Änderung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG000900000)
 
 
 ### § 22 Wohngeldantrag
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002300000)
 
 (1) Wohngeld wird nur auf Antrag der wohngeldberechtigten Person
 geleistet.
@@ -1488,6 +1520,7 @@ sind nicht anzuwenden.
 
 
 ### § 23 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002404305)
 
 (1) Soweit die Durchführung dieses Gesetzes es erfordert, sind
 folgende Personen verpflichtet, auf Verlangen der Wohngeldbehörde
@@ -1561,6 +1594,7 @@ anzuwenden.
 
 
 ### § 24 Wohngeldbehörde und Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002503126)
 
 (1) Zuständig für die Durchführung dieses Gesetzes sind die nach
 Landesrecht zuständigen Stellen. Die Landesregierung kann diese
@@ -1616,6 +1650,7 @@ den Wohngeldbescheid erlassen hat, zuständig für
 
 
 ### § 25 Bewilligungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002602126)
 
 (1) Das Wohngeld soll für zwölf Monate bewilligt werden. Der
 Bewilligungszeitraum kann unter Berücksichtigung der zu erwartenden
@@ -1670,6 +1705,7 @@ Erhöhung der Miete oder Belastung folgt.
 
 
 ### § 26 Zahlung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002702305)
 
 (1) Das Wohngeld ist an die wohngeldberechtigte Person zu zahlen. Es
 kann mit schriftlicher Einwilligung der wohngeldberechtigten Person
@@ -1693,6 +1729,7 @@ veranlassten Kosten sollen vom Wohngeld abgezogen werden.
 
 
 ### § 26a Vorläufige Zahlung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005500126)
 
 (1) Eine vorläufige Zahlung des Wohngeldes kann erfolgen, wenn zur
 Feststellung des Wohngeldanspruchs voraussichtlich längere Zeit
@@ -1732,6 +1769,7 @@ zu leistende Wohngeld, so ist der übersteigende Betrag zu erstatten. §
 
 
 ### § 27 Änderung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002804126)
 
 (1) Das Wohngeld ist auf Antrag neu zu bewilligen, wenn sich im
 laufenden Bewilligungszeitraum
@@ -1844,6 +1882,7 @@ Verhältnisse zulässig.
 
 
 ### § 28 Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE002905126)
 
 (1) Der Bewilligungsbescheid wird vom Ersten des Monats an unwirksam,
 in dem der Wohnraum, für den Wohngeld bewilligt ist, von keinem zu
@@ -1891,6 +1930,7 @@ bis 44 genannten Umstände.
 
 
 ### § 29 Haftung, Aufrechnung, Verrechnung und vorläufige Zahlungseinstellung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003001305)
 
 (1) Ist Wohngeld nach § 50 des Zehnten Buches Sozialgesetzbuch zu
 erstatten, haften neben der wohngeldberechtigten Person die
@@ -1935,6 +1975,7 @@ des § 66 des Ersten Buches Sozialgesetzbuch entzogen wurde.
 
 
 ### § 30 Rücküberweisung und Erstattung im Todesfall
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003101308)
 
 (1) Wird der Bewilligungsbescheid nach § 28 Abs. 1 Satz 1 auf Grund
 eines Todesfalles unwirksam, gilt Wohngeld, das für die Zeit nach dem
@@ -1992,6 +2033,7 @@ Kenntnis von der Überzahlung erlangt hat.
 
 
 ### § 30a Bagatellgrenze bei Rückforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005600126)
 
 Zur Erprobung einer Bagatellgrenze wird nach Aufhebung der Bewilligung
 oder Feststellung der Unwirksamkeit eines Wohngeldbescheides durch die
@@ -2002,6 +2044,7 @@ Dezember 2024.
 
 
 ### § 31 Rücknahme eines rechtswidrigen nicht begünstigenden Wohngeldbescheides
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003200000)
 
 Wird ein rechtswidriger nicht begünstigender Wohngeldbescheid mit
 Wirkung für die Vergangenheit zurückgenommen, muss die Wohngeldbehörde
@@ -2010,15 +2053,18 @@ längstens für zwei Jahre vor der Rücknahme Wohngeld leisten. Im
 
 
 ## Teil 5 - Kostentragung und Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG001000000)
 
 
 ### § 32 Erstattung des Wohngeldes durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003300000)
 
 Wohngeld nach diesem Gesetz, das von einem Land gezahlt worden ist,
 ist diesem zur Hälfte vom Bund zu erstatten.
 
 
 ### § 33 Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003407126)
 
 (1) Die Wohngeldbehörde ist verpflichtet, auf Verlangen
 
@@ -2174,9 +2220,11 @@ hat.
 
 
 ## Teil 6 - Wohngeldstatistik
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG001100000)
 
 
 ### § 34 Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003501308)
 
 (1) Über die Anträge und Entscheidungen nach diesem Gesetz sowie über
 die persönlichen und sachlichen Verhältnisse der zu berücksichtigenden
@@ -2197,6 +2245,7 @@ hinzuweisen.
 
 
 ### § 35 Erhebungs- und Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003605126)
 
 (1) Erhebungsmerkmale sind
 
@@ -2296,6 +2345,7 @@ dem die Erhebung durchgeführt worden ist (§ 36 Absatz 1).
 
 
 ### § 36 Erhebungszeitraum und Zusatzaufbereitungen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003705126)
 
 (1) Die Erhebung der Angaben nach § 35 Abs. 1 ist vierteljährlich für
 das jeweils abgelaufene Kalendervierteljahr durchzuführen. Die
@@ -2348,9 +2398,11 @@ zusammengeführt werden.
 
 
 ## Teil 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG001200000)
 
 
 ### § 37 Bußgeld
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003801305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -2377,6 +2429,7 @@ Euro geahndet werden.
 
 
 ### § 38 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE003903126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -2418,6 +2471,7 @@ Zustimmung des Bundesrates
 
 
 ### § 39 Wohngeld- und Mietenbericht; Bericht über die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004002126)
 
 (1) Die Höchstbeträge für Miete und Belastung (§ 12 Absatz 1), die
 Mietenstufen (§ 12 Absatz 2) und die Höhe des Wohngeldes (§ 19) sind
@@ -2447,6 +2501,7 @@ maßgeblichen Kennzahlen der Experimentierklausel des § 30a.
 
 
 ### § 40 Einkommen bei anderen Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004100000)
 
 Das einer vom Wohngeld ausgeschlossenen wohngeldberechtigten Person
 bewilligte Wohngeld ist bei Sozialleistungen nicht als deren Einkommen
@@ -2454,6 +2509,7 @@ zu berücksichtigen.
 
 
 ### § 41 Auswirkung von Rechtsänderungen auf die Wohngeldentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004201308)
 
 (1) Ist im Zeitpunkt des Inkrafttretens von Änderungen dieses Gesetzes
 oder der Wohngeldverordnung über einen Wohngeldantrag noch nicht
@@ -2475,9 +2531,11 @@ Rechts.
 
 
 ## Teil 8 - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNG001300000)
 
 
 ### § 42 Gesetz zur Neuregelung des Wohngeldrechts und zur Änderung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004300000)
 
 (1) Ist bis zum 31. Dezember 2008 über einen Wohngeldantrag, einen
 Antrag nach § 29 Abs. 1 oder Abs. 2 des Wohngeldgesetzes in der bis
@@ -2540,6 +2598,7 @@ angemessene vorläufige Zahlung zu leisten.
 
 
 ### § 42a Übergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur Änderung des Wohnraumförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004801305)
 
 (1) Ist Wohngeld vor dem 1. Januar 2016 bewilligt worden und liegt
 mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
@@ -2598,6 +2657,7 @@ Fassung anzuwenden. Im Übrigen gelten die Absätze 1 und 2.
 
 
 ### § 42b Übergangsregelung aus Anlass des Gesetzes zur Stärkung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005000126)
 
 (1) Ist Wohngeld vor dem 1. Januar 2020 bewilligt worden und liegt
 mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
@@ -2670,6 +2730,7 @@ entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
 Heizkosten im Wohngeld im Kontext der CO
 
 ### § 42c -Bepreisung
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005300126)
 
 (1) Ist Wohngeld vor dem 1. Januar 2021 bewilligt worden und liegt
 mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
@@ -2717,6 +2778,7 @@ entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
 
 
 ### § 42d Übergangsregelung aus Anlass des Wohngeld-Plus-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005700126)
 
 (1) Ist Wohngeld vor dem 1. Januar 2023 bewilligt worden und liegt
 mindestens ein Teil des Bewilligungszeitraums nach dem 31. Dezember
@@ -2773,6 +2835,7 @@ entsprechend anzuwenden. § 24 Absatz 2 und § 27 bleiben unberührt.
 
 
 ### § 43 Fortschreibung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004402126)
 
 (1) Wurden durch die Änderung dieses Gesetzes die Höchstbeträge für
 Miete und Belastung (§ 12 Absatz 1), die Mietenstufen (§ 12 Absatz 2)
@@ -2913,6 +2976,7 @@ Absätze 4 bis 9 entsprechend.
 
 
 ### § 44 Übergangsregelung bei Fortschreibung des Wohngeldes
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004703126)
 
 (1) Ist Wohngeld vor dem Inkrafttreten der Fortschreibung des
 Wohngeldes (§ 43) bewilligt worden und dauert mindestens ein Teil des
@@ -2966,6 +3030,7 @@ unberührt.
 
 
 ### § 45 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005201126)
 
 Personen, die
 
@@ -2986,6 +3051,7 @@ Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember
 
 
 ### Anlage 1 (zu § 12 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE005101126)
 
 (Fundstelle: BGBl. 2024 I Nr. 314, S. 1 – 2)
 
@@ -3227,6 +3293,7 @@ Absatz 1 Satz 3 und Absatz 2 und 3 in der Fassung bis zum 31. Dezember
 
 
 ### Anlage 2 (zu § 19 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004505126)
 
 (Fundstelle: BGBl. 2024 I Nr. 314, S. 3)
 
@@ -3427,6 +3494,7 @@ Werte „a“, „b“ und „c“ sind der nachfolgenden Tabelle zu entnehmen:
 
 
 ### Anlage 3 (zu § 19 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/wogg/BJNR185610008.html#BJNR185610008BJNE004605126)
 
 (Fundstelle: BGBl. 2024 I Nr. 314, S. 3)
 

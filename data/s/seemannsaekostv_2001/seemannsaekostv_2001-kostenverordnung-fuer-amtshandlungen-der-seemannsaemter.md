@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seemanns_kostv_2001/BJNR425500001.html#BJNR425500001BJNE000100305)
 
 Auf Grund des § 143a Abs. 2 des Seemannsgesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 9513-1, veröffentlichten
@@ -32,6 +33,7 @@ Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/seemanns_kostv_2001/BJNR425500001.html#BJNR425500001BJNE000200305)
 
 Die Seemannsämter erheben für Amtshandlungen auf dem Gebiet des
 Seemannsrechts Gebühren nach der Anlage zu dieser Verordnung. Neben
@@ -39,16 +41,19 @@ den Gebühren werden Auslagen erhoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/seemanns_kostv_2001/BJNR425500001.html#BJNR425500001BJNE000300305)
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/seemanns_kostv_2001/BJNR425500001.html#BJNR425500001BJNE000400305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/seemanns_kostv_2001/BJNR425500001.html#BJNR425500001BJNE000500305)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 4256 - 4257
 

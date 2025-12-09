@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrnokanal_bgv/BJNR044900008.html#BJNR044900008BJNE000100000)
 
 Auf Grund des § 2 Abs. 1 Satz 2 in Verbindung mit Abs. 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
@@ -27,6 +28,7 @@ Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrnokanal_bgv/BJNR044900008.html#BJNR044900008BJNE000200000)
 
 Die Nebenstrecke „Obereidersee mit Enge“ verliert die Eigenschaft
 einer dem allgemeinen Verkehr dienenden Binnenwasserstraße des Bundes
@@ -36,11 +38,13 @@ auf der Gemarkung Büdelsdorf auf die Stadt Büdelsdorf über.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrnokanal_bgv/BJNR044900008.html#BJNR044900008BJNE000300000)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrnokanal_bgv/BJNR044900008.html#BJNR044900008BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

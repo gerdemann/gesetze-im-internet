@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000100000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -34,6 +35,7 @@ Frauen und Jugend:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zur Fachhauswirtschafterin/zum
@@ -81,6 +83,7 @@ Geprüfte Fachhauswirtschafterin/ Geprüfter Fachhauswirtschafter.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000300000)
 
 (1) Zur Fortbildungsprüfung ist zuzulassen, wer
 
@@ -108,6 +111,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000400000)
 
 Die Prüfung umfaßt die Bereiche:
 
@@ -127,6 +131,7 @@ Die Prüfung umfaßt die Bereiche:
 
 
 ## § 4 Bereich Hauswirtschaftliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000500000)
 
 Im Bereich "Hauswirtschaftliche Leistungen" soll der
 Prüfungsteilnehmer nachweisen, daß er in der Lage ist, zu betreuende
@@ -177,6 +182,7 @@ betreuenden Personen. In diesem Rahmen können geprüft werden:
 
 
 ## § 5 Bereich Betreuung bei alltagsbezogenen Verrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000600000)
 
 Im Bereich "Betreuung bei alltagsbezogenen Verrichtungen" soll der
 Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die zu
@@ -216,6 +222,7 @@ hinzugezogen werden muß. In diesem Rahmen können geprüft werden:
 
 
 ## § 6 Bereich Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000700000)
 
 Im Bereich "Kommunikation" soll der Prüfungsteilnehmer nachweisen, daß
 er in der Lage ist, die zu betreuenden Personen in ihrer individuellen
@@ -266,6 +273,7 @@ In diesem Rahmen können geprüft werden:
 
 
 ## § 7 Bereich Berufliche und rechtliche Rahmenbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000800000)
 
 Im Bereich "Berufliche und rechtliche Rahmenbedingungen" soll der
 Prüfungsteilnehmer nachweisen, daß er Anforderungen und Aufgaben der
@@ -306,6 +314,7 @@ nachweisen. In diesem Rahmen können geprüft werden:
 
 
 ## § 8 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE000900000)
 
 (1) Die Prüfung gliedert sich in die Teile:
 
@@ -395,6 +404,7 @@ situationsbezogenen praktischen Fachaufgabe durchgeführt werden.
 
 
 ## § 9 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001000000)
 
 Von der Prüfung in einzelnen Prüfungsbereichen der schriftlichen
 Prüfung gemäß § 3 kann der Prüfungsteilnehmer auf Antrag von der
@@ -408,6 +418,7 @@ dem Fachgespräch ist nicht zulässig.
 
 
 ## § 10 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001100000)
 
 (1) Die drei Teile der Prüfung gemäß § 8 Abs. 1 sind gesondert zu
 bewerten.
@@ -429,6 +440,7 @@ anzugeben.
 
 
 ## § 11 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001200000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -442,6 +454,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 12 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001300000)
 
 Prüfungen auf der Grundlage entsprechender Rechtsvorschriften nach §
 46 Abs. 1 des Berufsbildungsgesetzes können noch bis zum 30. April
@@ -449,11 +462,13 @@ Prüfungen auf der Grundlage entsprechender Rechtsvorschriften nach §
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001400000)
 
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
 
 
 ## Anlage (zu § 10 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/fachhwirtprv/BJNR186500996.html#BJNR186500996BJNE001500000)
 
 (Fundstelle: BGBl. I 1996, 1869)
 Muster

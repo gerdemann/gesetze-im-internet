@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 Nummer 1 bis 3 des
 Reisesicherungsfondsgesetzes vom 25. Juni 2021 (BGBl. I S. 2114)
@@ -27,9 +28,11 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## Abschnitt 1 - Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNG000100000)
 
 
 ### § 1 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000200000)
 
 (1) Der Gesellschaftsvertrag regelt, dass die Geschäftsführung des
 Reisesicherungsfonds aus mindestens zwei Geschäftsführern besteht.
@@ -58,6 +61,7 @@ dokumentieren.
 
 
 ### § 2 Verträge mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000300000)
 
 Die Geschäftsführung gewährleistet, dass der Reisesicherungsfonds
 Verträge mit Dritten nur zu angemessenen und marktüblichen Konditionen
@@ -68,6 +72,7 @@ Gesetzbuchs dürfen nicht getätigt werden.
 
 
 ### § 3 Organisationsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000400000)
 
 (1) Der Reisesicherungsfonds hat eine Organisationsstruktur, die klare
 und abgrenzbare Zuständigkeiten ermöglicht.
@@ -83,6 +88,7 @@ Reisesicherungsfonds angemessenen Weise zu trennen.
 
 
 ### § 4 Besondere Organisationsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000500000)
 
 (1) Der Reisesicherungsfonds richtet folgende gleichrangige
 Schlüsselfunktionen ein:
@@ -131,6 +137,7 @@ Aufgaben Leitlinien zu entwickeln und zu implementieren:
 
 
 ### § 5 Ausgliederung von Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000600000)
 
 Der Reisesicherungsfonds kann Funktionen ausgliedern. In einem solchen
 Fall bleibt er jedoch für die ordnungsgemäße Erfüllung aller
@@ -140,6 +147,7 @@ nicht beeinträchtigt werden.
 
 
 ### § 6 Schutz sensibler Informationen
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000700000)
 
 (1) Die Geschäftsorganisation des Reisesicherungsfonds ist so zu
 gestalten, dass sie eine strikte Trennung zwischen Gesellschaftern,
@@ -156,6 +164,7 @@ aufgetretenen Schutzlücken und dazu, wie hierauf reagiert wurde.
 
 
 ### § 7 Schadensabwicklung; Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000800000)
 
 (1) Der Reisesicherungsfonds gewährleistet, dass im Fall der Insolvenz
 eines abgesicherten Reiseanbieters rechtzeitig eine effiziente und
@@ -173,6 +182,7 @@ zur Abwicklung von Schäden einschließlich Repatriierung.
 
 
 ### § 8 Allgemeine Absicherungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE000900000)
 
 (1) Die allgemeinen Absicherungsbedingungen des Reisesicherungsfonds
 einschließlich der Bedingungen betreffend die Entgelte und
@@ -211,6 +221,7 @@ anzupassen.
 
 
 ### § 9 Geschäftsplan
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001000000)
 
 (1) Der Reisesicherungsfonds erarbeitet einen Geschäftsplan, aus dem
 hervorgeht, wie insbesondere die folgenden gesetzlichen Aufgaben
@@ -237,6 +248,7 @@ erfüllt werden sollen:
 
 
 ### § 10 Zusammensetzung des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001100000)
 
 (1) Der Reisesicherungsfonds beruft einen aus sachkundigen und
 vertrauenswürdigen Personen bestehenden Beirat, der die
@@ -282,6 +294,7 @@ Die Wiederbenennung ist möglich.
 
 
 ### § 11 Beteiligung des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001200000)
 
 (1) Der Beirat und die Geschäftsführung arbeiten vertrauensvoll
 zusammen. Vor wesentlichen Maßnahmen der Geschäftsführung ist der
@@ -317,6 +330,7 @@ Mitglieder des Beirats zum Ausdruck kommen.
 
 
 ### § 12 Organisation des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001300000)
 
 (1) Der Beirat bestimmt einen Vorsitzenden und einen Stellvertreter.
 Diese vertreten den Beirat gegenüber der Geschäftsführung.
@@ -327,6 +341,7 @@ Weise seiner Beschlussfassung enthält.
 
 
 ### § 13 Sitzungen des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001400000)
 
 (1) Der Beirat tritt nach Bedarf zusammen, jedoch mindestens einmal
 jährlich. Der Beirat ist einzuberufen, wenn die Aufsichtsbehörde, die
@@ -359,9 +374,11 @@ Recht, an den Sitzungen des Beirats teilzunehmen.
 
 
 ## Abschnitt 2 - Erlaubnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNG000200000)
 
 
 ### § 14 Antrag und Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001500000)
 
 (1) Der Antrag auf Erlaubnis zur Aufnahme des Geschäftsbetriebs (§ 12
 Absatz 1 des Reisesicherungsfondsgesetzes) ist bei der
@@ -434,6 +451,7 @@ Einreichung bestimmter in Absatz 2 genannter Unterlagen verzichten.
 
 
 ### § 15 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001600000)
 
 (1) Die Aufsichtsbehörde erteilt die Erlaubnis zur Aufnahme des
 Geschäftsbetriebs schriftlich. Sie kann mit der Erlaubnis anordnen,
@@ -459,9 +477,11 @@ bekannt.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNG000300000)
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rsfv/BJNR234910021.html#BJNR234910021BJNE001700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

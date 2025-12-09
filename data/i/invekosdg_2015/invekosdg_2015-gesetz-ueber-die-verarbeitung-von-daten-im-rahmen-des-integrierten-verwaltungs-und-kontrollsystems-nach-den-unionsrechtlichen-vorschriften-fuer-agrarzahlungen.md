@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000101119)
 
 (1) Dieses Gesetz dient der Durchführung des Integrierten Verwaltungs-
 und Kontrollsystems nach Titel V Kapitel II der Verordnung (EU) Nr.
@@ -94,6 +95,7 @@ nicht anzuwenden.
 
 
 ## § 2 Betriebsdaten
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000200000)
 
 Betriebsdaten sind die in der Anlage bezeichneten Daten,
 
@@ -127,6 +129,7 @@ Betriebsdaten sind die in der Anlage bezeichneten Daten,
 
 
 ## § 3 Verarbeitung von Daten durch Zahlstellen und Fachüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000301119)
 
 (1) Jede Zahlstelle erhebt in ihrem Zuständigkeitsbereich
 Betriebsdaten zum Zwecke
@@ -214,6 +217,7 @@ automatisierten Abrufverfahren erfolgen.
 
 
 ## § 4 Übermittlung von Daten durch die Zahlstelle an die Bescheinigende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000400000)
 
 Zum Zwecke der Stellungnahme nach Artikel 9 Absatz 1 Satz 3 der
 Verordnung (EU) Nr. 1306/2013 in Verbindung mit dem nach Artikel 9
@@ -226,6 +230,7 @@ erforderlich sind.
 
 
 ## § 5 Übermittlung von Daten durch die Zahlstelle zum Zwecke des Informationsaustausches im Rahmen des Rechnungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000500000)
 
 Zum Zwecke des Informationsaustausches und der Unterrichtung der
 Europäischen Kommission durch die Mitgliedstaaten nach Artikel 102 der
@@ -240,6 +245,7 @@ Durchführungsrechtsakte die danach erforderlichen Betriebsdaten.
 
 
 ## § 6 Kontrolle von Erzeugerorganisationen durch die Zahlstellen
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000601119)
 
 Die Zahlstelle verarbeitet die Namen, die Anschriften und die
 Betriebsnummern der Mitglieder von Erzeugerorganisationen im Sektor
@@ -256,6 +262,7 @@ erfolgen. § 7 Absatz 1 und 2 gilt entsprechend.
 
 
 ## § 7 Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000701119)
 
 (1) Unbeschadet der Vorgaben nach Artikel 69 Absatz 1 Unterabsatz 2
 der Verordnung (EU) Nr. 1306/2013, eines auf Artikel 50 Absatz 2
@@ -281,6 +288,7 @@ Verarbeitung, soweit
 
 
 ## § 8 Abweichendes Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000801119)
 
 Die Länder können die Betriebsdaten nach Maßgabe ihres
 Landesorganisationsrechts durch andere Stellen als die Zahlstellen
@@ -288,6 +296,7 @@ oder die Fachüberwachungsbehörden verarbeiten lassen.
 
 
 ## § 9 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE000902119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
@@ -369,6 +378,7 @@ nach Satz 1 durch Rechtsverordnung auf oberste Landesbehörden
 (zu § 2)
 
 ## Anlage Verzeichnis der Betriebsdaten
+[Direktlink](https://www.gesetze-im-internet.de/invekosdg_2015/BJNR193100014.html#BJNR193100014BJNE001003119)
 
 (Fundstelle: BGBl. I 2014, 1934)
 

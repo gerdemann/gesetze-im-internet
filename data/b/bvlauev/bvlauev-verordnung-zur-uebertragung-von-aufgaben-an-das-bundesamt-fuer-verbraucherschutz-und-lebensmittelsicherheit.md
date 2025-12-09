@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bvla_v/BJNR097200008.html#BJNR097200008BJNE000100000)
 
 Auf Grund des § 65 Satz 1 Nr. 3 des Lebensmittel- und
 Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
@@ -29,6 +30,7 @@ Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bvla_v/BJNR097200008.html#BJNR097200008BJNE000204116)
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
@@ -104,11 +106,13 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bvla_v/BJNR097200008.html#BJNR097200008BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bvla_v/BJNR097200008.html#BJNR097200008BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

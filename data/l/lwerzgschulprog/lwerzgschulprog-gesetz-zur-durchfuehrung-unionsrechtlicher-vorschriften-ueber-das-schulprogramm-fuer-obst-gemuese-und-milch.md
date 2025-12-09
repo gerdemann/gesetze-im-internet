@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000201119)
 
 Dieses Gesetz dient der Durchführung der Vorschriften über die
 Gewährung einer Beihilfe für die Abgabe von Obst und Gemüse,
@@ -82,6 +84,7 @@ durch die Länder nach Maßgabe der folgenden Bestimmungen.
 
 
 ## § 2 Anwendbare Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000301119)
 
 Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des
 Marktorganisationsgesetzes mit folgenden Maßgaben:
@@ -112,6 +115,7 @@ durch Rechtsverordnungen auf oberste Landesbehörden übertragen.
 
 
 ## § 3 Teilnahme am Schulprogramm für landwirtschaftliche Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000401119)
 
 (1) Die Teilnahme am Schulprogramm für landwirtschaftliche Erzeugnisse
 ist für jedes vom 1. August bis zum 31. Juli des Folgejahres laufende
@@ -187,6 +191,7 @@ Absatz 1.
 
 
 ## § 4 Verteilung der Unionsbeihilfe auf die Länder
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000501119)
 
 (1) Die für das Schulprogramm für landwirtschaftliche Erzeugnisse
 bereitgestellte Unionsbeihilfe wird vom Bundesministerium auf die
@@ -265,6 +270,7 @@ landwirtschaftliche Erzeugnisse gewähren.
 
 
 ## § 5 Sonstige Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000601119)
 
 (1) Die Länder teilen der Bundesanstalt für Landwirtschaft und
 Ernährung bis zum 15. Dezember jeden Kalenderjahres die
@@ -283,6 +289,7 @@ Kalenderjahres, das auf das Ende des Berichtszeitraumes folgt.
 
 
 ## § 6 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000701119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
@@ -305,10 +312,12 @@ nach § 4 auf die Bundesanstalt für Landwirtschaft und Ernährung zu
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000801119)
 
 
 
 ## § 8 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE000900000)
 
 (1) Für die Gewährung der Gemeinschafts- oder Unionsbeihilfe im Rahmen
 der Gewährung einer Beihilfe für die Abgabe von Obst und Gemüse,
@@ -328,6 +337,7 @@ jeweilige Schuljahr gegolten hat, weiter anzuwenden.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwerzgschulprog/BJNR285800016.html#BJNR285800016BJNE001000000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

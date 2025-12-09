@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000108140)
 
 
 
 ### § 1 Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE003619116)
 
 (1)
 1Natürliche Personen, die im Inland einen Wohnsitz oder ihren
@@ -130,6 +132,7 @@ Einkünfte im Sinne des § 49 haben.
 
 
 ### § 1a
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023113123)
 
 (1) Für Staatsangehörige eines Mitgliedstaates der Europäischen Union
 oder eines Staates, auf den das Abkommen über den Europäischen
@@ -186,14 +189,17 @@ ausländischen Dienstortes abzustellen ist.
 
 
 ## II. - Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000208140)
 
 
 
 ### 1. - Sachliche Voraussetzungen für die Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000308140)
 
 
 
 #### § 2 Umfang der Besteuerung, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE003735123)
 
 (1)
 1Der Einkommensteuer unterliegen
@@ -314,6 +320,7 @@ Lebenspartner und Lebenspartnerschaften anzuwenden.
 
 
 #### § 2a Negative Einkünfte mit Bezug zu Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE016917140)
 
 (1)
 1Negative Einkünfte
@@ -468,10 +475,12 @@ durchzuführen.
 
 
 ### 2. - Steuerfreie Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000408140)
 
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE049005123)
 
 Steuerfrei sind
 
@@ -1831,6 +1840,7 @@ Steuerfrei sind
 
 
 #### § 3a Sanierungserträge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE003914123)
 
 (1)
 1Betriebsvermögensmehrungen oder Betriebseinnahmen aus einem
@@ -2015,6 +2025,7 @@ vorliegen.
 
 
 #### § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004012140)
 
 (1) Steuerfrei sind Zuschläge, die für tatsächlich geleistete
 Sonntags-, Feiertags- oder Nachtarbeit neben dem Grundlohn gezahlt
@@ -2064,6 +2075,7 @@ von den Absätzen 1 und 2 Folgendes:
 
 
 #### § 3c Anteilige Abzüge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE040300123)
 
 (1) Ausgaben dürfen, soweit sie mit steuerfreien Einnahmen in
 unmittelbarem wirtschaftlichen Zusammenhang stehen, nicht als
@@ -2155,10 +2167,12 @@ abgelaufen ist.
 
 
 ### 3. - Gewinn
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000508140)
 
 
 
 #### § 4 Gewinnbegriff im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE044903123)
 
 (1)
 1Gewinn ist der Unterschiedsbetrag zwischen dem Betriebsvermögen am
@@ -2484,6 +2498,7 @@ oder Studium) abgeschlossen hat.
 
 
 #### § 4a Gewinnermittlungszeitraum, Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004308140)
 
 (1)
 1Bei Land- und Forstwirten und bei Gewerbetreibenden ist der Gewinn
@@ -2535,6 +2550,7 @@ Einkommens in folgender Weise zu berücksichtigen:
 
 
 #### § 4b Direktversicherung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004408140)
 
 1Der Versicherungsanspruch aus einer Direktversicherung, die von einem
 Steuerpflichtigen aus betrieblichem Anlass abgeschlossen wird, ist dem
@@ -2550,6 +2566,7 @@ oder Beleihung nicht erfolgt wäre.
 
 
 #### § 4c Zuwendungen an Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004511123)
 
 (1)
 1Zuwendungen an eine Pensionskasse dürfen von dem Unternehmen, das die
@@ -2570,6 +2587,7 @@ betrieblich veranlasst wären.
 
 
 #### § 4d Zuwendungen an Unterstützungskassen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004621123)
 
 (1)
 1Zuwendungen an eine Unterstützungskasse dürfen von dem Unternehmen,
@@ -2780,6 +2798,7 @@ den Antrag gebunden.
 
 
 #### § 4e Beiträge an Pensionsfonds
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026903377)
 
 (1) Beiträge an einen Pensionsfonds im Sinne des § 236 des
 Versicherungsaufsichtsgesetzes dürfen von dem Unternehmen, das die
@@ -2814,6 +2833,7 @@ Unterstützungskasse an den Arbeitgeber kommt.
 
 
 #### § 4f Verpflichtungsübernahmen, Schuldbeitritte und Erfüllungsübernahmen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031706123)
 
 (1)
 1Werden Verpflichtungen übertragen, die beim ursprünglich
@@ -2857,6 +2877,7 @@ erbrachten Leistungen Absatz 1 Satz 1, 2 und 7 entsprechend.
 
 
 #### § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE032505123)
 
 (1)
 1Der Steuerpflichtige kann in Höhe des Unterschiedsbetrags zwischen
@@ -2916,6 +2937,7 @@ Mitgliedstaaten der Europäischen Union ausgeschieden gilt.
 
 
 #### § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034206123)
 
 (1)
 1Zinsaufwendungen eines Betriebs sind abziehbar in Höhe des
@@ -3098,6 +3120,7 @@ Infrastrukturprojekt im Sinne des Satzes 1 entfallen, außer Ansatz.
 
 
 #### § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039201116)
 
 1Aufwendungen dürfen nicht als Sonderbetriebsausgaben abgezogen
 werden, soweit sie auch die Steuerbemessungsgrundlage in einem anderen
@@ -3109,6 +3132,7 @@ Besteuerung in dem anderen Staat.
 
 
 #### § 4j Aufwendungen für Rechteüberlassungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039602123)
 
 (1)
 1Aufwendungen für die Überlassung der Nutzung oder des Rechts auf
@@ -3184,6 +3208,7 @@ Besteuerung nach Absatz 2 nur zum Teil abziehbar.
 [^F798754_01_BJNR010050934BJNE039602123]: 
 
 #### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE047300123)
 
 (1)
 1Aufwendungen für die Nutzung oder im Zusammenhang mit der Übertragung
@@ -3312,6 +3337,7 @@ Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden.
 
 
 #### § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004720123)
 
 (1)
 1Bei Gewerbetreibenden, die auf Grund gesetzlicher Vorschriften
@@ -3456,6 +3482,7 @@ die insoweit verbleibende Rücklage erhöhend aufzulösen.
 
 
 #### § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026313123)
 
 (1)
 1Anstelle der Ermittlung des Gewinns nach § 4 Absatz 1 oder § 5 ist
@@ -3625,6 +3652,7 @@ Anschaffungs- oder Herstellungskosten zugrunde zu legen.
 
 
 #### § 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE036703123)
 
 (1)
 1Wird der Gewinn nach § 4 Absatz 1, § 5 oder § 5a ermittelt, so ist
@@ -3658,6 +3686,7 @@ auf eine elektronische Übermittlung verzichten.
 
 
 #### § 6 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004855123)
 
 (1) Für die Bewertung der einzelnen Wirtschaftsgüter, die nach § 4
 Absatz 1 oder nach § 5 als Betriebsvermögen anzusetzen sind, gilt das
@@ -4189,6 +4218,7 @@ Wirtschaftsguts.
 
 
 #### § 6a Pensionsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE004916377)
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung
 (Pensionsrückstellung) nur gebildet werden, wenn und soweit
@@ -4340,6 +4370,7 @@ Rechtsverhältnis als einem Dienstverhältnis steht.
 
 
 #### § 6b Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005024123)
 
 (1)
 1Steuerpflichtige, die
@@ -4591,6 +4622,7 @@ Vermögensmassen beteiligt sind.
 
 
 #### § 6c Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter bei der Ermittlung des Gewinns nach § 4 Absatz 3 oder nach Durchschnittssätzen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005110140)
 
 (1)
 1§ 6b mit Ausnahme des § 6b Absatz 4 Nummer 1 ist entsprechend
@@ -4616,6 +4648,7 @@ Betriebseinnahmen (Zuschlag) behandelt worden sind.
 
 
 #### § 6d Euroumrechnungsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020022140)
 
 (1)
 1Ausleihungen, Forderungen und Verbindlichkeiten im Sinne des Artikels
@@ -4649,6 +4682,7 @@ Buchführung verfolgt werden können.
 
 
 #### § 6e Fondsetablierungskosten als Anschaffungskosten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE041200123)
 
 (1)
 1Zu den Anschaffungskosten von Wirtschaftsgütern, die ein
@@ -4687,6 +4721,7 @@ anzuwenden.
 
 
 #### § 7 Absetzung für Abnutzung oder Substanzverringerung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005235123)
 
 (1)
 1Bei Wirtschaftsgütern, deren Verwendung oder Nutzung durch den
@@ -5052,6 +5087,7 @@ Substanzverzehrs zulässig (Absetzung für Substanzverringerung).
 
 
 #### § 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005312123)
 
 (1)
 1Werden in dem Zeitraum, in dem bei einem Wirtschaftsgut erhöhte
@@ -5144,6 +5180,7 @@ Restnutzungsdauer.
 
 
 #### § 7b Sonderabschreibung für Mietwohnungsneubau
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE040902123)
 
 (1)
 1Für die Anschaffung oder Herstellung neuer Wohnungen, die in einem
@@ -5274,19 +5311,23 @@ Unternehmen im Sinne der De-minimis-Verordnung eingehalten werden.
 
 
 #### (XXXX) §§ 7c bis 7d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005413123)
 
 
 
 #### § 7e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005711140)
 
 -
 
 
 #### § 7f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005812377)
 
 
 
 #### § 7g Investitionsabzugsbeträge und Sonderabschreibungen zur Förderung kleiner und mittlerer Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE017231123)
 
 (1)
 1Steuerpflichtige können für die künftige Anschaffung oder Herstellung
@@ -5434,6 +5475,7 @@ Sonderbetriebsvermögen.
 
 
 #### § 7h Erhöhte Absetzungen bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020412123)
 
 (1)
 1Bei einem im Inland belegenen Gebäude in einem förmlich festgelegten
@@ -5490,6 +5532,7 @@ auf im Teileigentum stehende Räume entsprechend anzuwenden.
 
 
 #### § 7i Erhöhte Absetzungen bei Baudenkmalen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020511123)
 
 (1)
 1Bei einem im Inland belegenen Gebäude, das nach den jeweiligen
@@ -5543,14 +5586,17 @@ Bescheinigung gewährt, so ist diese entsprechend zu ändern.
 
 
 #### § 7k (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020608377)
 
 
 
 ### 4. - Überschuss der Einnahmen über die Werbungskosten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000608140)
 
 
 
 #### § 8 Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE005926123)
 
 (1)
 1Einnahmen sind alle Güter, die in Geld oder Geldeswert bestehen und
@@ -5677,6 +5723,7 @@ Anspruch auf diese hat.
 
 
 #### § 9 Werbungskosten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006050123)
 
 (1)
 1Werbungskosten sind Aufwendungen zur Erwerbung, Sicherung und
@@ -6040,6 +6087,7 @@ durchlaufen hat.
 
 
 #### § 9a Pauschbeträge für Werbungskosten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006124123)
 
 1Für Werbungskosten sind bei der Ermittlung der Einkünfte die
 folgenden Pauschbeträge abzuziehen, wenn nicht höhere Werbungskosten
@@ -6078,10 +6126,12 @@ bis zur Höhe der Einnahmen abgezogen werden.
 
 
 ### 4a. - Umsatzsteuerrechtlicher Vorsteuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000708140)
 
 
 
 #### § 9b
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006214119)
 
 (1) Der Vorsteuerbetrag nach § 15 des Umsatzsteuergesetzes gehört,
 soweit er bei der Umsatzsteuer abgezogen werden kann, nicht zu den
@@ -6101,10 +6151,12 @@ Satzes 1 unberührt.
 
 
 ### 5. - Sonderausgaben
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000808140)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006383123)
 
 (1) Sonderausgaben sind die folgenden Aufwendungen, wenn sie weder
 Betriebsausgaben noch Werbungskosten sind oder wie Betriebsausgaben
@@ -6736,6 +6788,7 @@ des 60. Lebensjahres vorsehen darf.
 
 
 #### § 10a Zusätzliche Altersvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027037123)
 
 (1)
 1In der inländischen gesetzlichen Rentenversicherung
@@ -6967,6 +7020,7 @@ Fassung anzuwenden.
 
 
 #### § 10b Steuerbegünstigte Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006532123)
 
 (1)
 1Zuwendungen (Spenden und Mitgliedsbeiträge) zur Förderung
@@ -7139,6 +7193,7 @@ ist; § 191 Absatz 5 der Abgabenordnung ist nicht anzuwenden.
 
 
 #### § 10c Sonderausgaben-Pauschbetrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006631377)
 
 1Für Sonderausgaben nach § 10 Absatz 1 Nummer 4, 5, 7 und 9 sowie
 Absatz 1a und nach § 10b wird ein Pauschbetrag von 36 Euro abgezogen
@@ -7149,6 +7204,7 @@ Sonderausgaben-Pauschbetrag.
 
 
 #### § 10d Verlustabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006728123)
 
 (1)
 1Negative Einkünfte, die bei der Ermittlung des Gesamtbetrags der
@@ -7228,6 +7284,7 @@ unterlassen hat.
 
 
 #### § 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE037200140)
 
 (1)
 1Der Steuerpflichtige kann von den Herstellungskosten einer Wohnung in
@@ -7425,6 +7482,7 @@ entsprechend anzuwenden.
 
 
 #### § 10f Steuerbegünstigung für zu eigenen Wohnzwecken genutzte Baudenkmale und Gebäude in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020709140)
 
 (1)
 1Der Steuerpflichtige kann Aufwendungen an einem eigenen Gebäude im
@@ -7490,6 +7548,7 @@ entsprechend anzuwenden.
 
 
 #### § 10g Steuerbegünstigung für schutzwürdige Kulturgüter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030106377)
 
 (1)
 1Der Steuerpflichtige kann Aufwendungen für Herstellungs- und
@@ -7576,18 +7635,22 @@ im Teileigentum stehende Räume entsprechend anzuwenden.
 
 
 #### § 10h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030203377)
 
 
 
 #### § 10i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026006377)
 
 
 
 ### 6. - Vereinnahmung und Verausgabung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG000908140)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006811140)
 
 (1)
 1Einnahmen sind innerhalb des Kalenderjahres bezogen, in dem sie dem
@@ -7622,6 +7685,7 @@ bleiben unberührt.
 
 
 #### § 11a Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020807123)
 
 (1)
 1Der Steuerpflichtige kann durch Zuschüsse aus Sanierungs- oder
@@ -7656,6 +7720,7 @@ Zeitraum zu verteilen.
 
 
 #### § 11b Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020906140)
 
 1Der Steuerpflichtige kann durch Zuschüsse aus öffentlichen Kassen
 nicht gedeckten Erhaltungsaufwand für ein im Inland belegenes Gebäude
@@ -7681,10 +7746,12 @@ Absatz 2 und 3 sind entsprechend anzuwenden.
 
 
 ### 7. - Nicht abzugsfähige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001008140)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE006929123)
 
 Soweit in § 10 Absatz 1 Nummer 2 bis 5, 7 und 9 sowie Absatz 1a Nummer
 1, den §§ 10a, 10b und den §§ 33 bis 33b nichts anderes bestimmt ist,
@@ -7728,14 +7795,17 @@ der Einkünfte abgezogen werden
 
 
 ### 8. - Die einzelnen Einkunftsarten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001108140)
 
 
 
 #### a) - Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001208140)
 
 
 
 ##### § 13 Einkünfte aus Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE047401123)
 
 (1) Einkünfte aus Land- und Forstwirtschaft sind
 
@@ -7888,6 +7958,7 @@ betragen.
 
 
 ##### § 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007117377)
 
 (1)
 1Der Gewinn eines Betriebs der Land- und Forstwirtschaft ist nach den
@@ -8073,6 +8144,7 @@ Ergebnisse der Erhebungen nach § 2 des Landwirtschaftsgesetzes und im
 
 
 ##### § 13b Gemeinschaftliche Tierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE041400123)
 
 (1)
 1Zu den Einkünften aus Land- und Forstwirtschaft gehören auch die
@@ -8169,6 +8241,7 @@ sind entsprechend anzuwenden.
 
 
 ##### § 14 Veräußerung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007210123)
 
 (1)
 1Zu den Einkünften aus Land- und Forstwirtschaft gehören auch Gewinne,
@@ -8206,6 +8279,7 @@ entsprechend.
 
 
 ##### § 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007319140)
 
 (1)
 1Veräußert ein Steuerpflichtiger nach dem 30. Juni 1970 und vor dem 1.
@@ -8350,10 +8424,12 @@ Fassungen gewährt worden sind, anzurechnen.
 
 
 #### b) - Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001308140)
 
 
 
 ##### § 15 Einkünfte aus Gewerbebetrieb
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007423123)
 
 (1)
 1Einkünfte aus Gewerbebetrieb sind
@@ -8494,6 +8570,7 @@ Mitunternehmer entfällt.
 
 
 ##### § 15a Verluste bei beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007512140)
 
 (1)
 1Der einem Kommanditisten zuzurechnende Anteil am Verlust der
@@ -8624,6 +8701,7 @@ eines Kommanditisten vergleichbar ist, insbesondere für
 
 
 ##### § 15b Verluste im Zusammenhang mit Steuerstundungsmodellen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031604377)
 
 (1)
 1Verluste im Zusammenhang mit einem Steuerstundungsmodell dürfen weder
@@ -8688,6 +8766,7 @@ die gesonderten Feststellungen nach Satz 1 einheitlich durchzuführen.
 
 
 ##### § 16 Veräußerung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007625123)
 
 (1)
 1Zu den Einkünften aus Gewerbebetrieb gehören auch Gewinne, die
@@ -8821,6 +8900,7 @@ Umwandlungssteuergesetzes gilt entsprechend.
 
 
 ##### § 17 Veräußerung von Anteilen an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007723123)
 
 (1)
 1Zu den Einkünften aus Gewerbebetrieb gehört auch der Gewinn aus der
@@ -8978,10 +9058,12 @@ einer Genossenschaft einschließlich der Europäischen Genossenschaft.
 
 
 #### c) - Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001408140)
 
 
 
 ##### § 18
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007817140)
 
 (1) Einkünfte aus selbständiger Arbeit sind
 
@@ -9046,10 +9128,12 @@ Betriebsvermögen gehört hat.
 
 
 #### d) - Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001508140)
 
 
 
 ##### § 19
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE007923123)
 
 (1)
 1Zu den Einkünften aus nichtselbständiger Arbeit gehören
@@ -9752,6 +9836,7 @@ berücksichtigen.
 
 
 ##### § 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052200123)
 
 (1)
 1Werden einem Arbeitnehmer von seinem Arbeitgeber oder einem
@@ -9874,10 +9959,12 @@ vor Ablauf von sechs Jahren nach der Besteuerung im Sinne des Absatzes
 
 
 #### e) - Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001608140)
 
 
 
 ##### § 20
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008053123)
 
 (1) Zu den Einkünften aus Kapitalvermögen gehören
 
@@ -10334,10 +10421,12 @@ Kapitalerträge.
 
 
 #### f) - Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001708140)
 
 
 
 ##### § 21
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008117123)
 
 (1)
 1Einkünfte aus Vermietung und Verpachtung sind
@@ -10383,10 +10472,12 @@ diesen gehören.
 
 
 #### g) - Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001808140)
 
 
 
 ##### § 22 Arten der sonstigen Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008342123)
 
 Sonstige Einkünfte sind
 
@@ -11233,6 +11324,7 @@ Sonstige Einkünfte sind
 
 
 ##### § 22a Rentenbezugsmitteilungen an die zentrale Stelle
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE049501123)
 
 (1)
 1Nach Maßgabe des § 93c der Abgabenordnung haben die Träger der
@@ -11393,6 +11485,7 @@ Rentenversicherung zu übermitteln.
 
 
 ##### § 23 Private Veräußerungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008425123)
 
 (1)
 1Private Veräußerungsgeschäfte (§ 22 Nummer 2) sind
@@ -11493,10 +11586,12 @@ erzielt; § 10d Absatz 4 gilt entsprechend.
 
 
 #### h) - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG001908140)
 
 
 
 ##### § 24
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008508140)
 
 Zu den Einkünften im Sinne des § 2 Absatz 1 gehören auch
 
@@ -11532,6 +11627,7 @@ Zu den Einkünften im Sinne des § 2 Absatz 1 gehören auch
 
 
 ##### § 24a Altersentlastungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008615123)
 
 1Der Altersentlastungsbetrag ist bis zu einem Höchstbetrag im
 Kalenderjahr ein nach einem Prozentsatz ermittelter Betrag des
@@ -11958,6 +12054,7 @@ Altersentlastungsbetrags sind der nachstehenden Tabelle zu entnehmen:
 
 
 ##### § 24b Entlastungsbetrag für Alleinerziehende
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030607123)
 
 (1)
 1Allein stehende Steuerpflichtige können einen Entlastungsbetrag von
@@ -12010,10 +12107,12 @@ nach Absatz 2 um ein Zwölftel.
 
 
 ## III. - Veranlagung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002008140)
 
 
 
 ### § 25 Veranlagungszeitraum, Steuererklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008815140)
 
 (1) Die Einkommensteuer wird nach Ablauf des Kalenderjahres
 (Veranlagungszeitraum) nach dem Einkommen veranlagt, das der
@@ -12040,6 +12139,7 @@ auf eine Übermittlung durch Datenfernübertragung verzichten.
 
 
 ### § 26 Veranlagung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE008912140)
 
 (1)
 1Ehegatten können zwischen der Einzelveranlagung (§ 26a) und der
@@ -12100,6 +12200,7 @@ Gebrauch gemacht, so ist eine Zusammenveranlagung durchzuführen.
 
 
 ### § 26a Einzelveranlagung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009020123)
 
 (1)
 1Bei der Einzelveranlagung von Ehegatten sind jedem Ehegatten die von
@@ -12127,6 +12228,7 @@ mit Zustimmung des Bundesrates geregelt.
 
 
 ### § 26b Zusammenveranlagung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009108140)
 
 Bei der Zusammenveranlagung von Ehegatten werden die Einkünfte, die
 die Ehegatten erzielt haben, zusammengerechnet, den Ehegatten
@@ -12135,11 +12237,13 @@ die Ehegatten sodann gemeinsam als Steuerpflichtiger behandelt.
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009208140)
 
 -
 
 
 ### § 28 Besteuerung bei fortgesetzter Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009308140)
 
 Bei fortgesetzter Gütergemeinschaft gelten Einkünfte, die in das
 Gesamtgut fallen, als Einkünfte des überlebenden Ehegatten, wenn
@@ -12147,14 +12251,17 @@ dieser unbeschränkt steuerpflichtig ist.
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009408140)
 
 
 
 ## IV. - Tarif
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002108140)
 
 
 
 ### § 31 Familienleistungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023210123)
 
 1Die steuerliche Freistellung eines Einkommensbetrags in Höhe des
 Existenzminimums eines Kindes einschließlich der Bedarfe für Betreuung
@@ -12186,6 +12293,7 @@ Kindergeld übersteigt.
 
 
 ### § 32 Kinder, Freibeträge für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE050602123)
 
 (1) Kinder sind
 
@@ -12403,6 +12511,7 @@ des Kindes vorliegen.
 
 
 ### § 32a Einkommensteuertarif
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009841123)
 
 (1)
 1Die tarifliche Einkommensteuer bemisst sich nach dem auf volle Euro
@@ -12493,6 +12602,7 @@ veranlagt wird.
 
 
 ### § 32b Progressionsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE009954123)
 
 (1)
 1Hat ein zeitweise oder während des gesamten Veranlagungszeitraums
@@ -12718,6 +12828,7 @@ Satz 1 der Abgabenordnung verarbeitet werden.
 
 
 ### § 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031807123)
 
 (1) Auf Antrag des Steuerpflichtigen wird nach Ablauf von drei
 Veranlagungszeiträumen (Betrachtungszeitraum) unter den
@@ -12916,6 +13027,7 @@ Kenntnis erlangt hat.
 
 
 ### § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034309123)
 
 (1)
 1Die Einkommensteuer für Einkünfte aus Kapitalvermögen, die nicht
@@ -13108,6 +13220,7 @@ Kapitalerträge beider Ehegatten gestellt werden.
 
 
 ### § 33 Außergewöhnliche Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010023123)
 
 (1) Erwachsen einem Steuerpflichtigen zwangsläufig größere
 Aufwendungen als der überwiegenden Mehrzahl der Steuerpflichtigen
@@ -13263,6 +13376,7 @@ Absatz 2a zu bestimmen.
 
 
 ### § 33a Außergewöhnliche Belastung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010150123)
 
 (1)
 1Erwachsen einem Steuerpflichtigen Aufwendungen für den Unterhalt und
@@ -13360,6 +13474,7 @@ Steuerermäßigung nach § 33 nicht in Anspruch nehmen.
 
 
 ### § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010229123)
 
 (1)
 1Wegen der Aufwendungen für die Hilfe bei den gewöhnlichen und
@@ -13558,6 +13673,7 @@ vorliegen.
 
 
 ### § 34 Außerordentliche Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010319140)
 
 (1)
 1Sind in dem zu versteuernden Einkommen außerordentliche Einkünfte
@@ -13628,6 +13744,7 @@ oder Aufgabegewinn beantragen.
 
 
 ### § 34a Begünstigung der nicht entnommenen Gewinne
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010414123)
 
 (1)
 1Sind in dem zu versteuernden Einkommen nicht entnommene Gewinne aus
@@ -13868,6 +13985,7 @@ Feststellung des nachversteuerungspflichtigen Betrags ändert.
 
 
 ### § 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010515140)
 
 (1) Außerordentliche Holznutzungen sind
 
@@ -13950,14 +14068,17 @@ Ausgleichsgesetzes) nicht angeordnet wurde.
 
 
 ## V. - Steuerermäßigungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002208140)
 
 
 
 ### 1. - Steuerermäßigung bei ausländischen Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002308140)
 
 
 
 #### § 34c
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010624123)
 
 (1)
 1Bei unbeschränkt Steuerpflichtigen, die mit ausländischen Einkünften
@@ -14057,6 +14178,7 @@ Besteuerung dieser Einkünfte.
 
 
 #### § 34d Ausländische Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010710123)
 
 Ausländische Einkünfte im Sinne des § 34c Absatz 1 bis 5 sind
 
@@ -14173,18 +14295,22 @@ Ausländische Einkünfte im Sinne des § 34c Absatz 1 bis 5 sind
 
 
 ### 2. - Steuerermäßigung bei Einkünften aus Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002408140)
 
 
 
 #### § 34e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010812119)
 
 
 
 #### 2a. - Steuerermäßigung für Steuerpflichtige mit Kindern bei Inanspruchnahme erhöhter Absetzungen für Wohngebäude oder der Steuerbegünstigungen für eigengenutztes Wohneigentum
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002509140)
 
 
 
 ##### § 34f
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE010918140)
 
 (1)
 1Bei Steuerpflichtigen, die erhöhte Absetzungen nach § 7b oder nach §
@@ -14253,10 +14379,12 @@ nehmen.
 
 
 #### 2b. - Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG003508140)
 
 
 
 ##### § 34g
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE017417360)
 
 1Die tarifliche Einkommensteuer, vermindert um die sonstigen
 Steuerermäßigungen mit Ausnahme des § 34f Absatz 3, ermäßigt sich bei
@@ -14301,10 +14429,12 @@ Zusammenveranlagung von Ehegatten höchstens jeweils 1 650 Euro.
 
 
 ### 3. - Steuerermäßigung bei Einkünften aus Gewerbebetrieb
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002609140)
 
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE011022123)
 
 (1)
 1Die tarifliche Einkommensteuer, vermindert um die sonstigen
@@ -14401,10 +14531,12 @@ entsprechend.
 
 
 ### 4. - Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse und für die Inanspruchnahme haushaltsnaher Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG023900140)
 
 
 
 #### § 35a Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030311123)
 
 (1) Für haushaltsnahe Beschäftigungsverhältnisse, bei denen es sich um
 eine geringfügige Beschäftigung im Sinne des § 8a des Vierten Buches
@@ -14467,10 +14599,12 @@ in Anspruch nehmen.
 
 
 ### 5. - Steuerermäßigung bei Belastung mit Erbschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG023801140)
 
 
 
 #### § 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE036902377)
 
 1Sind bei der Ermittlung des Einkommens Einkünfte berücksichtigt
 worden, die im Veranlagungszeitraum oder in den vorangegangenen vier
@@ -14487,9 +14621,11 @@ Schenkungsteuergesetzes hinzugerechnet werden.
 
 
 ### 6. - Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG024100123)
 
 
 #### § 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE042600123)
 
 (1) Für energetische Maßnahmen an einem in der Europäischen Union oder
 dem Europäischen Wirtschaftsraum belegenen zu eigenen Wohnzwecken
@@ -14605,14 +14741,17 @@ Satz 6 festzulegen.
 
 
 ## VI. - Steuererhebung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002708140)
 
 
 
 ### 1. - Erhebung der Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002808140)
 
 
 
 #### § 36 Entstehung und Tilgung der Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE041604123)
 
 (1) Die Einkommensteuer entsteht, soweit in diesem Gesetz nichts
 anderes bestimmt ist, mit Ablauf des Veranlagungszeitraums.
@@ -14761,6 +14900,7 @@ erfolgen.
 
 
 #### § 36a Beschränkung der Anrechenbarkeit der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039102123)
 
 (1)
 1Ungeachtet eines Abkommens zur Vermeidung der Doppelbesteuerung setzt
@@ -14868,6 +15008,7 @@ Versicherungsaufsichtsgesetzes gebunden sind.
 
 
 #### § 37 Einkommensteuer-Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE011743123)
 
 (1)
 1Der Steuerpflichtige hat am 10. März, 10. Juni, 10. September und 10.
@@ -14947,6 +15088,7 @@ Vorauszahlungszeitpunkt auf mindestens 100 Euro, im Fall des Absatzes
 
 
 #### § 37a Pauschalierung der Einkommensteuer durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026107123)
 
 (1)
 1Das Finanzamt kann auf Antrag zulassen, dass das Unternehmen, das
@@ -14981,6 +15123,7 @@ an das Betriebsstättenfinanzamt abzuführen.
 
 
 #### § 37b Pauschalierung der Einkommensteuer bei Sachzuwendungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034004123)
 
 (1)
 1Steuerpflichtige können die Einkommensteuer einheitlich für alle
@@ -15043,10 +15186,12 @@ die pauschale Besteuerung maßgebenden Sachbezüge ermittelt werden.
 
 
 ### 2. - Steuerabzug vom Arbeitslohn (Lohnsteuer)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG002908140)
 
 
 
 #### § 38 Erhebung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE011813123)
 
 (1)
 1Bei Einkünften aus nichtselbständiger Arbeit wird die Einkommensteuer
@@ -15154,6 +15299,7 @@ nachzufordern.
 
 
 #### § 38a Höhe der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE011911140)
 
 (1)
 1Die Jahreslohnsteuer bemisst sich nach dem Arbeitslohn, den der
@@ -15191,6 +15337,7 @@ und § 39e Absatz 7 und 8) berücksichtigt.
 
 
 #### § 38b Lohnsteuerklassen, Zahl der Kinderfreibeträge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012013360)
 
 (1)
 1Für die Durchführung des Lohnsteuerabzugs werden Arbeitnehmer in
@@ -15331,6 +15478,7 @@ und vom Antragsteller eigenhändig zu unterschreiben.
 
 
 #### § 39 Lohnsteuerabzugsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012234123)
 
 (1)
 1Für die Durchführung des Lohnsteuerabzugs werden auf Veranlassung des
@@ -15518,6 +15666,7 @@ Kirchensteuer verarbeiten.
 
 
 #### § 39a Freibetrag und Hinzurechnungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE049102123)
 
 (1)
 1Auf Antrag des unbeschränkt einkommensteuerpflichtigen Arbeitnehmers
@@ -15746,6 +15895,7 @@ Euro übersteigt.
 
 
 #### § 39b Einbehaltung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE051701123)
 
 (1) Bei unbeschränkt und beschränkt einkommensteuerpflichtigen
 Arbeitnehmern hat der Arbeitgeber den Lohnsteuerabzug nach Maßgabe der
@@ -15981,6 +16131,7 @@ anlehnt.
 
 
 #### § 39c Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012519140)
 
 (1)
 1Solange der Arbeitnehmer dem Arbeitgeber zum Zweck des Abrufs der
@@ -16025,11 +16176,13 @@ Lohnzahlungen des Dritten zu berücksichtigen.
 
 
 #### § 39d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012629140)
 
 -
 
 
 #### § 39e Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034515123)
 
 (1)
 1Das Bundeszentralamt für Steuern bildet für jeden Arbeitnehmer
@@ -16330,6 +16483,7 @@ Kindergeld verarbeitet werden.
 
 
 #### § 39f Faktorverfahren anstelle Steuerklassenkombination III/V
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE036605123)
 
 (1)
 1Bei Ehegatten, die in die Steuerklasse IV gehören (§ 38b Absatz 1
@@ -16387,6 +16541,7 @@ Berechnung der Lohnsteuer (§ 39b Absatz 6) zu berücksichtigen.
 
 
 #### § 40 Pauschalierung der Lohnsteuer in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012731123)
 
 (1)
 1Das Betriebsstättenfinanzamt (§ 41a Absatz 1 Satz 1 Nummer 1) kann
@@ -16551,6 +16706,7 @@ Betriebsstättenfinanzamt durch Steuerbescheid festgesetzt.
 
 
 #### § 40a Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012831123)
 
 (1)
 1Der Arbeitgeber kann unter Verzicht auf den Abruf von elektronischen
@@ -16673,6 +16829,7 @@ nicht übersteigt.
 
 
 #### § 40b Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE012919123)
 
 (1) Der Arbeitgeber kann die Lohnsteuer von den Zuwendungen zum Aufbau
 einer nicht kapitalgedeckten betrieblichen Altersversorgung an eine
@@ -16717,6 +16874,7 @@ des Absatzes 1, des Absatzes 3 und des Absatzes 4 ist ausgeschlossen.
 
 
 #### § 41 Aufzeichnungspflichten beim Lohnsteuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013027123)
 
 (1)
 1Der Arbeitgeber hat am Ort der Betriebsstätte (Absatz 2) für jeden
@@ -16780,6 +16938,7 @@ Handelsschiffe, wenn die Reederei im Inland keine Niederlassung hat.
 
 
 #### § 41a Anmeldung und Abführung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013124123)
 
 (1)
 1Der Arbeitgeber hat spätestens am zehnten Tag nach Ablauf eines jeden
@@ -16874,6 +17033,7 @@ Lohnsteuer der Steuerklasse I.
 
 
 #### § 41b Abschluss des Lohnsteuerabzugs
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013238123)
 
 (1)
 1Bei Beendigung eines Dienstverhältnisses oder am Ende des
@@ -17027,6 +17187,7 @@ besteuert worden ist.
 
 
 #### § 41c Änderung des Lohnsteuerabzugs
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013317123)
 
 (1)
 1Der Arbeitgeber ist berechtigt, bei der jeweils nächstfolgenden
@@ -17102,9 +17263,11 @@ nachzufordern, wenn der nachzufordernde Betrag 10 Euro übersteigt.
 
 
 #### (XXXX) §§ 42 und 42a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013414140)
 
 
 #### § 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013643123)
 
 (1)
 1Der Arbeitgeber ist berechtigt, seinen Arbeitnehmern, die während des
@@ -17214,11 +17377,13 @@ Lohnsteuer ergebende Betrag als erhobene Lohnsteuer einzutragen.
 
 
 #### § 42c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013711140)
 
 -
 
 
 #### § 42d Haftung des Arbeitgebers und Haftung bei Arbeitnehmerüberlassung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013821140)
 
 (1) Der Arbeitgeber haftet
 
@@ -17362,6 +17527,7 @@ zuständig.
 
 
 #### § 42e Anrufungsauskunft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE013909140)
 
 1Das Betriebsstättenfinanzamt hat auf Anfrage eines Beteiligten
 darüber Auskunft zu geben, ob und inwieweit im einzelnen Fall die
@@ -17381,6 +17547,7 @@ von Bedeutung ist.
 
 
 #### § 42f Lohnsteuer-Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE014012140)
 
 (1) Für die Außenprüfung der Einbehaltung oder Übernahme und Abführung
 der Lohnsteuer ist das Betriebsstättenfinanzamt zuständig.
@@ -17409,6 +17576,7 @@ Buches Sozialgesetzbuch) zur gleichen Zeit durchgeführt werden.
 
 
 #### § 42g Lohnsteuer-Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE038600140)
 
 (1)
 1Die Lohnsteuer-Nachschau dient der Sicherstellung einer
@@ -17451,10 +17619,12 @@ insoweit zulässig, als ihre Kenntnis für die Besteuerung der in Absatz
 
 
 ### 3. - Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG003008140)
 
 
 
 #### § 43 Kapitalerträge mit Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE045604123)
 
 (1)
 1Bei den folgenden inländischen und in den Fällen der Nummern 5 bis 7
@@ -17775,6 +17945,7 @@ gestellt worden ist.
 
 
 #### § 43a Bemessung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE014230123)
 
 (1)
 1Die Kapitalertragsteuer beträgt
@@ -17928,6 +18099,7 @@ seitdem verwahrt oder verwaltet hat.
 
 
 #### § 43b Bemessung der Kapitalertragsteuer bei bestimmten Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026811123)
 
 (1)
 1Auf Antrag wird die Kapitalertragsteuer für Kapitalerträge im Sinne
@@ -17993,6 +18165,7 @@ unterliegen.
 
 
 #### § 44 Entrichtung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE014341123)
 
 (1)
 1Schuldner der Kapitalertragsteuer ist in den Fällen des § 43 Absatz 1
@@ -18327,6 +18500,7 @@ Einkommen zuständig ist.
 
 
 #### § 44a Abstandnahme vom Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE045702123)
 
 (1)
 1Soweit die Kapitalerträge, die einem unbeschränkt
@@ -18676,6 +18850,7 @@ Gebrauch zu machen hat.
 
 
 #### § 44b Erstattung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE045801123)
 
 (1) Nach Ablauf eines Kalenderjahres hat der zum Steuerabzug
 Verpflichtete die im vorangegangenen Kalenderjahr abgeführte Steuer
@@ -18782,6 +18957,7 @@ Voraussetzungen nach § 36a Absatz 1 bis 3 erfüllt.
 
 
 #### § 45 Ausschluss der Erstattung von Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE014715123)
 
 1In den Fällen, in denen die Dividende an einen anderen als an den
 Anteilseigner ausgezahlt wird, ist die Erstattung oder Anrechnung von
@@ -18796,6 +18972,7 @@ nach § 37 Absatz 2 der Abgabenordnung ausgeschlossen.
 
 
 #### § 45a Anmeldung und Bescheinigung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE045903123)
 
 (1)
 1Die Anmeldung der einbehaltenen Kapitalertragsteuer ist dem Finanzamt
@@ -18913,6 +19090,7 @@ Angaben macht.
 
 
 #### § 45b Angaben zur Bescheinigung und Abführung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020120123)
 
 (1) Die die Kapitalerträge auszahlende Stelle weist jeder nach Maßgabe
 des § 45a Absatz 2 zu erteilenden Bescheinigung und jedem nach § 45b
@@ -19248,6 +19426,7 @@ Aufgabe nach Satz 1 erforderlich ist.
 
 
 #### § 45c Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE014916123)
 
 (1)
 1Die die Kapitalerträge auszahlende Stelle hat dem Bundeszentralamt
@@ -19361,6 +19540,7 @@ Aufgabe nach Satz 1 erforderlich ist.
 
 
 #### § 45d Mitteilungen an das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021619123)
 
 (1)
 1Wer nach § 44 Absatz 1 dieses Gesetzes und nach § 7 des
@@ -19413,6 +19593,7 @@ Sozialleistungsträgern mitzuteilen.
 
 
 #### § 45e Ermächtigung für Zinsinformationsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030503119)
 
 1Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Richtlinie 2003/48/EG des Rates vom 3.
@@ -19422,10 +19603,12 @@ im Bereich der Besteuerung von Zinserträgen umzusetzen.
 
 
 ### 4. - Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG003108140)
 
 
 
 #### § 46 Veranlagung bei Bezug von Einkünften aus nichtselbständiger Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015058123)
 
 (1) (weggefallen)
 
@@ -19578,15 +19761,18 @@ stufenweise übergeleitet wird.
 
 
 #### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015208140)
 
 -
 
 
 ## VII. - Steuerabzug bei Bauleistungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG023602140)
 
 
 
 ### § 48 Steuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029504140)
 
 (1)
 1Erbringt jemand im Inland eine Bauleistung (Leistender) an einen
@@ -19639,6 +19825,7 @@ abgeführt hat,
 
 
 ### § 48a Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029603123)
 
 (1)
 1Der Leistungsempfänger hat bis zum zehnten Tag nach Ablauf des
@@ -19691,6 +19878,7 @@ Finanzamt.
 
 
 ### § 48b Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029705123)
 
 (1)
 1Auf Antrag des Leistenden hat das für ihn zuständige Finanzamt, wenn
@@ -19755,6 +19943,7 @@ Freistellungsbescheinigungen.
 
 
 ### § 48c Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029802140)
 
 (1)
 1Soweit der Abzugsbetrag einbehalten und angemeldet worden ist, wird
@@ -19802,6 +19991,7 @@ besteht, dass ein Missbrauch vorliegt.
 
 
 ### § 48d Besonderheiten im Fall von Doppelbesteuerungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029902140)
 
 (1)
 1Können Einkünfte, die dem Steuerabzug nach § 48 unterliegen, nach
@@ -19826,10 +20016,12 @@ Abgabenordnung zuständigen Finanzamt.
 
 
 ## VIII. - Besteuerung beschränkt Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG003308140)
 
 
 
 ### § 49 Beschränkt steuerpflichtige Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015451123)
 
 (1) Inländische Einkünfte im Sinne der beschränkten
 Einkommensteuerpflicht (§ 1 Absatz 4) sind
@@ -20205,6 +20397,7 @@ verkehrspolitisch unbedenklich erklärt hat.
 
 
 ### § 50 Sondervorschriften für beschränkt Steuerpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE052101123)
 
 (1)
 1Beschränkt Steuerpflichtige dürfen Betriebsausgaben (§ 4 Absatz 4 bis
@@ -20397,6 +20590,7 @@ Interesse liegt; ein besonderes öffentliches Interesse besteht
 
 
 ### § 50a Steuerabzug bei beschränkt Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015630123)
 
 (1) Die Einkommensteuer wird bei beschränkt Steuerpflichtigen im Wege
 des Steuerabzugs erhoben
@@ -20575,10 +20769,12 @@ nachzuholen oder zu ändern.
 
 
 ## IX. - Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG003409140)
 
 
 
 ### § 50b Prüfungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015712140)
 
 1Die Finanzbehörden sind berechtigt, Verhältnisse, die für die
 Anrechnung oder Vergütung von Körperschaftsteuer, für die Anrechnung
@@ -20591,6 +20787,7 @@ Verfahren Beteiligten zu prüfen.
 
 
 ### § 50c Entlastung vom Steuerabzug in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015821123)
 
 (1)
 1Soweit der Besteuerung von Einkünften, die der Kapitalertragsteuer
@@ -20707,6 +20904,7 @@ nach amtlich vorgeschriebenem Vordruck zu stellen; § 122a Absatz 3 und
 
 
 ### § 50d Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020228123)
 
 (1) (weggefallen)
 
@@ -20948,6 +21146,7 @@ Satz 1 der Abgabenordnung bleiben davon unberührt.
 
 
 ### § 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021711123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 45d Absatz 1 Satz 1, der nach § 45e erlassenen Rechtsverordnung oder
@@ -21008,6 +21207,7 @@ vorsätzlichem Handeln anwendbar ist.
 
 
 ### § 50f Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030806123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 22a Absatz 1 Satz 1 dort genannte Daten nicht, nicht vollständig
@@ -21022,6 +21222,7 @@ Gesetzes über Ordnungswidrigkeiten ist die zentrale Stelle nach § 81.
 
 
 ### § 50g Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031206123)
 
 (1)
 1Auf Antrag werden die Kapitalertragsteuer für Zinsen und die Steuer
@@ -21263,6 +21464,7 @@ Unternehmen ist, das
 
 
 ### § 50h Bestätigung für Zwecke der Entlastung von Quellensteuern in einem anderen Mitgliedstaat der Europäischen Union oder der Schweizerischen Eidgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031302140)
 
 Auf Antrag hat das Finanzamt, das für die Besteuerung eines
 Unternehmens der Bundesrepublik Deutschland oder einer dort gelegenen
@@ -21276,6 +21478,7 @@ im Inland ansässig ist oder die Betriebsstätte im Inland gelegen ist.
 
 
 ### § 50i Besteuerung bestimmter Einkünfte und Anwendung von Doppelbesteuerungsabkommen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE038702377)
 
 (1)
 1Sind Wirtschaftsgüter des Betriebsvermögens oder sind Anteile im
@@ -21354,6 +21557,7 @@ Umwandlungssteuergesetzes ausgeschlossen oder beschränkt ist.
 
 
 ### § 50j Versagung der Entlastung von Kapitalertragsteuern in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE039301123)
 
 (1)
 1Ein Gläubiger von Kapitalerträgen im Sinne des § 43 Absatz 1 Satz 1
@@ -21435,6 +21639,7 @@ Umfang einschränken.
 
 
 ### § 51 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE015953123)
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates
@@ -22164,6 +22369,7 @@ Zustimmung des Bundestages.
 
 
 ### § 51a Festsetzung und Erhebung von Zuschlagsteuern
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE016046123)
 
 (1)
 1Auf die Festsetzung und Erhebung von Steuern, die nach der
@@ -22397,6 +22603,7 @@ landesrechtlicher Vorschriften.
 
 
 ### § 52 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE044840123)
 
 (1)
 1Diese Fassung des Gesetzes ist, soweit in den folgenden Absätzen
@@ -24083,23 +24290,28 @@ anzuwenden.
 
 
 ### § 52a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034412119)
 
 
 
 ### § 52b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE037503123)
 
 
 
 ### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE026503377)
 
 
 
 ### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE020306140)
 
 -
 
 
 ### § 55 Schlussvorschriften (Sondervorschriften für die Gewinnermittlung nach § 4 oder nach Durchschnittssätzen bei vor dem 1. Juli 1970 angeschafftem Grund und Boden)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE016611140)
 
 (1)
 1Bei Steuerpflichtigen, deren Gewinn für das Wirtschaftsjahr, in das
@@ -24298,6 +24510,7 @@ maßgebenden Wert anzusetzen.
 
 
 ### § 56 Sondervorschriften für Steuerpflichtige in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021004140)
 
 Bei Steuerpflichtigen, die am 31. Dezember 1990 einen Wohnsitz oder
 ihren gewöhnlichen Aufenthalt in dem in Artikel 3 des
@@ -24310,6 +24523,7 @@ angeschafft oder hergestellt worden sind.
 
 
 ### § 57 Besondere Anwendungsregeln aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021107123)
 
 (1) Die §§ 7c, 7f, 7g, 7k und 10e dieses Gesetzes, die §§ 76, 78, 82a
 und 82f der Einkommensteuer-Durchführungsverordnung sowie die §§ 7 und
@@ -24344,6 +24558,7 @@ Veranlagungszeitraums 1990 festgesetzte Einkommensteuer anzuwenden.
 
 
 ### § 58 Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021203140)
 
 (1) Die Vorschriften über Sonderabschreibungen nach § 3 Absatz 1 des
 Steueränderungsgesetzes vom 6. März 1990 (GBl. I Nr. 17 S. 136) in
@@ -24384,14 +24599,17 @@ Gegenstand der Betriebsstätte ist.
 
 
 ### (XXXX) §§ 59 bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE021304140)
 
 
 
 ## X. - Kindergeld
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG023403140)
 
 
 
 ### § 62 Anspruchsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023615123)
 
 (1)
 1Für Kinder im Sinne des § 63 hat Anspruch auf Kindergeld nach diesem
@@ -24508,6 +24726,7 @@ nur, wenn er
 
 
 ### § 63 Kinder
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023707116)
 
 (1)
 1Als Kinder werden berücksichtigt
@@ -24553,6 +24772,7 @@ dort gewährten dem Kindergeld vergleichbaren Leistungen geboten ist.
 
 
 ### § 64 Zusammentreffen mehrerer Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023805140)
 
 (1) Für jedes Kind wird nur einem Berechtigten Kindergeld gezahlt.
 
@@ -24585,6 +24805,7 @@ entsprechend.
 
 
 ### § 65 Andere Leistungen für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE023908123)
 
 1Kindergeld wird nicht für ein Kind gezahlt, für das eine der
 folgenden Leistungen zu zahlen ist oder bei entsprechender
@@ -24619,6 +24840,7 @@ für das Kind Anspruch auf Kinderzulage hat.
 
 
 ### § 66 Höhe des Kindergeldes, Zahlungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024026123)
 
 (1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
 
@@ -24630,6 +24852,7 @@ Monats, in dem die Anspruchsvoraussetzungen wegfallen.
 
 
 ### § 67 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024108123)
 
 1Das Kindergeld ist bei der zuständigen Familienkasse elektronisch
 nach amtlich vorgeschriebenem Datensatz über die amtlich
@@ -24651,6 +24874,7 @@ Identifikationsnummer des Berechtigten mit.
 
 
 ### § 68 Besondere Mitwirkungspflichten und Offenbarungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024210123)
 
 (1)
 1Wer Kindergeld beantragt oder erhält, hat Änderungen in den
@@ -24729,6 +24953,7 @@ nach Satz 2 festzulegen.
 
 
 ### § 69 Datenübermittlung an die Familienkassen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024308123)
 
 1Erfährt das Bundeszentralamt für Steuern, dass ein Kind, für das
 Kindergeld gezahlt wird, verzogen ist oder von Amts wegen von der
@@ -24759,6 +24984,7 @@ Bezugs von Kindergeld unverzüglich
 
 
 ### § 70 Festsetzung und Zahlung des Kindergeldes
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024413123)
 
 (1)
 1Das Kindergeld nach § 62 wird von den Familienkassen durch Bescheid
@@ -24793,6 +25019,7 @@ obersten Bundesgerichts beginnen.
 
 
 ### § 71 Vorläufige Einstellung der Zahlung des Kindergeldes
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024505123)
 
 (1) Die Familienkasse kann die Zahlung des Kindergeldes ohne Erteilung
 eines Bescheides vorläufig einstellen, wenn
@@ -24822,14 +25049,17 @@ geändert wird.
 
 
 ### § 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024616123)
 
 
 ### § 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024704140)
 
 -
 
 
 ### § 74 Zahlung des Kindergeldes in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024806123)
 
 (1)
 1Das für ein Kind festgesetzte Kindergeld nach § 66 Absatz 1 kann an
@@ -24848,6 +25078,7 @@ Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 75 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE024908377)
 
 (1) Mit Ansprüchen auf Erstattung von Kindergeld kann die
 Familienkasse gegen Ansprüche auf Kindergeld bis zu deren Hälfte
@@ -24865,6 +25096,7 @@ handelt, das bei beiden berücksichtigt werden kann oder konnte.
 
 
 ### § 76 Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE025006123)
 
 Der Anspruch auf Kindergeld kann nur wegen gesetzlicher
 Unterhaltsansprüche eines Kindes, für das Kindergeld festgesetzt und
@@ -24872,11 +25104,13 @@ dem Berechtigten ausgezahlt wird, gepfändet werden.
 
 
 ### § 76a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE034105140)
 
 -
 
 
 ### § 77 Erstattung von Kosten im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE025103140)
 
 (1)
 1Soweit der Einspruch gegen die Kindergeldfestsetzung erfolgreich ist,
@@ -24904,6 +25138,7 @@ war.
 
 
 ### § 78 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE025206140)
 
 (1) bis (4) (weggefallen)
 
@@ -24921,10 +25156,12 @@ nach Satz 1 geleisteten Zahlungen gegen sich gelten lassen.
 
 
 ## XI. - Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG023502140)
 
 
 
 ### § 79 Zulageberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027108119)
 
 1Die in § 10a Absatz 1 genannten Personen haben Anspruch auf eine
 Altersvorsorgezulage (Zulage).
@@ -24959,6 +25196,7 @@ steuerpflichtig behandelt werden.
 
 
 ### § 80 Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027203140)
 
 Anbieter im Sinne dieses Gesetzes sind Anbieter von
 Altersvorsorgeverträgen gemäß § 1 Absatz 2 des Altersvorsorgeverträge-
@@ -24967,12 +25205,14 @@ Versorgungseinrichtungen.
 
 
 ### § 81 Zentrale Stelle
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027303140)
 
 Zentrale Stelle im Sinne dieses Gesetzes ist die Deutsche
 Rentenversicherung Bund.
 
 
 ### § 81a Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE030903140)
 
 1Zuständige Stelle ist bei einem
 
@@ -25005,6 +25245,7 @@ gilt Satz 1 entsprechend.
 
 
 ### § 82 Altersvorsorgebeiträge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027413123)
 
 (1)
 1Geförderte Altersvorsorgebeiträge sind im Rahmen des in § 10a Absatz
@@ -25189,6 +25430,7 @@ Beitragsjahr der Zahlung zu berücksichtigen.
 
 
 ### § 83 Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027502140)
 
 In Abhängigkeit von den geleisteten Altersvorsorgebeiträgen wird eine
 Zulage gezahlt, die sich aus einer Grundzulage (§ 84) und einer
@@ -25196,6 +25438,7 @@ Kinderzulage (§ 85) zusammensetzt.
 
 
 ### § 84 Grundzulage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027605360)
 
 1Jeder Zulageberechtigte erhält eine Grundzulage; diese beträgt ab dem
 Beitragsjahr 2018 jährlich 175 Euro.
@@ -25208,6 +25451,7 @@ beantragt wird.
 
 
 ### § 85 Kinderzulage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027709123)
 
 (1)
 1Die Kinderzulage beträgt für jedes Kind, für das gegenüber dem
@@ -25241,6 +25485,7 @@ zurückgenommen werden.
 
 
 ### § 86 Mindesteigenbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027814119)
 
 (1)
 1Die Zulage nach den §§ 84 und 85 wird gekürzt, wenn der
@@ -25331,6 +25576,7 @@ hinzuzurechnen:
 
 
 ### § 87 Zusammentreffen mehrerer Verträge
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE027903140)
 
 (1)
 1Zahlt der nach § 79 Satz 1 Zulageberechtigte Altersvorsorgebeiträge
@@ -25350,12 +25596,14 @@ Zulage beantragt wird.
 
 
 ### § 88 Entstehung des Anspruchs auf Zulage
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028002140)
 
 Der Anspruch auf die Zulage entsteht mit Ablauf des Kalenderjahres, in
 dem die Altersvorsorgebeiträge geleistet worden sind (Beitragsjahr).
 
 
 ### § 89 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028110123)
 
 (1)
 1Der Zulageberechtigte hat den Antrag auf Zulage nach amtlich
@@ -25447,6 +25695,7 @@ zu übermitteln.
 
 
 ### § 90 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028213123)
 
 (1)
 1Die zentrale Stelle ermittelt auf Grund der von ihr erhobenen oder
@@ -25608,6 +25857,7 @@ wirksam gestellt.
 
 
 ### § 91 Datenerhebung und Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028412123)
 
 (1)
 1Für die Berechnung und Überprüfung der Zulage sowie die Überprüfung
@@ -25652,6 +25902,7 @@ Satz 1 zu übermitteln.
 
 
 ### § 92 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028510360)
 
 1Der Anbieter hat dem Zulageberechtigten jährlich bis zum Ablauf des
 auf das Beitragsjahr folgenden Jahres eine Bescheinigung nach amtlich
@@ -25712,6 +25963,7 @@ die Bescheinigung auch elektronisch bereitstellen.
 
 
 ### § 92a Verwendung für eine selbst genutzte Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028616123)
 
 (1)
 1Der Zulageberechtigte kann das in einem Altersvorsorgevertrag
@@ -26096,6 +26348,7 @@ Steuerpflichtigen.
 
 
 ### § 92b Verfahren bei Verwendung für eine selbst genutzte Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028707360)
 
 (1)
 1Der Zulageberechtigte hat die Verwendung des Kapitals nach § 92a
@@ -26156,6 +26409,7 @@ Stand des Wohnförderkontos gesondert fest.
 
 
 ### § 93 Schädliche Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028819123)
 
 (1)
 1Wird gefördertes Altersvorsorgevermögen nicht unter den in § 1 Absatz
@@ -26315,6 +26569,7 @@ ausgezahlt wurde.
 
 
 ### § 94 Verfahren bei schädlicher Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE028909123)
 
 (1)
 1In den Fällen des § 93 Absatz 1 hat der Anbieter der zentralen Stelle
@@ -26367,6 +26622,7 @@ Verwendung durch Datenfernübertragung mit.
 
 
 ### § 95 Sonderfälle der Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029014123)
 
 1Die §§ 93 und 94 gelten entsprechend, wenn sich der Wohnsitz oder
 gewöhnliche Aufenthalt des Zulageberechtigten ab Beginn der
@@ -26385,6 +26641,7 @@ ist.
 
 
 ### § 96 Anwendung der Abgabenordnung, allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029103360)
 
 (1)
 1Auf die Zulagen und die Rückzahlungsbeträge sind die für
@@ -26447,6 +26704,7 @@ entsprechend.
 
 
 ### § 97 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029204140)
 
 1Das nach § 10a oder Abschnitt XI geförderte Altersvorsorgevermögen
 einschließlich seiner Erträge, die geförderten laufenden
@@ -26456,6 +26714,7 @@ Altersvorsorgebeiträge und der Anspruch auf die Zulage sind nicht
 
 
 ### § 98 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029302140)
 
 In öffentlich-rechtlichen Streitigkeiten über die auf Grund des
 Abschnitts XI ergehenden Verwaltungsakte ist der Finanzrechtsweg
@@ -26463,6 +26722,7 @@ gegeben.
 
 
 ### § 99 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE029415123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, die Vordrucke
 für die Anträge nach § 89, für die Anmeldung nach § 90 Absatz 3 und
@@ -26501,10 +26761,12 @@ festgestellten Beträge zu erlassen.
 
 
 ## XII. - Förderbetrag zur betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG024000360)
 
 
 
 ### § 100 Förderbetrag zur betrieblichen Altersversorgung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE040202123)
 
 (1)
 1Arbeitgeber im Sinne des § 38 Absatz 1 dürfen vom Gesamtbetrag der
@@ -26614,10 +26876,12 @@ steuerfrei, soweit er im Kalenderjahr 960 Euro nicht übersteigt.
 
 
 ## XIII. - Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG024200123)
 
 
 
 ### § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE042800123)
 
 1Steuerpflichtige können für die Veranlagungszeiträume 2021 bis 2026
 neben der Berücksichtigung der Entfernungspauschalen ab dem 21. vollen
@@ -26642,12 +26906,14 @@ Arbeitnehmer-Pauschbetrag nach § 9a Satz 1 Nummer 1 Buchstabe a
 
 
 ### § 102 Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE042900123)
 
 Anspruchsberechtigt sind unbeschränkt oder beschränkt Steuerpflichtige
 im Sinne des § 1.
 
 
 ### § 103 Entstehung der Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043000123)
 
 Der Anspruch auf die Mobilitätsprämie entsteht mit Ablauf des
 Kalenderjahres, in dem der Anspruchsberechtigte die erste
@@ -26659,6 +26925,7 @@ Satz 1 Nummer 6 durchgeführt hat.
 
 
 ### § 104 Antrag auf die Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043100123)
 
 (1) Die Mobilitätsprämie wird auf Antrag gewährt.
 
@@ -26672,6 +26939,7 @@ Anspruchsberechtigten nach dem Einkommen zuständig ist.
 
 
 ### § 105 Festsetzung und Auszahlung der Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043201123)
 
 (1)
 1Die Mobilitätsprämie ist nach Ablauf des Kalenderjahres im Rahmen
@@ -26701,12 +26969,14 @@ Mobilitätsprämie zugleich als Abgabe einer Einkommensteuererklärung.
 
 
 ### § 106 Ertragsteuerliche Behandlung der Mobilitätsprämie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043300123)
 
 Die Mobilitätsprämie gehört nicht zu den steuerpflichtigen Einnahmen
 im Sinne des Einkommensteuergesetzes.
 
 
 ### § 107 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043400123)
 
 Auf die Mobilitätsprämie sind die für Steuervergütungen geltenden
 Vorschriften der Abgabenordnung mit Ausnahme des § 163 der
@@ -26714,6 +26984,7 @@ Abgabenordnung entsprechend anzuwenden.
 
 
 ### § 108 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043500123)
 
 1Für die Mobilitätsprämie gelten die Strafvorschriften des § 370
 Absatz 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 der
@@ -26727,6 +26998,7 @@ Abgabenordnung entsprechend.
 
 
 ### § 109 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE043600123)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Verfahren bei der Festsetzung und der
@@ -26734,10 +27006,12 @@ Auszahlung der Mobilitätsprämie näher zu regeln.
 
 
 ## XIV. - Sondervorschriften zur Bewältigung der Corona-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG024300123)
 
 
 
 ### § 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE044301123)
 
 (1)
 1Auf Antrag wird der für die Bemessung der Vorauszahlungen für den
@@ -26763,6 +27037,7 @@ werden, 20 000 000 Euro nicht überschreiten.
 
 
 ### § 111 Vorläufiger Verlustrücktrag für 2020 und 2021
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE044402123)
 
 (1)
 1Auf Antrag wird bei der Steuerfestsetzung für den
@@ -26833,10 +27108,12 @@ Verlustrücktrags für 2021 entsprechend.
 
 
 ## XV. - Energiepreispauschale
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNG024400123)
 
 
 
 ### § 112 Veranlagungszeitraum, Höhe
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE047800123)
 
 (1) Für den Veranlagungszeitraum 2022 wird Anspruchsberechtigten eine
 einmalige steuerpflichtige Energiepreispauschale gewährt.
@@ -26845,6 +27122,7 @@ einmalige steuerpflichtige Energiepreispauschale gewährt.
 
 
 ### § 113 Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE047900123)
 
 Unbeschränkt Steuerpflichtige nach § 1 Absatz 1, die im
 Veranlagungszeitraum 2022 Einkünfte aus § 13, § 15, § 18 oder § 19
@@ -26853,12 +27131,14 @@ Energiepreispauschale.
 
 
 ### § 114 Entstehung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048000123)
 
 Der Anspruch auf die Energiepreispauschale entsteht am 1. September
 2022\.
 
 
 ### § 115 Festsetzung mit der Einkommensteuerveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048100123)
 
 (1) Die Energiepreispauschale wird mit der Einkommensteuerveranlagung
 für den Veranlagungszeitraum 2022 festgesetzt.
@@ -26868,6 +27148,7 @@ Arbeitgeber ausgezahlt wurde.
 
 
 ### § 116 Anrechnung auf die Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048200123)
 
 (1)
 1Eine nach § 115 Absatz 1 festgesetzte Energiepreispauschale ist auf
@@ -26882,6 +27163,7 @@ ausgezahlt.
 
 
 ### § 117 Auszahlung an Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048300123)
 
 (1)
 1Arbeitnehmer erhalten die Energiepreispauschale vom Arbeitgeber, wenn
@@ -26940,6 +27222,7 @@ Großbuchstaben E anzugeben.
 
 
 ### § 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048400123)
 
 (1)
 1Ist eine Einkommensteuer-Vorauszahlung auch für Einkünfte aus § 13,
@@ -26968,6 +27251,7 @@ Allgemeinverfügung erlassen hat.
 
 
 ### § 119 Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048500123)
 
 (1)
 1Bei Anspruchsberechtigten, die im Veranlagungszeitraum 2022 Einkünfte
@@ -26988,6 +27272,7 @@ anzuwenden.
 
 
 ### § 120 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048600123)
 
 (1)
 1Auf die Energiepreispauschale sind die für Steuervergütungen
@@ -27000,6 +27285,7 @@ ist der Finanzrechtsweg eröffnet.
 
 
 ### § 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048700123)
 
 (1) Für die Energiepreispauschale gelten die Strafvorschriften des
 § 370 Absatz 1 bis 4 und 7, der §§ 371, 375 Absatz 1 und des § 376 der
@@ -27015,6 +27301,7 @@ Absatz 1 gelten die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
 
 ### § 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE048801123)
 
 1Die Energiepreispauschale ist bei einkommensabhängigen
 Sozialleistungen nicht als Einkommen zu berücksichtigen.
@@ -27024,6 +27311,7 @@ Betrages unpfändbar.
 (zu § 4d Absatz 1)
 
 ### Anlage 1 Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE016808140)
 
 (Fundstelle: BGBl. I 2009, 3530)
 
@@ -27266,6 +27554,7 @@ Betrages unpfändbar.
 (zu § 13a)
 
 ### Anlage 1a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE038900377)
 
 (Fundstelle: BGBl. I 2014, 2426)
 
@@ -27426,6 +27715,7 @@ Für ein Wirtschaftsjahr betragen
 
 
 ### Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE025909116)
 
 (Fundstelle: BGBl. I 2014, 1295 — 1297)
 
@@ -27717,6 +28007,7 @@ die
 
 
 ### Anlage 3 (zu § 50g)
+[Direktlink](https://www.gesetze-im-internet.de/estg/BJNR010050934.html#BJNR010050934BJNE031403119)
 
 (Fundstelle: BGBl. I 2014, 1298 — 1299)
 

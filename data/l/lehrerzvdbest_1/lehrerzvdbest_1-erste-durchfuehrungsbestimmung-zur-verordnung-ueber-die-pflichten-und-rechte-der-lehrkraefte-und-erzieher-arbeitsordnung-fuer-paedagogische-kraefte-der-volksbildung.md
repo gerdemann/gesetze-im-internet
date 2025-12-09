@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000400307)
 
 Auf Grund des § 21 der Verordnung vom 22. September 1962 über die
 Pflichten und Rechte der Lehrkräfte und Erzieher - Arbeitsordnung für
@@ -30,6 +31,7 @@ Durchführung des § 2 Absätze 2 und 3 folgendes bestimmt:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000500307)
 
 Diese Durchführungsbestimmung gilt für den im § 1 der Verordnung über
 die Pflichten und Rechte der Lehrkräfte und Erzieher genannten
@@ -37,10 +39,12 @@ Personenkreis.
 
 
 ## - - Inhalt und Umfang der Fürsorge und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNG000100307)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000600307)
 
 (1) Die Leiter, Lehrkräfte und Erzieher der Einrichtungen haben in
 Ausübung ihrer beruflichen Tätigkeit eine umfassende Fürsorge und
@@ -78,6 +82,7 @@ e)  durch gute Vorbereitung, Gestaltung und Kontrolle der gesamten
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000700307)
 
 (1) Die Fürsorge und Aufsicht erstreckt sich nach Maßgabe der §§ 5 bis
 7 dieser Durchführungsbestimmung:
@@ -112,6 +117,7 @@ der Kinder auf dem Schulweg erhöht wird.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000800307)
 
 Sind Leiter, Lehrkräfte und Erzieher an Veranstaltungen beteiligt, die
 außerhalb der Verantwortung der Schulen und Erziehungseinrichtungen
@@ -121,6 +127,7 @@ Bestimmungen.
 
 
 ### § 5 Die Aufgaben des Leiters der Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE000900307)
 
 (1) Der Leiter einer Einrichtung hat in Wahrnehmung der Aufgaben und
 Pflichten, die sich für ihn nach der Arbeitsschutzverordnung vom 22.
@@ -170,10 +177,12 @@ Verstöße hat er sofort seiner vorgesetzten Dienststelle zu melden.
 
 
 ## - - Pflichten und Rechte der Lehrkräfte und Erzieher
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNG000200307)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001000307)
 
 (1) Die Lehrkräfte und Erzieher sind für die Fürsorge und Aufsicht
 gegenüber den Kindern und Jugendlichen des ihnen anvertrauten Klassen-
@@ -205,6 +214,7 @@ oder Gruppenverbandes verantwortlich.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001100307)
 
 (1) Soweit nicht Festlegungen in der Stundentafel entgegenstehen,
 dürfen Lehrer und Erzieher Schüler ab 7. Klasse sowie Lehrlinge in der
@@ -260,6 +270,7 @@ c)  regelmäßige Anleitung und Kontrolle.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001200307)
 
 Die besondere Verantwortung von Lehrkräften und Erziehern im
 naturwissenschaftlichen Unterricht, bei Sport und Schulwanderungen,
@@ -268,6 +279,7 @@ Betrieben wird in hierfür geltenden Bestimmungen geregelt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001300307)
 
 (1) In Heimen der Jugendhilfe, in Sonderschulen und Einrichtungen des
 Sonderschulwesens sowie in Instituten für Lehrerbildung und
@@ -283,10 +295,12 @@ seinem Verantwortungsbereich zu treffen.
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNG000300307)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001400307)
 
 (1) Die Abteilungen Volksbildung der Räte der Kreise und Städte und
 die wirtschaftsleitenden Organe sind verpflichtet, die Direktoren,
@@ -319,11 +333,13 @@ zuständigen Leiter entsprechende Vorschläge, wie z.B.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001500307)
 
 Diese Durchführungsbestimmung tritt mit ihrer Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/lehrerzvdbest_1/DDNR000190966.html#DDNR000190966BJNE001600307)
 
 **Der Minister für Volksbildung**
 

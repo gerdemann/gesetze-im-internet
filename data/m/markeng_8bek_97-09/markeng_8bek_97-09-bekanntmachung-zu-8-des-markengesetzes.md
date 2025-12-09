@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_97-09/BJNR246200997.html#BJNR246200997BJNE000100305)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die
@@ -48,6 +49,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_97-09/BJNR246200997.html#BJNR246200997BJNE000200305)
 
 (Fundstelle: BGBl. I 1997, 2462)
 
@@ -56,6 +58,7 @@ Emblem der Eurasischen Patentorganisation
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_97-09/BJNR246200997.html#BJNR246200997BJNE000300305)
 
 (Fundstelle: BGBl. I 1997, 2463)
 
@@ -116,6 +119,7 @@ Organizacion mundial de sanidad animal - spanisch -
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_97-09/BJNR246200997.html#BJNR246200997BJNE000400305)
 
 (Fundstelle: BGBl. I 1997, 2464)
 
@@ -157,6 +161,7 @@ Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA - spanisch
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_97-09/BJNR246200997.html#BJNR246200997BJNE000500305)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2465
 

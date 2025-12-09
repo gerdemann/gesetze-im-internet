@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000100000)
 
 Auf Grund des § 15 der Erneuerbare-Energien-Verordnung vom 17. Februar
 2015 (BGBl. I S. 146), der durch Artikel 3 Nummer 2 des Gesetzes vom
@@ -33,9 +34,11 @@ Bundesamt für Seeschifffahrt und Hydrographie:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000300000)
 
 [^f824937_01_BJNR0080A0023BJNE000300000]
 Für die im Flächenentwicklungsplan vom 18. Dezember 2020
@@ -68,6 +71,7 @@ werden durch diese Verordnung
 [^f824937_01_BJNR0080A0023BJNE000300000]: 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -152,12 +156,15 @@ Im Sinne dieser Verordnung ist oder sind
 [^f824937_02_BJNR0080A0023BJNE000400000]: 
 
 ## Teil 2 - Feststellung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000200000)
 
 
 ### Kapitel 1 - Feststellung der Eignung und der Erforderlichkeit der Realisierung von Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000300000)
 
 
 #### § 3 Feststellung der Eignung und der Erforderlichkeit der Realisierung von Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000500000)
 
 (1) Die im Flächenentwicklungsplan vom 18. Dezember 2020 festgelegten
 Flächen N-6.6 und N-6.7 in der deutschen ausschließlichen
@@ -173,15 +180,19 @@ Interesse der öffentlichen Sicherheit erforderlich.
 
 
 ### Kapitel 2 - Vorgaben für das spätere Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000400000)
 
 
 #### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000500000)
 
 
 ##### Unterabschnitt 1 - Auswirkungen des Vorhabens auf die Meeresumwelt
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000600000)
 
 
 ###### § 4 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000600000)
 
 [^f824937_03_BJNR0080A0023BJNE000600000]
 (1) Als Grundlage für das Monitoring gemäß § 77 Absatz 3 Nummer 1 des
@@ -215,6 +226,7 @@ durchgeführt werden.
 [^f824937_04_BJNR0080A0023BJNE000600000]: 
 
 ###### § 5 Verlegung und Dimensionierung von parkinternen Seekabelsystemen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000700000)
 
 (1) Der Träger des Vorhabens hat bei der Dimensionierung und Verlegung
 der parkinternen Seekabelsysteme den Planungsgrundsatz des
@@ -228,6 +240,7 @@ mit möglichst geringen Umweltauswirkungen erreicht werden.
 
 
 ###### § 6 Vermeidung oder Verminderung von Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000800000)
 
 (1) Der Träger des Vorhabens hat Emissionen zu vermeiden oder, soweit
 sie unvermeidlich sind, zu vermindern.
@@ -265,6 +278,7 @@ sie unvermeidlich sind, zu vermindern.
 
 
 ###### § 7 Vermeidung von Schallemissionen bei der Gründung, der Installation und dem Betrieb von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE000900000)
 
 (1) Bei der Gründung und Installation einer Anlage hat der Träger des
 Vorhabens nach dem Stand der Technik diejenige Arbeitsmethode
@@ -298,6 +312,7 @@ unberührt.
 
 
 ###### § 8 Zeitliche Koordination von Rammarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001000000)
 
 [^f824937_07_BJNR0080A0023BJNE001000000]
 (1) Der Träger des Vorhabens hat zur Einhaltung der Vorgaben des
@@ -322,6 +337,7 @@ ist, bleibt unberührt.
 [^f824937_07_BJNR0080A0023BJNE001000000]: 
 
 ###### § 9 Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001100000)
 
 Das Einbringen und Einleiten von Abfällen in die Meeresumwelt ist
 verboten, es sei denn, dies ist nach den Vorschriften dieser
@@ -329,6 +345,7 @@ Verordnung zulässig.
 
 
 ###### § 10 Korrosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001200000)
 
 (1) Der vom Träger des Vorhabens eingesetzte Korrosionsschutz der
 Anlage muss möglichst schadstofffrei und emissionsarm sein.
@@ -351,6 +368,7 @@ Spritzwasserzone mit einem ölabweisenden Anstrich zu versehen.
 
 
 ###### § 11 Anlagenkühlung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001300000)
 
 Zur Anlagenkühlung ist grundsätzlich ein geschlossenes Kühlsystem
 einzusetzen, bei dem es nicht zu Kühlwassereinleitungen oder sonstigen
@@ -358,6 +376,7 @@ stofflichen Einleitungen in die Meeresumwelt kommt.
 
 
 ###### § 12 Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001400000)
 
 (1) Der Träger des Vorhabens hat das Abwasser aus sanitären
 Einrichtungen, Sanitätseinrichtungen, Küchen und Wäschereien
@@ -396,6 +415,7 @@ Die Chlorierung von Abwässern ist nicht zulässig.
 
 
 ###### § 13 Ölgehalt des Drainagewassers
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001500000)
 
 (1) Bei Einsatz eines Leichtflüssigkeitsabscheiders darf anfallendes
 Drainagewasser einen Ölgehalt von 5 Milligramm je Liter nicht
@@ -413,6 +433,7 @@ wird.
 
 
 ###### § 14 Löschschaum auf Hubschrauberlandedecks
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001600000)
 
 (1) Auf Hubschrauberlandedecks dürfen Schaummittel zur
 Löschschaumproduktion keine per- und polyfluorierten Chemikalien
@@ -428,6 +449,7 @@ nicht über das Drainagesystem in die Meeresumwelt eingeleitet werden.
 
 
 ###### § 15 Dieselgeneratoren
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001700000)
 
 (1) Auf Offshore-Plattformen eingesetzte Dieselgeneratoren müssen
 bezüglich der Emissionsgrenzwerte nach Stufe III des MARPOL Anlage VI
@@ -443,6 +465,7 @@ der möglichst schwefelarm ist.
 
 
 ###### § 16 Kolk- und Kabelschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001800000)
 
 (1) Bei Kolk- und Kabelschutzmaßnahmen hat der Träger des Vorhabens
 das Einbringen von Hartsubstrat auf das zur Herstellung des Schutzes
@@ -459,9 +482,11 @@ zulässig und auf ein Mindestmaß zu begrenzen.
 
 
 ##### Unterabschnitt 2 - Allgemeine Vorschriften für die Sicherheit und Leichtigkeit des Schiffs- und Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000700000)
 
 
 ###### § 17 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE001900000)
 
 (1) Der Träger des Vorhabens hat die Anlagen und sonstige für den
 Schiffsverkehr und den Luftverkehr relevante Hindernisse des Offshore-
@@ -512,9 +537,11 @@ anzupassen.
 [^f824937_10_BJNR0080A0023BJNE001900000]: 
 
 ##### Unterabschnitt 3 - Besondere Vorschriften für die Sicherheit und Leichtigkeit des Schiffsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000800000)
 
 
 ###### § 18 Seeraumbeobachtung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002000000)
 
 [^f824937_11_BJNR0080A0023BJNE002000000]
 Der Träger des Vorhabens hat eine Seeraumbeobachtung für die Fläche
@@ -531,6 +558,7 @@ eingehalten werden.
 [^f824937_11_BJNR0080A0023BJNE002000000]: 
 
 ###### § 19 Bauweise
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002100000)
 
 [^f824937_12_BJNR0080A0023BJNE002100000]
 (1) Der Träger des Vorhabens hat die Anlagen nach dem Stand der
@@ -553,6 +581,7 @@ Gebiets, in dem die Fläche liegt, integrieren.
 [^f824937_12_BJNR0080A0023BJNE002100000]: 
 
 ###### § 20 Verkehrssicherung während der Bauphase
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002200000)
 
 [^f824937_13_BJNR0080A0023BJNE002200000]
 (1) Zur Sicherung des Umfelds der Baustelle und zur Vermeidung von
@@ -601,6 +630,7 @@ erfüllt werden.
 [^f824937_15_BJNR0080A0023BJNE002200000]: 
 
 ###### § 21 Anforderungen an Fahrzeuge und Arbeitsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002300000)
 
 Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des
 Verkehrssicherungsfahrzeugs müssen
@@ -621,6 +651,7 @@ Verkehrssicherungsfahrzeugs müssen
 
 
 ###### § 22 Risikomindernde Maßnahmen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002400000)
 
 (1) Zur Gewährleistung der Sicherheit und Leichtigkeit des
 Schiffsverkehrs kann das Bundesamt für Seeschifffahrt und Hydrographie
@@ -653,6 +684,7 @@ auf-See-Gesetzes bleiben unberührt.
 
 
 ###### § 23 Tiefenlage und Überdeckung von parkinternen Seekabelsystemen in einem Vorranggebiet Schifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002500000)
 
 Soweit die parkinterne Verkabelung der jeweiligen Fläche in einem im
 Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in
@@ -663,9 +695,11 @@ hergestellt werden.
 
 
 ##### Unterabschnitt 4 - Besondere Vorschriften für die Sicherheit und Leichtigkeit des Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG000900000)
 
 
 ###### § 24 Hubschrauberwindenbetrieb und Windenbetriebsflächen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002600000)
 
 [^f824937_16_BJNR0080A0023BJNE002600000]
 (1) Auf einer Windenergieanlage ist die Windenbetriebsfläche durch den
@@ -688,6 +722,7 @@ auszugestalten, zu kennzeichnen und zu nutzen.
 [^f824937_17_BJNR0080A0023BJNE002600000]: 
 
 ###### § 25 Hubschrauberlandedeck
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002700000)
 
 [^f824937_18_BJNR0080A0023BJNE002700000]
 Wenn ein Hubschrauberlandedeck auf einer Offshore-Plattform des
@@ -702,6 +737,7 @@ einzuhalten.
 [^f824937_18_BJNR0080A0023BJNE002700000]: 
 
 ###### § 26 Flugkorridore
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002800000)
 
 [^f824937_19_BJNR0080A0023BJNE002800000]
 (1) Der Träger des Vorhabens hat für ein Hubschrauberlandedeck nach §
@@ -774,9 +810,11 @@ Störungsbehebung getroffen wurden.
 [^f824937_20_BJNR0080A0023BJNE002800000]: 
 
 ##### Unterabschnitt 5 - Sicherheit und Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001000000)
 
 
 ###### § 27 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE002900000)
 
 Bei Planung, Errichtung, Betrieb und Rückbau jeder Anlage hat der
 Träger des Vorhabens sicherzustellen, dass die deutschen Vorschriften
@@ -785,6 +823,7 @@ werden können.
 
 
 ###### § 28 Evakuierung, Rettung und notfallmedizinische Versorgung sowie Brand- und Explosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003000000)
 
 (1) Der Träger des Vorhabens hat ein projektspezifisches Flucht- und
 Rettungskonzept sowie ein bauliches, anlagentechnisches und
@@ -814,6 +853,7 @@ nutzen sollen.
 
 
 ###### § 29 Eingriff in den Baugrund
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003100000)
 
 Vor der Ausführung von Arbeiten, die einen Eingriff in den Baugrund
 erfordern, hat der Träger des Vorhabens sicherzustellen, dass mögliche
@@ -826,6 +866,7 @@ aufgefunden wird.
 
 
 ###### § 30 Überwachung der Einhaltung der Vorschriften zur Sicherheit und zum Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003200000)
 
 (1) Zur Überwachung der Pflichten aus den §§ 27 bis 29 hat der Träger
 des Vorhabens der zuständigen Behörde und ihren Beauftragten die für
@@ -842,6 +883,7 @@ Kosten für den Transport zu übernehmen.
 
 
 ###### § 31 Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003300000)
 
 Die Pflichten des Trägers des Vorhabens zur Gewährleistung der
 Sicherheit und des Gesundheitsschutzes bei der Arbeit in seiner
@@ -849,9 +891,11 @@ Eigenschaft als Arbeitgeber bleiben unberührt.
 
 
 ##### Unterabschnitt 6 - Vereinbarkeit mit bestehenden und geplanten Seekabeln, Rohrleitungen, Konverterplattformen und sonstigen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001100000)
 
 
 ###### § 32 Vereinbarkeit mit bestehenden und geplanten Seekabeln, Rohrleitungen, Konverterplattformen und sonstigen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003400000)
 
 (1) Bei der Planung und Durchführung von Arbeiten im Umfeld von
 bestehenden oder geplanten Seekabeln oder Rohrleitungen oder sonstigen
@@ -879,6 +923,7 @@ Netzbetreiber erfolgen.
 
 
 ###### § 33 Abstand zu Windenergieanlagen benachbarter Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003500000)
 
 Die auf der jeweiligen Fläche zu errichtenden Windenergieanlagen
 müssen einen Abstand von mindestens dem Fünffachen des jeweils
@@ -892,9 +937,11 @@ unberührt.
 
 
 ##### Unterabschnitt 7 - Sonstige Verpflichtungen des Trägers des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001200000)
 
 
 ###### § 34 Konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003600000)
 
 (1) Die Planung, die Errichtung, der Betrieb und der Rückbau sowie die
 Konstruktion und Ausstattung der Anlagen müssen dem Stand der Technik
@@ -936,6 +983,7 @@ auch ein vollständiger Zugriff auch vom Land aus möglich sind.
 [^f824937_22_BJNR0080A0023BJNE003600000]: 
 
 ###### § 35 Ermittlung, Dokumentation und Meldung von Objekten und errichteten Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003700000)
 
 (1) Der Träger des Vorhabens hat vor Beginn der Planung und
 Realisierung der Anlagen vorhandene Kabel, Leitungen, Wracks,
@@ -971,9 +1019,11 @@ Seeschifffahrt und Hydrographie zu übermitteln.
 
 
 #### Abschnitt 2 - Besondere Vorgaben für die Fläche N-6.6
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001300000)
 
 
 ##### § 36 Besondere Bestimmungen zur Vereinbarkeit mit Kulturgütern
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003800000)
 
 Um das Schiffswrack mit dem Wrackmittelpunkt 54° 16.4164´ N; 006°
 02\.0680´ E WGS84 ist eine Ausschlusszone mit einem Radius von 42
@@ -981,9 +1031,11 @@ Metern um den Wrackmittelpunkt einzuhalten.
 
 
 ## Teil 3 - Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001400000)
 
 
 ### § 37 Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE003900000)
 
 (1) Die auf der Fläche N-6.6 zu installierende Leistung beträgt 630
 Megawatt.
@@ -993,9 +1045,11 @@ Megawatt.
 
 
 ## Teil 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNG001500000)
 
 
 ### § 38 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_3/BJNR0080A0023.html#BJNR0080A0023BJNE004000000)
 
 Diese Verordnung tritt am 12. Januar 2023 in Kraft.
 

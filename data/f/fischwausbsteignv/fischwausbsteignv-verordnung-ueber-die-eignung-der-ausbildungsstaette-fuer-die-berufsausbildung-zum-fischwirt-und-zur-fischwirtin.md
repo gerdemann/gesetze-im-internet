@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-8-5 v. 21.12.1978 I 2072 (FischWiAusbStEignV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbsteignv/BJNR382200017.html#BJNR382200017BJNE000100000)
 
 Auf Grund des § 27 Absatz 3 Satz 2 in Verbindung mit Absatz 1 und 2
 des Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436
@@ -30,6 +31,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und an den Bewirtschaftungszustand der Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbsteignv/BJNR382200017.html#BJNR382200017BJNE000200000)
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27
 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein
@@ -88,6 +90,7 @@ sicherheitstechnische Überprüfung des Betriebes vorliegen, die nicht
 
 
 ## § 2 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbsteignv/BJNR382200017.html#BJNR382200017BJNE000300000)
 
 (1) In der Ausbildungsstätte müssen ein Abdruck der
 Fischwirtausbildungsverordnung und der Prüfungsordnung sowie der
@@ -104,6 +107,7 @@ eröffnet worden ist.
 
 
 ## § 3 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbsteignv/BJNR382200017.html#BJNR382200017BJNE000400000)
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten nicht im vollen Umfang
@@ -115,6 +119,7 @@ vermittelt werden können.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischwausbsteignv/BJNR382200017.html#BJNR382200017BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Eignung der

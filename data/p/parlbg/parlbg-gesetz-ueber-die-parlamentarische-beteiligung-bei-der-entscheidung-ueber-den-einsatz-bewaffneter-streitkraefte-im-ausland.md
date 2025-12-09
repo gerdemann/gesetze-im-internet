@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000100000)
 
 (1) Dieses Gesetz regelt Form und Ausmaß der Beteiligung des
 Bundestages beim Einsatz bewaffneter deutscher Streitkräfte im
@@ -30,6 +31,7 @@ Bundestages.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000200000)
 
 (1) Ein Einsatz bewaffneter Streitkräfte liegt vor, wenn Soldatinnen
 oder Soldaten der Bundeswehr in bewaffnete Unternehmungen einbezogen
@@ -46,6 +48,7 @@ werden.
 
 
 ## § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000300000)
 
 (1) Die Bundesregierung übersendet dem Bundestag den Antrag auf
 Zustimmung zum Einsatz der Streitkräfte rechtzeitig vor Beginn des
@@ -81,6 +84,7 @@ Einsatzes.
 
 
 ## § 4 Vereinfachtes Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000400000)
 
 (1) Bei Einsätzen von geringer Intensität und Tragweite kann die
 Zustimmung in einem vereinfachten Verfahren erteilt werden. Die
@@ -124,6 +128,7 @@ Tragweite vor, wenn
 
 
 ## § 5 Nachträgliche Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000500000)
 
 (1) Einsätze bei Gefahr im Verzug, die keinen Aufschub dulden,
 bedürfen keiner vorherigen Zustimmung des Bundestages. Gleiches gilt
@@ -140,6 +145,7 @@ beenden.
 
 
 ## § 6 Unterrichtungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000600000)
 
 (1) Die Bundesregierung unterrichtet den Bundestag regelmäßig über den
 Verlauf der Einsätze und über die Entwicklung im Einsatzgebiet.
@@ -150,6 +156,7 @@ Obleute unverzüglich.
 
 
 ## § 7 Verlängerung von Einsätzen
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000700000)
 
 (1) Das Verfahren nach § 4 findet auch Anwendung auf die Verlängerung
 von Zustimmungsbeschlüssen ohne inhaltliche Änderung.
@@ -166,12 +173,14 @@ Genehmigung bleibt durch die Regelungen der Sätze 1 und 2 unberührt.
 
 
 ## § 8 Rückholrecht
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000800000)
 
 Der Bundestag kann die Zustimmung zu einem Einsatz bewaffneter
 Streitkräfte widerrufen.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/parlbg/BJNR077500005.html#BJNR077500005BJNE000900000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

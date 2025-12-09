@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000218130)
 
 (1) Anspruch auf Unterhaltsvorschuss oder -ausfallleistung nach diesem
 Gesetz (Unterhaltsleistung) hat, wer
@@ -165,6 +166,7 @@ Unterhaltsleistung nach diesem Gesetz.
 
 
 ## § 2 Umfang der Unterhaltsleistung
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000312116)
 
 (1) Die Unterhaltsleistung wird monatlich in Höhe des sich nach §
 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 des Bürgerlichen Gesetzbuchs
@@ -214,12 +216,14 @@ berücksichtigen.
 
 
 ## § 3 Dauer und Bewilligung der Unterhaltsleistung
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000408130)
 
 Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die
 Unterhaltsleistung erbracht und für diese Dauer bewilligt.
 
 
 ## § 4 Beginn und beschränkte Rückwirkung der Unterhaltsleistung
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000507130)
 
 (1) Die Unterhaltsleistung wird erbracht, sobald ein wirksamer Antrag
 gestellt wurde und die Anspruchsvoraussetzungen für die
@@ -236,6 +240,7 @@ veranlassen.
 
 
 ## § 5 Ersatz- und Rückzahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000606116)
 
 (1) Haben die Voraussetzungen für die Zahlung der Unterhaltsleistung
 in dem Kalendermonat, für den sie gezahlt worden ist, nicht oder nicht
@@ -266,6 +271,7 @@ zurückzuzahlen.
 
 
 ## § 6 Auskunfts- und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000708130)
 
 (1) Der Elternteil, bei dem der Berechtigte nicht lebt, ist
 verpflichtet, der zuständigen Stelle auf Verlangen die Auskünfte zu
@@ -320,6 +326,7 @@ in den Absätzen 1, 2 und 6 genannten Auskünfte zu übermitteln.
 
 
 ## § 7 Übergang von Ansprüchen des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000808116)
 
 (1) Hat der Berechtigte für die Zeit, für die ihm die
 Unterhaltsleistung nach diesem Gesetz gezahlt wird, einen
@@ -373,6 +380,7 @@ Bescheid gemäß § 9 Absatz 2 beizufügen.
 
 
 ## § 8 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE000906116)
 
 (1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu 40
 Prozent vom Bund, im Übrigen von den Ländern getragen. Eine
@@ -384,6 +392,7 @@ an den Bund ab.
 
 
 ## § 9 Verfahren und Zahlungsweise
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE001009130)
 
 (1) Über die Zahlung der Unterhaltsleistung wird auf schriftlichen
 Antrag des Elternteils, bei dem der Berechtigte lebt, oder des
@@ -422,6 +431,7 @@ aufgehoben ist.
 
 
 ## § 10 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE001104310)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -444,6 +454,7 @@ aufgehoben ist.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE001209130)
 
 (1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in
 Fällen, in denen die Entscheidung über den Anspruch auf
@@ -472,6 +483,7 @@ Mai 2024 beginnen.
 
 
 ## § 12 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/uhvorschg/BJNR011840979.html#BJNR011840979BJNE001307116)
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2018
 einen Bericht über die Wirkung der Reform, die am 1. Juli 2017 in

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbgg/BJNR203820990.html#BJNR203820990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbgg/BJNR203820990.html#BJNR203820990BJNE000200308)
 
 Der in Straßburg am 26. November 1987 von der Bundesrepublik
 Deutschland unterzeichneten Verwaltungsvereinbarung zur Durchführung
@@ -36,6 +38,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbgg/BJNR203820990.html#BJNR203820990BJNE000302308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von
@@ -65,6 +68,7 @@ Kraft zu setzen über die
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbgg/BJNR203820990.html#BJNR203820990BJNE000400308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -73,6 +77,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbgg/BJNR203820990.html#BJNR203820990BJNE000500308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

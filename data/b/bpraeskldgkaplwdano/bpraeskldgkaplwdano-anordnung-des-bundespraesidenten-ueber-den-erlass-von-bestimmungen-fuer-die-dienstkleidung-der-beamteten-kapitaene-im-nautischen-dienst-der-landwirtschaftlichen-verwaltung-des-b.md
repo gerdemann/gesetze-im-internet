@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgkaplwdano/BJNR008690960.html#BJNR008690960BJNE000100303)
 
 Nach § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister
 für Ernährung, Landwirtschaft und Forsten die Ausübung der Befugnis,

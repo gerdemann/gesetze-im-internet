@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano/BJNR169500005.html#BJNR169500005BJNE000100000)
 
 Auf Grund des § 73 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
 (BGBl. I S. 931) sowie des § 1 Abs. 3 des Gesetzes über die Errichtung
@@ -45,6 +46,7 @@ zur zuständigen Stelle für das Sekretariat des Bundesrates.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano/BJNR169500005.html#BJNR169500005BJNE000200000)
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
 

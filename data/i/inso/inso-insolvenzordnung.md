@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG000100000)
 
 
 
 ### § 1 Ziele des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000200000)
 
 Das Insolvenzverfahren dient dazu, die Gläubiger eines Schuldners
 gemeinschaftlich zu befriedigen, indem das Vermögen des Schuldners
@@ -34,6 +36,7 @@ von seinen restlichen Verbindlichkeiten zu befreien.
 
 
 ### § 2 Amtsgericht als Insolvenzgericht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000301311)
 
 (1) Für das Insolvenzverfahren ist das Amtsgericht, in dessen Bezirk
 ein Landgericht seinen Sitz hat, als Insolvenzgericht für den Bezirk
@@ -54,6 +57,7 @@ Bezirk eines Oberlandesgerichts erstreckt werden.
 
 
 ### § 3 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000401125)
 
 (1) Örtlich zuständig ist ausschließlich das Insolvenzgericht, in
 dessen Bezirk der Schuldner seinen allgemeinen Gerichtsstand hat.
@@ -73,6 +77,7 @@ zuerst die Eröffnung des Insolvenzverfahrens beantragt worden ist, die
 
 
 ### § 3a Gruppen-Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041601125)
 
 (1) Auf Antrag eines Schuldners, der einer Unternehmensgruppe im Sinne
 von § 3e angehört (gruppenangehöriger Schuldner), erklärt sich das
@@ -128,6 +133,7 @@ zuständig.
 
 
 ### § 3b Fortbestehen des Gruppen-Gerichtsstands
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041700311)
 
 Ein nach § 3a begründeter Gruppen-Gerichtsstand bleibt von der
 Nichteröffnung, Aufhebung oder Einstellung des Insolvenzverfahrens
@@ -137,6 +143,7 @@ Schuldner anhängig ist.
 
 
 ### § 3c Zuständigkeit für Gruppen-Folgeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041801125)
 
 (1) Am Gericht des Gruppen-Gerichtsstands ist für Gruppen-
 Folgeverfahren die Abteilung zuständig, die für das Verfahren
@@ -147,6 +154,7 @@ bei dem nach § 3 Absatz 1 zuständigen Gericht gestellt werden.
 
 
 ### § 3d Verweisung an den Gruppen-Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041900311)
 
 (1) Wird die Eröffnung eines Insolvenzverfahrens über das Vermögen
 eines gruppenangehörigen Schuldners bei einem anderen Insolvenzgericht
@@ -168,6 +176,7 @@ bestellen.
 
 
 ### § 3e Unternehmensgruppe
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042000311)
 
 (1) Eine Unternehmensgruppe im Sinne dieses Gesetzes besteht aus
 rechtlich selbständigen Unternehmen, die den Mittelpunkt ihrer
@@ -191,6 +200,7 @@ Art fortsetzt.
 
 
 ### § 4 Anwendbarkeit der Zivilprozeßordnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000501125)
 
 Für das Insolvenzverfahren gelten, soweit dieses Gesetz nichts anderes
 bestimmt, die Vorschriften der Zivilprozeßordnung entsprechend. § 128a
@@ -203,6 +213,7 @@ Bildübertragung nicht wahrnehmen können.
 
 
 ### § 4a Stundung der Kosten des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036101311)
 
 (1) Ist der Schuldner eine natürliche Person und hat er einen Antrag
 auf Restschuldbefreiung gestellt, so werden ihm auf Antrag die Kosten
@@ -248,6 +259,7 @@ Wirkungen einstweilig ein. § 4b Abs. 2 gilt entsprechend.
 
 
 ### § 4b Rückzahlung und Anpassung der gestundeten Beträge
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036201311)
 
 (1) Ist der Schuldner nach Erteilung der Restschuldbefreiung nicht in
 der Lage, den gestundeten Betrag aus seinem Einkommen und seinem
@@ -266,6 +278,7 @@ Beendigung des Verfahrens vier Jahre vergangen sind.
 
 
 ### § 4c Aufhebung der Stundung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036301311)
 
 Das Gericht kann die Stundung aufheben, wenn
 
@@ -301,6 +314,7 @@ Das Gericht kann die Stundung aufheben, wenn
 
 
 ### § 4d Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036400301)
 
 (1) Gegen die Ablehnung der Stundung oder deren Aufhebung sowie gegen
 die Ablehnung der Beiordnung eines Rechtsanwalts steht dem Schuldner
@@ -313,6 +327,7 @@ Schuldners die Stundung hätte abgelehnt werden müssen.
 
 
 ### § 5 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000605125)
 
 (1) Das Insolvenzgericht hat von Amts wegen alle Umstände zu
 ermitteln, die für das Insolvenzverfahren von Bedeutung sind. Es kann
@@ -364,6 +379,7 @@ bewerkstelligt werden.
 
 
 ### § 6 Sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000702308)
 
 (1) Die Entscheidungen des Insolvenzgerichts unterliegen nur in den
 Fällen einem Rechtsmittel, in denen dieses Gesetz die sofortige
@@ -379,10 +395,12 @@ der Entscheidung anordnen.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000802308)
 
 
 
 ### § 8 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE000904125)
 
 (1) Die Zustellungen erfolgen von Amts wegen, ohne dass es einer
 Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können
@@ -411,6 +429,7 @@ Gerichtsakten zu reichen.
 
 
 ### § 9 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001005311)
 
 (1) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und
 länderübergreifende Veröffentlichung im Internet \*); diese kann
@@ -443,6 +462,7 @@ www.insolvenzbekanntmachungen.de
 
 
 ### § 10 Anhörung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001101160)
 
 (1) Soweit in diesem Gesetz eine Anhörung des Schuldners
 vorgeschrieben ist, kann sie unterbleiben, wenn sich der Schuldner im
@@ -459,6 +479,7 @@ Personen gehört werden; Absatz 1 Satz 1 gilt entsprechend.
 
 
 ### § 10a Vorgespräch
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043300125)
 
 (1) Ein Schuldner, der mindestens zwei der drei in § 22a Absatz 1
 genannten Voraussetzungen erfüllt, hat an dem für ihn zuständigen
@@ -482,14 +503,17 @@ Insolvenzverfahren über das Vermögen des Schuldners zuständig.
 
 
 ## Zweiter Teil - Eröffnung des Insolvenzverfahrens. Erfaßtes Vermögen und Verfahrensbeteiligte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG035800000)
 
 
 
 ### Erster Abschnitt - Eröffnungsvoraussetzungen und Eröffnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG001200000)
 
 
 
 #### § 11 Zulässigkeit des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001304125)
 
 (1) Ein Insolvenzverfahren kann über das Vermögen jeder natürlichen
 und jeder juristischen Person eröffnet werden. Der Verein ohne
@@ -517,6 +541,7 @@ zulässig, solange die Verteilung des Vermögens nicht vollzogen ist.
 
 
 #### § 12 Juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001402301)
 
 (1) Unzulässig ist das Insolvenzverfahren über das Vermögen
 
@@ -541,6 +566,7 @@ Träger der Insolvenzsicherung beanspruchen könnten.
 
 
 #### § 13 Eröffnungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001504311)
 
 (1) Das Insolvenzverfahren wird nur auf schriftlichen Antrag eröffnet.
 Antragsberechtigt sind die Gläubiger und der Schuldner. Dem Antrag des
@@ -601,6 +627,7 @@ können unterschiedliche Formulare eingeführt werden.
 
 
 #### § 13a Antrag zur Begründung eines Gruppen-Gerichtsstands
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042100311)
 
 (1) In einem Antrag nach § 3a Absatz 1 sind anzugeben:
 
@@ -647,6 +674,7 @@ Bedeutung für die Unternehmensgruppe sind. Die Jahresabschlüsse der
 
 
 #### § 14 Antrag eines Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001603125)
 
 (1) Der Antrag eines Gläubigers ist zulässig, wenn der Gläubiger ein
 rechtliches Interesse an der Eröffnung des Insolvenzverfahrens hat und
@@ -667,6 +695,7 @@ Stabilisierungsanordnung keine Kenntnis haben konnte.
 
 
 #### § 15 Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001702125)
 
 (1) Zum Antrag auf Eröffnung eines Insolvenzverfahrens über das
 Vermögen einer juristischen Person oder einer rechtsfähigen
@@ -699,6 +728,7 @@ Gesellschaften in dieser Art fortsetzt.
 
 
 #### § 15a Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039105125)
 
 (1) Wird eine juristische Person zahlungsunfähig oder überschuldet,
 haben die Mitglieder des Vertretungsorgans oder die Abwickler ohne
@@ -751,6 +781,7 @@ Gesetzbuchs gilt, sind die Absätze 1 bis 6 nicht anzuwenden.
 
 
 #### § 15b Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043400125)
 
 (1) Die nach § 15a Absatz 1 Satz 1 antragspflichtigen Mitglieder des
 Vertretungsorgans und Abwickler einer juristischen Person dürfen nach
@@ -828,12 +859,14 @@ Sätze 1 und 2 nicht.
 
 
 #### § 16 Eröffnungsgrund
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001800000)
 
 Die Eröffnung des Insolvenzverfahrens setzt voraus, daß ein
 Eröffnungsgrund gegeben ist.
 
 
 #### § 17 Zahlungsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE001900000)
 
 (1) Allgemeiner Eröffnungsgrund ist die Zahlungsunfähigkeit.
 
@@ -844,6 +877,7 @@ hat.
 
 
 #### § 18 Drohende Zahlungsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002002125)
 
 (1) Beantragt der Schuldner die Eröffnung des Insolvenzverfahrens, so
 ist auch die drohende Zahlungsunfähigkeit Eröffnungsgrund.
@@ -862,6 +896,7 @@ Gesellschaft berechtigt sind.
 
 
 #### § 19 Überschuldung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002109125)
 
 (1) Bei einer juristischen Person ist auch die Überschuldung
 Eröffnungsgrund.
@@ -886,6 +921,7 @@ persönlich haftender Gesellschafter eine natürliche Person ist.
 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren.
 
 #### § 20 Hinweis auf Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002203311)
 
 (1) Ist der Antrag zulässig, so hat der Schuldner dem Insolvenzgericht
 die Auskünfte zu erteilen, die zur Entscheidung über den Antrag
@@ -899,6 +935,7 @@ Restschuldbefreiung erlangen kann.
 
 
 #### § 21 Anordnung vorläufiger Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002309125)
 
 (1) Das Insolvenzgericht hat alle Maßnahmen zu treffen, die
 erforderlich erscheinen, um bis zur Entscheidung über den Antrag eine
@@ -970,6 +1007,7 @@ Anordnung von Haft gilt § 98 Abs. 3 entsprechend.
 
 
 #### § 22 Rechtsstellung des vorläufigen Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002401301)
 
 (1) Wird ein vorläufiger Insolvenzverwalter bestellt und dem Schuldner
 ein allgemeines Verfügungsverbot auferlegt, so geht die Verwaltungs-
@@ -1010,6 +1048,7 @@ Abs. 2 gelten entsprechend.
 
 
 #### § 22a Bestellung eines vorläufigen Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039301311)
 
 (1) Das Insolvenzgericht hat einen vorläufigen Gläubigerausschuss nach
 § 21 Absatz 2 Nummer 1a einzusetzen, wenn der Schuldner im
@@ -1050,6 +1089,7 @@ des vorläufigen Gläubigerausschusses in Betracht kommen.
 
 
 #### § 23 Bekanntmachung der Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002503125)
 
 (1) Der Beschluß, durch den eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
 Verfügungsbeschränkungen angeordnet und ein vorläufiger
@@ -1070,6 +1110,7 @@ Pfandrechte an Luftfahrzeugen gelten die §§ 32, 33 entsprechend.
 
 
 #### § 24 Wirkungen der Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002600000)
 
 (1) Bei einem Verstoß gegen eine der in § 21 Abs. 2 Nr. 2 vorgesehenen
 Verfügungsbeschränkungen gelten die §§ 81, 82 entsprechend.
@@ -1081,6 +1122,7 @@ entsprechend.
 
 
 #### § 25 Aufhebung der Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002700000)
 
 (1) Werden die Sicherungsmaßnahmen aufgehoben, so gilt für die
 Bekanntmachung der Aufhebung einer Verfügungsbeschränkung § 23
@@ -1097,6 +1139,7 @@ Gegenleistung in Anspruch genommen hat.
 
 
 #### § 26 Abweisung mangels Masse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002807308)
 
 (1) Das Insolvenzgericht weist den Antrag auf Eröffnung des
 Insolvenzverfahrens ab, wenn das Vermögen des Schuldners
@@ -1131,6 +1174,7 @@ Vermögensanspruch gegen den Schuldner hat.
 
 
 #### § 26a Vergütung des vorläufigen Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039401311)
 
 (1) Wird das Insolvenzverfahren nicht eröffnet, setzt das
 Insolvenzgericht die Vergütung und die zu erstattenden Auslagen des
@@ -1156,6 +1200,7 @@ Zivilprozessordnung gilt entsprechend.
 
 
 #### § 27 Eröffnungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE002905125)
 
 (1) Wird das Insolvenzverfahren eröffnet, so ernennt das
 Insolvenzgericht einen Insolvenzverwalter. § 270 bleibt unberührt.
@@ -1194,6 +1239,7 @@ Beschluß erlassen worden ist.
 
 
 #### § 28 Aufforderungen an die Gläubiger und die Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003001125)
 
 (1) Im Eröffnungsbeschluß sind die Gläubiger aufzufordern, ihre
 Forderungen innerhalb einer bestimmten Frist unter Beachtung des § 174
@@ -1222,6 +1268,7 @@ Zivilprozessordnung Genannten bleibt unberührt.
 
 
 #### § 29 Terminbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003101311)
 
 (1) Im Eröffnungsbeschluß bestimmt das Insolvenzgericht Termine für:
 
@@ -1246,6 +1293,7 @@ der Verbindlichkeiten gering ist.
 
 
 #### § 30 Bekanntmachung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003203311)
 
 (1) Die Geschäftsstelle des Insolvenzgerichts hat den
 Eröffnungsbeschluß sofort öffentlich bekanntzumachen.
@@ -1257,6 +1305,7 @@ selbst ist der Beschluß besonders zuzustellen.
 
 
 #### § 31 Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003303125)
 
 Ist der Schuldner im Handels-, Genossenschafts-, Gesellschafts-,
 Partnerschafts- oder Vereinsregister eingetragen, so hat die
@@ -1277,6 +1326,7 @@ Geschäftsstelle des Insolvenzgerichts dem Registergericht zu
 
 
 #### § 32 Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003400000)
 
 (1) Die Eröffnung des Insolvenzverfahrens ist in das Grundbuch
 einzutragen:
@@ -1305,6 +1355,7 @@ Verwalter beim Grundbuchamt beantragt werden.
 
 
 #### § 33 Register für Schiffe und Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003500000)
 
 Für die Eintragung der Eröffnung des Insolvenzverfahrens in das
 Schiffsregister, das Schiffsbauregister und das Register für
@@ -1315,6 +1366,7 @@ Grundbuchamts das Registergericht.
 
 
 #### § 34 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003601301)
 
 (1) Wird die Eröffnung des Insolvenzverfahrens abgelehnt, so steht dem
 Antragsteller und, wenn die Abweisung des Antrags nach § 26 erfolgt,
@@ -1331,10 +1383,12 @@ vorgenommen worden sind, werden durch die Aufhebung nicht berührt.
 
 
 ### Zweiter Abschnitt - Insolvenzmasse. Einteilung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG003700000)
 
 
 
 #### § 35 Begriff der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003804125)
 
 (1) Das Insolvenzverfahren erfaßt das gesamte Vermögen, das dem
 Schuldner zur Zeit der Eröffnung des Verfahrens gehört und das er
@@ -1361,6 +1415,7 @@ Unwirksamkeit öffentlich bekannt zu machen.
 
 
 #### § 36 Unpfändbare Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE003907125)
 
 (1) Gegenstände, die nicht der Zwangsvollstreckung unterliegen,
 gehören nicht zur Insolvenzmasse. Die §§ 850, 850a, 850c, 850e, 850f
@@ -1400,6 +1455,7 @@ gelten die Sätze 1 und 2 entsprechend.
 
 
 #### § 37 Gesamtgut bei Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004001311)
 
 (1) Wird bei dem Güterstand der Gütergemeinschaft das Gesamtgut von
 einem Ehegatten allein verwaltet und über das Vermögen dieses
@@ -1421,6 +1477,7 @@ Ehegatten die Abkömmlinge treten.
 
 
 #### § 38 Begriff der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004100000)
 
 Die Insolvenzmasse dient zur Befriedigung der persönlichen Gläubiger,
 die einen zur Zeit der Eröffnung des Insolvenzverfahrens begründeten
@@ -1428,6 +1485,7 @@ Vermögensanspruch gegen den Schuldner haben (Insolvenzgläubiger).
 
 
 #### § 39 Nachrangige Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004203125)
 
 (1) Im Rang nach den übrigen Forderungen der Insolvenzgläubiger werden
 in folgender Rangfolge, bei gleichem Rang nach dem Verhältnis ihrer
@@ -1487,6 +1545,7 @@ mit 10 Prozent oder weniger am Haftkapital beteiligt ist.
 
 
 #### § 40 Unterhaltsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004301307)
 
 Familienrechtliche Unterhaltsansprüche gegen den Schuldner können im
 Insolvenzverfahren für die Zeit nach der Eröffnung nur geltend gemacht
@@ -1495,6 +1554,7 @@ bleibt unberührt.
 
 
 #### § 41 Nicht fällige Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004400000)
 
 (1) Nicht fällige Forderungen gelten als fällig.
 
@@ -1506,6 +1566,7 @@ Forderung entspricht.
 
 
 #### § 42 Auflösend bedingte Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004500000)
 
 Auflösend bedingte Forderungen werden, solange die Bedingung nicht
 eingetreten ist, im Insolvenzverfahren wie unbedingte Forderungen
@@ -1513,6 +1574,7 @@ berücksichtigt.
 
 
 #### § 43 Haftung mehrerer Personen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004600000)
 
 Ein Gläubiger, dem mehrere Personen für dieselbe Leistung auf das
 Ganze haften, kann im Insolvenzverfahren gegen jeden Schuldner bis zu
@@ -1521,6 +1583,7 @@ zur Zeit der Eröffnung des Verfahrens zu fordern hatte.
 
 
 #### § 44 Rechte der Gesamtschuldner und Bürgen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004700000)
 
 Der Gesamtschuldner und der Bürge können die Forderung, die sie durch
 eine Befriedigung des Gläubigers künftig gegen den Schuldner erwerben
@@ -1529,6 +1592,7 @@ Gläubiger seine Forderung nicht geltend macht.
 
 
 #### § 44a Gesicherte Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039200160)
 
 In dem Insolvenzverfahren über das Vermögen einer Gesellschaft kann
 ein Gläubiger nach Maßgabe des § 39 Abs. 1 Nr. 5 für eine Forderung
@@ -1540,6 +1604,7 @@ Sicherheit oder des Bürgen ausgefallen ist.
 
 
 #### § 45 Umrechnung von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004800000)
 
 Forderungen, die nicht auf Geld gerichtet sind oder deren Geldbetrag
 unbestimmt ist, sind mit dem Wert geltend zu machen, der für die Zeit
@@ -1551,6 +1616,7 @@ inländische Währung umzurechnen.
 
 
 #### § 46 Wiederkehrende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE004900000)
 
 Forderungen auf wiederkehrende Leistungen, deren Betrag und Dauer
 bestimmt sind, sind mit dem Betrag geltend zu machen, der sich ergibt,
@@ -1560,6 +1626,7 @@ der Leistungen unbestimmt, so gilt § 45 Satz 1 entsprechend.
 
 
 #### § 47 Aussonderung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005000000)
 
 Wer auf Grund eines dinglichen oder persönlichen Rechts geltend machen
 kann, daß ein Gegenstand nicht zur Insolvenzmasse gehört, ist kein
@@ -1569,6 +1636,7 @@ gelten.
 
 
 #### § 48 Ersatzaussonderung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005100000)
 
 Ist ein Gegenstand, dessen Aussonderung hätte verlangt werden können,
 vor der Eröffnung des Insolvenzverfahrens vom Schuldner oder nach der
@@ -1580,6 +1648,7 @@ Masse unterscheidbar vorhanden ist.
 
 
 #### § 49 Abgesonderte Befriedigung aus unbeweglichen Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005200000)
 
 Gläubiger, denen ein Recht auf Befriedigung aus Gegenständen zusteht,
 die der Zwangsvollstreckung in das unbewegliche Vermögen unterliegen
@@ -1589,6 +1658,7 @@ Befriedigung berechtigt.
 
 
 #### § 50 Abgesonderte Befriedigung der Pfandgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005301301)
 
 (1) Gläubiger, die an einem Gegenstand der Insolvenzmasse ein
 rechtsgeschäftliches Pfandrecht, ein durch Pfändung erlangtes
@@ -1606,6 +1676,7 @@ unterliegt wegen der Pacht nicht dieser Beschränkung.
 
 
 #### § 51 Sonstige Absonderungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005400000)
 
 Den in § 50 genannten Gläubigern stehen gleich:
 
@@ -1632,6 +1703,7 @@ Den in § 50 genannten Gläubigern stehen gleich:
 
 
 #### § 52 Ausfall der Absonderungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005500000)
 
 Gläubiger, die abgesonderte Befriedigung beanspruchen können, sind
 Insolvenzgläubiger, soweit ihnen der Schuldner auch persönlich haftet.
@@ -1641,12 +1713,14 @@ verzichten oder bei ihr ausgefallen sind.
 
 
 #### § 53 Massegläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005600000)
 
 Aus der Insolvenzmasse sind die Kosten des Insolvenzverfahrens und die
 sonstigen Masseverbindlichkeiten vorweg zu berichtigen.
 
 
 #### § 54 Kosten des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005700000)
 
 Kosten des Insolvenzverfahrens sind:
 
@@ -1661,6 +1735,7 @@ Kosten des Insolvenzverfahrens sind:
 
 
 #### § 55 Sonstige Masseverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE005805125)
 
 (1) Masseverbindlichkeiten sind weiter die Verbindlichkeiten:
 
@@ -1719,10 +1794,12 @@ gleich:
 
 
 ### Dritter Abschnitt Insolvenzverwalter. Organe der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG005900000)
 
 
 
 #### § 56 Bestellung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006004125)
 
 (1) Zum Insolvenzverwalter ist eine für den jeweiligen Einzelfall
 geeignete, insbesondere geschäftskundige und von den Gläubigern und
@@ -1753,6 +1830,7 @@ zurückzugeben.
 
 
 #### § 56a Gläubigerbeteiligung bei der Verwalterbestellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039501125)
 
 (1) Vor der Bestellung des Verwalters ist dem vorläufigen
 Gläubigerausschuss Gelegenheit zu geben, sich zu den Anforderungen,
@@ -1776,6 +1854,7 @@ andere Person als die bestellte zum Insolvenzverwalter wählen.
 
 
 #### § 56b Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042200311)
 
 (1) Wird über das Vermögen von gruppenangehörigen Schuldnern die
 Eröffnung eines Insolvenzverfahrens beantragt, so haben die
@@ -1798,6 +1877,7 @@ bestellen, findet § 56a entsprechende Anwendung.
 
 
 #### § 57 Wahl eines anderen Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006101301)
 
 In der ersten Gläubigerversammlung, die auf die Bestellung des
 Insolvenzverwalters folgt, können die Gläubiger an dessen Stelle eine
@@ -1810,6 +1890,7 @@ sofortige Beschwerde zu.
 
 
 #### § 58 Aufsicht des Insolvenzgerichts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006201310)
 
 (1) Der Insolvenzverwalter steht unter der Aufsicht des
 Insolvenzgerichts. Das Gericht kann jederzeit einzelne Auskünfte oder
@@ -1827,6 +1908,7 @@ Herausgabepflichten eines entlassenen Verwalters.
 
 
 #### § 59 Entlassung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006301125)
 
 (1) Das Insolvenzgericht kann den Insolvenzverwalter aus wichtigem
 Grund aus dem Amt entlassen. Die Entlassung kann von Amts wegen oder
@@ -1846,6 +1928,7 @@ zu.
 
 
 #### § 60 Haftung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006400000)
 
 (1) Der Insolvenzverwalter ist allen Beteiligten zum Schadenersatz
 verpflichtet, wenn er schuldhaft die Pflichten verletzt, die ihm nach
@@ -1862,6 +1945,7 @@ Bedeutung verantwortlich.
 
 
 #### § 61 Nichterfüllung von Masseverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006500000)
 
 Kann eine Masseverbindlichkeit, die durch eine Rechtshandlung des
 Insolvenzverwalters begründet worden ist, aus der Insolvenzmasse nicht
@@ -1872,6 +1956,7 @@ Masse voraussichtlich zur Erfüllung nicht ausreichen würde.
 
 
 #### § 62 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006601301)
 
 Die Verjährung des Anspruchs auf Ersatz des Schadens, der aus einer
 Pflichtverletzung des Insolvenzverwalters entstanden ist, richtet sich
@@ -1886,6 +1971,7 @@ Nachtragsverteilung oder die Beendigung der Überwachung tritt.
 
 
 #### § 63 Vergütung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006702311)
 
 (1) Der Insolvenzverwalter hat Anspruch auf Vergütung für seine
 Geschäftsführung und auf Erstattung angemessener Auslagen. Der
@@ -1914,6 +2000,7 @@ Vergütung des Insolvenzverwalters ändern.
 
 
 #### § 64 Festsetzung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006800000)
 
 (1) Das Insolvenzgericht setzt die Vergütung und die  zu erstattenden
 Auslagen des Insolvenzverwalters durch Beschluß fest.
@@ -1931,6 +2018,7 @@ Zivilprozeßordnung gilt entsprechend.
 
 
 #### § 65 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE006902311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, die Vergütung und die Erstattung der Auslagen des
@@ -1939,6 +2027,7 @@ hierfür maßgebliche Verfahren durch Rechtsverordnung zu regeln.
 
 
 #### § 66 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007002125)
 
 (1) Der Insolvenzverwalter hat bei der Beendigung seines Amtes einer
 Gläubigerversammlung Rechnung zu legen.
@@ -1960,6 +2049,7 @@ legen. Die Absätze 1 und 2 gelten entsprechend.
 
 
 #### § 67 Einsetzung des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007101308)
 
 (1) Vor der ersten Gläubigerversammlung kann das Insolvenzgericht
 einen Gläubigerausschuß einsetzen.
@@ -1974,6 +2064,7 @@ bestellt werden, die keine Gläubiger sind.
 
 
 #### § 68 Wahl anderer Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007200000)
 
 (1) Die Gläubigerversammlung beschließt, ob ein Gläubigerausschuß
 eingesetzt werden soll. Hat das Insolvenzgericht bereits einen
@@ -1985,6 +2076,7 @@ andere oder zusätzliche Mitglieder des Gläubigerausschusses wählen.
 
 
 #### § 69 Aufgaben des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007300000)
 
 Die Mitglieder des Gläubigerausschusses haben den Insolvenzverwalter
 bei seiner Geschäftsführung zu unterstützen und zu überwachen. Sie
@@ -1994,6 +2086,7 @@ prüfen zu lassen.
 
 
 #### § 70 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007400000)
 
 Das Insolvenzgericht kann ein Mitglied des Gläubigerausschusses aus
 wichtigem Grund aus dem Amt entlassen. Die Entlassung kann von Amts
@@ -2004,6 +2097,7 @@ Entscheidung steht ihm die sofortige Beschwerde zu.
 
 
 #### § 71 Haftung der Mitglieder des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007500000)
 
 Die Mitglieder des Gläubigerausschusses sind den
 absonderungsberechtigten Gläubigern und den Insolvenzgläubigern zum
@@ -2013,6 +2107,7 @@ entsprechend.
 
 
 #### § 72 Beschlüsse des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007600000)
 
 Ein Beschluß des Gläubigerausschusses ist gültig, wenn die Mehrheit
 der Mitglieder an der Beschlußfassung teilgenommen hat und der
@@ -2020,6 +2115,7 @@ Beschluß mit der Mehrheit der abgegebenen Stimmen gefaßt worden ist.
 
 
 #### § 73 Vergütung der Mitglieder des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007701301)
 
 (1) Die Mitglieder des Gläubigerausschusses haben Anspruch auf
 Vergütung für ihre Tätigkeit und auf Erstattung angemessener Auslagen.
@@ -2030,6 +2126,7 @@ tragen.
 
 
 #### § 74 Einberufung der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007801307)
 
 (1) Die Gläubigerversammlung wird vom Insolvenzgericht einberufen. Zur
 Teilnahme an der Versammlung sind alle absonderungsberechtigten
@@ -2043,6 +2140,7 @@ vertagt wird.
 
 
 #### § 75 Antrag auf Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE007901307)
 
 (1) Die Gläubigerversammlung ist einzuberufen, wenn dies beantragt
 wird:
@@ -2077,6 +2175,7 @@ sofortige Beschwerde zu.
 
 
 #### § 76 Beschlüsse der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008000000)
 
 (1) Die Gläubigerversammlung wird vom Insolvenzgericht geleitet.
 
@@ -2089,6 +2188,7 @@ Stelle des Forderungsbetrags.
 
 
 #### § 77 Feststellung des Stimmrechts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008100000)
 
 (1) Ein Stimmrecht gewähren die Forderungen, die angemeldet und weder
 vom Insolvenzverwalter noch von einem stimmberechtigten Gläubiger
@@ -2115,6 +2215,7 @@ Gläubigers ändern.
 
 
 #### § 78 Aufhebung eines Beschlusses der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008200000)
 
 (1) Widerspricht ein Beschluß der Gläubigerversammlung dem gemeinsamen
 Interesse der Insolvenzgläubiger, so hat das Insolvenzgericht den
@@ -2130,6 +2231,7 @@ Antragsteller die sofortige Beschwerde zu.
 
 
 #### § 79 Unterrichtung der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008300000)
 
 Die Gläubigerversammlung ist berechtigt, vom Insolvenzverwalter
 einzelne Auskünfte und einen Bericht über den Sachstand und die
@@ -2139,14 +2241,17 @@ bestellt, so kann die Gläubigerversammlung den Geldverkehr und
 
 
 ## Dritter Teil - Wirkungen der Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG035900000)
 
 
 
 ### Erster Abschnitt - Allgemeine Wirkungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG008400000)
 
 
 
 #### § 80 Übergang des Verwaltungs- und Verfügungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008500000)
 
 (1) Durch die Eröffnung des Insolvenzverfahrens geht das Recht des
 Schuldners, das zur Insolvenzmasse gehörende Vermögen zu verwalten und
@@ -2160,6 +2265,7 @@ Zwangsvollstreckung bleiben unberührt.
 
 
 #### § 81 Verfügungen des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008601301)
 
 (1) Hat der Schuldner nach der Eröffnung des Insolvenzverfahrens über
 einen Gegenstand der Insolvenzmasse verfügt, so ist diese Verfügung
@@ -2188,6 +2294,7 @@ kennen musste.
 
 
 #### § 82 Leistungen an den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008700000)
 
 Ist nach der Eröffnung des Insolvenzverfahrens zur Erfüllung einer
 Verbindlichkeit an den Schuldner geleistet worden, obwohl die
@@ -2199,6 +2306,7 @@ kannte.
 
 
 #### § 83 Erbschaft. Fortgesetzte Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008800000)
 
 (1) Ist dem Schuldner vor der Eröffnung des Insolvenzverfahrens eine
 Erbschaft oder ein Vermächtnis angefallen oder geschieht dies während
@@ -2213,6 +2321,7 @@ Gesetzbuchs dem Nacherben gegenüber unwirksam ist.
 
 
 #### § 84 Auseinandersetzung einer Gesellschaft oder Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE008901125)
 
 (1) Besteht zwischen dem Schuldner und Dritten eine Gemeinschaft nach
 Bruchteilen, eine andere Gemeinschaft oder eine rechtsfähige
@@ -2231,6 +2340,7 @@ der Miterben.
 
 
 #### § 85 Aufnahme von Aktivprozessen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009000000)
 
 (1) Rechtsstreitigkeiten über das zur Insolvenzmasse gehörende
 Vermögen, die zur Zeit der Eröffnung des Insolvenzverfahrens für den
@@ -2244,6 +2354,7 @@ sowohl der Schuldner als auch der Gegner den Rechtsstreit aufnehmen.
 
 
 #### § 86 Aufnahme bestimmter Passivprozesse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009100000)
 
 (1) Rechtsstreitigkeiten, die zur Zeit der Eröffnung des
 Insolvenzverfahrens gegen den Schuldner anhängig sind, können sowohl
@@ -2267,12 +2378,14 @@ Insolvenzgläubiger geltend machen.
 
 
 #### § 87 Forderungen der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009200000)
 
 Die Insolvenzgläubiger können ihre Forderungen nur nach den
 Vorschriften über das Insolvenzverfahren verfolgen.
 
 
 #### § 88 Vollstreckung vor Verfahrenseröffnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009301311)
 
 (1) Hat ein Insolvenzgläubiger im letzten Monat vor dem Antrag auf
 Eröffnung des Insolvenzverfahrens oder nach diesem Antrag durch
@@ -2285,6 +2398,7 @@ Verbraucherinsolvenzverfahren nach § 304 eröffnet wird.
 
 
 #### § 89 Vollstreckungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009400000)
 
 (1) Zwangsvollstreckungen für einzelne Insolvenzgläubiger sind während
 der Dauer des Insolvenzverfahrens weder in die Insolvenzmasse noch in
@@ -2308,6 +2422,7 @@ fortzusetzen sei.
 
 
 #### § 90 Vollstreckungsverbot bei Masseverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009500000)
 
 (1) Zwangsvollstreckungen wegen Masseverbindlichkeiten, die nicht
 durch eine Rechtshandlung des Insolvenzverwalters begründet worden
@@ -2333,6 +2448,7 @@ Verbindlichkeiten:
 
 
 #### § 91 Ausschluß sonstigen Rechtserwerbs
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009601307)
 
 (1) Rechte an den Gegenständen der Insolvenzmasse können nach der
 Eröffnung des Insolvenzverfahrens nicht wirksam erworben werden, auch
@@ -2347,6 +2463,7 @@ Schiffahrtsrechtlichen Verteilungsordnung.
 
 
 #### § 92 Gesamtschaden
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009700000)
 
 Ansprüche der Insolvenzgläubiger auf Ersatz eines Schadens, den diese
 Gläubiger gemeinschaftlich durch eine Verminderung des zur
@@ -2359,6 +2476,7 @@ gemacht werden.
 
 
 #### § 93 Persönliche Haftung der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009801125)
 
 Ist das Insolvenzverfahren über das Vermögen einer rechtsfähigen
 Personengesellschaft oder einer Kommanditgesellschaft auf Aktien
@@ -2368,6 +2486,7 @@ Insolvenzverfahrens nur vom Insolvenzverwalter geltend gemacht werden.
 
 
 #### § 94 Erhaltung einer Aufrechnungslage
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE009900000)
 
 Ist ein Insolvenzgläubiger zur Zeit der Eröffnung des
 Insolvenzverfahrens kraft Gesetzes oder auf Grund einer Vereinbarung
@@ -2376,6 +2495,7 @@ nicht berührt.
 
 
 #### § 95 Eintritt der Aufrechnungslage im Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010000000)
 
 (1) Sind zur Zeit der Eröffnung des Insolvenzverfahrens die
 aufzurechnenden Forderungen oder eine von ihnen noch aufschiebend
@@ -2395,6 +2515,7 @@ zur Zeit des Zugangs der Aufrechnungserklärung maßgeblich ist.
 
 
 #### § 96 Unzulässigkeit der Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010104160)
 
 (1) Die Aufrechnung ist unzulässig,
 
@@ -2431,6 +2552,7 @@ Kreditwesengesetzes.
 
 
 #### § 97 Auskunfts- und Mitwirkungspflichten des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010200000)
 
 (1) Der Schuldner ist verpflichtet, dem Insolvenzgericht, dem
 Insolvenzverwalter, dem Gläubigerausschuß und auf Anordnung des
@@ -2454,6 +2576,7 @@ unterlassen, die der Erfüllung dieser Pflichten zuwiderlaufen.
 
 
 #### § 98 Durchsetzung der Pflichten des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010304125)
 
 (1) Wenn es zur Herbeiführung wahrheitsgemäßer Aussagen erforderlich
 erscheint, ordnet das Insolvenzgericht an, daß der Schuldner zu
@@ -2526,6 +2649,7 @@ statt.
 
 
 #### § 99 Postsperre
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010401301)
 
 (1) Soweit dies erforderlich erscheint, um für die Gläubiger
 nachteilige Rechtshandlungen des Schuldners aufzuklären oder zu
@@ -2550,6 +2674,7 @@ des Verwalters aufzuheben, soweit ihre Voraussetzungen fortfallen.
 
 
 #### § 100 Unterhalt aus der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010502301)
 
 (1) Die Gläubigerversammlung beschließt, ob und in welchem Umfang dem
 Schuldner und seiner Familie Unterhalt aus der Insolvenzmasse gewährt
@@ -2566,6 +2691,7 @@ Elternteil seines Kindes hinsichtlich des Anspruchs nach den §§ 1615l,
 
 
 #### § 101 Organschaftliche Vertreter. Angestellte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010601160)
 
 (1) Ist der Schuldner keine natürliche Person, so gelten die §§ 97 bis
 99 entsprechend für die Mitglieder des Vertretungs- oder
@@ -2590,6 +2716,7 @@ des Verfahrens auferlegt werden.
 
 
 #### § 102 Einschränkung eines Grundrechts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010701307)
 
 Durch § 21 Abs. 2 Nr. 4 und die §§ 99, 101 Abs. 1 Satz 1 wird das
 Grundrecht des Briefgeheimnisses sowie des Post- und
@@ -2597,10 +2724,12 @@ Fernmeldegeheimnisses (Artikel 10 Grundgesetz) eingeschränkt.
 
 
 ### Zweiter Abschnitt - Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG010800000)
 
 
 
 #### § 103 Wahlrecht des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE010900000)
 
 (1) Ist ein gegenseitiger Vertrag zur Zeit der Eröffnung des
 Insolvenzverfahrens vom Schuldner und vom anderen Teil nicht oder
@@ -2617,6 +2746,7 @@ Erfüllung nicht bestehen.
 
 
 #### § 104 Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011003311)
 
 (1) War die Lieferung von Waren, die einen Markt- oder Börsenpreis
 haben, genau zu einer festbestimmten Zeit oder innerhalb einer
@@ -2747,6 +2877,7 @@ Insolvenzgläubiger geltend machen.
 
 
 #### § 105 Teilbare Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011100000)
 
 Sind die geschuldeten Leistungen teilbar und hat der andere Teil die
 ihm obliegende Leistung zur Zeit der Eröffnung des Insolvenzverfahrens
@@ -2761,6 +2892,7 @@ Insolvenzmasse zu verlangen.
 
 
 #### § 106 Vormerkung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011200000)
 
 (1) Ist zur Sicherung eines Anspruchs auf Einräumung oder Aufhebung
 eines Rechts an einem Grundstück des Schuldners oder an einem für den
@@ -2778,6 +2910,7 @@ Absatz 1 entsprechend.
 
 
 #### § 107 Eigentumsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011300000)
 
 (1) Hat vor der Eröffnung des Insolvenzverfahrens der Schuldner eine
 bewegliche Sache unter Eigentumsvorbehalt verkauft und dem Käufer den
@@ -2798,6 +2931,7 @@ hingewiesen hat.
 
 
 #### § 108 Fortbestehen bestimmter Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011402301)
 
 (1) Miet- und Pachtverhältnisse des Schuldners über unbewegliche
 Gegenstände oder Räume sowie Dienstverhältnisse des Schuldners
@@ -2817,6 +2951,7 @@ kann der andere Teil nur als Insolvenzgläubiger geltend machen.
 
 
 #### § 109 Schuldner als Mieter oder Pächter
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011502301)
 
 (1) Ein Miet- oder Pachtverhältnis über einen unbeweglichen Gegenstand
 oder über Räume, das der Schuldner als Mieter oder Pächter eingegangen
@@ -2845,6 +2980,7 @@ Rücktrittsrecht.
 
 
 #### § 110 Schuldner als Vermieter oder Verpächter
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011601301)
 
 (1) Hatte der Schuldner als Vermieter oder Verpächter eines
 unbeweglichen Gegenstands oder von Räumen vor der Eröffnung des
@@ -2867,6 +3003,7 @@ und 96 Nr. 2 bis 4 bleiben unberührt.
 
 
 #### § 111 Veräußerung des Miet- oder Pachtobjekts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011701301)
 
 Veräußert der Insolvenzverwalter einen unbeweglichen Gegenstand oder
 Räume, die der Schuldner vermietet oder verpachtet hatte, und tritt
@@ -2877,6 +3014,7 @@ den ersten Termin erfolgen, für den sie zulässig ist.
 
 
 #### § 112 Kündigungssperre
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011801301)
 
 Ein Miet- oder Pachtverhältnis, das der Schuldner als Mieter oder
 Pächter eingegangen war, kann der andere Teil nach dem Antrag auf
@@ -2893,6 +3031,7 @@ Eröffnung des Insolvenzverfahrens nicht kündigen:
 
 
 #### § 113 Kündigung eines Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE011901301)
 
 Ein Dienstverhältnis, bei dem der Schuldner der Dienstberechtigte ist,
 kann vom Insolvenzverwalter und vom anderen Teil ohne Rücksicht auf
@@ -2905,11 +3044,13 @@ als Insolvenzgläubiger Schadenersatz verlangen.
 
 
 #### § 114 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012002311)
 
 -
 
 
 #### § 115 Erlöschen von Aufträgen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012100000)
 
 (1) Ein vom Schuldner erteilter Auftrag, der sich auf das zur
 Insolvenzmasse gehörende Vermögen bezieht, erlischt durch die
@@ -2928,6 +3069,7 @@ Beauftragte Insolvenzgläubiger.
 
 
 #### § 116 Erlöschen von Geschäftsbesorgungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012202160)
 
 Hat sich jemand durch einen Dienst- oder Werkvertrag mit dem Schuldner
 verpflichtet, ein Geschäft für diesen zu besorgen, so gilt § 115
@@ -2940,6 +3082,7 @@ Wertpapieren; diese bestehen mit Wirkung für die Masse fort.
 
 
 #### § 117 Erlöschen von Vollmachten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012300000)
 
 (1) Eine vom Schuldner erteilte Vollmacht, die sich auf das zur
 Insolvenzmasse gehörende Vermögen bezieht, erlischt durch die
@@ -2954,6 +3097,7 @@ Gesetzbuchs.
 
 
 #### § 118 Auflösung von Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012401125)
 
 Wird eine rechtsfähige Personengesellschaft oder eine
 Kommanditgesellschaft auf Aktien durch die Eröffnung des
@@ -2967,12 +3111,14 @@ Insolvenzgläubiger; § 84 Abs. 1 bleibt unberührt.
 
 
 #### § 119 Unwirksamkeit abweichender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012500000)
 
 Vereinbarungen, durch die im voraus die Anwendung der §§ 103 bis 118
 ausgeschlossen oder beschränkt wird, sind unwirksam.
 
 
 #### § 120 Kündigung von Betriebsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012600000)
 
 (1) Sind in Betriebsvereinbarungen Leistungen vorgesehen, welche die
 Insolvenzmasse belasten, so sollen Insolvenzverwalter und Betriebsrat
@@ -2985,6 +3131,7 @@ wichtigem Grund ohne Einhaltung einer Kündigungsfrist zu kündigen.
 
 
 #### § 121 Betriebsänderungen und Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012701301)
 
 Im Insolvenzverfahren über das Vermögen des Unternehmers gilt § 112
 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes mit der Maßgabe, daß dem
@@ -2994,6 +3141,7 @@ um eine solche Vermittlung ersuchen.
 
 
 #### § 122 Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012800000)
 
 (1) Ist eine Betriebsänderung geplant und kommt zwischen
 Insolvenzverwalter und Betriebsrat der Interessenausgleich nach § 112
@@ -3030,6 +3178,7 @@ einzulegen und zu begründen.
 
 
 #### § 123 Umfang des Sozialplans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE012900000)
 
 (1) In einem Sozialplan, der nach der Eröffnung des
 Insolvenzverfahrens aufgestellt wird, kann für den Ausgleich oder die
@@ -3055,6 +3204,7 @@ unzulässig.
 
 
 #### § 124 Sozialplan vor Verfahrenseröffnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013000000)
 
 (1) Ein Sozialplan, der vor der Eröffnung des Insolvenzverfahrens,
 jedoch nicht früher als drei Monate vor dem Eröffnungsantrag
@@ -3075,6 +3225,7 @@ von zweieinhalb Monatsverdiensten abzusetzen.
 
 
 #### § 125 Interessenausgleich und Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013100000)
 
 (1) Ist eine Betriebsänderung (§ 111 des Betriebsverfassungsgesetzes)
 geplant und kommt zwischen Insolvenzverwalter und Betriebsrat ein
@@ -3105,6 +3256,7 @@ des Betriebsrats nach § 17 Abs. 3 Satz 2 des Kündigungsschutzgesetzes.
 
 
 #### § 126 Beschlußverfahren zum Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013200000)
 
 (1) Hat der Betrieb keinen Betriebsrat oder kommt aus anderen Gründen
 innerhalb von drei Wochen nach Verhandlungsbeginn oder schriftlicher
@@ -3134,6 +3286,7 @@ Bundesarbeitsgericht gelten die Vorschriften der Zivilprozeßordnung
 
 
 #### § 127 Klage des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013300000)
 
 (1) Kündigt der Insolvenzverwalter einem Arbeitnehmer, der in dem
 Antrag nach § 126 Abs. 1 bezeichnet ist, und erhebt der Arbeitnehmer
@@ -3150,6 +3303,7 @@ Klage auf Antrag des Verwalters bis zu diesem Zeitpunkt auszusetzen.
 
 
 #### § 128 Betriebsveräußerung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013400000)
 
 (1) Die Anwendung der §§ 125 bis 127 wird nicht dadurch
 ausgeschlossen, daß die Betriebsänderung, die dem Interessenausgleich
@@ -3164,10 +3318,12 @@ Arbeitsverhältnisse nicht wegen des Betriebsübergangs erfolgt.
 
 
 ### Dritter Abschnitt - Insolvenzanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG013500000)
 
 
 
 #### § 129 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013600000)
 
 (1) Rechtshandlungen, die vor der Eröffnung des Insolvenzverfahrens
 vorgenommen worden sind und die Insolvenzgläubiger benachteiligen,
@@ -3177,6 +3333,7 @@ kann der Insolvenzverwalter nach Maßgabe der §§ 130 bis 146 anfechten.
 
 
 #### § 130 Kongruente Deckung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013701301)
 
 (1) Anfechtbar ist eine Rechtshandlung, die einem Insolvenzgläubiger
 eine Sicherung oder Befriedigung gewährt oder ermöglicht hat,
@@ -3211,6 +3368,7 @@ den Eröffnungsantrag kannte.
 
 
 #### § 131 Inkongruente Deckung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013800000)
 
 (1) Anfechtbar ist eine Rechtshandlung, die einem Insolvenzgläubiger
 eine Sicherung oder Befriedigung gewährt oder ermöglicht hat, die er
@@ -3242,6 +3400,7 @@ Insolvenzgläubiger kannte.
 
 
 #### § 132 Unmittelbar nachteilige Rechtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE013900000)
 
 (1) Anfechtbar ist ein Rechtsgeschäft des Schuldners, das die
 Insolvenzgläubiger unmittelbar benachteiligt,
@@ -3269,6 +3428,7 @@ erhalten oder durchsetzbar wird.
 
 
 #### § 133 Vorsätzliche Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014001311)
 
 (1) Anfechtbar ist eine Rechtshandlung, die der Schuldner in den
 letzten zehn Jahren vor dem Antrag auf Eröffnung des
@@ -3302,6 +3462,7 @@ zu benachteiligen, nicht bekannt war.
 
 
 #### § 134 Unentgeltliche Leistung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014100000)
 
 (1) Anfechtbar ist eine unentgeltliche Leistung des Schuldners, es sei
 denn, sie ist früher als vier Jahre vor dem Antrag auf Eröffnung des
@@ -3312,6 +3473,7 @@ Gelegenheitsgeschenk geringen Werts, so ist sie nicht anfechtbar.
 
 
 #### § 135 Gesellschafterdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014201160)
 
 (1) Anfechtbar ist eine Rechtshandlung, die für die Forderung eines
 Gesellschafters auf Rückgewähr eines Darlehens im Sinne des § 39 Abs.
@@ -3352,6 +3514,7 @@ der Durchschnitt während dieses Zeitraums maßgebend.
 
 
 #### § 136 Stille Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014300000)
 
 (1) Anfechtbar ist eine Rechtshandlung, durch die einem stillen
 Gesellschafter die Einlage ganz oder teilweise zurückgewährt oder sein
@@ -3367,6 +3530,7 @@ nach der Vereinbarung eingetreten ist.
 
 
 #### § 137 Wechsel- und Scheckzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014400000)
 
 (1) Wechselzahlungen des Schuldners können nicht auf Grund des § 130
 vom Empfänger zurückgefordert werden, wenn nach Wechselrecht der
@@ -3386,6 +3550,7 @@ Schuldners.
 
 
 #### § 138 Nahestehende Personen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014504125)
 
 (1) Ist der Schuldner eine natürliche Person, so sind nahestehende
 Personen:
@@ -3452,6 +3617,7 @@ Personengesellschaft, so sind nahestehende Personen:
 
 
 #### § 139 Berechnung der Fristen vor dem Eröffnungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014600000)
 
 (1) Die in den §§ 88, 130 bis 136 bestimmten Fristen beginnen mit dem
 Anfang des Tages, der durch seine Zahl dem Tag entspricht, an dem der
@@ -3467,6 +3633,7 @@ mangels Masse abgewiesen worden ist.
 
 
 #### § 140 Zeitpunkt der Vornahme einer Rechtshandlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014700000)
 
 (1) Eine Rechtshandlung gilt als in dem Zeitpunkt vorgenommen, in dem
 ihre rechtlichen Wirkungen eintreten.
@@ -3488,6 +3655,7 @@ Eintritt der Bedingung oder des Termins außer Betracht.
 
 
 #### § 141 Vollstreckbarer Titel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014800000)
 
 Die Anfechtung wird nicht dadurch ausgeschlossen, daß für die
 Rechtshandlung ein vollstreckbarer Schuldtitel erlangt oder daß die
@@ -3495,6 +3663,7 @@ Handlung durch Zwangsvollstreckung erwirkt worden ist.
 
 
 #### § 142 Bargeschäft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE014901311)
 
 (1) Eine Leistung des Schuldners, für die unmittelbar eine
 gleichwertige Gegenleistung in sein Vermögen gelangt, ist nur
@@ -3516,6 +3685,7 @@ dass ein Dritter die Leistung bewirkt hat.
 
 
 #### § 143 Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015002311)
 
 (1) Was durch die anfechtbare Handlung aus dem Vermögen des Schuldners
 veräußert, weggegeben oder aufgegeben ist, muß zur Insolvenzmasse
@@ -3545,6 +3715,7 @@ Insolvenzmasse zur Verfügung stellt.
 
 
 #### § 144 Ansprüche des Anfechtungsgegners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015100000)
 
 (1) Gewährt der Empfänger einer anfechtbaren Leistung das Erlangte
 zurück, so lebt seine Forderung wieder auf.
@@ -3557,6 +3728,7 @@ nur als Insolvenzgläubiger geltend machen.
 
 
 #### § 145 Anfechtung gegen Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015200000)
 
 (1) Die Anfechtbarkeit kann gegen den Erben oder einen anderen
 Gesamtrechtsnachfolger des Anfechtungsgegners geltend gemacht werden.
@@ -3583,6 +3755,7 @@ geltend gemacht werden:
 
 
 #### § 146 Verjährung des Anfechtungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015301301)
 
 (1) Die Verjährung des Anfechtungsanspruchs richtet sich nach den
 Regelungen über die regelmäßige Verjährung nach dem Bürgerlichen
@@ -3594,6 +3767,7 @@ die auf einer anfechtbaren Handlung beruht.
 
 
 #### § 147 Rechtshandlungen nach Verfahrenseröffnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015404160)
 
 Eine Rechtshandlung, die nach der Eröffnung des Insolvenzverfahrens
 vorgenommen worden ist und die nach § 81 Abs. 3 Satz 2, §§ 892, 893
@@ -3612,14 +3786,17 @@ Wertpapieren unwirksam werden.
 
 
 ## Vierter Teil - Verwaltung und Verwertung der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036000000)
 
 
 
 ### Erster Abschnitt - Sicherung der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG015500000)
 
 
 
 #### § 148 Übernahme der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015600000)
 
 (1) Nach der Eröffnung des Insolvenzverfahrens hat der
 Insolvenzverwalter das gesamte zur Insolvenzmasse gehörende Vermögen
@@ -3633,6 +3810,7 @@ die Stelle des Vollstreckungsgerichts das Insolvenzgericht tritt.
 
 
 #### § 149 Wertgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015701301)
 
 (1) Der Gläubigerausschuß kann bestimmen, bei welcher Stelle und zu
 welchen Bedingungen Geld, Wertpapiere und Kostbarkeiten hinterlegt
@@ -3644,6 +3822,7 @@ Insolvenzgericht entsprechendes anordnen.
 
 
 #### § 150 Siegelung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015800000)
 
 Der Insolvenzverwalter kann zur Sicherung der Sachen, die zur
 Insolvenzmasse gehören, durch den Gerichtsvollzieher oder eine andere
@@ -3653,6 +3832,7 @@ der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen.
 
 
 #### § 151 Verzeichnis der Massegegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE015900000)
 
 (1) Der Insolvenzverwalter hat ein Verzeichnis der einzelnen
 Gegenstände der Insolvenzmasse aufzustellen. Der Schuldner ist
@@ -3671,6 +3851,7 @@ den Antrag nur mit Zustimmung des Gläubigerausschusses stellen.
 
 
 #### § 152 Gläubigerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016000000)
 
 (1) Der Insolvenzverwalter hat ein Verzeichnis aller Gläubiger des
 Schuldners aufzustellen, die ihm aus den Büchern und Geschäftspapieren
@@ -3692,6 +3873,7 @@ Verwertung des Vermögens des Schuldners ist zu schätzen.
 
 
 #### § 153 Vermögensübersicht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016100000)
 
 (1) Der Insolvenzverwalter hat auf den Zeitpunkt der Eröffnung des
 Insolvenzverfahrens eine geordnete Übersicht aufzustellen, in der die
@@ -3708,6 +3890,7 @@ entsprechend.
 
 
 #### § 154 Niederlegung in der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016200000)
 
 Das Verzeichnis der Massegegenstände, das Gläubigerverzeichnis und die
 Vermögensübersicht sind spätestens eine Woche vor dem Berichtstermin
@@ -3715,6 +3898,7 @@ in der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen.
 
 
 #### § 155 Handels- und steuerrechtliche Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016300000)
 
 (1) Handels- und steuerrechtliche Pflichten des Schuldners zur
 Buchführung und zur Rechnungslegung bleiben unberührt. In bezug auf
@@ -3735,10 +3919,12 @@ Bestellung durch die Eröffnung nicht berührt.
 
 
 ### Zweiter Abschnitt - Entscheidung über die Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG016400000)
 
 
 
 #### § 156 Berichtstermin
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016500000)
 
 (1) Im Berichtstermin hat der Insolvenzverwalter über die
 wirtschaftliche Lage des Schuldners und ihre Ursachen zu berichten. Er
@@ -3757,6 +3943,7 @@ Termin Gelegenheit zur Äußerung gegeben werden.
 
 
 #### § 157 Entscheidung über den Fortgang des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016600000)
 
 Die Gläubigerversammlung beschließt im Berichtstermin, ob das
 Unternehmen des Schuldners stillgelegt oder vorläufig fortgeführt
@@ -3766,6 +3953,7 @@ Entscheidungen in späteren Terminen ändern.
 
 
 #### § 158 Maßnahmen vor der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016701301)
 
 (1) Will der Insolvenzverwalter vor dem Berichtstermin das Unternehmen
 des Schuldners stillegen oder veräußern, so hat er die Zustimmung des
@@ -3781,6 +3969,7 @@ aufgeschoben werden kann.
 
 
 #### § 159 Verwertung der Insolvenzmasse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016800000)
 
 Nach dem Berichtstermin hat der Insolvenzverwalter unverzüglich das
 zur Insolvenzmasse gehörende Vermögen zu verwerten, soweit die
@@ -3788,6 +3977,7 @@ Beschlüsse der Gläubigerversammlung nicht entgegenstehen.
 
 
 #### § 160 Besonders bedeutsame Rechtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE016901301)
 
 (1) Der Insolvenzverwalter hat die Zustimmung des Gläubigerausschusses
 einzuholen, wenn er Rechtshandlungen vornehmen will, die für das
@@ -3821,6 +4011,7 @@ Gläubigerversammlung hinzuweisen.
 
 
 #### § 161 Vorläufige Untersagung der Rechtshandlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017000000)
 
 In den Fällen des § 160 hat der Insolvenzverwalter vor der
 Beschlußfassung des Gläubigerausschusses oder der Gläubigerversammlung
@@ -3834,6 +4025,7 @@ Vornahme beschließt.
 
 
 #### § 162 Betriebsveräußerung an besonders Interessierte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017100000)
 
 (1) Die Veräußerung des Unternehmens oder eines Betriebs ist nur mit
 Zustimmung der Gläubigerversammlung zulässig, wenn der Erwerber oder
@@ -3859,6 +4051,7 @@ Erwerber beteiligt ist.
 
 
 #### § 163 Betriebsveräußerung unter Wert
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017200000)
 
 (1) Auf Antrag des Schuldners oder einer in § 75 Abs. 1 Nr. 3
 bezeichneten Mehrzahl von Gläubigern und  nach Anhörung des
@@ -3874,16 +4067,19 @@ verlangen, sobald die Anordnung des Gerichts ergangen ist.
 
 
 #### § 164 Wirksamkeit der Handlung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017300000)
 
 Durch einen Verstoß gegen die §§ 160 bis 163 wird die Wirksamkeit der
 Handlung des Insolvenzverwalters nicht berührt.
 
 
 ### Dritter Abschnitt - Gegenstände mit Absonderungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG017400000)
 
 
 
 #### § 165 Verwertung unbeweglicher Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017500000)
 
 Der Insolvenzverwalter kann beim zuständigen Gericht die
 Zwangsversteigerung oder die Zwangsverwaltung eines unbeweglichen
@@ -3892,6 +4088,7 @@ ein Absonderungsrecht besteht.
 
 
 #### § 166 Verwertung beweglicher Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017603160)
 
 (1) Der Insolvenzverwalter darf eine bewegliche Sache, an der ein
 Absonderungsrecht besteht, freihändig verwerten, wenn er die Sache in
@@ -3923,6 +4120,7 @@ verwerten.
 
 
 #### § 167 Unterrichtung des Gläubigers
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017700000)
 
 (1) Ist der Insolvenzverwalter nach § 166 Abs. 1 zur Verwertung einer
 beweglichen Sache berechtigt, so hat er dem absonderungsberechtigten
@@ -3938,6 +4136,7 @@ Geschäftspapiere des Schuldners zu nehmen.
 
 
 #### § 168 Mitteilung der Veräußerungsabsicht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017800000)
 
 (1) Bevor der Insolvenzverwalter einen Gegenstand, zu dessen
 Verwertung er nach § 166 berechtigt ist, an einen Dritten veräußert,
@@ -3958,6 +4157,7 @@ Verwertungsmöglichkeit auch dann, wenn Kosten eingespart werden.
 
 
 #### § 169 Schutz des Gläubigers vor einer Verzögerung der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE017900000)
 
 Solange ein Gegenstand, zu dessen Verwertung der Insolvenzverwalter
 nach § 166 berechtigt ist, nicht verwertet wird, sind dem Gläubiger
@@ -3973,6 +4173,7 @@ Verwertungserlös zu rechnen ist.
 
 
 #### § 170 Verteilung des Erlöses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018000000)
 
 (1) Nach der Verwertung einer beweglichen Sache oder einer Forderung
 durch den Insolvenzverwalter sind aus dem Verwertungserlös die Kosten
@@ -3988,6 +4189,7 @@ in Höhe der Kosten der Feststellung sowie des Umsatzsteuerbetrages (§
 
 
 #### § 171 Berechnung des Kostenbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018100000)
 
 (1) Die Kosten der Feststellung umfassen die Kosten der tatsächlichen
 Feststellung des Gegenstands und der Feststellung der Rechte an
@@ -4004,6 +4206,7 @@ tatsächlich entstandenen Kosten nach Satz 2 anzusetzen.
 
 
 #### § 172 Sonstige Verwendung beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018200000)
 
 (1) Der Insolvenzverwalter darf eine bewegliche Sache, zu deren
 Verwertung er berechtigt ist, für die Insolvenzmasse benutzen, wenn er
@@ -4022,6 +4225,7 @@ Sicherheit übersteigt.
 
 
 #### § 173 Verwertung durch den Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018300000)
 
 (1) Soweit der Insolvenzverwalter nicht zur Verwertung einer
 beweglichen Sache oder einer Forderung berechtigt ist, an denen ein
@@ -4035,14 +4239,17 @@ der Verwalter zur Verwertung berechtigt.
 
 
 ## Fünfter Teil - Befriedigung der Insolvenzgläubiger. Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036100000)
 
 
 
 ### Erster Abschnitt - Feststellung der Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG018400000)
 
 
 
 #### § 174 Anmeldung der Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018506125)
 
 (1) Die Insolvenzgläubiger haben ihre Forderungen schriftlich beim
 Insolvenzverwalter anzumelden. Der Anmeldung sollen die Urkunden, aus
@@ -4076,6 +4283,7 @@ Ausdrucke, Abschriften oder Originale von Urkunden einzureichen.
 
 
 #### § 175 Tabelle
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018602311)
 
 (1) Der Insolvenzverwalter hat jede angemeldete Forderung mit den in §
 174 Abs. 2 und 3 genannten Angaben in eine Tabelle einzutragen. Die
@@ -4093,6 +4301,7 @@ die Möglichkeit des Widerspruchs hinzuweisen.
 
 
 #### § 176 Verlauf des Prüfungstermins
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018700000)
 
 Im Prüfungstermin werden die angemeldeten Forderungen ihrem Betrag und
 ihrem Rang nach geprüft. Die Forderungen, die vom Insolvenzverwalter,
@@ -4101,6 +4310,7 @@ sind einzeln zu erörtern.
 
 
 #### § 177 Nachträgliche Anmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018801307)
 
 (1) Im Prüfungstermin sind auch die Forderungen zu prüfen, die nach
 dem Ablauf der Anmeldefrist angemeldet worden sind. Widerspricht
@@ -4125,6 +4335,7 @@ Satz 2 gilt entsprechend.
 
 
 #### § 178 Voraussetzungen und Wirkungen der Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE018900000)
 
 (1) Eine Forderung gilt als festgestellt, soweit gegen sie im
 Prüfungstermin oder im schriftlichen Verfahren (§ 177) ein Widerspruch
@@ -4146,6 +4357,7 @@ Urteil gegenüber dem Insolvenzverwalter und allen Insolvenzgläubigern.
 
 
 #### § 179 Streitige Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019000000)
 
 (1) Ist eine Forderung vom Insolvenzverwalter oder von einem
 Insolvenzgläubiger bestritten worden, so bleibt es dem Gläubiger
@@ -4164,6 +4376,7 @@ Prüfungstermin hingewiesen werden.
 
 
 #### § 180 Zuständigkeit für die Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019100000)
 
 (1) Auf die Feststellung ist im ordentlichen Verfahren Klage zu
 erheben. Für die Klage ist das Amtsgericht ausschließlich zuständig,
@@ -4178,6 +4391,7 @@ durch Aufnahme des Rechtsstreits zu betreiben.
 
 
 #### § 181 Umfang der Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019200000)
 
 Die Feststellung kann nach Grund, Betrag und Rang der Forderung nur in
 der Weise begehrt werden, wie die Forderung in der Anmeldung oder im
@@ -4185,6 +4399,7 @@ Prüfungstermin bezeichnet worden ist.
 
 
 #### § 182 Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019300000)
 
 Der Wert des Streitgegenstands einer Klage auf Feststellung einer
 Forderung, deren Bestand vom Insolvenzverwalter oder von einem
@@ -4194,6 +4409,7 @@ erwarten ist.
 
 
 #### § 183 Wirkung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019400000)
 
 (1) Eine rechtskräftige Entscheidung, durch die eine Forderung
 festgestellt oder ein Widerspruch für begründet erklärt wird, wirkt
@@ -4209,6 +4425,7 @@ die Entscheidung ein Vorteil erwachsen ist.
 
 
 #### § 184 Klage gegen einen Widerspruch des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019501301)
 
 (1) Hat der Schuldner im Prüfungstermin oder im schriftlichen
 Verfahren (§ 177) eine Forderung bestritten, so kann der Gläubiger
@@ -4230,6 +4447,7 @@ Anspruchs nachzuweisen.
 
 
 #### § 185 Besondere Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019600000)
 
 Ist für die Feststellung einer Forderung der Rechtsweg zum
 ordentlichen Gericht nicht gegeben, so ist die Feststellung bei dem
@@ -4240,6 +4458,7 @@ Gericht zu betreiben, so gilt auch § 182 entsprechend.
 
 
 #### § 186 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019700000)
 
 (1) Hat der Schuldner den Prüfungstermin versäumt, so hat ihm das
 Insolvenzgericht auf Antrag die Wiedereinsetzung in den vorigen Stand
@@ -4254,10 +4473,12 @@ gleich.
 
 
 ### Zweiter Abschnitt - Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG019800000)
 
 
 
 #### § 187 Befriedigung der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE019900000)
 
 (1) Mit der Befriedigung der Insolvenzgläubiger kann erst nach dem
 allgemeinen Prüfungstermin begonnen werden.
@@ -4273,6 +4494,7 @@ einzuholen, wenn ein solcher bestellt ist.
 
 
 #### § 188 Verteilungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020001301)
 
 Vor einer Verteilung hat der Insolvenzverwalter ein Verzeichnis der
 Forderungen aufzustellen, die bei der Verteilung zu berücksichtigen
@@ -4285,6 +4507,7 @@ bekannt zu machen.
 
 
 #### § 189 Berücksichtigung bestrittener Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020100000)
 
 (1) Ein Insolvenzgläubiger, dessen Forderung nicht festgestellt ist
 und für dessen Forderung ein vollstreckbarer Titel oder ein Endurteil
@@ -4303,6 +4526,7 @@ bei der Verteilung nicht berücksichtigt.
 
 
 #### § 190 Berücksichtigung absonderungsberechtigter Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020200000)
 
 (1) Ein Gläubiger, der zur abgesonderten Befriedigung berechtigt ist,
 hat spätestens innerhalb der in § 189 Abs. 1 vorgesehenen
@@ -4329,6 +4553,7 @@ zurückzubehalten.
 
 
 #### § 191 Berücksichtigung aufschiebend bedingter Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020300000)
 
 (1) Eine aufschiebend bedingte Forderung wird bei einer
 Abschlagsverteilung mit ihrem vollen Betrag berücksichtigt. Der auf
@@ -4343,6 +4568,7 @@ zurückbehaltener Anteil für die Schlußverteilung frei.
 
 
 #### § 192 Nachträgliche Berücksichtigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020400000)
 
 Gläubiger, die bei einer Abschlagsverteilung nicht berücksichtigt
 worden sind und die Voraussetzungen der §§ 189, 190 nachträglich
@@ -4352,6 +4578,7 @@ gleichstellt.
 
 
 #### § 193 Änderung des Verteilungsverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020500000)
 
 Der Insolvenzverwalter hat die Änderungen des Verzeichnisses, die auf
 Grund der §§ 189 bis 192 erforderlich werden, binnen drei Tagen nach
@@ -4359,6 +4586,7 @@ Ablauf der in § 189 Abs. 1 vorgesehenen Ausschlußfrist vorzunehmen.
 
 
 #### § 194 Einwendungen gegen das Verteilungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020600000)
 
 (1) Bei einer Abschlagsverteilung sind Einwendungen eines Gläubigers
 gegen das Verzeichnis bis zum Ablauf einer Woche nach dem Ende der in
@@ -4379,6 +4607,7 @@ mit dem Tag, an dem die Entscheidung niedergelegt worden ist.
 
 
 #### § 195 Festsetzung des Bruchteils
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020700000)
 
 (1) Für eine Abschlagsverteilung bestimmt der Gläubigerausschuß auf
 Vorschlag des Insolvenzverwalters den zu zahlenden Bruchteil. Ist kein
@@ -4389,6 +4618,7 @@ mitzuteilen.
 
 
 #### § 196 Schlußverteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020801301)
 
 (1) Die Schlußverteilung erfolgt, sobald die Verwertung der
 Insolvenzmasse mit Ausnahme eines laufenden Einkommens beendet ist.
@@ -4398,6 +4628,7 @@ vorgenommen werden.
 
 
 #### § 197 Schlußtermin
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE020901307)
 
 (1) Bei der Zustimmung zur Schlußverteilung bestimmt das
 Insolvenzgericht den Termin für eine abschließende
@@ -4424,6 +4655,7 @@ Gläubigers gilt § 194 Abs. 2 und 3 entsprechend.
 
 
 #### § 198 Hinterlegung zurückbehaltener Beträge
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021001307)
 
 Beträge, die bei der Schlußverteilung zurückzubehalten sind, hat der
 Insolvenzverwalter für Rechnung der Beteiligten bei einer geeigneten
@@ -4431,6 +4663,7 @@ Stelle zu hinterlegen.
 
 
 #### § 199 Überschuß bei der Schlußverteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021100000)
 
 Können bei der Schlußverteilung die Forderungen aller
 Insolvenzgläubiger in voller Höhe berichtigt werden, so hat der
@@ -4442,6 +4675,7 @@ Insolvenzverfahrens zustünde.
 
 
 #### § 200 Aufhebung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021201301)
 
 (1) Sobald die Schlußverteilung vollzogen ist, beschließt das
 Insolvenzgericht die Aufhebung des Insolvenzverfahrens.
@@ -4451,6 +4685,7 @@ bekanntzumachen. Die §§ 31 bis 33 gelten entsprechend.
 
 
 #### § 201 Rechte der Insolvenzgläubiger nach Verfahrensaufhebung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021301307)
 
 (1) Die Insolvenzgläubiger können nach der Aufhebung des
 Insolvenzverfahrens ihre restlichen Forderungen gegen den Schuldner
@@ -4469,6 +4704,7 @@ des Insolvenzverfahrens gestellt werden.
 
 
 #### § 202 Zuständigkeit bei der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021400000)
 
 (1) Im Falle des § 201 ist das Amtsgericht, bei dem das
 Insolvenzverfahren anhängig ist oder anhängig war, ausschließlich
@@ -4493,6 +4729,7 @@ dessen Bezirk das Insolvenzgericht gehört.
 
 
 #### § 203 Anordnung der Nachtragsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021500000)
 
 (1) Auf Antrag des Insolvenzverwalters oder eines Insolvenzgläubigers
 oder von Amts wegen ordnet das Insolvenzgericht eine
@@ -4522,6 +4759,7 @@ der Nachtragsverteilung deckt.
 
 
 #### § 204 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021600000)
 
 (1) Der Beschluß, durch den der Antrag auf Nachtragsverteilung
 abgelehnt wird, ist dem Antragsteller zuzustellen. Gegen den Beschluß
@@ -4534,6 +4772,7 @@ Beschluß steht dem Schuldner die sofortige Beschwerde zu.
 
 
 #### § 205 Vollzug der Nachtragsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021700000)
 
 Nach der Anordnung der Nachtragsverteilung hat der Insolvenzverwalter
 den zur Verfügung stehenden Betrag oder den Erlös aus der Verwertung
@@ -4542,6 +4781,7 @@ verteilen. Er hat dem Insolvenzgericht Rechnung zu legen.
 
 
 #### § 206 Ausschluß von Massegläubigern
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE021800000)
 
 Massegläubiger, deren Ansprüche dem Insolvenzverwalter
 
@@ -4563,10 +4803,12 @@ verlangen, die nach der Verteilung in der Insolvenzmasse verbleiben.
 
 
 ### Dritter Abschnitt - Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG021900000)
 
 
 
 #### § 207 Einstellung mangels Masse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022001301)
 
 (1) Stellt sich nach der Eröffnung des Insolvenzverfahrens heraus, daß
 die Insolvenzmasse nicht ausreicht, um die Kosten des Verfahrens zu
@@ -4585,6 +4827,7 @@ Verwertung von Massegegenständen ist er nicht mehr verpflichtet.
 
 
 #### § 208 Anzeige der Masseunzulänglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022100000)
 
 (1) Sind die Kosten des Insolvenzverfahrens gedeckt, reicht die
 Insolvenzmasse jedoch nicht aus, um die fälligen sonstigen
@@ -4602,6 +4845,7 @@ Masse besteht auch nach der Anzeige der Masseunzulänglichkeit fort.
 
 
 #### § 209 Befriedigung der Massegläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022200000)
 
 (1) Der Insolvenzverwalter hat die Masseverbindlichkeiten nach
 folgender Rangordnung zu berichtigen, bei gleichem Rang nach dem
@@ -4642,6 +4886,7 @@ auch die Verbindlichkeiten
 
 
 #### § 210 Vollstreckungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022300000)
 
 Sobald der Insolvenzverwalter die Masseunzulänglichkeit angezeigt hat,
 ist die Vollstreckung wegen einer Masseverbindlichkeit im Sinne des §
@@ -4649,6 +4894,7 @@ ist die Vollstreckung wegen einer Masseverbindlichkeit im Sinne des §
 
 
 #### § 210a Insolvenzplan bei Masseunzulänglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039601125)
 
 Bei Anzeige der Masseunzulänglichkeit gelten die Vorschriften über den
 Insolvenzplan mit der Maßgabe, dass
@@ -4665,6 +4911,7 @@ Insolvenzplan mit der Maßgabe, dass
 
 
 #### § 211 Einstellung nach Anzeige der Masseunzulänglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022400000)
 
 (1) Sobald der Insolvenzverwalter die Insolvenzmasse nach Maßgabe des
 § 209 verteilt hat, stellt das Insolvenzgericht das Insolvenzverfahren
@@ -4681,6 +4928,7 @@ entsprechend.
 
 
 #### § 212 Einstellung wegen Wegfalls des Eröffnungsgrunds
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022500000)
 
 Das Insolvenzverfahren ist auf Antrag des Schuldners einzustellen,
 wenn gewährleistet ist, daß nach der Einstellung beim Schuldner weder
@@ -4691,6 +4939,7 @@ der Eröffnungsgründe glaubhaft gemacht wird.
 
 
 #### § 213 Einstellung mit Zustimmung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022600000)
 
 (1) Das Insolvenzverfahren ist auf Antrag des Schuldners einzustellen,
 wenn er nach Ablauf der Anmeldefrist die Zustimmung aller
@@ -4708,6 +4957,7 @@ sind.
 
 
 #### § 214 Verfahren bei der Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022701308)
 
 (1) Der Antrag auf Einstellung des Insolvenzverfahrens nach § 212 oder
 § 213 ist öffentlich bekanntzumachen. Er ist in der Geschäftsstelle
@@ -4727,6 +4977,7 @@ leisten.
 
 
 #### § 215 Bekanntmachung und Wirkungen der Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022801301)
 
 (1) Der Beschluß, durch den das Insolvenzverfahren nach § 207, 211,
 212 oder 213 eingestellt wird, und der Grund der Einstellung sind
@@ -4741,6 +4992,7 @@ das Recht zurück, über die Insolvenzmasse frei zu verfügen. Die §§
 
 
 #### § 216 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE022900000)
 
 (1) Wird das Insolvenzverfahren nach § 207, 212 oder 213 eingestellt,
 so steht jedem Insolvenzgläubiger und, wenn die Einstellung nach § 207
@@ -4751,14 +5003,17 @@ Schuldner die sofortige Beschwerde zu.
 
 
 ## Sechster Teil - Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036200000)
 
 
 
 ### Erster Abschnitt - Aufstellung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG023000000)
 
 
 
 #### § 217 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023102125)
 
 (1) Die Befriedigung der absonderungsberechtigten Gläubiger und der
 Insolvenzgläubiger, die Verwertung der Insolvenzmasse und deren
@@ -4778,6 +5033,7 @@ Haftung oder an Gegenständen des Vermögens dieses Unternehmens
 
 
 #### § 218 Vorlage des Insolvenzplans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023200000)
 
 (1) Zur Vorlage eines Insolvenzplans an das Insolvenzgericht sind der
 Insolvenzverwalter und der Schuldner berechtigt. Die Vorlage durch den
@@ -4796,6 +5052,7 @@ mit.
 
 
 #### § 219 Gliederung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023300000)
 
 Der Insolvenzplan besteht aus dem darstellenden Teil und dem
 gestaltenden Teil. Ihm sind die in den §§ 229 und 230 genannten
@@ -4803,6 +5060,7 @@ Anlagen beizufügen.
 
 
 #### § 220 Darstellender Teil
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023402125)
 
 (1) Im darstellenden Teil des Insolvenzplans wird beschrieben, welche
 Maßnahmen nach der Eröffnung des Insolvenzverfahrens getroffen worden
@@ -4829,6 +5087,7 @@ des Plans auf dieses Unternehmen einzubeziehen.
 
 
 #### § 221 Gestaltender Teil
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023501308)
 
 Im gestaltenden Teil des Insolvenzplans wird festgelegt, wie die
 Rechtsstellung der Beteiligten durch den Plan geändert werden soll.
@@ -4838,6 +5097,7 @@ Fehler des Plans zu berichtigen.
 
 
 #### § 222 Bildung von Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023602125)
 
 (1) Bei der Festlegung der Rechte der Beteiligten im Insolvenzplan
 sind Gruppen zu bilden, soweit Beteiligte mit unterschiedlicher
@@ -4877,6 +5137,7 @@ Beteiligung am Haftkapital von weniger als 1 Prozent oder weniger als
 
 
 #### § 223 Rechte der Absonderungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023703160)
 
 (1) Ist im Insolvenzplan nichts anderes bestimmt, so wird das Recht
 der absonderungsberechtigten Gläubiger zur Befriedigung aus den
@@ -4904,6 +5165,7 @@ unterworfen werden sollen.
 
 
 #### § 223a Gruppeninterne Drittsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043500125)
 
 Ist im Insolvenzplan nichts anderes bestimmt, so wird das Recht eines
 Insolvenzgläubigers aus einer gruppeninternen Drittsicherheit (§ 217
@@ -4913,6 +5175,7 @@ Satz 2 und Absatz 2 gilt entsprechend.
 
 
 #### § 224 Rechte der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023800000)
 
 Für die nicht nachrangigen Gläubiger ist im gestaltenden Teil des
 Insolvenzplans anzugeben, um welchen Bruchteil die Forderungen
@@ -4921,6 +5184,7 @@ welchen sonstigen Regelungen sie unterworfen werden sollen.
 
 
 #### § 225 Rechte der nachrangigen Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE023900000)
 
 (1) Die Forderungen nachrangiger Insolvenzgläubiger gelten, wenn im
 Insolvenzplan nichts anderes bestimmt ist, als erlassen.
@@ -4936,6 +5200,7 @@ ausgeschlossen noch eingeschränkt werden.
 
 
 #### § 225a Rechte der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039701125)
 
 (1) Die Anteils- oder Mitgliedschaftsrechte der am Schuldner
 beteiligten Personen bleiben vom Insolvenzplan unberührt, es sei denn,
@@ -4976,6 +5241,7 @@ werden. Nicht ausgezahlte Abfindungsguthaben sind zu verzinsen.
 
 
 #### § 226 Gleichbehandlung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024000000)
 
 (1) Innerhalb jeder Gruppe sind allen Beteiligten gleiche Rechte
 anzubieten.
@@ -4993,6 +5259,7 @@ wird, ist nichtig.
 
 
 #### § 227 Haftung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024101125)
 
 (1) Ist im Insolvenzplan nichts anderes bestimmt, so wird der
 Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der
@@ -5005,6 +5272,7 @@ die persönliche Haftung der Gesellschafter.
 
 
 #### § 228 Änderung sachenrechtlicher Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024200000)
 
 Sollen Rechte an Gegenständen begründet, geändert, übertragen oder
 aufgehoben werden, so können die erforderlichen Willenserklärungen der
@@ -5018,6 +5286,7 @@ Register für Pfandrechte an Luftfahrzeugen eingetragen sind, gilt Satz
 
 
 #### § 229 Vermögensübersicht. Ergebnis- und Finanzplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024301308)
 
 Sollen die Gläubiger aus den Erträgen des vom Schuldner oder von einem
 Dritten fortgeführten Unternehmens befriedigt werden, so ist dem
@@ -5034,6 +5303,7 @@ jedoch bei der Ausarbeitung des Plans bekannt sind.
 
 
 #### § 230 Weitere Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024404125)
 
 (1) Ist im Insolvenzplan vorgesehen, daß der Schuldner sein
 Unternehmen fortführt, und ist der Schuldner eine natürliche Person,
@@ -5063,6 +5333,7 @@ hat.
 
 
 #### § 231 Zurückweisung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024501308)
 
 (1) Das Insolvenzgericht weist den Insolvenzplan von Amts wegen
 zurück,
@@ -5100,6 +5371,7 @@ dem Vorlegenden die sofortige Beschwerde zu.
 
 
 #### § 232 Stellungnahmen zum Plan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024602125)
 
 (1) Wird der Insolvenzplan nicht zurückgewiesen, so leitet das
 Insolvenzgericht ihn zur Stellungnahme, insbesondere zur
@@ -5135,6 +5407,7 @@ Stellungnahme binnen einer Frist von höchstens einer Woche zuzuleiten.
 
 
 #### § 233 Aussetzung von Verwertung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024700000)
 
 Soweit die Durchführung eines vorgelegten Insolvenzplans durch die
 Fortsetzung der Verwertung und Verteilung der Insolvenzmasse gefährdet
@@ -5148,6 +5421,7 @@ beantragt.
 
 
 #### § 234 Niederlegung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE024800000)
 
 Der Insolvenzplan ist mit seinen Anlagen und den eingegangenen
 Stellungnahmen in der Geschäftsstelle zur Einsicht der Beteiligten
@@ -5155,10 +5429,12 @@ niederzulegen.
 
 
 ### Zweiter Abschnitt - Annahme und Bestätigung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG024900000)
 
 
 
 #### § 235 Erörterungs- und Abstimmungstermin
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025003125)
 
 (1) Das Insolvenzgericht bestimmt einen Termin, in dem der
 Insolvenzplan und das Stimmrecht der Beteiligten erörtert werden und
@@ -5188,6 +5464,7 @@ Plans über ihre Internetseite zugänglich zu machen.
 
 
 #### § 236 Verbindung mit dem Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025100000)
 
 Der Erörterungs- und Abstimmungstermin darf nicht vor dem
 Prüfungstermin stattfinden. Beide Termine können jedoch verbunden
@@ -5195,6 +5472,7 @@ werden.
 
 
 #### § 237 Stimmrecht der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025200000)
 
 (1) Für das Stimmrecht der Insolvenzgläubiger bei der Abstimmung über
 den Insolvenzplan gilt § 77 Abs. 1 Satz 1, Abs. 2 und 3 Nr. 1
@@ -5209,6 +5487,7 @@ werden, haben kein Stimmrecht.
 
 
 #### § 238 Stimmrecht der absonderungsberechtigten Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025300000)
 
 (1) Soweit im Insolvenzplan auch die Rechtsstellung
 absonderungsberechtigter Gläubiger geregelt wird, sind im Termin die
@@ -5223,6 +5502,7 @@ die §§ 41, 77 Abs. 2, 3 Nr. 1 entsprechend.
 
 
 #### § 238a Stimmrecht der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039800308)
 
 (1) Das Stimmrecht der Anteilsinhaber des Schuldners bestimmt sich
 allein nach deren Beteiligung am gezeichneten Kapital oder Vermögen
@@ -5233,6 +5513,7 @@ Mehrstimmrechte bleiben außer Betracht.
 
 
 #### § 238b Stimmrecht der Berechtigten aus gruppeninternen Drittsicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043600125)
 
 Sieht der Plan Eingriffe in Rechte aus gruppeninternen
 Drittsicherheiten vor, richtet sich das Stimmrecht nach dem
@@ -5241,6 +5522,7 @@ Drittsicherheit mutmaßlich zu erwarten ist.
 
 
 #### § 239 Stimmliste
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025401308)
 
 Der Urkundsbeamte der Geschäftsstelle hält in einem Verzeichnis fest,
 welche Stimmrechte den Beteiligten nach dem Ergebnis der Erörterung im
@@ -5248,6 +5530,7 @@ Termin zustehen.
 
 
 #### § 240 Änderung des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025500000)
 
 Der Vorlegende ist berechtigt, einzelne Regelungen des Insolvenzplans
 auf Grund der Erörterung im Termin inhaltlich zu ändern. Über den
@@ -5255,6 +5538,7 @@ geänderten Plan kann noch in demselben Termin abgestimmt werden.
 
 
 #### § 241 Gesonderter Abstimmungstermin
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025601308)
 
 (1) Das Insolvenzgericht kann einen gesonderten Termin zur Abstimmung
 über den Insolvenzplan bestimmen. In diesem Fall soll der Zeitraum
@@ -5270,6 +5554,7 @@ Absatz 4a des Aktiengesetzes entsprechende Anwendung. Im Fall einer
 
 
 #### § 242 Schriftliche Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025701308)
 
 (1) Ist ein gesonderter Abstimmungstermin bestimmt, so kann das
 Stimmrecht schriftlich ausgeübt werden.
@@ -5283,12 +5568,14 @@ hinzuweisen.
 
 
 #### § 243 Abstimmung in Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025801308)
 
 Jede Gruppe der stimmberechtigten Beteiligten stimmt gesondert über
 den Insolvenzplan ab.
 
 
 #### § 244 Erforderliche Mehrheiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE025901308)
 
 (1) Zur Annahme des Insolvenzplans durch die Gläubiger ist
 erforderlich, daß in jeder Gruppe
@@ -5314,6 +5601,7 @@ Ansprüche die Summe der Beteiligungen tritt.
 
 
 #### § 245 Obstruktionsverbot
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026003125)
 
 (1) Auch wenn die erforderlichen Mehrheiten nicht erreicht worden
 sind, gilt die Zustimmung einer Abstimmungsgruppe als erteilt, wenn
@@ -5389,6 +5677,7 @@ Beteiligung im Sinne des Absatzes 1 Nummer 2 vor, wenn nach dem Plan
 
 
 #### § 245a Schlechterstellung bei natürlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE044000125)
 
 Ist der Schuldner eine natürliche Person, ist für die Prüfung einer
 voraussichtlichen Schlechterstellung nach § 245 Absatz 1 Nummer 1 im
@@ -5403,6 +5692,7 @@ Ablauf der Abtretungsfrist des § 287 Absatz 2 erteilt wird.
 
 
 #### § 246 Zustimmung nachrangiger Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026101308)
 
 Für die Annahme des Insolvenzplans durch die nachrangigen
 Insolvenzgläubiger gelten ergänzend folgende Bestimmungen:
@@ -5420,12 +5710,14 @@ Insolvenzgläubiger gelten ergänzend folgende Bestimmungen:
 
 
 #### § 246a Zustimmung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE039900308)
 
 Beteiligt sich keines der Mitglieder einer Gruppe der Anteilsinhaber
 an der Abstimmung, so gilt die Zustimmung der Gruppe als erteilt.
 
 
 #### § 247 Zustimmung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026202308)
 
 (1) Die Zustimmung des Schuldners zum Plan gilt als erteilt, wenn der
 Schuldner dem Plan nicht spätestens im Abstimmungstermin schriftlich
@@ -5445,6 +5737,7 @@ widerspricht.
 
 
 #### § 248 Gerichtliche Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026301308)
 
 (1) Nach der Annahme des Insolvenzplans durch die Beteiligten (§§ 244
 bis 246a) und der Zustimmung des Schuldners bedarf der Plan der
@@ -5456,6 +5749,7 @@ ist, und den Schuldner hören.
 
 
 #### § 248a Gerichtliche Bestätigung einer Planberichtigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040000308)
 
 (1) Eine Berichtigung des Insolvenzplans durch den Insolvenzverwalter
 nach § 221 Satz 2 bedarf der Bestätigung durch das Insolvenzgericht.
@@ -5477,6 +5771,7 @@ Absatz 4 gilt entsprechend.
 
 
 #### § 249 Bedingter Plan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026400000)
 
 Ist im Insolvenzplan vorgesehen, daß vor der Bestätigung bestimmte
 Leistungen erbracht oder andere Maßnahmen verwirklicht werden sollen,
@@ -5487,6 +5782,7 @@ Insolvenzgericht gesetzten Frist nicht erfüllt sind.
 
 
 #### § 250 Verstoß gegen Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026501308)
 
 Die Bestätigung ist von Amts wegen zu versagen,
 
@@ -5505,6 +5801,7 @@ Die Bestätigung ist von Amts wegen zu versagen,
 
 
 #### § 251 Minderheitenschutz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026603125)
 
 (1) Auf Antrag eines Gläubigers oder, wenn der Schuldner keine
 natürliche Person ist, einer am Schuldner beteiligten Person ist die
@@ -5533,6 +5830,7 @@ klären.
 
 
 #### § 252 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026703125)
 
 (1) Der Beschluß, durch den der Insolvenzplan bestätigt oder seine
 Bestätigung versagt wird, ist im Abstimmungstermin oder in einem
@@ -5556,6 +5854,7 @@ Plans über ihre Internetseite zugänglich zu machen.
 
 
 #### § 253 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE026802125)
 
 (1) Gegen den Beschluss, durch den der Insolvenzplan bestätigt oder
 durch den die Bestätigung versagt wird, steht den Gläubigern, dem
@@ -5603,10 +5902,12 @@ sofortige Beschwerde zurückgewiesen hat.
 
 
 ### Dritter Abschnitt - Wirkungen des bestätigten Plans. Überwachung der Planerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG026900000)
 
 
 
 #### § 254 Allgemeine Wirkungen des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027002125)
 
 (1) Mit der Rechtskraft der Bestätigung des Insolvenzplans treten die
 im gestaltenden Teil festgelegten Wirkungen für und gegen alle
@@ -5634,6 +5935,7 @@ geltend machen.
 
 
 #### § 254a Rechte an Gegenständen. Sonstige Wirkungen des Plans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040100308)
 
 (1) Wenn Rechte an Gegenständen begründet, geändert, übertragen oder
 aufgehoben oder Geschäftsanteile an einer Gesellschaft mit
@@ -5657,6 +5959,7 @@ zugrunde liegen.
 
 
 #### § 254b Wirkung für alle Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040200308)
 
 Die §§ 254 und 254a gelten auch für Insolvenzgläubiger, die ihre
 Forderungen nicht angemeldet haben, und für Beteiligte, die dem
@@ -5664,6 +5967,7 @@ Insolvenzplan widersprochen haben.
 
 
 #### § 255 Wiederauflebensklausel
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027100000)
 
 (1) Sind auf Grund des gestaltenden Teils des Insolvenzplans
 Forderungen von Insolvenzgläubigern gestundet oder teilweise erlassen
@@ -5683,6 +5987,7 @@ Absatz 1 nicht zum Nachteil des Schuldners abgewichen werden.
 
 
 #### § 256 Streitige Forderungen. Ausfallforderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027200000)
 
 (1) Ist eine Forderung im Prüfungstermin bestritten worden oder steht
 die Höhe der Ausfallforderung eines absonderungsberechtigten
@@ -5710,6 +6015,7 @@ Gläubiger nach dem Insolvenzplan zusteht.
 
 
 #### § 257 Vollstreckung aus dem Plan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027300000)
 
 (1) Aus dem rechtskräftig bestätigten Insolvenzplan in Verbindung mit
 der Eintragung in die Tabelle können die Insolvenzgläubiger, deren
@@ -5733,6 +6039,7 @@ Beweis für den Rückstand des Schuldners zu führen.
 
 
 #### § 258 Aufhebung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027403125)
 
 (1) Sobald die Bestätigung des Insolvenzplans rechtskräftig ist und
 der Insolvenzplan nicht etwas anderes vorsieht, beschließt das
@@ -5755,6 +6062,7 @@ Veröffentlichung zwei weitere Tage verstrichen sind.
 
 
 #### § 259 Wirkungen der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027500000)
 
 (1) Mit der Aufhebung des Insolvenzverfahrens erlöschen die Ämter des
 Insolvenzverwalters und der Mitglieder des Gläubigerausschusses. Der
@@ -5773,6 +6081,7 @@ wird.
 
 
 #### § 259a Vollstreckungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040300308)
 
 (1) Gefährden nach der Aufhebung des Verfahrens Zwangsvollstreckungen
 einzelner Insolvenzgläubiger, die ihre Forderungen bis zum
@@ -5792,6 +6101,7 @@ ist.
 
 
 #### § 259b Besondere Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040400308)
 
 (1) Die Forderung eines Insolvenzgläubigers, die nicht bis zum
 Abstimmungstermin angemeldet worden ist, verjährt in einem Jahr.
@@ -5811,6 +6121,7 @@ des Vollstreckungsschutzes.
 
 
 #### § 260 Überwachung der Planerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027601125)
 
 (1) Im gestaltenden Teil des Insolvenzplans kann vorgesehen werden,
 daß die Erfüllung des Plans überwacht wird.
@@ -5830,6 +6141,7 @@ einen Betrieb des Schuldners zu übernehmen und weiterzuführen
 
 
 #### § 261 Aufgaben und Befugnisse des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027700000)
 
 (1) Die Überwachung ist Aufgabe des Insolvenzverwalters. Die Ämter des
 Verwalters und der Mitglieder des Gläubigerausschusses und die
@@ -5845,6 +6157,7 @@ Auskünfte oder einen Zwischenbericht zu verlangen.
 
 
 #### § 262 Anzeigepflicht des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027800000)
 
 Stellt der Insolvenzverwalter fest, daß Ansprüche, deren Erfüllung
 überwacht wird, nicht erfüllt werden oder nicht erfüllt werden können,
@@ -5856,6 +6169,7 @@ den Schuldner oder die Übernahmegesellschaft zustehen.
 
 
 #### § 263 Zustimmungsbedürftige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE027900000)
 
 Im gestaltenden Teil des Insolvenzplans kann vorgesehen werden, daß
 bestimmte Rechtsgeschäfte des Schuldners oder der
@@ -5865,6 +6179,7 @@ gelten entsprechend.
 
 
 #### § 264 Kreditrahmen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028000000)
 
 (1) Im gestaltenden Teil des Insolvenzplans kann vorgesehen werden,
 daß die Insolvenzgläubiger nachrangig sind gegenüber Gläubigern mit
@@ -5886,6 +6201,7 @@ Insolvenzverwalter diese Vereinbarung schriftlich bestätigt.
 
 
 #### § 265 Nachrang von Neugläubigern
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028100000)
 
 Gegenüber den Gläubigern mit Forderungen aus Krediten, die nach
 Maßgabe des § 264 aufgenommen oder stehen gelassen werden, sind
@@ -5898,6 +6214,7 @@ kündigen konnte.
 
 
 #### § 266 Berücksichtigung des Nachrangs
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028200000)
 
 (1) Der Nachrang der Insolvenzgläubiger und der in § 265 bezeichneten
 Gläubiger wird nur in einem Insolvenzverfahren berücksichtigt, das vor
@@ -5908,6 +6225,7 @@ der Aufhebung der Überwachung eröffnet wird.
 
 
 #### § 267 Bekanntmachung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028300000)
 
 (1) Wird die Erfüllung des Insolvenzplans überwacht, so ist dies
 zusammen mit dem Beschluß über die Aufhebung des Insolvenzverfahrens
@@ -5936,6 +6254,7 @@ gelten die §§ 32 und 33 entsprechend.
 
 
 #### § 268 Aufhebung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028400000)
 
 (1) Das Insolvenzgericht beschließt die Aufhebung der Überwachung,
 
@@ -5955,6 +6274,7 @@ entsprechend.
 
 
 #### § 269 Kosten der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028500000)
 
 Die Kosten der Überwachung trägt der Schuldner. Im Falle des § 260
 Abs. 3 trägt die Übernahmegesellschaft die durch ihre Überwachung
@@ -5962,14 +6282,17 @@ entstehenden Kosten.
 
 
 ## Siebter Teil - Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angehören
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG037200311)
 
 
 
 ### Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG037300311)
 
 
 
 #### § 269a Zusammenarbeit der Insolvenzverwalter
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042300311)
 
 Die Insolvenzverwalter gruppenangehöriger Schuldner sind untereinander
 zur Unterrichtung und Zusammenarbeit verpflichtet, soweit hierdurch
@@ -5980,6 +6303,7 @@ andere Verfahren von Bedeutung sein können.
 
 
 #### § 269b Zusammenarbeit der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042400311)
 
 Werden die Insolvenzverfahren über das Vermögen von gruppenangehörigen
 Schuldnern bei verschiedenen Insolvenzgerichten geführt, sind die
@@ -6010,6 +6334,7 @@ sein können. Dies gilt insbesondere für:
 
 
 #### § 269c Zusammenarbeit der Gläubigerausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042500311)
 
 (1) Auf Antrag eines Gläubigerausschusses, der in einem Verfahren über
 das Vermögen eines gruppenangehörigen Schuldners bestellt ist, kann
@@ -6035,10 +6360,12 @@ vorläufiger Gläubigerausschuss gleich.
 
 
 ### Zweiter Abschnitt - Koordinationsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG037400311)
 
 
 
 #### § 269d Koordinationsgericht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042600311)
 
 (1) Wird über die Vermögen von gruppenangehörigen Schuldnern die
 Eröffnung von Insolvenzverfahren beantragt oder wurden solche
@@ -6054,6 +6381,7 @@ Beschlusses.
 
 
 #### § 269e Verfahrenskoordinator
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042700311)
 
 (1) Das Koordinationsgericht bestellt eine von den gruppenangehörigen
 Schuldnern und deren Gläubigern unabhängige Person zum
@@ -6069,6 +6397,7 @@ ihn zu stellenden Anforderungen zu äußern.
 
 
 #### § 269f Aufgaben und Rechtsstellung des Verfahrenskoordinators
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042801125)
 
 (1) Der Verfahrenskoordinator hat für eine abgestimmte Abwicklung der
 Verfahren über die gruppenangehörigen Schuldner zu sorgen, soweit dies
@@ -6090,6 +6419,7 @@ Nummer 4 und die §§ 56 bis 60, 62 bis 65 entsprechend.
 
 
 #### § 269g Vergütung des Verfahrenskoordinators
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE042900311)
 
 (1) Der Verfahrenskoordinator hat Anspruch auf Vergütung für seine
 Tätigkeit und auf Erstattung angemessener Auslagen. Der Regelsatz der
@@ -6106,6 +6436,7 @@ maßgebend ist.
 
 
 #### § 269h Koordinationsplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043000311)
 
 (1) Zur abgestimmten Abwicklung der Insolvenzverfahren über das
 Vermögen von gruppenangehörigen Schuldnern können der
@@ -6143,6 +6474,7 @@ zuzuziehen.
 
 
 #### § 269i Abweichungen vom Koordinationsplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043100311)
 
 (1) Der Insolvenzverwalter eines gruppenangehörigen Schuldners hat im
 Berichtstermin den Koordinationsplan zu erläutern, wenn dies nicht
@@ -6160,10 +6492,12 @@ zu legen.
 
 
 ## Achter Teil - Eigenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036701311)
 
 
 
 ### § 270 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028603125)
 
 (1) Der Schuldner ist berechtigt, unter der Aufsicht eines Sachwalters
 die Insolvenzmasse zu verwalten und über sie zu verfügen, wenn das
@@ -6177,6 +6511,7 @@ Verbraucherinsolvenzverfahren nach § 304 nicht anzuwenden.
 
 
 ### § 270a Antrag; Eigenverwaltungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040501125)
 
 (1) Der Schuldner fügt dem Antrag auf Anordnung der Eigenverwaltung
 eine Eigenverwaltungsplanung bei, welche umfasst:
@@ -6234,6 +6569,7 @@ eine Eigenverwaltungsplanung bei, welche umfasst:
 
 
 ### § 270b Anordnung der vorläufigen Eigenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040602125)
 
 (1) Das Gericht bestellt einen vorläufigen Sachwalter, auf den die §§
 274 und 275 anzuwenden sind (vorläufige Eigenverwaltung), wenn
@@ -6301,6 +6637,7 @@ entsprechend.
 
 
 ### § 270c Vorläufiges Eigenverwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040701125)
 
 (1) Das Gericht kann den vorläufigen Sachwalter beauftragten, Bericht
 zu erstatten über
@@ -6346,6 +6683,7 @@ diesem Gelegenheit zu geben, den Eröffnungsantrag vor der Entscheidung
 
 
 ### § 270d Vorbereitung einer Sanierung; Schutzschirm
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043700125)
 
 (1) Hat der Schuldner mit dem Antrag eine mit Gründen versehene
 Bescheinigung eines in Insolvenzsachen erfahrenen Steuerberaters,
@@ -6375,6 +6713,7 @@ entscheidet das Gericht über die Eröffnung des Insolvenzverfahrens.
 
 
 ### § 270e Aufhebung der vorläufigen Eigenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043800125)
 
 (1) Die vorläufige Eigenverwaltung wird durch Bestellung eines
 vorläufigen Insolvenzverwalters aufgehoben, wenn
@@ -6441,6 +6780,7 @@ darzulegen. § 27 Absatz 2 Nummer 4 gilt entsprechend.
 
 
 ### § 270f Anordnung der Eigenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043901125)
 
 (1) Die Eigenverwaltung wird auf Antrag des Schuldners angeordnet, es
 sei denn, eine vorläufige Eigenverwaltung wäre nach § 270b nicht
@@ -6454,6 +6794,7 @@ anzumelden. Die §§ 32 und 33 sind nicht anzuwenden.
 
 
 ### § 270g Eigenverwaltung bei gruppenangehörigen Schuldnern
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE043201125)
 
 Wird die Eigenverwaltung oder die vorläufige Eigenverwaltung bei einem
 gruppenangehörigen Schuldner angeordnet, unterliegt der Schuldner den
@@ -6463,6 +6804,7 @@ stehen nach Verfahrenseröffnung die Antragsrechte nach § 3a Absatz 1,
 
 
 ### § 271 Nachträgliche Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028701308)
 
 Beantragt die Gläubigerversammlung mit der in § 76 Absatz 2 genannten
 Mehrheit und der Mehrheit der abstimmenden Gläubiger die
@@ -6472,6 +6814,7 @@ bestellt werden.
 
 
 ### § 272 Aufhebung der Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028802125)
 
 (1) Das Insolvenzgericht hebt die Anordnung der Eigenverwaltung auf,
 wenn
@@ -6529,6 +6872,7 @@ werden.
 
 
 ### § 273 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE028900000)
 
 Der Beschluß des Insolvenzgerichts, durch den nach der Eröffnung des
 Insolvenzverfahrens die Eigenverwaltung angeordnet oder die Anordnung
@@ -6536,6 +6880,7 @@ aufgehoben wird, ist öffentlich bekanntzumachen.
 
 
 ### § 274 Rechtsstellung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029003125)
 
 (1) Für die Bestellung des Sachwalters, für die Aufsicht des
 Insolvenzgerichts sowie für die Haftung und die Vergütung des
@@ -6559,6 +6904,7 @@ Gläubiger zu unterrichten.
 
 
 ### § 275 Mitwirkung des Sachwalters
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029100000)
 
 (1) Verbindlichkeiten, die nicht zum gewöhnlichen Geschäftsbetrieb
 gehören, soll der Schuldner nur mit Zustimmung des Sachwalters
@@ -6572,6 +6918,7 @@ Sachwalter geleistet werden.
 
 
 ### § 276 Mitwirkung des Gläubigerausschusses
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029200000)
 
 Der Schuldner hat die Zustimmung des Gläubigerausschusses einzuholen,
 wenn er Rechtshandlungen vornehmen will, die für das
@@ -6580,6 +6927,7 @@ Abs. 2, § 161 Satz 2 und § 164 gelten entsprechend.
 
 
 ### § 276a Mitwirkung der Überwachungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040802125)
 
 (1) Ist der Schuldner eine juristische Person oder eine rechtsfähige
 Personengesellschaft, so haben der Aufsichtsrat, die
@@ -6608,6 +6956,7 @@ Anwendung.
 
 
 ### § 277 Anordnung der Zustimmungsbedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029300000)
 
 (1) Auf Antrag der Gläubigerversammlung ordnet das Insolvenzgericht
 an, daß bestimmte Rechtsgeschäfte des Schuldners nur wirksam sind,
@@ -6629,6 +6978,7 @@ beschränkt wird, gelten die §§ 32 und 33 entsprechend.
 
 
 ### § 278 Mittel zur Lebensführung des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029400000)
 
 (1) Der Schuldner ist berechtigt, für sich und die in § 100 Abs. 2
 Satz 2 genannten Familienangehörigen aus der Insolvenzmasse die Mittel
@@ -6642,6 +6992,7 @@ Gesellschafter des Schuldners.
 
 
 ### § 279 Gegenseitige Verträge
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029500000)
 
 Die Vorschriften über die Erfüllung der Rechtsgeschäfte und die
 Mitwirkung des Betriebsrats (§§ 103 bis 128) gelten mit der Maßgabe,
@@ -6652,6 +7003,7 @@ kann er wirksam nur mit Zustimmung des Sachwalters ausüben.
 
 
 ### § 280 Haftung. Insolvenzanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029600000)
 
 Nur der Sachwalter kann die Haftung nach den §§ 92 und 93 für die
 Insolvenzmasse geltend machen und Rechtshandlungen nach den §§ 129 bis
@@ -6659,6 +7011,7 @@ Insolvenzmasse geltend machen und Rechtshandlungen nach den §§ 129 bis
 
 
 ### § 281 Unterrichtung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029700000)
 
 (1) Das Verzeichnis der Massegegenstände, das Gläubigerverzeichnis und
 die Vermögensübersicht (§§ 151 bis 153) hat der Schuldner zu
@@ -6675,6 +7028,7 @@ entsprechend.
 
 
 ### § 282 Verwertung von Sicherungsgut
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029800000)
 
 (1) Das Recht des Insolvenzverwalters zur Verwertung von Gegenständen,
 an denen Absonderungsrechte bestehen, steht dem Schuldner zu. Kosten
@@ -6688,6 +7042,7 @@ Sachwalter ausüben.
 
 
 ### § 283 Befriedigung der Insolvenzgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE029900000)
 
 (1) Bei der Prüfung der Forderungen können außer den
 Insolvenzgläubigern der Schuldner und der Sachwalter angemeldete
@@ -6702,6 +7057,7 @@ sind.
 
 
 ### § 284 Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030001125)
 
 (1) Ein Auftrag der Gläubigerversammlung zur Ausarbeitung eines
 Insolvenzplans ist an den Sachwalter oder an den Schuldner zu richten.
@@ -6714,16 +7070,19 @@ vorläufige Sachwalter oder der Sachwalter beratend mit.
 
 
 ### § 285 Masseunzulänglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030100000)
 
 Masseunzulänglichkeit ist vom Sachwalter dem Insolvenzgericht
 anzuzeigen.
 
 
 ## Neunter Teil - Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036301311)
 
 
 
 ### § 286 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030201125)
 
 Ist der Schuldner eine natürliche Person, so wird er nach Maßgabe der
 §§ 287 bis 303a von den im Insolvenzverfahren nicht erfüllten
@@ -6731,6 +7090,7 @@ Verbindlichkeiten gegenüber den Insolvenzgläubigern befreit.
 
 
 ### § 287 Antrag des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030303125)
 
 (1) Die Restschuldbefreiung setzt einen Antrag des Schuldners voraus,
 der mit seinem Antrag auf Eröffnung des Insolvenzverfahrens verbunden
@@ -6761,6 +7121,7 @@ zum Schlusstermin zu dem Antrag des Schuldners zu hören.
 
 
 ### § 287a Entscheidung des Insolvenzgerichts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE040902125)
 
 (1) Ist der Antrag auf Restschuldbefreiung zulässig, so stellt das
 Insolvenzgericht durch Beschluss fest, dass der Schuldner
@@ -6794,6 +7155,7 @@ zurückzunehmen.
 
 
 ### § 287b Erwerbsobliegenheit des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041000311)
 
 Ab Beginn der Abtretungsfrist bis zur Beendigung des
 Insolvenzverfahrens obliegt es dem Schuldner, eine angemessene
@@ -6802,6 +7164,7 @@ um eine solche zu bemühen und keine zumutbare Tätigkeit abzulehnen.
 
 
 ### § 288 Bestimmung des Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041100311)
 
 Der Schuldner und die Gläubiger können dem Insolvenzgericht als
 Treuhänder eine für den jeweiligen Einzelfall geeignete natürliche
@@ -6814,6 +7177,7 @@ der Abtretungserklärung (§ 287 Absatz 2) übergehen.
 
 
 ### § 289 Einstellung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041200311)
 
 Im Fall der Einstellung des Insolvenzverfahrens kann
 Restschuldbefreiung nur erteilt werden, wenn nach Anzeige der
@@ -6822,6 +7186,7 @@ ist und die Einstellung nach § 211 erfolgt.
 
 
 ### § 290 Versagung der Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030601311)
 
 (1) Die Restschuldbefreiung ist durch Beschluss zu versagen, wenn dies
 von einem Insolvenzgläubiger, der seine Forderung angemeldet hat,
@@ -6886,11 +7251,13 @@ beantragt hat, die sofortige Beschwerde zu. Der Beschluss ist
 
 
 ### § 291 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030701311)
 
 -
 
 
 ### § 292 Rechtsstellung des Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030803125)
 
 (1) Der Treuhänder hat den zur Zahlung der Bezüge Verpflichteten über
 die Abtretung zu unterrichten. Er hat die Beträge, die er durch die
@@ -6922,6 +7289,7 @@ Beschwerde jedem Insolvenzgläubiger zusteht.
 
 
 ### § 293 Vergütung des Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE030901301)
 
 (1) Der Treuhänder hat Anspruch auf Vergütung für seine Tätigkeit und
 auf Erstattung angemessener Auslagen. Dabei ist dem Zeitaufwand des
@@ -6931,6 +7299,7 @@ Treuhänders und dem Umfang seiner Tätigkeit Rechnung zu tragen.
 
 
 ### § 294 Gleichbehandlung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031001311)
 
 (1) Zwangsvollstreckungen für einzelne Insolvenzgläubiger in das
 Vermögen des Schuldners sind in dem Zeitraum zwischen Beendigung des
@@ -6945,6 +7314,7 @@ Abtretungserklärung erfasst werden, ist nicht zulässig.
 
 
 ### § 295 Obliegenheiten des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031103125)
 
 Dem Schuldner obliegt es, in dem Zeitraum zwischen Beendigung des
 Insolvenzverfahrens und dem Ende der Abtretungsfrist
@@ -6988,6 +7358,7 @@ ausgenommen ist.
 
 
 ### § 295a Obliegenheiten des Schuldners bei selbständiger Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE044100125)
 
 (1) Soweit der Schuldner eine selbständige Tätigkeit ausübt, obliegt
 es ihm, die Insolvenzgläubiger durch Zahlungen an den Treuhänder so zu
@@ -7005,6 +7376,7 @@ Schuldner und jedem Insolvenzgläubiger die sofortige Beschwerde zu.
 
 
 ### § 296 Verstoß gegen Obliegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031203125)
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
 eines Insolvenzgläubigers, wenn der Schuldner in dem Zeitraum zwischen
@@ -7035,6 +7407,7 @@ die sofortige Beschwerde zu. Die Versagung der Restschuldbefreiung ist
 
 
 ### § 297 Insolvenzstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031301311)
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
 eines Insolvenzgläubigers, wenn der Schuldner in dem Zeitraum zwischen
@@ -7049,6 +7422,7 @@ verurteilt wird.
 
 
 ### § 297a Nachträglich bekannt gewordene Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041300311)
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
 eines Insolvenzgläubigers, wenn sich nach dem Schlusstermin oder im
@@ -7064,6 +7438,7 @@ maßgeblichen Zeitpunkt keine Kenntnis von ihnen hatte.
 
 
 ### § 298 Deckung der Mindestvergütung des Treuhänders
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031401301)
 
 (1) Das Insolvenzgericht versagt die Restschuldbefreiung auf Antrag
 des Treuhänders, wenn die an diesen abgeführten Beträge für das
@@ -7083,6 +7458,7 @@ entsprechend § 4a gestundet wird.
 
 
 ### § 299 Vorzeitige Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031501311)
 
 Wird die Restschuldbefreiung nach den §§ 296, 297, 297a oder 298
 versagt, so enden die Abtretungsfrist, das Amt des Treuhänders und die
@@ -7091,6 +7467,7 @@ Entscheidung.
 
 
 ### § 300 Entscheidung über die Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031603125)
 
 (1) Das Insolvenzgericht entscheidet nach dem regulären Ablauf der
 Abtretungsfrist über die Erteilung der Restschuldbefreiung. Der
@@ -7124,6 +7501,7 @@ geltend gemacht hat, die sofortige Beschwerde zu.
 
 
 ### § 300a Neuerwerb im laufenden Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041401125)
 
 (1) Wird dem Schuldner Restschuldbefreiung erteilt, gehört das
 Vermögen, das der Schuldner nach Ende der Abtretungsfrist oder nach
@@ -7150,6 +7528,7 @@ Auslagen. § 293 gilt entsprechend.
 
 
 ### § 301 Wirkung der Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031701125)
 
 (1) Wird die Restschuldbefreiung erteilt, so wirkt sie gegen alle
 Insolvenzgläubiger. Dies gilt auch für Gläubiger, die ihre Forderungen
@@ -7177,6 +7556,7 @@ einer erlaubnispflichtigen Tätigkeit.
 
 
 ### § 302 Ausgenommene Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031802311)
 
 Von der Erteilung der Restschuldbefreiung werden nicht berührt:
 
@@ -7202,6 +7582,7 @@ Von der Erteilung der Restschuldbefreiung werden nicht berührt:
 
 
 ### § 303 Widerruf der Restschuldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE031901311)
 
 (1) Auf Antrag eines Insolvenzgläubigers widerruft das
 Insolvenzgericht die Erteilung der Restschuldbefreiung, wenn
@@ -7244,6 +7625,7 @@ bekanntzumachen.
 
 
 ### § 303a Eintragung in das Schuldnerverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE041501311)
 
 Das Insolvenzgericht ordnet die Eintragung in das Schuldnerverzeichnis
 nach § 882b der Zivilprozessordnung an. Eingetragen werden Schuldner,
@@ -7263,10 +7645,12 @@ Vollstreckungsgericht nach § 882h Absatz 1 der Zivilprozessordnung. §
 
 
 ## Zehnter Teil - Verbraucherinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036402311)
 
 
 
 ### § 304 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032101301)
 
 (1) Ist der Schuldner eine natürliche Person, die keine selbständige
 wirtschaftliche Tätigkeit ausübt oder ausgeübt hat, so gelten für das
@@ -7283,6 +7667,7 @@ Gläubiger hat.
 
 
 ### § 305 Eröffnungsantrag des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032307311)
 
 (1) Mit dem schriftlich einzureichenden Antrag auf Eröffnung des
 Insolvenzverfahrens oder unverzüglich nach diesem Antrag hat der
@@ -7358,6 +7743,7 @@ werden.
 
 
 ### § 305a Scheitern der außergerichtlichen Schuldenbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036500301)
 
 Der Versuch, eine außergerichtliche Einigung mit den Gläubigern über
 die Schuldenbereinigung herbeizuführen, gilt als gescheitert, wenn ein
@@ -7366,6 +7752,7 @@ Gläubiger die Zwangsvollstreckung betreibt, nachdem die Verhandlungen
 
 
 ### § 306 Ruhen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032401301)
 
 (1) Das Verfahren über den Antrag auf Eröffnung des
 Insolvenzverfahrens ruht bis zur Entscheidung über den
@@ -7391,6 +7778,7 @@ außergerichtliche Einigung nach § 305 Abs. 1 Nr. 1 zu versuchen.
 
 
 ### § 307 Zustellung an die Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032501301)
 
 (1) Das Insolvenzgericht stellt den vom Schuldner genannten Gläubigern
 den Schuldenbereinigungsplan sowie die Vermögensübersicht zu und
@@ -7422,6 +7810,7 @@ Absatz 2 gelten entsprechend.
 
 
 ### § 308 Annahme des Schuldenbereinigungsplans
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032601301)
 
 (1) Hat kein Gläubiger Einwendungen gegen den Schuldenbereinigungsplan
 erhoben oder wird die Zustimmung nach § 309 ersetzt, so gilt der
@@ -7447,6 +7836,7 @@ Ablauf der Frist entstanden war; insoweit erlischt die Forderung.
 
 
 ### § 309 Ersetzung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032702301)
 
 (1) Hat dem Schuldenbereinigungsplan mehr als die Hälfte der benannten
 Gläubiger zugestimmt und beträgt die Summe der Ansprüche der
@@ -7488,6 +7878,7 @@ ersetzt werden.
 
 
 ### § 310 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE032800000)
 
 Die Gläubiger haben gegen den Schuldner keinen Anspruch auf Erstattung
 der Kosten, die ihnen im Zusammenhang mit dem Schuldenbereinigungsplan
@@ -7495,6 +7886,7 @@ entstehen.
 
 
 ### § 311 Aufnahme des Verfahrens über den Eröffnungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033000000)
 
 Werden Einwendungen gegen den Schuldenbereinigungsplan erhoben, die
 nicht gemäß § 309 durch gerichtliche Zustimmung ersetzt werden, so
@@ -7503,19 +7895,23 @@ aufgenommen.
 
 
 ### (XXXX) §§ 312 bis 314 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033103311)
 
 -
 
 
 ## Elfter Teil - Besondere Arten des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036501311)
 
 
 
 ### Erster Abschnitt - Nachlaßinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG033401311)
 
 
 
 #### § 315 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033500000)
 
 Für das Insolvenzverfahren über einen Nachlaß ist ausschließlich das
 Insolvenzgericht örtlich zuständig, in dessen Bezirk der Erblasser zur
@@ -7526,6 +7922,7 @@ Insolvenzgericht zuständig, in dessen Bezirk dieser Ort liegt.
 
 
 #### § 316 Zulässigkeit der Eröffnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033600000)
 
 (1) Die Eröffnung des Insolvenzverfahrens wird nicht dadurch
 ausgeschlossen, daß der Erbe die Erbschaft noch nicht angenommen hat
@@ -7538,6 +7935,7 @@ auch nach der Teilung des Nachlasses zulässig.
 
 
 #### § 317 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033700000)
 
 (1) Zum Antrag auf Eröffnung des Insolvenzverfahrens über einen
 Nachlaß ist jeder Erbe, der Nachlaßverwalter sowie ein anderer
@@ -7555,6 +7953,7 @@ stellt, der Erbe zu hören.
 
 
 #### § 318 Antragsrecht beim Gesamtgut
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033801301)
 
 (1) Gehört der Nachlaß zum Gesamtgut einer Gütergemeinschaft, so kann
 sowohl der Ehegatte, der Erbe ist, als auch der Ehegatte, der nicht
@@ -7572,6 +7971,7 @@ Insolvenzgericht hat den anderen Ehegatten zu hören.
 
 
 #### § 319 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE033900000)
 
 Der Antrag eines Nachlaßgläubigers auf Eröffnung des
 Insolvenzverfahrens ist unzulässig, wenn seit der Annahme der
@@ -7579,6 +7979,7 @@ Erbschaft zwei Jahre verstrichen sind.
 
 
 #### § 320 Eröffnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034000000)
 
 Gründe für die Eröffnung des Insolvenzverfahrens über einen Nachlaß
 sind die Zahlungsunfähigkeit und die Überschuldung. Beantragt der
@@ -7588,6 +7989,7 @@ drohende Zahlungsunfähigkeit Eröffnungsgrund.
 
 
 #### § 321 Zwangsvollstreckung nach Erbfall
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034100000)
 
 Maßnahmen der Zwangsvollstreckung in den Nachlaß, die nach dem
 Eintritt des Erbfalls erfolgt sind, gewähren kein Recht zur
@@ -7595,6 +7997,7 @@ abgesonderten Befriedigung.
 
 
 #### § 322 Anfechtbare Rechtshandlungen des Erben
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034200000)
 
 Hat der Erbe vor der Eröffnung des Insolvenzverfahrens aus dem Nachlaß
 Pflichtteilsansprüche, Vermächtnisse oder Auflagen erfüllt, so ist
@@ -7603,6 +8006,7 @@ unentgeltliche Leistung des Erben.
 
 
 #### § 323 Aufwendungen des Erben
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034300000)
 
 Dem Erben steht wegen der Aufwendungen, die ihm nach den §§ 1978, 1979
 des Bürgerlichen Gesetzbuchs aus dem Nachlaß zu ersetzen sind, ein
@@ -7610,6 +8014,7 @@ Zurückbehaltungsrecht nicht zu.
 
 
 #### § 324 Masseverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034400000)
 
 (1) Masseverbindlichkeiten sind außer den in den §§ 54, 55
 bezeichneten Verbindlichkeiten:
@@ -7650,12 +8055,14 @@ bezeichneten Verbindlichkeiten den Rang des § 209 Abs. 1 Nr. 3.
 
 
 #### § 325 Nachlaßverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034500000)
 
 Im Insolvenzverfahren über einen Nachlaß können nur die
 Nachlaßverbindlichkeiten geltend gemacht werden.
 
 
 #### § 326 Ansprüche des Erben
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034600000)
 
 (1) Der Erbe kann die ihm gegen den Erblasser zustehenden Ansprüche
 geltend machen.
@@ -7672,6 +8079,7 @@ Gläubiger sie nicht geltend macht.
 
 
 #### § 327 Nachrangige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034701307)
 
 (1) Im Rang nach den in § 39 bezeichneten Verbindlichkeiten und in
 folgender Rangfolge, bei gleichem Rang nach dem Verhältnis ihrer
@@ -7708,6 +8116,7 @@ Beschränkungen an der Rangordnung nichts geändert.
 
 
 #### § 328 Zurückgewährte Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034800000)
 
 (1) Was infolge der Anfechtung einer vom Erblasser oder ihm gegenüber
 vorgenommenen Rechtshandlung zur Insolvenzmasse zurückgewährt wird,
@@ -7724,12 +8133,14 @@ Bereicherung ersatzpflichtig wäre.
 
 
 #### § 329 Nacherbfolge
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE034900000)
 
 Die §§ 323, 324 Abs. 1 Nr. 1 und § 326 Abs. 2, 3 gelten für den
 Vorerben auch nach dem Eintritt der Nacherbfolge.
 
 
 #### § 330 Erbschaftskauf
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035000000)
 
 (1) Hat der Erbe die Erbschaft verkauft, so tritt für das
 Insolvenzverfahren der Käufer an seine Stelle.
@@ -7750,6 +8161,7 @@ erworbenen Erbschaft verpflichtet hat.
 
 
 #### § 331 Gleichzeitige Insolvenz des Erben
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035101311)
 
 (1) Im Insolvenzverfahren über das Vermögen des Erben gelten, wenn
 auch über den Nachlaß das Insolvenzverfahren eröffnet oder wenn eine
@@ -7767,10 +8179,12 @@ Erbe ist. Satz 1 gilt für Lebenspartner entsprechend.
 
 
 ### Zweiter Abschnitt - Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG035201311)
 
 
 
 #### § 332 Verweisung auf das Nachlaßinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035300000)
 
 (1) Im Falle der fortgesetzten Gütergemeinschaft gelten die §§ 315 bis
 331 entsprechend für das Insolvenzverfahren über das Gesamtgut.
@@ -7785,10 +8199,12 @@ Insolvenzgericht zu einem Eröffnungsantrag zu hören.
 
 
 ### Dritter Abschnitt - Insolvenzverfahren über das gemeinschaftlich verwaltete Gesamtgut einer Gütergemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG035401311)
 
 
 
 #### § 333 Antragsrecht. Eröffnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035501311)
 
 (1) Zum Antrag auf Eröffnung des Insolvenzverfahrens über das
 Gesamtgut einer Gütergemeinschaft, das von den Ehegatten
@@ -7806,6 +8222,7 @@ Zahlungsunfähigkeit Eröffnungsgrund.
 
 
 #### § 334 Persönliche Haftung der Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035601311)
 
 (1) Die persönliche Haftung der Ehegatten oder Lebenspartner für die
 Verbindlichkeiten, deren Erfüllung aus dem Gesamtgut verlangt werden
@@ -7817,14 +8234,17 @@ Ehegatten oder Lebenspartner § 227 Abs. 1 entsprechend.
 
 
 ## Zwölfter Teil - Internationales Insolvenzrecht
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036801311)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036901311)
 
 
 
 #### § 335 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036600301)
 
 Das Insolvenzverfahren und seine Wirkungen unterliegen, soweit nichts
 anderes bestimmt ist, dem Recht des Staats, in dem das Verfahren
@@ -7832,6 +8252,7 @@ eröffnet worden ist.
 
 
 #### § 336 Vertrag über einen unbeweglichen Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036700301)
 
 Die Wirkungen des Insolvenzverfahrens auf einen Vertrag, der ein
 dingliches Recht an einem unbeweglichen Gegenstand oder ein Recht zur
@@ -7843,6 +8264,7 @@ maßgebend, unter dessen Aufsicht das Register geführt wird.
 
 
 #### § 337 Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036801308)
 
 Die Wirkungen des Insolvenzverfahrens auf ein Arbeitsverhältnis
 unterliegen dem Recht, das nach der Verordnung (EG) Nr. 593/2008 des
@@ -7852,6 +8274,7 @@ vom 4.7.2008, S. 6) für das Arbeitsverhältnis maßgebend ist.
 
 
 #### § 338 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE036900301)
 
 Das Recht eines Insolvenzgläubigers zur Aufrechnung wird von der
 Eröffnung des Insolvenzverfahrens nicht berührt, wenn er nach dem für
@@ -7860,6 +8283,7 @@ des Insolvenzverfahrens zur Aufrechnung berechtigt ist.
 
 
 #### § 339 Insolvenzanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037000301)
 
 Eine Rechtshandlung kann angefochten werden, wenn die Voraussetzungen
 der Insolvenzanfechtung nach dem Recht des Staats der
@@ -7870,6 +8294,7 @@ angreifbar ist.
 
 
 #### § 340 Organisierte Märkte. Pensionsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037102311)
 
 (1) Die Wirkungen des Insolvenzverfahrens auf die Rechte und Pflichten
 der Teilnehmer an einem organisierten Markt nach § 2 Absatz 11 des
@@ -7886,6 +8311,7 @@ Kreditwesengesetzes gilt Absatz 1 entsprechend.
 
 
 #### § 341 Ausübung von Gläubigerrechten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037200301)
 
 (1) Jeder Gläubiger kann seine Forderungen im Hauptinsolvenzverfahren
 und in jedem Sekundärinsolvenzverfahren anmelden.
@@ -7904,6 +8330,7 @@ Bestimmung trifft.
 
 
 #### § 342 Herausgabepflicht. Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037300301)
 
 (1) Erlangt ein Insolvenzgläubiger durch Zwangsvollstreckung, durch
 eine Leistung des Schuldners oder in sonstiger Weise etwas auf Kosten
@@ -7923,10 +8350,12 @@ Auskunft über das Erlangte zu geben.
 
 
 ### Zweiter Abschnitt - Ausländisches Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG037001311)
 
 
 
 #### § 343 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037400301)
 
 (1) Die Eröffnung eines ausländischen Insolvenzverfahrens wird
 anerkannt. Dies gilt nicht,
@@ -7949,6 +8378,7 @@ anerkannten Insolvenzverfahrens ergangen sind.
 
 
 #### § 344 Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037500301)
 
 (1) Wurde im Ausland vor Eröffnung eines Hauptinsolvenzverfahrens ein
 vorläufiger Verwalter bestellt, so kann auf seinen Antrag das
@@ -7961,6 +8391,7 @@ sofortige Beschwerde zu.
 
 
 #### § 345 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037603311)
 
 (1) Sind die Voraussetzungen für die Anerkennung der
 Verfahrenseröffnung gegeben, so hat das Insolvenzgericht auf Antrag
@@ -7987,6 +8418,7 @@ Verwalter die sofortige Beschwerde zu.
 
 
 #### § 346 Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037700301)
 
 (1) Wird durch die Verfahrenseröffnung oder durch Anordnung von
 Sicherungsmaßnahmen nach § 343 Abs. 2 oder § 344 Abs. 1 die
@@ -8020,6 +8452,7 @@ Luftfahrzeugen gelten die Absätze 1 und 2 entsprechend.
 
 
 #### § 347 Nachweis der Verwalterbestellung. Unterrichtung des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037800301)
 
 (1) Der ausländische Insolvenzverwalter weist seine Bestellung durch
 eine beglaubigte Abschrift der Entscheidung, durch die er bestellt
@@ -8037,6 +8470,7 @@ Vermögen des Schuldners.
 Zuständiges Insolvenzgericht.
 
 #### § 348 Zusammenarbeit der Insolvenzgerichte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE037902125)
 
 (1) Für die Entscheidungen nach den §§ 344 bis 346 ist ausschließlich
 das Insolvenzgericht zuständig, in dessen Bezirk die Niederlassung
@@ -8066,6 +8500,7 @@ Antragsteller.
 
 
 #### § 349 Verfügungen über unbewegliche Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038000301)
 
 (1) Hat der Schuldner über einen Gegenstand der Insolvenzmasse, der im
 Inland im Grundbuch, Schiffsregister, Schiffsbauregister oder Register
@@ -8081,6 +8516,7 @@ Pfandrechte an Luftfahrzeugen eingetragen, so bleibt § 106 unberührt.
 
 
 #### § 350 Leistung an den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038100301)
 
 Ist im Inland zur Erfüllung einer Verbindlichkeit an den Schuldner
 geleistet worden, obwohl die Verbindlichkeit zur Insolvenzmasse des
@@ -8092,6 +8528,7 @@ kannte.
 
 
 #### § 351 Dingliche Rechte
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038200301)
 
 (1) Das Recht eines Dritten an einem Gegenstand der Insolvenzmasse,
 der zur Zeit der Eröffnung des ausländischen Insolvenzverfahrens im
@@ -8105,6 +8542,7 @@ bestimmen sich, unbeschadet des § 336 Satz 2, nach deutschem Recht.
 
 
 #### § 352 Unterbrechung und Aufnahme eines Rechtsstreits
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038300301)
 
 (1) Durch die Eröffnung des ausländischen Insolvenzverfahrens wird ein
 Rechtsstreit unterbrochen, der zur Zeit der Eröffnung anhängig ist und
@@ -8120,6 +8558,7 @@ vorläufigen Insolvenzverwalter übergeht.
 
 
 #### § 353 Vollstreckbarkeit ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038400301)
 
 (1) Aus einer Entscheidung, die in dem ausländischen
 Insolvenzverfahren ergeht, findet die Zwangsvollstreckung nur statt,
@@ -8132,10 +8571,12 @@ entsprechend.
 
 
 ### Dritter Abschnitt - Partikularverfahren über das Inlandsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG037101311)
 
 
 
 #### § 354 Voraussetzungen des Partikularverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038501125)
 
 (1) Ist die Zuständigkeit eines deutschen Gerichts zur Eröffnung eines
 Insolvenzverfahrens über das gesamte Vermögen des Schuldners nicht
@@ -8159,6 +8600,7 @@ gilt entsprechend.
 
 
 #### § 355 Restschuldbefreiung. Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038600301)
 
 (1) Im Partikularverfahren sind die Vorschriften über die
 Restschuldbefreiung nicht anzuwenden.
@@ -8170,6 +8612,7 @@ dem Plan zugestimmt haben.
 
 
 #### § 356 Sekundärinsolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038700301)
 
 (1) Die Anerkennung eines ausländischen Hauptinsolvenzverfahrens
 schließt ein Sekundärinsolvenzverfahren über das inländische Vermögen
@@ -8184,6 +8627,7 @@ festgestellt werden muss.
 
 
 #### § 357 Zusammenarbeit der Insolvenzverwalter
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038800301)
 
 (1) Der Insolvenzverwalter hat dem ausländischen Verwalter
 unverzüglich alle Umstände mitzuteilen, die für die Durchführung des
@@ -8202,6 +8646,7 @@ entsprechend.
 
 
 #### § 358 Überschuss bei der Schlussverteilung
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE038900301)
 
 Können bei der Schlussverteilung im Sekundärinsolvenzverfahren alle
 Forderungen in voller Höhe berichtigt werden, so hat der
@@ -8210,10 +8655,12 @@ Verwalter des Hauptinsolvenzverfahrens herauszugeben.
 
 
 ## Dreizehnter Teil - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNG036602311)
 
 
 
 ### § 359 Verweisung auf das Einführungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/inso/BJNR286600994.html#BJNR286600994BJNE035701301)
 
 Dieses Gesetz tritt an dem Tage in Kraft, der durch das
 Einführungsgesetz zur Insolvenzordnung bestimmt wird.

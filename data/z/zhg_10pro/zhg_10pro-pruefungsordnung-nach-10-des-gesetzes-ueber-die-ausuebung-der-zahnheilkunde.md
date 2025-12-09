@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE000800312)
 
 Auf Grund des § 10 Abs. 2 des Gesetzes über die Ausübung der
 Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird mit
@@ -25,6 +26,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE000900312)
 
 Für die Prüfung, die Anwärter des Dentistenberufes nach § 10 des
 Gesetzes über die Ausübung der Zahnheilkunde ablegen, ist nachstehende
@@ -32,6 +34,7 @@ Prüfungsordnung maßgebend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001000312)
 
 (1) Das Prüfungsjahr dauert vom 1. Januar bis 31. Dezember.
 
@@ -41,10 +44,12 @@ September.
 
 
 ## I. - Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000100312)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001100312)
 
 (1) Für die Vorprüfung und die Hauptprüfung wird je ein
 Prüfungsausschuß bei der zuständigen Landesbehörde am Orte des
@@ -76,6 +81,7 @@ bestellen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001200312)
 
 (1) Der Vorsitzende leitet die Prüfung und setzt die Prüfungstermine
 für die einzelnen Fächer fest. Er achtet darauf, daß die Bestimmungen
@@ -93,6 +99,7 @@ entsprechende Anwendung.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001300312)
 
 Von einem Prüfer dürfen in der Regel nicht mehr als vier Prüflinge
 gleichzeitig geprüft werden mit Ausnahme der Prüfung in der
@@ -100,6 +107,7 @@ Zahnersatzkunde.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001400312)
 
 (1) Die Prüfung ist an dem Lehrinstitut abzulegen, an dem die
 Ausbildung des Prüflings beendet worden ist. Sie darf nur vor dem
@@ -113,10 +121,12 @@ hören.
 
 
 ## II. - Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000200312)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001500312)
 
 (1) Das Gesuch um Zulassung zur Prüfung ist an den Vorsitzenden des
 Prüfungsausschusses zu richten.
@@ -127,6 +137,7 @@ bestimmt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001600312)
 
 (1) Dem Gesuch um Zulassung zur Prüfung sind beizufügen:
 
@@ -162,6 +173,7 @@ bestimmt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001700312)
 
 (1) Die Zulassung zur Prüfung ist zu versagen,
 
@@ -193,6 +205,7 @@ herbeizuführen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001800312)
 
 Die für die Zulassung zur Prüfung geforderten Nachweise sind in
 Urschrift vorzulegen. Der Vorsitzende des Prüfungsausschusses kann
@@ -200,6 +213,7 @@ Ausnahmen zulassen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE001900312)
 
 (1) Ist der Prüfling zugelassen, so wird er von dem Vorsitzenden des
 Prüfungsausschusses zur Prüfung spätestens drei Tage vor ihrem Beginn
@@ -211,10 +225,12 @@ Beginn der Prüfung.
 
 
 ## III. - Feststellung des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000300312)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002000312)
 
 Für jedes Prüfungsfach wird von den beteiligten Prüfern auf einem
 Einzelzeugnis ein Urteil abgegeben unter ausschließlicher Verwendung
@@ -223,6 +239,7 @@ genügend" (4).
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002100312)
 
 (1) Über die Prüfung eines jeden Prüflings wird eine Niederschrift
 aufgenommen, in der die Namen der Prüfer, die Prüfungsfächer, die
@@ -235,6 +252,7 @@ dem Einzelzeugnis kurz zu begründen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002200312)
 
 (1) Die Entscheidungen eines Prüfungsausschusses über das Ergebnis der
 Prüfung sind für alle übrigen Prüfungsausschüsse im Geltungsbereich
@@ -246,6 +264,7 @@ zu setzen, die ihrerseits die übrigen Landesbehörden benachrichtigt.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002300312)
 
 (1) Erscheint der Prüfling ohne genügende Entschuldigung in einem
 Prüfungstermin nicht oder nicht rechtzeitig, so gilt die Prüfung in
@@ -269,10 +288,12 @@ zugelassen.
 
 
 ## IV. - Prüfungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000400312)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002400312)
 
 (1) Die Prüfungsgebühren betragen
 
@@ -309,6 +330,7 @@ Prüfungsfächer entfallen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002500312)
 
 (1) Von der Gebühr für die Vorprüfung erhalten der Vorsitzende und
 jeder Prüfer je 10 Deutsche Mark. Auf die sächlichen Kosten und
@@ -360,10 +382,12 @@ diese aus der Gebühr für dieses Prüfungsfach gleiche Anteile.
 
 
 ## V. - Die Vorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000500312)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002600312)
 
 (1) Das Gesuch um Zulassung zur Vorprüfung ist spätestens am 15.
 Januar oder 15. Juli bei dem Vorsitzenden des Prüfungsausschusses
@@ -391,6 +415,7 @@ jeweiligen Dozenten bestätigt ist.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002700312)
 
 Die Vorprüfung umfaßt folgende Fächer:
 
@@ -416,6 +441,7 @@ VI. Hygiene und Bakteriologie.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002800312)
 
 (1) Die Vorprüfung ist in der Regel an vier aufeinanderfolgenden
 Wochentagen abzulegen. Sie soll spätestens innerhalb eines Zeitraums
@@ -456,6 +482,7 @@ Hygiene, der Bakteriologie und der Gesundheitsfürsorge nachzuweisen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE002900312)
 
 (1) Ist ein Prüfungsfach mit "nicht genügend" beurteilt worden, so
 gilt die Prüfung in diesem Fach als nicht bestanden. Sie kann nach
@@ -487,12 +514,14 @@ zugelassen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003000312)
 
 Die Wiederholungsprüfung findet in Anwesenheit des Vorsitzenden des
 Prüfungsausschusses oder seines Stellvertreters statt.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003100312)
 
 Hat der Prüfling in allen Fächern mindestens das Urteil "genügend"
 erhalten und damit die Vorprüfung bestanden, so ermittelt der
@@ -507,6 +536,7 @@ lauten.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003200312)
 
 (1) Über das Ergebnis der Vorprüfung erhält der Prüfling ein Zeugnis
 nach Muster 1. Ist eine Wiederholungsprüfung abzulegen, so sind in das
@@ -526,10 +556,12 @@ fortgesetzt oder die Hauptprüfung abgelegt werden soll.
 
 
 ## VI. - Die Hauptprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000600312)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003300312)
 
 Das Gesuch um Zulassung zur Hauptprüfung ist bei dem Vorsitzenden des
 Prüfungsausschusses bis spätestens 15. Januar oder 15. Juli
@@ -538,6 +570,7 @@ ausreichender Begründung berücksichtigt.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003400312)
 
 (1) Dem Gesuch um Zulassung sind außer den in § 8 genannten folgende
 Nachweise beizufügen:
@@ -573,6 +606,7 @@ beizufügen, in dem der Gang der Ausbildung darzulegen ist.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003500312)
 
 (1) Die Hauptprüfung umfaßt folgende Fächer:
 
@@ -610,6 +644,7 @@ den Prüfern.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003600312)
 
 (1) Die Prüfung in den Zahn-, Mund- und Kieferkrankheiten (I) ist von
 zwei Prüfern abzuhalten und an drei Tagen abzulegen.
@@ -631,6 +666,7 @@ nachzuweisen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003700312)
 
 (1) Die Prüfung in der zahnärztlichen Chirurgie und Röntgendiagnostik
 (II) wird von einem oder zwei Prüfern abgehalten und ist an zwei Tagen
@@ -648,6 +684,7 @@ darzutun.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003800312)
 
 (1) Die Prüfung in der Zahnerhaltungskunde (III) wird von einem Prüfer
 abgehalten und ist an fünf Tagen abzulegen.
@@ -662,6 +699,7 @@ hat er Prüfling Röntgenbilder anzufertigen und auszuwerten.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE003900312)
 
 (1) Die Prüfung in der Zahnersatzkunde (IV) wird von einem Prüfer
 abgehalten und ist in der Regel an acht Tagen abzulegen.
@@ -689,6 +727,7 @@ Zahnersatzes nachzuweisen.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004000312)
 
 Die Prüfung in der Pathologie (V) ist mündlich und wird an einem Tag
 von einem Prüfer abgehalten. Der Prüfling hat darzutun, daß er die für
@@ -698,6 +737,7 @@ besitzt.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004100312)
 
 (1) Die Prüfung in der Kieferorthopädie (VI) wird von einem Prüfer
 abgehalten und ist an zwei Tagen abzulegen.
@@ -711,6 +751,7 @@ Apparatur selbst anzufertigen.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004200312)
 
 Die Prüfung in der Arzneimittellehre (VII) wird an einem Tag von einem
 Prüfer abgehalten. Der Prüfling hat in Gegenwart des Prüfers einige
@@ -720,6 +761,7 @@ Zahnarzt erforderlichen Kenntnisse hat.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004300312)
 
 Jeder Prüfer stellt für jeden Prüfling ein Einzelzeugnis mit Urteil
 nach § 12 aus und übersendet es alsbald dem Vorsitzenden des
@@ -731,6 +773,7 @@ verbleibender Bruch wird als ein Ganzes gerechnet.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004400312)
 
 (1) Ist ein Prüfungsfach mit "nicht genügend" beurteilt worden, so
 gilt die Prüfung in diesem Fach als nicht bestanden. Sie kann nach
@@ -761,12 +804,14 @@ zugelassen.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004500312)
 
 Die Wiederholungsprüfungen müssen in Gegenwart des Vorsitzenden des
 Prüfungsausschusses oder seines Stellvertreters stattfinden.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004600312)
 
 (1) Die mit dem Zulassungsgesuch eingereichten Nachweise sind dem
 Prüfling erst nach Beendigung der Prüfung zurückzugeben. Auf Verlangen
@@ -783,6 +828,7 @@ der Zeugnisse von Amts wegen gemäß Absatz 1 erfolgen.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004700312)
 
 (1) Hat der Prüfling in sämtlichen Prüfungsfächern mindestens das
 Urteil "genügend" erhalten und damit die Hauptprüfung bestanden, so
@@ -810,10 +856,12 @@ Prüfungsausschusses dem Prüfling ein Zeugnis nach Muster 3 aus.
 
 
 ## VII. - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNG000700312)
 
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004800312)
 
 (1) Nach Empfang des Prüfungszeugnisses (§ 39 Abs. 3) kann der
 Prüfling die Erteilung der Bestallung als Zahnarzt bei der in § 39
@@ -827,6 +875,7 @@ Lebensjahres, auszustellen.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE004900312)
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) in Verbindung mit § 21 des Gesetzes über die
@@ -835,17 +884,20 @@ Ausübung der Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005000312)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005100312)
 
 Der Bundesminister des Innern
 
 (zu § 24 Abs. 1 erster Satz)
 
 ### Anlage 1 (Muster 1)
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005200312)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 25)
 Zeugnis
@@ -893,6 +945,7 @@ abzulegen hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
 (zu § 24 Abs. 1 letzter Satz)
 
 ### Anlage 2 (Muster 2)
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005300312)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 26)
 Zeugnis
@@ -945,6 +998,7 @@ hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
 (zu § 39 Abs. 3)
 
 ### Anlage 3 (Muster 3)
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005400312)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 27)
 Zeugnis
@@ -972,6 +1026,7 @@ des Prüfungsausschusses)
 (zu § 40 Abs. 2)
 
 ### Anlage 4 (Muster 4)
+[Direktlink](https://www.gesetze-im-internet.de/zhg_10pro/BJNR000190954.html#BJNR000190954BJNE005500312)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 27)
 der

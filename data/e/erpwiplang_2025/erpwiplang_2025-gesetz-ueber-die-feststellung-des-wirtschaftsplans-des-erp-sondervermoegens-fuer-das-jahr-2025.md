@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die §§ 2 bis 5 treten gem. § 6 am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2026, frühestens jedoch am 31.12.2025, außer Kraft
 
 ## § 1 Feststellung des Wirtschaftsplans des ERP-Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000100000)
 
 Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2025, der
 diesem Gesetz als Anlage beigefügt und nach § 8 Absatz 1 Satz 1 des
@@ -30,6 +31,7 @@ festgestellt.
 
 
 ## § 2 Ermächtigung zur Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000200000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 Kredite bei der Kreditanstalt für Wiederaufbau bis zu der Höhe von 30
@@ -37,6 +39,7 @@ Prozent des in § 1 festgestellten Betrages aufzunehmen.
 
 
 ## § 3 Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000300000)
 
 Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen
 und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel
@@ -46,6 +49,7 @@ nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
 
 
 ## § 4 Übernahme von Gewährleistungen
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000400000)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz wird
 ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen
@@ -75,6 +79,7 @@ anzurechnen.
 
 
 ## § 5 Vom Verwendungszweck ausgenommene Beträge
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000500000)
 
 Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und
 Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des
@@ -82,6 +87,7 @@ ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
 
 
 ## § 6 Befristung
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000600000)
 
 Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-
 Wirtschaftsplangesetzes 2026, frühestens jedoch am 31. Dezember 2025,
@@ -89,12 +95,14 @@ außer Kraft.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000700000)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 
 (zu § 1)
 
 ## Anlage Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
+[Direktlink](https://www.gesetze-im-internet.de/erpwiplang_2025/BJNR0350A0025.html#BJNR0350A0025BJNE000800000)
 
 (Fundstelle: BGBl. 2025 I Nr. 53, S. 4 - 18)
 

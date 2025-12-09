@@ -24,16 +24,19 @@ vom 22. Dezember 1999 über den Verkehr mit forstlichem Vermehrungsgut
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000000000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000100000)
 
 
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000200000)
 
 (1) Zweck des Gesetzes ist, den Wald mit seinen vielfältigen positiven
 Wirkungen durch die Bereitstellung von hochwertigem und
@@ -59,6 +62,7 @@ werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000300000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -265,6 +269,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 3 Ermächtigung zur Änderung der Baumartenliste
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000403118)
 
 Das Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
@@ -276,10 +281,12 @@ Europäischen Union erforderlich ist.
 
 
 ## Abschnitt 2 - Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000200000)
 
 
 
 ### § 4 Zulassung von Ausgangsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000500000)
 
 (1) Ausgangsmaterial zur Erzeugung von forstlichem Vermehrungsgut, das
 in den Verkehr gebracht werden soll, bedarf der Zulassung. Es dürfen
@@ -345,6 +352,7 @@ Zusammensetzung und das Verfahren der Gutachterausschüsse regeln.
 
 
 ### § 5 Herkunftsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000600000)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Herkunftsgebiete für Ausgangsmaterial der
@@ -359,6 +367,7 @@ eindeutige Zuordnung zu gewährleisten.
 
 
 ### § 6 Register und Liste über zugelassenes Ausgangsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000700000)
 
 (1) Die Zulassungseinheiten werden in ein Register, getrennt nach
 Baumart, Art des Ausgangsmaterials, Kategorie und Zweck, von der
@@ -389,10 +398,12 @@ näher zu bestimmen.
 
 
 ## Abschnitt 3 - Erzeugung
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000300000)
 
 
 
 ### § 7 Erzeugung von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000800000)
 
 (1) Forstliches Vermehrungsgut, das in den Verkehr gebracht werden
 soll, darf nur von angemeldeten Forstsamen- oder
@@ -442,6 +453,7 @@ Rechtsverordnung auf andere Behörden übertragen.
 
 
 ### § 8 Stammzertifikat
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE000900000)
 
 (1) Material, das als forstliches Vermehrungsgut dienen kann, darf vom
 Ort des Ausgangsmaterials, der vegetativen Vermehrung oder der
@@ -459,6 +471,7 @@ zu bestimmen.
 
 
 ### § 9 Trennung, Mischung und Kennzeichnung von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001000000)
 
 (1) Forstliches Vermehrungsgut, das in den Verkehr gebracht werden
 soll, ist durch die Forstsamen- oder Forstpflanzenbetriebe zum Zweck
@@ -485,6 +498,7 @@ näher zu regeln.
 
 
 ### § 10 Trennung und Kennzeichnung von sonstigem Material
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001100000)
 
 Zapfen, Fruchtstände, Früchte und Samen, die nicht zur Aussaat im Wald
 oder zur Erzeugung von Pflanzgut bestimmt sind, sowie Vermehrungsgut
@@ -498,10 +512,12 @@ aufzuzeichnen.
 
 
 ## Abschnitt 4 - Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000400000)
 
 
 
 ### § 11 Inverkehrbringen von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001200000)
 
 (1) Forstliches Vermehrungsgut darf nur unter Beachtung der
 Vorschriften des § 7 zur Erzeugung und nur von angemeldeten
@@ -523,6 +539,7 @@ ersten Öffnen unbrauchbar wird.
 
 
 ### § 12 Anforderungen an die äußere Beschaffenheit von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001300000)
 
 (1) Partien von Früchten und Samen dürfen nur dann in den Verkehr
 gebracht werden, wenn sie eine Artreinheit von mindestens 99 vom
@@ -547,6 +564,7 @@ bestimmt wird.
 
 
 ### § 13 Verkehrsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001401377)
 
 (1) Forstliches Vermehrungsgut der Kategorie "Quellengesichert" darf
 an Endverbraucher im Inland nur für nicht forstliche Zwecke und nur
@@ -564,6 +582,7 @@ Vermehrungsgutes jedem Erwerber bei der Veräußerung mitzuteilen.
 
 
 ### § 14 Lieferpapiere
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001500000)
 
 (1) Forstliches Vermehrungsgut darf nur in Partien in den Verkehr
 gebracht werden, die
@@ -640,10 +659,12 @@ zu regeln.
 
 
 ## Abschnitt 5 - Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000500000)
 
 
 
 ### § 15 Einfuhr von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001600000)
 
 (1) Forstliches Vermehrungsgut darf nur eingeführt werden, wenn
 
@@ -703,6 +724,7 @@ das Verfahren näher zu regeln.
 
 
 ### § 16 Ausfuhr von forstlichem Vermehrungsgut
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001700000)
 
 (1) Die Ausfuhr von forstlichem Vermehrungsgut ist vom Absender unter
 Beifügung einer zollamtlich abgefertigten Ausfuhrbestätigung der
@@ -715,10 +737,12 @@ Vereinbarungen erstellen.
 
 
 ## Abschnitt 6 - Herkunfts- und Identitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000600000)
 
 
 
 ### § 17 Anforderungen an Forstsamen- oder Forstpflanzenbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001800000)
 
 (1) Forstsamen- oder Forstpflanzenbetriebe haben die Aufnahme und die
 Beendigung ihres Betriebs unter Angabe des Namens und der Anschrift
@@ -795,6 +819,7 @@ Gesetzes verwendet werden.
 
 
 ### § 18 Überwachung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE001900000)
 
 (1) Die Landesstellen haben die Durchführung dieses Gesetzes und der
 auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen.
@@ -840,6 +865,7 @@ völkerrechtlich verbindlichen Vereinbarungen näher zu bestimmen.
 
 
 ### § 19 Überwachung der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002000000)
 
 (1) Die Bundesanstalt überwacht die Einfuhr von Vermehrungsgut. § 18
 Abs. 2 bis 6 gilt entsprechend. Das Bundesministerium der Finanzen und
@@ -882,6 +908,7 @@ Bundesanzeiger bekannt gegeben.
 
 
 ### § 20 Zusammenarbeit zwischen den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002100000)
 
 (1) Die Bundesanstalt übermittelt den amtlichen Stellen anderer
 Mitgliedstaaten der Europäischen Union unmittelbar die notwendigen
@@ -901,6 +928,7 @@ mitteilen.
 
 
 ### § 21 Ausnahmetatbestände
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002200000)
 
 Die Bundesanstalt kann, abweichend von § 1 Abs. 2, auf Antrag
 Erzeugung, Inverkehrbringen und Einfuhr erlauben für
@@ -931,10 +959,12 @@ werden kann.
 
 
 ## Abschnitt 7 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNG000700000)
 
 
 
 ### § 22 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002300000)
 
 Wer entgegen § 14 Abs. 1 Nr. 3 Buchstabe a Vermehrungsgut in Verkehr
 bringt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
@@ -942,6 +972,7 @@ bestraft.
 
 
 ### § 23 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002400000)
 
 (1) Ordnungswidrig handelt, wer eine in § 22 bezeichnete Handlung
 fahrlässig begeht.
@@ -1049,6 +1080,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ### § 24 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002500000)
 
 (1) Forstliches Vermehrungsgut, das dem Gesetz über forstliches Saat-
 und Pflanzgut in der Fassung der Bekanntmachung vom 26. Juli 1979
@@ -1070,6 +1102,7 @@ zum 31. Dezember 2009 in den Verkehr gebracht werden.
 
 
 ### § 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002600000)
 
 Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen,
 treten am Tage nach der Verkündung in Kraft. Im Übrigen tritt dieses
@@ -1078,6 +1111,7 @@ Gesetz am 1. Januar 2003 in Kraft.
 (zu § 2 Nr. 1)
 
 ### Anlage Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/fovg/BJNR165800002.html#BJNR165800002BJNE002700000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1666
 

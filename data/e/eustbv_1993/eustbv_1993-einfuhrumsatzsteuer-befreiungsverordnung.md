@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000100314)
 
 Auf Grund des Artikels 3 des Vierzehnten Gesetzes zur Änderung des
 Zollgesetzes vom 3. August 1973 (BGBl. I S. 933), der durch Artikel 2
@@ -28,6 +29,7 @@ gefaßt worden ist, verordnet der Bundesminister der Finanzen:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000204123)
 
 (1) Einfuhrumsatzsteuerfrei ist, vorbehaltlich der §§ 2 bis 10, die
 Einfuhr von Gegenständen, die nach Kapitel I und III der Verordnung
@@ -93,6 +95,7 @@ werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
 
 ## § 2 Investitionsgüter und andere Ausrüstungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000300314)
 
 Die Einfuhrumsatzsteuerfreiheit für Investitionsgüter und andere
 Ausrüstungsgegenstände (Artikel 32 bis 38 der in § 1 Abs. 1 genannten
@@ -114,6 +117,7 @@ Verordnung) ist ausgeschlossen für Gegenstände, die
 
 
 ## § 3 Landwirtschaftliche Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000401301)
 
 Die Einfuhrumsatzsteuerfreiheit für bestimmte landwirtschaftliche
 Erzeugnisse (Artikel 39 bis 42 der in § 1 Abs. 1 genannten Verordnung)
@@ -124,6 +128,7 @@ danach vorübergehend ausgeführt worden war.
 
 
 ## § 4 Gegenstände erzieherischen, wissenschaftlichen oder kulturellen Charakters
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000500314)
 
 Die Einfuhrumsatzsteuerfreiheit für Gegenstände erzieherischen,
 wissenschaftlichen oder kulturellen Charakters im Sinne der Artikel 50
@@ -144,6 +149,7 @@ Gegenstände
 
 
 ## § 5 Tiere für Laborzwecke
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000600314)
 
 Die Einfuhrumsatzsteuerfreiheit für Tiere für Laborzwecke (Artikel 60
 Abs. 1 Buchstabe a und Abs. 2 der in § 1 Abs. 1 genannten Verordnung)
@@ -151,6 +157,7 @@ hängt davon ab, daß die Tiere unentgeltlich eingeführt werden.
 
 
 ## § 6 Gegenstände für Organisationen der Wohlfahrtspflege
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000700314)
 
 (1) Die Einfuhrumsatzsteuerfreiheit für lebenswichtige Gegenstände
 (Artikel 65 Abs. 1 Buchstabe a der in § 1 Abs. 1 genannten Verordnung)
@@ -166,6 +173,7 @@ werden.
 
 
 ## § 7 Werbedrucke
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000800314)
 
 (1) Die Einfuhrumsatzsteuerfreiheit für Werbedrucke (Artikel 92
 Buchstabe b der in § 1 Abs. 1 genannten Verordnung) gilt für
@@ -182,6 +190,7 @@ ausgehen.
 
 
 ## § 8 Werbemittel für den Fremdenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE000900314)
 
 Die Einfuhrumsatzsteuerfreiheit für Werbematerial für den
 Fremdenverkehr (Artikel 108 Buchstabe a und b der in § 1 Abs. 1
@@ -192,6 +201,7 @@ nicht übersteigt.
 
 
 ## § 9 Amtliche Veröffentlichungen, Wahlmaterialien
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001000314)
 
 Einfuhrumsatzsteuerfrei ist die Einfuhr der amtlichen
 Veröffentlichungen, mit denen das Ausfuhrland und die dort
@@ -205,6 +215,7 @@ die vom Herkunftsland aus organisiert werden, verteilen.
 
 
 ## § 10 Behältnisse und Verpackungen
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001100314)
 
 (1) Die Einfuhrumsatzsteuerfreiheit von Verpackungsmitteln (Artikel
 110 der in § 1 Abs. 1 genannten Verordnung) hängt davon ab, daß ihr
@@ -219,6 +230,7 @@ selbständigen Gebrauchswert haben.
 
 
 ## § 11 Vorübergehende Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001202301)
 
 (1) Artikel 572 Abs. 1 der Durchführungsverordnung zum Zollkodex gilt
 mit der Maßgabe, dass die hergestellten Gegenstände aus dem Zollgebiet
@@ -238,6 +250,7 @@ verzichtet werden.
 
 
 ## § 12 Rückwaren
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001301301)
 
 Die Einfuhrumsatzsteuerfreiheit von Rückwaren (Artikel 185 bis 187
 Zollkodex) ist ausgeschlossen, wenn der eingeführte Gegenstand
@@ -261,6 +274,7 @@ Vorsteuerabzug berechtigt ist.
 
 
 ## § 12a Freihafenlagerung
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001801377)
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Gegenständen, die als
 Gemeinschaftswaren ausgeführt und in einem Freihafen vorübergehend
@@ -297,6 +311,7 @@ Wiedereinfuhr ist der Zwischenschein als Steueranmeldung zu verwenden.
 
 
 ## § 12b Freihafen-Veredelung
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001901377)
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Gegenständen, die in
 einem Freihafen veredelt worden sind, sofern die bei der Veredelung
@@ -341,6 +356,7 @@ Zollstelle zu stellen.
 
 
 ## § 13 Fänge deutscher Fischer
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001400314)
 
 (1) Einfuhrumsatzsteuerfrei ist die Einfuhr von Fängen von Fischern,
 die in der Bundesrepublik Deutschland wohnen und von deutschen
@@ -354,6 +370,7 @@ geliefert worden sind.
 
 
 ## § 14 Erstattung oder Erlaß
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001501301)
 
 (1) Die Einfuhrumsatzsteuer wird erstattet oder erlassen in den in den
 Artikeln 235 bis 242 Zollkodex bezeichneten Fällen in sinngemäßer
@@ -367,6 +384,7 @@ Zollkodex.
 
 
 ## § 15 Absehen von der Festsetzung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001701301)
 
 Die Einfuhrumsatzsteuer wird nicht festgesetzt für Gegenstände, die
 nur der Einfuhrumsatzsteuer unterliegen, wenn sie weniger als 10 Euro
@@ -375,6 +393,7 @@ abgezogen werden könnte.
 
 
 ## § 16 Inkrafttreten, abgelöste Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/eustbv_1993/BJNR015260992.html#BJNR015260992BJNE001600314)
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
 

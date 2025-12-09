@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980_bernbek/BJNR381900009.html#BJNR381900009BJNE000100000)
 
 Der Deutsche Bundestag hat in seiner konstituierenden Sitzung am 27.
 Oktober 2009 beschlossen, die Geschäftsordnung des Deutschen
@@ -29,6 +30,7 @@ anzupassen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980_bernbek/BJNR381900009.html#BJNR381900009BJNE000200000)
 
 Der Präsident des Deutschen Bundestages
 

@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -37,17 +38,20 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000200000)
 
 Der Ausbildungsberuf Chemikant/Chemikantin wird nach § 4 Absatz 1 des
 Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000300000)
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000401125)
 
 Die Berufsausbildung gliedert sich in:
 
@@ -63,6 +67,7 @@ Die Berufsausbildung gliedert sich in:
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000501125)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -223,6 +228,7 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000601125)
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
@@ -240,6 +246,7 @@ erstellen.
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000700000)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -261,6 +268,7 @@ Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000800000)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -439,6 +447,7 @@ Vorgaben:
 
 
 ## § 8 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE000900000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sowie
@@ -599,6 +608,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE001000000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -683,6 +693,7 @@ bewertet worden sind.
 
 
 ## § 10 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE001100000)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
 Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
@@ -696,12 +707,14 @@ zu gewichten.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 (zu § 4 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
+[Direktlink](https://www.gesetze-im-internet.de/chemikausbv_2009/BJNR136000009.html#BJNR136000009BJNE001401125)
 
 (Fundstelle: BGBl. I 2009, 1364 - 1373; bzgl. einzelner Änderungen
 vgl. Fußnote)

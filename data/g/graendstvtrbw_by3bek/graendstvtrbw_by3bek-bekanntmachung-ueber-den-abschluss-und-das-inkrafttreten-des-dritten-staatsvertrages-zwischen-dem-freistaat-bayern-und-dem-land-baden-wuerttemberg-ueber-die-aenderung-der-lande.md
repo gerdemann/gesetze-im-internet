@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrbw_by3bek/BJNR047200997.html#BJNR047200997BJNE000100310)
 
 Zwischen dem Freistaat Bayern und dem Land Baden-Württemberg wurde am
 3\. September 1996 der Dritte Staatsvertrag über die Änderung der

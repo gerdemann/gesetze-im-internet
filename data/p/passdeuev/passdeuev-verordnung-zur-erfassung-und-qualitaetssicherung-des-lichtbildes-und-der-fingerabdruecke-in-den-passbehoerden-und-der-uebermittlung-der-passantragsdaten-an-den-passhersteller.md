@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000100000)
 
 (1) Diese Verordnung regelt die technischen Anforderungen und
 Verfahren für die elektronische Erfassung des Lichtbildes und der
@@ -36,6 +37,7 @@ dieser Rechtsverordnung geregelt sind.
 
 
 ## § 1a Fertigung und Übermittlung des Lichtbilds durch ein sicheres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001000130)
 
 (1) In Fällen, in denen ein Pass bei einer Passbehörde nach § 19
 Absatz 1 des Passgesetzes beantragt wird, kann die antragstellende
@@ -61,6 +63,7 @@ anfertigt, die zur Vorlage bei einer Passbehörde bestimmt sind.
 
 
 ## § 1b Übermittlung des Lichtbilds unter Einbindung eines Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001100130)
 
 (1) Bei einer Übermittlung nach § 1a Absatz 2 Nummer 1 übermittelt der
 Dienstleister das Lichtbild an einen Cloudanbieter und übergibt der
@@ -85,6 +88,7 @@ und ausschließlich im Gebiet der Europäischen Union erfolgen.
 
 
 ## § 1c Registrierung und Identifizierung eines Dienstleisters bei einem Cloudanbieter
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001200130)
 
 (1) Dienstleister haben sich bei einem Cloudanbieter mit einem
 Nutzerkonto zu registrieren. Bei der Registrierung ist ein Nachweis
@@ -148,6 +152,7 @@ Stelle ein.
 
 
 ## § 1d Pflichten des Cloudanbieters
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001300130)
 
 (1) Der Cloudanbieter dokumentiert zum Zwecke der Nachverfolgbarkeit
 des Übermittlungsvorgangs eines erstellten und übermittelten
@@ -201,6 +206,7 @@ durch den Cloudanbieter gelöscht werden.
 
 
 ## § 1e Übermittlung des Lichtbilds von einem Lichtbildaufnahmegerät eines Dienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001400130)
 
 (1) Bei einer Übermittlung nach § 1a Absatz 2 Nummer 2 fertigt der
 Dienstleister das Lichtbild durch sein Lichtbildaufnahmegerät an, das
@@ -216,6 +222,7 @@ die Kennung des verwendeten Lichtbildaufnahmegeräts ein.
 
 
 ## § 1f Fertigung des Lichtbilds durch die Passbehörde
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE001500130)
 
 (1) Wird das Lichtbild von der Passbehörde mit einem eigenen
 Lichtbildaufnahmegerät gefertigt, trägt die Passbehörde im
@@ -233,6 +240,7 @@ längstens jedoch für 96 Stunden nach dessen Anfertigung.
 
 
 ## § 2 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000203130)
 
 (1) Die Passbehörde hat durch geeignete technische und
 organisatorische Maßnahmen die erforderliche Qualität der Erfassung
@@ -263,6 +271,7 @@ veröffentlichten Fassung.
 
 
 ## § 3 Übermittlung der Daten an den Passhersteller
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000305116)
 
 (1) Nach der Erfassung werden sämtliche Passantragsdaten in den
 Passbehörden zu einem digitalen Datensatz zusammengeführt und an den
@@ -334,6 +343,7 @@ sich nach dem jeweiligen Landesrecht.
 
 
 ## § 4 Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000404129)
 
 (1) Die Systemkomponenten der Passbehörden, des Passherstellers und
 der Dienstleister, die Lichtbildaufnahmegeräte im Sinne des § 1a
@@ -354,6 +364,7 @@ jeweils geltenden Fassung.
 
 
 ## § 5 Qualitätsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000502116)
 
 Der Passhersteller erstellt eine Qualitätsstatistik. Sie enthält
 anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die
@@ -365,6 +376,7 @@ für Bau und Heimat und dem BSI zur Verfügung.
 
 
 ## § 6 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000703310)
 
 Passbehörden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung
 bereits ein Verfahren zur elektronischen Datenübertragung betreiben,
@@ -374,6 +386,7 @@ Datenaustauschformat (XPass) beruht, können dieses Verfahren bis zum
 
 
 ## Anlage 1 Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000802130)
 
 (Fundstelle: BGBl. I 2010, 1455;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -406,6 +419,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2 Übersicht über die zu zertifizierenden Systemkomponenten
+[Direktlink](https://www.gesetze-im-internet.de/passde_v/BJNR231210007.html#BJNR231210007BJNE000901130)
 
 (Fundstelle: BGBl. I 2010, 1456;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

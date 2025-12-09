@@ -23,9 +23,11 @@ Mittelbare änderung durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000201123)
 
 Im Sinn dieser Verordnung ist
 
@@ -99,6 +101,7 @@ Im Sinn dieser Verordnung ist
 
 
 ### § 1a Hauptzollamt; örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE006600123)
 
 Soweit in dieser Verordnung oder in der
 Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
@@ -120,9 +123,11 @@ für den Anwendungsbereich dieser Verordnung
 
 
 ## Abschnitt 2 - Zu § 1 Absatz 4 Nummer 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000200000)
 
 
 ### § 2 Alkoholgehalt, steuerbare Menge
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000300000)
 
 (1) Der Alkoholgehalt bestimmt sich bei Schaumwein in Fertigpackungen
 nach den Angaben auf den Fertigpackungen, es sei denn, diese Angaben
@@ -135,9 +140,11 @@ Raumgehalt der Umschließung.
 
 
 ## Abschnitt 3 - Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000301123)
 
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000401123)
 
 (1) Das Steuerlager nach § 4 des Gesetzes umfasst die Gesamtheit der
 baulich zueinander gehörenden Räume, in denen sich die Einrichtungen
@@ -183,6 +190,7 @@ Steueraufsicht bestimmen, dass
 
 
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000502123)
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 5 des
 Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim
@@ -214,6 +222,7 @@ betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
 
 
 ### § 5 Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000602123)
 
 (1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten
@@ -264,6 +273,7 @@ Absätze 1 bis 3 bleiben unberührt.
 
 
 ### § 6 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000702123)
 
 (1) Das Hauptzollamt legt die Höhe der Sicherheitsleistung unter
 Berücksichtigung des § 5 Absatz 1 Satz 4 des Gesetzes fest. Es
@@ -278,6 +288,7 @@ unberührt.
 
 
 ### § 6a Überprüfung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE006700123)
 
 Das Hauptzollamt überprüft unbeschadet anlassbezogener
 Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
@@ -289,6 +300,7 @@ oder der Neuerteilung durchgeführt.
 
 
 ### § 7 Änderung von Verhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000801123)
 
 (1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach
 § 4 Absatz 1 und 2 Satz 1 angegebenen Verhältnisse vor der Änderung
@@ -367,6 +379,7 @@ schriftlich anzuzeigen:
 
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE000901123)
 
 (1) Die Erlaubnis nach § 5 erlischt unbeschadet des § 124 Absatz 2 der
 Abgabenordnung durch
@@ -496,6 +509,7 @@ Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ### § 9 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001001123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -515,6 +529,7 @@ aufgezeichnet werden.
 
 
 ### § 10 Vollständige Zerstörung; unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001103123)
 
 (1) Ist Schaumwein unbeabsichtigt vollständig zerstört worden oder
 vollständig oder teilweise unwiederbringlich verloren gegangen, hat
@@ -540,6 +555,7 @@ nach § 18 für die Beförderung geleistete Sicherheit freigegeben.
 
 
 ### § 11 Bestandsaufnahme im Steuerlager
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001201123)
 
 (1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
 Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines
@@ -574,6 +590,7 @@ wird.
 
 
 ### § 11a Amtliche Bescheinigung für unabhängige Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE008000123)
 
 (1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige
 Hersteller zur Gewährung ermäßigter Steuersätze in anderen
@@ -621,9 +638,11 @@ Bemessung der Mengen nach Satz 1 zu berücksichtigen.
 
 
 ## Abschnitt 4 - Zu § 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000400000)
 
 
 ### § 12 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001304123)
 
 (1) Wer als registrierter Empfänger nach § 6 Absatz 1 Satz 1 Nummer 1
 des Gesetzes Schaumwein unter Steueraussetzung nicht nur gelegentlich
@@ -690,9 +709,11 @@ Absatz 2 Satz 4 des Gesetzes zu leisten.
 
 
 ## Abschnitt 5 - Zu § 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000500000)
 
 
 ### § 13 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001404123)
 
 (1) Wer als registrierter Versender nach § 7 Absatz 1 des Gesetzes
 Schaumwein vom Ort der Einfuhr unter Steueraussetzung versenden will,
@@ -746,9 +767,11 @@ entsprechend.
 
 
 ## Abschnitt 6 - Zu den §§ 8 und 28 Nummer 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000600000)
 
 
 ### § 14 Begünstigte, Ausstellen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001503123)
 
 (1) Ein Begünstigter, der Schaumwein unter Steueraussetzung empfangen
 will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung
@@ -810,9 +833,11 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 
 ## Abschnitt 7 - Zu den §§ 9 bis 12 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000700000)
 
 
 ### § 15 Teilnahme am EDV-gestützten Beförderungs und Kontrollsystem; Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001602123)
 
 Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -834,6 +859,7 @@ Voraussetzungen und Rahmenbedingungen einzuhalten.
 
 
 ### § 16 Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001703123)
 
 (1) Soll Schaumwein unter Steueraussetzung befördert werden aus einem
 Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet
@@ -890,6 +916,7 @@ ein registrierter Empfänger ist.
 
 
 ### § 17 Mitführen der Freistellungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001800000)
 
 Wird Schaumwein unter Steueraussetzung zu Begünstigten befördert, hat
 der Beförderer während der Beförderung eine dem Versender nach § 14
@@ -900,6 +927,7 @@ erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
 
 ### § 18 Art und Höhe der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE001900000)
 
 (1) Die Sicherheit für Beförderungen von Schaumwein unter
 Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder
@@ -921,6 +949,7 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 
 ### § 19 Annullierung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002002123)
 
 (1) Der Versender kann das elektronische Verwaltungsdokument
 annullieren, solange die Beförderung des Schaumweins noch nicht
@@ -947,6 +976,7 @@ Annullierungsmeldung an diesen weiter.
 
 
 ### § 20 Änderung des Bestimmungsorts oder des Empfängers von Schaumwein bei Verwendung des elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002102123)
 
 (1) Während der Beförderung des Schaumweins unter Steueraussetzung
 kann der Versender den Bestimmungsort oder den Empfänger des
@@ -990,6 +1020,7 @@ geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 
 
 ### § 21 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002203123)
 
 (1) Nach der Aufnahme des Schaumweins, auch von Teilmengen, an einem
 Bestimmungsort, der in § 10 Absatz 1 Nummer 1 und § 11 Absatz 1 Nummer
@@ -1084,6 +1115,7 @@ Versender den Bestimmungsort oder den Empfänger des Schaumweins.
 
 
 ### § 22 Beförderungen im Steuergebiet in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002303123)
 
 (1) Bei Beförderungen von Schaumwein unter Steueraussetzung zwischen
 Steuerlagern eines Steuerlagerinhabers im Steuergebiet oder, wenn der
@@ -1130,6 +1162,7 @@ entsprechend.
 
 
 ### § 23 Beförderungen im Steuergebiet in Betriebe von Verwendern
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002403123)
 
 (1) Für Beförderungen von Schaumwein unter Steueraussetzung in
 Betriebe von Verwendern nach § 23a Absatz 1 des Gesetzes hat der
@@ -1207,6 +1240,7 @@ versendendem Schaumwein Verschlussmaßnahmen anordnen.
 
 
 ### § 24 Beginn einer Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002503123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender abweichend von § 16 nur dann eine
@@ -1271,6 +1305,7 @@ Für die Eingangs- und Ausfuhrmeldung ist § 21 anzuwenden.
 
 
 ### § 25 Annullierung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002602123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender das elektronische Verwaltungsdokument
@@ -1294,6 +1329,7 @@ entsprechend.
 
 
 ### § 26 Änderung des Bestimmungsorts oder des Empfängers von Schaumwein im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002702123)
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung, kann der Versender den Bestimmungsort oder den Empfänger
@@ -1331,6 +1367,7 @@ die Vorlage der zweiten Ausfertigung des Änderungsdokuments gelten §
 
 
 ### § 27 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002803123)
 
 (1) Kann der Empfänger die Eingangsmeldung nach § 21 Absatz 1 nach
 Beendigung einer Beförderung unter Steueraussetzung nicht innerhalb
@@ -1410,6 +1447,7 @@ gilt entsprechend.
 
 
 ### § 28 Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE002901123)
 
 (1) Liegt kein Nachweis nach § 21 Absatz 6 vor, bestätigt das für den
 Empfänger zuständige Hauptzollamt oder das Hauptzollamt, in dessen
@@ -1442,9 +1480,11 @@ Verordnung zum Unionszollkodex vorgesehen war.
 
 
 ## Abschnitt 8 - Zu den §§ 13 und 14 Absatz 3 und 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000801123)
 
 
 ### § 29 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003003123)
 
 (1) Werden beim Empfänger im Steuergebiet Abweichungen festgestellt,
 entscheidet das Hauptzollamt über die steuerliche Behandlung von
@@ -1470,9 +1510,11 @@ der Feststellung der Unregelmäßigkeit gegenüber dem Steuerschuldner.
 
 
 ## Abschnitt 9 - Zu den §§ 14 und 15 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG000900000)
 
 
 ### § 30 Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003102123)
 
 (1) Die Steueranmeldung nach § 15 Absatz 1 und 2 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben. Das Hauptzollamt kann
@@ -1497,6 +1539,7 @@ Abgabenordnung entsprechend.
 
 
 ### § 30a Herstellung von Schaumwein außerhalb eines Steuerlagers
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE006800123)
 
 (1) Wer Schaumwein ohne Erlaubnis als Steuerlagerinhaber zu
 gewerblichen Zwecken herstellt oder herstellen will, hat dies vor dem
@@ -1545,9 +1588,11 @@ letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
 
 ## Abschnitt 10 - Zu § 156 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001000000)
 
 
 ### § 31 Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003202123)
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird
 vom Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
@@ -1556,9 +1601,11 @@ oder Steuerentlastung mindestens 25 Euro beträgt.
 
 
 ## Abschnitt 11 - Zu § 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001101123)
 
 
 ### § 32 Anmeldung des Schaumweins
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003301123)
 
 Schaumwein aus Drittländern oder Drittgebieten ist in den Fällen der
 Einfuhr nach den Zollvorschriften mit den für die Besteuerung
@@ -1567,9 +1614,11 @@ Steuererklärung ist in der Zollanmeldung abzugeben.
 
 
 ## Abschnitt 12 - Zu § 19 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001200000)
 
 
 ### § 33 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003402123)
 
 (1) Werden mehr als 60 Liter Schaumwein nach § 19 des Gesetzes zu
 privaten Zwecken in das Steuergebiet befördert, wird widerleglich
@@ -1582,9 +1631,11 @@ Eigenbedarf nach § 19 des Gesetzes.
 
 
 ## Abschnitt 13 - Zu den §§ 20 bis 20c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001301123)
 
 
 ### § 34 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003501123)
 
 (1) Wer als zertifizierter Empfänger nach § 20a Absatz 1 Satz 1 Nummer
 1 des Gesetzes Schaumwein des steuerrechtlich freien Verkehrs nicht
@@ -1686,6 +1737,7 @@ unter § 36 fällt.
 
 
 ### § 34a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE006900123)
 
 (1) Wer als zertifizierter Versender nach § 20b Absatz 1 Satz 1 Nummer
 1 des Gesetzes Schaumwein des steuerrechtlich freien Verkehrs nicht
@@ -1769,6 +1821,7 @@ Beförderung nicht unter § 33 oder unter § 36 fällt.
 
 
 ### § 34b Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007000123)
 
 (1) Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
 unter welchen Voraussetzungen und nach welchen Rahmenbedingungen
@@ -1799,6 +1852,7 @@ zulassen. Die Zulassung erfolgt im Rahmen der jeweiligen Erlaubnis.
 
 
 ### § 34c Erstellen des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007100123)
 
 (1) Soll Schaumwein des steuerrechtlich freien Verkehrs nach diesem
 Abschnitt aus dem Steuergebiet befördert werden
@@ -1838,6 +1892,7 @@ zertifizierten Empfänger im Steuergebiet weitergeleitet.
 
 
 ### § 34d Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007200123)
 
 (1) Während der Beförderung des Schaumweins kann der zertifizierte
 Versender den Bestimmungsort ändern, und zwar
@@ -1858,6 +1913,7 @@ Schaumwein gilt § 20 Absatz 2, 3 und 6 entsprechend.
 
 
 ### § 34e Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007300123)
 
 (1) Nach der Aufnahme des Schaumweins, auch von Teilmengen, an einem
 vom Erlaubnisumfang umfassten Bestimmungsort, hat der zertifizierte
@@ -1895,6 +1951,7 @@ Nachweis dafür, dass die Beförderung des Schaumweins beendet wurde.
 
 
 ### § 34f Beförderung im Ausfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007400123)
 
 Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
 Verfügung und kann das vereinfachte elektronische Verwaltungsdokument
@@ -1904,6 +1961,7 @@ amtlich vorgeschriebenem Vordruck zu verwenden.
 
 
 ### § 34g Ersatznachweise für die Beendigung der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007500123)
 
 (1) Liegt bei einer Lieferung zu gewerblichen Zwecken in das
 Steuergebiet kein Nachweis nach § 34e Absatz 4 oder § 34f in
@@ -1932,12 +1990,15 @@ akzeptiert wird, als hinreichender Nachweis dafür, dass
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003601123)
 
 
 ## Abschnitt 14 - Zu § 21 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001400000)
 
 
 ### § 36 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003703123)
 
 (1) Wer als Versandhändler nach § 21 Absatz 1 des Gesetzes Schaumwein
 an Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im
@@ -2006,9 +2067,11 @@ Erlaubnis des Steuervertreters erlischt.
 
 
 ## Abschnitt 15 - Zu § 22 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001500000)
 
 
 ### § 37 Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003802123)
 
 Für Fälle vollständiger Zerstörung oder unwiederbringlichen Gesamt-
 oder Teilverlusts von Schaumwein gelten § 10 Absatz 2 und § 29
@@ -2016,9 +2079,11 @@ entsprechend.
 
 
 ## Abschnitt 15a - Zu § 22b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002700123)
 
 
 ### § 37a Steueranmeldung; Kleinbetragsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007600123)
 
 (1) Die Steueranmeldung nach § 22b Absatz 1 bis 4 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
@@ -2028,9 +2093,11 @@ Kleinbetragsregelung gelten § 30 Absatz 2 und § 31 entsprechend.
 
 
 ## Abschnitt 16 - Zu den §§ 23 und 23a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001601140)
 
 
 ### § 38 Antrag auf Erlaubnis zur steuerfreien Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE003902123)
 
 (1) Wer Schaumwein steuerfrei verwenden will, hat die Erlaubnis vor
 Beginn der Verwendung nach amtlich vorgeschriebenem Vordruck beim
@@ -2064,6 +2131,7 @@ nicht beeinträchtigt werden.
 
 
 ### § 38a Erteilung der Erlaubnis, Erlaubnisschein
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005602123)
 
 (1) Das Hauptzollamt erteilt dem Verwender schriftlich oder
 elektronisch unter Widerrufsvorbehalt die Erlaubnis zur steuerfreien
@@ -2089,6 +2157,7 @@ entsprechend.
 
 
 ### § 38b Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005701123)
 
 (1) Der Verwender hat ein Belegheft zu führen. Das Hauptzollamt kann
 dazu Anordnungen treffen.
@@ -2105,6 +2174,7 @@ entgegenstehen, auf das Führen eines Verwendungsbuchs verzichten.
 
 
 ### § 38c Lagerung, Bestandsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005802123)
 
 (1) Der Verwender darf den Schaumwein nur an den angemeldeten Orten
 empfangen und lagern. Das Hauptzollamt kann Ausnahmen zulassen, wenn
@@ -2132,6 +2202,7 @@ entsprechend.
 
 
 ### § 38d Abgabe von Schaumwein, zweckwidrige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005901123)
 
 (1) Das Hauptzollamt kann dem Verwender auf Antrag gestatten, in
 Ausnahmefällen Schaumwein im Rahmen seiner Erlaubnis zur steuerfreien
@@ -2148,9 +2219,11 @@ nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 
 ## Abschnitt 17 - Zu § 24 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001700000)
 
 
 ### § 39 Steuerentlastung im Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004002123)
 
 (1) Der Steuerlagerinhaber darf von ihm selbst versteuerten Schaumwein
 (Rückwaren) in sein Steuerlager aufnehmen. Für die Erfassung in der
@@ -2188,9 +2261,11 @@ entsprechend.
 
 
 ## Abschnitt 18 - Zu § 25 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001800000)
 
 
 ### § 40 Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004102123)
 
 (1) In den Fällen des § 25 Absatz 1 des Gesetzes ist die
 Steuerentlastung mit einer Entlastungsanmeldung nach amtlich
@@ -2229,9 +2304,11 @@ entsprechend.
 
 
 ## Abschnitt 19 - Zu § 26 des Gesetzes und § 212 Absatz 1 Nummer 8 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG001900000)
 
 
 ### § 41 Probenentnahme im Rahmen der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004201123)
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die
 der Schaumweinsteuer unterliegen oder unterliegen können, sowie von
@@ -2243,28 +2320,35 @@ zu Untersuchungszwecken unentgeltlich Proben zur Verfügung zu stellen.
 
 
 ## Abschnitt 20 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002001123)
 
 
 ### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004301123)
 
 
 ## Abschnitt 20a - Zu § 28 Nummer 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002600140)
 
 
 ### (XXXX) §§ 42a bis 42f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE006001123)
 
 
 
 ## Abschnitt 21 - Zu den §§ 29 und 31 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002100000)
 
 
 ### § 43 Zwischenerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004404123)
 
 Die §§ 1 bis 11, 12 bis 32 und 34 bis 41 sind auf Zwischenerzeugnisse
 nach § 29 des Gesetzes anzuwenden.
 
 
 ### § 43a Amtliche Bescheinigung für unabhängige Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE008100123)
 
 Für unabhängige Hersteller von Zwischenerzeugnissen, deren Herstellung
 im vorangegangenen Kalenderjahr 250 Hektoliter nicht übersteigt, ist
@@ -2275,6 +2359,7 @@ amtlich vorgeschriebenem Vordruck zu beantragen.
 
 
 ### § 44 Beförderungen zu privaten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004502123)
 
 (1) Werden mehr als 20 Liter Zwischenerzeugnisse nach § 19 in
 Verbindung mit § 29 Absatz 3 des Gesetzes zu privaten Zwecken in das
@@ -2289,12 +2374,15 @@ Gesetzes.
 
 
 ### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004601123)
 
 
 ## Abschnitt 22 - Zu den §§ 32 und 33 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002201123)
 
 
 ### § 46 Steuerlagerinhaber
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004703123)
 
 (1) Wer als Steuerlagerinhaber nach § 32 Absatz 2 Nummer 3 in
 Verbindung mit § 5 des Gesetzes Wein unter Steueraussetzung aus
@@ -2322,6 +2410,7 @@ ordnungsgemäßen Anzeige gilt die Erlaubnis als erteilt.
 
 
 ### § 47 Belegheft, Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004801123)
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
@@ -2335,6 +2424,7 @@ etwas anderes an.
 
 
 ### § 47a Amtliche Bescheinigung für unabhängige Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE008200123)
 
 (1) Die Ausstellung einer amtlichen Bescheinigung für unabhängige
 Hersteller zur Gewährung ermäßigter Steuersätze in anderen
@@ -2348,6 +2438,7 @@ Gesetzes gilt § 11a Absatz 3 entsprechend.
 
 
 ### § 48 Registrierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE004903123)
 
 (1) Wer als registrierter Empfänger nach § 32 Absatz 2 Nummer 3 in
 Verbindung mit § 6 Absatz 2 des Gesetzes Wein unter Steueraussetzung
@@ -2375,6 +2466,7 @@ und 2 entsprechend.
 
 
 ### § 49 Registrierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005003123)
 
 (1) Wer als registrierter Versender nach § 32 Absatz 2 Nummer 3 in
 Verbindung mit § 7 Absatz 2 des Gesetzes Wein vom Ort der Einfuhr
@@ -2395,6 +2487,7 @@ versehen werden.
 
 
 ### § 50 Verfahren für die Beförderung von Wein unter Steueraussetzung in andere, aus anderen und über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005103123)
 
 (1) Für die Teilnahme am EDV-gestützten Beförderungs- und
 Kontrollsystem sowie für das Verfahren und für die Inanspruchnahme des
@@ -2413,9 +2506,11 @@ Mitgliedstaaten an einen Begünstigten im Steuergebiet gilt § 14 Absatz
 
 
 ## Abschnitt 23 - Zu § 33 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002301123)
 
 
 ### § 51 Zertifizierter Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005202123)
 
 (1) Wer als zertifizierter Empfänger nach § 32 Absatz 2 Nummer 3 in
 Verbindung mit § 20a Absatz 1 des Gesetzes Wein des steuerrechtlich
@@ -2445,6 +2540,7 @@ Privatperson gilt § 34 Absatz 8 Satz 6 entsprechend.
 
 
 ### § 51a Zertifizierter Versender
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007700123)
 
 (1) Wer als zertifizierter Versender nach § 32 Absatz 2 Nummer 3 in
 Verbindung mit § 20b Absatz 2 des Gesetzes Wein des steuerrechtlich
@@ -2474,6 +2570,7 @@ Privatperson gilt § 34a Absatz 8 Satz 4 entsprechend.
 
 
 ### § 51b Verfahren für die Beförderung von Wein des steuerrechtlich freien Verkehrs in andere, aus anderen oder über andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE007800123)
 
 Für die Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 sowie für das Verfahren und für die Inanspruchnahme des
@@ -2488,6 +2585,7 @@ des Rates vom 19. Dezember 2019.“
 
 
 ### § 52 Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005301123)
 
 (1) Weinversandhändler mit Sitz in anderen Mitgliedstaaten oder ihre
 Steuervertreter können ihre in einem Kalendermonat durchgeführten
@@ -2504,9 +2602,11 @@ Lieferumfang anzugeben.
 
 
 ## Abschnitt 24 - Zu § 381 Absatz 1 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002400000)
 
 
 ### § 53 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005403123)
 
 (1) Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
@@ -2801,9 +2901,11 @@ Nummer 11 Buchstabe a Doppelbuchstabe aa gelten auch in den Fällen des
 
 
 ## Abschnitt 25 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNG002500000)
 
 
 ### § 54 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/schaumwzwstv_2010/BJNR330200009.html#BJNR330200009BJNE005502123)
 
 Für Beförderungen von Schaumwein, Zwischenerzeugnissen oder Wein des
 steuerrechtlich freien Verkehrs aus anderen, in andere oder über

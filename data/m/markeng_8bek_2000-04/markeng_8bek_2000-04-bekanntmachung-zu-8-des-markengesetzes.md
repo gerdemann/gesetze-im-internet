@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2000-04/BJNR073700000.html#BJNR073700000BJNE000100310)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekannt gemacht, dass
@@ -42,6 +43,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2000-04/BJNR073700000.html#BJNR073700000BJNE000200310)
 
 (Fundstelle: BGBl. I 2000, 737)
 
@@ -52,6 +54,7 @@ Drapeau de l'Agence Internationale de l'Energie Atomique
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2000-04/BJNR073700000.html#BJNR073700000BJNE000300310)
 
 (Fundstelle: BGBl. I 2000, 738)
 
@@ -60,6 +63,7 @@ Emblem der Afrikanischen Organisation für geistiges Eigentum
 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_2000-04/BJNR073700000.html#BJNR073700000BJNE000400310)
 
 (Fundstelle: BGBl. I 2000, 739)
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE000800319)
 
 Die §§ 225 bis 233, 234 Abs. 1 Satz 1 und Abs. 2, § 235 Abs. 1 und 2,
 §§ 236 bis 238, 245 Abs. 1 bis 4, §§ 246 bis 249, 250 Abs. 1 bis 4, §§
@@ -40,6 +42,7 @@ anzuwenden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE000900319)
 
 (1) Für das Saarland wird eine Allgemeine Ortskrankenkasse errichtet;
 sie hat ihren Sitz in Saarbrücken.
@@ -50,6 +53,7 @@ Bundesverband der Ortskrankenkassen an.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001001308)
 
 (1) Die Zuständigkeit der Bundesbahn-Betriebskrankenkasse und der
 Betriebskrankenkasse des Bundesverkehrsministeriums erstreckt sich auf
@@ -60,6 +64,7 @@ Bezirksleitung der Bundesbahn-Betriebskrankenkasse.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001100319)
 
 (1) Die Rechte und Pflichten der Landesversicherungsanstalt für das
 Saarland aus den Versicherungsverhältnissen in der Krankenversicherung
@@ -73,6 +78,7 @@ Bundesbahn-Betriebskrankenkasse über.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001201308)
 
 (1) Das Vermögen (Eigentum und alle sonstigen Vermögensrechte) und die
 Verbindlichkeiten der Landesversicherungsanstalt für das Saarland, die
@@ -96,6 +102,7 @@ unübertragbar oder nur auf Grund besonderer Vereinbarungen für
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001300319)
 
 (1) Durch den Übergang der Verbindlichkeiten wird der bisherige
 Schuldner befreit; im übrigen werden die Rechte des Gläubigers,
@@ -114,6 +121,7 @@ bleiben außer Ansatz.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001400319)
 
 (1) Die Allgemeine Ortskrankenkasse für das Saarland hat die im
 Zeitpunkt des Inkrafttretens dieses Gesetzes in der Abteilung
@@ -132,12 +140,14 @@ S. 667).
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001500319)
 
 Die Arbeitsbedingungen der zu übernehmenden Angestellten und Arbeiter
 dürfen aus Anlaß der Übernahme nicht verschlechtert werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001600319)
 
 (1) Innungskrankenkassen mit dem Sitz im Saarland, die Versicherte von
 der Allgemeinen Ortskrankenkasse für das Saarland übernehmen, und
@@ -162,14 +172,17 @@ aufgenommen hat, Mitglied dieser Kasse werden.
 
 
 ### (XXXX) §§ 10 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001700319)
 
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000200319)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001800319)
 
 Die §§ 546 bis 548, 623 bis 629 Abs. 1, §§ 629a bis 634, 636, 642 bis
 647, 649 bis 653, 656a bis 660, 663 bis 675, 677, 681, 684, 685, 689
@@ -187,6 +200,7 @@ saarländischen Fassung anzuwenden.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE001900319)
 
 (1) Die Zuständigkeit der für das gesamte Bundesgebiet außerhalb des
 Saarlandes bestehenden Berufsgenossenschaften erstreckt sich auf das
@@ -201,6 +215,7 @@ das Saarland erstreckt.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002000319)
 
 Die Bergbau-Berufsgenossenschaft für das Saarland wird eine
 Bezirksverwaltung der Bergbau-Berufsgenossenschaft. Die Organe der
@@ -209,12 +224,14 @@ Bezirksverwaltung.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002100319)
 
 Für das Saarland werden eine Landwirtschaftliche Berufsgenossenschaft
 und ein Gemeindeunfallversicherungsverband errichtet.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002200319)
 
 Die Rechte und Pflichten der Landesversicherungsanstalt für das
 Saarland und der Bergbau-Berufsgenossenschaft für das Saarland aus den
@@ -223,6 +240,7 @@ nach diesem Gesetz zuständigen Versicherungsträger über.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002300319)
 
 (1) Das Vermögen (Eigentum und alle sonstigen Vermögensrechte) und die
 Verbindlichkeiten der Landesversicherungsanstalt für das Saarland, die
@@ -269,6 +287,7 @@ Rechnung der Rechtsnachfolger verwaltet.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002400319)
 
 (1) Das Vermögen (Eigentum und alle sonstigen Vermögensrechte) und die
 Verbindlichkeiten der Landesversicherungsanstalt für das Saarland, die
@@ -282,11 +301,13 @@ gehen auf die Bergbau-Berufsgenossenschaft über.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002500319)
 
 § 5 Abs. 3 und § 6 gelten in den Fällen der §§ 19 und 20 entsprechend.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002600319)
 
 (1) Die in § 15 genannten Berufsgenossenschaften haben die im
 Zeitpunkt des Inkrafttretens dieses Gesetzes in der Abteilung
@@ -309,6 +330,7 @@ Beamtenrechtsrahmengesetzes).
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002700319)
 
 (1) Die Landwirtschaftliche Berufsgenossenschaft für das Saarland hat
 die im Zeitpunkt des Inkrafttretens dieses Gesetzes in der Abteilung
@@ -326,6 +348,7 @@ und Arbeiter) zu dem genannten Zeitpunkt zu übernehmen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002800319)
 
 Die Bergbau-Berufsgenossenschaft hat die im Zeitpunkt des
 Inkrafttretens dieses Gesetzes in der Bergbau-Berufsgenossenschaft für
@@ -335,15 +358,18 @@ sollen in der Bezirksverwaltung im Saarland (§ 16) beschäftigt werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE002900319)
 
 § 8 gilt in den Fällen der §§ 22 bis 24.
 
 
 ## Dritter Abschnitt - Rentenversicherung der Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000300319)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003000319)
 
 Die §§ 1326 bis
 1343, 1348 bis
@@ -355,11 +381,13 @@ gelten, sind diese in der saarländischen Fassung anzuwenden.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003101308)
 
 (weggefallen)
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003200319)
 
 (1) Die Rechte und Pflichten aus den Versicherungsverhältnissen sowie
 das Vermögen (Eigentum und alle sonstigen Vermögensrechte) und die
@@ -370,10 +398,12 @@ auf die Bundesbahn-Versicherungsanstalt über.
 
 
 ## Vierter Abschnitt - Rentenversicherung der Angestellten
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000400319)
 
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003300319)
 
 Die §§ 1
 bis 14, 17 und 29 des Gesetzes über die Errichtung der
@@ -386,11 +416,13 @@ anzuwenden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003401308)
 
 (weggefallen)
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003500319)
 
 (1) Die Rechte und Pflichten der Landesversicherungsanstalt für das
 Saarland aus den Versicherungsverhältnissen in der Rentenversicherung
@@ -406,6 +438,7 @@ gehen auf die Bundesversicherungsanstalt für Angestellte über.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003600319)
 
 (1) Die Bundesversicherungsanstalt für Angestellte hat die im
 Zeitpunkt des Inkrafttretens dieses Gesetzes in der Abteilung
@@ -421,39 +454,47 @@ Beratungsstelle in Saarbrücken (§ 30 Abs. 2) beschäftigt werden.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003700319)
 
 -
 
 
 ## Fünfter Abschnitt - Hüttenknappschaftliche Pensionsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000500319)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003800319)
 
 -
 
 
 ## Sechster Abschnitt - Knappschaftsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000600319)
 
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE003900319)
 
 Die Saarknappschaft gehört der Arbeitsgemeinschaft der Knappschaften
 der Bundesrepublik Deutschland an.
 
 
 ## Siebenter Abschnitt - Gemeinsame und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNG000700319)
 
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004000319)
 
 -
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004100319)
 
 (1) Die von der Landwirtschaftlichen Familienausgleichskasse
 Rheinhessen-Pfalz nach § 8 des Gesetzes zur Einführung von Bundesrecht
@@ -480,11 +521,13 @@ entsprechend.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004200319)
 
 -
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004300319)
 
 Im Saarland werden folgende Vorschriften eingeführt:
 
@@ -509,6 +552,7 @@ Im Saarland werden folgende Vorschriften eingeführt:
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004400319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -516,6 +560,7 @@ im Land Berlin.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/svorgsaarg/BJNR001940960.html#BJNR001940960BJNE004500319)
 
 (1) Dieses Gesetz tritt am Ersten des auf seine Verkündung folgenden
 Monats in Kraft.

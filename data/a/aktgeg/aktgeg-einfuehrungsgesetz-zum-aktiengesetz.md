@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Übersicht
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004015125)
 
 
 *    *   1.
@@ -63,16 +64,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNG004000308)
 
 
 
 ### § 1 Grundkapital
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000101307)
 
 (1) § 6 des Aktiengesetzes gilt nicht für Aktiengesellschaften, deren
 Grundkapital und Aktien beim Inkrafttreten des Aktiengesetzes nicht
@@ -95,6 +99,7 @@ gleiche gilt für Beschlüsse über die Änderung des Grundkapitals.
 
 
 ### § 2 Mindestnennbetrag des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000201307)
 
 Für Aktiengesellschaften, die vor dem 1. Januar 1999 in das
 Handelsregister eingetragen oder zur Eintragung in das Handelsregister
@@ -110,6 +115,7 @@ umzurechnen ist.
 
 
 ### § 3 Mindestnennbetrag der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000302307)
 
 (1) Aktien dürfen nur noch nach § 8 des Aktiengesetzes ausgegeben
 werden.
@@ -155,6 +161,7 @@ wird.
 
 
 ### § 4 Verfahren der Umstellung auf den Euro
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000403140)
 
 (1) Über die Umstellung des Grundkapitals und der Aktiennennbeträge
 sowie weiterer satzungsmäßiger Betragsangaben auf Euro zu dem gemäß
@@ -213,6 +220,7 @@ Anwendung.
 
 
 ### § 5 Mehrstimmrechte. Höchststimmrechte
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000504360)
 
 (1) Sind Mehrstimmrechte nach § 5 Absatz 1 in der bis einschließlich
 14\. Dezember 2023 geltenden Fassung erloschen oder nach § 5 Absatz 2
@@ -237,6 +245,7 @@ geltenden Fassung bis zum 1. Juni 2000 fort.
 
 
 ### § 6 Wechselseitig beteiligte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000600308)
 
 (1) Sind eine Aktiengesellschaft und ein anderes Unternehmen bereits
 beim Inkrafttreten des Aktiengesetzes wechselseitig beteiligte
@@ -277,6 +286,7 @@ Unternehmen.
 
 
 ### § 7 Mitteilungspflicht von Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000700308)
 
 Die Mitteilungspflichten nach §§ 20, 21 und 328 Abs. 3 des
 Aktiengesetzes gelten auch für Beteiligungen, die beim Inkrafttreten
@@ -285,6 +295,7 @@ Monats nach dem Inkrafttreten des Aktiengesetzes mitzuteilen.
 
 
 ### § 8 Gegenstand des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000800308)
 
 Entspricht bei Aktiengesellschaften, die beim Inkrafttreten des
 Aktiengesetzes in das Handelsregister eingetragen sind, die
@@ -296,11 +307,13 @@ Nr. 2 des Aktiengesetzes angepaßt wird.
 
 
 ### § 9 Namensaktien
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE000901311)
 
 (weggefallen)
 
 
 ### § 10 Nebenverpflichtungen der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001000308)
 
 § 55 Abs. 1 Satz 2 des Aktiengesetzes gilt nicht für
 Aktiengesellschaften, die bereits beim Inkrafttreten des
@@ -313,6 +326,7 @@ unentgeltlich zu erbringen sind.
 
 
 ### § 11 Nachgründungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001101311)
 
 Die Unwirksamkeit gemäß § 52 Aktiengesetz eines vor dem 1. Januar 2000
 geschlossenen Nachgründungsgeschäfts kann nach dem 1. Januar 2002 nur
@@ -321,6 +335,7 @@ Vorschrift geltend gemacht werden.
 
 
 ### § 12 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001204360)
 
 (1) Bestimmungen der Satzung über die Zahl der Aufsichtsratsmitglieder
 und über Stellvertreter von Aufsichtsratsmitgliedern treten, soweit
@@ -364,6 +379,7 @@ Prüfungsausschusses vor dem 1. Juli 2021 bestellt worden sind.
 
 
 ### § 13 Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001301377)
 
 § 175 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 21 des
 Transparenz- und Publizitätsgesetzes vom 19. Juli 2002 (BGBl. I S.
@@ -379,6 +395,7 @@ beginnende Geschäftsjahr anzuwenden.
 
 
 ### § 14 Übergangsvorschrift zu § 171 Abs. 2, 3 und § 173 Abs. 1 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001401377)
 
 § 171 Abs. 2 Satz 5, Abs. 3 Satz 3 zweiter Halbsatz und § 173 Abs. 1
 Satz 2 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 18, 19 des
@@ -388,6 +405,7 @@ Dezember 2001 beginnende Geschäftsjahr anzuwenden.
 
 
 ### § 15 Übergangsvorschrift zu § 161 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001501377)
 
 Die Erklärung nach § 161 des Aktiengesetzes ist erstmals im Jahr 2002
 abzugeben. Sie kann in diesem Jahr aber darauf beschränkt werden, dass
@@ -397,6 +415,7 @@ angewendet werden.
 
 
 ### § 16 Übergangsvorschrift zu § 123 Abs. 2, 3 und § 125 Abs. 2 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004701377)
 
 § 123 Abs. 2 und 3 und § 125 Abs. 2 des Aktiengesetzes in der Fassung
 des Gesetzes zur Unternehmensintegrität und Modernisierung des
@@ -418,6 +437,7 @@ Legitimationsnachweises zu ändern.
 
 
 ### § 17 Übergangsvorschrift zu § 243 Abs. 3 Nr. 2 und § 249 Abs. 1 Satz 1 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004800377)
 
 § 243 Abs. 3 Nr. 2 und § 249 Abs. 1 Satz 1 des Aktiengesetzes in der
 Fassung des Bilanzrechtsreformgesetzes vom 4. Dezember 2004 (BGBl. I
@@ -426,6 +446,7 @@ anzuwenden, die nach dem 31. Dezember 2004 erhoben worden sind.
 
 
 ### § 18 Übergangsvorschrift zu den §§ 37 und 39 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE001603140)
 
 Die Pflicht, die inländische Geschäftsanschrift bei dem Gericht nach §
 37 des Aktiengesetzes in der ab dem Inkrafttreten des Gesetzes vom 23.
@@ -461,6 +482,7 @@ abweichend von § 10 des Handelsgesetzbuchs nicht bekannt gemacht.
 
 
 ### § 19 Übergangsvorschrift zu § 76 Abs. 3 Satz 2 Nr. 3 und Satz 3 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005000140)
 
 § 76 Abs. 3 Satz 2 Nr. 3 Buchstabe a, c, d und e des Aktiengesetzes in
 der ab dem Inkrafttreten des Gesetzes vom 23. Oktober 2008 (BGBl. I S.
@@ -474,6 +496,7 @@ im Sinne des Satzes 1 vergleichbar ist.
 
 
 ### § 20 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002001140)
 
 (1) Die §§ 121, 122, 123, 124, 124a, 125, 126, 127, 130, 134, 175,
 176, 241 bis 243 des Aktiengesetzes in der Fassung des Gesetzes zur
@@ -526,6 +549,7 @@ September 2009 geltenden Vorschriften.
 
 
 ### § 21 Heilung der Nichtigkeit von Jahresabschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002100308)
 
 § 256 Abs. 6 des Aktiengesetzes über die Heilung der Nichtigkeit von
 Jahresabschlüssen gilt auch für Jahresabschlüsse, die vor dem
@@ -538,6 +562,7 @@ nicht vor dem Inkrafttreten des Aktiengesetzes.
 
 
 ### § 22 Unternehmensverträge
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002200308)
 
 (1) Für Unternehmensverträge (§§ 291, 292 des Aktiengesetzes), die vor
 dem Inkrafttreten des Aktiengesetzes geschlossen worden sind, gelten
@@ -568,6 +593,7 @@ Vereinbarung über die Höhe des abzuführenden Gewinns anzumelden.
 
 
 ### § 23 Übergangsvorschrift zum Gesetz zur Angemessenheit der Vorstandsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002301140)
 
 (1) § 93 Absatz 2 Satz 3 des Aktiengesetzes in der ab dem 5. August
 2009 geltenden Fassung ist ab dem 1. Juli 2010 auch auf
@@ -589,6 +615,7 @@ einberufen werden.
 
 
 ### § 24 Übergangsvorschrift zu dem Gesetz zur Restrukturierung und geordneten Abwicklung von Kreditinstituten, zur Errichtung eines Restrukturierungsfonds für Kreditinstitute und zur Verlängerung der Verjährungsfrist der aktienrechtlichen Organhaftung
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002401360)
 
 § 93 Absatz 6 des Aktiengesetzes in der seit dem 15. Dezember 2010
 geltenden Fassung ist auch auf die vor dem 15. Dezember 2010
@@ -596,6 +623,7 @@ entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
 
 ### § 25 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002503360)
 
 (1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111
 Absatz 5 Satz 1 und 3 des Aktiengesetzes in der am 1. Mai 2015
@@ -620,12 +648,14 @@ entsprechend.
 
 
 ### § 26 Kommanditgesellschaften auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002600308)
 
 Die Vorschriften dieses Abschnitts gelten sinngemäß für
 Kommanditgesellschaften auf Aktien.
 
 
 ### § 26a Ergänzung fortgeführter Firmen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002700308)
 
 Führt eine Aktiengesellschaft gemäß § 22 Abs. 1 des
 Einführungsgesetzes zum Handelsgesetzbuch ihre Firma fort, ohne daß
@@ -637,6 +667,7 @@ werden, so ist der Aufsichtsrat zu dieser Änderung befugt.
 
 
 ### § 26b Änderung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002800308)
 
 Eine Änderung der Satzung, die nach § 23 des Aktiengesetzes wegen der
 vom 1. Juli 1979 an geltenden Fassung erforderlich wird, ist bis zum
@@ -644,6 +675,7 @@ vom 1. Juli 1979 an geltenden Fassung erforderlich wird, ist bis zum
 
 
 ### § 26c Übergangsfristen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE002900308)
 
 Die Vorschriften des Aktiengesetzes über Sacheinlagen und
 Sachübernahmen sowie über deren Prüfung in der vom 1. Juli 1979 an
@@ -657,6 +689,7 @@ nicht vor dem 16. Juni 1980 gebildet zu werden.
 
 
 ### § 26d Übergangsregelung für Verschmelzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004200308)
 
 Die Vorschriften des Aktiengesetzes über Verschmelzungen und
 Vermögensübertragungen in der vom 1. Januar 1983 an geltenden Fassung
@@ -667,6 +700,7 @@ oberste Vertretung einberufen worden ist.
 
 
 ### § 26e Übergangsregelung zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004901377)
 
 § 327 Abs. 4 des Aktiengesetzes in der ab dem 15. Dezember 2004
 geltenden Fassung ist auf vor diesem Datum entstandene
@@ -689,6 +723,7 @@ Verjährungsfrist ein Jahr beträgt.
 
 
 ### § 26f Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005100377)
 
 Die §§ 152, 158 und 160 des Aktiengesetzes in der Fassung des
 Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes vom 20.
@@ -702,6 +737,7 @@ zum 27. Dezember 2012 geltenden Fassung anwendbar.
 
 
 ### § 26g Übergangsregelungen zum Bilanzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005200360)
 
 Die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der
 Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015
@@ -714,6 +750,7 @@ in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
 
 
 ### § 26h Übergangsvorschrift zur Aktienrechtsnovelle 2016
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005300123)
 
 (1) § 10 Absatz 1 des Aktiengesetzes in der seit dem 31. Dezember 2015
 geltenden Fassung ist nicht auf Gesellschaften anzuwenden, deren
@@ -743,6 +780,7 @@ vor dem 1. Juni 2016 zugehen, ist § 122 in der bis zum 30. Dezember
 
 
 ### § 26i Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005400123)
 
 Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der
 Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017
@@ -755,6 +793,7 @@ geltenden Fassung anwendbar.
 
 
 ### § 26j Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005500360)
 
 (1) Die erstmalige Beschlussfassung nach § 87a Absatz 1, § 113 Absatz
 3 und § 120a Absatz 1 des Aktiengesetzes in der ab dem 1. Januar 2020
@@ -821,6 +860,7 @@ wie folgt sinngemäß anzuwenden:
 
 
 ### § 26k Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005600360)
 
 (1) Die §§ 404a, 405 und 407a des Aktiengesetzes in der ab dem 1. Juli
 2021 geltenden Fassung sind erstmals auf alle gesetzlich
@@ -854,6 +894,7 @@ geschlossen wurden.
 
 
 ### § 26l Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005700360)
 
 (1) Das Beteiligungsgebot für den Vorstand nach § 76 Absatz 3a Satz 1
 des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung ist
@@ -877,6 +918,7 @@ vorgesehenen Ende wahrgenommen werden.
 
 
 ### § 26m Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005800360)
 
 (1) § 37 Absatz 2 Satz 1, § 76 Absatz 3 Satz 3, § 81 Absatz 3 Satz 1
 und § 265 Absatz 2 Satz 2 des Aktiengesetzes in der ab dem 1. August
@@ -892,6 +934,7 @@ Januar 2022 beginnende Geschäftsjahr.
 
 
 ### § 26n Übergangsvorschrift zum Gesetz zur Einführung virtueller Hauptversammlungen von Aktiengesellschaften und Änderung genossenschafts- sowie insolvenz- und restrukturierungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE005900125)
 
 (1) Für Hauptversammlungen, die bis einschließlich 31. August 2023
 einberufen werden, kann der Vorstand mit Zustimmung des Aufsichtsrats
@@ -905,6 +948,7 @@ einberufen werden.
 
 
 ### § 26o Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE006000360)
 
 § 170 Absatz 1 Satz 3, § 171 Absatz 1 Satz 4 und § 283 Nummer 11a des
 Aktiengesetzes in der jeweils ab dem 22. Juni 2023 geltenden Fassung
@@ -914,6 +958,7 @@ nach § 342d Absatz 2 Nummer 1 des Handelsgesetzbuchs für ein nach dem
 
 
 ### § 26p Übergangsvorschrift zum Zukunftsfinanzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE006100360)
 
 § 255 des Aktiengesetzes in der ab dem 15. Dezember 2023 geltenden
 Fassung sowie die §§ 255a und 255b des Aktiengesetzes sind erstmals
@@ -922,6 +967,7 @@ einberufen werden.
 
 
 ### § 26q Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE006200125)
 
 § 124 Absatz 2 und § 124a Satz 1 des Aktiengesetzes in der Fassung des
 Vierten Bürokratieentlastungsgesetzes vom 23. Oktober 2024 (BGBl. 2024
@@ -930,10 +976,12 @@ I Nr. 323) sind erstmals auf Hauptversammlungen anzuwenden, die ab dem
 
 
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNG003000308)
 
 
 
 ### § 27 Entscheidung über die Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE003101360)
 
 § 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für
 Gesellschaften mit beschränkter Haftung und bergrechtliche
@@ -941,11 +989,13 @@ Gewerkschaften.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE003201307)
 
 (weggefallen)
 
 
 ### § 28a Treuhandanstalt
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004600314)
 
 Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind
 auf die Treuhandanstalt nicht anzuwenden. Dies gilt nicht für die
@@ -954,18 +1004,22 @@ Aufsichtsrat eines von der Treuhandanstalt verwalteten Unternehmens.
 
 
 ## Dritter Abschnitt - Aufhebung und Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNG003300308)
 
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE003401360)
 
 
 
 ### (XXXX) §§ 30 bis 32
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004300308)
 
 
 
 ### § 33 Gesetz über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004400308)
 
 (1) (gegenstandslos)
 
@@ -999,14 +1053,17 @@ entfallen.
 
 
 ### (XXXX) §§ 34 bis 44
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE004500308)
 
 
 
 ## Vierter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNG003700308)
 
 
 
 ### § 45 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE003800308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1014,12 +1071,14 @@ im Land Berlin.
 
 
 ### § 46 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE003900308)
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 
 Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 960)
+[Direktlink](https://www.gesetze-im-internet.de/aktgeg/BJNR011850965.html#BJNR011850965BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

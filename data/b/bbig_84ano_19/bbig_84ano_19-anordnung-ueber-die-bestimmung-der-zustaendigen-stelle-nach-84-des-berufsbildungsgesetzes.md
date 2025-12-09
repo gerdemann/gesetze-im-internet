@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_19/BJNR036800996.html#BJNR036800996BJNE000100310)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -52,11 +53,13 @@ Bundespräsidialamtes.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_19/BJNR036800996.html#BJNR036800996BJNE000200310)
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_19/BJNR036800996.html#BJNR036800996BJNE000300310)
 
 Bundespräsidialamt
 

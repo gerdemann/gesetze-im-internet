@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhprerprv/BJNR066800009.html#BJNR066800009BJNE000100000)
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
 I S. 931), der durch Artikel 232 Nummer 1 der Verordnung vom 31.
@@ -29,6 +30,7 @@ mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 6 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhprerprv/BJNR066800009.html#BJNR066800009BJNE000701313)
 
 (1) (weggefallen)
 
@@ -38,6 +40,7 @@ anzuwenden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/musikfachhprerprv/BJNR066800009.html#BJNR066800009BJNE000800000)
 
 Diese Verordnung tritt am 1. August 2009 in Kraft und mit Ausnahme von
 § 6 Absatz 2 mit Ablauf des 31. Juli 2015 außer Kraft.

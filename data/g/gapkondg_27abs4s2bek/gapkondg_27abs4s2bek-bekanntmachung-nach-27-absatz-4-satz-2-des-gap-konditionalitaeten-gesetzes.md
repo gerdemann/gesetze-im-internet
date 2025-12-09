@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg_27abs4s2bek/BJNR1850A0024.html#BJNR1850A0024BJNE000100000)
 
 Nach § 27 Absatz 4 Satz 2 des GAP-Konditionalitäten-Gesetzes vom 16.
 Juli 2021 (BGBl. I S. 2996; 2022 I S. 2262), das zuletzt durch Artikel

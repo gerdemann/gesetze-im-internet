@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asgzustv/BJNR013210973.html#BJNR013210973BJNE000100303)
 
 Auf Grund des § 38 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968
 (Bundesgesetzbl. I S. 787), geändert durch das Gesetz über die
@@ -30,6 +31,7 @@ des Rechts der gesetzlichen Krankenversicherung vom 27. Juli 1969
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/asgzustv/BJNR013210973.html#BJNR013210973BJNE000201308)
 
 Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und
 2 und § 32 Abs. 1 Nr. 1 des Arbeitssicherstellungsgesetzes mit der
@@ -39,6 +41,7 @@ Arbeitsverhältnisses zuständig ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/asgzustv/BJNR013210973.html#BJNR013210973BJNE000302130)
 
 § 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer
 der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der
@@ -47,11 +50,13 @@ Bundeswehr tritt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/asgzustv/BJNR013210973.html#BJNR013210973BJNE000400303)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/asgzustv/BJNR013210973.html#BJNR013210973BJNE000500303)
 
 Der Bundesminister der Verteidigung
 

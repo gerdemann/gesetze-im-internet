@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000100308)
 
 Auf Grund des § 46 Abs. 1 und des § 72 Abs. 3 Satz 2 des
 Jugendarbeitsschutzgesetzes vom 12. April 1976 (BGBl. I S. 965)
@@ -28,6 +29,7 @@ verordnet der Bundesminister für Arbeit und Sozialordnung:
 
 
 ## § 1 Durchführung der Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000200308)
 
 (1) Der Arzt, der einen Jugendlichen nach den §§ 32 bis 35 oder nach §
 42 des Jugendarbeitsschutzgesetzes untersucht, hat unter
@@ -45,6 +47,7 @@ Beurteilung.
 
 
 ## § 2 Untersuchungsberechtigungsschein
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000300308)
 
 Die Kosten einer Untersuchung werden vom Land (§ 44
 Jugendarbeitsschutzgesetz) nur erstattet, wenn der Arzt der
@@ -53,6 +56,7 @@ ausgegebenen Untersuchungsberechtigungsschein beifügt.
 
 
 ## § 3 Erhebungsbogen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000401126)
 
 Zur Vorbereitung einer Untersuchung nach § 32 Abs. 1 des
 Jugendarbeitsschutzgesetzes (Erstuntersuchung) erhält der Jugendliche
@@ -66,6 +70,7 @@ Untersuchung vorgelegt werden.
 
 
 ## § 4 Untersuchungsbogen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000501126)
 
 (1) Für die Aufzeichnung der Ergebnisse einer Erstuntersuchung hat der
 Arzt einen Untersuchungsbogen nach dem Muster der Anlage 2, für die
@@ -76,6 +81,7 @@ Untersuchungsbogen nach dem Muster der Anlage 2a zu verwenden.
 
 
 ## § 5 Ärztliche Mitteilung an den Personensorgeberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000601126)
 
 Für die ärztliche Mitteilung an den Personensorgeberechtigten nach §
 39 Abs. 1 des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
@@ -84,6 +90,7 @@ dem Muster der Anlage 3 zu verwenden.
 
 
 ## § 6 Ärztliche Bescheinigung für den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000701126)
 
 Für die ärztliche Bescheinigung für den Arbeitgeber nach § 39 Abs. 2
 des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
@@ -92,6 +99,7 @@ dem Muster der Anlage 4 zu verwenden.
 
 
 ## § 7 Übermittlung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000801126)
 
 Bei der Übermittlung von Unterlagen nach den in dieser Verordnung
 vorgesehenen Mustern sind die in den Mustern vorgesehenen
@@ -100,17 +108,20 @@ qualifizierten elektronischen Signatur zu versehen.
 
 
 ## § 8 Inkrafttreten, abgelöste Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE000900308)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 vierten Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001000308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 Erhebungsbogen für die Erstuntersuchung nach dem Jugendarbeitsschutzgesetz (JArbSchG)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001101126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 43)
 
@@ -318,6 +329,7 @@ _\_\__\_\__\_\__
 [^F832113_2_BJNR022210990BJNE001101126]: 
 
 ## Anlage 1a Erhebungsbogen für die Nachuntersuchungen nach dem Jugendarbeitsschutzgesetz (JArbSchG)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001201126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 44)
 
@@ -566,6 +578,7 @@ _\_\__\_\__\_\__
 [^F832113_4_BJNR022210990BJNE001201126]: 
 
 ## Anlage 2 Zum Verbleib beim untersuchenden Arzt Erhebungs-/Untersuchungsbogen (Teil 2)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001301126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 45)
 
@@ -764,6 +777,7 @@ _\_\__\_\__\_\__
 [^F832113_5_BJNR022210990BJNE001301126]: 
 
 ## Anlage 2a Zum Verbleib beim untersuchenden Arzt Erhebungs-/Nachuntersuchungsbogen (Teil 2)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001401126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 46)
 
@@ -983,6 +997,7 @@ _\_\__\_\__\_\__
 [^F832113_6_BJNR022210990BJNE001401126]: 
 
 ## Anlage 3 Ärztliche Mitteilung an den Personensorgeberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001501126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 47)
 
@@ -1177,6 +1192,7 @@ _\_\__\_\__\_\__
 [^F832113_7_BJNR022210990BJNE001501126]: 
 
 ## Anlage 4 Ärztliche Bescheinigung für den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/jarbschuv/BJNR022210990.html#BJNR022210990BJNE001701126)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 48)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000100314)
 
 Auf Grund des § 10 Abs. 8 und des § 19 Abs. 7 des
 Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom
@@ -28,6 +29,7 @@ Verkehr:
 
 
 ## § 1 Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000203305)
 
 Die Befugnisse des Bundesministeriums für Verkehr und digitale
 Infrastruktur, die öffentlichen Eisenbahnen nach § 10 Abs. 1 und 2 des
@@ -40,6 +42,7 @@ befreien, werden auf das Eisenbahn-Bundesamt übertragen.
 
 
 ## § 2 Zuständigkeiten für die Verpflichtung zu Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000301311)
 
 (1) Zuständige Behörden sind für die Verpflichtung
 
@@ -109,6 +112,7 @@ die Verpflichtung der Sicherstellung des weiträumigen Verkehrs dient.
 
 
 ## § 3 Zuständigkeiten für die Auferlegung sonstiger Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000406311)
 
 (1) Zuständige Behörden sind für die Auferlegung von Verwahrungs- und
 sonstigen Pflichten nach § 13 des Verkehrssicherstellungsgesetzes und
@@ -211,6 +215,7 @@ Flugplätzen gehören.
 
 
 ## § 4 Ersatzzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000500314)
 
 Sind die nach dieser Verordnung zuständigen Behörden aus tatsächlichen
 Gründen nicht in der Lage, ihre Befugnisse auszuüben, so können diese
@@ -225,6 +230,7 @@ unverzüglich zu unterrichten.
 
 
 ## § 5 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000602123)
 
 (1) Örtlich zuständige Behörde ist für Verpflichtungen, die betreffen:
 
@@ -262,6 +268,7 @@ Bezirk die örtliche Betriebsleitung der Straßenbahn ihren Sitz hat.
 
 
 ## § 6 Inkrafttreten und Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000700314)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
@@ -270,6 +277,7 @@ folgenden Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vsgzustv/BJNR015290992.html#BJNR015290992BJNE000800314)
 
 Der Bundesrat hat zugestimmt.
 

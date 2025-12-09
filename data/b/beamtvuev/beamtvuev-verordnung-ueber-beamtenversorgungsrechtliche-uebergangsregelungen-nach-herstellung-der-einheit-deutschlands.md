@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000203377)
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des
 Beamtenversorgungsgesetzes und der hierzu erlassenen Rechts- und
@@ -47,6 +48,7 @@ Bundesgebiet erfolgt.
 
 
 ## § 2 Maßgaben
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000314377)
 
 (1) Das Beamtenversorgungsgesetz gilt unbeschadet der Regelungen in
 Anlage I Kapitel XIX Sachgebiet A Abschnitt III Nummer 9 des
@@ -139,6 +141,7 @@ Geltungsbereich des Bundesrechts übertritt.
 
 
 ## § 3 Verwendung von Beamten und Richtern
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000802314)
 
 (1) Die Zeit der Verwendung eines Beamten oder eines Richters aus dem
 früheren Bundesgebiet zum Zwecke der Aufbauhilfe im Beitrittsgebiet
@@ -151,6 +154,7 @@ Dezember 1994 beginnt.
 
 
 ## § 4 Verwendung von Beamten und Richtern im Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000407320)
 
 (1) Für Beamte und Richter im Ruhestand, die wegen ihrer besonderen
 Fachkenntnisse zum Zwecke der Aufbauhilfe im Beitrittsgebiet verwendet
@@ -184,11 +188,13 @@ Versorgungsbezug verzichten.
 
 
 ## § 5 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000502314)
 
 
 (zu § 1 Abs. 1)
 
 ## Anlage Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beamtv_v/BJNR006300991.html#BJNR006300991BJNE000704377)
 
 (Fundstelle: BGBl. I 1993, 372;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

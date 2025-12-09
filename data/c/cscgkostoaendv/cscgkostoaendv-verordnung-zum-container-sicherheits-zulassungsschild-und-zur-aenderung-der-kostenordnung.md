@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000100327)
 
 Auf Grund des Artikels 2 Abs. 3 und des Artikels 8 Abs. 2 des Gesetzes
 vom 10. Februar 1976 zu dem Übereinkommen vom 2. Dezember 1972 über
@@ -27,6 +28,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000200327)
 
 Container ohne gültiges CSC-Sicherheits-Zulassungsschild (Regel 1 der
 Anlage I des Übereinkommens) dürfen vom 1. Januar 1987 an nicht in den
@@ -34,11 +36,13 @@ oder aus dem Geltungsbereich dieser Verordnung befördert werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000300327)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000400327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 10 des in der Eingangsformel genannten Gesetzes
@@ -46,11 +50,13 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000500327)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/cscgkosto_ndv/BJNR022210985.html#BJNR022210985BJNE000600327)
 
 Der Bundesminister für Verkehr
 

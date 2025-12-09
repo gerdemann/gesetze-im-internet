@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano_1963-11/BJNR521500963.html#BJNR521500963BJNE000101308)
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962
@@ -43,6 +44,7 @@ für die Beamten in ihrem Dienstbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano_1963-11/BJNR521500963.html#BJNR521500963BJNE000200314)
 
 Die Jubiläumsurkunden werden in folgender Form vollzogen:
 
@@ -63,12 +65,14 @@ Die Jubiläumsurkunden werden in folgender Form vollzogen:
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano_1963-11/BJNR521500963.html#BJNR521500963BJNE000300314)
 
 Die Anordnung tritt mit Wirkung vom Tage nach der Verkündung in Kraft.
 ...
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano_1963-11/BJNR521500963.html#BJNR521500963BJNE000400314)
 
 Der Bundesminister des Innern
 

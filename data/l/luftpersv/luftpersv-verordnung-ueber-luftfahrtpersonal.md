@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Erlaubnispflicht, Ausbildung und Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG000102305)
 
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG000201305)
 
 
 
 #### § 1 Erlaubnispflichtiges Personal
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE003503305)
 
 Das erlaubnispflichtige Personal im Sinne des § 4 Absatz 1 und 2 des
 Luftverkehrsgesetzes umfasst:
@@ -71,6 +74,7 @@ Luftverkehrsgesetzes umfasst:
 
 
 #### § 2 Arten der Erlaubnis und Sonderregelungen der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE003604311)
 
 (1) Erlaubnisse sind:
 
@@ -122,6 +126,7 @@ gemäß § 106 vergleichbar ist.
 
 
 #### § 3 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE003705360)
 
 (1) Die fachlichen Voraussetzungen und die Prüfungen zum Erwerb von
 Erlaubnissen und Berechtigungen sowie die Bestimmungen über die
@@ -185,6 +190,7 @@ Zulassung oder Berechtigung.
 
 
 #### § 4 Mindestalter bei Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE003804305)
 
 Das Mindestalter zum Erlangen eines Luftfahrerscheins oder eines
 Ausweises beträgt
@@ -225,6 +231,7 @@ Ausweises beträgt
 
 
 #### § 5 Zuständige Stellen für die Erteilung von Erlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE003904360)
 
 (1) Zuständige Stellen für die Erteilung der Erlaubnisse nach § 2
 einschließlich der Berechtigungen, mit Ausnahme der
@@ -292,6 +299,7 @@ der folgenden Erlaubnisse an aktive Angehörige der Bundeswehr:
 
 
 #### § 6 Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020502301)
 
 Das Luftfahrt-Bundesamt wird ermächtigt, soweit dies zur
 Gewährleistung der Sicherheit des Luftverkehrs notwendig ist, durch
@@ -316,6 +324,7 @@ Rechtsverordnungen Einzelheiten festzulegen
 
 
 #### § 7 Antrag auf Erteilung einer Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020601311)
 
 (1) Der Antrag auf Erteilung einer Lizenz oder
 Flugbegleiterbescheinigung, eines Ausweises oder Luftfahrerscheins
@@ -378,6 +387,7 @@ kann erst gestellt werden, wenn alle Voraussetzungen nach § 16 Absatz
 
 
 #### § 8 Erteilung der Erlaubnis und mitzuführende Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020700305)
 
 (1) Die nach § 5 zuständige Stelle erteilt die Erlaubnis durch
 Aushändigung einer Lizenz, eines Luftfahrerscheins, eines Ausweises
@@ -399,6 +409,7 @@ der erlaubnispflichtigen Tätigkeit mitzuführen:
 
 
 #### § 9 Gültigkeitsdauer von Erlaubnissen und Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020801360)
 
 (1) Eine nach dieser Verordnung oder nach der Verordnung (EU) Nr.
 1178/2011 erteilte Erlaubnis ist, soweit nichts anderes bestimmt ist,
@@ -413,6 +424,7 @@ richtet sich nach den dafür maßgeblichen Vorschriften.
 
 
 #### § 10 Voraussetzungen für die Erneuerung von Erlaubnissen und Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020902311)
 
 (1) Für die Erneuerung einer Erlaubnis, einschließlich der
 Berechtigungen, müssen die Voraussetzungen des § 16 fortbestehen. In
@@ -432,6 +444,7 @@ Sprachkenntnisse nach Anhang I FCL.055 und Anlage 2 der Verordnung
 
 
 #### § 11 Ausübung der Rechte aus einer Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021001311)
 
 (1) Die Rechte aus einer Erlaubnis dürfen nur ausgeübt werden, wenn
 die zur Erteilung der Erlaubnis geforderten Zeugnisse und Nachweise
@@ -474,6 +487,7 @@ der Erlaubnis nur dann ausüben, wenn die Anforderungen der Verordnung
 
 
 #### § 12 Anrechnung von im Militärdienst erworbenen Kenntnissen, Erfahrungen und Fähigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE004603360)
 
 Die im Militärdienst erworbenen Kenntnisse, Erfahrungen und
 Fähigkeiten werden in Bezug auf die einschlägigen Anforderungen des
@@ -483,6 +497,7 @@ Festlegungen des Anrechnungsberichts nach Artikel 10 der Verordnung
 
 
 #### § 13 Anerkennung von Erlaubnissen für Flugingenieure
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE004703305)
 
 Erlaubnisse und Berechtigungen für eine Tätigkeit als Flugingenieur,
 die in Übereinstimmung mit den Bestimmungen über die Lizenzierung von
@@ -493,6 +508,7 @@ Luftfahrt-Bundesamt allgemein anerkannt.
 
 
 #### § 14 Anerkennung von Flugsimulationsübungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020400305)
 
 Nutzen Ausbildungsbetriebe zum Zweck der Ausbildung von
 erlaubnispflichtigem Personal nach § 1 Nummer 2 bis 5
@@ -502,6 +518,7 @@ Geräte die Bestimmungen des Anhangs VI der Verordnung (EU) Nr.
 
 
 #### § 15 Widerruf, Beschränkung und Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021102311)
 
 (1) Erlaubnisse nach § 2 Absatz 1 Nummer 1 und 3 werden gemäß Anhang
 VI ARA.FCL.250 der Verordnung (EU) Nr. 1178/2011 und Erlaubnisse nach
@@ -565,6 +582,7 @@ zuständigen Stelle angeordneten Überprüfung nachgewiesen hat.
 
 
 #### § 16 Voraussetzungen für die Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021203311)
 
 (1) Die Ausbildung von erlaubnispflichtigem Personal nach § 1 Nummer 1
 bis 6 und 9 ist nur zulässig, wenn
@@ -656,6 +674,7 @@ und veröffentlicht sie. § 106 ist entsprechend anzuwenden.
 
 
 #### § 17 Mindestalter für den Beginn der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021301305)
 
 Das Mindestalter für den Beginn der Ausbildung beträgt
 
@@ -699,6 +718,7 @@ Ausbildungsbeginn zulassen.
 
 
 #### § 18 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021402125)
 
 (1) Die Zuverlässigkeit eines Bewerbers um eine Erlaubnis nach § 2
 wird von der nach § 5 zuständigen Stelle geprüft. Satz 1 gilt auch
@@ -750,6 +770,7 @@ Erlaubnis für erlaubnispflichtiges Personal nach § 1 Nummer 7 und 8.
 
 
 #### § 19 Bewerbermeldung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021500305)
 
 (1) Der Ausbildungsbetrieb meldet jeden neu aufgenommenen Bewerber um
 eine Erlaubnis spätestens acht Tage nach Ausbildungsbeginn der nach §
@@ -765,6 +786,7 @@ zuverlässig ist.
 
 
 #### § 20 Zweifel an der Tauglichkeit oder Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021600305)
 
 Ergeben sich Zweifel an der Tauglichkeit oder Zuverlässigkeit des
 Bewerbers um eine Erlaubnis, darf die Ausbildung nicht aufgenommen
@@ -778,6 +800,7 @@ der Ausbildung, wenn der Bewerber die Voraussetzungen des § 16 oder §
 
 
 #### § 21 Flugmedizinische Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021703360)
 
 (1) Flugmedizinische Sachverständige und flugmedizinische Zentren
 übermitteln den medizinischen Sachverständigen des Luftfahrt-
@@ -818,6 +841,7 @@ zusätzlich auf seiner Internetseite.
 
 
 #### § 21a Medizinische Sachverständige des Luftfahrt-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023500360)
 
 (1) Die medizinischen Sachverständigen des Luftfahrt-Bundesamtes und
 deren medizinisches und nichtmedizinisches Hilfspersonal müssen
@@ -843,6 +867,7 @@ obliegende Verschwiegenheitspflicht aufgeklärt werden.
 
 
 #### § 22 Alleinflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021800305)
 
 (1) Alleinflüge während der Ausbildung zum erstmaligen Erwerb der
 Erlaubnis sind nur zulässig, wenn sie dem Ausbildungszweck dienen und
@@ -857,6 +882,7 @@ einzuhalten.
 
 
 #### § 23 Ausbildungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE021902311)
 
 (1) Die Ausbildung von fliegendem Personal nach § 1 Nummer 1 bis 6 und
 9 darf nur durch die folgenden Ausbildungsbetriebe durchgeführt
@@ -917,6 +943,7 @@ nach § 1 Nummer 7 und 8.
 
 
 #### § 24 Voraussetzungen für den Erwerb der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022002311)
 
 Die Voraussetzungen für den Erwerb der Erlaubnis zur Ausbildung von
 erlaubnispflichtigem Personal richten sich für
@@ -940,6 +967,7 @@ erlaubnispflichtigem Personal richten sich für
 
 
 #### § 25 Form der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022102311)
 
 Die Ausbildungserlaubnis wird
 
@@ -959,6 +987,7 @@ Die Ausbildungserlaubnis wird
 
 
 #### § 26 Zuständige Stellen für die Erteilung der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022202311)
 
 Zuständige Stellen für die Erteilung der Ausbildungserlaubnis sind:
 
@@ -1050,6 +1079,7 @@ Zuständige Stellen für die Erteilung der Ausbildungserlaubnis sind:
 
 
 #### § 26a Zuständige Stellen für die Verwaltung von Erklärungen und für die Genehmigung von Ausbildungsprogrammen von erklärten Ausbildungsorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023600360)
 
 Zuständig für die Verwaltung von Erklärungen nach Anhang VIII
 DTO.GEN.115 und Anhang VI ARA.DTO.100 der Verordnung (EU) Nr.
@@ -1061,6 +1091,7 @@ Hauptgeschäftssitz hat.
 
 
 #### § 27 Antrag auf Erteilung der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022404311)
 
 Der Antrag auf Erteilung der Zulassung für genehmigte
 Ausbildungseinrichtungen muss folgende Angaben enthalten:
@@ -1086,6 +1117,7 @@ Verordnung (EU) Nr. 1321/2014 entsprechend.
 
 
 #### § 28 Erteilung und Umfang der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022301360)
 
 (1) Die nach § 26 zuständige Stelle erteilt dem Ausbildungsbetrieb die
 Ausbildungserlaubnis, wenn
@@ -1158,6 +1190,7 @@ Stelle.
 
 
 #### § 29 Zulassung eines Dachverbandes als Ausbildungsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022500305)
 
 Die Ausbildungserlaubnis nach dieser Verordnung oder nach Anhang I
 Abschnitt B und C der Verordnung (EU) Nr. 1178/2011 kann auch einem
@@ -1168,6 +1201,7 @@ entsprechend.
 
 
 #### § 30 Beginn der Ausbildungstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022600305)
 
 Die Ausbildungstätigkeit darf erst ausgeübt werden, wenn die nach § 26
 zuständige Stelle die Voraussetzungen geprüft und der genehmigten
@@ -1175,6 +1209,7 @@ Ausbildungseinrichtung die Zulassung mitgeteilt hat.
 
 
 #### § 31 Aufsicht über Ausbildungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022700305)
 
 (1) Die nach § 26 zuständige Stelle führt die Aufsicht über die
 Ausbildungsbetriebe.
@@ -1209,6 +1244,7 @@ vorzulegen, der mindestens folgende Angaben enthalten muss:
 
 
 #### § 32 Rücknahme und Widerruf der Ausbildungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022800305)
 
 Die Zulassung für genehmigte Ausbildungseinrichtungen oder die
 Genehmigung für Ausbildungsbetriebe ist zurückzunehmen, wenn die
@@ -1219,9 +1255,11 @@ wenn von ihr länger als ein Jahr kein Gebrauch gemacht worden ist.
 
 
 #### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE022902301)
 
 
 #### § 34 Fliegerärztlicher Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023003360)
 
 (1) Zur Beratung der medizinischen Sachverständigen des Luftfahrt-
 Bundesamtes bei Verfahren nach § 21 Absatz 4 Satz 1 wird ein
@@ -1250,18 +1288,22 @@ Empfehlungen des fliegerärztlichen Ausschusses nicht gebunden.
 
 
 ### Unterabschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001002305)
 
 
 
 #### (XXXX) §§ 36 bis 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE007003305)
 
 
 
 ### Unterabschnitt 2 - Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001103305)
 
 
 
 #### § 42 Fachliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE007605116)
 
 (1) Fachliche Voraussetzungen für den Erwerb des Luftfahrerscheins für
 Luftsportgeräteführer sind
@@ -1408,11 +1450,13 @@ Luftverkehrs-Zulassungs-Ordnung umfasst
 
 
 #### § 42a
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018401308)
 
 (weggefallen)
 
 
 #### § 43 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE007703116)
 
 (1) Der Bewerber hat in einer theoretischen und praktischen Prüfung
 nachzuweisen, dass er nach seinem fachlichen Wissen und praktischen
@@ -1436,6 +1480,7 @@ erfüllt.
 
 
 #### § 44 Erteilung und Umfang des Luftfahrerscheins für Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE007803305)
 
 (1) Der Luftfahrerschein für Luftsportgeräteführer wird durch
 Aushändigung des Luftfahrerscheins nach Muster 5 der Anlage 1 zu
@@ -1465,6 +1510,7 @@ umfasst hat.
 
 
 #### § 45 Gültigkeit des Luftfahrerscheins für Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE007904116)
 
 (1) Der Luftfahrerschein für Luftsportgeräteführer nach § 42 wird
 unbefristet erteilt. Der Luftfahrerschein für Luftsportgeräteführer,
@@ -1519,6 +1565,7 @@ Luftverkehrsgesetzes entsprechend § 42 Absatz 2 fest.
 
 
 #### § 45a Flugerfahrung bei Mitnahme von Fluggästen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023200305)
 
 Ein Luftsportgeräteführer darf ein Luftsportgerät, in dem sich
 Fluggäste befinden, als verantwortlicher Luftsportgeräteführer nur
@@ -1530,6 +1577,7 @@ durchgeführt haben müssen.
 
 
 #### § 45b Anrechnung von Flugzeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023300305)
 
 Als Flugzeiten für den Erwerb und die Erweiterung eines
 Luftfahrerscheins für Luftsportgeräteführer sowie den Nachweis für die
@@ -1558,34 +1606,42 @@ nichts anderes bestimmt ist:
 
 
 ### Unterabschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001202305)
 
 
 
 #### (XXXX) §§ 46 bis 49 Fachliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE008002305)
 
 
 
 ### Unterabschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001302305)
 
 
 
 #### (XXXX) §§ 50 bis 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE008402305)
 
 
 
 #### (XXXX) §§ 54 bis 57 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE008801308)
 
 
 
 #### (XXXX) §§ 58 bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE009201308)
 
 
 
 ### Unterabschnitt 3 - Flugtechniker auf Hubschraubern der Polizeien des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001603305)
 
 
 
 #### § 62 Fachliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE009602305)
 
 (1) Fachliche Voraussetzungen für den Erwerb des Luftfahrerscheins für
 Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
@@ -1642,6 +1698,7 @@ Kenntnisse und Fertigkeiten nachweist.
 
 
 #### § 63 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE009701308)
 
 Der Bewerber hat in einer theoretischen und praktischen Prüfung
 nachzuweisen, dass er nach seinem praktischen Können und seinem
@@ -1651,6 +1708,7 @@ erfüllt.
 
 
 #### § 64 Erteilung und Umfang des Luftfahrerscheins für Flugtechniker
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE009802305)
 
 (1) Der Luftfahrerschein für Flugtechniker auf Hubschraubern der
 Polizeien des Bundes und der Länder wird durch Aushändigung des
@@ -1672,6 +1730,7 @@ Vorschriften für Hubschrauberführer gemäß der Verordnung (EU) Nr.
 
 
 #### § 65 Gültigkeit des Luftfahrerscheins für Flugtechniker
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE009902305)
 
 (1) Der Luftfahrerschein für Flugtechniker auf Hubschraubern wird
 unbefristet erteilt. Der Luftfahrerschein ist nur gültig in Verbindung
@@ -1687,18 +1746,22 @@ werden.
 
 
 #### (XXXX) §§ 66 bis 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE010001308)
 
 
 
 #### (XXXX) §§ 71 bis 76 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE010502308)
 
 
 
 ### Unterabschnitt 4 - Berechtigung für Langstreckenflug
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG001904305)
 
 
 
 #### § 77 Langstreckenflugberechtigung für Flugzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011104305)
 
 (1) Inhaber von Erlaubnissen, die nicht nach den Bestimmungen über die
 Lizenzierung von Piloten von Flugzeugen oder Hubschraubern (Verordnung
@@ -1747,26 +1810,32 @@ Absatz 3 aufgeführten Sachgebieten besitzt.
 
 
 #### (XXXX) §§ 78 bis 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011103308)
 
 
 
 ### Unterabschnitt 5 - Berechtigung für Schleppflug und Passagierberechtigung für Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003600305)
 
 
 
 #### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011503305)
 
 
 
 #### § 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011603305)
 
 
 
 #### § 83 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011703305)
 
 
 
 #### § 84 Schleppberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011804305)
 
 (1) Führer von motorgetriebenen Luftsportgeräten bedürfen zum
 Schleppen anderer Luftfahrzeuge oder anderer Gegenstände einer
@@ -1833,6 +1902,7 @@ Nr. 2 anzuwenden.
 
 
 #### § 84a Passagierberechtigung für Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018502305)
 
 (1) Luftsportgeräteführer bedürfen für Flüge oder Sprünge mit
 Passagieren der Passagierberechtigung.
@@ -1870,23 +1940,28 @@ die Verlängerung festlegt.
 
 
 #### § 85 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE011903305)
 
 
 
 #### § 86 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012002305)
 
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012102308)
 
 (weggefallen)
 
 
 ### Unterabschnitt 6 - Berechtigung zur praktischen Ausbildung von Luftfahrtpersonal sowie zur Ausbildung an synthetischen Flugübungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002103305)
 
 
 
 #### § 88 Berechtigung zur praktischen Ausbildung von Flugingenieuren
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012203305)
 
 Die fachlichen Voraussetzungen für den Erwerb, die Erteilung, den
 Umfang, die Gültigkeitsdauer, die Verlängerung und die Erneuerung der
@@ -1912,26 +1987,32 @@ sich nach JAR-FCL 4 deutsch.
 
 
 #### § 88a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE019602305)
 
 
 
 #### § 89 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012303305)
 
 
 
 #### (XXXX) §§ 90 bis 93 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012401308)
 
 
 
 #### § 94 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012802305)
 
 
 
 #### § 95 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE012903305)
 
 
 
 #### § 95a Berechtigung zur praktischen Ausbildung von Luftsportgeräteführern
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE019702116)
 
 (1) Fachliche Voraussetzungen für den Erwerb der Berechtigung,
 Luftsportgeräteführer praktisch auszubilden, sind
@@ -1999,6 +2080,7 @@ Anforderungen erfüllt.
 
 
 #### § 96 Erteilung, Umfang, Gültigkeit, Verlängerung und Erneuerung der Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013003305)
 
 (1) Die Berechtigungen nach den §§ 88 und 95a werden mit einer
 Gültigkeitsdauer von drei Jahren erteilt. Die Berechtigung nach § 95a
@@ -2042,30 +2124,37 @@ richten sich nach JAR-FCL 4 deutsch.
 
 
 #### (XXXX) §§ 97 und 97a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013102308)
 
 
 
 ### Unterabschnitt 10 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002202305)
 
 
 
 #### § 98 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013203305)
 
 
 
 #### (XXXX) §§ 99 bis 103 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013302308)
 
 
 
 ## Abschnitt 2 - Weitere Erlaubnisse und Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002301305)
 
 
 
 ### Unterabschnitt 1 - Prüfer von Luftfahrtgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002401305)
 
 
 
 #### § 104 Erteilung und Umfang der Erlaubnis für Prüfer von Luftfahrtgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013807311)
 
 (1) Prüfer von Luftfahrtgerät bedürfen einer Prüferlaubnis.
 
@@ -2120,6 +2209,7 @@ nationalen Lizenzanhang.
 
 
 #### § 105 Musterberechtigung für Prüfer von Luftfahrtgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE013904311)
 
 (1) Prüfer von Luftfahrtgerät der Klasse 4 bedürfen für die Ausübung
 der Prüftätigkeit an Luftfahrtgerät einer Musterberechtigung. Für
@@ -2154,6 +2244,7 @@ Sammeleintragung für eine größere Anzahl von Einzelmustern, die
 
 
 #### § 106 Fachliche Voraussetzungen für die Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014005311)
 
 (1) Die fachlichen Voraussetzungen für den Erwerb der Erlaubnis für
 Prüfer von Luftfahrtgerät der Klasse 4 sind:
@@ -2224,6 +2315,7 @@ Stelle.
 
 
 #### § 107 Ersetzbarkeit der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014103311)
 
 Die Berufsausbildung nach § 106 Absatz 1 Nummer 1 oder Absatz 2 Nummer
 1 kann ersetzt werden
@@ -2263,6 +2355,7 @@ Die Berufsausbildung nach § 106 Absatz 1 Nummer 1 oder Absatz 2 Nummer
 
 
 #### § 108 Anrechenbarkeit praktischer Erfahrung, Ersetzbarkeit der beruflichen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014208311)
 
 (1) Die zuständige Stelle kann auf die Erfahrung in der Instandhaltung
 von Luftfahrtgerät nach § 106 Absatz 1 Nummer 2 oder auf die beruflich
@@ -2278,6 +2371,7 @@ für Luftsportgerät ausgeübt wurde.
 
 
 #### § 109 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014307311)
 
 Der Bewerber hat in einer Prüfung nachzuweisen, dass er nach seinem
 fachlichen Wissen und seinem praktischen Können die Anforderungen
@@ -2285,6 +2379,7 @@ erfüllt, die an einen Prüfer von Luftfahrtgerät zu stellen sind.
 
 
 #### § 110 Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014405311)
 
 (1) Die Erlaubnis wird mit einer Gültigkeitsdauer von fünf Jahren
 erteilt.
@@ -2323,14 +2418,17 @@ Verordnung (EU) Nr. 1321/2014.
 
 
 #### § 111 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014502311)
 
 
 
 ### Unterabschnitt 2 - Freigabeberechtigtes Personal
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003402305)
 
 
 
 #### § 111a Fachliche Voraussetzungen, Prüfungen, Erteilung und Umfang der Erlaubnis für freigabeberechtigtes Personal
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018806311)
 
 (1) Das freigabeberechtigte Personal bedarf einer Lizenz zur Ausübung
 der Prüf- und Zulassungstätigkeit. Die fachlichen Voraussetzungen, die
@@ -2375,10 +2473,12 @@ anzuwenden.
 
 
 ### Unterabschnitt 3 - Flugdienstberater
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002502305)
 
 
 
 #### § 112 Fachliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014603305)
 
 (1) Flugdienstberater bedürfen zur Ausübung ihrer Tätigkeit eines
 Luftfahrerscheins für Flugdienstberater.
@@ -2451,6 +2551,7 @@ praktische Ausbildung angerechnet werden.
 
 
 #### § 113 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014702305)
 
 (1) Der Bewerber hat in einer theoretischen und praktischen Prüfung
 nachzuweisen, dass er nach seinem fachlichen Wissen und seinem
@@ -2472,6 +2573,7 @@ Luftfahrtunternehmen durchzuführen.
 
 
 #### § 114 Erteilung, Umfang und Gültigkeit des Luftfahrerscheins für Flugdienstberater
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014803305)
 
 Der Luftfahrerschein für Flugdienstberater wird unbefristet erteilt.
 Der Luftfahrerschein für Flugdienstberater wird durch Aushändigung des
@@ -2490,10 +2592,12 @@ sonstiger Änderung der Daten neu ausgestellt.
 
 
 ### Unterabschnitt 4 - Steuerer von Flugmodellen nach § 1 Absatz 1 Nummer 8 der Luftverkehrs-Zulassungs-Ordnung und sonstigem Luftfahrtgerät, das nach § 6 Nummer 9 der Luftverkehrs-Zulassungs-Ordnung verkehrszulassungspflichtig ist
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002602305)
 
 
 
 #### § 115 Fachliche Voraussetzungen, Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE014902305)
 
 (1) Fachliche Voraussetzung für den Erwerb des Ausweises für Steuerer
 von Flugmodellen ist der Nachweis der zum Steuern von Flugmodellen
@@ -2522,6 +2626,7 @@ einen von der zuständigen Stelle beauftragten Prüfer zu führen.
 
 
 #### § 116 Erteilung, Umfang und Gültigkeit des Ausweises für Steuerer von Flugmodellen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015002305)
 
 (1) Der Ausweis für Steuerer von Flugmodellen oder sonstigen
 Luftfahrtgeräten wird durch Aushändigung des Ausweises nach Muster 11
@@ -2533,14 +2638,17 @@ erteilt.
 
 
 ## Abschnitt 3 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002701305)
 
 
 
 ### Unterabschnitt 1 - Alleinflüge zum Erwerb, zur Erweiterung oder zur Erneuerung einer Lizenz, eines Luftfahrerscheins oder einer Berechtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002802305)
 
 
 
 #### § 117 Alleinflüge zum Erwerb, zur Erweiterung oder Erneuerung eines Luftfahrerscheins oder einer Berechtigung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015104305)
 
 (1) Wer einen Luftfahrerschein oder eine Berechtigung zum Führen von
 motorgetriebenen Luftsportgeräten erwerben, erweitern oder erneuern
@@ -2586,14 +2694,17 @@ für die Alleinflüge und den Flugauftrag fest.
 
 
 #### (XXXX) §§ 118 und 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015201308)
 
 
 
 ### Unterabschnitt 2 - Nachweis der fliegerischen und fachlichen Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG002902305)
 
 
 
 #### § 120 Nachweis der fliegerischen Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015403305)
 
 (1) Erlaubnispflichtiges Personal nach § 1 Nummer 2 bis 4 hat ein
 Flug-, Fahrten- oder Sprungbuch zu führen, in das alle Flüge, Fahrten
@@ -2652,6 +2763,7 @@ Anforderungen nach Absatz 1 auf andere Weise gewährleistet ist.
 
 
 #### § 121 Nachweis der theoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015502305)
 
 (1) Der Bewerber um einen Luftfahrerschein, einen Ausweis oder eine
 Berechtigung nach dieser Verordnung ist verpflichtet ein
@@ -2672,19 +2784,23 @@ Fernschule.
 
 
 #### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015605305)
 
 
 
 #### § 123
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015702308)
 
 (weggefallen)
 
 
 #### § 124 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015803305)
 
 
 
 #### § 125 Nachweis von Sprachkenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE015906360)
 
 (1) Sprachkenntnisse nach Anhang I FCL.055 der Verordnung (EU) Nr.
 1178/2011 sind durch eine Sprachprüfung nachzuweisen, die bei einer
@@ -2723,6 +2839,7 @@ jeweilige Erlaubnis für Luftfahrtpersonal übernommen.
 
 
 #### § 125a Anerkennung einer Stelle für die Abnahme von Sprachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE019902360)
 
 (1) Das Luftfahrt-Bundesamt und das Luftfahrtamt der Bundeswehr
 erkennen für ihren jeweiligen Zuständigkeitsbereich auf Antrag Stellen
@@ -2744,22 +2861,27 @@ Rechtsverordnung festlegen.
 
 
 #### § 126 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016002305)
 
 
 
 ### Unterabschnitt 2a - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003502305)
 
 
 
 #### § 127 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016103305)
 
 
 
 ### Unterabschnitt 3 - Durchführung der Prüfungen, Befähigungsüberprüfungen und Kompetenzbeurteilungen; Berücksichtigung einer theoretischen Vorbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003002305)
 
 
 
 #### § 128 Prüfungen, Befähigungsüberprüfungen und Kompetenzbeurteilungen für Luftfahrer; Anerkennung von Prüfern
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016206360)
 
 (1) Die Prüfungen, Befähigungsüberprüfungen und Kompetenzbeurteilungen
 für den Erwerb, die Verlängerung oder Erneuerung von Erlaubnissen und
@@ -2856,6 +2978,7 @@ sind.
 
 
 #### § 128a Prüfungen für freigabeberechtigtes Personal und für Prüfer von Luftfahrtgerät; Anerkennung von Prüfern
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023101360)
 
 (1) Die Prüfungen und Prüfungsverfahren für den Erwerb von
 Erlaubnissen und Berechtigungen sowie die Anerkennung von Prüfern
@@ -2910,6 +3033,7 @@ der zuständigen Stelle angehört.
 
 
 #### § 129 Berücksichtigung einer theoretischen Vorbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016304305)
 
 Weist ein Bewerber um eine Erlaubnis nach dieser Verordnung besondere
 Kenntnisse in einem Sachgebiet der theoretischen Ausbildung nach, kann
@@ -2921,14 +3045,17 @@ Prüfung entsprechend anzuwenden.
 
 
 #### § 130 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016404305)
 
 
 
 ### Unterabschnitt 4 - Zuständige Stellen, Antragstellung, Berechtigung zur Ausübung des Sprechfunkdienstes
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003203305)
 
 
 
 #### § 131 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016506360)
 
 Zuständige Stellen für Verwaltungstätigkeiten nach dieser Verordnung
 sind die nach § 5 für die Erteilung der betreffenden Erlaubnisse und
@@ -2939,6 +3066,7 @@ andere Regelung trifft.
 
 
 #### § 132 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016603305)
 
 (1) Dem Antrag auf Durchführung der vorgeschriebenen Prüfungen oder
 Befähigungsüberprüfungen sind die Nachweise und Erklärungen über die
@@ -2951,6 +3079,7 @@ zuständigen Stelle im Einzelfall bestimmt.
 
 
 #### § 133 Berechtigung zur Ausübung des Sprechfunkdienstes
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016704308)
 
 (1) Die Berechtigung zur Ausübung des Sprechfunkdienstes kann im
 Luftfahrerschein eingetragen werden. Der Umfang richtet sich nach der
@@ -2962,14 +3091,17 @@ des Flugfunkdienstes im Luftfahrerschein eingetragen ist.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNG003302305)
 
 
 
 ### § 133a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE019802305)
 
 
 
 ### § 134 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016806311)
 
 (1) Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3148,6 +3280,7 @@ er vorsätzlich oder fahrlässig
 
 
 ### § 135 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE016904305)
 
 (1) Nach JAR-FCL ausgestellte Lizenzen und Berechtigungen für Privat-,
 Berufs- und Verkehrspiloten werden auf Antrag im Rahmen der
@@ -3173,16 +3306,19 @@ Anhang I der Verordnung (EU) Nr. 1178/2011.
 
 
 ### § 136
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017000328)
 
 (Inkrafttreten, Aufhebung und Änderung von Rechtsvorschriften)
 
 
 ### § 137
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017101314)
 
 -
 
 
 ### Anlage 1 Luftfahrerscheine (Muster 1 bis 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020302305)
 
 (Fundstelle: BGBl. I 2003, 218 - 227)
 Text siehe: Muster 1 bis 11; bzgl. der einzelnen Änderungen vgl.
@@ -3190,22 +3326,27 @@ jeweilige Fußnote
 
 
 ### Muster 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017203305)
 
 
 
 ### Muster 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017304305)
 
 
 
 ### Muster 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017403305)
 
 
 
 ### Muster 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017504305)
 
 
 
 ### Muster 5 Luftfahrerschein für Luftsportgeräteführer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017602308)
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins für
 Luftsportgeräteführer,
@@ -3213,21 +3354,25 @@ Fundstelle: BGBl. I 2003, 223)
 
 
 ### Muster 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017703305)
 
 
 
 ### Muster 7
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017801308)
 
 (weggefallen)
 
 
 ### Muster 8 Luftfahrerschein für Flugtechniker auf Hubschraubern
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE017901308)
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 225)
 
 
 ### Muster 9a Ausweis für Prüfer von Luftsportgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018701311)
 
 (Fundstelle: BGBl. I 1993, 768;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3236,18 +3381,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ![bgbl1_1993_j0768_0020.jpg](bgbl1_1993_j0768_0020.jpg)
 
 ### Muster 10 Luftfahrerschein für Flugdienstberater
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018101308)
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 226)
 
 
 ### Muster 11 Ausweis für Steuerer von Flugmodellen und von sonstigem für die Benutzung des Luftraums bestimmten Luftfahrtgerät
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018201308)
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 2003, 227)
 
 
 ### Anlage 2 (zu § 125a)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE020202360)
 
 (Fundstelle: BGBl. I 2008, 1837 - 1838)
 Voraussetzungen für die
@@ -3362,6 +3510,7 @@ Voraussetzungen für die
 
 
 ### Anlage 3 (zu § 27)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE023400305)
 
 (BGBl. I 2014, 2256 — 2257)
 
@@ -3454,5 +3603,6 @@ Voraussetzungen für die
 
 
 ### Muster 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersv/BJNR000530976.html#BJNR000530976BJNE018001305)
 
 

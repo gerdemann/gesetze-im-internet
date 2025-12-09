@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000100317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Gemeinschaftsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000202377)
 
 (1) Zur Verbesserung der regionalen Wirtschaftsstruktur werden
 folgende Maßnahmen als Gemeinschaftsaufgabe im Sinne des Artikels 91a
@@ -68,6 +70,7 @@ geförderten Projekten innerhalb benachbarter Fördergebiete stehen.
 
 
 ## § 2 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000303125)
 
 (1) Die Förderung der in § 1 Abs. 1 genannten Maßnahmen muß mit den
 Grundsätzen der allgemeinen Wirtschaftspolitik und mit den Zielen und
@@ -123,12 +126,14 @@ Empfängers gewährt.
 
 
 ## § 3 Förderungsarten
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000401377)
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen und Bürgschaften bestehen.
 
 
 ## § 4 Gemeinsamer Koordinierungsrahmen für die regionale Wirtschaftsförderung
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000501377)
 
 (1) Für die Erfüllung der Gemeinschaftsaufgabe wird ein gemeinsamer
 Koordinierungsrahmen für die regionale Wirtschaftsförderung
@@ -165,6 +170,7 @@ weiterzuentwickeln.
 
 
 ## § 5 Koordinierungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE000706118)
 
 (1) Für die Beschlussfassung über den gemeinsamen Koordinierungsrahmen
 und Anpassungen nach § 4 Abs. 2 und 3 bilden die Bundesregierung und
@@ -181,6 +187,7 @@ und der Mehrheit der Stimmen der Länder.
 
 
 ## § 6 Durchführung und Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001001377)
 
 (1) Die Durchführung der Maßnahmen des gemeinsamen
 Koordinierungsrahmens  ist Aufgabe der Länder.
@@ -197,6 +204,7 @@ Gemeinschaftsaufgabe.
 
 
 ## § 7 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001104377)
 
 (1) Der Bund trägt vorbehaltlich der Bestimmung des Artikels 91a Abs.
 3 des Grundgesetzes die Hälfte der Ausgaben in jedem Land.
@@ -213,6 +221,7 @@ gemeinsamen Koordinierungsrahmens einsetzen.
 
 
 ## § 8 Rückzahlung und Verzinsung der Bundesmittel
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001202377)
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung
 erhaltener Darlehen oder zum Ausgleich der auf Grund übernommener
@@ -237,14 +246,17 @@ beim Land.
 
 
 ## (XXXX) §§ 9 bis 11 (jetzt §§ 6 bis 8)
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001001125)
 
 
 
 ## (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001301377)
 
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wistruktg/BJNR018610969.html#BJNR018610969BJNE001500317)
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
 

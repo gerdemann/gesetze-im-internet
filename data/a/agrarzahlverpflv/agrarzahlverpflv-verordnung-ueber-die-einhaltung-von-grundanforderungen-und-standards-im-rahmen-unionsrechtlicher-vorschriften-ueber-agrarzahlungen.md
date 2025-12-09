@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund
@@ -49,9 +50,11 @@ Grund
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -78,9 +81,11 @@ Diese Verordnung regelt
 
 
 ## Abschnitt 2 - Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNG000200000)
 
 
 ### § 2 Schaffung von Pufferzonen entlang von Wasserläufen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000302119)
 
 Wer landwirtschaftliche Flächen entlang von Wasserläufen
 bewirtschaftet, hat zur Erhaltung des guten landwirtschaftlichen und
@@ -99,6 +104,7 @@ Anforderungen nach Landesrecht zu beachten.
 
 
 ### § 3 Einhaltung von Genehmigungsverfahren für die Verwendung von Wasser zur Bewässerung
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000400000)
 
 Wer landwirtschaftliche Flächen beregnet oder sonst bewässert, hat bei
 einer erlaubnispflichtigen oder bewilligungspflichtigen
@@ -110,6 +116,7 @@ nachzuweisen, dass die Erlaubnis oder Bewilligung vorliegt.
 
 
 ### § 4 Schutz des Grundwassers gegen Verschmutzung
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000500000)
 
 (1) Stoffe nach Liste I der Anlage 1 dürfen im Rahmen einer
 landwirtschaftlichen Tätigkeit nicht in das Grundwasser eingeleitet
@@ -163,6 +170,7 @@ betreffen.
 
 
 ### § 5 Mindestanforderungen an die Bodenbedeckung
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000607123)
 
 (1) Ackerland, das durch den Betriebsinhaber als im Umweltinteresse
 genutzte Fläche im Sinne von Artikel 46 Absatz 2 Buchstabe a, c, d
@@ -273,6 +281,7 @@ Jahres.
 
 
 ### § 6 Mindestpraktiken der Bodenbearbeitung zur Begrenzung von Erosion
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000700000)
 
 (1) Mindestanforderungen zur Begrenzung von Erosion sind durch
 Maßnahmen zu gewährleisten, die sich an den aus der Einteilung
@@ -370,11 +379,13 @@ dies erforderlich ist, um
 
 
 ### § 7 Erhaltung des Anteils der organischen Substanz im Boden
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000800000)
 
 Stoppelfelder dürfen nicht abgebrannt werden.
 
 
 ### § 8 Keine Beseitigung von Landschaftselementen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE000901360)
 
 (1) Landschaftselemente dürfen nicht beseitigt werden.
 Landschaftselemente im Sinne von Satz 1 sind
@@ -479,9 +490,11 @@ nicht verbunden.
 
 
 ## Abschnitt 3 - Kontroll- und Sanktionsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNG000300000)
 
 
 ### § 9 Kontrollvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001000000)
 
 (1) Artikel 68 Absatz 1 Unterabsatz 4 Satz 2 der
 Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli
@@ -499,9 +512,11 @@ Nr. 809/2014 zu übermitteln.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNG000400000)
 
 
 ### § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001100000)
 
 (1) Bis zum Erlass einer Rechtsverordnung nach § 6 Absatz 1 Satz 2,
 auch in Verbindung mit Absatz 6, sind die auf Grund des § 2 Absatz 1
@@ -528,6 +543,7 @@ wird, ist Absatz 2 nicht mehr anzuwenden.
 
 
 ### § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt
 die Direktzahlungen-Verpflichtungenverordnung vom 4. November 2004
@@ -536,12 +552,14 @@ Januar 2014 (BAnz AT 06.01.2014 V1) geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 4)
 
 ### Anlage 1 Liste der Stofffamilien und Stoffgruppen
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001400000)
 
 ## Liste I
 
@@ -689,6 +707,7 @@ schädliche Wirkung auf das Grundwasser haben können.
 (zu § 6 Absatz 1 Satz 3 Nummer 1, Absatz 2 und 3)
 
 ### Anlage 2 Bestimmung der potenziellen Erosionsgefährdung durch Wasser
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001500000)
 
 ## Wassererosionsgefährdungsklasse
 
@@ -751,6 +770,7 @@ schädliche Wirkung auf das Grundwasser haben können.
 [^F788068_04_BJNR635700014BJNE001500000]: 
 
 ### Anlage 3 (zu § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/agrarzahlverpflv/BJNR635700014.html#BJNR635700014BJNE001600000)
 
 ## **Bestimmung der potenziellen Erosionsgefährdung durch Wind**
 

@@ -24,9 +24,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000303126)
 
 
 ### § 1 Straftaten nach der Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE000605126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen Artikel 67 Absatz 1 Satz
@@ -449,6 +451,7 @@ vorsätzlich oder fahrlässig
 
 
 ### § 2 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE000704126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 1 Buchstabe a des
 Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -846,9 +849,11 @@ Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## Abschnitt 2 - Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1272/2008
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000203126)
 
 
 ### § 3 Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1272/2008
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE000404126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 1 Buchstabe a des
 Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -983,9 +988,11 @@ Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## Abschnitt 3 - Zuwiderhandlungen gegen die Verordnung (EU) Nr. 528/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG001100126)
 
 
 ### § 4 Straftaten nach der Verordnung (EU) Nr. 528/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE002000126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU) Nr.
@@ -1026,6 +1033,7 @@ worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 [^F832279_02_BJNR094410013BJNE002000126]: 
 
 ### § 5 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 528/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE002100126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 1 Buchstabe a des
 Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) Nr.
@@ -1148,9 +1156,11 @@ durchführt.
 
 
 ## Abschnitt 4 - Zuwiderhandlungen gegen die Verordnung (EU) Nr. 649/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000403126)
 
 
 ### § 6 Straftaten nach der Verordnung (EU) Nr. 649/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE000804126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU) Nr.
@@ -1176,6 +1186,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ### § 7 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 649/2012
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE002200126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 1 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -1230,9 +1241,11 @@ Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) Nr.
 
 
 ## Abschnitt 5 - Zuwiderhandlungen gegen die Verordnung (EU) 2017/852
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000502126)
 
 
 ### § 8 Straftaten nach der Verordnung (EU) 2017/852
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE002300126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU)
@@ -1295,6 +1308,7 @@ worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ### § 9 Ordnungswidrigkeiten nach der Verordnung (EU) 2017/852
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001003126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 2 Buchstabe c des
 Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) 2017/852
@@ -1383,9 +1397,11 @@ Herstellers vorgesehenen Zeitpunkt wartet.
 
 
 ## Abschnitt 6 - Zuwiderhandlungen gegen die Verordnung (EU) 2019/1021
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000602126)
 
 
 ### § 10 Straftaten nach der Verordnung (EU) 2019/1021
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001103126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
@@ -1399,6 +1415,7 @@ Erzeugnis herstellt, in Verkehr bringt oder verwendet.
 
 
 ### § 11 Ordnungswidrigkeiten nach der Verordnung (EU) 2019/1021
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001204126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 2 Buchstabe c des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -1415,9 +1432,11 @@ rechtzeitig vornimmt.
 
 
 ## Abschnitt 7 - Zuwiderhandlungen gegen die Verordnung (EU) 2024/573
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000702126)
 
 
 ### § 12 Straftaten nach der Verordnung (EU) 2024/573
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001303126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU)
@@ -1490,6 +1509,7 @@ Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU)
 
 
 ### § 13 Ordnungswidrigkeiten nach der Verordnung (EU) 2024/573
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001403126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 2 Buchstabe c des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -1732,9 +1752,11 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 8 - Zuwiderhandlungen gegen die Verordnung (EU) 2024/590
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNG000802126)
 
 
 ### § 14 Straftaten nach der Verordnung (EU) 2024/590
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001502126)
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des
 Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU)
@@ -1776,6 +1798,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ### § 15 Ordnungswidrigkeiten nach der Verordnung (EU) 2024/590
+[Direktlink](https://www.gesetze-im-internet.de/chemsanktionsv/BJNR094410013.html#BJNR094410013BJNE001602126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 2 Nummer 2 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig als

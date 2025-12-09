@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ubag/BJNR015050974.html#BJNR015050974BJNE000106116)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt,
 Naturschutz, nukleare Sicherheit und Verbraucherschutz ist eine
@@ -35,6 +36,7 @@ errichtet.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ubag/BJNR015050974.html#BJNR015050974BJNE000205116)
 
 (1) Das Umweltbundesamt erledigt in eigener Zuständigkeit
 Verwaltungsaufgaben auf dem Gebiet der Umwelt, der gesundheitlichen
@@ -83,6 +85,7 @@ von der sachlich zuständigen obersten Bundesbehörde beauftragt wird.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ubag/BJNR015050974.html#BJNR015050974BJNE000304116)
 
 Soweit im Umweltbundesamt Aufgaben aus einem anderen Geschäftsbereich
 als dem des Bundesministeriums für Umwelt, Naturschutz, nukleare
@@ -91,11 +94,13 @@ Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ubag/BJNR015050974.html#BJNR015050974BJNE000401310)
 
 -
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ubag/BJNR015050974.html#BJNR015050974BJNE000501310)
 
 -
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zinssatzv/BJNR507800972.html#BJNR507800972BJNE000100326)
 
 Auf Grund des § 2 des Preisgesetzes vom 10. April 1948 (Gesetz- und
 Verordnungsblatt des Wirtschaftsrates des Vereinigten
@@ -27,6 +28,7 @@ Wirtschaftsgebietes S. 27), zuletzt geändert durch § 37 des Gesetzes
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zinssatzv/BJNR507800972.html#BJNR507800972BJNE000200326)
 
 Der Höchstsatz für kalkulatorische Zinsen
 
@@ -49,11 +51,13 @@ beträgt
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zinssatzv/BJNR507800972.html#BJNR507800972BJNE000300326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zinssatzv/BJNR507800972.html#BJNR507800972BJNE000400326)
 
 Der Bundesminister für Wirtschaft und Finanzen
 

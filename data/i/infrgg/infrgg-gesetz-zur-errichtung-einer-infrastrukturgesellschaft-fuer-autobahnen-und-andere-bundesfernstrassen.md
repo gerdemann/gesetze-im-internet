@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Gründung
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNG000100000)
 
 
 ### § 1 Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000101125)
 
 (1) Das Bundesministerium für Digitales und Verkehr überträgt die
 Planung, den Bau, den Betrieb, die Erhaltung, die Finanzierung und die
@@ -49,6 +51,7 @@ Bundesstraßen, für die dem Bund die Verwaltung zusteht.
 
 
 ### § 2 Errichtung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000200000)
 
 (1) Die Gesellschaft privaten Rechts wird in der Rechtsform einer
 Gesellschaft mit beschränkter Haftung gegründet. Ein Aufsichtsrat ist
@@ -73,12 +76,14 @@ Verkehr zuständigen Ausschüsse des Deutschen Bundestages.
 
 
 ### § 3 Vertretung des Gesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000301125)
 
 In der Gesellschafterversammlung der Gesellschaft wird der Bund durch
 das Bundesministerium für Digitales und Verkehr vertreten.
 
 
 ### § 4 Sitz der Gesellschaft, Tochtergesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000400000)
 
 (1) Der Sitz der Gesellschaft privaten Rechts ist Berlin.
 
@@ -89,9 +94,11 @@ Tochtergesellschaften ist ausgeschlossen.
 
 
 ## Abschnitt 2 - Gegenstand und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNG000200000)
 
 
 ### § 5 Gegenstand der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000502125)
 
 (1) Der Gesellschaft privaten Rechts wird ab dem 1. Januar 2021 die
 Ausführung von Aufgaben der Straßenbaulast im Sinne des § 3 des
@@ -141,6 +148,7 @@ Vorbehalt des Widerrufs erteilt werden.
 
 
 ### § 6 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000603125)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, die
 Gesellschaft privaten Rechts durch Rechtsverordnung ohne Zustimmung
@@ -161,9 +169,11 @@ gilt die Ermächtigung des Satzes 1 auch für die Bundesstraßen.
 
 
 ## Abschnitt 3 - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNG000300000)
 
 
 ### § 7 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000700000)
 
 (1) Der Bund stellt der Gesellschaft privaten Rechts die für eine
 ordnungsgemäße Geschäftsführung erforderlichen Mittel aus dem
@@ -198,6 +208,7 @@ unberührt.
 
 
 ### § 8 Finanzierungs- und Realisierungsplan, Verkehrsinvestitionsbericht
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000801125)
 
 (1) Die Gesellschaft privaten Rechts erstellt nach Maßgabe des
 Bedarfsplans für die Bundesfernstraßen einen Finanzierungs- und
@@ -218,6 +229,7 @@ Verkehrsinvestitionsbericht dem Deutschen Bundestag zu.
 
 
 ### § 9 Parlamentarische Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE000900000)
 
 (1) Das für die parlamentarische Kontrolle von Bundesbeteiligungen
 zuständige, in § 69a der Bundeshaushaltsordnung benannte Gremium wird
@@ -230,6 +242,7 @@ Auskunft vor dem Gremium berechtigt und verpflichtet.
 
 
 ### § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/infrgg/BJNR314100017.html#BJNR314100017BJNE001000000)
 
 (1) Die Gesellschaft kann ab dem 1. Januar 2020 im Einvernehmen mit
 dem jeweiligen Land vor dem 1. Januar 2021 die Planung und den Bau von

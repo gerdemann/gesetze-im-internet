@@ -21,6 +21,7 @@ Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkomm
 Stand: V gem. Art. 2 Abs. 1 iVm Bek. v. 1.4.2021 II 318 am 12.1.2021 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtgrjwabkv/BJNR104620019.html#BJNR104620019BJNE000100000)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -33,6 +34,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dtgrjwabkv/BJNR104620019.html#BJNR104620019BJNE000200000)
 
 Dem Deutsch-Griechischen Jugendwerk werden die in Artikel 1 Absatz 2
 und Artikel 11 Absatz 1 des Abkommens vom 4. Juli 2019 zwischen der
@@ -43,6 +45,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dtgrjwabkv/BJNR104620019.html#BJNR104620019BJNE000300000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das Abkommen
 nach seinem Artikel 13 für die Bundesrepublik Deutschland in Kraft
@@ -57,6 +60,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dtgrjwabkv/BJNR104620019.html#BJNR104620019BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

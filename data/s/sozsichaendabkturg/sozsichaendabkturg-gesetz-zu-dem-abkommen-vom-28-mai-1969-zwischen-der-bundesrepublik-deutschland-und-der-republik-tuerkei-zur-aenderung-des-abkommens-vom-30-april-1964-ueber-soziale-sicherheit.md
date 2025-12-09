@@ -20,17 +20,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsich_ndabkturg/BJNR200010972.html#BJNR200010972BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsich_ndabkturg/BJNR200010972.html#BJNR200010972BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsich_ndabkturg/BJNR200010972.html#BJNR200010972BJNE000300314)
 
 Die in Artikel 43 des Abkommens vom 30. April 1964 genannten deutschen
 Stellen können zur Vorbereitung ihrer im Einzelfall zu treffenden
@@ -41,12 +44,14 @@ Auslegung des Abkommens bestehen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsich_ndabkturg/BJNR200010972.html#BJNR200010972BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsich_ndabkturg/BJNR200010972.html#BJNR200010972BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

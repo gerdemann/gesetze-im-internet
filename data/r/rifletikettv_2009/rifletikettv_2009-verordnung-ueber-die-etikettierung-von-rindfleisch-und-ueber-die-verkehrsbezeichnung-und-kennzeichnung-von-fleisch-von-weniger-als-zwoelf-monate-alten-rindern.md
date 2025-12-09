@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE000102123)
 
 Im Sinne dieser Verordnung sind:
 
@@ -48,6 +50,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ### § 2 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE000202123)
 
 (1) Marktteilnehmer haben Aufzeichnungen nach Absatz 3 zu führen, die
 Folgendes enthalten müssen:
@@ -99,16 +102,20 @@ besteht, bleiben unberührt.
 
 
 ## Abschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNG000201123)
 
 
 ### (XXXX) §§ 3 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE000302123)
 
 
 
 ## Abschnitt 3 - Etikettierung von Fleisch von weniger als zwölf Monate alten Rindern
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNG000401123)
 
 
 ### § 9a Etikettierung von Schlachtkörpern von weniger als zwölf Monate alten Rindern
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001401123)
 
 Schlachtkörper von weniger als zwölf Monate alten Rindern sind vom
 Marktteilnehmer unmittelbar nach der Schlachtung nach Maßgabe des § 3
@@ -116,6 +123,7 @@ der Rinderschlachtkörper-Handelsklassenverordnung zu kennzeichnen.
 
 
 ### § 9b Etikettierung von nicht vorverpacktem Fleisch von weniger als zwölf Monate alten Rindern im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001501123)
 
 Die Angaben nach Anhang VII Teil 1 Abschnitt IV Nummer 2 der
 Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
@@ -129,9 +137,11 @@ auszuloben.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNG000301377)
 
 
 ### § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001003119)
 
 Ordnungswidrig im Sinne des § 11 Absatz 1 Nummer 3 des
 Rindfleischetikettierungsgesetzes handelt, wer vorsätzlich oder
@@ -177,6 +187,7 @@ fahrlässig
 
 
 ### § 11 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001101123)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 11 des Rindfleischetikettierungsgesetzes
@@ -185,8 +196,10 @@ wird auf die Bundesanstalt für Landwirtschaft und Ernährung
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001201123)
 
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rifletikettv_2009/BJNR171510009.html#BJNR171510009BJNE001303123)
 

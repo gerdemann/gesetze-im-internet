@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000100000)
 
 Auf Grund des § 109 des Vierzehnten Buches Sozialgesetzbuch – Soziale
 Entschädigung – vom 12. Dezember 2019 (BGBl. I S. 2652) verordnet das
@@ -26,6 +27,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000200000)
 
 (1) Zum Einkommen nach Kapitel 16 des Vierzehnten Buches
 Sozialgesetzbuch gehören alle Einkünfte in Geld oder Geldeswert,
@@ -62,6 +64,7 @@ nicht als Einkommen gelten.
 
 
 ## § 2 Absetzbeträge
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000300000)
 
 (1) Vom Einkommen sind zusätzlich zu den Beträgen nach dem Elften
 Kapitel des Zwölften Buches Sozialgesetzbuch und zu den Beträgen nach
@@ -150,6 +153,7 @@ besonders begründeten Fällen anzuerkennen.
 
 
 ## § 3 Vermögensschonbeträge
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000400000)
 
 (1) Kleinere Barbeträge oder sonstige Geldwerte, die nach § 105 Absatz
 2 des Vierzehnten Buches Sozialgesetzbuch in Verbindung mit § 90
@@ -217,11 +221,13 @@ Absatz 1 und 2 entsprechend. Abweichend von Satz 1 gilt:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/evv/BJNR12E0A0023.html#BJNR12E0A0023BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

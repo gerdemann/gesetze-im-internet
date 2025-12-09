@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bevbeihano/BJNR03C0A0025.html#BJNR03C0A0025BJNE000100000)
 
 Nach
 
@@ -34,6 +35,7 @@ ordnet der Präsident des Bundeseisenbahnvermögens an:
 
 
 ## § 1 Beihilfebearbeitung und Führung der Beihilfeakte
+[Direktlink](https://www.gesetze-im-internet.de/bevbeihano/BJNR03C0A0025.html#BJNR03C0A0025BJNE000200000)
 
 Die Zuständigkeit für die Beihilfebearbeitung und die Führung der
 Beihilfeakte nach der Bundesbeihilfeverordnung wird der
@@ -42,6 +44,7 @@ eine Beamtin oder einen Beamten des Bundeseisenbahnvermögens handelt.
 
 
 ## § 2 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bevbeihano/BJNR03C0A0025.html#BJNR03C0A0025BJNE000300000)
 
 Die Zuständigkeit für den Erlass des Widerspruchsbescheids in
 Angelegenheiten der Beihilfe wird der Hauptverwaltung der
@@ -51,6 +54,7 @@ Verwaltungsaktes nach der Bundesbeihilfeverordnung zuständig war.
 
 
 ## § 3 Prozessstandschaft bei Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bevbeihano/BJNR03C0A0025.html#BJNR03C0A0025BJNE000400000)
 
 Die Prozessstandschaft für das Bundeseisenbahnvermögen bei
 Klageverfahren in Angelegenheiten der Beihilfe wird der
@@ -59,6 +63,7 @@ dieser Anordnung für die Entscheidung über Widersprüche zuständig ist.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bevbeihano/BJNR03C0A0025.html#BJNR03C0A0025BJNE000500000)
 
 Diese Anordnung tritt am 1. März 2025 in Kraft.
 

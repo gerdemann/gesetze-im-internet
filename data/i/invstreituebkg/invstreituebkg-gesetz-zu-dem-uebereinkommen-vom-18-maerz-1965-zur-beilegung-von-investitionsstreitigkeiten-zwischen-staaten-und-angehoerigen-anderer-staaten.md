@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000100326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000200326)
 
 Dem in Washington am 27. Januar 1966 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen vom 18. März 1965 zur
@@ -36,6 +38,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000301308)
 
 (1) Die auf Grund des Übereinkommens ergangenen Schiedssprüche
 (Artikel 53 Abs. 2 des Übereinkommens) sind vollstreckbar, wenn die
@@ -66,6 +69,7 @@ aufgehoben worden ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000400326)
 
 Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt (Artikel
 50 Abs. 2 Satz 3, Artikel 51 Abs. 4, Artikel 52 Abs. 5 des
@@ -80,12 +84,14 @@ Zwangsvollstreckungsverfahrens.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000500326)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/invstreit_bkg/BJNR203690969.html#BJNR203690969BJNE000600326)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

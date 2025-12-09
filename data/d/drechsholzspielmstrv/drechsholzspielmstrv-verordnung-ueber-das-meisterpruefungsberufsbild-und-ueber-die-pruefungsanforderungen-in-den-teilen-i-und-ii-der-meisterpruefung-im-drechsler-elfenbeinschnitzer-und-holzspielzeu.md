@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE001100000)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung
@@ -34,6 +35,7 @@ und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000100000)
 
 Die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und
 Holzspielzeugmacher-Handwerk umfasst folgende selbständige
@@ -58,6 +60,7 @@ Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000200000)
 
 (1) Durch die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und
 Holzspielzeugmacher-Handwerk wird festgestellt, dass der Prüfling
@@ -165,6 +168,7 @@ zugerechnet:
 
 
 ## § 3 Gliederung, Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000300000)
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -195,6 +199,7 @@ sein darf.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000400000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Der Prüfling wählt eine Aufgabe gemäß
@@ -243,6 +248,7 @@ Hundert und die Dokumentation mit 10 vom Hundert gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000500000)
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt
 wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er
@@ -254,6 +260,7 @@ und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000600000)
 
 (1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis
 für die Meisterprüfung im Drechsler- (Elfenbeinschnitzer-) und
@@ -300,6 +307,7 @@ gebildet.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000701360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung
 gestalterischer, technologischer, ablauf- und verfahrenstechnischer,
@@ -472,6 +480,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000802128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -482,6 +491,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE000902116)
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
 worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
@@ -490,6 +500,7 @@ Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drechsholzspielmstrv/BJNR298500001.html#BJNR298500001BJNE001000000)
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft. Gleichzeitig sind
 der Erlass des Reichs- und Preußischen Wirtschaftsministers Nr. V

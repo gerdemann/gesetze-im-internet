@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dba_ndprotg_nor/BJNR090620014.html#BJNR090620014BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dba_ndprotg_nor/BJNR090620014.html#BJNR090620014BJNE000200000)
 
 Dem in Berlin am 24. Juni 2013 unterzeichneten Protokoll zur Änderung
 des Abkommens vom 4. Oktober 1991 zwischen der Bundesrepublik
@@ -37,6 +39,7 @@ Protokolls (BGBl. 1993 II S. 970, 972) wird zugestimmt. Das
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dba_ndprotg_nor/BJNR090620014.html#BJNR090620014BJNE000300000)
 
 Soweit das Änderungsprotokoll auf Grund seines Artikels XVII Absatz 2
 Satz 2 für die Zeit vor seinem Inkrafttreten anzuwenden ist und sich
@@ -49,6 +52,7 @@ Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dba_ndprotg_nor/BJNR090620014.html#BJNR090620014BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

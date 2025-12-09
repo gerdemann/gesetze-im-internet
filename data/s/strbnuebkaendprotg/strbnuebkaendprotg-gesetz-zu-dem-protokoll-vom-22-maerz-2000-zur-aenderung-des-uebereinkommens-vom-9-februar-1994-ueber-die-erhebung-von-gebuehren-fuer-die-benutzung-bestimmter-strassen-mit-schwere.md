@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bk_ndprotg/BJNR153020000.html#BJNR153020000BJNE000100305)
 
 (1) Dem in Brüssel am 27. März 2000 von der Bundesrepublik Deutschland
 unterzeichneten Protokoll vom 22. März 2000 zur Änderung des
@@ -37,11 +38,13 @@ Verkehrswege durch schwere Nutzfahrzeuge \*) (Übereinkommen, BGBl.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bk_ndprotg/BJNR153020000.html#BJNR153020000BJNE000200305)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bk_ndprotg/BJNR153020000.html#BJNR153020000BJNE000300305)
 
 Soweit das Autobahnbenutzungsgebührengesetz für schwere Nutzfahrzeuge
 vom 30. August 1994 (BGBl. 1994 II S. 1765) auf das Übereinkommen vom
@@ -56,6 +59,7 @@ Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bk_ndprotg/BJNR153020000.html#BJNR153020000BJNE000400305)
 
 Für Fahrzeuge im Sinne des Artikels 2 der Richtlinie 1999/62/EG des
 Europäischen Parlaments und des Rates vom 17. Juni 1999 über die
@@ -68,6 +72,7 @@ die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen bis zum
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/strbn_bk_ndprotg/BJNR153020000.html#BJNR153020000BJNE000500305)
 
 (1) Artikel 1 tritt am Tage nach der Verkündung in Kraft.
 

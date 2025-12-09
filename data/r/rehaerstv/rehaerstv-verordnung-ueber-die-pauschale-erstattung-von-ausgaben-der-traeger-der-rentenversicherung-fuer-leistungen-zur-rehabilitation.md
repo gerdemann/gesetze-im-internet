@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/reh_rstv/BJNR019970992.html#BJNR019970992BJNE000100307)
 
 Auf Grund des § 226 Abs. 2 des Sechsten Buches Sozialgesetzbuch, der
 durch Artikel 1 Nr. 43 des Gesetzes vom 25. Juli 1991 (BGBl. I S.
@@ -29,6 +30,7 @@ und Sozialordnung im Einvernehmen mit dem Bundesminister der Finanzen:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/reh_rstv/BJNR019970992.html#BJNR019970992BJNE000201308)
 
 (1) Soweit für Leistungen zur Teilhabe die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Träger der knappschaftlichen
@@ -57,6 +59,7 @@ Deutschen Rentenversicherung Bund durchgeführt.
 
 
 ## § 2 Aufteilung der Ausgaben für Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/reh_rstv/BJNR019970992.html#BJNR019970992BJNE000301308)
 
 (1) Die auf die knappschaftliche Rentenversicherung und die allgemeine
 Rentenversicherung entfallenden Ausgaben für Leistungen zur Teilhabe
@@ -76,11 +79,13 @@ Teilhabe zusammen stehen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/reh_rstv/BJNR019970992.html#BJNR019970992BJNE000400307)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/reh_rstv/BJNR019970992.html#BJNR019970992BJNE000500307)
 
 Der Bundesrat hat zugestimmt.
 

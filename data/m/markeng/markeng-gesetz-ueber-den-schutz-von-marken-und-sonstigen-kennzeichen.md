@@ -21,10 +21,12 @@ Zuletzt geändert durch
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
 ## Teil 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018500000)
 
 
 
 ### § 1 Geschützte Marken und sonstige Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000200000)
 
 Nach diesem Gesetz werden geschützt:
 
@@ -41,6 +43,7 @@ Nach diesem Gesetz werden geschützt:
 
 
 ### § 2 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000300000)
 
 Der Schutz von Marken, geschäftlichen Bezeichnungen und geographischen
 Herkunftsangaben nach diesem Gesetz schließt die Anwendung anderer
@@ -48,14 +51,17 @@ Vorschriften zum Schutz dieser Kennzeichen nicht aus.
 
 
 ## Teil 2 - Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen, Übertragung und Lizenz
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018600000)
 
 
 
 ### Abschnitt 1 - Marken und geschäftliche Bezeichnungen, Vorrang und Zeitrang
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG000400000)
 
 
 
 #### § 3 Als Marke schutzfähige Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000501360)
 
 (1) Als Marke können alle Zeichen, insbesondere Wörter einschließlich
 Personennamen, Abbildungen, Buchstaben, Zahlen, Klänge,
@@ -81,6 +87,7 @@ aus Formen oder anderen charakteristischen Merkmalen bestehen,
 
 
 #### § 4 Entstehung des Markenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000601360)
 
 Der Markenschutz entsteht
 
@@ -103,6 +110,7 @@ Der Markenschutz entsteht
 
 
 #### § 5 Geschäftliche Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000700000)
 
 (1) Als geschäftliche Bezeichnungen werden Unternehmenskennzeichen und
 Werktitel geschützt.
@@ -122,6 +130,7 @@ vergleichbaren Werken.
 
 
 #### § 6 Vorrang und Zeitrang
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE000800000)
 
 (1) Ist im Falle des Zusammentreffens von Rechten im Sinne der §§ 4, 5
 und 13 nach diesem Gesetz für die Bestimmung des Vorrangs der Rechte
@@ -143,10 +152,12 @@ gegeneinander keine Ansprüche.
 
 
 ### Abschnitt 2 - Voraussetzungen für den Schutz von Marken durch Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG000900000)
 
 
 
 #### § 7 Inhaberschaft
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001000000)
 
 Inhaber von eingetragenen und angemeldeten Marken können sein:
 
@@ -164,6 +175,7 @@ Inhaber von eingetragenen und angemeldeten Marken können sein:
 
 
 #### § 8 Absolute Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001104360)
 
 (1) Von der Eintragung sind als Marke schutzfähige Zeichen im Sinne
 des § 3 ausgeschlossen, die nicht geeignet sind, in dem Register so
@@ -269,6 +281,7 @@ zwischenstaatlichen Organisation hervorzurufen.
 
 
 #### § 9 Angemeldete oder eingetragene Marken als relative Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001202360)
 
 (1) Die Eintragung einer Marke kann gelöscht werden,
 
@@ -311,6 +324,7 @@ weil sie in verschiedenen Klassen der Nizza-Klassifikation erscheinen.
 
 
 #### § 10 Notorisch bekannte Marken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001300000)
 
 (1) Von der Eintragung ausgeschlossen ist eine Marke, wenn sie mit
 einer im Inland im Sinne des Artikels
@@ -323,6 +337,7 @@ der notorisch bekannten Marke zur Anmeldung ermächtigt worden ist.
 
 
 #### § 11 Agentenmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001401360)
 
 Die Eintragung einer Marke kann gelöscht werden, wenn die Marke ohne
 die Zustimmung des Inhabers der Marke für dessen Agenten oder
@@ -332,6 +347,7 @@ Vertreters vor.
 
 
 #### § 12 Durch Benutzung erworbene Marken und geschäftliche Bezeichnungen mit älterem Zeitrang
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001500000)
 
 Die Eintragung einer Marke kann gelöscht werden, wenn ein anderer vor
 dem für den Zeitrang der eingetragenen Marke maßgeblichen Tag Rechte
@@ -342,6 +358,7 @@ Bundesrepublik Deutschland zu untersagen.
 
 
 #### § 13 Sonstige ältere Rechte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001600000)
 
 (1) Die Eintragung einer Marke kann gelöscht werden, wenn ein anderer
 vor dem für den Zeitrang der eingetragenen Marke maßgeblichen Tag ein
@@ -374,10 +391,12 @@ insbesondere:
 
 
 ### Abschnitt 3 - Schutzinhalt, Rechtsverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG001700000)
 
 
 
 #### § 14 Ausschließliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001802360)
 
 (1) Der Erwerb des Markenschutzes nach § 4 gewährt dem Inhaber der
 Marke ein ausschließliches Recht.
@@ -496,6 +515,7 @@ auch gegen den Inhaber des Betriebs geltend gemacht werden.
 
 
 #### § 14a Waren unter zollamtlicher Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021000360)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung ist
 berechtigt, Dritten zu untersagen, im geschäftlichen Verkehr Waren in
@@ -523,6 +543,7 @@ endgültigen Bestimmungsland zu untersagen.
 
 
 #### § 15 Ausschließliches Recht des Inhabers einer geschäftlichen Bezeichnung, Unterlassungsanspruch, Schadensersatzanspruch
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE001901140)
 
 (1) Der Erwerb des Schutzes einer geschäftlichen Bezeichnung gewährt
 ihrem Inhaber ein ausschließliches Recht.
@@ -556,6 +577,7 @@ entsprechend.
 
 
 #### § 16 Wiedergabe einer eingetragenen Marke in Nachschlagewerken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002000000)
 
 (1) Erweckt die Wiedergabe einer eingetragenen Marke in einem
 Wörterbuch, einem Lexikon oder einem ähnlichen Nachschlagewerk den
@@ -576,6 +598,7 @@ Nachschlagewerk enthält, Zugang gewährt wird.
 
 
 #### § 17 Ansprüche gegen Agenten oder Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002101360)
 
 (1) Ist eine Marke entgegen § 11 für den Agenten oder Vertreter des
 Inhabers der Marke ohne dessen Zustimmung angemeldet oder eingetragen
@@ -598,6 +621,7 @@ Vertreters vorliegen.
 
 
 #### § 18 Vernichtungs- und Rückrufansprüche
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002201140)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann
 den Verletzer in den Fällen der §§ 14, 15 und 17 auf Vernichtung der
@@ -619,6 +643,7 @@ Dritter zu berücksichtigen.
 
 
 #### § 19 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002303360)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann
 den Verletzer in den Fällen der §§ 14, 15 und 17 auf unverzügliche
@@ -713,6 +738,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 #### § 19a Vorlage- und Besichtigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020300140)
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung nach
 den §§ 14, 15 und 17 kann der Inhaber einer Marke oder einer
@@ -748,6 +774,7 @@ entstandenen Schadens verlangen.
 
 
 #### § 19b Sicherung von Schadensersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020400140)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann
 den Verletzer bei einer in gewerblichem Ausmaß begangenen
@@ -779,6 +806,7 @@ entsprechend.
 
 
 #### § 19c Urteilsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020500140)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -791,15 +819,18 @@ Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 
 
 #### § 19d Ansprüche aus anderen gesetzlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020600140)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ### Abschnitt 4 - Schranken des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG002400000)
 
 
 
 #### § 20 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002502140)
 
 Auf die Verjährung der in den §§ 14 bis 19c genannten Ansprüche finden
 die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen
@@ -809,6 +840,7 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 #### § 21 Verwirkung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002600000)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung hat
 nicht das Recht, die Benutzung einer eingetragenen Marke mit jüngerem
@@ -836,6 +868,7 @@ untersagen.
 
 
 #### § 22 Ausschluß von Ansprüchen bei Bestandskraft der Eintragung einer Marke mit jüngerem Zeitrang
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002701360)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung hat
 nicht das Recht, die Benutzung einer eingetragenen Marke mit jüngerem
@@ -871,6 +904,7 @@ geschäftlichen Bezeichnung mit älterem Zeitrang nicht untersagen.
 
 
 #### § 23 Benutzung von Namen und beschreibenden Angaben; Ersatzteilgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002801360)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung darf
 einem Dritten nicht untersagen, im geschäftlichen Verkehr Folgendes zu
@@ -904,6 +938,7 @@ entspricht.
 
 
 #### § 24 Erschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE002900000)
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung hat
 nicht das Recht, einem Dritten zu untersagen, die Marke oder die
@@ -923,6 +958,7 @@ verschlechtert ist.
 
 
 #### § 25 Ausschluss von Ansprüchen bei mangelnder Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003002360)
 
 (1) Der Inhaber einer eingetragenen Marke kann gegen Dritte Ansprüche
 im Sinne der §§ 14 und 18 bis 19c nicht geltend machen, wenn die Marke
@@ -951,6 +987,7 @@ nachgewiesen worden ist.
 
 
 #### § 26 Benutzung der Marke
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003101360)
 
 (1) Soweit die Geltendmachung von Ansprüchen aus einer eingetragenen
 Marke oder die Aufrechterhaltung der Eintragung davon abhängig ist,
@@ -982,10 +1019,12 @@ zurückgenommen wurde.
 
 
 ### Abschnitt 5 - Marken als Gegenstand des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG003200000)
 
 
 
 #### § 27 Rechtsübergang
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003304360)
 
 (1) Das durch die Eintragung, die Benutzung oder die notorische
 Bekanntheit einer Marke begründete Recht kann für alle oder für einen
@@ -1012,6 +1051,7 @@ Abs. 2 und 3 Satz 1 entsprechend anzuwenden.
 
 
 #### § 28 Vermutung der Rechtsinhaberschaft, Zustellungen an den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003402360)
 
 (1) Es wird vermutet, daß das durch die Eintragung einer Marke
 begründete Recht dem im Register als Inhaber Eingetragenen zusteht.
@@ -1040,6 +1080,7 @@ Rechtsnachfolger zuzustellen.
 
 
 #### § 29 Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003503360)
 
 (1) Das durch die Eintragung, die Benutzung oder die notorische
 Bekanntheit einer Marke begründete Recht kann
@@ -1068,6 +1109,7 @@ Insolvenzverwalters.
 
 
 #### § 30 Lizenzen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003601360)
 
 (1) Das durch die Eintragung, die Benutzung oder die notorische
 Bekanntheit einer Marke begründete Recht kann für alle oder für einen
@@ -1126,20 +1168,24 @@ Lizenznehmers oder seines Rechtsnachfolgers.
 
 
 #### § 31 Angemeldete Marken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003700000)
 
 Die §§ 27 bis 30 gelten entsprechend für durch Anmeldung von Marken
 begründete Rechte.
 
 
 ## Teil 3 - Verfahren in Markenangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018700000)
 
 
 
 ### Abschnitt 1 - Eintragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG003800000)
 
 
 
 #### § 32 Erfordernisse der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE003904360)
 
 (1) Die Anmeldung zur Eintragung einer Marke in das Register ist beim
 Deutschen Patent- und Markenamt einzureichen. Die Anmeldung kann auch
@@ -1174,6 +1220,7 @@ bestimmt worden sind.
 
 
 #### § 33 Anmeldetag, Anspruch auf Eintragung, Veröffentlichung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004006360)
 
 (1) Der Anmeldetag einer Marke ist der Tag, an dem der Anmelder die
 Anmeldung mit den Angaben nach § 32 Absatz 2 beim Deutschen Patent-
@@ -1197,6 +1244,7 @@ die Anmeldung eine Marke betrifft, die offensichtlich gegen die
 
 
 #### § 34 Ausländische Priorität
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004102360)
 
 (1) Die Inanspruchnahme der Priorität einer früheren ausländischen
 Anmeldung richtet sich nach den Vorschriften der Staatsverträge mit
@@ -1226,6 +1274,7 @@ Prioritätsanspruch für diese Anmeldung verwirkt.
 
 
 #### § 35 Ausstellungspriorität
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004203360)
 
 (1) Hat der Anmelder der Marke Waren oder Dienstleistungen unter der
 angemeldeten Marke
@@ -1268,6 +1317,7 @@ Prioritätsfrist nach § 34.
 
 
 #### § 36 Prüfung der Anmeldungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004302360)
 
 (1) Das Deutsche Patent- und Markenamt prüft, ob
 
@@ -1310,6 +1360,7 @@ weist das Deutsche Patent- und Markenamt die Anmeldung zurück.
 
 
 #### § 37 Prüfung auf absolute Schutzhindernisse; Bemerkungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004402360)
 
 (1) Ist die Marke nach § 3, 8 oder 10 von der Eintragung
 ausgeschlossen, so wird die Anmeldung zurückgewiesen.
@@ -1350,12 +1401,14 @@ Markenamt nicht beteiligt.
 
 
 #### § 38 Beschleunigte Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004501377)
 
 Auf Antrag des Anmelders wird die Prüfung nach den §§ 36 und 37
 beschleunigt durchgeführt.
 
 
 #### § 39 Zurücknahme, Einschränkung und Berichtigung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004600000)
 
 (1) Der Anmelder kann die Anmeldung jederzeit zurücknehmen oder das in
 der Anmeldung enthaltene Verzeichnis der Waren und Dienstleistungen
@@ -1367,6 +1420,7 @@ offensichtlichen Unrichtigkeiten geändert werden.
 
 
 #### § 40 Teilung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004702123)
 
 (1) Der Anmelder kann die Anmeldung teilen, indem er erklärt, daß die
 Anmeldung der Marke für die in der Teilungserklärung aufgeführten
@@ -1381,6 +1435,7 @@ zurückgenommen. Die Teilungserklärung kann nicht widerrufen werden.
 
 
 #### § 41 Eintragung, Veröffentlichung und Markeninformation
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004801123)
 
 (1) Entspricht die Anmeldung den Anmeldungserfordernissen und wird sie
 nicht gemäß § 37 zurückgewiesen, so wird die angemeldete Marke in das
@@ -1397,6 +1452,7 @@ Register eingetragenen Angaben an Dritte in elektronischer Form
 
 
 #### § 42 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE004904360)
 
 (1) Innerhalb einer Frist von drei Monaten nach dem Tag der
 Veröffentlichung der Eintragung der Marke gemäß § 41 Absatz 2 kann von
@@ -1443,6 +1499,7 @@ eingeräumt, um eine gütliche Einigung zu ermöglichen.
 
 
 #### § 43 Einrede mangelnder Benutzung, Entscheidung über den Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005001360)
 
 (1) Ist der Widerspruch vom Inhaber einer eingetragenen Marke mit
 älterem Zeitrang erhoben worden, so hat er, wenn der Gegner die
@@ -1471,6 +1528,7 @@ entsprechend anzuwenden.
 
 
 #### § 44 Eintragungsbewilligungsklage
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005100000)
 
 (1) Der Inhaber der Marke kann im Wege der Klage gegen den
 Widersprechenden geltend machen, daß ihm trotz der Löschung der
@@ -1485,10 +1543,12 @@ der Marke wird unter Wahrung des Zeitrangs der Eintragung vorgenommen.
 
 
 ### Abschnitt 2 - Berichtigung, Teilung, Schutzdauer und Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG005200000)
 
 
 
 #### § 45 Berichtigung des Registers und von Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005300000)
 
 (1) Eintragungen im Register können auf Antrag oder von Amts wegen zur
 Berichtigung von sprachlichen Fehlern, Schreibfehlern oder sonstigen
@@ -1501,6 +1561,7 @@ Veröffentlichungen anzuwenden.
 
 
 #### § 46 Teilung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005403360)
 
 (1) Der Inhaber einer eingetragenen Marke kann die Eintragung teilen,
 indem er erklärt, daß die Eintragung der Marke für die in der
@@ -1525,6 +1586,7 @@ werden.
 
 
 #### § 47 Schutzdauer und Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005503360)
 
 (1) Die Schutzdauer einer eingetragenen Marke beträgt zehn Jahre,
 gerechnet vom Tag der Anmeldung an (§ 33 Absatz 1).
@@ -1570,10 +1632,12 @@ Marke mit Wirkung zum Ablauf der Schutzdauer gelöscht.
 
 
 ### Abschnitt 3 - Verzicht; Verfalls- und Nichtigkeitsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG005601360)
 
 
 
 #### § 48 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005700000)
 
 (1) Auf Antrag des Inhabers der Marke wird die Eintragung jederzeit
 für alle oder für einen Teil der Waren oder Dienstleistungen, für die
@@ -1585,6 +1649,7 @@ gelöscht.
 
 
 #### § 49 Verfall
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005801360)
 
 (1) Die Eintragung einer Marke wird auf Antrag für verfallen erklärt
 und gelöscht, wenn die Marke nach dem Tag, ab dem kein Widerspruch
@@ -1636,6 +1701,7 @@ erklärt und gelöscht.
 
 
 #### § 50 Nichtigkeit wegen absoluter Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE005902360)
 
 (1) Die Eintragung einer Marke wird auf Antrag für nichtig erklärt und
 gelöscht, wenn sie entgegen §§ 3, 7 oder 8 eingetragen worden ist.
@@ -1679,6 +1745,7 @@ erklärt und gelöscht.
 
 
 #### § 51 Nichtigkeit wegen des Bestehens älterer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006001360)
 
 (1) Die Eintragung einer Marke wird auf Klage gemäß § 55 oder Antrag
 gemäß § 53 für nichtig erklärt und gelöscht, wenn ihr ein Recht im
@@ -1735,6 +1802,7 @@ erklärt und gelöscht.
 
 
 #### § 52 Wirkungen des Verfalls und der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006101360)
 
 (1) Die Wirkungen einer eingetragenen Marke gelten in dem Umfang, in
 dem die Marke für verfallen erklärt wird, von dem Zeitpunkt der
@@ -1769,6 +1837,7 @@ aufgrund Verfalls oder Nichtigkeit der Marke nicht
 
 
 #### § 53 Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006201360)
 
 (1) Der Antrag auf Erklärung des Verfalls (§ 49) und der Nichtigkeit
 wegen absoluter Schutzhindernisse (§ 50) und älterer Rechte (§ 51) ist
@@ -1847,6 +1916,7 @@ Zivilprozessordnung entsprechend.
 
 
 #### § 54 Beitritt zum Verfalls- und Nichtigkeitsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006302360)
 
 (1) Ein Dritter kann einem Verfalls- oder Nichtigkeitsverfahren
 beitreten, wenn über den Antrag auf Erklärung des Verfalls oder der
@@ -1873,6 +1943,7 @@ Beschwerdebeteiligten.
 
 
 #### § 55 Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006403360)
 
 (1) Die Klage auf Erklärung des Verfalls (§ 49) oder der Nichtigkeit
 wegen Bestehens älterer Rechte (§ 51) ist gegen den als Inhaber der
@@ -1943,10 +2014,12 @@ ein.
 
 
 ### Abschnitt 4 - Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG006501360)
 
 
 
 #### § 56 Zuständigkeiten im Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006601360)
 
 (1) Im Deutschen Patent- und Markenamt werden zur Durchführung der
 Verfahren in Markenangelegenheiten Markenstellen und Markenabteilungen
@@ -1974,6 +2047,7 @@ einem Angehörigen der Markenabteilung zur Bearbeitung übertragen.
 
 
 #### § 57 Ausschließung und Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006701360)
 
 (1) Für die Ausschließung und Ablehnung der Prüfer und der Mitglieder
 der Markenabteilungen sowie der mit der Wahrnehmung von
@@ -1988,6 +2062,7 @@ Entscheidung bedarf, eine Markenabteilung.
 
 
 #### § 58 Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006802360)
 
 (1) Das Deutsche Patent- und Markenamt ist verpflichtet, auf Ersuchen
 der Gerichte oder der Staatsanwaltschaften über Fragen, die
@@ -2002,6 +2077,7 @@ Beschlüsse zu fassen oder Gutachten abzugeben.
 
 
 #### § 59 Ermittlung des Sachverhalts, rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE006901360)
 
 (1) Das Deutsche Patent- und Markenamt ermittelt den Sachverhalt von
 Amts wegen. Es ist an das Vorbringen und die Beweisanträge der
@@ -2015,6 +2091,7 @@ bestimmten Frist zu äußern.
 
 
 #### § 60 Ermittlungen, Anhörungen, Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007002360)
 
 (1) Das Deutsche Patent- und Markenamt kann jederzeit die Beteiligten
 laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder
@@ -2042,6 +2119,7 @@ anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
 
 #### § 61 Beschlüsse, Rechtsmittelbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007102123)
 
 (1) Die Beschlüsse des Deutschen Patent- und Markenamts sind, auch
 wenn sie nach Satz 3 verkündet worden sind, zu begründen und den
@@ -2069,6 +2147,7 @@ Erinnerung nach § 64.
 
 
 #### § 62 Akteneinsicht, Registereinsicht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007205360)
 
 (1) Das Deutsche Patent- und Markenamt gewährt auf Antrag Einsicht in
 die Akten von Anmeldungen von Marken, wenn ein berechtigtes Interesse
@@ -2106,6 +2185,7 @@ soweit
 
 
 #### § 62a Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020900123)
 
 Soweit personenbezogene Daten im Register oder in öffentlich
 zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
@@ -2132,6 +2212,7 @@ Markenamtes nehmen kann.
 
 
 #### § 63 Kosten der Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007305360)
 
 (1) Sind an dem Verfahren mehrere Personen beteiligt, so kann das
 Deutsche Patent- und Markenamt in der Entscheidung bestimmen, daß die
@@ -2171,6 +2252,7 @@ Urkundsbeamten der Geschäftsstelle des Bundespatentgerichts erteilt.
 
 
 #### § 64 Erinnerung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007403360)
 
 (1) Gegen die Beschlüsse der Markenstellen und der Markenabteilungen,
 die von einem Beamten des gehobenen Dienstes oder einem vergleichbaren
@@ -2208,12 +2290,14 @@ gegenstandslos.
 
 
 #### § 64a Kostenregelungen im Verfahren vor dem Deutschen Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019501360)
 
 Im Verfahren vor dem Deutschen Patent- und Markenamt gilt für die
 Kosten das Patentkostengesetz.
 
 
 #### § 65 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007508360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -2313,6 +2397,7 @@ dem Deutschen Patent- und Markenamt übertragen.
 
 
 #### § 65a Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021100360)
 
 Das Deutsche Patent- und Markenamt arbeitet in den
 Tätigkeitsbereichen, die für den nationalen, internationalen und den
@@ -2325,10 +2410,12 @@ und Löschung von Marken.
 
 
 ### Abschnitt 5 - Verfahren vor dem Bundespatentgericht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG007601360)
 
 
 
 #### § 66 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007704360)
 
 (1) Gegen die Beschlüsse der Markenstellen und der Markenabteilungen
 findet unbeschadet der Vorschrift des § 64 die Beschwerde an das
@@ -2386,6 +2473,7 @@ Bundespatentgericht unverzüglich zur Vorabentscheidung vorzulegen.
 
 
 #### § 67 Beschwerdesenate, Öffentlichkeit der Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007801360)
 
 (1) Über Beschwerden im Sinne des § 66 entscheidet ein Beschwerdesenat
 des Bundespatentgerichts in der Besetzung mit drei rechtskundigen
@@ -2412,6 +2500,7 @@ entsprechend mit der Maßgabe, daß
 
 
 #### § 68 Beteiligung des Präsidenten oder der Präsidentin des Deutschen Patent- und Markenamts
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE007901360)
 
 (1) Der Präsident oder die Präsidentin des Deutschen Patent- und
 Markenamts kann, wenn er oder sie dies zur Wahrung des öffentlichen
@@ -2432,6 +2521,7 @@ Beteiligten.
 
 
 #### § 69 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008001360)
 
 Eine mündliche Verhandlung findet statt, wenn
 
@@ -2448,6 +2538,7 @@ Eine mündliche Verhandlung findet statt, wenn
 
 
 #### § 70 Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008101360)
 
 (1) Über die Beschwerde wird durch Beschluß entschieden.
 
@@ -2477,6 +2568,7 @@ Entscheidung zugrunde zu legen.
 
 
 #### § 71 Kosten des Beschwerdeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008203360)
 
 (1) Sind an dem Verfahren mehrere Personen beteiligt, so kann das
 Bundespatentgericht bestimmen, daß die Kosten des Verfahrens
@@ -2508,6 +2600,7 @@ entsprechend.
 
 
 #### § 72 Ausschließung und Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008301360)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
 die §§ 41 bis 44 und 47 bis 49 der Zivilprozeßordnung entsprechend.
@@ -2526,6 +2619,7 @@ dessen Geschäftsbereich die Sache fällt.
 
 
 #### § 73 Ermittlung des Sachverhalts, Vorbereitung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008401360)
 
 (1) Das Bundespatentgericht ermittelt den Sachverhalt von Amts wegen.
 Es ist an das Vorbringen und die Beweisanträge der Beteiligten nicht
@@ -2541,6 +2635,7 @@ Abs. 4 Satz 1 der Zivilprozeßordnung entsprechend.
 
 
 #### § 74 Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008501360)
 
 (1) Das Bundespatentgericht erhebt Beweis in der mündlichen
 Verhandlung. Es kann insbesondere Augenschein einnehmen, Zeugen,
@@ -2558,6 +2653,7 @@ beanstandet, so entscheidet das Bundespatentgericht.
 
 
 #### § 75 Ladungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008600000)
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind
 die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen zu
@@ -2568,6 +2664,7 @@ Beteiligten auch ohne ihn verhandelt und entschieden werden kann.
 
 
 #### § 76 Gang der Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008701360)
 
 (1) Der oder die Vorsitzende eröffnet und leitet die mündliche
 Verhandlung.
@@ -2592,6 +2689,7 @@ Wiedereröffnung beschließen.
 
 
 #### § 77 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008800000)
 
 (1) Zur mündlichen Verhandlung und zu jeder Beweisaufnahme wird ein
 Urkundsbeamter der Geschäftsstelle als Schriftführer zugezogen. Wird
@@ -2604,6 +2702,7 @@ sind entsprechend anzuwenden.
 
 
 #### § 78 Beweiswürdigung, rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE008901360)
 
 (1) Das Bundespatentgericht entscheidet nach seiner freien, aus dem
 Gesamtergebnis des Verfahrens gewonnenen Überzeugung. In der
@@ -2619,6 +2718,7 @@ bei der Beschlußfassung nur mitwirken, wenn die Beteiligten zustimmen.
 
 
 #### § 79 Verkündung, Zustellung, Begründung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009001360)
 
 (1) Die Endentscheidungen des Bundespatentgerichts werden, wenn eine
 mündliche Verhandlung stattgefunden hat, in dem Termin, in dem die
@@ -2637,6 +2737,7 @@ begründen.
 
 
 #### § 80 Berichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009101360)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 in der Entscheidung sind jederzeit vom Bundespatentgericht zu
@@ -2659,6 +2760,7 @@ Ausfertigungen vermerkt.
 
 
 #### § 81 Vertretung, Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009202360)
 
 (1) Die Beteiligten können vor dem Bundespatentgericht den
 Rechtsstreit selbst führen. § 96 bleibt unberührt.
@@ -2712,6 +2814,7 @@ Rechtsanwalt oder ein Patentanwalt auftritt.
 
 
 #### § 81a Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020801360)
 
 (1) Im Verfahren vor dem Bundespatentgericht erhält ein Beteiligter
 auf Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
@@ -2722,6 +2825,7 @@ Patentgesetzes entsprechend anzuwenden.
 
 
 #### § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009304360)
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
 Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und
@@ -2741,10 +2845,12 @@ das Bundespatentgericht.
 
 
 ### Abschnitt 6 - Verfahren vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG009400000)
 
 
 
 #### § 83 Zugelassene und zulassungsfreie Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009501360)
 
 (1) Gegen die Beschlüsse der Beschwerdesenate des
 Bundespatentgerichts, durch die über eine Beschwerde nach § 66
@@ -2794,6 +2900,7 @@ nicht, wenn gerügt wird,
 
 
 #### § 84 Beschwerdeberechtigung, Beschwerdegründe
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009601377)
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
 zu.
@@ -2804,6 +2911,7 @@ der Zivilprozeßordnung gelten entsprechend.
 
 
 #### § 85 Förmliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009704377)
 
 (1) Die Rechtsbeschwerde ist innerhalb eines Monats nach Zustellung
 des Beschlusses beim Bundesgerichtshof schriftlich einzulegen.
@@ -2843,6 +2951,7 @@ des Patentanwalts zu erstatten.
 
 
 #### § 86 Prüfung der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009800000)
 
 Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die
 Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form
@@ -2851,6 +2960,7 @@ nicht vor, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
 
 
 #### § 87 Mehrere Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE009901360)
 
 (1) Sind an dem Verfahren über die Rechtsbeschwerde mehrere Personen
 beteiligt, so sind die Beschwerdeschrift und die Beschwerdebegründung
@@ -2868,6 +2978,7 @@ ist § 68 Abs. 1 entsprechend anzuwenden.
 
 
 #### § 88 Anwendung weiterer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010002310)
 
 (1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der
 Zivilprozessordnung über Ausschließung und Ablehnung der
@@ -2885,6 +2996,7 @@ entsprechend.
 
 
 #### § 89 Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010101360)
 
 (1) Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluß.
 Die Entscheidung kann ohne mündliche Verhandlung getroffen werden.
@@ -2905,6 +3017,7 @@ seiner Entscheidung zugrunde zu legen.
 
 
 #### § 89a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020200301)
 
 Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
 Verfahren fortzuführen, wenn das Gericht den Anspruch dieser Partei
@@ -2915,6 +3028,7 @@ entsprechend anzuwenden.
 
 
 #### § 90 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010202360)
 
 (1) Sind an dem Verfahren mehrere Personen beteiligt, so kann der
 Bundesgerichtshof bestimmen, daß die Kosten des Verfahrens
@@ -2946,10 +3060,12 @@ entsprechend.
 
 
 ### Abschnitt 7 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG010300000)
 
 
 
 #### § 91 Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010402360)
 
 (1) Wer ohne Verschulden verhindert war, dem Deutschen Patent- und
 Markenamt oder dem Bundespatentgericht gegenüber eine Frist
@@ -2989,6 +3105,7 @@ machen.
 
 
 #### § 91a Weiterbehandlung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019802360)
 
 (1) Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
 bestimmten Frist die Markenanmeldung zurückgewiesen worden, so wird
@@ -3010,6 +3127,7 @@ Handlung zu beschließen hat.
 
 
 #### § 92 Wahrheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010501360)
 
 In den Verfahren vor dem Deutschen Patent- und Markenamt, dem
 Bundespatentgericht und dem Bundesgerichtshof haben die Beteiligten
@@ -3018,6 +3136,7 @@ Wahrheit gemäß abzugeben.
 
 
 #### § 93 Amtssprache und Gerichtssprache
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010601360)
 
 Die Sprache vor dem Deutschen Patent- und Markenamt und vor dem
 Bundespatentgericht ist deutsch. Im übrigen finden die Vorschriften
@@ -3025,12 +3144,14 @@ des Gerichtsverfassungsgesetzes über die Gerichtssprache Anwendung.
 
 
 #### § 93a Entschädigung von Zeugen, Vergütung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020000377)
 
 Zeugen erhalten eine Entschädigung und Sachverständige eine Vergütung
 nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 94 Zustellungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010705360)
 
 (1) Für Zustellungen im Verfahren vor dem Deutschen Patent- und
 Markenamt gelten die Vorschriften des Verwaltungszustellungsgesetzes
@@ -3076,6 +3197,7 @@ die Vorschriften der Zivilprozessordnung.
 
 
 #### § 95 Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010801360)
 
 (1) Die Gerichte sind verpflichtet, dem Deutschen Patent- und
 Markenamt Rechtshilfe zu leisten.
@@ -3093,6 +3215,7 @@ Mitgliedern. Die Entscheidung ergeht durch Beschluß.
 
 
 #### § 95a Elektronische Verfahrensführung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019907360)
 
 (1) Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
 Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
@@ -3126,6 +3249,7 @@ bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 96 Inlandsvertreter
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE010904360)
 
 (1) Wer im Inland weder einen Wohnsitz, Sitz noch Niederlassung hat,
 kann an einem in diesem Gesetz geregelten Verfahren vor dem Deutschen
@@ -3151,6 +3275,7 @@ und Markenamt oder dem Bundespatentgericht angezeigt wird.
 
 
 #### § 96a Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE020701360)
 
 Die Vorschriften des Siebzehnten Titels des
 Gerichtsverfassungsgesetzes sind auf Verfahren vor dem
@@ -3158,10 +3283,12 @@ Bundespatentgericht und dem Bundesgerichtshof entsprechend anzuwenden.
 
 
 ## Teil 4 - Kollektivmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018800000)
 
 
 
 ### § 97 Kollektivmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011001360)
 
 (1) Als Kollektivmarken können alle als Marke schutzfähigen Zeichen im
 Sinne des § 3 eingetragen werden, die geeignet sind, die Waren oder
@@ -3176,6 +3303,7 @@ anzuwenden, soweit in diesem Teil nicht etwas anderes bestimmt ist.
 
 
 ### § 98 Inhaberschaft
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011101360)
 
 Inhaber von angemeldeten oder eingetragenen Kollektivmarken können nur
 Verbände von Herstellern, Erzeugern, Dienstleistungsunternehmern oder
@@ -3188,6 +3316,7 @@ Personen des öffentlichen Rechts gleichgestellt.
 
 
 ### § 99 Eintragbarkeit von geographischen Herkunftsangaben als Kollektivmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011200000)
 
 Abweichend von § 8 Abs. 2 Nr. 2 können Kollektivmarken ausschließlich
 aus Zeichen oder Angaben bestehen, die im Verkehr zur Bezeichnung der
@@ -3196,6 +3325,7 @@ können.
 
 
 ### § 100 Schranken des Schutzes, Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011301360)
 
 (1) Zusätzlich zu den Schutzschranken, die sich aus § 23 ergeben,
 gewährt die Eintragung einer geographischen Herkunftsangabe als
@@ -3212,6 +3342,7 @@ gilt als Benutzung im Sinne des § 26.
 
 
 ### § 101 Klagebefugnis, Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011401360)
 
 (1) Soweit in der Kollektivmarkensatzung nichts anderes bestimmt ist,
 kann eine zur Benutzung der Kollektivmarke berechtigte Person Klage
@@ -3225,6 +3356,7 @@ Personen aus der unbefugten Benutzung der Kollektivmarke oder eines
 
 
 ### § 102 Kollektivmarkensatzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011501360)
 
 (1) Der Anmeldung der Kollektivmarke muß eine Kollektivmarkensatzung
 beigefügt sein.
@@ -3268,6 +3400,7 @@ frei.
 
 
 ### § 103 Prüfung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011601360)
 
 (1) Die Anmeldung einer Kollektivmarke wird außer nach § 37 auch dann
 zurückgewiesen, wenn sie nicht den Voraussetzungen der §§ 97, 98 oder
@@ -3286,6 +3419,7 @@ Zurückweisungsgründe der Absätze 1 und 2 nicht mehr bestehen.
 
 
 ### § 104 Änderung der Kollektivmarkensatzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011701360)
 
 (1) Der Inhaber der Kollektivmarke hat dem Deutschen Patent- und
 Markenamt jede Änderung der Kollektivmarkensatzung mitzuteilen.
@@ -3303,6 +3437,7 @@ werden.
 
 
 ### § 105 Verfall
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011801360)
 
 (1) Die Eintragung einer Kollektivmarke wird außer aus den in § 49
 genannten Verfallsgründen auf Antrag für verfallen erklärt und
@@ -3341,6 +3476,7 @@ nach § 53.
 
 
 ### § 106 Nichtigkeit wegen absoluter Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE011901360)
 
 (1) Die Eintragung einer Kollektivmarke wird außer aus den in § 50
 genannten Nichtigkeitsgründen auf Antrag für nichtig erklärt und
@@ -3356,10 +3492,12 @@ nach § 53.
 
 
 ## Teil 5 - Gewährleistungsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018902360)
 
 
 
 ### § 106a Gewährleistungsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021200360)
 
 (1) Der Inhaber der Gewährleistungsmarke gewährleistet für die Waren
 und Dienstleistungen, für die sie angemeldet wird, das Vorliegen einer
@@ -3388,6 +3526,7 @@ anzuwenden, soweit in diesem Teil nicht etwas anderes bestimmt ist.
 
 
 ### § 106b Inhaberschaft und ernsthafte Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021300360)
 
 (1) Inhaber von angemeldeten oder eingetragenen Gewährleistungsmarken
 kann jede natürliche oder juristische Person einschließlich
@@ -3402,6 +3541,7 @@ mindestens eine hierzu befugte Person gilt als Benutzung im Sinne des
 
 
 ### § 106c Klagebefugnis; Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021500360)
 
 (1) Soweit in der Gewährleistungsmarkensatzung nichts anderes bestimmt
 ist, kann eine zur Benutzung der Gewährleistungsmarke berechtigte
@@ -3415,6 +3555,7 @@ eines ähnlichen Zeichens entstanden ist.
 
 
 ### § 106d Gewährleistungsmarkensatzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021400360)
 
 (1) Der Anmeldung der Gewährleistungsmarke muss eine
 Gewährleistungsmarkensatzung beigefügt sein.
@@ -3467,6 +3608,7 @@ Person frei.
 
 
 ### § 106e Prüfung der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021600360)
 
 (1) Die Anmeldung einer Gewährleistungsmarke wird außer nach § 37 auch
 zurückgewiesen, wenn sie nicht den Voraussetzungen der §§ 106a, 106b
@@ -3486,6 +3628,7 @@ der Absätze 1 und 2 nicht mehr bestehen.
 
 
 ### § 106f Änderung der Gewährleistungsmarkensatzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021700360)
 
 (1) Der Inhaber der Gewährleistungsmarke hat dem Deutschen Patent- und
 Markenamt jede Änderung der Gewährleistungsmarkensatzung mitzuteilen.
@@ -3503,6 +3646,7 @@ werden.
 
 
 ### § 106g Verfall
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021800360)
 
 (1) Die Eintragung einer Gewährleistungsmarke wird außer aus den in §
 49 genannten Verfallsgründen auf Antrag auch in den folgenden Fällen
@@ -3543,6 +3687,7 @@ nach § 53.
 
 
 ### § 106h Nichtigkeit wegen absoluter Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE021900360)
 
 (1) Die Eintragung einer Gewährleistungsmarke wird außer aus den in §
 50 genannten Nichtigkeitsgründen auf Antrag auch für nichtig erklärt
@@ -3559,14 +3704,17 @@ nach § 53.
 
 
 ## Teil 6 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG018903360)
 
 
 
 ### Abschnitt 1 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019600360)
 
 
 
 #### § 107 Anwendung der Vorschriften dieses Gesetzes; Sprachen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012104360)
 
 (1) Die Vorschriften dieses Gesetzes sind auf internationale
 Registrierungen von Marken nach dem Protokoll vom 27. Juni 1989 zum
@@ -3586,6 +3734,7 @@ oder in englischer Sprache einzureichen.
 
 
 #### § 108 Antrag auf internationale Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012203360)
 
 (1) Der Antrag auf internationale Registrierung einer zur Eintragung
 in das Register angemeldeten Marke oder einer in das Register
@@ -3607,6 +3756,7 @@ Klassifikation von Waren und Dienstleistungen, einzureichen.
 
 
 #### § 109 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012303360)
 
 (1) Soll die internationale Registrierung auf der Grundlage einer im
 Register eingetragenen Marke vorgenommen werden und ist der Antrag auf
@@ -3622,6 +3772,7 @@ des Patentkostengesetzes oder nach Absatz 1.
 
 
 #### § 110 Vermerk in den Akten, Eintragung im Register
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012401360)
 
 (1) Ist die internationale Registrierung auf der Grundlage einer zur
 Eintragung in das Register angemeldeten Marke vorgenommen worden, so
@@ -3637,6 +3788,7 @@ und die Anmeldung zur Eintragung geführt hat.
 
 
 #### § 111 Nachträgliche Schutzerstreckung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012504360)
 
 (1) Der Antrag auf nachträgliche Schutzerstreckung einer international
 registrierten Marke nach Artikel 3ter Absatz 2 des Protokolls zum
@@ -3652,6 +3804,7 @@ Fälligkeit (§ 3 Absatz 1 des Patentkostengesetzes) zu zahlen.
 
 
 #### § 112 Wirkung der internationalen Registrierung und der nachträglichen Schutzerstreckung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012602360)
 
 (1) Die internationale Registrierung oder die nachträgliche
 Schutzerstreckung einer Marke, deren Schutz nach Artikel 3 und 3ter
@@ -3670,6 +3823,7 @@ Schutz verweigert wird.
 
 
 #### § 113 Prüfung auf absolute Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012701360)
 
 (1) International registrierte Marken werden in gleicher Weise wie zur
 Eintragung in das Register angemeldete Marken nach § 37 auf absolute
@@ -3680,6 +3834,7 @@ tritt die Verweigerung des Schutzes.
 
 
 #### § 114 Widerspruch gegen eine international registrierte Marke
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012803360)
 
 (1) An die Stelle der Veröffentlichung der Eintragung (§ 41 Absatz 2)
 tritt für international registrierte Marken die Veröffentlichung in
@@ -3698,6 +3853,7 @@ tritt die Verweigerung des Schutzes.
 
 
 #### § 115 Schutzentziehung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE012903360)
 
 (1) An die Stelle des Antrags (§ 49) oder der Klage (§ 55) auf
 Erklärung des Verfalls einer Marke oder des Antrags auf Erklärung der
@@ -3725,6 +3881,7 @@ Tages, ab dem kein Widerspruch mehr gegen die Marke möglich ist,
 
 
 #### § 116 Widerspruch aufgrund einer international registrierten Marke und Antrag oder Klage auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE013002360)
 
 (1) Wird aufgrund einer international registrierten Marke Widerspruch
 gegen die Eintragung einer Marke erhoben, so ist § 43 Absatz 1 mit der
@@ -3741,6 +3898,7 @@ einer der in § 115 Absatz 2 bezeichneten Tage tritt.
 
 
 #### § 117 Ausschluss von Ansprüchen wegen mangelnder Benutzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE013103360)
 
 Werden Ansprüche im Sinne der §§ 14 und 18 bis 19c wegen der
 Verletzung einer international registrierten Marke geltend gemacht, so
@@ -3750,6 +3908,7 @@ einer der in § 115 Absatz 2 bezeichneten Tage tritt.
 
 
 #### § 118 Umwandlung einer internationalen Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE013202360)
 
 (1) Wird beim Deutschen Patent- und Markenamt ein Antrag nach Artikel
 9quinquies des Protokolls zum Madrider Markenabkommen auf Umwandlung
@@ -3788,10 +3947,12 @@ kann kein Widerspruch erhoben werden.
 
 
 ### Abschnitt 2 - Unionsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG015402360)
 
 
 
 #### § 119 Anwendung der Vorschriften dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE018703360)
 
 Die Vorschriften dieses Gesetzes sind auf Marken, die nach der
 Verordnung (EU) 2017/1001 des Europäischen Parlaments und des Rates
@@ -3857,6 +4018,7 @@ wie folgt anzuwenden:
 
 
 #### § 120 Nachträgliche Feststellung der Ungültigkeit einer Marke
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE018802360)
 
 (1) Ist für eine angemeldete oder eingetragene Unionsmarke der
 Zeitrang einer im Register des Deutschen Patent- und Markenamts
@@ -3885,6 +4047,7 @@ Feststellung ihrer Ungültigkeit tritt.
 
 
 #### § 121 Umwandlung von Unionsmarken
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE018905360)
 
 (1) Ist dem Deutschen Patent- und Markenamt ein Antrag auf Umwandlung
 einer angemeldeten oder eingetragenen Unionsmarke nach Artikel 139
@@ -3916,6 +4079,7 @@ Gesetzes für die Anmeldung von Marken anzuwenden.
 
 
 #### § 122 Unionsmarkenstreitsachen; Unionsmarkengerichte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019003360)
 
 (1) Für alle Klagen, für die nach der Unionsmarkenverordnung die
 Unionsmarkengerichte im Sinne des Artikels 123 Absatz 1 der
@@ -3941,6 +4105,7 @@ Unionsmarkengericht eines anderen Landes übertragen.
 
 
 #### § 123 Unterrichtung der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019103360)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz teilt der
 Kommission der Europäischen Gemeinschaften die Unionsmarkengerichte
@@ -3950,6 +4115,7 @@ erster und zweiter Instanz mit.
 
 
 #### § 124 Örtliche Zuständigkeit der Unionsmarkengerichte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019202360)
 
 Sind nach Artikel 125 der Unionsmarkenverordnung deutsche
 Unionsmarkengerichte international zuständig, so gelten für die
@@ -3962,6 +4128,7 @@ zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
 
 
 #### § 125 Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019302360)
 
 (1) Ist dem Insolvenzgericht bekannt, daß zur Insolvenzmasse eine
 angemeldete oder eingetragene Unionsmarke gehört, so ersucht es das
@@ -3995,6 +4162,7 @@ Sachwalter an die Stelle des Insolvenzverwalters.
 
 
 #### § 125a Erteilung der Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019602360)
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 110 Absatz 2
 Satz 3 der Unionsmarkenverordnung ist das Bundespatentgericht
@@ -4003,14 +4171,17 @@ Geschäftsstelle des Bundespatentgerichts erteilt.
 
 
 ## Teil 7 - Geographische Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019001360)
 
 
 
 ### Abschnitt 1 - Schutz geographischer Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG014101000)
 
 
 
 #### § 126 Als geographische Herkunftsangaben geschützte Namen, Angaben oder Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014200000)
 
 (1) Geographische Herkunftsangaben im Sinne dieses Gesetzes sind die
 Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige
@@ -4031,6 +4202,7 @@ von Waren oder Dienstleistungen dienen.
 
 
 #### § 127 Schutzinhalt
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014300000)
 
 (1) Geographische Herkunftsangaben dürfen im geschäftlichen Verkehr
 nicht für Waren oder Dienstleistungen benutzt werden, die nicht aus
@@ -4076,6 +4248,7 @@ geographische Herkunftsangabe mit Zusätzen benutzt wird, sofern
 
 
 #### § 128 Ansprüche wegen Verletzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014402140)
 
 (1) Wer im geschäftlichen Verkehr Namen, Angaben oder Zeichen entgegen
 § 127 benutzt, kann von den nach § 8 Abs. 3 des Gesetzes gegen den
@@ -4095,15 +4268,18 @@ durch die Verletzung des Rechts erzielt hat, berücksichtigt werden. §
 
 
 #### § 129 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014500000)
 
 Ansprüche nach § 128 verjähren gemäß § 20.
 
 
 ### Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019403360)
 
 
 
 #### § 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014708360)
 
 (1) Anträge auf Eintragung einer geographischen Angabe oder einer
 Ursprungsbezeichnung in das Register der geschützten
@@ -4165,6 +4341,7 @@ Fassung der Spezifikation.
 
 
 #### § 131 Zwischenstaatliches Einspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014806360)
 
 (1) Einsprüche nach Artikel 17 Absatz 2 der Verordnung (EU) 2024/1143
 gegen die beabsichtigte Eintragung von geographischen Angaben oder
@@ -4182,6 +4359,7 @@ nicht gegeben.
 
 
 #### § 132 Antrag auf Änderung der Spezifikation, Löschungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE014905360)
 
 (1) Für Anträge auf Änderung der Spezifikation einer geschützten
 geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach
@@ -4195,6 +4373,7 @@ entsprechend.
 
 
 #### § 133 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015003123)
 
 Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den
 Vorschriften dieses Abschnitts trifft, findet die Beschwerde zum
@@ -4211,6 +4390,7 @@ entsprechend anzuwenden.
 
 
 #### § 134 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015104360)
 
 (1) Die nach der Verordnung (EU) 2024/1143 und den zu ihrer
 Durchführung erlassenen Vorschriften erforderliche Überwachung und
@@ -4271,6 +4451,7 @@ Tatbestände werden durch das Landesrecht bestimmt.
 
 
 #### § 135 Ansprüche wegen Verletzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015205360)
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
 Artikel 26 der Verordnung (EU) 2024/1143 verstoßen, kann bei
@@ -4306,15 +4487,18 @@ Die §§ 18, 19, 19a und 19c gelten entsprechend.
 
 
 #### § 136 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015301140)
 
 Die Ansprüche nach § 135 verjähren nach § 20.
 
 
 ### Abschnitt 3 - Ermächtigungen zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG015401000)
 
 
 
 #### § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015504301)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
@@ -4346,6 +4530,7 @@ geographischen Herkunftsangabe zu berücksichtigen.
 
 
 #### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2024/1143
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015606360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -4359,6 +4544,7 @@ auf das Deutsche Patent- und Markenamt übertragen.
 
 
 #### § 139 Durchführungsbestimmungen zur Verordnung (EU) 2024/1143; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015707360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -4400,10 +4586,12 @@ teilweise auf andere Behörden zu übertragen.
 
 
 ## Teil 8 - Verfahren in Kennzeichenstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019101360)
 
 
 
 ### § 140 Kennzeichenstreitsachen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015806360)
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
 Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
@@ -4432,6 +4620,7 @@ Auslagen des Patentanwalts zu erstatten.
 
 
 ### § 141 Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE015901377)
 
 Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse
 betreffen und auf Vorschriften des Gesetzes gegen den unlauteren
@@ -4441,6 +4630,7 @@ werden.
 
 
 ### § 142 Streitwertbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016000000)
 
 (1) Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage
 ein Anspruch aus einem der in diesem Gesetz geregelten
@@ -4471,14 +4661,17 @@ Gegner zu hören.
 
 
 ## Teil 9 - Straf- und Bußgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019201360)
 
 
 
 ### Abschnitt 1 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG016101000)
 
 
 
 #### § 143 Strafbare Kennzeichenverletzung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016205360)
 
 (1) Wer im geschäftlichen Verkehr widerrechtlich
 
@@ -4551,6 +4744,7 @@ Bekanntmachung ist im Urteil zu bestimmen.
 
 
 #### § 143a Strafbare Verletzung der Unionsmarke
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE019703360)
 
 (1) Wer die Rechte des Inhabers einer Unionsmarke nach Artikel 9
 Absatz 1 der Unionsmarkenverordnung verletzt, indem er trotz eines
@@ -4587,6 +4781,7 @@ bestraft.
 
 
 #### § 144 Strafbare Benutzung geographischer Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016305360)
 
 (1) Wer im geschäftlichen Verkehr widerrechtlich eine geographische
 Herkunftsangabe, einen Namen, eine Angabe oder ein Zeichen
@@ -4640,6 +4835,7 @@ bestimmen.
 
 
 #### § 145 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016403377)
 
 (1) Ordnungswidrig handelt, wer im geschäftlichen Verkehr
 widerrechtlich in identischer oder nachgeahmter Form
@@ -4709,10 +4905,12 @@ für Justiz.
 
 
 ### Abschnitt 2 - Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG016501000)
 
 
 
 #### § 146 Beschlagnahme bei der Verletzung von Kennzeichenrechten
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016603123)
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz geschützten
 Marke oder geschäftlichen Bezeichnung versehen sind, unterliegen,
@@ -4739,6 +4937,7 @@ Betriebsgeheimnisse eingegriffen wird.
 
 
 #### § 147 Einziehung, Widerspruch, Aufhebung der Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016700000)
 
 (1) Wird der Beschlagnahme nicht spätestens nach Ablauf von zwei
 Wochen nach Zustellung der Mitteilung nach § 146 Abs. 2 Satz 1
@@ -4767,6 +4966,7 @@ Beschlagnahme für längstens zwei weitere Wochen aufrechterhalten.
 
 
 #### § 148 Zuständigkeiten, Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016803123)
 
 (1) Der Antrag nach § 146 Abs. 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
@@ -4786,6 +4986,7 @@ Oberlandesgericht.
 
 
 #### § 149 Schadensersatz bei ungerechtfertigter Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE016900000)
 
 Erweist sich die Beschlagnahme als von Anfang an ungerechtfertigt und
 hat der Antragsteller den Antrag nach § 146 Abs. 1 in bezug auf die
@@ -4796,6 +4997,7 @@ ersetzen.
 
 
 #### § 150 Verfahren nach der Verordnung (EU) Nr. 608/2013
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017003123)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gelten § 148
 Absatz 1 und 2 sowie § 149 entsprechend, soweit die Verordnung keine
@@ -4803,6 +5005,7 @@ Bestimmungen enthält, die dem entgegenstehen.
 
 
 #### § 151 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017102123)
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz oder nach
 Rechtsvorschriften der Europäischen Union geschützten geographischen
@@ -4832,10 +5035,12 @@ Oberlandesgericht.
 
 
 ## Teil 10 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNG019301360)
 
 
 
 ### § 152 Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017200000)
 
 Die Vorschriften dieses Gesetzes finden, soweit nachfolgend nichts
 anderes bestimmt ist, auch auf Marken, die vor dem 1. Januar 1995
@@ -4846,6 +5051,7 @@ nach den bis dahin geltenden Vorschriften geschützt waren.
 
 
 ### § 153 Schranken für die Geltendmachung von Verletzungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017300000)
 
 (1) Standen dem Inhaber einer vor dem 1. Januar 1995 eingetragenen
 oder durch Benutzung oder notorische Bekanntheit erworbenen Marke oder
@@ -4865,6 +5071,7 @@ von fünf Jahren mit dem 1. Januar 1995 zu laufen beginnt.
 
 
 ### § 154 Dingliche Rechte, Zwangsvollstreckung, Konkursverfahren
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017400000)
 
 (1) Ist vor dem 1. Januar 1995 an dem durch die Anmeldung oder
 Eintragung einer Marke begründeten Recht ein dingliches Recht
@@ -4879,6 +5086,7 @@ Konkursverfahren erfaßt worden ist.
 
 
 ### § 155 Lizenzen
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017500000)
 
 Auf vor dem 1. Januar 1995 an dem durch die Anmeldung oder Eintragung,
 durch die Benutzung oder durch die notorische Bekanntheit einer Marke
@@ -4889,6 +5097,7 @@ eingetretene Rechtsübergänge oder an Dritte erteilte Lizenzen handelt.
 
 
 ### § 156 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017601123)
 
 Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur Löschung
 der Eintragung einer Marke wegen des Bestehens absoluter
@@ -4903,6 +5112,7 @@ eingeleitet wird, die vor dem 1. Januar 1995 eingetragen worden ist.
 
 
 ### § 157 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017702360)
 
 (1) Ist vor dem 1. Januar 1995 eine Klage auf Löschung der Eintragung
 einer Marke aufgrund einer früher angemeldeten Marke nach § 11 Abs. 1
@@ -4923,6 +5133,7 @@ mit dem 1. Januar 1995 zu laufen beginnt.
 
 
 ### § 158 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017804360)
 
 (1) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 20
@@ -4988,6 +5199,7 @@ anzuwenden.
 
 
 ### § 159 Schutzdauer und Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017803360)
 
 (1) Die Vorschriften dieses Gesetzes über die Schutzdauer und ihre
 Verlängerung (§ 47) sind auf vor dem 14. Januar 2019 eingetragene
@@ -5004,6 +5216,7 @@ Fassung weiter anzuwenden.
 
 
 ### § 160 Geändertes Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE022000360)
 
 (1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer
 aufgrund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
@@ -5039,10 +5252,12 @@ Einvernehmen mit dem Bundesministerium der Justiz zuständig.
 
 
 ### (XXXX) §§ 161 bis 163 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE017903360)
 
 
 
 ### § 164 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markeng/BJNR308210994.html#BJNR308210994BJNE018401140)
 
 -
 

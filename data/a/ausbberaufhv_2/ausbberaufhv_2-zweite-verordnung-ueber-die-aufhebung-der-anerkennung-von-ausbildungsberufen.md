@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2/BJNR079600008.html#BJNR079600008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
 (BGBl. I S. 931), der durch Artikel 232 Nr. 1 der Verordnung vom 31.
@@ -33,6 +34,7 @@ und Forschung:
 
 
 ## § 1 Aufhebung der Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2/BJNR079600008.html#BJNR079600008BJNE000200000)
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
@@ -46,6 +48,7 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 
 ## § 2 Besitzstandswahrung
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2/BJNR079600008.html#BJNR079600008BJNE000300000)
 
 Personen, die vor Inkrafttreten dieser Verordnung in einem der in § 1
 genannten Ausbildungsberufe ausgebildet worden sind oder im Zeitpunkt
@@ -56,6 +59,7 @@ Ausbildungsstatus unberührt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv_2/BJNR079600008.html#BJNR079600008BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

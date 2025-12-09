@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb92018__160abs3ua_wmvo_39abs4bek/BJNR633500020.html#BJNR633500020BJNE000100000)
 
 
 1.  Gemäß § 160 Absatz 3 SGB IX erhöhen sich die monatlichen Sätze der
@@ -74,6 +75,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb92018__160abs3ua_wmvo_39abs4bek/BJNR633500020.html#BJNR633500020BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

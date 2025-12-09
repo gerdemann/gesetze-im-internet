@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminuzustano/BJNR297400005.html#BJNR297400005BJNE000100000)
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 Satz
 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510)
@@ -48,12 +49,14 @@ Geschäftsbereichs jeweils für ihren Geschäftsbereich
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminuzustano/BJNR297400005.html#BJNR297400005BJNE000200000)
 
 Diese allgemeine Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt Teil I in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuzustano/BJNR297400005.html#BJNR297400005BJNE000300000)
 
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000100000)
 
 Auf Grund des § 335 Abs. 2a des Handelsgesetzbuchs, der durch Artikel
 8 des Gesetzes vom 10. Dezember 2007 (BGBl. I S. 2833) eingefügt
@@ -31,6 +32,7 @@ ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000201123)
 
 (1) Das Bundesamt für Justiz hat die Verfahrensakten im
 Ordnungsgeldverfahren nach den §§ 335, 340o und 341o des
@@ -50,12 +52,14 @@ weitergeführt werden.
 
 
 ## § 2 Fachverfahren nach dem Stand der Technik
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000300000)
 
 Das eingesetzte Fachverfahren hat dem Stand der Technik für die
 elektronische Vorgangsbearbeitung in der Bundesverwaltung zu genügen.
 
 
 ## § 3 Übertragung von Dokumenten in elektronische Dokumente; elektronische Akte
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000400000)
 
 (1) Werden Akten elektronisch geführt, sind sämtliche zu den Akten
 gehörenden Dokumente in elektronische Dokumente zu übertragen.
@@ -69,6 +73,7 @@ Dokumente sowie Vermerke nicht nachträglich verändert werden können.
 
 
 ## § 4 Mit Datenverarbeitungsanlagen erstellte Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000500000)
 
 Bei Dokumenten, die unter Einsatz von Datenverarbeitungsanlagen
 erstellt werden, können die Unterschrift und die Namenswiedergabe
@@ -79,6 +84,7 @@ unter Einsatz von Datenverarbeitungsanlagen erstellt worden ist. Satz
 
 
 ## § 5 Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000600000)
 
 Nach rechtskräftigem Abschluss des Verfahrens sind die elektronischen
 Akten bis zu ihrer Löschung oder Übergabe an das Bundesarchiv in
@@ -87,6 +93,7 @@ zulassen.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ogav/BJNR002600008.html#BJNR002600008BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

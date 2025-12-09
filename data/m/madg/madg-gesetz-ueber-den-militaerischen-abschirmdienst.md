@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000112377)
 
 (1) Aufgabe des Militärischen Abschirmdienstes des Bundesministeriums
 der Verteidigung ist die Sammlung und Auswertung von Informationen,
@@ -118,6 +119,7 @@ Rechtsvorschriften gebunden (Artikel 20 des Grundgesetzes).
 
 
 ## § 2 Zuständigkeit in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000204377)
 
 (1) Zur Fortführung von Aufgaben nach § 1 Abs. 1 kann der Militärische
 Abschirmdienst, soweit es im Einzelfall zwingend erforderlich ist,
@@ -152,6 +154,7 @@ angehören oder nicht in ihm tätig sind.
 
 
 ## § 3 Zusammenarbeit mit den Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000303311)
 
 (1) Der Militärische Abschirmdienst und die Verfassungsschutzbehörden
 arbeiten bei der Erfüllung ihrer Aufgaben zusammen. Die Zusammenarbeit
@@ -185,6 +188,7 @@ Bundesverfassungsschutzgesetzes ist entsprechend anzuwenden.
 
 
 ## § 4 Befugnisse des Militärischen Abschirmdienstes
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000411377)
 
 (1) Der Militärische Abschirmdienst darf die zur Erfüllung seiner
 Aufgaben erforderlichen Informationen einschließlich personenbezogener
@@ -206,6 +210,7 @@ befugt ist.
 
 
 ## § 4a Besondere Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001509311)
 
 Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der
 Maßgabe entsprechend anzuwenden, dass an die Stelle der
@@ -217,6 +222,7 @@ Bundesministerium der Verteidigung treten.
 
 
 ## § 4b Besondere Auskunftsverlangen zu Bestandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001606377)
 
 (1) Soweit dies aufgrund tatsächlicher Anhaltspunkte im Einzelfall zur
 Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 1 Absatz 1
@@ -287,6 +293,7 @@ Maßgabe des Absatzes 2 Satz 1 eingeschränkt.
 
 
 ## § 5 Besondere Formen der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000507116)
 
 Der Militärische Abschirmdienst darf Informationen, insbesondere
 personenbezogene Daten, nach § 9 des Bundesverfassungsschutzgesetzes
@@ -307,6 +314,7 @@ Bundesverfassungsschutzgesetzes finden entsprechende Anwendung.
 
 
 ## § 6 Verwendung und Berichtigung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000603377)
 
 (1) Der Militärische Abschirmdienst darf personenbezogene Daten nach §
 10 des Bundesverfassungsschutzgesetzes speichern, verändern und
@@ -328,6 +336,7 @@ Anwendung.
 
 
 ## § 7 Verwendung personenbezogener Daten von Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000701116)
 
 In Dateien oder zu ihrer Person geführten Akten gespeicherte Daten
 über Minderjährige sind nach zwei Jahren auf die Erforderlichkeit der
@@ -341,6 +350,7 @@ ist unzulässig.
 
 
 ## § 8 Dateianordnungen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000801377)
 
 Der Militärische Abschirmdienst hat für jede automatisierte Datei mit
 personenbezogenen Daten eine Dateianordnung nach § 14 des
@@ -350,6 +360,7 @@ Bundesverfassungsschutzgesetzes findet Anwendung.
 
 
 ## § 9 Auskunft an den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE000903311)
 
 Der Militärische Abschirmdienst erteilt dem Betroffenen über zu seiner
 Person gespeicherte Daten Auskunft entsprechend § 15 des
@@ -359,6 +370,7 @@ Bundesministerium der Verteidigung.
 
 
 ## § 10 Übermittlung von Informationen an den Militärischen Abschirmdienst
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001017377)
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen
 Personen des öffentlichen Rechts unterrichten von sich aus den
@@ -435,6 +447,7 @@ sind entsprechend anzuwenden.
 
 
 ## § 11 Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001111377)
 
 Auf die Übermittlung personenbezogener Daten durch den Militärischen
 Abschirmdienst finden die §§ 19 bis 22a, 25a, 25b und 25d des
@@ -445,6 +458,7 @@ Verfassungsschutz übermittelte personenbezogene Daten nach § 18 Absatz
 
 
 ## § 12 Verfahrensregeln für die Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001202377)
 
 Für die Übermittlung von Informationen nach diesem Gesetz finden die
 §§ 23 bis 25, 25c und 26 des Bundesverfassungsschutzgesetzes
@@ -452,6 +466,7 @@ entsprechende Anwendung.
 
 
 ## § 13 Anwendung des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001304377)
 
 Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und
 14 durch den Militärischen Abschirmdienst findet das
@@ -469,6 +484,7 @@ Bundesdatenschutzgesetz wie folgt Anwendung:
 
 
 ## § 13a Unabhängige Datenschutzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001701311)
 
 § 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe
 entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des
@@ -476,6 +492,7 @@ Innern das Bundesministerium der Verteidigung tritt.
 
 
 ## § 14 Besondere Auslandsverwendungen
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001401377)
 
 (1) Der Militärische Abschirmdienst sammelt während besonderer
 Auslandsverwendungen der Bundeswehr im Sinne des § 62 Abs. 1 des
@@ -547,6 +564,7 @@ Abschirmdienstes im Ausland.
 
 
 ## § 15 Besondere Eigensicherungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001900377)
 
 (1) Auf die Befugnisse und Verfahren der Eigensicherung des
 Militärischen Abschirmdienstes finden die §§ 26b und 26c des
@@ -562,6 +580,7 @@ unberührt.
 
 
 ## § 16 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/madg/BJNR029770990.html#BJNR029770990BJNE001801377)
 
 Die Grundrechte der Versammlungsfreiheit (Artikel 8 des
 Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000100328)
 
 Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August
 1975 (BGBl. I S. 2255) wird nach Anhörung der beteiligten Kreise
@@ -34,6 +35,7 @@ mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000200328)
 
 Diese Verordnung wird angewandt auf Wasch- und Reinigungsmittel, die
 zur Reinigung von Textilien im Haushalt oder in Wäschereien bestimmt
@@ -44,6 +46,7 @@ Geltungsbereiches dieser Verordnung bestimmt sind.
 
 
 ## § 2 Wasch- und Reinigungsmittel zur Verwendung im Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000300328)
 
 (1) Es ist Herstellern, Einführern und Vertriebsunternehmen untersagt,
 Wasch- und Reinigungsmittel zur Verwendung im Haushalt in den Verkehr
@@ -199,6 +202,7 @@ folgende Werte ersetzt:
 
 
 ## § 3 Wasch- und Reinigungsmittel zur Verwendung in Wäschereien
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000400328)
 
 (1) Der höchstzulässige Phosphatgehalt von Wasch- und
 Reinigungsmitteln zur Verwendung in Wäschereien bemißt sich ab 1.
@@ -275,6 +279,7 @@ nicht die Obergrenzen des Absatzes 1 Satz 1 überschreiten.
 
 
 ## § 4 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000500328)
 
 Der Phosphatgehalt der Wasch- und Reinigungsmittel ist nach dem in der
 Anlage zu dieser Verordnung beschriebenen Verfahren oder nach einem
@@ -282,6 +287,7 @@ Verfahren zu bestimmen, das gleichwertige Ergebnisse erbringt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000600328)
 
 (1) Ordnungswidrig im Sinne des § 11 Abs. 1 Nr. 6 des
 Waschmittelgesetzes handelt, wer entgegen § 2 Abs. 1 vorsätzlich oder
@@ -297,6 +303,7 @@ Höchstmengen überschreitet.
 
 
 ## § 6 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000700328)
 
 Wasch- und Reinigungsmittel, die vor dem 1. Oktober 1981 (§ 2 Abs. 2,
 § 3 Abs. 1) hergestellt worden sind, dürfen auch danach in den Verkehr
@@ -306,23 +313,27 @@ worden sind.
 
 
 ## § 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000800328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 13 des Waschmittelgesetzes auch im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE000900328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE001000328)
 
 Der Bundesminister des Innern
 
 (zu § 4)
 
 ## Anlage Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/ph_chstmengv/BJNR006640980.html#BJNR006640980BJNE001100328)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 666
 Der Phosphatgehalt in Wasch- und Reinigungsmitteln ist wie folgt zu

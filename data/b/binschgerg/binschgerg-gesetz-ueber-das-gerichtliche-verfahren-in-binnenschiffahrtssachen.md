@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNG000100311)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE000500311)
 
 In Binnenschiffahrtssachen sind im ersten Rechtszug die Amtsgerichte
 zuständig.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE000603311)
 
 (1) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind bürgerliche
 Rechtsstreitigkeiten, die mit der Benutzung von Binnengewässern durch
@@ -109,6 +112,7 @@ Schwergewicht bei der zuerst genannten Tat liegt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE000701301)
 
 (1) In bürgerlichen Rechtsstreitigkeiten, die Binnenschiffahrtssachen
 sind, sind die Amtsgerichte auch soweit sachlich zuständig, wie nach
@@ -153,6 +157,7 @@ zuständig wäre.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE000800311)
 
 (1) Die Landesregierungen sind ermächtigt, die Verhandlung und
 Entscheidung von Binnenschiffahrtssachen einem Amtsgericht als
@@ -174,6 +179,7 @@ teilweise den Gerichten eines anderen Landes zugewiesen werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE000900311)
 
 (1) Die für Binnenschiffahrtssachen zuständigen Amtsgerichte sind
 Schiffahrtsgerichte im Sinne dieses Gesetzes. Sie führen bei der
@@ -186,6 +192,7 @@ einzelnen von ihnen zu übertragen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001000311)
 
 Ist für bürgerliche Rechtsstreitigkeiten die Zuständigkeit eines
 Gerichts vereinbart, das nicht ein Schiffahrtsgericht ist, so sind die
@@ -193,6 +200,7 @@ Vorschriften dieses Gesetzes nicht anzuwenden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001100311)
 
 Die Geschäfte der Staatsanwaltschaft werden in Binnenschiffahrtssachen
 von der Staatsanwaltschaft bei dem Schiffahrtsgericht oder bei dem ihm
@@ -201,6 +209,7 @@ in Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001201310)
 
 Im Verfahren vor den Schiffahrtsgerichten ist § 495a der
 Zivilprozeßordnung nicht anzuwenden. Die Anträge der Parteien in
@@ -208,6 +217,7 @@ Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001300311)
 
 (1) In bürgerlichen Rechtsstreitigkeiten ist gegen die Urteile der
 Schiffahrtsgerichte die Berufung ohne Rücksicht auf den Wert des
@@ -217,11 +227,13 @@ Beschwerdegegenstandes zulässig.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001400311)
 
 In Strafsachen ist die Revision ausgeschlossen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001500311)
 
 Für die Verhandlung und Entscheidung über Berufungen und Beschwerden
 gegen die Entscheidungen der Schiffahrtsgerichte in bürgerlichen
@@ -231,11 +243,13 @@ Oberlandesgerichte zuständig. Sie führen hierbei die Bezeichnung
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001601301)
 
 (weggefallen)
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001700311)
 
 In bürgerlichen Rechtsstreitigkeiten wird die Zulässigkeit des
 Rechtsmittels nicht dadurch berührt, daß es statt bei dem
@@ -245,10 +259,12 @@ Oberlandesgericht abgegeben.
 
 
 ## Zweiter Abschnitt - Besondere Verfahrensvorschriften für Rheinschiffahrtssachen
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNG000200311)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001800311)
 
 (1) In Binnenschiffahrtssachen, die Rheinschiffahrtssachen sind,
 gelten die Vorschriften des ersten Abschnitts dieses Gesetzes nur,
@@ -267,6 +283,7 @@ Rheinschiffahrtssachen nicht zuständig ist.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE001900311)
 
 (1) Bei der Verhandlung und Entscheidung von Rheinschiffahrtssachen
 führt das Amtsgericht an Stelle der Bezeichnung "Schiffahrtsgericht"
@@ -280,6 +297,7 @@ Rheinschiffahrtssachen sollen als solche gekennzeichnet werden.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002000311)
 
 Die Entscheidung einer Binnenschiffahrtssache, die nicht
 Rheinschiffahrtssache ist, darf nicht mit der Entscheidung einer
@@ -287,6 +305,7 @@ Rheinschiffahrtssache verbunden werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002100311)
 
 Die Berufung in bürgerlichen Rechtsstreitigkeiten und die
 Rechtsbeschwerde in Bußgeldsachen an das Rheinschiffahrtsobergericht
@@ -295,6 +314,7 @@ Rheinschiffahrtsakte vorgesehenen Beschränkung.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002200311)
 
 In bürgerlichen Rechtsstreitigkeiten und Bußgeldsachen, die
 Rheinschiffahrtssachen sind, ist unter der in Artikel 37 Abs. 1 der
@@ -304,10 +324,12 @@ auch die Anrufung der Zentralkommission in Straßburg zulässig.
 
 
 ## Dritter Abschnitt - Besondere Verfahrensvorschriften für Moselschiffahrtssachen
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNG000300311)
 
 
 
 ### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002300311)
 
 (1) In Binnenschiffahrtssachen, die Moselschiffahrtssachen sind,
 gelten die Vorschriften des Ersten Abschnitts dieses Gesetzes nur,
@@ -333,6 +355,7 @@ zuständig ist.
 
 
 ### § 18b
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002400311)
 
 (1) Bei der Verhandlung und Entscheidung von Moselschiffahrtssachen
 führt das Amtsgericht an Stelle der Bezeichnung "Schiffahrtsgericht"
@@ -346,6 +369,7 @@ Moselschiffahrtssachen sollen als solche gekennzeichnet werden.
 
 
 ### § 18c
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002500311)
 
 Die Entscheidung einer Binnenschiffahrtssache, die nicht
 Moselschiffahrtssache ist, darf nicht mit der Entscheidung einer
@@ -353,6 +377,7 @@ Moselschiffahrtssache verbunden werden.
 
 
 ### § 18d
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002600311)
 
 Die Berufung in bürgerlichen Rechtsstreitigkeiten und die
 Rechtsbeschwerde in Bußgeldsachen an das Moselschiffahrtsobergericht
@@ -362,6 +387,7 @@ Revidierten Rheinschiffahrtsakte ergibt.
 
 
 ### § 18e
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002700311)
 
 In bürgerlichen Rechtsstreitigkeiten und Bußgeldsachen, die
 Moselschiffahrtssachen sind, ist unter der Beschränkung, die sich aus
@@ -373,20 +399,24 @@ der Moselkommission in Trier zulässig.
 
 
 ## Vierter Abschnitt - Zusatz-, Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNG000400311)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002800311)
 
 -
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE002900311)
 
 -
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003000311)
 
 (1) Entscheidungen außerdeutscher Rheinschiffahrtsgerichte werden auf
 Grund einer von dem Rheinschiffahrtsobergericht Köln mit der
@@ -402,11 +432,13 @@ vollstreckt.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003100311)
 
 -
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003200311)
 
 Bis zu anderer Regelung durch die Landesregierungen sind die Gerichte,
 die nach den bisher geltenden Vorschriften zu Schiffahrtsgerichten
@@ -420,11 +452,13 @@ Teile dieser Bezirke.
 
 
 ### (XXXX) §§ 24 und 25
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003300311)
 
 -
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003400311)
 
 (1) Dieses Gesetz tritt am 1. Oktober 1952 in Kraft.
 
@@ -432,6 +466,7 @@ Teile dieser Bezirke.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/binschgerg/BJNR006410952.html#BJNR006410952BJNE003500311)
 
 Dieses Gesetz gilt nach Maßgabe der §§ 13 und 14 des Gesetzes über die
 Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes

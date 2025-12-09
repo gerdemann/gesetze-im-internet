@@ -22,12 +22,14 @@ Zuletzt geändert durch
 Stand: Dieses G ist gem. § 6 iVm Bek. v. 8.8.2013 I 3212 mWv 1.9.2013 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Unmittelbare Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000200000)
 
 Die Bestimmungen des Beschlusses 2008/633/JI des Rates vom 23. Juni
 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und
@@ -38,6 +40,7 @@ anwendbar.
 
 
 ## § 2 Zugangsberechtigte Behörden und zentrale Zugangsstellen
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000301311)
 
 (1) Der Bund und die Länder bestimmen die Polizeibehörden,
 Strafverfolgungsbehörden und Nachrichtendienste, die zum Zwecke der
@@ -63,6 +66,7 @@ Union.
 
 
 ## § 3 Terroristische und sonstige schwerwiegende Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000402377)
 
 Zugang zum Visa-Informationssystem kann nur gewährt werden zum Zwecke
 der Verhütung, Aufdeckung oder Ermittlung
@@ -112,6 +116,7 @@ der Verhütung, Aufdeckung oder Ermittlung
 
 
 ## § 4 Datenschutzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000501377)
 
 Die Kontrolle der Einhaltung der datenschutzrechtlichen Bestimmungen
 obliegt nach § 9 des Bundesdatenschutzgesetzes dem Bundesbeauftragten
@@ -121,6 +126,7 @@ Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
 
 
 ## § 5 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000600000)
 
 Das Bundesverwaltungsamt protokolliert jede Abfrage und Übermittlung
 von Daten aus dem Visa-Informationssystem. Dazu gehört auch die
@@ -128,6 +134,7 @@ persönliche Kennung der Personen, die die Abfrage bearbeiten.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/viszg/BJNR103400009.html#BJNR103400009BJNE000700000)
 
 Dieses Gesetz tritt an dem Tag in Kraft, ab dem der Beschluss
 2008/633/JI nach seinem Artikel 18 Abs. 2 gilt. Das Bundesministerium

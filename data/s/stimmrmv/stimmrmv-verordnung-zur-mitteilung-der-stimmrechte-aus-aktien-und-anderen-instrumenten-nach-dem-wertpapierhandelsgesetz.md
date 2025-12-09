@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000100000)
 
 Auf Grund des § 33 Absatz 5 Satz 1, des § 38 Absatz 5 Satz 1 und des §
 39 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes, von denen § 33
@@ -38,6 +39,7 @@ Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf eine Mitteilung nach § 33 Absatz 1
 und 2, § 38 Absatz 1 oder § 39 Absatz 1 des Wertpapierhandelsgesetzes
@@ -48,15 +50,18 @@ bleiben unberührt.
 
 
 ## § 2 Form der Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000301360)
 
 Die Mitteilung ist elektronisch zu übermitteln.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000401360)
 
 
 
 ## § 4 Elektronische Übermittlung einer Mitteilung an die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000501360)
 
 [^F804350_01_BJNR172300018BJNE000501360]
 (1) Eine elektronische Übermittlung der Mitteilung an die
@@ -75,6 +80,7 @@ schriftlich im Original oder per Telefax zu erfolgen.
 [^F804350_01_BJNR172300018BJNE000501360]: 
 
 ## § 5 Nutzung der MVP
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000600000)
 
 [^F804350_02_BJNR172300018BJNE000600000]
 Die Nutzung des Fachverfahrens „Stimmrechtsmitteilungen (§§ 33 ff.
@@ -96,6 +102,7 @@ sind zu beachten.
 [^F804350_03_BJNR172300018BJNE000600000]: 
 
 ## § 6 Elektronische Übermittlung einer Mitteilung an den Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000701360)
 
 (1) Bei der elektronischen Übermittlung einer Mitteilung an den
 Emittenten trägt der Meldepflichtige die Verantwortung für die
@@ -129,6 +136,7 @@ zu erfolgen.
 
 
 ## § 7 Ersatz für die Unterschrift bei der elektronischen Übermittlung einer Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000800000)
 
 Anstelle der eigenhändigen Unterschrift bei einer schriftlichen
 Mitteilung tritt im Falle einer elektronischen Übermittlung einer
@@ -137,6 +145,7 @@ die die Verantwortung für den Inhalt der Mitteilung trägt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stimmrmv/BJNR172300018.html#BJNR172300018BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000100328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000203305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung Änderungen der Anlagen I - Regeln
@@ -37,10 +39,12 @@ Kraft zu setzen.
 
 
 ## (XXXX) Art 3 u. 4
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000300328)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000400328)
 
 Vorschriften, die an den Brutto- oder Nettoraumgehalt von Schiffen in
 Registertonnen (BRT oder NRT) Rechtsfolgen knüpfen, sind auf Schiffe,
@@ -52,16 +56,19 @@ Vorschriften nichts anderes bestimmen.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000500328)
 
 -
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000601308)
 
 (weggefallen)
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/intschverm_bkg/BJNR200650975.html#BJNR200650975BJNE000700328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

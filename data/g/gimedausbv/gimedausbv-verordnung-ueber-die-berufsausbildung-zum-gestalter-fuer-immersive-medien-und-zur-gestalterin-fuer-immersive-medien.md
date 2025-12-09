@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -36,9 +37,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Gestalters für
 immersive Medien und der Gestalterin für immersive Medien wird nach §
@@ -46,11 +49,13 @@ immersive Medien und der Gestalterin für immersive Medien wird nach §
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000500000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -103,6 +108,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -123,6 +129,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -203,6 +210,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -210,9 +218,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNG000200000)
 
 
 ### § 7 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE000900000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -221,6 +231,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -237,6 +248,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001100000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -251,6 +263,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 10 Prüfungsbereich „Immersive Medienprodukte in Entwicklungsumgebungen vorbereiten und erstellen“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001200000)
 
 (1) Im Prüfungsbereich „Immersive Medienprodukte in
 Entwicklungsumgebungen vorbereiten und erstellen“ hat der Prüfling
@@ -289,6 +302,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 11 Prüfungsbereich „3D-Modelle und Medienprodukte erstellen“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001300000)
 
 (1) Im Prüfungsbereich „3D-Modelle und Medienprodukte erstellen“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -317,9 +331,11 @@ höchstens 5 Minuten auf das situative Fachgespräch.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNG000300000)
 
 
 ### § 12 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001400000)
 
 (1) Die Abschlussprüfung findet am Ende der Berufsausbildung statt.
 
@@ -327,6 +343,7 @@ höchstens 5 Minuten auf das situative Fachgespräch.
 
 
 ### § 13 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001500000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -343,6 +360,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 14 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001600000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -362,6 +380,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 15 Prüfungsbereich „Immersive Medien produzieren“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001700000)
 
 (1) Im Prüfungsbereich „Immersive Medien produzieren“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -430,6 +449,7 @@ Fachgespräch höchstens 20 Minuten.
 
 
 ### § 16 Prüfungsbereich „Immersive Medien konzipieren und gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001800000)
 
 (1) Im Prüfungsbereich „Immersive Medien konzipieren und gestalten“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -488,6 +508,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Prüfungsbereich „Produktion von immersiven Medien organisieren und umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE001900000)
 
 (1) Im Prüfungsbereich „Produktion von immersiven Medien organisieren
 und umsetzen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -540,6 +561,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 18 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE002000000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -553,6 +575,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE002100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -621,6 +644,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 20 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE002200000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -662,15 +686,18 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNG000400000)
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE002300000)
 
 Diese Verordnung tritt am 1. August 2023 in Kraft.
 
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für immersive Medien und zur Gestalterin für immersive Medien
+[Direktlink](https://www.gesetze-im-internet.de/gimedausbv/BJNR0630A0023.html#BJNR0630A0023BJNE002400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 99, S. 9 - 14)
 

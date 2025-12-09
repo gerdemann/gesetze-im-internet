@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1999bek/BJNR172300999.html#BJNR172300999BJNE000100305)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
 16\. Juli 1999 bekannt, der mit Wirkung vom gleichen Tage in Kraft

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE000500319)
 
 Auf Grund des § 29b Abs. 2 und des § 44a Abs. 1 Satz 2, Abs. 5 des
 Bundesgesetzes zur Regelung der rückerstattungsrechtlichen
@@ -31,10 +32,12 @@ mit Zustimmung des Bundesrates:
 
 
 ## I. - Entziehung von Hausrat in den ehemals besetzten Westgebieten
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE000600319)
 
 Als Entziehungsgebiete im Sinne des § 29b Abs. 1 und des § 44a Abs. 1
 BRüG gelten der damalige Bereich
@@ -61,6 +64,7 @@ BRüG gelten der damalige Bereich
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE000700319)
 
 (1) Allgemeine Maßnahmen im Sinne des § 29b Abs. 1 und des § 44a Abs.
 1 BRüG für die überwiegende Verbringung entzogenen Hausrats in das
@@ -81,6 +85,7 @@ abgegeben wurde.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE000800319)
 
 (1) Als Beginn des Entziehungszeitraums im Sinne des § 29b Abs. 2 und
 des § 44a Abs. 1 BRüG kommt in Betracht
@@ -116,10 +121,12 @@ wurde.
 
 
 ## II. - Entziehung von Schmuck- und Edelmetallgegenständen in den ehemals besetzten oder eingegliederten Gebieten
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNG000200319)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE000900319)
 
 Als besetzte oder eingegliederte Gebiete im Sinne des § 29b Abs. 1 und
 des § 44a Abs. 1 BRüG gelten
@@ -151,6 +158,7 @@ des § 44a Abs. 1 BRüG gelten
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001000319)
 
 (1) Allgemeine Maßnahmen im Sinne des § 29b Abs. 1 und des § 44a Abs.
 1 BRüG für die überwiegende Verbringung entzogener Schmuck- und
@@ -189,6 +197,7 @@ keine Anwendung.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001100319)
 
 Als Entziehungszeiträume im Sinne des § 29b Abs. 2 und des § 44a Abs.
 1 BRüG kommen in Betracht
@@ -207,10 +216,12 @@ Als Entziehungszeiträume im Sinne des § 29b Abs. 2 und des § 44a Abs.
 
 
 ## III. - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNG000300319)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001202310)
 
 Zuständig für die Entgegennahme von Anträgen auf Gewährung eines
 Härteausgleichs gemäß § 44a Abs. 5 BRüG und zur Entscheidung darüber
@@ -218,6 +229,7 @@ ist das Bundesamt für zentrale Dienste und offene Vermögensfragen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001300319)
 
 Anträge auf Gewährung eines Härteausgleichs gemäß § 44a BRüG müssen
 bis zum 23. Mai 1966 bei der in § 7 bezeichneten Behörde eingegangen
@@ -227,10 +239,12 @@ Januar 1967.
 
 
 ## IV. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNG000400319)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001400319)
 
 (1) Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
@@ -242,6 +256,7 @@ S. 809) auch im Land Berlin.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/br_gdv_1/BJNR004200965.html#BJNR004200965BJNE001500319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

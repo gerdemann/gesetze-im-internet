@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000100000)
 
 Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen
 Berufsqualifikationen für den deutschen Arbeitsmarkt, um eine
@@ -30,6 +32,7 @@ qualifikationsnahe Beschäftigung zu ermöglichen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000201128)
 
 (1) Dieses Gesetz gilt für die Feststellung der Gleichwertigkeit im
 Ausland erworbener Ausbildungsnachweise, unter Berücksichtigung
@@ -45,6 +48,7 @@ Erwerbstätigkeit ausüben zu wollen.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000300000)
 
 (1) Berufsqualifikationen sind Qualifikationen, die durch
 Ausbildungsnachweise, Befähigungsnachweise oder einschlägige, im
@@ -76,12 +80,15 @@ Rechts- oder Verwaltungsvorschriften auf Personen beschränkt ist, die
 
 
 ## Teil 2 - Feststellung der Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000200000)
 
 
 ### Kapitel 1 - Nicht reglementierte Berufe
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000300000)
 
 
 #### § 4 Feststellung der Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000401119)
 
 (1) Die zuständige Stelle stellt auf Antrag die Gleichwertigkeit fest,
 sofern
@@ -123,6 +130,7 @@ Berufsbildung liegen vor, sofern
 
 
 #### § 5 Vorzulegende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000502128)
 
 (1) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -198,6 +206,7 @@ sprechen.
 
 
 #### § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000603126)
 
 (1) Antragsberechtigt ist jede Person, die im Ausland einen
 Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat. Der Antrag
@@ -237,6 +246,7 @@ festgestellt ist.
 
 
 #### § 7 Form der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000701311)
 
 (1) Die Entscheidung über den Antrag nach § 4 Absatz 1 ergeht durch
 schriftlichen oder elektronischen Bescheid.
@@ -253,6 +263,7 @@ Berufsbildung darzulegen.
 
 
 #### § 8 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000800000)
 
 (1) Zuständige Stelle im Sinne dieses Kapitels bei einer
 Berufsbildung,
@@ -305,9 +316,11 @@ jeweils zuständigen Aufsichtsbehörden.
 
 
 ### Kapitel 2 - Reglementierte Berufe
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000400000)
 
 
 #### § 9 Voraussetzungen der Gleichwertigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE000901119)
 
 (1) Bei der Entscheidung über die Befugnis zur Aufnahme oder Ausübung
 eines im Inland reglementierten Berufs gilt der im Ausland erworbene
@@ -360,6 +373,7 @@ Berufsbildung liegen vor, sofern
 
 
 #### § 10 Feststellung der vorhandenen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001000000)
 
 (1) Sofern die Feststellung der Gleichwertigkeit wegen wesentlicher
 Unterschiede im Sinne des § 9 Absatz 2 nicht erfolgen kann, werden bei
@@ -374,6 +388,7 @@ inländischen Ausbildungsnachweis ausgeglichen werden können.
 
 
 #### § 11 Ausgleichsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001101119)
 
 (1) Wesentliche Unterschiede im Sinne des § 9 Absatz 2 können durch
 die Absolvierung eines höchstens dreijährigen Anpassungslehrgangs, der
@@ -401,6 +416,7 @@ abgelegt werden können.
 
 
 #### § 12 Vorzulegende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001204128)
 
 (1) Zur Bewertung der Gleichwertigkeit sind dem Antrag auf Befugnis
 zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs
@@ -503,6 +519,7 @@ sprechen.
 
 
 #### § 13 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001304123)
 
 (1) Die Bewertung der Gleichwertigkeit nach § 9 erfolgt im Rahmen der
 Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im
@@ -561,9 +578,11 @@ Berufsqualifikationen nach diesem Kapitel bleibt unberührt.
 
 
 ### Kapitel 3 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000500000)
 
 
 #### § 14 Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001400000)
 
 (1) Kann die Antragstellerin oder der Antragsteller die für die
 Feststellung oder Bewertung der Gleichwertigkeit erforderlichen
@@ -591,6 +610,7 @@ oder 9 erfolgt auf der Grundlage der Ergebnisse der in Absätzen 1 und
 
 
 #### § 14a Beschleunigtes Verfahren im Fall des § 81a des Aufenthaltsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE002001123)
 
 (1) Im Fall des § 81a des Aufenthaltsgesetzes erfolgt die Feststellung
 der Gleichwertigkeit nach den §§ 4 und 9 auf Antrag bei der dafür
@@ -640,6 +660,7 @@ Rechtsvorschrift bereits festgestellt ist.
 
 
 #### § 15 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001502123)
 
 (1) Die Antragstellerin oder der Antragsteller ist verpflichtet, alle
 für die Ermittlung der Gleichwertigkeit notwendigen Unterlagen
@@ -660,15 +681,18 @@ schriftlich oder elektronisch erfolgen.
 
 
 #### § 16 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001600000)
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNG000600000)
 
 
 ### § 17 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001704123)
 
 (1) Über die Verfahren zur Feststellung der Gleichwertigkeit nach
 diesem Gesetz und nach anderen berufsrechtlichen Gesetzen und
@@ -765,6 +789,7 @@ Berufsbildungsgesetzes entsprechend Anwendung.
 
 
 ### § 18 Evaluation und Bericht
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001800000)
 
 (1) Auf der Grundlage der Statistik nach § 17 überprüft die
 Bundesregierung nach Ablauf von vier Jahren nach Inkrafttreten dieses
@@ -775,6 +800,7 @@ berichten.
 
 
 ### § 19 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/bqfg/BJNR251510011.html#BJNR251510011BJNE001904128)
 
 Von folgenden Regelungen des Verwaltungsverfahrens darf durch
 Landesrecht nicht abgewichen werden: § 5 Absatz 1, 3 und 4, § 6 Absatz

@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 7141-6-1-6 v. 18.12.1981 I 1585 (FertigPackV 1981)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000200000)
 
 (1) Diese Verordnung gilt für Fertigpackungen gleicher und ungleicher
 Nennfüllmenge, Maßbehältnisse und andere Verkaufseinheiten. Sie regelt
@@ -56,6 +58,7 @@ gelten nicht für
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000300000)
 
 Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen
 anzuwenden:
@@ -127,6 +130,7 @@ Vorschriften nichts anderes bestimmt ist.
 
 
 ### § 3 Kennzeichnung der Nennfüllmenge
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000400000)
 
 (1) Wer Fertigpackungen oder andere Verkaufseinheiten herstellt, in
 den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den
@@ -149,9 +153,11 @@ etwas anderes bestimmt ist.
 
 
 ## Abschnitt 2 - Fertigpackungen gleicher Nennfüllmenge mit Kennzeichnung nach Gewicht oder Volumen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000200000)
 
 
 ### § 4 Allgemeine Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000500000)
 
 (1) Die Bestimmungen dieses Abschnitts gelten für nach Gewicht oder
 Volumen gekennzeichnete Fertigpackungen gleicher Nennfüllmenge für
@@ -201,6 +207,7 @@ ist anzufügen.
 
 
 ### § 5 Abtropfgewicht
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000600000)
 
 (1) Befindet sich ein festes Lebensmittel in einer Aufgussflüssigkeit,
 so ist auf der Fertigpackung neben der Nennfüllmenge auch das
@@ -252,6 +259,7 @@ ist.
 
 
 ### § 6 Besondere Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000700000)
 
 (1) Fertigpackungen mit Erzeugnissen in Aerosolform sind nach Volumen
 zu kennzeichnen, auch wenn für das Erzeugnis nach anderen Vorschriften
@@ -292,12 +300,14 @@ angegeben werden.
 
 
 ### § 7 Fertigpackungen mit Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000800000)
 
 Für Fertigpackungen mit Lebensmitteln sind die §§ 20, 21, 22 und 23
 entsprechend anzuwenden.
 
 
 ### § 8 Herstellerangabe
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE000900000)
 
 (1) Auf Fertigpackungen sind der Name oder die Firma und der Ort der
 gewerblichen Niederlassung des Herstellers der Fertigpackung, im Falle
@@ -333,6 +343,7 @@ Zeichen leicht zu ermitteln ist.
 
 
 ### § 9 Allgemeine Nennfüllmengenanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001000000)
 
 (1) Nach Gewicht oder Volumen gekennzeichnete Fertigpackungen dürfen
 nur so hergestellt werden, dass zum Zeitpunkt der Herstellung
@@ -509,6 +520,7 @@ Hundert angegeben sind, auf 0,1 Gramm oder 0,1 Milliliter aufzurunden.
 
 
 ### § 10 Besondere Nennfüllmengenanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001100000)
 
 (1) Mit dem Abtropfgewicht gekennzeichnete Fertigpackungen dürfen nur
 so hergestellt werden, dass der nach Anlage 3 Nummer 6 festgestellte
@@ -544,6 +556,7 @@ Füllmengenanforderungen.
 
 
 ### § 11 ℮-Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001200000)
 
 (1) Das Zeichen „℮“ in der in Anhang II Nummer 3 der Richtlinie
 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April
@@ -560,9 +573,11 @@ werden.
 
 
 ## Abschnitt 3 - EG-Düngemittel im Sinne der Verordnung (EG) Nr. 2003/2003
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000300000)
 
 
 ### § 12 Anforderungen an EG-Düngemittel
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001300000)
 
 (1) Die Anforderungen an Fertigpackungen mit EG-Düngemitteln richten
 sich nach Artikel 9 Absatz 1 Buchstabe a Spiegelstrich 9 bis 11
@@ -593,9 +608,11 @@ die §§ 11, 34 Absatz 5 und § 42 entsprechend anzuwenden.
 
 
 ## Abschnitt 4 - Kosmetische Mittel im Sinne der Verordnung (EG) Nr. 1223/2009
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000400000)
 
 
 ### § 13 Anforderungen an vorverpackte kosmetische Mittel
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001400000)
 
 (1) Die Anforderungen an Fertigpackungen mit kosmetischen Mitteln
 richten sich nach Artikel 19 Absatz 1 Buchstabe a und Buchstabe b
@@ -630,6 +647,7 @@ Verordnung (EG) Nr. 1223/2009 benannte Person.
 
 
 ### § 14 Anforderungen an kosmetische Mittel im Sinne des Artikels 19 Absatz 4 der Verordnung (EG) Nr. 1223/2009
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001500000)
 
 (1) Für Fertigpackungen mit kosmetischen Mitteln, die an den
 Verkaufsstellen auf Wunsch des Käufers verpackt werden oder im
@@ -664,9 +682,11 @@ Verordnung (EG) Nr. 1223/2009 benannte Person.
 
 
 ## Abschnitt 5 - Vorverpackte Lebensmittel und nicht vorverpackte Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000500000)
 
 
 ### § 15 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001600000)
 
 (1) Die Anforderungen an Fertigpackungen mit vorverpackten und nicht
 vorverpackten Lebensmitteln und an andere Verkaufseinheiten mit
@@ -691,6 +711,7 @@ vorrangig anzuwenden.
 
 
 ### § 16 Allgemeine Vorschriften für vorverpackte Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001700000)
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der
 Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass ein
@@ -703,6 +724,7 @@ Absatz 5 sowie die §§ 38, 40, 41 und 42 entsprechend.
 
 
 ### § 17 Obst und Gemüse ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001800000)
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der
 Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass offene
@@ -733,6 +755,7 @@ gekennzeichnet sind.
 
 
 ### § 18 Backwaren ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE001900000)
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der
 Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass Backwaren
@@ -768,6 +791,7 @@ Satz 2 kennzeichnen.
 
 
 ### § 19 Für den unmittelbaren Verkauf vorverpackte Lebensmittel im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002000000)
 
 (1) Für Fertigpackungen mit Lebensmitteln, die im Hinblick auf ihren
 unmittelbaren Verkauf vorverpackt werden, ist die Angabe nach Artikel
@@ -791,6 +815,7 @@ Maßgabe der §§ 20, 21 und 22 gekennzeichnet sind.
 
 
 ### § 20 Weitere Bestimmungen zur Füllmengenkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002100000)
 
 (1) Fertigpackungen mit flüssigen Lebensmitteln sind nach Volumen zu
 kennzeichnen, Fertigpackungen mit anderen Lebensmitteln nach Gewicht.
@@ -865,6 +890,7 @@ der Kennzeichnung von den Anforderungen der Absätze 1 bis 3 abweichen.
 
 
 ### § 21 Kennzeichnung der Stückzahl
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002200000)
 
 (1) Abweichend von § 20 Absatz 1 und 2 darf die verantwortliche Person
 im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 bei
@@ -893,6 +919,7 @@ anzugeben.
 
 
 ### § 22 Befreiung oder Erleichterung von der Füllmengenkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002300000)
 
 (1) Bei Fertigpackungen mit Erzeugnissen, die der allgemeinen
 Verkehrsauffassung entsprechend nach Stückzahl gehandelt werden oder
@@ -938,6 +965,7 @@ einzelnen Fertigpackungen anzugeben.
 
 
 ### § 23 Verbindliche Werte für die Nennfüllmengen bei Wein und Spirituosen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002400000)
 
 Vorverpackte Lebensmittel und für den unmittelbaren Verkauf
 vorverpackte Lebensmittel mit den in Anlage 1 Nummer 2 aufgeführten
@@ -948,9 +976,11 @@ Nummer 1 aufgeführten Werte entspricht.
 
 
 ## Abschnitt 6 - Nationale Vorschriften für Fertigpackungen gleicher Nennfüllmenge mit Kennzeichnung nach Stückzahl, Länge oder Fläche
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000600000)
 
 
 ### § 24 Allgemeine Vorschriften bei Kennzeichnung nach Stückzahl
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002500000)
 
 Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind,
 herstellt, in den Geltungsbereich des Mess- und Eichgesetzes
@@ -968,6 +998,7 @@ bereitstellt, muss sicherstellen, dass
 
 
 ### § 25 Besondere Vorschriften bei Kennzeichnung nach Stückzahl
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002600000)
 
 (1) Nach Stückzahl dürfen abweichend von § 4 Absatz 2 Nummer 1
 gekennzeichnet werden
@@ -998,6 +1029,7 @@ nur als einzelnes Stück oder Paar in den Verkehr gebracht wird.
 
 
 ### § 26 Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Stückzahl
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002700000)
 
 (1) Nach Stückzahl gekennzeichnete Fertigpackungen mit einer
 Nennfüllmenge von 30 Stück oder weniger dürfen nur hergestellt, in den
@@ -1022,6 +1054,7 @@ gebracht oder sonst auf dem Markt bereitgestellt werden, wenn
 
 
 ### § 27 Allgemeine Vorschriften bei Kennzeichnung nach Länge oder Fläche
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002800000)
 
 (1) Wer Fertigpackungen, die nach Länge oder Fläche zu kennzeichnen
 sind, herstellt, in den Geltungsbereich des Mess- und Eichgesetzes
@@ -1049,6 +1082,7 @@ anzufügen.
 
 
 ### § 28 Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Länge oder Fläche
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE002900000)
 
 (1) Nach Länge oder Fläche gekennzeichnete Fertigpackungen dürfen nur
 so hergestellt werden, dass der nach Anlage 4 Nummer 6 festgestellte
@@ -1087,9 +1121,11 @@ gelten die anerkannten Regeln der Technik.
 
 
 ## Abschnitt 7 - Andere Verkaufseinheiten und Fertigpackungen ungleicher Nennfüllmenge
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000700000)
 
 
 ### § 29 Offene Packungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003000000)
 
 (1) Die Vorschriften dieser Verordnung über Fertigpackungen sind auf
 offene Packungen, die in Abwesenheit des Käufers hergestellt werden,
@@ -1126,6 +1162,7 @@ von der Nennfüllmenge nicht überschreitet.
 
 
 ### § 30 Verkaufseinheiten ohne Umhüllung
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003100000)
 
 (1) Wer Verkaufseinheiten ohne Umhüllung gleichen Nenngewichts,
 gleicher Nennlänge oder gleicher Nennfläche herstellt, in den
@@ -1197,6 +1234,7 @@ verwenden.
 
 
 ### § 31 Anforderungen an Fertigpackungen ungleicher Nennfüllmenge
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003200000)
 
 Wer Fertigpackungen ungleicher Nennfüllmenge herstellt, in den
 Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr
@@ -1221,6 +1259,7 @@ bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass
 
 
 ### § 32 Minusabweichungen bei Fertigpackungen ungleicher Nennfüllmenge
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003300000)
 
 (1) Nach Gewicht gekennzeichnete Fertigpackungen ungleicher
 Nennfüllmenge dürfen nur in den Verkehr gebracht oder sonst auf dem
@@ -1266,9 +1305,11 @@ festgelegten Werte nicht überschreitet.
 
 
 ## Abschnitt 8 - Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder 5 Milliliter oder mehr als 10 Kilogramm oder mehr als 10 Liter
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000800000)
 
 
 ### § 33 Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder 5 Milliliter
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003400000)
 
 Fertigpackungen mit einer Füllmenge von weniger als 5 Gramm oder 5
 Milliliter dürfen ohne Nennfüllmengenangaben hergestellt, in den
@@ -1278,6 +1319,7 @@ eine Mengenkennzeichnung nach anderen Vorschriften anzubringen ist.
 
 
 ### § 34 Fertigpackungen mit Füllmengen von mehr als 10 Kilogramm oder mehr als 10 Liter
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003500000)
 
 (1) Die Vorschriften dieser Verordnung sind auf Fertigpackungen mit
 einer Füllmenge von mehr als 10 Kilogramm oder Liter nicht anzuwenden,
@@ -1475,9 +1517,11 @@ bestimmen.
 
 
 ## Abschnitt 9 - Maßbehältnisse
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG000900000)
 
 
 ### § 35 Angaben bei Maßbehältnis-Flaschen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003600000)
 
 (1) Maßbehältnis-Flaschen sind Behältnisse aus Glas oder anderen
 Werkstoffen mit einer Formsteifigkeit, die dieselben messtechnischen
@@ -1603,6 +1647,7 @@ aufbringen oder aufbringen lassen.
 
 
 ### § 36 Genauigkeitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003700000)
 
 (1) Genauigkeitsanforderungen umfassen bei Maßbehältnis-Flaschen
 
@@ -1694,6 +1739,7 @@ entsprechen.
 
 
 ### § 37 Herstellerzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003800000)
 
 (1) Hersteller von Maßbehältnis-Flaschen, deren Nennvolumen nicht
 weniger als 0,05 Liter und nicht mehr als 5 Liter beträgt, haben bei
@@ -1728,9 +1774,11 @@ erteilt worden ist.
 
 
 ## Abschnitt 10 - Formvorschriften, Kontroll- und Dokumentations- pflichten sowie Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG001000000)
 
 
 ### § 38 Lesbarkeit und Schriftgröße
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE003900000)
 
 (1) Wer eine Fertigpackung herstellt, in den Geltungsbereich des Mess-
 und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem
@@ -1822,6 +1870,7 @@ werden.
 
 
 ### § 39 Mehrere Packungen, Sammelpackungen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004000000)
 
 (1) Wer eine Fertigpackung aus mehreren, nicht zum Einzelverkauf
 bestimmten Packungen desselben Erzeugnisses herstellt, in den
@@ -1854,6 +1903,7 @@ Fertigpackung.
 
 
 ### § 40 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004100000)
 
 (1) Die Marktüberwachungsbehörden überprüfen anhand von Stichproben
 auf geeignete Weise und in dem erforderlichen Umfang die Einhaltung:
@@ -1903,6 +1953,7 @@ anzuwenden.
 
 
 ### § 41 Kontroll- und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004200000)
 
 (1) Wer Fertigpackungen gleicher Nennfüllmenge mit
 Gewichtskennzeichnung oder Volumenkennzeichnung herstellt, in den
@@ -1971,6 +2022,7 @@ Pflanzenhilfsmittel.
 
 
 ### § 42 Bezugstemperatur
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004300000)
 
 Die Nennfüllmengenanforderungen sind hinsichtlich des Volumens auf
 eine Temperatur von 20 °C bezogen. Satz 1 gilt nicht für tiefgekühlte
@@ -1979,9 +2031,11 @@ gekennzeichnet wird.
 
 
 ## Abschnitt 11 - Ordnungswidrigkeiten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNG001100000)
 
 
 ### § 43 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004400000)
 
 Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und
 Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2020,6 +2074,7 @@ Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 44 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004500000)
 
 (1) Sammelpackungen, die vor dem 1. November 2021 hergestellt wurden,
 dürfen abweichend von § 38 Absatz 4 in den Geltungsbereich des Mess-
@@ -2037,6 +2092,7 @@ entsprechen.
 (zu § 1 Absatz 2 Nummer 5, § 23, § 39 Absatz 4)
 
 ### Anlage 1 Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004600000)
 
 (Fundstelle: BGBl. I 2020, 2518 - 2519)
 
@@ -2172,6 +2228,7 @@ entsprechen.
 (zu § 2 Satz 1 Nummer 10)
 
 ### Anlage 2 Festlegung abweichender Herstellungszeitpunkte für Fertigpackungen und andere Verkaufseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004700000)
 
 (Fundstelle: BGBl. I 2020, 2520)
 
@@ -2275,6 +2332,7 @@ entsprechen.
 § 30 Absatz 3, § 34 Absatz 3, Absatz 4 sowie § 40 Absatz 2)
 
 ### Anlage 3 Verfahren zur Prüfung der Füllmenge nach Gewicht oder Volumen gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten durch die zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004800000)
 
 (Fundstelle: BGBl. I 2020, 2521 - 2523)
 
@@ -2862,6 +2920,7 @@ entsprechen.
 § 30 Absatz 3 sowie § 40 Absatz 2)
 
 ### Anlage 4 Verfahren zur Prüfung der Füllmenge nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung durch die zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE004900000)
 
 (Fundstelle: BGBl. I 2020, 2524 - 2526)
 
@@ -3138,6 +3197,7 @@ entsprechen.
 (zu § 40 Absatz 2)
 
 ### Anlage 5 Abweichende Prüfzeiträume für Fertigpackungen und andere Verkaufseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE005000000)
 
 (Fundstelle: BGBl. I 2020, 2526)
 
@@ -3222,6 +3282,7 @@ entsprechen.
 (zu § 40 Absatz 3)
 
 ### Anlage 6 Verfahren zur Prüfung von Maßbehältnis-Flaschen durch die zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE005100000)
 
 (Fundstelle: BGBl. I 2020, 2527)
 
@@ -3322,6 +3383,7 @@ Betrieb von den zuständigen Behörden kontrolliert worden ist.
 (zu § 34 Absatz 5 Satz 1, § 41 Absatz 3 Satz 2, § 44 Absatz 2)
 
 ### Anlage 7 Anforderungen an Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/fpackv/BJNR250410020.html#BJNR250410020BJNE005200000)
 
 (Fundstelle: BGBl. I 2020, 2528)
 

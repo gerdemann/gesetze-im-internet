@@ -51,6 +51,7 @@ Rates vom 25. Oktober 2012 (ABl. L 316 vom 14.11.2012, S. 12).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000100000)
 
 Auf Grund des § 23 Absatz 1 Nummer 5 bis 8, 10 und 11 und Absatz 2 in
 Verbindung mit § 62 Absatz 4 und § 63 Absatz 2 Satz 2 des
@@ -63,9 +64,11 @@ beteiligten Kreise:
 
 
 ## Kapitel 1 - Zweck; Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000100000)
 
 
 ### § 1 Zweck; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000300000)
 
 (1) Diese Verordnung dient dem Schutz der Gewässer vor nachteiligen
 Veränderungen ihrer Eigenschaften durch Freisetzungen von
@@ -104,6 +107,7 @@ zuständige Behörde fest, ob die Voraussetzung nach Satz 1 erfüllt ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000400000)
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Absätze 2
 bis 33.
@@ -402,12 +406,15 @@ sind, Anlagen zu prüfen und zu begutachten.
 
 
 ## Kapitel 2 - Einstufung von Stoffen und Gemischen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000200000)
 
 
 ### Abschnitt 1 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000300000)
 
 
 #### § 3 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000500000)
 
 (1) Nach Maßgabe der Bestimmungen dieses Kapitels werden Stoffe und
 Gemische, mit denen in Anlagen umgegangen wird, entsprechend ihrer
@@ -506,9 +513,11 @@ Absatz 3 fallen.
 
 
 ### Abschnitt 2 - Einstufung von Stoffen und Dokumentation; Entscheidung über die Einstufung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000400000)
 
 
 #### § 4 Selbsteinstufung von Stoffen; Ausnahmen; Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000600000)
 
 (1) Beabsichtigt ein Betreiber, in einer Anlage mit einem Stoff
 umzugehen, hat er diesen nach Maßgabe der Kriterien von Anlage 1 als
@@ -553,6 +562,7 @@ erforderlichen Unterlagen beizufügen.
 
 
 #### § 5 Kontrolle und Überprüfung der Dokumentation; Stoffgruppen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000700000)
 
 (1) Das Umweltbundesamt kontrolliert die Dokumentationen zur
 Selbsteinstufung von Stoffen auf ihre Vollständigkeit und
@@ -572,6 +582,7 @@ die Stoffgruppen einstufen.
 
 
 #### § 6 Entscheidung über die Einstufung; Veröffentlichung im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000800000)
 
 (1) Das Umweltbundesamt entscheidet auf Grund der Ergebnisse der
 Kontrollen und Überprüfungen nach § 5 Absatz 1 und 2 über die
@@ -605,6 +616,7 @@ werden können.
 
 
 #### § 7 Änderung bestehender Einstufungen; Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE000900000)
 
 (1) Liegen dem Umweltbundesamt Erkenntnisse vor, die die Änderung
 einer Einstufung nach § 6 Absatz 1 oder Absatz 2 notwendig machen
@@ -618,9 +630,11 @@ Umweltbundesamt mitteilen.
 
 
 ### Abschnitt 3 - Einstufung von Gemischen und Dokumentation; Überprüfung der Einstufung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000500000)
 
 
 #### § 8 Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001000000)
 
 (1) Beabsichtigt ein Betreiber, in einer Anlage mit einem flüssigen
 oder gasförmigen Gemisch umzugehen, hat er dieses nach Maßgabe der
@@ -670,6 +684,7 @@ dokumentiert die Nachvollziehbarkeit der Einstufung.
 
 
 #### § 9 Überprüfung der Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Änderung der Selbsteinstufung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001100000)
 
 (1) Die zuständige Behörde kann die Dokumentation nach § 8 Absatz 3
 überprüfen. Die zuständige Behörde kann den Betreiber verpflichten,
@@ -684,6 +699,7 @@ Gemischen betreffen.
 
 
 #### § 10 Einstufung fester Gemische
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001201119)
 
 (1) Der Betreiber kann ein festes Gemisch abweichend von § 3 Absatz 2
 Satz 1 Nummer 8 als nicht wassergefährdend einstufen, wenn
@@ -732,6 +748,7 @@ Betreiber schriftlich bekannt zu geben.
 
 
 #### § 11 Einstufung von Gemischen durch das Umweltbundesamt
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001300000)
 
 Das Umweltbundesamt kann Gemische nach Maßgabe von Anlage 1 als nicht
 wassergefährdend oder in eine Wassergefährdungsklasse einstufen. § 6
@@ -739,9 +756,11 @@ Absatz 4 gilt entsprechend.
 
 
 ### Abschnitt 4 - Kommission zur Bewertung wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000600000)
 
 
 #### § 12 Kommission zur Bewertung wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001401119)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird als Beirat eine Kommission zur Bewertung
@@ -771,12 +790,15 @@ Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ## Kapitel 3 - Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000700000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000800000)
 
 
 #### § 13 Einschränkungen des Geltungsbereichs dieses Kapitels
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001500000)
 
 (1) Dieses Kapitel gilt für Anlagen, in denen mit aufschwimmenden
 flüssigen Stoffen gemäß § 3 Absatz 2 Satz 1 Nummer 7 umgegangen wird,
@@ -829,6 +851,7 @@ flüssigen Stoffen und nicht wassergefährdenden Stoffen.
 
 
 #### § 14 Bestimmung und Abgrenzung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001600000)
 
 (1) Der Betreiber einer Anlage hat zu dokumentieren, welche
 Anlagenteile zu der Anlage gehören und wo die Schnittstellen zu
@@ -876,6 +899,7 @@ Zusammenhang steht.
 
 
 #### § 15 Technische Regeln
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001700000)
 
 (1) Den allgemein anerkannten Regeln der Technik nach § 62 Absatz 2
 des Wasserhaushaltsgesetzes entsprechende Regeln (technische Regeln)
@@ -906,6 +930,7 @@ wird.
 
 
 #### § 16 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001800000)
 
 (1) Ist auf Grund der besonderen Umstände des Einzelfalls,
 insbesondere auf Grund der hydrogeologischen Beschaffenheit und der
@@ -940,9 +965,11 @@ Anforderungen dieses Kapitels zulassen, wenn die Anforderungen des §
 
 
 ### Abschnitt 2 - Allgemeine Anforderungen an Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG000900000)
 
 
 #### § 17 Grundsatzanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE001900000)
 
 (1) Anlagen müssen so geplant und errichtet werden, beschaffen sein
 und betrieben werden, dass
@@ -985,6 +1012,7 @@ hat die Anlage gegen missbräuchliche Nutzung zu sichern.
 
 
 #### § 18 Anforderungen an die Rückhaltung wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002000000)
 
 (1) Anlagen müssen ausgetretene wassergefährdende Stoffe auf geeignete
 Weise zurückhalten. Dazu sind sie mit einer Rückhalteeinrichtung im
@@ -1065,6 +1093,7 @@ beeinträchtigt wird, müssen getrennt aufgefangen werden.
 
 
 #### § 19 Anforderungen an die Entwässerung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002100000)
 
 (1) Bei unvermeidlichem Zutritt von Niederschlagswasser sind
 abweichend von § 18 Absatz 2 Abläufe zulässig, wenn sie nur nach
@@ -1136,6 +1165,7 @@ Rückhaltevolumen für Niederschlagswasser haben.
 
 
 #### § 20 Rückhaltung bei Brandereignissen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002200000)
 
 Anlagen müssen so geplant, errichtet und betrieben werden, dass die
 bei Brandereignissen austretenden wassergefährdenden Stoffe, Lösch-,
@@ -1147,6 +1177,7 @@ erwarten ist, und für Heizölverbraucheranlagen.
 
 
 #### § 21 Besondere Anforderungen an die Rückhaltung bei Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002300000)
 
 (1) Oberirdische Rohrleitungen zum Befördern flüssiger
 wassergefährdender Stoffe sind mit Rückhalteeinrichtungen auszurüsten.
@@ -1208,6 +1239,7 @@ Anforderungen bezüglich der Rückhaltung erfüllen.
 
 
 #### § 22 Anforderungen bei der Nutzung von Abwasseranlagen als Auffangvorrichtung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002400000)
 
 (1) Wassergefährdende Stoffe, deren Austreten aus einer Anlage im
 bestimmungsgemäßen Betrieb unvermeidbar ist und die aus
@@ -1253,6 +1285,7 @@ nach § 46 einzubeziehen, wenn die zugehörige Anlage prüfpflichtig ist.
 
 
 #### § 23 Anforderungen an das Befüllen und Entleeren
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002500000)
 
 (1) Wer eine Anlage befüllt oder entleert, hat diesen Vorgang zu
 überwachen und sich vor Beginn der Arbeiten von dem ordnungsgemäßen
@@ -1285,6 +1318,7 @@ befüllt werden.
 
 
 #### § 24 Pflichten bei Betriebsstörungen; Instandsetzung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002600000)
 
 (1) Kann bei einer Betriebsstörung nicht ausgeschlossen werden, dass
 wassergefährdende Stoffe aus Anlagenteilen austreten, hat der
@@ -1314,9 +1348,11 @@ Instandsetzungskonzept zu erarbeiten.
 
 
 ### Abschnitt 3 - Besondere Anforderungen an die Rückhaltung bei bestimmten Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG001000000)
 
 
 #### § 25 Vorrang der Regelungen des Abschnitts 3
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002700000)
 
 Soweit dieser Abschnitt für bestimmte Anlagen besondere Anforderungen
 an die Rückhaltung wassergefährdender Stoffe vorsieht oder nach diesem
@@ -1326,6 +1362,7 @@ nach § 18 Absatz 1 bis 3 vor.
 
 
 #### § 26 Besondere Anforderungen an Anlagen zum Lagern, Abfüllen, Herstellen, Behandeln oder Verwenden fester wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002800000)
 
 (1) Anlagen zum Lagern, Abfüllen, Herstellen, Behandeln oder Verwenden
 fester wassergefährdender Stoffe bedürfen keiner Rückhaltung, wenn
@@ -1377,6 +1414,7 @@ Rückhaltung, wenn
 
 
 #### § 27 Besondere Anforderungen an Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefährdende Stoffe anhaften
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE002900000)
 
 Bei Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige
 wassergefährdende Stoffe anhaften, ist abweichend von § 18 Absatz 3
@@ -1387,6 +1425,7 @@ Anlagenvolumens anzusetzen.
 
 
 #### § 28 Besondere Anforderungen an Umschlagflächen für wassergefährdende Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003000000)
 
 (1) Die Umschlagflächen von Umschlaganlagen für flüssige
 wassergefährdende Stoffe müssen flüssigkeitsundurchlässig sein. Das
@@ -1402,6 +1441,7 @@ Anforderungen gestellt.
 
 
 #### § 29 Besondere Anforderungen an Umschlaganlagen des intermodalen Verkehrs
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003100000)
 
 (1) Flächen von Umschlaganlagen des intermodalen Verkehrs sind
 diejenigen, auf denen wassergefährdende Stoffe in Ladeeinheiten oder
@@ -1425,6 +1465,7 @@ ordnungsgemäß als Abfall zu entsorgen.
 
 
 #### § 30 Besondere Anforderungen an Anlagen zum Laden und Löschen von Schiffen sowie an Anlagen zur Betankung von Wasserfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003200000)
 
 (1) Anlagen zum Laden und Löschen von Schiffen mit wassergefährdenden
 Stoffen sowie Anlagen zur Betankung von Wasserfahrzeugen bedürfen
@@ -1461,6 +1502,7 @@ geeignete Maßnahmen verhindert wird.
 
 
 #### § 31 Besondere Anforderungen an Fass- und Gebindelager
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003300000)
 
 (1) Bei Fass- und Gebindelagern müssen die wassergefährdenden Stoffe
 in dicht verschlossenen Behältern oder Verpackungen gelagert werden,
@@ -1516,6 +1558,7 @@ mit einfachen betrieblichen Mitteln gefahrlos möglich ist.
 
 
 #### § 32 Besondere Anforderungen an Abfüllflächen von Heizölverbraucheranlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003400000)
 
 Abfüllflächen von Heizölverbraucheranlagen bedürfen keiner
 Rückhaltung, wenn die Heizölverbraucheranlage aus hierfür zugelassenen
@@ -1528,6 +1571,7 @@ Zapfventils befüllt werden.
 
 
 #### § 33 Besondere Anforderungen an Abfüllflächen von bestimmten Anlagen zum Verwenden flüssiger wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003500000)
 
 Abfüllflächen als Teile von Anlagen zum Verwenden flüssiger
 wassergefährdender Stoffe, bei denen auf Grund des Einsatzzweckes
@@ -1538,6 +1582,7 @@ Transformatoren.
 
 
 #### § 34 Besondere Anforderungen an Anlagen zum Verwenden wassergefährdender Stoffe im Bereich der Energieversorgung und in Einrichtungen des Wasserbaus
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003600000)
 
 (1) Oberirdische Anlagen zum Verwenden flüssiger wassergefährdender
 Stoffe der Wassergefährdungsklasse 1 oder Wassergefährdungsklasse 2
@@ -1565,6 +1610,7 @@ mit automatischen Störmeldeeinrichtungen auszurüsten.
 
 
 #### § 35 Besondere Anforderungen an Erdwärmesonden und -kollektoren, Solarkollektoren und Kälteanlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003700000)
 
 (1) Für Erdwärmesonden und -kollektoren, Solarkollektoren und
 Kälteanlagen, in denen wassergefährdende Stoffe im Bereich der
@@ -1631,6 +1677,7 @@ Wassergefährdungsklasse 1 bedürfen keiner Rückhaltung.
 
 
 #### § 36 Besondere Anforderungen an unterirdische Ölkabel- und Massekabelanlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003800000)
 
 Bei unterirdischen Massekabelanlagen sind Einrichtungen zur
 Rückhaltung von Kabeltränkmasse nicht erforderlich. Bei unterirdischen
@@ -1643,6 +1690,7 @@ Sollwerten kontrolliert werden.
 
 
 #### § 37 Besondere Anforderungen an Biogasanlagen mit Gärsubstraten landwirtschaftlicher Herkunft
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE003900000)
 
 (1) Abweichend von § 18 Absatz 1 bis 3 ist die Rückhaltung
 wassergefährdender Stoffe in Biogasanlagen, in denen ausschließlich
@@ -1680,6 +1728,7 @@ Biogasanlagen nicht zulässig.
 
 
 #### § 38 Besondere Anforderungen an oberirdische Anlagen zum Umgang mit gasförmigen wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004000000)
 
 (1) Oberirdische Anlagen zum Umgang mit gasförmigen wassergefährdenden
 Stoffen bedürfen keiner Rückhaltung.
@@ -1708,9 +1757,11 @@ Schadenbeseitigung mit einfachen betrieblichen Mitteln möglich ist.
 
 
 ### Abschnitt 4 - Anforderungen an Anlagen in Abhängigkeit von ihren Gefährdungsstufen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG001100000)
 
 
 #### § 39 Gefährdungsstufen von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004100000)
 
 (1) Betreiber haben Anlagen nach Maßgabe der nachstehenden Tabelle
 einer Gefährdungsstufe zuzuordnen. Bei flüssigen Stoffen ist das für
@@ -1861,6 +1912,7 @@ maßgebend.
 
 
 #### § 40 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004200000)
 
 (1) Wer eine nach § 46 Absatz 2 oder Absatz 3 prüfpflichtige Anlage
 errichten oder wesentlich ändern will oder an dieser Anlage Maßnahmen
@@ -1898,6 +1950,7 @@ gilt nicht für Betreiber von Heizölverbraucheranlagen.
 
 
 #### § 41 Ausnahmen vom Erfordernis der Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004300000)
 
 (1) Die Eignungsfeststellung nach § 63 Absatz 1 des
 Wasserhaushaltsgesetzes ist über die in § 63 Absatz 2 und 3 des
@@ -1972,6 +2025,7 @@ einer Eignungsfeststellung absehen, wenn die Anforderungen nach Absatz
 
 
 #### § 42 Antragsunterlagen für die Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004400000)
 
 Dem Antrag auf Erteilung einer Eignungsfeststellung sind die zum
 Nachweis der Eignung erforderlichen Unterlagen beizufügen. Auf
@@ -1987,6 +2041,7 @@ entsprechend.
 
 
 #### § 43 Anlagendokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004500000)
 
 (1) Der Betreiber hat eine Anlagendokumentation zu führen, in der die
 wesentlichen Informationen über die Anlage enthalten sind. Hierzu
@@ -2036,6 +2091,7 @@ der Anlagendokumentation vergleichbare Angaben enthalten sind in
 
 
 #### § 44 Betriebsanweisung; Merkblatt
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004600000)
 
 (1) Der Betreiber hat eine Betriebsanweisung vorzuhalten, die einen
 Überwachungs-, Instandhaltungs- und Notfallplan enthält und
@@ -2089,6 +2145,7 @@ bei Betriebsstörungen eine Alarmierung erfolgen kann.
 
 
 #### § 45 Fachbetriebspflicht; Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004700000)
 
 (1) Folgende Anlagen einschließlich der zu ihnen gehörenden
 Anlagenteile dürfen nur von Fachbetrieben nach § 62 errichtet, von
@@ -2126,6 +2183,7 @@ Anlagensicherheit haben, nicht von Fachbetrieben ausgeführt werden.
 
 
 #### § 46 Überwachungs- und Prüfpflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004800000)
 
 (1) Der Betreiber hat die Dichtheit der Anlage und die
 Funktionsfähigkeit der Sicherheitseinrichtungen regelmäßig zu
@@ -2165,6 +2223,7 @@ bleiben unberührt.
 
 
 #### § 47 Prüfung durch Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE004900000)
 
 (1) Prüfungen nach § 46 Absatz 2 bis 5 dürfen nur von Sachverständigen
 durchgeführt werden.
@@ -2259,6 +2318,7 @@ bereits aushängt.
 
 
 #### § 48 Beseitigung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005000000)
 
 (1) Werden bei Prüfungen nach § 46 durch einen Sachverständigen
 geringfügige Mängel festgestellt, hat der Betreiber diese Mängel
@@ -2276,9 +2336,11 @@ wenn der zuständigen Behörde eine Bestätigung des Sachverständigen
 
 
 ### Abschnitt 5 - Anforderungen an Anlagen in Schutzgebieten und Überschwemmungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG001200000)
 
 
 #### § 49 Anforderungen an Anlagen in Schutzgebieten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005100000)
 
 (1) Im Fassungsbereich und in der engeren Zone von Schutzgebieten
 dürfen keine Anlagen errichtet und betrieben werden.
@@ -2348,6 +2410,7 @@ Regelungen treffen.
 
 
 #### § 50 Anforderungen an Anlagen in festgesetzten und vorläufig gesicherten Überschwemmungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005200000)
 
 (1) Anlagen dürfen in festgesetzten und vorläufig gesicherten
 Überschwemmungsgebieten im Sinne des § 76 des Wasserhaushaltsgesetzes
@@ -2366,6 +2429,7 @@ unberührt.
 
 
 #### § 51 Abstand zu Trinkwasserbrunnen, Quellen und oberirdischen Gewässern
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005300000)
 
 Der Abstand von JGS-Anlagen und Biogasanlagen, in denen ausschließlich
 Gärsubstrate nach § 2 Absatz 8 eingesetzt werden, zu privat oder
@@ -2378,9 +2442,11 @@ gewährleistet ist.
 
 
 ## Kapitel 4 - Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG001300000)
 
 
 ### § 52 Anerkennung von Sachverständigenorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005400000)
 
 (1) Sachverständigenorganisationen bedürfen der Anerkennung durch die
 zuständige Behörde. Anerkannte Sachverständigenorganisationen sind
@@ -2494,6 +2560,7 @@ nicht weisungsgebunden sind. Absatz 3 bleibt unberührt.
 
 
 ### § 53 Bestellung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005500000)
 
 (1) Eine Sachverständigenorganisation darf nur solche Personen als
 Sachverständige bestellen, die
@@ -2636,6 +2703,7 @@ Bestellungsschreiben auszuhändigen.
 
 
 ### § 54 Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005600000)
 
 (1) Die Anerkennung der Sachverständigenorganisation kann unbeschadet
 des § 49 Absatz 2 Satz 1 Nummer 2 bis 5 des
@@ -2691,6 +2759,7 @@ Bestellungsschreiben nach § 53 Absatz 7 zurückzugeben.
 
 
 ### § 55 Pflichten der Sachverständigenorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005700000)
 
 Die Sachverständigenorganisation ist verpflichtet,
 
@@ -2771,6 +2840,7 @@ Die Sachverständigenorganisation ist verpflichtet,
 
 
 ### § 56 Pflichten der bestellten Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005800000)
 
 (1) Jeder Sachverständige ist verpflichtet, ein Prüftagebuch zu
 führen, aus dem sich mindestens Art, Umfang und Ergebnisse aller
@@ -2783,6 +2853,7 @@ offenbaren oder verwerten.
 
 
 ### § 57 Anerkennung von Güte- und Überwachungsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE005900000)
 
 (1) Güte- und Überwachungsgemeinschaften bedürfen der Anerkennung
 durch die zuständige Behörde. Anerkannte Güte- und
@@ -2848,6 +2919,7 @@ werden.
 
 
 ### § 58 Bestellung von Fachprüfern
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006000000)
 
 (1) Eine Güte- und Überwachungsgemeinschaft darf für die
 Zertifizierung und Überwachung von Fachbetrieben nur solche Personen
@@ -2922,6 +2994,7 @@ sichergestellt ist, dass diese Personen
 
 
 ### § 59 Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Fachprüfern
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006100000)
 
 (1) Die Anerkennung der Güte- und Überwachungsgemeinschaft kann
 unbeschadet des § 49 Absatz 2 Satz 1 Nummer 2 bis 5 des
@@ -2971,6 +3044,7 @@ nach § 58 Absatz 3 zurückzugeben.
 
 
 ### § 60 Pflichten von Güte- und Überwachungsgemeinschaften und Fachprüfern
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006200000)
 
 (1) Die Güte- und Überwachungsgemeinschaft ist verpflichtet,
 
@@ -3037,6 +3111,7 @@ verwerten.
 
 
 ### § 61 Gemeinsame Pflichten der Sachverständigenorganisationen und der Güte- und Überwachungsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006300000)
 
 (1) Sachverständigenorganisationen, die berechtigt sind, Fachbetriebe
 zu zertifizieren und zu überwachen, sowie Güte- und
@@ -3100,6 +3175,7 @@ Zertifizierung unverzüglich zu entziehen, wenn dieser
 
 
 ### § 62 Fachbetriebe; Zertifizierung von Fachbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006400000)
 
 (1) Betriebe, die die in § 45 Absatz 1 genannten Tätigkeiten an den
 dort genannten Anlagen und Anlagenteilen ausführen, bedürfen der
@@ -3198,6 +3274,7 @@ sind, sofern der Betrieb in dem anderen Staat einer gleichwertigen
 
 
 ### § 63 Pflichten der Fachbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006500000)
 
 (1) Der Fachbetrieb hat sicherzustellen, dass die betrieblich
 verantwortliche Person mindestens alle zwei Jahre sowie das
@@ -3216,6 +3293,7 @@ weiter verwendet werden.
 
 
 ### § 64 Nachweis der Fachbetriebseigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006600000)
 
 Fachbetriebe haben die Fachbetriebseigenschaft unaufgefordert
 gegenüber dem Betreiber einer Anlage nachzuweisen, wenn dieser den
@@ -3231,9 +3309,11 @@ und 3 gilt entsprechend.
 
 
 ## Kapitel 5 - Ordnungswidrigkeiten; Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNG001400000)
 
 
 ### § 65 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006700000)
 
 Ordnungswidrig im Sinne des § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe a
 des Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3386,6 +3466,7 @@ des Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 66 Bestehende Einstufungen von Stoffen und Gemischen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006800000)
 
 Stoffe, Stoffgruppen und Gemische, die am 1. August 2017 bereits durch
 die oder auf Grund der Verwaltungsvorschrift wassergefährdende Stoffe
@@ -3400,6 +3481,7 @@ Stoffgruppen und Gemische nach Satz 1 ermittelt werden können.
 
 
 ### § 67 Änderung der Einstufung wassergefährdender Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE006900000)
 
 Führt die Änderung der Einstufung eines wassergefährdenden Stoffes zur
 Erhöhung der Gefährdungsstufe einer Anlage, sind die hieraus folgenden
@@ -3409,6 +3491,7 @@ zuständige Behörde dies anordnet. Satz 1 gilt auch für Anlagen, die am
 
 
 ### § 68 Bestehende wiederkehrend prüfpflichtige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007000000)
 
 (1) Für bestehende Anlagen, die einer wiederkehrenden Prüfpflicht nach
 § 46 Absatz 2 bis 4 unterliegen, gelten ab dem 1. August 2017:
@@ -3503,6 +3586,7 @@ verwirklichen.
 
 
 ### § 69 Bestehende nicht wiederkehrend prüfpflichtige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007100000)
 
 (1) Für bestehende Anlagen, die keiner wiederkehrenden Prüfpflicht
 nach § 46 Absatz 2 bis 4 unterliegen, sind die am 31. Juli 2017
@@ -3518,6 +3602,7 @@ August 2017.
 
 
 ### § 70 Prüffristen für bestehende Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007200000)
 
 (1) Die Frist für die erste wiederkehrende Prüfung von Anlagen nach
 Spalte 3 der Anlage 5 oder der Anlage 6 beginnt bei Anlagen, die am 1.
@@ -3556,6 +3641,7 @@ Fristen erstmals zu prüfen:
 
 
 ### § 71 Einbau von Leichtflüssigkeitsabscheidern
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007300000)
 
 Leichtflüssigkeitsabscheider für Kraftstoffe mit Zumischung von
 Ethanol dürfen nur eingebaut werden, wenn der Nachweis erbracht worden
@@ -3564,6 +3650,7 @@ Funktionsfähigkeit nur unerheblich verringert wird.
 
 
 ### § 72 Übergangsbestimmung für Fachbetriebe, Sachverständigenorganisationen und bestellte Personen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007400000)
 
 (1) Ein Betrieb, der am 21. April 2017 berechtigt war, Gütezeichen
 einer baurechtlich anerkannten Überwachungs- oder Gütegemeinschaft zu
@@ -3598,6 +3685,7 @@ sind.
 
 
 ### § 73 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007500000)
 
 Die §§ 57 bis 60 treten am Tag nach der Verkündung in Kraft. Im
 Übrigen tritt diese Verordnung am 1. August 2017 in Kraft. Zu dem in
@@ -3607,12 +3695,14 @@ Umgang mit wassergefährdenden Stoffen vom 31. März 2010 (BGBl. I S.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 4 Absatz 1, § 8 Absatz 1 und § 10 Absatz 2)
 
 ### Anlage 1 Einstufung von Stoffen und Gemischen als nicht wassergefährdend und in Wassergefährdungsklassen (WGK); Bestimmung aufschwimmender flüssiger Stoffe als allgemein wassergefährdend
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007700000)
 
 (Fundstelle: BGBl. I 2017, 933 - 940)
 
@@ -5083,6 +5173,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 4 Absatz 3, § 8 Absatz 3 und § 10 Absatz 3)
 
 ### Anlage 2 Dokumentation der Selbsteinstufung von Stoffen und Gemischen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007800000)
 
 (Fundstelle: BGBl. I 2017, 943 - 948)
 
@@ -5215,6 +5306,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 44 Absatz 4 Satz 2)
 
 ### Anlage 3 Merkblatt zu Betriebs- und Verhaltensvorschriften beim Betrieb von Heizölverbraucheranlagen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE007900000)
 
 (Fundstelle: BGBl. I 2017, 949)
 
@@ -5319,6 +5411,7 @@ Gewässer gelangt sind oder gelangen können (§ 24 Absatz 2 AwSV):
 (zu § 44 Absatz 4 Satz 2 und 3)
 
 ### Anlage 4 Merkblatt zu Betriebs- und Verhaltensvorschriften beim Umgang mit wassergefährdenden Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE008000000)
 
 (Fundstelle: BGBl. I 2017, 950)
 
@@ -5418,6 +5511,7 @@ gelangen können (§ 24 Absatz 2 AwSV):
 (zu § 46 Absatz 2)
 
 ### Anlage 5 Prüfzeitpunkte und -intervalle für Anlagen außerhalb von Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE008100000)
 
 (Fundstelle: BGBl. I 2017, 951)
 
@@ -5581,6 +5675,7 @@ gelangen können (§ 24 Absatz 2 AwSV):
 (zu § 46 Absatz 3)
 
 ### Anlage 6 Prüfzeitpunkte und -intervalle für Anlagen in Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE008200000)
 
 (Fundstelle: BGBl. I 2017, 952)
 
@@ -5746,6 +5841,7 @@ gelangen können (§ 24 Absatz 2 AwSV):
 (zu § 13 Absatz 3, § 52 Absatz 1 Satz 2 Nummer 1 Buchstabe a)
 
 ### Anlage 7 Anforderungen an Jauche-, Gülle- und Silagesickersaftanlagen (JGS-Anlagen)
+[Direktlink](https://www.gesetze-im-internet.de/awsv/BJNR090500017.html#BJNR090500017BJNE008300000)
 
 (Fundstelle: BGBl. I 2017, 953 - 955)
 

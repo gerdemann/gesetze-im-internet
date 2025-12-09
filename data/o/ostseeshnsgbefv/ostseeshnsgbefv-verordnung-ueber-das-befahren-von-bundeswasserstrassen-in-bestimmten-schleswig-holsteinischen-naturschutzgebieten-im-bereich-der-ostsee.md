@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000100000)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
@@ -29,6 +30,7 @@ und Reaktorsicherheit:
 
 
 ## § 1 Befahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000200000)
 
 (1) Im Bereich des Naturschutzgebietes „Dassower See, Inseln Buchhorst
 und Graswerder (Plönswerder)“ ist es untersagt, die in Lageplan 1
@@ -85,6 +87,7 @@ veröffentlicht.
 
 
 ## § 2 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000300000)
 
 (1) Die Verbote des § 1 gelten nicht für notwendige Dienst- oder
 Forschungsfahrten im Auftrag oder mit Wasserfahrzeugen des Bundes oder
@@ -140,6 +143,7 @@ Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000400000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -147,6 +151,7 @@ entgegen § 1 einen der dort bezeichneten Bereiche befährt.
 
 
 ## § 4 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über das Befahren der
@@ -157,6 +162,7 @@ I S. 1257) geändert worden ist, außer Kraft.
 
 
 ## Anlage (zu § 1 Absatz 11)
+[Direktlink](https://www.gesetze-im-internet.de/ostseeshnsgbefv/BJNR218000016.html#BJNR218000016BJNE000600000)
 
 (Fundstelle: BGBl. I 2016, 2182 - 2191)
 

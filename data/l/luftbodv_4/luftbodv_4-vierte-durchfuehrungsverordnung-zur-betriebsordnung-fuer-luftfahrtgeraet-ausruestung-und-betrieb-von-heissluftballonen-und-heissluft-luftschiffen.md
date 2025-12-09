@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE000500310)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1 und Abs. 3 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
@@ -31,10 +32,12 @@ Verbindung mit § 56 der Betriebsordnung für Luftfahrtgerät vom 4. März
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNG000100310)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE000701308)
 
 Diese Verordnung gilt für die Ausrüstung und den Betrieb der nach den
 Vorschriften der Luftverkehrs-Zulassungs-Ordnung zum Verkehr
@@ -42,6 +45,7 @@ zugelassenen Heißluftballone und Heißluft-Luftschiffe.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002500308)
 
 (1) Heißluftballone und Heißluft-Luftschiffe werden nachstehend als
 Ballone und als Luftschiffe bezeichnet.
@@ -55,10 +59,12 @@ horizontaler Abstand von 500 Meter angesehen.
 
 
 ## 2. Abschnitt - Allgemeine Betriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNG000200310)
 
 
 
 ### § 2 Herbeiführen simulierter Gefahrenzustände (zu § 3 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE000801308)
 
 Simulierte Gefahrenzustände, das heißt jedes absichtliche Abweichen
 vom Normalbetrieb eines Ballons oder Luftschiffs, dürfen nur dann
@@ -68,6 +74,7 @@ befinden.
 
 
 ### § 3 Betriebsstoffreserve (zu § 3 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE000901308)
 
 Ballone und Luftschiffe müssen eine ausreichende Betriebsstoffmenge
 mitführen, die so bemessen ist, dass unter Berücksichtigung von
@@ -82,6 +89,7 @@ Nähe zum Start- und Landeplatz durchgeführt wird.
 
 
 ### § 4 Ergänzungsausrüstung (zu § 19 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001001308)
 
 Die betriebliche Ergänzungsausrüstung muß mindestens bestehen aus:
 
@@ -138,6 +146,7 @@ Insassen ist
 
 
 ### § 5 Körbe und Luftschiffgondeln (zu § 19 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001101308)
 
 (1) Bei Ballonen für mehr als 6 Insassen müssen die Körbe mit
 Trennwänden versehen sein, die diese in einzelne Abteile für jeweils 6
@@ -157,6 +166,7 @@ Vierpunkt-Anschnallgurten gesichert werden sein.
 
 
 ### § 6 Sauerstoffausrüstung (zu § 21 Abs. 2 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001201308)
 
 Neben der gemäß § 21 Abs. 2 der Betriebsordnung für Luftfahrtgerät
 erforderlichen Sauerstoffanlage und den Atemgeräten für die Fluggäste
@@ -166,6 +176,7 @@ Insassen gewährleistet.
 
 
 ### § 6a Wägung (zu § 10 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002600308)
 
 Die Wägung eines Ballons oder Luftschiffs ist durchzuführen
 
@@ -191,10 +202,12 @@ entfallen.
 
 
 ## 3. Abschnitt - Betrieb in Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNG000301308)
 
 
 
 ### § 7 Verwendungszweck (zu § 23 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001301308)
 
 Ballone und Luftschiffe, die für die gewerbliche Beförderung von
 Personen eingesetzt werden, müssen in der Kategorie
@@ -202,6 +215,7 @@ Personen eingesetzt werden, müssen in der Kategorie
 
 
 ### § 8 Betriebsbeschränkungen (zu § 3 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001401308)
 
 (1) Ballone und Luftschiffe dürfen nur unter Sichtwetterbedingungen
 und mit Ausnahme der ersten 60 Minuten nach dem Start nur am Tag
@@ -216,11 +230,13 @@ den Nachtflug zugelassen sind.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001501308)
 
 (weggefallen)
 
 
 ### § 10 Ballonkörbe und Luftschiffgondeln (zu § 19 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001601308)
 
 (1) Die Ballonkorbinnenhöhe muß an der niedrigsten Stelle mindestens
 1,10 m betragen.
@@ -245,11 +261,13 @@ durch die Passagiere geschützt sind.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001701308)
 
 (weggefallen)
 
 
 ### § 12 Ausrüstung am Startplatz (zu § 24 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001800310)
 
 Am Startplatz müssen ein Windmeßgerät und ein Thermometer vorhanden
 sein. Für jeden Start sind die aktuellen Werte für Wind und Temperatur
@@ -257,6 +275,7 @@ zu berücksichtigen.
 
 
 ### § 13 Handbücher (zu den §§ 24, 27, 37 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE001901308)
 
 (1) An Bord des Ballons oder Luftschiffs müssen die notwendigen
 Auszüge aus dem Handbuch des Herstellers und die erforderlichen
@@ -271,6 +290,7 @@ Regelungen müssen in den Unterlagen nach Absatz 2 enthalten sein.
 
 
 ### § 14 Zusammensetzung der Besatzung (zu § 41 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002001308)
 
 (1) Ballone mit Körben für 11 bis 19 Insassen sind mit einem
 zusätzlichen Besatzungsmitglied zu betreiben, wenn dies für die
@@ -295,6 +315,7 @@ für die Aufsicht über die Fluggäste, erforderlich ist.
 
 
 ### § 15 Anforderungen an die Besatzungsmitglieder (zu § 42 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002101308)
 
 (1) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen, wenn
 dieser die Überprüfungsfahrten gemäß § 42 Abs. 3 LuftBO auf dem
@@ -311,6 +332,7 @@ Handfeuerlöschers erbracht hat.
 
 
 ### § 16 Unterweisung der Fluggäste (zu § 52 LuftBO)
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002201308)
 
 Der verantwortliche Luftfahrzeugführer muß sicherstellen, daß die
 Fluggäste mit der Unterbringung und dem Gebrauch der Sicherheits- und
@@ -318,10 +340,12 @@ Rettungsausrüstung vertraut gemacht werden.
 
 
 ## 4. Abschnitt - Bußgeld- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNG000400310)
 
 
 
 ### § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002301308)
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -354,6 +378,7 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftbodv_4/BJNR507700997.html#BJNR507700997BJNE002400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

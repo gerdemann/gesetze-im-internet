@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Der Schutz der Topographien
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNG000100304)
 
 
 
 ### § 1 Schutzgegenstand, Eigenart
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE000500304)
 
 (1) Dreidimensionale Strukturen von mikroelektronischen
 Halbleitererzeugnissen (Topographien) werden nach Maßgabe dieses
@@ -47,6 +49,7 @@ solche.
 
 
 ### § 2 Recht auf den Schutz
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE000601301)
 
 (1) Das Recht auf den Schutz der Topographie steht demjenigen zu, der
 die Topographie geschaffen hat. Haben mehrere gemeinsam eine
@@ -97,6 +100,7 @@ nur zu, wenn
 
 
 ### § 3 Anmeldung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE000705360)
 
 (1) Eine Topographie, für die Schutz geltend gemacht wird, ist beim
 Deutschen Patent- und Markenamt anzumelden. Für jede Topographie ist
@@ -162,6 +166,7 @@ Absatz 4 nicht behoben, so gilt die Anmeldung als zurückgenommen.
 
 
 ### § 4 Eintragung, Bekanntmachung, Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE000806360)
 
 (1) Entspricht die Anmeldung den Anforderungen des § 3, so verfügt das
 Deutsche Patent- und Markenamt die Eintragung in das Register für
@@ -235,6 +240,7 @@ Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
 
 
 ### § 5 Entstehung des Schutzes, Schutzdauer
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE000901360)
 
 (1) Der Schutz der Topographie entsteht
 
@@ -265,6 +271,7 @@ verwertet oder beim Deutschen Patent- und Markenamt angemeldet wird.
 
 
 ### § 6 Wirkung des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001000304)
 
 (1) Der Schutz der Topographie hat die Wirkung, daß allein der Inhaber
 des Schutzes befugt ist, sie zu verwerten. Jedem Dritten ist es
@@ -307,6 +314,7 @@ Entschädigung verlangen.
 
 
 ### § 7 Beschränkung der Wirkung des Schutzes
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001100304)
 
 (1) Der Schutz der Topographie wird nicht begründet, soweit gegen den
 als Inhaber Eingetragenen für jedermann ein Anspruch auf Löschung
@@ -320,6 +328,7 @@ entsprechend anzuwenden.
 
 
 ### § 8 Löschungsanspruch, Löschungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001202360)
 
 (1) Jedermann hat gegen den als Inhaber Eingetragenen Anspruch auf
 Löschung der Eintragung der Topographie, wenn
@@ -355,6 +364,7 @@ auf eine Streitsache (§ 19) sind entsprechend anzuwenden.
 
 
 ### § 9 Schutzverletzung
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001304123)
 
 (1) Wer den Vorschriften des § 6 Abs. 1 zuwider den Schutz der
 Topographie verletzt, kann vom Verletzten auf Unterlassung in Anspruch
@@ -376,6 +386,7 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ### § 10 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001401309)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -410,6 +421,7 @@ Bekanntmachung ist im Urteil zu bestimmen.
 
 
 ### § 11 Anwendung von Vorschriften des Patentgesetzes, des Gebrauchsmustergesetzes und des Gesetzes zum Schutz von Geschäftsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001507360)
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
 Gutachten (§ 29 Abs. 1 und 2), über die Nutzung von urheberrechtlich
@@ -435,26 +447,32 @@ anzuwenden.
 
 
 ## Zweiter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNG000200304)
 
 
 
 ### (XXXX) §§ 12 bis 16
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001600304)
 
 
 
 ## Dritter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNG000300304)
 
 
 
 ### (XXXX) §§ 17 bis 25
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001700304)
 
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNG000400304)
 
 
 
 ### § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001801377)
 
 (1) Der Schutz der Topographie kann nicht für solche Topographien in
 Anspruch genommen werden, die früher als zwei Jahre vor Inkrafttreten
@@ -470,6 +488,7 @@ bis zum 1. Januar 2002 geltenden Fassung gleichgestellt ist.
 
 
 ### § 27 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE001900304)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -479,6 +498,7 @@ Dritten Überleitungsgesetzes.
 
 
 ### § 28 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/halblschg/BJNR022940987.html#BJNR022940987BJNE002000304)
 
 Dieses Gesetz tritt am 1. November 1987 in Kraft.
 

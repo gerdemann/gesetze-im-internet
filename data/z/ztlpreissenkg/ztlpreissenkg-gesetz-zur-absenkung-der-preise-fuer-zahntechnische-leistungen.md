@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ztlpreissenkg/BJNR464010002.html#BJNR464010002BJNE000100000)
 
 Die am 31. Dezember 2002 geltenden Höchstpreise für abrechnungsfähige
 zahntechnische Leistungen gemäß § 88 Abs. 2 des Fünften Buches

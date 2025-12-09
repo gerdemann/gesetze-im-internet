@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Milch und Milcherzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNG000100328)
 
 
 
 ### § 1 Molkerei-Einzugsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE000500328)
 
 (1) Milcherzeuger sind verpflichtet, Milch und Sahne (Rahm), die sie
 in den Verkehr bringen, an eine Molkerei, die von der obersten
@@ -53,6 +55,7 @@ jeden Fettgehaltes.
 
 
 ### § 2 Molkerei-Absatzgebiete
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE000600328)
 
 (1) Milchhändler und Molkereien (Abnehmer) sind verpflichtet, Milch,
 entrahmte Milch, Buttermilch und geschlagene Buttermilch nur von
@@ -78,6 +81,7 @@ Annahmebeziehungen zu den Milchhändlern ergibt.
 
 
 ### § 3 Milchsammelstellen und Rahmstationen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE000700328)
 
 Die oberste Landesbehörde kann, sofern es die örtlichen Verhältnisse
 erfordern, die sich auf Molkereien beziehenden Liefer- und
@@ -87,6 +91,7 @@ auf Sahne (Rahm) jeden Fettgehaltes ausdehnen.
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE000800328)
 
 (1) Für dieses Gesetz sind die Begriffsbestimmungen der §§ 1 und 2 der
 Ersten Verordnung zur Ausführung des Milchgesetzes vom 15. Mai 1931
@@ -111,6 +116,7 @@ insbesondere die in § 2 Abs. 2 des Milchgesetzes vom 31. Juli 1930
 
 
 ### § 5 Besondere Liefer- und Abnahmepflichten
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE000900328)
 
 Die obersten Landesbehörden können Molkereien zur Sicherung der
 Versorgung oder zur Annäherung der wirtschaftlichen Ergebnisse
@@ -120,6 +126,7 @@ anderen Molkereien abzunehmen.
 
 
 ### § 6 Absatz im Straßenhandel
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001000328)
 
 Die obersten Landesbehörden können bestimmen, daß Milch und
 Milcherzeugnisse im Straßenhandel (§ 11 Abs. 1 des Milchgesetzes vom
@@ -137,6 +144,7 @@ ausgenommen.
 
 
 ### § 7 Bisherige Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001100328)
 
 Liefer- und Annahmebeziehungen zwischen Milcherzeugern und Molkereien
 und zwischen Molkereien und Abnehmern, die von den bisher zuständigen
@@ -147,6 +155,7 @@ jedoch ist die Vorschrift des § 6 Satz 2 innezuhalten.
 
 
 ### § 8 Änderungen und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001200328)
 
 (1) Die obersten Landesbehörden sollen jederzeit auf Antrag der
 Landesvereinigung (§ 14), eines Milcherzeugers, einer Molkerei oder
@@ -166,6 +175,7 @@ bestimmte Milcherzeugnisse zulassen.
 
 
 ### § 9 Übergebietliche Liefer- und Annahmebeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001304301)
 
 Erstrecken sich Liefer- und Annahmebeziehungen zwischen Milcherzeugern
 und Molkereien oder zwischen Molkereien und Abnehmern über das Gebiet
@@ -176,6 +186,7 @@ Ernährung und Landwirtschaft (Bundesministerium).
 
 
 ### § 10 Förderung und Erhaltung der Güte
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001404119)
 
 (1) Um die Güte von Milch einschließlich Trinkmilch (§ 11) und
 Milcherzeugnissen zu fördern und zu erhalten, kann das
@@ -192,6 +203,7 @@ auf oberste Landesbehörden übertragen.
 
 
 ### § 11 Fettgehalt der Trinkmilch
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001500328)
 
 (1) Die obersten Landesbehörden werden ermächtigt, den
 Mindestfettgehalt der zum unmittelbaren Genuß bestimmten Milch
@@ -206,15 +218,18 @@ vorgenommen werden.
 
 
 ### (XXXX) §§ 12 und 12a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001602377)
 
 
 ### § 13 Verkauf von Landbutter
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001800328)
 
 Die obersten Landesbehörden können, wenn die Belange der
 Milchwirtschaft es erfordern, den Verkauf von Landbutter einschränken.
 
 
 ### § 14 Beteiligung der Milchwirtschaft und der Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE001900328)
 
 (1) Vereinigungen (Marktgemeinschaften, Arbeitsgemeinschaften oder
 ähnliche Vereinigungen), die sich in den Ländern aus den
@@ -257,18 +272,22 @@ entsprechend den Gesetzen und der Satzung erfüllt.
 
 
 ## Zweiter Teil - Fette
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNG000200328)
 
 
 
 ### (XXXX) §§ 15 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002001308)
 
 
 
 ## Dritter Teil - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNG000300328)
 
 
 
 ### § 20 Preisregelung
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002505301)
 
 (1) Das Bundesministerium kann im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie
@@ -347,16 +366,19 @@ es hierbei sein Bewenden.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002600328)
 
 -
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002701308)
 
 -
 
 
 ### § 22 Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002801377)
 
 (1) Die Landesregierungen können im Benehmen mit der Landesvereinigung
 (§ 14) oder den berufsständischen Organisationen gemeinsam von den
@@ -449,6 +471,7 @@ I S. 635).
 
 
 ### § 23 Anfechtungsverfahren und Beitreibung
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE002901308)
 
 (1) Widerspruch und Anfechtungsklage gegen Verwaltungsakte, die auf
 Grund des § 12 und auf Grund einer auf § 12 beruhenden
@@ -463,6 +486,7 @@ durchgeführt werden.
 
 
 ### § 24 Gütezeichen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003001308)
 
 (1) Das Bundesministerium kann für Milch und Milcherzeugnisse im Sinne
 des § 2 der Ersten Verordnung zur Ausführung des Milchgesetzes vom 15.
@@ -490,6 +514,7 @@ durch Rechtsverordnung
 
 
 ### § 25 Buchführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003100328)
 
 (1) Betriebe, die Schmalz be- oder verarbeiten, sowie Betriebe, die
 mit den in § 20 Abs. 1 Nr. 1 genannten Erzeugnissen handeln, sind
@@ -525,11 +550,13 @@ Absatzes 1 ausdehnen
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003200328)
 
 -
 
 
 ### § 27 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003301308)
 
 (1) Das Bundesministerium und die obersten Landesbehörden sind
 auskunftsberechtigte Stellen im Sinne der Verordnung über
@@ -550,6 +577,7 @@ Vorzugsmilchbetrieben ohne Entgelt Proben entnommen werden.
 
 
 ### § 28 Beauftragung des Max Rubner-Instituts
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003401119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft kann das Max
 Rubner-Institut, Bundesforschungsinstitut für Ernährung und
@@ -560,6 +588,7 @@ sowie die Einführung und Verwendung von Gütezeichen.
 
 
 ### § 29 Befugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003502308)
 
 (1) Die obersten Landesbehörden können die ihnen nach diesem Gesetz
 übertragenen Aufgaben auf andere Behörden übertragen.
@@ -571,10 +600,12 @@ Rechtsverordnungen auf Grund des § 20 Abs. 3.
 
 
 ## Vierter Teil - Bußgeld- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNG000400328)
 
 
 
 ### § 30 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003602377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -638,6 +669,7 @@ Landesbehörden ausgeführt wird.
 
 
 ### § 31 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003700328)
 
 Rechtsverordnungen, die auf Grund des § 27 Abs. 2 erlassen werden,
 bedürfen der Zustimmung des Bundesrates nach Artikel 80 Abs. 2 des
@@ -645,6 +677,7 @@ Grundgesetzes nicht.
 
 
 ### § 32 Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchfettg/BJNR001350951.html#BJNR001350951BJNE003901308)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

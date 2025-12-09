@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000102160)
 
 (1) Die Richter der obersten Gerichtshöfe des Bundes werden von dem
 zuständigen Bundesminister gemeinsam mit dem Richterwahlausschuß
@@ -40,12 +41,14 @@ dem Richterwahlausschuss benannt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000200666)
 
 Der Richterwahlausschuß besteht aus den Mitgliedern kraft Amtes und
 einer gleichen Zahl von Mitgliedern kraft Wahl.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000302160)
 
 (1) Mitglieder kraft Amtes im Ausschuß, der die Richter eines obersten
 Gerichtshofs wählt, sind die Landesminister, zu deren Geschäftsbereich
@@ -60,6 +63,7 @@ Landesminister Mitglied kraft Amtes ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000400666)
 
 (1) Die Mitglieder kraft Wahl müssen zum Bundestag wählbar und im
 Rechtsleben erfahren sein.
@@ -73,6 +77,7 @@ vertreten lassen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000501311)
 
 (1) Die Mitglieder kraft Wahl und ihre Stellvertreter beruft der
 Bundestag nach den Regeln der Verhältniswahl.
@@ -96,6 +101,7 @@ Verbraucherschutz zu erklären ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000601311)
 
 (1) Der Bundesminister der Justiz und für Verbraucherschutz
 verpflichtet die Mitglieder des Richterwahlausschusses und ihre
@@ -107,6 +113,7 @@ Bundesminister der Justiz und für Verbraucherschutz.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000700666)
 
 Ein Mitglied des Richterwahlausschusses ist von der Mitwirkung bei der
 Wahl eines Richters ausgeschlossen, wenn die Voraussetzungen des § 41
@@ -114,6 +121,7 @@ Nr. 3 der Zivilprozeßordnung vorliegen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000801311)
 
 (1) Der Bundesminister der Justiz und für Verbraucherschutz beruft den
 Richterwahlausschuß ein.
@@ -124,6 +132,7 @@ Woche vor der Sitzung zugehen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE000900666)
 
 (1) Der zuständige Bundesminister oder sein Vertreter in der
 Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.
@@ -134,6 +143,7 @@ Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001003311)
 
 (1) Der zuständige Bundesminister und die Mitglieder des
 Richterwahlausschusses können vorschlagen, wer zum Bundesrichter zu
@@ -154,6 +164,7 @@ zwei seiner Mitglieder als Berichterstatter.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001100666)
 
 Der Richterwahlausschuß prüft, ob der für ein Richteramt
 Vorgeschlagene die sachlichen und persönlichen Voraussetzungen für
@@ -161,6 +172,7 @@ dieses Amt besitzt.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001200666)
 
 (1) Der Richterwahlausschuß entscheidet in geheimer Abstimmung mit der
 Mehrheit der abgegebenen Stimmen.
@@ -171,12 +183,14 @@ anwesend ist.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001300666)
 
 Stimmt der zuständige Bundesminister zu, so hat er die Ernennung des
 Gewählten beim Bundespräsidenten zu beantragen.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001401301)
 
 Die Mitglieder kraft Wahl erhalten Reisekostenentschädigung nach den
 Bestimmungen des Bundesreisekostengesetzes. Dies gilt nicht für
@@ -185,6 +199,7 @@ Sitzungstag des Bundestages am Sitzungsort zusammentritt.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/riwg/BJNR003680950.html#BJNR003680950BJNE001500666)
 
 Dieses Gesetz tritt mit dem Tag nach der Verkündung in Kraft.
 

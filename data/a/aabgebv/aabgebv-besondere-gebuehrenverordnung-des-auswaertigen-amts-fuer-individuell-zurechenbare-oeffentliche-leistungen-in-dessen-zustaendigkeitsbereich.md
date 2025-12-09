@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -28,6 +29,7 @@ verordnet das Auswärtige Amt:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000200000)
 
 (1) Im Zuständigkeitsbereich des Auswärtigen Dienstes werden Gebühren
 und Auslagen für individuell zurechenbare öffentliche Leistungen
@@ -49,6 +51,7 @@ Auslagenerhebung nicht vorsieht.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem in der
 Anlage 1 aufgeführten Gebühren- und Auslagenverzeichnis.
@@ -59,6 +62,7 @@ Festsetzung der Gebühren und Auslagen.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000400000)
 
 Richtet sich die Gebühr im Gebühren- und Auslagenverzeichnis nach dem
 Zeitaufwand, so berechnet sich die Zeitgebühr (§ 11 Nummer 2 des
@@ -68,6 +72,7 @@ Stundensätze zugrunde zu legen.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000500000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -77,11 +82,13 @@ anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 
 ## Anlage 1 Gebühren- und Auslageverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000701130)
 
 (Fundstelle: BGBl. 2025 I Nr. 140, S. 1 – 4)
 
@@ -648,6 +655,7 @@ Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 
 ## Anlage 2 Besondere pauschale Stundensätze des Auswärtigen Amts
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000801130)
 
 (Fundstelle: BGBl. 2025 I Nr. 140, S. 5)
 
@@ -969,6 +977,7 @@ Vorbemerkungen:
 
 
 ## Anlage 3 Abrechnungsbogen für das Bestimmen von Zeitgebühren
+[Direktlink](https://www.gesetze-im-internet.de/aabgebv/BJNR392000021.html#BJNR392000021BJNE000900000)
 
 (Fundstelle: BGBl. I 2021, 3927)
 

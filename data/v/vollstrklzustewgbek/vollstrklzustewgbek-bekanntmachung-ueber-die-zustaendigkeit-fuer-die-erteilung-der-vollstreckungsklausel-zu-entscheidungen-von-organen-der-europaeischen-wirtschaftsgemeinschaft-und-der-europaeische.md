@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vollstrklzustewgbek/BJNR200500961.html#BJNR200500961BJNE000100306)
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 192 Abs. 2
 des Vertrages zur Gründung der Europäischen Wirtschaftsgemeinschaft
@@ -30,6 +31,7 @@ Atomgemeinschaft (EURATOM) vom 25. März 1957 (Bundesgesetzbl. II S.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrklzustewgbek/BJNR200500961.html#BJNR200500961BJNE000200306)
 
 Der Stellvertreter des Bundeskanzlers
 Der Bundesminister der Justiz

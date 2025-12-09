@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000100000)
 
 (1) Elektrokleinstfahrzeuge im Sinne dieser Verordnung sind
 Kraftfahrzeuge mit elektrischem Antrieb und einer bauartbedingten
@@ -78,6 +79,7 @@ verwendet werden.
 [^F807515_02_BJNR075610019BJNE000100000]: 
 
 ## § 2 Anforderungen an das Inbetriebsetzen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000201119)
 
 (1) Ein Elektrokleinstfahrzeug darf auf öffentlichen Straßen nur in
 Betrieb gesetzt werden, wenn
@@ -166,12 +168,14 @@ Absatz 2 Satz 2 der Straßenverkehrs-Zulassungs-Ordnung erloschen ist.
 
 
 ## § 3 Berechtigung zum Führen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000300000)
 
 Zum Führen eines Elektrokleinstfahrzeugs sind Personen berechtigt, die
 das 14. Lebensjahr vollendet haben.
 
 
 ## § 4 Anforderungen an die Verzögerungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000400000)
 
 (1) Ein Elektrokleinstfahrzeug muss mit zwei voneinander unabhängigen
 Bremsen im Sinne des § 65 Absatz 1 Satz 1 der Straßenverkehrs-
@@ -200,6 +204,7 @@ Elektrokleinstfahrzeug festzustellen vermag.
 
 
 ## § 5 Anforderungen an die lichttechnischen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000501123)
 
 (1) Ein Elektrokleinstfahrzeug muss mit lichttechnischen Einrichtungen
 ausgerüstet sein, die den Anforderungen des § 67 Absatz 1 Satz 3 und
@@ -260,6 +265,7 @@ nach hinten wirkenden Fahrtrichtungsanzeigern entsprechend § 67 Absatz
 
 
 ## § 6 Anforderungen an die Einrichtung für Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000600000)
 
 Elektrokleinstfahrzeuge müssen mit mindestens einer helltönenden
 Glocke, die den Anforderungen des § 64a der Straßenverkehrs-
@@ -279,6 +285,7 @@ entsprechen.
 
 
 ## § 7 Sonstige Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000700000)
 
 Elektrokleinstfahrzeuge müssen
 
@@ -336,12 +343,14 @@ Elektrokleinstfahrzeuge müssen
 
 
 ## § 8 Personenbeförderung und Anhängerbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000800000)
 
 Die Personenbeförderung sowie der Anhängerbetrieb sind für
 Elektrokleinstfahrzeuge nicht gestattet.
 
 
 ## § 9 Anwendung der Straßenverkehrs-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE000900000)
 
 Wer ein Elektrokleinstfahrzeug im Straßenverkehr führt, unterliegt den
 Vorschriften der Straßenverkehrs-Ordnung nach Maßgabe der
@@ -349,6 +358,7 @@ nachfolgenden §§ 10 bis 13.
 
 
 ## § 10 Zulässige Verkehrsflächen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001000000)
 
 (1) Innerhalb geschlossener Ortschaften dürfen Elektrokleinstfahrzeuge
 nur baulich angelegte Radwege, darunter auch gemeinsame Geh- und
@@ -389,6 +399,7 @@ bekannt gegeben werden.
 
 
 ## § 11 Allgemeine Verhaltensregeln
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001100000)
 
 (1) Wer ein Elektrokleinstfahrzeug führt, muss einzeln hintereinander
 fahren, darf sich nicht an fahrende Fahrzeuge anhängen und nicht
@@ -419,6 +430,7 @@ Fahrräder geltenden Parkvorschriften entsprechend.
 
 
 ## § 12 Besonderheiten bei angeordneten Verkehrsverboten nach der Straßenverkehrs-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001200000)
 
 (1) Ist ein Verbot für Fahrzeuge aller Art (Zeichen 250 der Anlage 2
 zur Straßenverkehrs-Ordnung) angeordnet, so dürfen
@@ -439,6 +451,7 @@ Elektrokleinstfahrzeuge.
 
 
 ## § 13 Lichtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001300000)
 
 Elektrokleinstfahrzeuge unterfallen der Lichtzeichenregelung des § 37
 Absatz 2 Nummer 5 und 6 der Straßenverkehrs-Ordnung. Dabei kommt das
@@ -446,6 +459,7 @@ Sinnbild „Radverkehr“ zur Anwendung.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001401119)
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -487,6 +501,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 15 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001500000)
 
 (1) Genehmigungen, die bis zum Außerkrafttreten der
 Mobilitätshilfenverordnung vom 16. Juli 2009 (BGBl. I S. 2097) erteilt
@@ -514,6 +529,7 @@ Verkehr und digitale Infrastruktur gegebenenfalls bis zum 1. September
 (zu § 7 Nummer 1)
 
 ## Anlage Prüfanforderungen und Anforderungen an die Fahrdynamik
+[Direktlink](https://www.gesetze-im-internet.de/ekfv/BJNR075610019.html#BJNR075610019BJNE001600000)
 
 (Fundstelle: BGBl. I 2019, 761 - 763)
 

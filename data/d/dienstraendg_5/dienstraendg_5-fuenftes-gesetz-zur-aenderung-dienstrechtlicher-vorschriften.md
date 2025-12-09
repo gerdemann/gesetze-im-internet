@@ -18,15 +18,18 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000200311)
 
 
 ## Art 7 Änderung des Beamtenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000300311)
 
 (1)
 
@@ -38,6 +41,7 @@ Anwendung.
 
 
 ## Art 8 Änderung des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000400311)
 
 (1)
 
@@ -51,6 +55,7 @@ Anwendung.
 
 
 ## Art 9 Änderung der Dienstgradbezeichnung früherer Berufssoldaten, die als Hauptfeldwebel in den Ruhestand getreten sind oder entlassen wurden
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000500311)
 
 (1) Ein früherer Berufssoldat, der vor dem 1. Januar 1983 mit dem
 Dienstgrad Hauptfeldwebel/Hauptbootsmann in den Ruhestand getreten ist
@@ -92,17 +97,20 @@ ihrer als nicht würdig erweist.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000600311)
 
 -
 
 
 ## Art 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000700311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dienstr_ndg_5/BJNR009980984.html#BJNR009980984BJNE000800311)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

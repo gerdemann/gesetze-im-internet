@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000100307)
 
 
 
 ### § 1 Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000105360)
 
 (1) Die für gesundheitliche Aufklärung und Gesundheitserziehung
 zuständige Bundeszentrale für gesundheitliche Aufklärung erstellt
@@ -76,6 +78,7 @@ für den Notruf.
 
 
 ### § 2 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000204360)
 
 (1) Jede Person hat das Recht, sich zu den in § 1 Absatz 1 genannten
 Zwecken in Fragen der Sexualaufklärung, Verhütung und Familienplanung
@@ -146,6 +149,7 @@ Konfliktlage anzubieten. Inhalt des Beratungsgesprächs sind:
 
 
 ### § 2a Aufklärung und Beratung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001901360)
 
 (1) Sprechen nach den Ergebnissen von pränataldiagnostischen Maßnahmen
 dringende Gründe für die Annahme, dass die körperliche oder geistige
@@ -190,6 +194,7 @@ Absatz 2 Satz 2.
 
 
 ### § 3 Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000301307)
 
 Die Länder stellen ein ausreichendes Angebot wohnortnaher
 Beratungsstellen für die Beratung nach § 2 sicher. Dabei werden auch
@@ -199,6 +204,7 @@ Ausrichtung auswählen können.
 
 
 ### § 4 Öffentliche Förderung der Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000403360)
 
 (1) Die Länder tragen dafür Sorge, daß den Beratungsstellen nach den
 §§ 3 und 8 Absatz 1 für je 40 000 Einwohner mindestens eine Beraterin
@@ -223,10 +229,12 @@ angemessene öffentliche Förderung der Personal- und Sachkosten.
 
 
 ## Abschnitt 2 - Schwangerschaftskonfliktberatung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000200307)
 
 
 
 ### § 5 Inhalt der Schwangerschaftskonfliktberatung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000500307)
 
 (1) Die nach § 219 des Strafgesetzbuches notwendige Beratung ist
 ergebnisoffen zu führen. Sie geht von der Verantwortung der Frau aus.
@@ -262,6 +270,7 @@ Möglichkeiten, ungewollte Schwangerschaften zu vermeiden.
 
 
 ### § 6 Durchführung der Schwangerschaftskonfliktberatung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000601360)
 
 (1) Eine ratsuchende Schwangere ist unverzüglich zu beraten.
 
@@ -291,6 +300,7 @@ hinzugezogenen Personen unentgeltlich.
 
 
 ### § 7 Beratungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000701360)
 
 (1) Die Beratungsstelle hat nach Abschluß der Beratung der Schwangeren
 eine mit Namen und Datum versehene Bescheinigung darüber auszustellen,
@@ -307,6 +317,7 @@ Fristen unmöglich werden könnte.
 
 
 ### § 8 Schwangerschaftskonfliktberatungsstellen; Belästigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000802360)
 
 (1) Für die Beratung nach den §§ 5 und 6 haben die Länder ein
 ausreichendes plurales Angebot wohnortnaher Beratungsstellen und den
@@ -359,6 +370,7 @@ behindern.
 
 
 ### § 9 Anerkennung von Schwangerschaftskonfliktberatungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE000900307)
 
 Eine Beratungsstelle darf nur anerkannt werden, wenn sie die Gewähr
 für eine fachgerechte Schwangerschaftskonfliktberatung nach § 5 bietet
@@ -390,6 +402,7 @@ der Lage ist, insbesondere
 
 
 ### § 10 Berichtspflicht und Überprüfung der Schwangerschaftskonfliktberatungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001000307)
 
 (1) Die Beratungsstellen sind verpflichtet, die ihrer
 Beratungstätigkeit zugrundeliegenden Maßstäbe und die dabei
@@ -412,6 +425,7 @@ mehr vor, ist die Anerkennung zu widerrufen.
 
 
 ### § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001101360)
 
 Die Anerkennung einer Beratungsstelle auf Grund II.4 der
 Entscheidungsformel des Urteils des Bundesverfassungsgerichts vom 28.
@@ -420,10 +434,12 @@ Absatz 1 und des § 9 dieses Gesetzes gleich.
 
 
 ## Abschnitt 3 - Vornahme von Schwangerschaftsabbrüchen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000300307)
 
 
 
 ### § 12 Weigerung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001200307)
 
 (1) Niemand ist verpflichtet, an einem Schwangerschaftsabbruch
 mitzuwirken.
@@ -434,6 +450,7 @@ Gesundheitsschädigung abzuwenden.
 
 
 ### § 13 Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen; Belästigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001303360)
 
 (1) Ein Schwangerschaftsabbruch darf nur in einer Einrichtung
 vorgenommen werden, in der auch die notwendige Nachbehandlung
@@ -500,6 +517,7 @@ zivilgesellschaftliche Aufgaben und den Ländern zur Verfügung.
 
 
 ### § 14 Informationen über einen Schwangerschaftsabbruch
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003602360)
 
 (1) Die Bundeszentrale für gesundheitliche Aufklärung veröffentlicht
 die von der Bundesärztekammer nach § 13 Absatz 5 geführte Liste und
@@ -519,10 +537,12 @@ informieren.
 
 
 ## Abschnitt 4 - Bundesstatistik über Schwangerschaftsabbrüche
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000401307)
 
 
 
 ### § 15 Anordnung als Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001500307)
 
 Über die unter den Voraussetzungen des § 218a Abs. 1 bis 3 des
 Strafgesetzbuches vorgenommenen Schwangerschaftsabbrüche wird eine
@@ -531,6 +551,7 @@ Bundesamt erhoben und aufbereitet.
 
 
 ### § 16 Erhebungsmerkmale, Berichtszeit und Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001601360)
 
 (1) Die Erhebung wird auf das Kalendervierteljahr bezogen durchgeführt
 und umfaßt folgende Erhebungsmerkmale:
@@ -586,6 +607,7 @@ bestehenden Meldestellen veröffentlichen.
 
 
 ### § 17 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001701360)
 
 (1) Hilfsmerkmale der Erhebung sind:
 
@@ -603,6 +625,7 @@ für die Zuordnung zu Kreisen und kreisfreien Städten verwendet werden.
 
 
 ### § 18 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE001802360)
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Inhaberinnen und
 Inhaber der Arztpraxen und die Leitungen der Krankenhäuser, in denen
@@ -647,10 +670,12 @@ verpflichteten Gesundheitsbehörden in ihrem Bereich mit.
 
 
 ## Abschnitt 5 - Hilfe für Frauen bei Schwangerschaftsabbrüchen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000500140)
 
 
 
 ### § 19 Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002001310)
 
 (1) Eine Frau hat Anspruch auf Leistungen nach diesem Abschnitt, wenn
 ihr die Aufbringung der Mittel für den Abbruch einer Schwangerschaft
@@ -694,6 +719,7 @@ Mehrbetrag, höchstens jedoch um 294 Euro.
 
 
 ### § 20 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002100140)
 
 (1) Leistungen sind die in § 24b Absatz 4 des Fünften Buches
 Sozialgesetzbuch genannten Leistungen, die von der gesetzlichen
@@ -708,6 +734,7 @@ Leistungen nach diesem Abschnitt vor.
 
 
 ### § 21 Durchführung, Zuständigkeit, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002200140)
 
 (1) Die Leistungen werden auf Antrag durch die gesetzliche
 Krankenkasse gewährt, bei der die Frau gesetzlich krankenversichert
@@ -741,6 +768,7 @@ hinwirken, dass sich ihre Tätigkeiten wirksam ergänzen.
 
 
 ### § 22 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002300140)
 
 Die Länder erstatten den gesetzlichen Krankenkassen die ihnen durch
 diesen Abschnitt entstehenden Kosten. Das Nähere einschließlich des
@@ -749,12 +777,14 @@ die Länder.
 
 
 ### § 23 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002400140)
 
 Über öffentlich-rechtliche Streitigkeiten in den Angelegenheiten
 dieses Abschnitts entscheiden die Gerichte der Sozialgerichtsbarkeit.
 
 
 ### § 24 Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002500140)
 
 Die in § 19 Absatz 2 genannten Beträge verändern sich um den
 Vomhundertsatz, um den sich der aktuelle Rentenwert in der
@@ -765,10 +795,12 @@ Bundesanzeiger bekannt.
 
 
 ## Abschnitt 6 - Vertrauliche Geburt
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000600360)
 
 
 
 ### § 25 Beratung zur vertraulichen Geburt
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002601360)
 
 (1) Eine nach § 2 Absatz 4 beratene Schwangere, die ihre Identität
 nicht preisgeben möchte, ist darüber zu informieren, dass eine
@@ -821,6 +853,7 @@ jederzeit weiter zur Verfügung steht.
 
 
 ### § 26 Das Verfahren der vertraulichen Geburt
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002700360)
 
 (1) Wünscht die Schwangere eine vertrauliche Geburt, wählt sie
 
@@ -904,6 +937,7 @@ zivilgesellschaftliche Aufgaben weitergeleitet.
 
 
 ### § 27 Umgang mit dem Herkunftsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002800360)
 
 (1) Die Beratungsstelle übersendet den Umschlag mit dem
 Herkunftsnachweis an das Bundesamt für Familie und
@@ -916,6 +950,7 @@ Kindes auf dem Umschlag, der seinen Herkunftsnachweis enthält.
 
 
 ### § 28 Beratungsstellen zur Betreuung der vertraulichen Geburt
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE002901360)
 
 (1) Beratungsstellen nach den §§ 3 und 8 Absatz 1 können die Beratung
 zur vertraulichen Geburt durchführen, wenn sie die Gewähr für eine
@@ -929,6 +964,7 @@ Beratungsfachkraft nach Absatz 1 hinzuziehen.
 
 
 ### § 29 Beratung in Einrichtungen der Geburtshilfe oder bei Hausgeburten
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003001360)
 
 (1) Der Leiter oder die Leiterin einer Einrichtung der Geburtshilfe,
 die eine Schwangere ohne Feststellung ihrer Identität zur Entbindung
@@ -948,6 +984,7 @@ Kind bereits geboren hat.
 
 
 ### § 30 Beratung nach der Geburt des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003100360)
 
 (1) Der Mutter ist auch nach der Geburt des Kindes Beratung nach § 2
 Absatz 4 und § 25 Absatz 2 und 3 anzubieten. Dies gilt auch dann, wenn
@@ -963,6 +1000,7 @@ Konfliktlage an.
 
 
 ### § 31 Einsichtsrecht des Kindes in den Herkunftsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003201360)
 
 (1) Mit Vollendung des 16. Lebensjahres hat das vertraulich geborene
 Kind das Recht, den beim Bundesamt für Familie und
@@ -999,6 +1037,7 @@ nach Absatz 3 Satz 1 benannt hat.
 
 
 ### § 32 Familiengerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003300360)
 
 (1) Verweigert das Bundesamt für Familie und zivilgesellschaftliche
 Aufgaben dem Kind die Einsicht in seinen Herkunftsnachweis nach § 31
@@ -1052,6 +1091,7 @@ Antrag beim Familiengericht stellen.
 
 
 ### § 33 Dokumentations- und Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003400360)
 
 (1) Die Beratungsstelle fertigt über jedes Beratungsgespräch unter dem
 Pseudonym der Schwangeren eine Aufzeichnung an, die insbesondere
@@ -1078,6 +1118,7 @@ zivilgesellschaftliche Aufgaben übermittelt wird.
 
 
 ### § 34 Kostenübernahme
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003500360)
 
 (1) Der Bund übernimmt die Kosten, die im Zusammenhang mit der Geburt
 sowie der Vor- und Nachsorge entstehen. Die Kostenübernahme erfolgt
@@ -1102,10 +1143,12 @@ Anschrift der Mutter sowie ihr Pseudonym mit.
 
 
 ## Abschnitt 7 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000700360)
 
 
 
 ### § 35 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003700360)
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 8 Absatz 2
 Nummer 1 oder § 13 Absatz 3 Nummer 1 das Betreten oder das Verlassen
@@ -1153,10 +1196,12 @@ Euro geahndet werden.
 
 
 ## Abschnitt 8 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNG000800360)
 
 
 
 ### § 36 Einschränkung eines Grundrechts
+[Direktlink](https://www.gesetze-im-internet.de/beratungsg/BJNR113980992.html#BJNR113980992BJNE003800360)
 
 Durch die §§ 8 und 13 wird das Grundrecht der Versammlungsfreiheit
 (Artikel 8 des Grundgesetzes) eingeschränkt.

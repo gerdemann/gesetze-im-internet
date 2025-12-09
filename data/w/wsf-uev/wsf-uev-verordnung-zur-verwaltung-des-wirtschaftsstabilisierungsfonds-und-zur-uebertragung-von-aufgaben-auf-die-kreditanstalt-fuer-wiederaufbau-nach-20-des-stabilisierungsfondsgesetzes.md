@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000100000)
 
 Auf Grund des § 20 Absatz 4 Satz 4, auch in Verbindung mit Satz 5, und
 Absatz 6 des Stabilisierungsfondsgesetzes, der durch Artikel 1 Nummer
@@ -27,6 +28,7 @@ dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000200000)
 
 (1) Diese Verordnung regelt, in welchen Fällen die Entscheidung über
 Anträge zu Stabilisierungsmaßnahmen nach den §§ 21 und 22 des
@@ -43,6 +45,7 @@ Behörden, denen Aufgaben nach dem Stabilisierungsfondsgesetz
 
 
 ## § 2 Bestimmung der Entscheidungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000300000)
 
 (1) Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind zur
 Entscheidung vorzulegen
@@ -127,6 +130,7 @@ Entscheidungen vorbehalten.
 
 
 ## § 3 Antragsregistrierung
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000400000)
 
 (1) Anträge von Unternehmen auf Maßnahmen nach dem
 Stabilisierungsfondsgesetz sind bei dem Bundesministerium für
@@ -161,6 +165,7 @@ mandatieren.
 
 
 ## § 4 Antragsbearbeitung durch die Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000500000)
 
 (1) Die Kreditanstalt für Wiederaufbau informiert das
 Bundesministerium der Finanzen und das Bundesministerium für
@@ -184,6 +189,7 @@ Ausschusses.
 
 
 ## § 5 Entscheidungsvorschläge des Bundesministeriums für Wirtschaft und Energie
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000600000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie bereitet die
 Entscheidungen über die Anträge vor und legt dem Entscheidungsorgan
@@ -243,6 +249,7 @@ Stimme teil.
 
 
 ## § 6 Zusammenarbeit von Finanzagentur und Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000700000)
 
 (1) Einzelheiten der Zusammenarbeit zwischen der Kreditanstalt für
 Wiederaufbau und der Finanzagentur regelt eine zwischen der
@@ -288,6 +295,7 @@ Vertretung des Wirtschaftsstabilisierungsfonds zu erlassen.
 
 
 ## § 7 Weitere Aufgaben der Kreditanstalt für Wiederaufbau
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000800000)
 
 (1) Die Kreditanstalt für Wiederaufbau nimmt in den vom
 Bundesministerium der Finanzen festgelegten Fällen für das
@@ -304,6 +312,7 @@ kann hierzu Grundsätze festlegen und Weisungen erteilen.
 
 
 ## § 8 Zusammenarbeit mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE000900000)
 
 (1) Die Kreditanstalt für Wiederaufbau und die Finanzagentur können
 sich mit Zustimmung und nach Maßgabe des Bundesministeriums der
@@ -331,6 +340,7 @@ entsprechend.
 
 
 ## § 9 Sonstige Befugnisse des Bundesministeriums der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE001000000)
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie der Kreditanstalt für
@@ -352,6 +362,7 @@ Wiederaufbau hinsichtlich der dieser nach § 4 übertragenen Aufgaben
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wsf-_v/BJNR205500020.html#BJNR205500020BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

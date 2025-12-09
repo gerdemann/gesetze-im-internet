@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000101308)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -33,17 +34,20 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000201308)
 
 Der Ausbildungsberuf Kaufmann für Verkehrsservice/Kauffrau für
 Verkehrsservice wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000301308)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000401308)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -140,6 +144,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000501308)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter
 Berücksichtigung der Schwerpunkte "Verkauf und Service" sowie
@@ -159,12 +164,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000601308)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000701308)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -173,6 +180,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000801308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -205,6 +213,7 @@ durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE000901308)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -331,6 +340,7 @@ ist die Prüfung nicht bestanden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE001001308)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
@@ -339,6 +349,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 Verkehrsservice/zur Kauffrau für Verkehrsservice
 
 ## Anlage I - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE001101308)
 
 (Fundstelle: BGBl. I 1997, S. 1586 - 1591)
 
@@ -1212,6 +1223,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 Verkehrsservice/zur Kauffrau für Verkehrsservice
 
 ## Anlage II - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/vserviceausbv/BJNR158300997.html#BJNR158300997BJNE001201308)
 
 (Fundstelle: BGBl. I 1997, S. 1592 - 1594)
 

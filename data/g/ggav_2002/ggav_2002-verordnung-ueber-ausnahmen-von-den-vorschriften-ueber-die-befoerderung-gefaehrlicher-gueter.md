@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ggav_2002/BJNR435000002.html#BJNR435000002BJNE000109123)
 
 (1) Diese Verordnung enthält allgemeine Ausnahmen von
 
@@ -68,6 +69,7 @@ Buchstaben haben folgende Bedeutung:
 
 
 ## § 2 Geltungsbereich von Ausnahmegenehmigungen nach § 5 Absatz 1 Nummer 2 und Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggav_2002/BJNR435000002.html#BJNR435000002BJNE000203124)
 
 Für Beförderungen zum und vom nächstgelegenen geeigneten Bahnhof
 gelten Ausnahmegenehmigungen nach § 5 Absatz 1 Nummer 2 und Absatz 2
@@ -77,6 +79,7 @@ der jeweiligen Ausnahmegenehmigung dem Beförderungspapier beizufügen.
 
 
 ## § 3 Grenzüberschreitende Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/ggav_2002/BJNR435000002.html#BJNR435000002BJNE000302124)
 
 Soweit in einer Ausnahme in der Anlage zu dieser Verordnung nicht
 ausdrücklich etwas anderes bestimmt ist, darf bei
@@ -85,6 +88,7 @@ Beförderung nach den Vorschriften dieser Verordnung erfolgen.
 
 
 ## Anlage (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ggav_2002/BJNR435000002.html#BJNR435000002BJNE000713123)
 
 (Fundstelle: BGBl I 2019, 231 – 257;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

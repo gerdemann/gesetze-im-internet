@@ -29,6 +29,7 @@ Stand: Ersetzt V 791-8-2 v. 15.9.2005 I 2778 (NatSGPomBuchtV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000100000)
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56
 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23
@@ -40,6 +41,7 @@ Bau und Reaktorsicherheit:
 
 
 ## § 1 Erklärung zum Naturschutzgebiet
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000200000)
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen
 ausschließlichen Wirtschaftszone und des Festlandsockels wird zum
@@ -76,6 +78,7 @@ vereint die Gebiete
 
 
 ## § 2 Schutzgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000300000)
 
 (1) Das Naturschutzgebiet „Pommersche Bucht – Rönnebank“ hat eine
 Fläche von 2 092 Quadratkilometern und liegt östlich der Insel Rügen.
@@ -164,6 +167,7 @@ der Darstellung in der Übersichtskarte nach Anlage 2.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000400000)
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet
 dient der Verwirklichung der Erhaltungsziele der Natura 2000-Gebiete
@@ -198,6 +202,7 @@ Werte und Funktionen des Gebietes, insbesondere
 
 
 ## § 4 Schutzzweck des Bereiches I
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000500000)
 
 (1) Zu den im Bereich I des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -270,6 +275,7 @@ Wiederherstellung
 
 
 ## § 5 Schutzzweck des Bereiches II
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000600000)
 
 (1) Zu den im Bereich II des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -349,6 +355,7 @@ Wiederherstellung
 
 
 ## § 6 Schutzzweck des Bereiches III
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000700000)
 
 (1) Zu den im Bereich III des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -438,6 +445,7 @@ Wiederherstellung
 
 
 ## § 7 Schutzzweck des Bereiches IV
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000800000)
 
 (1) Zu den im Bereich IV des Naturschutzgebietes verfolgten
 Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die
@@ -534,6 +542,7 @@ Wiederherstellung
 
 
 ## § 8 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE000900000)
 
 (1) Vorbehaltlich des § 9 sind verboten
 
@@ -596,6 +605,7 @@ insbesondere
 
 
 ## § 9 Zulässigkeit von bestimmten Projekten und Plänen
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001000000)
 
 (1) Projekte
 
@@ -670,6 +680,7 @@ zuständigen Behörde.
 
 
 ## § 10 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001100000)
 
 (1) Von den Verboten des § 8 Absatz 1 und 2 kann das Bundesamt für
 Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit
@@ -683,6 +694,7 @@ Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
 
 ## § 11 Bewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001200000)
 
 (1) Die zur Erreichung des Schutzzwecks nach den §§ 4 bis 7
 notwendigen Maßnahmen einschließlich der erforderlichen
@@ -715,6 +727,7 @@ dargestellten Maßnahmen durch.
 
 
 ## § 12 Weitergehende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001300000)
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt.
 Hierzu zählen insbesondere
@@ -747,6 +760,7 @@ Hierzu zählen insbesondere
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Festsetzung des
@@ -756,6 +770,7 @@ Dezember 2011 (BGBl. I S. 3044) geändert worden ist, außer Kraft.
 
 
 ## Anlage 1 (zu § 2 Absatz 2 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001500000)
 
 (Fundstelle: BGBl. I 2017, 3421)
 
@@ -979,6 +994,7 @@ Dezember 2011 (BGBl. I S. 3044) geändert worden ist, außer Kraft.
 (zu § 2 Absatz 7)
 
 ## Anlage 2 Übersichtskarte des Naturschutzgebietes
+[Direktlink](https://www.gesetze-im-internet.de/nsgpbrv/BJNR341500017.html#BJNR341500017BJNE001600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
 

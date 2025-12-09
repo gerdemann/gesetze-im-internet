@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000100314)
 
 Auf Grund des § 8 Abs. 4 Nr. 1 und des § 14 Abs. 3 des Gesetzes über
 den Finanzausgleich zwischen Bund und Ländern vom 28. August 1969
@@ -27,6 +28,7 @@ verordnet:
 
 
 ## § 1 Ausgleich unterschiedlicher Einheitsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000200314)
 
 Zum Ausgleich der unterschiedlichen Einheitsbewertung des
 Grundbesitzes im Bundesgebiet werden die nach § 8 Abs. 2 und 3 des
@@ -40,6 +42,7 @@ dem Ausgleichsjahr ab, für das die Einheitswerte der Hauptfeststellung
 
 
 ## § 2 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 1970
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000300314)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970 wird der
@@ -129,6 +132,7 @@ Feststellung der Einwohnerzahlen.
 
 
 ## § 3 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000400314)
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
@@ -136,11 +140,13 @@ Verbindung mit § 19 des Gesetzes auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000500314)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1970 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg1970dv_1/BJNR001430970.html#BJNR001430970BJNE000600314)
 
 Der Bundesminister der Finanzen
 

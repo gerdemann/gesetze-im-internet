@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Die §§ 1, 2 Abs. 1 Nr. 2 und 3, § 12 Nr. 3 und § 13 sind gem. § 15 dieser V und § 21 Abs. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen (CWÜAG) iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 29.4.1997 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000100310)
 
 Auf Grund des § 2 Abs. 1 und 3 und des § 3 des Ausführungsgesetzes zum
 Chemiewaffenübereinkommen vom 2. August 1994 (BGBl. I S. 1954)
@@ -28,6 +29,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Verbote für Chemikalien der Liste 1
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000200310)
 
 Es ist verboten
 
@@ -70,6 +72,7 @@ Es ist verboten
 
 
 ## § 1a Verbote für Chemikalien der Liste 2
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001900301)
 
 Es ist verboten, Chemikalien der in Anhang 1 zu dieser Verordnung
 aufgeführten Liste 2
@@ -88,6 +91,7 @@ aufgeführten Liste 2
 
 
 ## § 2 Genehmigungsvorbehalte
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000302377)
 
 (1) Einer Genehmigung bedarf, wer
 
@@ -149,6 +153,7 @@ Vorlage dieser Genehmigung anzumelden und auf Verlangen vorzuführen.
 
 
 ## § 3 Erteilung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000401377)
 
 (1) Unbeschadet anderer Rechtsvorschriften ist die Genehmigung nach §
 2 Absatz 1 zu erteilen, wenn sichergestellt ist, daß durch die
@@ -175,6 +180,7 @@ entsprechende Anwendung.
 
 
 ## § 4 Meldepflichten bei Produktion, Verarbeitung und Verbrauch
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000502377)
 
 (1) Wer ein Werk betreibt,
 
@@ -224,6 +230,7 @@ bestehen.
 
 
 ## § 5 Meldearten und -angaben
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000601377)
 
 (1) Die Meldungen nach § 4 sind Neumeldungen für das laufende
 Kalenderjahr, Jahresabschlußmeldungen für das abgelaufene
@@ -423,6 +430,7 @@ bezeichneten Chemikalien enthalten:
 
 
 ## § 6 Meldepflichten bei Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000702377)
 
 (1) Wer
 
@@ -463,6 +471,7 @@ enthalten.
 
 
 ## § 6a Aufklärung von Transferdiskrepanzen
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE002000377)
 
 (1) Das Auswärtige Amt unterrichtet das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle, wenn die Organisation dem Auswärtigen Amt eine
@@ -585,6 +594,7 @@ unterschreitet.
 
 
 ## § 7 Weitere Meldevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000802377)
 
 (1) Die Jahresabschlußmeldungen und die Meldungen nach § 6 sind bis
 zum 15. Februar eines neuen Kalenderjahres zu erstatten.
@@ -611,6 +621,7 @@ abzugebenden Meldungen.
 
 
 ## § 8 Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE000903377)
 
 (1) Die Anträge auf Erteilung einer Genehmigung nach § 2 und die
 Meldungen nach den §§ 4 und 6 sind durch schriftliche Erklärung
@@ -623,6 +634,7 @@ Weise, insbesondere durch elektronischen Datenaustausch, abzugeben.
 
 
 ## § 9 Ausnahmen für geringe Konzentrationen
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001004377)
 
 (1) Die §§ 1, 2, 4 und 6 finden keine Anwendung, wenn Chemikalien der
 Liste 1 einen Anteil von weniger als 1 vom Hundert einer Mischung
@@ -669,6 +681,7 @@ sind, die
 
 
 ## § 10 Besondere Meldevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001101377)
 
 (1) Der Meldepflicht unterliegt ferner, wer ein Werk betreibt,
 
@@ -744,6 +757,7 @@ Im übrigen gelten § 7 Absatz 3 und § 8 entsprechend.
 
 
 ## § 11 Bundeswehr und andere Organe
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001200310)
 
 Keiner Genehmigung nach § 2 bedürfen die Bundeswehr, die Polizeien des
 Bundes und die Zollbehörden sowie die übrigen für die
@@ -753,6 +767,7 @@ für die Bundeswehr.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001302377)
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des
 Ausführungsgesetzes zum Chemiewaffenübereinkommen handelt, wer
@@ -774,6 +789,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 13 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001402377)
 
 (1) Nach § 16 Absatz 1 Nummer 1 des Ausführungsgesetzes zum
 Chemiewaffenübereinkommen wird bestraft, wer
@@ -838,11 +854,13 @@ Chemiewaffenübereinkommen wird bestraft, wer
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001501320)
 
 (weggefallen)
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001601377)
 
 Die §§ 1, 2 Absatz 1 Nummer 2 und 3, § 12 Nummer 3 und § 13 treten an
 dem Tage in Kraft, an dem das Übereinkommen nach seinem Artikel XXI in
@@ -852,6 +870,7 @@ Chemiewaffenübereinkommen im Bundesgesetzblatt bekanntgegeben wird. Im
 
 
 ## Anhang 1 Chemikalienlisten\*)\*\*)
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001701377)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1508,6 +1527,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anhang 2 Explosivstoffe gemäß § 4 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/cw_v/BJNR179400996.html#BJNR179400996BJNE001800310)
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 1802 - 1803
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wozsenkv_1986/BJNR017270986.html#BJNR017270986BJNE000100325)
 
 Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in
 der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1284) und
@@ -28,6 +29,7 @@ Bundesrates:
 
 
 ## § 1 Senkung des Zinssatzes
+[Direktlink](https://www.gesetze-im-internet.de/wozsenkv_1986/BJNR017270986.html#BJNR017270986BJNE000200325)
 
 Ist der Zinssatz für Baudarlehen und Annuitätsdarlehen aus
 Wohnungsfürsorgemitteln durch die Erste Wohnungsfürsorge-
@@ -37,6 +39,7 @@ Hundert herabgesetzt.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wozsenkv_1986/BJNR017270986.html#BJNR017270986BJNE000300325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes auch im Land
@@ -44,6 +47,7 @@ Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wozsenkv_1986/BJNR017270986.html#BJNR017270986BJNE000400325)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1986 in Kraft.
 

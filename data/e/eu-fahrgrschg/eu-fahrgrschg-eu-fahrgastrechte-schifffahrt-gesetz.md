@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 10 G v. 30.11.2019 I 1942
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000100000)
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1177/2010
 des Europäischen Parlaments und des Rates vom 24. November 2010 über
@@ -26,12 +27,14 @@ der Verordnung (EG) Nr. 2006/2004 (ABl. L 334 vom 17.12.2010, S. 1).
 
 
 ## § 2 Aufgaben des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000200000)
 
 Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet
 des See- und Binnenschiffsverkehrs.
 
 
 ## § 3 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000300000)
 
 (1) Zuständige Behörde für die Durchsetzung der Verordnung (EU) Nr.
 1177/2010 ist das Eisenbahn-Bundesamt.
@@ -43,6 +46,7 @@ Nr. 1177/2010 nach Artikel 25 Absatz 3 Satz 1 der Verordnung (EU) Nr.
 
 
 ## § 4 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000401126)
 
 (1) Soweit es zur Durchführung der Verordnung (EU) Nr. 1177/2010
 erforderlich ist, kann die zuständige Behörde die notwendigen
@@ -104,6 +108,7 @@ durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu
 
 
 ## § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000500000)
 
 Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber,
 die nach Gesetz oder Satzung zu deren Vertretung berufenen Personen
@@ -126,6 +131,7 @@ Personen die in Betracht kommenden Räume zu öffnen.
 
 
 ## § 6 Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000602124)
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im See- und
 Binnenschiffsverkehr kann der Fahrgast eine geeignete
@@ -182,9 +188,11 @@ Verbraucherstreitbeilegungsgesetz erfüllen.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000704123)
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000805123)
 
 Zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr
 nach der Verordnung (EU) Nr. 1177/2010 wird das Bundesministerium für
@@ -212,6 +220,7 @@ Bundesrates
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschg/BJNR245410012.html#BJNR245410012BJNE000901305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union

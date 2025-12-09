@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Grundsätze der Finanzbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000200307)
 
 (1) Die aus der Wirtschaftstätigkeit bis zum 30. Juni 1990 nach den in
 § 2 genannten Vorschriften in der ehemaligen Deutschen Demokratischen
@@ -94,6 +96,7 @@ Rechtsnachfolge nach dem 24. Juni 1992 stattgefunden hat. In allen
 
 
 ## § 2 Vorschriften im Sinne des § 1
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000300307)
 
 Vorschriften im Sinne des § 1 Abs. 1 sind die folgenden Bestimmungen
 der ehemaligen Deutschen Demokratischen Republik:
@@ -223,6 +226,7 @@ der ehemaligen Deutschen Demokratischen Republik:
 
 
 ## § 3 Bilanzrechtliche Folgen
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000400307)
 
 Sind Forderungen und Verbindlichkeiten im Sinne des § 1 in einer gemäß
 § 1 D-Markbilanzgesetz aufzustellenden Eröffnungsbilanz ausgewiesen,
@@ -233,6 +237,7 @@ D-Markbilanzgesetz ist entsprechend anzuwenden.
 
 
 ## § 4 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000500307)
 
 (1) Der Antrag gemäß § 1 Abs. 3 darf nicht mit Bedingungen versehen
 werden. Er kann nicht zurückgenommen werden. Er ist an den
@@ -269,6 +274,7 @@ Unternehmen zu ihrer Erfüllung verpflichtet.
 
 
 ## § 5 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000600307)
 
 (1) Die aus Einzelabwicklungen nach § 1 Abs. 3 und § 4 entstehenden
 Ausgaben leistet der Bund vorbehaltlich des Ausgleichs nach den
@@ -333,6 +339,7 @@ Absatz 2 Satz 1 genannten Länder davon einen Anteil nach dem in Absatz
 
 
 ## § 6 Von der Anwendung des Gesetzes ausgeschlossene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000700307)
 
 Dieses Gesetz findet keine Anwendung auf Geldinstitute,
 Außenhandelsbetriebe und Versicherungsunternehmen im Sinne des § 38
@@ -347,6 +354,7 @@ haben.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finberg_ddr/BJNR046300993.html#BJNR046300993BJNE000800307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1
@@ -35,17 +36,20 @@ im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000200000)
 
 Der Ausbildungsberuf Kaufmann für Marketingkommunikation/Kauffrau für
 Marketingkommunikation wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -57,6 +61,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -171,6 +176,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000600000)
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den
 in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und
@@ -182,12 +188,14 @@ Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000800000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -197,6 +205,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -228,6 +237,7 @@ durchzuführen:
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -382,6 +392,7 @@ so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -390,6 +401,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
@@ -398,6 +410,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 
 ## Anlage 1 - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE001300000)
 
 (Fundstelle: BGBl. I 2006, 811 - 815)
 
@@ -1110,6 +1123,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 Marketingkommunikation/zur Kauffrau für Marketingkommunikation
 
 ## Anlage 2 - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/marketkfmausbv/BJNR080800006.html#BJNR080800006BJNE001400000)
 
 (Fundstelle: BGBl. I 2006, 816 - 817)
 

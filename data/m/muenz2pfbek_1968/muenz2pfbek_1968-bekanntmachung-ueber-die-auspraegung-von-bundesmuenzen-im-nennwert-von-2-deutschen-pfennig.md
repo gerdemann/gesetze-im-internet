@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2pfbek_1968/BJNR013160968.html#BJNR013160968BJNE000100307)
 
 (1) Der Absatz 2 der Bekanntmachung über die Ausprägung von
 Bundesmünzen im Nennwert von 2 Deutschen Pfennig vom 8. September 1950

@@ -27,9 +27,11 @@ Verpackungen und Verpackungsabfälle (ABl. L 365 vom 31.12.1994, S.
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000100000)
 
 
 ### § 1 Abfallwirtschaftliche Ziele
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000103125)
 
 (1) Dieses Gesetz legt Anforderungen an die Produktverantwortung nach
 § 23 des Kreislaufwirtschaftsgesetzes für Verpackungen fest. Es
@@ -88,6 +90,7 @@ notwendigen Erhebungen durch und veranlasst die Information der
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000201125)
 
 (1) Dieses Gesetz gilt für alle Verpackungen.
 
@@ -116,6 +119,7 @@ Abfällen zu verpflichten, bleibt unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000304116)
 
 (1) Verpackungen sind aus beliebigen Materialien hergestellte
 Erzeugnisse zur Aufnahme, zum Schutz, zur Handhabung, zur Lieferung
@@ -365,6 +369,7 @@ die nicht chemisch modifiziert wurden.
 
 
 ### § 4 Allgemeine Anforderungen an Verpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000402125)
 
 Verpackungen sind so zu entwickeln, herzustellen und zu vertreiben,
 dass
@@ -401,6 +406,7 @@ dass
 
 
 ### § 5 Beschränkungen des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000502125)
 
 (1) Das Inverkehrbringen von Verpackungen oder
 Verpackungsbestandteilen, bei denen die Konzentration von Blei,
@@ -448,6 +454,7 @@ in der jeweils geltenden Fassung bleiben unberührt.
 
 
 ### § 6 Kennzeichnung zur Identifizierung des Verpackungsmaterials
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000600000)
 
 Verpackungen können zur Identifizierung des Materials, aus dem sie
 hergestellt sind, mit den in der Anlage 5 festgelegten Nummern und
@@ -457,9 +464,11 @@ der gleichen Materialien ist nicht zulässig.
 
 
 ## Abschnitt 2 - Inverkehrbringen von systembeteiligungspflichtigen Verpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000200000)
 
 
 ### § 7 Systembeteiligungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000702125)
 
 (1) Hersteller von systembeteiligungspflichtigen Verpackungen haben
 sich mit diesen Verpackungen zur Gewährleistung der flächendeckenden
@@ -538,6 +547,7 @@ Versandverpackungen als Hersteller nach Absatz 1 Satz 1.
 
 
 ### § 8 Branchenlösung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000802116)
 
 (1) Die Pflicht eines Herstellers nach § 7 Absatz 1 entfällt, soweit
 er die von ihm in Verkehr gebrachten systembeteiligungspflichtigen
@@ -619,6 +629,7 @@ die Leistung einer Sicherheit entsprechend § 18 Absatz 4 verlangen.
 
 
 ### § 9 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE000902125)
 
 (1) Hersteller von mit Ware befüllten Verpackungen sind verpflichtet,
 sich vor dem Inverkehrbringen der Verpackungen bei der Zentralen
@@ -709,6 +720,7 @@ Absatz 1 registriert sind.
 
 
 ### § 10 Datenmeldung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001001125)
 
 (1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, die im
 Rahmen einer Systembeteiligung getätigten Angaben zu den Verpackungen
@@ -745,6 +757,7 @@ sich auf ihr System beziehenden Datenmeldungen elektronisch abzurufen.
 
 
 ### § 11 Vollständigkeitserklärung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001101125)
 
 (1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, jährlich
 bis zum 15. Mai eine Erklärung über sämtliche von ihnen im
@@ -829,6 +842,7 @@ hinterlegen ist.
 
 
 ### § 12 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001201125)
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht für Verpackungen,
 die nachweislich nicht im Geltungsbereich dieses Gesetzes an
@@ -851,9 +865,11 @@ nicht für
 
 
 ## Abschnitt 3 - Sammlung, Rücknahme und Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000300000)
 
 
 ### § 13 Getrennte Sammlung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001300000)
 
 Beim privaten Endverbraucher als Abfall anfallende restentleerte
 Verpackungen sind, unbeschadet der Vorgaben nach der
@@ -862,6 +878,7 @@ getrennten Sammlung gemäß den nachfolgenden Vorschriften zuzuführen.
 
 
 ### § 14 Pflichten der Systeme zur Sammlung, Verwertung und Information
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001402125)
 
 (1) Die Systeme sind verpflichtet, im Einzugsgebiet der beteiligten
 Hersteller eine vom gemischten Siedlungsabfall getrennte,
@@ -931,6 +948,7 @@ ein Geschäftsgeheimnis handelt.
 
 
 ### § 15 Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001502125)
 
 (1) Hersteller und in der Lieferkette nachfolgende Vertreiber von
 
@@ -1023,6 +1041,7 @@ ansässig ist, auf Verlangen vorzulegen.
 
 
 ### § 16 Anforderungen an die Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001602125)
 
 (1) Die Systeme haben die durch die Sammlung nach § 14 Absatz 1
 erfassten restentleerten Verpackungen nach Maßgabe des § 8 Absatz 1
@@ -1124,6 +1143,7 @@ und 2 und der Recyclingquote in Absatz 4 Satz 1.
 
 
 ### § 17 Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001701125)
 
 (1) Die Systeme haben die Verwertung der durch die Sammlung nach § 14
 Absatz 1 Satz 1 erfassten restentleerten Verpackungen kalenderjährlich
@@ -1165,9 +1185,11 @@ nachzureichen.
 
 
 ## Abschnitt 4 - Systeme
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000400000)
 
 
 ### § 18 Genehmigung und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001801125)
 
 (1) Der Betrieb eines Systems bedarf der Genehmigung durch die
 zuständige Landesbehörde. Die Genehmigung wird auf Antrag erteilt,
@@ -1272,6 +1294,7 @@ Selbstkontrolle einzurichten.
 
 
 ### § 19 Gemeinsame Stelle
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE001901125)
 
 (1) Die Systeme haben sich an einer Gemeinsamen Stelle zu beteiligen.
 Die Genehmigung nach § 18 wird unwirksam, wenn ein System sich nicht
@@ -1322,6 +1345,7 @@ Gemeinsame Stelle die kommunalen Spitzenverbände an.
 
 
 ### § 20 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002001125)
 
 (1) Systeme sind verpflichtet, die folgenden Informationen über die
 bei ihnen vorgenommenen oder erwarteten Beteiligungen nach § 7 Absatz
@@ -1393,6 +1417,7 @@ Buchprüfers.
 
 
 ### § 21 Ökologische Gestaltung der Beteiligungsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002101125)
 
 (1) Systeme sind verpflichtet, im Rahmen der Bemessung der
 Beteiligungsentgelte Anreize zu schaffen, um bei der Herstellung von
@@ -1439,6 +1464,7 @@ gesamtökologischen Auswirkungen.
 
 
 ### § 22 Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002200000)
 
 (1) Die Sammlung nach § 14 Absatz 1 ist auf die vorhandenen
 Sammelstrukturen der öffentlich-rechtlichen Entsorgungsträger, in
@@ -1587,6 +1613,7 @@ anzuwenden.
 
 
 ### § 23 Vergabe von Sammelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002300000)
 
 (1) Die Systeme haben die nach § 14 Absatz 1 zu erbringenden
 Sammelleistungen unter Beachtung der Abstimmungsvereinbarungen nach §
@@ -1749,9 +1776,11 @@ bis 8, § 49, § 53 Absatz 7 bis 9, die §§ 56 und 57, § 60 Absatz 1 bis
 
 
 ## Abschnitt 5 - Zentrale Stelle
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000500000)
 
 
 ### § 24 Errichtung und Rechtsform; Stiftungssatzung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002402125)
 
 (1) Hersteller von systembeteiligungspflichtigen Verpackungen sowie
 Vertreiber von noch nicht befüllten Verkaufs- oder Umverpackungen oder
@@ -1817,6 +1846,7 @@ sinkt.
 
 
 ### § 25 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002501125)
 
 (1) Die Systeme und Betreiber von Branchenlösungen sind verpflichtet,
 sich gemäß ihrem jeweiligen Marktanteil an der Finanzierung der
@@ -1872,6 +1902,7 @@ einer Höhe von drei Monatsumlagen.
 
 
 ### § 26 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002604130)
 
 (1) Die Zentrale Stelle ist mit der Wahrnehmung der in Satz 2
 aufgeführten hoheitlichen Aufgaben beliehen. Die Zentrale Stelle
@@ -2152,6 +2183,7 @@ vermitteln.
 
 
 ### § 27 Registrierung von Sachverständigen und sonstigen Prüfern
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002701130)
 
 (1) Die Zentrale Stelle nimmt Sachverständige, die ihr gegenüber
 anzeigen, dass sie beabsichtigen, Prüfungen nach § 8 Absatz 1 Satz 2,
@@ -2188,6 +2220,7 @@ Einwegkunststofffondsgesetz verstoßen hat.
 
 
 ### § 28 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002801116)
 
 (1) Organe der Zentralen Stelle sind
 
@@ -2302,6 +2335,7 @@ Weise veröffentlichen. Er setzt sich zusammen aus
 
 
 ### § 29 Aufsicht und Finanzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE002900000)
 
 (1) Die Zentrale Stelle untersteht hinsichtlich der ihr nach § 26
 Absatz 1 übertragenen Aufgaben der Rechts- und Fachaufsicht des
@@ -2331,6 +2365,7 @@ Umweltbundesamt über.
 
 
 ### § 30 Teilweiser Ausschluss des Widerspruchsverfahrens und der aufschiebenden Wirkung der Anfechtungsklage; Widerspruchsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003000000)
 
 (1) Vor Erhebung einer Anfechtungsklage gegen Verwaltungsakte nach §
 26 Absatz 1 Satz 2 Nummer 14 bis 16 findet ein Widerspruchsverfahren
@@ -2343,9 +2378,11 @@ Umweltbundesamt.
 
 
 ## Abschnitt 6 - Getränkeverpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000601125)
 
 
 ### § 30a Mindestrezyklatanteil bei bestimmten Einwegkunststoffgetränkeflaschen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004300125)
 
 (1) Hersteller von Einwegkunststoffgetränkeflaschen, die hauptsächlich
 aus Polyethylenterephthalat bestehen, dürfen diese Flaschen ab dem 1.
@@ -2393,6 +2430,7 @@ Einwegkunststoffgetränkeflaschen,
 
 
 ### § 31 Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003102125)
 
 (1) Hersteller von mit Getränken befüllten Einweggetränkeverpackungen
 sind verpflichtet, von ihren Abnehmern ein Pfand in Höhe von
@@ -2543,6 +2581,7 @@ Mechanismen zur Selbstkontrolle einzurichten.
 
 
 ### § 32 Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003202130)
 
 (1) Letztvertreiber von mit Getränken befüllten
 Einweggetränkeverpackungen, die gemäß § 31 Absatz 1 Satz 1 der
@@ -2580,9 +2619,11 @@ Pflicht zur Angabe des Grundpreises befreit sind.
 
 
 ## Abschnitt 7 - Minderung des Verbrauchs bestimmter Einwegverpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000800125)
 
 
 ### § 33 Mehrwegalternative für Einwegkunststofflebensmittelverpackungen und Einweggetränkebecher
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004400125)
 
 (1) Letztvertreiber von Einwegkunststofflebensmittelverpackungen und
 von Einweggetränkebechern, die jeweils erst beim Letztvertreiber mit
@@ -2610,6 +2651,7 @@ diejenigen Mehrwegverpackungen, die sie in Verkehr gebracht haben.
 
 
 ### § 34 Erleichterungen für kleine Unternehmen und Verkaufsautomaten
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004500125)
 
 (1) Letztvertreiber nach § 33 Absatz 1 Satz 1 mit insgesamt nicht mehr
 als fünf Beschäftigten, deren Verkaufsfläche 80 Quadratmeter nicht
@@ -2639,9 +2681,11 @@ verwendeten Darstellungsmedien entsprechend zu geben.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNG000701125)
 
 
 ### § 35 Beauftragung Dritter und Bevollmächtigung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003301125)
 
 (1) Die nach diesem Gesetz Verpflichteten können Dritte mit der
 Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des
@@ -2661,6 +2705,7 @@ deutscher Sprache zu erfolgen.
 
 
 ### § 36 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003403125)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2814,6 +2859,7 @@ Behörde.
 
 
 ### § 37 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004600125)
 
 Ist eine Ordnungswidrigkeit nach § 36 Absatz 1 begangen worden, so
 können
@@ -2831,6 +2877,7 @@ anzuwenden.
 
 
 ### § 38 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003501125)
 
 (1) Systeme, die zum 1. Januar 2019 gemäß § 6 Absatz 5 Satz 1 der
 Verpackungsverordnung bereits wirksam festgestellt sind, gelten auch
@@ -2896,6 +2943,7 @@ erhoben werden muss.
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Verpackungskriterien und -beispiele
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003700000)
 
 (Fundstelle: BGBl. I 2017, 2252 - 2253)
 
@@ -3127,6 +3175,7 @@ erhoben werden muss.
 (zu § 3 Absatz 7)
 
 ### Anlage 2 Schadstoffhaltige Füllgüter im Sinne von § 3 Absatz 7
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003802125)
 
 (Fundstelle: BGBl. I 2017, 2254)
 
@@ -3167,6 +3216,7 @@ erhoben werden muss.
 (zu § 5 Absatz 1 Satz 2 Nummer 2)
 
 ### Anlage 3 Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE003901116)
 
 (Fundstelle: BGBl. I 2017, 2255)
 
@@ -3278,6 +3328,7 @@ erhoben werden muss.
 (zu § 5 Absatz 1 Satz 2 Nummer 4)
 
 ### Anlage 4 Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004001116)
 
 (Fundstelle: BGBl. I 2017, 2256)
 
@@ -3336,6 +3387,7 @@ erhoben werden muss.
 (zu § 6)
 
 ### Anlage 5 Kennzeichnung von Verpackungen
+[Direktlink](https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html#BJNR223410017BJNE004101125)
 
 (Fundstelle: BGBl. I 2017, 2257 - 2259)
 

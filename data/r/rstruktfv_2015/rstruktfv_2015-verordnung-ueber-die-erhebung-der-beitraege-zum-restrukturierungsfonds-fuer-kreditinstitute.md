@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 660-8-1 v. 20.7.2011 I 1406 (RStruktFV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000100000)
 
 Auf Grund des § 12g des Restrukturierungsfondsgesetzes, der durch
 Artikel 3 Nummer 15 des Gesetzes vom 10. Dezember 2014 (BGBl. I S.
@@ -28,6 +29,7 @@ Artikel 3 Nummer 15 des Gesetzes vom 10. Dezember 2014 (BGBl. I S.
 
 
 ## § 1 Jahresbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000200000)
 
 (1) Der Jahresbeitrag gemäß § 12b des Restrukturierungsfondsgesetzes
 für Institute im Sinne des § 2 Satz 1 Nummer 2 des
@@ -155,6 +157,7 @@ nach Absatz 3 gilt § 3 Absatz 1 und 2 entsprechend.
 
 
 ## § 2 Jahresbeiträge kleiner Institute
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000301301)
 
 (1) Die nach § 2 Satz 1 Nummer 1 und 2 des
 Restrukturierungsfondsgesetzes beitragspflichtigen Institute, mit
@@ -196,6 +199,7 @@ treffen.
 
 
 ## § 3 Jährliche Grundbeiträge nach der Delegierten Verordnung (EU) Nr. 2015/63
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000401301)
 
 (1) Solange und soweit einzelne Daten aus Anhang II der Delegierten
 Verordnung (EU) Nr. 2015/63, die für die Ermittlung der jährlichen
@@ -250,6 +254,7 @@ Kreditwesengesetzes in der zum 31. Dezember 2013 geltenden Fassung.
 
 
 ## § 4 Risikofelder und Risikoindikatoren nach Artikel 6 der Delegierten Verordnung (EU) Nr. 2015/63
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000501301)
 
 (1) Solange und soweit einzelne Daten aus Anhang II der Delegierten
 Verordnung (EU) Nr. 2015/63, die für die Ermittlung der Risikofelder
@@ -335,6 +340,7 @@ Artikel 5 Absatz 1 Buchstabe f der Delegierten Verordnung (EU) Nr.
 
 
 ## § 5 Von der Abwicklungsbehörde zu bestimmende zusätzliche Risikoindikatoren
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000601301)
 
 (1) Die nach Artikel 6 Absatz 1 Buchstabe d der Delegierten Verordnung
 (EU) Nr. 2015/63 von der Abwicklungsbehörde als Abwicklungsbehörde zu
@@ -509,6 +515,7 @@ Fällen wird der minimale Wert der Bandbreite angesetzt.
 
 
 ## § 6 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000701301)
 
 (1) Die nach § 2 Satz 1 Nummer 1 und 2 des
 Restrukturierungsfondsgesetzes beitragspflichtigen Institute, mit
@@ -640,6 +647,7 @@ Absatz 4 und 5 sowie Artikel 20 Absatz 3 der Delegierten Verordnung
 
 
 ## § 7 Sonderbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000800000)
 
 Sind von den in § 1 Absatz 1 und 2 genannten Instituten Sonderbeiträge
 zu erheben, erfolgt ihre Berechnung nach Maßgabe von § 12c Absatz 3
@@ -648,6 +656,7 @@ Jahresbeiträge der jeweiligen Institute nach § 1 Absatz 3.
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE000900000)
 
 Diese Verordnung gilt ab dem Beitragszeitraum 2015. Ab dem
 Beitragszeitraum 2016 gilt sie nur noch für diejenigen nach § 2 des
@@ -663,6 +672,7 @@ berechnet werden.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Restrukturierungsfonds-Verordnung vom 20. Juli
@@ -671,6 +681,7 @@ Gleichzeitig tritt die Restrukturierungsfonds-Verordnung vom 20. Juli
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rstruktfv_2015/BJNR126800015.html#BJNR126800015BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

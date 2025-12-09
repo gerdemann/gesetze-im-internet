@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000100000)
 
 Dieses Gesetz dient der Durchführung eines Sonderprogramms für
 Milchviehhalter mit
@@ -46,6 +47,7 @@ nach Maßgabe der folgenden Vorschriften.
 
 
 ## § 2 Durchführung von Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000200000)
 
 (1) Dieses Gesetz dient
 
@@ -92,6 +94,7 @@ Marktorganisationsgesetzes mit den Maßgaben, dass
 
 
 ## § 3 Milcherzeuger
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000300000)
 
 (1) Milcherzeuger im Sinne dieses Gesetzes ist, wer
 
@@ -139,6 +142,7 @@ hat.
 
 
 ## § 4 Weitere Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000401301)
 
 (1) Grünland im Sinne dieses Gesetzes ist
 
@@ -217,6 +221,7 @@ oder der sonstigen außergewöhnlichen Umstände.
 
 
 ## § 5 Grünlandprämie
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000501377)
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011
 jeweils den Grundbetrag der Grünlandprämie für die nach Maßgabe des
@@ -258,6 +263,7 @@ der Grünlandprämie je Hektar zu ermöglichen.
 
 
 ## § 6 Zusätzliche Grünlandprämie
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000601377)
 
 (1) Jedem Betriebsinhaber im Sinne des Artikels 2 Buchstabe a der
 Verordnung (EG) Nr. 73/2009, der
@@ -361,6 +367,7 @@ Hektar im Bundesanzeiger bekannt.
 
 
 ## § 7 Kuhprämie
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000700000)
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011
 jeweils nach Maßgabe des Absatzes 2 eine Kuhprämie bis zur Höhe der
@@ -395,12 +402,14 @@ Vorbehalt der Nachprüfung für Steuern im Sinne des § 169 Absatz 2 Satz
 
 
 ## § 8 Aufbringen der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000800000)
 
 Der Bund trägt die Geldleistungen für die in § 1 Nummer 1 Buchstabe b
 und Nummer 3 genannten Prämien.
 
 
 ## § 9 Weitere Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE000900000)
 
 (1) Das Bundesministerium wird ermächtigt, um den Ergänzungsbetrag der
 Grünlandprämie und die Kuhprämie sachgerecht durchzuführen, durch
@@ -424,6 +433,7 @@ vorgeschrieben werden.
 
 
 ## § 10 Weitere Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE001000000)
 
 Soweit nicht nach § 2 Absatz 2 das Marktorganisationsgesetz anzuwenden
 ist, gelten die §§ 10, 11, 14 und 33 Absatz 1 und 2 des
@@ -431,6 +441,7 @@ Marktorganisationsgesetzes entsprechend.
 
 
 ## § 11 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE001100000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -451,6 +462,7 @@ Euro geahndet werden.
 
 
 ## Anlage (zu § 4 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/milchsoprg/BJNR041010010.html#BJNR041010010BJNE001300000)
 
 (Fundstelle: BGBl. I 2010, 414 - 415)
 

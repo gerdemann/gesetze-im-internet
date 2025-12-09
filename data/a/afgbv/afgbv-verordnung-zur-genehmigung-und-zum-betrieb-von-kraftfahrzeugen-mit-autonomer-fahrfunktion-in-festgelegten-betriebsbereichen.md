@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich; Regelungsgegenstand und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000100000)
 
 (1) Diese Verordnung ist anzuwenden
 
@@ -89,6 +90,7 @@ unberührt.
 
 
 ## § 2 Betriebserlaubnis; Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000200000)
 
 (1) Für den Betrieb eines Kraftfahrzeugs mit autonomer Fahrfunktion in
 festgelegten Betriebsbereichen im öffentlichen Straßenraum ist eine
@@ -107,6 +109,7 @@ erteilt.
 
 
 ## § 3 Antrag auf Erteilung der Betriebserlaubnis durch den Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000300000)
 
 (1) Der Hersteller hat die Betriebserlaubnis für Kraftfahrzeuge mit
 autonomer Fahrfunktion beim Kraftfahrt-Bundesamt zu beantragen.
@@ -247,6 +250,7 @@ Kollisionen nach dem Stand der Technik
 
 
 ## § 4 Erteilung der Betriebserlaubnis; Erteilung der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000400000)
 
 (1) Die Betriebserlaubnis für Kraftfahrzeuge mit autonomer
 Fahrfunktion wird vom Kraftfahrt-Bundesamt erteilt, wenn
@@ -310,6 +314,7 @@ technischen Anforderungen vorliegen.
 
 
 ## § 5 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000500000)
 
 (1) Das Kraftfahrt-Bundesamt führt die Aufgaben der Marktüberwachung
 durch hinsichtlich der nach dieser Verordnung zu genehmigenden und
@@ -360,6 +365,7 @@ Fahrfunktion sind verpflichtet,
 
 
 ## § 6 Widerruf und Ruhen der Betriebserlaubnis; Widerruf und Ruhen der Genehmigung der nachträglichen Aktivierung automatisierter oder autonomer Fahrfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000600000)
 
 (1) Das Kraftfahrt-Bundesamt hat eine nach § 4 Absatz 1 erteilte
 Betriebserlaubnis zu widerrufen, wenn
@@ -445,6 +451,7 @@ erteilte Betriebserlaubnis
 
 
 ## § 7 Festlegung eines Betriebsbereichs durch Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000700000)
 
 (1) Kraftfahrzeuge mit autonomer Fahrfunktion dürfen im öffentlichen
 Straßenraum nur in einem nach Absatz 2 festgelegten und genehmigten
@@ -468,6 +475,7 @@ Betriebsbereichs zu Grunde lagen, nicht verändern.
 
 
 ## § 8 Antrag auf Genehmigung durch den Halter
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000800000)
 
 (1) Der Antrag auf Genehmigung eines festgelegten Betriebsbereichs
 muss enthalten:
@@ -528,6 +536,7 @@ festgelegten Betriebsbereichs erforderlich ist.
 
 
 ## § 9 Genehmigungserteilung; Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE000900000)
 
 (1) Die Genehmigung nach § 7 Absatz 2 Satz 2 wird erteilt, wenn
 
@@ -633,6 +642,7 @@ Kenntnis.
 
 
 ## § 10 Widerruf und Ruhen der Genehmigung eines festgelegten Betriebsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001000000)
 
 (1) Die zuständige Behörde hat die nach § 9 erteilte Genehmigung zu
 widerrufen, wenn die zuständige Behörde Kenntnis erlangt, dass
@@ -698,6 +708,7 @@ erteilte Genehmigung des festgelegten Betriebsbereichs
 
 
 ## § 11 Maßgaben zur Anwendung der Fahrzeug-Zulassungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001101119)
 
 (1) Für die Zulassung von Kraftfahrzeugen mit autonomer Fahrfunktion
 zum Verkehr in festgelegten Betriebsbereichen ist die Fahrzeug-
@@ -761,6 +772,7 @@ lassen.
 
 
 ## § 12 Anforderungen an den Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001200000)
 
 (1) Der Hersteller eines Kraftfahrzeugs mit autonomer Fahrfunktion hat
 
@@ -825,6 +837,7 @@ darf ein Kraftfahrzeug ohne gültige Betriebserlaubnis nach § 2 Absatz
 
 
 ## § 13 Anforderungen an den Halter
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001300000)
 
 (1) Der Halter hat zur Erfüllung der Pflichten nach
 § 1f Absatz 1 des Straßenverkehrsgesetzes während des Betriebs des
@@ -975,6 +988,7 @@ Fahrfunktionen nicht vornehmen.
 
 
 ## § 14 Anforderungen an die Technische Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001400000)
 
 (1) Die als Technische Aufsicht eingesetzte natürliche Person muss für
 die Wahrnehmung ihrer Aufgaben nach § 1f Absatz 2 des
@@ -1058,6 +1072,7 @@ Fahrdaten.
 
 
 ## § 15 Datenspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001500000)
 
 (1) Für den Betrieb eines Kraftfahrzeugs mit autonomer Fahrfunktion
 regelt Anlage 2 zu dieser Verordnung Näheres zu den genauen
@@ -1072,6 +1087,7 @@ verwendet werden.
 
 
 ## § 16 Erprobungsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001601119)
 
 (1) Kraftfahrzeuge, die zur Erprobung von Fahrzeugsystemen oder
 -teilen und deren Entwicklungsstufen für die Entwicklung
@@ -1219,6 +1235,7 @@ Zulassungsverordnung sowie § 11 sind nicht anzuwenden.
 
 
 ## § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001700000)
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -1247,6 +1264,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001801119)
 
 Können im Rahmen des Zulassungsverfahrens nach § 11 in Verbindung mit
 § 6 Absatz 8 der Fahrzeug-Zulassungsverordnung und der Erteilung der
@@ -1260,6 +1278,7 @@ innerhalb von sechs Kalendermonaten nach dem 1. Juli 2022 nachzuholen.
 
 
 ## Anlage 1 Anforderungen an Kraftfahrzeuge mit autonomer Fahrfunktion
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE001900000)
 
 (Fundstelle: BGBl. I 2022, 996 - 1006)
 
@@ -2398,6 +2417,7 @@ Anforderungen
 
 
 ## Anlage 2 Datenspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE002000000)
 
 (Fundstelle: BGBl. I 2022, 1007)
 
@@ -2538,6 +2558,7 @@ autonomer Fahrfunktion folgende Daten zu erfassen.
 
 
 ## Anlage 3 Dokumentationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/afgbv/BJNR098610022.html#BJNR098610022BJNE002100000)
 
 (Fundstelle: BGBl. I 2022, 1008)
 

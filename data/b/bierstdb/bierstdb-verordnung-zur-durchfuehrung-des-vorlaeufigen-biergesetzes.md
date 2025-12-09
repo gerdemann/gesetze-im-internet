@@ -26,10 +26,12 @@ V aufgeh. mit ausnahme der bezeichnung der v, der §§ 3, 8 satz 2 bis 4, der §
 
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE012700301)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE006201301)
 
 Das Biersteuergesetz gilt in Bayern und im Gebiet der ehemaligen
 Länder Württemberg und Baden nach Maßgabe der Gesetze vom 27. März
@@ -39,10 +41,12 @@ S. 94) geänderten Fassung.
 
 
 ## (XXXX) §§ 4 bis 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE012800301)
 
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE006702301)
 
 Der Stammwürzegehalt des Bieres ist der Gehalt der ungegorenen
 Anstellwürze, aus der das Bier hergestellt ist oder nach seiner
@@ -54,10 +58,12 @@ dabei nicht berücksichtigt.
 
 
 ## (XXXX) §§ 9 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE012900301)
 
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE007701301)
 
 Die Ausdrücke "Bereitung von Bier" und "Bierbereitung" sind im
 weitesten Sinn zu verstehen. Sie umfassen alle Teile der Herstellung
@@ -67,6 +73,7 @@ an den Verbraucher.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE007805123)
 
 (1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des
 Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und
@@ -89,6 +96,7 @@ nicht als Getreide im Sinne des § 9 Abs. 3 des Gesetzes.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE007901301)
 
 Rüben-, Rohr- oder Invertzucker ist technisch rein, wenn er mindestens
 99,5 Gewichtshundertteile Zucker, bezogen auf den Trockenstoff,
@@ -98,6 +106,7 @@ verwenden.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE008001301)
 
 Wasser im Sinne des § 9 Abs. 1 des Gesetzes ist alles in der Natur
 vorkommende, gesundheitlich unbedenkliche Wasser sowie solches Wasser,
@@ -109,6 +118,7 @@ werden.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE008103301)
 
 (1) Die Verwendung von Rückständen, die bei der Bereitung obergärigen
 Bieres verbleiben, zu dem anderes Malz als Gerstenmalz oder zu dem
@@ -123,6 +133,7 @@ nicht zulässig.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE008201301)
 
 Als obergärig gelten die mit obergäriger, Auftrieb gebender Hefe
 hergestellten, als untergärig die mit untergäriger, ausschließlich zu
@@ -130,6 +141,7 @@ Boden gehender Hefe bereiteten Biere.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/bierstdb/BJNR701350931.html#BJNR701350931BJNE008303301)
 
 (1) Zucker und aus Zucker hergestellte Farbmittel (gebräunter Zucker)
 dürfen nur bei der Bereitung von solchem Bier verwendet werden, dessen

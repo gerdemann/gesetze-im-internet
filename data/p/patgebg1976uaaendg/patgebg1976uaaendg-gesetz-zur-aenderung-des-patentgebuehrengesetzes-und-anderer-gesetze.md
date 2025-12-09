@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/patgebg1976ua_ndg/BJNR173900994.html#BJNR173900994BJNE000100307)
 
 
 ## Art 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/patgebg1976ua_ndg/BJNR173900994.html#BJNR173900994BJNE000200307)
 
 Die durch Artikel 2 Nr. 1 eingeführte Auskunftspflicht des Händlers (§
 54g Abs. 1 des Urheberrechtsgesetzes) erstreckt sich auf die seit dem
@@ -28,6 +30,7 @@ Die durch Artikel 2 Nr. 1 eingeführte Auskunftspflicht des Händlers (§
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/patgebg1976ua_ndg/BJNR173900994.html#BJNR173900994BJNE000300307)
 
 Artikel 1 tritt am 1. Oktober 1994 in Kraft; im übrigen tritt dieses
 Gesetz am 1. August 1994 in Kraft.

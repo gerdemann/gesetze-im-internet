@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35hkgbek/BJNR006000962.html#BJNR006000962BJNE000100306)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
 9\. Mai 1961 (Bundesgesetzbl. I S. 574) wird gemäß einer Erklärung des
@@ -28,6 +29,7 @@ zugelassen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35hkgbek/BJNR006000962.html#BJNR006000962BJNE000200306)
 
 Der Bundesminister der Justiz
 

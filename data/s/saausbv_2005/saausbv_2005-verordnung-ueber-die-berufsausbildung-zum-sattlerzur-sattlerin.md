@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -35,6 +36,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000200000)
 
 Der Ausbildungsberuf Sattler/Sattlerin wird
 
@@ -51,6 +53,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000300000)
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -68,6 +71,7 @@ gewählt werden.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass
@@ -80,6 +84,7 @@ bis 11 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -179,6 +184,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -190,6 +196,7 @@ erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -197,6 +204,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -205,6 +213,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -230,6 +239,7 @@ Wirtschaftlichkeit berücksichtigen kann.
 
 
 ## § 9 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Fahrzeugsattlerei
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001000000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -375,6 +385,7 @@ erbracht werden.
 
 
 ## § 10 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Reitsportsattlerei
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001100000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -520,6 +531,7 @@ erbracht werden.
 
 
 ## § 11 Abschlussprüfung/Gesellenprüfung in der Fachrichtung Feintäschnerei
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001200000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -663,6 +675,7 @@ erbracht werden.
 
 
 ## § 11a Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001201308)
 
 Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für
 Lederverarbeitung nach der Verordnung über die Berufsausbildung zur
@@ -672,6 +685,7 @@ Sattlerin um ein Jahr verkürzt werden.
 
 
 ## § 12 Nichtanwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001300000)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
@@ -680,6 +694,7 @@ Täschner/Täschnerin sind vorbehaltlich des § 13 nicht mehr anzuwenden.
 
 
 ## § 13 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001400000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -688,6 +703,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 13a Weitere Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001700308)
 
 Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli 2011
 begründet wurden, können unter Anrechnung der bisher zurückgelegten
@@ -696,12 +712,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001500000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
+[Direktlink](https://www.gesetze-im-internet.de/saausbv_2005/BJNR091300005.html#BJNR091300005BJNE001601308)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 918 - 923;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

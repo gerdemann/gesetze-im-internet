@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pehrlinstzustv/BJNR148700996.html#BJNR148700996BJNE000100310)
 
 Auf Grund des § 77 Abs. 4 des Arzneimittelgesetzes in der Fassung der
 Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das
@@ -28,6 +29,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pehrlinstzustv/BJNR148700996.html#BJNR148700996BJNE000201116)
 
 Von der Zuständigkeit des Paul-Ehrlich-Instituts nach § 77 Abs. 2 des
 Arzneimittelgesetzes ausgenommen sind
@@ -45,6 +47,7 @@ Arzneimittelgesetzes ausgenommen sind
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pehrlinstzustv/BJNR148700996.html#BJNR148700996BJNE000300310)
 
 Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach §
 77 Abs. 2 des Arzneimittelgesetzes zuständig für
@@ -61,6 +64,7 @@ Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach §
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pehrlinstzustv/BJNR148700996.html#BJNR148700996BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000100000)
 
 Auf Grund des § 16 Absatz 2 Satz 2 des
 Schwarzarbeitsbekämpfungsgesetzes, der durch Artikel 1 Nummer 11 des
@@ -26,6 +27,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Speicherung von Daten zu Personen, die tätig oder scheinbar tätig sind
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000200000)
 
 (1) Über Arbeitnehmer und Arbeitnehmerinnen, Selbstständige, scheinbar
 tätige sowie scheinbar selbstständige Personen, die von Prüfungen nach
@@ -188,6 +190,7 @@ erforderlich ist:
 
 
 ## § 2 Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000300000)
 
 (1) Über Arbeitgeber, Entleiher und Auftraggeber, die von Prüfungen
 nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes betroffen
@@ -343,6 +346,7 @@ sofern dies zur Aufgabenerfüllung erforderlich ist:
 
 
 ## § 3 Speicherung von Daten zu Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000400000)
 
 (1) Zu Unternehmen können die in den §§ 1 und 2 genannten Daten auch
 dann im zentralen Informationssystem für die Finanzkontrolle
@@ -381,6 +385,7 @@ dies zur Aufgabenerfüllung erforderlich ist:
 
 
 ## § 4 Speicherung von Daten aus Hinweisen
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000500000)
 
 Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu
 Sachverhalten und etwaigen Verstößen mitgeteilt werden, können im
@@ -394,6 +399,7 @@ genannten Daten entsprechen.
 
 
 ## § 5 Speicherung von weiteren Ortsangaben
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000600000)
 
 Im Rahmen von Prüfungen können im zentralen Informationssystem für die
 Finanzkontrolle Schwarzarbeit neben den nach den §§ 1 bis 4
@@ -403,6 +409,7 @@ werden, sofern dies zur Aufgabenerfüllung erforderlich ist.
 
 
 ## § 6 Speicherung von Daten zu Beschuldigten und Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000700000)
 
 Neben den nach den §§ 1, 2 und 3 Absatz 3 speicherbaren Daten können
 im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
@@ -475,6 +482,7 @@ erforderlich ist:
 
 
 ## § 7 Speicherung von Daten zu Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000800000)
 
 Neben den nach den §§ 1, 2 und 3 Absatz 2 speicherbaren Daten können
 im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit
@@ -502,6 +510,7 @@ Aufgabenerfüllung erforderlich ist:
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fksdvo/BJNR177800019.html#BJNR177800019BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

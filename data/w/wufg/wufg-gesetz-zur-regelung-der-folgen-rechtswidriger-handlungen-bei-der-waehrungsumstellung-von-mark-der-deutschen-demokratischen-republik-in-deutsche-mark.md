@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000100307)
 
 (1) Die Prüfbehörde Währungsumstellung wird in das Bundesamt für
 Finanzen eingegliedert, das ihre Aufgaben und Befugnisse übernimmt.
@@ -33,6 +34,7 @@ im Zeitpunkt des Inkrafttretens dieses Gesetzes anhängig sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000200307)
 
 (1) Soweit anläßlich der Währungsumstellung Mark der Deutschen
 Demokratischen Republik rechtswidrig in Deutsche Mark umgestellt
@@ -79,6 +81,7 @@ aufzubewahren.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000300307)
 
 Die zurückzufordernden Beträge sind ab dem Zeitpunkt der
 rechtswidrigen Umstellung nach dem jeweils geltenden Zinssatz für
@@ -88,24 +91,28 @@ verzinsen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000400307)
 
 Die zurückzufordernden Beträge einschließlich der Zinsen sind an den
 Ausgleichsfonds Währungsumstellung zu zahlen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000500307)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 2 haben keine
 aufschiebende Wirkung.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000601308)
 
 Für alle Streitigkeiten nach diesem Gesetz ist das Verwaltungsgericht
 Berlin örtlich zuständig.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wufg/BJNR152210993.html#BJNR152210993BJNE000700307)
 
 Soweit Personen zur Durchführung dieses Gesetzes tätig werden, dürfen
 sie die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen nicht

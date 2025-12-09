@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Aufstellung von Geldspielgeräten
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000102377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001003360)
 
 (1) Ein Spielgerät, bei dem der Gewinn in Geld besteht
 (Geldspielgerät), darf nur aufgestellt werden in
@@ -76,6 +78,7 @@ Zuletzt geändert durch
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001103360)
 
 Ein Spielgerät, bei dem der Gewinn in Waren besteht (Warenspielgerät),
 darf nur aufgestellt werden
@@ -102,6 +105,7 @@ darf nur aufgestellt werden
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001207360)
 
 (1) In Schankwirtschaften, Speisewirtschaften, Beherbergungsbetrieben,
 Wettannahmestellen der konzessionierten Buchmacher nach § 2 des
@@ -133,6 +137,7 @@ Toiletten, Vorräume und Treppen außer Ansatz.
 
 
 ### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001302377)
 
 Der Gewerbetreibende, in dessen Betrieb das Spielgerät aufgestellt
 werden soll, darf die Aufstellung nur zulassen, wenn die
@@ -141,14 +146,17 @@ im Hinblick auf diesen Betrieb erfüllt sind.
 
 
 ## II. - Veranstaltung anderer Spiele
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000202377)
 
 
 
 ### 1. - Erlaubnispflichtige Spiele
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000302377)
 
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001403377)
 
 Die Erlaubnis für die Veranstaltung eines anderen Spieles im Sinne des
 § 33d Abs. 1 Satz 1 der Gewerbeordnung (anderes Spiel), bei dem der
@@ -159,6 +167,7 @@ drei andere Spiele veranstaltet werden.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001503377)
 
 Die Erlaubnis für die Veranstaltung eines anderen Spieles, bei dem der
 Gewinn in Waren besteht, darf nur erteilt werden, wenn das Spiel auf
@@ -170,10 +179,12 @@ Abs. 2 Nr. 2 und 3 genannten Betriebe veranstaltet werden soll. Im
 
 
 ### 2. - Erlaubnisfreie Spiele
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000402377)
 
 
 
 #### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001604377)
 
 Für die Veranstaltung eines anderen Spieles ist die Erlaubnis nach §
 33d Abs. 1 Satz 1 oder § 60a Abs. 2 Satz 2 der Gewerbeordnung nicht
@@ -184,10 +195,12 @@ Voraussetzungen vorliegen.
 
 
 ## III. - Verpflichtungen bei der Ausübung des Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000502377)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001707360)
 
 (1) Der Aufsteller darf nur Geld- oder Warenspielgeräte aufstellen, an
 denen das Zulassungszeichen deutlich sichtbar angebracht ist. Der
@@ -227,6 +240,7 @@ zurückgibt.
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003301377)
 
 Die Aufstellung und der Betrieb von Spielgeräten, die keine
 Bauartzulassung oder Erlaubnis nach den §§ 4, 5, 13 oder 14 erhalten
@@ -249,6 +263,7 @@ nicht mehr als sechs Freispiele gewonnen werden können.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001804360)
 
 (1) Der Aufsteller hat ein Geldspielgerät spätestens 24 Monate nach
 dem im Zulassungszeichen angegebenen Beginn der Aufstellung auf seine
@@ -289,6 +304,7 @@ dem Verkehr zu ziehen,
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE001903360)
 
 (1) Der Aufsteller eines Spielgerätes oder der Veranstalter eines
 anderen Spieles darf am Spiel nicht teilnehmen, andere Personen nicht
@@ -307,6 +323,7 @@ gewähren.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002003377)
 
 (1) Der Aufsteller eines Spielgerätes oder der Veranstalter eines
 anderen Spieles darf dem Spieler für weitere Spiele hinsichtlich der
@@ -326,6 +343,7 @@ gewähren.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002102377)
 
 Der Veranstalter eines anderen Spieles, bei dem der Gewinn in Geld
 besteht, darf Kindern und Jugendlichen, ausgenommen verheirateten
@@ -334,6 +352,7 @@ veranstaltet wird, nicht gestatten.
 
 
 ### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003400360)
 
 (1) Zweck der Unterrichtung ist es, die Aufsteller von Spielgeräten
 mit Gewinnmöglichkeit mit den für die Ausübung des Gewerbes
@@ -362,6 +381,7 @@ dieser Aufgaben ermöglicht.
 
 
 ### § 10b
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003500360)
 
 (1) Die Unterrichtung erfolgt durch die Industrie- und Handelskammer.
 
@@ -376,6 +396,7 @@ teilgenommen hat.
 
 
 ### § 10c
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003600360)
 
 Die Unterrichtung über den Spieler- und Jugendschutz umfasst
 insbesondere die fachspezifischen Pflichten und Befugnisse folgender
@@ -394,6 +415,7 @@ Sachgebiete:
 
 
 ### § 10d
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003700360)
 
 Folgende Prüfungszeugnisse werden als Nachweis der Unterrichtung
 anerkannt:
@@ -412,10 +434,12 @@ anerkannt:
 
 
 ## IV. - Zulassung von Spielgeräten
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000603377)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002803360)
 
 (1) Über den Antrag auf Zulassung der Bauart eines Spielgerätes im
 Sinne des § 33c Abs. 1 Satz 1 der Gewerbeordnung entscheidet die
@@ -429,6 +453,7 @@ verlängert werden.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002906360)
 
 (1) Der Antragsteller hat dem Antrag eine Beschreibung des
 Spielgerätes, einen Bauplan, eine Bedienungsanweisung, eine technische
@@ -497,6 +522,7 @@ erfolgen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002210360)
 
 Die Physikalisch-Technische Bundesanstalt darf die Bauart eines
 Geldspielgerätes nur zulassen, wenn folgende Anforderungen erfüllt
@@ -629,6 +655,7 @@ sind:
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002309360)
 
 (1) Die Physikalisch-Technische Bundesanstalt darf die Bauart eines
 Warenspielgerätes nur zulassen, wenn folgende Anforderungen erfüllt
@@ -656,6 +683,7 @@ sind:
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003004377)
 
 (1) Wird die Bauart eines Spielgerätes zugelassen, so erhält der
 Inhaber der Zulassung einen Zulassungsschein. Für jedes Nachbaugerät
@@ -669,6 +697,7 @@ widerrufen wurde.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003105360)
 
 (1) Der Zulassungsschein enthält
 
@@ -721,13 +750,16 @@ ein Nachbaugerät dieselbe fortlaufende Nummer.
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE003209112)
 
 
 ## V. - Erteilung von Unbedenklichkeitsbescheinigungen für gewerbsmäßig betriebene Ausspielungen
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000704377)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002404377)
 
 Das Bundeskriminalamt und die Landeskriminalämter dürfen die
 Unbedenklichkeitsbescheinigung für gewerbsmäßig betriebene
@@ -738,10 +770,12 @@ Anlage zu § 5a genannte Höhe der Gestehungskosten eines Gewinns nicht
 
 
 ## VI. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000803377)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002510360)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1a der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig in Ausübung
@@ -851,10 +885,12 @@ Reisegewerbes
 
 
 ## VII. - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNG000903377)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002606118)
 
 (1) Geldspielgeräte, deren Bauart von der Physikalisch-Technischen
 Bundesanstalt vor dem 1. Juli 2008 zugelassen worden ist und die nicht
@@ -877,6 +913,7 @@ ist bis zum 30. Juni 2017 vorzulegen.
 
 
 ### Anlage (zu § 5a)
+[Direktlink](https://www.gesetze-im-internet.de/spielv/BJNR001530962.html#BJNR001530962BJNE002706377)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 286
 

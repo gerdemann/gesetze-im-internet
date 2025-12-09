@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv_4/BJNR002810957.html#BJNR002810957BJNE000100325)
 
 Auf Grund des § 182 Abs. 3 des Bundesgesetzes zur Entschädigung für
 Opfer der nationalsozialistischen Verfolgung
@@ -27,6 +28,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/begdv_4/BJNR002810957.html#BJNR002810957BJNE000200325)
 
 (1) Kosten, die den Versicherungseinrichtungen für ihre Mitwirkung
 nach § 182 Abs. 1 des Bundesentschädigungsgesetzes entstehen, sind
@@ -67,6 +69,7 @@ Bundesentschädigungsgesetzes erhöhen sich die Pauschsätze nach Absatz
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/begdv_4/BJNR002810957.html#BJNR002810957BJNE000300325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240 des
@@ -75,6 +78,7 @@ sie gilt nicht im Saarland.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/begdv_4/BJNR002810957.html#BJNR002810957BJNE000400325)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. April 1956 in Kraft.
 
@@ -86,6 +90,7 @@ sein Bewenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/begdv_4/BJNR002810957.html#BJNR002810957BJNE000500325)
 
 Der Bundesminister für Wirtschaft
 

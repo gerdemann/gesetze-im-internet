@@ -20,6 +20,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000100000)
 
 Auf Grund des § 11 Absatz 1 in Verbindung mit Absatz 2 und 3 des
 Arbeitnehmer-Entsendegesetzes, von denen Absatz 1 durch Artikel 1
@@ -36,6 +37,7 @@ Stellungnahme gegeben hat:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000200000)
 
 (1) Diese Verordnung gilt für Pflegebetriebe. Dies sind Betriebe und
 selbstständige Betriebsabteilungen, die überwiegend ambulante,
@@ -116,6 +118,7 @@ Deutschland.
 
 
 ## § 2 Mindestentgelt
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000300000)
 
 (1) Das Mindestentgelt beträgt
 
@@ -220,6 +223,7 @@ Mindestentgelts nach Absatz 1 vergütet.
 
 
 ## § 3 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000400000)
 
 (1) Das Mindestentgelt nach § 2 Absatz 1 wird für die vertraglich
 vereinbarte Arbeitszeit spätestens am letzten Bankarbeitstag des
@@ -263,6 +267,7 @@ Arbeitsverhältnisses folgenden Kalendermonat abzugelten.
 
 
 ## § 4 Mehrurlaub
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000500000)
 
 (1) Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf
 zusätzlichen bezahlten Erholungsurlaub, der, ausgehend von einer
@@ -284,6 +289,7 @@ Bestimmungen.
 
 
 ## § 5 Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000600000)
 
 Die Ansprüche auf das Mindestentgelt verfallen, wenn sie nicht
 innerhalb von zwölf Monaten nach ihrer Fälligkeit in Textform geltend
@@ -291,6 +297,7 @@ gemacht werden.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflegearbbv_6/BJNR1500A0023.html#BJNR1500A0023BJNE000700000)
 
 Diese Verordnung tritt am 1. Februar 2024 in Kraft und mit Ablauf des
 30\. Juni 2026 außer Kraft.

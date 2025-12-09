@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -30,17 +31,20 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000200000)
 
 Der Ausbildungsberuf Produktgestalter-Textil/Produktgestalterin-Textil
 wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse
 (Qualifikationen) sollen bezogen auf Arbeits- und Geschäftsprozesse
@@ -54,12 +58,14 @@ Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
 
 ## § 4 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000500000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 5 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000600000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -68,6 +74,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 6 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000700000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Qualifikationen:
@@ -121,6 +128,7 @@ Qualifikationen:
 
 
 ## § 7 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000800000)
 
 Die in § 6 genannten Qualifikationen (Ausbildungsberufsbild) sollen
 nach der in der Anlage enthaltenen Anleitung zur sachlichen und
@@ -132,6 +140,7 @@ Abweichung erfordern.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -182,6 +191,7 @@ die Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
@@ -341,6 +351,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE001100000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -349,12 +360,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 7)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil
+[Direktlink](https://www.gesetze-im-internet.de/textilprodausbv_2003/BJNR096500003.html#BJNR096500003BJNE001300000)
 
 (Fundstelle: BGBl. I 2003, 968 - 972)
 

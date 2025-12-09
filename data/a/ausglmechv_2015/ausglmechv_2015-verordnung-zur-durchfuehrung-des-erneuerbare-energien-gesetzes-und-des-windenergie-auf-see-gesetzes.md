@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNG000100124)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001801119)
 
 Diese Verordnung trifft Regelungen
 
@@ -58,9 +60,11 @@ Diese Verordnung trifft Regelungen
 
 
 ## Abschnitt 2 - Vermarktung von EEG-Strom
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNG000201119)
 
 
 ### § 2 Vermarktung durch die Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000204128)
 
 (1) Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer
 2 des Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz
@@ -104,6 +108,7 @@ nach dem Stand von Wissenschaft und Technik zu erstellen.
 
 
 ### § 3 Transparenz der Vermarktungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000310128)
 
 Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten
 ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-
@@ -155,6 +160,7 @@ Format in nicht personenbezogener Form zu veröffentlichen:
 
 
 ### § 4 Anreize zur bestmöglichen Vermarktung
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000402119)
 
 (1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des
 Erneuerbare-Energien-Gesetzes vergüteten oder nach § 13a Absatz 1a des
@@ -278,6 +284,7 @@ bezogen auf das Anreizjahr.
 
 
 ### § 4a Ermittlung der voraussichtlichen Strommengen aus fernsteuerbaren Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE003300128)
 
 (1) Die Übertragungsnetzbetreiber ermitteln in ihrer Prognose, die der
 Veräußerung nach § 2 Absatz 2 zugrunde liegt, diejenigen Strommengen,
@@ -336,6 +343,7 @@ eingehalten wurden.
 
 
 ### § 5 Preislimitierung
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000504128)
 
 (1) Der Übertragungsnetzbetreiber hat abweichend von § 2 Absatz 2 die
 nach aktueller Prognose vorhergesagte viertelstündliche Einspeisung
@@ -393,13 +401,16 @@ eingehalten wurden.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000602119)
 
 
 
 ## Abschnitt 3 - Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNG000300124)
 
 
 ### § 7 Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000703128)
 
 (1) Das Umweltbundesamt betreibt das Herkunftsnachweisregister nach §
 79 Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der
@@ -425,6 +436,7 @@ zu treffen.
 
 
 ### § 8 Regionalnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000803119)
 
 (1) Das Umweltbundesamt errichtet und betreibt das
 Regionalnachweisregister nach § 79a Absatz 4 des Erneuerbare-Energien-
@@ -437,6 +449,7 @@ entsprechend anzuwenden.
 
 
 ### § 9 Mindestinhalt von Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE000904119)
 
 (1) Ein Herkunftsnachweis muss mindestens die folgenden Angaben
 enthalten:
@@ -530,6 +543,7 @@ folgende Angaben enthalten:
 
 
 ### § 10 Mindestinhalt von Regionalnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001200124)
 
 Ein Regionalnachweis muss mindestens die folgenden Angaben enthalten:
 
@@ -564,6 +578,7 @@ Ein Regionalnachweis muss mindestens die folgenden Angaben enthalten:
 
 
 ### § 11 Grundsätze für Herkunftsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001301128)
 
 (1) Die Ausstellung, Anerkennung und Übertragung von
 Herkunftsnachweisen erfolgen auf Antrag nach Maßgabe der
@@ -578,6 +593,7 @@ erforderlich sind.
 
 
 ### § 12 Grundsätze für Regionalnachweise
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001400124)
 
 Auf die Ausstellung, Übertragung und Entwertung von Regionalnachweisen
 ist § 11 entsprechend anzuwenden mit der Maßgabe, dass das
@@ -587,9 +603,11 @@ entwertet.
 
 
 ## Abschnitt 3a - Anschlussförderung von Güllekleinanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNG000500123)
 
 
 ### § 12a Verlängerter Zahlungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002000123)
 
 Für Strom aus Anlagen, in denen Biogas eingesetzt wird, verlängert
 sich der ursprüngliche Anspruch auf Zahlung nach der für die Anlage
@@ -624,6 +642,7 @@ zehn Jahre (Anschlusszeitraum), wenn
 
 
 ### § 12b Zahlungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002100123)
 
 Der ursprüngliche Anspruch auf Zahlung besteht in dem
 Anschlusszeitraum nach § 12a nur, wenn
@@ -657,6 +676,7 @@ der Vergütungsanspruch für den nicht berücksichtigten Zeitraum.
 
 
 ### § 12c Höhe des Zahlungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002200123)
 
 (1) In dem Anschlusszeitraum nach § 12a ist der ursprüngliche Anspruch
 auf Zahlung der Höhe nach begrenzt
@@ -694,6 +714,7 @@ sind die ungerundeten Werte zugrunde zu legen.
 
 
 ### § 12d Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002300123)
 
 Die Anlagenbetreiber müssen dem Netzbetreiber unter Angabe der Nummer,
 unter der die Anlage im Marktstammdatenregister registriert ist, bis
@@ -709,6 +730,7 @@ verlängerten Zahlungsanspruchs dem Netzbetreiber bis zum 30. September
 
 
 ### § 12e Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002400123)
 
 (1) Der Anspruch nach § 12a wird erst fällig, nachdem der
 Anlagenbetreiber der Bundesnetzagentur unter Angabe der Nummer, unter
@@ -736,6 +758,7 @@ Internetseite.
 
 
 ### § 12f Verbot der Teilnahme an Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002500123)
 
 Anlagen, deren Betreiber die Geltendmachung des verlängerten
 Zahlungsanspruchs dem Netzbetreiber nach Maßgabe des § 12d mitgeteilt
@@ -744,6 +767,7 @@ Energien-Gesetzes teilnehmen.
 
 
 ### § 12g Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002600123)
 
 Die Bundesregierung evaluiert die Anschlussförderung nach diesem
 Abschnitt bis zum 31. Dezember 2023 auch mit Blick auf Anlagen, deren
@@ -751,17 +775,21 @@ ursprünglicher Anspruch auf Zahlung nach dem 31. Dezember 2024 endet.
 
 
 ### (XXXX) §§ 12h bis 12l (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE002701119)
 
 
 
 ## Abschnitt 4 - Übertragung von Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNG000400124)
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001006119)
 
 
 
 ### § 14 Subdelegation an das Umweltbundesamt
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001103119)
 
 (1) Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
@@ -862,6 +890,7 @@ Gesetzes zu bestimmen.
 
 
 ### § 15 Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
+[Direktlink](https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html#BJNR014610015BJNE001502123)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt,
 durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000100000)
 
 Diese Verordnung gilt für die Führung von elektronischen Prozess- und
 Verfahrensakten bei den obersten Gerichten des Bundes nach § 298a der
@@ -32,6 +33,7 @@ Sozialgerichtsgesetzes, § 55b der Verwaltungsgerichtsordnung sowie §
 
 
 ## § 2 Einführung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000200000)
 
 Die Akten können ab dem 2. April 2020 elektronisch geführt werden. Die
 Präsidentin oder der Präsident des jeweiligen Gerichts bestimmt durch
@@ -42,6 +44,7 @@ veröffentlichen.
 
 
 ## § 3 Struktur und Format der elektronischen Akten; Repräsentat
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000300000)
 
 (1) In der elektronischen Akte werden zur Akte gebrachte elektronische
 Dokumente einschließlich zugehöriger Signaturdateien sowie sonstige
@@ -103,6 +106,7 @@ mindestens Folgendes:
 
 
 ## § 4 Bearbeitung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000400000)
 
 (1) Elektronische Dokumente sowie sonstige Dateien und Informationen
 gelten als zur Akte genommen, wenn sie bewusst und dauerhaft in der
@@ -120,6 +124,7 @@ teilweise auf eine andere Stelle übergehen.
 
 
 ## § 5 Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000500000)
 
 Elektronische Akten und Verfahren zur elektronischen Aktenführung und
 -bearbeitung sollen technisch so gestaltet werden, dass sie, soweit
@@ -133,6 +138,7 @@ und Beschaffung beachtet werden.
 
 
 ## § 6 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000600000)
 
 Im Fall technischer Störungen der elektronischen Aktenführung kann
 angeordnet werden, dass eine Ersatzakte in Papierform geführt wird.
@@ -143,6 +149,7 @@ zu unterrichten.
 
 
 ## § 7 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgaktfv/BJNR074510020.html#BJNR074510020BJNE000700000)
 
 Die Bundesregierung macht im Bundesanzeiger und auf der Internetseite
 www.justiz.de die Definitions- oder Schemadateien bekannt, die für die

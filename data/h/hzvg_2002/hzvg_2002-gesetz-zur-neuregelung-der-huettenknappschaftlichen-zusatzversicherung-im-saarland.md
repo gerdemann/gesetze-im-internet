@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNG000200000)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000100000)
 
 (1) Die Arbeitnehmer, die in den Betrieben der Saarhütten und anderer
 Unternehmen der Eisen erzeugenden, verarbeitenden und
@@ -42,6 +44,7 @@ Zusatzversicherung nach Maßgabe dieses Gesetzes weitergeführt.
 
 
 ### § 2 Träger der Hüttenknappschaftlichen Zusatzversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000202301)
 
 (1) Träger der Hüttenknappschaftlichen Zusatzversicherung ist die
 Deutsche Rentenversicherung Saarland (Versicherungsträger). Diese hat
@@ -59,6 +62,7 @@ Träger der allgemeinen Rentenversicherung.
 
 
 ### § 3 Versicherte Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000302308)
 
 (1) Versicherungspflichtig in der Hüttenknappschaftlichen
 Zusatzversicherung sind die in den in § 1 Abs. 1 genannten Betrieben
@@ -107,6 +111,7 @@ Versicherung im Sinne der §§ 14a, 14b des Arbeitsplatzschutzgesetzes.
 
 
 ### § 4 Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000400000)
 
 Wer aus einer Beschäftigung ausscheidet, welche die
 Versicherungspflicht in der Hüttenknappschaftlichen Zusatzversicherung
@@ -119,6 +124,7 @@ Teilleistung wegen Alters.
 
 
 ### § 5 Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000504308)
 
 (1) Der Beitragssatz für die Pflichtversicherten der
 Hüttenknappschaftlichen Zusatzversicherung beträgt 4,5 vom Hundert des
@@ -191,6 +197,7 @@ Fälligkeitszeitpunktes eines Pflichtbeitrages gezahlt werden.
 
 
 ### § 6 Beitragszahlung, Meldepflicht und Beitragsmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000602308)
 
 (1) Der Arbeitgeber hat die Pflichtbeiträge zur
 Hüttenknappschaftlichen Zusatzversicherung unmittelbar an den
@@ -317,6 +324,7 @@ Versicherungsträger durch Satzung.
 
 
 ### § 7 Prüfung bei den Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000700000)
 
 (1) Der Versicherungsträger der Hüttenknappschaftlichen
 Zusatzversicherung prüft bei den Arbeitgebern, ob diese ihre
@@ -331,6 +339,7 @@ Satzung.
 
 
 ### § 8 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000800000)
 
 Auf die öffentlich-rechtlichen Rechtsbeziehungen finden die
 Vorschriften des Dritten Abschnitts des Ersten Buches sowie des
@@ -338,6 +347,7 @@ Zehnten Buches Sozialgesetzbuch entsprechend Anwendung.
 
 
 ### § 9 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE000900000)
 
 Öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
 Gesetzes sind Streitigkeiten in Angelegenheiten der
@@ -345,10 +355,12 @@ Sozialversicherung.
 
 
 ## Zweites Kapitel - Kapitaldeckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNG000300000)
 
 
 
 ### § 10 Durchführung über eine Pensionskasse
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001000000)
 
 (1) Die Durchführung der kapitalgedeckten Zusatzversicherung erfolgt
 über eine Pensionskasse, die der Aufsicht der Bundesanstalt für
@@ -367,6 +379,7 @@ den Versicherungsträger in den Organen der Pensionskasse wahrgenommen.
 
 
 ### § 11 Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001100000)
 
 Scheidet ein Arbeitnehmer aus der Versicherungspflicht in der
 Hüttenknappschaftlichen Zusatzversicherung aus, muss dem Arbeitnehmer
@@ -375,6 +388,7 @@ eigenen Beiträgen ermöglicht werden.
 
 
 ### § 12 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001201308)
 
 (1) Die Pensionskasse erbringt Leistungen der Alters-, Invaliditäts-
 und Hinterbliebenenversorgung nach Maßgabe ihrer Satzung und
@@ -402,6 +416,7 @@ Leistungen aus der gesetzlichen Rentenversicherung besteht.
 
 
 ### § 13 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001300000)
 
 Der Versicherungsträger stellt sicher, dass die von ihm eingezogenen
 Beiträge und sonstige Einnahmen unverzüglich und unmittelbar an die
@@ -411,6 +426,7 @@ Pensionskasse vereinbart.
 
 
 ### § 14 Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001400000)
 
 (1) Der Rechtsanspruch der Arbeitnehmer auf Entgeltumwandlung nach dem
 Gesetz zur Verbesserung der betrieblichen Altersversorgung bleibt
@@ -427,6 +443,7 @@ vereinbart.
 
 
 ### § 15 Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001500000)
 
 (1) Soweit in den Vorschriften dieses Gesetzes nichts Abweichendes
 bestimmt ist, gelten die Regelungen des Gesetzes zur Verbesserung der
@@ -439,10 +456,12 @@ Einkommensteuergesetz.
 
 
 ## Drittes Kapitel - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNG000400000)
 
 
 
 ### § 16 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001600000)
 
 Für Versicherte, die
 
@@ -462,6 +481,7 @@ weitergeführt.
 
 
 ### § 17 Weitere Personenkreise
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001700000)
 
 (1) Für Personen, die am 30. Juni 2002 Anspruch auf eine Zusatzrente
 der Hüttenknappschaftlichen Zusatzversicherung haben, besteht dieser
@@ -474,6 +494,7 @@ zur Hüttenknappschaftlichen Zusatzversicherung vor dem 1. Januar 2003.
 
 
 ### § 18 Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001800000)
 
 (1) Versicherte, für die die Hüttenknappschaftliche Zusatzversicherung
 im Umlageverfahren weiterzuführen ist, können sich freiwillig
@@ -500,6 +521,7 @@ sollen, gezahlt werden.
 
 
 ### § 19 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE001903119)
 
 (1) Die Leistungen aus der umlagefinanzierten Hüttenknappschaftlichen
 Zusatzversicherung sind
@@ -576,6 +598,7 @@ interne Teilung nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes
 
 
 ### § 20 Zusatzrentenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002000000)
 
 (1) Der Monatsbetrag der Zusatzrente ergibt sich, wenn
 
@@ -785,6 +808,7 @@ Sechsten Buches Sozialgesetzbuch.
 
 
 ### § 21 Ermittlung des Rentenartfaktors in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002100000)
 
 (1) Hat ein Versicherter eine Zusatzrente wegen Alters bezogen, wird
 ihm für eine spätere Rente der bisherige Rentenartfaktor zugrunde
@@ -801,6 +825,7 @@ Rente, wird ihr der bisherige Rentenartfaktor zugrunde gelegt.
 
 
 ### § 22 Bewertung von Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002200000)
 
 (1) Zeiten, die nach dem bis zum 30. Juni 2002 geltenden
 Hüttenknappschaftlichen Zusatzversicherungs-Gesetz anrechenbar waren,
@@ -825,6 +850,7 @@ Franken sind im Verhältnis 100 : 1 Deutsche Mark umzurechnen.
 
 
 ### § 23 Zusammentreffen von Zusatzrenten und von Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002301119)
 
 (1) Die Zusatzrente wird neben einer entsprechenden Rente aus der
 Unfallversicherung ungekürzt gezahlt.
@@ -850,6 +876,7 @@ geführt hat.
 
 
 ### § 24 Anpassung der Zusatzrenten
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002402308)
 
 (1) Zum 1. Juli eines jeden Jahres werden Zusatzrenten um den
 Vomhundertsatz angepasst, um den sich der aktuelle Rentenwert in der
@@ -861,6 +888,7 @@ Bundesanzeiger bekannt.
 
 
 ### § 25 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002500000)
 
 (1) Hat ein Berechtigter bei Vorliegen der Anspruchsvoraussetzungen
 nur einen Anspruch auf eine Zusatzrente, die 1,5 vom Hundert der
@@ -880,6 +908,7 @@ Anwendung.
 
 
 ### § 26 Beginn und Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002603119)
 
 (1) Die Zusatzrente beginnt mit der Rente aus der gesetzlichen
 Rentenversicherung, wenn der Antrag auf Zusatzrente spätestens bis zum
@@ -903,6 +932,7 @@ entsprechend anzuwenden.
 
 
 ### § 27 Wahlrecht auf Übertragung von Anwartschaften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002700000)
 
 (1) Versicherte, für die die Hüttenknappschaftliche Zusatzversicherung
 nicht im Umlageverfahren weiterzuführen ist und die vor dem 1. Januar
@@ -971,6 +1001,7 @@ Hüttenknappschaftlichen Zusatzversicherung abgegolten.
 
 
 ### § 28 Übertragung von Anwartschaften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002800000)
 
 (1) Anwartschaften eines Versicherten, für den die
 Hüttenknappschaftliche Zusatzversicherung nicht im Umlageverfahren
@@ -992,6 +1023,7 @@ abgegolten.
 
 
 ### § 29 Durchführung der Übertragung von Anwartschaften
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE002900000)
 
 (1) Anwartschaften aus der umlagefinanzierten Hüttenknappschaftlichen
 Zusatzversicherung werden mit ihrem Kapitalwert in die kapitalgedeckte
@@ -1023,6 +1055,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 30 Beteiligung des Bundes im Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003000000)
 
 (1) Die Mittel für die Ausgaben der umlagefinanzierten
 Hüttenknappschaftlichen Zusatzversicherung werden durch Beiträge der
@@ -1037,6 +1070,7 @@ zugewiesen.
 
 
 ### § 31 Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003100000)
 
 Das Vermögen der Hüttenknappschaftlichen Zusatzversicherung wird
 innerhalb eines Monats nach Inkrafttreten dieser Vorschrift auf den
@@ -1044,12 +1078,14 @@ Bund übertragen.
 
 
 ### § 32 Steuer- und beitragsrechtliche Behandlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003200000)
 
 Beiträge im Umlageverfahren werden steuer- und beitragsrechtlich wie
 Beiträge zur Sozialversicherung behandelt.
 
 
 ### § 33 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003300000)
 
 Die Hüttenknappschaftliche Zusatzversicherung wird bis zum 31.
 Dezember 2002 für alle Versicherten im Umlageverfahren fortgeführt.
@@ -1059,6 +1095,7 @@ Pensionskasse weitergeleitet.
 
 
 ### Anlage 1 (zu § 25 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003500000)
 
 <Fundstelle des Originaltextes: BGBl. I 2002, 2775 - 2276>
 
@@ -1417,6 +1454,7 @@ Pensionskasse weitergeleitet.
 
 
 ### Anlage 2 (zu § 29 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/hzvg_2002/BJNR216710002.html#BJNR216710002BJNE003600000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2177
 

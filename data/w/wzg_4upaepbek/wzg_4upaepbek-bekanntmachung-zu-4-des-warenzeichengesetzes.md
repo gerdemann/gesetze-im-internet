@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4up_pbek/BJNR119260991.html#BJNR119260991BJNE000100308)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -36,11 +37,13 @@ Mai 1990 (BGBl. I S. 1006).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4up_pbek/BJNR119260991.html#BJNR119260991BJNE000900308)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4up_pbek/BJNR119260991.html#BJNR119260991BJNE000200308)
 
 Fundstelle: BGBl. I 1991, 1927)
 ![bgbl1_1991_j1927_0010.jpg](bgbl1_1991_j1927_0010.jpg)

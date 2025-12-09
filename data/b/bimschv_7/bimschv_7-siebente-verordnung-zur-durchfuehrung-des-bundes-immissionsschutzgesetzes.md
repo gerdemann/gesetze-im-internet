@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000100319)
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes vom 15.
 März 1974 (Bundesgesetzbl. I S. 721, 1193), geändert durch § 1 Nr. 14
@@ -28,6 +29,7 @@ des Bundesrates verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000200319)
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb staub- oder späneemittierender Anlagen im Sinne des § 3 Abs. 5
@@ -39,6 +41,7 @@ Immissionsschutzgesetzes bedürfen.
 
 
 ## § 2 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000300319)
 
 Anlagen im Sinne des § 1 sind bei ihrer Errichtung mit
 Abluftreinigungsanlagen auszurüsten, die ein Überschreiten des
@@ -50,6 +53,7 @@ bei jedem Betriebszustand ausgeschlossen wird.
 
 
 ## § 3 Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000400319)
 
 (1) Holzstaub und Späne sind in Bunkern, Silos oder sonstigen
 geschlossenen Räumen zu lagern.
@@ -65,6 +69,7 @@ oder durch Befeuchten an der Austragsstelle.
 
 
 ## § 4 Emissionswert
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000500319)
 
 (1) Anlagen im Sinne des § 1 sind so zu betreiben, daß die
 Massenkonzentration an Staub und Spänen in der Abluft, bezogen auf den
@@ -98,6 +103,7 @@ zugrunde zu legen.
 
 
 ## § 5 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000600319)
 
 Die Befugnis der zuständigen Behörden, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
@@ -105,6 +111,7 @@ treffen, bleibt unberührt.
 
 
 ## § 6 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000700319)
 
 Die zuständige Behörde kann auf Antrag Ausnahmen von den Vorschriften
 der Verordnung zulassen, soweit unter Berücksichtigung der besonderen
@@ -113,6 +120,7 @@ befürchten sind oder Gründe des Arbeitsschutzes dies erfordern.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000800319)
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -137,11 +145,13 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE000900319)
 
 -
 
 
 ## § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE001000319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 73 Satz 2
@@ -149,6 +159,7 @@ des Bundes-Immissionsschutzgesetzes auch im Land Berlin.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_7/BJNR031330975.html#BJNR031330975BJNE001100319)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 dritten Kalendermonats in Kraft.

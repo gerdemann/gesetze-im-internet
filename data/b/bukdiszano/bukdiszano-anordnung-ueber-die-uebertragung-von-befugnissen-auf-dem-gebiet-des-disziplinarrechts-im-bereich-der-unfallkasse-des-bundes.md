@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bukdiszano/BJNR038200004.html#BJNR038200004BJNE000100000)
 
 Auf Grund des Artikels 9 Nr. 16 des Gesetzes zur Einführung einer
 kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung und zur
@@ -35,6 +36,7 @@ Anordnung erlassen:
 
 
 ## I. Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bukdiszano/BJNR038200004.html#BJNR038200004BJNE000200000)
 
 Im Rahmen des vom Bundesministerium für Gesundheit und Soziale
 Sicherung auf den Vorstand der Unfallkasse des Bundes übertragenen
@@ -69,6 +71,7 @@ Bundesdisziplinargesetzes bleiben hiervon unberührt.
 
 
 ## II. Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bukdiszano/BJNR038200004.html#BJNR038200004BJNE000300000)
 
 Der Vorstand der Unfallkasse des Bundes behält sich vor, die nach
 Abschnitt I erteilten Befugnisse im Einzelfall und in jedem Stadium
@@ -76,11 +79,13 @@ des Verfahrens selbst wahrzunehmen.
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bukdiszano/BJNR038200004.html#BJNR038200004BJNE000400000)
 
 Die vorstehende Anordnung tritt am 1. Januar 2004 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bukdiszano/BJNR038200004.html#BJNR038200004BJNE000500000)
 
 Vorstand der Unfallkasse des Bundes
 

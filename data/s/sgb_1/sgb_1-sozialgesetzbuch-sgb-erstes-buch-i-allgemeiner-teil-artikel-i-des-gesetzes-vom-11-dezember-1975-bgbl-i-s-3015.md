@@ -24,10 +24,12 @@ Mittelbare änderung durch
 
 
 ## Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000300314)
 
 
 
 ### § 1 Aufgaben des Sozialgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE001700314)
 
 (1) Das Recht des Sozialgesetzbuchs soll zur Verwirklichung sozialer
 Gerechtigkeit und sozialer Sicherheit Sozialleistungen einschließlich
@@ -56,6 +58,7 @@ Verfügung stehen.
 
 
 ### § 2 Soziale Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE001800314)
 
 (1) Der Erfüllung der in § 1 genannten Aufgaben dienen die
 nachfolgenden sozialen Rechte. Aus ihnen können Ansprüche nur insoweit
@@ -70,6 +73,7 @@ weitgehend verwirklicht werden.
 
 
 ### § 3 Bildungs- und Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE001901308)
 
 (1) Wer an einer Ausbildung teilnimmt, die seiner Neigung, Eignung und
 Leistung entspricht, hat ein Recht auf individuelle Förderung seiner
@@ -97,6 +101,7 @@ auf
 
 
 ### § 4 Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002002308)
 
 (1) Jeder hat im Rahmen dieses Gesetzbuchs ein Recht auf Zugang zur
 Sozialversicherung.
@@ -119,6 +124,7 @@ eines Versicherten.
 
 
 ### § 5 Soziale Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002101126)
 
 Wer einen Gesundheitsschaden erleidet, für dessen Folgen die
 staatliche Gemeinschaft in Abgeltung eines besonderen Opfers oder aus
@@ -138,12 +144,14 @@ auch die Hinterbliebenen eines Geschädigten.
 
 
 ### § 6 Minderung des Familienaufwands
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002200314)
 
 Wer Kindern Unterhalt zu leisten hat oder leistet, hat ein Recht auf
 Minderung der dadurch entstehenden wirtschaftlichen Belastungen.
 
 
 ### § 7 Zuschuß für eine angemessene Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002300314)
 
 Wer für eine angemessene Wohnung Aufwendungen erbringen muß, die ihm
 nicht zugemutet werden können, hat ein Recht auf Zuschuß zur Miete
@@ -151,6 +159,7 @@ oder zu vergleichbaren Aufwendungen.
 
 
 ### § 8 Kinder- und Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002401308)
 
 Junge Menschen und Personensorgeberechtigte haben im Rahmen dieses
 Gesetzbuchs ein Recht, Leistungen der öffentlichen Jugendhilfe in
@@ -159,6 +168,7 @@ und die Erziehung in der Familie unterstützen und ergänzen.
 
 
 ### § 9 Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002501308)
 
 Wer nicht in der Lage ist, aus eigenen Kräften seinen Lebensunterhalt
 zu bestreiten oder in besonderen Lebenslagen sich selbst zu helfen,
@@ -171,6 +181,7 @@ nach ihren Kräften mitwirken.
 
 
 ### § 10 Teilhabe behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002602308)
 
 Menschen, die körperlich, geistig oder seelisch behindert sind oder
 denen eine solche Behinderung droht, haben unabhängig von der Ursache
@@ -203,14 +214,17 @@ gleichberechtigten Teilhabe ein Recht auf Hilfe, die notwendig ist, um
 
 
 ## Zweiter Abschnitt - Einweisungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000400314)
 
 
 
 ### Erster Titel - Allgemeines über Sozialleistungen und Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000500314)
 
 
 
 #### § 11 Leistungsarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002700314)
 
 Gegenstand der sozialen Rechte sind die in diesem Gesetzbuch
 vorgesehenen Dienst-, Sach- und Geldleistungen (Sozialleistungen). Die
@@ -218,6 +232,7 @@ persönliche und erzieherische Hilfe gehört zu den Dienstleistungen.
 
 
 #### § 12 Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002800314)
 
 Zuständig für die Sozialleistungen sind die in den §§ 18 bis 29
 genannten Körperschaften, Anstalten und Behörden (Leistungsträger).
@@ -226,6 +241,7 @@ Teilen dieses Gesetzbuchs.
 
 
 #### § 13 Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE002900314)
 
 Die Leistungsträger, ihre Verbände und die sonstigen in diesem
 Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen sind
@@ -234,6 +250,7 @@ Rechte und Pflichten nach diesem Gesetzbuch aufzuklären.
 
 
 #### § 14 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003000314)
 
 Jeder hat Anspruch auf Beratung über seine Rechte und Pflichten nach
 diesem Gesetzbuch. Zuständig für die Beratung sind die
@@ -242,6 +259,7 @@ Pflichten zu erfüllen sind.
 
 
 #### § 15 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003103360)
 
 (1) Die nach Landesrecht zuständigen Stellen, die Träger der
 gesetzlichen Krankenversicherung und der sozialen Pflegeversicherung
@@ -264,6 +282,7 @@ Altersvorsorge produkt- und anbieterneutral Auskünfte erteilen.
 
 
 #### § 16 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003200314)
 
 (1) Anträge auf Sozialleistungen sind beim zuständigen Leistungsträger
 zu stellen. Sie werden auch von allen anderen Leistungsträgern, von
@@ -285,6 +304,7 @@ unvollständige Angaben ergänzt werden.
 
 
 #### § 17 Ausführung der Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003308126)
 
 (1) Die Leistungsträger sind verpflichtet, darauf hinzuwirken, daß
 
@@ -343,10 +363,12 @@ worden ist oder bestellt werden könnte.
 
 
 ### Zweiter Titel - Einzelne Sozialleistungen und zuständige Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000600314)
 
 
 
 #### § 18 Leistungen der Ausbildungsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003401306)
 
 (1) Nach dem Recht der Ausbildungsförderung können Zuschüsse und
 Darlehen für den Lebensunterhalt und die Ausbildung in Anspruch
@@ -358,6 +380,7 @@ Bundesausbildungsförderungsgesetzes.
 
 
 #### § 19 Leistungen der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003514140)
 
 (1) Nach dem Recht der Arbeitsförderung können in Anspruch genommen
 werden:
@@ -402,6 +425,7 @@ Dienststellen der Bundesagentur für Arbeit.
 
 
 #### § 19a Leistungen der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010601308)
 
 (1) Nach dem Recht der Grundsicherung für Arbeitsuchende können in
 Anspruch genommen werden
@@ -422,6 +446,7 @@ abweichend von Satz 1 der zugelassene kommunale Träger zuständig.
 
 
 #### § 19b Leistungen bei gleitendem Übergang älterer Arbeitnehmer in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE009502308)
 
 (1) Nach dem Recht der Förderung eines gleitenden Übergangs älterer
 Arbeitnehmer in den Ruhestand können in Anspruch genommen werden:
@@ -443,11 +468,13 @@ Dienststellen der Bundesagentur für Arbeit.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003603308)
 
 (weggefallen)
 
 
 #### § 21 Leistungen der gesetzlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003707308)
 
 (1) Nach dem Recht der gesetzlichen Krankenversicherung können in
 Anspruch genommen werden:
@@ -504,6 +531,7 @@ Knappschaft-Bahn-See und die Ersatzkassen.
 
 
 #### § 21a Leistungen der sozialen Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE009600308)
 
 (1) Nach dem Recht der sozialen Pflegeversicherung können in Anspruch
 genommen werden:
@@ -548,6 +576,7 @@ genommen werden:
 
 
 #### § 21b Leistungen bei Schwangerschaftsabbrüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE009704308)
 
 (1) Nach dem Fünften Abschnitt des Schwangerschaftskonfliktgesetzes
 können bei einem nicht rechtswidrigen oder unter den Voraussetzungen
@@ -561,6 +590,7 @@ Knappschaft-Bahn-See und die Ersatzkassen.
 
 
 #### § 22 Leistungen der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003808377)
 
 (1) Nach dem Recht der gesetzlichen Unfallversicherung können in
 Anspruch genommen werden:
@@ -604,6 +634,7 @@ und Bahn.
 
 
 #### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE003916119)
 
 (1) Nach dem Recht der gesetzlichen Rentenversicherung einschließlich
 der Alterssicherung der Landwirte können in Anspruch genommen werden:
@@ -680,6 +711,7 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
 
 
 #### § 24 Leistungen der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004007126)
 
 (1) Nach dem Recht der Sozialen Entschädigung können in Anspruch
 genommen werden:
@@ -731,6 +763,7 @@ die Träger der gesetzlichen Unfallversicherung mit.
 
 
 #### § 24a Leistungen der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE011100126)
 
 Die Entschädigung für Soldatinnen und Soldaten sowie frühere
 Soldatinnen und Soldaten richtet sich nach dem
@@ -739,6 +772,7 @@ Bundeswehrverwaltung.
 
 
 #### § 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004109119)
 
 (1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in
 Anspruch genommen werden, wenn nicht der Familienleistungsausgleich
@@ -756,6 +790,7 @@ bestimmten Stellen zuständig.
 
 
 #### § 26 Wohngeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004201306)
 
 (1) Nach dem Wohngeldrecht kann als Zuschuß zur Miete oder als Zuschuß
 zu den Aufwendungen für den eigengenutzten Wohnraum Wohngeld in
@@ -765,6 +800,7 @@ Anspruch genommen werden.
 
 
 #### § 27 Leistungen der Kinder- und Jugendhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004303308)
 
 (1) Nach dem Recht der Kinder- und Jugendhilfe können in Anspruch
 genommen werden:
@@ -792,6 +828,7 @@ freien Jugendhilfe zusammen.
 
 
 #### § 28 Leistungen der Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004407119)
 
 (1) Nach dem Recht der Sozialhilfe können in Anspruch genommen werden:
 
@@ -826,6 +863,7 @@ Wohlfahrtspflege zusammen.
 
 
 #### § 28a Leistungen der Eingliederungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010303119)
 
 (1) Nach dem Recht der Eingliederungshilfe können in Anspruch genommen
 werden:
@@ -848,6 +886,7 @@ werden:
 
 
 #### § 29 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004509126)
 
 (1) Nach dem Recht der Rehabilitation und Teilhabe behinderter
 Menschen können in Anspruch genommen werden
@@ -972,14 +1011,17 @@ Leistungsträger und die Integrationsämter.
 
 
 ## Dritter Abschnitt - Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000700314)
 
 
 
 ### Erster Titel - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000800314)
 
 
 
 #### § 30 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004601306)
 
 (1) Die Vorschriften dieses Gesetzbuchs gelten für alle Personen, die
 ihren Wohnsitz oder gewöhnlichen Aufenthalt in seinem Geltungsbereich
@@ -996,6 +1038,7 @@ Ort oder in diesem Gebiet nicht nur vorübergehend verweilt.
 
 
 #### § 31 Vorbehalt des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004700314)
 
 Rechte und Pflichten in den Sozialleistungsbereichen dieses
 Gesetzbuchs dürfen nur begründet, festgestellt, geändert oder
@@ -1003,6 +1046,7 @@ aufgehoben werden, soweit ein Gesetz es vorschreibt oder zuläßt.
 
 
 #### § 32 Verbot nachteiliger Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004800314)
 
 Privatrechtliche Vereinbarungen, die zum Nachteil des
 Sozialleistungsberechtigten von Vorschriften dieses Gesetzbuchs
@@ -1010,6 +1054,7 @@ abweichen, sind nichtig.
 
 
 #### § 33 Ausgestaltung von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE004900314)
 
 Ist der Inhalt von Rechten oder Pflichten nach Art oder Umfang nicht
 im einzelnen bestimmt, sind bei ihrer Ausgestaltung die persönlichen
@@ -1021,6 +1066,7 @@ werden, soweit sie angemessen sind.
 
 
 #### § 33a Altersabhängige Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE009800308)
 
 (1) Sind Rechte oder Pflichten davon abhängig, daß eine bestimmte
 Altersgrenze erreicht oder nicht überschritten ist, ist das
@@ -1048,12 +1094,14 @@ dieses Gesetzbuchs verwendeten Kennzeichens sind, entsprechend.
 
 
 #### § 33b Lebenspartnerschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010200301)
 
 Lebenspartnerschaften im Sinne dieses Gesetzbuches sind
 Lebenspartnerschaften nach dem Lebenspartnerschaftsgesetz.
 
 
 #### § 33c Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010800308)
 
 Bei der Inanspruchnahme sozialer Rechte darf niemand aus Gründen der
 Rasse, wegen der ethnischen Herkunft oder einer Behinderung
@@ -1064,6 +1112,7 @@ bestimmt sind.
 
 
 #### § 34 Begrenzung von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005002308)
 
 (1) Soweit Rechte und Pflichten nach diesem Gesetzbuch ein
 familienrechtliches Rechtsverhältnis voraussetzen, reicht ein
@@ -1077,6 +1126,7 @@ werden anteilig und endgültig aufgeteilt.
 
 
 #### § 35 Sozialgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005120126)
 
 (1) Jeder hat Anspruch darauf, dass die ihn betreffenden Sozialdaten
 (§ 67 Absatz 2 Zehntes Buch) von den Leistungsträgern nicht unbefugt
@@ -1162,6 +1212,7 @@ Drittstaaten.
 
 
 #### § 36 Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005200314)
 
 (1) Wer das fünfzehnte Lebensjahr vollendet hat, kann Anträge auf
 Sozialleistungen stellen und verfolgen sowie Sozialleistungen
@@ -1177,6 +1228,7 @@ Zustimmung des gesetzlichen Vertreters.
 
 
 #### § 36a Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010510126)
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
@@ -1304,6 +1356,7 @@ der Leistungsträger erfolgen.
 
 
 #### § 37 Vorbehalt abweichender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005305308)
 
 Das Erste und Zehnte Buch gelten für alle Sozialleistungsbereiche
 dieses Gesetzbuchs, soweit sich aus den übrigen Büchern nichts
@@ -1314,10 +1367,12 @@ Sachverhaltes auf Sozialdaten erstreckt.
 
 
 ### Zweiter Titel - Grundsätze des Leistungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG000900314)
 
 
 
 #### § 38 Rechtsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005400314)
 
 Auf Sozialleistungen besteht ein Anspruch, soweit nicht nach den
 besonderen Teilen dieses Gesetzbuchs die Leistungsträger ermächtigt
@@ -1326,6 +1381,7 @@ handeln.
 
 
 #### § 39 Ermessensleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005500314)
 
 (1) Sind die Leistungsträger ermächtigt, bei der Entscheidung über
 Sozialleistungen nach ihrem Ermessen zu handeln, haben sie ihr
@@ -1340,6 +1396,7 @@ ergibt.
 
 
 #### § 40 Entstehen der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005600314)
 
 (1) Ansprüche auf Sozialleistungen entstehen, sobald ihre im Gesetz
 oder auf Grund eines Gesetzes bestimmten Voraussetzungen vorliegen.
@@ -1350,6 +1407,7 @@ in der Entscheidung ein anderer Zeitpunkt bestimmt ist.
 
 
 #### § 41 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005700314)
 
 Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, werden Ansprüche auf Sozialleistungen mit ihrem Entstehen
@@ -1357,6 +1415,7 @@ fällig.
 
 
 #### § 42 Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005802308)
 
 (1) Besteht ein Anspruch auf Geldleistungen dem Grunde nach und ist
 zur Feststellung seiner Höhe voraussichtlich längere Zeit
@@ -1375,6 +1434,7 @@ Erstattungsanspruchs gilt § 76 Abs. 2 des Vierten Buches entsprechend.
 
 
 #### § 43 Vorläufige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE005901306)
 
 (1) Besteht ein Anspruch auf Sozialleistungen und ist zwischen
 mehreren Leistungsträgern streitig, wer zur Leistung verpflichtet ist,
@@ -1392,6 +1452,7 @@ dem zur Leistung verpflichteten Leistungsträger zu.
 
 
 #### § 44 Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006001308)
 
 (1) Ansprüche auf Geldleistungen sind nach Ablauf eines Kalendermonats
 nach dem Eintritt ihrer Fälligkeit bis zum Ablauf des Kalendermonats
@@ -1408,6 +1469,7 @@ mit dreißig Tagen zugrunde zu legen.
 
 
 #### § 45 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006102308)
 
 (1) Ansprüche auf Sozialleistungen verjähren in vier Jahren nach
 Ablauf des Kalenderjahrs, in dem sie entstanden sind.
@@ -1425,6 +1487,7 @@ Antrag oder den Widerspruch.
 
 
 #### § 46 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006200314)
 
 (1) Auf Ansprüche auf Sozialleistungen kann durch schriftliche
 Erklärung gegenüber dem Leistungsträger verzichtet werden; der
@@ -1435,6 +1498,7 @@ Leistungsträger belastet oder Rechtsvorschriften umgangen werden.
 
 
 #### § 47 Auszahlung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006302124)
 
 (1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, werden Geldleistungen kostenfrei auf das angegebene Konto
@@ -1458,6 +1522,7 @@ von ihm mit der Zahlung beauftragten Geldinstitut.
 
 
 #### § 48 Auszahlung bei Verletzung der Unterhaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006404119)
 
 (1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu
 dienen bestimmt sind, können in angemessener Höhe an den Ehegatten,
@@ -1482,6 +1547,7 @@ werden und der Leistungsberechtigte diese Kinder nicht unterhält.
 
 
 #### § 49 Auszahlung bei Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006502308)
 
 (1) Ist ein Leistungsberechtigter auf Grund richterlicher Anordnung
 länger als einen Kalendermonat in einer Anstalt oder Einrichtung
@@ -1499,6 +1565,7 @@ Geldleistungen erbracht werden.
 
 
 #### § 50 Überleitung bei Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006601314)
 
 (1) Ist der Leistungsberechtigte untergebracht (§ 49 Abs. 1), kann die
 Stelle, der die Kosten der Unterbringung zur Last fallen, seine
@@ -1518,6 +1585,7 @@ Anspruch auf eine laufende Geldleistung besteht.
 
 
 #### § 51 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006705308)
 
 (1) Gegen Ansprüche auf Geldleistungen kann der zuständige
 Leistungsträger mit Ansprüchen gegen den Berechtigten aufrechnen,
@@ -1535,6 +1603,7 @@ Zweiten Buch wird.
 
 
 #### § 52 Verrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006800314)
 
 Der für eine Geldleistung zuständige Leistungsträger kann mit
 Ermächtigung eines anderen Leistungsträgers dessen Ansprüche gegen den
@@ -1543,6 +1612,7 @@ nach § 51 die Aufrechnung zulässig ist.
 
 
 #### § 53 Übertragung und Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE006902308)
 
 (1) Ansprüche auf Dienst- und Sachleistungen können weder übertragen
 noch verpfändet werden.
@@ -1585,6 +1655,7 @@ geltend zu machen.
 
 
 #### § 54 Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007012119)
 
 (1) Ansprüche auf Dienst- und Sachleistungen können nicht gepfändet
 werden.
@@ -1655,10 +1726,12 @@ entsprechend.
 
 
 #### § 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007102308)
 
 
 
 #### § 56 Sonderrechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007204308)
 
 (1) Fällige Ansprüche auf laufende Geldleistungen stehen beim Tod des
 Berechtigten nacheinander
@@ -1724,6 +1797,7 @@ und von diesem überwiegend unterhalten worden ist.
 
 
 #### § 57 Verzicht und Haftung des Sonderrechtsnachfolgers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007300314)
 
 (1) Der nach § 56 Berechtigte kann auf die Sonderrechtsnachfolge
 innerhalb von sechs Wochen nach ihrer Kenntnis durch schriftliche
@@ -1741,6 +1815,7 @@ genannten Beschränkungen der Höhe zulässig.
 
 
 #### § 58 Vererbung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007400314)
 
 Soweit fällige Ansprüche auf Geldleistungen nicht nach den §§ 56 und
 57 einem Sonderrechtsnachfolger zustehen, werden sie nach den
@@ -1749,6 +1824,7 @@ gesetzlicher Erbe kann die Ansprüche nicht geltend machen.
 
 
 #### § 59 Ausschluß der Rechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007500314)
 
 Ansprüche auf Dienst- und Sachleistungen erlöschen mit dem Tod des
 Berechtigten. Ansprüche auf Geldleistungen erlöschen nur, wenn sie im
@@ -1757,10 +1833,12 @@ Verwaltungsverfahren über sie anhängig ist.
 
 
 ### Dritter Titel - Mitwirkung des Leistungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG001000314)
 
 
 
 #### § 60 Angabe von Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007602308)
 
 (1) Wer Sozialleistungen beantragt oder erhält, hat
 
@@ -1788,6 +1866,7 @@ Vordrucke vorgesehen sind, sollen diese benutzt werden.
 
 
 #### § 61 Persönliches Erscheinen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007700314)
 
 Wer Sozialleistungen beantragt oder erhält, soll auf Verlangen des
 zuständigen Leistungsträgers zur mündlichen Erörterung des Antrags
@@ -1796,6 +1875,7 @@ notwendiger Maßnahmen persönlich erscheinen.
 
 
 #### § 62 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007800314)
 
 Wer Sozialleistungen beantragt oder erhält, soll sich auf Verlangen
 des zuständigen Leistungsträgers ärztlichen und psychologischen
@@ -1804,6 +1884,7 @@ Untersuchungsmaßnahmen unterziehen, soweit diese für die Entscheidung
 
 
 #### § 63 Heilbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE007900314)
 
 Wer wegen Krankheit oder Behinderung Sozialleistungen beantragt oder
 erhält, soll sich auf Verlangen des zuständigen Leistungsträgers einer
@@ -1813,6 +1894,7 @@ Verschlechterung verhindern wird.
 
 
 #### § 64 Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008002308)
 
 Wer wegen Minderung der Erwerbsfähigkeit, anerkannten
 Schädigungsfolgen oder wegen Arbeitslosigkeit Sozialleistungen
@@ -1825,6 +1907,7 @@ werden.
 
 
 #### § 65 Grenzen der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008102304)
 
 (1) Die Mitwirkungspflichten nach den §§ 60 bis 64 bestehen nicht,
 soweit
@@ -1868,6 +1951,7 @@ werden.
 
 
 #### § 65a Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008200314)
 
 (1) Wer einem Verlangen des zuständigen Leistungsträgers nach den §§
 61 oder 62 nachkommt, kann auf Antrag Ersatz seiner notwendigen
@@ -1881,6 +1965,7 @@ notwendig anerkennt.
 
 
 #### § 66 Folgen fehlender Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008302308)
 
 (1) Kommt derjenige, der eine Sozialleistung beantragt oder erhält,
 seinen Mitwirkungspflichten nach den §§ 60 bis 62, 65 nicht nach und
@@ -1910,6 +1995,7 @@ innerhalb einer ihm gesetzten angemessenen Frist nachgekommen ist.
 
 
 #### § 67 Nachholung der Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE008400314)
 
 Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen
 vor, kann der Leistungsträger Sozialleistungen, die er nach § 66
@@ -1917,10 +2003,12 @@ versagt oder entzogen hat, nachträglich ganz oder teilweise erbringen.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNG001100308)
 
 
 
 ### § 68 Besondere Teile dieses Gesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010019126)
 
 Bis zu ihrer Einordnung in dieses Gesetzbuch gelten die nachfolgenden
 Gesetze mit den zu ihrer Ergänzung und Änderung erlassenen Gesetzen
@@ -2000,6 +2088,7 @@ als dessen besondere Teile:
 
 
 ### § 69 Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010100308)
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die Vorschriften dieses Buches über die Zuständigkeit von Behörden dem
@@ -2007,6 +2096,7 @@ besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ### § 70 Überleitungsvorschrift zum Verjährungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010400308)
 
 Artikel 229 § 6 Abs. 1 und 2 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche gilt entsprechend bei der Anwendung des § 45 Abs. 2 und 3
@@ -2014,6 +2104,7 @@ in der seit dem 1. Januar 2002 geltenden Fassung.
 
 
 ### § 71 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE010700308)
 
 § 53 Abs. 6 und § 54 Abs. 6 sind nur auf Geldleistungen anzuwenden,
 soweit diese nach dem 30. März 2005 ganz oder teilweise zu Unrecht
@@ -2021,5 +2112,6 @@ erbracht werden.
 
 
 ### § 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_1/BJNR030150975.html#BJNR030150975BJNE011001126)
 
 

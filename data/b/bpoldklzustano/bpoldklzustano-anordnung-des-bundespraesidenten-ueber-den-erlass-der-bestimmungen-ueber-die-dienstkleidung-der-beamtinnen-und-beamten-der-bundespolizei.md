@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpoldklzustano/BJNR359400013.html#BJNR359400013BJNE000100000)
 
 Nach § 74 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung
 vom 5. Februar 2009 (BGBl. I S. 160) ordne ich an:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bpoldklzustano/BJNR359400013.html#BJNR359400013BJNE000200000)
 
 Die Bestimmungen über die Dienstkleidung der Inspekteurin oder des
 Inspekteurs der Bereitschaftspolizeien der Länder erlässt das
@@ -31,6 +33,7 @@ Bundesministerium des Innern.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bpoldklzustano/BJNR359400013.html#BJNR359400013BJNE000300000)
 
 Die Bestimmungen über die Dienstkleidung der übrigen Beamtinnen und
 Beamten der Bundespolizei erlässt das Bundespolizeipräsidium mit
@@ -38,6 +41,7 @@ Zustimmung des Bundesministeriums des Innern.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bpoldklzustano/BJNR359400013.html#BJNR359400013BJNE000400000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass
@@ -48,6 +52,7 @@ geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bpoldklzustano/BJNR359400013.html#BJNR359400013BJNE000500000)
 
 Der Bundespräsident
 

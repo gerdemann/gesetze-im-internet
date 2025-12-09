@@ -23,12 +23,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkpolg/BJNR117820998.html#BJNR117820998BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkpolg/BJNR117820998.html#BJNR117820998BJNE000200305)
 
 Dem in Warschau am 10. April 1997 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Polen über die
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkpolg/BJNR117820998.html#BJNR117820998BJNE000301116)
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in der Republik Polen entstehen, trägt
@@ -62,6 +65,7 @@ Aufgabenbereich des Bundes oder eines Landes fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkpolg/BJNR117820998.html#BJNR117820998BJNE000400305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

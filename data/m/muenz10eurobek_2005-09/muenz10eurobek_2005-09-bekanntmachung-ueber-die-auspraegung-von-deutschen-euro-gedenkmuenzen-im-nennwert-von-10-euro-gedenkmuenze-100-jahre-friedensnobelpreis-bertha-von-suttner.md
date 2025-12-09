@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-09/BJNR297300005.html#BJNR297300005BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung des 100.
@@ -50,11 +51,13 @@ Der Entwurf der Münze stammt von Herrn Bodo Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-09/BJNR297300005.html#BJNR297300005BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2005-09/BJNR297300005.html#BJNR297300005BJNE000300000)
 
 (Fundstelle: BGBl. I 2005, 2973)
 ![bgbl1_2005_j2973_0010.jpg](bgbl1_2005_j2973_0010.jpg)

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Überwachungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000105360)
 
 (1) Zusätzlich zum Überwachungsprogramm nach Artikel 6 Abs. 1 in
 Verbindung mit Anhang III Kapitel A Abschnitt I und Abschnitt II der
@@ -68,6 +69,7 @@ Monate alten Tieren durchzuführen.
 
 
 ## § 1a Durchführung von BSE-Tests
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000601118)
 
 (1) Die Untersuchung von Rindern nach Artikel 6 Absatz 1 in Verbindung
 mit Absatz 1a Satz 1 Buchstabe a der Verordnung (EG) Nr. 999/2001
@@ -87,6 +89,7 @@ sind.
 
 
 ## § 2 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000201377)
 
 Der Besitzer von Tierkörpern und die nach § 3 des Tierische
 Nebenprodukte-Beseitigungsgesetzes zur Beseitigung Verpflichteten
@@ -95,6 +98,7 @@ Hilfe zu leisten.
 
 
 ## § 3 Weitergehende Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000302360)
 
 Unbeschadet der TSE-Vorsorgeverordnung bleibt die Befugnis der
 zuständigen Behörde, im Rahmen des Artikels 4 der Verordnung (EG) Nr.
@@ -108,6 +112,7 @@ bis 25 und 29 sowie Absatz 3 bis 5, jeweils auch in Verbindung mit §
 
 
 ## § 4 Durchführung des Anhangs V Nummer 3 der Verordnung (EG) Nr. 999/2001
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000401360)
 
 Die Färbung von spezifiziertem Risikomaterial nach Anhang V Nr. 3 der
 Verordnung (EG) Nr. 999/2001 hat mit dem Farbstoff Brillantblau FCF zu
@@ -119,6 +124,7 @@ erfolgen, dass diese deutlich zu erkennen ist.
 
 
 ## Anlage (zu § 1 Absatz 1a und 2, § 1a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/tse_berwv_2001/BJNR363110001.html#BJNR363110001BJNE000506119)
 
 (Fundstelle: BGBl. I 2010, 190;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

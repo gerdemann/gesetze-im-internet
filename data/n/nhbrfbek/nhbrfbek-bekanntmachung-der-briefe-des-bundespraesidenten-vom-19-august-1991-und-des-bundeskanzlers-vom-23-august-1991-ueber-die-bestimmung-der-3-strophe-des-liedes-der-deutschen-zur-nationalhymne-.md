@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/nhbrfbek/BJNR021350991.html#BJNR021350991BJNE000100307)
 
 Der Bundespräsident und der Bundeskanzler haben einen Briefwechsel zur
 Nationalhymne für die Bundesrepublik Deutschland geführt. Er wird

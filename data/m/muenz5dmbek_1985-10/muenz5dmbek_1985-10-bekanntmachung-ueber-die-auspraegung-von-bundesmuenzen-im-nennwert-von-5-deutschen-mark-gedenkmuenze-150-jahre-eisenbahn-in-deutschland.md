@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1985-10/BJNR020030985.html#BJNR020030985BJNE000100308)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -77,6 +78,7 @@ Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1985-10/BJNR020030985.html#BJNR020030985BJNE000200308)
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1985, 2003)

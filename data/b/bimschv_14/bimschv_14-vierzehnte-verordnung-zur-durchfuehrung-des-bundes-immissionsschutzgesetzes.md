@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_14/BJNR003800986.html#BJNR003800986BJNE000100326)
 
 Auf Grund des § 59 des Bundes-Immissionsschutzgesetzes vom 15. März
 1974 (BGBl. I S. 721, 1193) wird von der Bundesregierung und auf Grund
@@ -27,6 +28,7 @@ des Innern, jeweils mit Zustimmung des Bundesrates, verordnet:
 
 
 ## § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_14/BJNR003800986.html#BJNR003800986BJNE000200326)
 
 (1) Dem Bundesminister der Verteidigung oder der von ihm bestimmten
 Stelle obliegen im Bereich der Bundeswehr der Vollzug der §§ 17, 20,
@@ -59,6 +61,7 @@ genutzt werden.
 
 
 ## § 2 Besonderheiten des Genehmigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_14/BJNR003800986.html#BJNR003800986BJNE000300326)
 
 (1) Ein Genehmigungsantrag für Anlagen, die der militärischen
 Landesverteidigung dienen, muß Art und Umfang der nach § 60 Abs. 1 des
@@ -75,6 +78,7 @@ entsprechend.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_14/BJNR003800986.html#BJNR003800986BJNE000400326)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Kalendermonats in Kraft.

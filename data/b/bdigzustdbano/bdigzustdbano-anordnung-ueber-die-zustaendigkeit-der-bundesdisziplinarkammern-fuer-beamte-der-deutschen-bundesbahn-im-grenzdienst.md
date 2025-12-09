@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bdigzustdbano/BJNR520300955.html#BJNR520300955BJNE000100307)
 
 Auf Grund des § 33 Abs. 1 Satz 2 der Bundesdisziplinarordnung ordne
 ich im Einvernehmen mit dem Bundesminister des Innern folgendes an:

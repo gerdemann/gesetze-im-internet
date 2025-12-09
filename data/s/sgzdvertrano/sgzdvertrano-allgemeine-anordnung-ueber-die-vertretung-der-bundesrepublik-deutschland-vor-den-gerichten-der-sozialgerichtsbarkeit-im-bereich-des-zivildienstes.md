@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sgzdvertrano/BJNR020650982.html#BJNR020650982BJNE000100303)
 
 Auf Grund des § 51 Abs. 3 Nr. 3 Zivildienstgesetz in der Fassung der
 Bekanntmachung vom 9. August 1973 (BGBl. I S. 1015), zuletzt geändert
@@ -43,12 +44,14 @@ auf das Bundesamt für den Zivildienst, Sibille-Hartmann-Straße 2 - 6,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sgzdvertrano/BJNR020650982.html#BJNR020650982BJNE000200303)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sgzdvertrano/BJNR020650982.html#BJNR020650982BJNE000300303)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

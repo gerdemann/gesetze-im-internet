@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000100309)
 
 (1) In der Eisen- und Stahlindustrie dürfen Arbeitnehmer an Sonn- und
 Feiertagen beschäftigt werden beim Betrieb
@@ -98,6 +99,7 @@ können.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000201308)
 
 Die Beschäftigung nach § 1 Abs. 1 Nr. 2 bis 7 ist nur gestattet, wenn
 die in § 10 Abs. 1 Nr. 14 des Arbeitszeitgesetzes zugelassenen
@@ -108,12 +110,14 @@ der eine Beschäftigung nach dieser Verordnung nicht gestattet ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000300309)
 
 Arbeitnehmer dürfen nach § 1 nur unter den in den §§ 4 bis 8
 vorgesehenen Bedingungen beschäftigt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000400309)
 
 (1) Den Arbeitnehmern, die nach § 1 Abs. 1 Nr. 1 beschäftigt werden,
 ist in einem im Schichtplan festzulegenden Wechsel an mindestens 13
@@ -156,6 +160,7 @@ Tages bis 6 Uhr des auf die Feiertage folgenden Tages liegen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000500309)
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von
 acht Stunden nicht überschreiten. Sie kann, soweit es bisher gestattet
@@ -172,11 +177,13 @@ oder in der vorhergehenden Woche zu gewähren.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000601304)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000700309)
 
 (1) Wer Arbeitnehmer nach § 1 Abs. 1 Nr. 3 und 5 beschäftigt, hat ein
 Verzeichnis zu führen, in dem für jeden dieser Arbeitnehmer zu
@@ -200,6 +207,7 @@ für das Verzeichnis vorschreiben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000800309)
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser
 Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen
@@ -207,6 +215,7 @@ oder auszuhängen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/sonntrstindausnv/BJNR009000961.html#BJNR009000961BJNE000900309)
 
 Diese Verordnung gilt mit der Maßgabe, daß in § 1 Abs. 1 Nr. 2 und 3
 die Zahl "75" durch die Zahl "50" ersetzt wird, auch im Land Berlin,

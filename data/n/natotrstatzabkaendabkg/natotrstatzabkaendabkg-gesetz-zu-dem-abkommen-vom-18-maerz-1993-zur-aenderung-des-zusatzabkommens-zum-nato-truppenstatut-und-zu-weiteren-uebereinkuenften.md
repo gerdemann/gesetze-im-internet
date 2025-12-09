@@ -22,12 +22,14 @@ Zuletzt geändert durch
 Stand: Art. 1 dieses G ist am 13.10.1994 in Kraft getreten; im übrigen tritt dieses G gem. Art. 5 an dem Tage in Kraft, an dem das Abkommen zur Änderung des Zusatzabkommens in Kraft tritt\*.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000200308)
 
 (1) Folgenden, in Bonn am 18. März 1993 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkünften wird zugestimmt:
@@ -66,9 +68,11 @@ veröffentlicht.
 
 
 ## (XXXX) Art 2 und 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000300308)
 
 
 ## Art 3a
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000604116)
 
 Wer Telekommunikationsdienstleistungen für die Öffentlichkeit
 anbietet, ist im Rahmen des von ihm bereitgehaltenen Angebots
@@ -86,6 +90,7 @@ Verpflichtungen verlangen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000400308)
 
 Das Auswärtige Amt wird ermächtigt, den Wortlaut des Zusatzabkommens
 zum NATO-Truppenstatut in der durch das Änderungsabkommen geänderten
@@ -95,6 +100,7 @@ bekanntzumachen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatzabk_ndabkg/BJNR259420994.html#BJNR259420994BJNE000500308)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 5 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 5 treten gleichzeitig

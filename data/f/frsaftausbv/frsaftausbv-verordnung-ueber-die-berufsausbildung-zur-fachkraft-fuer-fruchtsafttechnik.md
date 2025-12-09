@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000100312)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -27,17 +28,20 @@ verordnet:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000200312)
 
 Der Ausbildungsberuf Fachkraft für Fruchtsafttechnik wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000300312)
 
 Die Ausbildung dauert 3 Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000400312)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -80,6 +84,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000500312)
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -90,12 +95,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000600312)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000700312)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -104,6 +111,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000800312)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -181,6 +189,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE000900312)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -316,6 +325,7 @@ sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001000312)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
@@ -325,6 +335,7 @@ Süßmoster sind vorbehaltlich des § 10 nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001100312)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -333,23 +344,27 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001200312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001300312)
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001400312)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Fruchtsafttechnik
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE001500312)
 
 (Fundstelle: BGBl. I 1984, 777 - 781)
 
@@ -1395,6 +1410,7 @@ Der Bundesminister für Wirtschaft
    Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/frsaftausbv/BJNR007740984.html#BJNR007740984BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

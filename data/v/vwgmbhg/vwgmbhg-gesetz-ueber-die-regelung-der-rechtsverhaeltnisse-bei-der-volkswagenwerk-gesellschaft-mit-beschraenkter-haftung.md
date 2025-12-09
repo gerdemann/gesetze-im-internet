@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000100314)
 
 Die Geschäftsanteile, die der ehemaligen Treuhandgesellschaft für
 wirtschaftliche Unternehmungen Gesellschaft mit beschränkter Haftung
@@ -30,6 +31,7 @@ Bundesrepublik Deutschland zu.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000200314)
 
 Der als Anlage beigefügte, zwischen dem Bund und dem Land
 Niedersachsen geschlossene Vertrag über die Regelung der
@@ -39,6 +41,7 @@ Volkswagenwerk" vom 11./12. November 1959 wird genehmigt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000300314)
 
 Die Kontrolle über die Gesellschaft auf Grund der Verordnung Nr. 202
 der Britischen Militärregierung endet mit dem Inkrafttreten dieses
@@ -46,6 +49,7 @@ Gesetzes.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000400314)
 
 Die bis zum 11. November 1959 von der Volkswagenwerk Gesellschaft mit
 beschränkter Haftung gezahlte Vermögensteuer und die bis zu diesem
@@ -59,6 +63,7 @@ keine Anwendung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000500314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -66,6 +71,7 @@ im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhg/BJNR003010960.html#BJNR003010960BJNE000600314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

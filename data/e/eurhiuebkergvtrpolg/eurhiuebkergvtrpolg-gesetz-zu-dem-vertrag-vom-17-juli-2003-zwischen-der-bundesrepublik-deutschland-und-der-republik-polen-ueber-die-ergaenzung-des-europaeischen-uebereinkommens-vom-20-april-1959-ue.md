@@ -20,6 +20,7 @@ Fundstelle
 Stand: Art. 2 tritt gem. Art. 3 Abs. 1 Satz 2 iVm Bek. v. 18.8.2004 II 1339 mWv 4.9.2004 in Kraft
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrpolg/BJNR053020004.html#BJNR053020004BJNE000100000)
 
 Dem in Berlin am 17. Juli 2003 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Polen über die Ergänzung
@@ -30,6 +31,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrpolg/BJNR053020004.html#BJNR053020004BJNE000200000)
 
 Rechtshilfeersuchen polnischer Behörden, denen eine Zuwiderhandlung
 zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
@@ -40,6 +42,7 @@ zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhi_bkergvtrpolg/BJNR053020004.html#BJNR053020004BJNE000300000)
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tag nach seiner
 Verkündung in Kraft. Artikel 2 tritt zusammen mit dem Vertrag in

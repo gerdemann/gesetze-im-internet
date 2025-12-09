@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 Nummer 5 des Bundesmeldegesetzes vom 3.
 Mai 2013 (BGBl. I S. 1084) unter Berücksichtigung des Artikels 1
@@ -30,6 +31,7 @@ verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Anwendungsbereich; Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000200000)
 
 (1) Diese Verordnung regelt die Voraussetzungen und das Verfahren für
 die Zulassung gemäß § 49 Absatz 3 Satz 2 des Bundesmeldegesetzes von
@@ -50,6 +52,7 @@ Person, die ein Portal als entgeltliche Dienstleistung anbietet.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000300000)
 
 Das Portal muss geeignet sein, die in § 49 Absatz 3 Satz 3 des
 Bundesmeldegesetzes genannten Aufgaben zu erfüllen und dabei
@@ -71,6 +74,7 @@ Bundesmeldegesetzes genannten Aufgaben zu erfüllen und dabei
 
 
 ## § 3 Protokollierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000401125)
 
 (1) Bei einem automatisierten Abruf von Daten einer Person hat das
 Portal zu gewährleisten, dass Folgendes protokolliert wird:
@@ -122,6 +126,7 @@ Absatz 1
 
 
 ## § 4 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000501125)
 
 Beim Betrieb des Portals ist sicherzustellen, dass
 
@@ -160,6 +165,7 @@ Beim Betrieb des Portals ist sicherzustellen, dass
 
 
 ## § 5 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000601116)
 
 (1) Zuständig für die Zulassung von Portalen im Sinne dieser
 Verordnung ist die nach Landesrecht dazu bestimmte Landesbehörde (§ 49
@@ -186,6 +192,7 @@ ist die oder der Datenschutzbeauftragte des Landes zu beteiligen.
 
 
 ## § 6 Vorläufige Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000700000)
 
 Für Portale, die sich bereits vor dem 1. November 2015 im Betrieb
 befanden, gilt eine befristete vorläufige Zulassung. Diese entfällt,
@@ -207,11 +214,13 @@ endet die vorläufige Zulassung.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000800000)
 
 Diese Verordnung tritt am 1. November 2015 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/portalv/BJNR177400015.html#BJNR177400015BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,6 +20,7 @@ Stand: AnO nicht mehr anzuwenden, soweit sie Regelungen für Bedienstete des Bun
 Stand: AnO nicht mehr anzuwenden soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält, vgl. Abschn. II Satz 2 AnO v. 11.7.2012 I 1530 mWv 19.7.2012
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmingsbrano/BJNR195600003.html#BJNR195600003BJNE000100000)
 
 Das Bundesministerium für Gesundheit und Soziale Sicherung überträgt
 auf
@@ -48,11 +49,13 @@ das Robert Koch-Institut
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmingsbrano/BJNR195600003.html#BJNR195600003BJNE000200000)
 
 Diese Anordnung tritt mit Wirkung vom 18. Juli 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmingsbrano/BJNR195600003.html#BJNR195600003BJNE000300000)
 
 Die Bundesministerin für Gesundheit und Soziale Sicherung
 

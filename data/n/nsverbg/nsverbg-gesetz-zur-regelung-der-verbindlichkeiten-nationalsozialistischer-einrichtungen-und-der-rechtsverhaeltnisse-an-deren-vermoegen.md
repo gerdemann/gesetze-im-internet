@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Ansprüche gegen die Nationalsozialistische Deutsche Arbeiterpartei (NSDAP) und ihre Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000100312)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000200312)
 
 
 
 #### § 1 Dem Gesetz unterliegende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE000700312)
 
 Diesem Gesetz unterliegen die in § 3 Abs. 1 Nr. 4 des Allgemeinen
 Kriegsfolgengesetzes vom 5. November 1957 (Bundesgesetzbl. I S. 1747)
@@ -55,11 +58,13 @@ Einrichtungen im Sinne dieses Gesetzes sind
 
 
 #### § 2 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE000800312)
 
 Die Einrichtungen (§ 1) sind aufgelöst.
 
 
 #### § 3 Dem Gesetz nicht unterliegende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE000900312)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf Ansprüche (§ 1), die in
 Gesetzen der Bundesrepublik Deutschland, ihrer Länder, der Verwaltung
@@ -111,6 +116,7 @@ dieser Direktive sind nur folgende Ansprüche:
 
 
 #### § 4 Erlöschen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001000312)
 
 Ansprüche (§ 1) erlöschen, soweit dieses Gesetz nichts anderes
 bestimmt. Ansprüche, die durch Rechte an Sachen oder an Rechten
@@ -118,10 +124,12 @@ gesichert sind, gelten jedoch für diese Rechte als fortbestehend.
 
 
 ### Zweiter Abschnitt - Zu erfüllende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000300312)
 
 
 
 #### § 5 Ansprüche aus der Nachkriegszeit
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001100312)
 
 Zu erfüllen sind
 
@@ -144,6 +152,7 @@ Zu erfüllen sind
 
 
 #### § 6 Schadensersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001200312)
 
 (1) Zu erfüllen sind
 
@@ -184,6 +193,7 @@ unmittelbar danach entstanden war.
 
 
 #### § 7 Versorgungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001300312)
 
 (1) Zu erfüllen sind Ansprüche (§ 1) auf Zahlung von Renten, die der
 Versorgung der Berechtigten dienen, soweit die Leistungen aus diesen
@@ -210,6 +220,7 @@ Mark im Monat übersteigen.
 
 
 #### § 8 Ausgeschlossene Gläubigergruppen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001400312)
 
 (1) Die §§ 6 und 7 finden keine Anwendung auf Ansprüche (§ 1) von
 Personen, die
@@ -240,6 +251,7 @@ Nationalsozialismus von einer Einrichtung (§ 1) übernommen worden ist.
 
 
 #### § 9 Wohnsitzvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001501301)
 
 (1) Ansprüche der in den §§ 6 und 7 bezeichneten Art sind nur unter
 der Voraussetzungen zu erfüllen, daß sie am 31. Dezember 1952 oder,
@@ -323,6 +335,7 @@ Absatzes 1 in der Person nur eines der Mitberechtigten gegeben sind.
 
 
 #### § 10 Ansprüche aus Grundstücksübereignungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001600312)
 
 Zu erfüllen sind Ansprüche (§ 1) auf Leistung eines Kaufpreises, einer
 Enteignungsentschädigung oder eines sonstigen Entgelts für im
@@ -337,6 +350,7 @@ grundstücksgleiche Rechte.
 
 
 #### § 11 Ansprüche aus dinglichen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001700312)
 
 Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer Sache
 oder an einem Recht mit Ausnahme der in den §§ 987 bis 992 des
@@ -344,6 +358,7 @@ Bürgerlichen Gesetzbuchs geregelten Ansprüche sind zu erfüllen.
 
 
 #### § 12 Gesetzeskonkurrenz
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001800312)
 
 Ist ein Anspruch (§ 1) nach einer Vorschrift dieses Teils zu erfüllen,
 so steht dieser Erfüllungsverpflichtung nicht entgegen, daß der
@@ -352,6 +367,7 @@ geringerem Umfang zu erfüllen ist.
 
 
 #### § 13 Zulässigkeit von Aufrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE001900312)
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem
 Anspruch (§ 1), dessen Erfüllung in diesem Gesetz nicht vorgesehen
@@ -359,6 +375,7 @@ ist, nicht entgegen.
 
 
 #### § 14 Umstellung von Reichsmarkansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002000312)
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der in den §§ 5, 6, 7
 und 10 bezeichneten, bisher nicht umgestellten Ansprüche außer Kraft.
@@ -367,6 +384,7 @@ geltenden Ansprüche.
 
 
 #### § 15 Anspruchsschuldner
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002100312)
 
 Anspruchsschuldner der nach den §§ 5, 6, 7 und 10 zu erfüllenden
 Ansprüche ist der Bund. Dies gilt nicht, wenn der Gläubiger von einem
@@ -374,6 +392,7 @@ Dritten Befriedigung für seinen Anspruch verlangen kann.
 
 
 #### § 16 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002200312)
 
 Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können
 Leistungen vom Bund nur verlangt werden, soweit die Ansprüche bei der
@@ -381,6 +400,7 @@ Anmeldestelle (§ 17) fristgerecht (§ 18) angemeldet worden sind.
 
 
 #### § 17 Anmeldestelle
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002301301)
 
 Anmeldestelle für die nach diesem Gesetz vom Bund zu erfüllenden
 Ansprüche ist das Bundesministerium der Finanzen oder eine von ihm zu
@@ -388,6 +408,7 @@ bestimmende Behörde oder Anstalt seines Geschäftsbereichs.
 
 
 #### § 18 Anmeldefrist, Nachsichtgewährung
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002401301)
 
 (1) Die in den §§ 5, 6, 7 und 10 bezeichneten Ansprüche können nur
 innerhalb einer Frist von einem Jahr nach Inkrafttreten dieses
@@ -422,6 +443,7 @@ nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
 
 
 #### § 19 Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002500312)
 
 Lehnt die Anmeldestelle (§ 17) die Erfüllung eines nach § 16
 angemeldeten Anspruchs ab, so kann der Anspruch nur innerhalb von
@@ -435,10 +457,12 @@ bei einem unzuständigen Gericht geltend gemacht wird.
 
 
 ### Dritter Abschnitt - Sozialversicherungsrechtliche Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000400312)
 
 
 
 #### § 20 Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002600312)
 
 (1) Personen, die auf Grund des Gesetzes über die
 versicherungsrechtliche Stellung der im Dienste der
@@ -480,6 +504,7 @@ die für den nach Absatz 2 zuständigen Versicherungszweig gelten.
 
 
 #### § 21 Beginn des Rentenanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002700312)
 
 Wird erst durch § 20 ein Anspruch auf Rente begründet oder übersteigt
 die unter Berücksichtigung des § 20 neu festgestellte Rente die
@@ -489,6 +514,7 @@ an zu gewähren.
 
 
 #### § 22 Rentenfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002800312)
 
 Soweit bei Versicherungsfällen vor Inkrafttreten dieses Gesetzes
 bereits über den Rentenanspruch entschieden ist, ist die Leistung
@@ -497,6 +523,7 @@ dies für den Berechtigten günstiger ist. § 21 findet Anwendung.
 
 
 #### § 23 Erstattungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE002900312)
 
 Den Trägern der gesetzlichen Rentenversicherung werden die Leistungen,
 die auf die in § 20 Abs. 1 bezeichneten Zeiten entfallen, vom Bund
@@ -504,6 +531,7 @@ erstattet.
 
 
 #### § 23a Nachversicherung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003001301)
 
 (1) Personen, die nach Maßgabe des § 1242b der
 Reichsversicherungsordnung, des § 18 des
@@ -535,10 +563,12 @@ der allgemeinen Rentenversicherung.
 
 
 ## Zweiter Teil - Vermögenswerte der NSDAP und ihrer Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000500312)
 
 
 
 ### § 24 Vermögensübergang
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003100312)
 
 (1) Eigentum und sonstige Vermögensrechte einer Einrichtung (§ 1),
 über die noch nicht verfügt worden ist, werden mit Inkrafttreten
@@ -575,10 +605,12 @@ sind Vermögen des Landes.
 
 
 ## Dritter Teil - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNG000600312)
 
 
 
 ### § 25 Hypothekengewinnabgabe
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003200312)
 
 Bei Anwendung des § 91 des Lastenausgleichsgesetzes auf
 Verbindlichkeit einer Einrichtung (§ 1) gilt diese als am 20. Juni
@@ -586,6 +618,7 @@ Verbindlichkeit einer Einrichtung (§ 1) gilt diese als am 20. Juni
 
 
 ### § 26 Umstellung und Hypothekengewinnabgabe in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003300312)
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der Ansprüche außer
 Kraft, die sich gegen eine Einrichtung im Sinne von Artikel I des
@@ -599,6 +632,7 @@ Ansprüche gilt die in Satz 1 bezeichnete Einrichtung als am 20. Juni
 
 
 ### § 27 Verpflichtungen der Erwerber von Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003400312)
 
 (1) Ist in den Fällen des § 3 Abs. 2 der Erwerber nach dem 20. Juni
 1948 Schuldner eines noch nicht umgestellten Anspruchs geworden, tritt
@@ -629,6 +663,7 @@ ein Zusammenhang der Schuld mit dem auf den einzelnen Erwerber
 
 
 ### § 28 Außerkrafttreten von Vorschriften des Allgemeinen Kriegsfolgengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003500312)
 
 Mit Inkrafttreten dieses Gesetzes findet § 3 Abs. 2 des Allgemeinen
 Kriegsfolgengesetzes keine Anwendung auf die in dessen § 3 Abs. 1 Nr.
@@ -636,6 +671,7 @@ Kriegsfolgengesetzes keine Anwendung auf die in dessen § 3 Abs. 1 Nr.
 
 
 ### § 29 Londoner Schuldenabkommen
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003600312)
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und
 die zu seiner Ausführung ergangenen Vorschriften werden durch die
@@ -643,6 +679,7 @@ Vorschriften dieses Gesetzes nicht berührt.
 
 
 ### § 30 Kosten anhängiger Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003700312)
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
@@ -650,12 +687,14 @@ gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
 
 ### § 31 Freistellung von Verwaltungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003800312)
 
 Meldebehördliche Aufenthalts- und Wohnsitzbescheinigungen für Zwecke
 dieses Gesetzes sind gebührenfrei auszustellen.
 
 
 ### § 32 Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE003900312)
 
 Die Verwaltungsbehörden und Gerichte, die öffentlich-rechtlichen
 Körperschaften und Anstalten und die Organisationen der
@@ -666,6 +705,7 @@ Gerichtsverfassungsgesetzes entsprechend.
 
 
 ### § 33 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE004000312)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -674,6 +714,7 @@ S. 1) auch im Land Berlin; hierbei tritt in den §§ 25, 26 und 27 Abs.
 
 
 ### § 34 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nsverbg/BJNR000790965.html#BJNR000790965BJNE004100312)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 dritten Kalendermonats in Kraft mit Ausnahme der §§ 20 bis 23, die am

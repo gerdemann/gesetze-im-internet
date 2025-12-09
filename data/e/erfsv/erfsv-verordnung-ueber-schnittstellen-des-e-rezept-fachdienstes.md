@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000100000)
 
 Auf Grund des § 361a Absatz 6 Nummer 2 bis 7 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 64 Buchstabe c des
@@ -28,6 +29,7 @@ Informationstechnik:
 
 
 ## § 1 Übermittelbare Daten
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000200000)
 
 Die Gesellschaft für Telematik darf über Schnittstellen in den
 Diensten nach § 360 Absatz 1 des Fünften Buches Sozialgesetzbuch nur
@@ -41,12 +43,14 @@ Umfang übermitteln.
 
 
 ## § 2 Verbot der Datenverarbeitung zu Werbezwecken
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000300000)
 
 Eine Verarbeitung von personenbezogenen Daten durch die Berechtigten
 zu Werbezwecken ist ausgeschlossen.
 
 
 ## § 3 Einwilligung in die Verarbeitung und Übermittlung von Verordnungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000400000)
 
 (1) Die Übermittlung von Daten nach § 1 ist nur zulässig, wenn der
 jeweilige Versicherte in die Verarbeitung durch den jeweiligen
@@ -84,6 +88,7 @@ aufgeführten technischen Profile und Datenfelder zur Verfügung.
 
 
 ## § 4 Technische Anforderungen an die Datenübermittlung und -verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000500000)
 
 Bei der Verarbeitung der Daten sind dem jeweiligen Stand der Technik
 entsprechende Maßnahmen zur Sicherstellung des Datenschutzes und der
@@ -93,6 +98,7 @@ und 11 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
 
 
 ## § 5 Anforderungen an die Dokumentation der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000600000)
 
 Den Versicherten muss unmittelbar nach jeder Übermittlung ihrer Daten
 eine Dokumentation barrierefrei und leicht zugänglich in der Anwendung
@@ -116,12 +122,14 @@ vollständige Informationen enthalten über
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage 1 Über die Schnittstellen des E-Rezept-Fachdienstes übermittelbare Daten
+[Direktlink](https://www.gesetze-im-internet.de/erfsv/BJNR1B10A0024.html#BJNR1B10A0024BJNE000800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 433, S. 3 - 5)
 

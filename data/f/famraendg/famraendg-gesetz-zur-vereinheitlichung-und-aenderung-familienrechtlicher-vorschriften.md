@@ -20,37 +20,45 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001200305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 6 - 
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNG000100305)
 
 
 
 ## Art 7 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNG000801140)
 
 
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001305140)
 
 
 
 ## Art 8 - 
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNG000900305)
 
 
 
 ## Art 9 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNG001000305)
 
 
 
 ## I. Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001500305)
 
 -
 
 
 ## II. Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001602140)
 
 
 1.  bis 4 (weggefallen)
@@ -74,11 +82,13 @@ beschlossen:
 
 
 ## III. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001701377)
 
 -
 
 
 ## IV. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/famr_ndg/BJNR012219961.html#BJNR012219961BJNE001800305)
 
 Dieses Gesetz tritt am 1. Januar 1962 in Kraft; Artikel 9 II. Nr. 6
 tritt jedoch am Tage nach der Verkündung in Kraft.

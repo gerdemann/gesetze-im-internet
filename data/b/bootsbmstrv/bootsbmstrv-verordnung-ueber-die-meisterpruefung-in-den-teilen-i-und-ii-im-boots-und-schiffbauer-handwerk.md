@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7110-3-100 v. 25.8.1992 I 1582 (BootbMstrV) und V 7110-3-128 v. 18.9.1996 I 1480 (SchiffbMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung, der zuletzt durch
 Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
@@ -30,6 +31,7 @@ Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im Bootsbauer-
@@ -38,6 +40,7 @@ Prüfungsteilen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000300000)
 
 Im Bootsbauer-Handwerk sind zum Zwecke der Meisterprüfung folgende
 Fertigkeiten und Kenntnisse zum Nachweis der beruflichen
@@ -171,6 +174,7 @@ Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -191,6 +195,7 @@ Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an
@@ -273,6 +278,7 @@ Arbeiten wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000600000)
 
 Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -300,6 +306,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung
@@ -335,6 +342,7 @@ Arbeit nach Nummer 3 auszuführen. Als Arbeiten kommen in Betracht:
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt dauert acht Arbeitstage. Das
 Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe
@@ -353,6 +361,7 @@ jeweils mit mindestens 30 Punkten bewertet worden sein müssen.
 
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE000900000)
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2
 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
@@ -529,6 +538,7 @@ auch handlungsfeldübergreifend verknüpft werden können.
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE001000000)
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie dauert
 in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs
@@ -559,6 +569,7 @@ des Teils II ist nicht bestanden, wenn
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -569,6 +580,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE001200000)
 
 (1) Die bis zum 31. August 2016 begonnenen Meisterprüfungsverfahren im
 Bootsbauer-Handwerk werden nach den bisherigen Vorschriften zu Ende
@@ -591,6 +603,7 @@ zum 31. August 2021 geltenden Vorschriften ablegen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bootsbmstrv/BJNR097400016.html#BJNR097400016BJNE001300000)
 
 Die Bootsbauermeisterverordnung tritt am 1. September 2016 in Kraft.
 Gleichzeitig tritt die Bootsbauermeisterverordnung vom 25. August 1992

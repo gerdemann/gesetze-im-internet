@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000100000)
 
 Auf Grund des § 14 Absatz 1 Nummer 1 und 2 in Verbindung mit § 6
 Absatz 1 des Forschungszulagengesetzes vom 14. Dezember 2019 (BGBl. I
@@ -30,12 +31,14 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Gegenstand, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000200000)
 
 Diese Verordnung regelt das Bescheinigungsverfahren nach § 6 des
 Gesetzes.
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000301123)
 
 (1) Zuständige Stelle für die Wahrnehmung der Aufgaben nach dieser
 Verordnung ist das Bundesministerium für Bildung und Forschung. Zur
@@ -57,6 +60,7 @@ geändert worden ist, gilt entsprechend.
 
 
 ## § 3 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000402123)
 
 (1) Der Antrag auf Erteilung einer Bescheinigung nach § 6 des Gesetzes
 ist nach amtlich vorgeschriebenem Vordruck des Bundesministeriums für
@@ -136,6 +140,7 @@ Zukunft ausgestellt werden.
 
 
 ## § 4 Antragsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000501123)
 
 (1) Die Bescheinigungsstelle prüft auf der Grundlage einheitlicher
 Vorgaben, ob ein Forschungs- und Entwicklungsvorhaben im Sinne des § 2
@@ -168,6 +173,7 @@ schließen eine Verpflichtung als Gutachterin oder Gutachter aus.
 
 
 ## § 5 Bescheinigung nach § 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000602123)
 
 (1) Die Bescheinigung wird von der Bescheinigungsstelle für alle in
 einem Antrag nach § 3 aufgeführten Forschungs- und
@@ -207,6 +213,7 @@ der Widerspruch zulässig.
 
 
 ## § 6 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000701123)
 
 (1) Über die Anträge, die Bescheinigungen und die Ablehnungen nach
 dieser Verordnung führt die Bescheinigungsstelle eine
@@ -271,6 +278,7 @@ Bescheinigungsverfahren zusammenführen.
 
 
 ## § 7 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000803123)
 
 (1) Für die weitere Bearbeitung des Antrags auf Forschungszulage nach
 § 5 des Gesetzes sowie zum Zwecke der Erfolgskontrolle, Evaluierung
@@ -296,6 +304,7 @@ des Gesetzes anzuwenden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE000901123)
 
 Diese Verordnung tritt am Tag nach der Bekanntgabe der
 Bescheinigungsstelle nach § 2 Absatz 1 in Kraft, frühestens am 1.
@@ -305,6 +314,7 @@ gesondert bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fzulbv/BJNR011800020.html#BJNR011800020BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

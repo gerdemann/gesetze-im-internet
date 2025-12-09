@@ -21,6 +21,7 @@ Neugefasst durch
 Stand: Das G ist gem. § 10 iVm Bek. v. 6.4.2005 I 1059 u. v. 19.8.2005 I 2514 mWv 24.1.2005 in Kraft getreten
 
 ## § 1 Anspruchsberechtigter, Fördergebiet
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000201377)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die im Fördergebiet begünstigte
@@ -38,6 +39,7 @@ Gebietsstand vom 3. Oktober 1990.
 
 
 ## § 2 Betriebliche Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000301377)
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
 von neuen abnutzbaren beweglichen Wirtschaftsgütern des
@@ -238,6 +240,7 @@ Absatz 6 Satz 2 gilt entsprechend.
 
 
 ## § 3 Antrag auf Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000401377)
 
 (1) Der Antrag ist bei dem für die Besteuerung des
 Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu
@@ -254,6 +257,7 @@ Nachprüfung möglich ist.
 
 
 ## § 4 Gesonderte Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000501377)
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
 § 180 Abs. 1 Nr. 2 Buchstabe b der Abgabenordnung gesondert
@@ -265,6 +269,7 @@ erforderlichen Angaben sind in den Antrag nach § 3 Abs. 2 aufzunehmen.
 
 
 ## § 5 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000603377)
 
 (1) Die für Steuervergütungen geltenden Vorschriften der
 Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163
@@ -354,6 +359,7 @@ Körperschaftsteuer auszuzahlen.
 
 
 ## § 6 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000701377)
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, so ist der
@@ -366,6 +372,7 @@ ist.
 
 
 ## § 7 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000801377)
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
 Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie
@@ -375,6 +382,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 8 Ertragsteuerliche Behandlung der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE000901377)
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -383,6 +391,7 @@ Erhaltungsaufwendungen.
 
 
 ## § 9 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE001001377)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
@@ -390,11 +399,13 @@ bekannt zu machen.
 
 
 ## § 10 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE001101377)
 
 -
 
 
 ## Anlage 1 (zu § 2 Abs. 1 Satz 9)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE001202377)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2965
 
@@ -445,6 +456,7 @@ Sensible Sektoren sind:
 
 
 ## Anlage 2 (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE001301377)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2965
 
@@ -475,6 +487,7 @@ Landkreis Saale-Orla-Kreis, Landkreis Greiz.
 
 
 ## Anlage 3 (zu § 2 Abs. 7 Satz 1 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_2005/BJNR043800004.html#BJNR043800004BJNE001401377)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2966
 

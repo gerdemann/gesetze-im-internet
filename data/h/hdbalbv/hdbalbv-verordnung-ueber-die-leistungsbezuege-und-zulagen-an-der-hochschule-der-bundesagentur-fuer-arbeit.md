@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000100000)
 
 Auf Grund des § 33 Absatz 4 Satz 1 und des § 35 des
 Bundesbesoldungsgesetzes, die durch Artikel 1 Nummer 9 des Gesetzes
@@ -27,6 +28,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000200000)
 
 (1) Diese Verordnung gilt für Professorinnen und Professoren der
 Hochschule der Bundesagentur für Arbeit (Hochschule), die ein Amt der
@@ -53,6 +55,7 @@ Besoldungsgruppen W 2 oder W 3 innehaben.
 
 
 ## § 2 Berufungsleistungsbezüge und Bleibeleistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000300000)
 
 (1) Aus Anlass von Berufungs- und Bleibeverhandlungen können
 Leistungsbezüge gewährt werden, soweit dies erforderlich ist, um eine
@@ -93,6 +96,7 @@ verändert, der die Professorin oder der Professor angehört.
 
 
 ## § 3 Besondere Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000400000)
 
 (1) Für Leistungen in den Bereichen Forschung, Lehre, Weiterbildung
 oder Nachwuchsförderung, die über den durchschnittlich zu erwartenden
@@ -165,6 +169,7 @@ gilt § 2 Absatz 5 entsprechend.
 
 
 ## § 4 Funktionsleistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000500000)
 
 (1) Funktionsleistungsbezüge können für die Zeit gewährt werden, in
 der die Professorin oder der Professor Funktionen oder besondere
@@ -178,6 +183,7 @@ funktionsgerechten Besoldung ist zu beachten.
 
 
 ## § 5 Forschungs- und Lehrzulage
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000600000)
 
 (1) Einer Professorin oder einem Professor kann eine Forschungs- und
 Lehrzulage gewährt werden, wenn
@@ -208,6 +214,7 @@ Kalenderjahr nicht überschreiten.
 
 
 ## § 6 Ruhegehaltfähigkeit befristet gewährter Leistungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000700000)
 
 (1) Befristet gewährte Berufungsleistungsbezüge, befristet gewährte
 Bleibeleistungsbezüge und befristet gewährte besondere Leistungsbezüge
@@ -234,6 +241,7 @@ Bundesbesoldungsgesetzes nicht überschreiten.
 
 
 ## § 7 Konkurrenz von Leistungsbezügen und Forschungs- und Lehrzulagen; zuständige Stelle für die Gewährung von Leistungsbezügen; ergänzende Regelungen der Hochschule
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000800000)
 
 (1) Besondere Leistungsbezüge und Funktionsleistungsbezüge können
 nebeneinander gewährt werden. Sie können auch neben
@@ -258,6 +266,7 @@ durch Aushang bekannt zu machen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hdbalbv/BJNR022200018.html#BJNR022200018BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

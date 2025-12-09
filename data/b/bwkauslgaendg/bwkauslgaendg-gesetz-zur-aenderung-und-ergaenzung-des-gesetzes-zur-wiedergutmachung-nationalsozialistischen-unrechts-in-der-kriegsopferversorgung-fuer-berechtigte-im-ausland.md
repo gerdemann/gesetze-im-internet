@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/bwkauslg_ndg/BJNR004140958.html#BJNR004140958BJNE000100314)
 
 -
 
 
 ## Art II
+[Direktlink](https://www.gesetze-im-internet.de/bwkauslg_ndg/BJNR004140958.html#BJNR004140958BJNE000200314)
 
 
 1.  Neue oder höhere Ansprüche auf Wiedergutmachung, die durch dieses
@@ -47,6 +49,7 @@ Fundstelle
 
 
 ## Art III
+[Direktlink](https://www.gesetze-im-internet.de/bwkauslg_ndg/BJNR004140958.html#BJNR004140958BJNE000300314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -54,6 +57,7 @@ im Land Berlin.
 
 
 ## Art IV
+[Direktlink](https://www.gesetze-im-internet.de/bwkauslg_ndg/BJNR004140958.html#BJNR004140958BJNE000400314)
 
 Das Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in
 der Kriegsopferversorgung für Berechtigte im Ausland vom 3. August
@@ -62,6 +66,7 @@ auch im Saarland.
 
 
 ## Art V
+[Direktlink](https://www.gesetze-im-internet.de/bwkauslg_ndg/BJNR004140958.html#BJNR004140958BJNE000500314)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

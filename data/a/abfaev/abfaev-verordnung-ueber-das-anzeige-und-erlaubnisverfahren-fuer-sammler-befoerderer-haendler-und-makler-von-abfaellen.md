@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000200000)
 
 (1) Diese Verordnung gilt für
 
@@ -50,6 +52,7 @@ geändert worden ist, in der jeweils geltenden Fassung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000301116)
 
 (1) Inhaber im Sinne dieser Verordnung ist diejenige natürliche oder
 juristische Person oder Personenvereinigung, die den die Sammler-,
@@ -77,9 +80,11 @@ Tätigkeiten mitwirken.
 
 
 ## Abschnitt 2 - Anforderungen an Sammler, Beförderer, Händler und Makler von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNG000200000)
 
 
 ### § 3 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000401116)
 
 (1) Die nach § 53 Absatz 2 Satz 1 und § 54 Absatz 1 Satz 2 Nummer 1
 des Kreislaufwirtschaftsgesetzes erforderliche Zuverlässigkeit ist
@@ -128,6 +133,7 @@ wenn eine der in Absatz 1 genannten Personen
 
 
 ### § 4 Fachkunde von Anzeigepflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000500000)
 
 (1) Im Falle einer gewerbsmäßigen Tätigkeit des anzeigenden Sammlers,
 Beförderers, Händlers oder Maklers von Abfällen setzt die nach § 53
@@ -198,6 +204,7 @@ werden, und eine regelmäßige entsprechende Fortbildung anordnen.
 
 
 ### § 5 Fachkunde von Erlaubnispflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000600000)
 
 (1) Die nach § 54 Absatz 1 Satz 2 Nummer 2 des
 Kreislaufwirtschaftsgesetzes notwendige Fachkunde des Inhabers, soweit
@@ -264,6 +271,7 @@ und dies der zuständigen Behörde unaufgefordert nachzuweisen.
 
 
 ### § 6 Sachkunde des sonstigen Personals
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000700000)
 
 Die Sachkunde des sonstigen Personals nach § 53 Absatz 2 Satz 2 und §
 54 Absatz 1 Satz 2 Nummer 2 des Kreislaufwirtschaftsgesetzes
@@ -279,9 +287,11 @@ Einarbeitungsplan schriftlich erstellt und ihr vorgelegt wird.
 
 
 ## Abschnitt 3 - Anzeige durch Sammler, Beförderer, Händler und Makler von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNG000300000)
 
 
 ### § 7 Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000801116)
 
 (1) Die Anzeige der Aufnahme der betrieblichen Tätigkeit durch
 Sammler, Beförderer, Händler und Makler von Abfällen nach § 53 Absatz
@@ -352,6 +362,7 @@ oder bei gefährlichen Abfällen zwei Tonnen übersteigt.
 
 
 ### § 8 Elektronisches Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE000901116)
 
 (1) Zur elektronischen Erstattung der Anzeige stellen die Länder ein
 bundesweit einheitliches informationstechnisches System bereit, in dem
@@ -412,9 +423,11 @@ informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
 
 ## Abschnitt 4 - Erlaubnis für Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNG000400000)
 
 
 ### § 9 Antrag und beizufügende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001001116)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zum Sammeln, Befördern,
 Handeln und Makeln von gefährlichen Abfällen nach § 54 Absatz 1 Satz 1
@@ -500,6 +513,7 @@ zuständige Behörde die Einreichung von Originalen verlangen.
 
 
 ### § 10 Erlaubnisverfahren und -erteilung
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001100000)
 
 (1) Nach Eingang des Antrages überprüft die zuständige Behörde die
 Vollständigkeit des Antrages. Sie stellt dem Antragsteller im Falle
@@ -580,6 +594,7 @@ hat.
 
 
 ### § 11 Elektronisches Verfahren zur Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001201116)
 
 (1) Zur elektronischen Stellung des Erlaubnisantrages stellen die
 Länder ein bundesweit einheitliches informationstechnisches System
@@ -628,6 +643,7 @@ informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
 
 ### § 12 Ausnahmen von der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001301116)
 
 (1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des
 § 2 Absatz 2 Satz 1 des Verpackungsgesetzes, des § 2 Absatz 3 Satz 1
@@ -690,9 +706,11 @@ Kreislaufwirtschaftsgesetzes anordnen.
 
 
 ## Abschnitt 5 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNG000500000)
 
 
 ### § 13 Mitführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001402125)
 
 (1) Soweit die Tätigkeit anzeigepflichtig ist, haben Sammler und
 Beförderer von Abfällen bei Ausübung ihrer Tätigkeit eine Kopie und im
@@ -734,6 +752,7 @@ einer Biogasanlage befördert.
 
 
 ### § 13a Ausnahmen von der Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001500000)
 
 Die zuständige Behörde kann Sammler und Beförderer von der Pflicht
 nach § 55 Absatz 1 des Kreislaufwirtschaftsgesetzes und § 10 Absatz 1
@@ -753,6 +772,7 @@ Fahrzeuge verlangen.
 
 
 ### § 14 Behördenregister
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001600000)
 
 (1) Die Länder führen ein bundesweit einheitliches elektronisches
 Register über die nach § 53 Absatz 1 Satz 1 des
@@ -769,6 +789,7 @@ sie zur Registerführung nicht mehr erforderlich sind.
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001701116)
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -784,6 +805,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE001800000)
 
 (1) Am 1. Juni 2014 bereits begonnene Verfahren zur Erstattung einer
 Anzeige nach § 53 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes
@@ -835,6 +857,7 @@ Lehrgangsprogramm vorlegt.
 Absatz 3 Satz 2 sowie zu § 16 Absatz 2 und 5)
 
 ### Anlage 1 Lehrgangsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE002000000)
 
 (Fundstelle: BGBl. I 2013, 4050)
 
@@ -936,6 +959,7 @@ vermitteln:
 § 16 Absatz 1 Satz 2)
 
 ### Anlage 2 Vordruck für die Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE002100000)
 
 (Fundstelle: BGBl. I 2013, 4051 - 4054)
 
@@ -948,6 +972,7 @@ vermitteln:
 2)
 
 ### Anlage 3 Vordruck für den Antrag auf Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE002200000)
 
 (Fundstelle: BGBl. I 2013, 4055 - 4057)
 
@@ -958,6 +983,7 @@ vermitteln:
 (zu § 10 Absatz 3 Satz 1)
 
 ### Anlage 4 Vordruck für die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/abf_v/BJNR404310013.html#BJNR404310013BJNE002300000)
 
 (Fundstelle: BGBl. I 2013, 4058 - 4059)
 

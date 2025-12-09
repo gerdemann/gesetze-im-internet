@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000100000)
 
 Auf Grund des § 118 Absatz 2 des Elften Buches Sozialgesetzbuch –
 Soziale Pflegeversicherung –, der durch Artikel 1 Nummer 45 des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Voraussetzungen für die Anerkennung maßgeblicher Organisationen auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000200000)
 
 Maßgebliche Organisationen für die Wahrnehmung der Interessen und der
 Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der
@@ -66,6 +68,7 @@ Buches Sozialgesetzbuch sind Organisationen, die
 
 
 ## § 2 Anerkannte Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000300000)
 
 Als maßgebliche Organisationen für die Wahrnehmung der Interessen und
 der Selbsthilfe der pflegebedürftigen und behinderten Menschen auf
@@ -95,6 +98,7 @@ Bundesebene gelten:
 
 
 ## § 3 Anerkennung weiterer Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000400000)
 
 Das Bundesministerium für Gesundheit kann auf Antrag weitere
 Organisationen, die nicht Mitglied der in § 2 genannten Verbände sind,
@@ -108,6 +112,7 @@ Verwaltungsakt.
 
 
 ## § 4 Entzug der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000500000)
 
 Hat der Spitzenverband Bund der Pflegekassen oder ein anderer
 Vereinbarungspartner nach § 113 des Elften Buches Sozialgesetzbuch
@@ -122,6 +127,7 @@ des § 118 des Elften Buches Sozialgesetzbuch ist.
 
 
 ## § 5 Verfahren der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000600000)
 
 (1) Die in § 2 genannten und die nach § 3 anerkannten Organisationen
 können zur Wahrnehmung der in § 118 Absatz 1 des Elften Buches
@@ -148,6 +154,7 @@ Elften Buches Sozialgesetzbuch.
 
 
 ## § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000700000)
 
 Wurden vor dem 30. Oktober 2012 bereits Verfahren zur Erstellung von
 den in § 118 Absatz 1 Satz 1 Nummer 1 des Elften Buches
@@ -160,11 +167,13 @@ Verfahrensstand.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflebeteiligungsv/BJNR059900013.html#BJNR059900013BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

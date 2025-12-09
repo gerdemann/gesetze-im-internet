@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000300314)
 
 1\.
 2\.
@@ -49,15 +52,18 @@ beschlossen:
 
 
 ## (XXXX) Art 3 u. 4
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000400314)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000500314)
 
 -
 
 
 ## Art 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000600314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -66,6 +72,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 7 Inkrafttreten, Außerkrafttreten von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khng/BJNR017160984.html#BJNR017160984BJNE000700314)
 
 (1) Dieses Gesetz tritt
 mit Ausnahme der in Absatz 2 genannten Vorschriften am 1. Januar 1985

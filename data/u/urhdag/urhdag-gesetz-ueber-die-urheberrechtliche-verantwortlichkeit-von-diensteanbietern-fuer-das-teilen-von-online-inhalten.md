@@ -27,9 +27,11 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000100000)
 
 
 ### § 1 Öffentliche Wiedergabe; Verantwortlichkeit des Diensteanbieters
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000201360)
 
 (1) Ein Diensteanbieter (§ 2) gibt Werke öffentlich wieder, wenn er
 der Öffentlichkeit Zugang zu urheberrechtlich geschützten Werken
@@ -69,6 +71,7 @@ sich auf Absatz 2 nicht berufen.
 
 
 ### § 2 Diensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000300000)
 
 (1) Diensteanbieter im Sinne dieses Gesetzes sind Anbieter von
 Diensten im Sinne des Artikels 1 Absatz 1 Buchstabe b der Richtlinie
@@ -111,6 +114,7 @@ vorangegangenen Kalenderjahres.
 
 
 ### § 3 Nicht erfasste Dienste
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000400000)
 
 Dieses Gesetz gilt insbesondere nicht für
 
@@ -145,9 +149,11 @@ Dieses Gesetz gilt insbesondere nicht für
 
 
 ## Teil 2 - Erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000200000)
 
 
 ### § 4 Pflicht zum Erwerb vertraglicher Nutzungsrechte; Direktvergütungsanspruch des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000500000)
 
 (1) Ein Diensteanbieter ist verpflichtet, bestmögliche Anstrengungen
 zu unternehmen, um die vertraglichen Nutzungsrechte für die
@@ -200,6 +206,7 @@ Verwertungsgesellschaft geltend gemacht werden.
 
 
 ### § 5 Gesetzlich erlaubte Nutzungen; Vergütung des Urhebers
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000600000)
 
 (1) Zulässig ist die öffentliche Wiedergabe von urheberrechtlich
 geschützten Werken und Teilen von Werken durch den Nutzer eines
@@ -233,6 +240,7 @@ hinzuweisen.
 
 
 ### § 6 Erstreckung von Erlaubnissen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000700000)
 
 (1) Ist dem Diensteanbieter die öffentliche Wiedergabe eines Werkes
 erlaubt, so wirkt diese Erlaubnis auch zugunsten des Nutzers, sofern
@@ -245,9 +253,11 @@ auch zugunsten des Diensteanbieters.
 
 
 ## Teil 3 - Unerlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000300000)
 
 
 ### § 7 Qualifizierte Blockierung
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000800000)
 
 (1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2
 verpflichtet, durch Sperrung oder Entfernung (Blockierung) bestmöglich
@@ -281,6 +291,7 @@ nach Absatz 1 verpflichtet sind.
 
 
 ### § 8 Einfache Blockierung
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE000900000)
 
 (1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2
 verpflichtet, die öffentliche Wiedergabe eines Werkes durch
@@ -297,9 +308,11 @@ stellt.
 
 
 ## Teil 4 - Mutmaßlich erlaubte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000400000)
 
 
 ### § 9 Öffentliche Wiedergabe mutmaßlich erlaubter Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001000000)
 
 (1) Um unverhältnismäßige Blockierungen beim Einsatz automatisierter
 Verfahren zu vermeiden, sind mutmaßlich erlaubte Nutzungen bis zum
@@ -330,6 +343,7 @@ lassen.
 
 
 ### § 10 Geringfügige Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001100000)
 
 Die folgenden Nutzungen von Werken Dritter gelten als geringfügig im
 Sinne des § 9 Absatz 2 Satz 1 Nummer 3, sofern sie nicht zu
@@ -353,6 +367,7 @@ dienen:
 
 
 ### § 11 Kennzeichnung als erlaubte Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001200000)
 
 (1) Soll ein nutzergenerierter Inhalt beim Hochladen automatisiert
 blockiert werden und handelt es sich nicht um eine geringfügige
@@ -380,6 +395,7 @@ nach Absatz 1 Nummer 3 für 48 Stunden als mutmaßlich erlaubt gilt.
 
 
 ### § 12 Vergütung durch Diensteanbieter; Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001300000)
 
 (1) Für die öffentliche Wiedergabe mutmaßlich erlaubter Nutzungen nach
 den §§ 9 bis 11 hat der Diensteanbieter dem Urheber eine angemessene
@@ -403,9 +419,11 @@ verantwortlich.
 
 
 ## Teil 5 - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000500000)
 
 
 ### § 13 Rechtsbehelfe; Schutz vor Entstellung; Zugang zu den Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001400000)
 
 (1) Für Nutzer und Rechtsinhaber ist die Teilnahme an
 Beschwerdeverfahren nach den §§ 14 und 15 freiwillig.
@@ -422,6 +440,7 @@ nach § 8 verlangen.
 
 
 ### § 14 Internes Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001500000)
 
 (1) Der Diensteanbieter muss den Nutzern und den Rechtsinhabern ein
 wirksames, kostenfreies und zügiges Beschwerdeverfahren über die
@@ -456,6 +475,7 @@ getroffen werden, die unparteiisch sind.
 
 
 ### § 15 Externe Beschwerdestelle
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001601360)
 
 (1) Der Diensteanbieter kann sich zur Erfüllung seiner Pflichten nach
 § 14 einer anerkannten externen Beschwerdestelle bedienen.
@@ -515,6 +535,7 @@ ihrer Internetseite zu veröffentlichen und dem Bundesamt für Justiz zu
 
 
 ### § 16 Außergerichtliche Streitbeilegung durch private Schlichtungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001701360)
 
 (1) Zur außergerichtlichen Beilegung von Streitigkeiten über die
 Blockierung und öffentliche Wiedergabe eines geschützten Werkes durch
@@ -602,6 +623,7 @@ anzuwenden.
 
 
 ### § 17 Außergerichtliche Streitbeilegung durch die behördliche Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001801360)
 
 (1) Das Bundesamt für Justiz richtet im Einvernehmen mit dem Deutschen
 Patent- und Markenamt eine behördliche Schlichtungsstelle ein.
@@ -621,9 +643,11 @@ Schlichtungsordnung anzugeben.
 
 
 ## Teil 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNG000600000)
 
 
 ### § 18 Maßnahmen gegen Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE001900000)
 
 (1) Verlangt ein vermeintlicher Rechtsinhaber von dem Diensteanbieter
 wiederholt die Blockierung eines fremden Werkes als eigenes Werk oder
@@ -670,6 +694,7 @@ in Anspruch genommen werden.
 
 
 ### § 19 Auskunftsrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE002001360)
 
 (1) Der Rechtsinhaber kann von dem Diensteanbieter Auskunft über die
 nach § 4 vertraglich erlaubte Nutzung seines Repertoires verlangen.
@@ -683,6 +708,7 @@ verlangen.
 
 
 ### § 20 Inländischer Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE002101360)
 
 Für die Verpflichtung des Diensteanbieters, bei dem nach § 2 des
 Digitale-Dienste-Gesetzes kein anderer Mitgliedstaat Sitzland ist oder
@@ -692,6 +718,7 @@ des Netzwerkdurchsetzungsgesetzes entsprechend.
 
 
 ### § 21 Anwendung auf verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE002200000)
 
 (1) Dieses Gesetz ist auf verwandte Schutzrechte im Sinne des
 Urheberrechtsgesetzes und ihre Inhaber entsprechend anzuwenden.
@@ -701,6 +728,7 @@ und dem ausübenden Künstler zu.
 
 
 ### § 22 Zwingendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/urhdag/BJNR121500021.html#BJNR121500021BJNE002300000)
 
 Von den Vorschriften dieses Gesetzes kann durch Vertrag nicht
 abgewichen werden.

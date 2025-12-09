@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000100000)
 
 Zum 1. Januar 2013 wird als Träger für die landwirtschaftliche
 Sozialversicherung eine bundesunmittelbare Körperschaft des
@@ -29,6 +30,7 @@ Namen „Sozialversicherung für Landwirtschaft, Forsten und Gartenbau“.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000200000)
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist
 zuständig für die Durchführung der landwirtschaftlichen
@@ -38,6 +40,7 @@ Pflegeversicherung.
 
 
 ## § 3 Eingliederung der Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000300000)
 
 (1) Die landwirtschaftlichen Berufsgenossenschaften, die
 landwirtschaftlichen Alterskassen, die landwirtschaftlichen
@@ -58,6 +61,7 @@ werden zum 1. Januar 2013 aufgelöst.
 
 
 ## § 4 Sitz, Aufbau und Satzung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000401126)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 ist zweistufig aufgebaut. Der Sitz der Hauptverwaltung wird durch die
@@ -72,6 +76,7 @@ Sicherung.
 
 
 ## § 5 Dienstherrnfähigkeit, Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000501124)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 besitzt Dienstherrnfähigkeit im Sinne des § 2 des
@@ -97,6 +102,7 @@ Siebten Buches Sozialgesetzbuch entsprechend.
 
 
 ## § 6 Kosten bei Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000601377)
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie der
@@ -112,6 +118,7 @@ Durchführung dieses Gesetzes dient.
 
 
 ## § 7 Altersrückstellungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000711126)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 bildet für die bei ihr Beschäftigten, denen eine Anwartschaft auf
@@ -174,6 +181,7 @@ kann eine frühere oder spätere Entnahme genehmigen.
 
 
 ## § 8 Zusammenarbeit mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/svlfgg/BJNR057910012.html#BJNR057910012BJNE000800000)
 
 (1) Mit der regelmäßigen Wahrnehmung laufender Verwaltungsaufgaben in
 der landwirtschaftlichen Sozialversicherung kann die

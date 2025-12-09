@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000100328)
 
 Auf Grund der §§ 7 und 9 der Dreiunddreißigsten
 Durchführungsverordnung zum Umstellungsgesetz
@@ -29,6 +30,7 @@ Aufsichtsbehörden und der Bank deutscher Länder folgendes angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000200328)
 
 Die Bestimmungen des § 25 des Umstellungsgesetzes sowie der
 Dreiunddreißigsten und der Vierunddreißigsten Durchführungsverordnung
@@ -40,6 +42,7 @@ Rechtsverhältnisse handelt, die unter § 2 dieser Anordnung fallen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000300328)
 
 Bausparkassen der in § 1 bezeichneten Art können für vor dem 21. Juni
 1948 begründete Verbindlichkeiten nur in Anspruch genommen werden,
@@ -57,6 +60,7 @@ des Satzes 1 erfüllt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000400328)
 
 (1) Bausparkassen der in § 1 bezeichneten Art haben in die
 Umstellungsrechnung einzustellen:
@@ -96,6 +100,7 @@ am 20. Juni 1948 bestanden haben.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000500328)
 
 (1) Bausparkassen der in § 1 bezeichneten Art haben an Stelle eines
 Reichsmarkabschlusses ihre Vermögenswerte und diejenigen
@@ -108,6 +113,7 @@ Vorschriften zu veröffentlichen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobausparkano/BJNR500310950.html#BJNR500310950BJNE000600328)
 
 Auf Bausparkassen der in § 1 bezeichneten Art sind die Richtlinien der
 Aufsichtsbehörden des Währungsgebietes zur Erstellung des

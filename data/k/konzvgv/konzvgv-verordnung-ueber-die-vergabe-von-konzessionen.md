@@ -24,12 +24,15 @@ Konzessionsvergabe (ABl. L 94 vom 28.3.2014, S. 1).
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen und Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000200000)
 
 
 #### § 1 Gegenstand und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000200000)
 
 Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende
 Verfahren bei der dem Teil 4 des Gesetzes gegen
@@ -38,6 +41,7 @@ durch einen Konzessionsgeber.
 
 
 #### § 2 Berechnung des geschätzten Vertragswerts
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000300000)
 
 (1) Der Konzessionsgeber berechnet den geschätzten Vertragswert nach
 einer objektiven Methode, die in den Vergabeunterlagen anzugeben ist.
@@ -118,6 +122,7 @@ Verordnung für die Vergabe jedes Loses anzuwenden.
 
 
 #### § 3 Laufzeit von Konzessionen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000400000)
 
 (1) Die Laufzeit von Konzessionen ist beschränkt. Der Konzessionsgeber
 schätzt die Laufzeit je nach den geforderten Bau- oder
@@ -141,6 +146,7 @@ rechtfertigen.
 
 
 #### § 4 Wahrung der Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000500000)
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts
 anderes bestimmt ist, darf der Konzessionsgeber keine von den
@@ -164,6 +170,7 @@ einer Verschwiegenheitserklärung.
 
 
 #### § 5 Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000600000)
 
 (1) Organmitglieder und Mitarbeiter des Konzessionsgebers oder eines
 im Namen des Konzessionsgebers handelnden Beschaffungsdienstleisters,
@@ -213,6 +220,7 @@ und Pflegekinder.
 
 
 #### § 6 Dokumentation und Vergabevermerk
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000700000)
 
 (1) Der Konzessionsgeber dokumentiert das Vergabeverfahren von Beginn
 an fortlaufend in Textform nach § 126b des Bürgerlichen Gesetzbuchs,
@@ -270,9 +278,11 @@ mindestens jedoch für drei Jahre ab dem Tag des Zuschlags.
 
 
 ### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000301125)
 
 
 #### § 7 Grundsätze der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000800000)
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in
 einem Vergabeverfahren verwenden der Konzessionsgeber und die
@@ -292,6 +302,7 @@ Registrierung ist zulässig.
 
 
 #### § 8 Anforderungen an die verwendeten elektronischen Mittel
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE000900000)
 
 (1) Der Konzessionsgeber legt das erforderliche Sicherheitsniveau für
 die elektronischen Mittel fest. Elektronische Mittel, die der
@@ -336,6 +347,7 @@ Verwaltungen von Bund und Ländern vom 1. April 2010 zu verwenden.
 
 
 #### § 8a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003800125)
 
 Für die Erstellung und Übermittlung von Konzessionsbekanntmachungen,
 Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu
@@ -348,6 +360,7 @@ den Datenservice Öffentlicher Einkauf entsprechend.
 
 
 #### § 9 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001002124)
 
 (1) Elektronische Mittel und deren technische Merkmale müssen
 allgemein verfügbar, nichtdiskriminierend und mit allgemein
@@ -381,6 +394,7 @@ Informationen zur Verfügung stellen über
 
 
 #### § 10 Einsatz alternativer elektronischer Mittel bei der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001100000)
 
 Der Konzessionsgeber kann im Vergabeverfahren die Verwendung
 elektronischer Mittel, die nicht allgemein verfügbar sind (alternative
@@ -399,6 +413,7 @@ elektronische Mittel), verlangen, wenn der Konzessionsgeber
 
 
 #### § 11 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001200000)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften über die zu verwendenden elektronischen Mittel
@@ -407,12 +422,15 @@ einzuhaltenden technischen Standards erlassen.
 
 
 ## Abschnitt 2 - Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000500000)
 
 
 #### § 12 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001300000)
 
 (1) Der Konzessionsgeber darf das Verfahren zur Vergabe von
 Konzessionen nach Maßgabe dieser Verordnung frei ausgestalten. Der
@@ -431,6 +449,7 @@ von Informationen nicht diskriminieren.
 
 
 #### § 13 Verfahrensgarantien
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001400000)
 
 (1) Konzessionen werden auf der Grundlage der von dem Konzessionsgeber
 gemäß § 31 festgelegten Zuschlagskriterien vergeben, sofern alle
@@ -481,6 +500,7 @@ hoch sein, dass der Wettbewerb gewährleistet ist.
 
 
 #### § 14 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001500000)
 
 Das Verfahren zur Vergabe einer Konzession darf nicht in einer Weise
 ausgestaltet werden, dass es vom Anwendungsbereich des Teils 4 des
@@ -491,9 +511,11 @@ werden.
 
 
 ### Unterabschnitt 2 - Vorbereitung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000600000)
 
 
 #### § 15 Leistungsbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001600000)
 
 (1) In der Leistungsbeschreibung werden die für die
 vertragsgegenständlichen Bau- oder Dienstleistungen geforderten
@@ -537,6 +559,7 @@ Lösungen diese Anforderungen in gleichwertiger Weise erfüllen.
 
 
 #### § 16 Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001700000)
 
 Die Vergabeunterlagen umfassen jede Unterlage, die vom
 Konzessionsgeber erstellt wird oder auf die er sich bezieht, um
@@ -548,6 +571,7 @@ allgemeingültige Verpflichtungen.
 
 
 #### § 17 Bereitstellung der Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001800000)
 
 (1) Der Konzessionsgeber gibt in der Konzessionsbekanntmachung oder –
 sofern die Konzessionsbekanntmachung keine Aufforderung zur
@@ -570,6 +594,7 @@ für den Eingang der Angebote verlängert wird.
 
 
 #### § 18 Zusätzliche Auskünfte zu den Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE001900000)
 
 Der Konzessionsgeber erteilt allen Unternehmen, die sich an dem
 Vergabeverfahren beteiligen, spätestens sechs Tage vor dem
@@ -579,9 +604,11 @@ Auskünfte rechtzeitig angefordert haben.
 
 
 ### Unterabschnitt 3 - Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000700000)
 
 
 #### § 19 Konzessionsbekanntmachung; Ex-ante-Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002001125)
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zu
 vergeben, in einer Konzessionsbekanntmachung mit.
@@ -602,6 +629,7 @@ Verbindung mit § 8a.
 
 
 #### § 20 Ausnahmen von der Konzessionsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002100000)
 
 (1) Von einer Konzessionsbekanntmachung kann abgesehen werden, wenn
 die Bau- oder Dienstleistung nur von einem bestimmten Unternehmen
@@ -665,6 +693,7 @@ Anforderung ein Verfahrensbericht vorgelegt wird. Ungeeignet sind
 
 
 #### § 21 Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002201125)
 
 (1) Der Konzessionsgeber übermittelt spätestens 48 Tage nach der
 Vergabe einer Konzession eine Vergabebekanntmachung mit dem Ergebnis
@@ -682,6 +711,7 @@ Verbindung mit § 8a erstellt.
 
 
 #### § 22 Konzessionen, die soziale und andere besondere Dienstleistungen betreffen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002301125)
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zur
 Erbringung sozialer Dienstleistungen oder anderer besonderer
@@ -705,6 +735,7 @@ Wettbewerbsbeschränkungen ist § 21 Absatz 2 anzuwenden.
 
 
 #### § 23 Form und Modalitäten der Veröffentlichung von Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002401125)
 
 (1) Der Konzessionsgeber muss den Tag der Absendung der
 Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen
@@ -726,9 +757,11 @@ für Veröffentlichungen der Europäischen Union anzugeben.
 
 
 ### Unterabschnitt 4 - Auswahlverfahren und Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000800000)
 
 
 #### § 24 Rechtsform von Unternehmen und Bietergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002500000)
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des Staats,
 in dem sie niedergelassen sind, zur Erbringung der betreffenden
@@ -757,6 +790,7 @@ der Konzession erforderlich ist.
 
 
 #### § 25 Anforderungen an die Auswahl geeigneter Unternehmen; Eignungsleihe
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002600000)
 
 (1) Der Konzessionsgeber legt die Eignungskriterien gemäß § 152 Absatz
 2 in Verbindung mit § 122 des Gesetzes gegen Wettbewerbsbeschränkungen
@@ -785,6 +819,7 @@ die Vertragsdurchführung haften.
 
 
 #### § 26 Beleg für die Eignung und das Nichtvorliegen von Ausschlussgründen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002700000)
 
 (1) Der Konzessionsgeber prüft die Eignung und das Nichtvorliegen von
 Ausschlussgründen aufgrund der Vorlage von Eigenerklärungen oder von
@@ -803,6 +838,7 @@ gesamten Konzessionslaufzeit zur Verfügung stehen werden.
 
 
 #### § 27 Fristen für den Eingang von Teilnahmeanträgen und Angeboten
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002800000)
 
 (1) Der Konzessionsgeber berücksichtigt bei der Festsetzung von
 Fristen insbesondere die Komplexität der Konzession und die Zeit, die
@@ -826,6 +862,7 @@ mit elektronischen Mitteln eingereicht werden.
 
 
 #### § 28 Form und Übermittlung der Teilnahmeanträge und Angebote
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE002901118)
 
 (1) Bewerber oder Bieter übermitteln ihre Teilnahmeanträge und
 Angebote grundsätzlich in Textform nach § 126b des Bürgerlichen
@@ -872,6 +909,7 @@ als elektronischer Mittel für erforderlich hält.
 
 
 #### § 29 Prüfung und Aufbewahrung der ungeöffneten Teilnahmeanträge und Angebote
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003000000)
 
 Der Konzessionsgeber prüft den Inhalt der Teilnahmeanträge und
 Angebote erst nach Ablauf der Frist für ihre Einreichung. Bei der
@@ -880,6 +918,7 @@ Integrität und die Vertraulichkeit der Daten zu gewährleisten.
 
 
 #### § 30 Unterrichtung der Bewerber oder Bieter
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003100000)
 
 (1) Unbeschadet § 134 des Gesetzes gegen Wettbewerbsbeschränkungen
 unterrichtet der Konzessionsgeber alle Bewerber oder Bieter
@@ -915,6 +954,7 @@ würde.
 
 
 #### § 31 Zuschlagskriterien
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003200000)
 
 (1) Die Zuschlagskriterien nach § 152 Absatz 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen sind in absteigender Rangfolge anzugeben.
@@ -937,6 +977,7 @@ Zuschlagskriterien tatsächlich erfüllen.
 
 
 #### § 32 Aufhebung von Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003300000)
 
 (1) Der Konzessionsgeber ist berechtigt, ein Vergabeverfahren ganz
 oder teilweise aufzuheben, wenn
@@ -965,9 +1006,11 @@ Textform nach § 126b des Bürgerlichen Gesetzbuchs mit.
 
 
 ## Abschnitt 3 - Ausführung der Konzession
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG000900000)
 
 
 ### § 33 Vergabe von Unteraufträgen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003400000)
 
 (1) Der Konzessionsgeber kann Unternehmen in der
 Konzessionsbekanntmachung oder den Vergabeunterlagen auffordern, bei
@@ -1026,9 +1069,11 @@ Bewerber oder Bieter dafür eine Frist setzen.
 
 
 ## Abschnitt 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNG001000000)
 
 
 ### § 34 Übergangsbestimmung für die elektronische Kommunikation und elektronische Übermittlung von Teilnahmeanträgen und Angeboten
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003500000)
 
 Abweichend von § 28 Absatz 1 kann der Konzessionsgeber bis zum 18.
 Oktober 2018 die Übermittlung der Teilnahmeanträge und Angebote auch
@@ -1040,6 +1085,7 @@ der Vergabeunterlagen gemäß § 17 betrifft.
 
 
 ### § 35 Elektronische Kommunikation durch Auslandsdienststellen
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003600000)
 
 Auslandsdienststellen sind bei der Vergabe von Konzessionen nicht
 verpflichtet, elektronische Mittel nach den §§ 7 bis 11 und 28 dieser
@@ -1047,6 +1093,7 @@ Verordnung anzuwenden.
 
 
 ### § 36 Fristberechnung
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003700000)
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
@@ -1055,6 +1102,7 @@ Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 
 
 ### § 37 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+[Direktlink](https://www.gesetze-im-internet.de/konzvgv/BJNR068300016.html#BJNR068300016BJNE003900125)
 
 Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung
 ergebenden Tages sind

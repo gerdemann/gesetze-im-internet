@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brao_206dv/BJNR288600002.html#BJNR288600002BJNE000100308)
 
 Auf Grund des § 206 Abs. 1 Satz 2 der Bundesrechtsanwaltsordnung in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 303-8,
@@ -29,6 +30,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/brao_206dv/BJNR288600002.html#BJNR288600002BJNE000204125)
 
 (1) Die in Anlage 1 aufgeführten Berufe der dort bezeichneten Staaten
 und Gebiete erfüllen die Voraussetzungen des § 206 Absatz 2 Satz 1 der
@@ -40,12 +42,14 @@ Bundesrechtsanwaltsordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/brao_206dv/BJNR288600002.html#BJNR288600002BJNE000300308)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Anwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
+[Direktlink](https://www.gesetze-im-internet.de/brao_206dv/BJNR288600002.html#BJNR288600002BJNE000415125)
 
 (Fundstelle: BGBl. I 2009, 1387 u. 1388
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -303,6 +307,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Abs. 2)
 
 ## Anlage 2 Anwaltsberufe in anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/brao_206dv/BJNR288600002.html#BJNR288600002BJNE000503125)
 
 (Fundstelle: BGBl. I 2005, 1453
 bzgl. der einzelnen Änderungen vgl. Fußnote)

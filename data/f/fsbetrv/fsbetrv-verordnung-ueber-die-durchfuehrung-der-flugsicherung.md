@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 571 V v. 31.8.2015 I 1474
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000100307)
 
 Auf Grund des § 32 Abs. 4 Nr. 3 des Luftverkehrsgesetzes in der
 Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), der
@@ -32,15 +33,18 @@ verordnet der Bundesminister für Verkehr:
 
 
 ## 1. Abschnitt - Allgemeine Regeln
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG000200307)
 
 
 
 ### § 1 Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000301305)
 
 Flugsicherung ist nach Maßgabe dieser Verordnung durchzuführen.
 
 
 ### § 2 Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000401305)
 
 Die Betriebszeiten für die Flugverkehrsdienste sind von der
 Flugsicherungsorganisation festzulegen und in den Nachrichten für
@@ -48,6 +52,7 @@ Luftfahrer bekanntzumachen.
 
 
 ### § 3 Zusammenarbeit mit den Haltern von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000501305)
 
 Die Flugsicherungsorganisationen, die Flugverkehrsdienste erbringen,
 haben soweit wie möglich die Halter und Führer von Luftfahrzeugen bei
@@ -58,10 +63,12 @@ vorhandenen notwendigen Informationen zur Verfügung.
 
 
 ## 2. Abschnitt - Flugverkehrskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG000600307)
 
 
 
 ### § 4 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000700307)
 
 Flugverkehrskontrolle ist die Überwachung und Lenkung der Bewegungen
 im Luftraum und auf den Rollfeldern von Flugplätzen mit
@@ -80,6 +87,7 @@ des Luftverkehrs. Die Flugverkehrskontrolle soll insbesondere
 
 
 ### § 5 Umfang
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000800307)
 
 (1) Flugverkehrskontrolle ist durchzuführen für:
 
@@ -103,6 +111,7 @@ erforderlich ist.
 
 
 ### § 6 Arten der Flugverkehrskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE000900307)
 
 Die Flugverkehrskontrolle ist durchzuführen als
 
@@ -119,6 +128,7 @@ Die Flugverkehrskontrolle ist durchzuführen als
 
 
 ### § 7 Zuständigkeit der Flugverkehrskontrollstellen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001001305)
 
 (1) Die Flugverkehrskontrollstellen führen ihre Dienste in den ihnen
 zugewiesenen Zuständigkeits- und Verfahrensbereichen durch. Diese
@@ -129,6 +139,7 @@ eine Flugverkehrskontrollstelle zuständig.
 
 
 ### § 8 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001100307)
 
 (1) Die Durchführung der Flugverkehrskontrolle umfaßt
 
@@ -149,10 +160,12 @@ Herausgabe von Verkehrsinformationen.
 
 
 ## 3. Abschnitt - Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG001200307)
 
 
 
 ### § 9 Verkehrsflußregelung
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001303305)
 
 (1) Die Verkehrsflußregelung soll Überlastsituationen bei der
 Flugverkehrskontrolle verhindern, den Verkehrsablauf möglichst flüssig
@@ -167,6 +180,7 @@ Verkehrsflußregelung zu beachten.
 
 
 ### § 10 Steuerung der Luftraumnutzung
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001400307)
 
 Besondere Nutzungen des Luftraumes, insbesondere überregionale
 Luftfahrtveranstaltungen, militärische Großmanöver, Flüge durch
@@ -178,6 +192,7 @@ veröffentlichen.
 
 
 ### § 11 Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001503305)
 
 Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in
 der angegebenen Reihenfolge Vorrang einzuräumen:
@@ -206,10 +221,12 @@ der angegebenen Reihenfolge Vorrang einzuräumen:
 
 
 ## 4. Abschnitt - Fluginformationsdienst
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG001600307)
 
 
 
 ### § 12 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001700307)
 
 Der Fluginformationsdienst gibt den Führern von Luftfahrzeugen
 Informationen und Hinweise, die für die sichere, geordnete und
@@ -217,6 +234,7 @@ flüssige Durchführung von Flügen erforderlich sind.
 
 
 ### § 13 Umfang
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001800307)
 
 Der Fluginformationsdienst ist von den Flugverkehrskontrollstellen für
 Flüge, die der Flugverkehrskontrolle unterliegen, sowie für andere
@@ -226,6 +244,7 @@ der Flugverkehrskontrolle zurückzustehen.
 
 
 ### § 14 Flugverkehrsberatungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE001900307)
 
 Ist die Durchführung der Flugverkehrskontrolle auf Grund
 unzureichender Informationen über den Flugverkehr nach
@@ -238,10 +257,12 @@ unkontrollierten Luftraum durchführen, untereinander gestaffelt.
 
 
 ## 5. Abschnitt - Flugalarmdienst
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG002000307)
 
 
 
 ### § 15 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002100307)
 
 Der Flugalarmdienst benachrichtigt die für die Durchführung des Such-
 und Rettungsdienstes für Luftfahrzeuge zuständigen Stellen über den
@@ -250,6 +271,7 @@ diese Stellen.
 
 
 ### § 16 Alarmstufen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002200307)
 
 (1) Zur Durchführung des Flugalarmdienstes sind Alarmstufen
 eingerichtet. Sie werden unterteilt in die Ungewißheitsstufe, die
@@ -339,10 +361,12 @@ Gefahr bedroht ist noch sofortiger Hilfeleistung bedarf.
 
 
 ## 6. Abschnitt - Flugberatungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG002300307)
 
 
 
 ### § 17 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002400307)
 
 Der Flugberatungsdienst umfaßt
 
@@ -364,12 +388,14 @@ Der Flugberatungsdienst umfaßt
 
 
 ### § 18 Flugberatungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002500307)
 
 Die Flugberatungsstellen werden in den Nachrichten für Luftfahrer
 bekanntgegeben.
 
 
 ### § 19 Nachrichten für die Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002602305)
 
 (1) Die Flugsicherungsorganisation im Sinne von § 31b Absatz 1 des
 Luftverkehrsgesetzes veröffentlicht Nachrichten für die Luftfahrt
@@ -427,6 +453,7 @@ Bereich oder im Interesse der Flugsicherheit zweckdienlich erscheint.
 
 
 ### § 20 Internationale Verbreitung
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002703305)
 
 Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1
 Buchstabe a sind nach Maßgabe von Richtlinien des Bundesministeriums
@@ -436,10 +463,12 @@ des Flugbetriebs international zu verbreiten.
 
 
 ## 7. Abschnitt - Flugfernmeldedienst
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG002800307)
 
 
 
 ### § 21 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE002900307)
 
 Der Flugfernmeldedienst hat die für eine sichere, geordnete und
 flüssige Abwicklung des Flugverkehrs erforderlichen
@@ -447,6 +476,7 @@ Flugsicherungsinformationen zu übermitteln.
 
 
 ### § 22 Arten der Übermittlung, Flugfernmeldestellen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003001305)
 
 (1) Die Übermittlung der Flugsicherungsinformationen ist als Fester
 Flugfernmeldedienst, Beweglicher Flugfernmeldedienst und
@@ -464,6 +494,7 @@ einzurichten.
 
 
 ### § 23 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003101305)
 
 (1) Zur Durchführung des Festen Flugfernmeldedienstes sind von der
 Flugsicherungsorganisation die erforderlichen Fernmeldeeinrichtungen
@@ -475,10 +506,12 @@ festgelegt.
 
 
 ## 8. Abschnitt - Dokumentation von Betriebsdaten
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG003200307)
 
 
 
 ### § 24 Aufzeichnung des Flugfernmeldeverkehrs und der Radardaten
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003300307)
 
 (1) Der Flugfernmeldeverkehr ist aufzuzeichnen. Dasselbe gilt für die
 in der Flugverkehrskontrolle verwendeten Radardaten.
@@ -493,10 +526,12 @@ aufzubewahren.
 
 
 ## 9. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNG003400307)
 
 
 
 ### § 25 Betriebsanweisungen
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003501305)
 
 Die zur Durchführung der §§ 1 bis 24 dieser Verordnung notwendigen
 Einzelheiten sind von der Flugsicherungsorganisation in
@@ -504,6 +539,7 @@ Betriebsanweisungen zu regeln.
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003600307)
 
 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über
 Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt für die
@@ -511,6 +547,7 @@ Flugsicherungsaufgaben nach § 27c des Luftverkehrsgesetzes.
 
 
 ### § 27 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsbetrv/BJNR020680992.html#BJNR020680992BJNE003700307)
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
 

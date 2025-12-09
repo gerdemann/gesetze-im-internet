@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zkav/BJNR273800019.html#BJNR273800019BJNE000100000)
 
 Auf Grund des § 3 Absatz 6 Satz 2 in Verbindung mit Satz 1 des
 Entsorgungsübergangsgesetzes vom 27. Januar 2017 (BGBl. I S. 114, 120,
@@ -27,6 +28,7 @@ Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit:
 
 
 ## § 1 Festsetzung des Anteils
+[Direktlink](https://www.gesetze-im-internet.de/zkav/BJNR273800019.html#BJNR273800019BJNE000200000)
 
 Der Anteil an den Einzahlungsbeträgen nach dem Entsorgungsfondsgesetz,
 der auf die notwendigen Kosten für den Bau von Zwischenlagern und für
@@ -58,6 +60,7 @@ Entsorgungsübergangsgesetzes entfällt, wird wie folgt festgesetzt:
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zkav/BJNR273800019.html#BJNR273800019BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

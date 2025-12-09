@@ -21,10 +21,12 @@ Neugefasst durch
 Stand: zuletzt geändert Art. 3 G v. 3.7.2009 I 1688
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNG000101307)
 
 
 
 ### § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000104307)
 
 (1) Zur Feststellung, wer in welchem Umfang nach den Artikeln 21 und
 22 des Einigungsvertrages, nach diesen Vorschriften in Verbindung mit
@@ -118,6 +120,7 @@ werden.
 
 
 ### § 1a Begriff des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001003307)
 
 (1) Vermögensgegenstände im Sinne dieses Gesetzes sind bebaute und
 unbebaute Grundstücke sowie rechtlich selbständige Gebäude und
@@ -160,6 +163,7 @@ sollen.
 
 
 ### § 1b Abwicklung von Entschädigungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001201307)
 
 (1) Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b des
 Vermögensgesetzes genannten Vereinbarungen sind, sind, wenn dieser
@@ -189,6 +193,7 @@ dem Grundbuchamt angezeigt ist.
 
 
 ### § 1c Rückabwicklung zuordnungswidriger Veräußerungen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002500377)
 
 (1) Sind bei der Privatisierung von Treuhandunternehmen im Wege des
 Anteilsverkaufs mit dem Unternehmen Vermögenswerte auf den Erwerber
@@ -261,6 +266,7 @@ Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 
 
 ### § 2 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000205377)
 
 (1) Über den Vermögensübergang, die Vermögensübertragung oder in den
 Fällen des § 1 Abs. 2 erläßt die zuständige Stelle nach Anhörung aller
@@ -381,6 +387,7 @@ Verwaltungsverfahrensgesetzes keine Anwendung.
 
 
 ### § 3 Grundbuchvollzug
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000304307)
 
 (1) Ist Gegenstand des Bescheides ein Grundstück oder Gebäude oder ein
 Recht an einem Grundstück oder Gebäude, so ersucht die zuständige
@@ -420,6 +427,7 @@ juristischen Person des öffentlichen Rechts gehören.
 
 
 ### § 4 Grundvermögen von Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000404307)
 
 (1) Der Präsident der Treuhandanstalt oder eine von ihm zu
 ermächtigende Person kann durch Bescheid feststellen, welcher
@@ -445,6 +453,7 @@ bis 4 gelten sinngemäß.
 
 
 ### § 5 Schiffe, Schiffsbauwerke und Straßen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000503307)
 
 (1) Die Bestimmungen des § 3 Abs. 1 Satz 1, Abs. 2 bis 4 und des § 4
 gelten entsprechend für im Schiffsregister eingetragene Schiffe und im
@@ -463,6 +472,7 @@ den Fällen des Satzes 2 der jeweilige Träger der Straßenbaulast.
 
 
 ### § 6 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000807377)
 
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben. Die Berufung gegen ein Urteil und die Beschwerde gegen eine
@@ -484,6 +494,7 @@ Wert der jeweils betroffenen Vermögensgegenstände 5.000 Euro.
 
 
 ### § 7 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000907160)
 
 (1) Das Vermögensgesetz sowie Leitungsrechte und die Führung von
 Leitungen für Ver- und Entsorgungsleitungen, die nicht zugeordnet
@@ -538,10 +549,12 @@ ganz oder teilweise auf eine andere Behörde des Bundes zu übertragen.
 
 
 ## Abschnitt 2 - Verfügungsbefugnis, Förderung von Investitionen und kommunalen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNG000201307)
 
 
 
 ### § 8 Verfügungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000607377)
 
 (1) Zur Verfügung über Grundstücke und Gebäude, die im Grundbuch oder
 Bestandsblatt noch als Eigentum des Volkes eingetragen sind, sind
@@ -643,11 +656,13 @@ jener Vorschrift vorgesehene Verfahren.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE000705377)
 
 (weggefallen)
 
 
 ### § 10 Kommunale Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001103307)
 
 (1) Auf Antrag überträgt der Präsident der Treuhandanstalt der Kommune
 durch Zuordnungsbescheid Einrichtungen, Grundstücke und Gebäude, die
@@ -675,10 +690,12 @@ Kommune der Erlös auszukehren. Weitergehende Ansprüche bestehen nicht.
 
 
 ## Abschnitt 3 - Inhalt und Umfang des Restitutionsanspruchs der öffentlichen Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNG000301307)
 
 
 
 ### § 11 Umfang der Rückübertragung von Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001301307)
 
 (1) Eine Rückübertragung von Vermögensgegenständen nach Artikel 21
 Abs. 3 Halbsatz 1 und Artikel 22 Abs. 1 Satz 7 in Verbindung mit
@@ -752,6 +769,7 @@ zur Verfügung gestellt hat.
 
 
 ### § 12 Erlaubte Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001401307)
 
 (1) Soweit ein Vermögensgegenstand der Restitution unterliegt oder
 unterliegen kann, die nicht nach § 11 Abs. 1 Nr. 1 bis 3 und 5
@@ -815,6 +833,7 @@ dem Verfügungsbefugten, mitzuteilen.
 
 
 ### § 13 Geldausgleich bei Ausschluß der Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001501307)
 
 (1) Derjenige, dessen Anspruch nach § 11 Abs. 1 Nr. 3 ausgeschlossen
 ist oder entsprechend den darin enthaltenen Grundsätzen vor dem
@@ -848,10 +867,12 @@ zulässig. § 11 Abs. 2 Satz 6 gilt entsprechend.
 
 
 ### (XXXX) §§ 14 und 15
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001603377)
 
 
 
 ### § 16 Vorrangiger Übergang von Reichsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001801307)
 
 Ein Eigentumserwerb nach Artikel 21 Abs. 3 Halbsatz 2 und Artikel 22
 Abs. 1 Satz 7 in Verbindung mit Artikel 21 Abs. 3 Halbsatz 2 des
@@ -863,10 +884,12 @@ Eigentumsübergang nach jenen Vorschriften sinngemäß.
 
 
 ## Abschnitt 4 - Vorschriften für einzelne Sachgebiete
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNG000401307)
 
 
 
 ### § 17 Anwendung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE001901307)
 
 Dieses Gesetz gilt für Eigentumsübergänge oder eine Übertragung des
 Eigentums nach Maßgabe der Artikel 26, 27 und 36 Abs. 1 des
@@ -877,6 +900,7 @@ aus einem der darin genannten Sondervermögen hervorgegangen sind.
 
 
 ### § 18 Vorschriften für das Sondervermögen Deutsche Reichsbahn
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002001307)
 
 (1) Unbeschadet des Vermögensübergangs auf das Sondervermögen im
 übrigen ist Artikel 26 Abs. 1 Satz 2 des Einigungsvertrages mit der
@@ -903,6 +927,7 @@ Absatz 1 Satz 3.
 
 
 ### § 19 Vorschriften für das Sondervermögen Deutsche Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002101307)
 
 (1) Unbeschadet des Vermögensübergangs auf das Sondervermögen im
 übrigen ist Artikel 27 Abs. 1 Satz 5 mit der Maßgabe anzuwenden, daß
@@ -929,6 +954,7 @@ Absatz 1 Satz 3.
 
 
 ### § 20 Vorschriften für den Rundfunk und das Fernsehen der früheren DDR
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002201307)
 
 Vermögensgegenstände und -werte, die nach Artikel 36 Abs. 1 des
 Einigungsvertrages nicht dem Sondervermögen Deutsche Bundespost
@@ -945,6 +971,7 @@ Zustimmung erforderlich.
 
 
 ### § 21 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002301307)
 
 (1) § 11 Abs. 2 Satz 2 des Treuhandgesetzes und die Bestimmungen der
 Fünften Durchführungsverordnung zum Treuhandgesetz bleiben unberührt.
@@ -956,6 +983,7 @@ Einigungsvertrages genannte Vermögen entsprechend.
 
 
 ### § 22 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/vzog/BJNR007840991.html#BJNR007840991BJNE002400377)
 
 Auf vor dem 7. Februar 2002 noch nicht bestandskräftig abgeschlossene
 Verfahren nach den §§ 9 und 15 ist dieses Gesetz in seiner bis zu

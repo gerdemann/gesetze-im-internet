@@ -32,10 +32,12 @@ technischen Fortschritt (ABl. EG Nr. L 169 S. 72).
 
 
 ## 1. Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNG000101320)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE000804310)
 
 Diese Verordnung regelt Einzelheiten des Verfahrens
 
@@ -137,6 +139,7 @@ Diese Verordnung regelt Einzelheiten des Verfahrens
 
 
 ### § 2 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE000902310)
 
 Sobald der Betreiber die zuständige Behörde über das geplante
 gentechnische Vorhaben unterrichtet, soll diese ihn im Hinblick auf
@@ -145,6 +148,7 @@ beraten.
 
 
 ### § 3 Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001003310)
 
 Die Anzeige, die Anmeldung oder der Antrag auf Erteilung einer
 Genehmigung nach dem Gentechnikgesetz ist vom Betreiber schriftlich in
@@ -155,10 +159,12 @@ Genehmigungsantrag und die Unterlagen verlangen.
 
 
 ## 2. Abschnitt - Anforderungen an Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNG000201320)
 
 
 
 ### § 4 Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001105310)
 
 (1) Die nach § 10 Abs. 2 und 3, nach § 12 Abs. 2 sowie nach § 12 Abs.
 2a des Gentechnikgesetzes bezeichneten Unterlagen zur Anzeige zur
@@ -209,6 +215,7 @@ Rechtsgüter ermöglicht.
 
 
 ### § 5 Unterlagen bei Freisetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001206116)
 
 (1) Für die in § 15 Abs. 1 Satz 2 des Gentechnikgesetzes bezeichneten
 Unterlagen zum Antrag auf Genehmigung einer Freisetzung von genetisch
@@ -282,6 +289,7 @@ gesammelt worden sind.
 
 
 ### § 6 Unterlagen bei Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001305116)
 
 (1) Für folgende der in § 15 Abs. 3 Satz 3 des Gentechnikgesetzes
 bezeichneten Unterlagen zum Antrag auf Genehmigung des
@@ -353,6 +361,7 @@ Rechtsgüter verbunden ist.
 
 
 ### § 7 Ausnahmen von Angaben und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001401320)
 
 Kommen einzelne nach den §§ 4 bis 6 und den dazu bestehenden Anlagen
 geforderte Angaben und Maßnahmen wegen der Art des Einzelfalles nicht
@@ -363,6 +372,7 @@ hierfür anzugeben.
 
 
 ### § 8 Unterlagen für eingeschlossene Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001501320)
 
 Art und Umfang der einem Antrag auf Erteilung einer Anlagengenehmigung
 beizufügenden Unterlagen für die gemäß § 22 Abs. 1 des
@@ -372,10 +382,12 @@ Rechtsvorschriften.
 
 
 ## 3. Abschnitt - Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNG000301320)
 
 
 
 ### § 9 Beteiligung anderer Stellen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001602320)
 
 (1) Die zuständige Behörde leitet den Antrag auf Erteilung einer
 Genehmigung nach § 1 Nr. 1 und 2 und die erforderlichen Unterlagen zur
@@ -398,6 +410,7 @@ sich nicht äußern will.
 
 
 ### § 10 Bewertungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001702310)
 
 Der Bewertungsbericht nach § 16 Abs. 3 Satz 2 des Gentechnikgesetzes
 ist nach Maßgabe des Anhangs VI der Richtlinie 2001/18/EG zu
@@ -405,6 +418,7 @@ erstellen.
 
 
 ### § 11 Vereinfachtes Verfahren für Freisetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001803310)
 
 (1) Unter den in den Nummern 2, 6 und 6.1 der Entscheidung 94/730/EG
 der Kommission vom 4. November 1994 zur Festlegung von vereinfachten
@@ -429,6 +443,7 @@ Angaben, gelten die Bestimmungen der Entscheidung 94/730/EG.
 
 
 ### § 12 Form der Entscheidung, Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE001903310)
 
 (1) Für die Form der Entscheidung sowie deren Bekanntgabe und
 Zustellung gilt § 10 Abs. 7 und 8 des Bundes-Immissionsschutzgesetzes.
@@ -450,35 +465,42 @@ Gentechnikgesetzes; diesen Entscheidungen ist eine deutsche
 
 
 ## 4. Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNG000402310)
 
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002003310)
 
 -
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002104310)
 
 -
 
 
 ## 5. Abschnitt - Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNG000502320)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002202320)
 
 (weggefallen)
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002301320)
 
 (Inkrafttreten)
 
 (zu § 4)
 
 ### Anlage Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002505310)
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 3227 - 3228;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -612,11 +634,13 @@ erforderlich:
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002603310)
 
 (weggefallen)
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/gentvfv/BJNR023780990.html#BJNR023780990BJNE002703310)
 
 (weggefallen)
 

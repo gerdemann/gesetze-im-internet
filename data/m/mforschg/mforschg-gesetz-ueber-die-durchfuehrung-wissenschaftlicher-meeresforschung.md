@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mforschg/BJNR078500995.html#BJNR078500995BJNE000104124)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -53,6 +54,7 @@ Bundesberggesetzes durch Rechtsverordnung
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mforschg/BJNR078500995.html#BJNR078500995BJNE000200305)
 
 Für Amtshandlungen auf Grund der nach § 1 erlassenen
 Rechtsverordnungen ist das Bundesamt für Seeschiffahrt und
@@ -60,6 +62,7 @@ Hydrographie zuständig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/mforschg/BJNR078500995.html#BJNR078500995BJNE000303305)
 
 Für Amtshandlungen einschließlich der Zurückweisung von Anträgen und
 Widersprüchen auf Grund der nach § 1 erlassenen Rechtsverordnungen
@@ -70,6 +73,7 @@ bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/mforschg/BJNR078500995.html#BJNR078500995BJNE000400305)
 
 Die Bestimmungen der §§ 3d, 4 und 8, auch in Verbindung mit § 21, des
 Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 27.
@@ -79,6 +83,7 @@ entsprechend.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/mforschg/BJNR078500995.html#BJNR078500995BJNE000501308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als
 Eigentümer eines Seeschiffs, als vom Eigentümer beauftragter

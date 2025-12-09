@@ -23,10 +23,12 @@ G aufgeh. durch
 
 
 ## (XXXX) §§ 1 bis 21
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE002700315)
 
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE002801320)
 
 Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder
 öffentlich zur Schau gestellt werden. Die Einwilligung gilt im Zweifel
@@ -40,6 +42,7 @@ Eltern des Abgebildeten.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE002900315)
 
 (1) Ohne die nach § 22 erforderliche Einwilligung dürfen verbreitet
 und zur Schau gestellt werden:
@@ -68,6 +71,7 @@ oder, falls dieser verstorben ist, seiner Angehörigen verletzt wird.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE003000315)
 
 Für Zwecke der Rechtspflege und der öffentlichen Sicherheit dürfen von
 den Behörden Bildnisse ohne Einwilligung des Berechtigten sowie des
@@ -76,10 +80,12 @@ Abgebildeten oder seiner Angehörigen vervielfältigt, verbreitet und
 
 
 ## (XXXX) §§ 25 bis 32
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE003100315)
 
 
 
 ## § 33
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE003900315)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder
@@ -89,21 +95,25 @@ bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder
 
 
 ## § 34
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004000315)
 
 -
 
 
 ## § 35
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004100315)
 
 -
 
 
 ## § 36
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004200315)
 
 -
 
 
 ## § 37
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004300315)
 
 (1)
 Die widerrechtlich hergestellten, verbreiteten oder vorgeführten
@@ -139,6 +149,7 @@ Kosten übernimmt.
 
 
 ## § 38
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004400315)
 
 Der Verletzte kann statt der Vernichtung verlangen, daß ihm das Recht
 zuerkannt wird, die Exemplare und Vorrichtungen ganz oder teilweise
@@ -147,27 +158,32 @@ gleichkommende Vergütung zu übernehmen.
 
 
 ## § 39
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004500315)
 
 -
 
 
 ## § 40
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004600315)
 
 -
 
 
 ## § 41
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004700315)
 
 -
 
 
 ## § 42
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004800315)
 
 Die Vernichtung der Exemplare und der Vorrichtungen kann im Wege des
 bürgerlichen Rechtsstreits oder im Strafverfahren verfolgt werden.
 
 
 ## § 43
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE004900315)
 
 (1) Auf die Vernichtung von Exemplaren oder Vorrichtungen kann auch im
 Strafverfahren nur auf besonderen Antrag des Verletzten erkannt
@@ -181,27 +197,32 @@ der Verletzte als Privatkläger auftreten kann.
 
 
 ## § 44
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005000315)
 
 Die §§ 42, 43 finden auf die Verfolgung des in § 38 bezeichneten
 Rechtes entsprechende Anwendung.
 
 
 ## § 45
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005100315)
 
 -
 
 
 ## § 46
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005200315)
 
 -
 
 
 ## § 47
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005300315)
 
 -
 
 
 ## § 48
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005400315)
 
 (1)
 Der Anspruch auf Schadensersatz und die Strafverfolgung wegen
@@ -214,11 +235,13 @@ widerrechtliche Handlung zuletzt stattgefunden hat.
 
 
 ## § 49
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005500315)
 
 -
 
 
 ## § 50
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005600315)
 
 Der Antrag auf Vernichtung der Exemplare und der Vorrichtungen ist so
 lange zulässig, als solche Exemplare oder Vorrichtungen vorhanden
@@ -226,26 +249,31 @@ sind.
 
 
 ## § 51
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005700315)
 
 -
 
 
 ## § 52
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005800315)
 
 -
 
 
 ## § 53
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE005900315)
 
 -
 
 
 ## § 54
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE006000315)
 
 -
 
 
 ## § 55
+[Direktlink](https://www.gesetze-im-internet.de/kunsturhg/BJNR000070907.html#BJNR000070907BJNE006100315)
 
 (1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.
 

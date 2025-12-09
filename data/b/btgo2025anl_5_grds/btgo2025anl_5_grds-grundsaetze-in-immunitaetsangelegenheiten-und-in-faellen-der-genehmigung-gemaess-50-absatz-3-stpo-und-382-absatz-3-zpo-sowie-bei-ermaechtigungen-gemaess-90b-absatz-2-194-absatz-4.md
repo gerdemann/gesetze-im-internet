@@ -24,6 +24,7 @@ Fundstelle
 [^F834658_01_BJNR0FA0H0025]: 
 
 ## A. Grundsätze in Immunitätsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_5_grds/BJNR0FA0H0025.html#BJNR0FA0H0025BJNE000100000)
 
 
 1.  Antragsberechtigung
@@ -347,6 +348,7 @@ Fundstelle
 
 
 ## B. Ermächtigung zur Strafverfolgung nach § 90b Abs. 2, § 194 Abs. 4 StGB
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_5_grds/BJNR0FA0H0025.html#BJNR0FA0H0025BJNE000200000)
 
 Die Ermächtigung zur Strafverfolgung nach § 90b Abs. 2 StGB –
 verfassungsfeindliche Verunglimpfung des Bundestages – sowie nach §
@@ -361,6 +363,7 @@ Abs. 2 oder § 194 Abs. 4 StGB erteilt wird.
 
 
 ## C. Genehmigung zur Zeugenvernehmung nach § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_5_grds/BJNR0FA0H0025.html#BJNR0FA0H0025BJNE000300000)
 
 Die Genehmigung zu einer Abweichung von § 50 Abs. 1 StPO und § 382
 Abs. 2 ZPO, wonach die Mitglieder des Bundestages am Sitz der

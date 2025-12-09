@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000200000)
 
 (1) Dieses Gesetz gilt für die Zucht folgender Tiere, den Handel mit
 ihnen und ihre Verbringung in die Union:
@@ -92,6 +94,7 @@ Bereitstellung öffentlicher Mittel so zu fördern, dass
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000300000)
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung
 (EU) 2016/1012 gelten im Anwendungsbereich dieses Gesetzes folgende
@@ -189,9 +192,11 @@ Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Anerkennung von Zuchtverbänden und Zuchtunternehmen, Genehmigung von Zuchtprogrammen, Datenweitergabe für Leistungsprüfungen und Zuchtwertschätzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000200000)
 
 
 ### § 3 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000400000)
 
 (1) Zuständig für die Anerkennung von Zuchtverbänden oder von
 Zuchtunternehmen sowie für die Genehmigung von deren Zuchtprogrammen
@@ -213,6 +218,7 @@ Zuchtunternehmen
 
 
 ### § 4 Anerkennung von Zuchtverbänden und Zuchtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000500000)
 
 (1) Als Zuchtverband oder Zuchtunternehmen wird von der zuständigen
 Behörde anerkannt, wer die Anforderungen nach Artikel 4 Absatz 3 Satz
@@ -272,6 +278,7 @@ Absatz 3 Satz 2 der Verordnung (EU) 2016/1012.
 
 
 ### § 5 Genehmigung von Zuchtprogrammen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000600000)
 
 (1) Ein Zuchtprogramm, das von einem Zuchtverband oder
 Zuchtunternehmen durchgeführt wird, bedarf der Genehmigung der
@@ -321,6 +328,7 @@ zuständigen Behörde im Rahmen des in Artikel 9 der Verordnung (EU)
 
 
 ### § 6 Zuchtprogramme aus anderen Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000701000)
 
 (1) Meldet eine zuständige Behörde aus einem anderen Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
@@ -380,6 +388,7 @@ Zustimmung und danach jährlich zum 31. Dezember zu übermitteln.
 
 
 ### § 7 Befristung der Anerkennung und Genehmigung, besondere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000800000)
 
 (1) Die zuständige Behörde kann eine Befristung von mindestens zwei
 Jahren für die Anerkennung eines Zuchtverbandes oder Zuchtunternehmens
@@ -402,6 +411,7 @@ beachten, die Gegenstand ihrer Anerkennung und der Genehmigung sind.
 
 
 ### § 8 Datenweitergabe für Leistungsprüfung und Zuchtwertschätzung
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE000900000)
 
 (1) Für die Verwendung der Daten, die Zuchtverbände und
 Zuchtunternehmen zur Durchführung von Leistungsprüfungen und
@@ -428,6 +438,7 @@ beauftragten Stellen zu übermitteln.
 
 
 ### § 9 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001000000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -541,9 +552,11 @@ bieten.
 
 
 ## Abschnitt 3 - Erhaltung der genetischen Vielfalt
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000300000)
 
 
 ### § 10 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001100000)
 
 (1) Zur Erreichung des in § 1 Absatz 3 Nummer 4 genannten Zieles
 führen die zuständigen Behörden ein Monitoring über die genetische
@@ -592,6 +605,7 @@ vorausgesetzt wird.
 
 
 ### § 11 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001200000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -622,6 +636,7 @@ verwendet werden darf.
 
 
 ### § 12 Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001300000)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften zur Durchführung des Monitorings
@@ -633,9 +648,11 @@ wird vom Bundesministerium für Ernährung und Landwirtschaft berufen.
 
 
 ## Abschnitt 4 - Anbieten, Abgabe und Verwendung von Samen, Eizellen und Embryonen sowie Handel mit reinrassigen Zuchttieren und Vorbuchtieren
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000400000)
 
 
 ### § 13 Eintragungsbestätigung für Vorbuchtiere, Tierzuchtbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001400000)
 
 (1) Ein Zuchtverband, der ein gemäß Artikel 8 der Verordnung (EU)
 2016/1012 genehmigtes Zuchtprogramm durchführt, stellt auf Antrag
@@ -671,6 +688,7 @@ geltenden Fassung enthält.
 
 
 ### § 14 Abgabe von Samen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001500000)
 
 (1) Samen darf nach Maßgabe des Absatzes 3 Satz 2 nur von
 
@@ -759,6 +777,7 @@ Besamungsstation gewonnen werden.
 
 
 ### § 15 Verwendung des Samens
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001600000)
 
 (1) Samen darf zur Besamung nur verwendet werden durch
 
@@ -823,6 +842,7 @@ Zuchtunternehmen zu übermitteln.
 
 
 ### § 16 Abgabe von Eizellen und Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001700000)
 
 (1) Eizellen und Embryonen dürfen nach Maßgabe des Absatzes 3 Satz 2
 nur von
@@ -901,6 +921,7 @@ Entnahme- oder -Erzeugungseinheit gewonnen oder behandelt werden.
 
 
 ### § 17 Verwendung von Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001800000)
 
 (1) Embryonen dürfen nur von Tierärzten, Fachagrarwirten für
 Besamungswesen und Besamungsbeauftragten, die nach dem Besuch eines
@@ -938,6 +959,7 @@ Eigentümer des Embryos die Tierzuchtbescheinigung für den Embryo aus.
 
 
 ### § 18 Besamungsstationen, Embryo-Entnahme- oder -Erzeugungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE001900000)
 
 (1) Betreiber von Besamungsstationen oder von Embryo-Entnahmeeinheiten
 bedürfen der Erlaubnis. Satz 1 gilt nicht für Besamungsstationen im
@@ -1054,6 +1076,7 @@ Rechtsverordnungen genehmigen
 
 
 ### § 19 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002000000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1108,9 +1131,11 @@ Prüfungsordnungen für Lehrgänge über Embryotransfer zu regeln.
 
 
 ## Abschnitt 5 - Innergemeinschaftliches Verbringen, Einfuhr, Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000500000)
 
 
 ### § 20 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
@@ -1137,9 +1162,11 @@ insbesondere
 
 
 ## Abschnitt 6 - Überwachung, Zuständigkeiten, Außenverkehr, Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000600000)
 
 
 ### § 21 Zuständigkeit, gegenseitige Information, Außenverkehr, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002200000)
 
 (1) Die Zuständigkeit für die Überwachungsmaßnahmen nach diesem
 Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und
@@ -1203,6 +1230,7 @@ die zuständigen Behörden der übrigen Bundesländer in Kenntnis.
 
 
 ### § 22 Aufgabe und Maßnahmen der zuständigen Behörden, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002301119)
 
 (1) Die Überwachung der Einhaltung der Vorschriften dieses Gesetzes,
 der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der
@@ -1331,6 +1359,7 @@ Anforderungen festzulegen an
 
 
 ### § 23 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1484,6 +1513,7 @@ geahndet werden.
 
 
 ### § 24 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002500000)
 
 Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 23 Absatz 1
 Nummer 6, 8, 11 bis 14, 20, 21 oder 22 bezieht, können eingezogen
@@ -1491,9 +1521,11 @@ werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNG000700000)
 
 
 ### § 25 Rechtsverordnungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002600000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann
 Rechtsverordnungen nach diesem Gesetz ohne Zustimmung des Bundesrates
@@ -1511,6 +1543,7 @@ zuständigen obersten Landesbehörden übertragen.
 
 
 ### § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002700000)
 
 (1) Nach bisherigem Recht erteilte Erlaubnisse zum Betrieb von
 Besamungsstationen und Embryo-Entnahmeeinheiten gelten als Erlaubnisse
@@ -1532,6 +1565,7 @@ Eizellen und Embryonen beziehen.
 
 
 ### § 27 Befreiung vom Preisbindungsverbot nach dem Gesetz gegen Wettbewerbsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002800000)
 
 Nach diesem Gesetz anerkannte Zuchtverbände und Zuchtunternehmen
 dürfen Abnehmer von Tieren, die zur Vermehrung in einem mehrstufigen
@@ -1544,6 +1578,7 @@ Wettbewerbsbeschränkungen unberührt.
 
 
 ### § 28 Verordnungsermächtigungen zur Aufhebung von Rechtsvorschriften und zur Anpassung an das Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE002900000)
 
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass
 von Rechtsverordnungen des Bundes fortgefallen sind, können
@@ -1565,10 +1600,12 @@ erforderlich ist.
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE003001119)
 
 
 
 ### § 30 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierzg_2019/BJNR001810019.html#BJNR001810019BJNE003100000)
 
 § 6 Absatz 3 tritt am 21. April 2021 außer Kraft.
 

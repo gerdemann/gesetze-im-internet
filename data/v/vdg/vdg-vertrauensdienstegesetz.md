@@ -23,9 +23,11 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000200000)
 
 (1) Dieses Gesetz regelt die wirksame Durchführung der Vorschriften
 über Vertrauensdienste in der Verordnung (EU) Nr. 910/2014 des
@@ -40,6 +42,7 @@ Vertrauensdienste und die hierfür zu verwendenden Produkte regeln.
 
 
 ### § 2 Aufsichtsstelle; zuständige Stelle für die Informationssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000301119)
 
 (1) Die Aufgaben der Aufsichtsstelle nach Artikel 17 der Verordnung
 (EU) Nr. 910/2014 und nach diesem Gesetz sowie nach der
@@ -94,6 +97,7 @@ Fachgesetzen, insbesondere
 
 
 ### § 3 Verfahren über eine einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000400000)
 
 Verwaltungsverfahren nach diesem Gesetz oder nach der Rechtsverordnung
 nach § 20 können über eine einheitliche Stelle im Sinne des
@@ -101,6 +105,7 @@ Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 
 ### § 4 Aufsichtsmaßnahmen; Untersagung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000500000)
 
 (1) Ergänzend zu den Aufgaben aus der Verordnung (EU) Nr. 910/2014
 obliegt der Aufsichtsstelle auch die Aufsicht über die Einhaltung
@@ -134,6 +139,7 @@ Betrieb vorübergehend, teilweise oder ganz untersagen, wenn
 
 
 ### § 5 Mitwirkungspflichten der Vertrauensdiensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000600000)
 
 (1) Zur Prüfung der Einhaltung ihrer Verpflichtungen haben der
 Vertrauensdiensteanbieter und die für ihn tätigen Dritten den
@@ -170,6 +176,7 @@ Unterlagen entsprechend.
 
 
 ### § 6 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000700000)
 
 Ein Vertrauensdiensteanbieter haftet für Dritte, die er mit Aufgaben
 nach der Verordnung (EU) Nr. 910/2014, nach diesem Gesetz und nach der
@@ -179,6 +186,7 @@ Satz 2 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 
 ### § 7 Barrierefreie Dienste
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000800000)
 
 (1) Soweit möglich, haben Vertrauensdiensteanbieter die von ihnen
 angebotenen Vertrauensdienste für Menschen mit Behinderungen
@@ -205,6 +213,7 @@ werden.
 
 
 ### § 8 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE000901123)
 
 (1) Unbeschadet anderer Rechtsgrundlagen dürfen
 Vertrauensdiensteanbieter auch bei Dritten personenbezogene Daten
@@ -262,9 +271,11 @@ grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
 
 
 ## Teil 2 - Allgemeine Vorschriften für qualifizierte Vertrauensdienste
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNG000200000)
 
 
 ### § 9 Vertrauenslisten
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001000000)
 
 Die Bundesetzagentur ist für die Aufstellung, Führung und
 Veröffentlichung von Vertrauenslisten nach Artikel 22 Absatz 1 der
@@ -272,6 +283,7 @@ Verordnung (EU) Nr. 910/2014 zuständig.
 
 
 ### § 10 Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001100000)
 
 Die Mindestsumme für die gemäß Artikel 24 Absatz 2 Buchstabe c der
 Verordnung (EU) Nr. 910/2014 erforderliche angemessene
@@ -281,6 +293,7 @@ durch ein haftungsauslösendes Ereignis gemäß Artikel 13 der Verordnung
 
 
 ### § 11 Identitätsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001200000)
 
 (1) Die Bundesnetzagentur legt nach Anhörung der betroffenen Kreise
 und im Einvernehmen mit dem Bundesamt für Sicherheit in der
@@ -336,6 +349,7 @@ des Antragstellers gewährleisten.
 
 
 ### § 12 Attribute in qualifizierten Zertifikaten für elektronische Signaturen und Siegel
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001300000)
 
 (1) Ein qualifiziertes Zertifikat für elektronische Signaturen kann
 auf Verlangen eines Antragstellers folgende Attribute enthalten:
@@ -378,6 +392,7 @@ qualifizierten Vertrauensdiensteanbieter nachgewiesen werden.
 
 
 ### § 13 Unterrichtung über Sicherheitsmaßnahmen und Rechtswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001400000)
 
 (1) Der qualifizierte Vertrauensdiensteanbieter hat die Personen, die
 er nach Artikel 24 Absatz 2 Buchstabe d der Verordnung (EU) Nr.
@@ -413,6 +428,7 @@ haben, kann eine erneute Unterrichtung unterbleiben.
 
 
 ### § 14 Widerruf qualifizierter Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001500000)
 
 (1) Der qualifizierte Vertrauensdiensteanbieter hat ein noch gültiges
 qualifiziertes Zertifikat insbesondere dann unverzüglich zu
@@ -473,6 +489,7 @@ anordnen.
 
 
 ### § 15 Langfristige Beweiserhaltung
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001600000)
 
 Sofern hierfür Bedarf besteht, sind qualifiziert elektronisch
 signierte, gesiegelte oder zeitgestempelte Daten durch geeignete
@@ -482,6 +499,7 @@ Die neue Sicherung muss nach dem Stand der Technik erfolgen.
 
 
 ### § 16 Beendigungsplan; auf Dauer prüfbare Vertrauensdienste
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001700000)
 
 (1) In dem Beendigungsplan nach Artikel 24 Absatz 2 Buchstabe i der
 Verordnung (EU) Nr. 910/2014 hat ein qualifizierter
@@ -550,9 +568,11 @@ und laufend zu aktualisieren. Näheres regelt die Rechtsverordnung nach
 
 
 ## Teil 3 - Qualifizierte elektronische Signaturen und Siegel
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNG000300000)
 
 
 ### § 17 Benannte Stellen nach Artikel 30 Absatz 1 der Verordnung (EU) Nr. 910/2014
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001800000)
 
 (1) Die Bundesnetzagentur benennt auf Antrag eine Organisation als
 private Stelle gemäß Artikel 30 Absatz 1 der Verordnung (EU) Nr.
@@ -607,9 +627,11 @@ Absatz 1 der Verordnung (EU) Nr. 910/2014.
 
 
 ## Teil 4 - Qualifizierte Dienste für die Zustellung elektronischer Einschreiben
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNG000400000)
 
 
 ### § 18 Dienste für die Zustellung elektronischer Einschreiben
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE001900000)
 
 Liegt der Konformitätsbewertungsstelle für einen qualifizierten Dienst
 für die Zustellung elektronischer Einschreiben eine Akkreditierung
@@ -621,9 +643,11 @@ De-Mail-Gesetzes erbracht worden sind.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNG000500000)
 
 
 ### § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE002000000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -708,6 +732,7 @@ ihrer Zuständigkeit nach § 2 Absatz 1.
 
 
 ### § 20 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE002100000)
 
 (1) Die Bundesregierung legt durch Rechtsverordnung nähere
 Anforderungen an die Zugänglich- und Nutzbarmachung von
@@ -754,6 +779,7 @@ und dieses Gesetzes erforderlichen Rechtsvorschriften zu erlassen über
 
 
 ### § 21 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/vdg/BJNR274510017.html#BJNR274510017BJNE002200000)
 
 Zertifizierungsdiensteanbieter, die qualifizierte Zertifikate im Sinne
 von § 2 Nummer 3 des Signaturgesetzes ausgestellt haben, dürfen diese

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000100312)
 
 Auf Grund des § 6 Abs. 1 des Straßenverkehrsgesetzes in der Fassung
 der Bekanntmachung vom 19. Dezember 1952 (Bundesgesetzbl. I S. 837),
@@ -29,16 +30,19 @@ zuständigen obersten Landesbehörden verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000201308)
 
 (weggefallen)
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000301308)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000400312)
 
 Abweichend von § 53 Abs. 4 Satz 4 StVZO sind an Fahrzeugen, die vor
 dem 1. April 1974 erstmals in den Verkehr gekommen sind, zwei
@@ -49,6 +53,7 @@ zweiten Paares Rückstrahler nicht gemacht worden ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000500312)
 
 (1) Abweichend von § 53a Abs. 4 StVZO in Verbindung mit § 54 Abs. 3
 StVZO darf bei Fahrzeugen, die vor dem 1. Januar 1970 erstmals in den
@@ -61,16 +66,19 @@ angebrachte Leuchten für gelbes Licht abgestrahlt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000601308)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000700312)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_23/BJNR007440974.html#BJNR007440974BJNE000800312)
 
 Der Bundesminister für Verkehr
 

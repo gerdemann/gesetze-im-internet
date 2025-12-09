@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE001600314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000100314)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE001701377)
 
 (1) Dieses Gesetz gilt in der Bundesrepublik Deutschland und in der
 ausschließlichen Wirtschaftszone für die Beschäftigung von Personen,
@@ -79,6 +82,7 @@ die noch nicht 18 Jahre alt sind,
 
 
 ### § 1a Formvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008500126)
 
 Soweit in diesem Gesetz schriftliche Handlungen vorgesehen sind,
 können diese auch in Textform erfolgen. Dies gilt nicht für § 6 Absatz
@@ -86,6 +90,7 @@ können diese auch in Textform erfolgen. Dies gilt nicht für § 6 Absatz
 
 
 ### § 2 Kind, Jugendlicher
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE001801308)
 
 (1) Kind im Sinne dieses Gesetzes ist, wer noch nicht 15 Jahre alt
 ist.
@@ -98,12 +103,14 @@ die für Kinder geltenden Vorschriften Anwendung.
 
 
 ### § 3 Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE001900314)
 
 Arbeitgeber im Sinne dieses Gesetzes ist, wer ein Kind oder einen
 Jugendlichen gemäß § 1 beschäftigt.
 
 
 ### § 4 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002000314)
 
 (1) Tägliche Arbeitszeit ist die Zeit vom Beginn bis zum Ende der
 täglichen Beschäftigung ohne die Ruhepausen (§ 11).
@@ -128,10 +135,12 @@ Arbeitstage zusammengerechnet.
 
 
 ## Zweiter Abschnitt - Beschäftigung von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000200314)
 
 
 
 ### § 5 Verbot der Beschäftigung von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002102308)
 
 (1) Die Beschäftigung von Kindern (§ 2 Abs. 1) ist verboten.
 
@@ -194,6 +203,7 @@ bewilligen.
 
 
 ### § 6 Behördliche Ausnahmen für Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002200314)
 
 (1) Die Aufsichtsbehörde kann auf Antrag bewilligen, daß
 
@@ -275,6 +285,7 @@ Bewilligungsbescheids beschäftigen.
 
 
 ### § 7 Beschäftigung von nicht vollzeitschulpflichtigen Kindern
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002301308)
 
 Kinder, die der Vollzeitschulpflicht nicht mehr unterliegen, dürfen
 
@@ -292,14 +303,17 @@ entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Beschäftigung Jugendlicher
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000301308)
 
 
 
 ### Erster Titel - Arbeitszeit und Freizeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000401308)
 
 
 
 #### § 8 Dauer der Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002401307)
 
 (1) Jugendliche dürfen nicht mehr als acht Stunden täglich und nicht
 mehr als 40 Stunden wöchentlich beschäftigt werden.
@@ -322,6 +336,7 @@ Stunden in der Doppelwoche beschäftigt werden.
 
 
 #### § 9 Berufsschule
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002504126)
 
 (1) Der Arbeitgeber hat den Jugendlichen für die Teilnahme am
 Berufsschulunterricht freizustellen. Er darf den Jugendlichen nicht
@@ -364,6 +379,7 @@ eintreten.
 
 
 #### § 10 Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002602126)
 
 (1) Der Arbeitgeber hat den Jugendlichen
 
@@ -395,6 +411,7 @@ Ein Entgeltausfall darf nicht eintreten.
 
 
 #### § 11 Ruhepausen, Aufenthaltsräume
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002701307)
 
 (1) Jugendlichen müssen im voraus feststehende Ruhepausen von
 angemessener Dauer gewährt werden. Die Ruhepausen müssen mindestens
@@ -426,6 +443,7 @@ Erholung nicht beeinträchtigt wird.
 
 
 #### § 12 Schichtzeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002801307)
 
 Bei der Beschäftigung Jugendlicher darf die Schichtzeit (§ 4 Abs. 2)
 10 Stunden, im Bergbau unter Tage 8 Stunden, im Gaststättengewerbe, in
@@ -434,6 +452,7 @@ Stunden nicht überschreiten.
 
 
 #### § 13 Tägliche Freizeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE002900314)
 
 Nach Beendigung der täglichen Arbeitszeit dürfen Jugendliche nicht vor
 Ablauf einer ununterbrochenen Freizeit von mindestens 12 Stunden
@@ -441,6 +460,7 @@ beschäftigt werden.
 
 
 #### § 14 Nachtruhe
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003003126)
 
 (1) Jugendliche dürfen nur in der Zeit von 6 bis 20 Uhr beschäftigt
 werden.
@@ -502,6 +522,7 @@ Rahmen von Sportveranstaltungen.
 
 
 #### § 15 Fünf-Tage-Woche
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003101308)
 
 Jugendliche dürfen nur an fünf Tagen in der Woche beschäftigt werden.
 Die beiden wöchentlichen Ruhetage sollen nach Möglichkeit aufeinander
@@ -509,6 +530,7 @@ folgen.
 
 
 #### § 16 Samstagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003201307)
 
 (1) An Samstagen dürfen Jugendliche nicht beschäftigt werden.
 
@@ -569,6 +591,7 @@ nach Absatz 3 Satz 1 freizustellen sind.
 
 
 #### § 17 Sonntagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003301307)
 
 (1) An Sonntagen dürfen Jugendliche nicht beschäftigt werden.
 
@@ -614,6 +637,7 @@ keinen Berufsschulunterricht haben.
 
 
 #### § 18 Feiertagsruhe
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003401307)
 
 (1) Am 24. und 31. Dezember nach 14 Uhr und an gesetzlichen Feiertagen
 dürfen Jugendliche nicht beschäftigt werden.
@@ -631,6 +655,7 @@ Jugendlichen an diesem Tag keinen Berufsschulunterricht haben.
 
 
 #### § 19 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003500314)
 
 (1) Der Arbeitgeber hat Jugendlichen für jedes Kalenderjahr einen
 bezahlten Erholungsurlaub zu gewähren.
@@ -670,6 +695,7 @@ einem Urlaub von 30 Werktagen 11,6 vom Hundert, bei einem Urlaub von
 
 
 #### § 20 Binnenschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003602119)
 
 (1) In der Binnenschiffahrt gelten folgende Abweichungen:
 
@@ -734,6 +760,7 @@ Angaben enthalten:
 
 
 #### § 21 Ausnahmen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003701307)
 
 (1) Die §§ 8 und 11 bis 18 finden keine Anwendung auf die
 Beschäftigung Jugendlicher mit vorübergehenden und unaufschiebbaren
@@ -748,6 +775,7 @@ der Arbeitszeit innerhalb der folgenden drei Wochen auszugleichen.
 
 
 #### § 21a Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008201308)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer
 Betriebsvereinbarung kann zugelassen werden
@@ -800,6 +828,7 @@ vorsehen.
 
 
 #### § 21b
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008302308)
 
 Das Bundesministerium für Arbeit und Soziales kann im Interesse der
 Berufsausbildung oder der Zusammenarbeit von Jugendlichen und
@@ -824,10 +853,12 @@ nicht zu befürchten ist.
 
 
 ### Zweiter Titel - Beschäftigungsverbote und -beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000601308)
 
 
 
 #### § 22 Gefährliche Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003802119)
 
 (1) Jugendliche dürfen nicht beschäftigt werden
 
@@ -888,6 +919,7 @@ sichergestellt sein.
 
 
 #### § 23 Akkordarbeit, tempoabhängige Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE003900314)
 
 (1) Jugendliche dürfen nicht beschäftigt werden
 
@@ -922,6 +954,7 @@ ist.
 
 
 #### § 24 Arbeiten unter Tage
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004000314)
 
 (1) Jugendliche dürfen nicht mit Arbeiten unter Tage beschäftigt
 werden.
@@ -946,6 +979,7 @@ ist.
 
 
 #### § 25 Verbot der Beschäftigung durch bestimmte Personen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004111311)
 
 (1) Personen, die
 
@@ -994,6 +1028,7 @@ durch die Personensorgeberechtigten.
 
 
 #### § 26 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004203308)
 
 Das Bundesministerium für Arbeit und Soziales kann zum Schutz der
 Jugendlichen gegen Gefahren für Leben und Gesundheit sowie zur
@@ -1020,6 +1055,7 @@ Bundesrates
 
 
 #### § 27 Behördliche Anordnungen und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004300314)
 
 (1) Die Aufsichtsbehörde kann in Einzelfällen feststellen, ob eine
 Arbeit unter die Beschäftigungsverbote oder -beschränkungen der §§ 22
@@ -1066,10 +1102,12 @@ oder auszubilden.
 
 
 ### Dritter Titel - Sonstige Pflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000701308)
 
 
 
 #### § 28 Menschengerechte Gestaltung der Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004402308)
 
 (1) Der Arbeitgeber hat bei der Einrichtung und der Unterhaltung der
 Arbeitsstätte einschließlich der Maschinen, Werkzeuge und Geräte und
@@ -1095,6 +1133,7 @@ erlassenen Verordnung zu treffen sind.
 
 
 #### § 28a Beurteilung der Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008400308)
 
 Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher
 Änderung der Arbeitsbedingungen hat der Arbeitgeber die mit der
@@ -1103,6 +1142,7 @@ Beschäftigung verbundenen Gefährdungen Jugendlicher zu beurteilen. Im
 
 
 #### § 29 Unterweisung über Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004501308)
 
 (1) Der Arbeitgeber hat die Jugendlichen vor Beginn der Beschäftigung
 und bei wesentlicher Änderung der Arbeitsbedingungen über die Unfall-
@@ -1124,6 +1164,7 @@ Jugendlicher geltenden Vorschriften.
 
 
 #### § 30 Häusliche Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004600314)
 
 (1) Hat der Arbeitgeber einen Jugendlichen in die häusliche
 Gemeinschaft aufgenommen, so muß er
@@ -1147,6 +1188,7 @@ Erkrankungen (Absatz 1 Nr. 2) genügen müssen.
 
 
 #### § 31 Züchtigungsverbot, Verbot der Abgabe von Alkohol und Tabak
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004703119)
 
 (1) Wer Jugendliche beschäftigt oder im Rahmen eines
 Rechtsverhältnisses im Sinne des § 1 beaufsichtigt, anweist oder
@@ -1162,10 +1204,12 @@ Tabakwaren oder anderen dort genannten Erzeugnisse geben.
 
 
 ### Vierter Titel - Gesundheitliche Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000801308)
 
 
 
 #### § 32 Erstuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004801307)
 
 (1) Ein Jugendlicher, der in das Berufsleben eintritt, darf nur
 beschäftigt werden, wenn
@@ -1187,6 +1231,7 @@ befürchten sind.
 
 
 #### § 33 Erste Nachuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE004901306)
 
 (1) Ein Jahr nach Aufnahme der ersten Beschäftigung hat sich der
 Arbeitgeber die Bescheinigung eines Arztes darüber vorlegen zu lassen,
@@ -1212,6 +1257,7 @@ Bescheinigung nicht vorgelegt hat.
 
 
 #### § 34 Weitere Nachuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005000314)
 
 Nach Ablauf jedes weiteren Jahres nach der ersten Nachuntersuchung
 kann sich der Jugendliche erneut nachuntersuchen lassen (weitere
@@ -1221,6 +1267,7 @@ die Bescheinigung über die weitere Nachuntersuchung vorlegt.
 
 
 #### § 35 Außerordentliche Nachuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005100314)
 
 (1) Der Arzt soll eine außerordentliche Nachuntersuchung anordnen,
 wenn eine Untersuchung ergibt, daß
@@ -1243,6 +1290,7 @@ einer außerordentlichen Nachuntersuchung nicht berührt.
 
 
 #### § 36 Ärztliche Untersuchungen und Wechsel des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005200314)
 
 Wechselt der Jugendliche den Arbeitgeber, so darf ihn der neue
 Arbeitgeber erst beschäftigen, wenn ihm die Bescheinigung über die
@@ -1252,6 +1300,7 @@ Nachuntersuchung (§ 33) vorliegen.
 
 
 #### § 37 Inhalt und Durchführung der ärztlichen Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005301119)
 
 (1) Die ärztlichen Untersuchungen haben sich auf den Gesundheits- und
 Entwicklungsstand und die körperliche Beschaffenheit, die
@@ -1296,6 +1345,7 @@ des Jugendlichen auf Grund der Untersuchungen zu beurteilen,
 
 
 #### § 38 Ergänzungsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005400314)
 
 Kann der Arzt den Gesundheits- und Entwicklungsstand des Jugendlichen
 nur beurteilen, wenn das Ergebnis einer Ergänzungsuntersuchung durch
@@ -1305,6 +1355,7 @@ schriftlich zu begründen.
 
 
 #### § 39 Mitteilung, Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005501119)
 
 (1) Der Arzt hat dem Personensorgeberechtigten schriftlich
 mitzuteilen:
@@ -1332,6 +1383,7 @@ oder die Entwicklung des Jugendlichen für gefährdet hält.
 
 
 #### § 40 Bescheinigung mit Gefährdungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005600314)
 
 (1) Enthält die Bescheinigung des Arztes (§ 39 Abs. 2) einen Vermerk
 über Arbeiten, durch deren Ausführung er die Gesundheit oder die
@@ -1345,6 +1397,7 @@ verbinden.
 
 
 #### § 41 Aufbewahren der ärztlichen Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005700314)
 
 (1) Der Arbeitgeber hat die ärztlichen Bescheinigungen bis zur
 Beendigung der Beschäftigung, längstens jedoch bis zur Vollendung des
@@ -1357,6 +1410,7 @@ hat ihm der Arbeitgeber die Bescheinigungen auszuhändigen.
 
 
 #### § 42 Eingreifen der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005800314)
 
 Die Aufsichtsbehörde hat, wenn die dem Jugendlichen übertragenen
 Arbeiten Gefahren für seine Gesundheit befürchten lassen, dies dem
@@ -1366,6 +1420,7 @@ untersuchen zu lassen.
 
 
 #### § 43 Freistellung für Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE005900314)
 
 Der Arbeitgeber hat den Jugendlichen für die Durchführung der
 ärztlichen Untersuchungen nach diesem Abschnitt freizustellen. Ein
@@ -1373,11 +1428,13 @@ Entgeltausfall darf hierdurch nicht eintreten.
 
 
 #### § 44 Kosten der Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006000314)
 
 Die Kosten der Untersuchungen trägt das Land.
 
 
 #### § 45 Gegenseitige Unterrichtung der Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006100314)
 
 (1) Die Ärzte, die Untersuchungen nach diesem Abschnitt vorgenommen
 haben, müssen, wenn der Personensorgeberechtigte und der Jugendliche
@@ -1401,6 +1458,7 @@ gewähren.
 
 
 #### § 46 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006202308)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zum Zweck einer
 gleichmäßigen und wirksamen gesundheitlichen Betreuung durch
@@ -1435,14 +1493,17 @@ Mitteilungen zu verwendenden Vordrucke erlassen.
 
 
 ## Vierter Abschnitt - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG000900314)
 
 
 
 ### Erster Titel - Aushänge und Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG001000314)
 
 
 
 #### § 47 Bekanntgabe des Gesetzes und der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006301126)
 
 Arbeitgeber, die regelmäßig mindestens einen Jugendlichen
 beschäftigen, haben eine Kopie dieses Gesetzes und die Anschrift der
@@ -1454,6 +1515,7 @@ oder auszuhängen.
 
 
 #### § 48 Information über Arbeitszeit und Pausen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006401126)
 
 Arbeitgeber, die regelmäßig mindestens drei Jugendliche beschäftigen,
 haben eine Information über Beginn und Ende der regelmäßigen täglichen
@@ -1465,6 +1527,7 @@ oder auszuhängen.
 
 
 #### § 49 Verzeichnisse der Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006500314)
 
 Arbeitgeber haben Verzeichnisse der bei ihnen beschäftigten
 Jugendlichen unter Angabe des Vor- und Familiennamens, des
@@ -1474,6 +1537,7 @@ Tage auch das Datum des Beginns dieser Beschäftigung, enthalten ist.
 
 
 #### § 50 Auskunft, Vorlage der Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006600314)
 
 (1) Der Arbeitgeber ist verpflichtet, der Aufsichtsbehörde auf
 Verlangen
@@ -1496,10 +1560,12 @@ von zwei Jahren nach der letzten Eintragung aufzubewahren.
 
 
 ### Zweiter Titel - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG001100314)
 
 
 
 #### § 51 Aufsichtsbehörde, Besichtigungsrechte und Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006700314)
 
 (1) Die Aufsicht über die Ausführung dieses Gesetzes und der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen obliegt der nach
@@ -1524,10 +1590,12 @@ Absatz 1 zu berichten.
 
 
 #### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006801308)
 
 
 
 #### § 53 Mitteilung über Verstöße
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE006901308)
 
 Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die
 Vorschriften dieses Gesetzes oder gegen die auf Grund dieses Gesetzes
@@ -1537,6 +1605,7 @@ für Arbeit erhält eine Durchschrift dieser Mitteilung.
 
 
 #### § 54 Ausnahmebewilligungen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007001126)
 
 (1) Ausnahmen, die die Aufsichtsbehörde nach diesem Gesetz oder den
 auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bewilligen
@@ -1566,10 +1635,12 @@ auszulegen oder auszuhängen.
 
 
 ### Dritter Titel - Ausschüsse für Jugendarbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG001200314)
 
 
 
 #### § 55 Bildung des Landesausschusses für Jugendarbeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007102126)
 
 (1) Bei der von der Landesregierung bestimmten obersten Landesbehörde
 kann ein Landesausschuss für Jugendarbeitsschutz gebildet werden.
@@ -1626,6 +1697,7 @@ Vertreter der beteiligten obersten Landesbehörden teilnehmen.
 
 
 #### § 56 Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007201126)
 
 (1) Bei der Aufsichtsbehörde kann ein Ausschuss für
 Jugendarbeitsschutz gebildet werden. In Städten, in denen mehrere
@@ -1664,6 +1736,7 @@ Landesbehörde festgesetzt wird.
 
 
 #### § 57 Aufgaben der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007300314)
 
 (1) Der Landesausschuß berät die oberste Landesbehörde in allen
 allgemeinen Angelegenheiten des Jugendarbeitsschutzes und macht
@@ -1685,10 +1758,12 @@ Jugendarbeitsschutzes auf.
 
 
 ## Fünfter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG001300314)
 
 
 
 ### § 58 Bußgeld- und Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007407126)
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder
 fahrlässig
@@ -1870,6 +1945,7 @@ Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
 
 ### § 59 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007505126)
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder
 fahrlässig
@@ -1948,6 +2024,7 @@ Euro geahndet werden.
 
 
 ### § 60 Verwaltungsvorschriften für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007600314)
 
 Der Bundesminister für Arbeit und Sozialordnung kann mit Zustimmung
 des Bundesrates allgemeine Verwaltungsvorschriften für die Verfolgung
@@ -1959,10 +2036,12 @@ und 59 erlassen.
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNG001400314)
 
 
 
 ### § 61 Beschäftigung von Jugendlichen auf Kauffahrteischiffen
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007701377)
 
 Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf
 Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt
@@ -1970,6 +2049,7 @@ anstelle dieses Gesetzes das Seearbeitsgesetz.
 
 
 ### § 62 Beschäftigung im Vollzug einer Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007801307)
 
 (1) Die Vorschriften dieses Gesetzes gelten für die Beschäftigung
 Jugendlicher (§ 2 Abs. 2) im Vollzug einer gerichtlich angeordneten
@@ -1992,14 +2072,17 @@ naturnotwendig vorgenommen werden müssen.
 
 
 ### (XXXX) §§ 63 bis 70 (Änderungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE007900314)
 
 
 
 ### § 71 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008001126)
 
 
 
 ### § 72 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jarbschg/BJNR009650976.html#BJNR009650976BJNE008102308)
 
 (1) Dieses Gesetz tritt am 1. Mai 1976 in Kraft.
 

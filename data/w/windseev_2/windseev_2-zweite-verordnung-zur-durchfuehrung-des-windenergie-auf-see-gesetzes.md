@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000100000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie verordnet auf Grund
 des § 15 der Erneuerbare-Energien-Verordnung vom 17. Februar 2015
@@ -28,9 +29,11 @@ Wasserstraßen und Schifffahrt:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000300000)
 
 [^F820004_01_BJNR005800022BJNE000300000]
 Für die im Flächenentwicklungsplan vom 18. Dezember 2020
@@ -62,6 +65,7 @@ werden durch diese Verordnung
 [^F820004_01_BJNR005800022BJNE000300000]: 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -155,12 +159,15 @@ Im Sinne dieser Verordnung ist oder sind
 [^F820004_02_BJNR005800022BJNE000400000]: 
 
 ## Teil 2 - Feststellung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000200000)
 
 
 ### Kapitel 1 - Eignungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000300000)
 
 
 #### § 3 Feststellung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000500000)
 
 Die im Flächenentwicklungsplan vom 18. Dezember 2020 festgelegten
 Flächen N-3.5, N-3.6 und N-7.2 in der deutschen ausschließlichen
@@ -171,15 +178,19 @@ Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet.
 
 
 ### Kapitel 2 - Vorgaben für das spätere Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000400000)
 
 
 #### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000500000)
 
 
 ##### Unterabschnitt 1 - Auswirkungen des Vorhabens auf die Meeresumwelt
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000600000)
 
 
 ###### § 4 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000600000)
 
 (1) Der Träger des Vorhabens hat während der Bauphase und mindestens
 während der drei ersten Jahre des Betriebes der Anlagen ein Monitoring
@@ -217,6 +228,7 @@ durchgeführt werden.
 [^F820004_03_BJNR005800022BJNE000600000]: 
 
 ###### § 5 Verlegung und Dimensionierung von parkinternen Seekabelsystemen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000700000)
 
 (1) Der Träger des Vorhabens hat bei der Dimensionierung und Verlegung
 der parkinternen Seekabelsysteme den Planungsgrundsatz des
@@ -229,6 +241,7 @@ geringen Umweltauswirkungen erreicht wird.
 
 
 ###### § 6 Vermeidung oder Verminderung von Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000800000)
 
 (1) Der Träger des Vorhabens hat Emissionen zu vermeiden oder, soweit
 sie unvermeidlich sind, zu vermindern.
@@ -266,6 +279,7 @@ sie unvermeidlich sind, zu vermindern.
 
 
 ###### § 7 Vermeidung von Schallemissionen bei der Gründung, der Installation und dem Betrieb von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE000900000)
 
 (1) Bei der Gründung und Installation einer Anlage hat der Träger des
 Vorhabens diejenige Arbeitsmethode nach dem Stand der Technik
@@ -301,6 +315,7 @@ unberührt.
 
 
 ###### § 8 Zeitliche Koordination von Rammarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001000000)
 
 (1) Der Träger des Vorhabens hat die Durchführung von Rammarbeiten mit
 den Trägern der Vorhaben parallel fertigzustellender Offshore-
@@ -314,6 +329,7 @@ Grenzwerte des Schallschutzkonzeptes notwendig ist.
 
 
 ###### § 9 Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001100000)
 
 Das Einbringen und Einleiten von Abfällen in die Meeresumwelt ist
 verboten, es sei denn, dies ist nach den Vorschriften dieser
@@ -321,6 +337,7 @@ Verordnung zulässig.
 
 
 ###### § 10 Korrosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001200000)
 
 (1) Der vom Träger des Vorhabens eingesetzte Korrosionsschutz der
 Anlage muss möglichst schadstofffrei und emissionsarm sein.
@@ -343,6 +360,7 @@ Spritzwasserzone mit einem ölabweisenden Anstrich zu versehen.
 
 
 ###### § 11 Anlagenkühlung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001300000)
 
 Zur Anlagenkühlung soll ein geschlossenes Kühlsystem eingesetzt
 werden, bei dem es nicht zu Kühlwassereinleitungen oder sonstigen
@@ -350,6 +368,7 @@ stofflichen Einleitungen in die Meeresumwelt kommt.
 
 
 ###### § 12 Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001400000)
 
 (1) Der Träger des Vorhabens hat das Abwasser aus sanitären
 Einrichtungen, Sanitätseinrichtungen, Küchen und Wäschereien
@@ -389,6 +408,7 @@ Die Chlorierung von Abwässern ist nicht zulässig.
 
 
 ###### § 13 Ölgehalt des Drainagewassers
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001500000)
 
 (1) Bei Einsatz eines Leichtflüssigkeitsabscheiders darf anfallendes
 Drainagewasser einen Ölgehalt von 5 Milligramm je Liter nicht
@@ -406,6 +426,7 @@ wird.
 
 
 ###### § 14 Löschschaum auf Hubschrauberlandedecks
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001600000)
 
 (1) Auf Hubschrauberlandedecks dürfen Schaummittel zur
 Löschschaumproduktion keine per- und polyfluorierten Chemikalien
@@ -421,6 +442,7 @@ nicht über das Drainagesystem in die Meeresumwelt eingeleitet werden.
 
 
 ###### § 15 Dieselgeneratoren
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001700000)
 
 (1) Auf Offshore-Plattformen eingesetzte Dieselgeneratoren müssen
 bezüglich der Emissionsgrenzwerte nach Stufe III der MARPOL Anlage VI
@@ -436,6 +458,7 @@ Kraftstoff einzusetzen.
 
 
 ###### § 16 Kolk- und Kabelschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001800000)
 
 (1) Bei Kolk- und Kabelschutzmaßnahmen hat der Träger des Vorhabens
 das Einbringen von Hartsubstrat auf das zur Herstellung des Schutzes
@@ -452,9 +475,11 @@ zulässig und auf ein Mindestmaß zu begrenzen.
 
 
 ##### Unterabschnitt 2 - Allgemeine Vorschriften für die Sicherheit und Leichtigkeit des Schiffs- und Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000700000)
 
 
 ###### § 17 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE001900000)
 
 (1) Der Träger des Vorhabens hat die Anlagen bis zu ihrer Entfernung
 aus dem Seegebiet nach den geltenden Regelwerken der Wasserstraßen-
@@ -505,9 +530,11 @@ der gesamten Bebauungssituation im Verkehrsraum anzupassen.
 
 
 ##### Unterabschnitt 3 - Besondere Vorschriften für die Sicherheit und Leichtigkeit des Schiffsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000800000)
 
 
 ###### § 18 Seeraumbeobachtung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002000000)
 
 [^F820004_09_BJNR005800022BJNE002000000]
 Der Träger des Vorhabens hat eine Seeraumbeobachtung für die Fläche
@@ -524,6 +551,7 @@ eingehalten werden.
 [^F820004_09_BJNR005800022BJNE002000000]: 
 
 ###### § 19 Bauweise
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002100000)
 
 [^F820004_10_BJNR005800022BJNE002100000]
 (1) Der Träger des Vorhabens hat die Anlage nach dem Stand der Technik
@@ -546,6 +574,7 @@ Gebiets, in dem die Fläche liegt, integrieren.
 [^F820004_10_BJNR005800022BJNE002100000]: 
 
 ###### § 20 Verkehrssicherung während der Bauphase
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002200000)
 
 [^F820004_11_BJNR005800022BJNE002200000]
 (1) Zur Sicherung des Umfeldes der Baustelle und zur Vermeidung von
@@ -594,6 +623,7 @@ erfüllt werden.
 [^F820004_13_BJNR005800022BJNE002200000]: 
 
 ###### § 21 Anforderungen an Fahrzeuge und Arbeitsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002300000)
 
 Alle eingesetzten Arbeitsgeräte und Fahrzeuge einschließlich des
 Verkehrssicherungsfahrzeugs müssen
@@ -614,6 +644,7 @@ Verkehrssicherungsfahrzeugs müssen
 
 
 ###### § 22 Risikomindernde Maßnahmen zur Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002400000)
 
 (1) Zur Gewährleistung der Sicherheit und Leichtigkeit des
 Schiffsverkehrs kann die Planfeststellungsbehörde Maßnahmen,
@@ -640,9 +671,11 @@ Gesetzes bleiben unberührt.
 
 
 ##### Unterabschnitt 4 - Besondere Vorschriften für die Sicherheit und Leichtigkeit des Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG000900000)
 
 
 ###### § 23 Hubschrauberwindenbetrieb und Windenbetriebsflächen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002500000)
 
 (1) Auf einer Windenergieanlage ist die Windenbetriebsfläche durch den
 Träger des Vorhabens nach den folgenden Vorschriften auszugestalten,
@@ -732,6 +765,7 @@ folgenden Vorschriften auszugestalten und zu kennzeichnen:
 [^F820004_17_BJNR005800022BJNE002500000]: 
 
 ###### § 24 Hubschrauberlandedeck
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002600000)
 
 (1) Wenn ein Hubschrauberlandedeck auf einer Offshore-Plattform des
 Offshore-Windparks eingerichtet wird, sind für dessen Einrichtung und
@@ -766,6 +800,7 @@ gewährleisten.
 [^F820004_19_BJNR005800022BJNE002600000]: 
 
 ###### § 25 Flugkorridore
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002700000)
 
 (1) Der Träger des Vorhabens hat für ein Hubschrauberlandedeck nach §
 24 in der jeweiligen Fläche Flugkorridore nach Absatz 2 und den
@@ -898,6 +933,7 @@ Flugkorridors diese steht.
 [^F820004_21_BJNR005800022BJNE002700000]: 
 
 ###### § 26 Turmanstrahlung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002800000)
 
 [^F820004_22_BJNR005800022BJNE002800000]
 (1) Wenn das Hubschrauberlandedeck nachts betrieben werden soll, hat
@@ -925,6 +961,7 @@ der Störungsbehebung getroffen wurden.
 [^F820004_22_BJNR005800022BJNE002800000]: 
 
 ###### § 27 Kennzeichnung von Luftfahrthindernissen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE002900000)
 
 Der Träger des Vorhabens hat die Anlagen als Luftfahrthindernisse
 sowie sonstige Hindernisse in der Umgebung des Hubschrauberlandedecks
@@ -962,9 +999,11 @@ gemäß den folgenden Vorschriften zu kennzeichnen:
 [^F820004_25_BJNR005800022BJNE002900000]: 
 
 ##### Unterabschnitt 5 - Sicherheit der Landes- und Bündnisverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001000000)
 
 
 ###### § 28 Vorgaben zur Gewährleistung der Sicherheit der Landes- und Bündnisverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003000000)
 
 (1) Der Träger des Vorhabens hat die errichteten Anlagen an geeigneten
 Eckpositionen mit Sonartranspondern zu kennzeichnen. § 17 Absatz 2 ist
@@ -980,9 +1019,11 @@ Marinekommando anzuzeigen.
 
 
 ##### Unterabschnitt 6 - Sicherheit und Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001100000)
 
 
 ###### § 29 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003100000)
 
 Bei Planung, Errichtung, Betrieb und Rückbau jeder Anlage hat der
 Träger des Vorhabens sicherzustellen, dass die deutschen Vorschriften
@@ -991,6 +1032,7 @@ werden können.
 
 
 ###### § 30 Evakuierung, Rettung und notfallmedizinische Versorgung sowie Brand- und Explosionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003200000)
 
 (1) Der Träger des Vorhabens hat ein projektspezifisches Flucht- und
 Rettungskonzept sowie ein bauliches, anlagentechnisches und
@@ -1020,6 +1062,7 @@ nutzen sollen.
 
 
 ###### § 31 Eingriff in den Baugrund
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003300000)
 
 Vor der Ausführung von Arbeiten, die einen Eingriff in den Baugrund
 erfordern, hat der Träger des Vorhabens sicherzustellen, dass mögliche
@@ -1032,6 +1075,7 @@ aufgefunden wird.
 
 
 ###### § 32 Überwachung der Einhaltung der Vorschriften zur Sicherheit und zum Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003400000)
 
 (1) Zur Überwachung der Pflichten aus den §§ 29 bis 31 hat der Träger
 des Vorhabens der zuständigen Behörde und ihren Beauftragten die für
@@ -1048,6 +1092,7 @@ Kosten für den Transport zu übernehmen.
 
 
 ###### § 33 Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003500000)
 
 Die Pflichten des Trägers des Vorhabens zur Gewährleistung der
 Sicherheit und des Gesundheitsschutzes bei der Arbeit in seiner
@@ -1055,9 +1100,11 @@ Eigenschaft als Arbeitgeber bleiben unberührt.
 
 
 ##### Unterabschnitt 7 - Vereinbarkeit mit bestehenden und geplanten Kabeln, Rohrleitungen sowie Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001200000)
 
 
 ###### § 34 Vereinbarkeit mit bestehenden und geplanten Seekabeln sowie Rohrleitungen und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003600000)
 
 (1) Bei der Planung und Durchführung von Arbeiten im Umfeld von
 bestehenden und geplanten Seekabeln oder Rohrleitungen sowie sonstiger
@@ -1091,6 +1138,7 @@ Netzbetreiber erfolgen.
 
 
 ###### § 35 Abstand zu Windenergieanlagen benachbarter Flächen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003700000)
 
 Die auf der Fläche zu errichtenden Windenergieanlagen müssen einen
 Abstand von mindestens dem Fünffachen des jeweils größeren
@@ -1102,6 +1150,7 @@ Standsicherheit der Anlagen gewährleistet ist.
 
 
 ###### § 36 Einspeisung am Netzanschlusspunkt
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003800000)
 
 Nach § 24 Absatz 1 Nummer 3 des Windenergie-auf-See-Gesetzes besteht
 im Umfang der bezuschlagten Gebotsmenge ein Anspruch auf Anschluss der
@@ -1111,9 +1160,11 @@ Anbindungsleitung.
 
 
 ##### Unterabschnitt 8 - Sonstige Verpflichtungen des Trägers des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001300000)
 
 
 ###### § 37 Konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE003900000)
 
 (1) Die Planung, die Errichtung, der Betrieb und der Rückbau sowie die
 Konstruktion und Ausstattung der Anlagen müssen dem Stand der Technik
@@ -1155,6 +1206,7 @@ auch ein vollständiger Zugriff auch vom Land aus möglich sind.
 [^F820004_27_BJNR005800022BJNE003900000]: 
 
 ###### § 38 Ermittlung, Dokumentation und Meldung von Objekten und errichteten Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE004000000)
 
 (1) Der Träger des Vorhabens hat vor Beginn der Planung und
 Realisierung der Anlagen vorhandene Kabel, Leitungen, Wracks,
@@ -1190,9 +1242,11 @@ Seeschifffahrt und Hydrographie zu übermitteln.
 
 
 #### Abschnitt 2 - Besondere Vorgaben für die Fläche N-7.2
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001400000)
 
 
 ##### § 39 Besondere Bestimmungen zur Vereinbarkeit mit Kulturgütern
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE004100000)
 
 (1) Um das Schiffswrack mit dem Wrackmittelpunkt
 54°16.2354'N;
@@ -1215,9 +1269,11 @@ Bergung erhalten und bewahrt werden können.
 
 
 ## Teil 3 - Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001500000)
 
 
 ### § 40 Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE004200000)
 
 (1) Die auf der Fläche N-3.5 zu installierende Leistung beträgt 420
 Megawatt.
@@ -1230,9 +1286,11 @@ Megawatt.
 
 
 ## Teil 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNG001600000)
 
 
 ### § 41 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_2/BJNR005800022.html#BJNR005800022BJNE004300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

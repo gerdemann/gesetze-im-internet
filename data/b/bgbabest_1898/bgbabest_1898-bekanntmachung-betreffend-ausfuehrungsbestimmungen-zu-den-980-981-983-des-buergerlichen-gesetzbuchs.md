@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgbabest_1898/BJNR009120898.html#BJNR009120898BJNE000100313)
 
 Auf Grund der §§ 982, 983 des Bürgerlichen Gesetzbuchs hat der
 Bundesrat folgende
@@ -33,6 +34,7 @@ beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgbabest_1898/BJNR009120898.html#BJNR009120898BJNE000200313)
 
 (1) Die nach den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs von
 Reichsbehörden und
@@ -50,6 +52,7 @@ insbesondere durch Einrückung in öffentliche Blätter, veranlassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bgbabest_1898/BJNR009120898.html#BJNR009120898BJNE000300313)
 
 Die in der Bekanntmachung zu bestimmende Frist zur Anmeldung von
 Rechten muß mindestens sechs Wochen betragen. Die Frist beginnt mit

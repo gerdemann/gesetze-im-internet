@@ -26,6 +26,7 @@ Stand: Ersetzt V 7110-6-83 v. 9.5.2003 I 690; 2004 I 2601 (SteinAusbV 2003)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -36,9 +37,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000300000)
 
 Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und
 Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung
@@ -47,11 +50,13 @@ Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -199,6 +205,7 @@ sind:
 
 
 ### § 5 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000700000)
 
 Die Berufsausbildung ist während einer Dauer von insgesamt 14 Wochen
 in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu
@@ -295,6 +302,7 @@ Fähigkeiten sind zu ergänzen und zu vertiefen:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -302,9 +310,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -314,6 +324,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -330,6 +341,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines
 Werkstückes aus Naturwerkstein statt.
@@ -395,12 +407,15 @@ Auf die schriftliche Bearbeitung der Aufgaben entfallen drei Stunden.
 
 
 ## Abschnitt 3 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000300000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000400000)
 
 
 #### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001200000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -410,6 +425,7 @@ werden.
 
 
 #### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001300000)
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -426,9 +442,11 @@ Die Gesellenprüfung erstreckt sich auf
 
 
 ### Unterabschnitt 2 - Fachrichtung Steinmetzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000500000)
 
 
 #### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001400000)
 
 Die Gesellenprüfung findet in der Fachrichtung Steinmetzarbeiten in
 den folgenden Prüfungsbereichen statt:
@@ -453,6 +471,7 @@ den folgenden Prüfungsbereichen statt:
 
 
 #### § 13 Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001500000)
 
 (1) Im Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -514,6 +533,7 @@ beträgt 52 Stunden.
 
 
 #### § 14 Prüfungsbereich Ausführen eines Auftrages
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001600000)
 
 (1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -581,6 +601,7 @@ Fachgespräch dauert höchstens zehn Minuten.
 
 
 #### § 15 Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001700000)
 
 (1) Im Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -627,6 +648,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 16 Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001800000)
 
 (1) Im Prüfungsbereich Anwenden von Fertigungstechniken und
 Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er
@@ -667,6 +689,7 @@ in der Lage ist,
 
 
 #### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE001900000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -680,6 +703,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Steinmetzarbeiten wie folgt zu gewichten:
@@ -775,9 +799,11 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ### Unterabschnitt 3 - Fachrichtung Steinbildhauerarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000600000)
 
 
 #### § 19 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002100000)
 
 Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten
 in den folgenden Prüfungsbereichen statt:
@@ -802,6 +828,7 @@ in den folgenden Prüfungsbereichen statt:
 
 
 #### § 20 Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002200000)
 
 (1) Im Prüfungsbereich Gestalten und Herstellen einer
 Steinbildhauerarbeit soll der Prüfling nachweisen, dass er in der Lage
@@ -846,6 +873,7 @@ beträgt 52 Stunden.
 
 
 #### § 21 Prüfungsbereich Ausführen eines Auftrages
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002300000)
 
 (1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -894,6 +922,7 @@ Fachgespräch dauert höchstens zehn Minuten.
 
 
 #### § 22 Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002400000)
 
 (1) Im Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -944,6 +973,7 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 23 Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002500000)
 
 (1) Im Prüfungsbereich Anwenden von Fertigungstechniken und
 Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er
@@ -987,6 +1017,7 @@ in der Lage ist,
 
 
 #### § 24 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1000,6 +1031,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 25 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Steinbildhauerarbeiten wie folgt zu gewichten:
@@ -1095,9 +1127,11 @@ im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNG000700000)
 
 
 ### § 26 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -1106,6 +1140,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 27 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE002900000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Steinmetz und
@@ -1115,6 +1150,7 @@ Steinbildhauer/zur Steinmetzin und Steinbildhauerin vom 9. Mai 2003
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin
+[Direktlink](https://www.gesetze-im-internet.de/stmstbausbv/BJNR044700018.html#BJNR044700018BJNE003000000)
 
 (Fundstelle: BGBl. I 2018, 454 - 461)
 

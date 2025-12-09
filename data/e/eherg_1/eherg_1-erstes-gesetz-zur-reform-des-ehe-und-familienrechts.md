@@ -20,67 +20,80 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000200305)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000300305)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000400305)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000500305)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000600305)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000700305)
 
 -
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000800305)
 
 -
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE000900305)
 
 -
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE001000305)
 
 -
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE001100305)
 
 -
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE001200305)
 
 -
 
 
 ## Art 12 Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE001303140)
 
 
 1.  Für die persönlichen Rechtsbeziehungen der Ehegatten zueinander
@@ -178,6 +191,7 @@ beschlossen:
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eherg_1/BJNR014210976.html#BJNR014210976BJNE001400305)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

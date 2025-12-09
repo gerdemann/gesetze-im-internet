@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000100000)
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
 auf Grund
@@ -42,6 +43,7 @@ auf Grund
 
 
 ## § 1 Zielsetzung und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -67,6 +69,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Personal
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000300000)
 
 Die Berufsgenossenschaft für Transport und Verkehrswirtschaft
 (Berufsgenossenschaft) und die anerkannten Organisationen haben für
@@ -76,6 +79,7 @@ erforderliche Ausbildung, Befähigung und Ausstattung verfügen.
 
 
 ## § 3 Verantwortlichkeit des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000400000)
 
 (1) Ist der Eigentümer eines Schiffes der Reeder (§ 4 Absatz 1 Nummer
 1 des Seearbeitsgesetzes), hat er der Berufsgenossenschaft einen
@@ -98,6 +102,7 @@ verlangen.
 
 
 ## § 4 Überwachung der anerkannten Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000500000)
 
 (1) Die Durchführung der von den anerkannten Organisationen
 wahrgenommenen Tätigkeiten ist regelmäßig, mindestens jedoch alle zwei
@@ -143,6 +148,7 @@ hinaus insbesondere befugt:
 
 
 ## § 5 Zwischen- und Erneuerungsüberprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000600000)
 
 (1) Wird das Seearbeitszeugnis für fünf Jahre ausgestellt, hat der
 Reeder dafür zu sorgen, dass zwischen dem zweiten und dritten
@@ -181,6 +187,7 @@ Fischereiarbeitszeugnis gilt Absatz 2 entsprechend.
 
 
 ## § 6 Überprüfungen für die Erteilung des vorläufigen Seearbeitszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000700000)
 
 (1) Das vorläufige Seearbeitszeugnis nach § 131 Absatz 1 des
 Seearbeitsgesetzes wird von der Berufsgenossenschaft erteilt, wenn
@@ -226,6 +233,7 @@ durchgeführt wird.
 
 
 ## § 7 Aufzeichnung der Überprüfungen, Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000800000)
 
 (1) Die in § 2 bezeichneten Inspektoren haben die Ergebnisse aller
 Überprüfungen an Bord eines Schiffes in einem Überprüfungsbericht
@@ -265,6 +273,7 @@ keine personenbezogenen Daten enthalten sein.
 
 
 ## § 8 Muster
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE000900000)
 
 (1) Die Berufsgenossenschaft veröffentlicht die Muster des
 Seearbeitszeugnisses, des vorläufigen Seearbeitszeugnisses, des
@@ -305,6 +314,7 @@ Mindestinhalte enthalten sind:
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seearb_v/BJNR280000013.html#BJNR280000013BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 

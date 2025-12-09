@@ -26,6 +26,7 @@ Reduktion der nationalen Emissionen bestimmter Luftschadstoffe, zur
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000100000)
 
 (1) „Emission“ im Sinne dieser Verordnung ist die Freisetzung von
 Stoffen aus einer Punktquelle oder einer diffusen Quelle in die
@@ -68,6 +69,7 @@ einer Höhe von 914,4 Metern stattfinden.
 
 
 ## § 2 Verpflichtungen zur Emissionsreduktion
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000200000)
 
 (1) Die Bundesrepublik Deutschland ist verpflichtet, die jährlichen
 durch menschliche Tätigkeiten verursachten Emissionen von
@@ -144,6 +146,7 @@ Luftschadstoffen gegenüber dem Jahr 2005 wie folgt zu reduzieren:
 
 
 ## § 3 Indikative Emissionsmengen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000300000)
 
 (1) Für das Jahr 2025 ist für die Emissionsmengen der in § 2 Absatz 1
 aufgeführten Luftschadstoffe ein linearer Reduktionspfad einzuhalten.
@@ -171,6 +174,7 @@ und im Fall eines nichtlinearen Reduktionspfads zu begründen.
 
 
 ## § 4 Nationales Luftreinhalteprogramm
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000400000)
 
 (1) Die Bundesregierung erstellt ein nationales Luftreinhalteprogramm.
 Das nationale Luftreinhalteprogramm enthält
@@ -281,6 +285,7 @@ Mitgliedstaaten der Europäischen Union.
 
 
 ## § 5 Aktualisierung des nationalen Luftreinhalteprogramms
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000500000)
 
 (1) Die Bundesregierung aktualisiert das nationale
 Luftreinhalteprogramm mindestens alle vier Jahre.
@@ -321,6 +326,7 @@ umfassen mindestens
 
 
 ## § 6 Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000600000)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit beteiligt die Öffentlichkeit frühzeitig bei der Erstellung
@@ -371,6 +377,7 @@ ist.
 
 
 ## § 7 Nationales Emissionsinventar
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000700000)
 
 (1) Das Umweltbundesamt erstellt für die in Anlage 1 Tabelle A
 aufgeführten Schadstoffe, für Luftschadstoffe aus dem Sektor
@@ -390,6 +397,7 @@ erfolgt gemäß Anlage 2 Teil I.
 
 
 ## § 8 Nationale Emissionsprognose
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000800000)
 
 (1) Das Umweltbundesamt erstellt für die in Anlage 1 Tabelle B
 aufgeführten Schadstoffe, für Luftschadstoffe aus dem Sektor
@@ -420,6 +428,7 @@ umfassen:
 
 
 ## § 9 Informativer Inventarbericht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE000900000)
 
 (1) Das Umweltbundesamt erstellt nach dem Stand von Wissenschaft und
 Technik der Emissionsberichterstattung einen informativen
@@ -484,6 +493,7 @@ aktualisiert:
 
 
 ## § 10 Anpassung des nationalen Emissionsinventars im Hinblick auf die Einhaltung der Verpflichtungen zur Emissionsreduktion
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001000000)
 
 (1) Das Umweltbundesamt kann auf Grundlage einer Entscheidung nach §
 14 Absatz 1 das nationale Emissionsinventar für SO
@@ -515,6 +525,7 @@ Emissionsfaktoren zu unterrichten.
 
 
 ## § 11 Mitteilung von Emissionen im Fall außergewöhnlicher meteorologischer Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001100000)
 
 Wenn die nationalen Verpflichtungen zur Emissionsreduktion in einem
 bestimmten Jahr auf Grund eines außergewöhnlich strengen Winters oder
@@ -533,6 +544,7 @@ Kompensation der Verpflichtungen zur Emissionsreduktion für SO
 und Feinstaub PM
 
 ## § 12 ab dem Jahr 2030
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001200000)
 
 Die Verpflichtungen zur Emissionsreduktion ab dem Jahr 2030 gelten für
 SO
@@ -545,6 +557,7 @@ anderen in § 2 Absatz 1 genannten Schadstoff erfolgt.
 
 
 ## § 13 Einhaltung der Verpflichtungen zur Emissionsreduktion bei unvorhersehbaren Entwicklungen im Energiesektor
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001300000)
 
 Die Verpflichtungen zur Emissionsreduktion gelten für einen Zeitraum
 von höchstens drei Jahren als eingehalten, wenn
@@ -573,6 +586,7 @@ von höchstens drei Jahren als eingehalten, wenn
 
 
 ## § 14 Inanspruchnahme der Flexibilisierungsregelungen im Hinblick auf die Einhaltung der Verpflichtungen zur Emissionsreduktion
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001400000)
 
 (1) Über die Inanspruchnahme der Flexibilisierungsregelungen nach den
 §§ 10 bis 13 entscheidet das Bundesministerium für Umwelt, Naturschutz
@@ -752,6 +766,7 @@ Emissionsdaten für jedes Jahr zu gewährleisten.
 
 
 ## § 15 Monitoring der Auswirkungen der Luftverschmutzung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001500000)
 
 (1) Für das Monitoring der negativen Auswirkungen der
 Luftverschmutzung auf Ökosysteme werden die Daten verwendet, die
@@ -788,6 +803,7 @@ jeweiligen Jahres.
 
 
 ## § 16 Übermittlung des nationalen Luftreinhalteprogramms
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001600000)
 
 Das Umweltbundesamt übermittelt der Europäischen Kommission das
 beschlossene nationale Luftreinhalteprogramm bis zum 31. März 2019.
@@ -798,6 +814,7 @@ Beschluss.
 
 
 ## § 17 Übermittlung des nationalen Emissionsinventars und der nationalen Emissionsprognose sowie des informativen Inventarberichts
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001700000)
 
 Das Umweltbundesamt übermittelt der Europäischen Kommission und der
 Europäischen Umweltagentur in Übereinstimmung mit der
@@ -825,6 +842,7 @@ Die Übermittlung erfolgt gemäß den Berichterstattungsfristen in Anlage
 
 
 ## § 18 Übermittlung von Informationen zum Monitoring der Auswirkungen der Luftverschmutzung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001800000)
 
 (1) Das Umweltbundesamt übermittelt der Europäischen Kommission und
 der Europäischen Umweltagentur
@@ -849,6 +867,7 @@ Juni des jeweiligen Jahres.
 
 
 ## § 19 Veröffentlichung des nationalen Luftreinhalteprogramms
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE001900000)
 
 Das Umweltbundesamt veröffentlicht auf seiner Internetseite das
 beschlossene nationale Luftreinhalteprogramm und dessen
@@ -856,6 +875,7 @@ Aktualisierungen.
 
 
 ## § 20 Veröffentlichung des nationalen Emissionsinventars und der nationalen Emissionsprognose sowie des informativen Inventarberichts
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE002000000)
 
 Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 
@@ -878,6 +898,7 @@ Das Umweltbundesamt veröffentlicht auf seiner Internetseite Folgendes:
 (zu § 7 Absatz 1 und 2, § 8 Absatz 1, § 9 Absatz 1 und § 17)
 
 ## Anlage 1 Überwachung von und Berichterstattung über Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE002101130)
 
 (Fundstelle: BGBl. I 2018, 1228 - 1229;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1159,6 +1180,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 7 Absatz 3 und § 8 Absatz 1)
 
 ## Anlage 2 Methoden für die Erstellung und Aktualisierung des nationalen Emissionsinventars und der nationalen Emissionsprognose
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_43/BJNR122210018.html#BJNR122210018BJNE002201130)
 
 (Fundstelle: BGBl. I 2018, 1230;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

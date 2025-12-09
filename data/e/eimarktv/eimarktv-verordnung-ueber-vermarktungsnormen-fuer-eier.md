@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000205119)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Union über Vermarktungsnormen für Eier
@@ -30,6 +31,7 @@ Rechtsakte der Europäischen Union über Vermarktungsnormen für Eier
 
 
 ## § 1a Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001502119)
 
 (1) Die Bestimmungen des Anhangs VII Teil VI, ausgenommen Abschnitt
 III Nummer 3, der Verordnung (EU) Nr. 1308/2013 des Europäischen
@@ -76,6 +78,7 @@ Packstelle.
 
 
 ## § 1b Verbot des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001604119)
 
 (1) Es ist verboten, entgegen Artikel 78 Absatz 1 Buchstabe e und
 Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr.
@@ -180,6 +183,7 @@ S. 262) geändert worden ist, in Verbindung mit
 
 
 ## § 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000302119)
 
 Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die nach
 Güte- oder Gewichtsklassen sortiert sind, hat auf jeder Stufe der
@@ -190,6 +194,7 @@ verkauft oder sonst in den Verkehr gebracht worden sind.
 
 
 ## § 3 Antrag auf Zulassung einer Packstelle
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000403119)
 
 (1) Die Zulassung einer Packstelle nach Artikel 3 Absatz 2 der
 Durchführungsverordnung (EU) 2023/2466 erfolgt auf Antrag des
@@ -203,6 +208,7 @@ anzuzeigen.
 
 
 ## § 4 Marktnotierungen
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000602119)
 
 Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die
 amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
@@ -212,6 +218,7 @@ Gewichtsklassen zugrunde zu legen.
 
 
 ## § 5 Verfahren bei Direktlieferung ungekennzeichneter Eier
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000706119)
 
 (1) Der Antrag des Betreibers einer in Deutschland ansässigen
 Produktionsstätte nach Artikel 10 der Delegierten Verordnung (EU)
@@ -275,6 +282,7 @@ gegeben sind, sind diese zu verwenden.
 
 
 ## § 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000809119)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 ist zuständig für die Überwachung der Einhaltung der Vorschriften der
@@ -332,6 +340,7 @@ unverzüglich an die zuständigen Behörden der Länder weiter.
 
 
 ## § 6a Anordnungen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001405119)
 
 (1) Die zuständige Behörde kann im Fall von Verstößen gegen
 Vermarktungsnormen die notwendigen Anordnungen zu deren Beseitigung
@@ -344,6 +353,7 @@ nachgewiesen wird, ist der Verbleib der Ware nachzuweisen.
 
 
 ## § 6b Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001800119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -351,6 +361,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE000909119)
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -387,6 +398,7 @@ Gesetzes über Ordnungswidrigkeiten und
 
 
 ## § 7a Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001700125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -423,15 +435,18 @@ prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001005119)
 
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001102308)
 
 (weggefallen)
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/eimarktv/BJNR031380977.html#BJNR031380977BJNE001201308)
 
 (Inkrafttreten)
 

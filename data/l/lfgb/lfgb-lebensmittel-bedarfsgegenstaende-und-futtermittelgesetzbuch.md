@@ -43,10 +43,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000105116)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000212116)
 
 (1) Zweck des Gesetzes ist es,
 
@@ -162,6 +164,7 @@ Verordnung (EG) Nr. 178/2002.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000325116)
 
 (1) Erzeugnisse sind Lebensmittel, einschließlich
 Lebensmittelzusatzstoffen, Futtermittel, Mittel zum Tätowieren,
@@ -269,6 +272,7 @@ Bedarfsgegenstände sind nicht
 
 
 ### § 3 Weitere Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000413116)
 
 (1) Im Sinne dieses Gesetzes sind:
 
@@ -415,6 +419,7 @@ des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie
 
 
 ### § 4 Vorschriften und Ermächtigungen zum Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000510116)
 
 (1) Die Vorschriften dieses Gesetzes
 
@@ -472,10 +477,12 @@ ausgehen können.
 
 
 ## Abschnitt 2 - Verkehr mit Lebensmitteln
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000205116)
 
 
 
 ### § 5 Verbote zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000606116)
 
 (1) Es ist verboten, Lebensmittel für andere derart herzustellen oder
 zu behandeln, dass ihr Verzehr gesundheitsschädlich im Sinne des
@@ -509,10 +516,12 @@ Unberührt bleiben
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000709116)
 
 
 
 ### § 7 Ermächtigungen zum Schutz der Gesundheit und vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000810116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -566,6 +575,7 @@ gebracht werden.
 
 
 ### § 8 Bestrahlungsverbot und Zulassungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE000910116)
 
 (1) Es ist verboten,
 
@@ -623,6 +633,7 @@ Zustimmung des Bundesrates,
 
 
 ### § 9 Pflanzenschutz- oder sonstige Mittel
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001015116)
 
 (1) Es ist verboten, Lebensmittel in den Verkehr zu bringen,
 
@@ -707,6 +718,7 @@ mit Zustimmung des Bundesrates,
 
 
 ### § 10 Stoffe mit pharmakologischer Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001113116)
 
 (1) Es ist verboten, vom Tier gewonnene Lebensmittel in den Verkehr zu
 bringen, wenn in oder auf ihnen Stoffe mit pharmakologischer Wirkung
@@ -890,6 +902,7 @@ anzuwenden.
 
 
 ### § 11 Vorschriften zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001209116)
 
 (1) Es ist verboten, als Verantwortlicher nach Artikel 8 Absatz 1 der
 Verordnung (EU) Nr. 1169/2011 Lebensmittel mit Informationen über
@@ -943,6 +956,7 @@ durch die Verordnung (EU) Nr. 1047/2012 (ABl. L 310 vom 9.11.2012, S.
 
 
 ### § 12 Weitere Verbote
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001311116)
 
 Es ist verboten, andere als dem Verbot des Artikels 14 Absatz 1 in
 Verbindung mit Absatz 2 Buchstabe b der Verordnung (EG) Nr. 178/2002
@@ -951,6 +965,7 @@ ungeeignet sind, in den Verkehr zu bringen.
 
 
 ### § 13 Ermächtigungen zum Schutz der Gesundheit und vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001411116)
 
 (1) Das Bundesministerium wird ermächtigt, in den Fällen der Nummern 1
 und 2 im Einvernehmen mit dem Bundesministerium für Wirtschaft und
@@ -1143,6 +1158,7 @@ Energie.
 
 
 ### § 14 Weitere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008203116)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit dies zur Erfüllung der in § 1
@@ -1248,6 +1264,7 @@ Folgenahrung zu erlassen.
 
 
 ### § 15 Deutsches Lebensmittelbuch
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001608116)
 
 (1) Das Deutsche Lebensmittelbuch ist eine Sammlung von Leitsätzen, in
 denen Herstellung, Beschaffenheit oder sonstige Merkmale von
@@ -1265,6 +1282,7 @@ Gründen abgelehnt oder rückgängig gemacht werden.
 
 
 ### § 16 Deutsche Lebensmittelbuch-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001707116)
 
 (1) Die Deutsche Lebensmittelbuch-Kommission wird beim
 Bundesministerium gebildet.
@@ -1285,10 +1303,12 @@ regelt die Geschäftsordnung.
 
 
 ## Abschnitt 3 - Verkehr mit Futtermitteln
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000305116)
 
 
 
 ### § 17 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001806116)
 
 (1) Es ist verboten, Futtermittel derart herzustellen oder zu
 behandeln, dass bei ihrer bestimmungsgemäßen und sachgerechten
@@ -1374,6 +1394,7 @@ von nicht sicheren Futtermitteln bleiben unberührt.
 
 
 ### § 17a Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008002116)
 
 (1) Ein Futtermittelunternehmer mit mindestens einem im Inland
 zugelassenen oder registrierten Betrieb, der dort in einem
@@ -1462,10 +1483,12 @@ Behörde.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE001908116)
 
 
 
 ### § 19 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002009116)
 
 (1) Es ist verboten, als Verantwortlicher nach Artikel 12 Absatz 2 der
 Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates
@@ -1512,6 +1535,7 @@ entspricht, in den Verkehr zu bringen.
 
 
 ### § 20 Verbot der krankheitsbezogenen Werbung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002106116)
 
 (1) Es ist verboten, beim Verkehr mit Futtermittelzusatzstoffen oder
 Vormischungen oder in der Werbung für sie allgemein oder im Einzelfall
@@ -1536,6 +1560,7 @@ unberührt.
 
 
 ### § 21 Weitere Verbote sowie Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002209116)
 
 (1) Vormischungen dürfen nicht in den Verkehr gebracht werden, wenn
 sie einer durch Rechtsverordnung aufgrund von Ermächtigungen nach
@@ -1626,6 +1651,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates, soweit es mit den in
 
 
 ### § 22 Ermächtigungen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002306116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
@@ -1636,6 +1662,7 @@ vorzuschreiben, zu verbieten oder zu beschränken.
 
 
 ### § 23 Weitere Ermächtigungen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002408116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
@@ -1695,6 +1722,7 @@ mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
 
 ### § 23a Ermächtigungen zum Schutz der tierischen Gesundheit und zur Förderung der tierischen Erzeugung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007905116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
@@ -1800,6 +1828,7 @@ mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 
 
 ### § 23b Weitere Ermächtigungen für Arzneifuttermittel
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE009000116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
@@ -1837,6 +1866,7 @@ Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
 
 
 ### § 24 Gewähr für bestimmte Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002506116)
 
 Der Verkäufer eines Futtermittels übernimmt die Gewähr dafür, dass das
 Futtermittel die in Artikel 4 Absatz 2 Unterabsatz 1 Buchstabe a der
@@ -1844,6 +1874,7 @@ Verordnung (EG) Nr. 767/2009 bezeichneten Anforderungen erfüllt.
 
 
 ### § 25 Mitwirkung bestimmter Behörden
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002608116)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, soweit es zur Erfüllung
@@ -1870,10 +1901,12 @@ zu regeln.
 
 
 ## Abschnitt 4 - Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000406116)
 
 
 
 ### § 26 Verbote zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002707116)
 
 Es ist verboten,
 
@@ -1899,6 +1932,7 @@ Verantwortlichen.
 
 
 ### § 27 Vorschriften zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002807116)
 
 Es ist verboten, Mittel zum Tätowieren unter irreführender
 Bezeichnung, Angabe oder Aufmachung in den Verkehr zu bringen oder für
@@ -1920,6 +1954,7 @@ liegt insbesondere dann vor, wenn
 
 
 ### § 28 Ermächtigungen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE002910116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -1990,6 +2025,7 @@ nach Satz 2 erlassen werden.
 
 
 ### § 29 Weitere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003010116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2068,10 +2104,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates, soweit es
 
 
 ## Abschnitt 5 - Verkehr mit sonstigen Bedarfsgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000505116)
 
 
 
 ### § 30 Verbote zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003106116)
 
 Es ist verboten,
 
@@ -2099,6 +2137,7 @@ Es ist verboten,
 
 
 ### § 31 Übergang von Stoffen auf Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003208116)
 
 (1) Es ist verboten, Materialien oder Gegenstände im Sinne des § 2
 Absatz 6 Satz 1 Nummer 1, die den in Artikel 3 Absatz 1 der Verordnung
@@ -2145,6 +2184,7 @@ worden sind, als Lebensmittel in den Verkehr zu bringen.
 
 
 ### § 32 Ermächtigungen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003310116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2206,6 +2246,7 @@ entsprechen, dürfen nicht in den Verkehr gebracht werden.
 
 
 ### § 33 Vorschriften zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003409116)
 
 (1) Es ist verboten, Materialien oder Gegenstände im Sinne des § 2
 Absatz 6 Satz 1 Nummer 1 unter irreführender Bezeichnung, Angabe oder
@@ -2226,10 +2267,12 @@ darf und die Einzelheiten dafür zu bestimmen.
 
 
 ## Abschnitt 6 - Gemeinsame Vorschriften für alle Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000605116)
 
 
 
 ### § 34 Ermächtigungen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003509116)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2283,6 +2326,7 @@ Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist.
 
 
 ### § 35 Ermächtigungen zum Schutz vor Täuschung und zur Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003610116)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2362,6 +2406,7 @@ genannten Zwecke erforderlich ist,
 
 
 ### § 36 Ermächtigungen für betriebseigene Kontrollen und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003709116)
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2408,6 +2453,7 @@ Aushändigenden verwendet werden.
 
 
 ### § 37 Weitere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003809116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -2466,10 +2512,12 @@ festgelegt werden.
 
 
 ## Abschnitt 7 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000705116)
 
 
 
 ### § 38 Zuständigkeit, Aufgabe und gegenseitige Information
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE003909116)
 
 (1) Die Zuständigkeit für die Überwachungsmaßnahmen nach diesem
 Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und
@@ -2595,6 +2643,7 @@ als Mitgliedstaaten betreffen, an die Europäische Kommission.
 
 
 ### § 38a Übermittlung von Daten über den Internethandel
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007604116)
 
 (1) Das Bundeszentralamt für Steuern übermittelt nach Maßgabe des
 Satzes 2 oder 3 zur Unterstützung der den Ländern obliegenden
@@ -2660,6 +2709,7 @@ zu regeln.
 
 
 ### § 38b Unterrichtung von Anbietern digitaler Dienste
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008702130)
 
 (1) Erfolgt zu einem Erzeugnis, das im Inland in den Verkehr gebracht
 worden ist, eine Meldung
@@ -2697,6 +2747,7 @@ Stelle einrichten.
 
 
 ### § 39 Maßnahmen der für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004017116)
 
 (1) Die für die Überwachung von Lebensmitteln, Futtermitteln und
 Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1
@@ -2818,6 +2869,7 @@ kann, anwendbar.
 
 
 ### § 39a Maßnahmen der für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008801116)
 
 (1) Die für die Überwachung von Mitteln zum Tätowieren, kosmetischen
 Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1
@@ -2948,6 +3000,7 @@ aufgrund derer eine solche Anordnung getroffen werden kann, anwendbar.
 
 
 ### § 40 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004112116)
 
 (1) Die zuständige Behörde soll die Öffentlichkeit unter Nennung der
 Bezeichnung des Lebensmittels oder Futtermittels und des Lebensmittel-
@@ -3130,10 +3183,12 @@ Satz 1 gilt entsprechend, wenn
 
 
 ### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004208116)
 
 
 
 ### § 42 Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004314116)
 
 (1) Die Überwachung der Einhaltung dieses Gesetzes, der aufgrund
 dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar
@@ -3357,6 +3412,7 @@ soweit ihr Zwecke des Strafverfahrens entgegenstehen.
 
 
 ### § 43 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004408116)
 
 (1) Die mit der Überwachung beauftragten Personen und, bei Gefahr im
 Verzug, die Beamten der Polizei sind befugt, gegen
@@ -3397,6 +3453,7 @@ von Futtermitteln.
 
 
 ### § 43a Probenahme bei Erzeugnissen, die unter Verwendung von Fernkommunikationsmitteln angeboten werden
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008901116)
 
 (1) Im Fall von Erzeugnissen, die unter Verwendung von
 Fernkommunikationsmitteln im Sinne von § 312c Absatz 2 des
@@ -3438,6 +3495,7 @@ Futtermitteln.
 
 
 ### § 44 Duldungs-, Mitwirkungs- und Übermittlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004513116)
 
 (1) Die Inhaberinnen oder Inhaber der in § 42 Absatz 2 bezeichneten
 Grundstücke, Räume, Einrichtungen und Geräte und die von ihnen
@@ -3645,6 +3703,7 @@ genannten Zwecke verwendet werden.
 
 
 ### § 44a Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007706116)
 
 (1) Ein Lebensmittelunternehmer oder ein Futtermittelunternehmer ist
 verpflichtet, unter Angabe seines Namens und seiner Anschrift ihm
@@ -3731,6 +3790,7 @@ Zwecke erforderlich ist,
 
 
 ### § 45 Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004605116)
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich
 auf Sendungen von Lebensmitteln tierischer Herkunft aus anderen
@@ -3753,6 +3813,7 @@ bei Gericht eingereicht werden.
 
 
 ### § 46 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004712116)
 
 (1) Das Bundesministerium wird ermächtigt, zur Erfüllung der in § 1
 genannten Zwecke, insbesondere um eine einheitliche Durchführung der
@@ -3944,6 +4005,7 @@ bestimmt werden, dass
 
 
 ### § 47 Weitere Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004811116)
 
 (1) Das Bundesministerium wird ferner ermächtigt, um eine einheitliche
 Durchführung im Hinblick auf die Zulassung von neuartigen
@@ -4000,12 +4062,14 @@ Voraussetzungen und das Verfahren für die Übertragung und die
 
 
 ### § 48 Landesrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE004905116)
 
 Die Länder können zur Durchführung der Überwachung weitere
 Vorschriften erlassen.
 
 
 ### § 49 Erstellung eines Lagebildes, Verwendung bestimmter Daten
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005010116)
 
 (1) Das Bundesministerium kann
 
@@ -4126,6 +4190,7 @@ besteht.
 
 
 ### § 49a Zusammenarbeit von Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008102116)
 
 Bund und Länder wirken im Rahmen ihrer Zuständigkeiten und Befugnisse
 zur Gewährleistung der Sicherheit der Erzeugnisse zusammen. Nähere
@@ -4135,10 +4200,12 @@ werden.
 
 
 ## Abschnitt 8 - Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000805116)
 
 
 
 ### § 50 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005105116)
 
 Monitoring ist ein System wiederholter Beobachtungen, Messungen und
 Bewertungen von Gehalten an gesundheitlich nicht erwünschten Stoffen
@@ -4152,6 +4219,7 @@ Gesamtheit desselben Erzeugnisses durchgeführt werden.
 
 
 ### § 51 Durchführung des Monitorings
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005209116)
 
 (1) Die zuständigen Behörden der Länder ermitteln den Gehalt an
 Stoffen im Sinne des § 50 in und auf Erzeugnissen, soweit dies durch
@@ -4215,6 +4283,7 @@ Ergebnisse des Monitorings.
 
 
 ### § 52 Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005306116)
 
 Die zur Durchführung des Monitorings erforderlichen Vorschriften,
 insbesondere die Monitoringpläne, werden in Verwaltungsvorschriften
@@ -4225,10 +4294,12 @@ Vorschlag der Länder.
 
 
 ## Abschnitt 9 - Verbringen in das und aus dem Inland
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG000905116)
 
 
 
 ### § 53 Verbringungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005406116)
 
 (1) Erzeugnisse und mit Lebensmitteln verwechselbare Produkte, die
 nicht den im Inland geltenden Bestimmungen dieses Gesetzes, der
@@ -4255,6 +4326,7 @@ erlassen; § 56 Absatz 1 Satz 3 gilt entsprechend.
 
 
 ### § 54 Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005509116)
 
 (1) Abweichend von § 53 Absatz 1 Satz 1 dürfen Lebensmittel, Mittel
 zum Tätowieren, kosmetische Mittel oder Bedarfsgegenstände, die
@@ -4323,6 +4395,7 @@ der Endverbraucher erforderlich ist.
 
 
 ### § 55 Mitwirkung der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005609116)
 
 (1) Die Zollbehörden wirken, vorbehaltlich der Absätze 2 und 3, bei
 der Überwachung des Verbringens von Erzeugnissen aus einem Drittland
@@ -4383,6 +4456,7 @@ nukleare Sicherheit.
 
 
 ### § 56 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005714116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
@@ -4613,6 +4687,7 @@ genannten Zwecke erforderlich ist,
 
 
 ### § 57 Ausfuhr; sonstiges Verbringen aus dem Inland
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005811116)
 
 (1) Für die Ausfuhr und Wiederausfuhr von Mitteln zum Tätowieren,
 kosmetischen Mitteln, Bedarfsgegenständen und mit Lebensmitteln
@@ -4802,10 +4877,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates,
 
 
 ## Abschnitt 9a - Besondere Regelungen zum Schutz vor ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG001201116)
 
 
 
 ### § 57a Ermächtigungen zum Schutz der Gesundheit vor ionisierender Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008303116)
 
 (1) Das Bundesministerium wird ermächtigt, soweit es zur Erfüllung der
 in § 1 Absatz 4 Nummer 1, auch in Verbindung mit § 1 Absatz 4 Nummer
@@ -4842,6 +4919,7 @@ werden.
 
 
 ### § 57b Weitere Ermächtigungen in radiologischen Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008401116)
 
 (1) Nach Eintritt eines Notfalls nach § 5 Absatz 26 des
 Strahlenschutzgesetzes können Rechtsverordnungen, die nach den
@@ -4855,6 +4933,7 @@ Absatz 5.
 
 
 ### § 57c Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008501116)
 
 Die §§ 38 bis 49a gelten für die Überwachungsmaßnahmen nach den
 aufgrund des § 57a oder nach § 57b erlassenen Rechtsverordnungen und
@@ -4869,6 +4948,7 @@ entsprechend.
 
 
 ### § 57d Ausführung durch die Länder im Auftrag des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE008601116)
 
 Die aufgrund des § 57a oder nach § 57b erlassenen Rechtsverordnungen
 sowie die unmittelbar geltenden Rechtsakte der Europäischen
@@ -4885,10 +4965,12 @@ Bundeswehr.
 
 
 ## Abschnitt 10 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG001005116)
 
 
 
 ### § 58 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE005918116)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -5147,6 +5229,7 @@ Geldstrafe bestraft.
 
 
 ### § 59 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006019116)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -5610,6 +5693,7 @@ bestraft, wer
 
 
 ### § 60 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006114116)
 
 (1) Ordnungswidrig handelt, wer eine der in
 
@@ -5906,6 +5990,7 @@ geahndet werden.
 
 
 ### § 61 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006205116)
 
 Gegenstände, auf die sich eine Straftat nach § 58 oder § 59 oder eine
 Ordnungswidrigkeit nach § 60 bezieht, können eingezogen werden. § 74a
@@ -5914,6 +5999,7 @@ sind anzuwenden.
 
 
 ### § 62 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006310116)
 
 (1) Das Bundesministerium wird ermächtigt, soweit dies zur
 Durchsetzung der Rechtsakte der Europäischen Gemeinschaft, der
@@ -5950,14 +6036,17 @@ zu ahnden sind.
 
 
 ## Abschnitt 11 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNG001105116)
 
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006412116)
 
 
 
 ### § 64 Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006507116)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und
@@ -5983,6 +6072,7 @@ eine aufgrund dieses Gesetzes erlassene Rechtsverordnung bestimmt ist.
 
 
 ### § 65 Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006610116)
 
 Das Bundesministerium wird ermächtigt,
 
@@ -6039,6 +6129,7 @@ nukleare Sicherheit im Einvernehmen mit dem Bundesministerium.
 
 
 ### § 66 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006705116)
 
 (1) Über die Schlachttier- und Fleischuntersuchung und deren Ergebnis
 ist eine Statistik zu führen, die vom Statistischen Bundesamt zu
@@ -6058,6 +6149,7 @@ Zustimmung des Bundesrates zur Erlangung einer umfassenden Übersicht
 
 
 ### § 67 Ausnahmeermächtigungen für Krisenzeiten
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006808116)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
@@ -6087,6 +6179,7 @@ beendet ist.
 
 
 ### § 68 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE006911116)
 
 (1) Von den Vorschriften dieses Gesetzes und der aufgrund dieses
 Gesetzes erlassenen Rechtsverordnungen können im Einzelfall auf Antrag
@@ -6200,6 +6293,7 @@ erlassen.
 
 
 ### § 69 Zulassung weiterer Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007006116)
 
 Die nach Landesrecht zuständige Behörde kann im Einzelfall
 
@@ -6247,6 +6341,7 @@ zulassen.
 
 
 ### § 70 Rechtsverordnungen in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007110116)
 
 (1) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des
 Bundesrates bedürfen, können bei Gefahr im Verzuge oder wenn ihr
@@ -6366,6 +6461,7 @@ ganz oder teilweise auf andere Behörden zu übertragen.
 
 
 ### § 71 Beteiligung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007206116)
 
 Vor Erlass von Rechtsverordnungen nach diesem Gesetz ist die in
 Artikel 9 der Verordnung (EG) Nr. 178/2002 vorgesehene Beteiligung der
@@ -6374,6 +6470,7 @@ nach den §§ 46, 55 und 70 Absatz 1 bis 3 und 5 bis 9.
 
 
 ### § 72 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007307116)
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 anderen Vertragsstaaten des Abkommens über den Europäischen
@@ -6390,10 +6487,12 @@ Befugnisse nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 
 
 ### § 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007408116)
 
 
 
 ### § 74 Geltungsbereich bestimmter Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007504116)
 
 § 9 Absatz 1 Satz 1 Nummer 3, § 21 Absatz 3 Satz 1 Nummer 3, § 59
 Absatz 1 Nummer 6, soweit er auf § 9 Absatz 1 Satz 1 Nummer 3
@@ -6405,6 +6504,7 @@ Kapitels III der vorgenannten Verordnung nicht gelten.
 
 
 ### § 75 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lfgb/BJNR261810005.html#BJNR261810005BJNE007806116)
 
 (1) Hinsichtlich der Verfolgung von Straftaten sind auf Sachverhalte,
 die vor dem 4. August 2011 entstanden sind, § 10 Absatz 1 Satz 1,

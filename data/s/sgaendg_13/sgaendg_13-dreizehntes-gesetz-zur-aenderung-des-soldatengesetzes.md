@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis Art 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_13/BJNR005810980.html#BJNR005810980BJNE000100314)
 
 -
 
 
 ## Art 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_13/BJNR005810980.html#BJNR005810980BJNE000200314)
 
 (1) § 44 Abs. 2 in Verbindung mit § 45 Abs. 2 Nr. 3 des
 Soldatengesetzes in der Fassung des Artikels 1 ist auf Offiziere in
@@ -51,6 +53,7 @@ Ruhestand versetzt.
 
 
 ## Art 7 Schlußvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_13/BJNR005810980.html#BJNR005810980BJNE000300314)
 
 Dieses Gesetz tritt mit Ausnahme des Artikels 3 am ersten Tage des auf
 die Verkündung folgenden Kalendermonats in Kraft. Artikel 3 tritt mit

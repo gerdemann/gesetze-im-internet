@@ -39,6 +39,7 @@ L 164 S. 114, Nr. L 220 S. 40).
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000101124)
 
 Diese Verordnung gilt für die Untersuchung gefährlicher Ereignisse im
 Eisenbahnbetrieb auf den in § 5b Absatz 1 des Allgemeinen
@@ -46,6 +47,7 @@ Eisenbahngesetzes genannten Infrastrukturen.
 
 
 ## § 2 Untersuchungs- und Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000201124)
 
 (1) Zweck der Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb
 ist die Ermittlung der Ursachen mit dem Ziel, gefährliche Ereignisse
@@ -85,6 +87,7 @@ Untersuchung erforderlichen Informationen zur Verfügung zu stellen.
 
 
 ## § 3 Zusammenarbeit mit anderen Mitgliedstaaten und der Agentur sowie Unterrichtung der Länder
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000301124)
 
 (1) Wenn ein Eisenbahnverkehrsunternehmen mit Sitz in einem anderen
 Mitgliedstaat oder ein in einem anderen Mitgliedstaat registriertes
@@ -115,6 +118,7 @@ Genehmigungsbehörde des Landes unverzüglich hierüber unterrichtet.
 
 
 ## § 4 Maßnahmen an der Unfallstelle
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000401124)
 
 (1) Eisenbahninfrastrukturunternehmen sind verpflichtet, die
 Unfallstelle unverzüglich zu sichern und gegen den Zutritt Unbefugter
@@ -143,6 +147,7 @@ Untersuchungsbeauftragten nicht berührt oder verändert werden.
 
 
 ## § 5 Untersuchungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000501124)
 
 (1) Die Untersuchungsstelle unterrichtet die Öffentlichkeit regelmäßig
 über Untersuchungen schwerer Unfälle oder sonstiger gefährlicher
@@ -206,6 +211,7 @@ dargelegt werden.
 
 
 ## § 6 Sicherheitsempfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000601124)
 
 (1) Die Untersuchungsstelle kann jederzeit Sicherheitsempfehlungen
 aussprechen. Diese enthalten die Maßnahmen, die nach den bei der
@@ -229,6 +235,7 @@ Maßgabe, dass die Sicherheitsbehörde diesen unterrichtet.
 
 
 ## § 7 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000701124)
 
 (1) Die Untersuchungsstelle veröffentlicht jedes Jahr spätestens bis
 zum 30. September einen Bericht über die im Vorjahr durchgeführten
@@ -240,6 +247,7 @@ Exemplar des Jahresberichts.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE000801124)
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des
 Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -264,6 +272,7 @@ Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 2 Absatz 3)
 
 ## Anlage Inhalt der Meldung im Fall von gefährlichen Ereignissen im Eisenbahnbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/euv/BJNR131900007.html#BJNR131900007BJNE001000124)
 
 (Fundstelle: BGBl. I 2019, 1960)
 

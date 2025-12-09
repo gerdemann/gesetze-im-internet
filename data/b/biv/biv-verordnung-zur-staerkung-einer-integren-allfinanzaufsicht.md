@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000100000)
 
 Auf Grund des § 11a Absatz 1a Satz 1 bis 3, Absatz 4 Satz 2 und 3,
 Absatz 6 Satz 1 bis 4 und Absatz 7 des
@@ -28,6 +29,7 @@ worden sind, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000200000)
 
 (1) Beschäftigte im Sinne dieser Verordnung sind alle Beamtinnen und
 Beamten der Bundesanstalt für Finanzdienstleistungsaufsicht
@@ -43,6 +45,7 @@ für eigene oder fremde Rechnung oder für einen anderen durchführen
 
 
 ## § 2 Handelsverbote bei privaten Finanzgeschäften in Kryptowerten
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000300000)
 
 (1) Beschäftigten sind private Finanzgeschäfte in Kryptowerten, die
 von einer finanziellen Kapitalgesellschaft mit Sitz oder Niederlassung
@@ -116,6 +119,7 @@ ist verboten.
 
 
 ## § 3 Fristen bei gegenläufigem Handel
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000400000)
 
 (1) Kauf und anschließender Verkauf oder Verkauf und anschließender
 Kauf des gleichen Kryptowertes oder Finanzinstrumentes (gegenläufiger
@@ -159,6 +163,7 @@ vorheriger Zustimmung der Bundesanstalt erlaubt.
 
 
 ## § 4 Ausweitung, Beschränkung und Ausgestaltung der Handelsverbote nach § 11a Absatz 1 des Finanzdienstleistungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000500000)
 
 (1) In Ausweitung von § 11a Absatz 1 des
 Finanzdienstleistungsaufsichtsgesetzes ist den Beschäftigten der
@@ -251,6 +256,7 @@ sind verboten.
 
 
 ## § 5 Zustimmungsvorbehalt bei Beteiligungen und Ertragsrechten
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000600000)
 
 (1) Die folgenden Handlungen bedürfen der vorherigen Zustimmung der
 Bundesanstalt:
@@ -297,6 +303,7 @@ Umstände sind der Bundesanstalt unverzüglich anzuzeigen.
 
 
 ## § 6 Zustimmungsvorbehalt bei Beständen, die Handelsverboten unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000700000)
 
 Eine Veräußerung von Finanzinstrumenten und Kryptowerten, deren Handel
 den Beschäftigten verboten ist, ist ihnen nach vorheriger Zustimmung
@@ -308,6 +315,7 @@ betroffenen Beschäftigten angehören.
 
 
 ## § 7 Richtlinienbefugnis der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000800000)
 
 (1) Der Bundesanstalt wird die Befugnis eingeräumt, die Handelsverbote
 und Ausnahmen von Handelsverboten nach § 2 Absatz 1 und 2 sowie § 4
@@ -339,6 +347,7 @@ fortzuschreiben.
 
 
 ## § 8 Anzeigepflichten von privaten Finanzgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE000900000)
 
 (1) Beschäftigte sind verpflichtet, private Finanzgeschäfte in
 Kryptowerten im Anwendungsbereich der Verordnung (EU) 2023/1114
@@ -380,6 +389,7 @@ begründen könnten.
 
 
 ## § 9 Veräußerungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE001000000)
 
 (1) Die Bundesanstalt kann, soweit dies aufgrund der Art der Tätigkeit
 der Beschäftigten wegen eines tatsächlichen oder möglichen
@@ -413,6 +423,7 @@ der Veräußerungsverpflichtung.
 
 
 ## § 10 Genehmigungspflicht von Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE001100000)
 
 Abweichend von § 100 Absatz 1 Nummer 2 des Bundesbeamtengesetzes
 dürfen Beamtinnen und Beamte der Bundesanstalt schriftstellerische
@@ -424,6 +435,7 @@ Bundesanstalt betroffen sind.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/biv/BJNR0600A0025.html#BJNR0600A0025BJNE001200000)
 
 Diese Verordnung tritt am 1. April 2025 in Kraft.
 

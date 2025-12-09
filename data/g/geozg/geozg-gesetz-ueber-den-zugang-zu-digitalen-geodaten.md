@@ -25,9 +25,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000100000)
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000200000)
 
 Dieses Gesetz dient dem Aufbau einer nationalen Geodateninfrastruktur.
 Es schafft den rechtlichen Rahmen für
@@ -44,6 +46,7 @@ Es schafft den rechtlichen Rahmen für
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000300000)
 
 (1) Dieses Gesetz gilt für geodatenhaltende Stellen des Bundes und der
 bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
@@ -65,9 +68,11 @@ des Festlandsockels.
 
 
 ## Abschnitt 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000200000)
 
 
 ### § 3 Allgemeine Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000400000)
 
 (1) Geodaten sind alle Daten mit direktem oder indirektem Bezug zu
 einem bestimmten Standort oder geografischen Gebiet.
@@ -125,6 +130,7 @@ Umweltinformationsgesetzes vom 22. Dezember 2004 (BGBl. I S. 3704).
 
 
 ### § 4 Betroffene Geodaten und Geodatendienste
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000502116)
 
 (1) Dieses Gesetz gilt für Geodaten, die noch in Verwendung stehen und
 die folgenden Bedingungen erfüllen:
@@ -398,9 +404,11 @@ bleiben diese Rechte von den Vorschriften dieses Gesetzes unberührt.
 
 
 ## Abschnitt 3 - Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000300000)
 
 
 ### § 5 Bereitstellung von Geodaten
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000600000)
 
 (1) Die amtlichen Daten des Liegenschaftskatasters, der Geotopografie
 und des geodätischen Raumbezugs sind die fachneutralen Kernkomponenten
@@ -425,6 +433,7 @@ geografischen Gebiets ab.
 
 
 ### § 6 Bereitstellung der Geodatendienste und Netzdienste
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000701116)
 
 (1) Die geodatenhaltenden Stellen stellen sicher, dass für die von
 ihnen erhobenen, geführten oder bereitgestellten Geodaten und
@@ -485,6 +494,7 @@ werden durch Rechtsverordnung nach § 15 geregelt.
 
 
 ### § 7 Bereitstellung von Metadaten
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000801116)
 
 (1) Die geodatenhaltenden Stellen, welche Geodaten und Geodatendienste
 als Referenzversion im Sinne von § 4 Absatz 3 bereitstellen, haben die
@@ -542,6 +552,7 @@ Rechtsverordnung nach § 15 geregelt.
 
 
 ### § 8 Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE000901116)
 
 (1) Geodaten und Geodatendienste sowie Metadaten sind interoperabel
 bereitzustellen.
@@ -550,9 +561,11 @@ bereitzustellen.
 
 
 ## Abschnitt 4 - Elektronisches Netzwerk
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000400000)
 
 
 ### § 9 Geodateninfrastruktur und Geoportal
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001000000)
 
 (1) Metadaten, Geodaten, Geodatendienste und Netzdienste werden als
 Bestandteile der nationalen Geodateninfrastruktur über ein
@@ -563,6 +576,7 @@ der Ebene des Bundes durch ein Geoportal.
 
 
 ### § 10 Nationale Anlaufstelle
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001100000)
 
 (1) Die Organisation der nationalen Geodateninfrastruktur erfolgt in
 der Verantwortung eines nationalen Lenkungsgremiums des Bundes und der
@@ -577,9 +591,11 @@ Verwaltungsvereinbarung.
 
 
 ## Abschnitt 5 - Nutzung von Geodaten
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000500000)
 
 
 ### § 11 Allgemeine Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001202116)
 
 (1) Geodaten und Geodatendienste, einschließlich zugehöriger
 Metadaten, sind vorbehaltlich der Vorschrift des § 12 Absatz 1 und 2
@@ -600,6 +616,7 @@ nach § 15 geregelt.
 
 
 ### § 12 Schutz öffentlicher und sonstiger Belange
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001300000)
 
 (1) Der Zugang der Öffentlichkeit zu Geodaten und Geodatendiensten
 über Suchdienste im Sinne des § 6 Absatz 1 Nummer 1 kann beschränkt
@@ -650,9 +667,11 @@ gefährdet werden können.
 
 
 ## Abschnitt 5a - Überwachungs- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000700116)
 
 
 ### § 13 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001402116)
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die
 Kontrolle im Sinne des § 2 Absatz 2 des Umweltinformationsgesetzes für
@@ -686,6 +705,7 @@ Stellen anordnen:
 
 
 ### § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001700116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 13 Absatz 3 Satz 2 zuwiderhandelt.
@@ -695,9 +715,11 @@ Euro geahndet werden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNG000601116)
 
 
 ### § 15 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001502116)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf,
@@ -721,6 +743,7 @@ der Zustimmung des Bundesrates bedarf,
 
 
 ### § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html#BJNR027800009BJNE001601116)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

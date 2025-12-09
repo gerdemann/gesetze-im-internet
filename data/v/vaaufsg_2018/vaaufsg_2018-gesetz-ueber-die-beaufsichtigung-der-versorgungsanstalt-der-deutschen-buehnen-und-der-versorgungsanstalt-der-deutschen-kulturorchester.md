@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt G 7631-7 v. 17.12.1990 I 2864, 2866 (VAAufsG)
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vaaufsg_2018/BJNR322900017.html#BJNR322900017BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales führt die Rechts- und
 Versicherungsaufsicht über die Versorgungsanstalt der deutschen Bühnen
@@ -31,6 +32,7 @@ Behörden des Freistaates Bayern ausgeübt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vaaufsg_2018/BJNR322900017.html#BJNR322900017BJNE000201128)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die
 Anstalten folgende Vorschriften des bayerischen Rechts entsprechend:
@@ -56,6 +58,7 @@ tritt die Veröffentlichung im Bundesanzeiger.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vaaufsg_2018/BJNR322900017.html#BJNR322900017BJNE000300000)
 
 (1) Die Artikel 1, 3 Absatz 1 Satz 1 und 2 und Absatz 6 und die
 Artikel 7, 20, 22 Absatz 1 sowie die Artikel 24, 25 und 27 des
@@ -80,6 +83,7 @@ Ausnahmen zulassen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/vaaufsg_2018/BJNR322900017.html#BJNR322900017BJNE000400000)
 
 (1) Der Verwaltungsrat wird zu gleichen Teilen mit Vertretern der
 Arbeitgeber und der Versicherten einschließlich der Ruhegeldempfänger
@@ -105,6 +109,7 @@ beschließt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/vaaufsg_2018/BJNR322900017.html#BJNR322900017BJNE000501128)
 
 Die Rechnungslegung für vor dem 1. Januar 2021 endende Geschäftsjahre
 erfolgt nach der am 31. Dezember 2020 geltenden Fassung dieses

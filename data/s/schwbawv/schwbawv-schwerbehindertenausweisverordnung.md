@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Ausweis für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNG000103308)
 
 
 
 ### § 1 Gestaltung des Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE000508119)
 
 (1) Der Ausweis im Sinne des § 152 Absatz 5 des Neunten Buches
 Sozialgesetzbuch über die Eigenschaft als schwerbehinderter Mensch,
@@ -55,6 +57,7 @@ dieser Verordnung abgedruckten Muster 5 auszustellen.
 
 
 ### § 2 Zugehörigkeit zu Sondergruppen
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE000607126)
 
 (1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen,
 wenn der schwerbehinderte Mensch wegen eines Grades der
@@ -130,6 +133,7 @@ schwerbehinderte Mensch beantragt die Eintragung des Merkzeichens
 
 
 ### § 3 Weitere Merkzeichen
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE000710119)
 
 (1) Im Ausweis sind auf der Rückseite folgende Merkzeichen
 einzutragen:
@@ -292,6 +296,7 @@ nachgewiesen“ einzutragen.
 
 
 ### § 3a Beiblatt
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001907119)
 
 (1) Zum Ausweis für schwerbehinderte Menschen, die das Recht auf
 unentgeltliche Beförderung im öffentlichen Personenverkehr in Anspruch
@@ -334,6 +339,7 @@ Beiblatt nach Absatz 3 einzutragen.
 
 
 ### § 4 Sonstige Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE000805308)
 
 (1) Die Eintragung von Sondervermerken zum Nachweis von weiteren
 Voraussetzungen für die Inanspruchnahme von Rechten und
@@ -346,6 +352,7 @@ sind, ist unzulässig.
 
 
 ### § 5 Lichtbild
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE000904308)
 
 (1) Der Ausweis ist mit einem Bild des schwerbehinderten Menschen zu
 versehen, wenn dieser das
@@ -361,6 +368,7 @@ vorgesehenen Raum der Vermerk "Ohne Lichtbild gültig" einzutragen.
 
 
 ### § 6 Gültigkeitsdauer
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001009119)
 
 (1) Auf der Rückseite des Ausweises ist als Beginn der Gültigkeit des
 Ausweises einzutragen:
@@ -405,14 +413,17 @@ einzutragen.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001111126)
 
 
 
 ## Zweiter Abschnitt - Ausweis für sonstige Personen zur unentgeltlichen Beförderung im öffentlichen Personenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNG000202308)
 
 
 
 ### § 8 Ausweis für sonstige freifahrtberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001206308)
 
 (1) Der Ausweis für Personen im Sinne des Artikels 2 Abs. 1 des
 Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im
@@ -435,10 +446,12 @@ Personenverkehr nichts Besonderes ergibt.
 
 
 ## Dritter Abschnitt - Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNG000303308)
 
 
 
 ### § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001306308)
 
 Bis zum 31. Dezember 2014 ausgestellte Ausweise, die keine
 Identifikationskarten nach § 1 Absatz 5 sind, bleiben bis zum Ablauf
@@ -449,6 +462,7 @@ gültig.
 
 
 ### Muster 1
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001604308)
 
 (Fundstelle: BGBl I 1991, 1743;
 bzgl. der einzelnen Änderungen vgl. Fußnote) (Vorderseite) (nicht
@@ -469,6 +483,7 @@ Verwendung ist strafbar.
 
 
 ### Muster 2
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001707308)
 
 (Fundstelle: BGBl. I 2012, 1276)
 
@@ -477,12 +492,14 @@ Verwendung ist strafbar.
 ![bgbl1_2012_j1275-1_0020.jpg](bgbl1_2012_j1275-1_0020.jpg)
 
 ### Muster 3
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE002104308)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl I 1991, 1744)
 
 
 ### Muster 4
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE001806308)
 
 (Fundstelle: BGBl I 1991, 1745;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -522,6 +539,7 @@ Verwendung ist strafbar.
 
 
 ### Muster 5
+[Direktlink](https://www.gesetze-im-internet.de/schwbawv/BJNR004310981.html#BJNR004310981BJNE002300308)
 
 (Fundstelle: BGBl. I 2012, 1277)
 

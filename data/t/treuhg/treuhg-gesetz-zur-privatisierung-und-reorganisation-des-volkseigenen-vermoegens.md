@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000201307)
 
 Getragen von der Absicht,
 
@@ -39,6 +40,7 @@ wird folgendes Gesetz erlassen:
 
 
 ## § 1 Vermögensübertragung
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000300307)
 
 (1) Das volkseigene Vermögen ist zu privatisieren. Volkseigenes
 Vermögen kann auch in durch Gesetz bestimmten Fällen Gemeinden,
@@ -93,6 +95,7 @@ wird.
 
 
 ## § 2 Stellung und Aufgaben der Treuhandanstalt
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000408377)
 
 (1) Die Treuhandanstalt ist eine rechtsfähige bundesunmittelbare
 Anstalt des öffentlichen Rechts. Sie dient der Privatisierung und
@@ -139,6 +142,7 @@ einer Verwaltungsvereinbarung geregelt ist.
 
 
 ## § 2a Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002806377)
 
 (1) Der oder die Abwickler der Anstalt stellen vor Beginn eines jeden
 Kalenderjahres einen Wirtschaftsplan auf. Soweit die Treuhandanstalt
@@ -159,6 +163,7 @@ im Rahmen des im Wirtschaftsplan festgelegten Gesamtbetrages
 
 
 ## § 3 Abwickler der Anstalt
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000503377)
 
 Das verbliebene Vermögen der Anstalt wird durch das Bundesministerium
 der Finanzen oder einen oder mehrere vom Bundesministerium der
@@ -167,21 +172,25 @@ Abwickler vertreten die Anstalt im Rechtsverkehr.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000602377)
 
 (weggefallen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000701307)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000801307)
 
 -
 
 
 ## § 7 Treuhand-Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000901301)
 
 (1) Die Treuhandanstalt kann ihre Aufgaben in dezentraler
 Organisationsstruktur über Treuhand-Aktiengesellschaften
@@ -199,6 +208,7 @@ Aktiengesellschaften die von ihnen zu haltenden Beteiligungen zu.
 
 
 ## § 8 Aufgaben der Treuhand-Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001000307)
 
 (1) Die Treuhand-Aktiengesellschaften haben unter Hinzuziehung von
 Unternehmensberatungs- und Verkaufsgesellschaften sowie Banken und
@@ -224,6 +234,7 @@ den Fortgang der Privatisierung zu berichten.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001100307)
 
 (1) Zur Sicherung der Effizienz und Wettbewerbsfähigkeit haben die
 Treuhand-Aktiengesellschaften in den Unternehmen ihres Bereiches
@@ -245,6 +256,7 @@ Kredite aufnehmen oder Bürgschaften gewähren.
 
 
 ## § 10 Organe der Treuhand-Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001200307)
 
 (1) Die Aufsichtsratsmitglieder, die die Treuhandanstalt in der
 Treuhand-Aktiengesellschaft vertreten, werden vom Vorstand der
@@ -268,10 +280,12 @@ Sanierung und der Veräußerung von Geschäftsanteilen verfügen.
 
 
 ## - - Umwandlung der Wirtschaftseinheiten in Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNG000100307)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001300307)
 
 (1) Die in § 1 Abs. 4 bezeichneten Wirtschaftseinheiten, die bis zum
 1\. Juli 1990 noch nicht in Kapitalgesellschaften umgewandelt sind,
@@ -319,6 +333,7 @@ und Bodens in das Eigentum der Kapitalgesellschaft.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001402307)
 
 (1) Die aus den Kombinaten entstandenen Aktiengesellschaften werden
 Inhaber der Geschäftsanteile der Gesellschaften mit beschränkter
@@ -331,6 +346,7 @@ Gesellschaft mit beschränkter Haftung dies verlangt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001500307)
 
 Die Umwandlung einer Wirtschaftseinheit in eine Kapitalgesellschaft
 ist von Amts wegen unter Bezugnahme auf dieses Gesetz in das Register
@@ -338,6 +354,7 @@ einzutragen, in dem diese Wirtschaftseinheit bisher eingetragen war.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001600307)
 
 Die Firma der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaft muß
 die Bezeichnung "Aktiengesellschaft im Aufbau" oder "Gesellschaft mit
@@ -345,6 +362,7 @@ beschränkter Haftung im Aufbau" enthalten.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001700307)
 
 (1) Die Kapitalgesellschaft ist von Amts wegen unter Bezugnahme auf
 dieses Gesetz in das Handelsregister einzutragen.
@@ -384,6 +402,7 @@ Grundkapital einer Aktiengesellschaft 100.000 Deutsche Mark.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001800307)
 
 (1) Bis zum 31. Juli 1990 werden von der Treuhandanstalt Personen als
 vorläufige Mitglieder des Vorstandes oder vorläufige Geschäftsführer
@@ -401,6 +420,7 @@ diese Personen aufgrund anderer Rechtsvorschriften bleiben unberührt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE001900307)
 
 (1) Bis zur endgültigen Feststellung der Satzung einer gemäß § 11 Abs.
 2 entstandenen Aktiengesellschaft lauten deren Aktien auf den Inhaber.
@@ -412,12 +432,14 @@ beträgt die Stammeinlage eintausend Deutsche Mark.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002000307)
 
 Geschäftsjahr der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaften
 ist das Kalenderjahr.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002100307)
 
 Unverzüglich nach der Eintragung der Aktiengesellschaft im Aufbau oder
 der Gesellschaft mit beschränkter Haftung im Aufbau in das
@@ -428,6 +450,7 @@ Gründung einzuleiten.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002200307)
 
 (1) Die Kapitalgesellschaften haben der Treuhandanstalt bis zum 31.
 Oktober 1990 zu übergeben:
@@ -472,6 +495,7 @@ Eröffnungsbilanz zu erstellen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002300307)
 
 (1) Das vorläufige Leitungsorgan hat die Durchführung der Maßnahmen
 nach § 19 bei dem Handelsregister anzumelden. Der Anmeldung sind
@@ -500,6 +524,7 @@ Kapitalgesellschaften vor, so löscht das Registergericht den Zusatz
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002400307)
 
 Kapitalgesellschaften, die nach § 11 Abs. 2 entstanden sind, sind mit
 Ablauf des 30. Juni 1991 aufgelöst, wenn die nach den §§ 19 und 21
@@ -508,6 +533,7 @@ sind.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002501301)
 
 § 11 Abs. 2 sowie § 15 Abs. 3 gelten auch für Umwandlungen, die auf
 Grund der Verordnung vom 1. März 1990 zur Umwandlung von volkseigenen
@@ -518,6 +544,7 @@ Sinne dieser Verordnung entstanden sind.
 
 
 ### § 23a Übertragung von Vermögenswerten, Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002901377)
 
 (1) Die Anstalt kann ihr Vermögen im Wege der Gesamt- oder
 Teilrechtsnachfolge jeweils als Gesamtheit unter genauer Bezeichnung
@@ -541,11 +568,13 @@ Auflösung ist im Bundesanzeiger bekannt zu machen.
 
 
 ### § 23c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE003101377)
 
 -
 
 
 ### § 24 Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002601307)
 
 (1) Vorschriften dieses Gesetzes berühren nicht etwaige Ansprüche auf
 Restitution oder Entschädigung wegen unrechtmäßiger Enteignung oder
@@ -564,6 +593,7 @@ erforderlich ist.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE002700307)
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen
 Republik am siebzehnten Juni neunzehnhundertneunzig beschlossene
@@ -571,6 +601,7 @@ Gesetz wird hiermit verkündet.
 
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/treuhg/DDNR003000990.html#DDNR003000990BJNE000000301)
 
 Gemäß Artikel 25 des Einigungsvertrages vom 31.8.1990 iVm Art. 1 des
 Gesetzes vom 23.9.1990 II 885, 889 gilt das Gesetz zur Privatisierung

@@ -38,10 +38,12 @@ Rates (ABl. EU Nr. L 114 S. 64).
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000100000)
 
 
 
 ### § 1 Zweck und Ziele des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000205377)
 
 (1) Zweck des Gesetzes ist eine möglichst sichere, preisgünstige,
 verbraucherfreundliche, effiziente, umweltverträgliche und
@@ -108,6 +110,7 @@ dieses Gesetz insbesondere die Ziele,
 
 
 ### § 1a Grundsätze des Strommarktes
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022001118)
 
 (1) Der Preis für Elektrizität bildet sich nach wettbewerblichen
 Grundsätzen frei am Markt. Die Höhe der Preise für Elektrizität am
@@ -151,6 +154,7 @@ werden.
 
 
 ### § 2 Aufgaben der Energieversorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000301377)
 
 (1) Energieversorgungsunternehmen sind im Rahmen der Vorschriften
 dieses Gesetzes zu einer Versorgung im Sinne des § 1 verpflichtet.
@@ -161,6 +165,7 @@ in Verbindung mit § 14, unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000427377)
 
 Im Sinne dieses Gesetzes bedeutet
 
@@ -1099,6 +1104,7 @@ Im Sinne dieses Gesetzes bedeutet
 
 
 ### § 3a Verhältnis zum Eisenbahnrecht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000500000)
 
 Dieses Gesetz gilt auch für die Versorgung von Eisenbahnen mit
 leitungsgebundener Energie, insbesondere Fahrstrom, soweit im
@@ -1106,6 +1112,7 @@ Eisenbahnrecht nichts anderes geregelt ist.
 
 
 ### § 4 Genehmigung des Netzbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000602140)
 
 (1) Die Aufnahme des Betriebs eines Energieversorgungsnetzes bedarf
 der Genehmigung durch die nach Landesrecht zuständige Behörde. Über
@@ -1137,6 +1144,7 @@ abgewickelt werden.
 
 
 ### § 4a Zertifizierung und Benennung des Betreibers eines Transportnetzes
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014301377)
 
 (1) Der Betrieb eines Transportnetzes bedarf der Zertifizierung durch
 die Regulierungsbehörde. Das Zertifizierungsverfahren wird auf Antrag
@@ -1199,6 +1207,7 @@ Verordnung (EG) Nr. 715/2009 bleiben unberührt.
 
 
 ### § 4b Zertifizierung in Bezug auf Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014402377)
 
 (1) Beantragt ein Transportnetzbetreiber oder ein
 Transportnetzeigentümer, der von einer oder mehreren Personen aus
@@ -1290,6 +1299,7 @@ Entscheidung mitzuteilen und zu veröffentlichen.
 
 
 ### § 4c Pflichten der Transportnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014502118)
 
 Die Transportnetzbetreiber haben die Regulierungsbehörde unverzüglich
 über alle geplanten Transaktionen und Maßnahmen sowie sonstige
@@ -1307,6 +1317,7 @@ nach § 4b Absatz 1 widerrufen.
 
 
 ### § 4d Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014600310)
 
 Die Regulierungsbehörde kann eine Zertifizierung nach § 4a oder § 4b
 widerrufen oder erweitern oder eine Zertifizierung nachträglich mit
@@ -1322,6 +1333,7 @@ Transportnetzbetreiber die Anforderungen der §§ 8 bis 10e erfüllt. §
 
 
 ### § 4e Zertifizierung des Betreibers einer Gasspeicheranlage
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033000377)
 
 (1) Das Verfahren zur Zertifizierung des Betreibers einer
 Gasspeicheranlage nach Artikel 3a der Verordnung (EG) Nr. 715/2009 des
@@ -1368,6 +1380,7 @@ veröffentlicht.
 
 
 ### § 5 Anzeige der Energiebelieferung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000702126)
 
 (1) Energielieferanten, die Haushaltskunden mit Energie beliefern,
 müssen nach Maßgabe des Absatzes 2 Satz 1 und 2 die Aufnahme und
@@ -1432,6 +1445,7 @@ Herkunftsmitgliedstaates ordnungsgemäß zugelassen worden ist.
 
 
 ### § 5a Speicherungspflichten, Veröffentlichung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014702377)
 
 (1) Energieversorgungsunternehmen, die Energie an Kunden verkaufen,
 haben die hierfür erforderlichen Daten über sämtliche mit
@@ -1482,6 +1496,7 @@ der Veröffentlichung das Einvernehmen mit dem Bundeskartellamt her.
 
 
 ### § 5b Anzeige von Verdachtsfällen, Verschwiegenheitspflichten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018901360)
 
 (1) Personen, die beruflich Transaktionen mit
 Energiegroßhandelsprodukten arrangieren, dürfen ausschließlich
@@ -1508,6 +1523,7 @@ Ermittlungsverfahren in Kenntnis setzen.
 
 
 ### § 5c IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034400123)
 
 (1) Die folgenden Betreiber haben für die genannten Systeme einen
 angemessenen Schutz gegen Bedrohungen zu gewährleisten:
@@ -1699,6 +1715,7 @@ Gesetzes für Energieversorgungsnetze und Energieanlagen aufzuheben.
 
 
 ### § 5d Dokumentations-, Melde-, Registrierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034500123)
 
 (1) Der Betreiber nach § 5c Absatz 1 Satz 1 Nummer 1 bis 3 hat die
 Einhaltung der Anforderungen des IT-Sicherheitskatalogs zu
@@ -1864,6 +1881,7 @@ Verwaltungsverfahrensgesetzes bleibt unberührt.
 
 
 ### § 5e Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034600123)
 
 (1) Die Geschäftsleitung eines Betreibers nach § 5c Absatz 1 Satz 1
 Nummer 1 bis 3 ist verpflichtet, die Anforderungen des IT-
@@ -1887,14 +1905,17 @@ der Einrichtung erbrachten Dienste beurteilen zu können.
 
 
 ## Teil 2 - Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000201310)
 
 
 
 ### Abschnitt 1 - Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002400310)
 
 
 
 #### § 6 Anwendungsbereich und Ziel der Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000805377)
 
 Vertikal integrierte Unternehmen und rechtlich selbstständige
 Betreiber von Elektrizitäts- und Gasversorgungsnetzen, die im Sinne
@@ -1950,6 +1971,7 @@ eine rechtliche Entflechtung auf freiwilliger Grundlage vornehmen.
 
 
 #### § 6a Verwendung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014802126)
 
 (1) Unbeschadet gesetzlicher Verpflichtungen zur Offenbarung von
 Informationen haben vertikal integrierte Unternehmen,
@@ -1971,6 +1993,7 @@ Unternehmens vertraulich behandelt werden.
 
 
 #### § 6b Rechnungslegung und Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014906126)
 
 (1) Vertikal integrierte Unternehmen im Sinne des § 3 Nummer 38,
 einschließlich rechtlich selbständiger Unternehmen, die zu einer
@@ -2103,6 +2126,7 @@ Die Befugnisse der Regulierungsbehörde insbesondere nach § 110 Absatz
 
 
 #### § 6c Ordnungsgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015004377)
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
 Handelsgesetzbuchs sind auf die Verletzung der Pflichten zur
@@ -2138,6 +2162,7 @@ Absatz 1 Satz 1.
 
 
 #### § 6d Betrieb eines Kombinationsnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015100310)
 
 Der gemeinsame Betrieb eines Transport- sowie eines Verteilernetzes
 durch denselben Netzbetreiber ist zulässig, soweit dieser
@@ -2146,10 +2171,12 @@ einhält.
 
 
 ### Abschnitt 2 - Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002501377)
 
 
 
 #### § 7 Rechtliche Entflechtung von Verteilernetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE000903126)
 
 (1) Vertikal integrierte Unternehmen haben sicherzustellen, dass
 Verteilernetzbetreiber, die mit ihnen im Sinne von § 3 Nummer 38
@@ -2168,6 +2195,7 @@ Satz 1 gilt für Gasverteilernetze entsprechend.
 
 
 #### § 7a Operationelle Entflechtung von Verteilernetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015201126)
 
 (1) Unternehmen nach § 6 Absatz 1 Satz 1 haben die Unabhängigkeit
 ihrer im Sinne von § 3 Nummer 38 verbundenen Verteilernetzbetreiber
@@ -2263,6 +2291,7 @@ ausgenommen. Satz 1 gilt entsprechend für Gasverteilernetze.
 
 
 #### § 7b Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015302126)
 
 Auf Transportnetzeigentümer, soweit ein Unabhängiger Systembetreiber
 im Sinne des § 9 benannt wurde, und auf Betreiber von
@@ -2274,6 +2303,7 @@ anwendbar.
 
 
 #### § 7c Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025000377)
 
 (1) Betreiber von Elektrizitätsverteilernetzen dürfen weder Eigentümer
 von Ladepunkten für Elektromobile sein noch diese Ladepunkte
@@ -2328,10 +2358,12 @@ durch Rechtsverordnung Regelungen getroffen werden,
 
 
 ### Abschnitt 3 - Besondere Entflechtungsvorgaben für Transportnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002600310)
 
 
 
 #### § 8 Eigentumsrechtliche Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001004126)
 
 (1) Vertikal integrierte Unternehmen haben sich nach Maßgabe der
 folgenden Absätze zu entflechten, soweit sie nicht von einer der in §
@@ -2402,6 +2434,7 @@ Transportnetzbetreiber zu diesen Unternehmen stattfinden.
 
 
 #### § 9 Unabhängiger Systembetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001106377)
 
 (1) Ein Unabhängiger Systembetreiber kann nach Maßgabe dieser
 Vorschrift benannt werden
@@ -2495,6 +2528,7 @@ dem jeweiligen vertikal integrierten Unternehmen jeweils zu erfüllen.
 
 
 #### § 10 Unabhängiger Transportnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001203126)
 
 (1) Vertikal integrierte Unternehmen können einen Unabhängigen
 Transportnetzbetreiber nach Maßgabe dieser Bestimmung sowie der §§ 10a
@@ -2564,6 +2598,7 @@ zu organisieren.
 
 
 #### § 10a Vermögenswerte, Anlagen, Personalausstattung, Unternehmensidentität des Unabhängigen Transportnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015401126)
 
 (1) Unabhängige Transportnetzbetreiber müssen über die finanziellen,
 technischen, materiellen und personellen Mittel verfügen, die zur
@@ -2667,6 +2702,7 @@ mitzuteilen.
 
 
 #### § 10b Rechte und Pflichten im vertikal integrierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015503377)
 
 (1) Vertikal integrierte Unternehmen müssen gewährleisten, dass
 Unabhängige Transportnetzbetreiber wirksame Entscheidungsbefugnisse in
@@ -2730,6 +2766,7 @@ und tatsächlich keinen Einfluss ausgeübt haben, ist ausgeschlossen.
 
 
 #### § 10c Unabhängigkeit des Personals und der Unternehmensleitung des Unabhängigen Transportnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015603126)
 
 (1) Der Unabhängige Transportnetzbetreiber hat der Regulierungsbehörde
 die Namen der Personen, die vom Aufsichtsrat als oberste
@@ -2810,6 +2847,7 @@ Wartung oder Entwicklung des Netzes verantwortlich sind, entsprechend.
 
 
 #### § 10d Aufsichtsrat des Unabhängigen Transportnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015701377)
 
 (1) Der Unabhängige Transportnetzbetreiber hat über einen Aufsichtsrat
 nach Abschnitt 2 des Teils 4 des Aktiengesetzes zu verfügen.
@@ -2838,6 +2876,7 @@ Transportnetzbetreibers entsprechend.
 
 
 #### § 10e Gleichbehandlungsprogramm und Gleichbehandlungsbeauftragter des Unabhängigen Transportnetzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015802126)
 
 (1) Unabhängige Transportnetzbetreiber haben ein Programm mit
 verbindlichen Maßnahmen zur diskriminierungsfreien Ausübung des
@@ -2955,14 +2994,17 @@ Verlangen der Regulierungsbehörde zu erfolgen.
 
 
 ## Teil 3 - Regulierung des Netzbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000300000)
 
 
 
 ### Abschnitt 1 - Aufgaben der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000400000)
 
 
 
 #### § 11 Betrieb von Energieversorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001319123)
 
 (1) Betreiber von Energieversorgungsnetzen sind verpflichtet, ein
 sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz
@@ -3064,6 +3106,7 @@ Sicherheitsleistungen oder anderer Sicherungsmittel zu verzichten.
 
 
 #### § 11a Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025100377)
 
 (1) Der Betreiber eines Elektrizitätsversorgungsnetzes kann die
 Errichtung, die Verwaltung und den Betrieb einer im Eigentum eines
@@ -3098,6 +3141,7 @@ zu machen.
 
 
 #### § 11b Ausnahme für Energiespeicheranlagen, Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025202377)
 
 (1) Der Betreiber eines Elektrizitätsversorgungsnetzes darf abweichend
 von Teil 2 Abschnitt 2 und 3 Eigentümer sein von
@@ -3226,6 +3270,7 @@ nach Absatz 1 Nummer 2 zweiter Halbsatz zu treffen.
 
 
 #### § 11c Überragendes öffentliches Interesse für Anlagen zur Speicherung elektrischer Energie
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031501377)
 
 Die Errichtung und der Betrieb von Anlagen zur Speicherung
 elektrischer Energie liegen im überragenden öffentlichen Interesse und
@@ -3233,6 +3278,7 @@ dienen der öffentlichen Gesundheit und Sicherheit.
 
 
 #### § 12 Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001410311)
 
 (1) Betreiber von Übertragungsnetzen haben die Energieübertragung
 durch das Netz unter Berücksichtigung des Austauschs mit anderen
@@ -3602,6 +3648,7 @@ das Marktstammdatenregister den Zugriff auf Daten im Sinne der Absätze
 
 
 #### § 12a Szenariorahmen für die Netzentwicklungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE015907377)
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 erarbeiten alle zwei Jahre einen gemeinsamen Szenariorahmen, der
@@ -3652,6 +3699,7 @@ Genehmigung ist nicht selbstständig durch Dritte anfechtbar.
 
 
 #### § 12b Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016008311)
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 legen der Regulierungsbehörde auf der Grundlage des Szenariorahmens
@@ -3782,6 +3830,7 @@ Szenariorahmens gemäß § 12a Absatz 3 Satz 1, vor.
 
 
 #### § 12c Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016110377)
 
 (1) Die Regulierungsbehörde prüft die Übereinstimmung des
 Netzentwicklungsplans mit den Anforderungen gemäß § 12b Absatz 1, 2
@@ -3954,6 +4003,7 @@ umweltschonende Durchführung der Maßnahmen sicherzustellen.
 
 
 #### § 12d Monitoring und Controlling der Umsetzung des Netzentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016203377)
 
 Über die Planung und den Stand der Umsetzung der Maßnahmen zur
 Optimierung, zur Verstärkung und zum Ausbau des Übertragungsnetzes
@@ -3970,6 +4020,7 @@ geeigneter Form zur Verfügung.
 
 
 #### § 12e Bundesbedarfsplan
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016308377)
 
 (1) Die Regulierungsbehörde übermittelt den Netzentwicklungsplan
 mindestens alle vier Jahre der Bundesregierung als Entwurf für einen
@@ -4002,6 +4053,7 @@ findet § 12c Absatz 2 keine Anwendung.
 
 
 #### § 12f Herausgabe von Daten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016401116)
 
 (1) Die Regulierungsbehörde stellt dem Bundesministerium für
 Wirtschaft und Energie sowie dem Umweltbundesamt Daten, die für
@@ -4028,6 +4080,7 @@ Datensätze an den Antragsteller herauszugeben.
 
 
 #### § 12g Schutz europäisch kritischer Anlagen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016500310)
 
 (1) Zum Schutz des Übertragungsnetzes bestimmt die Regulierungsbehörde
 alle zwei Jahre diejenigen Anlagen oder Teile von Anlagen des
@@ -4060,6 +4113,7 @@ Sicherheitsüberprüfungsgesetzes einzustufen.
 
 
 #### § 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024902377)
 
 (1) Betreiber von Übertragungsnetzen mit Regelzonenverantwortung und
 Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, für ihr
@@ -4177,6 +4231,7 @@ wird. § 13c Absatz 5 ist entsprechend anzuwenden.
 
 
 #### § 12i Systemstabilitätsbericht, Monitoring der Systemstabilität
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033100377)
 
 (1) Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 berichten der Regulierungsbehörde erstmals zum 1. Januar 2025 und
@@ -4227,6 +4282,7 @@ Bericht nach Absatz 1.
 
 
 #### § 13 Systemverantwortung der Betreiber von Übertragungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001519377)
 
 (1) Sofern die Sicherheit oder Zuverlässigkeit des
 Elektrizitätsversorgungssystems in der jeweiligen Regelzone gefährdet
@@ -4458,6 +4514,7 @@ Prognose nach Satz 1.
 
 
 #### § 13a Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019507377)
 
 (1) Betreiber von Anlagen zur Erzeugung oder Speicherung von
 elektrischer Energie mit einer Nennleistung ab 100 Kilowatt sowie von
@@ -4571,6 +4628,7 @@ nach Abzug entstandener Erlöse ersetzen, soweit kein Anspruch nach §
 
 
 #### § 13b Stilllegungen von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019605377)
 
 (1) Betreiber von Anlagen zur Erzeugung oder Speicherung elektrischer
 Energie mit einer Nennleistung ab 10 Megawatt sind verpflichtet,
@@ -4705,6 +4763,7 @@ unberührt.
 
 
 #### § 13c Vergütung bei geplanten Stilllegungen von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019703377)
 
 (1) Fordert der Betreiber eines Übertragungsnetzes den Betreiber einer
 Anlage, die andernfalls auf Grund einer vorläufigen Stilllegung im
@@ -4851,6 +4910,7 @@ nach § 13g.
 
 
 #### § 13d Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022100311)
 
 (1) Die Betreiber von Übertragungsnetzen halten nach § 13b Absatz 4
 und 5 sowie nach Maßgabe der Netzreserveverordnung Anlagen zum Zweck
@@ -4897,6 +4957,7 @@ werden.
 
 
 #### § 13e Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022203377)
 
 (1) Die Betreiber von Übertragungsnetzen halten Reserveleistung vor,
 um im Fall einer Gefährdung oder Störung der Sicherheit oder
@@ -5004,6 +5065,7 @@ Beschaffungsverfahren nach Absatz 2 durchführen.
 
 
 #### § 13f Systemrelevante Gaskraftwerke
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022301377)
 
 (1) Betreiber von Übertragungsnetzen können eine Anlage zur Erzeugung
 von elektrischer Energie aus Gas mit einer Nennleistung ab 50 Megawatt
@@ -5065,6 +5127,7 @@ abweichen oder ergänzende Regelungen treffen.
 
 
 #### § 13g Stilllegung von Braunkohlekraftwerken
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022406377)
 
 (1) Als Beitrag zur Erreichung der nationalen und europäischen
 Klimaschutzziele müssen die folgenden Erzeugungsanlagen bis zu dem
@@ -5267,6 +5330,7 @@ Kohlendioxideinsparung in der Braunkohlewirtschaft erlassen.
 
 
 #### § 13h Verordnungsermächtigung zur Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022503377)
 
 (1) Zur näheren Bestimmung der Kapazitätsreserve nach § 13e wird das
 Bundesministerium für Wirtschaft und Energie ermächtigt, durch
@@ -5519,6 +5583,7 @@ Nummer 1 bis 20 Festlegungen nach § 29 Absatz 1 zu treffen.
 
 
 #### § 13i Weitere Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022607377)
 
 (1) (weggefallen)
 
@@ -5601,6 +5666,7 @@ nicht mehr als 1,5 Millionen Tonnen Kohlendioxid zusätzlich im Jahr
 
 
 #### § 13j Festlegungskompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022707377)
 
 (1) Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1
 Festlegungen zu treffen zur näheren Bestimmung des Adressatenkreises
@@ -5820,6 +5886,7 @@ Hochspannungsnetz auftreten.
 
 
 #### § 13k Nutzen statt Abregeln
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022802377)
 
 (1) Um eine Reduzierung der Wirkleistungserzeugung von Anlagen nach §
 3 Nummer 1 des Erneuerbare-Energien-Gesetzes wegen strombedingter
@@ -6021,6 +6088,7 @@ Anwendungen der Maßnahme vor.
 
 
 #### § 13l Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034000311)
 
 (1) Der Betreiber eines Übertragungsnetzes mit Regelzonenverantwortung
 kann vom Betreiber einer in seiner Regelzone angeschlossenen
@@ -6179,6 +6247,7 @@ Kohleverstromungsbeendigungsgesetz genannten Braunkohleanlagen.
 
 
 #### § 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001610377)
 
 (1) Die §§ 12, 13 bis 13c und die auf Grundlage des § 13i Absatz 3
 erlassenen Rechtsverordnungen gelten für Betreiber von
@@ -6241,6 +6310,7 @@ zur Verfügung zu stellen.
 
 
 #### § 14a Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016603377)
 
 (1) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1
 bundeseinheitliche Regelungen treffen, nach denen Betreiber von
@@ -6350,6 +6420,7 @@ geschlossen worden sind.
 
 
 #### § 14b Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019801377)
 
 Soweit und solange es der Vermeidung von Engpässen im vorgelagerten
 Netz dient, können Betreiber von Gasverteilernetzen an
@@ -6384,6 +6455,7 @@ treffen
 
 
 #### § 14c Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025301126)
 
 (1) Betreiber von Elektrizitätsverteilernetzen, die
 Flexibilitätsdienstleistungen für ihr Netz beschaffen, um die
@@ -6415,6 +6487,7 @@ Marktverzerrungen oder zu stärkeren Engpässen führen würde.
 
 
 #### § 14d Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025405377)
 
 (1) Betreiber von Elektrizitätsverteilernetzen haben der
 Regulierungsbehörde alle zwei Jahre jeweils zum 31. Oktober eines
@@ -6590,6 +6663,7 @@ liegen im überragenden öffentlichen Interesse und dienen der
 
 
 #### § 14e Gemeinsame Internetplattform; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025502377)
 
 (1) Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, ab
 dem 1. Januar 2023 zu den in den folgenden Absätzen genannten Zwecken
@@ -6643,6 +6717,7 @@ nähere Bestimmungen zu den Absätzen 1 bis 5 treffen.
 
 
 #### § 15 Aufgaben der Betreiber von Fernleitungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001701140)
 
 (1) Betreiber von Fernleitungsnetzen haben den Gastransport durch ihr
 Netz unter Berücksichtigung der Verbindungen mit anderen Netzen zu
@@ -6676,6 +6751,7 @@ zur Versorgungssicherheit beizutragen.
 
 
 #### § 15a Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016706377)
 
 (1) Alle zwei Jahre, erstmals im Jahr 2025, haben die Betreiber von
 Fernleitungsnetzen und die regulierten Betreiber von
@@ -6776,6 +6852,7 @@ Absätzen 2 und 4 Satz 1 obliegenden Aufgaben erforderlich sind.
 
 
 #### § 15b Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE021501377)
 
 (1) Die Betreiber von Fernleitungsnetzen und die regulierten Betreiber
 von Wasserstofftransportnetzen sind verpflichtet, gemeinsam alle zwei
@@ -6831,6 +6908,7 @@ nicht selbstständig durch Dritte anfechtbar.
 
 
 #### § 15c Erstellung des Netzentwicklungsplans Gas und Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033400377)
 
 (1) Die Betreiber von Fernleitungsnetzen und die regulierten Betreiber
 von Wasserstofftransportnetzen sind verpflichtet, auf der Grundlage
@@ -6936,6 +7014,7 @@ Regulierungsbehörde zur Bestätigung vor.
 
 
 #### § 15d Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033500377)
 
 (1) Die Regulierungsbehörde prüft die Übereinstimmung des vorgelegten
 Netzentwicklungsplans Gas und Wasserstoff mit den Anforderungen nach §
@@ -7004,6 +7083,7 @@ bleibt § 28q Absatz 8 Satz 5 unberührt.
 
 
 #### § 15e Herausgabe von Daten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033600377)
 
 (1) Die Regulierungsbehörde stellt den Bundesministerien sowie dem
 Umweltbundesamt Daten für digitale Netzberechnungen zur Verfügung,
@@ -7046,6 +7126,7 @@ für Sicherheit in der Informationstechnik voraus.
 
 
 #### § 16 Systemverantwortung der Betreiber von Fernleitungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001808126)
 
 (1) Sofern die Sicherheit oder Zuverlässigkeit des
 Gasversorgungssystems in dem jeweiligen Netz gefährdet oder gestört
@@ -7124,6 +7205,7 @@ Fernleitungsnetzen unverzüglich die Regulierungsbehörde unterrichten.
 
 
 #### § 16a Aufgaben der Betreiber von Gasverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE001901377)
 
 Die §§ 15 und 16 Absatz 1 bis 4a gelten für Betreiber von
 Gasverteilernetzen im Rahmen ihrer Verteilungsaufgaben entsprechend,
@@ -7132,10 +7214,12 @@ ihrem Netz verantwortlich sind.
 
 
 ### Abschnitt 2 - Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000500000)
 
 
 
 #### § 17 Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002011311)
 
 (1) Betreiber von Energieversorgungsnetzen haben Letztverbraucher,
 gleich- oder nachgelagerte Elektrizitäts- und Gasversorgungsnetze
@@ -7242,18 +7326,22 @@ Baukostenzuschüssen.
 
 
 #### § 17a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031700377)
 
 
 
 #### § 17b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020004377)
 
 
 
 #### § 17c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020104377)
 
 
 
 #### § 17d Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020213377)
 
 (1) Betreiber von Übertragungsnetzen, in deren Regelzone die
 Netzanbindung von Windenergieanlagen auf See erfolgen soll
@@ -7517,6 +7605,7 @@ Vorgaben errichtet.
 
 
 #### § 17e Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020309377)
 
 (1) Ist die Einspeisung aus einer betriebsbereiten Windenergieanlage
 auf See länger als zehn aufeinander folgende Tage wegen einer Störung
@@ -7640,6 +7729,7 @@ Absatz 4 Satz 1 des Erneuerbare-Energien-Gesetzes erfolgen soll.
 
 
 #### § 17f Belastungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024104311)
 
 (1) Soweit sich aus den nachfolgenden Absätzen oder einer
 Rechtsverordnung nichts anderes ergibt, werden den
@@ -7747,6 +7837,7 @@ eine Zwischenfinanzierung in den folgenden Kalenderjahren erstattet.
 
 
 #### § 17g Haftung für Sachschäden an Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020501116)
 
 Die Haftung des anbindungsverpflichteten Übertragungsnetzbetreibers
 gegenüber Betreibern von Windenergieanlagen auf See für nicht
@@ -7758,6 +7849,7 @@ aller Schadensersatzansprüche zur Höchstgrenze steht.
 
 
 #### § 17h Abschluss von Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020600140)
 
 Anbindungsverpflichtete Übertragungsnetzbetreiber sollen
 Versicherungen zur Deckung von Vermögens- und Sachschäden, die beim
@@ -7769,6 +7861,7 @@ Versicherung nach Satz 1 ist der Regulierungsbehörde nachzuweisen.
 
 
 #### § 17i Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020703311)
 
 (1) Die Ermittlung der nach § 17f Absatz 1 Satz 1 Nummer 3 bis 6
 umlagefähigen Netzkosten für die Errichtung und den Betrieb von
@@ -7833,6 +7926,7 @@ einschließlich der Kosten für eine Zwischenfinanzierung wird gemäß §
 
 
 #### § 17j Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE020803377)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium der Justiz durch
@@ -7861,6 +7955,7 @@ Versicherungen nach § 17h zu regeln. Durch Rechtsverordnung nach Satz
 
 
 #### § 18 Allgemeine Anschlusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002102118)
 
 (1) Abweichend von § 17 haben Betreiber von Energieversorgungsnetzen
 für Gemeindegebiete, in denen sie Energieversorgungsnetze der
@@ -7936,6 +8031,7 @@ Verwaltungsverfahrens.
 
 
 #### § 19 Technische Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002207377)
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
 unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den
@@ -8064,6 +8160,7 @@ erfolgen.
 
 
 #### § 19a Umstellung der Gasqualität; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016804377)
 
 (1) Stellt der Betreiber eines Gasversorgungsnetzes die in seinem Netz
 einzuhaltende Gasqualität auf Grund eines von einem oder mehreren
@@ -8148,10 +8245,12 @@ anzuwenden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel
 
 
 ### Abschnitt 3 - Netzzugang
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000600000)
 
 
 
 #### § 20 Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002308377)
 
 (1) Betreiber von Energieversorgungsnetzen haben jedermann nach
 sachlich gerechtfertigten Kriterien diskriminierungsfrei Netzzugang zu
@@ -8436,6 +8535,7 @@ geltenden Fassung abweichen oder ergänzende Regelungen treffen.
 
 
 #### § 20a Lieferantenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE016902126)
 
 (1) Bei einem Lieferantenwechsel hat der neue Lieferant dem
 Letztverbraucher unverzüglich in Textform zu bestätigen, ob und zu
@@ -8470,6 +8570,7 @@ des Satzes 1 verlangen.
 
 
 #### § 21 Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002402377)
 
 (1) Die Bedingungen und Entgelte für den Netzzugang müssen angemessen,
 diskriminierungsfrei, transparent und dürfen nicht ungünstiger sein,
@@ -8675,6 +8776,7 @@ veröffentlichten Daten ermöglicht.
 
 
 #### § 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002510377)
 
 (1) Nach Maßgabe von Festlegungen oder Genehmigungen der
 Regulierungsbehörde nach § 29 Absatz 1 können Entgelte für den
@@ -8790,6 +8892,7 @@ Fassung abweichen oder ergänzende Regelungen treffen.
 
 
 #### § 21b Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002604126)
 
 (1) Bei Betreibern von Transportnetzen gilt im Rahmen des
 Anreizregulierungssystems der regulatorische Anspruch, der sich aus
@@ -8822,34 +8925,42 @@ Jahres abzurechnen. Die Bundesnetzagentur trifft durch Festlegung nach
 
 
 #### § 21c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017004118)
 
 
 
 #### § 21d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017101118)
 
 
 
 #### § 21e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017203118)
 
 
 
 #### § 21f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017303118)
 
 
 
 #### § 21g (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017401118)
 
 
 
 #### § 21h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017501118)
 
 
 
 #### § 21i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017603118)
 
 
 
 #### § 22 Beschaffung der Energie zur Erbringung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002703377)
 
 (1) Betreiber von Energieversorgungsnetzen haben die Energie, die sie
 zur Deckung von Verlusten und für den Ausgleich von Differenzen
@@ -8893,6 +9004,7 @@ zulässig.
 
 
 #### § 23 Erbringung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002801377)
 
 (1) Sofern den Betreibern von Energieversorgungsnetzen der Ausgleich
 des Energieversorgungsnetzes obliegt, müssen die von ihnen zu diesem
@@ -8939,6 +9051,7 @@ zu bestimmen.
 
 
 #### § 23a Genehmigung der Entgelte für den Netzzugang
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE002904377)
 
 (1) Soweit eine kostenorientierte Entgeltbildung im Sinne des § 21
 Abs. 2 Satz 1 erfolgt, bedürfen Entgelte für den Netzzugang nach § 21
@@ -9018,6 +9131,7 @@ Entgelt als Höchstpreis vorläufig festsetzen.
 
 
 #### § 23b Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025602377)
 
 (1) Die Regulierungsbehörde veröffentlicht auf ihrer Internetseite,
 einschließlich etwaiger darin enthaltener Betriebs- und
@@ -9151,6 +9265,7 @@ insbesondere zu den zulässigen Datenformaten, Datenträgern und
 
 
 #### § 23c Veröffentlichungspflichten der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025702377)
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen haben jeweils zum 1.
 April eines Jahres folgende Strukturmerkmale ihres Netzes und
@@ -9423,6 +9538,7 @@ zusätzlich in englischer Sprache zu veröffentlichen.
 
 
 #### § 23d Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu Energieversorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025800377)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
@@ -9438,6 +9554,7 @@ Energiewende.
 
 
 #### § 24 Bundeseinheitliche Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003008377)
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 haben bundeseinheitliche Netzentgelte zu bilden sowie das gemeinsame
@@ -9516,6 +9633,7 @@ Daten müssen einheitlich ermittelt werden.
 
 
 #### § 24a Bundeszuschüsse; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023603377)
 
 Die Übertragungsnetzbetreiber mit Regelzonenverantwortung haben bei
 der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte für
@@ -9561,6 +9679,7 @@ Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte zu machen.
 
 
 #### § 24b Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031300377)
 
 (1) Die Netzkosten des Kalenderjahres 2023 der
 Übertragungsnetzbetreiber mit Regelzonenverantwortung werden anteilig
@@ -9634,6 +9753,7 @@ Netzentgelte zu demselben Datum anzupassen.
 
 
 #### § 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003103118)
 
 Die Gewährung des Zugangs zu den Gasversorgungsnetzen ist im Sinne des
 § 20 Abs. 2 insbesondere dann nicht zumutbar, wenn einem
@@ -9656,6 +9776,7 @@ ist.
 
 
 #### § 26 Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003202377)
 
 (1) Soweit es zur Berücksichtigung von Besonderheiten von LNG-Anlagen
 erforderlich ist, kann die Bundesnetzagentur durch Festlegung oder
@@ -9686,6 +9807,7 @@ vertraglicher Grundlage nach Maßgabe der §§ 27 und 28.
 
 
 #### § 27 Zugang zu den vorgelagerten Rohrleitungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003304377)
 
 (1) Betreiber von vorgelagerten Rohrleitungsnetzen haben anderen
 Unternehmen das vorgelagerte Rohrleitungsnetz für Durchleitungen zu
@@ -9721,6 +9843,7 @@ S. 1) geändert worden ist.
 
 
 #### § 28 Zugang zu Gasspeicheranlagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003405377)
 
 (1) Betreiber von Gasspeicheranlagen haben anderen Unternehmen den
 Zugang zu ihren Gasspeicheranlagen und Hilfsdiensten zu angemessenen
@@ -9761,6 +9884,7 @@ Verträge über den Zugang zu den Gasspeicheranlagen zu regeln.
 
 
 #### § 28a Neue Infrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003503377)
 
 (1) Verbindungsleitungen zwischen Deutschland und anderen Staaten oder
 LNG- und Gasspeicheranlagen können von der Anwendung der §§ 8 bis 10e
@@ -9816,6 +9940,7 @@ Internetseite veröffentlicht.
 
 
 #### § 28b Bestandsleitungen zwischen Deutschland und einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024500377)
 
 (1) Gasverbindungsleitungen mit einem Drittstaat im Sinne des Artikels
 49a der Richtlinie 2009/73/EG, die vor dem 23. Mai 2019 fertiggestellt
@@ -9898,6 +10023,7 @@ Internetseite der Regulierungsbehörde zu veröffentlichen.
 
 
 #### § 28c Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024600377)
 
 Betreiber von Fernleitungsnetzen können technische Vereinbarungen über
 den Betrieb von Fernleitungen mit Fernleitungsnetzbetreibern in
@@ -9907,10 +10033,12 @@ Vereinbarungen sind der Regulierungsbehörde anzuzeigen.
 
 
 ### Abschnitt 3a - Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002800377)
 
 
 
 #### § 28d Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE025901377)
 
 (1) Die Vorschriften dieses Abschnitts sind für grenzüberschreitende
 Elektrizitätsverbindungsleitungen eines selbstständigen Betreibers
@@ -9936,6 +10064,7 @@ veröffentlichen.
 
 
 #### § 28e Grundsätze der Netzkostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026000377)
 
 Für die Ermittlung der Netzkosten für die Errichtung und den Betrieb
 von grenzüberschreitenden Elektrizitätsverbindungsleitungen sind die
@@ -9943,6 +10072,7 @@ Grundsätze des § 21 Absatz 2 anzuwenden.
 
 
 #### § 28f Feststellung der Netzkosten durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026101377)
 
 (1) Die Bundesnetzagentur stellt auf Antrag die Höhe der Netzkosten
 des selbstständigen Betreibers von grenzüberschreitenden
@@ -9982,6 +10112,7 @@ oder Drittstaaten.
 
 
 #### § 28g Zahlungsanspruch zur Deckung der Netzkosten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026201377)
 
 (1) Dem selbstständigen Betreiber von grenzüberschreitenden
 Elektrizitätsverbindungsleitungen steht jährlich ein Zahlungsanspruch
@@ -10032,6 +10163,7 @@ in die Netzentgeltbildung ein.
 
 
 #### § 28h Anspruch auf Herausgabe von Engpasserlösen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026300377)
 
 (1) Der selbstständige Betreiber von grenzüberschreitenden
 Elektrizitätsverbindungsleitungen ist verpflichtet, die in einem
@@ -10069,14 +10201,17 @@ Engpasserlöse.
 
 
 #### § 28i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026401377)
 
 
 
 ### Abschnitt 3b - Regulierung von Wasserstoffnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002900377)
 
 
 
 #### § 28j Anwendungsbereich der Regulierung von Wasserstoffnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026502377)
 
 (1) Auf Errichtung, Betrieb und Änderung von Wasserstoffnetzen sind
 die Teile 5, 7 und 8, die §§ 113a bis 113c sowie, sofern der Betreiber
@@ -10113,6 +10248,7 @@ Wasserstoff sowie deren Nutzung durch Dritte zu realisieren.
 
 
 #### § 28k Rechnungslegung und Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026600377)
 
 (1) Betreiber von Wasserstoffnetzen haben, auch wenn sie nicht in der
 Rechtsform einer Kapitalgesellschaft oder Personenhandelsgesellschaft
@@ -10141,6 +10277,7 @@ entsprechend anzuwenden.
 
 
 #### § 28l Ordnungsgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026701377)
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
 Handelsgesetzbuchs sind auf die Verletzung der Pflichten zur
@@ -10165,6 +10302,7 @@ bekanntwerdenden Unternehmen, die
 
 
 #### § 28m Entflechtung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026800377)
 
 (1) Betreiber von Wasserstoffnetzen sind zur Gewährleistung von
 Transparenz sowie diskriminierungsfreier Ausgestaltung und Abwicklung
@@ -10188,6 +10326,7 @@ verbundenen Unternehmen vertraulich behandelt werden.
 
 
 #### § 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE026901377)
 
 (1) Betreiber von Wasserstoffnetzen haben Dritten den Anschluss und
 den Zugang zu ihren Wasserstoffnetzen zu angemessenen und
@@ -10336,6 +10475,7 @@ Bedingungen im Wege des verhandelten Zugangs zu gewähren. Die Absätze
 
 
 #### § 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027002377)
 
 (1) Für die Bedingungen und Entgelte für den Netzzugang zu
 Wasserstoffnetzen ist § 21 nach Maßgabe der Sätze 2 bis 5 entsprechend
@@ -10390,6 +10530,7 @@ Rechtsverordnungen nach Absatz 2 abweichen oder diese ergänzen.
 
 
 #### § 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027102377)
 
 (1) Sofern einzelne Wasserstoffnetzinfrastrukturen weder Teil des
 Wasserstoff-Kernnetzes nach § 28q sind noch gemäß § 15d Absatz 3 Satz
@@ -10457,10 +10598,12 @@ erfolgt, ist die Bedarfsgerechtigkeit als gegeben anzusehen.
 
 
 ### Abschnitt 3c - Regelungen zum Wasserstoff-Kernnetz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG003101377)
 
 
 
 #### § 28q Wasserstoff-Kernnetz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032301377)
 
 (1) Gegenstand dieser Regelung ist die zeitnahe Schaffung eines
 Wasserstoff-Kernnetzes in der Bundesrepublik Deutschland, um den
@@ -10686,6 +10829,7 @@ worden ist.
 
 
 #### § 28r Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033700377)
 
 (1) Die Errichtung und der Betrieb des Wasserstoff-Kernnetzes nach §
 28q wird über die von den Netznutzern für den Zugang zu dem
@@ -10883,6 +11027,7 @@ hat, und nur nach Maßgabe dieser Genehmigung, anzuwenden.
 
 
 #### § 28s Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033800377)
 
 (1) Sofern das Amortisationskonto bei Beendigung der
 Hochlauffinanzierung bis zum Ablauf des 31. Dezember 2055 oder bei der
@@ -11026,10 +11171,12 @@ hat, und nur nach Maßgabe dieser Genehmigung, anzuwenden.
 
 
 ### Abschnitt 4 - Befugnisse der Regulierungsbehörde, Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000700000)
 
 
 
 #### § 29 Verfahren zur Festlegung und Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003605377)
 
 (1) Die Regulierungsbehörde trifft Entscheidungen in den in diesem
 Gesetz benannten Fällen durch Festlegung gegenüber einem
@@ -11053,6 +11200,7 @@ Einvernehmen mit dem Bundeskartellamt ergehen.
 
 
 #### § 30 Missbräuchliches Verhalten eines Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003702377)
 
 (1) Betreibern von Energieversorgungsnetzen ist ein Missbrauch ihrer
 Marktstellung verboten. Ein Missbrauch liegt insbesondere vor, wenn
@@ -11136,6 +11284,7 @@ diese beendet ist.
 
 
 #### § 31 Besondere Missbrauchsverfahren der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003803377)
 
 (1) Personen und Personenvereinigungen, deren Interessen durch das
 Verhalten eines Betreibers von Energieversorgungsnetzen erheblich
@@ -11195,6 +11344,7 @@ Beteiligten nach billigem Ermessen auferlegen.
 
 
 #### § 32 Unterlassungsanspruch, Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE003900000)
 
 (1) Wer gegen eine Vorschrift der Abschnitte 2 und 3, eine auf Grund
 der Vorschriften dieser Abschnitte erlassene Rechtsverordnung oder
@@ -11240,6 +11390,7 @@ Gesetzbuchs gilt entsprechend.
 
 
 #### § 33 Vorteilsabschöpfung durch die Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004002118)
 
 (1) Hat ein Unternehmen vorsätzlich oder fahrlässig gegen eine
 Vorschrift der Abschnitte 2 und 3, eine auf Grund der Vorschriften
@@ -11276,11 +11427,13 @@ Bundesnetzagentur.
 
 
 #### § 34 (aufgehoben)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004100000)
 
 -
 
 
 #### § 35 Monitoring und ergänzende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004213377)
 
 (1) Die Regulierungsbehörde führt zur Wahrnehmung ihrer Aufgaben nach
 diesem Gesetz, insbesondere zur Herstellung von Markttransparenz sowie
@@ -11406,10 +11559,12 @@ Informationen gelten die Befugnisse nach § 69 entsprechend.
 
 
 ## Teil 3a - Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG003000377)
 
 
 
 ### § 35a Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028804377)
 
 (1) Der Marktgebietsverantwortliche wirkt im Rahmen der Gewährleistung
 der Versorgungssicherheit mit und kann in diesem Rahmen nach Maßgabe
@@ -11424,6 +11579,7 @@ Anlagen sind von den Vorschriften dieses Teils ausgenommen.
 
 
 ### § 35b Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028903377)
 
 (1) Der Betreiber einer Gasspeicheranlage hat vertragliche Regelungen
 aufzunehmen, welche die jeweiligen Rahmenbedingungen zur Erreichung
@@ -11535,6 +11691,7 @@ genutzt werden dürfen.
 
 
 ### § 35c Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029002377)
 
 (1) Zur Gewährleistung der Versorgungssicherheit hat der
 Marktgebietsverantwortliche nach Zustimmung des Bundesministeriums für
@@ -11568,6 +11725,7 @@ herangezogen wird.
 
 
 ### § 35d Freigabeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029102377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit der Bundesnetzagentur und nach Anhörung des
@@ -11631,6 +11789,7 @@ unberührt.
 
 
 ### § 35e Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033901123)
 
 Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen
 Aufgaben zur Sicherstellung der Versorgungssicherheit entstehenden
@@ -11663,6 +11822,7 @@ zur Stellungnahme zu geben.
 
 
 ### § 35f Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029302123)
 
 (1) Die dem Marktgebietsverantwortlichen im Zusammenhang mit seinen
 Aufgaben zur Sicherstellung der Versorgungssicherheit nach diesem Teil
@@ -11746,6 +11906,7 @@ sowie Nachweisregelungen für Kostenpositionen enthalten.
 
 
 ### § 35g Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029402123)
 
 (1) Zum Zweck der Umstellung des Umlageverfahrens nach § 35e auf das
 Erstattungsverfahren nach § 35f hat die Bundesrepublik Deutschland den
@@ -11840,6 +12001,7 @@ virtuellen Handelspunkt vollzogen werden.
 
 
 ### § 35h Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034100123)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
@@ -11887,6 +12049,7 @@ der Rechtsverordnung an den Beschluss des Bundestages gebunden.
 
 
 ### § 35i Anwendungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034200123)
 
 Die §§ 35a bis 35e sowie die §§ 35g und 35h sind bis zum Ablauf des
 31\. März 2027 anzuwenden. § 35f ist bis zum Ablauf des 31. Dezember
@@ -11894,6 +12057,7 @@ Die §§ 35a bis 35e sowie die §§ 35g und 35h sind bis zum Ablauf des
 
 
 ### § 35j Außerbetriebnahme und Stilllegung von Gasspeichern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029504123)
 
 (1) Der Betreiber einer Gasspeicheranlage im Sinne des § 35a Absatz 2
 ist verpflichtet, der Bundesnetzagentur eine vorläufige oder
@@ -12030,10 +12194,12 @@ erneuten Antrag stellen.
 
 
 ## Teil 4 - Energielieferung an Letztverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000800000)
 
 
 
 ### § 36 Grundversorgungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004304126)
 
 (1) Energieversorgungsunternehmen haben für Netzgebiete, in denen sie
 die Grundversorgung von Haushaltskunden durchführen, Allgemeine
@@ -12086,6 +12252,7 @@ geltenden Bedingungen und Preisen fort.
 
 
 ### § 37 Ausnahmen von der Grundversorgungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004403311)
 
 (1) Wer zur Deckung des Eigenbedarfs eine Anlage zur Erzeugung von
 Energie betreibt oder sich von einem Dritten versorgen lässt, hat
@@ -12120,6 +12287,7 @@ des Zwecks des § 1 angemessen zu berücksichtigen.
 
 
 ### § 38 Ersatzversorgung mit Energie
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004501126)
 
 (1) Sofern Letztverbraucher über das Energieversorgungsnetz der
 allgemeinen Versorgung in Niederspannung oder Niederdruck Energie
@@ -12164,6 +12332,7 @@ ermittelten anteiligen Verbrauch in Rechnung stellen.
 
 
 ### § 39 Allgemeine Preise und Versorgungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004603377)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
@@ -12192,6 +12361,7 @@ Verwaltungsverfahrens.
 
 
 ### § 40 Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004709126)
 
 (1) Rechnungen für Energielieferungen an Letztverbraucher müssen
 einfach und verständlich sein. Sie sind dem Letztverbraucher auf
@@ -12320,6 +12490,7 @@ nach § 29 Absatz 1 gegenüber den Energielieferanten treffen.
 
 
 ### § 40a Verbrauchsermittlung für Strom- und Gasrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027300377)
 
 (1) Der Energielieferant ist berechtigt, zur Ermittlung des Verbrauchs
 nach § 40 Absatz 2 Satz 1 Nummer 6 für die Zwecke der Abrechnung
@@ -12365,6 +12536,7 @@ Letztverbrauchers in Textform und unentgeltlich zu erläutern.
 
 
 ### § 40b Rechnungs- und Informationszeiträume
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027400377)
 
 (1) Energielieferanten sind verpflichtet, den Energieverbrauch nach
 ihrer Wahl in Zeitabschnitten abzurechnen, die ein Jahr nicht
@@ -12417,6 +12589,7 @@ den Intervallen der Abrechnungsinformationen entsprechen.
 
 
 ### § 40c Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027500377)
 
 (1) Rechnungsbeträge und Abschläge werden zu dem von dem
 Energielieferanten angegebenen Zeitpunkt, frühestens jedoch zwei
@@ -12437,6 +12610,7 @@ sind binnen zwei Wochen auszuzahlen.
 
 
 ### § 41 Energielieferverträge mit Letztverbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004809377)
 
 (1) Verträge über die Belieferung von Letztverbrauchern mit Energie
 müssen einfach und verständlich sein. Die Verträge müssen insbesondere
@@ -12597,6 +12771,7 @@ verpflichtet, unverzüglich
 
 
 ### § 41a Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027602377)
 
 (1) Stromlieferanten haben, soweit technisch machbar und
 wirtschaftlich zumutbar, für Letztverbraucher von Elektrizität einen
@@ -12630,6 +12805,7 @@ Messstellenbetriebsgesetzes selbst vereinbart hat.
 
 
 ### § 41b Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027702377)
 
 (1) Energielieferverträge mit Haushaltskunden außerhalb der
 Grundversorgung und deren Kündigung durch den Energielieferanten
@@ -12728,6 +12904,7 @@ geltend machen kann.
 
 
 ### § 41c Vergleichsinstrumente bei Energielieferungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027800377)
 
 (1) Die Bundesnetzagentur stellt nach den Absätzen 3 und 4 sicher,
 dass Haushaltskunden und Kleinstunternehmen, die einen
@@ -12813,6 +12990,7 @@ offenen Datenformaten ermöglichen.
 
 
 ### § 41d Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE027900377)
 
 (1) Großhändler und Lieferanten von Elektrizität sowie betroffene
 Bilanzkreisverantwortliche haben es Betreibern einer Erzeugungsanlage
@@ -12866,6 +13044,7 @@ konkretisieren, insbesondere
 
 
 ### § 41e Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028600377)
 
 (1) Verträge zwischen Aggregatoren und Betreibern einer
 Erzeugungsanlage oder Letztverbrauchern über Dienstleistungen
@@ -12883,6 +13062,7 @@ verkaufte Energie zu erhalten.
 
 
 ### § 42 Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE004909377)
 
 (1) Stromlieferanten sind verpflichtet, in oder als Anlage zu ihren
 Rechnungen an Letztverbraucher und in an diese gerichtetem
@@ -13014,6 +13194,7 @@ berechtigt, die Vorgaben nach Satz 1 durch Festlegung nach § 29 Absatz
 
 
 ### § 42a Mieterstromverträge
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024002377)
 
 (1) Für die Belieferung von Letztverbrauchern mit Mieterstrom im Sinn
 von § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes sind vorbehaltlich
@@ -13079,6 +13260,7 @@ gefördert nach dem EEG, zu kennzeichnen.
 
 
 ### § 42b Gemeinschaftliche Gebäudeversorgung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033200377)
 
 (1) Ein Letztverbraucher kann elektrische Energie, die durch den
 Einsatz einer Gebäudestromanlage erzeugt wurde, nach Maßgabe der
@@ -13196,10 +13378,12 @@ dem jeweiligen Letztverbraucher entsprechend anzuwenden.
 
 
 ## Teil 5 - Planfeststellung, Wegenutzung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG000900000)
 
 
 
 ### § 43 Erfordernis der Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005012377)
 
 (1) Die Errichtung und der Betrieb sowie die Änderung von folgenden
 Anlagen bedürfen der Planfeststellung durch die nach Landesrecht
@@ -13428,6 +13612,7 @@ landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 [^F807051_1_BJNR197010005BJNE005012377]: 
 
 ### § 43a Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013109377)
 
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
@@ -13490,6 +13675,7 @@ auszulegenden Unterlagen gespeichert sind.
 
 
 ### § 43b Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013207377)
 
 (1) Für Planfeststellungsbeschluss und Plangenehmigung gelten die §§
 73 und 74 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -13561,6 +13747,7 @@ Fristverlängerung soll gegenüber dem Antragsteller begründet werden.
 
 
 ### § 43c Rechtswirkungen der Planfeststellung und Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013303377)
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -13593,6 +13780,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 
 
 ### § 43d Planänderung vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013403377)
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
@@ -13606,6 +13794,7 @@ dieses Gesetzes.
 
 
 ### § 43e Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013504377)
 
 (1) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder
 eine Plangenehmigung hat keine aufschiebende Wirkung. Der Antrag auf
@@ -13650,6 +13839,7 @@ für den Betrieb dieser Energieleitungen notwendig sind.
 
 
 ### § 43f Änderungen im Anzeigeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018406377)
 
 (1) Unwesentliche Änderungen oder Erweiterungen können anstelle des
 Planfeststellungsverfahrens durch ein Anzeigeverfahren zugelassen
@@ -13757,6 +13947,7 @@ jeder Seite um nicht mehr als 20 Meter überschreitet.
 
 
 ### § 43g Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018502126)
 
 (1) Die nach Landesrecht zuständige Behörde kann einen Dritten, der
 als Verwaltungshelfer beschäftigt werden kann, auf Vorschlag oder mit
@@ -13813,6 +14004,7 @@ der zuständigen Behörde.
 
 
 ### § 43h Ausbau des Hochspannungsnetzes
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018601118)
 
 Hochspannungsleitungen auf neuen Trassen mit einer Nennspannung von
 110 Kilovolt oder weniger sind als Erdkabel auszuführen, soweit die
@@ -13828,6 +14020,7 @@ Trasse im Sinne des Satzes 1.
 
 
 ### § 43i Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023801118)
 
 (1) Die für die Zulassung des Vorhabens zuständige Behörde hat durch
 geeignete Überwachungsmaßnahmen sicherzustellen, dass das Vorhaben im
@@ -13854,6 +14047,7 @@ anzuwenden.
 
 
 ### § 43j Leerrohre für Hochspannungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024200118)
 
 Bei Vorhaben im Sinne von § 43 Absatz 1 Satz 1 Nummer 2 bis 4 oder
 Absatz 2 Satz 1 Nummer 2 bis 4 können Leerrohre nach § 43 Absatz 2
@@ -13886,6 +14080,7 @@ beschränkt werden.
 
 
 ### § 43k Zurverfügungstellung von Geodaten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024300118)
 
 Soweit für die Planfeststellung, die Plangenehmigung oder das
 Anzeigeverfahren Geodaten, die bei einer Behörde oder einem Dritten
@@ -13905,6 +14100,7 @@ Landesrechts bleiben unberührt.
 
 
 ### § 43l Regelungen zum Auf- und Ausbau von Wasserstoffnetzen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028004377)
 
 (1) Der Begriff der Gasversorgungsleitung in Teil 5 dieses Gesetzes
 umfasst auch Wasserstoffnetze. Die Errichtung von Wasserstoffleitungen
@@ -13960,6 +14156,7 @@ Transport von Wasserstoff dienen.
 
 
 ### § 43m Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031602377)
 
 (1) Bei Vorhaben, für die die Bundesfachplanung nach § 12 des
 Netzausbaubeschleunigungsgesetzes Übertragungsnetz abgeschlossen wurde
@@ -14020,6 +14217,7 @@ Absatz 3 ist entsprechend anzuwenden.
 
 
 ### § 44 Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005103126)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 der Planung und der Baudurchführung eines Vorhabens oder von
@@ -14060,6 +14258,7 @@ Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
 
 ### § 44a Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013601377)
 
 (1) Vom Beginn der Auslegung der Pläne im Planfeststellungsverfahren
 oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben
@@ -14090,6 +14289,7 @@ an den betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 ### § 44b Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013702377)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Bau, die
@@ -14175,6 +14375,7 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 
 ### § 44c Zulassung des vorzeitigen Baubeginns
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024406377)
 
 (1) In einem Planfeststellungs- oder Plangenehmigungsverfahren soll
 die für die Feststellung des Plans oder für die Erteilung der
@@ -14263,6 +14464,7 @@ Verwaltungsgerichtsordnung ist entsprechend anzuwenden. Im Übrigen ist
 
 
 ### § 45 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005205377)
 
 (1) Die Entziehung oder die Beschränkung von Grundeigentum oder von
 Rechten am Grundeigentum im Wege der Enteignung ist zulässig, soweit
@@ -14316,6 +14518,7 @@ Dezember 1994 (BGBl. I S. 3900) bestimmt.
 
 
 ### § 45a Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013800377)
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
 oder einer Plangenehmigung verpflichtet ist, eine Entschädigung in
@@ -14327,6 +14530,7 @@ Enteignungsgesetze der Länder entsprechend.
 
 
 ### § 45b Parallelführung von Planfeststellungs- und Enteignungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018700310)
 
 Der Träger des Vorhabens kann verlangen, dass nach Abschluss der
 Anhörung ein vorzeitiges Enteignungsverfahren durchgeführt wird. Dabei
@@ -14339,6 +14543,7 @@ Grundlage des ergangenen Planfeststellungsbeschlusses zu ergänzen.
 
 
 ### § 46 Wegenutzungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005304124)
 
 (1) Gemeinden haben ihre öffentlichen Verkehrswege für die Verlegung
 und den Betrieb von Leitungen, einschließlich Fernwirkleitungen zur
@@ -14408,6 +14613,7 @@ Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 ### § 46a Auskunftsanspruch der Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023500124)
 
 Der bisherige Nutzungsberechtigte ist verpflichtet, der Gemeinde
 spätestens ein Jahr vor Bekanntmachung der Gemeinde nach § 46 Absatz 3
@@ -14442,6 +14648,7 @@ Energieversorgungsunternehmen treffen.
 
 
 ### § 47 Rügeobliegenheit, Präklusion
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005401124)
 
 (1) Jedes beteiligte Unternehmen kann eine Rechtsverletzung durch
 Nichtbeachtung der Grundsätze eines transparenten und
@@ -14485,6 +14692,7 @@ aus Absatz 2 Satz 3 und Absatz 5 Satz 1 geschlossen werden.
 
 
 ### § 48 Konzessionsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005503124)
 
 (1) Konzessionsabgaben sind Entgelte, die
 Energieversorgungsunternehmen für die Einräumung des Rechts zur
@@ -14516,6 +14724,7 @@ durchzuführen.
 
 
 ### § 48a Duldungspflicht bei Transporten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032400377)
 
 Eigentümer und sonstige Nutzungsberechtigte eines Grundstücks haben
 die Überfahrt und Überschwenkung des Grundstücks durch den Träger des
@@ -14544,10 +14753,12 @@ Bestimmungen.
 
 
 ## Teil 6 - Sicherheit und Zuverlässigkeit der Energieversorgung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001000000)
 
 
 
 ### § 49 Anforderungen an Energieanlagen; Verordnungsermächtigung; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005611377)
 
 (1) Energieanlagen sind so zu errichten und zu betreiben, dass die
 technische Sicherheit gewährleistet ist. Dabei sind vorbehaltlich
@@ -14766,6 +14977,7 @@ ist.
 [^F807051_2_BJNR197010005BJNE005611377]: 
 
 ### § 49a Elektromagnetische Beeinflussung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031002377)
 
 (1) Besteht die Gefahr, dass der Ausbau oder die Ertüchtigung,
 Umbeseilungen oder Zubeseilungen, Änderungen des Betriebskonzepts
@@ -14905,6 +15117,7 @@ entsprechend anzuwenden.
 
 
 ### § 49b Temporäre Höherauslastung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031101377)
 
 (1) Bis zum Ablauf des 31. März 2027 dürfen Betreiber von
 Übertragungsnetzen das Höchstspannungsnetz ohne vorherige Genehmigung
@@ -14990,6 +15203,7 @@ Immissionsschutzbehörde.
 
 
 ### § 49c Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032500377)
 
 (1) Bezogen auf Anlagen des Übertragungsnetzes sowie bezogen auf
 Anlagen der technischen Infrastruktur, die von der von der
@@ -15112,6 +15326,7 @@ Nutzungsberechtigten entsprechend anzuwenden.
 
 
 ### § 49d Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE033300377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz ist befugt,
 ein zentrales, über das Internet öffentlich zugängliches
@@ -15293,6 +15508,7 @@ oder grob fahrlässig verursachen.
 
 
 ### § 50 Vorratshaltung zur Sicherung der Energieversorgung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005703377)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur
 Sicherung der Energieversorgung durch Rechtsverordnung ohne Zustimmung
@@ -15335,18 +15551,22 @@ des Bundesrates
 
 
 ### § 50a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029602377)
 
 
 
 ### § 50b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029702377)
 
 
 
 ### § 50c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029802377)
 
 
 
 ### § 50d Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE029901377)
 
 (1) Die in § 13g Absatz 1 Satz 1 Nummer 3 und 4 genannten
 Erzeugungsanlagen (Reserveanlagen) werden ab dem 1. Oktober 2022 bis
@@ -15453,30 +15673,37 @@ angewendet werden.
 
 
 ### § 50e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030701377)
 
 
 
 ### § 50f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030801377)
 
 
 
 ### § 50g (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030901377)
 
 
 
 ### § 50h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030302377)
 
 
 
 ### § 50i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030402377)
 
 
 
 ### § 50j (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030502377)
 
 
 
 ### § 51 Monitoring der Versorgungssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005806377)
 
 (1) Die Bundesnetzagentur führt in Abstimmung mit dem
 Bundesministerium für Wirtschaft und Energie fortlaufend ein
@@ -15626,6 +15853,7 @@ sofern die vertrauliche Behandlung der Daten gewährleistet ist.
 
 
 ### § 51a Monitoring des Lastmanagements
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE022900311)
 
 (1) Die Regulierungsbehörde kann zur Durchführung des Monitorings nach
 § 51 ein Monitoring des Beitrags von Lastmanagement zur
@@ -15645,6 +15873,7 @@ gespeichert sind.
 
 
 ### § 52 Meldepflichten bei Versorgungsstörungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE005902311)
 
 Betreiber von Energieversorgungsnetzen haben der Bundesnetzagentur bis
 zum 30. April eines Jahres über alle in ihrem Netz im letzten
@@ -15676,6 +15905,7 @@ richten sich nach § 13 Absatz 8.
 
 
 ### § 53 Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006003118)
 
 Sofern die Versorgungssicherheit im Sinne des § 1 durch vorhandene
 Erzeugungskapazitäten oder getroffene Energieeffizienz- und
@@ -15689,6 +15919,7 @@ Wirtschaft und Energie im Bundesanzeiger veröffentlicht.
 
 
 ### § 53a Sicherstellung der Versorgung von Haushaltskunden mit Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006103377)
 
 Gasversorgungsunternehmen haben zu gewährleisten, dass mindestens in
 den in Artikel 6 Absatz 1 der Verordnung (EU) 2017/1938 des
@@ -15728,6 +15959,7 @@ zurückgegriffen werden.
 
 
 ### § 53b Transport von Großtransformatoren auf Schienenwegen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE021102377)
 
 (1) Um die Energiewende zu ermöglichen, ist auf der
 Eisenbahninfrastruktur des Bundes Vorsorge für den Transport von
@@ -15824,14 +16056,17 @@ durch Rechtsverordnung nach Absatz 3 festgelegt.
 
 
 ## Teil 7 - Behörden
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001100000)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001200000)
 
 
 
 #### § 54 Allgemeine Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006209377)
 
 (1) Die Aufgaben der Regulierungsbehörde nehmen die Bundesnetzagentur
 für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
@@ -15944,6 +16179,7 @@ Verwaltungsverfahren der Landesregulierungsbehörden.
 
 
 #### § 54a Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017705377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz ist
 zuständige Behörde für die Durchführung der in der Verordnung (EU)
@@ -16018,6 +16254,7 @@ Bundesrates bedarf:
 
 
 #### § 54b Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE024701377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz ist
 zuständige Behörde für die Durchführung der in der Verordnung (EU)
@@ -16054,6 +16291,7 @@ des Bundesministeriums für Wirtschaft und Klimaschutz.
 
 
 #### § 54c Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE034300123)
 
 (1) Das Bundesministerium für Wirtschaft und Energie ist zuständige
 Behörde für die Durchführung der in der Delegierten Verordnung (EU)
@@ -16168,6 +16406,7 @@ Verordnung (EU) 2024/1366 erforderlich ist.
 
 
 #### § 55 Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006302377)
 
 (1) Für Entscheidungen der Regulierungsbehörde nach diesem Gesetz
 gelten hinsichtlich des behördlichen und gerichtlichen Verfahrens die
@@ -16212,6 +16451,7 @@ Missbrauch zu schützen und nach sechs Monaten zu löschen.
 
 
 #### § 56 Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006407377)
 
 (1) Die Bundesnetzagentur nimmt die Aufgaben wahr, die den
 Regulierungsbehörden der Mitgliedstaaten mit folgenden Rechtsakten
@@ -16301,6 +16541,7 @@ Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
 
 #### § 57 Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006504377)
 
 (1) Die Bundesnetzagentur arbeitet zum Zwecke der Anwendung
 energierechtlicher Vorschriften mit den Regulierungsbehörden anderer
@@ -16374,6 +16615,7 @@ Rechtshilfeabkommen bleiben unberührt.
 
 
 #### § 57a Überprüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017801377)
 
 (1) Die Bundesnetzagentur kann die Agentur für die Zusammenarbeit der
 Energieregulierungsbehörden um eine Stellungnahme dazu ersuchen, ob
@@ -16422,6 +16664,7 @@ Rechtshilfeabkommen bleiben unberührt.
 
 
 #### § 57b Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028100377)
 
 (1) Die Bundesnetzagentur ist die zuständige Behörde für die in der
 Netzregion eingerichteten regionalen Koordinierungszentren im Sinne
@@ -16472,6 +16715,7 @@ Festlegungen treffen und Genehmigungen erteilen.
 
 
 #### § 58 Zusammenarbeit mit den Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006605377)
 
 (1) In den Fällen des § 65 in Verbindung mit den §§ 6 bis 6b, 7 bis 7b
 und 9 bis 10e, des § 25 Satz 2, des § 28a Abs. 3 Satz 1, des § 56 in
@@ -16525,6 +16769,7 @@ verwerten. Beweisverwertungsverbote bleiben unberührt.
 
 
 #### § 58a Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019001360)
 
 (1) Zur Durchführung der Verordnung (EU) Nr. 1227/2011 arbeitet die
 Bundesnetzagentur mit der Bundesanstalt für
@@ -16563,6 +16808,7 @@ Zustimmung der Markttransparenzstelle.
 
 
 #### § 58b Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019100360)
 
 (1) Die Staatsanwaltschaft informiert die Bundesnetzagentur über die
 Einleitung eines Ermittlungsverfahrens, welches Straftaten nach § 95a
@@ -16603,10 +16849,12 @@ Maßnahmen der Bundesnetzagentur geboten sind.
 
 
 ### Abschnitt 2 - Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001300000)
 
 
 
 #### § 59 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006728123)
 
 (1) Die Entscheidungen der Bundesnetzagentur nach diesem Gesetz werden
 von den Beschlusskammern getroffen. Satz 1 gilt nicht für
@@ -16802,6 +17050,7 @@ Körperschaft des Bundes oder eines Landes angehören.
 
 
 #### § 60 Aufgaben des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006801310)
 
 Der Beirat nach § 5 des Gesetzes über die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen hat die
@@ -16812,6 +17061,7 @@ Bundesnetzagentur ist insoweit auskunftspflichtig.
 
 
 #### § 60a Aufgaben des Länderausschusses
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE006902377)
 
 (1) Der Länderausschuss nach § 8 des Gesetzes über die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -16846,6 +17096,7 @@ Arbeiten zu unterrichten. Absatz 3 gilt entsprechend.
 
 
 #### § 61 Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Energie
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007002118)
 
 Soweit das Bundesministerium für Wirtschaft und Energie der
 Bundesnetzagentur allgemeine Weisungen für den Erlass oder die
@@ -16854,6 +17105,7 @@ Weisungen mit Begründung im Bundesanzeiger zu veröffentlichen.
 
 
 #### § 62 Gutachten der Monopolkommission
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007101310)
 
 (1) Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in
 dem sie den Stand und die absehbare Entwicklung des Wettbewerbs und
@@ -16882,6 +17134,7 @@ gesetzgebenden Körperschaft vorgelegt werden.
 
 
 #### § 63 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007217377)
 
 (1) Die Bundesregierung berichtet dem Bundestag jährlich über den
 Netzausbau, den Kraftwerksbestand sowie Energieeffizienz und die sich
@@ -17006,6 +17259,7 @@ aus Ländern außerhalb der Europäischen Union.
 
 
 #### § 64 Wissenschaftliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007300000)
 
 (1) Die Bundesnetzagentur kann zur Vorbereitung ihrer Entscheidungen
 oder zur Begutachtung von Fragen der Regulierung wissenschaftliche
@@ -17033,6 +17287,7 @@ insbesondere
 
 
 #### § 64a Zusammenarbeit zwischen den Regulierungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007400000)
 
 (1) Die Bundesnetzagentur und die Landesregulierungsbehörden
 unterstützen sich gegenseitig bei der Wahrnehmung der ihnen nach § 54
@@ -17049,14 +17304,17 @@ erfolgen.
 
 
 ## Teil 8 - Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001401360)
 
 
 
 ### Abschnitt 1 - Behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001500000)
 
 
 
 #### § 65 Aufsichtsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007505377)
 
 (1) Die Regulierungsbehörde kann Unternehmen oder Vereinigungen von
 Unternehmen verpflichten, ein Verhalten abzustellen, das den
@@ -17120,6 +17378,7 @@ erforderlich sind.
 
 
 #### § 66 Einleitung des Verfahrens, Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007602360)
 
 (1) Die Regulierungsbehörde leitet ein Verfahren von Amts wegen oder
 auf Antrag ein.
@@ -17150,6 +17409,7 @@ auch die Regulierungsbehörde beteiligt.
 
 
 #### § 66a Vorabentscheidung über Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013900377)
 
 (1) Macht ein Beteiligter die örtliche oder sachliche Unzuständigkeit
 der Regulierungsbehörde geltend, so kann die Regulierungsbehörde über
@@ -17163,6 +17423,7 @@ Zuständigkeit zu Unrecht angenommen hat.
 
 
 #### § 67 Anhörung, Akteneinsicht, mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007701377)
 
 (1) Die Regulierungsbehörde hat den Beteiligten Gelegenheit zur
 Stellungnahme zu geben.
@@ -17196,6 +17457,7 @@ gewährt.
 
 
 #### § 68 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007802377)
 
 (1) Die Regulierungsbehörde kann alle Ermittlungen führen und alle
 Beweise erheben, die erforderlich sind.
@@ -17239,6 +17501,7 @@ Ermittlungen oder Überprüfungen einsetzen.
 
 
 #### § 68a Zusammenarbeit mit der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019202377)
 
 Die Bundesnetzagentur hat Tatsachen, die den Verdacht einer Straftat
 nach § 95a oder § 95b begründen, der zuständigen Staatsanwaltschaft
@@ -17266,6 +17529,7 @@ bleiben hiervon unberührt, soweit
 
 
 #### § 69 Auskunftsverlangen, Betretungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE007903360)
 
 (1) Soweit es zur Erfüllung der in diesem Gesetz der
 Regulierungsbehörde übertragenen Aufgaben erforderlich ist, kann die
@@ -17405,6 +17669,7 @@ Verschwiegenheitspflichten bleiben unberührt.
 
 
 #### § 70 Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008000000)
 
 (1) Die Regulierungsbehörde kann Gegenstände, die als Beweismittel für
 die Ermittlung von Bedeutung sein können, beschlagnahmen. Die
@@ -17428,6 +17693,7 @@ entsprechend.
 
 
 #### § 71 Betriebs- oder Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008100000)
 
 Zur Sicherung ihrer Rechte nach § 30 des Verwaltungsverfahrensgesetzes
 haben alle, die nach diesem Gesetz zur Vorlage von Informationen
@@ -17445,6 +17711,7 @@ Einsichtnahme an Dritte die vorlegenden Personen hören.
 
 
 #### § 71a Netzentgelte vorgelagerter Netzebenen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008200000)
 
 Soweit Entgelte für die Nutzung vorgelagerter Netzebenen im
 Netzentgelt des Verteilernetzbetreibers enthalten sind, sind diese von
@@ -17455,12 +17722,14 @@ festgestellt worden ist.
 
 
 #### § 72 Vorläufige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008300000)
 
 Die Regulierungsbehörde kann bis zur endgültigen Entscheidung
 vorläufige Anordnungen treffen.
 
 
 #### § 73 Verfahrensabschluss, Begründung der Entscheidung, Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008407377)
 
 (1) Entscheidungen der Regulierungsbehörde sind zu begründen und mit
 einer Belehrung über das zulässige Rechtsmittel den Beteiligten nach
@@ -17512,6 +17781,7 @@ Beteiligten nach billigem Ermessen auferlegen.
 
 
 #### § 74 Veröffentlichung von Verfahrenseinleitungen und Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008501377)
 
 Die Einleitung von Verfahren nach § 29 Absatz 1 und 2 sowie
 Entscheidungen der Regulierungsbehörde auf der Grundlage des Teils 3
@@ -17527,10 +17797,12 @@ Verfahren nach § 65 auf Grund einer Verordnung nach § 111f.
 
 
 ### Abschnitt 2 - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001600000)
 
 
 
 #### § 75 Zulässigkeit, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008602118)
 
 (1) Gegen Entscheidungen der Regulierungsbehörde ist die Beschwerde
 zulässig. Sie kann auch auf neue Tatsachen und Beweismittel gestützt
@@ -17556,6 +17828,7 @@ und Energie richtet. § 36 der Zivilprozessordnung gilt entsprechend.
 
 
 #### § 76 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008701140)
 
 (1) Die Beschwerde hat keine aufschiebende Wirkung, soweit durch die
 angefochtene Entscheidung nicht eine Entscheidung zur Durchsetzung der
@@ -17573,6 +17846,7 @@ Beschwerdegericht. Dies gilt nicht für die Fälle des § 77.
 
 
 #### § 77 Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008800000)
 
 (1) Die Regulierungsbehörde kann in den Fällen des § 76 Abs. 1 die
 sofortige Vollziehung der Entscheidung anordnen, wenn dies im
@@ -17619,6 +17893,7 @@ nach Absatz 3 Satz 4 können jederzeit geändert oder aufgehoben werden.
 
 
 #### § 78 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE008902377)
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei dem
 Beschwerdegericht schriftlich einzureichen. Die Frist beginnt mit der
@@ -17652,6 +17927,7 @@ der Regulierungsbehörde.
 
 
 #### § 78a Musterverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032600377)
 
 (1) Ist die Rechtmäßigkeit einer behördlichen Maßnahme Gegenstand von
 fünf oder mehr Verfahren, kann das Gericht eines oder mehrere
@@ -17685,6 +17961,7 @@ bestätigt.
 
 
 #### § 79 Beteiligte am Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009001377)
 
 (1) An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
@@ -17715,6 +17992,7 @@ lassen.
 
 
 #### § 80 Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009102377)
 
 Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen
 Rechtsanwalt als Bevollmächtigten vertreten lassen. Die
@@ -17725,6 +18003,7 @@ lassen.
 
 
 #### § 81 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009200000)
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund
 mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne
@@ -17736,6 +18015,7 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 
 
 #### § 82 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009300000)
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen.
 
@@ -17759,6 +18039,7 @@ Zivilprozessordnung findet Anwendung.
 
 
 #### § 83 Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009401310)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner
 freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung.
@@ -17802,6 +18083,7 @@ den Beteiligten zuzustellen.
 
 
 #### § 83a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014101377)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -17852,6 +18134,7 @@ entsprechend anzuwenden.
 
 
 #### § 84 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009501377)
 
 (1) Die in § 79 Absatz 1 Nummer 1 und 2 sowie Absatz 2 und 3
 bezeichneten Beteiligten können die Akten des Gerichts einsehen und
@@ -17884,6 +18167,7 @@ Verfügungsberechtigten Akteneinsicht in gleichem Umfang gewähren.
 
 
 #### § 85 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009602118)
 
 Für Verfahren vor dem Beschwerdegericht gelten, soweit nicht anderes
 bestimmt ist, entsprechend
@@ -17909,6 +18193,7 @@ bestimmt ist, entsprechend
 
 
 #### § 85a Entsprechende Anwendung auf fachlich qualifizierte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032700377)
 
 Gegen Entscheidungen einer fachlich qualifizierten Stelle im Sinne
 einer Rechtsverordnung nach § 49 Absatz 4 Satz 1 Nummer 9, die auf
@@ -17921,10 +18206,12 @@ nicht statt.
 
 
 ### Abschnitt 3 - Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001700000)
 
 
 
 #### § 86 Rechtsbeschwerdegründe
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009700000)
 
 (1) Gegen die in der Hauptsache erlassenen Beschlüsse der
 Oberlandesgerichte findet die Rechtsbeschwerde an den
@@ -17978,6 +18265,7 @@ folgenden Mängel des Verfahrens vorliegt und gerügt wird:
 
 
 #### § 87 Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009801360)
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann selbständig durch
 Nichtzulassungsbeschwerde angefochten werden.
@@ -18005,6 +18293,7 @@ Bundesgerichtshofs der Lauf der Beschwerdefrist.
 
 
 #### § 88 Beschwerdeberechtigte, Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE009900000)
 
 (1) Die Rechtsbeschwerde steht der Regulierungsbehörde sowie den am
 Beschwerdeverfahren Beteiligten zu.
@@ -18029,10 +18318,12 @@ zuständig.
 
 
 ### Abschnitt 4 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001800000)
 
 
 
 #### § 89 Beteiligtenfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010001377)
 
 Fähig, am Verfahren vor der Regulierungsbehörde, am
 Beschwerdeverfahren und am Rechtsbeschwerdeverfahren beteiligt zu
@@ -18041,6 +18332,7 @@ Personenvereinigungen.
 
 
 #### § 90 Kostentragung und -festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010101377)
 
 Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das
 Gericht anordnen, dass die Kosten, die zur zweckentsprechenden
@@ -18061,10 +18353,12 @@ Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 #### § 90a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014001118)
 
 
 
 #### § 91 Gebührenpflichtige Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010221123)
 
 (1) Die Regulierungsbehörde erhebt Kosten (Gebühren und Auslagen) für
 folgende gebührenpflichtige Leistungen:
@@ -18244,10 +18538,12 @@ gilt im Übrigen das Verwaltungskostengesetz in der bis zum 14. August
 
 
 #### § 92 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010302310)
 
 
 
 #### § 93 Mitteilung der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010400000)
 
 Die Bundesnetzagentur veröffentlicht einen jährlichen Überblick über
 ihre Verwaltungskosten und die insgesamt eingenommenen Abgaben. Soweit
@@ -18256,10 +18552,12 @@ nach § 91 Abs. 8 und § 92 Abs. 3 für die Zukunft angepasst.
 
 
 ### Abschnitt 5 - Sanktionen, Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG001900000)
 
 
 
 #### § 94 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010503377)
 
 Die Regulierungsbehörde kann ihre Anordnungen und auf Grundlage der in
 § 56 Absatz 1 genannten Rechtsakte getroffenen Entscheidungen der
@@ -18274,6 +18572,7 @@ beträgt die Mindesthöhe des Zwangsgeldes 250 Euro.
 
 
 #### § 95 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010620123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -18618,6 +18917,7 @@ Nummer 3e das Bundesamt für Sicherheit in der Informationstechnik, im
 
 
 #### § 95a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019300360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 95 Absatz 1b oder Absatz 1c Nummer 6
@@ -18658,6 +18958,7 @@ Geldstrafe.
 
 
 #### § 95b Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE019401311)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -18675,6 +18976,7 @@ bestraft, wer
 
 
 #### § 96 Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010700000)
 
 Die Regulierungsbehörde ist für Verfahren wegen der Festsetzung einer
 Geldbuße gegen eine juristische Person oder Personenvereinigung (§ 30
@@ -18698,6 +19000,7 @@ Staatsanwaltschaft abgibt.
 
 
 #### § 97 Zuständigkeiten im gerichtlichen Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010801118)
 
 Sofern die Regulierungsbehörde als Verwaltungsbehörde des
 Vorverfahrens tätig war, erfolgt die Vollstreckung der Geldbuße und
@@ -18714,6 +19017,7 @@ Kosten trägt.
 
 
 #### § 98 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE010900000)
 
 (1) Im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach §
 95 entscheidet das Oberlandesgericht, in dessen Bezirk die zuständige
@@ -18729,6 +19033,7 @@ Mitgliedern mit Einschluss des vorsitzenden Mitglieds.
 
 
 #### § 99 Rechtsbeschwerde zum Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011000000)
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die
@@ -18738,6 +19043,7 @@ Entscheidung aufgehoben wird, zurück.
 
 
 #### § 100 Wiederaufnahmeverfahren gegen Bußgeldbescheid
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011100000)
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der
 Regulierungsbehörde (§ 85 Abs. 4 des Gesetzes über
@@ -18745,6 +19051,7 @@ Ordnungswidrigkeiten) entscheidet das nach § 98 zuständige Gericht.
 
 
 #### § 101 Gerichtliche Entscheidungen bei der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011200000)
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
@@ -18752,10 +19059,12 @@ von dem nach § 98 zuständigen Gericht erlassen.
 
 
 ### Abschnitt 6 - Bürgerliche Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002000000)
 
 
 
 #### § 102 Ausschließliche Zuständigkeit der Landgerichte
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011300000)
 
 (1) Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
 ergeben, sind ohne Rücksicht auf den Wert des Streitgegenstandes die
@@ -18768,6 +19077,7 @@ Entscheidung abhängt, die nach diesem Gesetz zu treffen ist.
 
 
 #### § 103 Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011400000)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 bürgerliche Rechtsstreitigkeiten, für die nach § 102 ausschließlich
@@ -18788,6 +19098,7 @@ Regelung nach den Absätzen 1 und 2 gehören würde.
 
 
 #### § 104 Benachrichtigung und Beteiligung der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011501377)
 
 (1) Das Gericht hat die Regulierungsbehörde über alle
 Rechtsstreitigkeiten nach § 102 Abs. 1 zu unterrichten. Das Gericht
@@ -18813,6 +19124,7 @@ erforderlich ist.
 
 
 #### § 105 Streitwertanpassung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011600000)
 
 (1) Macht in einer Rechtsstreitigkeit, in der ein Anspruch nach dem §
 32 geltend gemacht wird, eine Partei glaubhaft, dass die Belastung mit
@@ -18843,10 +19155,12 @@ Gegner zu hören.
 
 
 ### Abschnitt 7 - Gemeinsame Bestimmungen für das gerichtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002100000)
 
 
 
 #### § 106 Zuständiger Senat beim Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011701377)
 
 (1) Die nach § 91 des Gesetzes gegen Wettbewerbsbeschränkungen bei den
 Oberlandesgerichten gebildeten Kartellsenate entscheiden über die nach
@@ -18863,6 +19177,7 @@ gelten entsprechend.
 
 
 #### § 107 Zuständiger Senat beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011801377)
 
 (1) Der nach § 94 des Gesetzes gegen Wettbewerbsbeschränkungen beim
 Bundesgerichtshof gebildete Kartellsenat entscheidet über folgende
@@ -18916,16 +19231,19 @@ entsprechend.
 
 
 #### § 108 Ausschließliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE011900000)
 
 Die Zuständigkeit der nach diesem Gesetz zur Entscheidung berufenen
 Gerichte ist ausschließlich.
 
 
 ## Teil 9 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002200000)
 
 
 
 ### § 109 Unternehmen der öffentlichen Hand, Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012000000)
 
 (1) Dieses Gesetz findet auch Anwendung auf Unternehmen, die ganz oder
 teilweise im Eigentum der öffentlichen Hand stehen oder die von ihr
@@ -18937,6 +19255,7 @@ des Geltungsbereichs dieses Gesetzes veranlasst werden.
 
 
 ### § 110 Geschlossene Verteilernetze
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012105377)
 
 (1) § 7 Absatz 1 Satz 2, § 7c Absatz 1, die §§ 12h, 14 Absatz 2, die
 §§ 14a, 14c, 14d, 14e, 18, 19, 21a, 22 Absatz 1, die §§ 23a und 32
@@ -19005,6 +19324,7 @@ Absatz 1 und 3 bis 5 finden entsprechend Anwendung.
 
 
 ### § 111 Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012202377)
 
 (1) Die §§ 19, 20 und 29 des Gesetzes gegen Wettbewerbsbeschränkungen
 sind nicht anzuwenden, soweit durch dieses Gesetz oder auf Grund
@@ -19029,6 +19349,7 @@ rechtskräftiges Urteil festgestellt worden ist.
 
 
 ### § 111a Verbraucherbeschwerden
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE017902118)
 
 Energieversorgungsunternehmen, Messstellenbetreiber und
 Messdienstleister (Unternehmen) sind verpflichtet, Beanstandungen von
@@ -19055,6 +19376,7 @@ wenn diese Unternehmen der Verbraucherbeschwerde abhelfen können.
 
 
 ### § 111b Schlichtungsstelle, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018005377)
 
 (1) Zur Beilegung von Streitigkeiten zwischen Unternehmen und
 Verbrauchern über den Anschluss an das Versorgungsnetz, die
@@ -19150,6 +19472,7 @@ Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 ### § 111c Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018102377)
 
 (1) Erhält die Schlichtungsstelle Kenntnis davon, dass gegen den
 Betreiber eines Energieversorgungsnetzes im Zusammenhang mit dem
@@ -19175,10 +19498,12 @@ sensibler Daten im Sinne des § 6a gewahrt wird.
 
 
 ## Teil 9a - Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002700311)
 
 
 
 ### § 111d Einrichtung einer nationalen Informationsplattform
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023000311)
 
 (1) Die Bundesnetzagentur errichtet und betreibt spätestens ab dem 1.
 Juli 2017 eine elektronische Plattform, um der Öffentlichkeit
@@ -19267,6 +19592,7 @@ nach § 29 Absatz 1 zu treffen insbesondere
 
 
 ### § 111e Marktstammdatenregister
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023105377)
 
 (1) Die Bundesnetzagentur errichtet und betreibt ein elektronisches
 Verzeichnis mit energiewirtschaftlichen Daten
@@ -19409,6 +19735,7 @@ Dienstleistungen zu entrichten sind, als Gesamtschuldner.
 
 
 ### § 111f Verordnungsermächtigung zum Marktstammdatenregister
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023204377)
 
 Zur näheren Ausgestaltung des Marktstammdatenregisters wird das
 Bundesministerium für Wirtschaft und Energie ermächtigt, durch
@@ -19663,6 +19990,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln:
 
 
 ### § 111g Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032800377)
 
 (1) Die Bundesnetzagentur kann juristische Personen oder
 nichtrechtsfähige Personenvereinigungen, durch Festlegung nach § 29
@@ -19764,16 +20092,20 @@ hiervon nicht umfasst.
 
 
 ## Teil 10 - Evaluierung, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNG002300000)
 
 
 
 ### § 112 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012301377)
 
 
 ### § 112a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012401377)
 
 
 ### § 112b Berichte des Bundesministeriums für Wirtschaft und Klimaschutz sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028201377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz
 veröffentlicht bis zum 31. Dezember 2023 ein Konzept zum weiteren
@@ -19797,6 +20129,7 @@ ergeben haben.
 
 
 ### § 113 Laufende Wegenutzungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012500000)
 
 Laufende Wegenutzungsverträge, einschließlich der vereinbarten
 Konzessionsabgaben, bleiben unbeschadet ihrer Änderung durch die §§
@@ -19804,6 +20137,7 @@ Konzessionsabgaben, bleiben unbeschadet ihrer Änderung durch die §§
 
 
 ### § 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028300377)
 
 (1) Ist nach bestehenden Gestattungsverträgen, beschränkt persönlichen
 Dienstbarkeiten oder sonstigen Vereinbarungen, die keine Eintragung
@@ -19831,6 +20165,7 @@ nicht schlechter sein dürfen als die der Verträge nach Absatz 2 Satz
 
 
 ### § 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028401377)
 
 Fernleitungsnetzbetreiber können im Rahmen des Netzentwicklungsplans
 Gas und Wasserstoff gemäß den §§ 15a bis 15e Gasversorgungsleitungen
@@ -19847,6 +20182,7 @@ des Satzes 2 erfüllt werden.
 
 
 ### § 113c Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE028500377)
 
 (1) Für Wasserstoffleitungen, die für einen maximal zulässigen
 Betriebsdruck von mehr als 16 Bar ausgelegt sind, ist die
@@ -19879,6 +20215,7 @@ vorliegen.
 
 
 ### § 114 Wirksamwerden der Entflechtungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012600000)
 
 Auf Rechnungslegung und interne Buchführung findet § 10 erstmals zu
 Beginn des jeweils ersten vollständigen Geschäftsjahres nach
@@ -19889,6 +20226,7 @@ das zuletzt durch Artikel 1 des Gesetzes vom 20. Mai 2003 (BGBl. I S.
 
 
 ### § 115 Bestehende Verträge
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012701360)
 
 (1) Bestehende Verträge über den Netzanschluss an und den Netzzugang
 zu den Energieversorgungsnetzen mit einer Laufzeit bis zum Ablauf von
@@ -19934,6 +20272,7 @@ bleiben im Übrigen unberührt.
 
 
 ### § 116 Bisherige Tarifkundenverträge
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012800000)
 
 Unbeschadet des § 115 sind die §§ 10 und 11 des
 Energiewirtschaftsgesetzes vom 24. April 1998 (BGBl. I S. 730), das
@@ -19953,12 +20292,14 @@ auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ### § 117 Konzessionsabgaben für die Wasserversorgung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE012900000)
 
 Für die Belieferung von Letztverbrauchern im Rahmen der öffentlichen
 Wasserversorgung gilt § 48 entsprechend.
 
 
 ### § 117a Regelung bei Stromeinspeisung in geringem Umfang
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE014204123)
 
 Betreiber
 
@@ -19994,6 +20335,7 @@ zusammenzurechnen ist.
 
 
 ### § 117b Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018800310)
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften über die Durchführung der Verfahren nach den
@@ -20031,6 +20373,7 @@ Verwaltungsvorschriften über die Durchführung der Verfahren nach den
 
 
 ### § 117c Umgang mit geheimhaltungsbedürftigen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE032900377)
 
 In Bezug auf die Erhebung, Weitergabe und Veröffentlichung
 geheimhaltungsbedürftiger Informationen, die die Bundeswehr, den
@@ -20047,6 +20390,7 @@ deren Bekanntgabe überwiegt.
 
 
 ### § 118 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE013049311)
 
 (1) (weggefallen)
 
@@ -20536,6 +20880,7 @@ gelten ab dem 1. Januar 2025.
 
 
 ### § 118a Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018206126)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -20565,6 +20910,7 @@ Bundesnetzagentur übertragen. Die Sätze 1 und 2 treten mit Ablauf des
 
 
 ### § 118b Befristete Sonderregelungen für Energielieferverträge mit Haushalts kunden außerhalb der Grundversorgung bei Versorgungsunterbrechungen wegen Nichtzahlung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE018304377)
 
 (1) Bis zum Ablauf des 30. April 2024 ist § 41b Absatz 2 auf
 Energielieferverträge mit Haushaltskunden außerhalb der
@@ -20748,6 +21094,7 @@ einbezogen werden, soweit diese bis zum 30. April 2024 befristet sind.
 
 
 ### § 118c Befristete Notversorgung von Letztverbrauchern im Januar und Februar des Jahres 2023
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE031400377)
 
 (1) Die Betreiber von Verteilernetzen sind berechtigt, Entnahmestellen
 von Letztverbrauchern, die ab dem 1. Januar 2023 keinem
@@ -20833,6 +21180,7 @@ Absätzen 2 bis 4 bestehen nicht
 
 
 ### § 119 Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023402126)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates für Teilnehmer an dem von der
@@ -20977,6 +21325,7 @@ verbundenen Aufgaben der Bundesnetzagentur oder Netzbetreibern
 
 
 ### § 120 Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023701377)
 
 (1) Bei Einspeisungen von Elektrizität aus dezentralen
 Erzeugungsanlagen darf in einer Rechtsverordnung nach § 24 Satz 5
@@ -21063,6 +21412,7 @@ gerundete Prozentangaben festgelegt werden.
 
 
 ### § 121 Außerkrafttreten der §§ 50a bis 50c und 50e bis 50j
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE030601377)
 
 § 50g tritt mit Ablauf des 30. April 2024 außer Kraft. Die §§ 50a bis
 50c sowie 50e, 50f, 50h und 50i treten mit Ablauf des 31. März 2024
@@ -21070,6 +21420,7 @@ außer Kraft. § 50j tritt mit Ablauf des 30. Juni 2024 außer Kraft.
 
 
 ### Anlage (zu § 13g) Berechnung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html#BJNR197010005BJNE023300311)
 
 (Fundstelle: BGBl. I 2016, 1809 - 1810)
 

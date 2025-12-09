@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000100000)
 
 Auf Grund des § 5 Satz 1 der Bundes-Tierärzteordnung in der Fassung
 der Bekanntmachung vom 20. November 1981 (BGBl. I S. 1193), der
@@ -31,10 +32,12 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## Abschnitt 1 - Die tierärztliche Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000100000)
 
 
 
 ### § 1 Ziele und Gliederung der tierärztlichen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000201377)
 
 (1) Ziel der Ausbildung sind wissenschaftlich und praktisch
 ausgebildete Tierärztinnen oder Tierärzte, die zur
@@ -124,6 +127,7 @@ Kenntnisse und Fähigkeiten nach Artikel 38 Absatz 3 der Richtlinie
 
 
 ### § 2 Unterrichtsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000300000)
 
 (1) Die Universität hat eine Ausbildung, die den in § 1 Abs. 1
 genannten Zielen entspricht und es den Studierenden ermöglicht, die
@@ -168,6 +172,7 @@ in den Fächern der Tierärztlichen Prüfung teilzunehmen haben.
 
 
 ### § 3 Erprobungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000401377)
 
 (1) Bei Beibehaltung der Gesamtstundenzahl des wissenschaftlich-
 theoretischen Studienteils von 3.850 Stunden können die Universitäten
@@ -206,6 +211,7 @@ zuständigen Behörde einen Bericht über die gewonnenen Erfahrungen vor.
 
 
 ### § 4 Modellstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000501377)
 
 (1) Zur Erprobung neuer Modelle der tierärztlichen Ausbildung kann die
 zuständige Behörde auf Antrag einer Universität einen von dem
@@ -259,14 +265,17 @@ genannten Ausbildungsziele gewahrt bleiben.
 
 
 ## Abschnitt 2 - Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000200000)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000300000)
 
 
 
 #### § 5 Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000600000)
 
 (1) Bei jeder Universität wird je ein staatlicher Prüfungsausschuss
 für die Tierärztliche Vorprüfung und für die Tierärztliche Prüfung
@@ -294,6 +303,7 @@ Wahrnehmung der Prüfungsgeschäfte beauftragen.
 
 
 #### § 6 Zuständiger Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000701377)
 
 Die Studierenden legen die Abschnitte der Tierärztlichen Vorprüfung
 und die Tierärztliche Prüfung vor dem zuständigen Prüfungsausschuss an
@@ -305,6 +315,7 @@ worden ist.
 
 
 #### § 7 Meldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000800000)
 
 (1) Für die Prüfungen der Tierärztlichen Vorprüfung nach den §§ 19 und
 22 und vor den Prüfungen der Tierärztlichen Prüfung nach § 29 ist ein
@@ -335,6 +346,7 @@ Prüfungsakten genommen und anschließend wieder zurückgegeben.
 
 
 #### § 8 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE000900000)
 
 (1) Über die Zulassung zu den Prüfungen entscheidet für den
 Prüfungsausschuss der oder die Vorsitzende.
@@ -348,6 +360,7 @@ von der Universität vorgegebenen Fristen abzulegen.
 
 
 #### § 9 Ablegung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001000000)
 
 (1) Die Prüfungen sind von den für die betreffenden Prüfungsfächer
 bestellten oder beauftragten Mitgliedern des Prüfungsausschusses
@@ -371,6 +384,7 @@ Prüfenden widerspricht.
 
 
 #### § 10 Form der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001101377)
 
 (1) Die Prüfung kann schriftlich, elektronisch, mündlich, durch Lösung
 schriftlich gestellter Aufgaben, bei denen anzugeben ist, welche der
@@ -398,6 +412,7 @@ des Hochschulrahmengesetzes) fest.
 
 
 #### § 11 Prüfungstermin
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001200000)
 
 (1) Die Prüfungen sind zeitnah zu den Unterrichtsveranstaltungen
 durchzuführen. Sie sollen in den vorlesungsfreien Zeiten stattfinden
@@ -413,6 +428,7 @@ Praktika zu absolvieren sind.
 
 
 #### § 12 Ladung zur Prüfung, Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001300000)
 
 (1) Der oder die Studierende ist spätestens sieben Tage vor dem
 Prüfungstermin zu laden. Die Ladung ist zuzustellen.
@@ -441,6 +457,7 @@ einer Pflichtstudienberatung zu laden.
 
 
 #### § 13 Prüfungsziel
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001400000)
 
 (1) In der Prüfung ist zu ermitteln, ob die Studierenden sich die
 Kenntnisse und Fertigkeiten angeeignet haben, die sie für die
@@ -457,6 +474,7 @@ Phantom oder Modell, durchzuführen ist.
 
 
 #### § 14 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001501377)
 
 (1) Über den Verlauf der mündlichen Prüfung hat der Prüfer oder die
 Prüferin oder ein von dem oder der Vorsitzenden bestimmter
@@ -502,6 +520,7 @@ jeweils nach Abschluss der Prüfung in diesem Fach bekannt zu geben.
 
 
 #### § 15 Unregelmäßigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001601377)
 
 Stören Studierende den ordnungsgemäßen Ablauf der Prüfung oder
 unternehmen sie einen Täuschungsversuch, so kann der Prüfer oder die
@@ -515,6 +534,7 @@ Erklärung nach Satz 2 gilt § 14 Absatz 1 Satz 4 entsprechend.
 
 
 #### § 16 Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001700000)
 
 (1) Der oder die Vorsitzende stellt die Prüfungsergebnisse fest und
 erteilt die Zeugnisse nach den Anlagen 3 bis 5. In den Zeugnissen
@@ -564,6 +584,7 @@ zulassen.
 
 
 #### § 17 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001801377)
 
 (1) Studierende können die Prüfung in nicht bestandenen
 Prüfungsfächern zweimal wiederholen. § 20 Abs. 2 bleibt unberührt.
@@ -591,6 +612,7 @@ Wiederholungsprüfung entsprechend Anwendung.
 
 
 #### § 18 Mitteilung des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE001900000)
 
 Der oder die Vorsitzende teilt nach Abschluss der Tierärztlichen
 Prüfung der zuständigen Stelle die Namen der Studierenden und die
@@ -598,10 +620,12 @@ Prüfungsergebnisse mit.
 
 
 ### Unterabschnitt 2 - Naturwissenschaftlicher Abschnitt der Tierärztlichen Vorprüfung (Vorphysikum)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000400000)
 
 
 
 #### § 19 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002000000)
 
 Das Vorphysikum umfasst die Prüfungsfächer
 
@@ -624,6 +648,7 @@ werden.
 
 
 #### § 20 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002100000)
 
 (1) Für die Zulassung zu den Prüfungen sind folgende Nachweise
 erforderlich:
@@ -671,6 +696,7 @@ als nicht abgelegt.
 
 
 #### § 21 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002200000)
 
 Die Prüfungen in den Prüfungsfächern Physik einschließlich der
 Grundlagen des physikalischen Strahlenschutzes, Chemie, Zoologie und
@@ -681,10 +707,12 @@ Grundkenntnisse.
 
 
 ### Unterabschnitt 3 - Anatomisch-physiologischer Abschnitt der Tierärztlichen Vorprüfung (Physikum)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000500000)
 
 
 
 #### § 22 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002300000)
 
 Das Physikum umfasst die Prüfungsfächer
 
@@ -709,6 +737,7 @@ werden.
 
 
 #### § 23 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002400000)
 
 (1) Für die Zulassung zu Prüfungen sind folgende Nachweise
 erforderlich:
@@ -762,6 +791,7 @@ Ausbildung absolviert wurde.
 
 
 #### § 24 Anatomie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002500000)
 
 In dem Prüfungsfach Anatomie haben die Studierenden den Inhalt einer
 Körperhöhle vollständig oder teilweise zu erläutern, soweit
@@ -771,6 +801,7 @@ oder anzufertigender Präparate zu behandeln.
 
 
 #### § 25 Histologie und Embryologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002600000)
 
 In dem Prüfungsfach Histologie und Embryologie haben die Studierenden
 ihre Kenntnisse in der Zellen-, Gewebe- und Organlehre am
@@ -779,6 +810,7 @@ speziellen Entwicklungslehre nachzuweisen.
 
 
 #### § 26 Physiologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002700000)
 
 In dem Prüfungsfach Physiologie haben die Studierenden eine
 Übungsaufgabe aus dem Bereich der Physiologie zu lösen oder
@@ -790,6 +822,7 @@ berücksichtigen.
 
 
 #### § 27 Biochemie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002800000)
 
 In dem Prüfungsfach Biochemie haben die Studierenden eine
 Übungsaufgabe zu lösen oder auszuwerten und sie zu erläutern und ihre
@@ -800,6 +833,7 @@ Nutztieren sowie die Biochemie der Ernährung sind zu berücksichtigen.
 
 
 #### § 28 Tierzucht und Genetik einschließlich Tierbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE002900000)
 
 In dem Prüfungsfach Tierzucht und Genetik einschließlich
 Tierbeurteilung haben die Studierenden ein Haustier hinsichtlich
@@ -809,10 +843,12 @@ Haustieren und im Tierzuchtrecht angeeignet haben.
 
 
 ### Unterabschnitt 4 - Tierärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000600000)
 
 
 
 #### § 29 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003000000)
 
 Die Tierärztliche Prüfung umfasst die Prüfungen in den Fächern:
 
@@ -881,6 +917,7 @@ Die Tierärztliche Prüfung umfasst die Prüfungen in den Fächern:
 
 
 #### § 30 Besondere Vorschriften für die Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003100000)
 
 Die Prüfungen in den Fächern Allgemeine Pathologie und Spezielle
 pathologische Anatomie und Histologie, Lebensmittelhygiene,
@@ -891,6 +928,7 @@ des achten Semesters abgeschlossen werden.
 
 
 #### § 31 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003200000)
 
 (1) Für die Zulassung zu Prüfungen sind folgende Nachweise
 erforderlich:
@@ -933,10 +971,12 @@ Nachweise erforderlich:
 
 
 ### Unterabschnitt 5 - Lehrinhalte und Studienfächer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000700000)
 
 
 
 #### § 32 Tierhaltung und Tierhygiene
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003301377)
 
 Die Prüfung in dem Fach Tierhaltung und Tierhygiene erstreckt sich auf
 die Haltung und Pflege der Haus- und Nutztiere und die Bedeutung der
@@ -949,6 +989,7 @@ Lebensmittel zu berücksichtigen.
 
 
 #### § 33 Tierschutz und Ethologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003400000)
 
 In dem Prüfungsfach Tierschutz und Ethologie haben die Studierenden
 ihre Kenntnisse über die artgemäße und verhaltensgerechte
@@ -960,6 +1001,7 @@ in der Ethologie nachzuweisen.
 
 
 #### § 34 Tierernährung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003500000)
 
 Die Prüfung in dem Fach Tierernährung erstreckt sich auf die Ernährung
 unter besonderer Berücksichtigung der Pathogenese nutritiv bedingter
@@ -972,6 +1014,7 @@ wichtigen Vorschriften des Futtermittelrechts.
 
 
 #### § 35 Klinische Propädeutik
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003600000)
 
 In dem Prüfungsfach Klinische Propädeutik haben die Studierenden ein
 Tier zu untersuchen und nachzuweisen, dass sie sich mit den Grundlagen
@@ -979,6 +1022,7 @@ der klinischen Untersuchungsmethoden vertraut gemacht haben.
 
 
 #### § 36 Virologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003700000)
 
 In dem Prüfungsfach Virologie haben die Studierenden ihre Kenntnisse
 über die veterinärmedizinisch wichtigen Virusarten, über Ätiologie,
@@ -990,6 +1034,7 @@ berücksichtigen.
 
 
 #### § 37 Bakteriologie und Mykologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003800000)
 
 In dem Prüfungsfach Bakteriologie und Mykologie haben die Studierenden
 ein mikrobiologisches Präparat anzufertigen, zu untersuchen, zu
@@ -1002,6 +1047,7 @@ Tierseuchenlehre zu berücksichtigen.
 
 
 #### § 38 Parasitologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE003900000)
 
 In dem Prüfungsfach Parasitologie haben die Studierenden ein
 parasitologisches Präparat anzufertigen, zu untersuchen, zu erläutern
@@ -1014,6 +1060,7 @@ berücksichtigen.
 
 
 #### § 39 Tierseuchenbekämpfung und Infektionsepidemiologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004001377)
 
 In dem Prüfungsfach Tierseuchenbekämpfung und Infektionsepidemiologie
 haben die Studierenden ihre Kenntnisse über die allgemeinen Grundsätze
@@ -1026,6 +1073,7 @@ nachzuweisen.
 
 
 #### § 40 Pharmakologie und Toxikologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004101377)
 
 Die Prüfung in dem Prüfungsfach Pharmakologie und Toxikologie
 erstreckt sich vor allem auf die Wirkungen und Wechselwirkungen von
@@ -1042,6 +1090,7 @@ Vergiftungen sind ebenfalls zu berücksichtigen.
 
 
 #### § 41 Arznei- und Betäubungsmittelrecht
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004200000)
 
 Im Prüfungsfach Arznei- und Betäubungsmittelrecht haben die
 Studierenden nachzuweisen, dass sie bei mindestens drei
@@ -1058,6 +1107,7 @@ nachzuweisen.
 
 
 #### § 42 Geflügelkrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004300000)
 
 In dem Prüfungsfach Geflügelkrankheiten haben die Studierenden ihre
 Kenntnisse über Ätiologie, Pathogenese, Diagnostik, Prophylaxe und
@@ -1068,6 +1118,7 @@ Krankheiten nachzuweisen.
 
 
 #### § 43 Radiologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004400000)
 
 (1) Die Prüfung in dem Prüfungsfach Radiologie erstreckt sich auf
 
@@ -1118,6 +1169,7 @@ Tierheilkunde.
 
 
 #### § 44 Allgemeine Pathologie und Spezielle pathologische Anatomie und Histologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004500000)
 
 In dem Prüfungsfach Allgemeine Pathologie und Spezielle pathologische
 Anatomie und Histologie haben die Studierenden nachzuweisen, dass sie
@@ -1131,6 +1183,7 @@ feststellbare Krankheitsprozesse und ihre Pathogenese nachzuweisen.
 
 
 #### § 45 Lebensmittelkunde einschließlich Lebensmittelhygiene
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004600000)
 
 In dem Prüfungsfach Lebensmittelkunde einschließlich
 Lebensmittelhygiene haben die Studierenden ein Lebensmittel tierischen
@@ -1156,6 +1209,7 @@ können.
 
 
 #### § 46 Fleischhygiene
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004700000)
 
 In dem Prüfungsfach Fleischhygiene haben die Studierenden ein
 Schlachttier im lebenden sowie ein Schlachttier im geschlachteten
@@ -1180,6 +1234,7 @@ einzugehen.
 
 
 #### § 47 Milchkunde
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004800000)
 
 In dem Prüfungsfach Milchkunde haben die Studierenden eine Milchprobe
 (Frischgemelkprobe, Rohmilchprobe oder behandelte Milchprobe) oder ein
@@ -1195,6 +1250,7 @@ sowie über die einschlägigen Rechtsvorschriften nachzuweisen.
 
 
 #### § 48 Reproduktionsmedizin
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE004900000)
 
 In dem Prüfungsfach Reproduktionsmedizin haben die Studierenden ein
 Tier auf geschlechtliche Gesundheit oder ein im Neugeborenenalter
@@ -1213,6 +1269,7 @@ einschließlich der Herdenbetreuung nachzuweisen.
 
 
 #### § 49 Innere Medizin
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005000000)
 
 In dem Prüfungsfach Innere Medizin haben die Studierenden ein an einer
 inneren Krankheit oder ein an einer Hautkrankheit leidendes Tier oder
@@ -1228,6 +1285,7 @@ speziellen Therapie sowie der Herdenbetreuung nachzuweisen.
 
 
 #### § 50 Chirurgie und Anästhesiologie
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005100000)
 
 In dem Prüfungsfach Chirurgie und Anästhesiologie haben die
 Studierenden ein chirurgisch zu behandelndes Tier oder mehrere solcher
@@ -1246,6 +1304,7 @@ und der Huf- und Beschlagslehre nachzuweisen.
 
 
 #### § 51 Gerichtliche Veterinärmedizin, Berufs- und Standesrecht
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005201377)
 
 In dem Prüfungsfach Gerichtliche Veterinärmedizin, Berufs- und
 Standesrecht haben die Studierenden ihre Kenntnisse über das
@@ -1261,6 +1320,7 @@ darzulegen.
 
 
 #### § 52 Tierartkliniken
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005300000)
 
 (1) In den Prüfungsfächern nach den §§ 48, 49 und 50 sind Einhufer,
 Wiederkäuer, Schweine, Klein- und Heimtiere zu berücksichtigen.
@@ -1272,6 +1332,7 @@ werden.
 
 
 #### § 53 Querschnittsunterricht
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005401377)
 
 In dem Querschnittsunterricht sind die Studierenden auf der Grundlage
 der während des vorhergegangenen und parallel weitergeführten Studiums
@@ -1302,10 +1363,12 @@ Möglichkeiten zur schmerzlosen Tötung von Tieren vermittelt werden.
 
 
 ## Abschnitt 3 - Der praktische Studienteil
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000800000)
 
 
 
 ### § 54 Praktika
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005500000)
 
 Die Praktika nach diesem Abschnitt werden außerhalb der Vorlesungszeit
 und in der Regel ganztägig entsprechend dem Arbeitsanfall in
@@ -1315,10 +1378,12 @@ Universität festgelegt.
 
 
 ### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten,  -methoden und -techniken für den Lebensmittelbereich einschließlich der  Überprüfung von Frischfleisch
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG000900000)
 
 
 
 #### § 55 Ausbildungsstätten, Dauer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005601377)
 
 (1) Die Ausbildung in Kontrolltätigkeiten, -methoden und -techniken
 für den Lebensmittelbereich einschließlich der Überprüfung von
@@ -1355,6 +1420,7 @@ Absatz 2 Satz 2 und 3 keine Anwendung.
 
 
 #### § 56 Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005701377)
 
 (1) Während der Ausbildung nach § 55 Abs. 1 haben sich die
 Studierenden nach näherer Weisung von hauptamtlich bei den für die
@@ -1388,10 +1454,12 @@ zu informieren.
 
 
 ### Unterabschnitt 2 - Die Ausbildung in der kurativen  tierärztlichen Praxis oder in einer Tierklinik
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG001000000)
 
 
 
 #### § 57 Ausbildungsstätten, Dauer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005801377)
 
 (1) Der erste Abschnitt der Ausbildung, die in der kurativen
 tierärztlichen Praxis oder in einer Tierklinik oder je zur Hälfte in
@@ -1413,6 +1481,7 @@ Beginn der Ausbildung nach Absatz 2.
 
 
 #### § 58 Ausbildung in der kurativen tierärztlichen Praxis
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE005900000)
 
 (1) Die Ausbildung in der kurativen tierärztlichen Praxis darf nur bei
 Tierärztinnen oder Tierärzten abgeleistet werden, die
@@ -1439,6 +1508,7 @@ nach den Anlagen 8 und 9.
 
 
 #### § 59 Ausbildung in der Tierklinik
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006000000)
 
 (1) Die Ausbildung ist in den Kliniken einer Universität abzuleisten.
 Sie kann auch in anderen unter tierärztlicher Leitung stehenden
@@ -1456,10 +1526,12 @@ nach Anlage 10.
 
 
 ### Unterabschnitt 3 - Wahlpraktikum
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG001100000)
 
 
 
 #### § 60 Ausbildungsstätten, Dauer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006100000)
 
 Ein Teil des Praktikums nach § 57 Abs. 2 von mindestens 75 Stunden
 innerhalb von zwei Wochen und höchstens 350 Stunden innerhalb von acht
@@ -1500,10 +1572,12 @@ Anlage 11.
 
 
 ### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen  Veterinärwesen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG001200000)
 
 
 
 #### § 61 Ausbildungsstätten, Dauer
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006200000)
 
 Die praktische Ausbildung im öffentlichen Veterinärwesen dauert 75
 Stunden innerhalb von mindestens zwei Wochen, die aufeinander folgen
@@ -1511,6 +1585,7 @@ sollen. Sie erfolgt in Dienststellen der Veterinärverwaltung.
 
 
 #### § 62 Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006300000)
 
 (1) Die praktische Ausbildung im öffentlichen Veterinärwesen nach § 61
 soll den Studierenden die Möglichkeit geben, Kenntnisse und
@@ -1524,10 +1599,12 @@ Bescheinigung nach Anlage 12.
 
 
 ## Abschnitt 4 - Die Approbation
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG001300000)
 
 
 
 ### § 63 Antrag auf Approbation
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006405123)
 
 (1) Der Antrag auf Approbation als Tierärztin oder Tierarzt ist an die
 zuständige Behörde des Landes zu richten, in dem der Antragsteller
@@ -1653,16 +1730,19 @@ Richtigkeit der elektronisch eingereichten Unterlagen kann die
 
 
 ### § 64 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006500000)
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 13 erteilt.
 Sie ist dem Antragsteller zuzustellen.
 
 
 ## Abschnitt 5 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNG001400000)
 
 
 
 ### § 65 Anrechnung von Studienzeiten und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006602377)
 
 (1) Auf Studienzeiten werden, soweit Gleichwertigkeit gegeben ist,
 ganz oder teilweise angerechnet
@@ -1688,6 +1768,7 @@ erfolgt auf Antrag.
 
 
 ### § 66 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006700000)
 
 (1) Die Entscheidungen nach § 65 trifft die Universität des Landes, in
 dem der Antragsteller oder die Antragstellerin im Geltungsbereich
@@ -1713,6 +1794,7 @@ nach Maßgabe ihres Inhalts als Nachweis im Sinne der §§ 20, 23 und 31.
 
 
 ### § 67 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006800000)
 
 Die Universität, an der der oder die Studierende eingeschrieben ist,
 kann auf Antrag Ausnahmen zulassen von
@@ -1746,6 +1828,7 @@ Nachweis auch für die Zulassung zu den nachfolgenden Prüfungen.
 
 
 ### § 68 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE006901377)
 
 (1) § 10 Absatz 2 und § 17 Absatz 3 Satz 1 sind bis zum 29. Dezember
 2017 in der am Tage der Verkündung dieser Verordnung geltenden Fassung
@@ -1768,17 +1851,20 @@ zuletzt geändert durch Artikel 3 der Verordnung vom 4. Dezember 2002
 
 
 ### § 69 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007000000)
 
 (1) Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Abs. 1, 2 und 3)
 
 ### Anlage 1 Fachgebiete und Gesamtstundenzahlen \*)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007200000)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1841 - 1842)
 
@@ -2044,6 +2130,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 2 (zu § 14 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007300000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1843 - 1844
 Prüfungsausschuss für die – Tierärztliche Vorprüfung – Tierärztliche
@@ -2138,6 +2225,7 @@ soweit nicht Prüfer/in die Niederschrift gefertigt hat)
 
 
 ### Anlage 3 (zu § 16 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007400000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1845
 Der/Die Vorsitzende des Prüfungsausschusses für die Tierärztliche
@@ -2196,6 +2284,7 @@ des Prüfungsausschusses
 
 
 ### Anlage 4 (zu § 16 Abs. 1 und 4)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007500000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1846
 Der/Die Vorsitzende des Prüfungsausschusses für die Tierärztliche
@@ -2261,6 +2350,7 @@ des Prüfungsausschusses
 
 
 ### Anlage 5 (zu § 16 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007600000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1847 - 1848
 Der/Die Vorsitzende des Prüfungsausschusses für die Tierärztliche
@@ -2379,6 +2469,7 @@ des Prüfungsausschusses
 
 
 ### Anlage 6 (zu § 56 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007701377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1849;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2417,6 +2508,7 @@ Tierärztin/Tierarztes)
 
 
 ### Anlage 7 (zu § 56 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007801377)
 
 (Fundstelle des Originaltextes: BGBl. I 2016, 3343;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2555,6 +2647,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 8 (zu § 58 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE007900000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1851
 ......................................................................
@@ -2586,6 +2679,7 @@ Approbation von Tierärztinnen und Tierärzten erfülle.
 
 
 ### Anlage 9 (zu § 58 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE008000000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1852
 ......................................................................
@@ -2614,6 +2708,7 @@ Approbation von Tierärztinnen und Tierärzten erfülle.
 
 
 ### Anlage 10 (zu § 59 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE008100000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1853
 ......................................................................
@@ -2639,6 +2734,7 @@ Tierärztinnen und Tierärzten abgeleistet.
 
 
 ### Anlage 11 (zu § 60 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE008200000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1854
 ......................................................................
@@ -2674,6 +2770,7 @@ erweitern und praktisch anzuwenden.
 
 
 ### Anlage 12 (zu § 62 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE008301377)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1855;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2704,6 +2801,7 @@ Gebieten des
 
 
 ### Anlage 13 (zu § 64)
+[Direktlink](https://www.gesetze-im-internet.de/tappv/BJNR182700006.html#BJNR182700006BJNE008400000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1856
 **Approbationsurkunde**

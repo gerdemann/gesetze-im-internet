@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kirchenberufev/BJNR008850972.html#BJNR008850972BJNE000100327)
 
 Auf Grund des § 2 Abs. 3 des Bundesausbildungsförderungsgesetzes vom
 26\. August 1971 (Bundesgesetzbl. I S. 1409) verordnet die
@@ -28,6 +29,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/kirchenberufev/BJNR008850972.html#BJNR008850972BJNE000200327)
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz
 wird geleistet für den Besuch von Ausbildungsstätten für
@@ -54,6 +56,7 @@ Ersatzschule gleichwertig ist.
 
 
 ## § 2 Förderungsrechtliche Stellung des Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/kirchenberufev/BJNR008850972.html#BJNR008850972BJNE000300327)
 
 Die Auszubildenden erhalten Ausbildungsförderung für den Besuch der in
 
@@ -81,6 +84,7 @@ anschließenden Ausbildungsjahren wie Studenten an Hochschulen.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kirchenberufev/BJNR008850972.html#BJNR008850972BJNE000400327)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 67 des
@@ -88,6 +92,7 @@ Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kirchenberufev/BJNR008850972.html#BJNR008850972BJNE000500327)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1971 in Kraft.
 

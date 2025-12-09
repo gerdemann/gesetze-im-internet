@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schuldmit_g/BJNR138410999.html#BJNR138410999BJNE000101311)
 
 (1) Der Bund übernimmt ab 1. Juli 1999 als Mitschuldner die
 Verbindlichkeiten des Erblastentilgungsfonds nach § 2 des
@@ -49,6 +50,7 @@ geltenden Fassung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schuldmit_g/BJNR138410999.html#BJNR138410999BJNE000200305)
 
 Im Innenverhältnis zu den in § 1 aufgeführten Sondervermögen ist der
 Bund alleiniger Schuldner, soweit nicht der Erblastentilgungsfonds mit
@@ -57,6 +59,7 @@ Verbindlichkeiten tilgt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schuldmit_g/BJNR138410999.html#BJNR138410999BJNE000300305)
 
 (1) Für ab dem 1. Januar 1999 und vor dem 1. Juli 1999 fällig werdende
 Zins- und Tilgungsverpflichtungen der in § 1 genannten Sondervermögen

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG000200000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000301308)
 
 (1) Güterkraftverkehr ist die geschäftsmäßige oder entgeltliche
 Beförderung von Gütern mit Kraftfahrzeugen, die einschließlich
@@ -75,6 +77,7 @@ und 3 darstellt, ist gewerblicher Güterkraftverkehr.
 
 
 ### § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000404123)
 
 (1) Die Vorschriften dieses Gesetzes finden keine Anwendung auf
 
@@ -166,10 +169,12 @@ Prüfung aushändigen oder in anderer Weise zugänglich machen.
 
 
 ## 2. Abschnitt - Gewerblicher Güterkraftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG000500000)
 
 
 
 ### § 3 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000510123)
 
 (1) Der gewerbliche Güterkraftverkehr ist erlaubnispflichtig, soweit
 sich nicht aus dem unmittelbar geltenden europäischen
@@ -292,6 +297,7 @@ Wohnsitz des Betroffenen.
 
 
 ### § 4 Unterrichtung der Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000601308)
 
 Die nach Landesrecht zuständige Behörde hat der zuständigen
 Berufsgenossenschaft unverzüglich die Erteilung der Erlaubnis
@@ -300,6 +306,7 @@ Siebten Buches Sozialgesetzbuch bleibt unberührt.
 
 
 ### § 5 Erlaubnispflicht und Gemeinschaftslizenz
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000706123)
 
 Die Gemeinschaftslizenz nach Artikel 3 und 4 der Verordnung (EG) Nr.
 1072/2009 gilt für Unternehmer, deren Unternehmenssitz im Inland
@@ -310,6 +317,7 @@ den Europäischen Wirtschaftsraum, noch die Schweiz ist.
 
 
 ### § 6 Grenzüberschreitender Güterkraftverkehr durch Gebietsfremde
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000804305)
 
 Ein Unternehmer, dessen Unternehmen seinen Sitz nicht im Inland hat,
 ist für den grenzüberschreitenden gewerblichen Güterkraftverkehr von
@@ -344,6 +352,7 @@ erforderlichen Berechtigung ist. Berechtigungen sind die
 
 
 ### § 7 Mitführungs- und Aushändigungspflichten im gewerblichen Güterkraftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE000906123)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei einer
 Güterbeförderung im Inland, für die eine Erlaubnis nach § 3 oder eine
@@ -401,6 +410,7 @@ Verlangen auszuhändigen.
 
 
 ### § 7a Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001002308)
 
 (1) Der Unternehmer ist verpflichtet, eine Haftpflichtversicherung
 abzuschließen und aufrechtzuerhalten, die die gesetzliche Haftung
@@ -444,6 +454,7 @@ aushändigen.
 
 
 ### § 7b Einsatz von ordnungsgemäß beschäftigtem Fahrpersonal
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE003103308)
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz im Inland hat,
 darf bei Fahrten im Inland im gewerblichen Güterkraftverkehr einen
@@ -482,6 +493,7 @@ zur Prüfung aushändigen.
 
 
 ### § 7c Verantwortung des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE003203308)
 
 Wer zu einem Zwecke, der seiner gewerblichen oder selbständigen
 beruflichen Tätigkeit zuzurechnen ist, einen Frachtvertrag oder einen
@@ -520,11 +532,13 @@ durch einen Verstoß gegen Satz 1 nicht berührt.
 
 
 ### § 7d
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE003301308)
 
 (weggefallen)
 
 
 ### § 8 Vorläufige Weiterführung der Güterkraftverkehrsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001101308)
 
 (1) Nach dem Tode des Unternehmers darf der Erbe die
 Güterkraftverkehrsgeschäfte vorläufig weiterführen. Das gleiche gilt
@@ -550,20 +564,24 @@ verlängert werden.
 
 
 ## 3. Abschnitt - Werkverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG001200000)
 
 
 
 ### § 9 Erlaubnis- und Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001200000)
 
 Der Werkverkehr ist erlaubnisfrei. Es besteht keine
 Versicherungspflicht.
 
 
 ## 4. Abschnitt - Bundesamt für Logistik und Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG001301123)
 
 
 
 ### § 10 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001304123)
 
 (1) Das Bundesamt für Logistik und Mobilität (Bundesamt) ist eine
 selbständige Bundesoberbehörde im Geschäftsbereich des
@@ -575,6 +593,7 @@ Verkehr und digitale Infrastruktur geregelt.
 
 
 ### § 11 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001409123)
 
 (1) Das Bundesamt erledigt Verwaltungsaufgaben des Bundes auf dem
 Gebiet des Verkehrs, die ihm durch dieses Gesetz, durch andere
@@ -682,6 +701,7 @@ des Bundesrates erlassen.
 
 
 ### § 12 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001513123)
 
 (1) Soweit dies zur Durchführung der Aufgaben nach § 11 Abs. 2
 erforderlich ist, kann das Bundesamt insbesondere auf Straßen, auf
@@ -816,6 +836,7 @@ Anschrift des Auftraggebers verlangen.
 
 
 ### § 13 Untersagung der Weiterfahrt
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001603308)
 
 (1) Das Bundesamt kann die Fortsetzung der Fahrt untersagen, soweit
 dies zur Wahrnehmung der ihm nach § 11 Abs. 2 Nr. 1 oder 3
@@ -847,6 +868,7 @@ Wirkung.
 
 
 ### § 14 Marktbeobachtung
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001706126)
 
 (1) Das Bundesamt beobachtet und begutachtet die Entwicklung des
 Marktgeschehens im Verkehr (Marktbeobachtung). Die Marktbeobachtung
@@ -874,6 +896,7 @@ gespeichert und verwendet werden.
 
 
 ### § 14a Durchführung von Beihilfeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE003401123)
 
 Das Bundesamt ist zuständig für die Durchführung von
 Beihilfeprogrammen des Bundes nach
@@ -897,6 +920,7 @@ Aufgaben im Zusammenhang mit der Beihilfegewährung.
 
 
 ### § 14b Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE005201123)
 
 (1) Das Bundesamt ist zuständig für die Aufgaben nach den Artikeln 4,
 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011 des Europäischen
@@ -911,6 +935,7 @@ entsprechend.
 
 
 ### § 15 Datei über Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen (Verkehrsunternehmensdatei)
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001806126)
 
 (1) Das Bundesamt führt die Verkehrsunternehmensdatei über alle im
 Inland niedergelassenen Unternehmen des gewerblichen
@@ -1025,6 +1050,7 @@ insbesondere das Nähere
 
 
 ### § 15a Werkverkehrsdatei
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE001903126)
 
 (1) Das Bundesamt führt eine Datei über alle im Inland
 niedergelassenen Unternehmen, die Werkverkehr mit Lastkraftwagen,
@@ -1103,6 +1129,7 @@ abgemeldet hat.
 
 
 ### § 16 Datei über abgeschlossene Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002005126)
 
 (1) Das Bundesamt darf zum Zweck der Verfolgung und Ahndung weiterer
 Ordnungswidrigkeiten derselben betroffenen Person sowie zum Zweck der
@@ -1228,6 +1255,7 @@ Speicherung zu löschen.
 
 
 ### § 17 Nationale Kontaktstelle und europäischer Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE005104126)
 
 (1) Das Bundesamt ist nationale Kontaktstelle nach Artikel 18 Absatz 1
 der Verordnung (EG) Nr. 1071/2009.
@@ -1320,6 +1348,7 @@ geändert werden.
 
 
 ### § 17a Zuständigkeit für die Durchführung internationalen Verkehrsrechts
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002104305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
@@ -1330,10 +1359,12 @@ eines internationalen Abkommens erforderlich ist.
 
 
 ## 5. Abschnitt - Überwachung, Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG002200000)
 
 
 
 ### § 18 Grenzkontrollen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002200000)
 
 Die für die Kontrolle an der Grenze zuständigen Stellen sind
 berechtigt, Kraftfahrzeuge zurückzuweisen, wenn die nach diesem Gesetz
@@ -1342,6 +1373,7 @@ Aufforderung nicht vorgelegt werden.
 
 
 ### § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002308123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1626,6 +1658,7 @@ Geltungsbereiches dieses Gesetzes begangen werden.
 
 
 ### § 20 Befugnisse des Bundesamtes bei der Verfolgung von Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002401308)
 
 (1) Bei der Durchführung der Überwachungsaufgaben nach § 11 haben das
 Bundesamt und seine Beauftragten Zuwiderhandlungen gegen die
@@ -1649,6 +1682,7 @@ Ordnungswidrigkeiten gilt entsprechend.
 
 
 ### § 21 Zuständigkeiten für die Ahndung von Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002504305)
 
 (1) Wird eine Zuwiderhandlung in einem Unternehmen begangen, das
 seinen Sitz im Inland hat, ist Verwaltungsbehörde im Sinne des § 36
@@ -1671,6 +1705,7 @@ begangen wurden.
 
 
 ### § 21a Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002602305)
 
 (1) Der Unternehmer des gewerblichen Güterkraftverkehrs und alle am
 Beförderungsvertrag Beteiligten unterliegen wegen der Erfüllung der
@@ -1706,10 +1741,12 @@ und 4 gilt entsprechend.
 
 
 ## 6. Abschnitt - Gebühren und Auslagen, Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNG002701308)
 
 
 
 ### § 22 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002705305)
 
 (1) Für Amtshandlungen nach diesem Gesetz, nach den auf diesem Gesetz
 beruhenden Rechtsvorschriften, nach Rechtsakten der Europäischen
@@ -1739,6 +1776,7 @@ unentgeltlich erteilt.
 
 
 ### § 23 Ermächtigungen zum Erlaß von Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002805305)
 
 (1) Die Bundesregierung erläßt mit Zustimmung des Bundesrates die
 allgemeinen Verwaltungsvorschriften, die zur Durchführung von
@@ -1845,5 +1883,6 @@ Vorschriften zu erlassen, durch die
 
 
 ### (XXXX) §§ 24 u. 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/g_kg_1998/BJNR148510998.html#BJNR148510998BJNE002901308)
 
 

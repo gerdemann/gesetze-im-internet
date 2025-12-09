@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000200000)
 
 (1) Dieses Gesetz regelt die Rechtsverhältnisse an Grundstücken und an
 Meliorationsanlagen in dem in Artikel 3 des Einigungsvertrages
@@ -42,6 +44,7 @@ Ufergrundstücke, verlegt sind.
 
 
 ### § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000300000)
 
 Meliorationsanlagen sind mit dem Erdboden verbundene Beregnungs- und
 andere Bewässerungs- sowie Entwässerungsanlagen, die der Verbesserung
@@ -49,10 +52,12 @@ der land- oder forstwirtschaftlichen Bodennutzung dienen.
 
 
 ## Abschnitt 2 - Anlagen zur Bewässerung
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG000400000)
 
 
 
 ### § 3 Bestellung einer Dienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000402308)
 
 (1) Der Eigentümer einer Anlage zur Bewässerung von Grundstücken oder
 zu deren Beregnung kann vom Grundstückseigentümer die Belastung des
@@ -69,6 +74,7 @@ Dienstbarkeit verjährt mit dem Ablauf des 31. Dezember 2000.
 
 
 ### § 4 Haftung des Erwerbers
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000500000)
 
 Der Erwerber der Anlage ist dem Grundstückseigentümer gegenüber nicht
 zur Beseitigung derjenigen Beeinträchtigungen des Grundstücks aus
@@ -77,6 +83,7 @@ dem Übergang der Gefahr auf den Erwerber eingetreten sind.
 
 
 ### § 5 Einreden des Grundstückseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000600000)
 
 Der Grundstückseigentümer kann die Bestellung einer Dienstbarkeit nach
 § 3 verweigern, wenn
@@ -100,6 +107,7 @@ vermuten, daß eine Nutzung auch in Zukunft nicht stattfinden wird.
 
 
 ### § 6 Bestehenbleiben in der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000700000)
 
 Eine nach § 3 Abs. 1 bestellte Dienstbarkeit bleibt im Falle einer
 Zwangsversteigerung in das Grundstück auch dann bestehen, wenn sie bei
@@ -109,6 +117,7 @@ Dezember 2005 beantragt werden, nicht anzuwenden.
 
 
 ### § 7 Anspruch auf Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000800000)
 
 Der Grundstückseigentümer kann vom Eigentümer der Anlage verlangen,
 daß dieser auf eine nach § 3 Abs. 1 eingetragene Dienstbarkeit
@@ -119,6 +128,7 @@ bestimmungsgemäßer Gebrauch nicht stattfinden wird.
 
 
 ### § 8 Wegnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE000900000)
 
 (1) Der Eigentümer der Anlage ist berechtigt, die Anlage vom
 Grundstück zu trennen und sich anzueignen, wenn das Eigentum an der
@@ -133,6 +143,7 @@ Zeitpunkt der Wegnahme hat.
 
 
 ### § 9 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001000000)
 
 (1) Der Grundstückseigentümer kann von dem Eigentümer der Anlage für
 die künftige Nutzung ein Entgelt in der Höhe verlangen, wie es für die
@@ -147,6 +158,7 @@ zu zahlenden Betrages auf zwei Jahre verlangen.
 
 
 ### § 10 Eigentumsübergang
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001102308)
 
 (1) Das Eigentum an der Anlage geht mit dem Ablauf des 31. Dezember
 2000 auf den Grundstückseigentümer über, es sei denn, daß vorher eine
@@ -165,6 +177,7 @@ Zeitpunkt des Eigentumsübergangs zu ersetzen.
 
 
 ### § 11 Ersatz der Kosten des Abbruchs der Anlage
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001201307)
 
 (1) Wird eine Dienstbarkeit nach diesem Abschnitt nicht bestellt, so
 kann der Eigentümer des Grundstücks von dem Eigentümer der Anlage
@@ -198,10 +211,12 @@ rechtshängig wird.
 
 
 ## Abschnitt 3 - Anlagen zur Entwässerung
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG001300000)
 
 
 
 ### § 12 Eigentumsübergang
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001300000)
 
 Das Eigentum an den sich auf dem Grundstück befindenden
 Entwässerungsanlagen geht mit dem 1. Januar 1995 auf den
@@ -210,6 +225,7 @@ des Grundstücks.
 
 
 ### § 13 Entschädigung für den Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001400000)
 
 Wer durch den in § 12 bestimmten Eigentumsübergang einen Rechtsverlust
 erleidet, kann vom Grundstückseigentümer eine Entschädigung nach § 951
@@ -219,6 +235,7 @@ Anlage im Zeitpunkt des Eigentumsübergangs hat.
 
 
 ### § 14 Durchleitungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001501308)
 
 (1) Die Eigentümer benachbarter Grundstücke können vom
 Grundstückseigentümer verlangen, daß dieser die Entwässerung ihrer
@@ -256,10 +273,12 @@ rechtfertigen ist.
 
 
 ## Abschnitt 4 - Bauliche Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG001600000)
 
 
 
 ### § 15 Ansprüche der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001601308)
 
 (1) Sind die Meliorationsanlagen nach Art oder Größe so beschaffen,
 daß
@@ -309,10 +328,12 @@ Fällen gilt selbständiges Anlageneigentum als entstanden.
 
 
 ## Abschnitt 5 - Offene Gewässer
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG001700000)
 
 
 
 ### § 16 Eigentumsbestimmung nach den Wassergesetzen
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001700000)
 
 Die Bestimmungen der §§ 3 bis 15 sind auf offene Gewässer nicht
 anzuwenden. Die landesgesetzlichen Regelungen über das Eigentum an
@@ -320,10 +341,12 @@ oberirdischen Gewässern bleiben unberührt.
 
 
 ## Abschnitt 6 - Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNG001800000)
 
 
 
 ### § 17 Verhältnis zu anderen Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001800000)
 
 (1) Ansprüche nach diesem Gesetz können nicht geltend gemacht werden,
 soweit ein Verfahren nach dem Flurbereinigungsgesetz oder ein
@@ -336,6 +359,7 @@ unberührt.
 
 
 ### § 18 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/meanlg/BJNR255000994.html#BJNR255000994BJNE001900307)
 
 Ein Eigentumsübergang nach § 10 Abs. 2 in der vor dem 28. Dezember
 1996 geltenden Fassung bleibt unberührt.

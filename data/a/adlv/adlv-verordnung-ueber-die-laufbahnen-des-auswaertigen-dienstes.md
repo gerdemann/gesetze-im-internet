@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000200000)
 
 Diese Verordnung gilt für die Beamtinnen und Beamten der Laufbahnen
 des Auswärtigen Dienstes sowie für die Bewerberinnen und Bewerber für
@@ -27,6 +29,7 @@ diese Laufbahnen.
 
 
 ### § 2 Laufbahnen und Ämter des Auswärtigen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000300000)
 
 Laufbahnen des Auswärtigen Dienstes sind
 
@@ -43,9 +46,11 @@ Laufbahnen des Auswärtigen Dienstes sind
 
 
 ## Abschnitt 2 - Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNG000200000)
 
 
 ### § 3 Einrichtung von Vorbereitungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000400000)
 
 Für die Laufbahnen nach § 2 werden Vorbereitungsdienste eingerichtet.
 Näheres bestimmen die folgenden Verordnungen über die
@@ -67,6 +72,7 @@ Vorbereitungsdienste für die jeweiligen Laufbahnen:
 
 
 ### § 4 Einstellungsbehörde, Dienstbehörde, Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000500000)
 
 (1) Einstellungsbehörde für den Vorbereitungsdienst und Dienstbehörde
 ist das Auswärtige Amt.
@@ -77,15 +83,18 @@ Vorbereitungsdienst einzureichen sind.
 
 
 ### § 5 Dienstbezeichnungen im Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000600000)
 
 Die Beamtinnen und Beamten führen während des Vorbereitungsdienstes
 die in der Anlage aufgeführten Dienstbezeichnungen.
 
 
 ## Abschnitt 3 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNG000300000)
 
 
 ### § 6 Aufstiegsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000700000)
 
 (1) Der Aufstieg in die nächsthöhere Laufbahngruppe erfolgt nach
 erfolgreichem Abschluss des Aufstiegsverfahrens. Voraussetzung für den
@@ -135,6 +144,7 @@ Ausschreibungsfrist
 
 
 ### § 7 Verkürzter Aufstieg in den gehobenen Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000800000)
 
 (1) Beim Aufstieg in den gehobenen Auswärtigen Dienst kann der
 Vorbereitungsdienst für Beamtinnen und Beamte des mittleren
@@ -156,6 +166,7 @@ Ablauf der Ausschreibungsfrist
 
 
 ### § 8 Vorauswahl
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE000900000)
 
 Das Auswärtige Amt kann auf der Grundlage der dienstlichen
 Beurteilungen und sonstiger auf Eignung, Befähigung und fachliche
@@ -164,9 +175,11 @@ eine Vorauswahl für die Teilnahme am Auswahlverfahren treffen.
 
 
 ## Abschnitt 4 - Laufbahnwechsel in den gehobenen Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNG000400000)
 
 
 ### § 9 Voraussetzungen für den Laufbahnwechsel in den gehobenen Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE001000000)
 
 (1) Liegen bei einer Beamtin auf Lebenszeit oder einem Beamten auf
 Lebenszeit die Voraussetzungen für die Anerkennung der Befähigung für
@@ -203,6 +216,7 @@ gehobenen Auswärtigen Dienst entsprechend anzuwenden.
 
 
 ### § 10 Qualifizierung für den Laufbahnwechsel in den gehobenen Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE001100000)
 
 (1) Die Qualifizierung vermittelt den Beamtinnen und Beamten
 laufbahnspezifische Kompetenzen. Sie umfasst
@@ -267,9 +281,11 @@ Auswärtigen Dienst entsprechend.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNG000500000)
 
 
 ### § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE001200000)
 
 Auf vor dem 25. März 2025 begonnene Verfahren des Aufstiegs und des
 Laufbahnwechsels nach den §§ 6 bis 10 dieser Verordnung sind
@@ -298,6 +314,7 @@ anzuwenden:
 (zu § 5)
 
 ### Anlage Dienstbezeichnungen im Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/adlv/BJNR05C0B0025.html#BJNR05C0B0025BJNE001300000)
 
 (Fundstelle: BGBl. 2025 I Nr. 92, S. 5)
 

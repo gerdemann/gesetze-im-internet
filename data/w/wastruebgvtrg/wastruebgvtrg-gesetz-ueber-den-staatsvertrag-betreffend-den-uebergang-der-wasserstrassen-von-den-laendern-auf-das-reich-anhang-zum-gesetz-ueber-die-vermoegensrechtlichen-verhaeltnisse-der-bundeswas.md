@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrg/BJNR009610921.html#BJNR009610921BJNE000100308)
 
 Der Reichstag hat das folgende Gesetz beschlossen, das mit Zustimmung
 des Reichsrats hiermit verkündet wird:

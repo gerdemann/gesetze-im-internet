@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000100314)
 
 Auf Grund des § 10 Abs. 2 des Gesetzes über die Sozialversicherung
 Behinderter in geschützten Einrichtungen vom 7. Mai 1975
@@ -29,6 +30,7 @@ Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000205126)
 
 (1) In den Fällen des § 1 Satz 1 Nummer 2 Buchstabe a und des § 162
 Nummer 2 und 2a des Sechsten Buches Sozialgesetzbuch werden den
@@ -52,12 +54,14 @@ nimmt das Bundesamt für Soziale Sicherung wahr.
 
 
 ## § 2 Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000300314)
 
 Die zu erstattenden Beträge werden nachträglich nach Einzelfällen
 abgerechnet. Abrechnungszeitraum ist das Kalenderjahr.
 
 
 ## § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000404119)
 
 (1) Die Abrechnung der Träger der Einrichtungen und der anderen
 Leistungsanbieter nach § 60 des Neunten Buches Sozialgesetzbuch mit
@@ -111,6 +115,7 @@ vereinbaren.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000505126)
 
 (1) Die nach Landesrecht zuständige Stelle teilt dem Bundesamt für
 Soziale Sicherung möglichst frühzeitig, spätestens jedoch bis zum 30.
@@ -132,11 +137,13 @@ auszugleichen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000801308)
 
 Diese Verordnung tritt mit Wirkung vom 2. Juli 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/aufwerstv/BJNR018960975.html#BJNR018960975BJNE000900314)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

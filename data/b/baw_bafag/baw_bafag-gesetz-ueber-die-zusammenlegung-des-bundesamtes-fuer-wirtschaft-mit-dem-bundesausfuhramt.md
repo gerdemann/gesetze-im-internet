@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/baw_bafag/BJNR195700000.html#BJNR195700000BJNE000101118)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Wirtschaft und
 Energie wird das Bundesamt für Wirtschaft in das Bundesausfuhramt
@@ -32,6 +33,7 @@ Bundesausfuhramt über.
 
 
 ## § 2 Übergang von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/baw_bafag/BJNR195700000.html#BJNR195700000BJNE000200305)
 
 Das vom Bundesamt für Wirtschaft genutzte bewegliche
 Verwaltungsvermögen der Bundesrepublik Deutschland wird als Ganzes dem
@@ -41,12 +43,14 @@ Deutschland begründet hat, gehen auf das Bundesausfuhramt über.
 
 
 ## § 3 Bezeichnung des Bundesausfuhramtes
+[Direktlink](https://www.gesetze-im-internet.de/baw_bafag/BJNR195700000.html#BJNR195700000BJNE000300305)
 
 Das Bundesausfuhramt erhält die Bezeichnung "Bundesamt für Wirtschaft
 und Ausfuhrkontrolle (BAFA)".
 
 
 ## § 4 Anpassung von Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/baw_bafag/BJNR195700000.html#BJNR195700000BJNE000401118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates

@@ -20,6 +20,7 @@ Textnachweis ab: 15.12.2011
 
 
 ## Artikel 1 Rechtsfähigkeit des Gemeinsamen Wattenmeersekretariats
+[Direktlink](https://www.gesetze-im-internet.de/cwssrechtsg/BJNR126020011.html#BJNR126020011BJNE000100000)
 
 (1) Das Gemeinsame Wattenmeersekretariat (Common Wadden Sea
 Secretariat, CWSS), das aufgrund des deutsch-dänisch-niederländischen
@@ -45,6 +46,7 @@ Sekretär oder die Sekretärin vertreten.
 
 
 ## Artikel 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/cwssrechtsg/BJNR126020011.html#BJNR126020011BJNE000200000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

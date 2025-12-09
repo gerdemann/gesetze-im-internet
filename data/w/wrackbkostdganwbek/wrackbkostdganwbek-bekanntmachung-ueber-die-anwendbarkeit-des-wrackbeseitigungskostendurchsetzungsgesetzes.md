@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdganwbek/BJNR032100015.html#BJNR032100015BJNE000100000)
 
 Nach § 5 Absatz 2 des Wrackbeseitigungskostendurchsetzungsgesetzes vom
 4\. Juni 2013 (BGBl. I S. 1471, 1478) in Verbindung mit § 1 Absatz 2
@@ -29,6 +30,7 @@ dem 14. April 2015 anzuwenden sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdganwbek/BJNR032100015.html#BJNR032100015BJNE000200000)
 
 Bundesministerium
 für Verkehr und digitale Infrastruktur

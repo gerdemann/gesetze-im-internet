@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Strafbefreiende Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/strbeg/BJNR110930988.html#BJNR110930988BJNE000100304)
 
 (1) Wer bis 31. Dezember 1990 bei der Finanzbehörde für die
 Besteuerung der Einkünfte aus Kapitalvermögen erhebliche Angaben in
@@ -74,6 +75,7 @@ Einkünfte geflossen sind, gelten die Absätze 1 bis 3 entsprechend.
 
 
 ## § 2 Absehen von Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/strbeg/BJNR110930988.html#BJNR110930988BJNE000200304)
 
 (1) Im Fall einer strafbefreienden Erklärung nach § 1 Abs. 1 werden
 die auf die Einkünfte aus Kapitalvermögen und auf das Kapitalvermögen
@@ -99,6 +101,7 @@ setzen.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/strbeg/BJNR110930988.html#BJNR110930988BJNE000300304)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.

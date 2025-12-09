@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1993/BJNR030390993.html#BJNR030390993BJNE000100333)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
 22\. Januar 1993 bekannt, der mit sofortiger Wirkung in Kraft tritt:

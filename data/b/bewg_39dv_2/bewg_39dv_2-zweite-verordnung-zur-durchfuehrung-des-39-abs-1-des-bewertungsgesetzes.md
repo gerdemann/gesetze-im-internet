@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_2/BJNR011910967.html#BJNR011910967BJNE000100306)
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
@@ -25,6 +26,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_2/BJNR011910967.html#BJNR011910967BJNE000200306)
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
 Vergleichszahlen festgesetzt. Sie sind für die weinbauliche Nutzung
@@ -32,6 +34,7 @@ der Anlage zu entnehmen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_2/BJNR011910967.html#BJNR011910967BJNE000300306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8
@@ -40,12 +43,14 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_2/BJNR011910967.html#BJNR011910967BJNE000400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage Hauptbewertungsstützpunkte der weinbaulichen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_2/BJNR011910967.html#BJNR011910967BJNE000500306)
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 1191 - 1198)
 **A. Vorbemerkungen**

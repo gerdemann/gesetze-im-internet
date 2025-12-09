@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000100000)
 
 Auf Grund des § 10a Absatz 1 und 3 des Soldatenversorgungsgesetzes in
 der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S.
@@ -27,9 +28,11 @@ der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S.
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000100000)
 
 
 ### § 1 Abschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000301377)
 
 An Bundeswehrfachschulen können folgende Abschlüsse erlangt werden:
 
@@ -79,6 +82,7 @@ An Bundeswehrfachschulen können folgende Abschlüsse erlangt werden:
 
 
 ### § 2 Zugangsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000401377)
 
 (1) Das Vorliegen der Zugangsvoraussetzungen für die Teilnahme an der
 Abschlussprüfung wird durch die Bundeswehrfachschule sichergestellt.
@@ -129,6 +133,7 @@ der angestrebte Abschluss bereits erworben wurde.
 
 
 ### § 3 Bestandteile, Zeitpunkt und Organisation der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000500000)
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen
 Teil (§§ 11 und 14).
@@ -142,6 +147,7 @@ Schulleiter zuständig.
 
 
 ### § 4 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000601377)
 
 (1) Für die Durchführung der Prüfung wird ein Prüfungsausschuss
 gebildet.
@@ -185,6 +191,7 @@ Ausschlag.
 
 
 ### § 5 Unterausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000701377)
 
 (1) Zur Durchführung der mündlichen Abschlussprüfung kann die oder der
 Vorsitzende aus den Mitgliedern des Prüfungsausschusses und weiteren
@@ -209,9 +216,11 @@ durch gleichzeitige Prüfungen die Gesamtprüfungsdauer zu verkürzen.
 
 
 ## Abschnitt 2 - Anmeldung und Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000200000)
 
 
 ### § 6 Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000801377)
 
 (1) Die Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer haben sich im
 Prüfungshalbjahr schriftlich oder elektronisch bei der Schulleitung
@@ -225,6 +234,7 @@ wählt.
 
 
 ### § 7 Anmeldefrist
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE000900000)
 
 (1) Für die Anmeldung zur Prüfung gilt die von der Schulleitung
 bestimmte Frist.
@@ -237,6 +247,7 @@ oder der Schulleiter zum weiteren Prüfungsverfahren zu.
 
 
 ### § 8 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001000000)
 
 (1) Über die Zulassung zur Prüfung entscheidet die oder der
 Vorsitzende des Prüfungsausschusses.
@@ -249,6 +260,7 @@ geben.
 
 
 ### § 9 Prüfungsliste
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001100000)
 
 Die Schulleitung erstellt eine Prüfungsliste mit allen zur Prüfung
 zugelassenen Lehrgangsteilnehmerinnen und Lehrgangsteilnehmern. In die
@@ -258,6 +270,7 @@ die Endnoten und die Gesamtnote einzutragen.
 
 
 ### § 10 Vornoten
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001201377)
 
 (1) Aus den Leistungen, die während des Prüfungshalbjahrs in einem
 Fach erbracht worden sind, ermittelt die Fachlehrkraft eine Vornote
@@ -276,9 +289,11 @@ fest.
 
 
 ## Abschnitt 3 - Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000300000)
 
 
 ### § 11 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001301377)
 
 (1) Zur schriftlichen Abschlussprüfung zur Erlangung des
 Hauptschulabschlusses gehören:
@@ -380,6 +395,7 @@ Schulaufsichtsbehörden der Länder festgelegt.
 
 
 ### § 12 Vorschlag für die Aufgaben der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001400000)
 
 (1) Für jedes Prüfungsfach erstellen grundsätzlich die Fachlehrkräfte,
 die in den Fächern der schriftlichen Abschlussprüfung regelmäßig
@@ -407,6 +423,7 @@ obersten Schulbehörde des Landes an die Schulleitung zurück.
 
 
 ### § 13 Durchführung der schriftlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001500000)
 
 (1) Die Schulleiterin oder der Schulleiter bestimmt im Einvernehmen
 mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des
@@ -436,9 +453,11 @@ können von den Mitgliedern des Prüfungsausschusses eingesehen werden.
 
 
 ## Abschnitt 4 - Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000400000)
 
 
 ### § 14 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001600000)
 
 (1) In jedem Fach, das im Prüfungshalbjahr unterrichtet worden ist,
 kann eine mündliche Abschlussprüfung durchgeführt werden. Sie ist eine
@@ -466,6 +485,7 @@ Antrags ist nicht zulässig.
 
 
 ### § 15 Vorbereitung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001700000)
 
 (1) Die Schulleiterin oder der Schulleiter bestimmt im Einvernehmen
 mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des
@@ -496,6 +516,7 @@ ihre mündlichen Abschlussprüfungen durchgeführt werden.
 
 
 ### § 16 Aufgaben der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001800000)
 
 Die Prüfungsaufgabe, die zulässigen Hilfsmittel, den
 Erwartungshorizont und das Bewertungsschema soll die Fachlehrkraft
@@ -504,6 +525,7 @@ unterrichtet hat.
 
 
 ### § 17 Durchführung der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE001900000)
 
 (1) Die mündliche Abschlussprüfung findet als Einzelprüfung vor dem
 Prüfungsausschuss oder einem Unterausschuss statt. Die Prüfung sowie
@@ -524,6 +546,7 @@ Prüfungsausschuss bindend.
 
 
 ### § 18 Zuhörerinnen und Zuhörer der mündlichen Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002001377)
 
 (1) Mit Zustimmung des Prüflings und der oder des Beauftragten der
 obersten Schulaufsichtsbehörde des Landes können als Zuhörerinnen und
@@ -544,9 +567,11 @@ Zuhörer der mündlichen Abschlussprüfung eingeladen werden:
 
 
 ## Abschnitt 5 - Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000500000)
 
 
 ### § 19 Festsetzung der Endnoten
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002100000)
 
 (1) Nach Beendigung der mündlichen Abschlussprüfung setzt der
 Prüfungsausschuss die Endnoten fest. Zwischennoten sind nicht
@@ -588,6 +613,7 @@ gerundet, und zwar
 
 
 ### § 20 Gesamtergebnis und Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002200000)
 
 (1) Das Gesamtergebnis der Prüfung lautet „bestanden“ oder „nicht
 bestanden“.
@@ -613,6 +639,7 @@ Vorsitzende oder den Vorsitzenden bekannt zu geben.
 
 
 ### § 21 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002300000)
 
 (1) Nach bestandener Prüfung erhalten die Prüflinge ein
 Abschlusszeugnis, das die Gesamtnote sowie die Endnoten der während
@@ -632,9 +659,11 @@ eine Bescheinigung über den Besuch der Bundeswehrfachschule.
 
 
 ## Abschnitt 6 - Allgemeine Vorschriften für die Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNG000600000)
 
 
 ### § 22 Rücktritt oder Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002400000)
 
 (1) Tritt ein Prüfling von der Prüfung zurück oder nimmt er ohne einen
 wichtigen Grund an der Prüfung nicht teil, gilt die Prüfung als nicht
@@ -661,6 +690,7 @@ obersten Schulaufsichtsbehörde des Landes festgelegt.
 
 
 ### § 23 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002500000)
 
 (1) Prüflingen, die bei der Prüfung täuschen, eine Täuschung
 versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen,
@@ -699,6 +729,7 @@ Betroffenen anzuhören.
 
 
 ### § 24 Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002600000)
 
 Vor Beginn der schriftlichen Abschlussprüfung hat die Schulleiterin
 oder der Schulleiter den Prüflingen die Bestimmungen der §§ 22 und 23
@@ -706,6 +737,7 @@ bekannt zu geben. Die Bekanntgabe ist zu dokumentieren.
 
 
 ### § 25 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002700000)
 
 (1) Prüflinge, die die Prüfung nicht bestanden haben, können die
 Prüfung einmal wiederholen, und zwar frühestens am Ende des folgenden
@@ -715,6 +747,7 @@ Studienhalbjahrs.
 
 
 ### § 26 Prüfungsprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002800000)
 
 (1) Der Verlauf der schriftlichen und der mündlichen Abschlussprüfung
 ist zu protokollieren.
@@ -806,6 +839,7 @@ Abschlussprüfung als Anlage beizufügen. Sie müssen jeweils enthalten:
 
 
 ### § 27 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE002900000)
 
 Gegen die Entscheidung des Prüfungsausschusses steht dem Prüfling das
 Recht des Widerspruchs oder der Beschwerde nach der
@@ -816,6 +850,7 @@ Vorsitzenden entsandt hat, ist zu beteiligen.
 
 
 ### § 28 Prüfungsakte
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE003000000)
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -841,6 +876,7 @@ wird 30 Jahre aufbewahrt und sodann vernichtet.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bwfsprv/BJNR066300015.html#BJNR066300015BJNE003300000)
 
 Der Bundesrat hat zugestimmt.
 

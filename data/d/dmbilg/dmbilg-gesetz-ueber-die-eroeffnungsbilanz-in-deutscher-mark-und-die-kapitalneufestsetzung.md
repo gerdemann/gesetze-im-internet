@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Inventar. Eröffnungsbilanz. Anhang
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG000202307)
 
 
 
 ### Unterabschnitt 1 - Inventar. Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG000302307)
 
 
 
 #### § 1 Pflicht zur Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE000405307)
 
 (1) Unternehmen mit Hauptniederlassung (Sitz) in der Deutschen
 Demokratischen Republik am 1. Juli 1990, die als Kaufleute nach § 238
@@ -115,6 +118,7 @@ nachgereicht werden.
 
 
 #### § 2 Inventar
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE000502307)
 
 Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs
 entsprechend anzuwenden. In das Inventar sind auch solche
@@ -125,6 +129,7 @@ die Eröffnungsbilanz aus ehemals volkseigenem Vermögen unentgeltlich
 
 
 #### § 3 Inventur
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE000602307)
 
 (1) Für die Aufstellung des Inventars braucht eine Inventur zur
 mengenmäßigen Erfassung der Vermögensgegenstände und Schulden nicht
@@ -178,6 +183,7 @@ bis 5 berücksichtigt sind.
 
 
 #### § 3a Nachholung der Inventur
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008202307)
 
 (1) Ist die nach § 3 vorgeschriebene Inventur nicht oder nicht
 ordnungsgemäß durchgeführt worden, so ist eine den Anforderungen des §
@@ -205,6 +211,7 @@ werden. Ihre Ordnungsmäßigkeit wird bestätigt."
 
 
 #### § 4 Aufstellung der Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE000704307)
 
 (1) Die Eröffnungsbilanz und der Anhang sind in den ersten vier
 Monaten des Geschäftsjahrs aufzustellen. Unternehmen, die in der
@@ -251,6 +258,7 @@ worden ist.
 
 
 #### § 5 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE000802307)
 
 (1) Auf die Eröffnungsbilanz sind die §§ 243 bis 261 des
 Handelsgesetzbuchs mit Ausnahme von § 243 Abs. 3, § 247 Abs. 3, §§
@@ -275,10 +283,12 @@ Anspruch nehmen.
 
 
 ### Unterabschnitt 2 - Bilanzansatz- und Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG000902307)
 
 
 
 #### § 6 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001003307)
 
 (1) Bei der Bewertung der in der Eröffnungsbilanz ausgewiesenen
 Vermögensgegenstände und Schulden gilt insbesondere folgendes:
@@ -315,6 +325,7 @@ dürfen jedoch in den Folgebilanzen nicht überschritten werden.
 
 
 #### § 7 Neubewertung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001104307)
 
 (1) Vermögensgegenstände und Schulden sind neu zu bewerten.
 Vermögensgegenstände sind mit ihren Wiederbeschaffungs- oder
@@ -376,6 +387,7 @@ Bildung des gezeichneten Kapitals benötigt wird.
 
 
 #### § 8 Immaterielle Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001202307)
 
 (1) Das Bilanzierungsverbot des § 248 Abs. 2 des Handelsgesetzbuchs
 für selbst geschaffene immaterielle Vermögensgegenstände des
@@ -399,6 +411,7 @@ Abs. 4 des Handelsgesetzbuchs abzuschreiben.
 
 
 #### § 9 Grund und Boden
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001304307)
 
 (1) Grund und Boden ist mit seinem Verkehrswert anzusetzen. Dabei darf
 die Preisentwicklung im gesamten Währungsgebiet der Deutschen Mark bis
@@ -426,6 +439,7 @@ anzugeben.
 
 
 #### § 10 Bauten und andere Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001404307)
 
 (1) Gebäude und andere Bauten, technische und andere Anlagen,
 Maschinen, Betriebs- und Geschäftsausstattung sind mit ihren
@@ -448,6 +462,7 @@ Handelsgesetzbuchs gebildet wird.
 
 
 #### § 11 Finanzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001503307)
 
 (1) Beteiligungen an einem anderen Unternehmen nach § 1 sind in der
 Eröffnungsbilanz mit dem Betrag anzusetzen, der dem ausgewiesenen
@@ -471,6 +486,7 @@ Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.
 
 
 #### § 12 Vorräte
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001602307)
 
 (1) Roh-, Hilfs- und Betriebsstoffe sind mit ihren Wiederbeschaffungs-
 oder Wiederherstellungskosten anzusetzen.
@@ -495,6 +511,7 @@ unberührt.
 
 
 #### § 13 Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001702307)
 
 (1) Auf Mark der Deutschen Demokratischen Republik lautende
 Forderungen, die vor dem 1. Juli 1990 begründet wurden, werden, soweit
@@ -523,6 +540,7 @@ wie Forderungen zu bewerten, jedoch nicht abzuzinsen.
 
 
 #### § 14 Kassenbestand, Schecks, Guthaben bei Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001802307)
 
 (1) Zahlungsmittel in Mark der Deutschen Demokratischen Republik sind
 nur anzusetzen, soweit sie weiterhin gesetzliche Zahlungsmittel sind.
@@ -535,6 +553,7 @@ Deutscher Mark gutbringen muß.
 
 
 #### § 15 Rechnungsabgrenzungsposten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE001902307)
 
 Aktive und passive Rechnungsabgrenzungsposten nach § 250 des
 Handelsgesetzbuchs sind im Verhältnis von zwei Mark der Deutschen
@@ -543,6 +562,7 @@ nicht ein anderes Umstellungsverhältnis vorgeschrieben ist.
 
 
 #### § 16 Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002004307)
 
 (1) Auf Mark der Deutschen Demokratischen Republik lautende
 Verbindlichkeiten, die vor dem 1. Juli 1990 begründet wurden, werden,
@@ -598,6 +618,7 @@ nicht zu bilanzieren.
 
 
 #### § 17 Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002104307)
 
 (1) Ungewisse Verbindlichkeiten, die vor dem 1. Juli 1990 in Mark der
 Deutschen Demokratischen Republik begründet wurden, sind wie
@@ -687,6 +708,7 @@ Abs. 3 und 4 ist entsprechend anzuwenden.
 
 
 #### § 18 Währungsumrechnung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002202307)
 
 Auf ausländische Währung lautende Vermögensgegenstände, Schulden und
 Rechnungsabgrenzungsposten sowie am Bilanzstichtag nicht abgewickelte
@@ -698,10 +720,12 @@ Lieferverpflichtungen mit dem Briefkurs umzurechnen.
 
 
 ### Unterabschnitt 3 - Anhang. Vergleichende Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG002302307)
 
 
 
 #### § 19 Anhang
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002402307)
 
 (1) Im Anhang sind die auf die Posten der Eröffnungsbilanz angewandten
 Bilanzierungs- und Bewertungsmethoden, insbesondere die bei der
@@ -821,6 +845,7 @@ unterbleiben, soweit sie
 
 
 #### § 20 Vergleichende Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002503307)
 
 Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben
 dem Anhang eine vergleichende Darstellung als Anlage beizufügen, aus
@@ -835,10 +860,12 @@ sind durch Einzelnachweise zu dokumentieren.
 
 
 ## Abschnitt 2 - Konzerneröffnungsbilanz. Gesamteröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG002602307)
 
 
 
 ### § 21 Pflicht zur Aufstellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002704301)
 
 (1) Zur Aufstellung einer Eröffnungsbilanz verpflichtete Unternehmen,
 die die Mehrheit der Anteile an einem anderen Unternehmen
@@ -913,6 +940,7 @@ den Konzernanhang geltenden Vorschriften entsprechend anzuwenden.
 
 
 ### § 22 Konzernanhang
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002802307)
 
 (1) Auf den Konzernanhang ist § 19 entsprechend anzuwenden. Aus den
 Anhängen der Tochterunternehmen sind jedoch nur diejenigen Angaben
@@ -925,6 +953,7 @@ Handelsgesetzbuchs ist anzuwenden.
 
 
 ### § 23 Vorlage- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE002902307)
 
 (1) Jedes Mutterunternehmen kann von seinen Tochterunternehmen alle
 Aufklärungen und Nachweise verlangen, welche die Aufstellung der
@@ -944,14 +973,17 @@ Feststellung mitzuteilen, sobald diese erfolgt ist.
 
 
 ## Abschnitt 3 - Kapitalausstattung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG003002307)
 
 
 
 ### Unterabschnitt 4 - Vermögensausgleich und Eigenkapitalsicherung von bisher volkseigenen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG003102307)
 
 
 
 #### § 24 Ausgleichsforderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003204307)
 
 (1) Unternehmen, die als bisher volkseigenes Vermögen der
 Treuhandanstalt oder einem ihrer Tochterunternehmen zur Privatisierung
@@ -1023,6 +1055,7 @@ Abs. 4, § 28 Abs. 1 zu ersetzen.
 
 
 #### § 25 Ausgleichsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003304307)
 
 (1) Ergibt sich bei der Aufstellung der Eröffnungsbilanz von in § 24
 Abs. 1 Satz 1 bezeichneten Unternehmen, daß ein höheres Eigenkapital
@@ -1085,6 +1118,7 @@ zu berichtigen. Absatz 5 Satz 2 ist entsprechend anzuwenden.
 
 
 #### § 26 Eigenkapitalsicherung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003404307)
 
 (1) Unternehmen im Sinne des § 24 Abs. 1 Satz 1 haben als Eigenkapital
 den Betrag auszuweisen, um den der Gesamtbetrag der auf der Aktivseite
@@ -1125,10 +1159,12 @@ ausgewiesen wird. § 30 ist anzuwenden.
 
 
 ### Unterabschnitt 5 - Neufestsetzung der Kapitalverhältnisse privater Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG003502307)
 
 
 
 #### § 27 Neufestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003604307)
 
 (1) Dieser Unterabschnitt ist auf alle Unternehmen anzuwenden, auf die
 § 24 nach dessen Absatz 1 Satz 1 nicht anzuwenden ist, auch wenn sie
@@ -1216,6 +1252,7 @@ Unternehmens am nächsten kommt.
 
 
 #### § 28 Vorläufige Neufestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003702307)
 
 (1) An Stelle einer endgültigen Neufestsetzung nach § 27 kann von
 Unternehmen, die nicht Geldinstitute oder Außenhandelsbetriebe sind,
@@ -1244,6 +1281,7 @@ ist unzulässig, solange das Kapitalentwertungskonto besteht.
 
 
 #### § 29 Gesellschaftsrechtliche Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003802307)
 
 (1) Das Verhältnis der mit den Anteilen verbundenen Rechte zueinander
 wird durch die Neufestsetzung nicht berührt.
@@ -1269,6 +1307,7 @@ Anteilseignern zum Bezug anzubieten.
 
 
 #### § 30 Auflösung von Kapitalentwertungskonten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE003902307)
 
 (1) Wird ein Kapitalentwertungskonto nicht innerhalb der in § 28 Abs.
 2 Satz 4 bestimmten Frist ausgeglichen, so hat das für
@@ -1289,10 +1328,12 @@ Aktiengesetzes über die vereinfachte Kapitalherabsetzung anzuwenden.
 
 
 ### Unterabschnitt 6 - Vorläufige Gewinnrücklage
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG004002307)
 
 
 
 #### § 31 Vorläufige Gewinnrücklage
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE004103307)
 
 (1) Unternehmen dürfen, wenn sie nicht Geldinstitute oder
 Außenhandelsbetriebe sind, folgende Maßnahmen treffen, um eine
@@ -1371,10 +1412,12 @@ Bezeichnung auszuweisen und im Anhang zu erläutern.
 
 
 ## Abschnitt 4 - Festsetzung und Anpassung von Leistungen in Deutscher Mark
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG004202307)
 
 
 
 ### § 32 Festsetzung und Anpassung von Leistungen in Deutscher Mark
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE004303310)
 
 (1) Verweisen Verträge, die erst nach dem 30. Juni 1990 zu erfüllen
 sind, auf Preise, die bisher nach staatlichen Preisvorschriften
@@ -1397,14 +1440,17 @@ einem Verlust führen wird.
 
 
 ## Abschnitt 5 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG004402307)
 
 
 
 ### Unterabschnitt 7 - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG004502307)
 
 
 
 #### § 33 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE004603307)
 
 (1) Die Eröffnungsbilanz und der Anhang, jedoch ohne die vergleichende
 Darstellung nach § 20, sind durch einen Prüfer zu prüfen. Hat keine
@@ -1484,6 +1530,7 @@ in § 34 Abs. 2 bezeichneten Prüfungsverbände anzuwenden.
 
 
 #### § 34 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE004704301)
 
 (1) Prüfer können nach der Wirtschaftsprüferordnung der Bundesrepublik
 Deutschland bestellte und vereidigte Wirtschaftsprüfer und anerkannte
@@ -1535,10 +1582,12 @@ Wahl des Prüfers berufenen Personen ist unverzüglich nachzuholen.
 
 
 ### Unterabschnitt 8 - Feststellung und Berichtigung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG004802307)
 
 
 
 #### § 35 Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE004903307)
 
 (1) Die Eröffnungsbilanz und der Anhang sowie die
 Konzerneröffnungsbilanz und der Konzernanhang bedürfen der
@@ -1590,6 +1639,7 @@ nächstfolgenden Abschlusses nach § 36 berücksichtigt werden.
 
 
 #### § 36 Berichtigung von Wertansätzen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005005307)
 
 (1) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß
 Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz nicht
@@ -1692,10 +1742,12 @@ hervorgegangen sind.
 
 
 ### Unterabschnitt 9 - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG005102307)
 
 
 
 #### § 37 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005203307)
 
 (1) Unternehmen haben die Eröffnungsbilanz und den Anhang sowie die
 Konzerneröffnungsbilanz und den Konzernanhang innerhalb eines Monats
@@ -1732,14 +1784,17 @@ Treuhandanstalt in zweifacher Ausfertigung einzureichen.
 
 
 ## Abschnitt 6 - Geschäftszweigbezogene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG005302307)
 
 
 
 ### Unterabschnitt 10a - Vorschriften für Geldinstitute und Außenhandelsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG005403307)
 
 
 
 #### § 38 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005504307)
 
 (1) Geldinstitute und Außenhandelsbetriebe haben die Vorschriften
 dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts
@@ -1774,6 +1829,7 @@ berücksichtigt werden.
 
 
 #### § 39 Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005602307)
 
 (1) Geldinstitute haben abweichend von § 247 Abs. 1, §§ 251, 265 Abs.
 5 bis 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer
@@ -1839,6 +1895,7 @@ oder Stellen einen entsprechenden Antrag gestellt haben.
 
 
 #### § 40 Ausgleichsforderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005703307)
 
 (1) Geldinstituten und Außenhandelsbetrieben wird, soweit ihre
 Vermögenswerte in Anwendung der Bewertungsvorschriften des
@@ -1869,6 +1926,7 @@ die Wesentlichkeit ankommt. § 36 Abs. 4 Satz 3 ist nicht anzuwenden.
 
 
 #### § 41 Ausgleichsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005803307)
 
 (1) Geldinstitute und Außenhandelsbetriebe haben in ihre
 Eröffnungsbilanz zum 1. Juli 1990 Verbindlichkeiten gegenüber dem
@@ -1882,6 +1940,7 @@ entsprechend anzuwenden.
 
 
 #### § 42 Vergleichende Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE005902307)
 
 Geldinstitute haben in der vergleichenden Darstellung nach § 20
 außerdem anzugeben,
@@ -1917,6 +1976,7 @@ außerdem anzugeben,
 
 
 #### § 43 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006002307)
 
 (1) Geldinstitute und Außenhandelsbetriebe in der Rechtsform einer
 Kapitalgesellschaft oder des öffentlichen Rechts können abweichend von
@@ -1933,10 +1993,12 @@ Republik für die Wiedereinsetzung in den vorigen Stand vorlagen.
 
 
 ### Unterabschnitt 10b - Abführungspflicht für Geldinstitute und Außenhandelsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG008001307)
 
 
 
 #### § 43a Abführungspflicht für wertberichtigte Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008801307)
 
 (1) Ein Geldinstitut ist verpflichtet, Zins- und Tilgungsbeträge, die
 der Schuldner oder ein Dritter nach dem 31. Dezember 1994 und vor dem
@@ -1956,6 +2018,7 @@ in seine D-Markeröffnungsbilanz aufgenommen hat.
 
 
 #### § 43b Abführungspflicht für wertberichtigte Schulden
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008901307)
 
 Ist eine in der D-Markeröffnungsbilanz berücksichtigte Verbindlichkeit
 oder Rückstellung nach dem 31. Dezember 1994 und vor dem 1. Januar
@@ -1969,6 +2032,7 @@ Zinssatz zu verzinsen.
 
 
 #### § 43c Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE009001307)
 
 Eingehende Zins- und Tilgungsbeträge nach § 43a sind innerhalb von
 sechs Wochen vom Eingang der Zahlung an gerechnet an den
@@ -1979,6 +2043,7 @@ wird, zu leisten.
 
 
 #### § 43d Prüfung der Abführung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE009101307)
 
 Die Einhaltung der Abführung ist von dem für die Prüfung des
 Jahresabschlusses bestellten Prüfer im Rahmen der Prüfung des
@@ -1987,16 +2052,19 @@ Jahresabschlusses zu prüfen. Er hat hierauf im Prüfungsbericht nach §
 
 
 #### § 43e Außenhandelsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE009201307)
 
 Die Vorschriften dieses Unterabschnitts sind auf Außenhandelsbetriebe
 entsprechend anzuwenden.
 
 
 ### Unterabschnitt 11 - Vorschriften für Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG006102307)
 
 
 
 #### § 44 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006203360)
 
 (1) Versicherungsunternehmen haben die Vorschriften dieses Gesetzes zu
 beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
@@ -2015,6 +2083,7 @@ haben oder die sich in Abwicklung befinden.
 
 
 #### § 45 Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006303360)
 
 (1) Versicherungsunternehmen haben abweichend von § 265 Abs. 6, 7, §§
 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren
@@ -2032,6 +2101,7 @@ machen.
 
 
 #### § 46 Prüfung. Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006403307)
 
 (1) Versicherungsunternehmen können abweichend von § 34 Abs. 1 nur von
 einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft
@@ -2050,10 +2120,12 @@ Versicherungswesen in zweifacher Ausfertigung einzureichen.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften. Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG006502307)
 
 
 
 ### § 47 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006602307)
 
 (1) Die Strafvorschriften der §§ 331 bis 333 des Handelsgesetzbuchs
 sind auf die Eröffnungsbilanz, den Anhang, die
@@ -2072,6 +2144,7 @@ Nr. 1 des Gesetzes über das Kreditwesen.
 
 
 ### § 48 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006706123)
 
 (1) Ordnungswidrig handelt, wer als Mitglied des
 vertretungsberechtigten Organs oder des Aufsichtsrats eines
@@ -2167,6 +2240,7 @@ Bundesamt für Justiz.
 
 
 ### § 49 Festsetzung von Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006804377)
 
 Gegen Mitglieder des vertretungsberechtigten Organs, bei
 Einzelunternehmen gegen den Inhaber, die § 37 dieses Gesetzes in
@@ -2180,10 +2254,12 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 8 - Steuern. Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG006902307)
 
 
 
 ### § 50 Steuerliche Eröffnungsbilanz und Folgewirkungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE006904307)
 
 (1) Steuerpflichtige, die Rechtsträger eines Unternehmens nach § 1
 sind, haben die Vorschriften dieses Gesetzes auch für die
@@ -2233,6 +2309,7 @@ Abschlüsse machen, ist Absatz 1 bis 4 entsprechend anzuwenden.
 
 
 ### § 51 Umstellungsbedingte Vermögensänderungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007002307)
 
 (1) Die aus der Eröffnungsbilanz und der Neufestsetzung nach § 26 Abs.
 2 bis 4, §§ 27, 28, 30 sich ergebenden zahlenmäßigen Veränderungen im
@@ -2253,6 +2330,7 @@ Kapitalverkehr.
 
 
 ### § 52 Steuerliche Ausgangswerte in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007103307)
 
 (1) Bei Steuerpflichtigen, die ihren Gewinn nach § 4 Abs. 3 des
 Einkommensteuergesetzes ermitteln, gelten als Anschaffungs- oder
@@ -2279,6 +2357,7 @@ in entsprechender Anwendung des Absatzes 1 Satz 1 und 3 ergeben.
 
 
 ### § 53 Wirtschaftsjahre 1990 und steuerliche Schlußbilanz
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007202307)
 
 Bei Steuerpflichtigen mit Einkünften nach § 2 Abs. 3 Nr. 1 bis 3 des
 Einkommensteuergesetzes sind Wirtschaftsjahre im Kalenderjahr 1990 die
@@ -2290,6 +2369,7 @@ werden.
 
 
 ### § 54 Pensionsrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007303307)
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung
 (Pensionsrückstellung) nur gebildet werden, wenn
@@ -2394,6 +2474,7 @@ Rechtsverhältnis als einem Dienstverhältnis steht.
 
 
 ### § 55 Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007402307)
 
 Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990
 Wirtschaftsgüter als Einlage zugeführt, die vor dem 1. Juli 1990
@@ -2403,6 +2484,7 @@ ansetzen können, als Anschaffungs- oder Herstellungskosten.
 
 
 ### § 56 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007502307)
 
 (1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die
 anläßlich der Feststellung der Eröffnungsbilanz und der Neufestsetzung
@@ -2448,10 +2530,12 @@ erhebenden (ermäßigten) Gebühr nicht übersteigen.
 
 
 ## Abschnitt 9 - Verfahren der Kapitalneufestsetzung. Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG007603307)
 
 
 
 ### § 56a Einfache Mehrheit
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008302307)
 
 (1) Für den Beschluß der Hauptversammlung oder der
 Gesellschafterversammlung von Kapitalgesellschaften über die
@@ -2478,6 +2562,7 @@ Erhöhung nicht aus vorhandenem Eigenkapital erfolgt.
 
 
 ### § 56b Inhalt der Anmeldung. Prüfung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008402307)
 
 (1) Bei der Anmeldung des Beschlusses über die Neufestsetzung sind die
 festgestellte Eröffnungsbilanz und der Bericht des Vorstands oder der
@@ -2519,6 +2604,7 @@ Unternehmens eingetragen ist.
 
 
 ### § 56c Umtausch und Zusammenlegung von Anteilen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008502307)
 
 (1) Die auf Mark der Deutschen Demokratischen Republik lautenden
 Aktien sind in Aktien, die auf Deutsche Mark lauten, umzutauschen oder
@@ -2540,6 +2626,7 @@ Hinterlegung besteht, zu hinterlegen.
 
 
 ### § 56d Überschuldung oder Verlust des halben gezeichneten Kapitals
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008603307)
 
 (1) Der Vorstand oder die Geschäftsführer sind bis zur Beschlußfassung
 über die Kapitalneufestsetzung durch das dafür zuständige Organ nicht
@@ -2575,6 +2662,7 @@ bis zum Abschluß der Liquidation anzuwenden.
 
 
 ### § 56e Kredite an Treuhandunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008702307)
 
 (1) Die §§ 32a und 32b des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung sind nicht anzuwenden auf Kredite gemäß Artikel
@@ -2591,6 +2679,7 @@ Treuhandanstalt in bezug auf den Kredit eintritt.
 
 
 ### § 57 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007705307)
 
 (1) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und
 Gesellschaften mit beschränkter Haftung, welche die Neufestsetzung
@@ -2627,6 +2716,7 @@ geltende Statut der Genossenschaft mit den danach beschlossenen
 
 
 ### § 58 Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE007803307)
 
 (1) Die Unternehmen haben ihr Geschäftsjahr neu festzusetzen. Das
 erste Geschäftsjahr kann abweichend von § 240 Abs. 2 Satz 2 des
@@ -2645,10 +2735,12 @@ werden.
 
 
 ## Abschnitt 10 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNG007902307)
 
 
 
 ### § 59 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008007377)
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
 dem Bundesministerium der Finanzen und dem Bundesministerium für
@@ -2664,6 +2756,7 @@ Sozialunion und der Zielsetzung dieses Gesetzes zu gewährleisten.
 
 
 ### § 60 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/dmbilg/BJNR211690990.html#BJNR211690990BJNE008103307)
 
 Dieses Gesetz ist mit Wirkung vom 1. Juli 1990 im gesamten
 Bundesgebiet anzuwenden, die Bestimmungen des Abschnitts 7 jedoch erst

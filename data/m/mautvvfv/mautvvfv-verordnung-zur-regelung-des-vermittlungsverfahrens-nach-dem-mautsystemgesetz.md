@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000100000)
 
 Diese Verordnung regelt das Verfahren zur Vermittlung bei
 Streitigkeiten zwischen den für die Erhebung einer Maut in Bund und
@@ -32,6 +34,7 @@ Mautsystemgesetzes.
 
 
 ### § 2 Parteien
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000200000)
 
 Parteien des Vermittlungsverfahrens können nur ein registrierter
 Anbieter mautdienstbezogener Leistungen und eine für die Erhebung
@@ -39,6 +42,7 @@ einer Maut in Bund und Ländern jeweils zuständige Behörde sein.
 
 
 ### § 3 Vermittlungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000301123)
 
 (1) Die Vermittlungsstelle wird bei Streitigkeiten zwischen den
 Parteien im Zusammenhang mit der Zulassung nach § 10 des
@@ -53,9 +57,11 @@ Voraussetzungen von § 10a des Mautsystemgesetzes erfüllt.
 
 
 ## Abschnitt 2 - Organisation der Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNG000200000)
 
 
 ### § 4 Vertretung des Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000401123)
 
 (1) Ist der Vorsitzende eines Spruchkörpers vorübergehend an der
 Ausübung des Vorsitzes gehindert, übt ein von der Behörde oder dem
@@ -71,6 +77,7 @@ Infrastruktur einen neuen Vorsitzenden.
 
 
 ### § 5 Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000500000)
 
 Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die
 Parteien auf, jeweils einen Beisitzer zu benennen und benachrichtigt
@@ -78,9 +85,11 @@ die jeweils andere Partei über den benannten Beisitzer.
 
 
 ## Abschnitt 3 - Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNG000300000)
 
 
 ### § 6 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000600000)
 
 (1) Das Vermittlungsverfahren wird in der Regel schriftlich
 durchgeführt.
@@ -116,6 +125,7 @@ begründen, wenn eine Partei dies beantragt.
 
 
 ### § 7 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000700000)
 
 (1) Das Verfahren wird durch schriftlichen Antrag mindestens einer
 Partei bei der Vermittlungsstelle eingeleitet.
@@ -142,6 +152,7 @@ Fall nicht durchgeführt.
 
 
 ### § 8 Ablehnung eines Antrags
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000800000)
 
 (1) Die Vermittlungsstelle lehnt einen Antrag auf Durchführung eines
 Vermittlungsverfahrens ab, wenn
@@ -178,6 +189,7 @@ Angabe der Gründe mitzuteilen.
 
 
 ### § 9 Antragserwiderung
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE000900000)
 
 (1) Die Vermittlungsstelle übermittelt dem Antragsgegner außer in den
 Fällen des § 8 den vollständigen Antrag und fordert ihn auf, innerhalb
@@ -191,6 +203,7 @@ durchgeführt.
 
 
 ### § 10 Durchführung des Vermittlungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001000000)
 
 (1) Das Vermittlungsverfahren wird mit Zugang der Zustimmung des
 Antragsgegners zur Durchführung des Vermittlungsverfahrens bei der
@@ -226,6 +239,7 @@ nach § 16 Nummer 2 bis 4 beendet ist.
 
 
 ### § 11 Erörterungstermine
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001100000)
 
 (1) Beschließt die Vermittlungsstelle die Durchführung eines
 Erörterungstermins, setzt sie die Parteien hierüber sowie über Zeit
@@ -256,6 +270,7 @@ Zustimmung.
 
 
 ### § 12 Pflichten der Parteien
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001200000)
 
 Die Parteien zeigen der Vermittlungsstelle unverzüglich den Beginn
 gerichtlicher Verfahren zur Sache und wesentliche Veränderungen im
@@ -263,6 +278,7 @@ laufenden Vermittlungsverfahren an.
 
 
 ### § 13 Form und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001300000)
 
 (1) Einlassungen der Parteien bedürfen der Schriftform. Schriftform im
 Sinne dieser Verordnung ist auch durch die Verwendung elektronischer
@@ -273,6 +289,7 @@ setzen.
 
 
 ### § 14 Stellungnahme
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001400000)
 
 (1) Der Spruchkörper nimmt spätestens sechs Monate nach Eingang eines
 Antrags auf Vermittlung zu der Streitigkeit schriftlich Stellung. Die
@@ -285,6 +302,7 @@ kann.
 
 
 ### § 15 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001501123)
 
 (1) Die Mitglieder des Spruchkörpers, die Mitarbeiter der
 Geschäftsstelle, die Parteien und die zu den Verfahren hinzugezogenen
@@ -313,6 +331,7 @@ personenbezogener Form aus.
 
 
 ### § 16 Beendigung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001600000)
 
 Das Verfahren ist beendet, wenn
 
@@ -334,20 +353,24 @@ Das Verfahren ist beendet, wenn
 
 
 ### § 17 Hinzuziehung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001700000)
 
 Die Vermittlungsstelle kann mit Zustimmung beider Parteien
 Sachverständige hinzuziehen und Gutachten einholen.
 
 
 ### § 18 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001800000)
 
 Eine Wiederaufnahme des Verfahrens ist ausgeschlossen.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNG000400000)
 
 
 ### § 19 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE001900000)
 
 (1) Die Parteien tragen die ihnen entstehenden Kosten einschließlich
 der Kosten für eine anwaltliche Vertretung und Sachverständige sowie
@@ -360,6 +383,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 ### § 20 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/mautvvfv/BJNR185500016.html#BJNR185500016BJNE002000000)
 
 Die Einleitung eines Vermittlungsverfahrens berührt nicht das Recht
 der Parteien, den Rechtsweg zu beschreiten.

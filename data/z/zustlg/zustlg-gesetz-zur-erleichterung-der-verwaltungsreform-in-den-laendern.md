@@ -18,15 +18,18 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000200311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000300311)
 
 
 ## Art 29 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000400311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zuständigen Behörden abweichend von den
@@ -37,6 +40,7 @@ Landesbehörden weiter übertragen können.
 
 
 ## Art 30 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000500311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -46,11 +50,13 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 31 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000600311)
 
 Dieses Gesetz tritt am 1. April 1975 in Kraft.
 
 
 ## Anlage (zu Artikel 29)
+[Direktlink](https://www.gesetze-im-internet.de/zustlg/BJNR006850975.html#BJNR006850975BJNE000700311)
 
 Fundstelle des Originaltextes: BGBl. I 1975, 691 - 695
 

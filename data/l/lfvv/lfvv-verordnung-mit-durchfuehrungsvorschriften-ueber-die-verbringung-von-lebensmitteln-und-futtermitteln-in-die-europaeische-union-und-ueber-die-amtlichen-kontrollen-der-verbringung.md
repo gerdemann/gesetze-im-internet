@@ -34,6 +34,7 @@ Stand: Ersetzt V 2125-44-7 v. 8.8.2007 I 1816, 1871 (LMEV)
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lfvv/BJNR0800B0024.html#BJNR0800B0024BJNE000100000)
 
 (1) Diese Verordnung ist anzuwenden auf
 
@@ -132,6 +133,7 @@ die Verbringung von
 
 
 ## § 2 Verbot der Verbringung von mit bestimmten Rückständen belasteten, lebensmittelliefernden Tieren
+[Direktlink](https://www.gesetze-im-internet.de/lfvv/BJNR0800B0024.html#BJNR0800B0024BJNE000200000)
 
 Es ist verboten, lebende Tiere im Sinne des § 4 Absatz 1 Nummer 1 des
 Lebensmittel- und Futtermittelgesetzbuches in die Europäische Union zu
@@ -186,6 +188,7 @@ festgestellt worden ist.
 
 
 ## § 3 Verbote der Verbringung auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/lfvv/BJNR0800B0024.html#BJNR0800B0024BJNE000300000)
 
 (1) Lebensmittel oder Futtermittel dürfen nicht in die Europäische
 Union verbracht werden, soweit
@@ -247,6 +250,7 @@ Rechtsakts in die Europäische Union verbracht worden sind.
 
 
 ## § 4 Amtliche Kontrollen auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/lfvv/BJNR0800B0024.html#BJNR0800B0024BJNE000400000)
 
 Unbeschadet der amtlichen Kontrollen von Lebensmitteln oder
 Futtermitteln, die die zuständige Behörde auf Grund unmittelbar
@@ -258,6 +262,7 @@ Europäische Union amtliche Kontrollen aufgrund eines Rechtsakts nach §
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lfvv/BJNR0800B0024.html#BJNR0800B0024BJNE000500000)
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Satz 1 Nummer

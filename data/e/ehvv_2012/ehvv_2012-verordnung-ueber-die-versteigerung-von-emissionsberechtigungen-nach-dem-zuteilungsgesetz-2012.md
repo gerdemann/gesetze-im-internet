@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000100000)
 
 Auf Grund des § 21 Absatz 2 des Zuteilungsgesetzes 2012 vom 7. August
 2007 (BGBl. I S. 1788) verordnet die Bundesregierung mit Zustimmung
@@ -28,6 +29,7 @@ des Bundestages:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000201310)
 
 Diese Verordnung regelt die Versteigerung von Berechtigungen im Sinne
 des § 3 Absatz 4 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli
@@ -37,6 +39,7 @@ Januar 2010.
 
 
 ## § 2 Versteigerungsmenge, Versteigerungstermine
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000303116)
 
 (1) Pro Jahr wird folgende Gesamtmenge an Berechtigungen durch
 Geschäfte zur sofortigen Erfüllung (Spothandel) sowie durch Geschäfte
@@ -98,6 +101,7 @@ eines Jahres gedeckt.
 
 
 ## § 3 Versteigerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000400000)
 
 (1) Die Durchführung der Versteigerung erfolgt jeweils getrennt
 entsprechend der Aufteilung nach § 2 Absatz 2 Satz 2 als Bestandteil
@@ -135,6 +139,7 @@ verbleibende Menge an Berechtigungen zugeschlagen.
 
 
 ## § 4 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000500000)
 
 (1) Die Abwicklung der erfolgreichen Gebote der Versteigerung im
 Spothandel und im Terminhandel unterliegt jeweils denselben
@@ -151,6 +156,7 @@ angeschlossene Institution.
 
 
 ## § 5 Berichtspflichten, Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000600000)
 
 (1) Die durchführende Börse unterrichtet die zuständige Stelle nach
 jedem Versteigerungstermin über den Zuschlagspreis, in anonymisierter
@@ -187,6 +193,7 @@ Berechtigungen.
 
 
 ## § 6 Versteigerungen im Auftrag anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000700000)
 
 Die durchführende Börse kann Versteigerungen von Berechtigungen im
 Auftrag anderer Mitgliedstaaten der Europäischen Union durchführen.
@@ -196,11 +203,13 @@ in einem Versteigerungstermin möglich.
 
 
 ## § 7 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000800000)
 
 Zuständige Stelle nach dieser Verordnung ist das Umweltbundesamt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehvv_2012/BJNR204800009.html#BJNR204800009BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

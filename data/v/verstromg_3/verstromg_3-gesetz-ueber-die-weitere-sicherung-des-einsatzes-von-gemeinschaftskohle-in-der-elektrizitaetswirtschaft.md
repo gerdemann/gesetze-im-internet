@@ -25,6 +25,7 @@ Zuletzt geändert durch
 Stand: Das G in der Fassung der Bekanntmachung v. 17.11.1980 I 2137 ist - mit Ausnahme der §§ 12, 13 Abs. 1 Nr. 5, Abs. 2 bis 4, 6 bis 9, § 15 und § 17 - mit dem Grundgesetz unvereinbar gem. BVerfGE v. 11.10.1994, 1995 I 93 - 2 BvR 633/86 - Soweit es mit dem Grundgesetz unvereinbar ist, ist es längstens bis zum 31. Dezember 1995 weiter anzuwenden.
 
 ## § 1 Bestimmung des Steinkohleneinsatzes
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000101307)
 
 Im Interesse der Sicherheit der Elektrizitätsversorgung soll der
 Anteil der Gemeinschaftskohle an der Erzeugung von elektrischer
@@ -38,6 +39,7 @@ gewährleistet.
 
 
 ## § 2 Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000208118)
 
 (1) Es wird ein unselbständiges Sondervermögen des Bundes mit dem
 Namen "Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes"
@@ -100,6 +102,7 @@ Vorschriften über die Verwaltung der Bundesschuld entsprechend.
 
 
 ## § 3 Zuschüsse zum Ausgleich der Mehrkosten
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000303118)
 
 (1) Für Kraftwerke, auf die § 1 Abs. 1 Satz 1 Nr. 2 des Gesetzes zur
 Sicherung des Steinkohleneinsatzes in der Elektrizitätswirtschaft vom
@@ -220,6 +223,7 @@ dieses Gesetz nicht unmittelbar begründet.
 
 
 ## § 4 Zuschüsse zu Investitionskosten und zu Stromtransportkosten
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000403118)
 
 (1) Wird mit dem Bau eines Kraftwerks über ein Megawatt Nennleistung
 bis zum 31. Dezember 1983 begonnen und erfolgt die Inbetriebnahme bis
@@ -261,6 +265,7 @@ und Energie durch Richtlinien.
 
 
 ## § 5 Zuschüsse für Zusatzmengen
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000505118)
 
 (1) Für den Bezug der Zusatzmenge (Absatz 6 Nr. 2) in den Jahren 1981
 bis 1995 können Zuschüsse in Höhe des Unterschiedsbetrages je Tonne
@@ -395,11 +400,13 @@ Absätzen 1 bis 9.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000602307)
 
 (weggefallen)
 
 
 ## § 7 Zuschüsse für eine Verstromungsreserve
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000704118)
 
 (1) Zuschüsse können auch für Gemeinschaftskohle gezahlt werden, die
 innerhalb der nach § 5 Abs. 6 Nr. 1 festgelegten Gesamtmenge zur
@@ -434,6 +441,7 @@ Energie durch Richtlinien.
 
 
 ## § 8 Ausgleichsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000807118)
 
 (1) Die Mittel des Sondervermögens werden durch eine Ausgleichsabgabe
 aufgebracht.
@@ -552,6 +560,7 @@ Zustimmung des Bundestages.
 
 
 ## § 9 Zahlung, Verzinsung und Beitreibung der Ausgleichsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE000904377)
 
 (1) Die Ausgleichsabgabe ist für jeden Monat bis zum 16. des folgenden
 Monats an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu
@@ -582,6 +591,7 @@ vom 23. Juni 1970 (BGBl. I S. 805), beigetrieben werden.
 
 
 ## § 10 Weitergabe der Belastung
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001002307)
 
 (1) Beruht die Lieferung von Elektrizität an Endverbraucher auf einem
 Vertrag, der vor dem Inkrafttreten dieses Gesetzes oder einer
@@ -614,6 +624,7 @@ Elektrizitätslieferungen gesondert auszuweisen.
 
 
 ## § 11 Härteklausel
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001102301)
 
 (1) Das Elektrizitätsversorgungsunternehmen darf eine Anhebung des
 Entgelts nach § 10 Abs. 1 nicht verlangen, wenn ein Unternehmen, das
@@ -650,11 +661,13 @@ den Feststellungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001203308)
 
 (weggefallen)
 
 
 ## § 13 Melde- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001305301)
 
 (1) Die Betreiber von Kraftwerken, die Lieferanten von in Kraftwerken
 eingesetzter Steinkohle, von schwerem Heizöl, Erdgas und sonstigen
@@ -767,6 +780,7 @@ Feststellungen im Wege der Schätzung treffen.
 
 
 ## § 14 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001404118)
 
 (1) Bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ein Beirat gebildet. Er berät das Bundesministerium für Wirtschaft und
@@ -836,6 +850,7 @@ Wirtschaft und Ausfuhrkontrolle (BAFA) Ausschüsse einsetzen.
 
 
 ## § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001505301)
 
 (1) (weggefallen)
 
@@ -870,11 +885,13 @@ Ausfuhrkontrolle (BAFA).
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001604377)
 
 -
 
 
 ## § 17 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001702307)
 
 (1) Ein Kraftwerk im Sinne dieses Gesetzes ist eine Anlage zur
 Erzeugung elektrischer Energie mittels Dampf oder Dampf und Gas oder
@@ -915,11 +932,13 @@ Steinkohle.
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001802377)
 
 -
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_3/BJNR034730974.html#BJNR034730974BJNE001901307)
 
 (Inkrafttreten)
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Ziel des Gesetzes; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000101000)
 
 (1) Ziel dieses Gesetzes ist es,
 
@@ -52,6 +53,7 @@ sie als Ausländer
 
 
 ## § 2 Erklärungen zum Geschlechtseintrag und zu den Vornamen
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000200000)
 
 (1) Jede Person, deren Geschlechtsidentität von ihrem
 Geschlechtseintrag im Personenstandsregister abweicht, kann gegenüber
@@ -91,6 +93,7 @@ Geschlechtsangabe und die bisherigen Vornamen bestehen.
 
 
 ## § 3 Erklärungen von Minderjährigen und Personen mit Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000300000)
 
 (1) Eine beschränkt geschäftsfähige minderjährige Person, die das 14.
 Lebensjahr vollendet hat, kann die Erklärungen zur Änderung des
@@ -135,6 +138,7 @@ entspricht.
 
 
 ## § 4 Anmeldung beim Standesamt
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000400000)
 
 Die Änderung des Geschlechtseintrags und der Vornamen ist von der
 erklärenden Person drei Monate vor der Erklärung nach § 2 mündlich
@@ -145,6 +149,7 @@ abgegeben wird.
 
 
 ## § 5 Sperrfrist; Vornamenbestimmung bei Rückänderung
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000501000)
 
 (1) Vor Ablauf eines Jahres nach der Erklärung der Änderung des
 Geschlechtseintrags und der Vornamen kann die Person keine erneute
@@ -156,6 +161,7 @@ Vornamen entsprechend.
 
 
 ## § 6 Wirkungen der Änderung des Geschlechtseintrags und der Vornamen
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000600000)
 
 (1) Der jeweils aktuelle Geschlechtseintrag und die jeweils aktuellen
 Vornamen sind im Rechtsverkehr maßgeblich, soweit auf die
@@ -178,6 +184,7 @@ Gegebenheiten stehen.
 
 
 ## § 7 Quotenregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000700000)
 
 (1) Wenn für die Besetzung von Gremien oder Organen durch Gesetz eine
 Mindestanzahl oder ein Mindestanteil an Mitgliedern weiblichen und
@@ -199,6 +206,7 @@ geregelt ist.
 
 
 ## § 8 Anwendbarkeit von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000800000)
 
 (1) Gesetze und Verordnungen, die Regelungen zu Schwangerschaft,
 Gebärfähigkeit, künstlicher Befruchtung sowie zu Entnahme oder
@@ -244,6 +252,7 @@ Personenstandsregister eingetragenen Geschlecht der jeweiligen Person,
 
 
 ## § 9 Zuordnung zum männlichen Geschlecht im Spannungs- und Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE000900000)
 
 Die rechtliche Zuordnung einer Person zum männlichen Geschlecht
 bleibt, soweit es den Dienst mit der Waffe auf Grundlage des Artikels
@@ -258,6 +267,7 @@ Monaten vor Feststellung desselben.
 
 
 ## § 10 Änderung von Registern und Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001000000)
 
 (1) Sind der Geschlechtseintrag und die Vornamen einer Person im
 Personenstandsregister geändert worden, so kann sie, sofern eine
@@ -335,6 +345,7 @@ Neuausstellung zu tragen.
 
 
 ## § 11 Eltern-Kind-Verhältnis
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001100000)
 
 (1) Der Geschlechtseintrag im Personenstandsregister ist für das nach
 den §§ 1591 und 1592 Nummer 3 des Bürgerlichen Gesetzbuchs bestehende
@@ -357,6 +368,7 @@ Annahme maßgeblich.
 
 
 ## § 12 Geschlechtsneutrale Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001200000)
 
 Gesetzliche Regelungen, die sich auf Männer und Frauen beziehen und
 für beide Geschlechter dieselben Rechtsfolgen vorsehen, gelten für
@@ -365,6 +377,7 @@ Geschlechtsangabe und auch dann, wenn keine Angabe eingetragen ist.
 
 
 ## § 13 Offenbarungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001300000)
 
 (1) Sind Geschlechtsangabe und Vornamen einer Person nach § 2 geändert
 worden, so dürfen die bis zur Änderung eingetragene Geschlechtsangabe
@@ -432,6 +445,7 @@ Offenbarungsverbots nach Absatz 1 Satz 1 zulässig.
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001400000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 13 Absatz 1 Satz 1 die
 Geschlechtszugehörigkeit oder einen Vornamen offenbart und dadurch die
@@ -442,6 +456,7 @@ Euro geahndet werden.
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sbgg/BJNR0CE0B0024.html#BJNR0CE0B0024BJNE001500000)
 
 (1) Am 1. November 2024 anhängige Verfahren nach dem
 Transsexuellengesetz in der bis einschließlich 31. Oktober 2024

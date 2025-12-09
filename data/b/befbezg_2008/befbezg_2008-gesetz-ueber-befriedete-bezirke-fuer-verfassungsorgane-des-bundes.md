@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Befriedete Bezirke
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000100000)
 
 Für den Deutschen Bundestag, den Bundesrat und das
 Bundesverfassungsgericht werden befriedete Bezirke gebildet. Die
@@ -28,6 +29,7 @@ diesem Gesetz.
 
 
 ## § 2 Schutz von Verfassungsorganen
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000200000)
 
 Öffentliche Versammlungen unter freiem Himmel und Aufzüge sind
 innerhalb der befriedeten Bezirke nach § 1 verboten. Ebenso ist es
@@ -35,6 +37,7 @@ verboten, zu Versammlungen oder Aufzügen nach Satz 1 aufzufordern.
 
 
 ## § 3 Zulassung von Versammlungen unter freiem Himmel und Aufzügen
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000301116)
 
 (1) Öffentliche Versammlungen unter freiem Himmel und Aufzüge
 innerhalb der nach § 1 gebildeten befriedeten Bezirke sind zuzulassen,
@@ -63,6 +66,7 @@ nicht berührt.
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000400000)
 
 (1) Ordnungswidrig handelt, wer entgegen § 2 an einer öffentlichen
 Versammlung unter freiem Himmel oder einem Aufzug teilnimmt oder zu
@@ -73,12 +77,14 @@ zwanzigtausend Euro geahndet werden.
 
 
 ## § 5 Einschränkung des Grundrechts der Versammlungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000500000)
 
 Das Grundrecht der Versammlungsfreiheit (Artikel 8 des Grundgesetzes)
 wird durch dieses Gesetz eingeschränkt.
 
 
 ## Anlage (zu § 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/befbezg_2008/BJNR236610008.html#BJNR236610008BJNE000600000)
 
 (Fundstelle: BGBl. I 2008, 2368)
 **1. Deutscher Bundestag**

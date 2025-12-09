@@ -25,14 +25,17 @@ Zuletzt geändert durch
 Stand: In Kraft gem. Bek. v. 30.7.1987 I 2083 mWv 1.9.1987
 
 ## Erster Teil - Seerechtliches Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000102307)
 
 
 
 ### Erster Abschnitt - Allgemeine Bestimmungen. Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000202307)
 
 
 
 #### § 1 Einleitung des Verteilungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001009311)
 
 (1) Zur Errichtung und Verteilung eines Fonds im Sinne des Artikels 11
 des Übereinkommens von 1976 über die Beschränkung der Haftung für
@@ -171,6 +174,7 @@ gelten die folgenden besonderen Vorschriften:
 
 
 #### § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001103307)
 
 (1) Betrifft das Verteilungsverfahren ein Schiff, das in einem
 Schiffsregister im Geltungsbereich dieses Gesetzes eingetragen ist, so
@@ -214,6 +218,7 @@ Landes den Gerichten eines anderen Landes zugewiesen werden.
 
 
 #### § 3 Anwendung der Zivilprozeßordnung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001304310)
 
 (1) Auf das Verteilungsverfahren finden, soweit dieses Gesetz nichts
 anderes bestimmt, die Vorschriften der Zivilprozeßordnung
@@ -228,10 +233,12 @@ findet die Rechtsbeschwerde statt.
 
 
 ### Zweiter Abschnitt - Eröffnungsverfahren und öffentliche Aufforderung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000302307)
 
 
 
 #### § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001402307)
 
 (1) Der Antrag auf Eröffnung des Verteilungsverfahrens muß enthalten:
 
@@ -287,6 +294,7 @@ zurückgenommen werden.
 Festsetzung der Haftungssumme.
 
 #### § 5 Zulassung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001503310)
 
 (1) Das Gericht setzt durch Beschluß die Summe fest, die zur
 Errichtung des Fonds einzuzahlen ist (Haftungssumme).
@@ -313,6 +321,7 @@ Gericht eine Frist, innerhalb deren der Mehrbetrag einzuzahlen ist.
 
 
 #### § 6 Einzahlung der Haftungssumme
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001603160)
 
 (1) Die Einzahlung der Haftungssumme erfolgt bei der für das
 Verteilungsgericht zuständigen Gerichtskasse. Gesetzliche und
@@ -389,6 +398,7 @@ vollzogen werden.
 
 
 #### § 7 Eröffnung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001705307)
 
 (1) Das Gericht beschließt über die Eröffnung des
 Verteilungsverfahrens, sobald die festgesetzte Haftungssumme
@@ -449,6 +459,7 @@ oder die Zwangsvollstreckung betrieben wird.
 
 
 #### § 8 Wirkungen der Eröffnung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001807311)
 
 (1) Mit der Eröffnung des Verteilungsverfahrens gilt der Fonds als
 errichtet. Unbeschadet des Absatzes 2 Satz 2 beschränkt sich die
@@ -521,6 +532,7 @@ Artikel 5 des Haftungsbeschränkungsübereinkommens bleibt unberührt.
 
 
 #### § 9 Sachwalter
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE001905307)
 
 (1) Bei der Eröffnung des Verteilungsverfahrens bestellt das Gericht
 einen Sachwalter. § 56 Abs. 2 der Insolvenzordnung gilt entsprechend.
@@ -573,6 +585,7 @@ Einwendungen nicht erhoben werden, gilt die Rechnung als anerkannt.
 
 
 #### § 10 Öffentliche Aufforderung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002004307)
 
 (1) Zugleich mit dem Eröffnungsbeschluß erläßt das Gericht zur
 Ermittlung der am Verfahren teilnehmenden Gläubiger eine öffentliche
@@ -642,6 +655,7 @@ eröffnet worden wäre.
 
 
 #### § 11 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002102307)
 
 (1) Nach der Eröffnung des Verteilungsverfahrens hat das Gericht den
 wesentlichen Inhalt des Beschlusses über die Festsetzung der
@@ -673,6 +687,7 @@ Eröffnung des Verteilungsverfahrens beizufügen.
 
 
 #### § 12 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002202307)
 
 (1) Gegen den Beschluß über die Festsetzung der Haftungssumme kann nur
 der Antragsteller Beschwerde einlegen. Nach der Eröffnung des
@@ -726,10 +741,12 @@ eines Arrests statthaft ist.
 
 
 ### Dritter Abschnitt - Feststellung der Ansprüche. Erlöschen von Sicherungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000402307)
 
 
 
 #### § 13 Anmeldung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002304311)
 
 (1) Die Anmeldung eines Anspruchs muß die Angabe seines Betrags und
 Grundes enthalten. Ist vor Eröffnung des Verfahrens über den Anspruch
@@ -761,6 +778,7 @@ oder zu Protokoll der Geschäftsstelle erklärt werden.
 
 
 #### § 14 Gegenstand der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002403311)
 
 (1) Die Ansprüche sind mit dem Wert in Euro geltend zu machen, der
 ihnen am Tag der Eröffnung des Verteilungsverfahrens zukommt.
@@ -795,6 +813,7 @@ Verfahrens zu fordern hatte.
 
 
 #### § 15 Anmeldung von Ansprüchen durch Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002502307)
 
 Der Schuldner eines Anspruchs, mit dem der Gläubiger an dem
 Verteilungsverfahren hätte teilnehmen können, kann den Anspruch in dem
@@ -804,6 +823,7 @@ gemacht, so tritt der Schuldner in die Stellung des Gläubigers ein.
 
 
 #### § 16 Erweiterung des Verfahrens auf Ansprüche wegen Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002602307)
 
 (1) Ist das Verfahren nach § 1 Abs. 5 nur mit Wirkung für Ansprüche
 wegen Sachschäden eröffnet worden, so ändert das Gericht die
@@ -828,6 +848,7 @@ Personenschäden eröffnet wird.
 
 
 #### § 17 Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002702307)
 
 (1) Das Verteilungsgericht stellt das Verteilungsverfahren durch
 Beschluß ein, wenn nach der Eröffnung des Verfahrens
@@ -880,6 +901,7 @@ Ansprüche zu befriedigen.
 
 
 #### § 18 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002805307)
 
 Die angemeldeten Ansprüche werden hinsichtlich ihres Betrags und
 hinsichtlich des Rechts ihrer Gläubiger auf Teilnahme an dem
@@ -889,6 +911,7 @@ erklären. § 177 der Insolvenzordnung gilt entsprechend.
 
 
 #### § 19 Feststellung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE002905307)
 
 (1) Ein Anspruch und das Recht seines Gläubigers auf Teilnahme an dem
 Verteilungsverfahren gelten als festgestellt, soweit im Prüfungstermin
@@ -950,6 +973,7 @@ Wege einer neuen Klage zu verfolgen.
 
 
 #### § 20 Erlöschen von Sicherungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003002307)
 
 (1) Werden ein Anspruch und das Recht seines Gläubigers auf Teilnahme
 an dem Verteilungsverfahren festgestellt, so treten hinsichtlich aller
@@ -1002,6 +1026,7 @@ Antragsteller besteht oder bestanden hat.
 
 
 #### § 21 Endgültige Einstellung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003102307)
 
 Werden ein Anspruch und das Recht seines Gläubigers auf Teilnahme an
 dem Verteilungsverfahren festgestellt, so ordnet das
@@ -1012,6 +1037,7 @@ darf erst nach Rechtskraft vollzogen werden.
 
 
 #### § 22 Erlöschen von Sicherungsrechten und endgültige Einstellung der Zwangsvollstreckung bei nicht angemeldeten Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003202307)
 
 (1) Hat der Gläubiger einen Anspruch, für welchen die Haftung durch
 die Eröffnung des Verteilungsverfahrens durch das Verteilungsverfahren
@@ -1034,10 +1060,12 @@ die Beendigung des allgemeinen Prüfungstermins zu erteilen.
 
 
 ### Vierter Abschnitt - Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000502307)
 
 
 
 #### § 23 Verteilungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003302307)
 
 (1) An der Verteilung der Haftungssumme nehmen die Gläubiger der
 festgestellten Ansprüche nach dem Verhältnis der Beträge ihrer
@@ -1079,6 +1107,7 @@ Einzahlungen.
 
 
 #### § 24 Erlöschen der persönlichen Haftung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003402307)
 
 Einem Gläubiger, der bei der Verteilung der Haftungssumme den auf
 seinen Anspruch entfallenden Anteil ganz oder teilweise entgegennimmt,
@@ -1092,6 +1121,7 @@ haftet.
 
 
 #### § 25 Rechtskräftige Feststellung der persönlichen Haftung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003502307)
 
 Steht zwischen dem Gläubiger und dem Schuldner eines Anspruchs
 rechtskräftig fest, daß der Schuldner die Haftung für den Anspruch
@@ -1104,6 +1134,7 @@ berücksichtigen. § 24 Satz 1 bleibt unberührt.
 
 
 #### § 26 Verfahren bei der Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003607311)
 
 (1) Nach der Abhaltung des allgemeinen Prüfungstermins soll eine
 Verteilung an die Gläubiger der festgestellten Ansprüche erfolgen. Die
@@ -1167,6 +1198,7 @@ verwenden ist.
 
 
 #### § 27 Verfahren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003702307)
 
 Soweit ein Anspruch, für den nach § 19 Abs. 4 zunächst nur das Recht
 des Gläubigers auf Teilnahme an dem Verfahren bis zu dem bei der
@@ -1180,6 +1212,7 @@ Anspruch insoweit bei der Verteilung nicht zu berücksichtigen ist.
 
 
 #### § 28 Weitere Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003802307)
 
 Sobald nach einer ersten Verteilung ein weiterer hinreichender Betrag
 der Haftungssumme verfügbar wird, soll eine weitere Verteilung
@@ -1188,6 +1221,7 @@ erfolgen.
 Aufhebung des Verfahrens.
 
 #### § 29 Nachtragsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE003902307)
 
 (1) Das Gericht beschließt die Aufhebung des Verteilungsverfahrens,
 wenn die Haftungssumme verteilt ist oder wenn nur noch Anteile nach §
@@ -1204,10 +1238,12 @@ berücksichtigen ist, so findet eine Nachtragsverteilung statt.
 
 
 ### Fünfter Abschnitt - Nachträgliche Erweiterung des Verfahrens bei Ansprüchen der Anspruchsklasse A auf Antrag eines Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000602307)
 
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004002307)
 
 (1) Ist das Verfahren nach § 1 Abs. 5 nur mit Wirkung für Ansprüche
 wegen Sachschäden eröffnet worden, so kann, falls aus demselben
@@ -1239,10 +1275,12 @@ Absatz 1 beantragt, als Antragsteller im Sinne dieses Gesetzes.
 
 
 ### Sechster Abschnitt - Kosten aus der Bestellung eines Sachwalters und aus Rechtsstreitigkeiten über angemeldete Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000702307)
 
 
 
 #### § 31 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004105307)
 
 (1) Der Antragsteller trägt folgende Kosten:
 
@@ -1272,6 +1310,7 @@ Absatz 1 beantragt, als Antragsteller im Sinne dieses Gesetzes.
 
 
 #### § 32 Zahlung der vom Antragsteller zu tragenden Kosten
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004202307)
 
 (1) Das Gericht ordnet von Amts wegen die Zahlung der vom
 Antragsteller nach § 31 Abs. 1 zu tragenden Kosten zur Haftungssumme
@@ -1290,6 +1329,7 @@ festgesetzten Haftungssumme verbleibt.
 
 
 #### § 33 Zurückbehaltung bei der Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004302307)
 
 Ist bei dem Beginn der Verteilung ungewiß, ob im Verlauf des
 Verfahrens noch Kosten entstehen werden, welche der Haftungssumme nach
@@ -1300,10 +1340,12 @@ sie jedoch wegen veränderter Umstände abändern.
 
 
 ## Zweiter Teil - Binnenschiffahrtsrechtliches Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG001001307)
 
 
 
 ### § 34 Einleitung des Verteilungsverfahrens. Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005001307)
 
 (1) Zur Errichtung und Verteilung eines Fonds im Sinne des § 5d Abs. 2
 des Binnenschiffahrtsgesetzes kann ein Binnenschiffahrtsrechtliches
@@ -1318,6 +1360,7 @@ Abs. 1 bis 3, § 7 Abs. 2 Nr. 2, 3 und 5 sowie § 23 Abs. 2 und 3 Satz
 
 
 ### § 35 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005103311)
 
 Die Eröffnung eines Binnenschiffahrtsrechtlichen Verteilungsverfahrens
 können beantragen:
@@ -1355,6 +1398,7 @@ Personen ihre Haftung beschränken können.
 
 
 ### § 36 Anspruchsklassen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005201307)
 
 (1) Abweichend von § 1 Abs. 4 zählen zu den im
 Binnenschiffahrtsrechtlichen Verteilungsverfahren zu bildenden
@@ -1416,6 +1460,7 @@ im Sinne des § 35 Satz 1 angehörenden Schuldners eröffnet worden ist.
 
 
 ### § 37 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005301307)
 
 (1) Betrifft das Binnenschiffahrtsrechtliche Verteilungsverfahren ein
 Schiff, das in einem inländischen Schiffsregister eingetragen ist, so
@@ -1459,6 +1504,7 @@ Gerichten eines anderen Landes zugewiesen werden.
 
 
 ### § 38 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005401307)
 
 (1) Der Antrag auf Eröffnung des Binnenschiffahrtsrechtlichen
 Verteilungsverfahrens muß enthalten:
@@ -1524,6 +1570,7 @@ des § 1 Abs. 5 in Verbindung mit § 36 Abs. 2 vorliegen.
 
 
 ### § 39 Festsetzung der Haftungssumme
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005501307)
 
 Die vom Gericht festzusetzende Haftungssumme ist vom Zeitpunkt des zur
 Haftung führenden Ereignisses bis zum Zeitpunkt der Errichtung des
@@ -1531,6 +1578,7 @@ Fonds mit vier vom Hundert für das Jahr zu verzinsen.
 
 
 ### § 40 Inhalt des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005601307)
 
 Der Beschluß über die Eröffnung des Binnenschiffahrtsrechtlichen
 Verteilungsverfahrens enthält außer den nach § 7 Abs. 2 Nr. 1, 4, 6
@@ -1557,6 +1605,7 @@ und 7 erforderlichen Feststellungen und Angaben insbesondere:
 
 
 ### § 41 Wirkungen der Eröffnung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005703311)
 
 Auf die Eröffnung des Binnenschiffahrtsrechtlichen
 Verteilungsverfahrens ist § 8 mit der Maßgabe anzuwenden, daß an die
@@ -1578,6 +1627,7 @@ Stelle
 
 
 ### § 42 Öffentliche Aufforderung bei Verfahren nur mit Wirkung für Ansprüche wegen Sachschäden
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005801307)
 
 Die öffentliche Aufforderung hat, sofern das Verfahren nach § 1 Abs. 5
 in Verbindung mit § 36 Abs. 2 nur mit Wirkung für Ansprüche wegen
@@ -1586,6 +1636,7 @@ Inhalt.
 
 
 ### § 43 Eintragung von angemeldeten Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE005901307)
 
 Der Urkundsbeamte der Geschäftsstelle trägt angemeldete Ansprüche
 wegen Personenschäden und Ansprüche wegen Sachschäden entsprechend §
@@ -1595,6 +1646,7 @@ worden ist.
 
 
 ### § 44 Erweiterung des Verfahrens auf Ansprüche wegen Personenschäden
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006001307)
 
 § 16 Abs. 1 Satz 1 ist auf ein Binnenschiffahrtsrechtliches
 Verteilungsverfahren für Ansprüche der Anspruchsklasse A oder der
@@ -1616,6 +1668,7 @@ Haftungshöchstbetrages folgender Betrag tritt:
 
 
 ### § 45 Feststellung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006101307)
 
 Die Eintragung festgestellter Ansprüche nach § 19 Abs. 2 gilt, wenn
 das Verfahren für Ansprüche der Anspruchsklasse A oder der
@@ -1628,6 +1681,7 @@ Verfahren teilnehmen, sowie gegen den Sachwalter.
 
 
 ### § 46 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006202311)
 
 (1) In einem Binnenschiffahrtsrechtlichen Verteilungsverfahren für
 Ansprüche der Anspruchsklasse A oder D haben Ansprüche wegen
@@ -1664,6 +1718,7 @@ Ansprüche bestimmten Teilsumme berichtigt.
 
 
 ### § 47 Verzeichnis der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006301307)
 
 Das vom Urkundsbeamten vor der Vornahme einer Verteilung nach § 26
 Abs. 2 vorzulegende Verzeichnis ist sowohl bei Ansprüchen der
@@ -1673,6 +1728,7 @@ Sachschäden.
 
 
 ### § 48 Nachträgliche Erweiterung des Verfahrens bei Ansprüchen der Anspruchsklasse A oder D
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006401307)
 
 Auf ein Binnenschiffahrtsrechtliches Verteilungsverfahren für
 Ansprüche der Anspruchsklasse A und D ist, wenn das Verfahren nach § 1
@@ -1697,6 +1753,7 @@ demselben Personenkreis im Sinne des § 35 Satz 1 angehört.
 
 
 ### § 49 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006501307)
 
 Die nach § 32 Abs. 3 der Haftungssumme endgültig zur Last fallenden
 Kosten sind auch dann mit Vorrang vor den festgestellten Ansprüchen zu
@@ -1705,10 +1762,12 @@ gebildet werden.
 
 
 ## Dritter Teil - Wirkungen der Errichtung eines Fonds in einem anderen Vertragsstaat
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNG000802307)
 
 
 
 ### § 50 Errichtung eines Fonds nach dem Haftungsbeschränkungsübereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004402307)
 
 (1) Hat ein Gläubiger einen Anspruch gegen einen Fonds geltend
 gemacht, der entsprechend den Vorschriften des
@@ -1728,6 +1787,7 @@ Verfügung steht und frei transferierbar ist.
 
 
 ### § 51 Errichtung eines Fonds nach dem Haftungsübereinkommen von 1992
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE004504307)
 
 (1) Ist der Eigentümer eines Schiffes berechtigt, seine Haftung für
 die aus einem bestimmten Ereignis entstandenen Ansprüche wegen
@@ -1748,6 +1808,7 @@ zur Befriedigung seines Anspruchs verwendet werden kann.
 
 
 ### § 52 Errichtung eines Fonds nach dem Straßburger Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE006602311)
 
 (1) Kann ein Gläubiger einen Anspruch gegen einen Fonds geltend
 machen, der entsprechend dem Straßburger Übereinkommen vom 27.
@@ -1777,6 +1838,7 @@ Verfügung steht und frei transferierbar ist.
 Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 960)
+[Direktlink](https://www.gesetze-im-internet.de/seerverto_1986/BJNR011300986.html#BJNR011300986BJNE888804307)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

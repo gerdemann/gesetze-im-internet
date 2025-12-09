@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000100314)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962 die
@@ -36,6 +37,7 @@ Berechtigten, die das 65. Lebensjahr im Jahr 1962 vollendet haben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000200314)
 
 (1) Renten, die nach
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
@@ -65,6 +67,7 @@ Neuregelungsgesetzes gezahlt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000300314)
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31
@@ -197,6 +200,7 @@ Deutsche Mark der Betrag von 950 Deutsche Mark tritt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000400314)
 
 (1) Die übrigen Renten werden in der Weise angepaßt, daß der nach § 5
 zu ermittelnde Anpassungsbetrag mit 1,066 vervielfältigt wird; dem
@@ -226,6 +230,7 @@ angepaßt werden würden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000500314)
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 der Rentenzahlbetrag
 für Januar 1963 ohne Kinderzuschuß für jedes Kind, vermindert um den
@@ -255,6 +260,7 @@ Deutsche Mark.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000600314)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die nach § 4 angepaßt werden,
@@ -294,12 +300,14 @@ einer Berechnung der Rente nach § 3 zu berücksichtigen sind, nicht
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000700314)
 
 Ergibt die Anpassung keinen höheren als den bisherigen Zahlbetrag, so
 ist dieser weiterzuzahlen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000800314)
 
 Soweit bei Versorgungsbezügen nach dem Bundesversorgungsgesetz und den
 Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären, der
@@ -322,6 +330,7 @@ für Landwirte nicht zu berücksichtigen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE000900314)
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
 Höhe seiner Rente, die ihm vom 1. Januar 1963 an zusteht, zu geben.
@@ -339,6 +348,7 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE001000314)
 
 (1) Die Vorschriften dieses Gesetzes gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 6
@@ -364,6 +374,7 @@ Berücksichtigung ihrer im Saarland geltenden Fassung anzuwenden sind.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE001100314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -371,6 +382,7 @@ im Land Berlin.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_5/BJNR007640962.html#BJNR007640962BJNE001200314)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

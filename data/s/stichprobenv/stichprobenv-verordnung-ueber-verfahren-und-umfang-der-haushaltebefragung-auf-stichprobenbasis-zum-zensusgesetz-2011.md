@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000100000)
 
 Auf Grund des § 7 Absatz 2 Satz 2 des Zensusgesetzes 2011 vom 8. Juli
 2009 (BGBl. I S. 1781) verordnet die Bundesregierung:
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000200000)
 
 (1) Die in dieser Verordnung festgelegten einheitlichen Regelungen zum
 Stichprobenverfahren und zum Stichprobenumfang für die nach § 7 des
@@ -42,6 +44,7 @@ gewonnen werden.
 
 
 ## § 2 Stichprobenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000300000)
 
 (1) Das Statistische Bundesamt legt den bundesweiten Stichprobenplan
 fest, zieht die Stichproben nach § 7 Absatz 3 des Zensusgesetzes 2011
@@ -98,6 +101,7 @@ maßgebend:
 
 
 ## § 3 Stichprobenumfang
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000400000)
 
 (1) Auf Grund der in den Stichprobenplan übernommenen
 qualitätssichernden Vorgaben errechnet sich bundesweit ein Bedarf von
@@ -319,6 +323,7 @@ methodisch-statistischer Kriterien des § 2 Absatz 2 und des § 3 Absatz
 
 
 ## § 4 Fragebogen
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000500000)
 
 Die Haushaltsstichprobe wird mit Hilfe eines einheitlichen Fragebogens
 erhoben, den das Statistische Bundesamt in Zusammenarbeit mit den
@@ -326,6 +331,7 @@ statistischen Ämtern der Länder erstellt.
 
 
 ## § 5 Zusammenarbeit der statistischen Ämter
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000600000)
 
 Die statistischen Ämter der Länder arbeiten bei der
 Haushaltsstichprobe mit dem Statistischen Bundesamt zusammen, um
@@ -334,11 +340,13 @@ die Datenaufbereitung bundesweit einheitlich durchzuführen.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stichprobenv/BJNR083000010.html#BJNR083000010BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

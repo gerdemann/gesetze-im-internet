@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2022dv_1/BJNR046000022.html#BJNR046000022BJNE000100000)
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes, von denen §
 14 zuletzt durch Artikel 2 Nummer 15 und § 17 zuletzt durch Artikel 2
@@ -26,6 +27,7 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2022
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2022dv_1/BJNR046000022.html#BJNR046000022BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzkraftausgleichs im Ausgleichsjahr 2022 wird der Zahlungsverkehr
@@ -158,11 +160,13 @@ monatlichen Teilbeträgen jeweils zum 15. des Folgemonats überwiesen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2022dv_1/BJNR046000022.html#BJNR046000022BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2022 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2022dv_1/BJNR046000022.html#BJNR046000022BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

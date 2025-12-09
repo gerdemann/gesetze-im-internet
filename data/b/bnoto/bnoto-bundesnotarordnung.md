@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Das Amt des Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000103125)
 
 
 
 ### Abschnitt 1 - Bestellung zum Notar
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000203125)
 
 
 
 #### § 1 Stellung und Aufgaben des Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE001603125)
 
 Als unabhängige Träger eines öffentlichen Amtes werden für die
 Beurkundung von Rechtsvorgängen und andere Aufgaben auf dem Gebiet der
@@ -35,6 +38,7 @@ vorsorgenden Rechtspflege in den Ländern Notare bestellt.
 
 
 #### § 2 Beruf des Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE001704125)
 
 Die Notare unterstehen, soweit nichts anderes bestimmt ist,
 ausschließlich den Vorschriften dieses Gesetzes. Sie führen ein
@@ -43,6 +47,7 @@ Beruf ist kein Gewerbe.
 
 
 #### § 3 Hauptberufliche Notare; Anwaltsnotare
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE001805125)
 
 (1) Notare werden zur hauptberuflichen Amtsausübung auf Lebenszeit
 bestellt (hauptberufliche Notare).
@@ -58,6 +63,7 @@ bestellt (Anwaltsnotare).
 
 
 #### § 4 Bedürfnis für die Bestellung eines Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE001905125)
 
 Es werden so viele Notare bestellt, wie es den Erfordernissen einer
 geordneten Rechtspflege entspricht. Dabei sind insbesondere das
@@ -67,6 +73,7 @@ der Angehörigen des Berufs zu berücksichtigen.
 
 
 #### § 4a Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021200125)
 
 (1) Notarstellen sind auszuschreiben. Dies gilt nicht bei erneuten
 Bestellungen nach Amtsniederlegungen im Rahmen des § 48b Absatz 2 Satz
@@ -85,6 +92,7 @@ Antragsfrist nachzuholen.
 
 
 #### § 5 Eignung für das notarielle Amt
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002005125)
 
 (1) Zum Notar darf nur bestellt werden, wer persönlich und fachlich
 für das Amt geeignet ist.
@@ -131,6 +139,7 @@ Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
 
 #### § 5a Weitere Voraussetzungen für hauptberufliche Notare
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021300125)
 
 Zum hauptberuflichen Notar soll nur bestellt werden, wer bei Ablauf
 der Bewerbungsfrist einen dreijährigen Anwärterdienst als
@@ -141,6 +150,7 @@ Anwärterdienst erst zum Zeitpunkt der Bestellung geleistet sein muss.
 
 
 #### § 5b Weitere Voraussetzungen für Anwaltsnotare
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021400125)
 
 (1) Zum Anwaltsnotar soll nur bestellt werden, wer bei Ablauf der
 Bewerbungsfrist
@@ -199,6 +209,7 @@ Genehmigung der Landesjustizverwaltung bedarf.
 
 
 #### § 6 Auswahl bei mehreren geeigneten Personen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002109125)
 
 (1) Bewerben sich mehrere geeignete Personen um ein Amt, richtet sich
 die Reihenfolge bei der Auswahl nach der persönlichen und fachlichen
@@ -230,6 +241,7 @@ Fachprüfung abzustellen.
 
 
 #### § 6a Versagung und Aussetzung der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012403125)
 
 (1) Die Bestellung zum Notar ist zu versagen, wenn weder nachgewiesen
 wird, dass eine Berufshaftpflichtversicherung (§ 19a) besteht, noch
@@ -243,6 +255,7 @@ würde.
 
 
 #### § 7 Anwärterdienst; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002207125)
 
 (1) Zur Ableistung des Anwärterdienstes vorgesehene Stellen sind
 auszuschreiben; § 4a Absatz 2 und 3 gilt entsprechend. Abweichend
@@ -311,6 +324,7 @@ entlassen werden, wenn er
 
 
 #### § 7a Notarielle Fachprüfung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017103125)
 
 (1) Zur notariellen Fachprüfung wird auf Antrag zugelassen, wer seit
 drei Jahren zur Rechtsanwaltschaft zugelassen ist und die Befähigung
@@ -350,6 +364,7 @@ kann mit dem Ziel der Notenverbesserung einmal wiederholt werden.
 
 
 #### § 7b Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015605125)
 
 (1) Die schriftliche Prüfung umfasst vier fünfstündige
 Aufsichtsarbeiten. Sie dient der Feststellung, ob der Prüfling die für
@@ -380,6 +395,7 @@ notarielle Fachprüfung nicht bestanden.
 
 
 #### § 7c Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015706125)
 
 (1) Die mündliche Prüfung umfasst einen Vortrag zu einer notariellen
 Aufgabenstellung und ein Gruppenprüfungsgespräch, das unterschiedliche
@@ -413,6 +429,7 @@ erfolgt nur mündlich.
 
 
 #### § 7d Bescheid; Zeugnis; Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015805125)
 
 (1) Der Bescheid über das Ergebnis der notariellen Fachprüfung ist dem
 Prüfling zuzustellen. Über die bestandene notarielle Fachprüfung wird
@@ -427,6 +444,7 @@ Notenverbesserung erteilt.
 
 
 #### § 7e Rücktritt; Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015906125)
 
 (1) Die Prüfung gilt als nicht bestanden, wenn der Prüfling ohne
 genügende Entschuldigung nach der Zulassung zur Prüfung zurücktritt,
@@ -444,6 +462,7 @@ hat, kann diese nachholen.
 
 
 #### § 7f Täuschungsversuche; Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE020700125)
 
 (1) Versucht ein Prüfling, das Ergebnis der notariellen Fachprüfung
 durch Benutzung nicht zugelassener Hilfsmittel, unzulässige Hilfe
@@ -467,6 +486,7 @@ Fachprüfung als nicht bestanden.
 
 
 #### § 7g Prüfungsamt; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE020800125)
 
 (1) Die Durchführung der Prüfung obliegt dem bei der Bundesnotarkammer
 errichteten „Prüfungsamt für die notarielle Fachprüfung bei der
@@ -545,6 +565,7 @@ Prüfenden gilt Absatz 4 Satz 6 und 7 entsprechend.
 
 
 #### § 7h Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE020900125)
 
 (1) Für die Prüfung und für das erfolglose Widerspruchsverfahren sind
 Gebühren an die Bundesnotarkammer zu zahlen. Die Zulassung zur Prüfung
@@ -565,6 +586,7 @@ Verbraucherschutz bedarf.
 
 
 #### § 7i Verordnungsermächtigung zur notariellen Fachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021000125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz regelt
 durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
@@ -575,6 +597,7 @@ Verwaltungsrat.
 
 
 #### § 8 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002307125)
 
 (1) Der Notar darf nicht zugleich Inhaber eines besoldeten Amtes sein.
 Die Landesjustizverwaltung kann im Einzelfall nach Anhörung der
@@ -613,6 +636,7 @@ Vortragstätigkeit.
 
 
 #### § 9 Verbindung zur gemeinsamen Berufsausübung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002406125)
 
 (1) Notare dürfen sich nur mit am selben Amtssitz bestellten Notaren
 zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame
@@ -653,6 +677,7 @@ Unparteilichkeit des Notars nicht beeinträchtigt wird.
 
 
 #### § 10 Amtssitz
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002508125)
 
 (1) Dem Notar wird ein bestimmter Ort als Amtssitz zugewiesen. In
 Städten von mehr als hunderttausend Einwohnern kann dem Notar ein
@@ -684,6 +709,7 @@ ist die Notarkammer zu hören.
 
 
 #### § 10a Amtsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012907125)
 
 (1) Der Amtsbereich des Notars ist der Bezirk des Amtsgerichts, in dem
 er seinen Amtssitz hat. Die Landesjustizverwaltung kann nach den
@@ -733,6 +759,7 @@ angehört, unverzüglich und unter Angabe der Gründe mitzuteilen.
 
 
 #### § 11 Amtsbezirk
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002606125)
 
 (1) Der Amtsbezirk des Notars ist der Oberlandesgerichtsbezirk, in dem
 er seinen Amtssitz hat.
@@ -752,6 +779,7 @@ vornimmt, in dem er zum Notar bestellt ist.
 
 
 #### § 11a Zusammenarbeit mit einem im Ausland bestellten Notar
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013403125)
 
 Der Notar ist befugt, einen im Ausland bestellten Notar auf dessen
 Ersuchen bei seinen Amtsgeschäften zu unterstützen und sich zu diesem
@@ -765,6 +793,7 @@ Amtspflichten zu beachten.
 
 
 #### § 12 Bestellungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002703125)
 
 (1) Die Notare werden von der Landesjustizverwaltung nach Anhörung der
 Notarkammer durch Aushändigung einer Bestellungsurkunde bestellt. Die
@@ -780,6 +809,7 @@ Bestellungsurkunde unterblieben, so ist dies unverzüglich nachzuholen.
 
 
 #### § 13 Vereidigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002804125)
 
 (1) Nach Aushändigung der Bestellungsurkunde hat der Notar folgenden
 Eid zu leisten:
@@ -808,10 +838,12 @@ es in der Regel, wenn er auf den früheren Eid hingewiesen wird.
 
 
 ### Abschnitt 2 - Ausübung des Amtes
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000303125)
 
 
 
 #### § 14 Allgemeine Berufspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE002906125)
 
 (1) Der Notar hat sein Amt getreu seinem Eide zu verwalten. Er hat
 nicht eine Partei zu vertreten, sondern die Beteiligten unabhängig und
@@ -851,6 +883,7 @@ Rechtsänderungen zu informieren.
 
 
 #### § 15 Verweigerung der Amtstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003008125)
 
 (1) Der Notar darf seine Urkundstätigkeit nicht ohne ausreichenden
 Grund verweigern. Zu einer Beurkundung in einer anderen als der
@@ -867,6 +900,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 #### § 16 Verbot der Mitwirkung als Notar; Selbstablehnung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003104125)
 
 (1) Soweit es sich bei Amtstätigkeiten des Notars nicht um
 Beurkundungen nach dem Beurkundungsgesetz handelt, gilt § 3 des
@@ -877,6 +911,7 @@ enthalten.
 
 
 #### § 17 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003206125)
 
 (1) Der Notar ist verpflichtet, für seine Tätigkeit die gesetzlich
 vorgeschriebenen Gebühren zu erheben. Soweit nicht gesetzliche
@@ -899,6 +934,7 @@ Gebühren in Monatsraten zu gewähren.
 
 
 #### § 18 Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003304125)
 
 (1) Der Notar ist zur Verschwiegenheit verpflichtet. Diese Pflicht
 bezieht sich auf alles, was ihm bei Ausübung seines Amtes bekannt
@@ -922,6 +958,7 @@ des Amtes bestehen.
 
 
 #### § 18a Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021500125)
 
 (1) Personen, die historische oder sonstige wissenschaftliche
 Forschung betreiben, ist nach Maßgabe der nachfolgenden Vorschriften
@@ -958,6 +995,7 @@ erfordern würden.
 
 
 #### § 18b Form des Zugangs zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021600125)
 
 (1) Die Landesjustizverwaltung hat den Zugang zu Inhalten notarieller
 Urkunden und Verzeichnisse zu Forschungszwecken anonymisiert zu
@@ -1001,6 +1039,7 @@ Geheimhaltung verpflichtet wurden.
 
 
 #### § 18c Schutz von Inhalten beim Zugang zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021700125)
 
 (1) Forschende haben diejenigen ihnen zu Forschungszwecken zugänglich
 gemachten Inhalte notarieller Urkunden und Verzeichnisse, die der
@@ -1027,6 +1066,7 @@ Satz 2 und 3 gilt entsprechend.
 
 
 #### § 18d Kosten des Zugangs zu Forschungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021800125)
 
 (1) Für den Zugang zu Inhalten notarieller Urkunden und Verzeichnisse
 zu Forschungszwecken werden Gebühren nach dem Gebührenverzeichnis der
@@ -1047,6 +1087,7 @@ Umsatzsteuer zu entrichten hat, ist diese mit anzusetzen.
 
 
 #### § 19 Amtspflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003404125)
 
 (1) Verletzt der Notar vorsätzlich oder fahrlässig die ihm anderen
 gegenüber obliegende Amtspflicht, so hat er diesen den daraus
@@ -1077,6 +1118,7 @@ ausschließlich zuständig.
 
 
 #### § 19a Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012513125)
 
 (1) Der Notar ist verpflichtet, eine Berufshaftpflichtversicherung zu
 unterhalten zur Deckung der Haftpflichtgefahren für Vermögensschäden,
@@ -1152,10 +1194,12 @@ gilt auch, wenn das notarielle Amt erloschen ist.
 
 
 ### Abschnitt 3 - Die Amtstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000403125)
 
 
 
 #### § 20 Beurkundungen und Beglaubigungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003508125)
 
 (1) Die Notare sind zuständig, Beurkundungen jeder Art vorzunehmen
 sowie Unterschriften, qualifizierte elektronische Signaturen,
@@ -1190,6 +1234,7 @@ sich nach den landesrechtlichen Vorschriften.
 
 
 #### § 21 Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003606125)
 
 (1) Die Notare sind zuständig,
 
@@ -1224,6 +1269,7 @@ und an welchem Tag die Vollmachtsurkunde dem Notar vorgelegen hat.
 
 
 #### § 22 Abnahme von Eiden; Aufnahme eidesstattlicher Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003703125)
 
 (1) Zur Abnahme von Eiden sowie zu eidlichen Vernehmungen sind die
 Notare nur zuständig, wenn der Eid oder die eidliche Vernehmung nach
@@ -1238,6 +1284,7 @@ soll.
 
 
 #### § 23 Aufbewahrung und Ablieferung von Wertgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE003905125)
 
 Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten,
 die ihnen von den Beteiligten übergeben sind, zur Aufbewahrung oder
@@ -1246,6 +1293,7 @@ Beurkundungsgesetzes bleiben unberührt.
 
 
 #### § 24 Betreuung und Vertretung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004007125)
 
 (1) Zu dem Amt des Notars gehört auch die sonstige Betreuung der
 Beteiligten auf dem Gebiete vorsorgender Rechtspflege, insbesondere
@@ -1276,10 +1324,12 @@ Beglaubigung der Unterschrift ist nicht erforderlich.
 
 
 ### Abschnitt 4 - Sonstige Amtspflichten des Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001603125)
 
 
 
 #### § 25 Beschäftigung von Mitarbeitern; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013505125)
 
 (1) Der Notar darf Personen mit Befähigung zum Richteramt,
 Laufbahnprüfung für das Amt des Bezirksnotars oder Abschluß als
@@ -1297,6 +1347,7 @@ werden.
 
 
 #### § 26 Förmliche Verpflichtung beschäftigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013605125)
 
 Der Notar hat die von ihm beschäftigten Personen bei ihrer Einstellung
 nach § 1 des Verpflichtungsgesetzes förmlich zu verpflichten. Hierbei
@@ -1314,6 +1365,7 @@ für Notarassessoren und Referendare.
 
 
 #### § 26a Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE019201125)
 
 (1) Der Notar darf Dienstleistern ohne Einwilligung der Beteiligten
 den Zugang zu Tatsachen eröffnen, auf die sich die Verpflichtung zur
@@ -1368,6 +1420,7 @@ personenbezogener Daten bleiben unberührt.
 
 
 #### § 27 Anzeigepflicht bei Verbindung zur gemeinsamen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013704125)
 
 (1) Der Notar hat eine Verbindung zur gemeinsamen Berufsausübung oder
 zur gemeinsamen Nutzung der Geschäftsräume unverzüglich der
@@ -1383,6 +1436,7 @@ die gemeinsame Nutzung der Geschäftsräume vorzulegen.
 
 
 #### § 28 Sicherstellung der Unabhängigkeit und Unparteilichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013804125)
 
 Der Notar hat durch geeignete Vorkehrungen die Wahrung der
 Unabhängigkeit und Unparteilichkeit seiner Amtsführung, insbesondere
@@ -1392,6 +1446,7 @@ Gerichts- und Notarkostengesetzes sicherzustellen.
 
 
 #### § 29 Werbeverbot
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013904125)
 
 (1) Der Notar hat jedes gewerbliche Verhalten, insbesondere eine dem
 öffentlichen Amt widersprechende Werbung zu unterlassen.
@@ -1420,6 +1475,7 @@ werden.
 
 
 #### § 30 Ausbildungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014003125)
 
 (1) Der Notar hat bei der Ausbildung des beruflichen Nachwuchses und
 von Referendaren nach besten Kräften mitzuwirken.
@@ -1429,6 +1485,7 @@ sorgfältige Fachausbildung zu vermitteln.
 
 
 #### § 31 Verhalten des Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014103125)
 
 Der Notar hat sich gegenüber anderen Notaren, Notarassessoren,
 Gerichten, Behörden, Rechtsanwälten und anderen seine Auftraggeber
@@ -1437,10 +1494,12 @@ verhalten.
 
 
 #### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014204125)
 
 
 
 #### § 33 Elektronische Signatur
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014905125)
 
 (1) Der Notar muss über ein auf Dauer prüfbares qualifiziertes
 Zertifikat eines qualifizierten Vertrauensdiensteanbieters und über
@@ -1478,6 +1537,7 @@ Hardwarekomponente benutzt.
 
 
 #### § 34 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017203125)
 
 Der Notar hat der Aufsichtsbehörde sowie derjenigen Notarkammer, in
 deren Bezirk er seinen Amtssitz hat, unverzüglich mitzuteilen, wenn er
@@ -1516,10 +1576,12 @@ Stellen übermittelten oder verwahrten Daten betroffen ist.
 
 
 ### Abschnitt 4a - Führung der Akten und Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001703125)
 
 
 
 #### § 35 Führung der Akten und Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017305125)
 
 (1) Der Notar ist verpflichtet, Akten und Verzeichnisse so zu führen,
 dass deren Verfügbarkeit, Integrität, Transparenz und Vertraulichkeit
@@ -1583,6 +1645,7 @@ erforderlich ist.
 
 
 #### § 36 Verordnungsermächtigung zu Akten und Verzeichnissen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017403125)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz hat
 durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
@@ -1637,14 +1700,17 @@ Urkundenverzeichnis gespeicherten Daten
 
 
 #### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017500311)
 
 
 
 ### Abschnitt 5 - Abwesenheit und Verhinderung des Notars; Notarvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000603125)
 
 
 
 #### § 38 Anzeige von Abwesenheit oder Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004203125)
 
 Will sich der Notar länger als eine Woche von seinem Amtssitz
 entfernen oder ist er aus tatsächlichen Gründen länger als eine Woche
@@ -1655,6 +1721,7 @@ einen Monat dauern soll.
 
 
 #### § 39 Notarvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004310125)
 
 (1) Die Aufsichtsbehörde kann dem Notar auf seinen Antrag für die Zeit
 seiner Abwesenheit oder Verhinderung eine Notarvertreterin oder einen
@@ -1692,6 +1759,7 @@ nachstehend etwas anderes geregelt ist.
 
 
 #### § 40 Form der Bestellung; Amtseid; Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004403125)
 
 (1) Die Bestellung ist der Vertretung unbeschadet einer anderweitigen
 Bekanntmachung schriftlich zu übermitteln. Abweichend von § 44 des
@@ -1709,6 +1777,7 @@ geleisteten Eid hingewiesen wird.
 
 
 #### § 41 Amtsausübung der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004503125)
 
 (1) Die Vertretung versieht das Amt auf Kosten des Notars. Sie hat
 ihrer Unterschrift einen sie als Vertretung kennzeichnenden Zusatz
@@ -1720,6 +1789,7 @@ untersagt wäre.
 
 
 #### § 42 Zuständigkeit für Streitigkeiten zwischen Notar und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004604125)
 
 Für vermögensrechtliche Streitigkeiten zwischen dem Notar und seiner
 Vertretung, welche die Vergütung oder die Haftung für
@@ -1729,12 +1799,14 @@ zuständig.
 
 
 #### § 43 Vergütung der von Amts wegen bestellten Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004703125)
 
 Der Notar hat der ihm von Amts wegen bestellten Vertretung (§ 39
 Absatz 2) eine angemessene Vergütung zu zahlen.
 
 
 #### § 44 Dauer der Amtsbefugnis der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004803125)
 
 (1) Die Amtsbefugnis der Vertretung beginnt mit der Übernahme des
 Amtes und endigt, wenn die Bestellung nicht vorher widerrufen wird,
@@ -1747,6 +1819,7 @@ nicht vorhanden waren oder später weggefallen sind.
 
 
 #### § 45 Verwahrung bei Abwesenheit oder Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE004905125)
 
 (1) Für die Dauer der Abwesenheit oder Verhinderung kann der Notar,
 dem keine Vertretung bestellt ist, seine Akten und Verzeichnisse sowie
@@ -1788,6 +1861,7 @@ seine Tätigkeit selbst zufließen, gelten entsprechend.
 
 
 #### § 46 Amtspflichtverletzung der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005003125)
 
 Für eine Amtspflichtverletzung der Vertretung haftet der Notar den
 Geschädigten neben der Vertretung gesamtschuldnerisch. Im Verhältnis
@@ -1798,10 +1872,12 @@ in diesem Fall ist sie im Verhältnis zum Notar allein verpflichtet.
 
 
 ### Abschnitt 6 - Erlöschen des Amtes; vorläufige Amtsenthebung; Notariatsverwalter
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000704125)
 
 
 
 #### § 47 Erlöschen des Amtes
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005107125)
 
 Das Amt des Notars erlischt durch
 
@@ -1834,6 +1910,7 @@ Das Amt des Notars erlischt durch
 
 
 #### § 48 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005203125)
 
 Der Notar kann jederzeit seine Entlassung aus dem Amt verlangen. Das
 Verlangen muß der Landesjustizverwaltung schriftlich erklärt werden.
@@ -1845,12 +1922,14 @@ Landesjustizverwaltung für den beantragten Zeitpunkt auszusprechen.
 
 
 #### § 48a Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013003125)
 
 Die Notare erreichen mit dem Ende des Monats, in dem sie das
 siebzigste Lebensjahr vollenden, die Altersgrenze.
 
 
 #### § 48b Amtsniederlegung zum Zweck der Betreuung oder Pflege
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014303125)
 
 (1) Wer als Notar ein Kind unter 18 Jahren oder einen nachweislich
 pflegebedürftigen nahen Angehörigen (§ 7 Absatz 3 des
@@ -1894,6 +1973,7 @@ hat.
 
 
 #### § 48c Amtsniederlegung aus gesundheitlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014403125)
 
 (1) Der Notar kann sein Amt mit Genehmigung der Aufsichtsbehörde
 niederlegen, wenn ärztlich bescheinigt ist, dass
@@ -1930,6 +2010,7 @@ gilt für eine Amtsniederlegung nach Absatz 1 § 48b Absatz 2 Satz 2 und
 
 
 #### § 49 Strafgerichtliche Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005303125)
 
 Eine strafgerichtliche Verurteilung führt bei einem Notar in gleicher
 Weise zum Amtsverlust wie bei einem Beamten nach § 24 Absatz 1 des
@@ -1937,6 +2018,7 @@ Beamtenstatusgesetzes.
 
 
 #### § 50 Amtsenthebung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005413125)
 
 (1) Der Notar ist seines Amtes zu entheben,
 
@@ -2017,6 +2099,7 @@ Verfahren gilt § 5 Absatz 3 entsprechend.
 
 
 #### § 51 Verwahrung bei Erlöschen des Amtes oder Verlegung des Amtssitzes
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005507125)
 
 (1) Ist das Amt eines Notars erloschen oder ändert sich auf Grund der
 Verlegung seines Amtssitzes sein Amtsbereich, ist für die Verwahrung
@@ -2060,6 +2143,7 @@ Gesetzes sowie nach § 51 Absatz 3 des Beurkundungsgesetzes.
 
 
 #### § 51a Ablieferung verwahrter Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017601125)
 
 (1) In den Fällen des § 51 Absatz 1 ist der Notar verpflichtet, die
 Akten und Verzeichnisse sowie die ihm amtlich übergebenen Urkunden und
@@ -2089,6 +2173,7 @@ der dem Notar amtlich übergebenen Urkunden zu überprüfen.
 
 
 #### § 52 Weiterführung der Amtsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005608125)
 
 (1) Mit dem Erlöschen des Amtes erlischt die Befugnis, die
 Amtsbezeichnung „Notarin“ oder „Notar“ zu führen. Die Amtsbezeichnung
@@ -2119,6 +2204,7 @@ darf.
 
 
 #### § 53 Übernahme von Räumen oder Angestellten des ausgeschiedenen Notars
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005704125)
 
 (1) Ist das Amt eines hauptberuflichen Notars erloschen oder ist sein
 Amtssitz verlegt worden, so bedarf ein anderer an dem Amtssitz bereits
@@ -2135,6 +2221,7 @@ Vorschrift des Absatzes 1 nicht berührt.
 
 
 #### § 54 Vorläufige Amtsenthebung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015509125)
 
 (1) Der Notar kann von der Aufsichtsbehörde vorläufig seines Amtes
 enthoben werden,
@@ -2182,6 +2269,7 @@ nach Einleitung eines Disziplinarverfahrens bleiben unberührt.
 
 
 #### § 55 Verwahrung und Amtshandlungen bei vorläufiger Amtsenthebung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE005906125)
 
 (1) Ist ein Notar vorläufig seines Amtes enthoben und weder eine
 Notarvertretung noch ein Notariatsverwalter bestellt, so ist in diesem
@@ -2208,6 +2296,7 @@ Notar nicht mehr vornehmen.
 
 
 #### § 56 Notariatsverwalter
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006005125)
 
 (1) Ist das Amt eines hauptberuflichen Notars erloschen oder sein
 Amtssitz verlegt worden, so hat die Aufsichtsbehörde in der Regel an
@@ -2252,6 +2341,7 @@ werden, wenn hierfür ein wichtiger Grund vorliegt.
 
 
 #### § 57 Amtsausübung und Bestellung des Notariatsverwalters
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006104125)
 
 (1) Der Notariatsverwalter untersteht, soweit nichts anderes bestimmt
 ist, den für die Notare geltenden Vorschriften.
@@ -2262,6 +2352,7 @@ bestellt. § 12 Absatz 2 und § 40 Absatz 2 gelten entsprechend.
 
 
 #### § 58 Fortführung der Amtsgeschäfte; Kostenforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006208125)
 
 (1) Der Notariatsverwalter ist zuständig für die Verwahrung der Akten
 und Verzeichnisse des Notars, an dessen Stelle er bestellt ist, sowie
@@ -2292,6 +2383,7 @@ Notar.
 
 
 #### § 59 Vergütung; Abrechnung mit der Notarkammer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006304125)
 
 (1) Der Notariatsverwalter führt sein Amt auf Rechnung der Notarkammer
 gegen eine von dieser festzusetzende angemessene Vergütung. Er hat mit
@@ -2311,6 +2403,7 @@ Fall nicht anwendbar.
 
 
 #### § 60 Überschüsse aus Notariatsverwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006404125)
 
 (1) Die Überschüsse aus den auf Rechnung der Notarkammer
 durchgeführten Notariatsverwaltungen müssen vorrangig zugunsten der
@@ -2324,6 +2417,7 @@ Notarkammer zu.
 
 
 #### § 61 Amtspflichtverletzung des Notariatsverwalters
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006506125)
 
 (1) Für eine Amtspflichtverletzung des Notariatsverwalters haftet die
 Notarkammer dem Geschädigten neben dem Notariatsverwalter als
@@ -2348,6 +2442,7 @@ Notariatsverwalters besteht nicht.
 
 
 #### § 62 Zuständigkeit für Streitigkeiten zwischen Notarkammer und Notariatsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006605125)
 
 Für vermögensrechtliche Streitigkeiten zwischen der Notarkammer und
 dem Notariatsverwalter, welche die Vergütung, die Abrechnung (§ 59)
@@ -2357,6 +2452,7 @@ ausschließlich zuständig.
 
 
 #### § 63 Einsicht der Notarkammer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006706125)
 
 (1) Der Notariatsverwalter ist verpflichtet, Beauftragten der
 Notarkammer Einsicht in die Akten und Verzeichnisse sowie in die in
@@ -2367,6 +2463,7 @@ unberührt.
 
 
 #### § 64 Dauer der Amtsbefugnis des Notariatsverwalters; Kostenforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006807125)
 
 (1) Das Amt eines für einen hauptberuflichen Notar nach § 56 Absatz 1
 Satz 1, Absatz 3 Satz 1 oder Absatz 5 Satz 1 bestellten
@@ -2417,10 +2514,12 @@ beauftragen, die ausstehenden Forderungen auf ihre Kosten einzuziehen.
 
 
 ### Abschnitt 7 - Allgemeine Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001503125)
 
 
 
 #### § 64a Anwendbarkeit der Verwaltungsverfahrensgesetze
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013108125)
 
 Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung gelten, soweit nichts
@@ -2430,6 +2529,7 @@ Verwaltungsverfahrensgesetze der Länder.
 
 
 #### § 64b Bestellung eines Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE021900125)
 
 Wird in einem nach diesem Gesetz geführten Verwaltungsverfahren für
 den Notar ein Vertreter bestellt, soll ein Rechtsanwalt oder Notar
@@ -2437,6 +2537,7 @@ bestellt werden.
 
 
 #### § 64c Ersetzung der Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022001125)
 
 Ist nach diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen
 Rechtsverordnung für die Abgabe einer Erklärung die Schriftform
@@ -2451,6 +2552,7 @@ Notarpostfach nach Satz 1 gleich.
 
 
 #### § 64d Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022400125)
 
 (1) Gerichte und Behörden einschließlich der Berufskammern übermitteln
 der für die Entscheidung zuständigen Stelle diejenigen Daten über
@@ -2497,14 +2599,17 @@ Abgabenordnung.
 
 
 ## Teil 2 - Notarkammern und Bundesnotarkammer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000803125)
 
 
 
 ### Abschnitt 1 - Notarkammern
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG000903125)
 
 
 
 #### § 65 Bildung; Sitz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE006904125)
 
 (1) Die Notare, die in einem Oberlandesgerichtsbezirk bestellt sind,
 bilden eine Notarkammer. Die Landesregierung oder die von ihr durch
@@ -2520,6 +2625,7 @@ ihr bestimmte Stelle den Sitz der Notarkammer.
 
 
 #### § 66 Satzung; Aufsicht; Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007005125)
 
 (1) Die Notarkammer ist eine Körperschaft des öffentlichen Rechts. Die
 Satzung der Notarkammer und ihre Änderungen werden von der
@@ -2540,6 +2646,7 @@ tätigen Notare und Notarassessoren vor.
 
 
 #### § 67 Aufgaben; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007112125)
 
 (1) Die Notarkammer vertritt die Gesamtheit der in ihr
 zusammengeschlossenen Notare. Sie hat für eine rechtmäßige und
@@ -2721,12 +2828,14 @@ unter Angabe der maßgeblichen Zeitpunkte unverzüglich über
 
 
 #### § 68 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007204125)
 
 Die Organe der Notarkammer sind der Vorstand und die
 Kammerversammlung.
 
 
 #### § 69 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007305125)
 
 (1) Der Vorstand nimmt, unbeschadet der Vorschrift des § 70, die
 Befugnisse der Notarkammer wahr. In dringenden Fällen beschließt er an
@@ -2780,6 +2889,7 @@ vorsehen.
 
 
 #### § 69a Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013205125)
 
 (1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die
 ihnen bei ihrer Tätigkeit im Vorstand über Notare, Notarassessoren und
@@ -2823,6 +2933,7 @@ sinngemäß.
 
 
 #### § 69b Abteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014505125)
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Satzung der
 Notarkammer es zuläßt. Er überträgt den Abteilungen die Geschäfte, die
@@ -2848,6 +2959,7 @@ angemessen hält oder wenn die Abteilung oder ihr Vorsitz es beantragt.
 
 
 #### § 69c Vorzeitiges Ausscheiden eines Vorstandsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022500125)
 
 (1) Ist ein Mitglied des Vorstands nicht mehr Mitglied der Notarkammer
 oder verliert es seine Wählbarkeit aus den in § 69 Absatz 4 Nummer 2,
@@ -2862,6 +2974,7 @@ Mitgliedschaft führen.
 
 
 #### § 70 Präsident
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007406125)
 
 (1) Der Präsident vertritt die Notarkammer gerichtlich und
 außergerichtlich. Bei der Erteilung von Ausfertigungen und
@@ -2888,6 +3001,7 @@ Kammerversammlung den Vorsitz.
 
 
 #### § 71 Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007507125)
 
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
@@ -2927,6 +3041,7 @@ Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 #### § 71a Durchführung der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022800125)
 
 (1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in
 Präsenz aller Beteiligten am Ort der Versammlung statt.
@@ -2977,12 +3092,14 @@ stattfindet.
 
 
 #### § 72 Regelung durch Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007603125)
 
 Die näheren Bestimmungen über die Organe der Notarkammer und ihre
 Zuständigkeiten trifft die Satzung.
 
 
 #### § 73 Erhebung von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007706125)
 
 (1) Die Notarkammer erhebt von den Notaren Beiträge, soweit dies zur
 Erfüllung ihrer Aufgaben erforderlich ist.
@@ -3000,6 +3117,7 @@ und den Ersatz von Auslagen verlangen.
 
 
 #### § 74 Auskunfts-, Vorlage- und Vorladerecht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007809125)
 
 (1) Die Notarkammer kann in Ausübung ihrer Befugnisse von den Notaren
 und Notarassessoren Auskünfte, die Vorlage von Akten und
@@ -3018,6 +3136,7 @@ wie ein rückständiger Beitrag beigetrieben.
 
 
 #### § 75 Ermahnung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE007905125)
 
 (1) Die Notarkammer ist befugt, Notare und Notarassessoren zu
 ermahnen, wenn diese eine Amtspflichtverletzung leichter Art begangen
@@ -3064,10 +3183,12 @@ ausgesprochene Ermahnung unwirksam.
 
 
 ### Abschnitt 2 - Bundesnotarkammer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001003125)
 
 
 
 #### § 76 Bildung; Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008003125)
 
 (1) Die Notarkammern werden zu einer Bundesnotarkammer
 zusammengeschlossen.
@@ -3076,6 +3197,7 @@ zusammengeschlossen.
 
 
 #### § 77 Rechtsstatus; Aufsicht; Genehmigung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008105125)
 
 (1) Die Bundesnotarkammer ist eine Körperschaft des öffentlichen
 Rechts.
@@ -3091,6 +3213,7 @@ Bundesministeriums der Justiz und für Verbraucherschutz.
 
 
 #### § 78 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008210125)
 
 (1) Die Bundesnotarkammer hat die ihr durch Gesetz zugewiesenen
 Aufgaben zu erfüllen. Sie hat insbesondere
@@ -3174,6 +3297,7 @@ entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 
 
 #### § 78a Zentrales Vorsorgeregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015010125)
 
 (1) Die Bundesnotarkammer führt als Registerbehörde ein
 automatisiertes elektronisches Register über Vorsorgevollmachten,
@@ -3235,6 +3359,7 @@ Bestimmungen zu treffen über
 
 
 #### § 78b Auskunft und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015109125)
 
 (1) Die Registerbehörde erteilt Gerichten und Ärzten auf Ersuchen
 Auskunft aus dem Zentralen Vorsorgeregister. Ärzte dürfen nur um
@@ -3266,6 +3391,7 @@ Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
 
 
 #### § 78c Zentrales Testamentsregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015208125)
 
 (1) Die Bundesnotarkammer führt als Registerbehörde ein
 automatisiertes elektronisches Register über die Verwahrung
@@ -3318,6 +3444,7 @@ Ferner können in der Rechtsverordnung Ausnahmen zugelassen werden von
 
 
 #### § 78d Inhalt des Zentralen Testamentsregisters
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016706125)
 
 (1) In das Zentrale Testamentsregister werden Verwahrangaben zu
 erbfolgerelevanten Urkunden aufgenommen, die
@@ -3373,6 +3500,7 @@ dem Gericht die zur Registrierung erforderlichen Daten mit.
 
 
 #### § 78e Sterbefallmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016806125)
 
 Das zuständige Standesamt hat der Registerbehörde den Tod, die
 Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer
@@ -3395,6 +3523,7 @@ Die Benachrichtigung erfolgt elektronisch.
 
 
 #### § 78f Auskunft aus dem Zentralen Testamentsregister
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016904125)
 
 (1) Die Registerbehörde erteilt auf Ersuchen
 
@@ -3450,6 +3579,7 @@ Gerichtsbarkeit an das Zentrale Testamentsregister zu melden.
 
 
 #### § 78g Gebührenerhebung für das Zentrale Testamentsregister
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017703125)
 
 (1) Das Zentrale Testamentsregister wird durch Gebühren finanziert.
 Die Registerbehörde kann Gebühren erheben für
@@ -3490,6 +3620,7 @@ Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
 
 
 #### § 78h Elektronisches Urkundenarchiv; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017803125)
 
 (1) Die Bundesnotarkammer betreibt als Urkundenarchivbehörde ein
 zentrales elektronisches Archiv, das den Notaren die Führung der
@@ -3537,6 +3668,7 @@ Bestimmungen zu treffen über
 
 
 #### § 78i Zugangsberechtigung zum Elektronischen Urkundenarchiv
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017903125)
 
 Der Zugang zum Urkundenverzeichnis, zum Verwahrungsverzeichnis und zu
 den im Elektronischen Urkundenarchiv verwahrten elektronischen
@@ -3546,6 +3678,7 @@ technische und organisatorische Maßnahmen.
 
 
 #### § 78j Gebührenerhebung für das Elektronische Urkundenarchiv
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018003125)
 
 (1) Das Elektronische Urkundenarchiv wird durch Gebühren finanziert.
 Die Urkundenarchivbehörde kann Gebühren erheben für
@@ -3602,6 +3735,7 @@ Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
 
 
 #### § 78k Elektronischer Notariatsaktenspeicher; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018103125)
 
 (1) Die Bundesnotarkammer betreibt einen zentralen elektronischen
 Aktenspeicher, der den Notaren die elektronische Führung ihrer nicht
@@ -3650,6 +3784,7 @@ Bestimmungen zu treffen über
 
 
 #### § 78l Notarverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018203125)
 
 (1) Die Bundesnotarkammer führt ein elektronisches Verzeichnis der
 Notare und Notariatsverwalter (Notarverzeichnis). Jede Notarkammer
@@ -3729,6 +3864,7 @@ erforderlich sind.
 
 
 #### § 78m Verordnungsermächtigung zum Notarverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018303125)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten
@@ -3747,6 +3883,7 @@ beschränkt oder ausgeschlossen werden.
 
 
 #### § 78n Besonderes elektronisches Notarpostfach; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018403125)
 
 (1) Die Bundesnotarkammer richtet für jeden in das Notarverzeichnis
 eingetragenen Notar ein persönliches elektronisches Postfach ein
@@ -3808,6 +3945,7 @@ Einzelheiten
 
 
 #### § 78o Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE018503125)
 
 (1) Gegen Entscheidungen der Registerbehörde nach den §§ 78a bis 78g
 und der Urkundenarchivbehörde nach § 78j, auch soweit diese auf Grund
@@ -3827,6 +3965,7 @@ der Bundesnotarkammer vor.
 
 
 #### § 78p Videokommunikationssystem für Urkundstätigkeiten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022603125)
 
 (1) Die Bundesnotarkammer betreibt ein Videokommunikationssystem, das
 den Notaren die Vornahme von Urkundstätigkeiten mittels
@@ -3882,6 +4021,7 @@ Bestimmungen zu treffen über
 
 
 #### § 78q Gebührenerhebung für das Videokommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022701125)
 
 (1) Das Videokommunikationssystem wird durch Gebühren finanziert, zu
 deren Zahlung die Notare verpflichtet sind. Die Gebühren sind so zu
@@ -3896,12 +4036,14 @@ Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
 
 
 #### § 79 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008303125)
 
 Die Organe der Bundesnotarkammer sind das Präsidium und die
 Generalversammlung.
 
 
 #### § 80 Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008404125)
 
 Das Präsidium der Bundesnotarkammer besteht aus dem Präsidenten und
 acht weiteren Mitgliedern. Fünf Mitglieder des Präsidiums müssen
@@ -3911,6 +4053,7 @@ dabei als Vertretung des Präsidenten.
 
 
 #### § 81 Wahl des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008504125)
 
 (1) Das Präsidium wird von der Generalversammlung gewählt. Wählbar
 sind die Präsidenten der Notarkammern und die von ihnen
@@ -3925,6 +4068,7 @@ ein neues Mitglied zu wählen.
 
 
 #### § 81a Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE013303125)
 
 (1) Für die Verschwiegenheitspflicht der Mitglieder des Präsidiums und
 der Angestellten der Bundesnotarkammer sowie der Personen, die von der
@@ -3938,6 +4082,7 @@ Absatz 1 bis 3, 6 und 7 sinngemäß.
 
 
 #### § 82 Aufgaben des Präsidenten und des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008604125)
 
 (1) Der Präsident vertritt die Bundesnotarkammer gerichtlich und
 außergerichtlich.
@@ -3951,6 +4096,7 @@ der Wahlen zum Präsidium an.
 
 
 #### § 83 Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008704125)
 
 (1) Die Bundesnotarkammer faßt ihre Beschlüsse regelmäßig auf
 Generalversammlungen.
@@ -3963,10 +4109,12 @@ unterrichten.
 
 
 #### § 84 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008803125)
 
 
 
 #### § 85 Einberufung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE008906125)
 
 (1) Die Generalversammlung wird durch den Präsidenten schriftlich
 einberufen. Er führt in ihr den Vorsitz. Die Generalversammlung muss
@@ -3991,6 +4139,7 @@ Abstimmungen außerhalb von Sitzungen sind schriftlich durchzuführen.
 
 
 #### § 86 Zusammensetzung und Beschlussfassung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009005125)
 
 (1) In der Generalversammlung werden die Notarkammern durch ihren
 jeweiligen Präsidenten oder ein anderes Mitglied ihrer Notarkammer
@@ -4033,12 +4182,14 @@ Anwaltsnotaren zustehen, widersprochen wird.
 
 
 #### § 87 Bericht des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009103125)
 
 Das Präsidium hat der Generalversammlung über alle wichtigen
 Angelegenheiten zu berichten.
 
 
 #### § 88 Status der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009203125)
 
 Die Mitglieder des Präsidiums und der Generalversammlung sind
 ehrenamtlich tätig. Sie können jedoch eine angemessene Entschädigung
@@ -4047,6 +4198,7 @@ erhalten.
 
 
 #### § 89 Regelung durch Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009303125)
 
 Die näheren Bestimmungen über die Organe der Bundesnotarkammer und
 ihre Befugnisse trifft die Satzung. Die Satzung und deren Änderungen
@@ -4055,6 +4207,7 @@ bekanntzumachen.
 
 
 #### § 90 Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009403125)
 
 Die Bundesnotarkammer ist befugt, zur Erfüllung der ihr durch Gesetz
 oder Satzung zugewiesenen Aufgaben von den Notarkammern Berichte und
@@ -4062,6 +4215,7 @@ Gutachten einzufordern.
 
 
 #### § 91 Erhebung von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009503125)
 
 (1) Die Bundesnotarkammer erhebt von den Notarkammern Beiträge, die
 zur Deckung des persönlichen und sachlichen Bedarfs bestimmt sind.
@@ -4070,14 +4224,17 @@ zur Deckung des persönlichen und sachlichen Bedarfs bestimmt sind.
 
 
 ## Teil 3 - Aufsicht; Disziplinarverfahren; gerichtliches Verfahren in verwaltungsrechtlichen Notarsachen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001103125)
 
 
 
 ### Abschnitt 1 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001203125)
 
 
 
 #### § 92 Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009604125)
 
 (1) Das Recht der Aufsicht steht zu
 
@@ -4109,6 +4266,7 @@ nach § 13 Absatz 3 Satz 1, § 40 Absatz 2 Satz 1, § 51 Absatz 2 und §
 
 
 #### § 93 Befugnisse der Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009708125)
 
 (1) Den Aufsichtsbehörden obliegt die regelmäßige Prüfung und
 Überwachung der Amtsführung der Notare und des Dienstes der
@@ -4156,6 +4314,7 @@ Dritte, mit denen eine berufliche Verbindung im Sinne von § 27 Absatz
 
 
 #### § 94 Missbilligung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009804125)
 
 (1) Die Aufsichtsbehörden sind befugt, Notaren und Notarassessoren
 eine Missbilligung auszusprechen, wenn diese eine
@@ -4183,10 +4342,12 @@ und 3 gilt entsprechend.
 
 
 ### Abschnitt 2 - Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001303125)
 
 
 
 #### § 95 Einleitung eines Disziplinarverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE009903125)
 
 Liegen zureichende tatsächliche Anhaltspunkte dafür vor, dass ein
 Notar oder ein Notarassessor seine Amtspflichten schuldhaft verletzt
@@ -4196,6 +4357,7 @@ Disziplinarverfahren einzuleiten.
 
 
 #### § 95a Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012605125)
 
 (1) Die Verfolgung eines Dienstvergehens verjährt nach fünf Jahren.
 Abweichend davon
@@ -4246,6 +4408,7 @@ Abweichend davon
 
 
 #### § 96 Anwendung der Vorschriften des Bundesdisziplinargesetzes; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010009125)
 
 (1) Soweit in diesem Gesetz nichts Abweichendes bestimmt ist, sind die
 Vorschriften des Bundesdisziplinargesetzes in der am 31. März 2024
@@ -4288,6 +4451,7 @@ einer nicht öffentlichen Verhandlung der Zutritt gestattet werden.
 
 
 #### § 97 Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010107125)
 
 (1) Im Disziplinarverfahren können folgende Maßnahmen verhängt werden:
 
@@ -4330,6 +4494,7 @@ Rechtsanwaltschaft zur Folge.
 
 
 #### § 98 Verhängung der Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010207125)
 
 Verweis und Geldbuße können durch Disziplinarverfügung der
 Aufsichtsbehörden verhängt werden. Soll gegen den Notar auf Entfernung
@@ -4342,6 +4507,7 @@ entsprechende Anwendung.
 
 
 #### § 99 Disziplinargericht
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010303125)
 
 Als Disziplinargerichte für Notare sind im ersten Rechtszug das
 Oberlandesgericht und im zweiten Rechtszug der Bundesgerichtshof
@@ -4349,6 +4515,7 @@ zuständig.
 
 
 #### § 100 Übertragung von Aufgaben des Disziplinargerichts durch Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010404125)
 
 Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die
 Landesregierung durch Rechtsverordnung die örtliche Zuständigkeit der
@@ -4360,6 +4527,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 #### § 101 Besetzung des Oberlandesgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010503125)
 
 Das Oberlandesgericht entscheidet in Disziplinarsachen gegen Notare in
 der Besetzung mit dem Vorsitzenden, einem Beisitzer, der planmäßig
@@ -4367,6 +4535,7 @@ angestellter Richter ist, und einem Beisitzer, der Notar ist.
 
 
 #### § 102 Bestellung der richterlichen Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010605125)
 
 Der Vorsitzende, der mindestens Vorsitzender Richter am
 Oberlandesgericht sein muss, seine Stellvertreter sowie die
@@ -4378,6 +4547,7 @@ Gerichtsverfassungsgesetzes entsprechend.
 
 
 #### § 103 Bestellung der notariellen Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010708125)
 
 (1) Die Beisitzer aus den Reihen der Notare werden von der
 Landesjustizverwaltung ernannt. Sie müssen im Zuständigkeitsbereich
@@ -4422,6 +4592,7 @@ Nachfolger ernannt.
 
 
 #### § 104 Rechte und Pflichten der notariellen Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010807125)
 
 (1) Die Beisitzer aus den Reihen der Notare haben als solche während
 der Dauer ihres Amtes alle Rechte und Pflichten eines Berufsrichters.
@@ -4473,6 +4644,7 @@ Gründen nicht zuzumuten ist, sein Amt weiter auszuüben.
 
 
 #### § 105 Anfechtung von Entscheidungen des Oberlandesgerichts
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE010908125)
 
 Für die Anfechtung von Entscheidungen des Oberlandesgerichts gelten
 die Vorschriften des Bundesdisziplinargesetzes in der am 31. März 2024
@@ -4481,6 +4653,7 @@ Verwaltungsgerichts entsprechend.
 
 
 #### § 106 Besetzung des Bundesgerichtshofs
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011003125)
 
 Der Bundesgerichtshof entscheidet in Disziplinarsachen gegen Notare in
 der Besetzung mit dem Vorsitzenden, zwei Richtern und zwei Notaren als
@@ -4488,6 +4661,7 @@ Beisitzern.
 
 
 #### § 107 Bestellung der richterlichen Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011105125)
 
 Der Vorsitzende, der mindestens Vorsitzender Richter am
 Bundesgerichtshof sein muss, seine Stellvertreter sowie die
@@ -4499,6 +4673,7 @@ Gerichtsverfassungsgesetzes entsprechend.
 
 
 #### § 108 Bestellung der notariellen Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011206125)
 
 (1) Die Beisitzer aus den Reihen der Notare werden von dem
 Bundesministerium der Justiz und für Verbraucherschutz berufen. Sie
@@ -4534,6 +4709,7 @@ Notare vor Beginn des Geschäftsjahres aufstellt.
 
 
 #### § 109 Anzuwendende Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011307125)
 
 Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen
 Notare sind die Vorschriften des Bundesdisziplinargesetzes in der am
@@ -4542,6 +4718,7 @@ Oberverwaltungsgericht entsprechend anzuwenden.
 
 
 #### § 110 Verhältnis des Disziplinarverfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011405125)
 
 (1) Über eine Amtspflichtverletzung eines Anwaltsnotars, die zugleich
 Pflichten eines anderen Berufs verletzt, dessen Berufsaufsicht er
@@ -4568,6 +4745,7 @@ durch eine anderweitige Ahndung unberührt.
 
 
 #### § 110a Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012708125)
 
 (1) Eintragungen in den über den Notar geführten Akten über die in den
 Sätzen 4 und 5 genannten Maßnahmen und Entscheidungen sind nach Ablauf
@@ -4644,10 +4822,12 @@ Entscheidungen nach Absatz 1 nicht betroffen.
 
 
 ### Abschnitt 3 - Gerichtliches Verfahren in verwaltungsrechtlichen Notarsachen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001800125)
 
 
 
 #### § 111 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011508125)
 
 (1) Das Oberlandesgericht entscheidet im ersten Rechtszug über
 öffentlich-rechtliche Streitigkeiten nach diesem Gesetz, einer auf
@@ -4685,6 +4865,7 @@ für Disziplinarsachen gegen Notare vorgeschriebenen Besetzung.
 
 
 #### § 111a Örtliche Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE020600125)
 
 Örtlich zuständig ist das Oberlandesgericht, in dessen Bezirk der
 Verwaltungsakt erlassen wurde oder zu erlassen wäre; für hoheitliche
@@ -4702,6 +4883,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 #### § 111b Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016004125)
 
 (1) Soweit dieses Gesetz keine abweichenden Bestimmungen über das
 gerichtliche Verfahren enthält, gelten die Vorschriften der
@@ -4727,6 +4909,7 @@ Verwaltungsaktes.
 
 
 #### § 111c Beklagter
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016105125)
 
 (1) Die Klage ist gegen die Notarkammer oder Behörde zu richten,
 
@@ -4749,6 +4932,7 @@ besonders bestellt.
 
 
 #### § 111d Berufung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016205125)
 
 Gegen Endurteile einschließlich der Teilurteile, Grundurteile und
 Zwischenurteile über die Zulässigkeit steht den Beteiligten die
@@ -4760,6 +4944,7 @@ Bundesgerichtshof an die Stelle des Oberverwaltungsgerichts tritt.
 
 
 #### § 111e Klagen gegen Wahlen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016604125)
 
 (1) Wahlen und Beschlüsse der Organe der Notarkammern, der
 Bundesnotarkammer und der Kassen mit Ausnahme der
@@ -4779,6 +4964,7 @@ Monats nach der Wahl oder Beschlussfassung stellen.
 
 
 #### § 111f Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016305125)
 
 In verwaltungsrechtlichen Notarsachen werden Gebühren nach dem
 Gebührenverzeichnis der Anlage 2 erhoben. Im Übrigen sind die für
@@ -4788,6 +4974,7 @@ anzuwenden, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
 
 #### § 111g Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022200125)
 
 (1) Der Streitwert bestimmt sich nach § 52 des Gerichtskostengesetzes.
 Er wird von Amts wegen festgesetzt.
@@ -4806,6 +4993,7 @@ Gerichtskostengesetzes bleibt unberührt.
 
 
 #### § 111h Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE017003125)
 
 Auf den Rechtsschutz bei überlangen Gerichtsverfahren sind die
 Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
@@ -4815,10 +5003,12 @@ verwaltungsrechtlichen Notarsachen regeln, sind nicht anzuwenden.
 
 
 ## Teil 4 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNG001403125)
 
 
 
 ### § 112 Übertragung von Befugnissen der Landesjustizverwaltung durch Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011606125)
 
 Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse,
 die den Landesjustizverwaltungen nach diesem Gesetz zustehen, durch
@@ -4828,6 +5018,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 113 Notarkasse und Ländernotarkasse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011709125)
 
 (1) Die Notarkasse ist eine rechtsfähige Anstalt des öffentlichen
 Rechts des Freistaates Bayern. Sie hat ihren Sitz in München. Ihr
@@ -5071,10 +5262,12 @@ Bekanntmachung.
 
 
 ### § 113a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014601301)
 
 
 
 ### § 113b Notarkammern außerhalb der Tätigkeitsbereiche von Notarkasse und Ländernotarkasse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014703125)
 
 Notarkammern außerhalb der Tätigkeitsbereiche der Notarkasse und
 Ländernotarkasse, in deren Bereich hauptberufliche Notare bestellt
@@ -5098,6 +5291,7 @@ sind, können:
 
 
 ### § 114 Sondervorschriften für das Land Baden-Württemberg
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011809125)
 
 (1) Im Land Baden-Württemberg werden hauptberufliche Notare bestellt.
 Ergänzend gelten dort die besonderen Vorschriften der Absätze 2 bis 9.
@@ -5168,10 +5362,12 @@ Bezirksnotars besaß.
 
 
 ### § 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE011903160)
 
 
 
 ### § 116 Sondervorschriften für einzelne Länder
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012009125)
 
 (1) Anwaltsnotare, die am 31. Dezember 2017 in Baden-Württemberg
 bestellt sind, bleiben im Amt. Sie können auf Antrag nach Anhörung der
@@ -5192,10 +5388,12 @@ bestellt.
 
 
 ### § 117 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012103125)
 
 
 
 ### § 117a Notarkammern im Oberlandesgerichtsbezirk Frankfurt am Main und in den neuen Bundesländern
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE014803125)
 
 (1) Im Bereich des Oberlandesgerichtsbezirks Frankfurt am Main können
 abweichend von § 65 Abs. 1 Satz 1 zwei Notarkammern bestehen.
@@ -5207,6 +5405,7 @@ des Oberlandesgerichts befindet, bleiben bestehen.
 
 
 ### § 117b Sondervorschriften für Notarassessoren und Notare aus den neuen Bundesländern
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015304125)
 
 Abweichend von § 5 Absatz 5 kann auch zum Notar bestellt werden, wer
 ein rechtswissenschaftliches Studium an einer Universität oder
@@ -5219,6 +5418,7 @@ Beruf tätig war und notariatsspezifische Kenntnisse nachweist.
 
 
 ### § 118 Übergangsvorschrift für Akten, Bücher und Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE012207125)
 
 (1) Für die Bücher des Notars der Jahrgänge bis einschließlich 2021
 gelten die die Akten und Verzeichnisse betreffenden Regelungen der §§
@@ -5237,6 +5437,7 @@ nach den für den Notar geltenden Vorschriften.
 
 
 ### § 119 Übergangsvorschrift für bereits verwahrte Urkundensammlungen
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE015410125)
 
 (1) Das Amtsgericht kann von ihm verwahrte Schriftstücke aus den
 Urkundensammlungen der Notare einschließlich der Vermerkblätter in die
@@ -5291,6 +5492,7 @@ Absatz 1 Satz 2 bis 9, Absatz 2 und 3 Satz 3 gelten entsprechend.
 
 
 ### § 120 Übergangsvorschrift für die Übernahme durch ein öffentliches Archiv
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016409125)
 
 (1) Zum Ablauf der jeweiligen Aufbewahrungsfristen sind die
 Urkundenrolle, das Namensverzeichnis zur Urkundenrolle und die in der
@@ -5311,6 +5513,7 @@ von § 45 Absatz 5 stehen die Kosten in diesem Fall der Staatskasse zu.
 Gebührenverzeichnis
 
 ### Anlage 1 (Zugang zu Inhalten notarieller Urkunden und Verzeichnisse zu Forschungszwecken)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE022100125)
 
 (Fundstelle: BGBl. I 2021, 2170)
 
@@ -5384,6 +5587,7 @@ Gebührenverzeichnis
 Gebührenverzeichnis
 
 ### Anlage 2 (verwaltungsrechtliche Notarsachen)
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE016501125)
 
 Gliederung
 
@@ -5846,6 +6050,7 @@ Abschnitt I
 Abschnitt IV
 
 ### Anhang EV - Sonderregelung für das Land Berlin -
+[Direktlink](https://www.gesetze-im-internet.de/bnoto/BJNR001910937.html#BJNR001910937BJNE888801307)
 
 Abschnitt I
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages

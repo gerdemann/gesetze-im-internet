@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/persventv/BJNR014990974.html#BJNR014990974BJNE000100311)
 
 Auf Grund des § 46 Abs. 5 Satz 3 in Verbindung mit § 54 Abs. 1, § 56
 des Bundespersonalvertretungsgesetzes vom 15. März 1974
@@ -30,6 +31,7 @@ Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/persventv/BJNR014990974.html#BJNR014990974BJNE000201320)
 
 Die Aufwandsentschädigung beträgt für ganz von ihrer dienstlichen
 Tätigkeit freigestellte Mitglieder von Personalräten,
@@ -38,6 +40,7 @@ Euro monatlich.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/persventv/BJNR014990974.html#BJNR014990974BJNE000300311)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 118 des
@@ -45,6 +48,7 @@ Bundespersonalvertretungsgesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/persventv/BJNR014990974.html#BJNR014990974BJNE000400311)
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1974 in Kraft.
 

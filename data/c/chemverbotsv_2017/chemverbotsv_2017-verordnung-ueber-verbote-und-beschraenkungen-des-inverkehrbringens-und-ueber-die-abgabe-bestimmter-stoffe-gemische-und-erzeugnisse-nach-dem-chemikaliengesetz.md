@@ -22,9 +22,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000100000)
 
 Diese Verordnung gilt für das Inverkehrbringen bestimmter gefährlicher
 Stoffe und Gemische sowie bestimmter Erzeugnisse, die diese freisetzen
@@ -44,6 +46,7 @@ Schutz des Menschen und der Umwelt vor stoffbedingten Schädigungen
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000200000)
 
 Im Sinne dieser Verordnung ist
 
@@ -78,9 +81,11 @@ Im Sinne dieser Verordnung ist
 
 
 ## Abschnitt 2 - Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000200000)
 
 
 ### § 3 Verbote und Beschränkungen des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000301124)
 
 (1) Beschränkungen des Inverkehrbringens bestimmter Stoffe, Gemische
 und Erzeugnisse ergeben sich insbesondere aus Artikel 67 in Verbindung
@@ -132,6 +137,7 @@ Verweis auf diese Normen ausreichend.
 
 
 ### § 4 Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000400000)
 
 (1) Die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII
 Eintrag 6 der Verordnung (EG) Nr. 1907/2006 gelten nicht für das
@@ -165,9 +171,11 @@ Ersatzstoffen nicht möglich ist.
 
 
 ## Abschnitt 3 - Regelungen zur Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000300000)
 
 
 ### § 5 Anforderungen und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000501126)
 
 (1) In Bezug auf die Abgabe der in Anlage 2 Spalte 1 aufgeführten
 Stoffe und Gemische gelten die jeweils in Anlage 2 Spalte 2
@@ -282,6 +290,7 @@ von
 
 
 ### § 6 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000600000)
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 auf diese Vorschrift
 verwiesen wird, abgibt oder für Dritte bereitstellt, bedarf der
@@ -335,6 +344,7 @@ werden, wenn
 
 
 ### § 7 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000700000)
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 Spalte 3 auf diese
 Vorschrift verwiesen wird, an den in § 5 Absatz 2 genannten
@@ -358,6 +368,7 @@ der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
 
 
 ### § 8 Grundanforderungen zur Durchführung der Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000800000)
 
 (1) Die Abgabe von Stoffen oder Gemischen, für die in Anlage 2 auf
 diese Vorschrift verwiesen wird, darf nur von einer im Betrieb
@@ -424,6 +435,7 @@ Pflanzenschutzgesetzes bleibt unberührt.
 
 
 ### § 9 Identitätsfeststellung und Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE000900000)
 
 (1) Über die Abgabe von Stoffen und Gemischen, für die in Anlage 2 auf
 diese Vorschrift verwiesen wird, ist ein Abgabebuch zu führen. Das
@@ -485,6 +497,7 @@ anderer Weise für mindestens fünf Jahre nachweisen kann.
 
 
 ### § 10 Versand
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001001360)
 
 (1) Stoffe und Gemische, für die in Anlage 2 auf diese Vorschrift
 verwiesen wird, dürfen außerhalb des in § 5 Absatz 2 bezeichneten
@@ -496,6 +509,7 @@ nicht gewerbsmäßige Anbieten.
 
 
 ### § 11 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001100000)
 
 (1) Die erforderliche Sachkunde nach § 6 Absatz 2 Nummer 1 hat
 nachgewiesen, wer
@@ -584,9 +598,11 @@ Gleichwertigkeit festgestellt hat.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNG000400000)
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001201360)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -633,6 +649,7 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 13 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001300000)
 
 (1) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des
 Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
@@ -665,6 +682,7 @@ ist er nach § 27c Absatz 2 des Chemikaliengesetzes strafbar.
 
 
 ### § 14 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001401119)
 
 (1) Eine nach früheren Rechtsvorschriften erteilte Erlaubnis, die
 einer Erlaubnis nach § 6 Absatz 1 entspricht, gilt im erteilten Umfang
@@ -692,6 +710,7 @@ als erbracht für Personen, die
 (zu § 3)
 
 ### Anlage 1 Inverkehrbringensverbote
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001501126)
 
 (Fundstelle: BGBl. I 2017, 99 - 101)
 
@@ -1019,6 +1038,7 @@ als erbracht für Personen, die
 (zu §§ 5 bis 11)
 
 ### Anlage 2 Anforderungen in Bezug auf die Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/chemverbotsv_2017/BJNR009410017.html#BJNR009410017BJNE001602126)
 
 (Fundstelle: BGBl. I 2017, 104 — 105)
 

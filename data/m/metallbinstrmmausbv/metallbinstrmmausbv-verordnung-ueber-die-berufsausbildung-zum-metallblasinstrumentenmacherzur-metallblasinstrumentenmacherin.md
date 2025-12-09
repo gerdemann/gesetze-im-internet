@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000100320)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -32,6 +33,7 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000201308)
 
 Der Ausbildungsberuf
 Metallblasinstrumentenmacher/Metallblasinstrumentenmacherin wird
@@ -49,11 +51,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000300320)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000400320)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -126,6 +130,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000500320)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -143,12 +148,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000600320)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000700320)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -157,6 +164,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000800320)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -218,6 +226,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE000901308)
 
 (1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf
 die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf
@@ -372,6 +381,7 @@ sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE001001308)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für die Ausbildungsberufe
@@ -381,6 +391,7 @@ und Schlagzeugmacherin sind nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE001100320)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -389,12 +400,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE001200320)
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metallblasinstrumentenmacher/zur Metallblasinstrumentenmacherin
+[Direktlink](https://www.gesetze-im-internet.de/metallbinstrmmausbv/BJNR101000997.html#BJNR101000997BJNE001300320)
 
 (Fundstelle: BGBl. I 1997, 1013 - 1018)
 

@@ -24,6 +24,7 @@ Stand: Ersetzt V 2121-50-1-15 v. 8.7.2009 I 1760 (TÄHAV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf
 Grund
@@ -46,6 +47,7 @@ Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000200000)
 
 Die Vorschriften dieser Verordnung gelten für
 
@@ -78,6 +80,7 @@ Die Vorschriften dieser Verordnung gelten für
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000300000)
 
 Im Sinne dieser Verordnung ist
 
@@ -115,6 +118,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Verantwortlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000400000)
 
 (1) Die Tierärztin oder der Tierarzt, die oder der den Betrieb der
 tierärztlichen Hausapotheke der zuständigen Behörde nach § 79 Absatz 1
@@ -154,6 +158,7 @@ Tierhalterinnen und Tierhalter abgegeben werden.
 
 
 ## § 4 Betriebsräume und Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000500000)
 
 (1) Wer eine tierärztliche Hausapotheke betreibt, muss über geeignete
 Betriebsräume verfügen.
@@ -185,6 +190,7 @@ elektronisch verfügbar sein.
 
 
 ## § 5 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000600000)
 
 (1) Die Tierärztin oder der Tierarzt hat sich zu vergewissern, dass
 Tierarzneimittel, Humanarzneimittel oder veterinärmedizintechnische
@@ -229,6 +235,7 @@ oder dem Tierarzt gesondert aufzubewahren.
 
 
 ## § 6 Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000700000)
 
 (1) Die Tierärztin oder der Tierarzt muss alle Tierarzneimittel,
 Humanarzneimittel oder veterinärmedizintechnischen Produkte in
@@ -262,6 +269,7 @@ Unbefugten nicht zugänglich sind.
 
 
 ## § 7 Abgabebehältnisse
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000800000)
 
 (1) Tierarzneimittel oder Humanarzneimittel dürfen nur in Behältnissen
 abgegeben werden, die gewährleisten, dass die einwandfreie
@@ -295,6 +303,7 @@ Produkten in Behältnissen erforderlich, gilt Satz 1 entsprechend.
 
 
 ## § 8 Außenpraxis
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE000900000)
 
 (1) Tierarzneimittel, Humanarzneimittel oder
 veterinärmedizintechnische Produkte dürfen von der Tierärztin oder dem
@@ -318,6 +327,7 @@ Bedarf der tierärztlichen Tätigkeit entsprechen.
 
 
 ## § 9 Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001000000)
 
 (1) Apothekenpflichtige
 
@@ -364,6 +374,7 @@ zusammengebracht werden.
 
 
 ## § 10 Abgabe kleiner Mengen zwischen tierärztlichen Hausapotheken
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001100000)
 
 Betreiberinnen und Betreiber zweier tierärztlicher Hausapotheken
 dürfen im Einzelfall kleine Mengen von Tierarzneimitteln unmittelbar
@@ -389,6 +400,7 @@ wissenschaftlich geleiteten zoologischen Gärten betrieben werden.
 
 
 ## § 11 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001200000)
 
 (1) Wird ein Tierarzneimittel oder Humanarzneimittel oder ein im Sinne
 des § 22 Absatz 1 des Tierarzneimittelgesetzes zulassungspflichtiges
@@ -448,6 +460,7 @@ von Lebensmitteln dienen.
 
 
 ## § 12 Umwidmungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001300000)
 
 (1) Die Umwidmung von Tierarzneimitteln oder Humanarzneimitteln, die
 Cephalosporine der dritten oder vierten Generation oder Fluorchinolone
@@ -479,6 +492,7 @@ Versorgung der Tiere ernstlich gefährdet gewesen ist.
 
 
 ## § 13 Antibiogrammpflicht
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001400000)
 
 (1) In Fällen des Satzes 2 hat die Tierärztin oder der Tierarzt
 unverzüglich im Rahmen der Behandlung von Tiergruppen der Tierarten
@@ -597,6 +611,7 @@ erstellt worden ist.
 
 
 ## § 14 Verfahren zur Erstellung eines Antibiogramms
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001500000)
 
 (1) Zur Erstellung eines Antibiogramms nach § 13 Absatz 1 Satz 2,
 Absatz 2 Satz 2 und Absatz 3 Satz 2 hat die Tierärztin oder der
@@ -654,6 +669,7 @@ Nachweis zu führen, der folgende Angaben enthalten muss:
 
 
 ## § 15 Dokumentation über Erwerb, Abgabe und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001600000)
 
 (1) Die Tierärztin oder der Tierarzt hat über den Erwerb sowie die
 Abgabe von verschreibungspflichtigen Tierarzneimitteln die Nachweise
@@ -748,6 +764,7 @@ Tierhalterinnen und Tierhaltern geordnet vorzulegen.
 
 
 ## § 16 Allgemeine Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001700000)
 
 (1) Die tierärztlichen Verschreibungen und die Nachweise sind von der
 Tierärztin oder vom Tierarzt in übersichtlicher und allgemein
@@ -764,6 +781,7 @@ Zweckerfüllung nicht mehr erforderlich sind.
 
 
 ## § 17 Übermittlung an den Tierhalter
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001800000)
 
 (1) Die Tierärztin oder der Tierarzt hat der Tierhalterin oder dem
 Tierhalter die tierärztliche Verschreibung nach § 15 Absatz 2 Satz 1
@@ -783,6 +801,7 @@ sicherzustellen.
 
 
 ## § 18 Bezug über die Apotheke
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE001900000)
 
 (1) Verschreibungspflichtige Tierarzneimittel,
 verschreibungspflichtige Humanarzneimittel oder
@@ -812,6 +831,7 @@ der Tierärztin oder dem Tierarzt. § 16 gilt entsprechend.
 
 
 ## § 19 Apotheken der tierärztlichen Bildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE002000000)
 
 (1) Die Vorschriften dieser Verordnung sind auf Apotheken der
 tierärztlichen Bildungsstätten, die der Ausbildung der Studierenden
@@ -830,6 +850,7 @@ hergestellt, gelagert oder abgegeben werden.
 
 
 ## § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE002100000)
 
 Ordnungswidrig im Sinne des § 89 Absatz 2 Nummer 15 des
 Tierarzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -895,6 +916,7 @@ Tierarzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE002200000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt
 die Verordnung über tierärztliche Hausapotheken in der Fassung der
@@ -904,6 +926,7 @@ ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/t_hav_2025/BJNR1570A0024.html#BJNR1570A0024BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 

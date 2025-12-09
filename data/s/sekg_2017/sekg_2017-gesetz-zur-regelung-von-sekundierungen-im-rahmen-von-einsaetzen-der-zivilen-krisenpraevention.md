@@ -22,9 +22,11 @@ Geändert durch
 Stand: Ersetzt G 215-18 v. 17.7.2009 I 1974 (SekG)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNG000100000)
 
 
 ### § 1 Persönlicher Anwendungsbereich, Subsidiarität
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000100000)
 
 Dieses Gesetz gilt für Personen, die im Rahmen von internationalen
 Einsätzen zur zivilen Krisenprävention bei internationalen,
@@ -35,6 +37,7 @@ die aufnehmende Einrichtung, besteht.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000200000)
 
 Im Sinne dieses Gesetzes bedeutet
 
@@ -78,6 +81,7 @@ Im Sinne dieses Gesetzes bedeutet
 
 
 ### § 3 Verträge zur Sekundierung
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000301116)
 
 (1) Die Sekundierung kann auf Grund
 
@@ -134,6 +138,7 @@ Absatz 7 entsprechend anzuwenden.
 
 
 ### § 4 Sekundierende Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000400000)
 
 (1) Als sekundierende Einrichtungen können auftreten:
 
@@ -156,9 +161,11 @@ Deutschland oder eines Bundesministeriums.
 
 
 ## Abschnitt 2 - Leistungen an die sekundierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNG000200000)
 
 
 ### § 5 Altersvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000500000)
 
 (1) Die sekundierende Einrichtung ist verpflichtet, einen Antrag auf
 Versicherungspflicht in der gesetzlichen Rentenversicherung nach den
@@ -201,6 +208,7 @@ Vorschriften des deutschen Rentenversicherungsrechts zu stellen.
 
 
 ### § 6 Absicherung bei Krankheit und Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000600000)
 
 (1) Sofern die sekundierende Einrichtung für die zur Sekundierung
 vorgesehene Person keine private Krankenversicherung und keine private
@@ -253,6 +261,7 @@ sind, sofern dies zur Abwendung einer unbilligen Härte geboten ist.
 
 
 ### § 7 Absicherung gegen Haftungsrisiken
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000700000)
 
 (1) Die sekundierende Einrichtung ist verpflichtet, der sekundierten
 Person die Kosten für eine angemessene Haftpflichtversicherung zur
@@ -273,6 +282,7 @@ ist.
 
 
 ### § 8 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000800000)
 
 (1) Die sekundierende Einrichtung ist verpflichtet, der sekundierten
 Person mit einem Sekundierungsvertrag nach § 3 Absatz 1 Nummer 2 die
@@ -297,6 +307,7 @@ Ort tritt.
 
 
 ### § 9 Zusätzliche vertragliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE000901116)
 
 Im Arbeits- oder Sekundierungsvertrag können zusätzlich zu Leistungen
 nach diesem Gesetz weitere Leistungen vereinbart werden. Vor der
@@ -310,6 +321,7 @@ Gesamtumstände des Auslandseinsatzes angemessen zu berücksichtigen.
 
 
 ### § 10 Bestand der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE001000000)
 
 Die in diesem Abschnitt geregelten Leistungen der sekundierenden
 Einrichtung werden mit der Aufnahme der Tätigkeit der sekundierten
@@ -327,9 +339,11 @@ Einrichtung.
 
 
 ## Abschnitt 3 - Leistungen bei Arbeitslosigkeit nach dem Zeitraum der Sekundierung
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNG000300000)
 
 
 ### § 11 Entgeltersatzleistungen der Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE001100000)
 
 (1) Für einen Anspruch auf Leistungen nach dem Dritten Buch
 Sozialgesetzbuch steht der Zeitraum einer Sekundierung der Zeit eines
@@ -361,6 +375,7 @@ bilden.
 
 
 ### § 12 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sekg_2017/BJNR207010017.html#BJNR207010017BJNE001200000)
 
 Auf Sekundierungsverträge, die vor dem Inkrafttreten dieses Gesetzes
 begründet wurden, ist das Sekundierungsgesetz vom 17. Juli 2009 (BGBl.

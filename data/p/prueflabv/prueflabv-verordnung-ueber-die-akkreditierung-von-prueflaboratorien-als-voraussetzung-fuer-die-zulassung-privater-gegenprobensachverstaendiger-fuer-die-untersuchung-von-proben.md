@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pr_flabv/BJNR016200999.html#BJNR016200999BJNE000100307)
 
 Auf Grund des § 44 Abs. 1 Nr. 1 Buchstabe b des Lebensmittel- und
 Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9.
@@ -29,6 +30,7 @@ Gesundheit:
 
 
 ## § 1 Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung privater Sachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/pr_flabv/BJNR016200999.html#BJNR016200999BJNE000205116)
 
 (1) Private Sachverständige zur Untersuchung amtlich zurückgelassener
 Proben nach § 31 Absatz 3 des Tabakerzeugnisgesetzes dürfen nur
@@ -85,14 +87,17 @@ Drittstaates ist anzuerkennen, soweit
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pr_flabv/BJNR016200999.html#BJNR016200999BJNE000303116)
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pr_flabv/BJNR016200999.html#BJNR016200999BJNE000400307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pr_flabv/BJNR016200999.html#BJNR016200999BJNE000500307)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,17 +18,21 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## (XXXX) Art 1 bis 2 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000200000)
 
 
 ## Art 3 Gesetz über die Bundesbeauftragte oder den Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag (SED-Opferbeauftragtengesetz - OpfBG)
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000300000)
 
 
 ## Art 4 Übergangsregelung für die Interessenvertretungen und die Gleichstellungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000400000)
 
 (1) Gemäß § 27 Absatz 2 Nummer 1 des Bundespersonalvertretungsgesetzes
 werden nach Eingliederung der Aufgaben des Bundesbeauftragten für die
@@ -164,6 +168,7 @@ Absatzes 5 Satz 4 Nummer 1 bis 3 entsprechend.
 
 
 ## Art 5 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000500000)
 
 Die für Kultur und Medien zuständige oberste Bundesbehörde kann den
 Wortlaut des Bundesarchivgesetzes und des Stasi-Unterlagen-Gesetzes
@@ -172,6 +177,7 @@ im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/BJNR075000021.html#BJNR075000021BJNE000600000)
 
 Dieses Gesetz tritt am 17. Juni 2021 in Kraft.
 

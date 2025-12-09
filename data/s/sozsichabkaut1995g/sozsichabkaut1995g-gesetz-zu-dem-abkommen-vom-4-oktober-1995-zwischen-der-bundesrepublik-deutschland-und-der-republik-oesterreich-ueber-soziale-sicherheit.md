@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkaut1995g/BJNR031220998.html#BJNR031220998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkaut1995g/BJNR031220998.html#BJNR031220998BJNE000200311)
 
 Dem in Wien am 4. Oktober 1995 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über Soziale
@@ -33,11 +35,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkaut1995g/BJNR031220998.html#BJNR031220998BJNE000400311)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkaut1995g/BJNR031220998.html#BJNR031220998BJNE000500311)
 
 (1) Dieses Gesetz tritt mit Ausnahme seines Artikels 2 am Tage nach
 seiner Verkündung in Kraft. Artikel 2 tritt an dem Tag in Kraft, an

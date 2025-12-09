@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Zweck der Erhebung; Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000100000)
 
 (1) Zur Verbesserung der Armuts- und Reichtumsberichterstattung des
 Bundes sowie der Informationsgrundlage für politisches Handeln wird
@@ -31,12 +32,14 @@ durchgeführt.
 
 
 ## § 2 Periodizität und Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000200000)
 
 Die Erhebung wird jährlich als Bestandserhebung zum Stichtag 31.
 Januar, erstmals für das Jahr 2022, durchgeführt.
 
 
 ## § 3 Begriffsbestimmung; Umfang der Erhebung
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000300000)
 
 (1) Wohnungslosigkeit besteht, wenn
 
@@ -59,6 +62,7 @@ wegen Wohnungslosigkeit Räume zu Wohnzwecken überlassen oder
 
 
 ## § 4 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000400000)
 
 Erhebungsmerkmale für jede wohnungslose Person sind:
 
@@ -130,6 +134,7 @@ Erhebungsmerkmale für jede wohnungslose Person sind:
 
 
 ## § 5 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000500000)
 
 Hilfsmerkmale sind:
 
@@ -144,6 +149,7 @@ Hilfsmerkmale sind:
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000600000)
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Auskunftserteilung
 zu den Angaben nach § 5 Nummer 2 ist freiwillig. Auskunftspflichtig
@@ -174,6 +180,7 @@ Zwecke dieses Gesetzes erforderlichen Angaben.
 
 
 ## § 7 Datenübermittlung; Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000701126)
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards
 formatierten Datensätze zu den Erhebungs- und Hilfsmerkmalen nach den
@@ -216,6 +223,7 @@ veröffentlicht werden.
 
 
 ## § 8 Ergänzende Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000801126)
 
 (1) Die Bundesregierung stellt durch geeignete Maßnahmen, insbesondere
 im Rahmen der Ressortforschung im Geschäftsbereich des in der
@@ -249,6 +257,7 @@ Wohnungslosigkeit.
 
 
 ## § 9 Bericht über eine mögliche Erweiterung der Erhebung nach § 3 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/woberichtsg/BJNR043710020.html#BJNR043710020BJNE000900000)
 
 In dem dritten Bericht nach § 8 Absatz 2 wird auf Grundlage der
 Erkenntnisse aus der Durchführung der Erhebung nach § 3 Absatz 2 sowie

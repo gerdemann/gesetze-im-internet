@@ -100,9 +100,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zielsetzung, Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000100000)
 
 
 ### § 1 Zielsetzung und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000204126)
 
 (1) Ziel dieser Verordnung ist es, den Menschen und die Umwelt vor
 stoffbedingten Schädigungen zu schützen durch
@@ -181,6 +183,7 @@ Rechtsvorschriften bestehen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000305126)
 
 (1) Gefahrstoffe im Sinne dieser Verordnung sind
 
@@ -477,9 +480,11 @@ Verwenderkategorien sind:
 
 
 ## Abschnitt 2 - Gefahrstoffinformation
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000200000)
 
 
 ### § 3 Gefahrenklassen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000402126)
 
 (1) Gefährlich im Sinne dieser Verordnung sind Stoffe, Gemische und
 bestimmte Erzeugnisse, die den in Anhang I der Verordnung (EG) Nr.
@@ -756,6 +761,7 @@ und werden unter Angabe der Nummerierung des Anhangs I der Verordnung
 
 
 ### § 4 Einstufung, Kennzeichnung, Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000503126)
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und
 Gemischen sowie von Erzeugnissen mit Explosivstoff richten sich nach
@@ -834,6 +840,7 @@ dafür nicht ausreicht.
 
 
 ### § 5 Sicherheitsdatenblatt und sonstige Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000601301)
 
 (1) Die vom Lieferanten hinsichtlich des Sicherheitsdatenblatts beim
 Inverkehrbringen von Stoffen und Gemischen zu beachtenden
@@ -854,6 +861,7 @@ werden.
 
 
 ### § 5a Besondere Mitwirkungs- und Informationspflichten für Veranlasser von Tätigkeiten an baulichen oder technischen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003900126)
 
 (1) Derjenige, der Tätigkeiten an baulichen oder technischen Anlagen
 veranlasst (Veranlasser), hat vor Beginn der Tätigkeiten dem
@@ -881,9 +889,11 @@ bleiben unberührt.
 
 
 ## Abschnitt 3 - Gefährdungsbeurteilung und Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000300000)
 
 
 ### § 6 Informationsermittlung und Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000704126)
 
 (1) Im Rahmen einer Gefährdungsbeurteilung als Bestandteil der
 Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes
@@ -1196,6 +1206,7 @@ berücksichtigen.
 
 
 ### § 7 Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000803126)
 
 (1) Der Arbeitgeber darf eine Tätigkeit mit Gefahrstoffen erst
 aufnehmen lassen, nachdem eine Gefährdungsbeurteilung nach § 6
@@ -1350,9 +1361,11 @@ berücksichtigen.
 
 
 ## Abschnitt 4 - Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000400000)
 
 
 ### § 8 Allgemeine Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE000902126)
 
 (1) Der Arbeitgeber hat bei Tätigkeiten mit Gefahrstoffen die
 folgenden Schutzmaßnahmen zu ergreifen:
@@ -1471,6 +1484,7 @@ Vorschriften des Anhangs I Nummer 2 bis 5 zu beachten.
 
 
 ### § 9 Zusätzliche Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001001301)
 
 (1) Sind die allgemeinen Schutzmaßnahmen nach § 8 nicht ausreichend,
 um Gefährdungen durch Einatmen, Aufnahme über die Haut oder
@@ -1547,6 +1561,7 @@ sichergestellt werden.
 
 
 ### § 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001103126)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass krebserzeugende,
 keimzellmutagene oder reproduktionstoxische Gefahrstoffe der Kategorie
@@ -1677,6 +1692,7 @@ nach § 20 Absatz 4 bekannt gegebenen Regel ausgeübt werden.
 
 
 ### § 10a Besondere Aufzeichnungs-, Mitteilungs- und Unterrichtungspflichten bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE004000126)
 
 (1) Um im Falle einer späteren Erkrankung die Höhe und die Dauer einer
 Exposition nachvollziehen zu können, hat der Arbeitgeber ein
@@ -1770,6 +1786,7 @@ Kategorie 1A oder 1B sicherzustellen, dass
 
 
 ### § 11 Verwendungs- und Tätigkeitsbeschränkungen für Asbest
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE004100126)
 
 (1) Verboten sind:
 
@@ -1900,6 +1917,7 @@ Staub so weit wie möglich zu verhindern und im Übrigen zu minimieren.
 
 
 ### § 11a Anforderungen an Tätigkeiten mit Asbest
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE004200126)
 
 (1) Der Arbeitgeber hat im Rahmen der Gefährdungsbeurteilung nach § 6
 vor Aufnahme der Tätigkeit
@@ -2004,6 +2022,7 @@ ergreifen.
 
 
 ### § 12 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001205126)
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
 Maßnahmen zum Schutz der Beschäftigten und anderer Personen vor
@@ -2053,6 +2072,7 @@ Dabei hat der Arbeitgeber Anhang III zu beachten.
 
 
 ### § 13 Betriebsstörungen, Unfälle und Notfälle
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001400000)
 
 (1) Um die Gesundheit und die Sicherheit der Beschäftigten bei
 Betriebsstörungen, Unfällen oder Notfällen zu schützen, hat der
@@ -2120,6 +2140,7 @@ diesen Informationen zählen:
 
 
 ### § 14 Unterrichtung und Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001503126)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass den Beschäftigten eine
 schriftliche Betriebsanweisung, die der Gefährdungsbeurteilung nach §
@@ -2198,6 +2219,7 @@ bestätigen.
 
 
 ### § 15 Zusammenarbeit verschiedener Firmen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001601126)
 
 (1) Sollen in einem Betrieb Fremdfirmen Tätigkeiten mit Gefahrstoffen
 ausüben, hat der Arbeitgeber als Auftraggeber sicherzustellen, dass
@@ -2236,9 +2258,11 @@ ihrer Verantwortung nach dieser Verordnung.
 
 
 ## Abschnitt 4a - Anforderungen an die Verwendung von Biozid-Produkten einschließlich der Begasung sowie an Begasungen mit Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000800126)
 
 
 ### § 15a Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003000126)
 
 (1) Biozid-Produkte dürfen nicht verwendet werden, soweit damit zu
 rechnen ist, dass ihre Verwendung im einzelnen Anwendungsfall
@@ -2280,6 +2304,7 @@ ordnungsgemäßen Verwendung gehört insbesondere, dass
 
 
 ### § 15b Allgemeine Anforderungen an die Verwendung von Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003100126)
 
 (1) Der Arbeitgeber hat vor Verwendung eines Biozid-Produkts
 sicherzustellen, dass die Anforderungen nach § 15a erfüllt werden.
@@ -2330,6 +2355,7 @@ Sachkunde nach § 15c Absatz 3 erforderlich ist.
 
 
 ### § 15c Besondere Anforderungen an die Verwendung bestimmter Biozid-Produkte
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003201126)
 
 (1) Der Arbeitgeber hat die Pflichten nach den Absätzen 2 und 3 zu
 erfüllen, wenn Biozid-Produkte verwendet werden sollen,
@@ -2390,6 +2416,7 @@ berücksichtigen.
 
 
 ### § 15d Besondere Anforderungen bei Begasungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003301126)
 
 (1) Der Arbeitgeber bedarf einer Erlaubnis durch die zuständige
 Behörde, wenn Begasungen durchgeführt werden sollen. Die Erlaubnis ist
@@ -2499,6 +2526,7 @@ Sachkunde nach dem Pflanzenschutzrecht erworben wurde.
 
 
 ### § 15e Ergänzende Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003400126)
 
 (1) Der Arbeitgeber hat dafür Sorge zu tragen, dass über die
 Begasungen eine Niederschrift angefertigt wird. In der Niederschrift
@@ -2540,6 +2568,7 @@ S. 1) geändert worden ist, erstellt werden.
 
 
 ### § 15f Anforderungen an den Umgang mit Transporteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003500126)
 
 (1) Kann nicht ausgeschlossen werden, dass Transporteinheiten wie
 Fahrzeuge, Waggons, Schiffe, Tanks, Container oder andere
@@ -2557,6 +2586,7 @@ verfügt.
 
 
 ### § 15g Besondere Anforderungen an Begasungen auf Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003600126)
 
 (1) Begasungen auf Schiffen sind nur zulässig, wenn
 
@@ -2622,6 +2652,7 @@ Die Anzeigepflicht nach Absatz 3 Satz 3 gilt entsprechend.
 
 
 ### § 15h Ausnahmen von Abschnitt 4a
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003700126)
 
 (1) Es finden keine Anwendung
 
@@ -2662,9 +2693,11 @@ bestimmt ist.
 
 
 ## Abschnitt 5 - Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000500000)
 
 
 ### § 16 Herstellungs- und Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001702126)
 
 (1) Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe,
 Gemische und Erzeugnisse ergeben sich aus Artikel 67 in Verbindung mit
@@ -2680,6 +2713,7 @@ lassen.
 
 
 ### § 17 Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001801301)
 
 (1) Für am 1. Dezember 2010 bestehende Anlagen gelten die
 Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII Nummer 6
@@ -2718,9 +2752,11 @@ möglich ist.
 
 
 ## Abschnitt 6 - Vollzugsregelungen und Ausschuss für Gefahrstoffe
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000600000)
 
 
 ### § 18 Unterrichtung der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE001902126)
 
 (1) Der Arbeitgeber hat der zuständigen Behörde unverzüglich
 anzuzeigen
@@ -2807,6 +2843,7 @@ von Sicherheitsdatenblättern nachzuweisen.
 
 
 ### § 19 Behördliche Ausnahmen, Anordnungen und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002003126)
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn
@@ -2879,6 +2916,7 @@ anordnen, wenn der Arbeitgeber der Mitteilungspflicht nach § 18 Absatz
 
 
 ### § 19a Anerkennung ausländischer Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE003800126)
 
 (1) Die zuständige Behörde erkennt auf Antrag an, dass eine
 ausländische Aus- oder Weiterbildung dem Erwerb einer Sachkunde im
@@ -2894,6 +2932,7 @@ eine Bescheinigung bestätigt.
 
 
 ### § 20 Ausschuss für Gefahrstoffe
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002102126)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Gefahrstoffe (AGS) gebildet, in dem geeignete Personen vonseiten
@@ -3007,9 +3046,11 @@ Geschäfte des Ausschusses.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNG000701126)
 
 
 ### § 21 Chemikaliengesetz – Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002202126)
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3048,6 +3089,7 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 22 Chemikaliengesetz – Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002305126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3240,10 +3282,12 @@ strafbar.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002401377)
 
 
 
 ### § 24 Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002504126)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3300,6 +3344,7 @@ Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
 
 ### § 25 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002902126)
 
 (1) Auf die Verwendung von Biozid-Produkten, die unter die
 Übergangsregelung des § 28 Absatz 8 des Chemikaliengesetzes fallen,
@@ -3367,6 +3412,7 @@ Absatz 3, § 15c Absatz 2 und 3, § 15d Absatz 1, 3, 4, 6 und 7, § 15f
 Absatz 2, § 15g Absatz 2)
 
 ### Anhang I Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002607126)
 
 (Fundstelle: BGBl. I 2010, 1660 - 1673;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5135,6 +5181,7 @@ Bundesanstalt für Materialforschung und -prüfung.
 (zu § 10 Absatz 1, § 16 Absatz 2)
 
 ### Anhang II Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002703126)
 
 (Fundstelle: BGBl. I 2010, 1674 - 1676;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5345,6 +5392,7 @@ Lehrzwecke in den dafür erforderlichen Mengen.
 (zu § 12 Absatz 4)
 
 ### Anhang III Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
+[Direktlink](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html#BJNR164400010BJNE002802126)
 
 (Fundstelle: BGBl. I 2013, 2531 - 2534;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

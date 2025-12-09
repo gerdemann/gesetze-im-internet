@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2021-02-08_1/BJNR025900021.html#BJNR025900021BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „Frau Holle“
@@ -54,11 +55,13 @@ Der Entwurf stammt von dem Künstler Jordi Truxa aus Neuenhagen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2021-02-08_1/BJNR025900021.html#BJNR025900021BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2021-02-08_1/BJNR025900021.html#BJNR025900021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 259)
 

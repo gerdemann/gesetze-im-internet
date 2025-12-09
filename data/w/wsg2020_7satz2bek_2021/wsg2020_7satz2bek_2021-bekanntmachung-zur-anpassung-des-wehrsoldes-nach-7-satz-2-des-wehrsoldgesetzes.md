@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2021/BJNR418800021.html#BJNR418800021BJNE000100000)
 
 Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019
 (BGBl. I S. 1147, 1158), das durch Artikel 4 des Gesetzes vom 21.
@@ -28,11 +29,13 @@ bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2021/BJNR418800021.html#BJNR418800021BJNE000200000)
 
 Die Bundesministerin der Verteidigung
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2021/BJNR418800021.html#BJNR418800021BJNE000300000)
 
 (Fundstelle: BGBl. I 2021, 4189)
 

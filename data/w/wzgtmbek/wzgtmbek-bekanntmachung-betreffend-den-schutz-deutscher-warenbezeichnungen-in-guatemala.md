@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzgtmbek/BJNR005430899.html#BJNR005430899BJNE000100303)
 
 Auf Grund einer Vereinbarung mit der Regierung der Republik Guatemala
 wird hierdurch unter Hinweis auf § 23 des Gesetzes zum Schutz der

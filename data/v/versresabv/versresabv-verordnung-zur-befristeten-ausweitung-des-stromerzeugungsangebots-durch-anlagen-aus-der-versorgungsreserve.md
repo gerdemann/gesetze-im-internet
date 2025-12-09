@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versresabv/BJNR627320022.html#BJNR627320022BJNE000100000)
 
 Auf Grund des § 50d Absatz 2 Satz 2 in Verbindung mit Absatz 2 Satz 3
 und 4 sowie Absatz 9 des Energiewirtschaftsgesetzes vom 7. Juli 2005
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## § 1 Erlaubnis für den befristeten Einsatz von Reserveanlagen am Strommarkt
+[Direktlink](https://www.gesetze-im-internet.de/versresabv/BJNR627320022.html#BJNR627320022BJNE000201377)
 
 (1) Die Betreiber von Reserveanlagen nach § 50d Absatz 1 Satz 1 des
 Energiewirtschaftsgesetzes dürfen diese Reserveanlagen ab dem 11.
@@ -57,6 +59,7 @@ zulässig, jedoch nicht länger als bis zum Ablauf des 31. März 2024.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versresabv/BJNR627320022.html#BJNR627320022BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

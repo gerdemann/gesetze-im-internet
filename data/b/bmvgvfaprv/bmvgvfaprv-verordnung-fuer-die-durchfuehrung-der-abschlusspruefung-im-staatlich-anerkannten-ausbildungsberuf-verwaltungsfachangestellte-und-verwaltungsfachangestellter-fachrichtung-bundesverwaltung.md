@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000100000)
 
 Auf Grund des § 47 Absatz 3 Satz 1 in Verbindung mit § 47 Absatz 1
 Satz 1 und Absatz 2 des Berufsbildungsgesetzes in der Fassung der
@@ -27,9 +28,11 @@ Bundesministerium der Verteidigung:
 
 
 ## Abschnitt 1 - Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000100000)
 
 
 ### § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000300000)
 
 Für die Durchführung der Abschlussprüfung in der Fachrichtung
 Bundesverwaltung nach der Verordnung über die Berufsausbildung zum
@@ -40,6 +43,7 @@ Stelle Prüfungsausschüsse.
 
 
 ### § 2 Zusammensetzung, Berufung, Beschlussfähigkeit und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000400000)
 
 (1) Jeder Prüfungsausschuss besteht aus sechs Mitgliedern.
 Zusammensetzung und Berufung richten sich nach § 40 des
@@ -53,6 +57,7 @@ der Genehmigung durch das Bundesministerium der Verteidigung.
 
 
 ### § 3 Ausschluss von der Mitwirkung und ordnungsgemäße Besetzung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000500000)
 
 (1) Bei der Entscheidung über die Zulassung zur Abschlussprüfung und
 bei der Abschlussprüfung selbst dürfen Personen, bei denen die in § 20
@@ -87,6 +92,7 @@ der Prüfung aus anderen Gründen nicht gewährleistet erscheint.
 
 
 ### § 4 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000600000)
 
 (1) Die zuständige Stelle regelt im Einvernehmen mit dem
 Prüfungsausschuss dessen Geschäftsführung, insbesondere die
@@ -107,6 +113,7 @@ dem Vorsitz zu unterzeichnen.
 
 
 ### § 5 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000700000)
 
 Unbeschadet bestehender Informationspflichten haben die Mitglieder des
 Prüfungsausschusses und sonstige mit der Prüfung befasste Personen
@@ -115,9 +122,11 @@ wahren.
 
 
 ## Abschnitt 2 - Vorbereitung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000200000)
 
 
 ### § 6 Prüfungstermine und Prüfungsort
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000800000)
 
 (1) Die zuständige Stelle gibt einheitliche überregionale
 Prüfungsaufgaben für die schriftliche Prüfung vor. Sie bestimmt
@@ -137,6 +146,7 @@ bekannt zu geben.
 
 
 ### § 7 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE000900000)
 
 (1) Die Ausbildenden stellen für die Auszubildenden fristgerecht mit
 dem dafür vorgesehenen Formular einen Antrag auf Zulassung zur
@@ -237,6 +247,7 @@ Wiederholung der Abschlussprüfung ist Absatz 3 nicht anzuwenden.
 
 
 ### § 8 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001000000)
 
 (1) Die Voraussetzungen der Zulassung zur Abschlussprüfung bestimmen
 sich nach den Regelungen des Berufsbildungsgesetzes.
@@ -269,9 +280,11 @@ Prüfling schriftlich oder in elektronischer Form mitzuteilen.
 
 
 ## Abschnitt 3 - Durchführung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000300000)
 
 
 ### § 9 Gliederung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001100000)
 
 (1) Die Gliederung der Abschlussprüfung richtet sich nach § 8 der
 Verordnung über die Berufsausbildung zum
@@ -308,6 +321,7 @@ Verwaltungsfachangestellten/zur Verwaltungsfachangestellten.
 
 
 ### § 10 Nachteilsausgleich für behinderte Prüflinge
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001200000)
 
 (1) Einem Prüfling mit Behinderung wird auf Antrag ein angemessener
 Nachteilsausgleich im Prüfungsverfahren gewährt, insbesondere im
@@ -340,6 +354,7 @@ zuständige Stelle.
 
 
 ### § 11 Sonstiger Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001300000)
 
 (1) Einem Prüfling mit vorübergehenden körperlichen
 Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse
@@ -356,6 +371,7 @@ zuständige Stelle.
 
 
 ### § 12 Prüfungsaufgaben und Aufgabenerstellungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001400000)
 
 (1) Der Prüfungsausschuss beschließt die Prüfungsaufgaben
 einschließlich der jeweils zulässigen Arbeits- und Hilfsmittel sowie
@@ -382,6 +398,7 @@ für fünf Jahre berufen.
 
 
 ### § 13 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001500000)
 
 (1) Die Prüfungen sind nicht öffentlich.
 
@@ -411,6 +428,7 @@ beteiligt sein.
 
 
 ### § 14 Leitung, Fernprüfung, Aufsicht, Protokoll und Verwendung von Kennziffern
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001600000)
 
 (1) Die Prüfung wird unter Leitung des Vorsitzes vom gesamten
 Prüfungsausschuss durchgeführt. § 42 Absatz 5 des
@@ -475,6 +493,7 @@ Zufallsprinzip vergeben wurde.
 
 
 ### § 15 Ausweispflicht und Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001700000)
 
 (1) Der Prüfling hat sich hinsichtlich seiner Person auszuweisen.
 
@@ -505,6 +524,7 @@ Zufallsprinzip vergeben wurde.
 
 
 ### § 16 Täuschungshandlungen und Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001800000)
 
 (1) Unternimmt es ein Prüfling, das Prüfungsergebnis durch Täuschung
 oder Benutzung nicht zugelassener Arbeits- oder Hilfsmittel zu
@@ -546,6 +566,7 @@ den Absätzen 3 bis 5 ist der Prüfling zu hören.
 
 
 ### § 17 Rücktritt und Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE001900000)
 
 (1) Tritt der Prüfling nach erfolgter Anmeldung vor der
 Abschlussprüfung durch schriftliche oder elektronische Erklärung
@@ -584,9 +605,11 @@ Anhörung des Prüflings.
 
 
 ## Abschnitt 4 - Bewertung, Feststellung und Beurkundung des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000400000)
 
 
 ### § 18 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002000000)
 
 (1) Die Prüfungsleistungen sind wie folgt zu bewerten:
 
@@ -695,6 +718,7 @@ zuständigen Stelle vorzulegen.
 
 
 ### § 19 Feststellung des Ergebnisses der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002100000)
 
 (1) Der Prüfungsausschuss stellt im Anschluss an die letzte
 Prüfungsleistung das Gesamtergebnis der Abschlussprüfung als
@@ -714,6 +738,7 @@ Leistungspunkte aufzurunden.
 
 
 ### § 20 Ergebnisprotokoll, Mitteilung über Bestehen oder Nichtbestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002200000)
 
 (1) Über die Feststellung des Gesamtergebnisses der Abschlussprüfung
 ist ein Protokoll zu fertigen. Dieses ist von den Mitgliedern des
@@ -731,6 +756,7 @@ des maßgeblichen Tages.
 
 
 ### § 21 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002300000)
 
 (1) Für die Ausstellung des Prüfungszeugnisses nach § 37 Absatz 2 Satz
 1 des Berufsbildungsgesetzes ist der von der zuständigen Stelle
@@ -784,6 +810,7 @@ ausgehändigt werden.
 
 
 ### § 22 Bescheid über nicht bestandene Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002400000)
 
 (1) Bei nicht bestandener Abschlussprüfung erhalten der Prüfling oder
 seine gesetzliche Vertretung sowie der oder die Ausbildende von der
@@ -799,9 +826,11 @@ Abschlussprüfung gemäß § 23 ist hinzuweisen.
 
 
 ## Abschnitt 5 - Wiederholung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000500000)
 
 
 ### § 23 Wiederholung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002500000)
 
 (1) Eine nicht bestandene Abschlussprüfung kann nach § 37 Absatz 1
 Satz 2 des Berufsbildungsgesetzes zweimal wiederholt werden. Es gelten
@@ -822,9 +851,11 @@ Abschlussprüfung nach § 6 wiederholt werden.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNG000600000)
 
 
 ### § 24 Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002600000)
 
 Maßnahmen und Entscheidungen der Prüfungsausschüsse sowie der
 zuständigen Stelle sind bei ihrer schriftlichen Bekanntgabe an den
@@ -834,6 +865,7 @@ versehen.
 
 
 ### § 25 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002700000)
 
 Auf Antrag ist dem Prüfling binnen der gesetzlichen Frist zur
 Einlegung eines Rechtsbehelfs Einsicht in seine Prüfungsunterlagen zu
@@ -848,6 +880,7 @@ gehemmt.
 
 
 ### § 26 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002800000)
 
 Für Abschlussprüfungen, die von Auszubildenden abgelegt werden, deren
 Berufsausbildungsvertrag bereits vor dem 1. Oktober 2022 abgeschlossen
@@ -855,6 +888,7 @@ wurde, ist diese Verordnung nicht anzuwenden.
 
 
 ### § 27 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmvgvfaprv/BJNR0890A0023.html#BJNR0890A0023BJNE002900000)
 
 Diese Verordnung tritt am 1. Juli 2023 in Kraft.
 

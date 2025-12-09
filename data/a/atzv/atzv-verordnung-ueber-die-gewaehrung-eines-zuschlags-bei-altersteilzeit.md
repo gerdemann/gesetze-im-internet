@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gewährung eines Altersteilzeitzuschlags
+[Direktlink](https://www.gesetze-im-internet.de/atzv/BJNR319100998.html#BJNR319100998BJNE000202310)
 
 Den in § 6 Abs. 2 des Bundesbesoldungsgesetzes genannten Beamten und
 Richtern wird ein nichtruhegehaltfähiger Altersteilzeitzuschlag
@@ -33,6 +34,7 @@ durchgeführt wird.
 
 
 ## § 2 Höhe und Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/atzv/BJNR319100998.html#BJNR319100998BJNE000305310)
 
 (1) Der Zuschlag wird gewährt in Höhe des Unterschiedsbetrages
 zwischen der Nettobesoldung, die sich aus dem Umfang der
@@ -69,6 +71,7 @@ Dienstposten mit Beamten nach Satz 1 neu besetzt werden.
 
 
 ## § 2a Ausgleich bei vorzeitiger Beendigung der Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/atzv/BJNR319100998.html#BJNR319100998BJNE000601377)
 
 Wenn die Altersteilzeit mit ungleichmäßiger Verteilung der Arbeitszeit
 (Blockmodell) vorzeitig endet und die insgesamt gezahlten
@@ -81,6 +84,7 @@ Landesrecht bleibt unberührt.
 
 
 ## § 3 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/atzv/BJNR319100998.html#BJNR319100998BJNE000401377)
 
 -
 

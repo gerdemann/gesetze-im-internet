@@ -34,6 +34,7 @@ Stand: Zuletzt geändert Art. 21 G v. 27.7.2021 I 3146
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 des Geräte- und Produktsicherheitsgesetzes
 vom 6. Januar 2004 (BGBl. I S. 2) in Verbindung mit § 1 des
@@ -49,6 +50,7 @@ Stadtentwicklung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000203360)
 
 (1) Diese Verordnung gilt, wenn Spielzeug auf dem Markt bereitgestellt
 wird.
@@ -86,6 +88,7 @@ unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000301119)
 
 Im Sinne dieser Verordnung
 
@@ -254,6 +257,7 @@ Im Sinne dieser Verordnung
 
 
 ## § 3 Allgemeine Pflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000401119)
 
 (1) Die Hersteller dürfen nur solches Spielzeug in den Verkehr
 bringen, das gemäß den Anforderungen nach § 10 dieser Verordnung und
@@ -301,6 +305,7 @@ Nichtkonformität und die ergriffenen Korrekturmaßnahmen, zu machen.
 
 
 ## § 4 Besondere Kennzeichnungs- und Informationspflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000502119)
 
 (1) Die Hersteller stellen sicher, dass ihre Spielzeuge zur
 Identifikation lesbar und dauerhaft mit einer Typen-, Chargen-,
@@ -335,6 +340,7 @@ Verkehr gebracht haben.
 
 
 ## § 5 Pflichten des Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000600000)
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -366,6 +372,7 @@ einen Bevollmächtigten übertragen werden.
 
 
 ## § 6 Pflichten der Einführer
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000701119)
 
 (1) Einführer dürfen nur konformes Spielzeug in den Verkehr bringen.
 
@@ -415,6 +422,7 @@ Einführer entsprechend.
 
 
 ## § 7 Pflichten der Händler
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000800000)
 
 (1) Händler müssen die geltenden Anforderungen an die Vermarktung von
 Spielzeug mit der erforderlichen Sorgfalt berücksichtigen, wenn sie
@@ -463,6 +471,7 @@ Händler entsprechend.
 
 
 ## § 8 Umstände, unter denen die Pflichten des Herstellers auch für Einführer und Händler gelten
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE000900000)
 
 Ein Einführer oder Händler gilt für die Zwecke dieser Verordnung als
 Hersteller und unterliegt den Verpflichtungen für Hersteller gemäß den
@@ -473,6 +482,7 @@ mit den geltenden Anforderungen beeinträchtigt werden kann.
 
 
 ## § 9 Identifizierung der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001000000)
 
 Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf
 deren Verlangen diejenigen Wirtschaftsakteure,
@@ -492,6 +502,7 @@ Spielzeugs bereithalten.
 
 
 ## § 10 Wesentliche Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001103125)
 
 (1) Spielzeug darf nur auf dem Markt bereitgestellt werden, wenn es
 die allgemeinen Sicherheitsanforderungen nach Absatz 2 und die
@@ -528,6 +539,7 @@ Gebrauchsdauer erfüllen.
 
 
 ## § 11 Warnhinweise
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001201119)
 
 (1) Wenn es für den sicheren Gebrauch des Spielzeugs angemessen ist,
 sind in Warnhinweisen für die Zwecke von § 10 Absatz 2 geeignete
@@ -563,6 +575,7 @@ abzufassen.
 
 
 ## § 12 EG-Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001301119)
 
 (1) Die EG-Konformitätserklärung besagt, dass die Erfüllung der
 Anforderungen, die in § 10 dieser Verordnung und Anhang II der
@@ -594,6 +607,7 @@ Hersteller die Verantwortung für die Konformität des Spielzeugs.
 
 
 ## § 13 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001400000)
 
 (1) Auf dem Markt bereitgestelltes Spielzeug muss die CE-Kennzeichnung
 tragen.
@@ -618,6 +632,7 @@ Risiko oder eine besondere Verwendung hinweist.
 
 
 ## § 14 Sicherheitsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001500000)
 
 Die Hersteller führen vor dem Inverkehrbringen eines Spielzeugs eine
 Analyse der chemischen, physikalischen, mechanischen und elektrischen
@@ -628,6 +643,7 @@ ausgesetzt sein würden.
 
 
 ## § 15 Anzuwendende Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001601119)
 
 (1) Der Hersteller muss die in den Absätzen 2 und 3 angegebenen
 Konformitätsbewertungsverfahren anwenden, um nachzuweisen, dass das
@@ -668,6 +684,7 @@ Anhang II Modul C des Beschlusses Nr. 768/2008/EG unterzogen, wenn
 
 
 ## § 16 EG-Baumusterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001700000)
 
 (1) Bei der Beantragung der EG-Baumusterprüfung, der Durchführung
 dieser Prüfung und der Ausstellung der EG-Baumusterprüfbescheinigung
@@ -708,6 +725,7 @@ Sprache abgefasst.
 
 
 ## § 17 Technische Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001800000)
 
 (1) Die in § 3 Absatz 2 erwähnten technischen Unterlagen müssen
 insbesondere die in Anhang IV der Richtlinie 2009/48/EG aufgeführten
@@ -735,6 +753,7 @@ und die Erfüllung der wesentlichen Sicherheitsanforderungen zu
 
 
 ## § 18 Vorsorgeprinzip
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE001901119)
 
 Ergreifen die zuständigen Behörden in dieser Verordnung geregelte
 Maßnahmen oder allgemeine Marktüberwachungsmaßnahmen so haben sie dem
@@ -742,6 +761,7 @@ Vorsorgeprinzip in gebührender Weise Rechnung zu tragen.
 
 
 ## § 19 Anweisungen an notifizierte Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002000000)
 
 (1) Die zuständigen Marktüberwachungsbehörden können von einer
 notifizierten Konformitätsbewertungsstelle verlangen, dass sie
@@ -763,6 +783,7 @@ Baumusterprüfbescheinigung zu überprüfen.
 
 
 ## § 20 Behandlung von Spielzeug, mit dem ein Risiko verbunden ist
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002102126)
 
 (1) Sind die zuständigen Marktüberwachungsbehörden gemäß Artikel 20
 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des
@@ -839,6 +860,7 @@ beinhaltet insbesondere
 
 
 ## § 21 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002202126)
 
 Handelt es sich bei einer in § 20 Absatz 3 genannten Maßnahme um eine
 Maßnahme, die gemäß Artikel 22 der Verordnung (EG) Nr. 765/2008
@@ -858,6 +880,7 @@ Absatz 3 nicht erforderlich, wenn:
 
 
 ## § 22 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002304126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -933,6 +956,7 @@ strafbar.
 
 
 ## § 23 Übergangvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002400000)
 
 (1) Auf Spielzeug, das vor dem 20. Juli 2011 in den Verkehr gebracht
 wurde, ist diese Verordnung nicht anzuwenden.
@@ -947,6 +971,7 @@ bis 20. Juli 2011 geltenden Fassung anzuwenden.
 
 
 ## § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002500000)
 
 Diese Verordnung tritt am 20. Juli 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Sicherheit von Spielzeug vom 21. Dezember 1989
@@ -955,6 +980,7 @@ vom 6. März 2007 (BGBl. I S. 261) geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gpsgv_2/BJNR135000011.html#BJNR135000011BJNE002600000)
 
 Der Bundesrat hat zugestimmt.
 

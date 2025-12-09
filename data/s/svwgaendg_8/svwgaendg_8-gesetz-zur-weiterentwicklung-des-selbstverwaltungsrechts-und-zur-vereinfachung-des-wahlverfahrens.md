@@ -21,20 +21,24 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000400319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNG000100319)
 
 
 
 ## Art 3 - Vereinigung der Holz-Berufsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNG000200319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000500319)
 
 Die Norddeutsche Holz-Berufsgenossenschaft und die Süddeutsche Holz-
 Berufsgenossenschaft werden zu einer Berufsgenossenschaft vereinigt.
@@ -43,11 +47,13 @@ und hat ihren Sitz vorläufig in München.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000600319)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000700319)
 
 (1) Gehört das Eigentum an einem Grundstück nach § 651 der
 Reichsversicherungsordnung zum Vermögen der Holz-Berufsgenossenschaft,
@@ -63,6 +69,7 @@ entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000800319)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung des § 651 der
 Reichsversicherungsordnung dienen, einschließlich der Berichtigung der
@@ -77,6 +84,7 @@ Berufsgenossenschaft bestätigt, daß die Maßnahme der Durchführung des
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE000901308)
 
 (1) Bis zum Ablauf der fünften Wahlperiode der nach dem
 Selbstverwaltungsgesetz gewählten Organe gilt folgende
@@ -126,6 +134,7 @@ dieser zu seiner ersten Sitzung zusammentritt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001000319)
 
 Bis zur Wahl des Geschäftsführers der Holz-Berufsgenossenschaft nehmen
 die Geschäftsführer der Norddeutschen Holz-Berufsgenossenschaft und
@@ -134,6 +143,7 @@ die Aufgaben des Geschäftsführers der Holz-Berufsgenossenschaft wahr.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001100319)
 
 Die Holz-Berufsgenossenschaft hat innerhalb eines Jahres nach der
 Vereinigung die Satzung und innerhalb von zwei Jahren die übrigen
@@ -144,6 +154,7 @@ ihren Bereichen weiter.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001200319)
 
 Die im Zeitpunkt der Vereinigung im Amt befindlichen Personalräte der
 Norddeutschen Holz-Berufsgenossenschaft und der Süddeutschen Holz-
@@ -154,10 +165,12 @@ Vereinigung, im Amt.
 
 
 ## Art 4 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNG000300319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001301308)
 
 Soweit die Beamten eines landesunmittelbaren Trägers der
 Rentenversicherung der Arbeiter bei Inkrafttreten dieses Gesetzes
@@ -166,11 +179,13 @@ landesgesetzlichen Regelung hierbei.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001400319)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001500319)
 
 Das Selbstverwaltungsgesetz sowie die zu seiner Änderung und
 Durchführung erlassenen Vorschriften gelten im Saarland in der im
@@ -179,6 +194,7 @@ inhaltsgleiche Vorschriften treten außer Kraft.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001600319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -188,6 +204,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/svwg_ndg_8/BJNR009579973.html#BJNR009579973BJNE001700319)
 
 (1) Es treten in Kraft
 

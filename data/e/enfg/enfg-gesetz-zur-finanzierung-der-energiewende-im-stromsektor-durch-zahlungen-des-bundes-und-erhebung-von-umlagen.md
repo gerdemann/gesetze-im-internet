@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000201311)
 
 (1) Dieses Gesetz dient der Finanzierung der nach dem Erneuerbare-
 Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie im
@@ -64,6 +66,7 @@ für das Jahr 2023 verwendet werden dürfen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000301128)
 
 Im Sinn dieses Gesetzes sind oder ist
 
@@ -278,6 +281,7 @@ Im Sinn dieses Gesetzes sind oder ist
 [^F822722_03_BJNR127200022BJNE000301128]: 
 
 ### § 3 Sorgfaltsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000400000)
 
 Die Netzbetreiber müssen bei der Wahrnehmung der Aufgaben nach diesem
 Gesetz die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns
@@ -285,9 +289,11 @@ anwenden.
 
 
 ## Teil 2 - Ermittlung der Finanzierungsbedarfe
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000200000)
 
 
 ### § 4 Ermittlung und Mitteilung der Finanzierungsbedarfe
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000500000)
 
 Die Übertragungsnetzbetreiber ermitteln und teilen bis zum 30.
 September eines Kalenderjahres mit:
@@ -315,6 +321,7 @@ September eines Kalenderjahres mit:
 
 
 ### § 5 Beweislast
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000600000)
 
 Ist die Notwendigkeit oder die Höhe einzelner Positionen bei der
 Ermittlung des EEG-Finanzierungsbedarfs, des KWKG-Finanzierungsbedarfs
@@ -329,9 +336,11 @@ mussten.
 
 
 ## Teil 3 - Ausgleich durch Zahlungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000300000)
 
 
 ### § 6 Ausgleichsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000701311)
 
 (1) Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik
 Deutschland einen Anspruch auf Ausgleich des Differenzbetrages
@@ -373,6 +382,7 @@ Abgabe der Mitteilung nach Absatz 2 Satz 2 fällig.
 
 
 ### § 7 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000800000)
 
 (1) Auf den zu erwartenden Anspruch nach § 6 Absatz 1 Satz 1 oder 2
 können bereits während des anspruchsgegenständlichen Kalenderjahres
@@ -403,6 +413,7 @@ Absatz 1 Satz 1 bis zum Ende des laufenden Kalenderjahres.
 
 
 ### § 8 Ausgleich der Anschlussförderung der Güllekleinanlagen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE000900000)
 
 Die Übertragungsnetzbetreiber haben gegen die Bundesrepublik
 Deutschland einen Anspruch auf Ausgleich der Kosten für die
@@ -413,6 +424,7 @@ Absatz 3 Satz 2 und 3 sind entsprechend anzuwenden.
 
 
 ### § 9 Öffentlich-rechtliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001000000)
 
 (1) Nähere Bestimmungen zu den Zahlungen der Bundesrepublik
 Deutschland nach den §§ 6 bis 8 werden in öffentlich-rechtlichen
@@ -441,12 +453,15 @@ Abschlagszahlungen nach § 7.
 
 
 ## Teil 4 - Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000400000)
 
 
 ### Abschnitt 1 - Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000500000)
 
 
 #### § 10 Ermittlung von Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001100000)
 
 (1) Der KWKG-Finanzierungsbedarf und die Offshore-Anbindungskosten
 werden durch Umlagen ausgeglichen.
@@ -461,6 +476,7 @@ annehmen.
 
 
 #### § 11 Veröffentlichung von Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001200000)
 
 Die Übertragungsnetzbetreiber veröffentlichen auf ihrer gemeinsamen
 Internetseite bis zum 25. Oktober eines Kalenderjahres die Höhe der
@@ -469,6 +485,7 @@ Kalenderjahr.
 
 
 #### § 12 Erhebung von Umlagen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001300000)
 
 (1) Die Netzbetreiber sind berechtigt, die nach § 11 veröffentlichten
 Umlagen bei der Berechnung der Netzentgelte als jeweils eigenständigen
@@ -508,6 +525,7 @@ unverzüglich von der Schienenbahn oder dem Verkehrsunternehmen
 
 
 #### § 13 Ausgleich von Finanzierungsbedarfen zwischen Verteilernetzbetreibern und Übertragungsnetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001400000)
 
 (1) Die Übertragungsnetzbetreiber müssen ihren nachgelagerten
 Verteilernetzbetreibern erstatten:
@@ -552,6 +570,7 @@ Verteilernetzbetreiber.
 
 
 #### § 14 Ausgleich zwischen Übertragungsnetzbetreibern und Verteilernetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001500000)
 
 Die Übertragungsnetzbetreiber haben einen finanziellen Anspruch auf
 Belastungsausgleich gegen die ihnen unmittelbar oder mittelbar
@@ -581,6 +600,7 @@ erloschen sind.
 
 
 #### § 15 Ausgleich zwischen Übertragungsnetzbetreibern
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001600000)
 
 Die Übertragungsnetzbetreiber und Betreiber von Übertragungsnetzen im
 Sinn von § 3 Nummer 10 des Energiewirtschaftsgesetzes haben
@@ -594,6 +614,7 @@ es dem Durchschnitt aller Übertragungsnetzbetreiber entspricht.
 
 
 #### § 16 Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001700000)
 
 (1) Auf die Zahlungen nach diesem Teil kann der berechtigte
 Netzbetreiber monatlich für den jeweils vorangegangenen Kalendermonat
@@ -613,6 +634,7 @@ mitgeteilten Daten.
 
 
 #### § 17 Forderungseinwände und Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001800000)
 
 Einwände gegen Forderungen nach diesem Teil berechtigen zum
 Zahlungsaufschub oder zur Zahlungsverweigerung unbeschadet des § 18
@@ -622,6 +644,7 @@ ist nur zwischen Netzbetreibern zulässig.
 
 
 #### § 18 Rückforderung, Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE001900000)
 
 (1) Zahlt ein Übertragungsnetzbetreiber einem Verteilernetzbetreiber
 mehr als nach den in § 13 Absatz 1 Satz 1 Nummer 1 bis 3 genannten
@@ -653,6 +676,7 @@ Mitteilungspflicht zu erfüllen gewesen wäre.
 
 
 #### § 19 Jahresendabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002001128)
 
 (1) Die Jahresendabrechnungen der nach diesem Teil zu leistenden
 Zahlungen erfolgen für das jeweils vorangegangene Kalenderjahr
@@ -688,6 +712,7 @@ Kalenderjahres ausgeglichen werden.
 
 
 #### § 20 Nachträgliche Korrekturen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002101128)
 
 (1) Bei der jeweils nächsten Abrechnung sind Änderungen der
 abzurechnenden Strommenge oder der Zahlungsansprüche zu
@@ -731,9 +756,11 @@ bei der jeweils nächsten Abrechnung zu berücksichtigen.
 
 
 ### Abschnitt 2 - Erhebung von Umlagen in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000600000)
 
 
 #### § 21 Umlageerhebung bei Stromspeichern und Verlustenergie
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002201128)
 
 (1) Für die Netzentnahme von Strom, der in einem Kalenderjahr zum
 Zweck der Zwischenspeicherung in einem elektrischen, chemischen,
@@ -855,6 +882,7 @@ Mitteilungspflicht zu erfüllen gewesen wäre.
 
 
 #### § 22 Umlageerhebung bei elektrisch angetriebenen Wärmepumpen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002300000)
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf null für
 die Netzentnahme von Strom, der in einer elektrisch angetriebenen
@@ -877,6 +905,7 @@ durch Betreiber von elektrisch angetriebenen Wärmepumpen,
 
 
 #### § 23 Umlageerhebung bei Anlagen zur Verstromung von Kuppelgasen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002401311)
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf 15
 Prozent für Unternehmen oder selbständige Teile eines Unternehmens für
@@ -916,14 +945,17 @@ durch Letztverbraucher,
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002500000)
 
 (weggefallen)
 
 
 ### Abschnitt 3 - Herstellung von Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000700000)
 
 
 #### § 25 Umlagebefreiung bei der Herstellung von Grünem Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002600000)
 
 (1) Der Anspruch auf Zahlung der Umlagen verringert sich auf null für
 die Netzentnahme von Strom, der zur Herstellung von Grünem Wasserstoff
@@ -954,6 +986,7 @@ durch Letztverbraucher,
 
 
 #### § 26 Anforderungen an Grünen Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002700000)
 
 Die Anforderungen an Grünen Wasserstoff werden in einer
 Rechtsverordnung nach § 93 des Erneuerbare-Energien-Gesetzes
@@ -961,6 +994,7 @@ festgelegt.
 
 
 #### § 27 Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002800000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz prüft mögliche
 Auswirkungen von Einrichtungen zur Herstellung von Grünem Wasserstoff
@@ -970,12 +1004,15 @@ Bundestag hierzu bis zum 31. Dezember 2023 einen Bericht vor.
 
 
 ### Abschnitt 4 - Besondere Ausgleichsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000800000)
 
 
 #### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG000900000)
 
 
 ##### § 28 Zweck des Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE002900000)
 
 Zweck dieses Abschnitts ist die Begrenzung der Höhe der zu zahlenden
 Umlagen
@@ -1006,6 +1043,7 @@ Stromverbraucher vereinbar ist.
 
 
 ##### § 29 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003000000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle begrenzt die
 Umlagen auf Antrag abnahmestellenbezogen
@@ -1081,9 +1119,11 @@ unter Beachtung dieser Vorgaben übermittelt werden.
 
 
 #### Unterabschnitt 2 - Stromkostenintensive Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001000000)
 
 
 ##### § 30 Voraussetzungen der Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003101128)
 
 Bei einem Unternehmen, das einer Branche nach Anlage 2 zuzuordnen ist,
 werden die Umlagen begrenzt, wenn
@@ -1158,6 +1198,7 @@ werden die Umlagen begrenzt, wenn
 
 
 ##### § 31 Umfang der Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003200000)
 
 Die Umlagen werden an den Abnahmestellen, an denen das Unternehmen
 einer Branche nach Anlage 2 zuzuordnen ist, für den Strom, den das
@@ -1230,6 +1271,7 @@ begrenzt:
 
 
 ##### § 32 Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003302128)
 
 Die Nachweisführung erfolgt
 
@@ -1372,6 +1414,7 @@ Die Nachweisführung erfolgt
 [^F822722_04_BJNR127200022BJNE003302128]: 
 
 ##### § 33 Nachweisführung auf Basis eines gewillkürten Rumpfgeschäftsjahres
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003400000)
 
 Unternehmen, die bis zum 30. April des Antragsjahres noch über kein
 abgeschlossenes handelsrechtliches Geschäftsjahr verfügen oder zum
@@ -1389,6 +1432,7 @@ Ausfuhrkontrolle anhand der Daten des abgeschlossenen Geschäftsjahres.
 
 
 ##### § 34 Selbständige Teile eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003501128)
 
 Die §§ 30 bis 33 sind für selbständige Teile eines Unternehmens, das
 einer Branche nach Anlage 2 zuzuordnen ist, entsprechend anzuwenden,
@@ -1397,6 +1441,7 @@ des Unternehmens maßgeblich ist.
 
 
 ##### § 35 Begriffsbestimmungen des Unterabschnitts, Branchenzuordnung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003600000)
 
 (1) Im Sinn dieses Unterabschnitts ist
 
@@ -1441,9 +1486,11 @@ maßgeblich.
 [^F822722_05_BJNR127200022BJNE003600000]: 
 
 #### Unterabschnitt 3 - Herstellung von Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001100000)
 
 
 ##### § 36 Herstellung von Wasserstoff in stromkostenintensiven Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003700000)
 
 (1) Bei Unternehmen oder selbständigen Teilen eines Unternehmens, die
 der Branche mit dem WZ-2008-Code 2011 nach Anlage 2 zuzuordnen sind
@@ -1503,9 +1550,11 @@ Ausfuhrkontrolle anhand der Daten des abgeschlossenen Geschäftsjahres.
 
 
 #### Unterabschnitt 4 - Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001200000)
 
 
 ##### § 37 Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003800000)
 
 (1) Bei einer Schienenbahn erfolgt die Begrenzung der Umlagen nur,
 wenn sie nachweist, dass im letzten abgeschlossenen Geschäftsjahr die
@@ -1592,6 +1641,7 @@ anzuwenden.
 
 
 ##### § 38 Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE003900000)
 
 (1) Bei einem Verkehrsunternehmen mit elektrisch betriebenen Bussen im
 Linienverkehr werden die Umlagen auf 20 Prozent begrenzt, wenn es
@@ -1729,6 +1779,7 @@ durch eine Eigenerklärung, in der das Unternehmen
 
 
 ##### § 39 Landstromanlagen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004000000)
 
 (1) Bei einer Landstromanlage erfolgt die Begrenzung der Umlagen auf
 20 Prozent, wenn sie nachweist, dass
@@ -1774,9 +1825,11 @@ ist § 37 Absatz 4 entsprechend anzuwenden.
 
 
 #### Unterabschnitt 5 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001300000)
 
 
 ##### § 40 Antragstellung und Entscheidungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004101128)
 
 (1) Der Antrag nach § 29 ist jeweils bis zum 30. Juni eines Jahres für
 das folgende Kalenderjahr zu stellen. Abweichend von Satz 1 können bis
@@ -1842,6 +1895,7 @@ Verhältnis der unbegrenzten Umlagen im Begrenzungsjahr entspricht.
 
 
 ##### § 41 Übertragung von Begrenzungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004200000)
 
 (1) Wenn die wirtschaftliche und organisatorische Einheit einer
 begrenzten Abnahmestelle nahezu vollständig auf ein anderes
@@ -1863,6 +1917,7 @@ entsprechend anzuwenden.
 
 
 ##### § 42 Rücknahme der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004300000)
 
 Die Entscheidung nach § 29 ist mit Wirkung auch für die Vergangenheit
 zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung die
@@ -1870,6 +1925,7 @@ Voraussetzungen nach diesem Gesetz nicht vorlagen.
 
 
 ##### § 43 Auskunfts- und Betretungsrecht, Datenabgleich
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004400000)
 
 (1) Zum Zweck der Prüfung der gesetzlichen Voraussetzungen sind die
 Bediensteten des Bundesamtes für Wirtschaft und Ausfuhrkontrolle und
@@ -1894,6 +1950,7 @@ sind zur Mitwirkung verpflichtet.
 
 
 ##### § 44 Evaluierung, Weitergabe von Daten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004500000)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz und das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle evaluieren laufend die
@@ -1949,9 +2006,11 @@ veröffentlichen.
 
 
 ### Abschnitt 5 - Abgrenzung, Messung und Schätzung von Strommengen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001400000)
 
 
 #### § 45 Geringfügige Stromverbräuche Dritter
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004600000)
 
 Stromverbräuche einer anderen Person sind den Stromverbräuchen des
 Letztverbrauchers zuzurechnen, wenn sie
@@ -1981,6 +2040,7 @@ Letztverbrauchers zuzurechnen, wenn sie
 
 
 #### § 46 Messung und Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004700000)
 
 (1) Strommengen, für die Umlagen zu zahlen sind, sind durch mess- und
 eichrechtskonforme Messeinrichtungen zu erfassen. Wenn für Strommengen
@@ -2114,12 +2174,15 @@ verbrauchten Strommengen mit der Maßgabe entsprechend anzuwenden, dass
 
 
 ## Teil 5 - Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001500000)
 
 
 ### Abschnitt 1 - Kontoführung und gesonderte Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001600000)
 
 
 #### § 47 Kontoführung und gesonderte Buchführung der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004801311)
 
 (1) Die Übertragungsnetzbetreiber müssen jeweils ein separates
 Bankkonto für die Aufgaben nach dem Erneuerbare-Energien-Gesetz und
@@ -2155,6 +2218,7 @@ Gesetzes benötigt werden.
 
 
 #### § 48 Kontoführung und gesonderte Buchführung der Verteilernetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE004900000)
 
 Die Verteilernetzbetreiber müssen für Zahlungen nach dem Erneuerbare-
 Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz sowie für die
@@ -2166,9 +2230,11 @@ anzuwenden.
 
 
 ### Abschnitt 2 - Mitteilungs- und Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001700000)
 
 
 #### § 49 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005000000)
 
 Betreiber von Stromerzeugungsanlagen, Netzbetreiber, Letztverbraucher,
 Netznutzer und Elektrizitätsversorgungsunternehmen müssen einander die
@@ -2179,6 +2245,7 @@ Fristen bestimmt sind. § 20 ist entsprechend anzuwenden.
 
 
 #### § 50 Verteilernetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005101128)
 
 Verteilernetzbetreiber müssen ihrem vorgelagerten
 Übertragungsnetzbetreiber übermitteln:
@@ -2314,6 +2381,7 @@ Verteilernetzbetreiber müssen ihrem vorgelagerten
 
 
 #### § 51 Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005201128)
 
 (1) Die Übertragungsnetzbetreiber müssen auf ihrer gemeinsamen
 Internetseite veröffentlichen:
@@ -2446,6 +2514,7 @@ kommerziellen und nichtkommerziellen Zwecken verwendet werden.
 
 
 #### § 52 Netznutzer
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005300000)
 
 (1) Netznutzer, die für eine Netzentnahme eine Verringerung der
 Umlagen nach diesem Gesetz in Anspruch nehmen wollen, müssen dem zur
@@ -2531,6 +2600,7 @@ Prüfungsvermerks eines Prüfers nachweisen:
 
 
 #### § 53 Verstoß gegen Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005400000)
 
 (1) Der nach Teil 4 verringerte Anspruch auf Zahlung der Umlagen
 erhöht sich auf 100 Prozent, soweit die folgenden Mitteilungspflichten
@@ -2565,6 +2635,7 @@ dem diese Mitteilungspflicht unverzüglich zu erfüllen gewesen wäre:
 
 
 #### § 54 Elektronische Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005500000)
 
 Die nach diesem Abschnitt mitzuteilenden Angaben müssen elektronisch
 übermittelt werden und einen sachkundigen Dritten in die Lage
@@ -2578,6 +2649,7 @@ Verwendung dieser Formularvorlagen übermittelt werden.
 
 
 #### § 55 Testierung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005600000)
 
 (1) Die zusammengefassten Endabrechnungen der Verteilernetzbetreiber
 nach § 50 Nummer 2 und die Endabrechnung unter den
@@ -2618,6 +2690,7 @@ entsprechend anzuwenden.
 
 
 #### § 56 Beihilfetransparenzpflichten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005700000)
 
 (1) Letztverbraucher, bei denen die Verringerung und Begrenzung aller
 Umlagen nach Teil 4 bezogen auf das letzte Kalenderjahr 100 000 Euro
@@ -2699,6 +2772,7 @@ befreit.
 
 
 #### § 57 Bundesamt für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005800000)
 
 Für die Ermittlung der Umlagen muss das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle den Übertragungsnetzbetreibern die folgenden Daten
@@ -2732,6 +2806,7 @@ nächste Kalenderjahr zu berücksichtigen.
 
 
 #### § 58 Behörden der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE005900000)
 
 Die Behörden der Zollverwaltung sind verpflichtet, dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle auf Ersuchen die für die Berechnung
@@ -2739,6 +2814,7 @@ der Bruttowertschöpfung erforderlichen Informationen mitzuteilen.
 
 
 #### § 59 Information der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006000000)
 
 (1) Die Übertragungsnetzbetreiber müssen der Bundesnetzagentur bis zum
 31\. März eines Kalenderjahres für die nach § 47 zu führenden
@@ -2793,6 +2869,7 @@ Erneuerbare-Energien-Gesetzes zur Verfügung gestellt.
 
 
 #### § 60 Vorausschau des EEG-Finanzierungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006100000)
 
 (1) Die Übertragungsnetzbetreiber müssen bis zum 25. Oktober eines
 Kalenderjahres eine Vorausschau für die zu leistenden Zahlungen für
@@ -2816,6 +2893,7 @@ entsprechend anzuwenden.
 
 
 #### § 61 Schätzungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006200000)
 
 Werden erforderliche Angaben nach diesem Teil nicht oder nicht
 fristgerecht den Übertragungsnetzbetreibern mitgeteilt oder bestehen
@@ -2833,9 +2911,11 @@ Sicherheitsabschläge zugunsten der Umlagenkonten vorsehen.
 
 
 ## Teil 6 - Rechtsschutz und behördliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001800000)
 
 
 ### § 62 Aufsicht durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006301128)
 
 (1) Die Bundesnetzagentur hat die Aufgabe, zu überwachen, dass
 
@@ -2933,6 +3013,7 @@ entsprechend.
 
 
 ### § 62a Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006400000)
 
 (1) Der Bundesgerichtshof muss die Bundesnetzagentur über alle
 bürgerlichen Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben,
@@ -2952,6 +3033,7 @@ von dem Bundesgerichtshof mitzuteilen.
 
 
 ### § 63 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006500000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2984,9 +3066,11 @@ zweihunderttausend Euro geahndet werden.
 
 
 ## Teil 7 - Verordnungsermächtigungen, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNG001900000)
 
 
 ### § 64 Verordnungsermächtigung zur Ermittlung des Finanzierungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006600000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die Positionen,
@@ -2995,6 +3079,7 @@ anzuwendenden Zinssatz zu bestimmen.
 
 
 ### § 65 Verordnungsermächtigung zur Besonderen Ausgleichsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006700000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates Branchen in die
@@ -3004,6 +3089,7 @@ erforderlich ist.
 
 
 ### § 66 Allgemeine Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006802128)
 
 (1) Soweit sich aus den nachfolgenden Bestimmungen nichts anderes
 ergibt, sind die Bestimmungen des Erneuerbare-Energien-Gesetzes, des
@@ -3066,6 +3152,7 @@ werden.
 
 
 ### § 67 Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE006902128)
 
 (1) Abweichend von § 66 Absatz 1 sind die Bestimmungen des
 Erneuerbare-Energien-Gesetzes, des Kraft-Wärme-Kopplungsgesetzes und §
@@ -3166,6 +3253,7 @@ von § 2 Nummer 22 als wirtschaftlich durchführbar,
 
 
 ### § 68 Beihilfevorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE007002128)
 
 § 22, Teil 4 Abschnitt 3 und § 39 dieses Gesetzes dürfen erst nach der
 beihilferechtlichen Genehmigung durch die Europäische Kommission und
@@ -3174,6 +3262,7 @@ nur nach Maßgabe der Genehmigung angewandt werden.
 (zu § 2)
 
 ### Anlage 1 Ermittlung des EEG-Finanzierungsbedarfs und des KWKG-Finanzierungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE007103128)
 
 (Fundstelle: BGBl. I 2022, 1296 - 1299
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3614,6 +3703,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 31)
 
 ### Anlage 2 Stromkosten- oder handelsintensive Branchen
+[Direktlink](https://www.gesetze-im-internet.de/enfg/BJNR127200022.html#BJNR127200022BJNE007200000)
 
 (Fundstelle: BGBl. I 2022, 1300 - 1303)
 

@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000100317)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE006300317)
 
 
 1.  bis 19.
@@ -63,6 +65,7 @@ ersetzt. 22. Die Sätze des Ortszuschlages in der Anlage II des
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002201116)
 
 Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt, die
 nach diesem Gesetz unmittelbar eintretenden Änderungen in der
@@ -72,6 +75,7 @@ festzustellen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002300317)
 
 Ein Beamter, Richter oder Soldat, dessen Ortszuschlag sich auf Grund
 der Regelungen in § 1 Nr. 3.2 oder 4 verringert, erhält für die Dauer
@@ -82,6 +86,7 @@ Dienstbezüge erhöhen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002400317)
 
 (1) Vom 1. Januar 1972 an erhöhen sich in der Anlage II des
 Bundesbesoldungsgesetzes in der Fassung dieses Gesetzes die Sätze des
@@ -97,19 +102,23 @@ entsprechend.
 
 
 ## Art II - Übergangsvorschriften zur Vereinheitlichung der Besoldungsstruktur in Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000200317)
 
 
 
 ## (XXXX) §§ 1 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002500317)
 
 -
 
 
 ### Abschnitt 1 - Zulagen im Bereich des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000300317)
 
 
 
 ### § 10 Übergangsvorschrift für Erschwerniszulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002600317)
 
 Regelungen über die Gewährung von Zulage zur Abgeltung besonderer bei
 der Bewertung des Amtes nicht berücksichtigter Erschwernisse, die bis
@@ -123,6 +132,7 @@ nicht mehr geleistet werden.
 
 
 ### § 11 Stufenregelung zu den §§ 4 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002700317)
 
 Die §§ 4 bis 8 gelten bis zum 30. Juni 1972 mit folgenden Maßgaben:
 
@@ -190,10 +200,12 @@ Die §§ 4 bis 8 gelten bis zum 30. Juni 1972 mit folgenden Maßgaben:
 
 
 ### Abschnitt 2 - Vorschriften für den Bereich der Länder
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000400317)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002800317)
 
 (1) Dieser Abschnitt gilt für die Beamten der Länder, Gemeinden,
 Gemeindeverbände und der übrigen Körperschaften, Anstalten und
@@ -207,10 +219,12 @@ soweit es danach notwendig ist, Vorschriften zur Ausführung.
 
 
 #### 1. Titel - Grundgehalt, Ortszuschlag, Kinderzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000500317)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002900317)
 
 (1) Übergangsweise gelten für die Grundgehälter in den
 Besoldungsgruppen 8 und höher der Besoldungsordnungen B der
@@ -262,15 +276,18 @@ angepaßt werden.
 
 
 #### 2. Titel - Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000600317)
 
 
 
 #### (XXXX) §§ 14 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003000317)
 
 -
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003100317)
 
 (1) Für andere als die unter die §§ 14 bis 16 fallenden Amtszulagen
 und Stellenzulagen sowie für Zwischenbesoldungsgruppen und
@@ -360,10 +377,12 @@ Haushaltsermächtigungen ist nur zur Abgeltung von Aufwand zulässig.
 
 
 #### 3. Titel - Sonstige Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000700317)
 
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003200317)
 
 (1) Soweit das Bundesbesoldungsgesetz in der Fassung dieses Gesetzes
 und die Vorschriften dieses Abschnitts für die Länder nur
@@ -400,18 +419,22 @@ werden gestrichen.
 
 
 ## Art III - Vermögenswirksame Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000800317)
 
 
 
 ## Art IV - Versorgungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG000900317)
 
 
 
 ### Abschnitt 1 - Erhöhung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001000317)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003300317)
 
 (1) Bei Versorgungsempfängern, deren Versorgungsbezügen ein
 Grundgehalt der Besoldungsordnungen des Bundesbesoldungsgesetzes
@@ -430,6 +453,7 @@ erhöht.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003400317)
 
 (1) An die Stelle der Sätze der ruhegehaltfähigen Zulagen in den
 Anlage I und IV des Bundesbesoldungsgesetzes, die den
@@ -520,6 +544,7 @@ A10 und A11 verwiesen wird, gilt Absatz 1 Satz 2 entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003500317)
 
 Die Ausgleichszulagen nach § 48a Abs. 3 Satz 2 des
 Bundesbesoldungsgesetzes oder nach § 5a Abs. 5 des Gesetzes zur
@@ -534,10 +559,12 @@ ruhegehaltfähiger Zulagen) erhöht.
 
 
 ### Abschnitt 2 - Übergangsvorschriften für Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001100317)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003600317)
 
 (1) An die Stelle der Sätze der ruhegehaltfähigen Zulagen nach Anlage
 2a dieses Gesetzes treten mit Wirkung vom Inkrafttreten dieses
@@ -554,6 +581,7 @@ Zulagen nach den §§ 5, 6 Abs. 1 und 2 dieses Abschnitts.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003700317)
 
 Die ruhegehaltfähigen Stellenzulagen nach Artikel II dieses Gesetzes
 werden mit Wirkung vom Inkrafttreten dieses Abschnitts auch den
@@ -566,6 +594,7 @@ auch wenn die Amtsbezeichnung abweicht.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003800317)
 
 (1) § 5 gilt entsprechend für Versorgungsempfänger aus dem
 Personenkreis der früheren Polizeivollzugsbeamten, die nach dem Gesetz
@@ -595,6 +624,7 @@ Besoldungsgruppe, nach der sich die Versorgungsbezüge bemessen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE003900317)
 
 Für Empfänger von Übergangsgebührnissen und Ausgleichsbezügen gilt § 5
 Satz 1 hinsichtlich der ruhegehaltfähigen Stellenzulagen nach Artikel
@@ -606,6 +636,7 @@ soweit diese die Zulage nach Satz 1 übersteigen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004000317)
 
 Artikel II § 4 des Vierten Gesetzes zur Änderung des
 Bundesbesoldungsgesetzes ist mit Wirkung vom Inkrafttreten dieses
@@ -617,6 +648,7 @@ berücksichtigen sind.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004100317)
 
 Ein nach Artikel 5 oder Artikel 6 des Siebenten Gesetzes zur Änderung
 des Bundesbesoldungsgesetzes gewährter Erhöhungszuschlag vermindert
@@ -626,15 +658,18 @@ gelegt werden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004200317)
 
 Abschnitt 1 § 3 dieses Artikels gilt entsprechend.
 
 
 ### Abschnitt 3 - Anpassung der Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001200317)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004301116)
 
 (1) Bei Versorgungsbezügen, denen ein Grundgehalt aus der
 Besoldungsgruppe eines Amtes zugrunde liegt, das unmittelbar kraft
@@ -675,16 +710,19 @@ worden ist.
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004401310)
 
 -
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004600317)
 
 Abschnitt 1 § 3 dieses Artikels gilt entsprechend.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004700317)
 
 Bleiben die sich nach den §§ 11 bis 14 dieses Abschnitts ergebenden
 Versorgungsbezüge hinter den bisherigen Versorgungsbezügen zurück,
@@ -694,10 +732,12 @@ verringert sich der Ausgleichsbetrag entsprechend.
 
 
 ### Abschnitt 4 - Stellenzulagen nach Vorbemerkung Nummer 4 zu den Besoldungsordnungen A und B des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001300317)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004800317)
 
 Die Zulagen nach Vorbemerkung Nummer 4 der Anlage I des
 Bundesbesoldungsgesetzes in der Fassung des Artikels I dieses Gesetzes
@@ -709,10 +749,12 @@ bereits bei Eintritt des Versorgungsfalles gegolten hätte. Abschnitt 1
 
 
 ### Abschnitt 5 - Vorschriften für den Bereich der Länder
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001400317)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE004900317)
 
 Bei Versorgungsempfängern, deren Versorgungsbezügen ein Grundgehalt
 der Besoldungsordnungen A oder B und ein Ortszuschlag nach den
@@ -725,6 +767,7 @@ entsprechend.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005000317)
 
 (1) Durch Landesgesetz ist ergänzend zu bestimmen, daß die vorhandenen
 Versorgungsempfänger an den Maßnahmen nach Kapitel III des
@@ -756,24 +799,29 @@ Anwendung.
 
 
 ## Art V - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001500317)
 
 
 
 ### Abschnitt 1 - Änderung anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001600317)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005101310)
 
 (weggefallen)
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005200317)
 
 -
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005300317)
 
 (1)
 
@@ -784,20 +832,24 @@ Soldatenversorgungsgesetzes.
 
 
 ### (XXXX) §§ 4 und 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005400317)
 
 -
 
 
 ### Abschnitt 2 - Vorschriften für den Bereich der Länder
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001700317)
 
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005501310)
 
 -
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005600317)
 
 Der Höchstbetrag des Ausgleichs nach § 103 des
 Beamtenrechtsrahmengesetzes gilt unmittelbar für den Bereich der
@@ -805,10 +857,12 @@ Länder.
 
 
 ### Abschnitt 3 - Fortgeltung von Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001800317)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005700317)
 
 (1) Soweit sich aus dem Bundesbesoldungsgesetz in der Fassung dieses
 Gesetzes und den Vorschriften dieses Gesetzes nicht etwas anderes
@@ -831,6 +885,7 @@ des Beamtenrechtsrahmengesetzes bleibt unberührt.
 
 
 ## Art VI - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG001900317)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -840,6 +895,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art VII - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNG002000317)
 
 Es treten in Kraft
 
@@ -883,12 +939,14 @@ Es treten in Kraft
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE002100317)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.
 
 
 ## Anlage 1 Grundgehaltssätze in der Anlage I des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005800317)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1971, 225)
@@ -896,6 +954,7 @@ Fundstelle: BGBl. I 1971, 225)
 - für die Zeit vom 1. Januar 1971 bis 30. April 1971 -
 
 ## Anlage 2a Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE005900317)
 
 Fundstelle des Originaltextes: BGBl. I 1971, 226
 
@@ -1049,6 +1108,7 @@ Fundstelle des Originaltextes: BGBl. I 1971, 226
 - ab 1. Mai 1971 -
 
 ## Anlage 2b Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE006000317)
 
 Fundstelle des Originaltextes: BGBl. I 1971, 227
 
@@ -1266,6 +1326,7 @@ Fundstelle des Originaltextes: BGBl. I 1971, 227
 
 
 ## Anlage 3 Ortszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE006100317)
 
 (Fundstelle des Originaltextes: BGBl. I 1971, 228)
 
@@ -1391,6 +1452,7 @@ Ortszuschlag für jedes weitere zu berücksichtigende Kind, und zwar
 
 
 ## Anlage 4 Überleitungsübersicht zu Artikel IV § 11 Abs. 1 des 1. BesVNG
+[Direktlink](https://www.gesetze-im-internet.de/besvng_1/BJNR002089971.html#BJNR002089971BJNE006200317)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1971, 229 - 232)

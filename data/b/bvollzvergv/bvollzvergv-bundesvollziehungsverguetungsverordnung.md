@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 2032-1-17 v. 6.1.2003 I 8 (VollstrVergV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000100000)
 
 Auf Grund des § 49 des Bundesbesoldungsgesetzes, der durch Artikel 1
 Nummer 23 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) neu
@@ -26,6 +27,7 @@ Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000200000)
 
 Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft als
 Vollziehungsbeamtinnen oder  ‑beamte im Sinne des § 285 der
@@ -34,6 +36,7 @@ eine Vergütung nach dieser Verordnung.
 
 
 ## § 2 Entstehen und Höhe des Vergütungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000300000)
 
 (1) Die Vergütung wird für Vollstreckungshandlungen nach Absatz 2
 gewährt, die von der Vollziehungsbeamtin oder dem Vollziehungsbeamten
@@ -127,12 +130,14 @@ Vergütung nach Absatz 2 Nummer 2 nur einmal.
 
 
 ## § 3 Zahlung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000400000)
 
 Die Vergütung wird spätestens mit den Bezügen für den vierten Monat,
 der auf die Vollstreckungshandlung folgt, gezahlt.
 
 
 ## § 4 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000500000)
 
 Der Ersatz der Fahrtkosten und der sonstigen Reisekosten, die mit dem
 Außendienst der Vollziehungsbeamtinnen und  ‑beamten verbunden sind,
@@ -142,6 +147,7 @@ abgegolten.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bvollzvergv/BJNR184000021.html#BJNR184000021BJNE000600000)
 
 Diese Verordnung tritt am 1. Juli 2021 in Kraft. Gleichzeitig tritt
 die Vollstreckungsvergütungsverordnung in der Fassung der

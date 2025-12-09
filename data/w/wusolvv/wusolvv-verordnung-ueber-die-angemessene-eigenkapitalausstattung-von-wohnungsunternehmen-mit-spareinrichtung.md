@@ -29,6 +29,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000100000)
 
 Auf Grund des § 51a Absatz 1 Satz 2 und 4 des Kreditwesengesetzes, der
 durch Artikel 1 Nummer 84 des Gesetzes vom 28. August 2013 (BGBl. I S.
@@ -38,15 +39,18 @@ Spitzenverbandes der Wohnungsunternehmen mit Spareinrichtung:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000300000)
 
 Diese Verordnung ist anzuwenden auf Wohnungsunternehmen mit
 Spareinrichtung im Sinne des § 1 Absatz 29 des Kreditwesengesetzes.
 
 
 ### § 2 Angemessenheit des Eigenkapitals
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000400000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung verfügt über
 angemessenes Eigenkapital, wenn es täglich zum Geschäftsschluss die
@@ -100,6 +104,7 @@ an.
 
 
 ### § 3 Anrechnungspflichtige Positionen, Schuldnergesamtheit
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000500000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung hat als
 anrechnungspflichtige Positionen seine Adressrisikopositionen,
@@ -219,6 +224,7 @@ Fällen von der Bildung einer Schuldnergesamtheit nach Satz 1 absehen.
 
 
 ### § 4 Auf fremde Währung lautende Positionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000600000)
 
 Eine auf eine fremde Währung lautende Position ist zu dem von der
 Europäischen Zentralbank am Meldestichtag festgestellten und von der
@@ -234,6 +240,7 @@ Verkaufskursen des Stichtages zugrunde zu legen.
 
 
 ### § 5 Meldungen zur Eigenkapitalausstattung
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000700000)
 
 (1) Wohnungsunternehmen mit Spareinrichtung haben der Deutschen
 Bundesbank zu den Anforderungen nach § 2 Absatz 2 und 4 nach dem Stand
@@ -267,6 +274,7 @@ eingereicht werden.
 
 
 ### § 6 Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000800000)
 
 Wohnungsunternehmen mit Spareinrichtung müssen die Nichteinhaltung der
 Eigenkapitalanforderungen nach § 2 Absatz 2 zwischen den
@@ -277,12 +285,15 @@ unterschritten werden.
 
 
 ## Teil 2 - Adressrisiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000200000)
 
 
 ### Kapitel 1 - Risikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000300000)
 
 
 #### § 7 Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE000900000)
 
 (1) Adressenausfallrisikopositionen setzen sich zusammen aus den
 
@@ -322,6 +333,7 @@ wesentlichen und wirksamen Risikotransfer nach § 51 erfüllt.
 
 
 #### § 8 Bilanzielle Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001000000)
 
 Zu den bilanziellen Adressenausfallrisikopositionen gehören
 
@@ -349,6 +361,7 @@ Zu den bilanziellen Adressenausfallrisikopositionen gehören
 
 
 #### § 9 Derivative Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001100000)
 
 Derivative Adressenausfallrisikopositionen sind Derivate nach § 19
 Absatz 1a des Kreditwesengesetzes mit Ausnahme von
@@ -356,6 +369,7 @@ Stillhalterverpflichtungen aus Optionen.
 
 
 #### § 10 Außerbilanzielle Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001200000)
 
 (1) Zu den außerbilanziellen Adressenausfallrisikopositionen gehören
 
@@ -392,6 +406,7 @@ Adressenausfallrisikoposition.
 
 
 #### § 11 Vorleistungsrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001300000)
 
 (1) Eine Vorleistungsrisikoposition ist jeder Anspruch aus einem
 Geschäft, bei dem
@@ -423,6 +438,7 @@ Systeme wieder funktionstüchtig sind.
 
 
 #### § 12 Abwicklungsrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001400000)
 
 (1) Eine Abwicklungsrisikoposition ist jeder Anspruch auf Lieferung
 oder Abnahme von Wertpapieren, Fremdwährungen oder Waren aus einem
@@ -438,9 +454,11 @@ bleiben, bis die Systeme wieder funktionstüchtig sind.
 
 
 ### Kapitel 2 - Gesamtanrechnungsbetrag für Adressrisiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000400000)
 
 
 #### § 13 Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001500000)
 
 (1) Der Gesamtanrechnungsbetrag für Adressrisiken wird ermittelt,
 indem aus der Gesamtheit der Adressrisikopositionen mit Ausnahme der
@@ -467,6 +485,7 @@ Gesamtanrechnungsbetrag für Abwicklungsrisiken nach § 15.
 
 
 #### § 14 Ermittlung der risikogewichteten KSA-Positionswerte für Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001600000)
 
 (1) Zur Ermittlung der risikogewichteten KSA-Positionswerte muss ein
 Wohnungsunternehmen mit Spareinrichtung sämtliche
@@ -488,6 +507,7 @@ Positionswert nach den §§ 53 bis 57 zu ermitteln.
 
 
 #### § 15 Gesamtanrechnungsbetrag für Abwicklungsrisiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001700000)
 
 (1) Der Gesamtanrechnungsbetrag für Abwicklungsrisiken ist die Summe
 der Anrechnungsbeträge für sämtliche Abwicklungsrisikopositionen.
@@ -519,12 +539,15 @@ multiplizieren ist
 
 
 ### Kapitel 3 - Kreditrisiko-Standardansatz
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000500000)
 
 
 #### Abschnitt 1 - KSA-Forderungsklassen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000600000)
 
 
 ##### § 16 Zuordnung von KSA-Positionen zu KSA-Forderungsklassen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001800000)
 
 (1) Jede KSA-Position ist einer der folgenden KSA-Forderungsklassen
 zuzuordnen:
@@ -858,9 +881,11 @@ Verbriefungspositionen.
 
 
 #### Abschnitt 2 - KSA-Risikogewicht
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000700000)
 
 
 ##### § 17 KSA-Risikogewicht für Zentralregierungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE001900000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse Zentralregierungen beträgt 100 Prozent, soweit in den
@@ -907,6 +932,7 @@ betreffende Position zur Anwendung kommt.
 
 
 ##### § 18 KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002000000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse Regionalregierungen und örtliche
@@ -949,6 +975,7 @@ ein KSA-Risikogewicht von 20 Prozent verwendet werden.
 
 
 ##### § 19 KSA-Risikogewicht für sonstige öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002100000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse sonstige öffentliche Stellen beträgt 100 Prozent,
@@ -1002,6 +1029,7 @@ Anwendung kommt.
 
 
 ##### § 20 KSA-Risikogewicht für multilaterale Entwicklungsbanken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002200000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse multilaterale Entwicklungsbanken beträgt 50 Prozent,
@@ -1018,12 +1046,14 @@ Prozent.
 
 
 ##### § 21 KSA-Risikogewicht für internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002300000)
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 internationale Organisationen beträgt 0 Prozent.
 
 
 ##### § 22 KSA-Risikogewicht für Institute
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002400000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse Institute beträgt 100 Prozent, soweit in den Absätzen
@@ -1065,6 +1095,7 @@ Risikogewicht 20 Prozent.
 
 
 ##### § 23 KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002500000)
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 von Kreditinstituten emittierte gedeckte Schuldverschreibungen ist in
@@ -1074,6 +1105,7 @@ geschuldet werden, nach Tabelle 5 der Anlage 1 zu bestimmen.
 
 
 ##### § 24 KSA-Risikogewicht für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002600000)
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 Unternehmen ist das Höhere von 100 Prozent und dem KSA-Risikogewicht
@@ -1081,12 +1113,14 @@ nach § 17 für die Zentralregierung des Sitzstaates des Schuldners.
 
 
 ##### § 25 KSA-Risikogewicht für das Mengengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002700000)
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 Mengengeschäft beträgt 75 Prozent.
 
 
 ##### § 26 KSA-Risikogewicht für Investmentanteile
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002800000)
 
 (1) Das Risikogewicht einer KSA-Position der KSA-Forderungsklasse
 Investmentanteile beträgt 100 Prozent, soweit in den Absätzen 2 bis 5
@@ -1180,12 +1214,14 @@ oder höher festlegen.
 
 
 ##### § 27 KSA-Risikogewicht für Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE002900000)
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse
 Beteiligungen beträgt 100 Prozent.
 
 
 ##### § 28 KSA-Risikogewicht für sonstige Positionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003000000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse sonstige Positionen beträgt 0 Prozent für Barrengold
@@ -1229,6 +1265,7 @@ KSA-Positionswerten auszunehmen sind.
 
 
 ##### § 29 KSA-Risikogewicht für überfällige Positionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003100000)
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-
 Forderungsklasse überfällige Positionen beträgt 150 Prozent soweit
@@ -1242,6 +1279,7 @@ Position betragen.
 
 
 ##### § 30 Benennung von Exportversicherungsagenturen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003200000)
 
 (1) Das Wohnungsunternehmen mit Spareinrichtung darf für KSA-
 Positionen, die nach Tabelle 6 der Anlage 1 für die
@@ -1259,6 +1297,7 @@ eine Verminderung der Eigenkapitalanforderungen beabsichtigt ist.
 
 
 ##### § 31 Verwendung von Länderklassifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003300000)
 
 Ein Wohnungsunternehmen mit Spareinrichtung, das eine
 Exportversicherungsagentur benannt hat, muss deren
@@ -1269,6 +1308,7 @@ Exportversicherungsagentur vorhanden ist, anwenden.
 
 
 ##### § 32 Maßgebliche Länderklassifizierungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003400000)
 
 Die maßgebliche Länderklassifizierung einer KSA-Position ist nach § 33
 zu ermitteln. Für eine KSA-Position der KSA-Forderungsklasse Institute
@@ -1282,6 +1322,7 @@ Bonität des Schuldners trifft.
 
 
 ##### § 33 Maßgebliche Länderklassifizierung einer beurteilten KSA-Position
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003500000)
 
 Das Wohnungsunternehmen mit Spareinrichtung hat sämtliche nach § 34
 verwendungsfähigen Länderklassifizierungen der von ihm benannten
@@ -1299,6 +1340,7 @@ maßgeblich, die zum höheren KSA-Risikogewicht führt.
 
 
 ##### § 34 Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003600000)
 
 Für eine KSA-Position der bonitätsbeurteilungsbezogenen
 Forderungskategorie Staaten nach Tabelle 6 der Anlage 1 ist eine
@@ -1320,9 +1362,11 @@ Exportversicherungsagentur jede
 
 
 #### Abschnitt 3 - KSA-Positionswert
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000800000)
 
 
 ##### § 35 KSA-Positionswert
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003700000)
 
 Der KSA-Positionswert einer KSA-Position ist das Produkt aus ihrer
 KSA-Bemessungsgrundlage nach § 36 und ihrem KSA-Konversionsfaktor nach
@@ -1330,6 +1374,7 @@ KSA-Bemessungsgrundlage nach § 36 und ihrem KSA-Konversionsfaktor nach
 
 
 ##### § 36 KSA-Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003800000)
 
 Die KSA-Bemessungsgrundlage für eine KSA-Position ist
 
@@ -1396,6 +1441,7 @@ Linked Note reduziert werden.
 
 
 ##### § 37 Bemessungsgrundlage für derivative Adressenausfallrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE003900000)
 
 Die Bemessungsgrundlage einer derivativen
 Adressenausfallrisikoposition ist anhand des marktbewerteten
@@ -1418,6 +1464,7 @@ von der Laufzeitmethode zur Marktbewertungsmethode übergehen.
 
 
 ##### § 38 Marktbewerteter Wiedereindeckungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004000000)
 
 Der marktbewertete Wiedereindeckungsaufwand ist
 
@@ -1434,12 +1481,14 @@ Der marktbewertete Wiedereindeckungsaufwand ist
 
 
 ##### § 39 Gegenwärtiger potenzieller Wiedereindeckungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004100000)
 
 Der gegenwärtige potenzielle Wiedereindeckungsaufwand ist der höhere
 Wert aus Null und dem aktuellen Marktwert des Derivats.
 
 
 ##### § 40 Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004200000)
 
 (1) Die künftig zu erwartende Erhöhung des gegenwärtigen potenziellen
 Wiedereindeckungsaufwands ist das Produkt aus dem marktbewerteten
@@ -1480,6 +1529,7 @@ Betrag der Prämienzahlungen begrenzt.
 
 
 ##### § 41 Marktbewerteter Anspruch aus einem Derivat
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004300000)
 
 Der marktbewertete Anspruch aus einem Derivat ist bei
 
@@ -1500,6 +1550,7 @@ Der marktbewertete Anspruch aus einem Derivat ist bei
 
 
 ##### § 42 Für den Wiedereindeckungsaufwand maßgebliche Laufzeit
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004400000)
 
 Die für den Wiedereindeckungsaufwand maßgebliche Laufzeit eines
 Geschäfts ist für jedes Geschäft, das eine derivative
@@ -1521,6 +1572,7 @@ Adressenausfallrisikoposition begründet,
 
 
 ##### § 43 Laufzeitbewerteter Wiedereindeckungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004500000)
 
 Der laufzeitbewertete Wiedereindeckungsaufwand für eine derivative
 Adressenausfallrisikoposition ist das Produkt aus dem marktbewerteten
@@ -1530,6 +1582,7 @@ Tabelle 2 der Anlage 1.
 
 
 ##### § 44 KSA-Konversionsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004600000)
 
 (1) Der KSA-Konversionsfaktor beträgt 100 Prozent, soweit in den
 Absätzen 2 und 3 nichts anderes geregelt ist.
@@ -1575,12 +1628,15 @@ beiden KSA-Konversionsfaktoren anzuwenden.
 
 
 #### Abschnitt 4 - Verbriefungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG000900000)
 
 
 ##### Unterabschnitt 1 - Anrechnung von Verbriefungspositionen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001000000)
 
 
 ###### § 45 Anrechnung der risikogewichteten KSA-Positionswerte für Verbriefungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004700000)
 
 Ein Wohnungsunternehmen mit Spareinrichtung, das Originator, Investor
 oder Sponsor einer Verbriefungstransaktion ist, hat für die Gesamtheit
@@ -1594,6 +1650,7 @@ nimmt.
 
 
 ###### § 46 Verbriefungstransaktion
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004800000)
 
 (1) Eine Verbriefungstransaktion liegt vor, wenn
 
@@ -1639,6 +1696,7 @@ zu übertragen.
 
 
 ###### § 47 Verbriefungspositionen, Verbriefungstranchen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE004900000)
 
 (1) Eine Verbriefungsposition ist eine Risikoposition in einer
 Verbriefungstranche. Als Risikopositionen im Sinne des Satzes 1 gelten
@@ -1679,6 +1737,7 @@ Verbriefungstranche ist.
 
 
 ###### § 48 Verbrieftes Portfolio
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005000000)
 
 Ein durch eine Verbriefungstransaktion verbrieftes Portfolio ist die
 Gesamtheit derjenigen Adressenausfallrisikopositionen, deren
@@ -1687,6 +1746,7 @@ werden soll.
 
 
 ###### § 49 Originator, Sponsor, Investor
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005100000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung gilt für eine
 Verbriefungstransaktion als Originator, wenn das verbriefte Portfolio
@@ -1735,6 +1795,7 @@ Sponsor dieser Verbriefungstransaktion ist und
 
 
 ###### § 50 Sonstige Begriffsbestimmungen für Verbriefungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005200000)
 
 (1) Eine Kreditverbesserung ist jede vertragliche Vereinbarung, die
 darauf gerichtet ist, die Kreditqualität des verbrieften Portfolios,
@@ -1774,9 +1835,11 @@ Wohnungsunternehmens mit Spareinrichtung oder von Amts wegen erfolgen.
 
 
 ##### Unterabschnitt 2 - Anforderungen an Wohnungsunternehmen mit Spareinrichtung, die als Originator oder Sponsor von Verbriefungstransaktionen gelten
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001100000)
 
 
 ###### § 51 Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005300000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator
 einer Verbriefungstransaktion gilt, kann aus dieser nur dann eine
@@ -1968,6 +2031,7 @@ risikogewichteten Positionswerte zu berücksichtigen.
 
 
 ###### § 52 Verbot der impliziten Unterstützung von Verbriefungstransaktionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005400000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator
 einer Verbriefungstransaktion gilt, aus der es eine
@@ -2006,15 +2070,18 @@ und dieser implizite Unterstützung leistet.
 
 
 ##### Unterabschnitt 3 - Anrechnung von Verbriefungstransaktionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001200000)
 
 
 ###### § 53 KSA-Bemessungsgrundlage einer Verbriefungsposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005500000)
 
 Die KSA-Bemessungsgrundlage einer Verbriefungsposition entspricht
 ihrer KSA-Bemessungsgrundlage nach § 36.
 
 
 ###### § 54 KSA-Positionswert einer Verbriefungsposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005600000)
 
 (1) Der KSA-Positionswert einer Verbriefungsposition ist das Produkt
 aus ihrer KSA-Bemessungsgrundlage und ihrem KSA-Konversionsfaktor nach
@@ -2025,6 +2092,7 @@ Prozent.
 
 
 ###### § 55 Risikogewichteter KSA-Positionswert einer Verbriefungsposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005700000)
 
 (1) Der risikogewichtete KSA-Positionswert einer Verbriefungsposition
 ist als das Produkt aus ihrem KSA-Positionswert und ihrem KSA-
@@ -2042,6 +2110,7 @@ risikogewichteten KSA-Positionswert aufweist.
 
 
 ###### § 56 KSA-Verbriefungsrisikogewicht für Verbriefungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005800000)
 
 (1) Das KSA-Verbriefungsrisikogewicht für eine Verbriefungsposition
 beträgt 1 250 Prozent.
@@ -2107,6 +2176,7 @@ Verbriefungspositionen berücksichtigt wird.
 
 
 ###### § 57 Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE005900000)
 
 (1) Wohnungsunternehmen mit Spareinrichtung, die für eine KSA-
 Verbriefungstransaktion als Originatoren oder Sponsoren gelten, dürfen
@@ -2133,9 +2203,11 @@ Prozent anzuwenden.
 
 
 ##### Unterabschnitt 4 - Abzugsbeträge für Verbriefungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001300000)
 
 
 ###### § 58 Abzugsbetrag von Verbriefungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006000000)
 
 Eine Verbriefungsposition, deren KSA-Verbriefungsrisikogewicht 1 250
 Prozent beträgt, darf bei der Ermittlung des Gesamtanrechnungsbetrags
@@ -2146,12 +2218,15 @@ Positionswert in Abzug gebracht werden.
 
 
 ## Teil 3 - Operationelle Risiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001400000)
 
 
 ### Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001500000)
 
 
 #### § 59 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006100000)
 
 Ein operationelles Risiko ist die Gefahr von Verlusten, die infolge
 der Unangemessenheit oder des Versagens von internen Verfahren und
@@ -2160,9 +2235,11 @@ Diese Definition schließt Rechtsrisiken ein.
 
 
 ### Kapitel 2 - Basisindikatoransatz
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001600000)
 
 
 #### § 60 Berechnung des Anrechnungsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006200000)
 
 (1) Der Anrechnungsbetrag für operationelle Risiken beträgt 15 Prozent
 des Dreijahresdurchschnitts des relevanten Indikators.
@@ -2181,6 +2258,7 @@ positiven Jahreswerte.
 
 
 #### § 61 Definition des relevanten Indikators
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006300000)
 
 (1) Wohnungsunternehmen mit Spareinrichtung können bei der Berechnung
 des relevanten Indikators ausschließlich die jeweiligen Positionen der
@@ -2216,12 +2294,15 @@ Spareinrichtung der mit befreiender Wirkung erstellte Jahresabschluss.
 
 
 ## Teil 4 - Marktrisiken
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001700000)
 
 
 ### Kapitel 1 - Währungsgesamtposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001800000)
 
 
 #### § 62 Ermittlung und Anrechnung der Währungsgesamtposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006400000)
 
 (1) Die Währungsgesamtposition ist täglich bei Geschäftsschluss aus
 den in die Währung der Rechnungslegung umgerechneten
@@ -2305,6 +2386,7 @@ der Berechnung ist nicht zulässig.
 
 
 #### § 63 Aktiv- und Passivpositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006500000)
 
 (1) Aktivpositionen sind
 
@@ -2420,6 +2502,7 @@ Bundesanstalt und der Deutschen Bundesbank anzuzeigen.
 
 
 #### § 64 Berücksichtigung von Optionsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006600000)
 
 (1) Bei der Währungsgesamtposition sind die dem Wohnungsunternehmen
 mit Spareinrichtung aus den einzubeziehenden Optionsgeschäften
@@ -2455,9 +2538,11 @@ geboten erscheint.
 
 
 ### Kapitel 2 - Rohwarenposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG001900000)
 
 
 #### § 65 Ermittlung und Anrechnung der Rohwarenposition
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006700000)
 
 (1) Die Rohwarenposition ist täglich bei Geschäftsschluss aus den
 Unterschiedsbeträgen aus den mit den Kassamarktpreisen der Rohwaren
@@ -2541,6 +2626,7 @@ in Höhe von 3 Prozent der Summe nach Satz 1 hinzuzurechnen.
 
 
 #### § 66 Zeitfächermethode
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006800000)
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung darf nach dauerhafter
 Wahl den Anrechnungsbetrag für die Rohwarenposition aus den
@@ -2584,9 +2670,11 @@ Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen.
 
 
 ### Kapitel 3 - Andere Marktrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG002000000)
 
 
 #### § 67 Ermittlung und Anrechnung der anderen Marktrisikopositionen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE006900000)
 
 (1) Für die Ermittlung der Anrechnungsbeträge aus anderen
 Marktrisikopositionen sind alle zum Geschäftsschluss des aktuellen
@@ -2672,9 +2760,11 @@ einzubeziehen.
 
 
 ## Teil 5 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNG002100000)
 
 
 ### § 68 Übergangsbestimmungen für die Eigenkapitalausstattung und -berechnung
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE007000000)
 
 Bis zum 31. Dezember 2015 darf ein Wohnungsunternehmen mit
 Spareinrichtung ein KSA-Risikogewicht von 0 Prozent im Sinne des § 17
@@ -2686,11 +2776,13 @@ geschuldet und refinanziert wird.
 
 
 ### § 69 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE007100000)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE007200000)
 
 (Fundstelle: BGBl. I 2013, 4260 - 4261)
 
@@ -2998,6 +3090,7 @@ Tabelle 7 ****
 (zu § 5 Absatz 1)
 
 ### Anlage 2 Anforderungen an die Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/wusolvv/BJNR423800013.html#BJNR423800013BJNE007300000)
 
 (Fundstelle: BGBl. I 2013, 4262 - 4263)
 

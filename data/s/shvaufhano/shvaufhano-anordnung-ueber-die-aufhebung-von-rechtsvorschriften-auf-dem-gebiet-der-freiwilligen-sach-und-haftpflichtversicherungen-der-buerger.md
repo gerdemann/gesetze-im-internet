@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000100314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000200314)
 
 (1) Die bestehenden Verträge zu freiwilligen Sach- und
 Haftpflichtversicherungen der Bürger werden auf der Grundlage der
@@ -50,6 +52,7 @@ tatsächliche Wert der Tiere.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000300314)
 
 Der Versicherungsnehmer und der Versicherer können den
 Versicherungsvertrag zum Ende des Beitragszeitraumes schriftlich
@@ -60,6 +63,7 @@ Beitragszeitraumes ohne Einhaltung einer Kündigungsfrist möglich.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000400314)
 
 Änderungen der Tarife finden auf die zu diesem Zeitpunkt bestehenden
 Versicherungsverhältnisse von Beginn des nächsten Beitragszeitraumes
@@ -70,11 +74,13 @@ die Beitragserhöhung wirksam wird.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000500314)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/shvaufhano/DDNR012700990.html#DDNR012700990BJNE000600314)
 
 **Geschäftsführender Minister der Finanzen**
 

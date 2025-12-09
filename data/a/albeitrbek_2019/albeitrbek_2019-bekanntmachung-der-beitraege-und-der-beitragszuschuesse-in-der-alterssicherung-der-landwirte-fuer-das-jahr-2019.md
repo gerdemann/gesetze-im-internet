@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2019/BJNR203100018.html#BJNR203100018BJNE000100000)
 
 Auf Grund des § 33 Absatz 1 und der §§ 68, 114 und 120 des Gesetzes
 über die Alterssicherung der Landwirte, von denen § 33 Absatz 1 und §
@@ -246,6 +247,7 @@ wird bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/albeitrbek_2019/BJNR203100018.html#BJNR203100018BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

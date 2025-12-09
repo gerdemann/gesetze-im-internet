@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -34,17 +35,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000200000)
 
 Der Ausbildungsberuf Servicekraft für Schutz und Sicherheit wird nach
 § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -115,6 +119,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -136,6 +141,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -180,6 +186,7 @@ Vorgaben:
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000700000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -425,6 +432,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000800000)
 
 Die erfolgreich abgeschlossene Berufsausbildung im Ausbildungsberuf
 „Servicekraft für Schutz und Sicherheit“ kann im Ausbildungsberuf
@@ -433,12 +441,14 @@ dritte Ausbildungsjahr fortgesetzt werden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 3)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/schsiservausbv/BJNR094000008.html#BJNR094000008BJNE001100000)
 
 (Fundstelle: BGBl. I 2008, 943 - 946)
 

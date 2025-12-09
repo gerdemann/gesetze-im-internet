@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000100319)
 
 Auf Grund des § 105d der Gewerbeordnung in Verbindung mit Artikel 129
 Abs. 1 des Grundgesetzes wird mit Zustimmung des Bundesrates für die
@@ -28,6 +29,7 @@ Papierindustrie verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000201308)
 
 (1) In der Papierindustrie dürfen Arbeitnehmer an Sonn- und Feiertagen
 mit Ausnahme der Weihnachts-, Oster- und Pfingstfeiertage und des 1.
@@ -90,6 +92,7 @@ werden können:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000301308)
 
 (1) Die Beschäftigung nach § 1 ist an einem Sonn- oder Feiertag in
 einem Betrieb nur gestattet, wenn die in § 10 Abs. 1 Nr. 14 des
@@ -118,12 +121,14 @@ nicht vorgenommen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000400319)
 
 Arbeitnehmer dürfen nach § 1 nur unter den in §§ 4 bis 9 vorgesehenen
 Bedingungen beschäftigt werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000500319)
 
 (1) Den an Sonn- und Feiertagen beschäftigten Arbeitnehmern ist an
 mindestens 26 Sonntagen im Jahr eine ununterbrochene Ruhezeit von
@@ -140,6 +145,7 @@ Pfingstfeiertagen eine ununterbrochene Ruhezeit von jeweils mindestens
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000600319)
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von
 acht Stunden nicht überschreiten.
@@ -150,6 +156,7 @@ oder in der vorhergehenden Woche zu gewähren.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000700319)
 
 Auf Grund eines Tarifvertrags oder, soweit eine solche Regelung nicht
 besteht, auf Grund einer Betriebsvereinbarung kann
@@ -170,11 +177,13 @@ b)  die in § 5 Abs. 1 vorgeschriebene Dauer der Arbeitszeit an Sonntagen
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000801304)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE000900319)
 
 (1) Wer Arbeitnehmer nach § 1 beschäftigt, hat ein Verzeichnis zu
 führen, in dem für jeden dieser Arbeitnehmer zu vermerken sind
@@ -197,6 +206,7 @@ für das Verzeichnis vorschreiben.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE001000319)
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser
 Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen
@@ -204,11 +214,13 @@ oder auszuhängen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE001101308)
 
 -
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE001201308)
 
 (1) Diese Verordnung tritt einen Monat nach ihrer Verkündung in Kraft.
 
@@ -218,6 +230,7 @@ oder auszuhängen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sonntrpapindausnv/BJNR004910963.html#BJNR004910963BJNE001300319)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

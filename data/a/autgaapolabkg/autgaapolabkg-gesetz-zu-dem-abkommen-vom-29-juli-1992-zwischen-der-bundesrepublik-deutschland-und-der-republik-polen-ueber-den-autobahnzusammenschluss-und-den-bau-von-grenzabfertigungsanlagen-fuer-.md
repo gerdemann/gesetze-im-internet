@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/autgaapolabkg/BJNR006720994.html#BJNR006720994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/autgaapolabkg/BJNR006720994.html#BJNR006720994BJNE000200307)
 
 Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über den
@@ -36,6 +38,7 @@ und das Protokoll werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/autgaapolabkg/BJNR006720994.html#BJNR006720994BJNE000300307)
 
 (1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze
 findet deutsches Umsatzsteuerrecht Anwendung.
@@ -49,6 +52,7 @@ Bestimmungen sind mit Wirkung vom 1. August 1992 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/autgaapolabkg/BJNR006720994.html#BJNR006720994BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

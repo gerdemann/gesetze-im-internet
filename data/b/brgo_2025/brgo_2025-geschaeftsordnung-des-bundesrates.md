@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt Geschäftsordnung 1102-1 v. 1.7.1966 I 437 (BRGO 1966)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000100000)
 
 Der Bundesrat hat gemäß Artikel 52 Absatz 3 Satz 2 des Grundgesetzes
 durch Beschluss in seiner 1054. Sitzung am 23. Mai 2025 seine
@@ -28,9 +29,11 @@ folgt neu gefasst:
 
 
 ## I. Allgemeine Bestimmungen - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000100000)
 
 
 ### § 1 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000300000)
 
 Die Regierungen der Länder teilen der Präsidentin oder dem Präsidenten
 des Bundesrates die Namen der Mitglieder des Bundesrates, den
@@ -40,6 +43,7 @@ Mitgliedschaft mit.
 
 
 ### § 2 Inkompatibilität
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000400000)
 
 Die Mitglieder des Bundesrates dürfen nicht gleichzeitig dem Bundestag
 angehören. Wird ein Mitglied des Bundesrates in den Bundestag gewählt,
@@ -48,12 +52,14 @@ angemessener Frist mitteilen, welches der beiden Ämter es niederlegt.
 
 
 ### § 3 Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000500000)
 
 Das Geschäftsjahr des Bundesrates beginnt am 1. November eines jeden
 Jahres und endet am 31. Oktober des folgenden Jahres.
 
 
 ### § 4 Ausweise, Fahrkarten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000600000)
 
 (1) Jedes Mitglied erhält vom Bundesrat einen Ausweis über seine
 Eigenschaft als Bundesratsmitglied. Die Mitglieder des Bundesrates
@@ -64,9 +70,11 @@ Mitgliedschaft zurückzugeben.
 
 
 ## II. Organe und Einrichtungen des Bundesrates - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000200000)
 
 
 ### § 5 Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentinnen oder der Vizepräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000700000)
 
 (1) Der Bundesrat wählt ohne Aussprache für ein Jahr aus seinen
 Mitgliedern eine Präsidentin oder einen Präsidenten und zwei
@@ -87,6 +95,7 @@ innerhalb von vier Wochen eine Nachwahl stattfinden.
 
 
 ### § 6 Stellung der Präsidentin oder des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000800000)
 
 (1) Die Präsidentin oder der Präsident vertritt die Bundesrepublik
 Deutschland in allen Angelegenheiten des Bundesrates. Sie oder er ist
@@ -107,6 +116,7 @@ Grundstücke aus.
 
 
 ### § 7 Stellung der Vizepräsidentinnen und Vizepräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE000900000)
 
 (1) Die Vizepräsidentinnen oder Vizepräsidenten vertreten die
 Präsidentin oder den Präsidenten im Falle ihrer oder seiner
@@ -122,6 +132,7 @@ ihrer oder seiner Aufgaben.
 
 
 ### § 8 Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001000000)
 
 (1) Die Präsidentin oder der Präsident und die Vizepräsidentinnen oder
 Vizepräsidenten bilden das Präsidium.
@@ -147,6 +158,7 @@ Stimmverhältnis enthalten.
 
 
 ### § 9 Ständiger Beirat
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001100000)
 
 (1) Beim Präsidium besteht ein Ständiger Beirat. Ihm gehören die
 Bevollmächtigten der Länder an. Er tritt in der Regel einmal
@@ -187,6 +199,7 @@ den Vorsitz, das ihm ohne Unterbrechung am längsten angehört.
 
 
 ### § 10 Schriftführung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001200000)
 
 (1) Der Bundesrat wählt aus seinen Mitgliedern für jedes Geschäftsjahr
 zwei Schriftführerinnen oder Schriftführer.
@@ -200,6 +213,7 @@ oder zum Schriftführer.
 
 
 ### § 11 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001300000)
 
 (1) Der Bundesrat bildet ständige Ausschüsse. Er kann für besondere
 Angelegenheiten weitere Ausschüsse einsetzen.
@@ -221,6 +235,7 @@ Vermittlungsausschusses mit.
 
 
 ### § 12 Wahl der Vorsitzenden der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001400000)
 
 (1) Der Bundesrat wählt für jedes Geschäftsjahr die Vorsitzenden der
 Ausschüsse aus deren Mitgliedern. Die Ausschüsse sollen vor der Wahl
@@ -239,6 +254,7 @@ werden.
 
 
 ### § 13 Vertreterinnen und Vertreter des Bundesrates in anderen Organen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001500000)
 
 Bestellt der Bundesrat Mitglieder von Organen einer juristischen
 Person des öffentlichen oder des privaten Rechts, von Beiräten einer
@@ -248,6 +264,7 @@ verlangen, dass diese Mitglieder über ihre Tätigkeit berichten.
 
 
 ### § 14 Sekretariat
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001600000)
 
 (1) Beim Bundesrat besteht ein Sekretariat, dem alle Bediensteten des
 Bundesrates angehören.
@@ -261,12 +278,15 @@ oder seiner Amtsgeschäfte.
 
 
 ## III. Die Sitzungen des Bundesrates - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000300000)
 
 
 ### 1. Vorbereitung der Sitzungen - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000400000)
 
 
 #### § 15 Einberufung und Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001700000)
 
 (1) Die Präsidentin oder der Präsident hat den Bundesrat unverzüglich
 einzuberufen, wenn mindestens zwei Länder oder die Bundesregierung es
@@ -288,15 +308,18 @@ Veröffentlichung auf der Internetseite des Bundesrates bekanntgegeben.
 
 
 #### § 16 Anwesenheitsliste
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001800000)
 
 Für jede Sitzung des Bundesrates wird eine Anwesenheitsliste
 ausgelegt, in die sich die Teilnehmenden der Sitzung eintragen.
 
 
 ### 2. Allgemeine Verfahrensgrundsätze - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000500000)
 
 
 #### § 17 Ausschluss der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE001900000)
 
 (1) Über den Ausschluss der Öffentlichkeit für einen
 Beratungsgegenstand wird in nicht öffentlicher Sitzung beraten und
@@ -308,6 +331,7 @@ soweit der Bundesrat nichts anderes beschließt.
 
 
 #### § 18 Teilnahme an den Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002000000)
 
 (1) An den Verhandlungen des Bundesrates können auch die
 Berichterstatterinnen und Berichterstatter des Vermittlungsausschusses
@@ -321,6 +345,7 @@ können Beauftragte der Länder und des Bundes zugezogen werden.
 
 
 #### § 19 Fragerecht
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002100000)
 
 (1) Jedes Mitglied des Bundesrates kann in der Sitzung zu den
 Gegenständen der Tagesordnung Fragen an die Bundesregierung oder deren
@@ -353,6 +378,7 @@ mitzuteilen.
 
 
 #### § 20 Leitung der Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002200000)
 
 (1) Die Präsidentin oder der Präsident leitet die Sitzungen des
 Bundesrates.
@@ -364,6 +390,7 @@ am längsten angehört und zur Leitung der Sitzung bereit ist.
 
 
 #### § 21 Beteiligung der Präsidentin oder des Präsidenten an den Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002300000)
 
 Beabsichtigt die Präsidentin oder der Präsident, sich als Rednerin
 oder Redner an den Verhandlungen zu beteiligen, so gibt sie oder er
@@ -371,6 +398,7 @@ für diese Zeit die Leitung der Sitzung ab.
 
 
 #### § 22 Ordnungsbefugnis der Präsidentin oder des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002400000)
 
 (1) Sitzungsteilnehmende, die nicht Mitglieder des Bundesrates sind,
 und Zuhörerinnen und Zuhörer unterstehen der Ordnungsbefugnis der
@@ -384,6 +412,7 @@ räumen lassen.
 
 
 #### § 22a Dauer der Rede
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002500000)
 
 (1) Sofern der Bundesrat nichts anderes beschließt, beträgt die
 Regelredezeit für Rednerinnen und Redner je Beratungsgegenstand fünf
@@ -396,6 +425,7 @@ nahelegt.
 
 
 #### § 22b Sachruf
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002600000)
 
 Die Präsidentin oder der Präsident kann eine Rednerin oder einen
 Redner, die oder der vom Beratungsgegenstand abschweift, zur Sache
@@ -403,6 +433,7 @@ verweisen.
 
 
 #### § 22c Ordnungsruf
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002700000)
 
 (1) Die Präsidentin oder der Präsident kann ein Mitglied des
 Bundesrates, das die Ordnung oder die Würde des Bundesrates verletzt,
@@ -414,6 +445,7 @@ Redebeiträgen nicht zum Gegenstand von Erörterungen gemacht werden.
 
 
 #### § 22d Entziehung des Wortes
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002800000)
 
 (1) Überschreitet ein Mitglied des Bundesrates die maximal
 festgesetzte Redezeit, so kann ihm die Präsidentin oder der Präsident
@@ -435,6 +467,7 @@ nicht aufgenommen.
 
 
 #### § 22e Ausschluss von Mitgliedern des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE002900000)
 
 (1) Wegen einer schwerwiegenden Verletzung der Ordnung oder der Würde
 des Bundesrates kann die Präsidentin oder der Präsident, auch ohne
@@ -470,6 +503,7 @@ teilnehmen.
 
 
 #### § 22f Einspruch gegen Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003000000)
 
 Gegen den Sachruf nach § 22b, den Ordnungsruf nach § 22c sowie den
 Sitzungsausschluss nach § 22e kann das betroffene Mitglied des
@@ -481,6 +515,7 @@ der Mehrheit seiner Stimmen in dieser Sitzung ohne Beratung.
 
 
 #### § 22g Unterbrechung der Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003100000)
 
 Wenn im Bundesrat störende Unruhe entsteht, kann die Präsidentin oder
 der Präsident die Sitzung unterbrechen. Kann sich die Präsidentin oder
@@ -490,9 +525,11 @@ eine halbe Stunde unterbrochen.
 
 
 ### 3. Der Geschäftsgang im Bundesrat - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000600000)
 
 
 #### § 23 Feststellung und Durchführung der Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003200000)
 
 (1) Die Präsidentin oder der Präsident gibt zu Beginn der Sitzung
 Änderungen in der Zusammensetzung des Bundesrates bekannt.
@@ -524,17 +561,20 @@ nicht verhandelt und beschlossen werden, wenn ein Land widerspricht.
 
 
 #### § 24 Redebeiträge
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003300000)
 
 Die Redebeiträge sind grundsätzlich in freiem Vortrag vom Redepult aus
 zu halten. Es können Aufzeichnungen benutzt werden.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003400000)
 
 (weggefallen)
 
 
 #### § 26 Anträge und Empfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003500000)
 
 (1) Jedes Land hat das Recht, im Bundesrat Anträge zu stellen.
 
@@ -548,6 +588,7 @@ Begründung mit vorzulegen.
 
 
 #### § 27 Anzahl der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003600000)
 
 Die Anzahl der Stimmen, die dem Land nach Artikel 51 Absatz 2 des
 Grundgesetzes zusteht, bemisst sich nach den Ergebnissen der amtlichen
@@ -556,6 +597,7 @@ amtlichen Volkszählung vorliegen.
 
 
 #### § 28 Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003700000)
 
 (1) Der Bundesrat ist beschlussfähig, wenn die Mehrheit seiner Stimmen
 vertreten ist.
@@ -570,6 +612,7 @@ betroffene Land stimmberechtigt.
 
 
 #### § 29 Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003800000)
 
 (1) Abgestimmt wird durch Handaufheben. Auf Verlangen eines Landes
 wird durch Aufruf der Länder abgestimmt. Die Länder werden in
@@ -590,6 +633,7 @@ zurückgestellt werden, wenn mindestens zwei Länder es verlangen.
 
 
 #### § 30 Abstimmungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE003900000)
 
 (1) Im Gesetzgebungsverfahren nach den Artikeln 76 bis 78 des
 Grundgesetzes sind die Abstimmungsfragen so zu fassen, dass sich aus
@@ -638,6 +682,7 @@ Ausschüsse entsprechend.
 
 
 #### § 31 Verfahren bei Beschlüssen nach Artikel 77 Absatz 2 Satz 1 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004000000)
 
 Im Verfahren nach Artikel 77 Absatz 2 Satz 1 des Grundgesetzes stellt
 die Präsidentin oder der Präsident, sofern über mehrere
@@ -652,6 +697,7 @@ lassen, wenn ein Land es verlangt.
 
 
 #### § 32 Wirksamwerden der Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004100000)
 
 Die Beschlüsse des Bundesrates werden mit dem Ende der Sitzung
 wirksam. Über Gegenstände, deren Behandlung abgeschlossen ist, darf
@@ -660,6 +706,7 @@ widerspricht.
 
 
 #### § 33 Teilnahme an den Verhandlungen des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004200000)
 
 Der Bundesrat kann seine Mitglieder beauftragen, seine Beschlüsse im
 Bundestag und in dessen Ausschüssen zu vertreten. Die Ausschüsse
@@ -667,6 +714,7 @@ können Vorschläge hierzu machen.
 
 
 #### § 34 Sitzungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004300000)
 
 (1) Über die Sitzungen des Bundesrates wird ein wörtlicher Bericht
 aufgenommen.
@@ -682,6 +730,7 @@ dem Einspruch nicht statt, so entscheidet der Bundesrat.
 
 
 #### § 35 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004400000)
 
 Bei Vorlagen, die dem Bundesrat lediglich zur Kenntnisnahme zugeleitet
 werden, gelten die Empfehlungen der zuständigen Ausschüsse, der
@@ -692,9 +741,11 @@ Behandlung dieser Vorlage stellt.
 
 
 ## IV. Das Verfahren in den Ausschüssen - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000700000)
 
 
 ### § 36 Zuweisung der Vorlagen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004500000)
 
 (1) Die Präsidentin oder der Präsident weist die Vorlagen den
 zuständigen Ausschüssen zu und bestimmt den federführenden Ausschuss.
@@ -710,6 +761,7 @@ Bundesrates zu setzen.
 
 
 ### § 37 Tagungsort, Öffentlichkeit, Anwesenheitsliste
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004600000)
 
 (1) Die Ausschüsse tagen am Sitz des Bundesrates. Ausnahmen bedürfen
 der vorherigen Zustimmung der Präsidentin oder des Präsidenten. Für
@@ -724,6 +776,7 @@ in die sich die Teilnehmenden der Sitzung eintragen.
 
 
 ### § 37a Zulässigkeit von Ausschusssitzungen als Videokonferenz aus wichtigem Grund
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004700000)
 
 (1) Ausschusssitzungen finden grundsätzlich in Präsenz statt. Aus
 wichtigem Grund kann die Präsidentin oder der Präsident nach Befassung
@@ -738,6 +791,7 @@ entsprechend anzuwenden.
 
 
 ### § 38 Einberufung, Leitung, Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004800000)
 
 (1) Die oder der Vorsitzende beruft den Ausschuss ein. Sie oder er hat
 ihn unverzüglich einzuberufen, wenn mindestens zwei Länder es
@@ -755,6 +809,7 @@ den Zweck der Beratung der einzelnen Gegenstände angeben.
 
 
 ### § 39 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE004900000)
 
 (1) Die Ausschüsse bereiten die Beschlussfassung des Bundesrates vor.
 
@@ -773,6 +828,7 @@ nächsten Sitzung des Bundesrates abgeschlossen haben.
 
 
 ### § 40 Teilnahme und Fragerecht
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005000000)
 
 (1) Mitglieder des Bundesrates und Beauftragte der Landesregierungen
 sowie Mitglieder und Beauftragte der Bundesregierung können an den
@@ -787,6 +843,7 @@ Teilnahme sie für erforderlich halten, anhören.
 
 
 ### § 41 Berichterstattung im Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005100000)
 
 Der Ausschuss bestellt, soweit dies für seine Beratungen erforderlich
 ist, für die einzelnen Beratungsgegenstände Berichterstatterinnen oder
@@ -795,6 +852,7 @@ Ausschuss nichts anderes beschließt.
 
 
 ### § 42 Beschlüsse, Stimmberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005200000)
 
 (1) Die Ausschüsse sind beschlussfähig, wenn mehr als die Hälfte der
 Länder vertreten ist.
@@ -810,6 +868,7 @@ Stimmabgabe intern.
 
 
 ### § 43 Umfrageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005300000)
 
 Hält die oder der Vorsitzende die mündliche Beratung einer Vorlage für
 entbehrlich, so kann die Stellungnahme der Mitglieder des Ausschusses
@@ -819,6 +878,7 @@ einberufen werden kann.
 
 
 ### § 44 Sitzungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005400000)
 
 (1) Über jede Sitzung eines Ausschusses fertigt die Sekretärin oder
 der Sekretär eine Niederschrift. Diese muss mindestens die Namen der
@@ -839,6 +899,7 @@ gemacht werden, soweit der Ausschuss nichts anderes beschließt.
 
 
 ### § 45 Mitteilung der Empfehlungen der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005500000)
 
 Die Sekretärin oder der Sekretär des federführenden Ausschusses stellt
 die Empfehlungen der Ausschüsse zu jeder Vorlage zusammen und leitet
@@ -846,9 +907,11 @@ sie den Vertretungen der Länder zu.
 
 
 ## IVa. Das Verfahren in Angelegenheiten der Europäischen Union - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000800000)
 
 
 ### § 45a Zuweisung von Unterrichtungen über Vorhaben im Rahmen der Europäischen Union an die Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005600000)
 
 (1) Die Präsidentin oder der Präsident wählt aus den Unterrichtungen
 über Vorhaben im Rahmen der Europäischen Union diejenigen aus, welche
@@ -878,6 +941,7 @@ vorzuschlagen.
 
 
 ### § 45b Europakammer
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005700000)
 
 (1) Der Bundesrat bildet eine Europakammer, deren Beschlüsse als
 Beschlüsse des Bundesrates gelten.
@@ -894,6 +958,7 @@ bekanntgegeben.
 
 
 ### § 45c Vorsitzende der Europakammer
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005800000)
 
 (1) Der Bundesrat wählt ohne Aussprache die Vorsitzende oder den
 Vorsitzenden, die erste und die zweite stellvertretende Vorsitzende
@@ -908,6 +973,7 @@ werden.
 
 
 ### § 45d Zuständigkeit der Europakammer
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE005900000)
 
 (1) Die Europakammer ist in Eilfällen oder bei zu wahrender
 Vertraulichkeit nach Zuweisung eines Beratungsgegenstandes zuständig
@@ -951,6 +1017,7 @@ entgegen.
 
 
 ### § 45e Vorbereitung der Sitzungen der Europakammer
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006000000)
 
 (1) Die Sitzungen der Europakammer sollen durch die Ausschüsse
 vorbereitet werden, soweit dies zeitlich möglich ist.
@@ -965,6 +1032,7 @@ erfolgt durch Übermittlung der vorläufigen Tagesordnung.
 
 
 ### § 45f Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006100000)
 
 (1) Die Europakammer verhandelt öffentlich. Die Öffentlichkeit kann
 ausgeschlossen werden. Soweit die Zuständigkeit der Europakammer auf
@@ -977,6 +1045,7 @@ veröffentlicht, soweit die Europakammer nichts anderes beschließt.
 
 
 ### § 45g Teilnahme an den Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006200000)
 
 An den Verhandlungen der Europakammer können auch Mitglieder und
 Beauftragte der Bundesregierung und Beauftragte der Landesregierungen
@@ -985,6 +1054,7 @@ zulässt.
 
 
 ### § 45h Anzahl der Stimmen, Beschlussfähigkeit, Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006300000)
 
 (1) Zur Stimmabgabe in der Europakammer sind die Mitglieder und
 stellvertretenden Mitglieder der Europakammer berechtigt.
@@ -998,6 +1068,7 @@ ihrer Stimmen.
 
 
 ### § 45i Umfrageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006400000)
 
 (1) Hält die oder der Vorsitzende die mündliche Beratung einer EU-
 Vorlage für entbehrlich, kann die Beschlussfassung im Wege der Umfrage
@@ -1011,6 +1082,7 @@ im Umfrageverfahren widersprechen.
 
 
 ### § 45j Sitzungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006500000)
 
 Über die Sitzungen der Europakammer ist eine Niederschrift zu
 fertigen. Diese muss mindestens die Namen der Teilnehmenden, die
@@ -1020,6 +1092,7 @@ Satz 2 bis 4).
 
 
 ### § 45k Anwendung von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006600000)
 
 § 15 Absatz 3 und 4, die §§ 16, 18 Absatz 2, § 19 Absatz 1, die §§ 22,
 22a, 22b, 22c Absatz 1 Satz 1 und Absatz 2, die §§ 22d, 22e Absatz 1
@@ -1031,6 +1104,7 @@ nächsten Sitzung des Bundesrates entschieden wird.
 
 
 ### § 45l Vertreterinnen und Vertreter der Länder
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006700000)
 
 (1) Benennt der Bundesrat Vertreterinnen oder Vertreter zu
 Verhandlungen über Vorhaben im Rahmen der Europäischen Union, so sind
@@ -1051,15 +1125,18 @@ beteiligter Ausschuss dies verlangt.
 
 
 ## V. Schlussbestimmungen - 
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNG000900000)
 
 
 ### § 46 Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006800000)
 
 Mitglieder des Bundesrates und seiner Ausschüsse im Sinne dieser
 Geschäftsordnung sind auch die stellvertretenden Mitglieder.
 
 
 ### § 47 Auslegung der Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE006900000)
 
 (1) Während einer Sitzung entscheidet die Präsidentin oder der
 Präsident Meinungsverschiedenheiten über die Auslegung der
@@ -1070,12 +1147,14 @@ Präsidenten oder eines Landes der Bundesrat.
 
 
 ### § 48 Abweichung von der Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE007000000)
 
 Will der Bundesrat im einzelnen Fall von der Geschäftsordnung
 abweichen, so bedarf es eines einstimmigen Beschlusses.
 
 
 ### § 49 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brgo_2025/BJNR0860A0025.html#BJNR0860A0025BJNE007100000)
 
 Diese Geschäftsordnung tritt am 23. Mai 2025 zu dem Zeitpunkt in
 Kraft, in dem der Beschluss des Bundesrates über diese Fassung der

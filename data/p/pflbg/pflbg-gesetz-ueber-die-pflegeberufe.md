@@ -33,12 +33,15 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000100000)
 
 
 ### Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000200000)
 
 
 #### § 1 Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000201360)
 
 Wer die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“
 führen will, bedarf der Erlaubnis. Personen mit einer Ausbildung nach
@@ -47,6 +50,7 @@ Teil 3 führen die Berufsbezeichnung „Pflegefachfrau“ oder
 
 
 #### § 2 Voraussetzungen für die Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000300000)
 
 Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu
 erteilen, wenn die antragstellende Person
@@ -72,6 +76,7 @@ erteilen, wenn die antragstellende Person
 
 
 #### § 3 Rücknahme, Widerruf und Ruhen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000400000)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei Erteilung der Erlaubnis
 entweder die Voraussetzung nach § 2 Nummer 1 oder die Voraussetzung
@@ -94,9 +99,11 @@ ihre Voraussetzungen nicht mehr vorliegen.
 
 
 ### Abschnitt 2 - Vorbehaltene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000300000)
 
 
 #### § 4 Vorbehaltene Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000501360)
 
 (1) Pflegerische Aufgaben nach Absatz 2 dürfen beruflich nur von
 Personen mit einer Erlaubnis nach § 1 durchgeführt werden. Ruht die
@@ -127,12 +134,15 @@ diese Personen dulden.
 
 
 ## Teil 2 - Berufliche Ausbildung in der Pflege
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000400000)
 
 
 ### Abschnitt 1 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000500000)
 
 
 #### § 5 Ausbildungsziel
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000601360)
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann
 vermittelt die für die selbstständige, umfassende und
@@ -227,6 +237,7 @@ ein berufliches Selbstverständnis entwickelt und gestärkt.
 
 
 #### § 6 Dauer und Struktur der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000702130)
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann dauert
 unabhängig vom Zeitpunkt der staatlichen Abschlussprüfung in
@@ -270,6 +281,7 @@ Zwischenprüfung statt.
 
 
 #### § 7 Durchführung der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000801360)
 
 (1) Die Pflichteinsätze in der allgemeinen Akutpflege in stationären
 Einrichtungen, der allgemeinen Langzeitpflege in stationären
@@ -325,6 +337,7 @@ Absatz 4 eingerichtet werden.
 
 
 #### § 8 Träger der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE000900000)
 
 (1) Der Träger der praktischen Ausbildung trägt die Verantwortung für
 die Durchführung der praktischen Ausbildung einschließlich ihrer
@@ -376,6 +389,7 @@ Fällen des Absatzes 4 die Einrichtung nach den Absätzen 1 und 2.
 
 
 #### § 9 Mindestanforderungen an Pflegeschulen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001001130)
 
 (1) Pflegeschulen müssen folgende Mindestanforderungen erfüllen:
 
@@ -416,6 +430,7 @@ vorliegen muss.
 
 
 #### § 10 Gesamtverantwortung der Pflegeschule
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001101360)
 
 (1) Die Pflegeschule trägt die Gesamtverantwortung für die
 Koordination des Unterrichts mit der praktischen Ausbildung. Sie
@@ -433,6 +448,7 @@ leistenden Praxisbegleitung.
 
 
 #### § 11 Voraussetzungen für den Zugang zur Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001200000)
 
 (1) Voraussetzung für den Zugang zu der Ausbildung zur Pflegefachfrau
 oder zum Pflegefachmann ist
@@ -483,6 +499,7 @@ oder zum Pflegefachmann ist
 
 
 #### § 12 Anrechnung gleichwertiger Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001300000)
 
 (1) Die zuständige Behörde kann auf Antrag eine andere erfolgreich
 abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer
@@ -501,6 +518,7 @@ Satz 1 anzurechnen.
 
 
 #### § 13 Anrechnung von Fehlzeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001400000)
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -540,6 +558,7 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
 #### § 14 Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c oder § 64d des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001502360)
 
 (1) Zur zeitlich befristeten Erprobung von Ausbildungsangeboten, die
 der Weiterentwicklung des nach diesem Gesetz geregelten Berufes im
@@ -588,6 +607,7 @@ Ausbildungsangebots staatlich geprüft.
 
 
 #### § 15 Modellvorhaben zur Weiterentwicklung des Pflegeberufs
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001600000)
 
 (1) Zur zeitlich befristeten Erprobung von Konzepten zur Durchführung
 der schulischen und praktischen Ausbildung können die Länder im
@@ -625,9 +645,11 @@ nach § 6 Absatz 2 als Fernunterricht erteilt werden.
 
 
 ### Abschnitt 2 - Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000600000)
 
 
 #### § 16 Ausbildungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001702130)
 
 (1) Zwischen dem Träger der praktischen Ausbildung und der oder dem
 Auszubildenden ist ein Ausbildungsvertrag nach Maßgabe der
@@ -711,6 +733,7 @@ auch deren gesetzliche Vertreter hinzuweisen.
 
 
 #### § 17 Pflichten der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001802130)
 
 Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten
 Kompetenzen zu erwerben, die erforderlich sind, um das Ausbildungsziel
@@ -739,6 +762,7 @@ zu erreichen. Sie oder er ist insbesondere verpflichtet,
 
 
 #### § 18 Pflichten des Trägers der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE001900000)
 
 (1) Der Träger der praktischen Ausbildung ist verpflichtet,
 
@@ -779,6 +803,7 @@ der Auszubildenden angemessen sein.
 
 
 #### § 19 Ausbildungsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002000000)
 
 (1) Der Träger der praktischen Ausbildung hat der oder dem
 Auszubildenden für die gesamte Dauer der Ausbildung eine angemessene
@@ -801,6 +826,7 @@ zulässig und besonders zu vergüten oder in Freizeit auszugleichen.
 
 
 #### § 20 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002100000)
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit
 beträgt sechs Monate, sofern sich aus tarifvertraglichen Regelungen
@@ -808,6 +834,7 @@ keine andere Dauer ergibt.
 
 
 #### § 21 Ende des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002201130)
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt der
 staatlichen Abschlussprüfung mit Ablauf der Ausbildungszeit.
@@ -821,6 +848,7 @@ Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
 
 #### § 22 Kündigung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002301130)
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem
 Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist
@@ -853,6 +881,7 @@ Beendigung der Lauf dieser Frist gehemmt.
 
 
 #### § 23 Beschäftigung im Anschluss an das Ausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002400000)
 
 Wird die oder der Auszubildende im Anschluss an das
 Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich
@@ -861,6 +890,7 @@ unbestimmte Zeit als begründet.
 
 
 #### § 24 Nichtigkeit von Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002500000)
 
 (1) Eine Vereinbarung, die zu Ungunsten der oder des Auszubildenden
 von den übrigen Vorschriften dieses Abschnitts abweicht, ist nichtig.
@@ -893,6 +923,7 @@ Beendigung ein Arbeitsverhältnis eingeht.
 
 
 #### § 25 Ausschluss der Geltung von Vorschriften dieses Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002600000)
 
 Die §§ 16 bis 24 finden keine Anwendung auf Auszubildende, die
 Diakonissen, Diakonieschwestern oder Mitglieder geistlicher
@@ -900,9 +931,11 @@ Gemeinschaften sind.
 
 
 ### Abschnitt 3 - Finanzierung der beruflichen Ausbildung in der Pflege
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000700000)
 
 
 #### § 26 Grundsätze der Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002701360)
 
 (1) Mit dem Ziel,
 
@@ -977,6 +1010,7 @@ erfolgen.
 
 
 #### § 27 Ausbildungskosten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002802360)
 
 (1) Kosten der Ausbildung sind die Mehrkosten der
 Ausbildungsvergütungen und die Kosten der praktischen Ausbildung
@@ -1002,6 +1036,7 @@ zusätzlichen Ausbildung nach § 14.
 
 
 #### § 28 Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE002900000)
 
 (1) Die Finanzierung der Ausgleichsfonds durch Krankenhäuser und
 ambulante und stationäre Pflegeeinrichtungen erfolgt über landesweite
@@ -1017,6 +1052,7 @@ Sozialgesetzbuch) berücksichtigungsfähig.
 
 
 #### § 29 Ausbildungsbudget, Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003002130)
 
 (1) Die Träger der praktischen Ausbildung und die Pflegeschulen
 erhalten für einen zukünftigen Zeitraum (Finanzierungszeitraum) ein
@@ -1082,6 +1118,7 @@ Vorjahres des jeweiligen Finanzierungszeitraumes abgegeben werden.
 
 
 #### § 30 Pauschalbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003101360)
 
 (1) Die zuständige Behörde des Landes, die
 Landeskrankenhausgesellschaft, die Vereinigungen der Träger der
@@ -1134,6 +1171,7 @@ Schätzung vor.
 
 
 #### § 31 Individualbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003200000)
 
 (1) Werden die Ausbildungsbudgets nach § 29 Absatz 5 Satz 2 und 3
 individuell vereinbart, sind Parteien der Budgetverhandlung
@@ -1190,6 +1228,7 @@ Schätzung vor.
 
 
 #### § 32 Höhe des Finanzierungsbedarfs; Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003301360)
 
 (1) Die zuständige Stelle ermittelt für den jeweiligen
 Finanzierungszeitraum die Höhe des Finanzierungsbedarfs für die
@@ -1219,6 +1258,7 @@ Ausgleichsfonds gesondert ausgewiesen.
 
 
 #### § 33 Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003403130)
 
 (1) Der nach § 32 ermittelte Finanzierungsbedarf wird durch die
 Erhebung von Umlagebeträgen und Zahlungen nach § 26 Absatz 3 nach
@@ -1330,6 +1370,7 @@ zugeleitet.
 
 
 #### § 34 Ausgleichszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003502130)
 
 (1) Die Ausgleichszuweisungen erfolgen an den Träger der praktischen
 Ausbildung und an die Pflegeschule in monatlichen Beiträgen
@@ -1406,6 +1447,7 @@ Bundesministerium für Gesundheit von der Ermächtigung nach § 56 Absatz
 
 
 #### § 35 Rechnungslegung der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003600000)
 
 (1) Nach Ablauf des Finanzierungszeitraumes und nach der Abrechnung
 nach § 34 Absatz 5 und 6 erfolgt eine Rechnungslegung der zuständigen
@@ -1419,6 +1461,7 @@ berücksichtigt.
 
 
 #### § 36 Schiedsstelle; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003700000)
 
 (1) Die Landesverbände der Kranken- und Pflegekassen, die
 Vereinigungen der Träger der ambulanten oder stationären
@@ -1488,9 +1531,11 @@ Klage hat keine aufschiebende Wirkung.
 
 
 ## Teil 3 - Hochschulische Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000800000)
 
 
 ### § 37 Ausbildungsziele
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003801360)
 
 (1) Die primärqualifizierende Pflegeausbildung an Hochschulen befähigt
 zur unmittelbaren Tätigkeit an zu pflegenden Menschen aller
@@ -1582,6 +1627,7 @@ Erreichen des Ausbildungsziels darf hierdurch nicht gefährdet werden.
 
 
 ### § 38 Durchführung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE003902360)
 
 (1) Das Studium dauert mindestens drei Jahre. Es ist ein duales
 Studium und umfasst theoretische und praktische Lehrveranstaltungen an
@@ -1632,6 +1678,7 @@ Sie beachtet die Vorgaben der Richtlinie 2005/36/EG.
 
 
 ### § 38a Träger des praktischen Teils der hochschulischen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007500360)
 
 (1) Der Träger des praktischen Teils der hochschulischen
 Pflegeausbildung übernimmt auf Grundlage des mit der Hochschule
@@ -1670,6 +1717,7 @@ werden.
 
 
 ### § 38b Ausbildungsvertrag zur hochschulischen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007600360)
 
 (1) Zwischen dem Träger des praktischen Teils der hochschulischen
 Pflegeausbildung und der oder dem Studierenden wird ein
@@ -1698,6 +1746,7 @@ der hochschulischen Pflegeausbildung.
 
 
 ### § 39 Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004001360)
 
 (1) Das Studium schließt mit der Verleihung des akademischen Grades
 durch die Hochschule ab. Die Hochschule überprüft das Erreichen der
@@ -1720,6 +1769,7 @@ auch für die zuständige Landesbehörde wahrzunehmen.
 
 
 ### § 39a Finanzierung der hochschulischen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007700360)
 
 (1) Mit dem Ziel,
 
@@ -1767,12 +1817,15 @@ in Verbindung mit § 37 Absatz 5.
 
 
 ## Teil 4 - Anerkennung ausländischer Berufsabschlüsse; Zuständigkeiten; Fachkommission; Statistik und Verordnungsermächtigungen; Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG000900000)
 
 
 ### Abschnitt 1 - Außerhalb des Geltungsbereichs des Gesetzes erworbene Berufsabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001000000)
 
 
 #### § 40 Gleichwertigkeit und Anerkennung von Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004101360)
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb
 eines Mitgliedstaats der Europäischen Union oder eines anderen
@@ -1865,6 +1918,7 @@ wahrgenommen werden.
 
 
 #### § 41 Gleichwertigkeit entsprechender Ausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004201360)
 
 (1) Für Personen, die eine Erlaubnis nach § 1 beantragen, gilt die
 Voraussetzung des § 2 Nummer 1 als erfüllt, wenn aus einem
@@ -2006,6 +2060,7 @@ Gleichstellung ergibt.
 
 
 #### § 42 Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004302130)
 
 (1) Antragstellenden Personen, die die Voraussetzungen nach § 2 Nummer
 2 bis 4 erfüllen und eine Erlaubnis nach § 1 aufgrund der Vorlage
@@ -2150,6 +2205,7 @@ werden.
 
 
 #### § 43 Feststellungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004400000)
 
 Wird die Voraussetzung nach § 2 Nummer 1 auf eine Ausbildung gestützt,
 die außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossen
@@ -2161,9 +2217,11 @@ zu erteilen.
 
 
 ### Abschnitt 2 - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001100000)
 
 
 #### § 44 Dienstleistungserbringende Personen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004502360)
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union,
 eines Vertragsstaates des Abkommens über den Europäischen
@@ -2230,6 +2288,7 @@ Union eine Gleichstellung ergibt.
 
 
 #### § 45 Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004601360)
 
 Dienstleistungserbringende Personen haben beim Erbringen der
 Dienstleistung im Geltungsbereich dieses Gesetzes die gleichen Rechte
@@ -2238,6 +2297,7 @@ Absatz 1 oder Absatz 2.
 
 
 #### § 46 Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004701116)
 
 (1) Wer beabsichtigt, im Sinne des § 44 Absatz 1 oder Absatz 2
 Dienstleistungen zu erbringen, hat dies der zuständigen Behörde vorher
@@ -2322,6 +2382,7 @@ Erbringen der Dienstleistung zu erfolgen.
 
 
 #### § 47 Bescheinigungen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004801360)
 
 Einer oder einem Staatsangehörigen eines Mitgliedstaates der
 Europäischen Union oder eines Vertragsstaates des Abkommens über den
@@ -2354,6 +2415,7 @@ der Europäischen Union eine Gleichstellung ergibt.
 
 
 #### § 48 Verwaltungszusammenarbeit bei Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE004901360)
 
 (1) Wird gegen die Pflichten nach § 45 verstoßen, so hat die
 zuständige Behörde unverzüglich die zuständige Behörde des
@@ -2385,9 +2447,11 @@ anfordernden Behörde Folgendes zu übermitteln:
 
 
 ### Abschnitt 2a - Partielle Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001800360)
 
 
 #### § 48a Erlaubnis zur partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007200360)
 
 (1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
 erteilen, wenn
@@ -2460,6 +2524,7 @@ entsprechend.
 
 
 #### § 48b Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007300360)
 
 (1) Für die Erbringung von vorübergehenden und gelegentlichen
 Dienstleistungen im Sinne von Artikel 57 des Vertrages über die
@@ -2517,15 +2582,18 @@ sowie § 51 gelten entsprechend.
 
 
 ### Abschnitt 3 - Aufgaben und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001200000)
 
 
 #### § 49 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005000000)
 
 Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen
 Behörden.
 
 
 #### § 50 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005100000)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf der
 Pflegefachfrau oder des Pflegefachmanns ausgeübt wird oder zuletzt
@@ -2565,6 +2633,7 @@ Weiterleitung an die Kommission.
 
 
 #### § 51 Vorwarnmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005201360)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -2665,6 +2734,7 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 #### § 52 Weitere Aufgaben der jeweils zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005301360)
 
 (1) Die Entscheidung, ob die Erlaubnis erteilt wird, die
 Berufsbezeichnung nach § 1 oder § 58 Absatz 1 oder Absatz 2 zu führen,
@@ -2706,9 +2776,11 @@ ausübt.
 
 
 ### Abschnitt 4 - Fachkommission, Beratung, Aufbau unterstützender Angebote und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001300000)
 
 
 #### § 53 Fachkommission; Erarbeitung von Rahmenplänen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005400000)
 
 (1) Zur Erarbeitung eines Rahmenlehrplans und eines
 Rahmenausbildungsplans für die Pflegeausbildung nach Teil 2 sowie zur
@@ -2751,6 +2823,7 @@ aus.
 
 
 #### § 54 Beratung; Aufbau unterstützender Angebote und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005502130)
 
 Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der
 Beratung und Information zur Pflegeausbildung nach diesem Gesetz nach
@@ -2763,9 +2836,11 @@ Jugend und des Bundesministeriums für Gesundheit.
 
 
 ### Abschnitt 5 - Statistik und Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001400000)
 
 
 #### § 55 Statistik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005602360)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit werden ermächtigt, für Zwecke
@@ -2800,6 +2875,7 @@ Landesstatistik anzuordnen, bleibt unberührt.
 
 
 #### § 56 Ausbildungs- und Prüfungsverordnung, Finanzierung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005706130)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam
@@ -2969,9 +3045,11 @@ vorsehen.
 
 
 ### Abschnitt 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001500000)
 
 
 #### § 57 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005801360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2998,9 +3076,11 @@ Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
 
 ## Teil 5 - Besondere Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001600000)
 
 
 ### § 58 Führen der Berufsbezeichnungen in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE005900000)
 
 (1) Wer die Berufsbezeichnung „Gesundheits- und
 Kinderkrankenpflegerin“ oder „Gesundheits- und Kinderkrankenpfleger“
@@ -3013,6 +3093,7 @@ führen will, bedarf der Erlaubnis.
 
 
 ### § 59 Gemeinsame Vorschriften; Wahlrecht der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006000000)
 
 (1) Die Regelungen in Teil 2, § 52 Absatz 1 und 2 sowie Teil 4
 Abschnitt 4 gelten entsprechend nach Maßgabe der Absätze 2 bis 5 sowie
@@ -3054,6 +3135,7 @@ nach § 16 entsprechend anzupassen.
 
 
 ### § 60 Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger; Ausbildungsziel und Durchführung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006100000)
 
 (1) Wählt die oder der Auszubildende nach § 59 Absatz 2, eine
 Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum
@@ -3069,6 +3151,7 @@ auszurichten.
 
 
 ### § 61 Ausbildung zur Altenpflegerin oder zum Altenpfleger; Ausbildungsziel und Durchführung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006200000)
 
 (1) Wählt die oder der Auszubildende nach § 59 Absatz 3, eine
 Ausbildung zur Altenpflegerin oder zum Altenpfleger durchzuführen,
@@ -3082,6 +3165,7 @@ ist am Ausbildungsziel des Absatzes 1 auszurichten.
 
 
 ### § 62 Überprüfung der Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006300000)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit ermitteln bis zum 31. Dezember
@@ -3114,9 +3198,11 @@ Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit:
 
 
 ## Teil 6 - Anwendungs- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNG001700000)
 
 
 ### § 63 Nichtanwendbarkeit des Berufsbildungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006401130)
 
 Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz
 mit Ausnahme von § 53 Absatz 5 Satz 1 und § 54 dieses Gesetzes in
@@ -3127,6 +3213,7 @@ Berufsbildungsgesetzes keine Anwendung.
 
 
 ### § 64 Fortgeltung der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006501360)
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem
 Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder
@@ -3137,6 +3224,7 @@ betreffenden Vorschriften sind entsprechend anzuwenden.
 
 
 ### § 64a Anspruch auf die Wahl einer anderen Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007400360)
 
 (1) Wer die Voraussetzungen der Erlaubnis zum Führen der
 Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ erfüllt, kann
@@ -3180,6 +3268,7 @@ Berufsbezeichnung abzuändern.
 
 
 ### § 65 Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006600000)
 
 (1) Schulen, die am 31. Dezember 2019 nach den Vorschriften des
 Krankenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung
@@ -3232,6 +3321,7 @@ werden, die am 31. Dezember 2019
 
 
 ### § 66 Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006700000)
 
 (1) Eine Ausbildung
 
@@ -3277,6 +3367,7 @@ geltenden Fassung.
 
 
 ### § 66a Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007101360)
 
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb
 des Geltungsbereichs dieses Gesetzes und außerhalb eines
@@ -3297,6 +3388,7 @@ Voraussetzungen nach § 41 Absatz 1 erfüllt sind.
 
 
 ### § 66b Übergangsvorschriften und Zahlung einer Vergütung für begonnene hochschulische Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007801130)
 
 (1) Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3
 dieses Gesetzes in der am 31. Dezember 2023 geltenden Fassung begonnen
@@ -3349,6 +3441,7 @@ studierenden Person stattfindet, werden im Finanzierungsverfahren nach
 
 
 ### § 66c Übergangsvorschrift für begonnene hochschulische Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2024 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE007901360)
 
 Eine hochschulische Pflegeausbildung, die auf Grundlage von Teil 3
 dieses Gesetzes in der am 31. Dezember 2024 geltenden Fassung begonnen
@@ -3357,6 +3450,7 @@ abgeschlossen werden.
 
 
 ### § 66d Überleitung von begonnenen hochschulischen Pflegeausbildungen nach Teil 3 dieses Gesetzes in der am 31. Dezember 2023 oder in der am 31. Dezember 2024 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE008000360)
 
 Die Möglichkeit der Überleitung bereits auf Grundlage von Teil 3
 dieses Gesetzes in der am 31. Dezember 2023 oder in der am 31.
@@ -3367,6 +3461,7 @@ unberührt. Das Nähere regeln die Länder.
 
 
 ### § 66e Übergangsvorschrift für Personen, die bereits über eine Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz 2 verfügen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE008100360)
 
 Personen, die bereits über eine Erlaubnis zum Führen der
 Berufsbezeichnung nach § 1 Satz 2 verfügen, können die für eine
@@ -3380,6 +3475,7 @@ Studienangebots staatlich geprüft.
 
 
 ### § 67 Kooperationen von Hochschulen und Pflegeschulen
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006800000)
 
 (1) Bestehende Kooperationen von Hochschulen mit Schulen auf der
 Grundlage von § 4 Absatz 6 des Krankenpflegegesetzes oder mit
@@ -3400,6 +3496,7 @@ nach Teil 3 erforderlich ist.
 
 
 ### § 68 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html#BJNR258110017BJNE006901130)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember

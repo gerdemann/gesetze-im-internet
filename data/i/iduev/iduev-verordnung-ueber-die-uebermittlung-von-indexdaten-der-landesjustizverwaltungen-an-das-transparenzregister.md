@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000100000)
 
 Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni
 2017 (BGBl. I S. 1822) verordnet das Bundesministerium der Finanzen im
@@ -29,6 +30,7 @@ Verbraucherschutz:
 
 
 ## § 1 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000201311)
 
 (1) Die Landesjustizverwaltungen übermitteln dem Transparenzregister
 folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts-,
@@ -75,6 +77,7 @@ Indexdaten bereitstellen, sind auch diese dem Transparenzregister zu
 
 
 ## § 2 Übermittlungen von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- und Vereinsregister
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000301311)
 
 Die Landesjustizverwaltungen übermitteln dem Transparenzregister
 folgende Indexdaten zu Bekanntmachungen aus dem Handels-,
@@ -110,6 +113,7 @@ Genossenschafts-, Gesellschafts- und Partnerschaftsregister:
 
 
 ## § 3 Art der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000400000)
 
 (1) Die Indexdaten sind in einem zwischen dem Betreiber des
 Transparenzregisters und den Landesjustizverwaltungen vereinbarten
@@ -123,6 +127,7 @@ Datenfernübertragung.
 
 
 ## § 4 Form der Indexdaten
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000500000)
 
 Die Landesjustizverwaltungen stellen sicher, dass die übermittelten
 Indexdaten ohne Aufbereitung oder Veränderung den Zugang zu den
@@ -132,6 +137,7 @@ Geldwäschegesetzes im Transparenzregister ermöglichen.
 
 
 ## § 5 Änderung und Aktualisierung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000601311)
 
 (1) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten
 zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und
@@ -149,6 +155,7 @@ beeinträchtigt wird.
 
 
 ## § 6 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000700000)
 
 (1) Kommt es während einer Datenübermittlung zu Störungen oder
 Unterbrechungen, soll dies der übermittelnden Stelle angezeigt und
@@ -160,17 +167,20 @@ Sicherheitskonzept für das Transparenzregister.
 
 
 ## § 7 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000800000)
 
 § 1 Absatz 2, auch in Verbindung mit § 2 Satz 2 und § 5 Absatz 1 Satz
 2, ist erst ab dem 26. Juni 2018 anzuwenden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/id_v/BJNR237200017.html#BJNR237200017BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

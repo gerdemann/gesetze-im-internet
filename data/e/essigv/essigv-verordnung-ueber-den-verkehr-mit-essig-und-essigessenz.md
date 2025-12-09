@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000204130)
 
 (1) Essig im Sinne dieser Verordnung ist das Erzeugnis, das in 100
 Millilitern mindestens 5 Gramm und höchstens 15,5 Gramm Säure,
@@ -57,6 +58,7 @@ Vorschriften dieser Verordnung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000402130)
 
 Essig, der in 100 Millilitern mehr als 11 Gramm Säure, berechnet als
 wasserfreie Essigsäure, enthält, und Essigessenz dürfen nur in
@@ -69,10 +71,12 @@ mit dem Hinweis „Vorsicht! Nicht unverdünnt genießen!“ versehen sein.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000501130)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000602130)
 
 (1) Essig darf nur in den Verkehr gebracht werden, wenn er wie folgt
 gekennzeichnet ist:
@@ -122,6 +126,7 @@ Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000804125)
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Satz 1 oder §
@@ -133,9 +138,11 @@ Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE000901130)
 
 
 
 ## § 7 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/essigv/BJNR007320972.html#BJNR007320972BJNE001102130)
 
 

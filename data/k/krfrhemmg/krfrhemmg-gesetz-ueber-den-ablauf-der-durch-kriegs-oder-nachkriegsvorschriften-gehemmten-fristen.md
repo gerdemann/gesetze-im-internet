@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000100303)
 
 (1) Die bürgerlich-rechtlichen Ansprüche, deren Verjährung durch
 deutsche Kriegs- oder Nachkriegsvorschriften gehemmt war und beim
@@ -35,6 +36,7 @@ Stelle der sechs Monate.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000200303)
 
 (1) Hält der Berechtigte oder der Verpflichtete sich infolge von
 Kriegsereignissen oder -zuständen unfreiwillig außerhalb des Gebietes
@@ -61,6 +63,7 @@ bezeichnete Ereignis folgt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000300303)
 
 (1) Für Zahlungsansprüche aus dem zwischenstaatlichen Geld- oder
 Kapitalverkehr gilt § 1 mit der Maßgabe, daß an die Stelle des Ablaufs
@@ -78,6 +81,7 @@ Inland erworben hat.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000400303)
 
 (1) Die Vorschriften der §§ 1, 2 über die Vollendung der Verjährung
 von Ansprüchen gelten entsprechend für den Ablauf von
@@ -111,11 +115,13 @@ ab, vor dessen Beginn das Erfordernis der Sondergenehmigung wegfällt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000500303)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/krfrhemmg/BJNR008210950.html#BJNR008210950BJNE000600303)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000100312)
 
 Auf Grund des § 58 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes vom
 21\. März 1961 (Bundesgesetzbl. I S. 241), zuletzt geändert durch das
@@ -30,6 +31,7 @@ verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000201314)
 
 (1) Die Allgemeinen Beförderungsbedingungen gelten für die Beförderung
 im Straßenbahn- und Obusverkehr sowie im Linienverkehr mit
@@ -42,6 +44,7 @@ Beförderungsbedingungen).
 
 
 ## § 2 Anspruch auf Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000300312)
 
 Anspruch auf Beförderung besteht, soweit nach den Vorschriften des
 Personenbeförderungsgesetzes und den auf Grund dieses Gesetzes
@@ -50,6 +53,7 @@ Sachen werden nur nach Maßgabe der §§ 11 und 12 befördert.
 
 
 ## § 3 Von der Beförderung ausgeschlossene Personen
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000401307)
 
 (1) Personen, die eine Gefahr für die Sicherheit oder Ordnung des
 Betriebs oder für die Fahrgäste darstellen, sind von der Beförderung
@@ -77,6 +81,7 @@ bleiben unberührt.
 
 
 ## § 4 Verhalten der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000504140)
 
 (1) Fahrgäste haben sich bei Benutzung der Betriebsanlagen und
 Fahrzeuge so zu verhalten, wie es die Sicherheit und Ordnung des
@@ -151,6 +156,7 @@ gegen die Untersagung nach Absatz 2 Nr. 3 oder Nr. 7 verstoßen wird.
 
 
 ## § 5 Zuweisen von Wagen und Plätzen
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000600312)
 
 (1) Das Betriebspersonal kann Fahrgäste auf bestimmte Wagen verweisen,
 wenn dies aus betrieblichen Gründen oder zur Erfüllung der
@@ -164,6 +170,7 @@ Kindern freizugeben.
 
 
 ## § 6 Beförderungsentgelte, Fahrausweise
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000700312)
 
 (1) Für die Beförderung sind die festgesetzten Beförderungsentgelte zu
 entrichten.
@@ -196,6 +203,7 @@ Beanstandungen werden nicht berücksichtigt.
 
 
 ## § 7 Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000802119)
 
 (1) Das Fahrgeld soll abgezählt bereitgehalten werden. Das
 Fahrpersonal ist nicht verpflichtet, Geldbeträge über 5 Euro zu
@@ -219,6 +227,7 @@ auf andere Weise ein Fahrausweiserwerb angeboten wird.
 
 
 ## § 8 Ungültige Fahrausweise
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE000900312)
 
 (1) Fahrausweise, die entgegen den Vorschriften der
 Beförderungsbedingungen oder des Beförderungstarifs benutzt werden,
@@ -261,6 +270,7 @@ Antrag oder Personenausweis auf Verlangen nicht vorgezeigt wird.
 
 
 ## § 9 Erhöhtes Beförderungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001004305)
 
 (1) Ein Fahrgast ist zur Zahlung eines erhöhten Beförderungsentgelts
 verpflichtet, wenn er
@@ -305,6 +315,7 @@ Ansprüche des Unternehmers unberührt.
 
 
 ## § 10 Erstattung von Beförderungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001102308)
 
 (1) Wird ein Fahrausweis nicht zur Fahrt benutzt, so wird das
 Beförderungsentgelt auf Antrag gegen Vorlage des Fahrausweises
@@ -349,6 +360,7 @@ Satz 2 Nr. 2, kein Anspruch auf Erstattung des entrichteten Entgelts.
 
 
 ## § 11 Beförderung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001200312)
 
 (1) Ein Anspruch auf Beförderung von Sachen besteht nicht. Handgepäck
 und sonstige Sachen werden bei gleichzeitiger Mitfahrt des Fahrgasts
@@ -388,6 +400,7 @@ sind.
 
 
 ## § 12 Beförderung von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001300312)
 
 (1) Auf die Beförderung von Tieren ist § 11 Abs. 1, 4 und 5
 anzuwenden.
@@ -406,6 +419,7 @@ werden.
 
 
 ## § 13 Fundsachen
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001400312)
 
 Fundsachen sind gemäß § 978 BGB unverzüglich dem Betriebspersonal
 abzuliefern. Eine Fundsache wird an den Verlierer durch das Fundbüro
@@ -417,6 +431,7 @@ bestätigen.
 
 
 ## § 14 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001501308)
 
 Der Unternehmer haftet für die Tötung oder Verletzung eines Fahrgasts
 und für Schäden an Sachen, die der Fahrgast an sich trägt oder mit
@@ -428,11 +443,13 @@ zurückzuführen sind.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001601308)
 
 (weggefallen)
 
 
 ## § 16 Ausschluß von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001700312)
 
 Abweichungen von Fahrplänen durch Verkehrsbehinderungen,
 Betriebsstörungen oder -unterbrechungen sowie Platzmangel begründen
@@ -441,17 +458,20 @@ Einhalten von Anschlüssen übernommen.
 
 
 ## § 17 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE001800312)
 
 Der Gerichtsstand für alle Streitigkeiten, die sich aus dem
 Beförderungsvertrag ergeben, ist der Sitz des Unternehmers.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE002002307)
 
 Diese Verordnung tritt 6 Monate nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/befbedv/BJNR002300970.html#BJNR002300970BJNE002100312)
 
 Der Bundesminister für Verkehr
 

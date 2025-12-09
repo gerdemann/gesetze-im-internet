@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Wahl der Schwerbehindertenvertretung in Betrieben und Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000103308)
 
 
 
 ### Erster Abschnitt - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000202308)
 
 
 
 #### § 1 Bestellung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001004119)
 
 (1) Spätestens acht Wochen vor Ablauf ihrer Amtszeit bestellt die
 Schwerbehindertenvertretung einen Wahlvorstand aus drei volljährigen
@@ -49,6 +52,7 @@ unberührt.
 
 
 #### § 2 Aufgaben des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001103308)
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er
 kann volljährige in dem Betrieb oder der Dienststelle Beschäftigte als
@@ -85,6 +89,7 @@ notwendigen Unterlagen zur Verfügung.
 
 
 #### § 3 Liste der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001202308)
 
 (1) Der Wahlvorstand stellt eine Liste der Wahlberechtigten auf. Die
 Wahlberechtigten sollen mit Familienname, Vorname, erforderlichenfalls
@@ -97,6 +102,7 @@ an geeigneter Stelle zur Einsicht auszulegen.
 
 
 #### § 4 Einspruch gegen die Liste der Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001302308)
 
 (1) Wer wahlberechtigt oder in dem Betrieb oder der Dienststelle
 beschäftigt ist und ein berechtigtes Interesse an einer
@@ -122,6 +128,7 @@ der Stimmabgabe berichtigt oder ergänzt werden.
 
 
 #### § 5 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001403308)
 
 (1) Spätestens sechs Wochen vor dem Wahltage erläßt der Wahlvorstand
 ein Wahlausschreiben, das von dem oder der Vorsitzenden und mindestens
@@ -212,6 +219,7 @@ in gut lesbarem Zustand zu erhalten.
 
 
 #### § 6 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001503308)
 
 (1) Die Wahlberechtigten können innerhalb von zwei Wochen seit Erlaß
 des Wahlausschreibens schriftliche Vorschläge beim Wahlvorstand
@@ -252,6 +260,7 @@ fristgerecht ab, zählt seine Unterschrift auf keinem Wahlvorschlag.
 
 
 #### § 7 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001603308)
 
 (1) Ist nach Ablauf der in § 6 Abs. 1 genannten Frist kein gültiger
 Wahlvorschlag für die Wahl der Schwerbehindertenvertretung
@@ -274,6 +283,7 @@ stellvertretenden Mitglieder entspricht.
 
 
 #### § 8 Bekanntmachung der Bewerber und Bewerberinnen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001703308)
 
 Der Wahlvorstand macht spätestens eine Woche vor Beginn der
 Stimmabgabe die Namen der Bewerber und Bewerberinnen aus gültigen
@@ -284,10 +294,12 @@ gleicher Weise bekannt wie das Wahlausschreiben.
 
 
 ### Zweiter Abschnitt - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000302308)
 
 
 
 #### § 9 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001803308)
 
 (1) Wer wahlberechtigt ist, kann seine Stimme nur für eine Person
 abgeben, die rechtswirksam als Bewerber oder Bewerberin vorgeschlagen
@@ -320,6 +332,7 @@ Wählerin nicht zweifelsfrei ergibt, sind ungültig.
 
 
 #### § 10 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE001902308)
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen für die unbeobachtete
 Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die
@@ -360,6 +373,7 @@ wird.
 
 
 #### § 11 Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002003308)
 
 (1) Der Wahlvorstand übergibt oder übersendet den Wahlberechtigten,
 die an der persönlichen Stimmabgabe verhindert sind, auf deren
@@ -417,6 +431,7 @@ andere Person verrichten lassen.
 
 
 #### § 12 Behandlung der schriftlich abgegebenen Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002102308)
 
 (1) Unmittelbar vor Abschluß der Wahl öffnet der Wahlvorstand in
 öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
@@ -434,6 +449,7 @@ angefochten ist.
 
 
 #### § 13 Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002203308)
 
 (1) Unverzüglich nach Abschluß der Wahl nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor und stellt das Ergebnis
@@ -460,6 +476,7 @@ Namen der gewählten Bewerber und Bewerberinnen enthalten.
 
 
 #### § 14 Benachrichtigung der Gewählten und Annahme der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002303308)
 
 (1) Der Wahlvorstand benachrichtigt die für das Amt der
 Schwerbehindertenvertretung oder als stellvertretendes Mitglied
@@ -478,6 +495,7 @@ nachrückt.
 
 
 #### § 15 Bekanntmachung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002403308)
 
 Sobald die Namen der Personen, die das Amt der
 Schwerbehindertenvertretung oder des stellvertretenden Mitglieds
@@ -488,6 +506,7 @@ dem Betriebs- oder Personalrat mitzuteilen.
 
 
 #### § 16 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002503308)
 
 Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen
 und Stimmzettel, werden von der Schwerbehindertenvertretung mindestens
@@ -495,6 +514,7 @@ bis zur Beendigung der Wahlperiode aufbewahrt.
 
 
 #### § 17 Nachwahl des stellvertretenden Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003502308)
 
 Scheidet das einzige stellvertretende Mitglied aus oder ist ein
 stellvertretendes Mitglied noch nicht gewählt, bestellt die
@@ -505,10 +525,12 @@ einzuleiten. Im übrigen gelten die §§ 1 bis 16 entsprechend.
 
 
 ### Dritter Abschnitt - Vereinfachtes Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000403308)
 
 
 
 #### § 18 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002603308)
 
 Besteht der Betrieb oder die Dienststelle nicht aus räumlich weiter
 auseinanderliegenden Teilen und sind dort weniger als fünfzig
@@ -518,6 +540,7 @@ Vorschriften zu wählen.
 
 
 #### § 19 Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002703308)
 
 (1) Spätestens drei Wochen vor Ablauf ihrer Amtszeit lädt die
 Schwerbehindertenvertretung die Wahlberechtigten durch Aushang oder
@@ -530,6 +553,7 @@ Integrationsamt zur Wahlversammlung einladen.
 
 
 #### § 20 Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002804126)
 
 (1) Die Wahlversammlung wird von einer Person geleitet, die mit
 einfacher Stimmenmehrheit gewählt wird (Wahlleitung). Die
@@ -572,6 +596,7 @@ gilt § 11 entsprechend.
 
 
 #### § 21 Nachwahl des stellvertretenden Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003602308)
 
 Scheidet das einzige stellvertretende Mitglied aus oder ist ein
 stellvertretendes Mitglied noch nicht gewählt, lädt die
@@ -581,10 +606,12 @@ Mitglieder ein. Im übrigen gelten die §§ 18 bis 20 entsprechend.
 
 
 ## Zweiter Teil - Wahl der Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung in Betrieben und Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000504308)
 
 
 
 ### § 22 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE002905119)
 
 (1) Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
 werden durch schriftliche Stimmabgabe gewählt (§§ 11, 12). Im übrigen
@@ -609,10 +636,12 @@ werden. § 20 findet entsprechende Anwendung.
 
 
 ## Dritter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Staatsanwälte und Staatsanwältinnen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000802308)
 
 
 
 ### § 23 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003703119)
 
 Für die Wahl der Schwerbehindertenvertretung, der Bezirks- und
 Hauptschwerbehindertenvertretung der schwerbehinderten Staatsanwälte
@@ -622,10 +651,12 @@ Zweiten Teils entsprechend.
 
 
 ## Vierter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000603308)
 
 
 
 ### § 24 Vorbereitung der Wahl der Schwerbehindertenvertretung der Richter und Richterinnen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003004119)
 
 (1) Spätestens acht Wochen vor Ablauf ihrer Amtszeit lädt die
 Schwerbehindertenvertretung der schwerbehinderten Richter und
@@ -659,6 +690,7 @@ unberührt.
 
 
 ### § 25 Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003103308)
 
 (1) Die Wahlversammlung beschließt unter dem Vorsitz des oder der
 lebensältesten Wahlberechtigten das Wahlverfahren und die Anzahl der
@@ -670,6 +702,7 @@ ihrer Wahl zu benachrichtigen. § 14 Abs. 1 Satz 2 und Abs. 2 sowie die
 
 
 ### § 26 Nachwahl des stellvertretenden Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003802308)
 
 Scheidet das einzige stellvertretende Mitglied vorzeitig aus dem Amt
 aus oder ist ein stellvertretendes Mitglied noch nicht gewählt, lädt
@@ -680,6 +713,7 @@ Im übrigen gelten die §§ 24 und 25 entsprechend.
 
 
 ### § 27 Wahl der Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003203308)
 
 Für die Wahl der Bezirks- und Hauptschwerbehindertenvertretung der
 schwerbehinderten Richter und Richterinnen gelten die §§ 24 bis 26
@@ -687,14 +721,17 @@ entsprechend.
 
 
 ## Fünfter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNG000703308)
 
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003306126)
 
 
 
 ### § 29 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/schwbwo/BJNR019650975.html#BJNR019650975BJNE003403308)
 
 -
 

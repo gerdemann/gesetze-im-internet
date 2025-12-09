@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000100000)
 
 Auf Grund des § 13 Abs. 2 in Verbindung mit § 50 Abs. 1 Nr. 2 und § 50
 Abs. 2 des Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## § 1 Vorschlagsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000203116)
 
 (1) Die Unabkömmlichstellung von Wehrpflichtigen oder
 Dienstleistungspflichtigen im Spannungs- oder Verteidigungsfall können
@@ -114,6 +116,7 @@ soll, seinen oder ihren Sitz hat.
 
 
 ## § 2 Gutachtliche Stellungnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000301116)
 
 (1) Wer, ohne selbst vorschlagsberechtigt zu sein, als Dienstherr,
 Arbeitgeber oder Arbeitgeberin die Unabkömmlichstellung von
@@ -193,6 +196,7 @@ Arbeit.
 
 
 ## § 3 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000401310)
 
 (1) Vorschläge zur Unabkömmlichstellung können eingereicht werden,
 wenn die Bundesregierung den Bereitschaftsdienst angeordnet hat oder
@@ -233,11 +237,13 @@ schriftlich mitzuteilen.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000501310)
 
 -
 
 
 ## § 5 Widerruf der Unabkömmlichstellung
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000600000)
 
 (1) Die Unabkömmlichstellung ist bei Wegfall ihrer Voraussetzungen
 schriftlich zu widerrufen.
@@ -261,6 +267,7 @@ vorschlagsberechtigte Behörde gehört werden.
 
 
 ## § 6 Ausgleich von Meinungsverschiedenheiten
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000701310)
 
 (1) Lehnt die Wehrersatzbehörde eine Unabkömmlichstellung ab oder
 widerruft sie diese nach § 5, kann die vorschlagsberechtigte Behörde
@@ -294,11 +301,13 @@ seinen Sitz hat.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ukv_2005/BJNR253800005.html#BJNR253800005BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

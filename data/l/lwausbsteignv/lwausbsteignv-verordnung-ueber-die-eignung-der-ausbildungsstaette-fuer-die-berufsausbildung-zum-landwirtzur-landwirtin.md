@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwausbsteignv/BJNR017900995.html#BJNR017900995BJNE000100000)
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -36,6 +37,7 @@ Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
+[Direktlink](https://www.gesetze-im-internet.de/lwausbsteignv/BJNR017900995.html#BJNR017900995BJNE000201360)
 
 (1) Die Ausbildungsstätte muß ein landwirtschaftlicher Betrieb sein,
 der nach seiner Einrichtung, seinem Bewirtschaftungszustand und dem
@@ -80,6 +82,7 @@ ist.
 
 
 ## § 2 Mindestanforderung an die Größe
+[Direktlink](https://www.gesetze-im-internet.de/lwausbsteignv/BJNR017900995.html#BJNR017900995BJNE000300000)
 
 Die Ausbildungsstätte soll ein hauptberuflich bewirtschafteter Betrieb
 sein und mindestens das Vierfache der Mindestgröße nach § 1 Abs. 2 des
@@ -88,6 +91,7 @@ Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994
 
 
 ## § 3 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lwausbsteignv/BJNR017900995.html#BJNR017900995BJNE000400000)
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
 in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
@@ -97,6 +101,7 @@ Ausbildungsstätte durchgeführt werden kann.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwausbsteignv/BJNR017900995.html#BJNR017900995BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

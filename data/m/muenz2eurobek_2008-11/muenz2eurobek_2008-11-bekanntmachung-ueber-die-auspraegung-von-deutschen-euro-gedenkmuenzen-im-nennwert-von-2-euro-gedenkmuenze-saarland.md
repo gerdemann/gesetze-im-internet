@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2008-11/BJNR234100008.html#BJNR234100008BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
@@ -43,11 +44,13 @@ Friedrich Brenner aus Diedorf.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2008-11/BJNR234100008.html#BJNR234100008BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2008-11/BJNR234100008.html#BJNR234100008BJNE000300000)
 
 (Fundstelle: BGBl. I 2008, 2341)
 

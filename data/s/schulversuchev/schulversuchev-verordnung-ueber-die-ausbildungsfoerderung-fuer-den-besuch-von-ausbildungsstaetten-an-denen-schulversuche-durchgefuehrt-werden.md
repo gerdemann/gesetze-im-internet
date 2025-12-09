@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schulversuchev/BJNR008340979.html#BJNR008340979BJNE000100319)
 
 Auf Grund des § 2 Abs. 3 Nr. 2 des Bundesausbildungsförderungsgesetzes
 in der Fassung der Bekanntmachung vom 9. April 1976 (BGBl. I S. 989)
@@ -28,6 +29,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/schulversuchev/BJNR008340979.html#BJNR008340979BJNE000200319)
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz
 wird geleistet für den Besuch
@@ -53,6 +55,7 @@ wird.
 
 
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/schulversuchev/BJNR008340979.html#BJNR008340979BJNE000301307)
 
 (1) Die Auszubildenden an den in § 1 Nr. 1 bezeichneten
 Ausbildungsstätten erhalten Ausbildungsförderung
@@ -94,6 +97,7 @@ Ausbildungsstätten erhalten Ausbildungsförderung
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/schulversuchev/BJNR008340979.html#BJNR008340979BJNE000400319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
@@ -101,6 +105,7 @@ Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schulversuchev/BJNR008340979.html#BJNR008340979BJNE000500319)
 
 Diese Verordnung tritt am 1. August 1979 in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordeng_5bek_2009/BJNR104500009.html#BJNR104500009BJNE000100000)
 
 
 1.  Die nach § 5 des Gesetzes über Titel, Orden und Ehrenzeichen
@@ -55,6 +56,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordeng_5bek_2009/BJNR104500009.html#BJNR104500009BJNE000200000)
 
 Der Bundespräsident
 

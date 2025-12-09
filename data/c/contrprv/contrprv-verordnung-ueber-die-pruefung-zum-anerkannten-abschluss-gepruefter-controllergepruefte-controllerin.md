@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in
@@ -34,6 +35,7 @@ und Technologie:
 
 
 ## § 1 Ziel der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Controller/zur Geprüften Controllerin nach den §§ 2 bis 8
@@ -77,6 +79,7 @@ können:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -115,6 +118,7 @@ Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000401128)
 
 (1) Die Prüfung umfasst folgende Handlungsbereiche:
 
@@ -199,6 +203,7 @@ Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 4 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000500000)
 
 (1) Im Handlungsbereich "Kostenrechnung und Kostenmanagement" soll
 nachgewiesen werden, die kostentheoretischen Grundlagen beherrschen
@@ -326,6 +331,7 @@ nachgewiesen werden, fachliche Führungs- und Organisationsaufgaben
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -339,6 +345,7 @@ Absatz 4 bis 7 ist nicht zulässig.
 
 
 ## § 6 Bewerten von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -353,6 +360,7 @@ bewerten.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE001300128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -404,6 +412,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE001400128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -430,6 +439,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000801128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -448,6 +458,7 @@ Projektarbeit wiederholt werden.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE000901128)
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2009 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -459,12 +470,14 @@ Dezember 2009 beantragt werden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE001001128)
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE001102128)
 
 (Fundstelle: BGBl. I 2019, 2280 – 2281)
 
@@ -766,6 +779,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/contrprv/BJNR157900006.html#BJNR157900006BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2282)
 

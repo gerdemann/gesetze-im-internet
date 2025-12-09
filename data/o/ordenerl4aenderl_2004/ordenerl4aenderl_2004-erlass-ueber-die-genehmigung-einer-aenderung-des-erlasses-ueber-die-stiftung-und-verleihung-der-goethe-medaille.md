@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl4_nderl_2004/BJNR046700004.html#BJNR046700004BJNE000100000)
 
 Das Präsidium des Goethe-Instituts e. V. hat am 19. November 2003 das
 Statut und die Ausführungsbestimmungen zum Statut für die Verleihung
@@ -32,6 +33,7 @@ S. 1857) genehmige ich diese Änderung.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl4_nderl_2004/BJNR046700004.html#BJNR046700004BJNE000200000)
 
 Der Bundespräsident
 

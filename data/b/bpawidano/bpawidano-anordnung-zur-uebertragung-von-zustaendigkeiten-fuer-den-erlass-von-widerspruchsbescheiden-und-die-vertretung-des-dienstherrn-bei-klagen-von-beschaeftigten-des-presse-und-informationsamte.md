@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpawidano/BJNR036300003.html#BJNR036300003BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 des Beamtenrechtsrahmengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) in Verbindung
@@ -31,6 +32,7 @@ Gegenstand des Widerspruches ist, selbst getroffen hat.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpawidano/BJNR036300003.html#BJNR036300003BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich die
@@ -40,6 +42,7 @@ Widerspruch befugt war.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpawidano/BJNR036300003.html#BJNR036300003BJNE000300000)
 
 Diese Anordnung tritt am Tage ihrer Veröffentlichung in Kraft. Sie ist
 nicht anzuwenden auf Widersprüche bzw. Klagen, die vor ihrem
@@ -47,6 +50,7 @@ Inkrafttreten eingelegt bzw. erhoben worden sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bpawidano/BJNR036300003.html#BJNR036300003BJNE000400000)
 
 Der Chef des Presse- und Informationsamtes der Bundesregierung
 

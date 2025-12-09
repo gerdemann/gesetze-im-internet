@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2022-04-06_1/BJNR072300022.html#BJNR072300022BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „50 Jahre
@@ -64,11 +65,13 @@ Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2022-04-06_1/BJNR072300022.html#BJNR072300022BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2022-04-06_1/BJNR072300022.html#BJNR072300022BJNE000300000)
 
 (Fundstelle: BGBl. I 2022, 723)
 

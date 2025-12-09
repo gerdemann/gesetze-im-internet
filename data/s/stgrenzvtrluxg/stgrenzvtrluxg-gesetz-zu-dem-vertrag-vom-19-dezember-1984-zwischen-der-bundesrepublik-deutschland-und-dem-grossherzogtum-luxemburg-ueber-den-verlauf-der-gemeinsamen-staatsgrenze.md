@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrluxg/BJNR204140988.html#BJNR204140988BJNE000100325)
 
 Dem in Luxemburg am 19. Dezember 1984 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über
@@ -33,6 +34,7 @@ Katasteramt Trier zur Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrluxg/BJNR204140988.html#BJNR204140988BJNE000200325)
 
 In den Gebietsteilen, die nach Artikel 2 des Vertrags Hoheitsgebiet
 der Bundesrepublik Deutschland sind, gelten mit dem Zeitpunkt des
@@ -43,6 +45,7 @@ zuvor in Kraft waren.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrluxg/BJNR204140988.html#BJNR204140988BJNE000300325)
 
 (1) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes
 werden ermächtigt, zum Zwecke der Ausführung des Vertrags durch
@@ -69,12 +72,14 @@ können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrluxg/BJNR204140988.html#BJNR204140988BJNE000400325)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtrluxg/BJNR204140988.html#BJNR204140988BJNE000500325)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

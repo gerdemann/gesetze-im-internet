@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/usg2015_9abs1s3bek_2019/BJNR036810019.html#BJNR036810019BJNE000100000)
 
 Nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes vom 29. Juni
 2015 (BGBl. I S. 1061, 1062), der durch Artikel 4 des Gesetzes vom 27.
@@ -27,11 +28,13 @@ gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/usg2015_9abs1s3bek_2019/BJNR036810019.html#BJNR036810019BJNE000200000)
 
 Die Bundesministerin der Verteidigung
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/usg2015_9abs1s3bek_2019/BJNR036810019.html#BJNR036810019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 369 - 370)
 

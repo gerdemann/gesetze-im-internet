@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Öffentliche Aufgabe, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000100303)
 
 (1) Die Sicherstellung einer ausreichenden Bedienung der Bevölkerung
 mit Verkehrsleistungen im öffentlichen Personennahverkehr ist eine
@@ -30,6 +31,7 @@ Landesrecht bestimmt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000201119)
 
 Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die
 allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im
@@ -45,6 +47,7 @@ befriedigt.
 
 
 ## § 3 Regionalisierung
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000300303)
 
 Zur Stärkung der Wirtschaftlichkeit der Verkehrsbedienung im
 öffentlichen Personennahverkehr ist anzustreben, die Zuständigkeiten
@@ -53,6 +56,7 @@ Personennahverkehrs zusammenzuführen. Das Nähere regeln die Länder.
 
 
 ## § 4 Gemeinwirtschaftliche Verkehrsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000401305)
 
 Für die Sicherstellung einer ausreichenden Verkehrsbedienung im
 öffentlichen Personennahverkehr ist die Verordnung (EG) Nr. 1370/2007
@@ -64,6 +68,7 @@ nach Landesrecht bestimmten Stellen.
 
 
 ## § 5 Finanzierung und Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000511119)
 
 (1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem
 Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für
@@ -155,6 +160,7 @@ Jahresbetrag je ein Zwölftel zum 15. Tag eines jeden Monats zu
 
 
 ## § 6 Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000707130)
 
 (1) Mit den Beträgen nach § 5 ist insbesondere der
 Schienenpersonennahverkehr zu finanzieren. Die Mittel dürfen nicht
@@ -170,6 +176,7 @@ der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 
 ## § 7 Unterstützung der Länder beim Ausgleich von finanziellen Nachteilen durch COVID 19
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001303130)
 
 (1) Den Ländern steht im Jahr 2020 für den Ausgleich der durch die
 COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus
@@ -542,6 +549,7 @@ der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
 
 ## § 8 Unterstützung der Länder bei der Umsetzung des Vorhabens 9-Euro-Ticket
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000806130)
 
 (1) Für den Zeitraum Juni bis August 2022 wird ein Tarif angeboten,
 der für ein Entgelt von 9 Euro pro Kalendermonat die Nutzung des
@@ -659,6 +667,7 @@ verfügbaren Mittel zugerechnet werden.
 
 
 ## § 9 Unterstützung der Länder bei der Umsetzung des Vorhabens Deutschlandticket
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001701119)
 
 (1) Die Länder führen ab dem 1. Mai 2023 ein Ticket ein, das zur
 bundesweiten Nutzung des öffentlichen Personennahverkehrs berechtigt
@@ -808,6 +817,7 @@ zugeleitet und veröffentlicht wird.
 (zu § 5 Absatz 4 und 9)
 
 ## Anlage 1 Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001001130)
 
 (Fundstelle: BGBl. I 2016, 2759 — 2760;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1575,6 +1585,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 7, 8 und 9)
 
 ## Anlage 2 Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001101130)
 
 (BGBl. I 2016, 2761 — 2762;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1982,6 +1993,7 @@ Sachsen-Anhalt und Thüringen in absoluten Zahlbeträgen für die Jahre
 (zu § 5 Absatz 11 und 12)
 
 ## Anlage 3 Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001201130)
 
 (Fundstelle: BGBl. I 2020, 446 – 447;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2556,6 +2568,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 13 und 14)
 
 ## Anlage 4 Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2022 bis einschließlich 2031
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001600130)
 
 (Fundstelle: BGBl. I 2022, 2355 - 2356)
 
@@ -3008,6 +3021,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Absatz 2)
 
 ## Anlage 5 Verwendungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE000905119)
 
 (BGBl. I 2016, 2763 – 2764);
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -3584,6 +3598,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 7 Absatz 12)
 
 ## Anlage 6 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1, 4 und 6
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001403130)
 
 (Fundstelle: BGBl. I 2022, 814;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3773,6 +3788,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 8 Absatz 6)
 
 ## Anlage 7 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 8 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001501130)
 
 (Fundstelle: BGBl. I 2022, 815;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3877,6 +3893,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 9 Absatz 6)
 
 ## Anlage 8 Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 9 Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/regg/BJNR239500993.html#BJNR239500993BJNE001801119)
 
 (Fundstelle: BGBl. 2024 I Nr. 441, S. 2)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Umlageverfahren der Träger der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkumsg/BJNR146410002.html#BJNR146410002BJNE000100305)
 
 (1) Belastungen, die sich für die Träger der Krankenversicherung aus
 Erstattungsverzichtsregelungen des über- und zwischenstaatlichen
@@ -42,6 +43,7 @@ Rentner aufgebracht.
 
 
 ## § 2 Umlageverfahren der Träger der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkumsg/BJNR146410002.html#BJNR146410002BJNE000200305)
 
 Aufwendungen oder außergewöhnliche Belastungen, die sich für einen
 Träger der Unfallversicherung des Wohn- oder Aufenthaltsorts aus
@@ -53,6 +55,7 @@ einzelnen Träger der Unfallversicherung zu denen aller Träger.
 
 
 ## § 3 Übertragung der Zuständigkeit für Entsendevereinbarungen auf die Deutsche Verbindungsstelle Krankenversicherung - Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkumsg/BJNR146410002.html#BJNR146410002BJNE000300305)
 
 Die Aufgaben der zuständigen Behörde bzw. der von ihr bestimmten
 Stelle nach

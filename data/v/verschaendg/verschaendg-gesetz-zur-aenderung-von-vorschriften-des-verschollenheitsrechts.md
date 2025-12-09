@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNG000100303)
 
 
 
 ## Art 2 - Sondervorschriften für Verschollenheitsfälle aus Anlaß des Krieges 1939 bis 1945
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNG000200303)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE000501307)
 
 (1) Wer vor dem 1. Juli 1948 im Zusammenhang mit Ereignissen oder
 Zuständen des letzten Krieges vermißt worden und seitdem unter
@@ -72,6 +75,7 @@ gelebt hat, Angehöriger eines fremden Staates oder staatenlos war,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE000600303)
 
 (1) In den Fällen des § 1 sind Ermittlungen über den Zeitpunkt des
 Todes nur auf Antrag anzustellen. Den Antrag kann jede Person stellen,
@@ -94,6 +98,7 @@ gelebt hat.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE000700303)
 
 (1) Ist in den Fällen des § 1 als Zeitpunkt des Todes des
 Verschollenen das Ende des Jahres 1945 rechtskräftig festgestellt
@@ -118,12 +123,14 @@ gelten die Absätze 1 und 2 entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE000800303)
 
 Die §§ 2, 3 sind im Verfahren bei Feststellung der Todeszeit
 entsprechend anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE000903360)
 
 (1) Die öffentlichen Bekanntmachungen sind in den Fällen der §§ 1 bis
 4 statt durch eine Tageszeitung durch ein von dem Bundesministerium
@@ -146,12 +153,14 @@ Beschlusses enthält.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001000303)
 
 In den Fällen der §§ 1, 2 und den entsprechenden Fällen des § 4 werden
 für das Verfahren vor dem Amtsgericht Gerichtskosten nicht erhoben.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001100303)
 
 Lebte der Verschollene außerhalb des Geltungsbereichs dieses Gesetzes
 an seinem letzten inländischen Wohnsitz mit Familienangehörigen in
@@ -162,6 +171,7 @@ ist § 15 Abs. 1 des Verschollenheitsgesetzes nicht anzuwenden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001200303)
 
 In den Fällen des § 1 sind die Vorschriften des
 Verschollenheitsgesetzes anzuwenden, soweit in diesem Artikel nicht
@@ -169,10 +179,12 @@ besondere Bestimmungen getroffen sind.
 
 
 ## Art 3 - Ergänzungen zu den Vorschriften des Eherechts über die Wiederverheiratung im Falle der Todeserklärung
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNG000300303)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001301377)
 
 (1) Geht ein Ehegatte, nachdem der Tod des anderen Ehegatten nach den
 Vorschriften des Verschollenheitsgesetzes gerichtlich festgestellt
@@ -184,19 +196,23 @@ im Falle der Todeserklärung entsprechend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001401377)
 
 (weggefallen)
 
 
 ## (XXXX) §§ 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001500303)
 
 
 
 ## Art 4 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNG000400303)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001600303)
 
 Wird ein Anspruch aus einem Lebensversicherungsvertrag erhoben,
 nachdem die Person, auf welche die Lebensversicherung genommen worden
@@ -208,6 +224,7 @@ Gesetzes festgestellt worden wäre.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001700303)
 
 Soweit eine Vorschrift dieses Gesetzes auf seinen Geltungsbereich
 Bezug nimmt, gilt jedes Gebiet, in dem eine solche Vorschrift
@@ -215,6 +232,7 @@ eingeführt wird, als Geltungsbereich dieses Gesetzes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001801301)
 
 (1)
 
@@ -224,12 +242,14 @@ erlassen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE001900303)
 
 -
 
 Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 953)
+[Direktlink](https://www.gesetze-im-internet.de/versch_ndg/BJNR000599951.html#BJNR000599951BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000100000)
 
 Auf Grund des § 2 Absatz 3 Nummer 2 der Abgabenordnung in der Fassung
 des Artikels 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
@@ -25,6 +26,7 @@ des Artikels 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000200000)
 
 Als Abkommen im Sinne dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und der Russischen Föderation zur
@@ -36,6 +38,7 @@ Fassung.
 
 
 ## § 2 Vergleichbarkeit der Deutschen Forschungsgemeinschaft mit dem Goethe-Institut und dem Deutschen Akademischen Austauschdienst
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000300000)
 
 Die Deutsche Forschungsgemeinschaft ist eine dem Goethe-Institut und
 dem Deutschen Akademischen Austauschdienst vergleichbare Einrichtung
@@ -44,17 +47,20 @@ Artikel 15 des Abkommens.
 
 
 ## § 3 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000400000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte ab dem
 1\. Januar 2021 anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverrusv/BJNR459000021.html#BJNR459000021BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

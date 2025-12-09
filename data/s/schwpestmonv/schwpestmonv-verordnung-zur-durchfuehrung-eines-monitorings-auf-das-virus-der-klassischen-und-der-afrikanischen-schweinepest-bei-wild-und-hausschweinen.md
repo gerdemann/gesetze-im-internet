@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000100000)
 
 Auf Grund des § 10 Absatz 2 des Tiergesundheitsgesetzes vom 22. Mai
 2013 (BGBl. I S. 1324) verordnet das Bundesministerium für Ernährung
@@ -25,6 +26,7 @@ und Landwirtschaft:
 
 
 ## § 1 Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000200000)
 
 (1) Die Länder führen jährlich ein Monitoring zur Früherkennung
 
@@ -95,6 +97,7 @@ jeweiligen Land mindestens zu untersuchenden Proben nach der Anlage.
 
 
 ## § 2 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000300000)
 
 Jagdausübungsberechtigte haben nach näherer Anweisung der zuständigen
 Behörde
@@ -149,6 +152,7 @@ Behörde
 
 
 ## § 3 Mitteilungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000400000)
 
 Die Länder übermitteln dem Bundesministerium für Ernährung und
 Landwirtschaft jährlich bis zum 30. März des Folgejahres die Anzahl
@@ -157,6 +161,7 @@ zurückliegende Kalenderjahr.
 
 
 ## § 4 Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000500000)
 
 Diese Verordnung steht der Befugnis der zuständigen Behörden, nach §
 38 Absatz 11 in Verbindung mit § 10 des Tiergesundheitsgesetzes
@@ -166,17 +171,20 @@ Schweinepest zu treffen, nicht entgegen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 4)
 
 ## Anlage Probenschlüssel für die nach § 1 Absatz 1 Nummer 2 durchzuführenden Untersuchungen auf das Virus der Klassischen Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestmonv/BJNR251800016.html#BJNR251800016BJNE000800000)
 
 (Fundstelle: BGBl. I 2016, 2520)
 

@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 dieser V am 1.10.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzrheinbachv_2017/BJNR362500017.html#BJNR362500017BJNE000100000)
 
 Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I
@@ -32,6 +33,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzrheinbachv_2017/BJNR362500017.html#BJNR362500017BJNE000200000)
 
 Die vom 1. Oktober 2016 bis zum 30. September 2026 vom Staatlichen
 Berufskolleg Glas-Keramik-Gestaltung des Landes Nordrhein-Westfalen in
@@ -104,12 +106,14 @@ nachstehenden Auflistung gleichgestellt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzrheinbachv_2017/BJNR362500017.html#BJNR362500017BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1.
 Oktober 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzrheinbachv_2017/BJNR362500017.html#BJNR362500017BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

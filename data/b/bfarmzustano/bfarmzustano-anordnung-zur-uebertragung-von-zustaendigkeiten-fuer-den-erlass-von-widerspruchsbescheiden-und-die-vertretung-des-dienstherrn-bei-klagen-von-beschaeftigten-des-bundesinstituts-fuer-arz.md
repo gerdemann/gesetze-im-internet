@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bfarmzustano/BJNR147500000.html#BJNR147500000BJNE000100305)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -38,6 +39,7 @@ Anspruches zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bfarmzustano/BJNR147500000.html#BJNR147500000BJNE000200305)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich
@@ -47,6 +49,7 @@ Entscheidung über Widersprüche zuständig ist.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bfarmzustano/BJNR147500000.html#BJNR147500000BJNE000300305)
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 1999 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -55,6 +58,7 @@ sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bfarmzustano/BJNR147500000.html#BJNR147500000BJNE000400305)
 
 Die Bundesministerin für Gesundheit
 

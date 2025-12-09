@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000100305)
 
 Auf Grund
 
@@ -66,6 +67,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000200305)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2000 an 48,58 Deutsche
 Mark.
@@ -75,6 +77,7 @@ Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000300305)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2000 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -88,6 +91,7 @@ Der Anpassungsfaktor beträgt 1,006.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000400305)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2000 an
@@ -106,6 +110,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000500305)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 2000 an 22,43 Deutsche Mark.
@@ -115,6 +120,7 @@ Landwirte beträgt vom 1. Juli 2000 an 19,52 Deutsche Mark.
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000600305)
 
 Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
 dem 30. Juni 2000 ergehen, sind die Angleichungsfaktoren zur
@@ -211,11 +217,13 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000700305)
 
 Diese Verordnung tritt am 1. Juli 2000 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2000/BJNR078800000.html#BJNR078800000BJNE000800305)
 
 Der Bundesrat hat zugestimmt.
 

@@ -52,10 +52,12 @@ Dieses Gesetz dient der Umsetzung
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen über die Börsen und ihre Organe
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000204360)
 
 (1) Dieses Gesetz enthält Regelungen insbesondere zum Betrieb und zur
 Organisation von Börsen, zur Zulassung von Handelsteilnehmern,
@@ -109,6 +111,7 @@ Fassung nichts anderes bestimmt ist.
 
 
 ### § 2 Börsen und weitere Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000303360)
 
 (1) Börsen sind teilrechtsfähige Anstalten des öffentlichen Rechts,
 die nach Maßgabe dieses Gesetzes multilaterale Systeme regeln und
@@ -194,6 +197,7 @@ Namen klagen und verklagt werden.
 
 
 ### § 3 Aufgaben und Befugnisse der Börsenaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000406360)
 
 (1) Die zuständige oberste Landesbehörde (Börsenaufsichtsbehörde) übt
 die Aufsicht über die Börse nach den Vorschriften dieses Gesetzes aus.
@@ -438,6 +442,7 @@ Börsenträgern und Börsen betroffen sind.
 
 
 ### § 3a Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005701360)
 
 (1) Die Börsenaufsichtsbehörde überwacht die Einhaltung der Verbote
 und Gebote der Verordnung (EU) 2015/2365 durch die Börse und den
@@ -476,6 +481,7 @@ oder Börsenträgern untersagen.
 
 
 ### § 3b Meldung von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005802360)
 
 (1) Die Börsenaufsichtsbehörde trifft geeignete Vorkehrungen, um die
 Meldung von möglichen oder tatsächlichen Verstößen gegen dieses Gesetz
@@ -533,6 +539,7 @@ Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
 
 
 ### § 4 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000504360)
 
 (1) Die Errichtung einer Börse bedarf der schriftlichen Erlaubnis der
 Börsenaufsichtsbehörde.
@@ -655,6 +662,7 @@ unverzüglich anzuzeigen. Absatz 2 Satz 3 und 4 gilt entsprechend.
 
 
 ### § 4a Geschäftsleitung des Börsenträgers
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005900123)
 
 (1) Die Geschäftsleiter des Börsenträgers müssen fachlich geeignet und
 zuverlässig sein und der Wahrnehmung ihrer Aufgaben ausreichend Zeit
@@ -699,6 +707,7 @@ widmen.
 
 
 ### § 4b Verwaltungs- oder Aufsichtsorgan des Börsenträgers
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006000123)
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans des
 Börsenträgers müssen zuverlässig sein, die erforderliche Sachkunde zur
@@ -831,6 +840,7 @@ soll er vom Unternehmen angemessene Finanzmittel erhalten.
 
 
 ### § 5 Pflichten des Börsenträgers
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000605360)
 
 (1) Mit Erteilung der Erlaubnis wird der Antragsteller als Träger der
 Börse zu deren Errichtung und Betrieb berechtigt und verpflichtet. Er
@@ -940,6 +950,7 @@ zu berichten.
 
 
 ### § 6 Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000701140)
 
 (1) Wer beabsichtigt, eine bedeutende Beteiligung im Sinne des § 1
 Abs. 9 des Kreditwesengesetzes an dem Träger einer Börse zu erwerben,
@@ -1085,6 +1096,7 @@ Börsenaufsichtsbehörde übertragen.
 
 
 ### § 7 Handelsüberwachungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000803123)
 
 (1) Die Börse hat unter Beachtung von Maßgaben der
 Börsenaufsichtsbehörde eine Handelsüberwachungsstelle als Börsenorgan
@@ -1179,6 +1191,7 @@ wahr.
 
 
 ### § 8 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE000903360)
 
 (1) Die Börsenaufsichtsbehörden und die Bundesanstalt arbeiten eng
 zusammen und tauschen nach Maßgabe des § 10 untereinander alle
@@ -1219,6 +1232,7 @@ Erfüllung ihrer Aufgaben erforderlich sind.
 
 
 ### § 9 Anwendbarkeit kartellrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001000000)
 
 (1) Die Börsenaufsichtsbehörde hat darauf hinzuwirken, dass die
 Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen eingehalten
@@ -1235,6 +1249,7 @@ Ergebnis der Ermittlungen.
 
 
 ### § 10 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007101360)
 
 (1) Die bei der Börsenaufsichtsbehörde oder einer Behörde, der
 Aufgaben und Befugnisse der Börsenaufsichtsbehörde nach § 3 Abs. 7
@@ -1320,6 +1335,7 @@ dieser Stelle beauftragte Personen mitgeteilt worden sind.
 
 
 ### § 11 Untersagung der Preisfeststellung für ausländische Währungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001201301)
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Energie und nach Anhörung der
@@ -1331,6 +1347,7 @@ erwarten lässt.
 
 
 ### § 12 Börsenrat
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001306360)
 
 (1) Jede Börse hat einen Börsenrat zu bilden, der aus höchstens 24
 Personen besteht. Im Börsenrat müssen die zur Teilnahme am
@@ -1413,6 +1430,7 @@ Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
 
 ### § 13 Wahl des Börsenrates
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001402123)
 
 (1) Die Mitglieder des Börsenrates werden für die Dauer von bis zu
 drei Jahren von den in § 12 Absatz 1 Satz 2 bis 4 genannten Gruppen
@@ -1443,11 +1461,13 @@ hinzugewählt wird.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001501310)
 
 -
 
 
 ### § 15 Leitung der Börse
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001602123)
 
 (1) Die Leitung der Börse obliegt der Geschäftsführung in eigener
 Verantwortung. Sie kann aus einer oder mehreren Personen bestehen. Die
@@ -1502,6 +1522,7 @@ Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
 
 ### § 16 Börsenordnung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001702123)
 
 (1) Die Börsenordnung soll sicherstellen, dass die Börse die ihr
 obliegenden Aufgaben erfüllen kann und dabei den Interessen des
@@ -1553,6 +1574,7 @@ gesetzlichen Aufgaben notwendig sind.
 
 
 ### § 17 Gebühren und Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001802123)
 
 (1) Die Gebührenordnung kann die Erhebung von Gebühren und die
 Erstattung von Auslagen vorsehen für
@@ -1618,6 +1640,7 @@ die Marktintegrität wirksam begegnet wird.
 
 
 ### § 18 Sonstige Benutzung von Börseneinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE001900000)
 
 Die Börsenordnung kann für einen anderen als den nach § 16 Abs. 1 Satz
 2 Nr. 1 zu bezeichnenden Geschäftszweig die Benutzung von
@@ -1626,6 +1649,7 @@ in diesem Falle für die Beteiligten nicht.
 
 
 ### § 19 Zulassung zur Börse
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002004360)
 
 (1) Zum Besuch der Börse, zur Teilnahme am Börsenhandel und für
 Personen, die berechtigt sein sollen, für ein zur Teilnahme am
@@ -1774,6 +1798,7 @@ Börse zugelassenen Handelsteilnehmer.
 
 
 ### § 19a Verantwortung des Handelsteilnehmers für Aufträge von mittelbaren Handelsteilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006100123)
 
 Der Handelsteilnehmer ist bei Aufträgen von mittelbaren
 Handelsteilnehmern im Sinne des § 2 Absatz 8 Satz 2, denen er Zugang
@@ -1782,6 +1807,7 @@ Vorschriften verantwortlich.
 
 
 ### § 20 Sicherheitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002100000)
 
 (1) Die Börsenordnung kann bestimmen, dass die zur Teilnahme am
 Börsenhandel zugelassenen Unternehmen und die Skontroführer
@@ -1832,6 +1858,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 21 Externe Abwicklungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002203360)
 
 (1) Wegen der Anbindung von externen Abwicklungssystemen an die
 Systeme der Börse für den Börsenhandel und die
@@ -1852,6 +1879,7 @@ Börsenaufsichtsbehörde bestimmten Unterrichtungsweg zu erfolgen.
 
 
 ### § 22 Sanktionsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002303360)
 
 (1) Die Landesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften über die Errichtung eines Sanktionsausschusses, seine
@@ -1896,6 +1924,7 @@ das Verfahren an den Sanktionsausschuss zurück.
 
 
 ### § 22a Synchronisierung von im Geschäftsverkehr verwendeten Uhren
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006200123)
 
 Börse und Handelsteilnehmer müssen die von ihnen im Geschäftsverkehr
 verwendeten Uhren synchronisieren. Zum Verfahren wird auf die
@@ -1907,6 +1936,7 @@ Genauigkeit von im Geschäftsverkehr verwendeten Uhren (ABl. L 87 vom
 
 
 ### § 22b Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007000360)
 
 (1) Die Börsenaufsichtsbehörde, der Börsenrat, die Geschäftsführung,
 die Handelsüberwachungsstelle und der Sanktionsausschuss sind befugt,
@@ -1975,10 +2005,12 @@ Artikel 15 der Verordnung (EU) 2016/679 nicht.
 
 
 ## Abschnitt 2 - Börsenhandel und Börsenpreisfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000200000)
 
 
 
 ### § 23 Zulassung von Wirtschaftsgütern und Rechten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002400000)
 
 (1) Wirtschaftsgüter und Rechte, die an der Börse gehandelt werden
 sollen und nicht zum Handel im regulierten Markt zugelassen oder in
@@ -2003,6 +2035,7 @@ entsprechend.
 
 
 ### § 24 Börsenpreis
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002502123)
 
 (1) Preise, die während der Börsenzeit an einer Börse festgestellt
 werden, sind Börsenpreise. Satz 1 gilt auch für Preise, die während
@@ -2065,6 +2098,7 @@ kennzeichnen.
 
 
 ### § 25 Aussetzung und Einstellung des Handels
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002602123)
 
 (1) Die Geschäftsführung kann den Handel von Finanzinstrumenten,
 Wirtschaftsgütern oder Rechten
@@ -2103,6 +2137,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 26 Verleitung zu Börsenspekulationsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002700000)
 
 (1) Es ist verboten, gewerbsmäßig andere unter Ausnutzung ihrer
 Unerfahrenheit in Börsenspekulationsgeschäften zu solchen Geschäften
@@ -2127,6 +2162,7 @@ Börsen- oder Marktpreis einen Gewinn zu erzielen.
 
 
 ### § 26a Order-Transaktions-Verhältnis
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005501123)
 
 Die Handelsteilnehmer sind verpflichtet, ein angemessenes Verhältnis
 zwischen ihren Auftragseingaben, -änderungen und -löschungen und den
@@ -2145,6 +2181,7 @@ treffen.
 
 
 ### § 26b Mindestpreisänderungsgröße
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005601123)
 
 Die Börse ist verpflichtet, eine angemessene Größe der
 kleinstmöglichen Preisänderung bei den gehandelten Finanzinstrumenten
@@ -2164,6 +2201,7 @@ Bestimmungen kann die Börsenordnung treffen.
 
 
 ### § 26c Market-Making-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006300123)
 
 (1) Die Börsenordnung muss Bestimmungen enthalten über die Zulassung
 von Wertpapierdienstleistungsunternehmen durch die Geschäftsführung,
@@ -2204,6 +2242,7 @@ verwiesen.
 
 
 ### § 26d Algorithmische Handelssysteme und elektronischer Handel
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006401360)
 
 (1) Die Börse muss sicherstellen, dass algorithmische Handelssysteme
 nicht zu Beeinträchtigungen des ordnungsgemäßen Börsenhandels führen
@@ -2232,6 +2271,7 @@ organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom
 
 
 ### § 26e Informationen über die Ausführungsqualität
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006500123)
 
 Börsen müssen für jedes Finanzinstrument, das an ihnen gehandelt wird,
 mindestens einmal jährlich gebührenfrei Informationen über die
@@ -2250,6 +2290,7 @@ in der jeweils geltenden Fassung, verwiesen.
 
 
 ### § 26f Positionsmanagementkontrollen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006601360)
 
 (1) Eine Börse, an der Warenderivate gehandelt werden, muss Verfahren
 zur Überwachung der Einhaltung der nach § 54 Absatz 1 bis 5 und § 55
@@ -2303,6 +2344,7 @@ Marktaufsichtsbehörde.
 
 
 ### § 26g Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006700123)
 
 Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung
 von Daten in Bezug auf deren Finanzinstrumente verlangen, soweit dies
@@ -2311,10 +2353,12 @@ zur Erfüllung der Anforderungen aus Artikel 25 Absatz 2 der Verordnung
 
 
 ## Abschnitt 3 - Skontroführung und Transparenzanforderungen an Wertpapierbörsen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000300000)
 
 
 
 ### § 27 Zulassung zum Skontroführer
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002800000)
 
 (1) Die Geschäftsführung einer Wertpapierbörse kann unter
 Berücksichtigung des von der Börse genutzten Handelssystems zur
@@ -2355,6 +2399,7 @@ ergriffen hat.
 
 
 ### § 28 Pflichten des Skontroführers
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE002900000)
 
 (1) Der Skontroführer und die skontroführenden Personen haben im
 Rahmen der Aufgaben des Skontroführers auf einen geordneten
@@ -2373,6 +2418,7 @@ Regelungen gleich zu behandeln. Das Nähere regelt die Börsenordnung.
 
 
 ### § 29 Verteilung der Skontren
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003000000)
 
 Über die Verteilung der Skontren unter den für die Skontroführung
 geeigneten Antragstellern nach § 27 Abs. 1 Satz 2 und die Anzahl der
@@ -2384,10 +2430,12 @@ Antragstellers vorsehen.
 
 
 ## Abschnitt 3a - Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000700125)
 
 
 
 ### § 30 Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003102125)
 
 Soweit nach den Abschnitten 1 und 3 die Zuverlässigkeit einer
 natürlichen oder juristischen Person oder einer Personengesellschaft
@@ -2413,13 +2461,16 @@ nicht unter Satz 1 fällt.
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003201123)
 
 
 ## Abschnitt 4 - Zulassung von Wertpapieren zum Börsenhandel
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000400000)
 
 
 
 ### § 32 Zulassungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003306360)
 
 (1) Wertpapiere, die im regulierten Markt an einer Börse gehandelt
 werden sollen, bedürfen der Zulassung oder Einbeziehung durch die
@@ -2485,6 +2536,7 @@ sie ist durch Börsenbekanntmachung zu veröffentlichen.
 
 
 ### § 33 Einbeziehung von Wertpapieren in den regulierten Markt
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003400000)
 
 (1) Wertpapiere können auf Antrag eines Handelsteilnehmers oder von
 Amts wegen durch die Geschäftsführung zum Börsenhandel in den
@@ -2540,6 +2592,7 @@ Einbeziehung gilt § 39 Abs. 1 entsprechend.
 
 
 ### § 34 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003500000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zum Schutz des Publikums und für einen
@@ -2574,6 +2627,7 @@ zu erlassen.
 
 
 ### § 35 Verweigerung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003600000)
 
 (1) Lehnt die Geschäftsführung einen Zulassungsantrag ab, so hat sie
 dies den anderen Börsen, an denen die Wertpapiere des Emittenten
@@ -2594,6 +2648,7 @@ verweigert werden.
 
 
 ### § 36 Zusammenarbeit in der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003701360)
 
 (1) Beantragt ein Emittent mit Sitz in einem anderen Mitgliedstaat der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
@@ -2613,6 +2668,7 @@ Vertragsstaates einzuholen.
 
 
 ### § 37 Staatliche Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003800000)
 
 Schuldverschreibungen des Bundes, seiner Sondervermögen oder eines
 Bundeslandes, auch soweit sie in das Bundesschuldbuch oder in die
@@ -2624,6 +2680,7 @@ inländischen Börse zum Handel im regulierten Markt zugelassen.
 
 
 ### § 38 Einführung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE003900000)
 
 (1) Die Geschäftsführung entscheidet auf Antrag des Emittenten über
 die Aufnahme der Notierung zugelassener Wertpapiere im regulierten
@@ -2647,6 +2704,7 @@ zugelassenen Wertpapiere an der Verlängerung dargetan wird.
 
 
 ### § 39 Widerruf der Zulassung bei Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004003123)
 
 (1) Die Geschäftsführung kann die Zulassung von Wertpapieren zum
 Handel im regulierten Markt außer nach den Vorschriften des
@@ -2746,6 +2804,7 @@ Rechtmäßigkeit des Widerrufs unberührt.
 
 
 ### § 40 Pflichten des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004100000)
 
 (1) Der Emittent zugelassener Aktien ist verpflichtet, für später
 ausgegebene Aktien derselben Gattung die Zulassung zum regulierten
@@ -2758,6 +2817,7 @@ eintritt.
 
 
 ### § 41 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004200000)
 
 (1) Der Emittent der zugelassenen Wertpapiere sowie das Institut oder
 Unternehmen, das die Zulassung der Wertpapiere nach § 32 Abs. 2 Satz 1
@@ -2776,6 +2836,7 @@ Auskünfte selbst veröffentlichen.
 
 
 ### § 42 Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004303360)
 
 (1) Die Börsenordnung kann für Teilbereiche des regulierten Marktes
 ergänzend zu den vom Unternehmen einzureichenden Unterlagen
@@ -2794,6 +2855,7 @@ Maßnahmen der Geschäftsführung nach diesem Absatz entsprechend.
 
 
 ### § 43 Verpflichtung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004400000)
 
 (1) Wird über das Vermögen eines nach diesem Gesetz zu einer Handlung
 Verpflichteten ein Insolvenzverfahren eröffnet, hat der
@@ -2811,10 +2873,12 @@ stellt.
 
 
 ## Abschnitt 4a - Börsenmantelaktiengesellschaft zum Zweck der Börsenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000800360)
 
 
 
 ### § 44 Begriffsbestimmungen, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004502360)
 
 (1) Die Börsenmantelaktiengesellschaft ist eine Gesellschaft zur
 Erreichung der eigenen Börsenzulassung. Gegenstand der Gesellschaft
@@ -2890,6 +2954,7 @@ Mitbestimmung kraft Gesetzes anzuwenden.
 
 
 ### § 45 Einlage; Verwendungsabrede
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007300360)
 
 (1) Die auf die Einlagenverpflichtung sowie auf die Verpflichtung zur
 Zahlung eines Aufgelds der Börsenmantelaktiengesellschaft geleisteten
@@ -2920,6 +2985,7 @@ das von ihm geführte Treuhandkonto zulässig.
 
 
 ### § 46 Zuständigkeit der Hauptversammlung, Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007400360)
 
 (1) Die Entscheidung über die Zieltransaktion bedarf der Zustimmung
 der Hauptversammlung. Bei Zieltransaktionen, die nicht im Wege einer
@@ -2955,6 +3021,7 @@ Grundkapitals. Das Stimmrecht der Initiatoren im Sinne des § 44 Absatz
 
 
 ### § 47 Andienungsrecht der Aktionäre; Zulässigkeit der Einlagenrückgewähr
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007500360)
 
 (1) Aktionäre, die gegen den Beschluss über die Zieltransaktion
 Widerspruch zur Niederschrift erklärt haben, können innerhalb einer
@@ -2976,6 +3043,7 @@ Aktiengesetzes der Rückzahlung einer Einlage entspricht.
 
 
 ### § 47a Aktienoptionen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007600360)
 
 (1) Die Börsenmantelaktiengesellschaft kann selbstständige
 Optionsscheine ausgeben, die auf einen Bezug von Aktien der
@@ -2990,6 +3058,7 @@ Ausübung des Bezugsrechts nicht.
 
 
 ### § 47b Beendigung der Börsenmantelaktiengesellschaft; Auflösung; Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007700360)
 
 (1) Der Ablauf der nach § 44 Absatz 3 bestimmten Frist ist
 Auflösungsgrund im Sinne des § 262 Absatz 1 Nummer 1 des
@@ -3032,10 +3101,12 @@ die Gläubiger bekanntgemacht worden ist.
 
 
 ## Abschnitt 5 - Freiverkehr, KMU-Wachstumsmarkt und organisiertes Handelssystem
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000501123)
 
 
 
 ### § 48 Freiverkehr
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE004903123)
 
 (1) Für Wertpapiere, die weder zum Handel im regulierten Markt
 zugelassen noch zum Handel in den regulierten Markt einbezogen sind,
@@ -3082,6 +3153,7 @@ Nr. 596/2014 erforderlich ist.
 
 
 ### § 48a KMU-Wachstumsmarkt
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006801360)
 
 (1) Der Börsenträger kann einen Freiverkehr bei der
 Börsenaufsichtsbehörde als Wachstumsmarkt für kleine und mittlere
@@ -3157,6 +3229,7 @@ oder erstmalige, laufende oder punktuelle Veröffentlichungspflichten.
 
 
 ### § 48b Organisiertes Handelssystem an einer Börse
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE006900123)
 
 (1) Der Betrieb eines organisierten Handelssystems an einer Börse
 bedarf der schriftlichen Erlaubnis der Börsenaufsichtsbehörde. Der
@@ -3273,10 +3346,12 @@ abgeschlossen wurden.
 
 
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften; Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNG000600000)
 
 
 
 ### § 49 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005000000)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 26 Abs. 1 andere zu
@@ -3285,6 +3360,7 @@ solchen Geschäft verleitet.
 
 
 ### § 50 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005105360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 
@@ -3749,6 +3825,7 @@ sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 9 und
 
 
 ### § 50a Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005404360)
 
 (1) Die Börsenaufsichtsbehörde hat jede unanfechtbar gewordene
 Bußgeldentscheidung nach § 50 Absatz 3 unverzüglich auf ihrer
@@ -3840,6 +3917,7 @@ entsprechend.
 
 
 ### § 51 Geltung für Wechsel und ausländische Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005200000)
 
 (1) Die §§ 24 und 27 bis 29 gelten auch für den Börsenhandel mit
 Wechseln und ausländischen Zahlungsmitteln.
@@ -3849,6 +3927,7 @@ Auszahlungen, Anweisungen und Schecks.
 
 
 ### § 52 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE005303360)
 
 (1) Sind Prospekte, auf Grund derer Wertpapiere zum Börsenhandel mit
 amtlicher Notierung zugelassen worden sind, oder Unternehmensberichte
@@ -3936,6 +4015,7 @@ Gültigkeit hat.
 
 
 ### § 53 Anwendungsbestimmung zum Schwarmfinanzierung-Begleitgesetz
+[Direktlink](https://www.gesetze-im-internet.de/b_rsg_2007/BJNR135100007.html#BJNR135100007BJNE007200360)
 
 § 26e findet bis zum 27. Februar 2023 keine Anwendung.
 

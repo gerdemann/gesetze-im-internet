@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX) Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_6/BJNR0FA0I0025.html#BJNR0FA0I0025BJNE000100000)
 
 Wer Interessenvertretung im Sinne des Lobbyregistergesetzes betreibt
 und nach diesem Gesetz der Registrierungspflicht unterliegt oder sich

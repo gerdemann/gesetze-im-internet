@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Name, Rechtsform und Sitz der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000100000)
 
 Unter dem Namen „Stiftung Orte der deutschen Demokratiegeschichte“
 wird eine bundesunmittelbare rechtsfähige Stiftung des öffentlichen
@@ -25,6 +26,7 @@ mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000200000)
 
 (1) Zweck der Stiftung ist es, die Auseinandersetzung in Gesellschaft,
 Bildungseinrichtungen und Wissenschaft und dadurch des Einzelnen mit
@@ -88,6 +90,7 @@ Abgabenordnung.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000300000)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögengegenstände, die die Bundesrepublik Deutschland
@@ -106,6 +109,7 @@ Erfüllung des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat beschlossen
 wird. Sie bedarf der Genehmigung durch die Rechtsaufsicht. Das Gleiche
@@ -113,6 +117,7 @@ gilt für Änderungen der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -129,6 +134,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000600000)
 
 (1) Der Stiftungsrat besteht aus vierzehn Mitgliedern, die für jeweils
 fünf Jahre entsandt werden, wobei eine wiederholte Entsendung zulässig
@@ -213,6 +219,7 @@ Einzelfall nichts anderes beschließt.
 
 
 ## § 7 Direktorin oder Direktor
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000700000)
 
 (1) Die Direktorin oder der Direktor wird vom Stiftungsrat für die
 Dauer von fünf Jahren berufen. Eine wiederholte Berufung ist möglich.
@@ -235,6 +242,7 @@ Stiftungsrates.
 
 
 ## § 8 Stiftungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000800000)
 
 (1) Der Stiftungsbeirat besteht aus bis zu zwölf Mitgliedern. Sie
 werden vom Stiftungsrat für fünf Jahre berufen. Die einmalige
@@ -257,6 +265,7 @@ Stiftungsrat Empfehlungen zu den eingegangenen Förderanträgen aus.
 
 
 ## § 9 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE000900000)
 
 Die Mitglieder des Stiftungsrates und des Stiftungsbeirates üben ihre
 Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten und
@@ -265,6 +274,7 @@ Bundesverwaltung geltenden Bestimmungen.
 
 
 ## § 10 Unterstützung durch und Kooperation mit Einrichtungen des Bundes, Aufsicht, Haushalt und Rechtsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001000000)
 
 (1) Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch
 Einrichtungen des Bundes unterstützt. Die Stiftung kooperiert
@@ -284,12 +294,14 @@ Prüfung durch eine in der Satzung bestimmte Stelle.
 
 
 ## § 11 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001100000)
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über ihre Tätigkeit und ihre Vorhaben vor.
 
 
 ## § 12 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001200000)
 
 (1) Die Stiftung beschäftigt in der Regel Arbeitnehmerinnen und
 Arbeitnehmer. Auf deren Arbeitsverhältnisse sind die für die
@@ -305,6 +317,7 @@ Bundesbehörde.
 
 
 ## § 13 Freier Eintritt, Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001300000)
 
 (1) Der Zugang zu eigenen Angeboten der „Stiftung Orte der deutschen
 Demokratiegeschichte“ ist frei.
@@ -316,12 +329,14 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 14 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001400000)
 
 Die Stiftung führt als Dienstsiegel das kleine Bundessiegel mit der
 Umschrift „Stiftung Orte der deutschen Demokratiegeschichte“.
 
 
 ## § 15 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/ortedtdgstiftg/BJNR301410021.html#BJNR301410021BJNE001500000)
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der
 Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.

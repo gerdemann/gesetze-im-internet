@@ -99,6 +99,7 @@ des Rates
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000307123)
 
 (1) Diese Verordnung bestimmt die Mindestanforderungen für das
 Einleiten von Abwasser in Gewässer aus den in den Anhängen bestimmten
@@ -121,6 +122,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000407128)
 
 Im Sinne dieser Verordnung ist:
 
@@ -188,6 +190,7 @@ Im Sinne dieser Verordnung ist:
 
 
 ## § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000510118)
 
 (1) Soweit in den Anhängen nichts anderes bestimmt ist, darf Abwasser
 in ein Gewässer nur eingeleitet werden, wenn die Schadstofffracht so
@@ -256,6 +259,7 @@ der Vermischung gestellt, bleiben Absätze 4 und 5 unberührt.
 
 
 ## § 4 Analyse- und Messverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000608118)
 
 (1) Die Anforderungen in den Anhängen beziehen sich auf die Analyse-
 und Messverfahren gemäß der Anlage 1. Die in der Anlage 1 und den
@@ -273,6 +277,7 @@ Verfahren festgesetzt werden.
 
 
 ## § 5 Bezugspunkt der Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000705118)
 
 (1) Die Anforderungen beziehen sich auf die Stelle, an der das
 Abwasser in das Gewässer eingeleitet wird, und, soweit in den Anhängen
@@ -290,6 +295,7 @@ beziehen, für die Einleitungsstelle in das Gewässer.
 
 
 ## § 6 Einhaltung der Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000814119)
 
 (1) Ist ein nach dieser Verordnung einzuhaltender oder in der
 wasserrechtlichen Zulassung festgesetzter Wert nach dem Ergebnis einer
@@ -375,6 +381,7 @@ zuständigen Behörde im Rahmen des Jahresberichtes nach Anlage 2 Nummer
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000908311)
 
 Ordnungswidrig im Sinne des § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe a
 des Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -383,6 +390,7 @@ entgegen § 3 Absatz 1 Satz 1 Abwasser einleitet.
 (zu § 4 Absatz 1 Satz 1 und 2)
 
 ## Anlage 1 Analyse- und Messverfahren
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE000114128)
 
 (Fundstelle: BGBl. I 2018, 1328 - 1337;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1684,6 +1692,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 3 Absatz 1 Satz 2 bis 5)
 
 ## Anlage 2 Inhalt betrieblicher Dokumentationen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE006300123)
 
 (Fundstelle: BGBl. I 2016, 1291 - 1292)
 
@@ -1832,6 +1841,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anhang 1 Häusliches und kommunales Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001009123)
 
 (Fundstelle: BGBl. I 2004, 1118 - 1119;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2183,6 +2193,7 @@ werden.
 [^bjnr05610998bjne001007311_1_BJNR056610997BJNE001009123]: 
 
 ## Anhang 2 Braunkohle-Brikettfabrikation
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001405377)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1119
 
@@ -2254,6 +2265,7 @@ Stunden bestimmt.
 
 
 ## Anhang 3 Herstellung von Nahrungsmitteln und Futtermitteln
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004805128)
 
 (Fundstelle: BGBl. 2024 I Nr. 132, S. 2 - 6)
 
@@ -2782,6 +2794,7 @@ folgende Informationen zu enthalten:
 [^F829790_06_BJNR056610997BJNE004805128]: 
 
 ## Anhang 9 Herstellung von Beschichtungsstoffen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001909128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 2 – 3)
 
@@ -2966,6 +2979,7 @@ und für Reinigungszwecke eingesetzt werden.
 
 
 ## Anhang 10 Schlachtung von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002006128)
 
 (Fundstelle: BGBl. I 2004, 1125 - 1126
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3063,6 +3077,7 @@ BSB
 
 
 ## Anhang 12 Herstellung von Bioethanol
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002209128)
 
 (Fundstelle: BGBl. 2024 I Nr. 132, S. 6 - 8)
 
@@ -3381,6 +3396,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 [^F829790_07_BJNR056610997BJNE002209128]: 
 
 ## Anhang 13 Herstellung von Holzspanplatten, Holzfaserplatten oder Holzfasermatten
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002307119)
 
 (Fundstelle: BGBl. I 2020, 1287 – 1289)
 
@@ -3634,6 +3650,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 
 ## Anhang 15 Herstellung von Hautleim, Gelatine und Knochenleim
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002506377)
 
 (Fundstelle: BGBl. I 2004, 1129)
 
@@ -3719,6 +3736,7 @@ gesamt, mehr als 20 kg je Tag beträgt.
 
 
 ## Anhang 16 Steinkohlenaufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002605377)
 
 (Fundstelle: BGBl. I 2004, 1129 - 1130)
 
@@ -3764,6 +3782,7 @@ Gewässer folgende Anforderungen gestellt:
 
 
 ## Anhang 17 Herstellung keramischer Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004905377)
 
 (Fundstelle: BGBl. I 2004, 1130 - 1131)
 
@@ -3943,6 +3962,7 @@ eingehalten wird.
 
 
 ## Anhang 19 Zellstofferzeugung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005408119)
 
 (Fundstelle: BGBl. I 2004, 1132 - 1133)
 
@@ -4316,6 +4336,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 
 ## Anhang 20 Verarbeitung tierischer Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE002806377)
 
 (Fundstelle: BGBl. I 2004, 1133 - 1134;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4420,6 +4441,7 @@ enthalten.
 
 
 ## Anhang 22 Chemische Industrie
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003012128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 3 – 11)
 
@@ -5526,6 +5548,7 @@ Mindesthäufigkeit der Überwachung einmal pro Ableitung.
 [^F829229_16_BJNR056610997BJNE003012128]: 
 
 ## Anhang 23 Anlagen zur biologischen Behandlung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005306118)
 
 (Fundstelle: BGBl. I 2004, 1137 - 1138;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5779,6 +5802,7 @@ Nachweis der Einhaltung dieser Voraussetzungen zu führen.
 
 
 ## Anhang 24 Eisen-, Stahl- und Tempergießerei
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003107377)
 
 (Fundstelle: BGBl. I 2004, 1138 - 1140)
 
@@ -5966,6 +5990,7 @@ Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
 
 
 ## Anhang 25 Lederherstellung, Pelzveredlung, Lederfaserstoffherstellung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003211119)
 
 (Fundstelle: BGBl. I 2004, 1140 - 1141;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6367,6 +6392,7 @@ den Betreiberpflichten nach den Absätzen 1 bis 4 unberührt.
 
 
 ## Anhang 26 Steine und Erden
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003305377)
 
 (Fundstelle: BGBl. I 2004, 1141 - 1142)
 
@@ -6527,6 +6553,7 @@ Abwasser folgende Anforderungen gestellt:
 
 
 ## Anhang 27 Behandlung von Abfällen durch chemische und physikalische Verfahren (CP-Anlagen) sowie Altölaufarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005705118)
 
 (Fundstelle: BGBl. I 2004, 1142 - 1144;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6886,6 +6913,7 @@ und Ballastwasser auf Bilgenölannahme- und -behandlungsschiffen.
 
 
 ## Anhang 28 Herstellung von Papier, Karton oder Pappe
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005804119)
 
 (Fundstelle: BGBl. I 2018, 1340 - 1344)
 
@@ -7441,6 +7469,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 [^F803542_10_BJNR056610997BJNE005804119]: 
 
 ## Anhang 29 Eisen- und Stahlerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005905118)
 
 (Fundstelle: BGBl. I 2004, 1145 - 1147;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8015,6 +8044,7 @@ anfallen. In diesem Fall gelten folgende Anforderungen:
 
 
 ## Anhang 31 Wasseraufbereitung, Kühlsysteme, Dampferzeugung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE006005118)
 
 (Fundstelle: BGBl. I 2004, 1147 - 1150;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8472,6 +8502,7 @@ nach Teil B und C.
 
 
 ## Anhang 32 Verarbeitung von Kautschuk und Latizes, Herstellung und Verarbeitung von Gummi
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005506118)
 
 (Fundstelle: BGBl. I 2004, 1150 - 1151)
 
@@ -8657,6 +8688,7 @@ L = 12 in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe.
 
 
 ## Anhang 33 Wäsche von Abgasen aus der Verbrennung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE006105128)
 
 (Fundstelle: BGBl. I 2004, 1150 - 1151;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8924,6 +8956,7 @@ korrespondierenden Abwasservolumenstrom ermittelt.
 
 
 ## Anhang 35 Chipherstellung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE006106128)
 
 (Fundstelle: BGBl. I 2022, 90 - 93)
 
@@ -9372,6 +9405,7 @@ wurden, ist der Betreiber verpflichtet,
 [^F820148_03_BJNR056610997BJNE006106128]: 
 
 ## Anhang 36 Herstellung von Kohlenwasserstoffen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003408128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 11 – 13)
 
@@ -9727,6 +9761,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 
 ## Anhang 37 Herstellung anorganischer Pigmente
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003510128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 13 – 16)
 
@@ -10500,6 +10535,7 @@ produktionsspezifische Fracht.
 [^F829229_24_BJNR056610997BJNE003510128]: 
 
 ## Anhang 38 Textilherstellung, Textilveredlung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005008118)
 
 (Fundstelle: BGBl. I 2004, 1155 - 1157;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10909,6 +10945,7 @@ Anforderungen:
 
 
 ## Anhang 39 Nichteisenmetallerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003610119)
 
 (Fundstelle: BGBl. I 2020, 1294 – 1297)
 
@@ -11558,6 +11595,7 @@ Betreiberpflichten nach den Absätzen 1 bis 4 unberührt.
 [^F812064_15_BJNR056610997BJNE003610119]: 
 
 ## Anhang 40 Metallbearbeitung, Metallverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001109311)
 
 (Fundstelle: BGBl. I 2004, 1159 - 1162;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12985,6 +13023,7 @@ Vorbehandlungsanlage für den jeweiligen Parameter.
 
 
 ## Anhang 41 Herstellung und Verarbeitung von Glas und künstlichen Mineralfasern
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003708123)
 
 (Fundstelle: BGBl. I 2004, 1162 - 1163;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13374,6 +13413,7 @@ einzuhalten.
 [^F11_786569_BJNR056610997BJNE003708123]: 
 
 ## Anhang 42 Alkalichloridelektrolyse
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001209128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 16 – 18)
 
@@ -13633,6 +13673,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 
 ## Anhang 43 Herstellung von Chemiefasern, Folien und Schwammtuch nach dem Viskoseverfahren sowie von Celluloseacetatfasern
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003811128)
 
 (Fundstelle: BGBl. 2024 I Nr. 66, S. 18 – 22)
 
@@ -14188,6 +14229,7 @@ Hauptschadstofffracht aus der Herstellung von Viskosefasern stammt.
 [^F829229_29_BJNR056610997BJNE003811128]: 
 
 ## Anhang 45 Erdölverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE003909119)
 
 (Fundstelle: BGBl. I 2004, 1166 - 1167;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14504,6 +14546,7 @@ Betreiberpflichten nach den Absätzen 1 bis 3 unberührt.
 
 
 ## Anhang 46 Steinkohleverkokung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004008311)
 
 (Fundstelle: BGBl. I 2004, 1167 - 1168;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14723,6 +14766,7 @@ Absatz 2 Satz 2 ist ab dem 8. März 2016 vorzunehmen.
 
 
 ## Anhang 47 Feuerungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE006205128)
 
 (Fundstelle: BGBl. I 2022, 93 - 94)
 
@@ -14987,10 +15031,12 @@ Betreiberpflichten nach den Absätzen 1 und 2 unberührt.
 
 
 ## Anhang 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE001312128)
 
 
 
 ## Anhang 49 Mineralölhaltiges Abwasser
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005106118)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1173 - 1174)
 
@@ -15166,6 +15212,7 @@ Anforderungen:
 
 
 ## Anhang 50 Zahnbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004108118)
 
 (Fundstelle: BGBl. I 2004, 1175; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -15264,6 +15311,7 @@ abfallrechtlichen Vorschriften einer Verwertung zuzuführen.
 
 
 ## Anhang 51 Oberirdische Ablagerung von Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004209118)
 
 (Fundstelle: BGBl. I 2004, 1175 - 1177;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -15518,6 +15566,7 @@ erfüllt wird:
 
 
 ## Anhang 52 Chemischreinigung
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004307377)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1177)
 
@@ -15615,6 +15664,7 @@ Halogenkohlenwasserstoffe eingesetzt werden.
 
 
 ## Anhang 53 Fotografische Prozesse (Silberhalogenid-Fotografie)
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004408118)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1177 - 1179)
 
@@ -15829,6 +15879,7 @@ wird.
 
 
 ## Anhang 54 Herstellung von Wafern und Solarzellen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004509128)
 
 (Fundstelle: BGBl. I 2004, 1179 - 1180;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16002,6 +16053,7 @@ Cadmium und 1 mg/l Selen in der Stichprobe einzuhalten.
 
 
 ## Anhang 55 Wäschereien
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004607118)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1180 - 1181)
 
@@ -16258,6 +16310,7 @@ _\_\__\_\__\_\_\_\_
 [^bjnr056610997bjne004606377_1_BJNR056610997BJNE004607118]: 
 
 ## Anhang 56 Herstellung von Druckformen, Druckerzeugnissen und grafischen Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE005207118)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1182 - 1183)
 
@@ -16661,6 +16714,7 @@ einzuhalten.
 
 
 ## Anhang 57 Wollwäschereien
+[Direktlink](https://www.gesetze-im-internet.de/abwv/BJNR056610997.html#BJNR056610997BJNE004707118)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1184)
 

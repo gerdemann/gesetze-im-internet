@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE000600315)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Mandatsbewerbung und Mandatsausübung
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNG000100315)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE000702160)
 
 Dieses Gesetz gilt für Bewerber um ein Mandat für das Europäische
 Parlament in der Bundesrepublik Deutschland und für Mitglieder des
@@ -40,12 +43,14 @@ Europäischen Parlaments Anwendung finden.
 
 
 ### § 2 Freies Mandat
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE000800315)
 
 Die Mitglieder des Europäischen Parlaments sind an Aufträge und
 Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.
 
 
 ### § 3 Schutz der Mandatsbewerber und der Mandatsausübung
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE000901160)
 
 (1) Niemand darf gehindert werden, sich um ein Mandat im Europäischen
 Parlament zu bewerben, es zu erwerben, anzunehmen oder auszuüben.
@@ -63,6 +68,7 @@ Mandats fort.
 
 
 ### § 4 Wahlvorbereitungsurlaub, Berufs- und Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001002307)
 
 (1) Einem Bewerber um ein Mandat im Europäischen Parlament ist zur
 Vorbereitung seiner Wahl innerhalb der letzten zwei Monate vor dem
@@ -74,6 +80,7 @@ Beurlaubung nicht.
 
 
 ### § 5 Indemnität und Immunität
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001101301)
 
 Die Indemnität und Immunität der Mitglieder des Europäischen
 Parlaments bestimmt sich nach den Artikeln 9 und 10 des Protokolls
@@ -85,6 +92,7 @@ Indemnität nach den Bestimmungen des Grundgesetzes.
 
 
 ### § 6 Zeugnisverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001200315)
 
 Die Mitglieder des Europäischen Parlaments sind berechtigt, über
 Personen, die ihnen in ihrer Eigenschaft als Mitglieder oder denen sie
@@ -95,10 +103,12 @@ Schriftstücken unzulässig.
 
 
 ## Zweiter Abschnitt - Unvereinbarkeiten, Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNG000200315)
 
 
 
 ### § 7 Unvereinbarkeit von Ämtern, Funktionen und Mandaten mit der Mitgliedschaft im Europäischen Parlament
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001303377)
 
 Die in § 22 Abs. 2 Nr. 7 bis 15 des Europawahlgesetzes aufgeführten
 Ämter, Funktionen und Mandate sind mit der Mitgliedschaft im
@@ -112,6 +122,7 @@ ausscheidet.
 
 
 ### § 8 Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001400315)
 
 (1) Die Absätze 2 und 3 gelten für die Angehörigen des öffentlichen
 Dienstes des Bundes, der Länder, der Gemeinden und anderer
@@ -134,10 +145,12 @@ anzuwenden.
 
 
 ## Dritter Abschnitt - Leistungen an die Mitglieder des Europäischen Parlaments, an ehemalige Mitglieder und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNG000300315)
 
 
 
 ### § 9 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001516116)
 
 Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25
 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
@@ -146,6 +159,7 @@ Entschädigung gemäß § 11 Abs. 1, 3 und 4 des Abgeordnetengesetzes.
 
 
 ### § 10 Freifahrtberechtigung und Erstattung von Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001605160)
 
 Ein Mitglied des Europäischen Parlaments hat das Recht auf freie
 Benutzung aller Verkehrsmittel der Deutschen Bahn AG. Benutzt es in
@@ -158,6 +172,7 @@ Erstattung von Fahrkosten durch das Europäische Parlament besteht. §
 
 
 ### § 10a Inanspruchnahme von Leistungen des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001700315)
 
 Ein Mitglied des Europäischen Parlaments erhält zur Abgeltung seiner
 durch das Mandat veranlaßten Aufwendungen eine Aufwandsentschädigung.
@@ -169,6 +184,7 @@ Ausführungsbestimmungen des Ältestenrates.
 
 
 ### § 10b Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001806116)
 
 Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35,
 35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf
@@ -203,6 +219,7 @@ findet entsprechende Anwendung.
 
 
 ### § 11 Zuschuß zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE001903116)
 
 Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes
 finden auf vor Inkrafttreten des Abgeordnetenstatuts des Europäischen
@@ -212,6 +229,7 @@ auf Mitglieder des Europäischen Parlaments entsprechende Anwendung.
 
 
 ### § 12 Beginn und Ende der Ansprüche, Zahlungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE002005116)
 
 (1) Die in den §§ 9 bis 11 geregelten Ansprüche entstehen mit dem Tag
 der Feststellung des Bundeswahlausschusses (§ 18 Abs. 4 des
@@ -230,10 +248,12 @@ Anwendung auf Leistungen nach diesem Gesetz.
 
 
 ## Vierter Abschnitt - Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNG000400315)
 
 
 
 ### § 13 Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE002105116)
 
 (1) Die Entschädigung nach diesem Gesetz ruht, sofern das
 Abgeordnetengesetz des Bundes oder eines Landes keine anderweitige
@@ -277,14 +297,17 @@ nach dem Abgeordnetengesetz übersteigen.
 
 
 ## Fünfter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNG000501160)
 
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE002202160)
 
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/euabgg/BJNR004130979.html#BJNR004130979BJNE002400315)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

@@ -19,12 +19,14 @@ Fundstelle
 Stand: Ersetzt V 2129-39 v. 13.12.2003 I 2642 (Rhein/BinSchAbfÜbkAG)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Räumlicher Geltungsbereich und Geltung der Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000300000)
 
 (1) Die nachfolgenden Bestimmungen gelten
 
@@ -48,6 +50,7 @@ beschlossen:
 
 
 ## § 2 Pflicht zur Einrichtung und zum Betrieb von Annahmestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000400000)
 
 (1) Die Betreiber von Umschlagsanlagen
 
@@ -155,6 +158,7 @@ Anforderungen der Absätze 1 bis 7 unmittelbar.
 [^F1_813775_BJNR013000021BJNE000400000]: 
 
 ## § 3 Vereinbarungen über gemeinsam zu nutzende Annahmestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000500000)
 
 (1) Betreiber und Befrachter können Vereinbarungen über gemeinsam zu
 nutzende Annahmestellen und deren Art und Umfang treffen, und zwar
@@ -180,6 +184,7 @@ werden, wenn ein genehmigter Bedarfsplan gemäß § 4 Absatz 1 vorliegt.
 
 
 ## § 4 Bedarfsplan für gemeinsam zu nutzende Annahmestellen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000600000)
 
 (1) Im Bedarfsplan sind die nach § 3 Absatz 1 gemeinsam zu nutzenden
 Annahmestellen im Wasserstraßenbereich, für den die Vereinbarung
@@ -256,6 +261,7 @@ tragenden Kosten sind in die Vereinbarung nach § 3 aufzunehmen.
 
 
 ## § 5 Weitere Entsorgung durch Annahmestellen nach der Annahme
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000700000)
 
 Die weitere Entsorgung der Abfälle, die den Annahmestellen nach den
 Vorschriften des Übereinkommens übergeben worden sind, bestimmt sich
@@ -265,6 +271,7 @@ und des für die jeweilige Annahmestelle zuständigen Landes.
 
 
 ## § 6 Allgemeine Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000800000)
 
 (1) Die nach Absatz 4 Verpflichteten haben hinsichtlich der Anwendung
 der Bestimmungen des Übereinkommens bei Kontrollen auf Verlangen
@@ -357,6 +364,7 @@ Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis
 
 
 ## § 7 Besondere Pflichten des Betreibers einer Bunkerstelle
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE000900000)
 
 Der Betreiber einer Bunkerstelle ist in Bezug auf Anlage 2 zum
 Übereinkommen verpflichtet,
@@ -407,6 +415,7 @@ Unterlagen beginnt mit deren jeweiliger Aushändigung.
 
 
 ## § 8 Besondere Pflichten des Schiffsbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001000000)
 
 (1) Der Schiffsbetreiber ist verpflichtet, die Entsorgungsgebühr nach
 Artikel 6 Absatz 1 Satz 1 erster Halbsatz des Übereinkommens vor dem
@@ -433,6 +442,7 @@ Verwaltungsgebühr enthalten.
 
 
 ## § 9 Besondere Pflichten der Betreiber der Annahmestellen und der Ladungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001100000)
 
 (1) Der Betreiber einer Annahmestelle und im Falle der Entladung des
 Fahrzeugs zusätzlich der Ladungsempfänger oder der von einem
@@ -568,6 +578,7 @@ und nach den folgenden Maßgaben:
 
 
 ## § 10 Besondere Pflichten des Schiffsführers
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001200000)
 
 Der Schiffsführer ist verpflichtet, die Eintragungen, die in den in §
 9 Absatz 2 genannten Unterlagen von ihm vorzunehmen sind, nach Abgabe
@@ -577,6 +588,7 @@ bei Aufforderung durch den Betreiber der Annahmestelle vorzunehmen.
 
 
 ## § 11 Pflichten für Schiffsführer von Fahrzeugen, die kein Gasöl als Kraftstoff benutzen oder Gasöl außerhalb des Anwendungsbereiches der Anlage 1 zum Übereinkommen tanken
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001300000)
 
 (1) Der Schiffsführer eines Fahrzeugs,
 
@@ -605,6 +617,7 @@ Absatz 1 Satz 1 der Anlage 2 zum Übereinkommen an Bord mitführen.
 
 
 ## § 12 Pflichten von Dritten, die mit der Annahme von Schiffsbetriebsabfällen oder Dämpfen beauftragt wurden
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001400000)
 
 (1) Wurden Dritte mit der Annahme von Schiffsbetriebsabfällen oder
 Dämpfen beauftragt, gehen die jeweiligen Pflichten
@@ -628,6 +641,7 @@ Eignung gegenüber der zuständigen Behörde nachweisen können.
 
 
 ## § 13 Ordnungswidrigkeitendatei
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001500000)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 Datei über die von ihr verfolgten Ordnungswidrigkeiten zum
@@ -688,6 +702,7 @@ am Tag der Errichtung der Datei nach Absatz 1 unverzüglich zu löschen.
 
 
 ## § 14 Zuständige Behörden für Aufgaben des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001600000)
 
 (1) Zuständige Behörde für die technischen Untersuchungen von
 Nachlenzsystemen im Sinne des Anhangs II der Anlage 2 zum
@@ -735,6 +750,7 @@ Bundeswasserstraßengesetzes.
 
 
 ## § 15 Zuständige Behörden der Länder
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001700000)
 
 (1) Soweit nach diesem Gesetz keine Behörde des Bundes zuständig ist,
 obliegt die Wahrnehmung der Aufgaben nach diesem Gesetz den aufgrund
@@ -750,6 +766,7 @@ die Landesregierung die zuständigen Behörden.
 
 
 ## § 16 Gleichwertigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001800000)
 
 (1) Den Bescheinigungen nach § 14 Absatz 1, 2, den Ölkontrollbüchern
 nach § 14 Absatz 3 oder Befreiungen nach § 14 Absatz 4 stehen gleich
@@ -780,6 +797,7 @@ Vorschriften für den Bereich der Landeswasserstraßen ausgestellten
 
 
 ## § 17 Eingriffsbefugnisse der zuständigen Behörden, Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE001900000)
 
 (1) Zum Zweck der Überwachung der Einhaltung der Bestimmungen dieses
 Gesetzes, der nach diesem Gesetz erlassenen Rechtsverordnungen und des
@@ -914,6 +932,7 @@ unberührt.
 
 
 ## § 18 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002000000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung Folgendes festzulegen:
@@ -983,6 +1002,7 @@ Satz 2 der Anlage 2 zum Übereinkommen festzulegen.
 
 
 ## § 19 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002100000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 durch Rechtsverordnung ohne Zustimmung des Bundesrates juristischen
@@ -992,6 +1012,7 @@ an der Wahrnehmung mitzuwirken.
 
 
 ## § 20 Datenübermittlung und Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002200000)
 
 (1) Die Dienststellen der Zollverwaltung sind berechtigt, die nach §
 30 der Abgabenordnung geschützten Verhältnisse der Betroffenen der
@@ -1090,12 +1111,14 @@ worden sind.
 
 
 ## § 21 Befreiung der innerstaatlichen Institution von der Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002300000)
 
 Die innerstaatliche Institution nach Artikel 9 Absatz 1 des
 Übereinkommens ist von der Körperschaftsteuer befreit.
 
 
 ## § 22 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1300,6 +1323,7 @@ Schifffahrt.
 
 
 ## § 23 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002500000)
 
 (1) Annahmestellen nach § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe b und
 Nummer 2 Buchstabe b sind gemäß den Übergangsbestimmungen nach Artikel
@@ -1313,6 +1337,7 @@ der Anlagen zum Übereinkommen nach Artikel 19 Absatz 5 des
 
 
 ## § 24 Zeitliche Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002600000)
 
 Folgende Regelungen sind erst ab dem ersten Tag des sechsten Monats
 nach der Hinterlegung der letzten Ratifikations-, Annahme- oder
@@ -1373,6 +1398,7 @@ II S. 330) geändert worden ist, anzuwenden.
 
 
 ## § 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binschabf_bkag/BJNR013000021.html#BJNR013000021BJNE002700000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Gleichzeitig
 tritt das Binnenschifffahrt-Abfallübereinkommen-Ausführungsgesetz vom

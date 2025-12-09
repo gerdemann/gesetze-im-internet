@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Anwendbarkeit des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE000500319)
 
 Ist mit einem Grundstück, das durch eine Besatzungsmacht zur Nutzung
 oder zum Gebrauch in Anspruch genommen worden war, während der Dauer
@@ -35,6 +37,7 @@ Grundstück und an der Sache nach den Vorschriften dieses Gesetzes.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE000600319)
 
 War ein Grundstück nur zum Teil in Anspruch genommen, so ist dieses
 Gesetz nur auf den in Anspruch genommenen Teil anzuwenden. War ein
@@ -50,10 +53,12 @@ erforderlich sind.
 
 
 ## Zweiter Abschnitt - Regelung der Rechtsverhältnisse, Wertausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNG000200319)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE000700319)
 
 (1) Das Eigentum an der Sache geht, sofern sie nicht bereits mit der
 Verbindung wesentlicher Bestandteil des Grundstücks geworden ist, mit
@@ -69,6 +74,7 @@ worden, so behält es dabei sein Bewenden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE000800319)
 
 (1) Hat die Verbindung der Sache mit dem Grundstück zu einer baulichen
 Veränderung des Grundstücks geführt und ist der gemeine Wert
@@ -87,6 +93,7 @@ ist.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE000900319)
 
 (1) Hat sich in den Fällen des § 4 Abs. 1 Satz 2 der Wert der Sache
 nach der Freigabe infolge von Umständen, die der Grundstückseigentümer
@@ -107,6 +114,7 @@ Ausgleich zu berücksichtigen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001001301)
 
 Hat die Verbindung der Sache mit dem Grundstück nicht zu einer
 baulichen Veränderung des Grundstücks geführt, so ist der
@@ -116,6 +124,7 @@ verpflichtet. § 4 Abs. 2 gilt entsprechend.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001100319)
 
 Eine Ausgleichsverpflichtung nach diesem Gesetz besteht nicht, soweit
 
@@ -137,6 +146,7 @@ b)  der Ausgleich auf andere Weise, insbesondere durch Verrechnung mit
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001201301)
 
 (1) Der Ausgleichsanspruch wird von der Bundesrepublik geltend
 gemacht. Beträgt der Ausgleichsanspruch voraussichtlich weniger als
@@ -158,6 +168,7 @@ maßgebend.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001300319)
 
 Die Ausgleichsverpflichtung soll tunlichst durch Vereinbarung zwischen
 dem Grundstückseigentümer und der Bundesrepublik geregelt werden.
@@ -171,10 +182,12 @@ Sicherheitsleistung nach Art und Höhe und die Tilgung zu regeln.
 
 
 ## Dritter Abschnitt - Erwerbspflicht der Bundesrepublik
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNG000300319)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001400319)
 
 (1) In den Fällen des § 4 kann der Grundstückseigentümer von der
 Bundesrepublik verlangen, daß sie das Eigentum an dem Grundstück gegen
@@ -199,6 +212,7 @@ Entschädigung erwirbt. Absatz 1 Satz 2 findet Anwendung.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001500319)
 
 (1) Der Übergang des Eigentums an dem Grundstück soll tunlichst durch
 Vereinbarung zwischen dem Grundstückseigentümer und der Bundesrepublik
@@ -231,6 +245,7 @@ Veränderungsnachweis und eine Abzeichnung der Flurkarte beizufügen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001600319)
 
 (1) Die von der Bundesrepublik zu zahlende Entschädigung bemißt sich
 nach dem gemeinen Wert (Verkehrswert), den das Grundstück in dem
@@ -255,6 +270,7 @@ Inanspruchnahme an dem Grundstück entstanden sind, bleiben unberührt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001700319)
 
 (1) Hat sich nach der Freigabe der Wert der Sache infolge von
 Umständen, die der Grundstückseigentümer zu vertreten hat, vermindert,
@@ -270,6 +286,7 @@ dem Grundstück zu berücksichtigen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001800319)
 
 (1) Soweit Rechte der in § 11 Abs. 1 genannten Art erlöschen, ist den
 Berechtigten für die hierdurch eintretenden Vermögensnachteile eine
@@ -302,6 +319,7 @@ Ersatz einer Wertminderung ihres Rechts aus dieser Entschädigung.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE001900319)
 
 Für andere durch den Eigentumserwerb der Bundesrepublik verursachte
 Vermögensnachteile ist den Entschädigungsberechtigten unter gerechter
@@ -310,6 +328,7 @@ Entschädigung in Geld zu gewähren.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002000319)
 
 Auf das Verfahren nach den §§ 11 bis 15 sind die §§ 29 bis 34, 35 Abs.
 1, §§ 37, 44 bis 49 und 52 bis 54 des Landbeschaffungsgesetzes
@@ -317,6 +336,7 @@ sinngemäß anzuwenden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002100319)
 
 Ist der Entschädigungsbetrag, aus dem andere Entschädigungsberechtigte
 nach § 14 Abs. 3 und 4 zu befriedigen sind, in Anwendung des § 53 Abs.
@@ -326,6 +346,7 @@ entsprechende Anordnung aufzunehmen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002200319)
 
 Entschädigungen außer wiederkehrenden Leistungen sind von dem Tag ab,
 an welchem die Vereinbarung wirksam oder der Festsetzungsbescheid
@@ -336,10 +357,12 @@ gewährt wird, auf die Zinsen anzurechnen.
 
 
 ## Vierter Abschnitt - Verfahrens- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNG000400319)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002300319)
 
 Das Grundstück ist dem Eigentümer unverzüglich nach der Freigabe
 herauszugeben. Ist der Wert des Grundstücks nicht unbeträchtlich
@@ -359,6 +382,7 @@ festgesetzt.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002400319)
 
 Gelangt der Grundstückseigentümer nicht alsbald nach Freigabe in den
 Genuß der Nutzung des Grundstücks, so hat ihm die Bundesrepublik zum
@@ -372,6 +396,7 @@ festgesetzt.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002500319)
 
 (1) Die Beseitigung der mit dem Grundstück verbundenen Sache kann
 nicht verlangt werden.
@@ -389,17 +414,20 @@ geltend gemacht werden.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002600319)
 
 Verwaltungsakte nach diesem Gesetz sind den Beteiligten zuzustellen.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002700319)
 
 Für Streitigkeiten aus diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben, sofern sich nicht aus § 24 etwas anderes ergibt.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002800319)
 
 (1) Für Klagen wegen Festsetzung des Ausgleichs, der
 Sicherheitsleistung nach § 19 sowie der nach diesem Gesetz zu
@@ -437,6 +465,7 @@ Festsetzung anderweit festgesetzt wird.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE002900319)
 
 (1) Der Festsetzungsbescheid nach § 9 oder § 11 ist den Beteiligten
 gegenüber vollstreckbar, wenn und soweit er für sie unanfechtbar
@@ -461,6 +490,7 @@ Sitz hat, an die Stelle des Prozeßgerichts.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003000319)
 
 Die Vorschriften dieses Gesetzes sind auf Grundstücke, die Gegenstand
 eines Enteignungsverfahrens nach dem Landbeschaffungsgesetz sind,
@@ -468,6 +498,7 @@ nicht anzuwenden.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003100319)
 
 Endet ein Enteignungsverfahren nach dem Landbeschaffungsgesetz, ohne
 daß die Rechtsverhältnisse an der Sache geregelt werden, so sind vom
@@ -482,6 +513,7 @@ Vereinbarung geregelt worden sind.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003200319)
 
 (1) Das Verfahren vor der in § 9 genannten Behörde ist kostenfrei. Dem
 Grundstückseigentümer oder einem sonstigen Entschädigungsberechtigten
@@ -496,6 +528,7 @@ den Bestimmungen dieses Gesetzes begründet erweist.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003300319)
 
 (1) § 16 wird im Land Berlin in folgender Fassung angewandt:
 
@@ -525,6 +558,7 @@ den Bestimmungen dieses Gesetzes begründet erweist.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003401301)
 
 (1) § 1 wird für das in Artikel 3 des Einigungsvertrages genannte
 Gebiet in folgender Fassung angewandt:
@@ -600,6 +634,7 @@ Einigungsvertrages genannte Gebiet keine Anwendung.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/wertausglg/BJNR016250971.html#BJNR016250971BJNE003501301)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

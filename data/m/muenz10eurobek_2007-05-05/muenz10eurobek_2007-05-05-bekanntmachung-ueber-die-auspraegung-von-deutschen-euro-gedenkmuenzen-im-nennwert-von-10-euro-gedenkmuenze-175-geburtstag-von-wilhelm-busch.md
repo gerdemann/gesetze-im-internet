@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-05-05/BJNR074300007.html#BJNR074300007BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, aus Anlass des 175.
@@ -51,11 +52,13 @@ Der Entwurf der Münze stammt von Herrn Othmar Kukula aus Neuhausen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-05-05/BJNR074300007.html#BJNR074300007BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2007-05-05/BJNR074300007.html#BJNR074300007BJNE000300000)
 
 (Fundstelle: BGBl. I 2007, 743)
 ![bgbl1_2007_j0743_0010.jpg](bgbl1_2007_j0743_0010.jpg)

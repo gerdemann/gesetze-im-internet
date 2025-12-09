@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE000100319)
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März
@@ -32,6 +33,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE000201309)
 
 Die bis zum 31. Dezember 1991 von den Berufsfachschulen für
 Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen erteilten
@@ -64,23 +66,27 @@ gleichgestellt:
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE000300319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE000400319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE000500319)
 
 Der Bundesminister für Wirtschaft
 
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/przbrgleichstv/BJNR010650980.html#BJNR010650980BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

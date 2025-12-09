@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5_10pfbek/BJNR700200949.html#BJNR700200949BJNE000100314)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des
 Geldwesens (Emissionsgesetz) werden demnächst neue auf 5 und 10

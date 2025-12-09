@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_40/BJNR023920991.html#BJNR023920991BJNE000100307)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_40/BJNR023920991.html#BJNR023920991BJNE000200307)
 
 Abweichend von § 53 Abs. 2 Satz 1 der Straßenverkehrs-Zulassungs-
 Ordnung sind Einrichtungen und Schaltungen zulässig, die das
@@ -52,11 +54,13 @@ erwarten ist. Dies gilt nur, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_40/BJNR023920991.html#BJNR023920991BJNE000301308)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_40/BJNR023920991.html#BJNR023920991BJNE000402311)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. § 1 tritt
 am 1. Januar 2006 für neu in den Verkehr kommende Fahrzeuge außer
@@ -65,6 +69,7 @@ Kraft.
 (zu § 1 Satz 2)
 
 ## Anlage Anforderungen an Bremsvorwarnsysteme
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_40/BJNR023920991.html#BJNR023920991BJNE000500307)
 
 
 *

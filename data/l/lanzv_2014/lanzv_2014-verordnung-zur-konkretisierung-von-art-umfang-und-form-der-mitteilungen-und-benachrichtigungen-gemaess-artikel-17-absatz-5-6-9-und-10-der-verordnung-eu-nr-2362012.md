@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000100000)
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 2 des
 Wertpapierhandelsgesetzes, der durch Artikel 1 Nummer 5 des Gesetzes
@@ -31,6 +32,7 @@ ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf
 
@@ -53,6 +55,7 @@ Diese Verordnung ist anzuwenden auf
 
 
 ## § 2 Absichtsanzeige für Market-Making-Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000300000)
 
 Die Absichtsanzeige für Market-Making-Tätigkeiten muss Folgendes
 enthalten:
@@ -149,6 +152,7 @@ enthalten:
 
 
 ## § 3 Absichtsanzeige für Primärmarkttätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000400000)
 
 (1) Die Absichtsanzeige für Primärmarkttätigkeiten muss Folgendes
 enthalten:
@@ -178,6 +182,7 @@ sein.
 
 
 ## § 4 Formular
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000500000)
 
 Die Absichtsanzeigen nach den §§ 2 und 3 haben unter Verwendung des
 jeweiligen auf der Internetseite der Bundesanstalt für
@@ -187,6 +192,7 @@ angegebene Faxnummer zu verwenden.
 
 
 ## § 5 Benachrichtigung über Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000600000)
 
 In der Benachrichtigung des Market Makers oder Primärhändlers über
 Änderungen nach Artikel 17 Absatz 9 oder 10 der Verordnung (EU) Nr.
@@ -195,6 +201,7 @@ jeweils einschlägigen Vorgaben der §§ 2 und 3 entsprechend.
 
 
 ## § 6 Bestandsliste
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000700000)
 
 (1) Die Absichtsanzeigen nach den §§ 2 und 3 sind zusätzlich
 unverzüglich in elektronischer Form an die auf der Internetseite der
@@ -219,6 +226,7 @@ kenntlich zu machen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lanzv_2014/BJNR038600014.html#BJNR038600014BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Leerverkaufs-Anzeigeverordnung vom 7. April

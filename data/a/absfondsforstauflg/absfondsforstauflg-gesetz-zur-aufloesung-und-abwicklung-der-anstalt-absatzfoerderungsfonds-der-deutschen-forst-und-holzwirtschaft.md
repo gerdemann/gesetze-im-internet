@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Auflösung und Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/absfondsforstauflg/BJNR095020011.html#BJNR095020011BJNE000102301)
 
 (1) Die Anstalt Absatzförderungsfonds der deutschen Forst- und
 Holzwirtschaft ist aufgelöst. Bis zur Beendigung der Abwicklung bleibt
@@ -49,6 +50,7 @@ Ernährung und Landwirtschaft im Bundesanzeiger bekannt zu geben.
 
 
 ## § 2 Kostentragung und Vermögensüberschussverteilung
+[Direktlink](https://www.gesetze-im-internet.de/absfondsforstauflg/BJNR095020011.html#BJNR095020011BJNE000200000)
 
 (1) Die Kosten der Abwicklung sind aus dem Vermögen der Anstalt zu
 tragen.
@@ -63,6 +65,7 @@ bei der Landwirtschaftlichen Rentenbank zu verwenden.
 
 
 ## § 3 Aufhebung des Holzabsatzfondsgesetzes und der Holzabsatzfondsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/absfondsforstauflg/BJNR095020011.html#BJNR095020011BJNE000300000)
 
 (1) Es werden aufgehoben:
 

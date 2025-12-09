@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 9513-38-3 v. 25.7.2013 BAnz AT 30.07.2013 V1 (SeeUnterkunftsV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales verordnet auf Grund des
 § 96 des Seearbeitsgesetzes, der durch Artikel 8 Nummer 8 des Gesetzes
@@ -29,9 +30,11 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000300000)
 
 Diese Verordnung gilt für die Unterkünfte, die Freizeiteinrichtungen
 und die medizinischen Räumlichkeiten für Besatzungsmitglieder auf
@@ -47,6 +50,7 @@ Kauffahrteischiffen, die
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000400000)
 
 (1) Zu den Unterkünften und Freizeiteinrichtungen im Sinne dieser
 Verordnung gehören
@@ -130,6 +134,7 @@ gemessen wird, parallel zur Konstruktionswasserlinie zu verlaufen.
 
 
 ### § 3 Allgemeine Anforderungen an Unterkünfte und Freizeiteinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000500000)
 
 Der Reeder hat dafür zu sorgen, dass die Unterkünfte und
 Freizeiteinrichtungen
@@ -156,6 +161,7 @@ Freizeiteinrichtungen
 
 
 ### § 4 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000600000)
 
 Auf jedem Schiff ist den Besatzungsmitgliedern der Wortlaut dieser
 Verordnung in der im Borddienst gebräuchlichen Sprache zugänglich zu
@@ -163,9 +169,11 @@ machen.
 
 
 ## Abschnitt 2 - Genehmigungen, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000200000)
 
 
 ### § 5 Genehmigung vor Bau, wesentlicher Änderung oder Flaggenwechsel eines Schiffs
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000700000)
 
 (1) Wer den Bau eines Schiffs in Auftrag gibt, hat vor Beginn des Baus
 der Berufsgenossenschaft alle erforderlichen Pläne und Unterlagen der
@@ -204,6 +212,7 @@ zugestimmt hat.
 
 
 ### § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000800000)
 
 (1) Die Berufsgenossenschaft kann für Schiffe, auf denen die
 Interessen von Besatzungsmitgliedern mit unterschiedlichen religiösen
@@ -267,12 +276,15 @@ anzuwenden:
 
 
 ## Abschnitt 3 - Anforderungen an Bau, Ausrüstung und Instandhaltung der Unterkunftsräume und Freizeiteinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000300000)
 
 
 ### Unterabschnitt 1 - Wände, Decken, Fußböden, Isolierung, Schutzvorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000400000)
 
 
 #### § 7 Wände, Decken, Fußböden
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE000900000)
 
 (1) In allen Unterkunftsräumen ist eine angemessene Deckenhöhe
 einzuhalten. Die lichte Höhe muss in allen Unterkunftsräumen, in denen
@@ -329,6 +341,7 @@ vermieden werden.
 
 
 #### § 8 Isolierung
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001000000)
 
 (1) Die Unterkunftsräume müssen gegen Kälte und Hitze, die von außen
 oder aus Nachbarräumen einwirken, wirksam isoliert sein. Die
@@ -340,6 +353,7 @@ Unterkunftsräumen beeinflussen können, müssen isoliert sein.
 
 
 #### § 9 Schutzvorrichtungen gegen Ungeziefer
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001100000)
 
 (1) Unterkunftsräume, Vorratsräume und Kühlräume sind gegen das
 Eindringen und das Einnisten von Ungeziefer zu schützen.
@@ -361,9 +375,11 @@ werden, wenn sie mit einem Reservemotor ausgestattet sind.
 
 
 ### Unterabschnitt 2 - Beleuchtung, Lüftung, Klimatisierung, Heizung, Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000500000)
 
 
 #### § 10 Beleuchtung
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001200000)
 
 (1) Schlafräume, Wohnräume, Messen und sonstige Aufenthaltsräume
 müssen durch Tageslicht angemessen erhellt sein; dies gilt nicht auf
@@ -399,6 +415,7 @@ Nachtbeleuchtung vorzusehen.
 
 
 #### § 11 Luftreinhaltung, raumlufttechnische Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001300000)
 
 (1) Unterkunftsräume sind so anzuordnen und auszustatten, dass sie
 gegen Luftverunreinigung aus anderen Schiffsteilen, insbesondere gegen
@@ -444,6 +461,7 @@ der Besatzungsmitglieder durch diese Anlagen vermieden werden.
 
 
 #### § 12 Heizungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001400000)
 
 (1) Die Unterkunftsräume müssen mit einer Heizungsanlage ausgestattet
 sein, die eine der Gesundheit zuträgliche Temperatur unter den Wetter-
@@ -462,6 +480,7 @@ oder Belästigung der Besatzungsmitglieder vermieden werden.
 
 
 #### § 13 Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001500000)
 
 Leitungen mit gesundheitsgefährlichen Gasen oder Flüssigkeiten oder
 Leitungen, die unter einem so hohen inneren Überdruck stehen, dass sie
@@ -471,9 +490,11 @@ Küchen, verlegt sein.
 
 
 ### Unterabschnitt 3 - Lärm und Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000600000)
 
 
 #### § 14 Verhütung von Lärm und Vibrationen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001600000)
 
 (1) Unterkunftsräume und Freizeitbereiche an Deck dürfen keinen
 Lärmbelastungen oder Vibrationen ausgesetzt sein, die der Gesundheit
@@ -491,9 +512,11 @@ andere geeignete schallschluckende Materialien zu verwenden.
 
 
 ### Unterabschnitt 4 - Schlafräume, Bodenflächen, Kojen, Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000700000)
 
 
 #### § 15 Schlafräume
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001700000)
 
 (1) Für die Besatzungsmitglieder sind Schlafräume vorzusehen, wenn die
 Betriebsumstände eine Übernachtung an Bord erforderlich machen.
@@ -570,6 +593,7 @@ Mitnahme von Partnern der Besatzungsmitglieder zu berücksichtigen.
 
 
 #### § 16 Bodenflächen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001800000)
 
 (1) In Schlafräumen mit Einzelkojen darf die Bodenfläche nicht
 geringer sein als
@@ -674,6 +698,7 @@ Bruttoraumzahl von weniger als 3 000 Ausnahmen von Satz 1 zulassen.
 
 
 #### § 17 Kojen und sonstige Schlafraumausstattungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE001900000)
 
 (1) Im Schlafraum ist jedem Besatzungsmitglied eine Einzelkoje zur
 Verfügung zu stellen, die seiner Körpergröße entspricht. Die Innenmaße
@@ -765,9 +790,11 @@ glatten und gegen Korrosion geschützten Werkstoff bestehen.
 
 
 ### Unterabschnitt 5 - Küchen, Vorratsräume, Kühlräume und Messen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000800000)
 
 
 #### § 18 Küchen, Vorratsräume und Kühlräume
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002000000)
 
 (1) Es sind Küchen vorzusehen, wenn die Betriebsumstände eine
 Zubereitung von Speisen an Bord erforderlich machen. Die Küchen müssen
@@ -827,6 +854,7 @@ zuzubereiten:
 
 
 #### § 19 Messen, Pantries und Ausstattungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002100000)
 
 (1) Es sind Messen vorzusehen, wenn die Betriebsumstände
 Aufenthaltsräume erforderlich machen, in denen die
@@ -889,9 +917,11 @@ müssen aus leicht zu säuberndem Material bestehen.
 
 
 ### Unterabschnitt 6 - Sanitäre Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG000900000)
 
 
 #### § 20 Anzahl und Anordnung der sanitären Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002200000)
 
 (1) Für die Besatzungsmitglieder sind sanitäre Einrichtungen, getrennt
 nach Männern und Frauen vorzusehen.
@@ -944,6 +974,7 @@ genehmigen.
 
 
 #### § 21 Ausstattung und Gestaltung der sanitären Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002300000)
 
 (1) An allen Waschstellen muss fließendes warmes und kaltes
 Trinkwasser vorhanden sein.
@@ -997,9 +1028,11 @@ mit Waschbecken, haben folgenden Anforderungen zu entsprechen:
 
 
 ### Unterabschnitt 7 - Medizinische Räumlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG001000000)
 
 
 #### § 22 Behandlungsraum
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002400000)
 
 (1) Über einen von anderen Unterkunftsräumen getrennten Raum für die
 medizinische Behandlung von Personen an Bord (Behandlungsraum) müssen
@@ -1053,6 +1086,7 @@ oder ein gleichwertiger Unterkunftsraum zur Verfügung zu stellen.
 
 
 #### § 23 Krankenraum
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002500000)
 
 (1) Die in § 22 Absatz 1 bezeichneten Schiffe müssen zusätzlich zu dem
 Behandlungsraum über mindestens einen von anderen Unterkunftsräumen
@@ -1096,6 +1130,7 @@ Rufanlage oder einem Telefon nach Absatz 3 vorhanden ist.
 
 
 #### § 24 Eingriffsraum
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002600000)
 
 Schiffe, die nach Maßgabe der Schiffsbesetzungsverordnung mit einem
 Schiffsarzt zu besetzen sind, müssen neben dem Behandlungsraum und dem
@@ -1106,9 +1141,11 @@ entsprechen.
 
 
 ### Unterabschnitt 8 - Büroräume
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG001100000)
 
 
 #### § 25 Büroräume
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002700000)
 
 Auf Schiffen müssen von anderen Unterkunftsräumen getrennte Büroräume
 oder ein gemeinsames Schiffsbüro für den Decksdienst und den
@@ -1118,9 +1155,11 @@ Ausnahmen von Satz 1 zulassen.
 
 
 ### Unterabschnitt 9 - Sonstige Einrichtungen und Freizeitbereiche
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG001200000)
 
 
 #### § 26 Einrichtungen zur Wäschepflege
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002800000)
 
 (1) Folgende Einrichtungen zur Wäschepflege müssen für
 Besatzungsmitglieder vorhanden sein, soweit die Betriebsumstände dies
@@ -1145,6 +1184,7 @@ mit angemessener Lüftung und Heizung vorzusehen.
 
 
 #### § 27 Einrichtungen zur Aufbewahrung von Kleidung und persönlichen Gegenständen, Umkleideeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE002900000)
 
 (1) Außerhalb der Schlafräume muss ein gut belüfteter Raum mit
 verschließbaren Einrichtungen für das Aufbewahren von persönlicher
@@ -1161,6 +1201,7 @@ Duschen ausgestattet sind.
 
 
 #### § 28 Freizeitbereiche und Freizeiträume
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE003000000)
 
 (1) Für Besatzungsmitglieder sind ein oder mehrere Freizeitbereiche an
 Deck vorzusehen. Die Freizeitbereiche müssen so gelegen oder
@@ -1220,9 +1261,11 @@ entsprechend ausgestattet sind.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG001300000)
 
 
 ### § 29 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE003100000)
 
 Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des
 Seearbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1238,9 +1281,11 @@ Seearbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNG001400000)
 
 
 ### § 30 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE003200000)
 
 (1) Abweichend von § 1 sind auf Schiffe, die vor dem 1. August 2013
 auf Kiel gelegt worden sind, die folgenden Rechtsvorschriften
@@ -1310,6 +1355,7 @@ wechselt, muss,
 
 
 ### § 31 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE003300000)
 
 Diese Verordnung tritt am 1. November 2019 in Kraft. Gleichzeitig
 tritt die See-Unterkunftsverordnung vom 25. Juli 2013 (BAnz AT
@@ -1318,6 +1364,7 @@ tritt die See-Unterkunftsverordnung vom 25. Juli 2013 (BAnz AT
 (zu § 22 Absatz 3)
 
 ### Anlage 1 Apothekenschrank für die Aufbewahrung der medizinischen Ausstattung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seeunterkunftsv_2019/BJNR145300019.html#BJNR145300019BJNE003400000)
 
 (Fundstelle: BGBl. I 2019, 1463)
 

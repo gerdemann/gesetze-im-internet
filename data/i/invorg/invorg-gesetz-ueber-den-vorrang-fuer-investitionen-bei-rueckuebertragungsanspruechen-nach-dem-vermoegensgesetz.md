@@ -25,10 +25,12 @@ Zuletzt geändert durch
 Stand: Das G ist gem. Art. 15 G III-19-2 v. 14.7.1992 I 1257 am 22.7.1992 in Kraft getreten.
 
 ## Abschnitt 1 - Vorrang für Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000101307)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE000801307)
 
 Grundstücke, Gebäude und Unternehmen, die Gegenstand von
 Rückübertragungsansprüchen nach dem Vermögensgesetz sind oder sein
@@ -39,6 +41,7 @@ dieses Gesetzes.
 
 
 ### § 2 Aussetzung der Verfügungsbeschränkung, investive Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE000902307)
 
 (1) § 3 Abs. 3 bis 5 des Vermögensgesetzes ist nicht anzuwenden, wenn
 der Verfügungsberechtigte
@@ -94,6 +97,7 @@ anzuwenden.
 
 
 ### § 3 Besonderer Investitionszweck
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001002307)
 
 (1) Ein besonderer Investitionszweck liegt bei Grundstücken und
 Gebäuden vor, wenn sie verwendet werden zur
@@ -169,10 +173,12 @@ ohne daß eine Rückübertragung erfolgt ist.
 
 
 ## Abschnitt 2 - Erteilung des Investitionsvorrangbescheids
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000201307)
 
 
 
 ### § 4 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001103301)
 
 (1) Die nach Absatz 2 zuständige Stelle stellt fest, ob die in den §§
 1 bis 3 genannten Voraussetzungen für das beabsichtigte Vorhaben
@@ -223,6 +229,7 @@ beteiligt.
 
 
 ### § 5 Anhörung des Anmelders
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001202307)
 
 (1) Vor Erteilung des Investitionsvorrangbescheids hat die zuständige
 Stelle dem Amt zur Regelung offener Vermögensfragen und, soweit ein
@@ -259,6 +266,7 @@ Erfolg des geplanten Vorhabens gefährden würde.
 
 
 ### § 6 Unterrichtung der Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001302310)
 
 Soweit ein Grundstück nach diesem Gesetz veräußert wird, besteht kein
 Vorkaufsrecht der Gemeinde nach den Vorschriften des
@@ -267,6 +275,7 @@ entfällt.
 
 
 ### § 7 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001402307)
 
 (1) Nach Abschluß ihrer Prüfung entscheidet die zuständige Stelle, ob
 der Investitionsvorrangbescheid für das beabsichtigte Vorhaben zu
@@ -291,10 +300,12 @@ gebunden, sofern der Anspruch im übrigen bestehen würde.
 
 
 ## Abschnitt 3 - Investitionsvorrangbescheid und investiver Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000301307)
 
 
 
 ### § 8 Inhalt des Investitionsvorrangbescheids und des investiven Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001501307)
 
 (1) In dem Investitionsvorrangbescheid wird festgestellt, daß § 3 Abs.
 3 bis 5 des Vermögensgesetzes für den betroffenen Vermögenswert nicht
@@ -337,6 +348,7 @@ Unternehmen veräußert oder verpachtet werden.
 
 
 ### § 9 Bekanntgabe des Investitionsvorrangbescheids
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001601307)
 
 (1) Der Investitionsvorrangbescheid ist den bekannten Anmeldern
 zuzustellen, und zwar auch dann, wenn sie auf ihre Anhörung verzichtet
@@ -365,6 +377,7 @@ b)  zwei Wochen seit der Bekanntmachung gemäß Buchstabe a verstrichen
 
 
 ### § 10 Vollziehung des Investitionsvorrangbescheids
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001701307)
 
 Der Investitionsvorrangbescheid darf nicht vor Ablauf von zwei Wochen
 ab seiner Bekanntgabe vollzogen werden. Er darf nicht mehr vollzogen
@@ -376,6 +389,7 @@ eingewiesen worden ist.
 
 
 ### § 11 Wirkung des Investitionsvorrangbescheids
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001803301)
 
 (1) Der Investitionsvorrangbescheid ersetzt die
 Grundstücksverkehrsgenehmigung nach der Grundstücksverkehrsordnung und
@@ -418,6 +432,7 @@ festgestellt werden.
 
 
 ### § 12 Rechtsschutz und Sicherung von Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE001902307)
 
 (1) Gegen den Investitionsvorrangbescheid ist, wenn die nächsthöhere
 Behörde nicht eine oberste Landes- oder Bundesbehörde ist, der
@@ -461,10 +476,12 @@ Ansprüche auf Rückübertragung und Wertersatz bestehen nicht, wenn
 
 
 ## Abschnitt 4 - Durchführung der Investition und Rückabwicklung fehlgeschlagener Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000401307)
 
 
 
 ### § 13 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002002307)
 
 (1) Die investiven Maßnahmen sind fristgemäß durchzuführen. Bei
 Unternehmen und den für diese benötigten Grundstücken genügt es, wenn
@@ -483,6 +500,7 @@ werden.
 
 
 ### § 14 Verlängerung der Durchführungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002102307)
 
 (1) Die Frist zur Durchführung des Vorhabens kann durch die zuständige
 Behörde auf Antrag des Vorhabenträgers nach Anhörung des Anmelders
@@ -510,6 +528,7 @@ werden.
 
 
 ### § 15 Widerruf des Investitionsvorrangbescheids
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002202307)
 
 (1) Wird das Vorhaben auf einem Grundstück oder an einem Gebäude nicht
 fristgemäß oder nicht innerhalb der nach § 14 Abs. 1 verlängerten
@@ -554,10 +573,12 @@ bestandskräftig abgelehnt worden ist.
 
 
 ## Abschnitt 5 - Ausgleich für den Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000501307)
 
 
 
 ### § 16 Anspruch des Berechtigten auf den Gegenwert des Vermögensgegenstandes
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002304301)
 
 (1) Ist dem Verfügungsberechtigten infolge seiner Veräußerung die
 Rückübertragung des Vermögenswertes nicht möglich, so kann jeder
@@ -627,6 +648,7 @@ Gläubigers nach § 415 des Bürgerlichen Gesetzbuchs nicht.
 
 
 ### § 17 Wahlrecht des Berechtigten, Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002402307)
 
 (1) Soweit dem Berechtigten nach anderen Vorschriften eine
 Entschädigung zusteht, kann er diese wahlweise anstelle der in § 16
@@ -638,10 +660,12 @@ diesem Gesetz erforderlich sind.
 
 
 ## Abschnitt 6 - Besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000601307)
 
 
 
 ### § 18 Vorhaben in Vorhaben- und Erschließungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002501307)
 
 (1) § 3 Abs. 3 bis 5 des Vermögensgesetzes ist ferner für Vorhaben
 nicht anzuwenden, die Gegenstand eines Vorhaben- und
@@ -690,6 +714,7 @@ Beschluß ist unanfechtbar.
 
 
 ### § 19 Öffentliches Bieterverfahren
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002601307)
 
 (1) Ist ein Antrag nach § 21 nicht gestellt, so können öffentlich-
 rechtliche Gebietskörperschaften und die Treuhandanstalt
@@ -743,6 +768,7 @@ Verfügungsberechtigten zu richten.
 
 
 ### § 20 Vorhaben auf mehreren Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002701307)
 
 (1) Soll ein zusammenhängendes Vorhaben auf mehreren Grundstücken
 verwirklicht werden, die Gegenstand von Rückübertragungsansprüchen
@@ -770,6 +796,7 @@ Maßnahmen dem Gesamtvorhaben vergleichbar sind.
 
 
 ### § 21 Investitionsantrag des Anmelders
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002802307)
 
 (1) Unterbreitet der Anmelder dem Verfügungsberechtigten über ein
 Grundstück oder Gebäude ein Angebot für eine Maßnahme nach den §§ 2
@@ -817,6 +844,7 @@ werden.
 
 
 ### § 21a Modernisierung von Wohnraum im vereinfachten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003403301)
 
 (1) Ein Investitionsvorrangbescheid ist auch zu erteilen, wenn der
 Verfügungsberechtigte durch einen Fachbetrieb oder eigene Fachkräfte
@@ -869,6 +897,7 @@ Gesetzbuchs entsprechend.
 
 
 ### § 21b Vereinfachte Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003502301)
 
 (1) Durch einen Investitionsvorrangbescheid, der eine Verpflichtung
 zur Durchführung von Investitionsmaßnahmen nicht enthält, kann einem
@@ -941,10 +970,12 @@ wenn der Erwerber nicht rückübertragungsberechtigt ist.
 
 
 ## Abschnitt 7 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNG000701307)
 
 
 
 ### § 22 Grundstücke und Gebäude nach Liste C
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE002901307)
 
 Dieses Gesetz gilt nicht für Grundstücke und Gebäude, deren Grundakten
 mit einem Vermerk über die Eintragung in die Liste zu Abschnitt C der
@@ -957,6 +988,7 @@ Synagoge oder Friedhof einer jüdischen Gemeinde zu erkennen sind.
 
 
 ### § 23 Gerichtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003001307)
 
 (1) Für Streitigkeiten aus dem investiven Vertrag und nach § 16 ist,
 soweit nicht durch Bescheid entschieden wird, der ordentliche
@@ -976,6 +1008,7 @@ Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
 
 ### § 24 Zuständigkeitsregelungen, Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003101307)
 
 (1) Mehrere zuständige Stellen können durch einen öffentlich-
 rechtlichen Vertrag (§ 54 des Verwaltungsverfahrensgesetzes)
@@ -998,6 +1031,7 @@ eine oberste Landesbehörde übertragen.
 
 
 ### § 25 Sonderregelungen für die Treuhandanstalt
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003202301)
 
 (1) Die Treuhandanstalt handelt bei Vermögenswerten, die im Eigentum
 einer Kapitalgesellschaft stehen, deren sämtliche Geschäftsanteile
@@ -1022,6 +1056,7 @@ zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S.
 
 
 ### § 26 Anwendbarkeit anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003301307)
 
 Für das Verfahren zur Erteilung des Investitionsvorrangbescheids sind
 bis zum Erlaß entsprechender landesrechtlicher Bestimmungen auch durch
@@ -1031,6 +1066,7 @@ anzuwenden, soweit nichts anderes bestimmt ist.
 
 
 ### § 27 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003601307)
 
 Ein Verfahren nach diesem Gesetz kann bis zum Ablauf des 31. Dezember
 1998 eingeleitet werden. Satz 1 gilt nicht für Verfahren nach den §§
@@ -1043,6 +1079,7 @@ Vorschriften.
 
 
 ### § 28 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003701307)
 
 (1) Investitionsbescheinigungen nach dem Investitionsgesetz in der
 Fassung des Gesetzes vom 22. März 1991 (BGBl. I S. 766) und
@@ -1074,6 +1111,7 @@ ist.
 
 
 ### § 29 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/invorg/BJNR012680992.html#BJNR012680992BJNE003801377)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem

@@ -39,10 +39,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000200000)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000202119)
 
 (1) Diese Verordnung gilt für Sportboote und Wassermotorräder, die der
 Richtlinie 2013/53/EU des Europäischen Parlaments und des Rates vom
@@ -89,6 +91,7 @@ Verhaltenspflichten bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000304119)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -186,10 +189,12 @@ der jeweils geltenden Fassung anzuwenden.
 
 
 ## Abschnitt 2 - Inbetriebnahme von Sportbooten oder Wassermotorrädern
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000300000)
 
 
 
 ### § 3 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000403126)
 
 Soweit Sportboote, die nach dem 15. Juni 1998 erstmals auf den Markt
 der Europäischen Gemeinschaft oder der Europäischen Union oder eines
@@ -203,6 +208,7 @@ Wassermotorräder vorgeschriebenen CE-Kennzeichnung versehen sind.
 
 
 ### § 4 Kennzeichnung von Wassermotorrädern im Inland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000503124)
 
 (1) Wassermotorräder dürfen nur in Betrieb genommen werden, wenn sie
 mit einem gültigen amtlichen Kennzeichen nach § 4 Abs. 1 in Verbindung
@@ -230,10 +236,12 @@ gemeinnützig anerkannten Körperschaft gekennzeichnet sind.
 
 
 ## Abschnitt 3 - Vermietung von Sportbooten oder Wassermotorrädern im Inland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000400000)
 
 
 
 ### § 5 Bootszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000602124)
 
 (1) Das Bootszeugnis (Anlage 1) wird auf Antrag des Unternehmers
 erteilt. Es wird auf die Dauer von zwei Jahren, bei Werftneubauten auf
@@ -273,6 +281,7 @@ kann auf Antrag ein Bootszeugnis erteilt werden.
 
 
 ### § 6 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000701126)
 
 (1) Die Erteilung eines Bootszeugnisses setzt eine Untersuchung des
 Sportbootes oder Wassermotorrades durch die Zulassungsbehörde voraus.
@@ -356,6 +365,7 @@ der Angaben nach den Absätzen 4 und 6 verlangen.
 
 
 ### § 7 Vermietung
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000800000)
 
 Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
@@ -378,6 +388,7 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
 
 ### § 8 Amtliche Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE000901308)
 
 (1) Der Unternehmer muss bei vermieteten Sportbooten vor
 Inbetriebnahme auf der Innenseite deutlich sicht- und lesbar Name und
@@ -407,6 +418,7 @@ des Unternehmers dauerhaft anbringen.
 
 
 ### § 9 Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001001126)
 
 (1) Der Unternehmer hat das Sportboot oder Wassermotorrad und seine
 Ausrüstung stets in verkehrssicherem Zustand zu erhalten. Ein
@@ -434,6 +446,7 @@ der Berufsgenossenschaft oder der anerkannten Organisation beizufügen.
 
 
 ### § 10 Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001100000)
 
 (1) Der Unternehmer hat die Betriebsstätte, an der er Sportboote oder
 Wassermotorräder zur Vermietung anbieten will, so rechtzeitig vor der
@@ -456,6 +469,7 @@ Hafens, der Brücke und der Nummer des Liegeplatzes anzuzeigen.
 
 
 ### § 11 Pflichten des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001203118)
 
 (1) Der Unternehmer darf ein Sportboot oder Wassermotorrad nicht
 übergeben an
@@ -535,6 +549,7 @@ gilt nicht im Falle des § 10 Abs. 2.
 
 
 ### § 12 Pflichten der Mieter und Bootsführer
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001300000)
 
 (1) Ein Mieter darf ein Sportboot oder Wassermotorrad nicht Personen
 zum selbstständigen Gebrauch überlassen, an die eine Übergabe nach §
@@ -567,6 +582,7 @@ nicht möglich ist, an einer geschützten Stelle des Ufers anlegt.
 
 
 ### § 13 Beschränkungen und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001401305)
 
 Wenn die örtlichen Verhältnisse der Gewässer oder die Sicherheit und
 Leichtigkeit der Schifffahrt es erfordern oder gestatten, kann die
@@ -577,10 +593,12 @@ zulassen.
 
 
 ## Abschnitt 4 - Gewerbsmäßige Folgenutzung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000501119)
 
 
 
 ### § 14 Sicherheitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001503119)
 
 (1) Ein Wasserfahrzeug, das zu Sport- und Freizeitzwecken gebaut oder
 gewidmet wurde, unterliegt den Bestimmungen der
@@ -598,6 +616,7 @@ des Teil 6 der Anlage 1a der Schiffssicherheitsverordnung nicht.
 
 
 ### § 15 Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001606119)
 
 (1) Wer ein Wasserfahrzeug im Sinne des § 14 Absatz 2 führt, bedarf
 einer Fahrerlaubnis sowie eines für die Funkstelle ausreichenden
@@ -641,10 +660,12 @@ Sicherheitszeugnis nach dem 30. November 2024 erneuert wird.
 
 
 ## Abschnitt 5 - Schlussvorschriften für Sportboote und Wassermotorräder im Inland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000600000)
 
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001704119)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -775,6 +796,7 @@ Wasserstraßen und Schifffahrt übertragen.
 
 
 ### § 17 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001801308)
 
 Für die Überwachung der §§ 3 bis 15 dieser Verordnung sind die
 Schifffahrtspolizeibehörden zuständig. Die Überwachung der §§ 5 bis 13
@@ -786,10 +808,12 @@ Seeaufgabengesetzes) sowie der Bundespolizei und der Zollverwaltung.
 
 
 ## Abschnitt 6 - Sportboote unter deutscher Flagge im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNG000700000)
 
 
 
 ### § 18 Vermietung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE001902126)
 
 (1) Für Sportboote unter deutscher Flagge, die im Ausland vermietet
 werden, sind § 5 Abs. 1 bis 3 sowie Abs. 4 Satz 1 Nr. 1 und Satz 2, §§
@@ -821,6 +845,7 @@ Sicherheitszeugnis vorschreibt.
 
 
 ### § 19 Gewerbsmäßige Folgenutzung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE002001119)
 
 (1) Für ein Wasserfahrzeug unter deutscher Flagge, das zu Sport- und
 Freizeitzwecken gebaut oder gewidmet wurde, gilt § 14 auch im Fall der
@@ -838,6 +863,7 @@ Schiffssicherheitsverordnung.
 
 
 ### Anlage 1 (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE002101305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
@@ -1347,6 +1373,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 (zu § 6 Abs. 1)
 
 ### Anlage 2 Untersuchungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE002200000)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3467
 
@@ -1478,6 +1505,7 @@ Deutschen Segler-Verbandes in der jeweils neuesten Fassung.
 
 
 ### Anlage 3 (zu § 6 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE002301305)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3468 - 3476
 Abnahmeprotokoll für
@@ -2020,6 +2048,7 @@ I
 (zu § 15 Absatz 3)
 
 ### Anlage 4 Besetzung von gewerbsmäßig genutzten Sportbooten
+[Direktlink](https://www.gesetze-im-internet.de/seespbootv/BJNR345710002.html#BJNR345710002BJNE002404119)
 
 (Fundstelle: BGBl. I 2010, 574;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

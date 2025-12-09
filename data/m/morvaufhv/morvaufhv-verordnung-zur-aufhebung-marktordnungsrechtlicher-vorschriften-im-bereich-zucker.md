@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/morvaufhv/BJNR229800010.html#BJNR229800010BJNE000100000)
 
 Es werden aufgehoben:
 
@@ -34,6 +35,7 @@ Es werden aufgehoben:
 
 
 ## § 2 Weiteranwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/morvaufhv/BJNR229800010.html#BJNR229800010BJNE000200000)
 
 Die Zucker-Lagerkostenausgleichs-Verordnung ist auf Sachverhalte, die
 vor dem 27. Dezember 2010 entstanden sind und deren Abwicklung weiter

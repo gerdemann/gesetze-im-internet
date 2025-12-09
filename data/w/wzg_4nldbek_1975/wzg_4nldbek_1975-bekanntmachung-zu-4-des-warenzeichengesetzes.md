@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1975/BJNR029110975.html#BJNR029110975BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -31,16 +32,19 @@ Königreich der Niederlande eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1975/BJNR029110975.html#BJNR029110975BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1975/BJNR029110975.html#BJNR029110975BJNE000200303)
 
 (Fundstelle: BGBl. I 1975, 2912)
 ![bgbl1_1975_j2912_0010.jpg](bgbl1_1975_j2912_0010.jpg)
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4nldbek_1975/BJNR029110975.html#BJNR029110975BJNE000300303)
 
 -
 

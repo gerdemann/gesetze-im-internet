@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000100000)
 
 Auf Grund des § 3 Absatz 1 Nummer 1 bis 3 und 5 bis 15 und des § 4
 Absatz 1 Satz 1 und 2 Nummer 1 Buchstabe a und b des
@@ -37,9 +38,11 @@ Landwirtschaft und Verbraucherschutz:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNG000100000)
 
 
 ### § 1 Züchtungs- und Haltungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000200000)
 
 Das Züchten und das Halten von sowie das Arbeiten mit folgenden
 Schadorganismen sind verboten:
@@ -57,6 +60,7 @@ Schadorganismen sind verboten:
 
 
 ### § 2 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000300000)
 
 (1) Der Verpflichtete nach Absatz 2 hat das Auftreten oder den
 Verdacht des Auftretens der in § 1 genannten Schadorganismen unter
@@ -96,6 +100,7 @@ Schadorganismus nach § 1 Kenntnis erhalten.
 
 
 ### § 3 Ausnahmen zu Versuchs- und Züchtungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000400000)
 
 (1) Die zuständige Behörde kann auf Antrag im Einzelfall Ausnahmen von
 § 1 für wissenschaftliche Untersuchungen zur Biologie oder zu
@@ -148,9 +153,11 @@ der Europäischen Union bleiben unberührt.
 
 
 ## Abschnitt 2 - Maßnahmen zur Bekämpfung des Kartoffelkrebses
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNG000200000)
 
 
 ### § 4 Abgrenzung und Aufhebung der Sicherheitszone
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000500000)
 
 (1) Wird auf einer Anbaufläche das Auftreten von Kartoffelkrebs
 festgestellt, so grenzt die zuständige Behörde eine Sicherheitszone
@@ -174,6 +181,7 @@ wird.
 
 
 ### § 5 Schutzmaßnahmen in der Sicherheitszone
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000601377)
 
 (1) In der Sicherheitszone dürfen
 
@@ -212,6 +220,7 @@ vorschreiben oder verbieten.
 
 
 ### § 6 Verwendung und Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000700000)
 
 Bei Befall mit Kartoffelkrebs haben der Verfügungsberechtigte und der
 Besitzer von Kartoffelknollen oder Kartoffelkraut die Knollen und das
@@ -225,9 +234,11 @@ vorschreiben oder verbieten.
 
 
 ## Abschnitt 3 - Maßnahmen zur Bekämpfung von Kartoffelzystennematoden
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNG000300000)
 
 
 ### § 7 Anforderungen an Felder für die Erzeugung von Pflanzen zum Anpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000800000)
 
 (1) Kartoffeln, die zur Erzeugung von Pflanzkartoffeln bestimmt sind,
 oder Pflanzen im Sinne des Anhangs I der Richtlinie 2007/33/EG des
@@ -291,6 +302,7 @@ Untersuchung nach Absatz 1 Satz 1 Nummer 2 notwendig.
 
 
 ### § 8 Untersuchung von Anbauflächen
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE000900000)
 
 (1) Flächen, auf denen Kartoffeln, die zur Erzeugung von
 Pflanzkartoffeln, auch zum Zwecke des Nachbaus, bestimmt sind, oder
@@ -327,6 +339,7 @@ vorliegen.
 
 
 ### § 9 Erhebungen zur Feststellung der Verbreitung von Kartoffelzystennematoden
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001000000)
 
 (1) Auf Kartoffelanbauflächen, die nicht zur Erzeugung von
 Pflanzkartoffeln bestimmt sind, führt die zuständige Behörde amtliche
@@ -346,6 +359,7 @@ Ernte der Kartoffeln durchzuführen.
 
 
 ### § 10 Amtliches Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001100000)
 
 (1) Die zuständige Behörde führt ein amtliches Verzeichnis, in das die
 Ergebnisse der Untersuchungen nach § 8 und der Erhebungen nach § 9 wie
@@ -387,6 +401,7 @@ das Verzeichnis gewähren.
 
 
 ### § 11 Maßnahmen bei Befall mit Kartoffelzystennematoden
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001201377)
 
 (1) Ist eine Fläche nach § 10 Absatz 1 Nummer 3 als Befallsfläche in
 das Verzeichnis eingetragen, so dürfen:
@@ -441,6 +456,7 @@ Bekämpfungsprogramme angebaut werden.
 
 
 ### § 12 Amtliches Bekämpfungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001300000)
 
 (1) Bei Befall mit Kartoffelzystennematoden entwickelt die zuständige
 Behörde ein Bekämpfungsprogramm auf der Grundlage der in Anlage 1
@@ -458,6 +474,7 @@ Kartoffelzystennematoden sein.
 
 
 ### § 13 Verwendung und Behandlung von kontaminierten Pflanzen
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001400000)
 
 (1) Partien von Kartoffeln oder Pflanzen zum Anpflanzen außer Samen,
 die von einer Befallsfläche stammen, oder die mit Erde in Berührung
@@ -484,6 +501,7 @@ Risiko der Verbreitung von Kartoffelzystennematoden besteht.
 
 
 ### § 14 Anforderung an Verarbeitungsbetriebe für Kartoffeln
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001500000)
 
 Kartoffeln zur industriellen Verarbeitung, Größensortierung oder
 Abpackung dürfen nur von solchen Betrieben verarbeitet, sortiert oder
@@ -507,6 +525,7 @@ werden.
 
 
 ### § 15 Ausnahmen für Nachbau
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001600000)
 
 (1) Abweichend von § 7 Absatz 1 Nummer 1 bis 3 dürfen Kartoffeln zur
 Erzeugung von Pflanzkartoffeln zum Zwecke des Nachbaus ohne amtliche
@@ -532,9 +551,11 @@ Untersuchungen durch die zuständige Behörde zu dulden.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNG000400000)
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001701377)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -585,6 +606,7 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zur Bekämpfung des Kartoffelkrebses
@@ -594,12 +616,14 @@ durch Artikel 3 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE001900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 12)
 
 ### Anlage 1 Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE002000000)
 
 (Fundstelle: BGBl. I 2010, 1388)
 
@@ -632,6 +656,7 @@ Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm sind:
 (zu § 14)
 
 ### Anlage 2 Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/kartkrebs_kartzystv/BJNR138300010.html#BJNR138300010BJNE002100000)
 
 (Fundstelle: BGBl. I 2010, 1388)
 

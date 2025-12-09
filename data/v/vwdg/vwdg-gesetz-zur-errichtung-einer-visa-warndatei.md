@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Führung und Zweck der Datei
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000200000)
 
 (1) Das Bundesverwaltungsamt führt eine Visa-Warndatei zur Vermeidung
 des Missbrauchs von Visa. Sie dient der Unterstützung
@@ -46,6 +47,7 @@ zu den in Absatz 1 genannten Zwecken verwenden.
 
 
 ## § 2 Anlass der Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000301116)
 
 (1) Die Speicherung der Warndaten erfolgt bei Personen,
 
@@ -119,6 +121,7 @@ einer Organisation.
 
 
 ## § 3 Inhalt der Datei
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000400000)
 
 (1) Zu Personen oder Organisationen nach § 2 werden folgende Warndaten
 gespeichert:
@@ -210,6 +213,7 @@ Daten übermittelt hat.
 
 
 ## § 4 Übermittelnde Stellen
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000501311)
 
 Folgende Stellen sind zur Übermittlung der in § 3 bezeichneten Daten
 an das Bundesverwaltungsamt verpflichtet:
@@ -237,6 +241,7 @@ an das Bundesverwaltungsamt verpflichtet:
 
 
 ## § 5 Verantwortung für die Übermittlung und die Datenrichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000601311)
 
 (1) Die in § 4 bezeichneten Stellen sind gegenüber dem
 Bundesverwaltungsamt für die Zulässigkeit der Übermittlung sowie für
@@ -275,6 +280,7 @@ Absätze 1 und 2 gelten entsprechend.
 
 
 ## § 6 Datenübermittlung an das Auswärtige Amt, das Bundesamt für Auswärtige Angelegenheiten und die deutschen Auslandsvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000701311)
 
 (1) Im Rahmen des Visumverfahrens werden auf Ersuchen des Auswärtigen
 Amts, des Bundesamts für Auswärtige Angelegenheiten oder der deutschen
@@ -294,6 +300,7 @@ des Bundeszentralregistergesetzes besitzen.
 
 
 ## § 7 Weitere Behörden, an die Warndaten übermittelt werden
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000800000)
 
 Das Bundesverwaltungsamt übermittelt die in § 3 Absatz 1 bis 3
 bezeichneten Daten auf Ersuchen an
@@ -332,6 +339,7 @@ gespeicherten Daten gilt § 6 Absatz 2 entsprechend.
 
 
 ## § 8 Voraussetzungen für die Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE000901311)
 
 (1) Die Übermittlung von Daten an eine der in § 6 Absatz 1 und § 7
 Satz 1 bezeichneten Stellen setzt ein Ersuchen unter Angabe des Zwecks
@@ -376,6 +384,7 @@ gewährleisten.
 
 
 ## § 9 Übermittlung und Veränderung von Daten durch Direkteingabe; Datenabruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001001311)
 
 (1) Die in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Stellen können auf
 Antrag zur Übermittlung von Daten durch Eingabe mit unmittelbarer
@@ -427,6 +436,7 @@ Behörde hierzu besonders ermächtigt sind.
 
 
 ## § 10 Zweckbindung und weitere Verarbeitung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001101311)
 
 Die ersuchende Behörde darf die übermittelten Daten nur zu dem Zweck
 verarbeiten, zu dem sie ihr übermittelt worden sind. Eine
@@ -434,6 +444,7 @@ Weiterübermittlung ist nicht zulässig.
 
 
 ## § 11 Protokollierungspflicht bei Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001200000)
 
 (1) Das Bundesverwaltungsamt protokolliert für Zwecke der
 Datenschutzkontrolle bei jedem Zugriff auf die Datei
@@ -499,6 +510,7 @@ nicht für ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
 
 ## § 12 Auskunft an die betroffene Person
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001302311)
 
 (1) In dem Antrag auf Auskunft nach Artikel 15 der Verordnung (EU)
 2016/679 muss die betroffene Person ihre Grundpersonalien angeben.
@@ -548,6 +560,7 @@ entsprechend.
 
 
 ## § 13 Berichtigung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001401311)
 
 (1) Das Bundesverwaltungsamt hat unrichtige oder unrichtig gewordene
 Daten unverzüglich nach Artikel 5 Absatz 1 Buchstabe d der Verordnung
@@ -584,6 +597,7 @@ ihrer Speicherung zu löschen.
 
 
 ## § 14 Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001501311)
 
 (1) Ergänzend zu Artikel 18 der Verordnung (EU) 2016/679 tritt an die
 Stelle der Löschung die Einschränkung der Verarbeitung, wenn Grund zu
@@ -601,6 +615,7 @@ werden.
 
 
 ## § 15 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001602311)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 mit Zustimmung des Bundesrates durch Rechtsverordnung Näheres zu
@@ -637,6 +652,7 @@ bestimmen
 
 
 ## § 16 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001700000)
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens der Länder kann nicht durch
@@ -644,6 +660,7 @@ Landesrecht abgewichen werden.
 
 
 ## § 17 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/vwdg/BJNR303710011.html#BJNR303710011BJNE001800000)
 
 Die Bundesregierung wird die Anwendung dieses Gesetzes drei Jahre nach
 seinem Inkrafttreten evaluieren.

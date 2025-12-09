@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000100305)
 
 Auf Grund des § 9 Abs. 1 und 6 und des § 193 Abs. 8 des Siebten Buches
 Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des
@@ -28,9 +29,11 @@ Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNG000100000)
 
 
 ### § 1 Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000202131)
 
 (1) Berufskrankheiten sind die in der Anlage 1 bezeichneten
 Krankheiten, die Versicherte infolge einer den Versicherungsschutz
@@ -49,6 +52,7 @@ Einwirkungen, einschließlich vorhandener Dosismaße.
 
 
 ### § 2 Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000300305)
 
 Für Versicherte in Unternehmen der Seefahrt erstreckt sich die
 Versicherung gegen Tropenkrankheiten und Fleckfieber auch auf die
@@ -56,6 +60,7 @@ Zeit, in der sie an Land beurlaubt sind.
 
 
 ### § 3 Maßnahmen gegen Berufskrankheiten, Übergangsleistung
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000400305)
 
 (1) Besteht für Versicherte die Gefahr, daß eine Berufskrankheit
 entsteht, wiederauflebt oder sich verschlimmert, haben die
@@ -85,6 +90,7 @@ berücksichtigen.
 
 
 ### § 4 Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000501301)
 
 (1) Die für den medizinischen Arbeitsschutz zuständigen Stellen wirken
 bei der Feststellung von Berufskrankheiten und von Krankheiten, die
@@ -121,6 +127,7 @@ der Unfallversicherungsträger mit Untersuchungen beauftragen.
 
 
 ### § 5 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000602308)
 
 (1) Erstellen die für den medizinischen Arbeitsschutz zuständigen
 Stellen ein Zusammenhangsgutachten nach § 4 Abs. 4, erhalten sie von
@@ -149,6 +156,7 @@ vornimmt.
 
 
 ### § 6 Rückwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000704119)
 
 (1) Leiden Versicherte am 1. August 2017 an einer Krankheit nach den
 Nummern 1320, 1321, 2115, 4104 (Eierstockkrebs) oder 4113
@@ -211,9 +219,11 @@ zu rechnen, in dem der Antrag gestellt worden ist.
 
 
 ## Abschnitt 2 - Ärztlicher Sachverständigenbeirat Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNG000200360)
 
 
 ### § 7 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE000802360)
 
 Der Ärztliche Sachverständigenbeirat Berufskrankheiten
 (Sachverständigenbeirat) ist ein wissenschaftliches Gremium, das das
@@ -223,6 +233,7 @@ Stellungnahmen zu bestehenden Berufskrankheiten unterstützt.
 
 
 ### § 8 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001700360)
 
 (1) Der Sachverständigenbeirat besteht in der Regel aus zwölf
 Mitgliedern, die vom Bundesministerium für Arbeit und Soziales für die
@@ -262,6 +273,7 @@ beenden.
 
 
 ### § 9 Durchführung der Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001300360)
 
 (1) Zur Durchführung seiner Aufgaben tritt der Sachverständigenbeirat
 zu Sitzungen zusammen. Das Bundesministerium für Arbeit und Soziales
@@ -293,6 +305,7 @@ vertraulich.
 
 
 ### § 10 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001400360)
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die
 Geschäfte des Sachverständigenbeirats. Sie unterstützt die Arbeit des
@@ -311,6 +324,7 @@ Ergebnisniederschriften der einzelnen Sitzungen.
 
 
 ### § 11 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001500360)
 
 (1) Der Sachverständigenbeirat gibt sich eine Geschäftsordnung, die
 der Zustimmung des Bundesministeriums für Arbeit und Soziales bedarf
@@ -323,9 +337,11 @@ Sachverständiger geregelt.
 
 
 ## Abschnitt 3 - Übergangsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNG000300360)
 
 
 ### § 12 Überprüfung früherer Bescheide
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001600360)
 
 Bescheide, in denen eine Krankheit nach Nummer 1315, 2101, 2104, 2108
 bis 2110, 4301, 4302 oder 5101 der Anlage 1 von einem
@@ -337,11 +353,13 @@ Bescheide nach dem 1. Januar 1997 erlassen worden sind.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001001360)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001107131)
 
 (Fundstelle: BGBl. I 1997, 2625 - 2626;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -977,6 +995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2 Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
+[Direktlink](https://www.gesetze-im-internet.de/bkv/BJNR262300997.html#BJNR262300997BJNE001200308)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 1274 - 1276)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000100000)
 
 Die Bundesregierung verordnet aufgrund
 
@@ -46,28 +47,33 @@ Die Bundesregierung verordnet aufgrund
 
 
 ## § 1 Aktueller Rentenwert in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000200000)
 
 Der aktuelle Rentenwert beträgt ab dem 1. Juli 2025 40,79 Euro.
 
 
 ## § 2 Ausgleichsbedarf in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000300000)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2025 1,0000.
 
 
 ## § 3 Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000400000)
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2025 48,00
 Prozent.
 
 
 ## § 4 Allgemeiner Rentenwert in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000500000)
 
 Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt
 ab dem 1. Juli 2025 18,83 Euro.
 
 
 ## § 5 Anpassung der Geldleistungen in der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000600000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2025 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -81,11 +87,13 @@ Euro monatlich.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2025 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2025/BJNR0940A0025.html#BJNR0940A0025BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Konsolidierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/konshilfg/BJNR270500009.html#BJNR270500009BJNE000100000)
 
 (1) Als Hilfe zur Einhaltung der Vorgaben des Artikels 109 Absatz 3
 des Grundgesetzes ab dem 1. Januar 2020 können die Länder Berlin,
@@ -73,6 +74,7 @@ ausgeschlossen.
 
 
 ## § 2 Konsolidierungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/konshilfg/BJNR270500009.html#BJNR270500009BJNE000200000)
 
 (1) Die in § 1 Absatz 1 genannten Länder, die 2010 ein
 Finanzierungsdefizit aufweisen, sind im Zeitraum 2011 bis 2020 zu
@@ -109,6 +111,7 @@ Konsolidierungshilfe für dieses Jahr entfällt.
 
 
 ## § 3 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/konshilfg/BJNR270500009.html#BJNR270500009BJNE000300000)
 
 Die sich aus der Gewährung der Konsolidierungshilfen ergebende
 Finanzierungslast wird hälftig von Bund und Ländern getragen. Der
@@ -119,6 +122,7 @@ von Bund und Ländern entsprechend.
 
 
 ## § 4 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/konshilfg/BJNR270500009.html#BJNR270500009BJNE000400000)
 
 Die Auszahlung der Konsolidierungshilfen erfolgt auf der Grundlage
 einer Verwaltungsvereinbarung, die das Nähere nach Maßgabe dieses

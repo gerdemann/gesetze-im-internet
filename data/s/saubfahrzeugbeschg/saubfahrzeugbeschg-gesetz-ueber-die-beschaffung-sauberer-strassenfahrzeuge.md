@@ -26,6 +26,7 @@ energieeffizienter Straßenfahrzeuge (ABl. L 188 vom 12.7.2019, S.
 
 
 ## § 1 Allgemeiner Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000100000)
 
 (1) Dieses Gesetz regelt Mindestziele und deren Sicherstellung bei der
 Beschaffung bestimmter Straßenfahrzeuge und Dienstleistungen, für die
@@ -38,6 +39,7 @@ Vorschriften anzuwenden.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000201125)
 
 Im Sinne dieses Gesetzes ist
 
@@ -189,6 +191,7 @@ Euro VI oder neuer typgenehmigt sein.
 
 
 ## § 3 Sachlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000300000)
 
 Dieses Gesetz gilt für die Beschaffung bestimmter Straßenfahrzeuge und
 Dienstleistungen durch öffentliche Auftraggeber und
@@ -250,6 +253,7 @@ Sektorenauftraggeber durch
 
 
 ## § 4 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000400000)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf
 
@@ -355,6 +359,7 @@ Fahrzeuge
 
 
 ## § 5 Einhaltung von Mindestzielen
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000501125)
 
 (1) Öffentliche Auftraggeber und Sektorenauftraggeber haben bei der
 Beschaffung von Fahrzeugen und Dienstleistungen die für den jeweiligen
@@ -392,6 +397,7 @@ betroffenen Ländern geregelt werden.
 
 
 ## § 6 Geltung und Berechnung von Mindestzielen
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000601125)
 
 (1) Bei der Beschaffung sauberer leichter Nutzfahrzeuge gelten für den
 Referenzzeitraum vom 2. August 2021 bis zum 31. Dezember 2025 sowie
@@ -472,6 +478,7 @@ festgelegten Mindestziele fort.
 
 
 ## § 7 Aufgaben des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000701125)
 
 (1) Der Bund und die Länder stellen in ihrem jeweiligen
 Zuständigkeitsbereich sicher, dass die öffentlichen Auftraggeber und
@@ -491,6 +498,7 @@ einem Übertreffen der Mindestziele.
 
 
 ## § 8 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000800000)
 
 (1) Die öffentlichen Auftraggeber und die Sektorenauftraggeber haben
 bis zum Ablauf des 24. Oktober 2023 zu den Beschaffungen in denjenigen
@@ -566,6 +574,7 @@ Rechtsverordnung nach § 9 Absatz 3 Nummer 2 bestimmt werden.
 
 
 ## § 9 Berichterstattung und Datenübermittlung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE000901125)
 
 (1) Das Bundesministerium für Digitales und Verkehr legt im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
@@ -651,6 +660,7 @@ sicherzustellen, dass
 
 
 ## § 10 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE001001125)
 
 (1) Dieses Gesetz gilt für Beschaffungen im Sinne des § 3, deren
 Auftragsbekanntmachung nach dem 2. August 2021 veröffentlicht wird
@@ -687,6 +697,7 @@ weiter anzuwenden.
 (zu § 2 Nummer 4, § 6 Absatz 1)
 
 ## Anlage 1 Emissionsgrenzwerte für saubere leichte Nutzfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE001100000)
 
 (Fundstelle: BGBl. I 2021, 1696)
 
@@ -781,6 +792,7 @@ weiter anzuwenden.
 (zu § 3 Nummer 3)
 
 ## Anlage 2 Codes des gemeinsamen Vokabulars (CPV) für Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/saubfahrzeugbeschg/BJNR169110021.html#BJNR169110021BJNE001200000)
 
 (Fundstelle: BGBl. I 2021, 1697)
 

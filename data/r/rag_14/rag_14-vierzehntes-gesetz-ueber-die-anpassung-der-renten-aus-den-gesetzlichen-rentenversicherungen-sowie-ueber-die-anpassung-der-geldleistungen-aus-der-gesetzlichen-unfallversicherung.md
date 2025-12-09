@@ -19,16 +19,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE000600314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE000700314)
 
 (1) In den gesetzlichen Rentenversicherungen werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1971 die
@@ -49,6 +52,7 @@ Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE000800314)
 
 (1) Renten, die nach den
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
@@ -95,6 +99,7 @@ Neuregelungsgesetzes gezahlt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE000900314)
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder Artikel 2 §§ 31
@@ -216,6 +221,7 @@ Deutsche Mark tritt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001000314)
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
 wie sie sich ergeben würde, wenn der nach § 5 zu ermittelnde
@@ -250,6 +256,7 @@ Absatz 1, auf die § 5 Abs. 1 Satz 3 anzuwenden ist.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001100314)
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 der Rentenzahlbetrag
 für Januar 1972 ohne Kinderzuschuß für jedes Kind und ohne
@@ -285,6 +292,7 @@ bestanden hätten.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001200314)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Rentenversicherung der Angestellten, die nach § 4 angepaßt werden,
@@ -327,6 +335,7 @@ nicht überschreiten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001300314)
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
 Angleichungsgesetzes Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402)
@@ -338,6 +347,7 @@ Versicherungszeiten ergeben würde.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001400314)
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 7
@@ -354,10 +364,12 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 
 
 ## Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegeldes aus der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNG000200314)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001500314)
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der
 Veränderungen der durchschnittlichen Bruttolohn- und -gehaltssumme
@@ -390,6 +402,7 @@ Jahresarbeitsverdienst zuletzt festgelegt worden ist.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001600314)
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
 einem mit 1,127 vervielfältigten Jahresarbeitsverdienst berechnet
@@ -405,6 +418,7 @@ zu zahlende Betrag mit 1,127 zu vervielfältigen ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001700314)
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
 Deutsche Mark nicht übersteigen, es sei denn, daß gemäß § 575 Abs. 2
@@ -414,10 +428,12 @@ von 36.000 Deutsche Mark der höhere Betrag.
 
 
 ## Dritter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNG000300314)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001800314)
 
 (1) Renten aus den Rentenversicherungen der Arbeiter und der
 Angestellten, die nach den §§ 2 und 3 anzupassen sind, Renten mit
@@ -449,6 +465,7 @@ Berechtigten die höhere Leistung zu gewähren.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE001900314)
 
 (1) Soweit bei
 den Leistungen der Kriegsopferfürsorge nach dem
@@ -479,6 +496,7 @@ geltenden Fassung anzuwenden ist.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE002000314)
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
 Höhe seiner Rente, die ihm vom 1. Januar 1972 an zusteht, zu geben.
@@ -496,19 +514,23 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ## Vierter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNG000400314)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE002100314)
 
 -
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNG000500314)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE002200314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -516,6 +538,7 @@ im Land Berlin.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/rag_14/BJNR012570971.html#BJNR012570971BJNE002300314)
 
 Die Vorschrift des § 15 tritt mit Wirkung vom 1. Januar 1972, die
 übrigen Vorschriften treten am Tag nach der Verkündung in Kraft.

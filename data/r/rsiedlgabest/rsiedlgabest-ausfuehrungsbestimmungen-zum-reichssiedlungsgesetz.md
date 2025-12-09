@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001600319)
 
 Gemäß § 26 des Reichssiedlungsgesetzes vom 11. August 1919
 (Reichsgesetzbl. Nr. 155 S. 1429) wird bestimmt:
 
 
 ## (XXXX) Zu § 1
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000100319)
 
 1\. Den Landeszentralbehörden bleibt die Bestimmung überlassen, welche
 Siedlungen als solche im Sinne des Reichssiedlungsgesetzes anzusehen
@@ -44,6 +46,7 @@ der staatlichen Aufsicht über das Siedlungswesen zu beteiligen ist.
 
 
 ## (XXXX) Zu § 2
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000200319)
 
 1\. Als Staatsdomänen im Sinne der Verordnung gelten sämtliche in
 Staatseigentum oder unter staatlicher Verwaltung stehende Güter, also
@@ -56,6 +59,7 @@ werden.
 
 
 ## (XXXX) Zu § 3
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000300319)
 
 Die Entscheidung darüber, was als unbewirtschaftetes oder im Wege der
 dauernden Brennkultur oder zur Torfnutzung verwendetes Moorland oder
@@ -64,6 +68,7 @@ Landeszentralbehörden.
 
 
 ## (XXXX) Zu § 4
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000400319)
 
 Der Begriff "Grundstück" ist im wirtschaftlichen Sinne zu verstehen
 und trifft jeden einheitlich bewirtschafteten landwirtschaftlichen
@@ -74,6 +79,7 @@ Zusammengehörigkeit.
 
 
 ## (XXXX) Zu § 7
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000500319)
 
 Den Ländern wird es überlassen, notfalls Verwaltungszwangsmaßnahmen
 festzusetzen, um die Besichtigungsbefugnis der Vorkaufsberechtigten zu
@@ -81,6 +87,7 @@ gewährleisten.
 
 
 ## (XXXX) Zu § 12
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000600319)
 
 1\. ... Zur Übertragung der Aufgaben der Landlieferungsverbände auf die
 gemeinnützigen Siedlungsunternehmungen ist deren Einverständnis
@@ -92,18 +99,21 @@ ersichtlich ist.
 
 
 ## (XXXX) Zu § 13
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000700319)
 
 Als bereitgestellt für Siedlungszwecke gilt Land, wenn dadurch
 Siedlungen im Sinne des § 1 des Gesetzes begründet werden.
 
 
 ## (XXXX) Zu § 15
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000800319)
 
 Bei Bemessung der Entschädigung sind etwaige Verbesserungen des Grund
 und Bodens, der Gebäude und des Inventars mitzuberücksichtigen.
 
 
 ## (XXXX) Zu § 16
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE000900319)
 
 1\. Über die Frage, auf welche Güter die Voraussetzungen des § 16
 zutreffen, entscheidet, sofern die Länder nichts anderes bestimmen,
@@ -123,6 +133,7 @@ angemessenem Preise (§ 13 Abs. 1 und 3) bereitstellen.
 
 
 ## (XXXX) Zu § 18
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001000319)
 
 Welche Kosten dem Erwerbspreis zugerechnet werden dürfen, bleibt der
 Vereinbarung zwischen den Landlieferungsverbänden und den
@@ -132,6 +143,7 @@ ständige Ausschuß (§ 15).
 
 
 ## (XXXX) Zu § 22
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001100319)
 
 1\. Inländische Arbeiter können als ständig beschäftigt angesehen
 werden, wenn sie mindestens ein Jahr ohne wesentliche Unterbrechung in
@@ -143,6 +155,7 @@ beschäftigt sind.
 
 
 ## (XXXX) Zu § 23
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001200319)
 
 Den Ländern bleiben Maßnahmen dahingehend überlassen, wie den gemäß §§
 22 bis 24 mit Pachtland versehenen Arbeitern auf Wunsch die Ansiedlung
@@ -150,6 +163,7 @@ zu Eigentum erleichtert werden kann.
 
 
 ## (XXXX) Zu § 24
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001300319)
 
 Den Ländern bleibt es überlassen, die Regelung der Rechtsbehelfe gegen
 die Festsetzung der Entschädigung entsprechend den §§ 3 und 15 zu
@@ -157,6 +171,7 @@ treffen.
 
 
 ## (XXXX) Zu § 25
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001400319)
 
 Den Ländern bleiben Maßnahmen dahingehend überlassen, soweit Land zur
 Hebung bestehender Kleinbetriebe nicht zu Eigentum zur Verfügung
@@ -166,11 +181,13 @@ daß die Domäne gemäß § 2 bei Ablauf des Pachtvertrags aufgeteilt wird.
 
 
 ## (XXXX) Zu § 26
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001500319)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rsiedlgabest/BJNR711430919.html#BJNR711430919BJNE001700319)
 
 Der Reichsarbeitsminister
 

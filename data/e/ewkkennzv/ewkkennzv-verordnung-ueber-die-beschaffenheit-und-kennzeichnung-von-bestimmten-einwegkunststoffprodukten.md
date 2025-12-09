@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000100000)
 
 Auf Grund des § 24 Nummer 2, 6 und 7 Buchstabe b und d in Verbindung
 mit § 67 des Kreislaufwirtschaftsgesetzes, von denen § 24 Nummer 2, 6
@@ -33,6 +34,7 @@ Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000200000)
 
 Diese Verordnung regelt die Beschaffenheit bestimmter
 Einwegkunststoffgetränkebehälter sowie die Kennzeichnung von
@@ -43,6 +45,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000300000)
 
 Für diese Verordnung gelten die Begriffsbestimmungen nach Artikel 1
 der Durchführungsverordnung (EU) 2020/2151 der Kommission vom 17.
@@ -102,6 +105,7 @@ ergänzend die folgenden Begriffsbestimmungen:
 
 
 ## § 3 Anforderung an die Beschaffenheit von bestimmten Einwegkunststoffgetränkebehältern
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000400000)
 
 (1) Getränkebehälter mit einem Füllvolumen von bis zu 3,0 Litern, die
 Einwegkunststoffprodukte sind und deren Verschlüsse oder Deckel ganz
@@ -143,6 +147,7 @@ dass sie die Anforderung nach Satz 1 erfüllen.
 
 
 ## § 4 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000500000)
 
 (1) Folgende Einwegkunststoffprodukte dürfen nur in Verkehr gebracht
 werden, wenn ihre Verkaufs- und Umverpackung wie folgt gekennzeichnet
@@ -182,6 +187,7 @@ Durchführungsverordnung (EU) 2020/2151 gekennzeichnet sind.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000600000)
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -189,6 +195,7 @@ entgegen § 3 Absatz 1 Satz 1 oder § 4 ein Produkt in Verkehr bringt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000700000)
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 am 3. Juli 2021 in
 Kraft. Erfolgt die Verkündung nach dem 3. Juli 2021, tritt die
@@ -196,6 +203,7 @@ Verordnung am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ewkkennzv/BJNR202400021.html#BJNR202400021BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

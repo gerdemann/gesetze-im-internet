@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000100000)
 
 
 
 ### § 1 Gegenstand des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000102116)
 
 (1) Es sind
 
@@ -53,6 +55,7 @@ Parlamentarische Kontrollgremium und durch eine besondere Kommission
 
 
 ### § 2 Pflichten der Anbieter von Post- und Telekommunikationsdiensten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000219311)
 
 (1) Wer geschäftsmäßig Postdienste erbringt oder an der Erbringung
 solcher Dienste mitwirkt, hat der berechtigten Stelle auf Anordnung
@@ -168,10 +171,12 @@ Sicherheitsüberprüfung abgesehen werden.
 
 
 ## Abschnitt 2 - Beschränkungen in Einzelfällen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000200000)
 
 
 
 ### § 3 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000311377)
 
 (1) Beschränkungen nach § 1 Abs. 1 Nr. 1 dürfen unter den dort
 bezeichneten Voraussetzungen angeordnet werden, wenn tatsächliche
@@ -260,6 +265,7 @@ die sich gegen einen Dritten richtet.
 
 
 ### § 3a Schutz des Kernbereichs privater Lebensgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002301311)
 
 (1) Beschränkungen nach § 1 Abs. 1 Nr. 1 sind unzulässig, soweit
 tatsächliche Anhaltspunkte für die Annahme vorliegen, dass durch sie
@@ -299,6 +305,7 @@ vorläufige Nutzung.
 
 
 ### § 3b Schutz zeugnisverweigerungsberechtigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002401311)
 
 (1) Maßnahmen nach § 1 Abs. 1 Nr. 1, die sich gegen eine in § 53
 Absatz 1 Satz 1 Nummer 1, 2, 3 oder Nummer 4 der Strafprozessordnung
@@ -339,6 +346,7 @@ unterstützt.
 
 
 ### § 4 Prüf-, Kennzeichnungs- und Löschungspflichten, Übermittlungen, Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE003300377)
 
 (1) Die erhebende Stelle prüft unverzüglich und sodann in Abständen
 von höchstens sechs Monaten, ob die erhobenen personenbezogenen Daten
@@ -424,6 +432,7 @@ Löschung.
 
 
 ### § 4a Weiterverarbeitung von Verkehrsdaten durch den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002900377)
 
 (1) Der Bundesnachrichtendienst darf erhobene Verkehrsdaten, bei denen
 für einen Teilnehmer der Kommunikation eine Beschränkung nach § 3
@@ -465,10 +474,12 @@ die oder der die Befähigung zum Richteramt hat, zu löschen. § 4 Absatz
 
 
 ## Abschnitt 3 - Strategische Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000300000)
 
 
 
 ### § 5 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000502116)
 
 (1) Auf Antrag des Bundesnachrichtendienstes dürfen Beschränkungen
 nach § 1 für internationale Telekommunikationsbeziehungen, soweit eine
@@ -560,6 +571,7 @@ Protokollierung folgt, zu löschen.
 
 
 ### § 5a Schutz des Kernbereichs privater Lebensgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002501311)
 
 Durch Beschränkungen nach § 1 Abs. 1 Nr. 2 dürfen keine
 Kommunikationsinhalte aus dem Kernbereich privater Lebensgestaltung
@@ -576,12 +588,14 @@ Feststellung nach § 12 Absatz 2 zu löschen.
 
 
 ### § 5b Schutz zeugnisverweigerungsberechtigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE003200377)
 
 Für den Schutz zeugnisverweigerungsberechtigter Personen gilt § 3b
 entsprechend.
 
 
 ### § 6 Prüf-, Kennzeichnungs- und Löschungspflichten, Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000604377)
 
 (1) Der Bundesnachrichtendienst prüft unverzüglich und sodann in
 Abständen von höchstens sechs Monaten, ob die erhobenen
@@ -716,6 +730,7 @@ gilt entsprechend.
 
 
 ### § 7 Übermittlungen durch den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002704377)
 
 (1) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
 dürfen an die Verfassungsschutzbehörden des Bundes und der Länder
@@ -748,6 +763,7 @@ Satz 4 und § 6 Abs. 1 Satz 2 und 3 gelten entsprechend.
 
 
 ### § 7a Übermittlungen durch den Bundesnachrichtendienst an ausländische öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002602377)
 
 (1) Der Bundesnachrichtendienst darf durch Beschränkungen nach § 5
 Absatz 1 Satz 3 Nummer 2, 3, 7 und 8 erhobene personenbezogene Daten
@@ -790,6 +806,7 @@ Absatz 1 und 2 zu unterrichten.
 
 
 ### § 8 Gefahr für Leib oder Leben einer Person im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000804377)
 
 (1) Auf Antrag des Bundesnachrichtendienstes dürfen Beschränkungen
 nach § 1 für internationale Telekommunikationsbeziehungen im Sinne des
@@ -849,10 +866,12 @@ begeht oder begangen hat.
 
 
 ## Abschnitt 4 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000400000)
 
 
 
 ### § 9 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE000902311)
 
 (1) Beschränkungsmaßnahmen nach diesem Gesetz dürfen nur auf Antrag
 angeordnet werden.
@@ -885,6 +904,7 @@ wäre.
 
 
 ### § 10 Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001004311)
 
 (1) Zuständig für die Anordnung von Beschränkungsmaßnahmen ist bei
 Anträgen der Verfassungsschutzbehörden der Länder die zuständige
@@ -929,6 +949,7 @@ ihrem Bereich getroffenen Beschränkungsanordnungen mit.
 
 
 ### § 11 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001101311)
 
 (1) Die aus der Anordnung sich ergebenden Beschränkungsmaßnahmen sind
 unter Verantwortung der Behörde, auf deren Antrag die Anordnung
@@ -1018,6 +1039,7 @@ Einsichtnahme berechtigten Stelle ist eine Abschrift des Telegramms zu
 
 
 ### § 12 Mitteilungen an Betroffene
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001201160)
 
 (1) Beschränkungsmaßnahmen nach § 3 sind dem Betroffenen nach ihrer
 Einstellung mitzuteilen. Die Mitteilung unterbleibt, solange eine
@@ -1055,6 +1077,7 @@ Mitteilung im Benehmen mit dem Empfänger.
 
 
 ### § 13 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001300000)
 
 Gegen die Anordnung von Beschränkungsmaßnahmen nach den §§ 3 und 5
 Abs. 1 Satz 3 Nr. 1 und ihren Vollzug ist der Rechtsweg vor der
@@ -1062,10 +1085,12 @@ Mitteilung an den Betroffenen nicht zulässig.
 
 
 ## Abschnitt 5 - Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000500000)
 
 
 
 ### § 14 Parlamentarisches Kontrollgremium
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001404311)
 
 (1) Das nach § 10 Abs. 1 für die Anordnung von Beschränkungsmaßnahmen
 zuständige Bundesministerium unterrichtet in Abständen von höchstens
@@ -1088,6 +1113,7 @@ erfolgt.
 
 
 ### § 15 G 10-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001505311)
 
 (1) Die G 10-Kommission besteht aus dem Vorsitzenden und vier
 Beisitzern sowie fünf stellvertretenden Mitgliedern, die an den
@@ -1168,6 +1194,7 @@ Kontrolltätigkeit aus.
 
 
 ### § 15a Eilanordnung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE003000311)
 
 (1) Das zuständige Bundesministerium kann bei Gefahr im Verzug in der
 Anordnung bestimmen, dass die Beschränkungsmaßnahme abweichend von
@@ -1214,6 +1241,7 @@ automatisiert zu löschen; § 4 Absatz 1 Satz 3 bis 7 gilt entsprechend.
 
 
 ### § 16 Parlamentarische Kontrolle in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001601377)
 
 Durch den Landesgesetzgeber wird die parlamentarische Kontrolle der
 nach § 10 Abs. 1 für die Anordnung von Beschränkungsmaßnahmen
@@ -1224,10 +1252,12 @@ Kontrolle ihrer Verarbeitung durch den Landesgesetzgeber geregelt ist.
 
 
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000600000)
 
 
 
 ### § 17 Mitteilungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001703311)
 
 (1) Wird die Telekommunikation nach diesem Gesetz oder nach den §§
 100a, 100e der Strafprozessordnung überwacht, darf diese Tatsache von
@@ -1247,12 +1277,14 @@ hieran mitwirken, anderen nicht mitgeteilt werden.
 
 
 ### § 18 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001800000)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 17 eine Mitteilung macht.
 
 
 ### § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE001904311)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1277,10 +1309,12 @@ Ordnungswidrigkeiten ist die nach § 10 Abs. 1 zuständige Stelle.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNG000700000)
 
 
 
 ### § 20 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002006311)
 
 Die nach § 1 Abs. 1 berechtigten Stellen haben für die Leistungen nach
 § 2 Absatz 1 und 1a eine Entschädigung zu gewähren, deren Umfang sich
@@ -1290,12 +1324,14 @@ deren Höhe sich an den nachgewiesenen tatsächlichen Kosten orientiert.
 
 
 ### § 21 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE002100000)
 
 Das Grundrecht des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10
 des Grundgesetzes) wird durch dieses Gesetz eingeschränkt.
 
 
 ### § 22 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/g10_2001/BJNR125410001.html#BJNR125410001BJNE003100311)
 
 Bis zur Neubestellung der G 10-Kommission nach § 15 Absatz 1 Satz 4
 ist

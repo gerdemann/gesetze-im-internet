@@ -21,17 +21,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000200328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000303118)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft und das
 Bundesministerium für Verkehr und digitale Infrastruktur werden
@@ -90,6 +93,7 @@ Fischereifahrzeuge.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000400328)
 
 Die Vorschriften der Anlage II des Übereinkommens in der jeweils
 geltenden Fassung, die auf Grund von Artikel 2 Abs. 3 erlassenen
@@ -102,6 +106,7 @@ Seeschiffahrtstraßen-Ordnung vom 7. Juli 1972 (Bundesgesetzbl. I S.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000504118)
 
 (1) Außerhalb der seewärtigen Begrenzung des Küstenmeeres der
 Bundesrepublik Deutschland wird die Überwachung der Einhaltung der
@@ -135,12 +140,14 @@ Strafgesetzbuches gleich.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000600328)
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000705118)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -214,6 +221,7 @@ Euro geahndet werden.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000800328)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -223,6 +231,7 @@ S. 1).
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/fischnat_bkg/BJNR200010976.html#BJNR200010976BJNE000900328)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

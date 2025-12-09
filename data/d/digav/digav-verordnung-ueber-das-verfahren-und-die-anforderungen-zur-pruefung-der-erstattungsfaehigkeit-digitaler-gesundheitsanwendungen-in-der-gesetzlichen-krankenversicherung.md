@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000100000)
 
 Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des
 Fünften Buches Sozialgesetzbuch, die durch Artikel 1 Nummer 23 des
@@ -32,9 +33,11 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## Abschnitt 1 - Antragsberechtigung und Antragsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000100000)
 
 
 ### § 1 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000200000)
 
 (1) Das Verfahren zur Aufnahme einer digitalen Gesundheitsanwendung in
 das Verzeichnis für digitale Gesundheitsanwendungen des
@@ -53,6 +56,7 @@ Antragstellung berechtigt.
 
 
 ### § 2 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000303311)
 
 (1) Der von dem Hersteller einer digitalen Gesundheitsanwendung bei
 dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende
@@ -217,9 +221,11 @@ Gesundheitsanwendungen bestimmt sind, erfolgen in deutscher Sprache.
 
 
 ## Abschnitt 2 - Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000200000)
 
 
 ### § 3 Anforderungen an Sicherheit und Funktionstauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000400000)
 
 (1) Der Nachweis der Sicherheit und Funktionstauglichkeit gilt,
 vorbehaltlich des Absatzes 2, durch die
@@ -235,6 +241,7 @@ Bescheinigungen, verlangen.
 
 
 ### § 4 Anforderungen an Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000504311)
 
 (1) Digitale Gesundheitsanwendungen müssen die gesetzlichen Vorgaben
 des Datenschutzes und die Anforderungen an die Datensicherheit nach
@@ -319,6 +326,7 @@ nachzuweisenden Anforderungen an den Datenschutz umsetzen.
 
 
 ### § 5 Anforderungen an Qualität
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000600000)
 
 (1) Digitale Gesundheitsanwendungen sind so zu gestalten, dass sie die
 Anforderungen der technischen und semantischen Interoperabilität
@@ -390,6 +398,7 @@ Anlage 2 bei.
 
 
 ### § 6 Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000701377)
 
 Als interoperable Formate nach § 5 Absatz 1 gelten Festlegungen für
 die semantische und syntaktische Interoperabilität von Daten in der
@@ -407,6 +416,7 @@ Verzeichnis veröffentlichen.
 
 
 ### § 6a Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004702126)
 
 (1) Digitale Gesundheitsanwendungen sind ab dem 1. Januar 2024 so zu
 gestalten, dass die von der digitalen Gesundheitsanwendung
@@ -431,6 +441,7 @@ Veröffentlichung um.
 
 
 ### § 7 Nachweis durch Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000803126)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann von
 dem Hersteller die Vorlage von Zertifikaten verlangen, die die
@@ -495,9 +506,11 @@ Buches Sozialgesetzbuch zu erbringen.
 
 
 ## Abschnitt 3 - Anforderungen an den Nachweis positiver Versorgungseffekte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000300000)
 
 
 ### § 8 Begriff der positiven Versorgungseffekte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE000900000)
 
 (1) Positive Versorgungseffekte im Sinne dieser Verordnung sind
 entweder ein medizinischer Nutzen oder patientenrelevante Struktur-
@@ -551,6 +564,7 @@ Bereiche der
 
 
 ### § 9 Darlegung positiver Versorgungseffekte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001000000)
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale
 Gesundheitsanwendungen nach § 2 gibt der Hersteller an:
@@ -587,6 +601,7 @@ begründen.
 
 
 ### § 10 Studien zum Nachweis positiver Versorgungseffekte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001100000)
 
 (1) Der Hersteller legt zum Nachweis der nach § 9 Absatz 1 angegebenen
 positiven Versorgungseffekte eine vergleichende Studie vor, welche
@@ -642,6 +657,7 @@ Berichterstattung von Studien erstellt werden.
 
 
 ### § 11 Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001200000)
 
 (1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis der
 nach § 9 Absatz 1 angegebenen positiven Versorgungseffekte eine
@@ -654,6 +670,7 @@ Populationen erreicht werden kann.
 
 
 ### § 11a Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004800311)
 
 (1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis des
 medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer
@@ -663,6 +680,7 @@ Risikoklasse eine prospektive Vergleichsstudie vor.
 
 
 ### § 12 Nachweis für diagnostische Instrumente
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001300000)
 
 (1) Enthält eine digitale Gesundheitsanwendung ein diagnostisches
 Instrument, so hat der Hersteller zusätzlich zu den Nachweisen nach §
@@ -674,6 +692,7 @@ nach § 9 Absatz 1 Nummer 2 und Absatz 3 zu ermitteln.
 
 
 ### § 13 Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001400000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bewertet
 im Rahmen einer Abwägungsentscheidung, ob auf Grundlage der
@@ -693,6 +712,7 @@ Medizinprodukte von den Vorgaben nach den §§ 10 bis 12 abweichen.
 
 
 ### § 14 Begründung der Versorgungsverbesserung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001500000)
 
 Für einen Antrag nach § 139e Absatz 4 des Fünften Buches
 Sozialgesetzbuch hat der Hersteller zur plausiblen Begründung, dass im
@@ -703,6 +723,7 @@ vorzulegen.
 
 
 ### § 15 Wissenschaftliches Evaluationskonzept
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001600000)
 
 Der Hersteller legt im Rahmen eines Antrags nach § 139e Absatz 4 des
 Fünften Buches Sozialgesetzbuch ein nach allgemein anerkannten
@@ -713,9 +734,11 @@ geeignet sein, die Nachweise nach den §§ 10 bis 12 zu erbringen.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000400000)
 
 
 ### § 16 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001700000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt
 dem Antragsteller innerhalb von 14 Tagen den Eingang der vollständigen
@@ -733,6 +756,7 @@ Bescheid abzulehnen.
 
 
 ### § 17 Verfahren bei Aufnahme zur Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001802311)
 
 (1) Hat ein Hersteller einer digitalen Gesundheitsanwendung niedriger
 Risikoklasse einen Antrag auf Aufnahme einer digitalen
@@ -782,6 +806,7 @@ Satz 1 zu informieren.
 
 
 ### § 18 Wesentliche Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE001901377)
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche,
 die
@@ -828,6 +853,7 @@ Buches Sozialgesetzbuch hin.
 
 
 ### § 19 Verfahren bei wesentlichen Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002001377)
 
 (1) Eine Änderung oder Ergänzung der Anzeige nach § 139e Absatz 6 Satz
 1 des Fünften Buches Sozialgesetzbuch oder des Antrags auf Streichung
@@ -848,9 +874,11 @@ zu ergänzen.
 
 
 ## Abschnitt 5 - Inhalte und Veröffentlichung des Verzeichnisses für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000500000)
 
 
 ### § 20 Inhalte des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002102311)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte listet in
 dem Verzeichnis für digitale Gesundheitsanwendungen die nach § 33a
@@ -904,6 +932,7 @@ veröffentlicht zu:
 
 
 ### § 21 Weitere Ausgestaltung des elektronischen Verzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002202311)
 
 (1) In dem Verzeichnis für digitale Gesundheitsanwendungen werden
 weitere Angaben aus den eingereichten Unterlagen veröffentlicht,
@@ -982,6 +1011,7 @@ Veröffentlichung aus diesem Grund ausdrücklich widersprochen hat.
 
 
 ### § 22 Bekanntmachung des Verzeichnisses für digitale Gesundheitsanwendungen im Bundesanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002300000)
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind
 im Bundesanzeiger nach § 139e Absatz 1 Satz 3 des Fünften Buches
@@ -1021,9 +1051,11 @@ Medizinprodukte hin.
 
 
 ## Abschnitt 6 - Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000600000)
 
 
 ### § 23 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002400000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät
 Hersteller digitaler Gesundheitsanwendungen auf deren Anfrage vor
@@ -1060,9 +1092,11 @@ Informationen sind vertraulich zu behandeln.
 
 
 ## Abschnitt 7 - Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000700000)
 
 
 ### § 24 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002500000)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
 individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen
@@ -1070,6 +1104,7 @@ nach Maßgabe der folgenden Vorschriften.
 
 
 ### § 25 Gebühren für die Entscheidungen über die Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002600000)
 
 (1) Die Gebühr beträgt für die Entscheidung nach
 
@@ -1093,6 +1128,7 @@ Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens
 
 
 ### § 26 Gebühren für Änderungsanzeigen und die Streichung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002701377)
 
 (1) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6
 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch beträgt mindestens
@@ -1112,6 +1148,7 @@ Absatz 1 Satz 2 und 3 ist hiervon ausgenommen.
 
 
 ### § 27 Gebühr für Beratungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002800000)
 
 (1) Die Gebühr für die Beratung des Herstellers digitaler
 Gesundheitsanwendungen nach § 139e Absatz 8 Satz 2 des Fünften Buches
@@ -1122,6 +1159,7 @@ elektronische Auskünfte sind hiervon ausgenommen.
 
 
 ### § 28 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE002900000)
 
 (1) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis
 zu der Höhe zu erheben, die für die beantragte individuell
@@ -1164,6 +1202,7 @@ vorgesehenen Betrags zu erheben.
 
 
 ### § 29 Sonstige Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003000000)
 
 (1) Bei folgenden individuell zurechenbaren öffentlichen Leistungen,
 die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für:
@@ -1192,6 +1231,7 @@ hinzuweisen.
 
 
 ### § 30 Gebührenermäßigung und Gebührenbefreiung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003100000)
 
 (1) Die nach den §§ 25 bis 27 zu erhebenden Gebühren können auf Antrag
 des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr
@@ -1216,12 +1256,14 @@ besonders gering ist.
 
 
 ### § 31 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003200000)
 
 Für die Erstattung von Auslagen gilt § 12 Absatz 1 des
 Bundesgebührengesetzes entsprechend.
 
 
 ### § 32 Entstehung der Gebühren- und Auslagenschuld
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003300000)
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell
 zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer
@@ -1248,6 +1290,7 @@ Beendigung der Leistung.
 
 
 ### § 33 Gebühren- und Auslagenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003400000)
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
@@ -1270,9 +1313,11 @@ Beendigung der Leistung.
 
 
 ## Abschnitt 8 - Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000800000)
 
 
 ### § 34 Zusammensetzung der Schiedsstelle und Bestellung der Mitglieder der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003500000)
 
 (1) Die Verbände nach § 134 Absatz 3 Satz 1 des Fünften Buches
 Sozialgesetzbuch teilen die Benennung der Mitglieder der Schiedsstelle
@@ -1291,6 +1336,7 @@ für Gesundheit mitgeteilt haben.
 
 
 ### § 35 Amtsperiode
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003600000)
 
 (1) Die Amtsdauer der Mitglieder der Schiedsstelle beträgt vier Jahre.
 Die Amtsdauer der während einer Amtsperiode neu bestellten Mitglieder
@@ -1303,6 +1349,7 @@ der Schiedsstelle mit Wirksamwerden des Schiedsspruchs.
 
 
 ### § 36 Abberufung und Amtsniederlegung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003700000)
 
 (1) Das Bundesministerium für Gesundheit kann Mitglieder der
 Schiedsstelle und ihre Stellvertreter auf Antrag einer Vertragspartei
@@ -1321,6 +1368,7 @@ Sozialgesetzbuch entsprechend.
 
 
 ### § 37 Teilnahme an Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003800000)
 
 Die Mitglieder der Schiedsstelle sind verpflichtet, an den Sitzungen
 der Schiedsstelle teilzunehmen. Sind die Mitglieder der Schiedsstelle
@@ -1331,6 +1379,7 @@ verpflichtet.
 
 
 ### § 38 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE003900000)
 
 Die Geschäftsstelle der Schiedsstelle wird beim Spitzenverband Bund
 der Krankenkassen geführt. Sie ist an Weisungen des Vorsitzenden
@@ -1338,6 +1387,7 @@ gebunden.
 
 
 ### § 39 Einleitung des Schiedsverfahrens und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004001311)
 
 (1) Kommt ein Vertrag über Vergütungsbeträge für digitale
 Gesundheitsanwendungen nach § 134 Absatz 1 des Fünften Buches
@@ -1378,6 +1428,7 @@ Gegenstand der Beratung sind.
 
 
 ### § 40 Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004100000)
 
 Auf Verlangen der Schiedsstelle haben die Vertragsparteien der
 Schiedsstelle die für die Entscheidung erforderlichen Unterlagen
@@ -1385,6 +1436,7 @@ vorzulegen.
 
 
 ### § 41 Beratung und Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004200000)
 
 (1) Die Schiedsstelle ist beschlussfähig, wenn mindestens der
 Vorsitzende der Schiedsstelle und ein unparteiisches Mitglied der
@@ -1426,6 +1478,7 @@ elektronisch über
 
 
 ### § 42 Entschädigung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004300000)
 
 (1) Der Vorsitzende der Schiedsstelle und die zwei weiteren
 unparteiischen Mitglieder oder ihre Stellvertreter erhalten
@@ -1452,14 +1505,17 @@ an der Schiedsstelle beteiligten Verbände.
 
 
 ## Abschnitt 9 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNG000900000)
 
 
 ### § 43 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 1 Fragebogen gemäß § 4 Absatz 6
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004504126)
 
 (Fundstelle: BGBl. I 2020, 779 - 792)
 
@@ -2973,6 +3029,7 @@ Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
 
 
 ### Anlage 2 Fragebogen gemäß den §§ 5 und 6
+[Direktlink](https://www.gesetze-im-internet.de/digav/BJNR076800020.html#BJNR076800020BJNE004603311)
 
 (Fundstelle: BGBl. I 2020, 793 - 798;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

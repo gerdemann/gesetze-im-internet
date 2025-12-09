@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000105128)
 
 (1) Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach §
 34c Absatz 1 der Gewerbeordnung ausüben, unabhängig vom Bestehen einer
@@ -51,6 +52,7 @@ Gewerbetreibende, die
 
 
 ## § 2 Sicherheitsleistung, Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000206360)
 
 (1) Bevor der Gewerbetreibende zur Ausführung des Auftrages
 Vermögenswerte des Auftraggebers erhält oder zu deren Verwendung
@@ -145,6 +147,7 @@ die nicht gedeckten Risiken absichert.
 
 
 ## § 3 Besondere Sicherungspflichten für Bauträger
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000306360)
 
 (1) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1
 Nummer 3 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber
@@ -300,6 +303,7 @@ Absatz 2 entsprechend.
 
 
 ## § 4 Verwendung von Vermögenswerten des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000404360)
 
 (1) Der Gewerbetreibende darf Vermögenswerte des Auftraggebers, die er
 erhalten hat oder zu deren Verwendung er ermächtigt worden ist, nur
@@ -327,6 +331,7 @@ einzelnen Einheiten zu den Gesamtkosten des Bauvorhabens verwenden.
 
 
 ## § 5 Hilfspersonal
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000501309)
 
 Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des
 Auftraggebers zur Ausführung des Auftrages entgegenzunehmen oder zu
@@ -335,6 +340,7 @@ verwenden, so hat er sicherzustellen, daß dies nur nach Maßgabe der §§
 
 
 ## § 6 Getrennte Vermögensverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000603377)
 
 (1) Erhält der Gewerbetreibende zur Ausführung des Auftrages
 Vermögenswerte des Auftraggebers, so hat er sie von seinem Vermögen
@@ -366,6 +372,7 @@ Verwahrung anzuvertrauen. Absatz 2 Satz 2 bis 4 ist anzuwenden.
 
 
 ## § 7 Ausnahmevorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000704360)
 
 (1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3
 Buchstabe a der Gewerbeordnung, die dem Auftraggeber Eigentum an einem
@@ -406,6 +413,7 @@ Genossenschaftsregister nachweisen zu lassen.
 
 
 ## § 8 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000801309)
 
 (1) Hat der Gewerbetreibende zur Ausführung des Auftrages
 Vermögenswerte des Auftraggebers erhalten oder verwendet, so hat er
@@ -421,10 +429,12 @@ zu erbringen hat.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE000902128)
 
 
 
 ## § 10 Buchführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001010360)
 
 (1) Der Gewerbetreibende hat von der Annahme des Auftrages an nach
 Maßgabe der folgenden Vorschriften Aufzeichnungen zu machen sowie
@@ -596,6 +606,7 @@ Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
 
 ## § 11 Informationspflicht und Werbung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001107118)
 
 Der Gewerbetreibende hat dem Auftraggeber in Textform und in deutscher
 Sprache folgende Angaben mitzuteilen, soweit sie im Einzelfall in
@@ -644,6 +655,7 @@ Wohnsitz hat.
 
 
 ## § 12 Unzulässigkeit abweichender Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001201309)
 
 Der Gewerbetreibende darf seine Verpflichtungen nach den §§ 2 bis 8
 sowie die nach § 2 Abs. 1 zu sichernden Schadensersatzansprüche des
@@ -652,11 +664,13 @@ beschränken.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001304308)
 
 -
 
 
 ## § 14 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001402308)
 
 (1) Die in § 10 bezeichneten Geschäftsunterlagen sind 5 Jahre in den
 Geschäftsräumen aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem
@@ -675,6 +689,7 @@ Lesegeräte bereitzuhalten.
 
 
 ## § 15 Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001503118)
 
 (1) Die nach § 34c Absatz 2 Nummer 3 der Gewerbeordnung für einen
 Wohnimmobilienverwalter vorgesehene Versicherung muss bei einem im
@@ -716,6 +731,7 @@ dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
 
 ## § 15a Versicherungsbestätigung; Anzeigepflicht des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002300118)
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung
 nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum
@@ -749,6 +765,7 @@ Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
 
 
 ## § 15b Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002400118)
 
 (1) Wer nach § 34c Absatz 2a der Gewerbeordnung zur Weiterbildung
 verpflichtet ist, muss sich fachlich entsprechend seiner ausgeübten
@@ -805,6 +822,7 @@ Weiterbildungsabschlusses.
 
 
 ## § 16 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001610118)
 
 (1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 der
 Gewerbeordnung haben auf ihre Kosten die Einhaltung der sich aus den
@@ -867,6 +885,7 @@ Besorgnis der Befangenheit besteht.
 
 
 ## § 17 Rechte und Pflichten der an der Prüfung Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001701309)
 
 (1) Der Gewerbetreibende hat dem Prüfer die Einsicht in die Bücher,
 Aufzeichnungen und Unterlagen zu gestatten. Er hat ihm alle
@@ -883,6 +902,7 @@ Gesamtschuldner.
 
 
 ## § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001810128)
 
 (1) Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 6 der Gewerbeordnung
 handelt, wer
@@ -963,6 +983,7 @@ Marktgewerbes begeht.
 
 
 ## § 19 Anwendung bei grenzüberschreitender Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE001905128)
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -1005,6 +1026,7 @@ vorübergehend selbständig tätig wird.
 
 
 ## § 20 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002003360)
 
 Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3
 oder 7 Abs. 1 in der bis zum 28. Februar 1991 geltenden Fassung
@@ -1013,16 +1035,19 @@ Vorschriften abwickeln.
 
 
 ## § 21 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002101309)
 
 (gegenstandslos)
 
 
 ## § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002201309)
 
 (Inkrafttreten)
 
 
 ## Anlage 1 (zu § 15b Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002501128)
 
 (Fundstelle: BGBl. I 2018, 552 — 554
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1447,6 +1472,7 @@ Wohnimmobilienverwalter**
 
 
 ## Anlage 2 (zu § 15b Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002600118)
 
 (Fundstelle: BGBl. I 2018, 555)
 
@@ -1509,6 +1535,7 @@ Weiterbildung durchführen, muss sichergestellt sein.
 
 
 ## Anlage 3 (zu § 15b Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/gewo_34cdv/BJNR013140974.html#BJNR013140974BJNE002700118)
 
 (Fundstelle: BGBl. I 2018, 556)
 

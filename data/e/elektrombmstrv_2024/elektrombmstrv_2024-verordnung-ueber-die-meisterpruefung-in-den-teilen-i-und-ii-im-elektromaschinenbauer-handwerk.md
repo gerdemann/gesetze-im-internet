@@ -18,6 +18,7 @@ Fundstelle
 Stand: ersetzt V 7110-3-149 v. 17.6.2002 I 2325 (ElektroMbMstrV)
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000100000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der
 Prüfung in den Teilen I und II der Meisterprüfung zu stellenden
@@ -26,6 +27,7 @@ Meisterprüfung im Elektromaschinenbauer-Handwerk.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000200000)
 
 (1) Antriebssysteme im Sinne dieser Verordnung umfassen mechanische
 Antriebssysteme, elektrische Antriebssysteme sowie elektronische
@@ -41,6 +43,7 @@ sowie elektronische Energiespeichersysteme.
 
 
 ## § 3 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000300000)
 
 In den Teilen I und II der Meisterprüfung im Elektromaschinenbauer-
 Handwerk hat der Prüfling die beruflichen Handlungskompetenzen
@@ -223,6 +226,7 @@ Prüfergebnissen sowie einer Benutzerdokumentation.
 
 
 ## § 4 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -242,6 +246,7 @@ meisterhaft verrichtet.
 
 
 ## § 5 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus
@@ -304,6 +309,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 6 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000600000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -332,6 +338,7 @@ ist,
 
 
 ## § 7 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000700000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt für die Meisterprüfung den Nachweis der beruflichen
@@ -396,6 +403,7 @@ Prüfungsleistungen nach Absatz 2 Satz 2 Nummer 1 bis 2.
 
 
 ## § 8 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Bei Berechnung des
@@ -419,6 +427,7 @@ Situationsaufgabe im Verhältnis 2:1 gewichtet.
 
 
 ## § 9 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE000900000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -455,6 +464,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 10 Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001000000)
 
 (1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines
 Betriebs im Elektromaschinenbauer-Handwerk analysieren, Lösungen
@@ -587,6 +597,7 @@ erarbeiten und anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 11 Handlungsfeld „Leistungen eines Betriebs im Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001100000)
 
 (1) Im Handlungsfeld „Leistungen eines Betriebs im
 Elektromaschinenbauer-Handwerk erbringen, kontrollieren und übergeben“
@@ -724,6 +735,7 @@ besteht aus folgenden Qualifikationen:
 
 
 ## § 12 Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001200000)
 
 (1) Im Handlungsfeld „Einen Betrieb im Elektromaschinenbauer-Handwerk
 führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der
@@ -906,6 +918,7 @@ führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 13 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001300000)
 
 (1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II
 der Meisterprüfung nach Maßgabe der Vorschriften der
@@ -957,6 +970,7 @@ mindestens 50 Prozent der möglichen Punktzahl bewertet worden sind:
 
 
 ## § 14 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001400000)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -966,6 +980,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ## § 15 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/elektrombmstrv_2024/BJNR03E0B0024.html#BJNR03E0B0024BJNE001500000)
 
 (1) Die bis zum Ablauf des 29. Februar 2024 begonnenen
 Prüfungsverfahren werden nach den Vorschriften der

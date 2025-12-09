@@ -26,12 +26,15 @@ Rücknahme bestimmter Ausnahmen in Bezug auf erhitzte Tabakerzeugnisse
 
 
 ## Abschnitt 1 - Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000100000)
 
 
 ### Unterabschnitt 1 - Messverfahren, Prüflaboratorien
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000200000)
 
 
 #### § 1 Messverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000200000)
 
 Für die Bestimmung der in § 4 Absatz 1 des Tabakerzeugnisgesetzes
 genannten Emissionswerte gelten folgende Anforderungen:
@@ -71,6 +74,7 @@ genannten Emissionswerte gelten folgende Anforderungen:
 [^F793843_02_BJNR098010016BJNE000200000]: 
 
 #### § 2 Prüflaboratorien
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000300000)
 
 (1) Prüflaboratorien, die Bestimmungen nach § 1 im Rahmen des § 29
 Absatz 1 Satz 2 oder Absatz 2 Satz 2 Nummer 2 oder 3 des
@@ -112,6 +116,7 @@ folgenden Anforderungen erfüllt:
 
 
 #### § 3 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000400000)
 
 (1) Der Antrag auf Zulassung ist schriftlich bei der zuständigen
 Behörde zu stellen.
@@ -142,15 +147,18 @@ zuständigen Behörde nachzuweisen.
 
 
 ### Unterabschnitt 2 - Zusatzstoffe, Mitteilungspflichten, Zulassung neuartiger Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000300000)
 
 
 #### § 4 Zusatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000500000)
 
 Tabakerzeugnisse dürfen nicht in den Verkehr gebracht werden, wenn sie
 einen der in Anlage 1 aufgeführten Zusatzstoffe enthalten.
 
 
 #### § 5 Pflanzenschutzmittel
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000600000)
 
 (1) Für die in Anlage 3 aufgeführten Pflanzenschutzmittel werden die
 dort bezeichneten Höchstmengen festgesetzt, die in oder auf
@@ -175,6 +183,7 @@ weit wie möglich den Anforderungen des Anhangs der Richtlinie
 
 
 #### § 5a Bestimmung von Tabakerzeugnissen mit einem charakteristischen Aroma
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003903130)
 
 (1) Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen
 mit einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1
@@ -191,6 +200,7 @@ charakteristisches Aroma hat (ABl. L 131 vom 20.5.2016, S. 48).
 
 
 #### § 6 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000700000)
 
 (1) Hersteller und Importeure von Tabakerzeugnissen sind verpflichtet,
 der zuständigen Behörde in einer nach Markennamen und Art der
@@ -305,6 +315,7 @@ Anforderung vorzulegen.
 
 
 #### § 7 Studien und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000800000)
 
 (1) Hersteller und Importeure von Tabakerzeugnissen sind verpflichtet,
 der zuständigen Behörde jährlich bis zum 30. Juni eines jeden
@@ -329,6 +340,7 @@ entsprechend.
 
 
 #### § 8 Besondere Mitteilungspflichten für bestimmte Zusatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE000900000)
 
 (1) Hersteller und Importeure von Zigaretten und Tabak zum
 Selbstdrehen, die einen Zusatzstoff enthalten, der in einer von den
@@ -426,6 +438,7 @@ wird.
 
 
 #### § 9 Zulassung neuartiger Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001000000)
 
 (1) Die Zulassung nach § 12 Absatz 1 des Tabakerzeugnisgesetzes
 erfolgt auf elektronischen Antrag des Herstellers oder Importeurs.
@@ -478,9 +491,11 @@ Tabakerzeugnis ist.
 
 
 ### Unterabschnitt 3 - Verpackung und Warnhinweise
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000400000)
 
 
 #### § 10 Aufmachung der Packungen von Zigaretten und Tabak zum Selbstdrehen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001100000)
 
 (1) Zigaretten dürfen nur in quaderförmigen Packungen, die mindestens
 20 Zigaretten enthalten, in den Verkehr gebracht werden.
@@ -499,6 +514,7 @@ mindestens 30 Gramm Tabak enthalten.
 
 
 #### § 11 Allgemeine Vorschriften zur Kennzeichnung von Tabakerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001201116)
 
 (1) Für die Gestaltung und Anbringung der gesundheitsbezogenen
 Warnhinweise nach den §§ 12 bis 17 auf Packungen und Außenverpackungen
@@ -546,6 +562,7 @@ genügen.
 
 
 #### § 12 Kennzeichnung von Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001300000)
 
 Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur
 in den Verkehr gebracht werden, wenn Packungen und Außenverpackungen
@@ -565,6 +582,7 @@ folgende gesundheitsbezogene Warnhinweise tragen:
 
 
 #### § 13 Allgemeiner Warnhinweis und Informationsbotschaft bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001401116)
 
 (1) Für die Gestaltung und Anbringung des allgemeinen Warnhinweises
 nach § 12 Nummer 1 und die Informationsbotschaft nach § 12 Nummer 2
@@ -622,6 +640,7 @@ Durchführungsbeschlusses (EU) 2015/1735 erfolgen.
 
 
 #### § 14 Kombinierte Text-Bild-Warnhinweise bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001500000)
 
 (1) Die kombinierten Text-Bild-Warnhinweise nach § 12 Nummer 3 sind
 Anhang II der Richtlinie
@@ -684,6 +703,7 @@ Bild-Warnhinweises angebracht werden.
 
 
 #### § 15 Kennzeichnung von anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001600000)
 
 (1) Andere Rauchtabakerzeugnisse als Zigaretten, Tabak zum
 Selbstdrehen und Wasserpfeifentabak dürfen nur in den Verkehr gebracht
@@ -705,6 +725,7 @@ Tel.: 0800 8 313131 (kostenfrei), www.rauchfrei-info.de“.
 
 
 #### § 16 Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001700000)
 
 (1) Für die Gestaltung und Anbringung der gesundheitsbezogenen
 Warnhinweise nach § 15 gelten folgende allgemeine Anforderungen:
@@ -758,6 +779,7 @@ folgende Anforderungen:
 
 
 #### § 16a Erhitzte Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004600130)
 
 Für erhitzte Tabakerzeugnisse, die als Rauchtabakerzeugnisse
 eingestuft sind,
@@ -772,6 +794,7 @@ eingestuft sind,
 
 
 #### § 17 Kennzeichnung rauchloser Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001800000)
 
 (1) Rauchlose Tabakerzeugnisse dürfen nur in den Verkehr gebracht
 werden, wenn die Packungen und Außenverpackungen den folgenden
@@ -786,6 +809,7 @@ werden.
 
 
 #### § 18 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE001900000)
 
 Es dürfen nicht in den Verkehr gebracht werden:
 
@@ -829,9 +853,11 @@ Es dürfen nicht in den Verkehr gebracht werden:
 
 
 ### Unterabschnitt 4 - Rückverfolgbarkeit und Sicherheitsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000500000)
 
 
 #### § 19 Ausgabestelle
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002001116)
 
 (1) Ausgabestelle nach § 7a Absatz 1 des Tabakerzeugnisgesetzes ist
 die Bundesdruckerei GmbH, sofern nicht nach § 7b Absatz 1 Nummer 2 des
@@ -847,6 +873,7 @@ Einzelnen auszuüben sind.
 
 
 #### § 19a Allgemeines Verfahren bei der Ausgabestelle
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004100116)
 
 (1) Für Erzeugnisse, die in einem anderen Mitgliedstaat der
 Europäischen Union hergestellt worden sind und die im Inland in den
@@ -870,6 +897,7 @@ Schlüssels zugeordnet werden können.
 
 
 #### § 19b Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004200116)
 
 (1) Anträge auf Generierung und Ausgabe von Identifikationscodes nach
 den Artikeln 14, 16 und 18 der Durchführungsverordnung (EU) 2018/574
@@ -907,6 +935,7 @@ entsprechend.
 
 
 #### § 19c Deaktivierung von Identifikationscodes
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004300116)
 
 Die Ausgabestelle ist verpflichtet, in Fällen, in denen auf Grund
 unanfechtbarer behördlicher Entscheidung
@@ -930,6 +959,7 @@ deaktivieren.
 
 
 #### § 19d Antimanipulationsvorrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004400116)
 
 Die Erklärung über die Antimanipulationsvorrichtung nach Artikel 7
 Absatz 2 zweiter Halbsatz der Durchführungsverordnung (EU) 2018/574
@@ -939,12 +969,14 @@ Tabakerzeugnisgesetzes abzugeben.
 
 
 #### § 19e Unabhängiger Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004500116)
 
 Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes
 ist die Bundesdruckerei GmbH.
 
 
 #### § 20 Rückverfolgbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002102116)
 
 (1) Hersteller von Tabakerzeugnissen sind verpflichtet, den
 Wirtschaftsteilnehmern die Ausrüstung bereitzustellen, die notwendig
@@ -970,6 +1002,7 @@ Tabakerzeugnisses zur Verfügung gestellt wurde.
 
 
 #### § 21 Datenspeicherung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002201116)
 
 (1) Auf Verlangen der Kommission, der zuständigen Behörden der
 Mitgliedstaaten, der Zollbehörden, der zuständigen Behörden nach § 27
@@ -1010,6 +1043,7 @@ Wirtschaftsakteur geändert oder gelöscht werden.
 
 
 #### § 22 Externer Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002301116)
 
 (1) Hersteller von Tabakerzeugnissen sind verpflichtet, auf ihre
 Kosten einen externen Prüfer zu benennen. Der externe Prüfer muss
@@ -1023,6 +1057,7 @@ die Daten beinhalten.
 
 
 #### § 23 Sicherheitsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002401116)
 
 (1) Das Sicherheitsmerkmal nach § 7 Absatz 1 Satz 2 des
 Tabakerzeugnisgesetzes darf weder verwischbar noch ablösbar sein und
@@ -1058,9 +1093,11 @@ Europäischen Kommission auf deren Ersuchen zur Verfügung stellen.
 
 
 ## Abschnitt 2 - Elektronische Zigaretten und Nachfüllbehälter
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000600000)
 
 
 ### § 24 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002501116)
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und
 Nachfüllbehältern sind verpflichtet, der zuständigen Behörde in einer
@@ -1161,6 +1198,7 @@ die Mitteilung innerhalb von sechs Monaten ab diesem Datum erfolgen.
 
 
 ### § 25 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002600000)
 
 Hersteller und Importeure von elektronischen Zigaretten und
 Nachfüllbehältern sind verpflichtet, der zuständigen Behörde jährlich
@@ -1188,6 +1226,7 @@ Folgendes vorzulegen:
 
 
 ### § 26 Beipackzettel
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002703116)
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und
 Nachfüllbehältern sind zur Erstellung des Beipackzettels nach § 15
@@ -1236,6 +1275,7 @@ verständlich und gut lesbar sein.
 
 
 ### § 27 Warnhinweis und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002801116)
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und
 Nachfüllbehältern sind vor dem Inverkehrbringen zur Aufbringung einer
@@ -1271,6 +1311,7 @@ Flächen einnehmen. Er muss den Anforderungen des § 13 Absatz 1 Nummer
 
 
 ### § 28 Inhaltsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE002900000)
 
 Elektronische Zigaretten und Nachfüllbehälter dürfen nicht in den
 Verkehr gebracht werden, wenn sie einen der in Anlage 2 aufgeführten
@@ -1278,6 +1319,7 @@ Inhaltsstoffe enthalten.
 
 
 ### § 28a Nachfüllmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE004002116)
 
 Der Mechanismus für eine auslauffreie Nachfüllung nach § 14 Absatz 3
 Satz 1 des Tabakerzeugnisgesetzes hat den Anforderungen gemäß Artikel
@@ -1285,9 +1327,11 @@ Satz 1 des Tabakerzeugnisgesetzes hat den Anforderungen gemäß Artikel
 
 
 ## Abschnitt 3 - Pflanzliche Raucherzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG000700000)
 
 
 ### § 29 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003000000)
 
 Für pflanzliche Raucherzeugnisse gilt § 6 Absatz 1 Nummer 1 und 2,
 Absatz 4 Satz 1 und Absatz 5 Satz 1 entsprechend. Die Mitteilung kann
@@ -1295,6 +1339,7 @@ nach dem Verfahren des § 6 Absatz 4 Satz 2 erfolgen.
 
 
 ### § 30 Warnhinweis
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003100000)
 
 (1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht
 werden, wenn die Packungen und Außenverpackungen folgenden
@@ -1317,9 +1362,11 @@ und Außenverpackungen gelten folgende Anforderungen: Er muss
 
 
 ## Abschnitt 4 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG001000000)
 
 
 ### § 31 Grenzüberschreitender Fernabsatz an Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003200000)
 
 Die Registrierung nach § 22 Absatz 1 Nummer 2 des
 Tabakerzeugnisgesetzes erfolgt auf Antrag. Der Antrag muss folgende
@@ -1350,6 +1397,7 @@ Angaben enthalten:
 
 
 ### § 32 Veröffentlichung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003300000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft oder das
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit gibt die
@@ -1362,9 +1410,11 @@ Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNG001100000)
 
 
 ### § 33 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003401116)
 
 Ordnungswidrig im Sinne des § 35 Absatz 2 Nummer 1 Buchstabe a des
 Tabakerzeugnisgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1382,6 +1432,7 @@ Tabakerzeugnisgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 34 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003501116)
 
 (1) Die §§ 19 bis 23 sind für Zigaretten und Tabak zum Selbstdrehen ab
 dem 20. Mai 2019 und für die übrigen Tabakerzeugnisse ab dem 20. Mai
@@ -1413,6 +1464,7 @@ Mai 2020 anzuwenden.
 (zu § 4)
 
 ### Anlage 1 Verbotene Zusatzstoffe in Tabakerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003602130)
 
 (Fundstelle: BGBl. I 2017, 1201 – 1203;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1588,6 +1640,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 28)
 
 ### Anlage 2 Verbotene Inhaltsstoffe in elektronischen Zigaretten und Nachfüllbehältern
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003702130)
 
 (Fundstelle: BGBl. I 2017, 1203 – 1204;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1728,6 +1781,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 1)
 
 ### Anlage 3 Rückstandshöchstgehalte für Pflanzenschutzmittel
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzv/BJNR098010016.html#BJNR098010016BJNE003800000)
 
 (Fundstelle: BGBl. I 2016, 991 - 992)
 

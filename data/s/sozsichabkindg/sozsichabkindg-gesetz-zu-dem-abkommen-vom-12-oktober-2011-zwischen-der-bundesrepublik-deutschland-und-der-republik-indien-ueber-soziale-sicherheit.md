@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkindg/BJNR058620012.html#BJNR058620012BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkindg/BJNR058620012.html#BJNR058620012BJNE000200000)
 
 Folgenden in Berlin am 12. Oktober 2011 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -43,6 +45,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkindg/BJNR058620012.html#BJNR058620012BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -71,6 +74,7 @@ folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkindg/BJNR058620012.html#BJNR058620012BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

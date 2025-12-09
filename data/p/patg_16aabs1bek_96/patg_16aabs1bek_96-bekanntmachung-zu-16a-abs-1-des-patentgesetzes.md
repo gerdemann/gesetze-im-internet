@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patg_16aabs1bek_96/BJNR149500996.html#BJNR149500996BJNE000100310)
 
 Auf Grund des § 16a Abs. 1 des Patentgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der durch

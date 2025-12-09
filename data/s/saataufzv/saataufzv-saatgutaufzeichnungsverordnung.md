@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000100326)
 
 Auf Grund des § 27 Satz 2 des Saatgutverkehrsgesetzes vom 20. August
 1985 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000202119)
 
 (1) Wer Saatgut gewerbsmäßig in den Verkehr bringt, abfüllt oder für
 andere bearbeitet, hat über alle Eingänge und Ausgänge von Saatgut
@@ -184,6 +186,7 @@ Beizprotokolle.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000302377)
 
 (1) Bei eingeführtem Saatgut, außer Saatgut aus Vertragsstaaten, muß
 auch die von der Bundesanstalt für Landwirtschaft und Ernährung für
@@ -210,16 +213,19 @@ aufzeichnungspflichtigen Betriebes nachprüfbar ergibt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000400326)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000601308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/saataufzv/BJNR002140986.html#BJNR002140986BJNE000700326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anpassung der Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/uhanpv_24/BJNR180610997.html#BJNR180610997BJNE000100311)
 
 Vom 1. Juli 1997 ab werden erhöht:
 
@@ -176,6 +177,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 
 ## § 2 Anpassung von Beträgen in § 276 Abs. 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/uhanpv_24/BJNR180610997.html#BJNR180610997BJNE000200311)
 
 Vom 1. Juli 1997 ab werden erhöht:
 
@@ -210,6 +212,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 
 ## § 3 Anpassung des Einkommenshöchstbetrages der Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/uhanpv_24/BJNR180610997.html#BJNR180610997BJNE000300311)
 
 Vom 1. Juli 1997 ab werden erhöht:
 
@@ -268,6 +271,7 @@ Vom 1. Juli 1997 ab werden erhöht:
 
 
 ## § 4 Anpassung von Beträgen in § 292 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/uhanpv_24/BJNR180610997.html#BJNR180610997BJNE000400311)
 
 Vom 1. Juli 1997 ab werden erhöht:
 

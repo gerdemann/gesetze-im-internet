@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/johordennferl/BJNR015430971.html#BJNR015430971BJNE000100304)
 
 Die Balley Brandenburg des Ritterlichen Ordens St. Johannis vom Spital
 zu Jerusalem genannt der Johanniterorden hat eine Neufassung ihrer
@@ -30,6 +31,7 @@ veröffentlicht.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/johordennferl/BJNR015430971.html#BJNR015430971BJNE000200304)
 
 Der Bundespräsident
 Der Bundesminister des Innern

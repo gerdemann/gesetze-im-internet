@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv_2/BJNR004210975.html#BJNR004210975BJNE000100314)
 
 Auf Grund des § 3 Abs. 4 und § 8 Abs. 1 und 4 des Gesetzes über die
 Kontrolle von Kriegswaffen vom 20. April 1961 (Bundesgesetzbl. I S.
@@ -28,6 +29,7 @@ die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv_2/BJNR004210975.html#BJNR004210975BJNE000200314)
 
 Die Beförderung von Kriegswaffen im Durchgangsverkehr auf den
 Durchgangsstrecken nach dem deutsch-schweizerischen Abkommen vom 5.
@@ -39,6 +41,7 @@ wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/krwaffgenv_2/BJNR004210975.html#BJNR004210975BJNE000300314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

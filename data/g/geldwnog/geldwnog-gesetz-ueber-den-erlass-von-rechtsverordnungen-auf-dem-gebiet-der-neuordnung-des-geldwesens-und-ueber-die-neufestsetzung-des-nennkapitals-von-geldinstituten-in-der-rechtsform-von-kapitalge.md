@@ -20,10 +20,12 @@ Fundstelle
 
 
 ## Abschnitt I - Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNG000100326)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000400326)
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung der Zweiten
 Durchführungsverordnung zum Umstellungsgesetz (Bankenverordnung), der
@@ -58,6 +60,7 @@ beachtende Verfahren, insbesondere die Dauer von Fristen, betreffen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000500326)
 
 Die Bundesregierung wird ermächtigt, die von der Bank deutscher Länder
 auf Grund des § 13 der Fünfunddreißigsten Durchführungsverordnung zum
@@ -70,6 +73,7 @@ Rechtsverordnung zu ändern, zu ergänzen und aufzuheben.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000600326)
 
 Die Bundesregierung wird ermächtigt, die Abwicklung der Deutschen
 Kriegsversicherungsgemeinschaft und der Geschäfte, die
@@ -80,12 +84,14 @@ Rechtsverordnung zu regeln.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000700326)
 
 Auf Grund dieses Gesetzes ergehende Rechtsverordnungen, die von den
 Ländern ausgeführt werden, bedürfen der Zustimmung des Bundesrates.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000800326)
 
 Die Bundesregierung wird ermächtigt, den Wortlaut von
 Durchführungsverordnungen zum Währungsgesetz und zum Umstellungsgesetz
@@ -95,20 +101,24 @@ des Wortlauts zu beseitigen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE000900326)
 
 -
 
 
 ## Abschnitt II - Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNG000200326)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE001000326)
 
 -
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE001100326)
 
 (1) Hatte ein Geldinstitut in der Rechtsform einer Kapitalgesellschaft
 beim Inkrafttreten dieses Gesetzes seine Eröffnungsbilanz bereits
@@ -179,10 +189,12 @@ wenn die Neufestsetzung des Nennkapitals vor Ablauf des 30. September
 
 
 ## Abschnitt III - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNG000300326)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE001200326)
 
 (1) Abschnitt I dieses Gesetzes gilt nach Maßgabe der §§ 13 und 14 des
 Gesetzes über die Stellung des Landes Berlin im Finanzsystem des
@@ -197,6 +209,7 @@ ist zu bestimmen, mit welcher Maßgabe diese in Berlin anzuwenden sind.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/geldwnog/BJNR001270953.html#BJNR001270953BJNE001300326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

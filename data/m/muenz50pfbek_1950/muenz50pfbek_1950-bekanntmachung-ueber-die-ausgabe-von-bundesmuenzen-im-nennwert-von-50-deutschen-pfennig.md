@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50pfbek_1950/BJNR006940950.html#BJNR006940950BJNE000100307)
 
 Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8.
 Juli 1950 (Bundesgesetzblatt S. 323) werden demnächst Scheidemünzen zu

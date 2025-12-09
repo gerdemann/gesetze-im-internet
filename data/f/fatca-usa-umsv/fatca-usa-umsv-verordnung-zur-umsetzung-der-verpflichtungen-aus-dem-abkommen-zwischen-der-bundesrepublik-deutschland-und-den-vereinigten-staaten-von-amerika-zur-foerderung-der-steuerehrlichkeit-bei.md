@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000100000)
 
 Auf Grund des § 117c Absatz 1 Satz 1 der Abgabenordnung, der durch
 Artikel 13 des Gesetzes vom 18. Dezember 2013 (BGBl. I S. 4318)
@@ -31,9 +32,11 @@ eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -60,6 +63,7 @@ getreten ist (BGBl. 2013 II S. 1363).
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000400000)
 
 (1) Abkommen im Sinne dieser Verordnung ist das in § 1 genannte
 Abkommen, das am 11. Dezember 2013 in Kraft getreten ist und durch das
@@ -121,6 +125,7 @@ amerikanisches meldepflichtiges Konto identifiziert wird.
 
 
 ### § 3 Inanspruchnahme von Fremddienstleistern
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000500000)
 
 Meldende deutsche Finanzinstitute können zur Erfüllung der
 Verpflichtungen, die ihnen durch diese Verordnung auferlegt werden,
@@ -130,6 +135,7 @@ weiterhin bei den meldenden deutschen Finanzinstituten.
 
 
 ### § 4 Verhinderung der Umgehung der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000600000)
 
 Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts können die
 Verpflichtungen aus dieser Verordnung nicht umgangen werden. § 42 der
@@ -137,9 +143,11 @@ Abgabenordnung gilt entsprechend.
 
 
 ## Abschnitt 2 - Identifizierungs- und Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000200000)
 
 
 ### § 5 Identifizierungs- und Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000700000)
 
 (1) Meldende deutsche Finanzinstitute müssen geeignete Verfahren
 anwenden, die es ermöglichen, bei ihnen geführte Konten zu
@@ -272,6 +280,7 @@ Dokumentation eingeholt zu werden.
 
 
 ### § 6 Kleine Finanzinstitute mit lokalem Kundenstamm
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000800000)
 
 Kleine Finanzinstitute mit lokalem Kundenstamm im Sinne von Anlage II
 Abschnitt II Unterabschnitt A des Abkommens unterliegen den in Anlage
@@ -282,9 +291,11 @@ tritt.
 
 
 ## Abschnitt 3 - Registrierung von Finanzinstituten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000300000)
 
 
 ### § 7 Registrierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE000900000)
 
 (1) Meldende deutsche Finanzinstitute, die US-amerikanische
 meldepflichtige Konten im Sinne von § 2 Absatz 4 oder Konten nicht
@@ -315,9 +326,11 @@ Abschnitt II Unterabschnitt A Buchstabe g und h des Abkommens führen.
 
 
 ## Abschnitt 4 - Datenerhebung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000400000)
 
 
 ### § 8 Erhebungs- und Übermittlungspflichten in Bezug auf US-amerikanische meldepflichtige Konten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001600377)
 
 (1) Meldende deutsche Finanzinstitute haben zu den nach § 5
 identifizierten US-amerikanischen meldepflichtigen Konten folgende
@@ -442,6 +455,7 @@ Belege nach Ablauf des Jahres, in dem die Feststellung erfolgt ist,
 
 
 ### § 9 Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001101377)
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8 Absatz 3
 von den meldenden deutschen Finanzinstituten erhaltenen Daten und
@@ -481,6 +495,7 @@ des Abkommens.
 
 
 ### § 10 Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001201377)
 
 (1) Meldende deutsche Finanzinstitute haben zu den nach § 5
 identifizierten Konten nicht teilnehmender Finanzinstitute im Sinne
@@ -505,9 +520,11 @@ Steuern zu übermitteln.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000500000)
 
 
 ### § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001300000)
 
 Ordnungswidrig im Sinne des § 379 Absatz 2 Nummer 1b der
 Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 8
@@ -516,14 +533,17 @@ nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 
 ## Abschnitt 6 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNG000600000)
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fatca-usa-umsv/BJNR122200014.html#BJNR122200014BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 

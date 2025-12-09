@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Art 1 - Rentenanpassung
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000100312)
 
 
 
 ### Erster Abschnitt - Anpassung der Renten aus der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000200312)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE000900312)
 
 (1) In der gesetzlichen Rentenversicherung werden aus Anlaß der
 Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1977 die
@@ -49,6 +52,7 @@ vom 24. Juni 1975 (BGBl. I S. 1536).
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001000312)
 
 (1) Renten, die nach den §§ 1253ff. der Reichsversicherungsordnung, §§
 30ff. des Angestelltenversicherungsgesetzes oder §§ 53ff. des
@@ -88,6 +92,7 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001100312)
 
 (1) Renten nach Artikel 2 §§ 32 bis 35 des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes und Artikel 2 §§ 31
@@ -217,6 +222,7 @@ tritt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001200312)
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
 wie sie sich ergeben würde, wenn der nach § 5 dieses Artikels zu
@@ -253,6 +259,7 @@ b)  bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957,
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001300312)
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 dieses Artikels der
 Rentenzahlbetrag für Juli 1977 ohne Kinderzuschuß für jedes Kind und
@@ -278,6 +285,7 @@ hätten.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001400312)
 
 (1) Bei Renten aus der Rentenversicherung der Arbeiter und der
 Angestellten, die nach § 4 dieses Artikels angepaßt werden, findet
@@ -321,6 +329,7 @@ dieses Artikels zu berücksichtigen sind, nicht überschreiten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001500312)
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
 Angleichungsgesetzes Saar sind so anzupassen, daß sich ein Zahlbetrag
@@ -331,6 +340,7 @@ Zugrundelegung der bisherigen Versicherungszeiten ergeben würde.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001600312)
 
 Die Vorschriften dieses Abschnitts gelten im Saarland unter
 Berücksichtigung der Fassung, in der die in den §§ 1 bis 7 dieses
@@ -347,10 +357,12 @@ Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 
 
 ### Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegelds aus der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000300312)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001700312)
 
 (1) In der gesetzlichen Unfallversicherung werden aus Anlaß der
 Veränderung der durchschnittlichen Bruttolohn- und -gehaltssumme
@@ -384,6 +396,7 @@ festgelegt worden ist.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001800312)
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
 einem mit 1,074 vervielfältigten Jahresarbeitsverdienst berechnet
@@ -398,6 +411,7 @@ zu zahlende Betrag mit 1,074 zu vervielfältigen ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE001900312)
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
 Deutsche Mark nicht übersteigen, es sei denn, daß gemäß § 575 Abs. 2
@@ -407,10 +421,12 @@ von 36.000 Deutsche Mark der höhere Betrag.
 
 
 ### Dritter Abschnitt - Anpassung der Altersgelder in der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000400312)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002000312)
 
 In der Altershilfe für Landwirte werden wegen der Veränderung der
 allgemeinen Bemessungsgrundlage in der Rentenversicherung der Arbeiter
@@ -425,10 +441,12 @@ monatlich festgesetzt.
 
 
 ### Vierter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000500312)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002100312)
 
 (1) Renten aus der Rentenversicherung der Arbeiter und der
 Angestellten, die nach den §§ 2 und 3 dieses Artikels anzupassen sind,
@@ -458,6 +476,7 @@ ist dem Berechtigten die höhere Leistung zu gewähren.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002200312)
 
 (1) Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist,
 ist sie zu berichtigen. Die Leistung ist in ihrer bisherigen Höhe bis
@@ -474,22 +493,27 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 ### Fünfter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000600312)
 
 
 
 ### (XXXX) §§ 15 und 16
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002300312)
 
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000700312)
 
 
 
 ## (XXXX) §§ 1 bis 12
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE003000304)
 
 
 
 ## § 13 Änderung des Rentenreformgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE003100304)
 
 Das Rentenreformgesetz vom 16. Oktober 1972 (BGBl. I S. 1965), zuletzt
 geändert durch § 21 des Gesetzes vom 3. Juni 1976 (BGBl. I S. 1373),
@@ -521,13 +545,16 @@ wird wie folgt geändert:
 
 
 ## (XXXX) §§ 14 und 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE003200304)
 
 
 ## Art 3 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNG000800312)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002400312)
 
 (1) Ist dem Leistungsbezieher vor dem 1. Juli 1977 eine medizinische
 oder berufsfördernde Maßnahme zur Rehabilitation bewilligt worden, so
@@ -548,6 +575,7 @@ Erstattungsbetrag für Aufwendungen im Jahre 1978 wird am 1. Januar
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002500312)
 
 Für die Jahre 1971 bis Juni 1977 verbleibt es bei den nach § 385 Abs.
 2 und 3 der Reichsversicherungsordnung in der bis zum 30. Juni 1977
@@ -557,9 +585,11 @@ Fassung ist insoweit nicht mehr anzuwenden.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002601308)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002700312)
 
 § 32 Abs. 3 Satz 4 des Schornsteinfegergesetzes in der Fassung dieses
 Gesetzes gilt vom 1. Januar 1978 an auch für Versorgungsfälle, die vor
@@ -567,6 +597,7 @@ dem 1. Juli 1977 eingetreten sind.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002800312)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -575,6 +606,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rag_20/BJNR010409977.html#BJNR010409977BJNE002900312)
 
 Es treten in Kraft: ...
 die übrigen Vorschriften am 1. Juli 1977.

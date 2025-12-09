@@ -23,9 +23,11 @@ Mittelbare änderung durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000100000)
 
 
 ### § 1 De-Mail-Dienste
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000100000)
 
 (1) De-Mail-Dienste sind Dienste auf einer elektronischen
 Kommunikationsplattform, die einen sicheren, vertraulichen und
@@ -45,15 +47,18 @@ dienen, bleiben unberührt.
 
 
 ### § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000201311)
 
 Zuständige Behörde nach diesem Gesetz ist das Bundesamt für Sicherheit
 in der Informationstechnik.
 
 
 ## Abschnitt 2 - Pflichtangebote und optionale Angebote des Diensteanbieters
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000200000)
 
 
 ### § 3 Eröffnung eines De-Mail-Kontos
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000306116)
 
 (1) Durch einen De-Mail-Konto-Vertrag verpflichtet sich ein
 akkreditierter Diensteanbieter, einem Nutzer ein De-Mail-Konto zur
@@ -191,6 +196,7 @@ ihre Richtigkeit zu prüfen und soweit erforderlich zu berichtigen.
 
 
 ### § 4 Anmeldung zu einem De-Mail-Konto
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000401116)
 
 (1) Der akkreditierte Diensteanbieter muss dem Nutzer den Zugang zu
 seinem De-Mail-Konto und den einzelnen Diensten mit einer sicheren
@@ -221,6 +227,7 @@ verschlüsselt erfolgt.
 
 
 ### § 5 Postfach- und Versanddienst
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000503116)
 
 (1) Die Bereitstellung eines De-Mail-Kontos umfasst die Nutzung eines
 sicheren elektronischen Postfach- und Versanddienstes für
@@ -406,6 +413,7 @@ sein.
 
 
 ### § 6 Identitätsbestätigungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000602116)
 
 (1) Der akkreditierte Diensteanbieter kann einen
 Identitätsbestätigungsdienst anbieten. Ein solcher liegt vor, wenn
@@ -430,6 +438,7 @@ ausgestellt wurde oder nicht ausreichend fälschungssicher ist.
 
 
 ### § 7 Verzeichnisdienst
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000704130)
 
 (1) Der akkreditierte Diensteanbieter hat auf ausdrückliches Verlangen
 des Nutzers die De-Mail-Adressen, die nach § 3 hinterlegten
@@ -483,6 +492,7 @@ gilt entsprechend.
 
 
 ### § 8 Dokumentenablage
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000801116)
 
 Der akkreditierte Diensteanbieter kann dem Nutzer eine
 Dokumentenablage zur sicheren Ablage von Dokumenten anbieten. Bietet
@@ -499,9 +509,11 @@ gesichert ist.
 
 
 ## Abschnitt 3 - De-Mail-Dienste-Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000300000)
 
 
 ### § 9 Aufklärungs- und Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE000901116)
 
 (1) Der akkreditierte Diensteanbieter hat den Nutzer vor der
 erstmaligen Nutzung des De-Mail-Kontos über die Rechtsfolgen und
@@ -541,6 +553,7 @@ hat.
 
 
 ### § 10 Sperrung und Auflösung des De-Mail-Kontos
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001001116)
 
 (1) Der akkreditierte Diensteanbieter hat den Zugang zu einem De-Mail-
 Konto unverzüglich zu sperren, wenn
@@ -620,6 +633,7 @@ kann.
 
 
 ### § 11 Einstellung der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001100000)
 
 (1) Der akkreditierte Diensteanbieter hat die Einstellung seiner
 Tätigkeit unverzüglich der zuständigen Behörde anzuzeigen. Er hat
@@ -650,6 +664,7 @@ anzuzeigen.
 
 
 ### § 12 Vertragsbeendigung
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001200000)
 
 Der akkreditierte Diensteanbieter ist verpflichtet, dem Nutzer für
 einen Zeitraum von drei Monaten nach Vertragsende den Zugriff auf die
@@ -659,6 +674,7 @@ dieser in Textform hinzuweisen.
 
 
 ### § 13 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001301116)
 
 (1) Der akkreditierte Diensteanbieter hat alle Maßnahmen zur
 Sicherstellung der Voraussetzungen der Akkreditierung und zur
@@ -679,6 +695,7 @@ Jahres aufzubewahren, in dem das Vertragsverhältnis endet.
 
 
 ### § 14 Jugend- und Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001400000)
 
 Der akkreditierte Diensteanbieter hat bei Gestaltung und Betrieb der
 De-Mail-Dienste die Belange des Jugendschutzes und des
@@ -686,6 +703,7 @@ Verbraucherschutzes zu beachten.
 
 
 ### § 15 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001503130)
 
 Der akkreditierte Diensteanbieter darf personenbezogene Daten des
 Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur
@@ -703,6 +721,7 @@ L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
 
 
 ### § 16 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001601116)
 
 (1) Ein akkreditierter Diensteanbieter erteilt Dritten Auskunft über
 Namen und Anschrift eines Nutzers, wenn
@@ -770,9 +789,11 @@ Auskünften gegenüber öffentlichen Stellen bleiben unberührt.
 
 
 ## Abschnitt 4 - Akkreditierung
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000400000)
 
 
 ### § 17 Akkreditierung von Diensteanbietern
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001700000)
 
 (1) Diensteanbieter, die De-Mail-Dienste anbieten wollen, müssen sich
 auf schriftlichen Antrag von der zuständigen Behörde akkreditieren
@@ -797,6 +818,7 @@ jedoch nach drei Jahren zu erneuern.
 
 
 ### § 18 Voraussetzungen der Akkreditierung; Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001803129)
 
 (1) Als Diensteanbieter kann nur akkreditiert werden, wer
 
@@ -942,6 +964,7 @@ Pflichten nach diesem Gesetz Dritte beauftragen.
 
 
 ### § 19 Gleichstellung ausländischer Dienste
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE001900000)
 
 (1) Vergleichbare Dienste aus einem anderen Mitgliedstaat der
 Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens
@@ -974,9 +997,11 @@ eine gleichwertige Sicherheit bieten.
 
 
 ## Abschnitt 5 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000500000)
 
 
 ### § 20 Aufsichtsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002000000)
 
 (1) Die Aufsicht über die Einhaltung dieses Gesetzes obliegt der
 zuständigen Behörde. Mit der Akkreditierung unterliegen
@@ -1035,6 +1060,7 @@ hinzuweisen.
 
 
 ### § 21 Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002100000)
 
 Die zuständige Behörde hat die Namen der akkreditierten
 Diensteanbieter sowie der ausländischen Diensteanbieter nach § 19
@@ -1045,9 +1071,11 @@ zu halten.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNG000600000)
 
 
 ### § 22 Ausschuss De-Mail-Standardisierung
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002201116)
 
 Die technischen und organisatorischen Anforderungen an die Pflichten
 nach den §§ 3 bis 13 sowie nach § 16 werden unter Beteiligung der
@@ -1070,6 +1098,7 @@ im Jahr.
 
 
 ### § 23 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002301116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1139,10 +1168,12 @@ der Informationstechnik.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002403116)
 
 
 
 ### § 25 Verfahren über eine einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/de-mail-g/BJNR066610011.html#BJNR066610011BJNE002500000)
 
 Verwaltungsverfahren nach diesem Gesetz können über eine einheitliche
 Stelle abgewickelt werden.

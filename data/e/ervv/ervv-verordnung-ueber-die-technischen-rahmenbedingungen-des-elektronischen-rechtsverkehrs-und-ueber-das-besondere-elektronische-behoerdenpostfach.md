@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000100000)
 
 Auf Grund
 
@@ -84,9 +85,11 @@ verordnet die Bundesregierung:
 
 
 ## Kapitel 1 - Allgemeine Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000202125)
 
 (1) Diese Verordnung gilt für die Übermittlung elektronischer
 Dokumente an die Gerichte der Länder und des Bundes sowie die
@@ -105,9 +108,11 @@ Datensätze bleiben unberührt.
 
 
 ## Kapitel 2 - Technische Rahmenbedingungen des elektronischen Rechtsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNG000200000)
 
 
 ### § 2 Anforderungen an elektronische Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000303125)
 
 (1) Das elektronische Dokument ist im Dateiformat PDF zu übermitteln.
 Wenn bildliche Darstellungen im Dateiformat PDF nicht verlustfrei
@@ -145,6 +150,7 @@ Schemadateien entspricht und mindestens enthält:
 
 
 ### § 3 Überschreitung der Höchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000400000)
 
 Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3
 bekanntgemachten Höchstgrenzen für die Anzahl oder das Volumen
@@ -156,6 +162,7 @@ bekanntgemachten zulässigen physischen Datenträger.
 
 
 ### § 4 Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000500000)
 
 (1) Ein elektronisches Dokument, das mit einer qualifizierten
 elektronischen Signatur der verantwortenden Person versehen ist, darf
@@ -177,6 +184,7 @@ qualifizierten elektronischen Signatur übermittelt werden.
 
 
 ### § 5 Bekanntmachung technischer Standards
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000601125)
 
 (1) Die Bundesregierung macht folgende technische Standards für an die
 Übermittlung und Eignung zur Bearbeitung elektronischer Dokumente im
@@ -219,9 +227,11 @@ müssen.
 
 
 ## Kapitel 3 - Besonderes elektronisches Behördenpostfach
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNG000300000)
 
 
 ### § 6 Besonderes elektronisches Behördenpostfach; Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000701125)
 
 (1) Die Behörden sowie juristischen Personen des öffentlichen Rechts
 können zur Übermittlung elektronischer Dokumente auf einem sicheren
@@ -271,6 +281,7 @@ Anwendung.
 
 
 ### § 7 Identifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000800000)
 
 (1) Die von den obersten Behörden des Bundes oder den
 Landesregierungen für ihren Bereich bestimmten öffentlich-rechtlichen
@@ -293,6 +304,7 @@ Stelle gemeinsam für ihre Bereiche bestimmen.
 
 
 ### § 8 Zugang und Zugangsberechtigung; Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE000900000)
 
 (1) Der Postfachinhaber bestimmt die natürlichen Personen, die Zugang
 zum besonderen elektronischen Behördenpostfach erhalten sollen, und
@@ -321,6 +333,7 @@ automatisiert und an zentraler Stelle erfolgen.
 
 
 ### § 9 Änderung und Löschung
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001000000)
 
 (1) Der Postfachinhaber hat Änderungen seines Namens oder Sitzes
 unverzüglich der nach § 7 Absatz 1 bestimmten Stelle anzuzeigen.
@@ -333,9 +346,11 @@ Behördenpostfachs endet.
 
 
 ## Kapitel 4 - Besonderes elektronisches Bürger- und Organisationenpostfach; Postfach- und Versanddienst eines Nutzerkontos
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNG000600125)
 
 
 ### § 10 Besonderes elektronisches Bürger- und Organisationenpostfach
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001501125)
 
 (1) Natürliche Personen, juristische Personen sowie sonstige
 Vereinigungen können zur Übermittlung elektronischer Dokumente auf
@@ -393,6 +408,7 @@ mit der übergeordneten Organisationseinheit ausgeschlossen ist.
 
 
 ### § 11 Identifizierung und Authentisierung des Postfachinhabers
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001601125)
 
 (1) Die Länder oder mehrere Länder gemeinsam bestimmen jeweils für
 ihren Bereich eine öffentlich-rechtliche Stelle, die die Freischaltung
@@ -466,6 +482,7 @@ Dokuments zu authentisieren durch
 
 
 ### § 12 Änderung von Angaben und Löschung des Postfachs
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001700125)
 
 (1) Bei Änderung seiner Daten hat der Postfachinhaber unverzüglich die
 Anpassung seines Postfachs bei der nach § 11 Absatz 1 bestimmten
@@ -478,6 +495,7 @@ elektronischen Bürger- und Organisationenpostfachs veranlassen.
 
 
 ### § 13 Elektronische Kommunikation über den Postfach- und Versanddienst eines Nutzerkontos
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001801125)
 
 (1) Zur Übermittlung elektronischer Dokumente auf einem sicheren
 Übermittlungsweg kann der Postfach- und Versanddienst eines
@@ -518,6 +536,7 @@ jederzeit die Löschung des Postfach- und Versanddienstes veranlassen.
 
 
 ### § 13a Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001900125)
 
 (1) Zur Auffindbarkeit und Adressierung eines Postfachinhabers dürfen
 folgende personenbezogene Daten im sicheren elektronischen Verzeichnis
@@ -578,9 +597,11 @@ sichere elektronische Verzeichnis betrieben wird.
 
 
 ## Kapitel 5 - Elektronischer Rechtsverkehr mit Strafverfolgungsbehörden und Strafgerichten
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNG000501125)
 
 
 ### § 14 Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001301125)
 
 Die Kapitel 2 bis 4 gelten im Bereich des elektronischen
 Rechtsverkehrs mit Strafverfolgungsbehörden und Strafgerichten für
@@ -616,6 +637,7 @@ nach § 2 Absatz 3 mindestens folgende Angaben enthält:
 
 
 ### § 15 Sonstige verfahrensbezogene elektronische Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001401125)
 
 (1) Sonstige verfahrensbezogene elektronische Dokumente, die an
 Strafverfolgungsbehörden oder Strafgerichte übermittelt werden, sollen
@@ -634,6 +656,7 @@ elektronischer Dokumente generell und ausdrücklich eröffnet ist.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ervv/BJNR380300017.html#BJNR380300017BJNE001202125)
 
 Der Bundesrat hat zugestimmt.
 

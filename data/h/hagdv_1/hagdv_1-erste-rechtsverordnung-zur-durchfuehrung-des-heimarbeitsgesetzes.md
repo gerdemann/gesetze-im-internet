@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Verfahren bei der Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNG000100319)
 
 
 
 ### § 1 Verfahren bei der Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE000600319)
 
 (1) Über die Gleichstellung entscheidet der für den Gewerbezweig oder
 die Beschäftigungsart der gleichzustellenden Einzelperson oder
@@ -46,10 +48,12 @@ den §§ 5 und 7.
 
 
 ## Zweiter Abschnitt - Errichtung von Heimarbeitsausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNG000200319)
 
 
 
 ### § 2 Bekanntmachung der Errichtung von Heimarbeitsausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE000700319)
 
 Die Errichtung des Heimarbeitsausschusses ist an einer von der
 zuständigen Arbeitsbehörde jeweils zu bestimmenden Stelle
@@ -58,6 +62,7 @@ Zuständigkeitsbereich des Heimarbeitsausschusses ist dabei anzugeben.
 
 
 ### § 3 Vorsitzender
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE000800319)
 
 (1) Der Vorsitzende darf nicht Auftraggeber, Zwischenmeister, in
 Heimarbeit Beschäftigter oder Gleichgestellter sein.
@@ -78,6 +83,7 @@ Heimarbeitsausschuß gegenüber abzugeben sind, entgegenzunehmen.
 
 
 ### § 4 Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE000900319)
 
 (1) Die zuständige Arbeitsbehörde beruft als Beisitzer des
 Heimarbeitsausschusses je drei Vertreter der in Heimarbeit
@@ -120,10 +126,12 @@ für den Bereich des Landes bestehen.
 
 
 ## Dritter Abschnitt - Verfahren vor den Heimarbeitsausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNG000300319)
 
 
 
 ### § 5 Verfahren vor den Heimarbeitsausschüssen allgemein
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001000319)
 
 (1) Die Sitzungen des Heimarbeitsausschusses sind nicht öffentlich.
 Der Heimarbeitsausschuß kann bestimmte Personen zulassen. Die
@@ -199,6 +207,7 @@ Maßnahmen steht.
 
 
 ### § 6 Beteiligung des Heimarbeitsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001100319)
 
 Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte
 Stelle verpflichtet, sich mit dem Heimarbeitsausschuß ins Benehmen zu
@@ -212,6 +221,7 @@ werden.
 
 
 ### § 7 Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001202308)
 
 (1) Trifft der Heimarbeitsausschuß Entscheidungen, die der Zustimmung
 der zuständigen Arbeitsbehörde bedürfen (§ 1 Abs. 4, § 11 Abs. 2, § 19
@@ -250,10 +260,12 @@ die gleichgeordnete Wirtschaftsbehörde zur Stellungnahme auffordern.
 
 
 ## Vierter Abschnitt - Errichtung von Entgeltausschüssen für fremde Hilfskräfte der Heimarbeit und das Verfahren vor ihnen
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNG000400319)
 
 
 
 ### § 8 Entgeltausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001300319)
 
 (1) Für die Errichtung der Entgeltausschüsse für fremde Hilfskräfte
 der Heimarbeit gelten die Vorschriften des Zweiten Abschnitts
@@ -271,10 +283,12 @@ Hilfskräfte der Heimarbeit gelten die §§ 5 und 7 sinngemäß.
 
 
 ## Fünfter Abschnitt - Durchführung der allgemeinen Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNG000500319)
 
 
 
 ### § 9 Listenführung
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001400319)
 
 (1) Die nach § 6 HAG zu führenden Listen sind aufzugliedern nach
 
@@ -331,6 +345,7 @@ Heimarbeit ausgeben oder weitergeben.
 
 
 ### § 10 Führen von Entgeltbüchern
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001500319)
 
 (1) Entgeltbeleg im Sinne der §§ 9, 11 und 28 HAG ist in der Regel ein
 Entgeltbuch, das die in § 12 vorgeschriebenen Angaben enthält. Die
@@ -351,6 +366,7 @@ Entgeltbuch auszustellen.
 
 
 ### § 11 Genehmigung von Entgelt- oder Arbeitszetteln
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001600319)
 
 (1) Die Ausgabe der in § 9 Abs. 2 HAG vorgesehenen Entgelt- oder
 Arbeitszettel darf nur genehmigt werden, wenn ihre Verwendung einen
@@ -388,6 +404,7 @@ aufzuführen.
 
 
 ### § 12 Form und Inhalt der Entgeltbelege
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001700319)
 
 (1) Die Entgeltbücher und die von der Obersten Arbeitsbehörde des
 Landes oder der von ihr bestimmten Stelle zugelassenen Entgeltzettel
@@ -445,6 +462,7 @@ einbezogen werden.
 
 
 ### § 13 Aufbewahrung von Entgeltbelegen
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001800319)
 
 (1) Abgeschlossene Entgeltbelege sind bis zum Ablauf des dritten
 Kalenderjahrs, das auf das Jahr der letzten Eintragung folgt, von den
@@ -456,6 +474,7 @@ Auftraggeber.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hagdv_1/BJNR005110951.html#BJNR005110951BJNE001900319)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

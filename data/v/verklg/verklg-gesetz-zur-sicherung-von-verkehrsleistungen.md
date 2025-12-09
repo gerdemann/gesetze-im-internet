@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000300000)
 
 (1) Zweck dieses Gesetzes ist die Sicherung von ausreichenden
 Verkehrsleistungen
@@ -53,6 +54,7 @@ zulässig.
 
 
 ## § 2 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000402305)
 
 (1) Leistungen im Sinne dieses Gesetzes dürfen nur angefordert werden,
 wenn
@@ -86,6 +88,7 @@ veröffentlichen.
 
 
 ## § 3 Leistungsarten
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000500000)
 
 (1) Für den in § 1 genannten Zweck können folgende Leistungen
 angefordert werden:
@@ -129,6 +132,7 @@ angefordert werden:
 
 
 ## § 4 Leistungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000603305)
 
 (1) Zu Leistungen nach diesem Gesetz können verpflichtet werden:
 
@@ -160,6 +164,7 @@ Gemeinschaften nicht entgegenstehen.
 
 
 ## § 5 Verpflichtungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000701305)
 
 (1) Leistungen nach § 3 werden von der nach § 7 Abs. 2 zuständigen
 Behörde durch Verpflichtungsbescheid angefordert. Der
@@ -171,6 +176,7 @@ Wirkung.
 
 
 ## § 6 Leistungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000800000)
 
 Verkehrsleistungen im Sinne dieses Gesetzes dürfen nur auf bestimmte
 Zeit, längstens für die Dauer von drei Monaten, angefordert werden.
@@ -180,6 +186,7 @@ Satz 1 gilt entsprechend.
 
 
 ## § 7 Anforderungsberechtigte Behörde, koordinierende Behörde, zuständige Behörde, Leistungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE000906119)
 
 (1) Folgende Bundesbehörden können zur Erfüllung ihrer Aufgaben in
 ihrem Zuständigkeitsbereich für sich selbst oder für einen anderen
@@ -273,6 +280,7 @@ werden.
 
 
 ## § 8 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001000000)
 
 (1) Wer nach § 4 Abs. 1 zur Leistung verpflichtet werden kann, hat den
 nach § 7 Abs. 2 zuständigen Behörden auf Verlangen die für den in § 1
@@ -293,6 +301,7 @@ verwendet werden.
 
 
 ## § 8a Besondere Leistungspflichten der Eisenbahnen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE002001305)
 
 Eisenbahnen des Bundes können vom Bundesministerium für Verkehr und
 digitale Infrastruktur auf Kosten des Bundes zu nicht nachholbaren
@@ -302,6 +311,7 @@ der Schieneninfrastruktur erforderlich sind.
 
 
 ## § 9 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001101305)
 
 Leistungen nach diesem Gesetz sind von dem Leistungsempfänger in
 entsprechender Anwendung der §§ 20 bis 33 mit Ausnahme des § 21 Satz 2
@@ -313,6 +323,7 @@ Bundesleistungsgesetzes entsprechend anzuwenden.
 
 
 ## § 10 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001201305)
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes dem Betroffenen
 ein Vermögensnachteil zugefügt, der nicht nach § 9 Satz 1 abzugelten
@@ -324,6 +335,7 @@ verpflichtet.
 
 
 ## § 11 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001301305)
 
 Die Vorschriften des Verwaltungszustellungsgesetzes gelten mit der
 Maßgabe, dass in dringenden Fällen, soweit es für die Erfüllung der in
@@ -345,12 +357,14 @@ Bekanntgabe folgenden Tag als bewirkt. § 7 Absatz 3 bleibt unberührt.
 
 
 ## § 12 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001402305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt
 die zur Ausführung notwendigen Verwaltungsvorschriften.
 
 
 ## § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001500000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -370,6 +384,7 @@ einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes
 
 
 ## § 14 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001600000)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -388,6 +403,7 @@ bestraft, wer
 
 
 ## § 15 Zuständige Verwaltungsbehörde bei Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001701305)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die in § 7 Abs. 2 genannte zuständige
@@ -395,11 +411,13 @@ Behörde.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001800000)
 
 -
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verklg/BJNR186500004.html#BJNR186500004BJNE001900000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

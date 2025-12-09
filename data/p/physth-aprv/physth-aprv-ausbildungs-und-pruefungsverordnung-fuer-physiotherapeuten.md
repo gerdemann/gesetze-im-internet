@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE000500000)
 
 Auf Grund des § 13 Abs. 2 und 3 in Verbindung mit § 12 Abs. 1 Satz 8
 und 9 des Masseur- und Physiotherapeutengesetzes vom 26. Mai 1994
@@ -28,10 +29,12 @@ Benehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG000600000)
 
 
 
 ### § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE000701130)
 
 (1) Die dreijährige Ausbildung der Physiotherapeuten umfaßt mindestens
 den in der Anlage 1 aufgeführten theoretischen und praktischen
@@ -75,6 +78,7 @@ Nähere regeln die Länder.
 
 
 ### § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE000800000)
 
 (1) Die staatliche Prüfung für die Ausbildungen nach § 9 und § 12 Abs.
 1 des Masseur- und Physiotherapeutengesetzes umfaßt jeweils einen
@@ -91,6 +95,7 @@ Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
 
 ### § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE000901116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus
 folgenden Mitgliedern besteht:
@@ -142,6 +147,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ### § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001002310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -179,6 +185,7 @@ berücksichtigen.
 
 
 ### § 5 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001100000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -186,6 +193,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ### § 6 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001201130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -255,6 +263,7 @@ benotet:
 
 
 ### § 7 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001300000)
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
 vorgeschriebenen Prüfungsteile bestanden ist.
@@ -284,6 +293,7 @@ begründeten Fällen zulassen.
 
 
 ### § 8 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001400000)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
 so hat er die Gründe für seinen Rücktritt unverzüglich dem
@@ -300,6 +310,7 @@ Abs. 3 gilt entsprechend.
 
 
 ### § 9 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001500000)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -313,6 +324,7 @@ entsprechend.
 
 
 ### § 10 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001600000)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -325,6 +337,7 @@ Prüfung zulässig.
 
 
 ### § 11 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001700000)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -333,10 +346,12 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## Abschnitt 2 - Prüfungsbestimmungen für die Ausbildung zum Physiotherapeuten nach § 1 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG001800000)
 
 
 
 ### § 12 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE001901130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -379,6 +394,7 @@ Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
 
 ### § 13 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002001130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -415,6 +431,7 @@ gestatten.
 
 
 ### § 14 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002101130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -489,10 +506,12 @@ abgeschlossen sein.
 
 
 ## Abschnitt 3 - Bestimmungen für die Ergänzungsprüfung nach § 1 Abs. 2 Satz 1
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG002200000)
 
 
 
 ### § 15 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002300000)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -522,6 +541,7 @@ Prüfung zu schreiben.
 
 
 ### § 16 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002400000)
 
 (1) Für Prüflinge, die die staatliche Prüfung nach § 4 Abs. 2 des
 Masseur- und Physiotherapeutengesetzes bestanden haben, erstreckt sich
@@ -556,6 +576,7 @@ Unterrichts im ersten Abschnitt der Prüfung statt.
 
 
 ### § 17 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002500000)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die in § 14
 Abs. 1 Nr. 1 und 3 genannten Fächergruppen.
@@ -568,10 +589,12 @@ im zweiten Abschnitt der Prüfung statt.
 
 
 ## Abschnitt 4 - Bestimmungen für die Ergänzungsprüfung nach § 1 Abs. 2 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG002600000)
 
 
 
 ### § 18 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002700000)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf das Fach
 Methodische Anwendung der Physiotherapie in den medizinischen
@@ -588,6 +611,7 @@ Ausbildung im zweiten Abschnitt der Prüfung statt.
 
 
 ### § 19 Mündlicher und praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE002800000)
 
 (1) Für den mündlichen Teil der Prüfung gilt § 16 entsprechend.
 
@@ -595,10 +619,12 @@ Ausbildung im zweiten Abschnitt der Prüfung statt.
 
 
 ## Abschnitt 5 - Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG002900000)
 
 
 
 ### § 20 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003000000)
 
 Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und
 Physiotherapeutengesetzes für die Erteilung der Erlaubnis zur Führung
@@ -608,10 +634,12 @@ aus.
 
 
 ## Abschnitt 5a - Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG003300116)
 
 
 
 ### § 21 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003104116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Nr. 2 des Masseur- und
 Physiotherapeutengesetzes beantragen, können zum Nachweis, daß die
@@ -691,6 +719,7 @@ Gleichstellung ergibt.
 
 
 ### § 21a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004501130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 2 des
 Masseur- und Physiotherapeutengesetzes beantragen, haben einen
@@ -761,6 +790,7 @@ abgelegt werden kann.
 
 
 ### § 21b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004103130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 2 des
 Masseur- und Physiotherapeutengesetzes beantragen, haben einen
@@ -860,6 +890,7 @@ dem Muster der Anlage 8 erteilt.
 
 
 ### § 21c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004202116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Physiotherapeutin oder Physiotherapeut nach § 1 Absatz 1
@@ -915,10 +946,12 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## Abschnitt 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNG003200000)
 
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt, soweit sich nicht aus § 16 Abs. 2 des Masseur- und
@@ -931,11 +964,13 @@ Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885,
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003800000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3791 - 3796
 
@@ -2442,6 +2477,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3791 - 3796
 
 
 ### Anlage 2 (zu § 1 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003900000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3797 - 3799
 
@@ -3130,6 +3166,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3797 - 3799
 
 
 ### Anlage 3 (zu § 1 Abs. 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004000000)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3800 - 3801
 
@@ -3535,6 +3572,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3800 - 3801
 
 
 ### Anlage 4 (zu § 1 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003400000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3802)
 .....................................................
@@ -3571,6 +3609,7 @@ Ort, Datum
 
 
 ### Anlage 5 (zu § 7 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003500000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3803)
 Der Vorsitzende
@@ -3602,6 +3641,7 @@ Ort, Datum
 
 
 ### Anlage 6 (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE003600000)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3804)
 Urkunde
@@ -3625,6 +3665,7 @@ Ort, Datum
 
 
 ### Anlage 6a (zu § 21a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004600116)
 
 (Fundstelle: BGBl. I 2016, 934)
 
@@ -3667,6 +3708,7 @@ Unterschrift(en) der Einrichtung
 
 
 ### Anlage 6b (zu § 21a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004700116)
 
 (Fundstelle: BGBl. I 2016, 934)
 
@@ -3728,6 +3770,7 @@ Ort, Datum
 
 
 ### Anlage 7 (zu § 21b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004301116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -3824,6 +3867,7 @@ Ort, Datum
 [^F781546_01_BJNR378600994BJNE004301116]: 
 
 ### Anlage 8 (zu § 21b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/physth-aprv/BJNR378600994.html#BJNR378600994BJNE004401116)
 
 
 *    *   Die/der Vorsitzende

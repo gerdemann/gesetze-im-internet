@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl/BJNR008140969.html#BJNR008140969BJNE000100304)
 
 Das Ordenskapitel des Ordens Pour le
 merite für Wissenschaften und Künste hat am 27. Juni 1963 und am 4.
@@ -31,6 +32,7 @@ Bundesminister des Innern im Bundesanzeiger veröffentlicht.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pmeritesa_nderl/BJNR008140969.html#BJNR008140969BJNE000200304)
 
 Der Bundespräsident
 Der Bundesminister des Innern

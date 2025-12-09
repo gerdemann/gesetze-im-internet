@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaseinv/BJNR291610016.html#BJNR291610016BJNE000100000)
 
 (1) Diese Verordnung gilt für Kaseine und Kaseinate, die für die
 menschliche Ernährung bestimmt sind, und für Mischungen daraus.
@@ -44,6 +45,7 @@ Begriffsbestimmungen:
 
 
 ## § 2 Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/kaseinv/BJNR291610016.html#BJNR291610016BJNE000200000)
 
 (1) Säure-Nährkasein, Labnährkasein und Nährkaseinat dürfen unter
 diesen Bezeichnungen nur in Verkehr gebracht werden, wenn sie den
@@ -62,6 +64,7 @@ entsprechen.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/kaseinv/BJNR291610016.html#BJNR291610016BJNE000300000)
 
 (1) Kaseine und Kaseinate dürfen nur in Verkehr gebracht werden, wenn
 auf den Verpackungen, Behältnissen oder Etiketten gut sichtbar,
@@ -137,6 +140,7 @@ werden.
 
 
 ## § 4 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/kaseinv/BJNR291610016.html#BJNR291610016BJNE000400000)
 
 Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder

@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtrg/BJNR239700008.html#BJNR239700008BJNE000200000)
 
 (1) Dem in Berlin am 3. März 2008 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland
@@ -33,6 +34,7 @@ Rechts – (BGBl. I S. 1597) wird zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtrg/BJNR239700008.html#BJNR239700008BJNE000300000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

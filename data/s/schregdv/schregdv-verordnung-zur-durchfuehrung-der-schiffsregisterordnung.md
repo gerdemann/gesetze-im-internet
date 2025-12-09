@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000101307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001001307)
 
 Die Register werden in festen Bänden oder in Bänden oder Einzelheften
 mit herausnehmbaren Einlegebogen geführt. Soweit die Register in
@@ -35,6 +37,7 @@ Vorschriften, die Bände voraussetzen, nicht anzuwenden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001101307)
 
 (1) Die Bände erhalten fortlaufende Nummern. Jeder Band enthält
 regelmäßig mehrere Registerblätter gleicher Seitenzahl. Im Falle des
@@ -49,11 +52,13 @@ auch ein nach Absatz 1 Satz 3 angelegter Band.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001201307)
 
 Jedes Registerblatt besteht aus der Aufschrift und drei Abteilungen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001301307)
 
 Für die Eintragung des Schiffs ist das erste freie Registerblatt zu
 verwenden. Ist ein Band nach § 2 Abs. 1 Satz 3 angelegt, so ist das
@@ -64,6 +69,7 @@ Eintragungen nicht ausreicht.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001401307)
 
 (1) Die Urkunden und Abschriften, die nach § 59 der
 Schiffsregisterordnung vom Registergericht aufzubewahren sind, werden
@@ -79,6 +85,7 @@ diese Registerakten zu verweisen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001501307)
 
 Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so
 können in den Abschriften Teile der Urkunde, die für die Führung des
@@ -86,16 +93,19 @@ Schiffsregisters ohne Bedeutung sind, weggelassen werden.
 
 
 ## Zweiter Abschnitt - Führung des Schiffsregisters
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000201307)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001602307)
 
 Eintragungen sind deutlich und ohne Abkürzung herzustellen. In dem
 Register darf nicht radiert und nichts unleserlich gemacht werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001701307)
 
 Die Eintragungen in der zweiten und dritten Abteilung sind in
 unmittelbarem Anschluß an die vorhergehende Eintragung derselben
@@ -103,12 +113,14 @@ Spalte vorzunehmen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001801307)
 
 Jede Eintragung ist zu unterschreiben. Der Tag der Eintragung ist in
 den Registerakten bei der gerichtlichen Verfügung zu vermerken.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE001902307)
 
 Soweit eine Eintragung durch eine spätere Eintragung gegenstandslos
 geworden ist, ist sie rot zu unterstreichen. Die Unterstreichung kann
@@ -121,6 +133,7 @@ entsprechend zu verfahren.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002001307)
 
 (1) Schreibversehen, die in einer Eintragung vorkommen, sind von Amts
 wegen zu berichtigen. Die Berichtigung ist in derselben Weise
@@ -143,6 +156,7 @@ jeder rote Strich durch kleine schwarze Striche durchkreuzt wird.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002102307)
 
 (1) Geht die Zuständigkeit für die Führung des Registerblatts auf ein
 anderes Registergericht über, so ist das bisherige Blatt zu schließen.
@@ -186,6 +200,7 @@ keine Kosten erhoben.
 
 
 ### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007901307)
 
 (1) Geht die Führung eines oder mehrerer Registerblätter auf ein
 anderes Registergericht über und werden die Register bei beiden
@@ -204,6 +219,7 @@ Registerblätter beziehen und bei den Akten aufbewahrt werden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002202307)
 
 (1) Ist auf einem Registerblatt für Neueintragungen kein Raum mehr
 oder ist das Registerblatt unübersichtlich geworden, so ist es
@@ -238,6 +254,7 @@ Registerblatt ersichtlichen dinglich Berechtigten bekanntzugeben.
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008001307)
 
 Ist die Aufschrift eines Blattes auf dem Deckel eines Einzelhefts
 angebracht, so kann sie auf einen Einlegebogen übertragen werden. Die
@@ -250,6 +267,7 @@ unterstreichen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002301307)
 
 (1) Wird die Eintragung des Schiffs gelöscht, so ist das Registerblatt
 zu schließen.
@@ -260,6 +278,7 @@ eingetragen war.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002401307)
 
 Ist das Registerblatt zu schließen (§ 12 Abs. 1, § 13 Abs. 1, § 14
 Abs. 1), so ist in der Aufschrift ein Schließungsvermerk unter Angabe
@@ -270,6 +289,7 @@ durchkreuzen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002502125)
 
 Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
 
@@ -286,10 +306,12 @@ Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
 
 
 ## Dritter Abschnitt - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000301307)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002601307)
 
 Anmeldungen und Eintragungsanträge, die nicht der Form der §§ 37ff.
 der Schiffsregisterordnung bedürfen und nicht schriftlich eingereicht
@@ -297,12 +319,14 @@ werden, sind von jedem Amtsgericht zur Niederschrift entgegenzunehmen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002701307)
 
 Eintragungen in das Register sollen regelmäßig im Wortlaut verfügt
 werden.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002801307)
 
 Bei der Bekanntmachung von Eintragungen in das Schiffsregister (§ 57
 der Schiffsregisterordnung) sind die Eintragungen wörtlich
@@ -312,6 +336,7 @@ werden kann.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE002901307)
 
 Die Eintragungen in die erste Abteilung des Schiffsregisters sind
 allen aus dem Registerblatt ersichtlichen dinglich Berechtigten
@@ -320,6 +345,7 @@ gilt entsprechend.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003001307)
 
 Der Beschluß, durch den eine Eintragung abgelehnt wird, ist, auch
 soweit § 28 der Schiffsregisterordnung nicht Platz greift, mit Gründen
@@ -327,6 +353,7 @@ zu versehen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003101307)
 
 (1) Einfache Abschriften sind mit der Angabe des Tages ihrer
 Fertigstellung abzuschließen. Sie sind nicht zu unterzeichnen.
@@ -362,6 +389,7 @@ Ablichtung hergestellt wird.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003201307)
 
 Auf Verlangen ist eine Bescheinigung darüber zu erteilen, daß zu dem
 Gegenstand einer Eintragung weitere Eintragungen nicht vorhanden sind
@@ -369,6 +397,7 @@ oder daß eine bestimmte Eintragung nicht erfolgt ist.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003301307)
 
 Bescheinigungen und Zeugnisse sind unter Angabe des Ortes und Tages zu
 unterschreiben und mit dem Siegel oder Stempel des Registergerichts zu
@@ -376,10 +405,12 @@ versehen.
 
 
 ## Vierter Abschnitt - Das Seeschiffsregister
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000401307)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003401307)
 
 (1) Für die Einrichtung des Seeschiffsregisters ist das Muster
 maßgebend, das dieser Verordnung als Anlage 1 beigefügt ist.
@@ -391,12 +422,14 @@ Eintragungsverfahrens zweckmäßig ist.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003501307)
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003604307)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -479,6 +512,7 @@ Eintragungen in Spalte 10 zu unterschreiben.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003703125)
 
 (1) In der zweiten Abteilung sind einzutragen:
 
@@ -551,6 +585,7 @@ Eintragungen in Spalte 10 zu unterschreiben.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003803307)
 
 (1) In der dritten Abteilung sind einzutragen:
 
@@ -631,11 +666,13 @@ und 8 in Spalte 8 zu unterschreiben.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE003902307)
 
 (weggefallen)
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004005311)
 
 (1) Das Registergericht führt ein Verzeichnis der ihm vom
 Bundesministerium für Verkehr und digitale Infrastruktur oder einer
@@ -677,10 +714,12 @@ sinngemäß.
 
 
 ## Fünfter Abschnitt - Das Binnenschiffsregister
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000501307)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004101307)
 
 Für die Einrichtung des Binnenschiffsregisters ist das Muster
 maßgebend, das dieser Verordnung als Anlage 2 beigefügt ist. § 25 Abs.
@@ -688,12 +727,14 @@ maßgebend, das dieser Verordnung als Anlage 2 beigefügt ist. § 25 Abs.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004201307)
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004301307)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -751,6 +792,7 @@ Registerblatts anzugeben.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004402125)
 
 (1) In der zweiten Abteilung sind einzutragen:
 
@@ -814,6 +856,7 @@ Registerblatts anzugeben.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004501307)
 
 Für Eintragungen in der dritten Abteilung gelten die Vorschriften des
 § 29 entsprechend, soweit sie die Schiffshypothek, das
@@ -821,10 +864,12 @@ Arrestpfandrecht und den Nießbrauch betreffen.
 
 
 ## Sechster Abschnitt - Das Schiff betreffende Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000601307)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004602307)
 
 (1) Für das Schiffszertifikat ist das Muster in deutscher Sprache mit
 englischer Übersetzung maßgebend, das dieser Verordnung als Anlage 4
@@ -845,6 +890,7 @@ sie durch Schnur und Siegel miteinander zu verbinden.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004702307)
 
 (1) Ist das Schiff noch nicht im Inland vermessen (§ 27 Abs. 1 Nr. 6),
 so sind die Ergebnisse der Vermessung links neben dem für die
@@ -863,6 +909,7 @@ unterschreiben und mit dem Stempel des Registergerichts zu versehen.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004802307)
 
 Eintragungen in das Schiffsregister, die nach der Ausstellung des
 Schiffszertifikats erfolgen, sind, wenn sie das Schiff oder die
@@ -878,6 +925,7 @@ Registergerichts zu versehen.
 
 
 ### § 39a
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010200160)
 
 (1) Für die Ausfertigung des Schiffszertifikats können auch die
 amtlich vorgegebenen Vordrucke nach dem Muster in der Anlage 4a zu
@@ -895,6 +943,7 @@ Schiffsregisters aufzunehmen ist.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE004902160)
 
 (1) Ein neues Schiffszertifikat ist auszustellen, wenn das Schiff auf
 ein anderes Registerblatt übertragen wird oder wenn der Eigentümer es
@@ -908,6 +957,7 @@ ausgestellt, so ist dies im Ausfertigungsvermerk anzugeben.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005002160)
 
 (1) Abgesehen vom Fall des § 62 Abs. 3 der Schiffsregisterordnung ist
 das Schiffszertifikat auch unbrauchbar zu machen, wenn ein neues
@@ -919,6 +969,7 @@ ist bei den Registerakten zu verwahren.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005102307)
 
 (1) Für den beglaubigten Auszug aus dem Schiffszertifikat ist das
 Muster in deutscher Sprache mit englischer Übersetzung maßgebend, das
@@ -937,6 +988,7 @@ und § 41 entsprechend.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005201307)
 
 Ist außer dem Schiffszertifikat auch der beglaubigte Auszug aus dem
 Schiffszertifikat dem Registergericht einzureichen, so soll der Auszug
@@ -945,6 +997,7 @@ ausgehändigt ist.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005302160)
 
 Für den Schiffsbrief sind die Muster maßgebend, die dieser Verordnung
 als Anlagen 6 und 6a beigefügt sind. Im übrigen gelten die §§ 37 bis
@@ -952,6 +1005,7 @@ als Anlagen 6 und 6a beigefügt sind. Im übrigen gelten die §§ 37 bis
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005403160)
 
 (1) Das Registergericht hat auf dem Eichschein die Eintragung des
 Schiffs in das Schiffsregister zu vermerken. In dem Vermerk sind die
@@ -964,16 +1018,19 @@ nach Absatz 1 erteilt worden ist.
 
 
 ## Siebenter Abschnitt - Das Schiffsbauregister
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000701307)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005501307)
 
 Für die Einrichtung und Führung des Schiffsbauregisters gelten die §§
 1 bis 24 entsprechend.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005601307)
 
 Das Registerblatt ist auch zu schließen, wenn dem Registergericht von
 der Eintragung des Schiffs in das Schiffsregister nach § 16 Abs. 3 der
@@ -981,6 +1038,7 @@ Schiffsregisterordnung Mitteilung gemacht wird.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005701307)
 
 Nach der Schließung des Registerblatts hat das Registergericht die
 Registerakten dem für die Eintragung des Schiffs in das
@@ -988,18 +1046,21 @@ Schiffsregister zuständigen Amtsgericht zu übersenden.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005801307)
 
 Für das Schiffsbauregister ist das Muster maßgebend, das dieser
 Verordnung als Anlage 3 beigefügt ist. § 25 Abs. 2 gilt entsprechend.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE005901307)
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006001307)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -1033,6 +1094,7 @@ Löschung ist in Spalte 5 zu unterschreiben.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006103125)
 
 (1) In der zweiten Abteilung sind einzutragen:
 
@@ -1091,6 +1153,7 @@ Löschung ist in Spalte 5 zu unterschreiben.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006203307)
 
 (1) In der dritten Abteilung sind einzutragen:
 
@@ -1156,6 +1219,7 @@ in den Spalten 6 und 7 in Spalte 7 zu unterschreiben.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006301307)
 
 Auf im Bau befindliche oder fertiggestellte Schwimmdocks sind die
 Vorschriften in den §§ 46 und 49 bis 53 mit den folgenden Maßgaben
@@ -1184,14 +1248,17 @@ entsprechend anzuwenden:
 
 
 ## Achter Abschnitt - Maschinell geführte Register
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000901307)
 
 
 
 ### Unterabschnitt 1 - Maschinell geführte Register und ihre Anlegung
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001001307)
 
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008101307)
 
 Für maschinell geführte Register gelten der Erste bis Siebente
 Abschnitt, soweit im folgenden nichts Abweichendes bestimmt wird. Die
@@ -1201,6 +1268,7 @@ erforderlicher Verzeichnisse.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008202307)
 
 Bei maschinell geführten Registern ist der in den dafür bestimmten
 Datenspeicher aufgenommene und auf Dauer unverändert in lesbarer Form
@@ -1214,6 +1282,7 @@ getroffen werden.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008301307)
 
 Der Inhalt eines maschinell geführten Registers muß auf dem Bildschirm
 und in Ausdrucken so sichtbar gemacht werden können, wie es den durch
@@ -1222,6 +1291,7 @@ Vorschriften, die Registerbände voraussetzen, sind nicht anzuwenden.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008402125)
 
 Für die Anforderungen an Anlagen, Programme und ihre Sicherung gelten
 die Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 und die §§ 64
@@ -1229,6 +1299,7 @@ bis 66 der Grundbuchverfügung sinngemäß.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008501307)
 
 (1) Das Registerblatt kann auch umgeschrieben werden, wenn es
 maschinell geführt werden soll. Für die Durchführung gilt § 13 mit der
@@ -1264,6 +1335,7 @@ und die Einzelheiten der Durchführung.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008602160)
 
 (1) Kann ein maschinell geführtes Registerblatt ganz oder teilweise
 auf Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist es
@@ -1295,10 +1367,12 @@ Registers in Papierform bestimmt werden.
 
 
 ### Unterabschnitt 2 - Eintragungen in maschinell geführte Register
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001101307)
 
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008701307)
 
 (1) Die Eintragung in maschinell geführte Register wird abweichend von
 § 2 Abs. 2 der Schiffsregisterordnung von der für die Führung des
@@ -1318,6 +1392,7 @@ ist zu verifizieren.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008801307)
 
 Bei dem maschinell geführten Register soll eine Eintragung nur möglich
 sein, wenn die für die Führung des Registers zuständige Person oder,
@@ -1333,6 +1408,7 @@ Stelle überprüft werden können.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE008901307)
 
 Die äußere Form der Wiedergabe einer Eintragung bestimmt sich im
 übrigen nach dem Vierten, Fünften und Siebenten Abschnitt. Soweit nach
@@ -1342,10 +1418,12 @@ geführten Register schwarz dargestellt werden.
 
 
 ### Unterabschnitt 3 - Einsicht in maschinell geführte Register und Abschriften hieraus
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001201307)
 
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009001307)
 
 Für die Einsicht in maschinell geführte Register und die Erteilung von
 Abschriften hieraus gelten § 8 der Schiffsregisterordnung und die
@@ -1354,6 +1432,7 @@ nichts Abweichendes bestimmt ist.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009102307)
 
 (1) Der Ausdruck aus maschinell geführten Registern ist mit der
 Aufschrift "Ausdruck" und dem Hinweis auf das Datum des Abrufs der
@@ -1376,6 +1455,7 @@ werden, welchen Eintragungsstand er wiedergibt.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009202160)
 
 (1) Bei maschinell geführten Registern sind das Schiffszertifikat, der
 amtliche Auszug aus diesem und der Schiffsbrief nicht zu
@@ -1405,6 +1485,7 @@ geführten Register erteilt worden ist.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009302307)
 
 (1) Die Einsicht erfolgt durch Wiedergabe des betreffenden
 Registerblatts auf einem Bildschirm. Der Einsicht nehmenden Person
@@ -1430,10 +1511,12 @@ schließt die Erteilung von Abschriften mit ein.
 
 
 ### Unterabschnitt 4 - Automatisierter Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001301307)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009404125)
 
 Die Gewährung des Abrufs von Daten im automatisierten Verfahren nach §
 93 der Schiffsregisterordnung in Verbindung mit § 133 der
@@ -1448,6 +1531,7 @@ dem Zweck verarbeiten darf, für den sie ihr übermittelt worden sind.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009501307)
 
 (1) Die Einrichtung eines automatisierten Abrufverfahrens bedarf bei
 Gerichten, Strafverfolgungsbehörden, dem Bundesamt für Seeschiffahrt
@@ -1483,15 +1567,18 @@ sind den übrigen Landesjustizverwaltungen unverzüglich mitzuteilen.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009602160)
 
 Im Übrigen gelten die §§ 82 bis 84 der Grundbuchverfügung sinngemäß.
 
 
 ### Unterabschnitt 5 - Zusammenarbeit mit Behörden der Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001401307)
 
 
 
 #### § 71
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009701307)
 
 (1) Unterscheidungssignale, IMO-Nummern, Meßdaten und Angaben zum
 Flaggenführungsrecht kann das Registergericht von dem Bundesamt für
@@ -1512,10 +1599,12 @@ Register. Die Daten können auch im automatisierten Verfahren
 
 
 ### Unterabschnitt 6 - Datenverarbeitung im Auftrag, ergänzende Vorschriften des Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001501307)
 
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009801307)
 
 Die Bestimmungen dieser Verordnung gelten für die Verarbeitung von
 Registerdaten durch eine andere Stelle im Auftrag des Registergerichts
@@ -1527,6 +1616,7 @@ Grundbuchordnung und nach den Unterabschnitten 4 und 5 zulässig ist.
 
 
 #### § 73 Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE009902311)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 Anlegung des maschinell geführten Registers einschließlich seiner
@@ -1538,10 +1628,12 @@ können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 ## Neunter Abschnitt - Elektronischer Rechtsverkehr und elektronische Registerakte
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG001600311)
 
 
 
 ### § 73a
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010300311)
 
 Die Vorschriften dieser Verordnung über die Registerakten gelten auch
 für die elektronischen Registerakten, soweit in diesem Abschnitt
@@ -1549,6 +1641,7 @@ nichts anderes bestimmt ist.
 
 
 ### § 73b
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010400311)
 
 Für die Bestimmung des Datenspeichers für die elektronischen
 Registerakten, die Anforderungen an technische Anlagen und Programme,
@@ -1557,6 +1650,7 @@ Datenverarbeitung im Auftrag gelten die §§ 56, 58 und 72 sinngemäß.
 
 
 ### § 73c
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010500311)
 
 (1) Die Registerakte kann vollständig oder teilweise elektronisch
 geführt werden. Bei teilweiser elektronischer Führung sind in beide
@@ -1605,6 +1699,7 @@ wurden.
 
 
 ### § 73d
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010600311)
 
 (1) Wird ein in Papierform vorliegendes Schriftstück in ein
 elektronisches Dokument übertragen und in dieser Form anstelle des in
@@ -1630,6 +1725,7 @@ elektronischen Dokument eindeutig ersichtlich sind.
 
 
 ### § 73e
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010700311)
 
 (1) Wird ein elektronisches Dokument zur Übernahme in die Registerakte
 in die Papierform übertragen, ist durch geeignete Vorkehrungen
@@ -1658,6 +1754,7 @@ Beschwerdeverfahrens aufzubewahren.
 
 
 ### § 73f
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010900311)
 
 (1) Für die Erteilung von Ausdrucken aus der elektronischen
 Registerakte gilt § 65 Absatz 1 und 2 entsprechend. In den amtlichen
@@ -1672,6 +1769,7 @@ automatisierten Verfahren gelten die §§ 68 bis 70 entsprechend.
 
 
 ### § 73g
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE011000311)
 
 Kann der Inhalt der elektronischen Registerakte ganz oder teilweise
 auf Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist er
@@ -1680,6 +1778,7 @@ wiederherzustellen. Für die Wiederherstellung gilt § 60 Absatz 1 Satz
 
 
 ### § 73h
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE011100311)
 
 Geht die Zuständigkeit für die Führung eines Registerblattes auf ein
 anderes Registergericht desselben Landes über, so gilt für die Abgabe
@@ -1687,6 +1786,7 @@ der elektronischen Akten § 92a der Grundbuchverfügung entsprechend.
 
 
 ### § 73i
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE011200311)
 
 Die Landesregierungen werden ermächtigt, weitere in der
 Schiffsregisterordnung oder in dieser Verordnung nicht geregelte
@@ -1696,10 +1796,12 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ## Zehnter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNG000803311)
 
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006405307)
 
 (1) Für neu anzulegende Registerblätter können die vorhandenen
 Vordrucke, soweit sie der Schiffsregisterverfügung vom 29. Mai 1951
@@ -1727,6 +1829,7 @@ Antragsteller auf die englische Übersetzung verzichtet.
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006503307)
 
 (1) In den nicht geschlossenen Registerblättern von Binnenschiffen
 sind die vorgedruckten Teile der ersten Abteilung, Spalte 5,
@@ -1770,10 +1873,12 @@ Fassung der Anlagen 1 bis 3 zu dieser Verordnung nicht geboten.
 
 
 ### § 76 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006603160)
 
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006704160)
 
 Werden für ein bereits eingetragenes Schiff gemäß § 75 Angaben im
 Schiffsregister nachgetragen, ist ein neues Schiffszertifikat oder ein
@@ -1782,10 +1887,12 @@ Ausstellung gültige Inhalt des Schiffsregisters aufzunehmen.
 
 
 ### § 78 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006804160)
 
 
 
 ### § 79
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE006902307)
 
 Ist ein Schiff erneuert und daraufhin das Jahr und der Umfang der
 Erneuerung in die Klassifikationsurkunde eingetragen worden, so sind
@@ -1795,6 +1902,7 @@ Schiffsbrief zu vermerken.
 
 
 ### § 80
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007006307)
 
 (1) Diese Verordnung gilt, soweit in den folgenden Absätzen nicht
 etwas Abweichendes bestimmt ist, auch in dem in Artikel 3 des
@@ -1815,6 +1923,7 @@ wiederzugeben.
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007104307)
 
 § 29 Abs. 1 und § 53 Abs. 1 in der seit dem 24. Februar 1999 geltenden
 Fassung sind auch auf Eintragungen anzuwenden, die vor diesem
@@ -1823,30 +1932,35 @@ worden sind.
 
 
 ### Anlage 1 (zu § 25)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007303307)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3644 - 3645)
 
 
 ### Anlage 2 (zu § 32)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007402307)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3646)
 
 
 ### Anlage 3 (zu § 49)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007502307)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3647)
 
 
 ### Anlage 4 (zu § 37)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007604307)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3648 - 3649)
 
 
 ### Anlage 4a (zu § 39a)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010000160)
 
 (Fundstelle: BGBl. I 2010, 881 - 882)
 
@@ -2122,18 +2236,21 @@ provisions):*
 
 
 ### Anlage 5 (zu § 42)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007704307)
 
    (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3650 - 3651)
 
 
 ### Anlage 6 (zu § 44)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE007802307)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3652)
 
 
 ### Anlage 6a (zu § 44)
+[Direktlink](https://www.gesetze-im-internet.de/schregdv/BJNR021690980.html#BJNR021690980BJNE010100160)
 
 (Fundstelle: BGBl. I 2010, 883 - 884)
 

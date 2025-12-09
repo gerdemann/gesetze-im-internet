@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swehrdgerkldgano/BJNR006410957.html#BJNR006410957BJNE000100311)
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes
 ordne ich an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swehrdgerkldgano/BJNR006410957.html#BJNR006410957BJNE000200311)
 
 Die Amtstracht des Bundeswehrdisziplinaranwalts sowie der für in
 auftretenden Beamten, der richterlichen Mitglieder der
@@ -37,6 +39,7 @@ und die Urkundsbeamten eine einfache weiße Halsbinde.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swehrdgerkldgano/BJNR006410957.html#BJNR006410957BJNE000300311)
 
 Die Farbe der Amtstracht ist für den Bundeswehrdisziplinaranwalt
 karmesinrot, für die richterlichen Mitglieder der
@@ -52,6 +55,7 @@ Wollstoff.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swehrdgerkldgano/BJNR006410957.html#BJNR006410957BJNE000400311)
 
 Am Barett tragen
 
@@ -82,6 +86,7 @@ c)  die Wehrdisziplinaranwälte und die für den Bundeswehrdisziplinaranwalt
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swehrdgerkldgano/BJNR006410957.html#BJNR006410957BJNE000500311)
 
 Der Bundesminister für Verteidigung wird ermächtigt,
 Ausführungsbestimmungen zu dieser Anordnung zu erlassen.

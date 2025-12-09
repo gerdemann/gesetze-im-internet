@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000100325)
 
 Auf Grund des § 3 Abs. 1 Nr. 1 bis 4 des Gesetzes über Einheiten im
 Meßwesen in der Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl.
@@ -27,6 +28,7 @@ I S. 408) wird verordnet:
 
 
 ## § 1 Gesetzliche Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000203377)
 
 (1) Gesetzliche Einheiten und Einheitenzeichen gemäß § 2 Nr. 1 des
 Einheiten- und Zeitgesetzes sind
@@ -60,6 +62,7 @@ Vorsatzzeichen verwendet werden.
 
 
 ## § 2 Einheitennamen in Datenverarbeitungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000301377)
 
 In Datenverarbeitungsanlagen mit beschränktem Zeichenvorrat dürfen die
 Einheitennamen und Vorsätze nach DIN 66 030, Ausgabe Mai 2002,
@@ -67,6 +70,7 @@ dargestellt werden.
 
 
 ## § 3 Zusätzliche Verwendung nicht gesetzlicher Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000404377)
 
 Soweit nach den §§ 1 und 2 des Einheiten- und Zeitgesetzes Größen in
 gesetzlichen Einheiten anzugeben sind, ist die zusätzliche Verwendung
@@ -75,6 +79,7 @@ in der gesetzlichen Einheit hervorgehoben ist.
 
 
 ## § 4 Bezugsquelle und Niederlegung der DIN-Normen
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000500325)
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
 Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patentamt
@@ -82,6 +87,7 @@ in München archivmäßig gesichert niedergelegt.
 
 
 ## § 5 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000603377)
 
 Ordnungswidrig im Sinne des § 10 Abs. 1 Nr. 3 des Einheiten- und
 Zeitgesetzes handelt, wer entgegen § 3 andere als die gesetzlichen
@@ -89,17 +95,20 @@ Einheiten zusätzlich verwendet.
 
 
 ## § 6 Inkrafttreten, abgelöste Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000700325)
 
 Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000800325)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 1)
 
 ## Anlage 1 Gesetzliche Einheiten mit besonderem Namen
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE000901377)
 
 (Fundstelle: BGBl. I 1985, 2273 - 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -589,6 +598,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1)
 
 ## Anlage 2 Vorsätze und Vorsatzzeichen zur Bezeichnung von dezimalen Vielfachen und Teilen von Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/einhv/BJNR022720985.html#BJNR022720985BJNE001001308)
 
 (Fundstelle: BGBl. I 2000, 214)
 

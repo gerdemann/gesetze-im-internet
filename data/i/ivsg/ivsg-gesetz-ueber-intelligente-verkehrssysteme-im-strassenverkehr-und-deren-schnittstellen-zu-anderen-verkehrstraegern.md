@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000100000)
 
 Dieses Gesetz gilt für Intelligente Verkehrssysteme im Straßenverkehr
 und deren Schnittstellen zu anderen Verkehrsträgern. Dieses Gesetz
@@ -35,6 +36,7 @@ Sicherheit oder der Verteidigung dienen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000201360)
 
 Im Sinne dieses Gesetzes bezeichnet der Begriff
 
@@ -118,6 +120,7 @@ Im Sinne dieses Gesetzes bezeichnet der Begriff
 
 
 ## § 3 Grundsätze für die Einführung Intelligenter Verkehrssysteme
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000300000)
 
 Bei der Einführung von Anwendungen und Diensten Intelligenter
 Verkehrssysteme müssen die zuständigen Behörden die von der
@@ -134,6 +137,7 @@ angeordnet wird.
 
 
 ## § 4 Vorrangige Bereiche
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000400000)
 
 Intelligente Verkehrssysteme können vorrangig für folgende Zwecke
 eingeführt werden:
@@ -156,6 +160,7 @@ eingeführt werden:
 
 
 ## § 5 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000700360)
 
 Die Bundesanstalt für Straßenwesen nimmt im Rahmen der
 bundesrechtlichen Regelungsbefugnisse die Aufgaben als Nationale
@@ -163,6 +168,7 @@ Stelle wahr.
 
 
 ## § 6 Aufgaben der Nationalen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000800360)
 
 (1) Die Nationale Stelle prüft nach dem Zufallsprinzip die
 übermittelte Eigenerklärung der Datenlieferanten auf die Einhaltung
@@ -212,6 +218,7 @@ Infrastruktur.
 
 
 ## § 7 Nutzung der Nationalen Stelle durch andere Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000900360)
 
 Die zuständigen Behörden der Länder können sich im Rahmen der
 landesrechtlichen Regelungsbefugnisse der zuständigen Behörde nach § 5
@@ -219,6 +226,7 @@ im Wege der Organleihe bedienen.
 
 
 ## § 8 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000502360)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, unter Berücksichtigung des Artikels 10 der Richtlinie
@@ -229,6 +237,7 @@ Verbindung mit Anhang II der Richtlinie 2010/40/EU zu regeln.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ivsg/BJNR155300013.html#BJNR155300013BJNE000601360)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

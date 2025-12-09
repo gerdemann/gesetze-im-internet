@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000100323)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -33,6 +34,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000201377)
 
 (1) Das Bundeszentralamt für Steuern erstattet an die Europäische
 Organisation zur Sicherung der Luftfahrt EUROCONTROL auf Antrag aus
@@ -59,6 +61,7 @@ Bundeszentralamt für Steuern unverzüglich zu unterrichten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000300323)
 
 Die Einfuhr von Gegenständen für EUROCONTROL ist
 einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von
@@ -66,6 +69,7 @@ Lebensmitteln und Tabakerzeugnissen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000401377)
 
 Wird ein Gegenstand veräußert, den EUROCONTROL für den amtlichen
 Gebrauch erworben oder eingeführt hat und für dessen Erwerb oder
@@ -80,6 +84,7 @@ Gegenstandes geltenden Steuersatzes
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000500323)
 
 Die Bundesrepublik Deutschland gleicht die nach dem jährlichen
 Durchschnitt berechnete Mineralölsteuerbelastung auf ausschließlich
@@ -89,6 +94,7 @@ Kontingente.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000601377)
 
 (1) Das Bundeszentralamt für Steuern erstattet EUROCONTROL auf Antrag
 aus dem Aufkommen der Einkommensteuer die Einkommensteuer oder
@@ -113,12 +119,14 @@ werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000700323)
 
 Das Halten von Kraftfahrzeugen und Kraftfahrzeuganhängern, die für
 EUROCONTROL zugelassen sind, ist von der Kraftfahrzeugsteuer befreit.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000800323)
 
 Steuerentlastungen nach den vorstehenden Bestimmungen werden nur
 gewährt, soweit die anderen Mitgliedstaaten von EUROCONTROL
@@ -126,6 +134,7 @@ entsprechende Steuerentlastungen gewähren.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE000900323)
 
 (1) §§ 2, 4 und 5 dieser Verordnung sind anzuwenden, soweit
 EUROCONTROL nach dem Inkrafttreten des in § 10 näher bezeichneten
@@ -146,6 +155,7 @@ bezeichneten Zusatzprotokolls gehalten werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE001000323)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
@@ -158,6 +168,7 @@ vom 28. Februar 1964, auch im Land Berlin.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv/BJNR208140972.html#BJNR208140972BJNE001100323)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Zusatzprotokoll vom 6. Juli 1970 zum Internationalen Übereinkommen vom

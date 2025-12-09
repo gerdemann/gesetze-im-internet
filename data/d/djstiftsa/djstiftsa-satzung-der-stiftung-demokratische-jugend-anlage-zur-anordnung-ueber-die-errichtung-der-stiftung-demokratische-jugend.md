@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Name und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000100307)
 
 Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie ist
 eine selbständige Stiftung öffentlichen Rechts und hat ihren Sitz in
@@ -26,6 +27,7 @@ Berlin.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000200307)
 
 (1) Zweck der Stiftung ist die Förderung der Jugendarbeit in der DDR
 bzw. in den sich auf diesem Territorium bildenden Ländern.
@@ -62,6 +64,7 @@ Stiftung zu verwirklichen ist.
 
 
 ## § 3 Gemeinnützigkeit
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000300307)
 
 Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und
 unmittelbar gemeinnützige Zwecke. Mittel der Stiftung dürfen nur für
@@ -70,6 +73,7 @@ Begünstigungen erfolgen, die dem Stiftungszweck fremd sind.
 
 
 ## § 4 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000400307)
 
 (1) Die Stiftung wird im Zeitpunkt ihrer Errichtung ausgestattet mit
 20 Millionen DM. Diesem Vermögen wachsen weitere freiwillige
@@ -88,6 +92,7 @@ zuständigen Aufsichtsbehörden vorzulegen.
 
 
 ## § 5 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000500307)
 
 (1) Leistungen können gewährt werden für einmalige oder wiederkehrende
 Maßnahmen oder ständige Einrichtungen, die der Jugendarbeit dienen.
@@ -119,6 +124,7 @@ Aufwandsentschädigung entscheidet der Vorstand.
 
 
 ## § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000600307)
 
 (1) Organ der Stiftung ist der Vorstand. Er besteht aus einem
 Vorsitzenden des Vorstandes, einem Stellvertreter des Vorsitzenden und
@@ -145,6 +151,7 @@ mit einfacher Mehrheit.
 
 
 ## § 7 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000700307)
 
 Das Kuratorium berät den Vorstand und überwacht die Einhaltung des
 Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener
@@ -163,6 +170,7 @@ zustimmt.
 
 
 ## § 8 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000800307)
 
 Der Vorstand kann zur Führung der Stiftungsgeschäfte Geschäftsführer
 bestellen, die an die Beschlüsse des Vorstandes gebunden sind.
@@ -170,12 +178,14 @@ Geschäftsjahr ist das Kalenderjahr.
 
 
 ## § 9 Fach- und Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE000900307)
 
 Vorbehaltlich einer künftigen gesetzlichen Regelung übt das
 Ministerium für Jugend und Sport die Fach- und Rechtsaufsicht aus.
 
 
 ## § 10 Satzungsänderung, Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/djstiftsa/DDNR214730990.html#DDNR214730990BJNE001000307)
 
 Satzungsänderungen können vom Vorstand nur einstimmig im Sinne des
 Stiftungszwecks beschlossen werden und bedürfen der Zustimmung der

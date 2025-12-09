@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-22-1-22 v. 1.6.2006 I 1285 (MüAusbV 2006)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 236 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -37,9 +38,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000300000)
 
 Der Ausbildungsberuf des Verfahrenstechnologen Mühlen- und
 Getreidewirtschaft und der Verfahrenstechnologin Mühlen- und
@@ -56,11 +59,13 @@ Getreidewirtschaft wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -78,6 +83,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -197,6 +203,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -204,6 +211,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000800000)
 
 (1) Die Auszubildenden haben jeweils einen schriftlichen
 Ausbildungsnachweis zu führen. Dazu ist ihnen während der
@@ -214,12 +222,15 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000300000)
 
 
 #### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE000900000)
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat.
@@ -232,9 +243,11 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### Unterabschnitt 2 - Teil 1 der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000400000)
 
 
 #### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001000000)
 
 Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -251,6 +264,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 #### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001100000)
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung findet im
 Prüfungsbereich Annehmen von Rohstoffen statt.
@@ -303,9 +317,11 @@ der Aufgaben beträgt sie 60 Minuten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Müllerei
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000500000)
 
 
 #### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001200000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich in der
 Fachrichtung Müllerei auf
@@ -329,6 +345,7 @@ erforderlich ist.
 
 
 #### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001300000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Müllerei in den folgenden Prüfungsbereichen statt:
@@ -346,6 +363,7 @@ Müllerei in den folgenden Prüfungsbereichen statt:
 
 
 #### § 12 Prüfungsbereich Herstellen von Enderzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001400000)
 
 (1) Im Prüfungsbereich Herstellen von Enderzeugnissen soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -411,6 +429,7 @@ zusammen höchstens 20 Minuten.
 
 
 #### § 13 Prüfungsbereich Verfahrenstechnologie und Arbeitsplanung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001500000)
 
 (1) Im Prüfungsbereich Verfahrenstechnologie und Arbeitsplanung soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -453,6 +472,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -466,6 +486,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Müllerei wie folgt zu gewichten:
@@ -547,9 +568,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Agrarlager
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000600000)
 
 
 #### § 16 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001800000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich in der
 Fachrichtung Agrarlager auf
@@ -573,6 +596,7 @@ erforderlich ist.
 
 
 #### § 17 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE001900000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in der Fachrichtung
 Agrarlager in den folgenden Prüfungsbereichen statt:
@@ -593,6 +617,7 @@ Agrarlager in den folgenden Prüfungsbereichen statt:
 
 
 #### § 18 Prüfungsbereich Rohstoffe und Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002000000)
 
 (1) Im Prüfungsbereich Rohstoffe und Saatgut soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -624,6 +649,7 @@ höchstens 15 Minuten.
 
 
 #### § 19 Prüfungsbereich Anwenden und Abgeben von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002100000)
 
 (1) Im Prüfungsbereich Anwenden und Abgeben von Pflanzenschutzmitteln
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -670,6 +696,7 @@ Minuten.
 
 
 #### § 20 Prüfungsbereich Lagerungstechniken
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002200000)
 
 (1) Im Prüfungsbereich Lagerungstechniken soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -721,6 +748,7 @@ nachweisen, dass er in der Lage ist,
 
 
 #### § 21 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002300000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -734,6 +762,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 22 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002400000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Agrarlager wie folgt zu gewichten:
@@ -824,9 +853,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNG000700000)
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002500000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Müller
@@ -839,6 +870,7 @@ worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/m_hgetreiwitechausbv/BJNR100200017.html#BJNR100200017BJNE002600000)
 
 (Fundstelle: BGBl. I 2017, 1008 - 1015)
 

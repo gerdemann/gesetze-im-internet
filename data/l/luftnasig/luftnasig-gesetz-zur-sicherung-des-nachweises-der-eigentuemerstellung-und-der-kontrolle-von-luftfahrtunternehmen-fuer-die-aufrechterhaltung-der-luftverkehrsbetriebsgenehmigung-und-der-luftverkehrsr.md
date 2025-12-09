@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000100305)
 
 (1) Dieses Gesetz dient der Sicherung des Nachweises der
 Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die
@@ -42,6 +43,7 @@ Hauptversammlung mit gleicher Mehrheit wieder aufgehoben werden.
 
 
 ## § 2 Form der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000201123)
 
 (1) Die von Gesellschaften im Sinne des § 1 Abs. 1 ausgegebenen Aktien
 müssen Namensaktien sein, deren Übertragung gemäß § 68 Abs. 2 des
@@ -75,6 +77,7 @@ Schadens verpflichtet.
 
 
 ## § 3 Umwandlung in vinkulierte Namensaktien
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000300305)
 
 (1) Die von Gesellschaften im Sinne des § 1 Abs. 1 zum Zeitpunkt des
 Inkrafttretens dieses Gesetzes ausgegebenen Aktien werden durch dieses
@@ -105,6 +108,7 @@ den Aktien nicht zu.
 
 
 ## § 4 Kapitalmaßnahmen zur Beseitigung einer Gefährdung der Luftverkehrsbetriebsgenehmigung oder der Luftverkehrsrechte
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000401123)
 
 (1) Ergibt sich aus dem Aktienbuch, daß sich 40 vom Hundert oder mehr
 der nach den ausgegebenen Aktien insgesamt möglichen Stimmen im Besitz
@@ -148,6 +152,7 @@ luftverkehrsrechtlichen Befugnisse entgegensteht.
 
 
 ## § 5 Veräußerungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000501123)
 
 (1) Die Hauptversammlung kann durch satzungsändernden Beschluß, der
 einer Mehrheit von mindestens drei Vierteln des bei der
@@ -248,6 +253,7 @@ Aktienbestand nicht anzuwenden.
 
 
 ## § 6 Unterrichtung der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000604123)
 
 (1) Der Vorstand hat mit Einberufung der Hauptversammlung nach § 49
 Absatz 1 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes die
@@ -268,6 +274,7 @@ veröffentlichen.
 
 
 ## § 7 Weitergabe von Auskünften durch Kreditinstitute, Hinweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000700305)
 
 Verwahrt ein Kreditinstitut Aktien von Gesellschaften im Sinne des § 1
 Abs. 1 für Aktionäre, so hat es Mitteilungen und Formblätter der
@@ -278,6 +285,7 @@ hinzuweisen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftnasig/BJNR132200997.html#BJNR132200997BJNE000800305)
 
 Die §§ 2 und 3 treten am 1. Juli 1997 in Kraft. Im übrigen tritt das
 Gesetz am Tage nach der Verkündung in Kraft.

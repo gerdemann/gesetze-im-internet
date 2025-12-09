@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gapdzv_8nr7bek/BJNR0240A0024.html#BJNR0240A0024BJNE000100000)
 
 Nach § 28 Absatz 2 Satz 2 der GAP-Direktzahlungen-Verordnung vom 24.
 Januar 2022 (BGBl. I S. 139, 2287), der durch Artikel 1 der Verordnung

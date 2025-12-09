@@ -21,6 +21,7 @@ Fundstelle
 Stand: Änderungsvorschrift vom 23.12.1982 II 2071
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000100306)
 
 Dem in Bonn am 13. November 1969 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
@@ -31,11 +32,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000201306)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000300306)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels V des Vertrags
@@ -43,6 +46,7 @@ eingeschränkt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000400306)
 
 Rechtshilfeersuchen schweizerischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
@@ -54,6 +58,7 @@ Rechtshilfehandlung übertragen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000500306)
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels IX des Vertrags nur insoweit befugt, als sie nach
@@ -62,6 +67,7 @@ können.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000600306)
 
 (1) Ordnungswidrig handelt, wer in der Schweiz vorsätzlich oder
 fahrlässig eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit
@@ -94,12 +100,14 @@ Verfolgung ist jedoch nur zulässig, wenn
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000700306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/eurhiche_bkergvtrg/BJNR211690975.html#BJNR211690975BJNE000800306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit

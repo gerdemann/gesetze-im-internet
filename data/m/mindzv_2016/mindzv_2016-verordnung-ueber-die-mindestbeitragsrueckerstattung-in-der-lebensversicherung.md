@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000100000)
 
 Auf Grund des § 145 Absatz 1 bis 3 in Verbindung mit Absatz 5 Satz 2,
 auch in Verbindung mit § 212 Absatz 1, § 219 Absatz 1 und § 234 Absatz
@@ -28,6 +29,7 @@ auch in Verbindung mit § 212 Absatz 1, § 219 Absatz 1 und § 234 Absatz
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000200000)
 
 (1) Diese Verordnung gilt für Lebensversicherungsunternehmen mit
 Ausnahme derjenigen Pensionskassen, die gemäß § 233 Absatz 1 oder 2
@@ -51,6 +53,7 @@ berechnen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000300000)
 
 Im Sinne dieser Verordnung bezeichnet:
 
@@ -106,6 +109,7 @@ Im Sinne dieser Verordnung bezeichnet:
 
 
 ## § 3 Anzurechnende Kapitalerträge
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000402128)
 
 (1) Die anzurechnenden Kapitalerträge, die auf die
 überschussberechtigten Versicherungsverträge des Alt- und des
@@ -274,6 +278,7 @@ Geschäftsjahr.
 
 
 ## § 4 Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000501118)
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur
 Rückstellung für Beitragsrückerstattung müssen die
@@ -315,6 +320,7 @@ durch Null ersetzt.
 
 
 ## § 5 Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000601118)
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur
 Rückstellung für Beitragsrückerstattung müssen die
@@ -373,6 +379,7 @@ Beitragsrückerstattung, wird diese durch Null ersetzt.
 
 
 ## § 6 Kapitalanlageergebnis
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000702128)
 
 (1) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung
 in Abhängigkeit von den Kapitalerträgen für die überschussberechtigten
@@ -422,6 +429,7 @@ Beitragsrückerstattung, wird er durch Null ersetzt.
 
 
 ## § 7 Risikoergebnis
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000801118)
 
 Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in
 Abhängigkeit vom Risikoergebnis für die überschussberechtigten
@@ -437,6 +445,7 @@ Abhängigkeit vom Risikoergebnis, werden sie durch Null ersetzt.
 
 
 ## § 8 Übriges Ergebnis
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE000901118)
 
 Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in
 Abhängigkeit vom übrigen Ergebnis für die überschussberechtigten
@@ -452,6 +461,7 @@ in Abhängigkeit vom übrigen Ergebnis, werden sie durch Null ersetzt.
 
 
 ## § 9 Reduzierung der Mindestzuführung
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001000000)
 
 (1) Die Mindestzuführung kann mit Zustimmung der Aufsichtsbehörde in
 Ausnahmefällen reduziert werden
@@ -522,6 +532,7 @@ grundsätzlich unberührt.
 
 
 ## § 10 Festverzinsliche Anlagen und Zinsabsicherungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001100000)
 
 (1) Als festverzinsliche Anlagen und Zinsabsicherungsgeschäfte gemäß §
 139 Absatz 3 des Versicherungsaufsichtsgesetzes gelten alle
@@ -539,6 +550,7 @@ den in Absatz 1 genannten Kapitalanlagen zuzuordnen wären.
 
 
 ## § 11 Maßgeblicher Euro-Zinsswapsatz
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001200000)
 
 Bei der Ermittlung des Sicherungsbedarfs aus den
 Versicherungsverträgen mit Zinsgarantie gemäß § 139 des
@@ -550,6 +562,7 @@ Zeitpunkt der Ermittlung der Bewertungsreserven vorangeht.
 
 
 ## § 12 Methode zur Bewertung der Zinssatzverpflichtung eines Versicherungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001300000)
 
 Zu jedem Ermittlungszeitpunkt ist der nach § 11 bestimmte Bezugszins
 mit dem höchsten in den nächsten 15 Jahren für einen Vertrag
@@ -571,6 +584,7 @@ Bewertungsansätze wie bei der Deckungsrückstellung anzuwenden.
 
 
 ## § 13 Höchstbetrag des ungebundenen Teils der Rückstellung für Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001401118)
 
 Die Summe aus dem ungebundenen Teil der Rückstellung für
 Beitragsrückerstattung im Sinne des § 28 Absatz 8 Nummer 2 Buchstabe h
@@ -620,6 +634,7 @@ Geschäftsjahres und des Vorjahres).
 
 
 ## § 14 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001500000)
 
 Wird der Höchstbetrag des ungebundenen Teils der Rückstellung für
 Beitragsrückerstattung gemäß § 13 überschritten, hat das
@@ -628,6 +643,7 @@ Jahresabschlusses die Aufsichtsbehörde darüber zu unterrichten.
 
 
 ## § 15 Veröffentlichungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001601128)
 
 (1) Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen
 haben die in der Anlage 1 genannten Informationen spätestens neun
@@ -647,6 +663,7 @@ unter Verwendung des Musters aus Anlage 2.
 
 
 ## § 16 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001700000)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -659,11 +676,13 @@ Dezember 2015 geltenden Fassung anzuwenden.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 15 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE001901128)
 
 (Fundstelle: BGBl. I 2016, 837)
 
@@ -729,6 +748,7 @@ Geschäftsjahr …**
 [^F793633_01_BJNR083100016BJNE001901128]: 
 
 ## Anlage 2 (zu § 15 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/mindzv_2016/BJNR083100016.html#BJNR083100016BJNE002000128)
 
 (Fundstelle: BGBl. I 2020, 1688)
 

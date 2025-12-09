@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000100310)
 
 Auf Grund des § 352 Abs. 2 Nr. 1 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -32,6 +33,7 @@ Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000202308)
 
 Der Bund entrichtet für die versicherungspflichtigen
 Wehrdienstleistenden und für die versicherungspflichtigen
@@ -41,6 +43,7 @@ Kalenderjahr, in dem der Dienst geleistet worden ist (Beitragsjahr).
 
 
 ## § 2 Berechnungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000303308)
 
 (1) Für die Berechnung des Gesamtbeitrages sind zugrunde zu legen:
 
@@ -71,11 +74,13 @@ BE    BS
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000402308)
 
 (weggefallen)
 
 
 ## § 4 Zahlung und Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000502308)
 
 (1) Der Gesamtbeitrag für das Beitragsjahr ist jeweils bis zum 31.
 März des folgenden Kalenderjahres an die von der Bundesagentur für
@@ -88,6 +93,7 @@ Beitragsjahr 2002 bis zum 31. März 2004 zu zahlen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gesamtbeitrv_1998/BJNR006000998.html#BJNR006000998BJNE000600310)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 

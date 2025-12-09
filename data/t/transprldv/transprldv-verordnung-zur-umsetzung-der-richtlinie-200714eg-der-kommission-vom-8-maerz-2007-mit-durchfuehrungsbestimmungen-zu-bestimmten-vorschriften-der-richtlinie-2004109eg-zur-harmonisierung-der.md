@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet
 
@@ -55,6 +56,7 @@ Das Bundesministerium der Finanzen verordnet
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000203123)
 
 Diese Verordnung regelt
 
@@ -95,6 +97,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Meldepflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000302123)
 
 (1) Ein Wertpapierdienstleistungsunternehmen übt die Stimmrechte im
 Sinne des § 35 Absatz 2 Nummer 1 des Wertpapierhandelsgesetzes
@@ -129,6 +132,7 @@ Tochterunternehmens des Mutterunternehmens Rechnung zu tragen.
 
 
 ## § 3 Mitteilungspflichten des Meldepflichtigen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000402123)
 
 (1) Das Mutterunternehmen hat die Angaben nach § 35 Absatz 2 Nummer 3
 des Wertpapierhandelsgesetzes fortlaufend zu aktualisieren.
@@ -170,6 +174,7 @@ zwischen ihm und dem Wertpapierdienstleistungsunternehmen vorsieht.
 
 
 ## § 4 Pflichten des Market Makers im Zusammenhang mit der Nichtberücksichtigung von Stimmrechten
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000502123)
 
 (1) Bietet der Market Maker für einen bestimmten Emittenten an einem
 Markt nicht mehr dauerhaft an, Aktien oder Instrumente im Sinne des §
@@ -186,6 +191,7 @@ anordnen.
 
 
 ## § 5 Gleichwertigkeit der Anforderungen an die Fristen für die Veröffentlichungspflichten des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000601123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
 46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
@@ -199,6 +205,7 @@ beträgt. Für den Beginn der Frist des Satzes 1 gilt § 33 Absatz 1 Satz
 
 
 ## § 6 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf eigene Aktien
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000701123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
 46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
@@ -226,6 +233,7 @@ soweit ein Emittent, der seinen Sitz in diesem Drittstaat hat,
 
 
 ## § 7 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf die Gesamtzahl der Stimmrechte
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000801123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
 46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
@@ -237,6 +245,7 @@ veröffentlichen hat.
 
 
 ## § 8 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 34 Absatz 4 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE000902123)
 
 (1) Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des
 § 35 Absatz 4 des Wertpapierhandelsgesetzes zu den jeweiligen
@@ -265,6 +274,7 @@ des Absatzes 1 in Bezug auf alle betroffenen Unternehmen erfüllt sind.
 
 
 ## § 9 Gleichwertigkeit der Anforderungen an Mitteilungspflichten des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001001123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
 51 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
@@ -276,6 +286,7 @@ und die Tagesordnung der Versammlungen angeben muss.
 
 
 ## § 10 Mindestinhalt des nicht konsolidierten verkürzten Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001101123)
 
 Sind auf den verkürzten Abschluss nicht die in § 315e Absatz 1 des
 Handelsgesetzbuchs bezeichneten internationalen
@@ -313,6 +324,7 @@ einzuhalten:
 
 
 ## § 11 Wesentliche Geschäfte mit nahe stehenden Unternehmen und Personen
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001200000)
 
 (1) Ein Unternehmen, das als Inlandsemittent Aktien begibt und
 gesetzlich zur Aufstellung eines Konzernabschlusses verpflichtet ist,
@@ -349,6 +361,7 @@ Beurteilung der Auswirkungen auf die Finanzlage nicht notwendig ist.
 
 
 ## § 12 Gleichwertigkeit der Anforderungen an die im Lagebericht enthaltenen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001303123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 114 Absatz 2 Nummer 2 des
@@ -360,6 +373,7 @@ Angaben macht.
 
 
 ## § 13 Gleichwertigkeit der Anforderungen an den Zwischenlagebericht
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001401123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 115 Absatz 2 Nummer 2 und Absatz 4 des
@@ -383,6 +397,7 @@ enthält, erstellt:
 
 
 ## § 14 Gleichwertigkeit der Anforderungen an die Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001501123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 114 Absatz 2 Nummer 3 und § 115 Absatz 2 Nummer 3
@@ -397,10 +412,12 @@ vermittelt.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001601119)
 
 
 
 ## § 16 Gleichwertigkeit der Anforderungen bei einem Konzernabschluss
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001701123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 117 Nummer 1 des Wertpapierhandelsgesetzes, wenn
@@ -424,6 +441,7 @@ Rechnungslegungsgrundsätze des Drittstaates erfolgen.
 
 
 ## § 17 Gleichwertigkeit der Anforderungen an den Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001801123)
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
 Anforderungen des § 114 Absatz 2 Nummer 1 des
@@ -439,6 +457,7 @@ vorzulegen.
 
 
 ## § 18 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Bieter
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE001901119)
 
 (1) Ein Wertpapierdienstleistungsunternehmen übt die Stimmrechte im
 Sinne des § 30 Absatz 3 Satz 1 Nummer 1 des Wertpapiererwerbs- und
@@ -470,6 +489,7 @@ des Bieters Rechnung zu tragen.
 
 
 ## § 19 Mitteilungspflichten des Bieters gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE002002123)
 
 (1) Der Bieter hat die Angaben nach § 30 Abs. 3 Satz 1 Nr. 3 des
 Wertpapiererwerbs- und Übernahmegesetzes fortlaufend zu aktualisieren.
@@ -507,10 +527,12 @@ dem Wertpapierdienstleistungsunternehmen vorsieht.
 
 
 ## (XXXX) §§ 20 bis 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE002102119)
 
 
 
 ## § 23 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE002402123)
 
 (1) Die §§ 10 und 11 sind erstmals auf Halbjahresfinanzberichte für
 das nach dem 31. Dezember 2007 beginnende Geschäftsjahr anzuwenden.
@@ -538,6 +560,7 @@ letztmals anzuwenden auf Lage- und Konzernlageberichte für das vor dem
 
 
 ## § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/transprldv/BJNR040800008.html#BJNR040800008BJNE002500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -26,6 +26,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000100000)
 
 Auf Grund des § 12g Absatz 3 des Energiewirtschaftsgesetzes vom 7.
 Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 1 Nummer 10 des
@@ -34,6 +35,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Bericht der Übertragungsnetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000200000)
 
 (1) Die Betreiber von Übertragungsnetzen nach § 3 Nummer 10 des
 Energiewirtschaftsgesetzes haben der Bundesnetzagentur alle zwei
@@ -53,6 +55,7 @@ der Erstellung des Berichts an die Betreiber von Übertragungsnetzen.
 
 
 ## § 2 Festlegung europäisch kritischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000301118)
 
 (1) Innerhalb von zwei Monaten nach Erhalt des Berichts nach § 1
 bestimmt die Bundesnetzagentur durch Festlegung gemäß § 12g Absatz 1
@@ -76,6 +79,7 @@ Konsultation.
 
 
 ## § 3 Sicherheitsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000400000)
 
 (1) Spätestens zwei Wochen nach der Festlegung der Bundesnetzagentur
 nach § 12g Absatz 1 Satz 2 des Energiewirtschaftsgesetzes hat der
@@ -89,6 +93,7 @@ Sicherheitspläne nach § 4 Auskunft geben können.
 
 
 ## § 4 Sicherheitspläne
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000500000)
 
 (1) Spätestens vier Wochen nach der Festlegung der Bundesnetzagentur
 nach § 12g Absatz 1 Satz 2 des Energiewirtschaftsgesetzes hat der
@@ -157,6 +162,7 @@ abweicht.
 
 
 ## § 5 Bestätigung des Sicherheitsplans und Beanstandungen
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000600000)
 
 (1) Der Sicherheitsplan wird innerhalb von vier Wochen nach seiner
 Vorlage gemäß § 4 Absatz 1 Satz 1 von der Bundesnetzagentur überprüft.
@@ -179,6 +185,7 @@ oder eine andere Person nach § 3 zu bestimmen.
 
 
 ## § 6 Einstufung als Verschlusssache
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000700000)
 
 Die Bundesnetzagentur entscheidet, welche Informationen, Berichte und
 Sicherheitspläne nach § 12g Absatz 4 des Energiewirtschaftsgesetzes
@@ -186,6 +193,7 @@ als Verschlusssache einzustufen sind.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html#BJNR006900012BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

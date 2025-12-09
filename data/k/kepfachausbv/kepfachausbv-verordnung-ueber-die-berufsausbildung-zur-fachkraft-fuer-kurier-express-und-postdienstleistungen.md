@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -29,17 +30,20 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000200000)
 
 Der Ausbildungsberuf Fachkraft für Kurier-, Express- und
 Postdienstleistungen wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -51,6 +55,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -125,6 +130,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000600000)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -136,6 +142,7 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -143,6 +150,7 @@ zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -151,6 +159,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
@@ -179,6 +188,7 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -307,6 +317,7 @@ so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001100000)
 
 Die Berufsausbildung im Ausbildungsberuf Fachkraft für Kurier-,
 Express- und Postdienstleistungen kann in dem Ausbildungsberuf
@@ -316,6 +327,7 @@ das dritte Ausbildungsjahr fortgesetzt werden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001200000)
 
 Auf Berufsausbildungsverhältnisse im Ausbildungsberuf Fachkraft für
 Brief- und Frachtverkehr, die bei Inkrafttreten dieser Verordnung
@@ -325,12 +337,14 @@ dieser Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 5)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001400000)
 
 (Fundstelle: BGBl. I 2005, 882 - 884)
 
@@ -851,6 +865,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 (zu § 5)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/kepfachausbv/BJNR087900005.html#BJNR087900005BJNE001500000)
 
 (Fundstelle: BGBl. I 2005, 885 - 886)
 

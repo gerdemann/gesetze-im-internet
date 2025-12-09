@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-51 v. 21.8.2014 I 1461 (MarketFachwPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000100000)
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
@@ -42,6 +43,7 @@ auf Grund
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -111,6 +113,7 @@ Fachwirtin für Marketing“ vorangestellt.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -154,6 +157,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
@@ -174,6 +178,7 @@ Die Prüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Prüfungsbereich „Marketingstrategien entwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000500000)
 
 Im Prüfungsbereich „Marketingstrategien entwickeln“ hat die zu
 prüfende Person die Fähigkeiten nachzuweisen, Marktinformationen
@@ -202,6 +207,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 5 Prüfungsbereich „Marketingkonzepte und -projekte planen und umsetzen“
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000600000)
 
 Im Prüfungsbereich „Marketingkonzepte und -projekte planen und
 umsetzen“ hat die zu prüfende Person die Fähigkeiten nachzuweisen,
@@ -231,6 +237,7 @@ folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 6 Prüfungsbereich „Marketingprozesse analysieren, bewerten und weiterentwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000700000)
 
 Im Prüfungsbereich „Marketingprozesse analysieren, bewerten und
 weiterentwickeln“ hat die zu prüfende Person die Fähigkeiten
@@ -256,6 +263,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 7 Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit sicherstellen“
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000800000)
 
 Im Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit
 sicherstellen“ hat die zu prüfende Person die Fähigkeiten
@@ -298,6 +306,7 @@ geprüft:
 
 
 ## § 8 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE000900000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -321,6 +330,7 @@ vertreten ist.
 
 
 ## § 9 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001000000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -339,6 +349,7 @@ Minuten.
 
 
 ## § 10 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001100000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -363,6 +374,7 @@ Fachgespräch soll höchstens 20 Minuten dauern.
 
 
 ## § 11 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001200000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -396,6 +408,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 12 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001300000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -428,6 +441,7 @@ Gesamtnote.
 
 
 ## § 13 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001400000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -440,6 +454,7 @@ zugrunde zu legen.
 
 
 ## § 14 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001500000)
 
 (1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -466,6 +481,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 15 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001600000)
 
 (1) Sind in der schriftlichen oder in der mündlichen Prüfung nicht
 jeweils mindestens 50 Punkte erreicht worden, können sie jeweils
@@ -480,6 +496,7 @@ Prüfung mit mindestens 50 Punkten bewertet worden ist.
 
 
 ## § 16 Befreiung vom schriftlichen Teil der Ausbildereignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001700000)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung
@@ -487,6 +504,7 @@ befreit.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001800000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Marketing und
@@ -509,6 +527,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE001900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -520,6 +539,7 @@ geändert worden ist, außer Kraft.
 (zu den §§ 11 und 12)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 254, S. 7 - 8)
 
@@ -820,6 +840,7 @@ geändert worden ist, außer Kraft.
 (zu § 14)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/marketfachwbaprofv/BJNR0FE0A0023.html#BJNR0FE0A0023BJNE002100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 254, S. 9)
 

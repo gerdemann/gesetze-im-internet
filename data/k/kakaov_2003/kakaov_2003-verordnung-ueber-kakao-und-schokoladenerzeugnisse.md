@@ -25,6 +25,7 @@ Schokoladenerzeugnisse für die menschliche Ernährung (ABl. EG Nr. L
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet auf Grund des § 19 Abs. 1 Nr. 1 und 2
@@ -37,6 +38,7 @@ Arbeit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000200000)
 
 (1) Die in Anlage 1 aufgeführten Kakao- und Schokoladenerzeugnisse
 unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als
@@ -44,6 +46,7 @@ Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 
 
 ## § 2 Zutaten
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000302116)
 
 (1) Bei der Herstellung von Erzeugnissen nach Anlage 1 Nr. 3 bis 6, 8
 und 9 dürfen zusätzlich zu den dort angegebenen Zutaten unbeschadet
@@ -96,6 +99,7 @@ der Zuckerartenverordnung aufgeführten Erzeugnisse.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000401116)
 
 (1) Für Erzeugnisse nach Anlage 1 sind die dort aufgeführten
 Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU)
@@ -191,6 +195,7 @@ können.
 
 
 ## § 4 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000500000)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
@@ -220,6 +225,7 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000601310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Nr. 1, 2 oder
@@ -236,6 +242,7 @@ Verkehr bringt.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000700000)
 
 Kakao- und Schokoladenerzeugnisse dürfen bis zum 24. Juni 2004 nach
 den bis zum 23. Dezember 2003 geltenden Vorschriften hergestellt und
@@ -244,16 +251,19 @@ werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE000901116)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE001001116)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu den §§ 1, 2, 3)
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE001100000)
 
 Begriffsbestimmungen
 
@@ -537,6 +547,7 @@ Begriffsbestimmungen
 
 
 ## Anlage 2 (zu § 2 Abs. 1 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/kakaov_2003/BJNR273800003.html#BJNR273800003BJNE001200000)
 
 Pflanzliche Fette
 

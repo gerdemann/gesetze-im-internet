@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000100000)
 
 Auf Grund des § 21 Absatz 1 des Arbeitszeitgesetzes, der durch Artikel
 12a Nummer 1 des Gesetzes vom 11. November 2016 (BGBl. I S. 2500) neu
@@ -32,6 +33,7 @@ gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000200000)
 
 (1) Diese Verordnung gilt für Arbeitnehmer und Arbeitnehmerinnen, die
 als Mitglied der Besatzung oder des Bordpersonals an Bord eines
@@ -53,6 +55,7 @@ günstiger sind.
 
 
 ## § 2 Anwendung des Arbeitszeitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000300000)
 
 Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen im Sinne
 des § 1 ist das Arbeitszeitgesetz anzuwenden, soweit im Folgenden
@@ -60,6 +63,7 @@ nichts anderes geregelt ist.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -134,6 +138,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 4 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000500000)
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer oder eine Arbeitnehmerin
 abweichend von den §§ 3, 6 Absatz 2 und § 11 Absatz 2 des
@@ -169,6 +174,7 @@ Zeitraum von sieben Tagen nicht überschreiten.
 
 
 ## § 5 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000600000)
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin im
 Voraus feststehende Ruhepausen zur Unterbrechung der Arbeitszeit zu
@@ -195,6 +201,7 @@ Minuten aufgeteilt werden.
 
 
 ## § 6 Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000700000)
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin
 regelmäßige, ausreichend lange und ununterbrochene Ruhezeiten nach
@@ -223,6 +230,7 @@ höheres Maß an Gesundheitsschutz und Sicherheit gewährt.
 
 
 ## § 7 Arbeits- und Ruhetage
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000800000)
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer oder eine Arbeitnehmerin
 abweichend von § 9 Absatz 1 und § 11 Absatz 3 des Arbeitszeitgesetzes
@@ -276,6 +284,7 @@ Summe der anteiligen Ruhetage einen ganzen Tag ergibt.
 
 
 ## § 8 Saisonarbeit in der Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE000900000)
 
 (1) Ein Arbeitgeber, der einen Arbeitnehmer oder eine Arbeitnehmerin
 während der Saison an Bord eines Fahrgastschiffes
@@ -302,6 +311,7 @@ zu treffen.
 
 
 ## § 9 Notfälle
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001000000)
 
 (1) Der Schiffsführer oder die Schiffsführerin oder eine
 stellvertretende Person hat das Recht, die Arbeitsstunden anzuordnen,
@@ -319,6 +329,7 @@ mindestens der Dauer der Ruhezeitunterbrechung entsprechen.
 
 
 ## § 10 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001100000)
 
 (1) Der Arbeitgeber ist verpflichtet, abweichend von § 16 Absatz 2 des
 Arbeitszeitgesetzes Aufzeichnungen nach Absatz 2 über die tägliche
@@ -372,6 +383,7 @@ der Arbeit mitzuführen.
 
 
 ## § 11 Arbeitsmedizinische Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001200000)
 
 (1) Arbeitnehmer und Arbeitnehmerinnen sind berechtigt, einmal
 jährlich an einer arbeitsmedizinischen Untersuchung teilzunehmen.
@@ -390,6 +402,7 @@ Betriebsärztinnen anbietet.
 
 
 ## § 12 Arbeitsrhythmus, Sicherheit und Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001300000)
 
 (1) Der Arbeitgeber hat die Arbeitszeit menschengerecht zu gestalten,
 auch in Bezug auf die Pausen während der Arbeitszeit. Er hat eintönige
@@ -415,6 +428,7 @@ betriebliche Erfordernisse entgegenstehen.
 
 
 ## § 13 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001400000)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer
 Betriebs- oder Dienstvereinbarung kann zugelassen werden,
@@ -440,6 +454,7 @@ Arbeitnehmer oder der Arbeitnehmerin übernommen werden.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001500000)
 
 Ordnungswidrig im Sinne des § 22 Absatz 1 Nummer 4 des
 Arbeitszeitgesetzes handelt, wer als Arbeitgeber vorsätzlich oder
@@ -465,11 +480,13 @@ fahrlässig
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001600000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/binscharbzv/BJNR265900017.html#BJNR265900017BJNE001700000)
 
 Der Bundesrat hat zugestimmt.
 

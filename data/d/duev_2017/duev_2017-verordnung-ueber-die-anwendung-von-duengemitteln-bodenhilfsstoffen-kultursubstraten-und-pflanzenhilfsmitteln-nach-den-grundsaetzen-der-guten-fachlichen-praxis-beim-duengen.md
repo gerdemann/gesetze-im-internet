@@ -45,6 +45,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000200000)
 
 (1) Diese Verordnung regelt
 
@@ -68,6 +69,7 @@ Verkehr gebracht werden dürfen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000301119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -212,6 +214,7 @@ Nummer 1 gehören
 
 
 ## § 3 Grundsätze für die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000401119)
 
 (1) Die Anwendung von Düngemitteln, Bodenhilfsstoffen,
 Kultursubstraten und Pflanzenhilfsmitteln ist unter Berücksichtigung
@@ -329,6 +332,7 @@ Aufbringen phosphathaltiger Düngemittel zu untersagen.
 
 
 ## § 4 Ermittlung des Düngebedarfs an Stickstoff und Phosphat
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000501119)
 
 (1) Der Stickstoffdüngebedarf ist im Falle von Ackerland als
 standortbezogene Obergrenze auf der Grundlage der nachfolgenden
@@ -493,6 +497,7 @@ Landesrecht zuständigen Stelle durchzuführen.
 
 
 ## § 5 Besondere Vorgaben für die Anwendung von stickstoff- oder phosphathaltigen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000601119)
 
 (1) Das Aufbringen von stickstoff- oder phosphathaltigen Düngemitteln,
 Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln darf
@@ -603,6 +608,7 @@ unberührt.
 
 
 ## § 6 Zusätzliche Vorgaben für die Anwendung von bestimmten Düngemitteln
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000701119)
 
 (1) Wer organische, organisch-mineralische Düngemittel, einschließlich
 Wirtschaftsdünger, jeweils mit wesentlichem Gehalt an verfügbarem
@@ -835,6 +841,7 @@ werden.
 
 
 ## § 7 Anwendungsbeschränkungen und Anwendungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000801119)
 
 (1) Die Anwendung von Düngemitteln, Bodenhilfsstoffen,
 Kultursubstraten oder Pflanzenhilfsmitteln entgegen den
@@ -875,15 +882,18 @@ Kultursubstrat oder Pflanzenhilfsmittel angewendet werden.
 Nährstoffvergleich
 
 ## § 8 (aufgehoben)
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE000901119)
 
 
 Bewertung des betrieblichen Nährstoffvergleiches
 
 ## § 9 (aufgehoben)
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001001119)
 
 
 
 ## § 10 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001102119)
 
 (1) Betriebsinhaber haben vor dem jeweiligen Aufbringen von
 wesentlichen Nährstoffmengen mit Düngemitteln, Bodenhilfsstoffen,
@@ -1024,6 +1034,7 @@ nach Landesrecht zuständigen Stelle auf Verlangen vorzulegen.
 
 
 ## § 11 Anforderungen an die Geräte zum Aufbringen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001200000)
 
 Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen,
 Kultursubstraten oder Pflanzenhilfsmitteln müssen den allgemein
@@ -1032,6 +1043,7 @@ nach Satz 1 mit Geräten nach Anlage 8 ist verboten.
 
 
 ## § 12 Fassungsvermögen von Anlagen zur Lagerung von Wirtschaftsdüngern und Gärrückständen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001301119)
 
 (1) Das Fassungsvermögen von Anlagen zur Lagerung von
 Wirtschaftsdüngern und Gärrückständen aus dem Betrieb einer
@@ -1093,6 +1105,7 @@ Verpflichtungen erfüllen.
 
 
 ## § 13 Besondere Anforderungen an Genehmigungen und sonstige Anordnungen durch die zuständigen Stellen, Erlass von Rechtsverordnungen durch die Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001401119)
 
 (1) Soweit die nach Landesrecht zuständige Stelle auf Grund dieser
 Verordnung eine Genehmigung erteilt oder sonstige Anordnung trifft,
@@ -1112,6 +1125,7 @@ Einhaltung der düngerechtlichen Vorschriften erforderlich ist.
 
 
 ## § 13a Besondere Anforderungen zum Schutz der Gewässer vor Verunreinigung, Erlass von Rechtsverordnungen durch die Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002600119)
 
 (1) Die Landesregierungen haben zum Schutz der Gewässer vor
 Verunreinigung durch Nitrat oder Phosphat durch Rechtsverordnung auf
@@ -1495,6 +1509,7 @@ höchstens vier Jahren.
 
 
 ## § 14 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001501119)
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe a des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1566,6 +1581,7 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 15 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001601119)
 
 (1) Die abweichenden oder ergänzenden Anforderungen nach § 13a Absatz
 2 dieser Verordnung gelten ab dem 1. Januar 2021 auch in Gebieten und
@@ -1603,6 +1619,7 @@ unterrichten das Bundesministerium über die Ergebnisse der
 (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)
 
 ## Anlage 1 Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001701119)
 
 (Fundstelle: BGBl. I 2017, 1317 - 1323)
 
@@ -3109,6 +3126,7 @@ Stallplatz und Jahr bzw. je Tier
 (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)
 
 ## Anlage 2 Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001801119)
 
 (Fundstelle: BGBl. I 2020, 853)
 
@@ -3199,6 +3217,7 @@ Stallplatz und Jahr bzw. je Tier
 (zu § 3 Absatz 5 Satz 1 Nummer 2)
 
 ## Anlage 3 Mindestwerte für die Ausnutzung des Stickstoffs aus organischen oder organisch-mineralischen Düngemitteln im Jahr des Aufbringens, die aus folgenden Ausgangsstoffen bestehen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE001901119)
 
 (Fundstelle: BGBl. I 2017, 1325)
 
@@ -3332,6 +3351,7 @@ Stallplatz und Jahr bzw. je Tier
 (zu § 4 Absatz 1 und 2)
 
 ## Anlage 4 Ermittlung des Stickstoffdüngebedarfs
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002001119)
 
 (Fundstelle: BGBl. I 2017, 1326 - 1333)
 
@@ -5413,6 +5433,7 @@ für Stickstoff (N) und Phosphat (P
 O
 
 ## Anlage 5 ) für das Düngejahr ………
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002101119)
 
 (Fundstelle: BGBl. I 2020, 854 - 855)
 
@@ -5614,11 +5635,13 @@ O
 
 
 ## Anlage 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002201119)
 
 
    (zu § 3 Absatz 2 und 6 und § 4 Absatz 3)
 
 ## Anlage 7 Nährstoffgehalte pflanzlicher Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002301119)
 
 (Fundstelle: BGBl. I 2020, 855 - 860)
 
@@ -8124,6 +8147,7 @@ Tabelle 3
 (zu § 11 Satz 2)
 
 ## Anlage 8 Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002400000)
 
 (Fundstelle: BGBl. I 2017, 1341)
 
@@ -8149,6 +8173,7 @@ Tabelle 3
 (zu § 12)
 
 ## Anlage 9 Dunganfall bei der Haltung landwirtschaftlicher Nutztiere; Umrechnungsschlüssel zur Ermittlung der Großvieheinheiten (GV)
+[Direktlink](https://www.gesetze-im-internet.de/d_v_2017/BJNR130510017.html#BJNR130510017BJNE002501119)
 
 (Fundstelle: BGBl. I 2017, 1342 - 1347)
 

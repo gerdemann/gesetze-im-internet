@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000101310)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständig für
@@ -86,6 +87,7 @@ Mitgliedstaaten zuständig sind.
 
 
 ## § 2 Aufgaben des Bundesministeriums für Ernährung und Landwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000202116)
 
 Das Bundesministerium für Ernährung und Landwirtschaft ist
 Anlaufstelle im Sinne des Artikels 19 Abs. 1 Satz 1 des Protokolls von
@@ -95,6 +97,7 @@ Nr. 1946/2003.
 
 
 ## § 3 Beteiligung anderer Behörden des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000301310)
 
 (1) Stellungnahmen nach § 1 Abs. 1 Nr. 2 ergehen im Benehmen mit dem
 Robert Koch-Institut und dem Bundesinstitut für Risikobewertung.
@@ -111,6 +114,7 @@ einzuholen.
 
 
 ## § 3a Voraussetzungen für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000901310)
 
 (1) Ein Lebensmittel darf mit einer Angabe, die auf die Herstellung
 des Lebensmittels ohne Anwendung gentechnischer Verfahren hindeutet,
@@ -188,6 +192,7 @@ zugelassen ist.
 
 
 ## § 3b Nachweise für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE001000310)
 
 Derjenige, der Lebensmittel mit der Angabe nach § 3a Abs. 1 in den
 Verkehr bringt oder bewirbt, hat nach Maßgabe des Satzes 2 über das
@@ -216,6 +221,7 @@ geführt werden können.
 
 
 ## § 4 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000404116)
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist, obliegt die
 Überwachung der Einhaltung der
@@ -273,6 +279,7 @@ und 28a des Gentechnikgesetzes entsprechend.
 
 
 ## § 5 Mitwirkung von Zollstellen
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000501310)
 
 Im Falle der Einfuhr, der Ausfuhr oder der Durchfuhr von Erzeugnissen,
 die in den Anwendungsbereich der in § 4 Abs. 1 genannten Rechtsakte
@@ -282,6 +289,7 @@ Anwendung des § 55 des Lebensmittel- und Futtermittelgesetzbuches mit.
 
 
 ## § 5a Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000803116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -318,6 +326,7 @@ des Bundesrates verlängert werden.
 
 
 ## § 6 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000601310)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer gegen die Verordnung (EG) Nr. 1829/2003 verstößt, indem
@@ -386,6 +395,7 @@ nicht zu erwerbswirtschaftlichen Zwecken handelt.
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE000703310)
 
 (1) Ordnungswidrig handelt, wer eine der in § 6 Abs. 3a bezeichneten
 Handlungen fahrlässig begeht.
@@ -485,6 +495,7 @@ Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 (zu § 3a Abs. 4 Satz 2)
 
 ## Anlage Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
+[Direktlink](https://www.gesetze-im-internet.de/eggentdurchfg/BJNR124410004.html#BJNR124410004BJNE001100310)
 
 Fundstelle des Originaltextes: BGBl. I 2008, 506
 

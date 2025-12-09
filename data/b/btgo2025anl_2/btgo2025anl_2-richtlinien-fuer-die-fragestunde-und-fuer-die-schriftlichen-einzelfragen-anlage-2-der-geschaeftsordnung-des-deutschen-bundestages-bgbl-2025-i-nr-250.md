@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX) Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo2025anl_2/BJNR0FA0D0025.html#BJNR0FA0D0025BJNE000100000)
 
 ## I. Fragerecht
 

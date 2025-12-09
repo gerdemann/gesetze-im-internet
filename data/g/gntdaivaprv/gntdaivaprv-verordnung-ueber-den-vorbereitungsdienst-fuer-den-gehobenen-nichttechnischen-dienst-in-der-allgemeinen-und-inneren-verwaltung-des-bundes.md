@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) und des § 10 der
@@ -29,9 +30,11 @@ verordnet das Bundesministerium des Innern:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNG000100000)
 
 
 ### § 1 Diplomstudium
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000302311)
 
 (1) Der Diplom-Studiengang „Verwaltungsmanagement“ an der Hochschule
 des Bundes für öffentliche Verwaltung (Hochschule) ist der
@@ -43,6 +46,7 @@ Fernstudiengang angeboten.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000400000)
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
 die wissenschaftlichen Methoden und Kenntnisse sowie die
@@ -57,6 +61,7 @@ wandelnden Herausforderungen der Bundesverwaltung gerecht zu werden.
 
 
 ### § 3 Dienstbehörden; Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000502311)
 
 (1) Im Präsenzstudiengang ist die Hochschule als Einstellungsbehörde
 der Studierenden für die dienstrechtlichen Entscheidungen zuständig.
@@ -77,6 +82,7 @@ auf die Module verteilt werden soll.
 
 
 ### § 4 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000606311)
 
 (1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung
 zum Fernstudiengang entscheidet jeweils die Hochschule auf der
@@ -142,6 +148,7 @@ angelegt werden.
 
 
 ### § 5 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000702311)
 
 Für den Präsenzstudiengang bestimmt die Hochschule die Zeiten des
 Erholungsurlaubs. Er ist auf die Fachstudien und die berufspraktischen
@@ -149,9 +156,11 @@ Studienzeiten gleichmäßig zu verteilen.
 
 
 ## Abschnitt 2 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNG000200000)
 
 
 ### § 6 Dauer und Aufbau des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000804311)
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien
 an der Hochschule sowie berufspraktische Studienzeiten (Praktika) in
@@ -207,6 +216,7 @@ geltenden Fassung entsprechend § 7 Absatz 1 Satz 2.
 
 
 ### § 7 Studieninhalte, Module
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE000904311)
 
 (1) Die Studieninhalte werden in Modulen vermittelt. Die Inhalte der
 Module richten sich nach dem Modulhandbuch in der jeweils bei Aufnahme
@@ -271,6 +281,7 @@ genutzt werden.
 
 
 ### § 8 Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001002311)
 
 (1) Die Hochschule bestimmt und überwacht die Gestaltung und die
 Organisation der Praktika. Die Praktikumsstelle erstellt in Abstimmung
@@ -299,9 +310,11 @@ Studierenden zu besprechen.
 
 
 ## Abschnitt 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNG000300000)
 
 
 ### § 9 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001101116)
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
@@ -325,6 +338,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 
 ### § 10 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001202311)
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung richtet
 die Hochschule ein Prüfungsamt ein.
@@ -341,6 +355,7 @@ Erfordernissen von Prüfungsrecht und Lehre festlegen.
 
 
 ### § 11 Prüfende, Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001304311)
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der
 fachtheoretischen Modulprüfungen und der Diplomarbeit. Es richtet für
@@ -436,6 +451,7 @@ die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
 
 ### § 12 Modulprüfungen im Hauptstudium
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001404311)
 
 (1) In jedem Modul des Hauptstudiums ist eine Prüfung abzulegen.
 
@@ -498,6 +514,7 @@ Allgemeine Innere Verwaltung.
 
 
 ### § 13 Prüfungen im Grundstudium
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001504311)
 
 (1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im
 Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“
@@ -542,6 +559,7 @@ Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
 
 
 ### § 14 Diplomarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001603311)
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass
 sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -584,6 +602,7 @@ nicht überschreiten.
 
 
 ### § 15 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001707311)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
 Zwischenprüfung, die Modulprüfungen des Hauptstudiums und die
@@ -627,6 +646,7 @@ abgeschlossen sein.
 
 
 ### § 16 Bewertung von Prüfungen und Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001800000)
 
 (1) Prüfungen und Prüfungsteile werden mit Rangpunkten und Noten
 bewertet.
@@ -751,6 +771,7 @@ Rangpunkten bewertet ist.
 
 
 ### § 17 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE001902311)
 
 (1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, von einer
 Modulprüfung oder von der mündlichen Abschlussprüfung ohne Genehmigung
@@ -776,6 +797,7 @@ bewertet.
 
 
 ### § 18 Täuschung, Ordnungsverstoß, Störung
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002001116)
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil eine
 Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung
@@ -822,6 +844,7 @@ Prüfung. Die Störungen sind zu melden bei
 
 
 ### § 19 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002103311)
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb von sechs Wochen
 nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Ist auch
@@ -851,6 +874,7 @@ stattfinden. Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 20 Bestehen der Laufbahnprüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002203311)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die Modulprüfungen und die
 Diplomarbeit jeweils mit mindestens fünf Rangpunkten bewertet worden
@@ -942,6 +966,7 @@ Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
 
 ### § 21 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002301116)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -980,6 +1005,7 @@ Leistungspunkte hervorgehen.
 
 
 ### § 22 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002402311)
 
 (1) Zu den Prüfungsakten zu nehmen sind
 
@@ -1010,9 +1036,11 @@ erfolgt ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNG000400000)
 
 
 ### § 23 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002501116)
 
 Für Studierende, die vor dem 1. Oktober 2014 mit dem
 Vorbereitungsdienst im Präsenzstudium begonnen haben, ist die
@@ -1022,6 +1050,7 @@ Bundes vom 11. August 2010 (BGBl. I S. 1214) weiter anzuwenden.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und
@@ -1033,6 +1062,7 @@ die zuletzt durch § 56 Absatz 8 der Verordnung vom 12. Februar 2009
 (zu § 21 Absatz 1)
 
 ### Anlage Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
+[Direktlink](https://www.gesetze-im-internet.de/gntdaivaprv/BJNR121400010.html#BJNR121400010BJNE002700000)
 
 (Fundstelle: BGBl. I 2010, 1221)
 

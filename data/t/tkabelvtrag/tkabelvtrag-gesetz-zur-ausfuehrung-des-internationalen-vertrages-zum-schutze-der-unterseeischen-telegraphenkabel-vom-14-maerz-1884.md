@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/tkabelvtrag/BJNR001690888.html#BJNR001690888BJNE000100306)
 
 Die Bestimmungen der Artikel 5 (Absatz 2 bis 4), 6 und 7 des
 internationalen Vertrages zum Schutze der unterseeischen
@@ -30,6 +31,7 @@ innerhalb der deutschen Küstengewässer Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/tkabelvtrag/BJNR001690888.html#BJNR001690888BJNE000200306)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 5 Abs. 2 bis 4 oder entgegen Artikel 6 des internationalen
@@ -65,6 +67,7 @@ Deutsche Mark geahndet werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/tkabelvtrag/BJNR001690888.html#BJNR001690888BJNE000301123)
 
 Die §§ 113, 114 und 115 Absatz 2 des Strafgesetzbuchs finden
 Anwendung, wenn die in denselben vorgesehenen Handlungen gegen die in
@@ -74,6 +77,7 @@ Befugnisse begriffen sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/tkabelvtrag/BJNR001690888.html#BJNR001690888BJNE000400306)
 
 Dieses Gesetz tritt gleichzeitig mit dem internationalen Vertrage vom
 14\. März 1884 in Kraft.

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000100000)
 
 
 *    *   Muster 1
@@ -57,6 +58,7 @@ Zuletzt geändert durch
 
 
 ## Muster 1 Muster des Antrags auf Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000201119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 21 – 22)
 
@@ -64,6 +66,7 @@ Zuletzt geändert durch
 ![bgbl1_2025_j02420_0200.jpg](bgbl1_2025_j02420_0200.jpg)
 
 ## Muster 2 Muster der Bescheinigung über die Besatzung für Binnenschiffe
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000302119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 23 – 24)
 
@@ -71,6 +74,7 @@ Zuletzt geändert durch
 ![bgbl1_2025_j02420_0220.jpg](bgbl1_2025_j02420_0220.jpg)
 
 ## Muster 3 Muster des Fährzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000402119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 25 – 34)
 
@@ -86,6 +90,7 @@ Zuletzt geändert durch
 ![bgbl1_2025_j02420_0320.jpg](bgbl1_2025_j02420_0320.jpg)
 
 ## Muster 4 Muster des vorläufigen Fährzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000501119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 35 – 36)
 
@@ -93,6 +98,7 @@ Zuletzt geändert durch
 ![bgbl1_2025_j02420_0340.jpg](bgbl1_2025_j02420_0340.jpg)
 
 ## Muster 5 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000601119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 37 – 41)
 
@@ -103,6 +109,7 @@ Zuletzt geändert durch
 ![bgbl1_2025_j02420_0390.jpg](bgbl1_2025_j02420_0390.jpg)
 
 ## Muster 6 Muster des Abnahmeprotokolls für Fahrgastboote
+[Direktlink](https://www.gesetze-im-internet.de/binschuo2018anh_v/BJNR147500018.html#BJNR147500018BJNE000701119)
 
 (Fundstelle: BGBl. I 2018, 1499 - 1502)
 

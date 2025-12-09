@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000100000)
 
 (1) Dieses Gesetz regelt Ansprüche, die in der ehemaligen Deutschen
 Demokratischen Republik ausgehend von der Verordnung über die
@@ -45,6 +46,7 @@ gelöscht wurden.
 
 
 ## § 2 Schuldbuchforderungen mit besonderen Vermerken
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000202307)
 
 (1) Bei Schuldbuchforderungen mit besonderen Vermerken können
 Berechtigte (Entschädigungsberechtigte und ihre Gläubiger oder deren
@@ -86,6 +88,7 @@ Ansprüche entsprechend Absatz 1.
 
 
 ## § 3 Schuldbuchforderungen ohne besondere Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000301307)
 
 (1) Ansprüche der Gläubiger aus Schuldbuchforderungen ohne besondere
 Vermerke, die vorzeitige Zahlungen oder Ratenzahlungen abgelehnt haben
@@ -99,6 +102,7 @@ Nachweise nicht rechtzeitig im Sinne des § 2 Abs. 6 vorgelegen haben.
 
 
 ## § 4 Hinterlegungen aus Schuldbuchforderungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000400000)
 
 (1) Hinterlegungen von Beträgen aus Schuldbuchforderungen auf der
 Grundlage ehemaliger Rechtsbestimmungen der Deutschen Demokratischen
@@ -115,6 +119,7 @@ Erblastentilgungsfonds zu.
 
 
 ## § 5 Restitution
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000500000)
 
 Wurde eine Rückübertragung des Eigentums am Grundstück nach dem
 Vermögensgesetz verfügt und bestand eine noch nicht voll getilgte
@@ -124,6 +129,7 @@ Vermögensgesetzes zu löschen.
 
 
 ## § 6 Schließung der Schuldbücher
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000600000)
 
 (1) Die Schuldbuchstellen der Kreditanstalt für den Wiederaufbau haben
 per 31. Dezember 1995 die Schuldbücher zu schließen.
@@ -141,6 +147,7 @@ tilgen.
 
 
 ## § 7 Finanzielle Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000700000)
 
 Die nach diesem Gesetz verbleibenden finanziellen Aufwendungen, die
 nach Auflösung des Kreditabwicklungsfonds anfallen, sind vom
@@ -148,6 +155,7 @@ Erblastentilgungsfonds zu übernehmen.
 
 
 ## § 8 Aktenaufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000800000)
 
 Die Kreditanstalt für den Wiederaufbau hat die Schuldbuchakten der zum
 31\. Dezember 1995 geschlossenen Schuldbücher sowie die Akten der
@@ -155,6 +163,7 @@ gesonderten Forderungen nach § 6 Abs. 2 zehn Jahre aufzubewahren.
 
 
 ## § 9 Ausschlußfrist sonstiger Ansprüche aus Schuldbuchforderungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldbberg/BJNR263400994.html#BJNR263400994BJNE000900000)
 
 Mit dem Ablauf des 31. Dezember 1995 erlöschen alle sonstigen in
 diesem Gesetz nicht genannten Ansprüche aus Schuldbuchforderungen

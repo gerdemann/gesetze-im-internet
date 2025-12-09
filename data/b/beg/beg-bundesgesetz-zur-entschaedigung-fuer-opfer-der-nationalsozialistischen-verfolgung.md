@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000100328)
 
 
 
 ### Erster Titel - Anspruch auf Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000200328)
 
 
 
 #### (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE006500328)
 
 In Anerkennung der Tatsache,
 daß Personen, die aus Gründen politischer Gegnerschaft gegen den
@@ -46,6 +49,7 @@ Gesetz beschlossen:
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE006600328)
 
 (1) Opfer der nationalsozialistischen Verfolgung ist, wer aus Gründen
 politischer Gegnerschaft gegen den Nationalsozialismus oder aus
@@ -103,6 +107,7 @@ durch nationalsozialistische Gewaltmaßnahmen verfolgt worden ist,
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE006700328)
 
 (1) Nationalsozialistische Gewaltmaßnahmen sind solche Maßnahmen, die
 aus den Verfolgungsgründen des § 1 auf Veranlassung oder mit Billigung
@@ -118,11 +123,13 @@ Verfolgten gerichtet worden sind.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE006800328)
 
 Der Verfolgte hat Anspruch auf Entschädigung nach diesem Gesetz.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE006901305)
 
 (1) Anspruch auf Entschädigung besteht,
 
@@ -227,6 +234,7 @@ wenn das Grundstück im Geltungsbereich dieses Gesetzes belegen ist.
 
 
 #### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007000328)
 
 (1) Ist ein Verfolgter vor dem 31. Dezember 1952 verstorben und hatte
 er seinen letzten Wohnsitz oder dauernden Aufenthalt außerhalb des
@@ -249,6 +257,7 @@ Verfolgten.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007100328)
 
 (1) Anspruch auf Entschädigung besteht nicht, soweit der Anspruch auf
 Wiedergutmachung des Schadens seiner Rechtsnatur nach unter besondere,
@@ -284,6 +293,7 @@ Absatzes 1 wegen Fristversäumnis nicht mehr geltend machen kann.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007200328)
 
 (1) Von der Entschädigung ausgeschlossen ist,
 
@@ -320,6 +330,7 @@ zurückgefordert werden.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007300328)
 
 (1) Der Anspruch auf Entschädigung kann ganz oder teilweise versagt
 werden, wenn der Berechtigte, um Entschädigung zu erlangen, sich
@@ -337,6 +348,7 @@ Verhältnisse beruht.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007400328)
 
 (1) Ansprüche gegen das Deutsche Reich, die Bundesrepublik Deutschland
 und die deutschen Länder können unbeschadet der in § 5 genannten und
@@ -354,6 +366,7 @@ werden.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007500328)
 
 (1) Die Grundsätze des bürgerlichen Rechts über die Berücksichtigung
 mitwirkenden Verschuldens und über die Anrechnung eines im
@@ -378,6 +391,7 @@ geleistet.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007601310)
 
 (1) Auf die Entschädigung sind aus deutschen öffentlichen Mitteln
 gewährte Leistungen anzurechnen, die im Zuge der Entschädigung für
@@ -409,6 +423,7 @@ ausgeschlossen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007700328)
 
 (1) Geldansprüche für die Zeit vor dem 1. Juli 1948 werden in
 Reichsmark berechnet und im Verhältnis 10:2 in Deutsche Mark
@@ -421,12 +436,14 @@ Gesetzes auf die Entschädigung anzurechnen sind.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007800328)
 
 Renten werden frühestens vom 1. November 1953 an in monatlich
 vorauszahlbaren Beträgen gezahlt.
 
 
 #### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE007901116)
 
 Erhöhen sich wiederkehrende Leistungen aus der bundesgesetzlichen
 Rentenversicherung oder nach dem Vierzehnten Buch Sozialgesetzbuch, so
@@ -437,10 +454,12 @@ erstmaligen Festsetzung einer Rente nach diesem Gesetz.
 
 
 ### Zweiter Titel - Übergang und Übertragung des Anspruchs auf Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000300328)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008002310)
 
 (1) Der Anspruch auf Entschädigung ist vererblich.
 
@@ -465,6 +484,7 @@ Vermächtnisse geltenden Vorschriften anzuwenden.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008100328)
 
 Der Anspruch auf Entschädigung kann abgetreten, verpfändet oder
 gepfändet werden. Die Abtretung, Verpfändung oder Pfändung ist nur mit
@@ -472,14 +492,17 @@ Genehmigung der Entschädigungsbehörde zulässig.
 
 
 ## Zweiter Abschnitt - Schadenstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000400328)
 
 
 
 ### Erster Titel - Schaden an Leben
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000500328)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008200328)
 
 (1) Anspruch auf Entschädigung für Schaden an Leben besteht, wenn der
 Verfolgte getötet oder in den Tod getrieben worden und sein Tod
@@ -496,6 +519,7 @@ Anspruch genannten Voraussetzungen vorliegen.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008300328)
 
 Als Entschädigung werden geleistet
 
@@ -512,6 +536,7 @@ Als Entschädigung werden geleistet
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008400328)
 
 (1) Die Rente steht folgenden Hinterbliebenen zu:
 
@@ -574,6 +599,7 @@ von dem verfolgten Ehegatten abgewandt hat.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008500328)
 
 (1) Die Rente wird nach Maßgabe der Versorgungsbezüge festgesetzt, die
 den Hinterbliebenen eines mit dem Verfolgten nach seiner
@@ -602,6 +628,7 @@ des Absatzes 1 zugrunde zu legen.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008600328)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1317
 Der monatliche Mindestbetrag der Rente beträgt für
@@ -770,6 +797,7 @@ Der monatliche Mindestbetrag der Rente beträgt für
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008700328)
 
 (1) Die Renten nach § 18 dürfen zusammen das Unfallruhegehalt des
 vergleichbaren Bundesbeamten nicht übersteigen. Ergibt sich bei der
@@ -790,6 +818,7 @@ höchste Rente gezahlt.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008800328)
 
 (1) Haben sich die Verhältnisse, die der Bemessung der Rente zugrunde
 gelegt waren, nachträglich so geändert, daß die auf Grund der
@@ -804,11 +833,13 @@ der festgesetzten Rente abweicht.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE008900328)
 
 -
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009000328)
 
 Im Falle der Wiederverheiratung erhält die Witwe oder der Witwer eine
 Abfindung in Höhe des vierundzwanzigfachen Betrages der für den
@@ -824,12 +855,14 @@ anzurechnen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009100328)
 
 Für die Zeit vor dem 1. November 1953 steht den Hinterbliebenen (§ 17)
 vom Tode des Verfolgten an eine Kapitalentschädigung zu.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009200328)
 
 (1) Der Berechnung der Kapitalentschädigung ist der Betrag der nach §§
 18 bis 20 errechneten Rente zugrunde zu legen, der auf den Monat
@@ -847,6 +880,7 @@ berechneten Monatsbetrages.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009300328)
 
 (1) Der Anspruch auf die laufende Rente ist weder übertragbar noch
 vererblich; dies gilt auch für den Anspruch der Witwe oder des Witwers
@@ -860,6 +894,7 @@ Eltern beerbt wird. § 13 Abs. 3 findet entsprechende Anwendung.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009400328)
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung der §§ 15
 bis 26 Rechtsverordnungen zu erlassen. Hierbei kann sie als Grundlage
@@ -878,10 +913,12 @@ Grund gesetzlicher Vorschriften erhöhen.
 
 
 ### Zweiter Titel - Schaden an Körper oder Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000600328)
 
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009500328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er an seinem
 Körper oder an seiner Gesundheit nicht unerheblich geschädigt worden
@@ -897,6 +934,7 @@ wird.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009600328)
 
 Als Entschädigung werden geleistet
 
@@ -922,6 +960,7 @@ Als Entschädigung werden geleistet
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009702116)
 
 (1) Umfang und Erfüllung des Anspruchs auf ein Heilverfahren richten
 sich nach den Vorschriften über die Unfallfürsorge der Bundesbeamten.
@@ -935,6 +974,7 @@ ist.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009801116)
 
 (1) Die Rente steht dem Verfolgten im Falle und für die Dauer einer
 Beeinträchtigung der Erwerbsfähigkeit um mindestens 25 vom Hundert zu.
@@ -1010,6 +1050,7 @@ zugestanden hätte.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE009900328)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1318
 (1) Der monatliche Mindestbetrag der Rente beträgt bei einer
@@ -1134,6 +1175,7 @@ beruht.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010000328)
 
 (1) Der Grad der Minderung und der Beeinträchtigung der
 Erwerbsfähigkeit ist danach zu beurteilen, wie weit der Verfolgte im
@@ -1150,6 +1192,7 @@ ergeben würde.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010100328)
 
 Ist die Erwerbsfähigkeit des Verfolgten neben der Beeinträchtigung
 durch die verfolgungsbedingte Schädigung auch durch andere Ursachen
@@ -1159,6 +1202,7 @@ Erwerbsfähigkeit zugrunde gelegt. § 33 Abs. 1 Satz 2 gilt sinngemäß.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010200328)
 
 (1) Haben sich die Verhältnisse, die der Bemessung der Rente zugrunde
 gelegt waren, nachträglich so geändert, daß die auf Grund der
@@ -1175,6 +1219,7 @@ der festgesetzten Rente abweicht.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010300328)
 
 Für die Zeit vor dem 1. November 1953 steht dem Verfolgten vom Beginn
 der Beeinträchtigung der Erwerbsfähigkeit um mindestens 25 vom Hundert
@@ -1182,6 +1227,7 @@ an eine Kapitalentschädigung zu.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010400328)
 
 (1) Der Berechnung der Kapitalentschädigung ist der Betrag der nach §§
 31 bis 34 errechneten Rente zugrunde zu legen, der auf den Monat
@@ -1201,6 +1247,7 @@ berechneten Monatsbetrages.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010500328)
 
 Dem Verfolgten steht ein Hausgeld zu, wenn er durch das Heilverfahren
 einen Verdienstausfall erleidet und die ihm verbleibenden Einkünfte
@@ -1216,6 +1263,7 @@ hinaus, zu zahlen.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010600328)
 
 (1) Der Anspruch auf die laufende Rente ist weder übertragbar noch
 vererblich.
@@ -1228,6 +1276,7 @@ seinen Eltern beerbt wird. § 13 Abs. 3 findet entsprechende Anwendung.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010700328)
 
 Dem Verfolgten, der zu einer Umschulung für einen anderen Beruf bereit
 ist, können Beihilfen zu den entstehenden Kosten bewilligt werden,
@@ -1236,6 +1285,7 @@ Leistungsfähigkeit wiederherstellen oder bessern wird.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010800328)
 
 (1) Ist der Verfolgte später als acht Monate nach Abschluß der
 Verfolgung, die seinen Tod verursacht hat, an den Folgen der
@@ -1256,6 +1306,7 @@ dies für die Hinterbliebenen günstiger ist.
 
 
 #### § 41a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE010900328)
 
 (1) Ist ein Verfolgter, der bis zum Tode eine Rente wegen einer
 Beeinträchtigung der Erwerbsfähigkeit von mindestens 70 vom Hundert
@@ -1273,6 +1324,7 @@ Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011000328)
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung der §§ 28
 bis 41a Rechtsverordnungen zu erlassen. Hierbei kann sie als Grundlage
@@ -1296,14 +1348,17 @@ Grund gesetzlicher Vorschriften erhöhen.
 
 
 ### Dritter Titel - Schaden an Freiheit
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000700328)
 
 
 
 #### I. - Freiheitsentziehung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000800328)
 
 
 
 ##### § 43
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011100328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn ihm in der Zeit
 vom 30. Januar 1933 bis zum 8. Mai 1945 die Freiheit entzogen worden
@@ -1337,6 +1392,7 @@ gleichgeachtet.
 
 
 ##### § 44
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011200328)
 
 (1) Ist die Freiheit im Zusammenhang mit einer strafgerichtlichen
 Verurteilung entzogen worden, so kann die Entschädigung in
@@ -1354,6 +1410,7 @@ zuständigen Gerichte oder Behörden vorzulegen.
 
 
 ##### § 45
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011300328)
 
 Die Entschädigung nach § 43 wird als Kapitalentschädigung geleistet.
 Sie beträgt 150 Deutsche Mark für jeden vollen Monat der
@@ -1364,6 +1421,7 @@ Freiheitsentziehung werden zusammengerechnet.
 
 
 ##### § 46
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011400328)
 
 (1) Der Anspruch auf Entschädigung für Freiheitsentziehung ist vor
 Festsetzung oder vor rechtskräftiger gerichtlicher Entscheidung nicht
@@ -1380,10 +1438,12 @@ Erbschaftsteuer befreit.
 
 
 #### II. - Freiheitsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG000900328)
 
 
 
 ##### § 47
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011500328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er in der Zeit
 vom 30. Januar 1933 bis zum 8. Mai 1945 den Judenstern getragen oder
@@ -1395,6 +1455,7 @@ hat.
 
 
 ##### § 48
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011600328)
 
 Die Entschädigung nach § 47 wird als Kapitalentschädigung geleistet.
 Sie beträgt 150 Deutsche Mark für jeden vollen Monat der
@@ -1402,6 +1463,7 @@ Freiheitsbeschränkung. § 45 Satz 3 findet entsprechende Anwendung.
 
 
 ##### § 49
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011700328)
 
 Hat der Verfolgte für die Zeit, in der er den Judenstern getragen oder
 unter menschenunwürdigen Bedingungen in der Illegalität gelebt hat,
@@ -1411,6 +1473,7 @@ Freiheitsbeschränkung.
 
 
 ##### § 50
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011800328)
 
 Der Anspruch auf Entschädigung für Freiheitsbeschränkung ist nach
 Maßgabe des § 46 übertragbar und vererblich. Für die Befreiung von der
@@ -1418,10 +1481,12 @@ Erbschaftsteuer findet § 46 Abs. 3 entsprechende Anwendung.
 
 
 ### Vierter Titel - Schaden an Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001000328)
 
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE011900328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung für Schaden an
 Eigentum, wenn eine ihm im Zeitpunkt der Schädigung gehörende Sache im
@@ -1462,6 +1527,7 @@ worden ist.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012000328)
 
 (1) Die Entschädigung nach § 51 wird in Deutscher Mark berechnet.
 
@@ -1479,6 +1545,7 @@ Wiederherstellung möglich ist.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012100328)
 
 Steht einer auf Grund rückerstattungsrechtlicher Vorschriften
 errichteten Nachfolgeorganisation ein Anspruch auf Rückerstattung oder
@@ -1495,6 +1562,7 @@ Geltendmachung auf den Verfolgten oder seine Erben über.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012200328)
 
 (1) Hat der Verfolgte durch Zerstörung, Verunstaltung, Preisgabe zur
 Plünderung oder durch Imstichlassen Hausrat eingebüßt, so kann er vor
@@ -1515,6 +1583,7 @@ die Hälfte der Pauschalabgeltung verlangen.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012300328)
 
 (1) Die Entschädigung nach §§ 51, 54 darf für den einzelnen Verfolgten
 insgesamt den Betrag von 75.000 Deutsche Mark nicht übersteigen. Dies
@@ -1531,10 +1600,12 @@ Stelle des einzelnen Verfolgten zusteht.
 
 
 ### Fünfter Titel - Schaden an Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001100328)
 
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012400328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er an seinem im
 Reichsgebiet nach dem Stande vom 31. Dezember 1937 oder im Gebiet der
@@ -1572,6 +1643,7 @@ worden ist.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012500328)
 
 (1) Der Verfolgte, der aus den Verfolgungsgründen des § 1 in der Zeit
 vom 30. Januar 1933 bis zum 8. Mai 1945 aus dem Reichsgebiet nach dem
@@ -1596,6 +1668,7 @@ Verfolgten insgesamt den Betrag von 5.000 Deutsche Mark nicht
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012600328)
 
 Die Entschädigung nach §§ 56, 57 darf für den einzelnen Verfolgten
 insgesamt den Betrag von 75.000 Deutsche Mark nicht übersteigen. Im
@@ -1603,10 +1676,12 @@ insgesamt den Betrag von 75.000 Deutsche Mark nicht übersteigen. Im
 
 
 ### Sechster Titel - Schaden durch Zahlung von Sonderabgaben, Geldstrafen, Bußen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001200328)
 
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012700328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung für entrichtete
 Sonderabgaben, die ihm aus den Verfolgungsgründen des § 1 auferlegt
@@ -1638,6 +1713,7 @@ ist.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012800328)
 
 (1) Der Verfolgte hat den Anspruch nach § 59 auch dann, wenn die
 Sonderabgabe ganz oder teilweise mittels Vermögensgegenständen, die
@@ -1670,6 +1746,7 @@ seine freie Verfügung gelangten Kaufpreises abgetreten hat.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE012900328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung für entrichtete
 Geldstrafen und Bußen, soweit ihm diese aus den Verfolgungsgründen des
@@ -1687,6 +1764,7 @@ beigetrieben worden ist. § 44 gilt sinngemäß.
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013000328)
 
 Der Verfolgte hat Anspruch auf Entschädigung für gerichtliche und
 notwendige außergerichtliche Kosten, soweit ihm die Kosten dadurch
@@ -1703,6 +1781,7 @@ dann, wenn das Verfahren im Vertreibungsgebiet anhängig gewesen ist. §
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013100328)
 
 Gehört der Verfolgte zu einem Personenkreis, den in seiner Gesamtheit
 die nationalsozialistische deutsche Regierung oder die NSDAP vom
@@ -1713,14 +1792,17 @@ nationalsozialistische Gewaltmaßnahmen verursacht worden ist.
 
 
 ### Siebenter Titel - Schaden im beruflichen und im wirtschaftlichen Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001300328)
 
 
 
 #### I. - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001400328)
 
 
 
 ##### § 64
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013200328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung für Schaden im
 beruflichen und im wirtschaftlichen Fortkommen, wenn er im Zuge einer
@@ -1740,24 +1822,29 @@ nationalsozialistische Gewaltmaßnahmen verursacht worden ist.
 
 
 #### II. - Schaden im beruflichen Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001500328)
 
 
 
 ##### 1. - Begriff
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001600328)
 
 
 
 ###### § 65
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013300328)
 
 Ein Schaden im beruflichen Fortkommen liegt vor, wenn der Verfolgte in
 der Nutzung seiner Arbeitskraft geschädigt worden ist.
 
 
 ##### 2. - Selbständige Berufe
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001700328)
 
 
 
 ###### § 66
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013400328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er aus einer
 selbständigen Erwerbstätigkeit, einschließlich land- und
@@ -1776,6 +1863,7 @@ geführt hat.
 
 
 ###### § 67
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013500328)
 
 (1) Der Verfolgte hat Anspruch darauf, daß ihm die Wiederaufnahme
 seiner früheren selbständigen oder die Aufnahme einer gleichwertigen
@@ -1806,6 +1894,7 @@ Erwerbstätigen vorgeschrieben ist.
 
 
 ###### § 68
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013600328)
 
 (1) Verfolgte sind bei der Vergabe von öffentlichen Aufträgen
 unbeschadet der Regelungen für notleidende Gebiete bevorzugt zu
@@ -1819,6 +1908,7 @@ Verhältnissen entsprechenden Maße eingegliedert ist.
 
 
 ###### § 69
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013700328)
 
 (1) Der Verfolgte hat Anspruch auf zinslose oder zinsverbilligte
 Darlehen, soweit für die Wiederaufnahme seiner früheren selbständigen
@@ -1838,6 +1928,7 @@ Erwerbstätigkeit benötigt.
 
 
 ###### § 70
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013800328)
 
 (1) Hat der Verfolgte bei Beginn der Verfolgung mehrere selbständige
 Erwerbstätigkeiten ausgeübt, so steht ihm der Anspruch auf ein
@@ -1848,6 +1939,7 @@ Abs. 3 nicht übersteigen.
 
 
 ###### § 71
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE013900328)
 
 Der Darlehnsvertrag ist nach Maßgabe der folgenden Bedingungen
 abzuschließen:
@@ -1882,6 +1974,7 @@ abzuschließen:
 
 
 ###### § 72
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014000328)
 
 (1) Muß der Verfolgte seine frühere oder eine gleichwertige
 Erwerbstätigkeit unter besonders erschwerenden Bedingungen aufnehmen
@@ -1909,6 +2002,7 @@ stets zinslos zu gewähren ist.
 
 
 ###### § 73
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014100328)
 
 (1) § 69 Abs. 1 und 2, §§ 70, 71, 72 Abs. 1, 2 und 4 finden auf den
 überlebenden Ehegatten und die Kinder eines verstorbenen Verfolgten
@@ -1922,6 +2016,7 @@ die in § 69 Abs. 3, § 72 Abs. 3 genannten Höchstbeträge nicht
 
 
 ###### § 74
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014200328)
 
 Der Verfolgte hat für die Zeit der Verdrängung aus oder der
 wesentlichen Beschränkung in seiner selbständigen Erwerbstätigkeit
@@ -1930,6 +2025,7 @@ Kapitalentschädigung oder in einer Rente.
 
 
 ###### § 75
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014300328)
 
 (1) Die Kapitalentschädigung wird nicht über den Zeitpunkt hinaus
 geleistet, in dem der Verfolgte seine frühere oder eine gleichwertige
@@ -1967,6 +2063,7 @@ insoweit der Anspruch auf Kapitalentschädigung.
 
 
 ###### § 76
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014400328)
 
 (1) Ist der Verfolgte aus seiner Erwerbstätigkeit verdrängt worden, so
 wird die Kapitalentschädigung auf der Grundlage von drei Vierteln der
@@ -2013,6 +2110,7 @@ wesentlich beschränkt war.
 
 
 ###### § 77
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014500328)
 
 Von dem nach § 76 Abs. 1, 3 und 4 errechneten Betrag ist das während
 des gesamten Entschädigungszeitraumes durch anderweitige Verwertung
@@ -2024,6 +2122,7 @@ erzielt worden ist, nicht zu berücksichtigen.
 
 
 ###### § 78
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014600328)
 
 Die Kapitalentschädigung wird nach vollen Monaten berechnet. Zugrunde
 zu legen sind die Kalendermonate, während deren der Verfolgte aus
@@ -2034,6 +2133,7 @@ Ausübung wesentlich beschränkt war.
 
 
 ###### § 79
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014700328)
 
 (1) Der Zeitraum, für den die Kapitalentschädigung geleistet wird,
 endet spätestens mit dem Zeitpunkt, in dem der Verfolgte tatsächlich
@@ -2045,6 +2145,7 @@ mindestens 50 vom Hundert verfolgungsbedingt ist.
 
 
 ###### § 80
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014800328)
 
 Bestehen nach Festsetzung oder nach rechtskräftiger gerichtlicher
 Entscheidung die Voraussetzungen für die Leistung einer
@@ -2055,6 +2156,7 @@ der Kapitalentschädigung (§ 123) erreicht ist.
 
 
 ###### § 81
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE014900328)
 
 Der Verfolgte kann an Stelle der Kapitalentschädigung eine Rente
 wählen. Die Rente wird ohne Rücksicht auf die Höhe der
@@ -2062,6 +2164,7 @@ Kapitalentschädigung auf Lebenszeit geleistet.
 
 
 ###### § 82
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015000328)
 
 (1) Voraussetzung für das Wahlrecht nach § 81 ist, daß der Verfolgte
 im Zeitpunkt der Entscheidung keine Erwerbstätigkeit ausübt, die ihm
@@ -2080,6 +2183,7 @@ früher ausgeübten Erwerbstätigkeit gleichzuachten.
 
 
 ###### § 83
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015100328)
 
 (1) Die Rente wird auf der Grundlage von zwei Dritteln der
 Versorgungsbezüge eines vergleichbaren Bundesbeamten errechnet. Dabei
@@ -2133,6 +2237,7 @@ Jahres.
 
 
 ###### § 84
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015200328)
 
 Das Wahlrecht nach § 81 ist bis zum Ablauf einer Frist von drei
 Monaten oder, wenn der Verfolgte im außereuropäischen Ausland wohnt,
@@ -2144,6 +2249,7 @@ Wahl ist endgültig.
 
 
 ###### § 84a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015300328)
 
 Sind auf den Anspruch des Verfolgten wegen Schadens im beruflichen
 Fortkommen vor Ausübung des Wahlrechts oder vor Festsetzung oder
@@ -2154,6 +2260,7 @@ auch auf andere Ansprüche angerechnet oder zurückgefordert werden.
 
 
 ###### § 85
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015400328)
 
 (1) Ist der Verfolgte nach Festsetzung oder rechtskräftiger
 gerichtlicher Zuerkennung der Rente und nach Ausübung des Wahlrechtes
@@ -2183,6 +2290,7 @@ Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
 
 ###### § 85a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015500328)
 
 (1) Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor
 Festsetzung oder rechtskräftiger gerichtlicher Zuerkennung der Rente
@@ -2206,6 +2314,7 @@ Berechtigten drei Viertel des Monatsbetrages der Rente verbleiben.
 
 
 ###### § 86
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015600328)
 
 (1) Ist der Verfolgte innerhalb der Frist des § 84 verstorben, ohne
 das ihm zustehende Wahlrecht nach § 81 ausgeübt zu haben, so kann die
@@ -2251,14 +2360,17 @@ Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
 
 ##### 3. - Unselbständige Berufe
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001800328)
 
 
 
 ###### A. - Privater Dienst
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG001900328)
 
 
 
 ###### § 87
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015700328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er im privaten
 Dienst durch Entlassung, vorzeitiges Ausscheiden oder durch Versetzung
@@ -2272,6 +2384,7 @@ geführt hat.
 
 
 ###### § 88
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015800328)
 
 § 87 gilt sinngemäß, wenn
 
@@ -2317,6 +2430,7 @@ geführt hat.
 
 
 ###### § 89
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE015900328)
 
 (1) Der Verfolgte hat Anspruch auf Einräumung seines früheren oder
 eines gleichwertigen Arbeitsplatzes, es sei denn, daß er das 65.
@@ -2353,6 +2467,7 @@ Arbeitsverhältnis als wiederhergestellt.
 
 
 ###### § 89a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016001310)
 
 Verfolgte, die ohne ihr Verschulden eine ständige Tätigkeit in dem
 bisherigen oder angestrebten Beruf noch nicht aufgenommen haben,
@@ -2361,6 +2476,7 @@ vermittelt werden.
 
 
 ###### § 90
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016100328)
 
 Hat der Verfolgte eine selbständige Erwerbstätigkeit aufgenommen oder
 weist er nach, daß er die Voraussetzungen für die erfolgreiche
@@ -2369,12 +2485,14 @@ entsprechende Anwendung. § 72 gilt sinngemäß.
 
 
 ###### § 90a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016200328)
 
 Hat der Verfolgte eine selbständige Erwerbstätigkeit aufgenommen, so
 findet § 68 entsprechende Anwendung.
 
 
 ###### § 91
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016300328)
 
 Der Verfolgte hat Anspruch auf eine Entschädigung für Schaden, der ihm
 durch Entlassung, vorzeitiges Ausscheiden oder durch Versetzung in
@@ -2384,6 +2502,7 @@ Rente.
 
 
 ###### § 92
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016400328)
 
 (1) Auf die Kapitalentschädigung finden die §§ 75, 76 Abs. 1, 2 und 4,
 §§ 78 bis 80 entsprechende Anwendung.
@@ -2405,6 +2524,7 @@ Arbeitgeber oder dessen Rechtsnachfolger erhalten hat oder erhält.
 
 
 ###### § 93
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016500328)
 
 Der Verfolgte kann an Stelle der Kapitalentschädigung eine Rente
 wählen. Bei Bemessung der Rente sind das Lebensalter des Verfolgten
@@ -2413,6 +2533,7 @@ berücksichtigen.
 
 
 ###### § 94
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016600328)
 
 Voraussetzung für das Wahlrecht nach § 93 ist, daß der Verfolgte im
 Zeitpunkt der Entscheidung das 65. Lebensjahr vollendet hat oder in
@@ -2421,6 +2542,7 @@ Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 
 
 ###### § 95
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016700328)
 
 (1) Der monatliche Höchstbetrag der Rente beträgt
 
@@ -2481,6 +2603,7 @@ nach § 93 errechneten Rente.
 
 
 ###### § 96
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016800328)
 
 (1) Das Wahlrecht nach § 93 ist bis zum Ablauf einer Frist von drei
 Monaten oder, wenn der Verfolgte im außereuropäischen Ausland wohnt,
@@ -2494,6 +2617,7 @@ Wahl ist endgültig.
 
 
 ###### § 97
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE016900328)
 
 (1) Ist der Verfolgte nach Festsetzung oder rechtskräftiger
 gerichtlicher Zuerkennung der Rente und nach Ausübung des Wahlrechtes
@@ -2511,6 +2635,7 @@ sie ihrer Höhe nach zueinander stehen.
 
 
 ###### § 97a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017000328)
 
 Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor Festsetzung
 oder rechtskräftiger gerichtlicher Zuerkennung der Rente verstorben,
@@ -2519,20 +2644,24 @@ berechnen.
 
 
 ###### § 98
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017100328)
 
 Ist der Verfolgte vor Ausübung des Wahlrechtes verstorben, so findet §
 86 entsprechende Anwendung. Die Rente ist nach § 97 zu berechnen.
 
 
 ###### B. - Öffentlicher Dienst
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002000328)
 
 
 
 ###### a) - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002100328)
 
 
 
 ###### § 99
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017200328)
 
 (1) Der verfolgte Angehörige des öffentlichen Dienstes (§§ 1, 2, 2a
 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen
@@ -2617,6 +2746,7 @@ außerplanmäßiger Beamter.
 
 
 ###### § 100
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017300328)
 
 Anspruch auf Entschädigung besteht nicht, wenn eine gleiche Maßnahme
 aus beamten- oder tarifrechtlichen Gründen, die nicht mit
@@ -2627,6 +2757,7 @@ ist kein beamten- oder tarifrechtlicher Grund im Sinne des Satzes 1.
 
 
 ###### § 101
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017400328)
 
 Ist eine Maßnahme nach § 99 Abs. 1 Nr. 1 und 2 durch Strafurteil oder
 durch Dienststrafurteil ausgesprochen worden oder ist sie die
@@ -2637,10 +2768,12 @@ gleich.
 
 
 ###### b) - Beamte
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002200328)
 
 
 
 ###### § 102
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017500328)
 
 (1) Der Beamte, dem auf Grund einer der in § 99 Abs. 1 Nr. 1 genannten
 Maßnahmen Dienstbezüge entgangen sind, hat Anspruch auf eine
@@ -2687,6 +2820,7 @@ außerplanmäßiger Beamter (§ 99 Abs. 2 Satz 2).
 
 
 ###### § 103
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017600328)
 
 Ruhestandsbeamte, Witwen und Waisen, denen Versorgungsbezüge ganz oder
 teilweise vorenthalten worden sind (§ 99 Abs. 1 Nr. 2), haben Anspruch
@@ -2695,6 +2829,7 @@ Versorgungsbezüge.
 
 
 ###### § 104
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017700328)
 
 (1) Ein versorgungsberechtigter Hinterbliebener eines verfolgten
 Beamten oder Versorgungsempfängers, der als Folge einer gegen den
@@ -2711,6 +2846,7 @@ entsprechende Anwendung.
 
 
 ###### § 105
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017800328)
 
 Bei einem Beamten oder Versorgungsempfänger, der auf Grund mehrerer
 aufeinanderfolgender Maßnahmen (§ 99 Abs. 1 Nr. 1 und 2) geschädigt
@@ -2723,6 +2859,7 @@ Dienstverhältnis.
 
 
 ###### § 106
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE017900328)
 
 Für die Bemessung der Entschädigung nach §§ 102 bis 105 sind die
 Vorschriften des für die Bundesbeamten am 1. April 1951 geltenden
@@ -2732,6 +2869,7 @@ Kinderzuschläge zugrunde zu legen.
 
 
 ###### § 107
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018000328)
 
 (1) Auf die Kapitalentschädigung nach §§ 102 bis 106 sind für den
 gleichen Zeitraum gewährte Versorgungsbezüge, Kapitalabfindungen,
@@ -2768,10 +2906,12 @@ erzielt worden ist, nicht zu berücksichtigen.
 
 
 ###### c) - Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002300328)
 
 
 
 ###### § 108
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018100328)
 
 (1) §§ 102 bis 107 finden auf Berufssoldaten der früheren Wehrmacht
 sowie ihre Hinterbliebenen entsprechende Anwendung.
@@ -2795,10 +2935,12 @@ Reichswehr und die alte Wehrmacht (Heer, Marine, Schutztruppe).
 
 
 ###### d) - Angestellte und Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002400328)
 
 
 
 ###### § 109
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018200328)
 
 §§ 102 bis 107 finden auf Angestellte und Arbeiter (§ 99 Abs. 1 Nr.
 3), die im Zeitpunkt der Schädigung einen vertraglichen Anspruch auf
@@ -2808,6 +2950,7 @@ haben würden, sowie auf ihre Hinterbliebenen entsprechende Anwendung.
 
 
 ###### § 110
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018300328)
 
 (1) §§ 87, 88, 90 bis 98 finden auf Angestellte und Arbeiter (§ 99
 Abs. 1 Nr. 3), die im Zeitpunkt der Schädigung keinen vertraglichen
@@ -2825,10 +2968,12 @@ Unrechts für Angehörige des öffentlichen Dienstes erhalten.
 
 
 ###### e) - Nichtbeamtete außerordentliche Professoren und Privatdozenten an den wissenschaftlichen Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002500328)
 
 
 
 ###### § 111
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018400328)
 
 (1) Nichtbeamtete außerordentliche Professoren und Privatdozenten an
 den wissenschaftlichen Hochschulen (§ 99 Abs. 1 Nr. 4) haben Anspruch
@@ -2843,10 +2988,12 @@ gewesen wäre.
 
 
 ###### C. - Dienst bei Religionsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002600328)
 
 
 
 ###### § 112
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018500328)
 
 §§ 109, 110, 88 finden auf Verfolgte, die im Dienst von
 Religionsgesellschaften oder jüdischen öffentlichen Einrichtungen
@@ -2860,10 +3007,12 @@ Dienstes gezahlt werden.
 
 
 ##### 4. - Schädigung in selbständiger und unselbständiger Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002700328)
 
 
 
 ###### § 113
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018600328)
 
 (1) Ist der Verfolgte selbständig und unselbständig erwerbstätig
 gewesen und ist er nur in einer der beiden Erwerbstätigkeiten
@@ -2883,10 +3032,12 @@ eines nur selbständig Erwerbstätigen zu behandeln.
 
 
 ##### 5. - Nichtaufnahme einer Erwerbstätigkeit trotz abgeschlossener Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002800328)
 
 
 
 ###### § 114
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018700328)
 
 (1) Der Verfolgte, der trotz abgeschlossener Berufsausbildung aus den
 Verfolgungsgründen des § 1 keine dieser Ausbildung entsprechende
@@ -2916,6 +3067,7 @@ seine Hinterbliebenen eine Entschädigung nach § 102 Abs. 4 Satz 2, §§
 
 
 ###### § 114a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018800328)
 
 (1) § 114 Abs. 1 findet entsprechende Anwendung, wenn dem Verfolgten,
 der den Beruf eines Lehrers an einer wissenschaftlichen Hochschule
@@ -2932,10 +3084,12 @@ erstrebten Beruf hätte aufnehmen können.
 
 
 ##### 6. - Schaden in der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG002900328)
 
 
 
 ###### § 115
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE018900328)
 
 (1) Als Schaden im beruflichen Fortkommen im Sinne von § 65 gilt auch
 der Schaden, den der Verfolgte in seiner Berufsausbildung oder in
@@ -2946,12 +3100,14 @@ Ausbildung oder durch deren erzwungene Unterbrechung erlitten hat.
 
 
 ###### § 116
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019000328)
 
 Der Verfolgte hat Anspruch auf eine Kapitalentschädigung in Höhe von
 10\.000 Deutsche Mark.
 
 
 ###### § 117
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019100328)
 
 (1) Der Verfolgte hat nach erfolgreich abgeschlossener Ausbildung
 Anspruch auf ein Darlehen. § 69 Abs. 1 und 2 gilt sinngemäß.
@@ -2961,11 +3117,13 @@ findet entsprechende Anwendung.
 
 
 ###### § 118
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019200328)
 
 -
 
 
 ###### § 119
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019300328)
 
 (1) Kinder, die wegen der Verfolgung ihrer Eltern ihre erstrebte
 Berufsausbildung oder ihre vorberufliche Ausbildung nicht haben
@@ -2991,19 +3149,23 @@ unberührt.
 
 
 ##### 7. - Zusammentreffen von Ansprüchen auf Entschädigung für Schaden im beruflichen Fortkommen mit Ansprüchen auf Entschädigung für Schaden an Leben, Körper oder Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003000328)
 
 
 
 ###### (XXXX) §§ 120 - 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019400328)
 
 -
 
 
 ##### 7. - Höchstbetrag der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003100328)
 
 
 
 ###### § 123
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019500328)
 
 (1) Die Kapitalentschädigung für Schaden im beruflichen Fortkommen
 darf für den einzelnen Verfolgten insgesamt den Betrag von 40.000
@@ -3016,6 +3178,7 @@ Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des
 
 
 ###### § 124
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019600328)
 
 Soweit nach §§ 99 bis 109, 111 ein versorgungsberechtigter
 Hinterbliebener Anspruch auf Entschädigung hat, mindert sich der
@@ -3026,6 +3189,7 @@ Dienstes stehen.
 
 
 ###### § 125
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019700328)
 
 Der Höchstbetrag des § 123 gilt auch dann, wenn Kapitalentschädigungen
 nach §§ 99 bis 109, 111 aus einem Dienstverhältnis zugunsten mehrerer
@@ -3033,10 +3197,12 @@ Berechtigter zu zahlen sind.
 
 
 ##### 8. - Zusammentreffen mit Ansprüchen nach den Rechtsvorschriften zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003200328)
 
 
 
 ###### § 125a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019800328)
 
 Hat der Verfolgte für denselben Schadenstatbestand und denselben
 Entschädigungszeitraum Anspruch auf Rente für Schaden im beruflichen
@@ -3049,10 +3215,12 @@ Wiedergutmachung nach den genannten Rechtsvorschriften übersteigt.
 
 
 ##### 9. - Ermächtigung der Bundesregierung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003300328)
 
 
 
 ###### § 126
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE019900328)
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung der §§ 65
 bis 98 sowie der §§ 110 bis 125a Rechtsverordnungen zu erlassen.
@@ -3087,14 +3255,17 @@ Bundesbeamten auf Grund gesetzlicher Vorschriften erhöhen.
 
 
 #### III. - Schaden im wirtschaftlichen Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003400328)
 
 
 
 ##### 1. - Schaden an einer Versicherung außerhalb der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003500328)
 
 
 
 ###### § 127
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020000328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn er als
 Versicherungsnehmer oder als Bezugsberechtigter den Schutz einer
@@ -3115,6 +3286,7 @@ entsprechende Anwendung.
 
 
 ###### § 128
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020100328)
 
 (1) Entschädigung für Schaden an einer Lebensversicherung, die eine
 Kapitalleistung zum Gegenstand hat, wird in der Weise geleistet, daß
@@ -3156,6 +3328,7 @@ werden.
 
 
 ###### § 129
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020200328)
 
 (1) Entschädigung für Schaden an einer Lebensversicherung, die eine
 Rentenleistung zum Gegenstand hat, wird in der Weise geleistet, daß
@@ -3202,6 +3375,7 @@ werden in einer Summe unverzinst nachgezahlt.
 
 
 ###### § 130
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020300328)
 
 (1) Stehen dem Berechtigten nach den Rechtsvorschriften zur
 Rückerstattung feststellbarer Vermögensgegenstände und den
@@ -3225,6 +3399,7 @@ Rechtsträger gewährt worden sind.
 
 
 ###### § 131
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020400328)
 
 Hat der Versicherer fällige Ansprüche im Zuge der Verfolgung nicht
 erfüllt, so bestimmen sich die Ansprüche des Berechtigten
@@ -3236,12 +3411,14 @@ Versicherer nicht mehr erlangen kann.
 
 
 ###### § 132
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020500328)
 
 Für Schäden an anderen als den in §§ 127 bis 129 behandelten
 Versicherungen wird keine Entschädigung nach diesem Gesetz geleistet.
 
 
 ###### § 133
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020600328)
 
 (1) Die Entschädigung nach §§ 127 bis 130 darf für den einzelnen
 Versicherungsnehmer oder die Bezugsberechtigten insgesamt 25.000
@@ -3254,10 +3431,12 @@ Bewertungsgesetzes zu errechnen.
 
 
 ##### 2. - Versorgungsschäden
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003600328)
 
 
 
 ###### § 134
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020700328)
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung, wenn ihm als
 Arbeitnehmer im privaten Dienst für den Fall des Alters oder der
@@ -3274,6 +3453,7 @@ entsprechende Anwendung.
 
 
 ###### § 135
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020800328)
 
 (1) Der Anspruch auf Entschädigung entfällt,
 
@@ -3306,6 +3486,7 @@ gilt für die Hinterbliebenen eines solchen Verfolgten.
 
 
 ###### § 136
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE020900328)
 
 (1) Als Entschädigung erhält der Berechtigte die Leistungen, die ihm
 bei Eintritt des Versorgungsfalles ohne die Schädigung zugestanden
@@ -3322,6 +3503,7 @@ kapitalisierten Betrage abzugelten.
 
 
 ###### § 137
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021000328)
 
 (1) Die Entschädigung nach §§ 134 bis 136 darf für den einzelnen
 Verfolgten und für seine Hinterbliebenen insgesamt 25.000 Deutsche
@@ -3332,10 +3514,12 @@ Bewertungsgesetzes zu errechnen.
 
 
 ##### 3. - Schaden in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003700328)
 
 
 
 ###### § 138
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021100328)
 
 Die Wiedergutmachung für Schaden, den der Verfolgte oder seine
 Hinterbliebenen in der Sozialversicherung erlitten haben, richtet sich
@@ -3348,10 +3532,12 @@ gestellt werden.
 
 
 ##### 4. - Schaden in der Kriegsopferversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003800328)
 
 
 
 ###### § 139
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021200328)
 
 Die Wiedergutmachung für Schaden, den der Verfolgte oder seine
 Hinterbliebenen in der Kriegsopferversorgung erlitten haben, richtet
@@ -3362,10 +3548,12 @@ der Kriegsopferversorgung für Berechtigte im Ausland.
 
 
 #### IV. - Gemeinsame Vorschriften über Vererblichkeit und Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG003900328)
 
 
 
 ##### § 140
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021300328)
 
 (1) Ist der Verfolgte vor Inkrafttreten dieses Gesetzes verstorben, so
 ist der Anspruch auf die ihm zustehende Kapitalentschädigung nur
@@ -3391,10 +3579,12 @@ Schaden in der Ausbildung sind weder übertragbar noch vererblich.
 
 
 ### Achter Titel - Soforthilfe für Rückwanderer
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004000328)
 
 
 
 #### § 141
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021400328)
 
 (1) Der Verfolgte deutscher Staatsangehörigkeit oder deutscher
 Volkszugehörigkeit, der in der Zeit vom 30. Januar 1933 bis zum 8. Mai
@@ -3455,10 +3645,12 @@ vererblich.
 
 
 ### Neunter Titel - Krankenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004100328)
 
 
 
 #### § 141a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021501307)
 
 (1) Der Verfolgte, dessen Anspruch auf Rente für Schaden an Leben oder
 für Schaden an Körper oder Gesundheit oder auf Soforthilfe durch
@@ -3500,11 +3692,13 @@ vererblich.
 
 
 #### § 141b
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021600328)
 
 -
 
 
 #### § 141c
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021700328)
 
 (1) Die Krankenversorgung umfaßt
 
@@ -3554,14 +3748,17 @@ erforderlich war. § 141a Abs. 4 findet entsprechende Anwendung.
 
 
 ### Zehnter Titel - Zusammentreffen von Ansprüchen auf Entschädigung für Schaden an Leben, Schaden an Körper oder Gesundheit und Schaden im beruflichen Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004200328)
 
 
 
 #### 1. - Zusammentreffen von zwei Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004300328)
 
 
 
 ##### § 141d
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021800328)
 
 (1) Hat der Hinterbliebene eines Verfolgten neben dem Anspruch auf
 Entschädigung für Schaden an Leben Anspruch auf Entschädigung für
@@ -3591,6 +3788,7 @@ niedrigeren Rente.
 
 
 ##### § 141e
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE021900328)
 
 (1) Hat der Verfolgte für denselben Entschädigungszeitraum Anspruch
 auf Rente und auf Kapitalentschädigung für Schaden an Körper oder
@@ -3626,6 +3824,7 @@ zu verrechnen, die auf das dem Beginn der Rentenzahlung nach § 86 oder
 
 
 ##### § 141f
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022000328)
 
 Hat der Verfolgte Anspruch auf Rente für Schaden im beruflichen
 Fortkommen nach § 81 oder § 93 und Anspruch auf Rente für Schaden im
@@ -3637,10 +3836,12 @@ Abs. 2 Satz 2 angerechnet. Insofern bleiben § 95 Abs. 3 und § 97 Abs.
 
 
 #### 2. - Zusammentreffen von drei Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004400328)
 
 
 
 ##### § 141g
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022100328)
 
 Hat der Hinterbliebene eines Verfolgten neben dem Anspruch auf
 Entschädigung für Schaden an Leben Anspruch auf Entschädigung für
@@ -3653,6 +3854,7 @@ sinngemäß für die Berechnung der Kapitalentschädigung gemäß § 25.
 
 
 ##### § 141h
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022200328)
 
 (1) Hat der Verfolgte Anspruch auf Rente für Schaden im beruflichen
 Fortkommen nach §§ 85, 85a, 86 oder §§ 97, 97a, 98 und Ansprüche auf
@@ -3685,10 +3887,12 @@ außer Betracht.
 
 
 #### 3. - Zusammentreffen von vier Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004500328)
 
 
 
 ##### § 141i
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022300328)
 
 Hat der Verfolgte neben den Ansprüchen auf Entschädigung für Schaden
 an Leben, Schaden an Körper oder Gesundheit und Schaden im beruflichen
@@ -3699,20 +3903,24 @@ berechnen.
 
 
 #### 4. - Anwendbarkeit in den Fällen der §§ 41, 41a, 110, 112, 114 und 114a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004600328)
 
 
 
 ##### § 141k
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022400328)
 
 In den Fällen der §§ 41, 41a, 110, 112, 114 und 114a finden die §§
 141d bis 141i entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für juristische Personen, Anstalten oder Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004700328)
 
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022500328)
 
 (1) Eine juristische Person, Anstalt oder Personenvereinigung
 (nichtrechtsfähiger Verein, nichtrechtsfähige Handelsgesellschaft) hat
@@ -3732,6 +3940,7 @@ Nachfolgeorganisation.
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022600328)
 
 (1) Der Anspruch auf Entschädigung besteht nur, wenn die juristische
 Person, Anstalt oder Personenvereinigung
@@ -3758,6 +3967,7 @@ dieses Gesetzes befunden hat.
 
 
 ### § 144
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022700328)
 
 Der Anspruch auf Entschädigung besteht nicht, wenn mit
 Wahrscheinlichkeit anzunehmen ist, daß die juristische Person, Anstalt
@@ -3768,6 +3978,7 @@ verfolgt worden wäre.
 
 
 ### § 145
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022800328)
 
 (1) Eine juristische Person, Anstalt oder Personenvereinigung ist von
 der Entschädigung ausgeschlossen, wenn sie nach ihrer Verfassung,
@@ -3794,6 +4005,7 @@ juristischen Person, Anstalt oder Personenvereinigung Anwendung.
 
 
 ### § 146
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE022900328)
 
 (1) Anspruch auf Entschädigung besteht nur für Schaden an Eigentum und
 für Schaden an Vermögen und nur insoweit, als der Schaden im
@@ -3819,6 +4031,7 @@ eine Entschädigung nicht geleistet.
 
 
 ### § 147
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023000328)
 
 Hat eine juristische Person, Anstalt oder Personenvereinigung oder
 deren Rechts- oder Zwecknachfolger nach den Rechtsvorschriften für die
@@ -3828,6 +4041,7 @@ diese Leistungen nicht ausgeglichen ist.
 
 
 ### § 148
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023100328)
 
 (1) Die Höchstbeträge des § 55 Abs. 1 und des § 58 gelten auch für die
 Ansprüche einer juristischen Person, Anstalt oder Personenvereinigung
@@ -3856,6 +4070,7 @@ leisten. § 142 Abs. 2 Satz 2 findet keine Anwendung.
 
 
 ### § 148a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023200328)
 
 (1) Ist eine durch nationalsozialistische Gewaltmaßnahmen an ihrem
 Eigentum oder an ihrem Vermögen geschädigte juristische Person,
@@ -3874,14 +4089,17 @@ Württemberg verwaltet wird.
 
 
 ## Vierter Abschnitt - Besondere Gruppen von Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004800328)
 
 
 
 ### Erster Titel - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG004900328)
 
 
 
 #### § 149
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023300328)
 
 Erfüllen Verfolgte aus den Vertreibungsgebieten sowie verfolgte
 Staatenlose und Flüchtlinge im Sinne der Genfer Konvention und die
@@ -3891,10 +4109,12 @@ Entschädigung.
 
 
 ### Zweiter Titel - Verfolgte aus den Vertreibungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005000328)
 
 
 
 #### § 150
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023400328)
 
 (1) Der Verfolgte aus den Vertreibungsgebieten, der dem deutschen
 Sprach- und Kulturkreis angehört hat, hat Anspruch auf Entschädigung
@@ -3918,18 +4138,21 @@ Personenkreis gehört.
 
 
 #### § 151
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023500328)
 
 Die Entschädigung für Schaden an Körper oder Gesundheit wird nach
 Maßgabe der §§ 28 bis 40 geleistet.
 
 
 #### § 152
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023600328)
 
 Die Entschädigung für Schaden an Freiheit wird nach Maßgabe der §§ 43
 bis 50 geleistet.
 
 
 #### § 153
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023700328)
 
 (1) Die Entschädigung für Schaden durch Zahlung von Sonderabgaben wird
 nach Maßgabe der §§ 59, 60 geleistet. Voraussetzung ist, daß der
@@ -3949,6 +4172,7 @@ entsprechende Anwendung.
 
 
 #### § 154
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023800328)
 
 (1) Die Entschädigung für Schaden im beruflichen Fortkommen wird nach
 Maßgabe der §§ 64 bis 66, 87, 88, 110, 112, 114, 114a geleistet. Im
@@ -3966,11 +4190,13 @@ einer Rente.
 
 
 #### § 155
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE023900328)
 
 Die Kapitalentschädigung beträgt 10.000 Deutsche Mark.
 
 
 #### § 156
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024000328)
 
 (1) Der Verfolgte kann an Stelle der Kapitalentschädigung eine Rente
 wählen. Voraussetzung für das Wahlrecht ist, daß der Verfolgte im
@@ -3985,6 +4211,7 @@ Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 
 
 #### § 157
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024100328)
 
 (1) Ist der Verfolgte nach Festsetzung oder rechtskräftiger
 gerichtlicher Zuerkennung der Rente und nach Ausübung des Wahlrechtes
@@ -4008,6 +4235,7 @@ Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
 
 #### § 157a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024200328)
 
 (1) Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor
 Festsetzung oder rechtskräftiger gerichtlicher Zuerkennung der Rente
@@ -4029,6 +4257,7 @@ einen Dritten bewirkt worden sind.
 
 
 #### § 158
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024300328)
 
 Für die Vererblichkeit und Übertragbarkeit des Anspruchs auf
 Entschädigung nach §§ 154 bis 157a findet § 140 Abs. 1 bis 4
@@ -4036,6 +4265,7 @@ entsprechende Anwendung.
 
 
 #### § 159
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024400328)
 
 Die Entschädigung für Schaden an Leben wird nach Maßgabe der §§ 15 bis
 26, 41 geleistet. Der Anspruch auf die Kapitalentschädigung besteht
@@ -4043,6 +4273,7 @@ nur für die Zeit vom 1. Januar 1949 an.
 
 
 #### § 159a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024500328)
 
 Der Anspruch auf Entschädigung nach §§ 150 bis 159 ist vererblich,
 wenn der Verfolgte nach dem 1. Januar 1945 und nach dem endgültigen
@@ -4051,10 +4282,12 @@ genannten Gebiete verstorben ist.
 
 
 ### Dritter Titel - Staatenlose und Flüchtlinge im Sinne der Genfer Konvention
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005100328)
 
 
 
 #### § 160
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024600328)
 
 (1) Der Verfolgte, der bei Inkrafttreten dieses Gesetzes Staatenloser
 oder Flüchtling im Sinne der Genfer Konvention vom 28. Juli 1951 ist
@@ -4079,6 +4312,7 @@ dieser Regelung.
 
 
 #### § 161
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024700328)
 
 Die Entschädigung für Schaden an Körper oder Gesundheit wird nach
 Maßgabe der §§ 28, 29 Nr. 1 bis 3, §§ 30 bis 37, 39 geleistet. Der
@@ -4087,12 +4321,14 @@ Januar 1949 an.
 
 
 #### § 162
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024800328)
 
 Die Entschädigung für Schaden an Freiheit wird nach Maßgabe der §§ 43
 bis 50 geleistet.
 
 
 #### § 163
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE024900328)
 
 (1) Die Entschädigung für Schaden an Leben wird nach Maßgabe der §§
 15, 16 Nr. 1 und 3, §§ 17 bis 21, 24, 25 geleistet. Der Anspruch auf
@@ -4107,6 +4343,7 @@ vererblich.
 
 
 #### § 164
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025000328)
 
 (1) Der Verfolgte, der zu dem in § 160 Abs. 1 und 2 bezeichneten
 Personenkreis gehört und bei Inkrafttreten dieses Gesetzes
@@ -4122,6 +4359,7 @@ Entschädigung für Schaden an Leben nach Maßgabe des § 163.
 
 
 #### § 165
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025100328)
 
 (1) Reicht die dem Verfolgten gewährte Entschädigung in Verbindung mit
 seinem Vermögen und seinen sonstigen Einkünften zur Bestreitung des
@@ -4134,6 +4372,7 @@ vorgesehen sind.
 
 
 #### § 166
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025200328)
 
 §§ 160 bis 165 finden auf Staatenlose, die nach Artikel 1 F der Genfer
 Konvention von der Anerkennung als Flüchtlinge ausgeschlossen wären,
@@ -4141,10 +4380,12 @@ keine Anwendung.
 
 
 ### Vierter Titel - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005200328)
 
 
 
 #### § 166a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025300328)
 
 Treffen Ansprüche auf Entschädigung für Schaden an Leben, Schaden an
 Körper oder Gesundheit und Schaden im beruflichen Fortkommen zusammen,
@@ -4152,6 +4393,7 @@ so finden §§ 141d bis 141k entsprechende Anwendung.
 
 
 #### § 166b
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025400328)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Rentenbeträge nach § 156 Abs. 3, § 157 Abs. 2 angemessen zu erhöhen,
@@ -4160,6 +4402,7 @@ Grund gesetzlicher Vorschriften erhöhen.
 
 
 #### § 166c
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025500328)
 
 Die Vorschriften der §§ 149 bis 166 finden keine Anwendung auf
 Verfolgte, die Staatsangehörige eines Staates sind oder waren, zu
@@ -4171,19 +4414,23 @@ Beendigung der Verfolgung erworben hat.
 
 
 ## Fünfter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005300328)
 
 
 
 ### (XXXX) §§ 167 und 168 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025600328)
 
 -
 
 
 ## Sechster Abschnitt - Befriedigung der Entschädigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005400328)
 
 
 
 ### § 169
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025700328)
 
 (1) Die durch Geldleistungen zu erfüllenden Ansprüche sollen
 spätestens bis zum Ablauf des Rechnungsjahres 1969 festgesetzt werden.
@@ -4209,6 +4456,7 @@ des Anspruchs offensichtlich zu vertreten hat.
 
 
 ### § 169a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025800328)
 
 In den Fällen des § 13 Abs. 3 kann die Entschädigungsbehörde die
 Entschädigung an die nicht ausgeschlossenen Erben mit befreiender
@@ -4218,6 +4466,7 @@ der §§ 158, 161 und 162.
 
 
 ### § 170
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE025900328)
 
 (1) Vorschüsse können nur gewährt werden, wenn ein Anspruch wegen
 eines bestimmten Schadens glaubhaft gemacht und die Gewährung eines
@@ -4233,10 +4482,12 @@ angerechnet oder zurückgefordert werden.
 
 
 ## Siebenter Abschnitt - Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005500328)
 
 
 
 ### § 171
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026000328)
 
 (1) Zur Milderung von Härten kann Personen, die die Voraussetzungen
 der §§ 4 oder 150 erfüllen und deren Schädigung auf die
@@ -4318,10 +4569,12 @@ Fonds mit besonderer Zweckbestimmung anderweitig vorgesehen sind.
 
 
 ## Achter Abschnitt - Verteilung der Entschädigungslast
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005600328)
 
 
 
 ### § 172
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026101320)
 
 (1) Die nach diesem Gesetz von den Ländern Baden-Württemberg, Bayern,
 Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen,
@@ -4358,14 +4611,17 @@ gelten entsprechend.
 
 
 ## Neunter Abschnitt - Entschädigungsorgane und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005700328)
 
 
 
 ### Erster Titel - Entschädigungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005800328)
 
 
 
 #### § 173
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026200328)
 
 Entschädigungsorgane sind
 
@@ -4379,6 +4635,7 @@ Entschädigungsorgane sind
 
 
 #### § 174
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026300328)
 
 Das Entschädigungsverfahren gliedert sich in
 
@@ -4393,10 +4650,12 @@ Das Entschädigungsverfahren gliedert sich in
 
 
 ### Zweiter Titel - Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG005900328)
 
 
 
 #### § 175
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026400328)
 
 (1) Für die nach diesem Gesetz zu treffenden Entscheidungen sind die
 Entschädigungsorgane zuständig.
@@ -4422,6 +4681,7 @@ Krankenversicherung. Im übrigen bestimmt sich das Verfahren nach §§
 
 
 #### § 175a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026500328)
 
 Hat eine Behörde, die für Ansprüche nach § 5 Abs. 1 zuständig ist,
 oder ein Gericht, das für Ansprüche nach § 5 Abs. 1 zuständig ist, in
@@ -4438,6 +4698,7 @@ entgegen.
 
 
 #### § 176
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026600328)
 
 (1) Die Entschädigungsorgane haben von Amts wegen alle für die
 Entscheidung erheblichen Tatsachen zu ermitteln und alle
@@ -4455,11 +4716,13 @@ Verhältnis zu der Bedeutung der Aussage stehen.
 
 
 #### § 177
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026700328)
 
 Vergleiche sind zulässig.
 
 
 #### § 177a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026800328)
 
 Ein Leistungsvorbehalt ist zulässig, wenn ein Entschädigungsanspruch
 in seinem Bestand oder in seiner Höhe von Umständen abhängig ist,
@@ -4468,6 +4731,7 @@ können.
 
 
 #### § 178
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE026900328)
 
 Für die Anspruchsberechtigung nach diesem Gesetz oder nach
 weitergehendem Landesrecht im Sinne des § 228 Abs. 2 ist eine auf
@@ -4477,6 +4741,7 @@ die Entschädigungsorgane nicht bindend.
 
 
 #### § 179
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027000328)
 
 (1) Das Entschädigungsverfahren ist mit besonderer Beschleunigung
 durchzuführen.
@@ -4488,6 +4753,7 @@ anderen Ansprüchen behandelt werden.
 
 
 #### § 180
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027100328)
 
 (1) Hat der Verfolgte seinen letzten bekannten Aufenthalt im
 Reichsgebiet nach dem Stande vom 31. Dezember 1937, im Gebiet der
@@ -4506,6 +4772,7 @@ wahrscheinlich ist.
 
 
 #### § 181
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027202116)
 
 (1) Im Entschädigungsverfahren soll von der Vorlage eines Erbscheins
 abgesehen werden, wenn die Erbberechtigung auch ohne Vorlage eines
@@ -4531,6 +4798,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 #### § 182
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027304116)
 
 (1) Bei der Regelung der Ansprüche auf Entschädigung für Schaden an
 einer Versicherung außerhalb der Sozialversicherung sind die
@@ -4552,6 +4820,7 @@ und Technologie kann diese Ermächtigung weiter übertragen.
 
 
 #### § 183
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027401310)
 
 Personen, die im Ausland ihren Wohnsitz oder dauernden Aufenthalt
 haben, früher bei einem deutschen Gericht als Rechtsanwalt zugelassen
@@ -4564,10 +4833,12 @@ Anwendung.
 
 
 ### Dritter Titel - Entschädigungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG006000328)
 
 
 
 #### § 184
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027500328)
 
 (1) Die Landesregierungen regeln die Errichtung der
 Entschädigungsbehörden und das Verwaltungsverfahren bei diesen
@@ -4581,6 +4852,7 @@ Landesbehörde unterstehen.
 
 
 #### § 185
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027600328)
 
 (1) Die Entschädigungsbehörden sind für die Anmeldung und, unbeschadet
 des § 175 Abs. 2 und 4, für die Entscheidung über die Ansprüche nach
@@ -4710,6 +4982,7 @@ Wohnsitzes eine örtliche Zuständigkeit begründet.
 
 
 #### § 186
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027700328)
 
 § 185 findet auf juristische Personen, Anstalten oder
 Personenvereinigungen oder deren Rechts- oder Zwecknachfolger mit der
@@ -4718,6 +4991,7 @@ die Stelle des dauernden Aufenthaltes der Ort der Verwaltung tritt.
 
 
 #### § 187
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027800328)
 
 (1) Für die Bewilligung eines Härteausgleichs sind die obersten
 Entschädigungsbehörden der Länder zuständig.
@@ -4731,6 +5005,7 @@ zuständig wären.
 
 
 #### § 188
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE027900328)
 
 Der Anspruch auf Entschädigung ist gegen das Land, dessen
 Entschädigungsbehörden nach §§ 185, 186 zuständig sind, und im Falle
@@ -4738,6 +5013,7 @@ des § 89 auch gegen den Arbeitgeber zu richten.
 
 
 #### § 189
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028000328)
 
 (1) Entschädigung wird nur auf Antrag gewährt. Der Antrag ist bis zum
 1\. April 1958 bei der zuständigen Entschädigungsbehörde zu stellen.
@@ -4757,6 +5033,7 @@ Entscheidung gebunden.
 
 
 #### § 189a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028100328)
 
 (1) Ist ein Antrag auf Entschädigung nach § 189 rechtswirksam gestellt
 worden, so können Ansprüche, die dabei nicht angemeldet worden sind,
@@ -4770,6 +5047,7 @@ anzumelden. § 189 Abs. 3 findet entsprechende Anwendung.
 
 
 #### § 189b
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028200328)
 
 (1) Ist ein Antrag auf Entschädigung als Hinterbliebener nach § 189
 rechtswirksam gestellt worden, so wahrt dieser Antrag die Frist für
@@ -4784,6 +5062,7 @@ Anwendung.
 
 
 #### § 190
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028300328)
 
 Der Antrag soll enthalten
 
@@ -4819,6 +5098,7 @@ Der Antrag soll enthalten
 
 
 #### § 190a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028400328)
 
 (1) Ist ein Antrag auf Entschädigung nach § 189 rechtswirksam, aber
 ohne Darlegung des den einzelnen Entschädigungsanspruch begründenden
@@ -4831,6 +5111,7 @@ Anwendung.
 
 
 #### § 191
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028500328)
 
 (1) Soweit in diesem Gesetz oder in den nach § 184 Abs. 1 erlassenen
 landesrechtlichen Vorschriften nichts Abweichendes bestimmt ist,
@@ -4878,6 +5159,7 @@ Verfahren bei der Abnahme von Eiden sinngemäß.
 
 
 #### § 192
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028600328)
 
 (1) Mit Einverständnis des Antragstellers kann die
 Entschädigungsbehörde von öffentlichen, freien gemeinnützigen und
@@ -4895,6 +5177,7 @@ Untersuchungsunterlagen zur Einsicht beiziehen.
 
 
 #### § 193
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028701310)
 
 (1) Der Antragsteller und sein Bevollmächtigter können die Akten der
 Entschädigungsbehörde einsehen. Sie können sich daraus Auszüge und
@@ -4911,6 +5194,7 @@ Geltungsbereichs dieses Gesetzes findet nicht statt.
 
 
 #### § 194
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028800328)
 
 Die Entschädigungsbehörde hat dem nach § 89 in Anspruch genommenen
 Arbeitgeber eine beglaubigte Abschrift des Antrages zuzustellen und
@@ -4919,6 +5203,7 @@ Antragstellers und dem Ergebnis der Ermittlungen zu hören.
 
 
 #### § 195
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE028901116)
 
 (1) Die Entschädigungsbehörde entscheidet durch Bescheid.
 Teilbescheide sind zulässig.
@@ -4957,6 +5242,7 @@ Teilbescheide sind zulässig.
 
 
 #### § 196
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029000328)
 
 (1) Der Bescheid ist dem Antragsteller zuzustellen. Ist ein
 Bevollmächtigter bestellt, so ist der Bescheid diesem zuzustellen.
@@ -4967,6 +5253,7 @@ nicht Erben sind.
 
 
 #### § 197
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029101320)
 
 (1) Zustellungen erfolgen nach den Vorschriften des
 Verwaltungszustellungsgesetzes.
@@ -4977,6 +5264,7 @@ Anwendung. Die Zustellung kann auch mit Postrückschein erfolgen.
 
 
 #### § 197a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029200328)
 
 Als Zeitpunkt der Festsetzung im Sinne dieses Gesetzes gilt der Tag
 der Zustellung des Bescheids oder des Abschlusses des Vergleichs, in
@@ -4984,6 +5272,7 @@ dem der Anspruch auf Entschädigung zuerkannt worden ist.
 
 
 #### § 198
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029300328)
 
 (1) Über die Verpflichtung des Arbeitgebers zur Einräumung des
 früheren oder eines gleichwertigen Arbeitsplatzes ist durch besonderen
@@ -4994,6 +5283,7 @@ findet Anwendung.
 
 
 #### § 199
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029400328)
 
 (1) Ist bei Ansprüchen für Schaden im beruflichen Fortkommen ein
 Wahlrecht gegeben, so hat die Entschädigungsbehörde in dem Bescheid
@@ -5019,6 +5309,7 @@ Entscheidung über den Anspruch bereits ausgeübt worden ist.
 
 
 #### § 200
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029500328)
 
 (1) Die Entschädigungsbehörde hat einen zugunsten des Antragstellers
 ergangenen Bescheid zu widerrufen, wenn sich nach Erlaß des Bescheides
@@ -5031,6 +5322,7 @@ Anwendung.
 
 
 #### § 201
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029600328)
 
 (1) Die Entschädigungsbehörde kann einen zugunsten des Antragstellers
 ergangenen Bescheid widerrufen, wenn sich nach Erlaß des Bescheides
@@ -5042,6 +5334,7 @@ Anwendung.
 
 
 #### § 202
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029700328)
 
 Ein Leistungsvorbehalt, der in einem zugunsten des Antragstellers
 ergangenen Bescheid enthalten ist, kann auch dann geltend gemacht
@@ -5050,6 +5343,7 @@ Leistungsvorbehalt ist durch Widerruf geltend zu machen.
 
 
 #### § 203
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029800328)
 
 (1) Der Widerruf ist durch Bescheid auszusprechen.
 
@@ -5059,6 +5353,7 @@ erlangt hat.
 
 
 #### § 204
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE029900328)
 
 (1) Will die Entschädigungsbehörde im Falle des § 200 von der
 Möglichkeit der Rückforderung der nach Eintritt eines
@@ -5073,6 +5368,7 @@ machen will.
 
 
 #### § 205
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030000328)
 
 (1) Der Widerrufsbescheid ist vorläufig vollstreckbar, soweit die
 Entscheidungsformel die Verpflichtung zur Rückzahlung bestimmter
@@ -5090,6 +5386,7 @@ Entschädigungsbehörde ihren Sitz hat.
 
 
 #### § 206
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030100328)
 
 (1) Ist ein Anspruch auf wiederkehrende Leistungen zuerkannt oder
 abgelehnt worden und haben sich die tatsächlichen Verhältnisse, die
@@ -5112,6 +5409,7 @@ worden sind, entsprechende Anwendung.
 
 
 #### § 206a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030200328)
 
 (1) In den Fällen der §§ 141d bis 141k kann die Entschädigungsbehörde
 einen neuen Bescheid nach Maßgabe dieser Vorschriften erlassen, wenn
@@ -5129,6 +5427,7 @@ worden sind, entsprechende Anwendung.
 
 
 #### § 207
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030300328)
 
 (1) Verfahren bei den Entschädigungsbehörden sind gebühren- und
 auslagenfrei. Für offensichtlich unbegründete Anträge können dem
@@ -5144,10 +5443,12 @@ sind gebühren- und auslagenfrei auszustellen.
 
 
 ### Vierter Titel - Entschädigungsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG006100328)
 
 
 
 #### § 208
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030400328)
 
 (1) Entschädigungsgerichte sind das Landgericht
 (Entschädigungskammer), das Oberlandesgericht (Entschädigungssenat),
@@ -5169,6 +5470,7 @@ Verfolgten angehören.
 
 
 #### § 209
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030501301)
 
 (1) Für das Verfahren vor den Entschädigungsgerichten und für die
 Zwangsvollstreckung gelten, unbeschadet der §§ 175 bis 183, die
@@ -5196,6 +5498,7 @@ zuständige Entschädigungsbehörde ihren Sitz hat.
 
 
 #### § 210
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030600328)
 
 (1) Soweit durch den Bescheid der Entschädigungsbehörde der geltend
 gemachte Anspruch abgelehnt worden ist, kann der Antragsteller
@@ -5211,6 +5514,7 @@ der Zustellung des Bescheides.
 
 
 #### § 211
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030700328)
 
 (1) Soweit die Entschädigungsbehörde ermächtigt ist, nach ihrem
 Ermessen zu handeln, hat das Entschädigungsgericht nur zu prüfen, ob
@@ -5227,6 +5531,7 @@ die Landesjustizverwaltung ihren Sitz hat.
 
 
 #### § 212
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030800328)
 
 (1) Ist ein Bescheid oder ein Vergleich nach §§ 200 bis 205
 widerrufen, so kann der Antragsteller innerhalb einer Frist von drei
@@ -5242,6 +5547,7 @@ entsprechende Anwendung.
 
 
 #### § 213
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE030900328)
 
 (1) Ist ein Anspruch auf Entschädigung durch rechtskräftige
 gerichtliche Entscheidung oder durch Prozeßvergleich festgesetzt und
@@ -5263,6 +5569,7 @@ Kenntnis erlangt hat.
 
 
 #### § 214
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031000328)
 
 (1) Ist durch Bescheid der Entschädigungsbehörde der Anspruch gegen
 den Arbeitgeber auf Einräumung des früheren oder eines gleichwertigen
@@ -5279,6 +5586,7 @@ Streit zu verkünden.
 
 
 #### § 215
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031100328)
 
 (1) Ist durch Bescheid der Entschädigungsbehörde die Verpflichtung des
 Arbeitgebers zur Einräumung des früheren oder eines gleichwertigen
@@ -5295,6 +5603,7 @@ Streit zu verkünden.
 
 
 #### § 216
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031200328)
 
 Hat die Entschädigungsbehörde binnen einer Frist von einem Jahr seit
 Eingang des Antrages ohne zureichenden Grund keine Entscheidung über
@@ -5303,12 +5612,14 @@ der Entschädigungsbehörde zuständigen Landgericht Klage erheben.
 
 
 #### § 217
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031300328)
 
 Die Gerichtsstände der §§ 210 bis 216 sind ausschließliche
 Gerichtsstände.
 
 
 #### § 218
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031401320)
 
 (1) Gegen Endurteile des Landgerichts findet ohne Rücksicht auf den
 Wert des Beschwerdegegenstandes die Berufung an das Oberlandesgericht
@@ -5322,6 +5633,7 @@ dem Ablauf der Frist für die Einlegung der Berufung.
 
 
 #### § 219
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031501320)
 
 (1) Gegen Endurteile des Oberlandesgerichts findet die Revision an den
 Bundesgerichtshof statt, wenn das Oberlandesgericht die Revision
@@ -5355,6 +5667,7 @@ entsprechend.
 
 
 #### § 220
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031600328)
 
 (1) Die Nichtzulassung der Revision kann selbständig durch sofortige
 Beschwerde angefochten werden. § 719 Abs. 2 der Zivilprozeßordnung
@@ -5373,6 +5686,7 @@ wird. Sie ist eine Notfrist.
 
 
 #### § 221
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031701320)
 
 (1) Ohne Zulassung findet die Revision statt, soweit es sich um die
 Unzulässigkeit des Rechtsweges oder die Unzulässigkeit der Berufung
@@ -5382,12 +5696,14 @@ handelt.
 
 
 #### § 222
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031800328)
 
 Die Revision kann nicht darauf gestützt werden, daß die Entscheidung
 auf der Verletzung landesrechtlicher Vorschriften beruht.
 
 
 #### § 223
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE031901320)
 
 In den Fällen der sofortigen Beschwerde tritt an Stelle der Notfrist
 des § 569 Abs. 1 Satz 1 der Zivilprozeßordnung eine Notfrist von drei
@@ -5399,6 +5715,7 @@ entsprechend.
 
 
 #### § 224
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032001310)
 
 (1) Im Verfahren vor den Landgerichten besteht kein Anwaltszwang.
 
@@ -5416,6 +5733,7 @@ Bundesgerichtshof zugelassenen Rechtsanwalt vertreten lassen können.
 
 
 #### § 225
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032103311)
 
 (1) Verfahren vor den Entschädigungsgerichten sowie
 Beweissicherungsverfahren sind gebühren- und auslagenfrei.
@@ -5431,6 +5749,7 @@ Zivilprozessordnung zu berechnen.
 
 
 #### § 226
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032200328)
 
 Ist die Klage erhoben worden, weil die Entschädigungsbehörde ohne
 ausreichenden Grund binnen Jahresfrist keine Entscheidung über den
@@ -5441,6 +5760,7 @@ Verfahrens aufzuerlegen.
 
 
 #### § 227
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032301301)
 
 (1) Im Verfahren vor den Entschädigungsgerichten sind Gebühren und
 Auslagen der Rechtsanwälte nach § 91 Abs. 2 der Zivilprozeßordnung zu
@@ -5460,10 +5780,12 @@ bezeichneten Personen entsprechende Anwendung.
 
 
 ### Fünfter Titel - Verfahrensvorschriften für den Anspruch auf Krankenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG006200328)
 
 
 
 #### § 227a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032400328)
 
 (1) Die Krankenversorgung wird von der Allgemeinen Ortskrankenkasse
 durchgeführt, in deren Bezirk der Verfolgte seinen Wohnsitz oder
@@ -5486,6 +5808,7 @@ nicht zum Nachteil des Verfolgten geltend gemacht werden.
 
 
 #### § 227b
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032500328)
 
 (1) Die den Trägern der gesetzlichen Krankenversicherung auf Grund der
 §§ 141a und 141c entstehenden Aufwendungen zuzüglich eines
@@ -5503,6 +5826,7 @@ ersetzt worden sind.
 
 
 #### § 227c
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032601116)
 
 Ärztliche und zahnärztliche Leistungen werden nach den für die
 Behandlung von Geschädigten im Sinne des Vierzehnten Buches
@@ -5513,6 +5837,7 @@ zahlende Vergütung Anspruch.
 
 
 #### § 227d
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032703310)
 
 Das Bundesministerium für Gesundheit erläßt im Einvernehmen mit dem
 Bundesministerium der Finanzen und mit Zustimmung des Bundesrates die
@@ -5521,10 +5846,12 @@ Krankenversorgung und über das Verfahren auf Ersatz nach § 227b.
 
 
 ## Zehnter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNG006300328)
 
 
 
 ### § 228
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032800328)
 
 (1) Mit dem Zeitpunkt des Inkrafttretens dieses Gesetzes tritt das in
 den Ländern Bayern, Bremen, Hessen und im Gebiet des früheren Landes
@@ -5549,6 +5876,7 @@ dieses Gesetzes.
 
 
 ### § 229
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE032900328)
 
 Bei Ansprüchen nach den Vorschriften der Länder über die Anerkennung
 und Betreuung der Verfolgten richtet sich die verfahrensmäßige
@@ -5556,6 +5884,7 @@ Behandlung nach diesem Gesetz.
 
 
 ### § 230
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033000328)
 
 (1) Wiederkehrende Leistungen auf Grund bisheriger Vorschriften werden
 solange weitergewährt, bis die Leistungen nach diesem Gesetz bewirkt
@@ -5570,6 +5899,7 @@ sinngemäß.
 
 
 ### § 231
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033100328)
 
 (1) Eines erneuten Antrages auf Entschädigung nach den Vorschriften
 dieses Gesetzes bedarf es nicht, wenn der Anspruch auf Entschädigung
@@ -5586,6 +5916,7 @@ ist.
 
 
 ### § 232
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033200328)
 
 (1) Ist bei Inkrafttreten dieses Gesetzes ein Antrag auf Entschädigung
 in einem Land anhängig, dessen Behörden nach §§ 185, 186 nicht
@@ -5602,6 +5933,7 @@ nach §§ 185, 186 in erster Linie zuständig sind.
 
 
 ### § 233
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033300328)
 
 Für die Festsetzung der nach bisherigem Recht weitergehenden
 Ansprüche, die sich auf entschädigungsrechtliche Vorschriften mehrerer
@@ -5622,6 +5954,7 @@ Länder gründen, sind zuständig,
 
 
 ### § 234
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033400328)
 
 (1) Soweit vor Inkrafttreten dieses Gesetzes nach bisherigem Recht ein
 Antrag auf Entschädigung durch unanfechtbaren Bescheid oder durch
@@ -5644,6 +5977,7 @@ Anwendung.
 
 
 ### § 235
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033500328)
 
 (1) Ist die Entschädigung vor Inkrafttreten dieses Gesetzes durch
 Vergleich, Verzicht oder Abfindung geregelt worden, so kann der
@@ -5655,6 +5989,7 @@ anfechten.
 
 
 ### § 236
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033600328)
 
 (1) Ist bei Inkrafttreten dieses Gesetzes ein Verfahren bei einem
 Gericht anhängig, so richtet sich die Fortführung des Verfahrens nach
@@ -5685,6 +6020,7 @@ Außergerichtliche Kosten werden gegeneinander aufgehoben.
 
 
 ### § 237
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033700328)
 
 (1) In den Fällen der §§ 81, 85, 85a, 86, 93, 97, 97a, 98 wird das
 Wahlrecht nicht dadurch ausgeschlossen, daß der Verfolgte auf Grund
@@ -5698,6 +6034,7 @@ November 1953 und auf die Rente voll angerechnet.
 
 
 ### § 238
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033800328)
 
 Eine weitergehende Regelung der Entschädigung für Verfolgte, die eine
 örtliche Beziehung zu deutschen Gebieten außerhalb des
@@ -5706,6 +6043,7 @@ Wiedervereinigung Deutschlands vorbehalten.
 
 
 ### § 238a
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE033900328)
 
 (1) Anspruch auf Entschädigung nach diesem Gesetz besteht nur, wenn
 der Berechtigte im Zeitpunkt der Entscheidung seinen Wohnsitz oder
@@ -5725,6 +6063,7 @@ mit ihnen diplomatische Beziehungen unterhalten worden wären.
 
 
 ### § 239
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE034000328)
 
 Die Bundesregierung wird ermächtigt, mit Personengruppen, deren
 Schädigung auf die Verfolgungsgründe des § 1 zurückzuführen ist, die
@@ -5736,6 +6075,7 @@ Gesetzes finden keine Anwendung.
 
 
 ### § 240
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE034100328)
 
 (1) Dieses Gesetz gilt nach der Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -5746,6 +6086,7 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ### § 241
+[Direktlink](https://www.gesetze-im-internet.de/beg/BJNR013870953.html#BJNR013870953BJNE034200328)
 
 Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.
 

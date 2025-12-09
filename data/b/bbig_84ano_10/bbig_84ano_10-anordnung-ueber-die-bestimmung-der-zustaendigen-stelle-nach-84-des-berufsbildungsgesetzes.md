@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_10/BJNR013280979.html#BJNR013280979BJNE000100327)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), geändert durch Gesetz vom 12. März 1971 (BGBl.
@@ -39,11 +40,13 @@ für meinen Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_10/BJNR013280979.html#BJNR013280979BJNE000200327)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_10/BJNR013280979.html#BJNR013280979BJNE000300327)
 
 Der Bundesminister für Raumordnung, Bauwesen und Städtebau
 

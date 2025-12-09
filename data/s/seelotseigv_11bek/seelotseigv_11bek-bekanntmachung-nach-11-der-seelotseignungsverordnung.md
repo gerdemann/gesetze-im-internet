@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/seelotseigv_11bek/BJNR209700022.html#BJNR209700022BJNE000100000)
 
 Auf Grund des § 11 Absatz 1 Satz 3 der Seelotseignungsverordnung vom
 12\. Mai 2022 (BGBl. I S. 777) gibt das Bundesministerium für Digitales

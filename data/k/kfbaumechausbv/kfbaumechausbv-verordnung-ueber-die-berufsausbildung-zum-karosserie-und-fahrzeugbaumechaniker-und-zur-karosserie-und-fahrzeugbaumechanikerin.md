@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-22-1-93 v. 10.6.2014 I 714 (FzMechAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000100000)
 
 Auf Grund
 
@@ -47,9 +48,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Karosserie- und
 Fahrzeugbaumechanikers und der Karosserie- und Fahrzeugbaumechanikerin
@@ -66,11 +69,13 @@ wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan der Anlage 1 genannten Fertigkeiten, Kenntnisse
@@ -91,6 +96,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -276,6 +282,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -283,9 +290,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000800000)
 
 (1) Die Abschluss- oder Gesellenprüfung besteht aus den Teilen 1 und
 2\.
@@ -298,9 +307,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Unterabschnitt 1 - Prüfung Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000300000)
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE000900000)
 
 Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -317,6 +328,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001000000)
 
 Teil 1 der Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -331,6 +343,7 @@ Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001100000)
 
 (1) Im Prüfungsbereich Arbeitsauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -385,6 +398,7 @@ auftragsbezogene Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 10 Prüfungsbereich Auftragsplanung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001200000)
 
 (1) Im Prüfungsbereich Auftragsplanung hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -419,9 +433,11 @@ Prüfungsbereich Arbeitsauftrag nach § 9 beziehen.
 
 
 ## Unterabschnitt 2 - Prüfung Teil 2 in der Fachrichtung Karosserieinstandhaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000400000)
 
 
 ### § 11 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001300000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -444,6 +460,7 @@ erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche des Teiles 2 in der Fachrichtung Karosserieinstandhaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001400000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -461,6 +478,7 @@ Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001500000)
 
 (1) Im Prüfungsbereich Kundenauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -536,6 +554,7 @@ werden.
 
 
 ### § 14 Prüfungsbereich Karosserieinstandhaltungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001600000)
 
 (1) Im Prüfungsbereich Karosserieinstandhaltungstechnik hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -583,6 +602,7 @@ praxisübliche Dokumente verwenden darf.
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -596,6 +616,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -676,6 +697,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -713,9 +735,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Unterabschnitt 3 - Prüfung Teil 2 in der Fachrichtung Karosserie- und Fahrzeugbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000500000)
 
 
 ### § 18 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002000000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -738,6 +762,7 @@ erforderlich ist.
 
 
 ### § 19 Prüfungsbereiche des Teiles 2 in der Fachrichtung Karosserie- und Fahrzeugbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002100000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -755,6 +780,7 @@ Prüfungsbereichen statt:
 
 
 ### § 20 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002200000)
 
 (1) Im Prüfungsbereich Kundenauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -831,6 +857,7 @@ höchstens 20 Minuten zu führen.
 
 
 ### § 21 Prüfungsbereich Karosserie- und Fahrzeugbautechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002300000)
 
 (1) Im Prüfungsbereich Karosserie- und Fahrzeugbautechnik hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -878,6 +905,7 @@ praxisübliche Dokumente verwenden darf.
 
 
 ### § 22 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002400000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -891,6 +919,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 23 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002500000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -971,6 +1000,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 24 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002600000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1008,9 +1038,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Unterabschnitt 4 - Prüfung Teil 2 in der Fachrichtung Caravan- und Reisemobiltechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000600000)
 
 
 ### § 25 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002700000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -1033,6 +1065,7 @@ erforderlich ist.
 
 
 ### § 26 Prüfungsbereiche des Teiles 2 in der Fachrichtung Caravan- und Reisemobiltechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002800000)
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -1050,6 +1083,7 @@ Prüfungsbereichen statt:
 
 
 ### § 27 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE002900000)
 
 (1) Im Prüfungsbereich Kundenauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -1125,6 +1159,7 @@ höchstens 20 Minuten zu führen.
 
 
 ### § 28 Prüfungsbereich Caravan- und Reisemobiltechnik
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003000000)
 
 (1) Im Prüfungsbereich Caravan- und Reisemobiltechnik hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -1172,6 +1207,7 @@ praxisübliche Dokumente verwenden darf.
 
 
 ### § 29 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003100000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1185,6 +1221,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 30 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003200000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -1265,6 +1302,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 31 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003300000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -1302,9 +1340,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikation Arbeiten unter Spannung an Hochvoltsystemen in Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000700000)
 
 
 ### § 32 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003400000)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Arbeiten unter Spannung an
@@ -1315,6 +1355,7 @@ genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 33 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003500000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -1386,9 +1427,11 @@ bewertet worden ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNG000800000)
 
 
 ### § 34 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003600000)
 
 Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig tritt
 die Fahrzeugbaumechanikerausbildungsverordnung vom 10. Juni 2014
@@ -1397,6 +1440,7 @@ die Fahrzeugbaumechanikerausbildungsverordnung vom 10. Juni 2014
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 120, S. 15 - 35)
 
@@ -3558,6 +3602,7 @@ vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten**
 (zu § 32 Absatz 2)
 
 ### Anlage 2 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Arbeiten unter Spannung an Hochvoltsystemen in Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/kfbaumechausbv/BJNR0780A0023.html#BJNR0780A0023BJNE003800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 120, S. 36)
 

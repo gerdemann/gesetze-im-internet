@@ -24,9 +24,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000200000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Edelsteinfassers
 und der Edelsteinfasserin wird staatlich anerkannt nach § 4 Absatz 1
@@ -34,11 +36,13 @@ des Berufsbildungsgesetzes.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000300000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -54,6 +58,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -74,6 +79,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -166,6 +172,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -173,9 +180,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNG000200000)
 
 
 ### § 7 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000800000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -184,6 +193,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -200,6 +210,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001000000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich „Ausführen von
 Fertigungstechniken“ statt.
@@ -256,9 +267,11 @@ einschließlich der Dokumentation insgesamt sieben Stunden.
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNG000300000)
 
 
 ### § 10 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001100000)
 
 (1) Die Abschlussprüfung findet am Ende der Berufsausbildung statt.
 
@@ -266,6 +279,7 @@ einschließlich der Dokumentation insgesamt sieben Stunden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001200000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -282,6 +296,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001300000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -298,6 +313,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich „Anfertigen einer Fasserarbeit“
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001400000)
 
 (1) Im Prüfungsbereich „Anfertigen einer Fasserarbeit“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -369,6 +385,7 @@ eigenständig vom Prüfling im Betrieb durchgeführt worden ist.
 
 
 ### § 14 Prüfungsbereich „Technologie“
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001500000)
 
 (1) Im Prüfungsbereich „Technologie“ hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -428,6 +445,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -441,6 +459,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -495,6 +514,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -532,9 +552,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Weitere Berufsausbildungen
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNG000400000)
 
 
 ### § 18 Befreiung von der Zwischenprüfung und Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE001900000)
 
 Bei erfolgreich abgeschlossener Berufsausbildung nach § 17 Absatz 2
 oder § 24 Absatz 2 der Gold- und Silberschmied-Ausbildungsverordnung
@@ -553,6 +575,7 @@ vom 20. März 2025 (BGBl. 2025 I Nr. 93)
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinfasser und zur Edelsteinfasserin
+[Direktlink](https://www.gesetze-im-internet.de/edlstfausbv_2025/BJNR05D0C0025.html#BJNR05D0C0025BJNE002000000)
 
 (Fundstelle: BGBl. 2025 I Nr. 93, S. 29 - 36)
 

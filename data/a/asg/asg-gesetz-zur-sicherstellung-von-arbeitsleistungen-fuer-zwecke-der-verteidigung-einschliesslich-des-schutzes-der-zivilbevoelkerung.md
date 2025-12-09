@@ -21,16 +21,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001400319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Grundsätzliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000100319)
 
 
 
 ### § 1 Vorrang des freien Arbeitsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001500319)
 
 Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 des
 Grundgesetzes) gilt auch in Spannungszeiten und im Verteidigungsfall.
@@ -41,6 +44,7 @@ Freiwilligkeit sichergestellt werden können.
 
 
 ### § 2 Maßnahmen der Sicherstellung von Arbeitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001601301)
 
 Für Zwecke der Verteidigung einschließlich des Schutzes der
 Zivilbevölkerung kann nach den Vorschriften dieses Gesetzes
@@ -63,6 +67,7 @@ Zivilbevölkerung kann nach den Vorschriften dieses Gesetzes
 
 
 ### § 3 Voraussetzungen für die Sicherstellung von Arbeitsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001700319)
 
 Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall
 zulässig. Beschränkungen und Verpflichtungen nach § 2 Nr. 1 und 2 sind
@@ -73,6 +78,7 @@ Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
 
 
 ### § 4 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001809130)
 
 (1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur
 Sicherstellung von Arbeitsleistungen
@@ -178,6 +184,7 @@ Sicherstellung von Arbeitsleistungen
 
 
 ### § 5 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE001904308)
 
 (1) § 2 gilt nicht für
 
@@ -236,6 +243,7 @@ Verpflichtung nach dieser Vorschrift unvereinbar ist.
 
 
 ### § 6 Abgrenzung zum Wehrdienst und anderen Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002001308)
 
 Die Verpflichtung zum Dienst in den Streitkräften, im
 Bundesgrenzschutz, in einem Zivilschutzverband und im Zivildienst geht
@@ -245,10 +253,12 @@ Zivildienstgesetzes bleiben unberührt.
 
 
 ## Zweiter Abschnitt - Beschränkung der Beendigung eines Arbeitsverhältnisses im Verteidigungsfall und in Spannungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000200319)
 
 
 
 ### § 7 Zustimmungsbedürftigkeit der Beendigung eines Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002101308)
 
 (1) Arbeitnehmer und private Arbeitgeber im Anwendungsbereich des
 Gesetzes (§ 4) bedürfen nach Eintritt der Voraussetzungen für die
@@ -264,6 +274,7 @@ Berechtigung der Beendigung des Arbeitsverhältnisses entschieden.
 
 
 ### § 8 Ausnahmen von der Zustimmungsbedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002201308)
 
 (1) Eine Zustimmung nach § 7 ist nicht erforderlich
 
@@ -289,6 +300,7 @@ werden; sie ist jederzeit widerruflich.
 
 
 ### § 9 Zustimmungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002301308)
 
 (1) Die Zustimmung zu der Beendigung eines Arbeitsverhältnisses ist
 von dem Vertragsteil, der die Beendigung beabsichtigt, bei der Agentur
@@ -308,20 +320,24 @@ Antragsteller zuzustellen.
 
 
 ## Dritter Abschnitt - Verpflichtung in ein Arbeitsverhältnis im Verteidigungsfall und in Spannungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000300319)
 
 
 
 ### 1. Unterabschnitt - Verpflichtungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000400319)
 
 
 
 #### § 10 Inhalt der Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002400319)
 
 Durch den Verpflichtungsbescheid (§ 13) wird ein Arbeitsverhältnis
 begründet.
 
 
 #### § 11 Verpflichtungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002501308)
 
 (1) Verpflichtungsbehörde ist die Agentur für Arbeit. Örtlich
 zuständig ist die Agentur für Arbeit, in deren Bezirk der Betrieb oder
@@ -342,6 +358,7 @@ zustehenden Aufgaben.
 
 
 #### § 12 Grundsätze für die Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002602308)
 
 (1) Die Verpflichtungsbehörde darf Personen nur in zumutbare
 Arbeitsverhältnisse verpflichten. Dabei sind Ausbildung, berufliche
@@ -363,6 +380,7 @@ Aufgaben der Behörde wahrzunehmen hat.
 
 
 #### § 13 Verpflichtungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002701308)
 
 (1) Der Verpflichtungsbescheid hat zu bezeichnen
 
@@ -412,10 +430,12 @@ bestätigen.
 
 
 ### 2. Unterabschnitt - Rechtsstellung der verpflichteten Person
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000500319)
 
 
 
 #### § 14 Inhalt des durch Verpflichtung begründeten Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002802308)
 
 (1) Die gegenseitigen Rechte und Pflichten aus dem Arbeitsverhältnis
 richten sich nach den Bedingungen, die im Betrieb, in der Dienststelle
@@ -434,6 +454,7 @@ zu erlassen.
 
 
 #### § 15 Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis in der privaten Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE002903126)
 
 (1) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so
 ruht sein bisheriges Arbeitsverhältnis während der Dauer der
@@ -450,6 +471,7 @@ verpflichteten Personen einbehalten.
 
 
 #### § 16 Einfluß der Verpflichtung auf ein Dienst- oder Arbeitsverhältnis im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003004126)
 
 (1) Wird ein Beamter oder ein Richter auf Probe in ein
 Arbeitsverhältnis verpflichtet, so ist er für die Dauer der
@@ -484,6 +506,7 @@ Unfallversicherung, das Kurzarbeitergeld und das Schlechtwettergeld.
 
 
 #### § 17 Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003106126)
 
 (1) Ein in ein Arbeitsverhältnis Verpflichteter, der nicht unter § 16
 fällt, erhält, soweit sich sein Arbeitsentgelt, gemindert um die
@@ -517,10 +540,12 @@ Unterhaltssicherungsgesetzes.
 
 
 ### 3. Unterabschnitt - Sozialversicherung, Arbeitslosenversicherung, Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000601308)
 
 
 
 #### § 18 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003201308)
 
 Personen, die in ein Arbeitsverhältnis verpflichtet werden,
 unterliegen der Versicherungspflicht in der gesetzlichen Kranken-,
@@ -531,6 +556,7 @@ Abweichendes bestimmen.
 
 
 #### § 19 Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003302308)
 
 (1) Beamte, Lehrer an privaten genehmigten Ersatzschulen, Richter auf
 Probe und Arbeitnehmer im öffentlichen Dienst, die auf Grund des § 6
@@ -561,6 +587,7 @@ Sozialgesetzbuch) berücksichtigt.
 
 
 #### § 20 Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003401308)
 
 (1) In der gesetzlichen Unfallversicherung gilt während der
 Verpflichtung in ein Arbeitsverhältnis als Jahresarbeitsverdienst
@@ -579,6 +606,7 @@ Berechtigten günstiger ist.
 
 
 #### § 21 Rentenversicherung Versicherungsfreiheit und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003503308)
 
 (1) In der gesetzlichen Rentenversicherung sind während der
 Verpflichtung in ein Arbeitsverhältnis auch versicherungsfrei
@@ -614,6 +642,7 @@ Rentenversicherung zu versichern ist.
 
 
 #### § 22 Rentenversicherung Entgelt und Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003602308)
 
 (1) Bei Personen, die während ihrer Verpflichtung in ein
 Arbeitsverhältnis in der gesetzlichen Rentenversicherung
@@ -637,6 +666,7 @@ trägt der Bund.
 
 
 #### § 23 Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003705126)
 
 (1) Personen, die unmittelbar vor der Verpflichtung in ein
 Arbeitsverhältnis nicht als Arbeitnehmer oder nicht zu ihrer
@@ -657,6 +687,7 @@ Auswirkung des Satzes 1 entstehen, trägt der Bund.
 
 
 #### § 23a Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005500308)
 
 § 61 des Elften Buches Sozialgesetzbuch ist mit der Maßgabe
 anzuwenden, daß der Dienstherr oder Arbeitgeber des öffentlichen
@@ -667,10 +698,12 @@ Dienstbezüge, Unterhaltszuschüsse und Arbeitsentgelte zu zahlen haben.
 
 
 ## Vierter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000700319)
 
 
 
 ### § 24 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003801308)
 
 (1) Wehrpflichtige und Frauen, die in ein Arbeitsverhältnis
 verpflichtet werden können, haben der Agentur für Arbeit auf Verlangen
@@ -694,6 +727,7 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 
 
 ### § 25 Persönliche Vorstellung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE003901308)
 
 (1) Nach Eintritt der Voraussetzungen für die Sicherstellung von
 Arbeitsleistungen (§ 3) müssen Wehrpflichtige, die in ein
@@ -731,6 +765,7 @@ Halbsatz diese Person unverzüglich zu unterrichten.
 
 
 ### § 26 Kosten des Verpflichtungs- und Zustimmungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004003126)
 
 Das Verfahren vor der Agentur für Arbeit ist kostenfrei. Notwendige
 Auslagen, die einer Person durch das Verfahren entstanden sind, werden
@@ -745,6 +780,7 @@ Bund erstattet.
 
 
 ### § 27 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004100319)
 
 (1) Für Rechtsstreitigkeiten über Maßnahmen nach diesem Gesetz oder
 einer auf diesem Gesetz beruhenden Rechtsverordnung ist der
@@ -758,14 +794,17 @@ Wirkung.
 
 
 ## Fünfter Abschnitt - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000800319)
 
 
 
 ### 1. Unterabschnitt - Freiwillig begründete Arbeitsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG000900319)
 
 
 
 #### § 28 Anwendung der §§ 14 bis 23
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004201308)
 
 Wird nach Eintritt der Voraussetzungen für die Sicherstellung von
 Arbeitsleistungen (§ 3) im Anwendungsbereich des Gesetzes (§ 4)
@@ -779,10 +818,12 @@ die Anordnung gelten die §§ 11 und 13 Abs. 3 und 4 sinngemäß.
 
 
 ### 2. Unterabschnitt - Ausbildungsveranstaltungen Bereithaltungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG001000319)
 
 
 
 #### § 29 Ausbildungsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004301308)
 
 (1) Wehrpflichtige, die nach Eintritt der Voraussetzungen für die
 Sicherstellung von Arbeitsleistungen (§ 3) im Anwendungsbereich des
@@ -845,6 +886,7 @@ Tage, Wiederholungsveranstaltungen dürfen 14 Tage jährlich nicht
 
 
 #### § 30 Bereithaltungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004400319)
 
 (1) Soll ein Wehrpflichtiger, auf den die in § 29 Abs. 2 genannte
 Rechtsverordnung angewandt werden kann und der für Zwecke der
@@ -868,10 +910,12 @@ Handelsvertreterverhältnisses erwachsen.
 
 
 ### 3. Unterabschnitt - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG001100319)
 
 
 
 #### § 31 Zumutung von Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004500319)
 
 Nach Eintritt der Voraussetzungen für die Sicherstellung von
 Arbeitsleistungen (§ 3) ist ein Arbeitnehmer im Anwendungsbereich des
@@ -882,10 +926,12 @@ sich zu nehmen.
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNG001200319)
 
 
 
 ### § 32 Verletzung von Sicherstellungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004601308)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -945,11 +991,13 @@ zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004700319)
 
 -
 
 
 ### § 34 Koordinierung und Bedarfsdeckung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004802126)
 
 Die Bundesregierung erläßt durch Rechtsverordnung Vorschriften über
 die Zusammenarbeit der Bundesagentur für Arbeit mit den fachlich
@@ -960,6 +1008,7 @@ ausreichen, den Bedarf zu decken.
 
 
 ### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE004904126)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zur
 Durchführung des Gesetzes der Bundesagentur für Arbeit Weisungen
@@ -971,12 +1020,14 @@ Bund erstattet.
 
 
 ### § 36 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005000319)
 
 Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte
 einschließlich der zu ihrer Berufsausbildung Beschäftigten.
 
 
 ### § 37 Öffentlich-rechtliche Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005100319)
 
 Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche
 Dienstverhältnisse begründet werden können, werden diese nach den
@@ -985,6 +1036,7 @@ Bereich gelten.
 
 
 ### § 38 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005202308)
 
 (1) Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1
 und 2 und § 32 Abs. 1 Nr. 1 und Abs. 4 mit der Maßgabe, daß an die
@@ -995,6 +1047,7 @@ Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
 
 
 ### § 39 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005300319)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -1005,6 +1058,7 @@ eingeschränkt.
 
 
 ### § 40 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/asg/BJNR007870968.html#BJNR007870968BJNE005400319)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

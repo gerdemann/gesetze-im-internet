@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000100317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000200317)
 
 Bund und Länder haben bei ihren wirtschafts- und finanzpolitischen
 Maßnahmen die Erfordernisse des gesamtwirtschaftlichen Gleichgewichts
@@ -37,6 +39,7 @@ Wirtschaftswachstum beitragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000300317)
 
 (1) Die Bundesregierung legt im Januar eines jeden Jahres dem
 Bundestag und dem Bundesrat einen Jahreswirtschaftsbericht vor. Der
@@ -71,6 +74,7 @@ Gefährdung der Ziele des § 1 zu verhindern.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000404118)
 
 (1) Im Falle der Gefährdung eines der Ziele des § 1 stellt die
 Bundesregierung Orientierungsdaten für ein gleichzeitiges aufeinander
@@ -85,6 +89,7 @@ Orientierungsdaten auf Verlangen eines der Beteiligten zu erläutern.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000500317)
 
 Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen
 Gleichgewichts, deren Abwehr durch binnenwirtschaftliche Maßnahmen
@@ -96,6 +101,7 @@ zur Verfügung stehenden wirtschaftspolitischen Mittel ein.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000600317)
 
 (1) Im Bundeshaushaltsplan sind Umfang und Zusammensetzung der
 Ausgaben und der Ermächtigungen zum Eingehen von Verpflichtungen zu
@@ -114,6 +120,7 @@ werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000704118)
 
 (1) Bei der Ausführung des Bundeshaushaltsplans kann im Falle einer
 die volkswirtschaftliche Leistungsfähigkeit übersteigenden
@@ -149,6 +156,7 @@ kann das Recht zur Kreditaufnahme erneut in Anspruch genommen werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000800317)
 
 (1) Die Konjunkturausgleichsrücklage ist bei der Deutschen Bundesbank
 anzusammeln. Mittel der Konjunkturausgleichsrücklage dürfen nur zur
@@ -162,6 +170,7 @@ Bundesregierung; § 6 Abs. 1 Satz 2 ist anzuwenden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE000900317)
 
 (1) In den Bundeshaushaltsplan ist ein Leertitel für Ausgaben nach § 6
 Abs. 2 Satz 1 und 2 einzustellen. Ausgaben aus diesem Titel dürfen nur
@@ -179,6 +188,7 @@ einzustellen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001001377)
 
 (1) Der Haushaltswirtschaft des Bundes ist eine fünfjährige
 Finanzplanung zugrunde zu legen. In ihr sind Umfang und
@@ -196,6 +206,7 @@ fortzuführen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001101377)
 
 (1) Als Unterlagen für die Finanzplanung stellen die Bundesministerien
 für ihren Geschäftsbereich mehrjährige Investitionsprogramme auf und
@@ -219,6 +230,7 @@ und fortzuführen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001201377)
 
 Bei einer die Ziele des § 1 gefährdenden Abschwächung der allgemeinen
 Wirtschaftstätigkeit ist die Planung geeigneter Investitionsvorhaben
@@ -229,6 +241,7 @@ Investitionsaufträgen erforderlich sind.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001300317)
 
 (1) Bundesmittel, die für bestimmte Zwecke an Stellen außerhalb der
 Bundesverwaltung gegeben werden, insbesondere Finanzhilfen, sollen so
@@ -270,6 +283,7 @@ in Absatz 2 beschriebenen Gliederung aufgestellt.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001405118)
 
 (1) Die Vorschriften der §§ 1, 5, 6 Abs. 1 und 2 gelten für das ERP-
 Sondervermögen entsprechend.
@@ -285,6 +299,7 @@ Aufgaben die Ziele des § 1 berücksichtigen.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001500317)
 
 Die §§ 5, 6 Abs. 1 und 2, §§ 7, 9 bis 11 sowie § 12 Abs. 1 gelten
 sinngemäß für die Haushaltswirtschaft der Länder. Die Regelung der
@@ -292,6 +307,7 @@ Zuständigkeiten bleibt den Ländern überlassen.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001600317)
 
 (1) Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
 kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des
@@ -339,6 +355,7 @@ bezeichneten Mittel anzuwenden.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001700317)
 
 (1) Gemeinden und Gemeindeverbände haben bei ihrer Haushaltswirtschaft
 den Zielen des § 1 Rechnung zu tragen.
@@ -349,6 +366,7 @@ konjunkturpolitischen Erfordernissen entspricht.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001800317)
 
 Bund und Länder erteilen sich gegenseitig die Auskünfte, die zur
 Durchführung einer konjunkturgerechten Haushaltswirtschaft und zur
@@ -356,6 +374,7 @@ Aufstellung ihrer Finanzpläne notwendig sind.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE001904118)
 
 (1) Bei der Bundesregierung wird ein Konjunkturrat für die öffentliche
 Hand gebildet. Dem Rat gehören an:
@@ -401,6 +420,7 @@ Konjunkturrates teilzunehmen.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002000317)
 
 Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
 kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des
@@ -415,6 +435,7 @@ eigene Rechtspersönlichkeit aufgenommen werden.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002100317)
 
 (1) In Rechtsverordnungen nach § 19 kann vorgesehen werden, daß
 
@@ -464,6 +485,7 @@ Verkündung verlangt.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002200317)
 
 Nimmt eine der in § 19 bezeichneten Stellen einen im Rahmen des
 Höchstbetrages nach § 20 Abs. 1 Nr. 1 auf sie entfallenden Kredit
@@ -477,6 +499,7 @@ zusätzlichen Kreditbedarf zugewiesen werden.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002301377)
 
 (1) Der besondere Ausschuß des Konjunkturrates (§ 18 Abs. 3) stellt
 unter Berücksichtigung der Lage am Kapitalmarkt einen Zeitplan für
@@ -504,6 +527,7 @@ tragen.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002400317)
 
 Die einzelnen Länder haben durch geeignete Maßnahmen sicherzustellen,
 daß die Beschaffung von Geldmitteln im Wege des Kredits durch das
@@ -512,6 +536,7 @@ Rahmen der auf Grund dieses Gesetzes angeordneten Beschränkungen hält.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002500317)
 
 (1) Bei Maßnahmen nach den §§ 20 bis 23 ist der Grundsatz der
 Gleichrangigkeit der Aufgaben von Bund, Ländern und Gemeinden zu
@@ -523,6 +548,7 @@ haben, sind zu berücksichtigen.
 
 
 ## § 25
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002601377)
 
 Die zuständige oberste Landesbehörde erteilt dem Bundesministerium der
 Finanzen auf Anforderung Auskunft über den Kreditbedarf des Landes,
@@ -534,10 +560,12 @@ unmittelbar.
 
 
 ## (XXXX) §§ 26 bis 31
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002700317)
 
 
 
 ## § 32
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002800317)
 
 Dieses Gesetz gilt nach § 12 Abs. 1 und § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -547,6 +575,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 33
+[Direktlink](https://www.gesetze-im-internet.de/stabg/BJNR005820967.html#BJNR005820967BJNE002900317)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am Tage nach
 seiner Verkündung in Kraft.

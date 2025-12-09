@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Steuergegenstand, Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000102123)
 
 (1) Elektrischer Strom (Strom) der Position 2716 der Kombinierten
 Nomenklatur unterliegt im Steuergebiet der Stromsteuer. Steuergebiet
@@ -38,6 +39,7 @@ Durchführungsverordnung (EU) 2017/1925 (ABl. L 282 vom 31.10.2017, S.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000209123)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -119,6 +121,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ## § 2a Staatliche Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001903123)
 
 (1) Die Inanspruchnahme oder die Beantragung einer Steuerbefreiung,
 Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als
@@ -171,11 +174,13 @@ Nummer 1 und 3, Absatz 2 und 3 sowie die §§ 9b und 9c.
 
 
 ## § 3 Steuertarif
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000302301)
 
 Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
 
 ## § 4 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000404123)
 
 (1) Wer als Versorger mit Sitz im Steuergebiet Strom leisten oder als
 Eigenerzeuger Strom zum Selbstverbrauch entnehmen oder als
@@ -205,6 +210,7 @@ nicht geleistet wird.
 
 
 ## § 5 Entstehung der Steuer, Steuerschuldner
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000504123)
 
 (1) Die Steuer entsteht dadurch, daß vom im Steuergebiet ansässigen
 Versorger geleisteter Strom durch Letztverbraucher im Steuergebiet aus
@@ -238,6 +244,7 @@ einzuspeisen, gelten als Teile dieses Versorgungsnetzes.
 
 
 ## § 6 Widerrechtliche Entnahme von Strom
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000600307)
 
 Die Steuer entsteht auch dadurch, daß widerrechtlich Strom aus dem
 Versorgungsnetz entnommen wird. Steuerschuldner ist, wer
@@ -245,6 +252,7 @@ widerrechtlich Strom entnimmt.
 
 
 ## § 7 Leistung von Strom in das Steuergebiet
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000700307)
 
 Bezieht ein Letztverbraucher Strom aus einem Gebiet außerhalb des
 Steuergebiets, entsteht die Steuer dadurch, daß der Strom durch den
@@ -253,6 +261,7 @@ wird. Steuerschuldner ist der Letztverbraucher.
 
 
 ## § 8 Steueranmeldung, Fälligkeit der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000805301)
 
 (1) Der Steuerschuldner hat für Strom, für den die Steuer nach § 5
 Abs. 1 oder § 7 entstanden ist, vorbehaltlich des Absatzes 9 eine
@@ -344,6 +353,7 @@ Gefährdung der Steuer erkennbar sind.
 
 
 ## § 9 Steuerbefreiungen, Steuerermäßigungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE000912123)
 
 (1) Von der Steuer ist befreit:
 
@@ -500,6 +510,7 @@ zu geben.
 
 
 ## § 9a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001403301)
 
 (1) Auf Antrag wird die Steuer für nachweislich versteuerten Strom
 erlassen, erstattet oder vergütet, den ein Unternehmen des
@@ -540,6 +551,7 @@ Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
 
 
 ## § 9b Steuerentlastung für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001502123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden
@@ -573,6 +585,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ## § 9c Steuerentlastung für den Öffentlichen Personennahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE002100301)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Strom, der
 nachweislich nach § 3 versteuert worden ist und der
@@ -617,6 +630,7 @@ Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ## § 9d Steuerentlastung für ausländische Streitkräfte und Hauptquartiere (NATO)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE002300123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 3 versteuerten Strom, der durch die ausländischen Streitkräfte
@@ -642,6 +656,7 @@ worden ist, in der jeweils geltenden Fassung.
 
 
 ## § 9e Steuerentlastung im Zusammenhang mit der Gemeinsamen Sicherheits- und Verteidigungspolitik (GSVP)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE002400123)
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 3 versteuerten Strom, der
@@ -665,9 +680,11 @@ dem begünstigten Zweck geleistet hat.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001014123)
 
 
 ## § 10a Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE002200123)
 
 Informationen, einschließlich personenbezogener Daten sowie Betriebs-
 und Geschäftsgeheimnisse, die in einem Steuerverfahren bekannt
@@ -681,6 +698,7 @@ Grund dieser Gesetze ergangenen Rechtsverordnung benötigen.
 
 
 ## § 11 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001110123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung
 dieses Gesetzes durch Rechtsverordnung
@@ -999,9 +1017,11 @@ dieses Gesetzes durch Rechtsverordnung
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001704123)
 
 
 ## § 13 Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001204123)
 
 Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen
 Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des
@@ -1009,6 +1029,7 @@ Bundesrates.
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE002000301)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer
 Rechtsverordnung nach § 11 Nummer 13 Buchstabe a bis c oder d oder
@@ -1024,6 +1045,7 @@ Euro geahndet werden.
 
 
 ## § 15 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001305123)
 
 (1) Nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 3 dieses Gesetzes
 in der am 31. Dezember 2010 geltenden Fassung erteilte Erlaubnisse und
@@ -1042,4 +1064,5 @@ auf Erlaubnis nach § 9 Absatz 4 nachgereicht wird.
 
 
 ## Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html#BJNR037810999BJNE001801123)
 

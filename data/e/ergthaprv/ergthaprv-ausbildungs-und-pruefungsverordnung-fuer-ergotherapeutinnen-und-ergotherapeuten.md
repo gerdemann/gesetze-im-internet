@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000100301)
 
 Auf Grund des § 5 des Ergotherapeutengesetzes vom 25. Mai 1976 (BGBl.
 I S. 1246), zuletzt geändert durch Artikel 8 des Gesetzes vom 16. Juni
@@ -28,6 +29,7 @@ Gesundheit:
 
 
 ## § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000201130)
 
 (1) Die dreijährige Ausbildung für Ergotherapeutinnen und
 Ergotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten
@@ -59,6 +61,7 @@ nach dem Muster der Anlage 2 nachzuweisen.
 
 
 ## § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000300301)
 
 (1) Die staatliche Prüfung nach § 2 Abs. 1 Nr. 1 des
 Ergotherapeutengesetzes umfaßt einen schriftlichen, einen mündlichen
@@ -72,6 +75,7 @@ Prüfungsausschüsse sind vorher zu hören.
 
 
 ## § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000401116)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet. Er besteht
 aus mindestens vier Mitgliedern, und zwar:
@@ -119,6 +123,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ## § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000502310)
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
 Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit
@@ -147,6 +152,7 @@ berücksichtigen.
 
 
 ## § 5 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000601130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächergruppen:
@@ -188,6 +194,7 @@ bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit
 
 
 ## § 6 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000701130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -223,6 +230,7 @@ berechtigtes Interesse besteht.
 
 
 ## § 7 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000801130)
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling
 
@@ -270,6 +278,7 @@ Prüfungen nach Absatz 1 Nr. 1 und 2 jeweils mindestens mit
 
 
 ## § 8 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE000900301)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -277,6 +286,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ## § 9 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001001130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -346,6 +356,7 @@ benotet:
 
 
 ## § 10 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001100301)
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
 vorgeschriebenen Prüfungsteile bestanden ist.
@@ -373,6 +384,7 @@ spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 
 
 ## § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001200301)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
 einem Teil der Prüfung zurück, so hat er die Gründe für seinen
@@ -390,6 +402,7 @@ Teil der Prüfung als nicht bestanden. § 10 Abs. 3 gilt entsprechend.
 
 
 ## § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001300301)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -404,6 +417,7 @@ entsprechend.
 
 
 ## § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001400301)
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
 ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört
@@ -416,6 +430,7 @@ Abschluß der Prüfung zulässig.
 
 
 ## § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001500301)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -424,6 +439,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## § 15 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001600301)
 
 Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für
 die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1
@@ -432,6 +448,7 @@ Erlaubnisurkunde nach dem Muster der Anlage 4 aus.
 
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001704116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 des
 Ergotherapeutengesetzes beantragen, können zum Nachweis, dass die
@@ -508,6 +525,7 @@ Gleichstellung ergibt.
 
 
 ## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002901130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Ergotherapeutengesetzes beantragen, haben einen Anpassungslehrgang
@@ -576,6 +594,7 @@ werden kann.
 
 
 ## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002503130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
 Ergotherapeutengesetzes beantragen, haben einen Anpassungslehrgang
@@ -672,6 +691,7 @@ dem Muster der Anlage 6 erteilt.
 
 
 ## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002602116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Ergotherapeutin oder Ergotherapeut nach § 1 Absatz 1 des
@@ -726,6 +746,7 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001800301)
 
 Eine vor Inkrafttreten dieser Verordnung begonnene Ausbildung zur
 "Beschäftigungs- und Arbeitstherapeutin", zum "Beschäftigungs- und
@@ -734,6 +755,7 @@ wird nach den bisher geltenden Vorschriften abgeschlossen.
 
 
 ## § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE001900301)
 
 Diese Verordnung tritt am 1. Juli 2000 in Kraft. Gleichzeitig tritt,
 soweit sich nicht aus § 17 etwas anderes ergibt, die Ausbildungs- und
@@ -743,11 +765,13 @@ Verordnung vom 6. Dezember 1994 (BGBl. I S. 3770), außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002000301)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002100301)
 
 Fundstelle: BGBl. I 1999, 1735 - 1739
 
@@ -2242,6 +2266,7 @@ Fundstelle: BGBl. I 1999, 1735 - 1739
 
 
 ## Anlage 2 (zu § 1 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002200301)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 1740)
 
@@ -2273,6 +2298,7 @@ Schulleitung)
 
 
 ## Anlage 3 (zu § 10 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002300301)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 1741)
 
@@ -2306,6 +2332,7 @@ Prüfungsausschusses)
 
 
 ## Anlage 4 (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002400301)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 1742)
 
@@ -2330,6 +2357,7 @@ Ort, Datum
 
 
 ## Anlage 4a (zu § 16a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE003000116)
 
 (Fundstelle: BGBl. I 2016, 906)
 
@@ -2366,6 +2394,7 @@ Unterschrift(en) der Einrichtung
 
 
 ## Anlage 4b (zu § 16a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE003100116)
 
 (Fundstelle: BGBl. I 2016, 907)
 
@@ -2424,6 +2453,7 @@ Ort, Datum
 
 
 ## Anlage 5 (zu § 16b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002701116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2519,6 +2549,7 @@ Ort, Datum
 [^F781546_01_BJNR173100999BJNE002701116]: 
 
 ## Anlage 6 (zu § 16b Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/ergthaprv/BJNR173100999.html#BJNR173100999BJNE002801116)
 
 
 *    *   Die/der Vorsitzende

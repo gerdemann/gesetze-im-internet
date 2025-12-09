@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000100306)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001200306)
 
 Diesem Gesetz unterliegen die Erfindungen und technischen
 Verbesserungsvorschläge von Arbeitnehmern im privaten und im
@@ -31,12 +33,14 @@ Verbesserungsvorschläge von Arbeitnehmern im privaten und im
 
 
 ### § 2 Erfindungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001300306)
 
 Erfindungen im Sinne dieses Gesetzes sind nur Erfindungen, die patent-
 oder gebrauchsmusterfähig sind.
 
 
 ### § 3 Technische Verbesserungsvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001400306)
 
 Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind
 Vorschläge für sonstige technische Neuerungen, die nicht patent- oder
@@ -44,6 +48,7 @@ gebrauchsmusterfähig sind.
 
 
 ### § 4 Diensterfindungen und freie Erfindungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001500306)
 
 (1) Erfindungen von Arbeitnehmern im Sinne dieses Gesetzes können
 gebundene oder freie Erfindungen sein.
@@ -69,14 +74,17 @@ Beamten und Soldaten.
 
 
 ## Zweiter Abschnitt - Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000200306)
 
 
 
 ### 1. - Diensterfindungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000300306)
 
 
 
 #### § 5 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001601140)
 
 (1) Der Arbeitnehmer, der eine Diensterfindung gemacht hat, ist
 verpflichtet, sie unverzüglich dem Arbeitgeber gesondert in Textform
@@ -103,6 +111,7 @@ erforderlich, bei der Ergänzung der Meldung zu unterstützen.
 
 
 #### § 6 Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001701140)
 
 (1) Der Arbeitgeber kann eine Diensterfindung durch Erklärung
 gegenüber dem Arbeitnehmer in Anspruch nehmen.
@@ -114,6 +123,7 @@ Arbeitnehmer durch Erklärung in Textform freigibt.
 
 
 #### § 7 Wirkung der Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001801140)
 
 (1) Mit der Inanspruchnahme gehen alle vermögenswerten Rechte an der
 Diensterfindung auf den Arbeitgeber über.
@@ -124,6 +134,7 @@ unwirksam, soweit seine Rechte beeinträchtigt werden.
 
 
 #### § 8 Frei gewordene Diensterfindungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE001901140)
 
 Eine Diensterfindung wird frei, wenn der Arbeitgeber sie durch
 Erklärung in Textform freigibt. Über eine frei gewordene
@@ -132,6 +143,7 @@ Diensterfindung kann der Arbeitnehmer ohne die Beschränkungen der §§
 
 
 #### § 9 Vergütung bei Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002001140)
 
 (1) Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf
 angemessene Vergütung, sobald der Arbeitgeber die Diensterfindung in
@@ -144,11 +156,13 @@ Betriebes an dem Zustandekommen der Diensterfindung maßgebend.
 
 
 #### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002101140)
 
 -
 
 
 #### § 11 Vergütungsrichtlinien
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002202360)
 
 Das Bundesministerium für Arbeit und Soziales erläßt nach Anhörung der
 Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer (§ 12 des
@@ -156,6 +170,7 @@ Tarifvertragsgesetzes) Richtlinien über die Bemessung der Vergütung.
 
 
 #### § 12 Feststellung oder Festsetzung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002301140)
 
 (1) Die Art und Höhe der Vergütung soll in angemessener Frist nach
 Inanspruchnahme der Diensterfindung durch Vereinbarung zwischen dem
@@ -194,6 +209,7 @@ anzuwenden.
 
 
 #### § 13 Schutzrechtsanmeldung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002401140)
 
 (1) Der Arbeitgeber ist verpflichtet und allein berechtigt, eine
 gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts
@@ -229,6 +245,7 @@ Arbeitnehmer über.
 
 
 #### § 14 Schutzrechtsanmeldung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002501140)
 
 (1) Nach Inanspruchnahme der Diensterfindung ist der Arbeitgeber
 berechtigt, diese auch im Ausland zur Erteilung von Schutzrechten
@@ -253,6 +270,7 @@ gegen angemessene Vergütung berücksichtigt.
 
 
 #### § 15 Gegenseitige Rechte und Pflichten beim Erwerb von Schutzrechten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002600306)
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer zugleich mit der Anmeldung
 der Diensterfindung zur Erteilung eines Schutzrechts Abschriften der
@@ -266,6 +284,7 @@ abzugeben.
 
 
 #### § 16 Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002700306)
 
 (1) Wenn der Arbeitgeber vor Erfüllung des Anspruchs des Arbeitnehmers
 auf angemessene Vergütung die Anmeldung der Diensterfindung zur
@@ -285,6 +304,7 @@ Diensterfindung gegen angemessene Vergütung vorbehalten.
 
 
 #### § 17 Betriebsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002800306)
 
 (1) Wenn berechtigte Belange des Betriebes es erfordern, eine
 gemeldete Diensterfindung nicht bekanntwerden zu lassen, kann der
@@ -304,10 +324,12 @@ Schutzrecht erteilt worden ist.
 
 
 ### 2. - Freie Erfindungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000400306)
 
 
 
 #### § 18 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE002901140)
 
 (1) Der Arbeitnehmer, der während der Dauer des Arbeitsverhältnisses
 eine freie Erfindung gemacht hat, hat dies dem Arbeitgeber
@@ -327,6 +349,7 @@ Betriebes des Arbeitgebers nicht verwendbar ist.
 
 
 #### § 19 Anbietungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003000306)
 
 (1) Bevor der Arbeitnehmer eine freie Erfindung während der Dauer des
 Arbeitsverhältnisses anderweitig verwertet, hat er zunächst dem
@@ -352,10 +375,12 @@ für die vereinbarten oder festgesetzten Bedingungen maßgebend waren.
 
 
 ### 3. - Technische Verbesserungsvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000500306)
 
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003100306)
 
 (1) Für technische Verbesserungsvorschläge, die dem Arbeitgeber eine
 ähnliche Vorzugsstellung gewähren wie ein gewerbliches Schutzrecht,
@@ -369,15 +394,18 @@ Betriebsvereinbarung überlassen.
 
 
 ### 4. - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000600306)
 
 
 
 #### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003201140)
 
 -
 
 
 #### § 22 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003300306)
 
 Die Vorschriften dieses Gesetzes können zuungunsten des Arbeitnehmers
 nicht abgedungen werden. Zulässig sind jedoch Vereinbarungen über
@@ -387,6 +415,7 @@ Mitteilung.
 
 
 #### § 23 Unbilligkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003401140)
 
 (1) Vereinbarungen über Diensterfindungen, freie Erfindungen oder
 technische Verbesserungsvorschläge (§ 20 Abs. 1), die nach diesem
@@ -402,6 +431,7 @@ gegenüber dem anderen Teil geltend machen.
 
 
 #### § 24 Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003501140)
 
 (1) Der Arbeitgeber hat die ihm gemeldete oder mitgeteilte Erfindung
 eines Arbeitnehmers so lange geheimzuhalten, als dessen berechtigte
@@ -416,6 +446,7 @@ noch bekanntgeben.
 
 
 #### § 25 Verpflichtungen aus dem Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003601140)
 
 Sonstige Verpflichtungen, die sich für den Arbeitgeber und den
 Arbeitnehmer aus dem Arbeitsverhältnis ergeben, werden durch die
@@ -424,12 +455,14 @@ daß die Erfindung frei geworden ist (§ 8), etwas anderes ergibt.
 
 
 #### § 26 Auflösung des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003700306)
 
 Die Rechte und Pflichten aus diesem Gesetz werden durch die Auflösung
 des Arbeitsverhältnisses nicht berührt.
 
 
 #### § 27 Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003802140)
 
 Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren
 über das Vermögen des Arbeitgebers eröffnet, so gilt folgendes:
@@ -467,10 +500,12 @@ Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren
 
 
 ### 5. - Schiedsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000700306)
 
 
 
 #### § 28 Gütliche Einigung
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE003900306)
 
 In allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund
 dieses Gesetzes kann jederzeit die Schiedsstelle angerufen werden. Die
@@ -478,6 +513,7 @@ Schiedsstelle hat zu versuchen, eine gütliche Einigung herbeizuführen.
 
 
 #### § 29 Errichtung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004001360)
 
 (1) Die Schiedsstelle wird beim Deutschen Patent- und Markenamt
 errichtet.
@@ -486,6 +522,7 @@ errichtet.
 
 
 #### § 30 Besetzung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004102360)
 
 (1) Die Schiedsstelle besteht aus einem Vorsitzenden oder seinem
 Vertreter und zwei Beisitzern.
@@ -527,6 +564,7 @@ Weisungen nicht gebunden.
 
 
 #### § 31 Anrufung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004200306)
 
 (1) Die Anrufung der Schiedsstelle erfolgt durch schriftlichen Antrag.
 Der Antrag soll in zwei Stücken eingereicht werden. Er soll eine kurze
@@ -539,6 +577,7 @@ bestimmten Frist zu dem Antrag schriftlich zu äußern.
 
 
 #### § 32 Antrag auf Erweiterung der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004300306)
 
 Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von
 demjenigen, der die Schiedsstelle anruft, zugleich mit der Anrufung (§
@@ -548,6 +587,7 @@ stellen.
 
 
 #### § 33 Verfahren vor der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004401307)
 
 (1) Auf das Verfahren vor der Schiedsstelle sind §§ 41 bis 48, 1042
 Abs. 1 und § 1050 der Zivilprozeßordnung sinngemäß anzuwenden. § 1042
@@ -563,6 +603,7 @@ werden dürfen.
 
 
 #### § 34 Einigungsvorschlag der Schiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004500306)
 
 (1) Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit, § 196
 Abs. 2 des Gerichtsverfassungsgesetzes ist anzuwenden.
@@ -598,6 +639,7 @@ Sitz des Antragstellers zuständige Landgericht statt.
 
 
 #### § 35 Erfolglose Beendigung des Schiedsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004600306)
 
 (1) Das Verfahren vor der Schiedsstelle ist erfolglos beendet,
 
@@ -620,16 +662,19 @@ des Schiedsverfahrens den Beteiligten mit.
 
 
 #### § 36 Kosten des Schiedsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004700306)
 
 Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen
 erhoben.
 
 
 ### 6. - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000800306)
 
 
 
 #### § 37 Voraussetzungen für die Erhebung der Klage
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004800306)
 
 (1) Rechte oder Rechtsverhältnisse, die in diesem Gesetz geregelt
 sind, können im Wege der Klage erst geltend gemacht werden, nachdem
@@ -672,6 +717,7 @@ Erhebung der Klage bestimmt worden ist.
 
 
 #### § 38 Klage auf angemessene Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE004900306)
 
 Besteht Streit über die Höhe der Vergütung, so kann die Klage auch auf
 Zahlung eines vom Gericht zu bestimmenden angemessenen Betrages
@@ -679,6 +725,7 @@ gerichtet werden.
 
 
 #### § 39 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005002307)
 
 (1) Für alle Rechtsstreitigkeiten über Erfindungen eines Arbeitnehmers
 sind die für Patentstreitsachen zuständigen Gerichte (§ 143 des
@@ -693,10 +740,12 @@ Gegenstand haben.
 
 
 ## Dritter Abschnitt - Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im öffentlichen Dienst, von Beamten und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG000900306)
 
 
 
 ### § 40 Arbeitnehmer im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005100306)
 
 Auf Erfindungen und technische Verbesserungsvorschläge von
 Arbeitnehmern, die in Betrieben und Verwaltungen des Bundes, der
@@ -741,6 +790,7 @@ anzuwenden:
 
 
 ### § 41 Beamte, Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005200306)
 
 Auf Erfindungen und technische Verbesserungsvorschläge von Beamten und
 Soldaten sind die Vorschriften für Arbeitnehmer im öffentlichen Dienst
@@ -748,6 +798,7 @@ entsprechend anzuwenden.
 
 
 ### § 42 Besondere Bestimmungen für Erfindungen an Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005301377)
 
 Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende
 besonderen Bestimmungen:
@@ -781,10 +832,12 @@ besonderen Bestimmungen:
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNG001000306)
 
 
 
 ### § 43 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005402140)
 
 (1) § 42 in der am 7. Februar 2002 (BGBl. I S. 414) geltenden Fassung
 dieses Gesetzes findet nur Anwendung auf Erfindungen, die nach dem 6.
@@ -811,10 +864,12 @@ Verbesserungsvorschläge gilt Satz 1 entsprechend.
 
 
 ### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005501377)
 
 
 
 ### § 45 Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005601360)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
@@ -835,6 +890,7 @@ Insbesondere kann es bestimmen,
 
 
 ### § 46 Außerkrafttreten von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005700306)
 
 Mit dem Inkrafttreten dieses Gesetzes werden folgende Vorschriften
 aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:
@@ -852,15 +908,18 @@ aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005801307)
 
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE005901140)
 
 -
 
 
 ### § 49 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arbnerfg/BJNR007560957.html#BJNR007560957BJNE006000306)
 
 Dieses Gesetz tritt am 1. Oktober 1957 in Kraft.
 

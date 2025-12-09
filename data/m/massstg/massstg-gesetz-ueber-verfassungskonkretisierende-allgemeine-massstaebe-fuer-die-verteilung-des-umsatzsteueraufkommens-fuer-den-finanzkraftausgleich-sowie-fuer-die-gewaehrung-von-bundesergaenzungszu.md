@@ -28,16 +28,19 @@ Das g tritt gem. § 15 mit ablauf des 31.12.2019 außer kraft; § 15 aufgeh. dur
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000002123)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNG000102123)
 
 
 
 ### § 1 Grundsätze der Maßstabsbildung
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000102123)
 
 (1) Dieses Gesetz benennt Maßstäbe für die Festsetzung der Anteile von
 Bund und Ländern an der Umsatzsteuer (vertikale
@@ -59,6 +62,7 @@ Transparenz der Mittelverteilung im Gesamtstaat.
 
 
 ### § 2 Bindungswirkung der Maßstäbe
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000202123)
 
 (1) Das Finanzausgleichsgesetz dient der Ableitung der konkreten
 jährlichen Zuteilungsfolgen im Regelungsbereich des § 1 Abs. 1.
@@ -71,6 +75,7 @@ finanzwirtschaftliche Veränderungen sind sicherzustellen.
 
 
 ### § 3 Sicherung des Eigenbehalts
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000302123)
 
 Von Mehr- oder Mindereinnahmen gegenüber den länderdurchschnittlichen
 Einnahmen sowie von überdurchschnittlichen Mehreinnahmen oder
@@ -79,10 +84,12 @@ Vorjahr muss dem betreffenden Land ein Eigenbehalt verbleiben.
 
 
 ## Abschnitt 2 - Vertikale Umsatzsteuerverteilung (Artikel 106 Abs. 3 Satz 4 und Abs. 4 Satz 1 GG)
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNG000202123)
 
 
 
 ### § 4 Vertikale Umsatzsteuerverteilung
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000402123)
 
 (1) Die vertikale Umsatzsteuerverteilung zwischen Bund und Ländern
 wird auf der Grundlage des Deckungsquotenprinzips festgesetzt.
@@ -96,10 +103,12 @@ Einkommensteuerrecht entstehen.
 
 
 ## Abschnitt 3 - Horizontale Umsatzsteuerverteilung (Artikel 107 Absatz 1 Satz 4 und Absatz 2 Satz 1 bis 4 GG)
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNG000302123)
 
 
 
 ### § 5 Grundsätze für die horizontale Umsatzsteuerverteilung
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000602123)
 
 (1) Der Länderanteil am Aufkommen der Umsatzsteuer ist grundsätzlich
 so auf die Länder zu verteilen, dass auf jeden Einwohner der gleiche
@@ -117,6 +126,7 @@ ihre Finanzkraft verringern.
 
 
 ### § 6 Finanzkraft
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000702123)
 
 (1) Die Finanzkraft bemisst sich nach den ausgleichserheblichen
 Einnahmen. Grundsätzlich sind alle Einnahmen von Ländern und Gemeinden
@@ -133,6 +143,7 @@ vorbehaltlich § 7 Absatz 4 und 5 in voller Höhe zu berücksichtigen.
 
 
 ### § 7 Vergleichbarkeit der Finanzkraft, Berücksichtigung des kommunalen Finanzbedarfs, Einwohnergewichtung und Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000802123)
 
 (1) Um die Finanzkraft der Länder vergleichbar zu machen, ist als
 abstraktes Bedarfskriterium die jeweilige Einwohnerzahl eines Landes
@@ -166,6 +177,7 @@ lediglich anteilig berücksichtigt.
 
 
 ### § 8 Ausgleichshöhe
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE000902123)
 
 Der angemessene Ausgleich erfordert eine den ländereigenen Aufgaben
 entsprechende hinreichende Annäherung der Finanzkraft der Länder.
@@ -182,10 +194,12 @@ die Verteilung des Länderanteils am Aufkommen der Umsatzsteuer nach §
 
 
 ## Abschnitt 4 - Bundesergänzungszuweisungen (Artikel 107 Absatz 2 Satz 5 und 6 GG)
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNG000502123)
 
 
 
 ### § 9 Funktion der Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE001002123)
 
 (1) Bundesergänzungszuweisungen dienen dem ergänzenden Ausgleich im
 Anschluss an den Finanzkraftausgleich. Die Vergabe von
@@ -214,6 +228,7 @@ sind aus besonderen Gründen und vorübergehend zulässig.
 
 
 ### § 10 Allgemeine Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE001102123)
 
 (1) Bei der Gewährung von allgemeinen Bundesergänzungszuweisungen
 bestimmt sich die Leistungsschwäche eines Landes danach, ob dessen
@@ -230,6 +245,7 @@ entsprechend.
 
 
 ### § 11 Zuweisungen nach Artikel 107 Absatz 2 Satz 6 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE001601123)
 
 (1) Eine am Länderdurchschnitt je Einwohner gemessene kommunale
 Steuerkraftschwäche kann Bundesergänzungszuweisungen begründen, sofern
@@ -247,6 +263,7 @@ Finanzkraftreihenfolge unter den Ländern führen.
 
 
 ### § 12 Sonderbedarfs-Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/massstg/BJNR230200001.html#BJNR230200001BJNE001203123)
 
 (1) Die Gewährung von Sonderbedarfs-Bundesergänzungszuweisungen setzt
 voraus, dass die Sonderlasten benannt und begründet werden. Nur aus

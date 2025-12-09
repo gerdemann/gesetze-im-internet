@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000100304)
 
 Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000200304)
 
 (1) Wegen der Ansprüche aus der Lieferung von Düngemitteln und
 anerkanntem Saatgut oder von zugelassenem Handelssaatgut - mit
@@ -44,6 +46,7 @@ Pächter zur Bezahlung dieser Lieferung in der für derartige Geschäfte
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000300304)
 
 (1) Das Pfandrecht des Gläubigers erlischt mit der Entfernung der ihm
 unterliegenden Früchte von dem Grundstück, es sei denn, daß die
@@ -73,6 +76,7 @@ haben ihre Ansprüche untereinander gleichen Rang.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000400304)
 
 (1) Sowohl der Pfandgläubiger als auch der Schuldner kann nach Beginn
 der Ernte jederzeit - auch vor Fälligkeit der Forderung - verlangen,
@@ -92,6 +96,7 @@ Zivilprozeßordnung bedarf es nicht.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000500304)
 
 Das Pfandrecht erlischt mit dem 1. April des auf die Ernte folgenden
 Jahres, wenn es nicht vorher gerichtlich, insbesondere nach § 805 der
@@ -99,6 +104,7 @@ Zivilprozeßordnung, geltend gemacht worden ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000600304)
 
 Die Vorschriften der
 §§ 18 und 19a der Verordnung über Maßnahmen auf dem Gebiete der
@@ -111,11 +117,13 @@ anzuwenden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000700304)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmsaatg/BJNR700080949.html#BJNR700080949BJNE000800304)
 
 Dieses Gesetz tritt mit Wirkung vom 1. August 1948 an in Kraft
 und tritt am 1. August 1951 außer Kraft.

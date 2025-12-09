@@ -19,10 +19,12 @@ Fundstelle
 
 
 ## I. - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000100310)
 
 
 
 ### § 1 Firma, Sitz und Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE000800310)
 
 (1) Die Aktiengesellschaft - nachfolgend "Gesellschaft" genannt -
 führt die Firma DSL Bank Aktiengesellschaft.
@@ -33,6 +35,7 @@ führt die Firma DSL Bank Aktiengesellschaft.
 
 
 ### § 2 Gegenstand des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE000900310)
 
 (1) Die Gesellschaft ist ein Kreditinstitut im Sinne des § 1 Abs. 1
 Satz 1 des Gesetzes über das Kreditwesen mit dem Recht zur Ausgabe
@@ -48,15 +51,18 @@ Verwaltung der Beteiligung beschränken.
 
 
 ### § 3 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001000310)
 
 Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.
 
 
 ## II. - Grundkapital und Aktien
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000200310)
 
 
 
 ### § 4 Höhe und Einteilung des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001100310)
 
 (1) Das Grundkapital der Gesellschaft beträgt 113.750.000,00 Deutsche
 Mark. Es ist eingeteilt in 56.875.000 Stückaktien. Die Aktien lauten
@@ -72,10 +78,12 @@ von der Gesellschaft ausgegebene Wertpapiere.
 
 
 ## III. - Der Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000300310)
 
 
 
 ### § 5 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001200310)
 
 (1) Der Vorstand besteht aus mindestens drei Mitgliedern. Die Zahl der
 Vorstandsmitglieder bestimmt im übrigen der Aufsichtsrat.
@@ -89,6 +97,7 @@ bestellen.
 
 
 ### § 6 Vertretung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001300310)
 
 Die Gesellschaft wird durch zwei Vorstandsmitglieder oder durch ein
 Vorstandsmitglied gemeinsam mit einem Prokuristen gesetzlich
@@ -97,6 +106,7 @@ Gesellschaft nach außen wie ordentliche Vorstandsmitglieder.
 
 
 ### § 7 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001400310)
 
 (1) Der Vorstand führt die Geschäfts der Gesellschaft nach Maßgabe der
 Gesetze, der Satzung und der Geschäftsordnung des Vorstands.
@@ -107,6 +117,7 @@ Aufsichtsrats bedarf.
 
 
 ### § 8 Zustimmungspflichtige Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001500310)
 
 (1) In der Geschäftsordnung des Aufsichtsrats ist bestimmt, welche
 Geschäfte der Vorstand nur mit vorheriger Zustimmung des Aufsichtsrats
@@ -120,10 +131,12 @@ erteilen.
 
 
 ## IV. - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000400310)
 
 
 
 ### § 9 Zusammensetzung, Amtsdauer, Amtsniederlegung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001600310)
 
 (1) Der Aufsichtsrat besteht aus zwanzig Mitgliedern. Davon werden
 zehn Mitglieder von den Arbeitnehmern nach den Bestimmungen des
@@ -164,6 +177,7 @@ Hauptversammlungsbeschluss abberufen werden.
 
 
 ### § 10 Vorsitzender und Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001700310)
 
 (1) Der Aufsichtsrat wählt aus seiner Mitte einen Vorsitzenden und
 einen Stellvertreter. Die Wahl erfolgt im Anschluss an die
@@ -177,6 +191,7 @@ die restliche Amtszeit des Ausgeschiedenen vorzunehmen.
 
 
 ### § 11 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001800310)
 
 Im Rahmen der zwingenden gesetzlichen Vorschriften und den
 Bestimmungen dieser Satzung gibt sich der Aufsichtsrat seine
@@ -184,6 +199,7 @@ Geschäftsordnung.
 
 
 ### § 12 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE001900310)
 
 (1) Der Aufsichtsrat soll einmal im Kalendervierteljahr, er muss
 einmal im Kalenderhalbjahr einberufen werden.
@@ -209,6 +225,7 @@ Mehrheitsentscheidung des Aufsichtsrats.
 
 
 ### § 13 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002000310)
 
 (1) Beschlüsse des Aufsichtsrats werden in der Regel in Sitzungen
 gefasst. Außerhalb von Sitzungen sind Beschlussfassungen durch
@@ -270,6 +287,7 @@ Vertagung ist der Vorsitzende nicht befugt.
 
 
 ### § 14 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002100310)
 
 (1) Der Aufsichtsrat kann aus seiner Mitte Ausschüsse bilden und deren
 Aufgaben und Befugnisse festlegen. Soweit gesetzlich zulässig, können
@@ -282,6 +300,7 @@ Verfahren der Ausschüsse gelten die Regelungen in den §§ 12 Abs. 2 bis
 
 
 ### § 15 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002200310)
 
 Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus
 dem Amt - über vertrauliche Angaben und Geheimnisse der Gesellschaft,
@@ -290,6 +309,7 @@ Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
 
 
 ### § 16 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002300310)
 
 (1) Die Mitglieder des Aufsichtsrats erhalten neben dem Ersatz ihrer
 Auslagen eine feste, nach Ablauf des Geschäftsjahres zahlbare
@@ -305,10 +325,12 @@ von der Gesellschaft erstattet.
 
 
 ## V. - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000500310)
 
 
 
 ### § 17 Ort der Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002400310)
 
 (1) Die Hauptversammlung findet am Sitz der Gesellschaft oder in einer
 anderen Stadt der Bundesrepublik Deutschland statt, deren
@@ -321,6 +343,7 @@ Hinterlegungstag nicht mitgerechnet.
 
 
 ### § 18 Teilnahmerecht und Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002500310)
 
 (1) Zur Teilnahme an der Hauptversammlung und zur Ausübung des
 Stimmrechts in der Hauptversammlung sind diejenigen Aktionäre
@@ -346,6 +369,7 @@ der Hinterlegungsfrist bei der Gesellschaft einzureichen.
 
 
 ### § 19 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002600310)
 
 (1) Jede Stückaktie gewährt in der Hauptversammlung eine Stimme.
 
@@ -357,6 +381,7 @@ Beschlussfassung vertretenen Grundkapitals gefasst.
 
 
 ### § 20 Vorsitz in der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002700310)
 
 (1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
 Aufsichtsrats oder ein von ihm bestimmtes anderes
@@ -373,10 +398,12 @@ werden, sowie die Art und Reihenfolge der Abstimmungen.
 
 
 ## VI. - Beirat
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000600310)
 
 
 
 ### § 21 Einrichtung, Zusammensetzung, Amtsperiode
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002800310)
 
 (1) Auf Beschluss des Vorstands kann ein Beirat gebildet werden.
 
@@ -390,6 +417,7 @@ Jahre. Wiederholte Ernennungen sind möglich.
 
 
 ### § 22 Aufgabe, Stimmrechte, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE002900310)
 
 (1) Aufgabe des Beirats ist die Beratung des Vorstands.
 
@@ -411,10 +439,12 @@ das jeweils vorangegangene Geschäftsjahr.
 
 
 ## VII. - Jahresabschluß und Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNG000700310)
 
 
 
 ### § 23 Jahresabschluss und ordentliche Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE003000310)
 
 (1) Der Vorstand hat in den ersten drei Monaten des Geschäftsjahres
 für das vergangene Geschäftsjahr den Jahresabschluss (Bilanz nebst
@@ -442,6 +472,7 @@ Verwendung des Bilanzgewinns.
 
 
 ### § 24 Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE003100310)
 
 (1) Vorstand und Aufsichtsrat sind ermächtigt, bei der Feststellung
 des Jahresabschlusses Beträge bis zur Hälfte des Jahresüberschusses in
@@ -464,6 +495,7 @@ Hauptversammlung nicht eine andere Verwendung beschließt.
 
 
 ### § 25 Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/dslbsa/BJNR244400999.html#BJNR244400999BJNE003200310)
 
 Der Bundesrechnungshof hat die Befugnisse nach § 54 des
 Haushaltsgrundsätzegesetzes.

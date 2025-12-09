@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000300000)
 
 (1) Dieses Gesetz gilt
 
@@ -81,6 +83,7 @@ Regelungen und Schutzinteressen festgestellt ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000401118)
 
 (1) Im Sinne dieses Gesetzes
 
@@ -166,9 +169,11 @@ der Bundesrepublik Deutschland hat.
 
 
 ## Teil 2 - Betrieb eines hochwertigen Erdfernerkundungssystems
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000200000)
 
 
 ### § 3 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000500000)
 
 (1) Der Betrieb eines hochwertigen Erdfernerkundungssystems bedarf der
 Genehmigung.
@@ -190,6 +195,7 @@ Genehmigung.
 
 
 ### § 4 Genehmigungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000600000)
 
 (1) Die Genehmigung ist zu erteilen, wenn
 
@@ -247,6 +253,7 @@ unterziehen zu lassen.
 
 
 ### § 5 Dokumentationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000700000)
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems ist
 verpflichtet,
@@ -274,6 +281,7 @@ Einsichtnahme durch die zuständige Behörde bereitzuhalten.
 
 
 ### § 6 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000801118)
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der
 zuständigen Behörde
@@ -314,6 +322,7 @@ anzuzeigen, an welche nach § 11 zugelassenen Personen er Daten
 
 
 ### § 7 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE000900000)
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der
 zuständigen Behörde auf Verlangen Auskünfte zu erteilen und Unterlagen
@@ -329,6 +338,7 @@ dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 8 Betretens- und Prüfungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001000000)
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen
 Betriebs- und Geschäftszeiten die Betriebs- und Geschäftsräume des
@@ -339,6 +349,7 @@ die §§ 196, 197 Abs. 1 Satz 1 und 2 und Abs. 2, §§ 198, 199 Abs. 2 und
 
 
 ### § 9 Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001100000)
 
 (1) Die zuständige Behörde kann gegenüber dem Betreiber eines
 hochwertigen Erdfernerkundungssystems im Einzelfall diejenigen
@@ -364,6 +375,7 @@ Behörde setzt die Höhe der Vergütung fest.
 
 
 ### § 10 Betriebsübernahme
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001201125)
 
 Die vollständige oder teilweise Übernahme des Betriebs eines
 hochwertigen Erdfernerkundungssystems oder von Teilen eines solchen
@@ -376,12 +388,15 @@ Sicherheitsinteressen der Bundesrepublik Deutschland nicht gefährdet.
 
 
 ## Teil 3 - Verbreiten von Daten
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000300000)
 
 
 ### Kapitel 1 - Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000400000)
 
 
 #### § 11 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001300000)
 
 (1) Ein Datenanbieter, der Daten verbreiten will, bedarf der
 Zulassung.
@@ -393,6 +408,7 @@ Rechtsvorschrift sicherzustellen.
 
 
 #### § 12 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001400000)
 
 (1) Die Zulassung ist zu erteilen, wenn
 
@@ -428,6 +444,7 @@ Sicherheitsüberprüfungsgesetz unterziehen zu lassen.
 
 
 #### § 13 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001501118)
 
 Der Datenanbieter hat der zuständigen Behörde
 
@@ -460,6 +477,7 @@ unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 
 #### § 14 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001600000)
 
 (1) Der Datenanbieter hat der zuständigen Behörde auf Verlangen
 Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur
@@ -474,6 +492,7 @@ Ordnungswidrigkeiten aussetzen würde.
 
 
 #### § 15 Betretens- und Prüfungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001700000)
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen
 Betriebs- und Geschäftszeiten die Betriebs- und Geschäftsräume des
@@ -484,6 +503,7 @@ Abgabenordnung gelten entsprechend.
 
 
 #### § 16 Maßnahmen der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001800000)
 
 Die zuständige Behörde kann gegenüber dem Datenanbieter im Einzelfall
 diejenigen Maßnahmen anordnen, die zur ordnungsgemäßen Erfüllung
@@ -500,9 +520,11 @@ seiner Pflichten erforderlich sind. Sie kann insbesondere
 
 
 ### Kapitel 2 - Verfahren des Verbreitens von Daten
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000500000)
 
 
 #### § 17 Sensitivitätsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE001902125)
 
 (1) Der Datenanbieter, der eine Anfrage auf Verbreiten von Daten eines
 hochwertigen Erdfernerkundungssystems bedienen will, hat die Anfrage
@@ -568,6 +590,7 @@ Ausfuhrkontrolle übertragen.
 
 
 #### § 18 Dokumentationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002000000)
 
 (1) Der Datenanbieter ist verpflichtet, alle Anfragen auf Verbreiten
 von Daten eines hochwertigen Erdfernerkundungssystems aufzuzeichnen.
@@ -633,6 +656,7 @@ und die Möglichkeit der behördlichen Einsichtnahme mitzuteilen.
 
 
 #### § 19 Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002100000)
 
 (1) Will ein Datenanbieter eine sensitive Anfrage bedienen, bedarf er
 der Erlaubnis. Dies gilt auch, wenn er Daten eines hochwertigen
@@ -651,6 +675,7 @@ spätestens einen Monat nach Eingang entscheiden.
 
 
 #### § 20 Sammelerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002200000)
 
 Die zuständige Behörde kann eine Sammelerlaubnis erteilen, wenn ein
 Datenanbieter
@@ -674,9 +699,11 @@ erteilt werden, die drei Jahre nicht überschreiten soll.
 
 
 ## Teil 4 - Vorrangige Bedienung von Anfragen der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000600000)
 
 
 ### § 21 Verpflichtung des Datenanbieters
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002300000)
 
 In folgenden Fällen ist der Datenanbieter verpflichtet, Anfragen der
 Bundesrepublik Deutschland, vertreten durch das Bundeskanzleramt, auf
@@ -710,6 +737,7 @@ bedienen:
 
 
 ### § 22 Verpflichtung des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002400000)
 
 Der Betreiber eines hochwertigen Erdfernerkundungssystems ist
 verpflichtet, in den Fällen des § 21 Aufträge zur Erzeugung von Daten
@@ -723,6 +751,7 @@ keiner Zulassung nach § 11.
 
 
 ### § 23 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002500000)
 
 (1) Unbeschadet der Verpflichtungen aus diesem Teil kann für die
 Erzeugung der Daten nach § 22 sowie für die Bedienung der Anfrage nach
@@ -734,9 +763,11 @@ ausgeschlossen.
 
 
 ## Teil 5 - Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000700000)
 
 
 ### § 24 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002602125)
 
 (1) Zuständige Behörde nach diesem Gesetz ist vorbehaltlich der
 Absätze 2 und 3 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
@@ -749,6 +780,7 @@ Energie.
 
 
 ### § 25 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002702125)
 
 (1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Absatz
 1 und eine Erlaubnis nach § 10 Satz 1 setzen jeweils einen
@@ -769,10 +801,12 @@ elektronisch zu erlassen.
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002804301)
 
 
 
 ### § 27 Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE002902125)
 
 (1) Die zuständige Behörde kann personenbezogene Daten, die ihr bei
 der Erfüllung ihrer Aufgaben nach diesem Gesetz bekannt geworden sind,
@@ -819,9 +853,11 @@ gleich.
 
 
 ## Teil 6 - Bußgeldvorschriften, Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000800000)
 
 
 ### § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003001125)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -893,6 +929,7 @@ fünfundzwanzigtausend Euro geahndet werden.
 
 
 ### § 29 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003101125)
 
 (1) Mit Freiheitsstrafe bis fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 28 Absatz 1 Nummer 1, 3 bis 5 oder 6
@@ -914,12 +951,14 @@ zu gefährden.
 
 
 ### § 30 Auslandstaten Deutscher
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003200000)
 
 § 29 gilt, unabhängig vom Recht des Tatorts, auch im Ausland, wenn der
 Täter zur Zeit der Tat Deutscher ist.
 
 
 ### § 31 Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003300000)
 
 (1) Soweit für Straftaten nach § 29 das Amtsgericht sachlich zuständig
 ist, ist örtlich zuständig das Amtsgericht, in dessen Bezirk das
@@ -932,19 +971,23 @@ Staatsanwaltschaft und im gerichtlichen Verfahren entsprechend.
 
 
 ## Teil 7 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNG000900000)
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003400000)
 
 -
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003500000)
 
 -
 
 
 ### § 34 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003600000)
 
 (1) Der bei Inkrafttreten dieses Gesetzes bestehende Betrieb eines
 hochwertigen Erdfernerkundungssystems gilt bis zum Eintritt der
@@ -959,6 +1002,7 @@ erfüllt.
 
 
 ### § 35 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/satdsig/BJNR259000007.html#BJNR259000007BJNE003700000)
 
 (1) § 2 Abs. 2, § 17 Abs. 3 und § 26 Satz 2 bis 4 treten am Tag nach
 der Verkündung in Kraft.

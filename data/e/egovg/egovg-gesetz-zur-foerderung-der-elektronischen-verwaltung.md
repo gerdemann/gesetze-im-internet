@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000202130)
 
 (1) Dieses Gesetz gilt für die öffentlich-rechtliche
 Verwaltungstätigkeit der Behörden des Bundes einschließlich der
@@ -62,6 +63,7 @@ inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
 
 
 ## § 2 Elektronischer Zugang zur Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000306130)
 
 (1) Jede Behörde ist verpflichtet, auch einen Zugang für die
 Übermittlung elektronischer Dokumente, auch soweit sie mit einer
@@ -79,6 +81,7 @@ Onlinezugangsgesetzes wird diese Verpflichtung erfüllt.
 
 
 ## § 2a Siegeldienst; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002600130)
 
 (1) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -107,6 +110,7 @@ Basisfunktionen:
 
 
 ## § 3 Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000403130)
 
 (1) Jede Behörde stellt über öffentlich zugängliche Netze in allgemein
 verständlicher Sprache Informationen über ihre Aufgaben, ihre
@@ -131,6 +135,7 @@ dann, wenn dies nach Landesrecht angeordnet ist.
 
 
 ## § 4 Elektronische Bezahlmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000502130)
 
 (1) Fallen im Rahmen eines elektronisch durchgeführten
 Verwaltungsverfahrens Gebühren oder sonstige Forderungen an, muss die
@@ -147,6 +152,7 @@ Verwaltungsverfahrens erhoben wird.
 
 
 ## § 4a Elektronischer Rechnungsempfang; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001803130)
 
 (1) Elektronische Rechnungen, die nach Erfüllung von öffentlichen
 Aufträgen und Aufträgen sowie zu Konzessionen von Stellen im Sinne von
@@ -222,6 +228,7 @@ vertreten.
 
 
 ## § 5 Nachweisabruf; Nachweiserbringung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000602130)
 
 (1) Wird ein antragsgebundenes Verwaltungsverfahren elektronisch
 durchgeführt, erfolgt die Nachweiserbringung auf elektronischem Wege
@@ -304,6 +311,7 @@ ob der Nachweis für das Antragsverfahren verwendet werden soll.
 
 
 ## § 5a Grenzüberschreitende Nachweisabrufe
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002700130)
 
 (1) Die zuständige Behörde darf bei einer Behörde eines anderen
 Mitgliedstaats der Europäischen Union einen Nachweis nach Artikel 14
@@ -329,6 +337,7 @@ und 2 können intermediäre Plattformen zum Einsatz kommen.
 
 
 ## § 6 Ende-zu-Ende-Digitalisierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002800130)
 
 (1) Der Bund hat für seine wesentlichen elektronischen
 Verwaltungsleistungen spätestens zum Ablauf des fünften auf die
@@ -354,6 +363,7 @@ abweichen.
 
 
 ## § 6a Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000702130)
 
 Die Behörden des Bundes sollen ihre Akten elektronisch führen. Satz 1
 gilt nicht für solche Behörden, bei denen das Führen elektronischer
@@ -364,6 +374,7 @@ dass die Grundsätze ordnungsgemäßer Aktenführung eingehalten werden.
 
 
 ## § 7 Übertragen und Vernichten des Papieroriginals
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000800000)
 
 (1) Die Behörden des Bundes sollen, soweit sie Akten elektronisch
 führen, an Stelle von Papierdokumenten deren elektronische Wiedergabe
@@ -382,6 +393,7 @@ Qualitätssicherung des Übertragungsvorgangs erforderlich ist.
 
 
 ## § 8 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE000900000)
 
 Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des
 Bundes, die Akten elektronisch führen, Akteneinsicht dadurch gewähren,
@@ -403,6 +415,7 @@ dass sie
 
 
 ## § 9 Optimierung von Verwaltungsabläufen und Information zum Verfahrensstand
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001000000)
 
 (1) Behörden des Bundes sollen Verwaltungsabläufe, die erstmals zu
 wesentlichen Teilen elektronisch unterstützt werden, vor Einführung
@@ -427,6 +440,7 @@ informationstechnischen Systeme.
 
 
 ## § 9a Verwaltungsportal des Bundes; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002301130)
 
 (1) Das Verwaltungsportal des Bundes nach § 1a Absatz 1 des
 Onlinezugangsgesetzes wird durch die dafür zuständige öffentliche
@@ -494,6 +508,7 @@ bereit, um folgende Zwecke zu erfüllen:
 
 
 ## § 9b Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002401130)
 
 (1) Die für die Zwecke nach § 9a Absatz 3 erforderlichen
 personenbezogenen Daten dürfen im Verwaltungsportal des Bundes
@@ -543,6 +558,7 @@ werden.
 
 
 ## § 9c Datenschutzrechtliche Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002501130)
 
 (1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal
 des Bundes nach § 9a Absatz 3 Nummer 3 bis 6 und nach § 9b Absatz 2
@@ -563,6 +579,7 @@ aus.
 
 
 ## § 10 Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001101129)
 
 Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen
 Verwaltung zwischen Bund und Ländern (IT-Planungsrat) einen Beschluss
@@ -577,6 +594,7 @@ Beschlusses innerhalb der Bundesverwaltung.
 
 
 ## § 11 Gemeinsame Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001202116)
 
 (1) Gemeinsame Verfahren sind automatisierte Verfahren, die mehreren
 Verantwortlichen im Sinne des Artikels 26 der Verordnung (EU) 2016/679
@@ -613,6 +631,7 @@ prüfen.
 
 
 ## § 12 Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001301116)
 
 (1) Stellen Behörden über öffentlich zugängliche Netze Daten zur
 Verfügung, an denen ein Nutzungsinteresse, insbesondere ein
@@ -642,6 +661,7 @@ Länder, entgegenstehen.
 
 
 ## § 12a Offene Daten des Bundes, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002101116)
 
 (1) Die Behörden des Bundes mit Ausnahme der
 Selbstverwaltungskörperschaften stellen unbearbeitete maschinenlesbare
@@ -808,6 +828,7 @@ Daten nach Absatz 1 Satz 1 zu erlassen.
 
 
 ## § 13 Elektronische Formulare
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001400000)
 
 Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars
 vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein
@@ -817,6 +838,7 @@ Formulars entfällt das Unterschriftsfeld.
 
 
 ## § 14 Georeferenzierung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001501000)
 
 (1) Wird ein elektronisches Register, welches Angaben mit Bezug zu
 inländischen Grundstücken enthält, neu aufgebaut oder überarbeitet,
@@ -831,6 +853,7 @@ werden; dies können öffentliche und nichtöffentliche Register sein.
 
 
 ## § 15 Amtliche Mitteilungs- und Verkündungsblätter
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001600000)
 
 (1) Eine durch Rechtsvorschrift des Bundes bestimmte Pflicht zur
 Publikation in einem amtlichen Mitteilungs- oder Verkündungsblatt des
@@ -854,6 +877,7 @@ die authentische anzusehen ist.
 
 
 ## § 16 Nutzerfreundlichkeit und Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001701130)
 
 Die Behörden des Bundes gestalten die elektronische Kommunikation und
 die elektronischen Dokumente nutzerfreundlich und barrierefrei. Für
@@ -862,6 +886,7 @@ Informationstechnik-Verordnung entsprechend.
 
 
 ## § 16a Open Source
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002900130)
 
 Die Behörden des Bundes sollen offene Standards nutzen und bei neu
 anzuschaffender Software Open-Source-Software vorrangig vor solcher
@@ -871,6 +896,7 @@ einschränkt.
 
 
 ## § 17 Änderung verwaltungsrechtlicher Rechtsverordnungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE001900116)
 
 Soweit Anordnungen der Schriftform in Rechtsverordnungen des Bundes
 nach dem Bericht der Bundesregierung zu Artikel 30 Absatz 2 Nummer 1
@@ -882,6 +908,7 @@ elektronischen Verfahrensabwicklung zu ergänzen.
 
 
 ## § 18 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002000116)
 
 Für subzentrale öffentliche Auftraggeber sowie für
 Sektorenauftraggeber und für Konzessionsgeber ist § 4a erst ab dem 27.
@@ -892,6 +919,7 @@ den obersten Bundesbehörden gleichgestellt.
 
 
 ## § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/egovg/BJNR274910013.html#BJNR274910013BJNE002201116)
 
 (1) § 12a gilt für Daten, die nach dem 13. Juli 2017 erhoben werden.
 Für Daten, die vor dem 13. Juli 2017 erhoben wurden, gilt § 12a nur,

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweckbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bverstg/BJNR071600009.html#BJNR071600009BJNE000101311)
 
 (1) Dieses Gesetz regelt die Ansprüche von ausgleichsberechtigten
 Personen und deren Hinterbliebenen gegenüber den Versorgungsträgern
@@ -53,6 +54,7 @@ oder stand.
 
 
 ## § 2 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/bverstg/BJNR071600009.html#BJNR071600009BJNE000202311)
 
 (1) Anspruchsberechtigt ist die Person, zu deren Gunsten ein Anrecht
 nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes übertragen worden
@@ -94,6 +96,7 @@ Beamtenversorgungsgesetzes entsprechend.
 
 
 ## § 3 Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/bverstg/BJNR071600009.html#BJNR071600009BJNE000302311)
 
 (1) Der durch Entscheidung des Familiengerichts zugunsten der
 ausgleichsberechtigten Person festgesetzte oder sich in den Fällen des
@@ -127,11 +130,13 @@ Absatz 1 und 2 des Beamtenversorgungsgesetzes.
 
 
 ## § 4 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/bverstg/BJNR071600009.html#BJNR071600009BJNE000400000)
 
 Für die Rückforderung zu viel gezahlter Leistungen gilt § 52 Abs. 2
 bis 4 des Beamtenversorgungsgesetzes entsprechend.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverstg/BJNR071600009.html#BJNR071600009BJNE000501311)
 
 

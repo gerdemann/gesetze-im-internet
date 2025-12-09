@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_4/BJNR004470962.html#BJNR004470962BJNE000100315)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_4/BJNR004470962.html#BJNR004470962BJNE000200315)
 
 (1) Stellt ein Berufssoldat, der wegen Annahme der Wahl zu einer
 kommunalen Vertretungskörperschaft in den Ruhestand getreten ist, den
@@ -38,6 +40,7 @@ Verpflichtungszeit noch nicht abgelaufen ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_4/BJNR004470962.html#BJNR004470962BJNE000300315)
 
 Es treten in Kraft
 

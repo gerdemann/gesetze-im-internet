@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/genbkbeano/DDNR002510990.html#DDNR002510990BJNE000100314)
 
 Auf der Grundlage des § 11 des Gesetzes vom 19. Dezember 1974 über die
 Staatsbank der Deutschen Demokratischen Republik (GBl. I Nr. 62 S.
@@ -28,6 +29,7 @@ Gesetzes über die Staatsbank der Deutschen Demokratischen Republik
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/genbkbeano/DDNR002510990.html#DDNR002510990BJNE000200314)
 
 Die Allgemeinen Geschäftsbedingungen der Bank für Landwirtschaft und
 Nahrungsgüterwirtschaft der DDR gemäß Anordnung vom 17. November 1969
@@ -36,17 +38,20 @@ Geschäftsbedingungen der Genossenschaftsbank Berlin in Kraft.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/genbkbeano/DDNR002510990.html#DDNR002510990BJNE000300314)
 
 Diese Anordnung tritt am 1. April 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/genbkbeano/DDNR002510990.html#DDNR002510990BJNE000400314)
 
 **Der Präsident der Staatsbank der Deutschen Demokratischen Republik**
 
 Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1199)
+[Direktlink](https://www.gesetze-im-internet.de/genbkbeano/DDNR002510990.html#DDNR002510990BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

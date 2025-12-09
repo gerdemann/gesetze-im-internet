@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgffg/BJNR311510013.html#BJNR311510013BJNE000101119)
 
 (1) Der Bund fördert Investitionen in die Schienenwege der
 öffentlichen nicht bundeseigenen Eisenbahnen (Ersatz, Aus- und
@@ -132,6 +133,7 @@ Nr. 651/2014 tritt.
 
 
 ## § 2 Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/sgffg/BJNR311510013.html#BJNR311510013BJNE000201119)
 
 (1) Der Bund finanziert auf schriftlichen Antrag im Rahmen der zur
 Verfügung stehenden Haushaltsmittel einen Anteil von 50 Prozent der
@@ -189,6 +191,7 @@ für die gesamte Maßnahme (Bagatellgrenze).
 
 
 ## § 3 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgffg/BJNR311510013.html#BJNR311510013BJNE000301119)
 
 (1) Zur Finanzierung einer förderungsfähigen Investition erlässt die
 Bewilligungsbehörde schriftliche Zuwendungsbescheide nach Maßgabe
@@ -233,6 +236,7 @@ der Verordnung (EU) Nr. 651/2014 anzusehen sind.
 
 
 ## § 4 Erstattung von Investitionsmitteln des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/sgffg/BJNR311510013.html#BJNR311510013BJNE000401119)
 
 (1) Soweit die öffentlichen nicht bundeseigenen Eisenbahnen vom Bund
 anteilig finanzierte Anlagen im Sinne des § 2 Absatz 1 und 6

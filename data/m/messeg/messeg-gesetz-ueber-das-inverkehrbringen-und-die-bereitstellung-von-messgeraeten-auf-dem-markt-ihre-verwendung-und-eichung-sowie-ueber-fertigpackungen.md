@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000200000)
 
 Dieses Gesetz ist anzuwenden auf
 
@@ -52,6 +54,7 @@ Dieses Gesetz ist anzuwenden auf
 
 
 ### § 2 Allgemeine Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000300000)
 
 Im Sinne dieses Gesetzes und der auf seiner Grundlage ergangenen
 Rechtsverordnungen sind die folgenden Begriffsbestimmungen anzuwenden:
@@ -143,6 +146,7 @@ Rechtsverordnungen sind die folgenden Begriffsbestimmungen anzuwenden:
 
 
 ### § 3 Messgerätespezifische Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000400000)
 
 Im Sinne dieses Gesetzes und der auf seiner Grundlage ergangenen
 Rechtsverordnungen sind ferner folgende Begriffsbestimmungen
@@ -329,6 +333,7 @@ anzuwenden:
 
 
 ### § 4 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000500000)
 
 (1) Die Bundesregierung wird ermächtigt, zur Gewährleistung der
 Messrichtigkeit und Messbeständigkeit
@@ -371,6 +376,7 @@ Anwendung des Gesetzes ausgenommen sind, soweit dies mit den in Absatz
 
 
 ### § 5 Anwendung der Vorschriften über Messgeräte und Produkte
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000600000)
 
 Wenn in den nachfolgenden Abschnitten Regelungen für Messgeräte oder
 Produkte getroffen werden, sind diese in gleicher Weise anzuwenden auf
@@ -385,12 +391,15 @@ Produkte getroffen werden, sind diese in gleicher Weise anzuwenden auf
 
 
 ## Abschnitt 2 - Inverkehrbringen von Messgeräten und ihre Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000200000)
 
 
 ### Unterabschnitt 1 - Voraussetzungen für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000300000)
 
 
 #### § 6 Inverkehrbringen von Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000700000)
 
 (1) Vorbehaltlich des Unterabschnitts 4 dürfen Messgeräte nur in
 Verkehr gebracht werden, wenn die in den Absätzen 2 bis 5 genannten
@@ -428,6 +437,7 @@ und des Herstellers oder Einführers versehen sein.
 
 
 #### § 7 Vermutungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000801123)
 
 (1) Entspricht ein Messgerät
 
@@ -465,6 +475,7 @@ zuständigen Bundesministerium zu.
 
 
 #### § 8 Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE000900000)
 
 (1) Unterliegt ein Messgerät mehreren Rechtsvorschriften der
 Europäischen Union, in denen jeweils eine Konformitätserklärung
@@ -481,6 +492,7 @@ mit der Fundstelle im Bundesgesetzblatt anzugeben.
 
 
 #### § 9 Inverkehrbringen von sonstigen Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001000000)
 
 Sonstige Messgeräte dürfen nur in Verkehr gebracht werden, wenn sie
 mit den in einer Rechtsverordnung nach § 30 Nummer 4 bestimmten
@@ -488,6 +500,7 @@ Kennzeichen und Aufschriften versehen sind.
 
 
 #### § 10 Besondere Vorschriften für Ausstellungsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001100000)
 
 Messgeräte, die den Bestimmungen dieses Gesetzes nicht entsprechen,
 dürfen auf Messen, Ausstellungen und Vorführungen nur ausgestellt
@@ -498,9 +511,11 @@ entsprechen.
 
 
 ### Unterabschnitt 2 - Anerkennung und Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000400000)
 
 
 #### § 11 Aufgaben der anerkennenden Stelle und der Akkreditierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001202116)
 
 (1) Die Aufgaben der anerkennenden Stelle obliegen dem
 Bundesministerium für Wirtschaft und Energie. Es kann diese Aufgaben
@@ -561,6 +576,7 @@ Informationen für ihre Aufgabenerfüllung benötigen:
 
 
 #### § 12 Befugnisse der anerkennenden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001300000)
 
 (1) Die anerkennende Stelle kann von den
 Konformitätsbewertungsstellen, die sie zur Durchführung bestimmter
@@ -586,6 +602,7 @@ Ordnungswidrigkeiten aussetzen würde. Die Auskunftspflichtigen sind
 
 
 #### § 13 Anerkennung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001400000)
 
 (1) Eine Konformitätsbewertungsstelle, die die Übereinstimmung von
 Messgeräten mit den wesentlichen Anforderungen bewerten will, bedarf
@@ -662,6 +679,7 @@ verlangen.
 
 
 #### § 14 Konformitätsbewertungsstellen bei Behörden
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001501118)
 
 (1) Zur Bewertung, ob Messgeräte mit den wesentlichen Anforderungen
 übereinstimmen, dürfen auch Konformitätsbewertungsstellen tätig
@@ -718,6 +736,7 @@ personellen Möglichkeiten vorbehaltlich des Satzes 1 vorzunehmen.
 
 
 #### § 15 Anforderungen an die Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001602123)
 
 (1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit
 besitzen und nach dem Recht eines Mitgliedstaates gegründet sein.
@@ -861,6 +880,7 @@ unberührt.
 
 
 #### § 16 Vermutung der Kompetenz der Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001700000)
 
 (1) Weist eine Konformitätsbewertungsstelle nach, dass sie die
 Kriterien der einschlägigen harmonisierten Normen oder von Teilen
@@ -876,6 +896,7 @@ die Europäische Kommission.
 
 
 #### § 17 Notifizierung der Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001800000)
 
 (1) Betrifft die Anerkennung einer Konformitätsbewertungsstelle die
 Bewertung von Messgeräten, die vom Anwendungsbereich von
@@ -936,6 +957,7 @@ Kompetenz während der Tätigkeit der betreffenden Stelle.
 
 
 #### § 18 Vergabe von Kennnummern
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE001900000)
 
 (1) Die anerkennende Stelle vergibt an Konformitätsbewertungsstellen
 nach § 13 Absatz 1 oder § 14 Absatz 1, die nicht nach § 17 zu
@@ -955,6 +977,7 @@ Konformitätsbewertungsstelle nicht mehr gegeben ist.
 
 
 #### § 19 Verpflichtungen der anerkannten Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002001123)
 
 (1) Die anerkannte Konformitätsbewertungsstelle führt die
 Konformitätsbewertung im Einklang mit den Verfahren der
@@ -1004,6 +1027,7 @@ der anerkennenden Stelle zugewiesene Kennnummer an.
 
 
 #### § 20 Meldepflichten der anerkannten Konformitätsbewertungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002100000)
 
 (1) Die anerkannte Konformitätsbewertungsstelle meldet der
 anerkennenden Stelle unverzüglich
@@ -1036,6 +1060,7 @@ positiven Ergebnisse von Konformitätsbewertungen.
 
 
 #### § 21 Zweigunternehmen einer anerkannten Konformitätsbewertungsstelle und Vergabe von Unteraufträgen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002200000)
 
 (1) Vergibt die anerkannte Konformitätsbewertungsstelle bestimmte mit
 der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer
@@ -1061,6 +1086,7 @@ die anerkennende Stelle bereit.
 
 
 #### § 21a Akkreditierte interne Stelle
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006400123)
 
 (1) Eine akkreditierte interne Stelle kann bei
 Konformitätsbewertungstätigkeiten für das Unternehmen, dem sie
@@ -1105,6 +1131,7 @@ Stelle oder von der nationalen Akkreditierungsstelle zu übermitteln.
 
 
 #### § 22 Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002300000)
 
 (1) Stellt die anerkennende Stelle fest oder wird sie darüber
 informiert, dass eine nach § 13 Absatz 1 anerkannte
@@ -1126,9 +1153,11 @@ bereitgehalten werden.
 
 
 ### Unterabschnitt 3 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000500000)
 
 
 #### § 23 Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002401123)
 
 (1) Der Hersteller trägt die Verantwortung, dass die von ihm
 hergestellten Messgeräte nur in Verkehr gebracht oder von ihm für
@@ -1179,6 +1208,7 @@ bereits ergriffenen Maßnahmen.
 
 
 #### § 24 Pflichten des Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002501123)
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -1209,6 +1239,7 @@ Hersteller nicht auf einen Bevollmächtigten übertragen werden.
 
 
 #### § 25 Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002601123)
 
 (1) Der Einführer darf nur konforme Messgeräte in Verkehr bringen oder
 für eigene Zwecke in Betrieb nehmen.
@@ -1253,6 +1284,7 @@ auch den Hersteller zu informieren.
 
 
 #### § 26 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002700000)
 
 (1) Der Händler hat sicherzustellen, dass in Verkehr gebrachte
 Messgeräte von ihm nur auf dem Markt bereitgestellt oder für eigene
@@ -1295,9 +1327,11 @@ beeinträchtigt werden.
 
 
 ### Unterabschnitt 4 - Inverkehrbringen und Inbetriebnahme in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000600000)
 
 
 #### § 27 EG-Bauartzulassung und EG-Ersteichung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002800000)
 
 (1) Messgeräte, die nach den Vorschriften der Richtlinie 2009/34/EG
 des Europäischen Parlaments und des Rates vom 23. April 2009
@@ -1321,6 +1355,7 @@ erteilt.
 
 
 #### § 28 Messgeräte, die rechtmäßig im Ausland in Verkehr gebracht wurden
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE002901123)
 
 (1) Messgeräte, die
 
@@ -1352,6 +1387,7 @@ gebracht worden sind und zur Aufhebung der Verordnung (EG) Nr.
 
 
 #### § 29 Pflichten der Wirtschaftsakteure in den Fällen der §§ 27 und 28
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003000000)
 
 § 23 Absatz 3 bis 6, § 24 Absatz 2, § 25 Absatz 2 Nummer 3 und 4,
 Absatz 4 und 5 und § 26 Absatz 1 Satz 1 Nummer 2, Absatz 2 bis 4 sind
@@ -1359,9 +1395,11 @@ für die Fälle der §§ 27 und 28 entsprechend anzuwenden.
 
 
 ### Unterabschnitt 5 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000700000)
 
 
 #### § 30 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003100000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zur Gewährleistung der Messrichtigkeit,
@@ -1411,12 +1449,15 @@ der Europäischen Union Folgendes näher zu bestimmen:
 
 
 ## Abschnitt 3 - Verwenden von Messgeräten und Messwerten, Eichung von Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000800000)
 
 
 ### Unterabschnitt 1 - Verwenden von Messgeräten und Messwerten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG000900000)
 
 
 #### § 31 Anforderungen an das Verwenden von Messgeräten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003201123)
 
 (1) Verwendet werden dürfen ausschließlich Messgeräte oder sonstige
 Messgeräte, die den Bestimmungen dieses Gesetzes und der auf seiner
@@ -1452,9 +1493,11 @@ Rahmen der vorgesehenen Verwendungsbedingungen eingesetzt werden.
 
 
 #### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003302119)
 
 
 #### § 33 Anforderungen an das Verwenden von Messwerten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003401123)
 
 (1) Werte für Messgrößen dürfen im geschäftlichen oder amtlichen
 Verkehr oder bei Messungen im öffentlichen Interesse nur dann
@@ -1486,6 +1529,7 @@ bestätigen zu lassen, dass sie ihre Verpflichtungen erfüllt.
 
 
 #### § 34 Vermutungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003500000)
 
 Soweit der Verpflichtete Maßnahmen ergriffen hat, die von Regeln,
 technischen Spezifikationen oder Erkenntnissen abgedeckt sind, die vom
@@ -1505,6 +1549,7 @@ hat, wird vermutet, dass
 
 
 #### § 35 Ausnahmen für geschlossene Grundstücksnutzungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003600000)
 
 (1) Verwendet ein Vertragspartner Messgeräte im Rahmen geschäftlicher
 Zwecke zur Ermittlung leitungsgebundener Leistungen unter gleich
@@ -1553,6 +1598,7 @@ bleibt hiervon unberührt.
 
 
 #### § 36 Ausnahmen für bestimmte Verwendungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003701123)
 
 Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in
 der Rechtsverordnung nach § 41 Absatz 1 Nummer 5 Ausnahmen für
@@ -1580,9 +1626,11 @@ rechtfertigt. Dies ist insbesondere der Fall, wenn
 
 
 ### Unterabschnitt 2 - Eichung und Befundprüfung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001000000)
 
 
 #### § 37 Eichung und Eichfrist
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003803119)
 
 (1) Messgeräte dürfen nicht ungeeicht verwendet werden,
 
@@ -1706,6 +1754,7 @@ Die Eichfristen des jeweiligen Messgeräts bleiben hiervon unberührt.
 
 
 #### § 38 Verspätete Eichungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE003900000)
 
 Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der
 Eichfrist beantragt und das zur Eichung seinerseits Erforderliche
@@ -1720,6 +1769,7 @@ unverzüglich vornehmen.
 
 
 #### § 39 Befundprüfung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004001123)
 
 (1) Wer ein begründetes Interesse an der Messrichtigkeit darlegt, kann
 bei der Behörde nach § 40 Absatz 1 beantragen festzustellen, ob ein
@@ -1736,6 +1786,7 @@ beantragt werden.
 
 
 #### § 40 Zuständige Stellen für die Eichung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004101123)
 
 (1) Die Eichung wird von den nach Landesrecht zuständigen Behörden
 vorgenommen. Örtlich zuständig für die Eichung und sonstige Prüfung
@@ -1798,9 +1849,11 @@ Beauftragten nach § 56 zur Verfügung.
 
 
 ### Unterabschnitt 3 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001100000)
 
 
 #### § 41 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004202123)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Regelungen zu erlassen
@@ -1912,9 +1965,11 @@ werden.
 
 
 ## Abschnitt 4 - Fertigpackungen und andere Verkaufseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001200000)
 
 
 ### § 42 Begriffsbestimmungen für Fertigpackungen und andere Verkaufseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004300000)
 
 (1) Fertigpackungen im Sinne dieses Gesetzes sind Verpackungen
 beliebiger Art, in die in Abwesenheit des Käufers Erzeugnisse
@@ -1949,6 +2004,7 @@ merkliche Änderung der Verpackung nicht verändert werden kann.
 
 
 ### § 43 Anforderungen an Fertigpackungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004400000)
 
 (1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich des
 Gesetzes verbracht, in den Verkehr gebracht oder sonst auf dem Markt
@@ -1964,6 +2020,7 @@ als in ihnen enthalten ist.
 
 
 ### § 44 Verordnungsermächtigung für Fertigpackungen und andere Verkaufseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004501118)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen zum Schutz der
@@ -2029,9 +2086,11 @@ Vorschriften für andere Verkaufseinheiten zu erlassen.
 
 
 ## Abschnitt 5 - Aufgaben der Physikalisch-Technischen Bundesanstalt, Regelermittlungsausschuss, Rückführung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001300000)
 
 
 ### § 45 Aufgaben der Physikalisch-Technischen Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004600000)
 
 Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der
 Einheitlichkeit des gesetzlichen Messwesens
@@ -2052,6 +2111,7 @@ Einheitlichkeit des gesetzlichen Messwesens
 
 
 ### § 46 Regelermittlungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004701118)
 
 (1) Bei der Physikalisch-Technischen Bundesanstalt wird ein
 Regelermittlungsausschuss eingesetzt. Er hat die Aufgabe, auf der
@@ -2139,6 +2199,7 @@ des Bundesministeriums für Wirtschaft und Energie bedarf.
 
 
 ### § 47 Metrologische Rückführung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004800000)
 
 (1) Konformitätsbewertungsstellen, zuständige Behörden und staatlich
 anerkannte Prüfstellen haben zur Sicherung der Einheitlichkeit des
@@ -2154,12 +2215,15 @@ anderem Weg nicht möglich ist.
 
 
 ## Abschnitt 6 - Metrologische Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001400000)
 
 
 ### Unterabschnitt 1 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001500000)
 
 
 #### § 48 Zuständigkeit für die Marktüberwachung und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE004900000)
 
 (1) Die Überwachung der in Verkehr gebrachten Produkte
 (Marktüberwachung) obliegt den nach Landesrecht zuständigen Behörden,
@@ -2187,6 +2251,7 @@ des geltenden Rechts Betriebsgeheimnisse und personenbezogene Daten.
 
 
 #### § 49 Marktüberwachungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005000000)
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung
 auf der Grundlage eines Marktüberwachungskonzepts zu gewährleisten.
@@ -2216,6 +2281,7 @@ elektronischem Weg und gegebenenfalls in anderer Weise zur Verfügung.
 
 
 #### § 50 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005102123)
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Weise und in angemessenem Umfang, ob
@@ -2315,6 +2381,7 @@ im Einzelfall erforderlich ist.
 
 
 #### § 50a Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006500123)
 
 (1) Die Marktüberwachungsbehörde hat den betreffenden
 Wirtschaftsakteur aufzufordern, die Nichtkonformität zu korrigieren,
@@ -2362,6 +2429,7 @@ zurückgenommen wird.
 
 
 #### § 50b Risiko durch konforme Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006600123)
 
 (1) Stellt eine Marktüberwachungsbehörde fest, dass ein Messgerät oder
 ein sonstiges Messgerät ein Risiko für öffentliche Interessen
@@ -2392,6 +2460,7 @@ nach Absatz 1 unverzüglich umzusetzen.
 
 
 #### § 51 Adressaten der Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005201123)
 
 (1) Die Maßnahmen der Marktüberwachungsbehörden sind gegen den jeweils
 betroffenen Wirtschaftsakteur gerichtet. Maßnahmen gegen jede andere
@@ -2414,6 +2483,7 @@ bereitgestellt hat.
 
 
 #### § 52 Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005302123)
 
 (1) Soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, sind die
 Marktüberwachungsbehörden und ihre Beauftragten befugt, unbeschadet
@@ -2489,6 +2559,7 @@ Recht zur Auskunftsverweigerung zu belehren.
 
 
 #### § 53 Meldeverfahren, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005401000)
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme, durch die die
 Bereitstellung eines Messgeräts auf dem Markt untersagt oder
@@ -2515,9 +2586,11 @@ Kommunikationswege.
 
 
 ### Unterabschnitt 2 - Überwachung der Verwendung von Messgeräten und Messwerten
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001600000)
 
 
 #### § 54 Grundsätze der Verwendungsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005501123)
 
 (1) Die zuständigen Behörden kontrollieren anhand angemessener
 Stichproben auf geeignete Weise und in angemessenem Umfang, ob beim
@@ -2558,6 +2631,7 @@ soweit möglich, mit der Durchführung von Eichungen nach § 37.
 
 
 #### § 55 Maßnahmen der Verwendungsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005600000)
 
 (1) Die Behörden treffen die erforderlichen Maßnahmen, wenn sie den
 begründeten Verdacht haben, dass Messgeräte nicht entsprechend den
@@ -2602,6 +2676,7 @@ unberührt.
 
 
 #### § 56 Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Verwendungsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005701118)
 
 (1) Soweit es zum Zweck der Verwendungsüberwachung erforderlich ist,
 sind die Behörden und ihre Beauftragten befugt, zu den üblichen
@@ -2645,9 +2720,11 @@ Verpflichteten nach Satz 1 bis 4 entsprechend anzuwenden.
 
 
 ### Unterabschnitt 3 - Aufsicht über staatlich anerkannte Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001700000)
 
 
 #### § 57 Zuständigkeit und Maßnahmen im Rahmen der Aufsicht über staatlich anerkannte Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005800000)
 
 (1) Die Aufsicht über die staatlich anerkannten Prüfstellen führen die
 nach § 40 Absatz 1 zuständigen Behörden.
@@ -2682,6 +2759,7 @@ selbst durchführen oder durch einen anderen durchführen lassen.
 
 
 #### § 58 Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Überwachung staatlich anerkannter Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE005901118)
 
 (1) Soweit es zur Aufsicht erforderlich ist, sind die Behörden und
 ihre Beauftragten befugt, zu den üblichen Betriebs- und
@@ -2714,9 +2792,11 @@ vorzulegen. § 52 Absatz 5 Satz 4 und 5 ist entsprechend anzuwenden.
 
 
 ## Abschnitt 7 - Gebührenregelungen und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001800000)
 
 
 ### § 59 Gebühren und Auslagen der Landesbehörden, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006002118)
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben
@@ -2768,6 +2848,7 @@ nicht am festgesetzten Termin stattfinden konnte.
 
 
 ### § 60 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006103119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2939,6 +3020,7 @@ nach Absatz 1 Nummer 27 geahndet werden können.
 
 
 ### § 61 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006200000)
 
 Ist eine Ordnungswidrigkeit nach § 60 Absatz 1 begangen worden, so
 können Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht
@@ -2948,9 +3030,11 @@ Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## Abschnitt 8 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNG001900000)
 
 
 ### § 62 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/messeg/BJNR272300013.html#BJNR272300013BJNE006300000)
 
 (1) Messgeräte, die bis zum 31. Dezember 2014 nach den §§ 28a, 30 der
 Eichordnung vom 12. August 1988 (BGBl. I S. 1657), die zuletzt durch

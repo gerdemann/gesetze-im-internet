@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000100000)
 
 Auf Grund des § 14 Absatz 2 und 3 Satz 1, 3 und 4 in Verbindung mit §
 40 Absatz 4, § 66 Absatz 1 Satz 3 und § 68 Absatz 2 des
@@ -41,9 +42,11 @@ Spitzenverbände der Wertpapierinstitute:
 
 
 ## Abschnitt 1 - Einreichungsverfahren, Rechtsträgerkennung, Kreditanzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000100000)
 
 
 ### § 1 Einreichungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000300000)
 
 (1) Die Anzeigen und die Unterlagen, die nach dem
 Wertpapierinstitutsgesetz, der Delegierten Verordnung (EU) 2017/1943
@@ -76,6 +79,7 @@ auf ihrer jeweiligen Internetseite.
 
 
 ### § 2 Rechtsträgerkennung
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000400000)
 
 (1) Zur Identifizierung im Meldewesen benötigen die folgenden
 Unternehmen eine Rechtsträgerkennung:
@@ -131,6 +135,7 @@ Absätzen 1 und 3 bis 5 erfüllen.
 
 
 ### § 3 Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000500000)
 
 (1) Anzeigen nach § 64 Absatz 1 Nummer 12 und Absatz 2 des
 Wertpapierinstitutsgesetzes müssen Angaben über die Höhe und die Art
@@ -148,9 +153,11 @@ beschränkt.
 
 
 ## Abschnitt 2 - Anzeige von Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000200000)
 
 
 ### § 4 Anzeigen nach § 64 Absatz 1 Nummer 1, 2 oder 3, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1, 2, 4 oder 5 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000600000)
 
 (1) Das Formular „Anzeige über Personelle Veränderungen nach dem
 Wertpapierinstitutsgesetz“ nach Anlage 1 ist zu verwenden
@@ -212,6 +219,7 @@ einzureichen. Die Bundesanstalt kann im Einzelfall darauf verzichten.
 
 
 ### § 5 Lebenslauf als Anlage zu den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1 oder § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000700000)
 
 (1) Den Anzeigen nach § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1
 oder nach § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des
@@ -229,6 +237,7 @@ den letzten drei Jahren vor Abgabe der Anzeige ausgeübt wurden.
 
 
 ### § 6 Erklärungen nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000800000)
 
 (1) Den Informationen nach Artikel 4 Buchstabe a der Delegierten
 Verordnung (EU) 2017/1943 und Artikel 5 der Durchführungsverordnung
@@ -286,6 +295,7 @@ Abschluss der Verfahren sind beizufügen.
 
 
 ### § 7 Bestätigung durch das anzeigende Wertpapierinstitut
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE000900000)
 
 Mit Einreichung der nach den §§ 5 und 6 der Anzeige beizufügenden
 Unterlagen bestätigt das anzeigende Wertpapierinstitut, dass die
@@ -294,6 +304,7 @@ richtig sind.
 
 
 ### § 8 Führungszeugnis der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001000000)
 
 (1) Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten
 Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU)
@@ -331,6 +342,7 @@ Unterlagen in englischer Sprache verzichten.
 
 
 ### § 9 Auszug aus dem Gewerbezentralregister der nach Artikel 4 Buchstabe a der Delegierten Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU) 2017/1945, § 64 Absatz 1 Nummer 1, § 65 Absatz 1 Nummer 1, § 67 Absatz 2 Satz 1 Nummer 1 oder Nummer 4 des Wertpapierinstitutsgesetzes anzuzeigenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001100000)
 
 (1) Die in den Anzeigen nach Artikel 4 Buchstabe a der Delegierten
 Verordnung (EU) 2017/1943, Artikel 5 der Durchführungsverordnung (EU)
@@ -348,6 +360,7 @@ das Datum der Ausstellung des Registerauszuges.
 
 
 ### § 10 Ersatzperson im Verhinderungsfall
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001200000)
 
 Die Bestimmungen nach den §§ 4 bis 9 gelten auch für die Ermächtigung
 einer Ersatzperson nach Artikel 8 Absatz 1 Buchstabe c und d der
@@ -358,6 +371,7 @@ eine neue Ersatzperson, die diese Funktion ausübt, anzuzeigen.
 
 
 ### § 11 Anzeigen nach § 67 Absatz 1 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001300000)
 
 (1) Das Formular „Nebentätigkeiten von Geschäftsleitern eines
 Wertpapierinstituts oder von Personen, die die Geschäfte einer
@@ -384,9 +398,11 @@ Veräußerungserlös, einzureichen.
 
 
 ## Abschnitt 3 - Tätigkeit im Drittstaat und Auslagerungen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000300000)
 
 
 ### § 12 Anzeigen nach § 64 Absatz 1 Nummer 6 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001400000)
 
 (1) Die Anzeige nach § 64 Absatz 1 Nummer 6 des
 Wertpapierinstitutsgesetzes muss enthalten:
@@ -417,6 +433,7 @@ einzureichen.
 
 
 ### § 13 Anzeigen nach § 64 Absatz 1 Nummer 13 des Wertpapierinstitutsgesetzes (wesentliche Auslagerungen)
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001500000)
 
 (1) Anzeigen nach § 64 Absatz 1 Nummer 13 Variante 1 und 2 des
 Wertpapierinstitutsgesetzes über die Absicht und den Vollzug einer
@@ -672,9 +689,11 @@ Informationstechnologie-Dienstleistungen.
 
 
 ## Abschnitt 4 - Beteiligungsanzeigen, Vereinigungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000400000)
 
 
 ### § 14 Anzeigen nach § 64 Absatz 1 Nummer 11, § 65 Absatz 2 Nummer 1 oder nach § 67 Absatz 2 Satz 2 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001600000)
 
 (1) Einzelanzeigen von Wertpapierinstituten über aktivische
 Beteiligungsverhältnisse nach § 64 Absatz 1 Nummer 11 des
@@ -756,6 +775,7 @@ insbesondere zu Übernahmepreis und Veräußerungserlös, einzureichen.
 
 
 ### § 15 Anzeigen nach § 64 Absatz 1 Nummer 9 oder Absatz 4 Nummer 2 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001700000)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 64
 Absatz 1 Nummer 9 des Wertpapierinstitutsgesetzes sind mit dem
@@ -797,6 +817,7 @@ Schwesterunternehmen eine komplexe Beteiligungsstruktur im Sinne des §
 
 
 ### § 16 Anzeigen nach § 64 Absatz 1 Nummer 14 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001800000)
 
 Die Absicht eines Wertpapierinstituts, sich zu vereinigen, ist von dem
 beteiligten Wertpapierinstitut nach § 64 Absatz 1 Nummer 14 des
@@ -808,6 +829,7 @@ für den rechtlichen Vollzug der Vereinigung.
 
 
 ### § 17 Mitteilung über Unterlagen nach § 76 Absatz 1 Satz 1 des Wertpapierinstitutsgesetzes durch Kleine und Mittlere Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE001900000)
 
 Wird der geprüfte Jahresabschluss ohne Änderungen festgestellt, so
 genügt die Mitteilung hierüber mit dem Datum des Tages der
@@ -816,9 +838,11 @@ in diesem Fall nicht erforderlich.
 
 
 ## Abschnitt 5 - Erlaubnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000500000)
 
 
 ### § 18 Anzeigen und Vorlage von Unterlagen nach Artikel 2 der Durchführungsverordnung (EU) 2017/1945 in Verbindung mit der Delegierten Verordnung (EU) 2017/1943 bei Anträgen auf Erlaubnis nach § 15 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002000000)
 
 (1) Anträge und Unterlagen nach Artikel 2 der Durchführungsverordnung
 (EU) 2017/1945 für das Erlaubnisverfahren nach § 15 des
@@ -893,9 +917,11 @@ Versagung der beantragten Erlaubnis bestehen.
 
 
 ## Abschnitt 6 - Finanzinformationen und Meldungen nach der Verordnung (EU) 2019/2033
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNG000600000)
 
 
 ### § 19 Einreichung von Finanzinformationen nach § 66 Absatz 2 des Wertpapierinstitutsgesetzes bei der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002100000)
 
 (1) Für die Einreichung von Finanzinformationen nach § 66 Absatz 2 des
 Wertpapierinstitutsgesetzes haben die Kleinen und Mittleren
@@ -929,6 +955,7 @@ die zu verwendenden Datenformate und den Übertragungsweg.
 
 
 ### § 20 Einreichung von Millionenkreditanzeigen nach § 66 Absatz 1 des Wertpapierinstitutsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002200000)
 
 Hinsichtlich der Einreichung von Millionenkreditanzeigen nach § 66
 Absatz 1 des Wertpapierinstitutsgesetzes finden die Bestimmungen des
@@ -938,6 +965,7 @@ entsprechende Anwendung.
 
 
 ### § 21 Meldungen nach Artikel 54 oder Artikel 55 der Verordnung (EU) 2019/2033
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002300000)
 
 Meldungen nach Artikel 54 Absatz 1 und 2 und Artikel 55 Absatz 1 oder
 Absatz 2 der Verordnung (EU) 2019/2033 sind bei der Deutschen
@@ -947,6 +975,7 @@ kann auf die Weiterleitung bestimmter Meldungen verzichten.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -954,6 +983,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Formular WpI-PV
 
 ### Anlage 1 Anzeige über Personelle Veränderungen nach dem Wertpapierinstitutsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 13 - 15)
 
@@ -1321,6 +1351,7 @@ Wertpapierinstitutsgesetzes)
 Formular WpI-NT
 
 ### Anlage 2 Nebentätigkeiten von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 16 - 17)
 
@@ -1636,6 +1667,7 @@ Formular WpI-NT
 Formular WpI-BG
 
 ### Anlage 3 Beteiligungen von Geschäftsleitern eines Wertpapierinstituts oder von Personen, die die Geschäfte einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft tatsächlich führen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 18 - 19)
 
@@ -2021,6 +2053,7 @@ Formular WpI-BG
 Formular WpI-ZM
 
 ### Anlage 4 Angaben zur Zuverlässigkeit und Mindestzeit gemäß Artikel 4 der Delegierten Verordnung (EU) 2017/1943
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 20 - 22)
 
@@ -2405,6 +2438,7 @@ Datenverarbeitung\_node.html
 Formular WpI-ZD
 
 ### Anlage 5 Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE002900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 23 - 24)
 
@@ -2737,6 +2771,7 @@ Formular WpI-ZD
 Formular WpI-AB
 
 ### Anlage 6 Aktivische Beteiligungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE003000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 25 - 27)
 
@@ -3256,6 +3291,7 @@ einem stillen Beteiligungsverhältnis, Unterbeteiligung.
 Formular WpI-KB
 
 ### Anlage 7 Darstellung komplexer Beteiligungsstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE003100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 28 - 29)
 
@@ -3608,6 +3644,7 @@ zu machen.
 Formular WpI-PB
 
 ### Anlage 8 Passivische Beteiligungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE003200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 30 - 32)
 
@@ -4121,6 +4158,7 @@ einem stillen Beteiligungsverhältnis, Unterbeteiligung.
 Formular WpI-GVWI
 
 ### Anlage 9 Finanzinformationen gemäß § 66 Absatz 2 WpIG – Gewinn- und Verlustrechnung –
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE003300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 33 - 35)
 
@@ -4866,6 +4904,7 @@ Formular WpI-GVWI
 Formular WpI-STWI
 
 ### Anlage 10 Finanzinformationen gemäß § 66 Absatz 2 WpIG – Vermögensstatus –
+[Direktlink](https://www.gesetze-im-internet.de/wpi-anzv/BJNR15D0A0023.html#BJNR15D0A0023BJNE003400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 349, S. 36 - 38)
 

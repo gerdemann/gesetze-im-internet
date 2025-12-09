@@ -30,6 +30,7 @@ Art. 2 §§ 1 bis 8 (nach aufhebung der angabe "artikel 2" durch
 
 
 ## § 1 - Zuständigkeiten und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000400377)
 
 Das Bundeskriminalamt ist zuständige Behörde im Rahmen der Verordnung
 (EU) 2016/794 des Europäischen Parlaments und des Rates vom 11. Mai
@@ -56,6 +57,7 @@ Mitwirkung im Einvernehmen mit dieser Stelle wahr.
 
 
 ## § 2 - Gemeinsame Vorschriften für die Informationsverarbeitung im Zusammenhang mit Europol
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000502311)
 
 (1) Polizei- und Zollbehörden sowie die mit der Steuerfahndung
 betrauten Dienststellen der Landesfinanzbehörden sind nach Maßgabe des
@@ -107,6 +109,7 @@ zusammenhängen, tätig werden.
 
 
 ## § 3 - Informationsverarbeitung bei Europol zu Zwecken des Abgleichs und der Analyse
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000602311)
 
 (1) Unbeschadet des § 1 Nr. 1 sind die Behörden der Bundespolizei und
 des Zollfahndungsdienstes, die Polizeien der Länder sowie die mit der
@@ -149,6 +152,7 @@ zu führen sind.
 
 
 ## § 4 - Anwendung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000702311)
 
 (1) Soweit dieses Gesetz keine besonderen Regelungen trifft, gelten
 die Befugnisse und Verpflichtungen des Bundeskriminalamts als
@@ -169,6 +173,7 @@ entsprechend.
 
 
 ## § 5 - Datenschutzkontrolle und Haftung
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000800377)
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit nimmt die Aufgaben der nationalen Kontrollbehörde
@@ -212,6 +217,7 @@ Bundesrepublik Deutschland zum Ausgleich verpflichtet.
 
 
 ## § 6 - Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/europolg/BJNR215029997.html#BJNR215029997BJNG000900377)
 
 (1) Das Bundesministerium des Innern benennt ein Mitglied nach Artikel
 10 Absatz 1 Satz 1 der Verordnung (EU) 2016/794 und ein

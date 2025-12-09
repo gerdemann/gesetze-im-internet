@@ -22,15 +22,18 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000301116)
 
 Diese Verordnung regelt den Aufstieg in den höheren nichttechnischen
 Verwaltungsdienst des Bundes über das Studium „Master of Public
@@ -41,6 +44,7 @@ nichttechnischen Verwaltungsdienstes.
 
 
 ### § 2 Studienziele
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000401116)
 
 Das Masterstudium vermittelt die wissenschaftlichen Methoden und
 Kenntnisse, die für die Erfüllung der Aufgaben im höheren
@@ -51,12 +55,14 @@ Herausforderungen der Bundesverwaltung gerecht zu werden.
 
 
 ### § 3 Akademischer Grad
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000500000)
 
 Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 „Master of Public Administration“ verliehen.
 
 
 ### § 4 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000601116)
 
 Zum Studium können Beamtinnen und Beamte zugelassen werden, die die
 Laufbahnbefähigung für den gehobenen nichttechnischen
@@ -68,9 +74,11 @@ bleibt unberührt.
 
 
 ## Abschnitt 2 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNG000200000)
 
 
 ### § 5 Dauer des Studiums, Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000701116)
 
 (1) Die Regelstudienzeit beträgt fünf Semester. Für das erfolgreich
 abgeschlossene Studium werden 120 Leistungspunkte vergeben.
@@ -93,6 +101,7 @@ Dienstpflichten freizustellen.
 
 
 ### § 6 Anerkennung von Studien- und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000801116)
 
 Studien- und Prüfungsleistungen, die an anderen staatlichen oder
 staatlich anerkannten Hochschulen in oder außerhalb der Bundesrepublik
@@ -108,6 +117,7 @@ die auf der Internetseite der Hochschule veröffentlicht wird.
 
 
 ### § 7 Studieninhalte, Module
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE000901116)
 
 (1) Das Studium gliedert sich in Pflicht- und Wahlmodule.
 
@@ -142,6 +152,7 @@ der Hochschule veröffentlicht.
 
 
 ### § 8 Leitung des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001001116)
 
 Die wissenschaftliche und organisatorische Leitung des Studiums
 obliegt der Hochschule. Sie ist zuständig für alle Aufgaben, die in
@@ -171,6 +182,7 @@ zuständig für
 
 
 ### § 9 Modulkoordination
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001101116)
 
 (1) Die Hochschule bestellt für jedes Modul mindestens eine
 Modulkoordinatorin oder einen Modulkoordinator.
@@ -209,15 +221,18 @@ Vorsitzendem.
 
 
 ## Abschnitt 3 - Masterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNG000300000)
 
 
 ### § 10 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001201116)
 
 Für die Organisation und Durchführung der Masterprüfung richtet die
 Hochschule ein Prüfungsamt ein.
 
 
 ### § 11 Prüfende, Prüfungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001301116)
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der
 Modulprüfungen. Es richtet für die mündliche Verteidigung der
@@ -260,6 +275,7 @@ Wiederbestellung ist zulässig.
 
 
 ### § 12 Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001400000)
 
 (1) Die Masterprüfung besteht aus den Modulprüfungen. In jedem Modul
 ist eine Prüfung abzulegen.
@@ -293,6 +309,7 @@ gegeben.
 
 
 ### § 13 Masterarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001501116)
 
 (1) Durch die Masterarbeit sollen die Studierenden nachweisen, dass
 sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
@@ -327,6 +344,7 @@ die angegebenen Quellen und Hilfsmittel benutzt haben.
 
 
 ### § 14 Mündliche Verteidigung der Masterarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001601116)
 
 (1) Zur mündlichen Verteidigung der Masterarbeit wird zugelassen, wer
 die Masterarbeit mit mindestens fünf Rangpunkten bestanden hat.
@@ -349,6 +367,7 @@ protokolliert.
 
 
 ### § 15 Bewertung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001700000)
 
 (1) Prüfungen werden mit Rangpunkten und Noten, Prüfungsteile werden
 nur mit Rangpunkten bewertet.
@@ -475,6 +494,7 @@ Rangpunkten bewertet worden ist.
 
 
 ### § 16 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001800000)
 
 (1) Bleibt eine Studierende oder ein Studierender ohne Genehmigung
 durch das Prüfungsamt einer Prüfung oder einem Prüfungsteil fern oder
@@ -500,6 +520,7 @@ einem anderen Thema erneut begonnen werden.
 
 
 ### § 17 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE001900000)
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung
 versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen,
@@ -524,6 +545,7 @@ den Absätzen 2 und 3 anzuhören.
 
 
 ### § 18 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002001116)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Ist auch die Wiederholung erfolglos, ist das Studium beendet. Für die
@@ -542,6 +564,7 @@ beendet.
 
 
 ### § 19 Bestehen der Masterprüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002100000)
 
 (1) Die Masterprüfung ist bestanden, wenn die Modulprüfungen jeweils
 mit mindestens fünf Rangpunkten bewertet worden sind.
@@ -564,6 +587,7 @@ abgerundet.
 
 
 ### § 20 Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002201116)
 
 (1) Wer die Masterprüfung bestanden hat, erhält ein Abschlusszeugnis,
 ein Diploma Supplement, ein Transcript of Records und eine
@@ -625,6 +649,7 @@ Leistungspunkte hervorgehen.
 
 
 ### § 21 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002301116)
 
 (1) Die schriftlichen Prüfungsleistungen nach § 12, die Masterarbeit,
 das Protokoll der mündlichen Verteidigung sowie eine Ausfertigung des
@@ -638,9 +663,11 @@ Einsicht in ihre Prüfungsakten nehmen.
 
 
 ## Abschnitt 4 - Berufspraktische Einführung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNG000400000)
 
 
 ### § 22 Berufspraktische Einführung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002400000)
 
 (1) In einer berufspraktischen Einführung sollen die Beamtinnen und
 Beamten nachweisen, dass sie die Eignung und Befähigung für den
@@ -660,9 +687,11 @@ hat.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNG000500000)
 
 
 ### § 23 Gasthörerinnen und Gasthörer
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002501116)
 
 (1) Beschäftigte des Bundes können in Abstimmung mit ihrer
 Dienstbehörde als Gasthörerinnen und Gasthörer zu den Modulen
@@ -674,6 +703,7 @@ Ausbildungsnachweis aus.
 
 
 ### § 24 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mpafhbundv/BJNR049700011.html#BJNR049700011BJNE002601116)
 
 Für Studierende, die vor dem 1. Mai 2016 mit dem Studium begonnen
 haben, ist die Verordnung über den Aufstieg in den höheren

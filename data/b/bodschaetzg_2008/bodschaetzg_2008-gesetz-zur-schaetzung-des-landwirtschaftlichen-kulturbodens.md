@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNG000100000)
 
 
 ### § 1 Umfang und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000200000)
 
 (1) Zweck der Bodenschätzung ist es, für die Besteuerung der
 landwirtschaftlich nutzbaren Flächen des Bundesgebiets einheitliche
@@ -50,6 +52,7 @@ werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000300000)
 
 (1) Zu den landwirtschaftlich nutzbaren Flächen im Sinne des § 1
 gehören die folgenden Nutzungsarten:
@@ -108,9 +111,11 @@ abweichenden Nutzungsart ist zusätzlich in den Schätzungsbüchern und
 
 
 ## Abschnitt 2 - Besondere Schätzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNG000200000)
 
 
 ### § 3 Schätzungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000400000)
 
 Grundlage für eine einheitliche Beurteilung der natürlichen
 Ertragsfähigkeit der Böden im Bundesgebiet ist
@@ -128,6 +133,7 @@ Bewirtschaftung zum Ausdruck bringen.
 
 
 ### § 4 Wertzahlen
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000500000)
 
 (1) Bei der Ermittlung der Wertzahlen sind alle die natürliche
 Ertragsfähigkeit beeinflussenden Umstände, insbesondere beim Ackerland
@@ -154,6 +160,7 @@ Grünland-Streuwiesen werden nur die Grünlandzahlen festgelegt.
 
 
 ### § 5 Klassen-, Klassenabschnitts- und Sonderflächen der Bodenschätzung
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000600000)
 
 Flächen, die sich in Bodenbeschaffenheit, Geländegestaltung,
 klimatischen Verhältnissen und Wasserverhältnissen wesentlich
@@ -166,6 +173,7 @@ Sonderflächen berücksichtigt.
 
 
 ### § 6 Musterstücke
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000700000)
 
 (1) Zur Sicherung der Gleichmäßigkeit der Bodenschätzung werden
 ausgewählte Bodenflächen als Musterstücke geschätzt. Die Gesamtheit
@@ -183,6 +191,7 @@ genannten Musterstücke im Bundesgesetzblatt bekannt zu machen.
 
 
 ### § 7 Vergleichsstücke
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000800000)
 
 In jeder Gemarkung sind für die wichtigsten und besonders typischen
 Böden Vergleichsstücke auszuwählen und zu beschreiben. Die Schätzung
@@ -191,6 +200,7 @@ Musterstücke durchzuführen.
 
 
 ### § 8 Bodenprofile
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE000900000)
 
 Die Bodenbeschaffenheit der Klassen- und Klassenabschnittsflächen ist
 anhand eines für die jeweilige Klasse und den jeweiligen
@@ -200,6 +210,7 @@ und Vergleichsstücke zu schätzen.
 
 
 ### § 9 Ertragsmesszahl
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001000000)
 
 (1) Die Ertragsmesszahl drückt die natürliche Ertragsfähigkeit einer
 bodengeschätzten Fläche aus. Sie ist das Produkt einer Fläche in Ar
@@ -212,6 +223,7 @@ die Ertragsmesszahl der Gesamtfläche.
 
 
 ### § 10 Schätzungsbücher und -karten
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001100000)
 
 (1) In den Schätzungsbüchern sind festzuhalten:
 
@@ -256,6 +268,7 @@ die Ertragsmesszahl der Gesamtfläche.
 
 
 ### § 11 Nachschätzung
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001200000)
 
 (1) Wenn sich die natürlichen Ertragsbedingungen, die den
 Bodenschätzungsergebnissen einzelner Bodenflächen zugrunde liegen,
@@ -270,9 +283,11 @@ landwirtschaftliche Nutzung ergibt, sind zu erfassen.
 
 
 ## Abschnitt 3 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNG000300000)
 
 
 ### § 12 Anwendung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001302123)
 
 Sofern dieses Gesetz keine andere Regelung trifft, finden der Dritte
 Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis
@@ -283,6 +298,7 @@ entsprechend anzuwenden.
 
 
 ### § 13 Offenlegung der Bodenschätzungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001401123)
 
 (1) Die Ergebnisse der Bodenschätzung sind den Eigentümern und
 Nutzungsberechtigten durch Offenlegung bekannt zu geben.
@@ -303,6 +319,7 @@ Satz 4 der Abgabenordnung gilt dabei entsprechend.
 
 
 ### § 14 Übernahme in das Liegenschaftskataster
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001500000)
 
 (1) Nach Bestandskraft sind die Bodenschätzungsergebnisse sowie die
 Lage und Bezeichnung der Bodenprofile (§ 8) unverzüglich in das
@@ -317,6 +334,7 @@ Liegenschaftskataster besonders zu kennzeichnen.
 
 
 ### § 15 Betreten von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001600000)
 
 Die Eigentümer und Nutzungsberechtigten der Grundstücke sind
 verpflichtet, den mit der Durchführung dieses Gesetzes Beauftragten
@@ -328,6 +346,7 @@ Gemarkung ist in ortsüblicher Weise bekannt zu geben.
 
 
 ### § 16 Aufgaben anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001700000)
 
 Zur Durchführung der Bodenschätzung sind die nach Landesrecht
 zuständigen Behörden verpflichtet, die erforderlichen Grundlagen
@@ -335,9 +354,11 @@ bereitzustellen.
 
 
 ## Abschnitt 4 - Schätzungsbeirat, Schätzungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNG000400000)
 
 
 ### § 17 Schätzungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001802123)
 
 (1) Zur Schätzung der Musterstücke und zur Vorbereitung der
 Bekanntgabe in einer Rechtsverordnung (§ 6 Abs. 3) wird beim
@@ -389,6 +410,7 @@ die Sachausgaben des Schätzungsbeirats allgemeinverbindlich zu regeln.
 
 
 ### § 18 Schätzungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE001900000)
 
 (1) Zur Durchführung der Bodenschätzung und Ermittlung der
 Schätzungsergebnisse werden bei den Finanzämtern Schätzungsausschüsse
@@ -418,9 +440,11 @@ ausgewählt und eingestuft werden.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNG000500000)
 
 
 ### § 19 Nutzung der Ergebnisse der Bodenschätzung durch andere Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE002000000)
 
 Die Ergebnisse und Daten der Bodenschätzung können anderen Behörden
 zur Erfüllung ihrer Aufgaben übermittelt und von ihnen genutzt werden.
@@ -429,6 +453,7 @@ Bestimmungen.
 
 
 ### § 20 Fortgeltung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE002100000)
 
 Die in der Anlage zu § 1 der Verordnung vom 20. April 2000 (BGBl. I S.
 642) aufgeführten Musterstücke behalten bis zum Erlass einer
@@ -438,6 +463,7 @@ Gültigkeit.
 
 
 ### Anlage 1 Ackerschätzungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE002200000)
 
 (Fundstelle: BGBl. I 2007, 3180 - 3181)
 
@@ -1202,6 +1228,7 @@ Zustandsstufe 4, Entstehungsart Alluvium, Bodenzahl 65, Ackerzahl 70.
 
 
 ### Anlage 2 Grünlandschätzungsrahmen
+[Direktlink](https://www.gesetze-im-internet.de/bodsch_tzg_2008/BJNR317600007.html#BJNR317600007BJNE002300000)
 
 (Fundstelle: BGBl. I 2007, 3182 - 3183)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000100000)
 
 Auf Grund des § 3 Absatz 6 und des § 23 Absatz 3 des
 Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von
@@ -31,12 +32,14 @@ für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000200000)
 
 Diese Verordnung regelt den Zugang zum Beruf des Unternehmers im
 Güterkraftverkehr.
 
 
 ## § 2 Persönliche Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000301123)
 
 (1) Der Unternehmer und der Verkehrsleiter im Sinne des Artikels 4 der
 Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des
@@ -126,6 +129,7 @@ anfordern.
 
 
 ## § 3 Finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000400000)
 
 Der Unternehmer besitzt die erforderliche finanzielle
 Leistungsfähigkeit, wenn er die Voraussetzungen des Artikels 7 der
@@ -133,6 +137,7 @@ Verordnung (EG) Nr. 1071/2009 erfüllt.
 
 
 ## § 4 Fachliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000500000)
 
 Fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der
 Verordnung (EG) Nr. 1071/2009 ist, wer über die Kenntnisse verfügt,
@@ -143,6 +148,7 @@ geltenden Fassung aufgeführt sind.
 
 
 ## § 5 Fachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000600000)
 
 (1) Die fachliche Eignung im Sinne des § 4 wird durch eine Prüfung
 nachgewiesen, die sich aus zwei schriftlichen und einem mündlichen
@@ -193,6 +199,7 @@ versehen.
 
 
 ## § 6 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000700000)
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer
 abgelegt, die einen Prüfungsausschuss errichtet.
@@ -224,6 +231,7 @@ andernfalls wirtschaftliche Nachteile entstehen.
 
 
 ## § 7 Gleichwertige Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000800000)
 
 (1) Als Prüfungen der fachlichen Eignung gelten auch die in der Anlage
 4 der bis zum 31. Dezember 2011 geltenden Fassung der
@@ -247,6 +255,7 @@ Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus.
 
 
 ## § 8 Übergangsregelung für die Anerkennung leitender Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE000900000)
 
 (1) Die fachliche Eignung für den Güterkraftverkehr kann auch durch
 eine mindestens zehnjährige leitende Tätigkeit in einem Unternehmen,
@@ -269,6 +278,7 @@ Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr.
 
 
 ## § 9 Geltungsumfang beschränkter Fachkundebescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001000000)
 
 (1) Bescheinigungen über den Nachweis der fachlichen Eignung, die bis
 zum Inkrafttreten der Fünften Verordnung zur Änderung von
@@ -284,6 +294,7 @@ jeweils geltenden Fassung aus.
 
 
 ## § 10 Erlaubnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001102123)
 
 (1) Bei der Stellung eines Antrags nach § 3 des
 Güterkraftverkehrsgesetzes sind gegenüber der nach Landesrecht
@@ -424,6 +435,7 @@ Erlaubnisurkunde und deren Ausfertigungen unverzüglich vorzulegen.
 
 
 ## § 11 Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001200000)
 
 (1) Die nach Landesrecht zuständigen Behörden kontrollieren die
 Unternehmen nach Maßgabe des Artikels 12 der Verordnung (EG) Nr.
@@ -444,6 +456,7 @@ Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001300000)
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des
 Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -466,6 +479,7 @@ Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Berufszugangsverordnung für den
@@ -475,11 +489,13 @@ geändert worden ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 10 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/gbzugv_2011/BJNR312000011.html#BJNR312000011BJNE001600000)
 
 (Fundstelle: BGBl. I 2011, 3124 - 3125)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet, auch
 in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes
@@ -82,9 +83,11 @@ vom 16. August 2002 (BGBl. L. S. 3165) und dem Organisationserlass vom
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000301119)
 
 Diese Verordnung dient der Durchführung
 
@@ -133,6 +136,7 @@ Diese Verordnung dient der Durchführung
 
 
 ### § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000402119)
 
 (1) Soweit in dieser Verordnung oder den in § 1 Nummer 4 und 5
 genannten Vorschriften nichts anderes bestimmt ist, sind für die
@@ -191,6 +195,7 @@ bezieht auf
 
 
 ### § 3 Landwirtschaftliche Parzelle
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000501119)
 
 (1) Eine landwirtschaftliche Parzelle ist ein Schlag. Ein Schlag ist
 eine zusammenhängende landwirtschaftliche Fläche, die von einem
@@ -234,6 +239,7 @@ Parzelle gelten.
 
 
 ### § 4 Gewährung von Zahlungen bei Übertragung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000600000)
 
 Sofern ein Betrieb nach dem Einreichen des Sammelantrags und vor
 Erfüllung aller Voraussetzungen für die Gewährung der Zahlungen
@@ -245,9 +251,11 @@ sind.
 
 
 ## Abschnitt 2 - System zur Identifizierung landwirtschaftlicher Parzellen; Flächenüberwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000200000)
 
 
 ### § 5 System zur Identifizierung landwirtschaftlicher Parzellen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000701119)
 
 (1) Die Landesregierungen haben durch Rechtsverordnung nach § 17
 Absatz 1 Satz 2 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des GAP-
@@ -309,6 +317,7 @@ einen Baum eine Fläche von 10 Quadratmetern zugrunde zu legen.
 
 
 ### § 6 Flächenüberwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000800000)
 
 Das Flächenüberwachungssystem ist bei allen Direktzahlungen nach § 1
 Nummer 4 Buchstabe a bis d anzuwenden. Die Landesregierungen können
@@ -321,9 +330,11 @@ ist.
 
 
 ## Abschnitt 3 - Sammelantrag
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000300000)
 
 
 ### § 7 Sammelantrag; Ermächtigung zur Abfrage weiterer Angaben
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE000901119)
 
 (1) Der Betriebsinhaber hat im Sammelantrag anzugeben, welche
 Direktzahlungen er beantragt. Der Betriebsinhaber hat hierzu die in
@@ -340,6 +351,7 @@ zur Überprüfung der Antragsangaben erforderlich ist.
 
 
 ### § 8 Geodatenbasiertes und tierbezogenes Antragssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001000000)
 
 (1) Die zuständige Behörde hat dem Betriebsinhaber für den
 Sammelantrag bereitzustellen:
@@ -399,6 +411,7 @@ Härte abschließend darzulegen sind.
 
 
 ### § 9 Betriebsbezogene Angaben
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001101119)
 
 Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
@@ -455,6 +468,7 @@ Der Betriebsinhaber hat im Sammelantrag anzugeben:
 
 
 ### § 10 Angaben zum aktiven Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001203119)
 
 (1) Der Betriebsinhaber hat im Sammelantrag mindestens einen der in §
 8 Nummer 1 bis 7 der GAP-Direktzahlungen-Verordnung genannten Fälle
@@ -494,6 +508,7 @@ Beitragszahlung oder, soweit dieser noch nicht vorliegt, ein Beleg
 
 
 ### § 11 Flächenbezogene Angaben
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001302119)
 
 (1) Der Betriebsinhaber hat unter Angabe der von der zuständigen
 Behörde vorgesehenen Nutzungscodes folgende Informationen im
@@ -620,6 +635,7 @@ liegen.
 
 
 ### § 12 Besondere Angaben zu Agroforstsystemen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001401119)
 
 Sofern der Betriebsinhaber im Sammelantrag eine landwirtschaftliche
 Fläche mit einem Agroforstsystem im Sinne des § 4 Absatz 2 und 3 der
@@ -659,6 +675,7 @@ beigefügt werden.
 
 
 ### § 13 Besondere Angaben bei einem Antrag auf Zahlungen für Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001501119)
 
 Sofern der Betriebsinhaber Zahlungen für eine Öko-Regelung oder
 mehrere Öko-Regelungen beantragt, hat er im Sammelantrag zusätzlich
@@ -731,6 +748,7 @@ folgende Angaben zu machen und folgende Erklärungen beizufügen:
 
 
 ### § 14 Besondere Angaben bei einem Antrag auf gekoppelte Einkommensstützungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001602119)
 
 (1) Sofern der Betriebsinhaber die Zahlung für Mutterschafe und
 -ziegen beantragt, hat er im Sammelantrag zusätzlich folgende Angaben
@@ -772,6 +790,7 @@ hat er im Sammelantrag zusätzlich beizufügen:
 
 
 ### § 15 Besondere Angaben und Unterlagen bei Anbau von Nutzhanf
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001702119)
 
 (1) Sofern der Betriebsinhaber Direktzahlungen für Flächen beantragt,
 auf denen Hanf angebaut werden soll, hat er mit dem Sammelantrag
@@ -806,6 +825,7 @@ Saatgut, das von mehreren Betriebsinhabern verwendet wurde, so
 
 
 ### § 16 Besondere Angaben bei Anbau von Hopfen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001800000)
 
 Sofern der Betriebsinhaber Hopfenerzeuger ist, hat er im Sammelantrag
 zusätzlich anzugeben,
@@ -821,6 +841,7 @@ zusätzlich anzugeben,
 
 
 ### § 17 Besondere Angaben bei Niederwald mit Kurzumtrieb
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE001901119)
 
 Sofern der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im
 Sinne des § 6 Absatz 3 der GAP-Direktzahlungen-Verordnung im
@@ -842,6 +863,7 @@ gemacht hat und diese weiterhin zutreffen.
 
 
 ### § 18 Erklärung bei Beantragung der Umverteilungseinkommensstützung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002000000)
 
 Sofern der Betriebsinhaber die Umverteilungseinkommensstützung
 beantragt, hat er im Sammelantrag für den Fall, dass er seinen Betrieb
@@ -852,6 +874,7 @@ Umverteilungseinkommensstützung zu erhalten.
 
 
 ### § 19 Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung außer im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002101119)
 
 (1) Sofern der Betriebsinhaber eine natürliche Person ist und kein
 Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
@@ -961,6 +984,7 @@ der Beantragung der Junglandwirte-Einkommensstützung
 
 
 ### § 20 Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002201119)
 
 (1) Sofern der Betriebsinhaber die Junglandwirte-Einkommensstützung
 nach Artikel 50 der Verordnung (EU) Nr.1307/2013 in der Fassung vom
@@ -1005,6 +1029,7 @@ Einkommensstützung zusätzlich
 
 
 ### § 21 Besondere Angaben hinsichtlich der Einhaltung der Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002302119)
 
 (1) Der Betriebsinhaber hat im Sammelantrag hinsichtlich der
 Konditionalität zusätzlich anzugeben:
@@ -1064,6 +1089,7 @@ die Kontrolle ihrer Einhaltung durchzuführen.
 
 
 ### § 22 Änderung des Sammelantrags
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002402119)
 
 (1) Der einheitliche letzte Termin nach Artikel 7 der
 Durchführungsverordnung (EU) 2022/1173 zur Änderung oder vollständigen
@@ -1080,6 +1106,7 @@ zulässig.
 
 
 ### § 23 Berichtigung offensichtlicher Irrtümer
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002500000)
 
 Vom Begünstigten vorgelegte Beihilfeanträge sowie Belege können
 jederzeit nach ihrer Einreichung berichtigt und angepasst werden, wenn
@@ -1090,9 +1117,11 @@ hat.
 
 
 ## Abschnitt 4 - Meldungen über Hopfen; Vorgaben zu Hanf
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000400000)
 
 
 ### § 24 Meldungen über Hopfenflächen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002601119)
 
 Die Bundesanstalt hat den anerkannten Erzeugerorganisationen im
 Hopfensektor vor dem 30. September jedes Jahres die nach § 16
@@ -1108,6 +1137,7 @@ Hopfengesetzes erlassenen Verordnung verwenden.
 
 
 ### § 25 Erntetermin und Kontrollen beim Anbau von Hanf
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002701119)
 
 (1) Hanf darf, ausgenommen auf den nach Satz 2 festgelegten
 Parzellenteilen, ab Beginn der Blüte auch vor Ablauf von zehn Tagen
@@ -1139,6 +1169,7 @@ nach Abschluss der Vegetationsperiode geerntet werden.
 
 
 ### § 26 Nicht förderfähige Hanfsorten; Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002800000)
 
 Die Bundesanstalt hat die Hanfsorten, im Falle deren Anbaus eine
 Fläche nach § 11 Absatz 2 Nummer 2 der GAP-Direktzahlungen-Verordnung
@@ -1148,6 +1179,7 @@ bei Anbau dieser Sorten keine Direktzahlungen mehr gewährt werden.
 
 
 ### § 27 Mitteilungspflichten der Länder und der Bundesstellen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE002903119)
 
 (1) Die Länder haben, soweit der Anbau von Hopfen und Hanf betroffen
 ist, dem Bundesministerium für Ernährung und Landwirtschaft die zur
@@ -1192,12 +1224,15 @@ Anbaus von Hopfen durchgeführten Kontrollen zu unterrichten.
 
 
 ## Abschnitt 5 - Kontrollverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000500000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000600000)
 
 
 #### § 28 Verwaltungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003001119)
 
 (1) Die Verwaltungskontrollen haben sich unter Zuhilfenahme der zur
 Verfügung stehenden Datenbanken auf alle Elemente zu erstrecken, die
@@ -1260,6 +1295,7 @@ unberücksichtigt zu bleiben.
 
 
 #### § 29 Ermittlung der Flächengröße
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003101119)
 
 (1) Die Flächengrößen sind im Rahmen der Verwaltungskontrollen zu
 ermitteln. Ergänzend soll eine Flächenvermessung vor Ort nur erfolgen,
@@ -1281,6 +1317,7 @@ ermitteln.
 
 
 #### § 30 Unterrichtungspflichten der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003200000)
 
 Die zuständige Behörde hat den Betriebsinhaber zu unterrichten, sofern
 nach durch Kontrollen gewonnenen Informationen Fördervoraussetzungen
@@ -1289,6 +1326,7 @@ Möglichkeit zur Änderung oder Rücknahme nach § 22 hinzuweisen.
 
 
 #### § 31 Kontrollbericht
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003300000)
 
 (1) Über jede Vor-Ort-Kontrolle nach §§ 34 und 36 ist ein
 Kontrollbericht zu erstellen. Der Kontrollbericht umfasst insbesondere
@@ -1315,9 +1353,11 @@ ist der Betriebsinhaber zu informieren.
 
 
 ### Unterabschnitt 2 - Ergänzende Kontrollen durch das Flächenüberwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000700000)
 
 
 #### § 32 Kontrollen durch das Flächenüberwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003402119)
 
 (1) Das Flächenüberwachungssystem ist anzuwenden zur Kontrolle der
 flächenbezogenen Direktzahlungen. Die zuständige Behörde hat die
@@ -1362,6 +1402,7 @@ Direktzahlungen erfolgen.
 
 
 #### § 33 Vor-Ort-Kontrollen bei dem Flächenüberwachungssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003500000)
 
 (1) Vor-Ort-Kontrollen können angekündigt werden, sofern dies ihrem
 Zweck oder ihrer Wirksamkeit nicht zuwiderläuft. Die Ankündigungsfrist
@@ -1378,9 +1419,11 @@ auf das erforderliche Mindestmaß zu begrenzen.
 
 
 ### Unterabschnitt 3 - Ergänzende Kontrollen für die gekoppelten Einkommensstützungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000800000)
 
 
 #### § 34 Kontrollen bei gekoppelten Einkommensstützungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003602119)
 
 (1) Die Fördervoraussetzungen der gekoppelten Einkommensstützungen
 sind für jede der gekoppelten Einkommensstützungen durch eine
@@ -1411,6 +1454,7 @@ unberücksichtigt.
 
 
 #### § 35 Gegenstand der Vor-Ort-Kontrollen bei gekoppelten Einkommensstützungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003700000)
 
 (1) Die Vor-Ort-Kontrollen bei den gekoppelten Einkommensstützungen
 haben bei mindestens 50 Prozent der nach § 34 ausgewählten
@@ -1438,9 +1482,11 @@ angekündigt werden.
 
 
 ### Unterabschnitt 4 - Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG000900000)
 
 
 #### § 36 Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003800000)
 
 (1) Soweit flächenbezogene Direktzahlungen nicht nach Unterabschnitt 2
 durch das Flächenüberwachungssystem kontrolliert werden, sind sie nach
@@ -1489,6 +1535,7 @@ soll 14 Kalendertage nicht überschreiten.
 
 
 #### § 37 Kontrollen durch Fernerkundung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE003900000)
 
 Führt die zuständige Behörde Kontrollen durch Fernerkundung durch, so
 muss sie
@@ -1515,6 +1562,7 @@ muss sie
 
 
 #### § 38 Mindestkontrollsatz
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004000000)
 
 Bei flächenbezogenen Direktzahlungen hat sich die Kontrolle nach
 diesem Unterabschnitt zu erstrecken auf mindestens
@@ -1541,6 +1589,7 @@ diesem Unterabschnitt zu erstrecken auf mindestens
 
 
 #### § 39 Auswahl der Kontrollstichproben
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004100000)
 
 Die Auswahl der Betriebsinhaber und Flächen nach § 38 für eine
 Kontrollstichprobe hat zu einem von der zuständigen Behörde
@@ -1550,9 +1599,11 @@ auf Basis einer Risikoanalyse auszuwählen.
 
 
 ## Abschnitt 6 - Mitwirkungspflichten des Betriebsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG001000000)
 
 
 ### § 40 Vorhalten von Nachweisen durch den Betriebsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004202119)
 
 (1) Der Betriebsinhaber ist verpflichtet, für die Kontrollen der Öko-
 Regelungen folgende Nachweise vorzuhalten:
@@ -1612,6 +1663,7 @@ für:
 
 
 ### § 41 Informations-, Mitwirkungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004301119)
 
 (1) Der Betriebsinhaber ist verpflichtet, jede Veränderung, die dazu
 führt, dass die tatsächlichen oder rechtlichen Verhältnisse nicht mehr
@@ -1742,9 +1794,11 @@ von Dauergrünland berücksichtigen.
 
 
 ## Abschnitt 7 - Berechnung der Direktzahlungen, Kürzungen und Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG001100000)
 
 
 ### § 42 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004401119)
 
 (1) Ermittelte Flächen und ermittelte Tiere für eine Direktzahlung, im
 Fall der Öko-Regelung nach § 20 Absatz 1 Nummer 1 des GAP-
@@ -1792,6 +1846,7 @@ wird.
 
 
 ### § 42a Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005501119)
 
 (1) Ein im Betrieb vorhandenes Rind, das eines der beiden
 Kennzeichnungsmittel verloren hat, gilt insoweit auch als ermittelt,
@@ -1849,6 +1904,7 @@ Antragsjahres nachweist.
 
 
 ### § 43 Sanktion bei der Nichtanmeldung aller Flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004500000)
 
 Der Gesamtbetrag der dem Betriebsinhaber für ein bestimmtes Jahr im
 Rahmen von flächenbezogenen Direktzahlungen zu gewährenden Zahlungen
@@ -1877,6 +1933,7 @@ ist um drei Prozent zu kürzen (Nichtanmeldungssanktion), sofern
 
 
 ### § 44 Sanktionen bei Übererklärungen bei flächenbezogenen Direktzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004600000)
 
 (1) Ist die im Sammelantrag für eine Direktzahlung angemeldete Fläche
 größer als die ermittelte Fläche und ist der Unterschied größer als
@@ -1921,6 +1978,7 @@ für Gruppe 1 abgezogen.
 
 
 ### § 45 Sanktionen bei gekoppelten Einkommensstützungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004700000)
 
 (1) Ist die im Sammelantrag angemeldete Anzahl der Tiere für die
 Zahlung für Mutterschafe und -ziegen oder die Zahlung für Mutterkühe
@@ -1959,6 +2017,7 @@ kürzen, sofern und soweit
 
 
 ### § 46 Verspätete Einreichung des Sammelantrags
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004801119)
 
 (1) Jede Direktzahlung ist zu kürzen, sofern der Sammelantrag nach
 Ablauf der in § 6 Absatz 1 des GAP-Integriertes Verwaltungs- und
@@ -1976,6 +2035,7 @@ abzulehnen.
 
 
 ### § 47 Reihenfolge der Abzüge
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE004901119)
 
 (1) Die Sanktionen nach den §§ 43 bis 46 sind für die jeweilige
 Direktzahlung, im Fall des § 20 Absatz 1 Nummer 1 des GAP-
@@ -2007,6 +2067,7 @@ ergebenden Betrag angewandt.
 
 
 ### § 48 Grenzwerte und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005000000)
 
 (1) Der Schwellenwert nach
 § 14 Absatz 1 Nummer 2 des GAP-Integriertes Verwaltungs- und
@@ -2032,6 +2093,7 @@ Abschnitt 3 der GAP-Konditionalitäten-Verordnung anzuwenden ist.
 
 
 ### § 49 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005100000)
 
 Zu Unrecht gezahlte Beträge können mit anderen Zahlungen des gleichen
 Jahres oder der Folgejahre, die von der zuständigen Zahlstelle an den
@@ -2039,20 +2101,24 @@ Betriebsinhaber zu leisten sind, aufgerechnet werden.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNG001200000)
 
 
 ### § 50 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005300000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 5 Absatz 2)
 
 ### Anlage Flächenidentifikator (16 Stellen)
+[Direktlink](https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html#BJNR635300022BJNE005400000)
 
 (Fundstelle: BAnz AT 19.12.2022 V1)
 

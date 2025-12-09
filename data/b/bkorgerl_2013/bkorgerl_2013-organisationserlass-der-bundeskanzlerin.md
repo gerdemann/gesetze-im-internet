@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000200000)
 
 Es erhalten
 
@@ -52,6 +54,7 @@ Es erhalten
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000300000)
 
 Dem Bundesministerium für Wirtschaft und Energie werden übertragen
 
@@ -78,6 +81,7 @@ ein.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000400000)
 
 Dem Bundesministerium der Justiz und für Verbraucherschutz wird aus
 dem Geschäftsbereich des Bundesministeriums für Ernährung und
@@ -91,6 +95,7 @@ ein.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000500000)
 
 Dem Bundesministerium für Verkehr und digitale Infrastruktur werden
 aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und
@@ -113,6 +118,7 @@ ein.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000600000)
 
 Dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit werden aus dem Geschäftsbereich des
@@ -134,6 +140,7 @@ ein.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000700000)
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
@@ -141,6 +148,7 @@ Bundeskanzleramtes mitgeteilt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2013/BJNR431000013.html#BJNR431000013BJNE000800000)
 
 Die Bundeskanzlerin
 

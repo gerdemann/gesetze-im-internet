@@ -24,12 +24,15 @@ Stand: Ersetzt V 707-27 v. 23.12.2016 I 3413 (FFG 2017)
 
 
 ## Teil 1 - Aufbau und Organisation der Filmförderungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000100000)
 
 
 ### Kapitel 1 - Rechtsform und Aufgaben der Filmförderungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000200000)
 
 
 #### § 1 Filmförderungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000300000)
 
 (1) Die Filmförderungsanstalt fördert als bundesweit tätige
 Filmförderungseinrichtung die Struktur der deutschen Filmwirtschaft
@@ -44,6 +47,7 @@ Satzung ändern.
 
 
 #### § 2 Aufgaben der Filmförderungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000400000)
 
 Die Filmförderungsanstalt hat die Aufgabe,
 
@@ -98,6 +102,7 @@ Die Filmförderungsanstalt hat die Aufgabe,
 
 
 #### § 3 Aufgabenerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000500000)
 
 (1) Die Filmförderungsanstalt gewährt Förderhilfen nach Maßgabe des
 Teils 3 Kapitel 1 bis 4.
@@ -122,6 +127,7 @@ ausländische Filmprojekte zu unterstützen.
 
 
 #### § 4 Dienstleistungen für andere Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000600000)
 
 (1) Die Filmförderungsanstalt soll gegen Erstattung der Kosten
 Aufgaben der Film- und Medienförderung für die für Kultur und Medien
@@ -137,12 +143,15 @@ Organisationen ergeben.
 
 
 ### Kapitel 2 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000300000)
 
 
 #### Abschnitt 1 - Organe
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000400000)
 
 
 ##### § 5 Organe der Filmförderungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000700000)
 
 Organe der Filmförderungsanstalt sind
 
@@ -159,9 +168,11 @@ Organe der Filmförderungsanstalt sind
 
 
 ##### Unterabschnitt 1 - Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000500000)
 
 
 ###### § 6 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000800000)
 
 (1) Der Verwaltungsrat besteht aus 36 Mitgliedern. Die Mitglieder
 werden wie folgt benannt:
@@ -310,6 +321,7 @@ für den Rest der Amtszeit eine Nachfolge benannt.
 
 
 ###### § 7 Berufung, Amtszeit, Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE000900000)
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde beruft
 die Mitglieder des Verwaltungsrats und die stellvertretenden
@@ -328,6 +340,7 @@ Verwaltungsrats sind unabhängig und an Weisungen nicht gebunden.
 
 
 ###### § 8 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001000000)
 
 Der Verwaltungsrat wählt aus seiner Mitte eine Person, die den Vorsitz
 innehat, und eine Person, die den stellvertretenden Vorsitz innehat.
@@ -336,6 +349,7 @@ geschlechtergerecht besetzt sein.
 
 
 ###### § 9 Beschlussfähigkeit, Verfahren, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001100000)
 
 (1) Der Verwaltungsrat entscheidet durch Beschlussfassung der
 Mitglieder in einer Sitzung. Er ist beschlussfähig, wenn mindestens 19
@@ -365,6 +379,7 @@ Bundesbehörde.
 
 
 ###### § 10 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001200000)
 
 (1) Der Verwaltungsrat beschließt über alle grundsätzlichen Fragen,
 die zum Aufgabenbereich der Filmförderungsanstalt gehören,
@@ -385,6 +400,7 @@ enthält keinen Verzicht auf Ersatzansprüche.
 
 
 ###### § 11 Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001300000)
 
 (1) Der Verwaltungsrat kann Regelungen durch Richtlinien nach Maßgabe
 dieses Gesetzes treffen. Dies betrifft insbesondere
@@ -423,6 +439,7 @@ durch die für Kultur und Medien zuständige oberste Bundesbehörde.
 
 
 ###### § 12 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001400000)
 
 (1) Der Verwaltungsrat kann Ausschüsse bilden, wenn dem eine Mehrheit
 von zwei Dritteln seiner Mitglieder zustimmt.
@@ -436,6 +453,7 @@ regelmäßig.
 
 
 ###### § 13 Förderkommissionen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001500000)
 
 (1) Der Verwaltungsrat kann für Entscheidungen über Förderhilfen nach
 § 3 Absatz 2 Förderkommissionen einsetzen, wenn dem eine Mehrheit von
@@ -466,6 +484,7 @@ Allgemeinen Bestimmungen in Teil 3 Kapitel 1 entsprechen.
 
 
 ###### § 14 Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001600000)
 
 (1) Steht ein Mitglied des Verwaltungsrats zu einem Dritten in einem
 persönlichen Näheverhältnis oder in vertraglichen oder
@@ -483,9 +502,11 @@ hat.
 
 
 ##### Unterabschnitt 2 - Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000600000)
 
 
 ###### § 15 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001700000)
 
 (1) Das Präsidium setzt sich aus den folgenden zehn Personen zusammen:
 
@@ -543,12 +564,14 @@ oder gewählt. Die Absätze 1 und 2 gelten entsprechend.
 
 
 ###### § 16 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001800000)
 
 Die Präsidiumsmitglieder werden jeweils für die Dauer ihrer
 Mitgliedschaft im Verwaltungsrat benannt oder gewählt.
 
 
 ###### § 17 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE001900000)
 
 Den Vorsitz des Präsidiums führt die Person, die den Vorsitz des
 Verwaltungsrats innehat. Das Präsidium wählt aus seiner Mitte eine
@@ -556,6 +579,7 @@ Person, die den stellvertretenden Vorsitz innehat.
 
 
 ###### § 18 Beschlussfähigkeit, Verfahren, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002000000)
 
 (1) Das Präsidium entscheidet durch Beschlussfassung der Mitglieder in
 einer Sitzung. Es ist beschlussfähig, wenn mindestens sechs Mitglieder
@@ -590,6 +614,7 @@ Bundesbehörde.
 
 
 ###### § 19 Aufgaben, Rechte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002100000)
 
 (1) Das Präsidium überwacht die Tätigkeit des Vorstands. Dies gilt
 auch für das Handeln des Vorstands bei Beteiligungen nach § 3 Absatz
@@ -607,14 +632,17 @@ Vorstand.
 
 
 ###### § 20 Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002200000)
 
 § 14 gilt für die Mitglieder des Präsidiums entsprechend.
 
 
 ##### Unterabschnitt 3 - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000700000)
 
 
 ###### § 21 Bestellung, Stellvertretung, Amtszeit, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002300000)
 
 (1) Der Vorstand besteht aus einer Person. Die Stellvertretung wird
 mit mindestens einer Person besetzt. Der Vorstand und die
@@ -645,6 +673,7 @@ oberste Bundesbehörde.
 
 
 ###### § 22 Aufgaben, Rechte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002400000)
 
 (1) Der Vorstand führt die Geschäfte der Filmförderungsanstalt in
 eigener Verantwortung nach Maßgabe der Beschlüsse des Präsidiums und
@@ -673,6 +702,7 @@ sind.
 
 
 ###### § 23 Förderentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002500000)
 
 (1) Der Vorstand entscheidet, soweit in diesem Gesetz nichts
 Abweichendes geregelt ist, über Förderhilfen für die Erfüllung der
@@ -721,6 +751,7 @@ Bundesbehörde.
 
 
 ###### § 24 Entscheidungen zu Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002600000)
 
 (1) Der Vorstand entscheidet über Anträge zu Sperrfristen nach den §§
 55 bis 58.
@@ -731,50 +762,60 @@ befassen.
 
 
 ###### § 25 Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002700000)
 
 § 14 gilt für den Vorstand und die zur Stellvertretung bestellte
 Person entsprechend.
 
 
 #### Abschnitt 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000800000)
 
 (weggefallen)
 
 
 ##### § 26
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002800000)
 
 (weggefallen)
 
 
 ##### § 27
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE002900000)
 
 (weggefallen)
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003000000)
 
 (weggefallen)
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003100000)
 
 (weggefallen)
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003200000)
 
 (weggefallen)
 
 
 ##### § 31
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003300000)
 
 (weggefallen)
 
 
 ### Kapitel 3 - Satzung, Haushalt, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG000900000)
 
 
 #### § 32 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003400000)
 
 (1) Die Satzung der Filmförderungsanstalt regelt, soweit dieses Gesetz
 keine Bestimmung trifft und die haushaltsrechtlichen Vorschriften des
@@ -820,6 +861,7 @@ die für Kultur und Medien zuständige oberste Bundesbehörde.
 
 
 #### § 33 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003500000)
 
 (1) Der Verwaltungsrat stellt jährlich vor Beginn des
 Wirtschaftsjahres einen Wirtschaftsplan nach den Grundsätzen der
@@ -844,6 +886,7 @@ Verwaltungsrats.
 
 
 #### § 34 Haushalts- und Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003600000)
 
 (1) Der Wirtschaftsplan ist nach den Grundsätzen der Sparsamkeit und
 Wirtschaftlichkeit auszuführen.
@@ -865,6 +908,7 @@ werden, wenn
 
 
 #### § 35 Rücklagen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003700000)
 
 (1) Zur Sicherung ihrer Haushaltswirtschaft und zur Erfüllung ihrer
 Aufgaben kann die Filmförderungsanstalt Rücklagen bilden. Von den bei
@@ -883,6 +927,7 @@ Stimmen, mindestens aber mit der Mehrheit seiner Mitglieder.
 
 
 #### § 36 Stundung, Niederschlagung und Erlass von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003800000)
 
 (1) Für die Stundung, die Niederschlagung und den Erlass von
 Ansprüchen der Filmförderungsanstalt gilt, soweit in diesem Gesetz
@@ -897,6 +942,7 @@ erheblicher finanzieller Bedeutung niederschlagen kann.
 
 
 #### § 37 Rechnungslegung und Prüfung der Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE003900000)
 
 (1) Die Filmförderungsanstalt hat über alle Einnahmen und Ausgaben
 sowie über das Vermögen und die Schulden der Filmförderungsanstalt im
@@ -925,6 +971,7 @@ Anwendung.
 
 
 #### § 38 Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004000000)
 
 (1) Die Filmförderungsanstalt veröffentlicht die für die Tätigkeit im
 Geschäftsjahr gewährten Bezüge des Vorstands sowie der zur
@@ -942,6 +989,7 @@ berichten.
 
 
 #### § 39 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004100000)
 
 (1) Die Filmförderungsanstalt untersteht der Rechtsaufsicht der für
 Kultur und Medien zuständigen obersten Bundesbehörde. Die
@@ -959,9 +1007,11 @@ selbst durchzuführen.
 
 
 ## Teil 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001000000)
 
 
 ### § 40 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004200000)
 
 (1) Ein Film ist programmfüllend, wenn er eine Vorführdauer von
 mindestens 79 Minuten, bei Kinderfilmen von mindestens 59 Minuten hat.
@@ -1027,15 +1077,19 @@ Endverbraucher vermarkten.
 
 
 ## Teil 3 - Förderungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001100000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001200000)
 
 
 #### Abschnitt 1 - Förderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001300000)
 
 
 ##### § 41 Förderfähigkeit von Filmproduktionen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004300000)
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes für die
 Herstellung, den Absatz und die Digitalisierung von Filmen gewährt,
@@ -1159,6 +1213,7 @@ Gesamtwürdigung des Films dies rechtfertigt.
 
 
 ##### § 42 Förderfähigkeit internationaler Koproduktionen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004400000)
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die
 Herstellung, den Absatz und die Digitalisierung von Filmen gewährt,
@@ -1268,6 +1323,7 @@ und der Film
 
 
 ##### § 43 Förderfähigkeit internationaler Kofinanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004500000)
 
 (1) Filme, die mit mindestens einem Hersteller mit Wohnsitz oder Sitz
 außerhalb des Geltungsbereiches dieses Gesetzes hergestellt werden
@@ -1300,6 +1356,7 @@ gewährt werden, wenn
 
 
 ##### § 44 Besondere Fördervoraussetzungen bei internationalen Koproduktionen und Kofinanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004600000)
 
 (1) Für internationale Koproduktionen gemäß § 42 oder internationale
 Kofinanzierungen gemäß § 43 werden Förderhilfen nur gewährt, wenn der
@@ -1366,6 +1423,7 @@ des Herstellers gemäß § 41 Absatz 1 Nummer 1 überschreiten.
 
 
 ##### § 45 Nicht förderfähige Filme
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004700000)
 
 Referenzfilme, neue Filme oder Filmvorhaben sind nicht förderfähig,
 wenn sie verfassungsfeindliche oder gesetzwidrige Inhalte enthalten,
@@ -1375,6 +1433,7 @@ verletzen.
 
 
 ##### § 46 Barrierefreie Fassung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004800000)
 
 (1) Förderhilfen für die Herstellung von Filmen dürfen nur gewährt
 werden, wenn alle Endfassungen des Films in barrierefreier Fassung
@@ -1408,6 +1467,7 @@ Vorhabens dies rechtfertigt.
 
 
 ##### § 47 Beihilfeintensität; Unionsrechtskonformität
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE004900000)
 
 (1) Förderhilfen nach diesem Gesetz dürfen die jeweils zulässige
 Beihilfehöchstintensität von Förderhilfen gemäß Artikel 53 Absatz 6
@@ -1428,6 +1488,7 @@ geltenden Regelungen vornehmen.
 
 
 ##### § 48 Ausschluss von der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005000000)
 
 (1) Förderhilfen dürfen nicht gewährt werden, sofern die
 antragstellende Person von der Förderung ausgeschlossen ist.
@@ -1461,6 +1522,7 @@ nachgekommen sind.
 
 
 ##### § 49 Archivierung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005100000)
 
 (1) Der Hersteller gemäß § 41 Absatz 1 Nummer 1 oder der Verleiher
 eines nach diesem Gesetz geförderten Films oder eines Referenzfilms
@@ -1480,9 +1542,11 @@ und filmbildnerische Zwecke zur Verfügung gestellt werden.
 
 
 #### Abschnitt 2 - Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001400000)
 
 
 ##### § 50 Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005200000)
 
 (1) Auf Antrag des Herstellers gemäß § 41 Absatz 1 Nummer 1 stellt das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle eine Bescheinigung
@@ -1506,6 +1570,7 @@ des Films.
 
 
 ##### § 51 Vorläufige Projektbescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005300000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann auf Antrag
 des Herstellers gemäß § 41 Absatz 1 Nummer 1 durch eine vorläufige
@@ -1522,15 +1587,18 @@ Drehbeginn zu stellen.
 
 
 #### Abschnitt 3 - Weitere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001500000)
 
 
 ##### § 52 Zweckbindung der Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005400000)
 
 Die Fördermittel sind ausschließlich für den bestimmten Förderzweck zu
 verwenden.
 
 
 ##### § 53 Abtretung und Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005500000)
 
 (1) Ansprüche auf Gewährung oder Auszahlung von Fördermitteln sind zum
 Zweck der Zwischenfinanzierung der jeweils geförderten Maßnahme an
@@ -1542,9 +1610,11 @@ und der Förderzweck der Maßnahme hierdurch nicht gefährdet wird.
 
 
 #### Abschnitt 4 - Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001600000)
 
 
 ##### § 54 Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005600000)
 
 (1) Wer Produktions- oder Verleihfördermittel nach diesem Gesetz in
 Anspruch nimmt, darf den mit diesen Mitteln hergestellten oder
@@ -1580,6 +1650,7 @@ Werbezwecken, stellt keine Sperrfristverletzung dar.
 
 
 ##### § 55 Ordentliche Verkürzung der Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005700000)
 
 (1) Sofern filmwirtschaftliche Belange dem nicht entgegenstehen, kann
 die Sperrfrist nach § 54 Absatz 2 Satz 1 Nummer 2 auf Antrag in
@@ -1606,6 +1677,7 @@ filmwirtschaftlichen Interesse liegt.
 
 
 ##### § 56 Außerordentliche Verkürzung der Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005800000)
 
 In besonders begründeten Ausnahmefällen können die Sperrfristen nach §
 54 Absatz 2 auf Antrag über die in § 55 Absatz 1 genannten Fälle
@@ -1615,6 +1687,7 @@ Schutzinteressen der Kinowirtschaft vereinbar ist.
 
 
 ##### § 57 Ersetzung der regulären Erstaufführung und Fortsetzung der weiteren Kinoauswertung in Fällen höherer Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE005900000)
 
 (1) In besonders begründeten Ausnahmefällen kann die reguläre
 Erstaufführung im Kino auf Antrag durch eine Online-Erstaufführung auf
@@ -1647,6 +1720,7 @@ maßgeblich an den Einnahmen zu beteiligen.
 
 
 ##### § 58 Nichtanwendung der Sperrfristenregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006000000)
 
 (1) § 54 findet auf Antrag des Herstellers gemäß § 41 Absatz 1 Nummer
 1 keine Anwendung, wenn
@@ -1673,6 +1747,7 @@ einen anderen Film gestellt hat.
 
 
 ##### § 59 Verletzung der Sperrfristen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006100000)
 
 (1) Werden die Sperrfristen verletzt, so hat die Filmförderungsanstalt
 den Förderbescheid ganz oder teilweise auch mit Wirkung für die
@@ -1691,6 +1766,7 @@ Verwaltungsakt festzusetzen.
 
 
 ##### § 60 Ermächtigung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006200000)
 
 (1) Von den §§ 54 bis 56 kann durch Richtlinie gemäß § 11 abgewichen
 werden. Abweichend von § 11 Absatz 2 beschließt der Verwaltungsrat
@@ -1706,15 +1782,19 @@ bestimmen.
 
 
 ### Kapitel 2 - Produktionsförderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001700000)
 
 
 #### Abschnitt 1 - Produktionsförderung für programmfüllende Filme
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001800000)
 
 
 ##### Unterabschnitt 1 - Zuerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG001900000)
 
 
 ###### § 61 Förderhilfen, Referenzpunkte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006300000)
 
 (1) Die Filmförderungsanstalt gewährt Produktionsförderung auf Antrag
 des Herstellers eines programmfüllenden Films, wenn der Film
@@ -1739,6 +1819,7 @@ Drittel der Mitglieder des Verwaltungsrats zustimmen.
 
 
 ###### § 62 Zuschauererfolg
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006400000)
 
 Die Referenzpunktzahl aus dem Zuschauererfolg entspricht bei
 programmfüllenden Filmen der Besucherzahl im Zeitraum eines Jahres
@@ -1746,6 +1827,7 @@ nach der Erstaufführung.
 
 
 ###### § 63 Punktwertung bei Talent-, Kinder- und Dokumentarfilmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006500000)
 
 (1) Handelt es sich bei einem programmfüllenden Film um einen Talent-,
 einen Kinder- oder einen Dokumentarfilm, der nach Maßgabe des § 62
@@ -1762,6 +1844,7 @@ Mitglieder des Verwaltungsrats zustimmen.
 
 
 ###### § 64 Erfolge bei Festivals und Preisen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006600000)
 
 (1) Erfolge bei Festivals und Preisen können mit 25 000 bis 200 000
 Referenzpunkten bewertet werden.
@@ -1791,12 +1874,14 @@ Erfolgs oder der Auszeichnung berücksichtigt.
 
 
 ###### § 65 Richtlinie zur Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006700000)
 
 Die Filmförderungsanstalt legt durch Richtlinie gemäß § 11
 Förderanreize zur Gleichstellung von Frauen und Männern fest.
 
 
 ###### § 66 Einbeziehung von Filmen aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006800000)
 
 Ist die Gegenseitigkeit verbürgt, so können in die
 Produktionsförderung jährlich bis zu drei Filme aus anderen
@@ -1808,6 +1893,7 @@ berücksichtigt.
 
 
 ###### § 67 Art und Höhe der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE006900000)
 
 (1) Produktionsförderung für programmfüllende Filme wird als Zuschuss
 gewährt.
@@ -1820,6 +1906,7 @@ Drittel der Mitglieder des Verwaltungsrats zustimmen.
 
 
 ###### § 68 Verteilung der Referenzmittel
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007000000)
 
 (1) Die für die Förderung nach diesem Abschnitt zur Verfügung
 stehenden Mittel werden auf die hierfür qualifizierten Filme nach dem
@@ -1833,6 +1920,7 @@ Kalenderjahren mindestens 10 000 Referenzpunkte ergeben.
 
 
 ###### § 69 Aufteilung der Referenzmittel auf die Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007100000)
 
 (1) Von den einem programmfüllenden Film zuerkannten Referenzmitteln
 erhalten
@@ -1862,6 +1950,7 @@ zum Zeitpunkt der Antragstellung nach § 61 Absatz 1 vorliegen.
 
 
 ###### § 70 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007200000)
 
 (1) Antragsberechtigt ist der Hersteller gemäß § 41 Absatz 1 Nummer 1.
 Zum Zweck der Aufteilung der Referenzmittel auf alle Berechtigten sind
@@ -1880,6 +1969,7 @@ antragsberechtigt sind zudem Hochschulen.
 
 
 ###### § 71 Antragsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007300000)
 
 (1) Mit Antragstellung ist nachzuweisen, dass der Referenzfilm die
 jeweils geltenden Voraussetzungen der §§ 41 bis 45 erfüllt.
@@ -1888,6 +1978,7 @@ jeweils geltenden Voraussetzungen der §§ 41 bis 45 erfüllt.
 
 
 ###### § 72 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007400000)
 
 Der Antrag ist spätestens drei Monate nach Verstreichen der Zeiträume
 nach § 62 und § 64 Absatz 4 zu stellen. Nach Ablauf des 1. März
@@ -1897,6 +1988,7 @@ jeweilige Kalenderjahr nicht mehr berücksichtigt. Die Frist nach Satz
 
 
 ###### § 73 Zuerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007500000)
 
 (1) Die Förderhilfen werden in den ersten fünf Monaten eines
 Kalenderjahres dem Hersteller, der regieführenden und der
@@ -1921,9 +2013,11 @@ der Förderhilfe nachholen.
 
 
 ##### Unterabschnitt 2 - Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002000000)
 
 
 ###### § 74 Verwendungsmöglichkeiten für Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007600000)
 
 (1) Der Hersteller gemäß § 41 Absatz 1 Nummer 1 hat die Förderhilfen
 innerhalb von drei Jahren nach Erlass des jeweiligen
@@ -1951,6 +2045,7 @@ fünf Jahren darf ein Unternehmen jedoch insgesamt nicht mehr als
 
 
 ###### § 75 Begonnene Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007700000)
 
 Werden die Förderhilfen für die Herstellung neuer Filme nach § 74
 Absatz 1 verwendet, können sie auch für bereits begonnene Maßnahmen
@@ -1960,6 +2055,7 @@ bereits abgeschlossene Maßnahmen ist nicht möglich.
 
 
 ###### § 76 Verwendungsmöglichkeiten für drehbuchschreibende und regieführende Personen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007800000)
 
 (1) Die drehbuchschreibende oder die regieführende Person kann die
 zuerkannten Förderhilfen innerhalb von drei Jahren nach Erlass des
@@ -2002,9 +2098,11 @@ Projekt eine bestimmte Mindestfördersumme erreicht ist.
 
 
 ##### Unterabschnitt 3 - Anforderungen an den mit Referenzmitteln herzustellenden Film
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002100000)
 
 
 ###### § 77 Eigenanteil des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE007900000)
 
 (1) Der Hersteller gemäß § 41 Absatz 1 Nummer 1 hat an den im
 Kostenplan für den mit Referenzmitteln herzustellenden Film
@@ -2073,6 +2171,7 @@ Herstellers festlegen.
 
 
 ###### § 78 Ausnahmen beim Eigenanteil
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008000000)
 
 (1) Die Filmförderungsanstalt kann auf Antrag des Herstellers gemäß §
 41 Absatz 1 Nummer 1 für dessen zwei erste programmfüllende Filme
@@ -2086,6 +2185,7 @@ geförderten Filmvorhaben übersteigt.
 
 
 ###### § 79 Besondere Anforderung an die Verwendung für internationale Koproduktionen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008100000)
 
 Handelt es sich bei dem Referenzfilm um eine internationale
 Koproduktion nach § 42, bei der die Beteiligung des Herstellers
@@ -2097,6 +2197,7 @@ jedes anderen Koproduzenten.
 
 
 ###### § 80 Ökologische Nachhaltigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008200000)
 
 Bei der Herstellung des mit Referenzmitteln herzustellenden Films sind
 wirksame Maßnahmen zugunsten der ökologischen Nachhaltigkeit zu
@@ -2105,6 +2206,7 @@ Berücksichtigung von § 2 Nummer 8.
 
 
 ###### § 81 Angemessene Beschäftigungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008300000)
 
 (1) Bei mit Referenzmitteln herzustellenden Filmen muss die Vergütung
 des für die Produktion des Films beschäftigten Personals
@@ -2132,6 +2234,7 @@ Gesamtwürdigung des Vorhabens dies rechtfertigt.
 
 
 ###### § 82 Beschäftigung von Nachwuchskräften
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008400000)
 
 Der Hersteller gemäß § 41 Absatz 1 Nummer 1 muss bei der Durchführung
 des mit Referenzmitteln herzustellenden Filmvorhabens in angemessenem
@@ -2139,6 +2242,7 @@ Umfang technische und kaufmännische Nachwuchskräfte beschäftigen.
 
 
 ###### § 83 Vermietung des Films
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008500000)
 
 (1) Der mit Referenzmitteln hergestellte Film muss zu einer Filmmiete
 vermietet werden, die für deutsche Filme angemessen ist.
@@ -2152,6 +2256,7 @@ Schweiz stammen.
 
 
 ###### § 84 Fernsehnutzungsrechte und weitere Vertragsbedingungen in Auswertungsverträgen mit Fernsehveranstaltern
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008600000)
 
 (1) Der Hersteller gemäß § 41 Absatz 1 Nummer 1 des mit
 Referenzmitteln hergestellten Films muss nachweisen, dass in dem
@@ -2181,9 +2286,11 @@ gilt insbesondere für eine angemessene Aufteilung der Rechte.
 
 
 ##### Unterabschnitt 4 - Bürgschaften, Verfahren, Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002200000)
 
 
 ###### § 85 Bürgschaften
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008700000)
 
 (1) Auf Antrag des Herstellers gemäß § 41 Absatz 1 Nummer 1 kann die
 Filmförderungsanstalt Bürgschaften gegenüber beteiligten
@@ -2223,6 +2330,7 @@ der Filmförderungsanstalt einzuplanen.
 
 
 ###### § 86 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008800000)
 
 (1) Die Filmförderungsanstalt zahlt die Förderhilfen nach § 61
 bedarfsgerecht an den Hersteller, die regieführende und die
@@ -2240,6 +2348,7 @@ Finanzierung des Filmvorhabens nicht gewährleistet ist.
 
 
 ###### § 87 Schlussprüfung, Kostenerstattung, Pflichtexemplar
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE008900000)
 
 (1) Die Filmförderungsanstalt prüft, ob die Förderhilfen
 zweckentsprechend verwendet wurden. Der Hersteller gemäß § 41 Absatz 1
@@ -2269,6 +2378,7 @@ Frist nach Satz 2 auf Antrag verlängern.
 
 
 ###### § 88 Aufhebung von Förderbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009000000)
 
 (1) Gegenüber dem Hersteller gemäß § 41 Absatz 1 Nummer 1 ist der
 Bescheid über die zuerkannten Förderhilfen ganz oder teilweise auch
@@ -2329,9 +2439,11 @@ dem Verhältnis der einzelnen Förderbeträge.
 
 
 #### Abschnitt 2 - Produktionsförderung für Kurzfilme und nicht programmfüllende Kinderfilme
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002300000)
 
 
 ##### § 89 Förderhilfen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009100000)
 
 Die Filmförderungsanstalt gewährt Referenzförderung auf Antrag des
 Herstellers eines Kurzfilms sowie eines nicht programmfüllenden
@@ -2341,6 +2453,7 @@ bis 45 erfüllen.
 
 
 ##### § 90 Referenzpunkte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009200000)
 
 (1) Die Referenzpunkte werden insbesondere aus dem Erfolg bei
 international und national bedeutsamen Festivals und Preisen
@@ -2362,11 +2475,13 @@ Referenzpunkten festlegen.
 
 
 ##### § 91 Richtlinie zur Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009300000)
 
 § 65 gilt entsprechend.
 
 
 ##### § 92 Art der Förderung, Verteilung der Referenzpunkte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009400000)
 
 (1) Produktionsförderung für Kurzfilme und nicht programmfüllende
 Kinderfilme wird als Zuschuss gewährt.
@@ -2378,6 +2493,7 @@ zueinander stehen.
 
 
 ##### § 93 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009500000)
 
 (1) Antragsberechtigt ist der Hersteller gemäß § 41 Absatz 1 Nummer 1.
 
@@ -2389,11 +2505,13 @@ beteiligt sind, handelt. § 70 Absatz 2 gilt entsprechend.
 
 
 ##### § 94 Antragsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009600000)
 
 § 71 gilt entsprechend.
 
 
 ##### § 95 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009700000)
 
 (1) Der Antrag ist spätestens bis zum 31. Dezember des Kalenderjahres
 zu stellen, in dem die zweijährige Frist nach § 90 Absatz 2 abläuft.
@@ -2407,6 +2525,7 @@ eine Ausschlussfrist.
 
 
 ##### § 96 Zuerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009800000)
 
 (1) Die Förderhilfen werden in den ersten fünf Monaten eines
 Kalenderjahres dem Hersteller des Referenzfilms durch Bescheid
@@ -2424,6 +2543,7 @@ zur Auszahlung der Förderhilfe nachholen.
 
 
 ##### § 97 Verwendungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE009900000)
 
 (1) Der Hersteller gemäß § 41 Absatz 1 Nummer 1 hat die Förderhilfen
 innerhalb von zwei Jahren nach dem Erlass des Zuerkennungsbescheids in
@@ -2449,12 +2569,14 @@ Mindestbetrag für die Kapitalaufstockung festlegen.
 
 
 ##### § 98 Begonnene Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010000000)
 
 Für die Verwendung der Förderhilfen zur Herstellung neuer Filme gilt §
 75 entsprechend.
 
 
 ##### § 99 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010100000)
 
 (1) Für die Auszahlung der Förderhilfen gilt § 86 Absatz 1
 entsprechend.
@@ -2469,6 +2591,7 @@ nicht gewährleistet ist.
 
 
 ##### § 100 Schlussprüfung, Pflichtexemplar
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010200000)
 
 (1) Die Filmförderungsanstalt prüft, ob die Förderhilfen
 zweckentsprechend verwendet wurden, bei der Herstellung eines neuen
@@ -2488,6 +2611,7 @@ gemacht wird.
 
 
 ##### § 101 Aufhebung von Förderbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010300000)
 
 (1) Gegenüber dem Hersteller gemäß § 41 Absatz 1 Nummer 1 ist der
 Bescheid über die nach § 96 Absatz 1 zuerkannten Förderhilfen ganz
@@ -2526,9 +2650,11 @@ dem Verhältnis der einzelnen Förderbeträge.
 
 
 ### Kapitel 3 - Verleihförderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002400000)
 
 
 #### § 102 Förderhilfen, Referenzpunkte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010400000)
 
 (1) Die Filmförderungsanstalt gewährt auf Antrag des Verleihers
 Förderung für den Verleih eines programmfüllenden Films, wenn der Film
@@ -2548,6 +2674,7 @@ Drittel der Mitglieder des Verwaltungsrats zustimmen.
 
 
 #### § 103 Berücksichtigung von Erfolgen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010500000)
 
 (1) Bei der Berechnung der Förderhilfe werden insgesamt höchstens
 1 000 000 Referenzpunkte berücksichtigt.
@@ -2567,6 +2694,7 @@ zustimmen. § 63 Absatz 3 und § 64 Absatz 3 gelten entsprechend.
 
 
 #### § 104 Bonus für inklusive Werbemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010600000)
 
 Die Filmförderungsanstalt kann auf Antrag einen Bonus in Höhe von bis
 zu 5 000 Referenzpunkten gewähren, wenn die Barrierefreiheit des Films
@@ -2575,11 +2703,13 @@ regelt eine Richtlinie gemäß § 11.
 
 
 #### § 105 Art der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010700000)
 
 Die Förderhilfen werden als Zuschuss gewährt.
 
 
 #### § 106 Verteilung der Referenzmittel
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010800000)
 
 Die für die Verleihförderung zur Verfügung stehenden Mittel werden auf
 die berechtigten Verleihunternehmen nach dem Verhältnis verteilt, in
@@ -2588,6 +2718,7 @@ Absatz 2 gilt entsprechend.
 
 
 #### § 107 Antragsberechtigung, Antragsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE010900000)
 
 (1) Antragsberechtigt sind regelmäßig tätige Verleiher.
 
@@ -2598,6 +2729,7 @@ jeweils geltenden Voraussetzungen der §§ 41 bis 45 erfüllt.
 
 
 #### § 108 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011000000)
 
 Der Antrag ist spätestens drei Monate nach Verstreichen der Zeiträume
 nach § 62 und § 64 Absatz 4 zu stellen. Nach Ablauf des 1. März
@@ -2607,6 +2739,7 @@ jeweilige Kalenderjahr nicht mehr berücksichtigt. Die Frist nach Satz
 
 
 #### § 109 Zuerkennung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011100000)
 
 (1) Für die Zuerkennung der Förderhilfen gilt § 73 Absatz 1 und 2
 entsprechend.
@@ -2631,6 +2764,7 @@ nach Satz 1 bis zur Auszahlung der Förderhilfe nachholen.
 
 
 #### § 110 Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011200000)
 
 (1) Die Förderhilfen sind innerhalb von drei Jahren nach Erlass des
 jeweiligen Zuerkennungsbescheids vorrangig für den Verleih eines neuen
@@ -2677,6 +2811,7 @@ Zweck erhalten.
 
 
 #### § 111 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011300000)
 
 (1) Die Filmförderungsanstalt zahlt die Förderhilfen bedarfsgerecht an
 den Verleiher aus.
@@ -2691,6 +2826,7 @@ gesichert ist.
 
 
 #### § 112 Begonnene Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011400000)
 
 Werden die Förderhilfen für den Verleih eines neuen Films nach § 110
 Absatz 1 und 2 verwendet, können sie auch für bereits begonnene
@@ -2701,6 +2837,7 @@ abgeschlossene Maßnahmen ist nicht möglich.
 
 
 #### § 113 Schlussprüfung, Aufhebung von Förderbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011500000)
 
 (1) Die Filmförderungsanstalt prüft, ob die Förderhilfen
 zweckentsprechend verwendet worden sind, insbesondere, ob die im Wege
@@ -2738,9 +2875,11 @@ dem Verhältnis der einzelnen Förderbeträge.
 
 
 ### Kapitel 4 - Kinoförderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002500000)
 
 
 #### § 114 Förderhilfen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011600000)
 
 (1) Die Filmförderungsanstalt gewährt auf Antrag Förderhilfen
 
@@ -2763,6 +2902,7 @@ dem Verhältnis der einzelnen Förderbeträge.
 
 
 #### § 115 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011700000)
 
 (1) Antragsberechtigt ist, wer im Inland ein Kino betreibt.
 
@@ -2777,6 +2917,7 @@ Zahlung einer im Zeitpunkt der Antragstellung fälligen Abgabe nach §
 
 
 #### § 116 Art der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011800000)
 
 (1) Die Filmförderungsanstalt gewährt für Maßnahmen nach § 114 Absatz
 1 Nummer 1 und 2 Förderhilfen zu 50 Prozent als unbedingt
@@ -2798,6 +2939,7 @@ werden als Zuschuss gewährt.
 
 
 #### § 117 Höhe der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE011900000)
 
 (1) Förderhilfen nach § 114 Absatz 1 dürfen unter Beachtung des § 47
 höchstens betragen:
@@ -2822,6 +2964,7 @@ genannten Beträge hinausgehen.
 
 
 #### § 118 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012000000)
 
 Die Filmförderungsanstalt legt das Verfahren der Kinoförderung durch
 Richtlinie gemäß § 11 nach Maßgabe dieses Gesetzes fest. Sie hat dabei
@@ -2830,6 +2973,7 @@ Antragsberechtigten hinzuwirken.
 
 
 #### § 119 Erlass von Restschulden
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012100000)
 
 (1) Statt einer Förderhilfe nach § 114 Absatz 1 Nummer 1 oder 2 kann
 die Filmförderungsanstalt einem Kinobetreiber gemäß § 115 Absatz 1 für
@@ -2870,6 +3014,7 @@ Vorbescheids nachweist.
 
 
 #### § 120 Auszahlung, Aufhebung von Förderbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012200000)
 
 (1) Die Filmförderungsanstalt zahlt die Förderhilfen bedarfsgerecht an
 den Kinobetreiber aus.
@@ -2909,9 +3054,11 @@ dem Verhältnis der einzelnen Förderbeträge.
 
 
 ### Kapitel 5 - Unterstützung der Digitalisierung des deutschen Filmerbes
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002600000)
 
 
 #### § 121 Richtlinie zur Unterstützung der Digitalisierung des deutschen Filmerbes
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012300000)
 
 (1) Einzelheiten zur Unterstützung der Digitalisierung des deutschen
 Filmerbes gemäß § 2 Nummer 3 kann die Filmförderungsanstalt durch
@@ -2933,15 +3080,19 @@ bestimmt die Richtlinie nach Absatz 1.
 
 
 ## Teil 4 - Finanzierung, Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002700000)
 
 
 ### Abschnitt 1 - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002800000)
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG002900000)
 
 
 ##### § 122 Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012400000)
 
 (1) Die Filmförderungsanstalt finanziert sich im Wesentlichen durch
 die Erhebung einer nach Untergruppen von Abgabeschuldnern
@@ -2956,12 +3107,14 @@ Leistungszweck nicht etwas anderes ergibt.
 
 
 ##### § 123 Verhältnis der Abgabevorschriften zueinander
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012500000)
 
 Erfüllt ein Abgabeschuldner mehrere Abgabetatbestände, so bestehen die
 Abgabepflichten nebeneinander.
 
 
 ##### § 124 Erhebung der Filmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012600000)
 
 Die Filmabgabe wird durch Bescheid erhoben. Widerspruch und
 Anfechtungsklage gegen den Bescheid über die Erhebung der Filmabgabe
@@ -2969,6 +3122,7 @@ haben keine aufschiebende Wirkung.
 
 
 ##### § 125 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012700000)
 
 (1) Die Filmabgabe der Kinos, der Videoprogrammanbieter und der
 Anbieter von Videoabrufdiensten nach den §§ 128 bis 130 ist monatlich
@@ -2982,6 +3136,7 @@ zahlen.
 
 
 ##### § 126 Begriffsbestimmung Kinofilm
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012800000)
 
 Ein Kinofilm im Sinne der §§ 129 bis 135 ist ein Film, der in
 Deutschland oder in seinem Ursprungsland gegen Entgelt im Kino
@@ -2989,6 +3144,7 @@ aufgeführt wurde.
 
 
 ##### § 127 Begriffsbestimmungen Nettoumsatz und Nettowerbeumsatz
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE012900000)
 
 (1) Nettoumsatz im Sinne der §§ 128 bis 130 und 134 und 135 ist die
 Summe der jeweils abgaberelevanten Umsatzerlöse abzüglich etwaiger
@@ -3003,9 +3159,11 @@ ausschließlich etwaige Rabatte, Skonti oder Boni.
 
 
 #### Unterabschnitt 2 - Filmabgabe der Kinos und der Videowirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG003000000)
 
 
 ##### § 128 Filmabgabe der Kinos
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013000000)
 
 (1) Wer im Inland entgeltliche Vorführungen von Filmen mit einer
 Laufzeit von mehr als 58 Minuten veranstaltet, hat für jedes Kino vom
@@ -3043,6 +3201,7 @@ Vertragspartner die Höhe der Filmabgabe nachzuweisen.
 
 
 ##### § 129 Filmabgabe der Videoprogrammanbieter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013100000)
 
 (1) Wer als Inhaber der Lizenzrechte Bildträger, die mit Filmen mit
 einer Laufzeit von mehr als 58 Minuten bespielt sind, in der
@@ -3073,6 +3232,7 @@ Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
 
 ##### § 130 Filmabgabe der Anbieter von Videoabrufdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013200000)
 
 (1) Inhaber von Lizenzrechten mit Sitz oder Niederlassung im Inland,
 die zu gewerblichen Zwecken hergestellte Kinofilme mittels
@@ -3122,6 +3282,7 @@ Nettogesamtwerbeeinnahmen. Absatz 5 Satz 2 gilt entsprechend.
 
 
 ##### § 131 Besondere Bestimmungen für nicht redaktionell verantwortliche Anbieter von Videoabrufdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013300000)
 
 (1) Als Anbieter von Videoabrufdiensten im Sinne des § 130 gilt
 derjenige Anbieter, der gegenüber den Endverbraucherinnen und
@@ -3147,9 +3308,11 @@ Informationen zur Verfügung zu stellen.
 
 
 #### Unterabschnitt 3 - Filmabgabe der Fernsehveranstalter und Programmvermarkter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG003100000)
 
 
 ##### § 132 Filmabgabe der öffentlich-rechtlichen Fernsehveranstalter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013400000)
 
 (1) Die öffentlich-rechtlichen Fernsehveranstalter haben eine
 Filmabgabe in Höhe von 3 Prozent ihrer Kosten für die Ausstrahlung von
@@ -3169,6 +3332,7 @@ Fernsehveranstalter zum Ersten Fernsehprogramm.
 
 
 ##### § 133 Filmabgabe der Veranstalter frei empfangbarer Fernsehprogramme privaten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013500000)
 
 (1) Die Veranstalter frei empfangbarer Fernsehprogramme privaten
 Rechts haben für Fernsehprogramme mit einem Kinofilmanteil von
@@ -3205,6 +3369,7 @@ Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
 
 ##### § 134 Filmabgabe der Veranstalter von Bezahlfernsehen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013600000)
 
 (1) Die Veranstalter von Bezahlfernsehen gegen pauschales Entgelt
 haben eine Filmabgabe in Höhe von 0,45 Prozent ihrer Nettoumsätze mit
@@ -3231,6 +3396,7 @@ Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
 
 ##### § 135 Filmabgabe der Programmvermarkter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013700000)
 
 (1) Programmvermarkter haben eine Filmabgabe in Höhe von 0,25 Prozent
 ihrer auf Bündel mit Kinofilmen und anderen audiovisuellen Inhalten
@@ -3267,6 +3433,7 @@ Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
 
 ##### § 136 Medialeistungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013800000)
 
 (1) Die Fernsehveranstalter und Videoabrufdienste können bis zu 15
 Prozent ihrer Abgaben nach den §§ 130, 132 bis 134 Absatz 1 und 2 in
@@ -3279,6 +3446,7 @@ den Wert der ersetzten Barleistungen um die Hälfte überschreiten.
 
 
 ##### § 137 Zusätzliche Leistungen der Fernsehveranstalter und Programmvermarkter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE013900000)
 
 Über die sich aus den §§ 132 bis 135 ergebenden Beträge hinausgehende
 Zahlungen oder sonstige Leistungen der Fernsehveranstalter und
@@ -3287,9 +3455,11 @@ vereinbart.
 
 
 ### Abschnitt 2 - Verwendung der Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG003200000)
 
 
 #### § 138 Aufteilung der Einnahmen auf die Förderbereiche
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014000000)
 
 (1) Von den Einnahmen der Filmförderungsanstalt sind bis zu 15 Prozent
 für die Erfüllung der allgemeinen Aufgaben nach § 2 einschließlich der
@@ -3330,6 +3500,7 @@ Nummer 1 und 2 bildet zusammen einen Förderbereich im Sinne von Satz
 
 
 #### § 139 Verwendung der Filmabgabe der Fernsehveranstalter und Programmvermarkter
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014100000)
 
 (1) Die Einnahmen der Filmförderungsanstalt aus der Filmabgabe der
 Fernsehveranstalter und Programmvermarkter nach den §§ 132 bis 135
@@ -3348,6 +3519,7 @@ Verwendungszweck bestimmt hat.
 
 
 #### § 140 Ermächtigung des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014200000)
 
 (1) Soweit dieses Gesetz keine Bestimmung trifft, obliegt die
 Entscheidung über die Verteilung der Mittel auf die einzelnen
@@ -3364,6 +3536,7 @@ nach § 138 Absatz 2 angesetzten Mittel auszugleichen.
 
 
 #### § 141 Ausnahmsweise Umwidmung in Fällen höherer Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014300000)
 
 (1) In besonderen Ausnahmesituationen kann der Verwaltungsrat unter
 Berücksichtigung der Gesamtumstände und der insgesamt zur Verfügung
@@ -3389,6 +3562,7 @@ Mehrheit seiner Mitglieder.
 
 
 #### § 142 Verwendung von Tilgungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014400000)
 
 (1) Einnahmen aus der Tilgung von Darlehen und aus sonstigen
 Rückzahlungen von Förderungen sind grundsätzlich wieder dem gleichen
@@ -3408,6 +3582,7 @@ Rahmen des Abweichungsspielraums nach § 140 Absatz 2.
 
 
 #### § 143 Verwendung von Rücklagen, Überschüssen und nicht verbrauchten Haushaltsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014500000)
 
 (1) Alle nicht im Wirtschaftsplan vorgesehenen Einnahmen
 (Überschüsse), nicht verbrauchte Haushaltsmittel sowie aufgelöste
@@ -3435,9 +3610,11 @@ aber mit der Mehrheit seiner Mitglieder.
 
 
 ## Teil 5 - Auskunftspflichten und Datenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG003300000)
 
 
 ### § 144 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014600000)
 
 (1) Wer nach diesem Gesetz eine Filmabgabe zu leisten hat, muss der
 Filmförderungsanstalt die für die Durchführung dieses Gesetzes
@@ -3539,6 +3716,7 @@ obersten Bundesbehörde die entsprechenden Daten zu übermitteln.
 
 
 ### § 145 Zeitpunkt und Form der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014700000)
 
 (1) Die Auskünfte der Kinos und der Videowirtschaft nach § 144 Absatz
 2 Nummer 5 bis 10 sind monatlich, jeweils bis zum Ablauf des Zehnten
@@ -3563,6 +3741,7 @@ für Wirtschaft und Ausfuhrkontrolle.
 
 
 ### § 146 Kontrolle der gemeldeten Daten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014800000)
 
 (1) Die Filmförderungsanstalt ist berechtigt, die nach § 144 erteilten
 Auskünfte zu überprüfen. Sie darf Dritte, bei denen es sich auch um
@@ -3592,6 +3771,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 147 Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE014900000)
 
 (1) Weigert sich eine zur Auskunft verpflichtete Person, eine Auskunft
 nach § 144 bis zu dem in § 145 Absatz 1 bestimmten Zeitpunkt zu
@@ -3610,6 +3790,7 @@ die unterschiedlichen Bereiche übermitteln.
 
 
 ### § 148 Übermittlung und Veröffentlichung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE015000000)
 
 (1) Auf Anforderung hat die Filmförderungsanstalt der für Kultur und
 Medien zuständigen obersten Bundesbehörde Daten, die für die Förderung
@@ -3685,6 +3866,7 @@ gewährten Förderhilfen notwendigen Daten zu übermitteln.
 
 
 ### § 149 Geschäfts- und Förderbericht, Evaluierungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE015100000)
 
 (1) Die Filmförderungsanstalt erstellt anhand der Auskünfte nach § 144
 jährlich einen Förderbericht, leitet diesen der für Kultur und Medien
@@ -3710,9 +3892,11 @@ Beteiligung eines öffentlichen-rechtlichen Senders finanziert wurden.
 
 
 ## Teil 6 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNG003400000)
 
 
 ### § 150 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE015200000)
 
 (1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2025
 entstanden sind, werden nach den Vorschriften des
@@ -3797,6 +3981,7 @@ auf den Bewilligungszeitpunkt abzustellen.
 
 
 ### § 151 Beendigung der Filmförderung
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE015300000)
 
 (1) Die Erhebung der Filmabgabe endet mit Ablauf des 31. Dezember
 2029\.
@@ -3827,6 +4012,7 @@ für die Förderung der Filmwirtschaft zu verwenden.
 
 
 ### § 152 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ffg_2025/BJNR1C30A0024.html#BJNR1C30A0024BJNE015400000)
 
 Dieses Gesetz tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt das
 Filmförderungsgesetz vom 23. Dezember 2016 (BGBl. I S. 3413), das

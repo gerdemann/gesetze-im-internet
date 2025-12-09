@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seilbdggebv/BJNR626800017.html#BJNR626800017BJNE000100000)
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes
 vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium
@@ -24,6 +25,7 @@ für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/seilbdggebv/BJNR626800017.html#BJNR626800017BJNE000200000)
 
 (1) Für individuell zurechenbare öffentliche Leistungen der
 notifizierenden Behörde in Zusammenhang mit der Bewertung,
@@ -38,16 +40,19 @@ sich aus der Anlage zu dieser Verordnung.
 
 
 ## § 2 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/seilbdggebv/BJNR626800017.html#BJNR626800017BJNE000300000)
 
 Auslagen werden nach § 12 Absatz 1 des Bundesgebührengesetzes erhoben.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seilbdggebv/BJNR626800017.html#BJNR626800017BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/seilbdggebv/BJNR626800017.html#BJNR626800017BJNE000600000)
 
 (Fundstelle: BAnz AT 25.9.2017 V1)
 

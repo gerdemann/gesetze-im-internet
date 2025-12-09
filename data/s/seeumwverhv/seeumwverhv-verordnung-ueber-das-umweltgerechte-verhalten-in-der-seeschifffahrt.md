@@ -27,9 +27,11 @@ Schiffskraftstoffen (ABl. L 327 vom 27.11.2012, S. 1).
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000100000)
 
 
 ### § 1 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000100000)
 
 Diese Verordnung regelt
 
@@ -55,6 +57,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000201360)
 
 (1) Im Sinne dieser Verordnung bedeuten
 
@@ -171,6 +174,7 @@ Artikels 4a Absatz 6 der Schwefelrichtlinie.
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000300000)
 
 (1) Diese Verordnung gilt
 
@@ -220,12 +224,15 @@ anderer Staaten.
 
 
 ## Abschnitt 2 - Ergänzende Bestimmungen zu den Anlagen des MARPOL-Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000200000)
 
 
 ### Unterabschnitt 1 - Anlage I
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000300000)
 
 
 #### § 4 Öltagebuch
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000400000)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche hat dafür zu sorgen, dass
@@ -274,6 +281,7 @@ als erfüllt, wenn das Ölkontrollbuch ordnungsgemäß geführt ist.
 
 
 #### § 5 Umpumpvorgänge auf See
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000501116)
 
 (1) Der Schiffsführer hat dafür zu sorgen, dass dem örtlich
 zuständigen Wasserstraßen- und Schifffahrtsamt über dessen
@@ -289,6 +297,7 @@ kann mit Auflagen verbunden oder unter Bedingungen erteilt werden.
 
 
 #### § 6 Öl, ölhaltige Gemische, Ölrückstände
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000600000)
 
 (1) Unbeschadet der Bestimmungen des Abfall-Übereinkommens ist das
 Einleiten umweltschädlicher ölhaltiger Gemische auf den in § 3 Absatz
@@ -310,9 +319,11 @@ Absatz 1 und 2 des MARPOL-Übereinkommens vorgeschriebenen
 
 
 ### Unterabschnitt 2 - Anlage II
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000400000)
 
 
 #### § 7 Ladungstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000700000)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche hat dafür zu sorgen, dass
@@ -362,6 +373,7 @@ Entladebescheinigung mitgeführt ist.
 
 
 #### § 8 Einleiten und vorläufige Bewertung von flüssigen Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000801360)
 
 (1) Ein Schiff ist bei der Einleitung von Stoffen der Gruppen X, Y
 oder Z nach Anlage II Regel 6 des
@@ -378,9 +390,11 @@ Bundesinstituts für Risikobewertung anfordern.
 
 
 ### Unterabschnitt 3 - Anlage IV
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000500000)
 
 
 #### § 9 Einleiten von Schiffsabwasser
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE000901360)
 
 (1) Das Einleiten von Schiffsabwasser ins Meer nach Maßgabe der Anlage
 IV Regel 11 Absatz 1 Satzteil vor Absatz 1.1 und Absatz 3 Satzteil vor
@@ -443,9 +457,11 @@ nachträglich – mit Auflagen verbinden.
 
 
 ### Unterabschnitt 4 - Anlage V
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000600000)
 
 
 #### § 10 Mülltagebuch
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001000000)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche hat dafür zu sorgen, dass in das Mülltagebuch nach
@@ -494,6 +510,7 @@ zugelassen worden ist und in Übereinstimmung damit geführt wird.
 
 
 #### § 11 Aushänge zur Müllbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001100000)
 
 Anlage V Regel 10 Absatz 1 des MARPOL-Übereinkommens über Aushänge zur
 Müllbehandlung gilt bei Schiffen mit einer Länge von 12 Metern und
@@ -518,6 +535,7 @@ Traditionsschiffe sind, als erfüllt, wenn
 
 
 #### § 12 Fanggerät
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001201116)
 
 Zuständige Behörde für die Meldung nach Anlage V Regel 10 Absatz 6 des
 MARPOL-Übereinkommens über den Verlust oder das Einbringen von
@@ -527,9 +545,11 @@ Wasserstraßen- und Schifffahrtsamtes über UKW-Sprechfunk zu erfolgen.
 
 
 ### Unterabschnitt 5 - Anlage VI
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000700000)
 
 
 #### § 13 Einhaltung der Anforderungen an niederschwefligen Schiffskraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001302116)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche hat dafür zu sorgen, dass auf den in § 3 Absatz 1
@@ -614,6 +634,7 @@ die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2019
 
 
 #### § 14 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001400000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie ist
 
@@ -632,6 +653,7 @@ der Internetseite www.bsh.de geführt.
 
 
 #### § 15 Bunkern
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001500000)
 
 (1) Der Lieferant eines Schiffskraftstoffs oder der für die Lieferung
 Verantwortliche ist verpflichtet,
@@ -688,9 +710,11 @@ Besatzung oder andere Personen besteht.
 
 
 ## Abschnitt 3 - Ergänzende Bestimmungen zu dem AFS-Übereinkommen und seinen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000800000)
 
 
 ### § 16 Befahrensregelung
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001600000)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche darf mit einem Schiff, das die Flagge eines
@@ -723,6 +747,7 @@ Einrichtung, um das Bewuchsschutzsystem zu erneuern.
 
 
 ### § 17 Mitführen von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001700000)
 
 Der Schiffsführer ist verpflichtet, nach Maßgabe der Nummern 1 und 2
 das jeweils dort genannte Dokument mitzuführen und auf Verlangen der
@@ -758,9 +783,11 @@ Bediensteten der zuständigen Behörden zur Prüfung auszuhändigen:
 
 
 ## Abschnitt 4 - Ergänzende Bestimmungen zu dem Ballastwasser-Übereinkommen und seiner Anlage
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG000900000)
 
 
 ### § 18 Einleiten von Ballastwasser
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001801360)
 
 (1) Das Einleiten von Ballastwasser ins Meer und in die in § 3 Absatz
 1 Nummer 1 bezeichneten Wasserflächen ist verboten, soweit nicht
@@ -814,6 +841,7 @@ Sachwerte oder Ressourcen darstellt.
 
 
 ### § 19 Zulassung des Ballastwasser-Behandlungsplans und von Ballastwasser-Behandlungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE001901360)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation lässt den Ballastwasser-Behandlungsplan nach der
@@ -835,6 +863,7 @@ insbesondere die Zulassung auf einen anderen Inhaber übertragen.
 
 
 ### § 20 Mitführen von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002000000)
 
 Der Schiffsführer eines Schiffes, das die Flagge eines Staates führt,
 der Vertragspartei des Ballastwasser-Übereinkommens ist, ist
@@ -853,6 +882,7 @@ Bediensteten der zuständigen Behörden zur Prüfung auszuhändigen:
 
 
 ### § 21 Ballastwasser-Tagebuch
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002100000)
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
 Verantwortliche hat dafür zu sorgen, dass
@@ -900,6 +930,7 @@ zugelassen und in Übereinstimmung damit geführt worden ist.
 
 
 ### § 22 Ballastwasser-Austauschgebiete
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002200000)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie kann Ballastwasser-
 Austauschgebiete im Sinne der Anlage Regel B-4 des Ballastwasser-
@@ -911,9 +942,11 @@ für Risikobewertung an.
 
 
 ## Abschnitt 4a - Ergänzende Bestimmungen zur Verordnung (EU) Nr. 1257/2013 und zum Übereinkommen von Hongkong
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG001200360)
 
 
 ### § 23 Besichtigungen und Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002600360)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation führt die Besichtigungen und Überprüfungen gemäß der
@@ -935,6 +968,7 @@ Seeschifffahrts-Organisation erfolgen.
 
 
 ### § 24 Inventarbescheinigung und Recyclingfähigkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002700360)
 
 (1) Inventarbescheinigungen und Recyclingfähigkeitsbescheinigungen
 werden von der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -955,6 +989,7 @@ Absatz 7 und 8 sowie des Artikels 10 Absatz 5 der Verordnung (EU) Nr.
 
 
 ### § 25 Hafenstaatkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002800360)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation überprüft im Rahmen der Hafenstaatkontrolle nach § 6
@@ -979,6 +1014,7 @@ der Inventarbescheinigung gleich.
 
 
 ### § 26 Aufgaben des Bundesamts für Seeschifffahrt und Hydrographie
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002900360)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist
 Kontaktstelle für sämtliche Anfragen im Zusammenhang mit in diesem
@@ -1010,6 +1046,7 @@ Internationale Seeschifffahrts-Organisation weiter.
 
 
 ### § 27 Aufgaben der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE003000360)
 
 (1) Für die deutsche Flaggenstaatsverwaltung ist die
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -1065,9 +1102,11 @@ erforderlich sind.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG001001360)
 
 
 ### § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002301360)
 
 (1) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1355,9 +1394,11 @@ Ordnungswidrigkeiten wird
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNG001101116)
 
 
 ### § 29 Bekanntmachungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002401360)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann den
 jeweils geltenden Wortlaut der amtlichen deutschen Fassung des MARPOL-
@@ -1366,6 +1407,7 @@ jeweils geltenden Wortlaut der amtlichen deutschen Fassung des MARPOL-
 
 
 ### § 30 Übergangsvorschrift zur Anwendung der Verordnung (EU) Nr. 1257/2013
+[Direktlink](https://www.gesetze-im-internet.de/seeumwverhv/BJNR137110014.html#BJNR137110014BJNE002501360)
 
 (1) Die Vorschriften der Verordnung (EU) Nr. 1257/2013, die sich auf
 die Zulassung des Recyclings von Schiffen in den in der europäischen

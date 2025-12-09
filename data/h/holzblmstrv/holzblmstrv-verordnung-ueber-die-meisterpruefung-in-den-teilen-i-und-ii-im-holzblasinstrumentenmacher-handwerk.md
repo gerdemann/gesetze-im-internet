@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 7110-3-133 v. 7.10.1997 I 2455 (HoblMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -31,6 +32,7 @@ Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der
 Prüfung in den Teilen I und II der Meisterprüfung zu stellenden
@@ -39,6 +41,7 @@ Meisterprüfung im Holzblasinstrumentenmacher-Handwerk.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000300000)
 
 In den Teilen I und II der Meisterprüfung im
 Holzblasinstrumentenmacher-Handwerk hat der Prüfling die beruflichen
@@ -225,6 +228,7 @@ Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -244,6 +248,7 @@ meisterhaft verrichtet.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus
@@ -348,6 +353,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000600000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -376,6 +382,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000700000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt für die Meisterprüfung den Nachweis der beruflichen
@@ -422,6 +429,7 @@ gewichten:
 
 
 ## § 7 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Für das Gesamtergebnis
@@ -444,6 +452,7 @@ gewichtet.
 
 
 ## § 8 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE000900000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -480,6 +489,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 9 Handlungsfeld „Anforderungen von Kunden eines Betriebs im Holzblasinstrumentenmacher-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001000000)
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Betriebs im
 Holzblasinstrumentenmacher-Handwerk analysieren, Lösungen erarbeiten
@@ -638,6 +648,7 @@ und anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Leistungen eines Betriebs im Holzblasinstrumentenmacher-Handwerk erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001100000)
 
 (1) Im Handlungsfeld „Leistungen eines Betriebs im
 Holzblasinstrumentenmacher-Handwerk erbringen, kontrollieren und
@@ -782,6 +793,7 @@ Holzblasinstrumentenmacher-Handwerk erbringen, kontrollieren und
 
 
 ## § 11 Handlungsfeld „Einen Betrieb im Holzblasinstrumentenmacher- Handwerk führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001200000)
 
 (1) Im Handlungsfeld „Einen Betrieb im Holzblasinstrumentenmacher-
 Handwerk führen und organisieren“ hat der Prüfling nachzuweisen, dass
@@ -941,6 +953,7 @@ Qualifikationen:
 
 
 ## § 12 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001300000)
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung
 ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach
@@ -969,6 +982,7 @@ Meisterprüfung ausschlaggebend ist.
 
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001400000)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung in der
 jeweils geltenden Fassung bleiben unberührt.
@@ -979,6 +993,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001500000)
 
 (1) Die bis zum Ablauf des 31. August 2022 begonnenen
 Prüfungsverfahren werden nach den Vorschriften für die
@@ -997,6 +1012,7 @@ August 2022 geltenden Vorschriften ablegen.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/holzblmstrv/BJNR087000022.html#BJNR087000022BJNE001600000)
 
 Diese Verordnung tritt am 1. September 2022 in Kraft. Gleichzeitig
 tritt die Holzblasinstrumentenmachermeisterverordnung vom 7. Oktober

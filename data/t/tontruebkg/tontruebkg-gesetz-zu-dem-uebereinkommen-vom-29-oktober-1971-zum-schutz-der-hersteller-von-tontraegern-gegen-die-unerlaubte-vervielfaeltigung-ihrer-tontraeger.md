@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/tontr_bkg/BJNR216690973.html#BJNR216690973BJNE000100304)
 
 Dem in Genf am 29. Oktober 1971 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zum Schutz der Hersteller von Tonträgern
@@ -27,6 +28,7 @@ Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/tontr_bkg/BJNR216690973.html#BJNR216690973BJNE000200304)
 
 (1) Angehörige eines Vertragsstaats des Übereinkommens und Unternehmen
 mit Sitz in einem Vertragsstaat des Übereinkommens genießen vom
@@ -44,12 +46,14 @@ Nr. 5 des Urheberrechtsgesetzes anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/tontr_bkg/BJNR216690973.html#BJNR216690973BJNE000300304)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/tontr_bkg/BJNR216690973.html#BJNR216690973BJNE000400304)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

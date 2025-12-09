@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNG000100319)
 
 
 
 ## Art 3 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNG000200319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE000500319)
 
 (1) Die Vereinigung der Verbände der Ortskrankenkassen e.V., der
 Bundesverband der Landkrankenkassen, der Hauptverband der
@@ -39,6 +42,7 @@ werden mit Inkrafttreten dieses Gesetzes Bundesverbände im Sinne des §
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE000601308)
 
 (1) Die bezirklichen Zusammenschlüsse der Krankenkassen mit Ausnahme
 der Verbände nach § 406 der Reichsversicherungsordnung werden mit
@@ -66,11 +70,13 @@ auf die für die Sozialversicherung zuständige oberste Landesbehörde
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE000700319)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE000800319)
 
 (1) Das vorhandene Eigentum an Grundstücken, das nach Artikel 2 Abs. 2
 Satz 1 der Verordnung vom 6. September 1937 (Reichsgesetzbl. I S. 964)
@@ -124,6 +130,7 @@ das Eigentum an den Grundstücken übergehen würde.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE000900319)
 
 Sonstige Vermögensrechte des Reichsverbands der Ortskrankenkassen,
 Körperschaft des öffentlichen Rechts, gehen auf den Bundesverband der
@@ -133,6 +140,7 @@ Mitglieder erlöschen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001000319)
 
 Der Reichsverband der Ortskrankenkassen, Körperschaft des öffentlichen
 Rechts, wird mit Inkrafttreten dieses Gesetzes aufgelöst. Mit dem
@@ -142,6 +150,7 @@ Bundesverband der Ortskrankenkassen übergehen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001100319)
 
 (1) Die Verbindlichkeiten des Reichsverbands der Ortskrankenkassen,
 Körperschaft des öffentlichen Rechts, gehen mit Ausnahme der in Absatz
@@ -168,6 +177,7 @@ des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001201119)
 
 Streitigkeiten, die sich zwischen Rechtsträgern des öffentlichen
 Rechts aus der in §§ 4 bis 7 getroffenen Regelung der
@@ -180,6 +190,7 @@ entsprechend Anwendung.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001300319)
 
 Soweit das Eigentum an einem Grundstück nach § 4 übergeht, genügt zum
 Nachweis des Übergangs des Eigentums gegenüber dem Grundbuchamt eine
@@ -190,6 +201,7 @@ Grundbuch eingetragene Rechte entsprechend.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001400319)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 4 bis 9 entstehen, werden nicht erhoben; bare
@@ -197,6 +209,7 @@ Auslagen bleiben außer Ansatz.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001500319)
 
 Der Reichsverband der Landkrankenkassen, Körperschaft des öffentlichen
 Rechts, der Reichsverband der Innungskrankenkassen, Körperschaft des
@@ -207,6 +220,7 @@ und Bundesverbände über. §§ 4 bis 10 gelten entsprechend.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001600319)
 
 Die beim Inkrafttreten dieses Gesetzes bei der Treuhandverwaltung des
 Reichsverbands der Ortskrankenkassen, Körperschaft des öffentlichen
@@ -220,11 +234,13 @@ ruhegehaltsfähige Dienstzeit zu berücksichtigen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNE001700319)
 
 -
 
 
 ## Art 4 - Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNG000300319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -239,6 +255,7 @@ b)
 
 
 ## Art 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kkverbdg/BJNR005249955.html#BJNR005249955BJNG000400319)
 
 Dieses Gesetz tritt am Ersten des auf die Verkündung folgenden Monats
 in Kraft.

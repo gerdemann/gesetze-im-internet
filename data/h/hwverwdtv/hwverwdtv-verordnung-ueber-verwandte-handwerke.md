@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000100326)
 
 Auf Grund des § 7 Abs. 1 Satz 2 des Gesetzes zur Ordnung des Handwerks
 (Handwerksordnung) in der Fassung der Bekanntmachung vom 28. Dezember
@@ -30,6 +31,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000201377)
 
 Die in der Anlage zu dieser Verordnung in Spalte I aufgeführten
 zulassungspflichtige Handwerke sind mit den unter der gleichen Nummer
@@ -38,22 +40,26 @@ des § 7 Abs. 1 Satz 2 der Handwerksordnung verwandt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000301377)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000400326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000500326)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 1)
 
 ## Anlage Verzeichnis der verwandten Handwerke
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE000606123)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2952;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -218,6 +224,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 998)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/hwverwdtv/BJNR013550968.html#BJNR013550968BJNE888800309)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

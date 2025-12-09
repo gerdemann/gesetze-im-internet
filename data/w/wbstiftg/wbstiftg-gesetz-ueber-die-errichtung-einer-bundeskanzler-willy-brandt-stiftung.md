@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000100320)
 
 Unter dem Namen "Bundeskanzler-Willy-Brandt-Stiftung" wird mit Sitz in
 Berlin eine rechtsfähige Stiftung des öffentlichen Rechts errichtet.
@@ -27,6 +28,7 @@ Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000201360)
 
 (1) Zweck der Stiftung ist es, das Andenken an das Wirken Willy
 Brandts für Freiheit, Frieden und Einheit des deutschen Volkes und die
@@ -72,6 +74,7 @@ Stiftung.
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000300320)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -89,6 +92,7 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000401320)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -98,6 +102,7 @@ Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000500320)
 
 Organe der Stiftung sind
 
@@ -111,6 +116,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000600320)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Dr.
@@ -136,6 +142,7 @@ Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000701320)
 
 (1) Der Vorstand besteht aus drei Mitgliedern, die vom Kuratorium mit
 einer Mehrheit von vier Fünfteln seiner Mitglieder bestellt werden
@@ -151,6 +158,7 @@ außergerichtlich.
 
 
 ## § 8 Internationaler Beirat
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000800320)
 
 (1) Zur Beratung des Kuratoriums und des Vorstandes bei der Erfüllung
 des Stiftungszweckes, insbesondere hinsichtlich der Veranstaltungen
@@ -167,6 +175,7 @@ Einvernehmen mit dem Vorsitzenden des Kuratoriums ein und leitet sie.
 
 
 ## § 9 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE000900320)
 
 Die Mitglieder des Kuratoriums, des Vorstandes und des Internationalen
 Beirats sind, soweit sie nicht nebenamtlich tätig sind, ehrenamtlich
@@ -174,6 +183,7 @@ tätig.
 
 
 ## § 10 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE001001320)
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
@@ -189,6 +199,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 11 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE001100320)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -202,6 +213,7 @@ haben, verliehen werden.
 
 
 ## § 12 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE001200320)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -209,11 +221,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 13 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE001300320)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wbstiftg/BJNR313800994.html#BJNR313800994BJNE001400320)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

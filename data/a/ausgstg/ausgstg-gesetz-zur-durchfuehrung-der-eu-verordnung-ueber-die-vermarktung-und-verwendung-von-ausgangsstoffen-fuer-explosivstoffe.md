@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000100000)
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) 2019/1148 des
 Europäischen Parlaments und des Rates vom 20. Juni 2019 über die
@@ -29,6 +30,7 @@ Verordnung erlassenen delegierten Rechtsakte.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000200000)
 
 Bei der Anwendung dieses Gesetzes gelten die Begriffsbestimmungen des
 Artikels 3 der Verordnung (EU) 2019/1148. Auf Mitglieder der
@@ -38,6 +40,7 @@ oder in den Geltungsbereich dieses Gesetzes verbringen.
 
 
 ## § 3 Kontaktstellen
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000300000)
 
 (1) Die Landesregierungen bestimmen jeweils eine Kontaktstelle gemäß
 Artikel 9 Absatz 3 der Verordnung (EU) 2019/1148.
@@ -68,6 +71,7 @@ erreichbar und ständig verfügbar zu halten.
 
 
 ## § 4 Datenverarbeitung durch die Kontaktstellen
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000400000)
 
 Die Kontaktstellen dürfen in den Meldungen nach Artikel 9 der
 Verordnung (EU) 2019/1148 enthaltene personenbezogene Daten speichern,
@@ -91,6 +95,7 @@ der Strafprozessordnung sowie der Landesgesetze zum Schutz der
 
 
 ## § 5 Inspektionsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000500000)
 
 Die Landesregierungen haben für den Vollzug der Verordnung (EU)
 2019/1148 zuständige Inspektionsbehörden gemäß Artikel 11 dieser
@@ -98,6 +103,7 @@ Verordnung zu benennen.
 
 
 ## § 6 Befugnisse der Inspektionsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000600000)
 
 (1) Die Inspektionsbehörden sind befugt, von Wirtschaftsteilnehmern,
 Online-Marktplätzen, gewerblichen Verwendern und Mitgliedern der
@@ -157,6 +163,7 @@ haben keine aufschiebende Wirkung.
 
 
 ## § 7 Mitwirkung der Zolldienststellen
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000700000)
 
 (1) Die Zolldienststellen wirken bei der Überwachung der Einhaltung
 des Artikels 5 Absatz 1 und 2 der Verordnung (EU) 2019/1148 beim
@@ -203,6 +210,7 @@ eingeschränkt.
 
 
 ## § 8 Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000800000)
 
 Wirtschaftsteilnehmer, Online-Marktplätze sowie gewerbliche Verwender
 sind verpflichtet,
@@ -230,6 +238,7 @@ für Mitglieder der Allgemeinheit.
 
 
 ## § 9 Identitätsnachweis beim Erwerb von Ausgangsstoffen für Explosivstoffe
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE000900000)
 
 (1) Wirtschaftsteilnehmer und Online-Marktplätze sind berechtigt, sich
 vor der Überlassung eines regulierten Ausgangsstoffes für
@@ -246,6 +255,7 @@ speichern.
 
 
 ## § 10 Genehmigungssystem
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001000000)
 
 Ein Genehmigungssystem im Sinne von Artikel 5 Absatz 3 der Verordnung
 (EU) 2019/1148 wird nicht errichtet. Genehmigungen für den Erwerb, den
@@ -257,6 +267,7 @@ Gültigkeit.
 
 
 ## § 11 Schulungs- und Sensibilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001100000)
 
 (1) Die Länder führen die nach der Verordnung (EU) 2019/1148
 vorgesehenen
@@ -279,6 +290,7 @@ Länder teilnehmen.
 
 
 ## § 12 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001200000)
 
 Zuständig für die Berichterstattung gegenüber der Europäischen
 Kommission nach Artikel 19 Absatz 1 der Verordnung (EU) 2019/1148 ist
@@ -304,6 +316,7 @@ in zusammengefasster Form die nach Artikel 19 Absatz 1 der Verordnung
 
 
 ## § 13 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001300000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen Artikel 5 Absatz 1 der Verordnung (EU)
@@ -323,6 +336,7 @@ solcher Taten verbunden hat.
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -377,6 +391,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ## § 15 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ausgstg/BJNR267810020.html#BJNR267810020BJNE001500000)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten

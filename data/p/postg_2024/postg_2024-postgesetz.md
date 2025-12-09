@@ -26,9 +26,11 @@ geänderten Fassung.
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000200000)
 
 (1) Dieses Gesetz gilt für alle Unternehmen und Personen, die im
 Geltungsbereich dieses Gesetzes inländische oder grenzüberschreitende
@@ -44,6 +46,7 @@ bleiben unberührt.
 
 
 ### § 2 Regulierungsziele
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000300000)
 
 (1) Die Regulierung des Postsektors ist eine hoheitliche Aufgabe des
 Bundes.
@@ -82,6 +85,7 @@ Bundes.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000400000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -240,9 +244,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Kapitel 2 - Marktzugang, Marktaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000200000)
 
 
 ### § 4 Anbieterverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000500000)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen (Bundesnetzagentur) führt ein digitales
@@ -313,6 +319,7 @@ Mitteilung nach Satz 1 gemacht hat.
 
 
 ### § 5 Zuverlässigkeit, Leistungsfähigkeit, Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000600000)
 
 (1) Die nach § 4 Absatz 4 Nummer 1 erforderliche Zuverlässigkeit liegt
 in der Regel nicht vor, wenn
@@ -424,6 +431,7 @@ Hinblick auf Postgeheimnis und Postdatenschutz, vertraut ist.
 
 
 ### § 6 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000700000)
 
 (1) Im Rahmen der Antragstellung nach § 4 Absatz 2 sind die folgenden
 Informationen zu übermitteln:
@@ -564,6 +572,7 @@ bleibt unberührt.
 
 
 ### § 7 Überprüfung eingetragener Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000800000)
 
 (1) Nach Eintragung in das Anbieterverzeichnis überprüft die
 Bundesnetzagentur Anbieter, wenn ihr Tatsachen bekannt werden, die die
@@ -597,6 +606,7 @@ Ergebnisse ihrer Überprüfungen nach den Absätzen 1 und 2.
 
 
 ### § 8 Folgen von Löschung und Versagung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE000900000)
 
 (1) Wurde einem Anbieter die Eintragung in das Anbieterverzeichnis
 nach § 4 Absatz 4 Nummer 1 versagt oder wurde er aufgrund einer
@@ -614,6 +624,7 @@ nur aus besonderen Gründen stattgegeben werden.
 
 
 ### § 9 Verantwortlichkeit von Auftraggebern, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001000000)
 
 (1) Ein Anbieter, der als Auftraggeber einen anderen Anbieter mit der
 Erbringung von Paketdienstleistungen beauftragt, hat den beauftragten
@@ -707,6 +718,7 @@ gesichert niedergelegt.
 
 
 ### § 10 Filialen und automatisierte Stationen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001100000)
 
 (1) Betreiben Anbieter Filialen oder automatisierte Stationen, so
 haben sie der Bundesnetzagentur jeweils zum 1. Januar und zum 1. Juli
@@ -745,12 +757,15 @@ gemeldeten Informationen im Anbieterverzeichnis veröffentlichen.
 
 
 ## Kapitel 3 - Versorgungsqualität und Universaldienst
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000300000)
 
 
 ### Abschnitt 1 - Allgemeine Vorgaben zur Versorgungsqualität
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000400000)
 
 
 #### § 11 Digitaler Atlas zur Postversorgung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001200000)
 
 (1) Die Bundesnetzagentur führt einen digitalen Atlas zur
 Postversorgung. Der digitale Atlas dient der Transparenz für die
@@ -822,6 +837,7 @@ Bundesnetzagentur übertragen.
 
 
 #### § 12 Zustellung von Briefsendungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001300000)
 
 (1) Anbieter haben Briefsendungen an der in der Anschrift genannten
 Adresse durch Einwurf in eine für den Empfänger bestimmte und
@@ -862,6 +878,7 @@ die Absätze 1 bis 4 entsprechend.
 
 
 #### § 13 Zustellung von Paketen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001400000)
 
 (1) Anbieter haben Pakete an der in der Anschrift genannten Adresse
 durch Aushändigung an den Empfänger zuzustellen, sofern nicht
@@ -916,6 +933,7 @@ die endgültig nicht zustellbar sind.
 
 
 #### § 14 Meldung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001500000)
 
 (1) Jeder ist berechtigt, der Bundesnetzagentur Mängel zu melden, die
 die Qualität von Postdienstleistungen und die Gewährleistung der
@@ -928,9 +946,11 @@ das Beschwerdeaufkommen und die wesentlichen Beschwerdegründe.
 
 
 ### Abschnitt 2 - Gewährleistung der flächendeckenden Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000500000)
 
 
 #### § 15 Universaldienst
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001600000)
 
 (1) Durch den Universaldienst wird eine flächendeckend angemessene und
 ausreichende Versorgung mit Postdienstleistungen zu erschwinglichen
@@ -981,6 +1001,7 @@ Bedingungen sind sachlich gerechtfertigt.
 
 
 #### § 16 Universaldienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001700000)
 
 (1) Universaldienstleistungen sind die folgenden Postdienstleistungen
 unabhängig von der Art der Freimachung:
@@ -1080,6 +1101,7 @@ Betreiber-Zulassungsverordnung bleiben unberührt.
 
 
 #### § 17 Infrastrukturvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001800000)
 
 (1) Bundesweit müssen mindestens 12 000 Universaldienstfilialen
 vorhanden sein. Sie müssen werktäglich nachfragegerecht geöffnet sein.
@@ -1169,6 +1191,7 @@ des Absatzes 2 Stellung nimmt. § 24 bleibt unberührt.
 
 
 #### § 18 Laufzeitvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE001900000)
 
 (1) Universaldienstanbieter müssen von den an einem Werktag
 eingelieferten
@@ -1211,11 +1234,13 @@ den Einlieferungstag folgenden Werktag zugestellt werden.
 
 
 #### § 19 Zustellfrequenz
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002000000)
 
 Die Zustellung hat werktäglich zu erfolgen.
 
 
 #### § 20 Berichtspflicht, Laufzeitmessung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002100000)
 
 (1) Universaldienstanbieter haben jährlich über die Einhaltung der
 Vorgaben dieses Abschnitts zu berichten. Der Bericht ist der
@@ -1235,6 +1260,7 @@ Plausibilisierung zur Verfügung zu stellen.
 
 
 #### § 21 Erschwinglichkeit von Universaldienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002200000)
 
 (1) Die Preise für Universaldienstleistungen nach § 16 Absatz 1 Nummer
 1 im Einzelsendungstarif gelten als erschwinglich, wenn die
@@ -1258,6 +1284,7 @@ Anwendung kommt.
 
 
 #### § 22 Gewährleistung des Universaldienstes
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002300000)
 
 (1) Stellt die Bundesnetzagentur fest, dass ein
 Universaldienstanbieter seine Verpflichtungen nach diesem Abschnitt
@@ -1282,6 +1309,7 @@ festgesetzt werden.
 
 
 #### § 23 Erprobung neuer Modelle der Postversorgung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002400000)
 
 (1) Die Bundesnetzagentur soll zur Erprobung neuer – insbesondere
 barrierefreier, nachhaltiger, digitaler, automatisierter oder mobiler
@@ -1323,6 +1351,7 @@ sind, Abweichungen von den Vorgaben der §§ 12 und 13 erlauben.
 
 
 #### § 24 Evaluierung des Universaldienstes
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002500000)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz legt drei
 Jahre nach Inkrafttreten dieses Gesetzes und anschließend alle drei
@@ -1367,6 +1396,7 @@ gesetzlichen Vorgaben dieses Abschnitts sowie des Abschnitts 3.
 
 
 #### § 25 Harmonisierung technischer Normen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002600000)
 
 Universaldienstanbieter haben die im Amtsblatt der Europäischen
 Gemeinschaften gemäß Artikel 20 der Richtlinie 97/67/EG des
@@ -1378,9 +1408,11 @@ Bundesnetzagentur kann hiervon Ausnahmen zulassen.
 
 
 ### Abschnitt 3 - Wiederherstellung des Universaldienstes
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000600000)
 
 
 #### § 26 Auferlegung von Universaldienstverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002700000)
 
 (1) Steht fest oder ist zu besorgen, dass eine Universaldienstleistung
 nicht ausreichend oder angemessen erbracht wird, veröffentlicht die
@@ -1435,6 +1467,7 @@ Bundesnetzagentur anzurufen.
 
 
 #### § 27 Ausschreibung von Universaldienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002800000)
 
 (1) Macht ein Unternehmen, das nach § 26 Absatz 2 oder 3 zur
 Erbringung einer Universaldienstleistung verpflichtet werden soll,
@@ -1472,6 +1505,7 @@ Universaldienstleistung nach Maßgabe des Abschnitts 2 zu erbringen.
 
 
 #### § 28 Ausgleich für Universaldienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE002900000)
 
 (1) Ein Unternehmen, dem eine Verpflichtung nach § 26 Absatz 2 oder 3
 oder § 27 Absatz 4 auferlegt wurde, erhält auf Antrag bei der
@@ -1509,6 +1543,7 @@ Defizit bei der Erbringung des Universaldienstes entsteht, gewährt.
 
 
 #### § 29 Ausgleichsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003000000)
 
 (1) Gewährt die Bundesnetzagentur einen Ausgleich nach § 28, ist jeder
 Postdienstleister, dessen Umsatz mit Postdienstleistungen in dem
@@ -1541,6 +1576,7 @@ Beträge der Abgabe und betreibt die Einziehung.
 
 
 #### § 30 Umsatzmitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003100000)
 
 Ist eine Verpflichtung zur Erbringung einer Universaldienstleistung
 nach § 26 Absatz 2 oder 3, nach § 27 Absatz 4 oder eine erfolgreiche
@@ -1552,9 +1588,11 @@ Bundesnetzagentur den jeweiligen Umsatz schätzen.
 
 
 ## Kapitel 4 - Schutz der Kundinnen und Kunden
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000700000)
 
 
 ### § 31 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003200000)
 
 (1) Anbieter, die Postdienstleistungen zu allgemein gültigen
 Bedingungen und Entgelten gegenüber Endkunden anbieten, sind
@@ -1589,6 +1627,7 @@ die Erfüllung der Informationspflicht nach Absatz 1 machen.
 
 
 ### § 32 Nachforschung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003300000)
 
 Anbieter, die Postdienstleistungen gegenüber Endkunden anbieten, sind
 verpflichtet, auf Antrag des Absenders oder des Empfängers
@@ -1602,6 +1641,7 @@ Vorgaben für die Behandlung von Nachforschungsaufträgen festlegen.
 
 
 ### § 33 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003400000)
 
 (1) Anbieter, die Postdienstleistungen gegenüber Endkunden anbieten,
 sind verpflichtet, Verfahren für die Bearbeitung von Beschwerden von
@@ -1632,6 +1672,7 @@ keinen Anbieter unbillig benachteiligen.
 
 
 ### § 34 Schlichtung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003500000)
 
 (1) Kunden können die Bundesnetzagentur als Schlichtungsstelle anrufen
 zur Beilegung von Streitigkeiten mit dem Anbieter über Rechte und
@@ -1686,12 +1727,15 @@ Rechtsverordnung auf die Bundesnetzagentur übertragen.
 
 
 ## Kapitel 5 - Marktregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000800000)
 
 
 ### Abschnitt 1 - Marktdefinitions- und -analyseverfahren
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG000900000)
 
 
 #### § 35 Marktregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003600000)
 
 Unternehmen, deren marktbeherrschende Stellung auf einem
 regulierungsbedürftigen Postmarkt die Bundesnetzagentur auf Grundlage
@@ -1700,6 +1744,7 @@ Anforderungen der Abschnitte 2 und 3 dieses Kapitels.
 
 
 #### § 36 Marktdefinition
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003700000)
 
 Die Bundesnetzagentur legt unter Berücksichtigung der Ziele des § 2
 Absatz 2 Nummer 1 und 2 und der Grundsätze des allgemeinen
@@ -1709,6 +1754,7 @@ kommen können.
 
 
 #### § 37 Marktanalyse
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003800000)
 
 (1) Im Rahmen einer Marktanalyse prüft die Bundesnetzagentur,
 
@@ -1774,6 +1820,7 @@ Marktanalyse getroffenen Feststellungen ergeht.
 
 
 #### § 38 Überprüfung von Marktdefinition und -analyse
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE003900000)
 
 Sofern der Bundesnetzagentur nicht vorher Tatsachen bekannt werden,
 die die Annahme rechtfertigen, dass die Ergebnisse der Marktdefinition
@@ -1786,12 +1833,15 @@ wesentlich verändert haben.
 
 
 ### Abschnitt 2 - Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001000000)
 
 
 #### Unterabschnitt 1 - Maßstäbe und Verfahren der Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001100000)
 
 
 ##### § 39 Missbräuchliches Verhalten eines marktbeherrschenden Unternehmens bei der Forderung und Vereinbarung von Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004000000)
 
 (1) Ein Unternehmen, das auf einem Markt für Postdienstleistungen
 marktbeherrschend ist, darf diese Stellung bei der Forderung und
@@ -1877,6 +1927,7 @@ des Absatzes 1 Satz 3 anerkennen.
 
 
 ##### § 40 Regulierung der Entgelte marktbeherrschender Anbieter von Postdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004100000)
 
 (1) Entgelte, die ein Unternehmen, das auf einem Markt für
 Postdienstleistungen marktbeherrschend ist, für
@@ -1897,6 +1948,7 @@ verpflichtet ist.
 
 
 ##### § 41 Marktmachtübertragung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004200000)
 
 (1) Erbringt ein Unternehmen, das auf einem benachbarten Markt, einem
 Postmarkt im Sinne des § 36 oder einem anderen Markt über eine
@@ -1927,9 +1979,11 @@ seine Marktverhältnisse zu untersuchen.
 
 
 ##### Titel 1 - Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001200000)
 
 
 ###### § 42 Maßstäbe der Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004300000)
 
 (1) Genehmigungsbedürftige Entgelte dürfen die Kosten der effizienten
 Leistungsbereitstellung nach § 44 nicht übersteigen.
@@ -1955,6 +2009,7 @@ Dienstleistungen in einem Korb zusammengefasst werden kann.
 
 
 ###### § 43 Einzelentgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004400000)
 
 (1) Im Verfahren nach § 42 Absatz 2 Nummer 1 prüft die
 Bundesnetzagentur für jedes einzelne Entgelt, ob die Maßgaben der §§
@@ -2021,6 +2076,7 @@ durch das marktbeherrschende Unternehmen.
 
 
 ###### § 44 Kosten der effizienten Leistungsbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004500000)
 
 (1) Die Kosten der effizienten Leistungsbereitstellung ergeben sich
 aus den langfristigen zusätzlichen Kosten der Leistungsbereitstellung
@@ -2124,6 +2180,7 @@ Zurechnungszusammenhang besteht, maximal aber anhand eines Anteils von
 
 
 ###### § 45 Price-Cap-Verfahren – Maßgrößenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004600000)
 
 (1) Im Verfahren nach § 42 Absatz 2 Nummer 2 bestimmt die
 Bundesnetzagentur den Inhalt der Körbe. Dienstleistungen werden in
@@ -2177,6 +2234,7 @@ Dritten die Möglichkeit, zum Entscheidungsentwurf Stellung zu nehmen.
 
 
 ###### § 46 Price-Cap-Verfahren – Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004700000)
 
 (1) Die Genehmigung der Entgelte im Verfahren nach § 42 Absatz 2
 Nummer 2 ist elektronisch zu beantragen. Mit dem Entgeltantrag hat das
@@ -2205,6 +2263,7 @@ vollständig vorlegt.
 
 
 ###### § 47 Investitionen in eine ökologisch nachhaltige Postversorgung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004800000)
 
 (1) Um zu gewährleisten, dass Investitionen in eine ökologisch
 nachhaltige Postversorgung getätigt werden, wird die Höhe des
@@ -2256,6 +2315,7 @@ nicht bereits aus der vorherigen Regulierungsperiode übertragen wurde.
 
 
 ###### § 48 Abweichung von genehmigten Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE004900000)
 
 (1) Marktbeherrschende Unternehmen dürfen nur die von der
 Bundesnetzagentur genehmigten Entgelte verlangen.
@@ -2271,9 +2331,11 @@ bis zur Genehmigung des Entgelts schwebend unwirksam.
 
 
 ##### Titel 2 - Nachträgliche Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001300000)
 
 
 ###### § 49 Nachträgliche Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005000000)
 
 (1) Werden der Bundesnetzagentur Tatsachen bekannt, die die Annahme
 rechtfertigen, dass nicht genehmigungsbedürftige Entgelte nicht den
@@ -2317,6 +2379,7 @@ Anbieter ist das Ergebnis der Prüfung nach Satz 1 mitzuteilen.
 
 
 ###### § 50 Entgeltanzeige, Vorlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005100000)
 
 (1) Ein marktbeherrschendes Unternehmen kann Entgelte, die nicht der
 Genehmigungspflicht nach § 40 Absatz 1 unterliegen, zwei Monate vor
@@ -2349,9 +2412,11 @@ geben.
 
 
 #### Unterabschnitt 2 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001400000)
 
 
 ##### § 51 Anordnungen im Rahmen der Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005200000)
 
 (1) Die Bundesnetzagentur kann zur Vorbereitung oder Durchführung von
 Verfahren der Entgeltregulierung anordnen, dass ihr vom
@@ -2423,6 +2488,7 @@ bis zu 1 Million Euro festgesetzt werden.
 
 
 ##### § 52 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005300000)
 
 (1) Die Bundesnetzagentur soll einem Unternehmen, das auf einem Markt
 für Postdienstleistungen marktbeherrschend ist, für die Verfahren der
@@ -2456,15 +2522,18 @@ veröffentlicht das Prüfergebnis.
 
 
 ##### § 53 Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005400000)
 
 Die Bundesnetzagentur veröffentlicht beantragte, genehmigte und
 angeordnete Entgelte.
 
 
 ### Abschnitt 3 - Zugangsregulierung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001500000)
 
 
 #### § 54 Zugangsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005500000)
 
 (1) Ein Unternehmen, das auf einem Markt für Briefdienstleistungen
 marktbeherrschend ist, hat auf diesem Markt Teile der von ihm
@@ -2536,6 +2605,7 @@ Zugangsleistungen anbietet, ohne dazu verpflichtet zu sein.
 
 
 #### § 55 Zugangsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005600000)
 
 (1) Ein nach § 54 verpflichtetes Unternehmen hat gegenüber anderen
 Anbietern von Postdienstleistungen, die Leistungen nach § 54
@@ -2584,6 +2654,7 @@ zur Verfügung zu stellen beziehungsweise vorzulegen sind.
 
 
 #### § 56 Schlichtung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005700000)
 
 Kommt eine Vereinbarung nach § 55 Absatz 1 nicht innerhalb von drei
 Monaten nachdem ein Zugangsbegehren geltend gemacht worden ist,
@@ -2592,6 +2663,7 @@ Schlichtungsstelle anrufen.
 
 
 #### § 57 Anordnung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005800000)
 
 (1) Kommt eine Vereinbarung nach § 55 Absatz 1 nicht innerhalb von
 drei Monaten nachdem ein Zugangsbegehren geltend gemacht worden ist,
@@ -2616,9 +2688,11 @@ ein Zwangsgeld von bis zu 1 Million Euro festsetzen.
 
 
 ## Kapitel 6 - Besondere Missbrauchsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001600000)
 
 
 ### § 58 Missbrauchsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE005900000)
 
 (1) Ein Unternehmen, das auf einem Markt für Postdienstleistungen
 marktbeherrschend ist, darf seine Stellung nicht missbrauchen. Ein
@@ -2649,6 +2723,7 @@ mitzuteilen.
 
 
 ### § 59 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006000000)
 
 (1) Wer vorsätzlich oder fahrlässig gegen dieses Gesetz, gegen eine
 aufgrund dieses Gesetzes erlassene Rechtsverordnung oder gegen eine
@@ -2664,6 +2739,7 @@ Gesetzbuchs gilt entsprechend.
 
 
 ### § 60 Vorteilsabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006100000)
 
 (1) Hat ein Unternehmen gegen eine Verfügung der Bundesnetzagentur
 nach § 58 Absatz 3 oder vorsätzlich oder fahrlässig gegen eine andere
@@ -2700,12 +2776,15 @@ Vermutung in dessen Satz 1 auf Verstöße nach Absatz 1 bezieht.
 
 
 ## Kapitel 7 - Förmliche Zustellung, Postgeheimnis und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001700000)
 
 
 ### Abschnitt 1 - Förmliche Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001800000)
 
 
 #### § 61 Verpflichtung zur förmlichen Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006200000)
 
 Ein Anbieter, der
 
@@ -2729,6 +2808,7 @@ Verpflichtung ist der Anbieter mit Hoheitsbefugnissen ausgestattet
 
 
 #### § 62 Entgelte für förmliche Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006300000)
 
 Der nach § 61 verpflichtete Anbieter hat Anspruch auf ein Entgelt.
 Durch dieses werden alle von dem Anbieter erbrachten Leistungen
@@ -2740,6 +2820,7 @@ ist.
 
 
 #### § 63 Haftung bei der Durchführung förmlicher Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006400000)
 
 Für Schäden, die durch eine Pflichtverletzung bei der Durchführung der
 förmlichen Zustellung entstehen, haftet der Anbieter nach den
@@ -2749,9 +2830,11 @@ Bereich.
 
 
 ### Abschnitt 2 - Postgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG001900000)
 
 
 #### § 64 Postgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006500000)
 
 (1) Dem Postgeheimnis unterliegen die näheren Umstände des
 Postverkehrs bestimmter natürlicher oder juristischer Personen sowie
@@ -2870,6 +2953,7 @@ Postverkehr zum Schaden eines Postunternehmens begangen wurden.
 
 
 #### § 65 Mitteilungen an Gerichte und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006600000)
 
 Unternehmen und Personen, die geschäftsmäßig Postdienstleistungen
 erbringen oder an der Erbringung solcher Dienstleistungen mitwirken,
@@ -2879,6 +2963,7 @@ des Postverkehrs der Gerichte oder Behörden erforderlich ist.
 
 
 #### § 66 Kontrolle und Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006700000)
 
 (1) Die Bundesnetzagentur kann Anordnungen und andere Maßnahmen
 treffen, um die Einhaltung der in den §§ 61, 64 und 65 enthaltenen
@@ -2911,9 +2996,11 @@ wird insoweit eingeschränkt.
 
 
 ### Abschnitt 3 - Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002000000)
 
 
 #### § 67 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006800000)
 
 Für Diensteanbieter werden die Vorgaben der Verordnung (EU) 2016/679
 des Europäischen Parlaments und des Rates vom 27. April 2016 zum
@@ -2926,6 +3013,7 @@ ergänzt.
 
 
 #### § 68 Anschriften, Daten zum Zweck der Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE006900000)
 
 (1) Diensteanbieter dürfen personenbezogene Daten, die sich auf die
 vorübergehende oder dauerhafte Änderung einer Anschrift beziehen,
@@ -2964,6 +3052,7 @@ dürfen vom Diensteanbieter berichtigt werden.
 
 
 #### § 69 Ausweisdaten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007000000)
 
 (1) Diensteanbieter können von am Postverkehr Beteiligten verlangen,
 sich über ihre Person durch Vorlage eines gültigen Personalausweises
@@ -2997,6 +3086,7 @@ oder vertraglicher Verjährungsfristen zu löschen.
 
 
 #### § 70 Fundbriefe
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007100000)
 
 Diensteanbieter dürfen personenbezogene Daten auch in den Fällen
 verarbeiten, in denen Postsendungen in ihren Betriebsablauf gelangt
@@ -3010,6 +3100,7 @@ gewählten Diensteanbieter möglich ist.
 
 
 #### § 71 Datenschutzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007200000)
 
 (1) Soweit für das geschäftsmäßige Erbringen von Postdienstleistungen
 personenbezogene Daten verarbeitet werden, tritt bei den Unternehmen
@@ -3026,9 +3117,11 @@ des Grundgesetzes wird insoweit eingeschränkt.
 
 
 ## Kapitel 8 - Postwertzeichen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002100000)
 
 
 ### § 72 Postwertzeichen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007300000)
 
 (1) Die Befugnis, Postwertzeichen mit dem Aufdruck „Deutschland“
 auszugeben und für ungültig zu erklären, ist dem Bundesministerium der
@@ -3042,9 +3135,11 @@ Abgeltung von Postdienstleistungen bedarf dessen Erlaubnis.
 
 
 ## Kapitel 9 - Sektorspezifische Vorgaben zum Schutz der im Postsektor Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002200000)
 
 
 ### § 73 Vorgaben für Pakete mit erhöhtem Gewicht, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007400000)
 
 (1) Anbieter haben sicherzustellen, dass
 
@@ -3077,6 +3172,7 @@ unterweisen und die Unterweisung zu dokumentieren.
 
 
 ### § 74 Beschwerdestelle
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007500000)
 
 (1) Die Bundesnetzagentur richtet eine Beschwerdestelle ein, bei der
 natürliche Personen im Zusammenhang mit ihrer beruflichen Tätigkeit
@@ -3114,9 +3210,11 @@ Aufgaben erforderlich ist.
 
 
 ## Kapitel 10 - Sektorspezifische Vorgaben für einen ökologisch nachhaltigen Postsektor
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002300000)
 
 
 ### § 75 Ökologisch nachhaltiger Postsektor
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007600000)
 
 (1) Zur Verwirklichung eines ökologisch nachhaltigen Postsektors im
 Sinne des § 2 Absatz 2 Nummer 4 soll der Postsektor einen angemessenen
@@ -3130,6 +3228,7 @@ Postsektors durch die Berichterstattung der Bundesnetzagentur nach §
 
 
 ### § 76 Transparenz über die ökologische Nachhaltigkeit des Postsektors, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007700000)
 
 (1) Für mehr Transparenz über die ökologische Nachhaltigkeit des
 Postsektors berichtet die Bundesnetzagentur der Bundesregierung in
@@ -3202,6 +3301,7 @@ freiwillig an der Datenerhebung nach Absatz 2 teilnehmen.
 
 
 ### § 77 Klimadialog
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007800000)
 
 Die Bundesnetzagentur führt mit den Unternehmen nach § 76 Absatz 1
 Satz 1 einen Klimadialog. Funktion des Dialogs ist es, sich gemeinsam
@@ -3218,6 +3318,7 @@ Absatz 2 austauschen.
 
 
 ### § 78 Kooperationen im Postsektor
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE007900000)
 
 (1) Um eine effiziente und ökologisch nachhaltige Erbringung von
 Postsendungen sowohl im städtischen als auch im ländlichen Raum zu
@@ -3267,12 +3368,15 @@ Kooperationsmodellen machen.
 
 
 ## Kapitel 11 - Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002400000)
 
 
 ### Abschnitt 1 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002500000)
 
 
 #### § 79 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008000000)
 
 Die Bundesnetzagentur nimmt die ihr nach diesem Gesetz zugewiesenen
 Aufgaben und Befugnisse wahr. Sie nimmt darüber hinaus die Aufgaben
@@ -3283,6 +3387,7 @@ und Befugnisse als nationale Regulierungsbehörde nach der Verordnung
 
 
 #### § 80 Medien der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008100000)
 
 Veröffentlichungen und Bekanntmachungen, zu denen die
 Bundesnetzagentur durch dieses Gesetz verpflichtet wird, erfolgen im
@@ -3291,6 +3396,7 @@ nichts Abweichendes bestimmt ist.
 
 
 #### § 81 Veröffentlichung von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008200000)
 
 Weisungen, die das Bundesministerium für Wirtschaft und Klimaschutz im
 Hinblick auf den Erlass oder die Unterlassung von Entscheidungen nach
@@ -3302,6 +3408,7 @@ Erfüllung es die Bundesnetzagentur beauftragt hat.
 
 
 #### § 82 Rechte des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008300000)
 
 (1) Der Beirat nach § 5 des Gesetzes über die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ist der
@@ -3322,6 +3429,7 @@ sechs Wochen zu bescheiden.
 
 
 #### § 83 Wissenschaftliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008400000)
 
 Die Bundesnetzagentur kann zur Vorbereitung ihrer Entscheidungen oder
 zur Begutachtung von Fragen der Regulierung wissenschaftliche
@@ -3332,6 +3440,7 @@ ausgewiesene wissenschaftliche Kenntnisse verfügen.
 
 
 #### § 84 Tätigkeitsbericht der Bundesnetzagentur und Sektorgutachten der Monopolkommission
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008500000)
 
 (1) Die Bundesnetzagentur legt den gesetzgebenden Körperschaften des
 Bundes alle zwei Jahre einen Bericht über ihre Tätigkeit sowie über
@@ -3369,6 +3478,7 @@ gegen Wettbewerbsbeschränkungen entsprechend.
 
 
 #### § 85 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008600000)
 
 (1) Die Bundesnetzagentur entscheidet im Einvernehmen mit dem
 Bundeskartellamt
@@ -3429,6 +3539,7 @@ der jeweiligen Vorgaben zuständigen Behörden.
 
 
 #### § 86 Zusammenarbeit mit Behörden anderer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008700000)
 
 Sofern es für die Durchführung der Aufgaben der Bundesnetzagentur nach
 diesem Gesetz erforderlich ist, arbeitet sie im Falle
@@ -3437,6 +3548,7 @@ Behörden anderer Staaten zusammen.
 
 
 #### § 87 Bereitstellung von Informationen für die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008800000)
 
 Die Bundesnetzagentur stellt der Europäischen Kommission auf deren
 begründeten Antrag oder, soweit dies vorgesehen ist, ohne Antrag die
@@ -3450,6 +3562,7 @@ benötigt.
 
 
 #### § 88 Internationale Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE008900000)
 
 (1) Im europäischen und internationalen Postsektor, insbesondere bei
 der Mitarbeit in europäischen und internationalen Institutionen und
@@ -3470,9 +3583,11 @@ Sätze 1 und 2 keine Anwendung.
 
 
 ### Abschnitt 2 - Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002600000)
 
 
 #### § 89 Durchsetzung von Verpflichtungen, Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009000000)
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Anbieter seine
 Verpflichtungen nach diesem Gesetz, aufgrund dieses Gesetzes oder nach
@@ -3502,6 +3617,7 @@ bis zu 10 Millionen Euro festgesetzt werden.
 
 
 #### § 90 Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009100000)
 
 (1) Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz, aufgrund
 dieses Gesetzes sowie der ihr aufgrund der Verordnung (EU) 2018/644
@@ -3572,6 +3688,7 @@ weiterverarbeitungsfähigen Format, das die Bundesnetzagentur vorgibt.
 
 
 #### § 91 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009200000)
 
 (1) Die Inhaber der Unternehmen oder die diese vertretenden Personen
 sind verpflichtet,
@@ -3642,6 +3759,7 @@ zu 1 Million Euro festgesetzt werden.
 
 
 #### § 92 Verfahren zur Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009300000)
 
 (1) Soweit dieses Gesetz natürliche oder juristische Personen dazu
 verpflichtet, Informationen an die Bundesnetzagentur zu übermitteln,
@@ -3667,6 +3785,7 @@ ausdrücklich eine andere Form vor.
 
 
 #### § 93 Datennutzung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009400000)
 
 (1) Unbeschadet spezialgesetzlicher Regelungen ist die
 Bundesnetzagentur berechtigt, ihr vorliegende, aufgrund einer
@@ -3692,6 +3811,7 @@ der Bundesnetzagentur erfolgen.
 
 
 #### § 94 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009500000)
 
 (1) Die Bundesnetzagentur kann alle Ermittlungen führen und alle
 Beweise erheben, die zur Wahrnehmung ihre Aufgaben erforderlich sind.
@@ -3726,6 +3846,7 @@ Herbeiführung einer wahrheitsgemäßen Aussage für notwendig erachtet.
 
 
 #### § 95 Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009600000)
 
 (1) Die Bundesnetzagentur kann Gegenstände, die als Beweismittel für
 die Ermittlung von Bedeutung sein können, beschlagnahmen. Die
@@ -3749,18 +3870,22 @@ entsprechend.
 
 
 #### § 96 Vorläufige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009700000)
 
 Die Bundesnetzagentur kann bis zur endgültigen Entscheidung vorläufige
 Anordnungen treffen.
 
 
 ### Abschnitt 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002700000)
 
 
 #### Unterabschnitt 1 - Abschluss des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002800000)
 
 
 ##### § 97 Bekanntgabe von Allgemeinverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009800000)
 
 Entscheidungen der Bundesnetzagentur, die durch Allgemeinverfügung
 getroffen werden, sind öffentlich bekannt zu geben. Die öffentliche
@@ -3793,9 +3918,11 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 
 
 #### Unterabschnitt 2 - Verfahren vor der Beschlusskammer
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG002900000)
 
 
 ##### § 98 Beschlusskammerentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE009900000)
 
 (1) In den Fällen des § 21 in Verbindung mit § 49, des § 62, des
 Kapitels 5 Abschnitt 2 und 3 sowie des Kapitels 6 mit Ausnahme des §
@@ -3825,6 +3952,7 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen geregelt.
 
 
 ##### § 99 Einleitung des Verfahrens, Verfahrensbeteiligte
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010000000)
 
 (1) Die Beschlusskammer leitet ein Verfahren von Amts wegen oder auf
 Antrag ein.
@@ -3846,6 +3974,7 @@ Antrag ein.
 
 
 ##### § 100 Anhörung, mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010100000)
 
 (1) Die Beschlusskammer hat den Beteiligten Gelegenheit zur
 Stellungnahme zu geben.
@@ -3900,6 +4029,7 @@ glaubhaft zu machen.
 
 
 ##### § 101 Betriebs- und Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010200000)
 
 Unverzüglich nach der Vorlage von Unterlagen im Rahmen des
 Beschlusskammerverfahrens haben alle Beteiligten diejenigen Teile zu
@@ -3913,6 +4043,7 @@ an Dritte die vorlegenden Personen hören.
 
 
 ##### § 102 Abschluss des Beschlusskammerverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010300000)
 
 (1) Entscheidungen der Beschlusskammer sind den Beteiligten nach den
 Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
@@ -3934,9 +4065,11 @@ Beendigung den Beteiligten mitzuteilen.
 
 
 #### Unterabschnitt 3 - Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG003000000)
 
 
 ##### § 103 Rechtsbehelfe, Vorlage- und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010400000)
 
 (1) Ein Vorverfahren findet in den Fällen des § 98 nicht statt.
 
@@ -3969,6 +4102,7 @@ Bundesnetzagentur tritt.
 
 
 ##### § 104 Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010500000)
 
 Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
 ergeben, gilt § 90 Absatz 1 und 2 des Gesetzes gegen
@@ -3979,9 +4113,11 @@ Präsidentin.
 
 
 ## Kapitel 12 - Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG003100000)
 
 
 ### § 105 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010600000)
 
 (1) Die Vorschriften dieses Kapitels sind anzuwenden zur
 Sicherstellung einer Mindestversorgung mit Postdienstleistungen
@@ -4010,6 +4146,7 @@ Postbevorrechtigung nach § 107.
 
 
 ### § 106 Postsicherstellungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010700000)
 
 Die nach § 105 Absatz 2 Verpflichteten haben folgende von ihnen
 erbrachte Postdienstleistungen aufrechtzuerhalten:
@@ -4038,6 +4175,7 @@ Zustellfrequenzen zu gewährleisten.
 
 
 ### § 107 Postbevorrechtigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010800000)
 
 (1) Die nach § 105 Absatz 2 Verpflichteten haben Postdienstleistungen
 nach § 106 Satz 1 für Postbevorrechtigte vorrangig zu erbringen.
@@ -4088,6 +4226,7 @@ ausgestellte Bescheinigung vorzulegen.
 
 
 ### § 108 Unterstützung der Feldpost
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE010900000)
 
 Die nach § 105 Absatz 2 Verpflichteten haben die von der Bundeswehr
 betriebene Postversorgung ihrer Angehörigen und Einheiten im Einsatz
@@ -4103,6 +4242,7 @@ Verbrauchsmaterial unterstützen.
 
 
 ### § 109 Mitwirkungspflichten und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE011000000)
 
 (1) Die nach § 105 Absatz 2 Verpflichteten haben auf Anordnung des
 Bundesministeriums für Wirtschaft und Klimaschutz in den Fällen des §
@@ -4123,6 +4263,7 @@ Betrag, der für einen achtstündigen Einsatz zu leisten ist, nicht
 
 
 ### § 110 Kontrolle und Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE011100000)
 
 (1) Die Bundesnetzagentur kann Anordnungen und andere Maßnahmen
 erlassen, um die Einhaltung der Vorschriften dieses Kapitels
@@ -4142,9 +4283,11 @@ zu 1 Million Euro festgesetzt werden.
 
 
 ## Kapitel 13 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG003200000)
 
 
 ### § 111 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE011200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4336,9 +4479,11 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 
 ## Kapitel 14 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNG003300000)
 
 
 ### § 112 Übergangsbestimmungen; Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/postg_2024/BJNR0EC0B0024.html#BJNR0EC0B0024BJNE011300000)
 
 (1) Anbieter, die am 18. Juli 2024 über eine gültige Lizenz nach
 Abschnitt 2 des Postgesetzes vom 22. Dezember 1997 verfügen, sind in

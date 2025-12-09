@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1994-02/BJNR100810994.html#BJNR100810994BJNE000100308)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
@@ -74,6 +75,7 @@ Entwurf der Münze stammt von Paul Effert, Kaarst.
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1994-02/BJNR100810994.html#BJNR100810994BJNE000200308)
 
 (Fundstelle: BGBl. I 1994, 1008)
 ![bgbl1_1994_j1008_0010.jpg](bgbl1_1994_j1008_0010.jpg)

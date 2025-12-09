@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkcheg/BJNR200740987.html#BJNR200740987BJNE000100305)
 
 Dem in Bern am 28. November 1984 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
@@ -32,6 +33,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkcheg/BJNR200740987.html#BJNR200740987BJNE000201311)
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in der Schweiz entstehen, trägt
@@ -57,12 +59,14 @@ Aufgabenbereich des Bundes oder der Länder fällt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkcheg/BJNR200740987.html#BJNR200740987BJNE000300305)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kathilabkcheg/BJNR200740987.html#BJNR200740987BJNE000400305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

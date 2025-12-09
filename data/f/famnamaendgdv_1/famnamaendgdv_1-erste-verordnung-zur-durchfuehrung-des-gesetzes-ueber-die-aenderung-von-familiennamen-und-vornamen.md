@@ -24,6 +24,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNE000300303)
 
 Auf Grund des § 13 des Gesetzes über die Änderung von Familiennamen
 und Vornamen vom 5. Januar 1938 (Reichsgesetzbl. I S. 9) wird
@@ -31,15 +32,18 @@ folgendes verordnet:
 
 
 ## Art I
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNG000100303)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNE000400303)
 
 -
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNE000500303)
 
 (1) Die höhere Verwaltungsbehörde kann den Antrag auf Änderung oder
 Feststellung des Familiennamens unter Bestimmung einer Frist zur
@@ -60,13 +64,16 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 
 
 ### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNE000603123)
 
 
 ## Art II - 
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNG000200303)
 
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/famnam_ndgdv_1/BJNR000120938.html#BJNR000120938BJNE000700303)
 
 Der Reichsminister des Innern
 

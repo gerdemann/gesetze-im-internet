@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000100328)
 
 (1)
 
@@ -31,6 +32,7 @@ Kreditinstitut vereinigt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000200328)
 
 (1) Für eine Vereinigung
 
@@ -67,6 +69,7 @@ gilt § 3 dieses Gesetzes.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000300328)
 
 (1) Gerichtsgebühren einschließlich der Gebühren für die Berichtigung
 öffentlicher Bücher sowie notarielle Beurkundungsgebühren, die durch
@@ -101,6 +104,7 @@ Inkrafttreten dieses Gesetzes durchgeführt wird.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000400328)
 
 Vereinigung im Sinne dieses Gesetzes ist die Verschmelzung durch
 Aufnahme oder Neubildung gemäß
@@ -113,6 +117,7 @@ Nachfolgeinstitute erwirbt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000500328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -120,6 +125,7 @@ im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlaufhg/BJNR010730956.html#BJNR010730956BJNE000600328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

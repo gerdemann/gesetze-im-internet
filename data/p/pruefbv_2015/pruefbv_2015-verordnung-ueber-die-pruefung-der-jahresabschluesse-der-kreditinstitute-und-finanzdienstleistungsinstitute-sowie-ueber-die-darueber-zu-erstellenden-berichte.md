@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet auf
 Grund
@@ -50,9 +51,11 @@ Grund
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -72,6 +75,7 @@ des Kreditwesengesetzes.
 
 
 ### § 2 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000400000)
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt
 (Berichtszeitraum), ist in der Regel das am Stichtag des
@@ -90,6 +94,7 @@ Bilanzstichtag zu beziehen.
 
 
 ### § 3 Risikoorientierung und Wesentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000500000)
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
 ist Rechnung zu tragen. Dabei sind insbesondere die Größe des
@@ -98,6 +103,7 @@ Risikogehalt der betriebenen Geschäfte zu berücksichtigen.
 
 
 ### § 4 Art und Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000600000)
 
 (1) Der Umfang der Berichterstattung hat, vorbehaltlich der
 nachfolgenden Bestimmungen, der Bedeutung und dem Risikogehalt der
@@ -141,6 +147,7 @@ Beseitigung eingeleitet worden sind.
 
 
 ### § 5 Form und Frist der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000700000)
 
 Jeder Prüfungsbericht und jeder Teilprüfungsbericht ist unverzüglich
 nach Fertigstellung bei der zuständigen Hauptverwaltung der Deutschen
@@ -156,6 +163,7 @@ deren Form.
 
 
 ### § 6 Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000800000)
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung
 geforderten Angaben erstellt werden, können diese zum Zweck der
@@ -166,6 +174,7 @@ Prüfungsbericht nicht unübersichtlich macht.
 
 
 ### § 7 Zusammenfassende Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE000900000)
 
 (1) In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht
 bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach §
@@ -211,6 +220,7 @@ Angaben und Annahmen zugrunde liegen.
 
 
 ### § 8 Berichtsturnus; Unterzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001000000)
 
 (1) Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur
 über Änderungen zu berichten, hat der Prüfer in angemessenen Abständen
@@ -222,9 +232,11 @@ unterzeichnen.
 
 
 ## Abschnitt 2 - Angaben zum Institut
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000200000)
 
 
 ### § 9 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001102118)
 
 (1) Es ist zu berichten über die Ausschöpfung und Überschreitung der
 Erlaubnis zum Betreiben von Bankgeschäften und der Erbringung von
@@ -307,6 +319,7 @@ Wertpapierhandelsgesetzes eingehalten werden.
 
 
 ### § 10 Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001200000)
 
 Der Abschlussprüfer hat über die wesentlichen ausländischen
 Zweigniederlassungen des Instituts zu berichten. Dabei ist für diese
@@ -327,12 +340,15 @@ Zweigniederlassungen Folgendes zu beurteilen:
 
 
 ## Abschnitt 3 - Aufsichtliche Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000300000)
 
 
 ### Unterabschnitt 1 - Risikomanagement und Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000400000)
 
 
 #### § 11 Angemessenheit und Wirksamkeit des Risikomanagements und Ordnungsmäßigkeit der Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001300000)
 
 (1) Der Abschlussprüfer hat die Angemessenheit und Wirksamkeit des
 Risikomanagements gemäß § 25a Absatz 1 Satz 3 des Kreditwesengesetzes
@@ -405,6 +421,7 @@ Auskünfte einholen können.
 
 
 #### § 12 Vergütungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001400000)
 
 (1) Der Abschlussprüfer hat darüber zu berichten, ob sich das Institut
 als bedeutendes Institut im Sinne der Institutsvergütungsverordnung
@@ -491,6 +508,7 @@ Folgendes einzugehen:
 
 
 #### § 13 IT-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001500000)
 
 (1) Der Abschlussprüfer hat im Rahmen der Beurteilung nach § 11 Absatz
 2 Nummer 5 und 6 insbesondere darzustellen und zu beurteilen, ob die
@@ -522,6 +540,7 @@ deren Einbindung im berichtspflichtigen Institut.
 
 
 #### § 14 Zinsänderungsrisiken im Anlagebuch
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001600000)
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen
 zur ordnungsgemäßen Ermittlung der Auswirkungen einer nach § 25a
@@ -542,6 +561,7 @@ Spareinrichtung nicht anzuwenden.
 
 
 #### § 14a Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001602311)
 
 (1) Der Abschlussprüfer hat die Verfahren zur Ermittlung aller OTC-
 Derivate-Kontrakte, die der Pflicht zum Clearing durch eine zentrale
@@ -632,6 +652,7 @@ Abschlussprüfer hierüber zu berichten.
 
 
 #### § 15 Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001700000)
 
 (1) Im Rahmen der Prüfung nach § 29 Absatz 1 Satz 7 des
 Kreditwesengesetzes ist zu beurteilen, ob der Sanierungsplan die
@@ -708,9 +729,11 @@ Sicherungssystem notwendig sind.
 
 
 ### Unterabschnitt 2 - Handelsbuch
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000500000)
 
 
 #### § 16 Vorgaben für das Handelsbuch
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001800000)
 
 Es ist zu beurteilen, ob das Institut im Berichtszeitraum die Vorgaben
 nach den Artikeln 102 bis 104 und 106 der Verordnung (EU) Nr. 575/2013
@@ -722,6 +745,7 @@ und für die Führung des Handelsbuchs, erfüllte.
 
 
 #### § 17 Ausnahme für Handelsbuchtätigkeiten von geringem Umfang
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE001900000)
 
 Sofern das Institut im Berichtszeitraum von der Ausnahme für
 Handelsbuchtätigkeiten von geringem Umfang Gebrauch gemacht hat, ist
@@ -735,9 +759,11 @@ Prozentsatzes der Überschreitung anzugeben.
 
 
 ### Unterabschnitt 3 - Eigenmittel, Kapitalquoten und Liquiditätslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000600000)
 
 
 #### § 18 Ermittlung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002000000)
 
 Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur
 ordnungsgemäßen Ermittlung des harten Kernkapitals, des zusätzlichen
@@ -747,6 +773,7 @@ Verfahrensänderungen während des Berichtszeitraums darzustellen.
 
 
 #### § 19 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002100000)
 
 (1) Darzustellen sind die Höhe und die Zusammensetzung der Eigenmittel
 des Instituts nach Artikel 72 der Verordnung (EU) Nr. 575/2013 nach
@@ -795,6 +822,7 @@ Artikel 105 in Verbindung mit Artikel 34 der Verordnung (EU) Nr.
 
 
 #### § 20 Kapitalpuffer
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002200000)
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen
 zur ordnungsgemäßen Ermittlung der kombinierten Kapitalpuffer-
@@ -807,6 +835,7 @@ Kreditwesengesetzes ist zu berichten.
 
 
 #### § 21 Kapitalquoten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002300000)
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen
 zur ordnungsgemäßen Ermittlung der Kapitalquoten nach Artikel 92
@@ -819,6 +848,7 @@ ist darzustellen.
 
 
 #### § 22 Solvabilitätskennzahl bei Wohnungsunternehmen mit Spareinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002400000)
 
 (1) Für Wohnungsunternehmen mit Spareinrichtung ist zu beurteilen, ob
 die vom Wohnungsunternehmen mit Spareinrichtung getroffenen
@@ -834,6 +864,7 @@ Eigenkapitalquote ist darzustellen.
 
 
 #### § 23 Liquiditätslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002500000)
 
 (1) Die Liquiditätslage und die Liquiditätssteuerung sind zu
 beurteilen. Über Maßnahmen zur Verbesserung der Liquiditätslage ist zu
@@ -851,9 +882,11 @@ gegenüber dem letzten Berichtszeitraum ist einzugehen.
 
 
 ### Unterabschnitt 4 - Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000700000)
 
 
 #### § 24 Offenlegungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002600000)
 
 Der Prüfer hat die Angemessenheit der Prozesse zur Ermittlung und
 Offenlegung der Informationen nach Teil 8 der Verordnung (EU) Nr.
@@ -864,9 +897,11 @@ geforderten Offenlegungspflichten erfüllt hat.
 
 
 ### Unterabschnitt 5 - Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000800000)
 
 
 #### § 25 Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002700000)
 
 Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Die
 Vorkehrungen des Instituts für die Sicherstellung der Vollständigkeit
@@ -875,9 +910,11 @@ festgestellte wesentliche Verstöße sind aufzuführen.
 
 
 ### Unterabschnitt 6 - Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen zu Lasten des Instituts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG000900000)
 
 
 #### § 26 Zeitpunkt der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002801118)
 
 (1) Die Prüfung der Vorkehrungen der Institute zur Verhinderung von
 Geldwäsche und der Terrorismusfinanzierung sowie sonstiger strafbarer
@@ -926,6 +963,7 @@ Gleiches gilt für
 
 
 #### § 27 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE002902118)
 
 (1) Der Prüfer hat im Prüfungsbericht die Vorkehrungen darzustellen,
 die das verpflichtete Institut im Berichtszeitraum zur Verhinderung
@@ -1088,6 +1126,7 @@ die vorstehenden Absätze unberührt.
 
 
 #### § 28 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003001119)
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die
 von dem Kreditinstitut getroffenen internen Vorkehrungen den
@@ -1123,6 +1162,7 @@ ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 29 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003101119)
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die
 von dem Kreditinstitut getroffenen internen Vorkehrungen den
@@ -1167,6 +1207,7 @@ ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 29a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE008200118)
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die
 von dem Institut getroffenen internen Vorkehrungen den Anforderungen
@@ -1195,6 +1236,7 @@ ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 29b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE008300118)
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die
 von dem Kreditinstitut getroffenen internen Vorkehrungen den
@@ -1247,9 +1289,11 @@ zu berichten.
 
 
 ### Unterabschnitt 7 - Gruppenangehörige Institute
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001000000)
 
 
 #### § 30 Ausnahmen für gruppenangehörige Institute
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003200000)
 
 (1) Auf gruppenangehörige Unternehmen von Institutsgruppen und
 Finanzholding-Gruppen, die die Bundesanstalt gemäß § 2a Absatz 2 des
@@ -1266,9 +1310,11 @@ Voraussetzungen gemäß § 2a des Kreditwesengesetzes vorliegen.
 
 
 ## Abschnitt 4 - Angaben zum Kreditgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001100000)
 
 
 ### § 31 Berichterstattung über das Kreditgeschäft und das Verbriefungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003302123)
 
 (1) Es sind die wesentlichen strukturellen Merkmale und Risiken des
 Kreditgeschäfts nach § 19 des Kreditwesengesetzes darzustellen und zu
@@ -1307,6 +1353,7 @@ Risikomanagement ist einzugehen.
 
 
 ### § 32 Länderrisiko
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003400000)
 
 Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt
 sowie die Methode zu ihrer Steuerung und Überwachung sind zu
@@ -1315,6 +1362,7 @@ Länderrisiken auf der Grundlage von geeigneten Analysen erfolgt.
 
 
 ### § 33 Organkredite
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003500000)
 
 (1) Sämtliche Organkredite nach § 15 des Kreditwesengesetzes sind in
 die Auswahl der zu prüfenden Kredite einzubeziehen.
@@ -1351,6 +1399,7 @@ Kreditwesengesetzes zu beeinträchtigen.
 
 
 ### § 34 Bemerkenswerte Kredite
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003600000)
 
 (1) Bemerkenswerte Kredite sind nach Risikogruppen gegliedert einzeln
 zu besprechen und in einem Gesamtverzeichnis unter Angabe der
@@ -1397,6 +1446,7 @@ hervorzuheben.
 
 
 ### § 35 Beurteilung der Werthaltigkeit von Krediten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003700000)
 
 (1) Bei der Beurteilung der Werthaltigkeit der Kredite im Sinne des §
 34 Absatz 2 Nummer 1 ist auch zu beurteilen, ob die gebildete
@@ -1412,6 +1462,7 @@ das damit verbundene Länderrisiko zu beurteilen.
 
 
 ### § 36 Einhaltung der Offenlegungsvorschriften des § 18 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003800000)
 
 Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des
 Kreditwesengesetzes beachtet wurde. Der Abschlussprüfer hat die
@@ -1419,6 +1470,7 @@ Angemessenheit der institutsspezifischen Verfahren zu beurteilen.
 
 
 ### § 37 Sorgfaltspflichten für institutionelle Anleger in Bezug auf Verbriefungspositionen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE003901118)
 
 (1) Bei der Beurteilung, ob die Anforderungen für
 Verbriefungspositionen erfüllt sind, sind auch die von einem Institut
@@ -1439,12 +1491,15 @@ Darstellung der schriftlich fixierten Verfahren einzugehen.
 
 
 ## Abschnitt 5 - Abschlussorientierte Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001200000)
 
 
 ### Unterabschnitt 1 - Wirtschaftliche Lage des Instituts, einschließlich der geschäftlichen Entwicklung und der Ergebnisentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001300000)
 
 
 #### § 38 Geschäftliche Entwicklung im Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004000000)
 
 (1) Die geschäftliche Entwicklung des Instituts ist unter
 Gegenüberstellung der für sie kennzeichnenden Zahlen des
@@ -1467,6 +1522,7 @@ Prüfungsstelle (Durchschnittskennziffern) heranzuziehen.
 
 
 #### § 39 Entwicklung der Vermögenslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004100000)
 
 (1) Die Entwicklung der Vermögenslage des Instituts ist zu beurteilen.
 Besonderheiten, die für die Beurteilung der Vermögenslage von
@@ -1491,6 +1547,7 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 
 
 #### § 40 Entwicklung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004200000)
 
 (1) Die Entwicklung der Ertragslage des Instituts ist zu beurteilen.
 
@@ -1505,6 +1562,7 @@ Zinsänderungsrisiken.
 
 
 #### § 41 Risikolage und Risikovorsorge
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004300000)
 
 (1) Die Risikolage des Instituts ist zu beurteilen.
 
@@ -1516,9 +1574,11 @@ Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
 
 ### Unterabschnitt 2 - Erläuterungen zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001400000)
 
 
 #### § 42 Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004400000)
 
 (1) Die Bilanzposten, die Angaben unter dem Bilanzstrich und die
 Posten der Gewinn- und Verlustrechnung sind unter Berücksichtigung des
@@ -1551,9 +1611,11 @@ Werden Angaben gemacht, ist Folgendes zu berücksichtigen:
 
 
 ## Abschnitt 6 - Angaben zu Institutsgruppen, Finanzholding-Gruppen, gemischten Finanzholding-Gruppen und Finanzkonglomeraten sowie Angaben in Konzernprüfungsberichten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001500000)
 
 
 ### § 43 Regelungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004500000)
 
 (1) Dieser Abschnitt ist auf übergeordnete und nachgeordnete
 Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder
@@ -1573,6 +1635,7 @@ Zusammenfassung lediglich im Prüfungsbericht des obersten inländischen
 
 
 ### § 44 Ort der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004600000)
 
 Die Berichterstattung nach diesem Abschnitt kann statt im
 Prüfungsbericht des übergeordneten Unternehmens der Institutsgruppe,
@@ -1583,6 +1646,7 @@ Abschlussprüfer erstellt werden.
 
 
 ### § 45 In die aufsichtliche Zusammenfassung einzubeziehende Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004700000)
 
 (1) Die in die Zusammenfassung nach § 10a des Kreditwesengesetzes
 einbezogenen Unternehmen sind darzustellen. Für jedes Unternehmen ist
@@ -1603,6 +1667,7 @@ Kreditwesengesetzes bestehen, sind diese zu erläutern.
 
 
 ### § 46 Berichterstattung bei aufsichtsrechtlichen Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004800000)
 
 (1) Der Bericht über die Prüfung muss Ausführungen enthalten, die
 einen Überblick über die Lage der Gruppe und deren Risikostruktur
@@ -1619,6 +1684,7 @@ gemäß § 13c Absatz 1 Satz 1 des Kreditwesengesetzes.
 
 
 ### § 47 Zusammengefasste Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE004901118)
 
 (1) Bei übergeordneten Unternehmen sind die Höhe und Zusammensetzung
 der Eigenmittel der Gruppe nach § 10a des Kreditwesengesetzes nach dem
@@ -1645,6 +1711,7 @@ Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe.
 
 
 ### § 48 Zusätzliche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005000000)
 
 Vorbehaltlich der §§ 46 und 47 ist bei übergeordneten Unternehmen
 einer Institutsgruppe, Finanzholding-Gruppe, gemischten Finanzholding-
@@ -1674,6 +1741,7 @@ einzugehen auf:
 
 
 ### § 49 Mindestangaben im Konzernprüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005100000)
 
 (1) Unabhängig von der Ausübung des Wahlrechts nach § 44 gelten für
 den Konzernprüfungsbericht die nachfolgenden Absätze sowie die §§ 2
@@ -1694,6 +1762,7 @@ dargestellt ist.
 
 
 ### § 50 Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18 und 23 des Finanzkonglomerate-Aufsichtsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005200000)
 
 (1) Bei übergeordneten Unternehmen eines Finanzkonglomerats im Sinne
 des § 12 des Finanzkonglomerate-Aufsichtsgesetzes ist darzustellen, ob
@@ -1711,12 +1780,15 @@ umfasst auch die Einhaltung der Anzeigevorschriften gemäß § 23 Absatz
 
 
 ## Abschnitt 7 - Sondergeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001600000)
 
 
 ### Unterabschnitt 1 - Pfandbriefgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001700000)
 
 
 #### § 51 Grundsätze der Prüfung und Darstellung pfandbriefrechtlicher Aspekte
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005301118)
 
 Bei Pfandbriefbanken ist § 3 Satz 1 mit der Maßgabe anzuwenden, dass
 stets jeder der in § 1 Absatz 3 des Pfandbriefgesetzes bezeichneten
@@ -1725,6 +1797,7 @@ Gattungen Rechnung zu tragen ist. Dabei sind § 3 Satz 2 und § 4 Absatz
 
 
 #### § 52 Prüfung und Darstellung der organisatorischen Anforderungen des Pfandbriefgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005401118)
 
 (1) Bei Pfandbriefbanken ist die Einhaltung der folgenden
 Anforderungen zu beurteilen:
@@ -1783,13 +1856,16 @@ Vorschriften darzustellen und in ihrer Wirksamkeit zu beurteilen:
 
 
 #### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005501118)
 
 
 
 ### Unterabschnitt 2 - Bausparkassengeschäft
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001800000)
 
 
 #### § 54 Organisation und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005600000)
 
 (1) Im Rahmen der Berichterstattung gemäß den §§ 9 und 11 sind die
 Besonderheiten des Bausparkassengeschäfts hervorzuheben. Dabei ist
@@ -1824,6 +1900,7 @@ bausparkassenrechtlichen Meldungen und Anzeigen einzubeziehen.
 
 
 #### § 55 Angaben zum Kreditgeschäft von Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005700000)
 
 (1) Die Beurteilung gemäß § 54 umfasst auch die Sicherung der
 Darlehensforderungen und die Angemessenheit der
@@ -1840,6 +1917,7 @@ sonstigen Baudarlehen zu gliedern.
 
 
 #### § 56 Angaben zur geschäftlichen Entwicklung von Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005800000)
 
 Im Rahmen der Berichterstattung nach § 38 ist die geschäftliche
 Entwicklung der Bausparkasse auch anhand geeigneter
@@ -1877,12 +1955,14 @@ zum Kollektivgeschäft darzustellen. Anzugeben und zu beurteilen
 
 
 #### § 57 Angaben zur Liquiditätslage von Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE005900000)
 
 Das Volumen und die Verwendung der aufgenommenen Fremdmittel am Geld-
 und Kapitalmarkt sind darzustellen.
 
 
 #### § 58 Einsatz von Derivaten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006000000)
 
 (1) Werden derivative Sicherungsgeschäfte vorgenommen, so ist vom
 Prüfer zu erläutern und zu beurteilen, ob die Geschäfte ausschließlich
@@ -1895,6 +1975,7 @@ angemessen berücksichtigt ist.
 
 
 #### § 59 Angaben zur Ertragslage von Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006100000)
 
 Das Zinsergebnis ist jeweils im Vergleich zum Vorjahr darzustellen und
 wie folgt aufzugliedern:
@@ -1927,6 +2008,7 @@ Vor- und Zwischenfinanzierungskrediten ist zu berichten.
 
 
 #### § 60 Darstellung des Kollektivgeschäfts sowie der Vor- und Zwischenfinanzierung bei Bausparkassen
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006200000)
 
 (1) Über das Zuteilungsverfahren und die Zuteilungssituation ist
 anhand geeigneter Kennzahlen zu berichten. Hierbei ist gegebenenfalls
@@ -1991,9 +2073,11 @@ Bausparkassen-Verordnung).
 
 
 ### Unterabschnitt 3 - Finanzdienstleistungsinstitute
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG001900000)
 
 
 #### § 61 Eigenmittel gemäß Artikel 97 Absatz 1 der Verordnung (EU) Nr. 575/2013
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006300000)
 
 Bei Finanzportfolioverwaltern und Abschlussvermittlern, die nicht
 befugt sind, sich Eigentum oder Besitz an Geldern oder Wertpapieren
@@ -2007,6 +2091,7 @@ Voraussetzung ist zu berichten.
 
 
 #### § 62 Vorschriften für einzelne Finanzdienstleistungsinstitute
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006400000)
 
 (1) Bei Finanzdienstleistungsinstituten ohne Befugnis, sich Eigentum
 oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen,
@@ -2077,6 +2162,7 @@ zugrunde liegen, wenn
 
 
 #### § 63 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006500000)
 
 (1) § 12 Absatz 2 und 3, §§ 15, 17, 20, 21 Absatz 2 sowie §§ 24 und 37
 sind nicht anzuwenden auf Finanzdienstleistungsinstitute, die nicht
@@ -2111,9 +2197,11 @@ und § 24 keine Anwendung.
 
 
 ### Unterabschnitt 4 - Factoring
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002000000)
 
 
 #### § 64 Angaben bei Instituten, die das Factoring betreiben
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006600000)
 
 Bei Kreditinstituten, die das Factoring im Sinne des § 1 Absatz 1a
 Satz 2 Nummer 9 des Kreditwesengesetzes betreiben, ist über die
@@ -2122,9 +2210,11 @@ berichten.
 
 
 ### Unterabschnitt 5 - Leasing
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002100000)
 
 
 #### § 65 Angaben bei Instituten, die das Finanzierungsleasing betreiben
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006700000)
 
 Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1
 Absatz 1a Satz 2 Nummer 10 des Kreditwesengesetzes betreiben, sind die
@@ -2134,9 +2224,11 @@ Veräußerungsverluste und Vorsorgen anzugeben.
 
 
 ### Unterabschnitt 6 - Prüfung des Depotgeschäfts oder des eingeschränkten Verwahrgeschäfts
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002200000)
 
 
 #### § 66 Prüfungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006802360)
 
 (1) Bei Instituten, die das Depotgeschäft oder das eingeschränkte
 Verwahrgeschäft betreiben, ohne Wertpapierdienstleistungsunternehmen
@@ -2155,6 +2247,7 @@ sind.
 
 
 #### § 67 Zeitpunkt der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE006900000)
 
 (1) Die Prüfung findet einmal jährlich statt. Der Prüfer legt den
 Beginn der Prüfung und den Berichtszeitraum vorbehaltlich der
@@ -2171,6 +2264,7 @@ maßgeblichen Berichtszeitraums begonnen worden sein.
 
 
 #### § 68 Besondere Anforderungen an den Depotprüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007001360)
 
 (1) Der Depotprüfungsbericht muss Angaben enthalten zur
 Ordnungsmäßigkeit der Verwahrung und Verwaltung von Wertpapieren für
@@ -2198,6 +2292,7 @@ wesentlichen Beanstandungen sich auf Grund der Prüfung ergeben haben.
 
 
 #### § 69 Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007100000)
 
 (1) Ist ein Kreditinstitut oder eine Zweigniederlassung eines
 Kreditinstituts als Verwahrstelle nach § 68 Absatz 3 in Verbindung mit
@@ -2229,9 +2324,11 @@ wurden, ist auch hierüber zu berichten.
 
 
 ### Unterabschnitt 7 - Führung eines zentralen Registers oder eines Kryptowertpapierregisters gemäß den §§ 12 und 16 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002500119)
 
 
 #### § 69a Prüfung der registerführenden Stelle gemäß § 12 Absatz 2 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE008400119)
 
 Bei Instituten, die ein zentrales Register gemäß § 12 Absatz 2 des
 Gesetzes über elektronische Wertpapiere führen, hat der Prüfer einmal
@@ -2241,6 +2338,7 @@ elektronische Wertpapiere in Verbindung mit der nach § 15 des Gesetzes
 
 
 #### § 69b Prüfung der registerführenden Stelle gemäß § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE008500119)
 
 Bei Instituten, die die Kryptowertpapierregisterführung gemäß § 1
 Absatz 1a Satz 2 Nummer 8 des Kreditwesengesetzes erbringen, hat der
@@ -2251,9 +2349,11 @@ Rechtsverordnung zu prüfen.
 
 
 ## Abschnitt 8 - Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002300000)
 
 
 ### § 70 Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007201118)
 
 Die auf das jeweilige Institut anwendbaren Formblätter in den Anlagen
 1 bis 4 sind auszufüllen und dem Prüfungsbericht beizufügen. Die
@@ -2262,9 +2362,11 @@ Vorjahresdaten zu ergänzen.
 
 
 ## Abschnitt 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNG002400000)
 
 
 ### § 71 Erstmalige Anwendung; Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007305118)
 
 (1) Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung
 anzuwenden, die das nach dem 31. Dezember 2014 beginnende
@@ -2310,6 +2412,7 @@ Bundesanstalt eingereicht worden.
 
 
 ### § 72 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Prüfungsberichtsverordnung vom 23. November
@@ -2319,6 +2422,7 @@ Gleichzeitig tritt die Prüfungsberichtsverordnung vom 23. November
 (zu § 70)
 
 ### Anlage 1 SON01
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007501118)
 
 (Fundstelle: BGBl. I 2015, 948 - 952)
 
@@ -4294,6 +4398,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 (zu § 70)
 
 ### Anlage 2 SON02
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007600000)
 
 (Fundstelle: BGBl. I 2015, 953 - 957)
 
@@ -6247,6 +6352,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 (zu § 70)
 
 ### Anlage 3 SON04
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007802118)
 
 (Fundstelle: BGBl. I 2015, 959 - 960; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -6783,6 +6889,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 (zu § 70)
 
 ### Anlage 4 SON05
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE007901118)
 
 (Fundstelle: BGBl. I 2015, 961; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -6871,6 +6978,7 @@ Institut:
 
 
 ### Anlage 5 (zu § 27)
+[Direktlink](https://www.gesetze-im-internet.de/pr_fbv_2015/BJNR093000015.html#BJNR093000015BJNE008002118)
 
    (Fundstelle: BGBl. I 2018, 137 - 139)
 

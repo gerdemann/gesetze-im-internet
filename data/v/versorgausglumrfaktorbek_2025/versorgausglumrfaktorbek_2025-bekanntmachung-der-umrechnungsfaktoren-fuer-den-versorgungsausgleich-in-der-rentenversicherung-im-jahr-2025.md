@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2025/BJNR1930A0024.html#BJNR1930A0024BJNE000100000)
 
 Auf Grund des § 187 Absatz 3 Satz 2 des Sechsten Buches
 Sozialgesetzbuch – Gesetzliche Rentenversicherung –, der zuletzt durch
@@ -80,6 +81,7 @@ Beitragssatzes für das Jahr 2025 berechneten Faktoren betragen im Jahr
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2025/BJNR1930A0024.html#BJNR1930A0024BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Integrationsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000100000)
 
 (1) Der Bundestag und der Bundesrat nehmen in Angelegenheiten der
 Europäischen Union ihre Integrationsverantwortung insbesondere nach
@@ -33,6 +34,7 @@ maßgeblichen Fristvorgaben berücksichtigen.
 
 
 ## § 2 Vereinfachtes Vertragsänderungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000200000)
 
 Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des
 Europäischen Rates gemäß Artikel 48 Absatz 6 Unterabsatz 2 und 3 des
@@ -41,6 +43,7 @@ Artikel 23 Absatz 1 des Grundgesetzes.
 
 
 ## § 3 Besondere Vertragsänderungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000300000)
 
 (1) Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss
 des Rates gemäß Artikel 218 Absatz 8 Unterabsatz 2 Satz 2 oder gemäß
@@ -67,6 +70,7 @@ des Grundgesetzes.
 
 
 ## § 4 Brückenklauseln
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000400000)
 
 (1) Der deutsche Vertreter im Europäischen Rat darf einem
 Beschlussvorschlag gemäß Artikel 48 Absatz 7 Unterabsatz 1 Satz 1 oder
@@ -86,6 +90,7 @@ ablehnen.
 
 
 ## § 5 Zustimmung im Europäischen Rat bei besonderen Brückenklauseln
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000500000)
 
 (1) Der deutsche Vertreter im Europäischen Rat darf einem
 Beschlussvorschlag gemäß Artikel 31 Absatz 3 des Vertrags über die
@@ -120,6 +125,7 @@ sind,
 
 
 ## § 6 Zustimmung im Rat bei besonderen Brückenklauseln
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000600000)
 
 (1) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß
 Artikel 153 Absatz 2 Unterabsatz 4, Artikel 192 Absatz 2 Unterabsatz 2
@@ -132,6 +138,7 @@ Beschluss gefasst hat. § 5 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ## § 7 Kompetenzerweiterungsklauseln
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000700000)
 
 (1) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß
 Artikel 83 Absatz 1 Unterabsatz 3 oder Artikel 86 Absatz 4 des
@@ -147,6 +154,7 @@ Union.
 
 
 ## § 8 Flexibilitätsklausel
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000800000)
 
 Der deutsche Vertreter im Rat darf einem Vorschlag zum Erlass von
 Vorschriften gemäß Artikel 352 des Vertrags über die Arbeitsweise der
@@ -158,6 +166,7 @@ ablehnen.
 
 
 ## § 9 Notbremsemechanismus
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE000900000)
 
 (1) Der deutsche Vertreter im Rat muss in den Fällen des Artikels 48
 Absatz 2 Satz 1, des Artikels 82 Absatz 3 Unterabsatz 1 Satz 1 und des
@@ -173,6 +182,7 @@ vorliegt.
 
 
 ## § 10 Ablehnungsrecht bei Brückenklauseln
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE001000000)
 
 (1) Für die Ablehnung einer Initiative des Europäischen Rates gemäß
 Artikel 48 Absatz 7 Unterabsatz 3 des Vertrags über die Europäische
@@ -201,6 +211,7 @@ Europäischen Union.
 
 
 ## § 11 Subsidiaritätsrüge
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE001100000)
 
 (1) Der Bundestag und der Bundesrat können in ihren Geschäftsordnungen
 regeln, wie eine Entscheidung über die Abgabe einer begründeten
@@ -215,6 +226,7 @@ Bundesregierung darüber in Kenntnis.
 
 
 ## § 12 Subsidiaritätsklage
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE001300160)
 
 (1) Auf Antrag eines Viertels seiner Mitglieder ist der Bundestag
 verpflichtet, eine Klage gemäß Artikel 8 des Protokolls über die
@@ -241,6 +253,7 @@ Organ eine Stellungnahme abgeben.
 
 
 ## § 13 Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/intvg/BJNR302210009.html#BJNR302210009BJNE001201160)
 
 (1) Die Bundesregierung hat den Bundestag und den Bundesrat in
 Angelegenheiten dieses Gesetzes umfassend, zum frühestmöglichen

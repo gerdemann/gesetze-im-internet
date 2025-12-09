@@ -21,14 +21,17 @@ Neugefasst durch
 
 
 ## Erster Teil - Heimbeirat und Heimfürsprecher
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000103320)
 
 
 
 ### Erster Abschnitt - Bildung und Zusammensetzung von Heimbeiräten
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000202320)
 
 
 
 #### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001004320)
 
 (1) Die Mitwirkung der Bewohnerinnen und Bewohner in Heimen nach § 1
 des Gesetzes erfolgt durch Heimbeiräte. Ihre Mitglieder werden von den
@@ -57,6 +60,7 @@ ihrer Arbeit beraten und unterstützen lassen.
 
 
 #### § 2 Aufgaben der Träger
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001104320)
 
 (1) Die Träger des Heims (Träger) haben auf die Bildung von
 Heimbeiräten hinzuwirken. Ihre Selbständigkeit bei der Erfüllung der
@@ -71,6 +75,7 @@ Die hierdurch entstehenden angemessenen Kosten übernimmt der Träger.
 
 
 #### § 3 Wahlberechtigung und Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001204320)
 
 (1) Wahlberechtigt sind alle Personen, die am Wahltag im Heim wohnen.
 
@@ -89,6 +94,7 @@ Heimträgern eine Leitungsfunktion innehat.
 
 
 #### § 4 Zahl der Heimbeiratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001304320)
 
 (1) Der Heimbeirat besteht in Heimen mit in der Regel
 
@@ -142,6 +148,7 @@ betragen.
 
 
 #### § 5 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001404320)
 
 (1) Der Heimbeirat wird in gleicher, geheimer und unmittelbarer Wahl
 gewählt.
@@ -164,6 +171,7 @@ bleibt unberührt.
 
 
 #### § 6 Bestellung des Wahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001504320)
 
 (1) Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der
 Heimbeirat drei Wahlberechtigte als Wahlausschuss und eine oder einen
@@ -178,6 +186,7 @@ Wahlausschusses zu bestellen.
 
 
 #### § 7 Vorbereitung und Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001604320)
 
 (1) Der Wahlausschuss bestimmt Ort und Zeit der Wahl und informiert
 die Bewohnerinnen und Bewohner und die zuständige Behörde über die
@@ -205,6 +214,7 @@ Stimmenmehrheit.
 
 
 #### § 7a Wahlversammlung
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE005001320)
 
 (1) In Heimen mit in der Regel bis zu 50 Bewohnerinnen und Bewohnern
 kann der Heimbeirat auf einer Wahlversammlung gewählt werden. Der
@@ -225,6 +235,7 @@ Wahlversammlung ausschließen.
 
 
 #### § 8 Mithilfe der Leitung
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001704320)
 
 Die Leitung des Heims hat die Vorbereitung und Durchführung der Wahl
 in dem erforderlichen Maße personell und sächlich zu unterstützen und
@@ -232,6 +243,7 @@ die erforderlichen Auskünfte zu erteilen.
 
 
 #### § 9 Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001804320)
 
 (1) Die Wahl des Heimbeirates darf nicht behindert oder durch Zufügung
 oder Androhung von Nachteilen oder Gewährung oder Versprechen von
@@ -241,6 +253,7 @@ Vorteilen beeinflusst werden.
 
 
 #### § 10 Wahlanfechtung
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE001904320)
 
 (1) Mindestens drei Wahlberechtigte können binnen einer Frist von zwei
 Wochen, vom Tage der Bekanntmachung des Wahlergebnisses an gerechnet,
@@ -254,6 +267,7 @@ Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 
 #### § 11 Mitteilung an die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002004320)
 
 (1) Der Träger hat die zuständige Behörde innerhalb von vier Wochen
 nach Ablauf des in § 12 genannten Zeitraumes oder bis spätestens sechs
@@ -273,6 +287,7 @@ Tatsachen.
 
 
 #### § 11a Abweichende Bestimmungen für die Bildung des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004403320)
 
 (1) Die zuständige Behörde kann in Einzelfällen Abweichungen von der
 Zahl der Mitglieder des Heimbeirates nach § 4 und den Fristen und der
@@ -286,10 +301,12 @@ der Regel mehr als 50 Bewohnerinnen und Bewohnern zulassen.
 
 
 ### Zweiter Abschnitt - Amtszeit des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000302320)
 
 
 
 #### § 12 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002103320)
 
 (1) Die regelmäßige Amtszeit des Heimbeirates beträgt zwei Jahre. Die
 Amtszeit beginnt mit dem Tage der Wahl oder, wenn zu diesem Zeitpunkt
@@ -300,6 +317,7 @@ Amtszeit vier Jahre.
 
 
 #### § 13 Neuwahl des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002203320)
 
 Der Heimbeirat ist neu zu wählen, wenn die Gesamtzahl der Mitglieder
 um mehr als die Hälfte der vorgeschriebenen Zahl gesunken ist oder der
@@ -308,6 +326,7 @@ hat.
 
 
 #### § 14 Erlöschen der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002304320)
 
 Die Mitgliedschaft im Heimbeirat erlischt durch
 
@@ -332,6 +351,7 @@ Die Mitgliedschaft im Heimbeirat erlischt durch
 
 
 #### § 15 Nachrücken von Ersatzmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002403320)
 
 Scheidet ein Mitglied aus dem Heimbeirat aus, so rückt die nicht
 gewählte Person mit der höchsten Stimmenzahl als Ersatzmitglied nach.
@@ -340,10 +360,12 @@ Heimbeirates zeitweilig verhindert ist.
 
 
 ### Dritter Abschnitt - Geschäftsführung des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000402320)
 
 
 
 #### § 16 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002503320)
 
 (1) Der Heimbeirat wählt mit der Mehrheit seiner Mitglieder den
 Vorsitz und dessen Stellvertretung. Eine Bewohnerin oder ein Bewohner
@@ -355,6 +377,7 @@ andere Vertretung bestimmt.
 
 
 #### § 17 Sitzungen des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002604320)
 
 (1) Unbeschadet einer Wahlanfechtung beruft der Wahlausschuss den
 Heimbeirat binnen zwei Wochen nach Bekanntmachung des Wahlergebnisses
@@ -391,6 +414,7 @@ regelt der Heimbeirat.
 
 
 #### § 18 Beschlüsse des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002704320)
 
 (1) Die Beschlüsse des Heimbeirates werden mit einfacher
 Stimmenmehrheit der anwesenden Mitglieder gefasst. Bei
@@ -402,6 +426,7 @@ seiner Mitglieder anwesend ist.
 
 
 #### § 19 Sitzungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002803320)
 
 Über jede Verhandlung des Heimbeirates ist eine Niederschrift
 aufzunehmen, die mindestens die Sitzungsteilnehmer, den Wortlaut der
@@ -411,6 +436,7 @@ einem weiteren Mitglied zu unterzeichnen.
 
 
 #### § 20 Bewohnerversammlung und Tätigkeitsbericht des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE002904320)
 
 Der Heimbeirat soll mindestens einmal im Amtsjahr eine
 Bewohnerversammlung abhalten. Teilbewohnerversammlungen sind zulässig.
@@ -426,6 +452,7 @@ Tagesordnungspunkten ausschließen.
 
 
 #### § 21 Kosten und Sachaufwand des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003004320)
 
 (1) Der Träger gewährt dem Heimbeirat die zur Erfüllung seiner
 Aufgaben erforderlichen Hilfen und stellt insbesondere die
@@ -441,16 +468,19 @@ Kosten trägt der Träger.
 
 
 ### Vierter Abschnitt - Stellung der Heimbeiratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000502320)
 
 
 
 #### § 22 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003103320)
 
 Die Mitglieder des Heimbeirates führen ihr Amt unentgeltlich und
 ehrenamtlich aus.
 
 
 #### § 23 Benachteiligungs- und Begünstigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003203320)
 
 (1) Die Mitglieder des Heimbeirates dürfen bei der Erfüllung ihrer
 Aufgaben nicht behindert und wegen ihrer Tätigkeit nicht benachteiligt
@@ -462,6 +492,7 @@ benachteiligt oder begünstigt werden.
 
 
 #### § 24 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003304320)
 
 (1) Die Mitglieder und Ersatzmitglieder des Heimbeirates haben über
 die ihnen bei Ausübung des Amtes bekannt gewordenen Angelegenheiten
@@ -475,10 +506,12 @@ vertraulichen Behandlung bedürfen.
 
 
 ### Fünfter Abschnitt - Heimfürsprecher
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000802320)
 
 
 
 #### § 25 Bestellung des Heimfürsprechers
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004503320)
 
 (1) Die zuständige Behörde hat unverzüglich einen Heimfürsprecher zu
 bestellen, sobald die Voraussetzungen für seine Bestellung nach § 10
@@ -507,6 +540,7 @@ geeigneter Weise von der Bestellung zu unterrichten.
 
 
 #### § 26 Aufhebung der Bestellung des Heimfürsprechers
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004603320)
 
 (1) Die zuständige Behörde hat die Bestellung aufzuheben, wenn
 
@@ -533,6 +567,7 @@ Bewohnerinnen und Bewohnern nicht mehr möglich ist.
 
 
 #### § 27 Beendigung der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004702320)
 
 Die Tätigkeit des Heimfürsprechers endet mit
 
@@ -546,6 +581,7 @@ Die Tätigkeit des Heimfürsprechers endet mit
 
 
 #### § 28 Stellung und Amtsführung des Heimfürsprechers
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004803320)
 
 (1) Für die Stellung und Amtsführung des Heimfürsprechers gelten die
 §§ 20, 21 Abs. 1 und 2 sowie §§ 23 und 24 entsprechend.
@@ -562,6 +598,7 @@ Bewohnerinnen und Bewohnern in Verbindung zu setzen.
 
 
 #### § 28a Ersatzgremium
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE005101320)
 
 Von der Bestellung eines Heimfürsprechers nach § 10 Abs. 4 Satz 5 des
 Gesetzes kann die zuständige Behörde absehen, wenn ein Ersatzgremium
@@ -572,10 +609,12 @@ entsprechend.
 
 
 ## Zweiter Teil - Mitwirkung des Heimbeirates und des Heimfürsprechers
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000603320)
 
 
 
 ### § 29 Aufgaben des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003404320)
 
 Der Heimbeirat hat folgende Aufgaben:
 
@@ -617,6 +656,7 @@ Der Heimbeirat hat folgende Aufgaben:
 
 
 ### § 30 Mitwirkung bei Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003504320)
 
 Der Heimbeirat wirkt bei Entscheidungen der Leitung oder des Trägers
 in folgenden Angelegenheiten mit:
@@ -666,6 +706,7 @@ in folgenden Angelegenheiten mit:
 
 
 ### § 31 Mitwirkung bei Leistung von Finanzierungsbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003604320)
 
 (1) Wenn von einer Bewohnerin oder einem Bewohner oder von Dritten zu
 ihren oder seinen Gunsten Finanzierungsbeiträge an den Träger
@@ -694,6 +735,7 @@ Weise erloschen sind.
 
 
 ### § 32 Form und Durchführung der Mitwirkung des Heimbeirates
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003704320)
 
 (1) Die Mitwirkung des Heimbeirates soll von dem Bemühen um
 gegenseitiges Vertrauen und Verständnis zwischen Bewohnerschaft,
@@ -722,16 +764,19 @@ hat.
 
 
 ### § 33 Mitwirkung des Heimfürsprechers
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004902320)
 
 Die §§ 29 bis 32 gelten für die Mitwirkung des Heimfürsprechers
 entsprechend.
 
 
 ## Dritter Teil - Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNG000702320)
 
 
 
 ### § 34 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE003804320)
 
 Ordnungswidrig im Sinne des § 21 Abs. 2 Nr. 1 des Heimgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -775,12 +820,14 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 35 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE004104320)
 
 Heimbeiräte, die vor Inkrafttreten der Verordnung gewählt worden sind,
 müssen nicht neu gewählt werden.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/heimmitwirkungsv/BJNR018190976.html#BJNR018190976BJNE005201320)
 
 (Inkrafttreten)
 

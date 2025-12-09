@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmiernano_2005/BJNR229800005.html#BJNR229800005BJNE000100000)
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und
@@ -107,17 +108,20 @@ c)  der Besoldungsgruppen A 2 bis A 13 (gehobener Dienst)
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmiernano_2005/BJNR229800005.html#BJNR229800005BJNE000200000)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamtinnen und Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmiernano_2005/BJNR229800005.html#BJNR229800005BJNE000300000)
 
 Diese Anordnung tritt mit Bekanntgabe in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmiernano_2005/BJNR229800005.html#BJNR229800005BJNE000400000)
 
 Der Bundesminister des Innern
 

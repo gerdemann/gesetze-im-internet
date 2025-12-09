@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000100000)
 
 Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i
 der Bundesnotarordnung, die durch Artikel 1 Nummer 2 des Gesetzes vom
@@ -28,9 +29,11 @@ Bundesministerium der Justiz:
 
 
 ## Teil 1 - Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNG000100000)
 
 
 ### § 1 Leitung des Prüfungsamtes
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000301125)
 
 (1) Die Leitung des Prüfungsamtes sorgt für den ordnungsgemäßen
 Geschäftsbetrieb des Prüfungsamtes.
@@ -50,6 +53,7 @@ zu gewähren.
 
 
 ### § 2 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000404125)
 
 (1) Der Verwaltungsrat kann der Leitung des Prüfungsamtes und den
 Mitgliedern der Aufgabenkommission im Einzelfall Weisungen erteilen.
@@ -78,6 +82,7 @@ Verfahren widerspricht.
 
 
 ### § 3 Aufgabenkommission
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000501125)
 
 (1) Die Aufgabenkommission besteht aus mindestens acht und höchstens
 zehn Mitgliedern. Mindestens sechs der Mitglieder sollen Notarin oder
@@ -112,6 +117,7 @@ zu gewähren.
 
 
 ### § 4 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000601125)
 
 (1) Das Prüfungsamt bestellt die erforderliche Anzahl von Prüfenden,
 um eine ordnungsgemäße Durchführung der Prüfungen zu gewährleisten.
@@ -123,9 +129,11 @@ gewissenhaften Erfüllung ihrer Obliegenheiten zu verpflichten.
 
 
 ## Teil 2 - Notarielle Fachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNG000200000)
 
 
 ### § 5 Prüfungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000700000)
 
 (1) Der Prüfungsstoff umfasst
 , soweit diese Rechtsgebiete für die notarielle Amtstätigkeit von
@@ -168,6 +176,7 @@ und Einzelwissen nicht vorausgesetzt wird.
 
 
 ### § 6 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000802125)
 
 (1) Es soll mindestens ein Prüfungstermin im Kalenderjahr angeboten
 werden.
@@ -181,6 +190,7 @@ Prüfungstermins hinzuweisen.
 
 
 ### § 7 Prüfungsorte
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE000901125)
 
 (1) Prüfungen sollen an verschiedenen Orten im Gebiet des
 Anwaltsnotariats durchgeführt werden. Das Prüfungsamt wählt die
@@ -194,6 +204,7 @@ besteht nicht.
 
 
 ### § 8 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001002125)
 
 (1) Die Zulassung zur notariellen Fachprüfung ist in schriftlicher
 Form beim Prüfungsamt zu beantragen. Dem Antrag sind beizufügen
@@ -241,6 +252,7 @@ Antragsteller zuzustellen.
 
 
 ### § 9 Rücktritt und Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001100000)
 
 (1) Über das Vorliegen von Rücktritt und Versäumnis und deren
 Rechtsfolgen gemäß § 7e der Bundesnotarordnung entscheidet die Leitung
@@ -260,6 +272,7 @@ Prüfung folgt.
 
 
 ### § 10 Vorbereitung der schriftlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001202125)
 
 (1) Die Prüflinge sind spätestens vier Wochen vor Beginn der
 schriftlichen Prüfung schriftlich zu laden. Maßgeblich für die
@@ -284,6 +297,7 @@ Verhinderung der eingeteilten Personen Ersatzprüfende zu bestimmen.
 
 
 ### § 11 Anfertigung der Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001301125)
 
 (1) Die Aufsichtsarbeiten sind innerhalb einer Kalenderwoche
 anzufertigen. An allen Prüfungsorten werden je Prüfungstermin
@@ -319,6 +333,7 @@ der örtlichen Prüfungsleitung zu unterschreiben.
 
 
 ### § 12 Bewertung der Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001401125)
 
 Das Prüfungsamt leitet die Aufsichtsarbeiten unverzüglich den für die
 Bewertung bestimmten Prüfenden zu. Es ermittelt die Bewertungen der
@@ -329,6 +344,7 @@ herbei.
 
 
 ### § 13 Ladung zur mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001500000)
 
 Die Prüflinge sind spätestens vier Wochen vor dem Termin der
 mündlichen Prüfung schriftlich zu laden. § 10 Absatz 1 Satz 2 und 3
@@ -337,6 +353,7 @@ enthalten und die zugelassenen Hilfsmittel benennen.
 
 
 ### § 14 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001602125)
 
 (1) Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses
 leitet die mündliche Prüfung und sorgt für die Einhaltung der
@@ -384,6 +401,7 @@ des Prüfungsausschusses zu unterschreiben.
 
 
 ### § 15 Bewertung der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001701125)
 
 Der Prüfungsausschuss stellt die Gesamtnote der mündlichen Prüfung
 fest. Bei der Ermittlung der Gesamtnote werden der Vortrag mit 30
@@ -391,6 +409,7 @@ Prozent und das Gruppenprüfungsgespräch mit 70 Prozent berücksichtigt.
 
 
 ### § 16 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001800000)
 
 Die Leitung des Prüfungsamtes kann behinderten Prüflingen die
 Bearbeitungszeit für die Anfertigung der Aufsichtsarbeiten auf Antrag
@@ -411,6 +430,7 @@ Vorbereitungszeit einzuhalten.
 
 
 ### § 17 Einsicht in Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE001901125)
 
 Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen
 Prüfungsarbeiten einschließlich der Gutachten der Prüfenden zu
@@ -420,6 +440,7 @@ erfolgt in den Räumen des Prüfungsamtes.
 
 
 ### § 18 Mängel im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002000000)
 
 (1) War das Prüfungsverfahren mit Mängeln behaftet, die die
 Chancengleichheit der Prüflinge erheblich verletzt haben, so kann die
@@ -434,6 +455,7 @@ Bedingungen enthalten und kann nicht zurückgenommen werden.
 
 
 ### § 19 Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002100000)
 
 (1) Für den Antrag auf Zulassung zur Wiederholungsprüfung gilt § 8.
 Mit dem Antrag ist zu erklären, ob eine Wiederholung gemäß § 7a Absatz
@@ -450,6 +472,7 @@ Person sein als im Termin der ersten Prüfung.
 
 
 ### § 20 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002201125)
 
 Die Leitung des Prüfungsamtes holt Stellungnahmen der beteiligten
 Prüfenden ein, bevor über einen Widerspruch gegen einen Bescheid
@@ -460,9 +483,11 @@ erforderlich ist.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNG000300000)
 
 
 ### § 21 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002302125)
 
 (1) Zeugnisse und Bescheide über das Ergebnis der notariellen
 Fachprüfung sowie die zugehörigen Zustellungsnachweise sind 50 Jahre
@@ -487,11 +512,13 @@ dem Amt ausgeschieden ist.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/notfv/BJNR057600010.html#BJNR057600010BJNE002500000)
 
 Der Bundesrat hat zugestimmt.
 

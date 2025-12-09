@@ -25,6 +25,7 @@ Stand: Diese V ersetzt V 806-21-1-194 v. 8.12.1995 I 1610 (BuchbAusbV 1996)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -34,6 +35,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000200000)
 
 Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach §
 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 39
@@ -42,11 +44,13 @@ Anlage B 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -65,6 +69,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -166,6 +171,7 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -187,6 +193,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -260,6 +267,7 @@ bestehen folgende Vorgaben:
 
 
 ## § 7 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000800000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -441,6 +449,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE000900000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -505,6 +514,7 @@ gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können, wenn noch keine Zwischenprüfung abgelegt wurde und
@@ -514,6 +524,7 @@ fortgesetzt werden.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Buchbinder/zur
@@ -524,6 +535,7 @@ ist, außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Buchbinder und zur Buchbinderin
+[Direktlink](https://www.gesetze-im-internet.de/buchbausbv_2011/BJNR096600011.html#BJNR096600011BJNE001200000)
 
 (Fundstelle: BGBl. I 2011, 970 - 975)
 

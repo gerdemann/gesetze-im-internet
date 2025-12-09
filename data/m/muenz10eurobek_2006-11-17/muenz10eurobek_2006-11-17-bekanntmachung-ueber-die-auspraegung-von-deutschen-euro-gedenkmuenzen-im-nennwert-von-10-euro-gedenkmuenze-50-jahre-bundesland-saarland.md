@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-11-17/BJNR266600006.html#BJNR266600006BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung der
@@ -64,11 +65,13 @@ Württemberg.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-11-17/BJNR266600006.html#BJNR266600006BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2006-11-17/BJNR266600006.html#BJNR266600006BJNE000300000)
 
 (Fundstelle: BGBl. I 2006, 2666)
 ![bgbl1_2006_j2666_0010.jpg](bgbl1_2006_j2666_0010.jpg)

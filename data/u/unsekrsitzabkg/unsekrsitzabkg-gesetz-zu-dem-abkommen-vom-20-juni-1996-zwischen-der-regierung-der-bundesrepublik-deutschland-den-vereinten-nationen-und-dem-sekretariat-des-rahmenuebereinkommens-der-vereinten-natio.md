@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000200320)
 
 Dem in Bonn am 20. Juni 1996 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland, den vereinten Nationen und
@@ -36,6 +38,7 @@ zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000300320)
 
 Die Bundesregierung wird ermächtigt, Änderungen dieses Abkommens, die
 im Rahmen von Konsultationen zwischen den Vertragsparteien des
@@ -48,6 +51,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000400320)
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November
 1995 zwischen der Bundesrepublik Deutschland und den Vereinten
@@ -60,11 +64,13 @@ Freiwilligenprogramms der Vereinten Nationen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000500320)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/unsekrsitzabkg/BJNR105420997.html#BJNR105420997BJNE000600320)
 
 (1) Die Artikel 1 bis 3 dieses Gesetzes treten am Tage nach der
 Verkündung in Kraft. Der Tag, an dem das in Artikel 1 genannte

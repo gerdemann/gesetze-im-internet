@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000100305)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000200305)
 
 Der Bundesverband der Betriebskrankenkassen verteilt den Betrag, den
 er von forschenden Arzneimittelherstellern für die Krankenkassen als
@@ -36,11 +38,13 @@ Krankenkassen verteilen den jeweiligen Betrag entsprechend dem in Satz
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000300305)
 
 -
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aabg/BJNR068400002.html#BJNR068400002BJNE000400305)
 
 (1) Das Gesetz tritt am Tag nach der Verkündung in Kraft.
 

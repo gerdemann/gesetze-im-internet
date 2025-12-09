@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## - - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNG000100304)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE000600304)
 
 (1) Für die beim Ausbau der Mittelweser von Minden bis Bremen
 herzustellenden Schleusenkanäle samt Nebenanlagen sowie zur
@@ -45,6 +47,7 @@ Erbhöfe und andere Betriebe in ihrem Bestand nicht gefährdet werden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE000701308)
 
 (1) Das preußische Enteignungsgesetz vom 11. Juni 1874 (Preuß.
 Gesetzsamml. S. 221) und das preußische Gesetz über ein vereinfachtes
@@ -61,6 +64,7 @@ zuständigen Landesbehörden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE000800304)
 
 Die Entschädigung für entzogenes oder beschränktes Grundeigentum wird
 in Land gewährt, soweit geeignetes Land für diesen Zweck zur Verfügung
@@ -68,19 +72,23 @@ steht und eine Entschädigung in Land tunlich erscheint.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE000901305)
 
 (weggefallen)
 
 
 ## - - Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNG000200304)
 
 
 
 ### I. - Enteignung mit Landentschädigungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNG000300304)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001000304)
 
 (1) Das
 Reich legt als Träger des Unternehmens der Enteignungsbehörde einen
@@ -94,6 +102,7 @@ und des Landesbauernführers auf.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001100304)
 
 Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm
 im preußischen Umlegungsverfahren zustehenden amtlichen Befugnisse. Er
@@ -105,6 +114,7 @@ auf diese Bestimmung aufgenommen werden.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001200304)
 
 (1) Auszüge aus dem Landentschädigungsplan nebst Beilagen sind in den
 durch die Enteignung betroffenen Gemeinden zwei Wochen lang von der
@@ -121,6 +131,7 @@ geben sind.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001300304)
 
 (1) Nach Ablauf der Frist entscheidet die Enteignungsbehörde nach
 vorheriger mündlicher Verhandlung über die Einwendungen und stellt den
@@ -144,6 +155,7 @@ preußischen Enteignungsgesetzes offensteht.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001400304)
 
 In der Entscheidung über die Entschädigung legt die
 Enteignungsbehörde, soweit eine Landentschädigung vorgesehen ist, der
@@ -155,6 +167,7 @@ gewähren ist.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001500304)
 
 Den Beteiligten bleibt der nach § 30 des preußischen
 Enteignungsgesetzes vorgesehene Rechtsweg offen. Im Rechtsweg kann,
@@ -165,6 +178,7 @@ Landentschädigung frei.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001600304)
 
 Die Enteignung der Grundstücke und der Rechte an Grundstücken wird auf
 Antrag des Unternehmers von der Enteignungsbehörde ausgesprochen,
@@ -174,6 +188,7 @@ gezahlt oder hinterlegt sind.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001700304)
 
 (1) § 45 Abs. 2 des preußischen Enteignungsgesetzes gilt auch für die
 Landentschädigung. Von dem Übergang der Rechte Dritter auf das
@@ -187,6 +202,7 @@ aus dem Landentschädigungsplan ersichtlichen Rechtsänderungen.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001800304)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung der
 Landbeschaffung und der Landentschädigung nach Maßgabe dieses Gesetzes
@@ -203,10 +219,12 @@ in Absatz 1 genannten Zweck dient.
 
 
 ### II. - Umlegung
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNG000400304)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE001900304)
 
 (1) Dem
 Umlegungsverfahren unterliegen die Grundstücke innerhalb der in § 1
@@ -223,6 +241,7 @@ zweckmäßigen Planung zugezogen werden.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE002000304)
 
 Die beteiligten Grundeigentümer müssen auch eine Veränderung der
 bisherigen Art ihres Wirtschaftsbetriebs dulden. Ist für die
@@ -231,6 +250,7 @@ Kosten als Folgeeinrichtungskosten (§ 16).
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE002100304)
 
 Sämtliche durch das
 Umlegungsverfahren entstehenden Kosten einschließlich der Neben- und
@@ -244,16 +264,19 @@ Anwendung.
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNG000500304)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE002200304)
 
 Dieses Gesetz findet auch auf die zur Zeit des Inkrafttretens
 eingeleiteten Enteignungen Anwendung.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/mittelweserg/BJNR001490936.html#BJNR001490936BJNE002301305)
 
 (weggefallen)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amtsbezsaarano/BJNR004600958.html#BJNR004600958BJNE000100303)
 
 Auf Grund des § 37 Abs. 1 des Deutschen Beamtengesetzes in der im
 Saarland geltenden Fassung in Verbindung mit § 13 Abs. 4 des Gesetzes
@@ -27,6 +28,7 @@ Saarland geltenden Fassung in Verbindung mit § 13 Abs. 4 des Gesetzes
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/amtsbezsaarano/BJNR004600958.html#BJNR004600958BJNE000200303)
 
 Die Bundesregierung wird ermächtigt, als Amtsbezeichnungen der in § 13
 Abs. 1 und 5 des Gesetzes über die Eingliederung des Saarlandes
@@ -37,11 +39,13 @@ festzusetzen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/amtsbezsaarano/BJNR004600958.html#BJNR004600958BJNE000300303)
 
 Diese Anordnung tritt mit ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amtsbezsaarano/BJNR004600958.html#BJNR004600958BJNE000400303)
 
 Der Bundespräsident
 

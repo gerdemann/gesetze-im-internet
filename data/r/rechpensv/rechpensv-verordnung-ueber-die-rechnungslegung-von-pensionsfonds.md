@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000100000)
 
 Auf Grund des § 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des
 Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III,
@@ -33,10 +34,12 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000301360)
 
 Diese Verordnung ist auf Pensionsfonds im Sinne des § 236 Absatz 1 des
 Versicherungsaufsichtsgesetzes anzuwenden, für die nach § 341 Abs. 4
@@ -46,10 +49,12 @@ entsprechend anzuwenden sind.
 
 
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000200000)
 
 
 
 ### § 2 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000400000)
 
 Pensionsfonds haben an Stelle des § 266 des Handelsgesetzbuchs über
 die Gliederung der Bilanz das anliegende Formblatt 1 und an Stelle des
@@ -58,6 +63,7 @@ Verlustrechnung das anliegende Formblatt 2 anzuwenden.
 
 
 ### § 3 Davon-Vermerke
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000500000)
 
 In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
@@ -85,6 +91,7 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
 
 ### § 4 Zusätze
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000600000)
 
 (1) Wird in den Formblättern für die Bilanz und die Gewinn- und
 Verlustrechnung und in den folgenden Vorschriften der Zusatz "Brutto"
@@ -106,6 +113,7 @@ Unterposten.
 
 
 ### § 5 Anwendung von Bestimmungen der Verordnung über die Rechnungslegung Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000700000)
 
 Die §§ 6 bis 9 Satz 1, §§ 11, 12, 18 bis 20 und 22 bis 24 der
 Verordnung über die Rechnungslegung von Versicherungsunternehmen vom
@@ -117,14 +125,17 @@ hat.
 
 
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000300000)
 
 
 
 ### Unterabschnitt 1 - Posten der Aktivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000400000)
 
 
 
 #### § 6 Verträge bei Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000800000)
 
 (1) Im Posten "Verträge bei Lebensversicherungsunternehmen" sind
 Verträge auszuweisen, die von Pensionsfonds bei
@@ -138,6 +149,7 @@ Beteiligungsverhältnis besteht, ist im Anhang gesondert anzugeben.
 
 
 #### § 7 Sonstige Ausleihungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE000900000)
 
 (1) Im Posten "Sonstige Ausleihungen" sind ohne Rücksicht auf ihre
 Laufzeit folgende Ausleihungen auszuweisen, soweit sie nicht im Posten
@@ -177,6 +189,7 @@ einen größeren Umfang haben.
 
 
 #### § 8 Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001000000)
 
 (1) Im Posten "Kapitalanlagen für Rechnung und Risiko von
 Arbeitnehmern und Arbeitgebern" sind diejenigen Kapitalanlagen
@@ -193,6 +206,7 @@ Kapitalanlagen enthalten sind.
 
 
 #### § 9 Abrechnungsforderungen aus dem Rückversicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001100000)
 
 Im Posten "Abrechnungsforderungen aus dem Rückversicherungsgeschäft"
 sind die sich aus den laufenden Abrechnungen mit den Rückversicherern
@@ -209,6 +223,7 @@ auszuweisen.
 
 
 #### § 10 Forderungen an Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001200000)
 
 Im Posten "Forderungen an Lebensversicherungsunternehmen" sind die
 sich aus den abgeschlossenen Verträgen zur Deckung von Verpflichtungen
@@ -219,6 +234,7 @@ und Risiko von Arbeitnehmern und Arbeitgebern" enthalten sind.
 
 
 #### § 11 Sonstige Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001300000)
 
 Im Posten "Sonstige Forderungen" sind Forderungen auszuweisen, die
 einem anderen Posten nicht zugeordnet werden können. Hierzu gehören
@@ -232,10 +248,12 @@ Pensionsfondsgeschäft herrühren.
 
 
 ### Unterabschnitt 2 - Posten der Passivseite
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000500000)
 
 
 
 #### § 12 Pensionsfondstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001400000)
 
 Die pensionsfondstechnischen Rückstellungen im Sinne dieser Verordnung
 entsprechen den versicherungstechnischen Rückstellungen im Sinne des
@@ -244,6 +262,7 @@ Dritten Buchs des Handelsgesetzbuchs.
 
 
 #### § 13 Deckungsrückstellung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001501360)
 
 (1) Bei der Berechnung der Deckungsrückstellung sind für die
 Berücksichtigung der Risiken aus dem Pensionsfondsvertrag angemessene
@@ -276,6 +295,7 @@ Deckungsrückstellung mindestens entspricht.
 
 
 #### § 14 Rückstellung für noch nicht abgewickelte Versorgungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001600000)
 
 Für die Höhe der Rückstellung für noch nicht abgewickelte
 Versorgungsfälle gemäß § 341g Abs. 1 Satz 1 des Handelsgesetzbuchs
@@ -286,6 +306,7 @@ Versorgungsverhältnisse.
 
 
 #### § 15 Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001701360)
 
 (1) Im Posten "Rückstellung für erfolgsabhängige und
 erfolgsunabhängige Beitragsrückerstattung" sind die Rückstellungen für
@@ -361,6 +382,7 @@ Zu- oder Abschläge berücksichtigt werden.
 
 
 #### § 16 Sonstige pensionsfondstechnische Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001800000)
 
 Zu dem Posten "Sonstige pensionsfondstechnische Rückstellungen" gehört
 insbesondere die Rückstellung für drohende Verluste; erreicht sie
@@ -369,6 +391,7 @@ getrennt auszuweisen.
 
 
 #### § 17 Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE001901360)
 
 (1) Unter diesem Posten sind die pensionsfondstechnischen
 Rückstellungen für Verpflichtungen des Pensionsfonds auszuweisen,
@@ -389,6 +412,7 @@ zu bildenden Deckungsrückstellung ist im Anhang anzugeben.
 
 
 #### § 18 Depotverbindlichkeiten aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002000000)
 
 (1) Im Posten "Depotverbindlichkeiten aus dem in Rückversicherung
 gegebenen Pensionsfondsgeschäft" sind die Verbindlichkeiten gegenüber
@@ -402,6 +426,7 @@ mit Forderungen an den Rückversicherer verrechnet werden.
 
 
 #### § 19 Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002100000)
 
 Im Posten "Abrechnungsverbindlichkeiten aus dem
 Rückversicherungsgeschäft" sind die sich aus den laufenden
@@ -411,6 +436,7 @@ Pensionsfondsgeschäft auszuweisen. Im Übrigen gilt § 9 Satz 2.
 
 
 #### § 20 Verbindlichkeiten gegenüber Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002200000)
 
 Im Posten "Verbindlichkeiten gegenüber Lebensversicherungsunternehmen"
 sind die sich aus den abgeschlossenen Verträgen zur Deckung von
@@ -419,10 +445,12 @@ Verbindlichkeiten auszuweisen.
 
 
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000600000)
 
 
 
 ### § 21 Gebuchte Bruttobeiträge
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002300000)
 
 (1) Im Unterposten "Gebuchte Bruttobeiträge" sind insbesondere
 folgende Beiträge auszuweisen:
@@ -463,6 +491,7 @@ werden.
 
 
 ### § 22 Abgegebene Rückversicherungsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002400000)
 
 Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende
 Beträge auszuweisen:
@@ -487,6 +516,7 @@ abgegebenen Rückversicherungsbeiträge.
 
 
 ### § 23 Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002500000)
 
 Im Posten "Nicht realisierte Gewinne aus Kapitalanlagen" oder im
 Posten "Nicht realisierte Verluste aus Kapitalanlagen" sind die nicht
@@ -495,6 +525,7 @@ und Risiko von Arbeitnehmern und Arbeitgebern auszuweisen.
 
 
 ### § 24 Sonstige pensionsfonds- technische Erträge für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002600000)
 
 Im Posten "Sonstige pensionsfondstechnische Erträge für eigene
 Rechnung" sind die pensionsfondstechnischen Erträge auszuweisen, die
@@ -522,6 +553,7 @@ abzusetzen.
 
 
 ### § 25 Aufwendungen für Versorgungsfälle für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002700000)
 
 (1) Die Aufwendungen für Versorgungsfälle für eigene Rechnung umfassen
 die im Geschäftsjahr für Versorgungsfälle geleisteten Bruttozahlungen
@@ -565,6 +597,7 @@ zu erläutern.
 
 
 ### § 26 Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002800000)
 
 (1) Die Aufwendungen für die erfolgsabhängige Beitragsrückerstattung
 umfassen die Zuführungen zur Rückstellung für erfolgsabhängige
@@ -592,6 +625,7 @@ getrennt anzugeben.
 
 
 ### § 27 Aufwendungen für den Pensionsfondsbetrieb für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE002900000)
 
 (1) Die gesamten Personal- und Sachaufwendungen des Unternehmens
 zuzüglich der kalkulatorischen Mietaufwendungen für die eigengenutzten
@@ -689,6 +723,7 @@ erhaltenen Aufbauprovisionen und anderen Aufbauzuschüsse.
 
 
 ### § 28 Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003000000)
 
 Im Posten "Sonstige pensionsfondstechnische Aufwendungen für eigene
 Rechnung" sind die pensionsfondstechnischen Aufwendungen auszuweisen,
@@ -712,6 +747,7 @@ abzusetzen.
 
 
 ### § 29 Erträge aus Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003100000)
 
 Als "Erträge aus Grundstücken, grundstücksgleichen Rechten und Bauten
 einschließlich der Bauten auf fremden Grundstücken" sind auch die
@@ -720,6 +756,7 @@ auszuweisen.
 
 
 ### § 30 Aufwendungen für Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003201360)
 
 (1) Als Aufwendungen für die Verwaltung der Kapitalanlagen sind die
 dem Funktionsbereich "Verwaltung von Kapitalanlagen" zugeordneten
@@ -750,6 +787,7 @@ Kapitalanlagen umfassen insbesondere:
 
 
 ### § 31 Sonstige Erträge
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003301140)
 
 Im Posten "Sonstige Erträge" sind die nichtpensionsfondstechnischen
 Erträge auszuweisen, die einem anderen Posten nicht zugeordnet werden
@@ -785,6 +823,7 @@ können. Hierzu gehören insbesondere:
 
 
 ### § 32 Sonstige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003401140)
 
 Im Posten "Sonstige Aufwendungen" sind die
 nichtpensionsfondstechnischen Aufwendungen auszuweisen, die einem
@@ -826,16 +865,19 @@ insbesondere:
 
 
 ### § 33 Sonstige Steuern
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003500000)
 
 Im Posten "Sonstige Steuern" sind Steuern auszuweisen, soweit es sich
 nicht um Steuern vom Einkommen und vom Ertrag handelt.
 
 
 ## Abschnitt 5 - Anhang
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000700000)
 
 
 
 ### § 34 Zusätzliche Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003605360)
 
 (1) In den Anhang sind neben den nach § 341a in Verbindung mit den §§
 284 und 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30 sowie 32 bis 34
@@ -927,6 +969,7 @@ Pensionssicherungsverein anzugeben.
 
 
 ### § 35 Zusätzliche Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003701360)
 
 Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im
 Anhang zusätzlich anzugeben:
@@ -1015,6 +1058,7 @@ Anhang zusätzlich anzugeben:
 
 
 ### § 36 Anwendung von Bestimmungen der Verordnung über die Rechnungslegung von Versicherungsunternehmen zum Zeitwert
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003800000)
 
 Die §§ 54 bis 56 der Verordnung über die Rechnungslegung von
 Versicherungsunternehmen in der jeweils geltenden Fassung sind
@@ -1022,10 +1066,12 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 6 - Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000800000)
 
 
 
 ### § 37 Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE003900000)
 
 (1) In den Lagebericht sind zusätzlich zu den in § 289 des
 Handelsgesetzbuchs vorgeschriebenen Angaben folgende Angaben
@@ -1049,10 +1095,12 @@ anliegenden Muster 4 aufzugliedern.
 
 
 ## Abschnitt 7 - Konzernrechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG000900000)
 
 
 
 ### § 38 Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004000000)
 
 (1) Soweit nicht die Besonderheiten des Konzerns Abweichungen
 bedingen, ist für die Aufstellung der Konzernbilanz das Formblatt 1
@@ -1077,16 +1125,19 @@ entsprechend anzuwenden.
 
 
 ### § 39 Konzernanhang
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004100000)
 
 § 59 der Verordnung über die Rechnungslegung von
 Versicherungsunternehmen ist entsprechend anzuwenden.
 
 
 ## Abschnitt 8 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG001000000)
 
 
 
 ### § 40 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004201360)
 
 Ordnungswidrig im Sinne des § 341p in Verbindung mit § 341n Absatz 1
 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des
@@ -1146,10 +1197,12 @@ Pensionsfonds
 
 
 ## Abschnitt 9 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNG001100000)
 
 
 
 ### § 41 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004307360)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals auf den
 Jahresabschluss und den Lagebericht sowie den Konzernabschluss von
@@ -1200,11 +1253,13 @@ nach dem 31. Dezember 2015 beginnen.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Formblatt 1
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004505360)
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 2003, S. 256 - 257;
@@ -1212,6 +1267,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Formblatt 2
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004604360)
 
 (Fundstelle: BGBl. I 2003, S. 258 - 259;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1382,6 +1438,7 @@ Rechnung auch im Anhang gemacht werden.
 
 
 ### Muster 1
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004702360)
 
 (Inhalt: nicht darstellbares Formular)
 (Fundstelle: BGBl. I 2003, S. 260;
@@ -1389,6 +1446,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 2
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004801310)
 
 (Inhalt: nicht darstellbares Formular)
 (Fundstelle: BGBl. I 2003, S. 261;
@@ -1396,6 +1454,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 3
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE004900000)
 
 (Fundstelle: BGBl. I 2003, 262)
 
@@ -1458,6 +1517,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 4
+[Direktlink](https://www.gesetze-im-internet.de/rechpensv/BJNR024600003.html#BJNR024600003BJNE005000000)
 
    (Fundstelle: BGBl. I 2003, 263)
 (Inhalt: nicht darstellbares Formular)

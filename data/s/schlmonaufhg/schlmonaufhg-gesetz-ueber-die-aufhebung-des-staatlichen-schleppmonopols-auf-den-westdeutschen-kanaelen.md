@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schlmonaufhg/BJNR220980967.html#BJNR220980967BJNE000100328)
 
 Das staatliche Schleppmonopol auf dem Rhein-Herne-Kanal mit den
 Verbindungen zur Ruhrwasserstraße und zum Rhein, dem Wesel-Datteln-
@@ -28,6 +29,7 @@ Dortmund-Ems-Kanal und der kanalisierten Ems wird aufgehoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schlmonaufhg/BJNR220980967.html#BJNR220980967BJNE000200328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -35,6 +37,7 @@ im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schlmonaufhg/BJNR220980967.html#BJNR220980967BJNE000300328)
 
 (1) Dieses Gesetz tritt am 1. Januar 1968 in Kraft.
 

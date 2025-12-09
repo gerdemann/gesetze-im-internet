@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordenserl7neufgenerl_2025/BJNR0CF0A0025.html#BJNR0CF0A0025BJNE000100000)
 
 Der Bundesminister der Verteidigung hat am 5. Juni 2025 den Erlass
 über die Stiftung der Einsatzmedaille der Bundeswehr vom 27. Januar
@@ -36,6 +37,7 @@ Bundeswehr wird als Anlage zu diesem Erlass verkündet.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenserl7neufgenerl_2025/BJNR0CF0A0025.html#BJNR0CF0A0025BJNE000200000)
 
 Der Bundespräsident
 Der Bundesminister der Verteidigung

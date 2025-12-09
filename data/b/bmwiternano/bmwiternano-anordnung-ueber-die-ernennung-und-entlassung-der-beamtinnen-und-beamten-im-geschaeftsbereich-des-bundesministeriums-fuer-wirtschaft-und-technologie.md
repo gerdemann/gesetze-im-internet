@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmwiternano/BJNR130900009.html#BJNR130900009BJNE000100000)
 
 Nach Artikel 1 Abs. 1 Satz 2 der Anordnung des Bundespräsidenten über
 die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und
@@ -55,6 +56,7 @@ jeweils für ihren oder seinen Geschäftsbereich übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmwiternano/BJNR130900009.html#BJNR130900009BJNE000200000)
 
 Für besondere Fälle bleibt die Ernennung und Entlassung der unter
 Abschnitt I genannten Bundesbeamtinnen und Bundesbeamten der
@@ -63,6 +65,7 @@ Technologie vorbehalten.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmwiternano/BJNR130900009.html#BJNR130900009BJNE000300000)
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
 diesem Zeitpunkt an ist die Anordnung über die Ernennung und
@@ -72,6 +75,7 @@ des Bundesministeriums für Wirtschaft und Arbeit vom 7. August 2003
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwiternano/BJNR130900009.html#BJNR130900009BJNE000400000)
 
 Bundesministerium für Wirtschaft und Technologie
 

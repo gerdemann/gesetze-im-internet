@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000100000)
 
 Auf Grund der §§ 28n und 28p Abs. 9 des Vierten Buches
 Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung
@@ -32,10 +33,12 @@ für Arbeit und Soziales:
 
 
 ## Erster Abschnitt - Berechnung des Gesamtsozialversicherungsbeitrages und der Beitragsbemessungsgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000100000)
 
 
 
 ### § 1 Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000200000)
 
 (1) Der Gesamtsozialversicherungsbeitrag und die
 Beitragsbemessungsgrenzen werden je Kalendermonat für die Kalendertage
@@ -52,6 +55,7 @@ wenn sich in der dritten Dezimalstelle eine der Zahlen 5 bis 9 ergibt.
 
 
 ### § 2 Berechnungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000309126)
 
 (1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte
 tragen, werden durch Anwendung des halben Beitragssatzes auf das
@@ -121,10 +125,12 @@ Beitragsanteil des Beschäftigten.
 
 
 ## Zweiter Abschnitt - Zahlungen des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000200000)
 
 
 
 ### § 3 Tag der Zahlung, Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000402126)
 
 (1) Die Zahlungen der Arbeitgeber oder sonstiger Zahlungspflichtiger
 sind an die zuständige Einzugsstelle zu leisten. Als Tag der Zahlung
@@ -165,6 +171,7 @@ entsprechenden Sachbuchkonto der Pflegekasse zu buchen.
 
 
 ### § 4 Reihenfolge der Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000502119)
 
 Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger
 Auslagen der Einzugsstelle, Gebühren, insbesondere Mahn- und
@@ -182,10 +189,12 @@ anteilmäßig getilgt.
 
 
 ## Dritter Abschnitt - Weiterleitung und Abrechnung durch die Einzugsstelle
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000300000)
 
 
 
 ### § 5 Weiterleitung
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000602126)
 
 (1) Die Einzugsstelle erteilt an jedem Arbeitstag Aufträge zur
 Überweisung der nach § 28k Abs. 1 des Vierten Buches Sozialgesetzbuch
@@ -236,6 +245,7 @@ Gebühren behalten die Einzugsstellen ein.
 
 
 ### § 6 Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000702126)
 
 (1) Die Einzugsstelle hat dem Zahlungsempfänger bis zum Zwanzigsten
 des Monats eine Abrechnung für den Vormonat einzureichen.
@@ -250,6 +260,7 @@ vereinbarte Datensatz (Monatsabrechnung) zu verwenden.
 
 
 ### § 6a Weiterleitung und Abrechnung sonstiger Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001901126)
 
 (1) Die §§ 5 und 6 gelten entsprechend für Beitragszahlungen und
 Beitragsweiterleitungen nach § 252 Abs. 2 des Fünften Buches
@@ -264,10 +275,12 @@ Krankenkassen.
 
 
 ## Vierter Abschnitt - Prüfung beim Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000400000)
 
 
 
 ### § 7 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000807124)
 
 (1) Die Prüfung nach § 28p des Vierten Buches Sozialgesetzbuch erfolgt
 grundsätzlich nach vorheriger Ankündigung durch die
@@ -308,6 +321,7 @@ zuständigen Unfallversicherungsträgern zu übersenden.
 
 
 ### § 8 Entgeltunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE000923126)
 
 (1) Der Arbeitgeber hat in den Entgeltunterlagen folgende Angaben über
 den Beschäftigten aufzunehmen:
@@ -543,6 +557,7 @@ Buches Sozialgesetzbuch befreien lassen.
 
 
 ### § 9 Beitragsabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001006126)
 
 (1) Der Arbeitgeber hat zur Prüfung der Vollständigkeit der
 Entgeltabrechnung für jeden Abrechnungszeitraum ein Verzeichnis aller
@@ -635,6 +650,7 @@ Dokument geltenden weiteren gesetzlichen Vorschriften aufzubewahren.
 
 
 ### § 9a Gemeinsame Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE002000124)
 
 Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
@@ -649,6 +665,7 @@ Arbeitgeberverbände anzuhören hat.
 
 
 ### § 10 Mitwirkung
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001102119)
 
 (1) Der Arbeitgeber hat die Aufzeichnungen nach den §§ 8 und 9 so zu
 führen, dass bei einer Prüfung innerhalb angemessener Zeit ein
@@ -708,6 +725,7 @@ Mängelbeseitigung und die getroffenen Vorkehrungen nachzuweisen.
 
 
 ### § 11 Umfang
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001200000)
 
 (1) Die Prüfung der Aufzeichnungen nach den §§ 8 und 9 kann auf
 Stichproben beschränkt werden. Die für eine Prüfung verlangten
@@ -723,6 +741,7 @@ vorliegt oder nicht, auf Verlangen vorzulegen.
 
 
 ### § 12 Prüfung bei Steuerberatern oder bei anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001301119)
 
 Für die Prüfung bei den in § 28p Abs. 6 des Vierten Buches
 Sozialgesetzbuch genannten Stellen gelten die §§ 7 bis 11, soweit sie
@@ -736,6 +755,7 @@ Räumen des Versicherungsträgers bleibt unberührt.
 
 
 ### § 13 Prüfung in den Räumen des Versicherungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001400000)
 
 (1) Für die Prüfung beim Versicherungsträger gelten § 7 Abs. 1, 2 Satz
 1, Abs. 3 und 4 sowie die §§ 8 bis 11 entsprechend.
@@ -746,6 +766,7 @@ bis 11.
 
 
 ### § 13a Prüfung der Entrichtung der Künstlersozialabgabe
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001800308)
 
 Die Vorschriften dieses Abschnitts finden für die Prüfung der
 Entrichtung der Künstlersozialabgabe entsprechende Anwendung; § 1 Abs.
@@ -756,10 +777,12 @@ der Prüfung bestimmt der Versicherungsträger.
 
 
 ## Fünfter Abschnitt - Dateisystem der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000501119)
 
 
 
 ### § 14 Inhalt des Dateisystems
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001512126)
 
 (1) Das bei der Deutschen Rentenversicherung Bund maschinell geführte
 Dateisystem (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch)
@@ -916,15 +939,18 @@ verarbeitet werden.
 
 
 ## Sechster Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNG000600000)
 
 
 
 ### § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001600000)
 
 Diese Verordnung tritt am 1. Juli 2006 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/beitrvv/BJNR113800006.html#BJNR113800006BJNE001700000)
 
 Der Bundesrat hat zugestimmt.
 

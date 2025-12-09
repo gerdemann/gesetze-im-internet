@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000100000)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz verordnet auf Grund
@@ -45,9 +46,11 @@ nach Anhörung der Tierschutzkommission:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000200000)
 
 (1) Diese Verordnung dient dem Schutz von Tieren im Zusammenhang mit
 der Schlachtung oder Tötung, insbesondere der Durchführung der
@@ -100,6 +103,7 @@ den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000300000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -136,6 +140,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ### § 3 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000400000)
 
 (1) Zusätzlich zu den Anforderungen nach Artikel 3 Absatz 1 der
 Verordnung (EG) Nr. 1099/2009 sind die Tiere so zu betreuen,
@@ -152,6 +157,7 @@ möglich ist.
 
 
 ### § 4 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000500000)
 
 (1) Wer Tiere betreut, ruhigstellt, betäubt, schlachtet oder tötet,
 muss über die hierfür notwendigen Kenntnisse und Fähigkeiten
@@ -216,6 +222,7 @@ November 2011 (BGBl. I S. 2233) geändert worden ist.
 
 
 ### § 5 Treiben und Befördern von Tieren innerhalb eines Schlachthofes
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000600000)
 
 (1) Zusätzlich zu den Vorschriften zum Umgang mit Tieren nach Anhang
 III Nummer 1.8. und 1.9. der Verordnung (EG) Nr. 1099/2009 ist die
@@ -255,9 +262,11 @@ entsprechend.
 
 
 ## Abschnitt 2 - Vorschriften über Schlachthöfe
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNG000200000)
 
 
 ### § 6 Anforderungen an die Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000700000)
 
 Zusätzlich zu den Anforderungen an die Auslegung, den Bau und die
 Ausrüstung von Schlachthöfen nach Anhang II der Verordnung (EG) Nr.
@@ -298,6 +307,7 @@ Ausrüstung von Schlachthöfen nach Anhang II der Verordnung (EG) Nr.
 
 
 ### § 7 Allgemeine Vorschriften über das Betreuen von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000800000)
 
 (1) Das nach Anhang II Nummer 1.2. der Verordnung (EG) Nr. 1099/2009
 im Falle der Verwendung einer automatischen Be- oder Entlüftung
@@ -328,6 +338,7 @@ notwendig, sind Tiere unverzüglich abzusondern oder zu töten.
 
 
 ### § 8 Betreuen von Tieren, die sich nicht in Behältnissen befinden
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE000900000)
 
 (1) Der Betreiber eines Schlachthofes hat sicherzustellen, dass
 
@@ -374,9 +385,11 @@ ihrer Ankunft der Schlachtung zugeführt werden.
 
 
 ## Abschnitt 3 - Vorschriften über das Aufbewahren von Fischen und Krebstieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNG000300000)
 
 
 ### § 9 Aufbewahren von Fischen
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001000000)
 
 (1) Lebende Fische dürfen nur in Behältern aufbewahrt werden, deren
 Wasservolumen den Tieren ausreichende Bewegungsmöglichkeiten bietet.
@@ -395,6 +408,7 @@ Fische sind unverzüglich aus dem Behälter zu entfernen.
 
 
 ### § 10 Aufbewahren von Krebstieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001100000)
 
 Das Aufbewahren lebender Krebstiere auf Eis ist verboten. Sie dürfen
 nur im Wasser oder nur vorübergehend während des Transports in
@@ -403,9 +417,11 @@ feuchter Unterlage aufbewahrt werden.
 
 
 ## Abschnitt 4 - Vorschriften über das Ruhigstellen, Betäuben, Schlachten und Töten von Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNG000400000)
 
 
 ### § 11 Ruhigstellen warmblütiger Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001200000)
 
 (1) Tiere, die durch Anwendung eines mechanischen oder elektrischen
 Gerätes betäubt oder getötet werden sollen, sind in eine solche
@@ -430,6 +446,7 @@ Tötung der Tiere bereitsteht.
 
 
 ### § 12 Betäuben, Schlachten und Töten
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001300000)
 
 (1) Zusätzlich zu den Anforderungen an die Betäubung nach Artikel 4
 Absatz 1 Satz 1 und 2 der Verordnung (EG) Nr. 1099/2009 sind Tiere so
@@ -543,6 +560,7 @@ amtlichen Untersuchung von lebenden Schnecken oder Muscheln.
 
 
 ### § 13 Behördliche Zulassung weiterer Betäubungs- oder Tötungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001400000)
 
 (1) Abweichend von § 12 Absatz 3 Satz 1, auch in Verbindung mit Anlage
 1, kann die zuständige Behörde befristet
@@ -584,6 +602,7 @@ entsprechend.
 
 
 ### § 14 Aufbewahrungs- und Vorlagepflichten
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001500000)
 
 Die Aufzeichnungen der Schlüsselparameter elektrischer
 Betäubungsverfahren nach Anhang II Nummer 4.1. Satz 1 und Nummer 5.10.
@@ -595,6 +614,7 @@ vorzulegen.
 
 
 ### § 15 Entsprechende Anwendung von EU-Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001600000)
 
 (1) Soweit das Töten von Tieren weder durch innerstaatliches Recht
 noch durch einen unmittelbar geltenden Rechtsakt der Europäischen
@@ -638,9 +658,11 @@ gilt Absatz 2 entsprechend.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNG000500000)
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001700000)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -870,6 +892,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 ### § 17 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001800000)
 
 (1) Die Vorschriften der §§ 6, 7 Absatz 1 und 2 Satz 1 und des § 14
 sind bis zum 8. Dezember 2019 auf Schlachthöfe oder Teile von
@@ -889,6 +912,7 @@ weiter anzuwenden.
 
 
 ### § 18 Aufheben von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE001900000)
 
 Die Tierschutz-Schlachtverordnung vom 3. März 1997 (BGBl. I S. 405),
 die zuletzt durch Artikel 19 des Gesetzes vom 13. April 2006 (BGBl. I
@@ -896,17 +920,20 @@ S. 855) geändert worden ist, wird aufgehoben.
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE002000000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE002100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 12 Absatz 3 und 10)
 
 ### Anlage 1 Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE002200000)
 
 (Fundstelle: BGBl. I 2012, 2989 - 2992)
 
@@ -1369,6 +1396,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 12 Absatz 6)
 
 ### Anlage 2 Höchstdauer zwischen Betäuben und Entblutungsschnitt
+[Direktlink](https://www.gesetze-im-internet.de/tierschlv_2013/BJNR298200012.html#BJNR298200012BJNE002300000)
 
 (Fundstelle: BGBl. I 2012, 2993)
 

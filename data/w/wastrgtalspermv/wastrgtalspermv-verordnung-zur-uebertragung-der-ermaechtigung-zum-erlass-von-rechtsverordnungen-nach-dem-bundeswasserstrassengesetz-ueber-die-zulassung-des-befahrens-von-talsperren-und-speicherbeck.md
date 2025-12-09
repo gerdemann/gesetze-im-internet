@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrgtalspermv/BJNR221170969.html#BJNR221170969BJNE000100328)
 
 Auf Grund des § 46 des Bundeswasserstraßengesetzes vom 2. April 1968
 (Bundesgesetzbl. II S. 173), geändert durch Artikel 142 des
@@ -31,6 +32,7 @@ Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrgtalspermv/BJNR221170969.html#BJNR221170969BJNE000201305)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 Rechtsverordnungen nach § 46 Nr. 2 WaStrG über die Zulassung des
@@ -39,11 +41,13 @@ erlassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrgtalspermv/BJNR221170969.html#BJNR221170969BJNE000300328)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrgtalspermv/BJNR221170969.html#BJNR221170969BJNE000400328)
 
 Der Bundesminister für Verkehr und für das Post- und Fernmeldewesen
 

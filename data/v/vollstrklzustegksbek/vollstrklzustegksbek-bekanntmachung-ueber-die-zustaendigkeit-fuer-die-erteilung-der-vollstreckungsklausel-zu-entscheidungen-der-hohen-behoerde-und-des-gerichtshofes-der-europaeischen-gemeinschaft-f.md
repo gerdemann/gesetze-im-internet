@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vollstrklzustegksbek/BJNR210300954.html#BJNR210300954BJNE000100306)
 
 Für die Erteilung der Vollstreckungsklausel zu einer Entscheidung der
 Hohen Behörde oder des Gerichtshofes der Europäischen Gemeinschaft für
@@ -30,6 +31,7 @@ Justiz zuständig.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrklzustegksbek/BJNR210300954.html#BJNR210300954BJNE000200306)
 
 Der Stellvertreter des Bundeskanzlers
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000100000)
 
 Auf Grund
 
@@ -61,28 +62,33 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Aktueller Rentenwert in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000200000)
 
 Der aktuelle Rentenwert beträgt ab dem 1. Juli 2024 39,32 Euro.
 
 
 ## § 2 Ausgleichsbedarf in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000300000)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2024 1,0000.
 
 
 ## § 3 Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000400000)
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2024 48,00
 Prozent.
 
 
 ## § 4 Allgemeiner Rentenwert in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000500000)
 
 Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt
 ab dem 1. Juli 2024 18,15 Euro.
 
 
 ## § 5 Anpassung der Geldleistungen in der gesetzlichen Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000600000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2024 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -96,11 +102,13 @@ Euro monatlich.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2024/BJNR0C20A0024.html#BJNR0C20A0024BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

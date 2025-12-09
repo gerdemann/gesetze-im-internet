@@ -24,6 +24,7 @@ Nr. L 33 S. 22).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000100000)
 
 Auf Grund des § 17 Abs. 3 Satz 1 in Verbindung mit Satz 2, des § 24
 Satz 1 Nr. 1 in Verbindung mit Satz 2 Nr. 2 und 3 sowie Satz 3 und des
@@ -32,10 +33,12 @@ S. 1970) verordnet die Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000300000)
 
 (1) Diese Verordnung regelt Bedingungen für den Netzanschluss von
 Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit
@@ -49,6 +52,7 @@ Gesetzes sowie des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000400000)
 
 Im Sinne dieser Verordnung
 
@@ -75,6 +79,7 @@ Im Sinne dieser Verordnung
 
 
 ### § 3 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000500000)
 
 (1) Der Netzbetreiber hat auf seiner Internetseite folgende Angaben zu
 veröffentlichen:
@@ -130,6 +135,7 @@ Umstände einen erhöhten Zeitbedarf verursacht haben.
 
 
 ### § 4 Anschlusszusage und Netzanschlussvertrag
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000600000)
 
 (1) Der Netzbetreiber hat dem Anschlussnehmer zusammen mit dem
 Prüfungsergebnis nach § 3 Abs. 3 eine Anschlusszusage zu erteilen,
@@ -297,6 +303,7 @@ Realisierungsfahrplan der Regulierungsbehörde unverzüglich vorzulegen.
 
 
 ### § 5 Informationspflichten des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000700000)
 
 (1) Der Netzbetreiber ist im Rahmen seiner Prüfung nach § 3 Abs. 3
 Satz 1 verpflichtet, auf Antrag dem Anschlussnehmer die Netzdaten
@@ -382,6 +389,7 @@ gewordenen Netzdaten nach Absatz 1 zu wahren.
 
 
 ### § 6 Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000800000)
 
 (1) Die Gewährung des Netzanschlusses nach § 17 Abs. 2 des
 Energiewirtschaftsgesetzes ist insbesondere dann unzumutbar, wenn der
@@ -417,6 +425,7 @@ Dritten oder dem Netzbetreiber vornehmen lassen.
 
 
 ### § 7 Netzzugang bei Engpässen
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE000900000)
 
 (1) Anschlussnehmern steht nach Maßgabe der Absätze 2 und 3 ein
 Anspruch auf bevorzugten Netzzugang im Fall von Engpässen im deutschen
@@ -449,6 +458,7 @@ bevorzugten Netzzugangsrechte anteilig zu kürzen.
 
 
 ### § 8 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE001000000)
 
 (1) Der Anschlussnehmer trägt die Kosten für die Verbindung zwischen
 der Erzeugungsanlage und dem Netzanschlusspunkt.
@@ -468,10 +478,12 @@ hat der Anschlussnehmer nicht zu tragen.
 
 
 ## Teil 2 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNG000200000)
 
 
 
 ### § 9 Kraftwerksanschluss-Register
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE001100000)
 
 Die Netzbetreiber haben ein gemeinsames Register aller
 Erzeugungsanlagen, die bestehen oder für die ein Netzanschlussbegehren
@@ -487,6 +499,7 @@ zur Verfügung zu stellen.
 
 
 ### § 10 Festlegungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE001200000)
 
 Zur Verwirklichung eines effizienten Anschlusses von Erzeugungsanlagen
 an das Netz und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes
@@ -501,15 +514,18 @@ Bedingungen für einen Netzanschlussvertrag nach § 3 Abs. 1 Nr. 2.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNG000300000)
 
 
 
 ### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE001300000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html#BJNR118700007BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

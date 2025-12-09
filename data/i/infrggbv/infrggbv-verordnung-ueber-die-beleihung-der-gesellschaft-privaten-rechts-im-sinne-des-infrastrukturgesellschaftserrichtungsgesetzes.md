@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/infrggbv/BJNR074300020.html#BJNR074300020BJNE000100000)
 
 Auf Grund des § 6 des Infrastrukturgesellschaftserrichtungsgesetzes
 vom 14. August 2017 (BGBl. I S. 3122, 3141), der durch Artikel 5 des
@@ -30,6 +31,7 @@ Infrastruktur:
 
 
 ## § 1 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/infrggbv/BJNR074300020.html#BJNR074300020BJNE000202360)
 
 (1) Die Gesellschaft privaten Rechts im Sinne des
 Infrastrukturgesellschaftserrichtungsgesetzes (Gesellschaft) wird
@@ -230,6 +232,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen erlassen wird.
 
 
 ## § 2 Aufsicht, Aufgabenwahrnehmung und Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/infrggbv/BJNR074300020.html#BJNR074300020BJNE000300000)
 
 (1) Soweit die Gesellschaft beliehen ist, wird nach § 2 Absatz 1 Satz
 1 Nummer 5 des Fernstraßen-Bundesamt-Errichtungsgesetzes die Rechts-
@@ -252,6 +255,7 @@ vorzulegen, bleibt hiervon unberührt.
 
 
 ## § 3 Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/infrggbv/BJNR074300020.html#BJNR074300020BJNE000400000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann die
 Beleihung insgesamt oder einzelne Beleihungstatbestände jederzeit
@@ -260,6 +264,7 @@ Beleihung aufhebenden Verordnung.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/infrggbv/BJNR074300020.html#BJNR074300020BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft.
 

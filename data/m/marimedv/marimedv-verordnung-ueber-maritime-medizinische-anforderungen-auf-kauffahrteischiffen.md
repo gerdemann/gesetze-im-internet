@@ -30,9 +30,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000200000)
 
 Diese Verordnung regelt
 
@@ -60,6 +62,7 @@ Satz 1 Nummer 1 bis 5 aufgeführten Bereichen aufweisen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000300000)
 
 Im Sinne dieser Verordnung sind
 
@@ -87,12 +90,15 @@ Im Sinne dieser Verordnung sind
 
 
 ## Abschnitt 2 - Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000200000)
 
 
 ### Unterabschnitt 1 - Anforderungen an Personen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000300000)
 
 
 #### § 3 Anforderungen an die Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000400000)
 
 Die nach § 11, auch in Verbindung mit § 3 Absatz 4 Satz 2 bis 4, des
 Seearbeitsgesetzes erforderliche Seediensttauglichkeit liegt vor, wenn
@@ -102,6 +108,7 @@ Anforderungen erfüllt.
 
 
 #### § 4 Durchführung der Seediensttauglichkeitsuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000500000)
 
 (1) Der zugelassene Arzt hat die Seediensttauglichkeitsuntersuchung in
 seinen Untersuchungsräumen und für jede untersuchte Person einzeln
@@ -118,6 +125,7 @@ seeärztlichen Dienstes.
 
 
 #### § 5 Seediensttauglichkeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000601119)
 
 (1) Stellt der zugelassene Arzt oder der Arzt des seeärztlichen
 Dienstes die Seediensttauglichkeit fest, hat er
@@ -158,6 +166,7 @@ seeärztlichen Dienst auszuhändigen.
 
 
 #### § 6 Einschränkungen der Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000700000)
 
 Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat
 Einschränkungen der Seediensttauglichkeit, insbesondere hinsichtlich
@@ -182,6 +191,7 @@ hinsichtlich
 
 
 #### § 7 Ablehnung der Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000800000)
 
 Ist die untersuchte Person seedienstuntauglich, stellt der zugelassene
 Arzt eine Bescheinigung über das Nichterteilen des
@@ -190,6 +200,7 @@ untersuchten Person aus oder übermittelt ihr diese.
 
 
 #### § 8 Widerspruchsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE000901119)
 
 (1) Für den nach § 15 Absatz 2 des Seearbeitsgesetzes zu bildenden
 Widerspruchsausschuss sollen die Verbände der Reeder und der Seeleute
@@ -239,6 +250,7 @@ persönlichen Verhältnisse des Widerspruchsführers verpflichtet.
 
 
 #### § 9 Zulassung von Ärzten
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001001119)
 
 (1) Die notwendigen fachlichen Kenntnisse für die Zulassung nach § 16
 des Seearbeitsgesetzes liegen vor, wenn der Arzt
@@ -292,6 +304,7 @@ Internetseite.
 
 
 #### § 10 Verlängerung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001100000)
 
 (1) Die Zulassung wird auf Antrag jeweils um drei Jahre verlängert,
 wenn die Voraussetzungen des § 9 Absatz 1 Nummer 1, 2, 6 und Absatz 2
@@ -319,6 +332,7 @@ Zulassung durchzuführen waren.
 
 
 #### § 11 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001200000)
 
 (1) Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat
 die für die Feststellung der Seediensttauglichkeit maßgeblichen
@@ -347,6 +361,7 @@ entsprechend.
 
 
 #### § 12 Zugang zum Seediensttauglichkeitsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001301360)
 
 (1) Zur Übermittlung von Daten aus dem
 Seediensttauglichkeitsverzeichnis dürfen durch Abruf im
@@ -414,9 +429,11 @@ Seediensttauglichkeitsverzeichnis zu berichtigen.
 
 
 ### Unterabschnitt 2 - Anforderungen an besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000400000)
 
 
 #### § 13 Anforderungen an die Seediensttauglichkeit von Kanalsteurern
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001401119)
 
 (1) Die nach § 11 in Verbindung mit § 3 Absatz 4 Satz 3 des
 Seearbeitsgesetzes für einen Kanalsteurer auf dem Nord-Ostsee-Kanal
@@ -453,12 +470,15 @@ des Fahrtgebietes eingeschränkt sein.
 
 
 ## Abschnitt 3 - Medizinische Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000500000)
 
 
 ### Unterabschnitt 1 - Durchführung der medizinischen Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000600000)
 
 
 #### § 14 Betriebseigene Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001500000)
 
 (1) Der Reeder hat dafür zu sorgen, dass im Rahmen der betriebseigenen
 Kontrolle der medizinischen Ausstattung nach § 109 Absatz 3 Satz 2 des
@@ -474,9 +494,11 @@ genannten Apotheke zu erfolgen.
 
 
 ### Unterabschnitt 2 - Medizinische Wiederholungslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000700000)
 
 
 #### § 15 Verpflichtung zur Teilnahme an medizinischen Wiederholungslehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001600000)
 
 (1) Kapitäne und nach § 109 Absatz 1 Satz 2 des Seearbeitsgesetzes
 beauftragte Schiffsoffiziere, die an Bord von
@@ -506,6 +528,7 @@ Unterrichtsstunden (kleiner Lehrgang) fortbilden.
 
 
 #### § 16 Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001701124)
 
 (1) Ein Lehrgang wird von der Berufsgenossenschaft auf Antrag
 zugelassen, wenn
@@ -561,6 +584,7 @@ Unabhängigkeit oder Zuverlässigkeit verfügt. Im Übrigen bleiben die §§
 
 
 #### § 17 Überwachung der Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001800000)
 
 (1) Anbieter unterliegen der Überwachung der Berufsgenossenschaft. Zu
 diesem Zweck sind die Mitarbeiter der Berufsgenossenschaft
@@ -603,6 +627,7 @@ Lehrgangs anhand anonymisierter Fragebögen zu befragen.
 
 
 #### § 18 Inhalt und Durchführung der Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE001901124)
 
 (1) Der theoretische Teil des Lehrgangs ist durch eine Ärztin oder
 einen Arzt durchzuführen. Der praktische Teil kann abweichend von Satz
@@ -627,9 +652,11 @@ eine Teilnahmebescheinigung aus.
 
 
 ### Unterabschnitt 3 - Schiffsärzte
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000800000)
 
 
 #### § 19 Registrierung von Schiffsärzten
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002001119)
 
 (1) Der Reeder hat dafür zu sorgen, dass auf seinem Schiff nur solche
 Besatzungsmitglieder als Schiffsärzte eingesetzt werden, die hierfür
@@ -677,9 +704,11 @@ Voraussetzungen nach Absatz 2 nicht mehr vorliegen.
 
 
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNG000900000)
 
 
 ### § 20 Muster
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002100000)
 
 Für die nach dieser Verordnung vorgesehenen Zeugnisse, Bescheinigungen
 oder Vordrucke macht die Berufsgenossenschaft die Muster im
@@ -687,6 +716,7 @@ Verkehrsblatt oder im Bundesanzeiger bekannt.
 
 
 ### § 21 Übergangsregelung für vorläufig zugelassene Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002200000)
 
 Ein Arzt, der nach § 153 Satz 1 des Seearbeitsgesetzes vorläufig
 zugelassen ist, bedarf abweichend von § 9 Absatz 1 Satz 1 Nummer 1 für
@@ -697,6 +727,7 @@ Fortbildungsseminar des seeärztlichen Dienstes teilgenommen hat.
 
 
 ### § 22 Übergangsregelung für Lehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002300000)
 
 Lehrgänge, die am 21. August 2014 nach bisherigen Rechtsvorschriften
 anerkannt waren, gelten vorläufig als nach § 16 Absatz 1 zugelassen.
@@ -714,6 +745,7 @@ Die vorläufige Zulassung erlischt,
 (zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)
 
 ### Anlage 1 Anforderungen an die Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002401119)
 
 (Fundstelle: BGBl. I 2014, 1389 - 1416;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3771,6 +3803,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4 Absatz 1)
 
 ### Anlage 2 Durchführung der Seediensttauglichkeitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002500000)
 
 (Fundstelle: BGBl. I 2014, 1417 - 1420)
 
@@ -4180,6 +4213,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 1 Nummer 2 und § 9 Absatz 4)
 
 ### Anlage 3 Muster der Zulassungsstempel
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002600000)
 
 (Fundstelle: BGBl. I 2014, 1421)
 
@@ -4212,6 +4246,7 @@ b)  Zulassungsstempel für Seediensttauglichkeitszeugnisse, die durch
    (zu § 16 Absatz 1 Nummer 1 und § 18 Absatz 1)
 
 ### Anlage 4 Inhalte der medizinischen Wiederholungslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002700000)
 
 (Fundstelle: BGBl. I 2014, 1422 - 1429)
 
@@ -6521,6 +6556,7 @@ Verstauchungen und Zerrungen).
 (zu § 16 Absatz 1 Nummer 4)
 
 ### Anlage 5 Anforderungen an Schulungsräume und medizinische Ausstattung zur Durchführung medizinischer Wiederholungslehrgänge
+[Direktlink](https://www.gesetze-im-internet.de/marimedv/BJNR138310014.html#BJNR138310014BJNE002801119)
 
 (Fundstelle: BGBl. I 2014, 1430 - 1431;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

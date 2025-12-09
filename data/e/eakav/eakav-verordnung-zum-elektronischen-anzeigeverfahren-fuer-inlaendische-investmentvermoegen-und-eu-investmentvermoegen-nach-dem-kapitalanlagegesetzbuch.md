@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000100000)
 
 Auf Grund des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des
 Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) in
@@ -29,6 +30,7 @@ verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf die Übermittlung des
 Anzeigeschreibens und der weiteren Unterlagen an die Bundesanstalt für
@@ -56,6 +58,7 @@ Finanzdienstleistungsaufsicht (Bundesanstalt) nach
 
 
 ## § 2 Einzelanzeigen und Möglichkeit der Zusammenfassung von Anzeigen; Vollmacht
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000300000)
 
 (1) Die Anzeigen nach § 312 Absatz 1 und § 331 Absatz 1 des
 Kapitalanlagegesetzbuches sind für jedes Investmentvermögen einzeln
@@ -70,6 +73,7 @@ ist der Anzeige eine gültige Vollmacht beizufügen.
 
 
 ## § 3 Übertragungsweg
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000400000)
 
 [^F781799_01_BJNR247700013BJNE000400000]
 (1) Die Anzeige ist der Bundesanstalt über deren Melde- und
@@ -96,6 +100,7 @@ tritt.
 [^F781799_01_BJNR247700013BJNE000400000]: 
 
 ## § 4 Übertragungsformate
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000500000)
 
 (1) Das Anzeigeschreiben und die weiteren Unterlagen sind
 ausschließlich in den Dateiformaten PDF, DOC oder DOCX zu übermitteln.
@@ -110,6 +115,7 @@ zulässig.
 
 
 ## § 5 Bezeichnung der zu übermittelnden Dateien
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000600000)
 
 (1) Für die Anzeige nach § 312 Absatz 1 des Kapitalanlagegesetzbuches
 sind die in der inneren ZIP-Datei verpackten Dateien wie folgt zu
@@ -204,6 +210,7 @@ BaFin-ID und Bezeichnung „Vollmacht“.
 
 
 ## § 6 Ergänzungsanzeigen
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000700000)
 
 Hat die Bundesanstalt fehlende Angaben oder Unterlagen nach § 312
 Absatz 4 Satz 2 oder § 331 Absatz 3 Satz 1 des
@@ -215,6 +222,7 @@ eingereichten Unterlagen beziehen.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eakav/BJNR247700013.html#BJNR247700013BJNE000800000)
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt
 die Verordnung zum elektronischen Anzeigeverfahren für

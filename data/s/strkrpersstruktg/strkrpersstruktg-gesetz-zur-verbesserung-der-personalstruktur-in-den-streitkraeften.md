@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/strkrpersstruktg/BJNR016210985.html#BJNR016210985BJNE000100308)
 
 (1) Zur Verbesserung der Personalstruktur in den Streitkräften können
 in den Jahren 1986 bis 1991 bis zu 1.200 Berufsoffiziere des
@@ -69,6 +70,7 @@ Soldatengesetzes gelten entsprechend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/strkrpersstruktg/BJNR016210985.html#BJNR016210985BJNE000201377)
 
 (1) Auf Berufssoldaten, die nach diesem Gesetz in den Ruhestand
 versetzt worden sind, finden auch § 27 Absatz 1 und § 40 Absatz 2 des
@@ -120,6 +122,7 @@ Besoldungsgruppe A 14.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/strkrpersstruktg/BJNR016210985.html#BJNR016210985BJNE000300308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

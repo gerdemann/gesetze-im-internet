@@ -24,16 +24,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000400306)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000502360)
 
 (1) Die Aufgaben der Zentralen Behörde (Artikel 2, 18 Abs. 3 des
 Übereinkommens) nehmen die von den Landesregierungen bestimmten
@@ -47,6 +50,7 @@ Behörden der Länder.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000600306)
 
 Für die Entgegennahme von Zustellungsanträgen, die von einem
 ausländischen Konsul innerhalb der Bundesrepublik Deutschland
@@ -59,6 +63,7 @@ von Anträgen des Konsuls eines ausländischen Staates zuständig sind.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000700306)
 
 Eine förmliche Zustellung (Artikel 5 Abs. 1 des Übereinkommens) ist
 nur zulässig, wenn das zuzustellende Schriftstück in deutscher Sprache
@@ -66,6 +71,7 @@ abgefaßt oder in diese Sprache übersetzt ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000800306)
 
 (1) Die Zentrale Behörde ist befugt, Zustellungsanträge unmittelbar
 durch die Post erledigen zu lassen, wenn die Voraussetzungen für eine
@@ -82,6 +88,7 @@ bewirkt.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE000900306)
 
 Das Zustellungszeugnis (Artikel 6 Abs. 1, 2 des Übereinkommens)
 erteilt im Fall des § 4 Abs. 1 die Zentrale Behörde, im übrigen die
@@ -89,6 +96,7 @@ Geschäftsstelle des Amtsgerichts.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001000306)
 
 Eine Zustellung durch diplomatische oder konsularische Vertreter
 (Artikel 8 des Übereinkommens) ist nur zulässig, wenn das Schriftstück
@@ -97,10 +105,12 @@ nach Artikel 10 des Übereinkommens findet nicht statt.
 
 
 ## Zweiter Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNG000200306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001102360)
 
 (1) Die Aufgaben der Zentralen Behörde (Artikel 2, 24 Abs. 2 des
 Übereinkommens) nehmen die von den Landesregierungen bestimmten
@@ -114,6 +124,7 @@ Behörden der Länder.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001201311)
 
 Für die Erledigung von Rechtshilfeersuchen ist das Amtsgericht
 zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist. Die
@@ -128,6 +139,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001300306)
 
 Rechtshilfeersuchen, die durch das Amtsgericht zu erledigen sind
 (Kapitel I des Übereinkommens), müssen in deutscher Sprache abgefaßt
@@ -136,6 +148,7 @@ Abs. 1, 5 des Übereinkommens).
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001400306)
 
 Mitglieder des ersuchenden ausländischen Gerichts können bei der
 Erledigung eines Rechtshilfeersuchens durch das Amtsgericht anwesend
@@ -143,6 +156,7 @@ sein, wenn die Zentrale Behörde dies genehmigt hat.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001500306)
 
 Eine Beweisaufnahme durch diplomatische oder konsularische Vertreter
 ist unzulässig, wenn sie deutsche Staatsangehörige betrifft. Betrifft
@@ -154,6 +168,7 @@ des Staates des ersuchenden Gerichts besitzt.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001600306)
 
 (1) Ein Beauftragter des ersuchenden Gerichts (Artikel 17 des
 Übereinkommens) darf eine Beweisaufnahme nur durchführen, wenn die
@@ -168,6 +183,7 @@ Ein Mitglied dieses Gerichts kann an der Beweisaufnahme teilnehmen
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001700306)
 
 Für die Erteilung der Genehmigung nach den §§ 10, 11 und 12 (Artikel
 19 des Übereinkommens) ist die Zentrale Behörde des Landes zuständig,
@@ -175,6 +191,7 @@ in dem die Beweisaufnahme durchgeführt werden soll.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001802360)
 
 Rechtshilfeersuchen, die ein Verfahren nach Artikel 23 des
 Übereinkommens zum Gegenstand haben, werden nur erledigt, wenn
@@ -209,10 +226,12 @@ Rechtshilfeersuchen, die ein Verfahren nach Artikel 23 des
 
 
 ## Dritter Teil - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNG000300306)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE001901311)
 
 Der Bundesminister der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
@@ -226,6 +245,7 @@ und Ersuchen des Konsuls eines ausländischen Staates zuständig sind.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE002000306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -234,6 +254,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/haag_bkag/BJNR031050977.html#BJNR031050977BJNE002100306)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

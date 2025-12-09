@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html#BJNR098100001BJNE000100310)
 
 Auf Grund des § 27a des AGB-Gesetzes in der Fassung der Bekanntmachung
 vom 29. Juni 2000 (BGBl. I S. 946) verordnet das Bundesministerium der
@@ -29,6 +30,7 @@ Technologie:
 
 
 ## § 1 Zulässige Abschlagszahlungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html#BJNR098100001BJNE000202123)
 
 In Werkverträgen, die die Errichtung oder den Umbau eines Hauses oder
 eines vergleichbaren Bauwerks auf einem Grundstück zum Gegenstand
@@ -44,6 +46,7 @@ Abs. 1 und 2 zur Leistung von Abschlagszahlungen verpflichtet werden.
 
 
 ## § 2 Betroffene Verträge
+[Direktlink](https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html#BJNR098100001BJNE000300310)
 
 Diese Verordnung ist auch auf zwischen dem 1. Mai 2000 und dem 29. Mai
 2001 abgeschlossene Verträge anzuwenden. Dies gilt nicht, soweit
@@ -52,6 +55,7 @@ ein verbindlich gewordener Vergleich abgeschlossen worden ist.
 
 
 ## § 2a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html#BJNR098100001BJNE000500140)
 
 Die Verordnung ist in ihrer vom 1. Januar 2009 an geltenden Fassung
 nur auf Schuldverhältnisse anzuwenden, die seit diesem Tag entstanden
@@ -59,6 +63,7 @@ sind.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html#BJNR098100001BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

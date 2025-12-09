@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000200000)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -181,6 +182,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ## § 2 Grundsatz, Geltungsbereich, Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000300000)
 
 (1) Dieses Gesetz dient der Ausführung der zoll- und
 umsatzsteuerlichen Bestimmungen des NATO-Truppenstatuts, des
@@ -207,6 +209,7 @@ Nichtgemeinschaftsware und als in die Truppenverwendung übergeführt.
 
 
 ## § 3 Überführung von Nichtgemeinschaftswaren in die Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000400000)
 
 (1) Nichtgemeinschaftswaren, die
 
@@ -242,6 +245,7 @@ ist durch die nichtberechtigte Person nachzuweisen.
 
 
 ## § 4 Anmeldung und Zollabfertigung zur Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000500000)
 
 (1) Die Anmeldung und die Zollabfertigung zur Truppenverwendung
 erfolgen im Rahmen internationaler Abkommen
@@ -359,6 +363,7 @@ Zollstelle unverändert zu gestellen und anzumelden.
 
 
 ## § 5 Überführung in die Truppenverwendung unter Einsatz der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000600000)
 
 (1) Die Zollanmeldung zur Truppenverwendung kann unter Einsatz von
 Informatikverfahren, die durch das Bundesministerium der Finanzen zu
@@ -391,6 +396,7 @@ mindestens die Identitätsbezeichnung der Zollanmeldung und den
 
 
 ## § 6 Vereinfachte Zollanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000700000)
 
 Die Vorschriften des Zollkodex sowie der Zollkodex-
 Durchführungsverordnung (Teil I Titel IX) zur vereinfachten
@@ -400,6 +406,7 @@ entsprechend.
 
 
 ## § 7 Einfuhrhöchstmengen
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000800000)
 
 Folgende Waren der Mitglieder der ausländischen Streitkräfte und der
 Hauptquartiere sind einmal monatlich im persönlich mitgeführten Gepäck
@@ -455,6 +462,7 @@ Statusübereinkommens, einfuhrabgabenfrei:
 
 
 ## § 8 Einfuhr von Nichtgemeinschaftswaren aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE000900000)
 
 Nichtgemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere
 oder ihre Mitglieder zu den in § 3 Abs. 1 genannten Zwecken aus
@@ -466,6 +474,7 @@ sich bei der Einfuhr in einem Nichterhebungsverfahren befinden.
 
 
 ## § 9 Übergang von Gemeinschaftswaren in die Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001000000)
 
 (1) Gemeinschaftswaren, die ausländischen Streitkräften
 
@@ -522,6 +531,7 @@ zollamtlicher Überwachung.
 
 
 ## § 10 Einfuhr von Gemeinschaftswaren aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001100000)
 
 Gemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere oder
 ihre Mitglieder in einem anderen Mitgliedstaat nach den Bestimmungen
@@ -537,6 +547,7 @@ zollamtlicher Überwachung.
 
 
 ## § 11 Abgabenbegünstigter Erwerb von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001200000)
 
 Die Mitglieder der ausländischen Streitkräfte und der Hauptquartiere
 können Kraftfahrzeuge zu ihrem ausschließlichen Gebrauch aus einem
@@ -547,6 +558,7 @@ ausländischen Streitkräfte genehmigt worden ist.
 
 
 ## § 12 Zollrechtlicher Status der Waren, Vermutung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001300000)
 
 Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der
 ausländischen Streitkräfte, Hauptquartiere oder ihrer Mitglieder
@@ -555,6 +567,7 @@ sind.
 
 
 ## § 13 Beendigung der Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001400000)
 
 (1) Die Truppenverwendung im Sinne des § 2 Abs. 3 endet, wenn die
 Einfuhrwaren eine neue zollrechtliche Bestimmung erhalten. Abweichend
@@ -606,6 +619,7 @@ erfolgen:
 
 
 ## § 14 Anmeldung und Zollabfertigung zur Ausfuhr in ein Drittland
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001500000)
 
 (1) Die Anmeldung und die Zollabfertigung zur Ausfuhr in ein Drittland
 erfolgt im Rahmen internationaler Abkommen
@@ -656,6 +670,7 @@ angemeldet werden.
 
 
 ## § 15 Ausfuhr in ein Drittland unter Einsatz der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001600000)
 
 (1) Die Zollanmeldung zur Ausfuhr in ein Drittland zur Beendigung der
 Truppenverwendung kann unter Einsatz von Informatikverfahren, die
@@ -670,6 +685,7 @@ Informatikverfahrens.
 
 
 ## § 16 Übernahme von Waren aus der Truppenverwendung, Zuführung zu einer anderen zollrechtlichen Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001700000)
 
 (1) Will eine nichtberechtigte Person Einfuhrwaren aus der
 Truppenverwendung der Streitkräfte, Hauptquartiere oder deren
@@ -708,6 +724,7 @@ Durchführungsverordnung entsprechend.
 
 
 ## § 17 Pflichten aus der Inanspruchnahme der Truppenverwendung, Zweckwidrige Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001800000)
 
 (1) Einfuhrwaren dürfen nur
 
@@ -799,6 +816,7 @@ Nr. 2 genannten Zwecken liegt insbesondere vor, wenn
 
 
 ## § 18 Rationsmengen
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE001900000)
 
 (1) Festgelegte Rationsmengen im Sinne des § 17 Abs. 2 Nr. 4 sind:
 
@@ -962,6 +980,7 @@ besondere Rationserhöhungen gewähren.
 
 
 ## § 19 Abgabenschuld, Abgabenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002001140)
 
 (1) Wird die Truppenverwendung durch die Überführung der Einfuhrware
 in den zollrechtlich freien Verkehr beendet, gelten für die Entstehung
@@ -1011,6 +1030,7 @@ nicht in Anspruch genommen wurde.
 
 
 ## § 20 Beendigung vorangegangener Zollverfahren mit wirtschaftlicher Bedeutung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002100000)
 
 (1) Wenn die ordnungsgemäße Lieferung oder Rückgabe von Waren aus
 einer aktiven Veredelung oder die ordnungsgemäße Übergabe von Waren
@@ -1028,6 +1048,7 @@ zu führen.
 
 
 ## § 21 Verlust der Rechtsstellung als Mitglied der ausländischen Streitkräfte oder der Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002200000)
 
 (1) Verliert ein im Geltungsbereich dieses Gesetzes stationiertes
 Mitglied der ausländischen Streitkräfte seine Rechtsstellung, gelten
@@ -1046,6 +1067,7 @@ Staatsangehörigkeit besitzt.
 
 
 ## § 22 Harmonisierungsvorschrift für Waren aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002300000)
 
 (1) Waren der Mitglieder der ausländischen Streitkräfte oder der
 Hauptquartiere in einem anderen Mitgliedstaat, die dort
@@ -1076,6 +1098,7 @@ Fälle vorsieht.
 
 
 ## § 23 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002400000)
 
 Ein Mitglied der ausländischen Streitkräfte kann sich gegenüber
 Zollstellen bei der Vornahme von Verfahrenshandlungen nach diesem
@@ -1090,6 +1113,7 @@ jedermann vertreten lassen.
 
 
 ## § 24 Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002500000)
 
 (1) Waren, die sich im Zeitpunkt des Inkrafttretens dieses Gesetzes in
 der einfuhrabgabenbegünstigten Verwendung nach § 1 des
@@ -1124,6 +1148,7 @@ Zusatzabkommens vorsehen, gilt dieses Gesetz entsprechend.
 
 
 ## § 25 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002600000)
 
 (1) Das Bundesministerium der Finanzen kann zur Durchführung dieses
 Gesetzes durch Rechtsverordnung, die nicht der Zustimmung des
@@ -1175,6 +1200,7 @@ inländischen Wirtschaft nicht verletzt werden.
 
 
 ## § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/trzollg/BJNR109010009.html#BJNR109010009BJNE002700000)
 
 (1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 2 der Abgabenordnung
 handelt, wer vorsätzlich oder fahrlässig

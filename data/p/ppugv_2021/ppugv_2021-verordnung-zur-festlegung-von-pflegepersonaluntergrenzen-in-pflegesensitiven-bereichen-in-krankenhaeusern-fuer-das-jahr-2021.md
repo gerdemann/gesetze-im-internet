@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000100000)
 
 Auf Grund des § 137i Absatz 3 Satz 1 in Verbindung mit Satz 2 des
 Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –,
@@ -31,6 +32,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000203126)
 
 (1) Diese Verordnung regelt die Festlegung von
 Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in
@@ -53,6 +55,7 @@ festlegen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000302126)
 
 (1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und
 Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die
@@ -139,6 +142,7 @@ intensivmedizinischen Patientenversorgung dient.
 
 
 ## § 3 Ermittlung pflegesensitiver Bereiche in den Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000403126)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus ermittelt die
 pflegesensitiven Bereiche in den Krankenhäusern auf Grundlage
@@ -313,6 +317,7 @@ Bereiche gilt Absatz 4 entsprechend.
 
 
 ## § 4 Ermittlung des Pflegeaufwands zur Festlegung risikoadjustierter Pflegepersonaluntergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000500000)
 
 Das Institut für das Entgeltsystem im Krankenhaus ermittelt den
 Pflegeaufwand in den pflegesensitiven Bereichen in den Krankenhäusern.
@@ -324,6 +329,7 @@ zur Risikoadjustierung des Pflegeaufwands.
 
 
 ## § 5 Übermittlung der Ergebnisse der Ermittlung pflegesensitiver Bereiche in Krankenhäusern an die betroffenen Krankenhäuser, Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000602126)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus übermittelt den
 Krankenhäusern, bei denen nach § 3 ein oder mehrere pflegesensitive
@@ -464,6 +470,7 @@ Absätzen 2 bis 4 treffen.
 
 
 ## § 6 Festlegung der Pflegepersonaluntergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000704126)
 
 (1) Für die folgenden pflegesensitiven Bereiche in Krankenhäusern
 werden die folgenden Pflegepersonaluntergrenzen schichtbezogen als
@@ -899,6 +906,7 @@ ob die Pflegepersonaluntergrenzen eingehalten werden.
 
 
 ## § 7 Ausnahmetatbestände
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000800000)
 
 Die Pflegepersonaluntergrenzen müssen in den folgenden Fällen nicht
 eingehalten werden:
@@ -918,6 +926,7 @@ eines Ausnahmetatbestandes nach Satz 1 nachzuweisen.
 
 
 ## § 8 Personalverlagerungen
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE000900000)
 
 (1) Personalverlagerungen aus anderen Bereichen in der unmittelbaren
 Patientenversorgung auf bettenführenden Stationen in die
@@ -955,6 +964,7 @@ Krankenhaus zur Vermeidung von Personalverlagerungen zu ergreifen hat.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Pflegepersonaluntergrenzen-Verordnung vom 28.
@@ -965,6 +975,7 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ## Anlage Indikatoren-DRGs
+[Direktlink](https://www.gesetze-im-internet.de/ppugv_2021/BJNR235700020.html#BJNR235700020BJNE001105126)
 
 (Fundstelle: BGBl. 2025 I Nr. 267, S. 2 - 44)
 

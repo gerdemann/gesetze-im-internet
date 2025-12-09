@@ -23,6 +23,7 @@ V aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatzv_2011/BJNR027100011.html#BJNR027100011BJNE000100000)
 
 Auf Grund des § 3a Absatz 6 des
 Finanzmarktstabilisierungsfondsgesetzes, der zuletzt durch Artikel 4
@@ -33,12 +34,14 @@ Restrukturierungsfondsgesetzes vom 9. Dezember 2010 (BGBl. I S. 1900,
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatzv_2011/BJNR027100011.html#BJNR027100011BJNE000200000)
 
 Die Bundesanstalt für Finanzmarktstabilisierung erhält die anliegende
 Satzung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatzv_2011/BJNR027100011.html#BJNR027100011BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Satzung der Bundesanstalt
@@ -48,6 +51,7 @@ Kraft.
 (zu § 1)
 
 ## Anlage Satzung der Bundesanstalt für Finanzmarktstabilisierung
+[Direktlink](https://www.gesetze-im-internet.de/fmsasatzv_2011/BJNR027100011.html#BJNR027100011BJNE000404116)
 
 (Fundstelle: BGBl. I 2017, 4020 - 4022; bzgl. einzelner Änderungen
 vgl. Fußnote)

@@ -21,14 +21,17 @@ Geändert durch
 
 
 ## Art 1 bis 7 - 
+[Direktlink](https://www.gesetze-im-internet.de/gleichberg/BJNR006099957.html#BJNR006099957BJNG000100304)
 
 
 
 ## Art 8 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gleichberg/BJNR006099957.html#BJNR006099957BJNG000800304)
 
 
 
 ## I. Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gleichberg/BJNR006099957.html#BJNR006099957BJNE000901377)
 
 
 1.  Die persönlichen Rechtsbeziehungen der Ehegatten zueinander,
@@ -112,6 +115,7 @@ Geändert durch
 
 
 ## II. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gleichberg/BJNR006099957.html#BJNR006099957BJNE001001377)
 
 1\. u. 2. (Aufhebungsvorschriften)
 

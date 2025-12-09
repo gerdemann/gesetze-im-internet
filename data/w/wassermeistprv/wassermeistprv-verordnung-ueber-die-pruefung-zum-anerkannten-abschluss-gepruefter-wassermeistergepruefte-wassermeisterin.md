@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000100000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
@@ -34,6 +35,7 @@ und dem Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Wassermeister/zur
@@ -100,6 +102,7 @@ Geprüfter Wassermeister/Geprüfte Wassermeisterin.
 
 
 ## § 2 Umfang der Meisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000301308)
 
 (1) Die Qualifikation zum Geprüften Wassermeister/zur Geprüften
 Wassermeisterin umfasst:
@@ -143,6 +146,7 @@ prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000400000)
 
 (1) Zur Prüfung im Prüfungsteil "Grundlegende Qualifikationen" ist
 zuzulassen, wer Folgendes nachweist:
@@ -237,6 +241,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Grundlegende Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000500000)
 
 (1) Im Prüfungsteil "Grundlegende Qualifikationen" ist in folgenden
 Prüfungsbereichen zu prüfen:
@@ -458,6 +463,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000601128)
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst
 die Handlungsbereiche "Technik", "Organisation" sowie "Führung und
@@ -938,6 +944,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000702128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -950,6 +957,7 @@ zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -976,6 +984,7 @@ Mittel zu berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1038,6 +1047,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -1063,6 +1073,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1080,12 +1091,14 @@ Ergebnis für das Bestehen zu berücksichtigen.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001002128)
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001101128)
 
 Diese Verordnung tritt am 1. März 2005 in Kraft. Gleichzeitig tritt
 die Ver- und Entsorgung-Meisterprüfungsverordnung vom 23. November
@@ -1095,6 +1108,7 @@ der Verordnung vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001203128)
 
 (Fundstelle: BGBl. I 2019, 2268 – 2269)
 
@@ -1396,6 +1410,7 @@ der Verordnung vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/wassermeistprv/BJNR034900005.html#BJNR034900005BJNE001303128)
 
 (Fundstelle: BGBl. I 2019, 2269 – 2270)
 

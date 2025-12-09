@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwibhwidvertrano/BJNR327100021.html#BJNR327100021BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -28,6 +29,7 @@ Bundesministerium der Finanzen an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bmwibhwidvertrano/BJNR327100021.html#BJNR327100021BJNE000200000)
 
 (1) Der Postbeamtenkrankenkasse wird die Zuständigkeit für den Erlass
 von Widerspruchsbescheiden übertragen, soweit es sich um Widersprüche
@@ -41,6 +43,7 @@ im Einzelfall die Befugnisse nach Absatz 1 selbst auszuüben.
 
 
 ## § 2 Vertretung in verwaltungsgerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bmwibhwidvertrano/BJNR327100021.html#BJNR327100021BJNE000300000)
 
 (1) Dem Vorstand der Postbeamtenkrankenkasse wird die Befugnis zur
 Vertretung der Bundesrepublik Deutschland in verwaltungsgerichtlichen
@@ -55,6 +58,7 @@ verwaltungsgerichtlichen Verfahren nach Absatz 1 selbst zu übernehmen.
 
 
 ## § 3 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmwibhwidvertrano/BJNR327100021.html#BJNR327100021BJNE000400000)
 
 (1) Für Beamtinnen und Beamte im Geschäftsbereich des
 Bundesministeriums für Wirtschaft und Energie, die nicht bei der
@@ -77,6 +81,7 @@ weiter anzuwenden.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmwibhwidvertrano/BJNR327100021.html#BJNR327100021BJNE000500000)
 
 (1) Diese Anordnung tritt am 1. August 2021 in Kraft.
 

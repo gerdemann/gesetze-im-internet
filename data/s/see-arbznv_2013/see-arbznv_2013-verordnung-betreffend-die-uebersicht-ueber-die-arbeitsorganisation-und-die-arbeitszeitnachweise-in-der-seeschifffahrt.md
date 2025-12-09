@@ -29,6 +29,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000100000)
 
 Auf Grund des § 55 Satz 1 Nummer 1 und 2 in Verbindung mit Satz 2 des
 Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868) verordnet das
@@ -38,6 +39,7 @@ Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000200000)
 
 Die Übersicht über die Arbeitsorganisation an Bord und die
 Arbeitszeitnachweise der Besatzungsmitglieder auf Kauffahrteischiffen,
@@ -46,6 +48,7 @@ führen.
 
 
 ## § 2 Übersicht über die Arbeitsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000300000)
 
 (1) Die Übersicht über die Arbeitsorganisation an Bord nach § 50
 Absatz 1 Satz 1 des Seearbeitsgesetzes ist nach dem Muster der Anlage
@@ -92,6 +95,7 @@ regelmäßigen Rhythmus eingeteilt sind.
 
 
 ## § 3 Arbeitszeitnachweise
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000401124)
 
 (1) Die Arbeitszeitnachweise nach § 50 Absatz 2 des Seearbeitsgesetzes
 sind nach dem Muster der Anlage 2 jeweils für einen Monat zu führen.
@@ -124,6 +128,7 @@ elektronisch zu übermitteln.
 
 
 ## § 4 Sprachenvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000500000)
 
 Die Übersicht über die Arbeitsorganisation nach § 2 sowie die
 Arbeitszeitnachweise nach § 3 sind in deutscher und englischer Sprache
@@ -131,6 +136,7 @@ und in den weiteren Arbeitssprachen des Schiffes zu führen.
 
 
 ## § 5 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000600000)
 
 (1) Solange das Schiff die Bundesflagge führt, hat der Reeder
 sicherzustellen, dass
@@ -159,6 +165,7 @@ Berufsgenossenschaft für Transport und Verkehrswirtschaft während der
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000700000)
 
 Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des
 Seearbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -168,6 +175,7 @@ aufbewahrt werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE000800000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die See-Arbeitszeitnachweisverordnung vom 5. Juli 2002 (BGBl. I S.
@@ -176,6 +184,7 @@ die See-Arbeitszeitnachweisverordnung vom 5. Juli 2002 (BGBl. I S.
 (zu § 2 Absatz 1)
 
 ## Anlage 1 Standardmuster für die Übersicht über die Arbeitsorganisation an Bord
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE001000000)
 
 (Fundstelle: BGBl. I 2013, 2797)
 
@@ -341,6 +350,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 3 Absatz 1)
 
 ## Anlage 2 Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/see-arbznv_2013/BJNR279500013.html#BJNR279500013BJNE001100000)
 
 (Fundstelle: BGBl. I 2013, 2798 - 2799)
 

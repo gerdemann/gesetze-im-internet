@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1995bek/BJNR028100995.html#BJNR028100995BJNE000100307)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 3.
 Februar 1995 bekannt, der mit sofortiger Wirkung in Kraft getreten

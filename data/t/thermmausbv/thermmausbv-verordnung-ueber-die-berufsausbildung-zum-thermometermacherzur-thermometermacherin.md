@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000100326)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -31,6 +32,7 @@ Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000200326)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Thermometermacher/Thermometermacherin nach der Handwerksordnung und
@@ -38,12 +40,14 @@ für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
 
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000300326)
 
 Der Ausbildungsberuf Thermometermacher/Thermometermacherin wird
 staatlich anerkannt.
 
 
 ## § 3 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000400326)
 
 Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann
 zwischen den Fachrichtungen
@@ -59,6 +63,7 @@ gewählt werden.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000500326)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -124,6 +129,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000600326)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
@@ -134,12 +140,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000700326)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000800326)
 
 Der Auszubildende hat ein Berichtheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -148,6 +156,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE000900326)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs
@@ -196,6 +205,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Abschluß- und Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001000326)
 
 (1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf
 die in der Anlage zu § 5 aufgeführten Fertigkeiten und Kenntnisse
@@ -404,6 +414,7 @@ sind.
 
 
 ## § 10 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001100326)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für Lehrberufe, Anlernberufe und für
@@ -414,6 +425,7 @@ Thermometerbläser und Thermometerjustierer, sind vorbehaltlich des §
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001200326)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -422,6 +434,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001300326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
@@ -429,12 +442,14 @@ Handwerksordnung auch im Land Berlin.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001400326)
 
 Diese Verordnung tritt am 1. August 1986 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Thermometermacher/zur Thermometermacherin
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE001500326)
 
 (Fundstelle: BGBl. I 1986, 837 - 842)
 
@@ -1218,6 +1233,7 @@ Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 und Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 998, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/thermmausbv/BJNR008340986.html#BJNR008340986BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

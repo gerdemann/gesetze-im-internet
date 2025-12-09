@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000100319)
 
 
 
 ### § 1 Persönlicher und sachlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004001360)
 
 (1) Dieses Gesetz gilt, wenn ein Jugendlicher oder ein Heranwachsender
 eine Verfehlung begeht, die nach den allgemeinen Vorschriften mit
@@ -42,6 +44,7 @@ geltenden Verfahrensvorschriften anzuwenden.
 
 
 ### § 2 Ziel des Jugendstrafrechts; Anwendung des allgemeinen Strafrechts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004101114)
 
 (1) Die Anwendung des Jugendstrafrechts soll vor allem erneuten
 Straftaten eines Jugendlichen oder Heranwachsenden entgegenwirken. Um
@@ -54,18 +57,22 @@ nichts anderes bestimmt ist.
 
 
 ## Zweiter Teil - Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000200319)
 
 
 
 ### Erstes Hauptstück - Verfehlungen Jugendlicher und ihre Folgen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000300319)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000400319)
 
 
 
 ##### § 3 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004202140)
 
 Ein Jugendlicher ist strafrechtlich verantwortlich, wenn er zur Zeit
 der Tat nach seiner sittlichen und geistigen Entwicklung reif genug
@@ -76,6 +83,7 @@ Maßnahmen anordnen wie das Familiengericht.
 
 
 ##### § 4 Rechtliche Einordnung der Taten Jugendlicher
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004300319)
 
 Ob die rechtswidrige Tat eines Jugendlichen als Verbrechen oder
 Vergehen anzusehen ist und wann sie verjährt, richtet sich nach den
@@ -83,6 +91,7 @@ Vorschriften des allgemeinen Strafrechts.
 
 
 ##### § 5 Die Folgen der Jugendstraftat
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004400319)
 
 (1) Aus Anlaß der Straftat eines Jugendlichen können
 Erziehungsmaßregeln angeordnet werden.
@@ -96,6 +105,7 @@ Entziehungsanstalt die Ahndung durch den Richter entbehrlich macht.
 
 
 ##### § 6 Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004500319)
 
 (1) Auf Unfähigkeit, öffentliche Ämter zu bekleiden, Rechte aus
 öffentlichen Wahlen zu erlangen oder in öffentlichen Angelegenheiten
@@ -108,6 +118,7 @@ Strafgesetzbuches), tritt nicht ein.
 
 
 ##### § 7 Maßregeln der Besserung und Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004604377)
 
 (1) Als Maßregeln der Besserung und Sicherung im Sinne des allgemeinen
 Strafrechts können die Unterbringung in einem psychiatrischen
@@ -201,6 +212,7 @@ vierundzwanzigste Lebensjahr noch nicht vollendet hat.
 
 
 ##### § 8 Verbindung von Maßnahmen und Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004703123)
 
 (1) Erziehungsmaßregeln und Zuchtmittel, ebenso mehrere
 Erziehungsmaßregeln oder mehrere Zuchtmittel können nebeneinander
@@ -222,10 +234,12 @@ werden. Ein Fahrverbot darf die Dauer von drei Monaten nicht
 
 
 #### Zweiter Abschnitt - Erziehungsmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000500319)
 
 
 
 ##### § 9 Arten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004802301)
 
 Erziehungsmaßregeln sind
 
@@ -240,6 +254,7 @@ Erziehungsmaßregeln sind
 
 
 ##### § 10 Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE004901307)
 
 (1) Weisungen sind Gebote und Verbote, welche die Lebensführung des
 Jugendlichen regeln und dadurch seine Erziehung fördern und sichern
@@ -289,6 +304,7 @@ Einverständnis geschehen.
 Laufzeit und nachträgliche Änderung von Weisungen;
 
 ##### § 11 Folgen der Zuwiderhandlung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005001307)
 
 (1) Der Richter bestimmt die Laufzeit der Weisungen. Die Laufzeit darf
 zwei Jahre nicht überschreiten; sie soll bei einer Weisung nach § 10
@@ -309,6 +325,7 @@ Arrestes der Weisung nachkommt.
 
 
 ##### § 12 Hilfe zur Erziehung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005102301)
 
 Der Richter kann dem Jugendlichen nach Anhörung des Jugendamts auch
 auferlegen, unter den im Achten Buch Sozialgesetzbuch genannten
@@ -328,10 +345,12 @@ in Anspruch zu nehmen.
 
 
 #### Dritter Abschnitt - Zuchtmittel
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000600319)
 
 
 
 ##### § 13 Arten und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005200319)
 
 (1) Der Richter ahndet die Straftat mit Zuchtmitteln, wenn
 Jugendstrafe nicht geboten ist, dem Jugendlichen aber eindringlich zum
@@ -355,12 +374,14 @@ Unrecht einzustehen hat.
 
 
 ##### § 14 Verwarnung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005300319)
 
 Durch die Verwarnung soll dem Jugendlichen das Unrecht der Tat
 eindringlich vorgehalten werden.
 
 
 ##### § 15 Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005401307)
 
 (1) Der Richter kann dem Jugendlichen auferlegen,
 
@@ -402,6 +423,7 @@ erklären.
 
 
 ##### § 16 Jugendarrest
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005501307)
 
 (1) Der Jugendarrest ist Freizeitarrest, Kurzarrest oder Dauerarrest.
 
@@ -419,6 +441,7 @@ Wochen. Er wird nach vollen Tagen oder Wochen bemessen.
 
 
 ##### § 16a Jugendarrest neben Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018200360)
 
 (1) Wird die Verhängung oder die Vollstreckung der Jugendstrafe zur
 Bewährung ausgesetzt, so kann abweichend von § 13 Absatz 1 daneben
@@ -452,10 +475,12 @@ Untersuchungshaft befunden hat.
 
 
 #### Vierter Abschnitt - Die Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000700319)
 
 
 
 ##### § 17 Form und Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005601377)
 
 (1) Die Jugendstrafe ist Freiheitsentzug in einer für ihren Vollzug
 vorgesehenen Einrichtung.
@@ -467,6 +492,7 @@ oder wenn wegen der Schwere der Schuld Strafe erforderlich ist.
 
 
 ##### § 18 Dauer der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005700319)
 
 (1) Das Mindestmaß der Jugendstrafe beträgt sechs Monate, das
 Höchstmaß fünf Jahre. Handelt es sich bei der Tat um ein Verbrechen,
@@ -479,20 +505,24 @@ erzieherische Einwirkung möglich ist.
 
 
 ##### § 19
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005801307)
 
 -
 
 
 #### Fünfter Abschnitt - Aussetzung der Jugendstrafe zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000800319)
 
 
 
 ##### § 20
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE005900319)
 
 (weggefallen)
 
 
 ##### § 21 Strafaussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006002360)
 
 (1) Bei der Verurteilung zu einer Jugendstrafe von nicht mehr als
 einem Jahr setzt das Gericht die Vollstreckung der Strafe zur
@@ -520,6 +550,7 @@ ausgeschlossen.
 
 
 ##### § 22 Bewährungszeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006100319)
 
 (1) Der Richter bestimmt die Dauer der Bewährungszeit. Sie darf drei
 Jahre nicht überschreiten und zwei Jahre nicht unterschreiten.
@@ -532,6 +563,7 @@ nur bis auf zwei Jahre verkürzt werden.
 
 
 ##### § 23 Weisungen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006200319)
 
 (1) Der Richter soll für die Dauer der Bewährungszeit die
 Lebensführung des Jugendlichen durch Weisungen erzieherisch
@@ -547,6 +579,7 @@ Erfüllung der Zusagen oder des Anerbietens zu erwarten ist.
 
 
 ##### § 24 Bewährungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006301307)
 
 (1) Der Richter unterstellt den Jugendlichen in der Bewährungszeit für
 höchstens zwei Jahre der Aufsicht und Leitung eines hauptamtlichen
@@ -572,6 +605,7 @@ die Lebensführung des Jugendlichen verlangen.
 
 
 ##### § 25 Bestellung und Pflichten des Bewährungshelfers
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006401307)
 
 Der Bewährungshelfer wird vom Richter bestellt. Der Richter kann ihm
 für seine Tätigkeit nach § 24 Abs. 3 Anweisungen erteilen. Der
@@ -582,6 +616,7 @@ dem Richter mit.
 
 
 ##### § 26 Widerruf der Strafaussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006504360)
 
 (1) Das Gericht widerruft die Aussetzung der Jugendstrafe, wenn der
 Jugendliche
@@ -632,6 +667,7 @@ Umfang, in dem er verbüßt wurde, auf die Jugendstrafe angerechnet.
 
 
 ##### § 26a Erlaß der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006600319)
 
 Widerruft der Richter die Strafaussetzung nicht, so erläßt er die
 Jugendstrafe nach Ablauf der Bewährungszeit. § 26 Abs. 3 Satz 1 ist
@@ -639,10 +675,12 @@ anzuwenden.
 
 
 #### Sechster Abschnitt - Aussetzung der Verhängung der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG000900319)
 
 
 
 ##### § 27 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006700319)
 
 Kann nach Erschöpfung der Ermittlungsmöglichkeiten nicht mit
 Sicherheit beurteilt werden, ob in der Straftat eines Jugendlichen
@@ -654,6 +692,7 @@ aussetzen.
 
 
 ##### § 28 Bewährungszeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006800319)
 
 (1) Die Bewährungszeit darf zwei Jahre nicht überschreiten und ein
 Jahr nicht unterschreiten.
@@ -665,6 +704,7 @@ verlängert werden.
 
 
 ##### § 29 Bewährungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE006901307)
 
 Der Jugendliche wird für die Dauer oder einen Teil der Bewährungszeit
 der Aufsicht und Leitung eines Bewährungshelfers unterstellt. Die §§
@@ -674,6 +714,7 @@ der Aufsicht und Leitung eines Bewährungshelfers unterstellt. Die §§
 Verhängung der Jugendstrafe;
 
 ##### § 30 Tilgung des Schuldspruchs
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007002360)
 
 (1) Stellt sich vor allem durch schlechte Führung des Jugendlichen
 während der Bewährungszeit heraus, daß die in dem Schuldspruch
@@ -688,10 +729,12 @@ Bewährungszeit nicht vor, so wird der Schuldspruch getilgt.
 
 
 #### Siebenter Abschnitt - Mehrere Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001000319)
 
 
 
 ##### § 31 Mehrere Straftaten eines Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007101360)
 
 (1) Auch wenn ein Jugendlicher mehrere Straftaten begangen hat, setzt
 das Gericht nur einheitlich Erziehungsmaßregeln, Zuchtmittel oder eine
@@ -718,6 +761,7 @@ erledigt erklären, wenn es auf Jugendstrafe erkennt.
 
 
 ##### § 32 Mehrere Straftaten in verschiedenen Alters- und Reifestufen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007200319)
 
 Für mehrere Straftaten, die gleichzeitig abgeurteilt werden und auf
 die teils Jugendstrafrecht und teils allgemeines Strafrecht anzuwenden
@@ -728,14 +772,17 @@ Strafrecht anzuwenden.
 
 
 ### Zweites Hauptstück - Jugendgerichtsverfassung und Jugendstrafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001100319)
 
 
 
 #### Erster Abschnitt - Jugendgerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001200319)
 
 
 
 ##### § 33 Jugendgerichte
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007301305)
 
 (1) Über Verfehlungen Jugendlicher entscheiden die Jugendgerichte.
 
@@ -753,6 +800,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ##### § 33a Besetzung des Jugendschöffengerichts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017501360)
 
 (1) Das Jugendschöffengericht besteht aus dem Jugendrichter als
 Vorsitzenden und zwei Jugendschöffen. Als Jugendschöffen sollen zu
@@ -763,6 +811,7 @@ Jugendschöffen nicht mit.
 
 
 ##### § 33b Besetzung der Jugendkammer
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017707360)
 
 (1) Die Jugendkammer ist mit drei Richtern einschließlich des
 Vorsitzenden und zwei Jugendschöffen (große Jugendkammer), in
@@ -831,6 +880,7 @@ Besetzung beschließen.
 
 
 ##### § 34 Aufgaben des Jugendrichters
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007406125)
 
 (1) Dem Jugendrichter obliegen alle Aufgaben, die ein Richter beim
 Amtsgericht im Strafverfahren hat.
@@ -859,6 +909,7 @@ mehrerer Amtsgerichte bestellt ist, kann hiervon abgewichen werden.
 
 
 ##### § 35 Jugendschöffen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007504360)
 
 (1) Die Schöffen der Jugendgerichte (Jugendschöffen) werden auf
 Vorschlag des Jugendhilfeausschusses für die Dauer von fünf
@@ -894,6 +945,7 @@ Schöffen für die Schöffengerichte und die Strafkammern.
 
 
 ##### § 36 Jugendstaatsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007601360)
 
 (1) Für Verfahren, die zur Zuständigkeit der Jugendgerichte gehören,
 werden Jugendstaatsanwälte bestellt. Richter auf Probe und Beamte auf
@@ -911,6 +963,7 @@ Aufsicht und im Beisein eines Jugendstaatsanwalts wahrnehmen.
 
 
 ##### § 37 Auswahl der Jugendrichter und Jugendstaatsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007701360)
 
 (1) Die Richter bei den Jugendgerichten und die Jugendstaatsanwälte
 sollen erzieherisch befähigt und in der Jugenderziehung erfahren sein.
@@ -941,6 +994,7 @@ wahrnehmen.
 
 
 ##### § 37a Zusammenarbeit in gemeinsamen Gremien
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019500360)
 
 (1) Jugendrichter und Jugendstaatsanwälte können zum Zweck einer
 abgestimmten Aufgabenwahrnehmung fallübergreifend mit öffentlichen
@@ -955,6 +1009,7 @@ Erreichung des Ziels nach § 2 Absatz 1 gefördert wird.
 
 
 ##### § 38 Jugendgerichtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007802360)
 
 (1) Die Jugendgerichtshilfe wird von den Jugendämtern im
 Zusammenwirken mit den Vereinigungen für Jugendhilfe ausgeübt.
@@ -1021,10 +1076,12 @@ und bedarf in diesem Fall keines Antrags.
 
 
 #### Zweiter Abschnitt - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001300319)
 
 
 
 ##### § 39 Sachliche Zuständigkeit des Jugendrichters
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE007901307)
 
 (1) Der Jugendrichter ist zuständig für Verfehlungen Jugendlicher,
 wenn nur Erziehungsmaßregeln, Zuchtmittel, nach diesem Gesetz
@@ -1042,6 +1099,7 @@ darf er nicht anordnen.
 
 
 ##### § 40 Sachliche Zuständigkeit des Jugendschöffengerichts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008000319)
 
 (1) Das Jugendschöffengericht ist zuständig für alle Verfehlungen, die
 nicht zur Zuständigkeit eines anderen Jugendgerichts gehören. § 209
@@ -1063,6 +1121,7 @@ mit dem Eröffnungsbeschluß zu verbinden.
 
 
 ##### § 41 Sachliche Zuständigkeit der Jugendkammer
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008102160)
 
 (1) Die Jugendkammer ist als erkennendes Gericht des ersten
 Rechtszuges zuständig in Sachen,
@@ -1102,6 +1161,7 @@ Entscheidungen.
 
 
 ##### § 42 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008202140)
 
 (1) Neben dem Richter, der nach dem allgemeinen Verfahrensrecht oder
 nach besonderen Vorschriften zuständig ist, sind zuständig
@@ -1135,14 +1195,17 @@ entscheidet das gemeinschaftliche obere Gericht.
 
 
 #### Dritter Abschnitt - Jugendstrafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001400319)
 
 
 
 ##### Erster Unterabschnitt - Das Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001500319)
 
 
 
 ###### § 43 Umfang der Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008304360)
 
 (1) Nach Einleitung des Verfahrens sollen so bald wie möglich die
 Lebens- und Familienverhältnisse, der Werdegang, das bisherige
@@ -1164,6 +1227,7 @@ Sachverständiger mit der Durchführung der Anordnung beauftragt werden.
 
 
 ###### § 44 Vernehmung des Beschuldigten bei zu erwartender Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008401360)
 
 Ist Jugendstrafe zu erwarten, so soll der Staatsanwalt oder der
 Vorsitzende des Jugendgerichts den Beschuldigten vernehmen, ehe die
@@ -1171,6 +1235,7 @@ Anklage erhoben wird.
 
 
 ###### § 45 Absehen von der Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008501307)
 
 (1) Der Staatsanwalt kann ohne Zustimmung des Richters von der
 Verfolgung absehen, wenn die Voraussetzungen des § 153 der
@@ -1196,6 +1261,7 @@ entsprechende Anwendung.
 
 
 ###### § 46 Wesentliches Ergebnis der Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008600319)
 
 Der Staatsanwalt soll das wesentliche Ergebnis der Ermittlungen in der
 Anklageschrift (§ 200 Abs. 2 der Strafprozeßordnung) so darstellen,
@@ -1204,6 +1270,7 @@ Nachteile für seine Erziehung verursacht.
 
 
 ###### § 46a Anklage vor Berichterstattung der Jugendgerichtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018900360)
 
 Abgesehen von Fällen des § 38 Absatz 7 darf die Anklage auch dann vor
 einer Berichterstattung der Jugendgerichtshilfe nach § 38 Absatz 3
@@ -1215,10 +1282,12 @@ berichten.
 
 
 ##### Zweiter Unterabschnitt - Das Hauptverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001600319)
 
 
 
 ###### § 47 Einstellung des Verfahrens durch den Richter
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008701307)
 
 (1) Ist die Anklage eingereicht, so kann der Richter das Verfahren
 einstellen, wenn
@@ -1261,6 +1330,7 @@ Beweismittel von neuem Anklage erhoben werden.
 
 
 ###### § 47a Vorrang der Jugendgerichte
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008800319)
 
 Ein Jugendgericht darf sich nach Eröffnung des Hauptverfahrens nicht
 für unzuständig erklären, weil die Sache vor ein für allgemeine
@@ -1269,6 +1339,7 @@ gehöre. § 103 Abs. 2 Satz 2, 3 bleibt unberührt.
 
 
 ###### § 48 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE008902377)
 
 (1) Die Verhandlung vor dem erkennenden Gericht einschließlich der
 Verkündung der Entscheidungen ist nicht öffentlich.
@@ -1291,11 +1362,13 @@ jugendlicher Angeklagter geboten ist.
 
 
 ###### § 49
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009001377)
 
 (weggefallen)
 
 
 ###### § 50 Anwesenheit in der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009102360)
 
 (1) Die Hauptverhandlung kann nur dann ohne den Angeklagten
 stattfinden, wenn dies im allgemeinen Verfahren zulässig wäre,
@@ -1323,6 +1396,7 @@ der Jugendliche teilnimmt, entsprechend.
 
 
 ###### § 51 Zeitweilige Ausschließung von Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009202360)
 
 (1) Der Vorsitzende soll den Angeklagten für die Dauer solcher
 Erörterungen von der Verhandlung ausschließen, aus denen Nachteile für
@@ -1406,6 +1480,7 @@ Frist nicht erreicht werden konnten, so gilt Absatz 6 entsprechend.
 
 
 ###### § 51a Neubeginn der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019000360)
 
 Ergibt sich erst während der Hauptverhandlung, dass die Mitwirkung
 eines Verteidigers nach § 68 Nummer 5 notwendig ist, so ist mit der
@@ -1414,6 +1489,7 @@ Beginn der Hauptverhandlung an verteidigt war.
 
 
 ###### § 52 Berücksichtigung von Untersuchungshaft bei Jugendarrest
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009300319)
 
 Wird auf Jugendarrest erkannt und ist dessen Zweck durch
 Untersuchungshaft oder eine andere wegen der Tat erlittene
@@ -1423,6 +1499,7 @@ vollstreckt wird.
 
 
 ###### § 52a Anrechnung von Untersuchungshaft bei Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009401307)
 
 (1) Hat der Angeklagte aus Anlaß einer Tat, die Gegenstand des
 Verfahrens ist oder gewesen ist, Untersuchungshaft oder eine andere
@@ -1438,6 +1515,7 @@ erzieherische Einwirkung auf den Angeklagten nicht gewährleistet ist.
 
 
 ###### § 53 Überweisung an das Familiengericht
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009502140)
 
 Der Richter kann dem Familiengericht im Urteil die Auswahl und
 Anordnung von Erziehungsmaßregeln überlassen, wenn er nicht auf
@@ -1447,6 +1525,7 @@ das Urteil maßgebend waren, verändert haben.
 
 
 ###### § 54 Urteilsgründe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009602140)
 
 (1) Wird der Angeklagte schuldig gesprochen, so wird in den
 Urteilsgründen auch ausgeführt, welche Umstände für seine Bestrafung,
@@ -1461,10 +1540,12 @@ davon Nachteile für die Erziehung zu befürchten sind.
 
 
 ##### Dritter Unterabschnitt - Rechtsmittelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001700319)
 
 
 
 ###### § 55 Anfechtung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009705140)
 
 (1) Eine Entscheidung, in der lediglich Erziehungsmaßregeln oder
 Zuchtmittel angeordnet oder die Auswahl und Anordnung von
@@ -1493,6 +1574,7 @@ Strafprozessordnung entsprechend.
 
 
 ###### § 56 Teilvollstreckung einer Einheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009800319)
 
 (1) Ist ein Angeklagter wegen mehrerer Straftaten zu einer
 Einheitsstrafe verurteilt worden, so kann das Rechtsmittelgericht vor
@@ -1509,10 +1591,12 @@ beanstandet worden sind.
 
 
 ##### Vierter Unterabschnitt - Verfahren bei Aussetzung der Jugendstrafe zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001800319)
 
 
 
 ###### § 57 Entscheidung über die Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE009901360)
 
 (1) Die Aussetzung der Jugendstrafe zur Bewährung wird im Urteil oder,
 solange der Strafvollzug noch nicht begonnen hat, nachträglich durch
@@ -1543,6 +1627,7 @@ gelten entsprechend.
 
 
 ###### § 58 Weitere Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010001307)
 
 (1) Entscheidungen, die infolge der Aussetzung erforderlich werden (§§
 22, 23, 24, 26, 26a), trifft der Richter durch Beschluß. Der
@@ -1561,6 +1646,7 @@ Satz 2 gilt entsprechend.
 
 
 ###### § 59 Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010102360)
 
 (1) Gegen eine Entscheidung, durch welche die Aussetzung der
 Jugendstrafe angeordnet oder abgelehnt wird, ist, wenn sie für sich
@@ -1590,6 +1676,7 @@ zuständig.
 
 
 ###### § 60 Bewährungsplan
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010201307)
 
 (1) Der Vorsitzende stellt die erteilten Weisungen und Auflagen in
 einem Bewährungsplan zusammen. Er händigt ihn dem Jugendlichen aus und
@@ -1611,6 +1698,7 @@ gesetzliche Vertreter sollen den Bewährungsplan unterzeichnen.
 
 
 ###### § 61 Vorbehalt der nachträglichen Entscheidung über die Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018301360)
 
 (1) Das Gericht kann im Urteil die Entscheidung über die Aussetzung
 der Jugendstrafe zur Bewährung ausdrücklich einem nachträglichen
@@ -1655,6 +1743,7 @@ Entscheidung zu belehren.
 
 
 ###### § 61a Frist und Zuständigkeit für die vorbehaltene Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018400360)
 
 (1) Die vorbehaltene Entscheidung ergeht spätestens sechs Monate nach
 Eintritt der Rechtskraft des Urteils. Das Gericht kann mit dem
@@ -1669,6 +1758,7 @@ letztmalig geprüft werden konnten.
 
 
 ###### § 61b Weitere Entscheidungen bei Vorbehalt der Entscheidung über die Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018501360)
 
 (1) Das Gericht kann dem Jugendlichen für die Zeit zwischen Eintritt
 der Rechtskraft des Urteils und dem Ablauf der nach § 61a Absatz 1
@@ -1708,10 +1798,12 @@ gilt § 26 Absatz 3 Satz 3 entsprechend.
 
 
 ##### Fünfter Unterabschnitt - Verfahren bei Aussetzung der Verhängung der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG001900319)
 
 
 
 ###### § 62 Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010401307)
 
 (1) Entscheidungen nach den §§ 27 und 30 ergehen auf Grund einer
 Hauptverhandlung durch Urteil. Für die Entscheidung über die
@@ -1733,6 +1825,7 @@ Verhängung der Jugendstrafe erforderlich werden, gilt § 58 Abs. 1 Satz
 
 
 ###### § 63 Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010500319)
 
 (1) Ein Beschluß, durch den der Schuldspruch nach Ablauf der
 Bewährungszeit getilgt wird (§ 62 Abs. 2) oder die Entscheidung über
@@ -1743,6 +1836,7 @@ nicht anfechtbar.
 
 
 ###### § 64 Bewährungsplan
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010601307)
 
 § 60 gilt sinngemäß. Der Jugendliche ist über die Bedeutung der
 Aussetzung, die Bewährungs- und Unterstellungszeit, die Weisungen und
@@ -1752,10 +1846,12 @@ schlecht führe.
 
 
 ##### Sechster Unterabschnitt - Ergänzende Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002000319)
 
 
 
 ###### § 65 Nachträgliche Entscheidungen über Weisungen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010701307)
 
 (1) Nachträgliche Entscheidungen, die sich auf Weisungen (§ 11 Abs. 2,
 3) oder Auflagen (§ 15 Abs. 3) beziehen, trifft der Richter des ersten
@@ -1777,6 +1873,7 @@ Wirkung.
 
 
 ###### § 66 Ergänzung rechtskräftiger Entscheidungen bei mehrfacher Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010800319)
 
 (1) Ist die einheitliche Festsetzung von Maßnahmen oder Jugendstrafe
 (§ 31) unterblieben und sind die durch die rechtskräftigen
@@ -1797,10 +1894,12 @@ Aufgaben des Vollstreckungsleiters obliegen.
 
 
 ##### Siebenter Unterabschnitt - Gemeinsame Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002100319)
 
 
 
 ###### § 67 Stellung der Erziehungsberechtigten und der gesetzlichen Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE010902360)
 
 (1) Soweit der Beschuldigte ein Recht darauf hat, gehört zu werden
 oder Fragen und Anträge zu stellen, steht dieses Recht auch den
@@ -1857,6 +1956,7 @@ es, wenn sie an eine erziehungsberechtigte Person gerichtet werden.
 
 
 ###### § 67a Unterrichtung der Erziehungsberechtigten und der gesetzlichen Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018801360)
 
 (1) Ist eine Mitteilung an den Beschuldigten vorgeschrieben, so soll
 die entsprechende Mitteilung an die Erziehungsberechtigten und die
@@ -1911,6 +2011,7 @@ findet das Verfahren nach § 67 Absatz 4 entsprechende Anwendung.
 
 
 ###### § 68 Notwendige Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011003360)
 
 Ein Fall der notwendigen Verteidigung liegt vor, wenn
 
@@ -1945,6 +2046,7 @@ Ein Fall der notwendigen Verteidigung liegt vor, wenn
 
 
 ###### § 68a Zeitpunkt der Bestellung eines Pflichtverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019100360)
 
 (1) In den Fällen der notwendigen Verteidigung wird dem Jugendlichen,
 der noch keinen Verteidiger hat, ein Pflichtverteidiger spätestens
@@ -1962,6 +2064,7 @@ anzuwenden.
 
 
 ###### § 68b Vernehmungen und Gegenüberstellungen vor der Bestellung eines Pflichtverteidigers
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019400360)
 
 Abweichend von § 68a Absatz 1 dürfen im Vorverfahren Vernehmungen des
 Jugendlichen oder Gegenüberstellungen mit ihm vor der Bestellung eines
@@ -1983,6 +2086,7 @@ einen von ihm zu wählenden Verteidiger zu befragen, bleibt unberührt.
 
 
 ###### § 69 Beistand
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011101118)
 
 (1) Der Vorsitzende kann dem Beschuldigten in jeder Lage des
 Verfahrens einen Beistand bestellen, wenn kein Fall der notwendigen
@@ -1998,6 +2102,7 @@ Vertretung des Angeklagten ist er nicht befugt.
 
 
 ###### § 70 Mitteilungen an amtliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011205360)
 
 (1) Die Jugendgerichtshilfe, in geeigneten Fällen auch das
 Familiengericht und die Schule werden von der Einleitung und dem
@@ -2028,6 +2133,7 @@ Strafprozessordnung unberührt.
 
 
 ###### § 70a Unterrichtung des Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019200360)
 
 (1) Wenn der Jugendliche davon in Kenntnis gesetzt wird, dass er
 Beschuldigter ist, so ist er unverzüglich über die Grundzüge eines
@@ -2180,6 +2286,7 @@ Bestimmungen dieses Paragrafen unberührt.
 
 
 ###### § 70b Belehrungen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018601360)
 
 (1) Vorgeschriebene Belehrungen des Jugendlichen müssen in einer Weise
 erfolgen, die seinem Alter und seinem Entwicklungs- und Bildungsstand
@@ -2202,6 +2309,7 @@ Entscheidung vermitteln.
 
 
 ###### § 70c Vernehmung des Beschuldigten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE019301360)
 
 (1) Die Vernehmung des Beschuldigten ist in einer Art und Weise
 durchzuführen, die seinem Alter und seinem Entwicklungs- und
@@ -2233,6 +2341,7 @@ verzichtet hat.
 
 
 ###### § 71 Vorläufige Anordnungen über die Erziehung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011303307)
 
 (1) Bis zur Rechtskraft des Urteils kann der Richter vorläufige
 Anordnungen über die Erziehung des Jugendlichen treffen oder die
@@ -2251,6 +2360,7 @@ geltenden Regelungen.
 
 
 ###### § 72 Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011401307)
 
 (1) Untersuchungshaft darf nur verhängt und vollstreckt werden, wenn
 ihr Zweck nicht durch eine vorläufige Anordnung über die Erziehung
@@ -2297,6 +2407,7 @@ oder zum Teil einem anderen Jugendrichter übertragen.
 
 
 ###### § 72a Heranziehung der Jugendgerichtshilfe in Haftsachen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017300307)
 
 Die Jugendgerichtshilfe ist unverzüglich von der Vollstreckung eines
 Haftbefehls zu unterrichten; ihr soll bereits der Erlaß eines
@@ -2307,6 +2418,7 @@ dem Stand der Ermittlungen zu erwarten ist, daß der Jugendliche gemäß
 
 
 ###### § 72b Verkehr mit Vertretern der Jugendgerichtshilfe, dem Betreuungshelfer und dem Erziehungsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017800140)
 
 Befindet sich ein Jugendlicher in Untersuchungshaft, so ist auch den
 Vertretern der Jugendgerichtshilfe der Verkehr mit dem Beschuldigten
@@ -2317,6 +2429,7 @@ bestellt ist, für den Helfer oder den Erziehungsbeistand.
 
 
 ###### § 73 Unterbringung zur Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011501307)
 
 (1) Zur Vorbereitung eines Gutachtens über den Entwicklungsstand des
 Beschuldigten kann der Richter nach Anhören eines Sachverständigen und
@@ -2333,21 +2446,25 @@ nicht überschreiten.
 
 
 ###### § 74 Kosten und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011600319)
 
 Im Verfahren gegen einen Jugendlichen kann davon abgesehen werden, dem
 Angeklagten Kosten und Auslagen aufzuerlegen.
 
 
 ##### Achter Unterabschnitt - Vereinfachtes Jugendverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002200319)
 
 
 
 ###### § 75
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011700319)
 
 (weggefallen)
 
 
 ###### § 76 Voraussetzungen des vereinfachten Jugendverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011803123)
 
 Der Staatsanwalt kann bei dem Jugendrichter schriftlich oder mündlich
 beantragen, im vereinfachten Jugendverfahren zu entscheiden, wenn zu
@@ -2360,6 +2477,7 @@ Anklage gleich.
 
 
 ###### § 77 Ablehnung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE011901307)
 
 (1) Der Jugendrichter lehnt die Entscheidung im vereinfachten
 Verfahren ab, wenn sich die Sache hierzu nicht eignet, namentlich wenn
@@ -2373,6 +2491,7 @@ Verfahren ab, so reicht der Staatsanwalt eine Anklageschrift ein.
 
 
 ###### § 78 Verfahren und Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012004360)
 
 (1) Der Jugendrichter entscheidet im vereinfachten Jugendverfahren auf
 Grund einer mündlichen Verhandlung durch Urteil. Er darf auf Hilfe zur
@@ -2398,10 +2517,12 @@ worden ist.
 
 
 ##### Neunter Unterabschnitt - Ausschluß von Vorschriften des allgemeinen Verfahrensrechts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002300319)
 
 
 
 ###### § 79 Strafbefehl und beschleunigtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012100319)
 
 (1) Gegen einen Jugendlichen darf kein Strafbefehl erlassen werden.
 
@@ -2410,6 +2531,7 @@ unzulässig.
 
 
 ###### § 80 Privatklage und Nebenklage
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012203360)
 
 (1) Gegen einen Jugendlichen kann Privatklage nicht erhoben werden.
 Eine Verfehlung, die nach den allgemeinen Vorschriften durch
@@ -2446,6 +2568,7 @@ bis 402 der Strafprozessordnung entsprechend.
 
 
 ###### § 81 Adhäsionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012301360)
 
 Die Vorschriften der Strafprozeßordnung über das Adhäsionsverfahren
 (§§ 403 bis 406c der Strafprozeßordnung) werden im Verfahren gegen
@@ -2453,10 +2576,12 @@ einen Jugendlichen nicht angewendet.
 
 
 ##### Zehnter Unterabschnitt - Anordnung der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG004000360)
 
 
 
 ###### § 81a Verfahren und Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018101377)
 
 Für das Verfahren und die Entscheidung über die Anordnung der
 Unterbringung in der Sicherungsverwahrung gelten § 275a der
@@ -2465,18 +2590,22 @@ Gerichtsverfassungsgesetzes sinngemäß.
 
 
 ### Drittes Hauptstück - Vollstreckung und Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002400319)
 
 
 
 #### Erster Abschnitt - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002500319)
 
 
 
 ##### Erster Unterabschnitt - Verfassung der Vollstreckung und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002600319)
 
 
 
 ###### § 82 Vollstreckungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012403377)
 
 (1) Vollstreckungsleiter ist der Jugendrichter. Er nimmt auch die
 Aufgaben wahr, welche die Strafprozeßordnung der
@@ -2493,6 +2622,7 @@ Lebensjahr vollendet hat.
 
 
 ###### § 83 Entscheidungen im Vollstreckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012503140)
 
 (1) Die Entscheidungen des Vollstreckungsleiters nach den §§ 86 bis
 89a und 89b Abs. 2 sowie nach den §§ 462a und 463 der
@@ -2519,6 +2649,7 @@ Die §§ 67 bis 69 gelten sinngemäß.
 
 
 ###### § 84 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012602140)
 
 (1) Der Jugendrichter leitet die Vollstreckung in allen Verfahren ein,
 in denen er selbst oder unter seinem Vorsitz das Jugendschöffengericht
@@ -2538,6 +2669,7 @@ Vollstreckung durch, soweit § 85 nichts anderes bestimmt.
 
 
 ###### § 85 Abgabe und Übergang der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012703377)
 
 (1) Ist Jugendarrest zu vollstrecken, so gibt der zunächst zuständige
 Jugendrichter die Vollstreckung an den Jugendrichter ab, der nach § 90
@@ -2596,10 +2728,12 @@ entsprechend.
 
 
 ##### Zweiter Unterabschnitt - Jugendarrest
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002700319)
 
 
 
 ###### § 86 Umwandlung des Freizeitarrestes
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012800319)
 
 Der Vollstreckungsleiter kann Freizeitarrest in Kurzarrest umwandeln,
 wenn die Voraussetzungen des § 16 Abs. 3 nachträglich eingetreten
@@ -2607,6 +2741,7 @@ sind.
 
 
 ###### § 87 Vollstreckung des Jugendarrestes
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE012902360)
 
 (1) Die Vollstreckung des Jugendarrestes wird nicht zur Bewährung
 ausgesetzt.
@@ -2652,10 +2787,12 @@ vollstreckt, wenn das Gericht
 
 
 ##### Dritter Unterabschnitt - Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002800319)
 
 
 
 ###### § 88 Aussetzung des Restes der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013002307)
 
 (1) Der Vollstreckungsleiter kann die Vollstreckung des Restes der
 Jugendstrafe zur Bewährung aussetzen, wenn der Verurteilte einen Teil
@@ -2698,6 +2835,7 @@ aufschiebende Wirkung.
 
 
 ###### § 89 Jugendstrafe bei Vorbehalt der Entscheidung über die Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018700360)
 
 Hat das Gericht die Entscheidung über die Aussetzung der Jugendstrafe
 einem nachträglichen Beschluss vorbehalten, darf die Jugendstrafe vor
@@ -2707,6 +2845,7 @@ des Vorbehalts ergangenen Beschluss abgelehnt wurde.
 
 
 ###### § 89a Unterbrechung und Vollstreckung der Jugendstrafe neben Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017401123)
 
 (1) Ist gegen den zu Jugendstrafe Verurteilten auch Freiheitsstrafe zu
 vollstrecken, so wird die Jugendstrafe in der Regel zuerst
@@ -2738,6 +2877,7 @@ Lebensjahr vollendet hat.
 
 
 ###### § 89b Ausnahme vom Jugendstrafvollzug
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017900140)
 
 (1) An einem Verurteilten, der das 18. Lebensjahr vollendet hat und
 sich nicht für den Jugendstrafvollzug eignet, kann die Jugendstrafe
@@ -2752,10 +2892,12 @@ Vollstreckungsleiter.
 
 
 ##### Vierter Unterabschnitt - Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003900140)
 
 
 
 ###### § 89c Vollstreckung der Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE018001360)
 
 (1) Solange zur Tatzeit Jugendliche das 21. Lebensjahr noch nicht
 vollendet haben, wird die Untersuchungshaft nach den Vorschriften für
@@ -2777,10 +2919,12 @@ vor der Entscheidung zu hören.
 
 
 #### Zweiter Abschnitt - Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG002900319)
 
 
 
 ##### § 90 Jugendarrest
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013202307)
 
 (1) Der Vollzug des Jugendarrestes soll das Ehrgefühl des Jugendlichen
 wecken und ihm eindringlich zum Bewußtsein bringen, daß er für das von
@@ -2795,11 +2939,13 @@ Vollzugsleiter ist der Jugendrichter am Ort des Vollzugs.
 
 
 ##### § 91 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013303140)
 
 -
 
 
 ##### § 92 Rechtsbehelfe im Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013404360)
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten auf dem
 Gebiet des Jugendarrestes, der Jugendstrafe und der Maßregeln der
@@ -2852,6 +2998,7 @@ die Überprüfung von Vollzugsmaßnahmen gelten die Vorschriften der §§
 
 
 ##### § 93 Gerichtliche Zuständigkeit und gerichtliches Verfahren bei Maßnahmen, die der vorherigen gerichtlichen Anordnung oder der gerichtlichen Genehmigung bedürfen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013504360)
 
 Beim Vollzug des Jugendarrestes, der Jugendstrafe und der Maßregeln
 der Unterbringung in einem psychiatrischen Krankenhaus oder in einer
@@ -2869,6 +3016,7 @@ Strafvollzugsgesetzes sowie § 67 Absatz 1, 2 und 5 sowie § 67a Absatz
 
 
 ##### § 93a Unterbringung in einer Entziehungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013600319)
 
 (1) Die Maßregel nach § 61 Nr. 2 des Strafgesetzbuches wird in einer
 Einrichtung vollzogen, in der die für die Behandlung suchtkranker
@@ -2880,14 +3028,17 @@ aufgelockert und weitgehend in freien Formen durchgeführt werden.
 
 
 ### Viertes Hauptstück - Beseitigung des Strafmakels
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003000319)
 
 
 
 #### (XXXX) §§ 94 bis 96 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013700319)
 
 
 
 #### § 97 Beseitigung des Strafmakels durch Richterspruch
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013801307)
 
 (1) Hat der Jugendrichter die Überzeugung erlangt, daß sich ein zu
 Jugendstrafe verurteilter Jugendlicher durch einwandfreie Führung als
@@ -2907,6 +3058,7 @@ oder während einer Bewährungszeit ist die Anordnung unzulässig.
 
 
 #### § 98 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE013902140)
 
 (1) Zuständig ist der Jugendrichter des Amtsgerichts, dem die
 familiengerichtlichen Erziehungsaufgaben für den Verurteilten
@@ -2924,6 +3076,7 @@ Vertreter, ferner die Schule und die zuständige Verwaltungsbehörde.
 
 
 #### § 99 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014000319)
 
 (1) Der Jugendrichter entscheidet durch Beschluß.
 
@@ -2935,6 +3088,7 @@ Jahre aufschieben.
 
 
 #### § 100 Beseitigung des Strafmakels nach Erlaß einer Strafe oder eines Strafrestes
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014101307)
 
 Wird die Strafe oder ein Strafrest bei Verurteilung zu nicht mehr als
 zwei Jahren Jugendstrafe nach Aussetzung zur Bewährung erlassen, so
@@ -2944,6 +3098,7 @@ nicht, wenn es sich um eine Verurteilung nach den §§ 174 bis 180 oder
 
 
 #### § 101 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014200319)
 
 Wird der Verurteilte, dessen Strafmakel als beseitigt erklärt worden
 ist, vor der Tilgung des Vermerks wegen eines Verbrechens oder
@@ -2954,10 +3109,12 @@ Widerruf absehen.
 
 
 ### Fünftes Hauptstück - Jugendliche vor Gerichten, die für allgemeine Strafsachen zuständig sind
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003100319)
 
 
 
 #### § 102 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014300319)
 
 Die Zuständigkeit des Bundesgerichtshofes und des Oberlandesgerichts
 werden durch die Vorschriften dieses Gesetzes nicht berührt. In den
@@ -2970,6 +3127,7 @@ abgelehnt wird (§ 59 Abs. 1).
 
 
 #### § 103 Verbindung mehrerer Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014400319)
 
 (1) Strafsachen gegen Jugendliche und Erwachsene können nach den
 Vorschriften des allgemeinen Verfahrensrechts verbunden werden, wenn
@@ -2996,6 +3154,7 @@ ohne die Verbindung zuständig gewesen wäre.
 
 
 #### § 104 Verfahren gegen Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014506360)
 
 (1) In Verfahren gegen Jugendliche vor den für allgemeine Strafsachen
 zuständigen Gerichten gelten die Vorschriften dieses Gesetzes über
@@ -3100,14 +3259,17 @@ sind folgende Entscheidungen zu übertragen:
 
 
 ## Dritter Teil - Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003200319)
 
 
 
 ### Erster Abschnitt - Anwendung des sachlichen Strafrechts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003300319)
 
 
 
 #### § 105 Anwendung des Jugendstrafrechts auf Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014601360)
 
 (1) Begeht ein Heranwachsender eine Verfehlung, die nach den
 allgemeinen Vorschriften mit Strafe bedroht ist, so wendet der Richter
@@ -3137,6 +3299,7 @@ das Höchstmaß 15 Jahre.
 
 
 #### § 106 Milderung des allgemeinen Strafrechts für Heranwachsende; Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014808360)
 
 (1) Ist wegen der Straftat eines Heranwachsenden das allgemeine
 Strafrecht anzuwenden, so kann das Gericht an Stelle von lebenslanger
@@ -3245,16 +3408,19 @@ Unterbringung in der Sicherungsverwahrung nachträglich anordnen, wenn
 
 
 ### Zweiter Abschnitt - Gerichtsverfassung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003400319)
 
 
 
 #### § 107 Gerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE014901305)
 
 Von den Vorschriften über die Jugendgerichtsverfassung gelten die §§
 33 bis 34 Abs. 1 und §§ 35 bis 38 für Heranwachsende entsprechend.
 
 
 #### § 108 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015004377)
 
 (1) Die Vorschriften über die Zuständigkeit der Jugendgerichte (§§ 39
 bis 42) gelten auch bei Verfehlungen Heranwachsender.
@@ -3278,6 +3444,7 @@ psychiatrischen Krankenhaus zu erwarten ist.
 
 
 #### § 109 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015110360)
 
 (1) Von den Vorschriften über das Jugendstrafverfahren (§§ 43 bis 81a)
 sind im Verfahren gegen einen Heranwachsenden die §§ 43, 46a, 47a, 50
@@ -3309,10 +3476,12 @@ Satz 2 der Strafprozeßordnung keine Anwendung.
 
 
 ### Dritter Abschnitt - Vollstreckung, Vollzug und Beseitigung des Strafmakels
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003500319)
 
 
 
 #### § 110 Vollstreckung und Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015203360)
 
 (1) Von den Vorschriften über die Vollstreckung und den Vollzug bei
 Jugendlichen gelten § 82 Abs. 1, §§ 83 bis 93a für Heranwachsende
@@ -3325,6 +3494,7 @@ Heranwachsenden gilt § 89c Absatz 1 und 3 entsprechend.
 
 
 #### § 111 Beseitigung des Strafmakels
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015300319)
 
 Die Vorschriften über die Beseitigung des Strafmakels (§§ 97 bis 101)
 gelten für Heranwachsende entsprechend, soweit der Richter
@@ -3332,10 +3502,12 @@ Jugendstrafe verhängt hat.
 
 
 ### Vierter Abschnitt - Heranwachsende vor Gerichten, die für allgemeine Strafsachen zuständig sind
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003600319)
 
 
 
 #### § 112 Entsprechende Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015400319)
 
 Die §§ 102, 103, 104 Abs. 1 bis 3 und 5 gelten für Verfahren gegen
 Heranwachsende entsprechend. Die in § 104 Abs. 1 genannten
@@ -3347,10 +3519,12 @@ Heranwachsende aufhält.
 
 
 ## Vierter Teil - Sondervorschriften für Soldaten der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003700319)
 
 
 
 ### § 112a Anwendung des Jugendstrafrechts
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015502360)
 
 Das Jugendstrafrecht (§§ 3 bis 32, 105) gilt für die Dauer des
 Wehrdienstverhältnisses eines Jugendlichen oder Heranwachsenden mit
@@ -3383,10 +3557,12 @@ folgenden Abweichungen:
 
 
 ### § 112b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015602360)
 
 
 
 ### § 112c Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015701360)
 
 (1) Der Vollstreckungsleiter sieht davon ab, Jugendarrest, der wegen
 einer vor Beginn des Wehrdienstverhältnisses begangenen Tat verhängt
@@ -3399,6 +3575,7 @@ jugendrichterliche Entscheidung im Sinne des § 83.
 
 
 ### § 112d Anhörung des Disziplinarvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015801360)
 
 Bevor der Richter oder der Vollstreckungsleiter einem Soldaten der
 Bundeswehr Weisungen oder Auflagen erteilt, von der Vollstreckung des
@@ -3408,6 +3585,7 @@ Disziplinarvorgesetzten des Jugendlichen oder Heranwachsenden hören.
 
 
 ### § 112e Verfahren vor Gerichten, die für allgemeine Strafsachen zuständig sind
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE015901360)
 
 In Verfahren gegen Jugendliche oder Heranwachsende vor den für
 allgemeine Strafsachen zuständigen Gerichten (§ 104) sind die §§ 112a
@@ -3415,10 +3593,12 @@ und 112d anzuwenden.
 
 
 ## Fünfter Teil - Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNG003800319)
 
 
 
 ### § 113 Bewährungshelfer
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016000319)
 
 Für den Bezirk eines jeden Jugendrichters ist mindestens ein
 hauptamtlicher Bewährungshelfer anzustellen. Die Anstellung kann für
@@ -3429,6 +3609,7 @@ ist durch Landesgesetz zu regeln.
 
 
 ### § 114 Vollzug von Freiheitsstrafe in der Einrichtung für den Vollzug der Jugendstrafe
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016101377)
 
 In der Einrichtung für den Vollzug der Jugendstrafe dürfen an
 Verurteilten, die das vierundzwanzigste Lebensjahr noch nicht
@@ -3438,20 +3619,24 @@ verhängt worden sind.
 
 
 ### § 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016202360)
 
 
 
 ### § 116 Zeitlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016302360)
 
 Das Gesetz wird auch auf Verfehlungen angewendet, die vor seinem
 Inkrafttreten begangen worden sind.
 
 
 ### (XXXX) §§ 117 bis 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016401360)
 
 
 
 ### § 121 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016805360)
 
 (1) Für am 1. Januar 2008 bereits anhängige Verfahren auf gerichtliche
 Entscheidung über die Rechtmäßigkeit von Maßnahmen im Vollzug der
@@ -3474,10 +3659,12 @@ geltenden Fassung entsprechend anzuwenden.
 
 
 ### (XXXX) §§ 122 bis 124 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE016901360)
 
 
 
 ### § 125 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jgg/BJNR007510953.html#BJNR007510953BJNE017200319)
 
 Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.
 

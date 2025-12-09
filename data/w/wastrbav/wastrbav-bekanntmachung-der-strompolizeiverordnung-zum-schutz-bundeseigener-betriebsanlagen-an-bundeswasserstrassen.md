@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000100000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
@@ -49,6 +50,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000200000)
 
 (1) Die Verordnung gilt vorbehaltlich des Absatzes 2 für alle
 Bundeswasserstraßen.
@@ -80,6 +82,7 @@ Bundeswasserstraßen.
 
 
 ## § 2 Benutzungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000300000)
 
 (1) Es ist verboten
 
@@ -138,6 +141,7 @@ Wegeverhältnissen anzupassen.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000401124)
 
 (1) Ausnahmen von den Verboten nach § 2 Absatz 1 und § 2 Absatz 2
 können
@@ -174,6 +178,7 @@ kann für bestimmte Personengruppen die allgemeine Genehmigung
 
 
 ## § 4 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000500000)
 
 Von den Benutzungsverboten nach § 2 Absatz 1 oder den besonderen
 Betretens- und Befahrensverboten nach § 2 Absatz 2 sind die
@@ -186,6 +191,7 @@ entsprechend.
 
 
 ## § 5 Zerstörungs- und Beschädigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000600000)
 
 (1) Es ist verboten,
 
@@ -214,12 +220,14 @@ der Anlage kenntlich gemacht werden.
 
 
 ## § 6 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000700000)
 
 Die Wasserstraßen- und Schifffahrtsämter erlassen die Verbote nach § 2
 Absatz 2 und erteilen Ausnahmegenehmigungen nach § 3.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000801124)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2
 Bundeswasserstraßengesetz handelt, wer vorsätzlich oder fahrlässig
@@ -246,6 +254,7 @@ Bundeswasserstraßengesetz handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 8 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE000901124)
 
 Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach
 dieser Verordnung aufgestellten Schildern bis zum 31. Dezember 2021
@@ -280,6 +289,7 @@ weiter anzuwenden.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE001000000)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -314,6 +324,7 @@ außer Kraft.
 (zu § 2 Absatz 3, § 3 Absatz 4 und § 5 Absatz 3)
 
 ## Anlage Schilder zur Kennzeichnung der Verbote
+[Direktlink](https://www.gesetze-im-internet.de/wastrbav/BJNR704350016.html#BJNR704350016BJNE001100000)
 
 (Fundstelle: VkBl. 2016, 437 – 438)
 

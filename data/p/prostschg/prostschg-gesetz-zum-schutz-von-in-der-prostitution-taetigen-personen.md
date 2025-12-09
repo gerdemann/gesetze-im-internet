@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000200000)
 
 Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch
 Personen über 18 Jahre sowie auf das Betreiben eines
@@ -30,6 +32,7 @@ Prostitutionsgewerbes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000300000)
 
 (1) Eine sexuelle Dienstleistung ist eine sexuelle Handlung mindestens
 einer Person an oder vor mindestens einer anderen unmittelbar
@@ -82,9 +85,11 @@ Dienstleistungen auch sexuelle Handlungen gehören.
 
 
 ## Abschnitt 2 - Prostituierte
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000200000)
 
 
 ### § 3 Anmeldepflicht für Prostituierte
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000400000)
 
 (1) Wer eine Tätigkeit als Prostituierte oder als Prostituierter
 ausüben will, hat dies vor Aufnahme der Tätigkeit persönlich bei der
@@ -102,6 +107,7 @@ wird.
 
 
 ### § 4 Zur Anmeldung erforderliche Angaben und Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000500000)
 
 (1) Bei der Anmeldung hat die anmeldepflichtige Person zwei
 Lichtbilder abzugeben und folgende Angaben zu machen:
@@ -151,6 +157,7 @@ zuständigen Behörde anzuzeigen.
 
 
 ### § 5 Anmeldebescheinigung; Gültigkeit
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000600000)
 
 (1) Zum Nachweis über die erfolgte Anmeldung stellt die zuständige
 Behörde der anmeldepflichtigen Person innerhalb von fünf Werktagen
@@ -217,6 +224,7 @@ Anmeldebescheinigung oder die Aliasbescheinigung mitzuführen.
 
 
 ### § 6 Inhalt der Anmeldebescheinigung und der Aliasbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000700000)
 
 (1) Die Anmeldebescheinigung enthält ein Lichtbild sowie die folgenden
 Angaben:
@@ -273,6 +281,7 @@ räumliche Gültigkeitsbereich der Anmeldebescheinigung anzugeben.
 
 
 ### § 7 Informationspflicht der Behörde; Informations- und Beratungsgespräch
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000800000)
 
 (1) Bei der Anmeldung ist ein Informations- und Beratungsgespräch zu
 führen.
@@ -310,6 +319,7 @@ Sprache verfasst sein, die die oder der Prostituierte versteht.
 
 
 ### § 8 Ausgestaltung des Informations- und Beratungsgesprächs
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE000900000)
 
 (1) Die persönliche Anmeldung und das Informations- und
 Beratungsgespräch sollen in einem vertraulichen Rahmen durchgeführt
@@ -326,6 +336,7 @@ anmeldepflichtigen Person hinzuziehen.
 
 
 ### § 9 Maßnahmen bei Beratungsbedarf
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001000000)
 
 (1) Ergeben sich tatsächliche Anhaltspunkte dafür, dass bei einer oder
 einem Prostituierten Beratungsbedarf hinsichtlich der gesundheitlichen
@@ -352,6 +363,7 @@ Anhaltspunkte dafür ergeben, dass
 
 
 ### § 10 Gesundheitliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001100000)
 
 (1) Für Personen, die als Prostituierte tätig sind oder eine solche
 Tätigkeit aufnehmen wollen, wird eine gesundheitliche Beratung durch
@@ -409,6 +421,7 @@ Bescheinigung über die gesundheitliche Beratung mitzuführen.
 
 
 ### § 11 Anordnungen gegenüber Prostituierten
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001200000)
 
 (1) Liegen der zuständigen Behörde tatsächliche Anhaltspunkte dafür
 vor, dass eine Person der Prostitution nachgeht, ohne diese Tätigkeit
@@ -461,9 +474,11 @@ sowie Maßnahmen nach dem Infektionsschutzgesetz bleiben unberührt.
 
 
 ## Abschnitt 3 - Erlaubnis zum Betrieb eines Prostitutionsgewerbes; anlassbezogene Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000300000)
 
 
 ### § 12 Erlaubnispflicht für Prostitutionsgewerbe; Verfahren über einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001300000)
 
 (1) Wer ein Prostitutionsgewerbe betreiben will, bedarf der Erlaubnis
 der zuständigen Behörde. Die Erlaubnis kann befristet werden. Die
@@ -515,6 +530,7 @@ Wasser- oder Immissionsschutzrechts, bleiben unberührt.
 
 
 ### § 13 Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001400000)
 
 (1) Wer ein Prostitutionsgewerbe durch eine als Stellvertretung
 eingesetzte Person betreiben will, bedarf hierfür einer
@@ -529,6 +545,7 @@ dies unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ### § 14 Versagung der Erlaubnis und der Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001500000)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -603,6 +620,7 @@ dies unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ### § 15 Zuverlässigkeit einer Person
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001601360)
 
 (1) Die erforderliche Zuverlässigkeit besitzt in der Regel nicht,
 
@@ -674,6 +692,7 @@ spätestens jedoch nach drei Jahren.
 
 
 ### § 16 Betriebskonzept für Prostitutionsgewerbe; Veranstaltungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001700000)
 
 (1) Im Betriebskonzept sind die wesentlichen Merkmale des Betriebes
 und die Vorkehrungen zur Einhaltung der Verpflichtungen nach diesem
@@ -727,6 +746,7 @@ konkretisiert.
 
 
 ### § 17 Auflagen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001800000)
 
 (1) Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen
 verbunden werden, soweit dies erforderlich ist
@@ -768,6 +788,7 @@ Verordnung beruhen, bleiben unberührt.
 
 
 ### § 18 Mindestanforderungen an zum Prostitutionsgewerbe genutzte Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE001900000)
 
 (1) Prostitutionsstätten müssen nach ihrem Betriebskonzept sowie nach
 ihrer Lage, Ausstattung und Beschaffenheit den Anforderungen genügen,
@@ -839,6 +860,7 @@ Sorge zu tragen, dass die Mindestanforderungen nach den Absätzen 1 und
 
 
 ### § 19 Mindestanforderungen an Prostitutionsfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002000000)
 
 (1) Prostitutionsfahrzeuge müssen über einen für das vorgesehene
 Betriebskonzept ausreichend großen Innenraum und über eine hierfür
@@ -867,6 +889,7 @@ Sorge zu tragen, dass die Mindestanforderungen nach den Absätzen 1 bis
 
 
 ### § 20 Anzeige einer Prostitutionsveranstaltung; Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002100000)
 
 (1) Wer eine Prostitutionsveranstaltung organisieren oder durchführen
 will, hat dies der am Ort der Veranstaltung zuständigen Behörde vier
@@ -940,6 +963,7 @@ wahrheitsgemäß oder nicht vollständig erstattet wurde.
 
 
 ### § 21 Anzeige der Aufstellung eines Prostitutionsfahrzeugs; Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002200000)
 
 (1) Wer ein Prostitutionsfahrzeug an mehr als zwei
 aufeinanderfolgenden Tagen oder mehrmals in einem Monat im örtlichen
@@ -1016,6 +1040,7 @@ nicht wahrheitsgemäß oder nicht vollständig abgegeben wurde.
 
 
 ### § 22 Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002300000)
 
 Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der
 Erlaubnisinhaber den Betrieb des Prostitutionsgewerbes nicht innerhalb
@@ -1025,6 +1050,7 @@ auf Antrag verlängert werden, wenn ein wichtiger Grund vorliegt.
 
 
 ### § 23 Rücknahme und Widerruf der Erlaubnis und der Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002400000)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bekannt wird, dass bei
 ihrer Erteilung Versagungsgründe nach § 14 Absatz 1 vorlagen. Die
@@ -1072,9 +1098,11 @@ Verwaltungsverfahrensgesetzes.
 
 
 ## Abschnitt 4 - Pflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000400000)
 
 
 ### § 24 Sicherheit und Gesundheitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002500000)
 
 (1) Der Betreiber eines Prostitutionsgewerbes hat dafür Sorge zu
 tragen, dass die Belange der Sicherheit und Gesundheit von
@@ -1122,6 +1150,7 @@ bleiben unberührt.
 
 
 ### § 25 Auswahl der im Betrieb tätigen Personen; Beschäftigungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002600000)
 
 (1) Der Betreiber eines Prostitutionsgewerbes darf eine Person nicht
 als Prostituierte oder Prostituierten in seinem Prostitutionsgewerbe
@@ -1164,6 +1193,7 @@ anzuwenden.
 
 
 ### § 26 Pflichten gegenüber Prostituierten; Einschränkung von Weisungen und Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002700000)
 
 (1) Die Ausgestaltung sexueller Dienstleistungen wird ausschließlich
 zwischen den Prostituierten und deren Kunden und Kundinnen in eigener
@@ -1211,6 +1241,7 @@ Prostituierten.
 
 
 ### § 27 Kontroll- und Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002800000)
 
 (1) Der Betreiber eines Prostitutionsgewerbes hat Personen, die in
 seinem Prostitutionsgewerbe sexuelle Dienstleistungen erbringen
@@ -1226,6 +1257,7 @@ gültige Anmelde-oder Aliasbescheinigung und eine gültige Bescheinigung
 
 
 ### § 28 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE002900000)
 
 (1) Der Betreiber eines Prostitutionsgewerbes ist verpflichtet,
 folgende Angaben über die Prostituierten, die in seinem
@@ -1284,9 +1316,11 @@ vom Tag der Aufzeichnung an zwei Jahre lang aufzubewahren.
 
 
 ## Abschnitt 5 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000500000)
 
 
 ### § 29 Überwachung des Prostitutionsgewerbes
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003000000)
 
 (1) Die Beauftragten der zuständigen Behörde sind befugt, zum Zwecke
 der Überwachung
@@ -1320,6 +1354,7 @@ wird insoweit eingeschränkt.
 
 
 ### § 30 Auskunftspflicht im Rahmen der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003100000)
 
 (1) Betreiber eines Prostitutionsgewerbes, als Stellvertretung oder
 als Betriebsleitung eingesetzte Personen sowie Prostituierte sind
@@ -1335,6 +1370,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ### § 31 Überwachung und Auskunftspflicht bei Anhaltspunkten für die Ausübung der Prostitution
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003200000)
 
 (1) Die in § 29 geregelten Befugnisse stehen der zuständigen Behörde
 auch zu, wenn Tatsachen die Annahme rechtfertigen, dass
@@ -1355,9 +1391,11 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt 6 - Verbote; Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000600000)
 
 
 ### § 32 Kondompflicht; Werbeverbot
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003301360)
 
 (1) Kunden und Kundinnen von Prostituierten sowie Prostituierte haben
 dafür Sorge zu tragen, dass beim Geschlechtsverkehr Kondome verwendet
@@ -1394,6 +1432,7 @@ Dem Verbreiten steht das der Öffentlichkeit Zugänglichmachen gleich.
 
 
 ### § 33 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003400000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1494,6 +1533,7 @@ eintausend Euro geahndet werden.
 
 
 ### § 33a Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003500000)
 
 (1) Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 33 Absatz
 2 Nummer 14 bezieht, können eingezogen werden.
@@ -1503,9 +1543,11 @@ entsprechende Anwendung.
 
 
 ## Abschnitt 7 - Personenbezogene Daten; Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000700000)
 
 
 ### § 34 Datenverarbeitung; Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003601360)
 
 (1) Die zuständige Behörde darf personenbezogene Daten von
 Prostituierten, von Betreibern eines Prostitutionsgewerbes sowie von
@@ -1593,6 +1635,7 @@ Rechtsvorschrift dies vorsieht.
 
 
 ### § 35 Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003701360)
 
 (1) Für Zwecke dieses Gesetzes werden jährlich über folgende
 Sachverhalte Erhebungen als Bundesstatistik durchgeführt:
@@ -1643,9 +1686,11 @@ Daten nur in anonymisierter Form verarbeitet werden.
 
 
 ## Abschnitt 8 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNG000800000)
 
 
 ### § 36 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003801360)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 kann im Einvernehmen mit dem Bundesministerium für Gesundheit und dem
@@ -1701,6 +1746,7 @@ Länder zu übermitteln sind.
 
 
 ### § 37 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE003900000)
 
 (1) Personen, die bereits vor dem 1. Juli 2017 der Prostitution
 nachgegangen sind, haben ihre Tätigkeit bis zum 31. Dezember 2017
@@ -1752,6 +1798,7 @@ darauffolgenden Verlängerungen gilt § 4 Absatz 4.
 
 
 ### § 38 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/prostschg/BJNR237210016.html#BJNR237210016BJNE004000000)
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 evaluiert die Auswirkungen dieses Gesetzes auf wissenschaftlicher

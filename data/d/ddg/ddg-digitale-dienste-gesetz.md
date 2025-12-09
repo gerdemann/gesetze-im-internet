@@ -42,9 +42,11 @@ Fundstelle
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000100000)
 
 (1) Dieses Gesetz gilt für alle Diensteanbieter nach Absatz 4 Nummer
 5, sofern in diesem Gesetz nichts anderes bestimmt ist. Abweichend von
@@ -196,6 +198,7 @@ Gerichte.
 
 
 ### § 2 Europäisches Sitzland
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000200000)
 
 (1) Sitzland des Diensteanbieters innerhalb des Geltungsbereichs der
 Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8.
@@ -336,6 +339,7 @@ Kommission unverzüglich zur Kenntnis.
 
 
 ### § 3 Herkunftslandprinzip
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000300000)
 
 (1) Diensteanbieter und ihre digitalen Dienste, die nach § 2 in
 Deutschland niedergelassen sind, unterliegen den Anforderungen des
@@ -536,15 +540,18 @@ Anordnungen unterliegen nicht den Anforderungen der Absätze 5 und 6.
 
 
 ### § 4 Zulassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000400000)
 
 Das Anbieten von digitalen Diensten ist im Rahmen der Gesetze
 zulassungs- und anmeldefrei.
 
 
 ## Teil 2 - Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000200000)
 
 
 ### § 5 Allgemeine Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000500000)
 
 (1) Diensteanbieter haben für geschäftsmäßige, in der Regel gegen
 Entgelt angebotene digitale Dienste folgende Informationen, die leicht
@@ -629,6 +636,7 @@ Rechtsvorschriften bleiben unberührt.
 
 
 ### § 6 Besondere Pflichten bei kommerziellen Kommunikationen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000600000)
 
 (1) Diensteanbieter haben bei kommerziellen Kommunikationen, die
 digitale Dienste oder Bestandteile von digitalen Diensten sind,
@@ -679,9 +687,11 @@ der Preisangabenverordnung bleiben unberührt.
 
 
 ## Teil 3 - Rechtsverletzungen von Nutzern
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000300000)
 
 
 ### § 7 Beschränkte Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000700000)
 
 (1) Die Artikel 4 bis 8 der Verordnung (EU) 2022/2065 gelten für alle
 Diensteanbieter einschließlich der öffentlichen Stellen unabhängig
@@ -726,6 +736,7 @@ erbracht wird.
 
 
 ### § 8 Anspruch auf Sperrung bei Rechtsverletzung
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000800000)
 
 (1) Wurde ein digitaler Dienst, der darin besteht, von einem Nutzer
 bereitgestellte Informationen in einem Kommunikationsnetz zu
@@ -755,9 +766,11 @@ beschränkten Verantwortlichkeit des Diensteanbieters nach den Artikeln
 
 
 ## Teil 4 - Vorschriften für Anbieter von audiovisuellen Mediendiensten und für Videosharingplattform-Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000400000)
 
 
 ### § 9 Listen der Anbieter von audiovisuellen Mediendiensten und der Videosharingplattform-Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE000900000)
 
 (1) Die nach Landesrecht zuständige Behörde erstellt jeweils eine
 Liste der Anbieter von audiovisuellen Mediendiensten und der
@@ -778,6 +791,7 @@ Aktualisierungen dieser Listen an die Europäische Kommission weiter.
 
 
 ### § 10 Auskunftsverlangen der nach Landesrecht zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001000000)
 
 (1) Anbieter von audiovisuellen Mediendiensten und
 Videosharingplattform-Anbieter sind verpflichtet, der nach Landesrecht
@@ -800,6 +814,7 @@ Videosharingplattform-Anbieters.
 
 
 ### § 11 Vertragliche Nutzungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001100000)
 
 (1) Videosharingplattform-Anbieter sind verpflichtet, mit ihren
 Nutzern wirksam zu vereinbaren, dass diese auf der
@@ -824,15 +839,19 @@ gegen folgende Vorschriften verstößt:
 
 
 ## Teil 5 - Durchführung der Verordnung (EU) 2022/2065
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000500000)
 
 
 ### Abschnitt 1 - Zuständige Behörden und Koordinierungsstelle für digitale Dienste
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000600000)
 
 
 #### Unterabschnitt 1 - Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000700000)
 
 
 ##### § 12 Zuständige Behörden nach Artikel 49 Absatz 1 der Verordnung (EU) 2022/2065
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001200000)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen (Bundesnetzagentur) ist vorbehaltlich der Absätze
@@ -885,6 +904,7 @@ der Länder bleiben unberührt.
 
 
 ##### § 13 Meldung des Verdachts auf Straftaten gemäß Artikel 18 der Verordnung (EU) 2022/2065 an das Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001300000)
 
 Das Bundeskriminalamt nimmt als Zentralstelle Informationen nach
 Artikel 18 Absatz 1 und 2 der Verordnung (EU) 2022/2065 entgegen,
@@ -897,9 +917,11 @@ Vorschrift gemeldeten Straftaten.
 
 
 #### Unterabschnitt 2 - Koordinierungsstelle für digitale Dienste
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000800000)
 
 
 ##### § 14 Errichtung und Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001400000)
 
 (1) Zur Durchsetzung und Überwachung der Verordnung (EU) 2022/2065
 wird eine Koordinierungsstelle für digitale Dienste in der
@@ -916,6 +938,7 @@ verwenden kann.
 
 
 ##### § 15 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001500000)
 
 Die Koordinierungsstelle für digitale Dienste handelt bei der
 Wahrnehmung der ihr durch die Verordnung (EU) 2022/2065 zugewiesenen
@@ -926,6 +949,7 @@ den fachlichen Bereich der unabhängigen Aufgabenerfüllung betreffen.
 
 
 ##### § 16 Leitung der Koordinierungsstelle für digitale Dienste
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001600000)
 
 (1) Die Leiterin oder der Leiter der Koordinierungsstelle für digitale
 Dienste trifft die von der Verordnung (EU) 2022/2065 vorgesehenen
@@ -982,6 +1006,7 @@ Bundes oder eines Landes angehören.
 
 
 ##### § 17 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001700000)
 
 (1) Die Koordinierungsstelle für digitale Dienste legt den nach
 Artikel 55 der Verordnung (EU) 2022/2065 jährlich zu erstellenden
@@ -1042,6 +1067,7 @@ Absatz 2 mit, die für die Erstellung erforderlich sind.
 
 
 ##### § 18 Zusammenarbeit der Koordinierungsstelle für digitale Dienste mit den zuständigen Behörden, Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001800000)
 
 (1) Die nach § 12 Absatz 2 und 3 für die Durchsetzung der Verordnung
 (EU) 2022/2065 zuständigen Behörden und die Koordinierungsstelle für
@@ -1088,6 +1114,7 @@ verwerten. Beweisverwertungsverbote bleiben unberührt.
 
 
 ##### § 19 Zusammenarbeit mit anderen Behörden, Einrichtung von Verbindungsschnittstellen, Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE001900000)
 
 (1) Sofern Aufgaben der Koordinierungsstelle für digitale Dienste die
 Prüfung der Einhaltung der Verordnung (EU) 2016/679 des Europäischen
@@ -1175,6 +1202,7 @@ Verwaltungsvereinbarungen kann insbesondere Folgendes geregelt werden:
 
 
 ##### § 20 Zentrale Beschwerdestelle
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002000000)
 
 (1) Unbeschadet der Vorgaben des Artikels 53 der Verordnung (EU)
 2022/2065 ist die Koordinierungsstelle für digitale Dienste über den
@@ -1225,6 +1253,7 @@ angemessen begründeter Beschwerden ermöglicht.
 
 
 ##### § 21 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002100000)
 
 (1) Bei der Koordinierungsstelle für digitale Dienste wird ein Beirat
 eingerichtet.
@@ -1344,9 +1373,11 @@ Beirats.
 
 
 ## Teil 6 - Sonstige Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG000900000)
 
 
 ### § 22 Durchsetzung der Verordnung (EU) 2019/1150
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002200000)
 
 (1) Die Bundesnetzagentur ist zuständige Behörde für die Durchsetzung
 der Verordnung (EU) 2019/1150, wenn Anbieter ihre Online-
@@ -1371,15 +1402,18 @@ die Erfüllung ihrer jeweiligen Aufgaben erforderlich sind.
 
 
 ### § 23 Verbindungsstelle nach Artikel 19 Absatz 2 der Richtlinie 2000/31/EG
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002300000)
 
 Die Bundesnetzagentur ist zuständige Verbindungsstelle nach Artikel 19
 Absatz 2 der Richtlinie über den elektronischen Geschäftsverkehr.
 
 
 ## Teil 7 - Befugnisse und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG001000000)
 
 
 ### § 24 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002400000)
 
 (1) Im Rahmen der Ausübung der Befugnisse gemäß Artikel 51 Absatz 1
 der Verordnung (EU) 2022/2065 dürfen die Koordinierungsstelle für
@@ -1423,6 +1457,7 @@ Sachverständige zu erstatten.
 
 
 ### § 25 Auskunftserteilung und Durchsuchungen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002500000)
 
 (1) Die in Artikel 51 Absatz 1 Buchstabe a und c der Verordnung (EU)
 2022/2065 genannten Personen sind verpflichtet, auf Verlangen der
@@ -1463,6 +1498,7 @@ Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 
 ### § 26 Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002600000)
 
 (1) Die Koordinierungsstelle für digitale Dienste oder die nach § 12
 Absatz 2 Satz 1 und Absatz 3 zuständigen Behörden können Gegenstände,
@@ -1493,6 +1529,7 @@ Entscheidung ist die Beschwerde zulässig. Die §§ 306 bis 310 und §
 
 
 ### § 27 Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002700000)
 
 (1) Für die Ausübung der Befugnisse gemäß Artikel 51 Absatz 2 der
 Verordnung (EU) 2022/2065 durch die Koordinierungsstelle für digitale
@@ -1538,6 +1575,7 @@ genannten Datum, festgesetzt werden.
 
 
 ### § 28 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002800000)
 
 (1) Die Koordinierungsstelle für digitale Dienste und die nach § 12
 Absatz 2 Satz 1 und Absatz 3 zuständigen Behörden können der
@@ -1560,6 +1598,7 @@ sofern diese nach § 22 zuständig ist.
 
 
 ### § 29 Maßnahmen nach Artikel 51 Absatz 3 der Verordnung (EU) 2022/2065
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE002900000)
 
 (1) Zuständige Justizbehörde nach Artikel 51 Absatz 3 Unterabsatz 1
 Buchstabe b der Verordnung (EU)
@@ -1606,6 +1645,7 @@ Die Angaben nach Satz 3 Nummer 1 sind glaubhaft zu machen.
 
 
 ### § 30 Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003000000)
 
 Für die Wahrnehmung der Befugnisse der Bundesnetzagentur als
 zuständige Behörde nach § 22 gelten § 202 Absatz 1, 2, 4 und 5
@@ -1617,6 +1657,7 @@ Anordnungen) des Telekommunikationsgesetzes entsprechend.
 
 
 ### § 31 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003100000)
 
 (1) Widerspruch und Anfechtungsklagen gegen Verwaltungsakte der
 Koordinierungsstelle für digitale Dienste und der nach § 12 Absatz 2
@@ -1629,6 +1670,7 @@ nach § 22 zuständig ist.
 
 
 ### § 32 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003200000)
 
 (1) Entscheidungen der Koordinierungsstelle für digitale Dienste und
 Entscheidungen der nach § 12 Absatz 2 Satz 1 und Absatz 3 zuständigen
@@ -1669,9 +1711,11 @@ sofern diese nach § 22 zuständig ist.
 
 
 ## Teil 8 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG001100000)
 
 
 ### § 33 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003300000)
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Absatz 2 Satz
 1 den Absender oder den kommerziellen Charakter der Nachricht
@@ -2035,9 +2079,11 @@ Gesetzes über Ordnungswidrigkeiten ist in den Fällen
 
 
 ## Teil 9 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNG001200000)
 
 
 ### § 34 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html#BJNR0950B0024BJNE003400000)
 
 Die Bundesregierung wird fünf Jahre nach Inkrafttreten dieses Gesetzes
 die in den §§ 18 und 19 enthaltenen Regelungen über die Zusammenarbeit

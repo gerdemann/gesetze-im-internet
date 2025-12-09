@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_1/BJNR008600993.html#BJNR008600993BJNE000100333)
 
 Auf Grund des § 86 Abs. 2 des Zollgesetzes in der Fassung der
 Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), der durch § 2 Nr. 2
@@ -26,6 +27,7 @@ ist, verordnet der Bundesminister der Finanzen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_1/BJNR008600993.html#BJNR008600993BJNE000200333)
 
 Der durch § 1 Abs. 2 Satz 1 des Gesetzes zur Errichtung neuer
 Freihäfen und zur Änderung des Zollgesetzes vom 25. Juli 1989 (BGBl. I
@@ -59,6 +61,7 @@ Punkt aus verläuft sie in gerader Linie zum Ausgangspunkt."
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/frhfgrdegv_1/BJNR008600993.html#BJNR008600993BJNE000300333)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

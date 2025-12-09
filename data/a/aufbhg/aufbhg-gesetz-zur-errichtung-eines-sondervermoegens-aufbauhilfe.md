@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000100000)
 
 Es wird ein nationaler Fonds „Aufbauhilfe“ als Sondervermögen des
 Bundes errichtet.
 
 
 ## § 2 Zweck und Mittelverwendung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000200000)
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser im
 Mai und Juni 2013 betroffenen Ländern zur Beseitigung der
@@ -61,6 +63,7 @@ Fonds und die Einzelheiten der näheren Durchführung.
 
 
 ## § 3 Stellung im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000300000)
 
 (1) Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
 Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine
@@ -74,6 +77,7 @@ die sich aus der Finanzierung des Fonds ergeben, haftet der Bund.
 
 
 ## § 4 Finanzierung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000403360)
 
 (1) Der Bund stellt dem Fonds Mittel in Höhe von 8 Milliarden Euro zur
 Verfügung. Die Liquidität des Fonds wird durch den Bund
@@ -118,6 +122,7 @@ von Anträgen bewilligt wurden.
 
 
 ## § 5 Wirtschaftsplan und Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000500000)
 
 Alle Einnahmen und Ausgaben des Fonds werden in einem Wirtschaftsplan
 veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben
@@ -128,6 +133,7 @@ Bundeshaushaltsplan veröffentlicht.
 
 
 ## § 6 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000600000)
 
 Das Bundesministerium der Finanzen stellt für den Fonds am Schluss
 eines jeden Rechnungsjahres die Haushaltsrechnung als Rechnung über
@@ -136,6 +142,7 @@ fügt sie den Übersichten zur Haushaltsrechnung des Bundes bei.
 
 
 ## § 7 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/aufbhg/BJNR240110013.html#BJNR240110013BJNE000700000)
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 

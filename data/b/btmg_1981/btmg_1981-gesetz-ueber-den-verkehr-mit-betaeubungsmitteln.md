@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000101308)
 
 
 
 ### § 1 Betäubungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001107116)
 
 (1) Betäubungsmittel im Sinne dieses Gesetzes sind die in den Anlagen
 I bis III aufgeführten Stoffe und Zubereitungen.
@@ -83,6 +85,7 @@ geändert worden ist, erforderlich ist.
 
 
 ### § 2 Sonstige Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001202310)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -136,10 +139,12 @@ Gesetzes gleich.
 
 
 ## Zweiter Abschnitt - Erlaubnis und Erlaubnisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000201308)
 
 
 
 ### § 3 Erlaubnis zum Verkehr mit Betäubungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001302305)
 
 (1) Einer Erlaubnis des Bundesinstitutes für Arzneimittel und
 Medizinprodukte bedarf, wer
@@ -162,6 +167,7 @@ Interesse liegenden Zwecken erteilen.
 
 
 ### § 4 Ausnahmen von der Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001406116)
 
 (1) Einer Erlaubnis nach § 3 bedarf nicht, wer
 
@@ -313,6 +319,7 @@ Anzeigen, soweit sie tierärztliche Hausapotheken betreffen.
 
 
 ### § 5 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001503116)
 
 (1) Die Erlaubnis nach § 3 ist zu versagen, wenn
 
@@ -370,6 +377,7 @@ Organe der Europäischen Union geboten ist.
 
 
 ### § 6 Sachkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001604116)
 
 (1) Der Nachweis der erforderlichen Sachkenntnis (§ 5 Abs. 1 Nr. 2)
 wird erbracht
@@ -421,6 +429,7 @@ Zubereitungen gewährleistet sind.
 
 
 ### § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001703130)
 
 Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist beim
 Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen. Dem
@@ -472,6 +481,7 @@ Antrag müssen folgende Angaben und Unterlagen beigefügt werden:
 
 
 ### § 8 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001802305)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte soll
 innerhalb von drei Monaten nach Eingang des Antrages über die
@@ -498,6 +508,7 @@ unterrichtet.
 
 
 ### § 9 Beschränkungen, Befristung, Bedingungen und Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE001902360)
 
 (1) Die Erlaubnis ist zur Sicherheit und Kontrolle des
 Betäubungsmittelverkehrs oder der Herstellung ausgenommener
@@ -540,6 +551,7 @@ Union geboten ist.
 
 
 ### § 10 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002001308)
 
 (1) Die Erlaubnis kann auch widerrufen werden, wenn von ihr innerhalb
 eines Zeitraumes von zwei Kalenderjahren kein Gebrauch gemacht worden
@@ -551,6 +563,7 @@ den Widerruf der Erlaubnis unverzüglich unterrichtet.
 
 
 ### § 10a Erlaubnis für den Betrieb von Drogenkonsumräumen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE007001130)
 
 (1) Einer Erlaubnis der zuständigen obersten Landesbehörde bedarf, wer
 eine Einrichtung betreiben will, in deren Räumlichkeiten
@@ -628,6 +641,7 @@ Medizinprodukte.
 
 
 ### § 10b Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE008300130)
 
 (1) Die zuständigen Landesbehörden können eine Erlaubnis für
 Modellvorhaben zur qualitativen und quantitativen chemischen Analyse
@@ -702,10 +716,12 @@ Dritten auf Anforderung die Ergebnisse der Modellvorhaben.
 
 
 ## Dritter Abschnitt - Pflichten im Betäubungsmittelverkehr
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000301308)
 
 
 
 ### § 11 Einfuhr, Ausfuhr und Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002204360)
 
 (1) Wer Betäubungsmittel im Einzelfall einführen oder ausführen will,
 bedarf dazu neben der erforderlichen Erlaubnis nach § 3 einer
@@ -749,6 +765,7 @@ werden.
 
 
 ### § 12 Abgabe und Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002408360)
 
 (1) Betäubungsmittel dürfen nur abgegeben werden an
 
@@ -804,6 +821,7 @@ elektronische Übermittlung regeln.
 
 
 ### § 13 Verschreibung und Abgabe auf Verschreibung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002607130)
 
 (1) Die in Anlage III bezeichneten Betäubungsmittel dürfen nur von
 Ärzten, Zahnärzten und Tierärzten und nur dann verschrieben oder im
@@ -1042,6 +1060,7 @@ Vereinbarung geregelt.
 
 
 ### § 14 Kennzeichnung und Werbung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002701308)
 
 (1) Im Betäubungsmittelverkehr sind die Betäubungsmittel unter
 Verwendung der in den Anlagen aufgeführten Kurzbezeichnungen zu
@@ -1083,6 +1102,7 @@ Tierärzten.
 
 
 ### § 15 Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002802305)
 
 Wer am Betäubungsmittelverkehr teilnimmt, hat die Betäubungsmittel,
 die sich in seinem Besitz befinden, gesondert aufzubewahren und gegen
@@ -1093,6 +1113,7 @@ Menge der Betäubungsmittel erforderlich ist.
 
 
 ### § 16 Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE002902305)
 
 (1) Der Eigentümer von nicht mehr verkehrsfähigen Betäubungsmitteln
 hat diese auf seine Kosten in Gegenwart von zwei Zeugen in einer Weise
@@ -1120,6 +1141,7 @@ Eigentümer nicht mehr benötigte Betäubungsmittel beseitigen will.
 
 
 ### § 17 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003001308)
 
 (1) Der Inhaber einer Erlaubnis nach § 3 ist verpflichtet, getrennt
 für jede Betriebsstätte und jedes Betäubungsmittel fortlaufend
@@ -1171,6 +1193,7 @@ gerechnet, gesondert aufzubewahren.
 
 
 ### § 18 Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003102305)
 
 (1) Der Inhaber einer Erlaubnis nach § 3 ist verpflichtet, dem
 Bundesinstitut für Arzneimittel und Medizinprodukte getrennt für jede
@@ -1243,10 +1266,12 @@ amtlichen Formblätter zu verwenden.
 
 
 ## Vierter Abschnitt - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000401308)
 
 
 
 ### § 19 Durchführende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003215130)
 
 (1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener
 Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für
@@ -1272,6 +1297,7 @@ internationalen Suchtstoffübereinkommen.
 
 
 ### § 20 Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003403310)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates dieses Gesetz oder die auf Grund dieses
@@ -1318,6 +1344,7 @@ Artikels 80a Abs. 1 des Grundgesetzes angewandt werden.
 
 
 ### § 21 Mitwirkung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003509116)
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Überwachung der Einfuhr, Ausfuhr und
@@ -1340,6 +1367,7 @@ Medizinprodukte unverzüglich.
 
 
 ### § 22 Überwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003602116)
 
 (1) Die mit der Überwachung beauftragten Personen sind befugt,
 
@@ -1392,6 +1420,7 @@ auch auf schriftlichem Wege anordnen.
 
 
 ### § 23 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003701308)
 
 (1) Soweit es zur Durchführung der Vorschriften über den
 Betäubungsmittelverkehr oder die Herstellung ausgenommener
@@ -1414,6 +1443,7 @@ leisten, soweit nicht ausdrücklich darauf verzichtet wird.
 
 
 ### § 24 Duldungs- und Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE003801308)
 
 (1) Jeder Teilnehmer am Betäubungsmittelverkehr oder jeder Hersteller
 ausgenommener Zubereitungen ist verpflichtet, die Maßnahmen nach den
@@ -1433,14 +1463,17 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004007116)
 
 
 
 ## Fünfter Abschnitt - Vorschriften für Behörden
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000501308)
 
 
 
 ### § 26 Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004103310)
 
 (1) Dieses Gesetz findet mit Ausnahme der Vorschriften über die
 Erlaubnis nach § 3 auf Einrichtungen, die der
@@ -1472,6 +1505,7 @@ dienen, entsprechende Anwendung.
 
 
 ### § 27 Meldungen und Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004203320)
 
 (1) Das Bundeskriminalamt meldet dem Bundesinstitut für Arzneimittel
 und Medizinprodukte jährlich bis zum 31. März für das vergangene
@@ -1530,6 +1564,7 @@ Buchstabe c zweiter Halbsatz gilt entsprechend.
 
 
 ### § 28 Jahresbericht an die Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004402305)
 
 (1) Die Bundesregierung erstattet jährlich bis zum 30. Juni für das
 vergangene Kalenderjahr dem Generalsekretär der Vereinten Nationen
@@ -1552,10 +1587,12 @@ Zeitpunkt und den Empfänger der Meldungen getroffen werden.
 
 
 ## Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000601308)
 
 
 
 ### § 29 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004511130)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1687,6 +1724,7 @@ Betäubungsmittel sind, aber als solche ausgegeben werden.
 
 
 ### § 29a Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE006304308)
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -1709,6 +1747,7 @@ Monaten bis zu fünf Jahren.
 
 
 ### § 30 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004604130)
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
 
@@ -1742,6 +1781,7 @@ Monaten bis zu fünf Jahren.
 
 
 ### § 30a Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE006405310)
 
 (1) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer
 Betäubungsmittel in nicht geringer Menge unerlaubt anbaut, herstellt,
@@ -1771,6 +1811,7 @@ Monaten bis zu zehn Jahren.
 
 
 ### § 30b Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE006501308)
 
 § 129 des Strafgesetzbuches gilt auch dann, wenn eine Vereinigung,
 deren Zwecke oder deren Tätigkeit auf den unbefugten Vertrieb von
@@ -1779,6 +1820,7 @@ gerichtet sind, nicht oder nicht nur im Inland besteht.
 
 
 ### § 31 Strafmilderung oder Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004704116)
 
 Das Gericht kann die Strafe nach § 49 Abs. 1 des Strafgesetzbuches
 mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei
@@ -1803,6 +1845,7 @@ entsprechend.
 
 
 ### § 31a Absehen von der Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE006703130)
 
 (1) Hat das Verfahren ein Vergehen nach § 29 Abs. 1, 2 oder 4 zum
 Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung absehen,
@@ -1833,6 +1876,7 @@ Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 
 
 ### § 32 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004808130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1922,6 +1966,7 @@ Medizinprodukte, soweit das Gesetz von ihm ausgeführt wird.
 
 
 ### § 33 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE004905116)
 
 Gegenstände, auf die sich eine Straftat nach den §§ 29 bis 30a oder
 eine Ordnungswidrigkeit nach § 32 bezieht, können eingezogen werden. §
@@ -1930,16 +1975,19 @@ Ordnungswidrigkeiten sind anzuwenden.
 
 
 ### § 34 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005003308)
 
 In den Fällen des § 29 Abs. 3, der §§ 29a, 30 und 30a kann das Gericht
 Führungsaufsicht anordnen (§ 68 Abs. 1 des Strafgesetzbuches).
 
 
 ## Siebenter Abschnitt - Betäubungsmittelabhängige Straftäter
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000701308)
 
 
 
 ### § 35 Zurückstellung der Strafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005103308)
 
 (1) Ist jemand wegen einer Straftat zu einer Freiheitsstrafe von nicht
 mehr als zwei Jahren verurteilt worden und ergibt sich aus den
@@ -2023,6 +2071,7 @@ Vollstreckung wird durch die Anrufung des Gerichts nicht gehemmt. §
 
 
 ### § 36 Anrechnung und Strafaussetzung zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005204310)
 
 (1) Ist die Vollstreckung zurückgestellt worden und hat sich der
 Verurteilte in einer staatlich anerkannten Einrichtung behandeln
@@ -2065,6 +2114,7 @@ erteilt das Gericht.
 
 
 ### § 37 Absehen von der Erhebung der öffentlichen Klage
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005305308)
 
 (1) Steht ein Beschuldigter in Verdacht, eine Straftat auf Grund einer
 Betäubungsmittelabhängigkeit begangen zu haben, und ist keine höhere
@@ -2115,6 +2165,7 @@ Regelungen gelten entsprechend.
 
 
 ### § 38 Jugendliche und Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005404320)
 
 (1) Bei Verurteilung zu Jugendstrafe gelten die §§ 35 und 36
 sinngemäß. Neben der Zusage des Jugendlichen nach § 35 Abs. 1 Satz 1
@@ -2131,10 +2182,12 @@ Jugendgerichtsgesetzes ergänzend anzuwenden.
 
 
 ## Achter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNG000801308)
 
 
 
 ### § 39 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE008000320)
 
 Einrichtungen, in deren Räumlichkeiten der Verbrauch von mitgeführten,
 ärztlich nicht verschriebenen Betäubungsmitteln vor dem 1. Januar 1999
@@ -2151,6 +2204,7 @@ auch für Einrichtungen nach Satz 1.
 
 
 ### § 39a Übergangsregelung aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE008200310)
 
 Für eine Person, die die Sachkenntnis nach § 5 Absatz 1 Nummer 2 nicht
 hat, aber am 22. Juli 2009 die Voraussetzungen nach § 141 Absatz 3 des
@@ -2159,15 +2213,18 @@ Sachkenntnis nach § 6 Absatz 1 Nummer 1 als erbracht.
 
 
 ### (XXXX) §§ 40 und 40a (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005502320)
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005701308)
 
 (weggefallen)
 
 (zu § 1 Abs. 1)
 
 ### Anlage I (nicht verkehrsfähige Betäubungsmittel)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE005841130)
 
 (Fundstelle: BGBl. I 2001, 1180 - 1186;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3603,6 +3660,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Abs. 1)
 
 ### Anlage II (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE008122130)
 
 (Fundstelle: BGBl. I 2001, 1187 - 1189;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5549,6 +5607,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 1 Abs. 1)
 
 ### Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/btmg_1981/BJNR106810981.html#BJNR106810981BJNE006022130)
 
 (Fundstelle: BGBl. I 2001, 1189 - 1195;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -23,18 +23,22 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000100319)
 
 
 
 ### Erster Abschnitt - Ausübung der Hilfe in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000200319)
 
 
 
 #### Erster Unterabschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000300319)
 
 
 
 ##### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004004140)
 
 (1) Dieses Gesetz ist anzuwenden auf die Hilfeleistung
 
@@ -88,10 +92,12 @@ des § 17 keine Anwendung.
 
 
 #### Zweiter Unterabschnitt - Befugnis
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000400319)
 
 
 
 ##### § 2 Geschäftsmäßige Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004101123)
 
 (1) Die Hilfeleistung in Steuersachen darf geschäftsmäßig nur von
 Personen und Vereinigungen ausgeübt werden, die hierzu befugt sind.
@@ -106,6 +112,7 @@ sobald sie eine rechtliche Prüfung des Einzelfalls erfordert.
 
 
 ##### § 3 Befugnis zu unbeschränkter Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004210123)
 
 Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 
@@ -135,6 +142,7 @@ vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
 
 
 ##### § 3a Befugnis zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023208123)
 
 (1) Personen, die in einem anderen Mitgliedstaat der Europäischen
 Union oder in einem anderen Vertragsstaat des Abkommens über den
@@ -358,6 +366,7 @@ entgegen.
 
 
 ##### § 3b Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024100377)
 
 (1) Die Bundessteuerberaterkammer führt ein elektronisches Verzeichnis
 aller Personen, die gemäß § 3a Absatz 3 Satz 1 als zur vorübergehenden
@@ -397,12 +406,14 @@ Gesamtverzeichnis steht jedem unentgeltlich zu.
 
 
 ##### § 3c Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024300116)
 
 Die §§ 3a und 3b gelten entsprechend für juristische Personen und
 Vereinigungen.
 
 
 ##### § 3d Partieller Zugang, Voraussetzungen und Antrag
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025000123)
 
 (1) Eine Erlaubnis zu beschränkter geschäftsmäßiger Hilfeleistung in
 Steuersachen (partieller Zugang) wird im Einzelfall auf Antrag
@@ -470,6 +481,7 @@ Steuerberaterkammern aufzunehmen.
 
 
 ##### § 3e Erlaubnis zum partiellen Zugang
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025102123)
 
 (1) Die Gewährung des partiellen Zugangs berechtigt die Person zur
 geschäftsmäßigen Hilfeleistung in Steuersachen im gesamten
@@ -534,6 +546,7 @@ ist.
 
 
 ##### § 3f Untersagung des partiellen Zugangs
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025200123)
 
 Die zuständige Stelle kann einer partiell zugelassenen Person die
 weitere Hilfeleistung in Steuersachen untersagen, wenn
@@ -562,6 +575,7 @@ weitere Hilfeleistung in Steuersachen untersagen, wenn
 
 
 ##### § 3g Elektronisches Verzeichnis der partiell zugelassenen Personen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025301123)
 
 (1) Die Bundessteuerberaterkammer führt ein elektronisches Verzeichnis
 aller Personen, denen nach § 3d Absatz 1 ein partieller Zugang erteilt
@@ -601,6 +615,7 @@ Gesamtverzeichnis steht jedermann unentgeltlich zu.
 
 
 ##### § 4 Befugnis zu beschränkter Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004325123)
 
 Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
 
@@ -766,10 +781,12 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
 
 
 #### Dritter Unterabschnitt - Verbot und Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000500319)
 
 
 
 ##### § 5 Verbot der unbefugten Hilfeleistung in Steuersachen, Missbrauch von Berufsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004409123)
 
 (1) Andere als die in den §§ 3, 3a, 3d und 4 bezeichneten Personen und
 Vereinigungen dürfen nicht geschäftsmäßig Hilfe in Steuersachen
@@ -846,6 +863,7 @@ Vereinigungen die ihnen erteilte Erlaubnis zum partiellen Zugang nach
 
 
 ##### § 6 Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004502301)
 
 Das Verbot des § 5 gilt nicht für
 
@@ -875,6 +893,7 @@ Das Verbot des § 5 gilt nicht für
 
 
 ##### § 7 Untersagung der Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004608123)
 
 (1) Die Finanzbehörde kann die Hilfeleistung in Steuersachen
 untersagen, wenn
@@ -906,10 +925,12 @@ der Abgabenordnung steht dem nicht entgegen.
 
 
 #### Vierter Unterabschnitt - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000600319)
 
 
 
 ##### § 8 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004705123)
 
 (1) Auf eigene Dienste oder Dienste Dritter zur geschäftsmäßigen
 Hilfeleistung in Steuersachen darf hingewiesen werden, soweit über die
@@ -934,6 +955,7 @@ das Gesetz gegen den unlauteren Wettbewerb verstoßen.
 
 
 ##### § 9 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004802140)
 
 Die Abgabe oder Entgegennahme eines Teils der Gebühren oder sonstiger
 Vorteile für die Vermittlung von Aufträgen, gleichviel ob im
@@ -942,6 +964,7 @@ einem Dritten gleich welcher Art, ist unzulässig.
 
 
 ##### § 9a Erfolgshonorar
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023601123)
 
 (1) Vereinbarungen, durch die eine Vergütung für eine Hilfeleistung in
 Steuersachen oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der
@@ -994,6 +1017,7 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 
 ##### § 10 Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE004909123)
 
 (1) Gerichte und Behörden einschließlich der Berufskammern übermitteln
 der für die Entscheidung zuständigen Stelle diejenigen Daten über
@@ -1044,9 +1068,11 @@ Abgabenordnung.
 
 
 ##### § 10a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023901123)
 
 
 ##### § 10b Vorwarnmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024000377)
 
 (1) Wird bei einer Person, die die Anerkennung einer
 Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen
@@ -1080,6 +1106,7 @@ entsprechenden Hinweis.
 
 
 ##### § 11 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005004123)
 
 (1) Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz
 erforderlich ist, dürfen personenbezogene Daten verarbeitet werden.
@@ -1108,6 +1135,7 @@ gemäß Artikel 9 Absatz 2 Buchstabe g der Datenschutz-Grundverordnung
 
 
 ##### § 12 Hilfeleistung im Abgabenrecht fremder Staaten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE021304123)
 
 Personen und Vereinigungen im Sinne des § 3 Satz 1 sind in
 Angelegenheiten, die das Abgabenrecht fremder Staaten betreffen, zur
@@ -1117,14 +1145,17 @@ unberührt.
 
 
 ### Zweiter Abschnitt - Lohnsteuerhilfevereine
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000700319)
 
 
 
 #### Erster Unterabschnitt - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000800319)
 
 
 
 ##### § 13 Zweck und Tätigkeitsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005202301)
 
 (1) Lohnsteuerhilfevereine sind Selbsthilfeeinrichtungen von
 Arbeitnehmern zur Hilfeleistung in Steuersachen im Rahmen der Befugnis
@@ -1135,10 +1166,12 @@ Anerkennung.
 
 
 #### Zweiter Unterabschnitt - Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG000900319)
 
 
 
 ##### § 14 Voraussetzungen für die Anerkennung, Aufnahme der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005305116)
 
 (1) Ein rechtsfähiger Verein kann als Lohnsteuerhilfeverein anerkannt
 werden, wenn nach der Satzung
@@ -1199,6 +1232,7 @@ aufgenommen werden.
 
 
 ##### § 15 Anerkennungsbehörde, Satzung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005402140)
 
 (1) Für die Entscheidung über den Antrag auf Anerkennung als
 Lohnsteuerhilfeverein ist die Aufsichtsbehörde zuständig, in deren
@@ -1214,6 +1248,7 @@ nach der Beschlußfassung anzuzeigen. Der Änderungsanzeige ist eine
 
 
 ##### § 16 Gebühren für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005503140)
 
 Für die Bearbeitung des Antrags auf Anerkennung als
 Lohnsteuerhilfeverein hat der Verein eine Gebühr von dreihundert Euro
@@ -1221,18 +1256,21 @@ an die Aufsichtsbehörde zu zahlen.
 
 
 ##### § 17 Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005601140)
 
 Über die Anerkennung als Lohnsteuerhilfeverein stellt die
 Aufsichtsbehörde eine Urkunde aus.
 
 
 ##### § 18 Bezeichnung "Lohnsteuerhilfeverein"
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005700319)
 
 Der Verein ist verpflichtet, die Bezeichnung "Lohnsteuerhilfeverein"
 in den Namen des Vereins aufzunehmen.
 
 
 ##### § 19 Erlöschen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005801140)
 
 (1) Die Anerkennung erlischt durch
 
@@ -1252,6 +1290,7 @@ erklären.
 
 
 ##### § 20 Rücknahme und Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE005904123)
 
 (1) Die Aufsichtsbehörde hat die Anerkennung zurückzunehmen, wenn sich
 nach der Anerkennung ergibt, daß sie hätte versagt werden müssen.
@@ -1295,10 +1334,12 @@ zu hören.
 
 
 #### Dritter Unterabschnitt - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001000319)
 
 
 
 ##### § 21 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006000319)
 
 (1) Der Lohnsteuerhilfeverein hat sämtliche Einnahmen und Ausgaben
 fortlaufend und vollständig aufzuzeichnen. Die Aufzeichnungen sind
@@ -1326,6 +1367,7 @@ Buchführungspflichten bleiben unberührt.
 
 
 ##### § 22 Geschäftsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006104140)
 
 (1) Der Lohnsteuerhilfeverein hat die Vollständigkeit und Richtigkeit
 der Aufzeichnungen und der Vermögensübersicht (§ 21 Abs. 1 bis 3)
@@ -1388,6 +1430,7 @@ berichten.
 
 
 ##### § 23 Ausübung der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11, Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006209123)
 
 (1) Die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4
 Nr. 11 darf nur durch Personen ausgeübt werden, die einer
@@ -1453,6 +1496,7 @@ Verzeichnis der Lohnsteuerhilfevereine eingetragen sind.
 
 
 ##### § 24 Abwicklung der schwebenden Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006304123)
 
 (1) Ist die Anerkennung als Lohnsteuerhilfeverein erloschen,
 zurückgenommen oder widerrufen worden, so kann die Aufsichtsbehörde
@@ -1470,6 +1514,7 @@ Monaten erteilt werden; sie kann jederzeit widerrufen werden.
 
 
 ##### § 25 Haftungsausschluss, Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006405123)
 
 (1) Bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach
 § 4 Nr. 11 für die Mitglieder kann die Haftung des Vereins für das
@@ -1486,6 +1531,7 @@ die Aufsichtsbehörde.
 
 
 ##### § 26 Allgemeine Pflichten der Lohnsteuerhilfevereine
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006502140)
 
 (1) Die Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4
 Nr. 11 ist sachgemäß, gewissenhaft, verschwiegen und unter Beachtung
@@ -1507,10 +1553,12 @@ aufzubewahren. § 66 ist sinngemäß anzuwenden.
 
 
 #### Vierter Unterabschnitt - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001100319)
 
 
 
 ##### § 27 Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006602140)
 
 (1) Aufsichtsbehörde ist die Oberfinanzdirektion oder die durch die
 Landesregierung bestimmte Landesfinanzbehörde. Sie führt die Aufsicht
@@ -1529,6 +1577,7 @@ hat.
 
 
 ##### § 28 Pflicht zum Erscheinen vor der Aufsichtsbehörde, Befugnisse der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006704123)
 
 (1) Die Mitglieder des Vorstandes eines Lohnsteuerhilfevereins und die
 Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen
@@ -1568,6 +1617,7 @@ anordnen.
 
 
 ##### § 29 Teilnahme der Aufsichtsbehörde an Mitgliederversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006801309)
 
 (1) Von bevorstehenden Mitgliederversammlungen ist die
 Aufsichtsbehörde spätestens zwei Wochen vorher zu unterrichten.
@@ -1577,6 +1627,7 @@ Mitgliederversammlung Vertreter zu entsenden.
 
 
 ##### § 30 Verzeichnis der Lohnsteuerhilfevereine
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE006902140)
 
 (1) Die Aufsichtsbehörden führen ein Verzeichnis über
 
@@ -1594,10 +1645,12 @@ berechtigtes Interesse darlegt.
 
 
 #### Fünfter Unterabschnitt - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001200319)
 
 
 
 ##### § 31 Durchführungsbestimmungen zu den Vorschriften über die Lohnsteuerhilfevereine
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007007123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen zu
@@ -1639,14 +1692,17 @@ die jeweils für die Finanzverwaltung zuständige oberste Landesbehörde
 
 
 ## Zweiter Teil - Steuerberaterordnung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001300319)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001400319)
 
 
 
 #### § 32 Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007103123)
 
 (1) Steuerberater, Steuerbevollmächtigte und
 Berufsausübungsgesellschaften leisten geschäftsmäßig Hilfe in
@@ -1662,6 +1718,7 @@ bleibt unberührt.
 
 
 #### § 33 Inhalt der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007203123)
 
 Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
 haben die Aufgabe, im Rahmen ihres Auftrags ihre Auftraggeber in
@@ -1676,6 +1733,7 @@ von Bedeutung sind, und deren steuerrechtliche Beurteilung.
 
 
 #### § 34 Berufliche Niederlassung, weitere Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007309140)
 
 (1) Steuerberater und Steuerbevollmächtigte müssen unmittelbar nach
 der Bestellung eine berufliche Niederlassung begründen und eine solche
@@ -1705,14 +1763,17 @@ Steuerberaters oder Steuerbevollmächtigten zulässig.
 
 
 ### Zweiter Abschnitt - Voraussetzungen für die Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001500319)
 
 
 
 #### Erster Unterabschnitt - Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001600319)
 
 
 
 ##### § 35 Zulassung zur Prüfung, Befreiung von der Prüfung, organisatorische Durchführung der Prüfung, Abnahme der Prüfung, Wiederholung der Prüfung und Besetzung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007402140)
 
 (1) Als Steuerberater darf nur bestellt werden, wer die Prüfung als
 Steuerberater bestanden hat oder von dieser Prüfung befreit worden
@@ -1740,6 +1801,7 @@ des Prüfungsausschusses.
 
 
 ##### § 36 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007507123)
 
 (1) Die Zulassung zur Steuerberaterprüfung setzt voraus, dass der
 Bewerber,
@@ -1796,6 +1858,7 @@ Zulassung zur Prüfung beizufügen.
 
 
 ##### § 37 Steuerberaterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE021405123)
 
 (1) Mit der Prüfung hat der Bewerber darzutun, daß er in der Lage ist,
 den Beruf eines Steuerberaters ordnungsgemäß auszuüben.
@@ -1844,6 +1907,7 @@ sind.
 
 
 ##### § 37a Prüfung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022905123)
 
 (1) Wirtschaftsprüfer und vereidigte Buchprüfer sowie Bewerber, die
 die Prüfung als Wirtschaftsprüfer oder vereidigter Buchprüfer
@@ -1957,6 +2021,7 @@ gelten im Übrigen die Vorschriften für die Steuerberaterprüfung.
 
 
 ##### § 37b Zuständigkeit für die Zulassung zur Prüfung, für die Befreiung von der Prüfung, für die organisatorische Durchführung der Prüfung, für die Abnahme der Prüfung und für die Berufung und Abberufung des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023001140)
 
 (1) Für die Zulassung zur Prüfung, für die Befreiung von der Prüfung
 und für die organisatorische Durchführung der Prüfung ist die
@@ -2000,6 +2065,7 @@ Es können mehrere Prüfungsausschüsse gebildet werden.
 
 
 ##### § 38 Voraussetzungen für die Befreiung von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007705140)
 
 (1) Von der Steuerberaterprüfung sind zu befreien
 
@@ -2072,6 +2138,7 @@ Fraktion des Deutschen Bundestages von der Prüfung befreit werden.
 
 
 ##### § 38a Verbindliche Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022601140)
 
 (1) Auf Antrag erteilt die zuständige Steuerberaterkammer eine
 verbindliche Auskunft über die Erfüllung einzelner Voraussetzungen für
@@ -2082,6 +2149,7 @@ entsprechend.
 
 
 ##### § 39 Gebühren für Zulassung, Prüfung, Befreiung und verbindliche Auskunft, Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007805140)
 
 (1) Für die Bearbeitung des Antrags auf Zulassung zur Prüfung, auf
 Befreiung von der Prüfung oder auf Erteilung einer verbindlichen
@@ -2118,6 +2186,7 @@ Finanzverwaltung zuständigen obersten Landesbehörde verlangen.
 
 
 ##### § 39a Rücknahme von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022702123)
 
 (1) Die Zulassung zur Prüfung oder die Befreiung von der Prüfung ist
 von der zuständigen Steuerberaterkammer, die Prüfungsentscheidung ist
@@ -2155,10 +2224,12 @@ so ruht dieses bis zum Ausgang des Verfahrens.
 
 
 #### Zweiter Unterabschnitt - Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001700319)
 
 
 
 ##### § 40 Bestellende Steuerberaterkammer, Bestellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE007907123)
 
 (1) Nach bestandener Prüfung oder nach der Befreiung von der Prüfung
 ist der Bewerber auf Antrag durch die zuständige Steuerberaterkammer
@@ -2229,6 +2300,7 @@ anderes bestimmt ist.
 
 
 ##### § 40a Aussetzung des Bestellungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024800123)
 
 Die Entscheidung über den Antrag auf Bestellung zum Steuerberater kann
 ausgesetzt werden, wenn gegen die antragstellende Person ein Verfahren
@@ -2238,6 +2310,7 @@ zur Folge haben würde.
 
 
 ##### § 41 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008004123)
 
 (1) Die Bestellung zum Steuerberater wird mit der Aushändigung einer
 von der Steuerberaterkammer ausgestellten Urkunde wirksam.
@@ -2252,6 +2325,7 @@ bestellenden Steuerberaterkammer.
 
 
 ##### § 42 Steuerbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008101301)
 
 Steuerbevollmächtigter ist, wer nach den Vorschriften dieses Gesetzes
 als solcher bestellt ist. Die Vorschriften für die Bestellung als
@@ -2260,6 +2334,7 @@ sinngemäß anzuwenden.
 
 
 ##### § 43 Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008203301)
 
 (1) Die Berufsbezeichnung lautet "Steuerberater" oder
 "Steuerbevollmächtigter". Frauen können die Berufsbezeichnung
@@ -2284,6 +2359,7 @@ und Rechtsanwaltsgesellschaften keine Anwendung.
 
 
 ##### § 44 Bezeichnung "Landwirtschaftliche Buchstelle"
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008306123)
 
 (1) Steuerberatern, Steuerbevollmächtigten, Rechtsanwälten und
 niedergelassenen europäischen Rechtsanwälten, die eine besondere
@@ -2354,6 +2430,7 @@ ist.
 
 
 ##### § 45 Erlöschen der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008402301)
 
 (1) Die Bestellung als Steuerberater oder Steuerbevollmächtigter
 erlischt durch
@@ -2384,6 +2461,7 @@ die Bestellung als Steuerberater.
 
 
 ##### § 46 Rücknahme und Widerruf der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008512123)
 
 (1) Die Bestellung ist zurückzunehmen, wenn der Steuerberater oder
 Steuerbevollmächtigte die Bestellung durch arglistige Täuschung,
@@ -2456,6 +2534,7 @@ hören.
 
 
 ##### § 47 Erlöschen der Befugnis zur Führung der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008604123)
 
 (1) Mit dem Erlöschen, der Rücknahme oder dem Widerruf der Bestellung
 erlischt die Befugnis, die Berufsbezeichnung "Steuerberater" oder
@@ -2485,6 +2564,7 @@ werden kann.
 
 
 ##### § 48 Wiederbestellung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008706123)
 
 (1) Ehemalige Steuerberater und Steuerbevollmächtigte können
 wiederbestellt werden,
@@ -2518,10 +2598,12 @@ Gebührenordnung nach § 79 Abs. 2 etwas anderes bestimmt ist.
 
 
 #### Dritter Unterabschnitt - Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG001801123)
 
 
 
 ##### § 49 Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008806123)
 
 (1) Steuerberater und Steuerbevollmächtigte dürfen sich zu
 Berufsausübungsgesellschaften verbinden. Sie dürfen sich zur Ausübung
@@ -2555,6 +2637,7 @@ Rechtsformen haben:
 
 
 ##### § 50 Berufsausübungsgesellschaften mit Angehörigen anderer Berufe
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE008906123)
 
 (1) Die Verbindung zu einer Berufsausübungsgesellschaft nach § 49 ist
 Steuerberatern und Steuerbevollmächtigten auch gestattet
@@ -2611,6 +2694,7 @@ Steuerberaters oder Steuerbevollmächtigten dienen.
 
 
 ##### § 51 Berufspflichten bei beruflicher Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009006123)
 
 (1) Gesellschafter, die Angehörige eines in § 50 Absatz 1 Satz 1
 genannten Berufs sind, haben bei ihrer Tätigkeit für die
@@ -2652,6 +2736,7 @@ die Mandatsgesellschaft Sorge zu tragen.
 
 
 ##### § 52 Berufspflichten der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009104123)
 
 (1) Die §§ 57 und 57a, 62, 62a, 63 bis 66, 69 bis 71 sowie 80 Absatz 1
 Satz 1 und 2 gelten für Berufsausübungsgesellschaften sinngemäß.
@@ -2680,6 +2765,7 @@ Mandatsgesellschaft Sorge zu tragen. Absatz 4 gilt entsprechend.
 
 
 ##### § 53 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009206123)
 
 (1) Berufsausübungsgesellschaften bedürfen der Anerkennung durch die
 Steuerberaterkammer, in deren Kammerbezirk die
@@ -2758,6 +2844,7 @@ Deckungszusage angegeben ist, die Anerkennung mit.
 
 
 ##### § 54 Anerkennungsverfahren; Gebühr; Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009305123)
 
 (1) Der Antrag auf Anerkennung muss folgende Angaben enthalten:
 
@@ -2803,6 +2890,7 @@ gilt entsprechend.
 
 
 ##### § 55 Erlöschen, Rücknahme und Widerruf der Anerkennung; Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009408123)
 
 (1) Die Anerkennung erlischt durch
 
@@ -2871,6 +2959,7 @@ Abwicklers haften die Gesellschafter als Gesamtschuldner.
 
 
 ##### § 55a Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025402123)
 
 (1) Gesellschafter einer Berufsausübungsgesellschaft können auch sein:
 
@@ -2918,6 +3007,7 @@ Ausübung von Gesellschafterrechten bevollmächtigen.
 
 
 ##### § 55b Geschäftsführungsorgane; Aufsichtsorgane
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025501123)
 
 (1) Nur Steuerberater, Steuerbevollmächtigte oder Angehörige eines der
 in § 50 Absatz 1 Satz 1 genannten Berufe können Mitglieder des
@@ -2975,9 +3065,11 @@ Geschäftsbetrieb sind die Absätze 1, 5 und 6 entsprechend anzuwenden.
 
 
 ##### § 55c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025601123)
 
 
 ##### § 55d Vertretung vor Gerichten und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025700123)
 
 (1) Berufsausübungsgesellschaften können als Prozess- und
 Verfahrensbevollmächtigte beauftragt werden. Sie haben in diesem Fall
@@ -2990,6 +3082,7 @@ Voraussetzungen im Einzelfall vorliegen müssen.
 
 
 ##### § 55e Berufliche Niederlassung der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025800123)
 
 (1) Die Berufsausübungsgesellschaft muss an ihrem Sitz eine berufliche
 Niederlassung unterhalten, in der oder in deren Nahbereich zumindest
@@ -3005,6 +3098,7 @@ zu benennen.
 
 
 ##### § 55f Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE025903123)
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine
 Berufshaftpflichtversicherung abzuschließen und während der Dauer
@@ -3051,6 +3145,7 @@ Mindestversicherungssumme belaufen.
 
 
 ##### § 55g Steuerberatungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026000123)
 
 Berufsausübungsgesellschaften, bei denen Steuerberater und
 Steuerbevollmächtigte die Mehrheit der Stimmrechte innehaben und bei
@@ -3060,6 +3155,7 @@ Steuerberater oder Steuerbevollmächtigte sind, dürfen die Bezeichnung
 
 
 ##### § 55h Bürogemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026100123)
 
 (1) Steuerberater oder Steuerbevollmächtigte können sich zu einer
 Gesellschaft verbinden, die der gemeinschaftlichen Organisation der
@@ -3088,13 +3184,16 @@ Bürogemeinschaft nach Absatz 2 entsprechend.
 
 
 ### Dritter Abschnitt - Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002001301)
 
 
 
 #### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022803123)
 
 
 #### § 57 Allgemeine Berufspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009605123)
 
 (1) Steuerberater und Steuerbevollmächtigte haben ihren Beruf
 unabhängig, eigenverantwortlich, gewissenhaft, verschwiegen und unter
@@ -3197,6 +3296,7 @@ Steuerbevollmächtigten nicht vereinbar sind, gelten insbesondere
 
 
 #### § 57a Werbung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022000301)
 
 Werbung ist nur erlaubt, soweit sie über die berufliche Tätigkeit in
 Form und Inhalt sachlich unterrichtet und nicht auf die Erteilung
@@ -3204,6 +3304,7 @@ eines Auftrags im Einzelfall gerichtet ist.
 
 
 #### § 58 Tätigkeit als Angestellter
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009707123)
 
 Steuerberater und Steuerbevollmächtigte dürfen ihren Beruf als
 Angestellte einer Person oder Vereinigung im Sinne des § 3 Satz 1
@@ -3285,6 +3386,7 @@ ausüben. Sie dürfen ferner tätig werden
 
 
 #### § 59 Steuerberater oder Steuerbevollmächtigte im öffentlich-rechtlichen Dienst- oder Amtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009801301)
 
 Ist ein Steuerberater oder Steuerbevollmächtigter ein öffentlich-
 rechtliches Dienstverhältnis als Wahlbeamter auf Zeit oder ein
@@ -3298,6 +3400,7 @@ der allgemeinen Berufspflichten dadurch nicht gefährdet wird.
 
 
 #### § 60 Eigenverantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE009901123)
 
 (1) Eigenverantwortliche Tätigkeit nach § 57 Abs. 1 üben nur aus
 
@@ -3321,6 +3424,7 @@ ihm die Freiheit zu pflichtmäßigem Handeln (§ 57) genommen wird.
 
 
 #### § 61 Ehemalige Angehörige der Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010000319)
 
 Ehemalige Beamte und Angestellte der Finanzverwaltung dürfen während
 eines Zeitraums von drei Jahren nach dem Ausscheiden aus dem
@@ -3330,6 +3434,7 @@ Ausscheiden materiell befaßt waren.
 
 
 #### § 62 Verschwiegenheitspflicht beschäftigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010102123)
 
 Steuerberater und Steuerbevollmächtigte haben die von ihnen
 beschäftigten Personen in Textform zur Verschwiegenheit zu
@@ -3352,6 +3457,7 @@ andere dieser Personen die Verpflichtung nach Satz 1 vorgenommen hat.
 
 
 #### § 62a Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024500360)
 
 (1) Steuerberater und Steuerbevollmächtigte dürfen Dienstleistern den
 Zugang zu Tatsachen eröffnen, auf die sich die Verpflichtung zur
@@ -3415,6 +3521,7 @@ unberührt.
 
 
 #### § 63 Mitteilung der Ablehnung eines Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010200319)
 
 Steuerberater und Steuerbevollmächtigter, die in ihrem Beruf in
 Anspruch genommen werden und den Auftrag nicht annehmen wollen, haben
@@ -3424,6 +3531,7 @@ entsteht.
 
 
 #### § 64 Gebührenordnung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010305123)
 
 (1) Steuerberater, Steuerbevollmächtigte und
 Berufsausübungsgesellschaften sind an eine Gebührenordnung gebunden,
@@ -3459,6 +3567,7 @@ Steuerberater oder Steuerbevollmächtigte.
 
 
 #### § 65 Pflicht zur Übernahme einer Prozessvertretung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010401123)
 
 Steuerberater haben im Verfahren vor den Gerichten der
 Finanzgerichtsbarkeit die Vertretung eines Beteiligten zu übernehmen,
@@ -3469,6 +3578,7 @@ wichtige Gründe vorliegen.
 
 
 #### § 65a Pflicht zur Übernahme der Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023800119)
 
 Steuerberater und Steuerbevollmächtigte sind verpflichtet, die in dem
 Beratungshilfegesetz vorgesehene Beratungshilfe zu übernehmen. Sie
@@ -3476,6 +3586,7 @@ können die Beratungshilfe im Einzelfall aus wichtigem Grund ablehnen.
 
 
 #### § 66 Handakten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010504123)
 
 (1) Der Steuerberater oder Steuerbevollmächtigte muss durch das Führen
 von Handakten ein geordnetes und zutreffendes Bild über die
@@ -3522,6 +3633,7 @@ Pflicht zur Aufbewahrung von Geschäftsunterlagen bleiben unberührt.
 
 
 #### § 67 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010607123)
 
 (1) Selbständige Steuerberater und Steuerbevollmächtigte sind
 verpflichtet, sich gegen die sich aus ihrer Berufstätigkeit nach den
@@ -3554,6 +3666,7 @@ der Nichterteilung der Auskunft hat.
 
 
 #### § 67a Vertragliche Begrenzung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022103123)
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem
 Steuerberater oder Steuerbevollmächtigten bestehenden
@@ -3581,10 +3694,12 @@ Erklärungen enthalten und bedarf der Textform.
 
 
 #### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010701301)
 
 
 
 #### § 69 Bestellung eines allgemeinen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010803140)
 
 (1) Steuerberater und Steuerbevollmächtigte müssen einen allgemeinen
 Vertreter bestellen, wenn sie länger als einen Monat daran gehindert
@@ -3652,6 +3767,7 @@ Vertreter gegenüber noch vorgenommen worden sind.
 
 
 #### § 70 Bestellung eines Praxisabwicklers
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE010903140)
 
 (1) Ist ein Steuerberater oder Steuerbevollmächtigter gestorben, kann
 die zuständige Steuerberaterkammer einen anderen Steuerberater oder
@@ -3697,6 +3813,7 @@ oder Steuerbevollmächtigten vor.
 
 
 #### § 71 Bestellung eines Praxistreuhänders
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011003301)
 
 (1) Soll die Praxis eines verstorbenen Steuerberaters oder
 Steuerbevollmächtigten auf eine bestimmte Person übertragen werden,
@@ -3724,15 +3841,18 @@ Bestellung verzichtet hat.
 
 
 #### § 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011106123)
 
 ....
 
 
 ### Vierter Abschnitt - Organisation des Berufs
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002100319)
 
 
 
 #### § 73 Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011205123)
 
 (1) Die Steuerberater und Steuerbevollmächtigten, die in einem
 Oberfinanzbezirk oder durch die Landesregierung bestimmten
@@ -3751,6 +3871,7 @@ Kammerbezirk fort, soweit die Landesregierung nichts anderes bestimmt.
 
 
 #### § 74 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011306123)
 
 (1) Mitglieder der Steuerberaterkammer sind außer Steuerberatern und
 Steuerbevollmächtigten die anerkannten Berufsausübungsgesellschaften,
@@ -3773,6 +3894,7 @@ anerkannt hat.
 
 
 #### § 74a Mitgliederakten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024901123)
 
 (1) Die Steuerberaterkammern führen zur Erfüllung ihrer Aufgaben Akten
 über ihre Mitglieder (§ 74). Mitgliederakten können teilweise oder
@@ -3831,6 +3953,7 @@ Mitglieder.
 
 
 #### § 75 Gemeinsame Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011403140)
 
 (1) Die Steuerberaterkammern können sich durch einen übereinstimmenden
 Beschluß der beteiligten Kammern für den Bereich eines oder mehrerer
@@ -3843,6 +3966,7 @@ Vereinbarung der beteiligten Länder vorliegt.
 
 
 #### § 76 Aufgaben der Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011511123)
 
 (1) Die Steuerberaterkammer hat die Aufgabe, die beruflichen Belange
 der Gesamtheit der Mitglieder zu wahren und die Erfüllung der
@@ -3957,6 +4081,7 @@ Tätigkeit fortgesetzt wird.
 
 
 #### § 76a Eintragung in das Berufsregister
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026202123)
 
 (1) In das Berufsregister sind einzutragen:
 
@@ -4172,6 +4297,7 @@ Zustellungsbevollmächtigte ansässig ist.
 
 
 #### § 76b Löschung aus dem Berufsregister
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026301123)
 
 (1) Aus dem Berufsregister sind zu löschen
 
@@ -4228,6 +4354,7 @@ mehr geführt werden darf.
 
 
 #### § 76c Mitteilungspflichten; Einsicht in das Berufsregister
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026401123)
 
 (1) Die in das Berufsregister einzutragenden Tatsachen sind der
 zuständigen Steuerberaterkammer von folgenden Personen mitzuteilen:
@@ -4292,6 +4419,7 @@ darlegt.
 
 
 #### § 76d Weitere Eintragungen in das Berufsregister
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026500123)
 
 (1) In das Berufsregister sind ferner einzutragen:
 
@@ -4333,6 +4461,7 @@ vorgenommen werden.
 
 
 #### § 76e Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026602123)
 
 (1) Im Januar eines jeden Kalenderjahres haben die Mitglieder des zur
 gesetzlichen Vertretung berufenen Organs oder die
@@ -4359,6 +4488,7 @@ unverzüglich anzuzeigen.
 
 
 #### § 77 Wahl des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011602123)
 
 (1) Der Vorstand der Steuerberaterkammer wird von den Mitgliedern
 gewählt.
@@ -4401,6 +4531,7 @@ vorsehen.
 
 
 #### § 77a Abteilungen des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022203123)
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Satzung der
 Steuerberaterkammer es zuläßt. Er überträgt den Abteilungen die
@@ -4425,6 +4556,7 @@ beantragt.
 
 
 #### § 77b Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024701123)
 
 Die Mitglieder eines Organs oder eines Ausschusses der
 Steuerberaterkammer üben ihre Tätigkeit ehrenamtlich aus. Sie können
@@ -4436,6 +4568,7 @@ werden von der Mitgliederversammlung beschlossen.
 
 
 #### § 77c Vorzeitiges Ausscheiden eines Vorstandsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026700123)
 
 (1) Ist ein Mitglied des Vorstands nicht mehr Mitglied der
 Steuerberaterkammer oder verliert es seine Wählbarkeit aus den in § 77
@@ -4452,6 +4585,7 @@ Mitgliedschaft führen.
 
 
 #### § 78 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011702123)
 
 Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung
 bedarf der Genehmigung der Aufsichtsbehörde. Die Satzung und deren
@@ -4459,6 +4593,7 @@ bedarf der Genehmigung der Aufsichtsbehörde. Die Satzung und deren
 
 
 #### § 79 Beiträge und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011804123)
 
 (1) Die Mitglieder sind verpflichtet, Beiträge nach Maßgabe einer
 Beitragsordnung zu leisten. Die Beitragsordnung bedarf der Genehmigung
@@ -4488,6 +4623,7 @@ Verwaltungsgebührenrecht des Landes.
 
 
 #### § 80 Pflicht zum Erscheinen vor der Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE011903123)
 
 (1) In Aufsichts- und Beschwerdesachen haben Mitglieder der
 Steuerberaterkammer dem Vorstand oder dem durch die Satzung bestimmten
@@ -4510,6 +4646,7 @@ gesetzliche Vertreter, die keine persönlichen Mitglieder sind.
 
 
 #### § 80a Zwangsgeld bei Verletzung von Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023302123)
 
 (1) Um ein Mitglied der Steuerberaterkammer zur Erfüllung seiner
 Pflichten nach § 80 anzuhalten, kann die für die Aufsichts- und
@@ -4549,6 +4686,7 @@ gelten.
 
 
 #### § 81 Rügerecht des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012002123)
 
 (1) Der Vorstand kann das Verhalten eines Mitglieds der
 Steuerberaterkammer, durch das dieses ihm obliegende Pflichten
@@ -4591,6 +4729,7 @@ entscheidet der Vorstand; Absatz 4 ist entsprechend anzuwenden.
 
 
 #### § 82 Antrag auf berufsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012102123)
 
 (1) Wird der Einspruch gegen den Rügebescheid durch den Vorstand der
 Steuerberaterkammer zurückgewiesen, so kann das Mitglied der
@@ -4649,6 +4788,7 @@ Berufsausübungsgesellschaften entsprechend anzuwenden. Die §§ 89b und
 
 
 #### § 83 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012202123)
 
 (1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die
 ihnen bei ihrer Tätigkeit im Vorstand über Steuerberater,
@@ -4695,6 +4835,7 @@ bis 4, 7 und 8 sinngemäß.
 
 
 #### § 84 Arbeitsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012302123)
 
 (1) Mehrere Steuerberaterkammern können sich zu einer nicht
 rechtsfähigen Arbeitsgemeinschaft zusammenschließen, wenn die
@@ -4708,6 +4849,7 @@ Arbeitsgemeinschaft tätig werden.
 
 
 #### § 85 Bundessteuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012405123)
 
 (1) Die Steuerberaterkammern bilden eine Bundeskammer. Diese führt die
 Bezeichnung "Bundessteuerberaterkammer".
@@ -4742,6 +4884,7 @@ bis 4, 7 und 8 sinngemäß.
 
 
 #### § 85a Aufgaben der Bundessteuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012512123)
 
 (1) Die Bundessteuerberaterkammer hat die ihr durch Gesetz
 zugewiesenen Aufgaben zu erfüllen.
@@ -4948,6 +5091,7 @@ Internetseite der Bundessteuerberaterkammer zu veröffentlichen.
 
 
 #### § 86 Zusammensetzung und Arbeitsweise der Satzungsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022302123)
 
 (1) Der Satzungsversammlung gehören als Mitglieder an: der Präsident
 der Bundessteuerberaterkammer, die Präsidenten der
@@ -5000,6 +5144,7 @@ in einer Geschäftsordnung regeln.
 
 
 #### § 86a Durchführung der Satzungsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE028500123)
 
 (1) Die Satzungsversammlung findet vorbehaltlich des Absatzes 2 in
 Präsenz aller Beteiligten am Ort der Versammlung statt.
@@ -5050,6 +5195,7 @@ stattfindet.
 
 
 #### § 86b Steuerberaterverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024202123)
 
 (1) Die Bundessteuerberaterkammer führt ein elektronisches
 Gesamtverzeichnis aller Mitglieder der Steuerberaterkammern nach § 74
@@ -5168,6 +5314,7 @@ datenschutzrechtliche Verantwortung für diese Daten.
 
 
 #### § 86c Steuerberaterplattform
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026801123)
 
 (1) Die Mitglieder der Steuerberaterkammern sowie die nach § 76a
 Absatz 2 in das Berufsregister eingetragenen
@@ -5204,6 +5351,7 @@ datenschutzrechtlicher Standards vorgeben.
 
 
 #### § 86d Besonderes elektronisches Steuerberaterpostfach
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE026901123)
 
 (1) Die Bundessteuerberaterkammer richtet über die
 Steuerberaterplattform für jeden Steuerberater und
@@ -5276,6 +5424,7 @@ und 6 entsprechend.
 
 
 #### § 86e Besonderes elektronisches Steuerberaterpostfach für Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027001123)
 
 (1) Die Bundessteuerberaterkammer richtet für jede im
 Steuerberaterverzeichnis eingetragene Berufsausübungsgesellschaft ein
@@ -5313,6 +5462,7 @@ stellen, die für deren Eintragung in das Berufsregister zuständig ist.
 
 
 #### § 86f Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027100123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung nach Anhörung der Bundessteuerberaterkammer und mit
@@ -5370,6 +5520,7 @@ Zustimmung des Bundesrates die Einzelheiten zu regeln
 
 
 #### § 86g Ersetzung der Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027201123)
 
 Ist nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen
 Rechtsverordnung für die Abgabe einer Erklärung die Schriftform
@@ -5384,6 +5535,7 @@ besonderen elektronischen Steuerberaterpostfach nach Satz 1 gleich.
 
 
 #### § 87 Beiträge zur Bundessteuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012600319)
 
 Die Bundessteuerberaterkammer erhebt von den Steuerberaterkammern
 Beiträge nach Maßgabe einer Beitragsordnung. Die Beitragsordnung
@@ -5392,6 +5544,7 @@ Beiträge wird von der Mitgliederversammlung festgesetzt.
 
 
 #### § 87a Wirtschaftsplan, Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023400140)
 
 (1) Die Bundessteuerberaterkammer ist berechtigt, abweichend von den
 Bestimmungen der Bundeshaushaltsordnung einen Wirtschaftsplan
@@ -5414,6 +5567,7 @@ der Bundeshaushaltsordnung.
 
 
 #### § 88 Staatsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012703301)
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde
 führt die Aufsicht über die Steuerberaterkammern, die den Sitz im
@@ -5429,14 +5583,17 @@ erforderlichen Anordnungen und Maßnahmen treffen.
 
 
 ### Fünfter Abschnitt - Berufsgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002200319)
 
 
 
 #### Erster Unterabschnitt - Die berufsgerichtliche Ahndung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002300319)
 
 
 
 ##### § 89 Ahndung einer Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012804123)
 
 (1) Gegen einen Steuerberater oder Steuerbevollmächtigten, der
 schuldhaft gegen Pflichten verstößt, die in diesem Gesetz oder in der
@@ -5485,6 +5642,7 @@ dieser angehört, können nebeneinander verhängt werden.
 
 
 ##### § 89a Leitungspersonen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027300123)
 
 Leitungspersonen einer Berufsausübungsgesellschaft sind
 
@@ -5513,6 +5671,7 @@ Leitungspersonen einer Berufsausübungsgesellschaft sind
 
 
 ##### § 89b Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027400123)
 
 Im Fall einer Gesamtrechtsnachfolge oder einer partiellen
 Gesamtrechtsnachfolge durch Aufspaltung (§ 123 Absatz 1 des
@@ -5521,6 +5680,7 @@ oder die Rechtsnachfolger verhängt werden.
 
 
 ##### § 90 Berufsgerichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE012905123)
 
 (1) Die berufsgerichtlichen Maßnahmen sind bei Verfahren gegen
 Steuerberater oder Steuerbevollmächtigte
@@ -5582,6 +5742,7 @@ können nebeneinander verhängt werden.
 
 
 ##### § 91 Rüge und berufsgerichtliche Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013002123)
 
 (1) Der Einleitung eines berufsgerichtlichen Verfahrens steht es nicht
 entgegen, daß der Vorstand der Steuerberaterkammer bereits wegen
@@ -5602,6 +5763,7 @@ ist.
 
 
 ##### § 92 Anderweitige Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013101123)
 
 Von einer berufsgerichtlichen Ahndung ist abzusehen, wenn
 
@@ -5626,6 +5788,7 @@ unberührt.
 
 
 ##### § 93 Verjährung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013202123)
 
 (1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
 Abweichend davon verjährt sie
@@ -5663,13 +5826,16 @@ Strafgesetzbuches entsprechend.
 
 
 ##### § 94 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013302123)
 
 
 #### Zweiter Unterabschnitt - Die Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002400319)
 
 
 
 ##### § 95 Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim Landgericht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013402301)
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im ersten
 Rechtszug eine Kammer des Landgerichts (Kammer für Steuerberater- und
@@ -5696,6 +5862,7 @@ oder Steuerbevollmächtigten als Beisitzern besetzt.
 
 
 ##### § 96 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013501309)
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im zweiten
 Rechtszug ein Senat des Oberlandesgerichts (Senat für Steuerberater-
@@ -5713,6 +5880,7 @@ oder Steuerbevollmächtigte mit.
 
 
 ##### § 97 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013602301)
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im dritten
 Rechtszug ein Senat des Bundesgerichtshofs (Senat für Steuerberater-
@@ -5725,10 +5893,12 @@ als Beisitzern.
 
 
 ##### § 98 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013701309)
 
 
 
 ##### § 99 Steuerberater oder Steuerbevollmächtigte als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013807123)
 
 (1) Die Beisitzer aus den Reihen der Steuerberater oder
 Steuerbevollmächtigten sind ehrenamtliche Richter.
@@ -5764,6 +5934,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ##### § 100 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE013902301)
 
 (1) Zum ehrenamtlichen Richter kann nur ein Steuerberater oder
 Steuerbevollmächtigter berufen werden, der in den Vorstand der
@@ -5793,6 +5964,7 @@ Nebenberuf tätig sein.
 
 
 ##### § 101 Enthebung vom Amt des Beisitzers
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014003377)
 
 (1) Ein Steuerberater oder Steuerbevollmächtigter ist in den Fällen
 der §§ 95 und 96 auf Antrag der für die Ernennung zuständigen Behörde,
@@ -5824,6 +5996,7 @@ Steuerbevollmächtigte zu hören.
 
 
 ##### § 102 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014101123)
 
 (1) Die Steuerberater oder Steuerbevollmächtigten haben in der
 Sitzung, zu der sie als ehrenamtliche Richter herangezogen werden, die
@@ -5837,6 +6010,7 @@ Präsident des Gerichts.
 
 
 ##### § 103 Reihenfolge der Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014201309)
 
 Die ehrenamtlichen Richter sind zu den einzelnen Sitzungen in der
 Reihenfolge einer Liste heranzuziehen, die der Präsident des Gerichts
@@ -5845,26 +6019,31 @@ des Geschäftsjahres aufstellt.
 
 
 ##### § 104 Entschädigung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014301301)
 
 Die ehrenamtlichen Richter erhalten eine Entschädigung nach dem
 Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### Dritter Unterabschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002500319)
 
 
 
 ##### Erster Teilabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002601123)
 
 
 
 ###### § 105 Vorschriften für das Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014400319)
 
 Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften.
 
 
 ###### § 106 Keine Verhaftung des Steuerberaters oder Steuerbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014500319)
 
 Der Steuerberater oder Steuerbevollmächtigte darf zur Durchführung des
 berufsgerichtlichen Verfahrens weder vorläufig festgenommen noch
@@ -5874,6 +6053,7 @@ Krankenhaus gebracht werden.
 
 
 ###### § 107 Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014601140)
 
 (1) Zu Verteidigern im berufsgerichtlichen Verfahren vor dem
 Landgericht und vor dem Oberlandesgericht können außer den in § 138
@@ -5886,6 +6066,7 @@ anzuwenden.
 
 
 ###### § 108 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014704123)
 
 Der Vorstand der Steuerberaterkammer und das Mitglied der
 Steuerberaterkammer sind befugt, die Akten, die dem Gericht vorliegen
@@ -5896,6 +6077,7 @@ Strafprozeßordnung ist insoweit entsprechend anzuwenden.
 
 
 ###### § 109 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014802123)
 
 (1) Ist gegen ein Mitglied der Steuerberaterkammer, das einer
 Verletzung seiner Pflichten beschuldigt wird, wegen desselben
@@ -5943,6 +6125,7 @@ im Straf- oder Bußgeldverfahren stellen.
 
 
 ###### § 110 Verhältnis des berufsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE014901123)
 
 (1) Über eine Pflichtverletzung eines Mitglieds einer
 Steuerberatungskammer, die zugleich Pflichten eines anderen Berufs
@@ -5966,6 +6149,7 @@ Pflichten.
 
 
 ###### § 111 Aussetzung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015000319)
 
 Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn in einem
 anderen gesetzlich geordneten Verfahren über eine Frage zu entscheiden
@@ -5974,6 +6158,7 @@ Verfahren von wesentlicher Bedeutung ist.
 
 
 ###### § 111a Berufsgerichtliches Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027500123)
 
 (1) Das berufsgerichtliche Verfahren gegen eine Leitungsperson und das
 berufsgerichtliche Verfahren gegen eine Berufsausübungsgesellschaft
@@ -5989,6 +6174,7 @@ erforderlich erscheinen.
 
 
 ###### § 111b Vertretung von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027600123)
 
 (1) Die Berufsausübungsgesellschaft wird vorbehaltlich des § 111c
 Absatz 1 Satz 2 im berufsgerichtlichen Verfahren durch ihre
@@ -6001,6 +6187,7 @@ Berufspflichtverletzung beschuldigt sind.
 
 
 ###### § 111c Besonderer Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027700123)
 
 (1) Hat die Berufsausübungsgesellschaft keinen gesetzlichen Vertreter
 oder sind alle gesetzlichen Vertreter der Berufsausübungsgesellschaft
@@ -6018,6 +6205,7 @@ zuständig.
 
 
 ###### § 111d Verfahrenseintritt von Rechtsnachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027800123)
 
 Im Fall einer Rechtsnachfolge (§ 89b) treten Rechtsnachfolger der
 Berufsausübungsgesellschaft in diejenige Lage des Verfahrens ein, in
@@ -6026,6 +6214,7 @@ Wirksamwerdens der Rechtsnachfolge befunden hat.
 
 
 ###### § 111e Vernehmung des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE027900123)
 
 (1) Dem gesetzlichen Vertreter der Berufsausübungsgesellschaft steht
 es im berufsgerichtlichen Verfahren frei, sich zu äußern oder nicht
@@ -6042,6 +6231,7 @@ Strafprozessordnung gelten entsprechend.
 
 
 ###### § 111f Berufs- und Vertretungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE028000123)
 
 In § 129 Absatz 1, § 134 Absatz 1, § 140 Absatz 1 und § 142 Nummer 1
 tritt an die Stelle der Ausschließung aus dem Beruf die Aberkennung
@@ -6049,10 +6239,12 @@ der Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen.
 
 
 ##### Zweiter Teilabschnitt - Das Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002701123)
 
 
 
 ###### § 112 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015102123)
 
 Die örtliche Zuständigkeit des Landgerichts bestimmt sich nach dem
 Sitz der Steuerberaterkammer, welcher das Mitglied der
@@ -6063,6 +6255,7 @@ Wechsel der Zuständigkeit.
 
 
 ###### § 113 Mitwirkung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015200319)
 
 Die Staatsanwaltschaft bei dem Oberlandesgericht, bei dem der Senat
 für Steuerberater- und Steuerbevollmächtigtensachen besteht, nimmt in
@@ -6071,6 +6264,7 @@ Steuerbevollmächtigtensachen die Aufgaben der Staatsanwaltschaft wahr.
 
 
 ###### § 114 Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015300319)
 
 Das berufsgerichtliche Verfahren wird dadurch eingeleitet, daß die
 Staatsanwaltschaft eine Anschuldigungsschrift bei dem Landgericht
@@ -6078,6 +6272,7 @@ einreicht.
 
 
 ###### § 115 Gerichtliche Entscheidung über die Einleitung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015402123)
 
 (1) Gibt die Staatsanwaltschaft einem Antrag des Vorstandes der
 Steuerberaterkammer, gegen ein Mitglied der Steuerberaterkammer das
@@ -6100,6 +6295,7 @@ Strafprozeßordnung entsprechend anzuwenden.
 
 
 ###### § 116 Antrag des Mitglieds der Steuerberaterkammer auf Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015502123)
 
 (1) Will sich das Mitglied der Steuerberaterkammer von dem Verdacht
 einer Pflichtverletzung befreien, so muss es bei der
@@ -6147,6 +6343,7 @@ durch den Vorstand der Steuerberaterkammer erteilt werden.
 
 
 ###### § 117 Inhalt der Anschuldigungsschrift
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015601123)
 
 In der Anschuldigungsschrift (§ 114 dieses Gesetzes sowie § 207 Abs. 3
 der Strafprozeßordnung) ist die dem Mitglied der Steuerberaterkammer
@@ -6159,6 +6356,7 @@ Steuerbevollmächtigtensachen beim Landgericht zu eröffnen.
 
 
 ###### § 118 Entscheidung über die Eröffnung des Hauptverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015701123)
 
 (1) In dem Beschluß, durch den das Hauptverfahren eröffnet wird, läßt
 die Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim
@@ -6174,6 +6372,7 @@ Staatsanwaltschaft die sofortige Beschwerde zu.
 
 
 ###### § 119 Rechtskraftwirkung eines ablehnenden Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015800319)
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
 anfechtbaren Beschluß abgelehnt, so kann der Antrag auf Einleitung des
@@ -6183,6 +6382,7 @@ rechtskräftig geworden ist, erneut gestellt werden.
 
 
 ###### § 120 Zustellung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE015901123)
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem Mitglied
 der Steuerberaterkammer spätestens mit der Ladung zuzustellen.
@@ -6191,6 +6391,7 @@ Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
 
 
 ###### § 121 Hauptverhandlung trotz Ausbleibens des Mitglieds der Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016001123)
 
 Die Hauptverhandlung kann gegen ein Mitglied der Steuerberaterkammer,
 das nicht erschienen ist, durchgeführt werden, wenn es ordnungsmäßig
@@ -6200,9 +6401,11 @@ zulässig.
 
 
 ###### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016104123)
 
 
 ###### § 123 Beweisaufnahme durch einen ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016201123)
 
 Die Kammer für Steuerberater- und Steuerbevollmächtigtensachen beim
 Landgericht kann ein Amtsgericht um die Vernehmung von Zeugen oder
@@ -6215,6 +6418,7 @@ zugemutet werden kann.
 
 
 ###### § 124 Verlesen von Protokollen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016301123)
 
 (1) Die Kammer für Steuerberater- und Steuerbevollmächtigtensachen
 beim Landgericht beschließt nach pflichtmäßigem Ermessen, ob die
@@ -6240,6 +6444,7 @@ Ablehnung des Antrags jetzt nicht mehr bestehen.
 
 
 ###### § 125 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016401123)
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
 Verkündung des Urteils.
@@ -6262,10 +6467,12 @@ des Verfahrens.
 
 
 ##### Dritter Teilabschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002801123)
 
 
 
 ###### § 126 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016500319)
 
 Für die Verhandlungen und Entscheidungen über Beschwerden ist der
 Senat für Steuerberater- und Steuerbevollmächtigtensachen beim
@@ -6273,6 +6480,7 @@ Oberlandesgericht zuständig.
 
 
 ###### § 127 Berufung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016603123)
 
 (1) Gegen das Urteil der Kammer für Steuerberater- und
 Steuerbevollmächtigtensachen beim Landgericht ist die Berufung an den
@@ -6293,6 +6501,7 @@ sinngemäß anzuwenden; hierbei lässt § 121 die sinngemäße Anwendung des
 
 
 ###### § 128 Mitwirkung der Staatsanwaltschaft im zweiten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016700319)
 
 Die Aufgaben der Staatsanwaltschaft im zweiten Rechtszug werden von
 der Staatsanwaltschaft bei dem Oberlandesgericht wahrgenommen, bei dem
@@ -6300,6 +6509,7 @@ der Senat für Steuerberater- und Steuerbevollmächtigtensachen besteht.
 
 
 ###### § 129 Revision
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016801123)
 
 (1) Gegen das Urteil des Senats für Steuerberater- und
 Steuerbevollmächtigtensachen beim Oberlandesgericht ist die Revision
@@ -6344,6 +6554,7 @@ Revisionsfrist.
 
 
 ###### § 130 Einlegung der Revision und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE016901123)
 
 (1) Die Revision ist binnen einer Woche bei dem Oberlandesgericht
 schriftlich einzulegen. Die Frist beginnt mit der Verkündung des
@@ -6362,16 +6573,19 @@ anderen Landes zurückverwiesen werden.
 
 
 ###### § 131 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017000319)
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
 
 ##### Vierter Teilabschnitt - Die Sicherung von Beweisen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG002901123)
 
 
 
 ###### § 132 Anordnung der Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017101123)
 
 (1) Wird ein berufsgerichtliches Verfahren gegen ein Mitglied der
 Steuerberaterkammer eingestellt, weil seine Bestellung zum
@@ -6391,6 +6605,7 @@ berufsrichterlichen Mitglieder mit der Beweisaufnahme beauftragen.
 
 
 ###### § 133 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017201123)
 
 (1) Die Kammer für Steuerberater- und Steuerbevollmächtigtensachen
 beim Landgericht hat von Amts wegen alle Beweise zu erheben, die eine
@@ -6414,10 +6629,12 @@ Anschrift dem Landgericht angezeigt hat.
 
 
 ##### Fünfter Teilabschnitt - Das Berufs- und Vertretungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003001123)
 
 
 
 ###### § 134 Voraussetzung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017301123)
 
 (1) Liegen dringende Gründe für die Annahme vor, dass gegen ein
 Mitglied der Steuerberaterkammer auf Ausschließung aus dem Beruf oder
@@ -6439,6 +6656,7 @@ berufsgerichtliche Verfahren anhängig ist.
 
 
 ###### § 135 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017401123)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, kann nur auf Grund mündlicher Verhandlung ergehen.
@@ -6461,12 +6679,14 @@ des Mitglieds der Steuerberaterkammer gebunden zu sein.
 
 
 ###### § 136 Abstimmung über das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017500319)
 
 Zur Verhängung des Berufs- oder Vertretungsverbots ist eine Mehrheit
 von zwei Dritteln der Stimmen erforderlich.
 
 
 ###### § 137 Verbot im Anschluss an die Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017602123)
 
 Hat das Gericht auf die Ausschließung aus dem Beruf oder Aberkennung
 der Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen
@@ -6477,6 +6697,7 @@ Steuerberaterkammer zu der Hauptverhandlung nicht erschienen ist.
 
 
 ###### § 138 Zustellung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017701123)
 
 Der Beschluß ist mit Gründen zu versehen. Er ist dem Mitglied der
 Steuerberaterkammer zuzustellen. War das Mitglied der
@@ -6486,6 +6707,7 @@ Gründe zuzustellen.
 
 
 ###### § 139 Wirkungen des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017801123)
 
 (1) Der Beschluß wird mit der Verkündung wirksam.
 
@@ -6512,6 +6734,7 @@ gegenüber vorgenommen werden.
 
 
 ###### § 140 Zuwiderhandlungen gegen das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE017901123)
 
 (1) Gegen ein Mitglied der Steuerberaterkammer, das einem gegen sich
 ergangenen Berufs- oder Vertretungsverbot wissentlich zuwiderhandelt,
@@ -6525,6 +6748,7 @@ zurückzuweisen.
 
 
 ###### § 141 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018000319)
 
 (1) Gegen den Beschluß, durch den das Landgericht oder das
 Oberlandesgericht ein Berufs- oder Vertretungsverbot verhängt, ist die
@@ -6544,6 +6768,7 @@ Strafprozeßordnung über die Beschwerde § 135 Abs. 1, 2 und 4 sowie die
 
 
 ###### § 142 Außerkrafttreten des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018101123)
 
 Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
@@ -6559,6 +6784,7 @@ Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
 
 ###### § 143 Aufhebung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018201123)
 
 (1) Das Berufs- oder Vertretungsverbot wird aufgehoben, wenn sich
 ergibt, daß die Voraussetzungen für seine Verhängung nicht oder nicht
@@ -6576,6 +6802,7 @@ wird, ist eine Beschwerde nicht zulässig.
 
 
 ###### § 144 Mitteilung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018301301)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, ist alsbald dem Präsidenten der zuständigen
@@ -6586,6 +6813,7 @@ aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
 
 
 ###### § 145 Bestellung eines Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018403123)
 
 (1) Für das Mitglied der Steuerberaterkammer, gegen das ein Berufs-
 oder Vertretungsverbot verhängt ist, wird im Fall des Bedürfnisses von
@@ -6604,10 +6832,12 @@ kann einen geeigneten Vertreter vorschlagen.
 
 
 #### Vierter Unterabschnitt - Die Kosten in dem berufsgerichtlichen und in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten. Die Tilgung.
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003100319)
 
 
 
 ##### § 146 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018502123)
 
 Im berufsgerichtlichen Verfahren und im Verfahren über den Antrag auf
 Entscheidung des Landgerichts über die Rüge (§ 82 Abs. 1) werden
@@ -6617,6 +6847,7 @@ Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden.
 
 
 ##### § 147 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018602123)
 
 (1) Einem Mitglied der Steuerberaterkammer, das einen Antrag auf
 gerichtliche Entscheidung über die Entschließung der
@@ -6630,6 +6861,7 @@ Steuerberaterkammer aufzuerlegen.
 
 
 ##### § 148 Kostenpflicht des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018702123)
 
 (1) Dem Mitglied der Steuerberaterkammer, das in dem
 berufsgerichtlichen Verfahren verurteilt wird, sind zugleich die in
@@ -6655,6 +6887,7 @@ worden sind, ist Absatz 2 entsprechend anzuwenden.
 
 
 ##### § 149 Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018802123)
 
 (1) Wird der Antrag auf berufsgerichtliche Entscheidung über die Rüge
 als unbegründet zurückgewiesen, so ist § 148 Abs. 1 Satz 1
@@ -6679,6 +6912,7 @@ aufzuerlegen.
 
 
 ##### § 150 Haftung der Steuerberaterkammer
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE018903123)
 
 Auslagen, die weder dem Mitglied der Steuerberaterkammer noch einem
 Dritten auferlegt noch von dem Mitglied der Steuerberaterkammer
@@ -6687,6 +6921,7 @@ welcher das Mitglied der Steuerberaterkammer angehört.
 
 
 ##### § 151 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019002123)
 
 (1) Die Ausschließung aus dem Beruf (§ 90 Absatz 1 Nummer 5) und die
 Aberkennung der Befugnis zur geschäftsmäßigen Hilfeleistung in
@@ -6710,6 +6945,7 @@ Geldbuße.
 
 
 ##### § 152 Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019103123)
 
 (1) Eintragungen in den über das Mitglied der Steuerberaterkammer
 geführten Akten über die in den Sätzen 4 und 5 genannten Maßnahmen und
@@ -6795,10 +7031,12 @@ betroffen.
 
 
 #### Fünfter Unterabschnitt - Für die Berufsgerichtsbarkeit anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003202301)
 
 
 
 ##### § 153
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019204123)
 
 (1) Für die Berufsgerichtsbarkeit sind ergänzend das
 Gerichtsverfassungsgesetz und die Strafprozeßordnung sinngemäß
@@ -6810,10 +7048,12 @@ anzuwenden.
 
 
 ### Sechster Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003301301)
 
 
 
 #### § 154 Bestehende Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019303123)
 
 (1) Steuerberatungsgesellschaften, die am 16. Juni 1989 anerkannt
 sind, bleiben anerkannt. Dies gilt auch, wenn die Gesellschaft zur
@@ -6863,6 +7103,7 @@ wenn
 
 
 #### § 155 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung des Steuerberatungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019405123)
 
 (1) Gesellschaften und Personenvereinigungen, die nach § 4 Nr. 8 in
 der am 15. Juni 1989 geltenden Fassung zur geschäftsmäßigen
@@ -6892,6 +7133,7 @@ Tätigkeiten, die vor dem 16. Juni 1989 ausgeübt worden sind.
 
 
 #### § 156 Übergangsvorschriften aus Anlass des Sechsten Gesetzes zur Änderung des Steuerberatungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019502123)
 
 § 36 Absatz 1 Satz 1 Nummer 2 und Absatz 3 gilt für Bewerber, die in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet einen
@@ -6901,6 +7143,7 @@ Fachschulabschluss vier Jahre praktisch tätig gewesen sind.
 
 
 #### § 157 Übergangsvorschriften aus Anlass des Gesetzes zur Änderung von Vorschriften über die Tätigkeit der Steuerberater
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019605140)
 
 (1) Prozessagenten im Sinne des § 11 in der bis zum 30. Juni 2000
 geltenden Fassung sind weiterhin zur geschäftsmäßigen Hilfeleistung in
@@ -6938,6 +7181,7 @@ Finanzverwaltung wahrgenommen.
 
 
 #### § 157a Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023501123)
 
 Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche
 Verfahren gegen ein Mitglied eines Geschäftsführungs- oder
@@ -6949,6 +7193,7 @@ der Patentanwaltsordnung die Zuständigkeit für das Verfahren zukommt.
 
 
 #### § 157b Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022402140)
 
 § 154 Absatz 2 Satz 2 Nummer 2 in der Fassung des Artikels 14 des
 Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) ist auf alle bei
@@ -6957,6 +7202,7 @@ Verfahren anzuwenden.
 
 
 #### § 157c Anwendungsvorschrift zu § 36 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE024600123)
 
 § 36 Absatz 2 in der Fassung des Artikels 5 des Gesetzes vom 22.
 November 2019 (BGBl. I S. 1746) ist erstmals auf Prüfungen anzuwenden,
@@ -6964,6 +7210,7 @@ die nach dem 31. Dezember 2020 beginnen.
 
 
 #### § 157d Anwendungsvorschrift aus Anlass des Gesetzes zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE028101123)
 
 (1) Wenn eine Gesellschaft vor dem 1. August 2022 als
 Steuerberatungsgesellschaft anerkannt wurde, gilt diese Anerkennung
@@ -6988,10 +7235,12 @@ Satz 2 sowie § 55d zu.
 
 
 ### Siebenter Abschnitt - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003400319)
 
 
 
 #### § 158 Durchführungsbestimmungen zu den Vorschriften über Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019706123)
 
 Die Bundesregierung wird ermächtigt, nach Anhören der
 Bundessteuerberaterkammer mit Zustimmung des Bundesrates durch
@@ -7046,23 +7295,28 @@ Rechtsverordnung Bestimmungen zu erlassen
 
 
 ## Dritter Teil - Zwangsmittel, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003501309)
 
 
 
 ### Erster Abschnitt - Vollstreckung wegen Handlungen und Unterlassungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003600319)
 
 
 
 #### § 159 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019801309)
 
 Die Anwendung von Zwangsmitteln richtet sich nach der Abgabenordnung.
 
 
 ### Zweiter Abschnitt - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003700319)
 
 
 
 #### § 160 Unbefugte Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE019904123)
 
 (1) Ordnungswidrig handelt, wer einer vollziehbaren Anordnung nach § 7
 Absatz 1 oder 2 Satz 1 zuwiderhandelt.
@@ -7072,6 +7326,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 #### § 161 Schutz der Bezeichnungen "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein" und "Landwirtschaftliche Buchstelle"
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020001301)
 
 (1) Ordnungswidrig handelt, wer unbefugt die Bezeichnung
 "Steuerberatungsgesellschaft", "Lohnsteuerhilfeverein",
@@ -7083,6 +7338,7 @@ Euro geahndet werden.
 
 
 #### § 162 Verletzung der den Lohnsteuerhilfevereinen obliegenden Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020108123)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -7137,6 +7393,7 @@ geahndet werden.
 
 
 #### § 163 Pflichtverletzung von Personen, deren sich der Verein bei der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nummer 11 bedient
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020204123)
 
 (1) Ordnungswidrig handelt, wer entgegen § 26 Abs. 2 in Verbindung mit
 der Hilfeleistung in Steuersachen im Rahmen der Befugnis nach § 4 Nr.
@@ -7147,6 +7404,7 @@ fünfundzwanzigtausend Euro geahndet werden.
 
 
 #### § 164 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020300319)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist das Finanzamt, § 387 Abs. 2 der
@@ -7156,10 +7414,12 @@ Bußgeldverfahren § 410 Abs. 1 Nr. 1, 2, 6 bis 11 und Abs. 2 sowie §
 
 
 ## Vierter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNG003801123)
 
 
 
 ### § 164a Verwaltungsverfahren und finanzgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020407123)
 
 (1) Die Durchführung des Verwaltungsverfahrens in öffentlich-
 rechtlichen und berufsrechtlichen Angelegenheiten, die durch den
@@ -7195,6 +7455,7 @@ Landesbehörde verlangen.
 
 
 ### § 164b Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE022500301)
 
 (1) Soweit dieses Gesetz für die Bearbeitung von Anträgen Gebühren
 vorsieht, sind diese bei der Antragstellung zu entrichten.
@@ -7204,6 +7465,7 @@ Gebühr zur Hälfte zu erstatten.
 
 
 ### § 164c Laufbahngruppenregelungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023700140)
 
 Soweit in diesem Gesetz die Bezeichnung gehobener und höherer Dienst
 verwendet wird, richtet sich die Zuordnung der Beamten zu einer dieser
@@ -7222,6 +7484,7 @@ zuzuordnen.
 
 
 ### § 165 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020501301)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen
@@ -7231,6 +7494,7 @@ Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ### § 166 Fortgeltung bisheriger Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020601301)
 
 Das Versorgungswerk der Kammer der Steuerberater und Helfer in
 Steuersachen für das Saarland bleibt aufrechterhalten. Die Regierung
@@ -7243,6 +7507,7 @@ zu erlassen.
 
 
 ### § 167 Freie und Hansestadt Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020701301)
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die
 Vorschriften dieses Gesetzes über die Zuständigkeit der Behörden dem
@@ -7250,6 +7515,7 @@ besonderen Verwaltungsaufbau in Hamburg anzupassen.
 
 
 ### § 168 Inkrafttreten des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE020800319)
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 166 Abs. 2 am ersten
 Kalendertage des dritten Kalendermonats nach seiner Verkündung in
@@ -7261,6 +7527,7 @@ Kraft.
 (zu § 86 Absatz 3a Satz 1)
 
 ### Anlage 1 Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE028400123)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 6 – 8)
 
@@ -7540,6 +7807,7 @@ Eine Vorschrift im Sinne des § 86 Absatz 3 Satz 3
 (zu § 146 Satz 1)
 
 ### Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/stberg/BJNR013010961.html#BJNR013010961BJNE023103123)
 
 (Fundstelle: BGBl. I 2006, 3434 u. 3435; bzgl. einzelner Änderungen
 vgl. Fußnote)

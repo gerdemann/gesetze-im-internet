@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000100000)
 
 Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (Abschlussprüferaufsichtsstelle) erhebt für
@@ -30,6 +31,7 @@ Verordnung.
 
 
 ## § 2 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000200000)
 
 (1) Die Gebühren werden gemäß den nachfolgenden Bestimmungen und dem
 Gebührenverzeichnis (Anlage) erhoben.
@@ -48,6 +50,7 @@ Auslagen zu erheben für
 
 
 ## § 3 Berechnung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000301125)
 
 (1) Für Leistungen in den einzelnen Tätigkeitsbereichen werden
 Festgebühren gemäß dem Gebührenverzeichnis (Anlage) erhoben.
@@ -72,6 +75,7 @@ Handelsgesetzbuchs erzielt hat.
 
 
 ## § 4 Gebührenermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000401125)
 
 Hat das Gesamthonorar der Praxis, das mit gesetzlichen
 Abschlussprüfungen bei Unternehmen von öffentlichem Interesse nach §
@@ -84,6 +88,7 @@ ermäßigt. § 3 Absatz 3 gilt entsprechend.
 
 
 ## § 5 Laufende Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000500000)
 
 Diese Verordnung ist auch auf Verfahren nach den Nummern 1 bis 9 der
 Anlage anzuwenden, die bereits vor dem 15. Juli 2016 begonnen haben,
@@ -95,6 +100,7 @@ werden um 50 Prozent ermäßigt.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/apasgebv/BJNR161510016.html#BJNR161510016BJNE000601125)
 
 (Fundstelle: BGBl. I 2016, 1616 - 1617)
 

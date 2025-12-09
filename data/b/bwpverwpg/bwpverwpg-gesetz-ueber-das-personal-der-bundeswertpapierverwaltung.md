@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zuordnung des Personals
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000100000)
 
 Die Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmer bei der
 Bundeswertpapierverwaltung sind ab dem 1. August 2006 solche bei dem
@@ -30,6 +31,7 @@ entsprechend.
 
 
 ## § 2 Zuweisung von Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000201123)
 
 (1) Den Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmern im
 Sinne des § 1 Satz 1 werden ab dem 1. August 2006 Tätigkeiten bei der
@@ -49,6 +51,7 @@ Bundesministerium des Innern, für Bau und Heimat ergänzend außer- und
 
 
 ## § 3 Entscheidungs- und Weisungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000301160)
 
 Gegenüber den in § 2 Abs. 1 bezeichneten Beschäftigten hat die
 Bundesrepublik Deutschland - Finanzagentur GmbH Entscheidungs- und
@@ -66,6 +69,7 @@ Deutschland - Finanzagentur GmbH zu regeln.
 
 
 ## § 4 Anwendbarkeit des Bundespersonalvertretungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000401123)
 
 Die in § 2 Abs. 1 benannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
@@ -74,6 +78,7 @@ Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 
 ## § 5 Geltung arbeitsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000500000)
 
 (1) Die in § 2 Abs. 1 genannten Beschäftigten gelten für die Anwendung
 der Vorschriften über die Vertretung der Arbeitnehmerinnen und
@@ -99,6 +104,7 @@ Vermögensfragen.
 
 
 ## § 6 Personalvertretungs- und betriebsverfassungsrechtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000600000)
 
 (1) Der Personalrat des Bundesamtes für zentrale Dienste und offene
 Vermögensfragen ist für diejenigen Personalangelegenheiten der in § 2
@@ -113,6 +119,7 @@ Deutschland - Finanzagentur GmbH wahrgenommen.
 
 
 ## § 7 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000700000)
 
 (1) Für die schwerbehinderten Menschen, die nach § 2 Abs. 1 bei der
 Bundesrepublik Deutschland - Finanzagentur GmbH tätig sind, ist das
@@ -126,6 +133,7 @@ Arbeitsverhältnisses mit dem Bund für die Anwendung der Vorschriften
 
 
 ## § 8 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000800000)
 
 (1) Der bei der Bundesrepublik Deutschland - Finanzagentur GmbH
 gebildete Betriebsrat wird ab dem 1. August 2006 um diejenigen
@@ -158,6 +166,7 @@ vorstehenden Bestimmungen entsprechend.
 
 
 ## § 9 Fortgeltung von Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE000900000)
 
 Die in der Bundeswertpapierverwaltung am 31. Juli 2006 bestehenden
 Dienstvereinbarungen gelten für die Beschäftigten nach § 2 Abs. 1 in
@@ -167,6 +176,7 @@ andere Regelungen ersetzt werden.
 
 
 ## § 10 Anhängige Beteiligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bwpverwpg/BJNR146900006.html#BJNR146900006BJNE001000000)
 
 Die bis zum 31. Juli 2006 förmlich eingeleiteten Beteiligungsverfahren
 im Bereich der Bundeswertpapierverwaltung, Verfahren vor der

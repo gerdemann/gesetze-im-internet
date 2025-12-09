@@ -19,6 +19,7 @@ Stand: Zuletzt geändert Art. 1 G v. 25.5.2020 I 1073
 
 
 ## § 1 Befristung von Arbeitsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000101119)
 
 (1) Für den Abschluss von Arbeitsverträgen für eine bestimmte Zeit
 (befristete Arbeitsverträge) mit wissenschaftlichem und künstlerischem
@@ -43,6 +44,7 @@ beschäftigen.
 
 
 ## § 2 Befristungsdauer; Befristung wegen Drittmittelfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000202360)
 
 (1) Die Befristung von Arbeitsverträgen des in § 1 Absatz 1 Satz 1
 genannten Personals, das nicht promoviert ist, ist bis zu einer Dauer
@@ -143,6 +145,7 @@ Absatz 1 zulässige Befristungsdauer angerechnet.
 
 
 ## § 3 Privatdienstvertrag
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000301119)
 
 Für einen befristeten Arbeitsvertrag, den ein Mitglied einer
 Hochschule, das Aufgaben seiner Hochschule selbständig wahrnimmt, zur
@@ -152,6 +155,7 @@ abschließt, gelten die Vorschriften der §§ 1, 2 und 6 entsprechend.
 
 
 ## § 4 Wissenschaftliches Personal an staatlich anerkannten Hochschulen
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000401119)
 
 Für den Abschluss befristeter Arbeitsverträge mit wissenschaftlichem
 und künstlerischem Personal an nach Landesrecht staatlich anerkannten
@@ -159,6 +163,7 @@ Hochschulen gelten die Vorschriften der §§ 1 bis 3 und 6 entsprechend.
 
 
 ## § 5 Wissenschaftliches Personal an Forschungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000501119)
 
 Für den Abschluss befristeter Arbeitsverträge mit wissenschaftlichem
 Personal an staatlichen Forschungseinrichtungen sowie an überwiegend
@@ -169,6 +174,7 @@ entsprechend.
 
 
 ## § 6 Wissenschaftliche und künstlerische Hilfstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000700119)
 
 Befristete Arbeitsverträge zur Erbringung wissenschaftlicher oder
 künstlerischer Hilfstätigkeiten mit Studierenden, die an einer
@@ -180,6 +186,7 @@ Arbeitsvertrages möglich.
 
 
 ## § 7 Rechtsgrundlage für bereits abgeschlossene Verträge; Übergangsregelung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000602119)
 
 (1) Für die seit dem 23. Februar 2002 bis zum 17. April 2007 an
 staatlichen und staatlich anerkannten Hochschulen sowie an
@@ -219,6 +226,7 @@ werden.
 
 
 ## § 8 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/wisszeitvg/BJNR050610007.html#BJNR050610007BJNE000800119)
 
 Die Auswirkungen dieses Gesetzes werden im Jahr 2020 evaluiert.
 

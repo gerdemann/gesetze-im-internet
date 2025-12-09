@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## Erster Abschnitt - Strafbefreiende Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNG000100000)
 
 
 
 ### § 1 Inhalt und Wirkung der strafbefreienden Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000100000)
 
 (1) Wer gegenüber den Finanzbehörden unrichtige oder unvollständige
 Angaben über steuerlich erhebliche Tatsachen gemacht oder die
@@ -129,6 +131,7 @@ Erklärung ausgeschlossen.
 
 
 ### § 2 Erklärungsberechtigte Person
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000200000)
 
 (1) Zur Abgabe der strafbefreienden Erklärung ist berechtigt, wer
 gegenüber den Finanzbehörden die unrichtigen oder unvollständigen
@@ -156,6 +159,7 @@ werden.
 
 
 ### § 3 Inhalt, Form und Adressat der strafbefreienden Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000300000)
 
 (1) Der Erklärende hat den nach § 1 zu entrichtenden Betrag selbst zu
 berechnen. Die strafbefreiende Erklärung ist nach amtlich
@@ -176,6 +180,7 @@ nach § 18 der Abgabenordnung zuständigen Finanzbehörde abzugeben.
 
 
 ### § 4 Umfang der Strafbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000400000)
 
 (1) Die Strafbefreiung erstreckt sich auf alle Taten im Sinne des § 1
 Abs. 1 Satz 1, die sich auf nach dem 31. Dezember 1992 und vor dem 1.
@@ -210,6 +215,7 @@ Abgabe der strafbefreienden Erklärung gegeben war.
 
 
 ### § 5 Strafausschluss in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000500000)
 
 Kann eine andere Tat wegen der Strafbarkeit nach den §§ 370 und 370a
 der Abgabenordnung nicht bestraft werden, so gilt dies auch dann, wenn
@@ -218,6 +224,7 @@ dieses Gesetzes entfällt.
 
 
 ### § 6 Steuerordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000600000)
 
 Die §§ 1 bis 5 gelten bei Steuerordnungswidrigkeiten  nach §§ 378 bis
 380 der Abgabenordnung und § 26b des Umsatzsteuergesetzes
@@ -225,6 +232,7 @@ entsprechend.
 
 
 ### § 7 Ausschluss der Straf- oder Bußgeldbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000700000)
 
 Straf- oder Bußgeldfreiheit tritt nicht ein, soweit vor Eingang der
 strafbefreienden Erklärung wegen einer Tat im Sinne des § 1 Abs. 1
@@ -263,10 +271,12 @@ festgestellt worden sind.
 
 
 ## Zweiter Abschnitt - Steuerrechtliche Wirkung der strafbefreienden Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNG000200000)
 
 
 
 ### § 8 Sachlicher Umfang der Abgeltungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000800000)
 
 (1) Soweit nach dem ersten Abschnitt Straf- oder Bußgeldfreiheit
 eintritt, erlöschen mit Entrichtung des nach § 1 zu zahlenden Betrags
@@ -294,12 +304,14 @@ Handlungen Gegenstand seiner strafbefreienden Erklärung waren.
 
 
 ### § 9 Persönlicher Umfang der Abgeltungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE000900000)
 
 Die Abgeltungswirkung nach § 8 erstreckt sich neben dem
 Steuerschuldner auf alle Gesamtschuldner.
 
 
 ### § 10 Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE001000000)
 
 (1) Der nach § 1 Abs. 1 Satz 1 Nr. 2 zu entrichtende Betrag gilt als
 Einkommensteuer; dies gilt nicht für Zwecke der Zuschlagsteuern.
@@ -321,10 +333,12 @@ der Finanzgerichtsordnung sind nicht anzuwenden.
 
 
 ## Dritter Abschnitt - Verjährung für Besteuerungszeiträume vor 1993
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNG000300000)
 
 
 
 ### § 11 Besondere Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE001100000)
 
 (1) Taten im Sinne des § 1 Abs. 1 Satz 1 und Handlungen im Sinne des §
 6, die sich auf vor dem 1. Januar 1993 entstandene Ansprüche auf
@@ -343,6 +357,7 @@ Einkommensteuergesetz vor dem 1. Januar 1993 einzubehalten waren.
 
 
 ### § 12 Besondere Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE001200000)
 
 Die in § 11 genannten Ansprüche gelten als erloschen, soweit sie der
 zuständigen Finanzbehörde bei Eingang einer wirksamen strafbefreienden
@@ -351,10 +366,12 @@ herausstellt, dass diese Erklärung unvollständig war.
 
 
 ## Vierter Abschnitt - Verwendungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNG000400000)
 
 
 
 ### § 13 Verwendungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/strabeg/BJNR292810003.html#BJNR292810003BJNE001300000)
 
 (1) Der Inhalt einer strafbefreienden Erklärung (geschützte Daten)
 darf vorbehaltlich des Absatzes 2 ohne Einwilligung des Betroffenen

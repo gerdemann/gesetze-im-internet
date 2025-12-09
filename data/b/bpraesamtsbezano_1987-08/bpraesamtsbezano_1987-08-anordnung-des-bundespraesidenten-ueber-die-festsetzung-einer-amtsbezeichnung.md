@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_samtsbezano_1987-08/BJNR021300987.html#BJNR021300987BJNE000100305)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich für den Direktor
 des Instituts für Arbeitsmarkt- und Berufsforschung und Leiter einer

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000000000)
 
 Auf Grund des § 24a des Gesetzes betreffend die Einführung der
 Zivilprozessordnung, der durch Artikel 5 Abs. 2a Nr. 1 des Gesetzes
@@ -29,6 +30,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000101125)
 
 Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
@@ -54,6 +56,7 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 
 ## § 2 Zulässige Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000200000)
 
 (1) Für den Vordruck nach § 1 Nr. 1 (Zustellungsurkunde) kann
 abweichend von dem in Anlage 1 bestimmten Muster einfarbiges gelbes
@@ -89,6 +92,7 @@ der Vorausverfügungen auf dem inneren Umschlag nicht.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000302125)
 
 Die Vordrucke nach den Anlagen 1 und 2 jeweils in der bis
 einschließlich 31. Juli 2025 geltenden Fassung können bis
@@ -96,16 +100,19 @@ einschließlich 31. Juli 2026 weiterverwendet werden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000400000)
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000602125)
 
 (Fundstelle: BGBl. 2025 I Nr. 103, S. 3 – 4)
 
@@ -113,6 +120,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 (zu § 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000701125)
 
 (Fundstelle: BGBl. 2025 I Nr. 103, S. 5)
 
@@ -121,6 +129,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 1 Nr. 3)
 
 ## Anlage 3 Äußerer Umschlag/Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000800000)
 
 (Fundstelle: BGBl. I 2002, 675)
 
@@ -128,6 +137,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 1 Nr. 4)
 
 ## Anlage 4 Benachrichtigung
+[Direktlink](https://www.gesetze-im-internet.de/zustvv/BJNR067100002.html#BJNR067100002BJNE000900000)
 
 (Fundstelle: BGBl. I 2002, 676)
 

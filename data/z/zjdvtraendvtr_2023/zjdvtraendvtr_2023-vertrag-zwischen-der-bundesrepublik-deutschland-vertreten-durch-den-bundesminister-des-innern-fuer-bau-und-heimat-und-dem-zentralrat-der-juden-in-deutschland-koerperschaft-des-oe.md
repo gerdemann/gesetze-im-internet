@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## Art 1 Leistungsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2023/BJNR1600B0023.html#BJNR1600B0023BJNE000100000)
 
 Artikel 2 Absatz 1 des Vertrages zwischen der Bundesrepublik
 Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft
@@ -37,6 +38,7 @@ treten, erfolgt eine rückwirkende Zahlung.“
 
 
 ## Art 2 Zustimmung des Deutschen Bundestages, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2023/BJNR1600B0023.html#BJNR1600B0023BJNE000200000)
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.
@@ -46,6 +48,7 @@ Vertrag zugestimmt wird, in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr_2023/BJNR1600B0023.html#BJNR1600B0023BJNE000300000)
 
 
 *    *

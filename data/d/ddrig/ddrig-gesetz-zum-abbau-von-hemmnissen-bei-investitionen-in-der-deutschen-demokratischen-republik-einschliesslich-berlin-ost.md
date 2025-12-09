@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in eine Kapitalgesellschaft oder Erwerbs- oder Wirtschaftsgenossenschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000200328)
 
 (1) Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des
 Einkommensteuergesetzes ermitteln und zum Anlagevermögen eines
@@ -94,6 +96,7 @@ einschließlich Berlin (Ost) sinngemäß anzuwenden.
 
 
 ## § 2 Steuerfreie Rücklage für Verluste einer Tochtergesellschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000300328)
 
 (1) Unbeschränkt Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder
 § 5 des Einkommensteuergesetzes ermitteln, können für Verluste einer
@@ -227,22 +230,26 @@ sinngemäß anzuwenden.
 
 
 ## § 3 Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000400328)
 
 Die Vorschriften der §§ 1 und 2 gelten auch für die Ermittlung des
 Gewerbeertrags nach § 7 des Gewerbesteuergesetzes.
 
 
 ## (XXXX) §§ 4 und 5
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000500328)
 
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000600328)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 7 Inkrafttreten, Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/ddrig/BJNR011430990.html#BJNR011430990BJNE000701309)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. Es ist
 erstmals anzuwenden für Wirtschaftsjahre, die im Veranlagungszeitraum

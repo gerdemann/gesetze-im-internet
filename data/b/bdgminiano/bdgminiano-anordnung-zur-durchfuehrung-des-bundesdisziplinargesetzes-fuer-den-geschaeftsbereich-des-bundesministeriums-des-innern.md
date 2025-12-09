@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000300305)
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1
 Satz 2 und des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli
@@ -29,10 +30,12 @@ Satz 2 und des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli
 
 
 ## I. - Geschäftsbereich des Bundesministeriums des Innern ohne Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNG000101310)
 
 
 
 ## 1.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000401310)
 
 Den Leiterinnen und Leitern der Behörden des Geschäftsbereichs werden
 für die ihnen nachgeordneten Beamtinnen und Beamten folgende
@@ -54,6 +57,7 @@ c)  Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamtinnen und
 
 
 ## 2.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000500305)
 
 Die Zuständigkeit zum Erlass von Widerspruchsbescheiden gemäß § 42
 Abs. 1 wird für die von ihnen erlassenen Verwaltungsakte auf die
@@ -61,10 +65,12 @@ Behörden des Geschäftsbereichs übertragen.
 
 
 ## II. - Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNG000201310)
 
 
 
 ## 1.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000601310)
 
 Die in § 1 Abs. 1 Nr. 2 und 3 der Verordnung zu § 82 des
 Bundesdisziplinargesetzes genannten Dienstvorgesetzten können im
@@ -75,6 +81,7 @@ Dienstbezüge bis zum Höchstmaß festsetzen.
 
 
 ## 2.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000701310)
 
 Die Zuständigkeit zur Erhebung der Disziplinarklage gegen
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte wird auf die in §
@@ -86,6 +93,7 @@ des Innern vom 29. Februar 2008 übertragen.
 
 
 ## 3.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000801310)
 
 Die Zuständigkeit zum Erlass von Widerspruchsbescheiden wird auf die
 in § 1 Abs. 1 Nr. 2 und 3 der Verordnung zu § 82 des
@@ -96,6 +104,7 @@ Widerspruch angefochtenen Verwaltungsakt erlassen haben.
 
 
 ## 4.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE000900305)
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde in Verfahren
 gegen Ruhestandsbeamtinnen und Ruhestandsbeamte werden den vor Beginn
@@ -103,12 +112,14 @@ des Ruhestandes zuständigen Einleitungsbehörden übertragen.
 
 
 ## 5.
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE001100310)
 
 Die vorstehenden Regelungen gelten für Verwaltungsbeamtinnen und
 Verwaltungsbeamte entsprechend.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgminiano/BJNR058009002.html#BJNR058009002BJNE001000305)
 
 Der Bundesminister des Innern
 

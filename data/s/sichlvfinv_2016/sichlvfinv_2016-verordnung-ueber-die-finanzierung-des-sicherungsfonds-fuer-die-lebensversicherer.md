@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000100000)
 
 Auf Grund des § 226 Absatz 7 des Versicherungsaufsichtsgesetzes vom 1.
 April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der
@@ -28,6 +29,7 @@ Verbraucherschutz:
 
 
 ## § 1 Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000200000)
 
 (1) Im Sicherungsfonds ist ein Sicherungsvermögen bereitzustellen. Der
 Umfang dieses Sicherungsvermögens soll 1 Promille der Summe der
@@ -46,6 +48,7 @@ vorhanden, im zuletzt aufgestellten Jahresabschluss ausgewiesen sind.
 
 
 ## § 2 Beteiligung am Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000301118)
 
 (1) Jedes Mitglied des Sicherungsfonds ist am Sicherungsvermögen
 beteiligt. Die Höhe der Beteiligung ist nach Maßgabe der Absätze 2 bis
@@ -131,6 +134,7 @@ entfallenden Sicherungsvermögen gemäß § 1 Absatz 1 entspricht.
 
 
 ## § 3 Jahresbeiträge und Anteile am Sicherungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000400000)
 
 (1) Die Mitglieder haben Jahresbeiträge zu leisten. Die Summe der
 Jahresbeiträge aller Mitglieder darf 0,2 Promille der Summe der
@@ -159,6 +163,7 @@ Bedeckung seiner versicherungstechnischen Rückstellungen im Sinne der
 
 
 ## § 4 Höhe der Jahresbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000500000)
 
 (1) Der Sicherungsfonds ermittelt einmal jährlich zum
 Bewertungsstichtag gemäß § 7 Absatz 2 für jedes Mitglied die Differenz
@@ -190,6 +195,7 @@ Vermeidung von Härten eine Beitragszahlung in Raten vereinbart werden.
 
 
 ## § 5 Sonderbeiträge und Kreditaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000600000)
 
 (1) Genügen die Mittel des Sicherungsfonds nicht zur Durchführung
 seiner gesetzlichen Aufgaben, sind Sonderbeiträge zu erheben. Die
@@ -243,6 +249,7 @@ gestellt werden.
 
 
 ## § 6 Befreiung von der Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000700000)
 
 Die Protektor Lebensversicherungs-AG, Berlin, ist von der Pflicht zur
 Zahlung von Jahres- und Sonderbeiträgen gemäß den §§ 3 und 5 befreit.
@@ -252,6 +259,7 @@ Lebensversicherungs-AG bleiben bei der Berechnung der Beiträge der
 
 
 ## § 7 Erhebung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000800000)
 
 (1) Die Jahresbeiträge (§ 3) sind spätestens zum 31. Oktober eines
 jeden Jahres, die Sonderbeiträge (§ 5) bei Bedarf zu erheben. Ihre
@@ -290,6 +298,7 @@ zur pauschalen Abgeltung der Verwaltungskosten erhoben.
 
 
 ## § 8 Ergebnisse des Sicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE000900000)
 
 Überschüsse des Sicherungsfonds werden im Folgejahr an die Mitglieder
 im Verhältnis ihrer Ist-Beteiligungen am Ende des betreffenden
@@ -298,6 +307,7 @@ Monat nach Feststellung des Jahresabschlusses des Sicherungsfonds.
 
 
 ## § 9 Verwendung des Sicherungsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE001000000)
 
 Wird das Sicherungsvermögen für die Sanierung eines übernommenen
 Versicherungsbestandes verwendet, so ist das hierfür eingesetzte
@@ -310,6 +320,7 @@ Mitglieds wird hierbei nicht berücksichtigt.
 
 
 ## § 10 Ausscheiden aus dem Sicherungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE001100000)
 
 (1) Scheidet ein Mitglied aus dem Sicherungsfonds aus, wird ihm der
 Zeitwert seiner Ist-Beteiligung zum Ausscheidungszeitpunkt ausbezahlt.
@@ -329,12 +340,14 @@ unberührt.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE001200000)
 
 Die Vorschriften dieser Verordnung sind erstmals auf die
 Jahresbeiträge für das Jahr 2017 anzuwenden.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sichlvfinv_2016/BJNR082800016.html#BJNR082800016BJNE001300000)
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 

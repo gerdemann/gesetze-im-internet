@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2012_2/BJNR246200012.html#BJNR246200012BJNE000100000)
 
 Gemäß § 115 Absatz 1 Satz 5 der Zivilprozessordnung in der Fassung der
 Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431;
@@ -63,6 +64,7 @@ Einkommen der Partei abzusetzen sind, betragen
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pkhb_2012_2/BJNR246200012.html#BJNR246200012BJNE000200000)
 
 Die Bundesministerin der Justiz
 

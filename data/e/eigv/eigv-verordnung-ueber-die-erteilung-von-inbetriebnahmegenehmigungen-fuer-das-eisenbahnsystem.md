@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000201124)
 
 (1) Diese Verordnung regelt die Bedingungen für das Inverkehrbringen
 und für die Inbetriebnahme von Bestandteilen des Eisenbahnsystems nach
@@ -86,6 +88,7 @@ Zuständigkeitsbereich des Eisenbahn-Bundesamtes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000301124)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -317,6 +320,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ### § 3 Grundlegende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000401124)
 
 Das Eisenbahnsystem, seine Teilsysteme und die
 Interoperabilitätskomponenten einschließlich ihrer Schnittstellen
@@ -325,6 +329,7 @@ Richtlinie (EU) 2016/797 jeweils für sie festgelegt sind.
 
 
 ### § 4 Anwendung der Technischen Spezifikationen für die Interoperabilität, der notifizierten technischen Vorschriften und der technischen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000501124)
 
 (1) Die Technischen Spezifikationen für die Interoperabilität sind
 nach Maßgabe der Anlage 1 anzuwenden. Die Pflicht zur Anwendung von
@@ -430,6 +435,7 @@ technische Vorschriften entsprechend.
 
 
 ### § 5 Ausnahmen von der Anwendung der Technischen Spezifikationen für die Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000601124)
 
 In den folgenden Fällen können Ausnahmen von der vollständigen oder
 teilweisen Anwendung der Technischen Spezifikationen für die
@@ -468,6 +474,7 @@ Interoperabilität zugelassen werden:
 
 
 ### § 5a Ausnahmeverfahren betreffend die Anwendung der Technischen Spezifikationen für die Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005100124)
 
 (1) Der Antrag auf Zulassung von Ausnahmen von der vollständigen oder
 teilweisen Anwendung der Technischen Spezifikationen für die
@@ -508,6 +515,7 @@ schriftlich oder elektronisch.
 
 
 ### § 6 Zur Erfüllung der grundlegenden Anforderungen anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000701124)
 
 (1) Für strukturelle Teilsysteme sind zur Erfüllung der grundlegenden
 Anforderungen einschließlich der technischen Kompatibilität und der
@@ -537,6 +545,7 @@ technischen Vorschriften anzuwenden.
 
 
 ### § 7 Notifizierung von technischen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000801124)
 
 (1) Das Eisenbahn-Bundesamt erstellt für jede anzuwendende Technische
 Spezifikation für die Interoperabilität bei Bedarf nach Anhörung der
@@ -610,6 +619,7 @@ notifizierenden technischen Vorschriften. Es gilt der Stand der
 
 
 ### § 8 Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE000901124)
 
 Die Genehmigungen oder Zulassungen nach den §§ 16, 17, 20, 26 und 27
 können mit Nebenbestimmungen versehen werden, soweit dies zur
@@ -618,12 +628,15 @@ Eisenbahnbetriebs erforderlich ist.
 
 
 ## Teil 2 - Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000201124)
 
 
 ### Kapitel 1 - Erteilung einer Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000301124)
 
 
 #### § 9 Erfordernis der Genehmigung für das Inverkehrbringen oder der Inbetriebnahmegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001001124)
 
 (1) Das erstmalige Inverkehrbringen eines Fahrzeugs bedarf einer
 Genehmigung für das Inverkehrbringen.
@@ -656,6 +669,7 @@ bedarf.
 
 
 #### § 10 Genehmigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001101124)
 
 (1) Die Genehmigungsstelle erteilt auf Antrag
 
@@ -692,6 +706,7 @@ beziehen, in deutscher Sprache vorzulegen.
 
 
 #### § 10a Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen Eisenbahninfrastruktur auf Grenzbetriebsstrecken und Durchgangsstrecken
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005200124)
 
 Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige
 Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen
@@ -710,9 +725,11 @@ Bahnübergängen.
 
 
 ### Kapitel 2 - Erteilung von Genehmigungen für das Inverkehrbringen von Fahrzeugen und von Fahrzeugtypgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000401124)
 
 
 #### § 11 Voraussetzungen und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001201124)
 
 (1) Die Voraussetzungen und das Verfahren für die Erteilung einer
 Genehmigung für das Inverkehrbringen von Fahrzeugen und einer
@@ -763,6 +780,7 @@ Satz 1 gilt auch für Durchgangsstrecken.
 
 
 #### § 12 Konformität von Fahrzeugen mit genehmigtem Fahrzeugtyp
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001301124)
 
 (1) Für Fahrzeuge oder für eine Serie von Fahrzeugen, die mit einem
 genehmigten Fahrzeugtyp übereinstimmen, ist eine Genehmigung für das
@@ -793,6 +811,7 @@ Richtlinie (EU) 2016/797 geändert wird.
 
 
 #### § 13 Fahrzeuge oder Fahrzeugtypen, die die grundlegenden Anforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001401124)
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass ein Fahrzeug oder ein
 Fahrzeugtyp,
@@ -829,6 +848,7 @@ Sicherheitsmaßnahmen ergreifen.
 
 
 #### § 14 Vorgehen im Fall eines Widerrufs einer Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001501124)
 
 (1) Wird eine Genehmigung für das Inverkehrbringen widerrufen, darf
 das entsprechende Fahrzeug nicht mehr eingesetzt werden und sein
@@ -849,9 +869,11 @@ nicht erfüllen.
 
 
 ### Kapitel 3 - Probefahrten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000501124)
 
 
 #### § 15 Probefahrten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001601124)
 
 (1) Eisenbahnen und Fahrzeughalter dürfen ohne Genehmigung
 Probefahrten durchführen, wenn hierbei die Sicherheit des
@@ -923,9 +945,11 @@ Antragsteller
 
 
 ### Kapitel 4 - Erteilung einer erstmaligen Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000601124)
 
 
 #### § 16 Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001701124)
 
 (1) Sofern Technische Spezifikationen für die Interoperabilität
 anzuwenden sind, ist die Inbetriebnahmegenehmigung zu erteilen, wenn
@@ -1050,6 +1074,7 @@ Bewertungsstelle kommen.
 
 
 #### § 17 Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001801124)
 
 Sofern Technische Spezifikationen für die Interoperabilität nicht
 anzuwenden sind, ist die Inbetriebnahmegenehmigung zu erteilen, wenn
@@ -1067,6 +1092,7 @@ die folgenden Vorschriften entsprechend erfüllt sind:
 
 
 #### § 18 Antrag auf Erteilung einer Inbetriebnahmegenehmigung und Pflichten des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE001901124)
 
 (1) Das Eisenbahninfrastrukturunternehmen hat den Antrag und die zur
 Prüfung des Antrags erforderlichen Unterlagen nach § 16 Absatz 1 Satz
@@ -1138,6 +1164,7 @@ Zustimmung im Einzelfall erteilen.
 
 
 #### § 19 Verfahren für die Erteilung einer Inbetriebnahmegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002001124)
 
 (1) Die Genehmigungsstelle prüft die Antragsunterlagen auf deren
 Vollständigkeit und Prüffähigkeit und bestätigt dem Antragsteller
@@ -1232,9 +1259,11 @@ Inbetriebnahmegenehmigung innerhalb von zwei Monaten.
 
 
 ### Kapitel 5 - Erteilung einer Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur nach Aufrüstung oder Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000701124)
 
 
 #### § 20 Aufrüstung und Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002101124)
 
 Die Inbetriebnahmegenehmigung eines aufgerüsteten oder erneuerten
 Teilsystems Infrastruktur, Energie, streckenseitige Zugsteuerung,
@@ -1247,6 +1276,7 @@ sind die Voraussetzungen nach § 16 oder § 17 zu erfüllen.
 
 
 #### § 21 Anzeige bei Aufrüstung und Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002201124)
 
 (1) Geplante Arbeiten an dem Teilsystem Infrastruktur, Energie,
 streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie an
@@ -1300,6 +1330,7 @@ die vollständigen Unterlagen nach Anlage 6 spätestens vorzulegen sind.
 
 
 #### § 22 Verfahren bei Aufrüstung und Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002301124)
 
 (1) Innerhalb eines Monats nach Eingang der Anzeige und der zur
 Prüfung erforderlichen Unterlagen entscheidet die Genehmigungsstelle,
@@ -1348,6 +1379,7 @@ Eisenbahnsystems einschließlich seiner Schnittstellen beschränkt.
 
 
 #### § 23 Zwischenzustände und zwischenzeitliche Betriebsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002401124)
 
 (1) Für Zwischenzustände ist keine Inbetriebnahmegenehmigung
 erforderlich. Die betriebliche Nutzung der Eisenbahninfrastruktur für
@@ -1378,9 +1410,11 @@ werden:
 
 
 ## Teil 3 - Interoperabilitätskomponenten, Bauprodukte und Systeme
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000800000)
 
 
 ### § 24 Inverkehrbringen und Verwenden von Interoperabilitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002501124)
 
 (1) Interoperabilitätskomponenten dürfen nur in Verkehr gebracht
 werden, wenn
@@ -1433,6 +1467,7 @@ Bezug auf ihre Verwendung.
 
 
 ### § 25 Interoperabilitätskomponenten, die die grundlegenden Anforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002601124)
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass eine
 Interoperabilitätskomponente,
@@ -1474,6 +1509,7 @@ erläutert insbesondere, inwieweit
 
 
 ### § 25a Maßnahmen gegenüber dem Hersteller, wenn Interoperabilitätskomponenten die grundlegenden Anforderungen nicht erfüllen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005300124)
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass die EG-
 Konformitätserklärung oder die EG-Gebrauchstauglichkeitserklärung
@@ -1500,6 +1536,7 @@ Maßnahmen nach Absatz 1.
 
 
 ### § 26 Verwendung von Bauprodukten und Anwendung von Bauarten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002700000)
 
 (1) Bauprodukte dürfen nur verwendet und Bauarten nur angewendet
 werden, wenn sie zuvor vom Eisenbahn-Bundesamt zugelassen worden sind.
@@ -1581,6 +1618,7 @@ Jahre verlängert werden.
 
 
 ### § 27 Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002801124)
 
 (1) Sicherungstechnische und elektrotechnische Systeme sowie
 Bestandteile dieser Systeme können vom Eisenbahn-Bundesamt eine
@@ -1647,6 +1685,7 @@ nochmals überprüft.
 
 
 ### § 28 Marktaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE002901124)
 
 (1) Das Eisenbahn-Bundesamt führt eine Marktaufsicht durch über die
 verwendeten
@@ -1690,9 +1729,11 @@ Anforderungen nicht erfüllt, kann es
 
 
 ## Teil 4 - Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG000900000)
 
 
 ### § 29 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003001124)
 
 (1) Stellt eine Eisenbahn oder ein Halter von Eisenbahnfahrzeugen
 während des Betriebs fest, dass ein von ihr oder ihm genutztes
@@ -1734,6 +1775,7 @@ sicherheitsrelevante Mängel an Fahrzeugen zu unterrichten.
 
 
 ### § 29a Prüfungen vor der Nutzung eines genehmigten Fahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005400124)
 
 Bevor ein Eisenbahnverkehrsunternehmen ein Fahrzeug in dem
 Verwendungsgebiet einsetzt, das in der Genehmigung für das
@@ -1754,6 +1796,7 @@ Inverkehrbringen angegeben ist, prüft es, ob
 
 
 ### § 30 Pflichten bei Maßnahmen zur Aufrüstung oder Erneuerung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003101124)
 
 (1) Eisenbahninfrastrukturunternehmen haben für nicht
 genehmigungspflichtige Aufrüstungen und Erneuerungen von Bestandteilen
@@ -1776,6 +1819,7 @@ nehmen, wenn sie frei von diesen Mängeln sind.
 
 
 ### § 31 Weitere Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003201124)
 
 Stellen auf dem Gebiet der Bundesrepublik Deutschland
 
@@ -1802,6 +1846,7 @@ der Kommission mit.
 
 
 ### § 32 Aufbewahrungs-, Weitergabe- und Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003301124)
 
 (1) Wer nach § 15 Absatz 6, § 16 Absatz 1 Satz 1, § 17, § 20 oder
 Artikel 46 Absatz 2 der Durchführungsverordnung (EU) 2018/545 eine
@@ -1823,9 +1868,11 @@ Absatz 1 entsprechend.
 
 
 ## Teil 5 - Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG001001124)
 
 
 ### § 33 Aufgaben der benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003401124)
 
 (1) Benannte Stellen
 
@@ -1870,6 +1917,7 @@ vorzulegen.
 
 
 ### § 34 Aufgaben der bestimmten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003501124)
 
 (1) Bestimmte Stellen
 
@@ -1897,6 +1945,7 @@ entsprechend.
 
 
 ### § 35 Anerkennungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003601124)
 
 (1) Wer als benannte Stelle oder bestimmte Stelle tätig werden will,
 bedarf der Anerkennung durch das Eisenbahn-Bundesamt.
@@ -1951,6 +2000,7 @@ Konformitätsbewertungsstelle:
 
 
 ### § 35a Anerkennung der benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005500124)
 
 (1) Eine Stelle kann beim Eisenbahn-Bundesamt schriftlich oder
 elektronisch beantragen, als benannte Stelle tätig werden zu dürfen.
@@ -2008,6 +2058,7 @@ Bundesamt fest.
 
 
 ### § 35b Unterrichtungspflichten des Eisenbahn-Bundesamtes zur Anerkennung von benannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005600124)
 
 (1) Das Eisenbahn-Bundesamt unterrichtet die Kommission und die
 Mitgliedstaaten der Europäischen Union
@@ -2032,6 +2083,7 @@ Anerkennungsvoraussetzungen der benannten Stellen.
 
 
 ### § 35c Anerkennung der bestimmten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005700124)
 
 (1) Eine Stelle kann beim Eisenbahn-Bundesamt schriftlich oder
 elektronisch beantragen, als bestimmte Stelle tätig werden zu dürfen.
@@ -2058,6 +2110,7 @@ bestimmten Stellen.
 
 
 ### § 36 Rücknahme und Widerruf; Einstellung der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003701124)
 
 (1) Anerkennungen nach § 35 können zurückgenommen werden, wenn bekannt
 wird, dass zum Zeitpunkt der Anerkennung die Voraussetzungen nach § 35
@@ -2082,6 +2135,7 @@ Antragsteller herauszugeben.
 
 
 ### § 37 Unterauftragsvergabe
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003801124)
 
 (1) Konformitätsbewertungsstellen können Unterauftragnehmer oder
 Zweigunternehmen beauftragen, Teile des EG-Prüfverfahrens sowie des
@@ -2114,6 +2168,7 @@ neuesten Stand zu halten.
 
 
 ### § 37a Vorgehen der Konformitätsbewertungsstelle bei Nichterfüllung der Anforderungen durch den Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005800124)
 
 (1) Stellt eine Konformitätsbewertungsstelle fest, dass eine
 Interoperabilitätskomponente oder ein strukturelles Teilsystem die
@@ -2141,6 +2196,7 @@ sie.
 
 
 ### § 37b Meldepflichten der Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005900124)
 
 (1) Benannte Stellen melden dem Eisenbahn-Bundesamt
 
@@ -2188,6 +2244,7 @@ nachgehen, Informationen über die negativen und auf Verlangen auch
 
 
 ### § 37c Weitere Pflichten der Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE006000124)
 
 (1) Die Mitarbeiter einer Konformitätsbewertungsstelle dürfen die
 Tatsachen, die ihnen im Rahmen einer Konformitätsbewertung bekannt
@@ -2209,6 +2266,7 @@ Geschäftsgeheimnisses ist sicherzustellen.
 
 
 ### § 37d Mitarbeit in Koordinierungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE006100124)
 
 (1) Benannte Stellen haben an den einschlägigen Normungsaktivitäten
 und den Aktivitäten der Koordinierungsgruppe benannter
@@ -2241,13 +2299,16 @@ Leitlinien anzuwenden.
 
 
 ## Teil 6 - Register für Fahrzeuge und Fahrzeugkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG001100000)
 
 
 ### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE003902124)
 
 
 
 ### § 38a Europäisches Fahrzeugeinstellungsregister
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE006200124)
 
 (1) Das Eisenbahn-Bundesamt hat in das europäische
 Fahrzeugeinstellungsregister die Angaben der Fahrzeuge, die in der
@@ -2281,6 +2342,7 @@ in der Bundesrepublik Deutschland befinden.
 
 
 ### § 39 Fahrzeugkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004001124)
 
 (1) Das Eisenbahn-Bundesamt weist jedem Fahrzeug mit Erteilung der
 Genehmigung für das Inverkehrbringen von Fahrzeugen eine europäische
@@ -2322,6 +2384,7 @@ verwenden, wenn
 
 
 ### § 40 Europäisches Register genehmigter Fahrzeugtypen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004101124)
 
 (1) Die Genehmigungsstelle übermittelt die Angaben nach Anhang II des
 Durchführungsbeschlusses 2011/665/EU der Kommission vom 4. Oktober
@@ -2367,9 +2430,11 @@ einer Fahrzeugtypvariante entsprechend.
 
 
 ## Teil 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNG001200000)
 
 
 ### § 41 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004201124)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe a des
 Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2437,6 +2502,7 @@ Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 42 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004301124)
 
 (1) Eisenbahnen und Halter von Eisenbahnfahrzeugen haben dem
 Eisenbahn-Bundesamt die erforderlichen Angaben nach § 38 Absatz 1
@@ -2502,12 +2568,14 @@ werden.
 
 
 ### § 43 Befristung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE006300124)
 
 § 38 tritt am 16. Juni 2021 außer Kraft.
 
 (zu § 4 Absatz 1)
 
 ### Anlage 1 Umsetzung von Entscheidungen und Beschlüssen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004401124)
 
 (Fundstelle: BGBl. I 2018, 1288 - 1293;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3226,6 +3294,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Absatz 2)
 
 ### Anlage 2 Übrige Eisenbahninfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004501124)
 
 (Fundstelle: BGBl. I 2018, 1294 - 1296;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3489,11 +3558,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004601124)
 
 
 (zu § 9 Absatz 3 und 4 sowie § 21 Absatz 2)
 
 ### Anlage 4 Maßnahmen, die für die Bestandteile des Eisenbahnsystems als genehmigungspflichtige Aufrüstung oder Erneuerung einzustufen sind
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004701124)
 
 (Fundstelle: BGBl. I 2018, 1298 - 1301;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3867,6 +3938,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 9 Absatz 4)
 
 ### Anlage 5 Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004801124)
 
 (Fundstelle: BGBl. I 2018, 1302 - 1305;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4412,6 +4484,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 18 Absatz 1 und § 21)
 
 ### Anlage 6 Unterlagen zum Antrag auf Inbetriebnahmegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE004901124)
 
 (Fundstelle: BGBl. I 2018, 1306 - 1307;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4624,6 +4697,7 @@ _\_\__\_\__\_\__\_\_\_\_
 (zu § 27 Absatz 1 und 4)
 
 ### Anlage 7 Gegenstand einer Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/eigv/BJNR127010018.html#BJNR127010018BJNE005000000)
 
 (Fundstelle: BGBl. I 2018, 1308)
 

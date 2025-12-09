@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzmexbek/BJNR002840899.html#BJNR002840899BJNE000100303)
 
 Auf Grund einer Vereinbarung mit der Regierung der Vereinigten Staaten
 von Mexiko wird hierdurch unter Hinweis auf § 23 des Gesetzes zum

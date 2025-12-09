@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2022/BJNR632610021.html#BJNR632610021BJNE000100000)
 
 Der Fallpauschalen-Katalog nach § 9 Absatz 1 Nummer 1 des
 Krankenhausentgeltgesetzes, der Katalog ergänzender Zusatzentgelte
@@ -28,6 +29,7 @@ vorgegeben.
 
 
 ## Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2022/BJNR632610021.html#BJNR632610021BJNE000200000)
 
 (Fundstelle: BAnz AT 22.11.2021 V1)
 

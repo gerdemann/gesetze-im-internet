@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sstellv-vvg/BJNR025700005.html#BJNR025700005BJNE000100000)
 
 Auf Grund des § 48e Abs. 2 Satz 1 des Versicherungsvertragsgesetzes,
 der durch Artikel 6 Nr. 3 des Gesetzes vom 2. Dezember 2004 (BGBl. I
@@ -27,6 +28,7 @@ Justiz im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sstellv-vvg/BJNR025700005.html#BJNR025700005BJNE000200000)
 
 Die Schlichtung von Verbraucherstreitigkeiten bei Fernabsatzverträgen
 über Versicherungen wird für die private Kranken- und
@@ -36,12 +38,14 @@ V." übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sstellv-vvg/BJNR025700005.html#BJNR025700005BJNE000300000)
 
 Die Ombudsleute werden auf der Grundlage ihrer Verfahrensordnungen und
 Satzungen tätig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sstellv-vvg/BJNR025700005.html#BJNR025700005BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

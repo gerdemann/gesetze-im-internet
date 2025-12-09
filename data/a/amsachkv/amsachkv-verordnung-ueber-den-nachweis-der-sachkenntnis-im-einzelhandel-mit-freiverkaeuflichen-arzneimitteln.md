@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000100311)
 
 Auf Grund des § 50 Abs. 2 Satz 2 bis 4 des Arzneimittelgesetzes vom
 24\. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem
@@ -30,6 +31,7 @@ Forsten mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Nachweis der Sachkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000200311)
 
 Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von
 Apotheken mit Arzneimitteln im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1
@@ -41,6 +43,7 @@ nach § 11 erbracht werden.
 
 
 ## § 2 Errichtung und Tätigkeit des Prüfungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000300311)
 
 (1) Für die Abnahme der Prüfung errichtet die zuständige Behörde einen
 Prüfungsausschuß oder mehrere Prüfungsausschüsse. Mehrere Behörden
@@ -70,6 +73,7 @@ Verwaltungsverfahrensgesetzes anzuwenden.
 
 
 ## § 3 Prüfungstermine und Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000400311)
 
 (1) Die zuständige Behörde bestimmt die Termine für die Durchführung
 der Prüfung. Diese werden nach Bedarf, mindestens einmal im Jahr,
@@ -88,6 +92,7 @@ Aufenthalt hat oder zuletzt hatte.
 
 
 ## § 4 Prüfungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000500311)
 
 (1) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer
 ausreichende Kenntnisse und Fertigkeiten über das ordnungsgemäße
@@ -130,6 +135,7 @@ Arzneimittel geltenden Vorschriften besitzt.
 
 
 ## § 5 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000600311)
 
 (1) Die Prüfung wird mündlich oder schriftlich abgelegt. Die
 Prüfungsteilnehmer haben sich auf Verlangen des Vorsitzenden über ihre
@@ -158,6 +164,7 @@ Prüfungsausschusses anwesend sein.
 
 
 ## § 6 Rücktritt, Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000700311)
 
 (1) Der Prüfungsbewerber kann nach der Anmeldung vor Beginn der
 Prüfung durch schriftliche Erklärung zurücktreten. In diesem Fall gilt
@@ -170,6 +177,7 @@ eines wichtigen Grundes entscheidet der Prüfungsausschuß.
 
 
 ## § 7 Prüfungsergebnis und Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000800311)
 
 (1) Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen
 erbracht sind.
@@ -190,12 +198,14 @@ Vorschriften über die Wiederholungsprüfung in § 8 ist hinzuweisen.
 
 
 ## § 8 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE000900311)
 
 Eine nicht bestandene Prüfung kann wiederholt werden. Die Prüfung kann
 frühestens zum nächsten Prüfungstermin wiederholt werden.
 
 
 ## § 9 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001000311)
 
 Wird von der zuständigen Behörde eine Stelle bestimmt, vor der die
 Prüfung abzulegen ist, so gelten für diese die §§ 2 bis 8
@@ -204,6 +214,7 @@ entsenden.
 
 
 ## § 10 Anerkennung anderer Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001102320)
 
 Folgende Prüfungszeugnisse über eine abgeleistete berufliche
 Ausbildung werden als Nachweis der erforderlichen Sachkenntnis im
@@ -253,6 +264,7 @@ Einigungsvertrages genannten Gebiet erteilt werden.
 
 
 ## § 11 Sonstiger Nachweis der Sachkenntnis
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001200311)
 
 Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen
 Arzneimitteln hat auch erbracht, wer nachweist, daß er bis zum 1.
@@ -273,22 +285,26 @@ erfüllt hat.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001301320)
 
 (weggefallen)
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001400311)
 
 Die §§ 10 und 11 treten mit Wirkung vom 1. Januar 1978 in Kraft. Im
 übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001500311)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
 
 ## Anlage (zu § 7 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/amsachkv/BJNR007530978.html#BJNR007530978BJNE001600311)
 
 (Fundstelle des Originaltextes: BGBl. I 1978, 756)
 **Prüfungszeugnis**

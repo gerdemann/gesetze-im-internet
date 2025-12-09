@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -33,17 +34,20 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000200305)
 
 Der Ausbildungsberuf Fachkraft für Lebensmitteltechnik wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000300305)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000400305)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -90,6 +94,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000500305)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -108,12 +113,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000600305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000700305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -122,6 +129,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000800305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -182,6 +190,7 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE000901377)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -337,6 +346,7 @@ Leistungen erbracht sind.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE001000305)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -345,12 +355,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE001100305)
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung Fachkraft für Lebensmitteltechnik
+[Direktlink](https://www.gesetze-im-internet.de/lmtausbv_2000/BJNR011500000.html#BJNR011500000BJNE001200305)
 
 (Fundstelle: BGBl. I 2000, 118 - 120)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002400326)
 
 
 *    *   Erster Abschnitt
@@ -318,10 +319,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000100326)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002500326)
 
 (1) Abkommen im Sinne dieses Gesetzes ist das Abkommen vom 27. Februar
 1953 über deutsche Auslandsschulden (Bundesgesetzbl. II S. 331).
@@ -331,14 +334,17 @@ gelten auch für dieses Gesetz.
 
 
 ## Zweiter Abschnitt - Allgemeine Bestimmungen über die Durchsetzung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000200326)
 
 
 
 ### a) - Geltendmachung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000300326)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002600326)
 
 (1) Hat ein Schuldner wegen seiner Schuld einen Regelungsvorschlag
 gemäß den Bestimmungen der einschlägigen Anlage des Abkommens gemacht
@@ -364,6 +370,7 @@ seiner Anlagen eine Schiedsinstanz ausschließlich zuständig ist.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002700326)
 
 Hat ein Schuldner es unterlassen, gemäß den Bestimmungen der
 einschlägigen Anlage des Abkommens einen Regelungsvorschlag zu machen
@@ -383,6 +390,7 @@ erforderlich ist.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002800326)
 
 (1) Die §§ 2 und 3 sind nicht anzuwenden, wenn für die Entscheidung
 über die Ansprüche und Rechte, die der Gläubiger geltend zu machen
@@ -414,6 +422,7 @@ Anlage III vorgesehenen Beratenden Ausschusses geltend machen.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE002900326)
 
 (1) Macht der Schuldner einer verbrieften Schuld, deren Regelung nach
 den Bestimmungen der einschlägigen Anlage des Abkommens ein
@@ -434,6 +443,7 @@ ist.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003000326)
 
 In den Fällen des § 3 und des § 5 ist der Schuldner der
 Gerichtsbarkeit der Schiedsinstanzen, die in dem Abkommen und seinen
@@ -441,6 +451,7 @@ Anlagen vorgesehen sind, nicht unterworfen.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003100326)
 
 Bei der Festsetzung der Zahlungs- und sonstigen Bedingungen für eine
 unter Anlage II des Abkommens fallende Schuld hat das Gericht in den
@@ -450,6 +461,7 @@ Betracht kommt.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003200326)
 
 (1) Hat ein Schuldner es unterlassen, gemäß den Bestimmungen der
 Anlagen I oder II des Abkommens einen Regelungsvorschlag zu machen, so
@@ -478,6 +490,7 @@ Beitrittserklärung abgibt.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003300326)
 
 (1) In Rechtsstreitigkeiten der in den §§ 2, 3 und 5 bezeichneten Art
 gelten für die Kosten die Vorschriften des Artikels 17 Abs. 6 des
@@ -491,6 +504,7 @@ beantragt hat.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003400326)
 
 Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den
 Erfordernissen der Absätze 1 und 3 des Artikels 4 des Abkommens, nicht
@@ -506,6 +520,7 @@ Wirtschaftsgebiet Nr. 83 vom 13. September 1949) bleibt unberührt.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003504377)
 
 (1) Für die in den §§ 2, 3 und 5 bezeichneten Ansprüche sind die
 Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes
@@ -527,10 +542,12 @@ Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung
 
 
 ### b) - Ausschließung von Zahlungen und sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000400326)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003600326)
 
 (1) Bis zu dem Zeitpunkt, in dem alle Verpflichtungen aus dem Abkommen
 und seinen Anlagen erledigt sind, darf ein Schuldner Zahlungen und
@@ -567,14 +584,17 @@ Feststellungsurteil zu erwirken, nicht berührt.
 
 
 ### c) - Vollstreckung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000500326)
 
 
 
 #### I. - Vollstreckbarerklärung von Entscheidungen, die nach dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000600326)
 
 
 
 ##### § 13
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003700326)
 
 (1) Entscheidungen der Gerichte eines Gläubigerstaates über eine
 Schuld, die nach dem Inkrafttreten des Abkommens rechtskräftig
@@ -591,6 +611,7 @@ erklären.
 
 
 ##### § 14
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003800326)
 
 (1) Der Antrag auf Vollstreckbarerklärung ist nur zulässig, wenn der
 Gläubiger sein Einverständnis damit erklärt, daß die Zahlungs- und
@@ -607,6 +628,7 @@ vorgesehenen Beratenden Ausschusses zulässig.
 
 
 ##### § 15
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE003900326)
 
 (1) Dem Antrag auf Vollstreckbarerklärung sind beizufügen
 
@@ -635,6 +657,7 @@ wird.
 
 
 ##### § 16
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004001377)
 
 (1) Für die Vollstreckbarerklärung ist das Landgericht ausschließlich
 zuständig, in dessen Bezirk der Schuldner seinen allgemeinen
@@ -648,6 +671,7 @@ den Landgerichten und den Oberlandesgerichten zufallen, gilt § 11 Abs.
 
 
 ##### § 17
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004102377)
 
 (1) Auf das Verfahren der Vollstreckbarerklärung sind § 1063 Abs. 1, §
 1064 Abs. 2 sowie § 794 Abs. 1 Nr. 4a der Zivilprozeßordnung
@@ -674,6 +698,7 @@ entsprechend anzuwenden.
 
 
 ##### § 18
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004200326)
 
 Der Antrag auf Vollstreckbarerklärung ist abzulehnen, wenn der
 Anerkennung der Entscheidung einer der in Artikel 17 Abs. 4 des
@@ -681,6 +706,7 @@ Abkommens angeführten Versagungsgründe entgegensteht.
 
 
 ##### § 19
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004300326)
 
 Bei der Vollstreckbarerklärung nach Maßgabe der Zahlungs- und
 sonstigen Bedingungen (§ 13 Abs. 2) sind die §§ 7 bis 9 entsprechend
@@ -688,6 +714,7 @@ anzuwenden.
 
 
 ##### § 20
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004400326)
 
 In der Vollstreckbarerklärung ist zugleich auszusprechen, daß die in
 der Entscheidung festgestellte Schuld gemäß den Bestimmungen des
@@ -695,6 +722,7 @@ Abkommens und seiner Anlagen geregelt ist.
 
 
 ##### § 21
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004500326)
 
 Hängt die Vollstreckung der Entscheidung nach deren Inhalt von dem
 Ablauf einer Frist oder von dem Eintritt einer anderen Tatsache ab, so
@@ -709,6 +737,7 @@ mündliche Verhandlung anzuordnen.
 
 
 ##### § 22
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004601308)
 
 In dem Verfahren der Vollstreckbarerklärung kann der Schuldner auch
 die Einwendungen gegen den in der gerichtlichen Entscheidung
@@ -721,6 +750,7 @@ Zivilprozeßordnung vorgesehenen Verfahren geltend zu machen.
 
 
 ##### § 23
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004701308)
 
 (1) Für die Vollstreckbarerklärung von Schiedssprüchen über eine
 Schuld, die nach dem Inkrafttreten des Abkommens in einem
@@ -737,16 +767,19 @@ inländischer Schiedsspruch für vollstreckbar zu erklären ist.
 
 
 ##### § 24
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004800326)
 
 Für die Berechnung der Gerichts- ... kosten gelten
 § 30a Abs. 2 des Gerichtskostengesetzes ... sinngemäß.
 
 
 #### II. - Vollstreckbarerklärung von Entscheidungen, die vor dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000700326)
 
 
 
 ##### § 25
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE004900326)
 
 (1) Die Vollstreckbarerklärung von Entscheidungen der Gerichte eines
 Gläubigerstaates über eine Schuld, die vor dem Inkrafttreten des
@@ -776,6 +809,7 @@ Wirtschaftsgebiet Nr. 9 vom 2. Februar 1949) nicht.
 
 
 ##### § 26
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005001308)
 
 Auf die Vollstreckbarerklärung von Schiedssprüchen über eine Schuld,
 die vor dem Inkrafttreten des Abkommens in einem Gläubigerstaat
@@ -785,10 +819,12 @@ die §§ 13 bis 16, 18 bis 20, 24 und 25 entsprechend anzuwenden. Im
 
 
 #### III. - Anpassung von inländischen Entscheidungen, die vor dem Inkrafttreten des Abkommens ergangen sind
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000800326)
 
 
 
 ##### § 27
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005100326)
 
 (1) Die Zwangsvollstreckung aus solchen Entscheidungen deutscher
 Gerichte, in denen vor dem 8. Mai 1945 eine Schuld rechtskräftig
@@ -806,6 +842,7 @@ Anlagen gelten (Regelungsvermerk).
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005200326)
 
 (1) Über die Erteilung des Regelungsvermerks entscheidet auf Antrag
 des Gläubigers das Landgericht. Die Zuständigkeit bestimmt sich nach §
@@ -823,6 +860,7 @@ so genügt der Vermerk auf den Ausfertigungen.
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005300326)
 
 Die §§ 27 und 28 gelten entsprechend für gerichtliche Entscheidungen
 über eine Schuld, die im Geltungsbereich dieses Gesetzes nach dem 8.
@@ -830,6 +868,7 @@ Mai 1945, jedoch vor dem Inkrafttreten des Abkommens ergangen sind.
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005400326)
 
 Auf die Zwangsvollstreckung aus sonstigen inländischen
 Vollstreckungsmitteln, die vor dem Inkrafttreten des Abkommens über
@@ -838,14 +877,17 @@ entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG000900326)
 
 
 
 ### a) - Konversionskasse
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001000326)
 
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005500326)
 
 (1)
 
@@ -857,6 +899,7 @@ beruhenden Gutschriften bei der Konversionskasse auf den Bund über.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005600326)
 
 (1) Soweit Verpflichtungen des Schuldners einer geregelten Schuld
 darauf beruhen, daß an die Konversionskasse geleistete Zahlungen gemäß
@@ -880,6 +923,7 @@ Erstattungsanspruch hat.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005700326)
 
 Die Erstattung nach § 32 findet statt, sobald der Schuldner jeweils
 eine Zins- oder Tilgungsleistung erbracht hat, aber nicht vor dem
@@ -893,6 +937,7 @@ Schuldner die Nichterfüllung nicht zu vertreten hat.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005800326)
 
 Sind auf eine verbriefte Anleihe Tilgungszahlungen an die
 Konversionskasse geleistet worden, die nach Anlage V des Abkommens bei
@@ -907,6 +952,7 @@ einer näheren gesetzlichen Regelung verhältnismäßig berücksichtigt.
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE005900326)
 
 Wird der Bund auf Erstattung in Anspruch genommen, so trifft ihn die
 Beweislast dafür, daß der Schuldner nach Anlage V des Abkommens durch
@@ -915,6 +961,7 @@ ist.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006000326)
 
 (1) Der Anspruch auf Erstattung ist ausgeschlossen, wenn der Schuldner
 dem Bund von der Regelung der Schuld nicht innerhalb eines Jahres,
@@ -926,6 +973,7 @@ erbracht hat, geltend macht.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006101377)
 
 (1) Das Bundesministerium der Finanzen bestellt einen
 Bundesbeauftragten für die Behandlung von Zahlungen an die
@@ -936,6 +984,7 @@ Angelegenheiten durch den Bundesbeauftragten vertreten.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006200326)
 
 Der Bundesbeauftragte entscheidet vorbehaltlich des Rechtsweges (§ 42)
 über die Erstattungsansprüche. Die Entscheidungen ergehen schriftlich,
@@ -944,6 +993,7 @@ der Beschreitung des Rechtsweges enthalten.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006300326)
 
 (1) Der Bundesbeauftragte hat dem Schuldner auf Verlangen Auskunft
 über alle Umstände zu erteilen, die für die Beurteilung der Frage
@@ -965,6 +1015,7 @@ bestreiten.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006400326)
 
 Der Bundesbeauftragte bedient sich bei der Wahrnehmung seiner Aufgaben
 der Konversionskasse. Sie hat nach seinen Weisungen Ermittlungen
@@ -972,6 +1023,7 @@ anzustellen und Feststellungen zu treffen.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006500326)
 
 (1) Gerichte und Behörden haben dem Bundesbeauftragten unentgeltlich
 Amtshilfe zu leisten.
@@ -987,6 +1039,7 @@ Gericht vorbehalten ist.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006600326)
 
 (1) Für den Anspruch auf Erstattung ist der ordentliche Rechtsweg
 zulässig. Für den Anspruch ist ohne Rücksicht auf den Wert des
@@ -1005,12 +1058,14 @@ Bescheid nicht erteilt hat.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006700326)
 
 Der Bundesbeauftragte kann Vorauszahlungen auf einen
 Erstattungsanspruch in angemessener Höhe gewähren.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006800326)
 
 (1) Der Schuldner kann in der Jahresbilanz den Anspruch auf Erstattung
 von Tilgungsleistungen ohne Rücksicht auf den Zeitpunkt der Fälligkeit
@@ -1030,6 +1085,7 @@ werden muß, kann der Erstattungsanspruch als Deckung benutzt werden.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE006900326)
 
 (1) Der Bundesbeauftragte kann seine Entscheidung nach § 38, durch die
 eine Erstattungspflicht anerkannt worden ist, oder sein Anerkenntnis
@@ -1064,6 +1120,7 @@ befreien kann.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007000326)
 
 Die Entscheidungen des Bundesbeauftragten sind von Amts wegen zu
 berichtigen, wenn sie Schreibfehler, Rechenfehler oder ähnliche
@@ -1071,6 +1128,7 @@ offenbare Unrichtigkeiten enthalten.
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007101377)
 
 (1) Zahlstelle für die Erstattungen auf Grund dieses Gesetzes ist die
 Kasse des Landesfinanzamtes Berlin.
@@ -1080,22 +1138,26 @@ bestimmen.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007200326)
 
 Die Verwaltungskosten der Konversionskasse trägt der Bund.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007300326)
 
 -
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007400326)
 
 Die Konversionskasse unterliegt der Prüfung durch den
 Bundesrechnungshof.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007500326)
 
 Soweit nach Anlage V des Abkommens, nach Ziffer 14 der Anlage I des
 Abkommens und nach Unteranlage E dieser Anlage der Bund verpflichtet
@@ -1106,14 +1168,17 @@ sinngemäß anzuwenden.
 
 
 ### b) - Goldmarkschulden mit spezifisch ausländischem Charakter
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001100326)
 
 
 
 #### I. - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001200326)
 
 
 
 ##### § 52
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007600326)
 
 (1) Trägt eine in Goldmark oder in Reichsmark mit Goldklausel oder mit
 Goldoption ausgedrückte Schuld spezifisch ausländischen Charakter im
@@ -1135,6 +1200,7 @@ zu Anlage I in Verbindung mit Anlage VII des Abkommens, so gilt Absatz
 
 
 ##### § 53
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007700326)
 
 Ist eine Schuld der in § 52 bezeichneten Art geregelt, so wird sie,
 soweit sich aus diesem Gesetz nicht ein anderes ergibt, wie eine
@@ -1151,6 +1217,7 @@ des Lastenausgleichsgesetzes sind nicht anzuwenden.
 
 
 ##### § 54
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007800326)
 
 Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des
 Einkommensteuergesetzes ermitteln, haben eine Schuld der in § 52
@@ -1159,10 +1226,12 @@ die steuerliche Eröffnungsbilanz für den 21. Juni 1948 einzustellen.
 
 
 #### II. - Sonderbestimmungen über dingliche Sicherungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001300326)
 
 
 
 ##### § 55
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE007900326)
 
 War eine Forderung der in § 52 Abs. 1 bezeichneten Art am 20. Juni
 1948 durch eine Hypothek gesichert, die auf einen geringeren Betrag
@@ -1174,6 +1243,7 @@ bezeichneten Rechte.
 
 
 ##### § 56
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008000326)
 
 (1) Ist der Schuldner Eigentümer des belasteten Grundstücks, so kann
 der Gläubiger verlangen, daß der Schuldner ihm eine neue Hypothek in
@@ -1205,6 +1275,7 @@ worden ist.
 
 
 ##### § 57
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008100326)
 
 (1) Ist der Schuldner nicht Eigentümer des belasteten Grundstücks und
 hat derjenige, der beim Inkrafttreten dieses Gesetzes Eigentümer des
@@ -1229,6 +1300,7 @@ Forderung.
 
 
 ##### § 58
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008200326)
 
 (1) Die in den §§ 56 und 57 bezeichnete neue oder weitere Hypothek hat
 den Rang, den die dem Gläubiger zustehende umgestellte Hypothek am 21.
@@ -1263,6 +1335,7 @@ vorliegen.
 
 
 ##### § 59
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008300326)
 
 (1) Die in den §§ 56 und 57 bezeichnete neue oder weitere Hypothek
 genießt vor einer auf dem Grundstück ruhenden öffentlichen Last für
@@ -1282,6 +1355,7 @@ Hypothek das in Absatz 1 genannte Vorrecht genießt.
 
 
 ##### § 60
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008400326)
 
 Soweit nach den §§ 56 bis 58 eine Rechtsfolge davon abhängt, wann ein
 Recht erworben worden ist, gilt in den Fällen der
@@ -1290,6 +1364,7 @@ eingetreten, in dem der Rechtsvorgänger das Recht erworben hat.
 
 
 ##### § 61
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008500326)
 
 (1) Der Gläubiger hat wegen desjenigen Teilbetrages der in § 55
 bezeichneten Forderung, für den er auf Grund der §§ 57 bis 60 eine
@@ -1314,6 +1389,7 @@ anzuwenden.
 
 
 ##### § 62
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008600326)
 
 Die Vorschriften der §§ 55 bis 61 gelten entsprechend, wenn die in §
 55 bezeichnete Forderung am 20. Juni 1948 durch eine Grundschuld oder
@@ -1321,10 +1397,12 @@ eine Rentenschuld gesichert war.
 
 
 #### III. - Entschädigungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001400326)
 
 
 
 ##### § 63
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008700326)
 
 (1) Ist ein Schuldner nach den §§ 52 und 53 zu einer höheren Leistung
 verpflichtet, als sich aus einer Umstellung gemäß Teil II des
@@ -1349,6 +1427,7 @@ den Schuldner über, soweit dieser die höhere Leistung erbringt.
 
 
 ##### § 64
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008800326)
 
 (1) Der Eigentümer des Grundstücks hat im Falle des § 57 Abs. 1 einen
 Anspruch auf Entschädigung, soweit auf Grund der neuen oder weiteren
@@ -1365,6 +1444,7 @@ Entschädigung zur Befriedigung des Gläubigers zu verwenden.
 
 
 ##### § 65
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE008900326)
 
 Ist ein Recht auf Grund des § 58 im Range hinter die neue oder weitere
 Hypothek zurückgetreten und hat der Berechtigte infolge der
@@ -1375,6 +1455,7 @@ einem in § 58 Abs. 2 bezeichneten Recht gleichgestellt wäre.
 
 
 ##### § 66
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009000326)
 
 (1) Der Entschädigungsanspruch nach § 63 vermindert sich um die
 Beträge, die der Schuldner als Ausgleichsabgaben nach dem
@@ -1388,6 +1469,7 @@ der Abgabenordnung.
 
 
 ##### § 67
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009100326)
 
 Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des
 Einkommensteuergesetzes ermitteln, haben den Entschädigungsanspruch im
@@ -1397,6 +1479,7 @@ die nach § 54 eingestellte Schuld bezieht.
 
 
 ##### § 68
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009200326)
 
 Der Entschädigungsanspruch nach den §§ 63 bis 65 erlischt, wenn ihn
 der Entschädigungsberechtigte oder im Falle des § 61 der Gläubiger
@@ -1404,6 +1487,7 @@ nicht binnen drei Jahren nach Fälligkeit geltend macht.
 
 
 ##### § 69
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009300326)
 
 Entschädigungspflichtig ist im Falle des § 63 Abs. 1 das Land, in dem
 der Schuldner seinen Wohnsitz oder Sitz zu dem Zeitpunkt hat, in dem
@@ -1413,6 +1497,7 @@ Grundstück belegen ist.
 
 
 ##### § 70
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009400326)
 
 (1) Rechte, die der Schuldner auf Grund der erhöhten Leistung nach den
 §§ 52 und 53 gegen Dritte erwirbt, gehen auf das Land über, soweit
@@ -1424,6 +1509,7 @@ liegt, auf das Land über, soweit dieses Entschädigung leistet.
 
 
 ##### § 71
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009500326)
 
 (1) Über den Entschädigungsanspruch entscheidet vorbehaltlich des
 Rechtsweges die Oberfinanzdirektion; sie kann auf den Anspruch
@@ -1452,6 +1538,7 @@ werden. Diese Frist ist eine Notfrist im Sinne der Zivilprozeßordnung.
 
 
 ##### § 72
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009600326)
 
 Der Schuldner einer Schuld der in § 52 bezeichneten Art kann bereits
 vor Regelung der Schuld die Feststellung begehren, daß ihm bei
@@ -1461,6 +1548,7 @@ Ausnahme des Absatzes 1 Satz 1 Halbsatz 2 gilt entsprechend.
 
 
 ##### § 73
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009700326)
 
 (1) Soweit im Falle des § 57 Abs. 2 die weitere Hypothek die in § 56
 Abs. 2 Satz 2 und 3 bestimmte Höhe nicht erreicht und der Gläubiger
@@ -1478,6 +1566,7 @@ Darlehensbedingungen fest.
 
 
 ##### § 74
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009800326)
 
 Soweit die §§ 63 bis 73 auf Vorschriften in den §§ 56 bis 58 Bezug
 nehmen, gelten sie entsprechend, wenn die in § 55 bezeichnete
@@ -1486,10 +1575,12 @@ Rentenschuld gesichert war.
 
 
 ### c) - Änderung und Aufhebung von Sicherheiten für Forderungen aus Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001500326)
 
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE009900326)
 
 (1) Sicherheiten, und zwar
 
@@ -1571,6 +1662,7 @@ werden.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010000326)
 
 (1) Ist in dem Regelungsangebot des Schuldners eine Änderung der Art
 oder des Umfangs von Sicherheiten gemäß Artikel V Nr. 12 der Anlage II
@@ -1664,6 +1756,7 @@ Maßgabe des § 12 Abs. 4 befugt, ein Feststellungsurteil zu erwirken.
 
 
 #### § 76a
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010100326)
 
 Durch eine gerichtliche Entscheidung nach § 76 Abs. 1 und 2 können
 auch Willenserklärungen eines Treuhänders oder eines sonst nach den
@@ -1675,6 +1768,7 @@ annehmen, mit den Bestimmungen des § 75 Abs. 2 in Einklang zu bringen.
 
 
 #### § 76b
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010200326)
 
 Sind im Ausland von einem Treuhänder gegen Hinterlegung einer
 einheitlichen Schuldverschreibung Teilzertifikate oder von einer
@@ -1686,6 +1780,7 @@ Teilzertifikats oder Hinterlegungszertifikats.
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010301377)
 
 Für das gerichtliche Verfahren gelten die Vorschriften des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -1694,6 +1789,7 @@ Vorschriften etwas anderes ergibt.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010400326)
 
 (1) An dem Verfahren beteiligt sind nur der Schuldner, der Treuhänder
 oder ein sonstiger nach den Anleihebedingungen Berechtigter sowie der
@@ -1714,6 +1810,7 @@ Einklang stehen.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010500326)
 
 Für die Entscheidungen auf Grund dieses Gesetzes ist das Landgericht,
 bei dem der Schuldner seinen allgemeinen Gerichtsstand hat,
@@ -1721,6 +1818,7 @@ ausschließlich zuständig. § 11 Abs. 3 gilt entsprechend.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010600326)
 
 (1) Entscheidungen nach § 76 werden nur auf Antrag des Schuldners
 erlassen.
@@ -1739,6 +1837,7 @@ ist.
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010700326)
 
 Der Schuldner hat auf Verlangen des Gerichts alle Unterlagen
 beizubringen, die es als Voraussetzung für eine Entscheidung nach § 76
@@ -1746,6 +1845,7 @@ für sachdienlich erachtet.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010800326)
 
 (1) Das Gericht hat beglaubigte Abschriften des Antrages und aller von
 dem Schuldner eingereichten Unterlagen den übrigen Beteiligten mit der
@@ -1764,6 +1864,7 @@ dem Gericht vorbringen kann und Anspruch auf Gehör hat.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE010900326)
 
 (1) Das Gericht hat eine mündliche Verhandlung über den Antrag
 anzuordnen, zu der die Beteiligten zu laden sind. Die Verhandlung
@@ -1777,12 +1878,14 @@ Beteiligten und die Gläubiger im Termin erscheinen.
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011000326)
 
 Das Gericht hat den Beteiligten das Ergebnis einer Beweisaufnahme
 mitzuteilen.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011100326)
 
 Eine Entscheidung darf frühestens einen Monat nach Mitteilung des
 Antrages sowie der vom Schuldner eingereichten Unterlagen und des
@@ -1792,6 +1895,7 @@ verzichtet haben.
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011200326)
 
 (1) Gegen die Entscheidung steht den Beteiligten die sofortige
 Beschwerde zu; über sie entscheidet das Oberlandesgericht.
@@ -1810,12 +1914,14 @@ werden.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011300326)
 
 Die gerichtliche Entscheidung nach § 76 wird erst wirksam, nachdem sie
 allen Beteiligten gegenüber rechtskräftig geworden ist.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011400326)
 
 In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich
 die Frist für Beteiligte, die ihren Sitz oder Wohnsitz im Ausland
@@ -1823,6 +1929,7 @@ haben, auf drei Monate.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011500326)
 
 (1) Für die Gerichtskosten gelten, soweit nichts anderes bestimmt ist,
 die Vorschriften der Kostenordnung
@@ -1852,10 +1959,12 @@ die Vorschriften der Zivilprozeßordnung gelten entsprechend.
 
 
 ### d) - Deutsches Kreditabkommen von 1952
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001600326)
 
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011600326)
 
 (1) Der bei der
 Bank deutscher Länder bestehende Deutsche Ausschuß für internationale
@@ -1887,6 +1996,7 @@ nachstehende Bedeutung:
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011700326)
 
 (1) In den Fällen, in denen ein Kreditinstitut gemäß Nummer 3 Absatz 4
 des Kreditabkommens verpflichtet ist, seinem ausländischen
@@ -1941,6 +2051,7 @@ wegen seiner etwaigen Ansprüche nach Satz 2 Sicherheit leistet.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011800326)
 
 (1) Soweit ein Kreditinstitut Sicherheiten, die es von einem Kunden
 erhalten hat, gemäß Nummer 6 des Kreditabkommens treuhänderisch für
@@ -1956,6 +2067,7 @@ Kreditinstituts gegen den Kunden.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE011901308)
 
 (1) Die Berechtigung eines Kreditinstituts, über eine Sicherheit zu
 verfügen, wird nicht dadurch berührt, daß es die Sicherheit für einen
@@ -1971,6 +2083,7 @@ Insolvenzverfahren eröffnet worden ist.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012000326)
 
 Ist eine Schuld durch Bürgschaft, Garantie, Indossament oder
 Kreditversicherung gesichert, so wird der Bürge, Garant, Indossant
@@ -1981,6 +2094,7 @@ hinausgerückt oder ihre Form geändert wird.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012100326)
 
 Die Aushändigung der in § 91 bezeichneten eigenen Wechsel an ein
 Kreditinstitut begründet nicht die Verpflichtung zur Entrichtung der
@@ -1991,6 +2105,7 @@ Dienststempels versehen werden.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012200326)
 
 (1) Die durch die Vorbereitung, den Abschluß und die Inkraftsetzung
 des Kreditabkommens entstehenden oder damit notwendig verbundenen
@@ -2011,6 +2126,7 @@ Bank deutscher Länder ernannt wird.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012301308)
 
 Für die Entscheidungen des in Nummer 20 des Kreditabkommens
 vorgesehenen Schiedsausschusses gelten die Vorschriften des Zehnten
@@ -2021,6 +2137,7 @@ vollzogene Ausfertigung beizufügen.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012400326)
 
 Die Bestimmungen der §§ 90 bis 97 gelten sinngemäß für Abkommen, die
 zum Zwecke der Erneuerung oder Verlängerung des Kreditabkommens
@@ -2028,10 +2145,12 @@ abgeschlossen werden.
 
 
 ### e) - Bilanzierungsbestimmungen und sonstige steuerliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001700326)
 
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012500326)
 
 (1) Eine Schuld, die eine Valutaverpflichtung im Sinne des § 10 des
 D-Markbilanzgesetzes vom 21. August 1949 (WiGBl. S. 279) darstellt,
@@ -2074,6 +2193,7 @@ bezeichneten Art nicht statt.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012600326)
 
 Ein aus der Regelung einer Auslandsschuld, die keine
 Valutaverpflichtung im Sinne des § 10 des D-Markbilanzgesetzes ist,
@@ -2083,6 +2203,7 @@ entfällt, die nach dem 21. Juni 1948 entstanden sind.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012700326)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 Vorschriften durch Rechtsverordnung zu erlassen, nach denen bei im
@@ -2092,10 +2213,12 @@ kann.
 
 
 ### f) - Änderung von Vorschriften über die Neuordnung des Geldwesens
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001800326)
 
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012800326)
 
 (1) ... Soweit ein Zweitschuldner im Sinne von § 15 Abs. 8 des
 Umstellungsgesetzes gegenüber einem Angehörigen der Vereinten Nationen
@@ -2120,10 +2243,12 @@ und 183 des Lastenausgleichsgesetzes sind nicht anzuwenden.
 
 
 ### g) - Verbindlichkeiten von Geldinstituten
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG001900326)
 
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE012900326)
 
 (1) Verbindlichkeiten aus Schuldverhältnissen der in § 22 des
 Umstellungsgesetzes bezeichneten Art, auf die Anlage II des Abkommens
@@ -2175,6 +2300,7 @@ Reichsmarkschlußbilanz.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013000326)
 
 (1) Für Berliner Altbanken gilt § 103 Abs. 1 bis 4 und Abs. 6
 entsprechend. Zur Durchführung des Artikels 14 Abs. 2 des Abkommens
@@ -2189,6 +2315,7 @@ ein zusätzlicher Passivposten in die Umstellungsrechnung einzustellen.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013100326)
 
 (1) Soweit einem Geldinstitut die Erfüllung der unter Anlage II des
 Abkommens fallenden Schulden auf andere Weise nicht möglich oder nicht
@@ -2204,24 +2331,29 @@ ausreichen.
 
 
 ### h) - Vertragshilferecht
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG002000326)
 
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013200326)
 
 -
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013300326)
 
 -
 
 
 ### i) - Devisenrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG002100326)
 
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013404118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie erläßt im
 Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen
@@ -2238,10 +2370,12 @@ Rechtsverordnungen erforderlichen Genehmigungen.
 
 
 ### k) - Kostenrechtliche Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG014600326)
 
 
 
 #### § 108a
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013500326)
 
 (1) Für die Eintragung der Begründung, Veränderung oder Aufhebung von
 Hypotheken, Grundschulden oder Rentenschulden in das Grundbuch sowie
@@ -2259,15 +2393,18 @@ Erklärungen beurkundet werden.
 
 
 #### § 108b
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013601309)
 
 -
 
 
 ## Vierter Abschnitt - Sonderbestimmungen für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG002200326)
 
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013700326)
 
 Für die Anwendung dieses Gesetzes in Berlin treten
 
@@ -2316,6 +2453,7 @@ Für die Anwendung dieses Gesetzes in Berlin treten
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013800326)
 
 Die Vorschriften der Artikel V bis VIII des
 Grundpfandrechtsumstellungsgesetzes bleiben von der Vorschrift des §
@@ -2323,6 +2461,7 @@ Grundpfandrechtsumstellungsgesetzes bleiben von der Vorschrift des §
 
 
 ### § 111
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE013900326)
 
 Für die Rechtsverhältnisse der neuen oder weiteren Hypothek gelten
 abweichend von § 53 folgende Vorschriften:
@@ -2384,6 +2523,7 @@ abweichend von § 53 folgende Vorschriften:
 
 
 ### § 112
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014001360)
 
 (1) Für die Anwendung des § 59 treten an die Stelle von § 113 des
 Lastenausgleichsgesetzes dessen § 150 und an die Stelle des § 58 Abs.
@@ -2400,6 +2540,7 @@ ohnehin ausgeschlossen wird.
 
 
 ### § 113
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014100326)
 
 § 2 Nr. 4 des Grundpfandrechtsumstellungsgesetzes erhält mit Wirkung
 vom 25. Juni 1948 folgende Fassung:
@@ -2429,12 +2570,14 @@ vom 25. Juni 1948 folgende Fassung:
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014200326)
 
 Für die Anwendung der §§ 69, 70 und 73 tritt an die Stelle des Landes
 Berlin der Bund.
 
 
 ### § 115
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014300326)
 
 (1) Die auf Grundbesitz in Berlin West entrichtete Baunotabgabe
 (Gesetz über eine Baunotabgabe vom 21. Juli 1949 - Verordnungsblatt
@@ -2466,10 +2609,12 @@ Abs. 1 Satz 2 des D-Markbilanzgesetzes nach einem Umrechnungskurs vom
 
 
 ## Fünfter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNG002300326)
 
 
 
 ### § 116
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014400326)
 
 Dieses Gesetz gilt nach Maßgabe der §§ 12 Abs. 1 und 13 Abs. 1 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
@@ -2479,6 +2624,7 @@ Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ### § 117
+[Direktlink](https://www.gesetze-im-internet.de/auslschuldabkag/BJNR010030953.html#BJNR010030953BJNE014500326)
 
 Das Gesetz tritt mit dem Tage in Kraft, an dem das Abkommen über
 deutsche Auslandsschulden vom 27. Februar 1953 gemäß seinem Artikel 35

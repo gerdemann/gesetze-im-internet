@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000101123)
 
 Einwirkungsbereiche von untertägigen Bergbaubetrieben, von
 Bergbaubetrieben mit Hilfe von Bohrungen und von Untergrundspeichern
@@ -29,6 +30,7 @@ festzulegen.
 
 
 ## § 2 Räumliche Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000202124)
 
 (1) Der Unternehmer hat, soweit in den §§ 3 und 5 nichts anderes
 bestimmt ist, die Grenze des Einwirkungsbereichs für die Anwendung der
@@ -66,6 +68,7 @@ Technik entsprechende Grenzwinkel herangezogen werden.
 
 
 ## § 3 Andere Art der Festlegung des Einwirkungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000302124)
 
 (1) Der Unternehmer hat abweichend von § 2 Absatz 1 die Grenze des
 Einwirkungsbereichs im Einzelfall zu ermitteln, wenn
@@ -115,6 +118,7 @@ Unternehmer und öffentlich bekanntzugeben.
 
 
 ## § 4 Zeitliche Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000402124)
 
 (1) Die Festlegung des Einwirkungsbereichs gilt von dem Zeitpunkt des
 Erreichens der nach § 2 Absatz 2, auch in Verbindung mit § 3 Absatz 2,
@@ -138,6 +142,7 @@ nachweisbar sind.
 
 
 ## § 5 Erweiterter Einwirkungsbereich für besondere Anlagen und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000502124)
 
 Können einzelne Anlagen oder Einrichtungen wegen ihrer Bau- oder
 Betriebsweise oder aus anderen Gründen durch Bodensenkungen oder
@@ -152,6 +157,7 @@ entsprechend.
 
 
 ## § 6 Erneute Ermittlung des Einwirkungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000601124)
 
 Wenn nach Festsetzung der Grenze eines Einwirkungsbereichs Tatsachen
 die Annahme rechtfertigen, dass die Grenze des tatsächlichen
@@ -176,6 +182,7 @@ Einwirkungsbereichs erheblich abweicht,
 
 
 ## § 7 Zeichnerische Darstellungen zum Betriebsplan
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000702124)
 
 Dem Betriebsplan hat der Unternehmer in den Fällen des § 2 Absatz 1
 und 4 zeichnerische Darstellungen beizufügen, in denen der
@@ -184,6 +191,7 @@ einzutragen ist.
 
 
 ## Anlage Liste der Einwirkungswinkel nach § 2 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/einwirkungsbergv/BJNR015580982.html#BJNR015580982BJNE000801123)
 
 (Fundstelle: BGBl. I 2016, 1964)
 

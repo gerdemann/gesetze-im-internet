@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/telekombran_rgano/BJNR009820992.html#BJNR009820992BJNE000100314)
 
 In Ergänzung unserer Anordnung über die Übertragung von Befugnissen
 auf dem Gebiete des Beamtenrechts im Geschäftsbereich der Deutschen

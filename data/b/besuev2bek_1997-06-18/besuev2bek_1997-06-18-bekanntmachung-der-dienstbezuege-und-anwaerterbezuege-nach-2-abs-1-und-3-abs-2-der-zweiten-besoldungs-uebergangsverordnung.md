@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000100320)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035),
@@ -39,6 +40,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage IA Gültig ab 1. Juli 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000200320)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
 
@@ -978,6 +980,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
    (Anlage V des BBesG)
 
 ## Anlage IB Gültig ab 1. Juli 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000300320)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1415)
 
@@ -1034,6 +1037,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage IX des BBesG)
 
 ## Anlage IC Gültig ab 1. Juli 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000400320)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1416 - 1418)
 
@@ -2285,6 +2289,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage IV des BBesG)
 
 ## Anlage IIA Gültig ab 1. September 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000500320)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1419 - 1421)
 
@@ -3271,6 +3276,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage V des BBesG)
 
 ## Anlage IIB Gültig ab 1. September 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000600320)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1422)
 
@@ -3327,6 +3333,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIII des BBesG)
 
 ## Anlage IIC Gültig ab 1. September 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000700320)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1422
 
@@ -3428,6 +3435,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
 (Anlage IX des BBesG)
 
 ## Anlage IID Gültig ab 1. September 1997
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1997-06-18/BJNR141100997.html#BJNR141100997BJNE000800320)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1423 - 1425)
 

@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 2 Satz 1 Nummer 2, 3 und 7 der Handwerksordnung, von denen § 25 Absatz
@@ -34,6 +35,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000200000)
 
 Der Ausbildungsberuf des Feinwerkmechanikers und der
 Feinwerkmechanikerin wird gemäß § 25 der Handwerksordnung zur
@@ -42,11 +44,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einem der folgenden Schwerpunkte:
@@ -67,6 +71,7 @@ und die Ausbildung in einem der folgenden Schwerpunkte:
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -140,6 +145,7 @@ Feinwerkmechanikerin gliedert sich wie folgt (Ausbildungsberufsbild):
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000600000)
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
 sollen so vermittelt werden, dass die Auszubildenden zur Ausübung
@@ -160,6 +166,7 @@ Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000700000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
@@ -180,6 +187,7 @@ Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000800000)
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -242,6 +250,7 @@ Vorgaben:
 
 
 ## § 8 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE000900000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -442,6 +451,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE001000000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -507,6 +517,7 @@ bewertet worden sind:
 
 
 ## § 10 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE001100000)
 
 Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche
 „Fertigungstechnik“, „Funktionsanalyse“ oder „Wirtschafts- und
@@ -519,6 +530,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 11 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE001200000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -527,6 +539,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Feinwerkmechaniker und
@@ -535,6 +548,7 @@ Kraft.
 
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/feinwausbv/BJNR088800010.html#BJNR088800010BJNE001400000)
 
 (Fundstelle: BGBl. I 2010, 892 - 901)
 

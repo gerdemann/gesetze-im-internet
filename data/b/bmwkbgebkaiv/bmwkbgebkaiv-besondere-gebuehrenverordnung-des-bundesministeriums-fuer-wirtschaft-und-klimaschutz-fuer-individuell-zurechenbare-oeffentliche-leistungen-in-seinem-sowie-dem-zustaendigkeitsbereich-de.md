@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000100000)
 
 Auf Grund
 
@@ -51,6 +52,7 @@ verordnet das Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Erhebung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000200000)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz und das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle erheben in ihrem
@@ -102,6 +104,7 @@ Verordnung nicht berührt.
 
 
 ## § 2 Höhe der Gebühren; Befreiung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000300000)
 
 (1) Die Höhe der Gebühren richtet sich nach dem Gebührenverzeichnis in
 der Anlage. Das Gebührenverzeichnis regelt ferner Tatbestände für eine
@@ -151,6 +154,7 @@ Verwaltungsvorschriften erlassen.
 
 
 ## § 3 Freigrenze
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000400000)
 
 (1) Für gebührenfähige Leistungen in Bezug auf Rechtsgeschäfte und
 Handlungen, deren Wert nach § 2 Absatz 3 5 000 Euro nicht
@@ -164,6 +168,7 @@ Gebührenverzeichnisses.
 
 
 ## § 4 Aufgabenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000500000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann den Erlass
 von Gebührenbescheiden und die Einziehung von Gebühren in seinem
@@ -172,18 +177,21 @@ Ausfuhrkontrolle übertragen.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000600000)
 
 Diese Verordnung gilt nicht für gebührenfähige Leistungen, die vor dem
 1\. Januar 2024 beantragt werden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmwkbgebkaiv/BJNR0F80A0023.html#BJNR0F80A0023BJNE000800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 248, S. 4 - 10)
 

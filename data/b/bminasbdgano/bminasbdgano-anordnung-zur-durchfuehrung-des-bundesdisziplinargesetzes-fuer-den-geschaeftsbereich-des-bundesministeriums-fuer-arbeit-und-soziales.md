@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000100000)
 
 Nach § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1 Satz 2 und
 des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl.
@@ -26,6 +27,7 @@ I S. 1510) wird angeordnet:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000200000)
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind außer
 der Bundesministerin oder dem Bundesminister für Arbeit und Soziales
@@ -48,6 +50,7 @@ jeweils für ihren oder seinen Geschäftsbereich:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000300000)
 
 Den in Abschnitt I genannten Dienstvorgesetzten wird übertragen:
 
@@ -81,6 +84,7 @@ Den in Abschnitt I genannten Dienstvorgesetzten wird übertragen:
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000400000)
 
 Über die Einleitung von Disziplinarverfahren ist das Bundesministerium
 für Arbeit und Soziales unverzüglich zu unterrichten. Dazu ist der
@@ -90,6 +94,7 @@ und § 43 Satz 1 des Bundesdisziplinargesetzes bleiben unberührt.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000500000)
 
 Die Regelungen in den Abschnitten I bis III sowie in Abschnitt V
 werden hinsichtlich des Bundesarbeitsgerichts nach § 40 Abs. 2 Satz 2
@@ -103,6 +108,7 @@ Einvernehmen mit dem Bundesministerium der Justiz getroffen.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000600000)
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft. Von diesem
 Zeitpunkt an sind nicht mehr anzuwenden:
@@ -126,6 +132,7 @@ Zeitpunkt an sind nicht mehr anzuwenden:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bminasbdgano/BJNR052500006.html#BJNR052500006BJNE000700000)
 
 Der Bundesminister für Arbeit und Soziales
 

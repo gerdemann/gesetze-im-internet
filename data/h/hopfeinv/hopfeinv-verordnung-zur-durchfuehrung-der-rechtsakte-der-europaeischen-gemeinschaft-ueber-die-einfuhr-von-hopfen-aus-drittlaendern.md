@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000100320)
 
 Es verordnet
 
@@ -43,6 +44,7 @@ Es verordnet
 
 
 ## § 1 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000200320)
 
 Zuständig für die Durchführung der Rechtsakte der Europäischen
 Gemeinschaft über die Einfuhr von Hopfen aus Drittländern ist, soweit
@@ -51,6 +53,7 @@ sind, die Bundesanstalt für Landwirtschaft und Ernährung.
 
 
 ## § 2 Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000300320)
 
 Erzeugnisse aus Drittländern dürfen vorbehaltlich des Artikels 8 der
 Verordnung (EWG) Nr. 3076/78 der Kommission vom 21. Dezember 1978 über
@@ -62,6 +65,7 @@ den Geltungsbereich dieser Verordnung verbracht werden.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000401377)
 
 (1) Ordnungswidrig im Sinne des § 36 Abs. 4 Satz 1 des Gesetzes zur
 Durchführung der Gemeinsamen Marktorganisationen und der
@@ -86,6 +90,7 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig entgegen §
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000500320)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -93,6 +98,7 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig entgegen §
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hopfeinv/BJNR001400997.html#BJNR001400997BJNE000600320)
 
 Der Bundesrat hat zugestimmt.
 

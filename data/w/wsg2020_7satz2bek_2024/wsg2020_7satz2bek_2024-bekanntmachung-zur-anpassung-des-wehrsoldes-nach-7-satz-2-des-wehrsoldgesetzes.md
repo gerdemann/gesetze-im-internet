@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2024/BJNR0140A0024.html#BJNR0140A0024BJNE000100000)
 
 Auf Grund des § 7 Satz 2 des Wehrsoldgesetzes vom 4. August 2019
 (BGBl. I S. 1147, 1158), das zuletzt durch Artikel 20 des Gesetzes vom
@@ -27,11 +28,13 @@ nach der Tabelle in der Anlage des Wehrsoldgesetzes bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2024/BJNR0140A0024.html#BJNR0140A0024BJNE000200000)
 
 Der Bundesminister der Verteidigung
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/wsg2020_7satz2bek_2024/BJNR0140A0024.html#BJNR0140A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 20, S. 2)
 

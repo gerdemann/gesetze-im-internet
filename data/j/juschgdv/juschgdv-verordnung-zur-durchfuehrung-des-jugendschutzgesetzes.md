@@ -20,17 +20,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000100301)
 
 Auf Grund des § 26 des Jugendschutzgesetzes vom 23. Juli 2002 (BGBl. I
 S. 2730, 2003 I S. 476) verordnet die Bundesregierung:
 
 
 ## § 1 Sitz der Prüfstelle für jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000201125)
 
 Sitz der Prüfstelle für jugendgefährdende Medien ist Bonn.
 
 
 ## § 2 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000302130)
 
 (1) Der Antrag auf Aufnahme eines Mediums in die Liste
 jugendgefährdender Medien (Liste) muss schriftlich oder elektronisch
@@ -50,6 +53,7 @@ werden.
 
 
 ## § 3 Einheitliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000400301)
 
 Werden wegen desselben Mediums mehrere Anträge gestellt oder
 Anregungen eingereicht, so ist über sämtliche Anträge und Anregungen
@@ -57,6 +61,7 @@ in einem einheitlichen Verfahren zu verhandeln und zu entscheiden.
 
 
 ## § 4 Beteiligte, Anregende
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000502130)
 
 (1) Beteiligte sind in einem Verfahren:
 
@@ -79,6 +84,7 @@ Stellen und die zu deren Vertretung berechtigten Personen.
 
 
 ## § 5 Verhandlungstermin
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000601125)
 
 (1) Die oder der Vorsitzende der Prüfstelle für jugendgefährdende
 Medien bestimmt den Verhandlungstermin.
@@ -112,6 +118,7 @@ Benachrichtigung oder die Einhaltung der Frist verzichtet haben.
 
 
 ## § 6 Ablehnung von Mitgliedern der Prüfstelle für jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000701125)
 
 (1) Ein Mitglied der Prüfstelle für jugendgefährdende Medien, das sich
 im Einzelfall für befangen erklärt, darf bei der Verhandlung und
@@ -136,6 +143,7 @@ Vorsitzenden eine zur Vertretung berechtigte Person.
 
 
 ## § 7 Verhandlungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000802125)
 
 (1) Die Verhandlung ist mündlich. Die oder der Vorsitzende kann
 Zeuginnen oder Zeugen und Sachverständige zur Verhandlung heranziehen.
@@ -153,6 +161,7 @@ Person vertreten lassen.
 
 
 ## § 8 Durchführung der Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE000901125)
 
 (1) Die oder der Vorsitzende der Prüfstelle für jugendgefährdende
 Medien eröffnet, leitet und schließt die Verhandlung. Ihr oder ihm
@@ -171,6 +180,7 @@ Beteiligten zu richten.
 
 
 ## § 8a Durchführung der Sitzung des Gremiums im Wege der Bild- und Tonübertragung
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001900125)
 
 (1) Die oder der Vorsitzende der Prüfstelle für jugendgefährdende
 Medien kann folgenden Personen auf deren Antrag oder von Amts wegen
@@ -214,6 +224,7 @@ aufzuhalten, so wird die Vernehmung auch an diesen Ort übertragen.
 
 
 ## § 9 Beratung, Abstimmung, Entscheidung, Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001004125)
 
 (1) Bei der Beratung und Abstimmung sind anwesend
 
@@ -253,6 +264,7 @@ innerhalb von vier Wochen nach dem Abschluss der Verhandlung erfolgen.
 
 
 ## § 10 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001101125)
 
 (1) Soll ein Medium im vereinfachten Verfahren in die Liste
 aufgenommen werden, so muss die oder der Vorsitzende der Prüfstelle
@@ -282,6 +294,7 @@ tätig wird.
 
 
 ## § 11 Belehrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001201125)
 
 Die oder der Vorsitzende der Prüfstelle für jugendgefährdende Medien
 hat die Beisitzerinnen und Beisitzer sowie Personen, denen sie oder er
@@ -296,6 +309,7 @@ Amtes zu verpflichten. Die Verpflichtung ist in die Niederschrift nach
 
 
 ## § 12 Stellvertretende Mitglieder der Prüfstelle für jugendgefährdende Medien
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001301125)
 
 (1) Die Reihenfolge, in der die Gruppenbeisitzerinnen und -beisitzer
 nach § 19 Absatz 2 des Jugendschutzgesetzes an den einzelnen
@@ -323,6 +337,7 @@ die zu ihrer oder seiner Vertretung berufene Person.
 
 
 ## § 13 Führung und Veröffentlichung der Liste
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001401125)
 
 Die Bundeszentrale für Kinder- und Jugendmedienschutz hat den als
 öffentlich geführten Teil der Liste in geeigneter Weise in einer
@@ -332,6 +347,7 @@ Bundesprüfstelle für jugendgefährdende Medien geführten Liste.
 
 
 ## § 14 Zusammenarbeit mit der Kommission für Jugendmedienschutz
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001502130)
 
 (1) Die Prüfstelle für jugendgefährdende Medien hat vor der
 Entscheidung über die Aufnahme eines digitalen Dienstes in die Liste
@@ -357,6 +373,7 @@ Ereignisse.
 
 
 ## § 15 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001602130)
 
 (1) Wird ein Trägermedium in die Liste jugendgefährdender Medien
 aufgenommen, die Aufnahme in die Liste jedoch nach § 24 Absatz 2a Satz
@@ -377,11 +394,13 @@ mitteilen.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001701125)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/juschgdv/BJNR179100003.html#BJNR179100003BJNE001800301)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vertlast_ndg/BJNR248220002.html#BJNR248220002BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis Art 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vertlast_ndg/BJNR248220002.html#BJNR248220002BJNE000200308)
 
 -
 
 
 ## Art 7 Rechtsstellung der Beamten, Versorgungsempfänger und anderen Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/vertlast_ndg/BJNR248220002.html#BJNR248220002BJNE000300308)
 
 Der Übertritt kraft Gesetzes der bisher mit der
 Verteidigungslastenverwaltung befassten Beamten und anderen
@@ -38,6 +41,7 @@ durch den Bund werden ausgeschlossen.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vertlast_ndg/BJNR248220002.html#BJNR248220002BJNE000400308)
 
 Dieses Gesetz tritt am 1. Januar 2003 für die Länder Baden-
 Württemberg, Berlin, Brandenburg, Bremen, Hamburg, Mecklenburg-

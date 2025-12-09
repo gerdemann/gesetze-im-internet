@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000200000)
 
 (1) Diese Verordnung regelt die Allgemeinen Bedingungen, zu denen
 Netzbetreiber nach § 18 Abs. 1 des Energiewirtschaftsgesetzes
@@ -55,6 +57,7 @@ Gasversorgungsnetzes der allgemeinen Versorgung im Sinne des § 18 Abs.
 
 
 ### § 2 Netzanschlussverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000302377)
 
 (1) Das Netzanschlussverhältnis umfasst den Anschluss der Gasanlage
 über den Netzanschluss und dessen weiteren Betrieb. Es besteht
@@ -94,6 +97,7 @@ hinzuweisen.
 
 
 ### § 3 Anschlussnutzungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000400000)
 
 (1) Inhalt der Anschlussnutzung ist das Recht zur Nutzung des
 Netzanschlusses zur Entnahme von Gas. Die Anschlussnutzung umfasst
@@ -133,6 +137,7 @@ nach § 18 hinzuweisen.
 
 
 ### § 4 Inhalt des Vertrages und der Bestätigung des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000501377)
 
 (1) Der Netzanschlussvertrag und die Bestätigung des Netzbetreibers in
 Textform nach § 2 Abs. 5 Satz 1 und § 3 Abs. 3 Satz 2 sollen eine
@@ -181,10 +186,12 @@ Internetseite zu veröffentlichen.
 
 
 ## Teil 2 - Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000200000)
 
 
 
 ### § 5 Netzanschluss
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000600000)
 
 Der Netzanschluss verbindet das Gasversorgungsnetz der allgemeinen
 Versorgung mit der Gasanlage des Anschlussnehmers, gerechnet von der
@@ -198,6 +205,7 @@ Netzanschlusses innerhalb des Bereichs der Kundenanlage eingebaut ist.
 
 
 ### § 6 Herstellung des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000702311)
 
 (1) Netzanschlüsse werden durch den Netzbetreiber hergestellt. Die
 Herstellung des Netzanschlusses soll vom Anschlussnehmer in Textform
@@ -231,6 +239,7 @@ Technik geeigneter Platz zur Verfügung zu stellen.
 
 
 ### § 7 Art des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000800000)
 
 (1) Der Brennwert mit der sich aus den Erzeugungs- oder
 Bezugsverhältnissen ergebenden Schwankungsbreite sowie der für die
@@ -246,6 +255,7 @@ Belange des Kunden, soweit möglich, angemessen zu berücksichtigen.
 
 
 ### § 8 Betrieb des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE000900000)
 
 (1) Netzanschlüsse gehören zu den Betriebsanlagen des Netzbetreibers.
 Er hat sicherzustellen, dass sie in seinem Eigentum stehen oder ihm
@@ -267,6 +277,7 @@ Netzbetreiber bestimmt.
 
 
 ### § 9 Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001000000)
 
 (1) Der Netzbetreiber ist berechtigt, vom Anschlussnehmer die
 Erstattung der bei wirtschaftlich effizienter Betriebsführung
@@ -306,6 +317,7 @@ zu viel gezahlten Betrag zu erstatten.
 
 
 ### § 10 Druckregelgeräte, besondere Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001101308)
 
 (1) Muss zum Netzanschluss eines Grundstücks ein besonderes
 Druckregelgerät oder eine besondere Einrichtung angebracht werden, so
@@ -327,6 +339,7 @@ Anlage ausschließlich der Anschlussnutzung des Grundstücks dient.
 
 
 ### § 11 Baukostenzuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001200000)
 
 (1) Der Netzbetreiber kann von dem Anschlussnehmer einen angemessenen
 Baukostenzuschuss zur Deckung der bei wirtschaftlich effizienter
@@ -360,6 +373,7 @@ aufgegliedert auszuweisen.
 
 
 ### § 12 Grundstücksbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001300000)
 
 (1) Anschlussnehmer, die Grundstückseigentümer sind, haben für Zwecke
 der örtlichen Versorgung das Anbringen und Verlegen von Leitungen
@@ -409,6 +423,7 @@ sind.
 
 
 ### § 13 Gasanlage
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001403377)
 
 (1) Für die ordnungsgemäße Errichtung, Erweiterung, Änderung und
 Instandhaltung der Gasanlage hinter der Hauptabsperreinrichtung
@@ -461,6 +476,7 @@ Anschlussnehmer zu veranlassen.
 
 
 ### § 13a Installateurverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE003100377)
 
 (1) Der Netzbetreiber darf eine Eintragung in sein
 Installateurverzeichnis nur von dem Nachweis einer ausreichenden
@@ -575,6 +591,7 @@ Verordnung sind entsprechend anzuwenden."
 
 
 ### § 14 Inbetriebsetzung der Gasanlage
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001500000)
 
 (1) Der Netzbetreiber oder dessen Beauftragter hat die Anlage über den
 Netzanschluss an das Verteilernetz anzuschließen und in Betrieb zu
@@ -597,6 +614,7 @@ Berechnungsverfahrens einfach nachvollziehen kann.
 
 
 ### § 15 Überprüfung der Gasanlage
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001600000)
 
 (1) Der Netzbetreiber ist berechtigt, die Anlage vor und, um
 unzulässige Rückwirkungen auf Einrichtungen des Netzbetreibers oder
@@ -618,10 +636,12 @@ Leib oder Leben darstellen.
 
 
 ## Teil 3 - Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000300000)
 
 
 
 ### § 16 Nutzung des Anschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001702377)
 
 (1) Der Netzbetreiber ist bei Bestehen eines
 Anschlussnutzungsverhältnisses verpflichtet, dem Anschlussnutzer in
@@ -646,6 +666,7 @@ und 13 Abs. 1 und 2, § 13a, § 14 Abs. 1 Satz 1, Abs. 2 und 3 sowie §
 
 
 ### § 17 Unterbrechung der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001802118)
 
 (1) Die Anschlussnutzung kann unterbrochen werden, soweit dies zur
 Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
@@ -676,6 +697,7 @@ Grund die Unterbrechung vorgenommen worden ist.
 
 
 ### § 18 Haftung bei Störungen der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE001900000)
 
 (1) Soweit der Netzbetreiber für Schäden, die ein Anschlussnutzer
 durch Unterbrechung oder durch Unregelmäßigkeiten in der
@@ -778,14 +800,17 @@ Unternehmen mitzuteilen.
 
 
 ## Teil 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000400000)
 
 
 
 ### Abschnitt 1 - Anlagenbetrieb und Rechte des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000500000)
 
 
 
 #### § 19 Betrieb von Gasanlagen und Verbrauchsgeräten, Eigenerzeugung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002000000)
 
 (1) Anlage und Gasgeräte sind vom Anschlussnehmer oder -nutzer so zu
 betreiben, dass Störungen anderer Anschlussnehmer oder -nutzer und
@@ -809,6 +834,7 @@ vor Rückwirkungen abhängig machen.
 
 
 #### § 20 Technische Anschlussbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002100000)
 
 Der Netzbetreiber ist berechtigt, in Form von Technischen
 Anschlussbedingungen weitere technische Anforderungen an den
@@ -824,6 +850,7 @@ und störungsfreie Versorgung gefährden würde.
 
 
 #### § 21 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002201308)
 
 Der Anschlussnehmer oder -nutzer hat nach vorheriger Benachrichtigung
 dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers, des
@@ -842,6 +869,7 @@ Benachrichtigung ist in den Fällen des § 24 Abs. 1 nicht erforderlich.
 
 
 #### § 22 Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002301308)
 
 (1) Für Messeinrichtungen hat der Anschlussnehmer Zählerplätze nach
 den anerkannten Regeln der Technik unter Verwendung der vom
@@ -872,10 +900,12 @@ und dem Messstellenbetreiber unverzüglich mitzuteilen.
 
 
 ### Abschnitt 2 - Fälligkeit, Folgen von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000600000)
 
 
 
 #### § 23 Zahlung, Verzug
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002400000)
 
 (1) Rechnungen werden zu dem vom Netzbetreiber angegebenen Zeitpunkt,
 frühestens jedoch zwei Wochen nach Zugang der Zahlungsaufforderung
@@ -900,6 +930,7 @@ Gegenansprüchen aufgerechnet werden.
 
 
 #### § 24 Unterbrechung des Anschlusses und der Anschlussnutzung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002500000)
 
 (1) Der Netzbetreiber ist berechtigt, den Netzanschluss und die
 Anschlussnutzung ohne vorherige Androhung zu unterbrechen, wenn der
@@ -964,6 +995,7 @@ gestatten.
 
 
 #### § 25 Kündigung des Netzanschlussverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002602118)
 
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
 auf das Ende eines Kalendermonats gekündigt werden. Eine Kündigung
@@ -981,6 +1013,7 @@ bekannt zu machen und den Anschlussnehmern mitzuteilen.
 
 
 #### § 26 Beendigung des Anschlussnutzungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002700000)
 
 (1) Das Anschlussnutzungsverhältnis besteht, bis der Anschlussnutzer
 die Anschlussnutzung einstellt. Er ist verpflichtet, dies dem
@@ -992,6 +1025,7 @@ Netzanschlussvertrages.
 
 
 #### § 27 Fristlose Kündigung oder Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002800000)
 
 Der Netzbetreiber ist in den Fällen des § 24 Abs. 1 berechtigt, das
 Netzanschlussverhältnis fristlos zu kündigen oder die Anschlussnutzung
@@ -1003,16 +1037,19 @@ angedroht wurde; § 24 Abs. 2 Satz 2 gilt entsprechend.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNG000700000)
 
 
 
 ### § 28 Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE002900000)
 
 Gerichtsstand ist der Ort des Netzanschlusses und der
 Anschlussnutzung.
 
 
 ### § 29 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ndav/BJNR248500006.html#BJNR248500006BJNE003000000)
 
 (1) Der Netzbetreiber ist verpflichtet, die Anschlussnehmer durch
 öffentliche Bekanntgabe und Veröffentlichung im Internet über die

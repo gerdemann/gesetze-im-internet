@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000100000)
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch Artikel 2
@@ -30,6 +31,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Persönlicher Geltungsbereich, leistungsbezogene Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000203124)
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
 Bank AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
@@ -37,6 +39,7 @@ leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000301311)
 
 (1) Das Leistungsentgelt nach § 1 wird als Jahresbetrag für erzielte
 Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe wird auf
@@ -50,6 +53,7 @@ Leistungsentgelt wird nicht auf die Besoldung angerechnet.
 
 
 ## § 3 Leistungsbudget
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000401124)
 
 (1) Für jede Laufbahngruppe mit Ausnahme derjenigen im Filialvertrieb
 wird ein Leistungsbudget ermittelt, das 60 Prozent der Summe aller
@@ -72,6 +76,7 @@ Beamten je Leistungsbudget unterrichtet.
 
 
 ## § 4 Ermittlung des Zahlbetrages
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000503124)
 
 (1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten
 entfallenden Zahlbeträge wird für jede Laufbahngruppe gesondert jede
@@ -185,6 +190,7 @@ Monate bestanden, ist der Faktor 0,5 nach Absatz 1 anzuwenden.
 
 
 ## § 5 Zielbewertung
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000600000)
 
 (1) Die Zielbewertung erfolgt nach den in § 4 Abs. 1 festgelegten
 Zielerreichungsstufen entsprechend dem Verhältnis der Zielvereinbarung
@@ -208,6 +214,7 @@ anonymisierter Form.
 
 
 ## § 6 Zielvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000702124)
 
 (1) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem
 Beamten wahrnimmt, schließt mit ihr oder ihm im ersten Quartal des
@@ -258,6 +265,7 @@ geheimhaltungsbedürftig kennzeichnen.
 
 
 ## § 7 Leistungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000801308)
 
 (1) Die Leistungsbeurteilung berücksichtigt folgende Kriterien:
 
@@ -294,6 +302,7 @@ Leistungsbeurteilung. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
 
 
 ## § 8 Einigungsverfahren für Zielbewertung und Leistungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE000904124)
 
 (1) Die Beamtin oder der Beamte kann gegen die Zielbewertung nach § 5
 oder gegen die Leistungsbeurteilung nach § 7 innerhalb einer
@@ -338,6 +347,7 @@ entsprechend.
 
 
 ## § 9 Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE001004124)
 
 Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die
 Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen
@@ -351,6 +361,7 @@ Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe
 
 
 ## § 10 Leistungszulage für Tätigkeiten im Filialbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/postbanklentgv/BJNR293800007.html#BJNR293800007BJNE001106119)
 
 (1) Beamtinnen und Beamte, denen eine Tätigkeit im Filialvertrieb
 zugewiesen ist, erhalten eine monatliche Leistungszulage

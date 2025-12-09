@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000205360)
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -69,6 +70,7 @@ Verfügungsberechtigter über Schlachttiere vorsätzlich oder fahrlässig
 
 
 ## § 2 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 852/2004
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000303360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
@@ -135,6 +137,7 @@ fahrlässig
 
 
 ## § 3 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 853/2004
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000408360)
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -640,6 +643,7 @@ fahrlässig
 
 
 ## § 4 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 854/2004
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001103360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -649,6 +653,7 @@ Verbindung mit Anhang IV Kapitel II Nummer 2 Satz 1 der Verordnung
 
 
 ## § 5 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2073/2005
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000504360)
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -664,6 +669,7 @@ vom Markt nimmt oder nicht oder nicht rechtzeitig zurückruft.
 
 
 ## § 6 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2074/2005
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000604360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -674,6 +680,7 @@ nicht rechtzeitig einer Sichtkontrolle unterzieht.
 
 
 ## § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 124/2009
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001803360)
 
 Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -691,6 +698,7 @@ Nr. 124/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 669/2009
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001206360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -701,6 +709,7 @@ nicht rechtzeitig übermittelt.
 
 
 ## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 931/2011
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001306360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -711,6 +720,7 @@ Information zur Verfügung gestellt wird.
 
 
 ## § 10 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 208/2013
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002202360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -721,10 +731,12 @@ nicht rechtzeitig zur Verfügung stellt.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002602130)
 
 
 
 ## § 12 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 884/2014
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002004360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
@@ -745,6 +757,7 @@ fahrlässig
 
 
 ## § 13 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 885/2014
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002104360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -755,6 +768,7 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
 
 
 ## § 14 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/175
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002304360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -765,6 +779,7 @@ nicht vollständig oder nicht rechtzeitig übermittelt.
 
 
 ## § 15 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/943
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002404360)
 
 (1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 2 der
@@ -777,6 +792,7 @@ Futtermittelgesetzbuches ordnungswidrig.
 
 
 ## § 16 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/1375
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002504360)
 
 (1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 13 Absatz
@@ -793,6 +809,7 @@ Durchführungsverordnung (EU) 2015/1375 einen Schlachtkörper zerlegt.
 
 
 ## § 17 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2016/6
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002701360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -803,6 +820,7 @@ nicht vollständig oder nicht rechtzeitig übermittelt.
 
 
 ## § 18 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2017/186
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE002802360)
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -813,6 +831,7 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
 
 
 ## § 19 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001610130)
 
 Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
@@ -820,11 +839,13 @@ auf die in der Anlage angegebenen Fassungen.
 
 
 ## § 20 (Inkrafttreten; Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE000812360)
 
 
 (zu § 19)
 
 ## Anlage Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/lmrstv_2006/BJNR213600006.html#BJNR213600006BJNE001017130)
 
 (Fundstelle: BGBl. I 2017, 1177 – 1178;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

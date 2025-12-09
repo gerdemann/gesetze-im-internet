@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kcanwisszustv/BJNR19D0A0024.html#BJNR19D0A0024BJNE000100000)
 
 Auf Grund des § 2 Absatz 4 Satz 6 des Konsumcannabisgesetzes vom 27.
 März 2024 (BGBl. 2024 I Nr. 109, S. 2) verordnet das Bundesministerium
@@ -26,6 +27,7 @@ für Ernährung und Landwirtschaft:
 
 
 ## § 1 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/kcanwisszustv/BJNR19D0A0024.html#BJNR19D0A0024BJNE000200000)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig für
 
@@ -41,6 +43,7 @@ Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig für
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kcanwisszustv/BJNR19D0A0024.html#BJNR19D0A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

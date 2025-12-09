@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000100310)
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000200310)
 
 (1) Der Ausbildungsberuf Gärtner/Gärtnerin wird staatlich anerkannt.
 
@@ -64,6 +66,7 @@ des Ausbildungsberufes hinzu.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000300310)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -75,6 +78,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000400310)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -91,6 +95,7 @@ ist auch in den Prüfungen nach den §§ 8 bis 15 nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000500310)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -296,6 +301,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000600310)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den
 Anlagen für die berufliche Grundbildung und für die berufliche
@@ -309,12 +315,14 @@ Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000700310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000800310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -323,6 +331,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE000900310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -409,6 +418,7 @@ insbesondere aus folgenden Gebieten zu bearbeiten:
 
 
 ## § 9 Abschlußprüfung in der Fachrichtung Baumschule
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001000310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Baumschule erstreckt sich
 auf die in der Anlage 1a aufgeführten Fertigkeiten und Kenntnisse
@@ -665,6 +675,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 10 Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001100310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
 erstreckt sich auf die in der Anlage 2a aufgeführten Fertigkeiten und
@@ -905,6 +916,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 11 Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001200310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau
 erstreckt sich auf die in der Anlage 3a aufgeführten Fertigkeiten und
@@ -1155,6 +1167,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 12 Abschlußprüfung in der Fachrichtung Gemüsebau
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001300310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Gemüsebau erstreckt sich
 auf die in der Anlage 4a aufgeführten Fertigkeiten und Kenntnisse
@@ -1417,6 +1430,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 13 Abschlußprüfung in der Fachrichtung Obstbau
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001400310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Obstbau erstreckt sich auf
 die in der Anlage 5a aufgeführten Fertigkeiten und Kenntnisse sowie
@@ -1690,6 +1704,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 14 Abschlußprüfung in der Fachrichtung Staudengärtnerei
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001500310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Staudengärtnerei erstreckt
 sich auf die in der Anlage 6a aufgeführten Fertigkeiten und Kenntnisse
@@ -1942,6 +1957,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 15 Abschlußprüfung in der Fachrichtung Zierpflanzenbau
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001600310)
 
 (1) Die Abschlußprüfung in der Fachrichtung Zierpflanzenbau erstreckt
 sich auf die in der Anlage 7a aufgeführten Fertigkeiten und Kenntnisse
@@ -2200,6 +2216,7 @@ Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
 
 ## § 16 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001700310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -2209,6 +2226,7 @@ die Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001800310)
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
@@ -2217,6 +2235,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Baumschule
 
 ## Anlage 1a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE001900310)
 
 (Fundstelle: BGBl. I 1996, S. 387 - 392)
 
@@ -3147,6 +3166,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Baumschule
 
 ## Anlage 1b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002000310)
 
 (Fundstelle: BGBl. I 1996, S. 393 - 395)
 
@@ -3922,6 +3942,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
 ## Anlage 2a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002100310)
 
 (Fundstelle: BGBl. I 1996, S. 396 - 401)
 
@@ -4822,6 +4843,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Friedhofsgärtnerei
 
 ## Anlage 2b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002200310)
 
 (Fundstelle: BGBl. I 1996, S. 402 - 404)
 
@@ -5606,6 +5628,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Garten- und Landschaftsbau
 
 ## Anlage 3a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002300310)
 
 (Fundstelle: BGBl. I 1996, S. 405 - 410)
 
@@ -6571,6 +6594,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Garten- und Landschaftsbau
 
 ## Anlage 3b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002400310)
 
 (Fundstelle: BGBl. I 1996, S. 411 - 413)
 
@@ -7303,6 +7327,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Gemüsebau
 
 ## Anlage 4a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002500310)
 
 (Fundstelle: BGBl. I 1996, S. 414 - 419)
 
@@ -8201,6 +8226,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Gemüsebau
 
 ## Anlage 4b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002600310)
 
 (Fundstelle: BGBl. I 1996, S. 420 - 422)
 
@@ -8970,6 +8996,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Obstbau
 
 ## Anlage 5a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002700310)
 
 (Fundstelle: BGBl. I 1996, S. 423 - 428)
 
@@ -9855,6 +9882,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Obstbau
 
 ## Anlage 5b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002800310)
 
 (Fundstelle: BGBl. I 1996, S. 429 - 431)
 
@@ -10621,6 +10649,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Staudengärtnerei
 
 ## Anlage 6a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE002900310)
 
 (Fundstelle: BGBl. I 1996, S. 432 - 437)
 
@@ -11509,6 +11538,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Staudengärtnerei
 
 ## Anlage 6b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE003000310)
 
 (Fundstelle: BGBl. I 1996, S. 438 - 440)
 
@@ -12278,6 +12308,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Zierpflanzenbau
 
 ## Anlage 7a - sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE003100310)
 
 (Fundstelle: BGBl. I 1996, S. 441 - 446)
 
@@ -13193,6 +13224,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur
 Gärtnerin für die Fachrichtung Zierpflanzenbau
 
 ## Anlage 7b - zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/g_rtnausbv/BJNR037600996.html#BJNR037600996BJNE003200310)
 
 (Fundstelle: BGBl. I 1996, S. 447 - 449)
 

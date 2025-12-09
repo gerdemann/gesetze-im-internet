@@ -21,10 +21,12 @@ Geändert durch
 
 
 ## Art 1 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000100319)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000200319)
 
 Die in
 
@@ -64,10 +66,12 @@ enthaltenen Umsatzsteuerbefreiungen werden aufgehoben.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000300319)
 
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000400319)
 
 (1) Die Vorschriften des Artikels 4 Nr. 1, 2, 4 und 5 und des Artikels
 6 Nr. 2 sind anzuwenden
@@ -90,15 +94,18 @@ Leistungen, die nach dem 31. Dezember 1966 ausgeführt werden.
 
 
 ## Art 8 - Mineralölsteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000500319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNE000900319)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNE001000319)
 
 Bedingte Steuerschulden für Mineralöle erhöhen sich mit dem
 Inkrafttreten dieses Gesetzes auf den Betrag, der sich bei Anwendung
@@ -106,6 +113,7 @@ der Steuersätze nach § 1 ergibt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNE001100319)
 
 (1) Mineralöle, für die beim Inkrafttreten dieses Gesetzes eine
 unbedingte Steuerschuld besteht oder Mineralölsteuer bereits
@@ -155,15 +163,18 @@ Mineralöl mit dem Ablauf der Anmeldefrist fällig.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNE001200319)
 
 -
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000600319)
 
 
 
 ## Art 10 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000700319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -173,6 +184,7 @@ im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art 11 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1966/BJNR007029966.html#BJNR007029966BJNG000800319)
 
 Dieses Gesetz tritt mit Ausnahme der Artikel 8 und 9 am Tage nach der
 Verkündung, Artikel 8 tritt am 1. Januar 1967, Artikel 9 am 1. April

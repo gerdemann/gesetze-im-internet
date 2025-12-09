@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000201310)
 
 (1) Wer aus Gewissensgründen unter Berufung auf das Grundrecht der
 Kriegsdienstverweigerung im Sinne des Artikels 4 Abs. 3 Satz 1 des
@@ -35,6 +36,7 @@ nach Artikel 12a Absatz 2 des Grundgesetzes zu leisten.
 
 
 ## § 2 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000300000)
 
 (1) Über die Berechtigung, den Kriegsdienst mit der Waffe zu
 verweigern, entscheidet das Bundesamt für den Zivildienst (Bundesamt)
@@ -101,6 +103,7 @@ und der personalbearbeitenden Stelle beizufügen.
 
 
 ## § 3 Folgen des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000400000)
 
 (1) Die Antragstellung nach § 2 hindert nicht die Erfassung und
 befreit einen Wehrpflichtigen nicht von der Pflicht, sich zur
@@ -117,6 +120,7 @@ unanfechtbar abgelehnt oder zurückgenommen worden ist.
 
 
 ## § 4 Vorrangige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000501310)
 
 Beantragt eine Soldatin oder ein Soldat die Anerkennung der
 Berechtigung, den Kriegsdienst mit der Waffe zu verweigern, ist über
@@ -129,6 +133,7 @@ worden sind.
 
 
 ## § 5 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000600000)
 
 Die Antragstellerin ist als Kriegsdienstverweigerin und der
 Antragsteller ist als Kriegsdienstverweigerer anzuerkennen, wenn
@@ -150,6 +155,7 @@ Antragsteller ist als Kriegsdienstverweigerer anzuerkennen, wenn
 
 
 ## § 6 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000700000)
 
 (1) Hat das Bundesamt Zweifel an der Wahrheit der Angaben der
 Antragstellerin oder des Antragstellers, gibt es ihr oder ihm
@@ -190,6 +196,7 @@ Verdienstausfall und notwendigen Aufwendungen zu regeln.
 
 
 ## § 7 Ablehnung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000800000)
 
 (1) Das Bundesamt lehnt den Antrag ab, wenn
 
@@ -216,6 +223,7 @@ mündlichen Anhörung nicht, entscheidet das Bundesamt nach Aktenlage.
 
 
 ## § 8 Vertretung bei der Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE000900000)
 
 Zur unentgeltlichen Vertretung der Antragstellerin oder des
 Antragstellers bei einer Anhörung sind auch die von den Kirchen und
@@ -224,6 +232,7 @@ beauftragten Personen zugelassen.
 
 
 ## § 9 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE001000000)
 
 (1) Für das Widerspruchsverfahren gelten die §§ 68 ff. der
 Verwaltungsgerichtsordnung, soweit in diesem Gesetz nichts anderes
@@ -238,6 +247,7 @@ einlegen.
 
 
 ## § 10 Verwaltungsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE001100000)
 
 (1) Im Verfahren vor dem Verwaltungsgericht und dem
 Bundesverwaltungsgericht gelten die §§ 8 und 9 Abs. 2 entsprechend. §
@@ -254,6 +264,7 @@ Gerichtsverfassungsgesetzes entsprechend anzuwenden.
 
 
 ## § 11 Spannungs- und Verteidigungsfall, Bereitschaftsdienst
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE001201310)
 
 (1) Im Spannungsfall (Artikel 80a des Grundgesetzes) und im
 Verteidigungsfall (Artikel 115a des Grundgesetzes)
@@ -278,6 +289,7 @@ entsprechend anzuwenden.
 
 
 ## § 12 Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE001300000)
 
 (1) Auf die Führung der Personalakte der Antragstellerin oder des
 Antragstellers im Bundesamt ist § 36 des Zivildienstgesetzes
@@ -322,6 +334,7 @@ Dateien gespeicherten personenbezogenen Daten.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html#BJNR159310003BJNE001401360)
 
 -
 

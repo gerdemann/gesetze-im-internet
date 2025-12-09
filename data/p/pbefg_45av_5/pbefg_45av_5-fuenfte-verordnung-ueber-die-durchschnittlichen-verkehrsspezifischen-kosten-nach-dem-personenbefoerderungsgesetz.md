@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_45av_5/BJNR007410990.html#BJNR007410990BJNE000100308)
 
 Auf Grund des § 45a Abs. 5 Satz 3 des Personenbeförderungsgesetzes in
 der im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1,
@@ -28,6 +29,7 @@ verordnet der Bundesminister für Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_45av_5/BJNR007410990.html#BJNR007410990BJNE000200308)
 
 Die durchschnittlichen verkehrsspezifischen Kosten je Personen-
 Kilometer betragen bei den in § 45a Abs. 5 Satz 1 und 2 des
@@ -36,6 +38,7 @@ Personen-Kilometer.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_45av_5/BJNR007410990.html#BJNR007410990BJNE000300308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 66 des Personenbeförderungsgesetzes auch im Land
@@ -43,11 +46,13 @@ Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_45av_5/BJNR007410990.html#BJNR007410990BJNE000400308)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1989 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pbefg_45av_5/BJNR007410990.html#BJNR007410990BJNE000500308)
 
 Der Bundesrat hat zugestimmt.
 

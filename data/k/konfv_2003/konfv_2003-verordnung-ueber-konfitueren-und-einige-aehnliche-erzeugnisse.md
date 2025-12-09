@@ -29,6 +29,7 @@ in deutsches Recht umgesetzt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet auf Grund des § 19 Abs. 1 Nr. 1 und 2
@@ -43,6 +44,7 @@ Bundesministerium für Wirtschaft und Arbeit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000200000)
 
 Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
@@ -52,6 +54,7 @@ Konditoreiwaren oder Keksen bestimmt sind.
 
 
 ## § 2 Zutaten
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000301116)
 
 (1) Die Ausgangserzeugnisse für Erzeugnisse nach Anlage 1 müssen den
 Anforderungen der Anlage 2 entsprechen.
@@ -69,6 +72,7 @@ verwendet werden.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000402116)
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in
 Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach
@@ -148,6 +152,7 @@ Durchführungsverordnung entsprechend.
 
 
 ## § 4 Verkehrsverbot
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000500000)
 
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung
 versehen sind, ohne den in Anlage 1 genannten
@@ -156,6 +161,7 @@ entsprechen, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000601310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Lebensmittel
@@ -172,6 +178,7 @@ Erzeugnis in den Verkehr bringt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000700000)
 
 Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 5. November
 2003 geltenden Vorschriften hergestellt und gekennzeichnet werden.
@@ -180,6 +187,7 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000800000)
 
 (1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -187,12 +195,14 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 1 bis 4)
 
 ## Anlage 1 Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE001002116)
 
 (Fundstelle: BGBl. I 2003, 2153 - 2154;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -429,6 +439,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Abs. 1 und § 4)
 
 ## Anlage 2 Ausgangserzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE001100000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
@@ -553,6 +564,7 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2155
 (zu § 2 Abs. 2)
 
 ## Anlage 3 Zutaten
+[Direktlink](https://www.gesetze-im-internet.de/konfv_2003/BJNR215100003.html#BJNR215100003BJNE001200000)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2156
 

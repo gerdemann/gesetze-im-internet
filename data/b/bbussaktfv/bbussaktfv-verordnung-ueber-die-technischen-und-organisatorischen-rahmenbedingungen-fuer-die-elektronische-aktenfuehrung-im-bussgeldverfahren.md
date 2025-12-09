@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000100000)
 
 Auf Grund des § 110a Absatz 2 Satz 1 des Gesetzes über
 Ordnungswidrigkeiten, der durch Artikel 8 Nummer 13 des Gesetzes vom
@@ -26,6 +27,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf elektronisch geführte Bußgeldakten
 
@@ -42,6 +44,7 @@ Diese Verordnung ist anzuwenden auf elektronisch geführte Bußgeldakten
 
 
 ## § 2 Struktur und Format elektronischer Akten; Repräsentat
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000300000)
 
 (1) In der elektronischen Akte werden zur Akte gebrachte elektronische
 Dokumente einschließlich zugehöriger Signaturdateien sowie sonstige
@@ -79,6 +82,7 @@ Grundsätze beachten.
 
 
 ## § 3 Bearbeitung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000400000)
 
 (1) Elektronische Dokumente sowie sonstige Dateien und Informationen
 gelten als zur Akte genommen, wenn sie bewusst und dauerhaft in der
@@ -96,6 +100,7 @@ teilweise auf eine andere Stelle übergehen.
 
 
 ## § 4 Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000500000)
 
 Elektronische Akten und Verfahren zur elektronischen Aktenführung und
 -bearbeitung sollen technisch so gestaltet werden, dass sie, soweit
@@ -109,6 +114,7 @@ Beschaffung beachtet werden.
 
 
 ## § 5 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000600000)
 
 Im Fall technischer Störungen der elektronischen Aktenführung kann
 angeordnet werden, dass eine Ersatzakte in Papierform geführt wird.
@@ -119,6 +125,7 @@ zu unterrichten.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbussaktfv/BJNR006300020.html#BJNR006300020BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

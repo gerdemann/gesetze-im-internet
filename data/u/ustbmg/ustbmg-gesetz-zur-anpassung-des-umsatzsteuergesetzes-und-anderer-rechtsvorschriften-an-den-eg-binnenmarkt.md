@@ -21,16 +21,19 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000200314)
 
 
 
 ## Art 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000300314)
 
 Auf Ansprüche aus Steuerschuldverhältnissen, die nach den in den
 Artikeln 5 bis 8 bezeichneten Gesetzen und Verordnungen bis zum 31.
@@ -39,16 +42,19 @@ Gesetze und Verordnungen Anwendung.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000401301)
 
 -
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000500314)
 
 -
 
 
 ## Art 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ustbmg/BJNR015480992.html#BJNR015480992BJNE000600314)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1993
 in Kraft.

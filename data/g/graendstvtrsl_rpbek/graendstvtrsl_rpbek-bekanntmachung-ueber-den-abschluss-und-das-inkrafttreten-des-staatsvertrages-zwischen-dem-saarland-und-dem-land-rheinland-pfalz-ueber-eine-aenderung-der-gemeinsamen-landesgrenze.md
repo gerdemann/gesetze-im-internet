@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrsl_rpbek/BJNR025800004.html#BJNR025800004BJNE000100000)
 
 Zwischen dem Saarland und dem Land Rheinland-Pfalz wurde am 27. Mai
 2003 der Staatsvertrag über eine Änderung der gemeinsamen Landesgrenze
@@ -44,6 +45,7 @@ Staatsvertrag nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrsl_rpbek/BJNR025800004.html#BJNR025800004BJNE000200000)
 
 Bundesministerium des Innern
 

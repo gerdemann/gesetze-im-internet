@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Bek. v. 9.1.2018 I 126 mWv 22.3.2018 (Nr. 3) ist berücksichtigt
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000100319)
 
 Auf Grund § 7 des Gesetzes über die berufsmäßige Ausübung der
 Heilkunde ohne Bestallung (Heilpraktikergesetz) vom 17. Februar 1939
@@ -29,11 +30,13 @@ Heilkunde ohne Bestallung (Heilpraktikergesetz) vom 17. Februar 1939
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000200319)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000304116)
 
 (1) Die Erlaubnis wird nicht erteilt,
 
@@ -84,6 +87,7 @@ Länder zu beteiligen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000400319)
 
 (1) Über den Antrag entscheidet die untere Verwaltungsbehörde im
 Benehmen mit dem Gesundheitsamt.
@@ -99,6 +103,7 @@ Verwaltungsbehörde nach Anhörung eines Gutachterausschusses (§ 4).
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000500319)
 
 (1) Der Gutachterausschuß besteht aus einem Vorsitzenden, der weder
 Arzt noch Heilpraktiker sein darf, aus zwei Ärzten sowie aus zwei
@@ -113,16 +118,19 @@ gemeinsamer Gutachterausschuß gebildet werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000600319)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000700319)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000800319)
 
 (1) Die Erlaubnis ist durch die höhere Verwaltungsbehörde
 zurückzunehmen, wenn nachträglich Tatsachen eintreten oder bekannt
@@ -141,11 +149,13 @@ Gutachterausschuß (§ 4) zu hören.
 
 
 ## (XXXX) §§ 8 und 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE000900319)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE001000319)
 
 (1) Anträge auf Zulassung zum Studium der Medizin gemäß § 2 Abs. 2 des
 Gesetzes sind an die für den Wohnort des Antragstellers zuständige
@@ -167,6 +177,7 @@ weiterleitet.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE001100319)
 
 (1) Höhere Verwaltungsbehörde im Sinne dieser Verordnung ist in
 Preußen, Bayern ... der
@@ -185,6 +196,7 @@ Landrat.
 
 
 ## (XXXX) §§ 12 bis 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/heilprgdv_1/BJNR002590939.html#BJNR002590939BJNE001200319)
 
 -
 

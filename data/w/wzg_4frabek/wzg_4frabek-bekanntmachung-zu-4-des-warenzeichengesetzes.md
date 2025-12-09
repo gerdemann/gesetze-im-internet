@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4frabek/BJNR014160968.html#BJNR014160968BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt
@@ -31,11 +32,13 @@ Pariser Münze eingeführt ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4frabek/BJNR014160968.html#BJNR014160968BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Amtlicher Stempel der Pariser Münze
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4frabek/BJNR014160968.html#BJNR014160968BJNE000200303)
 
 (Fundstelle: BGBl. I 1968, 1416)
 ![bgbl1_1968_j1416_0010.jpg](bgbl1_1968_j1416_0010.jpg)

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000100000)
 
 Auf Grund des § 882g Absatz 8 der Zivilprozessordnung, der durch
 Artikel 1 Nummer 17 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258)
@@ -27,9 +28,11 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## Abschnitt 1 - Bewilligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNG000100000)
 
 
 ### § 1 Bewilligung des Bezugs von Abdrucken
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000201125)
 
 (1) Abdrucke aus Schuldnerverzeichnissen dürfen nur Inhabern einer
 Bewilligung nach den Vorschriften dieses Abschnitts erteilt werden.
@@ -76,6 +79,7 @@ entsprechend Absatz 3 vorliegen.
 
 
 ### § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000300000)
 
 Über Anträge nach § 882g Absatz 1 Satz 1 der Zivilprozessordnung
 entscheidet der Leiter oder die Leiterin des zentralen
@@ -84,6 +88,7 @@ bei dem das Schuldnerverzeichnis geführt wird.
 
 
 ### § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000400000)
 
 (1) Der Antrag ist schriftlich bei dem nach § 2 zuständigen Leiter
 oder der zuständigen Leiterin des zentralen Vollstreckungsgerichts zu
@@ -126,6 +131,7 @@ geforderten Voraussetzungen ergibt. Darüber hinaus muss er enthalten:
 
 
 ### § 4 Speicherung von Daten des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000501125)
 
 (1) Für die Bewilligung des Bezugs von Abdrucken sowie die Einrichtung
 und Ausgestaltung des Abrufverfahrens von Abdrucken können
@@ -151,6 +157,7 @@ löschen.
 
 
 ### § 5 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000600000)
 
 (1) Die Bewilligung ist nur gegenüber dem Antragsteller wirksam. Sie
 ist nicht übertragbar.
@@ -182,6 +189,7 @@ Beziehers der Abdrucke zuständig ist.
 
 
 ### § 6 Befristungen, Auflagen und Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000701125)
 
 (1) Die Bewilligung ist auf mindestens ein Jahr und höchstens sechs
 Jahre zu befristen.
@@ -203,6 +211,7 @@ dieser Verordnung kann die Bewilligung ergehen mit Bestimmungen,
 
 
 ### § 7 Widerruf und Rücknahme von Bewilligungen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000800000)
 
 (1) Für den Widerruf von Bewilligungen gilt § 49 Absatz 2, 3 und 6
 Satz 1 und 2 des Verwaltungsverfahrensgesetzes entsprechend.
@@ -241,9 +250,11 @@ anzuordnen.
 
 
 ## Abschnitt 2 - Abdrucke und Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNG000200000)
 
 
 ### § 8 Inhalt von Abdrucken
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE000900000)
 
 (1) Abdrucke werden als Vollabdruck oder als Teilabdruck erteilt. Der
 Vollabdruck enthält alle Eintragungen im Schuldnerverzeichnis. Der
@@ -259,6 +270,7 @@ beigefügt werden.
 
 
 ### § 9 Erteilung und Aufbewahrung von Abdrucken
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001000000)
 
 (1) Abdrucke gemäß § 882g Absatz 1 der Zivilprozessordnung werden
 grundsätzlich in elektronischer Form übermittelt. Es gelten die
@@ -339,6 +351,7 @@ Maschinenlesbarkeit.
 
 
 ### § 10 Einstweiliger Ausschluss vom Bezug von Abdrucken
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001100000)
 
 (1) Der Inhaber einer Bewilligung kann von dem Bezug von Abdrucken
 einstweilen ausgeschlossen werden, wenn Tatsachen bekannt werden, die
@@ -364,6 +377,7 @@ im Übrigen die Absätze 1 und 2.
 
 
 ### § 11 Inhalt von Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001200000)
 
 (1) Listen sind Zusammenstellungen von Angaben aus einem oder mehreren
 Abdrucken. Die Aufnahme anderer Angaben als solchen aus rechtmäßig
@@ -394,12 +408,14 @@ Absatz 2 Satz 2 ist anzuwenden.
 
 
 ### § 12 Anfertigung, Erteilung und Verwendung von Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001300000)
 
 Listen sind unverzüglich nach dem Eingang der Abdrucke zu erstellen
 und den Beziehern zu überlassen. § 9 gilt entsprechend.
 
 
 ### § 13 Ausschluss vom Bezug von Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001400000)
 
 (1) Die Kammern sind verpflichtet, einen Bezieher von Listen künftig
 vom Bezug auszuschließen, wenn ihm die Bewilligung zum Bezug von
@@ -415,6 +431,7 @@ Abdrucken gemäß § 7 widerrufen werden.
 
 
 ### § 14 Löschung in Abdrucken und Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001500000)
 
 (1) Löschungen gemäß § 882g Absatz 6 der Zivilprozessordnung führen
 die Bezieher von Abdrucken und Listen sowie die Inhaber sonstiger
@@ -447,6 +464,7 @@ Mitteilungen an die Listenbezieher nach Absatz 3.
 
 
 ### § 15 Kontrolle von Löschungen in Abdrucken und Listen
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001600000)
 
 Werden öffentlichen Stellen Tatsachen bekannt, die die Annahme
 rechtfertigen, dass einer Löschungspflicht nach § 882g Absatz 6 der
@@ -461,9 +479,11 @@ zuständigen Stellen.
 
 
 ## Abschnitt 3 - Automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNG000300000)
 
 
 ### § 16 Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001702125)
 
 (1) Bezieher von Abdrucken dürfen unter den Voraussetzungen des § 882g
 Absatz 4 der Zivilprozessordnung im automatisierten Abrufverfahren
@@ -503,6 +523,7 @@ verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach §
 
 
 ### § 17 Ausgestaltung elektronischer Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001801125)
 
 Der Bezieher von Abdrucken, der Einzelauskünfte im automatisierten
 Abrufverfahren erteilt (Auskunftsstelle), hat gemäß den Artikeln 24,
@@ -516,6 +537,7 @@ zu treffen. § 9 Absatz 2 gilt entsprechend.
 
 
 ### § 18 Ausschluss von der Abrufberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE001902125)
 
 (1) Die Auskunftsstelle ist verpflichtet, den Abrufberechtigten vom
 Abrufverfahren auszuschließen, wenn ihr Tatsachen bekannt werden, die
@@ -557,9 +579,11 @@ widerrufen werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNG000400000)
 
 
 ### § 19 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE002000000)
 
 Auf Entscheidungen des Leiters oder der Leiterin des zentralen
 Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung
@@ -568,11 +592,13 @@ zum Gerichtsverfassungsgesetz anzuwenden.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE002100000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schuvabdrv/BJNR165800012.html#BJNR165800012BJNE002200000)
 
 Der Bundesrat hat zugestimmt.
 

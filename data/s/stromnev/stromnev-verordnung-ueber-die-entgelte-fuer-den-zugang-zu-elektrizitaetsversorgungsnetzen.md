@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000100000)
 
 Auf Grund des § 24 Satz 1 Nr. 1 bis 3 in Verbindung mit Satz 2 Nr. 1,
 2, 4, 6 und 7 sowie Satz 3 und 5 und des § 29 Abs. 3 des
@@ -29,10 +30,12 @@ verordnet die Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000302377)
 
 Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der
 Entgelte für den Zugang zu den Elektrizitätsübertragungs- und
@@ -55,6 +58,7 @@ regelt zugleich
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000403377)
 
 Im Sinne dieser Verordnung ist:
 
@@ -174,6 +178,7 @@ Im Sinne dieser Verordnung ist:
 
 
 ### § 3 Grundsätze der Entgeltbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000502377)
 
 (1) Für die Ermittlung der Netzentgelte sind die Netzkosten nach den
 §§ 4 bis 11 zusammenzustellen. Die ermittelten Netzkosten sind
@@ -211,6 +216,7 @@ Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2.
 
 
 ### § 3a Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE005000118)
 
 (1) Die Ermittlung der nach § 17f Absatz 1 Satz 2 des
 Energiewirtschaftsgesetzes umlagefähigen Netzkosten für die Errichtung
@@ -263,6 +269,7 @@ den Belastungsausgleich ausgeglichen.
 
 
 ### § 3b Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE005300377)
 
 Die Ermittlung des Umfangs der Netzkosten, die nach § 28e des
 Energiewirtschaftsgesetzes anerkennungsfähig sind, für die Errichtung
@@ -275,14 +282,17 @@ Elektrizitätsversorgungsnetzen festgelegt ist.
 
 
 ## Teil 2 - Methode zur Ermittlung der Netzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000200000)
 
 
 
 ### Abschnitt 1 - Kostenartenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000300000)
 
 
 
 #### § 4 Grundsätze der Netzkostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000603118)
 
 (1) Bilanzielle und kalkulatorische Kosten des Netzbetriebs sind nur
 insoweit anzusetzen, als sie den Kosten eines effizienten und
@@ -374,6 +384,7 @@ Regulierungsbehörde unverzüglich anzuzeigen.
 
 
 #### § 5 Aufwandsgleiche Kostenpositionen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000703118)
 
 (1) Aufwandsgleiche Kostenpositionen sind den nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes oder nach § 4 Abs. 3 erstellten Gewinn- und
@@ -414,6 +425,7 @@ Leitung und nur bis zu der angegebenen Höhe einmalig möglich:
 
 
 #### § 5a Kostenanerkennung von Zahlungen an Grundstückseigentümer und Nutzungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE005200118)
 
 (1) Soweit ein Betreiber von Übertragungsnetzen an den
 Grundstückseigentümer oder den Nutzungsberechtigten einer land- oder
@@ -504,6 +516,7 @@ Betrag anteilig zu zahlen.
 
 
 #### § 6 Kalkulatorische Abschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000802301)
 
 (1) Zur Gewährleistung eines langfristig angelegten leistungsfähigen
 und zuverlässigen Netzbetriebs ist die Wertminderung der
@@ -590,6 +603,7 @@ Schuldverhältnissen.
 
 
 #### § 6a Preisindizes zur Ermittlung der Tagesneuwerte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004200301)
 
 [^F782159_01_BJNR222500005BJNE004200301]
 (1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind
@@ -750,6 +764,7 @@ vier Nachkommastellen zu runden.
 [^F782159_01_BJNR222500005BJNE004200301]: 
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE000903377)
 
 (1) Die Verzinsung des von Betreibern von
 Elektrizitätsversorgungsnetzen eingesetzten Eigenkapitals erfolgt im
@@ -885,6 +900,7 @@ gewichtet. Weitere Zuschläge sind unzulässig.
 
 
 #### § 8 Kalkulatorische Steuern
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001001301)
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
 sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
@@ -892,6 +908,7 @@ Kostenposition in Ansatz gebracht werden.
 
 
 #### § 9 Kostenmindernde Erlöse und Erträge
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001102311)
 
 (1) Sonstige Erlöse und Erträge sind, soweit sie sachlich dem
 Netzbetrieb zuzurechnen und insbesondere den Positionen
@@ -931,6 +948,7 @@ die Verwendung dieser Einnahmen sind durch den jeweiligen
 
 
 #### § 10 Behandlung von Netzverlusten
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001200000)
 
 (1) Die Kosten der Beschaffung von Energie zum Ausgleich physikalisch
 bedingter Netzverluste (Verlustenergie) können bei der Ermittlung der
@@ -946,6 +964,7 @@ Jahres auf ihrer Internetseite zu veröffentlichen.
 
 
 #### § 11 Periodenübergreifende Saldierung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001301118)
 
 Sofern die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a
 des Energiewirtschaftsgesetzes bestimmt werden, sind Betreiber von
@@ -978,10 +997,12 @@ erzielten Erlösen nach Satz 1 Nr. 1.
 
 
 ### Abschnitt 2 - Kostenstellenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000400000)
 
 
 
 #### § 12 Grundsätze der Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001400000)
 
 Die nach § 4 ermittelten Netzkosten sind soweit möglich direkt den
 Hauptkostenstellen nach § 13 zuzuordnen. Soweit eine direkte Zuordnung
@@ -999,6 +1020,7 @@ schriftlich zu dokumentieren.
 
 
 #### § 13 Kostenstellen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001500000)
 
 Für die Ermittlung der Netzentgelte haben Betreiber von
 Elektrizitätsversorgungsnetzen als Maßgrößen der Kostenverursachung
@@ -1008,6 +1030,7 @@ verteilen. Die Bildung von Hilfskostenstellen ist zulässig.
 
 
 #### § 14 Kostenwälzung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001601118)
 
 (1) Die Kosten der Netz- und Umspannebenen werden, beginnend bei der
 Höchstspannung, jeweils anteilig auf die nachgelagerte Netz- oder
@@ -1050,10 +1073,12 @@ sind ergänzend die Regelungen des Abschnitts 2a anzuwenden.
 
 
 ### Abschnitt 2a - Bundeseinheitliche Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000900118)
 
 
 
 #### § 14a Bildung bundeseinheitlicher Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004500118)
 
 Mit Wirkung zum 1. Januar 2023 haben die Betreiber von
 Übertragungsnetzen mit Regelzonenverantwortung bundeseinheitliche
@@ -1063,6 +1088,7 @@ den Messstellenbetrieb und für singulär genutzte Betriebsmittel nach §
 
 
 #### § 14b Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004600118)
 
 (1) Grundlage der Ermittlung der bundeseinheitlichen
 Übertragungsnetzentgelte sind jeweils die nach § 32 Absatz 1 Nummer 1
@@ -1090,6 +1116,7 @@ und Umspannebene ermittelt.
 
 
 #### § 14c Ausgleich der Mehr- und Mindereinnahmen auf Grund bundeseinheitlicher Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004700118)
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 haben Mehr- oder Mindereinnahmen, die sich auf Grund des
@@ -1120,6 +1147,7 @@ ergibt.
 
 
 #### § 14d Datenaustausch zur Bildung bundeseinheitlicher Übertragungsnetzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004800118)
 
 Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung haben
 zur Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte nach §
@@ -1129,10 +1157,12 @@ Die Daten müssen einheitlich ermittelt werden.
 
 
 ### Abschnitt 3 - Kostenträgerrechnung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000500000)
 
 
 
 #### § 15 Grundsätze der Entgeltermittlung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001702377)
 
 (1) Grundlage des Systems der Entgeltbildung für den Netzzugang ist
 ein transaktionsunabhängiges Punktmodell. Die nach § 4 ermittelten
@@ -1150,6 +1180,7 @@ bundeseinheitlichen Übertragungsnetzentgelte anzuwenden.
 
 
 #### § 16 Gleichzeitigkeitsgrad
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001802377)
 
 (1) Die Zuteilung der Kosten einer Netz- oder Umspannebene auf die aus
 dieser Netz- oder Umspannebene entnehmenden Netznutzer hat möglichst
@@ -1174,6 +1205,7 @@ Gleichzeitigkeitsfunktion nach Anlage 4.
 
 
 #### § 17 Ermittlung der Netzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE001906377)
 
 (1) Die von Netznutzern zu entrichtenden Netzentgelte sind ihrer Höhe
 nach unabhängig von der räumlichen Entfernung zwischen dem Ort der
@@ -1323,6 +1355,7 @@ zulässig.
 
 
 #### § 18 Entgelt für dezentrale Einspeisung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002005118)
 
 (1) Betreiber von dezentralen Erzeugungsanlagen, die vor dem 1. Januar
 2023 in Betrieb genommen worden sind, erhalten vom Betreiber des
@@ -1401,6 +1434,7 @@ Ausgangswertes abgesenkt.
 
 
 #### § 19 Sonderformen der Netznutzung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004308377)
 
 (1) Für Letztverbraucher mit einer zeitlich begrenzten hohen
 Leistungsaufnahme, der in der übrigen Zeit eine deutlich geringere
@@ -1538,6 +1572,7 @@ aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
 
 
 #### § 20 Verprobung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002203377)
 
 (1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte
 sicherzustellen, dass ein zur Veröffentlichung anstehendes
@@ -1569,6 +1604,7 @@ zu dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
 
 #### § 21 Netzentgeltbildung bei Anreizregulierung
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002301118)
 
 (1) Soweit die Kosten einer Regulierung nach der
 Anreizregulierungsverordnung unterliegen, werden die Entgelte für den
@@ -1591,38 +1627,47 @@ rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
 
 ## Teil 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000601118)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002401118)
 
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002501118)
 
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002601118)
 
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002701118)
 
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002801118)
 
 
 
 ## Teil 4 - Pflichten der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000700000)
 
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE002904377)
 
 
 
 ### § 28 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003005377)
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen haben einen Bericht
 über die Ermittlung der Netzentgelte zu erstellen. Der Bericht muss
@@ -1691,6 +1736,7 @@ Anhang muss enthalten:
 
 
 ### § 29 Mitteilungen gegenüber der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003100000)
 
 Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch
 Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes
@@ -1700,10 +1746,12 @@ Datenträgern und Übertragungswegen.
 
 
 ## Teil 5 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNG000800000)
 
 
 
 ### § 30 Festlegungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003207377)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -1806,6 +1854,7 @@ unternehmensindividuell unterschiedlich hoch sein.
 
 
 ### § 31 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003302377)
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1836,6 +1885,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 32 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003409377)
 
 (1) Zur erstmaligen Ermittlung der Netzentgelte sind die
 kalkulatorischen Restwerte des Sachanlagevermögens für den
@@ -1940,10 +1990,12 @@ Juli 2021 geltenden Fassung.
 
 
 ### § 32a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004902377)
 
 
 
 ### § 32b Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE005101377)
 
 Abweichend von § 3a Absatz 1 werden, soweit § 34 Absatz 13 und 14 der
 Anreizregulierungsverordnung dies regelt, auf die Ermittlung des
@@ -1967,17 +2019,20 @@ zum 31. Juli 2021 geltenden Fassung angewendet, sofern
 
 
 ### § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003500000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 6 Abs. 5 Satz 1)
 
 ### Anlage 1 Betriebsgewöhnliche Nutzungsdauern
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003703118)
 
 (Fundstelle: BGBl. I 2005, 2236 - 2237;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2382,6 +2437,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13)
 
 ### Anlage 2 Haupt- und Nebenkostenstellen
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003802118)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
@@ -2525,6 +2581,7 @@ Kilovolt behandelt.
 (zu § 14 Abs. 3)
 
 ### Anlage 3 Kostenträger
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE003902377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2240)
 
@@ -2588,6 +2645,7 @@ Kilovolt behandelt.
 (zu § 16 Abs. 2)
 
 ### Anlage 4 Gleichzeitigkeitsfunktion und -grad
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004001118)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
@@ -2666,6 +2724,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2241
 (zu § 18 Absatz 2)
 
 ### Anlage 4a Referenzpreisblatt für die Netzentgelte von Übertragungsnetzbetreibern zur Ermittlung vermiedener Netzentgelte nach § 18 Absatz 2
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004400118)
 
 (Fundstelle: BGBl. I 2017, 2507)
 Nach § 120 Absatz 4 Satz 1 des Energiewirtschaftsgesetzes sind zur
@@ -2691,6 +2750,7 @@ im Sinne des § 120 Absatz 4 Satz 1 des Energiewirtschaftsgesetzes.
 (zu § 28 Abs. 2 Nr. 6)
 
 ### Anlage 5 Absatzstruktur
+[Direktlink](https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html#BJNR222500005BJNE004100000)
 
 (Fundstelle: BGBl. I 2005, 2242)
 

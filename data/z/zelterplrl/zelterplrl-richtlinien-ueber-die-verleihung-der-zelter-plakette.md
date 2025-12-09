@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/zelterplrl/BJNR107400956.html#BJNR107400956BJNE000101377)
 
 
 1.  Die Zelter-Plakette ist als Auszeichnung für Chöre bestimmt, die sich
@@ -215,6 +216,7 @@ Geändert durch
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zelterplrl/BJNR107400956.html#BJNR107400956BJNE000200304)
 
 Der Bundespräsident
 Der Stellvertreter des Bundeskanzlers

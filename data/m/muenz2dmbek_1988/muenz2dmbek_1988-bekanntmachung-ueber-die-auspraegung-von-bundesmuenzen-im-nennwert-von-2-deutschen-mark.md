@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2dmbek_1988/BJNR006310988.html#BJNR006310988BJNE000100325)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -79,11 +80,13 @@ Reinnickelkern.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2dmbek_1988/BJNR006310988.html#BJNR006310988BJNE000900325)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2dmbek_1988/BJNR006310988.html#BJNR006310988BJNE000200325)
 
 (Fundstelle: BGBl. I 1988, 631)
 ![bgbl1_1988_j0631_0010.jpg](bgbl1_1988_j0631_0010.jpg)

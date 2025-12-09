@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/festlsockelprok/BJNR301040964.html#BJNR301040964BJNE000100377)
 
 Die Genfer Konvention über den Festlandsockel vom 29. April 1958 ist
 am 30. Oktober 1958 von der Bundesrepublik Deutschland und darüber

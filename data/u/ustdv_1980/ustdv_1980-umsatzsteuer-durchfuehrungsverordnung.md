@@ -23,19 +23,23 @@ Zuletzt geändert durch
 
 
 ## - - Zu § 3a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000104301)
 
 
 
 ### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE002914140)
 
 -
 
 
 ## - - Zu § 3b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002903301)
 
 
 
 ### § 2 Verbindungsstrecken im Inland
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003006301)
 
 Bei grenzüberschreitenden Beförderungen ist die Verbindungsstrecke
 zwischen zwei Orten im Ausland, die über das Inland führt, als
@@ -47,6 +51,7 @@ Linienverkehr mit Kraftfahrzeugen. § 7 bleibt unberührt.
 
 
 ### § 3 Verbindungsstrecken im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003106301)
 
 Bei grenzüberschreitenden Beförderungen ist die Verbindungsstrecke
 zwischen zwei Orten im Inland, die über das Ausland führt, als
@@ -57,6 +62,7 @@ unberührt.
 
 
 ### § 4 Anschlussstrecken im Schienenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003207301)
 
 Bei grenzüberschreitenden Personenbeförderungen mit Schienenbahnen
 sind anzusehen:
@@ -76,10 +82,12 @@ sind anzusehen:
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003307123)
 
 
 
 ### § 6 Straßenstrecken in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003407301)
 
 Bei grenzüberschreitenden Personenbeförderungen mit Kraftfahrzeugen
 von und zu den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten sowie
@@ -88,6 +96,7 @@ als inländische Beförderungsstrecken anzusehen.
 
 
 ### § 7 Kurze Strecken im grenzüberschreitenden Verkehr mit Wasserfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003510301)
 
 (1) Bei grenzüberschreitenden Beförderungen im Passagier- und
 Fährverkehr mit Wasserfahrzeugen, die sich ausschließlich auf das
@@ -139,14 +148,17 @@ anzusehen.
 
 
 ## - - Zu § 4 Nr. 1 Buchstabe a und den §§ 6 und 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000205301)
 
 
 
 ### - - Ausfuhrnachweis und buchmäßiger Nachweis bei Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000305301)
 
 
 
 #### § 8 Grundsätze für den Ausfuhrnachweis bei Ausfuhrlieferungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003607377)
 
 (1) Bei Ausfuhrlieferungen (§ 6 des Gesetzes) muss der Unternehmer im
 Geltungsbereich des Gesetzes durch Belege nachweisen, dass er oder der
@@ -161,6 +173,7 @@ leicht nachprüfbar ergeben.
 
 
 #### § 9 Ausfuhrnachweis bei Ausfuhrlieferungen in Beförderungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003714123)
 
 (1) Hat der Unternehmer oder der Abnehmer den Gegenstand der Lieferung
 in das Drittlandsgebiet befördert, hat der Unternehmer den
@@ -237,6 +250,7 @@ L 343 vom 29.12.2015, S. 558) in der jeweils geltenden Fassung.
 
 
 #### § 10 Ausfuhrnachweis bei Ausfuhrlieferungen in Versendungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003811360)
 
 (1) Hat der Unternehmer oder der Abnehmer den Gegenstand der Lieferung
 in das Drittlandsgebiet versendet, hat der Unternehmer den
@@ -334,6 +348,7 @@ nachweisen.
 
 
 #### § 11 Ausfuhrnachweis bei Ausfuhrlieferungen in Bearbeitungs- und Verarbeitungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE003905140)
 
 (1) Hat ein Beauftragter den Gegenstand der Lieferung vor der Ausfuhr
 bearbeitet oder verarbeitet, hat der liefernde Unternehmer den
@@ -364,6 +379,7 @@ Verarbeitung vornimmt, zu machen.
 
 
 #### § 12 Ausfuhrnachweis bei Lohnveredelungen an Gegenständen der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004004301)
 
 Bei Lohnveredelungen an Gegenständen der Ausfuhr (§ 7 des Gesetzes)
 sind die Vorschriften über die Führung des Ausfuhrnachweises bei
@@ -371,6 +387,7 @@ Ausfuhrlieferungen (§§ 8 bis 11) entsprechend anzuwenden.
 
 
 #### § 13 Buchmäßiger Nachweis bei Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004109360)
 
 (1) Bei Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der
 Ausfuhr (§§ 6 und 7 des Gesetzes) hat der Unternehmer im
@@ -462,10 +479,12 @@ anzuwenden.
 
 
 #### (XXXX) §§ 14 bis 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011403301)
 
 
 
 #### § 17 Abnehmernachweis bei Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004509140)
 
 In den Fällen des § 6 Absatz 3a des Gesetzes hat der Beleg nach § 9
 zusätzlich folgende Angaben zu enthalten:
@@ -485,10 +504,12 @@ zusätzlich folgende Angaben zu enthalten:
 
 
 ## - - Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG003003301)
 
 
 
 ### § 17a Gelangensvermutung bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011802123)
 
 (1) Für die Zwecke der Anwendung der Steuerbefreiung für
 innergemeinschaftliche Lieferungen (§ 4 Nummer 1 Buchstabe b des
@@ -575,6 +596,7 @@ widerlegen.
 
 
 ### § 17b Gelangensnachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010910123)
 
 (1) Besteht keine Vermutung nach § 17a Absatz 1, hat der Unternehmer
 bei innergemeinschaftlichen Lieferungen (§ 6a Absatz 1 des Gesetzes)
@@ -785,6 +807,7 @@ ist, hat der Unternehmer den Nachweis nach Absatz 1 oder mit den
 
 
 ### § 17c Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011006123)
 
 Ist der Gegenstand der Lieferung vor der Beförderung oder Versendung
 in das übrige Gemeinschaftsgebiet durch einen Beauftragten bearbeitet
@@ -797,6 +820,7 @@ oder verarbeitet worden, ist § 11 Absatz 2 entsprechend anzuwenden.
 
 
 ### § 17d Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011107123)
 
 (1) Bei innergemeinschaftlichen Lieferungen (§ 6a Absatz 1 und 2 des
 Gesetzes) hat der Unternehmer im Geltungsbereich des Gesetzes die
@@ -897,10 +921,12 @@ der Unternehmer Folgendes aufzuzeichnen:
 
 
 ## - - Zu § 4 Nr. 2 und § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000504301)
 
 
 
 ### § 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschiffahrt und für die Luftfahrt
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004604301)
 
 Bei Umsätzen für die Seeschiffahrt und für die Luftfahrt (§ 8 des
 Gesetzes) ist § 13 Abs. 1 und 2 Nr. 1 bis 4 entsprechend anzuwenden.
@@ -909,15 +935,18 @@ Gegenstand der Lieferung oder die sonstige Leistung bestimmt ist.
 
 
 ## - - Zu § 4 Nr. 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000604301)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004709301)
 
 (weggefallen)
 
 
 ### § 20 Belegmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004809377)
 
 (1) Bei einer Leistung, die sich unmittelbar auf einen Gegenstand der
 Ausfuhr bezieht oder auf einen eingeführten Gegenstand bezieht, der im
@@ -939,6 +968,7 @@ führen.
 
 
 ### § 21 Buchmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE004908140)
 
 Bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr, auf
 einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der
@@ -964,10 +994,12 @@ aufzeichnen:
 
 
 ## - - Zu § 4 Nr. 5 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000704301)
 
 
 
 ### § 22 Buchmäßiger Nachweis bei steuerfreien Vermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005004301)
 
 (1) Bei Vermittlungen im Sinne des § 4 Nr. 5 des Gesetzes ist § 13
 Abs. 1 entsprechend anzuwenden.
@@ -993,18 +1025,22 @@ Abs. 1 entsprechend anzuwenden.
 
 
 ## - - Zu § 4 Nr. 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000804301)
 
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005110123)
 
 
 
 ## - - Zu § 4a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG000904301)
 
 
 
 ### § 24 Antragsfrist für die Steuervergütung und Nachweis der Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005209123)
 
 (1) Die Steuervergütung ist bei dem zuständigen Finanzamt bis zum
 Ablauf des Kalenderjahres nach amtlich vorgeschriebenem Vordruck oder
@@ -1046,28 +1082,34 @@ aufgezeichnet werden:
 
 
 ## - - Zu § 10 Abs. 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001004301)
 
 
 
 ### § 25 Durchschnittsbeförderungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005307301)
 
 Das Durchschnittsbeförderungsentgelt wird auf 4,43 Cent je
 Personenkilometer festgesetzt.
 
 
 ## - - Zu § 12 Abs. 2 Nr. 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001104301)
 
 
 
 ### (XXXX) §§ 26 bis 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005406301)
 
 
 
 ## - - Zu § 12 Abs. 2 Nr. 7 Buchstabe d des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001204301)
 
 
 
 ### § 30 Schausteller
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005804301)
 
 Als Leistungen aus der Tätigkeit als Schausteller gelten
 Schaustellungen, Musikaufführungen, unterhaltende Vorstellungen oder
@@ -1076,10 +1118,12 @@ oder ähnlichen Veranstaltungen.
 
 
 ## - - Zu § 13b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG003100301)
 
 
 
 ### § 30a Steuerschuldnerschaft bei unfreien Versendungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011502140)
 
 Lässt ein Absender einen Gegenstand durch einen im Ausland ansässigen
 Frachtführer oder Verfrachter unfrei zum Empfänger der Frachtsendung
@@ -1106,10 +1150,12 @@ Bereich bezogen wird.
 
 
 ## - - Zu § 14 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001304301)
 
 
 
 ### § 31 Angaben in der Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE005906301)
 
 (1) Eine Rechnung kann aus mehreren Dokumenten bestehen, aus denen
 sich die nach § 14 Abs. 4 des Gesetzes geforderten Angaben insgesamt
@@ -1153,6 +1199,7 @@ Inhalt wie in § 14 des Gesetzes.
 
 
 ### § 32 Rechnungen über Umsätze, die verschiedenen Steuersätzen unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006005301)
 
 Wird in einer Rechnung über Lieferungen oder sonstige Leistungen, die
 verschiedenen Steuersätzen unterliegen, der Steuerbetrag durch
@@ -1163,6 +1210,7 @@ wird.
 
 
 ### § 33 Rechnungen über Kleinbeträge
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006111123)
 
 Eine Rechnung, deren Gesamtbetrag 250 Euro nicht übersteigt, muss
 mindestens folgende Angaben enthalten:
@@ -1194,6 +1242,7 @@ Absatz 2 Satz 2 des Gesetzes immer als sonstige Rechnung im Sinne von
 
 
 ### § 34 Fahrausweise als Rechnungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006211123)
 
 (1) Fahrausweise, die für die Beförderung von Personen ausgegeben
 werden, gelten als Rechnungen im Sinne des § 14 des Gesetzes, wenn sie
@@ -1238,6 +1287,7 @@ entsprechend.
 
 
 ### § 34a Rechnungen von Kleinunternehmern
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011900123)
 
 Eine Rechnung über Umsätze, die nach § 19 Absatz 1 des Gesetzes
 steuerfrei sind, muss mindestens folgende Angaben enthalten:
@@ -1277,10 +1327,12 @@ des Gesetzes übermittelt werden.
 
 
 ## - - Zu § 15 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001404301)
 
 
 
 ### § 35 Vorsteuerabzug bei Rechnungen über Kleinbeträge und bei Fahrausweisen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006305123)
 
 (1) Bei Rechnungen im Sinne des § 33 kann der Unternehmer den
 Vorsteuerabzug in Anspruch nehmen, wenn er den Rechnungsbetrag in
@@ -1297,9 +1349,11 @@ Fahrausweis angegeben ist.
 
 
 ### (XXXX) §§ 36 bis 39a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006410301)
 
 
 ### § 40 Vorsteuerabzug bei unfreien Versendungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006804301)
 
 (1) Läßt ein Absender einen Gegenstand durch einen Frachtführer oder
 Verfrachter unfrei zu einem Dritten befördern oder eine solche
@@ -1332,10 +1386,12 @@ entsprechend.
 
 
 ### (XXXX) §§ 41 bis 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE006909301)
 
 
 
 ### § 43 Erleichterungen bei der Aufteilung der Vorsteuern
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007108123)
 
 Die den folgenden steuerfreien Umsätzen zuzuordnenden Vorsteuerbeträge
 sind nur dann vom Vorsteuerabzug ausgeschlossen, wenn sie diesen
@@ -1361,10 +1417,12 @@ Umsätzen ausschließlich zuzuordnen sind:
 
 
 ## - - Zu § 15a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001504301)
 
 
 
 ### § 44 Vereinfachungen bei der Berichtigung des Vorsteuerabzugs
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007210140)
 
 (1) Eine Berichtigung des Vorsteuerabzugs nach § 15a des Gesetzes
 entfällt, wenn die auf die Anschaffungs- oder Herstellungskosten eines
@@ -1398,6 +1456,7 @@ Vorsteuerbeträge entsprechend anzuwenden.
 
 
 ### § 45 Maßgebliches Ende des Berichtigungszeitraums
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007304301)
 
 Endet der Zeitraum, für den eine Berichtigung des Vorsteuerabzugs nach
 § 15a des Gesetzes durchzuführen ist, vor dem 16. eines
@@ -1407,14 +1466,17 @@ dieser Kalendermonat voll zu berücksichtigen.
 
 
 ## - - Zu den §§ 16 und 18 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001604301)
 
 
 
 ### - - Dauerfristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001704301)
 
 
 
 #### § 46 Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007406377)
 
 Das Finanzamt hat dem Unternehmer auf Antrag die Fristen für die
 Übermittlung der Voranmeldungen und für die Entrichtung der
@@ -1425,6 +1487,7 @@ gefährdet erscheint.
 
 
 #### § 47 Sondervorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007505377)
 
 (1) Die Fristverlängerung ist bei einem Unternehmer, der die
 Voranmeldungen monatlich zu übermitteln hat, unter der Auflage zu
@@ -1446,6 +1509,7 @@ zu berechnen.
 
 
 #### § 48 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007612123)
 
 (1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der
 Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die
@@ -1480,10 +1544,12 @@ der Abgabenordnung), im Übrigen zu erstatten.
 
 
 ### - - Verzicht auf die Steuererhebung
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001804301)
 
 
 
 #### § 49 Verzicht auf die Steuererhebung im Börsenhandel mit Edelmetallen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007705301)
 
 Auf die Erhebung der Steuer für die Lieferungen von Gold, Silber und
 Platin sowie für die sonstigen Leistungen im Geschäft mit diesen
@@ -1505,59 +1571,71 @@ Edelmetallen wird verzichtet, wenn
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007808301)
 
 (weggefallen)
 
 
 ### - - Besteuerung im Abzugsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG001904301)
 
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE007911301)
 
 (weggefallen)
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008009301)
 
 (weggefallen)
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008112301)
 
 (weggefallen)
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008209301)
 
 (weggefallen)
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008305301)
 
 (weggefallen)
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008408301)
 
 (weggefallen)
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008510301)
 
 (weggefallen)
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008608301)
 
 (weggefallen)
 
 
 ### - - Vergütung der Vorsteuerbeträge in einem besonderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002004301)
 
 
 
 #### § 59 Vergütungsberechtigte Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008720123)
 
 Die Vergütung der abziehbaren Vorsteuerbeträge (§ 15 des Gesetzes) an
 im Ausland ansässige Unternehmer ist abweichend von den §§ 16 und 18
@@ -1620,6 +1698,7 @@ für den der Unternehmer eine Vergütung beantragt.
 
 
 #### § 60 Vergütungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008806360)
 
 Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von
 mindestens drei Monaten bis zu höchstens einem Kalenderjahr. Der
@@ -1638,6 +1717,7 @@ Absatz 3 Satz 3 gelten entsprechend.
 
 
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE008916123)
 
 (1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den
 Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
@@ -1722,6 +1802,7 @@ Bundeszentralamtes für Steuern nachkommt.
 
 
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011603123)
 
 (1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den
 Vergütungsantrag nach amtlich vorgeschriebenem Datensatz über die
@@ -1751,10 +1832,12 @@ eingetragen ist.
 
 
 ### - - Sondervorschriften für die Besteuerung bestimmter Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002104301)
 
 
 
 #### § 62 Berücksichtigung von Vorsteuerbeträgen, Belegnachweis
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009007301)
 
 (1) Ist bei den in § 59 genannten Unternehmern die Besteuerung nach §
 16 und § 18 Abs. 1 bis 4 des Gesetzes durchzuführen, so sind hierbei
@@ -1767,10 +1850,12 @@ nachzuweisen.
 
 
 ## - - Zu § 22 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002204301)
 
 
 
 ### § 63 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009106301)
 
 (1) Die Aufzeichnungen müssen so beschaffen sein, dass es einem
 sachverständigen Dritten innerhalb einer angemessenen Zeit möglich
@@ -1839,6 +1924,7 @@ aufzuzeichnen.
 
 
 ### § 64 Aufzeichnung im Fall der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009205118)
 
 Der Aufzeichnungspflicht nach § 22 Absatz 2 Nummer 6 des Gesetzes ist
 genügt, wenn die entstandene Einfuhrumsatzsteuer mit einem Hinweis auf
@@ -1846,6 +1932,7 @@ einen entsprechenden zollamtlichen Beleg aufgezeichnet wird.
 
 
 ### § 65 Aufzeichnungspflichten der Kleinunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009309301)
 
 Unternehmer, auf deren Umsätze § 19 Abs. 1 Satz 1 des Gesetzes
 anzuwenden ist, haben an Stelle der nach § 22 Abs. 2 bis 4 des
@@ -1865,6 +1952,7 @@ Gesetzes bleiben unberührt.
 
 
 ### § 66 Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009404301)
 
 Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
 Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
@@ -1873,6 +1961,7 @@ berechnet.
 
 
 ### § 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010604301)
 
 Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
 Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
@@ -1881,6 +1970,7 @@ Durchschnittssatz berechnet.
 
 
 ### § 67 Aufzeichnungspflichten bei der Anwendung der Durchschnittssätze für land- und forstwirtschaftliche Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009510301)
 
 Unternehmer, auf deren Umsätze § 24 des Gesetzes anzuwenden ist, sind
 für den land- und forstwirtschaftlichen Betrieb von den
@@ -1891,6 +1981,7 @@ hiervon sind die Bemessungsgrundlagen für die Umsätze im Sinne des §
 
 
 ### § 68 Befreiung von der Führung des Steuerheftes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009608140)
 
 (1) Unternehmer im Sinne des § 22 Abs. 5 des Gesetzes sind von der
 Verpflichtung, ein Steuerheft zu führen, befreit,
@@ -1920,20 +2011,25 @@ Steuerheftes aus.
 
 
 ## - - Zu § 23 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002304301)
 
 
 
 ### § 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009709123)
 
 
 ### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009805123)
 
 
 ## - - Zu § 24 Abs. 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002404301)
 
 
 
 ### § 71 Verkürzung der zeitlichen Bindungen für land- und forstwirtschaftliche Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE009904301)
 
 Der Unternehmer, der eine Erklärung nach § 24 Abs. 4 Satz 1 des
 Gesetzes abgegeben hat, kann von der Besteuerung des § 19 Abs. 1 des
@@ -1944,10 +2040,12 @@ anzuwenden.
 
 
 ## - - Zu § 25 Abs. 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002504301)
 
 
 
 ### § 72 Buchmäßiger Nachweis bei steuerfreien Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010005123)
 
 (1) Bei Leistungen, die nach § 25 Abs. 2 des Gesetzes ganz oder zum
 Teil steuerfrei sind, ist § 13 Abs. 1 entsprechend anzuwenden.
@@ -1978,10 +2076,12 @@ Teil steuerfrei sind, ist § 13 Abs. 1 entsprechend anzuwenden.
 
 
 ## - - Zu § 26 Abs. 5 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002604301)
 
 
 
 ### § 73 Nachweis der Voraussetzungen der in bestimmten Abkommen enthaltenen Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010105377)
 
 (1) Der Unternehmer hat die Voraussetzungen der in § 26 Abs. 5 des
 Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
@@ -2018,15 +2118,18 @@ hinsichtlich der anteiligen Steuerbefreiung entsprechend.
 
 
 ### - - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNG002704301)
 
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010206301)
 
 (Änderungen der §§ 34, 67 und 68)
 
 
 #### § 74a Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE011704123)
 
 (1) Die §§ 59 bis 61 in der Fassung des Artikels 8 des Gesetzes vom
 19\. Dezember 2008 (BGBl. I S. 2794) und § 61a sind auf Anträge auf
@@ -2051,14 +2154,17 @@ auf Umsätze anzuwenden, die vor dem 1. Januar 2022 bewirkt werden.
 
 
 #### § 75 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010304301)
 
 (weggefallen)
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010405301)
 
 (Inkrafttreten)
 
 
 #### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ustdv_1980/BJNR023590979.html#BJNR023590979BJNE010508123)
 

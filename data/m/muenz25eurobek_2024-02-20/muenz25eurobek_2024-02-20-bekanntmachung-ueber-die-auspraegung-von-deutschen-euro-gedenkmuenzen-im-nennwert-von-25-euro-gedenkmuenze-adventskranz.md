@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2024-02-20/BJNR0540A0024.html#BJNR0540A0024BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema
@@ -53,11 +54,13 @@ Der Münzrand wird glatt und ohne Struktur ausgeführt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2024-02-20/BJNR0540A0024.html#BJNR0540A0024BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz25eurobek_2024-02-20/BJNR0540A0024.html#BJNR0540A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 84, S. 2)
 

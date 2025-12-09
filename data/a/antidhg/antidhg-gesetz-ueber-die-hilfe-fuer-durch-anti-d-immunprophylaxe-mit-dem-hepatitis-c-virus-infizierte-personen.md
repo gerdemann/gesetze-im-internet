@@ -27,12 +27,14 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Anspruch auf Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000200310)
 
 (1) Frauen, die in dem in Artikel 3 des Einigungsvertrages genannten
 Gebiet infolge einer in den Jahren 1978 und 1979 durchgeführten Anti-
@@ -61,6 +63,7 @@ Hinterbliebenen eines nach Satz 1 Berechtigten.
 
 
 ## § 2 Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000302360)
 
 Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die
 Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen
@@ -69,6 +72,7 @@ Vierzehnten Buches Sozialgesetzbuch.
 
 
 ## § 3 Finanzielle Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000402116)
 
 (1) Berechtigte nach § 1 Abs. 1 Satz 1 erhalten als finanzielle Hilfe
 eine monatliche Rente und eine Einmalzahlung.
@@ -112,6 +116,7 @@ festgestellt.
 
 
 ## § 4 Hilfe für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000501310)
 
 (1) Stirbt ein nach § 1 Abs. 1 Satz 1 Berechtigter an den Folgen einer
 im Zeitpunkt des Todes bestandskräftig anerkannten Hepatitis-C-Virus-
@@ -143,12 +148,14 @@ Vollendung des 27. Lebensjahres. Als Waisen gelten auch
 
 
 ## § 5 Härteausgleich, Hilfe bei Wohnsitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000603116)
 
 § 100 und § 101 Absatz 3 des Vierzehnten Buches Sozialgesetzbuch
 gelten entsprechend.
 
 
 ## § 6 Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000700310)
 
 (1) Einmalzahlungen nach § 3 Abs. 3 bleiben als Einkommen und Vermögen
 unberücksichtigt, wenn bei Sozialleistungen die Gewährung oder die
@@ -165,6 +172,7 @@ verpfändet oder gepfändet werden.
 
 
 ## § 7 Beginn, Änderung und Zahlung der Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000801116)
 
 (1) Die Hilfen nach den §§ 3 und 4 werden auf Antrag gewährt.
 Rentenleistungen nach § 3 Abs. 2 und Hilfen nach § 4 beginnen mit dem
@@ -199,6 +207,7 @@ Tatbestand des § 1 beruht.
 
 
 ## § 7a Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001700116)
 
 (1) Berechtigte nach § 1 Absatz 1 Satz 1 erhalten die monatliche Rente
 nach § 3 Absatz 2 weiterhin in der für den letzten bei ihnen
@@ -220,6 +229,7 @@ ab dem Ersten des Monats, in dem der Antrag gestellt wurde.
 
 
 ## § 8 Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE000906310)
 
 (1) Die Hilfen nach § 3 Abs. 2 und § 4 ändern sich entsprechend dem
 Vomhundertsatz und jeweils zum gleichen Zeitpunkt, zu dem die Renten
@@ -234,6 +244,7 @@ sich die Renten der gesetzlichen Rentenversicherung verändern.
 
 
 ## § 9 Übergang gesetzlicher Schadensersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001001116)
 
 (1) § 120 des Vierzehnten Buches Sozialgesetzbuch gilt mit der
 Maßgabe, dass der gegen Dritte bestehende gesetzliche
@@ -246,6 +257,7 @@ der Kostenlast beteiligt haben.
 
 
 ## § 10 Kostenträger
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001103116)
 
 (1) Die Kosten der Einmalzahlung trägt der Bund.
 
@@ -265,6 +277,7 @@ einem Drittel nach dem Verhältnis ihrer Bevölkerungszahl bestimmt.
 
 
 ## § 11 Zuständigkeit, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001202116)
 
 (1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für
 die Durchführung des Vierzehnten Buches Sozialgesetzbuch zuständigen
@@ -280,6 +293,7 @@ gelten entsprechend.
 
 
 ## § 12 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001301116)
 
 Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
 Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
@@ -287,6 +301,7 @@ gegeben.
 
 
 ## § 13 Besitzstände
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001402360)
 
 (1) Solange die Hilfen nach § 3 Abs. 2 und § 4 nicht die Höhe der beim
 Inkrafttreten dieses Gesetzes nach dem Bundes-Seuchengesetz gezahlten
@@ -313,11 +328,13 @@ Krankenbehandlung.
 
 
 ## (XXXX) §§ 14 und 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001500310)
 
 -
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/antidhg/BJNR127000000.html#BJNR127000000BJNE001600310)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2000 in Kraft.
 

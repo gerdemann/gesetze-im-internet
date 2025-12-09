@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmkdg/BJNR106620004.html#BJNR106620004BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmkdg/BJNR106620004.html#BJNR106620004BJNE000200000)
 
 Folgenden in Skopje am 8. Juli 2003 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -44,6 +46,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmkdg/BJNR106620004.html#BJNR106620004BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -79,6 +82,7 @@ folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmkdg/BJNR106620004.html#BJNR106620004BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

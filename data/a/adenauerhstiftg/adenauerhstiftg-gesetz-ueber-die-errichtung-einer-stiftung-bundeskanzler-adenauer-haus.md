@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000100311)
 
 Unter dem Namen "Stiftung Bundeskanzler-Adenauer-Haus" wird mit Sitz
 in Bad Honnef-Rhöndorf eine rechtsfähige Stiftung des öffentlichen
@@ -28,6 +29,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000200311)
 
 (1) Zweck der Stiftung ist es,
 
@@ -68,6 +70,7 @@ Maßnahmen:
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000300311)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung über:
 
@@ -95,6 +98,7 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000401320)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -104,6 +108,7 @@ Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000500311)
 
 Organe der Stiftung sind
 
@@ -117,6 +122,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000600311)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Je
@@ -141,6 +147,7 @@ des Vorstandes. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000701320)
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
 Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder
@@ -158,12 +165,14 @@ außergerichtlich.
 
 
 ## § 8 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000800311)
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE000901320)
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
@@ -178,6 +187,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 10 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001000311)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -191,6 +201,7 @@ haben, verliehen werden.
 
 
 ## § 11 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001100311)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -198,11 +209,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001200311)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 13 Übernahme von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001300311)
 
 Mit ihrem Entstehen übernimmt die "Stiftung Bundeskanzler-Adenauer-
 Haus" die Rechte und Pflichten, welche für die Bundesrepublik
@@ -214,12 +227,14 @@ Bundeskanzler-Adenauer-Haus abgeschlossen hat.
 
 
 ## § 14 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001400311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/adena_rhstiftg/BJNR018210978.html#BJNR018210978BJNE001500311)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

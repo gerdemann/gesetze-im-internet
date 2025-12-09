@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000200303)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1 Zustimmung zum Hörfunk-Überleitungsstaatsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000300303)
 
 Dem am 17. Juni 1993 unterzeichneten "Staatsvertrag zwischen der
 Bundesrepublik Deutschland und den Ländern über die Überleitung von
@@ -34,6 +36,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2 Änderung des Gesetzes über die Errichtung von Rundfunkanstalten des Bundesrechts
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000400303)
 
 (1) Die Aufgaben der gemeinnützigen Anstalt des öffentlichen Rechts
 mit dem Namen "Deutschlandfunk" als Rundfunkanstalt des Bundesrechts
@@ -43,6 +46,7 @@ sind zum 31. Dezember 1993 beendet.
 
 
 ## Art 3 Aufhebung des RIAS Berlin Statuts
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000500303)
 
 Das Statut des Senders RIAS Berlin vom 1. Januar 1973 wird gemäß
 Artikel 2 des Übereinkommens zur Regelung bestimmter Fragen in bezug
@@ -52,11 +56,13 @@ Verordnung zu dem Übereinkommen vom 28. September 1990 (BGBl. II S.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000600303)
 
 -
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkng/BJNR224600993.html#BJNR224600993BJNE000700303)
 
 Artikel 1 dieses Gesetzes tritt am Tage nach der Verkündung in Kraft,
 im übrigen tritt dieses Gesetz am 1. Januar 1994 in Kraft, wenn bis zu

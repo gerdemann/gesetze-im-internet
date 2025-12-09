@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egtseausnv/BJNR269700002.html#BJNR269700002BJNE000100000)
 
 Auf Grund des § 5 Nr. 1 und 4 des Fleischhygienegesetzes in der
 Fassung der Bekanntmachung vom 8. Juli 1993 (BGBl. I S. 1189), der
@@ -31,6 +32,7 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/egtseausnv/BJNR269700002.html#BJNR269700002BJNE000202377)
 
 (1) Abweichend von Artikel 8 Abs. 1 Satz 1 in Verbindung mit Anhang V
 Nr. 4.1 Buchstabe a der Verordnung (EG) Nr. 999/2001 des Europäischen
@@ -61,6 +63,7 @@ nach Absatz 1 nicht eingehalten werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/egtseausnv/BJNR269700002.html#BJNR269700002BJNE000302377)
 
 (1) Abweichend von Artikel 8 Abs. 1 Satz 1 in Verbindung mit Anhang V
 Nr. 4.1 Buchstabe a der Verordnung (EG) Nr. 999/2001 kann die
@@ -131,11 +134,13 @@ Absatzes 2 Satz 1 nicht mehr erfüllt sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/egtseausnv/BJNR269700002.html#BJNR269700002BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/egtseausnv/BJNR269700002.html#BJNR269700002BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

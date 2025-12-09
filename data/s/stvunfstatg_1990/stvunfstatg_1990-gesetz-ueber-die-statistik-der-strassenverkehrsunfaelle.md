@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000200328)
 
 Über Unfälle, bei denen infolge des Fahrverkehrs auf öffentlichen
 Wegen und Plätzen Personen getötet oder verletzt oder Sachschäden
@@ -35,6 +37,7 @@ Struktur und Entwicklung der Straßenverkehrsunfälle zu erstellen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000302308)
 
 (1) Die Statistik erfaßt bei Unfällen, bei denen wenigstens eine
 Person getötet oder verletzt worden ist oder bei schwerwiegenden
@@ -90,6 +93,7 @@ Krankenhaus aufgenommen, so gelten sie als Schwerverletzte.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000401308)
 
 Als Hilfsmerkmale der Statistik werden die übermittelnde
 Polizeidienststelle und ihre Tagebuch-Nummer sowie die
@@ -97,6 +101,7 @@ Kraftfahrzeugkennzeichen der beteiligten Verkehrsmittel erfaßt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000501308)
 
 (1) Auskunftspflichtig sind die Polizeidienststellen, deren Beamte den
 Unfall aufgenommen haben. Die Auskünfte werden aus den Unterlagen der
@@ -124,6 +129,7 @@ Angaben sind im Kraftfahrt-Bundesamt spätestens einen Monat nach der
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000604305)
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden
 dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften
@@ -179,6 +185,7 @@ Bundesstatistikgesetz.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000704305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur hat durch
 Rechtsverordnung mit Zustimmung des Bundesrates den schwerwiegenden
@@ -186,11 +193,13 @@ Unfall mit Sachschaden im Sinne des § 2 Abs. 1 näher zu bestimmen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000801308)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg_1990/BJNR010780990.html#BJNR010780990BJNE000900328)
 
 Dieses Gesetz tritt am 1. Januar des auf die Verkündung folgenden
 Kalenderjahres in Kraft.

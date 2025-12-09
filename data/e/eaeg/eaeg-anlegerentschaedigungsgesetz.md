@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000116128)
 
 (1) Institute im Sinne dieses Gesetzes sind
 
@@ -93,6 +94,7 @@ spätere Erfüllung besteht.
 
 
 ## § 2 Sicherungspflicht der Institute
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000201118)
 
 Die Institute sind verpflichtet, ihre Verbindlichkeiten aus
 Wertpapiergeschäften nach Maßgabe dieses Gesetzes durch Zugehörigkeit
@@ -100,6 +102,7 @@ zu einer Entschädigungseinrichtung zu sichern.
 
 
 ## § 3 Entschädigungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000308128)
 
 (1) Der Gläubiger eines Instituts hat im Entschädigungsfall gegen die
 Entschädigungseinrichtung einen Anspruch auf Entschädigung nach
@@ -201,6 +204,7 @@ Entschädigungsanspruchs ist der Zivilrechtsweg gegeben.
 
 
 ## § 4 Umfang des Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000408360)
 
 (1) Der Entschädigungsanspruch des Gläubigers des Instituts richtet
 sich nach der Höhe und dem Umfang der ihm gegenüber bestehenden
@@ -239,6 +243,7 @@ die Obergrenze nach Absatz 2 auf den Dritten abzustellen.
 
 
 ## § 5 Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000507128)
 
 (1) Die Bundesanstalt hat den Entschädigungsfall unverzüglich
 festzustellen, spätestens jedoch innerhalb von 21 Tagen, nachdem sie
@@ -292,6 +297,7 @@ Entschädigung aussetzen, bis das Strafverfahren beendet ist.
 
 
 ## § 6 Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000604118)
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird eine
 Entschädigungseinrichtung als nicht rechtsfähiges Sondervermögen des
@@ -326,6 +332,7 @@ unterrichten.
 
 
 ## § 7 Beliehene Entschädigungseinrichtung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000705118)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung Aufgaben und Befugnisse der Entschädigungseinrichtung
@@ -371,6 +378,7 @@ Prüfungsrechte nach § 44 Absatz 1 des Kreditwesengesetzes zu.
 
 
 ## § 8 Mittel der Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000805118)
 
 (1) Die Mittel für die Durchführung der Entschädigung werden durch
 Beiträge der Institute erbracht. Die Beiträge der Institute müssen die
@@ -541,6 +549,7 @@ verwalten.
 
 
 ## § 9 Prüfung der Institute
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE000907128)
 
 (1) Die Entschädigungseinrichtung soll zur Einschätzung der Gefahr des
 Eintritts eines Entschädigungsfalls regelmäßig und bei gegebenem
@@ -628,6 +637,7 @@ begründen, hat sie diese unverzüglich der Bundesanstalt mitzuteilen.
 
 
 ## § 10 Prüfung der Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001004128)
 
 (1) Die Entschädigungseinrichtung hat nach Ablauf eines Kalenderjahres
 einen Geschäftsbericht aufzustellen und einen unabhängigen
@@ -666,6 +676,7 @@ Bundesrechnungshof ist vor dem Erlass dieser Vorschriften zu hören.
 
 
 ## § 11 Ausschluss aus der Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001105118)
 
 (1) Erfüllt ein Institut die Beitrags- oder Mitwirkungspflichten nach
 § 8 oder § 9 nicht, nicht richtig, nicht vollständig oder nicht
@@ -688,6 +699,7 @@ Verbindlichkeiten des Instituts, die vor dem Wegfall begründet wurden.
 
 
 ## § 12 Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001307128)
 
 (1) Zweigniederlassungen eines Unternehmens im Sinne des § 73 des
 Wertpapierinstitutsgesetzes haben zu den für inländische Institute
@@ -734,6 +746,7 @@ Entschädigungseinrichtung des Herkunftsstaats zusammen.
 
 
 ## § 13 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001502118)
 
 Personen, die bei der Entschädigungseinrichtung beschäftigt oder für
 sie tätig sind, dürfen fremde Geheimnisse, insbesondere Betriebs- oder
@@ -748,6 +761,7 @@ Deutsche Bundesbank weitergegeben werden.
 
 
 ## § 13a Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE002300126)
 
 (1) Die Entschädigungseinrichtung ist befugt, personenbezogene Daten
 zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben
@@ -814,12 +828,14 @@ Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU)
 
 
 ## § 14 Nichtanwendung des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001601118)
 
 Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für
 Entschädigungseinrichtungen im Sinne der §§ 6 und 7.
 
 
 ## § 15 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001704118)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 9 Absatz 2 Satz 1 den Jahresabschluss mit dem dazugehörigen
@@ -839,6 +855,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ## § 16 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE002002118)
 
 (1) Die Entschädigungseinrichtung kann die Befolgung der Verfügungen,
 die sie innerhalb ihrer gesetzlichen Befugnisse trifft, mit
@@ -852,6 +869,7 @@ Euro.
 
 
 ## § 17 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE001801118)
 
 (1) Ein Anspruch auf Entschädigung nach diesem Gesetz besteht für
 einen Entschädigungsfall wegen Nichterfüllung von Verbindlichkeiten
@@ -865,6 +883,7 @@ Absatz 5 erst ab dem 1. November 1998.
 
 
 ## § 18 Anwendungsbestimmung und Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/e_g/BJNR184210998.html#BJNR184210998BJNE002201360)
 
 (1) Bis zum 31. Dezember 2010 können die Entschädigungseinrichtungen
 und Institute § 5 weiter in der bis zum 29. Juni 2009 geltenden

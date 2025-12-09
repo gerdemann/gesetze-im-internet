@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -38,6 +39,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000200000)
 
 Der Ausbildungsberuf zur Fachkraft für Möbel-, Küchen- und
 Umzugsservice wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -45,11 +47,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -121,6 +125,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -142,6 +147,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -211,6 +217,7 @@ Vorgaben:
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000701308)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -467,6 +474,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000801308)
 
 (1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -480,12 +488,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Möbel-, Küchen- und Umzugsservice
+[Direktlink](https://www.gesetze-im-internet.de/mkuservausbv/BJNR055800011.html#BJNR055800011BJNE001000000)
 
 (Fundstelle: BGBl. I 2011, 561 - 565)
 

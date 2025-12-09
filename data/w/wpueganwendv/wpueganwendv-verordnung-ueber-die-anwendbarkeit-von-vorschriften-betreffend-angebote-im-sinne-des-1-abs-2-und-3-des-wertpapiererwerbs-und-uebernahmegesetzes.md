@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wp_ganwendv/BJNR169800006.html#BJNR169800006BJNE000100000)
 
 Auf Grund des § 1 Abs. 4 in Verbindung mit Abs. 2 und 3 des
 Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl.
@@ -28,6 +29,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Vorschriften betreffend Angebote im Sinne des § 1 Abs. 2 des Wertpapiererwerbs- und Übernahmegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wp_ganwendv/BJNR169800006.html#BJNR169800006BJNE000200000)
 
 Auf Angebote im Sinne des § 1 Abs. 2 des Wertpapiererwerbs- und
 Übernahmegesetzes sind die folgenden Vorschriften dieses Gesetzes
@@ -105,6 +107,7 @@ nötig macht:
 
 
 ## § 2 Vorschriften betreffend Angebote im Sinne des § 1 Abs. 3 des Wertpapiererwerbs- und Übernahmegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wp_ganwendv/BJNR169800006.html#BJNR169800006BJNE000300000)
 
 Auf Angebote im Sinne des § 1 Abs. 3 des Wertpapiererwerbs- und
 Übernahmegesetzes sind die folgenden Vorschriften dieses Gesetzes
@@ -151,6 +154,7 @@ nötig macht:
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wp_ganwendv/BJNR169800006.html#BJNR169800006BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

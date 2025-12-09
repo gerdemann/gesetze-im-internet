@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen, Verweise
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000200000)
 
 (1) Ergänzend zu den Begriffsbestimmungen des Artikels 2 der
 Verordnung (EU) 2016/2031 und des Artikels 3 der Verordnung (EU)
@@ -67,6 +69,7 @@ anzuwenden.
 
 
 ### § 2 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000300000)
 
 (1) Hat ein Unternehmer den Verdacht oder wird ihm bekannt, dass ein
 Schadorganismus, der
@@ -154,6 +157,7 @@ Absatz 1 Satz 1 oder Absatz 2 erhalten.
 
 
 ### § 3 Neue Schadorganismen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000400000)
 
 (1) Die zuständige Behörde hat die Einfuhr und das
 innergemeinschaftliche Verbringen
@@ -240,6 +244,7 @@ berücksichtigen.
 
 
 ### § 4 Einfuhrverbot von Pflanzen, Pflanzenerzeugnissen oder anderen Gegenständen nach den Artikeln 72, 73 und 74 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000500000)
 
 (1) Unbeschadet von Artikel 72 Absatz 5 der Verordnung (EU) 2016/2031
 ist es verboten, Pflanzen, Pflanzenerzeugnisse oder andere Gegenstände
@@ -268,9 +273,11 @@ Ursprung in der Schweiz.
 
 
 ## Abschnitt 2 - Genehmigungen und Ermächtigungen von Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000200000)
 
 
 ### § 5 Genehmigungen für die Zwecke amtlicher Tests, für wissenschaftliche Zwecke oder für Bildungszwecke, Versuche, Sortenauslese bzw. Züchtungsvorhaben nach den Artikeln 8 und 48 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000600000)
 
 (1) Die zuständige Behörde kann die Genehmigung nach Artikel 8 Absatz
 1 oder Artikel 48 Absatz 1 der Verordnung (EU) 2016/2031 widerrufen,
@@ -288,6 +295,7 @@ Widerruf von Verwaltungsakten unberührt.
 
 
 ### § 6 Quarantänestationen und geschlossene Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000700000)
 
 (1) Die zuständige Behörde kann die Benennung nach Artikel 60 der
 Verordnung (EU) 2016/2031 widerrufen, wenn eine der Anforderungen nach
@@ -302,6 +310,7 @@ Widerruf von Verwaltungsakten unberührt.
 
 
 ### § 7 Ermächtigung von Unternehmern zur Ausstellung von Pflanzenpässen nach Artikel 89 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000800000)
 
 (1) Die Ermächtigung nach Artikel 89 Absatz 1 der Verordnung (EU)
 2016/2031 wird von der zuständigen Behörde auf Antrag erteilt.
@@ -343,6 +352,7 @@ unberührt.
 
 
 ### § 8 Genehmigungen von Risikomanagementplänen nach Artikel 91 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE000900000)
 
 (1) Die zuständige Behörde kann die Genehmigung nach Artikel 91 Absatz
 1 der Verordnung (EU) 2016/2031 widerrufen, wenn der ermächtigte
@@ -366,9 +376,11 @@ Widerruf von Verwaltungsakten unberührt.
 
 
 ## Abschnitt 3 - Holz und Verpackungsmaterial aus Holz, Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000300000)
 
 
 ### § 9 Registrierung von Unternehmern, die nach ISPM 15 Standard behandeltes Holz ausschließlich in Verkehr bringen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001000000)
 
 (1) Ergänzend zu Artikel 65 Absatz 1 der Verordnung (EU) 2016/2031 hat
 die zuständige Behörde ein Register zu führen über Unternehmer, die
@@ -413,6 +425,7 @@ registrierten Unternehmer zu kontrollieren.
 
 
 ### § 10 Behandlungsnachweis nach ISPM 15 Standard bei Holz und Verpackungsmaterial aus Holz
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001100000)
 
 (1) Ein nach Artikel 98 Absatz 1 Unterabsatz 1 der Verordnung (EU)
 2016/2031 ermächtigter Unternehmer hat laufend schriftlich oder
@@ -484,6 +497,7 @@ gelieferten Holzes durch ihn aufzubewahren.
 
 
 ### § 11 Ermächtigung registrierter Unternehmer nach Artikel 98 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001200000)
 
 (1) Soweit dies zur Einhaltung der Vorschriften der Verordnung (EU)
 2016/2031 und ihrer Durchführungs- und delegierten Rechtsakte
@@ -506,6 +520,7 @@ unberührt.
 
 
 ### § 12 Markierung von Verpackungsmaterial aus Holz
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001300000)
 
 (1) Die zuständige Behörde kann auf Antrag die Markierung von
 Verpackungsmaterial aus Holz durch den Unternehmer vor der Behandlung
@@ -548,6 +563,7 @@ Satz 2 im Bundesanzeiger bekanntzugeben.
 
 
 ### § 13 Reparatur von Verpackungsmaterial aus Holz nach Artikel 97 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001400000)
 
 (1) Verpackungsmaterial aus Holz, das entsprechend dem ISPM 15
 Standard behandelt und markiert worden ist und wieder als solches
@@ -586,6 +602,7 @@ bringt.
 
 
 ### § 14 Kontrolle von Verpackungsmaterial aus Holz
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001500000)
 
 (1) Wer eine Sendung aus einem Drittland unmittelbar in das Gebiet der
 Bundesrepublik Deutschland einführt, deren Waren
@@ -643,9 +660,11 @@ Durchführungsverordnung (EU) 2019/2130 entsprechend.
 
 
 ## Abschnitt 4 - Risikowarenlisten
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000400000)
 
 
 ### § 15 Kontrolle der Waren nach Artikel 73 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001600000)
 
 (1) Wer Pflanzen nach Artikel 73 Absatz 1 der Verordnung (EU)
 2016/2031 in Verbindung mit Artikel 11 Absatz 3 und Anhang XI Teil B
@@ -699,6 +718,7 @@ entsprechend.
 
 
 ### § 16 Bekanntmachung der Risikowarenlisten
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001700000)
 
 (1) Das Julius Kühn-Institut hat Risikowarenlisten für die Kontrollen
 von Verpackungsmaterial aus Holz nach Artikel 2 der Delegierten
@@ -713,9 +733,11 @@ Bundesanzeiger bekanntzumachen.
 
 
 ## Abschnitt 5 - Ausfuhr und Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000500000)
 
 
 ### § 17 Pflanzengesundheitszeugnisse nach Artikel 100 Absatz 1 der Verordnung (EU) 2016/2031, phytosanitäre Sicherheit bei der Ausfuhr in Drittländer
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001800000)
 
 (1) Bedürfen Pflanzen, Pflanzenerzeugnisse und andere Gegenstände im
 Sinne von Artikel 2 Nummer 5 der Verordnung (EU) 2016/2031 zur Einfuhr
@@ -752,6 +774,7 @@ erfüllen.
 
 
 ### § 18 Ausstellung von Pflanzengesundheitszeugnissen nach den Artikeln 100 und 101 und Vorausfuhrzeugnissen nach Artikel 102 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE001900000)
 
 (1) Für das Pflanzengesundheitszeugnis ist ein vom Bundesministerium
 für Ernährung und Landwirtschaft im Bundesanzeiger bekannt gemachter
@@ -811,6 +834,7 @@ elektronisches Siegel zu verwenden.
 
 
 ### § 19 Genehmigung des Verbringens aus abgegrenzten Gebieten nach Artikel 18 Absatz 1 der Verordnung (EU) 2016/2031 oder eines Durchführungsrechtsaktes nach Artikel 30 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002000000)
 
 Pflanzen, Pflanzenerzeugnisse oder andere Gegenstände dürfen aus einem
 abgegrenzten Gebiet nach Artikel 18 Absatz 1 der Verordnung (EU)
@@ -826,9 +850,11 @@ der Verbreitung des betreffenden Schadorganismus verbunden ist.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNG000600000)
 
 
 ### § 20 Anfragen nach Artikel 68 der Verordnung (EU) 2016/2031
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002100000)
 
 (1) Anfragen nach Artikel 68 Absatz 2 der Verordnung (EU) 2016/2031
 sind schriftlich oder elektronisch bei der zuständigen Behörde zu
@@ -840,6 +866,7 @@ Verordnung (EU) 2016/2031 glaubhaft zu machen.
 
 
 ### § 21 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002200000)
 
 Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
 wird die Befugnis zum Verkehr mit der Europäischen Kommission oder den
@@ -894,6 +921,7 @@ den folgenden Fällen übertragen:
 
 
 ### § 22 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002300000)
 
 (1) Ordnungswidrig im Sinne des § 16 Absatz 1 Nummer 1 Buchstabe a des
 Pflanzengesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -972,6 +1000,7 @@ rechtzeitig erstattet.
 
 
 ### § 23 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002400000)
 
 Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der
 Europäischen Union beziehen sich auf die in der Anlage 2 angegebenen
@@ -979,6 +1008,7 @@ Fassungen.
 
 
 ### Anlage 1 (zu § 18 Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 277, S. 15)
 
@@ -991,6 +1021,7 @@ eine mitarbeiterbezogene Nummer.
 (zu § 23)
 
 ### Anlage 2 Fundstellenverzeichnis der Rechtsakte der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/pflbeschv/BJNR1150C0023.html#BJNR1150C0023BJNE002600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 277, S. 16 - 17)
 

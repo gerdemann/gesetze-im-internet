@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-9-8 v. 28.2.1991 I 520 (MilchLMstrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3
 Nummer 1 und mit § 53a Absatz 1 Nummer 2 und mit § 53c des
@@ -31,9 +32,11 @@ Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss
 „Milchwirtschaftlicher Labormeister – Bachelor Professional im
@@ -54,6 +57,7 @@ Abschlussbezeichnung „Milchwirtschaftlicher Labormeister“ oder
 
 
 ### § 2 Qualifizierungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000400000)
 
 (1) Die Prüfung findet in folgenden Qualifizierungsbereichen statt:
 
@@ -238,6 +242,7 @@ und Prüfungsinhalten nach den §§ 6, 10 und 14.
 
 
 ### § 3 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000500000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -271,6 +276,7 @@ rechtfertigt.
 
 
 ### § 4 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000600000)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
@@ -287,15 +293,18 @@ Die Prüfung umfasst folgende Prüfungsteile:
 
 
 ### § 5 Bewertung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000700000)
 
 Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1
 dargestellte sechsstufige Bewertungsmaßstab anzuwenden.
 
 
 ## Abschnitt 2 - Prüfungsteil Untersuchungs- und Labortechnik
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000200000)
 
 
 ### § 6 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000800000)
 
 (1) Im Prüfungsteil Untersuchungs- und Labortechnik hat die zu
 prüfende Person nachzuweisen, dass sie in der Lage ist,
@@ -384,6 +393,7 @@ Qualitätssicherung als Führungskraft durchführen kann.
 
 
 ### § 7 Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE000900000)
 
 Die Prüfung besteht aus
 
@@ -397,6 +407,7 @@ Die Prüfung besteht aus
 
 
 ### § 8 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001000000)
 
 (1) Mit der Durchführung des Arbeitsprojektes hat die zu prüfende
 Person nachzuweisen, dass sie in der Lage ist, ausgehend von einer
@@ -424,6 +435,7 @@ soll nicht länger als 60 Minuten dauern.
 
 
 ### § 9 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001100000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -434,9 +446,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Prüfungsteil Labor- und Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000300000)
 
 
 ### § 10 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001200000)
 
 (1) Im Prüfungsteil Labor- und Unternehmensführung hat die zu prüfende
 Person nachzuweisen, dass sie wirtschaftliche, rechtliche und soziale
@@ -504,6 +518,7 @@ sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
 
 ### § 11 Prüfungsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001300000)
 
 Die Prüfung besteht aus
 
@@ -517,6 +532,7 @@ Die Prüfung besteht aus
 
 
 ### § 12 Betriebswirtschaftliche Situationsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001400000)
 
 (1) In der betriebswirtschaftlichen Situationsanalyse hat die zu
 prüfende Person eine betriebswirtschaftlich relevante unternehmerische
@@ -537,6 +553,7 @@ Fachgespräch soll nicht länger als 45 Minuten dauern.
 
 
 ### § 13 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001500000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -547,9 +564,11 @@ Minuten.
 
 
 ## Abschnitt 4 - Prüfungsteil Berufsausbildung und Mitarbeiterführung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000400000)
 
 
 ### § 14 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001600000)
 
 (1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll die
 zu prüfende Person nachweisen, dass sie Zusammenhänge der
@@ -781,6 +800,7 @@ Kompetenzen:
 
 
 ### § 15 Struktur des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001700000)
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert
 sich in folgende Abschnitte:
@@ -808,6 +828,7 @@ Fallstudie nach § 18.
 
 
 ### § 16 Praktische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001800000)
 
 (1) Die praktische Prüfung besteht aus der Durchführung einer
 Ausbildungssituation und einem Fachgespräch.
@@ -824,6 +845,7 @@ Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ### § 17 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE001900000)
 
 (1) In der schriftlichen Prüfung soll die zu prüfende Person
 fallbezogene Aufgaben unter Aufsicht bearbeiten. Die Aufgaben sollen
@@ -835,6 +857,7 @@ Minuten.
 
 
 ### § 18 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002000000)
 
 (1) In der Fallstudie soll die zu prüfende Person eine Situation der
 Mitarbeiterführung bearbeiten. Die Situation wird vom
@@ -850,9 +873,11 @@ Verfügung. Das Fachgespräch soll nicht länger als 45 Minuten dauern.
 
 
 ## Abschnitt 5 - Bewertung der Prüfungen, Befreiung von Prüfungsbestandteilen, Bestehens- und Zeugnisregelungen
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000500000)
 
 
 ### § 19 Bewertung der Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002100000)
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer
 1 und 2, § 11 Nummer 1 und 2 sowie § 15 Absatz 2 Nummer 1 und 2 und
@@ -909,6 +934,7 @@ Anlage 1 eine Note in Worten zugeordnet.
 
 
 ### § 20 Befreiung von Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002200000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -920,6 +946,7 @@ des Prüfungsausschusses zu Grunde zu legen.
 
 
 ### § 21 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002300000)
 
 (1) Die Prüfung ist bestanden, wenn die zu prüfende Person in jedem
 Prüfungsteil nach § 4 mindestens die Note „ausreichend“ nach Anlage 1
@@ -939,6 +966,7 @@ erzielt hat.
 
 
 ### § 22 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002400000)
 
 (1) Wer die Prüfung bestanden hat, erhält von der zuständigen Stelle
 zwei Zeugnisse nach Maßgabe der Anlage 2.
@@ -975,9 +1003,11 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## Abschnitt 6 - Ergänzungs- und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000600000)
 
 
 ### § 23 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002500000)
 
 (1) Wurde eine oder wurden zwei der schriftlichen Prüfungsbestandteile
 nach den §§ 9, 13 und 17 schlechter als mit „ausreichend“ nach Anlage
@@ -995,6 +1025,7 @@ Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2
 
 
 ### § 24 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002600000)
 
 (1) Eine Prüfung, die nicht bestanden wurde, kann zweimal wiederholt
 werden.
@@ -1016,9 +1047,11 @@ Prüfungsbestandteilen nach den §§ 7, 11 und 15 zu befreien, wenn
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNG000700000)
 
 
 ### § 25 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002700000)
 
 (1) Die bis zum Ablauf des 15. September 2021 begonnenen
 Prüfungsverfahren sind nach der Verordnung über die Anforderungen in
@@ -1035,6 +1068,7 @@ in Absatz 1 bezeichneten Verordnung ab.
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Anforderungen in der
@@ -1047,6 +1081,7 @@ S. 520), die zuletzt durch Artikel 8 der Verordnung vom 21. Mai 2014
 Absatz 2)
 
 ### Anlage 1 Bewertungsmaßstab für die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE002900000)
 
 (Fundstelle: BGBl. I 2021, 4202)
 
@@ -1119,6 +1154,7 @@ anzuwenden:
 (zu § 22)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/milchlmeistprv/BJNR419400021.html#BJNR419400021BJNE003000000)
 
 (Fundstelle: BGBl. I 2021, 4203)
 

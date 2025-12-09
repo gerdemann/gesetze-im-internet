@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1 Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht
+[Direktlink](https://www.gesetze-im-internet.de/arschiedsgaufhg/BJNR023210991.html#BJNR023210991BJNE000100308)
 
 (1)
 Das Gesetz über die Errichtung und das Verfahren der Schiedsstellen
@@ -45,6 +46,7 @@ Dezember 1993 gilt.
 
 
 ## Art 2 Gleichstellungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/arschiedsgaufhg/BJNR023210991.html#BJNR023210991BJNE000200308)
 
 Soweit in dem Gesetz über die Errichtung und das Verfahren der
 Schiedsstellen für Arbeitsrecht und in § 48 des
@@ -55,11 +57,13 @@ errichtet ist, an die Stelle der Kreisgerichte die Arbeitsgerichte.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/arschiedsgaufhg/BJNR023210991.html#BJNR023210991BJNE000300308)
 
 -
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/arschiedsgaufhg/BJNR023210991.html#BJNR023210991BJNE000400308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

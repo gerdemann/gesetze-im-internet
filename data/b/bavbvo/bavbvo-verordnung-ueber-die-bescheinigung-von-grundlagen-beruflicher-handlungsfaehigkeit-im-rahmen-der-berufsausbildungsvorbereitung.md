@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000100000)
 
 Auf Grund des § 51 Abs. 2 Satz 2 in Verbindung mit Satz 1 und Absatz 1
 sowie mit § 50 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969
@@ -36,6 +37,7 @@ Reaktorsicherheit:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000200000)
 
 Diese Verordnung regelt die Ausstellung der Bescheinigung über die im
 Rahmen einer Berufsausbildungsvorbereitung nach dem
@@ -44,6 +46,7 @@ Handlungsfähigkeit (§ 51 Abs. 2 Satz 1 des Berufsbildungsgesetzes).
 
 
 ## § 2 Allgemeine Anforderungen an die Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000300000)
 
 Die Bescheinigung über die in der Berufsausbildungsvorbereitung
 erworbenen Grundlagen beruflicher Handlungsfähigkeit enthält
@@ -66,6 +69,7 @@ mindestens Angaben über
 
 
 ## § 3 Bescheinigung und Dokumentation von Qualifizierungsbausteinen
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000400000)
 
 (1) Soweit die Vermittlung von Grundlagen beruflicher
 Handlungsfähigkeit durch Qualifizierungsbausteine (§ 51 Abs. 1 des
@@ -105,6 +109,7 @@ sind (Qualifizierungsbild).
 
 
 ## § 4 Bestätigung des Qualifizierungsbildes
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000500000)
 
 Auf Antrag des Anbieters der Berufsausbildungsvorbereitung bestätigt
 die zuständige Stelle die Übereinstimmung des Qualifizierungsbildes
@@ -113,6 +118,7 @@ beizufügenden Abschrift des Qualifizierungsbildes aufzuführen.
 
 
 ## § 5 Ermittlung der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000600000)
 
 (1) Zur Ermittlung der Befähigung bei Beendigung eines
 Qualifizierungsbausteins hat der Anbieter der
@@ -125,6 +131,7 @@ Qualifizierungsbild niedergelegten Fertigkeiten und Kenntnisse.
 
 
 ## § 6 Leistungsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000700000)
 
 Hat die teilnehmende Person das Qualifizierungsziel erreicht, gelten
 folgende Bewertungen:
@@ -142,6 +149,7 @@ folgende Bewertungen:
 
 
 ## § 7 Zeugnis und Teilnahmebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000800000)
 
 (1) Über das Ergebnis der Leistungsfeststellung nach Maßgabe des § 5
 stellt der Anbieter der Berufsausbildungsvorbereitung bei Erreichen
@@ -156,11 +164,13 @@ Qualifizierungsbildes beizufügen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE000900000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 3 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE001000000)
 
 (Fundstelle: BGBl. I 2003, 1474)
 ......................................................
@@ -234,6 +244,7 @@ Datum ................................              (Siegel)
 
 
 ## Anlage 2 (zu § 7 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE001100000)
 
 (Fundstelle: BGBl. I 2003, 1475)
 ........................................
@@ -283,6 +294,7 @@ Anbieter der Berufsausbildungsvorbereitung)
 
 
 ## Anlage 3 (zu § 7 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bavbvo/BJNR147200003.html#BJNR147200003BJNE001200000)
 
 (Fundstelle: BGBl. I 2003, 1476)
 ........................................

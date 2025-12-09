@@ -19,27 +19,32 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000200308)
 
 -
 
 
 ## Art 2 Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über Ausgleichsleistungen an Kreditnehmer
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000300308)
 
 (Text siehe: KredAAG)
 
 
 ## (XXXX) Art 3 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000400308)
 
 -
 
 
 ## Art 9 Regelung zu § 4 Abs. 1 Satz 3 des Artikels 8 der Anlage I des Staatsvertrages vom 18. Mai 1990
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000500308)
 
 § 4 Abs. 1 Satz 3 des Artikels 8 der Anlage I des Vertrages vom 18.
 Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und
@@ -57,6 +62,7 @@ entsprechend zeitnahe Veröffentlichung sorgt.
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hbeglg_1991/BJNR013140991.html#BJNR013140991BJNE000600308)
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 mit Wirkung von 1.
 Januar 1991 in Kraft.

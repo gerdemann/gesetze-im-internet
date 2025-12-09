@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elbvwhhmbv/BJNR000030939.html#BJNR000030939BJNE000100326)
 
 Auf Grund des Artikels 5 des Gesetzes über den Neuaufbau des Reichs
 vom 30. Januar 1934 (Reichsgesetzbl. I S. 75), des § 14 des Gesetzes
@@ -31,6 +32,7 @@ Verwaltung der Elbe im Gebiet Groß-Hamburg vom 30. Juni 1937
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/elbvwhhmbv/BJNR000030939.html#BJNR000030939BJNE000200326)
 
 (1) Die nach dem Zusatzvertrag mit Preußen (Zweiter Nachtrag vom 22.
 Dezember 1928, Reichsgesetzbl. 1929 II S. 1), zu §§ 11 und 12 dem Land
@@ -49,6 +51,7 @@ preußische Landesgebiet berührt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/elbvwhhmbv/BJNR000030939.html#BJNR000030939BJNE000300326)
 
 Die nach dem Reichsgesetz vom 29. Juli 1921 (Reichsgesetzbl. S 961)
 vom
@@ -59,6 +62,7 @@ Verwaltung der Hansestadt Hamburg über.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/elbvwhhmbv/BJNR000030939.html#BJNR000030939BJNE000400326)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1939 in Kraft.
 
@@ -68,6 +72,7 @@ Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/elbvwhhmbv/BJNR000030939.html#BJNR000030939BJNE000500326)
 
 Der Reichsminister des Innern
 Der Reichsverkehrsminister

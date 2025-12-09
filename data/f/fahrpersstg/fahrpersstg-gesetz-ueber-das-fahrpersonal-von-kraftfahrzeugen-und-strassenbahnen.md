@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000104301)
 
 (1) Dieses Gesetz gilt für die Beschäftigung und für die Tätigkeit des
 Fahrpersonals von Kraftfahrzeugen sowie von Straßenbahnen, soweit sie
@@ -49,6 +50,7 @@ diese dem Arbeitszeitgesetz vor.
 
 
 ## § 2 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000214123)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und
@@ -207,6 +209,7 @@ Soziales mit Zustimmung des Bundesrates
 
 
 ## § 3 Verbot bestimmter Akkordlöhne, Prämien und Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000303307)
 
 Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den
 zurückgelegten Fahrstrecken oder der Menge der beförderten Güter
@@ -217,6 +220,7 @@ beeinträchtigen.
 
 
 ## § 4 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000413123)
 
 (1) Die Aufsicht über die Ausführung der Verordnungen (EG) Nr.
 561/2006, (EU) Nr. 165/2014 und der Verordnung (EG) Nr. 2135/98, des
@@ -335,6 +339,7 @@ und der Artikel 15, 22 Absatz 3 und Artikel 24 Absatz 5 der Verordnung
 
 
 ## § 4a Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001900301)
 
 Anträge auf Erteilung von Fahrer-, Werkstatt- oder Unternehmenskarten
 sind an die nach Landesrecht zuständigen Behörden oder Stellen zu
@@ -342,6 +347,7 @@ richten. Die Länder können Dritte mit dieser Aufgabe betrauen.
 
 
 ## § 4b Fahrerlaubnisrechtliche Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE002002126)
 
 Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen
 Fahrerlaubnisregister die nach § 49 Absatz 1 Nummer 1 bis 3, 7 bis 13
@@ -356,6 +362,7 @@ werden.
 
 
 ## § 4c Auskünfte aus dem Fahrtenschreiberkartenregister
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE002102126)
 
 (1) Durch Abruf im automatisierten Verfahren dürfen aus dem
 Fahrtenschreiberkartenregister die nach § 12 der
@@ -383,6 +390,7 @@ geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
 
 
 ## § 5 Anordnungsbefugnis, Sicherungsmaßnahmen, Zurückweisung an der Grenze
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000504123)
 
 (1) Werden bei einer Kontrolle auf Verlangen keine oder nicht
 vorschriftsmäßig geführte Tätigkeitsnachweise vorgelegt oder wird
@@ -423,6 +431,7 @@ Pflichten haben keine aufschiebende Wirkung.
 
 
 ## § 6 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000607305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit
@@ -435,6 +444,7 @@ Verwarnung nicht erteilt werden soll.
 
 
 ## § 7 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE000702307)
 
 Wird eine angeordnete Sicherheitsleistung nicht sofort erbracht, so
 kann die zuständige Behörde die Weiterfahrt bis zur vollständigen
@@ -442,6 +452,7 @@ Erbringung untersagen.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001509126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -573,6 +584,7 @@ begangen wurde.
 
 
 ## § 8a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001406123)
 
 (1) Ordnungswidrig handelt, wer als Unternehmer gegen die Verordnung
 (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15.
@@ -654,6 +666,7 @@ Gesetzes begangen wurde.
 
 
 ## § 9 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001602123)
 
 (1) Wird ein Verstoß in einem Unternehmen begangen, das im
 Geltungsbereich dieses Gesetzes seinen Sitz oder eine geschäftliche
@@ -681,6 +694,7 @@ Logistik und Mobilität.
 
 
 ## § 10 Datenschutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001706126)
 
 (1) Die nach § 9 für die Durchführung von Bußgeldverfahren zuständigen
 Behörden dürfen folgende personenbezogene Daten über laufende und
@@ -769,6 +783,7 @@ der Landesdatenschutzgesetze bleiben unberührt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/fahrpersstg/BJNR002770971.html#BJNR002770971BJNE001800307)
 
 (Inkrafttreten)
 

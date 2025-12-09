@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2023/BJNR206200022.html#BJNR206200022BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt
 durch Artikel 198 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl. I
@@ -31,6 +32,7 @@ und dem Organisationserlass vom 8. Dezember 2021 (BGBl. I S. 5176):
 
 
 ## § 1 Steuersätze 2023
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2023/BJNR206200022.html#BJNR206200022BJNE000200000)
 
 Unter Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
@@ -68,6 +70,7 @@ Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstabsenkv_2023/BJNR206200022.html#BJNR206200022BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft.
 

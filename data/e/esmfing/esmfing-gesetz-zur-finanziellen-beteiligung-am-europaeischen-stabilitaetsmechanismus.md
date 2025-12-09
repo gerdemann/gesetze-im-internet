@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000100000)
 
 (1) Zur Erfüllung der Verpflichtungen aus dem Beitritt zum
 Europäischen Stabilitätsmechanismus beteiligt sich die Bundesrepublik
@@ -76,6 +77,7 @@ Stabilitätsmechanismus nicht in Abzug gebracht werden.
 
 
 ## § 2 Gewährung von Stabilitätshilfen durch den Europäischen Stabilitätsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000201360)
 
 Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im
 Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus
@@ -94,6 +96,7 @@ gewährt werden.
 
 
 ## § 3 Haushalts- und Stabilitätsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000300000)
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten des Europäischen
 Stabilitätsmechanismus seine Verantwortung für den Haushalt und für
@@ -108,6 +111,7 @@ maßgeblichen Fristvorgaben.
 
 
 ## § 4 Parlamentsvorbehalt für Entscheidungen im Europäischen Stabilitätsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000401360)
 
 (1) In Angelegenheiten des Europäischen Stabilitätsmechanismus, die
 die haushaltspolitische Gesamtverantwortung des Deutschen Bundestages
@@ -163,6 +167,7 @@ entsprechend.
 
 
 ## § 5 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000501360)
 
 (1) In allen sonstigen die Haushaltsverantwortung des Deutschen
 Bundestages berührenden Angelegenheiten des Europäischen
@@ -256,6 +261,7 @@ mindestens zwei Fraktionen im Ausschuss unterstützt werden muss.
 
 
 ## § 6 Beteiligung durch ein Sondergremium
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000602123)
 
 (1) Soweit ein Aufkauf von Staatsanleihen auf dem Sekundärmarkt nach
 Artikel 18 des Vertrags zur Einrichtung des Europäischen
@@ -292,6 +298,7 @@ Vertraulichkeit entfallen sind.
 
 
 ## § 7 Unterrichtung durch die Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000700000)
 
 (1) Die Bundesregierung hat den Deutschen Bundestag und den Bundesrat
 in Angelegenheiten dieses Gesetzes umfassend, zum frühestmöglichen
@@ -367,6 +374,7 @@ Angelegenheiten der Europäischen Union bleiben unberührt.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/esmfing/BJNR191800012.html#BJNR191800012BJNE000800000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

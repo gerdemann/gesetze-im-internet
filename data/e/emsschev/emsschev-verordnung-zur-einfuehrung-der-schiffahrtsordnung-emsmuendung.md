@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000100308)
 
 Auf Grund der §§ 7, 9 Abs. 1 Satz 1 Nr. 2, 3, 4 und 6, Satz 2, Abs. 2
 Satz 1 Nr. 1 und Abs. 6 des Seeaufgabengesetzes in der Fassung der
@@ -31,6 +32,7 @@ Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) wird verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000202308)
 
 (1) Diese Verordnung sowie die Schiffahrtsordnung Emsmündung (Anlage A
 zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über
@@ -80,6 +82,7 @@ bezeichnet, Anwendung.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000303124)
 
 Ergänzend zu Artikel 1 der Schiffahrtsordnung Emsmündung sind im Sinne
 dieser Verordnung:
@@ -105,6 +108,7 @@ dieser Verordnung:
 
 
 ## § 3 Grundregeln für das Verhalten im Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000406119)
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die
 Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß
@@ -157,6 +161,7 @@ Schiffsbesatzung entsprechend.
 
 
 ## § 4 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000501308)
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
 Verantwortliche haben die Vorschriften dieser Verordnung und die der
@@ -188,6 +193,7 @@ unberührt.
 
 
 ## § 5 Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000605308)
 
 (1) Ergänzend zu Artikel 2 Abs. 1 der Schiffahrtsordnung Emsmündung
 können im Anwendungsbereich dieser Verordnung folgende
@@ -419,6 +425,7 @@ dauerhaft erreicht wird.
 
 
 ## § 6 Schallsignalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000702305)
 
 (1) Ergänzend zu Artikel 3 der Schiffahrtsordnung Emsmündung dürfen
 Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind, für die
@@ -446,6 +453,7 @@ Europäischen Union gilt § 5 Abs. 4.
 
 
 ## § 7 Sichtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000803305)
 
 (1) Die Regelung des Artikels 4 Abs. 1 Satz 4 der Schiffahrtsordnung
 Emsmündung über die Abschirmung der Seitenlichter von Binnenschiffen
@@ -492,6 +500,7 @@ Europäischen Union gilt § 5 Abs. 4.
 
 
 ## § 8 Sichtzeichen kleiner Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE000900308)
 
 (1) Ergänzend zu Artikel 6 der Schiffahrtsordnung Emsmündung und
 abweichend von Regel 22 Buchstabe c der Internationalen Regeln müssen
@@ -507,6 +516,7 @@ bleibt unberührt.
 
 
 ## § 9 Durchfahren von Brücken
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001001308)
 
 (1) Ergänzend zu den Bestimmungen der Artikel 16 bis 18 der
 Schiffahrtsordnung Emsmündung über die Fahrregeln ist vor und unter
@@ -532,6 +542,7 @@ Aufforderungssignal "Brücke öffnen" zwei lange Töne zu geben.
 
 
 ## § 10 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001103305)
 
 (1) Zuständige Behörden sind
 
@@ -572,6 +583,7 @@ dulden, können auch von der Wasserschutzpolizei getroffen werden.
 
 
 ## § 11 Schiffahrtspolizeiliche Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001200308)
 
 (1) Die Strom- und Schiffahrtspolizeibehörden können zur Erfüllung der
 Aufgaben nach § 3 des Seeaufgabengesetzes Anordnungen erlassen, die an
@@ -585,6 +597,7 @@ Schiffahrtszeichen getroffenen Anordnungen vor.
 
 
 ## § 12 Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001300308)
 
 Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften
 dieser Verordnung und denen der Schiffahrtsordnung Emsmündung im
@@ -592,6 +605,7 @@ Einzelfall befreien.
 
 
 ## § 13 Ermächtigung zum Erlaß von strom- und schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001401305)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, die örtlichen Regelungen durch Bekanntmachungen zu
@@ -618,6 +632,7 @@ Anordnungen gelten höchstens drei Jahre.
 
 
 ## § 14 Zuwiderhandlungen gegen Vorschriften dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001504119)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach §
@@ -704,6 +719,7 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 15 Zuwiderhandlungen gegen Vorschriften der Schiffahrtsordnung Emsmündung
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001603305)
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach §
@@ -847,22 +863,26 @@ wird auf die Generaldirektion Wasserstraßen und Schifffahrt
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001700308)
 
 -
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE001901308)
 
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE002000308)
 
 Der Bundesminister für Verkehr
 
 (zu § 3 Absatz 4)
 
 ## Anlage Liste der berauschenden Mittel und Substanzen
+[Direktlink](https://www.gesetze-im-internet.de/emsschev/BJNR015830989.html#BJNR015830989BJNE002101119)
 
 (Fundstelle: BGBl. 2024 I Nr. 286, S. 28)
 

@@ -20,9 +20,11 @@ Konstitutiv neugefasst durch
 
 
 ## I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000100000)
 
 
 ### § 1 Konstituierung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000100000)
 
 (1) Der neugewählte Bundestag wird zu seiner ersten Sitzung vom
 bisherigen Präsidenten spätestens zum dreißigsten Tag nach der Wahl
@@ -45,6 +47,7 @@ Vizepräsidenten vorgenommen (§ 2a).
 
 
 ### § 2 Wahl des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000200000)
 
 (1) Der Bundestag wählt den Präsidenten ohne Aussprache mit verdeckten
 Stimmzetteln (§ 49) für die Dauer der Wahlperiode. Nur Fraktionen
@@ -72,6 +75,7 @@ einzutreten.
 
 
 ### § 2a Wahl der Vizepräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000300000)
 
 (1) Der Bundestag beschließt die Anzahl der Vizepräsidenten, wobei
 jede Fraktion mindestens für ein Amt zu berücksichtigen ist. Er legt
@@ -111,6 +115,7 @@ Vizepräsident kann nicht erneut vorgeschlagen werden.
 
 
 ### § 3 Wahl der Schriftführer
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000400000)
 
 Der Bundestag beschließt die Zahl der Schriftführer. Sie können
 gemeinsam aufgrund eines Vorschlages der Fraktionen gewählt werden.
@@ -120,9 +125,11 @@ Schriftführers ist § 2a Absatz 4 und 5 entsprechend anzuwenden.
 
 
 ## II. Wahl des Bundeskanzlers - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000200000)
 
 
 ### § 4 Wahl des Bundeskanzlers
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000500000)
 
 (1) Die Wahl des Bundeskanzlers (Artikel 63 des Grundgesetzes) erfolgt
 mit verdeckten Stimmzetteln (§ 49).
@@ -145,9 +152,11 @@ Grundgesetzes keine Anwendung.
 
 
 ## III. Präsident, Präsidium und Ältestenrat - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000300000)
 
 
 ### § 5 Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000600000)
 
 (1) Der Präsident und die Vizepräsidenten bilden das Präsidium.
 
@@ -167,6 +176,7 @@ Vertraulichkeit.
 
 
 ### § 6 Ältestenrat
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000700000)
 
 (1) Der Ältestenrat besteht aus dem Präsidenten, den Vizepräsidenten
 und dreiundzwanzig weiteren von den Fraktionen gemäß § 12 zu
@@ -199,6 +209,7 @@ Vertraulichkeit.
 
 
 ### § 7 Aufgaben des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000800000)
 
 (1) Der Präsident vertritt den Bundestag und regelt seine Geschäfte.
 Er wahrt die Würde und die Rechte des Bundestages, fördert seine
@@ -246,6 +257,7 @@ Fraktion an, gilt § 1 Absatz 2 entsprechend.
 
 
 ### § 8 Sitzungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE000900000)
 
 (1) In den Sitzungen des Bundestages bilden der sitzungsleitende
 Präsident und zwei Schriftführer den Sitzungsvorstand.
@@ -262,6 +274,7 @@ Stellvertreter.
 
 
 ### § 9 Aufgaben der Schriftführer
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001000000)
 
 Die Schriftführer unterstützen den Präsidenten. Sie haben insbesondere
 die Rednerlisten zu führen, die Namen aufzurufen, die Stimmzettel zu
@@ -271,9 +284,11 @@ die Geschäfte.
 
 
 ## IV. Fraktionen - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000400000)
 
 
 ### § 10 Bildung der Fraktionen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001100000)
 
 (1) Die Fraktionen sind Vereinigungen von mindestens fünf vom Hundert
 der Mitglieder des Bundestages, die derselben Partei angehören oder
@@ -293,6 +308,7 @@ Bemessung der Stellenanteile (§ 12) zu berücksichtigen sind.
 
 
 ### § 10a Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001200000)
 
 (1) Mitglieder des Bundestages, die sich zusammenschließen wollen,
 ohne Fraktionsmindeststärke zu erreichen, können als Gruppe anerkannt
@@ -309,6 +325,7 @@ Bundestag.
 
 
 ### § 11 Reihenfolge der Fraktionen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001300000)
 
 Nach der Stärke der Fraktionen bestimmt sich ihre Reihenfolge. Bei
 gleicher Fraktionsstärke entscheidet das Los, das vom Präsidenten in
@@ -318,6 +335,7 @@ Fraktion mitgezählt, zu der es bisher zählte.
 
 
 ### § 12 Stellenanteile der Fraktionen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001400000)
 
 Die Zusammensetzung des Ältestenrates und der Ausschüsse sowie die
 Regelung des Vorsitzes in den Ausschüssen ist im Verhältnis der Stärke
@@ -326,9 +344,11 @@ Wahlen, die der Bundestag vorzunehmen hat, angewandt.
 
 
 ## V. Die Mitglieder des Bundestages - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000500000)
 
 
 ### § 13 Rechte und Pflichten der Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001500000)
 
 (1) Jedes Mitglied des Bundestages folgt bei Reden, Handlungen,
 Abstimmungen und Wahlen seiner Überzeugung und seinem Gewissen.
@@ -342,11 +362,13 @@ Abgeordnetengesetz.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001600000)
 
 (weggefallen)
 
 
 ### § 15 Anfechtung und Verlust der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001700000)
 
 Die Rechte eines Mitgliedes des Bundestages, dessen Mitgliedschaft
 angefochten ist, regeln sich nach den Bestimmungen des
@@ -355,6 +377,7 @@ der Mitgliedschaft.
 
 
 ### § 16 Akteneinsicht und -abgabe
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001800000)
 
 (1) Die Mitglieder des Bundestages sind berechtigt, alle Akten
 einzusehen, die sich in der Verwahrung des Bundestages oder eines
@@ -380,6 +403,7 @@ Geheimschutzordnung des Deutschen Bundestages (§ 17).
 
 
 ### § 17 Geheimschutzordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE001900000)
 
 Der Bundestag beschließt eine Geheimschutzordnung, die Bestandteil
 dieser Geschäftsordnung ist (Anlage 1). Sie regelt die Behandlung
@@ -388,20 +412,24 @@ die Kenntnisnahme durch Unbefugte geschützt werden müssen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002000000)
 
 (weggefallen)
 
 
 ## VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000600000)
 
 
 ### § 19 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002100000)
 
 Die Sitzungen des Bundestages sind öffentlich. Die Öffentlichkeit kann
 nach Artikel 42 Absatz 1 des Grundgesetzes ausgeschlossen werden.
 
 
 ### § 20 Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002200000)
 
 (1) Termin und Tagesordnung jeder Sitzung des Bundestages werden im
 Ältestenrat vereinbart, es sei denn, dass der Bundestag vorher darüber
@@ -431,6 +459,7 @@ mindestens drei Wochen vergangen sind.
 
 
 ### § 21 Einberufung durch den Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002300000)
 
 (1) Selbständig setzt der Präsident Termin und Tagesordnung fest, wenn
 der Bundestag ihn dazu ermächtigt oder aus einem anderen Grunde als
@@ -447,6 +476,7 @@ Beginn der Sitzung die Genehmigung des Bundestages einholen.
 
 
 ### § 22 Leitung der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002400000)
 
 Der Präsident eröffnet, leitet und schließt die Sitzungen. Vor Schluss
 der Sitzung gibt der Präsident nach den Vereinbarungen im Ältestenrat
@@ -455,6 +485,7 @@ bekannt.
 
 
 ### § 23 Eröffnung der Aussprache
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002500000)
 
 Der Präsident hat über jeden Verhandlungsgegenstand, der auf der
 Tagesordnung steht, die Aussprache zu eröffnen, wenn diese nicht
@@ -462,12 +493,14 @@ unzulässig oder an besondere Bedingungen geknüpft ist.
 
 
 ### § 24 Verbindung der Beratung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002600000)
 
 Die gemeinsame Beratung gleichartiger oder im Sachzusammenhang
 stehender Verhandlungsgegenstände kann jederzeit beschlossen werden.
 
 
 ### § 25 Vertagung der Beratung oder Schluss der Aussprache
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002700000)
 
 (1) Ist die Rednerliste erschöpft oder meldet sich niemand zum Wort,
 so erklärt der Präsident die Aussprache für geschlossen.
@@ -481,6 +514,7 @@ jede Fraktion mindestens einmal zu Wort gekommen ist.
 
 
 ### § 26 Vertagung der Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002800000)
 
 Die Sitzung kann nur vertagt werden, wenn es der Bundestag auf
 Vorschlag des Präsidenten oder auf Antrag einer Fraktion oder von
@@ -488,6 +522,7 @@ anwesenden fünf vom Hundert der Mitglieder des Bundestages beschließt.
 
 
 ### § 27 Worterteilung und Wortmeldung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE002900000)
 
 (1) Der Präsident erteilt das Wort.
 
@@ -501,6 +536,7 @@ anzumelden.
 
 
 ### § 27a Zwischenfragen, -bemerkungen, Kurzinterventionen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003000000)
 
 (1) Während der Aussprache über einen Verhandlungsgegenstand kann der
 Präsident mit Einverständnis des Redners das Wort für Zwischenfragen
@@ -520,6 +556,7 @@ vorab mitzuteilen.
 
 
 ### § 28 Reihenfolge der Redner
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003100000)
 
 (1) Der Präsident bestimmt die Reihenfolge der Redner. Dabei sollen
 ihn die Sorge für sachgemäße Erledigung und zweckmäßige Gestaltung der
@@ -539,6 +576,7 @@ Mitglied oder Beauftragter der Bundesregierung sein.
 
 
 ### § 29 Zur Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003200000)
 
 (1) Zu einem Geschäftsordnungsantrag erteilt der Präsident vorrangig
 das Wort. Der Antrag muss sich auf den zur Beratung stehenden
@@ -559,11 +597,13 @@ länger als drei Minuten sprechen.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003300000)
 
 (weggefallen)
 
 
 ### § 31 Erklärung zur Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003400000)
 
 (1) Zu einer mündlichen Erklärung zur abschließenden Abstimmung, die
 nicht länger als drei Minuten dauern darf, kann der Präsident jedem
@@ -577,6 +617,7 @@ an der Abstimmung teilzunehmen.
 
 
 ### § 32 Erklärung außerhalb der Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003500000)
 
 Zu einer dringlichen Erklärung tatsächlicher oder persönlicher Art
 außerhalb der vereinbarten oder beschlossenen Tagesordnungen erteilt
@@ -587,6 +628,7 @@ darf nicht länger als drei Minuten dauern.
 
 
 ### § 33 Die Rede
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003600000)
 
 (1) Die Redner sprechen grundsätzlich in freiem Vortrag. Sie können
 hierbei Aufzeichnungen benutzen.
@@ -603,12 +645,14 @@ Bundestages sowie der Fraktionen geprägt sein.
 
 
 ### § 34 Platz des Redners
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003700000)
 
 Die Redner sprechen von den dafür bestimmten Saalmikrofonen oder vom
 Rednerpult aus.
 
 
 ### § 35 Rededauer
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003800000)
 
 (1) Die Dauer der Aussprache und die Verteilung der Redezeit über
 einen Verhandlungsgegenstand erfolgen nach Vereinbarung des
@@ -637,6 +681,7 @@ Fraktion oder Gruppe zustehenden Redezeit.
 
 
 ### § 36 Sach- und Ordnungsruf, Wortentziehung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE003900000)
 
 (1) Der sitzungsleitende Präsident kann den Redner, der vom
 Verhandlungsgegenstand abschweift oder eine Erklärung zur
@@ -661,6 +706,7 @@ folgenden dritten Sitzungstages erlassen werden.
 
 
 ### § 37 Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004000000)
 
 (1) Ist ein Mitglied des Bundestages innerhalb von drei Sitzungswochen
 gemäß § 36 Absatz 2 oder 3 dreimal zur Ordnung gerufen worden, setzt
@@ -681,6 +727,7 @@ erhöht sich das Ordnungsgeld auf 4 000 Euro.
 
 
 ### § 38 Ausschluss von Mitgliedern des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004100000)
 
 (1) Wegen gröblicher Verletzung der Ordnung oder der Würde des
 Bundestages kann der sitzungsleitende Präsident ein Mitglied des
@@ -717,6 +764,7 @@ und darf sich nicht in die Anwesenheitsliste eintragen.
 
 
 ### § 39 Einspruch gegen Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004200000)
 
 Gegen den Ordnungsruf (§ 36), das Ordnungsgeld (§ 37) und den
 Sitzungsausschluss (§ 38) kann das betroffene Mitglied des Bundestages
@@ -729,6 +777,7 @@ Wirkung.
 
 
 ### § 40 Unterbrechung der Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004300000)
 
 Wenn im Bundestag störende Unruhe entsteht, die den Fortgang der
 Verhandlungen in Frage stellt, kann der sitzungsleitende Präsident die
@@ -739,6 +788,7 @@ der sitzungsleitende Präsident ein.
 
 
 ### § 41 Weitere Ordnungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004400000)
 
 (1) Sitzungsteilnehmer, die nicht Mitglieder des Bundestages sind, und
 Zuhörer unterstehen der Ordnungsgewalt des sitzungsleitenden
@@ -751,6 +801,7 @@ kann die Tribüne wegen störender Unruhe räumen lassen.
 
 
 ### § 42 Herbeirufung eines Mitgliedes der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004500000)
 
 Der Bundestag kann auf Antrag einer Fraktion oder von anwesenden fünf
 vom Hundert der Mitglieder des Bundestages die Herbeirufung eines
@@ -758,6 +809,7 @@ Mitgliedes der Bundesregierung beschließen.
 
 
 ### § 43 Recht auf jederzeitiges Gehör
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004600000)
 
 Die Mitglieder der Bundesregierung und des Bundesrates sowie ihre
 Beauftragten müssen nach Artikel 43 Absatz 2 des Grundgesetzes auf ihr
@@ -765,6 +817,7 @@ Verlangen jederzeit gehört werden.
 
 
 ### § 44 Wiedereröffnung der Aussprache
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004700000)
 
 (1) Ergreift nach Schluss der Aussprache oder nach Ablauf der
 beschlossenen Redezeit ein Mitglied der Bundesregierung, des
@@ -787,6 +840,7 @@ werden.
 
 
 ### § 45 Feststellung der Beschlussfähigkeit, Folgen der Beschlussunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004800000)
 
 (1) Der Bundestag ist beschlussfähig, wenn mehr als die Hälfte seiner
 Mitglieder im Sitzungssaal anwesend ist.
@@ -824,6 +878,7 @@ Verhandlungsgegenstände zur Beratung auf die Tagesordnung zu setzen.
 
 
 ### § 46 Fragestellung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE004900000)
 
 Der Präsident stellt die Fragen so, dass sie sich mit „Ja“ oder „Nein“
 beantworten lassen. Sie sind in der Regel so zu fassen, dass gefragt
@@ -833,6 +888,7 @@ die vorgeschlagene Fassung entscheidet der Bundestag.
 
 
 ### § 47 Teilung der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005000000)
 
 Eine Fraktion kann oder fünf vom Hundert der Mitglieder des
 Bundestages können vor der Abstimmung über eine Vorlage von
@@ -845,6 +901,7 @@ Unmittelbar vor der Abstimmung ist die Frage auf Verlangen vorzulesen.
 
 
 ### § 48 Abstimmungsregeln
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005100000)
 
 (1) Abgestimmt wird durch Handzeichen oder durch Aufstehen oder
 Sitzenbleiben. Bei der Schlussabstimmung über Gesetzentwürfe (§ 86)
@@ -868,6 +925,7 @@ gehen Abstimmungen über Entscheidungen in der Sache vor.
 
 
 ### § 49 Wahlen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005200000)
 
 (1) Wahlen finden durch Handzeichen oder durch Abgabe von Stimmzetteln
 statt. Soweit in einem Bundesgesetz oder in dieser Geschäftsordnung
@@ -899,6 +957,7 @@ aufgrund eines Beschlusses des Bundestages statt.
 
 
 ### § 50 Abstimmungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005300000)
 
 (1) Berät der Bundestag über mehrere, alternativ zur Entscheidung
 anstehende Vorlagen, ohne dass der federführende Ausschuss einen
@@ -928,6 +987,7 @@ einer Schlussabstimmung.
 
 
 ### § 51 Zählung der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005400000)
 
 (1) Ist der Sitzungsvorstand über das Ergebnis der Abstimmung nicht
 einig, so wird die Gegenprobe gemacht. Bleibt er auch nach ihr
@@ -949,6 +1009,7 @@ Präsident verkündet das Ergebnis.
 
 
 ### § 52 Namentliche Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005500000)
 
 Namentliche Abstimmung kann bis zum Beginn der Sitzung von einer
 Fraktion oder von anwesenden fünf vom Hundert der Mitglieder des
@@ -961,6 +1022,7 @@ Schriftführer das Ergebnis.
 
 
 ### § 53 Unzulässigkeit der namentlichen Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005600000)
 
 Namentliche Abstimmung ist unzulässig über
 
@@ -1000,9 +1062,11 @@ j)  sonstige, ausschließlich in dieser Geschäftsordnung geregelte
 
 
 ## VII. Ausschüsse - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000700000)
 
 
 ### § 54 Ständige Ausschüsse und Sonderausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005700000)
 
 (1) Zur Vorbereitung der Verhandlungen setzt der Bundestag ständige
 Ausschüsse ein. Für einzelne Angelegenheiten kann er Sonderausschüsse
@@ -1016,6 +1080,7 @@ besonderen Geschäftsordnungen etwas anderes bestimmt ist.
 
 
 ### § 55 Einsetzung von Unterausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005800000)
 
 (1) Zur Vorbereitung seiner Arbeiten kann jeder Ausschuss aus seiner
 Mitte Unterausschüsse mit bestimmten Aufträgen einsetzen, es sei denn,
@@ -1042,6 +1107,7 @@ bilden.
 
 
 ### § 56 Enquete-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE005900000)
 
 (1) Zur Vorbereitung von Entscheidungen über umfangreiche und
 bedeutsame Sachkomplexe kann der Bundestag eine Enquete-Kommission
@@ -1067,6 +1133,7 @@ Arbeit fortsetzen oder einstellen soll.
 
 
 ### § 56a Technikfolgenanalysen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006000000)
 
 (1) Dem Ausschuss für Forschung, Technologie, Raumfahrt und
 Technikfolgenabschätzung obliegt es, Technikfolgenanalysen zu
@@ -1082,6 +1149,7 @@ Ausgangspunkt seiner Entscheidung im Einzelfall zu machen.
 
 
 ### § 57 Mitgliederzahl der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006100000)
 
 (1) Das System für eine dem § 12 entsprechende Zusammensetzung der
 Ausschüsse und die Zahl der Mitglieder bestimmt der Bundestag. Jedes
@@ -1100,6 +1168,7 @@ zugelassen werden.
 
 
 ### § 58 Vorsitz und Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006200000)
 
 (1) Nach Maßgabe des Stärkeverhältnisses der Fraktionen legt der
 Ältestenrat fest, welche Fraktion in welchem Ausschuss das
@@ -1137,6 +1206,7 @@ werden.
 
 
 ### § 58a Abwahl und Folgen des Ausscheidens
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006300000)
 
 (1) Auf die Abwahl des Vorsitzenden durch die Mitglieder des
 Ausschusses ist § 2a Absatz 4 und 5 entsprechend anzuwenden. Die
@@ -1151,6 +1221,7 @@ Stellvertretung entsprechend.
 
 
 ### § 59 Rechte und Pflichten des Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006400000)
 
 (1) Dem Vorsitzenden obliegen die Vorbereitung, Einberufung und
 Leitung der Ausschusssitzungen sowie die Durchführung der
@@ -1187,6 +1258,7 @@ ist.
 
 
 ### § 60 Einberufung der Ausschusssitzungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006500000)
 
 (1) Der Vorsitzende kann im Rahmen der vom Ältestenrat festgelegten
 Tagungsmöglichkeiten für Ausschüsse (Zeitplan) Ausschusssitzungen
@@ -1214,6 +1286,7 @@ Ausschusses.
 
 
 ### § 61 Tagesordnung der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006600000)
 
 (1) Termin und Tagesordnung werden vom Vorsitzenden festgesetzt, es
 sei denn, dass der Ausschuss vorher darüber beschließt. Die
@@ -1231,6 +1304,7 @@ beteiligten Bundesministerien und dem Bundesrat mitzuteilen.
 
 
 ### § 62 Aufgaben der Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006700000)
 
 (1) Die Ausschüsse sind zu baldiger Erledigung der ihnen überwiesenen
 Aufgaben verpflichtet. Als vorbereitende Beschlussorgane des
@@ -1254,6 +1328,7 @@ Tagesordnung des Bundestages zu setzen.
 
 
 ### § 63 Federführender Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006800000)
 
 (1) Den Bericht an den Bundestag gemäß § 66 kann nur der federführende
 Ausschuss erstatten.
@@ -1267,6 +1342,7 @@ Verhandlungsgegenstand, stimmen die Ausschüsse getrennt ab.
 
 
 ### § 64 Verhandlungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE006900000)
 
 (1) Verhandlungsgegenstände sind die dem Ausschuss überwiesenen
 Vorlagen und Fragen aus dem Geschäftsbereich des Ausschusses (§ 62
@@ -1284,12 +1360,14 @@ oder abzulehnen, ist dem Bundestag vorzulegen.
 
 
 ### § 65 Berichterstatterbenennung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007000000)
 
 Vorbehaltlich der Entscheidung des Ausschusses benennt der Vorsitzende
 einen oder mehrere Berichterstatter für jeden Verhandlungsgegenstand.
 
 
 ### § 66 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007100000)
 
 (1) Ausschussberichte an den Bundestag über Vorlagen sind in der Regel
 schriftlich zu erstatten. Sie können mündlich ergänzt werden.
@@ -1300,6 +1378,7 @@ Stellungnahmen der beteiligten Ausschüsse enthalten.
 
 
 ### § 67 Beschlussfähigkeit und Abstimmungen im Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007200000)
 
 (1) Der Ausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder
 anwesend ist. Als anwesend gelten auch diejenigen Mitglieder, die im
@@ -1322,6 +1401,7 @@ Kommunikationsmittel genutzt werden.
 
 
 ### § 68 Herbeirufung eines Mitgliedes der Bundesregierung zu den Ausschusssitzungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007300000)
 
 Das Recht des Ausschusses, die Anwesenheit eines Mitgliedes der
 Bundesregierung zu verlangen, gilt auch, wenn es in einer öffentlichen
@@ -1329,6 +1409,7 @@ Sitzung gehört werden soll.
 
 
 ### § 69 Öffentliche Ausschusssitzungen und Zutritt
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007400000)
 
 (1) Die Ausschüsse beschließen, ob und inwieweit sie in öffentlicher
 Sitzung beraten. Sie berücksichtigen hierbei insbesondere das
@@ -1378,6 +1459,7 @@ Verhandlungen mit beratender Stimme hinzuziehen oder zulassen.
 
 
 ### § 69a Besondere Beteiligungsrechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007500000)
 
 (1) Berät ein Ausschuss einen ihm federführend überwiesenen
 Gesetzentwurf, durch den wesentliche Belange von Gemeinden und
@@ -1411,6 +1493,7 @@ und 4 gilt entsprechend.
 
 
 ### § 70 Anhörungssitzungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007600000)
 
 (1) Zur Information über einen Gegenstand seiner Beratung kann ein
 Ausschuss öffentliche Anhörungen von Sachverständigen,
@@ -1480,6 +1563,7 @@ Anhörungen in nichtöffentlicher Sitzung.
 
 
 ### § 71 Antragstellung im Ausschuss, Schluss der Aussprache
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007700000)
 
 (1) Antragsberechtigt sind die Ausschussmitglieder, deren
 Stellvertreter im Fall der Vertretung eines Ausschussmitgliedes aus
@@ -1500,6 +1584,7 @@ abweichende Meinungen vorgetragen werden konnten.
 
 
 ### § 72 Abstimmung außerhalb einer Sitzung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007800000)
 
 Der Ausschuss kann den Vorsitzenden einstimmig ermächtigen, auch
 außerhalb einer Sitzung über bestimmte Fragen in besonderen Eilfällen
@@ -1514,6 +1599,7 @@ Absatz 2 oder 3 stattfindet.
 
 
 ### § 73 Ausschussprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE007900000)
 
 (1) Über jede Ausschusssitzung ist ein schriftliches Protokoll
 anzufertigen. Es muss mindestens alle Ausschussdrucksachen, die
@@ -1553,6 +1639,7 @@ etwas anderes beschlossen hat.
 
 
 ### § 74 Anwendbarkeit der Bestimmungen der Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008000000)
 
 Soweit die Verfahrensregeln für die Ausschüsse nichts anderes
 bestimmen, gelten für Ausschüsse und Enquete-Kommissionen die übrigen
@@ -1561,9 +1648,11 @@ entsprechend.
 
 
 ## VIII. Vorlagen und ihre Behandlung - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000800000)
 
 
 ### § 75 Vorlagen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008100000)
 
 (1) Folgende Vorlagen können als Verhandlungsgegenstand auf die
 Tagesordnung des Bundestages gesetzt werden (selbständige Vorlagen):
@@ -1642,6 +1731,7 @@ werden.
 
 
 ### § 76 Vorlagen von Mitgliedern des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008200000)
 
 (1) Vorlagen von Mitgliedern des Bundestages (§ 75) müssen von einer
 Fraktion oder von fünf vom Hundert der Mitglieder des Bundestages
@@ -1655,6 +1745,7 @@ Gesetz gegenüberstellt.
 
 
 ### § 77 Behandlung der Vorlagen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008300000)
 
 (1) Vorlagen werden an die Mitglieder des Bundestages, des Bundesrates
 und an die Bundesministerien in der Regel auf elektronischem Weg
@@ -1678,6 +1769,7 @@ Gesetzentwürfe überwiesen worden sind.
 
 
 ### § 78 Beratungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008400000)
 
 (1) Gesetzentwürfe werden in drei Beratungen, Verträge mit auswärtigen
 Staaten und ähnliche Verträge, welche die politischen Beziehungen des
@@ -1720,6 +1812,7 @@ Tagesordnungspunktes vorliegen.
 
 
 ### § 79 Erste Beratung von Gesetzentwürfen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008500000)
 
 In der ersten Beratung findet eine allgemeine Aussprache nur statt,
 wenn es vom Ältestenrat empfohlen, bis zum Aufruf des betreffenden
@@ -1730,6 +1823,7 @@ der Vorlagen besprochen. Sachanträge dürfen nicht gestellt werden.
 
 
 ### § 80 Überweisung an einen Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008600000)
 
 (1) Am Schluss der ersten Beratung wird der Gesetzentwurf
 vorbehaltlich einer abweichenden Entscheidung gemäß Absatz 2 einem
@@ -1773,6 +1867,7 @@ vorgesehen ist, findet § 20 Absatz 2 Satz 3 Anwendung.
 
 
 ### § 80a Überprüfung von Gesetzentwürfen auf sprachliche Richtigkeit und Verständlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008700000)
 
 (1) Ein beim Bundestag eingerichteter oder angesiedelter
 Redaktionsstab soll auf Beschluss des federführenden Ausschusses einen
@@ -1788,6 +1883,7 @@ Beratung an.
 
 
 ### § 81 Zweite Beratung von Gesetzentwürfen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008800000)
 
 (1) Die zweite Beratung wird mit einer allgemeinen Aussprache
 eröffnet, wenn sie vom Ältestenrat empfohlen oder von einer Fraktion
@@ -1810,6 +1906,7 @@ Ganzen abgestimmt.
 
 
 ### § 82 Änderungsanträge und Zurückverweisung in zweiter Beratung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE008900000)
 
 (1) Änderungen zu Gesetzentwürfen in zweiter Beratung können beantragt
 werden, solange die Beratung des Gegenstandes, auf den sie sich
@@ -1829,6 +1926,7 @@ zurückverwiesen werden; dies gilt auch für bereits beratene Teile.
 
 
 ### § 83 Zusammenstellung der Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009000000)
 
 (1) Wurden in der zweiten Beratung Änderungen beschlossen, so lässt
 sie der Präsident zusammenstellen.
@@ -1842,6 +1940,7 @@ Beratung unterbleibt.
 
 
 ### § 84 Dritte Beratung von Gesetzentwürfen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009100000)
 
 Die dritte Beratung erfolgt,
 
@@ -1868,6 +1967,7 @@ der Mitglieder des Bundestages verlangt wird.
 
 
 ### § 85 Änderungsanträge und Zurückverweisung in dritter Beratung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009200000)
 
 (1) Änderungsanträge zu Gesetzentwürfen in dritter Beratung müssen von
 einer Fraktion oder von fünf vom Hundert der Mitglieder des
@@ -1884,6 +1984,7 @@ Beschlussempfehlung erneut in zweiter Beratung behandelt.
 
 
 ### § 86 Schlussabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009300000)
 
 Nach Schluss der dritten Beratung wird über den Gesetzentwurf
 abgestimmt. Sind die Beschlüsse der zweiten Beratung unverändert
@@ -1896,6 +1997,7 @@ Verträge findet keine besondere Schlussabstimmung statt.
 
 
 ### § 87 Verfahren zu Artikel 113 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009400000)
 
 (1) Macht die Bundesregierung von Artikel 113 Absatz 1 Satz 3 des
 Grundgesetzes Gebrauch, so ist die Beschlussfassung auszusetzen. Der
@@ -1915,6 +2017,7 @@ Zuleitung als nicht erfolgt.
 
 
 ### § 88 Behandlung von Entschließungsanträgen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009500000)
 
 (1) Anträge auf Entschließungen enthalten Meinungen, Anregungen,
 Empfehlungen oder Ersuchen, die mit dem Verhandlungsgegenstand im
@@ -1936,6 +2039,7 @@ verschieben.
 
 
 ### § 89 Einberufung des Vermittlungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009600000)
 
 Auf Antrag einer Fraktion oder von fünf vom Hundert der Mitglieder des
 Bundestages kann der Bundestag beschließen, zu Gesetzen, die der
@@ -1945,6 +2049,7 @@ Grundgesetzes, § 75 Absatz 1 Buchstabe d).
 
 
 ### § 90 Beratung von Beschlussempfehlungen des Vermittlungsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009700000)
 
 (1) Sieht der Einigungsvorschlag des Vermittlungsausschusses eine
 Änderung des vom Bundestag beschlossenen Gesetzes vor, gilt für die
@@ -1960,6 +2065,7 @@ Absatz 2 Satz 3.
 
 
 ### § 91 Einspruch des Bundesrates
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009800000)
 
 Über den Antrag auf Zurückweisung eines Einspruchs des Bundesrates
 gegen ein vom Bundestag beschlossenes Gesetz (Artikel 77 Absatz 4 des
@@ -1970,6 +2076,7 @@ nicht namentliche Abstimmung verlangt wird (§ 52).
 
 
 ### § 92 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE009900000)
 
 Rechtsverordnungen der Bundesregierung, die der Zustimmung des
 Bundestages bedürfen oder deren Aufhebung der Bundestag innerhalb
@@ -1985,6 +2092,7 @@ Bundestages zu setzen.
 
 
 ### § 93 Zuleitung und Überweisung von Unionsdokumenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010000000)
 
 (1) Dokumente, Berichte, Unterrichtungen, Mitteilungen und sonstige
 Informationen in Angelegenheiten der Europäischen Union, die dem
@@ -2054,6 +2162,7 @@ Tagesordnung der Sitzung des Bundestages gesetzt und beraten werden.
 
 
 ### § 93a Ausschussberatung von Unionsdokumenten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010100000)
 
 (1) Bei der Beratung von Unionsdokumenten prüfen die Ausschüsse auch
 die Einhaltung der Grundsätze der Subsidiarität und
@@ -2105,6 +2214,7 @@ Europäischen Union entsenden.
 
 
 ### § 93b Ausschuss für die Angelegenheiten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010200000)
 
 (1) Dem gemäß Artikel 45 des Grundgesetzes vom Bundestag zu
 bestellenden Ausschuss für die Angelegenheiten der Europäischen Union
@@ -2194,6 +2304,7 @@ zu erteilen und Stellung zu nehmen.
 
 
 ### § 93c Subsidiaritätsrüge
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010300000)
 
 Die Entscheidung, gemäß Artikel 6 des Protokolls über die Anwendung
 der Grundsätze der Subsidiarität und der Verhältnismäßigkeit eine
@@ -2204,6 +2315,7 @@ entscheiden.
 
 
 ### § 93d Subsidiaritätsklage
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010400000)
 
 (1) Beschließt der Bundestag die Erhebung einer Klage nach Artikel 8
 des Protokolls über die Anwendung der Grundsätze der Subsidiarität und
@@ -2241,6 +2353,7 @@ entsprechend.
 
 
 ### § 94 Stabilitätsvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010500000)
 
 Vorlagen der Bundesregierung gemäß § 8 Absatz 1 des Gesetzes zur
 Förderung der Stabilität und des Wachstums der Wirtschaft
@@ -2258,6 +2371,7 @@ der Ausgaben gerichtet sein (§ 42 der Bundeshaushaltsordnung).
 
 
 ### § 95 Haushaltsvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010600000)
 
 (1) Haushaltsvorlagen sind der Entwurf des Haushaltsgesetzes und des
 Haushaltsplans, Änderungsvorlagen zu diesen Entwürfen
@@ -2295,6 +2409,7 @@ Bundestages zu setzen.
 
 
 ### § 96 Finanzvorlagen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010700000)
 
 (1) Finanzvorlagen sind alle Vorlagen, die wegen ihrer grundsätzlichen
 Bedeutung oder ihres finanziellen Umfangs geeignet sind, auf die
@@ -2366,6 +2481,7 @@ aufgehoben werden, es sei denn, dass der Bundestag beschließt, gemäß §
 
 
 ### § 96a Verfahren nach dem Parlamentsbeteiligungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010800000)
 
 (1) Der Vorsitzende eines Ausschusses ist zur Einberufung einer
 Sitzung außerhalb des Zeitplans zur Beratung über einen Antrag gemäß §
@@ -2397,6 +2513,7 @@ findet Anwendung.
 
 
 ### § 97 Misstrauensantrag gegen den Bundeskanzler
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE010900000)
 
 (1) Der Bundestag kann auf Antrag gemäß Artikel 67 Absatz 1 des
 Grundgesetzes dem Bundeskanzler das Misstrauen aussprechen. Der Antrag
@@ -2417,6 +2534,7 @@ Grundgesetzes.
 
 
 ### § 98 Vertrauensantrag des Bundeskanzlers
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011000000)
 
 (1) Der Bundeskanzler kann gemäß Artikel 68 des Grundgesetzes
 beantragen, ihm das Vertrauen auszusprechen; für den Zeitpunkt der
@@ -2429,6 +2547,7 @@ Antrag eines Viertels der Mitglieder des Bundestages gemäß § 97 Absatz
 
 
 ### § 99 Dringliche Gesetzentwürfe der Bundesregierung nach Artikel 81 des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011100000)
 
 (1) Gesetzentwürfe der Bundesregierung, die im Rahmen des Artikels 81
 des Grundgesetzes von der Bundesregierung als dringlich bezeichnet
@@ -2444,6 +2563,7 @@ worden ist.
 
 
 ### § 100 Große Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011200000)
 
 Große Anfragen an die Bundesregierung (§ 75 Absatz 1 Buchstabe f) sind
 dem Präsidenten einzureichen; sie müssen kurz und bestimmt gefasst
@@ -2453,6 +2573,7 @@ entsprechende Anwendung.
 
 
 ### § 101 Beantwortung und Beratung von Großen Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011300000)
 
 Der Präsident teilt der Bundesregierung die Große Anfrage mit und
 fordert zur Erklärung auf, ob und wann sie antworten werde. Nach
@@ -2462,6 +2583,7 @@ von fünf vom Hundert der Mitglieder des Bundestages verlangt wird.
 
 
 ### § 102 Ablehnung der Beantwortung der Großen Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011400000)
 
 Lehnt die Bundesregierung überhaupt oder für die nächsten drei Wochen
 die Beantwortung der Großen Anfrage ab, so kann der Bundestag die
@@ -2473,6 +2595,7 @@ Begründung erhalten.
 
 
 ### § 103 Beschränkung der Beratung über Große Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011500000)
 
 Gehen Große Anfragen so zahlreich ein, dass sie die ordnungsgemäße
 Erledigung der Geschäfte gefährden, so kann der Bundestag zeitweilig
@@ -2482,6 +2605,7 @@ einzelne Große Anfragen an einem anderen Sitzungstag beschließen.
 
 
 ### § 104 Kleine Anfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011600000)
 
 (1) In Kleinen Anfragen (§ 75 Absatz 3) kann von der Bundesregierung
 Auskunft über bestimmt bezeichnete Bereiche verlangt werden. Die
@@ -2495,6 +2619,7 @@ Frist im Benehmen mit dem Fragesteller verlängern.
 
 
 ### § 105 Fragen einzelner Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011700000)
 
 Jedes Mitglied des Bundestages ist berechtigt, kurze Einzelfragen zur
 mündlichen oder schriftlichen Beantwortung an die Bundesregierung zu
@@ -2502,6 +2627,7 @@ richten. Das Nähere wird in Richtlinien geregelt (Anlage 2).
 
 
 ### § 106 Aktuelle Stunde und Befragung der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011800000)
 
 (1) Für die Aussprache über ein bestimmt bezeichnetes Thema von
 allgemeinem aktuellen Interesse in Kurzbeiträgen von fünf Minuten
@@ -2515,6 +2641,7 @@ können. Das Nähere wird in Richtlinien geregelt (Anlage 4).
 
 
 ### § 107 Immunitätsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE011900000)
 
 (1) Ersuchen in Immunitätsangelegenheiten sind vom Präsidenten
 unmittelbar an den Ausschuss für Wahlprüfung, Immunität und
@@ -2539,9 +2666,11 @@ vorlegen.
 
 
 ## IX. Behandlung von Petitionen - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG000900000)
 
 
 ### § 108 Zuständigkeit des Petitionsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012000000)
 
 (1) Dem gemäß Artikel 45c des Grundgesetzes vom Bundestag zu
 bestellenden Petitionsausschuss obliegt die Behandlung der nach
@@ -2555,6 +2684,7 @@ werden die Petitionen gemäß den nachfolgenden Bestimmungen behandelt.
 
 
 ### § 109 Überweisung der Petitionen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012100000)
 
 (1) Der Präsident überweist die Petitionen an den Petitionsausschuss.
 Dieser holt eine Stellungnahme der Fachausschüsse ein, wenn die
@@ -2567,6 +2697,7 @@ zuzuziehen.
 
 
 ### § 110 Rechte des Petitionsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012200000)
 
 (1) Der Petitionsausschuss hat Grundsätze über die Behandlung von
 Bitten und Beschwerden aufzustellen und diese Grundsätze zum
@@ -2584,6 +2715,7 @@ unterrichten.
 
 
 ### § 111 Übertragung von Befugnissen auf einzelne Mitglieder des Petitionsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012300000)
 
 Die Übertragung von Befugnissen nach dem Gesetz nach Artikel 45c des
 Grundgesetzes auf eines oder mehrere seiner Mitglieder muss der
@@ -2592,6 +2724,7 @@ Petitionsausschuss im Einzelfall beschließen. Inhalt und Umfang der
 
 
 ### § 112 Beschlussempfehlung und Bericht des Petitionsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012400000)
 
 (1) Der Bericht über die vom Petitionsausschuss behandelten Petitionen
 wird mit einer Beschlussempfehlung dem Bundestag in einer
@@ -2610,15 +2743,18 @@ mitgeteilt. Diese Mitteilung soll mit Gründen versehen sein.
 
 
 ## X. Der Wehrbeauftragte des Bundestages - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG001000000)
 
 
 ### § 113 Wahl des Wehrbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012500000)
 
 Die Wahl des Wehrbeauftragten erfolgt mit verdeckten Stimmzetteln (§
 49).
 
 
 ### § 114 Berichte des Wehrbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012600000)
 
 (1) Die Berichte des Wehrbeauftragten überweist der Präsident dem
 Verteidigungsausschuss, es sei denn, dass eine Fraktion oder fünf vom
@@ -2629,6 +2765,7 @@ Tagesordnung zu setzen.
 
 
 ### § 115 Beratung der Berichte des Wehrbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012700000)
 
 (1) Der Präsident erteilt dem Wehrbeauftragten in der Aussprache über
 die von ihm vorgelegten Berichte das Wort, wenn es von einer Fraktion
@@ -2642,9 +2779,11 @@ findet entsprechende Anwendung.
 
 
 ## XI. Beurkundung und Vollzug der Beschlüsse des Bundestages - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG001100000)
 
 
 ### § 116 Plenarprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012800000)
 
 (1) Über jede Sitzung wird ein Stenographischer Bericht
 (Plenarprotokoll) angefertigt.
@@ -2657,6 +2796,7 @@ Beispiel Tonbandaufnahmen, sind im Parlamentsarchiv niederzulegen.
 
 
 ### § 117 Prüfung der Niederschrift durch den Redner
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE012900000)
 
 Jeder Redner erhält die Niederschrift seiner Rede zur Prüfung. Sie ist
 innerhalb von zwei Stunden an den Stenographischen Dienst
@@ -2668,6 +2808,7 @@ werden.
 
 
 ### § 118 Korrektur der Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013000000)
 
 (1) Durch Korrekturen, die der Redner an der Niederschrift vornimmt,
 darf der Sinn der Rede oder ihrer einzelnen Teile nicht geändert
@@ -2680,6 +2821,7 @@ des sitzungsleitenden Präsidenten einzuholen.
 
 
 ### § 119 Niederschrift von Zwischenrufen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013100000)
 
 Ein Zwischenruf, der in die Niederschrift aufgenommen worden ist, wird
 Bestandteil des Plenarprotokolls, es sei denn, dass er mit Zustimmung
@@ -2687,6 +2829,7 @@ des Präsidenten und der Beteiligten gestrichen wird.
 
 
 ### § 120 Beurkundung der Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013200000)
 
 Außer dem Plenarprotokoll wird über jede Sitzung ein
 Beschlussprotokoll (Amtliches Protokoll) gefertigt, das vom
@@ -2697,6 +2840,7 @@ wird.
 
 
 ### § 121 Einspruch gegen das Amtliche Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013300000)
 
 Wird gegen das Amtliche Protokoll Einspruch erhoben und dieser nicht
 durch den Präsidenten erledigt, so befragt er den Bundestag. Wird der
@@ -2705,6 +2849,7 @@ beanstandeten Stelle dem nächsten Amtlichen Protokoll beizufügen.
 
 
 ### § 122 Übersendung beschlossener Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013400000)
 
 (1) Der Präsident übersendet das beschlossene Gesetz unverzüglich dem
 Bundesrat (Artikel 77 Absatz 1 Satz 2 des Grundgesetzes).
@@ -2728,6 +2873,7 @@ Bundeskanzler und dem federführenden Minister Mitteilung zu machen.
 
 
 ### § 122a Elektronische Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013500000)
 
 (1) Soweit für die Einbringung von Vorlagen Schriftform vorgesehen
 ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument,
@@ -2744,6 +2890,7 @@ zu erlassen sind.
 
 
 ### § 123 Fristberechnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013600000)
 
 (1) Bei Fristen wird der Tag der Verteilung der Drucksache nicht
 eingerechnet; sie gilt als verteilt, wenn sie für die Mitglieder des
@@ -2757,6 +2904,7 @@ elektronisch abrufbar oder in ihre Fächer verteilt worden ist.
 
 
 ### § 124 Wahrung der Frist
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013700000)
 
 Bei Berechnung einer Frist, innerhalb der eine Erklärung gegenüber dem
 Bundestag abzugeben oder eine Leistung zu bewirken ist, wird der Tag,
@@ -2769,6 +2917,7 @@ spätestens aber um 18 Uhr, zu bewirken.
 
 
 ### § 125 Unerledigte Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013800000)
 
 Am Ende der Wahlperiode des Bundestages gelten alle Vorlagen als
 erledigt. Dies gilt nicht für Petitionen und für Vorlagen, die keiner
@@ -2776,9 +2925,11 @@ Beschlussfassung bedürfen.
 
 
 ## XII. Abweichungen und Auslegung dieser Geschäftsordnung - 
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNG001200000)
 
 
 ### § 126 Abweichungen von dieser Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE013900000)
 
 Abweichungen von den Vorschriften dieser Geschäftsordnung können im
 einzelnen Fall mit Zweidrittelmehrheit der anwesenden Mitglieder des
@@ -2787,6 +2938,7 @@ Grundgesetzes dem nicht entgegenstehen.
 
 
 ### § 127 Auslegung dieser Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014000000)
 
 (1) Während einer Sitzung des Bundestages auftretende Zweifel über die
 Auslegung dieser Geschäftsordnung entscheidet der Präsident für den
@@ -2805,6 +2957,7 @@ Geschäftsordnung, in welcher Form seine Auslegung bekanntzumachen ist.
 
 
 ### § 128 Rechte des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014100000)
 
 Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung kann
 Fragen aus seinem Geschäftsbereich beraten und dem Bundestag
@@ -2812,36 +2965,43 @@ Empfehlungen unterbreiten (§ 75 Absatz 1 Buchstabe h).
 
 
 ### Anlage 1 Geheimschutzordnung des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014200000)
 
 (Text siehe: BTGO2025Anl 1)
 
 
 ### Anlage 2 Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014300000)
 
 (Text siehe: BTGO2025Anl 2)
 
 
 ### Anlage 3 Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014400000)
 
 (Text siehe: BTGO2025Anl 3)
 
 
 ### Anlage 4 Richtlinien für die Befragung der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014500000)
 
 (Text siehe: BTGO2025Anl 4)
 
 
 ### Anlage 5 Beschluss des Deutschen Bundestages betreffend die Aufhebung der Immunität von Mitgliedern des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014600000)
 
 (Text siehe: BTGO2025Anl 5/Bes)
 
 
 ### Anlage 5 Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Absatz 3 StPO und § 382 Absatz 3 ZPO sowie bei Ermächtigungen gemäß § 90b Absatz 2, § 194 Absatz 4 StGB
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014700000)
 
 (Text siehe: BTGO2025Anl 5/Grds)
 
 
 ### Anlage 6 Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btgo_2025/BJNR0FA0B0025.html#BJNR0FA0B0025BJNE014800000)
 
 (Text siehe: BTGO2025Anl 6)
 

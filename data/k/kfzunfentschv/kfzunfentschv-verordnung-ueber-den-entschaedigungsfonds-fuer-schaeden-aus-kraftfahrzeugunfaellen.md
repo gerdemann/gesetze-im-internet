@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000100314)
 
 Auf Grund des § 13 Abs. 2 und 3 und des § 14 des
 Pflichtversicherungsgesetzes in der Fassung des Gesetzes vom 5. April
@@ -29,6 +30,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000201123)
 
 Die Stellung des Entschädigungsfonds für Schäden aus
 Kraftfahrzeugunfällen nach den §§ 12 und 13 Abs. 4 des
@@ -39,14 +41,17 @@ Berlin (Verkehrsopferhilfe) mit seiner Zustimmung zugewiesen.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000302123)
 
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000402123)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000500314)
 
 Die Eintrittspflicht der Verkehrsopferhilfe nach § 12 des
 Pflichtversicherungsgesetzes und § 10 dieser Verordnung besteht nur,
@@ -55,6 +60,7 @@ ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000600314)
 
 Bei der Verkehrsopferhilfe besteht eine Schiedsstelle, die in
 Streitfällen zwischen dem Geschädigten und der Verkehrsopferhilfe auf
@@ -63,6 +69,7 @@ erforderlichenfalls einen Einigungsvorschlag zu machen hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000700314)
 
 Die Schiedsstelle besteht aus drei Mitgliedern einschließlich des
 Vorsitzenden. Die Mitglieder der Schiedsstelle und ihre Vertreter
@@ -82,6 +89,7 @@ Verkehrsopferhilfe bestimmt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000800314)
 
 Ist dem Geschädigten ein abschließender schriftlicher Bescheid der
 Verkehrsopferhilfe über die Regelung des Schadensfalls zugegangen oder
@@ -93,6 +101,7 @@ Forderung angeben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE000900314)
 
 Das Verfahren vor der Schiedsstelle ist schriftlich. Die Schiedsstelle
 hat vor der Erteilung eines Bescheids den Beteiligten Gelegenheit zur
@@ -104,6 +113,7 @@ Verkehrsopferhilfe ergibt, nach pflichtgemäßem Ermessen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE001000314)
 
 Ansprüche gegen die Verkehrsopferhilfe nach § 12 des
 Pflichtversicherungsgesetzes und § 10 dieser Verordnung können im Wege
@@ -113,19 +123,23 @@ Schiedsstelle mehr als drei Monate verstrichen sind.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE001101123)
 
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE001202123)
 
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE001401308)
 
 Diese Verordnung tritt am 1. Januar 1966 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzunfentschv/BJNR020930965.html#BJNR020930965BJNE001500314)
 
 Der Bundesminister der Justiz
 

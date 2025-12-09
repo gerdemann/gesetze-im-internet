@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-45 v. 13.2.2013 I 236 (GüLogFachwPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000100000)
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
@@ -42,6 +43,7 @@ auf Grund
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -123,6 +125,7 @@ vorangestellt.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -161,6 +164,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsbereiche:
 
@@ -178,6 +182,7 @@ Die Prüfung umfasst folgende Prüfungsbereiche:
 
 
 ## § 4 Prüfungsbereich „Entwickeln und Vermarkten von Güterverkehrs- und Logistikdienstleistungen“
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000500000)
 
 Im Prüfungsbereich „Entwickeln und Vermarkten von Güterverkehrs- und
 Logistikdienstleistungen“ hat die zu prüfende Person nachzuweisen,
@@ -216,6 +221,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 5 Prüfungsbereich „Erstellen von Güterverkehrs- und Logistikdienstleistungen“
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000600000)
 
 Im Prüfungsbereich „Erstellen von Güterverkehrs- und
 Logistikdienstleistungen“ hat die zu prüfende Person nachzuweisen,
@@ -258,6 +264,7 @@ geprüft:
 
 
 ## § 6 Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit sicherstellen“
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000700000)
 
 Im Prüfungsbereich „Kommunikation, Führung und Zusammenarbeit
 sicherstellen“ hat die zu prüfende Person nachzuweisen, dass sie in
@@ -300,6 +307,7 @@ geprüft:
 
 
 ## § 7 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000800000)
 
 (1) Die Prüfung gliedert sich in
 
@@ -323,6 +331,7 @@ vertreten ist.
 
 
 ## § 8 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE000900000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -340,6 +349,7 @@ Minuten.
 
 
 ## § 9 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001000000)
 
 (1) Die mündliche Prüfung besteht aus zwei Prüfungsleistungen in Form
 einer Präsentation und eines sich unmittelbar anschließenden
@@ -364,6 +374,7 @@ Fachgespräch soll höchstens 20 Minuten dauern.
 
 
 ## § 10 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001100000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -397,6 +408,7 @@ berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 11 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001200000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -429,6 +441,7 @@ Gesamtnote.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001300000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -441,6 +454,7 @@ zugrunde zu legen.
 
 
 ## § 13 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001400000)
 
 (1) Wer die Prüfung nach § 11 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -467,6 +481,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 14 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001500000)
 
 (1) Sind in der schriftlichen oder in der mündlichen Prüfung nicht
 jeweils mindestens 50 Punkte erreicht worden, können sie jeweils
@@ -481,6 +496,7 @@ bewertet worden ist.
 
 
 ## § 15 Befreiung vom schriftlichen Teil der Ausbildereignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001600000)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung
@@ -488,6 +504,7 @@ befreit.
 
 
 ## § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001700000)
 
 (1) Prüfungsverfahren, die nach der Verordnung über die Prüfung zum
 anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Güterverkehr
@@ -510,6 +527,7 @@ nach dieser Verordnung durchzuführen.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -521,6 +539,7 @@ und Geprüfte Fachwirtin für Güterverkehr und Logistik vom 13. Februar
 (zu den §§ 10 und 11)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE001900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 253, S. 7 - 8)
 
@@ -821,6 +840,7 @@ und Geprüfte Fachwirtin für Güterverkehr und Logistik vom 13. Februar
 (zu § 13)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/g_logfachwbaprofv/BJNR0FD0A0023.html#BJNR0FD0A0023BJNE002000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 253, S. 9)
 

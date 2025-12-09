@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000100000)
 
 Auf Grund des § 42 der Handwerksordnung, der zuletzt durch Artikel 146
 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407; 2007 I S. 2149)
@@ -31,6 +32,7 @@ und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000200000)
 
 (1) Zum Nachweis von beruflicher Handlungsfähigkeit, die im Rahmen der
 beruflichen Fortbildung zum Geprüften Betriebswirt nach der
@@ -83,6 +85,7 @@ oder Geprüfte Betriebswirtin nach der Handwerksordnung.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000301118)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -121,6 +124,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000401118)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -192,6 +196,7 @@ eines Jahres nach Ablegen der Prüfungsteile nach Absatz 1 Nummer 1 bis
 
 
 ## § 4 Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000500000)
 
 (1) Im Handlungsbereich „Volkswirtschaftliche und gesellschaftliche
 Rahmenbedingungen bewerten“ soll die Fähigkeit nachgewiesen werden,
@@ -275,6 +280,7 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Inhalt der Prüfung im Prüfungsteil „Unternehmensführung“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000600000)
 
 (1) Im Handlungsbereich „Unternehmensführung und -organisation
 gestalten“ soll die Fähigkeit nachgewiesen werden, die
@@ -401,6 +407,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 ## § 6 Inhalt der Prüfung im Prüfungsteil „Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000700000)
 
 (1) Im Handlungsbereich „Personal planen und gewinnen“ soll die
 Fähigkeit nachgewiesen werden, eine an den strategischen
@@ -452,6 +459,7 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 7 Inhalte des Prüfungsteils „Innovationsmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000800000)
 
 Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe
 betriebswirtschaftliche Problemstellung eines Unternehmens mit
@@ -464,6 +472,7 @@ Themenstellung ist entsprechend § 11 zu entwickeln.
 
 
 ## § 8 Durchführung der Prüfung im Prüfungsteil „Unternehmensstrategie“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE000900000)
 
 (1) Es ist schriftlich anhand von mindestens zwei Situationsaufgaben
 je Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich
@@ -483,6 +492,7 @@ gewichtet.
 
 
 ## § 9 Durchführung der Prüfung im Prüfungsteil „Unternehmensführung“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001000000)
 
 (1) Es ist schriftlich anhand einer komplexen Situationsaufgabe
 handlungsbereichsübergreifend zu prüfen. Die Prüfung dauert mindestens
@@ -498,6 +508,7 @@ gewichtet.
 
 
 ## § 10 Durchführung der Prüfung im Prüfungsteil „Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001100000)
 
 (1) Es ist schriftlich anhand von mindestens zwei Situationsaufgaben
 je Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich
@@ -518,6 +529,7 @@ gewichtet.
 
 
 ## § 11 Durchführung der Prüfung im Prüfungsteil „Innovationsmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001201119)
 
 (1) Das Thema der Projektarbeit wird vom Prüfungsausschuss vorgegeben.
 Vorschläge der zu prüfenden Person können berücksichtigt werden. Der
@@ -541,6 +553,7 @@ Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
 
 
 ## § 12 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001301119)
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
@@ -553,6 +566,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 13 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE002000119)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -588,6 +602,7 @@ arithmetische Mittel berechnet.
 
 
 ## § 14 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001402119)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -629,6 +644,7 @@ Note ist die Gesamtnote.
 
 
 ## § 15 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE002100119)
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -656,6 +672,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 16 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001501119)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -675,6 +692,7 @@ Prüfungsleistung nicht bestanden, so ist auch die Projektarbeit nach §
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001601119)
 
 Begonnene Prüfungsverfahren zum Betriebswirt (HWK) und zur
 Betriebswirtin (HWK) können bis zum 31. Dezember 2015 nach den
@@ -687,12 +705,14 @@ Anwendung der bisherigen Vorschriften vereinbart werden.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001701119)
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
 (zu den §§ 13 und 14)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001802119)
 
 (Fundstelle: BGBl. I 2019, 2169 - 2170)
 
@@ -994,6 +1014,7 @@ Diese Verordnung tritt am 1. April 2011 in Kraft.
 (zu § 15)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/betrwhwoprv/BJNR051100011.html#BJNR051100011BJNE001902119)
 
 (Fundstelle: BGBl. I 2019, 2170 -2171)
 

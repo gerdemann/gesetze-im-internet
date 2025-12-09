@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000100319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz
 beschlossen:
 
 
 ## § 1 Zweck und Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000200319)
 
 (1) Zweck dieses Gesetzes ist es, zum Schutz der Gesundheit den Gehalt
 an Bleiverbindungen und anderen an Stelle von Blei zugesetzten
@@ -40,6 +42,7 @@ Kraftfahrzeugmotore bestimmt sind.
 
 
 ## § 2 Begrenzung und Verbot von Zusätzen mit Metallverbindungen
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000308116)
 
 (1) Ottokraftstoffe, deren Gehalt an Bleiverbindungen, berechnet als
 Blei, mehr als 0,15 Gramm im Liter (gemessen bei + 15
@@ -75,6 +78,7 @@ nach Satz 1.
 
 
 ## § 2a Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000400319)
 
 (1) Wer im geschäftlichen Verkehr Ottokraftstoffe an den Verbraucher
 veräußert, hat die vom Hersteller mindestens gewährleistete Qualität
@@ -98,6 +102,7 @@ sich die Verpflichtung nach Absatz 2 erstreckt.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000507116)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann auf
 Antrag Ausnahmen von dem Verbot des § 2 Abs. 1 bewilligen, soweit die
@@ -140,6 +145,7 @@ der Ausnahmen zu beachten sind.
 
 
 ## § 3a Abgabe zum Ausgleich von Wettbewerbsvorteilen bei Ausnahmebewilligung
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000608116)
 
 (1) Für eine Ausnahmebewilligung, die für einen Zeitraum zwischen dem
 1\. Januar 1976 und dem 31. Dezember 1977 nach § 3 Abs. 1 oder 2
@@ -179,6 +185,7 @@ Beitreibung der Abgabe anzuwendende Verfahren.
 
 
 ## § 4 Erklärung über die Beschaffenheit einzuführender Ottokraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000700319)
 
 (1) Bei der Einfuhr oder dem sonstigen Verbringen von Ottokraftstoffen
 in den Geltungsbereich dieses Gesetzes ist eine schriftliche Erklärung
@@ -195,6 +202,7 @@ Absatz 1 enthalten muß.
 
 
 ## § 5 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000800319)
 
 (1) Eigentümer oder Betreiber von Anlagen, in denen Ottokraftstoffe
 gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
@@ -234,11 +242,13 @@ der für ihn tätigen Personen handelt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE000900319)
 
 -
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE001002377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -299,6 +309,7 @@ Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## § 8 Einfuhr von Ottokraftstoffen zu Verteidigungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE001100319)
 
 Dieses Gesetz findet keine Anwendung auf die Einfuhr von
 Ottokraftstoffen mit einem höheren als dem in § 2 Abs. 1 festgelegten
@@ -308,6 +319,7 @@ Verteidigungszwecken erforderlich ist.
 
 
 ## § 9 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE001200319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -317,6 +329,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bzblg/BJNR012340971.html#BJNR012340971BJNE001300319)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

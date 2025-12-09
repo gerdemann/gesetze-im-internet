@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000100000)
 
 Auf Grund des § 3a Absatz 3 Satz 3 des Embryonenschutzgesetzes, der
 durch Artikel 1 Nummer 1 des Gesetzes vom 21. November 2011 (BGBl. I
@@ -27,9 +28,11 @@ S. 2228) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000200000)
 
 Diese Verordnung regelt die Anforderungen an
 
@@ -68,6 +71,7 @@ Diese Verordnung regelt die Anforderungen an
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000300000)
 
 Im Sinne dieser Verordnung
 
@@ -99,9 +103,11 @@ Im Sinne dieser Verordnung
 
 
 ## Abschnitt 2 - Anforderungen an Zentren und Ethikkommissionen
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNG000200000)
 
 
 ### § 3 Voraussetzungen für die Zulassung von Zentren
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000400000)
 
 (1) Die Präimplantationsdiagnostik darf nur in einem Zentrum
 durchgeführt werden, das
@@ -243,6 +249,7 @@ Rücknahme oder des Widerrufs der Zulassung zu erfolgen.
 
 
 ### § 4 Ethikkommissionen für Präimplantationsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000500000)
 
 (1) Die Länder richten für die für die Durchführung der
 Präimplantationsdiagnostik zugelassenen Zentren unabhängige
@@ -273,6 +280,7 @@ Berufung der Mitglieder der Ethikkommissionen ist zu befristen.
 
 
 ### § 5 Antrag auf Durchführung einer Präimplantationsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000600000)
 
 (1) Die Ethikkommission wird zur Prüfung und Bewertung nach § 3a
 Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes nur auf
@@ -325,6 +333,7 @@ Vorzulegen sind:
 
 
 ### § 6 Prüfung des Antrags auf Durchführung einer Präimplantationsdiagnostik
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000700000)
 
 (1) Die Ethikkommission übermittelt der Antragsberechtigten innerhalb
 einer Frist von drei Monaten nach Vorliegen der nach § 5 Absatz 2
@@ -374,6 +383,7 @@ zwei Dritteln der stimmberechtigten Mitglieder.
 
 
 ### § 7 Umgang der Ethikkommissionen mit Daten
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000801123)
 
 (1) Die Ethikkommissionen dürfen mit Einwilligung der
 Antragsberechtigten und soweit personenbezogene Daten des Mannes, von
@@ -399,6 +409,7 @@ zurückgenommen wird.
 
 
 ### § 8 Datenerhebung, -verarbeitung und -nutzung
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE000901123)
 
 (1) Das zugelassene Zentrum für Präimplantationsdiagnostik holt die
 schriftliche Einwilligung der Antragsberechtigten für die Verarbeitung
@@ -452,9 +463,11 @@ auch elektronisch zur Verfügung gestellt und genutzt werden.
 
 
 ## Abschnitt 3 - Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNG000300000)
 
 
 ### § 9 Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE001000000)
 
 (1) Beim Paul-Ehrlich-Institut wird eine Zentralstelle eingerichtet,
 der die Dokumentation der nach § 8 Absatz 2 gemeldeten Daten obliegt.
@@ -470,14 +483,17 @@ kann.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNG000400000)
 
 
 ### § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE001100000)
 
 Diese Verordnung tritt am 1. Februar 2014 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pidv/BJNR032300013.html#BJNR032300013BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

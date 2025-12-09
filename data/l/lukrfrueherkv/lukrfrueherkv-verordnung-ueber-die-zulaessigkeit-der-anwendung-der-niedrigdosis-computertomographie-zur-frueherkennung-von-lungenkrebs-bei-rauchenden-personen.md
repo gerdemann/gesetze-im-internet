@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000100000)
 
 Auf Grund des § 84 Absatz 2 des Strahlenschutzgesetzes, der zuletzt
 durch Artikel 248 Nummer 1 der Elften
@@ -38,6 +39,7 @@ Naturschutz, nukleare Sicherheit und Verbraucherschutz:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000200000)
 
 (1) Niedrigdosis-Computertomographie ist eine Computertomographie des
 Thorax, bei deren Anwendung zur Erreichung der erforderlichen
@@ -85,6 +87,7 @@ Abklärung angezeigt ist.
 
 
 ## § 2 Zulässigkeit von Untersuchungen zur Lungenkrebsfrüherkennung
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000300000)
 
 (1) Die Untersuchung der Lunge mittels Niedrigdosis-
 Computertomographie zur Lungenkrebsfrüherkennung ist zulässig bei
@@ -158,6 +161,7 @@ Ablauf von zwölf Monaten zulässig.
 
 
 ## § 3 Rechtfertigende Indikation
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000400000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Person, die die Anforderungen nach § 6 Absatz 1 erfüllt,
@@ -176,6 +180,7 @@ Person, die die Anforderungen nach § 6 Absatz 1 erfüllt,
 
 
 ## § 4 Anforderungen an den Computertomographen, den Befundarbeitsplatz und die Durchführung der Untersuchung sowie an die Software zur computerassistierten Detektion
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000500000)
 
 (1) Die Anforderungen an den Computertomographen, den
 Befundarbeitsplatz und die Durchführung der Untersuchung sowie an die
@@ -207,6 +212,7 @@ Vorliegen der Unterlagen verzichtet werden.
 
 
 ## § 5 Befundung der Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass eine
 Person, die die Anforderungen nach § 6 Absatz 1 erfüllt, die
@@ -233,6 +239,7 @@ abzugeben.
 
 
 ## § 6 Anforderungen an das Personal
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000700000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass jede
 Person, die Niedrigdosis-Computertomographie im Rahmen der
@@ -333,6 +340,7 @@ die einen Bericht nach § 2 Absatz 1 Satz 1 Nummer 3 erstellt und nach
 
 
 ## § 7 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000800000)
 
 (1) Der Strahlenschutzverantwortliche hat ein umfassendes
 Qualitätssicherungssystem einzurichten und zu betreiben. Dieses muss
@@ -377,12 +385,14 @@ zur Verfügung zu stellen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE000900000)
 
 Diese Verordnung tritt am 1. Juli 2024 in Kraft.
 
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Anforderungen an den Computertomographen, den Befundarbeitsplatz und die Durchführung der Untersuchung sowie an die Software zur computerassistierten Detektion
+[Direktlink](https://www.gesetze-im-internet.de/lukrfr_herkv/BJNR0A20A0024.html#BJNR0A20A0024BJNE001000000)
 
 (Fundstelle: BGBl. 2024 I Nr. 162, S. 5)
 

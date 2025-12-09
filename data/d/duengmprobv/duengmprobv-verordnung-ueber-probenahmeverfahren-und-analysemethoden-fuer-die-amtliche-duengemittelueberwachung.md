@@ -30,6 +30,7 @@ Richtlinie 77/535/EWG (ABl. EG Nr. L86 S. 41).
 
 
 ## § 1 Sachlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000203377)
 
 Für die Untersuchung von Düngemitteln, die nicht als EG-Düngemittel
 gekennzeichnet sind, Bodenhilfsstoffen, Kultursubstraten und
@@ -39,6 +40,7 @@ und die Analysen durchgeführt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000303377)
 
 Im Sinne dieser Verordnung ist
 
@@ -67,6 +69,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Probenahmegeräte
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000402377)
 
 (1) Die Probenahmegeräte und die Probenbehältnisse müssen aus einem
 Material bestehen, das die beprobten Stoffe nicht beeinflusst.
@@ -82,6 +85,7 @@ ordnungsgemäße Analyse zu gewährleisten.
 
 
 ## § 4 Umfang einer Partie
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000501377)
 
 Ist eine Partie so groß oder so gelagert, dass ihr nicht an jeder
 Stelle Einzelproben entnommen werden können, so gilt für die
@@ -90,6 +94,7 @@ worden sind.
 
 
 ## § 5 Anzahl und Umfang der erforderlichen Einzelproben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000602377)
 
 (1) Bei den in Spalte 1 der folgenden Tabelle aufgeführten Partien ist
 die dort in Spalte 2 festgesetzte Mindestzahl an Einzelproben zu
@@ -226,6 +231,7 @@ werden.
 
 
 ## § 6 Anzahl und Umfang der erforderlichen Sammelproben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000703377)
 
 (1) Für jede Partie ist grundsätzlich nur eine Sammelprobe zu bilden.
 Zwei Sammelproben sind zu bilden, soweit
@@ -274,6 +280,7 @@ nicht unterschreiten.
 
 
 ## § 7 Anzahl und Umfang der erforderlichen Endproben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000802377)
 
 (1) Aus jeder Sammelprobe sind, gegebenenfalls nach Bildung einer
 reduzierten Sammelprobe, mindestens drei Endproben zu bilden.
@@ -302,6 +309,7 @@ der Detonationsfähigkeit 25 Kilogramm nicht unterschreiten.
 
 
 ## § 8 Entnahme und Bildung der Proben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE000902377)
 
 (1) Die Stoffe sind in dem Zustand zu beproben, in dem sie
 gewerbsmäßig in Verkehr gebracht werden.
@@ -367,6 +375,7 @@ beprobten Partie entsprechen.
 
 
 ## § 9 Behandlung der Endproben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001003377)
 
 (1) Die Endproben sind in saubere, trockene, weitgehend
 feuchtigkeitsundurchlässige und weitgehend luftdicht verschließbare
@@ -400,6 +409,7 @@ erfasst werden.
 
 
 ## § 10 Probenahmeprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001103377)
 
 (1) Über die Probenahme ist ein Probenahmeprotokoll mit mindestens
 folgenden Angaben zu fertigen:
@@ -456,6 +466,7 @@ beizufügen.
 
 
 ## § 11 Verwendung der Endproben
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001201377)
 
 Eine Endprobe ist der mit der Untersuchung beauftragten Stelle von der
 Überwachungsbehörde unverzüglich nach der Probenahme zum Zwecke der
@@ -467,6 +478,7 @@ zu überlassen.
 
 
 ## § 12 Analysemethoden
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001305377)
 
 (1) Bei der amtlichen Untersuchung von Ammoniumnitrat -
 Einnährstoffdünger mit hohem Stickstoffgehalt zur Prüfung der
@@ -511,17 +523,20 @@ anzuwenden.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001401377)
 
 -
 
 
 ## § 14 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001501377)
 
 -
 
 (zu § 12 Abs. 2 Satz 2 Nr. 2)
 
 ## Anlage Analysemethoden des Deutschen Instituts für Normung
+[Direktlink](https://www.gesetze-im-internet.de/d_ngmprobv/BJNR028820977.html#BJNR028820977BJNE001701377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1826)
 

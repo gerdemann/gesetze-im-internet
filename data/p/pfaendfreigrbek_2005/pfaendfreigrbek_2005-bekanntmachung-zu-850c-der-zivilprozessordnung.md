@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2005/BJNR049300005.html#BJNR049300005BJNE000100000)
 
 Auf Grund des § 850c Abs. 2a Satz 2 der Zivilprozessordnung, der durch
 Artikel 1 Nr. 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl.
@@ -87,6 +88,7 @@ Die ab 1. Juli 2005 geltenden Pfändungsfreibeträge ergeben sich im
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2005/BJNR049300005.html#BJNR049300005BJNE000200000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 494 - 508
 

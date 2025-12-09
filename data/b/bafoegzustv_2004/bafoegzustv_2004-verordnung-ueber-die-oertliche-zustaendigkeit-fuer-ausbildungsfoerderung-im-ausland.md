@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzustv_2004/BJNR004200004.html#BJNR004200004BJNE000100000)
 
 Auf Grund des § 45 Abs. 4 Satz 2 des
 Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung
@@ -30,6 +31,7 @@ ist, verordnet das Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzustv_2004/BJNR004200004.html#BJNR004200004BJNE000201310)
 
 (1) Das nach § 45 Abs. 4 des Bundesausbildungsförderungsgesetzes
 örtlich zuständige Amt für Ausbildungsförderung wird bestimmt für
@@ -131,6 +133,7 @@ Ausbildungsförderung fort.
 
 
 ## § 2 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzustv_2004/BJNR004200004.html#BJNR004200004BJNE000301310)
 
 Diese Verordnung gilt bei Entscheidungen über Bewilligungszeiträume,
 die nach dem 31. Dezember 2011 beginnen. Für Bewilligungszeiträume,
@@ -140,11 +143,13 @@ geltenden Fassung.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzustv_2004/BJNR004200004.html#BJNR004200004BJNE000400000)
 
 Diese Verordnung tritt am 1. April 2004 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/baf_gzustv_2004/BJNR004200004.html#BJNR004200004BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

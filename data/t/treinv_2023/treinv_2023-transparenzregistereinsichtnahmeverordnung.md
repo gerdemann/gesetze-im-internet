@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 7613-3-4 v. 19.12.2017 I 3984 (TrEinV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000100000)
 
 Auf Grund des § 23 Absatz 7 des Geldwäschegesetzes, der zuletzt durch
 Artikel 1 Nummer 21 Buchstabe f des Gesetzes vom 25. Juni 2021 (BGBl.
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Einsichtnahme in das Transparenzregister
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000200000)
 
 (1) Die Einsichtnahme in das Transparenzregister ist
 
@@ -73,6 +75,7 @@ eingesehen werden dürfen.
 
 
 ## § 2 Registrierung im Transparenzregister, Registrierungsdaten und Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000300000)
 
 (1) Die Registrierung für die Einsichtnahme in das Transparenzregister
 ist ausschließlich über die Internetseite des Transparenzregisters
@@ -147,6 +150,7 @@ Nutzung der automatisierten Einsichtnahme erfüllt sind.
 
 
 ## § 3 Identitätsnachweis bei Registrierung oder Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000400000)
 
 (1) Der Nutzer belegt nach den Vorgaben der registerführenden Stelle
 innerhalb des Registrierungsvorgangs oder des Antrags auf
@@ -221,6 +225,7 @@ Stelle zu löschen.
 
 
 ## § 4 Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000500000)
 
 Kommt es zu einer Änderung bei den Registrierungsdaten nach § 2 Absatz
 4, so ist der Nutzer verpflichtet, die entsprechenden Angaben im
@@ -228,6 +233,7 @@ Transparenzregister unverzüglich zu ändern.
 
 
 ## § 5 Antrag auf Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000600000)
 
 (1) Ein Antrag auf Einsichtnahme in das Transparenzregister ist
 ausschließlich über die Internetseite des Transparenzregisters
@@ -247,6 +253,7 @@ Aufbewahrungspflichten bleiben unberührt.
 
 
 ## § 6 Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden, Gerichte und Stellen nach § 2 Absatz 4 des Geldwäschegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000700000)
 
 Stellt eine Behörde, ein Gericht oder eine Stelle nach § 2 Absatz 4
 des Geldwäschegesetzes nach § 23 Absatz 1 Satz 1 Nummer 1 des
@@ -260,6 +267,7 @@ Geldwäschegesetzes.
 
 
 ## § 7 Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000800000)
 
 (1) Stellt ein Verpflichteter nach § 23 Absatz 1 Satz 1 Nummer 2 des
 Geldwäschegesetzes einen Antrag auf Einsichtnahme in das
@@ -289,6 +297,7 @@ Stelle auch durch eidesstattliche Versicherung erfolgen.
 
 
 ## § 8 Datenfernübertragung
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE000900000)
 
 (1) Die registerführende Stelle bestimmt, welche Art der Verbindung
 der Datenfernübertragung bei der Übermittlung der Daten nach den §§ 2
@@ -302,6 +311,7 @@ registerführenden Stelle dazu bestimmt ist.
 
 
 ## § 9 Protokollierung der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001000000)
 
 (1) Die registerführende Stelle ist verpflichtet, zu protokollieren,
 welcher Nutzer wann in welche Daten des Transparenzregisters Einsicht
@@ -329,6 +339,7 @@ Aufbewahrungspflichten bleiben unberührt.
 
 
 ## § 10 Verarbeitung von Daten zur Gebührenabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001100000)
 
 (1) Die registerführende Stelle darf für die Abrechnung von Gebühren,
 soweit es dafür erforderlich ist, folgende Daten verarbeiten:
@@ -351,6 +362,7 @@ Aufbewahrungspflichten bleiben unberührt.
 
 
 ## § 11 Antrag auf Beschränkung der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001200000)
 
 (1) Der Antrag eines wirtschaftlich Berechtigten auf vollständige oder
 teilweise Beschränkung der Einsichtnahme nach § 23 Absatz 2 des
@@ -396,6 +408,7 @@ aus dem sich die Geschäftsunfähigkeit ergibt.
 
 
 ## § 12 Identitätsnachweis bei Stellung des Antrags auf Beschränkung der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001300000)
 
 Der wirtschaftlich Berechtigte belegt nach den Vorgaben der
 registerführenden Stelle bei Stellung des Antrags auf Beschränkung der
@@ -403,6 +416,7 @@ Einsichtnahme seine Identität anhand geeigneter Nachweise nach § 3.
 
 
 ## § 13 Beschränkung der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001400000)
 
 (1) Nach Eingang des Antrags auf Beschränkung der Einsichtnahme werden
 die Daten über den wirtschaftlich Berechtigten für Einsichtnahmen, bei
@@ -441,6 +455,7 @@ entsprechend.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/treinv_2023/BJNR0530A0023.html#BJNR0530A0023BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Transparenzregistereinsichtnahmeverordnung vom

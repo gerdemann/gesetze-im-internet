@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano/BJNR026250975.html#BJNR026250975BJNE000100328)
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
@@ -46,17 +47,20 @@ Bundesdisziplinargericht.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano/BJNR026250975.html#BJNR026250975BJNE000200328)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I bezeichneten Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano/BJNR026250975.html#BJNR026250975BJNE000300328)
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmjernano/BJNR026250975.html#BJNR026250975BJNE000400328)
 
 Der Bundesminister der Justiz
 

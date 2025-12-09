@@ -20,12 +20,15 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Der Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000200000)
 
 
 #### § 1 Halbteilung der Anrechte
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000200000)
 
 (1) Im Versorgungsausgleich sind die in der Ehezeit erworbenen Anteile
 von Anrechten (Ehezeitanteile) jeweils zur Hälfte zwischen den
@@ -38,6 +41,7 @@ jeweiligen Ehezeitanteils (Ausgleichswert) zu.
 
 
 #### § 2 Auszugleichende Anrechte
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000300000)
 
 (1) Anrechte im Sinne dieses Gesetzes sind im In- oder Ausland
 bestehende Anwartschaften auf Versorgungen und Ansprüche auf laufende
@@ -75,6 +79,7 @@ Gesetzes findet nicht statt.
 
 
 #### § 3 Ehezeit, Ausschluss bei kurzer Ehezeit
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000400000)
 
 (1) Die Ehezeit im Sinne dieses Gesetzes beginnt mit dem ersten Tag
 des Monats, in dem die Ehe geschlossen worden ist; sie endet am
@@ -88,6 +93,7 @@ Versorgungsausgleich nur statt, wenn ein Ehegatte dies beantragt.
 
 
 #### § 4 Auskunftsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000500000)
 
 (1) Die Ehegatten, ihre Hinterbliebenen und Erben sind verpflichtet,
 einander die für den Versorgungsausgleich erforderlichen Auskünfte zu
@@ -108,6 +114,7 @@ Bürgerlichen Gesetzbuchs entsprechend.
 
 
 #### § 5 Bestimmung von Ehezeitanteil und Ausgleichswert
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000600000)
 
 (1) Der Versorgungsträger berechnet den Ehezeitanteil des Anrechts in
 Form der für das jeweilige Versorgungssystem maßgeblichen Bezugsgröße,
@@ -133,12 +140,15 @@ sind zu berücksichtigen.
 
 
 ### Kapitel 2 - Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000300000)
 
 
 #### Abschnitt 1 - Vereinbarungen über den Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000400000)
 
 
 ##### § 6 Regelungsbefugnisse der Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000700000)
 
 (1) Die Ehegatten können Vereinbarungen über den Versorgungsausgleich
 schließen. Sie können ihn insbesondere ganz oder teilweise
@@ -160,6 +170,7 @@ Familiengericht an die Vereinbarung gebunden.
 
 
 ##### § 7 Besondere formelle Wirksamkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000800000)
 
 (1) Eine Vereinbarung über den Versorgungsausgleich, die vor
 Rechtskraft der Entscheidung über den Wertausgleich bei der Scheidung
@@ -173,6 +184,7 @@ bestimmte Form.
 
 
 ##### § 8 Besondere materielle Wirksamkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE000900000)
 
 (1) Die Vereinbarung über den Versorgungsausgleich muss einer Inhalts-
 und Ausübungskontrolle standhalten.
@@ -183,12 +195,15 @@ die betroffenen Versorgungsträger zustimmen.
 
 
 #### Abschnitt 2 - Wertausgleich bei der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000500000)
 
 
 ##### Unterabschnitt 1 - Grundsätze des Wertausgleichs bei der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000600000)
 
 
 ###### § 9 Rangfolge der Ausgleichsformen, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001000000)
 
 (1) Dem Wertausgleich bei der Scheidung unterfallen alle Anrechte, es
 sei denn, die Ehegatten haben den Ausgleich nach den §§ 6 bis 8
@@ -206,9 +221,11 @@ Ausgleichswert, ist § 18 anzuwenden.
 
 
 ##### Unterabschnitt 2 - Interne Teilung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000700000)
 
 
 ###### § 10 Interne Teilung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001100000)
 
 (1) Das Familiengericht überträgt für die ausgleichsberechtigte Person
 zulasten des Anrechts der ausgleichspflichtigen Person ein Anrecht in
@@ -227,6 +244,7 @@ zwischen ihnen eine Verrechnung vorsehen.
 
 
 ###### § 11 Anforderungen an die interne Teilung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001200000)
 
 (1) Die interne Teilung muss die gleichwertige Teilhabe der Ehegatten
 an den in der Ehezeit erworbenen Anrechten sicherstellen. Dies ist
@@ -256,6 +274,7 @@ Versorgungsausgleich bestehen.
 
 
 ###### § 12 Rechtsfolge der internen Teilung von Betriebsrenten
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001300000)
 
 Gilt für das auszugleichende Anrecht das Betriebsrentengesetz, so
 erlangt die ausgleichsberechtigte Person mit der Übertragung des
@@ -264,6 +283,7 @@ Betriebsrentengesetzes.
 
 
 ###### § 13 Teilungskosten des Versorgungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001400000)
 
 Der Versorgungsträger kann die bei der internen Teilung entstehenden
 Kosten jeweils hälftig mit den Anrechten beider Ehegatten verrechnen,
@@ -271,9 +291,11 @@ soweit sie angemessen sind.
 
 
 ##### Unterabschnitt 3 - Externe Teilung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000800000)
 
 
 ###### § 14 Externe Teilung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001501125)
 
 (1) Das Familiengericht begründet für die ausgleichsberechtigte Person
 zulasten des Anrechts der ausgleichspflichtigen Person ein Anrecht in
@@ -311,6 +333,7 @@ Beitragszahlung nicht mehr begründet werden kann.
 
 
 ###### § 15 Wahlrecht hinsichtlich der Zielversorgung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001604140)
 
 (1) Die ausgleichsberechtigte Person kann bei der externen Teilung
 wählen, ob ein für sie bestehendes Anrecht ausgebaut oder ein neues
@@ -338,6 +361,7 @@ Anrecht bei der Versorgungsausgleichskasse zu begründen.
 
 
 ###### § 16 Externe Teilung von Anrechten aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001701123)
 
 (1) Solange der Träger einer Versorgung aus einem öffentlich-
 rechtlichen Dienst- oder Amtsverhältnis keine interne Teilung
@@ -355,6 +379,7 @@ umzurechnen.
 
 
 ###### § 17 Besondere Fälle der externen Teilung von Betriebsrenten
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001800000)
 
 Ist ein Anrecht im Sinne des Betriebsrentengesetzes aus einer
 Direktzusage oder einer Unterstützungskasse auszugleichen, so darf im
@@ -365,9 +390,11 @@ Sozialgesetzbuch erreichen.
 
 
 ##### Unterabschnitt 4 - Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG000900000)
 
 
 ###### § 18 Geringfügigkeit
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE001900000)
 
 (1) Das Familiengericht soll beiderseitige Anrechte gleicher Art nicht
 ausgleichen, wenn die Differenz ihrer Ausgleichswerte gering ist.
@@ -384,6 +411,7 @@ Sozialgesetzbuch beträgt.
 
 
 ###### § 19 Fehlende Ausgleichsreife
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002001125)
 
 (1) Ist ein Anrecht nicht ausgleichsreif, so findet insoweit ein
 Wertausgleich bei der Scheidung nicht statt. § 5 Abs. 2 gilt
@@ -428,12 +456,15 @@ bleiben unberührt.
 
 
 #### Abschnitt 3 - Ausgleichsansprüche nach der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001000000)
 
 
 ##### Unterabschnitt 1 - Schuldrechtliche Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001100000)
 
 
 ###### § 20 Anspruch auf schuldrechtliche Ausgleichsrente
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002100000)
 
 (1) Bezieht die ausgleichspflichtige Person eine laufende Versorgung
 aus einem noch nicht ausgeglichenen Anrecht, so kann die
@@ -463,6 +494,7 @@ entsprechend.
 
 
 ###### § 21 Abtretung von Versorgungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002200000)
 
 (1) Die ausgleichsberechtigte Person kann von der
 ausgleichspflichtigen Person verlangen, ihr den Anspruch gegen den
@@ -481,6 +513,7 @@ die ausgleichspflichtige Person über.
 
 
 ###### § 22 Anspruch auf Ausgleich von Kapitalzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002300000)
 
 Erhält die ausgleichspflichtige Person Kapitalzahlungen aus einem noch
 nicht ausgeglichenen Anrecht, so kann die ausgleichsberechtigte Person
@@ -489,9 +522,11 @@ von ihr die Zahlung des Ausgleichswerts verlangen. Im Übrigen sind die
 
 
 ##### Unterabschnitt 2 - Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001200000)
 
 
 ###### § 23 Anspruch auf Abfindung, Zumutbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002400000)
 
 (1) Die ausgleichsberechtigte Person kann für ein noch nicht
 ausgeglichenes Anrecht von der ausgleichspflichtigen Person eine
@@ -507,6 +542,7 @@ belasten, so kann sie Ratenzahlung verlangen.
 
 
 ###### § 24 Höhe der Abfindung, Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002500000)
 
 (1) Für die Höhe der Abfindung ist der Zeitwert des Ausgleichswerts
 maßgeblich. § 18 gilt entsprechend.
@@ -516,9 +552,11 @@ entsprechend.
 
 
 ##### Unterabschnitt 3 - Teilhabe an der Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001300000)
 
 
 ###### § 25 Anspruch gegen den Versorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002600000)
 
 (1) Stirbt die ausgleichspflichtige Person und besteht ein noch nicht
 ausgeglichenes Anrecht, so kann die ausgleichsberechtigte Person vom
@@ -544,6 +582,7 @@ den nach den Absätzen 1 und 3 Satz 1 errechneten Betrag zu kürzen.
 
 
 ###### § 26 Anspruch gegen die Witwe oder den Witwer
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002700000)
 
 (1) Besteht ein noch nicht ausgeglichenes Anrecht bei einem
 ausländischen, zwischenstaatlichen oder überstaatlichen
@@ -556,9 +595,11 @@ Hinterbliebenenversorgung leistet.
 
 
 #### Abschnitt 4 - Härtefälle
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001400000)
 
 
 ##### § 27 Beschränkung oder Wegfall des Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002800000)
 
 Ein Versorgungsausgleich findet ausnahmsweise nicht statt, soweit er
 grob unbillig wäre. Dies ist nur der Fall, wenn die gesamten Umstände
@@ -566,9 +607,11 @@ des Einzelfalls es rechtfertigen, von der Halbteilung abzuweichen.
 
 
 ### Kapitel 3 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001500000)
 
 
 #### § 28 Ausgleich eines Anrechts der Privatvorsorge wegen Invalidität
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE002900000)
 
 (1) Ein Anrecht der Privatvorsorge wegen Invalidität ist nur
 auszugleichen, wenn der Versicherungsfall in der Ehezeit eingetreten
@@ -583,6 +626,7 @@ entsprechend.
 
 
 #### § 29 Leistungsverbot bis zum Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003000000)
 
 Bis zum wirksamen Abschluss eines Verfahrens über den
 Versorgungsausgleich ist der Versorgungsträger verpflichtet, Zahlungen
@@ -591,6 +635,7 @@ Höhe des Ausgleichswerts auswirken können.
 
 
 #### § 30 Schutz des Versorgungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003101125)
 
 (1) Entscheidet das Familiengericht rechtskräftig über den Ausgleich
 und leistet der Versorgungsträger innerhalb einer bisher bestehenden
@@ -610,6 +655,7 @@ Witwer bleiben unberührt.
 
 
 #### § 31 Tod eines Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003200000)
 
 (1) Stirbt ein Ehegatte nach Rechtskraft der Scheidung, aber vor
 Rechtskraft der Entscheidung über den Wertausgleich nach den §§ 9 bis
@@ -630,9 +676,11 @@ Hinterbliebenenversorgung nach den §§ 25 und 26 bleiben unberührt. §
 
 
 ### Kapitel 4 - Anpassung nach Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001600000)
 
 
 #### § 32 Anpassungsfähige Anrechte
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003300000)
 
 Die §§ 33 bis 38 gelten für Anrechte aus
 
@@ -661,6 +709,7 @@ Die §§ 33 bis 38 gelten für Anrechte aus
 
 
 #### § 33 Anpassung wegen Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003400000)
 
 (1) Solange die ausgleichsberechtigte Person aus einem im
 Versorgungsausgleich erworbenen Anrecht keine laufende Versorgung
@@ -686,6 +735,7 @@ wird.
 
 
 #### § 34 Durchführung einer Anpassung wegen Unterhalt
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003500000)
 
 (1) Über die Anpassung und deren Abänderung entscheidet das
 Familiengericht.
@@ -713,6 +763,7 @@ Fall der Änderung von Unterhaltszahlungen.
 
 
 #### § 35 Anpassung wegen Invalidität der ausgleichspflichtigen Person oder einer für sie geltenden besonderen Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003600000)
 
 (1) Solange die ausgleichspflichtige Person eine laufende Versorgung
 wegen Invalidität oder Erreichens einer besonderen Altersgrenze erhält
@@ -732,6 +783,7 @@ Verhältnis ihrer Ausgleichswerte entspricht.
 
 
 #### § 36 Durchführung einer Anpassung wegen Invalidität der ausgleichspflichtigen Person oder einer für sie geltenden besonderen Altersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003700000)
 
 (1) Über die Anpassung, deren Abänderung und Aufhebung entscheidet der
 Versorgungsträger, bei dem das auf Grund des Versorgungsausgleichs
@@ -748,6 +800,7 @@ Kürzung ausgesetzt hat, unverzüglich darüber zu unterrichten.
 
 
 #### § 37 Anpassung wegen Tod der ausgleichsberechtigten Person
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003800000)
 
 (1) Ist die ausgleichsberechtigte Person gestorben, so wird ein
 Anrecht der ausgleichspflichtigen Person auf Antrag nicht länger auf
@@ -769,6 +822,7 @@ wird.
 
 
 #### § 38 Durchführung einer Anpassung wegen Tod der ausgleichsberechtigten Person
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE003900000)
 
 (1) Über die Anpassung entscheidet der Versorgungsträger, bei dem das
 auf Grund eines Versorgungsausgleichs gekürzte Anrecht besteht.
@@ -785,12 +839,15 @@ Antrags und seine Entscheidung.
 
 
 ## Teil 2 - Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001700000)
 
 
 ### Kapitel 1 - Allgemeine Wertermittlungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001800000)
 
 
 #### § 39 Unmittelbare Bewertung einer Anwartschaft
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004000000)
 
 (1) Befindet sich ein Anrecht in der Anwartschaftsphase und richtet
 sich sein Wert nach einer Bezugsgröße, die unmittelbar bestimmten
@@ -822,6 +879,7 @@ bestimmend ist:
 
 
 #### § 40 Zeitratierliche Bewertung einer Anwartschaft
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004100000)
 
 (1) Befindet sich ein Anrecht in der Anwartschaftsphase und richtet
 sich der Wert des Anrechts nicht nach den Grundsätzen der
@@ -851,6 +909,7 @@ erhalten, dürfen nicht berücksichtigt werden.
 
 
 #### § 41 Bewertung einer laufenden Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004200000)
 
 (1) Befindet sich ein Anrecht in der Leistungsphase und wäre für die
 Anwartschaftsphase die unmittelbare Bewertung maßgeblich, so gilt § 39
@@ -864,6 +923,7 @@ durch die tatsächlichen Werte zu ersetzen.
 
 
 #### § 42 Bewertung nach Billigkeit
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004300000)
 
 Führt weder die unmittelbare Bewertung noch die zeitratierliche
 Bewertung zu einem Ergebnis, das dem Grundsatz der Halbteilung
@@ -871,9 +931,11 @@ entspricht, so ist der Wert nach billigem Ermessen zu ermitteln.
 
 
 ### Kapitel 2 - Sondervorschriften für bestimmte Versorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG001900000)
 
 
 #### § 43 Sondervorschriften für Anrechte aus der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004401123)
 
 (1) Für Anrechte aus der gesetzlichen Rentenversicherung gelten die
 Grundsätze der unmittelbaren Bewertung.
@@ -890,6 +952,7 @@ erfüllt sind.
 
 
 #### § 44 Sondervorschriften für Anrechte aus einem öffentlich-rechtlichen Dienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004500000)
 
 (1) Für Anrechte
 
@@ -925,6 +988,7 @@ gesetzlichen Rentenversicherung ergäbe.
 
 
 #### § 45 Sondervorschriften für Anrechte nach dem Betriebsrentengesetz
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004600000)
 
 (1) Bei einem Anrecht im Sinne des Betriebsrentengesetzes ist der Wert
 des Anrechts als Rentenbetrag nach § 2 des Betriebsrentengesetzes oder
@@ -945,6 +1009,7 @@ Dienstes besteht.
 
 
 #### § 46 Sondervorschriften für Anrechte aus Privatversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004700000)
 
 Für die Bewertung eines Anrechts aus einem privaten
 Versicherungsvertrag sind die Bestimmungen des
@@ -953,9 +1018,11 @@ Stornokosten sind nicht abzuziehen.
 
 
 ### Kapitel 3 - Korrespondierender Kapitalwert als Hilfsgröße
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG002000000)
 
 
 #### § 47 Berechnung des korrespondierenden Kapitalwerts
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004800000)
 
 (1) Der korrespondierende Kapitalwert ist eine Hilfsgröße für ein
 Anrecht, dessen Ausgleichswert nach § 5 Abs. 3 nicht bereits als
@@ -988,9 +1055,11 @@ berücksichtigen, die sich auf die Versorgung auswirken.
 
 
 ## Teil 2a - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG002200360)
 
 
 ### § 47a Erstattung nach interner Teilung von Anrechten aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005600360)
 
 (1) Ist ein Anrecht aus einem öffentlich-rechtlichen Dienst- oder
 Amtsverhältnis intern geteilt worden und wechselt die
@@ -1009,9 +1078,11 @@ Versorgungsausgleichs-Erstattungsverordnung gilt entsprechend.
 
 
 ## Teil 3 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNG002100000)
 
 
 ### § 48 Allgemeine Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE004900000)
 
 (1) In Verfahren über den Versorgungsausgleich, die vor dem 1.
 September 2009 eingeleitet worden sind, ist das bis dahin geltende
@@ -1037,6 +1108,7 @@ Recht und Verfahrensrecht anzuwenden.
 
 
 ### § 49 Übergangsvorschrift für Auswirkungen des Versorgungsausgleichs in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005000000)
 
 Für Verfahren nach den §§ 4 bis 10 des Gesetzes zur Regelung von
 Härten im Versorgungsausgleich, in denen der Antrag beim
@@ -1045,6 +1117,7 @@ bis dahin geltende Recht weiterhin anzuwenden.
 
 
 ### § 50 Wiederaufnahme von ausgesetzten Verfahren nach dem Versorgungsausgleichs-Überleitungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005100000)
 
 (1) Ein nach § 2 Abs. 1 Satz 2 des Versorgungsausgleichs-
 Überleitungsgesetzes ausgesetzter Versorgungsausgleich
@@ -1067,6 +1140,7 @@ voraussichtlich Leistungen zu erbringen oder zu kürzen wären.
 
 
 ### § 51 Zulässigkeit einer Abänderung des öffentlich-rechtlichen Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005200000)
 
 (1) Eine Entscheidung über einen öffentlich-rechtlichen
 Versorgungsausgleich, die nach dem Recht getroffen worden ist, das bis
@@ -1104,6 +1178,7 @@ Gerichtsbarkeit gilt entsprechend.
 
 
 ### § 52 Durchführung einer Abänderung des öffentlich-rechtlichen Versorgungsausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005300000)
 
 (1) Für die Durchführung des Abänderungsverfahrens nach § 51 ist § 226
 des Gesetzes über das Verfahren in Familiensachen und in den
@@ -1118,6 +1193,7 @@ Leistungen zurückzuzahlen.
 
 
 ### § 53 Bewertung eines Teilausgleichs bei Ausgleichsansprüchen nach der Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005400000)
 
 Ist bei Ausgleichsansprüchen nach der Scheidung gemäß den §§ 20 bis 26
 ein bereits erfolgter Teilausgleich anzurechnen, so ist dessen Wert
@@ -1126,6 +1202,7 @@ zu bestimmen.
 
 
 ### § 54 Weiter anwendbare Übergangsvorschriften des Ersten Gesetzes zur Reform des Ehe- und Familienrechts und des Gesetzes über weitere Maßnahmen auf dem Gebiet des Versorgungsausgleichs für Sachverhalte vor dem 1. Juli 1977
+[Direktlink](https://www.gesetze-im-internet.de/versausglg/BJNR070010009.html#BJNR070010009BJNE005500000)
 
 Artikel 12 Nr. 3 Satz 1, 4 und 5 des Ersten Gesetzes zur Reform des
 Ehe- und Familienrechts vom 14. Juni 1976 (BGBl. I S. 1421), das

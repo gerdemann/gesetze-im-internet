@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/cov19vorsorgv/BJNR0600A0023.html#BJNR0600A0023BJNE000100000)
 
 Auf Grund des § 20i Absatz 3 Satz 1 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 4 Nummer 4 Buchstabe b des
@@ -32,9 +33,11 @@ der Krankenkassen:
 
 
 ## § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/cov19vorsorgv/BJNR0600A0023.html#BJNR0600A0023BJNE000201000)
 
 
 ## § 2 Präexpositionsprophylaxe gegen die Coronavirus-Krankheit-2019 (COVID-19)
+[Direktlink](https://www.gesetze-im-internet.de/cov19vorsorgv/BJNR0600A0023.html#BJNR0600A0023BJNE000300000)
 
 (1) Versicherte haben Anspruch auf Versorgung mit
 verschreibungspflichtigen Arzneimitteln zur Präexpositionsprophylaxe
@@ -69,9 +72,11 @@ einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/cov19vorsorgv/BJNR0600A0023.html#BJNR0600A0023BJNE000401000)
 
 
 ## § 4 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/cov19vorsorgv/BJNR0600A0023.html#BJNR0600A0023BJNE000500000)
 
 (1) Diese Verordnung tritt am 8. April 2023 in Kraft.
 

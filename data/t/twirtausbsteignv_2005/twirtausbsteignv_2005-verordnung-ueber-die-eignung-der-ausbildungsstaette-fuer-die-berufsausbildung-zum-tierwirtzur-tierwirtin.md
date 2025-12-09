@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbsteignv_2005/BJNR217200005.html#BJNR217200005BJNE000100000)
 
 Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
 (BGBl. I S. 931) verordnet das Bundesministerium für
@@ -31,6 +32,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbsteignv_2005/BJNR217200005.html#BJNR217200005BJNE000201360)
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Abs.
 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein,
@@ -90,6 +92,7 @@ eröffnet worden ist.
 
 
 ## § 2 Fachrichtungsspezifische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbsteignv_2005/BJNR217200005.html#BJNR217200005BJNE000300000)
 
 (1) Die Ausbildungsstätte in der Fachrichtung Rinderhaltung muss über
 einen Rinderbestand verfügen, der alle Altersstufen der Rinderhaltung
@@ -129,6 +132,7 @@ vorhanden sein.
 
 
 ## § 3 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbsteignv_2005/BJNR217200005.html#BJNR217200005BJNE000400000)
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten nicht im vollen Umfang
@@ -140,6 +144,7 @@ vermittelt werden können.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/twirtausbsteignv_2005/BJNR217200005.html#BJNR217200005BJNE000500000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 

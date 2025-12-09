@@ -47,6 +47,7 @@ Umweltschäden (ABl. L 143 vom 30.4.2004, S. 56).
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000111360)
 
 (1) Dieses Gesetz ist anzuwenden auf Rechtsbehelfe gegen folgende
 Entscheidungen:
@@ -180,6 +181,7 @@ beziehen.
 
 
 ## § 2 Rechtsbehelfe von Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000205116)
 
 (1) Eine nach § 3 anerkannte inländische oder ausländische Vereinigung
 kann, ohne eine Verletzung in eigenen Rechten geltend machen zu
@@ -270,6 +272,7 @@ Gesetzes über die Umweltverträglichkeitsprüfung bestehen.
 
 
 ## § 3 Anerkennung von Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000305116)
 
 (1) Auf Antrag wird einer inländischen oder ausländischen Vereinigung
 die Anerkennung zur Einlegung von Rechtbehelfen nach diesem Gesetz
@@ -326,6 +329,7 @@ durch die zuständige Behörde des Landes ausgesprochen.
 
 
 ## § 4 Verfahrensfehler
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000408116)
 
 (1) Die Aufhebung einer Entscheidung über die Zulässigkeit eines
 Vorhabens nach § 1 Absatz 1 Satz 1 Nummer 1 bis 2b kann verlangt
@@ -440,6 +444,7 @@ Verwaltungsverfahrensgesetzes.
 
 
 ## § 5 Missbräuchliches oder unredliches Verhalten im Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000506116)
 
 Einwendungen, die eine Person oder eine Vereinigung im Sinne des § 4
 Absatz 3 Satz 1 erstmals im Rechtsbehelfsverfahren erhebt, bleiben
@@ -448,6 +453,7 @@ Rechtsbehelfsverfahren missbräuchlich oder unredlich ist.
 
 
 ## § 6 Klagebegründungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000604130)
 
 Eine Person oder eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 hat
 innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur
@@ -469,6 +475,7 @@ Fortsetzung des gerichtlichen Verfahrens.
 
 
 ## § 7 Besondere Bestimmungen für Rechtsbehelfe gegen bestimmte Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000801116)
 
 (1) Ist für Entscheidungen nach § 1 Absatz 1 Satz 1 Nummer 5 oder 6
 nach den geltenden Rechtsvorschriften keine öffentliche Bekanntmachung
@@ -528,6 +535,7 @@ Nummer 1.
 
 
 ## § 8 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html#BJNR281600006BJNE000901116)
 
 (1) Dieses Gesetz gilt für Rechtsbehelfe gegen Entscheidungen nach § 1
 Absatz 1 Satz 1 Nummer 1 und 2, die nach dem 25. Juni 2005 ergangen

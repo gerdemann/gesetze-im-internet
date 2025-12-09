@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Umwandlung in eine Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000100314)
 
 (1) Die Volkswagenwerk Gesellschaft mit beschränkter Haftung ist
 unverzüglich in eine Aktiengesellschaft umzuwandeln.
@@ -37,9 +38,11 @@ bis 276 des Aktiengesetzes Anwendung.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000201160)
 
 
 ## § 3 Vertretung bei der Stimmrechtsausübung
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000301160)
 
 (1) Niemand darf das Stimmrecht im eigenen Namen für Aktien ausüben,
 die ihm nicht gehören. Wer das Stimmrecht für Aktien ausübt, die ihm
@@ -74,6 +77,7 @@ gewähren.
 
 
 ## § 4 Verfassung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000401160)
 
 (1)
 
@@ -89,16 +93,19 @@ vertretenen Grundkapitals der Gesellschaft.
 
 
 ## (XXXX) §§ 5 bis 12
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000500314)
 
 
 
 ## § 13 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000600314)
 
 Dieses Gesetz gilt nach Maßgabe des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbh_g/BJNR005850960.html#BJNR005850960BJNE000700314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

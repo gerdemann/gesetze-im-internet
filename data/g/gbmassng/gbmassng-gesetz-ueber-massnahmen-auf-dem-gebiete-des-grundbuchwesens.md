@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Eintragung der Umstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001000306)
 
 Der Antrag, bei einer Hypothek einen Umstellungsbetrag, der sich auf
 mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, in das
@@ -47,6 +49,7 @@ b)  die Voraussetzungen, unter denen die Umstellung der Hypothek sich nach
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001102160)
 
 (1) Weist das Grundbuchamt einen Antrag des in § 1 bezeichneten
 Inhalts zurück, so ist die Beschwerde nach den Vorschriften des
@@ -81,6 +84,7 @@ bezeichneten Art zurück, so findet die Rechtsbeschwerde statt; Absatz
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001200306)
 
 Nach dem Ende des Jahres 1965 darf bei einer Hypothek ein
 Umstellungsbetrag, der sich auf mehr als eine Deutsche Mark für je
@@ -98,6 +102,7 @@ b)  ein nach § 1 Buchstabe b zulässiger Eintragungsantrag gestellt worden
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001300306)
 
 (1) Ein Umstellungsschutzvermerk wird von Amts wegen eingetragen, wenn
 ein Eintragungsantrag des in § 1 bezeichneten Inhalts vor dem 1.
@@ -175,6 +180,7 @@ werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001400306)
 
 (1) Der Umstellungsschutzvermerk wird von Amts wegen im Grundbuch
 gelöscht, wenn
@@ -208,6 +214,7 @@ beantragt hat.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001500306)
 
 Zur Eintragung oder Löschung des Umstellungsschutzvermerkes bei einer
 Hypothek, über die ein Brief erteilt ist, bedarf es nicht der
@@ -216,6 +223,7 @@ Brief nicht vermerkt.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001600306)
 
 (1) Darf gemäß § 3 der dort bezeichnete Umstellungsbetrag nicht mehr
 eingetragen werden, so besteht die Hypothek nur in Höhe eines
@@ -227,6 +235,7 @@ die Vorschrift des Absatzes 1 nicht berührt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001700306)
 
 (1) Ist bei der Hypothek ein Umstellungsschutzvermerk nicht
 eingetragen, so gelten nach dem Ende des Jahres 1965 für die
@@ -281,6 +290,7 @@ zu erwirken.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001800306)
 
 (1) Die Zulässigkeit eines Umstellungsverfahrens wird durch die
 Vorschriften des § 7 Abs. 1 nicht berührt. § 7 Abs. 1 gilt jedoch auch
@@ -293,6 +303,7 @@ Lastenausgleichsgesetzes.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE001900306)
 
 (1) Hat die dem Gläubiger zustehende Hypothek sich auf Grund des § 7
 Abs. 1 vermindert, so kann der Gläubiger verlangen, daß der Eigentümer
@@ -318,6 +329,7 @@ mit der Bestellung der weiteren Hypothek verbunden sind.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002000306)
 
 Die Vorschriften dieses Abschnitts sind auf Grundschulden und
 Rentenschulden sowie auf Pfandrechte an Bahneinheiten und auf
@@ -326,6 +338,7 @@ Schiffshypotheken nicht.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002100306)
 
 Die Vorschriften dieses Abschnitts sind auf Reallasten entsprechend
 anzuwenden. Im übrigen gelten auch für Reallasten die §§ 5 und 6 der
@@ -333,6 +346,7 @@ Vierzigsten Durchführungsverordnung zum Umstellungsgesetz.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002201311)
 
 (1) Für die Eintragung des Umstellungsbetrags wird die Hälfte der in
 Nummer 14130 des Kostenverzeichnisses zum Gerichts- und
@@ -346,10 +360,12 @@ sind kostenfrei.
 
 
 ## Zweiter Abschnitt - Umstellungsgrundschulden
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000200306)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002300306)
 
 (1) Der Antrag, den Übergang einer eingetragenen
 Umstellungsgrundschuld auf den Eigentümer in das Grundbuch
@@ -363,6 +379,7 @@ sinngemäß.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002400306)
 
 Ist der Übergang einer eingetragenen Umstellungsgrundschuld auf den
 Eigentümer im Grundbuch nicht eingetragen und ist die Eintragung bis
@@ -375,6 +392,7 @@ ist kostenfrei.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002500306)
 
 Eine im Grundbuch nicht eingetragene Umstellungsgrundschuld, die auf
 den Eigentümer übergegangen ist, erlischt, wenn der in § 14 Abs. 1
@@ -384,6 +402,7 @@ ist, rechtskräftig geworden ist.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002600306)
 
 Ein durch Rangrücktritt der Umstellungsgrundschuld dem vortretenden
 Recht eingeräumter Rang geht nicht dadurch verloren, daß die
@@ -391,10 +410,12 @@ Umstellungsgrundschuld erlischt.
 
 
 ## Dritter Abschnitt - Löschung umgestellter Grundpfandrechte und Schiffshypotheken
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000300306)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002703311)
 
 (1) Wird die Löschung einer umgestellten Hypothek oder Grundschuld
 beantragt, deren Geldbetrag 3 000 Euro nicht übersteigt, so bedürfen
@@ -422,6 +443,7 @@ eine Reichsmark beläuft.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002801311)
 
 Die Vorschriften des § 18 gelten sinngemäß für eine umgestellte
 Rentenschuld oder Reallast, deren Jahresleistung 15 Euro nicht
@@ -429,6 +451,7 @@ Rentenschuld oder Reallast, deren Jahresleistung 15 Euro nicht
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE002901311)
 
 Die Vorschriften des § 18 gelten für eine umgestellte Schiffshypothek,
 deren Geldbetrag 3.000 Euro nicht übersteigt, entsprechend mit der
@@ -438,19 +461,23 @@ Grundbuchordnung auf die §§ 37 und 41 der Schiffsregisterordnung vom
 
 
 ## Vierter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000400306)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003000306)
 
 -
 
 
 ## Fünfter Abschnitt - Abgeltungshypotheken und Abgeltungslasten
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000500306)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003100306)
 
 Nach dem Ende des Jahres 1964 darf eine Abgeltungshypothek (§ 8 der
 Verordnung zur Durchführung der Verordnung über die Aufhebung der
@@ -459,6 +486,7 @@ Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003200306)
 
 Abgeltungslasten (§ 2 Abs. 2 der Verordnung über die Aufhebung der
 Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S.
@@ -467,6 +495,7 @@ erloschen sind.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003300306)
 
 (1) Ist eine Abgeltungshypothek im Grundbuch eingetragen, so kann das
 Grundbuchamt nach dem Ende des Jahres 1964, jedoch frühestens drei
@@ -504,6 +533,7 @@ gegenstandsloser Eintragungen bleiben unberührt.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003400306)
 
 Die Forderung aus dem Abgeltungsdarlehen wird nicht dadurch berührt,
 daß die Abgeltungslast oder die Abgeltungshypothek nach den
@@ -511,10 +541,12 @@ Vorschriften dieses Abschnitts erlischt.
 
 
 ## Sechster Abschnitt - Zusätzliche Vorschriften des Grundbuchrechts
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000600306)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003501314)
 
 (1) Einem Antrag des Berechtigten auf Erteilung eines neuen
 Hypothekenbriefs ist außer in den Fällen des § 67 der Grundbuchordnung
@@ -544,6 +576,7 @@ Rentenschuldbriefe sinngemäß.
 
 
 ### § 26a Eintragungen im Zusammenhang mit der Einführung des Euro
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004802311)
 
 (1) Für die Eintragung der Umstellung im Grundbuch eingetragener
 Rechte und sonstiger Vermerke auf Euro, deren Geldbetrag in der
@@ -572,30 +605,36 @@ Register für Pfandrechte an Luftfahrzeugen sinngemäß.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003600306)
 
 -
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003703311)
 
 -
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003800306)
 
 -
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE003900306)
 
 -
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004001308)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004100306)
 
 Soweit nach landesrechtlichen Vorschriften für die dem Grundbuchamt
 obliegenden Verrichtungen andere Behörden als die Amtsgerichte
@@ -605,19 +644,23 @@ nachzusuchen ist, unberührt.
 
 
 ## Siebenter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000700306)
 
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004200306)
 
 -
 
 
 ## Achter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000800306)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004301301)
 
 (1) (Änderungsvorschrift)
 
@@ -625,21 +668,25 @@ nachzusuchen ist, unberührt.
 
 
 ## Neunter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNG000900306)
 
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004400306)
 
 Die Vorschriften des Ersten, des Zweiten, des Dritten und des Vierten
 Abschnitts gelten nicht im Saarland.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004501301)
 
 (weggefallen)
 
 
 ### § 36a
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004704311)
 
 In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gelten nur
 die §§ 18 bis 20 und 22 bis 26a, § 18 Abs. 2 Satz 2 jedoch mit der
@@ -656,6 +703,7 @@ festzulegen, zu dem die Hemmung nach Satz 2 endet.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gbmassng/BJNR009860963.html#BJNR009860963BJNE004600306)
 
 Dieses Gesetz tritt mit dem Beginn des zweiten Kalendermonats nach der
 Verkündung in Kraft, jedoch § 21 Nr. 4 mit Wirkung vom Inkrafttreten

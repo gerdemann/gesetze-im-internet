@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergwozsenkv/BJNR017260986.html#BJNR017260986BJNE000100325)
 
 Auf Grund der §§ 18e Satz 3 und 18a des Wohnungsbindungsgesetzes in
 der Fassung der Bekanntmachung vom 22. Juli 1982 (BGBl. I S. 972)
@@ -26,6 +27,7 @@ mit Zustimmung des Bundesrates:
 
 
 ## § 1 Senkung des Zinssatzes
+[Direktlink](https://www.gesetze-im-internet.de/bergwozsenkv/BJNR017260986.html#BJNR017260986BJNE000200325)
 
 (1) Ist der Zinssatz für Darlehen aus dem Treuhandvermögen des Bundes
 nach § 2 Abs. 1 der Verordnung über die Erhebung der Zinsen für
@@ -38,17 +40,20 @@ anzuwenden.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bergwozsenkv/BJNR017260986.html#BJNR017260986BJNE000300325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33a des Wohnungsbindungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/bergwozsenkv/BJNR017260986.html#BJNR017260986BJNE000400325)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bergwozsenkv/BJNR017260986.html#BJNR017260986BJNE000500325)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1986 in Kraft.
 

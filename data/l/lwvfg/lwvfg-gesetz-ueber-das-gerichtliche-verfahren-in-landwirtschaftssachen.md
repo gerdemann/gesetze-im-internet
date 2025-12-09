@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000500314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Sachliche Zuständigkeit und Einrichtung der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000602301)
 
 Die Bestimmungen dieses Gesetzes gelten in den Verfahren auf Grund der
 Vorschriften über
@@ -79,6 +82,7 @@ mit ehrenamtlichen Richtern vorsehen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000701306)
 
 (1) In den in § 1 bezeichneten Verfahren sind im ersten Rechtszug die
 Amtsgerichte als Landwirtschaftsgerichte zuständig. Die Zuständigkeit
@@ -105,6 +109,7 @@ tätig.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000802301)
 
 (1) Die ehrenamtlichen Richter werden auf die Dauer von fünf Jahren
 berufen; wiederholte Berufung ist zulässig.
@@ -118,6 +123,7 @@ Anhörung der Staatsanwaltschaft bedarf es nicht.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE000902311)
 
 (1) Die ehrenamtlichen Richter der Amtsgerichte und des
 Oberlandesgerichts beruft der Präsident des Oberlandesgerichts auf
@@ -167,6 +173,7 @@ Landwirtschaft aufgestellt wird.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001001306)
 
 Die ehrenamtlichen Richter üben das Richteramt in vollem Umfang und
 mit gleichem Stimmrecht wie die Berufsrichter aus. Sie sind zur
@@ -174,6 +181,7 @@ Amtsverschwiegenheit verpflichtet.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001101306)
 
 (1) Die ehrenamtlichen Richter sollen zu den Sitzungen nach der
 Reihenfolge einer Liste herangezogen werden, die der Vorsitzende des
@@ -201,6 +209,7 @@ Gerichtsverfassungsgesetzes sinngemäß.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001201306)
 
 (1) Ein ehrenamtlicher Richter ist seines Amtes zu entheben, wenn das
 Fehlen einer in § 4 Abs. 3 bezeichneten Voraussetzung nachträglich
@@ -217,6 +226,7 @@ Richter zu hören.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001300314)
 
 Die Landesregierung kann durch Rechtsverordnung Geschäfte aus den
 Bezirken mehrerer Amtsgerichte einem Amtsgericht übertragen. Sie kann
@@ -226,10 +236,12 @@ Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung
 
 
 ## Zweiter Abschnitt - Landwirtschaftssachen der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNG000201306)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001402160)
 
 Soweit dieses Gesetz nichts anderes bestimmt, sind in Angelegenheiten
 des § 1 Nr. 1 und Nr. 2 bis 6 die Vorschriften des Gesetzes über das
@@ -238,6 +250,7 @@ freiwilligen Gerichtsbarkeit sinngemäß anzuwenden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001500314)
 
 Örtlich zuständig ist das Amtsgericht, in dessen Bezirk die Hofstelle
 liegt. Ist eine Hofstelle nicht vorhanden, so ist das Amtsgericht
@@ -246,10 +259,12 @@ größten Teil liegen oder die Rechte im wesentlichen ausgeübt werden.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001602160)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001703311)
 
 (1) Hält das Gericht sich für unzuständig, so hat es die Sache an das
 zuständige Gericht abzugeben. Der Abgabebeschluß kann nach Anhörung
@@ -270,6 +285,7 @@ abzugeben. Absatz 1 Satz 2, 3 ist anzuwenden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001802301)
 
 (1) Als Bevollmächtigte sind, soweit eine Vertretung durch
 Rechtsanwälte nicht geboten ist, auch berufsständische Vereinigungen
@@ -288,6 +304,7 @@ entsprechend.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE001901310)
 
 (1) Das Verfahren wird, soweit nicht etwas anderes bestimmt ist, nur
 auf Antrag eingeleitet.
@@ -299,6 +316,7 @@ der Entscheidung gelten die Vorschriften des § 139 und des § 273 Abs
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002002160)
 
 (1) Das Gericht hat auf Antrag eines Beteiligten eine mündliche
 Verhandlung anzuordnen. Dies gilt nicht für Verfahren vor dem
@@ -319,6 +337,7 @@ die Niederschrift gelten sinngemäß.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002100314)
 
 Das Gericht kann eines seiner Mitglieder mit der Beweisaufnahme oder
 mit örtlichen Ermittlungen oder mit Verhandlungen mit den Beteiligten
@@ -330,6 +349,7 @@ nur Richter befugt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002201306)
 
 Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe
 verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts
@@ -338,6 +358,7 @@ forstwirtschaftlicher Grundstücke zu erteilen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002302160)
 
 Bei einstweiligen Anordnungen kann von der Zuziehung der
 ehrenamtlichen Richter und von der Anwendung des § 14 Abs. 2 abgesehen
@@ -346,6 +367,7 @@ Nachteil zu entstehen droht.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002401306)
 
 Enthält ein gerichtlicher Vergleich Bestimmungen über die Veräußerung,
 Belastung oder Verpachtung von Grundstücken, so kann das Gericht auf
@@ -356,6 +378,7 @@ Vorschriften des Landpachtverkehrsgesetzes beanstandet werden.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002504311)
 
 (1) Das Gericht kann ohne Zuziehung ehrenamtlicher Richter über
 
@@ -412,42 +435,52 @@ eines Erbscheins.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002601160)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002701160)
 
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002801160)
 
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE002901160)
 
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003001160)
 
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003102160)
 
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003202160)
 
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003301160)
 
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003401160)
 
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003500314)
 
 (1) Die gerichtlichen Entscheidungen in der Hauptsache werden erst mit
 dem Eintritt der Rechtskraft wirksam.
@@ -459,10 +492,12 @@ durch Sicherheitsleistung abzuwenden.
 
 
 ### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003601160)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003702160)
 
 (1) In den Verfahren wegen Beanstandung eines Landpachtvertrages ist
 die nach Landesrecht zuständige Behörde, in den Verfahren wegen
@@ -485,6 +520,7 @@ gelten.
 
 
 ### § 32a
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003800314)
 
 In den Verfahren auf Grund der Vorschriften über die gerichtliche
 Zuweisung eines Betriebes (§ 1 Nr. 2) soll der Antrag die Gegenstände
@@ -496,20 +532,24 @@ Grundbuchamt um Eintragung des Erwerbers.
 
 
 ### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE003903311)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE004003311)
 
 Über die Kosten ist zugleich mit der Entscheidung über die Hauptsache
 zu entscheiden.
 
 
 ### (XXXX) §§ 35 bis 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE004105311)
 
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005001311)
 
 Aus besonderen Gründen kann das Gericht anordnen, daß von der Erhebung
 von Gerichtskosten ganz oder teilweise abgesehen wird. Die
@@ -518,10 +558,12 @@ Hauptsache ergehen.
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005101311)
 
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005201311)
 
 (1) Sind an einem Verfahren mehrere Personen beteiligt, so hat das
 Gericht nach billigem Ermessen zu entscheiden, wer die Kosten zu
@@ -536,6 +578,7 @@ Beteiligten die Kosten aufzuerlegen sind.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005302311)
 
 Bei der Entscheidung in der Hauptsache kann das Gericht anordnen, daß
 die außergerichtlichen Kosten ganz oder teilweise von einem
@@ -545,18 +588,22 @@ Rechtsmittel oder durch grobes Verschulden veranlaßt hat.
 
 
 ### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005403301)
 
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005501311)
 
 
 
 ## Dritter Abschnitt - Streitige Landwirtschaftssachen
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNG000301306)
 
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005607308)
 
 (1) In bürgerlichen Rechtsstreitigkeiten des § 1 Nr. 1a findet die
 Zivilprozeßordnung Anwendung. Jedoch treten die §§ 10 und 20 Abs. 1
@@ -569,14 +616,17 @@ Richter nicht bedarf.
 
 
 ### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005701306)
 
 
 
 ## Vierter Abschnitt - Zusatz-, Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNG000400314)
 
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005800314)
 
 Soweit Vorschriften, die nach diesem Gesetz in Kraft bleiben oder von
 diesem Gesetz nicht berührt werden, bestimmen, daß für ein Verfahren,
@@ -592,6 +642,7 @@ Gesetzes.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE005901306)
 
 (1) (entfallen)
 
@@ -603,14 +654,17 @@ erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE006004160)
 
 
 
 ### (XXXX) §§ 53 bis 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE006100314)
 
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE006200314)
 
 (1) Dieses Gesetz tritt am 1. Oktober 1953 in Kraft.
 
@@ -661,6 +715,7 @@ b)  in den nicht unter § 1 fallenden Verfahren, die auf in Kraft
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/lwvfg/BJNR006670953.html#BJNR006670953BJNE006300314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch

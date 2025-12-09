@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000100000)
 
 Auf Grund des § 10 des Münzgesetzes, der durch Artikel 6 Nr. 2 des
 Gesetzes vom 14. September 2005 (BGBl. I S. 2746) neu gefasst worden
@@ -26,6 +27,7 @@ ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000200000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -58,6 +60,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 
 ## § 2 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000300000)
 
 Vorbehaltlich der §§ 3 und 4 dürfen Medaillen und Münzstücke nicht
 hergestellt, verkauft, eingeführt oder zum Verkauf oder zu anderen
@@ -94,6 +97,7 @@ kommerziellen Zwecken verbreitet werden, wenn sie
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000400000)
 
 (1) Medaillen und Münzstücke, die die Aufschrift "Euro" oder "Euro
 Cent" oder eine ähnliche Aufschrift oder das Euro-Zeichen oder ein
@@ -133,6 +137,7 @@ Währungsgebiet hergestellt und unmittelbar ausgeführt werden.
 
 
 ## § 4 Bereits hergestellte Medaillen und Münzstücke
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000500000)
 
 Medaillen und Münzstücke, die vor dem 5. November 2005 hergestellt
 worden sind, dürfen auch dann verkauft, eingeführt oder zum Verkauf
@@ -144,6 +149,7 @@ entsprechen.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000600000)
 
 Ordnungswidrig im Sinne des § 12 Abs. 2 des Münzgesetzes handelt, wer
 entgegen § 2 eine Medaille oder ein Münzstück herstellt, verkauft,
@@ -152,11 +158,13 @@ verbreitet.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1 Nr. 1)
 
 ## Anlage Erscheinungsbild des Euro-Zeichens
+[Direktlink](https://www.gesetze-im-internet.de/medaillenv/BJNR311700005.html#BJNR311700005BJNE000800000)
 
 ![bgbl1_2005_j3118_0010.jpg](bgbl1_2005_j3118_0010.jpg)

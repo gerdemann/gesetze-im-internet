@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einsatzuv/BJNR209200012.html#BJNR209200012BJNE000100000)
 
 Auf Grund des § 63c Absatz 2a in Verbindung mit Absatz 5 des
 Soldatenversorgungsgesetzes, von denen Absatz 2a durch Artikel 1
@@ -34,6 +35,7 @@ und Soziales:
 Einsatzunfall als
 
 ## § 1 Ursache einer psychischen Störung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzuv/BJNR209200012.html#BJNR209200012BJNE000201377)
 
 (1) Es wird vermutet, dass eine psychische Störung durch einen
 Einsatzunfall verursacht worden ist, wenn
@@ -93,6 +95,7 @@ Auslandsverwendung
 
 
 ## § 2 Bewaffnete Auseinandersetzung
+[Direktlink](https://www.gesetze-im-internet.de/einsatzuv/BJNR209200012.html#BJNR209200012BJNE000300000)
 
 (1) Von einer bewaffneten Auseinandersetzung betroffen waren Personen,
 die während der Auslandsverwendung Anschläge oder Kampfhandlungen
@@ -107,6 +110,7 @@ verwickelt worden sind.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/einsatzuv/BJNR209200012.html#BJNR209200012BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

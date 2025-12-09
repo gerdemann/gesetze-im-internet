@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sortschbek_1990/BJNR021040990.html#BJNR021040990BJNE000100308)
 
 Auf Grund des § 15 Abs. 1 Nr. 4 des Sortenschutzgesetzes vom 4.
 Dezember 1985 (BGBl. I S. 2170) gibt der Bundesminister für Ernährung,

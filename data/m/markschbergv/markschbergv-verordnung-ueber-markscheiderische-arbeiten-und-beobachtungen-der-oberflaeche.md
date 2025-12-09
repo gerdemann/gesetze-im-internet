@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000202119)
 
 Diese Verordnung gilt für
 
@@ -35,6 +36,7 @@ Diese Verordnung gilt für
 
 
 ## § 2 Grundsätze für Arbeiten nach § 1 Nummer 1
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000302119)
 
 [^F810143_01_BJNR026310986BJNE000302119]
 (1) Arbeiten nach § 1 Nummer 1 sind nach den allgemein anerkannten
@@ -78,6 +80,7 @@ unterzeichnen.
 [^F810143_01_BJNR026310986BJNE000302119]: 
 
 ## § 3 Geobasisdaten
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000403119)
 
 (1) Den Arbeiten nach § 1 Nummer 1 sind die aktuellen Geobasisdaten
 des amtlichen Vermessungswesens und die von diesen Geobasisdaten
@@ -95,6 +98,7 @@ den Geobasisdaten nach Satz 1 gegeben ist.
 
 
 ## § 4 Vermessungen über Tage
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000502119)
 
 (1) Vermessungen über Tage sind an die amtlichen Netze anzuschließen.
 Die Anschlüsse sind nach Neubestimmung der amtlichen Netze zu
@@ -120,6 +124,7 @@ sicherzustellen ist.
 
 
 ## § 5 Vermessungen unter Tage
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000601119)
 
 (1) Vermessungen unter Tage sind auf der Grundlage eines
 Hauptzugnetzes und eines Höhenfestpunktnetzes durchzuführen. Sie sind
@@ -135,6 +140,7 @@ anzuschließen sind und nicht länger als 1 000 m sein dürfen.
 
 
 ## § 6 Messgenauigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000702119)
 
 (1) Die Genauigkeit der Messungen richtet sich nach dem jeweiligen
 Zweck. Die in Anlage 1 aufgeführten Werte dürfen nicht überschritten
@@ -148,6 +154,7 @@ Messgenauigkeit ist anzugeben.
 
 
 ## § 7 Dokumentationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000802119)
 
 Messungen und Berechnungen sind gemäß Anlage 2 zu dokumentieren. Dies
 ist nicht für geophysikalische Messungen und andere Verfahren
@@ -155,6 +162,7 @@ anzuwenden.
 
 
 ## § 8 Übernahme fremder Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE000903119)
 
 (1) Für Arbeiten nach § 1 Nummer 1 dürfen Vermessungsergebnisse und
 aktuelle Karten amtlicher Stellen verwendet werden.
@@ -178,6 +186,7 @@ als solche zu kennzeichnen.
 
 
 ## § 9 Anforderungen an das Risswerk
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001002119)
 
 (1) Zum Risswerk gehören die in Anlage 3 Teil 1 aufgeführten
 Bestandteile. Für Form und Inhalt des Risswerks ist Anlage 3 Teil 2
@@ -231,6 +240,7 @@ Anlage 3 Teil 2 Nummer 17 Buchstabe a bis c, e und f.
 
 
 ## § 10 Nachtragungsfristen für das Risswerk
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001102119)
 
 (1) Der Unternehmer hat das Risswerk innerhalb der in Anlage 4 Teil 1
 festgesetzten Fristen vollständig nachtragen und die Angaben nach
@@ -282,6 +292,7 @@ c)  die Durchführung der Bergaufsicht.
 
 
 ## § 11 Mitteilungen, nachträgliche Vermessung
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001202119)
 
 Der Unternehmer hat sicherzustellen, dass
 
@@ -324,6 +335,7 @@ Der Unternehmer hat sicherzustellen, dass
 
 
 ## § 12 Ausnahmen von dem Erfordernis des Grubenbildes
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001302119)
 
 (1) Die zuständige Behörde kann in Einzelfällen für
 
@@ -422,6 +434,7 @@ der sonstigen Unterlagen des Risswerkes.
 
 
 ## § 13 Anerkennung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001402119)
 
 (1) Die zuständige Behörde kann zur Anfertigung und Nachtragung
 sonstiger Unterlagen nach § 63 Absatz 2 Satz 1 Nummer 2 des
@@ -469,6 +482,7 @@ Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 
 ## § 14 Anzeigen, Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001501119)
 
 Personen nach § 2 Absatz 4 Satz 1 sind verpflichtet,
 
@@ -529,6 +543,7 @@ Personen nach § 2 Absatz 4 Satz 1 sind verpflichtet,
 
 
 ## § 15 Anforderungen an Messungen von bergbaubedingten Bodenbewegungen
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001602119)
 
 (1) Für Messungen zur Erfassung von bergbaubedingten Bodenbewegungen
 sind nur Verfahren zulässig, die für diesen Zweck geeignet sind.
@@ -555,6 +570,7 @@ Entsprechend sind auch die Ergebnisse der Messungen darzustellen.
 
 
 ## § 16 Anforderungen an Gebiete nach § 125 Absatz 2 des Bundesberggesetzes
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001702119)
 
 Messungen nach § 15 Absatz 3 dürfen nur für Gebiete verlangt werden,
 in denen
@@ -582,14 +598,17 @@ Sachgüter entstehen.
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001802119)
 
 
 
 ## § 18 (Inkrafttreten, abgelöste Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE001901119)
 
 
 
 ## Anlage 1 (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE002002119)
 
 (Fundstelle: BGBl. I 2020, 1708 - 1710)
 
@@ -1060,6 +1079,7 @@ Sachgüter entstehen.
 
 
 ## Anlage 2 (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE002102119)
 
 (Fundstelle: BGBl. I 2020, 1711 - 1712)
 
@@ -1239,6 +1259,7 @@ Sachgüter entstehen.
 
 
 ## Anlage 3 (zu den §§ 9, 12 und 13)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE002203119)
 
 (Fundstelle: BGBl. I 2020, 1713 - 1721)
 
@@ -2746,6 +2767,7 @@ Sachgüter entstehen.
 
 
 ## Anlage 4 (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/markschbergv/BJNR026310986.html#BJNR026310986BJNE002302119)
 
 (Fundstelle: BGBl. I 2020, 1722 - 1723)
 

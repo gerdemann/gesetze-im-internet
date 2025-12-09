@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG000100311)
 
 
 
 ### § 1 Erlöschen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE001800311)
 
 (1) Ansprüche gegen
 
@@ -56,6 +58,7 @@ weitergehende Entschädigung als notwendig erweisen sollte.
 
 
 ### § 2 Gleichgestellte Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE001900311)
 
 Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
@@ -99,6 +102,7 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 
 ### § 3 Dem Gesetz nicht unterliegende Schäden und Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002000311)
 
 (1) Einer besonderen gesetzlichen Regelung bleiben vorbehalten
 
@@ -151,10 +155,12 @@ jedoch bis zum 31. März 1968, nicht verlangt werden.
 
 
 ## Zweiter Teil - Zu erfüllende Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG000200311)
 
 
 
 ### § 4 Ansprüche aus der Nachkriegszeit
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002100311)
 
 (1) Zu erfüllen sind
 
@@ -193,6 +199,7 @@ jedoch bis zum 31. März 1968, nicht verlangt werden.
 
 
 ### § 5 Versorgungs- und Schadensersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE013000311)
 
 (1) Zu erfüllen sind
 
@@ -250,6 +257,7 @@ Vorschriften dieses Gesetze nicht berührt.
 
 
 ### § 6 Wohnsitzvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002200311)
 
 (1) Ansprüche der in § 5 bezeichneten Art sind nur unter der
 Voraussetzung zu erfüllen, daß sie am 31. Dezember 1952 oder, falls
@@ -357,6 +365,7 @@ Person eines der Mitberechtigten gegeben sind.
 
 
 ### § 7 Ansprüche aus gegenseitigen Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002300311)
 
 (1) Zu erfüllen sind Ansprüche (§ 1) aus einem gegenseitigen Vertrag,
 den ein in § 1 Abs. 1 genannter Rechtsträger vor dem 1. August 1945
@@ -402,6 +411,7 @@ verlangt.
 
 
 ### § 8 Auflösung von Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002400311)
 
 (1) Ist bei einem Vertrag der in § 7 Abs. 1 bezeichneten Art innerhalb
 der in § 7 Abs. 1 oder 2 bezeichneten Fristen erklärt worden, daß an
@@ -441,6 +451,7 @@ unberührt, soweit sich nicht aus §§ 19, 20 etwas anderes ergibt.
 
 
 ### § 9 Ansprüche aus Grundstücksübereignungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002501301)
 
 (1) Zu erfüllen sind Ansprüche (§ 1) auf Leistung eines Kaufpreises,
 einer Enteignungsentschädigung oder eines sonstigen Entgelts für im
@@ -484,6 +495,7 @@ Klageerhebung nicht entgegen.
 
 
 ### § 10 Ansprüche aus Grundpfandrechten
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002600311)
 
 Zu erfüllen sind Ansprüche (§ 1) aus Hypotheken, Grundschulden,
 Rentenschulden, Reallasten und Schiffshypotheken sowie die durch diese
@@ -495,6 +507,7 @@ vor dem 1. August 1945 bestellt worden sind.
 
 
 ### § 11 Ansprüche auf Nutzungsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002700311)
 
 Ansprüche (§ 1) auf Nutzungsentschädigung, die auf einem vor dem 1.
 August 1945 begründeten Rechtsverhältnis beruhen und für die Zeit nach
@@ -511,6 +524,7 @@ gilt als im Zeitpunkt der Inbesitznahme der Sache vereinbart.
 
 
 ### § 12 Ansprüche aus Verwahrungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002800311)
 
 Zu erfüllen sind
 
@@ -530,6 +544,7 @@ Zu erfüllen sind
 
 
 ### § 13 Ansprüche auf Abgabe von Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE002900311)
 
 Zu erfüllen sind Ansprüche (§ 1) auf Erteilung von Auskünften,
 Quittungen, Arbeitsbescheinigungen, Zeugnissen und ähnlichen
@@ -540,6 +555,7 @@ wirklichen Rechtslage nicht mehr im Einklang steht.
 
 
 ### § 14 Ansprüche aus Urteilen und Schiedssprüchen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003000311)
 
 Zu erfüllen sind Ansprüche (§ 1), soweit durch rechtskräftiges Urteil
 oder Schiedsspruch der Bund, ein Land oder ein sonstiger öffentlicher
@@ -550,6 +566,7 @@ worden ist.
 
 
 ### § 15 Ausgleichsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003100311)
 
 Haftet neben einem der in § 1 Abs. 1 genannten Rechtsträger wegen
 eines nach diesem Gesetz zu erfüllenden Anspruchs (§ 1) ein anderer
@@ -561,6 +578,7 @@ erfüllen.
 
 
 ### § 16 Gesetzeskonkurrenz
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003200311)
 
 Ist ein Anspruch (§ 1) nach einer Vorschrift dieses Teils zu erfüllen,
 so steht dieser Erfüllungsverpflichtung nicht entgegen, daß der
@@ -569,6 +587,7 @@ geringerem Umfang zu erfüllen ist.
 
 
 ### § 17 Zulässigkeit von Aufrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003300311)
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem
 Anspruch (§ 1), dessen Erfüllung in diesem Gesetz nicht vorgesehen
@@ -577,12 +596,14 @@ anzuwenden.
 
 
 ### § 18 Umstellung von Reichsmarkansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003400311)
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der in §§ 4 bis 15 und
 19 bezeichneten, bisher nicht umgestellten Ansprüche außer Kraft.
 
 
 ### § 19 Ansprüche aus dinglichen Rechten und aus der Beeinträchtigung dieser Rechte
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003500311)
 
 (1) Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer
 Sache auf Herausgabe der Sache sind zu erfüllen. Bei einem Anspruch
@@ -625,6 +646,7 @@ sie gesicherten Ansprüche (§ 1) nicht zu erfüllen sind.
 
 
 ### § 20 Verweigerung der Herausgabe von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003600311)
 
 (1) Der Anspruchsschuldner (§ 25) kann, auch wenn ihm ein Recht zum
 Besitz nicht zusteht, die Herausgabe eines Grundstücks an den
@@ -650,6 +672,7 @@ berufen.
 
 
 ### § 21 Beweisregel
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003700311)
 
 Ist streitig, ob ein Anspruch (§ 1) erfüllt ist, und sind die
 Beweismittel infolge des Krieges oder des Zusammenbruchs
@@ -661,6 +684,7 @@ Rechtsträger.
 
 
 ### § 22 Enteignungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003800311)
 
 (1) Soweit ein Grundstück, das ein in § 1 Abs. 1 genannter
 Rechtsträger anders als auf Grund eines Kauf- oder Tauschvertrages in
@@ -719,6 +743,7 @@ I S. 134) sinngemäß mit folgender Maßgabe:
 
 
 ### § 23 Erwerbspflicht der öffentlichen Hand bei Grundstücksbesitz
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE003900311)
 
 Hat ein in § 1 Abs. 1 genannter Rechtsträger den Zustand eines
 herauszugebenden Grundstücks oder eines Teils dieses Grundstücks so
@@ -742,6 +767,7 @@ angeboten hat. Die Höhe der Entschädigung bestimmt sich nach § 22 Abs.
 
 
 ### § 24 Erwerbspflicht der öffentlichen Hand bei Grundstücksbeeinträchtigungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004000311)
 
 Ist ein Anspruch aus § 1004 des Bürgerlichen Gesetzbuchs im Falle der
 Beeinträchtigung des Eigentums oder eines anderen Rechts an einem
@@ -751,6 +777,7 @@ dem Grundstück zu behalten, so ist § 23 entsprechend anzuwenden.
 
 
 ### § 25 Anspruchsschuldner
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004100311)
 
 (1) In den Fällen der §§ 4 bis 24 ist Anspruchsschuldner der Bund.
 
@@ -787,6 +814,7 @@ Anspruchsschuldner.
 
 
 ### § 26 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004200311)
 
 Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können
 Leistungen nur verlangt werden, soweit die Ansprüche bei den
@@ -794,6 +822,7 @@ Anmeldestellen (§ 27) fristgerecht (§ 28) angemeldet worden sind.
 
 
 ### § 27 Anmeldestellen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004304301)
 
 (1) Anmeldestellen für die nach diesem Gesetz vom Bund zu erfüllenden
 Ansprüche sind
@@ -828,6 +857,7 @@ Geschäftsbereichs.
 
 
 ### § 28 Anmeldefrist, Nachsichtgewährung
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004401301)
 
 (1) Die in §§ 4, 5, 9, 10, 11, 12 Nr. 2 und § 19 Abs. 2 bezeichneten
 Ansprüche können nur innerhalb einer Frist von einem Jahr nach dem
@@ -870,6 +900,7 @@ Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
 
 
 ### § 29 Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004500311)
 
 Lehnt eine Anmeldestelle (§ 27) die Erfüllung eines nach § 26
 angemeldeten Anspruchs ab, so kann der Anspruch nur innerhalb von
@@ -883,52 +914,64 @@ geltend gemacht wird.
 
 
 ## Dritter Teil - Ablösung von Kapitalanlagen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG000300311)
 
 
 
 ### (XXXX) §§ 30 bis 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE004601301)
 
 
 
 ## Vierter Teil
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG000601309)
 
 
 
 ### (XXXX) §§ 68 bis 84
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE008401309)
 
 
 
 ## Fünfter Teil
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001001309)
 
 
 
 ### § 85
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010101309)
 
 -
 
 
 ## Sechster Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001100311)
 
 
 
 ### Erster Abschnitt - Vertragshilfevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001200311)
 
 
 
 #### Erster Titel
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001300311)
 
 
 
 ##### § 86
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010200311)
 
 -
 
 
 #### Zweiter Titel - Stundung und Herabsetzung von Ansprüchen aus Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001400311)
 
 
 
 ##### § 87 Stundung und Herabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010300311)
 
 (1) Verbindlichkeiten aus Inhaber- oder Orderschuldverschreibungen,
 die vor dem 21. Juni 1948 als Teile einer Gesamtemission begeben
@@ -948,6 +991,7 @@ anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
 
 ##### § 88 Vertretung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010401160)
 
 (1) Die Rechte der Gesamtheit der Gläubiger werden in dem Verfahren
 von einem oder mehreren Vertretern wahrgenommen. Die Befugnis der
@@ -983,6 +1027,7 @@ ermächtigenden Beschlusses der Gläubigerversammlung befugt; § 5 Absatz
 
 
 ##### § 89 Versammlung der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010501160)
 
 Für die Einberufung und die Beschlüsse der Versammlung gelten die
 Vorschriften des Schuldverschreibungsgesetzes entsprechend, soweit
@@ -990,6 +1035,7 @@ sich aus diesem Gesetz nichts anderes ergibt.
 
 
 ##### § 90 Besonderheiten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010601160)
 
 (1) Dem Antrag (§ 87 Abs. 1 Satz 2) ist eine Ausfertigung der nach §
 16 Absatz 3 des Schuldverschreibungsgesetzes aufgenommenen
@@ -1001,6 +1047,7 @@ einheitlich ergehen. Sie wirkt für und gegen alle Gläubiger. § 19 Abs.
 
 
 ##### § 91 Frühere Vertragshilfeentscheidungen, Erledigung anhängiger Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010700311)
 
 (1) Gerichtliche Entscheidungen, die in Vertragshilfeverfahren über
 Ansprüche der in § 87 Abs. 1 Satz 1 bezeichneten Art ergangen und vor
@@ -1020,10 +1067,12 @@ Vertragshilfeverfahren fortgesetzt werden.
 
 
 ### Zweiter Abschnitt - Auflösung der auf Grund des Anleihestockgesetzes und der Dividendenabgabeverordnung gebildeten Treuhandvermögen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001500311)
 
 
 
 #### § 92 Verwaltung der nach dem Anleihestockgesetz und der Dividendenabgabeverordnung gebildeten Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010800311)
 
 (1) Die treuhänderische Verwaltung eines von einer Kapitalgesellschaft
 nach dem Gesetz über die Gewinnverteilung bei Kapitalgesellschaften
@@ -1055,6 +1104,7 @@ Voraussetzungen des § 33 Abs. 2 Nr. 3 erfüllen.
 
 
 #### § 93 Verwertung der Ablösungsschuld und Ausschüttung
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE010900311)
 
 (1) Innerhalb von drei Jahren nach Feststellung des Rechts auf
 Ablösung hat die Kapitalgesellschaft die auf die Ansprüche entfallende
@@ -1088,6 +1138,7 @@ Gesellschaft.
 
 
 #### § 94 Sondervermögen eigener Art
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011000311)
 
 §§ 92 und 93 sind sinngemäß auf einen Anleihestock und ein
 Treuhandvermögen anzuwenden, die für die Inhaber von Genußrechten und
@@ -1095,10 +1146,12 @@ Gewinnschuldverschreibungen gebildet worden sind.
 
 
 ### Dritter Abschnitt - Sonstige Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNG001600311)
 
 
 
 #### § 95 Unmittelbare Haftung der Beamten aus Amtspflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011100311)
 
 Wird ein Anspruch (§ 1), der auf einer in Ausübung öffentlicher Gewalt
 vorsätzlich begangenen Amtspflichtverletzung beruht, nach den
@@ -1107,11 +1160,13 @@ Amtspflichtverletzung begangen hat, in Anspruch genommen werden.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011200311)
 
 -
 
 
 #### § 97 Zusatzversorgungsanstalten des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011300311)
 
 § 24 des Umstellungsgesetzes findet auf die Zusatzversorgungsanstalten
 des öffentlichen Dienstes keine Anwendung. Zur Sicherstellung der
@@ -1120,6 +1175,7 @@ bleibt eine besondere gesetzliche Regelung vorbehalten.
 
 
 #### § 98 Ablösungsschuld der Deutschen Bundesbahn
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011400311)
 
 Die für die Verwaltung der allgemeinen Bundesschuld jeweils geltenden
 Vorschriften gelten sinngemäß für die Ablösungsschuld der Deutschen
@@ -1127,6 +1183,7 @@ Bundesbahn.
 
 
 #### § 99 Nachversicherung ausgeschiedener Angehöriger des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011505123)
 
 (1) Vor dem 9. Mai 1945 ausgeschiedene Angehörige des öffentlichen
 Dienstes, die von den in § 1 Abs. 1 genannten Rechtsträgern nach den
@@ -1212,12 +1269,14 @@ Abs. 10, 11 und § 81a des vorgenannten Gesetzes gelten entsprechend.
 
 
 #### § 100 Kraftloswerden von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011600311)
 
 Wertpapiere, in denen nach § 1 erlöschende Ansprüche verbrieft sind,
 werden mit dem Inkrafttreten dieses Gesetzes kraftlos.
 
 
 #### § 101 Londoner Schuldenabkommen
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011700311)
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und
 die zu seiner Ausführung ergangenen Vorschriften werden durch die
@@ -1225,6 +1284,7 @@ Vorschriften dieses Gesetzes nicht berührt.
 
 
 #### § 102 Ansprüche ausländischer und staatenloser Bürger
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011800311)
 
 (1) Die in § 27 Abs. 3 genannten Personen können auf Grund von
 Ansprüchen, für deren Anmeldung nach § 28 Abs. 1 eine Frist vorgesehen
@@ -1250,6 +1310,7 @@ anzuwenden.
 
 
 #### § 103 Gerichtliche Verfahren für Ansprüche ausländischer und staatenloser Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE011900311)
 
 (1) Die in § 27 Abs. 3 genannten Personen können auf Grund von
 Ansprüchen, für deren Anmeldung nach § 28 Abs. 1 eine Frist vorgesehen
@@ -1285,6 +1346,7 @@ an die Stelle des § 28 die Vorschrift des § 80.
 
 
 #### § 104 Regelungen von Verbindlichkeiten der Konversionskasse für deutsche Auslandsschulden
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012000311)
 
 (1) Die Regelungsangebote der Regierung der Bundesrepublik Deutschland
 für die dreiprozentigen im Inland zahlbaren Schuldverschreibungen und
@@ -1303,6 +1365,7 @@ Dezember 1952 die Voraussetzungen des § 33 Abs. 2 erfüllen.
 
 
 #### § 105 Leistungsausschluß für Tätigkeit gebietsfremder Behörden
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012100311)
 
 (1) Nach diesem Gesetz sind auf Grund von Ansprüchen gegen die in § 1
 Abs. 1 bezeichneten Rechtsträger Leistungen nicht zu gewähren, wenn
@@ -1319,6 +1382,7 @@ Zone unterliegen.
 
 
 #### § 106 Kosten anhängiger Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012200311)
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
@@ -1326,12 +1390,14 @@ gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
 
 #### § 107 Freistellung von Verwaltungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012300311)
 
 Polizeiliche Aufenthalts- und Wohnsitzbescheinigungen für Zwecke
 dieses Gesetzes sind gebührenfrei auszustellen.
 
 
 #### § 108 Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012400311)
 
 Die Verwaltungsbehörden und Gerichte, die öffentlich-rechtlichen
 Körperschaften und Anstalten und die Organisationen der
@@ -1342,6 +1408,7 @@ Gerichtsverfassungsgesetzes entsprechend.
 
 
 #### § 109 Sondervorschriften für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012501301)
 
 Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der
 Maßgabe, daß
@@ -1373,6 +1440,7 @@ treten.
 
 
 #### § 110 Sondervorschriften wegen des Saarlandes
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012601309)
 
 (1) Dieses Gesetz gilt wegen der besonderen Verhältnisse im Saarland
 mit folgender Maßgabe:
@@ -1406,6 +1474,7 @@ dies die Sach- und Rechtslage im Saarland erfordert.
 
 
 #### § 111 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012700311)
 
 Dieses Gesetz gilt nach Maßgabe der §§ 12, 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1415,12 +1484,14 @@ erlassen werden, gelten in Berlin (West) nach § 14 des Dritten
 
 
 #### § 112 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012800311)
 
 Das Gesetz tritt am ersten Tage des zweiten Monats nach seiner
 Verkündung in Kraft.
 
 
 #### Anlage (zu § 30)
+[Direktlink](https://www.gesetze-im-internet.de/akg/BJNR017470957.html#BJNR017470957BJNE012900311)
 
 Fundstelle des Originaltextes: BGBl. Teil III 653-1, S. 50 - 52
 

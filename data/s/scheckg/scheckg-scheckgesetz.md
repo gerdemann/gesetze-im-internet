@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001300306)
 
 Die Reichsregierung hat zur Durchführung der Abkommen zur
 Vereinheitlichung des Scheckrechts (Reichsgesetzbl. 1933 II S. 537)
@@ -27,10 +28,12 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 
 ## Erster Abschnitt - Ausstellung und Form des Schecks
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000100306)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001400306)
 
 Der Scheck enthält:
 
@@ -57,6 +60,7 @@ Der Scheck enthält:
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001500306)
 
 (1) Eine Urkunde, in der einer der im vorstehenden Artikel
 bezeichneten Bestandteile fehlt, gilt nicht als Scheck, vorbehaltlich
@@ -75,6 +79,7 @@ an dem Orte, der bei dem Namen des Ausstellers angegeben ist.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001600306)
 
 Der Scheck darf nur auf einen Bankier gezogen werden, bei dem der
 Aussteller ein Guthaben hat, und gemäß einer ausdrücklichen oder
@@ -85,12 +90,14 @@ Vorschriften nicht berührt.
 
 
 ### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001700306)
 
 Der Scheck kann nicht angenommen werden. Ein auf den Scheck gesetzter
 Annahmevermerk gilt als nicht geschrieben.
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001800306)
 
 (1) Der Scheck kann zahlbar gestellt werden:
 
@@ -115,6 +122,7 @@ Inhaber.
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE001900306)
 
 (1) Der Scheck kann an die eigene Order des Ausstellers lauten.
 
@@ -127,12 +135,14 @@ wird.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002000306)
 
 Ein in den Scheck aufgenommener Zinsvermerk gilt als nicht
 geschrieben.
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002100306)
 
 Der Scheck kann bei einem Dritten, am Wohnort des Bezogenen oder an
 einem anderen Orte, zahlbar gestellt werden, sofern der Dritte Bankier
@@ -140,6 +150,7 @@ ist.
 
 
 ### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002200306)
 
 (1) Ist die Schecksumme in Buchstaben und in Ziffern angegeben, so
 gilt bei Abweichungen die in Buchstaben angegebene Summe.
@@ -149,6 +160,7 @@ Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
 
 
 ### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002300306)
 
 Trägt ein Scheck Unterschriften von Personen, die eine
 Scheckverbindlichkeit nicht eingehen können, gefälschte
@@ -160,6 +172,7 @@ der übrigen Unterschriften keinen Einfluß.
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002400306)
 
 Wer auf einen Scheck seine Unterschrift als Vertreter eines anderen
 setzt, ohne hierzu ermächtigt zu sein, haftet selbst scheckmäßig und
@@ -169,12 +182,14 @@ seine Vertretungsbefugnis überschritten hat.
 
 
 ### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002500306)
 
 Der Aussteller haftet für die Zahlung des Schecks. Jeder Vermerk,
 durch den er diese Haftung ausschließt, gilt als nicht geschrieben.
 
 
 ### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002600306)
 
 Wenn ein Scheck, der bei der Begebung unvollständig war, den
 getroffenen Vereinbarungen zuwider ausgefüllt worden ist, so kann die
@@ -185,10 +200,12 @@ zur Last fällt.
 
 
 ## Zweiter Abschnitt - Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000200306)
 
 
 
 ### Art 14
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002700306)
 
 (1) Der auf eine bestimmte Person zahlbar gestellte Scheck mit oder
 ohne den ausdrücklichen Vermerk "an Order" kann durch Indossament
@@ -205,6 +222,7 @@ indossieren.
 
 
 ### Art 15
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002800306)
 
 (1) Das Indossament muß unbedingt sein. Bedingungen, von denen es
 abhängig gemacht wird, gelten als nicht geschrieben.
@@ -222,6 +240,7 @@ gezogen worden ist.
 
 
 ### Art 16
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE002900306)
 
 (1) Das Indossament muß auf den Scheck oder ein mit dem Scheck
 verbundenes Blatt (Anhang) gesetzt werden. Es muß von dem Indossanten
@@ -235,6 +254,7 @@ gesetzt werden.
 
 
 ### Art 17
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003000306)
 
 (1) Das Indossament überträgt alle Rechte aus dem Scheck.
 
@@ -256,6 +276,7 @@ gesetzt werden.
 
 
 ### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003100306)
 
 (1) Der Indossant haftet mangels eines entgegenstehenden Vermerks für
 die Zahlung.
@@ -266,6 +287,7 @@ indossiert wird.
 
 
 ### Art 19
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003200306)
 
 Wer einen durch Indossament übertragbaren Scheck in Händen hat, gilt
 als rechtmäßiger Inhaber, sofern er sein Recht durch eine
@@ -278,6 +300,7 @@ hat.
 
 
 ### Art 20
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003300306)
 
 Ein Indossament auf einem Inhaberscheck macht den Indossanten nach den
 Vorschriften über den Rückgriff haftbar, ohne aber die Urkunde in
@@ -285,6 +308,7 @@ einen Orderscheck umzuwandeln.
 
 
 ### Art 21
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003400306)
 
 Ist der Scheck einem früheren Inhaber irgendwie abhanden gekommen, so
 ist der Inhaber, in dessen Hände der Scheck gelangt ist - sei es, daß
@@ -296,6 +320,7 @@ Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
 
 ### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003500306)
 
 Wer aus dem Scheck in Anspruch genommen wird, kann dem Inhaber keine
 Einwendungen entgegensetzen, die sich auf seine unmittelbaren
@@ -305,6 +330,7 @@ Nachteil des Schuldners gehandelt hat.
 
 
 ### Art 23
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003600306)
 
 (1) Enthält das Indossament den Vermerk "Wert zur Einziehung", "zum
 Inkasso", "in Prokura" oder einen anderen nur eine Bevollmächtigung
@@ -322,6 +348,7 @@ Vollmachtgebers.
 
 
 ### Art 24
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003700306)
 
 (1) Ein Indossament, das nach Erhebung des Protests oder nach Vornahme
 einer gleichbedeutenden Feststellung oder nach Ablauf der
@@ -335,10 +362,12 @@ Vorlegungsfrist auf den Scheck gesetzt worden ist.
 
 
 ## Dritter Abschnitt - Scheckbürgschaft
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000300306)
 
 
 
 ### Art 25
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003800306)
 
 (1) Die Zahlung der Schecksumme kann ganz oder teilweise durch
 Scheckbürgschaft gesichert werden.
@@ -349,6 +378,7 @@ Unterschrift sich schon auf dem Scheck befindet.
 
 
 ### Art 26
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE003900306)
 
 (1) Die Bürgschaftserklärung wird auf den Scheck oder auf einen Anhang
 gesetzt.
@@ -365,6 +395,7 @@ wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 
 
 ### Art 27
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004000306)
 
 (1) Der Scheckbürge haftet in der gleichen Weise wie derjenige, für
 den er sich verbürgt hat.
@@ -379,10 +410,12 @@ alle, die diesem scheckmäßig haften.
 
 
 ## Vierter Abschnitt - Vorlegung und Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000400306)
 
 
 
 ### Art 28
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004100306)
 
 (1) Der Scheck ist bei Sicht zahlbar. Jede gegenteilige Angabe gilt
 als nicht geschrieben.
@@ -393,6 +426,7 @@ zahlbar.
 
 
 ### Art 29
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004201304)
 
 (1) Ein Scheck, der in dem Lande der Ausstellung zahlbar ist, muß
 binnen acht Tagen zur Zahlung vorgelegt werden.
@@ -414,6 +448,7 @@ der in dem Scheck als Ausstellungstag angegeben ist.
 
 
 ### Art 30
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004300306)
 
 Ist ein Scheck auf einen Ort gezogen, dessen Kalender von dem des
 Ausstellungsortes abweicht, so wird der Tag der Ausstellung in den
@@ -421,6 +456,7 @@ nach dem Kalender des Zahlungsortes entsprechenden Tag umgerechnet.
 
 
 ### Art 31
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004402301)
 
 (1) Die Einlieferung in eine Abrechnungsstelle steht der Vorlegung zur
 Zahlung gleich.
@@ -431,6 +467,7 @@ und unter welchen Voraussetzungen die Einlieferung erfolgen kann.
 
 
 ### Art 32
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004500306)
 
 (1) Ein Widerruf des Schecks ist erst nach Ablauf der Vorlegungsfrist
 wirksam.
@@ -440,6 +477,7 @@ Ablauf der Vorlegungsfrist Zahlung leisten.
 
 
 ### Art 33
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004600306)
 
 Auf die Wirksamkeit des Schecks ist es ohne Einfluß, wenn der
 Aussteller nach der Begebung des Schecks stirbt oder handlungsunfähig
@@ -447,6 +485,7 @@ wird.
 
 
 ### Art 34
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004700306)
 
 (1) Der Bezogene kann vom Inhaber gegen Zahlung die Aushändigung des
 quittierten Schecks verlangen.
@@ -458,6 +497,7 @@ dem Scheck vermerkt und ihm eine Quittung erteilt wird.
 
 
 ### Art 35
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004800306)
 
 Der Bezogene, der einen durch Indossament übertragbaren Scheck
 einlöst, ist verpflichtet, die Ordnungsmäßigkeit der Reihe der
@@ -465,6 +505,7 @@ Indossamente, aber nicht die Unterschriften der Indossanten zu prüfen.
 
 
 ### Art 36
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE004900306)
 
 (1) Lautet der Scheck auf eine Währung, die am Zahlungsorte nicht
 gilt, so kann die Schecksumme in der Landeswährung nach dem Werte
@@ -488,26 +529,31 @@ ist.
 
 
 ## Fünfter Abschnitt - Gekreuzter Scheck und Verrechnungsscheck
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000500306)
 
 
 
 ### Art 37
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005000301)
 
 -
 
 
 ### Art 38
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005100301)
 
 -
 
 
 ### Art 38a
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE008000377)
 
 Im Ausland ausgestellte gekreuzte Schecks werden im Inland als
 Verrechnungsschecks behandelt.
 
 
 ### Art 39
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005200306)
 
 (1) Der Aussteller sowie jeder Inhaber eines Schecks kann durch den
 quer über die Vorderseite gesetzten Vermerk "nur zur Verrechnung" oder
@@ -527,10 +573,12 @@ Schecksumme.
 
 
 ## Sechster Abschnitt - Rückgriff mangels Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000600306)
 
 
 
 ### Art 40
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005300306)
 
 Der Inhaber kann gegen die Indossanten, den Aussteller und die anderen
 Scheckverpflichteten Rückgriff nehmen, wenn der rechtzeitig vorgelegte
@@ -552,6 +600,7 @@ worden ist:
 
 
 ### Art 41
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005400306)
 
 (1) Der Protest oder die gleichbedeutende Feststellung muß vor Ablauf
 der Vorlegungsfrist vorgenommen werden.
@@ -562,6 +611,7 @@ folgenden Werktage vorgenommen werden.
 
 
 ### Art 42
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005500306)
 
 (1) Der Inhaber muß seinen unmittelbaren Vormann und den Aussteller
 von dem Unterbleiben der Zahlung innerhalb der vier Werktage
@@ -598,6 +648,7 @@ entstandenen Schaden, jedoch nur bis zur Höhe der Schecksumme.
 
 
 ### Art 43
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005600306)
 
 (1) Der Aussteller sowie jeder Indossant oder Scheckbürge kann durch
 den Vermerk "ohne Kosten", "ohne Protest" oder einen gleichbedeutenden
@@ -623,6 +674,7 @@ gleichbedeutenden Feststellung verpflichtet.
 
 
 ### Art 44
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005700306)
 
 (1) Alle Scheckverpflichteten haften dem Inhaber als Gesamtschuldner.
 
@@ -640,6 +692,7 @@ desjenigen, der zuerst in Anspruch genommen worden ist.
 
 
 ### Art 45
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005803377)
 
 Der Inhaber kann im Wege des Rückgriffs verlangen:
 
@@ -665,6 +718,7 @@ Der Inhaber kann im Wege des Rückgriffs verlangen:
 
 
 ### Art 46
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE005903377)
 
 Wer den Scheck eingelöst hat, kann von seinen Vormännern verlangen:
 
@@ -689,6 +743,7 @@ Wer den Scheck eingelöst hat, kann von seinen Vormännern verlangen:
 
 
 ### Art 47
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006000306)
 
 (1) Jeder Scheckverpflichtete, gegen den Rückgriff genommen wird oder
 genommen werden kann, ist berechtigt, zu verlangen, daß ihm gegen
@@ -701,6 +756,7 @@ Indossament und die Indossamente seiner Nachmänner ausstreichen.
 
 
 ### Art 48
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006100306)
 
 (1) Steht der rechtzeitigen Vorlegung des Schecks oder der
 rechtzeitigen Erhebung des Protestes oder der Vornahme einer
@@ -732,10 +788,12 @@ Feststellung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
 
 ## Siebenter Abschnitt - Ausfertigung mehrerer Stücke eines Schecks
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000700306)
 
 
 
 ### Art 49
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006200306)
 
 Schecks, die nicht auf den Inhaber gestellt sind und in einem anderen
 Lande als dem der Ausstellung oder in einem überseeischen Gebiet des
@@ -749,6 +807,7 @@ andernfalls gilt jede Ausfertigung als besonderer Scheck.
 
 
 ### Art 50
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006300306)
 
 (1) Wird eine Ausfertigung bezahlt, so erlöschen die Rechte aus allen
 Ausfertigungen, auch wenn diese nicht den Vermerk tragen, daß durch
@@ -762,10 +821,12 @@ worden sind.
 
 
 ## Achter Abschnitt - Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000800306)
 
 
 
 ### Art 51
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006400306)
 
 Wird der Text eines Schecks geändert, so haften diejenigen, die ihre
 Unterschrift nach der Änderung auf den Scheck gesetzt haben,
@@ -774,10 +835,12 @@ haftet nach dem ursprünglichen Text.
 
 
 ## Neunter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG000900306)
 
 
 
 ### Art 52
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006500306)
 
 (1) Die Rückgriffsansprüche des Inhabers gegen die Indossanten, den
 Aussteller und die anderen Scheckverpflichteten verjähren in sechs
@@ -790,6 +853,7 @@ gerichtlich geltend gemacht worden ist.
 
 
 ### Art 53
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006601377)
 
 Der Neubeginn der Verjährung und ihre Hemmung nach § 204 des
 Bürgerlichen Gesetzbuchs wirken nur gegen den Scheckverpflichteten, in
@@ -798,10 +862,12 @@ oder die Hemmung bewirkt.
 
 
 ## Zehnter Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG001000306)
 
 
 
 ### Art 54
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006700306)
 
 Als Bankiers im Sinne dieses Gesetzes sind anzusehen:
 
@@ -823,6 +889,7 @@ Als Bankiers im Sinne dieses Gesetzes sind anzusehen:
 
 
 ### Art 55
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006801304)
 
 (1) Die Vorlegung und der Protest eines Schecks können nur an einem
 Werktag, jedoch nicht an einem Sonnabend, stattfinden.
@@ -840,21 +907,25 @@ entsprechende Anwendung.
 
 
 ### Art 56
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE006900306)
 
 Bei der Berechnung der in diesem Gesetz vorgesehenen Fristen wird der
 Tag, an dem sie zu laufen beginnen, nicht mitgezählt.
 
 
 ### Art 57
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007000306)
 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 
 ## Elfter Abschnitt - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG001100306)
 
 
 
 ### Art 58
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007100306)
 
 (1) Der Aussteller, dessen Rückgriffsverbindlichkeit durch
 Unterlassung rechtzeitiger Vorlegung oder Verjährung erloschen ist,
@@ -866,6 +937,7 @@ Schecks.
 
 
 ### Art 59
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007200306)
 
 (1) Ein abhanden gekommener oder vernichteter Scheck kann im Wege des
 Aufgebotsverfahrens für kraftlos erklärt werden. Die Aufgebotsfrist
@@ -884,10 +956,12 @@ aufgenommenen Vermerks angegeben sein.
 
 
 ## Zwölfter Abschnitt - Geltungsbereich der Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNG001200306)
 
 
 
 ### Art 60
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007300306)
 
 (1) Die Fähigkeit einer Person, eine Scheckverbindlichkeit einzugehen,
 bestimmt sich nach dem Recht des Landes, dem sie angehört. Erklärt
@@ -903,6 +977,7 @@ Inländer im Ausland übernommen worden ist.
 
 
 ### Art 61
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007400306)
 
 (1) Das Recht des Landes, in dem der Scheck zahlbar ist, bestimmt die
 Personen, auf die ein Scheck gezogen werden kann.
@@ -915,6 +990,7 @@ vorsieht.
 
 
 ### Art 62
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007500306)
 
 (1) Die Form einer Scheckerklärung bestimmt sich nach dem Recht des
 Landes, in dessen Gebiete die Erklärung unterschrieben worden ist. Es
@@ -933,12 +1009,14 @@ den Formerfordernissen des inländischen Rechts genügt.
 
 
 ### Art 63
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007600306)
 
 Die Wirkungen der Scheckerklärungen bestimmen sich nach dem Recht des
 Landes, in dessen Gebiete die Erklärungen unterschrieben worden sind.
 
 
 ### Art 64
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007700306)
 
 Die Fristen für die Ausübung der Rückgriffsrechte werden für alle
 Scheckverpflichteten durch das Recht des Ortes bestimmt, an dem der
@@ -946,6 +1024,7 @@ Scheck ausgestellt worden ist.
 
 
 ### Art 65
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007800306)
 
 Das Recht des Landes, in dessen Gebiete der Scheck zahlbar ist,
 bestimmt:
@@ -994,6 +1073,7 @@ bestimmt:
 
 
 ### Art 66
+[Direktlink](https://www.gesetze-im-internet.de/scheckg/BJNR005970933.html#BJNR005970933BJNE007900306)
 
 Die Form des Protests und die Fristen für die Protesterhebung sowie
 die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der

@@ -33,12 +33,15 @@ Fundstelle
 
 
 ## Teil I - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen für Teile I, II und III
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000200000)
 
 
 #### § 1.01 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000200000)
 
 Diese Verordnung gilt für
 
@@ -68,6 +71,7 @@ soweit diese Verordnung nicht etwas anderes vorsieht.
 
 
 #### § 1.02 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000301119)
 
 In dieser Verordnung gelten als
 Fahrzeugarten
@@ -397,6 +401,7 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR0690Q0023BJNE000300000_3_BJNR0690Q0023BJNE000301119]: 
 
 #### § 1.03 Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000400000)
 
 
 1.  Die Zentralkommission für die Rheinschifffahrt kann Anordnungen
@@ -425,6 +430,7 @@ _\_\__\_\__\_\__\_\__\_\_
 
 
 #### § 1.04 Dienstanweisungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000500000)
 
 Zur Erleichterung und Vereinheitlichung der Anwendung dieser
 Verordnung kann die ZKR Dienstanweisungen für die zuständigen Behörden
@@ -432,6 +438,7 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 #### § 1.05 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000600000)
 
 
 1.  Alle Tätigkeiten, die von der zuständigen Behörde der Rheinuferstaaten
@@ -477,6 +484,7 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 #### § 1.06 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000700000)
 
 
 1.  Die zuständige Behörde sorgt dafür, dass unabhängige Stellen die
@@ -499,9 +507,11 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 ### Kapitel 2 - Register
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000300000)
 
 
 #### § 2.01 Erfassung in einem digitalen Register
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000800000)
 
 
 1.  Jedes von einer zuständigen Behörde ausgestellte Befähigungszeugnis,
@@ -529,15 +539,19 @@ _\_\__\_\__\_\__\_\__\_\_
 [^BJNR0690Q0023BJNE000800000_4]: 
 
 ## Teil II - Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000400000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000500000)
 
 
 #### Kapitel 3 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000600000)
 
 
 ##### § 3.01 Bezeichnung der Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE000900000)
 
 
 1.  Mitglieder der Decksmannschaft sind der Decksmann, Leichtmatrose,
@@ -555,6 +569,7 @@ _\_\__\_\__\_\__\_\__\_\_
 
 
 ##### § 3.02 Geltung von Besatzungsdokumenten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001000000)
 
 
 1.  Auf dem Rhein gelten Unionsbefähigungszeugnisse sowie
@@ -610,6 +625,7 @@ _\_\__\_\__\_\__\_\__\_\_
 
 
 ##### § 3.03 Ersatzausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001100000)
 
 Ist ein Befähigungszeugnis, Schifferdienstbuch oder Bordbuch
 unbrauchbar geworden, verloren gegangen oder sonst abhandengekommen,
@@ -623,6 +639,7 @@ ausstellenden Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
 
 
 ##### § 3.04 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001200000)
 
 Die Prüfung oder die Erteilung eines Befähigungszeugnisses,
 Schifferdienstbuches oder Bordbuches, einer Ersatzausfertigung und ein
@@ -632,9 +649,11 @@ ZKR jeweils entsprechend ihres nationalen Rechts.
 
 
 #### Kapitel 4 - Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000700000)
 
 
 ##### § 4.01 Tauglichkeit der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001300000)
 
 
 1.  Die Inhaber eines Befähigungszeugnisses müssen tauglich sein. Dies ist
@@ -661,6 +680,7 @@ ZKR jeweils entsprechend ihres nationalen Rechts.
 
 
 ##### § 4.02 Regelmäßige Überprüfung der Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001400000)
 
 
 1.  Der Nachweis der Tauglichkeit ist für alle Inhaber eines
@@ -698,6 +718,7 @@ ZKR jeweils entsprechend ihres nationalen Rechts.
 
 
 ##### § 4.03 Tauglichkeit des Maschinisten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001500000)
 
 Abweichend von § 4.01 Nummer 1 Satz 2 wird die Tauglichkeit des
 Inhabers eines Befähigungszeugnisses als Maschinist durch die
@@ -710,9 +731,11 @@ Farbsinnstörung aufweisen.
 
 
 #### Kapitel 5 - Schifferdienstbuch und Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000800000)
 
 
 ##### § 5.01 Schifferdienstbuch
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001600000)
 
 
 1.  Das gemäß dieser Verordnung ausgestellte Schifferdienstbuch für
@@ -768,6 +791,7 @@ Farbsinnstörung aufweisen.
 
 
 ##### § 5.02 Nachweis von Fahrzeiten und Streckenfahrten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001700000)
 
 
 1.  Die erforderlichen Streckenfahrten und die Fahrzeit sind anhand eines
@@ -829,9 +853,11 @@ Farbsinnstörung aufweisen.
 
 
 #### Kapitel 6 - Zugelassene Ausbildungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG000900000)
 
 
 ##### § 6.01 Zulassung eines Ausbildungsprogramms
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001801119)
 
 
 1.  Die zuständige Behörde kann ein Ausbildungsprogramm nur unter den
@@ -887,9 +913,11 @@ Farbsinnstörung aufweisen.
 
 
 #### Kapitel 7 - Zulassung zur und Durchführung der behördlichen Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001000000)
 
 
 ##### § 7.01 Zulassung zur behördlichen Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE001900000)
 
 
 1.  Nach Vorlage der vollständigen, jeweils erforderlichen
@@ -906,6 +934,7 @@ Farbsinnstörung aufweisen.
 
 
 ##### § 7.02 Inhalt der behördlichen Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002000000)
 
 
 1.  Der Kandidat hat vor einer Prüfungskommission nachzuweisen, dass er
@@ -925,6 +954,7 @@ Farbsinnstörung aufweisen.
 
 
 ##### § 7.03 Prüfungskommission für behördliche Befähigungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002100000)
 
 
 1.  Die zuständige Behörde bildet für die Abnahme der behördlichen
@@ -949,9 +979,11 @@ Farbsinnstörung aufweisen.
 
 
 #### Kapitel 8 - Überprüfung und Entzug der Befähigungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001100000)
 
 
 ##### § 8.01 Aussetzen der Gültigkeit des Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002200000)
 
 
 1.  Die zuständige Behörde kann die Gültigkeit eines Befähigungszeugnisses
@@ -992,6 +1024,7 @@ Farbsinnstörung aufweisen.
 
 
 ##### § 8.02 Entzug des Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002300000)
 
 
 1.  Erweist sich der Inhaber eines Befähigungszeugnisses als Schiffsführer
@@ -1050,6 +1083,7 @@ Farbsinnstörung aufweisen.
 
 
 ##### § 8.03 Sicherstellung des als physisches Dokument ausgestellten Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002400000)
 
 
 1.  Liegen dringende Gründe für die Annahme vor, dass ein
@@ -1085,12 +1119,15 @@ Farbsinnstörung aufweisen.
 
 
 ### Abschnitt 2 - Befähigungen auf Einstiegs- und Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001200000)
 
 
 #### Kapitel 9 - Anwendungsbereich dieses Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001300000)
 
 
 ##### § 9.01 Funktionen auf Einstiegs- und Betriebsebene; Maschinist
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002500000)
 
 
 1.  Zu den Funktionen auf der Einstiegsebene gehören der Decksmann und der
@@ -1105,9 +1142,11 @@ Farbsinnstörung aufweisen.
 
 
 #### Kapitel 10 - Voraussetzungen für den Erwerb der Befähigungszeugnisse auf Einstiegs- und Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001400000)
 
 
 ##### § 10.01 Mindestanforderungen in Bezug auf Alter, Einhaltung der Verwaltungsvorschriften, Befähigung und Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002600000)
 
 Für den Erwerb eines Befähigungszeugnisses müssen die Mitglieder der
 Decksmannschaft auf Einstiegs- und Betriebsebene folgende
@@ -1253,6 +1292,7 @@ Verwaltungsvorschriften, Befähigung und Fahrzeiten erfüllen:
 
 
 ##### § 10.02 Mindestanforderungen in Bezug auf Alter, Einhaltung der Verwaltungsvorschriften, Befähigung und Fahrzeiten des Maschinisten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002700000)
 
 Für den Erwerb eines Befähigungszeugnisses muss der Maschinist
 folgende Mindestanforderungen in Bezug auf Alter, Einhaltung der
@@ -1272,6 +1312,7 @@ b)  ein Mindestalter von 19 Jahren und eine Fahrzeit von mindestens 360
 
 
 ##### § 10.03 Gültigkeit und Ausstellung der Befähigungszeugnisse für die Einstiegs- und Betriebsebene
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002800000)
 
 
 1.  Die Gültigkeit der Befähigungszeugnisse für die Einstiegs- und die
@@ -1290,12 +1331,15 @@ b)  ein Mindestalter von 19 Jahren und eine Fahrzeit von mindestens 360
 
 
 ### Abschnitt 3 - Befähigungen auf Führungsebene
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001500000)
 
 
 #### Kapitel 11 - Patentpflicht und Patentarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001600000)
 
 
 ##### § 11.01 Patentpflicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE002900000)
 
 
 1.  Wer auf dem Rhein ein Fahrzeug führen will, bedarf eines
@@ -1342,6 +1386,7 @@ b)  ein Mindestalter von 19 Jahren und eine Fahrzeit von mindestens 360
 
 
 ##### § 11.02 Patentarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003000000)
 
 Nach dieser Verordnung sind zu unterscheiden
 
@@ -1362,9 +1407,11 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 #### Kapitel 12 - Erwerb der Patente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001700000)
 
 
 ##### § 12.01 Rheinpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003100000)
 
 
 1.  Jeder Bewerber muss die folgenden Voraussetzungen erfüllen:
@@ -1493,6 +1540,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.02 Sportpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003200000)
 
 
 1.  Jeder Bewerber muss zum Zeitpunkt der Ausstellung des Sportpatentes
@@ -1528,6 +1576,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.03 Behördenpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003300000)
 
 
 1.  Jeder Bewerber muss zum Zeitpunkt der Ausstellung des Behördenpatentes
@@ -1572,6 +1621,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.04 Antrag auf Zulassung zur behördlichen Befähigungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003400000)
 
 
 1.  Wer im Wege der behördlichen Befähigungsprüfung ein Befähigungszeugnis
@@ -1613,6 +1663,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.05 Befreiungen und Erleichterungen bei der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003500000)
 
 
 1.  Wer eine berufsbezogene Abschlussprüfung bestanden hat, kann von dem
@@ -1638,6 +1689,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.06 Prüfung im Rahmen eines zugelassenen Ausbildungsprogramms
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003600000)
 
 
 1.  Im Falle einer Prüfung im Rahmen eines zugelassenen
@@ -1664,6 +1716,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.07 Gültigkeit und Ausstellung der Befähigungszeugnisse als Schiffsführer
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003700000)
 
 
 1.  Das Rheinpatent (§ 12.01) wird unbeschadet der Bestimmungen des § 4.01
@@ -1695,6 +1748,7 @@ Diese Patente berechtigen auch zum Führen eines Fahrzeuges nach §
 
 
 ##### § 12.08 Vorläufiges Rheinpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003800000)
 
 Entscheidet sich der Bewerber nach dem Bestehen der Prüfung für ein
 physisches Dokument, erteilt die zuständige Behörde für den Zeitraum
@@ -1708,9 +1762,11 @@ ausstellen.
 
 
 #### Kapitel 13 - Erwerb der Besonderen Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001800000)
 
 
 ##### § 13.01 Besondere Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE003900000)
 
 
 1.  Wer ein Fahrzeug führt, benötigt eine besondere Berechtigung, wenn er
@@ -1775,6 +1831,7 @@ ausstellen.
 
 
 ##### § 13.02 Besondere Berechtigung für Radarfahrten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004000000)
 
 
 1.  Wer eine Radarfahrt durchführt, die in der
@@ -1812,6 +1869,7 @@ ausstellen.
 
 
 ##### § 13.03 Besondere Berechtigung für das Befahren von Wasserstraßen, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen sind
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004100000)
 
 
 1.  Wer auf einer Wasserstraße, die als Binnenwasserstraßenabschnitt mit
@@ -1894,6 +1952,7 @@ ausstellen.
 
 
 ##### § 13.04 Besondere Berechtigung für das Befahren von Binnenwasserstraßen mit maritimen Charakter
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004200000)
 
 
 1.  Wer ein Fahrzeug auf Binnenwasserstraßen mit maritimem Charakter
@@ -1916,6 +1975,7 @@ ausstellen.
 
 
 ##### § 13.05 Besondere Berechtigung für das Führen von Fahrzeugen, die mit Flüssigerdgas betrieben werden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004300000)
 
 Wer ein Fahrzeug führt, das mit Flüssigerdgas betrieben wird, benötigt
 hierfür eine besondere Berechtigung. Diese wird durch ein
@@ -1924,6 +1984,7 @@ dessen Erwerb sich nach den §§ 15.02 bis 15.04 bestimmt.
 
 
 ##### § 13.06 Besondere Berechtigung für das Führen von Großverbänden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004400000)
 
 
 1.  Wer einen Großverband führt, benötigt hierfür eine besondere
@@ -1946,12 +2007,15 @@ dessen Erwerb sich nach den §§ 15.02 bis 15.04 bestimmt.
 
 
 ### Abschnitt 4 - Befähigungen für besondere Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG001900000)
 
 
 #### Kapitel 14 - Sicherheitspersonal auf dem ADN unterliegenden Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002000000)
 
 
 ##### § 14.01 Verweis auf die Bestimmungen des ADN
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004500000)
 
 Unbeschadet der Bestimmungen der Richtlinie 2008/68/EG muss auf
 Schiffen, die gefährliche Güter befördern, eine Person gemäß den
@@ -1961,9 +2025,11 @@ sein.
 
 
 #### Kapitel 15 - Sicherheitspersonal auf mit Flüssigerdgas (LNG) betriebenen Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002100000)
 
 
 ##### § 15.01 Sachkunde und Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004600000)
 
 Der Schiffsführer und die Besatzungsmitglieder, die Inhaber eines
 Befähigungszeugnisses sind und am Bunkervorgang von Fahrzeugen
@@ -1972,6 +2038,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 15.02 Befähigungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004700000)
 
 
 1.  Die Sachkundigen für Flüssigerdgas weisen ihre Sachkunde und
@@ -1988,6 +2055,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 15.03 Lehrgang und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004800000)
 
 
 1.  Der Lehrgang für Sachkundige für LNG besteht aus einem theoretischen
@@ -2027,6 +2095,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 15.04 Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE004900000)
 
 
 1.  Die Zulassung von Lehrgängen erfolgt durch die zuständigen Behörden
@@ -2044,6 +2113,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 15.05 Kriterien zur Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005000000)
 
 
 1.  Die zuständige Behörde kann einen Lehrgang zulassen, wenn sie zu der
@@ -2106,6 +2176,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 15.06 Gültigkeit und Verlängerung des Befähigungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005100000)
 
 
 1.  Das Befähigungszeugnis hat eine Gültigkeitsdauer von fünf Jahren.
@@ -2141,9 +2212,11 @@ für Flüssigerdgas qualifiziert sein.
 
 
 #### Kapitel 16 - Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002200000)
 
 
 ##### § 16.01 Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005200000)
 
 
 1.  Auf jedem Fahrgastschiff muss sich Sicherheitspersonal in
@@ -2158,6 +2231,7 @@ für Flüssigerdgas qualifiziert sein.
 
 
 ##### § 16.02 Sachkundiger für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005300000)
 
 Um das Befähigungszeugnis als Sachkundiger für die Fahrgastschifffahrt
 zu erhalten, muss der Bewerber mindestens 18 Jahre alt sein und die
@@ -2177,6 +2251,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2
 
 
 ##### § 16.03 Basislehrgang für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005400000)
 
 
 1.  Personen, die die Aufgabe des Sachkundigen nach § 16.02 wahrnehmen
@@ -2213,6 +2288,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2
 
 
 ##### § 16.04 Auffrischungslehrgang für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005500000)
 
 
 1.  Vor Ablauf von fünf Jahren nach der erfolgreichen Teilnahme an dem
@@ -2236,6 +2312,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2
 
 
 ##### § 16.05 Zulassung von Lehrgängen für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005600000)
 
 
 1.  Die Zulassung von Lehrgängen erfolgt durch die zuständigen Behörden
@@ -2253,6 +2330,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2
 
 
 ##### § 16.06 Kriterien zur Zulassung von Lehrgängen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005700000)
 
 
 1.  Die zuständige Behörde kann einen Lehrgang oder einen
@@ -2315,6 +2393,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.04 Nummer 2
 
 
 ##### § 16.07 Ersthelfer
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005800000)
 
 Der Ersthelfer muss mindestens 17 Jahre alt sein und die erforderliche
 Befähigung besitzen. Diese gilt als vorhanden, wenn die betreffende
@@ -2331,6 +2410,7 @@ b)  regelmäßig an den Auffrischungslehrgängen nach § 16.09 teilgenommen
 
 
 ##### § 16.08 Atemschutzgeräteträger
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE005900000)
 
 Der Atemschutzgeräteträger muss mindestens 18 Jahre alt sein und die
 erforderliche Eignung besitzen, um die Atemschutzgeräte nach Artikel
@@ -2342,6 +2422,7 @@ regelmäßig an Auffrischungslehrgängen nach § 16.09 teilgenommen hat.
 
 
 ##### § 16.09 Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006000000)
 
 Die Lehrgänge und Auffrischungslehrgänge für Ersthelfer und
 Atemschutzgeräteträger müssen nach den Vorschriften eines der
@@ -2349,6 +2430,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 16.10 Art des Nachweises der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006100000)
 
 
 1.  Nach bestandener Abschlussprüfung gemäß § 16.03 Nummer 2 und auf
@@ -2389,6 +2471,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 16.11 Anzahl des Sicherheitspersonals
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006200000)
 
 
 1.  Die Funktionen des Sachkundigen für die Fahrgastschifffahrt, des
@@ -2507,6 +2590,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 16.12 Pflichten des Schiffsführers und des Sachkundigen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006300000)
 
 
 1.  Über die Bestimmungen der Rheinschifffahrtspolizeiverordnung hinaus
@@ -2561,6 +2645,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 16.13 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006400000)
 
 Solange sich Fahrgäste an Bord befinden, muss nachts stündlich ein
 Kontrollgang durchgeführt werden. Die Durchführung muss auf geeignete
@@ -2568,12 +2653,15 @@ Weise nachweisbar sein.
 
 
 ## Teil III - Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002300000)
 
 
 ### Kapitel 17 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002400000)
 
 
 #### § 17.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006500000)
 
 
 1.  Die Besatzung und das Sicherheitspersonal, die sich nach der
@@ -2636,6 +2724,7 @@ Weise nachweisbar sein.
 
 
 #### § 17.02 Gleichwertigkeit und Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006600000)
 
 
 1.  Schreiben die Bestimmungen dieses Teils vor, dass bestimmte
@@ -2667,9 +2756,11 @@ Weise nachweisbar sein.
 
 
 ### Kapitel 18 - Betriebsformen, Mindestruhezeit, Bordbuch
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002500000)
 
 
 #### § 18.01 Betriebsformen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006700000)
 
 
 1.  Es werden folgende Betriebsformen unterschieden:
@@ -2727,6 +2818,7 @@ Weise nachweisbar sein.
 
 
 #### § 18.02 Mindestruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006800000)
 
 
 1.  In der Betriebsform A1 hat jedes Besatzungsmitglied Anspruch auf eine
@@ -2786,6 +2878,7 @@ Weise nachweisbar sein.
 
 
 #### § 18.03 Wechsel oder Wiederholung der Betriebsform
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE006900000)
 
 
 1.  Abweichend von § 18.02 Nummer 1 und 3 ist ein Wechsel oder eine
@@ -2877,6 +2970,7 @@ Weise nachweisbar sein.
 
 
 #### § 18.04 Bordbuch – Fahrtenschreiber
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007000000)
 
 
 1.  Auf jedem Fahrzeug ist im Steuerhaus ein aktives Bordbuch nach dem im
@@ -2953,9 +3047,11 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 ### Kapitel 19 - Mindestbesatzungen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002600000)
 
 
 #### § 19.01 Ausrüstung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007100000)
 
 
 1.  Unbeschadet der Bestimmungen des ES-TRIN müssen Motorschiffe,
@@ -3091,6 +3187,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 #### § 19.02 Mindestbesatzung der Motorschiffe und Schubboote
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007200000)
 
 
 1.  Die Mindestbesatzung der Motorschiffe und Schubboote beträgt:
@@ -3418,6 +3515,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^BJNR0690Q0023BJNE007200000_3]: 
 
 #### § 19.03 Mindestbesatzung der starren Verbände und anderen starren Zusammenstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007300000)
 
 
 1.  Die Mindestbesatzung der starren Verbände und anderen starren
@@ -4015,6 +4113,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^BJNR0690Q0023BJNE007300000_4]: 
 
 #### § 19.04 Mindestbesatzung der Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007401119)
 
 
 1.  Die Mindestbesatzung der Tagesausflugsschiffe umfasst:
@@ -5278,6 +5377,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^BJNR0690Q0023BJNE007400000_3_BJNR0690Q0023BJNE007401119]: 
 
 #### § 19.05 Nichterfüllung des Ausrüstungsstandards nach § 19.01
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007500000)
 
 
 1.  Entspricht ein Motorschiff, ein Schubboot, ein starrer Verband, eine
@@ -5326,6 +5426,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 #### § 19.06 Mindestbesatzung der übrigen Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007600000)
 
 
 1.  Die Schiffsuntersuchungskommission setzt für Fahrzeuge, die nicht
@@ -5348,6 +5449,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 #### § 19.07 Mindestbesatzung von Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007700000)
 
 
 1.  Für die Festlegung der Mindestbesatzung von Seeschiffen ist Teil III
@@ -5386,6 +5488,7 @@ c)  werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 #### § 19.08 Mindestbesatzung von Kanalpenichen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007800000)
 
 Die Bestimmungen dieses Kapitels gelten nicht für Kanalpenichen. Die
 Besatzung muss jedoch mindestens umfassen:
@@ -5402,6 +5505,7 @@ Besatzung muss jedoch mindestens umfassen:
 
 
 #### § 19.09 Mindestbesatzung von Sportfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE007900000)
 
 Die Bestimmungen dieses Kapitels gelten nicht für Sportfahrzeuge.
 Die Besatzung muss jedoch mindestens umfassen:
@@ -5417,6 +5521,7 @@ Die Besatzung muss jedoch mindestens umfassen:
 
 
 #### § 19.10 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008000000)
 
 Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) genügen,
 sofern die deutsch-niederländische Grenze in der einen oder anderen
@@ -5426,12 +5531,15 @@ niederländischen „Binnenvaartwet“ (Staatsblad 2007 Nummer 498).
 
 
 ## Teil IV - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002700000)
 
 
 ### Kapitel 20 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNG002800000)
 
 
 #### § 20.01 Gültigkeit der Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008101119)
 
 
 1.  Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser
@@ -5503,6 +5611,7 @@ niederländischen „Binnenvaartwet“ (Staatsblad 2007 Nummer 498).
 
 
 #### § 20.02 Gültigkeit der Bordbücher
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008200000)
 
 
 1.  Bordbücher, die nach den bis zum Inkrafttreten dieser Verordnung
@@ -5522,6 +5631,7 @@ niederländischen „Binnenvaartwet“ (Staatsblad 2007 Nummer 498).
 
 
 #### § 20.03 Gültigkeit der bisherigen Rheinpatente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008300000)
 
 
 1.  Große oder Kleine Rheinpatente, die nach den bis zum Inkrafttreten
@@ -5555,6 +5665,7 @@ niederländischen „Binnenvaartwet“ (Staatsblad 2007 Nummer 498).
 
 
 #### § 20.04 Gültigkeit der Behörden- und Sportpatente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008400000)
 
 Die nach den bis zum Inkrafttreten dieser Verordnung geltenden
 Vorschriften gültigen Behörden- und Sportpatente bleiben im Rahmen
@@ -5562,6 +5673,7 @@ ihrer bisherigen Gültigkeit gültig.
 
 
 #### § 20.05 Gültigkeit der bisherigen Streckenkunde
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008500000)
 
 Der Inhaber eines Großen oder Kleinen Rheinpatentes, eines
 Behördenpatentes oder eines Sportpatentes, welches nach den bis zum
@@ -5574,6 +5686,7 @@ genannte Streckenkundeprüfung erfolgreich abgelegt worden ist.
 
 
 #### § 20.06 Gültigkeit der bisherigen Streckenzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008600000)
 
 
 1.  Hat der Inhaber eines auf dem Rhein als gleichwertig anerkannten
@@ -5591,6 +5704,7 @@ genannte Streckenkundeprüfung erfolgreich abgelegt worden ist.
 
 
 #### § 20.07 Gültigkeit der besonderen Berechtigung für Binnenwasserstraßen mit maritimem Charakter
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008700000)
 
 
 1.  Ein Großes oder Kleines Rheinpatent nach § 20.03 Nummer 1 berechtigt
@@ -5608,6 +5722,7 @@ genannte Streckenkundeprüfung erfolgreich abgelegt worden ist.
 
 
 #### § 20.08 Gültigkeit von Zeugnissen nach dem STCW-Übereinkommen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008800000)
 
 Mitglieder der Besatzung von Seeschiffen, die auf dem Rhein fahren,
 können ihre Befähigung durch ein Zeugnis nachweisen, das nach dem
@@ -5618,6 +5733,7 @@ einer Seefahrt erfolgt.
 
 
 #### § 20.09 Gültigkeit der Radarpatente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE008900000)
 
 
 1.  Radarpatente, die nach den bis zum Inkrafttreten dieser Verordnung
@@ -5641,6 +5757,7 @@ einer Seefahrt erfolgt.
 
 
 #### § 20.10 Gültigkeit der Qualifikation als Sicherheitspersonal auf Fahrgastschiffen oder als Sachkundiger für LNG
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009000000)
 
 
 1.  Die von den zuständigen Stellen nach den bis zum Inkrafttreten dieser
@@ -5665,6 +5782,7 @@ einer Seefahrt erfolgt.
 
 
 #### § 20.11 Anrechnung von Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009100000)
 
 Nach dieser Verordnung erforderliche Fahrzeiten können auch
 berücksichtigt werden, wenn sie nach den bis zum Inkrafttreten dieser
@@ -5672,6 +5790,7 @@ Verordnung geltenden Vorschriften erbracht worden sind.
 
 
 #### Anlage 1 Tauglichkeitsnachweis in der Binnenschifffahrt (Muster)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009200000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 37)
 
@@ -5791,6 +5910,7 @@ mit den folgenden Ergebnissen untersucht:
 [^BJNR0690Q0023BJNE009200000_1]: 
 
 #### Anlage 2 Prüfungsprogramm für den Erwerb eines Sportpatentes und Behördenpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009300000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 38 - 39)
 
@@ -6410,6 +6530,7 @@ mit den folgenden Ergebnissen untersucht:
 
 
 #### Anlage 3 Sportpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009400000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 40)
 
@@ -6419,6 +6540,7 @@ bekannt gemacht.
 
 
 #### Anlage 4 Behördenpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009500000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 40)
 
@@ -6428,6 +6550,7 @@ bekannt gemacht.
 
 
 #### Anlage 5 Besonderheiten für das Befahren von Abschnitten des Rheins, die als Binnenwasserstraßenabschnitte mit besonderen Risiken ausgewiesen wurden
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009600000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 41 – 43)
 
@@ -6905,6 +7028,7 @@ Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 
 
 #### Anlage 6 Bescheinigung Ersthelfer in der Fahrgastschifffahrt (Muster)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009700000)
 
 (Anlageband zum BGBl. 2023 II Nr. 105, S. 44)
 
@@ -7445,6 +7569,7 @@ Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 
 
 #### Anlage 7 Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt (Muster)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009800000)
 
    (Anlageband zum BGBl. 2023 II Nr. 105, S. 45)
 
@@ -7985,6 +8110,7 @@ Eigenschaften und Örtlichkeiten dieses Rheinabschnitts.
 
 
 #### Anlage 8 Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 18.03 Nummer 2 bis 6 (Muster)
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv_2023/BJNR0690Q0023.html#BJNR0690Q0023BJNE009900000)
 
    (Anlageband zum BGBl. 2023 II Nr. 105, S. 46)
 

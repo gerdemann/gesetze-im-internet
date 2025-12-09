@@ -20,49 +20,61 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000100306)
 
 
 
 ### (XXXX) Art 1 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE000800306)
 
 
 ## Zweiter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000200306)
 
 
 
 ### (XXXX) Art 20 bis 22
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE000900306)
 
 
 
 ## Dritter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000300306)
 
 
 
 ### (XXXX) Art 23 und 24
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001000306)
 
 
 
 ## Vierter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000400306)
 
 
 
 ### (XXXX) Art 25 bis 37
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001100306)
 
 
 
 ## Fünfter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000500306)
 
 
 
 ### (XXXX) Art 38 bis 40
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001200306)
 
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNG000600306)
 
 
 
 ### Art 41 Überleitungsvorschrift zum Lastenausgleichsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001300306)
 
 Soweit und solange der Gesamtbetrag der in der Unterhaltshilfe
 enthaltenen Zuschläge für Kinder und der nach § 267 Abs. 2 Nr. 5 des
@@ -76,6 +88,7 @@ Ausgleichszulage gewährt.
 
 
 ### Art 42 Übergangsregelung zum Gesetz über die Angleichung der Leistungen zur Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001400306)
 
 Ist Krankengeld oder Übergangsgeld in Höhe des Nettoentgelts für eine
 Zeit nach dem 28. Februar 1975 zu zahlen und liegt der
@@ -91,6 +104,7 @@ vom 1. Januar 1975 an, zu zahlen.
 
 
 ### Art 43 Übergangszuschlag nach dem Bundesversorgungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001500306)
 
 Soweit und solange die für die Kinder des Versorgungsberechtigten
 insgesamt gewährten Kinderzuschläge und ähnliche Leistungen infolge
@@ -103,6 +117,7 @@ wieder auf.
 
 
 ### Art 44 Übergangsregelung zum Arbeitsförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001602308)
 
 (1) Soweit die nach Inkrafttreten dieses Gesetzes geltenden
 Leistungssätze für das Unterhaltsgeld, das Arbeitslosengeld und die
@@ -140,10 +155,12 @@ Ansprüche auf Unterhaltsgeld nach § 44 Abs. 5 ist weiterhin § 44 Abs.
 
 
 ### Art 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001701140)
 
 
 
 ### Art 46 Übergangsregelung bei Außerkrafttreten zwischenstaatlicher Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001803308)
 
 (1) Kindergeld, das auf Grund von Abkommen der Bundesrepublik
 Deutschland mit Griechenland, Jugoslawien, Portugal, Spanien und der
@@ -212,20 +229,24 @@ Mark monatlich gezahlt werden.
 
 
 ### Art 47
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE001900306)
 
 -
 
 
 ### Art 48
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE002000306)
 
 -
 
 
 ### Art 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE002101140)
 
 
 
 ### Art 50 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/estrgeg/BJNR036560974.html#BJNR036560974BJNE002200306)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1975
 in Kraft.

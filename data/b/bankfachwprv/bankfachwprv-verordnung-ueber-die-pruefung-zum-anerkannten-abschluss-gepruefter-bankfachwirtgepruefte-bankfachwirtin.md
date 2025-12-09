@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001200310)
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die
@@ -36,6 +37,7 @@ Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000101128)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Bankfachwirt/zur
@@ -58,6 +60,7 @@ Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin.
 
 
 ## § 2 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000201128)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -140,6 +143,7 @@ Die zu prüfende Person hat Anspruch auf 20 Minuten Vorbereitungszeit.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000300310)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -174,6 +178,7 @@ Bankfachwirt/zur Bankfachwirtin bestanden hat.
 
 
 ## § 4 Grundlegende Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000401128)
 
 (1) Im Prüfungsbereich "Allgemeine Bankbetriebswirtschaft" soll die zu
 prüfende Person nachweisen, dass sie systematisch und
@@ -286,6 +291,7 @@ Rahmen können geprüft werden:
 
 
 ## § 5 Spezielle Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000501128)
 
 (1) Im Prüfungsbereich "Privatkundengeschäft" soll die zu prüfende
 Person nachweisen, dass sie die wirtschaftliche Bedeutung von
@@ -349,6 +355,7 @@ können geprüft werden:
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -362,6 +369,7 @@ Befreiung vom „Praxisorientierten Situationsgespräch“ nach § 2 Absatz
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -380,6 +388,7 @@ zu bewerten.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -408,6 +417,7 @@ Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -434,6 +444,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000801128)
 
 (1) Die nicht bestandene Prüfung kann zweimal wiederholt werden.
 
@@ -449,6 +460,7 @@ berücksichtigen.
 
 
 ## § 11 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE000901128)
 
 Wer die Prüfung zum "Geprüften Bankfachwirt/Geprüfte Bankfachwirtin"
 nach dieser Rechtsverordnung bestanden hat, ist vom schriftlichen Teil
@@ -458,6 +470,7 @@ Prüfungsteil.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001001128)
 
 (1) Die bis zum 31. Dezember 2000 begonnenen Prüfungsverfahren können
 nach den bisherigen Vorschriften bis zum 1. Juli 2002 zu Ende geführt
@@ -469,12 +482,14 @@ Abs. 2 findet in diesem Fall keine Anwendung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001101128)
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2210 - 2211)
 
@@ -776,6 +791,7 @@ Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/bankfachwprv/BJNR019300000.html#BJNR019300000BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2212)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000100317)
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März
@@ -31,6 +32,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000201307)
 
 Französische Prüfungszeugnisse werden den Zeugnissen über das Bestehen
 der Abschlußprüfung oder Gesellenprüfung in anerkannten
@@ -39,22 +41,26 @@ Aufstellung gleichgestellt.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000400317)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000500317)
 
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage Aufstellung der gleichgestellten Prüfungszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE000606308)
 
 (Fundstelle: BGBl. I 1985, 1760 - 1761;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -374,6 +380,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/prfgzfrankrv/BJNR008570977.html#BJNR008570977BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sodegverlv/BJNR200000020.html#BJNR200000020BJNE000100000)
 
 Auf Grund des § 5 Satz 4 des Sozialdienstleister-Einsatzgesetzes vom
 27\. März 2020 (BGBl. I S. 575, 578) verordnet die Bundesregierung:
 
 
 ## § 1 Verlängerung des Zeitraums für den besonderen Sicherstellungsauftrag nach dem Sozialdienstleister-Einsatzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sodegverlv/BJNR200000020.html#BJNR200000020BJNE000200000)
 
 Der in § 5 Satz 3 des Sozialdienstleister-Einsatzgesetzes vom 27. März
 2020 (BGBl. I S. 575, 578), das durch Artikel 6 des Gesetzes vom 20.
@@ -32,6 +34,7 @@ bis zum 31. Dezember 2020 verlängert.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sodegverlv/BJNR200000020.html#BJNR200000020BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

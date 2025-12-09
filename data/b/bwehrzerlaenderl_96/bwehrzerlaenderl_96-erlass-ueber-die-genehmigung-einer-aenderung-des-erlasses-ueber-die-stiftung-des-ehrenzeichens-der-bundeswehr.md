@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bwehrzerl_nderl_96/BJNR032100996.html#BJNR032100996BJNE000100310)
 
 Der Bundesminister der Verteidigung hat am 29. Januar 1996 den Erlaß
 vom 6. November 1980, geändert am 18. Februar 1991, über die Stiftung

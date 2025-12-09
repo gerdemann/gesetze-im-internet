@@ -28,6 +28,7 @@ Stand: Ersetzt V 8053-4-1 v. 11.6.1979 I 629 (TechArbmGV 1)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8.
 November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), der durch
@@ -42,9 +43,11 @@ des Ausschusses für Produktsicherheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000300000)
 
 (1) Diese Verordnung ist auf neue elektrische Betriebsmittel, die auf
 dem Markt bereitgestellt werden, anzuwenden, sofern diese elektrischen
@@ -92,6 +95,7 @@ Gleichstrom vorgesehen sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000401126)
 
 Im Sinne dieser Verordnung ist
 
@@ -133,6 +137,7 @@ anzuwenden.
 
 
 ### § 3 Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000500000)
 
 Elektrische Betriebsmittel dürfen nur dann auf dem Markt
 bereitgestellt werden, wenn sie
@@ -154,6 +159,7 @@ bereitgestellt werden, wenn sie
 
 
 ### § 4 Konformitätsvermutung auf der Grundlage harmonisierter Normen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000600000)
 
 Bei elektrischen Betriebsmitteln, die harmonisierten Normen oder
 Teilen dieser Normen entsprechen, deren Fundstellen im Amtsblatt der
@@ -163,6 +169,7 @@ Normen oder von Teilen dieser Normen abgedeckt sind.
 
 
 ### § 5 Konformitätsvermutung auf der Grundlage internationaler Normen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000700000)
 
 Bei elektrischen Betriebsmitteln, die den Sicherheitsbestimmungen der
 von der Internationalen Elektrotechnischen Kommission festgelegten
@@ -172,6 +179,7 @@ die Anforderungen nach § 3 erfüllen.
 
 
 ### § 6 Konformitätsvermutung auf der Grundlage nationaler Normen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000800000)
 
 Sofern keine harmonisierten Normen nach § 4 und keine internationalen
 Normen nach § 5 veröffentlicht worden sind, wird bei elektrischen
@@ -183,9 +191,11 @@ Sicherheitsniveau entsprechen.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNG000200000)
 
 
 ### § 7 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE000900000)
 
 (1) Der Hersteller stellt sicher, wenn er elektrische Betriebsmittel
 in den Verkehr bringt, dass sie nach den Anforderungen von § 3
@@ -239,6 +249,7 @@ ergriffenen Korrekturmaßnahmen.
 
 
 ### § 8 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001000000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine elektrischen
 Betriebsmittel beim Inverkehrbringen eine Typen-, Chargen- oder
@@ -282,6 +293,7 @@ er in den Verkehr gebracht hat.
 
 
 ### § 9 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001100000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -313,6 +325,7 @@ auf einen Bevollmächtigten übertragen.
 
 
 ### § 10 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001200000)
 
 (1) Der Einführer darf nur elektrische Betriebsmittel in den Verkehr
 bringen, die die Anforderungen dieser Verordnung erfüllen.
@@ -376,6 +389,7 @@ ergriffenen Korrekturmaßnahmen.
 
 
 ### § 11 Besondere Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001300000)
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seinen
 eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie
@@ -407,6 +421,7 @@ er in den Verkehr gebracht hat.
 
 
 ### § 12 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001400000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er ein elektrisches
@@ -466,6 +481,7 @@ hat.
 
 
 ### § 13 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001500000)
 
 Auf einen Einführer oder einen Händler sind die §§ 7 und 8
 entsprechend anzuwenden, wenn er
@@ -483,6 +499,7 @@ entsprechend anzuwenden, wenn er
 
 
 ### § 14 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001600000)
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf
 deren Verlangen die Wirtschaftsakteure,
@@ -501,9 +518,11 @@ nach der Abgabe des elektrischen Betriebsmittels vorlegen können.
 
 
 ## Abschnitt 3 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNG000300000)
 
 
 ### § 15 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001700000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 elektrisches Betriebsmittel ein Risiko für die Gesundheit oder
@@ -540,6 +559,7 @@ Union auf dem Markt bereitgestellt hat.
 
 
 ### § 16 Vorläufige Maßnahmen der Marktüberwachungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001800000)
 
 (1) Ergreift der Wirtschaftsakteur innerhalb der nach § 15 Absatz 2
 Satz 1 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so
@@ -607,6 +627,7 @@ wie etwa die Rücknahme des elektrischen Betriebsmittels.
 
 
 ### § 17 Konforme elektrische Betriebsmittel, die ein Risiko darstellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE001900000)
 
 (1) Stellt die Marktüberwachungsbehörde im Rahmen einer Beurteilung
 nach § 15 Absatz 1 fest, dass ein elektrisches Betriebsmittel ein
@@ -638,6 +659,7 @@ und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 
 ### § 18 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002000000)
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 15 fordert die
 Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf,
@@ -674,9 +696,11 @@ oder zurückgenommen wird.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNG000400000)
 
 
 ### § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002101126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -734,6 +758,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 20 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002201126)
 
 Wer eine in § 19 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -742,6 +767,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002300000)
 
 Elektrische Betriebsmittel, die die Anforderungen der Richtlinie
 2006/95/EG des Europäischen Parlaments und des Rates vom 12. Dezember
@@ -755,6 +781,7 @@ werden.
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002400000)
 
 Diese Verordnung tritt am 20. April 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Bereitstellung elektrischer Betriebsmittel zur
@@ -765,6 +792,7 @@ Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_1/BJNR050200016.html#BJNR050200016BJNE002500000)
 
 Der Bundesrat hat zugestimmt.
 

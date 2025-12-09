@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgforstano_2011/BJNR022200011.html#BJNR022200011BJNE000100000)
 
 Nach § 74 des Bundesbeamtengesetzes übertrage ich der Sprecherin oder
 dem Sprecher des Vorstands der Bundesanstalt für Immobilienaufgaben
@@ -28,6 +29,7 @@ erlassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgforstano_2011/BJNR022200011.html#BJNR022200011BJNE000200000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft.
 Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass
@@ -36,6 +38,7 @@ vom 8. April 1992 (BGBl. I S. 903) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgforstano_2011/BJNR022200011.html#BJNR022200011BJNE000300000)
 
 Der Bundespräsident
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000100305)
 
 Auf Grund
 
@@ -61,6 +62,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000202140)
 
 (1) Verbrauchsteuerpflichtige Waren, die aus einem Drittland oder
 Drittgebiet in das Steuergebiet eingeführt werden, sind, soweit in den
@@ -135,6 +137,7 @@ geltenden Fassung.
 
 
 ## § 2 Warenmuster oder -proben von geringem Wert
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000502140)
 
 (1) Die Steuerbefreiung nach § 1 Absatz 1 Nummer 1 Buchstabe c gilt
 nur für die nachstehend genannten verbrauchsteuerpflichtigen Waren und
@@ -170,6 +173,7 @@ der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr.
 
 
 ## § 3 Waren zu Prüfungs- und Analyse- oder Versuchszwecken
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000601140)
 
 Bei der Einfuhr von Waren zu Prüfungs-, Analyse- oder Versuchszwecken
 sind Energieerzeugnisse von der Verbrauchsteuerbefreiung
@@ -177,6 +181,7 @@ ausgeschlossen.
 
 
 ## § 4 Rückwaren
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000701140)
 
 Verbrauchsteuerpflichtige Rückwaren nach den Artikeln 185 bis 187 der
 Verordnung (EWG) Nr. 2913/92 und den Artikeln 844 bis 856 der
@@ -191,12 +196,14 @@ Waren gewährt, die in Artikel 185 Abs. 2 Buchstabe b der Verordnung
 
 
 ## § 5 Andere Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE000801140)
 
 Einzelsteuergesetze, die weitere, auch für eingeführte Waren geltende
 Verbrauchsteuerbefreiungen vorsehen, bleiben unberührt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/everbrstbv_1999/BJNR141400999.html#BJNR141400999BJNE001000305)
 
 Der Bundesrat hat zugestimmt.
 

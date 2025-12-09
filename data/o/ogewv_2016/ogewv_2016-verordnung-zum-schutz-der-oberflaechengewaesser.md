@@ -62,12 +62,14 @@ Stand: Ersetzt V 753-13-3 v. 20.7.2011 I 1429 (OGewV)
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000200000)
 
 Diese Verordnung dient dem Schutz der Oberflächengewässer und der
 wirtschaftlichen Analyse der Nutzungen ihres Wassers.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000300000)
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -123,6 +125,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 
 ## § 3 Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000400000)
 
 Nach Maßgabe der Anlage 1 werden folgende Bestimmungen zum 22.
 Dezember 2019 durch die zuständige Behörde überprüft und
@@ -152,6 +155,7 @@ gegebenenfalls aktualisiert.
 
 
 ## § 4 Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen; Bestandsaufnahme der Emissionen, Einleitungen und Verluste
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000501119)
 
 (1) Nach Maßgabe der Anlage 2 wird Folgendes zum 22. Dezember 2019
 durch die zuständige Behörde überprüft und gegebenenfalls
@@ -221,6 +225,7 @@ der Aktualisierung verwendet werden.
 
 
 ## § 5 Einstufung des ökologischen Zustands und des ökologischen Potenzials
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000600000)
 
 (1) Die Einstufung des ökologischen Zustands eines
 Oberflächenwasserkörpers richtet sich nach den in Anlage 3
@@ -281,6 +286,7 @@ geregelte Stoffe Folgendes:
 
 
 ## § 6 Einstufung des chemischen Zustands
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000700000)
 
 Die Einstufung des chemischen Zustands eines Oberflächenwasserkörpers
 richtet sich nach den in Anlage 8 Tabelle 2 aufgeführten
@@ -293,6 +299,7 @@ ab dem 22. Dezember 2018 berücksichtigt.
 
 
 ## § 7 Anforderungen bei überarbeiteten Umweltqualitätsnormen und bei Umweltqualitätsnormen für neue Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000800000)
 
 (1) Abweichend von § 29 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes
 ist der gute chemische Zustand zu erreichen
@@ -328,6 +335,7 @@ Absatz 1 Satz 1 Nummer 2 zu berücksichtigen.
 
 
 ## § 8 Oberflächenwasserkörper, die der Trinkwassergewinnung dienen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE000900000)
 
 (1) Unabhängig von den Bestimmungen der §§ 5 und 6 sind die
 Oberflächenwasserkörper, die für die Trinkwassergewinnung genutzt
@@ -340,6 +348,7 @@ sind im Bewirtschaftungsplan auf Karten darzustellen.
 
 
 ## § 9 Normen für die Überwachung der Qualitätskomponenten; Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001000000)
 
 (1) Die Methoden, die zur Überwachung der biologischen,
 hydromorphologischen und allgemeinen physikalisch-chemischen
@@ -365,6 +374,7 @@ insbesondere die Anforderungen nach Anlage 9 Nummer 2 zu erfüllen.
 
 
 ## § 10 Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001100000)
 
 (1) Die Überwachung der Oberflächenwasserkörper hinsichtlich ihres
 ökologischen Zustands oder ihres ökologischen Potenzials, ihres
@@ -389,6 +399,7 @@ auf Karten darzustellen.
 
 
 ## § 11 Überwachung von Stoffen der Beobachtungsliste
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001201119)
 
 (1) Die zuständigen Behörden überwachen die Stoffe der von der
 Europäischen Kommission erstellten Beobachtungsliste nach Artikel 8b
@@ -459,6 +470,7 @@ ist.
 
 
 ## § 12 Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001300000)
 
 (1) Die zuständige Behörde stellt den ökologischen Zustand oder das
 ökologische Potenzial eines Oberflächenwasserkörpers auf einer
@@ -494,6 +506,7 @@ natürlichen Hintergrundkonzentrationen festgestellt wurde.
 
 
 ## § 13 Zusätzliche Inhalte der Bewirtschaftungspläne; elektronisch zugängliches Portal
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001400000)
 
 (1) In die aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des
 Wasserhaushaltsgesetzes sind zusätzlich zu den Informationen nach § 83
@@ -534,6 +547,7 @@ der Richtlinie 2000/60/EG über ein zentrales Portal im Internet der
 
 
 ## § 14 Bewirtschaftungsziele für Stickstoff
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001500000)
 
 (1) Die Bewirtschaftungspläne und Maßnahmenprogramme in den
 Flussgebietseinheiten richten sich zum Schutz der Meeresgewässer an
@@ -577,6 +591,7 @@ Tabelle 1.
 
 
 ## § 15 Ermittlung langfristiger Trends
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001600000)
 
 (1) Im Rahmen der Überwachung nach § 10 ermittelt die zuständige
 Behörde nach Maßgabe von Anlage 13 Nummer 1 bis 4 den langfristigen
@@ -598,6 +613,7 @@ sind.
 
 
 ## § 16 Wirtschaftliche Analyse der Wassernutzungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001700000)
 
 (1) Die wirtschaftlichen Analysen der Wassernutzungen nach Artikel 5
 Absatz 1 dritter Gedankenstrich der Richtlinie 2000/60/EG, die
@@ -633,6 +649,7 @@ Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 (zu § 3 Satz 1, § 5 Absatz 2 Satz 1)
 
 ## Anlage 1 Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001800000)
 
 (Fundstelle: BGBl. I 2016,1379 - 1381)
 
@@ -1086,6 +1103,7 @@ am ähnlichsten ist.
 (zu § 4 Absatz 1)
 
 ## Anlage 2 Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE001900000)
 
 (Fundstelle: BGBl. I 2016,1382)
 
@@ -1206,6 +1224,7 @@ am ähnlichsten ist.
 1)
 
 ## Anlage 3 Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002000000)
 
 (Fundstelle: BGBl. I 2016,1383 - 1384)
 
@@ -1777,6 +1796,7 @@ am ähnlichsten ist.
 (zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 10 Absatz 2 Satz 1)
 
 ## Anlage 4 Einstufung des ökologischen Zustands und des ökologischen Potenzials
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002100000)
 
 (Fundstelle: BGBl. I 2016,1385 - 1396)
 
@@ -2910,6 +2930,7 @@ Physikalisch-chemische und chemische Qualitätskomponenten
 (zu § 5 Absatz 3)
 
 ## Anlage 5 Bewertungsverfahren und Grenzwerte der ökologischen Qualitätsquotienten für die verschiedenen Gewässertypen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002200000)
 
 (Fundstelle: BGBl. I 2016,1397 - 1409)
 
@@ -6321,6 +6342,7 @@ Physikalisch-chemische und chemische Qualitätskomponenten
 (zu § 2 Nummer 6, § 5 Absatz 5 Satz 1 und 2, § 10 Absatz 2 Satz 1)
 
 ## Anlage 6 Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002300000)
 
 (Fundstelle: BGBl. I 2016,1410 - 1413)
 
@@ -7481,6 +7503,7 @@ möglich ist.
 (zu § 5 Absatz 4 Satz 2)
 
 ## Anlage 7 Allgemeine physikalisch-chemische Qualitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002400000)
 
 (Fundstelle: BGBl. I 2016,1414 - 1423)
 
@@ -10300,6 +10323,7 @@ möglich ist.
 § 13 Absatz 1 Nummer 2a, § 15 Absatz 1 Satz 1 und 2)
 
 ## Anlage 8 Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002500000)
 
 (Fundstelle: BGBl. I 2016,1424 - 1431)
 
@@ -12631,6 +12655,7 @@ veröffentlicht in toxicological sciences 93(2), 223-241 (2006).
 § 13 Absatz 1 Nummer 2 Buchstabe a und b)
 
 ## Anlage 9 Anforderungen an Analysenmethoden, an Laboratorien und an die Beurteilung der Überwachungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002600000)
 
 (Fundstelle: BGBl. I 2016,1432 - 1433)
 
@@ -12832,6 +12857,7 @@ veröffentlicht in toxicological sciences 93(2), 223-241 (2006).
 § 13 Absatz 1 Nummer 3, § 14 Absatz 2)
 
 ## Anlage 10 Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002700000)
 
 (Fundstelle: BGBl. I 2016,1434 - 1438)
 
@@ -13514,6 +13540,7 @@ die aquatische Umwelt aufgrund einer akuten Exposition ermittelt wird.
 (zu § 11 Absatz 1 Satz 5)
 
 ## Anlage 11 Anforderungen an die Festlegung der repräsentativen Überwachungsstellen für Stoffe der Beobachtungsliste
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002800000)
 
 (Fundstelle: BGBl. I 2016,1439)
 
@@ -13605,6 +13632,7 @@ Behörden der Länder untereinander die Festlegung der
 § 12 Absatz 1, Absatz 2 Satz 1 und Absatz 3)
 
 ## Anlage 12 Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE002900000)
 
 (Fundstelle: BGBl. I 2016,1440 - 1441)
 
@@ -13791,6 +13819,7 @@ Behörden der Länder untereinander die Festlegung der
 (zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)
 
 ## Anlage 13 Ermittlung langfristiger Trends
+[Direktlink](https://www.gesetze-im-internet.de/ogewv_2016/BJNR137310016.html#BJNR137310016BJNE003000000)
 
 (Fundstelle: BGBl. I 2016,1442)
 

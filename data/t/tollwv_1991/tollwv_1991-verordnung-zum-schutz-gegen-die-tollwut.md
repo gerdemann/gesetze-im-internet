@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000102377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001406360)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -71,14 +73,17 @@ Im Sinne dieser Verordnung liegen vor:
 
 
 ## Abschnitt 2 - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000202377)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000302377)
 
 
 
 #### § 2 Impfungen und Heilversuche
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001503377)
 
 (1) Gegen die Tollwut darf nur mit Impfstoffen aus nicht
 vermehrungsfähigen (inaktivierten) Erregern geimpft werden. Impfungen
@@ -102,6 +107,7 @@ erforderlich ist.
 
 
 #### § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001602377)
 
 Die zuständige Behörde kann Ausnahmen zulassen, sofern Belange der
 Tierseuchenbekämpfung nicht entgegenstehen,
@@ -123,6 +129,7 @@ Tierseuchenbekämpfung nicht entgegenstehen,
 
 
 #### § 3a Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE003301377)
 
 Die zuständige Behörde hat
 
@@ -145,6 +152,7 @@ mitgeteilt werden.
 
 
 #### § 4 Anzeige von Ausstellungen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001703377)
 
 (1) Hunde- und Katzenausstellungen sowie Veranstaltungen ähnlicher Art
 mit Hunden und Katzen im gefährdeten Bezirk sind der zuständigen
@@ -161,6 +169,7 @@ aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 
 #### § 5 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001804377)
 
 In einem gefährdeten Bezirk ist es verboten, Hunde außerhalb
 geschlossener Räume frei laufen zu lassen oder mit sich zu führen,
@@ -172,14 +181,17 @@ entweichen können, und für Jagdhunde bei jagdlicher Verwendung.
 
 
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln bei Haustieren
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000402377)
 
 
 
 #### A. - Vor amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000502377)
 
 
 
 ##### § 6
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE001903377)
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Tollwut in
 einem Betrieb oder an einem sonstigen Standort gilt vor der amtlichen
@@ -210,10 +222,12 @@ Feststellung für seuchenverdächtige Haustiere Folgendes:
 
 
 #### B. - Nach amtlicher Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000602377)
 
 
 
 ##### § 7 Tötung und unschädliche Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002002377)
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs der Tollwut in
 einem Betrieb oder an einem sonstigen Standort amtlich festgestellt,
@@ -241,6 +255,7 @@ Erzeugnisse solcher Tiere sind verboten.
 
 
 ##### § 8 Schutzmaßregeln für den gefährdeten Bezirk
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002104377)
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs der Tollwut bei
 einem Haustier oder einem wild lebenden Tier, ausgenommen bei einer
@@ -273,6 +288,7 @@ geben. Die Absätze 2 und 3 gelten entsprechend.
 
 
 ##### § 9 Schutzmaßregeln bei Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002203377)
 
 (1) Für Hunde und Katzen ordnet die zuständige Behörde die sofortige
 Tötung an, wenn anzunehmen ist, dass sie mit seuchenkranken Tieren in
@@ -302,6 +318,7 @@ entgegenstehen.
 
 
 ##### § 10 Behördliche Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002303377)
 
 (1) Die Dauer der behördlichen Beobachtung nach § 9 Absatz 2 und 3
 beträgt sechs Monate. Die zuständige Behörde kann die Dauer bis auf
@@ -325,10 +342,12 @@ Gründen der Seuchenbekämpfung erforderlich ist.
 
 
 ### Unterabschnitt 3 - Besondere Schutzmaßregeln bei wild lebenden Tieren
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000702377)
 
 
 
 #### § 11 Schutzmaßregeln im Verdachtsfall
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002403377)
 
 Jagdausübungsberechtigte haben dafür zu sorgen, dass
 seuchenverdächtigen wild lebenden Tieren sofort nachgestellt wird und
@@ -342,6 +361,7 @@ der zuständigen Behörde mitzuteilen, wo es sich befindet.
 
 
 #### § 12 Schutzmaßregeln nach Feststellung des Ausbruchs und in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002505377)
 
 (1) Ist der Ausbruch der Tollwut bei einem wild lebenden Tier,
 ausgenommen bei einer Fledermaus, amtlich festgestellt worden oder
@@ -378,6 +398,7 @@ Bezirk andauern.
 
 
 #### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE003401377)
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder
 Drittlandes der Ausbruch oder der Verdacht des Ausbruchs der Tollwut
@@ -388,10 +409,12 @@ Kenntnis gebracht, so kann diese Maßnahmen nach § 12 anordnen.
 
 
 ### Unterabschnitt 4 - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000802377)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002603377)
 
 Nach Tötung und unschädlicher Beseitigung der verdächtigen Tiere muss
 der Besitzer die Ställe oder sonstigen Standorte sowie sämtliche
@@ -401,10 +424,12 @@ desinfizieren.
 
 
 ### Unterabschnitt 5 - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG000902377)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002705377)
 
 (1) Die zuständige Behörde hebt Schutzmaßregeln auf, die sie wegen des
 Ausbruchs oder des Verdachts des Ausbruchs der Tollwut bei einem
@@ -446,10 +471,12 @@ als tollwutfrei bestimmen, soweit
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG001003377)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE002805301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -513,6 +540,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 15a Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE003502301)
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Tollwut bei
 einem Haustier oder einem wild lebenden Tier weitergehende Maßnahmen
@@ -524,11 +552,13 @@ entgegenstehen, bleibt unberührt.
 
 
 ## Abschnitt 4 - (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNG001102377)
 
 
 (zu § 12 Absatz 1)
 
 ### Anlage Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
+[Direktlink](https://www.gesetze-im-internet.de/tollwv_1991/BJNR011680991.html#BJNR011680991BJNE003601377)
 
 (Fundstelle: BGBl. I 2010, 1319)
 

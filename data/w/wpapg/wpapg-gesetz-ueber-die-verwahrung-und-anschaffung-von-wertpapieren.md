@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE000708360)
 
 (1) Wertpapiere im Sinne dieses Gesetzes sind Aktien, Kuxe,
 Zwischenscheine, Zins-, Gewinnanteil- und Erneuerungsscheine, auf den
@@ -49,10 +50,12 @@ Kerndienstleistung im Inland erbringen.
 
 
 ## 1. Abschnitt - Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNG000101307)
 
 
 
 ### § 2 Sonderverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE000802307)
 
 Der Verwahrer ist verpflichtet, die Wertpapiere unter äußerlich
 erkennbarer Bezeichnung jedes Hinterlegers gesondert von seinen
@@ -65,6 +68,7 @@ vorzunehmen, werden dadurch nicht berührt.
 
 
 ### § 3 Drittverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE000901307)
 
 (1) Der Verwahrer ist berechtigt, die Wertpapiere unter seinem Namen
 einem anderen Verwahrer zur Verwahrung anzuvertrauen. Zweigstellen
@@ -83,6 +87,7 @@ bestimmten Drittverwahrer verwahrt werden.
 
 
 ### § 4 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001003125)
 
 (1) Vertraut der Verwahrer die Wertpapiere einem Dritten an, so gilt
 als dem Dritten bekannt, daß die Wertpapiere dem Verwahrer nicht
@@ -103,6 +108,7 @@ diesem Falle gilt Absatz 1 Satz 2.
 
 
 ### § 5 Sammelverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001105125)
 
 (1) Der Verwahrer darf vertretbare Wertpapiere, die zur
 Sammelverwahrung durch eine Wertpapiersammelbank zugelassen sind,
@@ -156,6 +162,7 @@ beschränkt werden.
 
 
 ### § 6 Miteigentum am Sammelbestand, Verwaltungsbefugnis des Verwahrers bei der Sammelverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001203125)
 
 (1) Werden Wertpapiere in Sammelverwahrung genommen, so entsteht mit
 dem Zeitpunkt des Eingangs beim Sammelverwahrer für die bisherigen
@@ -186,6 +193,7 @@ der Drittverwahrung auf Zwischenverwahrer sinngemäß anzuwenden.
 
 
 ### § 7 Auslieferungsansprüche des Hinterlegers bei der Sammelverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001301307)
 
 (1) Der Hinterleger kann im Falle der Sammelverwahrung verlangen, daß
 ihm aus dem Sammelbestand Wertpapiere in Höhe des Nennbetrags, bei
@@ -201,6 +209,7 @@ beruht, die er nicht zu vertreten hat.
 
 
 ### § 8 Ansprüche der Miteigentümer und sonstiger dinglich Berechtigter bei der Sammelverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001402360)
 
 Die für Ansprüche des Hinterlegers geltenden Vorschriften von § 6
 Absatz 2 und 3 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden
@@ -208,12 +217,14 @@ Miteigentümers oder sonst dinglich Berechtigten anzuwenden.
 
 
 ### § 9 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei der Sammelverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001501307)
 
 § 4 gilt sinngemäß auch für die Geltendmachung von Pfandrechten und
 Zurückbehaltungsrechten an Sammelbestandanteilen.
 
 
 ### § 9a Sammelurkunde
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001602307)
 
 (1) Der Verwahrer hat ein Wertpapier, das mehrere Rechte verbrieft,
 die jedes für sich in vertretbaren Wertpapieren einer und derselben
@@ -254,6 +265,7 @@ Auslieferung von einzelnen Wertpapieren nicht verlangt werden.
 
 
 ### § 9b Elektronische Wertpapiere in Sammeleintragung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE005301360)
 
 (1) Für elektronisch begebene Wertpapiere, die in Form einer
 Sammeleintragung in einem elektronischen Wertpapierregister
@@ -274,6 +286,7 @@ geregelt ist.
 
 
 ### § 9c Elektronische Wertpapiere nach ausländischem Recht
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE005400360)
 
 (1) Elektronisch begebene, vertretbare Wertpapiere, die nach
 ausländischem Recht begeben und von einer Wertpapiersammelbank nach §
@@ -287,6 +300,7 @@ nicht Absatz 2 etwas anderes bestimmt.
 
 
 ### § 10 Tauschverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001702125)
 
 (1) Eine Erklärung, durch die der Hinterleger den Verwahrer
 ermächtigt, an Stelle ihm zur Verwahrung anvertrauter Wertpapiere
@@ -303,6 +317,7 @@ derselben Art zu ersetzen.
 
 
 ### § 11 Umfang der Ermächtigung zur Tauschverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001801307)
 
 Eine Erklärung, durch die der Hinterleger den Verwahrer ermächtigt, an
 Stelle ihm zur Verwahrung anvertrauter Wertpapiere Wertpapiere
@@ -315,6 +330,7 @@ Eigentum an den Wertpapieren auf den Verwahrer übergehen soll.
 
 
 ### § 12 Ermächtigungen zur Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE001902125)
 
 (1) Der Verwahrer darf die Wertpapiere oder Sammelbestandanteile nur
 auf Grund einer Ermächtigung und nur im Zusammenhang mit einer
@@ -355,6 +371,7 @@ sie ihm gegeben ist, weitergeben.
 
 
 ### § 12a Verpfändung als Sicherheit für Verbindlichkeiten aus Börsengeschäften
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE005102125)
 
 (1) Abweichend von § 12 darf der Verwahrer die Wertpapiere oder
 Sammelbestandanteile auf Grund einer ausdrücklichen und in Textform
@@ -381,6 +398,7 @@ Haftung kann durch Vereinbarung nicht beschränkt werden.
 
 
 ### § 13 Ermächtigung zur Verfügung über das Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002002125)
 
 (1) Eine Erklärung, durch die der Verwahrer ermächtigt wird, sich die
 anvertrauten Wertpapiere anzueignen oder das Eigentum an ihnen auf
@@ -402,6 +420,7 @@ nicht mehr anzuwenden.
 
 
 ### § 14 Verwahrungsbuch
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002102307)
 
 (1) Der Verwahrer ist verpflichtet, ein Handelsbuch zu führen, in das
 jeder Hinterleger und Art, Nennbetrag oder Stückzahl, Nummern oder
@@ -435,6 +454,7 @@ Verwahrungsbuch kenntlich zu machen.
 
 
 ### § 15 Unregelmäßige Verwahrung, Wertpapierdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002203125)
 
 (1) Wird die Verwahrung von Wertpapieren in der Art vereinbart, daß
 das Eigentum sofort auf den Verwahrer oder einen Dritten übergeht und
@@ -457,6 +477,7 @@ Betrieb seines Gewerbes als Darlehen gewährt werden.
 
 
 ### § 16 Befreiung von Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002304377)
 
 Die Formvorschriften des § 4 Abs. 2, des § 5 Abs. 1 Satz 2 und 3 und
 der §§ 10, 12, 13 und 15 Abs. 2 und 3 sind nicht anzuwenden, wenn der
@@ -480,6 +501,7 @@ ein Kaufmann ist, der
 
 
 ### § 17 Pfandverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002402307)
 
 Werden jemandem im Betrieb seines Gewerbes Wertpapiere unverschlossen
 als Pfand anvertraut, so hat der Pfandgläubiger die Pflichten und
@@ -487,6 +509,7 @@ Befugnisse eines Verwahrers.
 
 
 ### § 17a Verfügungen über Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE005200308)
 
 Verfügungen über Wertpapiere oder Sammelbestandanteile, die mit
 rechtsbegründender Wirkung in ein Register eingetragen oder auf einem
@@ -499,10 +522,12 @@ Gutschrift erteilt.
 
 
 ## 2. Abschnitt - Einkaufskommission
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNG000201307)
 
 
 
 ### § 18 Stückeverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002501307)
 
 (1) Führt ein Kommissionär (§§ 383, 406 des Handelsgesetzbuchs) einen
 Auftrag zum Einkauf von Wertpapieren aus, so hat er dem Kommittenten
@@ -528,6 +553,7 @@ nach den Bestimmungen des bürgerlichen Rechts schon früher auf ihn
 
 
 ### § 19 Aussetzung der Übersendung des Stückeverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002602125)
 
 (1) Der Kommissionär darf die Übersendung des Stückeverzeichnisses
 aussetzen, wenn er wegen der Forderungen, die ihm aus der Ausführung
@@ -566,6 +592,7 @@ verstoßen würde.
 
 
 ### § 20 Übersendung des Stückeverzeichnisses auf Verlangen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002702125)
 
 (1) Wenn der Kommissionär einem Kommittenten, mit dem er im
 Kontokorrentverkehr (§ 355 des Handelsgesetzbuchs) steht, für die
@@ -590,6 +617,7 @@ werden sollen, genau bezeichnen.
 
 
 ### § 21 Befugnis zur Aussetzung und Befugnis zur Übersendung auf Verlangen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002802125)
 
 Will der Kommissionär die Übersendung des Stückeverzeichnisses sowohl
 deshalb aussetzen, weil er wegen seiner Forderungen nicht befriedigt
@@ -604,6 +632,7 @@ Ausführung des Auftrags ausführen werde.
 
 
 ### § 22 Stückeverzeichnis beim Auslandsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE002902125)
 
 (1) Wenn die Wertpapiere vereinbarungsgemäß im Ausland angeschafft und
 aufbewahrt werden, braucht der Kommissionär das Stückeverzeichnis erst
@@ -622,6 +651,7 @@ werden sollen, genau bezeichnen.
 
 
 ### § 23 Befreiung von der Übersendung des Stückeverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003001307)
 
 Die Übersendung des Stückeverzeichnisses kann unterbleiben, soweit
 innerhalb der dafür bestimmten Frist (§§ 18 bis 22) die Wertpapiere
@@ -630,6 +660,7 @@ zur Wiederveräußerung ausgeführt ist.
 
 
 ### § 24 Erfüllung durch Übertragung von Miteigentum am Sammelbestand
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003106125)
 
 (1) Der Kommissionär kann sich von seiner Verpflichtung, dem
 Kommittenten Eigentum an bestimmten Stücken zu verschaffen, dadurch
@@ -661,6 +692,7 @@ Fassung vermögenswirksame Leistungen gefördert werden können.
 
 
 ### § 25 Rechte des Kommittenten bei Nichtübersendung des Stückeverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003201307)
 
 (1) Unterläßt der Kommissionär, ohne hierzu nach den §§ 19 bis 24
 befugt zu sein, die Übersendung des Stückeverzeichnisses und holt er
@@ -679,6 +711,7 @@ Recht Gebrauch machen wolle.
 
 
 ### § 26 Stückeverzeichnis beim Auftrag zum Umtausch und zur Geltendmachung eines Bezugsrechts
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003301307)
 
 Der Kommissionär, der einen Auftrag zum Umtausch von Wertpapieren oder
 von Sammelbestandanteilen gegen Wertpapiere oder einen Auftrag zur
@@ -693,6 +726,7 @@ Schadensersatz wegen Nichterfüllung verlangen kann.
 
 
 ### § 27 Verlust des Provisionsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003401307)
 
 Der Kommissionär, der den in § 26 ihm auferlegten Pflichten nicht
 genügt, verliert das Recht, für die Ausführung des Auftrags Provision
@@ -700,6 +734,7 @@ zu fordern (§ 396 Abs. 1 des Handelsgesetzbuchs).
 
 
 ### § 28 Unabdingbarkeit der Verpflichtungen des Kommissionärs
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003502307)
 
 Die sich aus den §§ 18 bis 27 ergebenden Verpflichtungen des
 Kommissionärs können durch Rechtsgeschäft weder ausgeschlossen noch
@@ -708,6 +743,7 @@ Bankgeschäfte betreibt.
 
 
 ### § 29 Verwahrung durch den Kommissionär
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003601307)
 
 Der Kommissionär hat bezüglich der in seinem Besitz befindlichen, in
 das Eigentum oder das Miteigentum des Kommittenten übergegangenen
@@ -715,6 +751,7 @@ Wertpapiere die Pflichten und Befugnisse eines Verwahrers.
 
 
 ### § 30 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei dem Kommissionsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003701307)
 
 (1) Gibt der Kommissionär einen ihm erteilten Auftrag zur Anschaffung
 von Wertpapieren an einen Dritten weiter, so gilt als dem Dritten
@@ -724,6 +761,7 @@ bekannt, daß die Anschaffung für fremde Rechnung geschieht.
 
 
 ### § 31 Eigenhändler, Selbsteintritt
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003802307)
 
 Die §§ 18 bis 30 gelten sinngemäß, wenn jemand im Betrieb seines
 Gewerbes Wertpapiere als Eigenhändler verkauft oder umtauscht oder
@@ -732,10 +770,12 @@ des Selbsteintritts ausführt.
 
 
 ## 3. Abschnitt - Vorrang im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNG000303307)
 
 
 
 ### § 32 Vorrangige Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE003905360)
 
 (1) Im Insolvenzverfahren über das Vermögen eines der in den §§ 1, 17
 und 18 bezeichneten Verwahrer, Pfandgläubiger und Kommissionäre haben
@@ -801,6 +841,7 @@ anzuwenden.
 
 
 ### § 33 Ausgleichsverfahren bei Verpfändung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004003307)
 
 (1) Im Insolvenzverfahren über das Vermögen eines Verwahrers, dessen
 Pfandgläubiger die ihm nach § 12 Abs. 2 verpfändeten Wertpapiere oder
@@ -857,10 +898,12 @@ Insolvenzmasse geltend machen.
 
 
 ## 4. Abschnitt - Strafbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNG000401307)
 
 
 
 ### § 34 Depotunterschlagung
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004103360)
 
 Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs,
 eigenen oder fremden Vorteils wegen
@@ -882,6 +925,7 @@ bestraft.
 
 
 ### § 35 Unwahre Angaben über das Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004202307)
 
 Wer eigenen oder fremden Vorteils wegen eine Erklärung nach § 4 Abs. 2
 wahrheitswidrig abgibt oder eine ihm nach § 4 Abs. 3 obliegende
@@ -891,6 +935,7 @@ bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 36 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004301307)
 
 Ist in den Fällen der §§ 34 und 35 durch die Tat ein Angehöriger (§ 11
 Abs. 1 Nr. 1 des Strafgesetzbuchs) verletzt, so wird sie nur auf
@@ -898,6 +943,7 @@ Antrag verfolgt.
 
 
 ### § 37 Strafbarkeit im Falle der Zahlungseinstellung oder des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004405307)
 
 Wer einer Vorschrift der §§ 2 und 14 oder einer sich aus den §§ 18 bis
 24, 26 ergebenden Pflicht zuwiderhandelt, wird mit Freiheitsstrafe bis
@@ -909,19 +955,23 @@ Durchführung eines solchen Anspruchs erschwert wird.
 
 
 ### (XXXX) §§ 38 bis 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004501307)
 
 
 
 ## 5. Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNG000501307)
 
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004802307)
 
 (weggefallen)
 
 
 ### § 42 Anwendung auf Treuhänder, Erlass weiterer Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE004903301)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
@@ -934,6 +984,7 @@ oder Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
 
 
 ### § 43 Übergangsregelung zum Ersten Finanzmarktnovellierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wpapg/BJNR001710937.html#BJNR001710937BJNE005002123)
 
 Ein Kreditinstitut, das am Tag, den die Bundesregierung nach Artikel
 17 Absatz 3 Satz 2 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) im

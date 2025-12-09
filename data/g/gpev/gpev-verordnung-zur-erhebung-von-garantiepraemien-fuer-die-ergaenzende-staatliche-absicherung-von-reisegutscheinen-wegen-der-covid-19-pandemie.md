@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000100000)
 
 Auf Grund des Artikels 240 § 6 Absatz 8 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche, der durch Artikel 1 des Gesetzes vom 10.
@@ -26,6 +27,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000200000)
 
 Diese Verordnung regelt die Einzelheiten der Erhebung von
 Garantieprämien nach Artikel 240 § 6 Absatz 7 des Einführungsgesetzes
@@ -35,6 +37,7 @@ umgetauscht worden sind.
 
 
 ## § 2 Höhe der Garantieprämie
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000300000)
 
 Die Höhe der Garantieprämie richtet sich nach dem Wert der
 ausgegebenen Reisegutscheine. Sie beträgt
@@ -62,6 +65,7 @@ ausgegebenen Reisegutscheine. Sie beträgt
 
 
 ## § 3 Mitteilungspflichten des Reiseveranstalters
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000400000)
 
 (1) Bietet ein Reiseveranstalter den Reisenden Reisegutscheine im
 Sinne des Artikels 240 § 6 Absatz 1 Satz 1 und 2 des
@@ -95,6 +99,7 @@ erfolgen.
 
 
 ## § 4 Erhebung der Garantieprämien
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000500000)
 
 (1) Die Garantieprämien werden von dem Bundesamt für Justiz erhoben.
 Ihre Höhe berechnet sich auf der Grundlage der von den
@@ -115,6 +120,7 @@ bestimmt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gpev/BJNR217800020.html#BJNR217800020BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

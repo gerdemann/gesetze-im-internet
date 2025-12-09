@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euausl_bkg/BJNR225320998.html#BJNR225320998BJNE000100311)
 
 (1) Dem in Dublin am 27. September 1996 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen aufgrund von Artikel K.3 des
@@ -34,6 +35,7 @@ Ratifikationsurkunde eine Erklärung nach Artikel 18 Abs. 4 des
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euausl_bkg/BJNR225320998.html#BJNR225320998BJNE000200311)
 
 (1) Die Erklärung der ausgelieferten Person über den Verzicht auf die
 Einhaltung des Grundsatzes der Spezialität (Artikel 10 Abs. 1
@@ -48,6 +50,7 @@ belehren.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euausl_bkg/BJNR225320998.html#BJNR225320998BJNE000300311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

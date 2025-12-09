@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000100308)
 
 Auf Grund des § 4 Abs. 1 des Gesetzes zum Schutz gegen Fluglärm vom
 30\. März 1971 (Bundesgesetzblatt I S. 282), geändert durch Artikel 70
@@ -31,6 +32,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000200308)
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
 erheblichen Belästigungen durch Fluglärm in der Umgebung des
@@ -39,6 +41,7 @@ Lärmschutzbereich festgesetzt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000300308)
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird nach Anlage 1
 bestimmt durch die interpolierten Verbindungslinien zwischen den
@@ -47,6 +50,7 @@ verlaufen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000400308)
 
 Liegt eine bauliche Anlage zu einem Teil im Lärmschutzbereich, so gilt
 sie als ganz im Lärmschutzbereich gelegen. Liegt eine bauliche Anlage
@@ -55,6 +59,7 @@ Schutzzone gelegen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000501320)
 
 (1) Der nach § 2 bestimmte Lärmschutzbereich ist in einer
 topographischen Karte im Maßstab 1:50.000 und in Karten im Maßstab
@@ -71,16 +76,19 @@ Stelle zu jedermanns Einsicht archivmäßig gesichert niedergelegt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000600308)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000700308)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Jever in der Fassung der Zweiten Änderungsverordnung vom 24. Juli 1998)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000801320)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1984 - 1986)
 
@@ -2932,6 +2940,7 @@ Der Bundesminister des Innern
 
 
 ## Anlage 2 (zu § 4 Abs. 1 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Jever in der Fassung der Zweiten Änderungsverordnung vom 24. Juli 1998)
+[Direktlink](https://www.gesetze-im-internet.de/flul_rmjeverv/BJNR038110976.html#BJNR038110976BJNE000901320)
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1998, 1987 - 1988)

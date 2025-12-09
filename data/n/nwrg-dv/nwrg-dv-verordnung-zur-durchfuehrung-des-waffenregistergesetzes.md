@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000100000)
 
 Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des
 Nationalen-Waffenregister-Gesetzes vom 25. Juni 2012 (BGBl. I S. 1366)
@@ -30,6 +31,7 @@ verordnet das Bundesministerium des Innern:
 
 
 ## § 1 Inhalt der Datensätze
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000201128)
 
 (1) Die Speicherung der Daten im Nationalen Waffenregister erfolgt
 nach Maßgabe des Datensatzes für das Waffenwesen (DSWaffe) vom 6. Juli
@@ -45,6 +47,7 @@ Koblenz, jedermann zugänglich und archivmäßig gesichert niedergelegt.
 
 
 ## § 2 Datenübermittlung an die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000302128)
 
 (1) Die Datenübermittlung der Waffenbehörden erfolgt über die
 informationstechnischen Netze von Bund, Ländern und Kommunen. Die
@@ -79,6 +82,7 @@ zugänglich und archivmäßig gesichert niedergelegt.
 
 
 ## § 2a Datenübermittlung an die Waffenbehörden
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE001200128)
 
 (1) Das automatisierte Fachverfahren wird von einer zu diesem Zweck
 beauftragten Stelle betrieben. Die Beauftragung erfolgt durch die
@@ -118,6 +122,7 @@ archivmäßig gesichert niedergelegt.
 
 
 ## § 3 Verfahren zur Datenübermittlung an die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000401128)
 
 (1) Liegt zu einer Person noch kein Datensatz im Nationalen
 Waffenregister vor, wird ein neuer Datensatz angelegt und an die
@@ -148,6 +153,7 @@ Hinweis, dass es sich um verschiedene Personen handelt.
 
 
 ## § 4 Zulassung zum automatisierten Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000501128)
 
 (1) Die Zulassung zum Datenabruf im automatisierten Verfahren ist
 schriftlich bei der Registerbehörde zu beantragen. Im Antrag ist
@@ -186,6 +192,7 @@ Anfragen mit einer fehlerhaften Kennung.
 
 
 ## § 5 Datenabruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000600000)
 
 Die Datenübermittlung durch Abruf im automatisierten Verfahren erfolgt
 unter Nutzung des Datenaustauschstandards XWaffe oder über die von der
@@ -194,6 +201,7 @@ gilt entsprechend.
 
 
 ## § 6 Identitätsfeststellung durch die zum Ersuchen berechtigten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000701128)
 
 Ähnliche Personen, ähnliche Kaufleute, ähnliche juristische Personen,
 ähnliche Personenvereinigungen und ähnliche Waffen im Sinne des § 16
@@ -205,6 +213,7 @@ geringfügig davon abweichen.
 
 
 ## § 7 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000801128)
 
 (1) Die Registerbehörde trifft die technischen und organisatorischen
 Maßnahmen, die erforderlich sind, um die Verfügbarkeit, Integrität,
@@ -238,11 +247,13 @@ Aufgabenerfüllung dient.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE000901128)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/nwrg-dv/BJNR176500012.html#BJNR176500012BJNE001101128)
 
 Der Bundesrat hat zugestimmt.
 

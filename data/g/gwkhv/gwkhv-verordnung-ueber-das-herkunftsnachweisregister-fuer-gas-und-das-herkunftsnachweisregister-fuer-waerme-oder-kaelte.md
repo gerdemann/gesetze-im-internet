@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000100000)
 
 Es verordnen mit Zustimmung des Bundestages
 
@@ -52,9 +53,11 @@ Es verordnen mit Zustimmung des Bundestages
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000100000)
 
 
 ### § 1 Gegenstand dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000300000)
 
 Gegenstand dieser Verordnung sind
 
@@ -78,6 +81,7 @@ Gegenstand dieser Verordnung sind
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -141,9 +145,11 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## Abschnitt 2 - Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000200000)
 
 
 ### § 3 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000500000)
 
 Das Umweltbundesamt ist die zuständige Behörde im Sinne des § 5 Absatz
 1 Nummer 7 Buchstabe a erste Variante des
@@ -159,6 +165,7 @@ Herkunftsnachweisregistergesetzes. Es errichtet und betreibt
 
 
 ### § 4 Elektronisches System
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000600000)
 
 Das Umweltbundesamt führt die Herkunftsnachweisregister nach § 3 als
 elektronische Datenbank, in der die Ausstellung von
@@ -169,6 +176,7 @@ Herkunftsnachweise registriert werden.
 
 
 ### § 5 Gemeinsame Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000700000)
 
 (1) Das Umweltbundesamt darf das Herkunftsnachweisregister für Gas,
 das Herkunftsnachweisregister für Wärme oder Kälte sowie das
@@ -192,6 +200,7 @@ werden.
 
 
 ### § 6 Rechts- und Fachaufsicht über die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000800000)
 
 Bei der Durchführung dieser Verordnung unterliegt das Umweltbundesamt
 der Rechts- und Fachaufsicht durch das Bundesministerium für
@@ -199,9 +208,11 @@ Wirtschaft und Klimaschutz.
 
 
 ## Abschnitt 3 - Konto
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000300000)
 
 
 ### § 7 Konto
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE000900000)
 
 (1) Voraussetzung für die Registrierung einer Erzeugungsanlage für Gas
 oder thermische Energie sowie für die Ausstellung, Inhaberschaft,
@@ -226,6 +237,7 @@ nicht mehr besteht.
 
 
 ### § 8 Kommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001000000)
 
 (1) Das Umweltbundesamt stellt ein Kommunikationssystem sowie ein
 Postfach innerhalb des Kommunikationssystems zur Führung eines Kontos
@@ -239,6 +251,7 @@ und Dokumenten.
 
 
 ### § 9 Kontoeröffnung und -führung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001100000)
 
 (1) Im Antrag auf Kontoeröffnung sind folgende Daten an das
 Umweltbundesamt zu übermitteln:
@@ -306,9 +319,11 @@ Daten und Nachweise übermittelt werden können.
 
 
 ## Abschnitt 4 - Registrierung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000400000)
 
 
 ### § 10 Grundsätze der Anlagenregistrierung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001200000)
 
 Auf Antrag des Anlagenbetreibers registriert das Umweltbundesamt jede
 Anlage zur Erzeugung von Gas in dem Herkunftsnachweisregister für Gas
@@ -318,6 +333,7 @@ Anlage dem Konto des Anlagenbetreibers zu.
 
 
 ### § 11 Antrag auf Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001300000)
 
 (1) Im Antrag auf Registrierung einer Anlage muss der Anlagenbetreiber
 dem Umweltbundesamt folgende Angaben übermitteln:
@@ -412,6 +428,7 @@ Herkunftsnachweisregister nach § 3 ermächtigen. Für den nach Satz 1
 
 
 ### § 12 Prüfung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001400000)
 
 (1) Das Umweltbundesamt prüft die Plausibilität der übermittelten
 Daten und kann zu diesem Zwecke vom Anlagenbetreiber Erläuterungen zu
@@ -456,18 +473,22 @@ vollständigen Antragsunterlagen entscheiden.
 [^F829873_02_BJNR08B0A0024BJNE001400000]: 
 
 ### § 13 Anlagenkennnummer
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001500000)
 
 Das Umweltbundesamt vergibt nach der Registrierung eine
 Anlagenkennnummer für die registrierte Anlage.
 
 
 ## Abschnitt 5 - Herkunftsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000500000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000600000)
 
 
 #### § 14 Ausstellung und Form eines Herkunftsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001600000)
 
 (1) Das Umweltbundesamt stellt einen Herkunftsnachweis für Gas jeweils
 für eine an Letztverbraucher gelieferte Gasmenge von 1 Megawattstunde
@@ -493,6 +514,7 @@ Registerteilnehmer wird darüber informiert.
 
 
 #### § 15 Antrag auf Ausstellung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001700000)
 
 (1) Die Ausstellung eines Herkunftsnachweises für Gas oder eines
 Herkunftsnachweises für Wärme oder Kälte setzt einen Antrag des
@@ -632,6 +654,7 @@ erforderlichen Daten und Nachweise.
 
 
 #### § 16 Ausstellung eines Herkunftsnachweises für strombasiertes Gas oder strombasierte thermische Energie
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001800000)
 
 (1) Das Umweltbundesamt stellt einen Herkunftsnachweis für Gas für
 strombasiertes Gas aus erneuerbaren Energien oder einen
@@ -682,6 +705,7 @@ mitverarbeiteten biogenen Ölen auf die Treibhausgasquote erfüllt sind.
 
 
 #### § 17 Mindestangaben in Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE001900000)
 
 (1) Ein Herkunftsnachweis für Gas oder ein Herkunftsnachweis für Wärme
 oder Kälte muss folgende Angaben enthalten:
@@ -716,6 +740,7 @@ die Angabe nach § 16 Absatz 3 enthalten.
 
 
 #### § 18 Zusätzliche Angaben in Herkunftsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002000000)
 
 (1) Ein Herkunftsnachweis für Gas, der für strombasiertes Gas
 ausgestellt ist, oder ein Herkunftsnachweis für Wärme oder Kälte, der
@@ -742,6 +767,7 @@ Treibhausgasemissionen.
 
 
 #### § 19 Anerkennung ausländischer Herkunftsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002100000)
 
 (1) Das Umweltbundesamt erkennt auf Antrag eines Kontoinhabers einen
 Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder
@@ -779,6 +805,7 @@ Unterlagen verlangen.
 
 
 #### § 20 Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002200000)
 
 (1) Das Umweltbundesamt überträgt auf Antrag des Kontoinhabers einen
 Herkunftsnachweis für Gas oder einen Herkunftsnachweis für Wärme oder
@@ -812,6 +839,7 @@ wenn
 
 
 #### § 21 Verwendung, Entwertung und Erklärung des Verfalls
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002300000)
 
 (1) Ein Herkunftsnachweis für Gas darf zur Kennzeichnung der Lieferung
 von Gas an einen Letztverbraucher und ein Herkunftsnachweis für Wärme
@@ -845,6 +873,7 @@ für Wärme oder Kälte nicht mehr übertragen oder entwertet werden.
 
 
 #### § 22 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002400000)
 
 (1) Das Umweltbundesamt löscht einen Herkunftsnachweis für Gas oder
 einen Herkunftsnachweis für Wärme oder Kälte in den folgenden Fällen:
@@ -873,9 +902,11 @@ untersagt.
 
 
 ### Unterabschnitt 2 - Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Gas
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000700000)
 
 
 #### § 23 Ausstellung von Herkunftsnachweisen für Gas
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002500000)
 
 (1) Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen
 Herkunftsnachweis für Gas nach § 14 Absatz 1 aus für solches Gas, das
@@ -910,6 +941,7 @@ Stelle unverzüglich nach Antragstellung anzeigen.
 
 
 #### § 24 Unterscheidbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002600000)
 
 Das Umweltbundesamt stellt sicher, dass ein Herkunftsnachweis für Gas,
 der für kohlenstoffarmes Gas ausgestellt ist, klar zu unterscheiden
@@ -918,6 +950,7 @@ Basis von erneuerbarer Energie ausgestellt ist.
 
 
 #### § 25 Zusätzliche Mindestangaben im Herkunftsnachweis für Gas
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002700000)
 
 (1) Ein Herkunftsnachweis für Gas muss zusätzlich zu den Angaben nach
 § 17 die Angaben nach § 15 Absatz 4 und § 16 Absatz 4 enthalten.
@@ -938,12 +971,14 @@ durch wiederverwertete kohlenstoffhaltige Kraftstoffe (ABl. L 157 vom
 
 
 #### § 26 Zusätzliche Angaben im Herkunftsnachweis für Gas
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002800000)
 
 Ein Herkunftsnachweis für Gas enthält auf Antrag des Anlagenbetreibers
 zusätzliche Angaben zur Arbeitszahl für das erzeugte Gas.
 
 
 #### § 27 Entwertung bei netzgebundenem Gasverbrauch
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE002900000)
 
 (1) Bei der Lieferung von Wasserstoff aus einem Wasserstoffnetz
 entwertet das Umweltbundesamt ausschließlich Herkunftsnachweise für
@@ -956,9 +991,11 @@ Einklang mit den relevanten technischen Vorgaben des Unionsrechts.
 
 
 ### Unterabschnitt 3 - Besondere Anforderungen an die Ausstellung und Entwertung von Herkunftsnachweisen für Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000800000)
 
 
 #### § 28 Ausstellung und Inhalt von Herkunftsnachweisen für Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003000000)
 
 Das Umweltbundesamt stellt auf Antrag des Anlagenbetreibers einen
 Herkunftsnachweis für Wärme oder Kälte nach § 14 Absatz 1 für
@@ -993,6 +1030,7 @@ Energie aus.
 
 
 #### § 29 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für strombasierte thermische Energie
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003100000)
 
 Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und
 § 16 ausgestellt für
@@ -1024,6 +1062,7 @@ Ein Herkunftsnachweis für Wärme oder Kälte wird nach § 14 Absatz 1 und
 
 
 #### § 30 Ausstellung eines Herkunftsnachweises für Wärme oder Kälte für gasbasierte thermische Energie
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003200000)
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte wird ausgestellt für
 
@@ -1084,6 +1123,7 @@ Umweltbundesamt zusätzlich zu den Angaben nach § 15 die Angaben
 
 
 #### § 31 Unterscheidbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003300000)
 
 Das Umweltbundesamt stellt sicher, dass ein Herkunftsnachweis für
 Wärme oder Kälte für thermische Energie, die im Sinne des § 28 Satz 1
@@ -1095,6 +1135,7 @@ Nummer 3 oder 4.
 
 
 #### § 32 Zusätzliche Mindestangaben in Herkunftsnachweisen für Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003400000)
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte muss zusätzlich zu den
 Angaben nach § 17 die Angaben nach § 15 Absatz 5 enthalten.
@@ -1105,6 +1146,7 @@ kohlenstoffarmem Gas muss die Angaben nach § 30 Absatz 2 enthalten.
 
 
 #### § 33 Zusätzliche Angaben in Herkunftsnachweisen für Wärme oder Kälte
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003500000)
 
 Ein Herkunftsnachweis für Wärme oder Kälte enthält auf Antrag des
 Anlagenbetreibers folgende zusätzliche Angaben:
@@ -1168,6 +1210,7 @@ Anlagenbetreibers folgende zusätzliche Angaben:
 
 
 #### § 34 Vermarktung thermischer Energie
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003600000)
 
 (1) Ein Herkunftsnachweis für Wärme oder Kälte darf zur Vermarktung
 von Mengen thermischer Energie, deren zugesagte Eigenschaften von den
@@ -1195,6 +1238,7 @@ Energie innerhalb eines Fernwärme- oder Fernkältesystems unberührt.
 
 
 #### § 35 Entwertung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003700000)
 
 (1) Die Entwertung eines Herkunftsnachweises für Wärme oder Kälte ist
 nur für Letztverbräuche von thermischer Energie in demjenigen
@@ -1214,9 +1258,11 @@ ausgeschlossen.
 
 
 ## Abschnitt 6 - Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG000900000)
 
 
 ### § 36 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003800000)
 
 Das Umweltbundesamt trifft bei der Einrichtung und bei dem Betrieb der
 Herkunftsnachweisregister nach § 3 die erforderlichen technischen und
@@ -1232,6 +1278,7 @@ Informationstechnik.
 
 
 ### § 37 Erforderlichkeit der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE003900000)
 
 Das Umweltbundesamt verarbeitet Daten, soweit diese erforderlich sind
 für
@@ -1256,6 +1303,7 @@ Nummer 1 bis 3 erforderlich sind.
 
 
 ### § 38 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004000000)
 
 Das Umweltbundesamt löscht Daten, die nicht mehr erforderlich sind für
 
@@ -1276,6 +1324,7 @@ Das Umweltbundesamt löscht Daten, die nicht mehr erforderlich sind für
 
 
 ### § 39 Überprüfung der gespeicherten Daten; Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004100000)
 
 (1) Für einen effizienten Registerbetrieb gleicht das Umweltbundesamt
 die im Herkunftsnachweisregister für Gas und die im
@@ -1416,9 +1465,11 @@ erforderlich ist. Absatz 4 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 
 ## Abschnitt 7 - Verordnungsermächtigung; Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNG001000000)
 
 
 ### § 40 Subdelegation an das Umweltbundesamt
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004200000)
 
 Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz
@@ -1538,6 +1589,7 @@ zur Durchführung dieser Verordnung Folgendes zu regeln:
 
 
 ### § 41 Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004300000)
 
 (1) Das Umweltbundesamt ist befugt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz die Aufgaben der
@@ -1591,6 +1643,7 @@ machen.
 
 
 ### § 42 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004400000)
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 des
 Herkunftsnachweisregistergesetzes handelt, wer vorsätzlich oder
@@ -1624,6 +1677,7 @@ fahrlässig
 
 
 ### § 43 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004500000)
 
 (1) Die Bundesregierung evaluiert die Wirkung dieser Verordnung im
 Hinblick auf
@@ -1655,6 +1709,7 @@ für Wärme oder Kälte.
 
 
 ### § 44 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gwkhv/BJNR08B0A0024.html#BJNR08B0A0024BJNE004600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

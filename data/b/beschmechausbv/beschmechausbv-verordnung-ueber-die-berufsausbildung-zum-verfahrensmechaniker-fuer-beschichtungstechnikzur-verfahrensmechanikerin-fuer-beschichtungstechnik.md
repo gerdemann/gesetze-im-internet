@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000100311)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000200311)
 
 Der Ausbildungsberuf Verfahrensmechaniker für
 Beschichtungstechnik/Verfahrensmechanikerin für Beschichtungstechnik
@@ -38,11 +40,13 @@ wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000300311)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000400311)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -121,6 +125,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000500311)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -139,12 +144,14 @@ und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000600311)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000700311)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -153,6 +160,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000800311)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -183,6 +191,7 @@ kann.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE000900311)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -314,6 +323,7 @@ bestanden.
 
 
 ## § 9 Nichtanwenden von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE001000311)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Lackierer - Holz und
@@ -321,6 +331,7 @@ Metall/Lackiererin - Holz und Metall sind nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE001100311)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -332,12 +343,14 @@ vereinbaren.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE001200311)
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/beschmechausbv/BJNR159700999.html#BJNR159700999BJNE001300311)
 
 (Fundstelle: BGBl. I 1999, 1600 - 1606)
 

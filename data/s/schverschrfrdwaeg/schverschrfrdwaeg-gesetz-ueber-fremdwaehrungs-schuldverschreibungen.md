@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schverschrfrdw_g/BJNR005150936.html#BJNR005150936BJNE000100306)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schverschrfrdw_g/BJNR005150936.html#BJNR005150936BJNE000200306)
 
 Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte
 Anleihe auf eine ausländische Währung - unbeschadet ob mit oder ohne
@@ -36,6 +38,7 @@ Währung maßgebend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schverschrfrdw_g/BJNR005150936.html#BJNR005150936BJNE000300306)
 
 (1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes
 nicht entgegen.
@@ -52,6 +55,7 @@ zurückgefordert werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schverschrfrdw_g/BJNR005150936.html#BJNR005150936BJNE000401360)
 
 Die Vorschriften dieses Gesetzes finden sinngemäß auch auf nicht in
 Wertpapieren verbriefte Schuldverpflichtungen des zwischenstaatlichen
@@ -61,5 +65,6 @@ Goldklausel lauten.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schverschrfrdw_g/BJNR005150936.html#BJNR005150936BJNE000501360)
 
 

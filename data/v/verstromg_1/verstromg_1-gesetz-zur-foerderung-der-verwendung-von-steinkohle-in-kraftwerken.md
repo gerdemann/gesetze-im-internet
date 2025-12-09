@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000400328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Steuern vom Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNG000100328)
 
 
 
 ### § 1 Steuerfreie Rücklage für neue Kraftwerke
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000500328)
 
 (1) Steuerpflichtige, die den Gewinn auf Grund ordnungsmäßiger
 Buchführung nach § 5 des Einkommensteuergesetzes ermitteln und nach
@@ -78,6 +81,7 @@ Wirtschaftsjahre anzuwenden, die nach dem 30. Juni 1964 enden.
 
 
 ### § 2 Sondervorschriften beim Betrieb mehrerer Kraftwerke
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000600328)
 
 (1) Betreibt der Steuerpflichtige außer dem Kraftwerk, für das eine
 steuerfreie Rücklage nach § 1 in Anspruch genommen wird, noch andere
@@ -143,6 +147,7 @@ genommen wird, vorgenommen worden sind.
 
 
 ### § 3 Auflösung der steuerfreien Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000701301)
 
 (1) Ist ein Kraftwerk, für das eine steuerfreie Rücklage nach § 1 in
 Anspruch genommen worden ist, bis zum Ende des zehnten auf den
@@ -193,6 +198,7 @@ Wirtschaftsjahres erfolgsneutral aufzulösen ist.
 
 
 ### § 4 Erweiterung, Kesselerneuerung und Umstellung bestehender Kraftwerke
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000800328)
 
 (1) Die Vorschriften der §§ 1 bis 3 sind entsprechend anzuwenden, wenn
 bestehende Kraftwerke erweitert werden und die durch die Erweiterung
@@ -215,10 +221,12 @@ Kraftwerks aufgewendet worden sind.
 
 
 ## Zweiter Abschnitt - Vermögensteuer und Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNG000200328)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE000900328)
 
 (1) Ist nach §§ 1, 2 und 4 eine steuerfreie Rücklage gebildet worden,
 so ist diese bei der Ermittlung des Einheitswerts des gewerblichen
@@ -239,15 +247,18 @@ Satz 2 entsprechend.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNG000300328)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE001001301)
 
 (weggefallen)
 
 
 ### § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verstromg_1/BJNR007770965.html#BJNR007770965BJNE001100328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

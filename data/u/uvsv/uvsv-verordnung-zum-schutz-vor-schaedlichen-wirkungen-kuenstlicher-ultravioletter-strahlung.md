@@ -34,6 +34,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000100000)
 
 Auf Grund der §§ 3 und 5 Absatz 2 des Gesetzes zum Schutz vor
 nichtionisierender Strahlung bei der Anwendung am Menschen vom 29.
@@ -41,6 +42,7 @@ Juli 2009 (BGBl. I S. 2433) verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000200000)
 
 Diese Verordnung gilt für den Betrieb von UV-Bestrahlungsgeräten, die
 zu kosmetischen Zwecken oder für sonstige Anwendungen am Menschen
@@ -49,6 +51,7 @@ sonstiger wirtschaftlicher Unternehmungen eingesetzt werden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000300000)
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -135,6 +138,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 
 ## § 3 Anforderungen an den Betrieb von UV-Bestrahlungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000400000)
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
 
@@ -202,6 +206,7 @@ und 2 erfüllt sind.
 
 
 ## § 4 Einsatz, Aufgaben und Qualifikation des Fachpersonals
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000501000)
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
 
@@ -269,6 +274,7 @@ aus anderen EU- und EWR-Staaten gemäß § 6.
 
 
 ## § 5 Schulung, Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000600000)
 
 (1) Die Schulung zum Fachpersonal muss zumindest die in Anlage 6
 aufgeführten fachlichen Kenntnisse für einen sicheren Umgang mit UV-
@@ -319,6 +325,7 @@ Anforderungen des Ausstellungsstaats erfüllen.
 
 
 ## § 6 Gleichwertigkeit vergleichbarer Qualifikationen aus anderen EU- und EWR-Staaten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000700000)
 
 (1) Als der Teilnahme an einer Schulung nach § 5 Absatz 1 oder einer
 Fortbildung nach § 5 Absatz 2 gleichwertige Qualifikationen gelten
@@ -370,6 +377,7 @@ Fachpersonal im Inland gilt § 13a der Gewerbeordnung.
 
 
 ## § 7 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000800000)
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat die Hinweise nach
 Anlage 7 so auszuhängen, dass sie für die Nutzerinnen und Nutzer
@@ -418,6 +426,7 @@ Inhalt sich aus Anlage 8 ergibt.
 
 
 ## § 8 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE000900000)
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat für das UV-
 Bestrahlungsgerät fortlaufend ein Geräte- und Betriebsbuch zu führen.
@@ -443,6 +452,7 @@ Aufzeichnungen überprüfen.
 
 
 ## § 9 Hinweis auf Bußgeldvorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001000000)
 
 Zuwiderhandlungen gegen § 3 des Gesetzes zum Schutz vor
 nichtionisierender Strahlung bei der Anwendung am Menschen in
@@ -453,6 +463,7 @@ der Anwendung am Menschen geahndet werden.
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001100000)
 
 (1) UV-Bestrahlungsgeräte, die vor dem 1. Januar 2012 bereits
 betrieben werden und die Anforderungen nach § 3 Absatz 1 und 2 nicht
@@ -477,6 +488,7 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001200000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Januar
 2012 in Kraft.
@@ -485,12 +497,14 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)
 
 ## Anlage 1 Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001400000)
 
 (Fundstelle: BGBl. I 2011, 1416 - 1418)
 
@@ -969,6 +983,7 @@ empfohlen, zur Bestimmung des Hauttyps für diese Fragen die Punktzahl
 [^f3_775557_BJNR141200011BJNE001400000]: 
 
 ## Anlage 2 (zu § 2 Nummer 6)
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001500000)
 
 (Fundstelle: BGBl. I 2011, 1419)
 
@@ -1004,6 +1019,7 @@ Wirkungsfunktion mit Parametern festgelegt:
 (zu § 3 Absatz 2 Nummer 1)
 
 ## Anlage 3 UV-Schutzbrillen
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001600000)
 
 (Fundstelle: BGBl. I 2011, 1419 )
 
@@ -1016,6 +1032,7 @@ niedergelegt), erfüllen.
 (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)
 
 ## Anlage 4 Geräte- und Betriebsbuch
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001700000)
 
 (Fundstelle: BGBl. I 2011, 1420 - 1422)
 
@@ -1502,6 +1519,7 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 (zu § 4 Absatz 1 bis 3)
 
 ## Anlage 5 Dosierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001800000)
 
 (Fundstelle: BGBl. I 2011, 1423)
 
@@ -1715,6 +1733,7 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 (zu § 5 Absatz 1 Satz 1)
 
 ## Anlage 6 Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE001900000)
 
 (Fundstelle: BGBl. I 2011, 1424 - 1425)
 
@@ -1879,6 +1898,7 @@ Risiken zu antworten.
 (zu § 7 Absatz 1)
 
 ## Anlage 7 Hinweise im Geschäftsraum und in der Kabine
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE002000000)
 
 (Fundstelle: BGBl. I 2011, 1426)
 
@@ -2013,6 +2033,7 @@ von unserem qualifizierten Fachpersonal erhalten.
 (zu § 7 Absatz 4)
 
 ## Anlage 8 Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
+[Direktlink](https://www.gesetze-im-internet.de/uvsv/BJNR141200011.html#BJNR141200011BJNE002100000)
 
 (Fundstelle: BGBl. I 2011, 1427 - 1428)
 

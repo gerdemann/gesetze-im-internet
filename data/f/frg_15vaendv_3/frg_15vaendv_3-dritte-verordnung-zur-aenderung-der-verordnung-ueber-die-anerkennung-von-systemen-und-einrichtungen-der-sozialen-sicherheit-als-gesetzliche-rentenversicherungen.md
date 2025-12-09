@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000100312)
 
 Auf Grund des § 15 Abs. 3 des Fremdenrentengesetzes in der Fassung des
 Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes vom 25. Februar
@@ -30,6 +31,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000200312)
 
 In § 1 der Verordnung über die Anerkennung von Systemen und
 Einrichtungen der sozialen Sicherheit als gesetzliche
@@ -58,6 +60,7 @@ durch ein Komma ersetzt und folgende Nummern 7 und 8 angefügt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000300312)
 
 (1) Die Anerkennung der Systeme der rumänischen Versicherung für
 bildende Künstler und für Schriftsteller nach § 1 gilt auch in vor
@@ -69,6 +72,7 @@ Verordnung an zu gewähren.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000400312)
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4.
 Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 7 § 1
@@ -77,11 +81,13 @@ Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000500312)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1975 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/frg_15v_ndv_3/BJNR006470975.html#BJNR006470975BJNE000600312)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

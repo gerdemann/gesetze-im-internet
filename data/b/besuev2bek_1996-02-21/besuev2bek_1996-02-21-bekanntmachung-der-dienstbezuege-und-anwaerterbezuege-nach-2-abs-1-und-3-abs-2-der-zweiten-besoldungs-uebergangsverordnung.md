@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000100310)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035),
@@ -37,6 +38,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage IA Gültig ab 1. Mai 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000200310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 244 - 246)
 
@@ -1194,6 +1196,7 @@ Der Bundesminister des Innern
    (Anlage V des BBesG)
 
 ## Anlage IB Gültig ab 1. Mai 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000300310)
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 247
 
@@ -1306,6 +1309,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage VIII des BBesG)
 
 ## Anlage IC Gültig ab 1. April 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000400310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 248)
 
@@ -1417,6 +1421,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage IX des BBesG)
 
 ## Anlage ID Gültig ab 1. Mai 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000500310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 249 - 251)
 
@@ -2726,6 +2731,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage IV des BBesG)
 
 ## Anlage IIA Gültig ab 1. Oktober 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000600310)
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 
@@ -3663,6 +3669,7 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 (Anlage V des BBesG)
 
 ## Anlage IIB Gültig ab 1. Oktober 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000700310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 255)
 
@@ -3787,6 +3794,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage VIII des BBesG)
 
 ## Anlage IIC Gültig ab 1. Oktober 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000800310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 256)
 
@@ -3884,6 +3892,7 @@ Unterschiedsbetrag zusätzlich gewährt.
 (Anlage IX des BBesG)
 
 ## Anlage IID Gültig ab 1. Oktober 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1996-02-21/BJNR024300996.html#BJNR024300996BJNE000900310)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 257 - 259)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000100000)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
 der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
@@ -52,12 +53,14 @@ worden ist, werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000200000)
 
 Der Bundesminister des Innern
 
 Gültig ab 1. März 2016
 
 ## Anhang 1 zu Nummer 1 
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000300000)
 
 (Fundstelle: BGBl. I 2016, 2696 - 2697)
 
@@ -679,6 +682,7 @@ Gültig ab 1. März 2016
 (Anlage IV des BBesG)
 
 ## Anhang 2 zu Nummer 2 Gültig ab 1. März 2016 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000400000)
 
 (Fundstelle: BGBl. I 2016, 2698 - 2709)
 
@@ -3860,6 +3864,7 @@ zusätzlich gewährt.
 [^f796025_07_BJNR269500016BJNE000400000]: 
 
 ## Anhang 3 zu Nummer 3 Gültig ab 1. März 2016
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000500000)
 
 (Fundstelle: BGBl. I 2016, 2710 - 2713)
 
@@ -5203,6 +5208,7 @@ gehobenen Dienstes sowie für Offiziere um 9,43 Euro.
 (Anlage 1 des BesÜG)
 
 ## Anhang 4 zu Nummer 4 Gültig ab 1. März 2016 für Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2016/BJNR269500016.html#BJNR269500016BJNE000600000)
 
 (Fundstelle: BGBl. I 2016, 2714 - 2715)
 

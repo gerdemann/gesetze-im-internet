@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/ordenersurkano/BJNR504500960.html#BJNR504500960BJNE000100319)
 
 Auf Grund des § 1 Abs. 2 Satz 2 des Gesetzes über die Errichtung des
 Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S.
@@ -34,17 +35,20 @@ Mai 1959 haben.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/ordenersurkano/BJNR504500960.html#BJNR504500960BJNE000200319)
 
 -
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/ordenersurkano/BJNR504500960.html#BJNR504500960BJNE000300319)
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenersurkano/BJNR504500960.html#BJNR504500960BJNE000400319)
 
 Der Bundesminister des Innern
 

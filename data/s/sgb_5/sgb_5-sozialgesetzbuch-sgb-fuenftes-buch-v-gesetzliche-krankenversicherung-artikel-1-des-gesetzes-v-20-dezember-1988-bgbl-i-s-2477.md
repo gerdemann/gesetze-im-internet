@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000100328)
 
 
 
 ### § 1 Solidarität und Eigenverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008302377)
 
 Die Krankenversicherung als Solidargemeinschaft hat die Aufgabe, die
 Gesundheit der Versicherten zu erhalten, wiederherzustellen oder ihren
@@ -46,6 +48,7 @@ Lebensverhältnisse hinzuwirken.
 
 
 ### § 2 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008404119)
 
 (1) Die Krankenkassen stellen den Versicherten die im Dritten Kapitel
 genannten Leistungen unter Beachtung des Wirtschaftlichkeitsgebots (§
@@ -88,18 +91,21 @@ im notwendigen Umfang in Anspruch genommen werden.
 
 
 ### § 2a Leistungen an behinderte und chronisch kranke Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048200308)
 
 Den besonderen Belangen behinderter und chronisch kranker Menschen ist
 Rechnung zu tragen.
 
 
 ### § 2b Geschlechts- und altersspezifische Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062101377)
 
 Bei den Leistungen der Krankenkassen ist geschlechts- und
 altersspezifischen Besonderheiten Rechnung zu tragen.
 
 
 ### § 3 Solidarische Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008500328)
 
 Die Leistungen und sonstigen Ausgaben der Krankenkassen werden durch
 Beiträge finanziert. Dazu entrichten die Mitglieder und die
@@ -109,6 +115,7 @@ Familienangehörige werden Beiträge nicht erhoben.
 
 
 ### § 4 Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008616126)
 
 (1) Die Krankenkassen sind rechtsfähige Körperschaften des
 öffentlichen Rechts mit Selbstverwaltung.
@@ -150,6 +157,7 @@ Aufwendungen für Datentransparenz nach den §§ 303a bis 303e.
 
 
 ### § 4a Wettbewerb der Krankenkassen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE074400126)
 
 (1) Der Wettbewerb der Krankenkassen dient dem Ziel, das
 Leistungsangebot und die Qualität der Leistungen zu verbessern sowie
@@ -235,20 +243,24 @@ vorläufig vollstreckbar.
 
 
 ### § 4b Sonderregelungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052203126)
 
 Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§
 266, 267 und 269 durch Landesrecht sind ausgeschlossen.
 
 
 ## Zweites Kapitel - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000200328)
 
 
 
 ### Erster Abschnitt - Versicherung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000300328)
 
 
 
 #### § 5 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055027126)
 
 (1) Versicherungspflichtig sind
 
@@ -575,6 +587,7 @@ dem Grunde nach besteht.
 
 
 #### § 6 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055203124)
 
 (1) Versicherungsfrei sind
 
@@ -699,6 +712,7 @@ Krankenversicherung versichert waren, im Jahr 2003 41 400 Euro. Absatz
 
 
 #### § 7 Versicherungsfreiheit bei geringfügiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE008908311)
 
 (1) Wer eine geringfügige Beschäftigung nach §§ 8, 8a des Vierten
 Buches ausübt, ist in dieser Beschäftigung versicherungsfrei; dies
@@ -735,6 +749,7 @@ Beginns der Versicherungspflicht der 1. Oktober 2022 tritt.
 
 
 #### § 8 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009016126)
 
 (1) Auf Antrag wird von der Versicherungspflicht befreit, wer
 versicherungspflichtig wird
@@ -824,10 +839,12 @@ Fassung gleich.
 
 
 ### Zweiter Abschnitt - Versicherungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000400328)
 
 
 
 #### § 9 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009119126)
 
 (1) Der Versicherung können beitreten
 
@@ -933,10 +950,12 @@ dieser Bescheinigung beantragt wurde.
 
 
 ### Dritter Abschnitt - Versicherung der Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000500328)
 
 
 
 #### § 10 Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009233311)
 
 (1) Versichert sind der Ehegatte, der Lebenspartner und die Kinder von
 Mitgliedern sowie die Kinder von familienversicherten Kindern, wenn
@@ -1054,14 +1073,17 @@ Meldevordrucke fest.
 
 
 ## Drittes Kapitel - Leistungen der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000600328)
 
 
 
 ### Erster Abschnitt - Übersicht über die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000700328)
 
 
 
 #### § 11 Leistungsarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009421126)
 
 (1) Versicherte haben nach den folgenden Vorschriften Anspruch auf
 Leistungen
@@ -1159,10 +1181,12 @@ von den Krankenkassen in ihrer Rechnungslegung gesondert auszuweisen.
 
 
 ### Zweiter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000800328)
 
 
 
 #### § 12 Wirtschaftlichkeitsgebot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009502308)
 
 (1) Die Leistungen müssen ausreichend, zweckmäßig und wirtschaftlich
 sein; sie dürfen das Maß des Notwendigen nicht überschreiten.
@@ -1184,6 +1208,7 @@ aus eingeleitet hat.
 
 
 #### § 13 Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009619126)
 
 (1) Die Krankenkasse darf anstelle der Sach- oder Dienstleistung (§ 2
 Abs. 2) Kosten nur erstatten, soweit es dieses oder das Neunte Buch
@@ -1294,6 +1319,7 @@ Vertragspartner der Krankenkasse im Inland erlangt werden kann.
 
 
 #### § 14 Teilkostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009701124)
 
 (1) Die Satzung kann für Angestellte und Versorgungsempfänger der
 Krankenkassen und ihrer Verbände, für die eine Dienstordnung nach §
@@ -1312,6 +1338,7 @@ versicherten Angehörigen.
 
 
 #### § 15 Ärztliche Behandlung, elektronische Gesundheitskarte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009808126)
 
 (1) Ärztliche oder zahnärztliche Behandlung wird von Ärzten oder
 Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Abs. 3c
@@ -1362,6 +1389,7 @@ vom Vorliegen der Meldung nach § 10 Abs. 6 abhängig machen.
 
 
 #### § 16 Ruhen des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE009913126)
 
 (1) Der Anspruch auf Leistungen ruht, solange Versicherte
 
@@ -1441,6 +1469,7 @@ im Ausland aufhalten.
 
 
 #### § 17 Leistungen bei Beschäftigung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010006126)
 
 (1) Mitglieder, die im Ausland beschäftigt sind und während dieser
 Beschäftigung erkranken oder bei denen Leistungen bei Schwangerschaft
@@ -1469,6 +1498,7 @@ entstanden sind.
 
 
 #### § 18 Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010104308)
 
 (1) Ist eine dem allgemein anerkannten Stand der medizinischen
 Erkenntnisse entsprechende Behandlung einer Krankheit nur außerhalb
@@ -1503,6 +1533,7 @@ wären.
 
 
 #### § 19 Erlöschen des Leistungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010202308)
 
 (1) Der Anspruch auf Leistungen erlischt mit dem Ende der
 Mitgliedschaft, soweit in diesem Gesetzbuch nichts Abweichendes
@@ -1531,10 +1562,12 @@ Tode des Mitglieds.
 
 
 ### Dritter Abschnitt - Leistungen zur Verhütung von Krankheiten, betriebliche Gesundheitsförderung und Prävention arbeitsbedingter Gesundheitsgefahren, Förderung der Selbsthilfe sowie Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG000903308)
 
 
 
 #### § 20 Primäre Prävention und Gesundheitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010316377)
 
 (1) Die Krankenkasse sieht in der Satzung Leistungen zur Verhinderung
 und Verminderung von Krankheitsrisiken (primäre Prävention) sowie zur
@@ -1677,6 +1710,7 @@ zur Verfügung zu stellen.
 
 
 #### § 20a Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062005126)
 
 (1) Lebenswelten im Sinne des § 20 Absatz 4 Nummer 2 sind für die
 Gesundheit bedeutsame, abgrenzbare soziale Systeme insbesondere des
@@ -1816,6 +1850,7 @@ Zuwendungsrechtsverhältnissen ergeben.
 
 
 #### § 20b Betriebliche Gesundheitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052305126)
 
 (1) Die Krankenkassen fördern mit Leistungen zur Gesundheitsförderung
 in Betrieben (betriebliche Gesundheitsförderung) insbesondere den
@@ -1878,6 +1913,7 @@ Absatz 1 im Jahr 2020 nicht anzuwenden.
 
 
 #### § 20c Prävention arbeitsbedingter Gesundheitsgefahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052401119)
 
 (1) Die Krankenkassen unterstützen die Träger der gesetzlichen
 Unfallversicherung bei ihren Aufgaben zur Verhütung arbeitsbedingter
@@ -1901,6 +1937,7 @@ Zehnten Buches und § 219 gelten entsprechend.
 
 
 #### § 20d Nationale Präventionsstrategie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062202124)
 
 (1) Die Krankenkassen entwickeln im Interesse einer wirksamen und
 zielgerichteten Gesundheitsförderung und Prävention mit den Trägern
@@ -1981,6 +2018,7 @@ Verfügung stellen.
 
 
 #### § 20e Nationale Präventionskonferenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062300119)
 
 (1) Die Aufgabe der Entwicklung und Fortschreibung der nationalen
 Präventionsstrategie wird von der Nationalen Präventionskonferenz als
@@ -2033,6 +2071,7 @@ Geschäftsordnung der Nationalen Präventionskonferenz geregelt.
 
 
 #### § 20f Landesrahmenvereinbarungen zur Umsetzung der nationalen Präventionsstrategie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062401126)
 
 (1) Zur Umsetzung der nationalen Präventionsstrategie schließen die
 Landesverbände der Krankenkassen und die Ersatzkassen, auch für die
@@ -2084,6 +2123,7 @@ Zehnten Buches nicht angewendet.
 
 
 #### § 20g Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062600119)
 
 (1) Die Leistungsträger nach § 20d Absatz 1 und ihre Verbände können
 zur Erreichung der in den Rahmenempfehlungen nach § 20d Absatz 2
@@ -2104,6 +2144,7 @@ wissenschaftlich zu begleiten und auszuwerten.
 
 
 #### § 20h Förderung der Selbsthilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052510126)
 
 (1) Die Krankenkassen und ihre Verbände fördern Selbsthilfegruppen und
 -organisationen, die sich die gesundheitliche Prävention oder die
@@ -2152,6 +2193,7 @@ zusätzlich für die Pauschalförderung zur Verfügung zu stellen.
 
 
 #### § 20i Leistungen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061912126)
 
 (1) Versicherte haben Anspruch auf Leistungen für Schutzimpfungen im
 Sinne des § 2 Nr. 9 des Infektionsschutzgesetzes, dies gilt unabhängig
@@ -2361,6 +2403,7 @@ Krankenversicherungsunternehmen.
 
 
 #### § 20j Präexpositionsprophylaxe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068100124)
 
 (1) Versicherte mit einem substantiellen HIV-Infektionsrisiko, die das
 16\. Lebensjahr vollendet haben, haben Anspruch auf
@@ -2397,6 +2440,7 @@ Ende 2020 nach allgemein anerkannten wissenschaftlichen Standards.
 
 
 #### § 20k Förderung der digitalen Gesundheitskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070300126)
 
 (1) Die Krankenkasse sieht in der Satzung Leistungen zur Förderung des
 selbstbestimmten gesundheitsorientierten Einsatzes digitaler oder
@@ -2423,6 +2467,7 @@ erstatteten Leistungen sowie Art und Umfang der Übermittlung.
 
 
 #### § 21 Verhütung von Zahnerkrankungen (Gruppenprophylaxe)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010404308)
 
 (1) Die Krankenkassen haben im Zusammenwirken mit den Zahnärzten und
 den für die Zahngesundheitspflege in den Ländern zuständigen Stellen
@@ -2457,6 +2502,7 @@ Landesregierung bestimmt.
 
 
 #### § 22 Verhütung von Zahnerkrankungen (Individualprophylaxe)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010504308)
 
 (1) Versicherte, die das sechste, aber noch nicht das achtzehnte
 Lebensjahr vollendet haben, können sich zur Verhütung von
@@ -2482,6 +2528,7 @@ nach § 92.
 
 
 #### § 22a Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060702126)
 
 (1) Versicherte, die einem Pflegegrad nach § 15 des Elften Buches
 zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten
@@ -2499,6 +2546,7 @@ Gemeinsame Bundesausschuss in Richtlinien nach § 92.
 
 
 #### § 23 Medizinische Vorsorgeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010616126)
 
 (1) Versicherte haben Anspruch auf ärztliche Behandlung und Versorgung
 mit Arznei-, Verband-, Heil- und Hilfsmitteln, wenn diese notwendig
@@ -2594,6 +2642,7 @@ sollen in der Regel für vier bis sechs Wochen erbracht werden.
 
 
 #### § 24 Medizinische Vorsorge für Mütter und Väter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010709126)
 
 (1) Versicherte haben unter den in § 23 Abs. 1 genannten
 Voraussetzungen Anspruch auf aus medizinischen Gründen erforderliche
@@ -2616,6 +2665,7 @@ Zahlung ist an die Krankenkasse weiterzuleiten.
 
 
 #### § 24a Empfängnisverhütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040804126)
 
 (1) Versicherte haben Anspruch auf ärztliche Beratung über Fragen der
 Empfängnisregelung. Zur ärztlichen Beratung gehören auch die
@@ -2633,6 +2683,7 @@ vorliegen.
 
 
 #### § 24b Schwangerschaftsabbruch und Sterilisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040904308)
 
 (1) Versicherte haben Anspruch auf Leistungen bei einer durch
 Krankheit erforderlichen Sterilisation und bei einem nicht
@@ -2718,6 +2769,7 @@ des Krankenhausfinanzierungsgesetzes.
 
 
 #### § 24c Leistungen bei Schwangerschaft und Mutterschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058302126)
 
 Die Leistungen bei Schwangerschaft und Mutterschaft umfassen
 
@@ -2747,6 +2799,7 @@ oder stillt.
 
 
 #### § 24d Ärztliche Betreuung und Hebammenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058401119)
 
 Die Versicherte hat während der Schwangerschaft, bei und nach der
 Entbindung Anspruch auf ärztliche Betreuung sowie auf Hebammenhilfe
@@ -2767,6 +2820,7 @@ Unterstützungsangebote für Eltern und Kind.
 
 
 #### § 24e Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058501126)
 
 Die Versicherte hat während der Schwangerschaft und im Zusammenhang
 mit der Entbindung Anspruch auf Versorgung mit Arznei-, Verband-,
@@ -2778,6 +2832,7 @@ der Entbindung finden § 31 Absatz 3, § 32 Absatz 2, § 33 Absatz 8 und
 
 
 #### § 24f Entbindung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058600308)
 
 Die Versicherte hat Anspruch auf ambulante oder stationäre Entbindung.
 Die Versicherte kann ambulant in einem Krankenhaus, in einer von einer
@@ -2792,6 +2847,7 @@ gilt entsprechend.
 
 
 #### § 24g Häusliche Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058700308)
 
 Die Versicherte hat Anspruch auf häusliche Pflege, soweit diese wegen
 Schwangerschaft oder Entbindung erforderlich ist. § 37 Absatz 3 und 4
@@ -2799,6 +2855,7 @@ gilt entsprechend.
 
 
 #### § 24h Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058801126)
 
 Die Versicherte erhält Haushaltshilfe, soweit ihr wegen
 Schwangerschaft oder Entbindung die Weiterführung des Haushalts nicht
@@ -2807,6 +2864,7 @@ nicht weiterführen kann. § 38 Absatz 4 gilt entsprechend.
 
 
 #### § 24i Mutterschaftsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058906126)
 
 (1) Weibliche Mitglieder, die bei Arbeitsunfähigkeit Anspruch auf
 Krankengeld haben oder denen wegen der Schutzfristen nach § 3 des
@@ -2850,10 +2908,12 @@ Arbeitsentgelt.
 
 
 ### Vierter Abschnitt - Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001001119)
 
 
 
 #### § 25 Gesundheitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010805124)
 
 (1) Versicherte, die das 18. Lebensjahr vollendet haben, haben
 Anspruch auf alters-, geschlechter- und zielgruppengerechte ärztliche
@@ -2960,6 +3020,7 @@ werden.
 
 
 #### § 25a Organisierte Früherkennungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059205126)
 
 (1) Untersuchungen zur Früherkennung von Krebserkrankungen gemäß § 25
 Absatz 2, für die von der Europäischen Kommission veröffentlichte
@@ -3094,6 +3155,7 @@ des Gebotes der Datensicherheit in seiner Verfahrensordnung.
 
 
 #### § 25b Datengestützte Erkennung individueller Gesundheitsrisiken durch die Kranken- und Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093800126)
 
 (1) Die Kranken- und Pflegekassen können zum Gesundheitsschutz eines
 Versicherten datengestützte Auswertungen vornehmen und den
@@ -3212,6 +3274,7 @@ von sich aus eingeleitet hat.
 
 
 #### § 26 Gesundheitsuntersuchungen für Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE010904126)
 
 (1) Versicherte Kinder und Jugendliche haben bis zur Vollendung des
 18\. Lebensjahres Anspruch auf Untersuchungen zur Früherkennung von
@@ -3259,14 +3322,17 @@ Satz 1 gemeinsame Rahmenvereinbarungen.
 
 
 ### Fünfter Abschnitt - Leistungen bei Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001100328)
 
 
 
 #### Erster Titel - Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001200328)
 
 
 
 ##### § 27 Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011018126)
 
 (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie
 notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre
@@ -3380,6 +3446,7 @@ Aufenthaltsgesetzes erteilt wurde, sowie
 
 
 ##### § 27a Künstliche Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039602124)
 
 (1) Die Leistungen der Krankenbehandlung umfassen auch medizinische
 Maßnahmen zur Herbeiführung einer Schwangerschaft, wenn
@@ -3440,6 +3507,7 @@ der Maßnahmen nach den Absätzen 1 und 4.
 
 
 ##### § 27b Zweitmeinung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060802126)
 
 (1) Versicherte, bei denen die Indikation zu einem planbaren Eingriff
 gestellt wird, bei dem insbesondere im Hinblick auf die zahlenmäßige
@@ -3548,6 +3616,7 @@ Versorgung nach § 140a anbietet.
 
 
 ##### § 28 Ärztliche und zahnärztliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011117126)
 
 (1) Die ärztliche Behandlung umfaßt die Tätigkeit des Arztes, die zur
 Verhütung, Früherkennung und Behandlung von Krankheiten nach den
@@ -3606,6 +3675,7 @@ Vertragsarztes einzuholen.
 
 
 ##### § 29 Kieferorthopädische Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011206124)
 
 (1) Versicherte haben Anspruch auf kieferorthopädische Versorgung in
 medizinisch begründeten Indikationsgruppen, bei denen eine Kiefer-
@@ -3702,16 +3772,19 @@ enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011308308)
 
 (weggefallen)
 
 
 ##### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043201308)
 
 (weggefallen)
 
 
 ##### § 31 Arznei- und Verbandmittel, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011451126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit apothekenpflichtigen
 Arzneimitteln, soweit die Arzneimittel nicht nach § 34 oder durch
@@ -3941,6 +4014,7 @@ denen der Genehmigungsvorbehalt nach Absatz 6 Satz 2 entfällt.
 
 
 ##### § 31a Medikationsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065306126)
 
 (1) Versicherte, die gleichzeitig mindestens drei verordnete
 Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung
@@ -4031,6 +4105,7 @@ Modellvorhaben nach § 63 unberührt.
 
 
 ##### § 31b Referenzdatenbank für Fertigarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070400126)
 
 (1) Das Bundesministerium für Gesundheit stellt die Errichtung und das
 Betreiben einer Referenzdatenbank für Fertigarzneimittel sicher. Es
@@ -4068,6 +4143,7 @@ kostendeckende Entgelte verlangt werden.
 
 
 ##### § 31c Beleihung mit der Aufgabe der Referenzdatenbank für Fertigarzneimittel;Rechts- und Fachaufsicht über die Beliehene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070500126)
 
 (1) Das Bundesministerium für Gesundheit kann eine juristische Person
 des Privatrechts mit ihrem Einverständnis mit der Aufgabe und den
@@ -4127,6 +4203,7 @@ Rückgriff nehmen.
 
 
 ##### § 32 Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011510126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit Heilmitteln, soweit
 sie nicht nach § 34 ausgeschlossen sind. Ein Anspruch besteht auch auf
@@ -4165,6 +4242,7 @@ vereinbart oder nach § 125b Absatz 2 festgesetzt worden sind.
 
 
 ##### § 33 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011616126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit Hörhilfen,
 Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, die im
@@ -4307,6 +4385,7 @@ auf die Kosten der Linsen.
 
 
 ##### § 33a Digitale Gesundheitsanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045105126)
 
 (1) Versicherte haben Anspruch auf Versorgung mit Medizinprodukten
 niedriger und höherer Risikoklasse, deren Hauptfunktion wesentlich auf
@@ -4462,6 +4541,7 @@ innerhalb von zwei Wochen nach Ende des jeweiligen Kalenderquartals
 
 
 ##### § 34 Ausgeschlossene Arznei-, Heil- und Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011713126)
 
 (1) Nicht verschreibungspflichtige Arzneimittel sind von der
 Versorgung nach § 31 ausgeschlossen. Der Gemeinsame Bundesausschuss
@@ -4570,6 +4650,7 @@ Bundesausschuss.
 
 
 ##### § 35 Festbeträge für Arznei- und Verbandmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011818126)
 
 (1) Der Gemeinsame Bundesausschuss bestimmt in den Richtlinien nach §
 92 Abs. 1 Satz 2 Nr. 6, für welche Gruppen von Arzneimitteln
@@ -4793,6 +4874,7 @@ finden ab dem 1. Januar 2012 Anwendung.
 
 
 ##### § 35a Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047621126)
 
 (1) Der Gemeinsame Bundesausschuss bewertet den Nutzen aller
 erstattungsfähigen Arzneimittel mit neuen Wirkstoffen. Hierzu gehört
@@ -5220,6 +5302,7 @@ Satz 1 bis 3 gilt entsprechend.
 
 
 ##### § 35b Kosten-Nutzen-Bewertung von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048304377)
 
 (1) Der Gemeinsame Bundesausschuss beauftragt auf Grund eines Antrags
 nach § 130b Absatz 8 das Institut für Qualität und Wirtschaftlichkeit
@@ -5280,6 +5363,7 @@ aufschiebende Wirkung.
 
 
 ##### § 35c Zulassungsüberschreitende Anwendung von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052602308)
 
 (1) Für die Abgabe von Bewertungen zum Stand der wissenschaftlichen
 Erkenntnis über die Anwendung von zugelassenen Arzneimitteln für
@@ -5329,6 +5413,7 @@ für das Inverkehrbringen nach europäischem Recht.
 
 
 ##### § 36 Festbeträge für Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE011907301)
 
 (1) Der Spitzenverband Bund der Krankenkassen bestimmt Hilfsmittel,
 für die Festbeträge festgesetzt werden. Dabei sollen unter
@@ -5356,6 +5441,7 @@ erteilen.
 
 
 ##### § 37 Häusliche Krankenpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012016126)
 
 (1) Versicherte erhalten in ihrem Haushalt, ihrer Familie oder sonst
 an einem geeigneten Ort, insbesondere in betreuten Wohnformen, Schulen
@@ -5493,6 +5579,7 @@ beauftragenden unabhängigen Dritten zu erfolgen.
 
 
 ##### § 37a Soziotherapie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045201308)
 
 (1) Versicherte, die wegen schwerer psychischer Erkrankung nicht in
 der Lage sind, ärztliche oder ärztlich verordnete Leistungen
@@ -5535,6 +5622,7 @@ Zuzahlung je Kalendertag der Leistungsinanspruchnahme den sich nach §
 
 
 ##### § 37b Spezialisierte ambulante Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052706124)
 
 (1) Versicherte mit einer nicht heilbaren, fortschreitenden und weit
 fortgeschrittenen Erkrankung bei einer zugleich begrenzten
@@ -5593,6 +5681,7 @@ Palliativversorgung.
 
 
 ##### § 37c Außerklinische Intensivpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084900126)
 
 (1) Versicherte mit einem besonders hohen Bedarf an medizinischer
 Behandlungspflege haben Anspruch auf außerklinische Intensivpflege.
@@ -5765,6 +5854,7 @@ insbesondere aufzuführen:
 
 
 ##### § 38 Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012105119)
 
 (1) Versicherte erhalten Haushaltshilfe, wenn ihnen wegen
 Krankenhausbehandlung oder wegen einer Leistung nach § 23 Abs. 2 oder
@@ -5810,6 +5900,7 @@ Zuzahlung je Kalendertag der Leistungsinanspruchnahme den sich nach §
 
 
 ##### § 39 Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012221126)
 
 (1) Die Krankenhausbehandlung wird vollstationär, stationsäquivalent,
 tagesstationär, teilstationär, vor- und nachstationär sowie ambulant
@@ -5924,6 +6015,7 @@ sind auf die Zahlung nach Satz 1 anzurechnen.
 
 
 ##### § 39a Stationäre und ambulante Hospizleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043307126)
 
 (1) Versicherte, die keiner Krankenhausbehandlung bedürfen, haben im
 Rahmen der Verträge nach Satz 4 Anspruch auf einen Zuschuß zu
@@ -6017,6 +6109,7 @@ Elften Buches sollen mit ambulanten Hospizdiensten zusammenarbeiten.
 
 
 ##### § 39b Hospiz- und Palliativberatung durch die Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063002126)
 
 (1) Versicherte haben Anspruch auf individuelle Beratung und
 Hilfestellung durch die Krankenkasse zu den Leistungen der Hospiz- und
@@ -6049,6 +6142,7 @@ Formulierungshilfen anderer öffentlicher Stellen.
 
 
 ##### § 39c Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063802124)
 
 Reichen Leistungen der häuslichen Krankenpflege nach § 37 Absatz 1a
 bei schwerer Krankheit oder wegen akuter Verschlimmerung einer
@@ -6064,6 +6158,7 @@ Elften Buch oder in anderen geeigneten Einrichtungen erbracht werden.
 
 
 ##### § 39d Förderung der Koordination in Hospiz- und Palliativnetzwerken durch einen Netzwerkkoordinator
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE086700126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen fördern
 gemeinsam und einheitlich in jedem Kreis und jeder kreisfreien Stadt
@@ -6150,6 +6245,7 @@ Koordinierungstätigkeiten und die Höhe der Fördermittel zu
 
 
 ##### § 39e Übergangspflege im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE086801126)
 
 (1) Versicherte haben im Anschluss an eine Krankenhausbehandlung für
 längstens zehn Tage Anspruch auf Übergangspflege
@@ -6188,6 +6284,7 @@ anzurechnen.
 
 
 ##### § 40 Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012324126)
 
 (1) Reicht bei Versicherten eine ambulante Krankenbehandlung nicht
 aus, um die in § 11 Abs. 2 beschriebenen Ziele zu erreichen, erbringt
@@ -6364,6 +6461,7 @@ Entscheidung einzubeziehen.
 
 
 ##### § 41 Medizinische Rehabilitation für Mütter und Väter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012411126)
 
 (1) Versicherte haben unter den in § 27 Abs. 1 genannten
 Voraussetzungen Anspruch auf aus medizinischen Gründen erforderliche
@@ -6387,6 +6485,7 @@ Zahlungen sind an die Krankenkasse weiterzuleiten.
 
 
 ##### § 42 Belastungserprobung und Arbeitstherapie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012500328)
 
 Versicherte haben Anspruch auf Belastungserprobung und
 Arbeitstherapie, wenn nach den für andere Träger der
@@ -6395,6 +6494,7 @@ erbracht werden können.
 
 
 ##### § 43 Ergänzende Leistungen zur Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012607119)
 
 (1) Die Krankenkasse kann neben den Leistungen, die nach § 64 Abs. 1
 Nr. 2 bis 6 sowie nach §§ 73 und 74 des Neunten Buches als ergänzende
@@ -6435,6 +6535,7 @@ sowie zu Inhalt und Qualität der Nachsorgemaßnahmen.
 
 
 ##### § 43a Nichtärztliche sozialpädiatrische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040703119)
 
 (1) Versicherte Kinder haben Anspruch auf nichtärztliche
 sozialpädiatrische Leistungen, insbesondere auf psychologische,
@@ -6450,6 +6551,7 @@ der ambulanten psychiatrischen Behandlung erbracht werden.
 
 
 ##### § 43b Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060900119)
 
 Versicherte Erwachsene mit geistiger Behinderung oder schweren
 Mehrfachbehinderungen haben Anspruch auf nichtärztliche Leistungen,
@@ -6462,6 +6564,7 @@ im Einzelfall erforderliche Koordinierung von Leistungen.
 
 
 ##### § 43c Zahlungsweg
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041106119)
 
 (1) Leistungserbringer haben Zahlungen, die Versicherte zu entrichten
 haben, einzuziehen und mit ihrem Vergütungsanspruch gegenüber der
@@ -6497,10 +6600,12 @@ wirtschaftlich ist.
 
 
 #### Zweiter Titel - Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001300328)
 
 
 
 ##### § 44 Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012707126)
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn die Krankheit sie
 arbeitsunfähig macht oder sie auf Kosten der Krankenkasse stationär in
@@ -6569,6 +6674,7 @@ Ersten Buches genannten Stellen übertragen.
 
 
 ##### § 44a Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058001119)
 
 Spender von Organen, Geweben oder Blut zur Separation von
 Blutstammzellen oder anderen Blutbestandteilen nach § 27 Absatz 1a
@@ -6590,6 +6696,7 @@ gesetzlich krankenversicherte Personen.
 
 
 ##### § 44b Krankengeld für eine bei stationärer Behandlung mitaufgenommene Begleitperson aus dem engsten persönlichen Umfeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087502126)
 
 (1) Ab dem 1. November 2022 haben Versicherte Anspruch auf
 Krankengeld, wenn sie
@@ -6660,6 +6767,7 @@ nicht Versicherte mit Anspruch auf Krankengeld nach Absatz 1 sind.
 
 
 ##### § 45 Krankengeld bei Erkrankung des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012817126)
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn es nach
 ärztlichem Zeugnis erforderlich ist, daß sie zur Beaufsichtigung,
@@ -6758,6 +6866,7 @@ Krankengeld nach Absatz 1 oder Absatz 1a sind.
 
 
 ##### § 46 Entstehen des Anspruchs auf Krankengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE012904124)
 
 Der Anspruch auf Krankengeld entsteht
 
@@ -6795,6 +6904,7 @@ Tarif nach § 53 Abs. 6 gewählt hat.
 
 
 ##### § 47 Höhe und Berechnung des Krankengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013020126)
 
 (1) Das Krankengeld beträgt 70 vom Hundert des erzielten regelmäßigen
 Arbeitsentgelts und Arbeitseinkommens, soweit es der
@@ -6877,6 +6987,7 @@ kalendertäglichen Beitragsbemessungsgrenze berücksichtigt.
 
 
 ##### § 47a Beitragszahlungen der Krankenkassen an berufsständische Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042803119)
 
 (1) Für Bezieher von Krankengeld, die wegen einer
 Pflichtmitgliedschaft in einer berufsständischen
@@ -6907,6 +7018,7 @@ genehmigen sind.
 
 
 ##### § 47b Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042906126)
 
 (1) Das Krankengeld für Versicherte nach § 5 Abs. 1 Nr. 2 wird in Höhe
 des Betrages des Arbeitslosengeldes oder des Unterhaltsgeldes gewährt,
@@ -6948,6 +7060,7 @@ entsprechend.
 
 
 ##### § 48 Dauer des Krankengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013101124)
 
 (1) Versicherte erhalten Krankengeld ohne zeitliche Begrenzung, für
 den Fall der Arbeitsunfähigkeit wegen derselben Krankheit jedoch für
@@ -6980,6 +7093,7 @@ Verletztengeld nach dem Siebten Buch.
 
 
 ##### § 49 Ruhen des Krankengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013225126)
 
 (1) Der Anspruch auf Krankengeld ruht,
 
@@ -7051,6 +7165,7 @@ aufgestockt werden.
 
 
 ##### § 50 Ausschluß und Kürzung des Krankengeldes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013310124)
 
 (1) Für Versicherte, die
 
@@ -7120,6 +7235,7 @@ Arbeitsunfähigkeit oder der stationären Behandlung an zuerkannt wird.
 
 
 ##### § 51 Wegfall des Krankengeldes, Antrag auf Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013408126)
 
 (1) Versicherten, deren Erwerbsfähigkeit nach ärztlichem Gutachten
 erheblich gefährdet oder gemindert ist, kann die Krankenkasse eine
@@ -7149,10 +7265,12 @@ Antragstellung wieder auf.
 
 
 #### Dritter Titel - Leistungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001400328)
 
 
 
 ##### § 52 Leistungsbeschränkung bei Selbstverschulden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE013502308)
 
 (1) Haben sich Versicherte eine Krankheit vorsätzlich oder bei einem
 von ihnen begangenen Verbrechen oder vorsätzlichen Vergehen zugezogen,
@@ -7168,6 +7286,7 @@ Behandlung ganz oder teilweise zu versagen oder zurückzufordern.
 
 
 ##### § 52a Leistungsausschluss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052800308)
 
 Auf Leistungen besteht kein Anspruch, wenn sich Personen in den
 Geltungsbereich dieses Gesetzbuchs begeben, um in einer Versicherung
@@ -7178,10 +7297,12 @@ Satzung.
 
 
 ### Sechster Abschnitt - Selbstbehalt, Beitragsrückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001504308)
 
 
 
 #### § 53 Wahltarife
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043412126)
 
 (1) Die Krankenkasse kann in ihrer Satzung vorsehen, dass Mitglieder
 jeweils für ein Kalenderjahr einen Teil der von der Krankenkasse zu
@@ -7283,15 +7404,18 @@ zugrunde liegen.
 
 
 #### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048401308)
 
 -
 
 
 ### Siebter Abschnitt - Zahnersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001601308)
 
 
 
 #### § 55 Leistungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048514126)
 
 (1) Versicherte haben nach den Vorgaben in den Sätzen 2 bis 7 Anspruch
 auf befundbezogene Festzuschüsse bei einer medizinisch notwendigen
@@ -7415,6 +7539,7 @@ andersartige Versorgung durchgeführt wird.
 
 
 #### § 56 Festsetzung der Regelversorgungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048604126)
 
 (1) Der Gemeinsame Bundesausschuss bestimmt in Richtlinien, erstmalig
 bis zum 30. Juni 2004, die Befunde, für die Festzuschüsse nach § 55
@@ -7474,6 +7599,7 @@ für Gesundheit die Richtlinie nach § 94 Abs. 1 Satz 5, gilt § 87 Abs.
 
 
 #### § 57 Beziehungen zu Zahnärzten und Zahntechnikern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048705126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die
 Kassenzahnärztliche Bundesvereinigung vereinbaren jeweils bis zum 30.
@@ -7519,6 +7645,7 @@ nach Satz 1 betragen einen Monat.
 
 
 #### § 58 Beitrag für Zahnersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014104308)
 
 (1) (weggefallen)
 
@@ -7530,15 +7657,18 @@ nach Satz 1 betragen einen Monat.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014205308)
 
 (weggefallen)
 
 
 ### Achter Abschnitt - Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001700328)
 
 
 
 #### § 60 Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014314126)
 
 (1) Die Krankenkasse übernimmt nach den Absätzen 2 und 3 die Kosten
 für Fahrten einschließlich der Transporte nach § 133 (Fahrkosten),
@@ -7645,10 +7775,12 @@ Sinne des § 19 Satz 1 des Elften Buches zu erstatten.
 
 
 ### Neunter Abschnitt - Zuzahlungen, Belastungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001801308)
 
 
 
 #### § 61 Zuzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014415126)
 
 Zuzahlungen, die Versicherte zu leisten haben, betragen 10 vom Hundert
 des Abgabepreises, mindestens jedoch 5 Euro und höchstens 10 Euro;
@@ -7674,6 +7806,7 @@ gilt entsprechend bei der Abgabe einer Teilmenge aus einer Packung.
 
 
 #### § 62 Belastungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014522126)
 
 (1) Versicherte haben während jedes Kalenderjahres nur Zuzahlungen bis
 zur Belastungsgrenze zu leisten; wird die Belastungsgrenze bereits
@@ -7770,15 +7903,18 @@ enthalten.
 
 
 #### § 62a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043803308)
 
 (weggefallen)
 
 
 ### Zehnter Abschnitt - Weiterentwicklung der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG001901308)
 
 
 
 #### § 63 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014617126)
 
 (1) Die Krankenkassen und ihre Verbände können im Rahmen ihrer
 gesetzlichen Aufgabenstellung zur Verbesserung der Qualität und der
@@ -7894,6 +8030,7 @@ werden. Die Vorschriften dieses Abschnitts gelten entsprechend.
 
 
 #### § 64 Vereinbarungen mit Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014709119)
 
 (1) Die Krankenkassen und ihre Verbände können mit den in der
 gesetzlichen Krankenversicherung zugelassenen Leistungserbringern oder
@@ -7961,6 +8098,7 @@ Leistungen im Wege der Kostenerstattung abgerechnet werden.
 
 
 #### § 64a Modellvorhaben zur Arzneimittelversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057602124)
 
 (1) Die Kassenärztliche Vereinigung und die für die Wahrnehmung der
 wirtschaftlichen Interessen maßgebliche Organisation der Apotheker auf
@@ -8015,6 +8153,7 @@ wurde.
 
 
 #### § 64b Modellvorhaben zur Versorgung psychisch kranker Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058101126)
 
 (1) Gegenstand von Modellvorhaben nach § 63 Absatz 1 oder 2 kann auch
 die Weiterentwicklung der Versorgung psychisch kranker Menschen sein,
@@ -8061,6 +8200,7 @@ deren Finanzierung beteiligen.
 
 
 #### § 64c Modellvorhaben zum Screening auf 4MRGN
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059901124)
 
 (1) Die in § 115 Absatz 1 Satz 1 genannten Vertragspartner vereinbaren
 gemeinsam und einheitlich im Einvernehmen mit dem Robert Koch-Institut
@@ -8094,6 +8234,7 @@ Vereinigungen aus wissenschaftlichen Gründen nicht erforderlich ist.
 
 
 #### § 64d Verpflichtende Durchführung von Modellvorhaben zur Übertragung ärztlicher Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE086901126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen führen
 gemeinsam in jedem Bundesland mindestens ein Modellvorhaben nach § 63
@@ -8161,6 +8302,7 @@ Versicherten nach § 140a fortführen.
 
 
 #### § 64e Modellvorhaben zur umfassenden Diagnostik und Therapiefindung mittels Genomsequenzierung bei seltenen und bei onkologischen Erkrankungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087002126)
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt bis zum 1.
 April 2024 mit den Leistungserbringern, deren Berechtigung zur
@@ -8901,6 +9043,7 @@ Untersuchungen und Analysen bleiben unberührt.
 
 
 #### § 65 Auswertung der Modellvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014802308)
 
 Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche
 Begleitung und Auswertung der Modellvorhaben im Hinblick auf die
@@ -8911,6 +9054,7 @@ Bericht über die Ergebnisse der Auswertung ist zu veröffentlichen.
 
 
 #### § 65a Bonus für gesundheitsbewusstes Verhalten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045306124)
 
 (1) Die Krankenkasse bestimmt in ihrer Satzung, unter welchen
 Voraussetzungen Versicherte, die Leistungen zur Erfassung von
@@ -8949,6 +9093,7 @@ Versorgungsformen gewährt werden.
 
 
 #### § 65b Stiftung Unabhängige Patientenberatung Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045408126)
 
 (1) Der Spitzenverband Bund der Krankenkassen muss eine rechtsfähige
 Stiftung bürgerlichen Rechts errichten; er hat dafür das notwendige
@@ -9231,6 +9376,7 @@ entsandten Mitglieder des Stiftungsrats bleibt hiervon unberührt.
 
 
 #### § 65c Klinische Krebsregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059309126)
 
 (1) Zur Verbesserung der Qualität der onkologischen Versorgung führen
 die Länder klinische Krebsregister. Die klinischen Krebsregister haben
@@ -9687,6 +9833,7 @@ der Krankenkassen.
 
 
 #### § 65d Förderung besonderer Therapieeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065902126)
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar
 2017 bis zum 31. Dezember 2025 mit insgesamt fünf Millionen Euro je
@@ -9730,6 +9877,7 @@ anzuwenden.
 
 
 #### § 65e Ambulante Krebsberatungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE069101126)
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab dem 1. Juli
 2020 mit Wirkung vom 1. Januar 2020 ambulante Krebsberatungsstellen
@@ -9811,6 +9959,7 @@ Umsetzung der Förderung.
 
 
 #### § 65f Vereinbarung zur Suche und Auswahl nichtverwandter Spender von Blutstammzellen aus dem Knochenmark oder aus dem peripheren Blut
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073001126)
 
 Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die
 nationale und internationale Suche nach nichtverwandten Spendern von
@@ -9861,6 +10010,7 @@ peripheren Blut bleiben unberührt.
 
 
 #### § 66 Unterstützung der Versicherten bei Behandlungsfehlern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE014903126)
 
 Die Krankenkassen sollen die Versicherten bei der Verfolgung von
 Schadensersatzansprüchen, die bei der Inanspruchnahme von
@@ -9880,6 +10030,7 @@ Behandlungsfehlern verarbeitet werden.
 
 
 #### § 67 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015006126)
 
 (1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der
 Versorgung soll die Kommunikation sowie der Daten- und
@@ -9927,10 +10078,12 @@ Krankenkasse ermöglicht wird.
 
 
 #### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048801126)
 
 
 
 #### § 68a Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070600126)
 
 (1) Zur Verbesserung der Qualität und der Wirtschaftlichkeit der
 Versorgung können Krankenkassen die Entwicklung digitaler Innovationen
@@ -9989,6 +10142,7 @@ Daten an Dritte nach den Absätzen 3 und 4 ist ausgeschlossen.
 
 
 #### § 68b Förderung von Versorgungsinnovationen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070702126)
 
 (1) Die Krankenkassen können Versorgungsinnovationen fördern. Diese
 sollen insbesondere ermöglichen,
@@ -10042,6 +10196,7 @@ seinen Mitgliedern zu übermittelnden statistischen Informationen.
 
 
 #### § 68c Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076601126)
 
 (1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der
 vertragsärztlichen und der vertragszahnärztlichen Versorgung können
@@ -10088,14 +10243,17 @@ entsprechend.
 
 
 ## Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002000328)
 
 
 
 ### Erster Abschnitt - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002100328)
 
 
 
 #### § 69 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015210311)
 
 (1) Dieses Kapitel sowie die §§ 63 und 64 regeln abschließend die
 Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu Ärzten,
@@ -10151,6 +10309,7 @@ Absatzes durch seine Mitglieder.
 
 
 #### § 70 Qualität, Humanität und Wirtschaftlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015301308)
 
 (1) Die Krankenkassen und die Leistungserbringer haben eine
 bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der
@@ -10166,6 +10325,7 @@ hinzuwirken.
 
 
 #### § 71 Beitragssatzstabilität, besondere Aufsichtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015428124)
 
 (1) Die Vertragspartner auf Seiten der Krankenkassen und der
 Leistungserbringer haben die Vereinbarungen über die Vergütungen nach
@@ -10251,14 +10411,17 @@ bezüglich der Einhaltung Nachweise zu erbringen.
 
 
 ### Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002201308)
 
 
 
 #### Erster Titel - Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002301308)
 
 
 
 ##### § 72 Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015504308)
 
 (1) Ärzte, Zahnärzte, Psychotherapeuten, medizinische
 Versorgungszentren und Krankenkassen wirken zur Sicherstellung der
@@ -10285,6 +10448,7 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See nach den
 
 
 ##### § 72a Übergang des Sicherstellungsauftrags auf die Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041202308)
 
 (1) Haben mehr als 50 vom Hundert aller in einem Zulassungsbezirk oder
 einem regionalen Planungsbereich niedergelassenen Vertragsärzte auf
@@ -10337,6 +10501,7 @@ Krankenkassen mitzuteilen.
 
 
 ##### § 73 Kassenärztliche Versorgung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015648126)
 
 (1) Die vertragsärztliche Versorgung gliedert sich in die
 hausärztliche und die fachärztliche Versorgung. Die hausärztliche
@@ -10643,10 +10808,12 @@ verordnen.
 
 
 ##### § 73a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043902119)
 
 
 
 ##### § 73b Hausarztzentrierte Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048910124)
 
 (1) Die Krankenkassen haben ihren Versicherten eine besondere
 hausärztliche Versorgung (hausarztzentrierte Versorgung) anzubieten.
@@ -10841,6 +11008,7 @@ Absatz 2 des Vierten Buches gilt entsprechend.
 
 
 ##### § 73c Kooperationsvereinbarungen zum Kinder- und Jugendschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049005377)
 
 Die Kassenärztlichen Vereinigungen sollen mit den kommunalen
 Spitzenverbänden auf Landesebene eine Vereinbarung über die
@@ -10854,10 +11022,12 @@ nicht für Kassenzahnärztliche Vereinigungen und Zahnärzte.
 
 
 ##### § 73d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052102308)
 
 
 
 ##### § 74 Stufenweise Wiedereingliederung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015701124)
 
 Können arbeitsunfähige Versicherte nach ärztlicher Feststellung ihre
 bisherige Tätigkeit teilweise verrichten und können sie durch eine
@@ -10876,6 +11046,7 @@ stufenweise Wiedereingliederung nach Satz 2 fest.
 
 
 ##### § 75 Inhalt und Umfang der Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015824126)
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen
 Bundesvereinigungen haben die vertragsärztliche Versorgung in dem in §
@@ -11264,6 +11435,7 @@ Sätzen zu vergüten.
 
 
 ##### § 75a Förderung der Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061002126)
 
 (1) Die Kassenärztlichen Vereinigungen und die Krankenkassen sind zur
 Sicherung der hausärztlichen Versorgung verpflichtet, die
@@ -11377,6 +11549,7 @@ Jugendmedizin, zu fördern.
 
 
 ##### § 76 Freie Arztwahl
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE015909124)
 
 (1) Die Versicherten können unter den zur vertragsärztlichen
 Versorgung zugelassenen Ärzten, den medizinischen Versorgungszentren,
@@ -11431,10 +11604,12 @@ entsprechend.
 
 
 #### Zweiter Titel - Kassenärztliche und Kassenzahnärztliche Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002400328)
 
 
 
 ##### § 77 Kassenärztliche Vereinigungen und Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016010126)
 
 (1) Zur Erfüllung der ihnen durch dieses Buch übertragenen Aufgaben
 der vertragsärztlichen Versorgung bilden die Vertragsärzte für den
@@ -11496,6 +11671,7 @@ Maßgabe, dass nur der Auftragsverarbeiter anzuzeigen ist.
 
 
 ##### § 77a Dienstleistungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052900301)
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen
 Bundesvereinigungen können zur Erfüllung der in Absatz 2 aufgeführten
@@ -11534,6 +11710,7 @@ ausgeschlossen.
 
 
 ##### § 77b Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften der Kassenärztlichen Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066201124)
 
 (1) Vor der Entscheidung des Vorstandes der Kassenärztlichen
 Bundesvereinigungen über die Errichtung, Übernahme oder wesentliche
@@ -11592,6 +11769,7 @@ Bundesvereinigungen beteiligt sind.
 
 
 ##### § 78 Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016113126)
 
 (1) Die Aufsicht über die Kassenärztlichen Bundesvereinigungen führt
 das Bundesministerium für Gesundheit, die Aufsicht über die
@@ -11645,6 +11823,7 @@ der Mittel § 305b entsprechend.
 
 
 ##### § 78a Aufsichtsmittel in besonderen Fällen bei den Kassenärztlichen Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066300119)
 
 (1) Ergibt sich nachträglich, dass eine Satzung nicht hätte genehmigt
 werden dürfen, oder bedarf eine Satzung wegen nachträglich
@@ -11684,6 +11863,7 @@ gegen Anordnungen und Maßnahmen der Aufsichtsbehörde nach den Absätzen
 
 
 ##### § 78b Entsandte Person für besondere Angelegenheiten bei den Kassenärztlichen Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066400119)
 
 (1) Solange und soweit die ordnungsgemäße Verwaltung bei den
 Kassenärztlichen Bundesvereinigungen gefährdet ist, kann die
@@ -11751,6 +11931,7 @@ haben keine aufschiebende Wirkung.
 
 
 ##### § 78c Berichtspflicht des Bundesministeriums für Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066500119)
 
 Sofern schutzwürdige Belange Dritter nicht entgegenstehen, hat das
 Bundesministerium für Gesundheit dem Ausschuss für Gesundheit des
@@ -11763,6 +11944,7 @@ sowie über den Sachstand der Aufsichtsverfahren vorzulegen.
 
 
 ##### § 79 Organe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016218126)
 
 (1) Bei den Kassenärztlichen Vereinigungen und den Kassenärztlichen
 Bundesvereinigungen werden eine Vertreterversammlung als
@@ -11956,6 +12138,7 @@ ist auch der Vertreterversammlung zu berichten.
 
 
 ##### § 79a Verhinderung von Organen, Bestellung eines Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041302119)
 
 (1) Solange und soweit die Wahl der Vertreterversammlung und des
 Vorstandes der Kassenärztlichen Vereinigungen nicht zustande kommt
@@ -12016,6 +12199,7 @@ Kassenärztlichen Vereinigung, für das sie die Geschäfte führen.
 
 
 ##### § 79b Beratender Fachausschuß für Psychotherapie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044803126)
 
 Bei den Kassenärztlichen Vereinigungen und der Kassenärztlichen
 Bundesvereinigung wird ein beratender Fachausschuß für Psychotherapie
@@ -12040,6 +12224,7 @@ Bundesvereinigung bleiben unberührt.
 
 
 ##### § 79c Beratender Fachausschuss für hausärztliche Versorgung; weitere beratende Fachausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045503119)
 
 Bei den Kassenärztlichen Vereinigungen und der Kassenärztlichen
 Bundesvereinigung wird jeweils ein beratender Fachausschuss gebildet
@@ -12070,6 +12255,7 @@ Satzung. § 79b Satz 5 bis 8 gilt entsprechend.
 
 
 ##### § 80 Wahl und Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016304119)
 
 (1) Die Mitglieder der Kassenärztlichen Vereinigungen wählen in
 unmittelbarer und geheimer Wahl die Mitglieder der
@@ -12148,6 +12334,7 @@ stellvertretenden Vorsitzenden endet mit der Abberufung.
 
 
 ##### § 81 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016409126)
 
 (1) Die Satzung muss insbesondere Bestimmungen enthalten über
 
@@ -12226,6 +12413,7 @@ Sozialgerichtsgesetzes) findet nicht statt.
 
 
 ##### § 81a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049104126)
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen
 Bundesvereinigungen richten organisatorische Einheiten ein, die Fällen
@@ -12341,10 +12529,12 @@ Internet.
 
 
 #### Dritter Titel - Verträge auf Bundes- und Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002500328)
 
 
 
 ##### § 82 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016515126)
 
 (1) Den allgemeinen Inhalt der Gesamtverträge vereinbaren die
 Kassenärztlichen Bundesvereinigungen mit dem Spitzenverband Bund der
@@ -12372,6 +12562,7 @@ entsprechender Ersatzverordnungen.
 
 
 ##### § 83 Gesamtverträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016609301)
 
 Die Kassenärztlichen Vereinigungen schließen mit den für ihren Bezirk
 zuständigen Landesverbänden der Krankenkassen und den Ersatzkassen
@@ -12389,6 +12580,7 @@ Satz 4 gilt nicht für vertragszahnärztliche Leistungen.
 
 
 ##### § 84 Arznei- und Heilmittelvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016720126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und einheitlich und die Kassenärztliche Vereinigung treffen
@@ -12548,6 +12740,7 @@ Zustimmung des Bundesrates erhöhen.
 
 
 ##### § 85 Gesamtvergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016829126)
 
 (1) Die Krankenkasse entrichtet nach Maßgabe der Gesamtverträge an die
 jeweilige Kassenärztliche Vereinigung mit befreiender Wirkung eine
@@ -12662,6 +12855,7 @@ ihre Änderung oder Aufhebung haben keine aufschiebende Wirkung.
 
 
 ##### § 85a Sonderregelungen für Vertragszahnärztinnen und Vertragszahnärzte aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049204126)
 
 (1) Um die finanziellen Auswirkungen zu überbrücken, die sich aus der
 infolge der COVID-19-Pandemie verminderten Inanspruchnahme
@@ -12736,20 +12930,24 @@ Leistungsfähigkeit der Zahnarztpraxen zu gewährleisten.
 
 
 ##### § 85b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049302308)
 
 -
 
 
 ##### § 85c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049402308)
 
 
 
 ##### § 85d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049501308)
 
 -
 
 
 ##### § 86 Verwendung von Verordnungen und Empfehlungen in elektronischer Form
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE016906126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem
 Spitzenverband Bund der Krankenkassen als Bestandteil der
@@ -12790,6 +12988,7 @@ Empfehlung zu verwenden sind, sobald diese zur Verfügung stehen.
 
 
 ##### § 86a Verwendung von Überweisungen in elektronischer Form
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076800126)
 
 Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem
 Spitzenverband Bund der Krankenkassen als Bestandteil der
@@ -12801,6 +13000,7 @@ Telematikinfrastruktur für die Übermittlung der elektronischen
 
 
 ##### § 87 Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017067126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem
 Spitzenverband Bund der Krankenkassen durch Bewertungsausschüsse als
@@ -13787,6 +13987,7 @@ Absatz 6 haben keine aufschiebende Wirkung.
 
 
 ##### § 87a Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053032126)
 
 (1) Abweichend von § 82 Abs. 2 Satz 2 und § 85 gelten für die
 Vergütung vertragsärztlicher Leistungen die in Absatz 2 bis 6
@@ -14296,6 +14497,7 @@ entsprechend.
 
 
 ##### § 87b Vergütung der Ärzte (Honorarverteilung)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053111126)
 
 (1) Die Kassenärztliche Vereinigung verteilt die vereinbarten
 Gesamtvergütungen an die Ärzte, Psychotherapeuten, medizinischen
@@ -14408,6 +14610,7 @@ vertragszahnärztliche Leistungen.
 
 
 ##### § 87c Transparenz der Vergütung vertragsärztlicher Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053203126)
 
 Die Kassenärztliche Bundesvereinigung veröffentlicht für jedes Quartal
 zeitnah nach Abschluss des jeweiligen Abrechnungszeitraumes sowie für
@@ -14424,9 +14627,11 @@ Fristen der Berichte und zu den Datenübermittlungen zu bestimmen.
 
 
 ##### § 87d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056802124)
 
 
 ##### § 87e Zahlungsanspruch bei Mehrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045605124)
 
 Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29
 Absatz 5 Satz 1 und § 55 Abs. 4 ist die Gebührenordnung für Zahnärzte.
@@ -14444,10 +14649,12 @@ Richtlinien und der Tag des Beschlusses des Bewertungsausschusses.
 
 
 #### Vierter Titel - Zahntechnische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002600328)
 
 
 
 ##### § 88 Bundesleistungsverzeichnis, Datenaustausch, Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017106126)
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem
 Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches
@@ -14475,10 +14682,12 @@ unterschreiten. Hierzu können Verträge nach § 83 abgeschlossen werden.
 
 
 #### Fünfter Titel - Schiedswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002700328)
 
 
 
 ##### § 89 Schiedsamt, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017216124)
 
 (1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
 Krankenkassen sowie die Ersatzkassen bilden je ein gemeinsames
@@ -14629,6 +14838,7 @@ Absatzes 11 erlassene Verordnung entsprechend.
 
 
 ##### § 89a Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068201126)
 
 (1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
 Krankenkassen und die Ersatzkassen sowie die
@@ -14769,10 +14979,12 @@ Bundesvereinigung.
 
 
 #### Sechster Titel - Landesausschüsse und Gemeinsamer Bundesausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002801308)
 
 
 
 ##### § 90 Landesausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017310124)
 
 (1) Die Kassenärztlichen Vereinigungen und die Landesverbände der
 Krankenkassen sowie die Ersatzkassen bilden für den Bereich jedes
@@ -14836,6 +15048,7 @@ gilt entsprechend.
 
 
 ##### § 90a Gemeinsames Landesgremium
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057701119)
 
 (1) Nach Maßgabe der landesrechtlichen Bestimmungen kann für den
 Bereich des Landes ein gemeinsames Gremium aus Vertretern des Landes,
@@ -14855,6 +15068,7 @@ zu nehmen.
 
 
 ##### § 91 Gemeinsamer Bundesausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017423126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen, die Deutsche
 Krankenhausgesellschaft und der Spitzenverband Bund der Krankenkassen
@@ -15111,6 +15325,7 @@ erfolgt ist.
 
 
 ##### § 91a Aufsicht über den Gemeinsamen Bundesausschuss, Haushalts- und Rechnungswesen, Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066603126)
 
 (1) Die Aufsicht über den Gemeinsamen Bundesausschuss führt das
 Bundesministerium für Gesundheit. Die §§ 87 bis 89 des Vierten Buches
@@ -15156,6 +15371,7 @@ gelten entsprechend.
 
 
 ##### § 91b Verordnungsermächtigung zur Regelung der Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE069400126)
 
 Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 ohne Zustimmung des Bundesrates erstmals bis zum 30. Juni 2020 das
@@ -15194,6 +15410,7 @@ Verfahrensordnung an die Vorgaben der Rechtsverordnung anzupassen.
 
 
 ##### § 92 Richtlinien des Gemeinsamen Bundesausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017551126)
 
 (1) Der Gemeinsame Bundesausschuss beschließt die zur Sicherung der
 ärztlichen Versorgung erforderlichen Richtlinien über die Gewähr für
@@ -15646,6 +15863,7 @@ der Bundesmantelverträge.
 
 
 ##### § 92a Innovationsfonds, Grundlagen der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041410126)
 
 (1) Der Gemeinsame Bundesausschuss fördert neue Versorgungsformen, die
 über die bisherige Regelversorgung hinausgehen. Gefördert werden
@@ -15771,6 +15989,7 @@ wissenschaftlichen Auswertung vor.
 
 
 ##### § 92b Durchführung der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061105126)
 
 (1) Zur Durchführung der Förderung wird beim Gemeinsamen
 Bundesausschuss ein Innovationsausschuss eingerichtet. Dem
@@ -15966,6 +16185,7 @@ aufschiebende Wirkung. Ein Vorverfahren findet nicht statt.
 
 
 ##### § 93 Übersicht über ausgeschlossene Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017608308)
 
 (1) Der Gemeinsame Bundesausschuss soll in regelmäßigen Zeitabständen
 die nach § 34 Abs. 1 oder durch Rechtsverordnung auf Grund des § 34
@@ -15980,6 +16200,7 @@ gesetzten Frist nach, kann das Bundesministerium für Gesundheit die
 
 
 ##### § 94 Wirksamwerden der Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017710124)
 
 (1) Die vom Gemeinsamen Bundesausschuss beschlossenen Richtlinien sind
 dem Bundesministerium für Gesundheit vorzulegen. Es kann sie innerhalb
@@ -16009,10 +16230,12 @@ Absatz 1 haben keine aufschiebende Wirkung.
 
 
 #### Siebter Titel - Voraussetzungen und Formen der Teilnahme von Ärzten und Zahnärzten an der Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG002900328)
 
 
 
 ##### § 95 Teilnahme an der vertragsärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017818126)
 
 (1) An der vertragsärztlichen Versorgung nehmen zugelassene Ärzte und
 zugelassene medizinische Versorgungszentren sowie ermächtigte Ärzte
@@ -16283,6 +16506,7 @@ Psychotherapeuten auf Landesebene berufen.
 
 
 ##### § 95a Voraussetzung für die Eintragung in das Arztregister für Vertragsärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041503308)
 
 (1) Bei Ärzten setzt die Eintragung in das Arztregister voraus:
 
@@ -16376,6 +16600,7 @@ Artikel 27 dieser Richtlinie.
 
 
 ##### § 95b Kollektiver Verzicht auf die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041600308)
 
 (1) Mit den Pflichten eines Vertragsarztes ist es nicht vereinbar, in
 einem mit anderen Ärzten aufeinander abgestimmten Verfahren oder
@@ -16399,6 +16624,7 @@ Abweichende Vereinbarungen sind nichtig.
 
 
 ##### § 95c Voraussetzung für die Eintragung von Psychotherapeuten in das Arztregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044902126)
 
 (1) Bei Psychotherapeuten setzt die Eintragung in das Arztregister
 voraus:
@@ -16476,6 +16702,7 @@ Fachkundenachweis setzt voraus:
 
 
 ##### § 95d Pflicht zur fachlichen Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049605126)
 
 (1) Der Vertragsarzt ist verpflichtet, sich in dem Umfang fachlich
 fortzubilden, wie es zur Erhaltung und Fortentwicklung der zu seiner
@@ -16560,6 +16787,7 @@ Regelungen sind für die Kassenärztlichen Vereinigungen verbindlich.
 
 
 ##### § 95e Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087100126)
 
 (1) Der Vertragsarzt ist verpflichtet, sich ausreichend gegen die sich
 aus seiner Berufsausübung ergebenden Haftpflichtgefahren zu
@@ -16669,6 +16897,7 @@ gegen die Pflicht nach Absatz 1.
 
 
 ##### § 96 Zulassungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE017906126)
 
 (1) Zur Beschlußfassung und Entscheidung in Zulassungssachen errichten
 die Kassenärztlichen Vereinigungen und die Landesverbände der
@@ -16741,6 +16970,7 @@ aufschiebende Wirkung.
 
 
 ##### § 97 Berufungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018002308)
 
 (1) Die Kassenärztlichen Vereinigungen und die Landesverbände der
 Krankenkassen sowie die Ersatzkassen errichten für den Bezirk jeder
@@ -16777,6 +17007,7 @@ oder die Ersatzkassen diese nicht bestellen.
 
 
 ##### § 98 Zulassungsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018111126)
 
 (1) Die Zulassungsverordnungen regeln das Nähere über die Teilnahme an
 der vertragsärztlichen Versorgung sowie die zu ihrer Sicherstellung
@@ -16883,10 +17114,12 @@ Vertragszahnärzte.
 
 
 #### Achter Titel - Bedarfsplanung, Unterversorgung, Überversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003000328)
 
 
 
 ##### § 99 Bedarfsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018205308)
 
 (1) Die Kassenärztlichen Vereinigungen haben im Einvernehmen mit den
 Landesverbänden der Krankenkassen und den Ersatzkassen nach Maßgabe
@@ -16920,6 +17153,7 @@ entscheiden im Falle des Absatzes 2.
 
 
 ##### § 100 Unterversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018304126)
 
 (1) Den Landesausschüssen der Ärzte und Krankenkassen obliegt die
 Feststellung, daß in bestimmten Gebieten eines Zulassungsbezirks eine
@@ -16947,6 +17181,7 @@ lokaler Versorgungsbedarf besteht.
 
 
 ##### § 101 Überversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018418126)
 
 (1) Der Gemeinsame Bundesausschuss beschließt in Richtlinien
 Bestimmungen über
@@ -17156,11 +17391,13 @@ Zulassungsbeschränkungen nach § 103 Abs. 1 angeordnet sind.
 
 
 ##### § 102 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018506308)
 
 -
 
 
 ##### § 103 Zulassungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018616124)
 
 (1) Die Landesausschüsse der Ärzte und Krankenkassen stellen fest, ob
 eine Überversorgung vorliegt; die durch Ermächtigung an der
@@ -17425,6 +17662,7 @@ zehn Jahren.
 
 
 ##### § 104 Verfahren bei Zulassungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018703308)
 
 (1) Die Zulassungsverordnungen bestimmen, unter welchen
 Voraussetzungen, in welchem Umfang und für welche Dauer zur
@@ -17445,6 +17683,7 @@ Zulassungsbeschränkungen bei vertragsärztlicher Überversorgung.
 
 
 ##### § 105 Förderung der vertragsärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018820126)
 
 (1) Die Kassenärztlichen Vereinigungen haben mit Unterstützung der
 Kassenärztlichen Bundesvereinigungen entsprechend den Bedarfsplänen
@@ -17596,10 +17835,12 @@ gebunden.
 
 
 #### Neunter Titel - Wirtschaftlichkeits- und Abrechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003101308)
 
 
 
 ##### § 106 Wirtschaftlichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE018921126)
 
 (1) Die Krankenkassen und die Kassenärztlichen Vereinigungen
 überwachen die Wirtschaftlichkeit der vertragsärztlichen Versorgung
@@ -17691,6 +17932,7 @@ und belegärztlichen Leistungen.
 
 
 ##### § 106a Wirtschaftlichkeitsprüfung ärztlicher Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061501124)
 
 (1) Die Wirtschaftlichkeit der erbrachten ärztlichen Leistungen kann
 auf begründeten Antrag einer einzelnen Krankenkasse, mehrerer
@@ -17756,6 +17998,7 @@ von Besuchsleistungen.
 
 
 ##### § 106b Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061206126)
 
 (1) Die Wirtschaftlichkeit der Versorgung mit ärztlich verordneten
 Leistungen wird ab dem 1. Januar 2017 anhand von Vereinbarungen
@@ -17842,6 +18085,7 @@ Vereinbarung nach Absatz 1 gelten die Regelungen in den §§ 84, 106,
 
 
 ##### § 106c Prüfungsstelle und Beschwerdeausschuss bei Wirtschaftlichkeitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061601126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen sowie
 die Kassenärztlichen Vereinigungen bilden jeweils eine gemeinsame
@@ -17921,6 +18165,7 @@ vorzulegen.
 
 
 ##### § 106d Abrechnungsprüfung in der vertragsärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049707124)
 
 (1) Die Kassenärztlichen Vereinigungen und die Krankenkassen prüfen
 die Rechtmäßigkeit und Plausibilität der Abrechnungen in der
@@ -18020,10 +18265,12 @@ Gesundheit die Richtlinien erlassen.
 
 
 ### Dritter Abschnitt - Beziehungen zu Krankenhäusern und anderen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003200328)
 
 
 
 #### § 107 Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019003126)
 
 (1) Krankenhäuser im Sinne dieses Gesetzbuchs sind Einrichtungen, die
 
@@ -18098,6 +18345,7 @@ und in denen
 
 
 #### § 108 Zugelassene Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019102126)
 
 Die Krankenkassen dürfen Krankenhausbehandlung nur durch folgende
 Krankenhäuser (zugelassene Krankenhäuser) erbringen lassen:
@@ -18130,6 +18378,7 @@ Krankenhäuser (zugelassene Krankenhäuser) erbringen lassen:
 
 
 #### § 108a Krankenhausgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044100308)
 
 Die Landeskrankenhausgesellschaft ist ein Zusammenschluß von Trägern
 zugelassener Krankenhäuser im Land. In der Deutschen
@@ -18139,6 +18388,7 @@ Krankenhausträger können den Krankenhausgesellschaften angehören.
 
 
 #### § 109 Abschluß von Versorgungsverträgen mit Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019209126)
 
 (1) Der Versorgungsvertrag nach § 108 Nr. 3 kommt durch Einigung
 zwischen den Landesverbänden der Krankenkassen und den Ersatzkassen
@@ -18279,6 +18529,7 @@ vorgesehen werden.
 
 
 #### § 110 Kündigung von Versorgungsverträgen mit Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019305126)
 
 (1) Ein Versorgungsvertrag nach § 109 Absatz 1 kann von jeder
 Vertragspartei mit einer Frist von einem Jahr ganz oder teilweise
@@ -18363,6 +18614,7 @@ Plankrankenhaus insoweit nicht mehr als zugelassenes Krankenhaus.
 
 
 #### § 110a Qualitätsverträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE064402126)
 
 (1) Die Krankenkassen oder Zusammenschlüsse von Krankenkassen
 schließen zu den vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1
@@ -18442,6 +18694,7 @@ diesem Jahr rechtskräftig festgestellten Beträge.
 
 
 #### § 111 Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019412126)
 
 (1) Die Krankenkassen dürfen medizinische Leistungen zur Vorsorge (§
 23 Abs. 4) oder Leistungen zur medizinischen Rehabilitation
@@ -18552,6 +18805,7 @@ Rahmenempfehlungsinhalt fest.
 
 
 #### § 111a Versorgungsverträge mit Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048003126)
 
 (1) Die Krankenkassen dürfen stationäre medizinische Leistungen zur
 Vorsorge für Mütter und Väter (§ 24) oder Rehabilitation für Mütter
@@ -18574,6 +18828,7 @@ Dezember 2025.
 
 
 #### § 111b Landesschiedsstelle für Versorgungs- und Vergütungsvereinbarungen zwischen Krankenkassen und Trägern von Vorsorge- oder Rehabilitationseinrichtungen und Bundesschiedsstelle für Rahmenempfehlungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057402126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und die für die Wahrnehmung der Interessen der Vorsorge- und
@@ -18637,6 +18892,7 @@ und 10 Satz 1 gilt entsprechend.
 
 
 #### § 111c Versorgungsverträge mit Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057806126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam schließen mit Wirkung für ihre Mitgliedskassen einheitliche
@@ -18734,6 +18990,7 @@ Rahmenempfehlungsinhalt fest.
 
 
 #### § 111d Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073701126)
 
 (1) Vorsorge- und Rehabilitationseinrichtungen mit einem
 Versorgungsvertrag nach § 111 Absatz 2 oder nach § 111a Absatz 1
@@ -18822,6 +19079,7 @@ um bis zu neun Monate verlängern.
 
 
 #### § 112 Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019505119)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam schließen mit der Landeskrankenhausgesellschaft oder mit den
@@ -18890,6 +19148,7 @@ Rehabilitationseinrichtungen zu beteiligen.
 
 
 #### § 113 Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019608119)
 
 (1) Die Landesverbände der Krankenkassen, die Ersatzkassen und der
 Landesausschuß des Verbandes der privaten Krankenversicherung können
@@ -18927,6 +19186,7 @@ mit dem Krankenhaus nichts anderes vereinbart hat.
 
 
 #### § 114 Landesschiedsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019702124)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und die Landeskrankenhausgesellschaften oder die
@@ -18969,10 +19229,12 @@ Gebühren sowie über die Verteilung der Kosten zu bestimmen.
 
 
 ### Vierter Abschnitt - Beziehungen zu Krankenhäusern und Vertragsärzten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003301308)
 
 
 
 #### § 115 Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019805124)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und die Kassenärztlichen Vereinigungen schließen mit der
@@ -19036,6 +19298,7 @@ Rahmenempfehlungen zum Inhalt der Verträge nach Absatz 1 abgeben.
 
 
 #### § 115a Vor- und nachstationäre Behandlung im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041707308)
 
 (1) Das Krankenhaus kann bei Verordnung von Krankenhausbehandlung
 Versicherte in medizinisch geeigneten Fällen ohne Unterkunft und
@@ -19102,6 +19365,7 @@ der zuständigen Landesbehörde die Vergütung fest.
 
 
 #### § 115b Ambulantes Operieren im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041809124)
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Krankenhausgesellschaft und die Kassenärztlichen Bundesvereinigungen
@@ -19190,6 +19454,7 @@ Operieren zugelassenen Krankenhäuser aufzubringen.
 
 
 #### § 115c Fortsetzung der Arzneimitteltherapie nach Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047901308)
 
 (1) Ist im Anschluss an eine Krankenhausbehandlung die Verordnung von
 Arzneimitteln erforderlich, hat das Krankenhaus dem weiterbehandelnden
@@ -19212,6 +19477,7 @@ möglich ist.
 
 
 #### § 115d Stationsäquivalente psychiatrische Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066000119)
 
 (1) Psychiatrische Krankenhäuser mit regionaler
 Versorgungsverpflichtung sowie Allgemeinkrankenhäuser mit
@@ -19275,6 +19541,7 @@ Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
 
 
 #### § 115e Tagesstationäre Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089201126)
 
 (1) Zugelassene Krankenhäuser können in medizinisch geeigneten Fällen,
 wenn eine Indikation für eine stationäre somatische Behandlung
@@ -19353,6 +19620,7 @@ Krankenversicherung und den Krankenhäusern in anonymisierter Form zu
 
 
 #### § 115f Spezielle sektorengleiche Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089302126)
 
 (1) Die Vertragsparteien nach § 115b Absatz 1 Satz 1 vereinbaren
 
@@ -19512,6 +19780,7 @@ Gesundheit im Abstand von jeweils 18 Monaten, erstmals zum 30. Juni
 
 
 #### § 115g Behandlung in einer sektorenübergreifenden Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094500126)
 
 (1) Sektorenübergreifende Versorgungseinrichtungen sind Standorte von
 Krankenhäusern, die nach § 6c Absatz 1 des
@@ -19615,6 +19884,7 @@ anonymisierter Form zu übermitteln.
 
 
 #### § 116 Ambulante Behandlung durch Krankenhausärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE019903308)
 
 Ärzte, die in einem Krankenhaus, einer Vorsorge- oder
 Rehabilitationseinrichtung, mit der ein Versorgungsvertrag nach § 111
@@ -19631,6 +19901,7 @@ in Satz 1 genannten Einrichtungen nicht sichergestellt wird.
 
 
 #### § 116a Ambulante Behandlung durch Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049803126)
 
 (1) Der Zulassungsausschuss muss zugelassene Krankenhäuser für das
 entsprechende Fachgebiet in den Planungsbereichen, in denen der
@@ -19674,6 +19945,7 @@ eine Zulassungsbeschränkung anordnet.
 
 
 #### § 116b Ambulante spezialfachärztliche Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE049914126)
 
 (1) Die ambulante spezialfachärztliche Versorgung umfasst die
 Diagnostik und Behandlung komplexer, schwer therapierbarer
@@ -20054,6 +20326,7 @@ Deutschen Krankenhausgesellschaft gemeinsam.
 
 
 #### § 117 Hochschulambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020011126)
 
 (1) Ambulanzen, Institute und Abteilungen der Hochschulkliniken
 (Hochschulambulanzen) sind zur ambulanten ärztlichen Behandlung der
@@ -20197,6 +20470,7 @@ Entscheidung getroffen hat. § 137c Absatz 3 gilt entsprechend.
 
 
 #### § 117a Bundeswehrambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094600126)
 
 Bundeswehrkrankenhäuser sind zur ambulanten ärztlichen Behandlung der
 Versicherten in dem für die Aufgabenwahrnehmung des Sanitätsdienstes
@@ -20204,6 +20478,7 @@ der Bundeswehr erforderlichen Umfang ermächtigt.
 
 
 #### § 118 Psychiatrische Institutsambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020107126)
 
 (1) Psychiatrische Krankenhäuser sind vom Zulassungsausschuss zur
 ambulanten psychiatrischen und psychotherapeutischen Versorgung der
@@ -20278,6 +20553,7 @@ sicherzustellen.
 
 
 #### § 118a Geriatrische Institutsambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE058202124)
 
 (1) Geriatrische Fachkrankenhäuser, Allgemeinkrankenhäuser mit
 selbstständigen geriatrischen Abteilungen, geriatrische
@@ -20323,6 +20599,7 @@ Schiedsgremium auf Bundesebene gemäß § 89a.
 
 
 #### § 118b Pädiatrische Institutsambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094700126)
 
 Pädiatrische Krankenhäuser und Krankenhäuser mit selbständigen
 pädiatrischen Fachabteilungen sind zur ambulanten kinder- und
@@ -20349,6 +20626,7 @@ Absatz 2 den Inhalt der Vereinbarung fest.
 
 
 #### § 119 Sozialpädiatrische Zentren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020201308)
 
 (1) Sozialpädiatrische Zentren, die fachlich-medizinisch unter
 ständiger ärztlicher Leitung stehen und die Gewähr für eine
@@ -20367,6 +20645,7 @@ zusammenarbeiten.
 
 
 #### § 119a Ambulante Behandlung in Einrichtungen der Behindertenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050000308)
 
 Einrichtungen der Behindertenhilfe, die über eine ärztlich geleitete
 Abteilung verfügen, sind vom Zulassungsausschuss zur ambulanten
@@ -20385,6 +20664,7 @@ Leistungserbringern eng zusammenarbeiten.
 
 
 #### § 119b Ambulante Behandlung in stationären Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055106126)
 
 (1) Stationäre Pflegeeinrichtungen haben einzeln oder gemeinsam bei
 entsprechendem Bedarf unbeschadet des § 75 Abs. 1 Kooperationsverträge
@@ -20463,6 +20743,7 @@ Juni 2019.
 
 
 #### § 119c Medizinische Behandlungszentren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061300119)
 
 (1) Medizinische Behandlungszentren für Erwachsene mit geistiger
 Behinderung oder schweren Mehrfachbehinderungen, die fachlich unter
@@ -20485,6 +20766,7 @@ Gesundheitsdienst eng zusammenarbeiten.
 
 
 #### § 120 Vergütung ambulanter Krankenhausleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020332126)
 
 (1) Die im Krankenhaus erbrachten ambulanten ärztlichen Leistungen der
 ermächtigten Krankenhausärzte, die in stationären Pflegeeinrichtungen
@@ -20681,6 +20963,7 @@ die Absätze 1 bis 4 nicht berührt.
 
 
 #### § 121 Belegärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020405126)
 
 (1) Die Vertragsparteien nach § 115 Abs. 1 wirken gemeinsam mit
 Krankenkassen und zugelassenen Krankenhäusern auf eine leistungsfähige
@@ -20729,6 +21012,7 @@ sektorenübergreifende Qualitätssicherung.
 
 
 #### § 121a Genehmigung zur Durchführung künstlicher Befruchtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039702308)
 
 (1) Die Krankenkassen dürfen Maßnahmen zur Herbeiführung einer
 Schwangerschaft (§ 27a Abs. 1) nur erbringen lassen durch
@@ -20788,6 +21072,7 @@ Bestimmung die Landesregierung; diese kann die Ermächtigung weiter
 
 
 #### § 122 Behandlung in Praxiskliniken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020503308)
 
 Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung
 der Interessen der in Praxiskliniken tätigen Vertragsärzte gebildete
@@ -20808,15 +21093,18 @@ Einhaltung des Vertrages nach Satz 1 verpflichtet.
 
 
 #### § 123 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020601308)
 
 -
 
 
 ### Fünfter Abschnitt - Beziehungen zu Leistungserbringern von Heilmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003400328)
 
 
 
 #### § 124 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020711126)
 
 (1) Heilmittel, die als Dienstleistungen abgegeben werden,
 insbesondere Leistungen der Physiotherapie, der Stimm-, Sprech- und
@@ -20900,6 +21188,7 @@ dieser Verträge bedarf.
 
 
 #### § 125 Verträge zur Heilmittelversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020820126)
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit bindender
 Wirkung für die Krankenkassen mit den für die Wahrnehmung der
@@ -21115,6 +21404,7 @@ Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6.
 
 
 #### § 125a Heilmittelversorgung mit erweiterter Versorgungsverantwortung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068306126)
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit bindender
 Wirkung für die Krankenkassen mit den für die Wahrnehmung der
@@ -21219,6 +21509,7 @@ Abschluss der Verträge einen Zwischenbericht.
 
 
 #### § 125b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068407126)
 
 (1) (weggefallen)
 
@@ -21257,10 +21548,12 @@ Leistungsfähigkeit der Heilmittelerbringer zu gewährleisten.
 
 
 ### Sechster Abschnitt - Beziehungen zu Leistungserbringern von Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003500328)
 
 
 
 #### § 126 Versorgung durch Vertragspartner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE020910126)
 
 (1) Hilfsmittel dürfen an Versicherte nur auf der Grundlage von
 Verträgen nach § 127 Absatz 1 und 3 abgegeben werden. Vertragspartner
@@ -21364,6 +21657,7 @@ dieses Abschnitts entsprechend.
 
 
 #### § 127 Verträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021020126)
 
 (1) Krankenkassen, ihre Landesverbände oder Arbeitsgemeinschaften
 schließen im Wege von Vertragsverhandlungen Verträge mit
@@ -21533,6 +21827,7 @@ Verträgen nach den Absätzen 1 und 3 zugrunde zu legen.
 
 
 #### § 128 Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021107301)
 
 (1) Die Abgabe von Hilfsmitteln an Versicherte über Depots bei
 Vertragsärzten ist unzulässig, soweit es sich nicht um Hilfsmittel
@@ -21626,10 +21921,12 @@ die diese Leistungen erbringen.
 
 
 ### Siebter Abschnitt - Beziehungen zu Apotheken und pharmazeutischen Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003600328)
 
 
 
 #### § 129 Rahmenvertrag über die Arzneimittelversorgung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021241126)
 
 (1) Die Apotheken sind bei der Abgabe verordneter Arzneimittel an
 Versicherte nach Maßgabe des Rahmenvertrages nach Absatz 2
@@ -22170,6 +22467,7 @@ regeln.
 
 
 #### § 129a Krankenhausapotheken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050102119)
 
 Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des
 zugelassenen Krankenhauses das Nähere über die Abgabe verordneter
@@ -22184,6 +22482,7 @@ entsprechend.
 
 
 #### § 130 Rabatt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021310126)
 
 (1) Die Krankenkassen erhalten von den Apotheken für
 verschreibungspflichtige Fertigarzneimittel sowie für Zubereitungen
@@ -22211,6 +22510,7 @@ beglichen wird. Das Nähere regelt der Rahmenvertrag nach § 129.
 
 
 #### § 130a Rabatte der pharmazeutischen Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE048132126)
 
 (1) Die Krankenkassen erhalten von Apotheken für zu ihren Lasten
 abgegebene Arzneimittel einen Abschlag in Höhe von 7 vom Hundert des
@@ -22690,6 +22990,7 @@ mehr finanziert werden.
 
 
 #### § 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056617126)
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit
 pharmazeutischen Unternehmern im Benehmen mit dem Verband der privaten
@@ -23141,6 +23442,7 @@ Evaluation.
 
 
 #### § 130c Verträge von Krankenkassen mit pharmazeutischen Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056703126)
 
 (1) Krankenkassen oder ihre Verbände können abweichend von bestehenden
 Vereinbarungen oder Schiedssprüchen nach § 130b mit pharmazeutischen
@@ -23182,6 +23484,7 @@ vereinbaren.
 
 
 #### § 130d Preise für Arzneimittel zur Therapie von Gerinnungsstörungen bei Hämophilie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068702126)
 
 (1) Pharmazeutische Unternehmer haben dem Spitzenverband Bund der
 Krankenkassen für Arzneimittel zur spezifischen Therapie von
@@ -23233,6 +23536,7 @@ keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt.
 
 
 #### § 130e Kombinationsabschlag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087801126)
 
 (1) Für alle Arzneimittel mit neuen Wirkstoffen, die in einer vom
 Gemeinsamen Bundesausschuss zuvor nach § 35a Absatz 3 Satz 4 benannten
@@ -23270,6 +23574,7 @@ Mustervereinbarung für Vereinbarungen nach Satz 1 vereinbaren.
 
 
 #### § 131 Rahmenverträge mit pharmazeutischen Unternehmern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021513126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
@@ -23465,6 +23770,7 @@ in Verträgen.
 
 
 #### § 131a Ersatzansprüche der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068800126)
 
 (1) Ist ein zu Lasten der gesetzlichen Krankenkasse abgegebenes
 Arzneimittel mangelhaft und erfolgt aus diesem Grund ein
@@ -23492,10 +23798,12 @@ vereinbart werden.
 
 
 ### Achter Abschnitt - Beziehungen zu sonstigen Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003700328)
 
 
 
 #### § 132 Versorgung mit Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021604126)
 
 (1) Über Inhalt, Umfang, Vergütung sowie Prüfung der Qualität und
 Wirtschaftlichkeit der Dienstleistungen zur Versorgung mit
@@ -23523,6 +23831,7 @@ freien Wohlfahrtspflege, Rechnung zu tragen.
 
 
 #### § 132a Versorgung mit häuslicher Krankenpflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044314126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die für die
 Wahrnehmung der Interessen von Pflegediensten maßgeblichen
@@ -23661,6 +23970,7 @@ Gewährung von häuslicher Krankenpflege geeignete Personen anstellen.
 
 
 #### § 132b Versorgung mit Soziotherapie
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045702119)
 
 (1) Die Krankenkassen oder die Landesverbände der Krankenkassen können
 unter Berücksichtigung der Richtlinien nach § 37a Abs. 2 mit
@@ -23679,6 +23989,7 @@ Vertragspartner zu gleichen Teilen.
 
 
 #### § 132c Versorgung mit sozialmedizinischen Nachsorgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050202308)
 
 (1) Die Krankenkassen oder die Landesverbände der Krankenkassen können
 mit geeigneten Personen oder Einrichtungen Verträge über die
@@ -23691,6 +24002,7 @@ Nachsorgemaßnahmen fest.
 
 
 #### § 132d Spezialisierte ambulante Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053703126)
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den
 maßgeblichen Spitzenorganisationen der Hospizarbeit und
@@ -23734,6 +24046,7 @@ Satz 1 Nummer 5 gelten entsprechend.
 
 
 #### § 132e Versorgung mit Schutzimpfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053615126)
 
 (1) Die Krankenkassen oder ihre Verbände schließen mit
 Kassenärztlichen Vereinigungen, Ärzten, Einrichtungen mit ärztlichem
@@ -23883,6 +24196,7 @@ Schutzimpfungen anzustreben.
 
 
 #### § 132f Versorgung durch Betriebsärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE062700119)
 
 Die Krankenkassen oder ihre Verbände können in Ergänzung zur
 vertragsärztlichen Versorgung und unter Berücksichtigung der
@@ -23897,6 +24211,7 @@ zur arbeitsmedizinischen Vorsorge erbracht werden.
 
 
 #### § 132g Gesundheitliche Versorgungsplanung für die letzte Lebensphase
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063102126)
 
 (1) Zugelassene Pflegeeinrichtungen im Sinne des § 43 des Elften
 Buches und Einrichtungen der Eingliederungshilfe für behinderte
@@ -23968,6 +24283,7 @@ Informationen über die erstatteten Leistungen fest.
 
 
 #### § 132h Versorgungsverträge mit Kurzzeitpflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE063900119)
 
 Die Krankenkassen oder die Landesverbände der Krankenkassen können mit
 geeigneten Einrichtungen Verträge über die Erbringung von
@@ -23976,6 +24292,7 @@ bedarfsgerechte Versorgung notwendig ist.
 
 
 #### § 132i Versorgungsverträge mit Hämophiliezentren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068900126)
 
 Die Krankenkassen oder ihre Landesverbände schließen mit ärztlichen
 Einrichtungen, die auf die qualitätsgesicherte Behandlung von
@@ -24003,6 +24320,7 @@ tragen die Vertragsparteien zu gleichen Teilen.
 
 
 #### § 132j Regionale Modellvorhaben zur Durchführung von Grippeschutzimpfungen in Apotheken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073201311)
 
 (1) Die Krankenkassen oder ihre Landesverbände haben mit Apotheken,
 Gruppen von Apotheken oder mit den für die Wahrnehmung der
@@ -24100,6 +24418,7 @@ Vorliegen eines Schiedsspruchs nach § 132e Absatz 1a zu beenden.
 
 
 #### § 132k Vertrauliche Spurensicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073300126)
 
 Die Krankenkassen oder ihre Landesverbände schließen gemeinsam und
 einheitlich auf Antrag des jeweiligen Landes mit dem Land sowie mit
@@ -24119,6 +24438,7 @@ aufschiebende Wirkung haben.
 
 
 #### § 132l Versorgung mit außerklinischer Intensivpflege, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084803126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Vereinigungen
 der Träger von vollstationären Pflegeeinrichtungen auf Bundesebene,
@@ -24307,6 +24627,7 @@ außerklinische Intensivpflege stattfinden soll.
 
 
 #### § 132m Versorgung mit Leistungen der Übergangspflege im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087200126)
 
 Die Landesverbände der Krankenkassen und die Ersatzkassen schließen
 mit der Landeskrankenhausgesellschaft oder mit den Vereinigungen der
@@ -24318,6 +24639,7 @@ auf Antrag einer Vertragspartei innerhalb von drei Monaten festgelegt.
 
 
 #### § 133 Versorgung mit Krankentransportleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021707124)
 
 (1) Soweit die Entgelte für die Inanspruchnahme von Leistungen des
 Rettungsdienstes und anderer Krankentransporte nicht durch
@@ -24364,6 +24686,7 @@ Krankentransporte im Rahmen des Personenbeförderungsgesetzes.
 
 
 #### § 134 Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021809126)
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den
 Herstellern digitaler Gesundheitsanwendungen mit Wirkung für alle
@@ -24529,6 +24852,7 @@ Leihe Regelungen zu treffen
 
 
 #### § 134a Versorgung mit Hebammenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051811126)
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit den für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
@@ -24761,10 +25085,12 @@ Hebamme gegenüber den übrigen Gesamtschuldnern nicht geltend machen.
 
 
 ### Neunter Abschnitt - Sicherung der Qualität der Leistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003800328)
 
 
 
 #### § 135 Bewertung von Untersuchungs- und Behandlungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE021912126)
 
 (1) Neue Untersuchungs- und Behandlungsmethoden dürfen in der
 vertragsärztlichen und vertragszahnärztlichen Versorgung zu Lasten der
@@ -24859,6 +25185,7 @@ gilt § 87 Absatz 6 Satz 10 entsprechend.
 
 
 #### § 135a Verpflichtung der Leistungserbringer zur Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE041907119)
 
 (1) Die Leistungserbringer sind zur Sicherung und Weiterentwicklung
 der Qualität der von ihnen erbrachten Leistungen verpflichtet. Die
@@ -24897,6 +25224,7 @@ erschwert wäre.
 
 
 #### § 135b Förderung der Qualität durch die Kassenärztlichen Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE064000119)
 
 (1) Die Kassenärztlichen Vereinigungen haben Maßnahmen zur Förderung
 der Qualität der vertragsärztlichen Versorgung durchzuführen. Die
@@ -24936,6 +25264,7 @@ ausgeglichen werden.
 
 
 #### § 135c Förderung der Qualität durch die Deutsche Krankenhausgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE064100119)
 
 (1) Die Deutsche Krankenhausgesellschaft fördert im Rahmen ihrer
 Aufgaben die Qualität der Versorgung im Krankenhaus. Sie hat in ihren
@@ -24957,6 +25286,7 @@ Leistungsbereiche von solchen Zielvereinbarungen betroffen sind.
 
 
 #### § 135d Transparenz der Qualität der Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094001126)
 
 (1) Das Bundesministerium für Gesundheit veröffentlicht ab dem 1. Mai
 2024 in einem Transparenzverzeichnis zur Krankenhausbehandlung in
@@ -25225,6 +25555,7 @@ Bericht über die Ergebnisse der Prüfung nach den Sätzen 1 und 2 vor.
 
 
 #### § 135e Mindestanforderungen an die Qualität der Krankenhausbehandlung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094800126)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -25445,6 +25776,7 @@ der unmittelbaren Patientenversorgung mit der Zusatzweiterbildung
 
 
 #### § 135f Mindestvorhaltezahlen für die Krankenhausbehandlung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094900126)
 
 (1) Ein Krankenhaus erfüllt die für eine ihm für einen
 Krankenhausstandort zugewiesene Leistungsgruppe geltende Mindestzahl
@@ -25571,6 +25903,7 @@ Versorgungsanteil in der betroffenen Leistungsgruppe versehen wird.
 
 
 #### § 136 Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022009126)
 
 (1) Der Gemeinsame Bundesausschuss bestimmt für die vertragsärztliche
 Versorgung und für zugelassene Krankenhäuser grundsätzlich einheitlich
@@ -25618,6 +25951,7 @@ vergleichbare Mindestanforderungen festlegen.
 
 
 #### § 136a Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung in ausgewählten Bereichen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059408126)
 
 (1) Der Gemeinsame Bundesausschuss legt in seinen Richtlinien nach §
 136 Absatz 1 geeignete Maßnahmen zur Sicherung der Hygiene in der
@@ -25794,6 +26128,7 @@ geleiteten Einrichtungen auf Bundesebene sind zu beteiligen.
 
 
 #### § 136b Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045906126)
 
 (1) Der Gemeinsame Bundesausschuss fasst für zugelassene Krankenhäuser
 grundsätzlich einheitlich für alle Patientinnen und Patienten auch
@@ -26013,6 +26348,7 @@ Informationen.
 
 
 #### § 136c Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE064206126)
 
 (1) (weggefallen)
 
@@ -26099,6 +26435,7 @@ berücksichtigen.
 
 
 #### § 136d Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE064300119)
 
 Der Gemeinsame Bundesausschuss hat den Stand der Qualitätssicherung im
 Gesundheitswesen festzustellen, sich daraus ergebenden
@@ -26112,6 +26449,7 @@ Qualitätssicherung.
 
 
 #### § 137 Durchsetzung und Prüfung der Qualitätsanforderungen des Gemeinsamen Bundesausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022121126)
 
 (1) Der Gemeinsame Bundesausschuss hat zur Förderung der Qualität ein
 gestuftes System von Folgen der Nichteinhaltung von
@@ -26197,6 +26535,7 @@ nach § 275a Absatz 1 Satz 1 unterstützen.
 
 
 #### § 137a Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044409126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich
 unabhängiges, wissenschaftliches Institut für Qualitätssicherung und
@@ -26397,6 +26736,7 @@ Absatz 10 Satz 3 bis 5 gilt entsprechend.
 
 
 #### § 137b Aufträge des Gemeinsamen Bundesausschusses an das Institut nach § 137a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE044505126)
 
 (1) Der Gemeinsame Bundesausschuss beschließt zur Entwicklung und
 Durchführung der Qualitätssicherung sowie zur Verbesserung der
@@ -26418,6 +26758,7 @@ berücksichtigen.
 
 
 #### § 137c Bewertung von Untersuchungs- und Behandlungsmethoden im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046008126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 überprüft auf Antrag
 eines Unparteiischen nach § 91 Absatz 2 Satz 1, des Spitzenverbandes
@@ -26473,6 +26814,7 @@ abgeschlossen ist.
 
 
 #### § 137d Qualitätssicherung bei der ambulanten und stationären Vorsorge oder Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046107126)
 
 (1) Für stationäre Rehabilitationseinrichtungen, mit denen ein Vertrag
 nach § 111 oder § 111a und für ambulante Rehabilitationseinrichtungen,
@@ -26542,6 +26884,7 @@ Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben.
 
 
 #### § 137e Erprobung von Untersuchungs- und Behandlungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046207126)
 
 (1) Gelangt der Gemeinsame Bundesausschuss bei der Prüfung von
 Untersuchungs- und Behandlungsmethoden nach § 135 oder § 137c zu der
@@ -26686,6 +27029,7 @@ regeln.
 
 
 #### § 137f Strukturierte Behandlungsprogramme bei chronischen Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047715126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 legt in Richtlinien nach
 Maßgabe von Satz 2 geeignete chronische Krankheiten fest, für die
@@ -26858,6 +27202,7 @@ entsprechend.
 
 
 #### § 137g Zulassung strukturierter Behandlungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047808126)
 
 (1) Das Bundesamt für Soziale Sicherung hat auf Antrag einer oder
 mehrerer Krankenkassen oder eines Verbandes der Krankenkassen die
@@ -26927,6 +27272,7 @@ fristgerecht vorgelegt worden ist.
 
 
 #### § 137h Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE061405126)
 
 (1) Wird hinsichtlich einer neuen Untersuchungs- oder
 Behandlungsmethode, deren technische Anwendung maßgeblich auf dem
@@ -27103,6 +27449,7 @@ aufschiebende Wirkung. Ein Vorverfahren findet nicht statt.
 
 
 #### § 137i Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067208126)
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Deutsche
 Krankenhausgesellschaft überprüfen bis zum 31. August eines Jahres,
@@ -27390,6 +27737,7 @@ pflegesensitiven Bereichen in Krankenhäusern vor.
 
 
 #### § 137j Pflegepersonalquotienten, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067804126)
 
 (1) Zur Verbesserung der Pflegepersonalausstattung der Krankenhäuser
 und Sicherung der pflegerischen Versorgungsqualität ermittelt das
@@ -27496,6 +27844,7 @@ erforderlichenfalls entsprechend zu erhöhen ist.
 
 
 #### § 137k Personalbemessung in der Pflege im Krankenhaus; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089402126)
 
 (1) Die nach § 108 zugelassenen Krankenhäuser sind verpflichtet, eine
 angemessene Personalausstattung vorzuhalten und das für eine
@@ -27693,6 +28042,7 @@ Krankenhausfinanzierungsgesetzes zu finanzieren.
 
 
 #### § 137l Wissenschaftliche Weiterentwicklung der Personalbemessung in der Pflege im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087303126)
 
 (1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
 Krankenhausentgeltgesetzes stellen im Einvernehmen mit dem
@@ -27754,6 +28104,7 @@ Vertragsparteien nach Absatz 1 Satz 1 vornehmen.
 
 
 #### § 137m Bemessung des ärztlichen Personals im Krankenhaus; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095000126)
 
 (1) Die zugelassenen Krankenhäuser im Sinne des § 108 sind
 verpflichtet, eine bedarfsgerechte ärztliche Personalausstattung für
@@ -27912,6 +28263,7 @@ unberührt.
 
 
 #### § 137n Kommission für Personalbemessung im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095100126)
 
 (1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1 des
 Krankenhausentgeltgesetzes richten bis zum 30. September 2025 im
@@ -27980,6 +28332,7 @@ darzulegen.
 
 
 #### § 138 Neue Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022202308)
 
 Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte dürfen
 neue Heilmittel nur verordnen, wenn der Gemeinsame Bundesausschuss
@@ -27989,6 +28342,7 @@ Qualität bei der Leistungserbringung abgegeben hat.
 
 
 #### § 139 Hilfsmittelverzeichnis, Qualitätssicherung bei Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022311126)
 
 (1) Der Spitzenverband Bund der Krankenkassen erstellt ein
 systematisch strukturiertes Hilfsmittelverzeichnis. In dem Verzeichnis
@@ -28163,6 +28517,7 @@ einzuholen; die Stellungnahmen sind in die Entscheidung einzubeziehen.
 
 
 #### § 139a Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050305126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich
 unabhängiges, rechtsfähiges, wissenschaftliches Institut für Qualität
@@ -28247,6 +28602,7 @@ einschließlich Art und Höhe von Zuwendungen offen zu legen.
 
 
 #### § 139b Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050403126)
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 beauftragt das Institut
 mit Arbeiten nach § 139a Abs. 3. Die den Gemeinsamen Bundesausschuss
@@ -28296,6 +28652,7 @@ aufgewendet werden. Absatz 2 Satz 2 findet keine Anwendung.
 
 
 #### § 139c Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050502308)
 
 Die Finanzierung des Instituts nach § 139a Abs. 1 erfolgt jeweils zur
 Hälfte durch die Erhebung eines Zuschlags für jeden abzurechnenden
@@ -28313,6 +28670,7 @@ den Gemeinsamen Bundesausschuss festgelegt.
 
 
 #### § 139d Erprobung von Leistungen und Maßnahmen zur Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059700377)
 
 Gelangt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine
 Leistung oder Maßnahme zur Krankenbehandlung, die kein Arzneimittel
@@ -28328,6 +28686,7 @@ Gemeinsame Bundesausschuss in seiner Verfahrensordnung.
 
 
 #### § 139e Verzeichnis für digitale Gesundheitsanwendungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE070905126)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte führt ein
 Verzeichnis erstattungsfähiger digitaler Gesundheitsanwendungen nach §
@@ -28648,10 +29007,12 @@ verarbeitet werden dürfen.
 
 
 ### Zehnter Abschnitt - Eigeneinrichtungen der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG003900328)
 
 
 
 #### § 140 Eigeneinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022402308)
 
 (1) Krankenkassen dürfen der Versorgung der Versicherten dienende
 Eigeneinrichtungen, die am 1. Januar 1989 bestehen, weiterbetreiben.
@@ -28670,10 +29031,12 @@ erfüllt werden soll.
 
 
 ### Elfter Abschnitt - Sonstige Beziehungen zu den Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008302119)
 
 
 
 #### § 140a Besondere Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046315126)
 
 (1) Die Krankenkassen können Verträge mit den in Absatz 3 genannten
 Leistungserbringern über eine besondere Versorgung der Versicherten
@@ -28868,14 +29231,17 @@ beim Aufsatzwert der betroffenen Krankenkasse zu machen.
 
 
 #### (XXXX) §§ 140b bis 140d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046408119)
 
 
 
 ### Zwölfter Abschnitt - Beziehungen zu Leistungserbringern europäischer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008402308)
 
 
 
 #### § 140e Verträge mit Leistungserbringern europäischer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046704308)
 
 Krankenkassen dürfen zur Versorgung ihrer Versicherten nach Maßgabe
 des Dritten Kapitels und des dazugehörigen untergesetzlichen Rechts
@@ -28886,10 +29252,12 @@ abschließen.
 
 
 ### Dreizehnter Abschnitt - Beteiligung von Patientinnen und Patienten, Beauftragte oder Beauftragter der Bundesregierung für die Belange der Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008500308)
 
 
 
 #### § 140f Beteiligung von Interessenvertretungen der Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046826126)
 
 (1) Die für die Wahrnehmung der Interessen der Patientinnen und
 Patienten und der Selbsthilfe chronisch kranker und behinderter
@@ -29076,6 +29444,7 @@ nach § 18 Absatz 1 des Vierten Buches.
 
 
 #### § 140g Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE046903308)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Näheres zu den
@@ -29088,6 +29457,7 @@ Patientenbeteiligung zu regeln.
 
 
 #### § 140h Amt, Aufgabe und Befugnisse der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047003308)
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen
 Beauftragten für die Belange der Patientinnen und Patienten. Der
@@ -29120,15 +29490,18 @@ Erfüllung der Aufgabe.
 
 
 ## Fünftes Kapitel - Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004001308)
 
 
 
 ### § 141
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022507308)
 
 (weggefallen)
 
 
 ### § 142 Sachverständigenrat Gesundheit und Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022608126)
 
 (1) Das Bundesministerium für Gesundheit beruft einen
 Sachverständigenrat zur Begutachtung der Entwicklung im
@@ -29158,18 +29531,22 @@ des Bundes unverzüglich vor.
 
 
 ## Sechstes Kapitel - Organisation der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004100328)
 
 
 
 ### Erster Abschnitt - Errichtung, Vereinigung und Beendigung von Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004201126)
 
 
 
 #### Erster Titel - Arten der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004301126)
 
 
 
 ##### § 143 Ortskrankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022702126)
 
 (1) Ortskrankenkassen bestehen für abgegrenzte Regionen.
 
@@ -29182,6 +29559,7 @@ dass sich die Region über mehrere Länder erstreckt.
 
 
 ##### § 144 Betriebskrankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022804126)
 
 (1) Betriebskrankenkassen sind Krankenkassen, die durch den
 Arbeitgeber für einen oder mehrere Betriebe errichtet wurden.
@@ -29206,6 +29584,7 @@ unberührt.
 
 
 ##### § 145 Innungskrankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE022904126)
 
 (1) Innungskrankenkassen sind Krankenkassen, die durch eine
 Handwerksinnung allein oder gemeinsam mit anderen Handwerksinnungen
@@ -29219,6 +29598,7 @@ und kann nicht widerrufen werden.
 
 
 ##### § 146 Landwirtschaftliche Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023001126)
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
 Träger der Krankenversicherung der Landwirte führt die
@@ -29229,12 +29609,14 @@ Krankenkasse.
 
 
 ##### § 147 Deutsche Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023106126)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt die
 Krankenversicherung nach den Vorschriften dieses Buches durch.
 
 
 ##### § 148 Ersatzkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023203126)
 
 Ersatzkassen sind am 31. Dezember 1992 bestehende Krankenkassen, bei
 denen Versicherte die Mitgliedschaft bis zum 31. Dezember 1995 durch
@@ -29243,10 +29625,12 @@ von Ersatzkrankenkassen erstreckt sich auf das gesamte Bundesgebiet.
 
 
 #### Zweiter Titel - Besondere Vorschriften zur Errichtung, zur Ausdehnung und zur Auflösung von Betriebskrankenkassen sowie zum Ausscheiden von Betrieben aus Betriebskrankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004401126)
 
 
 
 ##### § 149 Errichtung von Betriebskrankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023303126)
 
 (1) Der Arbeitgeber kann für einen oder mehrere Betriebe eine
 Betriebskrankenkasse errichten, wenn
@@ -29305,6 +29689,7 @@ Krankenkassen oder deren Verbänden erbringen.
 
 
 ##### § 150 Verfahren bei Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023402126)
 
 (1) Die Errichtung der Betriebskrankenkasse bedarf der Genehmigung der
 nach der Errichtung zuständigen Aufsichtsbehörde. Die Genehmigung darf
@@ -29318,6 +29703,7 @@ den Zeitpunkt, zu dem die Errichtung wirksam wird.
 
 
 ##### § 151 Ausdehnung auf weitere Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023502126)
 
 Die Zuständigkeit einer Betriebskrankenkasse, deren Satzung keine
 Regelung nach § 144 Absatz 2 Satz 1 enthält, kann auf Antrag des
@@ -29326,6 +29712,7 @@ werden. § 150 gilt entsprechend.
 
 
 ##### § 152 Ausscheiden von Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023602126)
 
 (1) Geht von mehreren Betrieben desselben Arbeitgebers, für die eine
 gemeinsame Betriebskrankenkasse besteht, ein Betrieb auf einen anderen
@@ -29346,6 +29733,7 @@ den Zeitpunkt, zu dem das Ausscheiden wirksam wird.
 
 
 ##### § 153 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023703126)
 
 (1) Eine Betriebskrankenkasse kann auf Antrag des Arbeitgebers
 aufgelöst werden, wenn der Verwaltungsrat mit einer Mehrheit von mehr
@@ -29363,6 +29751,7 @@ stellen.
 
 
 ##### § 154 Betriebskrankenkassen öffentlicher Verwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023802126)
 
 Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4
 gelten entsprechend für Dienstbetriebe von Verwaltungen des Bundes,
@@ -29371,10 +29760,12 @@ Arbeitgebers tritt die Verwaltung.
 
 
 #### Dritter Titel - Vereinigung, Schließung und Insolvenz von Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004501126)
 
 
 
 ##### § 155 Freiwillige Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE023907126)
 
 (1) Ortskrankenkassen, Betriebskrankenkassen, Innungskrankenkassen und
 Ersatzkassen können sich auf Beschluss ihrer Verwaltungsräte
@@ -29414,6 +29805,7 @@ und Pflichten der bisherigen Krankenkassen ein.
 
 
 ##### § 156 Vereinigung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024002126)
 
 (1) Das Bundesministerium für Gesundheit kann auf Antrag einer
 bundesunmittelbaren Krankenkasse durch Rechtsverordnung mit Zustimmung
@@ -29450,6 +29842,7 @@ Satzungen keine Regelung nach § 144 Absatz 2 Satz 1 enthalten.
 
 
 ##### § 157 Verfahren bei Vereinigung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024104126)
 
 (1) Werden Krankenkassen nach § 156 vereinigt, legen sie der
 Aufsichtsbehörde eine Satzung, einen Vorschlag zur Berufung der
@@ -29473,6 +29866,7 @@ die Rechte und Pflichten der bisherigen Krankenkassen ein.
 
 
 ##### § 158 Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024205311)
 
 (1) Bei der freiwilligen Vereinigung von Krankenkassen finden die
 Vorschriften über die Zusammenschlusskontrolle nach Kapitel Sieben des
@@ -29498,6 +29892,7 @@ nicht.
 
 
 ##### § 159 Schließung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024304126)
 
 (1) Eine Krankenkasse wird von der Aufsichtsbehörde geschlossen, wenn
 ihre Leistungsfähigkeit nicht mehr auf Dauer gesichert ist.
@@ -29526,6 +29921,7 @@ Schließungsbescheids mindestens acht Wochen liegen müssen.
 
 
 ##### § 160 Insolvenz von Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024403126)
 
 (1) Die Insolvenzordnung gilt für Krankenkassen nach Maßgabe der
 nachfolgenden Absätze.
@@ -29584,6 +29980,7 @@ erfüllen.
 
 
 ##### § 161 Aufhebung der Haftung nach § 12 Absatz 2 der Insolvenzordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024502126)
 
 Die Länder haften nicht nach § 12 Absatz 2 der Insolvenzordnung für
 die Ansprüche der Beschäftigten von Krankenkassen auf Leistungen der
@@ -29591,12 +29988,14 @@ Altersversorgung und auf Insolvenzgeld.
 
 
 ##### § 162 Insolvenzfähigkeit von Krankenkassenverbänden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024602126)
 
 Die §§ 160, 161, 169 und 170 gelten für die Verbände der Krankenkassen
 entsprechend.
 
 
 ##### § 163 Vermeidung der Schließung oder Insolvenz von Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024703126)
 
 (1) Der Spitzenverband Bund der Krankenkassen hat die Finanzlage der
 Krankenkassen auf der Grundlage der jährlichen und der
@@ -29650,6 +30049,7 @@ Aufsichtsbehörde diesen Beschluss.
 
 
 ##### § 164 Vorübergehende finanzielle Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024805126)
 
 (1) Die Satzung des Spitzenverbandes Bund der Krankenkassen hat
 Bestimmungen über die Gewährung vorübergehender finanzieller Hilfen an
@@ -29694,10 +30094,12 @@ Euro aus der Liquiditätsreserve des Gesundheitsfonds nach § 271 Absatz
 
 
 #### Vierter Titel - Folgen der Auflösung, der Schließung und der Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG004602126)
 
 
 
 ##### § 165 Abwicklung der Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE024906126)
 
 (1) Der Vorstand einer aufgelösten oder geschlossenen Krankenkasse
 wickelt die Geschäfte ab. Bis die Geschäfte abgewickelt sind, gilt die
@@ -29738,6 +30140,7 @@ auf den Spitzenverband Bund der Krankenkassen über, der dieses auf die
 
 
 ##### § 166 Haftung für Verpflichtungen bei Auflösung oder Schließung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025003126)
 
 (1) Reicht das Vermögen einer aufgelösten oder geschlossenen
 Krankenkasse nicht aus, um die Gläubiger zu befriedigen, haften die
@@ -29760,6 +30163,7 @@ beteiligt sind, deren Satzung keine Regelung nach § 144 Absatz 2 Satz
 
 
 ##### § 167 Verteilung der Haftungssumme auf die Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025105126)
 
 (1) Die Erfüllung der Verpflichtungen nach § 166 Absatz 1 und 2 Satz 3
 kann nur vom Spitzenverband Bund der Krankenkassen verlangt werden,
@@ -29867,6 +30271,7 @@ entsprechend.
 
 
 ##### § 168 Personal
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025203126)
 
 (1) Die Versorgungsansprüche der am Tag der Auflösung oder Schließung
 einer Krankenkasse vorhandenen Versorgungsempfänger und ihrer
@@ -29896,6 +30301,7 @@ kündigen, werden hierdurch nicht berührt.
 
 
 ##### § 169 Haftung im Insolvenzfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025302126)
 
 (1) Wird über das Vermögen einer Krankenkasse das Insolvenzverfahren
 eröffnet oder die Eröffnung mangels Masse rechtskräftig abgewiesen
@@ -29952,6 +30358,7 @@ gilt § 167 Absatz 6 entsprechend.
 
 
 ##### § 170 Deckungskapital für Altersversorgungsverpflichtungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025405126)
 
 (1) Krankenkassen haben für Versorgungszusagen, die eine direkte
 Einstandspflicht nach § 1 Absatz 1 Satz 3 des Betriebsrentengesetzes
@@ -30023,50 +30430,62 @@ Absatz 7 entsprechend.
 
 
 ##### § 171 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025505126)
 
 
 
 ##### § 171a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053803126)
 
 
 
 ##### § 171b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE053905126)
 
 
 
 ##### § 171c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055301126)
 
 
 
 ##### § 171d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055406126)
 
 
 
 ##### § 171e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055506126)
 
 
 
 ##### § 171f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055601126)
 
 
 
 ##### § 172 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025604126)
 
 
 
 ##### § 172a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059501126)
 
 
 
 ### Zweiter Abschnitt - Wahlrechte der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005102308)
 
 
 
 #### Erster Titel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005202308)
 
 
 
 ##### § 173 Allgemeine Wahlrechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025711126)
 
 (1) Versicherungspflichtige (§ 5) und Versicherungsberechtigte (§ 9)
 sind Mitglied der von ihnen gewählten Krankenkasse, soweit in den
@@ -30140,6 +30559,7 @@ enthalten hätte.
 
 
 ##### § 174 Besondere Wahlrechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025806126)
 
 (1) Für Versicherungspflichtige und Versicherungsberechtigte, die bei
 einer Betriebskrankenkasse beschäftigt sind oder vor dem Rentenbezug
@@ -30158,6 +30578,7 @@ sie Mitglied der von ihnen nach § 173 Abs. 1 gewählten Krankenkasse; §
 
 
 ##### § 175 Ausübung des Wahlrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE025919126)
 
 (1) Die Ausübung des Wahlrechts ist gegenüber der gewählten
 Krankenkasse zu erklären. Diese darf die Mitgliedschaft nicht ablehnen
@@ -30319,10 +30740,12 @@ nach Absatz 3.
 
 
 #### Zweiter Titel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005303308)
 
 
 
 ##### § 176 Bestandschutzregelung für Solidargemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE026007126)
 
 (1) Die Mitgliedschaft in einer Solidargemeinschaft gilt nur dann als
 anderweitige Absicherung im Krankheitsfall im Sinne des § 5 Absatz 1
@@ -30391,23 +30814,28 @@ Antrag des Mitglieds zu prüfen und zu bescheinigen.
 
 
 ##### § 177 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE026105308)
 
 -
 
 
 ##### (XXXX) §§ 178 bis 185 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE026201308)
 
 
 
 ### Dritter Abschnitt - Mitgliedschaft und Verfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005400328)
 
 
 
 #### Erster Titel - Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005500328)
 
 
 
 ##### § 186 Beginn der Mitgliedschaft Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027009126)
 
 (1) Die Mitgliedschaft versicherungspflichtig Beschäftigter beginnt
 mit dem Tag des Eintritts in das Beschäftigungsverhältnis.
@@ -30484,6 +30912,7 @@ Krankheitsfall haben, beginnt die Mitgliedschaft an diesem Tag.
 
 
 ##### § 187 Beginn der Mitgliedschaft bei einer neu errichteten Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027100328)
 
 Die Mitgliedschaft bei einer neu errichteten Krankenkasse beginnt für
 Versicherungspflichtige, für die diese Krankenkasse zuständig ist, mit
@@ -30491,6 +30920,7 @@ dem Zeitpunkt, an dem die Errichtung der Krankenkasse wirksam wird.
 
 
 ##### § 188 Beginn der freiwilligen Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027207126)
 
 (1) Die Mitgliedschaft Versicherungsberechtigter beginnt mit dem Tag
 ihres Beitritts zur Krankenkasse.
@@ -30551,6 +30981,7 @@ Zustimmung des Bundesministeriums für Gesundheit.
 
 
 ##### § 189 Mitgliedschaft von Rentenantragstellern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027301119)
 
 (1) Als Mitglieder gelten Personen, die eine Rente der gesetzlichen
 Rentenversicherung beantragt haben und die Voraussetzungen nach § 5
@@ -30566,6 +30997,7 @@ wird.
 
 
 ##### § 190 Ende der Mitgliedschaft Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027414126)
 
 (1) Die Mitgliedschaft Versicherungspflichtiger endet mit dem Tod des
 Mitglieds.
@@ -30680,6 +31112,7 @@ Buches sind.
 
 
 ##### § 191 Ende der freiwilligen Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027506126)
 
 Die freiwillige Mitgliedschaft endet
 
@@ -30708,6 +31141,7 @@ Die freiwillige Mitgliedschaft endet
 
 
 ##### § 192 Fortbestehen der Mitgliedschaft Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027616126)
 
 (1) Die Mitgliedschaft Versicherungspflichtiger bleibt erhalten,
 solange
@@ -30756,6 +31190,7 @@ sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 
 
 ##### § 193 Fortbestehen der Mitgliedschaft bei Wehrdienst oder Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027706308)
 
 (1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2
 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das
@@ -30788,10 +31223,12 @@ Sinne von § 5 Abs. 1 Nr. 1 und § 6 Abs. 1 Nr. 3.
 
 
 #### Zweiter Titel - Satzung, Organe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005600328)
 
 
 
 ##### § 194 Satzung der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027805377)
 
 (1) Die Satzung muß insbesondere Bestimmungen enthalten über
 
@@ -30848,6 +31285,7 @@ Leistungen nur vorsehen, soweit dieses Buch sie zuläßt.
 
 
 ##### § 194a Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075201126)
 
 (1) Bei den Sozialversicherungswahlen im Jahr 2023 können im Rahmen
 eines Modellprojektes abweichend von § 54 Absatz 1 des Vierten Buches
@@ -30917,6 +31355,7 @@ entsprechend zu wahren.
 
 
 ##### § 194b Durchführung der Stimmabgabe per Online-Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075300124)
 
 (1) Für die Durchführung der Stimmabgabe per Online-Wahl gelten die
 Vorschriften des Zweiten Titels des Vierten Abschnitts des Vierten
@@ -31050,6 +31489,7 @@ Ungültigkeit auszuweisen.
 
 
 ##### § 194c Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075400124)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer
 Rechtsverordnung bis zum 30. September 2020 die technischen und
@@ -31115,6 +31555,7 @@ Rechtsverordnung festgelegt.
 
 
 ##### § 194d Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075500124)
 
 (1) Das Modellprojekt nach § 194a wird durch das Bundesministerium für
 Gesundheit wissenschaftlich begleitet und im Einvernehmen mit dem
@@ -31152,6 +31593,7 @@ und Daten zur Verfügung zu stellen.
 
 
 ##### § 195 Genehmigung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE027901308)
 
 (1) Die Satzung bedarf der Genehmigung der Aufsichtsbehörde.
 
@@ -31169,6 +31611,7 @@ eingetretener Umstände einer Änderung bedarf.
 
 
 ##### § 196 Einsichtnahme in die Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028000328)
 
 (1) Die geltende Satzung kann in den Geschäftsräumen der Krankenkasse
 während der üblichen Geschäftsstunden eingesehen werden.
@@ -31180,6 +31623,7 @@ gewährenden Leistungen und über die Beiträge.
 
 
 ##### § 197 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028101308)
 
 (1) Der Verwaltungsrat hat insbesondere
 
@@ -31222,6 +31666,7 @@ Fachausschüsse bilden.
 
 
 ##### § 197a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050605126)
 
 (1) Die Krankenkassen, wenn angezeigt ihre Landesverbände, und der
 Spitzenverband Bund der Krankenkassen richten organisatorische
@@ -31348,6 +31793,7 @@ Internet.
 
 
 ##### § 197b Aufgabenerledigung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054000308)
 
 Krankenkassen können die ihnen obliegenden Aufgaben durch
 Arbeitsgemeinschaften oder durch Dritte mit deren Zustimmung
@@ -31361,10 +31807,12 @@ gelten entsprechend.
 
 
 ### Vierter Abschnitt - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005700328)
 
 
 
 #### § 198 Meldepflicht des Arbeitgebers für versicherungspflichtig Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028200328)
 
 Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den
 §§ 28a bis 28c des Vierten Buches an die zuständige Krankenkasse zu
@@ -31372,6 +31820,7 @@ melden.
 
 
 #### § 199 Meldepflichten bei unständiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028300328)
 
 (1) Unständig Beschäftigte haben der nach § 179 Abs. 1 zuständigen
 Krankenkasse Beginn und Ende der berufsmäßigen Ausübung von
@@ -31385,6 +31834,7 @@ Gesamtbetriebe gelten, richtet sich nach Landesrecht.
 
 
 #### § 199a Informationspflichten bei krankenversicherten Studenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE072404126)
 
 (1) Die staatlichen oder staatlich anerkannten Hochschulen sowie die
 Stiftung für Hochschulzulassung haben Studienbewerber und Studenten
@@ -31494,6 +31944,7 @@ Verband der Privaten Hochschulen e. V. anzuhören hat.
 
 
 #### § 200 Meldepflichten bei sonstigen versicherungspflichtigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028406126)
 
 (1) Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches hat zu
 erstatten
@@ -31536,6 +31987,7 @@ der Mitteilung legt der Spitzenverband Bund der Krankenkassen fest.
 
 
 #### § 201 Meldepflichten bei Rentenantragstellung und Rentenbezug
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028508126)
 
 (1) Wer eine Rente der gesetzlichen Rentenversicherung beantragt, hat
 mit dem Antrag eine Meldung für die zuständige Krankenkasse
@@ -31594,6 +32046,7 @@ Sicherung.
 
 
 #### § 202 Meldepflichten bei Versorgungsbezügen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028610126)
 
 (1) Die Zahlstelle hat bei der erstmaligen Bewilligung von
 Versorgungsbezügen sowie bei Mitteilung über die Beendigung der
@@ -31704,6 +32157,7 @@ und den Aufbau der Zahlstellennummer regeln die Grundsätze nach Absatz
 
 
 #### § 202a Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094200126)
 
 Die Zahlstellen müssen ab dem 1. Juli 2025 für die in der sozialen
 Pflegeversicherung bereits vor diesem Zeitpunkt
@@ -31719,6 +32173,7 @@ genannten Zeitraum.
 
 
 #### § 203 Meldepflichten bei Leistung von Mutterschaftsgeld, Elterngeld oder Erziehungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028703126)
 
 (1) Die zuständige Krankenkasse übermittelt der nach § 12 Absatz 1 des
 Bundeselterngeld- und Elternzeitgesetzes zuständigen Behörde
@@ -31777,6 +32232,7 @@ bedürfen, fest:
 
 
 #### § 203a Meldepflicht bei Bezug von Arbeitslosengeld, Bürgergeld oder Unterhaltsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043005126)
 
 Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten
 Buches die zugelassenen kommunalen Träger erstatten die Meldungen
@@ -31785,6 +32241,7 @@ entsprechend §§ 28a bis 28c des Vierten Buches.
 
 
 #### § 204 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028805301)
 
 (1) Bei Einberufung zu einem Wehrdienst hat bei versicherungspflichtig
 Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für
@@ -31802,6 +32259,7 @@ Zivildienst.
 
 
 #### § 205 Meldepflichten bestimmter Versicherungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE028900328)
 
 Versicherungspflichtige, die eine Rente der gesetzlichen
 Rentenversicherung oder der Rente vergleichbare Einnahmen
@@ -31822,6 +32280,7 @@ melden
 
 
 #### § 206 Auskunfts- und Mitteilungspflichten der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029000328)
 
 (1) Wer versichert ist oder als Versicherter in Betracht kommt, hat
 der Krankenkasse, soweit er nicht nach § 28o des Vierten Buches
@@ -31849,10 +32308,12 @@ Verpflichteten die Erstattung verlangen.
 
 
 ## Siebtes Kapitel - Verbände der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005800328)
 
 
 
 ### § 207 Bildung und Vereinigung von Landesverbänden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029103308)
 
 (1) In jedem Land bilden
 die Ortskrankenkassen einen Landesverband der Ortskrankenkassen,
@@ -31909,6 +32370,7 @@ wenn die Landesverbände ihren Sitz in verschiedenen Ländern haben.
 
 
 ### § 208 Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029204126)
 
 (1) Die Landesverbände unterstehen der Aufsicht der für die
 Sozialversicherung zuständigen obersten Verwaltungsbehörde des Landes,
@@ -31923,6 +32385,7 @@ sowie § 220 Absatz 1 Satz 2 und 3. Für das Verwaltungsvermögen gilt §
 
 
 ### § 209 Verwaltungsrat der Landesverbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029303126)
 
 (1) Bei den Landesverbänden der Krankenkassen wird als
 Selbstverwaltungsorgan ein Verwaltungsrat nach näherer Bestimmung der
@@ -31945,6 +32408,7 @@ die §§ 64a und 66 Absatz 1 des Vierten Buches gelten entsprechend.
 
 
 ### § 209a Vorstand bei den Landesverbänden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042200308)
 
 Bei den Landesverbänden der Orts-, Betriebs- und Innungskrankenkassen
 wird ein Vorstand gebildet. Er besteht aus höchstens drei Personen. §
@@ -31952,6 +32416,7 @@ wird ein Vorstand gebildet. Er besteht aus höchstens drei Personen. §
 
 
 ### § 210 Satzung der Landesverbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029404126)
 
 (1) Jeder Landesverband hat durch seinen Verwaltungsrat eine Satzung
 aufzustellen. Die Satzung bedarf der Genehmigung der für die
@@ -31992,6 +32457,7 @@ Landesverbände und ihre Mitgliedskassen verbindlich sind.
 
 
 ### § 211 Aufgaben der Landesverbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029502308)
 
 (1) Die Landesverbände haben die ihnen gesetzlich zugewiesenen
 Aufgaben zu erfüllen.
@@ -32052,6 +32518,7 @@ bestimmende Schiedsperson festgelegt.
 
 
 ### § 211a Entscheidungen auf Landesebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054100308)
 
 Die Landesverbände der Krankenkassen und die Ersatzkassen sollen sich
 über die von ihnen nach diesem Gesetz gemeinsam und einheitlich zu
@@ -32064,6 +32531,7 @@ KM6 jährlich zum 1. Januar anzupassen.
 
 
 ### § 212 Bundesverbände, Deutsche Rentenversicherung Knappschaft-Bahn-See, Verbände der Ersatzkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029607308)
 
 (1) Die nach § 212 Abs. 1 in der bis zum 31. Dezember 2008 geltenden
 Fassung bestehenden Bundesverbände werden kraft Gesetzes zum 1. Januar
@@ -32126,6 +32594,7 @@ Zuständigkeitsbereich als Bevollmächtigte.
 
 
 ### § 213 Rechtsnachfolge, Vermögensübergang, Arbeitsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029711126)
 
 (1) Das den bis zum 31. Dezember 2008 bestehenden Bundesverbänden
 zustehende Vermögen wandelt sich in Gesamthandsvermögen der
@@ -32189,6 +32658,7 @@ Einer vorherigen Ausschreibung bedarf es nicht.
 
 
 ### § 214 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029805308)
 
 Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der
 Rechtsnachfolge oder aus Gesetz zu erfüllen. Die Gesellschafter können
@@ -32197,21 +32667,25 @@ Durchführung der gesetzlichen Krankenversicherung vereinbaren.
 
 
 ### § 215 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE029903308)
 
 -
 
 
 ### § 216 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030002308)
 
 -
 
 
 ### § 217 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030106308)
 
 -
 
 
 ### § 217a Errichtung des Spitzenverbandes Bund der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054200308)
 
 (1) Die Krankenkassen bilden den Spitzenverband Bund der
 Krankenkassen.
@@ -32221,6 +32695,7 @@ des öffentlichen Rechts.
 
 
 ### § 217b Organe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054314126)
 
 (1) Bei dem Spitzenverband Bund der Krankenkassen wird als
 Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des
@@ -32386,6 +32861,7 @@ teilzunehmen.
 
 
 ### § 217c Wahl des Verwaltungsrates und des Vorsitzenden der Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054404126)
 
 (1) Der Verwaltungsrat besteht aus höchstens 52 Mitgliedern. Zu wählen
 sind als Mitglieder des Verwaltungsrates Versichertenvertreter und
@@ -32499,6 +32975,7 @@ Wahlordnung regeln.
 
 
 ### § 217d Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054503126)
 
 (1) Der Spitzenverband Bund der Krankenkassen untersteht der Aufsicht
 des Bundesministeriums für Gesundheit, bei Ausführung des § 217f Abs.
@@ -32547,6 +33024,7 @@ Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind.
 
 
 ### § 217e Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054600308)
 
 (1) Der Verwaltungsrat hat eine Satzung zu beschließen. Die Satzung
 bedarf der Genehmigung der zuständigen Aufsichtsbehörde. Der
@@ -32596,6 +33074,7 @@ Krankenkassen und die Versicherten.
 
 
 ### § 217f Aufgaben des Spitzenverbandes Bund der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE054715126)
 
 (1) Der Spitzenverband Bund der Krankenkassen hat ab dem 1. Juli 2008
 die ihm gesetzlich zugewiesenen Aufgaben zu erfüllen. Der Vorstand hat
@@ -32740,6 +33219,7 @@ nach § 3 der Sozialversicherungs-Rechnungsverordnung aufzustellen.
 
 
 ### § 217g Aufsichtsmittel in besonderen Fällen bei dem Spitzenverband Bund der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066700119)
 
 (1) Ergibt sich nachträglich, dass eine Satzung nicht hätte genehmigt
 werden dürfen, oder bedarf eine Satzung wegen nachträglich
@@ -32777,6 +33257,7 @@ gegen Anordnungen und Maßnahmen der Aufsichtsbehörde nach den Absätzen
 
 
 ### § 217h Entsandte Person für besondere Angelegenheiten bei dem Spitzenverband Bund der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066800119)
 
 (1) Solange und soweit die ordnungsgemäße Verwaltung bei dem
 Spitzenverband Bund der Krankenkassen gefährdet ist, kann die
@@ -32844,6 +33325,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 217i Verhinderung von Organen, Bestellung eines Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066900119)
 
 (1) Solange und soweit die Wahl des Verwaltungsrates und des
 Vorstandes des Spitzenverbandes Bund der Krankenkassen nicht zustande
@@ -32884,6 +33366,7 @@ durch die Aufsichtsbehörde haben keine aufschiebende Wirkung.
 
 
 ### § 217j Berichtspflicht des Bundesministeriums für Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067000119)
 
 Sofern schutzwürdige Belange Dritter nicht entgegenstehen, hat das
 Bundesministerium für Gesundheit dem Ausschuss für Gesundheit des
@@ -32896,6 +33379,7 @@ sowie über den Sachstand der Aufsichtsverfahren vorzulegen.
 
 
 ### § 218 Regionale Kassenverbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030201308)
 
 (1) Orts-, Betriebs- und Innungskrankenkassen können sich durch
 übereinstimmenden Beschluß ihrer Verwaltungsräte zu einem
@@ -32909,6 +33393,7 @@ erstrecken.
 
 
 ### § 219 Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften des Spitzenverbandes Bund der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030304124)
 
 (1) Die Krankenkassen und ihre Verbände können insbesondere mit
 Kassenärztlichen Vereinigungen und anderen Leistungserbringern sowie
@@ -32972,6 +33457,7 @@ denen der Spitzenverband Bund der Krankenkassen beteiligt ist.
 
 
 ### § 219a Deutsche Verbindungsstelle Krankenversicherung - Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047109126)
 
 (1) Der Spitzenverband Bund der Krankenkassen nimmt die Aufgaben der
 Deutschen Verbindungsstelle Krankenversicherung - Ausland
@@ -33108,6 +33594,7 @@ begonnen werden.
 
 
 ### § 219b Datenaustausch im automatisierten Verfahren zwischen den Trägern der sozialen Sicherheit und der Deutschen Verbindungsstelle Krankenversicherung – Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057201124)
 
 Der Datenaustausch der Krankenkassen und der anderen Träger der
 sozialen Sicherheit mit dem Spitzenverband Bund der Krankenkassen,
@@ -33125,9 +33612,11 @@ Unfallversicherung e. V. bestimmt werden.
 
 
 ### § 219c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057301124)
 
 
 ### § 219d Nationale Kontaktstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059005126)
 
 (1) Die Aufgaben der nationalen Kontaktstelle nach der Richtlinie
 2011/24/EU des Europäischen Parlaments und des Rates vom 9. März 2011
@@ -33272,18 +33761,22 @@ beteiligen.
 
 
 ## Achtes Kapitel - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG005900328)
 
 
 
 ### Erster Abschnitt - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006000328)
 
 
 
 #### Erster Titel - Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006100328)
 
 
 
 ##### § 220 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030413126)
 
 (1) Die Mittel der Krankenversicherung werden durch Beiträge und
 sonstige Einnahmen aufgebracht; als Beiträge gelten auch
@@ -33358,6 +33851,7 @@ erarbeitet werden.
 
 
 ##### § 221 Beteiligung des Bundes an Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030523126)
 
 (1) Der Bund leistet zur pauschalen Abgeltung der Aufwendungen der
 Krankenkassen für versicherungsfremde Leistungen jährlich 14,5
@@ -33408,6 +33902,7 @@ Sicherung.
 
 
 ##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056309129)
 
 (1) Zur Abgeltung der Aufwendungen der Krankenkassen nach § 8 Absatz
 11 Satz 1 des Krankenhausentgeltgesetzes leistet der Bund unbeschadet
@@ -33454,13 +33949,16 @@ Liquiditätsreserve des Gesundheitsfonds dem Transformationsfonds nach
 
 
 ##### § 221b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056903377)
 
 
 ##### § 222 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030606308)
 
 
 
 ##### § 223 Beitragspflicht, beitragspflichtige Einnahmen, Beitragsbemessungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030701308)
 
 (1) Die Beiträge sind für jeden Kalendertag der Mitgliedschaft zu
 zahlen, soweit dieses Buch nichts Abweichendes bestimmt.
@@ -33477,6 +33975,7 @@ dieses Buch nichts Abweichendes bestimmt.
 
 
 ##### § 224 Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Elterngeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030804126)
 
 (1) Beitragsfrei ist ein Mitglied für die Dauer des Anspruchs auf
 Krankengeld oder Mutterschaftsgeld oder des Bezugs von Elterngeld. Die
@@ -33489,6 +33988,7 @@ nicht ausgeschlossen oder gemindert.
 
 
 ##### § 225 Beitragsfreiheit bestimmter Rentenantragsteller
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE030903124)
 
 Beitragsfrei ist ein Rentenantragsteller bis zum Beginn der Rente,
 wenn er
@@ -33514,10 +34014,12 @@ Versorgungsbezüge erhält. § 226 Abs. 2 gilt entsprechend.
 
 
 #### Zweiter Titel - Beitragspflichtige Einnahmen der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006200328)
 
 
 
 ##### § 226 Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031013311)
 
 (1) Bei versicherungspflichtig Beschäftigten werden der
 Beitragsbemessung zugrunde gelegt
@@ -33574,12 +34076,14 @@ die beitragspflichtige Einnahme nach § 134 des Vierten Buches.
 
 
 ##### § 227 Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die  gesetzliche Krankenversicherung und bisher nicht Versicherter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031102308)
 
 Für die nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen gilt § 240
 entsprechend.
 
 
 ##### § 228 Rente als beitragspflichtige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031205126)
 
 (1) Als Rente der gesetzlichen Rentenversicherung gelten Renten der
 allgemeinen Rentenversicherung sowie Renten der knappschaftlichen
@@ -33602,6 +34106,7 @@ bei der Beitragsbemessung zu berücksichtigen sind.
 
 
 ##### § 229 Versorgungsbezüge als beitragspflichtige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031307126)
 
 (1) Als der Rente vergleichbare Einnahmen (Versorgungsbezüge) gelten,
 soweit sie wegen einer Einschränkung der Erwerbsfähigkeit oder zur
@@ -33666,6 +34171,7 @@ entsprechend.
 
 
 ##### § 230 Rangfolge der Einnahmearten versicherungspflichtig Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031400328)
 
 Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden
 nacheinander der Zahlbetrag der Versorgungsbezüge und das
@@ -33676,6 +34182,7 @@ Beitragsbemessungsgrenze berücksichtigt.
 
 
 ##### § 231 Erstattung von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031505126)
 
 (1) Beiträge aus Versorgungsbezügen oder Arbeitseinkommen werden dem
 Mitglied durch die Krankenkasse auf Antrag erstattet, soweit sie auf
@@ -33710,6 +34217,7 @@ zahlen müssen.
 
 
 ##### § 232 Beitragspflichtige Einnahmen unständig Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031603308)
 
 (1) Für unständig Beschäftigte ist als beitragspflichtige Einnahmen
 ohne Rücksicht auf die Beschäftigungsdauer das innerhalb eines
@@ -33733,6 +34241,7 @@ Voraus durch den Arbeitsvertrag befristet ist.
 
 
 ##### § 232a Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE043121126)
 
 (1) Als beitragspflichtige Einnahmen gelten
 
@@ -33772,6 +34281,7 @@ Qualifizierungsgeld.
 
 
 ##### § 232b Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060000119)
 
 (1) Bei Personen, die Pflegeunterstützungsgeld nach § 44a Absatz 3 des
 Elften Buches beziehen, gelten 80 Prozent des während der Freistellung
@@ -33788,6 +34298,7 @@ Mitglieder gilt Satz 2 entsprechend.
 
 
 ##### § 233 Beitragspflichtige Einnahmen der Seeleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031701308)
 
 (1) Für Seeleute gilt als beitragspflichtige Einnahme der Betrag, der
 nach dem Recht der gesetzlichen Unfallversicherung für die
@@ -33798,6 +34309,7 @@ Beitragsberechnung maßgebend ist.
 
 
 ##### § 234 Beitragspflichtige Einnahmen der Künstler und Publizisten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031804126)
 
 (1) Für die nach dem Künstlersozialversicherungsgesetz
 versicherungspflichtigen Mitglieder wird der Beitragsbemessung der
@@ -33817,6 +34329,7 @@ Leistungen.
 
 
 ##### § 235 Beitragspflichtige Einnahmen von Rehabilitanden, Jugendlichen und Menschen mit Behinderungen in Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE031910126)
 
 (1) Für die nach § 5 Abs. 1 Nr. 6 versicherungspflichtigen Teilnehmer
 an Leistungen zur Teilhabe am Arbeitsleben gelten als
@@ -33860,6 +34373,7 @@ Arbeitsentgelt vorrangig zu berücksichtigen.
 
 
 ##### § 236 Beitragspflichtige Einnahmen der Studenten und Praktikanten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032001126)
 
 (1) Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gilt
 als beitragspflichtige Einnahmen ein Dreißigstel des Betrages, der als
@@ -33877,6 +34391,7 @@ Absatz 1 zu bemessenden Beiträge übersteigen.
 
 
 ##### § 237 Beitragspflichtige Einnahmen versicherungspflichtiger Rentner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032102124)
 
 Bei versicherungspflichtigen Rentnern werden der Beitragsbemessung
 zugrunde gelegt
@@ -33901,6 +34416,7 @@ entsprechend.
 
 
 ##### § 238 Rangfolge der Einnahmearten versicherungspflichtiger Rentner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032200328)
 
 Erreicht der Zahlbetrag der Rente der gesetzlichen Rentenversicherung
 nicht die Beitragsbemessungsgrenze, werden nacheinander der Zahlbetrag
@@ -33909,6 +34425,7 @@ Beitragsbemessungsgrenze berücksichtigt.
 
 
 ##### § 238a Rangfolge der Einnahmearten freiwillig versicherter Rentner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042300308)
 
 Bei freiwillig versicherten Rentnern werden der Beitragsbemessung
 nacheinander der Zahlbetrag der Rente, der Zahlbetrag der
@@ -33919,6 +34436,7 @@ gelegt.
 
 
 ##### § 239 Beitragsbemessung bei Rentenantragstellern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032301308)
 
 Bei Rentenantragstellern wird die Beitragsbemessung für die Zeit der
 Rentenantragstellung bis zum Beginn der Rente durch den Spitzenverband
@@ -33929,6 +34447,7 @@ unanfechtbar geworden ist. § 240 gilt entsprechend.
 
 
 ##### § 240 Beitragspflichtige Einnahmen freiwilliger Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032425126)
 
 (1) Für freiwillige Mitglieder wird die Beitragsbemessung einheitlich
 durch den Spitzenverband Bund der Krankenkassen geregelt. Dabei ist
@@ -34074,16 +34593,19 @@ der monatlichen Bezugsgröße nach § 18 des Vierten Buches
 
 
 #### Dritter Titel - Beitragssätze, Zusatzbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006301308)
 
 
 
 ##### § 241 Allgemeiner Beitragssatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032504377)
 
 Der allgemeine Beitragssatz beträgt 14,6 Prozent der
 beitragspflichtigen Einnahmen der Mitglieder.
 
 
 ##### § 242 Zusatzbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032617126)
 
 (1) Soweit der Finanzbedarf einer Krankenkasse durch die Zuweisungen
 aus dem Gesundheitsfonds nicht gedeckt ist, hat sie in ihrer Satzung
@@ -34169,6 +34691,7 @@ Spitzenverband Bund der Krankenkassen.
 
 
 ##### § 242a Durchschnittlicher Zusatzbeitragssatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057003377)
 
 (1) Der durchschnittliche Zusatzbeitragssatz ergibt sich aus der
 Differenz zwischen den voraussichtlichen jährlichen Ausgaben der
@@ -34186,9 +34709,11 @@ Kalenderjahres im Bundesanzeiger bekannt.
 
 
 ##### § 242b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057105377)
 
 
 ##### § 243 Ermäßigter Beitragssatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032706301)
 
 Für Mitglieder, die keinen Anspruch auf Krankengeld haben, gilt ein
 ermäßigter Beitragssatz. Dies gilt nicht für die Beitragsbemessung
@@ -34197,6 +34722,7 @@ der beitragspflichtigen Einnahmen der Mitglieder.
 
 
 ##### § 244 Ermäßigter Beitrag für Wehrdienstleistende und Zivildienstleistende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032806308)
 
 (1) Bei Einberufung zu einem Wehrdienst wird der Beitrag für
 
@@ -34225,12 +34751,14 @@ Senioren, Frauen und Jugend.
 
 
 ##### § 245 Beitragssatz für Studenten und Praktikanten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE032909126)
 
 Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gelten
 als Beitragssatz sieben Zehntel des allgemeinen Beitragssatzes.
 
 
 ##### § 246 Beitragssatz für Beziehende von Bürgergeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033006126)
 
 Für Personen, die Bürgergeld nach § 19 Absatz 1 Satz 1 des Zweiten
 Buches beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach
@@ -34238,6 +34766,7 @@ Buches beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach
 
 
 ##### § 247 Beitragssatz aus der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033116126)
 
 Für Versicherungspflichtige findet für die Bemessung der Beiträge aus
 Renten der gesetzlichen Rentenversicherung der allgemeine Beitragssatz
@@ -34252,6 +34781,7 @@ ausländische Renten nach § 228 Absatz 1 Satz 2.
 
 
 ##### § 248 Beitragssatz aus Versorgungsbezügen und Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033215126)
 
 Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus
 Versorgungsbezügen und Arbeitseinkommen der allgemeine Beitragssatz.
@@ -34266,10 +34796,12 @@ Kalendermonats an.
 
 
 #### Vierter Titel - Tragung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006400328)
 
 
 
 ##### § 249 Tragung der Beiträge bei versicherungspflichtiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033322126)
 
 (1) Beschäftigte, die nach § 5 Absatz 1 Nummer 1 oder Nummer 13
 versicherungspflichtig sind, und ihre Arbeitgeber tragen die nach dem
@@ -34297,6 +34829,7 @@ wird, im Übrigen vom Versicherten getragen.
 
 
 ##### § 249a Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039509126)
 
 Versicherungspflichtige, die eine Rente nach § 228 Absatz 1 Satz 1
 beziehen, und die Träger der Rentenversicherung tragen die nach der
@@ -34310,6 +34843,7 @@ tragen hätte. Die Beiträge aus ausländischen Renten nach § 228 Absatz
 
 
 ##### § 249b Beitrag des Arbeitgebers bei geringfügiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE045002308)
 
 Der Arbeitgeber einer Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten
 Buches hat für Versicherte, die in dieser Beschäftigung
@@ -34326,6 +34860,7 @@ entsprechend.
 
 
 ##### § 249c Tragung der Beiträge bei Bezug von Pflegeunterstützungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE060100119)
 
 Bei Bezug von Pflegeunterstützungsgeld werden die Beiträge, soweit sie
 auf das Pflegeunterstützungsgeld entfallen, getragen
@@ -34362,6 +34897,7 @@ Arbeitsentgelt 450 Euro nicht übersteigt.
 
 
 ##### § 250 Tragung der Beiträge durch das Mitglied
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033405377)
 
 (1) Versicherungspflichtige tragen die Beiträge aus
 
@@ -34387,6 +34923,7 @@ Satz 1 zu tragenden Beiträge allein.
 
 
 ##### § 251 Tragung der Beiträge durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033524126)
 
 (1) Der zuständige Rehabilitationsträger trägt die auf Grund der
 Teilnahme an Leistungen zur Teilhabe am Arbeitsleben sowie an
@@ -34476,10 +35013,12 @@ Vorschriften des Ersten und Zehnten Buches.
 
 
 #### Fünfter Titel - Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006500328)
 
 
 
 ##### § 252 Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033616126)
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend
@@ -34548,6 +35087,7 @@ Zuwiderhandlung verbinden.
 
 
 ##### § 253 Beitragszahlung aus dem Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033700328)
 
 Für die Zahlung der Beiträge aus Arbeitsentgelt bei einer
 versicherungspflichtigen Beschäftigung gelten die Vorschriften über
@@ -34556,6 +35096,7 @@ des Vierten Buches.
 
 
 ##### § 254 Beitragszahlung der Studenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033801308)
 
 Versicherungspflichtige Studenten haben vor der Einschreibung oder
 Rückmeldung an der Hochschule die Beiträge für das Semester im voraus
@@ -34568,6 +35109,7 @@ Annahme der Rückmeldung.
 
 
 ##### § 255 Beitragszahlung aus der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE033915126)
 
 (1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228
 Absatz 1 Satz 1 zu tragen haben, sind von den Trägern der
@@ -34621,6 +35163,7 @@ letzten Bankarbeitstag fälligen Beträge mit.
 
 
 ##### § 256 Beitragszahlung aus Versorgungsbezügen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034006126)
 
 (1) Für Versicherungspflichtige haben die Zahlstellen der
 Versorgungsbezüge die Beiträge aus Versorgungsbezügen einzubehalten
@@ -34654,6 +35197,7 @@ Krankenkassen die Überwachung für die beteiligten Krankenkassen
 
 
 ##### § 256a Ermäßigung und Erlass von Beitragsschulden und Säumniszuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059600377)
 
 (1) Zeigt ein Versicherter das Vorliegen der Voraussetzungen der
 Versicherungspflicht nach § 5 Absatz 1 Nummer 13 erst nach einem der
@@ -34688,10 +35232,12 @@ sind diesem spätestens bis zum 15. September 2013 vorzulegen.
 
 
 ### Zweiter Abschnitt - Beitragszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006600328)
 
 
 
 #### § 257 Beitragszuschüsse für Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034122126)
 
 (1) Freiwillig in der gesetzlichen Krankenversicherung versicherte
 Beschäftigte, die nur wegen Überschreitens der
@@ -34811,6 +35357,7 @@ Vorruhestandsgeld für seine Krankenversicherung zu zahlen hat; Absatz
 
 
 #### § 258 Beitragszuschüsse für andere Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034203308)
 
 In § 5 Abs. 1 Nr. 6, 7 oder 8 genannte Personen, die nach § 6 Abs. 3a
 versicherungsfrei sind, sowie Bezieher von Übergangsgeld, die nach § 8
@@ -34824,14 +35371,17 @@ entsprechend.
 
 
 ### Dritter Abschnitt - Verwendung und Verwaltung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006700328)
 
 
 
 #### § 259 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034301126)
 
 
 
 #### § 260 Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034407126)
 
 (1) Betriebsmittel dürfen nur verwendet werden
 
@@ -34893,6 +35443,7 @@ den abzuführenden Betrag fest und meldet ihn an den Gesundheitsfonds.
 
 
 #### § 261 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034505126)
 
 (1) Die Krankenkasse hat zur Sicherstellung ihrer Leistungsfähigkeit
 eine Rücklage zu bilden.
@@ -34925,6 +35476,7 @@ vorbehaltlich des § 262 von der Krankenkasse verwaltet.
 
 
 #### § 262 Gesamtrücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034600328)
 
 (1) Die Satzungen der Landesverbände können bestimmen, daß die von den
 Verbandsmitgliedern zu bildenden Rücklagen bis zu einem Drittel des
@@ -34960,6 +35512,7 @@ Verzinsung.
 
 
 #### § 263 Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034701126)
 
 Das Verwaltungsvermögen der Krankenkasse umfasst neben den in § 82a
 Satz 2 des Vierten Buches genannten Vermögensgegenständen auch
@@ -34968,6 +35521,7 @@ Krankenkasse oder für Eigenbetriebe erforderlich sind.
 
 
 #### § 263a Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE071001126)
 
 (1) Zur Förderung der Entwicklung digitaler Innovationen nach § 68a
 können Krankenkassen insgesamt bis zu 10 Prozent ihrer Finanzreserven
@@ -34991,6 +35545,7 @@ Krankenkassen gesondert auszuweisen.
 
 
 #### § 264 Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034813126)
 
 (1) Die Krankenkasse kann für Arbeits- und Erwerbslose, die nicht
 gesetzlich gegen Krankheit versichert sind, für andere Hilfeempfänger
@@ -35096,10 +35651,12 @@ Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
 
 ### Vierter Abschnitt - Finanzausgleiche und Zuweisungen aus dem  Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG006802308)
 
 
 
 #### § 265 Finanzausgleich für aufwendige Leistungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE034901308)
 
 Die Satzungen der Landesverbände und der Verbände der Ersatzkassen
 können eine Umlage der Verbandsmitglieder vorsehen, um die Kosten für
@@ -35110,6 +35667,7 @@ regelt die Satzung des Verbandes.
 
 
 #### § 266 Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich), Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035019126)
 
 (1) Die Krankenkassen erhalten als Zuweisungen aus dem
 Gesundheitsfonds (§ 271) zur Deckung ihrer Ausgaben eine
@@ -35317,6 +35875,7 @@ einheitlich auf die Versicherten mit Wohnsitz in einem Land verteilt.
 
 
 #### § 267 Datenverarbeitung für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035125126)
 
 (1) Für die Durchführung und Weiterentwicklung des
 Risikostrukturausgleichs übermitteln die Krankenkassen für jedes Jahr
@@ -35430,6 +35989,7 @@ maschinenlesbarer Form zur Verfügung.
 
 
 #### § 268 Risikopool
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035214126)
 
 (1) Ergänzend zum Risikostrukturausgleich gemäß § 266 werden die
 finanziellen Belastungen für aufwendige Leistungsfälle teilweise über
@@ -35475,6 +36035,7 @@ Rechtsverordnung nach § 266 Absatz 8 Satz 1 das Nähere über
 
 
 #### § 269 Sonderregelungen für Krankengeld und Auslandsversicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035416126)
 
 (1) Für Risikogruppen nach § 266 Absatz 2, die nach dem Anspruch der
 Mitglieder auf Krankengeld nach § 44 zu bilden sind, kann das
@@ -35580,6 +36141,7 @@ Versichertenbezug in maschinenlesbarer Form zur Verfügung.
 
 
 #### § 270 Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035508126)
 
 (1) Die Krankenkassen erhalten aus dem Gesundheitsfonds Zuweisungen
 zur Deckung
@@ -35656,6 +36218,7 @@ Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
 
 #### § 270a Einkommensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042505126)
 
 (1) Zwischen den Krankenkassen wird im Hinblick auf die von ihnen
 erhobenen Zusatzbeiträge nach § 242 nach Maßgabe der folgenden Absätze
@@ -35690,6 +36253,7 @@ Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
 
 #### § 271 Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035629129)
 
 (1) Das Bundesamt für Soziale Sicherung verwaltet als Sondervermögen
 (Gesundheitsfonds) die eingehenden Beträge aus:
@@ -35837,6 +36401,7 @@ Berechnung der Zuweisungen nach § 270 Absatz 1 Satz 1 Nummer 3.
 
 
 #### § 271a Sicherstellung der Einnahmen des Gesundheitsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE055801126)
 
 (1) Steigen die Beitragsrückstände einer Krankenkasse erheblich an, so
 hat die Krankenkasse nach Aufforderung durch das Bundesamt für Soziale
@@ -35884,6 +36449,7 @@ unberührt.
 
 
 #### § 272 Sonderregelungen für den Gesundheitsfonds im Jahr 2021
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035705126)
 
 (1) Den Einnahmen des Gesundheitsfonds nach § 271 Absatz 1 Satz 1
 werden im Jahr 2021 Mittel aus den Finanzreserven der Krankenkassen
@@ -35935,6 +36501,7 @@ Krankenkassen erlassen hat.
 
 
 #### § 272a Sonderregelung für den Gesundheitsfonds im Jahr 2022
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087400126)
 
 Überschreitet die Höhe der Liquiditätsreserve nach Ablauf des
 Geschäftsjahres 2021 die nach § 271 Absatz 2 Satz 3 festgesetzte
@@ -35946,6 +36513,7 @@ Gesundheitsfonds im Jahr 2022 zugeführt.
 
 
 #### § 272b Sonderregelungen für den Gesundheitsfonds im Jahr 2023, Aussetzung des Zusatzbeitragssatzanhebungsverbots für das Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087900126)
 
 (1) Den Einnahmen des Gesundheitsfonds nach § 271 Absatz 1 Satz 1
 werden im Jahr 2023 Mittel aus den Finanzreserven der Krankenkassen
@@ -36012,6 +36580,7 @@ Zusatzbeitrags im Jahr 2023.
 
 
 #### § 273 Sicherung der Datengrundlagen für den Risikostrukturausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035808126)
 
 (1) Das Bundesamt für Soziale Sicherung prüft im Rahmen der
 Durchführung des Risikostrukturausgleichs nach Maßgabe der Absätze 2
@@ -36099,10 +36668,12 @@ für die Ermittlung des Korrekturbetrags gilt Absatz 6.
 
 
 ### Fünfter Abschnitt - Prüfung der Krankenkassen und ihrer Verbände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007100328)
 
 
 
 #### § 274 Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE035915124)
 
 (1) Das Bundesamt für Soziale Sicherung und die für die
 Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder
@@ -36187,14 +36758,17 @@ Arbeitsgemeinschaften.
 
 
 ## Neuntes Kapitel - Medizinischer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007201126)
 
 
 
 ### Erster Abschnitt - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007300328)
 
 
 
 #### § 275 Begutachtung und Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036028126)
 
 (1) Die Krankenkassen sind in den gesetzlich bestimmten Fällen oder
 wenn es nach Art, Schwere, Dauer oder Häufigkeit der Erkrankung oder
@@ -36471,6 +37045,7 @@ wesentlichen Gründe für dieses Ergebnis umfassen.
 
 
 #### § 275a Prüfungen zu Qualitätskriterien, Strukturmerkmalen und Qualitätsanforderungen in Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042606126)
 
 (1) Der Medizinische Dienst führt in den zugelassenen Krankenhäusern
 bezogen auf einen Standort Prüfungen durch zur Erfüllung
@@ -36779,6 +37354,7 @@ Datenbank zugänglich sind.
 
 
 #### § 275b Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege und außerklinischen Intensivpflege durch den Medizinischen Dienst und Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE066110126)
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen
 gemeinsam und einheitlich veranlassen bei Leistungserbringern, mit
@@ -36924,6 +37500,7 @@ einem halben Jahr verlängern.
 
 
 #### § 275c Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE072509126)
 
 (1) Bei Krankenhausbehandlung nach § 39 ist eine Prüfung der Rechnung
 des Krankenhauses spätestens vier Monate nach deren Eingang bei der
@@ -37150,6 +37727,7 @@ unberührt.
 
 
 #### § 276 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036113126)
 
 (1) Die Krankenkassen sind verpflichtet, dem Medizinischen Dienst die
 für die Beratung und Begutachtung erforderlichen Unterlagen vorzulegen
@@ -37255,6 +37833,7 @@ Buches aus den Vorschriften des Elften Buches.
 
 
 #### § 277 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036205126)
 
 (1) Der Medizinische Dienst hat der Krankenkasse das Ergebnis der
 Begutachtung und die wesentlichen Gründe für dieses Ergebnis
@@ -37300,10 +37879,12 @@ enthalten.
 
 
 ### Zweiter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007401126)
 
 
 
 #### § 278 Medizinischer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036305126)
 
 (1) In jedem Land wird ein Medizinischer Dienst als Körperschaft des
 öffentlichen Rechts errichtet. Für mehrere Länder kann durch Beschluss
@@ -37381,6 +37962,7 @@ Dienstherrenfähigkeit entfällt, und macht ihn öffentlich bekannt.
 
 
 #### § 279 Verwaltungsrat und Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036418126)
 
 (1) Organe des Medizinischen Dienstes sind der Verwaltungsrat und der
 Vorstand.
@@ -37519,6 +38101,7 @@ bis 5, § 64 Absatz 1 und 2 Satz 2, Absatz 3 Satz 2 und 3 und die §§
 
 
 #### § 280 Finanzierung, Haushalt, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036506126)
 
 (1) Die erforderlichen Mittel zur Finanzierung der Aufgaben des
 Medizinischen Dienstes nach § 275 Absatz 1 bis 3b, § 275a Absatz 1
@@ -37573,6 +38156,7 @@ beachten.
 
 
 #### § 281 Medizinischer Dienst Bund, Rechtsform, Finanzen, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036617126)
 
 (1) Der Medizinische Dienst Bund ist eine Körperschaft des
 öffentlichen Rechts. Mitglieder des Medizinischen Dienstes Bund sind
@@ -37603,6 +38187,7 @@ beachten.
 
 
 #### § 282 Medizinischer Dienst Bund, Verwaltungsrat und Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036710126)
 
 (1) Organe des Medizinischen Dienstes Bund sind der Verwaltungsrat und
 der Vorstand.
@@ -37700,6 +38285,7 @@ Nähere regelt die Satzung nach Absatz 3 Satz 1 Nummer 1.
 
 
 #### § 283 Aufgaben des Medizinischen Dienstes Bund
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036812126)
 
 (1) Der Medizinische Dienst Bund koordiniert und fördert die
 Durchführung der Aufgaben und die Zusammenarbeit der Medizinischen
@@ -37891,6 +38477,7 @@ der Wahrnehmung seiner Aufgaben zu unterstützen.
 
 
 #### § 283a Aufgaben des Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE072700126)
 
 (1) Die Aufgaben des Medizinischen Dienstes nimmt für die
 Krankenversicherung der Deutschen Rentenversicherung Knappschaft-Bahn-
@@ -37938,18 +38525,22 @@ Kalendertag einer Sitzung.
 
 
 ## Zehntes Kapitel - Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007501308)
 
 
 
 ### Erster Abschnitt - Informationsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007600328)
 
 
 
 #### Erster Titel - Grundsätze der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007701126)
 
 
 
 ##### § 284 Sozialdaten bei den Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE036925126)
 
 (1) Die Krankenkassen dürfen Sozialdaten für Zwecke der
 Krankenversicherung nur erheben und speichern, soweit dies
@@ -38091,6 +38682,7 @@ des Ersten und Zehnten Buches.
 
 
 ##### § 285 Personenbezogene Daten bei den Kassenärztlichen Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037017124)
 
 (1) Die Kassenärztlichen Vereinigungen dürfen Einzelangaben über die
 persönlichen und sachlichen Verhältnisse der Ärzte nur erheben und
@@ -38187,6 +38779,7 @@ Psychotherapeuten, Zahnärzte und Kassenzahnärztliche Vereinigungen.
 
 
 ##### § 286 Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037102126)
 
 Die Krankenkassen und die Kassenärztlichen Vereinigungen regeln in
 Dienstanweisungen das Nähere insbesondere über
@@ -38209,6 +38802,7 @@ Dienstanweisungen das Nähere insbesondere über
 
 
 ##### § 287 Forschungsvorhaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037202126)
 
 (1) Die Krankenkassen und die Kassenärztlichen Vereinigungen dürfen
 mit Erlaubnis der Aufsichtsbehörde die Datenbestände
@@ -38225,10 +38819,12 @@ Forschungsvorhabens möglich ist.
 
 
 #### Zweiter Titel - Informationsgrundlagen der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007800328)
 
 
 
 ##### § 288 Versichertenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037300328)
 
 Die Krankenkasse hat ein Versichertenverzeichnis zu führen. Das
 Versichertenverzeichnis hat alle Angaben zu enthalten, die zur
@@ -38239,6 +38835,7 @@ einschließlich der Versicherung nach § 10 erforderlich sind.
 
 
 ##### § 289 Nachweispflicht bei Familienversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037400328)
 
 Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse
 die Versicherung nach § 10 bei deren Beginn festzustellen. Sie kann
@@ -38249,6 +38846,7 @@ nachzuweisen.
 
 
 ##### § 290 Krankenversichertennummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037508126)
 
 (1) Die Krankenkasse verwendet für jeden Versicherten eine
 Krankenversichertennummer. Die Krankenversichertennummer besteht aus
@@ -38323,6 +38921,7 @@ Anwendungen und Dienste erforderlich ist.
 
 
 ##### § 291 Elektronische Gesundheitskarte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037624126)
 
 (1) Die Krankenkasse stellt für jeden Versicherten eine elektronische
 Gesundheitskarte aus.
@@ -38500,6 +39099,7 @@ den Leistungserbringer gilt § 291b Absatz 3 entsprechend.
 
 
 ##### § 291a Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050825126)
 
 (1) Die elektronische Gesundheitskarte dient mit den in den Absätzen 2
 bis 5 genannten Angaben dem Nachweis der Berechtigung zur
@@ -38610,6 +39210,7 @@ unterschreiben.
 
 
 ##### § 291b Verfahren zur Nutzung der elektronischen Gesundheitskarte als Versicherungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE052019126)
 
 (1) Die Krankenkassen haben Dienste zur Verfügung zu stellen, mit
 denen die an der vertragsärztlichen Versorgung teilnehmenden
@@ -38696,6 +39297,7 @@ Bundesrates verlängern.
 
 
 ##### § 291c Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065403126)
 
 (1) Bei Beendigung des Versicherungsschutzes oder bei einem
 Krankenkassenwechsel ist die elektronische Gesundheitskarte von der
@@ -38719,21 +39321,27 @@ zu informieren.
 
 
 ##### § 291d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065504126)
 
 
 ##### § 291e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065602126)
 
 
 ##### § 291f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065703126)
 
 
 ##### § 291g (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE065803126)
 
 
 ##### § 291h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE071101126)
 
 
 ##### § 292 Angaben über Leistungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037702308)
 
 Die Krankenkasse hat Angaben über Leistungen, die zur Prüfung der
 Voraussetzungen späterer Leistungsgewährung erforderlich sind,
@@ -38746,6 +39354,7 @@ die Diagnosen aufzuzeichnen.
 
 
 ##### § 293 Kennzeichen für Leistungsträger und Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037821126)
 
 (1) Die Krankenkassen verwenden im Schriftverkehr, einschließlich des
 Einsatzes elektronischer Datenübertragung oder maschinell verwertbarer
@@ -39187,6 +39796,7 @@ nach Satz 9 zu schaffen.
 
 
 ##### § 293a Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE074501126)
 
 (1) Das Bundesamt für Soziale Sicherung richtet eine bundesweite
 Transparenzstelle für Verträge nach den §§ 73b und 140a einschließlich
@@ -39288,14 +39898,17 @@ Einnahmen des Gesundheitsfonds gedeckt.
 
 
 ### Zweiter Abschnitt - Übermittlung und Aufbereitung von Leistungsdaten, Datentransparenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG007901308)
 
 
 
 #### Erster Titel - Übermittlung von Leistungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008600308)
 
 
 
 ##### § 294 Pflichten der Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE037902308)
 
 Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die
 übrigen Leistungserbringer sind verpflichtet, die für die Erfüllung
@@ -39308,6 +39921,7 @@ Datenverarbeitung beauftragten Stellen mitzuteilen.
 
 
 ##### § 294a Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE050905126)
 
 (1) Liegen Anhaltspunkte dafür vor, dass eine Krankheit eine
 Berufskrankheit im Sinne der gesetzlichen Unfallversicherung oder
@@ -39340,6 +39954,7 @@ Satz 1 und die gemeldeten Daten zu informieren.
 
 
 ##### § 295 Übermittlungspflichten, Verpflichtung zur Empfangsbereitschaft und Abrechnung bei ärztlichen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038044126)
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und
 Einrichtungen sind verpflichtet,
@@ -39603,6 +40218,7 @@ von Leistungserbringern nach den §§ 73b und 140a, vergeben werden.
 
 
 ##### § 295a Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057504126)
 
 (1) Für die Abrechnung der im Rahmen von Verträgen nach den §§ 73b,
 132e, 132f und 140a erbrachten Leistungen sind die an diesen
@@ -39644,6 +40260,7 @@ verarbeiten. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 ##### § 295b Vorabübermittlung vorläufiger Daten zur Abrechnung bei ärztlichen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093900126)
 
 (1) Ergänzend zu der Verpflichtung zur Datenübermittlung zu
 Abrechnungszwecken nach § 295 Absatz 2 sind die in § 295 Absatz 2 Satz
@@ -39680,6 +40297,7 @@ Aufgaben in maschinenlesbarer Form zur Verfügung.
 
 
 ##### § 296 Datenübermittlung für Wirtschaftlichkeitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038106301)
 
 (1) Für die arztbezogenen Prüfungen nach § 106 übermitteln die
 Kassenärztlichen Vereinigungen im Wege elektronischer Datenübertragung
@@ -39767,6 +40385,7 @@ vorzulegen.
 
 
 ##### § 297 Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038206124)
 
 (1) Die Kassenärztlichen Vereinigungen übermitteln im Wege der
 elektronischen Datenübertragung oder maschinell verwertbar auf
@@ -39809,6 +40428,7 @@ der Krankenhausbehandlung.
 
 
 ##### § 298 Übermittlung versichertenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038301308)
 
 Im Rahmen eines Prüfverfahrens ist die versichertenbezogene
 Übermittlung von Angaben über ärztliche oder ärztlich verordnete
@@ -39818,6 +40438,7 @@ beurteilen ist.
 
 
 ##### § 299 Datenverarbeitung für Zwecke der Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038415126)
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte,
 zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a
@@ -40110,6 +40731,7 @@ zuzuordnen sind.
 
 
 ##### § 300 Abrechnung der Apotheken und weiterer Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038620126)
 
 (1) Die Apotheken und weitere Anbieter von Arzneimitteln sind
 verpflichtet, unabhängig von der Höhe der Zuzahlung (oder dem
@@ -40213,6 +40835,7 @@ wird ihr Inhalt durch die Schiedsstelle nach § 129 Abs. 8 festgesetzt.
 
 
 ##### § 301 Krankenhäuser und Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038827126)
 
 (1) Die nach § 108 zugelassenen Krankenhäuser oder ihre
 Krankenhausträger sind verpflichtet, den Krankenkassen bei
@@ -40473,6 +41096,7 @@ Abrechnungsunterlagen zum Zweck der Abrechnung vorzulegen.
 
 
 ##### § 301a Abrechnung der Hebammen und der von ihnen geleiteten Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE042704126)
 
 (1) Freiberuflich tätige Hebammen und von Hebammen geleitete
 Einrichtungen sind verpflichtet, den Krankenkassen folgende Angaben im
@@ -40512,6 +41136,7 @@ vorgeschrieben, ist diese der Rechnung beizufügen.
 
 
 ##### § 302 Abrechnung der sonstigen Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE038918126)
 
 (1) Die Leistungserbringer im Bereich der Heil- und Hilfsmittel sowie
 der digitalen Gesundheitsanwendungen und die weiteren
@@ -40623,6 +41248,7 @@ Bund der Krankenkassen in seinen Richtlinien nach Absatz 2 Satz 1.
 
 
 ##### § 303 Ergänzende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039010126)
 
 (1) Die Landesverbände der Krankenkassen und die Verbände der
 Ersatzkassen können mit den Leistungserbringern oder ihren Verbänden
@@ -40676,10 +41302,12 @@ Nähere regeln die Vertragspartner nach § 82 Absatz 1 Satz 1.
 
 
 #### Zweiter Titel - Datentransparenz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008700308)
 
 
 
 ##### § 303a Wahrnehmung der Aufgaben der Datentransparenz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051005126)
 
 (1) Die Aufgaben der Datentransparenz werden von öffentlichen Stellen
 des Bundes als Vertrauensstelle nach § 303c und als
@@ -40735,6 +41363,7 @@ zu regeln
 
 
 ##### § 303b Datenzusammenführung und -übermittlung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051106126)
 
 (1) Für die in § 303e Absatz 2 genannten Zwecke übermitteln die
 Krankenkassen und die Pflegekassen bis spätestens zehn Wochen nach
@@ -40848,6 +41477,7 @@ den Absätzen 1 bis 3 beauftragen.
 
 
 ##### § 303c Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051205126)
 
 (1) Die Vertrauensstelle überführt die ihr nach § 303b Absatz 3 Satz 1
 Nummer 2 übermittelten Lieferpseudonyme nach einem einheitlich
@@ -40877,6 +41507,7 @@ verarbeiten.
 
 
 ##### § 303d Forschungsdatenzentrum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051306126)
 
 (1) Das Forschungsdatenzentrum hat folgende Aufgaben:
 
@@ -40959,6 +41590,7 @@ Einzeldatensätze spätestens nach 100 Jahren zu löschen.
 
 
 ##### § 303e Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051408126)
 
 (1) Das Forschungsdatenzentrum macht die ihm vom Spitzenverband Bund
 der Krankenkassen und von der Vertrauensstelle übermittelten Daten
@@ -41215,6 +41847,7 @@ bis zu zwei Jahren vom Datenzugang aus.
 
 
 ##### § 303f Gebührenregelung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE071201126)
 
 (1) Das Forschungsdatenzentrum erhebt von den Nutzungsberechtigten
 nach § 303e Absatz 1 Gebühren und Auslagen für individuell
@@ -41241,10 +41874,12 @@ Gesundheit kann die Ermächtigung durch Rechtsverordnung auf die
 
 
 ### Dritter Abschnitt - Datenlöschung, Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008000328)
 
 
 
 #### § 304 Aufbewahrung von Daten bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039114126)
 
 (1) Die für Aufgaben der gesetzlichen Krankenversicherung bei
 Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der
@@ -41293,6 +41928,7 @@ Hilfsmittel gilt § 84 Absatz 6 des Zehnten Buches.
 
 
 #### § 305 Auskünfte an Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039216126)
 
 (1) Die Krankenkassen unterrichten die Versicherten auf deren Antrag
 über die in Anspruch genommenen Leistungen und deren Kosten. Auf
@@ -41361,6 +41997,7 @@ informieren. § 69 Absatz 1 Satz 3 gilt entsprechend.
 
 
 #### § 305a Beratung der Vertragsärzte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE047506126)
 
 Die Kassenärztlichen Vereinigungen beraten in erforderlichen Fällen
 die Vertragsärzte auf der Grundlage von Übersichten über die von ihnen
@@ -41393,6 +42030,7 @@ verordnete Arzneimittel in vertraglichen Versorgungsformen nach den §§
 
 
 #### § 305b Veröffentlichung der Jahresrechnungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051602308)
 
 Die Krankenkassen, mit Ausnahme der landwirtschaftlichen Krankenkasse,
 veröffentlichen im elektronischen Bundesanzeiger sowie auf der eigenen
@@ -41411,14 +42049,17 @@ in der Sozialversicherung geregelt.
 
 
 ## Elftes Kapitel - Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008900126)
 
 
 
 ### Erster Abschnitt - Anforderungen an die Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009100126)
 
 
 
 #### § 306 Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075702126)
 
 (1) Die Bundesrepublik Deutschland, vertreten durch das
 Bundesministerium für Gesundheit, der Spitzenverband Bund der
@@ -41503,6 +42144,7 @@ technische Systeme oder deren Bestandteile.
 
 
 #### § 307 Datenschutzrechtliche Verantwortlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075804126)
 
 (1) Die Verarbeitung personenbezogener Daten mittels der Komponenten
 der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in
@@ -41563,6 +42205,7 @@ datenschutzrechtlichen Verantwortlichkeit nach dieser Vorschrift.
 
 
 #### § 308 Vorrang von technischen Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE075900126)
 
 (1) Die Rechte der betroffenen Person nach den Artikeln 12 bis 22 der
 Verordnung (EU) 2016/679 sind gegenüber den Verantwortlichen nach §
@@ -41584,6 +42227,7 @@ oder berechtigte Zweifel an der behaupteten Unmöglichkeit nach Absatz
 
 
 #### § 309 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076001126)
 
 (1) Die Verantwortlichen nach § 307 haben durch geeignete technische
 Maßnahmen sicherzustellen, dass für Zwecke der Datenschutzkontrolle
@@ -41609,14 +42253,17 @@ personenbeziehbar protokolliert werden.
 
 
 ### Zweiter Abschnitt - Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009200126)
 
 
 
 #### Erster Titel - Aufgaben, Verfassung und Finanzierung der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009300126)
 
 
 
 ##### § 310 Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076100126)
 
 (1) Die Bundesrepublik Deutschland, vertreten durch das
 Bundesministerium für Gesundheit, und die in § 306 Absatz 1 Satz 1
@@ -41651,6 +42298,7 @@ den Geschäftsanteilen ergebenden Stimmen.
 
 
 ##### § 311 Aufgaben der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076204126)
 
 (1) Im Rahmen des Auftrags nach § 306 Absatz 1 hat die Gesellschaft
 für Telematik nach Maßgabe der Anforderungen gemäß § 306 Absatz 3
@@ -41894,9 +42542,11 @@ wahr.
 
 
 ##### (XXXX) §§ 311a und 311b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040503333)
 
 
 ##### § 312 Aufträge an die Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076303126)
 
 (1) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgaben nach §
 311 Absatz 1 Nummer 1
@@ -42155,6 +42805,7 @@ entsprechend.
 
 
 ##### § 313 Elektronischer Verzeichnisdienst der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076402126)
 
 (1) Die Gesellschaft für Telematik betreibt den elektronischen
 Verzeichnisdienst der Telematikinfrastruktur. Sie kann Dritte mit dem
@@ -42255,6 +42906,7 @@ vorgesehenen Betriebsstättennummer relevante Änderungen.
 
 
 ##### § 314 Informationspflichten der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076501126)
 
 Die Gesellschaft für Telematik ist verpflichtet, auf ihrer
 Internetseite und in analogem Format Informationen für die
@@ -42313,6 +42965,7 @@ nach § 343 erstellte Informationsmaterial zu nutzen.
 
 
 ##### § 315 Verbindlichkeit der Beschlüsse der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084500126)
 
 (1) Die Beschlüsse der Gesellschaft für Telematik zu den Regelungen,
 dem Aufbau und dem Betrieb der Telematikinfrastruktur sind für die
@@ -42331,6 +42984,7 @@ Belange des Datenschutzes oder der Datensicherheit berührt sind.
 
 
 ##### § 316 Finanzierung der Gesellschaft für Telematik; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084602126)
 
 (1) Zur Finanzierung der Gesellschaft für Telematik zahlt der
 Spitzenverband Bund der Krankenkassen an die Gesellschaft für
@@ -42347,10 +43001,12 @@ Wochen vor Beginn des jeweiligen Quartals, zu leisten.
 
 
 #### Zweiter Titel - Beirat der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009400126)
 
 
 
 ##### § 317 Beirat der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084700126)
 
 (1) Die Gesellschaft für Telematik hat einen Beirat einzurichten. Der
 Beirat hat eine Vorsitzende oder einen Vorsitzenden. Der Beirat
@@ -42417,6 +43073,7 @@ Gesellschaft für Telematik teilnehmen.
 
 
 ##### § 318 Aufgaben des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE076900126)
 
 (1) Der Beirat hat die Gesellschaft für Telematik in fachlichen
 Belangen zu beraten. Er vertritt die Interessen der im Beirat
@@ -42468,6 +43125,7 @@ zu unterrichten.
 
 
 ##### § 318a Digitalbeirat der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE092900126)
 
 (1) Die Gesellschaft für Telematik hat bis zum 30. Juni 2024 einen
 Digitalbeirat einzurichten. Dem Digitalbeirat gehören das Bundesamt
@@ -42491,6 +43149,7 @@ Gesellschaft für Telematik zu Angelegenheiten nach Satz 1 zu hören. §
 
 
 ##### § 318b Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093000126)
 
 Das Bundesministerium für Gesundheit evaluiert bis zum 30. Juni 2025,
 inwiefern die Herstellung des Benehmens mit dem Bundesamt für
@@ -42503,10 +43162,12 @@ Nutzerfreundlichkeit der Anwendungen beigetragen haben.
 
 
 #### Dritter Titel - Schlichtungsstelle der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009500126)
 
 
 
 ##### § 319 Schlichtungsstelle der Gesellschaft für Telematik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077000126)
 
 (1) Bei der Gesellschaft für Telematik ist eine Schlichtungsstelle
 einzurichten. Die Schlichtungsstelle wird tätig, soweit dies
@@ -42519,6 +43180,7 @@ Schlichtungsstelle nach deren Vorgaben unverzüglich zuzuarbeiten.
 
 
 ##### § 320 Zusammensetzung der Schlichtungsstelle; Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077100126)
 
 (1) Die Schlichtungsstelle besteht aus einer oder einem unparteiischen
 Vorsitzenden und zwei weiteren Mitgliedern. Die Amtsdauer der
@@ -42546,6 +43208,7 @@ Telematik finanziert.
 
 
 ##### § 321 Beschlussfassung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077200126)
 
 (1) Jedes Mitglied der Schlichtungsstelle hat eine Stimme. Eine
 Stimmenthaltung ist nicht zulässig.
@@ -42554,6 +43217,7 @@ Stimmenthaltung ist nicht zulässig.
 
 
 ##### § 322 Rechtsaufsicht des Bundesministeriums für Gesundheit über die Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077300126)
 
 (1) Die Entscheidung der Schlichtungsstelle ist dem Bundesministerium
 für Gesundheit zur Prüfung vorzulegen.
@@ -42581,10 +43245,12 @@ diesem Buch verbindlich.
 
 
 ### Dritter Abschnitt - Betrieb der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009600126)
 
 
 
 #### § 323 Betriebsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077501126)
 
 (1) Betriebsleistungen sind auf der Grundlage der von der Gesellschaft
 für Telematik nach Maßgabe des § 306 Absatz 3 festzulegenden
@@ -42622,6 +43288,7 @@ die Gesellschaft für Telematik zur Verfügung gestellt werden.
 
 
 #### § 324 Zulassung von Anbietern von Betriebsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077600126)
 
 (1) Anbieter von Betriebsleistungen haben einen Anspruch auf
 Zulassung, wenn
@@ -42660,6 +43327,7 @@ Organisationen veröffentlicht oder veröffentlichen
 
 
 #### § 325 Zulassung von Komponenten und Diensten der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077702126)
 
 (1) Die Komponenten und Dienste der Telematikinfrastruktur bedürfen
 der Zulassung durch die Gesellschaft für Telematik.
@@ -42718,6 +43386,7 @@ Internetseite.
 
 
 #### § 326 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068501126)
 
 Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz in der
 Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054),
@@ -42735,6 +43404,7 @@ Satz 1 in der am 31. Dezember 2023 geltenden Fassung weiter.
 
 
 #### § 326 Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077800126)
 
 Anbieter von Betriebsleistungen oder von Komponenten und Diensten der
 Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325
@@ -42744,6 +43414,7 @@ Telematikinfrastruktur nutzen.
 
 
 #### § 327 Nutzung von Diensten der Telematikinfrastruktur durch weitere Dienste und Anwendungen; Bestätigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077902126)
 
 (1) Für weitere Anwendungen und Dienste, die außerhalb der
 Telematikinfrastruktur nach § 306 Absatz 2 betrieben und angeboten
@@ -42831,6 +43502,7 @@ an die zentrale Telematikinfrastruktur zu tragen.
 
 
 #### § 328 Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078001377)
 
 (1) Die Gesellschaft für Telematik kann für die Zulassungen und
 Bestätigungen nach den §§ 324, 325 und 327, auch in Verbindung mit §
@@ -42850,10 +43522,12 @@ Verjährung und die Erstattung zu treffen.
 
 
 ### Vierter Abschnitt - Überwachung von Funktionsfähigkeit und Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009700126)
 
 
 
 #### § 329 Maßnahmen zur Abwehr von Gefahren für die Funktionsfähigkeit und Sicherheit der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078100126)
 
 (1) Soweit von Komponenten und Diensten eine Gefahr für die
 Funktionsfähigkeit oder Sicherheit der Telematikinfrastruktur ausgeht,
@@ -42898,6 +43572,7 @@ Gesundheit unverzüglich über Meldungen nach Absatz 4 zu informieren.
 
 
 #### § 330 Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE077400126)
 
 (1) Die Gesellschaft für Telematik sowie die gemäß § 307
 verantwortlichen Anbieter, die eine Zulassung für Komponenten oder
@@ -42938,6 +43613,7 @@ bleiben unberührt.
 
 
 #### § 331 Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078202126)
 
 (1) Die Gesellschaft für Telematik hat ab dem 1. Januar 2021 für
 Komponenten und Dienste der Telematikinfrastruktur sowie für
@@ -43013,6 +43689,7 @@ Informationstechnik fest.
 
 
 #### § 332 Anforderungen an die Wartung von Diensten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078301126)
 
 (1) Dienstleister, die mit der Herstellung und der Wartung des
 Anschlusses von informationstechnischen Systemen an die
@@ -43039,6 +43716,7 @@ Telematikinfrastruktur.
 
 
 #### § 332a Unzulässige Beschränkungen durch Anbieter und Hersteller informationstechnischer Systeme für die vertragsärztliche Versorgung, die vertragszahnärztliche Versorgung, die pflegerische Versorgung, für Krankenhäuser und Apotheken sowie für Vorsorgeeinrichtungen und Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089500126)
 
 (1) Die Anbieter und Hersteller informationstechnischer Systeme für
 die vertragsärztliche Versorgung, die vertragszahnärztliche
@@ -43062,6 +43740,7 @@ Dezember 2023 umzusetzen.
 
 
 #### § 332b Rahmenvereinbarungen mit Anbietern und Herstellern informationstechnischer Systeme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089600126)
 
 Die Kassenärztlichen Bundesvereinigungen können für die an der
 vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden
@@ -43073,6 +43752,7 @@ abschließen.
 
 
 #### § 333 Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078401126)
 
 (1) Die Gesellschaft für Telematik legt dem Bundesamt für Sicherheit
 in der Informationstechnik auf Verlangen die folgenden Unterlagen und
@@ -43119,14 +43799,17 @@ bestätigten Anwendungen begründeten.
 
 
 ### Fünfter Abschnitt - Anwendungen der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009800126)
 
 
 
 #### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009900126)
 
 
 
 ##### § 334 Anwendungen der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078506126)
 
 (1) Die Anwendungen der Telematikinfrastruktur dienen der Verbesserung
 der Wirtschaftlichkeit, der Qualität und der Transparenz der
@@ -43201,6 +43884,7 @@ hat.
 
 
 ##### § 335 Diskriminierungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078601126)
 
 (1) Von Versicherten darf der Zugriff auf Daten in einer Anwendung
 nach § 334 Absatz 1 Satz 2 nicht verlangt werden.
@@ -43224,6 +43908,7 @@ ausgeübt haben.
 
 
 ##### § 336 Zugriffsrechte der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078703126)
 
 (1) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung
 nach § 334 Absatz 1 Satz 2 Nummer 1 bis 4, 6 und 7 mittels seiner
@@ -43341,6 +44026,7 @@ Identifizierung der Versicherten.
 
 
 ##### § 337 Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung und Verwehrung von Zugriffsberechtigungen auf Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078803126)
 
 (1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach §
 334 Absatz 1 Satz 2 Nummer 1, 4 und 5 auszulesen und zu übermitteln
@@ -43385,6 +44071,7 @@ erfolgt nach Maßgabe der §§ 356, 357 und 359.
 
 
 ##### § 338 Komponenten zur Wahrnehmung der Versichertenrechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE078902126)
 
 (1) Die Gesellschaft für Telematik hat den Versicherten eine
 barrierefreie Komponente zur Verfügung zu stellen, die an einem
@@ -43403,6 +44090,7 @@ geht, unterstützen.
 
 
 ##### § 339 Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079003126)
 
 (1) Zugriffsberechtigte nach § 352 Satz 1 Nummer 1 bis 15 und 19, auch
 in Verbindung mit Satz 2, dürfen für Zwecke der Gesundheitsvorsorge
@@ -43480,6 +44168,7 @@ elektronischer Signaturen verfügen.
 
 
 ##### § 340 Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079103126)
 
 (1) Die Länder bestimmen
 
@@ -43599,10 +44288,12 @@ bei der diese eingesetzt wird.
 
 
 #### Zweiter Titel - Elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010000126)
 
 
 
 ##### § 341 Elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079204126)
 
 (1) Die elektronische Patientenakte ist eine versichertengeführte
 elektronische Akte, die den Versicherten von den Krankenkassen gemäß §
@@ -43787,10 +44478,12 @@ Telematikinfrastruktur nach § 306 umzusetzen.
 
 
 ##### Erster Untertitel - Angebot und Einrichtung der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010100126)
 
 
 
 ###### § 342 Angebot und Nutzung der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079304126)
 
 (1) Die Krankenkassen sind bis zum 14. Januar 2025 verpflichtet, jedem
 Versicherten auf Antrag und mit seiner Einwilligung eine nach § 325
@@ -44202,6 +44895,7 @@ und dort speichern können.
 
 
 ###### § 342a Ombudsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093100126)
 
 (1) Jede Krankenkasse richtet eine Ombudsstelle ein. Die Versicherten
 können sich mit ihren Anliegen im Zusammenhang mit der elektronischen
@@ -44261,6 +44955,7 @@ beschränkt. Die Zugriffe der Ombudsstelle werden protokolliert.
 
 
 ###### § 343 Informationspflichten der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079403126)
 
 (1) (weggefallen)
 
@@ -44497,6 +45192,7 @@ verbindlichen Nutzung zur Verfügung zu stellen.
 
 
 ###### § 344 Widerspruch der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und die Anbieter der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079501126)
 
 (1) Hat der Versicherte nach vorheriger Information gemäß § 343 der
 Einrichtung einer elektronischen Patientenakte gegenüber der
@@ -44564,6 +45260,7 @@ geltend gemacht und nachgewiesen.
 
 
 ###### § 345 Angebot und Nutzung zusätzlicher Inhalte und Anwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079600126)
 
 (1) Versicherte können den Krankenkassen Daten aus der elektronischen
 Patientenakte zum Zweck der Nutzung zusätzlicher von den Krankenkassen
@@ -44583,10 +45280,12 @@ Absatz 3 gilt entsprechend.
 
 
 ##### Zweiter Untertitel - Nutzung der elektronischen Patientenakte durch den Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010200126)
 
 
 
 ###### § 346 Unterstützung bei der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079701126)
 
 (1) Ärzte, Zahnärzte und Psychotherapeuten, die an der
 vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an
@@ -44665,6 +45364,7 @@ möglich ist.
 
 
 ###### § 347 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079801126)
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden
 Leistungserbringer haben nach Maßgabe der §§ 346 und 339 Absatz 1
@@ -44783,6 +45483,7 @@ gilt entsprechend.
 
 
 ###### § 348 Übertragung von Behandlungsdaten in die elektronische Patientenakte durch zugelassene Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE079901126)
 
 (1) Die Leistungserbringer in zugelassenen Krankenhäusern haben nach
 Maßgabe der §§ 346 und 339 Absatz 1 Daten des Versicherten, die gemäß
@@ -44874,6 +45575,7 @@ Absatz 2 Nummer 15 zu speichern.
 
 
 ###### § 349 Übertragung von Daten in die elektronische Patientenakte durch weitere Zugriffsberechtigte; Anspruch der Versicherten auf Übertragung des elektronischen Medikationsplans und der elektronischen Notfalldaten in die elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080002126)
 
 (1) Über die in § 346 Absatz 2, in den §§ 347 und 348 genannten
 Leistungserbringer hinaus können weitere Zugriffsberechtigte nach
@@ -44967,6 +45669,7 @@ noch für Daten in der Anwendung nach § 334 Absatz 1 Satz 2 Nummer 5.
 
 
 ###### § 350 Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080102126)
 
 (1) Hat der Versicherte nach vorheriger Information gemäß § 343 der
 Übermittlung und Speicherung seiner Daten nach § 341 Absatz 2 Nummer 8
@@ -45009,6 +45712,7 @@ Versicherten zu übermitteln und dort zu speichern.
 
 
 ###### § 350a Anspruch der Versicherten auf Digitalisierung von in Papierform vorliegenden medizinischen Informationen; Übertragung in die elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093300126)
 
 (1) Versicherte haben ab der Zurverfügungstellung der elektronischen
 Patientenakte gemäß § 342 Absatz 1 Satz 2 einen Anspruch darauf, dass
@@ -45042,6 +45746,7 @@ Nutzung des Anspruchs nach Absatz 1.
 
 
 ###### § 351 Übertragung von Daten aus Anwendungen nach § 33a in die elektronische Patientenakte; Bereitstellung von Daten der elektronischen Patientenakte im grenzübergreifenden Austausch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080202126)
 
 (1) Die Krankenkasse hat sicherzustellen, dass Daten der Versicherten
 in digitalen Gesundheitsanwendungen nach § 33a mit Einwilligung der
@@ -45083,10 +45788,12 @@ Satz 1 zu erhalten.
 
 
 ##### Dritter Untertitel - Zugriff von Leistungserbringern auf Daten in der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010300126)
 
 
 
 ###### § 352 Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080304126)
 
 Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1
 Satz 1 dürfen, nach Maßgabe des § 339 Absatz 1 und 1a, ausschließlich
@@ -45362,6 +46069,7 @@ Zugriffsberechtigten nach dem Siebten Buch tätig werden.
 
 
 ###### § 353 Erklärung des Widerspruchs; Erteilung der Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080401126)
 
 (1) Die Versicherten können der Verarbeitung von Daten, die gemäß §
 342 Absatz 2a, 2b und 2c als Anwendungsfälle in der elektronischen
@@ -45426,10 +46134,12 @@ Umgebung der Zugriffsberechtigten.
 
 
 ##### Vierter Untertitel - Festlegungen für technische Voraussetzungen und semantische und syntaktische Interoperabilität von Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010400126)
 
 
 
 ###### § 354 Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080502126)
 
 (1) Die Gesellschaft für Telematik hat im Rahmen der Erfüllung ihrer
 Aufgaben nach den §§ 311 und 312 jeweils nach dem Stand der Technik
@@ -45502,6 +46212,7 @@ Gesundheit bis zum 1. Februar 2025 einen Bericht vorzulegen.
 
 
 ###### § 355 Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080606126)
 
 (1) Die Kassenärztliche Bundesvereinigung oder eine juristische Person
 im Sinne des § 385 Absatz 1 Satz 2 Nummer 2 trifft für die Inhalte
@@ -45849,10 +46560,12 @@ für Telematik fest.
 
 
 #### Dritter Titel - Erklärungen des Versicherten zur Organ- und Gewebespende sowie Hinweise auf deren Vorhandensein und Aufbewahrungsort
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010500126)
 
 
 
 ##### § 356 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und Gewebespende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080704126)
 
 (1) Der Zugriff auf Daten zu Hinweisen des Versicherten auf das
 Vorhandensein und den Aufbewahrungsort von Erklärungen zur Organ- und
@@ -45929,10 +46642,12 @@ verlängern.
 
 
 #### Vierter Titel - Hinweis des Versicherten auf das Vorhandensein und den Aufbewahrungsort von> Vorsorgevollmachten oder Patientenverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010600126)
 
 
 
 ##### § 357 Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080803126)
 
 (1) Auf Daten zu Hinweisen des Versicherten auf das Vorhandensein und
 den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
@@ -46019,10 +46734,12 @@ verlängern.
 
 
 #### Fünfter Titel - Elektronischer Medikationsplan, elektronische Notfalldaten und elektronische Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010701126)
 
 
 
 ##### § 358 Elektronische Notfalldaten, elektronische Patientenkurzakte und elektronischer Medikationsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE080904126)
 
 (1) Die elektronische Gesundheitskarte muss geeignet sein, das
 Verarbeiten von medizinischen Daten, soweit sie für die
@@ -46179,6 +46896,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates verlängern.
 
 
 ##### § 359 Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten, Nutzung der elektronischen Patientenkurzakte in der grenzüberschreitenden Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081003126)
 
 (1) Auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 4,
 soweit sie auf der elektronischen Gesundheitskarte gespeichert sind,
@@ -46349,6 +47067,7 @@ grenzüberschreitenden Austausch von Gesundheitsdaten Berücksichtigung.
 
 
 ##### § 359a Elektronische Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093200126)
 
 (1) Sobald die für die Anwendung nach § 334 Absatz 1 Satz 2 Nummer 8
 erforderlichen Dienste und Komponenten in der Telematikinfrastruktur
@@ -46409,10 +47128,12 @@ unter Nutzung der Telematikinfrastruktur zur Verfügung steht.
 
 
 #### Sechster Titel - Übermittlung ärztlicher Verordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010800126)
 
 
 
 ##### § 360 Elektronische Übermittlung und Verarbeitung vertragsärztlicher elektronischer Verordnungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081104126)
 
 (1) Sobald die hierfür erforderlichen Dienste und Komponenten
 flächendeckend zur Verfügung stehen, ist für die elektronische
@@ -46713,6 +47434,7 @@ Krankenhäuser von den Regelungen in Satz 1 ausgenommen.
 
 
 ##### § 361 Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081202126)
 
 (1) Auf Daten der Versicherten in vertragsärztlichen elektronischen
 Verordnungen dürfen ausschließlich folgende Personen zugreifen:
@@ -46870,6 +47592,7 @@ informieren.
 
 
 ##### § 361a Einwilligungsbasierte Übermittlung von Daten aus vertragsärztlichen elektronischen Verordnungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089701126)
 
 (1) Über Schnittstellen in den Diensten nach § 360 Absatz 1 müssen
 Daten aus elektronischen Verordnungen von apothekenpflichtigen
@@ -46999,6 +47722,7 @@ Zustimmung des Bundesrats Folgendes zu regeln:
 
 
 ##### § 361b Zugriff auf ärztliche Verordnungen digitaler Gesundheitsanwendungen in der Telematikinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093400126)
 
 (1) Krankenkassen dürfen zum Zwecke der Einlösung elektronischer
 Verordnungen von digitalen Gesundheitsanwendungen nach § 360 Absatz 4
@@ -47016,10 +47740,12 @@ Krankenkasse.
 
 
 #### Siebter Titel - Nutzung der Telematikinfrastruktur durch weitere Kostenträger und durch das Zentrale Vorsorgeregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG010902377)
 
 
 
 ##### § 362 Nutzung von elektronischen Gesundheitskarten oder digitalen Identitäten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte, für sonstige heilfürsorgeberechtigte Beamte oder für Soldaten der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081302126)
 
 (1) Werden von Unternehmen der privaten Krankenversicherung, der
 Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten,
@@ -47056,6 +47782,7 @@ Heilfürsorge.
 
 
 ##### § 362a Nutzung der elektronischen Gesundheitskarte bei Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085000126)
 
 Wird die Telematikinfrastruktur für Anwendungen im Bereich der
 Krankenbehandlung der Sozialen Entschädigung nach dem Vierzehnten Buch
@@ -47066,6 +47793,7 @@ und der Abrechnung von Leistungen in diesem Bereich verwendet, gilt §
 
 
 ##### § 362b Nutzung der Telematikinfrastruktur durch das Zentrale Vorsorgeregister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087600377)
 
 Wird die Telematikinfrastruktur zur Erteilung von Auskunft aus dem
 Zentralen Vorsorgeregister nach § 78b Absatz 1 Satz 1 der
@@ -47073,10 +47801,12 @@ Bundesnotarordnung verwendet, gilt § 327 entsprechend.
 
 
 #### Achter Titel - Verfügbarkeit von Daten aus Anwendungen der Telematikinfrastruktur für Forschungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG011000126)
 
 
 
 ##### § 363 Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081403126)
 
 (1) Die Daten der elektronischen Patientenakte werden für die in §
 303e Absatz 2 aufgeführten Zwecke zugänglich gemacht, soweit
@@ -47173,10 +47903,12 @@ und -bereiche zu regeln.
 
 
 ### Sechster Abschnitt - Telemedizinische Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG011100126)
 
 
 
 #### § 364 Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung von Röntgenaufnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081501126)
 
 (1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem
 Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft
@@ -47193,6 +47925,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 365 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081602126)
 
 (1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem
 Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft
@@ -47216,6 +47949,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 366 Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081702126)
 
 (1) Die Kassenzahnärztliche Bundesvereinigung vereinbart mit dem
 Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft
@@ -47239,6 +47973,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 367 Vereinbarung über technische Verfahren zu telemedizinischen Konsilien
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081801126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen und die Deutsche
 Krankenhausgesellschaft vereinbaren bis zum 31. März 2020 mit dem
@@ -47256,6 +47991,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 367a Vereinbarung über technische Verfahren bei telemedizinischem Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085101126)
 
 (1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund
 der Krankenkassen vereinbaren bis zum 31. März 2022 im Benehmen mit
@@ -47290,6 +48026,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 368 Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE081902126)
 
 (1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund
 der Krankenkassen vereinbaren im Benehmen mit der Gesellschaft für
@@ -47306,6 +48043,7 @@ Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach §
 
 
 #### § 369 Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082002126)
 
 (1) Die Vereinbarung über die technischen Verfahren zur
 telemedizinischen Erbringung der konsiliarischen Befundbeurteilung
@@ -47331,6 +48069,7 @@ innerhalb von einem Monat beanstanden.
 
 
 #### § 370 Entscheidung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082100126)
 
 (1) Wird auf Antrag eines Vereinbarungspartners nach den §§ 364 bis
 368 ein Schlichtungsverfahren bei der Schlichtungsstelle nach § 319
@@ -47356,6 +48095,7 @@ Absatz 1 in gleicher Sache ersetzt werden.
 
 
 #### § 370a Unterstützung der Kassenärztlichen Vereinigungen bei der Vermittlung telemedizinischer Angebote durch die Kassenärztliche Bundesvereinigung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085201126)
 
 (1) Im Rahmen ihrer Aufgaben nach § 75 Absatz 1a Satz 16 betreibt die
 Kassenärztliche Bundesvereinigung zur Vermittlung von
@@ -47468,6 +48208,7 @@ Funktionalitäten des elektronischen Systems festgelegt werden.
 
 
 #### § 370b Technische Verfahren in strukturierten Behandlungsprogrammen mit digitalisierten Versorgungsprozessen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093500126)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
@@ -47496,10 +48237,12 @@ Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere zu regeln
 
 
 ### Siebter Abschnitt - Anforderungen an Schnittstellen in informationstechnischen Systemen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG011200126)
 
 
 
 #### § 371 Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082203126)
 
 (1) In informationstechnische Systeme in der vertragsärztlichen
 Versorgung, in der vertragszahnärztlichen Versorgung und in
@@ -47548,6 +48291,7 @@ gemäß § 385 Absatz 2 Satz 1 Nummer 1 verbindlich festgelegt wurden.
 
 
 #### § 372 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082304126)
 
 (1) Für die in der vertragsärztlichen und vertragszahnärztlichen
 Versorgung eingesetzten informationstechnischen Systeme legen die
@@ -47585,6 +48329,7 @@ Satz 2 Nummer 5.
 
 
 #### § 373 Spezifikationen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung; Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082404126)
 
 (1) Für die in den zugelassenen Krankenhäusern eingesetzten
 informationstechnischen Systeme erstellt das Kompetenzzentrum für
@@ -47652,6 +48397,7 @@ erfolgreich durchlaufen haben, ist wie folgt verpflichtend:
 
 
 #### § 374 Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082501126)
 
 Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche
 Bundesvereinigung, die Deutsche Krankenhausgesellschaft, das
@@ -47668,6 +48414,7 @@ einzubeziehen.
 
 
 #### § 374a Integration offener und standardisierter Schnittstellen in Hilfsmitteln und Implantaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085302126)
 
 (1) Hilfsmittel oder Implantate, die zu Lasten der gesetzlichen
 Krankenversicherung an Versicherte abgegeben werden und die Daten über
@@ -47744,14 +48491,17 @@ technischen Festlegungen nach Satz 1 betreiben.
 
 
 #### § 375 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082602126)
 
 
 
 ### Achter Abschnitt - Finanzierung und Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG011300126)
 
 
 
 #### § 376 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082701126)
 
 Nach den §§ 377 bis 382 werden den Leistungserbringern folgende Kosten
 erstattet:
@@ -47770,6 +48520,7 @@ erstattet:
 
 
 #### § 377 Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082802126)
 
 (1) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten die Krankenhäuser einen Zuschlag von den
@@ -47813,6 +48564,7 @@ erbringen.
 
 
 #### § 378 Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE082902126)
 
 (1) Zum Ausgleich der in § 376 genannten Kosten der Ausstattung und
 Betriebskosten erhalten die an der vertragsärztlichen Versorgung
@@ -47852,6 +48604,7 @@ Vereinbarung einer Änderung nach Satz 1 fort.
 
 
 #### § 379 Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083002126)
 
 (1) Zum Ausgleich der in § 376 genannten Kosten der Ausstattung und
 Betriebskosten erhalten Apotheken ab dem 1. Juli 2023 eine monatliche
@@ -47873,6 +48626,7 @@ die in § 378 Absatz 3 und 4 genannten Inhalte festgelegt.
 
 
 #### § 380 Finanzierung der den Hebammen, Physiotherapeuten und anderen Heilmittelerbringern, Hilfsmittelerbringern, zahntechnischen Laboren, Erbringern von Soziotherapie nach § 37a sowie weiteren Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083103126)
 
 (1) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten Hebammen, für die gemäß § 134a Absatz 2 Satz 1
@@ -47965,6 +48719,7 @@ vereinbaren
 
 
 #### § 381 Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083202126)
 
 (1) Zur Finanzierung der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten
@@ -48015,6 +48770,7 @@ und 3.
 
 
 #### § 382 Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083300126)
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und
 Betriebskosten erhalten die Rechtsträger der für den Öffentlichen
@@ -48029,6 +48785,7 @@ oder den von ihnen jeweils bestimmten Stellen bis zum 1. Oktober 2020.
 
 
 #### § 382a Erstattung der den Betriebsärzten entstehenden Ausstattungs- und Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093600126)
 
 (1) Zum Ausgleich der in § 376 genannten Ausstattungs- und
 Betriebskosten erhalten Betriebsärzte im Sinne von § 352 Satz 1 Nummer
@@ -48045,6 +48802,7 @@ Bundesebene bis zum 1. Oktober 2024.
 
 
 #### § 383 Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083400126)
 
 (1) Die Erstattung nach § 378 Absatz 1 erhöht sich um eine Pauschale
 pro Übermittlung eines elektronischen Briefes zwischen den an der
@@ -48136,10 +48894,12 @@ Kassenärztlichen Bundesvereinigung angeboten wird.
 
 
 ## Zwölftes Kapitel - Interoperabilität und Cybersicherheit im Gesundheitswesen; Nationales Gesundheitsportal
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG009002126)
 
 
 
 ### § 384 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085501126)
 
 Im Sinne dieses Buches bezeichnet der Ausdruck
 
@@ -48266,6 +49026,7 @@ Im Sinne dieses Kapitels bezeichnet der Ausdruck
 
 
 ### § 385 Bedarfsidentifizierung und - priorisierung, Spezifikation, Entwicklung und Festlegung von Standards; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083503126)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der
@@ -48520,6 +49281,7 @@ Nummer 5 bekannt.
 
 
 ### § 386 Recht auf Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083602126)
 
 (1) Die Leistungserbringer tauschen Patientendaten nach diesem Buch im
 interoperablen Format aus.
@@ -48563,6 +49325,7 @@ Information der Versicherten und der Unterbreitung von Angeboten nach
 
 
 ### § 387 Konformitätsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083702126)
 
 (1) Auf Antrag eines Herstellers oder Anbieters eines
 informationstechnischen Systems, das im Gesundheitswesen zur
@@ -48610,6 +49373,7 @@ Antragstellern erhebt.
 
 
 ### § 388 Verbindlichkeitsmechanismen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE083802126)
 
 (1) Ein Inverkehrbringen und -halten eines informationstechnischen
 Systems, das im Gesundheitswesen zur Verarbeitung von
@@ -48669,6 +49433,7 @@ Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
 
 ### § 389 Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084002126)
 
 Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der
 gesetzlichen Krankenversicherung nur ganz oder teilweise finanziert
@@ -48678,6 +49443,7 @@ Nummer 1 beachten.
 
 
 ### § 390 IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE093700126)
 
 (1) Die Kassenärztlichen Bundesvereinigungen legen in einer Richtlinie
 die Anforderungen zur Gewährleistung der IT-Sicherheit in der
@@ -48750,6 +49516,7 @@ Satz 1 im Benehmen mit der Gesellschaft für Telematik fest.
 
 
 ### § 391 IT-Sicherheit in Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084103126)
 
 (1) Krankenhäuser sind verpflichtet, nach dem Stand der Technik
 angemessene organisatorische und technische Vorkehrungen zur
@@ -48784,6 +49551,7 @@ technische Vorkehrungen zu treffen haben.
 
 
 ### § 392 IT-Sicherheit der gesetzlichen Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084203126)
 
 (1) Krankenkassen sind verpflichtet, nach dem Stand der Technik
 angemessene organisatorische und technische Vorkehrungen zur
@@ -48853,6 +49621,7 @@ Absatzes 3 durch den Dritten gewährleistet wird.
 
 
 ### § 393 Cloud-Einsatz im Gesundheitswesen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084303126)
 
 (1) Leistungserbringer im Sinne des Vierten Kapitels und Kranken- und
 Pflegekassen sowie ihre jeweiligen Auftragsdatenverarbeiter dürfen
@@ -48948,10 +49717,12 @@ Bundesdatenschutzgesetzes bleiben unberührt.
 
 
 ### § 394 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE084402126)
 
 
 
 ### § 395 Nationales Gesundheitsportal
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085700126)
 
 (1) Das Bundesministerium für Gesundheit errichtet und betreibt ein
 elektronisches, über allgemein zugängliche Netze sowie über die
@@ -49019,10 +49790,12 @@ sofern nichts Abweichendes bestimmt ist.
 
 
 ## Dreizehntes Kapitel - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008103126)
 
 
 
 ### § 396 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039313126)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Krankenkassen insbesondere mit der Bundesagentur für Arbeit, den
@@ -49078,6 +49851,7 @@ von Versicherten erhoben werden, ist unzulässig.
 
 
 ### § 397 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039410126)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -49180,6 +49954,7 @@ das Bundesamt für Sicherheit in der Informationstechnik.
 
 
 ### § 398 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056403126)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 160 Absatz 2 Satz 1 die Zahlungsunfähigkeit
@@ -49191,6 +49966,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 399 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE051708126)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -49224,10 +50000,12 @@ zuständige Aufsichtsbehörde.
 
 
 ## Vierzehntes Kapitel - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008202126)
 
 
 
 ### § 400 Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE039910126)
 
 (1) Soweit Vorschriften dieses Buches
 
@@ -49268,6 +50046,7 @@ wurde.
 
 
 ### § 401 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040009126)
 
 (1) und (2) (weggefallen)
 
@@ -49279,6 +50058,7 @@ genommen.
 
 
 ### § 402 Beziehungen der Krankenkassen zu den Leistungserbringern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE040112311)
 
 (1) (weggefallen)
 
@@ -49327,10 +50107,12 @@ Einigungsvertrages genannten Teil des Landes Berlin.
 
 
 ## Fünfzehntes Kapitel - Weitere Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNG008802126)
 
 
 
 ### § 403 Beitragszuschüsse für Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085401126)
 
 (1) Versicherungsverträge, die den Standardtarif nach § 257 Absatz 2a
 in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand
@@ -49357,6 +50139,7 @@ Ausgleich nach Satz 1 einbezogen wird.
 
 
 ### § 404 Standardtarif für Personen ohne Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056003126)
 
 (1) Personen, die weder
 
@@ -49423,6 +50206,7 @@ nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
 
 
 ### § 405 Übergangsregelung für die knappschaftliche Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056103126)
 
 Die Regelung des § 13 Absatz 2 der Risikostruktur-Ausgleichsverordnung
 ist nicht anzuwenden, wenn die Deutsche Rentenversicherung
@@ -49442,6 +50226,7 @@ durchgeführt wurden.
 
 
 ### § 406 Übergangsregelung zum Krankengeldwahltarif
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056202126)
 
 (1) Wahltarife, die Versicherte auf der Grundlage der bis zum 31. Juli
 2009 geltenden Fassung des § 53 Absatz 6 abgeschlossen haben, enden zu
@@ -49466,6 +50251,7 @@ Nummer 2 oder Nummer 3 abgeben oder einen Wahltarif wählen.
 
 
 ### § 407 Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE056502126)
 
 Die in § 28b Absatz 1, den §§ 28c und 28e sowie in den Anlagen der
 Risikostruktur-Ausgleichsverordnung in der jeweils bis zum 31.
@@ -49493,6 +50279,7 @@ Anforderungen an die Evaluation.
 
 
 ### § 408 Bestandsbereinigung bei der freiwilligen Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE057902126)
 
 (1) Die Krankenkassen haben ihren Mitgliederbestand für den Zeitraum
 vom 1. August 2013 bis zum 1. Januar 2019 nach Maßgabe der folgenden
@@ -49572,6 +50359,7 @@ zum 31. Dezember 2020 aufzubewahren.
 
 
 ### § 409 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE059802126)
 
 Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung
 von geleisteten Vergütungen ist ausgeschlossen, soweit diese vor dem
@@ -49580,6 +50368,7 @@ gerichtlich geltend gemacht wurden.
 
 
 ### § 410 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067303126)
 
 (1) § 79 Absatz 6 Satz 5, § 91 Absatz 2 Satz 15, § 217b Absatz 2 Satz
 8 und § 282 Absatz 2d Satz 6 in der jeweils bis zum 31. Dezember 2019
@@ -49606,14 +50395,17 @@ berücksichtigt werden.
 
 
 ### § 411 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067408126)
 
 
 
 ### § 412 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE067704126)
 
 
 
 ### § 413 Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE068504126)
 
 § 251 Absatz 4c in der bis zum 31. Dezember 2019 geltenden Fassung
 sowie § 242 Absatz 3 Satz 1 Nummer 1 in der bis zum 30. Juni 2020
@@ -49623,6 +50415,7 @@ begonnen wurde.
 
 
 ### § 414 Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE072806311)
 
 Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die
 §§ 155 und 171d Absatz 2 in der bis zum 31. März 2020 geltenden
@@ -49630,10 +50423,12 @@ Fassung anwendbar.
 
 
 ### § 415 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE072903126)
 
 
 
 ### § 416 Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073403126)
 
 § 5 Absatz 4a Satz 1 Nummer 3 findet grundsätzlich nur Anwendung auf
 Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die
@@ -49652,6 +50447,7 @@ Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
 
 ### § 417 Versicherung nach § 9 für Ausländerinnen und Ausländer mit Aufenthaltserlaubnis nach § 24 Absatz 1 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE073604126)
 
 (1) Ergänzend zu § 9 können innerhalb von sechs Monaten nach
 Aufenthaltnahme im Inland Personen der Versicherung beitreten,
@@ -49688,6 +50484,7 @@ Behandlung nach § 49 des Aufenthaltsgesetzes nicht vorgesehen ist.
 
 
 ### § 418 Übergangsregelung zum Antragsverfahren zur Ausnahme vom Preismoratorium
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE087701126)
 
 Für Arzneimittel, die bei Inkrafttreten der Regelung des § 130a Absatz
 3c in der Fassung des GKV-Finanzstabilisierungsgesetzes vom 7.
@@ -49703,6 +50500,7 @@ sicherstellen.
 
 
 ### § 419 Übergangsregelung zur Besetzung der Vorstände der Kassenärztlichen Vereinigungen und Kassenärztlichen Bundesvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089800126)
 
 § 79 Absatz 4 Satz 1 zweiter Halbsatz und Satz 2 zweiter Halbsatz
 findet keine Anwendung auf Vorstände, deren Mitglieder vor dem 3.
@@ -49710,6 +50508,7 @@ Dezember 2022 von der Vertreterversammlung wirksam gewählt wurden.
 
 
 ### § 420 Übergangsregelung zur Novellierung der vermögensrechtlichen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE088300126)
 
 Bis zum 31. Dezember 2024 dürfen Vermögensgegenstände, die vor dem 1.
 Januar 2023 nach § 78 Absatz 5 Satz 2, Absatz 6, § 91a Absatz 1 Satz
@@ -49723,6 +50522,7 @@ ab dem 1. Januar 2023 geltenden Fassung nicht mehr zulässig ist.
 
 
 ### § 421 Übergangsregelung zur Vergütung von pharmazeutischem Großhandel und von Apotheken für die Abgabe von COVID-19-Impfstoff
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE088101126)
 
 (1) Apotheken erhalten für die Abgabe von vom Bund beschafftem
 COVID-19-Impfstoff im Zeitraum vom 1. Januar 2023 bis zum 31. Dezember
@@ -49808,6 +50608,7 @@ und zu verfügbaren Beständen dieser Impfstoffe mitzuteilen.
 
 
 ### § 422 Übergangsregelung zur Vergütung und Abrechnung von Leistungen im Zusammenhang mit der Abgabe von antiviralen Arzneimitteln zur Behandlung von COVID-19-Erkrankungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE088201126)
 
 (1) Pharmazeutische Großhändler erhalten für die Abgabe von vom Bund
 beschafften antiviralen Arzneimitteln zur Behandlung von
@@ -49849,6 +50650,7 @@ ist bis zum 30. September 2024 abzurechnen.
 
 
 ### § 423 Rückwirkende Herabsetzung nach § 240 Absatz 4a Satz 4 festgesetzter Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE089904126)
 
 In Fällen, in denen die Krankenkasse für Zeiträume ab dem 1. Januar
 2018 die Beiträge nach § 240 Absatz 4a Satz 3 in Verbindung mit Satz 4
@@ -49863,6 +50665,7 @@ nachweist.
 
 
 ### § 424 Übergangsregelung aus Anlass des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE090200126)
 
 (1) Auf Vereinbarungen nach § 130a Absatz 8 Satz 1, die bis zum 26.
 Juli 2023 abgeschlossen worden sind, ist § 130a Absatz 8 Satz 10 in
@@ -49877,6 +50680,7 @@ bis 12 und Absatz 8a keine Anwendung.
 
 
 ### § 425 Evaluierung des Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE090300126)
 
 (1) Der Spitzenverband Bund der Krankenkassen hat dem
 Bundesministerium für Gesundheit bis zum 31. Dezember 2025 einen
@@ -49911,6 +50715,7 @@ vorzulegen.
 
 
 ### § 426 Übergangsregelung zur Beitragspflicht, Tragung und Zahlung der Beiträge aus dem Zuschlag nach § 307j des Sechsten Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094300311)
 
 (1) Für die nach § 307j Absatz 1 des Sechsten Buches im Zeitraum vom
 1\. Juli 2024 bis zum 30. November 2025 zu zahlenden Rentenzuschläge
@@ -50002,6 +50807,7 @@ Soziale Sicherung mit.
 
 
 ### § 427 Evaluation des Krankenhausversorgungsverbesserungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE095200126)
 
 Der Spitzenverband Bund der Krankenkassen, der Verband der Privaten
 Krankenversicherung e. V. und die Deutsche Krankenhausgesellschaft
@@ -50072,6 +50878,7 @@ Medizinischen Diensten in anonymisierter Form zu übermitteln.
 
 
 ### Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE094101126)
 
 
 (Fundstelle: BGBl. 2024 I Nr. 400, Seite 51 - 112)
@@ -53317,6 +54124,7 @@ Medizinischen Diensten in anonymisierter Form zu übermitteln.
 (zu § 307 Absatz 1 Satz 3 SGB V)
 
 ### Anlage 2 Datenschutz-Folgenabschätzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html#BJNR024820988BJNE085802126)
 
 (Fundstelle: BGBl. I 2021, 1350 – 1361)
 

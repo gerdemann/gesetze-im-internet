@@ -23,6 +23,7 @@ Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE001100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -33,6 +34,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000100000)
 
 Der Ausbildungsberuf Parkettleger/Parkettlegerin wird für das Gewerbe
 Nummer 39, Parkettleger, der Anlage A der Handwerksordnung staatlich
@@ -40,11 +42,13 @@ anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000200000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000300000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -114,6 +118,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000400000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -131,12 +136,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000500000)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000600000)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -145,6 +152,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -170,6 +178,7 @@ und den Gesundheitsschutz bei der Arbeit beachten kann.
 
 
 ## § 8 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000800000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -330,6 +339,7 @@ Bodenbeläge mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE000900000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -338,12 +348,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Parkettleger/zur Parkettlegerin
+[Direktlink](https://www.gesetze-im-internet.de/parkettlausbv_2002/BJNR185200002.html#BJNR185200002BJNE001200000)
 
 (Fundstelle: BGBl. I 2002, 1855 - 1860)
 

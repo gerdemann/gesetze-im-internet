@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000101118)
 
 (1) Diese Verordnung gilt, soweit nicht anders bestimmt,
 
@@ -78,9 +80,11 @@ Anlagen nach § 3 der Verordnung über genehmigungsbedürftige Anlagen.
 
 
 ## Abschnitt 2 - Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNG000200000)
 
 
 ### § 2 Zulassungsverfahren und Koordinierung
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000201118)
 
 (1) Ist mit der Errichtung, dem Betrieb oder der wesentlichen Änderung
 einer Industrieanlage eine Gewässerbenutzung verbunden oder wird die
@@ -106,6 +110,7 @@ erörtern und abzustimmen.
 
 
 ### § 3 Antragsunterlagen und Entscheidungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000302118)
 
 (1) Im Antrag auf Erteilung der Erlaubnis oder Genehmigung sind vom
 Antragsteller mindestens folgende Angaben zu machen:
@@ -207,6 +212,7 @@ gegenüber dem Antragsteller begründet werden.
 
 
 ### § 4 Öffentlichkeitsbeteiligung und Zugang zu Informationen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000401118)
 
 (1) In Verfahren nach § 2 Absatz 1 Satz 1 ist die Öffentlichkeit
 entsprechend § 10 Absatz 3, 4 und 6 des Bundes-
@@ -290,6 +296,7 @@ das Genehmigungsverfahren entsprechend.
 
 
 ### § 5 Grenzüberschreitende Beteiligung von Behörden und Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000502119)
 
 (1) Kann eine zu einer Industrieanlage gehörige Gewässerbenutzung oder
 eine Anlage nach § 60 Absatz 3 Satz 1 Nummer 2 oder Nummer 3 des
@@ -380,6 +387,7 @@ Staaten sind der Öffentlichkeit nach Landesrecht zugänglich zu machen.
 
 
 ### § 6 Notwendige Vorgaben in der Erlaubnis und der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000601118)
 
 Die Erlaubnis für Gewässerbenutzungen, die zu einer Industrieanlage
 gehören, oder die Genehmigung einer Anlage nach § 60 Absatz 3 Satz 1
@@ -476,6 +484,7 @@ Beurteilung gemäß § 9 Absatz 2 des Verschmutzungsrisikos.
 
 
 ### § 7 Besondere Pflichten des Inhabers einer Erlaubnis oder einer Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000702119)
 
 (1) Hat der Inhaber einer Erlaubnis oder einer Genehmigung nach § 1
 Absatz 1 Satz 1 Inhalts- und Nebenbestimmungen nicht eingehalten oder
@@ -540,6 +549,7 @@ entsprechend.
 
 
 ### § 8 Überwachung und Überprüfung der Erlaubnis oder Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000801118)
 
 (1) Die Überprüfung der Erlaubnis oder Genehmigung sowie die
 Überwachung der Einhaltung dieser Zulassungen nach § 100 des
@@ -593,6 +603,7 @@ Erlaubnisse und Genehmigungen in ihrem Zuständigkeitsbereich auf.
 
 
 ### § 9 Überwachungspläne und Überwachungsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE000902119)
 
 (1) Überwachungspläne haben Folgendes zu enthalten:
 
@@ -689,6 +700,7 @@ machen.
 
 
 ### § 10 Unterrichtung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001003119)
 
 Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz
 und nukleare Sicherheit nach Anforderung auf elektronischem Wege
@@ -727,9 +739,11 @@ entsprechend.
 
 
 ## Abschnitt 3 - Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNG000300000)
 
 
 ### § 11 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001100000)
 
 Der Abschnitt 3 dieser Verordnung gilt für das Einleiten von Abwasser
 im Sinne des Anhangs 33 Teil A der Abwasserverordnung in Gewässer und
@@ -737,6 +751,7 @@ Abwasseranlagen.
 
 
 ### § 12 Berechnung der Frachten bei Vermischung
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001200000)
 
 Im Fall der Vermischung des Abwassers im Sinne von § 11 mit Abwasser
 aus anderen Herkunftsbereichen der Abwasserverordnung hat der
@@ -749,6 +764,7 @@ unberührt.
 
 
 ### § 13 Zusätzliche Parameter
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001300000)
 
 In der Erlaubnis für das Einleiten von Abwasser in Gewässer oder in
 der Genehmigung für das Einleiten von Abwasser in Abwasseranlagen sind
@@ -760,6 +776,7 @@ eine öffentliche Abwasseranlage nicht aufzunehmen.
 
 
 ### § 14 Mess- und Überwachungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001400000)
 
 (1) Die zuständige Behörde legt in der Erlaubnis für das Einleiten von
 Abwasser in Gewässer oder in der Genehmigung für das Einleiten von
@@ -824,6 +841,7 @@ Zulassung zu ermöglichen.
 
 
 ### § 15 Berichtspflichten, Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001500000)
 
 Der Einleiter hat der zuständigen Behörde für Einleitungen von
 Abwasser im Sinne des § 11, das aus einer Anlage mit einer
@@ -837,9 +855,11 @@ den Zugang zu Umweltinformationen zugänglich zu machen.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten und Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNG000400000)
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001600000)
 
 Ordnungswidrig nach § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe b des
 Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -883,6 +903,7 @@ Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 17 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/iz_v/BJNR101100013.html#BJNR101100013BJNE001700000)
 
 Verfahren, die vor dem Inkrafttreten dieser Verordnung begonnen worden
 sind, sind nach den Vorschriften dieser Verordnung zu Ende zu führen.

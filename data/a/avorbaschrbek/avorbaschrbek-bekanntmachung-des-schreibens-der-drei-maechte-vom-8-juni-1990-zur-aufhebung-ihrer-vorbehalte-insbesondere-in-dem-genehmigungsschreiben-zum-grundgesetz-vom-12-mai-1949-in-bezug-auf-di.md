@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/avorbaschrbek/BJNR010680990.html#BJNR010680990BJNE000100328)
 
 Die Botschafter der Französischen Republik, des Vereinigten
 Königreichs von Großbritannien und Nordirland und der Vereinigten

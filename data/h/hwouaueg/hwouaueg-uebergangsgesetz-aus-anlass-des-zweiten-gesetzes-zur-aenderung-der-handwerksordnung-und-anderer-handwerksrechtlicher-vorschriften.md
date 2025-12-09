@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hwoua_g/BJNR060400998.html#BJNR060400998BJNE000104123)
 
 (1) Die wesentliche Tätigkeit Herstellung und Reparatur von
 Ziegeldächern des Gewerbes Nummer 4 Dachdecker der Anlage A zur
@@ -80,6 +81,7 @@ der in der Anlage A zur Handwerksordnung aufgeführten Gewerbe.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hwoua_g/BJNR060400998.html#BJNR060400998BJNE000200305)
 
 Soweit durch Artikel 1 des Zweiten Gesetzes zur Änderung der
 Handwerksordnung und anderer handwerksrechtlicher Vorschriften vom 25.
@@ -94,6 +96,7 @@ Bezeichnung erhalten.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hwoua_g/BJNR060400998.html#BJNR060400998BJNE000300377)
 
 Wer ein zulassungsfreies Handwerk nach § 18 Abs. 2 Satz 1 der
 Handwerksordnung betreibt und am 31. Dezember 2003 berechtigt war, ein

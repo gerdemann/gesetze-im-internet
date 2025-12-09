@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bevbdgzustano/BJNR0070A0025.html#BJNR0070A0025BJNE000100000)
 
 Nach § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
 Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510), das
@@ -27,6 +28,7 @@ Bundeseisenbahnvermögens an:
 
 
 ## § 1 Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts
+[Direktlink](https://www.gesetze-im-internet.de/bevbdgzustano/BJNR0070A0025.html#BJNR0070A0025BJNE000200000)
 
 Den Leiterinnen und Leitern der Dienststellen des
 Bundeseisenbahnvermögens werden für den jeweiligen Geschäftsbereich
@@ -56,12 +58,14 @@ Bundeseisenbahnvermögens werden für den jeweiligen Geschäftsbereich
 
 
 ## § 2 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bevbdgzustano/BJNR0070A0025.html#BJNR0070A0025BJNE000300000)
 
 Der Präsident des Bundeseisenbahnvermögens behält sich vor,
 Zuständigkeiten nach § 1 in besonderen Fällen selbst auszuüben.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bevbdgzustano/BJNR0070A0025.html#BJNR0070A0025BJNE000400000)
 
 Diese Anordnung tritt mit Veröffentlichung im Bundesgesetzblatt in
 Kraft. Auf vor dem Inkrafttreten eingeleitete Disziplinarverfahren

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -30,6 +31,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000200000)
 
 Der Ausbildungsberuf Maßschneider/Maßschneiderin wird gemäß § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 19, Damen- und
@@ -38,6 +40,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -49,6 +52,7 @@ Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
@@ -62,6 +66,7 @@ beschriebene Befähigung ist auch in den Prüfungen nach den §§ 10 und
 
 
 ## § 4 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000500000)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -71,6 +76,7 @@ erfolgen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -126,6 +132,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000700000)
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse
 (Ausbildungsberufsbild) sollen unter Berücksichtigung der Schwerpunkte
@@ -138,6 +145,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -145,6 +153,7 @@ zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE000900000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -153,6 +162,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -192,6 +202,7 @@ Wirtschaftlichkeit berücksichtigen kann.
 
 
 ## § 10 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001100000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
@@ -335,6 +346,7 @@ Leistungen erbracht worden sein.
 
 
 ## § 10a Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001500377)
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem
 abgeschlossenen Ausbildungsberuf Änderungsschneider/
@@ -345,6 +357,7 @@ Berufsbildungsgesetzes bleibt unberührt.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001200000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -353,12 +366,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
+[Direktlink](https://www.gesetze-im-internet.de/mschnausbv_2004/BJNR057100004.html#BJNR057100004BJNE001400000)
 
 (Fundstelle: BGBl. 2004, 574 - 579)
 

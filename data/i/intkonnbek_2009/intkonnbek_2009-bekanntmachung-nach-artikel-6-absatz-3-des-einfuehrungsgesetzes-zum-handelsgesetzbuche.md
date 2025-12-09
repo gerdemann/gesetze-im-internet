@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/intkonnbek_2009/BJNR299600009.html#BJNR299600009BJNE000100000)
 
 Nach Artikel 6 Absatz 3 des Einführungsgesetzes zum
 Handelsgesetzbuche, der durch Artikel 5 Nummer 1 des Gesetzes vom 25.
@@ -45,6 +46,7 @@ September 2001 (BGBl. I S. 2576; 2002 I S. 559).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/intkonnbek_2009/BJNR299600009.html#BJNR299600009BJNE000200000)
 
 Bundesministerium der Justiz
 

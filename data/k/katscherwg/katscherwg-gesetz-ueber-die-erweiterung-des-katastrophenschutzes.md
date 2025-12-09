@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 9 Rechtsverhältnisse der Helfer im Katastrophenschutz
+[Direktlink](https://www.gesetze-im-internet.de/katscherwg/BJNR007760968.html#BJNR007760968BJNE001009116)
 
 (1) (weggefallen)
 

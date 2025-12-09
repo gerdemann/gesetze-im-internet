@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mltbek_1/BJNR013890972.html#BJNR013890972BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -41,11 +42,13 @@ b)  amtliche Prüf- und Gewährzeichen, die in Malta für Gold- und
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mltbek_1/BJNR013890972.html#BJNR013890972BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mltbek_1/BJNR013890972.html#BJNR013890972BJNE000200303)
 
 Amtliches Gewährzeichen der Milchabsatzbehörde
 (Inhalt: Nicht darstellbares Gewährzeichen,
@@ -53,6 +56,7 @@ Fundstelle: BGBl. I 1972, 1389)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mltbek_1/BJNR013890972.html#BJNR013890972BJNE000300303)
 
 Fundstelle: BGBl. I 1972, 1390)
 Amtliche Prüf- und Gewährzeichen für Gold- und Silberwaren

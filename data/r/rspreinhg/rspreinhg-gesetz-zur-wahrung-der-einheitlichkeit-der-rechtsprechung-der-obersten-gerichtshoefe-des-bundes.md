@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Gemeinsamer Senat der obersten Gerichtshöfe
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNG000100666)
 
 
 
 ### § 1 Bildung des Gemeinsamen Senats
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000400666)
 
 (1) Zur Wahrung der Einheitlichkeit der Rechtsprechung der in Artikel
 95 Abs. 1 des Grundgesetzes genannten obersten Gerichtshöfe des Bundes
@@ -34,6 +36,7 @@ wird ein Gemeinsamer Senat dieser obersten Gerichtshöfe gebildet.
 
 
 ### § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000500666)
 
 (1) Der Gemeinsame Senat entscheidet, wenn ein oberster Gerichtshof in
 einer Rechtsfrage von der Entscheidung eines anderen obersten
@@ -48,6 +51,7 @@ Senats abweichen wollen.
 
 
 ### § 3 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000600666)
 
 (1) Der Gemeinsame Senat besteht aus
 
@@ -77,6 +81,7 @@ Dauer von zwei Geschäftsjahren bestimmt.
 
 
 ### § 4 Beteiligte Senate
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000700666)
 
 (1) Beteiligt sind der vorlegende Senat und der Senat des obersten
 Gerichtshofs, von dessen Entscheidung der vorlegende Senat abweichen
@@ -96,6 +101,7 @@ gilt für die Vereinigten Großen Senate eines obersten Gerichtshofs.
 
 
 ### § 5 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000800666)
 
 Den Vorsitz führt der lebensälteste Präsident der nichtbeteiligten
 obersten Gerichtshöfe. Er wird bei der Leitung der mündlichen
@@ -106,18 +112,21 @@ Senat vertreten.
 
 
 ### § 6 Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE000900666)
 
 Der Gemeinsame Senat entscheidet mit der Mehrheit der Stimmen seiner
 Mitglieder.
 
 
 ### § 7 Vorrang der Amtsgeschäfte im Gemeinsamen Senat
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001000666)
 
 Die Tätigkeit im Gemeinsamen Senat geht der Tätigkeit an dem obersten
 Gerichtshof vor.
 
 
 ### § 8 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001101311)
 
 Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet. Das
 Nähere bestimmt der Bundesminister der Justiz und für
@@ -125,16 +134,19 @@ Verbraucherschutz.
 
 
 ### § 9 Rechts- und Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001200666)
 
 Alle Gerichte und Verwaltungsbehörden leisten dem Gemeinsamen Senat
 Rechts- und Amtshilfe.
 
 
 ## Zweiter Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNG000200666)
 
 
 
 ### § 10 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001300666)
 
 Soweit in den §§ 11 bis 17 nichts anderes bestimmt ist, gelten für das
 Verfahren vor dem Gemeinsamen Senat die Vorschriften für das Verfahren
@@ -142,6 +154,7 @@ vor dem vorlegenden Senat entsprechend.
 
 
 ### § 11 Vorlegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001401308)
 
 (1) Das Verfahren vor dem Gemeinsamen Senat wird durch einen
 Vorlegungsbeschluß eingeleitet. In diesem ist die Entscheidung des
@@ -162,6 +175,7 @@ entsprechend.
 
 
 ### § 12 Stellungnahmen der obersten Gerichtshöfe
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001500666)
 
 (1) Der Vorsitzende des Gemeinsamen Senats gibt den obersten
 Gerichtshöfen von dem Vorlegungsbeschluß Kenntnis. Die obersten
@@ -185,6 +199,7 @@ Rechtsfrage vorlegen.
 
 
 ### § 13 Beteiligte am Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001601301)
 
 (1) Die am Verfahren vor dem vorlegenden Senat Beteiligten sind auch
 am Verfahren vor dem Gemeinsamen Senat beteiligt. Sie sind in dem
@@ -209,6 +224,7 @@ entsprechend.
 
 
 ### § 14 Aufgabe der früheren Rechtsprechung
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001700666)
 
 Schließt sich der Senat des obersten Gerichtshofs, von dessen
 Entscheidung abgewichen werden soll, innerhalb eines Monats durch
@@ -220,6 +236,7 @@ Gemeinsamen Senats verlängert werden.
 
 
 ### § 15 Gegenstand der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001801308)
 
 (1) Der Gemeinsame Senat entscheidet nur über die Rechtsfrage. Die
 Entscheidung kann ohne mündliche Verhandlung ergehen. Findet keine
@@ -230,12 +247,14 @@ Verfahren Beteiligten Gelegenheit zur Äußerung zu geben.
 
 
 ### § 16 Wirkung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE001900666)
 
 Die Entscheidung des Gemeinsamen Senats ist in der vorliegenden Sache
 für das erkennende Gericht bindend.
 
 
 ### § 17 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002000666)
 
 (1) Das Verfahren vor dem Gemeinsamen Senat ist kostenfrei.
 
@@ -243,10 +262,12 @@ für das erkennende Gericht bindend.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNG000300666)
 
 
 
 ### § 18 Erweiterung der Revisions- und Vorlegungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002100666)
 
 (1) Hat ein Gericht die Revision oder die Rechtsbeschwerde zuzulassen,
 wenn es von einer Entscheidung eines obersten Gerichtshofs abweicht,
@@ -265,11 +286,13 @@ Entscheidung des Gemeinsamen Senats abweichen will.
 
 
 ### (XXXX) §§ 19 und 20
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002200666)
 
 -
 
 
 ### § 21 Änderung von Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002300666)
 
 Soweit in anderen Gesetzen und in Verordnungen die Bezeichnung "oberes
 Bundesgericht" verwendet wird, tritt an ihre Stelle die Bezeichnung
@@ -277,6 +300,7 @@ Bundesgericht" verwendet wird, tritt an ihre Stelle die Bezeichnung
 
 
 ### § 22 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002400666)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -284,6 +308,7 @@ im Land Berlin.
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rspreinhg/BJNR006610968.html#BJNR006610968BJNE002500666)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

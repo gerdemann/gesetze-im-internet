@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/nsunrurtbesg/BJNR009660990.html#BJNR009660990BJNE000100308)
 
 (1) Zwischen dem 30. Januar 1933 und dem 8. Mai 1945 ergangene Urteile
 in Strafsachen sind auf Antrag insoweit aufzuheben, als ihnen Taten
@@ -41,6 +42,7 @@ zuständigen Oberlandesgericht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/nsunrurtbesg/BJNR009660990.html#BJNR009660990BJNE000200308)
 
 (1) § 1 findet lediglich in den Ländern Hamburg, Niedersachsen,
 Nordrhein-Westfalen und Schleswig-Holstein Anwendung.
@@ -53,12 +55,14 @@ ergangen ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/nsunrurtbesg/BJNR009660990.html#BJNR009660990BJNE000300308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/nsunrurtbesg/BJNR009660990.html#BJNR009660990BJNE000400308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

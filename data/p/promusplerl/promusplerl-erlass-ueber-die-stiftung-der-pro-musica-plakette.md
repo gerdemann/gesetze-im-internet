@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/promusplerl/BJNR002220968.html#BJNR002220968BJNE000100304)
 
 Als Auszeichnung für Vereinigungen von Musikliebhabern, die sich in
 langjährigem Wirken besondere Verdienste um die Pflege des
@@ -33,6 +34,7 @@ festgelegt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/promusplerl/BJNR002220968.html#BJNR002220968BJNE000200304)
 
 Der Bundespräsident
 Der Bundeskanzler

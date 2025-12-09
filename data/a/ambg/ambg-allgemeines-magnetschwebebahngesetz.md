@@ -23,11 +23,13 @@ Mittelbare änderung durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000100310)
 
 Dieses Gesetz gilt für Magnetschwebebahnen.
 
 
 ## § 2 Öffentliche Magnetschwebebahnen
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000200310)
 
 Magnetschwebebahnen dienen dem öffentlichen Verkehr (öffentliche
 Magnetschwebebahnen), wenn sie gewerbs- oder geschäftsmäßig betrieben
@@ -36,6 +38,7 @@ Güterbeförderung benutzen kann.
 
 
 ## § 3 Sicherheitsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000300310)
 
 Die Magnetschwebebahnunternehmen sind verpflichtet, ihren Betrieb
 sicher zu führen und die Magnetschwebebahnstrecken, sonstige
@@ -44,6 +47,7 @@ betriebssicherem Zustand zu halten.
 
 
 ## § 4 Aufgaben des Eisenbahn-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000408123)
 
 (1) Das Eisenbahn-Bundesamt ist über § 1 Abs. 2 des
 Magnetschwebebahnplanungsgesetzes vom 23. November 1994 (BGBl. I S.
@@ -89,6 +93,7 @@ Bundesamt übertragen.
 
 
 ## § 5 Erteilung und Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000500310)
 
 (1) Ohne eine Genehmigung dürfen öffentliche Magnetschwebebahnen nicht
 betrieben werden.
@@ -119,6 +124,7 @@ Hauptniederlassung innerhalb der Europäischen Gemeinschaften haben.
 
 
 ## § 6 Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000601308)
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn
 eine der Voraussetzungen des § 5 Abs. 2 nicht mehr vorliegt.
@@ -135,6 +141,7 @@ Widerrufsverfahrens verwendet werden.
 
 
 ## § 7 Beförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000700310)
 
 Öffentliche Magnetschwebebahnunternehmen sind zur Beförderung von
 Personen und Reisegepäck verpflichtet, wenn
@@ -155,6 +162,7 @@ Personen und Reisegepäck verpflichtet, wenn
 
 
 ## § 8 Tarife
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000800310)
 
 (1) Tarife sind die Beförderungsentgelte und Beförderungsbedingungen.
 Das Magnetschwebebahnunternehmen ist verpflichtet, daran mitzuwirken,
@@ -205,6 +213,7 @@ Bekanntmachung ersichtlich sein.
 
 
 ## § 9 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE000900310)
 
 (1) Zur Durchführung ihrer Überwachungsaufgaben hat die zuständige
 Behörde folgende Befugnisse:
@@ -237,6 +246,7 @@ Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 
 
 ## § 10 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001009123)
 
 (1) Zur Gewährleistung der Sicherheit und Ordnung im
 Magnetschwebebahnverkehr oder zum Schutz von Leben und Gesundheit der
@@ -325,6 +335,7 @@ Strecken öffentlicher Magnetschwebebahnen benutzen.
 
 
 ## § 11 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001104305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zur
@@ -334,6 +345,7 @@ insbesondere über die Ahndung von Ordnungswidrigkeiten.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001201308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -375,17 +387,20 @@ werden.
 
 
 ## § 13 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001300310)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist das Eisenbahn-Bundesamt.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001400310)
 
 -
 
 
 ## § 15 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001500310)
 
 Die auf § 14 beruhenden Teile der dort geänderten Rechtsverordnungen
 können auf Grund der jeweils einschlägigen Ermächtigung durch
@@ -393,6 +408,7 @@ Rechtsverordnung geändert werden.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ambg/BJNR101900996.html#BJNR101900996BJNE001600310)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000201311)
 
 (1) Dieses Gesetz regelt die Befugnis, in der Bundesrepublik
 Deutschland außergerichtliche Rechtsdienstleistungen zu erbringen. Es
@@ -38,6 +40,7 @@ Rechtsdienstleistungen zu erbringen, bleiben unberührt.
 
 
 ### § 2 Begriff der Rechtsdienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000301125)
 
 (1) Rechtsdienstleistung ist jede Tätigkeit in konkreten fremden
 Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls
@@ -82,6 +85,7 @@ für den bisherigen Gläubiger nicht als fremd.
 
 
 ### § 3 Befugnis zur Erbringung außergerichtlicher Rechtsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000401125)
 
 Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen
 ist unzulässig, soweit sie nicht erlaubt wird
@@ -98,6 +102,7 @@ ist unzulässig, soweit sie nicht erlaubt wird
 
 
 ### § 4 Unvereinbarkeit mit einer anderen Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000501125)
 
 Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung
 einer anderen Leistungspflicht haben können, dürfen nicht erbracht
@@ -109,6 +114,7 @@ bestehen.
 
 
 ### § 5 Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000601125)
 
 (1) Erlaubt sind Rechtsdienstleistungen im Zusammenhang mit einer
 anderen Tätigkeit, wenn sie als Nebenleistung zum Berufs- oder
@@ -134,9 +140,11 @@ Zusammenhang mit einer der folgenden Tätigkeiten erbracht werden:
 
 
 ## Teil 2 - Rechtsdienstleistungen durch nicht registrierte Personen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNG000200000)
 
 
 ### § 6 Unentgeltliche Rechtsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000700000)
 
 (1) Erlaubt sind Rechtsdienstleistungen, die nicht im Zusammenhang mit
 einer entgeltlichen Tätigkeit stehen (unentgeltliche
@@ -155,6 +163,7 @@ erforderlich ist.
 
 
 ### § 7 Berufs- und Interessenvereinigungen, Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000800000)
 
 (1) Erlaubt sind Rechtsdienstleistungen, die
 
@@ -187,6 +196,7 @@ entsprechend.
 
 
 ### § 8 Öffentliche und öffentlich anerkannte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE000901311)
 
 (1) Erlaubt sind Rechtsdienstleistungen, die
 
@@ -221,6 +231,7 @@ entsprechend.
 
 
 ### § 9 Untersagung von Rechtsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001002125)
 
 (1) Das Bundesamt für Justiz kann den in den §§ 6, 7 Abs. 1 und § 8
 Abs. 1 Nr. 4 und 5 genannten Personen und Vereinigungen die weitere
@@ -242,9 +253,11 @@ Rechtsdienstleistungen innerhalb familiärer, nachbarschaftlicher oder
 
 
 ## Teil 3 - Rechtsdienstleistungen durch registrierte Personen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNG000300000)
 
 
 ### § 10 Rechtsdienstleistungen aufgrund besonderer Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001106125)
 
 (1) Natürliche und juristische Personen sowie rechtsfähige
 Personengesellschaften, die beim Bundesamt für Justiz registriert sind
@@ -289,6 +302,7 @@ Rechtsuchenden gegenüber eindeutig angegeben werden.
 
 
 ### § 11 Besondere Sachkunde, Berufsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001201311)
 
 (1) Inkassodienstleistungen erfordern besondere Sachkunde in den für
 die beantragte Inkassotätigkeit bedeutsamen Gebieten des Rechts,
@@ -323,6 +337,7 @@ auszuüben.
 
 
 ### § 12 Registrierungsvoraussetzungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001312125)
 
 (1) Voraussetzungen für die Registrierung sind
 
@@ -427,6 +442,7 @@ Berufshaftpflichtversicherung.
 
 
 ### § 13 Registrierungsverfahren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002209125)
 
 (1) Der Antrag auf Registrierung ist beim Bundesamt für Justiz zu
 stellen. Das Registrierungsverfahren kann auch über eine einheitliche
@@ -520,6 +536,7 @@ vorzusehen.
 
 
 ### § 13a Darlegungs- und Informationspflichten bei Inkassodienstleistungen gegenüber Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002801125)
 
 (1) Registrierte Personen, die Inkassodienstleistungen erbringen
 (Inkassodienstleister), müssen mit der ersten Geltendmachung einer
@@ -612,6 +629,7 @@ Tätigkeit steht.
 
 
 ### § 13b Darlegungs- und Informationspflichten bei Inkassodienstleistungen für Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003200125)
 
 (1) Inkassodienstleister, die für einen Verbraucher tätig werden,
 müssen diesem vor Abgabe seiner Vertragserklärung über eine
@@ -673,6 +691,7 @@ Möglichkeiten zur Durchsetzung der Forderung unberührt lässt.
 
 
 ### § 13c Vergütungsvereinbarungen für Inkassodienstleistungen und Rechtsdienstleistungen in einem ausländischen Recht
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003301125)
 
 (1) Eine Vereinbarung über die Vergütung für eine
 Inkassodienstleistung bedarf, soweit sich die Tätigkeit nicht auf
@@ -735,6 +754,7 @@ entsprechend.
 
 
 ### § 13d Vergütung der Rentenberater
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003100119)
 
 (1) Für die Vergütung der Rentenberater gilt das
 Rechtsanwaltsvergütungsgesetz entsprechend. Richtet sich die Vergütung
@@ -760,6 +780,7 @@ Rechtsanwalts entsprechend.
 
 
 ### § 13e Erstattungsfähigkeit der Kosten von Inkassodienstleistern
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003400125)
 
 (1) Ein Gläubiger kann die Kosten, die ihm ein Inkassodienstleister
 für seine Tätigkeit berechnet hat, von seinem Schuldner nur bis zur
@@ -773,6 +794,7 @@ der Zivilprozessordnung.
 
 
 ### § 13f Beauftragung von Rechtsanwälten und Inkassodienstleistern
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003500125)
 
 Beauftragt der Gläubiger einer Forderung mit deren Einziehung sowohl
 einen Inkassodienstleister als auch einen Rechtsanwalt, so kann er die
@@ -786,6 +808,7 @@ Beauftragung eines Rechtsanwalts gegeben hat.
 
 
 ### § 13g Umgang mit Fremdgeldern
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE003600125)
 
 Inkassodienstleister haben fremde Gelder unverzüglich an eine
 empfangsberechtigte Person weiterzuleiten oder auf ein gesondertes
@@ -793,6 +816,7 @@ Konto einzuzahlen.
 
 
 ### § 13h Aufsichtsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002503125)
 
 (1) Das Bundesamt für Justiz übt die Aufsicht über die Einhaltung
 dieses Gesetzes aus. Die Aufsicht umfasst zudem die Einhaltung anderer
@@ -866,6 +890,7 @@ anfechtbar.
 
 
 ### § 14 Widerruf der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001505125)
 
 Das Bundesamt für Justiz widerruft die Registrierung unbeschadet des §
 49 des Verwaltungsverfahrensgesetzes oder entsprechender
@@ -906,6 +931,7 @@ Bundesrechtsanwaltsordnung entsprechend.
 
 
 ### § 14a Bestellung eines Abwicklers für Rentenberater
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002702125)
 
 (1) Ist eine als Rentenberater registrierte Person (§ 10 Absatz 1 Satz
 1 Nummer 2) verstorben oder wurde ihre Registrierung zurückgenommen
@@ -923,6 +949,7 @@ das Bundesamt für Justiz tritt.
 
 
 ### § 15 Vorübergehende Rechtsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001607125)
 
 (1) Natürliche und juristische Personen sowie rechtsfähige
 Personengesellschaften, die in einem anderen Mitgliedstaat der
@@ -1061,6 +1088,7 @@ die Absätze 2 bis 6 gelten entsprechend.
 
 
 ### § 15a Statistik
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002301311)
 
 Über Verfahren nach § 12 Absatz 3 Satz 4 und § 15 wird eine
 Bundesstatistik durchgeführt. § 17 des
@@ -1068,6 +1096,7 @@ Berufsqualifikationsfeststellungsgesetzes ist anzuwenden.
 
 
 ### § 15b Betrieb ohne Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002601125)
 
 Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder
 vorübergehende Registrierung erbracht, so kann das Bundesamt für
@@ -1075,9 +1104,11 @@ Justiz die Fortsetzung des Betriebs verhindern.
 
 
 ## Teil 4 - Rechtsdienstleistungsregister
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNG000400000)
 
 
 ### § 16 Inhalt des Rechtsdienstleistungsregisters; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001709125)
 
 (1) Das Rechtsdienstleistungsregister dient der Information der
 Rechtsuchenden, der Personen, die Rechtsdienstleistungen anbieten, des
@@ -1170,6 +1201,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten der
 
 
 ### § 17 Löschung von Veröffentlichungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001806125)
 
 (1) Das Bundesamt für Justiz hat die im Rechtsdienstleistungsregister
 öffentlich bekanntgemachten Daten zu löschen:
@@ -1209,9 +1241,11 @@ Löschungsverfahrens zu regeln.
 
 
 ## Teil 5 - Datenübermittlung und Zuständigkeiten, Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNG000500000)
 
 
 ### § 18 Umgang mit personenbezogenen Daten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE001910125)
 
 (1) Gerichte und Behörden dürfen dem Bundesamt für Justiz
 personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende
@@ -1275,10 +1309,12 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln.
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002003125)
 
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rdg/BJNR284010007.html#BJNR284010007BJNE002105125)
 
 (1) Ordnungswidrig handelt, wer
 

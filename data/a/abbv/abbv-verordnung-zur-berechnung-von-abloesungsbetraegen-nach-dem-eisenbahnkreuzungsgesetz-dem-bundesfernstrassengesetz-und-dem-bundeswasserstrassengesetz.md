@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000100000)
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
 auf Grund
@@ -44,6 +45,7 @@ auf Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000200000)
 
 (1) Diese Verordnung gilt für die Berechnung der zu leistenden
 Ablösungsbeträge nach den Vorschriften des Eisenbahnkreuzungsgesetzes,
@@ -57,6 +59,7 @@ Bundeswasserstraßengesetzes.
 
 
 ## § 2 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000300000)
 
 (1) Der Ablösungsbetrag ist durch Gegenüberstellung der
 kapitalisierten Erhaltungskosten der alten und neuen baulichen Anlagen
@@ -92,11 +95,13 @@ ist der Betrag mit 4 vom Hundert für das Jahr zu verzinsen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000700360)
 
 Für Maßnahmen, über die die Beteiligten nach § 1 Absatz 6 des
 Eisenbahnkreuzungsgesetzes vor dem Ablauf des 1. Juli 2021 eine
@@ -105,11 +110,13 @@ Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000501125)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/abbv/BJNR085600010.html#BJNR085600010BJNE000601360)
 
 (Fundstelle: BGBl. I 2010, 857 - 871; bzgl. einzelner Änderungen vgl.
 Fußnote)

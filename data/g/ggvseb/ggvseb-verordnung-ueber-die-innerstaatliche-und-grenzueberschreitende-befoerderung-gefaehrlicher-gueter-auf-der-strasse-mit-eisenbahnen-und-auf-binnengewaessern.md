@@ -30,6 +30,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000218123)
 
 
 *    *   § 1
@@ -312,6 +313,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000317123)
 
 (1) Diese Verordnung regelt die innerstaatliche und
 grenzüberschreitende Beförderung einschließlich der Beförderung von
@@ -426,6 +428,7 @@ bis 6.1.6 ADN auch für die Binnenschifffahrt anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004912123)
 
 (1) Absender ist das Unternehmen, das selbst oder für einen Dritten
 gefährliche Güter versendet. Erfolgt die Beförderung auf Grund eines
@@ -619,6 +622,7 @@ geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 
 ## § 3 Zulassung zur Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000509123)
 
 Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden,
 wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2,
@@ -629,6 +633,7 @@ Einhaltung der anwendbaren Vorschriften des ADR/RID/ADN erfolgt.
 
 
 ## § 4 Allgemeine Sicherheitspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000608123)
 
 (1) Die an der Beförderung gefährlicher Güter Beteiligten haben die
 nach Art und Ausmaß der vorhersehbaren Gefahren erforderlichen
@@ -676,6 +681,7 @@ Anweisungen oder Genehmigungen der zuständigen Behörden erteilt sind.
 
 
 ## § 5 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000716123)
 
 (1) Die nach Landesrecht zuständigen Stellen können
 
@@ -800,6 +806,7 @@ werden kann.
 
 
 ## § 6 Zuständigkeiten des Bundesministeriums für Digitales und Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000814123)
 
 Das Bundesministerium für Digitales und Verkehr ist zuständige Behörde
 für
@@ -856,6 +863,7 @@ für
 
 
 ## § 7 Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern und für Heimat bestellten Sachverständigen oder Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE000913123)
 
 (1) Die vom Bundesministerium der Verteidigung bestellten
 Sachverständigen oder Dienststellen sind für die Bundeswehr und die
@@ -928,6 +936,7 @@ Dienststellen neben den nach Landesrecht zuständigen Behörden zur
 
 
 ## § 8 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001018123)
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung ist
 zuständige Behörde für
@@ -1094,6 +1103,7 @@ gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 
 ## § 9 Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001112123)
 
 Die von der Bundesanstalt für Materialforschung und -prüfung nach § 12
 Absatz 1 Nummer 8 der GGVSee anerkannten Prüfstellen sind zuständig
@@ -1105,6 +1115,7 @@ Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
 
 ## § 10 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001210123)
 
 Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der
 Bundeswehr ist, soweit es sich um den militärischen Bereich handelt,
@@ -1130,6 +1141,7 @@ zuständige Behörde für Aufgaben nach
 
 
 ## § 11 Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001311123)
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist
 zuständige Behörde für
@@ -1169,6 +1181,7 @@ zuständige Behörde für
 
 
 ## § 12 Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001417123)
 
 (1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-
 Verordnung, die für die Durchführung der nachfolgenden Aufgaben nach
@@ -1288,6 +1301,7 @@ vorgenannten Behörden und Stellen teilnehmen müssen.
 
 
 ## § 13 Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001513123)
 
 (1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung
 anerkannten Benannten Stellen sind zuständig für
@@ -1334,6 +1348,7 @@ Druckgeräte-Verordnung fallen.
 
 
 ## § 13a Zuständigkeiten der Benennenden Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005008123)
 
 Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-
 Druckgeräte-Verordnung ist zuständig für die Registrierung der
@@ -1345,6 +1360,7 @@ Buchstabe h ADR/RID.
 
 
 ## § 14 Besondere Zuständigkeiten im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001616123)
 
 (1) Das Bundesamt für Logistik und Mobilität ist zuständige Behörde
 für die Entgegennahme der Berichte über Ereignisse mit gefährlichen
@@ -1403,6 +1419,7 @@ Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
 
 ## § 15 Besondere Zuständigkeiten im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001716123)
 
 (1) Das Eisenbahn-Bundesamt ist zuständige Behörde für
 
@@ -1495,6 +1512,7 @@ dieser Verordnung nichts anderes bestimmt ist.
 
 
 ## § 16 Besondere Zuständigkeiten in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001816123)
 
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständige Behörde
 für
@@ -1701,6 +1719,7 @@ Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999
 
 
 ## § 17 Pflichten des Auftraggebers des Absenders
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE001911123)
 
 (1) Der Auftraggeber des Absenders im Straßen- und Eisenbahnverkehr
 sowie in der Binnenschifffahrt hat
@@ -1742,6 +1761,7 @@ gestellt werden.
 
 
 ## § 18 Pflichten des Absenders
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002015123)
 
 (1) Der Absender im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt hat
@@ -1919,6 +1939,7 @@ Binnenschifffahrt hat
 
 
 ## § 19 Pflichten des Beförderers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002117123)
 
 (1) Der Beförderer im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt
@@ -2220,6 +2241,7 @@ Binnenschifffahrt
 
 
 ## § 20 Pflichten des Empfängers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002210123)
 
 (1) Der Empfänger im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt
@@ -2264,6 +2286,7 @@ Wagen erst dann zurückstellen, wenn der Verstoß behoben worden ist.
 
 
 ## § 21 Pflichten des Verladers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002314123)
 
 (1) Der Verlader im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt
@@ -2458,6 +2481,7 @@ Binnenschifffahrt
 
 
 ## § 22 Pflichten des Verpackers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002413123)
 
 (1) Der Verpacker im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt hat
@@ -2535,6 +2559,7 @@ zu beachten.
 
 
 ## § 23 Pflichten des Befüllers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002516123)
 
 (1) Der Befüller im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt
@@ -2837,6 +2862,7 @@ Binnenschifffahrt
 
 
 ## § 23a Pflichten des Entladers
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004813123)
 
 (1) Der Entlader im Straßen- und Eisenbahnverkehr sowie in der
 Binnenschifffahrt hat
@@ -2971,6 +2997,7 @@ beachtet werden.
 
 
 ## § 24 Pflichten des Betreibers eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002615123)
 
 Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC,
 Schüttgut-Containers oder MEMU im Straßen- und Eisenbahnverkehr sowie
@@ -3025,6 +3052,7 @@ in der Binnenschifffahrt hat dafür zu sorgen, dass
 
 
 ## § 25 Pflichten des Herstellers, Wiederaufarbeiters und Rekonditionierers von Verpackungen, des Herstellers und Wiederaufarbeiters von IBC und der Stellen für Inspektionen und Prüfungen von IBC
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002711123)
 
 (1) Der Hersteller oder Wiederaufarbeiter im Straßen- und
 Eisenbahnverkehr sowie in der Binnenschifffahrt
@@ -3071,6 +3099,7 @@ Nebenbestimmungen eingehalten werden.
 
 
 ## § 26 Sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002813123)
 
 (1) Wer ungereinigte und nicht entgaste leere Tanks und UN-MEGC zur
 Beförderung übergibt, versendet oder selbst befördert, hat dafür zu
@@ -3136,6 +3165,7 @@ Tankschiffs hat
 
 
 ## § 27 Pflichten mehrerer Beteiligter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE002918123)
 
 (1) Der Verlader, Befüller, Beförderer, Entlader, Empfänger im
 Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt, der
@@ -3276,6 +3306,7 @@ Zone erfüllen.
 
 
 ## § 28 Pflichten des Fahrzeugführers im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003016123)
 
 Der Fahrzeugführer im Straßenverkehr hat
 
@@ -3415,6 +3446,7 @@ Krankheitsfall verschriebenen Arzneimittels herrührt.
 
 
 ## § 29 Pflichten mehrerer Beteiligter im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003113123)
 
 (1) Der Verlader und der Fahrzeugführer im Straßenverkehr haben die
 Vorschriften über die Beladung und die Handhabung nach den
@@ -3477,6 +3509,7 @@ werden.
 
 
 ## § 30 Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003210123)
 
 Der Betreiber eines Kesselwagens, abnehmbaren Tanks und Batteriewagens
 im Eisenbahnverkehr hat dafür zu sorgen, dass
@@ -3523,6 +3556,7 @@ im Eisenbahnverkehr hat dafür zu sorgen, dass
 
 
 ## § 30a Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005104123)
 
 (1) Die für die Instandhaltung zuständige Stelle (ECM) hat dafür zu
 sorgen, dass
@@ -3565,6 +3599,7 @@ Prüfungen der ECM überträgt, hat sie dafür zu sorgen, dass
 
 
 ## § 31 Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003308123)
 
 Der Betreiber der Eisenbahninfrastruktur im Eisenbahnverkehr
 
@@ -3590,6 +3625,7 @@ Der Betreiber der Eisenbahninfrastruktur im Eisenbahnverkehr
 
 
 ## § 31a Pflichten des Triebfahrzeugführers im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005204123)
 
 Der Triebfahrzeugführer im Eisenbahnverkehr muss nach Unterabschnitt
 5\.4.3.3 RID vor Antritt der Fahrt die schriftlichen Weisungen zu den
@@ -3597,6 +3633,7 @@ bei einem Unfall oder Zwischenfall zu ergreifenden Maßnahmen einsehen.
 
 
 ## § 32 Pflichten des Reisenden im Eisenbahnverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003408123)
 
 Der Reisende darf im Eisenbahnverkehr gefährliche Güter als Handgepäck
 oder Reisegepäck nur mitführen oder in oder auf Fahrzeugen (Auto im
@@ -3605,6 +3642,7 @@ Unterabschnitt 1.1.3.8 RID beachtet sind.
 
 
 ## § 33 Pflichten des Schiffsführers in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003512123)
 
 Der Schiffsführer in der Binnenschifffahrt
 
@@ -3682,6 +3720,7 @@ Der Schiffsführer in der Binnenschifffahrt
 
 
 ## § 34 Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003612123)
 
 Der Eigentümer oder, sofern das Schiff von einem Betreiber gechartert
 wurde, der Betreiber in der Binnenschifffahrt hat dafür zu sorgen,
@@ -3723,6 +3762,7 @@ dass
 
 
 ## § 34a Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004707123)
 
 Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben
 den Anweisungen des Schiffsführers Folge zu leisten. Die Besatzung
@@ -3731,6 +3771,7 @@ ihrerseits beizutragen.
 
 
 ## § 35 Verlagerung
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003715123)
 
 (1) Die in § 35b genannten gefährlichen Güter müssen in dem dort
 festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert
@@ -3799,6 +3840,7 @@ zuständigen Personen lesbar gemacht werden kann.
 
 
 ## § 35a Fahrweg im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005304123)
 
 (1) Beförderungen von in § 35b genannten gefährlichen Gütern, die
 teilweise oder vollständig im Straßenverkehr erfolgen, sind in dem
@@ -3841,6 +3883,7 @@ zuständigen Personen lesbar gemacht werden kann.
 
 
 ## § 35b Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005405123)
 
 Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 35a wie folgt:
@@ -4087,6 +4130,7 @@ Beförderungseinheit anzuwenden.
 
 
 ## § 35c Ausnahmen zu den §§ 35 und 35a
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005507123)
 
 (1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren
 Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet
@@ -4241,6 +4285,7 @@ Nummer 1)
 [^F827039_04_BJNR138900009BJNE005507123]: 
 
 ## § 36 Prüffrist für Feuerlöschgeräte
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003810123)
 
 Die Prüffrist nach Unterabschnitt 8.1.4.4 Satz 2 ADR beträgt für in
 Deutschland hergestellte Feuerlöschgeräte zwei Jahre ab dem
@@ -4249,6 +4294,7 @@ Feuerlöschgerät angegebenen Prüfung.
 
 
 ## § 36a Beförderung gefährlicher Güter als behördliche Asservate
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005605123)
 
 Sofern es aus ermittlungstaktischen Gründen oder zur Wahrnehmung einer
 behördlichen Aufgabe erforderlich ist, dürfen gefährliche Güter, denen
@@ -4263,6 +4309,7 @@ gilt auch für die Angabe in einem Beförderungspapier nach Absatz
 
 
 ## § 36b Beförderung erwärmter flüssiger und fester Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005703123)
 
 Für die Beförderung erwärmter flüssiger und fester Stoffe der UN-
 Nummern 3257 und 3258 in besonders ausgerüsteten Fahrzeugen/Wagen und
@@ -4271,6 +4318,7 @@ ADR/RID gelten die Anforderungen der Anlage 3.
 
 
 ## § 37 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE003918123)
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des
 Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -5463,6 +5511,7 @@ unberührt.
 
 
 ## § 38 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004016123)
 
 (1) Bis zum 30. Juni 2025 darf die Beförderung gefährlicher Güter noch
 nach den Vorschriften dieser Verordnung in der bis zum 31. Dezember
@@ -5475,9 +5524,11 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004412123)
 
 
 ## Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE004516123)
 
 (Fundstelle: BGBl. 2023 I Nr. 227, S. 42 – 46)
 
@@ -6409,6 +6460,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 (zu § 36b)
 
 ## Anlage 3 Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
+[Direktlink](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html#BJNR138900009BJNE005806123)
 
 (Fundstelle: BGBl. 2023 I Nr. 227, S. 47 – 53)
 

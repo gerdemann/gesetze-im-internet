@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euastroorgvorrprotv/BJNR203930975.html#BJNR203930975BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -33,6 +34,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/euastroorgvorrprotv/BJNR203930975.html#BJNR203930975BJNE000200314)
 
 Für die Gewährung von Vorrechten und Befreiungen an die Europäische
 Organisation für Astronomische Forschung in der Südlichen Hemisphäre,
@@ -46,6 +48,7 @@ Protokoll wird nachstehend veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/euastroorgvorrprotv/BJNR203930975.html#BJNR203930975BJNE000301307)
 
 Für die Organisation und die Mitglieder ihres Personals gelten nicht
 die deutschen Rechtsvorschriften über die Versicherungspflicht in der
@@ -62,6 +65,7 @@ für ausreichend gehalten werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/euastroorgvorrprotv/BJNR203930975.html#BJNR203930975BJNE000400314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 4
@@ -74,6 +78,7 @@ zwischenstaatliche Organisationen, zuletzt geändert durch Gesetz vom
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/euastroorgvorrprotv/BJNR203930975.html#BJNR203930975BJNE000500314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll
 nach seinen Artikeln 29 oder 31 für die Bundesrepublik Deutschland in

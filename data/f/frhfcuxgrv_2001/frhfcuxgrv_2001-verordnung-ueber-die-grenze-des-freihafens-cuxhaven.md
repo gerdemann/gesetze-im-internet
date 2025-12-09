@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/frhfcuxgrv_2001/BJNR377800001.html#BJNR377800001BJNE000100305)
 
 Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
 1992 (BGBl. I S. 2125, 1993 I S. 2493), der durch Artikel 1 Nr. 14
@@ -29,17 +30,20 @@ geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Grenze des Freihafens
+[Direktlink](https://www.gesetze-im-internet.de/frhfcuxgrv_2001/BJNR377800001.html#BJNR377800001BJNE000200305)
 
 Die Grenze des Freihafens Cuxhaven wird geändert. Ihr neuer Verlauf
 ergibt sich aus den Anlagen 1 und 2.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frhfcuxgrv_2001/BJNR377800001.html#BJNR377800001BJNE000300305)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/frhfcuxgrv_2001/BJNR377800001.html#BJNR377800001BJNE000401140)
 
 Die Grenze des Freihafens Cuxhaven verläuft von der Nordostecke des
 Abfertigungsgebäudes in südwestlicher Richtung auf einer Länge von
@@ -75,6 +79,7 @@ Abfertigungsgebäudes zu verlaufen.
 
 
 ## Anlage 2 (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/frhfcuxgrv_2001/BJNR377800001.html#BJNR377800001BJNE000501140)
 
 (Fundstelle: BGBl. I 2009, S. 3049)
 

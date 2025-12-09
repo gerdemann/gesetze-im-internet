@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000100000)
 
 Auf Grund des § 23b in Verbindung mit § 23a des Arbeitnehmer-
 Entsendegesetzes, die durch Artikel 1 Nummer 16a des Gesetzes vom 10.
@@ -29,6 +30,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000201126)
 
 (1) Die Gewährung einer Leistung aufgrund des Anspruchs nach § 31 des
 Arbeitnehmer-Entsendegesetzes soll durch den Deutschen
@@ -75,6 +77,7 @@ geeignete Unterlagen zu belegen.
 
 
 ## § 2 Leistungsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000301126)
 
 (1) Das Bundesministerium für Arbeit und Soziales entscheidet über den
 Antrag in Form eines Leistungsbescheids. Über den Antrag soll bis
@@ -138,6 +141,7 @@ Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes verlangt werden.
 
 
 ## § 3 Weiterleitung der Leistung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000400000)
 
 (1) Die Weiterleitung der Leistung an Dritte ist mit dem Antrag auf
 Gewährung der Leistung nach § 1 zu beantragen. Die Entscheidung des
@@ -178,6 +182,7 @@ widerrufen.
 
 
 ## § 4 Kontrolle der Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000501126)
 
 (1) Der Ergebnisbericht nach § 31 Absatz 6 Satz 2 des Arbeitnehmer-
 Entsendegesetzes besteht aus einem Sachbericht und einem zahlenmäßigen
@@ -220,6 +225,7 @@ Gewerkschaftsbund zu prüfen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bstv/BJNR229300020.html#BJNR229300020BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

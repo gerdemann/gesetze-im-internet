@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000100000)
 
 Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni
 2009 (BGBl. I S. 1346) in Verbindung mit dem 2. Abschnitt des
@@ -29,6 +30,7 @@ das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 
 
 ## § 1 Gebühren für Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000205130)
 
 (1) Für die Ausstellung eines Personalausweises sind folgende Gebühren
 zu erheben:
@@ -89,6 +91,7 @@ wenn die Person, die die Gebühr schuldet, bedürftig ist.
 
 
 ## § 2 Gebühr für die eID-Karte
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000303130)
 
 (1) Für die Ausstellung einer eID-Karte für Unionsbürger und
 Angehörige des Europäischen Wirtschaftsraums ist eine Gebühr von 37
@@ -100,6 +103,7 @@ Verbindung mit § 36b der Personalausweisverordnung erfolgt.
 
 
 ## § 3 Gebühren für Berechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000400000)
 
 Für Berechtigungen sind folgende Gebühren zu erheben:
 
@@ -117,6 +121,7 @@ Für Berechtigungen sind folgende Gebühren zu erheben:
 
 
 ## § 3a Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000500000)
 
 § 1 Absatz 1 Nummer 2 ist zwei Jahre nach Inkrafttreten hinsichtlich
 des Verwaltungskostenanteils der Personalausweisbehörden unter
@@ -125,11 +130,13 @@ Deutschen Städtetages zu evaluieren.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000600000)
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pauswgebv/BJNR147700010.html#BJNR147700010BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

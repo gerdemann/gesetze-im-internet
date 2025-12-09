@@ -23,20 +23,24 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000101307)
 
 
 
 ### § 1 Erwerb und Verlust der Mitgliedschaft im Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001203307)
 
 Erwerb und Verlust der Mitgliedschaft im Bundestag regeln sich nach
 den Vorschriften des Bundeswahlgesetzes.
 
 
 ## Zweiter Abschnitt - Mitgliedschaft im Bundestag und Beruf
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000201307)
 
 
 
 ### § 2 Schutz der freien Mandatsausübung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001302160)
 
 (1) Niemand darf gehindert werden, sich um ein Mandat im Bundestag zu
 bewerben, es zu erwerben, anzunehmen oder auszuüben.
@@ -54,6 +58,7 @@ Beendigung des Mandats fort.
 
 
 ### § 3 Wahlvorbereitungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001401307)
 
 Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner
 Wahl innerhalb der letzten zwei Monate vor dem Wahltag auf Antrag
@@ -62,6 +67,7 @@ Fortzahlung seiner Bezüge besteht für die Dauer der Beurlaubung nicht.
 
 
 ### § 4 Berufs- und Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001503311)
 
 (1) Die Zeit der Mitgliedschaft im Bundestag ist nach Beendigung des
 Mandats auf die Berufs- und Betriebszugehörigkeit anzurechnen.
@@ -73,10 +79,12 @@ Verbesserung der betrieblichen Altersversorgung vorgenommen.
 
 
 ## Dritter Abschnitt - Rechtsstellung der in den Bundestag gewählten Angehörigen des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000301307)
 
 
 
 ### § 5 Ruhen der Rechte und Pflichten aus einem öffentlich-rechtlichen Dienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001604377)
 
 (1) Die Rechte und Pflichten aus dem Dienstverhältnis eines in den
 Bundestag gewählten Beamten mit Dienstbezügen ruhen vom Tage der
@@ -105,6 +113,7 @@ Ernennung wirksam wird.
 
 
 ### § 6 Wiederverwendung nach Beendigung des Mandats
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001701307)
 
 (1) Nach der Beendigung der Mitgliedschaft im Bundestag ruhen die in
 dem Dienstverhältnis eines Beamten begründeten Rechte und Pflichten
@@ -132,6 +141,7 @@ Mitgliedschaft im Bundestag Mitglied der Bundesregierung gewesen ist.
 
 
 ### § 7 Dienstzeiten im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001803160)
 
 (1) Abweichend von § 27 Abs. 3 Satz 3 des Bundesbesoldungsgesetzes und
 unbeschadet des § 23 Abs. 5 verzögert die Zeit der Mitgliedschaft im
@@ -167,6 +177,7 @@ Grunde nach regeln.
 
 
 ### § 8 Beamte auf Zeit, Richter, Soldaten und Angestellte des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE001901307)
 
 (1) Die §§ 5 bis 7 gelten für Richter, Berufssoldaten und Soldaten auf
 Zeit entsprechend.
@@ -186,6 +197,7 @@ Religionsgesellschaften und ihrer Verbände.
 
 
 ### § 9 Hochschullehrer
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002006377)
 
 (1) Für die Rechtsstellung der in den Deutschen Bundestag gewählten
 Hochschullehrer im Sinne des § 42 des Hochschulrahmengesetzes findet §
@@ -203,16 +215,19 @@ Vorschriften anzuwenden.
 
 
 ### § 10 Wahlbeamte auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002101307)
 
 Die Länder können durch Gesetz für Wahlbeamte auf Zeit von § 6
 abweichende Regelungen treffen.
 
 
 ## Vierter Abschnitt - Leistungen an Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000401307)
 
 
 
 ### § 11 Abgeordnetenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002222377)
 
 (1) Die monatliche Entschädigung eines Mitglieds des Deutschen
 Bundestages orientiert sich an den Bezügen eines Richters an einem
@@ -252,6 +267,7 @@ bestätigt oder ändert.
 
 
 ### § 12 Amtsausstattung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002320377)
 
 (1) Ein Mitglied des Bundestages erhält zur Abgeltung seiner durch das
 Mandat veranlaßten Aufwendungen eine Amtsausstattung als
@@ -351,6 +367,7 @@ verminderte Kostenpauschale.
 
 
 ### § 13 Wegfall des Anspruchs auf Aufwandsentschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002401307)
 
 Ein Mitglied des Bundestages, das im letzten Vierteljahr der
 Wahlperiode in den Bundestag eintritt, hat keinen Anspruch auf die
@@ -359,6 +376,7 @@ bereits abgeschlossen hat.
 
 
 ### § 14 Kürzung der Kostenpauschale
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002507125)
 
 (1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der
 Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
@@ -421,6 +439,7 @@ in den Fällen des Absatzes 2 und des Absatzes 3 Nummer 7.
 
 
 ### § 15 Bezug anderer Tage- oder Sitzungsgelder
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002602377)
 
 Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in
 die Anwesenheitsliste des Bundestages eingetragen hat, Tage- oder
@@ -432,6 +451,7 @@ fallen.
 
 
 ### § 16 Freifahrtberechtigung und Erstattung von Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002707377)
 
 (1) Ein Mitglied des Bundestages hat das Recht auf freie Benutzung
 aller Verkehrsmittel der Deutschen Bahn AG. Benutzt es in Ausübung des
@@ -449,6 +469,7 @@ erstattet werden.
 
 
 ### § 17 Dienstreisen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002806311)
 
 (1) Dienstreisen bedürfen der vorherigen Zustimmung des Präsidenten.
 
@@ -488,10 +509,12 @@ gültigen Fassung sinngemäß Anwendung.
 
 
 ## Fünfter Abschnitt - Leistungen an ehemalige Mitglieder des Bundestages und ihre Hinterbliebenen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000501307)
 
 
 
 ### § 18 Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE002905116)
 
 (1) Ein ausscheidendes Mitglied mit einer Mitgliedschaft von
 mindestens einem Jahr erhält Übergangsgeld. Das Übergangsgeld wird in
@@ -537,6 +560,7 @@ Bundeswahlgesetzes nach sich zieht.
 
 
 ### § 19 Anspruch auf Altersentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003004116)
 
 (1) Ein Mitglied erhält nach seinem Ausscheiden eine
 Altersentschädigung, wenn es das 67. Lebensjahr vollendet und dem
@@ -728,6 +752,7 @@ verminderten Betrag der Altersentschädigung.
 
 
 ### § 20 Höhe der Altersentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003106116)
 
 Die Altersentschädigung bemißt sich nach der monatlichen
 Abgeordnetenentschädigung (§ 11 Abs. 1). Der Steigerungssatz beträgt
@@ -742,6 +767,7 @@ entsprechend.
 
 
 ### § 21 Berücksichtigung von Zeiten in anderen Parlamenten
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003204307)
 
 (1) Zeiten der Mitgliedschaft im Parlament eines Landes der
 Bundesrepublik Deutschland gelten auf Antrag als Zeiten der
@@ -764,6 +790,7 @@ Rentenanwartschaften und -ansprüche rückabzuwickeln.
 
 
 ### § 22 Gesundheitsschäden
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003308160)
 
 (1) Hat ein Mitglied während seiner Zugehörigkeit zum Bundestag ohne
 sein grobes Verschulden Gesundheitsschäden erlitten, die seine
@@ -792,6 +819,7 @@ im Sinne des Beamtenrechts.
 
 
 ### § 23 Versorgungsabfindung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003406377)
 
 (1) Ein Mitglied, das bei seinem Ausscheiden weder eine Anwartschaft
 noch einen Anspruch auf Altersentschädigung nach den §§ 19 bis 22
@@ -842,6 +870,7 @@ entsprechend.
 
 
 ### § 24 Überbrückungsgeld für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003506116)
 
 (1) Die Hinterbliebenen eines Mitglieds des Bundestages erhalten die
 noch nicht abgerechneten Leistungen nach diesem Gesetz, soweit sie im
@@ -864,6 +893,7 @@ Bundestages, das die Voraussetzungen der Mitgliedschaftsdauer nach §
 
 
 ### § 25 Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003605377)
 
 (1) Der überlebende Ehegatte oder Lebenspartner eines Mitglieds oder
 ehemaligen Mitglieds des Bundestages erhält 60 vom Hundert der
@@ -892,6 +922,7 @@ Mitgliedschaft von 13 Jahren.
 
 
 ### § 25a Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006004160)
 
 (1) Anrechte auf Altersentschädigung werden intern geteilt.
 
@@ -905,6 +936,7 @@ Versorgungsausgleichsgesetzes (unmittelbare Bewertung).
 
 
 ### § 25b Maßnahmen zur Kostendämpfung bei Versorgungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007502377)
 
 (1) Unter den in § 25 genannten Voraussetzungen erhält der überlebende
 Ehegatte oder Lebenspartner 55 vom Hundert der jeweiligen
@@ -941,6 +973,7 @@ entsprechend.
 
 
 ### § 26 Anwendung beamtenrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003704311)
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, sind die für die
 Bundesbeamten geltenden versorgungsrechtlichen Vorschriften sinngemäß
@@ -950,10 +983,12 @@ Beamtenversorgungsgesetzes entsprechend.
 
 
 ## Sechster Abschnitt - Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000602377)
 
 
 
 ### § 27 Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003811377)
 
 (1) Die Mitglieder des Bundestages erhalten einen Zuschuss zu den
 notwendigen Kosten in Krankheits-, Pflege-, und Geburtsfällen in
@@ -1010,6 +1045,7 @@ mitzuteilen; sie bleiben an diese Entscheidung gebunden.
 
 
 ### § 28 Unterstützungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE003901307)
 
 Der Präsident kann in besonderen Fällen einem Mitglied des Bundestages
 einmalige Unterstützungen, einem ausgeschiedenen Mitglied und seinen
@@ -1018,10 +1054,12 @@ Unterhaltszuschüsse gewähren.
 
 
 ## Siebenter Abschnitt - Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000701307)
 
 
 
 ### § 29 Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004011377)
 
 (1) Hat ein Mitglied des Bundestages neben der
 Abgeordnetenentschädigung nach § 11 Anspruch auf Einkommen aus einem
@@ -1115,14 +1153,17 @@ hierzu erlassenen Vorschriften.
 
 
 ## Achter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000801307)
 
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004108116)
 
 
 
 ### § 31 Verzicht, Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004203307)
 
 Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die
 Leistungen nach § 12 sowie nach dem Fünften Abschnitt mit Ausnahme des
@@ -1133,6 +1174,7 @@ der Zivilprozeßordnung.
 
 
 ### § 32 Beginn und Ende der Ansprüche, Zahlungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004308377)
 
 (1) Die in den §§ 11, 12, 16, 27 und 28 geregelten Ansprüche entstehen
 mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Absatz 3
@@ -1185,10 +1227,12 @@ Dreißigstel gezahlt.
 
 
 ### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004403116)
 
 
 
 ### § 34 Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004503377)
 
 (1) Soweit durch Bundesgesetz dazu ermächtigt, kann der Ältestenrat
 Ausführungsbestimmungen zur Rechtsstellung der Mitglieder des
@@ -1201,10 +1245,12 @@ Gesetz erlassen.
 
 
 ## Neunter Abschnitt - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG000901307)
 
 
 
 ### § 35 Übergangsregelung zum Elften Änderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004603311)
 
 (1) Versorgungsansprüche und Versorgungsanwartschaften, die vor dem
 Inkrafttreten des Elften Änderungsgesetzes entstanden sind, bleiben
@@ -1239,6 +1285,7 @@ die sich nach diesem Gesetz ergibt.
 
 
 ### § 35a Übergangsregelungen zum Neunzehnten Änderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007308116)
 
 (1) Für Mitglieder, die am 22. Dezember 1995 dem Bundestag angehören,
 ehemalige Mitglieder des Bundestages und ihre Hinterbliebenen gelten
@@ -1274,6 +1321,7 @@ Wahlrechts, findet die jeweils günstigere Fassung Anwendung.
 
 
 ### § 35b Übergangsregelungen zum Siebenundzwanzigsten Änderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007702116)
 
 (1) Auf alle bis zum 31. Dezember 2007 entstandenen Ansprüche und
 Anwartschaften von Mitgliedern des Bundestages, ehemaligen Mitgliedern
@@ -1310,6 +1358,7 @@ Absatz 2 und der Entschädigung nach § 11 errechnet wird.
 
 
 ### § 35c Übergangsregelungen zum Dreißigsten Änderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007800116)
 
 Auf alle bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages
 entstandenen Ansprüche und Anwartschaften von Mitgliedern des
@@ -1321,6 +1370,7 @@ unberührt.
 
 
 ### § 36 Übergangsregelung für die Angehörigen des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004701307)
 
 (1) Der auf Grund des Gesetzes über die Rechtsstellung der in den
 ersten Deutschen Bundestag gewählten Angehörigen des öffentlichen
@@ -1351,6 +1401,7 @@ begründeten Rechte erhalten.
 
 
 ### § 37 Versorgung vor 1968 ausgeschiedener Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004801307)
 
 Der Präsident gewährt auf Antrag einem ehemaligen Mitglied, das vor
 dem 1. Januar 1968 aus dem Bundestag ausgeschieden ist, sowie seinen
@@ -1361,6 +1412,7 @@ VIII des Gesetzes vom 18. Februar 1977 (BGBl. I S. 297).
 
 
 ### § 38 Versorgung für Zeiten vor Inkrafttreten dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE004901307)
 
 (1) Ein Mitglied des Bundestages, das in der Zeit vom 1. Januar 1968
 bis zum Inkrafttreten dieses Gesetzes ausgeschieden ist, und seine
@@ -1397,6 +1449,7 @@ Bundestages zu stellen.
 
 
 ### § 38a
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005001307)
 
 (1) Versorgungsempfänger nach den §§ 37 und 38 Abs. 1 erhalten
 anstelle ihrer bisherigen Versorgung auf Antrag Versorgung nach dem
@@ -1413,6 +1466,7 @@ Bundestages zu stellen. Das gleiche gilt für Hinterbliebene.
 
 
 ### § 38b Hinterbliebenenversorgung bei Tod während der Mitgliedschaft im Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006101307)
 
 Hinterbliebene nach § 25 Abs. 4, deren Versorgungsfall in der Zeit vom
 1\. April 1977 bis zum Inkrafttreten des Siebten Änderungsgesetzes
@@ -1421,6 +1475,7 @@ Antragstellung an Versorgung nach § 25 Abs. 4.
 
 
 ### § 39 Anrechnung früherer Versorgungsbezüge
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005101307)
 
 (1) Versorgungsbezüge nach dem Diätengesetz 1968 werden gemäß § 10
 Diätengesetz 1968 nicht in die Anrechnung nach § 29 Abs. 3 und 4
@@ -1434,6 +1489,7 @@ Zeiten nach § 21 des Diätengesetzes 1968 gelten als Beitragszeiten.
 
 
 ### § 40 Gekürzte Versorgungsabfindung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005201307)
 
 Für Zeiten der Mitgliedschaft unter der Geltung des Diätengesetzes
 1968 wird die halbe Versorgungsabfindung nach § 23 gezahlt. In diesem
@@ -1442,6 +1498,7 @@ Diätengesetzes 1968 auf Antrag erstattet.
 
 
 ### § 41 Fortsetzung der Todesfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005301307)
 
 Die bei Inkrafttreten dieses Gesetzes bestehende Todesfallversicherung
 wird mit der Maßgabe fortgesetzt, daß die zu zahlende
@@ -1451,6 +1508,7 @@ Versicherungsnehmerin zu der Todesfallversicherung gekürzt werden.
 
 
 ### § 42 Umwandlung oder Auflösung der Todesfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005401307)
 
 (1) Ein Mitglied oder ehemaliges Mitglied des Bundestages, das sich
 nach § 20 des Diätengesetzes 1968 für die Fortsetzung der Versicherung
@@ -1470,6 +1528,7 @@ eigenen Beiträgen beruhende Rückkaufswert erstattet.
 
 
 ### § 43 Weiterzahlung des Übergangsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005501307)
 
 Ein ehemaliges Mitglied des Bundestages, das beim Inkrafttreten dieses
 Gesetzes Aufwandsentschädigung nach dem Diätengesetz 1968 bezieht,
@@ -1477,6 +1536,7 @@ behält diesen Anspruch.
 
 
 ### § 44 Anrechnung von Zeiten für das Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005601307)
 
 Zeiten der Mitgliedschaft im Bundestag, die vor Inkrafttreten dieses
 Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den
@@ -1484,10 +1544,12 @@ Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den
 
 
 ## Zehnter Abschnitt - Unabhängigkeit des Abgeordneten
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG001001307)
 
 
 
 ### § 44a Unabhängigkeit des Mandats
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE005707377)
 
 (1) Die Ausübung des Mandats steht im Mittelpunkt der Tätigkeit eines
 Mitglieds des Bundestages. Unbeschadet dieser Verpflichtung bleiben
@@ -1537,10 +1599,12 @@ Verlust der Mitgliedschaft im Bundestag nicht berührt.
 
 
 ### § 44b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007602377)
 
 
 
 ### § 44c Überprüfung auf Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007401377)
 
 (1) Mitglieder des Bundestages können beim Präsidenten schriftlich die
 Überprüfung auf eine hauptamtliche oder inoffizielle Tätigkeit oder
@@ -1562,6 +1626,7 @@ Bundestag in Richtlinien fest.
 
 
 ### § 44d Verschwiegenheitspflicht und Aussagegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007202377)
 
 (1) Die Abgeordneten des Deutschen Bundestages dürfen, auch nach
 Beendigung ihres Mandats, ohne Genehmigung weder vor Gericht noch
@@ -1582,6 +1647,7 @@ erheblich erschweren würde.
 
 
 ### § 44e Ordnungsmaßnahmen wegen Verletzung der Ordnung oder der Würde des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007901125)
 
 (1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder
 der Würde des Bundestages bei dessen Sitzungen kann der Präsident
@@ -1610,6 +1676,7 @@ Bundesverfassungsgericht.
 
 
 ### § 44f Ordnungsmaßnahmen wegen Verletzung der Hausordnung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008900125)
 
 (1) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des
 Bundestages kann der Präsident gegen ein Mitglied des Bundestages ein
@@ -1625,10 +1692,12 @@ Entscheidungen nach Absatz 1 ist das Bundesverfassungsgericht.
 
 
 ## Elfter Abschnitt - Verhaltensregeln für die Mitglieder des Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG001202377)
 
 
 
 ### § 45 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006202377)
 
 (1) Ein Mitglied des Bundestages ist verpflichtet, dem Präsidenten aus
 der Zeit vor seiner Mitgliedschaft im Bundestag schriftlich oder in
@@ -1744,6 +1813,7 @@ Präsidenten einzureichen.
 
 
 ### § 46 Rechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008100377)
 
 (1) Mitglieder des Bundestages, die gegen Entgelt gerichtlich oder
 außergerichtlich für die Bundesrepublik Deutschland auftreten, haben
@@ -1763,6 +1833,7 @@ bundesunmittelbare Körperschaften, Anstalten oder Stiftungen des
 
 
 ### § 47 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008200377)
 
 Die anzeigepflichtigen Angaben gemäß § 45 Absatz 1 Nummer 1 und Absatz
 2 bis 4 werden auf den Internetseiten des Bundestages veröffentlicht.
@@ -1772,6 +1843,7 @@ Rechtsposition.
 
 
 ### § 48 Geldwerte Zuwendungen (Spenden)
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008300377)
 
 (1) Ein Mitglied des Bundestages hat über geldwerte Zuwendungen aller
 Art (Spenden), die ihm im Rahmen eines ehrenamtlichen politischen
@@ -1826,6 +1898,7 @@ zu übermitteln.
 
 
 ### § 49 Interessenverknüpfung im Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008401377)
 
 Ein Mitglied des Bundestages, das entgeltlich mit einem
 Beratungsgegenstand beschäftigt ist, zu dem es in einem Ausschuss des
@@ -1842,6 +1915,7 @@ werden in der Beschlussempfehlung des Ausschusses angemerkt.
 
 
 ### § 50 Rückfrage
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008500377)
 
 In Zweifelsfragen ist das Mitglied des Bundestages verpflichtet, sich
 durch Rückfragen beim Präsidenten über den Inhalt seiner Pflichten
@@ -1849,6 +1923,7 @@ nach diesen Verhaltensregeln zu vergewissern.
 
 
 ### § 51 Verfahren bei Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008600377)
 
 (1) Bestehen Anhaltspunkte dafür, dass ein Mitglied des Bundestages
 seine Pflichten nach § 44a Absatz 2 bis 4 oder den Verhaltensregeln
@@ -1927,12 +2002,14 @@ Zuführungen nach § 44a Absatz 5 enthält.
 
 
 ### § 52 Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008700377)
 
 Der Ältestenrat erlässt Ausführungsbestimmungen über Inhalt und Umfang
 der im Zehnten und Elften Abschnitt vorgesehenen Pflichten.
 
 
 ### § 52a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008800377)
 
 Für Beteiligungen, die bei Inkrafttreten dieses Gesetzes bereits
 gehalten werden und für die nach bisherigem Recht keine
@@ -1942,10 +2019,12 @@ nach dem Inkrafttreten.
 
 
 ## Zwölfter Abschnitt - Fraktionen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNG001300377)
 
 
 
 ### § 53 Fraktionsbildung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE008000377)
 
 (1) Mitglieder des Bundestages können sich zu Fraktionen
 zusammenschließen.
@@ -1954,6 +2033,7 @@ zusammenschließen.
 
 
 ### § 54 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006302377)
 
 (1) Die Fraktionen sind rechtsfähige Vereinigungen von Abgeordneten im
 Deutschen Bundestag.
@@ -1965,6 +2045,7 @@ Deutschen Bundestag.
 
 
 ### § 55 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006403377)
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen
 Bundestages mit.
@@ -1990,6 +2071,7 @@ Bundestag oder zum Europäischen Parlament bedarf die
 
 
 ### § 56 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006502377)
 
 (1) Die Fraktionen sind verpflichtet, ihre Organisation und
 Arbeitsweise auf den Grundsätzen der parlamentarischen Demokratie
@@ -1999,6 +2081,7 @@ aufzubauen und an diesen auszurichten.
 
 
 ### § 57 Geheimhaltungspflicht der Fraktionsangestellten
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006602377)
 
 (1) Angestellte der Fraktionen sind, auch nach Beendigung ihres
 Beschäftigungsverhältnisses, verpflichtet, über die ihnen bei ihrer
@@ -2018,6 +2101,7 @@ Grundordnung für deren Erhaltung einzutreten.
 
 
 ### § 58 Geld- und Sachleistungen
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006704377)
 
 (1) Die Fraktionen haben zur Erfüllung ihrer Aufgaben Anspruch auf
 Geld- und Sachleistungen aus dem Bundeshaushalt.
@@ -2055,6 +2139,7 @@ werden.
 
 
 ### § 59 Haushalts- und Wirtschaftsführung, Buchhaltung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006803377)
 
 (1) Einzelheiten der Haushalts- und Wirtschaftsführung können in
 Ausführungsbestimmungen geregelt werden, die der Ältestenrat nach
@@ -2073,6 +2158,7 @@ geringem Wert sind, zu kennzeichnen und in einem Nachweis aufzuführen.
 
 
 ### § 60 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE006902377)
 
 (1) Die Fraktionen haben über die Herkunft und die Verwendung der
 Mittel, die ihnen innerhalb eines Kalenderjahres (Rechnungsjahr) gemäß
@@ -2186,6 +2272,7 @@ Geld- und Sachleistungen nach § 58 Absatz 1 zurückzubehalten.
 
 
 ### § 61 Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007002377)
 
 (1) Der Bundesrechnungshof prüft die Rechnung sowie die den Fraktionen
 nach § 58 Absatz 1 zur Verfügung gestellten Geld- und Sachleistungen
@@ -2198,6 +2285,7 @@ der Fraktionen ist nicht Gegenstand der Prüfung.
 
 
 ### § 62 Beendigung der Rechtsstellung und Liquidation
+[Direktlink](https://www.gesetze-im-internet.de/abgg/BJNR102970977.html#BJNR102970977BJNE007102377)
 
 (1) Die Rechtsstellung nach § 54 entfällt
 

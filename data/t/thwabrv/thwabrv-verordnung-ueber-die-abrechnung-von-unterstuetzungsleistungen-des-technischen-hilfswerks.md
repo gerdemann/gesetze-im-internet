@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 215-10-4 v. 13.12.2012 I 2674 (THW-AbrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000100000)
 
 Auf Grund des § 6 Absatz 3 des THW-Gesetzes, der durch Artikel 1
 Nummer 5 des Gesetzes vom 15. April 2020 (BGBl. I S. 808) neu gefasst
@@ -27,6 +28,7 @@ Heimat:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000200000)
 
 Diese Verordnung regelt die Bemessung, Abrechnung und Festsetzung der
 Auslagen und Gebühren für technische Unterstützungsleistungen des
@@ -34,6 +36,7 @@ Technischen Hilfswerks.
 
 
 ## § 2 Bemessung und Ermittlung von Kosten sowie Geltendmachung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000300000)
 
 (1) Zu den Auslagen für im Rahmen der Amtshilfe erbrachte technische
 Unterstützungsleistungen zählen auch die Kosten für die Helferinnen
@@ -70,6 +73,7 @@ feste Satz nach der Formel in Abschnitt 2 der Anlage.
 
 
 ## § 3 Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000400000)
 
 (1) Das Technische Hilfswerk kann auf die Erhebung von Auslagen und
 Gebühren aus Gründen der Billigkeit oder eines überwiegenden
@@ -106,6 +110,7 @@ vollständiger Verzicht soll dem Ausnahmefall vorbehalten sein.
 
 
 ## § 4 Abrechnung von auf Grund einer Vereinbarung geleisteter technischer Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000500000)
 
 Eine Vereinbarung über die Erbringung technischer
 Unterstützungsleistungen durch das Technische Hilfswerk soll eine
@@ -117,6 +122,7 @@ Abrechnung nach dieser Verordnung und der Verwaltungsvorschrift nach §
 
 
 ## § 5 Verwaltungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000600000)
 
 Das Technische Hilfswerk erlässt eine Verwaltungsvorschrift zu dieser
 Verordnung. Die Verwaltungsvorschrift bedarf der Zustimmung des
@@ -124,6 +130,7 @@ Bundesministeriums des Innern, für Bau und Heimat.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000700000)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Kalendermonats in Kraft. Gleichzeitig tritt die THW-
@@ -134,6 +141,7 @@ geändert worden ist, außer Kraft.
 (zu § 2 Absatz 3)
 
 ## Anlage Auslagen und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/thwabrv/BJNR466700021.html#BJNR466700021BJNE000800000)
 
 (Fundstelle: BGBl. I 2021, 4669 - 4673)
 

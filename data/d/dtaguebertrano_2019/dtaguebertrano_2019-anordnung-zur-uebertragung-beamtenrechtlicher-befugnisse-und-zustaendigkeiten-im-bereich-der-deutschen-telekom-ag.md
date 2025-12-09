@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtag_bertrano_2019/BJNR111200019.html#BJNR111200019BJNE000100000)
 
 Nach
 
@@ -44,6 +45,7 @@ ordnet der Vorstand der Deutschen Telekom AG an:
 
 
 ## § 1 Befugnisse und Zuständigkeiten im Bereich des allgemeinen Beamtenrechts und des Besoldungsrechts einschließlich der Entscheidung über Widersprüche und Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/dtag_bertrano_2019/BJNR111200019.html#BJNR111200019BJNE000201311)
 
 (1) Die Ausübung der dienstrechtlichen Befugnisse des Vorstands der
 Deutschen Telekom AG wird, soweit im Folgenden nichts anderes bestimmt
@@ -79,6 +81,7 @@ Beamtenverhältnis wird der Abteilung Sovereign Civil Servants Services
 
 
 ## § 2 Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
+[Direktlink](https://www.gesetze-im-internet.de/dtag_bertrano_2019/BJNR111200019.html#BJNR111200019BJNE000302311)
 
 (1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß, zur
 Zurückstufung und zur Entfernung aus dem Beamtenverhältnis werden der
@@ -90,6 +93,7 @@ Civil Servants Services übertragen.
 
 
 ## § 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/dtag_bertrano_2019/BJNR111200019.html#BJNR111200019BJNE000400000)
 
 Der Vorstand der Deutschen Telekom AG behält sich vor, die
 übertragenen Befugnisse im Einzelfall oder in bestimmten Gruppen von
@@ -97,6 +101,7 @@ Fällen und in jedem Stadium des Verfahrens selbst wahrzunehmen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dtag_bertrano_2019/BJNR111200019.html#BJNR111200019BJNE000500000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 2019 in Kraft.
 Gleichzeitig tritt die Anordnung zur Übertragung beamtenrechtlicher

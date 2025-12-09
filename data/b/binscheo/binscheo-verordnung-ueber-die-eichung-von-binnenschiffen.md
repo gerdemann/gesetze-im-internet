@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE006402119)
 
 Erster Abschnitt
 ## Allgemeine Vorschriften
@@ -306,10 +307,12 @@ Anlagen
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000101119)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE000906119)
 
 Im Sinne dieser Verordnung sind:
 
@@ -371,12 +374,14 @@ Im Sinne dieser Verordnung sind:
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001001119)
 
 Diese Verordnung gilt für die Eichung von Schiffen auf
 Bundeswasserstraßen.
 
 
 ### § 3 Schiffseichamt
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001104119)
 
 (1) Die Eichung von Schiffen obliegt der Zentralstelle mit ihrem
 Außendienst als Schiffseichamt.
@@ -387,6 +392,7 @@ Verkehrsblatt oder Bundesanzeiger bekanntgemacht.
 
 
 ### § 4 Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001205119)
 
 (1) Die Zentralstelle nimmt die Aufgaben der Zentralstelle nach
 Artikel 8 des Übereinkommens wahr.
@@ -419,10 +425,12 @@ teilnehmen.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001302119)
 
 
 
 ### § 6 Arten der Eichung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001401119)
 
 (1) Bei Schiffen, die zur Beförderung von Gütern bestimmt sind, wird
 die Wasserverdrängung bei bestimmten Schwimmebenen und die größte
@@ -440,6 +448,7 @@ die Eichung nach dem Dritten Abschnitt begehrt.
 
 
 ### § 7 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001504119)
 
 (1) Voraussetzungen für eine Eichung sind, dass
 
@@ -476,6 +485,7 @@ stattfinden.
 
 
 ### § 8 Eichschein
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001605119)
 
 (1) Das Schiffseichamt stellt für jedes von ihm geeichte Schiff einen
 Eichschein aus, und zwar
@@ -517,6 +527,7 @@ der Eichscheine und Eichbescheinigungen entsprechend.
 
 
 ### § 9 Verlängerung des Eichscheins
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001703119)
 
 (1) Die Verlängerung der Geltungsdauer eines Eichscheins kann bei dem
 Schiffseichamt beantragt werden. Die Geltungsdauer ist zu verlängern,
@@ -562,6 +573,7 @@ ohne eine Überprüfung nach den Absätzen 1 und 2 verlängert werden.
 
 
 ### § 10 Namensänderung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001802119)
 
 Wird der Name oder die Devise des Schiffes geändert, hat der
 Eigentümer dies dem Schiffseichamt mitzuteilen. Es trägt die
@@ -570,6 +582,7 @@ Rubrik ein.
 
 
 ### § 11 Berichtigungen im Eichschein
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE001902119)
 
 (1) Wird durch eine Veränderung des Schiffes, die die Ungültigkeit des
 Eichscheins nach § 8 Absatz 4 in Verbindung mit § 9 Absatz 2 nicht zur
@@ -592,6 +605,7 @@ vorgenommen werden.
 
 
 ### § 12 Vorläufige Eichbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002002119)
 
 Auf Antrag kann eine auf höchstens sechs Monate befristete vorläufige
 Eichbescheinigung über das vorläufige Eichergebnis ausgestellt werden,
@@ -611,6 +625,7 @@ Eichscheins ihre Gültigkeit.
 
 
 ### § 13 Messgeräte
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002103119)
 
 Bei der Eichung sind Messgeräte der nachfolgend genannten Art zu
 verwenden, die den Bestimmungen des Mess- und Eichgesetzes entsprechen
@@ -642,10 +657,12 @@ müssen:
 
 
 ## Zweiter Abschnitt - Schiffe, die zur Beförderung von Gütern bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000201119)
 
 
 
 ### § 14 Genauigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002201119)
 
 Die Eichung soll so sorgfältig durchgeführt werden, dass eine
 Genauigkeit im Ergebnis erreicht wird, deren Fehler geringer sind als
@@ -670,6 +687,7 @@ handelt, die gegebenen Eintauchungsunterschieden entsprechen.
 
 
 ### § 15 Aufnahme der Maße
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002301119)
 
 (1) Alle Maße werden am Schiff selbst genommen.
 
@@ -690,6 +708,7 @@ müssen nach Maßstab und Maßhaltigkeit für die Eichung geeignet sein.
 
 
 ### § 16 Eichraum
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002401119)
 
 Der Eichraum ist der auszumessende Teil des Schiffes, der von der
 Leerebene (§ 17), der oberen Eichebene (§ 18) und den Außenseiten der
@@ -700,6 +719,7 @@ berücksichtigen.
 
 
 ### § 17 Leerebene und untere Eichebene
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002501119)
 
 (1) Die Leerebene ist diejenige Schwimmebene, welche das Schiff in
 Süßwasser (Dichte = 1) in folgendem Zustand einnimmt:
@@ -742,6 +762,7 @@ einnimmt, wird als untere Eichebene bezeichnet.
 
 
 ### § 18 Obere Eichebene
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002601119)
 
 (1) Die obere Eichebene ist diejenige Schwimmebene, welche das Schiff
 einnimmt, wenn es unvertrimmt in der Ebene der höchstzulässigen
@@ -752,6 +773,7 @@ Freibord entspricht, den das zu eichende Schiff einzuhalten hat.
 
 
 ### § 19 Aufmaß und Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002701119)
 
 (1) Der Eichraum wird bei Schiffen, die in der Leerebene unvertrimmt
 schwimmen, durch waagerechte Flächen, die parallel verlaufen, oder –
@@ -823,6 +845,7 @@ einzutragen.
 
 
 ### § 20 Eichmarken
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002802119)
 
 (1) An den Seiten des Schiffes sind paarweise Eichmarken anzubringen;
 sie müssen zur senkrechten Ebene durch die Längsachse des Schiffes
@@ -870,6 +893,7 @@ Absatz 3 nur 3 cm.
 
 
 ### § 21 Eichzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE002902119)
 
 (1) Als Nachweis der Eichung wird dem Schiff ein Eichzeichen gegeben.
 
@@ -890,6 +914,7 @@ ist. Diese Stelle ist im Eichschein in der Rubrik 31 anzugeben.
 
 
 ### § 22 Eichskalen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003001119)
 
 Unter jeder Eichmarke kann eine Eichskala angebracht werden. Der
 Nullpunkt dieser Skala ist auf die waagerechte Ebene zu beziehen, die
@@ -899,6 +924,7 @@ Ebene an der Stelle der Skala berührt.
 
 
 ### § 23 Tragfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003101119)
 
 Die Tragfähigkeit in Süßwasser mit der Dichte 1 entspricht der
 Wasserverdrängung von der Leerebene bis zur oberen Eichebene. Die
@@ -907,10 +933,12 @@ einzutragen, wobei auf 3 Dezimalstellen gerundet wird.
 
 
 ## Dritter Abschnitt - Schiffe, die nicht zur Beförderung von Gütern bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000301119)
 
 
 
 ### § 24 Leerebene und untere Eichebene
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003201119)
 
 (1) Die Leerebene und die untere Eichebene sind die in § 17 Absatz 1
 und 4 genannten Schwimmebenen.
@@ -919,6 +947,7 @@ und 4 genannten Schwimmebenen.
 
 
 ### § 25 Ebene der größten Eintauchung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003302119)
 
 (1) Bei Schiffen, die der Untersuchungspflicht nach der
 Binnenschiffsuntersuchungsordnung unterliegen, wird die Ebene der
@@ -934,6 +963,7 @@ sowie gegebenenfalls vorgesehene Personen an Bord sind.
 
 
 ### § 26 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003401119)
 
 (1) Die Feststellung der Wasserverdrängung nach § 6 Absatz 2 erfolgt
 entweder
@@ -1014,6 +1044,7 @@ Eichschein (Rubrik 34) eingetragen.
 
 
 ### § 27 Tragfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003501119)
 
 (1) Die Tragfähigkeit wird auf Antrag festgestellt und im Eichschein
 (Rubrik 22) eingetragen.
@@ -1023,6 +1054,7 @@ Ermittlung der Tragfähigkeit verwendet werden.
 
 
 ### § 28 Eichmarken
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003602119)
 
 (1) Die Schiffe erhalten Eichmarken nach § 20. Es genügt eine
 Eichmarke auf halber Schiffslänge.
@@ -1033,21 +1065,25 @@ der Eichmarke entsprechend § 20 Absatz 3 Satz 2 verzichtet werden.
 
 
 ### § 29 Eichzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003701119)
 
 Die Schiffe erhalten Eichzeichen nach § 21.
 
 
 ## Vierter Abschnitt - Sportboot-Eichverfahren
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000401119)
 
 
 
 ### § 30 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003801119)
 
 Die Wasserverdrängung ist nach der Formel des § 26 Absatz 1 Nummer 2
 festzustellen.
 
 
 ### § 31 Ebene der größten Eintauchung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE003901119)
 
 (1) Bei der Eichung eines Sportboots nach den §§ 32, 33 oder 37 wird
 die Ebene der größten Eintauchung festgelegt, indem am schwimmenden
@@ -1067,6 +1103,7 @@ werden.
 
 
 ### § 32 Berechnung der Wasserverdrängung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004001119)
 
 (1) § 26 Absatz 1 Nummer 2 ist mit der Maßgabe anzuwenden, dass
 Angaben des Herstellers oder andere Angaben zur Bestimmung des
@@ -1086,6 +1123,7 @@ Berechnung in der Regel zugrundezulegen
 
 
 ### § 33 Baumuster-Eichung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004105119)
 
 (1) Ein in Serie hergestelltes Sportboot kann als Baumuster im
 Sportboot-Eichverfahren geeicht werden, wenn dies als Baumuster-
@@ -1111,6 +1149,7 @@ Nummer in ein Eichverzeichnis nach Anlage 7 ein.
 
 
 ### § 34 Überprüfung von Nachbauten
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004201119)
 
 Bei einem Sportboot, dessen Baumuster geeicht ist, genügt anstelle der
 Eichung eine Überprüfung der Länge über alles und der größten Breite.
@@ -1121,6 +1160,7 @@ Eichung hinzugefügt werden.
 
 
 ### § 35 Eichbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004304119)
 
 (1) Das Schiffseichamt erteilt für das im Sportboot-Eichverfahren
 geeichte oder nach § 34 überprüfte Sportboot eine Eichbescheinigung
@@ -1152,6 +1192,7 @@ Schiffsregisterordnung; der entsprechende Hinweis wird gestrichen.
 
 
 ### § 36 Eichplakette mit Eichzeichen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004403119)
 
 (1) Ein Sportboot, das im Sportboot-Eichverfahren geeicht oder nach
 § 34 überprüft ist, erhält anstelle der Eichmarken (§ 20) eine
@@ -1178,6 +1219,7 @@ ist.
 
 
 ### § 37 Grenzfälle
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004501119)
 
 Ergibt die Eichung des Sportboots eine Wasserverdrängung von weniger
 als fünf oder von mindestens zehn Kubikmeter, so ist auf Antrag eine
@@ -1186,10 +1228,12 @@ und 36 sind anzuwenden.
 
 
 ## Fünfter Abschnitt - Nacheichungen und Nachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000501119)
 
 
 
 ### § 38 Nacheichung
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004602119)
 
 (1) Ergibt die Überprüfung nach § 9 Absatz 1 und 2, dass die
 Verlängerung des Eichscheins nicht zulässig ist, so ist eine
@@ -1224,6 +1268,7 @@ Verkehrsblatt bekanntgemacht.
 
 
 ### § 39 Nachprüfung von Eichungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004703119)
 
 Ergibt die Prüfung nach § 4 Absatz 2 Nummer 4, dass eine Angabe im
 Eichschein auf fehlerhafter Messung oder Berechnung beruht, so dass
@@ -1235,10 +1280,12 @@ befassten beauftragen.
 
 
 ## Sechster Abschnitt - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNG000702119)
 
 
 
 ### § 40 Gültigkeit alter Eichscheine
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE004902119)
 
 (1) Eichscheine, die in einem Staat gültig sind, für den das
 Übereinkommen in Kraft getreten ist, gelten als Eichscheine nach dem
@@ -1261,10 +1308,12 @@ sind.
 
 
 ### § 41 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE005102119)
 
 
 
 ### Anlagen zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE005304119)
 
 
 *    *   Anlage 1:
@@ -1306,6 +1355,7 @@ sind.
 
 
 ### Anlage 1 Muster des Eichscheins für Binnenschiffe (Güterbeförderer)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE005505119)
 
 (Fundstelle: BGBl. I 2022, 230 - 240)
 
@@ -1322,6 +1372,7 @@ sind.
 ![bgbl1_2022_j0220-1_0110.jpg](bgbl1_2022_j0220-1_0110.jpg)
 
 ### Anlage 2 Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE005605119)
 
 (Fundstelle: BGBl. I 2022, 241 - 248)
 
@@ -1335,6 +1386,7 @@ sind.
 ![bgbl1_2022_j0220-1_0190.jpg](bgbl1_2022_j0220-1_0190.jpg)
 
 ### Anlage 3 Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE005903119)
 
 (Fundstelle: BGBl. I 2022, 249 - 252)
 
@@ -1344,12 +1396,14 @@ sind.
 ![bgbl1_2022_j0220-1_0230.jpg](bgbl1_2022_j0220-1_0230.jpg)
 
 ### Anlage 4 Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer)
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE006003119)
 
 (Fundstelle: BGBl. I 2022, 253)
 
 ![bgbl1_2022_j0220-1_0240.jpg](bgbl1_2022_j0220-1_0240.jpg)
 
 ### Anlage 5 Muster der Eichbescheinigung für Sportboote
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE006103119)
 
 (Fundstelle: BGBl. I 2022, 254 - 255)
 
@@ -1357,12 +1411,14 @@ sind.
 ![bgbl1_2022_j0220-1_0260.jpg](bgbl1_2022_j0220-1_0260.jpg)
 
 ### Anlage 6 Muster der Eichplakette für Sportboote
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE006203119)
 
 (Fundstelle: BGBl. I 2022, 256)
 
 ![bgbl1_2022_j0220-1_0270.jpg](bgbl1_2022_j0220-1_0270.jpg)
 
 ### Anlage 7 Muster des Eichverzeichnisses für Eichscheine und Eichbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/binscheo/BJNR017850975.html#BJNR017850975BJNE006600119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 53 – 54)
 

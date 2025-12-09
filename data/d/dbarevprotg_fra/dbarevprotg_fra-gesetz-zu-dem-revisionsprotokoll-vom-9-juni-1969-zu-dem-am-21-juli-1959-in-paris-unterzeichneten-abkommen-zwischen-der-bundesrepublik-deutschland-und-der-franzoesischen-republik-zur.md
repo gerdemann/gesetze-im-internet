@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000100306)
 
 Dem in Bonn am 9. Juni 1969 unterzeichneten Revisionsprotokoll zu dem
 am 21. Juli 1959 in Paris unterzeichneten Abkommen zwischen der
@@ -34,6 +35,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000200306)
 
 Der Bundesminister der Finanzen wird ermächtigt, das Abkommen vom 21.
 Juli 1959 zwischen der Bundesrepublik Deutschland und der
@@ -46,6 +48,7 @@ Französischen Republik neu bekanntzumachen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000300306)
 
 (1) Der Betrag der in Artikel 3 des Revisionsprotokolls (Artikel 20
 Abs. 1 Buchst. b) Unterabs. bb) Satz 3 des Abkommens in der
@@ -77,6 +80,7 @@ der Dividende ohne die Steuergutschrift zugrunde gelegt wird.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000400306)
 
 (1) Soweit das Revisionsprotokoll auf Grund seines Artikels 7 Abs. 2
 für die Zeit vor seinem Inkrafttreten anzuwenden ist, steht seiner
@@ -96,12 +100,14 @@ wird der Steuermehrbetrag nicht erhoben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000500306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/dbarevprotg_fra/BJNR207170970.html#BJNR207170970BJNE000600306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

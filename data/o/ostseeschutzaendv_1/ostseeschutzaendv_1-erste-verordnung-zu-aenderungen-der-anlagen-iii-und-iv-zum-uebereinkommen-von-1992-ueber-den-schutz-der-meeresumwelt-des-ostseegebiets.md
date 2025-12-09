@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000100308)
 
 Es verordnen
 auf Grund des Artikels 2 Nr. 1 Buchstabe b des Gesetzes vom 23. August
@@ -44,29 +45,35 @@ Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000200308)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000301310)
 
 (weggefallen)
 
 
 ## Art 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000401116)
 
 
 
 ## Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000501116)
 
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000601310)
 
 (weggefallen)
 
 
 ## Art 6 Entsorgung von Schiffsabfällen
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000700308)
 
 Alle Schiffe sind verpflichtet, vor dem Verlassen eines Hafens alle
 Schiffsabfälle, im Ostseegebiet nicht ins Meer beseitigt werden
@@ -83,15 +90,18 @@ Länder können Ausnahmen im Rahmen ihrer Kompetenzen bestimmen.
 
 
 ## Art 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE000901116)
 
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE001000308)
 
 -
 
 
 ## Art 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE001100308)
 
 (1) Diese Verordnung tritt vorbehaltlich der Absätze 2 und 3 am Tag
 nach der Verkündung in Kraft. Die in Artikel 1 bezeichneten Änderungen
@@ -115,6 +125,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/BJNR295320002.html#BJNR295320002BJNE001200308)
 
 Der Bundesrat hat zugestimmt.
 

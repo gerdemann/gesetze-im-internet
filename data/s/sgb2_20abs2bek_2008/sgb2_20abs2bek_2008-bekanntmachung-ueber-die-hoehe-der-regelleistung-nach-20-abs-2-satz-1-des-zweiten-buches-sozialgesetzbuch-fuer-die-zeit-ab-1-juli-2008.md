@@ -19,6 +19,7 @@ Fundstelle
 Stand: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.2.2010 I 193 - 1 BvL 1/09, 1 BvL 3/09,1 BvL 4/09 -
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2008/BJNR110200008.html#BJNR110200008BJNE000100000)
 
 Nach § 20 Abs. 4 Satz 3 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24.
@@ -33,6 +34,7 @@ Partner minderjährig ist, 351 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2008/BJNR110200008.html#BJNR110200008BJNE000300000)
 
 Bundesministerium für Arbeit und Soziales
 

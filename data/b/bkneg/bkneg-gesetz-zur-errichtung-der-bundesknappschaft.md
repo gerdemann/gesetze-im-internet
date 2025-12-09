@@ -20,38 +20,46 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE000800326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000100326)
 
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000200326)
 
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000300326)
 
 
 
 ## Art 4 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000400326)
 
 
 Auflösung der Rechtsvorgänger
 
 ### I. - Vermögensübergang
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000500326)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE000900326)
 
 Die Reichsknappschaft ist mit Inkrafttreten dieses Gesetzes aufgelöst.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001000326)
 
 (1) Das Vermögen (Eigentum und andere Vermögensrechte) der
 Reichsknappschaft geht mit ihrer Auflösung auf die Bundesknappschaft
@@ -66,6 +74,7 @@ Abtretung durch Vereinbarung ausgeschlossen ist.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001100326)
 
 (1) Die Verbindlichkeiten, die mit dem Vermögen nach § 2 dieses
 Artikels in rechtlichem oder wirtschaftlichem Zusammenhang stehen,
@@ -87,6 +96,7 @@ nicht.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001200326)
 
 Soweit die bisherigen Träger der Knappschaftsversicherung und die
 Arbeitsgemeinschaft der Knappschaften rechtsgeschäftliche Verfügungen
@@ -95,12 +105,14 @@ gelten sie als verfügungsberechtigt.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001300326)
 
 Auf Verlangen ist der Bundesknappschaft Auskunft über die in den §§ 2
 bis 4 dieses Artikels bezeichneten Vermögensverhältnisse zu erteilen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001400326)
 
 (1) Gehört das Eigentum an einem Grundstück nach § 2 dieses Artikels
 zum Vermögen der Bundesknappschaft, so ist der Antrag auf Berichtigung
@@ -118,6 +130,7 @@ entsprechend.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001500326)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung der §§ 2 bis 6
 dieses Artikels dienen, einschließlich der Berichtigung der
@@ -132,6 +145,7 @@ Bundesknappschaft bestätigt, daß die Maßnahme der Durchführung der §§
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001600326)
 
 Die Treuhandschaft des Bundes und des Landes Berlin an dem Eigentum
 und den übrigen Vermögensrechten der Reichsknappschaft erlischt mit
@@ -139,6 +153,7 @@ dem Inkrafttreten dieses Gesetzes.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001700326)
 
 (1) Die bisherigen Träger der Knappschaftsversicherung und die
 Arbeitsgemeinschaft der Knappschaften sind mit Inkrafttreten dieses
@@ -155,10 +170,12 @@ bis 7 dieses Artikels gelten entsprechend.
 
 
 ### II. - Übernahme der Angestellten und Arbeiter sowie der Versorgungslast
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000600326)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001801308)
 
 Die Bundesknappschaft tritt mit dem Tag des Inkrafttretens dieses
 Gesetzes als Arbeitgeber in die Dienst- und Arbeitsverhältnisse ein,
@@ -169,11 +186,13 @@ Rechts und ihren Arbeitnehmern bestehen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE001901308)
 
 (weggefallen)
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002000326)
 
 Wer bei Inkrafttreten dieses Gesetzes bei einer in § 10 Abs. 1
 bezeichneten Körperschaft beschäftigt und zur Vorbereitung auf eine in
@@ -191,11 +210,13 @@ als Laufbahnprüfungen ablegen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002101308)
 
 (weggefallen)
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002200326)
 
 Die Rechtsverhältnisse von dienstordnungsmäßig Angestellten, die nicht
 in das Beamtenverhältnis berufen werden, sowie deren Versorgung
@@ -206,6 +227,7 @@ ihrer Hinterbliebenen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002300326)
 
 Die Verpflichtung zur Versorgung der ehemaligen dienstordnungsmäßig
 Angestellten der in § 10 Abs. 1 bezeichneten Körperschaften sowie der
@@ -221,6 +243,7 @@ die Versorgungsbezüge der in Satz 1 genannten Personen entsprechend.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002401124)
 
 (1) Die Bundesknappschaft ist entsprechende Einrichtung im Sinne des §
 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel
@@ -281,10 +304,12 @@ der Vorstand der Bundesknappschaft.
 
 
 ### III. - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNG000700326)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002500326)
 
 (1) Bis zum Ablauf der vierten Wahlperiode der nach dem
 Selbstverwaltungsgesetz gewählten Organe gilt folgende
@@ -345,6 +370,7 @@ dieser zu seiner ersten Sitzung zusammentritt.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002600326)
 
 Der Geschäftsführer der Arbeitsgemeinschaft der Knappschaften nimmt
 vom Inkrafttreten dieses Gesetzes an die Aufgaben der Mitglieder der
@@ -353,6 +379,7 @@ Geschäftsführung der Bundesknappschaft bis zu deren Ernennung nach §
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002700326)
 
 Die Bundesknappschaft hat innerhalb eines Jahres nach Inkrafttreten
 dieses Gesetzes die erforderlichen autonomen Vorschriften zu erlassen.
@@ -366,6 +393,7 @@ beschließen. § 154 Abs. 3 Satz 3 des Reichsknappschaftsgesetzes gilt.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002800326)
 
 Bis zum Erlaß einer Rechtsverordnung gemäß § 147 des
 Reichsknappschaftsgesetzes gelten für die Aufstellung und Ausführung
@@ -376,6 +404,7 @@ Krankenversicherung maßgeblichen Vorschriften entsprechend.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE002900326)
 
 (1) Die bei Inkrafttreten dieses Gesetzes im Amt befindlichen
 Personalräte der bisherigen Träger der Knappschaftsversicherung
@@ -411,6 +440,7 @@ c)  Die einzelnen Mitglieder des Hauptpersonalrats und eine entsprechende
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE003000326)
 
 Soweit in diesem oder anderen Gesetzen auf Bestimmungen verwiesen wird
 oder Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
@@ -419,11 +449,13 @@ Bezeichnungen dieses Gesetzes.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE003100326)
 
 -
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE003200326)
 
 Artikel 2 § 5 Nr. 3 ist auch auf Beamte der Bundesversicherungsanstalt
 für Angestellte anzuwenden, bei denen der Versorgungsfall vor dem
@@ -434,6 +466,7 @@ zahlen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE003300326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -443,6 +476,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/bkneg/BJNR009749969.html#BJNR009749969BJNE003400326)
 
 (1) Dieses Gesetz tritt am ersten Tag des auf seine Verkündung
 folgenden Monats in Kraft.

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/seeschlsteverlganwbek/BJNR224700021.html#BJNR224700021BJNE000100000)
 
 Nach § 52 Absatz 40a Satz 4 des Einkommensteuergesetzes in der Fassung
 des Gesetzes zur Verlängerung des erhöhten Lohnsteuereinbehalts in der
@@ -46,6 +47,7 @@ anzuwenden, die ab dem 1. Juni 2021 zufließen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/seeschlsteverlganwbek/BJNR224700021.html#BJNR224700021BJNE000200000)
 
 Bundesministerium der Finanzen
 

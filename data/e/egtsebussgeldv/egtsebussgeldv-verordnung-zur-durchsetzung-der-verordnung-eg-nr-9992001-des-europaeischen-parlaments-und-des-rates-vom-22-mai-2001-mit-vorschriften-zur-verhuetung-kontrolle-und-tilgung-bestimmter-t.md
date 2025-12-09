@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egtsebussgeldv/BJNR202200001.html#BJNR202200001BJNE000100305)
 
 Auf Grund des § 76 Abs. 4 des Tierseuchengesetzes in der Fassung der
 Bekanntmachung vom 11. April 2001 (BGBl. I S. 506) verordnet das
@@ -30,6 +31,7 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
+[Direktlink](https://www.gesetze-im-internet.de/egtsebussgeldv/BJNR202200001.html#BJNR202200001BJNE000302301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
 Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -99,6 +101,7 @@ oder fahrlässig
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egtsebussgeldv/BJNR202200001.html#BJNR202200001BJNE000400305)
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 am Tage nach der
 Verkündung in Kraft. § 1 Nr. 6 bis 8 tritt am 1. Oktober 2001 in

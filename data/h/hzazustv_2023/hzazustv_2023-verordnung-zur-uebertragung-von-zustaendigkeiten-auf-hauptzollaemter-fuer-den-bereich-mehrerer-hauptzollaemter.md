@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 600-1-3-20 v. 14.2.2022 I 175 (HZAZustV 2022)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000100000)
 
 Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch
 Artikel 1 Nummer 7 Buchstabe b des Gesetzes vom 3. Dezember 2015
@@ -33,9 +34,11 @@ Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000300000)
 
 (1) Die in Abschnitt 2 dieser Verordnung aufgeführten
 Zuständigkeitsübertragungen für die Festsetzung und die Erhebung der
@@ -136,9 +139,11 @@ umfassen
 
 
 ## Abschnitt 2 - Zuständigkeitsübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNG000200000)
 
 
 ### § 2 Hauptzollamt Aachen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000400000)
 
 Dem Hauptzollamt Aachen werden die Zuständigkeiten übertragen für
 
@@ -169,6 +174,7 @@ Dem Hauptzollamt Aachen werden die Zuständigkeiten übertragen für
 
 
 ### § 3 Hauptzollamt Augsburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000500000)
 
 Dem Hauptzollamt Augsburg werden die Zuständigkeiten übertragen für
 
@@ -188,6 +194,7 @@ Dem Hauptzollamt Augsburg werden die Zuständigkeiten übertragen für
 
 
 ### § 4 Hauptzollamt Berlin
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000600000)
 
 Dem Hauptzollamt Berlin werden die Zuständigkeiten übertragen für
 
@@ -217,6 +224,7 @@ Dem Hauptzollamt Berlin werden die Zuständigkeiten übertragen für
 
 
 ### § 5 Hauptzollamt Bielefeld
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000700000)
 
 Dem Hauptzollamt Bielefeld wird die Zuständigkeit für den
 Aufgabenbereich Vollstreckung des Hauptzollamts Münster, mit Ausnahme
@@ -224,6 +232,7 @@ des Kreises Borken, übertragen.
 
 
 ### § 6 Hauptzollamt Braunschweig
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000800000)
 
 Dem Hauptzollamt Braunschweig werden die Zuständigkeiten übertragen
 für
@@ -277,6 +286,7 @@ für
 
 
 ### § 7 Hauptzollamt Bremen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE000901123)
 
 Dem Hauptzollamt Bremen werden die Zuständigkeiten übertragen für
 
@@ -315,6 +325,7 @@ Dem Hauptzollamt Bremen werden die Zuständigkeiten übertragen für
 
 
 ### § 8 Hauptzollamt Darmstadt
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001000000)
 
 Dem Hauptzollamt Darmstadt werden die Zuständigkeiten übertragen für
 
@@ -340,6 +351,7 @@ Dem Hauptzollamt Darmstadt werden die Zuständigkeiten übertragen für
 
 
 ### § 9 Hauptzollamt Dresden
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001100000)
 
 Dem Hauptzollamt Dresden werden die Zuständigkeiten übertragen für
 
@@ -377,6 +389,7 @@ Dem Hauptzollamt Dresden werden die Zuständigkeiten übertragen für
 
 
 ### § 10 Hauptzollamt Duisburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001200000)
 
 Dem Hauptzollamt Duisburg werden die Zuständigkeiten übertragen für
 
@@ -407,6 +420,7 @@ Dem Hauptzollamt Duisburg werden die Zuständigkeiten übertragen für
 
 
 ### § 11 Hauptzollamt Düsseldorf
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001300000)
 
 Dem Hauptzollamt Düsseldorf werden die Zuständigkeiten übertragen für
 
@@ -429,6 +443,7 @@ Dem Hauptzollamt Düsseldorf werden die Zuständigkeiten übertragen für
 
 
 ### § 12 Hauptzollamt Erfurt
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001400000)
 
 Dem Hauptzollamt Erfurt wird die Zuständigkeit für die
 Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen,
@@ -436,6 +451,7 @@ des Hauptzollamts Dresden übertragen.
 
 
 ### § 13 Hauptzollamt Frankfurt am Main
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001500000)
 
 Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten
 übertragen für
@@ -475,6 +491,7 @@ Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten
 
 
 ### § 14 Hauptzollamt Frankfurt (Oder)
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001600000)
 
 Dem Hauptzollamt Frankfurt (Oder) werden die Zuständigkeiten
 übertragen für
@@ -495,6 +512,7 @@ Dem Hauptzollamt Frankfurt (Oder) werden die Zuständigkeiten
 
 
 ### § 15 Hauptzollamt Gießen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001700000)
 
 Dem Hauptzollamt Gießen werden die Zuständigkeiten übertragen für
 
@@ -559,6 +577,7 @@ Dem Hauptzollamt Gießen werden die Zuständigkeiten übertragen für
 
 
 ### § 16 Hauptzollamt Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001801123)
 
 Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
@@ -614,6 +633,7 @@ Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
 
 ### § 17 Hauptzollamt Hannover
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE001900000)
 
 Dem Hauptzollamt Hannover werden die Zuständigkeiten übertragen für
 
@@ -650,6 +670,7 @@ Dem Hauptzollamt Hannover werden die Zuständigkeiten übertragen für
 
 
 ### § 18 Hauptzollamt Heilbronn
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002001123)
 
 Dem Hauptzollamt Heilbronn werden die Zuständigkeiten übertragen für
 
@@ -707,6 +728,7 @@ Dem Hauptzollamt Heilbronn werden die Zuständigkeiten übertragen für
 
 
 ### § 19 Hauptzollamt Itzehoe
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002100000)
 
 Dem Hauptzollamt Itzehoe werden die Zuständigkeiten übertragen für
 
@@ -739,6 +761,7 @@ Dem Hauptzollamt Itzehoe werden die Zuständigkeiten übertragen für
 
 
 ### § 20 Hauptzollamt Karlsruhe
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002200000)
 
 Dem Hauptzollamt Karlsruhe werden die Zuständigkeiten übertragen für
 
@@ -754,6 +777,7 @@ Dem Hauptzollamt Karlsruhe werden die Zuständigkeiten übertragen für
 
 
 ### § 21 Hauptzollamt Kiel
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002301123)
 
 Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 
@@ -814,6 +838,7 @@ Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 
 
 ### § 22 Hauptzollamt Koblenz
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002400000)
 
 Dem Hauptzollamt Koblenz werden die Zuständigkeiten übertragen für
 
@@ -828,6 +853,7 @@ Dem Hauptzollamt Koblenz werden die Zuständigkeiten übertragen für
 
 
 ### § 23 Hauptzollamt Köln
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002500000)
 
 Dem Hauptzollamt Köln wird die Zuständigkeit für die Zollprüfungen,
 die Präferenzprüfungen und die Außenprüfungen, einschließlich der
@@ -835,6 +861,7 @@ die Präferenzprüfungen und die Außenprüfungen, einschließlich der
 
 
 ### § 24 Hauptzollamt Krefeld
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002600000)
 
 Dem Hauptzollamt Krefeld werden die Zuständigkeiten übertragen für
 
@@ -858,6 +885,7 @@ Dem Hauptzollamt Krefeld werden die Zuständigkeiten übertragen für
 
 
 ### § 25 Hauptzollamt Landshut
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002700000)
 
 Dem Hauptzollamt Landshut werden die Zuständigkeiten übertragen für
 
@@ -884,6 +912,7 @@ Dem Hauptzollamt Landshut werden die Zuständigkeiten übertragen für
 
 
 ### § 26 Hauptzollamt Lörrach
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002801123)
 
 Dem Hauptzollamt Lörrach werden die Zuständigkeiten übertragen für
 
@@ -911,6 +940,7 @@ Dem Hauptzollamt Lörrach werden die Zuständigkeiten übertragen für
 
 
 ### § 27 Hauptzollamt Magdeburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE002900000)
 
 Dem Hauptzollamt Magdeburg wird die Zuständigkeit für die
 Sonderprüfungen der Hauptzollämter Braunschweig, Hannover und
@@ -918,6 +948,7 @@ Osnabrück übertragen.
 
 
 ### § 28 Hauptzollamt München
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003000000)
 
 Dem Hauptzollamt München werden die Zuständigkeiten übertragen für
 
@@ -951,6 +982,7 @@ Dem Hauptzollamt München werden die Zuständigkeiten übertragen für
 
 
 ### § 29 Hauptzollamt Münster
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003101123)
 
 Dem Hauptzollamt Münster werden die Zuständigkeiten übertragen für
 
@@ -1003,6 +1035,7 @@ Dem Hauptzollamt Münster werden die Zuständigkeiten übertragen für
 
 
 ### § 30 Hauptzollamt Nürnberg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003200000)
 
 Dem Hauptzollamt Nürnberg werden die Zuständigkeiten übertragen für
 
@@ -1049,6 +1082,7 @@ Dem Hauptzollamt Nürnberg werden die Zuständigkeiten übertragen für
 
 
 ### § 31 Hauptzollamt Oldenburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003301123)
 
 Dem Hauptzollamt Oldenburg werden die Zuständigkeiten übertragen für
 
@@ -1066,6 +1100,7 @@ Dem Hauptzollamt Oldenburg werden die Zuständigkeiten übertragen für
 
 
 ### § 32 Hauptzollamt Osnabrück
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003400000)
 
 Dem Hauptzollamt Osnabrück werden die Zuständigkeiten übertragen für
 
@@ -1091,6 +1126,7 @@ Dem Hauptzollamt Osnabrück werden die Zuständigkeiten übertragen für
 
 
 ### § 33 Hauptzollamt Potsdam
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003500000)
 
 Dem Hauptzollamt Potsdam werden die Zuständigkeiten übertragen für
 
@@ -1155,6 +1191,7 @@ bleibt die Zuständigkeitsübertragung nach § 15 Nummer 6 und 7.
 
 
 ### § 34 Hauptzollamt Regensburg
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003600000)
 
 Dem Hauptzollamt Regensburg werden die Zuständigkeiten übertragen für
 
@@ -1181,6 +1218,7 @@ Dem Hauptzollamt Regensburg werden die Zuständigkeiten übertragen für
 
 
 ### § 35 Hauptzollamt Rosenheim
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003701123)
 
 Dem Hauptzollamt Rosenheim werden die Zuständigkeiten übertragen für
 
@@ -1222,6 +1260,7 @@ Dem Hauptzollamt Rosenheim werden die Zuständigkeiten übertragen für
 
 
 ### § 36 Hauptzollamt Saarbrücken
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003800000)
 
 Dem Hauptzollamt Saarbrücken werden die Zuständigkeiten übertragen für
 
@@ -1236,6 +1275,7 @@ Dem Hauptzollamt Saarbrücken werden die Zuständigkeiten übertragen für
 
 
 ### § 37 Hauptzollamt Schweinfurt
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE003900000)
 
 Dem Hauptzollamt Schweinfurt werden die Zuständigkeiten übertragen für
 
@@ -1261,6 +1301,7 @@ Dem Hauptzollamt Schweinfurt werden die Zuständigkeiten übertragen für
 
 
 ### § 38 Hauptzollamt Singen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE004000000)
 
 Dem Hauptzollamt Singen werden die Zuständigkeiten übertragen für
 
@@ -1284,6 +1325,7 @@ Dem Hauptzollamt Singen werden die Zuständigkeiten übertragen für
 
 
 ### § 39 Hauptzollamt Stuttgart
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE004100000)
 
 Dem Hauptzollamt Stuttgart werden die Zuständigkeiten übertragen für
 
@@ -1340,6 +1382,7 @@ Dem Hauptzollamt Stuttgart werden die Zuständigkeiten übertragen für
 
 
 ### § 40 Hauptzollamt Ulm
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE004200000)
 
 Dem Hauptzollamt Ulm werden die Zuständigkeiten übertragen für
 
@@ -1383,9 +1426,11 @@ Dem Hauptzollamt Ulm werden die Zuständigkeiten übertragen für
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNG000300000)
 
 
 ### § 41 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hzazustv_2023/BJNR211800022.html#BJNR211800022BJNE004300000)
 
 Diese Verordnung tritt am 1. Januar 2023 in Kraft. Gleichzeitig tritt
 die Hauptzollamtszuständigkeitsverordnung vom 14. Februar 2022 (BGBl.

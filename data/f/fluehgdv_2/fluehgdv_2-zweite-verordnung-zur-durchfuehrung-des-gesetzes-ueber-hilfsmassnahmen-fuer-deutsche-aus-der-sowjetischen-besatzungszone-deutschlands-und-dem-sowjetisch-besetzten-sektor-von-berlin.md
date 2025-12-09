@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fl_hgdv_2/BJNR018160965.html#BJNR018160965BJNE000100319)
 
 Auf Grund des § 23 des Gesetzes über Hilfsmaßnahmen für Deutsche aus
 der sowjetischen Besatzungszone Deutschlands und dem sowjetisch
@@ -28,6 +29,7 @@ besetzten Sektor von Berlin vom 15. Juli 1965 (Bundesgesetzbl. I S.
 
 
 ## § 1 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/fl_hgdv_2/BJNR018160965.html#BJNR018160965BJNE000200319)
 
 (1) Leistungen nach Maßgabe des § 2 erhalten auf Antrag deutsche
 Staatsangehörige und deutsche Volkszugehörige, die
@@ -54,6 +56,7 @@ Bundesvertriebenengesetzes sind anzuwenden.
 
 
 ## § 2 Leistungen und Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/fl_hgdv_2/BJNR018160965.html#BJNR018160965BJNE000300319)
 
 (1) Berechtigte nach § 1 erhalten Einrichtungshilfe und Beihilfe zum
 Lebensunterhalt nach den Abschnitten II und III des Gesetzes; sie
@@ -73,6 +76,7 @@ Berechtigten zu sorgen.
 
 
 ## § 3 Anwendung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/fl_hgdv_2/BJNR018160965.html#BJNR018160965BJNE000400319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 24 des
@@ -82,6 +86,7 @@ Berlin auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fl_hgdv_2/BJNR018160965.html#BJNR018160965BJNE000500319)
 
 Diese Verordnung tritt mit Wirkung vom 24. Juli 1965 in Kraft.
 

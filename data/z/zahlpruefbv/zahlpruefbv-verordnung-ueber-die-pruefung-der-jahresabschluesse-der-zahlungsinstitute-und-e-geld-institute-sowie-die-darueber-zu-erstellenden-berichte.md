@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000100000)
 
 Auf Grund des § 18 Absatz 3 Satz 1 des
 Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
@@ -29,9 +30,11 @@ Bundesministerium der Justiz nach Anhörung der Deutschen Bundesbank:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000301118)
 
 (1) Diese Verordnung regelt
 
@@ -54,6 +57,7 @@ Prüfungsbericht zu erstellen.
 
 
 ### § 2 Risikoorientierung und Wesentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000401118)
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
 ist Rechnung zu tragen. Dabei sind insbesondere die Größe des
@@ -62,6 +66,7 @@ Geschäfte sowie der Risikogehalt zu berücksichtigen.
 
 
 ### § 3 Art und Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000502128)
 
 (1) Der Umfang der Berichterstattung hat, vorbehaltlich der
 nachfolgenden Bestimmungen, der Bedeutung und dem Risikogehalt der
@@ -96,6 +101,7 @@ Beseitigung eingeleitet worden sind.
 
 
 ### § 4 Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000600000)
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung
 geforderten Angaben erstellt werden, können diese zum Zwecke der
@@ -106,6 +112,7 @@ unübersichtlich macht.
 
 
 ### § 5 Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000701118)
 
 Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum),
 ist in der Regel das am Stichtag des Jahresabschlusses
@@ -120,6 +127,7 @@ beziehen.
 
 
 ### § 6 Zusammenfassende Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000801118)
 
 In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht
 bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach §
@@ -155,6 +163,7 @@ wesentlichen Beanstandungen sich bei der Prüfung ergeben haben.
 
 
 ### § 7 Berichtsturnus; Unterzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE000901118)
 
 (1) Soweit der Abschlussprüfer nach dieser Verordnung verpflichtet
 ist, nur über Änderungen zu berichten, hat er in angemessenen
@@ -166,9 +175,11 @@ unterzeichnen.
 
 
 ## Abschnitt 2 - Angaben zum Institut
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000201118)
 
 
 ### § 8 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001002118)
 
 (1) Der Abschlussprüfer hat über die Ausschöpfung und Überschreitung
 der Erlaubnis zum Erbringen von Zahlungsdiensten beziehungsweise der
@@ -247,6 +258,7 @@ Agenten sicherstellt.
 
 
 ### § 9 Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001100000)
 
 Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu
 berichten. Dabei sind die Ergebniskomponenten dieser
@@ -256,12 +268,15 @@ Risikomanagement des Gesamtinstituts zu beurteilen.
 
 
 ## Abschnitt 3 - Aufsichtliche Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000300000)
 
 
 ### Unterabschnitt 1 - Risikomanagement und Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000400000)
 
 
 #### § 10 Ordnungsmäßigkeit der Geschäftsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001201118)
 
 (1) Der Abschlussprüfer hat die Ordnungsmäßigkeit der
 Geschäftsorganisation im Sinne des § 27 Absatz 1 Satz 1 Halbsatz 1 des
@@ -303,6 +318,7 @@ wahrzunehmen.
 
 
 #### § 10a IT-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003300118)
 
 (1) Der Abschlussprüfer hat im Rahmen der Beurteilung nach § 10 Absatz
 2 Satz 1 und 2 Nummer 3 insbesondere darauf einzugehen, ob die
@@ -334,9 +350,11 @@ deren Einbindung in das Institut.
 
 
 ### Unterabschnitt 2 - Eigenmittel und Solvenzanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000501118)
 
 
 #### § 11 Ermittlung der Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001302118)
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen
 zur ordnungsgemäßen Ermittlung der angemessenen Eigenmittel angemessen
@@ -353,6 +371,7 @@ sind.
 
 
 #### § 12 Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001403128)
 
 (1) Darzustellen sind Höhe und Zusammensetzung der Eigenmittel des
 Instituts nach § 15 Absatz 1 Satz 1 und 2 und § 1 Absatz 29 des
@@ -405,6 +424,7 @@ gilt für Instrumente des Ergänzungskapitals anhand deren Fälligkeit.
 
 
 #### § 13 Solvabilitätskennzahl
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001501118)
 
 Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur
 ordnungsgemäßen Ermittlung der Solvabilitätskennzahl nach der ZAG-
@@ -414,9 +434,11 @@ einzugehen. Die Entwicklung der Eigenmittelquote ist darzustellen.
 
 
 ### Unterabschnitt 2a - Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG001400118)
 
 
 #### § 13a Absicherung für den Haftungsfall bei Zahlungsauslösediensten
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003400118)
 
 (1) Die Absicherung für den Haftungsfall bei Zahlungsauslösediensten
 nach § 16 des Zahlungsdiensteaufsichtsgesetzes ist darzustellen und
@@ -454,6 +476,7 @@ sind näher darzustellen.
 
 
 #### § 13b Absicherung für den Haftungsfall bei Kontoinformationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003500118)
 
 (1) Die Absicherung für den Haftungsfall bei Kontoinformationsdiensten
 nach § 36 des Zahlungsdiensteaufsichtsgesetzes ist darzustellen und
@@ -478,9 +501,11 @@ mit § 11 der ZAG-Instituts-Eigenmittelverordnung erforderlich machen.
 
 
 ### Unterabschnitt 3 - Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000600000)
 
 
 #### § 14 Anzeigewesen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001600000)
 
 Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf
 die Vollständigkeit und Richtigkeit der Anzeigen und Meldungen ist
@@ -488,9 +513,11 @@ einzugehen, festgestellte wesentliche Verstöße sind aufzuführen.
 
 
 ### Unterabschnitt 4 - Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000702118)
 
 
 #### § 15 Zeitpunkt der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001701118)
 
 (1) Die Prüfung der Vorkehrungen der Institute zur Verhinderung von
 Geldwäsche und der Terrorismusfinanzierung findet einmal jährlich
@@ -522,6 +549,7 @@ kürzeres Prüfintervall.
 
 
 #### § 16 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001803118)
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht die Vorkehrungen
 darzustellen, die das verpflichtete Institut im Berichtszeitraum zur
@@ -685,6 +713,7 @@ die vorstehenden Absätze unberührt.
 
 
 #### § 16a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002902119)
 
 (1) Der Abschlussprüfer hat darzustellen, ob die von dem Institut
 getroffenen internen Vorkehrungen den Anforderungen der Verordnung
@@ -714,6 +743,7 @@ ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 16b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003002119)
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut
 getroffenen internen Vorkehrungen den Anforderungen der Verordnung
@@ -762,6 +792,7 @@ ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 16c Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003100118)
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut
 getroffenen internen Vorkehrungen den Anforderungen der Verordnung
@@ -788,6 +819,7 @@ ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
 
 #### § 16d Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003201118)
 
 (1) Bei Instituten hat der Abschlussprüfer zu beurteilen, ob die von
 dem Institut getroffenen internen Vorkehrungen den folgenden
@@ -821,9 +853,11 @@ ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
 
 ## Abschnitt 4 - Besondere Angaben zu Zahlungsdiensten und dem E-Geld-Geschäft
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000801118)
 
 
 ### § 17 Berichterstattung über Zahlungsdienste und das E-Geld-Geschäft
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE001901118)
 
 (1) Die Zahlungsdienstleister, über die die Zahlungsdienste und das
 E-Geld-Geschäft abgewickelt werden, sind unter Angabe der
@@ -842,12 +876,15 @@ einzugehen, ob Prolongationen stattgefunden haben.
 
 
 ## Abschnitt 5 - Abschlussorientierte Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG000900000)
 
 
 ### Unterabschnitt 1 - Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG001001118)
 
 
 #### § 18 Geschäftliche Entwicklung im Berichtsjahr
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002000000)
 
 Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie
 kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres
@@ -855,6 +892,7 @@ darzustellen und zu erläutern.
 
 
 #### § 19 Beurteilung der Vermögenslage
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002100000)
 
 (1) Die Entwicklung der Vermögenslage ist zu beurteilen.
 Besonderheiten, die für die Beurteilung der Vermögenslage von
@@ -879,6 +917,7 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 
 
 #### § 20 Beurteilung der Ertragslage
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002201118)
 
 (1) Die Entwicklung der Ertragslage ist zu beurteilen.
 
@@ -892,6 +931,7 @@ Ertragslage sind darzustellen.
 
 
 #### § 21 Risikolage und Risikovorsorge
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002301118)
 
 (1) Die Risikolage des Instituts ist zu beurteilen.
 
@@ -903,9 +943,11 @@ Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
 
 ### Unterabschnitt 2 - Feststellungen, Erläuterungen zur Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG001100000)
 
 
 #### § 22 Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002400000)
 
 (1) Die Bilanzposten, Angaben unter dem Bilanzstrich und Posten der
 Gewinn- und Verlustrechnung sind unter Berücksichtigung des
@@ -938,9 +980,11 @@ Werden Angaben gemacht, ist Folgendes zu berücksichtigen:
 
 
 ## Abschnitt 6 - Datenübersichten
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG001200000)
 
 
 ### § 23 Datenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002501118)
 
 Der Abschlussprüfer hat die auf das jeweilige Institut anwendbaren
 Formblätter aus den Anlagen 1 bis 3 zu dieser Verordnung auf der
@@ -950,9 +994,11 @@ beizufügen.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNG001300000)
 
 
 ### § 24 Erstmalige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002603118)
 
 (1) Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung
 anzuwenden, die das nach dem 31. Oktober 2008 beginnende Geschäftsjahr
@@ -975,12 +1021,14 @@ dem 31. Dezember 2017 beginnende Geschäftsjahre anzuwenden.
 
 
 ### § 25 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002700000)
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 (zu § 8 Absatz 3)
 
 ### Anlage 1 Datenübersicht für Institute, die Bereiche auf ein anderes Unternehmen ausgelagert haben
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003600118)
 
 (Fundstelle: BGBl. I 2018, 2475)
 
@@ -1058,6 +1106,7 @@ Name des Instituts:
    (zu § 16 Absatz 9)
 
 ### Anlage 2 Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE003700118)
 
 (Fundstelle: BGBl. I 2018, 2476 - 2478)
 
@@ -1600,6 +1649,7 @@ Prüfungsleiter vor Ort:
    (zu § 23)
 
 ### Anlage 3 Datenübersicht für Zahlungs- und E-Geld-Institute
+[Direktlink](https://www.gesetze-im-internet.de/zahlpr_fbv/BJNR364800009.html#BJNR364800009BJNE002803118)
 
 (Fundstelle: BGBl. I 2009, 3654 - 3657;
 bezüglich einzelner Änderungen vgl. Fußnote)

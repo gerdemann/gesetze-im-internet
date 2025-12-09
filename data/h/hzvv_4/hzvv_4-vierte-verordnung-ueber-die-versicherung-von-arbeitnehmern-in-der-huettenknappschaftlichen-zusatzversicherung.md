@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_4/BJNR006680981.html#BJNR006680981BJNE000100326)
 
 Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen
 Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (BGBl. I S. 2104),
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_4/BJNR006680981.html#BJNR006680981BJNE000500326)
 
 In der hüttenknappschaftlichen Zusatzversicherung sind
 pflichtversichert die in der Rentenversicherung der Arbeiter oder in
@@ -54,6 +56,7 @@ dieser Versicherung befreit sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_4/BJNR006680981.html#BJNR006680981BJNE000600326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 23 des Hüttenknappschaftlichen Zusatzversicherungs-
@@ -61,6 +64,7 @@ Gesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_4/BJNR006680981.html#BJNR006680981BJNE000700326)
 
 Es treten in Kraft
 
@@ -85,6 +89,7 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_4/BJNR006680981.html#BJNR006680981BJNE000800326)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

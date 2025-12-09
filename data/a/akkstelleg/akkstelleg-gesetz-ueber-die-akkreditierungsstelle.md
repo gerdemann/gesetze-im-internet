@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Akkreditierung
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000101119)
 
 (1) Die Akkreditierung wird als hoheitliche Aufgabe des Bundes durch
 die Akkreditierungsstelle durchgeführt. Diese ist nationale
@@ -40,6 +41,7 @@ Verbraucherschutz einschließlich Lebensmittelsicherheit.
 
 
 ## § 1a Schutz der Alleinstellung der Akkreditierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001600119)
 
 (1) Es ist verboten,
 
@@ -118,6 +120,7 @@ anzuwenden.
 
 
 ## § 2 Aufgaben der Akkreditierungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000201119)
 
 (1) Die Akkreditierungsstelle führt auf elektronischen Antrag einer
 Konformitätsbewertungsstelle Akkreditierungsverfahren gemäß Artikel 5
@@ -140,6 +143,7 @@ die Befugnis erteilenden Behörden bedienen.
 
 
 ## § 3 Befugnisse gegenüber Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000301119)
 
 (1) Die Akkreditierungsstelle kann von der
 Konformitätsbewertungsstelle und ihrem mit der Leitung und der
@@ -168,6 +172,7 @@ Konformitätsbewertung akkreditiert sein muss. § 1a Absatz 3 Satz 1 bis
 
 
 ## § 4 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000400000)
 
 (1) Den Behörden, die auf Grund einer Rechtsvorschrift
 Konformitätsbewertungsstellen die Befugnis erteilen, als solche tätig
@@ -190,6 +195,7 @@ Begutachtung nach § 2 Absatz 3 durchführen.
 
 
 ## § 5 Akkreditierungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000503124)
 
 (1) Beim Bundesministerium für Wirtschaft und Energie wird ein
 Akkreditierungsbeirat eingerichtet. Er berät und unterstützt die
@@ -281,6 +287,7 @@ für Materialforschung und -prüfung.
 
 
 ## § 6 Akkreditierungssymbol
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000601118)
 
 (1) Die Akkreditierungsstelle kann einer Konformitätsbewertungsstelle
 auf Antrag gestatten, ein Symbol zu verwenden, das auf ihre
@@ -303,6 +310,7 @@ bedarf, Folgendes zu regeln:
 
 
 ## § 7 Vorschuss auf Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000709119)
 
 Ergänzend zu der Befugnis des § 15 Absatz 1 des Bundesgebührengesetzes
 kann die Akkreditierungsstelle im Falle einer von Amts wegen zu
@@ -313,6 +321,7 @@ wird.
 
 
 ## § 8 Beleihung oder Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000802119)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem
@@ -362,6 +371,7 @@ für Akkreditierung errichten.
 
 
 ## § 9 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE000901118)
 
 (1) Die Akkreditierungsstelle untersteht vorbehaltlich der auf Grund §
 8 Absatz 1 Satz 2 Nummer 1 getroffenen Bestimmungen der Aufsicht durch
@@ -395,6 +405,7 @@ Behörde oder das Bundesministerium für Wirtschaft und Energie
 
 
 ## § 10 Voraussetzungen und Durchführung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001000000)
 
 (1) Die Beleihung ist nur zulässig, wenn
 
@@ -441,6 +452,7 @@ Anspruch auf Ausgleich.
 
 
 ## § 11 Aufsicht über die Geschäftsleitung
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001101115)
 
 Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen
 zuverlässig sein. Die Bestellung zur Geschäftsführung ist dem
@@ -450,6 +462,7 @@ die Beurteilung der Zuverlässigkeit und Eignung wesentlich sind.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001201123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1 zuwiderhandelt.
@@ -459,6 +472,7 @@ Euro geahndet werden.
 
 
 ## § 13 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001301124)
 
 (1) § 5 Absatz 5 Satz 1 in der ab dem 25. Juli 2017 geltenden Fassung
 ist nicht auf Mitglieder des Akkreditierungsbeirats und deren
@@ -471,6 +485,7 @@ anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/akkstelleg/BJNR262500009.html#BJNR262500009BJNE001400000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-60 v. 25.10.2019 I 1567, 2020 I 100 (VTMFPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§
 53a und 53c des Berufsbildungsgesetzes in der Fassung der
@@ -34,9 +35,11 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss „Geprüfter Meister für Veranstaltungstechnik-
@@ -171,6 +174,7 @@ oder „Geprüfte Meisterin für Veranstaltungstechnik“ vorangestellt.
 
 
 ### § 2 Teile des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000400000)
 
 Für den anerkannten Fortbildungsabschluss Geprüfter Meister für
 Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik
@@ -189,6 +193,7 @@ Professional für Veranstaltungstechnik ist Folgendes erforderlich:
 
 
 ### § 3 Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000500000)
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen
 hat die zu prüfende Person nachzuweisen durch
@@ -210,6 +215,7 @@ Prüfungsbestandteils vorzulegen.
 
 
 ### § 4 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000600000)
 
 Die Prüfung nach § 2 gliedert sich in drei Prüfungsteile:
 
@@ -226,6 +232,7 @@ Die Prüfung nach § 2 gliedert sich in drei Prüfungsteile:
 
 
 ### § 5 Voraussetzungen für die Zulassung zur Prüfung in den Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000700000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes oder des § 42c der Handwerksordnung erfüllt und
@@ -284,9 +291,11 @@ vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
 
 ## Abschnitt 2 - Prüfungsteil „Veranstaltungsprozesse“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000200000)
 
 
 ### § 6 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000800000)
 
 Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende
 Prüfungsbereiche geprüft:
@@ -302,6 +311,7 @@ Prüfungsbereiche geprüft:
 
 
 ### § 7 Prüfungsinstrument und Bearbeitungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE000900000)
 
 (1) Es wird je eine Situationsaufgabe zu den Prüfungsbereichen
 „Konzeption und Planung veranstaltungstechnischer Projekte“ und
@@ -316,6 +326,7 @@ Minuten und höchstens 240 Minuten betragen.
 
 
 ### § 8 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001000000)
 
 (1) Die zu prüfende Person kann für eine der beiden schriftlichen
 Situationsaufgaben nach § 7 Absatz 1 eine mündliche Ergänzungsprüfung
@@ -349,6 +360,7 @@ Ermittlung des Ergebnisses für den Prüfungsbereich im Verhältnis von 2
 
 
 ### § 9 Prüfungsbereich „Konzeption und Planung veranstaltungstechnischer Projekte“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001100000)
 
 (1) Im Prüfungsbereich „Konzeption und Planung
 veranstaltungstechnischer Projekte“ soll die Fähigkeit nachgewiesen
@@ -407,6 +419,7 @@ geprüft werden:
 
 
 ### § 10 Prüfungsbereich „Technische Leitung und Umsetzung veranstaltungstechnischer Projekte“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001200000)
 
 (1) Im Prüfungsbereich „Technische Leitung und Umsetzung
 veranstaltungstechnischer Projekte“ soll die Fähigkeit nachgewiesen
@@ -499,9 +512,11 @@ geprüft werden:
 
 
 ## Abschnitt 3 - Prüfungsteil „Betriebliches Management“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000300000)
 
 
 ### § 11 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001300000)
 
 Im Prüfungsteil „Betriebliches Management“ werden folgende
 Prüfungsbereiche geprüft:
@@ -519,6 +534,7 @@ Prüfungsbereiche geprüft:
 
 
 ### § 12 Prüfungsinstrumente und Bearbeitungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001400000)
 
 (1) Im Prüfungsteil „Betriebliches Management“ wird
 
@@ -553,6 +569,7 @@ Minuten dauern.
 
 
 ### § 13 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001500000)
 
 (1) Die zu prüfende Person kann für die schriftliche Situationsaufgabe
 nach § 12 Absatz 1 Nummer 1 eine mündliche Ergänzungsprüfung
@@ -573,6 +590,7 @@ gewichten.
 
 
 ### § 14 Prüfungsbereich „Betriebsorganisation“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001600000)
 
 (1) Im Prüfungsbereich „Betriebsorganisation“ soll die Fähigkeit
 nachgewiesen werden, Betriebs- und Arbeitsprozesse unter
@@ -611,6 +629,7 @@ geprüft werden:
 
 
 ### § 15 Prüfungsbereich „Personalorganisation“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001700000)
 
 (1) Im Prüfungsbereich „Personalorganisation“ soll die Fähigkeit
 nachgewiesen werden, den Personalbedarf ermitteln zu können, den
@@ -654,6 +673,7 @@ werden:
 
 
 ### § 16 Prüfungsbereich „Personalführung“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001800000)
 
 (1) Im Prüfungsbereich „Personalführung“ soll die Fähigkeit
 nachgewiesen werden, Führungsaufgaben wahrnehmen zu können, das
@@ -684,9 +704,11 @@ werden:
 
 
 ## Abschnitt 4 - Prüfungsteil „Veranstaltungsprojekt“
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000400000)
 
 
 ### § 17 Gegenstand des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE001900000)
 
 (1) Im Prüfungsteil „Veranstaltungsprojekt“ soll die zu prüfende
 Person die in § 20 dargestellten Qualifikationsinhalte ganzheitlich an
@@ -717,6 +739,7 @@ einer der folgenden Funktionen beteiligt gewesen sein:
 
 
 ### § 18 Projektantrag
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002000000)
 
 (1) Die zu prüfende Person hat in einem Antrag dem Prüfungsausschuss
 das veranstaltungstechnische Projekt, das der Prüfung zugrunde gelegt
@@ -753,6 +776,7 @@ Prüfungsteil „Veranstaltungsprojekt“ nicht bestanden.
 
 
 ### § 19 Bestandteile des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002100000)
 
 (1) Bestandteile des Prüfungsteils „Veranstaltungsprojekt“ sind
 
@@ -817,6 +841,7 @@ höchstens 30 Minuten dauern.
 
 
 ### § 20 Qualifikationsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002200000)
 
 Im Prüfungsteil „Veranstaltungsprojekt“ soll die zu prüfende Person
 nachweisen, dass sie in der Lage ist,
@@ -844,9 +869,11 @@ nachweisen, dass sie in der Lage ist,
 
 
 ## Abschnitt 5 - Bewerten der Prüfungsleistungen, Gesamtnote, Zeugnisse und Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000500000)
 
 
 ### § 21 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002300000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder nach § 42h Absatz 2 der Handwerksordnung
@@ -860,6 +887,7 @@ zugrunde zu legen.
 
 
 ### § 22 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002400000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -900,6 +928,7 @@ Sie ist ganzheitlich zu bewerten.
 
 
 ### § 23 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002500000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -969,6 +998,7 @@ Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
 
 ### § 24 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002600000)
 
 (1) Wer die Prüfung nach § 23 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -995,6 +1025,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ### § 25 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002700000)
 
 (1) Ein nicht bestandener Prüfungsteil kann zweimal wiederholt werden.
 
@@ -1013,9 +1044,11 @@ werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNG000600000)
 
 
 ### § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002800000)
 
 (1) Vor Ablauf des 31. Dezember 2019 angemeldete Prüfungen zum
 anerkannten Abschluss „Geprüfter Meister für
@@ -1065,6 +1098,7 @@ erforderlichen Prüfungsbestandteile anzurechnen.
 
 
 ### § 27 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE002900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Veranstaltungstechnikmeister-
@@ -1074,6 +1108,7 @@ Fortbildungsprüfungsverordnung vom 25. Oktober 2019 (BGBl. I S. 1567;
 (zu § 22 Absatz 1)
 
 ### Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE003000000)
 
 (Fundstelle: BGBl. I 2020, 2985 - 2986)
 
@@ -1376,6 +1411,7 @@ Fortbildungsprüfungsverordnung vom 25. Oktober 2019 (BGBl. I S. 1567;
 (zu § 24 Absatz 1)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/vtmbaprovtfprv/BJNR297700020.html#BJNR297700020BJNE003100000)
 
 (Fundstelle: BGBl. I 2020, 2987)
 

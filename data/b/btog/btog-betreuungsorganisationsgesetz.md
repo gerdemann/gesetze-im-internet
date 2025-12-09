@@ -21,12 +21,15 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Betreuungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000100000)
 
 
 ### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000200000)
 
 
 #### § 1 Sachliche Zuständigkeit und Durchführung überörtlicher Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000200000)
 
 (1) Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten
 sachlich zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde
@@ -40,6 +43,7 @@ Landesrecht weitere Behörden vorgesehen werden.
 
 
 #### § 2 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000300000)
 
 (1) Örtlich zuständig ist vorbehaltlich der Sätze 2 und 3 und des
 Absatzes 4 diejenige nach Landesrecht in Betreuungsangelegenheiten
@@ -81,6 +85,7 @@ bisherige Stammbehörde örtlich zuständig.
 
 
 #### § 3 Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000400000)
 
 Zur Durchführung der Aufgaben der Behörde werden Personen beschäftigt,
 die sich hierfür nach ihrer Persönlichkeit eignen und die in der Regel
@@ -89,6 +94,7 @@ entweder eine ihren Aufgaben entsprechende Ausbildung erhalten haben
 
 
 #### § 4 Verarbeitung personenbezogener Daten durch die Behörde
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000500000)
 
 (1) Die Verarbeitung personenbezogener Daten des Betroffenen und
 solcher Personen, auf die es bei der Aufgabenerfüllung ankommt,
@@ -138,9 +144,11 @@ betroffenen Person beeinträchtigt werden, und
 
 
 ### Titel 2 - Aufgaben der örtlichen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000300000)
 
 
 #### § 5 Informations- und Beratungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000600000)
 
 (1) Die Behörde informiert und berät über allgemeine
 betreuungsrechtliche Fragen, über Vorsorgevollmachten und über andere
@@ -158,6 +166,7 @@ anerkannter Betreuungsverein zur Verfügung steht.
 
 
 #### § 6 Förderungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000700000)
 
 (1) Die Behörde sorgt dafür, dass in ihrem Zuständigkeitsbereich ein
 ausreichendes Angebot zur Einführung der Betreuer und der
@@ -173,6 +182,7 @@ Vorsorgevollmachten, Betreuungsverfügungen und Patientenverfügungen.
 
 
 #### § 7 Öffentliche Beglaubigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000800000)
 
 (1) Die Urkundsperson bei der Behörde ist befugt, Unterschriften oder
 Handzeichen auf Betreuungsverfügungen und auf Vollmachten, soweit sie
@@ -216,6 +226,7 @@ durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 8 Beratungs- und Unterstützungsangebot, Vermittlung geeigneter Hilfen und erweiterte Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE000900000)
 
 (1) Wenn im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach §
 1814 Absatz 1 des Bürgerlichen Gesetzbuchs bestehen, soll die Behörde
@@ -251,6 +262,7 @@ soll.
 
 
 #### § 9 Mitteilungen an das Betreuungsgericht und die Stammbehörde
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001000000)
 
 (1) Die Behörde kann dem zuständigen Betreuungsgericht Umstände
 mitteilen, die die Bestellung eines Betreuers oder eine andere
@@ -275,6 +287,7 @@ Weise ihrer Übermittlung und der Empfänger sind aktenkundig zu machen.
 
 
 #### § 10 Mitteilung an Betreuungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001100000)
 
 Die Behörde teilt Name und Anschrift der ehrenamtlichen Betreuer, von
 deren Bestellung sie durch die Bekanntgabe des Betreuungsgerichts nach
@@ -288,6 +301,7 @@ Bindung zu dem Betroffenen haben.
 
 
 #### § 11 Aufgaben im gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001201360)
 
 (1) Die Behörde unterstützt das Betreuungsgericht. Dies umfasst
 insbesondere folgende Maßnahmen:
@@ -361,6 +375,7 @@ innerhalb eines Landes beschränken.
 
 
 #### § 12 Betreuervorschlag
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001300000)
 
 (1) Die Behörde schlägt mit dem Sozialbericht oder auf Anforderung des
 Betreuungsgerichts eine Person vor, die sich im konkreten Einzelfall
@@ -394,6 +409,7 @@ Organisationsstruktur seiner Betreuertätigkeit mitzuteilen.
 
 
 #### § 13 Weitere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001400000)
 
 Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen,
 bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist
@@ -401,9 +417,11 @@ die örtliche Behörde.
 
 
 ## Abschnitt 2 - Anerkannte Betreuungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000400000)
 
 
 ### § 14 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001500000)
 
 (1) Ein rechtsfähiger Verein kann als Betreuungsverein anerkannt
 werden, wenn er gewährleistet, dass er
@@ -430,6 +448,7 @@ Voraussetzungen für die Anerkennung vorsehen.
 
 
 ### § 15 Aufgaben kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001600000)
 
 (1) Ein anerkannter Betreuungsverein hat
 
@@ -493,6 +512,7 @@ Betreuungsverfügung.
 
 
 ### § 16 Aufgaben kraft gerichtlicher Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001700000)
 
 Ein anerkannter Betreuungsverein ist verpflichtet, Mitarbeiter zu
 beschäftigen, die für die Übernahme von Betreuungen zur Verfügung
@@ -500,6 +520,7 @@ stehen.
 
 
 ### § 17 Finanzielle Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001800000)
 
 Anerkannte Betreuungsvereine haben Anspruch auf eine bedarfsgerechte
 finanzielle Ausstattung mit öffentlichen Mitteln zur Wahrnehmung der
@@ -508,6 +529,7 @@ Landesrecht.
 
 
 ### § 18 Verarbeitung personenbezogener Daten durch den Verein
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE001900000)
 
 (1) Die Verarbeitung personenbezogener Daten einschließlich besonderer
 Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU)
@@ -519,12 +541,15 @@ Aufgaben erforderlich ist.
 
 
 ## Abschnitt 3 - Rechtliche Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000500000)
 
 
 ### Titel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000600000)
 
 
 #### § 19 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002000000)
 
 (1) Ehrenamtliche Betreuer sind natürliche Personen, die außerhalb
 einer beruflichen Tätigkeit rechtliche Betreuungen führen.
@@ -539,6 +564,7 @@ Absatz 1 Satz 6 als vorläufig registriert gelten.
 
 
 #### § 20 Verarbeitung personenbezogener Daten durch den Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002100000)
 
 (1) Die Verarbeitung personenbezogener Daten einschließlich besonderer
 Kategorien personenbezogener Daten nach Artikel 9 der Verordnung (EU)
@@ -555,9 +581,11 @@ hat.
 
 
 ### Titel 2 - Ehrenamtliche Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000700000)
 
 
 #### § 21 Voraussetzung für eine ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002202360)
 
 (1) Voraussetzung für die Führung einer Betreuung als ehrenamtlicher
 Betreuer ist die persönliche Eignung und Zuverlässigkeit. § 23 Absatz
@@ -587,6 +615,7 @@ Betreuervorschlags nach § 12 Absatz 1 älter als drei Jahre sind.
 
 
 #### § 22 Abschluss einer Vereinbarung über Begleitung und Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002300000)
 
 (1) Ein ehrenamtlicher Betreuer kann eine Vereinbarung über eine
 Begleitung und Unterstützung nach § 15 Absatz 1 Satz 1 Nummer 4 mit
@@ -600,9 +629,11 @@ Vereinbarung nach Absatz 1 abschließen.
 
 
 ### Titel 3 - Berufliche Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000800000)
 
 
 #### § 23 Registrierungsvoraussetzungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002403360)
 
 (1) Voraussetzungen für eine Registrierung als beruflicher Betreuer
 sind:
@@ -709,6 +740,7 @@ des § 117 Absatz 2 des Versicherungsvertragsgesetzes.
 
 
 #### § 24 Registrierungsverfahren; Verordnungsermächtigung; Registrierungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002503360)
 
 (1) Die Registrierung erfolgt auf Antrag, der bei der Stammbehörde zu
 stellen ist. Mit dem Antrag sind beizubringen:
@@ -781,6 +813,7 @@ Folgende Registrierungen erfolgen immer gebührenfrei:
 
 
 #### § 25 Mitteilungs- und Nachweispflichten beruflicher Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002602360)
 
 (1) Der berufliche Betreuer teilt der Stammbehörde alle Änderungen im
 Bestand der von ihm geführten Betreuungen alle sechs Monate sowie alle
@@ -803,6 +836,7 @@ und Betreuervergütungsgesetzes mit.
 
 
 #### § 26 Umgang mit den für die Registrierung relevanten Daten
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002700000)
 
 (1) Die Stammbehörde verarbeitet die bei der Durchführung ihrer
 Aufgaben nach diesem Titel erhaltenen Daten einschließlich
@@ -830,6 +864,7 @@ betroffenen Person überwiegt.
 
 
 #### § 27 Widerruf, Rücknahme und Löschung der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002801360)
 
 (1) Die Stammbehörde widerruft die Registrierung unbeschadet der
 landesrechtlichen Vorschriften, die § 49 des
@@ -881,6 +916,7 @@ für den Gerichtsbezirk zuständigen Betreuungsbehörden mitzuteilen.
 
 
 #### § 28 Wechsel des Sitzes oder Wohnsitzes
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE002900000)
 
 (1) Ändert der berufliche Betreuer seinen Sitz oder Wohnsitz und ist
 deshalb eine andere Stammbehörde örtlich zuständig, hat er dies der
@@ -895,6 +931,7 @@ beruflichen Betreuer betreffen, an die neue Stammbehörde zu
 
 
 #### § 29 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003000000)
 
 Der berufliche Betreuer stellt in eigener Verantwortung seine
 regelmäßige berufsbezogene Fortbildung sicher. Nachweise über die
@@ -902,6 +939,7 @@ erfolgte Fortbildung sind der Stammbehörde vorzulegen.
 
 
 #### § 30 Leistungen an berufliche Betreuer
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003100000)
 
 (1) Einem beruflichen Betreuer ist es untersagt, von dem von ihm
 Betreuten Geld oder geldwerte Leistungen anzunehmen. Dies gilt auch
@@ -928,9 +966,11 @@ mitzuteilen.
 
 
 ## Abschnitt 4 - Offenbarungsbefugnisse für Geheimnisträger
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG000900000)
 
 
 ### § 31 Beratung und Übermittlung von Informationen durch Geheimnisträger bei Gefährdung von Betreuten
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003200000)
 
 (1) Werden
 
@@ -980,9 +1020,11 @@ Daten zu übermitteln.
 
 
 ## Abschnitt 5 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNG001000000)
 
 
 ### § 32 Registrierung von bereits tätigen beruflichen Betreuern; vorläufige Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003302360)
 
 (1) Betreuer, die bereits vor dem 1. Januar 2023 berufsmäßig
 Betreuungen geführt haben und weiterhin führen, werden auf ihren
@@ -1015,6 +1057,7 @@ hat die Behörde die Registrierung entsprechend § 27 zu widerrufen.
 
 
 ### § 33 Vorläufige Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003600360)
 
 Antragsteller, die die Voraussetzungen für eine Registrierung nach §
 23 Absatz 1 Nummer 1 und 3 erfüllen, kann die zuständige Stammbehörde
@@ -1036,6 +1079,7 @@ Betreuer. Die vorläufige Registrierung endet spätestens mit Ablauf des
 
 
 ### § 34 Anwendungsvorschrift zu § 7
+[Direktlink](https://www.gesetze-im-internet.de/btog/BJNR091700021.html#BJNR091700021BJNE003700360)
 
 § 7 Absatz 1 Satz 2 ist nur auf Vollmachten anzuwenden, die seit dem
 1\. Januar 2023 durch die Behörde nach § 7 Absatz 1 Satz 1 öffentlich

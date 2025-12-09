@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE000503377)
 
 Im Produzierenden Gewerbe, das Bergbau und Gewinnung von Steinen und
 Erden, Verarbeitendes Gewerbe, Energieversorgung, Wasserversorgung,
@@ -32,10 +33,12 @@ Erhebungen als Bundesstatistik durchgeführt.
 
 
 ## 1. Abschnitt - Bergbau und Gewinnung von Steinen und Erden, Verarbeitendes Gewerbe
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNG000102377)
 
 
 
 ### § 2 Erhebungen bei Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE000611360)
 
 Die Erhebungen werden durchgeführt bei den produzierenden Betrieben
 von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von
@@ -124,6 +127,7 @@ B.  bei Betrieben, die nicht nach Buchstabe A erfasst werden,
 
 
 ### § 3 Erhebungen bei Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE000707125)
 
 Die Erhebungen erfassen
 
@@ -206,10 +210,12 @@ B.  alle vier Jahre, beginnend 2003 für 2002,
 
 
 ## 2. Abschnitt - Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNG000201377)
 
 
 
 ### § 4 Erhebungen bei Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE000807125)
 
 Die Erhebungen erfassen
 
@@ -358,6 +364,7 @@ C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
 
 
 ### § 5 Erhebungen bei Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE000904125)
 
 Die Erhebungen erfassen jährlich
 
@@ -421,10 +428,12 @@ II. bei höchstens 12 000 Unternehmen des Baugewerbes
 
 
 ## 3. Abschnitt - Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNG000303377)
 
 
 
 ### § 6 Erhebungen bei Betrieben und Unternehmen der Energieversorgung
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001005125)
 
 Die Erhebungen erfassen
 
@@ -545,6 +554,7 @@ B.  jährlich
 
 
 ### § 6a Erhebungen bei Betrieben und Unternehmen der Wasserversorgung, der Abwasser- und Abfallentsorgung und der Beseitigung von Umweltverschmutzungen
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE002201125)
 
 Die Erhebungen erfassen
 
@@ -665,10 +675,12 @@ B.  jährlich
 
 
 ## 4. Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNG000401377)
 
 
 
 ### § 7 Zusätzliche Erhebungsmerkmale, Hilfsmerkmale, Unternehmens- und Betriebsbegriff
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001105360)
 
 (1) Bei den Erhebungen werden zusätzlich erfasst:
 
@@ -749,6 +761,7 @@ B.  jährlich
 
 
 ### § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001206118)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -764,6 +777,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 ### § 9 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001305118)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
 ist der Inhaber, die Inhaberin, der Leiter oder die Leiterin der in
@@ -789,6 +803,7 @@ Nichtbeschäftigung heraus aufnehmen.
 
 
 ### § 10 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001404308)
 
 (1) An die obersten Bundes- und Landesbehörden dürfen für die
 Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke
@@ -811,6 +826,7 @@ sein.
 
 
 ### § 11 Erhebung und Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001504377)
 
 (1) Die Angaben nach § 3 Buchstabe A Ziffer III, § 3 Buchstabe B, § 5
 Ziffer II, § 6 Buchstabe B Ziffer II und § 6a Buchstabe B Ziffer II
@@ -834,26 +850,31 @@ Sonderaufbereitungen des Bundes.
 
 
 ### § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001603377)
 
 Die Erhebung nach § 2 Satz 2 Buchstabe B Ziffer II Nr. 1 bis 3 wird
 erstmals im Jahr 2008 für das Jahr 2007 durchgeführt.
 
 
 ### § 13 (Änderung von Rechtsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001701377)
 
 -
 
 
 ### § 14 (Außerkraftsetzung bestehender Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001801377)
 
 -
 
 
 ### (XXXX) §§ 15 und 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE001902377)
 
 
 
 ### § 17 (Inkrafttreten des Gesetzes, Übergangsregelung)
+[Direktlink](https://www.gesetze-im-internet.de/prodgewstatg/BJNR027790975.html#BJNR027790975BJNE002101377)
 
 -
 

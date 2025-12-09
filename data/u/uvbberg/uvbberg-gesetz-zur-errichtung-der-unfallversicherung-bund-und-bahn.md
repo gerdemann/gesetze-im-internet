@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNG000101000)
 
 
 ### § 1 Errichtung, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000101000)
 
 Zum 1. Januar 2015 wird als Unfallversicherungsträger der öffentlichen
 Hand die Unfallversicherung Bund und Bahn errichtet. Die
@@ -32,6 +34,7 @@ zuständig.
 
 
 ### § 2 Eingliederung der Unfallkasse des Bundes und der Eisenbahn-Unfallkasse
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000200000)
 
 (1) Die Unfallkasse des Bundes und die Eisenbahn-Unfallkasse werden
 zum 1. Januar 2015 in die Unfallversicherung Bund und Bahn
@@ -46,6 +49,7 @@ aufgelöst.
 
 
 ### § 3 Sitz und Satzung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000301126)
 
 (1) Der Sitz der Unfallversicherung Bund und Bahn wird durch die
 Satzung bestimmt. Der Sitz der Künstlersozialkasse ist Wilhelmshaven.
@@ -55,6 +59,7 @@ Genehmigung des Bundesamtes für Soziale Sicherung.
 
 
 ### § 4 Prävention für Beamte, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000401124)
 
 (1) Die Unfallversicherung Bund und Bahn führt die Prävention für die
 Beamten der Mitgliedsunternehmen mit Ausnahme des Erlasses von
@@ -79,6 +84,7 @@ bedarf.
 
 
 ### § 4a Unfallfürsorge für Beamte
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001501126)
 
 (1) Der Unfallversicherung Bund und Bahn werden für die Beamtinnen und
 Beamten des Bundesministeriums für Arbeit und Soziales, des
@@ -133,6 +139,7 @@ Verwaltungsvereinbarungen.
 
 
 ### § 4b Aufgabenübertragung an die Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001600126)
 
 Der Unfallversicherung Bund und Bahn werden die statistische
 Erfassung, Auswertung und Übermittlung derjenigen Daten über die
@@ -150,6 +157,7 @@ Arbeit und Soziales. Entstehende Kosten sind nicht zu erstatten.
 
 
 ### § 4c Leistungen der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001701126)
 
 (1) Zum 1. Januar 2025 wird der Unfallversicherung Bund und Bahn die
 Erbringung der folgenden Leistungen übertragen:
@@ -208,6 +216,7 @@ Unfallversicherung Bund und Bahn durch Verwaltungsvereinbarungen.
 
 
 ### § 5 Kosten bei Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000500000)
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der
 Unfallversicherung Bund und Bahn sowie der Eingliederung der
@@ -222,9 +231,11 @@ Durchführung dieses Gesetzes dient.
 
 
 ## Abschnitt 2 - Personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNG000201000)
 
 
 ### § 6 Übertritt des Personals
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000601000)
 
 (1) Die Unfallversicherung Bund und Bahn tritt mit Auflösung der
 Unfallkasse des Bundes und der Eisenbahn-Unfallkasse in die Arbeits-
@@ -255,10 +266,12 @@ des Erhöhungsbetrages.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000701000)
 
 
 
 ### § 8 Sonstige personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000801126)
 
 (1) Die bei der Unfallkasse des Bundes und der Eisenbahn-Unfallkasse
 bestehenden Dienstvereinbarungen gelten weiter, bis sie durch neue
@@ -290,9 +303,11 @@ beschränkt.
 
 
 ## Abschnitt 3 - Übergangsregelungen zum Selbstverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNG000301000)
 
 
 ### § 9 Übergangsregelungen zu den Selbstverwaltungsorganen der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE000901000)
 
 Bis zum Ablauf der am 1. Januar 2015 laufenden Wahlperiode richten
 sich die Bildung und das Verfahren der Selbstverwaltungsorgane der
@@ -302,6 +317,7 @@ Abschnitts des Vierten Buches Sozialgesetzbuch.
 
 
 ### § 10 Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001000000)
 
 (1) Die am 31. Dezember 2014 amtierenden Mitglieder der
 Vertreterversammlungen der Unfallkasse des Bundes und der Eisenbahn-
@@ -330,6 +346,7 @@ Eisenbahn-Unfallkasse.
 
 
 ### § 11 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001100000)
 
 (1) Die am 31. Dezember 2014 amtierenden Mitglieder des Vorstandes der
 Unfallkasse des Bundes und die am 31. Dezember 2014 amtierenden
@@ -345,9 +362,11 @@ gleiche Anzahl an Stimmen.
 
 
 ## Abschnitt 4 - Sonstige Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNG000400000)
 
 
 ### § 12 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001202119)
 
 (1) Die am 31. Dezember 2014 bestehenden Vermögensmassen der
 Unfallkasse des Bundes und der Eisenbahn-Unfallkasse werden
@@ -375,6 +394,7 @@ digitale Infrastruktur.
 
 
 ### § 13 Altrentenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001301000)
 
 Erfüllt die Unfallversicherung Bund und Bahn Entschädigungsansprüche
 aus Arbeitsunfällen, die vor dem 1. Januar 1994 bestandskräftig
@@ -385,6 +405,7 @@ standen.
 
 
 ### § 14 Personal- und Organisationskonzept
+[Direktlink](https://www.gesetze-im-internet.de/uvbberg/BJNR383610013.html#BJNR383610013BJNE001401119)
 
 Die Unfallkasse des Bundes und die Eisenbahn-Unfallkasse legen dem
 Bundesversicherungsamt bis zum 31. Juli 2014 ein Konzept zur

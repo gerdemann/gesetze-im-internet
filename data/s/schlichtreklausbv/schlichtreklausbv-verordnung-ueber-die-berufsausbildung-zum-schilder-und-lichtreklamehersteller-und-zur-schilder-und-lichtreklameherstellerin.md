@@ -25,6 +25,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -34,6 +35,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000200000)
 
 Der Ausbildungsberuf des Schilder- und Lichtreklameherstellers und der
 Schilder- und Lichtreklameherstellerin wird nach § 25 der
@@ -43,11 +45,13 @@ Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildung in einem der beiden Schwerpunkte
@@ -62,6 +66,7 @@ und die Ausbildung in einem der beiden Schwerpunkte
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -158,6 +163,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -179,6 +185,7 @@ durchzusehen.
 
 
 ## § 6 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000700000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist
@@ -199,6 +206,7 @@ Prozent gewichtet.
 
 
 ## § 7 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000800000)
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -246,6 +254,7 @@ Folienbeschriftung bestehen folgende Vorgaben:
 
 
 ## § 8 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE000900000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -417,6 +426,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE001000000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -500,6 +510,7 @@ der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Schilder- und
@@ -509,6 +520,7 @@ Lichtreklamehersteller/zur Schilder- und Lichtreklameherstellerin vom
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin
+[Direktlink](https://www.gesetze-im-internet.de/schlichtreklausbv/BJNR049400012.html#BJNR049400012BJNE001200000)
 
 (Fundstelle: BGBl. I 2012, 497 - 502)
 

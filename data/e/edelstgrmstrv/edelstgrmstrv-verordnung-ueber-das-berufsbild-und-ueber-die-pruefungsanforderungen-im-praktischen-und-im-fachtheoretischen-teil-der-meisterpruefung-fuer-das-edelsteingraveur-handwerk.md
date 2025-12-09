@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000400305)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,10 +32,12 @@ Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNG000100305)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000500305)
 
 (1) Dem Edelsteingraveur-Handwerk sind folgende Tätigkeiten
 zuzurechnen:
@@ -151,10 +154,12 @@ Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNG000200305)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000600305)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -171,6 +176,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000700305)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten
 Arbeiten zu entwerfen und anzufertigen:
@@ -203,6 +209,7 @@ berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000800305)
 
 (1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten
 auszuführen:
@@ -233,6 +240,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE000900305)
 
 (1) In Teil II sind Kenntnisse in den folgenden sechs Prüfungsfächern
 nachzuweisen:
@@ -394,16 +402,19 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 5.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNG000300305)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE001000305)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -413,6 +424,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/edelstgrmstrv/BJNR015110992.html#BJNR015110992BJNE001200305)
 
 (1) Diese Verordnung tritt am 1. November 1992 in Kraft.
 

@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE000700314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## I. Abschnitt - Die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE000801310)
 
 (1) Wer eine Tätigkeit unter der Berufsbezeichnung "Logopäde" oder
 "Logopädin" ausüben will, bedarf der Erlaubnis.
@@ -47,6 +50,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE000907116)
 
 (1) Eine Erlaubnis nach § 1 wird erteilt, wenn der Antragsteller
 
@@ -210,6 +214,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001900310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Logopäden ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten
@@ -246,6 +251,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE002300116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -344,6 +350,7 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001000314)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
 staatliche Prüfung nicht bestanden oder die Ausbildung nach § 2 Abs. 2
@@ -359,6 +366,7 @@ Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001111116)
 
 (1) Die Ausbildung nach diesem Gesetz wird an staatlich anerkannten
 Schulen für Logopäden durchgeführt.
@@ -392,6 +400,7 @@ Ausbildungsziels dadurch nicht gefährdet werden.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001209116)
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates in einer Ausbildungs- und
@@ -448,6 +457,7 @@ Fristenregelungen vorsehen.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE002002116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Logopäden in einem
@@ -554,6 +564,7 @@ darüber auszustellen, dass
 
 
 ### § 5b
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE002101116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -571,6 +582,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 5c
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE002200310)
 
 Logopädinnen oder Logopäden im Sinne des § 5a haben beim Erbringen der
 Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und
@@ -581,10 +593,12 @@ Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## II. Abschnitt - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000200314)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001301310)
 
 (1) Die Entscheidung nach § 2 Abs. 1 trifft die zuständige Behörde des
 Landes, in dem der Antragsteller die Prüfung abgelegt hat.
@@ -610,10 +624,12 @@ zuständigen Behörden.
 
 
 ## III. Abschnitt - Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000300314)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001401320)
 
 (1) Ordnungswidrig handelt, wer ohne Erlaubnis nach § 1 oder § 8 Abs.
 1 die Berufsbezeichnung "Logopäde" oder "Logopädin" führt.
@@ -623,10 +639,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## IV. Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000400314)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001500314)
 
 (1) Als Erlaubnis nach § 1 gilt eine auf Grund der in § 11 Satz 2
 bezeichneten Bestimmungen erteilte staatliche Anerkennung als
@@ -653,6 +671,7 @@ nach § 1.
 
 
 ### § 8a
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE002400360)
 
 (1) Die Länder können bestimmen, dass die Ausbildung abweichend von
 § 4 Absatz 1 an Hochschulen durchgeführt wird. Sie legen Ziele, Dauer,
@@ -683,10 +702,12 @@ gefährdet werden.
 
 
 ## V. Abschnitt - Anwendung des Verwaltungsverfahrensgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000500314)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001600314)
 
 Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ist das Verwaltungsverfahrensgesetz
@@ -694,15 +715,18 @@ anzuwenden.
 
 
 ## VI. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNG000600314)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001701310)
 
 (weggefallen)
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/logopg/BJNR005290980.html#BJNR005290980BJNE001803116)
 
 § 4 Absatz 5 bis 7 tritt am 31. Dezember 2024 außer Kraft.
 Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2024 begonnen

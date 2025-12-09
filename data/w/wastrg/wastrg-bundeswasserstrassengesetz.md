@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000103308)
 
 
 
 ### § 1 Binnenwasserstraßen, Seewasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001211125)
 
 (1) Bundeswasserstraßen nach diesem Gesetz sind
 
@@ -128,6 +130,7 @@ Bezeichnungen für sie festgesetzt oder geändert werden.
 
 
 ### § 2 Bestandsänderung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001307125)
 
 (1) Soll ein Gewässer Bundeswasserstraße werden oder soll ein Gewässer
 die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer
@@ -142,6 +145,7 @@ Rechtsverordnung zu bewirken.
 
 
 ### § 3 Erweiterung und Durchstiche
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001404124)
 
 (1) Werden Landflächen an einer Bundeswasserstraße zum Gewässer und
 wird dadurch das Gewässerbett der Bundeswasserstraße für dauernd
@@ -156,10 +160,12 @@ Bundeswasserstraßen.
 
 
 ## Abschnitt 2 - Wahrung der Bedürfnisse der Landeskultur und der Wasserwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000203308)
 
 
 
 ### § 4 Einvernehmen mit den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001503308)
 
 Bei der Verwaltung, dem Ausbau und dem Neubau von Bundeswasserstraßen
 sind die Bedürfnisse der Landeskultur und der Wasserwirtschaft im
@@ -167,10 +173,12 @@ Einvernehmen mit den Ländern zu wahren.
 
 
 ## Abschnitt 3 - Befahren mit Wasserfahrzeugen und Gemeingebrauch
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000303308)
 
 
 
 ### § 5 Befahren mit Wasserfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001610125)
 
 Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts sowie
 der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit
@@ -186,6 +194,7 @@ werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
 
 
 ### § 6 Gemeingebrauch
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001704119)
 
 Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch
 geregelt, beschränkt oder untersagt werden, soweit es zur Erhaltung
@@ -197,10 +206,12 @@ untersagen.
 
 
 ## Abschnitt 4 - Unterhaltung der Bundeswasserstraßen und Betrieb der bundeseigenen Schifffahrtsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000403308)
 
 
 
 ### § 7 Allgemeine Vorschriften über Unterhaltung und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001804308)
 
 (1) Die Unterhaltung der Bundeswasserstraßen und der Betrieb der
 bundeseigenen Schifffahrtsanlagen sind Hoheitsaufgaben des Bundes.
@@ -223,6 +234,7 @@ Erfordernisse des Denkmalschutzes zu berücksichtigen.
 
 
 ### § 8 Umfang der Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE001912360)
 
 (1) Die Unterhaltung der Binnenwasserstraßen (§ 1 Abs. 1 Nr. 1)
 umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den
@@ -266,6 +278,7 @@ Wasserstraßen von den Ländern auf das Reich vom 18. Februar 1922
 
 
 ### § 9 Maßnahmen in Landflächen an Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002005308)
 
 (1) Maßnahmen in Landflächen an Bundeswasserstraßen, die notwendig
 sind, um für die Schifffahrt nachteilige Veränderungen des
@@ -276,6 +289,7 @@ vorherigen Planfeststellung. Die §§ 14 bis 21 sind anzuwenden.
 
 
 ### § 10 Anlagen und Einrichtungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002103308)
 
 Anlagen und Einrichtungen in, über oder unter einer Bundeswasserstraße
 oder an ihrem Ufer sind von ihren Eigentümern und Besitzern so zu
@@ -286,6 +300,7 @@ beeinträchtigt werden.
 
 
 ### § 11 Besondere Pflichten im Interesse der Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002204119)
 
 (1) Soweit es zur Unterhaltung einer Bundeswasserstraße erforderlich
 ist, haben die Anlieger und die Hinterlieger nach vorheriger
@@ -313,10 +328,12 @@ Verpflichteten ist Rücksicht zu nehmen.
 
 
 ## Abschnitt 5 - Ausbau und Neubau der Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000503308)
 
 
 
 ### § 12 Allgemeine Vorschriften über Ausbau und Neubau
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002310360)
 
 (1) Der Ausbau und der Neubau der Bundeswasserstraßen sind
 Hoheitsaufgaben des Bundes.
@@ -386,6 +403,7 @@ Auswirkungen auf den Hochwasserschutz vermieden werden.
 
 
 ### § 13 Planungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002411125)
 
 (1) Das Bundesministerium für Digitales und Verkehr bestimmt im
 Einvernehmen mit der zuständigen Landesbehörde die Planung und
@@ -405,6 +423,7 @@ auch die dadurch entstandenen Kosten zu ersetzen.
 
 
 ### § 14 Planfeststellung, vorläufige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002516125)
 
 (1) Der Ausbau, der Neubau oder die Beseitigung von
 Bundeswasserstraßen bedarf der vorherigen Planfeststellung. Bei der
@@ -465,6 +484,7 @@ zu entscheiden.
 
 
 ### § 14a Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007007125)
 
 (1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten §
 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21 des
@@ -540,6 +560,7 @@ unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
 
 
 ### § 14b Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007106125)
 
 (1) Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
 Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -639,6 +660,7 @@ Information im Internet veröffentlicht werden.
 
 
 ### § 14c Rechtswirkungen der Planfeststellung und der Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007204125)
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 § 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
@@ -672,6 +694,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
 
 
 ### § 14d Planänderung vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007303377)
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
@@ -685,6 +708,7 @@ dieses Gesetzes.
 
 
 ### § 14e Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007404125)
 
 (1) § 50 Abs. 1 Nr. 6 der Verwaltungsgerichtsordnung gilt für Vorhaben
 im Sinne des § 14 Abs. 1 Satz 1, soweit die Vorhaben
@@ -740,6 +764,7 @@ Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
 
 
 ### § 14f Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007700124)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt kann einen Dritten
 mit der Vorbereitung und Durchführung von Verfahrensschritten,
@@ -771,6 +796,7 @@ verbleibt bei der zuständigen Behörde.
 
 
 ### § 15 Veränderungssperre, Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002609125)
 
 (1) Sobald der Plan auf der Internetseite der Planfeststellungsbehörde
 veröffentlicht, ausgelegt oder andere Gelegenheit gegeben ist, den
@@ -795,6 +821,7 @@ betroffenen Flächen ein Vorkaufsrecht zu.
 
 
 ### § 16 Besondere Pflichten im Interesse des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002705125)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
 der Planung und der Baudurchführung notwendige Kampfmittelräumungen,
@@ -820,6 +847,7 @@ unmittelbare Vermögensnachteile entstehen.
 
 
 ### § 17 Veröffentlichung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002809125)
 
 Wird der Plan nicht nach § 14a Absatz 3 Satz 1 dieses Gesetzes, § 27a
 Absatz 1 des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über
@@ -832,6 +860,7 @@ ausgelegten Plans. Hierauf ist bei der Veröffentlichung hinzuweisen.
 
 
 ### § 18 Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE002905125)
 
 (1) Wird ein Planfeststellungsverfahren oder ein
 Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
@@ -879,6 +908,7 @@ Planfeststellungsbehörde eingereicht wurde.
 
 
 ### § 18a Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007900125)
 
 (1) Bei grenzüberschreitenden Vorhaben nach § 18 Absatz 1 Satz 1
 sollen die zuständigen Behörden zusammenarbeiten, erforderliche
@@ -902,6 +932,7 @@ unterrichten.
 
 
 ### § 18b Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE008000125)
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
 hat die Planfeststellungsbehörde dem Bundesministerium für Digitales
@@ -934,10 +965,12 @@ mitzuteilen:
 
 
 ### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007801125)
 
 
 
 ### § 20 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003106125)
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
 der Eigentümer oder Besitzer, den Besitz eines für den Neubau oder den
@@ -1016,6 +1049,7 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 
 ### § 21 Ausschluss von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003206305)
 
 (1) Dient der Ausbau oder der Neubau dem Wohl der Allgemeinheit und
 ist der festgestellte Plan unanfechtbar, sind Ansprüche wegen
@@ -1031,20 +1065,24 @@ festgestellten Plans angeordnete Auflagen nicht erfüllt hat.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003304308)
 
 (weggefallen)
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003404308)
 
 (weggefallen)
 
 
 ## Abschnitt 6 - Ordnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000603308)
 
 
 
 ### § 24 Strompolizei
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003504119)
 
 (1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
 Bundes haben die Aufgabe, zur Gefahrenabwehr Maßnahmen zu treffen, die
@@ -1061,6 +1099,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 ### § 25 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003604360)
 
 (1) Strompolizeiliche Maßnahmen, die durch das Verhalten von Personen
 erforderlich werden, sind gegen die Personen zu richten, die die
@@ -1084,6 +1123,7 @@ gestellten Antrag als allein verantwortlich anerkannt worden ist.
 
 
 ### § 26 Inanspruchnahme nicht verantwortlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003704119)
 
 (1) Zur Abwehr einer unmittelbar bevorstehenden Gefahr oder zur
 Beseitigung einer bereits eingetretenen Störung können die Behörden
@@ -1116,6 +1156,7 @@ Beseitigung der Gefahr oder der Störung getroffen werden können.
 
 
 ### § 27 Strompolizeiverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE003808125)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
@@ -1133,6 +1174,7 @@ Aufhebung für ihren Erlass zuständige Behörde.
 
 
 ### § 28 Strompolizeiliche Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004007305)
 
 (1) Die Wasserstraßen- und Schifffahrtsämter können zur Erfüllung der
 Aufgaben nach § 24 Abs. 1 Anordnungen erlassen, die an bestimmte
@@ -1154,6 +1196,7 @@ der §§ 4 bis 5n des Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
 ### § 29 Verhältnismäßigkeit, Wahl der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004104119)
 
 (1) Eine strompolizeiliche Verfügung darf nicht zu einem Schaden
 führen, der zu dem beabsichtigten Erfolg erkennbar außer Verhältnis
@@ -1176,6 +1219,7 @@ Anfechtungsklage.
 
 
 ### § 30 Besondere Befugnisse zur Beseitigung von Schifffahrtshindernissen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004307305)
 
 (1) Wird der für die Schifffahrt erforderliche Zustand einer
 Bundeswasserstraße oder die Sicherheit oder Leichtigkeit des Verkehrs
@@ -1263,6 +1307,7 @@ Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
 ### § 31 Strom- und schifffahrtspolizeiliche Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004414119)
 
 (1) Einer strom- und schifffahrtspolizeilichen Genehmigung des
 Wasserstraßen- und Schifffahrtsamtes bedürfen
@@ -1341,6 +1386,7 @@ erforderlichen Verwaltungsakte.
 
 
 ### § 32 Rücknahme und Widerruf der strom- und schifffahrtspolizeilichen Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004504119)
 
 (1) Das Wasserstraßen- und Schifffahrtsamt kann die strom- und
 schifffahrtspolizeiliche Genehmigung ganz oder teilweise widerrufen,
@@ -1374,6 +1420,7 @@ ohne Entschädigung widerrufen, wenn der Unternehmer
 
 
 ### § 33 Besondere Pflichten im Interesse der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004604119)
 
 (1) Überprüft das Wasserstraßen- und Schifffahrtsamt, ob die
 Bedingungen und Auflagen der strom- und schifffahrtspolizeilichen
@@ -1406,10 +1453,12 @@ der für ihn tätigen Personen handelt.
 
 
 ## Abschnitt 7 - Besondere Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000703308)
 
 
 
 ### § 34 Schifffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004710125)
 
 (1) Das Setzen und Betreiben von Schifffahrtszeichen, die für die
 Schifffahrt auf Bundeswasserstraßen gelten, sind Hoheitsaufgaben des
@@ -1453,6 +1502,7 @@ Wirtschaft und Klimaschutz festgelegten Vergütungssätze fest.
 
 
 ### § 35 Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004806305)
 
 (1) Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes unterhält
 neben der ihr nach § 8 obliegenden Unterhaltung, soweit möglich und
@@ -1470,10 +1520,12 @@ einer mit den Ländern zu schließenden Vereinbarung zuständig.
 
 
 ## Abschnitt 8 - Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000803308)
 
 
 
 ### § 36 Allgemeine Vorschriften über Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE004903308)
 
 (1) Eine Entschädigung nach diesem Gesetz bemisst sich nach dem
 Entgelt, das für eine vergleichbare Leistung im Wirtschaftsverkehr
@@ -1511,6 +1563,7 @@ das Grundstück zum Verkehrswert erwirbt.
 
 
 ### § 37 Einigung, Festsetzungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005004119)
 
 (1) Zuständig für die Festsetzung der Entschädigung ist die
 Generaldirektion Wasserstraßen und Schifffahrt. Sie hat auf eine
@@ -1543,6 +1596,7 @@ Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 ### § 38 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005104119)
 
 (1) Die Zwangsvollstreckung nach der Zivilprozessordnung findet statt
 
@@ -1567,6 +1621,7 @@ nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
 
 
 ### § 39 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005205305)
 
 (1) Wegen der Festsetzung der Entschädigung können die Beteiligten
 binnen einer Frist von drei Monaten nach Zustellung des Bescheides
@@ -1597,10 +1652,12 @@ Berechtigten den Bescheid für vorläufig vollstreckbar erklären.
 
 
 ## Abschnitt 9 - Kreuzungen mit öffentlichen Verkehrswegen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG000903308)
 
 
 
 ### § 40 Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005303308)
 
 (1) Erfordert die Linienführung einer neu zu bauenden
 Bundeswasserstraße oder eines anderen neuen öffentlichen Verkehrsweges
@@ -1628,6 +1685,7 @@ Kreuzungsanlagen.
 
 
 ### § 41 Kosten der Herstellung von Kreuzungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005409125)
 
 (1) Werden Bundeswasserstraßen ausgebaut oder neu gebaut und müssen
 neue Kreuzungen mit öffentlichen Verkehrswegen hergestellt oder
@@ -1686,6 +1744,7 @@ Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 
 ### § 42 Unterhaltung der Kreuzungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005508125)
 
 (1) Die Kreuzungsanlagen im Zuge öffentlicher Verkehrswege hat der
 Beteiligte zu unterhalten, der die Kosten der Herstellung der
@@ -1732,6 +1791,7 @@ vereinbart wird.
 
 
 ### § 43 Durchfahrten unter Brücken im Zuge öffentlicher Verkehrswege
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005604119)
 
 (1) Ist die Durchfahrt unter Brücken im Zuge öffentlicher Verkehrswege
 durch Leitwerke, Leitpfähle, Dalben, Absetzpfähle oder ähnliche
@@ -1774,10 +1834,12 @@ Bundes nach den Absätzen 2 bis 4 nicht berührt.
 
 
 ## Abschnitt 10 - Durchführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG001003308)
 
 
 
 ### § 44 Enteignung für Zwecke der Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005703308)
 
 (1) Für Zwecke der Unterhaltung, des Ausbaus und des Neubaus von
 Bundeswasserstraßen durch den Bund, für die Errichtung von
@@ -1796,6 +1858,7 @@ Landesrecht durchgeführt.
 
 
 ### § 45 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005807119)
 
 (1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
 Bundes führen dieses Gesetz durch, wenn es nichts anderes bestimmt.
@@ -1835,6 +1898,7 @@ unberührt.
 
 
 ### § 46 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE005909125)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 Rechtsverordnungen zu erlassen über
@@ -1862,9 +1926,11 @@ Wasserstraßen und Schifffahrt übertragen.
 
 
 ### § 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006010377)
 
 
 ### § 48 Anforderungen der Sicherheit und Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006104119)
 
 Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes ist dafür
 verantwortlich, dass die bundeseigenen Schifffahrtsanlagen und
@@ -1874,15 +1940,18 @@ Genehmigungen, Erlaubnisse und Abnahmen bedarf es nicht.
 
 
 ## Abschnitt 11 - Bußgeldvorschriften, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNG001103308)
 
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006203308)
 
 (weggefallen)
 
 
 ### § 50 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006306124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1946,6 +2015,7 @@ Schifffahrt.
 
 
 ### § 51 Ordnungswidrigkeitendatei
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007604125)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 Datei über die von ihr verfolgten Ordnungswidrigkeiten gemäß § 50 zum
@@ -2053,10 +2123,12 @@ besonderer Bedeutung eine längere Frist erforderlich ist.
 
 
 ### (XXXX) §§ 52 bis 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006404305)
 
 
 
 ### § 56 Überleitungs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006506125)
 
 (1) Wenn bei dem Inkrafttreten dieses Gesetzes Talsperren und
 Speicherbecken mit Wasserfahrzeugen befahren werden dürfen, ist eine
@@ -2116,22 +2188,26 @@ verweist.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006605308)
 
 (weggefallen)
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006703308)
 
 (weggefallen)
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006803308)
 
 (Inkrafttreten)
 
 (zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)
 
 ### Anlage 1 Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE006921360)
 
 Fundstelle: (BGBl. I 2021, 1298 - 1305)
 
@@ -3155,6 +3231,7 @@ Fundstelle: (BGBl. I 2021, 1298 - 1305)
 (zu § 14e Abs. 1)
 
 ### Anlage 2 Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE007503125)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 985,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3219,6 +3296,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (zu § 18 Absatz 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE008100125)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 30)
 
@@ -3283,6 +3361,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 4 (zu § 18 Absatz 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE008200125)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 30 – 31)
 
@@ -3477,6 +3556,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
 (BGBl. II 1990, 889, 1111)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/wastrg/BJNR201730968.html#BJNR201730968BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

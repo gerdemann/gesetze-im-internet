@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000100310)
 
 Auf Grund
 
@@ -62,6 +63,7 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000200310)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2001 an 49,51 Deutsche
 Mark und vom 1. Januar 2002 an 25,31406 Euro.
@@ -71,6 +73,7 @@ Deutsche Mark und vom 1. Januar 2002 an 22,06224 Euro.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000300310)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2001 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -85,6 +88,7 @@ Der Anpassungsfaktor beträgt 1,0211.
 
 
 ## § 3 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000400310)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2001 an
@@ -103,6 +107,7 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000500310)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 2001 an 22,86 Deutsche Mark und vom 1. Januar 2002
@@ -114,6 +119,7 @@ Januar 2002 an 10,19005 Euro.
 
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000600310)
 
 Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
 dem 30. Juni 2001 ergehen, sind die Angleichungsfaktoren zur
@@ -215,11 +221,13 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000700310)
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_2001/BJNR104000001.html#BJNR104000001BJNE000800310)
 
 Der Bundesrat hat zugestimmt.
 

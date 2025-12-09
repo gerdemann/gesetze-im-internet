@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grfdv/BJNR02E0A0023.html#BJNR02E0A0023BJNE000100000)
 
 Auf Grund des § 30 Absatz 1 Satz 2 und des § 31 Absatz 1 Satz 2 des
 Bundespolizeigesetzes, die zuletzt jeweils durch Artikel 26 der
@@ -30,6 +31,7 @@ Innern und für Heimat:
 
 
 ## § 1 Personenbezogene Daten für die Personenfahndung
+[Direktlink](https://www.gesetze-im-internet.de/grfdv/BJNR02E0A0023.html#BJNR02E0A0023BJNE000200000)
 
 (1) Personenbezogene Daten im Sinne von § 30 Absatz 1 Satz 1 und § 31
 Absatz 1 Satz 1 des Bundespolizeigesetzes zur Fahndung nach Personen
@@ -258,6 +260,7 @@ Beamtinnen und Beamten oder zum Schutz Dritter erforderlich sind.
 
 
 ## § 2 Personenbezogene Daten für die Sachfahndung
+[Direktlink](https://www.gesetze-im-internet.de/grfdv/BJNR02E0A0023.html#BJNR02E0A0023BJNE000300000)
 
 Personenbezogene Daten im Sinne von § 30 Absatz 1 Satz 1 und § 31
 Absatz 1 Satz 1 des Bundespolizeigesetzes zur Fahndung nach Sachen
@@ -302,6 +305,7 @@ sind
 
 
 ## § 3 Vorgangsdaten, Angaben zur Fahndungsnotierung
+[Direktlink](https://www.gesetze-im-internet.de/grfdv/BJNR02E0A0023.html#BJNR02E0A0023BJNE000400000)
 
 Zu personenbezogenen Daten im Sinne von § 30 Absatz 1 Satz 1 und § 31
 Absatz 1 Satz 1 des Bundespolizeigesetzes können insbesondere folgende
@@ -332,6 +336,7 @@ Vorgangsdaten und Angaben zur Fahndungsnotierung verarbeitet werden
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/grfdv/BJNR02E0A0023.html#BJNR02E0A0023BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

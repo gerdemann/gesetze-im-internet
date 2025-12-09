@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_00-03-27/BJNR044510000.html#BJNR044510000BJNE000100305)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekannt gemacht, dass das
@@ -36,6 +37,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage Amtliches Prüf- und Gewährzeichen der Bundesrepublik Deutschland für die Sicherheit von informationstechnischen Systemen und Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_00-03-27/BJNR044510000.html#BJNR044510000BJNE000200305)
 
 (Fundstelle: BGBl. I 2000, 446)
 

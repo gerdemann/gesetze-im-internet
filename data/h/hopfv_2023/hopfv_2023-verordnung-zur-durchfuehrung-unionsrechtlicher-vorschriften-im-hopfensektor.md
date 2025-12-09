@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 7821-2-2 v. 27.1.2009 I 152 (HopfV)
 
 ## § 1 Anwendungsbereich und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000200000)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
@@ -69,9 +70,11 @@ Verordnung, soweit in dieser Verordnung nicht anderes bestimmt ist.
 
 
 ## Abschnitt 1 - Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000100000)
 
 
 ### § 2 Zertifizierungstermin
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000300000)
 
 (1) Der Endtermin für die Zertifizierung von Rohhopfen nach Artikel 6
 Absatz 2 der Verordnung (EG) Nr. 1850/2006 der Kommission vom 14.
@@ -86,9 +89,11 @@ zuständigen Stellen zuständig.
 
 
 ## Abschnitt 2 - Förderfähige Flächen und Betriebsfonds
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000200000)
 
 
 ### § 3 Höchstbetrag der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000400000)
 
 Der Höchstbetrag der Beihilfe der Union wird entsprechend Artikel 62
 Absatz 1 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und
@@ -113,6 +118,7 @@ und ökologischen Zustand (GLÖZ-Standard) Nr. 1 (ABl. L 20 vom
 
 
 ### § 4 Betriebsfonds
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000501119)
 
 (1) Der Betriebsfonds ist über eine Finanzbuchhaltung zu verwalten,
 die es ermöglicht, alle Ausgaben und Einnahmen im Rahmen des
@@ -131,9 +137,11 @@ der Prüfung, spätestens aber mit dem Beihilfeantrag, vorzulegen.
 
 
 ## Abschnitt 3 - Operationelle Programme
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000300000)
 
 
 ### § 5 Beantragung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000600000)
 
 (1) Ein operationelles Programm ist von einer anerkannten
 Erzeugerorganisation unter Vorlage der erforderlichen Unterlagen bis
@@ -224,6 +232,7 @@ Zahlungen darf nicht Gegenstand eines operationellen Programms sein.
 
 
 ### § 6 Genehmigung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000700000)
 
 (1) Die Bundesanstalt hat über die Genehmigung des operationellen
 Programms und des Betriebsfonds bis zum 30. Juni des Jahres der
@@ -240,6 +249,7 @@ der Anerkennung als Erzeugerorganisation genehmigt werden.
 
 
 ### § 7 Durchführungszeitraum der operationellen Programme
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000801119)
 
 (1) Ein operationelles Programm ist in Jahrestranchen durchzuführen,
 die jeweils ein Kalenderjahr umfassen.
@@ -249,6 +259,7 @@ Programms beginnt rückwirkend am 1. Januar des laufenden Jahres.
 
 
 ### § 8 Änderung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE000900000)
 
 (1) Änderungen des operationellen Programms und des Betriebsfonds des
 laufenden Programmjahres können höchstens einmal im Jahr schriftlich
@@ -282,9 +293,11 @@ entscheiden.
 
 
 ## Abschnitt 4 - Gewährung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000400000)
 
 
 ### § 9 Beihilfeantrag
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001001119)
 
 (1) Die Beihilfe wird auf Antrag durch Bescheid gewährt.
 
@@ -347,6 +360,7 @@ Investition zu enthalten hat.
 
 
 ### § 10 Gewährung und Zahlung einer Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001100000)
 
 (1) Die Bundesanstalt soll über die Gewährung einer Beihilfe innerhalb
 von zwölf Wochen nach Antragseingang entscheiden.
@@ -360,6 +374,7 @@ unverzüglich an die Zahlstelle zurückzuzahlen.
 
 
 ### § 11 Anforderungen an die förderfähigen Hopfenflächen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001200000)
 
 (1) Förderfähige Hopfenanbauflächen müssen zum Zeitpunkt der Stellung
 des Beihilfeantrages durch die anerkannten Erzeugerorganisationen mit
@@ -395,6 +410,7 @@ förderfähig.
 
 
 ### § 12 Einstellung eines operationellen Programms
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001300000)
 
 (1) Stellt eine anerkannte Erzeugerorganisation die Durchführung ihres
 operationellen Programms vor dem Ende der geplanten Laufzeit ein,
@@ -419,6 +435,7 @@ wurden, sind nicht zurückzufordern, sofern
 
 
 ### § 13 Zweckbindungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001400000)
 
 Für alle im Rahmen einer Beihilfe nach der Verordnung (EU) 2021/2115
 und der Verordnung (EU) Nr. 1308/2013 geförderten Investitionen gilt
@@ -433,6 +450,7 @@ aufgegeben werden darf.
 
 
 ### § 14 Rechtswidrige Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001500000)
 
 (1) Die Gewährung einer Beihilfe ist rechtswidrig, sofern
 
@@ -465,9 +483,11 @@ Maßnahmen nicht erreicht werden können.
 
 
 ## Abschnitt 5 - Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000500000)
 
 
 ### § 15 Rechnungsführung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001600000)
 
 (1) Die im Rahmen des operationellen Programms getätigten Ausgaben
 sind durch Rechnungen und Zahlungsnachweise zu belegen. Rechnungen
@@ -480,6 +500,7 @@ Namen der anerkannten Erzeugerorganisation ausgestellt sein.
 
 
 ### § 16 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001700000)
 
 (1) Eine anerkannte Erzeugerorganisation und ihre Mitglieder sind
 verpflichtet, zum Zwecke der Überwachung der Bundesanstalt im Rahmen
@@ -527,6 +548,7 @@ aufzuklären.
 
 
 ### § 17 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001800000)
 
 (1) Eine anerkannte Erzeugerorganisation hat der Bundesanstalt alle
 nach Unionsrecht und nationalem Recht erforderlichen Angaben,
@@ -548,9 +570,11 @@ Anträgen übereinstimmen, unverzüglich anzuzeigen.
 
 
 ## Abschnitt 6 - Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000600000)
 
 
 ### § 18 Verwaltungskontrollen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE001900000)
 
 (1) Die Bundesanstalt hat vor der Genehmigung eines operationellen
 Programms und vor der Gewährung einer Beihilfe Verwaltungskontrollen
@@ -628,6 +652,7 @@ Maßnahmen zu protokollieren.
 
 
 ### § 19 Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002000000)
 
 (1) Die Bundesanstalt hat ergänzend zu den Verwaltungskontrollen bei
 den anerkannten Erzeugerorganisationen nach Maßgabe der folgenden
@@ -698,6 +723,7 @@ zusätzliche Vor-Ort-Kontrollen durchzuführen.
 
 
 ### § 20 Berichte über Vor-Ort-Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002100000)
 
 (1) Für jede Vor-Ort-Kontrolle ist im Anschluss an die Kontrolle ein
 schriftlicher oder elektronischer Bericht zu erstellen, der mindestens
@@ -726,6 +752,7 @@ Kopie des Berichts.
 
 
 ### § 21 Kontrollen zum Ausschluss einer regelwidrigen Doppelfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002200000)
 
 Die Bundesanstalt hat regelmäßig Kontrollen mit dem Ziel
 durchzuführen, eine regelwidrige Doppelfinanzierung auszuschließen.
@@ -736,6 +763,7 @@ nationalen oder unionsrechtlichen Förderprogrammen erhält.
 
 
 ### § 22 Kontrollen zur Einhaltung der Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002300000)
 
 (1) Die Bundesanstalt hat bei jedem Beihilfeempfänger stichprobenartig
 die Einhaltung der Zweckbindung von Investitionen während der
@@ -754,9 +782,11 @@ zu dokumentieren.
 
 
 ## Abschnitt 7 - Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000700000)
 
 
 ### § 23 Verwaltungssanktionen bei Wegfall der Beihilfevoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002400000)
 
 (1) Hat die Bundesanstalt festgestellt, dass eine anerkannte
 Erzeugerorganisation eine Voraussetzung für die Gewährung einer unter
@@ -799,6 +829,7 @@ durchgeführt werden.
 
 
 ### § 24 Verwaltungssanktionen bei Verstößen im Zusammenhang mit dem jährlichen Leistungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002500000)
 
 § 23 ist entsprechend anzuwenden, sofern eine anerkannte
 Erzeugerorganisation der Bundesanstalt die für den jährlichen
@@ -807,6 +838,7 @@ erforderlichen Angaben nicht oder nicht vollständig übermittelt.
 
 
 ### § 25 Verwaltungssanktionen bei hinreichendem Verdacht von Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002600000)
 
 Ergibt sich aus Ermittlungen der Staatsanwaltschaft, der Europäischen
 Staatsanwaltschaft, der Bundesanstalt oder einer anderen Behörde der
@@ -838,6 +870,7 @@ besteht.
 
 
 ### § 26 Verwaltungssanktionen bei Verhinderung von Vor-Ort-Kontrollen und bei Verstoß gegen sonstige Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002700000)
 
 (1) Die Bundesanstalt hat einen Antrag auf Genehmigung eines
 operationellen Programms oder auf Beihilfe abzulehnen, soweit die
@@ -858,6 +891,7 @@ stehende Duldungs-, Mitteilungs- oder Mitwirkungspflichten verstößt.
 
 
 ### § 27 Kürzung bei verspäteter Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002800000)
 
 Bei einem Beihilfeantrag, der nach dem in § 9 Absatz 2 festgesetzten
 Zeitpunkt eingereicht wird, ist die Beihilfe für jeden Verzugstag um
@@ -865,12 +899,14 @@ ein Prozent zu kürzen.
 
 
 ### § 28 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE002900000)
 
 Zu Unrecht gezahlte Beträge können mit Zahlungen des gleichen Jahres
 oder der Folgejahre aufgerechnet werden.
 
 
 ### § 29 Ausnahmen bei höherer Gewalt und außergewöhnlichen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE003000000)
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht, wenn die Verstöße
 auf höhere Gewalt oder außergewöhnliche Umstände im Sinne des Artikels
@@ -884,9 +920,11 @@ Umstände anzuzeigen.
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNG000800000)
 
 
 ### § 30 Muster und Formulare
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE003100000)
 
 Für alle Anträge und Meldungen kann die Bundesanstalt schriftliche
 oder elektronische Muster bekannt geben oder schriftliche oder
@@ -895,6 +933,7 @@ bekannt gibt oder Formulare bereithält, sind diese zu verwenden.
 
 
 ### § 31 Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/hopfv_2023/BJNR03D0B0023.html#BJNR03D0B0023BJNE003200000)
 
 Zum Zweck der Beantragung eines operationellen Programms, zur
 Beantragung einer Beihilfe sowie zur Durchführung von Kontrollen

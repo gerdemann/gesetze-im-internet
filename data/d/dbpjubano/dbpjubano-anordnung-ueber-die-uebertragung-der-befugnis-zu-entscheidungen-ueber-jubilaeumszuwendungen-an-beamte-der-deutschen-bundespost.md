@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dbpjubano/BJNR516800962.html#BJNR516800962BJNE000100314)
 
 Aufgrund des § 8 Abs. 1 der Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962
@@ -43,11 +44,13 @@ je für ihren Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dbpjubano/BJNR516800962.html#BJNR516800962BJNE000200314)
 
 Diese Anordnung tritt mit Wirkung vom 7. August 1962 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dbpjubano/BJNR516800962.html#BJNR516800962BJNE000300314)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

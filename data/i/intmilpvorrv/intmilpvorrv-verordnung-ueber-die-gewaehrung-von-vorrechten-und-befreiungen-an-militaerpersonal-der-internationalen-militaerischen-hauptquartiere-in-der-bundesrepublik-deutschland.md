@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/intmilpvorrv/BJNR204450976.html#BJNR204450976BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/intmilpvorrv/BJNR204450976.html#BJNR204450976BJNE000200314)
 
 Generalen und Admiralen nichtdeutscher Staatsangehörigkeit, die bei
 internationalen militärischen Hauptquartieren in der Bundesrepublik
@@ -46,6 +48,7 @@ Befreiungen gewährt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/intmilpvorrv/BJNR204450976.html#BJNR204450976BJNE000300314)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

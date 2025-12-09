@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000100000)
 
 Der Ausbildungsberuf Polster- und Dekorationsnäher/ Polster- und
 Dekorationsnäherin wird
@@ -35,11 +36,13 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000200000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000300000)
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse
@@ -53,6 +56,7 @@ in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten, Kenntnisse und Fähigkeiten:
@@ -111,6 +115,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000500000)
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen
 nach der in der Anlage enthaltenen Anleitung zur sachlichen und
@@ -122,6 +127,7 @@ Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -129,6 +135,7 @@ zu erstellen.
 
 
 ## § 7 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000700000)
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
 führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
@@ -138,6 +145,7 @@ durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des ersten Ausbildungsjahres
@@ -172,6 +180,7 @@ Wirtschaftlichkeit berücksichtigen kann.
 
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE000900000)
 
 (1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf
@@ -307,6 +316,7 @@ der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -316,6 +326,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
+[Direktlink](https://www.gesetze-im-internet.de/polst_dekoausbv/BJNR128510005.html#BJNR128510005BJNE001100000)
 
 (Fundstelle: BGBl. I 2005, 1288 - 1291)
 

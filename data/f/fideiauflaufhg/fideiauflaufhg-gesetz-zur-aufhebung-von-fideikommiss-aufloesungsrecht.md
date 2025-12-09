@@ -17,11 +17,13 @@ Fundstelle
 
 
 ## § 1 Aufhebung von Fideikommiss-Auflösungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/fideiauflaufhg/BJNR262200007.html#BJNR262200007BJNE000100000)
 
 -
 
 
 ## § 2 Folgen der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/fideiauflaufhg/BJNR262200007.html#BJNR262200007BJNE000200000)
 
 (1) Die Rechtsvorschriften im Sinn des § 1 bleiben bis zum Erlass
 landesrechtlicher Regelungen auch für die Zukunft auf Tatbestände und

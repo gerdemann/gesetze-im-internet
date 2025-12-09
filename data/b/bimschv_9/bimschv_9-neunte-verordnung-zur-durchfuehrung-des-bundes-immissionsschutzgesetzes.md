@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000101308)
 
 
 
 ### Erster Abschnitt - Anwendungsbereich, Antrag, Unterlagen und Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000202130)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001007116)
 
 (1) Für die in der Vierten Verordnung zur Durchführung des Bundes-
 Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige
@@ -87,6 +90,7 @@ durchzuführen.
 
 
 #### § 1a Gegenstand der Prüfung der Umweltverträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003704116)
 
 Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung,
 Beschreibung und Bewertung der für die Prüfung der
@@ -118,6 +122,7 @@ relevant sind.
 
 
 #### § 2 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001107116)
 
 (1) Der Antrag ist von dem Träger des Vorhabens bei der
 Genehmigungsbehörde schriftlich oder elektronisch zu stellen. Träger
@@ -165,6 +170,7 @@ Bei UVP-pflichtigen Vorhaben gilt ergänzend § 2a.
 
 
 #### § 2a Unterrichtung über den Untersuchungsrahmen bei UVP-pflichtigen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003803116)
 
 (1) Auf Antrag des Trägers des UVP-pflichtigen Vorhabens oder wenn die
 Genehmigungsbehörde es für zweckmäßig hält, unterrichtet und berät die
@@ -217,6 +223,7 @@ wird.
 
 
 #### § 2b Projektmanager
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE005300130)
 
 (1) Die Genehmigungsbehörde soll in jeder Stufe des Verfahrens einen
 Dritten als Projektmanager, der als Verwaltungshelfer beschäftigt
@@ -272,6 +279,7 @@ Vorhabenträger das Ergebnis dieser Prüfung unverzüglich mit.
 
 
 #### § 3 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001203116)
 
 Der Antrag muss enthalten
 
@@ -304,6 +312,7 @@ anzugeben.
 
 
 #### § 4 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001307116)
 
 (1) Dem Antrag sind die Unterlagen beizufügen, die zur Prüfung der
 Genehmigungsvoraussetzungen erforderlich sind. Dabei ist zu
@@ -357,6 +366,7 @@ auch der federführenden Behörde zuzuleiten.
 
 
 #### § 4a Angaben zur Anlage und zum Anlagenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003910116)
 
 (1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21
 erforderlichen Angaben enthalten über
@@ -519,6 +529,7 @@ bereits vorhandener Bericht über den Ausgangszustand ist zu ergänzen.
 
 
 #### § 4b Angaben zu den Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004008116)
 
 (1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21
 erforderlichen Angaben enthalten über
@@ -585,6 +596,7 @@ verlangen, die für die Auslegung geeignet ist.
 
 
 #### § 4c Plan zur Behandlung der Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004103320)
 
 Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21
 erforderlichen Angaben enthalten über die Maßnahmen zur Vermeidung
@@ -621,6 +633,7 @@ machen zu
 
 
 #### § 4d Angaben zur Energieeffizienz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004202320)
 
 Die Unterlagen müssen Angaben über vorgesehene Maßnahmen zur sparsamen
 und effizienten Energieverwendung enthalten, insbesondere Angaben über
@@ -630,6 +643,7 @@ Nutzung der anfallenden Energie.
 
 
 #### § 4e Zusätzliche Angaben zur Prüfung der Umweltverträglichkeit; UVP-Bericht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004303116)
 
 (1) Der Träger des UVP-pflichtigen Vorhabens hat den Unterlagen einen
 Bericht zu den voraussichtlichen Auswirkungen des UVP-pflichtigen
@@ -732,6 +746,7 @@ genannten Schutzgüter als Vorbelastung zu berücksichtigen.
 
 
 #### § 5 Vordrucke und elektronische Dateiformate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001402130)
 
 Die Genehmigungsbehörde kann die Verwendung von Vordrucken für den
 Antrag und die Unterlagen verlangen. Bei elektronischer Antragstellung
@@ -740,6 +755,7 @@ bestimmende Behörde das Datenformat festlegen.
 
 
 #### § 6 Eingangsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001502116)
 
 Die Genehmigungsbehörde hat dem Antragsteller den Eingang des Antrags
 und der Unterlagen unverzüglich schriftlich oder elektronisch zu
@@ -747,6 +763,7 @@ bestätigen.
 
 
 #### § 7 Prüfung der Vollständigkeit, Verfahrensablauf
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001606130)
 
 (1) Die Genehmigungsbehörde hat nach Eingang des Antrags und der
 Unterlagen unverzüglich, innerhalb eines Monats, zu prüfen, ob der
@@ -789,10 +806,12 @@ elektronisch bei der Behörde eingegangen ist.
 
 
 ### Zweiter Abschnitt - Beteiligung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000301308)
 
 
 
 #### § 8 Bekanntmachung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001706130)
 
 (1) Sind die zur Auslegung nach § 10 Absatz 1 erforderlichen
 Unterlagen vollständig, so hat die Genehmigungsbehörde das Vorhaben in
@@ -826,6 +845,7 @@ Einwendungsmöglichkeit und die Erörterung auf die vorgesehenen
 
 
 #### § 9 Inhalt der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001806130)
 
 (1) Die Bekanntmachung muss neben den Angaben nach § 10 Absatz 4 des
 Bundes-Immissionsschutzgesetzes Folgendes enthalten:
@@ -866,6 +886,7 @@ Bundes-Immissionsschutzgesetzes.
 
 
 #### § 10 Auslegung von Antrag und Unterlagen; Veröffentlichung des UVP-Berichts
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE001905130)
 
 (1) Bei der Genehmigungsbehörde sind der Antrag sowie die beigefügten
 Unterlagen auszulegen, die die Angaben über die Auswirkungen der
@@ -924,6 +945,7 @@ hören.
 
 
 #### § 10a Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004403116)
 
 Die Genehmigungsbehörde gewährt Akteneinsicht nach pflichtgemäßem
 Ermessen; § 29 Absatz 1 Satz 3, Absatz 2 und 3 des
@@ -933,6 +955,7 @@ Informationen bleiben unberührt.
 
 
 #### § 11 Beteiligung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002006116)
 
 Spätestens gleichzeitig mit der öffentlichen Bekanntmachung des
 Vorhabens fordert die Genehmigungsbehörde die Behörden, deren
@@ -950,6 +973,7 @@ Genehmigungsbescheides zu erörtern und abzustimmen.
 
 
 #### § 11a Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004506116)
 
 (1) Für nicht UVP-pflichtige Vorhaben einschließlich der Verfahren
 nach § 17 Absatz 1a des Bundes-Immissionsschutzgesetzes gelten für das
@@ -984,6 +1008,7 @@ den Bestimmungen über den Zugang zu Umweltinformationen zugänglich.
 
 
 #### § 12 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002105130)
 
 (1) Einwendungen können bei der Genehmigungsbehörde erhoben werden.
 Bei UVP-pflichtigen Vorhaben gilt eine Einwendungsfrist von einem
@@ -1004,6 +1029,7 @@ ist in der öffentlichen Bekanntmachung hinzuweisen.
 
 
 #### § 13 Sachverständigengutachten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002211116)
 
 (1) Die Genehmigungsbehörde holt Sachverständigengutachten ein, soweit
 dies für die Prüfung der Genehmigungsvoraussetzungen notwendig ist.
@@ -1054,10 +1080,12 @@ Immissionsschutzgesetzes entspricht.
 
 
 ### Dritter Abschnitt - Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000401308)
 
 
 
 #### § 14 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002303116)
 
 (1) Der Erörterungstermin dient dazu, die rechtzeitig erhobenen
 Einwendungen zu erörtern, soweit dies für die Prüfung der
@@ -1071,6 +1099,7 @@ eingegangen sind.
 
 
 #### § 15 Besondere Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002401308)
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
@@ -1079,6 +1108,7 @@ Gerichten zu verweisen.
 
 
 #### § 16 Wegfall
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002504130)
 
 (1) Ein Erörterungstermin findet nicht statt, wenn
 
@@ -1121,6 +1151,7 @@ pflichtige Anlagen.
 
 
 #### § 17 Verlegung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002602116)
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
 Erörterungstermin verlegen, wenn dies im Hinblick auf dessen
@@ -1135,6 +1166,7 @@ Bekanntmachung benachrichtigt werden.
 
 
 #### § 18 Verlauf
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002705116)
 
 (1) Der Erörterungstermin ist öffentlich. Im Einzelfall kann aus
 besonderen Gründen die Öffentlichkeit ausgeschlossen werden. Vertreter
@@ -1171,6 +1203,7 @@ des Termins hingewiesen werden.
 
 
 #### § 19 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002803116)
 
 (1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die
 Niederschrift muss Angaben enthalten über
@@ -1208,10 +1241,12 @@ Einwendungen erhoben hat, eine Abschrift der Niederschrift zu
 
 
 ### Vierter Abschnitt - Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000501308)
 
 
 
 #### § 20 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE002906116)
 
 (1) Sind alle Umstände ermittelt, die für die Beurteilung des Antrags
 von Bedeutung sind, hat die Genehmigungsbehörde unverzüglich über den
@@ -1300,6 +1335,7 @@ Immissionsschutzgesetzes gilt entsprechend.
 
 
 #### § 21 Inhalt des Genehmigungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003009116)
 
 (1) Der Genehmigungsbescheid muss enthalten
 
@@ -1462,6 +1498,7 @@ Angaben enthalten über
 
 
 #### § 21a Öffentliche Bekanntmachung und Veröffentlichung des Genehmigungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004604130)
 
 (1) Unbeschadet des § 10 Absatz 7 und 8 Satz 1 des Bundes-
 Immissionsschutzgesetzes ist die Entscheidung über den Antrag
@@ -1484,10 +1521,12 @@ und 2 des Bundes-Immissionsschutzgesetzes gilt entsprechend.
 
 
 ## Zweiter Teil - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000601308)
 
 
 
 ### § 22 Teilgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003103116)
 
 (1) Ist ein Antrag im Sinne des § 8 des Bundes-
 Immissionsschutzgesetzes gestellt, so kann die Genehmigungsbehörde
@@ -1524,6 +1563,7 @@ entsprechend.
 
 
 ### § 23 Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003203116)
 
 (1) Der Antrag auf Erteilung eines Vorbescheides muss außer den in § 3
 genannten Angaben insbesondere die bestimmte Angabe, für welche
@@ -1579,6 +1619,7 @@ Bei UVP-pflichtigen Anlagen gilt § 20 Absatz 1a und 1b entsprechend.
 
 
 ### § 23a Raumverträglichkeitsprüfung und Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004704130)
 
 Die Genehmigungsbehörde hat die bei der Raumverträglichkeitsprüfung
 nach § 15 des Raumordnungsgesetzes überschlägig geprüften Auswirkungen
@@ -1587,6 +1628,7 @@ Entscheidung über den Antrag zu berücksichtigen.
 
 
 ### § 24 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003304116)
 
 In dem vereinfachten Verfahren sind § 4 Abs. 3, die §§ 8 bis 10a, 12,
 14 bis 19 und die Vorschriften, die die Durchführung der
@@ -1598,6 +1640,7 @@ Umweltverträglichkeitsprüfung. § 11 gilt sinngemäß.
 
 
 ### § 24a Zulassung vorzeitigen Beginns
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE004805116)
 
 (1) Ist in einem Verfahren zur Erteilung einer Genehmigung ein Antrag
 auf Zulassung des vorzeitigen Beginns im Sinne des § 8a des Bundes-
@@ -1658,6 +1701,7 @@ enthalten
 
 
 ### § 24b Verbundene Prüfverfahren bei UVP-pflichtigen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE005000116)
 
 Für ein UVP-pflichtiges Vorhaben, das einzeln oder im Zusammenwirken
 mit anderen Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet
@@ -1671,10 +1715,12 @@ werden.
 
 
 ## Dritter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNG000702116)
 
 
 
 ### § 24c Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE005100116)
 
 Ist die Genehmigungsbehörde bei der Umweltverträglichkeitsprüfung
 zugleich Trägerin des UVP-pflichtigen Vorhabens, so ist die
@@ -1685,6 +1731,7 @@ Trennung.
 
 
 ### § 25 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003404116)
 
 (1) Verfahren, die vor dem Inkrafttreten einer Änderung dieser
 Verordnung begonnen worden sind, sind nach den Vorschriften der
@@ -1721,15 +1768,18 @@ Juli 2015 zu erfüllen.
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003502116)
 
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE003602116)
 
 
 (zu § 4e)
 
 ### Anlage Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_9/BJNR002740977.html#BJNR002740977BJNE005200116)
 
 (Fundstelle: BGBl. I 2017, 3888 — 3889)
 

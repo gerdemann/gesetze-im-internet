@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-299 v. 22.7.2002 I (FeinOAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000100000)
 
 Auf Grund
 
@@ -46,9 +47,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Feinoptikers und
 der Feinoptikerin wird staatlich anerkannt nach
@@ -64,11 +67,13 @@ der Feinoptikerin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -89,6 +94,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -168,6 +174,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -175,9 +182,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000800000)
 
 (1) Die Gesellen- oder Abschlussprüfung besteht aus den Teilen 1 und
 2\.
@@ -194,6 +203,7 @@ Teil 2 der Gesellen- oder Abschlussprüfung stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE000900000)
 
 Teil 1 der Gesellen- oder Abschlussprüfung erstreckt sich auf
 
@@ -210,6 +220,7 @@ Teil 1 der Gesellen- oder Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001000000)
 
 Teil 1 der Gesellen- oder Abschlussprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -224,6 +235,7 @@ Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich „Herstellen von planoptischen Bauteilen“
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001100000)
 
 (1) Im Prüfungsbereich „Herstellen von planoptischen Bauteilen“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -283,6 +295,7 @@ Das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 10 Prüfungsbereich „Bauteilqualität und Arbeitsorganisation“
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001200000)
 
 (1) Im Prüfungsbereich „Bauteilqualität und Arbeitsorganisation“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -328,6 +341,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 11 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001300000)
 
 (1) Teil 2 der Gesellen- oder Abschlussprüfung erstreckt sich auf
 
@@ -350,6 +364,7 @@ erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001400000)
 
 Teil 2 der Gesellen- oder Abschlussprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -367,6 +382,7 @@ Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich „Herstellen von optischen Baugruppen und Systemen“
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001500000)
 
 (1) Im Prüfungsbereich „Herstellen von optischen Baugruppen und
 Systemen“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -430,6 +446,7 @@ höchstens 15 Minuten.
 
 
 ### § 14 Prüfungsbereich „Fertigungstechnik“
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001600000)
 
 (1) Im Prüfungsbereich „Fertigungstechnik“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -483,6 +500,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -496,6 +514,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellen- oder Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -573,6 +592,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -610,9 +630,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNG000300000)
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2024 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Feinoptiker/zur
@@ -621,6 +643,7 @@ Feinoptikerin vom 22. Juli 2002 (BGBl. I S. 2748) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Feinoptiker und zur Feinoptikerin
+[Direktlink](https://www.gesetze-im-internet.de/feinoausbv_2024/BJNR05F0A0024.html#BJNR05F0A0024BJNE002100000)
 
 (Fundstelle: BGBl. 2024 I Nr. 95, S. 8 - 16)
 

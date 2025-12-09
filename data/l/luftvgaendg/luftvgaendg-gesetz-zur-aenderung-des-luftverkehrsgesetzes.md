@@ -18,26 +18,31 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000100328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000200328)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000300328)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000400328)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000500328)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -56,6 +61,7 @@ sind in Berlin die entsprechenden Berliner Behörden zuständig.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000600328)
 
 (1) Soweit in diesem Gesetz auf Vorschriften verwiesen wird, die im
 Saarland nicht gelten, treten im Saarland die entsprechenden
@@ -68,6 +74,7 @@ sind im Saarland die entsprechenden saarländischen Behörden zuständig.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/luftvg_ndg/BJNR008990958.html#BJNR008990958BJNE000700328)
 
 Dieses Gesetz tritt einen Monat nach dem Tage seiner Verkündung in
 Kraft.

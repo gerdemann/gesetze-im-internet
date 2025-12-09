@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V ersetzt die V 26-7-1 v. 26.11.1993 I 1914 mWv 11.4.2008
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000100000)
 
 Auf Grund des § 88 Abs. 1 des Asylverfahrensgesetzes in der Fassung
 der Bekanntmachung vom 27. Juli 1993 (BGBl. I S. 1361), der durch
@@ -26,6 +27,7 @@ neu gefasst worden ist, verordnet das Bundesministerium des Innern:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000200000)
 
 Die Verordnung bestimmt die zuständigen Behörden für die Ausführung
 
@@ -60,6 +62,7 @@ Die Verordnung bestimmt die zuständigen Behörden für die Ausführung
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000300000)
 
 (1) Das Bundesamt für Migration und Flüchtlinge ist zuständig für die
 Ausführung des Übereinkommens nach § 1 Nr. 1 und der Verordnungen nach
@@ -96,6 +99,7 @@ die Zusammenarbeit mit den anderen Staaten nach der Verordnung gemäß §
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000400000)
 
 (1) Die mit der polizeilichen Kontrolle des grenzüberschreitenden
 Verkehrs beauftragten Behörden (Grenzbehörden) sind zuständig für die
@@ -119,6 +123,7 @@ ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000500000)
 
 Das Bundesamt kann Verfahren übernehmen, für welche die Zuständigkeit
 der Grenzbehörden begründet wurde; auf Ersuchen der Grenzbehörden
@@ -126,6 +131,7 @@ der Grenzbehörden begründet wurde; auf Ersuchen der Grenzbehörden
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000600000)
 
 Das Bundeskriminalamt ist zuständig für die Ausführung der Verordnung
 nach § 1 Nr. 4 in Bezug auf die
@@ -161,11 +167,13 @@ nach § 1 Nr. 4 in Bezug auf die
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/asylzbv_2008/BJNR064500008.html#BJNR064500008BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

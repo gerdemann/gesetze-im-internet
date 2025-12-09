@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 Satz 2 des Bundespolizeibeamtengesetzes,
 der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
@@ -29,6 +30,7 @@ Innern:
 
 
 ## § 1 Ziele des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000300000)
 
 Der Vorbereitungsdienst für die Laufbahn des höheren Kriminaldienstes
 des Bundes vermittelt die wissenschaftlichen Methoden und Kenntnisse
@@ -44,6 +46,7 @@ Polizeivollzugsdienstes gerecht zu werden.
 
 
 ## § 2 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000400000)
 
 Bewerberinnen und Bewerber können eingestellt werden, wenn sie die
 Einstellungsvoraussetzungen nach dem Bundesbeamtengesetz und der
@@ -54,6 +57,7 @@ soll nur, wer die Fahrerlaubnis der Klasse B besitzt.
 
 
 ## § 3 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000501311)
 
 (1) Über die Einstellung wird auf Grund eines Auswahlverfahrens
 entschieden, in dem festgestellt wird, ob die Bewerberinnen und
@@ -94,6 +98,7 @@ diesem Fall sind gleiche Auswahlmaßstäbe sicherzustellen.
 
 
 ## § 4 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000600000)
 
 Während des Studiums an der Deutschen Hochschule der Polizei sowie der
 Ausbildung bei den Kriminalpolizeidienststellen der Länder unterstehen
@@ -103,12 +108,14 @@ der Leitungen dieser Behörden.
 
 
 ## § 5 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000700000)
 
 Das Bundeskriminalamt legt die Zeiten fest, in denen Erholungsurlaub
 genommen werden kann.
 
 
 ## § 6 Dauer und Aufbau des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000800000)
 
 Der Vorbereitungsdienst besteht aus einer insgesamt viermonatigen
 fachpraktischen Ausbildungsphase beim Bundeskriminalamt und bei
@@ -119,6 +126,7 @@ Deutschen Hochschule der Polizei.
 
 
 ## § 7 Fachpraktische Ausbildungsphase
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE000900000)
 
 (1) Das Bundeskriminalamt bestimmt und überwacht die Gestaltung und
 die Organisation der fachpraktischen Ausbildungsphase. Die
@@ -138,6 +146,7 @@ Beamtinnen und Beamten sowie die Ausbildenden.
 
 
 ## § 8 Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE001000000)
 
 Studium und Prüfungen richten sich nach der Prüfungsordnung für den
 Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public
@@ -147,16 +156,19 @@ durchgeführt.
 
 
 ## § 9 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE001100000)
 
 Die Masterprüfung an der Deutschen Hochschule der Polizei ist die
 Laufbahnprüfung.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE001201311)
 
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hkrimdaprv/BJNR004300011.html#BJNR004300011BJNE001300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juni 2009 in Kraft.
 Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000100308)
 
 Auf Grund der Anlage I Kapitel VIII Sachgebiet F Abschnitt III Nr. 1
 Buchstabe b des Einigungsvertrages vom 31. August 1990 in Verbindung
@@ -36,6 +37,7 @@ Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000200308)
 
 Die Sachbezugsverordnung 1991 in der Fassung der Bekanntmachung vom
 18\. Dezember 1984 (BGBl. I S. 1642), zuletzt geändert durch die
@@ -45,6 +47,7 @@ und 3 genannten Maßgaben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000300308)
 
 (1) Der Wert der freien Kost und Wohnung einschließlich Heizung und
 Beleuchtung wird auf monatlich 360 DM festgesetzt.
@@ -60,6 +63,7 @@ Verbindung mit § 1 Abs. 2 der Sachbezugsverordnung 1991 ergeben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000400308)
 
 § 1 Abs. 5 Satz 3 und 4 der Sachbezugsverordnung 1991 ist mit der
 Maßgabe anzuwenden, daß für die Wohnung 45,00 DM und für Beleuchtung
@@ -67,11 +71,13 @@ Maßgabe anzuwenden, daß für die Wohnung 45,00 DM und für Beleuchtung
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000500308)
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sachbezv_bg/BJNR029140990.html#BJNR029140990BJNE000600308)
 
 Der Bundesrat hat zugestimmt.
 

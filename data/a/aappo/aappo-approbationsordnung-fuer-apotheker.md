@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE000600326)
 
 Auf Grund des § 5 der Bundes-Apothekerordnung vom 5. Juni 1968 (BGBl.
 I S. 601), dessen Absatz 1 durch Artikel 1 Nr. 2 des Gesetzes vom 19.
@@ -31,10 +32,12 @@ Apothekerordnung, der durch Artikel 23 des Gesetzes vom 25. Juni 1969
 
 
 ## Erster Abschnitt - Die pharmazeutische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNG000100326)
 
 
 
 ### § 1 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE000700326)
 
 (1) Die pharmazeutische Ausbildung umfaßt
 
@@ -77,6 +80,7 @@ Hochschulrahmengesetzes beträgt vier Jahre.
 
 
 ### § 2 Universitätsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE000803130)
 
 (1) Die Universitätsausbildung soll den Studierenden unter
 Berücksichtigung der Anforderungen und der Veränderungen in der
@@ -95,6 +99,7 @@ digitale Lehrformate begleitet werden.
 
 
 ### § 3 Famulatur
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE000903310)
 
 (1) Durch die Famulatur nach § 1 Abs. 1 Nr. 2 soll der Auszubildende
 mit den pharmazeutischen Tätigkeiten vertraut gemacht werden. Außerdem
@@ -135,6 +140,7 @@ Famulatur.
 
 
 ### § 4 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001003130)
 
 (1) Die praktische Ausbildung nach § 1 Abs. 1 Nr. 3 findet nach dem
 Bestehen des Zweiten Abschnitts der Pharmazeutischen Prüfung statt.
@@ -208,10 +214,12 @@ durch Bundesrahmentarifvertrag festgelegten Urlaubszeiten angerechnet.
 
 
 ## Zweiter Abschnitt - Allgemeine Prüfungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNG000200326)
 
 
 
 ### § 5 Landesprüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001100326)
 
 (1) Die in dieser Verordnung vorgesehenen Prüfungsabschnitte werden
 vor der nach Landesrecht zuständigen Stelle (Landesprüfungsamt)
@@ -236,6 +244,7 @@ Zuständigkeit nach Satz 1 nicht gegeben ist, § 22 Abs. 5 entsprechend.
 
 
 ### § 6 Meldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001205310)
 
 (1) Über die Zulassung zu den einzelnen Prüfungsabschnitten
 entscheidet das Landesprüfungsamt.
@@ -341,6 +350,7 @@ Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
 
 ### § 7 Versagung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001300326)
 
 (1) Die Zulassung zu einem Prüfungsabschnitt ist zu versagen, wenn
 
@@ -368,6 +378,7 @@ der Bundes-Apothekerordnung führen würde.
 
 
 ### § 8 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001401320)
 
 (1) Im Ersten Abschnitt der Pharmazeutischen Prüfung wird schriftlich,
 im Zweiten und Dritten Abschnitt der Pharmazeutischen Prüfung mündlich
@@ -439,6 +450,7 @@ getrennt aufgeführt werden.
 
 
 ### § 9 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001500326)
 
 (1) Für die Bewertung der Leistungen des Prüflings sind folgende Noten
 zu verwenden:
@@ -537,6 +549,7 @@ werden wie folgt bewertet:
 
 
 ### § 10 Schriftliche Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001600326)
 
 (1) In der schriftlichen Prüfung hat der Prüfling in Aufsichtsarbeiten
 schriftlich gestellte Fragen zu beantworten. Er hat dabei anzugeben,
@@ -617,6 +630,7 @@ durchschnittliche Prüfungsleistung anzugeben.
 
 
 ### § 11 Mündliche Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001702130)
 
 (1) Für den Zweiten und Dritten Abschnitt der Pharmazeutischen Prüfung
 werden vom Landesprüfungsamt Prüfungskommissionen bestellt. Sie
@@ -690,6 +704,7 @@ schriftlich mit.
 
 
 ### § 12 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001801320)
 
 (1) Die Landesprüfungsämter setzen die Termine für die schriftliche
 Prüfung einheitlich für den Geltungsbereich dieser Verordnung fest.
@@ -716,6 +731,7 @@ Kalendertage vor dem Prüfungstermin zugestellt.
 
 
 ### § 13 Rücktritt und Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE001900326)
 
 (1) Nach der Zulassung zu einem Prüfungsabschnitt ist ein Rücktritt
 von einer Prüfung nur mit Genehmigung des Landesprüfungsamtes
@@ -741,6 +757,7 @@ gilt § 12 Abs. 2 entsprechend.
 
 
 ### § 14 Störung oder Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002000326)
 
 Stört ein Prüfling den ordnungsgemäßen Ablauf einer Prüfung in
 erheblichem Maße oder unternimmt er eine Täuschung, so kann das
@@ -750,6 +767,7 @@ Prüfungsabschnitt für "nicht bestanden" erklären.
 
 
 ### § 15 Bestehen und Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002100326)
 
 (1) Ein Prüfungsabschnitt ist bestanden, wenn die Prüfungen in allen
 Fächern bestanden sind. Die Pharmazeutische Prüfung ist bestanden,
@@ -781,6 +799,7 @@ schriftlich mit.
 
 
 ### § 16 Zeugnisse und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002200326)
 
 (1) Nach dem Bestehen des Ersten, Zweiten und Dritten Abschnitts der
 Pharmazeutischen Prüfung erteilt das Landesprüfungsamt jeweils ein
@@ -794,10 +813,12 @@ bestanden worden ist.
 
 
 ## Dritter Abschnitt - Die Pharmazeutische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNG000300326)
 
 
 
 ### § 17 Erster Abschnitt der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002301320)
 
 (1) Der Erste Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
@@ -832,6 +853,7 @@ Prüfungsstoff abgestellt sein.
 
 
 ### § 18 Zweiter Abschnitt der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002401320)
 
 (1) Der Zweite Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
@@ -867,6 +889,7 @@ Prüfungsstoff abgestellt sein.
 
 
 ### § 19 Dritter Abschnitt der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002500326)
 
 (1) Der Dritte Abschnitt der Pharmazeutischen Prüfung erstreckt sich
 auf folgende Fächer:
@@ -889,10 +912,12 @@ Kenntnisse besitzt.
 
 
 ## Vierter Abschnitt - Die Approbation
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNG000400326)
 
 
 
 ### § 20 Antrag auf Approbation
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002611116)
 
 (1) Der Antrag auf Erteilung der Approbation als Apotheker ist an die
 zuständige Behörde des Landes zu richten, in dem der Antragsteller den
@@ -955,6 +980,7 @@ Unterlagen und teilt ihm oder ihr mit, welche Unterlagen fehlen.
 
 
 ### § 21 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002700326)
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 16
 ausgestellt. Sie ist dem Antragsteller gegen Empfangsbekenntnis
@@ -962,10 +988,12 @@ auszuhändigen oder mit Zustellungsurkunde zuzustellen.
 
 
 ## Fünfter Abschnitt - Ergänzende Vorschriften, Erlaubnis, Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNG000501116)
 
 
 
 ### § 22 Anrechnung von Ausbildungszeiten und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002803310)
 
 (1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser
 Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben
@@ -1016,6 +1044,7 @@ zuständig.
 
 
 ### § 22a Erlaubnis nach § 11 Absatz 1 der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005001116)
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
 Ausübung des Apothekerberufs nach § 11 Absatz 1 der Bundes-
@@ -1158,6 +1187,7 @@ wird nach dem Muster der Anlage 17 zu dieser Verordnung ausgestellt.
 
 
 ### § 22b Erlaubnis nach § 11 Absatz 1a der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005101116)
 
 (1) Der Antrag auf Erteilung zur vorübergehenden Ausübung des
 Apothekerberufs nach § 11 Absatz 1a der Bundes-Apothekerordnung ist an
@@ -1227,6 +1257,7 @@ entsprechend.
 
 
 ### § 22c Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005202130)
 
 (1) Die Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-
 Apothekerordnung bezieht sich auf die Fächer, in denen die zuständige
@@ -1288,6 +1319,7 @@ Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
 
 
 ### § 22d Kenntnisprüfung nach § 4 Absatz 3 Satz 3 der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005301130)
 
 (1) Die Kenntnisprüfung bezieht sich auf die Fächer Pharmazeutische
 Praxis und Spezielle Rechtsgebiete für Apotheker sowie auf eines der
@@ -1348,6 +1380,7 @@ Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
 
 
 ### § 22e Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005401116)
 
 Der Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-
 Apothekerordnung enthält folgende Angaben:
@@ -1378,6 +1411,7 @@ Apothekerordnung enthält folgende Angaben:
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE002902320)
 
 (1) Personen, die das Studium der Pharmazie vor dem 1. Oktober 2001
 aufgenommen haben und den Antrag auf Zulassung zum Ersten Abschnitt
@@ -1428,16 +1462,19 @@ Prüfung bestellen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003001320)
 
 (weggefallen)
 
 
 ### § 25 Inkrafttreten der Verordnung und außer Kraft tretende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003100326)
 
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003200326)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
@@ -1445,6 +1482,7 @@ Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 (zu § 2 Abs. 2)
 
 ### Anlage 1 Stoffgebiete des Studiums der Pharmazie
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003301320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
 
@@ -1603,6 +1641,7 @@ statt.
 (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3)
 
 ### Anlage 2 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003401320)
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1622,6 +1661,7 @@ Professors/Dozenten)
 (zu § 6 Abs. 4 Nr. 4)
 
 ### Anlage 3 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003501320)
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1640,12 +1680,14 @@ Professors/Dozenten)
 
 
 ### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003601320)
 
 (weggefallen)
 
 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)
 
 ### Anlage 5 Bescheinigung über die praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003700326)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
 Herr/Frau........................... ist in der Zeit vom
@@ -1673,6 +1715,7 @@ Verantwortlichen)
 (zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)
 
 ### Anlage 6 Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003801130)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1691,6 +1734,7 @@ Siegel/Stempel
 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3)
 
 ### Anlage 7 Bescheinigung über die Tätigkeit als Famulus
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE003900326)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1501)
 Herr/Frau
@@ -1718,6 +1762,7 @@ Apothekers)
 (zu § 4 Abs. 4 Satz 1)
 
 ### Anlage 8 Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004001320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1720
 
@@ -1782,6 +1827,7 @@ Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 (zu § 11 Abs. 6 Satz 1)
 
 ### Anlage 9 Niederschrift über die mündliche Prüfung im Zweiten/Dritten \*) Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004101320)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1835,6 +1881,7 @@ Protokollführers)
 
 
 ### Anlage 10 (zu § 6 Abs. 4 Nr. 1, Abs. 5 Nr. 1, § 9 Abs. 4 Satz 2, § 16 Abs. 1 erster Halbsatz und § 22 Abs. 3 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004200326)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1504)
 Ausstellende Behörde
@@ -1861,6 +1908,7 @@ der ausstellenden Behörde
 
 
 ### Anlage 11 (zu § 9 Abs. 4 Satz 2, § 16 Abs. 1 zweiter Halbsatz und § 22 Abs. 3 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004300326)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1504)
 Ausstellende Behörde
@@ -1882,6 +1930,7 @@ der ausstellenden Behörde
 (zu § 17 Abs. 2 Satz 3)
 
 ### Anlage 12 Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004401320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -1919,6 +1968,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 (zu § 17 Abs. 3)
 
 ### Anlage 13 Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004502320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -2008,6 +2058,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 (zu § 18 Abs. 3)
 
 ### Anlage 14 Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004601320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
@@ -2183,6 +2234,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 (zu § 19 Abs. 3)
 
 ### Anlage 15 Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004701320)
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
@@ -2274,6 +2326,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 (zu § 21 Satz 1)
 
 ### Anlage 16 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE004801308)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1508)
 Herrn/Frau ........................, geboren am
@@ -2292,6 +2345,7 @@ Siegel
 (zu § 22a Absatz 7)
 
 ### Anlage 17 Erlaubnis nach § 11 Absatz 1 oder Absatz 1a der Bundes-Apothekerordnung
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005500116)
 
 
 *    *   Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2375,6 +2429,7 @@ Siegel
 (zu § 22c Absatz 6)
 
 ### Anlage 18 Niederschrift über die staatliche Eignungsprüfung nach § 22c der Approbationsordnung für Apotheker
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005600116)
 
 
 *    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2505,6 +2560,7 @@ Siegel
 (zu § 22d Absatz 6)
 
 ### Anlage 19 Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
+[Direktlink](https://www.gesetze-im-internet.de/aappo/BJNR014890989.html#BJNR014890989BJNE005700116)
 
 
 *    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

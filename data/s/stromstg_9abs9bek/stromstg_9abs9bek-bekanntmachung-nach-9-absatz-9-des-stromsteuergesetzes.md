@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_9abs9bek/BJNR16C0A0023.html#BJNR16C0A0023BJNE000100000)
 
 Nach § 9 Absatz 9 Satz 2 des Stromsteuergesetzes vom 24. März 1999
 (BGBl. I S. 378; 2000 I S. 147), das zuletzt durch Artikel 2 des
@@ -52,6 +53,7 @@ erzeugt wird.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stromstg_9abs9bek/BJNR16C0A0023.html#BJNR16C0A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

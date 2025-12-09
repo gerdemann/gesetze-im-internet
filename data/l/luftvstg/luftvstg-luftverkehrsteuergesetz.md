@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: § 5 Nr. 5 ist nach Maßgabe der Bek. v. 15.1.2013 I 81 mWv 1.11.2011 in Kraft getreten.
 
 ## § 1 Steuergegenstand
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000200000)
 
 (1) Der Luftverkehrsteuer unterliegt ein Rechtsvorgang, der zum Abflug
 eines Fluggastes von einem inländischen Startort mit einem Flugzeug
@@ -34,6 +35,7 @@ vorausgegangen ist.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -118,6 +120,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## § 3 Sachlich und örtlich zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000401140)
 
 (1) Sachlich zuständige Behörde für die Durchführung dieses Gesetzes
 ist das Hauptzollamt.
@@ -144,12 +147,14 @@ zuständig, in dessen Bezirk der erste Abflug erfolgt.
 
 
 ## § 4 Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000500000)
 
 Die Steuer nach § 1 entsteht mit dem Abflug des Fluggastes von einem
 inländischen Startort.
 
 
 ## § 5 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000602123)
 
 Von der Besteuerung ausgenommen sind die folgenden Rechtsvorgänge, die
 zu einem Abflug von einem inländischen Startort berechtigen:
@@ -209,6 +214,7 @@ zu einem Abflug von einem inländischen Startort berechtigen:
 
 
 ## § 6 Steuer- und Haftungsschuldner
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000702123)
 
 (1) Steuerschuldner ist das Luftverkehrsunternehmen, das den Abflug
 nach § 1 durchführt. Daneben ist der steuerliche Beauftragte (§ 8)
@@ -226,6 +232,7 @@ ist, dass die Vollstreckung aussichtslos sein würde.
 
 
 ## § 7 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000802123)
 
 (1) Luftverkehrsunternehmen, die Abflüge im Sinne des § 1 vornehmen
 wollen, haben sich spätestens drei Wochen vor Durchführung des ersten
@@ -309,6 +316,7 @@ schriftlichen Nachweis über die erfolgte Registrierung.
 
 
 ## § 8 Steuerliche Beauftragte
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE000901123)
 
 (1) Steuerliche Beauftragte vertreten das Luftverkehrsunternehmen bei
 der Erfüllung seiner steuerlichen Rechte und Pflichten nach diesem
@@ -367,6 +375,7 @@ Absatz 2 Satz 2 genannten Voraussetzungen nicht mehr erfüllt ist.
 
 
 ## § 9 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001000000)
 
 Das Hauptzollamt kann von den Steuerschuldnern eine Sicherheit bis zur
 Höhe der Steuer verlangen, die voraussichtlich für zwei Kalendermonate
@@ -375,12 +384,14 @@ sind.
 
 
 ## § 10 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001100000)
 
 Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts
 und der Anzahl der beförderten Fluggäste.
 
 
 ## § 11 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001205123)
 
 (1) Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
@@ -440,6 +451,7 @@ Festland verbunden ist, wenn der Start- oder Zielort
 
 
 ## § 12 Steueranmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001301123)
 
 (1) Der Steuerschuldner hat bis zum 10. Tag nach Ablauf des
 Kalendermonats, in dem die Steuer entstanden ist oder eine
@@ -457,6 +469,7 @@ abzugeben. Die Steuer ist sofort fällig.
 
 
 ## § 13 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001400000)
 
 (1) Das Luftverkehrsunternehmen ist verpflichtet, zur Feststellung der
 Steuer, der Grundlagen ihrer Berechnung und zur Prüfung der
@@ -492,6 +505,7 @@ Steueraufkommens oder für die Steueraufsicht erforderlich scheint.
 
 
 ## § 14 Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001500000)
 
 Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der
 Steueraufsicht nach § 209 Absatz 3 der Abgabenordnung. Das
@@ -502,6 +516,7 @@ denen sich das Flugzeug oder der Drehflügler befindet.
 
 
 ## § 15 Geschäftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001600000)
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen können
 die Hauptzollämter für statistische Zwecke Erhebungen über die nach
@@ -514,6 +529,7 @@ allgemeine Zwecke übermitteln.
 
 
 ## § 16 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001700000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -546,6 +562,7 @@ Euro geahndet werden.
 
 
 ## § 17 Datenaustausch und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001801123)
 
 (1) Die Flugplatzbetreiber melden alle Abflüge mit Nennung des
 Abflugdatums und der Abflugzeit, des Zielorts, der Flugnummer und der
@@ -570,6 +587,7 @@ Geltungsbereichs des Luftrechts der Europäischen Union zu beurteilen.
 
 
 ## § 18 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE001904123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung
@@ -727,6 +745,7 @@ des Bundesrates
 
 
 ## § 19 Anwendungsvorschriften und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE002004123)
 
 (1) Dieses Gesetz ist erstmals auf Rechtsvorgänge ab dem 1. September
 2010 anzuwenden, bei denen der Fluggast dem Luftverkehrsunternehmen
@@ -768,6 +787,7 @@ Bundesministerium der Finanzen im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Anlage 1 (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE002101123)
 
 (Fundstelle: BGBl. I 2010, 1891)
 
@@ -908,6 +928,7 @@ Bundesministerium der Finanzen im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Anlage 2 (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg/BJNR188510010.html#BJNR188510010BJNE002201123)
 
    (Fundstelle: BGBl. I 2010, 1892)
 

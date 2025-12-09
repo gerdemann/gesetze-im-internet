@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000100328)
 
 Auf Grund des § 57c des Bundesberggesetzes vom 13. August 1980 (BGBl.
 I S. 1310), der durch Artikel 1 des Gesetzes vom 12. Februar 1990
@@ -29,6 +30,7 @@ Naturschutz und Reaktorsicherheit:
 
 
 ## § 1 Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000209125)
 
 Der Umweltverträglichkeitsprüfung bedürfen die nachfolgend
 aufgeführten betriebsplanpflichtigen Vorhaben:
@@ -260,6 +262,7 @@ zu berücksichtigen.
 [^F795105_01_BJNR014200990BJNE000209125]: 
 
 ## § 2 Angaben im UVP-Bericht
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000304118)
 
 Bei Vorhaben nach § 1 Nummer 2a, 2c und 8a hat der Bericht zu den
 voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht) nach
@@ -281,10 +284,12 @@ auch folgende Angaben zu enthalten:
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000404118)
 
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000506123)
 
 (1) Die am 20. August 2005 bereits begonnenen Verfahren betreffend
 betriebsplanpflichtige Vorhaben im Sinne des § 1 sind nach den bisher
@@ -309,11 +314,13 @@ der bis zum 5. August 2016 geltenden Fassung angewendet.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000600328)
 
 Diese Verordnung tritt am 1. August 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/uvpbergbv/BJNR014200990.html#BJNR014200990BJNE000700328)
 
 Der Bundesrat hat zugestimmt.
 

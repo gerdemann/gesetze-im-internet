@@ -24,10 +24,12 @@ Zuletzt geändert durch
 Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar
 
 ## Erster Abschnitt - Die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE000602116)
 
 (1) Den Apotheken obliegt die im öffentlichen Interesse gebotene
 Sicherstellung einer ordnungsgemäßen Versorgung der Bevölkerung mit
@@ -43,6 +45,7 @@ für die in der Erlaubnisurkunde bezeichneten Räume.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE000711116)
 
 (1) Die Erlaubnis ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -160,6 +163,7 @@ Satz 2 unverzüglich erfolgen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE000804310)
 
 Die Erlaubnis erlischt
 
@@ -186,6 +190,7 @@ Die Erlaubnis erlischt
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE000903310)
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung eine
 der Voraussetzungen nach § 2 nicht vorgelegen hat.
@@ -198,12 +203,14 @@ in Verbindung mit Satz 4, § 9 Abs. 1, § 10 oder § 11 verstoßen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001000319)
 
 Wird eine Apotheke ohne Erlaubnis betrieben, so hat die zuständige
 Behörde die Apotheke zu schließen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001100319)
 
 Eine Apotheke darf erst eröffnet werden, nachdem die zuständige
 Behörde bescheinigt hat, daß die Apotheke den gesetzlichen
@@ -211,6 +218,7 @@ Anforderungen entspricht (Abnahme).
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001201310)
 
 Die Erlaubnis verpflichtet zur persönlichen Leitung der Apotheke in
 eigener Verantwortung. Im Falle des § 2 Abs. 4 obliegen dem vom
@@ -221,6 +229,7 @@ dem angestellten Apotheker.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001303116)
 
 Mehrere Personen zusammen können eine Apotheke nur in der Rechtsform
 einer rechtsfähigen Gesellschaft bürgerlichen Rechts oder einer
@@ -237,6 +246,7 @@ Apotheken nach § 2 Abs. 4 entsprechend.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001402310)
 
 (1) Die Verpachtung einer Apotheke oder von Apotheken nach § 2 Abs. 4
 ist nur in folgenden Fällen zulässig:
@@ -293,6 +303,7 @@ Voraussetzungen weggefallen ist. § 4 bleibt unberührt.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001501116)
 
 Der Erlaubnisinhaber darf sich nicht verpflichten, bestimmte
 Arzneimittel ausschließlich oder bevorzugt anzubieten, anzuwenden oder
@@ -302,6 +313,7 @@ von Gruppen von solchen zu beschränken.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001612130)
 
 (1) Erlaubnisinhaber und Personal von Apotheken dürfen, soweit
 gesetzlich nichts anderes bestimmt ist, mit Ärzten oder anderen
@@ -386,6 +398,7 @@ Absatz 3 Satz 1 und 2 gestatten.
 
 
 ### § 11a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004001116)
 
 Die Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln gemäß
 § 43 Abs. 1 Satz 1 des Arzneimittelgesetzes ist dem Inhaber einer
@@ -466,6 +479,7 @@ die dafür geeigneten Einrichtungen und Geräte verfügen wird.
 
 
 ### § 11b
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004100310)
 
 (1) Die Erlaubnis nach § 11a ist zurückzunehmen, wenn bei ihrer
 Erteilung eine der Voraussetzungen nach § 11a nicht vorgelegen hat.
@@ -483,12 +497,14 @@ entsprechend.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001700319)
 
 Rechtsgeschäfte, die ganz oder teilweise gegen § 8 Satz 2, § 9 Abs. 1,
 § 10 oder § 11 verstoßen, sind nichtig.
 
 
 ### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003900320)
 
 (1) Der Inhaber einer Erlaubnis zum Betrieb einer öffentlichen
 Apotheke ist verpflichtet, zur Versorgung von Bewohnern von Heimen im
@@ -540,6 +556,7 @@ versorgen, bedarf es keines Vertrages nach Absatz 1.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001802307)
 
 (1) Nach dem Tode des Erlaubnisinhabers dürfen die Erben die Apotheke
 für längstens 12 Monate durch einen Apotheker verwalten lassen.
@@ -563,10 +580,12 @@ Verkehr mit diesen verantwortlich.
 
 
 ## Zweiter Abschnitt - Krankenhausapotheken, Bundeswehrapotheken, Zweigapotheken, Notapotheken
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNG000200319)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE001914116)
 
 (1) Dem Träger eines Krankenhauses ist auf Antrag die Erlaubnis zum
 Betrieb einer Krankenhausapotheke zu erteilen, wenn er
@@ -756,6 +775,7 @@ Arzneimittelgesetzes hergestellt wurden.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002002310)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung
 obliegt die Arzneimittelversorgung den Bundeswehrapotheken.
@@ -771,6 +791,7 @@ Arzneimittelsicherheit nicht anders gestellt sind als Zivilpersonen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002100319)
 
 (1) Tritt infolge Fehlens einer Apotheke ein Notstand in der
 Arzneimittelversorgung ein, so kann die zuständige Behörde dem Inhaber
@@ -788,6 +809,7 @@ kann erneut erteilt werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002200319)
 
 Ergibt sich sechs Monate nach öffentlicher Bekanntmachung eines
 Notstandes in der Arzneimittelversorgung der Bevölkerung, daß weder
@@ -801,10 +823,12 @@ bis 4 und 7 erfüllen.
 
 
 ## Dritter Abschnitt - Notdienstpauschale, Apothekenbetriebsordnung und Ausnahmeregelungen für Bundespolizei und Bereitschaftspolizei
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNG000302116)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004200116)
 
 (1) Der im Vereinsregister des Amtsgerichts Frankfurt am Main unter
 der Registernummer 4485 eingetragene Deutsche Apothekerverband e. V.
@@ -838,6 +862,7 @@ offenzulegen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004301116)
 
 (1) Die Apotheken sind verpflichtet, nach jedem Quartalsende innerhalb
 von zehn Tagen nach Bekanntgabe des Bescheids nach Absatz 2 Satz 1 für
@@ -937,6 +962,7 @@ Absatz 2 Satz 3 bis 9 gilt entsprechend.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004400116)
 
 (1) Apotheken, die von der zuständigen Behörde zur Dienstbereitschaft
 im Notdienst durchgehend in der Zeit von spätestens 20 Uhr bis
@@ -966,6 +992,7 @@ Absatz 1 und der Anzahl der nach Absatz 2 mitgeteilten Notdienste.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004501116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, auf Antrag
 oder mit Zustimmung des Beliehenen die Beleihung des Deutschen
@@ -1020,6 +1047,7 @@ erforderlich ist.
 
 
 ### § 20b
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE004600116)
 
 Der Deutsche Apothekerverband e. V. hat den Schaden zu ersetzen, der
 der Bundesrepublik Deutschland durch eine rechtswidrige und
@@ -1028,6 +1056,7 @@ Ausübung der Aufgaben und Befugnisse nach den §§ 18 bis 20a entsteht.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002409130)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates eine
@@ -1215,6 +1244,7 @@ Arzneimittelrechts.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002501310)
 
 Einrichtungen, die der Arzneimittelversorgung der Angehörigen der
 Bundespolizei und der Bereitschaftspolizeien der Länder im Rahmen der
@@ -1223,10 +1253,12 @@ den Vorschriften dieses Gesetzes.
 
 
 ## Vierter Abschnitt - Straf- und Bußgeldbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNG000400319)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002600319)
 
 Wer vorsätzlich oder fahrlässig ohne die erforderliche Erlaubnis oder
 Genehmigung eine Apotheke, Krankenhausapotheke oder Zweigapotheke
@@ -1235,11 +1267,13 @@ oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002700319)
 
 (weggefallen)
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002805125)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1280,10 +1314,12 @@ fünftausend Euro geahndet werden.
 
 
 ## Fünfter Abschnitt - Schluß- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNG000500319)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE002900319)
 
 (1) Personalkonzessionen, Realkonzessionen und sonstige persönliche
 Betriebserlaubnisse, die vor dem Inkrafttreten dieses Gesetzes erteilt
@@ -1298,6 +1334,7 @@ Zweigapotheke gelten als Erlaubnisse im Sinne des § 16.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003000319)
 
 (1) Inhaber von anderen als den in § 26 bezeichneten
 Apothekenbetriebsberechtigungen bedürfen zum Betreiben der Apotheke
@@ -1318,6 +1355,7 @@ erteilt, wenn sie auf die bisherige Berechtigung verzichten.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003100319)
 
 (1) Bei verpachteten Apotheken gilt die dem Pächter verliehene
 Betriebserlaubnis oder die Bestätigung als Pächter als Erlaubnis nach
@@ -1330,16 +1368,19 @@ sie nicht zu einem früheren Zeitpunkt ihre Gültigkeit verlieren.
 
 
 ### § 28a
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003802360)
 
 (weggefallen)
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003200319)
 
 (weggefallen)
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003300319)
 
 Auf ärztliche und tierärztliche Abgabestellen für Arzneimittel
 (Hausapotheken) finden die Vorschriften dieses Gesetzes keine
@@ -1347,21 +1388,25 @@ Anwendung.
 
 
 ### § 31 (Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003400319)
 
 -
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003501310)
 
 (weggefallen)
 
 
 ### § 33 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003600319)
 
 -
 
 
 ### Anlage
+[Direktlink](https://www.gesetze-im-internet.de/apog/BJNR006970960.html#BJNR006970960BJNE003701310)
 
 (weggefallen)
 

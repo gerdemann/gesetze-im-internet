@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/plvereinfg/BJNR212300993.html#BJNR212300993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 9
+[Direktlink](https://www.gesetze-im-internet.de/plvereinfg/BJNR212300993.html#BJNR212300993BJNE000200307)
 
 
 
 ## Art 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/plvereinfg/BJNR212300993.html#BJNR212300993BJNE000300307)
 
 Vor Inkrafttreten dieses Gesetzes begonnene Planungsverfahren werden
 nach den Vorschriften dieses Gesetzes weitergeführt. § 36d Abs. 6 des
@@ -40,11 +43,13 @@ Inkrafttreten dieses Gesetzes erlassen worden ist.
 
 
 ## Art 11 Neubekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/plvereinfg/BJNR212300993.html#BJNR212300993BJNE000400307)
 
 -
 
 
 ## Art 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/plvereinfg/BJNR212300993.html#BJNR212300993BJNE000500307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

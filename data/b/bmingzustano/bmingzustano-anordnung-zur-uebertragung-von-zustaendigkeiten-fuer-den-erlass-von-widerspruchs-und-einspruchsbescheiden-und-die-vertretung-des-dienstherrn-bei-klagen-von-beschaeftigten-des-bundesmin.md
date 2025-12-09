@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmingzustano/BJNR050200006.html#BJNR050200006BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -32,6 +33,7 @@ Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmingzustano/BJNR050200006.html#BJNR050200006BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt die Vertretung des Bundesministeriums für
@@ -43,11 +45,13 @@ die Prozessvertretung selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmingzustano/BJNR050200006.html#BJNR050200006BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 1. August 2005 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmingzustano/BJNR050200006.html#BJNR050200006BJNE000400000)
 
 Die Bundesministerin für Gesundheit
 

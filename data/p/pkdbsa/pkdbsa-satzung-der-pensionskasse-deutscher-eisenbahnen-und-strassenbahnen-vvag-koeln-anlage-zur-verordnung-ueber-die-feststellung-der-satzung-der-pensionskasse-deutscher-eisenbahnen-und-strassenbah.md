@@ -21,10 +21,12 @@ Stand: Hinweis: Satzungsänderungen gem. § 2 PKDBV werden mangels Veröffentlic
 
 
 ## I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000100000)
 
 
 
 ### § 1 Rechtsform und Sitz der Kasse
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000100000)
 
 (1) Die Kasse führt die Firma "Pensionskasse Deutscher Eisenbahnen und
 Straßenbahnen VVaG" und hat ihren Sitz in Köln. Sie ist ein kleinerer
@@ -35,6 +37,7 @@ Versicherungsaufsichtsgesetzes.
 
 
 ### § 2 Zweck der Kasse
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000200000)
 
 (1) Die Kasse hat den Zweck, die Altersversorgung der Arbeitnehmer der
 beteiligten Arbeitgeber in Ergänzung der gesetzlichen
@@ -68,6 +71,7 @@ abzugelten.
 
 
 ### § 2a Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000300000)
 
 (1) Die Mitgliedschaft in der Kasse wird durch Abschluss eines
 Beitrittsvertrags mit dem Arbeitgeber oder durch Abschluss eines
@@ -121,6 +125,7 @@ Arbeitnehmer bzw. sonstigen Versicherten.
 
 
 ### § 2b Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000400000)
 
 (1) Soweit in der Satzung der Begriff Arbeitnehmer verwendet wird,
 umfasst dieser auch die sonstigen Versicherten gemäß § 8, sofern nicht
@@ -133,6 +138,7 @@ Arbeitgeber.
 
 
 ### § 3 Verhältnis der Kasse zu anderen Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000500000)
 
 (1) Die Kasse kann mit anderen Versorgungseinrichtungen
 Gegenseitigkeitsabkommen derart abschließen, dass bei dem Übertritt
@@ -161,10 +167,12 @@ Kuratoriums und der Aufsichtsbehörde.
 
 
 ## II. - Die beteiligten Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000200000)
 
 
 
 ### § 4 Beitrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000600000)
 
 (1) Der Kasse können als beteiligte Arbeitgeber alle juristischen und
 natürlichen Personen beitreten, die Eigentümer, Pächter oder
@@ -212,6 +220,7 @@ beteiligten Arbeitgeber (Abs. 1) tätigen Verbände beitreten.
 
 
 ### § 5 Pflichten der beteiligten Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000700000)
 
 (1) Die beteiligten Arbeitgeber haben vom Zeitpunkt der Wirksamkeit
 des Beitritts ab bei der Neueinstellung von Arbeitnehmern diese zum
@@ -277,6 +286,7 @@ der Kasse vorgeschriebenen Form zu melden,
 
 
 ### § 6 Ausscheiden von Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000800000)
 
 (1) Das Kuratorium kann einen Arbeitgeber von der Verpflichtung zur
 Zuführung weiterer Arbeitnehmer befreien, wenn ein wichtiger Grund
@@ -310,6 +320,7 @@ mit Zustimmung des Kuratoriums fristlos gekündigt werden.
 
 
 ### § 6a Auseinandersetzung mit ausscheidenden Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE000900000)
 
 (1) Endet die Mitgliedschaft eines Arbeitgebers gemäß § 6, so findet
 eine Auseinandersetzung statt; die hierfür erforderlichen
@@ -363,10 +374,12 @@ Versicherungsbestandes an die Kasse zu zahlen.
 
 
 ## III. - Die Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000300000)
 
 
 
 ### § 7 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001000000)
 
 (1) Der Kasse sind alle Arbeitnehmer zuzuführen, die nicht unter
 Absatz 2 fallen, sobald die Probezeit abgelaufen ist. Arbeitnehmer,
@@ -408,6 +421,7 @@ befreit werden.
 
 
 ### § 8 Versicherungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001100000)
 
 Der Kasse können außerdem zugeführt werden
 
@@ -428,6 +442,7 @@ die Rechte und Pflichten eines beteiligten Arbeitgebers.
 
 
 ### § 9 Ende der ordentlichen Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001200000)
 
 (1) Tritt ein Arbeitnehmer aus dem Dienst eines beteiligten
 Arbeitgebers in den Dienst eines anderen beteiligten Arbeitgebers
@@ -461,6 +476,7 @@ Anspruchs bis zu 150 Tagen ist unschädlich.
 
 
 ### § 10 Versicherungsarten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001300000)
 
 (1) Die am 31. Dezember 1999 vorhandenen Mitglieder der Abteilung A
 bleiben in der Abteilung A, die als geschlossener Bestand
@@ -485,6 +501,7 @@ hat die Kasse die Kassenleistungen an den Arbeitnehmer auszuzahlen.
 
 
 ### § 11 Ärztliche Untersuchung bei der Aufnahme und Risikozuschlag
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001400000)
 
 (1) Bei Anmeldung von Arbeitnehmern, für die nach § 8 keine
 Zuführungspflicht besteht, kann ein von dem Vertrauensarzt des
@@ -518,14 +535,17 @@ dieser Umstand der Kasse von dem Arbeitgeber mitzuteilen.
 
 
 ## IV. - Die Versicherungsbedingungen der Abteilung A
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000400000)
 
 
 
 ### 1. - Die Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000500000)
 
 
 
 #### § 12 Voraussetzungen des Rentenanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001500000)
 
 (1) Die Arbeitnehmer der Abteilung A haben einen Anspruch auf eine
 Rente
@@ -749,6 +769,7 @@ Rente ganz oder teilweise bewilligen.
 
 
 #### § 13 Gehaltszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001600000)
 
 (1) Ein Arbeitnehmer, der nach einer Wartezeit von 60 Beitragsmonaten
 und Vollendung des 60. Lebensjahres infolge eines körperlichen
@@ -789,6 +810,7 @@ oder den alten Monatstabellenlohn erreicht.
 
 
 #### § 14 Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001700000)
 
 (1) Stirbt der Arbeitnehmer vor Vollendung der Wartezeit, erhalten
 seine Angehörigen, sofern kein Anspruch auf eine Hinterbliebenenrente
@@ -821,6 +843,7 @@ Höhe der gewöhnlichen Bestattungskosten, in einer Summe gezahlt.
 
 
 #### § 15 Anspruchsberechtigte Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001800000)
 
 (1) Stirbt der Arbeitnehmer nach Vollendung der Wartezeit, so haben
 Anspruch auf eine Hinterbliebenenrente
@@ -911,6 +934,7 @@ gültigen Fassung dieses Paragraphen.
 
 
 #### § 16 Höhe der Versichertenrente
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE001900000)
 
 (1) Die Monatsrente beträgt, vorbehaltlich eines Rentenabschlags nach
 § 16 Abs. 1a, 1,25 v. H. der Summe der bis zum 31. Dezember 1999 für
@@ -1066,6 +1090,7 @@ entrichteten Beträgen.
 
 
 #### § 16a Versichertenrente auf Grund des Betriebsrentengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002000000)
 
 (1) War ein Rentenberechtigter nach dem 21. Dezember 1974 aber vor dem
 1\. Januar 2002 und nach Vollendung seines 35. Lebensjahres aus einem
@@ -1109,6 +1134,7 @@ Voraussetzungen nach § 35 Abs. 3 Buchstaben a) bis c) gegeben sind.
 
 
 #### § 16b Versichertenrente auf Grund des Betriebsrentengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002100000)
 
 Scheidet ein Arbeitnehmer nach dem 31. Dezember 2001 und nach
 Vollendung seines 30. Lebensjahres aus dem Arbeitsverhältnis aus, auf
@@ -1122,6 +1148,7 @@ Abteilung A 2000 ist, berechnet.
 
 
 #### § 17 Erhöhung laufender Renten durch Kapitaleinzahlung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002200000)
 
 Die laufenden Renten können jederzeit durch Einzahlung des notwendigen
 Deckungskapitals um einen unveränderlichen Jahresbetrag erhöht werden.
@@ -1131,6 +1158,7 @@ bedarf der Genehmigung durch die Aufsichtsbehörde.
 
 
 #### § 18 Laufzeit der Versichertenrenten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002300000)
 
 (1) Die Rente beginnt mit dem Ersten des Monats, in dem die
 Anspruchsvoraussetzungen erfüllt sind. Hat der Arbeitnehmer über den
@@ -1202,6 +1230,7 @@ c)  wenn die dem Rentner aus der gesetzlichen Rentenversicherung
 
 
 #### § 19 Höhe der Hinterbliebenenrenten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002400000)
 
 (1) Die Witwen- oder Witwerrente beträgt 60 v. H., die Waisenrente
 einer Vollwaise 20 v. H., die Waisenrente einer Halbwaise 12 v. H. der
@@ -1222,6 +1251,7 @@ Ehe ein Kind hervorgegangen ist.
 
 
 #### § 20 Laufzeit der Hinterbliebenenrenten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002500000)
 
 (1) Die Zahlung der Hinterbliebenenrenten beginnt mit dem auf den
 Sterbetag folgenden Tag. Wird über diesen Zeitpunkt hinaus Gehalt,
@@ -1286,6 +1316,7 @@ Wiederverheiratung.
 
 
 #### § 20a Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002600000)
 
 (1) Auf gemeinsamen schriftlichen Antrag des Arbeitnehmers und des
 Arbeitgebers findet die Kasse im Falle der Beendigung des
@@ -1329,6 +1360,7 @@ geltenden Fassung weiterhin Anwendung.
 
 
 #### § 20b Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002700000)
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung
 des § 1587b Abs. 2 BGB eine Anwartschaft in der gesetzlichen
@@ -1342,6 +1374,7 @@ bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 20c Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002800000)
 
 Der Anspruch auf Rente, der Anspruch auf Gehaltszuschuss sowie der
 Anspruch auf Sterbegeld verjähren in fünf Jahren. Die Verjährung
@@ -1351,11 +1384,13 @@ entsprechend.
 
 
 #### § 20d Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE002900000)
 
 Als Arbeitnehmer im Sinne dieser Satzung gelten auch Auszubildende.
 
 
 #### § 20e Änderung der Rentenhöhe wegen Zulagenrückforderung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003000000)
 
 Wird nach Bewilligung einer Rente durch die Kasse eine
 Altersvorsorgezulage (§§ 79 ff. EStG) von der zentralen Stelle
@@ -1379,10 +1414,12 @@ Rückzahlungsbetrag entrichtet haben.
 
 
 ### 2. - Die Finanzierung der Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000600000)
 
 
 
 #### § 21 Die Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003100000)
 
 (1) Der Arbeitnehmerbeitrag beträgt 2 v. H., der Arbeitgeberbeitrag
 5,5 v. H. des jeweils versicherungsfähigen Einkommens des
@@ -1477,6 +1514,7 @@ H. jährlich zu zahlen.
 
 
 #### § 21a Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003200000)
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten
 Altersvorsorgevermögens gelten die für die Durchführungsform der
@@ -1511,6 +1549,7 @@ Gestaltung ihrer Altersvorsorge zu beraten.
 
 
 #### § 22 Erstattungspflichten der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003300000)
 
 (1) Lehnt ein Arbeitgeber die Beschäftigung eines dienstunfähig
 gewordenen Arbeitnehmers, der jedoch noch nicht teilweise
@@ -1538,14 +1577,17 @@ Rententeil übersteigt.
 
 
 ## IVa. - Die Versicherungsbedingungen der Abteilung A 2000
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000700000)
 
 
 
 ### 1. - Die Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000800000)
 
 
 
 #### § 23 Voraussetzungen des Rentenanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003400000)
 
 (1) Die Arbeitnehmer der Abteilung A 2000 haben einen Anspruch auf
 Altersrente, sobald sie das 60. Lebensjahr vollendet haben und aus
@@ -1666,6 +1708,7 @@ monatliche Arbeitsentgelt oder Arbeitseinkommen zu berücksichtigen.
 
 
 #### § 24 Höhe der Alters- und Erwerbsminderungsrente des Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003500000)
 
 (1) Die Höhe der Monatsrente ergibt sich aus der Summe der bis zum
 Beginn der Rente für den Arbeitnehmer insgesamt entrichteten Beiträge
@@ -1954,6 +1997,7 @@ Erwerbsminderung angerechnet wird.
 
 
 #### § 25 Laufzeit der Alters- und Erwerbsminderungsrente des Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003600000)
 
 (1) Die Rente wird auf Antrag von dem Kalendermonat an geleistet, zu
 dessen Beginn die Anspruchsvoraussetzungen (§ 23) erfüllt sind. Der
@@ -1965,12 +2009,14 @@ entsprechend.
 
 
 #### § 26 Höhe und Laufzeit der Hinterbliebenenrente
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003700000)
 
 Für Höhe und Laufzeit der Hinterbliebenenrente gelten § 19 und § 20
 entsprechend.
 
 
 #### § 27 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003800000)
 
 (1) § 14 sowie § 20a, § 20b, § 20c, § 20d und § 20e gelten
 entsprechend.
@@ -1981,10 +2027,12 @@ Versicherungsfalles nach § 12 der Versicherungsfall nach § 23 tritt.
 
 
 ### 2. - Die Finanzierung der Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG000900000)
 
 
 
 #### § 28 Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE003900000)
 
 (1) Im Regelfall beträgt der Arbeitnehmerbeitrag 2 v. H., der
 Arbeitgeberbeitrag 3,5 v. H. des jeweils versicherungsfähigen
@@ -2056,6 +2104,7 @@ Beiträgen gleich, soweit sie nicht zurückgefordert werden.
 
 
 #### § 28a Übertragung externer Übertragungswerte auf die Kasse
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004000000)
 
 (1) Die Vorschriften dieses Paragrafen gelten nur
 
@@ -2100,6 +2149,7 @@ entsprechend.
 
 
 #### § 28b Einvernehmliche Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004100000)
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse
 gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen
@@ -2107,6 +2157,7 @@ Altersversorgung (BetrAVG) ist ausgeschlossen.
 
 
 #### § 28c Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004200000)
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten
 Altersvorsorgevermögens gelten die für die Durchführungsform der
@@ -2141,14 +2192,17 @@ Gestaltung ihrer Altersvorsorge zu beraten.
 
 
 ## IVb. - Die Versicherungsbedingungen der Abteilung Z 2002
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001000000)
 
 
 
 ### 1. - Mitgliedschaft, allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001100000)
 
 
 
 #### § 29 Mitgliedschaft, allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004300000)
 
 (1) Der Abteilung Z 2002 können zugeführt werden alle Arbeitnehmer der
 beteiligten Arbeitgeber, der für die beteiligten Arbeitgeber tätigen
@@ -2273,10 +2327,12 @@ vorzulegen.
 
 
 ### 2. - Versicherungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001200000)
 
 
 
 #### § 29a Umfang des Versicherungsschutzes, Wahlmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004400000)
 
 (1) Die Arbeitnehmer der Abteilung Z 2002 haben Anspruch auf
 Altersrente nach Maßgabe des § 29b.
@@ -2316,6 +2372,7 @@ der für das Kalenderjahr ihres Zuflusses an die Kasse gewählt wurde.
 
 
 #### § 29b Altersrente, Voraussetzungen und Höhe, Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004500000)
 
 (1) Die Arbeitnehmer der Abteilung Z 2002 haben Anspruch auf
 Altersrente, sobald sie das 60. Lebensjahr vollendet haben und, sofern
@@ -3480,6 +3537,7 @@ X = Lebensjahr, das der Versicherte im Kalenderjahr der
 
 
 #### § 29c Hinterbliebenenrente
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004600000)
 
 (1) Die in Absatz 2 aufgezählten Hinterbliebenen der Arbeitnehmer der
 Abteilung Z 2002 haben Anspruch auf Hinterbliebenenrente nach Maßgabe
@@ -3681,6 +3739,7 @@ Witwer das 75. Lebensjahr vollendet hat.
 
 
 #### § 29d Rente wegen teilweiser oder voller Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004700000)
 
 (1) Arbeitnehmer der Abteilung Z 2002 haben vor Vollendung des 60.
 Lebensjahres Anspruch auf Rente wegen teilweiser oder voller
@@ -3872,6 +3931,7 @@ Paragrafen, so gilt § 29 Abs. 7.
 
 
 #### § 29e Anpassung der Verrentungstabellen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004800000)
 
 (1) Die für die Verrentung der Beiträge in der Abteilung Z 2002
 maßgeblichen Tabellen 1a, 1b, 2, 3a, 3b und 4 (Anhang) sowie die
@@ -3895,6 +3955,7 @@ es aus Vertrauensschutzgesichtspunkten bei der bewilligten Rentenhöhe.
 
 
 #### § 29f Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE004900000)
 
 (1) Auf gemeinsamen schriftlichen Antrag des Arbeitnehmers und des
 Arbeitgebers findet die Kasse im Falle der Beendigung des
@@ -3938,6 +3999,7 @@ geltenden Fassung weiterhin Anwendung.
 
 
 #### § 29g Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005000000)
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung
 des § 1587b Abs. 2 BGB eine Anwartschaft in der gesetzlichen
@@ -3951,6 +4013,7 @@ bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 29h Änderung der Rentenhöhe wegen Zulagenrückforderung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005100000)
 
 Wird nach Bewilligung einer Rente durch die Kasse eine
 Altersvorsorgezulage (§§ 79 ff. EStG) von der zentralen Stelle
@@ -3974,6 +4037,7 @@ Rückzahlungsbetrag entrichtet haben.
 
 
 #### § 29i Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005200000)
 
 Der Anspruch auf Rente sowie der Anspruch auf Sterbegeld verjähren in
 fünf Jahren. Die Verjährung beginnt mit dem Schluss des Jahres, in
@@ -3982,10 +4046,12 @@ Versicherungsvertragsgesetzes gilt entsprechend.
 
 
 ### 3. - Finanzierung der Versicherungsleistungen,  Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001300000)
 
 
 
 #### § 30 Mindest- und Höchstbeitrag, Beitragsleistung und Beitragsmeldung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005300000)
 
 (1) Der kalenderjährliche Mindestbeitrag in der Abteilung Z 2002
 beträgt ein Hundertsechzigstel (1/160) der Bezugsgröße nach § 18 Abs.
@@ -4043,10 +4109,12 @@ Bundesländer.
 
 
 ### 4. - Rechte der Arbeitnehmer der Abteilung Z 2002
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001400000)
 
 
 
 #### § 30a Rechte bei Entgeltumwandlung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005400000)
 
 (1) Soweit die Beiträge zur Abteilung Z 2002 im Wege der
 Entgeltumwandlung erbracht worden sind,
@@ -4097,6 +4165,7 @@ Barwerts Aufwendungen, hat der Arbeitnehmer diese zu erstatten.
 
 
 #### § 30b Rechte bei sonstigen Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005500000)
 
 Soweit die Beiträge zur Abteilung Z 2002 nicht im Wege der
 Entgeltumwandlung erbracht worden sind,
@@ -4132,6 +4201,7 @@ stellt.
 
 
 #### § 30c Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005600000)
 
 (1) Soweit dem aus dem Arbeitsverhältnis bei einem beteiligten
 Arbeitgeber ausgeschiedenen Arbeitnehmer das Recht zur freiwilligen
@@ -4166,6 +4236,7 @@ erneute freiwillige Weiterversicherung ist ebenfalls ausgeschlossen.
 
 
 #### § 30d Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005700000)
 
 (1) Scheidet ein Arbeitnehmer der Abteilung Z 2002 vor Erreichen der
 Unverfallbarkeit seiner Anwartschaft aus sonstigen Beiträgen (§ 30b)
@@ -4194,6 +4265,7 @@ Beiträge entfallenden Anwartschaften.
 
 
 #### § 30e Verfahren beim Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005800000)
 
 (1) Scheidet ein Arbeitnehmer der Abteilung Z 2002 aus dem Dienst
 eines beteiligten Arbeitgebers aus und liegen nicht die
@@ -4233,6 +4305,7 @@ beantragt. Eine Beitragsrückerstattung ist ausgeschlossen.
 
 
 #### § 30f Altersvorsorgezulage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE005900000)
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten
 Altersvorsorgevermögens gelten die für die Durchführungsform der
@@ -4269,6 +4342,7 @@ Gestaltung ihrer Altersvorsorge zu beraten.
 
 
 #### § 30g Auskunftsanspruch des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006000000)
 
 (1) Die Kasse hat einem versicherten Arbeitnehmer bei einem
 berechtigten Interesse auf dessen Verlangen schriftlich mitzuteilen,
@@ -4298,6 +4372,7 @@ zurückliegt.
 
 
 #### § 30h Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006100000)
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein
 Entgelt erhält, hat er das Recht, die Versicherung mit eigenen
@@ -4310,6 +4385,7 @@ diese Beiträge entsprechend.
 
 
 #### § 30i Anspruch auf Anwartschaftsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006200000)
 
 (1) Die Vorschriften dieses Paragrafen gelten nur für unverfallbare
 Altersversorgungszusagen, die nach dem 31. Dezember 2004 erteilt
@@ -4352,6 +4428,7 @@ gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.
 
 
 #### § 30j Einvernehmliche Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006300000)
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse
 gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen
@@ -4359,6 +4436,7 @@ Altersversorgung (BetrAVG) ist ausgeschlossen.
 
 
 #### § 30k Übertragung externer Übertragungswerte auf die Kasse
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006400000)
 
 (1) Die Vorschriften dieses Paragrafen gelten nur
 
@@ -4401,10 +4479,12 @@ entsprechend.
 
 
 ## V. - Die Versicherungsbedingungen der Abteilung B
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001500000)
 
 
 
 ### § 31 Allgemeiner Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006500000)
 
 (1) Die am 31. Dezember 1967 bestehenden Versicherungsverhältnisse der
 Abteilung B werden gemäß den am 31. Dezember 1967 gültigen
@@ -4428,10 +4508,12 @@ Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
 
 ## VI. - Bestimmungen über die Abwicklung von  Versicherungsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001600000)
 
 
 
 ### § 32 Überleitungsbestimmungen und Versicherungsbedingungen der Abteilung C
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006600000)
 
 (1) Die Arbeitnehmer der alten Abteilung D, die erst nach dem 30. Juni
 1948 aufgenommen worden sind, sowie die Arbeitnehmer der alten
@@ -4495,6 +4577,7 @@ Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
 
 ### § 33 Versicherungsbedingungen der Abteilungen G und H
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006700000)
 
 (1) Die von der Werkspensionskasse der Essener Verkehrs-AG
 übernommenen Versicherungsverhältnisse werden in der Abteilung G
@@ -4510,14 +4593,17 @@ Bestandteil dieser Satzung.
 
 
 ## VII. - Gemeinsame Bestimmungen für die Versicherten der  Abteilungen A und A 2000
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001700000)
 
 
 
 ### 1. - Pflichten der Versicherten und Hinterbliebenen,  Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001800000)
 
 
 
 #### § 34 Anzeige-, Abtretungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006800000)
 
 (1) Die Versicherten (§ 2b Abs. 2) und ihre anspruchsberechtigten
 Hinterbliebenen haben die Einnahmen und sonstigen Umstände, die auf
@@ -4543,6 +4629,7 @@ Verlegung ihres Wohnsitzes unverzüglich mitzuteilen.
 
 
 #### § 34a Auskunftsanspruch des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE006900000)
 
 (1) Die Kasse hat einem versicherten Arbeitnehmer bei einem
 berechtigten Interesse auf dessen Verlangen schriftlich mitzuteilen,
@@ -4572,6 +4659,7 @@ zurückliegt.
 
 
 #### § 34b Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007000000)
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein
 Entgelt erhält, hat er das Recht, die Versicherung mit eigenen
@@ -4583,10 +4671,12 @@ aus diesen Beiträgen ein.
 
 
 ### 2. - Rechte der Versicherten beim Ausscheiden aus dem Dienst eines beteiligten Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG001900000)
 
 
 
 #### § 35 Freiwillige Weiterversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007100000)
 
 (1) Scheiden Versicherte der Abteilungen A und A 2000 aus der
 ordentlichen Mitgliedschaft aus, so können sie sich freiwillig
@@ -4657,6 +4747,7 @@ errechnet sich die Rente der freiwillig Versicherten nach § 24.
 
 
 #### § 36 Beitragsfreie Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007200000)
 
 (1) Versicherte der Abteilung A können bei ihrem Ausscheiden aus der
 ordentlichen Mitgliedschaft anstelle der freiwilligen
@@ -5070,6 +5161,7 @@ erfolgt Beitragserstattung nach § 37.
 
 
 #### § 37 Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007300000)
 
 (1) Macht ein aus der ordentlichen Mitgliedschaft ausgeschiedener
 Versicherter von dem Recht der freiwilligen Weiterversicherung oder
@@ -5144,6 +5236,7 @@ Versicherungsverhältnis.
 
 
 #### § 37a Verfahren beim Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007400000)
 
 (1) Scheidet ein Versicherter aus dem Dienst eines beteiligten
 Arbeitgebers aus, so wird es von der Kasse über die sich aus den §§ 35
@@ -5171,6 +5264,7 @@ Beitragserstattung nach § 37.
 
 
 #### § 37b Anspruch auf Anwartschaftsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007500000)
 
 (1) Die Vorschriften dieses Paragrafen gelten nur für unverfallbare
 Altersversorgungszusagen, die nach dem 31. Dezember 2004 erteilt
@@ -5220,10 +5314,12 @@ gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.
 
 
 ## VIII. - Die Organe
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002000000)
 
 
 
 ### § 38 Organe
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007600000)
 
 Die Organe der Pensionskasse sind
 
@@ -5243,10 +5339,12 @@ Die Organe der Pensionskasse sind
 
 
 ### 1. - Die Arbeitnehmervertretung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002100000)
 
 
 
 #### § 39 Zusammensetzung und Wahl
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007700000)
 
 (1) Die Arbeitnehmer und die Empfänger von Versichertenrente (nicht
 die Empfänger von Hinterbliebenenrente) jedes Arbeitgebers wählen
@@ -5287,6 +5385,7 @@ durchzuführen.
 
 
 #### § 40 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007800000)
 
 Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von
 ihnen vertretenen Arbeitnehmer und ihrer Hinterbliebenen gegenüber der
@@ -5299,6 +5398,7 @@ Hinterbliebene in Pensionskassenangelegenheiten beraten.
 
 
 #### § 41 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE007900000)
 
 (1) Der Vorsitzende oder dessen Stellvertreter berufen den
 Arbeitnehmerausschuss nach Bedarf ein. Der Vorsitzende kann eine
@@ -5324,10 +5424,12 @@ das Los, ein.
 
 
 ### 2. - Die Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002200000)
 
 
 
 #### § 42 Zusammensetzung und Wahl
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008000000)
 
 (1) Die Hauptversammlung ist das oberste Organ der Kasse. Sie besteht
 aus Vertretern der Arbeitgeber und der Arbeitnehmer.
@@ -5355,6 +5457,7 @@ Hauptversammlung ausgeschlossen werden.
 
 
 #### § 43 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008100000)
 
 (1) Der Hauptversammlung ist vorbehalten
 
@@ -5396,6 +5499,7 @@ der Aufsichtsbehörde.
 
 
 #### § 44 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008200000)
 
 (1) Der Vorstand beruft die Hauptversammlung mittels besonderen
 Anschreibens an die Arbeitgeber und die Arbeitnehmervertretungen unter
@@ -5418,6 +5522,7 @@ Verhandlung zulassen.
 
 
 #### § 45 Leitung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008300000)
 
 (1) Der Vorsitzende des Kuratoriums oder dessen Stellvertreter oder
 ein anderes Mitglied des Kuratoriums leitet die Hauptversammlung.
@@ -5428,6 +5533,7 @@ unterzeichnen ist.
 
 
 #### § 46 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008400000)
 
 (1) Das Stimmrecht der Arbeitnehmervertreter richtet sich nach der
 Zahl der von ihnen vertretenen Arbeitnehmer und Rentenempfänger;
@@ -5464,10 +5570,12 @@ von 3/4 aller vorhandenen Stimmen beschlossen werden.
 
 
 ### 3. - Das Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002300000)
 
 
 
 #### § 47 Zusammensetzung und Wahl
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008500000)
 
 (1) Das Kuratorium besteht aus 14 Mitgliedern, davon werden 7 von den
 beteiligten Arbeitgebern und 7 von den Arbeitnehmern in der
@@ -5513,6 +5621,7 @@ Nachfolger zu wählen.
 
 
 #### § 48 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008600000)
 
 (1) Das Kuratorium hat den Vorstand in allen Zweigen der Verwaltung zu
 überwachen und sich von dem Gang der Angelegenheiten der Kasse laufend
@@ -5579,6 +5688,7 @@ machen.
 
 
 #### § 49 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008700000)
 
 (1) Die Sitzungen des Kuratoriums werden einberufen, wenn dieses vom
 Vorsitzenden für erforderlich gehalten oder von mindestens vier
@@ -5610,10 +5720,12 @@ soweit das Kuratorium nicht etwas anderes beschließt.
 
 
 ### 4. - Der Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002400000)
 
 
 
 #### § 50 Zusammensetzung und Wahl
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008800000)
 
 (1) Das Kuratorium bestellt die Mitglieder des Vorstandes.
 
@@ -5637,6 +5749,7 @@ Absatz 2 den Nachfolger zu wählen.
 
 
 #### § 51 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE008900000)
 
 (1) Der Vorstand führt die Verwaltung der Kasse nach den Vorschriften
 dieser Satzung unter eigener Verantwortung. Er vertritt die Kasse
@@ -5652,6 +5765,7 @@ Erklärungen für die Kasse abgeben können.
 
 
 #### § 52 Auskunfts- und Prüfungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009000000)
 
 Der Vorstand ist berechtigt, von den Arbeitgebern alle für seine
 Entscheidungen erforderlichen Auskünfte zu verlangen, ferner die
@@ -5662,15 +5776,18 @@ kann mit der Nachprüfung auch Angestellte der Kasse beauftragen.
 
 
 ### 5. - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002500000)
 
 
 
 #### § 53 Wahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009100000)
 
 Die Einzelheiten der Wahl zu den Kassenorganen regelt das Kuratorium.
 
 
 #### § 54 Aufwandsentschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009200000)
 
 (1) Die Ämter der Kuratoriumsmitglieder, der Arbeitnehmervertretungen
 sowie der Vertreter in der Hauptversammlung sind unbesoldete
@@ -5687,10 +5804,12 @@ bei ihnen geltenden Bestimmungen zu gewähren.
 
 
 ## IX. - Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002600000)
 
 
 
 ### § 55 Rechnungsführung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009300000)
 
 (1) Die Kasse weist die Einnahmen und Ausgaben der Abteilungen A, A
 2000 und Z 2002 nach Maßgabe der geltenden Bestimmungen gesondert aus.
@@ -5701,6 +5820,7 @@ sind die Einnahmen und Ausgaben der Abteilung gesondert auszuweisen.
 
 
 ### § 55a Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009400000)
 
 (1) Die Kasse hat zur Deckung eines außergewöhnlichen Verlustes aus
 dem Geschäftsbetrieb eine Rücklage (Verlustrücklage) gemäß § 37
@@ -5719,6 +5839,7 @@ b)  ab dem 31. Dezember 2007 auf mindestens 4,5 v. H. der
 
 
 ### § 56 Vermögensanlage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009500000)
 
 (1) Das nicht zur Bestreitung der laufenden Ausgaben benötigte
 Vermögen ist nach Maßgabe der gesetzlichen Vorschriften (§ 54 des
@@ -5732,6 +5853,7 @@ Sondervermögen des übernommenen Versicherungsbestandes abwickeln.
 
 
 ### § 57 Versicherungstechnische Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009600000)
 
 (1) Die Kasse hat alle drei Jahre, auf Verlangen der Aufsichtsbehörde
 auch zu anderen Zeitpunkten, durch einen versicherungsmathematischen
@@ -5771,6 +5893,7 @@ ausgeschlossen.
 
 
 ### § 58 Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009700000)
 
 (1) Das Rechnungsjahr der Kasse ist das Kalenderjahr.
 
@@ -5788,6 +5911,7 @@ erteilt.
 
 
 ### § 59 Leistungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009800000)
 
 (1) Die Kasse ist berechtigt, vor der Entscheidung über
 Leistungsanträge weitere Erhebungen anzustellen, vor allem auch
@@ -5801,6 +5925,7 @@ Dienst- oder Arbeitsunfähigkeit des Arbeitnehmers erweisen.
 
 
 ### § 60 Beitragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE009900000)
 
 (1) Die Arbeitnehmerbeiträge sind bei der Gehalts- oder Lohnzahlung
 vom Arbeitgeber einzubehalten. Für jeden angefangenen Monat der
@@ -5819,12 +5944,14 @@ Verzugszinsen zu entrichten.
 
 
 ### § 61 Erfüllungsort und Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010000000)
 
 Erfüllungsort und Gerichtsstand für alle Beitrags- und
 Erstattungsforderungen sowie für alle Kassenleistungen ist Köln.
 
 
 ### § 62 Auszahlung der Kassenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010100000)
 
 (1) Die Kassenleistungen werden grundsätzlich durch die Kasse selbst
 an die empfangsberechtigten Personen gezahlt. Die Renten werden
@@ -5876,6 +6003,7 @@ ganz oder teilweise abgesehen werden.
 
 
 ### § 63 Abrechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010200000)
 
 (1) Das Abrechnungsverfahren regelt der Vorstand der Kasse. Die
 Abrechnungssalden sind unverzüglich auszugleichen; bei Verzug sind
@@ -5887,6 +6015,7 @@ Abrechnungssaldos zu zahlen.
 
 
 ### § 64 Berufung oder Klage
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010300000)
 
 (1) Entscheidungen der Kasse, durch die ein klagbarer Anspruch
 anerkannt oder abgelehnt wird, müssen schriftlich unter Angabe der mit
@@ -5903,6 +6032,7 @@ rechtskräftig.
 
 
 ### § 65 Berufungsentscheidung, Klagefrist
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010400000)
 
 (1) Entscheidungen des Kuratoriums sind schriftlich auszufertigen und
 von dem Kuratoriumsvorsitzenden oder seinem Stellvertreter zu
@@ -5920,6 +6050,7 @@ Entscheidung rechtskräftig.
 
 
 ### § 66 Rechtskraftwirkung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010500000)
 
 (1) Wird gegen Bescheide der Kasse, die sowohl das Verhältnis des
 Versicherten (§ 2b Abs. 2) als auch das Verhältnis des Arbeitgebers
@@ -5938,10 +6069,12 @@ Schreibfehler handelt.
 
 
 ## X. - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002700000)
 
 
 
 ### § 67 Die Auflösung der Kasse
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010600000)
 
 (1) Die Auflösung der Kasse kann nur von der Hauptversammlung mit
 3/4-Mehrheit aller vorhandenen Stimmen beschlossen werden. Das
@@ -5970,12 +6103,14 @@ Versicherungsverhältnissen entrichteten Beiträge aufzuteilen.
 
 
 ### § 68 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNE010700000)
 
 Diese Fassung der Satzung tritt mit Wirkung vom 1. Januar 2006 in
 Kraft.
 
 
 ## XI. - Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002800000)
 
 **Weitergeltende Bestimmungen der bis zum 30. Juni 1967 gültigen
 Satzungsfassung**
@@ -7066,6 +7201,7 @@ gesichert ist.
 
 
 ## XII. - Anlage zu § 57 der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG002900000)
 
 **1. Beschluss der außerordentlichen Hauptversammlung vom 28. März
 1973:**
@@ -7270,6 +7406,7 @@ f)  die am 31. Dezember 2001 laufenden Renten und bestehenden
 
 
 ## XIII. - Anlage zu § 20b und zu § 29g der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG003000000)
 
 **Richtlinien der Pensionskasse Deutscher Eisenbahnen und
 Straßenbahnen zur Durchführung des Versorgungsausgleichs nach § 1 Abs.
@@ -7449,6 +7586,7 @@ entsprechend anzuwenden.
 
 
 ## XIV. - Anlage zu § 33 Abs. 1 der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG003100000)
 
 
 *
@@ -7679,6 +7817,7 @@ Kuratorium beschlossenen Versicherungsbedingungen genehmigt.
 
 
 ## XV. - Anlage zu § 33 Abs. 2 der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG003200000)
 
 
 *
@@ -7896,6 +8035,7 @@ Satzung der Pensionskasse anzurechnen.
 
 
 ## XVI. - Weitergeltende Bestimmungen der bis zum 31. Dezember 2005 gültigen Satzungsfassung
+[Direktlink](https://www.gesetze-im-internet.de/pkdbsa/BJNR016700006.html#BJNR016700006BJNG003300000)
 
 
 *

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bverkehrz_nderl/BJNR007680968.html#BJNR007680968BJNE000100304)
 
 Das Präsidium der Deutschen Verkehrswacht e.V. (früher
 Bundesverkehrswacht) hat folgenden Beschluß gefaßt:

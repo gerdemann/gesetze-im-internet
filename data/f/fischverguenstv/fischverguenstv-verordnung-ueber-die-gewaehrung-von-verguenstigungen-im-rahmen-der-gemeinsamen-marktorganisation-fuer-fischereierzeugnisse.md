@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000100328)
 
 Auf Grund des § 6 Abs. 1 Nr. 9 und 16 und des § 9 des Gesetzes zur
 Durchführung der gemeinsamen Marktorganisationen vom 31. August 1972
@@ -35,6 +36,7 @@ Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000200328)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
@@ -46,6 +48,7 @@ Fischereierzeugnisse.
 
 
 ## § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000301308)
 
 (1) Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist vorbehaltlich des Absatzes 2 die
@@ -58,6 +61,7 @@ Verwendung, sind die nach Landesrecht zuständigen Stellen.
 
 
 ## § 3 Voraussetzungen für die Gewährung der Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000401308)
 
 (1) Finanzieller Ausgleich und Übertragungsprämie werden nur gewährt,
 wenn die Erzeugerorganisation, die Rücknahmepreise anwenden will, der
@@ -102,6 +106,7 @@ anderen erfolgt.
 
 
 ## § 4 Anträge, Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000500328)
 
 (1) Vergünstigungen nach § 1 werden auf schriftlichen Antrag gewährt.
 
@@ -112,6 +117,7 @@ festgesetzt.
 
 
 ## § 5 Muster für Anträge
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000601308)
 
 Die Bundesanstalt kann für Anträge, Meldungen und Erklärungen, die zur
 Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte
@@ -121,6 +127,7 @@ Vordrucke bereitstellt, sind diese zu verwenden.
 
 
 ## § 6 Anzeigepflicht gegenüber der Landesstelle
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000700328)
 
 (1) Nimmt die Erzeugerorganisation Erzeugnisse aus dem Handel, so hat
 sie vorab unverzüglich mündlich oder fernmündlich der zuständigen
@@ -161,6 +168,7 @@ Absatz 1 keine Entscheidung getroffen hat.
 
 
 ## § 7 Kennzeichnungspflicht bei der Übertragungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000800328)
 
 Soweit in den in § 1 genannten Rechtsakten zur Gewährung einer
 Übertragungsprämie die Identifizierung von Fischereierzeugnissen
@@ -171,6 +179,7 @@ Bestandsbuchführung aufgezeichnet ist, enthalten.
 
 
 ## § 8 Bestandsbuchführung durch Lohnverarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE000900328)
 
 Wer als Lohnverarbeiter aus dem Handel genommene Fischereierzeugnisse
 verarbeitet, ist zu einer Bestandsbuchführung verpflichtet, die den
@@ -179,11 +188,13 @@ Bestandsbuchführung der Erzeugerorganisationen entspricht.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE001001308)
 
 -
 
 
 ## § 10 Aufbewahrungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE001100328)
 
 (1) Der Empfänger einer Vergünstigung hat die für die Gewährung der
 Vergünstigung erforderlichen Unterlagen sieben Jahre nach Gewährung
@@ -201,11 +212,13 @@ auf seine Kosten Listen mit den erforderlichen Angaben auszudrucken.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE001401308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fischverg_nstv/BJNR000260983.html#BJNR000260983BJNE001500328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

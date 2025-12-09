@@ -23,31 +23,37 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Richteramt in Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000101125)
 
 
 
 ### Abschnitt 1 - Einleitende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000201125)
 
 
 
 #### § 1 Berufsrichter und ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE001901125)
 
 Die rechtsprechende Gewalt wird durch Berufsrichter und durch
 ehrenamtliche Richter ausgeübt.
 
 
 #### § 2 Geltung für Berufsrichter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002001125)
 
 Die Vorschriften dieses Gesetzes gelten, soweit dieses Gesetz nicht
 anderes bestimmt, nur für die Berufsrichter.
 
 
 #### § 3 Dienstherr
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002101125)
 
 Die Richter stehen im Dienst des Bundes oder eines Landes.
 
 
 #### § 4 Unvereinbare Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002202125)
 
 (1) Ein Richter darf Aufgaben der rechtsprechenden Gewalt und Aufgaben
 der gesetzgebenden oder der vollziehenden Gewalt nicht zugleich
@@ -79,10 +85,12 @@ wahrnehmen
 
 
 ### Abschnitt 2 - Befähigung zum Richteramt
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000301125)
 
 
 
 #### § 5 Befähigung zum Richteramt
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002303125)
 
 (1) Die Befähigung zum Richteramt erwirbt, wer ein
 rechtswissenschaftliches Studium an einer Universität mit der ersten
@@ -96,6 +104,7 @@ abzustimmen.
 
 
 #### § 5a Studium
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002407125)
 
 (1) Die Studienzeit beträgt viereinhalb Jahre; diese Zeit kann
 unterschritten werden, sofern die jeweils für die Zulassung zur
@@ -136,6 +145,7 @@ bei einer Stelle und zusammenhängend stattfindet.
 
 
 #### § 5b Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002506125)
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre.
 
@@ -203,6 +213,7 @@ auf die Pflichtstationen zu verteilen.
 
 
 #### § 5c Anrechnung einer Ausbildung für den gehobenen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002602125)
 
 (1) Eine erfolgreich abgeschlossene Ausbildung für den gehobenen
 Justizdienst oder für den gehobenen nichttechnischen Verwaltungsdienst
@@ -214,6 +225,7 @@ mehr als sechs Monate angerechnet werden.
 
 
 #### § 5d Prüfungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002709125)
 
 (1) Staatliche und universitäre Prüfungen berücksichtigen die
 inhaltlichen Vorgaben des § 5a Absatz 3 Satz 1; unbeschadet von § 5a
@@ -284,6 +296,7 @@ erbracht werden dürfen.
 
 
 #### § 6 Anerkennung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002802125)
 
 (1) Die Zulassung zum Vorbereitungsdienst darf einem Bewerber nicht
 deswegen versagt werden, weil er die universitäre
@@ -299,22 +312,26 @@ Land zum Richteramt befähigt.
 
 
 #### § 7 Universitätsprofessoren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE002901125)
 
 Jeder ordentliche Professor der Rechte an einer Universität im
 Geltungsbereich dieses Gesetzes ist zum Richteramt befähigt.
 
 
 ### Abschnitt 3 - Richterverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000401125)
 
 
 
 #### § 8 Rechtsformen des Richterdienstes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003001125)
 
 Richter können nur als Richter auf Lebenszeit, auf Zeit, auf Probe
 oder kraft Auftrags berufen werden.
 
 
 #### § 9 Voraussetzungen für die Berufungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003102125)
 
 In das Richterverhältnis darf nur berufen werden, wer
 
@@ -335,6 +352,7 @@ In das Richterverhältnis darf nur berufen werden, wer
 
 
 #### § 10 Ernennung auf Lebenszeit
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003201125)
 
 (1) Zum Richter auf Lebenszeit kann ernannt werden, wer nach Erwerb
 der Befähigung zum Richteramt mindestens drei Jahre im richterlichen
@@ -371,6 +389,7 @@ besondere Kenntnisse und Erfahrungen des zu Ernennenden voraus.
 
 
 #### § 11 Ernennung auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003301125)
 
 Eine Ernennung zum Richter auf Zeit ist nur unter den durch
 Bundesgesetz bestimmten Voraussetzungen und nur für die
@@ -378,6 +397,7 @@ bundesgesetzlich bestimmten Aufgaben zulässig.
 
 
 #### § 12 Ernennung auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003401125)
 
 (1) Wer später als Richter auf Lebenszeit oder als Staatsanwalt
 verwendet werden soll, kann zum Richter auf Probe ernannt werden.
@@ -389,6 +409,7 @@ Frist verlängert sich um die Zeit einer Beurlaubung ohne Bezüge.
 
 
 #### § 13 Verwendung eines Richters auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003501125)
 
 Ein Richter auf Probe kann ohne seine Zustimmung nur bei einem
 Gericht, bei einer Behörde der Gerichtsverwaltung oder bei einer
@@ -396,6 +417,7 @@ Staatsanwaltschaft verwendet werden.
 
 
 #### § 14 Ernennung zum Richter kraft Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003601125)
 
 (1) Ein Beamter auf Lebenszeit oder auf Zeit kann zum Richter kraft
 Auftrags ernannt werden, wenn er später als Richter auf Lebenszeit
@@ -405,6 +427,7 @@ verwendet werden soll.
 
 
 #### § 15 Wirkungen auf das Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003701125)
 
 (1) Der Richter kraft Auftrags behält sein bisheriges Amt. Seine
 Besoldung und Versorgung bestimmen sich nach diesem Amt. Im übrigen
@@ -417,6 +440,7 @@ so ist auch dieser zur Zahlung der Dienstbezüge verpflichtet.
 
 
 #### § 16 Dauer der Verwendung als Richter kraft Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003801125)
 
 (1) Spätestens zwei Jahre nach seiner Ernennung ist der Richter kraft
 Auftrags zum Richter auf Lebenszeit zu ernennen oder einem
@@ -428,6 +452,7 @@ Vorschriften für Richter auf Probe entsprechend.
 
 
 #### § 17 Ernennung durch Urkunde
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE003901125)
 
 (1) Der Richter wird durch Aushändigung einer Urkunde ernannt.
 
@@ -461,6 +486,7 @@ der Ernennungsurkunde die Amtsbezeichnung dieses Amtes enthalten sein.
 
 
 #### § 17a Niederlegung eines Mandats im Deutschen Bundestag
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004001125)
 
 Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem
 Zeitpunkt erneut um einen Sitz im Deutschen Bundestag, so ist die
@@ -469,6 +495,7 @@ zulässig.
 
 
 #### § 18 Nichtigkeit der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004102125)
 
 (1) Eine Ernennung ist nichtig, wenn sie von einer sachlich
 unzuständigen Behörde ausgesprochen wurde. Die Ernennung kann nicht
@@ -494,6 +521,7 @@ Gericht sie rechtskräftig festgestellt hat.
 
 
 #### § 19 Rücknahme der Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004202125)
 
 (1) Eine Ernennung ist zurückzunehmen,
 
@@ -528,6 +556,7 @@ rechtskräftiger richterlicher Entscheidung zurückgenommen werden.
 
 
 #### § 19a Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004301125)
 
 (1) Amtsbezeichnungen der Richter auf Lebenszeit und der Richter auf
 Zeit sind "Richter", "Vorsitzender Richter", "Direktor",
@@ -543,6 +572,7 @@ staatsanwaltschaftlichen Dienst die Bezeichnung "Staatsanwalt".
 
 
 #### § 20 Allgemeines Dienstalter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004401125)
 
 Das allgemeine Dienstalter eines Richters bestimmt sich nach dem Tag,
 an dem ihm sein Richteramt übertragen worden ist. Hat der Richter
@@ -552,6 +582,7 @@ Dienstalter nach dem Tag der Übertragung dieses Amtes.
 
 
 #### § 21 Entlassung aus dem Dienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004502125)
 
 (1) Der Richter ist entlassen,
 
@@ -609,6 +640,7 @@ rechtskräftig festgestellt hat.
 
 
 #### § 22 Entlassung eines Richters auf Probe
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004602125)
 
 (1) Ein Richter auf Probe kann zum Ablauf des sechsten, zwölften,
 achtzehnten oder vierundzwanzigsten Monats nach seiner Ernennung
@@ -638,6 +670,7 @@ Richter mindestens sechs Wochen vor dem Entlassungstag mitzuteilen.
 
 
 #### § 23 Entlassung eines Richters kraft Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004701125)
 
 Für die Beendigung des Richterverhältnisses kraft Auftrags gelten die
 Vorschriften über die Beendigung des Richterverhältnisses auf Probe
@@ -645,6 +678,7 @@ entsprechend.
 
 
 #### § 24 Beendigung des Dienstverhältnisses durch richterliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004802125)
 
 Wird gegen einen Richter durch Urteil eines deutschen Gerichts im
 Geltungsbereich dieses Gesetzes erkannt auf
@@ -675,15 +709,18 @@ ohne daß es einer weiteren gerichtlichen Entscheidung bedarf.
 
 
 ### Abschnitt 4 - Unabhängigkeit des Richters
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000501125)
 
 
 
 #### § 25 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE004901125)
 
 Der Richter ist unabhängig und nur dem Gesetz unterworfen.
 
 
 #### § 26 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005001125)
 
 (1) Der Richter untersteht einer Dienstaufsicht nur, soweit nicht
 seine Unabhängigkeit beeinträchtigt wird.
@@ -699,6 +736,7 @@ ein Gericht nach Maßgabe dieses Gesetzes.
 
 
 #### § 27 Übertragung eines Richteramts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005101125)
 
 (1) Dem Richter auf Lebenszeit und dem Richter auf Zeit ist ein
 Richteramt bei einem bestimmten Gericht zu übertragen.
@@ -708,6 +746,7 @@ Richteramt bei einem bestimmten Gericht zu übertragen.
 
 
 #### § 28 Besetzung der Gerichte mit Richtern auf Lebenszeit
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005201125)
 
 (1) Als Richter dürfen bei einem Gericht nur Richter auf Lebenszeit
 tätig werden, soweit nicht ein Bundesgesetz etwas anderes bestimmt.
@@ -718,6 +757,7 @@ Richter auf Lebenszeit den Vorsitz führen.
 
 
 #### § 29 Besetzung der Gerichte mit Richtern auf Probe, Richtern kraft Auftrags und abgeordneten Richtern
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE014002125)
 
 (1) Bei einer gerichtlichen Entscheidung darf nicht mehr als ein
 Richter auf Probe oder ein Richter kraft Auftrags oder ein
@@ -735,6 +775,7 @@ im Geschäftsverteilungsplan kenntlich gemacht werden.
 
 
 #### § 30 Versetzung und Amtsenthebung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005402125)
 
 (1) Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne
 seine schriftliche Zustimmung nur
@@ -764,6 +805,7 @@ Richterämter innehat, eines Amtes enthoben wird.
 
 
 #### § 31 Versetzung im Interesse der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005501125)
 
 Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann
 
@@ -783,6 +825,7 @@ Beeinträchtigung der Rechtspflege abzuwenden.
 
 
 #### § 32 Veränderung der Gerichtsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005601125)
 
 (1) Bei einer Veränderung in der Einrichtung der Gerichte oder ihrer
 Bezirke kann einem auf Lebenszeit oder auf Zeit ernannten Richter
@@ -802,6 +845,7 @@ nach Inkrafttreten der Veränderung ausgesprochen werden.
 
 
 #### § 33 Belassung des vollen Gehalts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005701125)
 
 (1) In den Fällen des § 32 erhält der Richter sein bisheriges
 Grundgehalt einschließlich ruhegehaltfähiger oder unwiderruflicher
@@ -818,6 +862,7 @@ Zusammentreffen mehrerer Versorgungsbezüge als Richter im Ruhestand.
 
 
 #### § 34 Versetzung in den Ruhestand wegen Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005802125)
 
 Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne seine
 schriftliche Zustimmung nur auf Grund rechtskräftiger richterlicher
@@ -827,6 +872,7 @@ entsprechend.
 
 
 #### § 35 Vorläufige Untersagung der Amtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE005901125)
 
 In einem Verfahren nach § 18 Abs. 3, § 19 Abs. 3, § 21 Abs. 3, §§ 30
 und 34 kann das Gericht auf Antrag dem Richter die Führung seiner
@@ -834,6 +880,7 @@ Amtsgeschäfte vorläufig untersagen.
 
 
 #### § 36 Mitgliedschaft in einer Volksvertretung oder Regierung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006001125)
 
 (1) Stimmt ein Richter seiner Aufstellung als Bewerber für die Wahl
 zum Deutschen Bundestag oder zu der gesetzgebenden Körperschaft eines
@@ -850,6 +897,7 @@ näherer Bestimmung der Gesetze.
 
 
 #### § 37 Abordnung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006101125)
 
 (1) Ein Richter auf Lebenszeit oder ein Richter auf Zeit darf nur mit
 seiner Zustimmung abgeordnet werden.
@@ -863,10 +911,12 @@ Gerichtszweigs abgeordnet werden.
 
 
 ### Abschnitt 5 - Besondere Pflichten des Richters
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000601125)
 
 
 
 #### § 38 Richtereid
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006201125)
 
 (1) Der Richter hat folgenden Eid in öffentlicher Sitzung eines
 Gerichts zu leisten:
@@ -888,6 +938,7 @@ Weise öffentlich geleistet werden.
 
 
 #### § 39 Wahrung der Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006301125)
 
 Der Richter hat sich innerhalb und außerhalb seines Amtes, auch bei
 politischer Betätigung, so zu verhalten, daß das Vertrauen in seine
@@ -895,6 +946,7 @@ Unabhängigkeit nicht gefährdet wird.
 
 
 #### § 40 Schiedsrichter und Schlichter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006401125)
 
 (1) Eine Nebentätigkeit als Schiedsrichter oder Schiedsgutachter darf
 dem Richter nur genehmigt werden, wenn die Parteien des
@@ -910,6 +962,7 @@ entsprechend anzuwenden.
 
 
 #### § 41 Rechtsgutachten
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006501125)
 
 (1) Ein Richter darf weder außerdienstlich Rechtsgutachten erstatten,
 noch entgeltlich Rechtsauskünfte erteilen.
@@ -925,22 +978,26 @@ beeinträchtigt werden.
 
 
 #### § 42 Nebentätigkeiten in der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006601125)
 
 Ein Richter ist zu einer Nebentätigkeit (Nebenamt, Nebenbeschäftigung)
 nur in der Rechtspflege und in der Gerichtsverwaltung verpflichtet.
 
 
 #### § 43 Beratungsgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006701125)
 
 Der Richter hat über den Hergang bei der Beratung und Abstimmung auch
 nach Beendigung seines Dienstverhältnisses zu schweigen.
 
 
 ### Abschnitt 6 - Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000701125)
 
 
 
 #### § 44 Bestellung und Abberufung des ehrenamtlichen Richters
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006802125)
 
 (1) Ehrenamtliche Richter dürfen bei einem Gericht nur auf Grund eines
 Gesetzes und unter den gesetzlich bestimmten Voraussetzungen tätig
@@ -955,6 +1012,7 @@ Willen nur durch Entscheidung eines Gerichts abberufen werden.
 
 
 #### § 44a Hindernisse für Berufungen als ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE014701125)
 
 (1) Zu dem Amt eines ehrenamtlichen Richters soll nicht berufen
 werden, wer
@@ -980,6 +1038,7 @@ ihm die Voraussetzungen des Absatzes 1 nicht vorliegen.
 
 
 #### § 44b Abberufung von ehrenamtlichen Richtern
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE014801125)
 
 (1) Ein ehrenamtlicher Richter ist von seinem Amt abzuberufen, wenn
 nachträglich in § 44a Abs. 1 bezeichnete Umstände bekannt werden.
@@ -1009,6 +1068,7 @@ Bezirk die Entscheidung getroffen worden ist.
 
 
 #### § 45 Unabhängigkeit und besondere Pflichten des ehrenamtlichen Richters
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE006904125)
 
 (1) Der ehrenamtliche Richter ist in gleichem Maße wie ein
 Berufsrichter unabhängig. Er hat das Beratungsgeheimnis zu wahren (§
@@ -1075,6 +1135,7 @@ geltenden Vorschriften.
 
 
 #### § 45a Bezeichnungen der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007001125)
 
 Die ehrenamtlichen Richter in der Strafgerichtsbarkeit führen die
 Bezeichnung "Schöffe", die ehrenamtlichen Richter bei den Kammern für
@@ -1083,14 +1144,17 @@ ehrenamtlichen Richter die Bezeichnung "ehrenamtlicher Richter".
 
 
 ## Teil 2 - Richter im Bundesdienst
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000801125)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG000901125)
 
 
 
 #### § 46 Geltung des Bundesbeamtenrechts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007101125)
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten für die
 Rechtsverhältnisse der Richter im Bundesdienst bis zu einer besonderen
@@ -1098,6 +1162,7 @@ Regelung die Vorschriften für Bundesbeamte entsprechend.
 
 
 #### § 47 Bundespersonalausschuss in Angelegenheiten der Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007202125)
 
 In Angelegenheiten der Richter im Bundesdienst wirkt im
 Bundespersonalausschuß als weiteres ständiges ordentliches Mitglied
@@ -1115,6 +1180,7 @@ Spitzenorganisationen der Berufsverbände der Richter.
 
 
 #### § 48 Eintritt in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007307125)
 
 (1) Richter auf Lebenszeit treten mit dem Ende des Monats in den
 Ruhestand, in dem sie die für sie geltende Altersgrenze erreichen. Sie
@@ -1489,6 +1555,7 @@ versetzen, wenn sie das 63. Lebensjahr vollendet haben.
 
 
 #### § 48a Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007409125)
 
 (1) Einem Richter ist auf Antrag
 
@@ -1552,6 +1619,7 @@ Sozialgesetzbuch hat.
 
 
 #### § 48b Beurlaubung aus Arbeitsmarktgründen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013907125)
 
 (1) Einem Richter ist in einer Arbeitsmarktsituation, in der ein
 außergewöhnlicher Bewerberüberhang besteht und deshalb ein dringendes
@@ -1586,6 +1654,7 @@ fünfzehn Jahre nicht überschreiten.
 
 
 #### § 48c Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE014201125)
 
 Einem Richter ist nach einer Teilzeitbeschäftigung von mindestens
 fünfzehn Jahren und nach Vollendung des fünfzigsten Lebensjahres auf
@@ -1596,6 +1665,7 @@ Vollzeitbeschäftigung zurückzukehren.
 
 
 #### § 48d Teilzeitbeschäftigung, Beurlaubung und berufliches Fortkommen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE014302125)
 
 Teilzeitbeschäftigung und Beurlaubung nach den § 48a oder § 48c dürfen
 das berufliche Fortkommen nicht beeinträchtigen; eine unterschiedliche
@@ -1605,10 +1675,12 @@ Gründe sie rechtfertigen.
 
 
 ### Abschnitt 2 - Richtervertretungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001001125)
 
 
 
 #### § 49 Richterrat und Präsidialrat
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007501125)
 
 Bei den Gerichten des Bundes werden als Richtervertretungen errichtet
 
@@ -1623,6 +1695,7 @@ Bei den Gerichten des Bundes werden als Richtervertretungen errichtet
 
 
 #### § 50 Zusammensetzung des Richterrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007602125)
 
 (1) Der Richterrat besteht bei dem
 
@@ -1645,6 +1718,7 @@ Richterrat nicht angehören.
 
 
 #### § 51 Wahl des Richterrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007701125)
 
 (1) Die Mitglieder des Richterrats und eine gleiche Anzahl von
 Stellvertretern werden auf jeweils vier Jahre geheim und unmittelbar
@@ -1657,6 +1731,7 @@ lebensältesten Richters das Wahlverfahren.
 
 
 #### § 52 Aufgaben des Richterrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007802125)
 
 Für die Befugnisse und Pflichten des Richterrats gelten § 2 Absatz 1,
 §§ 65 bis 71, §§ 79, 80 Absatz 1 Nummer 1, 4, 6 bis 8, 14, 16 und 18,
@@ -1666,6 +1741,7 @@ entsprechend.
 
 
 #### § 53 Gemeinsame Aufgaben von Richterrat und Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE007902125)
 
 (1) Sind an einer Angelegenheit sowohl der Richterrat als auch die
 Personalvertretung beteiligt, so entsendet der Richterrat für die
@@ -1680,6 +1756,7 @@ Arbeiter. Jedoch entsendet der Richterrat mindestens die in § 17 Abs.
 
 
 #### § 54 Bildung des Präsidialrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008002125)
 
 (1) Bei jedem obersten Gerichtshof des Bundes wird ein Präsidialrat
 errichtet. Der Präsidialrat beim Bundesverwaltungsgericht ist zugleich
@@ -1718,6 +1795,7 @@ entsprechend.
 
 
 #### § 55 Aufgabe des Präsidialrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008101125)
 
 Vor jeder Ernennung oder Wahl eines Richters ist der Präsidialrat des
 Gerichts, bei dem der Richter verwendet werden soll, zu beteiligen.
@@ -1726,6 +1804,7 @@ eines anderen Gerichtszweigs übertragen werden soll.
 
 
 #### § 56 Einleitung der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008201125)
 
 (1) Die oberste Dienstbehörde beantragt die Stellungnahme des
 Präsidialrats. Dem Antrag sind die Bewerbungsunterlagen und die
@@ -1737,6 +1816,7 @@ oberste Dienstbehörde die Stellungnahme zu beantragen.
 
 
 #### § 57 Stellungnahme des Präsidialrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008301125)
 
 (1) Der Präsidialrat gibt eine schriftlich begründete Stellungnahme ab
 über die persönliche und fachliche Eignung des Bewerbers oder
@@ -1751,6 +1831,7 @@ verstrichen ist.
 
 
 #### § 58 Geschäftsführung, Rechtsstellung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008402125)
 
 (1) Die Richtervertretungen regeln ihre Beschlußfassung und
 Geschäftsführung in einer Geschäftsordnung.
@@ -1766,6 +1847,7 @@ die Rechte und Pflichten der Mitglieder gelten die §§ 10 bis 12 und §§
 
 
 #### § 59 Abgeordnete Richter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008501125)
 
 (1) Ein an ein Gericht des Bundes abgeordneter Richter wird zum
 Richterrat dieses Gerichts wahlberechtigt, sobald die Abordnung länger
@@ -1783,6 +1865,7 @@ unberührt.
 
 
 #### § 60 Rechtsweg in Angelegenheiten der Richtervertretungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008602125)
 
 Für Rechtsstreitigkeiten aus der Bildung oder Tätigkeit der
 Richtervertretungen steht der Rechtsweg zu den Verwaltungsgerichten
@@ -1794,10 +1877,12 @@ Juni 2021 (BGBl. I S. 1614).
 
 
 ### Abschnitt 3 - Dienstgericht des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001101125)
 
 
 
 #### § 61 Verfassung des Dienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008703125)
 
 (1) Für die Richter im Bundesdienst wird als Dienstgericht des Bundes
 ein besonderer Senat des Bundesgerichtshofs gebildet.
@@ -1821,6 +1906,7 @@ Gerichtsverfassungsgesetzes.
 
 
 #### § 62 Zuständigkeit des Dienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008803125)
 
 (1) Das Dienstgericht des Bundes entscheidet endgültig
 
@@ -1884,6 +1970,7 @@ gegen Urteile der Dienstgerichte der Länder (§ 79).
 
 
 #### § 63 Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE008904125)
 
 (1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des
 Bundesdisziplinargesetzes in der am 31. März 2024 geltenden Fassung
@@ -1909,6 +1996,7 @@ Bestimmungen entsprechend.
 
 
 #### § 64 Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009001125)
 
 (1) Durch Disziplinarverfügung kann nur ein Verweis ausgesprochen
 werden.
@@ -1918,6 +2006,7 @@ nur Verweis, Geldbuße oder Entfernung aus dem Dienst verhängt werden.
 
 
 #### § 65 Versetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009102125)
 
 (1) Für das Verfahren bei Versetzung im Interesse der Rechtspflege
 (Versetzungsverfahren) gelten die Vorschriften der
@@ -1933,6 +2022,7 @@ zulässig oder weist den Antrag zurück.
 
 
 #### § 66 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009202125)
 
 (1) Für das Verfahren in den Fällen des § 62 Abs. 1 Nr. 3 und 4
 (Prüfungsverfahren) gelten die Vorschriften der
@@ -1949,6 +2039,7 @@ einen Antrag des Richters eingeleitet.
 
 
 #### § 67 Urteilsformel im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009301125)
 
 (1) In dem Fall des § 62 Abs. 1 Nr. 3 Buchstabe a stellt das Gericht
 die Nichtigkeit fest oder weist den Antrag zurück.
@@ -1965,6 +2056,7 @@ die Unzulässigkeit der Maßnahme fest oder weist den Antrag zurück.
 
 
 #### § 68 Aussetzung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009401125)
 
 (1) Ist eine Maßnahme der Dienstaufsicht aus den Gründen des § 26 Abs.
 3 angefochten und hängt die Entscheidung hierüber von dem Bestehen
@@ -1987,10 +2079,12 @@ sinngemäß.
 
 
 ### Abschnitt 4 - Richter des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001201125)
 
 
 
 #### § 69 Beschränkte Geltung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009501125)
 
 Für die Richter des Bundesverfassungsgerichts gelten die Vorschriften
 dieses Gesetzes nur, soweit sie mit der besonderen Rechtsstellung
@@ -1999,6 +2093,7 @@ Bundesverfassungsgericht vereinbar sind.
 
 
 #### § 70 Bundesrichter als Richter des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009602125)
 
 (1) Die Rechte und Pflichten eines Richters an den obersten
 Gerichtshöfen des Bundes ruhen, solange er Mitglied des
@@ -2011,10 +2106,12 @@ des § 98 des Gesetzes über das Bundesverfassungsgericht endet.
 
 
 ## Teil 3 - Richter im Landesdienst
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001301125)
 
 
 
 ### § 71 Geltung des Beamtenstatusgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009702125)
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten für das
 Statusrecht der Richter im Landesdienst bis zu einer besonderen
@@ -2022,6 +2119,7 @@ Regelung die Vorschriften des Beamtenstatusgesetzes entsprechend.
 
 
 ### § 71a Anwendung des Beamtenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009801125)
 
 Die Abschnitte I bis XIII des Beamtenversorgungsgesetzes gelten
 entsprechend für die Versorgung der Richter im Landesdienst, soweit
@@ -2029,12 +2127,14 @@ dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 72 Bildung des Richterrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE009901125)
 
 In den Ländern sind Richterräte zu bilden. Ihre Mitglieder werden
 durch die Richter unmittelbar und geheim aus ihrer Mitte gewählt.
 
 
 ### § 73 Aufgaben des Richterrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010001125)
 
 Der Richterrat hat mindestens folgende Aufgaben:
 
@@ -2050,6 +2150,7 @@ Der Richterrat hat mindestens folgende Aufgaben:
 
 
 ### § 74 Bildung des Präsidialrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010101125)
 
 (1) Für jeden Gerichtszweig ist ein Präsidialrat zu bilden. Für
 mehrere Gerichtszweige kann durch Gesetz die Bildung eines gemeinsamen
@@ -2061,6 +2162,7 @@ die Richter zu wählen sind.
 
 
 ### § 75 Aufgaben des Präsidialrats
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010201125)
 
 (1) Der Präsidialrat ist an der Ernennung eines Richters für ein Amt
 mit höherem Endgrundgehalt als dem eines Eingangsamts zu beteiligen.
@@ -2071,6 +2173,7 @@ persönliche und fachliche Eignung des Richters.
 
 
 ### § 76 Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010303125)
 
 (1) Die Richter auf Lebenszeit treten nach Erreichen der Altersgrenze
 in den Ruhestand (Regelaltersgrenze).
@@ -2081,11 +2184,13 @@ versetzen ist.
 
 
 ### § 76a Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010410125)
 
 Teilzeitbeschäftigung ist zu ermöglichen.
 
 
 ### § 77 Errichtung von Dienstgerichten
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010502125)
 
 (1) In den Ländern sind Dienstgerichte zu bilden.
 
@@ -2128,6 +2233,7 @@ Landesrecht.
 
 
 ### § 78 Zuständigkeit des Dienstgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010605125)
 
 Das Dienstgericht entscheidet
 
@@ -2187,6 +2293,7 @@ Das Dienstgericht entscheidet
 
 
 ### § 79 Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010701125)
 
 (1) Das Verfahren vor den Dienstgerichten besteht aus mindestens zwei
 Rechtszügen.
@@ -2199,6 +2306,7 @@ Revision an das Dienstgericht des Bundes vorsehen.
 
 
 ### § 80 Revision im Versetzungsverfahren und im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010802125)
 
 (1) Für die Revision im Versetzungsverfahren und im Prüfungsverfahren
 gelten die Vorschriften der Verwaltungsgerichtsordnung sinngemäß. Der
@@ -2212,6 +2320,7 @@ der Nichtanwendung oder unrichtigen Anwendung einer Rechtsnorm beruht.
 
 
 ### § 81 Zulässigkeit der Revision im Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE010901125)
 
 (1) Soweit die Landesgesetzgebung im Disziplinarverfahren die Revision
 an das Dienstgericht des Bundes vorgesehen hat (§ 79 Abs. 3), kann die
@@ -2261,6 +2370,7 @@ Verfahrens gerügt werden, daß
 
 
 ### § 82 Revisionsverfahren im Disziplinarverfahren
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011002125)
 
 (1) Die Revision ist bei dem Gericht, dessen Urteil angefochten wird,
 innerhalb zweier Wochen nach Zustellung des Urteils oder nach
@@ -2282,6 +2392,7 @@ oder auf Aufhebung des angefochtenen Urteils lauten.
 
 
 ### § 83 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011102125)
 
 Disziplinarverfahren, Versetzungsverfahren und Prüfungsverfahren sind
 entsprechend § 63 Abs. 2, § 64 Abs. 1, §§ 65 bis 68 zu regeln. Die
@@ -2290,24 +2401,29 @@ Disziplinarsachen der Richter im Landesdienst treffen.
 
 
 ### § 84 Verfassungsrichter
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011201125)
 
 Das Landesrecht bestimmt, wieweit dieses Gesetz für die Mitglieder des
 Verfassungsgerichts eines Landes gilt.
 
 
 ## Teil 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001401125)
 
 
 
 ### Abschnitt 1 - Änderung von Bundesrecht
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001501125)
 
 
 
 #### (XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011301125)
 
 
 
 #### § 104 Verweisung auf aufgehobene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011401125)
 
 Soweit in anderen Gesetzen und Verordnungen auf Vorschriften oder
 Bezeichnungen verwiesen wird, die durch dieses Gesetz aufgehoben
@@ -2316,34 +2432,41 @@ Bezeichnungen dieses Gesetzes.
 
 
 ### Abschnitt 2 - Überleitung von Rechtsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001601125)
 
 
 
 #### (XXXX) §§ 105 und 106 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011501125)
 
 
 
 #### § 107 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011701301)
 
 -
 
 
 #### § 108 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011801301)
 
 -
 
 
 #### § 109 Befähigung zum Richteramt
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE011903125)
 
 Wer am 1. Juli 2003 zum Richteramt befähigt ist, behält diese
 Befähigung.
 
 
 #### (XXXX) §§ 110 und 111 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE012002125)
 
 
 
 #### § 112 Anerkennung ausländischer Prüfungen und im Ausland erworbener Ausbildungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE012204125)
 
 (1) Die Vorschriften über die Anerkennung von Prüfungen nach dem
 Bundesvertriebenengesetz und landesrechtliche Vorschriften über die
@@ -2363,6 +2486,7 @@ wurden und der ersten Staatsprüfung gleichwertig sind.
 
 
 #### § 112a Gleichwertigkeitsprüfung für die Zulassung zum juristischen Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE015003125)
 
 (1) Personen, die ein rechtswissenschaftliches Universitätsdiplom
 besitzen, das in einem Mitgliedstaat der Europäischen Union, einem
@@ -2437,18 +2561,22 @@ mehrere Länder durch Vereinbarung ein gemeinsames Prüfungsamt bilden.
 
 
 #### (XXXX) §§ 113 bis 118 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE012401301)
 
 
 
 ### Abschnitt 3 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNG001701125)
 
 
 
 #### § 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013001125)
 
 
 
 #### § 120 Technische Mitglieder des Bundespatentgerichts
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013102125)
 
 Zum Richteramt bei dem Bundespatentgericht ist auch befähigt, wer die
 Voraussetzungen des § 65 Abs. 2 des Patentgesetzes erfüllt. § 19 Abs.
@@ -2456,12 +2584,14 @@ Voraussetzungen des § 65 Abs. 2 des Patentgesetzes erfüllt. § 19 Abs.
 
 
 #### § 120a Besondere Vorschriften über die Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013201125)
 
 Die Vorschriften dieses Gesetzes über die Amtsbezeichnungen gelten
 nicht für die Richter des Bundesverfassungsgerichts.
 
 
 #### § 121 Richter im Bundesdienst als Mitglieder der gesetzgebenden Körperschaft eines Landes
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013301125)
 
 Für die Rechtsstellung der nach dem 1. Juni 1978 in die gesetzgebende
 Körperschaft eines Landes gewählten Richter im Bundesdienst gelten die
@@ -2477,6 +2607,7 @@ berücksichtigt.
 
 
 #### § 122 Staatsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013403125)
 
 (1) Zum Staatsanwalt kann nur ernannt werden, wer die Befähigung zum
 Richteramt (§§ 5 bis 7) besitzt.
@@ -2504,6 +2635,7 @@ mit dem zuständigen Bundesministerium.
 
 
 #### § 123 Besetzung der Berufsgerichte für Rechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013502125)
 
 § 94 Abs. 1 und § 101 Abs. 3 der Bundesrechtsanwaltsordnung werden
 durch dieses Gesetz nicht berührt. Die Landesjustizverwaltung bestimmt
@@ -2513,6 +2645,7 @@ verpflichtet werden.
 
 
 #### § 124 Laufbahnwechsel
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013602125)
 
 (1) Ein Richter, der nach Anlage I Kapitel III Sachgebiet A Abschnitt
 III Nr. 8 des Einigungsvertrages vom 31. August 1990 in Verbindung mit
@@ -2542,11 +2675,13 @@ Bezeichnung "Staatsanwalt".
 
 
 #### § 125 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013701301)
 
 -
 
 
 #### § 126 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE013801125)
 
 Dieses Gesetz tritt am 1. Juli 1962 in Kraft. Die §§ 114 und 116
 treten jedoch bereits am Tage nach der Verkündung in Kraft.
@@ -2560,6 +2695,7 @@ Abschnitt III
 Abschnitt IV
 
 #### Anhang EV - Maßgaben für das Land Berlin -
+[Direktlink](https://www.gesetze-im-internet.de/drig/BJNR016650961.html#BJNR016650961BJNE888803308)
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

@@ -24,10 +24,12 @@ Zuletzt geändert durch
 Stand: Neufassung der Verordnung über die Zulassung von Arzneimitteln für den Verkehr außerhalb der Apotheken 2121-50-1-8 (siehe: AMVerkZulV) und der Verordnung über den Ausschluß von Arzneimitteln vom Verkehr außerhalb der Apotheken 2121-50-1-9 (siehe: AMVerkAusV)
 
 ## Erster Abschnitt - Freigabe aus der Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNG000100300)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000201314)
 
 (1) Folgende Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1
 des Arzneimittelgesetzes, die dazu bestimmt sind, zur Beseitigung oder
@@ -85,6 +87,7 @@ werden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000300300)
 
 (1) Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des
 Arzneimittelgesetzes sind als Fertigarzneimittel für den Verkehr
@@ -115,6 +118,7 @@ nicht wirksame Stoffe oder Zubereitungen aus Stoffen zugesetzt sein.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000400300)
 
 Die §§ 1 und 2 gelten nicht für Arzneimittel, die zur Injektion oder
 Infusion, zur rektalen, vaginalen oder intrauterinen Anwendung, zur
@@ -126,6 +130,7 @@ gebracht werden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000502310)
 
 Für den Verkehr außerhalb der Apotheken freigegeben sind Arzneimittel
 im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 des
@@ -145,6 +150,7 @@ Arzneimittelgesetzes, die
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000600300)
 
 Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den
 Verkehr außerhalb der Apotheken wird nicht dadurch ausgeschlossen, daß
@@ -154,6 +160,7 @@ krankhaften Beschwerden zu dienen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000702310)
 
 Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den
 Verkehr außerhalb der Apotheken ist, soweit in dieser Verordnung
@@ -164,10 +171,12 @@ bestimmt sind.
 
 
 ## Zweiter Abschnitt - Einbeziehung in die Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNG000800300)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000800300)
 
 (1) Die in § 44 Abs. 2 des Arzneimittelgesetzes genannten Arzneimittel
 sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
@@ -214,6 +223,7 @@ Verkehr außerhalb der Apotheken freigegeben:
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE000901310)
 
 (1) Die in § 44 Abs. 1 des Arzneimittelgesetzes genannten Arzneimittel
 sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
@@ -243,6 +253,7 @@ Lebensmitteln dienenden Kaninchen bestimmt sind.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001000300)
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
 ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie
@@ -261,6 +272,7 @@ sind.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001100300)
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind
 ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie
@@ -272,10 +284,12 @@ mym in den Verkehr gebracht werden.
 
 
 ## Dritter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNG001200300)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE002301310)
 
 Arzneimittel, die sich am 31. Januar 2007 in Verkehr befinden und
 durch die Zweite Verordnung zur Änderung der Verordnung über
@@ -286,6 +300,7 @@ weiter in Verkehr gebracht werden.
 
 
 ### Anlage 1a (zu § 1 Abs. 1 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001308116)
 
 (Fundstelle: BGBl. I 1988, 2153 - 2156;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -636,6 +651,7 @@ Zitronellöl, ätherisches
 
 
 ### Anlage 1b (zu § 1 Abs. 1 Nr. 2, § 7 Abs. 1 Nr. 2 und § 8 Abs. 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001403310)
 
 (Fundstelle des Originaltextes: BGBl. I 1988, 2156 - 2157;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1004,6 +1020,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 1c (zu § 1 Abs. 1 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001502310)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2158 - 2159;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1408,6 +1425,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 1d (zu § 1 Abs. 2 Nr. 1 und 2)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001602310)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2160;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1537,6 +1555,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 1e (zu § 1 Abs. 2 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001701310)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2160 - 2161;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1720,6 +1739,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 2a (zu § 2 Abs. 1 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001801314)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1790,6 +1810,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 2b (zu § 2 Abs. 1 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE001900300)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
@@ -1837,6 +1858,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
 
 ### Anlage 2c (zu § 2 Abs. 1 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE002000300)
 
 
 *    *   2-Aminoethanol
@@ -1882,6 +1904,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
 
 ### Anlage 3 (zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE002102310)
 
 (Fundstelle: BGBl. I 1988, 2162;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1990,6 +2013,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 4 (zu § 7 Abs. 1 Nr. 1 und § 8 Abs. 1 Nr. 1)
+[Direktlink](https://www.gesetze-im-internet.de/amverkrv/BJNR021050988.html#BJNR021050988BJNE002203116)
 
 (Fundstelle: BGBl. I 1988, 2163;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

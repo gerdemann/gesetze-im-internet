@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/riaskomvorrv/BJNR209100992.html#BJNR209100992BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -29,6 +30,7 @@ II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/riaskomvorrv/BJNR209100992.html#BJNR209100992BJNE000200314)
 
 Die Bestimmungen der Artikel II § 3 und Artikel III § 4, soweit nicht
 die Arbeitsgerichtsbarkeit für die Beschäftigten der Kommission in der
@@ -40,6 +42,7 @@ Anwendung.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/riaskomvorrv/BJNR209100992.html#BJNR209100992BJNE000300314)
 
 Die Bundesrepublik Deutschland gewährt im Rahmen ihrer jeweils
 geltenden Gesetze und der Rechtsvorschriften der Europäischen
@@ -61,11 +64,13 @@ b)  einzuführendes persönliches Umzugsgut einschließlich Kraftfahrzeuge
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/riaskomvorrv/BJNR209100992.html#BJNR209100992BJNE000400314)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/riaskomvorrv/BJNR209100992.html#BJNR209100992BJNE000500314)
 
 Der Bundesrat hat zugestimmt.
 

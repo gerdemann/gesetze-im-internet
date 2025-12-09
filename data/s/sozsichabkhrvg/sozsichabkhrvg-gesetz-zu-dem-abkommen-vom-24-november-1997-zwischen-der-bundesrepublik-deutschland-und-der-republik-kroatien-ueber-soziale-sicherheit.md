@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000200310)
 
 Den folgenden, in Bonn am 24. November 1997 unterzeichneten
 Übereinkünften wird zugestimmt:
@@ -46,11 +48,13 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000301308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000400310)
 
 (1) Ergeben sich aus der Durchführung des Abkommens und der
 Vereinbarung zur Durchführung des Abkommens für einzelne Träger der
@@ -80,6 +84,7 @@ werden, außer Betracht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000500310)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -114,6 +119,7 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkhrvg/BJNR203220998.html#BJNR203220998BJNE000600310)
 
 (1) Dieses Gesetzes tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 806-22-6-9 v. 12.7.2006 I 1688 (HdlAssPrV 2006)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -36,6 +37,7 @@ und Energie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Fachwirt für Vertrieb im Einzelhandel und zur Geprüften
@@ -107,6 +109,7 @@ Einzelhandel“ oder „Geprüfte Fachwirtin für Vertrieb im Einzelhandel“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000300000)
 
 (1) Zur ersten schriftlichen Teilprüfung nach § 3 Absatz 2 und 3 ist
 zuzulassen, wer
@@ -150,6 +153,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000401128)
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -215,6 +219,7 @@ Das Fachgespräch soll nicht länger als 20 Minuten dauern.
 
 
 ## § 4 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000500000)
 
 (1) Im Handlungsbereich „Kundenorientierung“ soll die Fähigkeit
 nachgewiesen werden, dass Verkaufsprozesse kunden- und
@@ -398,6 +403,7 @@ Folgendes geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -410,6 +416,7 @@ zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -445,6 +452,7 @@ Dabei sind die Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
 und der mündlichen Teilprüfung jeweils mindestens 50 Punkte erreicht
@@ -474,6 +482,7 @@ Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001500128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -500,6 +509,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000801128)
 
 (1) Jede Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -513,6 +523,7 @@ geprüft, gilt in diesem Fall das Ergebnis der letzten Teilprüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE000901128)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
@@ -520,6 +531,7 @@ erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001001128)
 
 Begonnene Prüfungsverfahren zum Geprüften Handelsassistenten –
 Einzelhandel/zur Geprüften Handelsassistentin – Einzelhandel können
@@ -533,6 +545,7 @@ beantragt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001101128)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -544,6 +557,7 @@ außer Kraft.
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001201128)
 
 (Fundstelle: BGBl. I 2019, 2394 – 2395)
 
@@ -845,6 +859,7 @@ außer Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/ezhdlfachwprv/BJNR050900014.html#BJNR050900014BJNE001301128)
 
 (Fundstelle: BGBl. I 2019, 2395 – 2396)
 

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000100000)
 
 Auf Grund des § 32f Absatz 6 Satz 1 der Strafprozessordnung, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208)
@@ -27,6 +28,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000200000)
 
 (1) Diese Verordnung ist anzuwenden auf die Einsicht in elektronisch
 geführte Strafverfahrensakten der Staatsanwaltschaften, der Gerichte
@@ -49,6 +51,7 @@ elektronisch geführte
 
 
 ## § 2 Bereitstellen des Inhalts zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000301125)
 
 (1) Für die Einsicht in elektronische Akten wird ihr Inhalt, soweit
 Einsicht gewährt werden soll, in Form des Repräsentats zum Abruf
@@ -79,6 +82,7 @@ geltenden Fassung beachtet werden.
 
 
 ## § 3 Übermittlung des Inhalts auf einem sicheren Übermittlungsweg
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE001100125)
 
 Einsicht in den Inhalt der elektronischen Akte kann, soweit Einsicht
 gewährt werden soll, auch durch Übermittlung des Repräsentats auf
@@ -91,6 +95,7 @@ hinzuweisen.
 
 
 ## § 4 Einsichtnahme in Diensträumen
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000401125)
 
 Bei der Einsichtnahme in die elektronische Akte in Diensträumen ist
 sicherzustellen, dass der Akteninhalt nicht von unbefugten Personen
@@ -98,12 +103,14 @@ wahrgenommen und nicht verändert werden kann.
 
 
 ## § 5 Ausdruck
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000501125)
 
 Das Ausdrucken einer elektronischen Akte zum Zwecke der Akteneinsicht
 erfolgt durch das Ausdrucken des Repräsentats.
 
 
 ## § 6 Datenträger
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000601125)
 
 (1) Das Speichern des Inhalts einer elektronischen Akte auf einem
 physischen Datenträger zum Zwecke der Akteneinsicht erfolgt durch das
@@ -118,6 +125,7 @@ Datum des Stands der elektronischen Akte hinzuweisen.
 
 
 ## § 7 Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000701125)
 
 Die Person, der Akteneinsicht gewährt wird, ist darüber zu belehren,
 dass
@@ -150,6 +158,7 @@ dass
 
 
 ## § 8 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000801125)
 
 (1) Die Bundesregierung macht folgende technische Anforderungen im
 Bundesanzeiger und auf der Internetseite www.justiz.de bekannt:
@@ -169,11 +178,13 @@ Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE000901125)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/strafakteinv/BJNR024200020.html#BJNR024200020BJNE001001125)
 
 Der Bundesrat hat zugestimmt.
 

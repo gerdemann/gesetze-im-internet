@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000100000)
 
 Auf Grund des § 17d Abs. 3 Satz 1 des
 Finanzdienstleistungsaufsichtsgesetzes, der durch Artikel 4 Nr. 5 des
@@ -30,6 +31,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000201118)
 
 Diese Verordnung regelt die Umlegung der in § 17d Abs. 1 Satz 1 und
 Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes aufgeführten Kosten
@@ -45,6 +47,7 @@ Vorschusszahlung.
 
 
 ## § 2 Umlagefähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000300000)
 
 (1) Nach Maßgabe des § 17d Abs. 1 Satz 1 und Abs. 4 des
 Finanzdienstleistungsaufsichtsgesetzes umzulegende Kosten der
@@ -68,18 +71,21 @@ Jahres werden von den Ausgaben abgezogen.
 
 
 ## § 3 Umlagebetrag
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000400000)
 
 Der Umlagebetrag ist der Anteil der umlagefähigen Kosten, den ein
 Umlagepflichtiger zu entrichten hat.
 
 
 ## § 4 Umlagejahr
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000500000)
 
 Umlagejahr ist das Haushaltsjahr, für das die Kosten nach § 2
 umzulegen sind.
 
 
 ## § 5 Stichtag für die Umlagepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000600000)
 
 Der Stichtag für die Umlagepflicht im Sinn des § 17d Abs. 1 Satz 1 des
 Finanzdienstleistungsaufsichtsgesetzes ist der 1. Juli eines
@@ -87,6 +93,7 @@ Haushaltsjahres.
 
 
 ## § 6 Bemessung des Umlagebetrags
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000701377)
 
 Für die Berechnung des Umlagebetrags gemäß § 3 ist die Höhe aller in
 einem Umlagejahr an den inländischen Börsen angefallenen Börsenumsätze
@@ -99,11 +106,13 @@ Umlagepflichtigen.
 
 
 ## § 7 Mindest- und Höchstumlagebetrag
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000802123)
 
 Unbeschadet des § 6 beträgt der Umlagebetrag mindestens 250 Euro.
 
 
 ## § 8 Ermittlung und Festsetzung des Umlagebetrags
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE000901377)
 
 (1) Nach Erteilung der Entlastung gemäß § 342d Satz 5 des
 Handelsgesetzbuchs und Feststellung der Jahresrechnung durch den
@@ -131,6 +140,7 @@ runden.
 
 
 ## § 9 Festsetzung der Umlagevorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001002377)
 
 (1) Die Bundesanstalt setzt unverzüglich eine Vorauszahlung auf den
 Umlagebetrag des nächstfolgenden Umlagejahres fest, sobald der für
@@ -176,6 +186,7 @@ einem Zeitpunkt fällig, der von der Bundesanstalt zu bestimmen ist.
 
 
 ## § 10 Differenzausgleich im Verhältnis zur Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001100000)
 
 (1) Ergibt sich, dass die gemäß § 342d Satz 3 des Handelsgesetzbuchs
 von der Bundesanstalt geleistete Vorschusszahlung nicht die Kosten
@@ -193,6 +204,7 @@ des Handelsgesetzbuchs vorliegt.
 
 
 ## § 11 Differenzausgleich im Verhältnis zu den Umlagepflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001200000)
 
 (1) Ist die von einem Umlagepflichtigen geleistete Vorauszahlung
 niedriger als der festgesetzte Umlagebetrag, so hat der
@@ -207,6 +219,7 @@ Umlagejahr nicht umlagepflichtig war.
 
 
 ## § 12 Fälligkeit der Umlageforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001300000)
 
 Die Umlageforderungen werden mit der Bekanntgabe ihrer Festsetzung an
 den Umlagepflichtigen fällig, wenn nicht die Bundesanstalt im
@@ -215,6 +228,7 @@ bleibt unberührt.
 
 
 ## § 13 Säumniszuschläge und Beitreibung
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001401360)
 
 (1) Auf zum Zeitpunkt ihrer Fälligkeit nicht eingegangene Beträge
 erhebt die Bundesanstalt Säumniszuschläge; § 16 des
@@ -228,6 +242,7 @@ Hauptzollamt.
 
 
 ## § 14 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001502123)
 
 (1) Auf die Umlageerhebung für das Jahr 2005 sind die §§ 5 und 9 mit
 folgenden Maßgaben anzuwenden:
@@ -283,6 +298,7 @@ Umlagejahr 2021 anzuwenden.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bilkoumv/BJNR125900005.html#BJNR125900005BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

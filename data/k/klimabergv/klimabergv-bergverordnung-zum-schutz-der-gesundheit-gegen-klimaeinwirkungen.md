@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000100328)
 
 Auf Grund des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e, Nr. 5
 Buchstabe b, § 67 Nr. 1 und 8 und § 68 Abs. 2 Nr. 1 und 3 sowie Abs. 3
@@ -32,12 +33,14 @@ Bundesrates verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000200328)
 
 Diese Verordnung gilt für untertägige Betriebe mit Ausnahme der
 Hohlraumbauten.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000300328)
 
 Im Sinne dieser Verordnung ist
 
@@ -61,6 +64,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Zulässige Beschäftigungszeit
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000400328)
 
 Wird, auch nachdem Maßnahmen nach § 61 Abs. 1 Satz 2 Nr. 1 des
 Bundesberggesetzes getroffen worden sind,
@@ -112,6 +116,7 @@ Bundesberggesetzes getroffen worden sind,
 
 
 ## § 4 Obere Klimawerte für eine Beschäftigung außerhalb des Salzbergbaus
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000500328)
 
 (1) Bei Effektivtemperaturen von mehr als
 30 Grad C dürfen außerhalb des Salzbergbaus Personen nicht beschäftigt
@@ -164,6 +169,7 @@ mindestens 6 Wochen.
 
 
 ## § 5 Obere Temperaturwerte für eine Beschäftigung im Salzbergbau
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000600328)
 
 (1) Bei Trockentemperaturen von mehr als
 52 Grad C oder Feuchttemperaturen von mehr als
@@ -179,6 +185,7 @@ Trockentemperatur von mehr als
 
 
 ## § 6 Anrechnung von Zeiten für die nichtmaschinelle Fahrung
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000700328)
 
 Auf die nach § 3 oder § 4 Abs. 2 Nr. 2 für eine Verkürzung der
 Beschäftigungszeiten maßgebenden Zeiten und die Beschäftigungszeiten
@@ -196,6 +203,7 @@ insoweit anzurechnen, als sie insgesamt mehr als 15 Minuten betragen.
 
 
 ## § 7 Zusätzliche Pausen
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000800328)
 
 (1) Neben den gesetzlichen Pausen sind zusätzliche Pausen zu gewähren
 
@@ -233,6 +241,7 @@ insoweit anzurechnen, als sie insgesamt mehr als 15 Minuten betragen.
 
 
 ## § 8 Eingewöhnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE000900328)
 
 (1) Der Unternehmer darf Personen, die
 
@@ -262,6 +271,7 @@ Stunden unter den Temperatur- oder Klimabedingungen nach Absatz 1 Nr.
 
 
 ## § 9 Besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001001124)
 
 (1) Personen, die noch keine 21 Jahre oder mehr als 50 Jahre alt sind,
 dürfen
@@ -293,6 +303,7 @@ wenn
 
 
 ## § 10 Arbeiten in Notfällen
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001100328)
 
 Die §§ 3, 4 Abs. 1 und § 5 Abs. 1 gelten nicht
 
@@ -319,6 +330,7 @@ Die §§ 3, 4 Abs. 1 und § 5 Abs. 1 gelten nicht
 
 
 ## § 11 Ermittlung der Temperaturwerte
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001200328)
 
 (1) An jedem belegten Betriebspunkt, an dem
 
@@ -398,10 +410,12 @@ Effektivtemperatur von mehr als
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001301124)
 
 
 
 ## § 13 Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001401124)
 
 (1) Der Unternehmer hat nach Maßgabe der von der zuständigen Behörde
 herausgegebenen Vordrucke Aufzeichnungen zu führen über
@@ -446,6 +460,7 @@ gelten als Nachweise im Sinne des Absatzes 1 Nr. 1.
 
 
 ## § 14 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001500328)
 
 Der Unternehmer hat dafür zu sorgen, daß alle Personen, die unter Tage
 
@@ -464,6 +479,7 @@ dieser Verordnung Kenntnis erhalten.
 
 
 ## § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001601124)
 
 (1) Ordnungswidrig im Sinne des § 145 Abs. 3 Nr. 2 des
 Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -521,10 +537,12 @@ Versuchsgruben.
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001701124)
 
 
 
 ## § 17 Inkrafttreten, abgelöste Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001800328)
 
 (1) Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
@@ -552,11 +570,13 @@ das Land Rheinland-Pfalz für die Steinkohlenbergwerke vom 1. Juni 1976
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE001900328)
 
 Der Bundesminister für Wirtschaft
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/klimabergv/BJNR006850983.html#BJNR006850983BJNE002000328)
 
 (Fundstelle: BGBl. I 1983, 690)
 

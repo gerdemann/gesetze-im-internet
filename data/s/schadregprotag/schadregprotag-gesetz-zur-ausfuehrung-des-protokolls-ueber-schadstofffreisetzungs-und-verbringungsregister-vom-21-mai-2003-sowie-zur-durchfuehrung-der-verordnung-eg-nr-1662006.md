@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000100000)
 
 Dieses Gesetz gilt für Betriebseinrichtungen im Sinne von Artikel 2
 Nr. 4 der Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments und
@@ -34,6 +35,7 @@ ausgeübt werden.
 
 
 ## § 2 Errichtung eines Schadstofffreisetzungs- und -verbringungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000201116)
 
 (1) Das Umweltbundesamt errichtet und unterhält ein der Öffentlichkeit
 frei und unentgeltlich zugängliches, internetgestütztes
@@ -125,6 +127,7 @@ Umweltbundesamt ihre Löschung vornehmen.
 
 
 ## § 3 Erhebung der Informationen
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000301116)
 
 (1) Der Betreiber übermittelt die in Artikel 5 der Verordnung (EG) Nr.
 166/2006 genannten Informationen unter Angabe seines Namens sowie des
@@ -152,6 +155,7 @@ Jahres gestellt werden.
 
 
 ## § 4 Informantenschutz
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000400000)
 
 (1) Der Betreiber einer Betriebseinrichtung darf einen
 Betriebsangehörigen nicht benachteiligen, weil der Betriebsangehörige
@@ -166,6 +170,7 @@ anzeigt.
 
 
 ## § 5 Übermittlung der Informationen an das Umweltbundesamt; Einstellung in das Register
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000501116)
 
 (1) Die nach Landesrecht zuständigen Behörden übermitteln die Berichte
 der Betreiber elektronisch zur Einstellung in das Register und für die
@@ -279,6 +284,7 @@ Schutzbedürftigkeit nach Absatz 2 Nr. 1.
 
 
 ## § 6 Übermittlung der Informationen an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000601116)
 
 Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung
 (EG) Nr. 166/2006 ist das Umweltbundesamt. Bei der Übermittlung gibt
@@ -289,6 +295,7 @@ bezeichnet die Gründe, weshalb die Kommission diese Informationen der
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000701116)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 166/2006
 des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die
@@ -314,12 +321,14 @@ Euro geahndet werden.
 
 
 ## § 8 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000801116)
 
 Von den in diesem Gesetz getroffenen Regelungen des
 Verwaltungsverfahrens kann nicht durch Landesrecht abgewichen werden.
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/schadregprotag/BJNR100210007.html#BJNR100210007BJNE000900116)
 
 Die Bußgeldvorschriften nach § 7 gelten ab dem Berichtsjahr 2020.
 

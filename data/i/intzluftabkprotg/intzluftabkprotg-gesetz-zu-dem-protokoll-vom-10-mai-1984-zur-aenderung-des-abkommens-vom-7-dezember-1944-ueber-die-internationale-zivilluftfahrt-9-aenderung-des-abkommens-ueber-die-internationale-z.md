@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intzluftabkprotg/BJNR021020996.html#BJNR021020996BJNE000100310)
 
 Dem in Montreal am 10. Mai 1984 von der Bundesrepublik Deutschland
 unterzeichneten Protokoll zur Änderung des Abkommens vom 7. Dezember
@@ -30,6 +31,7 @@ amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intzluftabkprotg/BJNR021020996.html#BJNR021020996BJNE000200310)
 
 (1) Der Führer eines zivilen Luftfahrzeugs hat Anweisungen einer
 ausländischen Stelle zu befolgen, die diese ihm in Wahrnehmung ihrer
@@ -44,6 +46,7 @@ Mark geahndet werden. Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/intzluftabkprotg/BJNR021020996.html#BJNR021020996BJNE000300310)
 
 (1) Artikel 2 dieses Gesetzes tritt an dem Tage in Kraft, an dem das
 Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7. Dezember

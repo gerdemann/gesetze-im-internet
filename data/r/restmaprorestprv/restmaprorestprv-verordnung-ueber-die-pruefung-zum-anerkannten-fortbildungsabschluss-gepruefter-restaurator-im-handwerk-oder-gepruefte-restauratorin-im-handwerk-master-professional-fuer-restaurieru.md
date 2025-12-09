@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 7110-20-10 v. 3.12.2019 I 2542 (RestauratorHw-PrüfV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000100000)
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit § 42a
 Absatz 1 und § 42d der Handwerksordnung in der Fassung der
@@ -32,6 +33,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000200000)
 
 
 
@@ -157,6 +159,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss „Geprüfter Restaurator im Handwerk–Master
@@ -268,6 +271,7 @@ Handwerks, für welches die Prüfung abgelegt wurde.
 
 
 ## § 2 Handwerke
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000400000)
 
 Die Prüfung nach dieser Verordnung kann in einem der folgenden
 Handwerke abgelegt werden:
@@ -333,6 +337,7 @@ Handwerke abgelegt werden:
 
 
 ## § 3 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000500000)
 
 (1) Zur Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Restaurator im Handwerk–Master Professional für Restaurierung im
@@ -349,6 +354,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Gliederung und Zeitraum der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000600000)
 
 (1) Die Prüfung gliedert sich in folgende Prüfungsteile:
 
@@ -419,6 +425,7 @@ zu führen.
 
 
 ## § 5 Handlungsbereich „Kulturerbe pflegen und weitergeben“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000700000)
 
 (1) Im Handlungsbereich „Kulturerbe pflegen und weitergeben“ soll
 durch die zu prüfende Person die Fähigkeit nachgewiesen werden, einen
@@ -474,6 +481,7 @@ geprüft werden:
 
 
 ## § 6 Handlungsbereich „Methoden zum Erhalt, zur Restaurierung und Konservierung von Kulturerbe anwenden und weiterentwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000800000)
 
 (1) Im Handlungsbereich „Methoden zum Erhalt, zur Restaurierung und
 Konservierung von Kulturerbe anwenden und weiterentwickeln“ soll durch
@@ -533,6 +541,7 @@ geprüft werden:
 
 
 ## § 7 Handlungsbereich „Unternehmerische Prozesse im Rahmen des Kulturerbeerhalts gestalten und steuern“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE000900000)
 
 (1) Im Handlungsbereich „Unternehmerische Prozesse im Rahmen des
 Kulturerbeerhalts gestalten und steuern“ sollen durch die zu prüfende
@@ -585,6 +594,7 @@ geprüft werden:
 
 
 ## § 8 Handlungsbereich „Erhaltungs-, Restaurierungs- und Konservierungskonzepte entwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001000000)
 
 (1) Im Handlungsbereich „Erhaltungs-, Restaurierungs- und
 Konservierungskonzepte entwickeln“ sollen durch die zu prüfende Person
@@ -645,6 +655,7 @@ geprüft werden:
 
 
 ## § 9 Handlungsbereich „Maßnahmen umsetzen, Prozesse leiten und koordinieren“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001100000)
 
 (1) Im Handlungsbereich „Maßnahmen umsetzen, Prozesse leiten und
 koordinieren“ soll durch die zu prüfende Person die Fähigkeit
@@ -705,6 +716,7 @@ geprüft werden:
 
 
 ## § 10 Handlungsbereich „Maßnahmen und Prozesse unter Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention sicherstellen“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001200000)
 
 (1) Im Handlungsbereich „Maßnahmen und Prozesse unter
 Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention
@@ -754,6 +766,7 @@ geprüft werden:
 
 
 ## § 11 Prüfungsteil „Übergreifende Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001300000)
 
 (1) Der Prüfungsteil „Übergreifende Qualifikationen“ wird als
 schriftliche Prüfung auf der Grundlage der Beschreibung
@@ -780,6 +793,7 @@ berücksichtigt werden.
 
 
 ## § 12 Prüfungsteil „Spezifische Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001400000)
 
 (1) Der Prüfungsteil „Spezifische Qualifikationen“ wird als
 schriftliche Prüfung auf der Grundlage der Beschreibung einer
@@ -806,6 +820,7 @@ berücksichtigt werden.
 
 
 ## § 13 Prüfungsteil „Projektarbeit“
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001500000)
 
 (1) Der Prüfungsteil „Projektarbeit“ besteht aus
 
@@ -896,6 +911,7 @@ Minuten und nicht länger als 30 Minuten.
 
 
 ## § 14 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001600000)
 
 Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung
 von der Ablegung einzelner Prüfungsbestandteile befreit, erhöhen sich
@@ -908,6 +924,7 @@ Prüfungsbestandteil.
 
 
 ## § 15 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001700000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -959,6 +976,7 @@ gewichtet:
 
 
 ## § 16 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001800000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind:
@@ -1009,6 +1027,7 @@ Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 17 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE001900000)
 
 (1) Wer die Prüfung nach § 16 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -1035,6 +1054,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 18 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE002000000)
 
 (1) Jede nicht bestandene Prüfung oder jeder nicht bestandene
 Prüfungsteil kann jeweils zweimal wiederholt werden.
@@ -1051,6 +1071,7 @@ werden. In diesem Fall ist das Ergebnis der letzten Prüfung maßgebend.
 
 
 ## § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE002100000)
 
 (1) Jede Prüfung nach auf der Grundlage der Handwerksordnung in Kraft
 gesetzten Vorschriften der Handwerkskammern für einen Abschluss als
@@ -1087,6 +1108,7 @@ Prüfungsbestandteile anzurechnen.
 
 
 ## § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
@@ -1097,6 +1119,7 @@ Kraft.
 (zu den §§ 15 und 16)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 2942 - 2943)
 
@@ -1399,6 +1422,7 @@ Kraft.
 (zu § 17)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/restmaprorestprv/BJNR293400020.html#BJNR293400020BJNE002400000)
 
 (Fundstelle: BGBl. I 2020, 2944)
 

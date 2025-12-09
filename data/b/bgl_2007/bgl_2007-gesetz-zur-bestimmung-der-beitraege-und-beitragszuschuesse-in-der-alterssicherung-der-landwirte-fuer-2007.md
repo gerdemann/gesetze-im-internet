@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Beitrag in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bgl_2007/BJNR328630006.html#BJNR328630006BJNE000100000)
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Kalenderjahr 2007 monatlich 204 Euro.
@@ -28,6 +29,7 @@ Beitrittsgebiet für das Kalenderjahr 2007 monatlich 176 Euro.
 
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/bgl_2007/BJNR328630006.html#BJNR328630006BJNE000200000)
 
 (1) In Anlage 1 des Gesetzes über die Alterssicherung der Landwirte
 wird der monatliche Zuschussbetrag für das Kalenderjahr 2007 wie folgt

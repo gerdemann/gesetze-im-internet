@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000100304)
 
 Auf Grund des durch Artikel 1 Nr. 3 des Gesetzes vom 16. August 1980
 (BGBl. I S. 1451) neu gefaßten § 5d Abs. 1 Satz 5 des Deutschen
@@ -28,6 +29,7 @@ Richtergesetzes wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Notenstufen und Punktzahlen
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000200304)
 
 Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit
 einer der folgenden Noten und Punktzahlen zu bewerten:
@@ -89,6 +91,7 @@ einer der folgenden Noten und Punktzahlen zu bewerten:
 
 
 ## § 2 Bildung von Gesamtnoten
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000300304)
 
 (1) Soweit Einzelbewertungen zu einer Gesamtbewertung zusammengefaßt
 werden, ist die Gesamtnote bis auf zwei Dezimalstellen ohne Auf- oder
@@ -136,6 +139,7 @@ Notenbezeichnungen:
 
 
 ## § 3 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000400304)
 
 (1) Die §§ 1 und 2 sind auf Prüfungen anzuwenden, die nach dem 1.
 Januar 1983 begonnen werden, soweit nicht das Landesrecht einen
@@ -148,16 +152,19 @@ Regelungen vorsehen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000501301)
 
 (weggefallen)
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000600304)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jurprnotskv/BJNR012430981.html#BJNR012430981BJNE000700304)
 
 Der Bundesminister der Justiz
 

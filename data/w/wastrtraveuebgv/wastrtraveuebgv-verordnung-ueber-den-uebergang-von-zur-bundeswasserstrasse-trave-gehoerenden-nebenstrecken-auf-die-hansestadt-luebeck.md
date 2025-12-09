@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrtrave_bgv/BJNR124100007.html#BJNR124100007BJNE000100000)
 
 Auf Grund des § 2 Abs. 1 Satz 2 in Verbindung mit Abs. 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
@@ -28,6 +29,7 @@ Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrtrave_bgv/BJNR124100007.html#BJNR124100007BJNE000200000)
 
 Die Nebenarme "An der Lachswehr" und "Stadttrave (von der Südkante der
 Wipperbrücke bis zur Einmündung in die Untertrave)" sowie die beiden
@@ -38,11 +40,13 @@ Binnenwasserstraße des Bundes und gehen auf die Hansestadt Lübeck
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrtrave_bgv/BJNR124100007.html#BJNR124100007BJNE000300000)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrtrave_bgv/BJNR124100007.html#BJNR124100007BJNE000400000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

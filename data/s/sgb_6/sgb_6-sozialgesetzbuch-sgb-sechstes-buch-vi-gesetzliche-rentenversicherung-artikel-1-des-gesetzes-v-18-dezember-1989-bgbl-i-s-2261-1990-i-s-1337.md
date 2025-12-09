@@ -28,14 +28,17 @@ Mittelbare änderung durch
 Stand: Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 
 ## Erstes Kapitel - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000101308)
 
 
 
 ### Erster Abschnitt - Versicherung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000201308)
 
 
 
 #### § 1 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010418126)
 
 Versicherungspflichtig sind
 
@@ -111,6 +114,7 @@ gleich:
 
 
 #### § 2 Selbständig Tätige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010518126)
 
 Versicherungspflichtig sind selbständig tätige
 
@@ -185,6 +189,7 @@ Als Arbeitnehmer im Sinne des Satzes 1 Nr. 1, 2, 7 und 9 gelten
 
 
 #### § 3 Sonstige Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010639126)
 
 Versicherungspflichtig sind Personen in der Zeit,
 
@@ -275,6 +280,7 @@ haben.
 
 
 #### § 4 Versicherungspflicht auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010711126)
 
 (1) Auf Antrag versicherungspflichtig sind folgende Personen, wenn die
 Versicherung von einer Stelle beantragt wird, die ihren Sitz im Inland
@@ -380,6 +386,7 @@ sind.
 
 
 #### § 5 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010822311)
 
 (1) Versicherungsfrei sind
 
@@ -494,6 +501,7 @@ Rentenversicherung erklären.
 
 
 #### § 6 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE010923126)
 
 (1) Von der Versicherungspflicht werden befreit
 
@@ -677,10 +685,12 @@ einkommensbezogener Versorgungsanwartschaften gewährleistet.
 
 
 ### Zweiter Abschnitt - Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000301308)
 
 
 
 #### § 7 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011005119)
 
 (1) Personen, die nicht versicherungspflichtig sind, können sich für
 Zeiten von der Vollendung des 16. Lebensjahres an freiwillig
@@ -694,10 +704,12 @@ Regelaltersgrenze erreicht wurde.
 
 
 ### Dritter Abschnitt - Nachversicherung, Versorgungsausgleich und Rentensplitting
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000403308)
 
 
 
 #### § 8 Nachversicherung, Versorgungsausgleich und Rentensplitting
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011103308)
 
 (1) Versichert sind auch Personen,
 
@@ -745,18 +757,22 @@ Hinterbliebenenrente geltend gemacht werden kann.
 
 
 ## Zweites Kapitel - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000501308)
 
 
 
 ### Erster Abschnitt - Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000602308)
 
 
 
 #### Erster Unterabschnitt - Voraussetzungen für die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000701308)
 
 
 
 ##### § 9 Aufgabe der Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011204126)
 
 (1) Die Träger der Rentenversicherung erbringen Leistungen zur
 Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen
@@ -786,6 +802,7 @@ erfüllt sind.
 
 
 ##### § 10 Persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011306119)
 
 (1) Für Leistungen zur Teilhabe haben Versicherte die persönlichen
 Voraussetzungen erfüllt,
@@ -848,6 +865,7 @@ Vorliegen der dortigen Anspruchsvoraussetzungen erfüllt.
 
 
 ##### § 11 Versicherungsrechtliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011409126)
 
 (1) Für Leistungen zur Teilhabe haben Versicherte die
 versicherungsrechtlichen Voraussetzungen erfüllt, die bei
@@ -911,6 +929,7 @@ gelten für die Vorschriften dieses Abschnitts als Versicherte.
 
 
 ##### § 12 Ausschluss von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011506126)
 
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
 
@@ -958,14 +977,17 @@ Gründen dringend erforderlich sind.
 
 
 #### Zweiter Unterabschnitt - Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000802308)
 
 
 
 ##### Erster Titel - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG000902308)
 
 
 
 ###### § 13 Leistungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011609126)
 
 (1) Der Träger der Rentenversicherung bestimmt im Einzelfall unter
 Beachtung des Wunsch- und Wahlrechts des Versicherten im Sinne des § 8
@@ -1010,6 +1032,7 @@ Durchführung von Absatz 2 Nr. 1 und 2.
 
 
 ###### § 14 Leistungen zur Prävention
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011705126)
 
 (1) Die Träger der Rentenversicherung erbringen medizinische
 Leistungen zur Sicherung der Erwerbsfähigkeit an Versicherte, die
@@ -1041,10 +1064,12 @@ trägerübergreifend in Modellprojekten erprobt wird.
 
 
 ##### Zweiter Titel - Leistungen zur Prävention, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben und zur Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001003119)
 
 
 
 ###### § 15 Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011809377)
 
 (1) Die Träger der Rentenversicherung erbringen im Rahmen von
 Leistungen zur medizinischen Rehabilitation Leistungen nach den §§ 42
@@ -1276,6 +1301,7 @@ Wirksamkeit der Regelungen nach den Absätzen 3 bis 9 ab dem 1. Januar
 
 
 ###### § 15a Leistungen zur Kinderrehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063901126)
 
 (1) Die Träger der Rentenversicherung erbringen Leistungen zur
 medizinischen Rehabilitation für
@@ -1333,6 +1359,7 @@ für Arbeit und Soziales anzupassen.
 
 
 ###### § 16 Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE011905126)
 
 Die Träger der gesetzlichen Rentenversicherung erbringen die
 Leistungen zur Teilhabe am Arbeitsleben nach den §§ 49 bis 54 des
@@ -1347,6 +1374,7 @@ Neunten Buches findet keine Anwendung.
 
 
 ###### § 17 Leistungen zur Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE064000119)
 
 (1) Die Träger der Rentenversicherung erbringen im Anschluss an eine
 von ihnen erbrachte Leistung zur Teilhabe nachgehende Leistungen, wenn
@@ -1367,14 +1395,17 @@ Benehmen mit dem Bundesministerium für Arbeit und Soziales anzupassen.
 
 
 ###### (XXXX) §§ 18 und 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012004119)
 
 
 
 ##### Dritter Titel - Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001101308)
 
 
 
 ###### § 20 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012327126)
 
 (1) Anspruch auf Übergangsgeld haben Versicherte, die
 
@@ -1433,6 +1464,7 @@ Träger der Leistung zu erstatten.
 
 
 ###### § 21 Höhe und Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012416126)
 
 (1) Höhe und Berechnung des Übergangsgeldes bestimmen sich nach Teil 1
 Kapitel 11 des Neunten Buches, soweit die Absätze 2 bis 4 nichts
@@ -1461,14 +1493,17 @@ der gezahlten Bergmannsprämie erhöht.
 
 
 ###### (XXXX) §§ 22 bis 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE012502308)
 
 
 
 ##### Vierter Titel - Ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001201308)
 
 
 
 ###### § 28 Ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013105124)
 
 (1) Die Leistungen zur Teilhabe werden außer durch das Übergangsgeld
 ergänzt durch die Leistungen nach § 64 Absatz 1 Nummer 2 bis 6 und
@@ -1482,20 +1517,24 @@ Absatz 4 des Neunten Buches können pauschaliert bewilligt werden.
 
 
 ###### § 29
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013203308)
 
 (weggefallen)
 
 
 ###### § 30
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013302308)
 
 (weggefallen)
 
 
 ##### Fünfter Titel - Sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001301308)
 
 
 
 ###### § 31 Sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013411124)
 
 (1) Als sonstige Leistungen zur Teilhabe können erbracht werden:
 
@@ -1526,10 +1565,12 @@ ausführen.
 
 
 ##### Sechster Titel - Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001402308)
 
 
 
 ###### § 32 Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013510126)
 
 (1) Versicherte, die das 18. Lebensjahr vollendet haben und Leistungen
 zur medizinischen Rehabilitation nach § 15 einschließlich der
@@ -1566,14 +1607,17 @@ arbeitsrechtlicher Vorschriften nicht entgegen.
 
 
 ### Zweiter Abschnitt - Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001501308)
 
 
 
 #### Erster Unterabschnitt - Rentenarten und Voraussetzungen für einen Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001601308)
 
 
 
 ##### § 33 Rentenarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013616119)
 
 (1) Renten werden geleistet wegen Alters, wegen verminderter
 Erwerbsfähigkeit oder wegen Todes.
@@ -1642,6 +1686,7 @@ an vor dem 1. Juli 1977 geschiedene Ehegatten.
 
 
 ##### § 34 Voraussetzungen für einen Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013717126)
 
 (1) Versicherte und ihre Hinterbliebenen haben Anspruch auf Rente,
 wenn die für die jeweilige Rente erforderliche
@@ -1666,14 +1711,17 @@ in eine
 
 
 #### Zweiter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001701308)
 
 
 
 ##### Erster Titel - Renten wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001801308)
 
 
 
 ###### § 35 Regelaltersrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013802301)
 
 Versicherte haben Anspruch auf Regelaltersrente, wenn sie
 
@@ -1689,6 +1737,7 @@ erreicht.
 
 
 ###### § 36 Altersrente für langjährig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE013903301)
 
 Versicherte haben Anspruch auf Altersrente für langjährig Versicherte,
 wenn sie
@@ -1705,6 +1754,7 @@ Vollendung des 63. Lebensjahres möglich.
 
 
 ###### § 37 Altersrente für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014006301)
 
 Versicherte haben Anspruch auf Altersrente für schwerbehinderte
 Menschen, wenn sie
@@ -1725,6 +1775,7 @@ des 62. Lebensjahres möglich.
 
 
 ###### § 38 Altersrente für besonders langjährig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053300301)
 
 Versicherte haben Anspruch auf Altersrente für besonders langjährig
 Versicherte, wenn sie
@@ -1740,11 +1791,13 @@ haben.
 
 
 ###### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014105301)
 
 -
 
 
 ###### § 40 Altersrente für langjährig unter Tage beschäftigte Bergleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014302301)
 
 Versicherte haben Anspruch auf Altersrente für langjährig unter Tage
 beschäftigte Bergleute, wenn sie
@@ -1760,6 +1813,7 @@ haben.
 
 
 ###### § 41 Altersrente und Ende des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014410126)
 
 (1) Der Anspruch des Versicherten auf eine Rente wegen Alters ist
 nicht als ein Grund anzusehen, der die Kündigung eines
@@ -1785,6 +1839,7 @@ Befristungsgesetzes gilt nicht.
 
 
 ###### § 42 Vollrente und Teilrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014503126)
 
 (1) Versicherte können eine Rente wegen Alters in voller Höhe
 (Vollrente) oder als Teilrente in Höhe von mindestens 10 Prozent der
@@ -1801,10 +1856,12 @@ Vorschlägen Stellung zu nehmen.
 
 
 ##### Zweiter Titel - Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG001901308)
 
 
 
 ###### § 43 Rente wegen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014612126)
 
 (1) Versicherte haben bis zum Erreichen der Regelaltersgrenze Anspruch
 auf Rente wegen teilweiser Erwerbsminderung, wenn sie
@@ -1910,11 +1967,13 @@ auf die gewährte Rente.
 
 
 ###### § 44
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014706308)
 
 (weggefallen)
 
 
 ###### § 45 Rente für Bergleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014805301)
 
 (1) Versicherte haben bis zum Erreichen der Regelaltersgrenze Anspruch
 auf Rente für Bergleute, wenn sie
@@ -1973,10 +2032,12 @@ Anspruch auf Rente für Bergleute, wenn sie
 
 
 ##### Dritter Titel - Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002001308)
 
 
 
 ###### § 46 Witwenrente und Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE014907301)
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
 dem Tod des versicherten Ehegatten Anspruch auf kleine Witwenrente
@@ -2046,6 +2107,7 @@ Auflösung einer erneuten Lebenspartnerschaft.
 
 
 ###### § 47 Erziehungsrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015004301)
 
 (1) Versicherte haben bis zum Erreichen der Regelaltersgrenze Anspruch
 auf Erziehungsrente, wenn
@@ -2095,6 +2157,7 @@ Lebenspartner.
 
 
 ###### § 48 Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015106119)
 
 (1) Kinder haben nach dem Tod eines Elternteils Anspruch auf
 Halbwaisenrente, wenn
@@ -2184,6 +2247,7 @@ als Kind angenommen wird.
 
 
 ###### § 49 Renten wegen Todes bei Verschollenheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015202119)
 
 Sind Ehegatten, geschiedene Ehegatten oder Elternteile verschollen,
 gelten sie als verstorben, wenn die Umstände ihren Tod wahrscheinlich
@@ -2198,10 +2262,12 @@ Beurkundung eines abweichenden Todesdatums maßgeblich.
 
 
 ##### Vierter Titel - Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002101308)
 
 
 
 ###### § 50 Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015309301)
 
 (1) Die Erfüllung der allgemeinen Wartezeit von fünf Jahren ist
 Voraussetzung für einen Anspruch auf
@@ -2261,6 +2327,7 @@ einen Anspruch auf Altersrente für besonders langjährig Versicherte.
 
 
 ###### § 51 Anrechenbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015410124)
 
 (1) Auf die allgemeine Wartezeit und auf die Wartezeiten von 15 und 20
 Jahren werden Kalendermonate mit Beitragszeiten angerechnet.
@@ -2320,6 +2387,7 @@ sind.
 
 
 ###### § 52 Wartezeiterfüllung durch Versorgungsausgleich, Rentensplitting und Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015509119)
 
 (1) Ist ein Versorgungsausgleich in der gesetzlichen
 Rentenversicherung allein zugunsten von Versicherten durchgeführt,
@@ -2361,6 +2429,7 @@ ermitteln.
 
 
 ###### § 53 Vorzeitige Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015610126)
 
 (1) Die allgemeine Wartezeit ist vorzeitig erfüllt, wenn Versicherte
 
@@ -2419,10 +2488,12 @@ im Sinne der Absätze 1 und 2 liegen auch vor, wenn
 
 
 ##### Fünfter Titel - Rentenrechtliche Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002201308)
 
 
 
 ###### § 54 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015703308)
 
 (1) Rentenrechtliche Zeiten sind
 
@@ -2460,6 +2531,7 @@ belegt sind, wenn für sie nicht auch Beiträge gezahlt worden sind.
 
 
 ###### § 55 Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015803308)
 
 (1) Beitragszeiten sind Zeiten, für die nach Bundesrecht
 Pflichtbeiträge (Pflichtbeitragszeiten) oder freiwillige Beiträge
@@ -2489,6 +2561,7 @@ voraussetzt, zählen hierzu auch
 
 
 ###### § 56 Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE015908126)
 
 (1) Kindererziehungszeiten sind Zeiten der Erziehung eines Kindes in
 dessen ersten drei Lebensjahren. Für einen Elternteil (§ 56 Abs. 1
@@ -2589,6 +2662,7 @@ gleichzeitigen Erziehung verlängert.
 
 
 ###### § 57 Berücksichtigungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016003308)
 
 Die Zeit der Erziehung eines Kindes bis zu dessen vollendetem zehnten
 Lebensjahr ist bei einem Elternteil eine Berücksichtigungszeit, soweit
@@ -2599,6 +2673,7 @@ Zeiten auch Pflichtbeitragszeiten sind.
 
 
 ###### § 58 Anrechnungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016127126)
 
 (1) Anrechnungszeiten sind Zeiten, in denen Versicherte
 
@@ -2696,6 +2771,7 @@ wegen Alters zu berücksichtigen.
 
 
 ###### § 59 Zurechnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016207126)
 
 (1) Zurechnungszeit ist die Zeit, die bei einer Rente wegen
 Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird,
@@ -2729,6 +2805,7 @@ nicht zu berücksichtigen.
 
 
 ###### § 60 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016302308)
 
 (1) Anrechnungszeiten und eine Zurechnungszeit werden der
 knappschaftlichen Rentenversicherung zugeordnet, wenn vor dieser Zeit
@@ -2743,6 +2820,7 @@ ist.
 
 
 ###### § 61 Ständige Arbeiten unter Tage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016402308)
 
 (1) Ständige Arbeiten unter Tage sind solche Arbeiten nach dem 31.
 Dezember 1967, die nach ihrer Natur ausschließlich unter Tage ausgeübt
@@ -2793,6 +2871,7 @@ Tage oder gleichgestellte Arbeiten ausgeübt haben.
 
 
 ###### § 62 Schadenersatz bei rentenrechtlichen Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016501308)
 
 Durch die Berücksichtigung rentenrechtlicher Zeiten wird ein Anspruch
 auf Schadenersatz wegen verminderter Erwerbsfähigkeit nicht
@@ -2800,14 +2879,17 @@ ausgeschlossen oder gemindert.
 
 
 #### Dritter Unterabschnitt - Rentenhöhe und Rentenanpassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002301308)
 
 
 
 ##### Erster Titel - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002401308)
 
 
 
 ###### § 63 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016607308)
 
 (1) Die Höhe einer Rente richtet sich vor allem nach der Höhe der
 während des Versicherungslebens durch Beiträge versicherten
@@ -2840,10 +2922,12 @@ Beitragssatzes zur allgemeinen Rentenversicherung jährlich angepasst.
 
 
 ##### Zweiter Titel - Berechnung und Anpassung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002501308)
 
 
 
 ###### § 64 Rentenformel für Monatsbetrag der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016701308)
 
 Der Monatsbetrag der Rente ergibt sich, wenn
 
@@ -2862,6 +2946,7 @@ mit ihrem Wert bei Rentenbeginn miteinander vervielfältigt werden.
 
 
 ###### § 65 Anpassung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016801308)
 
 Zum 1. Juli eines jeden Jahres werden die Renten angepasst, indem der
 bisherige aktuelle Rentenwert durch den neuen aktuellen Rentenwert
@@ -2869,6 +2954,7 @@ ersetzt wird.
 
 
 ###### § 66 Persönliche Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE016922126)
 
 (1) Die persönlichen Entgeltpunkte für die Ermittlung des
 Monatsbetrags der Rente ergeben sich, indem die Summe aller
@@ -2960,6 +3046,7 @@ jeweiligen Zugangsfaktors.
 
 
 ###### § 67 Rentenartfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017005308)
 
 Der Rentenartfaktor beträgt für persönliche Entgeltpunkte bei
 
@@ -3039,6 +3126,7 @@ Der Rentenartfaktor beträgt für persönliche Entgeltpunkte bei
 
 
 ###### § 68 Aktueller Rentenwert
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017113377)
 
 (1) Der aktuelle Rentenwert ist der Betrag, der einer monatlichen
 Rente wegen Alters der allgemeinen Rentenversicherung entspricht, wenn
@@ -3296,6 +3384,7 @@ aktuellen Rentenwerts verwendeten Daten zugrunde zu legen.
 
 
 ###### § 68a Schutzklausel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053403308)
 
 (1) Abweichend von § 68 vermindert sich der bisherige aktuelle
 Rentenwert nicht, wenn der nach § 68 berechnete aktuelle Rentenwert
@@ -3333,6 +3422,7 @@ Ausgleichsbedarfs unverändert.
 
 
 ###### § 69 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017307126)
 
 (1) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
 Bundesrates den zum 1. Juli eines Jahres maßgebenden aktuellen
@@ -3367,10 +3457,12 @@ Anlage 1.
 
 
 ##### Dritter Titel - Ermittlung der persönlichen Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002601308)
 
 
 
 ###### § 70 Entgeltpunkte für Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017411126)
 
 (1) Für Beitragszeiten werden Entgeltpunkte ermittelt, indem die
 Beitragsbemessungsgrundlage durch das Durchschnittsentgelt (Anlage 1)
@@ -3447,6 +3539,7 @@ gezahlt worden sind.
 
 
 ###### § 71 Entgeltpunkte für beitragsfreie und beitragsgeminderte Zeiten (Gesamtleistungsbewertung)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017510308)
 
 (1) Beitragsfreie Zeiten erhalten den Durchschnittswert an
 Entgeltpunkten, der sich aus der Gesamtleistung an Beiträgen im
@@ -3505,6 +3598,7 @@ Gesamtleistungsbewertung unberücksichtigt.
 
 
 ###### § 72 Grundbewertung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017607308)
 
 (1) Bei der Grundbewertung werden für jeden Kalendermonat
 Entgeltpunkte in der Höhe zugrunde gelegt, die sich ergibt, wenn die
@@ -3545,6 +3639,7 @@ mit rentenrechtlichen Zeiten vor Vollendung des 17. Lebensjahres.
 
 
 ###### § 73 Vergleichsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017702360)
 
 Bei der Vergleichsbewertung werden für jeden Kalendermonat
 Entgeltpunkte in der Höhe zugrunde gelegt, die sich ergibt, wenn die
@@ -3572,6 +3667,7 @@ Entgeltpunkten abzusetzen.
 
 
 ###### § 74 Begrenzte Gesamtleistungsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017813126)
 
 Der sich aus der Gesamtleistungsbewertung ergebende Wert wird für
 jeden Kalendermonat mit Zeiten einer beruflichen Ausbildung,
@@ -3609,6 +3705,7 @@ werden nicht bewertet.
 
 
 ###### § 75 Entgeltpunkte für Zeiten nach Rentenbeginn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE017910126)
 
 (1) Für Zeiten nach Beginn der zu berechnenden Rente werden
 Entgeltpunkte nur für eine Zurechnungszeit und für Zuschläge an
@@ -3652,6 +3749,7 @@ Schadensereignisses vor Rentenbeginn gezahlt worden sind; § 34 Absatz
 
 
 ###### § 76 Zuschläge oder Abschläge beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018005126)
 
 (1) Ein zugunsten oder zulasten von Versicherten durchgeführter
 Versorgungsausgleich wird durch einen Zuschlag oder Abschlag an
@@ -3718,6 +3816,7 @@ der bisher der Rente zugrunde liegenden Entgeltpunkte auszugehen.
 
 
 ###### § 76a Zuschläge an Entgeltpunkten aus Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters oder bei Abfindungen einer Anwartschaft auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052903308)
 
 (1) Entgeltpunkte aus der Zahlung von Beiträgen bei vorzeitiger
 Inanspruchnahme einer Rente wegen Alters werden ermittelt, indem
@@ -3738,6 +3837,7 @@ Entgeltpunkte für freiwillig gezahlte Beiträge zu ermitteln sind.
 
 
 ###### § 76b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056005119)
 
 (1) Für Arbeitsentgelt aus geringfügiger Beschäftigung, für die
 Beschäftigte nach § 6 Absatz 1b von der Versicherungspflicht befreit
@@ -3778,6 +3878,7 @@ wegen
 
 
 ###### § 76c Zuschläge oder Abschläge beim Rentensplitting
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057002308)
 
 (1) Ein durchgeführtes Rentensplitting wird beim Versicherten durch
 Zuschläge oder Abschläge an Entgeltpunkten berücksichtigt.
@@ -3794,6 +3895,7 @@ bisher der Rente zugrunde liegenden Entgeltpunkte auszugehen.
 
 
 ###### § 76d Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059801308)
 
 Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen nach
 Beginn einer Rente wegen Alters gelten die Regelungen zur Ermittlung
@@ -3802,6 +3904,7 @@ Arbeitsentgelt aus geringfügiger Beschäftigung entsprechend.
 
 
 ###### § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062401126)
 
 (1) Für Zeiten einer besonderen Auslandsverwendung nach § 87 Absatz 1
 des Soldatenversorgungsgesetzes oder § 31a Absatz 1 des
@@ -3819,6 +3922,7 @@ jeden Teilzeitraum wird der entsprechende Anteil zugrunde gelegt.
 
 
 ###### § 76f Zuschläge an Entgeltpunkten für nachversicherte Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063500119)
 
 Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen für
 beitragspflichtige Einnahmen von nachversicherten Soldaten auf Zeit,
@@ -3828,6 +3932,7 @@ entsprechend.
 
 
 ###### § 76g Zuschlag an Entgeltpunkten für langjährige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066000126)
 
 (1) Ein Zuschlag an Entgeltpunkten wird ermittelt, wenn mindestens 33
 Jahre mit Grundrentenzeiten vorhanden sind und sich aus den
@@ -3874,6 +3979,7 @@ Entgeltpunkten (Ost) zugeordnet.
 
 
 ###### § 77 Zugangsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018108126)
 
 (1) Der Zugangsfaktor richtet sich nach dem Alter der Versicherten bei
 Rentenbeginn oder bei Tod und bestimmt, in welchem Umfang
@@ -3977,6 +4083,7 @@ Entgeltpunkten für langjährige Versicherung.
 
 
 ###### § 78 Zuschlag bei Waisenrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018201308)
 
 (1) Der Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten
 richtet sich nach der Anzahl an Kalendermonaten mit rentenrechtlichen
@@ -3999,6 +4106,7 @@ zweithöchsten Rente angerechnet.
 
 
 ###### § 78a Zuschlag bei Witwenrenten und Witwerrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057104124)
 
 (1) Der Zuschlag an persönlichen Entgeltpunkten bei Witwenrenten und
 Witwerrenten richtet sich nach der Dauer der Erziehung von Kindern bis
@@ -4043,10 +4151,12 @@ erbracht wird.
 
 
 ##### Vierter Titel - Knappschaftliche Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002701308)
 
 
 
 ###### § 79 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018301308)
 
 Für die Berechnung von Renten mit Zeiten in der knappschaftlichen
 Rentenversicherung sind die vorangehenden Vorschriften über die
@@ -4055,6 +4165,7 @@ Folgenden etwas anderes bestimmt ist.
 
 
 ###### § 80 Monatsbetrag der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018402308)
 
 Liegen der Rente persönliche Entgeltpunkte sowohl der
 knappschaftlichen Rentenversicherung als auch der allgemeinen
@@ -4065,6 +4176,7 @@ Monatsbetrag der Rente ergibt.
 
 
 ###### § 81 Persönliche Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018504308)
 
 (1) Zur Summe aller Entgeltpunkte der knappschaftlichen
 Rentenversicherung gehören auch Entgeltpunkte aus dem
@@ -4076,6 +4188,7 @@ knappschaftliche Rentenversicherung entfallen.
 
 
 ###### § 82 Rentenartfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018605308)
 
 Der Rentenartfaktor beträgt für persönliche Entgeltpunkte in der
 knappschaftlichen Rentenversicherung bei
@@ -4213,6 +4326,7 @@ unter Tage bei:
 
 
 ###### § 83 Entgeltpunkte für Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018707308)
 
 (1) Kindererziehungszeiten erhalten für jeden Kalendermonat 0,0625
 Entgeltpunkte (Entgeltpunkte für Kindererziehungszeiten).
@@ -4239,6 +4353,7 @@ für Bergleute.
 
 
 ###### § 84 Entgeltpunkte für beitragsfreie und beitragsgeminderte Zeiten (Gesamtleistungsbewertung)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018803308)
 
 (1) Für die Gesamtleistungsbewertung werden jedem Kalendermonat mit
 Beitragszeiten der knappschaftlichen Rentenversicherung, der
@@ -4262,6 +4377,7 @@ zuvor mit 1,3333 vervielfältigt.
 
 
 ###### § 85 Entgeltpunkte für ständige Arbeiten unter Tage (Leistungszuschlag)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE018904308)
 
 (1) Versicherte erhalten nach sechs Jahren ständiger Arbeiten unter
 Tage für jedes volle Jahr mit solchen Arbeiten
@@ -4290,11 +4406,13 @@ ständigen Arbeiten unter Tage zu gleichen Teilen zugeordnet.
 
 
 ###### § 86 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019005308)
 
 -
 
 
 ###### § 86a Zugangsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019205301)
 
 Bei Renten für Bergleute ist als niedrigstes Lebensalter für die
 Bestimmung des Zugangsfaktors (§ 77) die Vollendung des 64.
@@ -4307,6 +4425,7 @@ Vollendung des 62. Lebensjahres zugrunde zu legen ist.
 
 
 ###### § 87 Zuschlag bei Waisenrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019102308)
 
 (1) Bei der Ermittlung des Zuschlags bei Waisenrenten mit
 Entgeltpunkten der knappschaftlichen Rentenversicherung sind für jeden
@@ -4341,10 +4460,12 @@ sie zuvor mit 1,3333 zu vervielfältigen.
 
 
 ##### Fünfter Titel - Ermittlung des Monatsbetrags der Rente in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002801308)
 
 
 
 ###### § 88 Persönliche Entgeltpunkte bei Folgerenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056404126)
 
 (1) Hat ein Versicherter eine Rente wegen Alters bezogen, werden ihm
 für eine spätere Rente mindestens die bisherigen persönlichen
@@ -4381,6 +4502,7 @@ Entgeltpunkten ergab.
 
 
 ###### § 88a Höchstbetrag bei Witwenrenten und Witwerrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057201308)
 
 Der Monatsbetrag einer Witwenrente oder Witwerrente darf den
 Monatsbetrag der Rente wegen voller Erwerbsminderung oder die
@@ -4390,10 +4512,12 @@ Witwenrenten und Witwerrenten entsprechend zu verringern.
 
 
 #### Vierter Unterabschnitt - Zusammentreffen von Renten und Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG002901308)
 
 
 
 ##### § 89 Mehrere Rentenansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019316126)
 
 (1) Bestehen für denselben Zeitraum Ansprüche auf mehrere Renten aus
 eigener Versicherung, wird nur die höchste Rente geleistet. Bei gleich
@@ -4474,6 +4598,7 @@ Satz 3 bis 7 gilt entsprechend.
 
 
 ##### § 90 Witwenrente und Witwerrente nach dem vorletzten Ehegatten und Ansprüche infolge Auflösung der letzten Ehe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019404308)
 
 (1) Auf eine Witwenrente oder Witwerrente nach dem vorletzten
 Ehegatten werden für denselben Zeitraum bestehende Ansprüche auf
@@ -4509,6 +4634,7 @@ erneute Lebenspartnerschaft.
 
 
 ##### § 91 Aufteilung von Witwenrenten und Witwerrenten auf mehrere Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019501308)
 
 Besteht für denselben Zeitraum aus den Rentenanwartschaften eines
 Versicherten Anspruch auf Witwenrente oder Witwerrente für mehrere
@@ -4523,6 +4649,7 @@ Aufteilung nach § 34 Abs. 2 des Ersten Buches.
 
 
 ##### § 92 Waisenrente und andere Leistungen an Waisen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019602308)
 
 Besteht für denselben Zeitraum Anspruch auf Waisenrente aus der
 Rentenanwartschaft eines verstorbenen Elternteils und auf eine
@@ -4537,6 +4664,7 @@ berücksichtigen.
 
 
 ##### § 93 Rente und Leistungen aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE065800126)
 
 (1) Besteht für denselben Zeitraum Anspruch
 
@@ -4707,15 +4835,18 @@ verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 
 
 ##### § 94 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019805301)
 
 -
 
 
 ##### § 95 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE019906308)
 
 
 
 ##### § 96 Nachversicherte Versorgungsbezieher
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020001308)
 
 Nachversicherten, die ihren Anspruch auf Versorgung ganz und auf Dauer
 verloren haben, wird die Rente oder die höhere Rente für den Zeitraum
@@ -4723,6 +4854,7 @@ nicht geleistet, für den Versorgungsbezüge zu leisten sind.
 
 
 ##### § 96a Rente wegen verminderter Erwerbsfähigkeit und Hinzuverdienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052621126)
 
 (1) Eine Rente wegen verminderter Erwerbsfähigkeit wird nur in voller
 Höhe geleistet, wenn die kalenderjährliche Hinzuverdienstgrenze nach
@@ -4891,6 +5023,7 @@ kann.
 
 
 ##### § 97 Einkommensanrechnung auf Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020106119)
 
 (1) Einkommen (§ 18a des Vierten Buches) von Berechtigten, das mit
 einer Witwenrente, Witwerrente oder Erziehungsrente zusammentrifft,
@@ -4940,6 +5073,7 @@ Einkommensanrechnung auf die Erziehungsrente ergibt.
 
 
 ##### § 97a Einkommensanrechnung beim Zuschlag an Entgeltpunkten für langjährige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066101126)
 
 (1) Auf den Rentenanteil aus dem Zuschlag an Entgeltpunkten für
 langjährige Versicherung wird Einkommen des Berechtigten und seines
@@ -5075,6 +5209,7 @@ Anwendung.
 
 
 ##### § 98 Reihenfolge bei der Anwendung von Berechnungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020209126)
 
 Für die Berechnung einer Rente, deren Leistung sich aufgrund eines
 Versorgungsausgleichs, eines Rentensplittings, eines Aufenthalts von
@@ -5126,10 +5261,12 @@ einer weiteren solchen Regelung nicht nochmals berücksichtigt.
 
 
 #### Fünfter Unterabschnitt - Beginn, Änderung und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003001308)
 
 
 
 ##### § 99 Beginn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020301308)
 
 (1) Eine Rente aus eigener Versicherung wird von dem Kalendermonat an
 geleistet, zu dessen Beginn die Anspruchsvoraussetzungen für die Rente
@@ -5148,6 +5285,7 @@ dem Monat, in dem die Rente beantragt wird, geleistet.
 
 
 ##### § 100 Änderung und Ende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020407119)
 
 (1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die
 Voraussetzungen für die Höhe einer Rente nach ihrem Beginn, wird die
@@ -5184,6 +5322,7 @@ Rechtsprechung zurückzunehmen.
 
 
 ##### § 101 Beginn und Änderung in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020506119)
 
 (1) Befristete Renten wegen verminderter Erwerbsfähigkeit werden nicht
 vor Beginn des siebten Kalendermonats nach dem Eintritt der Minderung
@@ -5302,6 +5441,7 @@ des Rentensplittings.
 
 
 ##### § 102 Befristung und Tod
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020607119)
 
 (1) Sind Renten befristet, enden sie mit Ablauf der Frist. Dies
 schließt eine vorherige Änderung oder ein Ende der Rente aus anderen
@@ -5356,10 +5496,12 @@ auf die Nachzahlung anzurechnen.
 
 
 #### Sechster Unterabschnitt - Ausschluss und Minderung von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003101308)
 
 
 
 ##### § 103 Absichtliche Minderung der Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020705308)
 
 Anspruch auf Rente wegen verminderter Erwerbsfähigkeit, Altersrente
 für schwerbehinderte Menschen oder große Witwenrente oder große
@@ -5369,6 +5511,7 @@ herbeigeführt haben.
 
 
 ##### § 104 Minderung der Erwerbsfähigkeit bei einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020806308)
 
 (1) Renten wegen verminderter Erwerbsfähigkeit, Altersrenten für
 schwerbehinderte Menschen oder große Witwenrenten oder große
@@ -5388,6 +5531,7 @@ Dritte werden entsprechend angewendet.
 
 
 ##### § 105 Tötung eines Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE020903308)
 
 Anspruch auf Rente wegen Todes und auf Versichertenrente, soweit der
 Anspruch auf dem Rentensplitting beruht, besteht nicht für die
@@ -5395,10 +5539,12 @@ Personen, die den Tod vorsätzlich herbeigeführt haben.
 
 
 ### Dritter Abschnitt - Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003201308)
 
 
 
 #### § 106 Zuschuss zur Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021011126)
 
 (1) Rentenbezieher, die freiwillig in der gesetzlichen
 Krankenversicherung oder bei einem Krankenversicherungsunternehmen,
@@ -5436,6 +5582,7 @@ ihrer Rente ausschließlich einen Zuschuss nach Absatz 2.
 
 
 #### § 107 Rentenabfindung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021103308)
 
 (1) Witwenrenten oder Witwerrenten werden bei der ersten Wiederheirat
 der Berechtigten mit dem 24fachen Monatsbetrag abgefunden. Für die
@@ -5466,6 +5613,7 @@ Lebenspartnerschaft nach einer Ehe.
 
 
 #### § 108 Beginn, Änderung und Ende von Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021203126)
 
 (1) Für laufende Zusatzleistungen sind die Vorschriften über Beginn,
 Änderung und Ende von Renten entsprechend anzuwenden.
@@ -5490,10 +5638,12 @@ Wirkung.
 
 
 ### Vierter Abschnitt - Serviceleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003303308)
 
 
 
 #### § 109 Renteninformation und Rentenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021315126)
 
 (1) Versicherte, die das 27. Lebensjahr vollendet haben, erhalten
 jährlich eine schriftliche oder elektronische Renteninformation. Nach
@@ -5635,6 +5785,7 @@ Regelaltersgrenze.
 
 
 #### § 109a Hilfen in Angelegenheiten der Grundsicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058106308)
 
 (1) Die Träger der Rentenversicherung informieren und beraten
 Personen, die
@@ -5709,10 +5860,12 @@ Verfahren nach den Absätzen 2 und 3 schließen.
 
 
 ### Fünfter Abschnitt - Leistungen an Berechtigte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003402308)
 
 
 
 #### § 110 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021402308)
 
 (1) Berechtigte, die sich nur vorübergehend im Ausland aufhalten,
 erhalten für diese Zeit Leistungen wie Berechtigte, die ihren
@@ -5728,6 +5881,7 @@ ist.
 
 
 #### § 111 Rehabilitationsleistungen und Krankenversicherungszuschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021504301)
 
 (1) Berechtigte erhalten die Leistungen zur medizinischen
 Rehabilitation oder zur Teilhabe am Arbeitsleben nur, wenn für sie für
@@ -5741,6 +5895,7 @@ Krankenversicherung.
 
 
 #### § 112 Renten bei verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021605308)
 
 Berechtigte erhalten wegen verminderter Erwerbsfähigkeit eine Rente
 nur, wenn der Anspruch unabhängig von der jeweiligen Arbeitsmarktlage
@@ -5751,6 +5906,7 @@ Anspruch hatten.
 
 
 #### § 113 Höhe der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021722126)
 
 (1) Die persönlichen Entgeltpunkte von Berechtigten werden ermittelt
 aus
@@ -5815,6 +5971,7 @@ Berechtigten wird allein aus Bundesgebiets-Beitragszeiten ermittelt.
 
 
 #### § 114 Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021810377)
 
 (1) Die persönlichen Entgeltpunkte von Berechtigten werden zusätzlich
 ermittelt aus
@@ -5857,14 +6014,17 @@ ermittelt.
 
 
 ### Sechster Abschnitt - Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003501308)
 
 
 
 #### Erster Unterabschnitt - Beginn und Abschluss des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003601308)
 
 
 
 ##### § 115 Beginn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE021906119)
 
 (1) Das Verfahren beginnt mit dem Antrag, wenn nicht etwas anderes
 bestimmt ist. Eines Antrags bedarf es nicht, wenn eine Rente wegen der
@@ -5899,6 +6059,7 @@ Voraussetzungen solche Hinweise erfolgen sollen.
 
 
 ##### § 116 Besonderheiten bei Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022006308)
 
 (1) (weggefallen)
 
@@ -5926,12 +6087,14 @@ zurückgefordert werden.
 
 
 ##### § 117 Abschluss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022101308)
 
 Die Entscheidung über einen Anspruch auf Leistung bedarf der
 Schriftform.
 
 
 ##### § 117a Besonderheiten beim Zuschlag an Entgeltpunkten für langjährige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066200126)
 
 Über den Anspruch auf Rente kann hinsichtlich der Rentenhöhe auch
 unter Außerachtlassung des Zuschlags an Entgeltpunkten für langjährige
@@ -5939,10 +6102,12 @@ Versicherung entschieden werden.
 
 
 #### Zweiter Unterabschnitt - Auszahlung und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003701308)
 
 
 
 ##### § 118 Fälligkeit und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022212124)
 
 (1) Laufende Geldleistungen mit Ausnahme des Übergangsgeldes werden am
 Ende des Monats fällig, zu dessen Beginn die Anspruchsvoraussetzungen
@@ -6027,12 +6192,14 @@ Rentenversicherung erfüllt.
 
 
 ##### § 118a Anpassungsmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062700308)
 
 Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe
 des aktuellen Rentenwerts verändert.
 
 
 ##### § 119 Wahrnehmung von Aufgaben durch die Deutsche Post AG
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022310124)
 
 (1) Die Träger der allgemeinen Rentenversicherung zahlen die laufenden
 Geldleistungen mit Ausnahme des Übergangsgeldes durch die Deutsche
@@ -6090,6 +6257,7 @@ Rentenversicherung die Vorschüsse fest.
 
 
 ##### § 120 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022406124)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -6113,10 +6281,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 #### Dritter Unterabschnitt - Rentensplitting
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010702308)
 
 
 
 ##### § 120a Grundsätze für das Rentensplitting unter Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057307119)
 
 (1) Ehegatten können gemeinsam bestimmen, dass die von ihnen in der
 Ehe erworbenen Ansprüche auf eine anpassungsfähige Rente zwischen
@@ -6226,6 +6396,7 @@ unanfechtbar geworden ist.
 
 
 ##### § 120b Tod eines Ehegatten vor Empfang angemessener Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057403308)
 
 (1) Ist ein Ehegatte verstorben und sind ihm aus dem Rentensplitting
 unter Ehegatten nicht länger als 36 Monate Rentenleistungen erbracht
@@ -6240,6 +6411,7 @@ Monat der Antragstellung folgt.
 
 
 ##### § 120c Abänderung des Rentensplittings unter Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057504126)
 
 (1) Ehegatten haben Anspruch auf Abänderung des Rentensplittings, wenn
 sich für sie eine Abweichung des Wertunterschieds von dem bisher
@@ -6293,6 +6465,7 @@ unanfechtbar geworden ist.
 
 
 ##### § 120d Verfahren und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053600301)
 
 (1) Die Erklärung der Ehegatten zum Rentensplitting kann frühestens
 sechs Monate vor der voraussichtlichen Erfüllung der
@@ -6327,6 +6500,7 @@ Entscheidung des zuständigen Rentenversicherungsträgers gebunden.
 
 
 ##### § 120e Rentensplitting unter Lebenspartnern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060502119)
 
 Lebenspartner können gemeinsam bestimmen, dass die von ihnen in der
 Lebenspartnerschaft erworbenen Ansprüche auf eine anpassungsfähige
@@ -6341,10 +6515,12 @@ Lebenspartnerschaft und als Ehegatte ein Lebenspartner.
 
 
 #### Vierter Unterabschnitt - Besonderheiten beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG011100308)
 
 
 
 ##### § 120f Interne Teilung und Verrechnung von Anrechten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061702119)
 
 (1) Als erworbene Anrechte gleicher Art im Sinne des § 10 Abs. 2 des
 Versorgungsausgleichsgesetzes gelten die in der gesetzlichen
@@ -6357,6 +6533,7 @@ erworbenen Anrechte.
 
 
 ##### § 120g Externe Teilung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061800308)
 
 Wählt die ausgleichsberechtigte Person bei der externen Teilung von
 Anrechten nach dem Versorgungsausgleichsgesetz keine Zielversorgung
@@ -6369,6 +6546,7 @@ Gerichtsbarkeit festgesetzt wurde.
 
 
 ##### § 120h Abzuschmelzende Anrechte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061900308)
 
 Abzuschmelzende Anrechte im Sinne des § 19 Abs. 2 Nr. 2 des
 Versorgungsausgleichsgesetzes, die Ausgleichsansprüchen nach der
@@ -6395,10 +6573,12 @@ unterliegen, sind
 
 
 #### Fünfter Unterabschnitt - Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003803308)
 
 
 
 ##### § 121 Allgemeine Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022501308)
 
 (1) Berechnungen werden auf vier Dezimalstellen durchgeführt, wenn
 nicht etwas anderes bestimmt ist.
@@ -6416,6 +6596,7 @@ anderen Rechengänge durchgeführt.
 
 
 ##### § 122 Berechnung von Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022601308)
 
 (1) Ein Kalendermonat, der nur zum Teil mit rentenrechtlichen Zeiten
 belegt ist, zählt als voller Monat.
@@ -6431,6 +6612,7 @@ berücksichtigt.
 
 
 ##### § 123 Berechnung von Geldbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022702308)
 
 (1) Berechnungen von Geldbeträgen werden auf zwei Dezimalstellen
 durchgeführt.
@@ -6449,6 +6631,7 @@ gerechnet.
 
 
 ##### § 124 Berechnung von Durchschnittswerten und Rententeilen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022801308)
 
 (1) Durchschnittswerte werden aus der Summe der Einzelwerte und der
 für ihre Ermittlung zugrunde gelegten Summe der jeweiligen
@@ -6463,18 +6646,22 @@ entfallen.
 
 
 ## Drittes Kapitel - Organisation, Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG003903308)
 
 
 
 ### Erster Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004002308)
 
 
 
 #### Erster Unterabschnitt - Deutsche Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004102308)
 
 
 
 ##### § 125 Träger der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE022903308)
 
 (1) Die Aufgaben der gesetzlichen Rentenversicherung (allgemeine
 Rentenversicherung und knappschaftliche Rentenversicherung) werden von
@@ -6491,10 +6678,12 @@ der Rentenversicherung wahr.
 
 
 #### Zweiter Unterabschnitt - Zuständigkeit in der allgemeinen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004202308)
 
 
 
 ##### § 126 Zuständigkeit der Träger der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023004308)
 
 Für die Erfüllung der Aufgaben der Rentenversicherung sind in der
 allgemeinen Rentenversicherung die Regionalträger, die Deutsche
@@ -6504,6 +6693,7 @@ Knappschaft-Bahn-See zuständig. Dies gilt auch für die Anwendung des
 
 
 ##### § 127 Zuständigkeit für Versicherte und Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023105126)
 
 (1) Zuständig für Versicherte ist der Träger der Rentenversicherung,
 der durch die Datenstelle der Rentenversicherung bei der Vergabe der
@@ -6567,6 +6757,7 @@ Reihenfolge:
 
 
 ##### § 127a Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene sowie für Vorruhestandsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062103126)
 
 (1) Die Zuständigkeit der Träger der gesetzlichen Rentenversicherung
 erstreckt sich auch auf die Wahrnehmung der Aufgaben einer
@@ -6631,6 +6822,7 @@ gehören insbesondere
 
 
 ##### § 128 Örtliche Zuständigkeit der Regionalträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023207124)
 
 (1) Die örtliche Zuständigkeit der Regionalträger richtet sich, soweit
 nicht nach Absatz 3 oder nach über- und zwischenstaatlichem Recht
@@ -6848,6 +7040,7 @@ zuständig, so ist die Deutsche Rentenversicherung Rheinland zuständig.
 
 
 ##### § 128a Sonderzuständigkeit der Deutschen Rentenversicherung Saarland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062200308)
 
 (1) Die Deutsche Rentenversicherung Saarland ist örtlich zuständig,
 wenn
@@ -6900,6 +7093,7 @@ auf der Grundlage des über- und zwischenstaatlichen Rechts wahr.
 
 
 ##### § 129 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023302308)
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist
 zuständig, wenn die Versicherten
@@ -6938,6 +7132,7 @@ oder Küstenfischer versicherungspflichtig sind.
 
 
 ##### § 130 Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023403308)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist für
 Leistungen zuständig, wenn ein Beitrag auf Grund einer Beschäftigung
@@ -6947,22 +7142,26 @@ Knappschaft-Bahn-See auch die Versicherung durch.
 
 
 ##### § 131 Auskunfts- und Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023505308)
 
 Die Regionalträger unterhalten für den Bereich der Auskunft und
 Beratung ein Dienststellennetz für die Deutsche Rentenversicherung.
 
 
 #### Dritter Unterabschnitt - Zuständigkeit in der knappschaftlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004302308)
 
 
 
 ##### § 132 Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023602308)
 
 Träger der knappschaftlichen Rentenversicherung ist die Deutsche
 Rentenversicherung Knappschaft-Bahn-See.
 
 
 ##### § 133 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023702308)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist zuständig,
 wenn die Versicherten
@@ -6986,6 +7185,7 @@ wenn die Versicherten
 
 
 ##### § 134 Knappschaftliche Betriebe und Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023805308)
 
 (1) Knappschaftliche Betriebe sind Betriebe, in denen Mineralien oder
 ähnliche Stoffe bergmännisch gewonnen werden, Betriebe der Industrie
@@ -7056,6 +7256,7 @@ von Absatz 4 Nr. 1, wenn sie die Dauer von drei Monaten überschreiten.
 
 
 ##### § 135 Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE023904308)
 
 Für die Nachversicherung ist die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Träger der knappschaftlichen
@@ -7069,6 +7270,7 @@ worden sind.
 
 
 ##### § 136 Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024003308)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist für
 Leistungen zuständig, wenn ein Beitrag auf Grund einer Beschäftigung
@@ -7079,6 +7281,7 @@ zwischenstaatlichen Rechts.
 
 
 ##### § 136a Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene der knappschaftlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062300308)
 
 Die Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-
 See erstreckt sich auch auf die Wahrnehmung der durch über- und
@@ -7087,6 +7290,7 @@ Verbindungsstelle. § 127a Absatz 1 Satz 2 gilt entsprechend.
 
 
 ##### § 137 Besonderheit bei der Durchführung der Versicherung und bei den Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024103126)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt die
 Versicherung für Personen, die wegen
@@ -7112,10 +7316,12 @@ knappschaftlichen Rentenversicherung gezahlt werden.
 
 
 #### Unterabschnitt 3a - Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG011000308)
 
 
 
 ##### § 137a Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061200308)
 
 Die Seemannskasse, die von der See-Berufsgenossenschaft gemäß § 891a
 der Reichsversicherungsordnung in der Fassung des Artikels 1 § 4 Nr. 2
@@ -7128,6 +7334,7 @@ weitergeführt.
 
 
 ##### § 137b Besonderheiten bei den Leistungen und bei der Durchführung der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061303126)
 
 (1) Aufgabe der Seemannskasse ist die Gewährung eines
 Überbrückungsgeldes nach Vollendung des 55. Lebensjahres an die bei
@@ -7176,6 +7383,7 @@ Sozialversicherung (§ 28a des Vierten Buches) zu verbinden.
 
 
 ##### § 137c Vermögen, Haftung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061400308)
 
 (1) Das Vermögen der Seemannskasse geht zum 1. Januar 2009 mit allen
 Rechten und Pflichten auf die Deutsche Rentenversicherung Knappschaft-
@@ -7209,6 +7417,7 @@ auf Dauer gewährleistet ist.
 
 
 ##### § 137d Organe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061500308)
 
 Die Selbstverwaltungsorgane und die Geschäftsführung der Deutschen
 Rentenversicherung Knappschaft-Bahn-See vertreten und verwalten die
@@ -7218,6 +7427,7 @@ nach Maßgabe der Satzung der Seemannskasse.
 
 
 ##### § 137e Beirat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061600308)
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See bildet für
 die Angelegenheiten der Seemannskasse einen Beirat aus Vertretern der
@@ -7247,10 +7457,12 @@ Das Nähere regelt die Satzung der Seemannskasse.
 
 
 #### Vierter Unterabschnitt - Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung, Erweitertes Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004402308)
 
 
 
 ##### § 138 Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024206308)
 
 (1) Die Deutsche Rentenversicherung Bund nimmt die Grundsatz- und
 Querschnittsaufgaben der Deutschen Rentenversicherung wahr. Dazu
@@ -7386,6 +7598,7 @@ Mitteilungsblatt der Deutschen Rentenversicherung Bund veröffentlicht.
 
 
 ##### § 139 Erweitertes Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024304308)
 
 (1) Das Erweiterte Direktorium der Deutschen Rentenversicherung Bund
 besteht aus fünf Geschäftsführern aus dem Bereich der Regionalträger,
@@ -7411,6 +7624,7 @@ regelt die Satzung.
 
 
 ##### § 140 Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024405311)
 
 (1) Vor verbindlichen Entscheidungen der Deutschen Rentenversicherung
 Bund nach § 138 Abs. 1 über
@@ -7470,10 +7684,12 @@ Bund.
 
 
 #### Fünfter Unterabschnitt - Vereinigung von Regionalträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004502308)
 
 
 
 ##### § 141 Vereinigung von Regionalträgern auf Beschluss ihrer Vertreterversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024504308)
 
 (1) Regionalträger können sich zur Verbesserung der Wirtschaftlichkeit
 oder Leistungsfähigkeit auf Beschluss ihrer Vertreterversammlungen zu
@@ -7512,6 +7728,7 @@ Regionalträger erstreckt.
 
 
 ##### § 142 Vereinigung von Regionalträgern durch Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024603308)
 
 (1) Haben in einem Land mehrere Regionalträger ihren Sitz, kann die
 Landesregierung zur Verbesserung der Wirtschaftlichkeit oder der
@@ -7527,10 +7744,12 @@ Satz 2 gilt entsprechend.
 
 
 #### Sechster Unterabschnitt - Beschäftigte der Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004602308)
 
 
 
 ##### § 143 Bundesunmittelbare Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024710308)
 
 (1) Die Deutsche Rentenversicherung Bund, die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und die bundesunmittelbaren
@@ -7596,6 +7815,7 @@ Bundesdisziplinargesetzes bleiben unberührt.
 
 
 ##### § 144 Landesunmittelbare Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024804308)
 
 (1) Die landesunmittelbaren Regionalträger besitzen im Rahmen des
 Absatzes 2 Dienstherrnfähigkeit im Sinne des § 2 des
@@ -7610,10 +7830,12 @@ Beamten und ihrer Hinterbliebenen.
 
 
 #### Siebter Unterabschnitt - Datenstelle der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004703119)
 
 
 
 ##### § 145 Aufgaben der Datenstelle der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE024910126)
 
 (1) Die Träger der Rentenversicherung unterhalten gemeinsam eine
 Datenstelle, die von der Deutschen Rentenversicherung Bund verwaltet
@@ -7648,15 +7870,18 @@ Bundesamt für Soziale Sicherung übertragen.
 
 
 ##### § 146
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025006308)
 
 (weggefallen)
 
 
 ### Zweiter Abschnitt - Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004802308)
 
 
 
 #### § 147 Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025104126)
 
 (1) Die Datenstelle der Rentenversicherung kann für Personen eine
 Versicherungsnummer vergeben, wenn dies zur personenbezogenen
@@ -7729,6 +7954,7 @@ und die Grundsicherung für Arbeitsuchende.
 
 
 #### § 148 Datenverarbeitung beim Rentenversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025219126)
 
 (1) Der Träger der Rentenversicherung darf Sozialdaten nur
 verarbeiten, soweit dies zur Erfüllung seiner gesetzlich zugewiesenen
@@ -7854,6 +8080,7 @@ einer anonymisierten Form übermittelt werden.
 
 
 #### § 149 Versicherungskonto
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025307126)
 
 (1) Der Träger der Rentenversicherung führt für jeden Versicherten ein
 Versicherungskonto, das nach der Versicherungsnummer geordnet ist. In
@@ -7911,6 +8138,7 @@ einer Leistung entschieden.
 
 
 #### § 150 Dateisysteme bei der Datenstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025432126)
 
 (1) Bei der Datenstelle darf eine Stammsatzdatei geführt werden,
 soweit dies erforderlich ist, um
@@ -8093,6 +8321,7 @@ zulässig.
 
 
 #### § 151 Auskünfte der Deutschen Post AG
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025504126)
 
 (1) Die Deutsche Post AG darf den für Sozialleistungen zuständigen
 Leistungsträgern und den diesen Gleichgestellten (§ 35 Erstes Buch
@@ -8157,6 +8386,7 @@ diesen Gleichgestellten benötigt werden.
 
 
 #### § 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058604124)
 
 (1) Für die Aufnahme von Leistungsanträgen bei dem Versicherungsamt
 oder der Gemeindebehörde und die Übermittlung der Anträge an den
@@ -8238,6 +8468,7 @@ Aktualisierung des Sicherheitskonzeptes nach Satz 2 nicht erfolgt.
 
 
 #### § 151b Automatisiertes Abrufverfahren beim Zuschlag an Entgeltpunkten für langjährige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066301126)
 
 (1) Zur Ermittlung und Prüfung der Anrechnung des Einkommens nach §
 97a erfolgt der dafür notwendige Datenaustausch zwischen den Trägern
@@ -8319,6 +8550,7 @@ bestimmen, insbesondere über
 
 
 #### § 152 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025606308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -8360,18 +8592,22 @@ zu bestimmen.
 
 
 ## Viertes Kapitel - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG004901308)
 
 
 
 ### Erster Abschnitt - Finanzierungsgrundsatz und Rentenversicherungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005001308)
 
 
 
 #### Erster Unterabschnitt - Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005101308)
 
 
 
 ##### § 153 Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025706308)
 
 (1) In der Rentenversicherung werden die Ausgaben eines Kalenderjahres
 durch die Einnahmen des gleichen Kalenderjahres und, soweit
@@ -8390,10 +8626,12 @@ Zahlungsverpflichtungen der allgemeinen Rentenversicherung.
 
 
 #### Zweiter Unterabschnitt - Rentenversicherungsbericht und Sozialbeirat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005201308)
 
 
 
 ##### § 154 Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025822126)
 
 (1) Die Bundesregierung erstellt jährlich einen
 Rentenversicherungsbericht. Der Bericht enthält
@@ -8534,6 +8772,7 @@ und macht Vorschläge für eine Weiterentwicklung dieser Rentenart.
 
 
 ##### § 155 Aufgabe des Sozialbeirats
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE025902308)
 
 (1) Der Sozialbeirat hat insbesondere die Aufgabe, in einem Gutachten
 zum Rentenversicherungsbericht der Bundesregierung Stellung zu nehmen.
@@ -8544,6 +8783,7 @@ zuzuleiten.
 
 
 ##### § 156 Zusammensetzung des Sozialbeirats
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026007308)
 
 (1) Der Sozialbeirat besteht aus
 
@@ -8586,18 +8826,22 @@ Sozialwissenschaften. ist die Hochschulrektorenkonferenz anzuhören.
 
 
 ### Zweiter Abschnitt - Beiträge und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005301308)
 
 
 
 #### Erster Unterabschnitt - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005401308)
 
 
 
 ##### Erster Titel - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005501308)
 
 
 
 ###### § 157 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026101308)
 
 Die Beiträge werden nach einem Vomhundertsatz (Beitragssatz) von der
 Beitragsbemessungsgrundlage erhoben, die nur bis zur jeweiligen
@@ -8605,6 +8849,7 @@ Beitragsbemessungsgrenze berücksichtigt wird.
 
 
 ###### § 158 Beitragssätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026210308)
 
 (1) Der Beitragssatz in der allgemeinen Rentenversicherung ist vom 1.
 Januar eines Jahres an zu verändern, wenn am 31. Dezember dieses
@@ -8659,6 +8904,7 @@ Beitragssätze bekannt.
 
 
 ###### § 159 Beitragsbemessungsgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026304308)
 
 Die Beitragsbemessungsgrenzen in der allgemeinen Rentenversicherung
 sowie in der knappschaftlichen Rentenversicherung ändern sich zum 1.
@@ -8671,6 +8917,7 @@ das nächsthöhere Vielfache von 600 aufgerundet.
 
 
 ###### § 160 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026402308)
 
 Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
 Bundesrates
@@ -8686,10 +8933,12 @@ festzusetzen.
 
 
 ##### Zweiter Titel - Beitragsbemessungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005601308)
 
 
 
 ###### § 161 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026501308)
 
 (1) Beitragsbemessungsgrundlage für Versicherungspflichtige sind die
 beitragspflichtigen Einnahmen.
@@ -8700,6 +8949,7 @@ Beitragsbemessungsgrenze.
 
 
 ###### § 162 Beitragspflichtige Einnahmen Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026616311)
 
 Beitragspflichtige Einnahmen sind
 
@@ -8750,6 +9000,7 @@ Beitragspflichtige Einnahmen sind
 
 
 ###### § 163 Sonderregelung für beitragspflichtige Einnahmen Beschäftigter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060816126)
 
 (1) Für unständig Beschäftigte ist als beitragspflichtige Einnahmen
 ohne Rücksicht auf die Beschäftigungsdauer das innerhalb eines
@@ -8835,11 +9086,13 @@ der Betrag in Höhe von 175 Euro.
 
 
 ###### § 164
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026802308)
 
 (weggefallen)
 
 
 ###### § 165 Beitragspflichtige Einnahmen selbständig Tätiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE026918311)
 
 (1) Beitragspflichtige Einnahmen sind
 
@@ -8941,6 +9194,7 @@ Beschäftigung behandelt werden.
 
 
 ###### § 166 Beitragspflichtige Einnahmen sonstiger Versicherter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063614126)
 
 (1) Beitragspflichtige Einnahmen sind
 
@@ -9159,6 +9413,7 @@ den Sätzen 1 und 2.
 
 
 ###### § 167 Freiwillig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027106311)
 
 Die Höhe der monatlichen Mindestbeitragsbemessungsgrundlage für
 freiwillig Versicherte entspricht der am 1. Januar des jeweiligen
@@ -9166,10 +9421,12 @@ Kalenderjahres geltenden Geringfügigkeitsgrenze.
 
 
 ##### Dritter Titel - Verteilung der Beitragslast
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005701308)
 
 
 
 ###### § 168 Beitragstragung bei Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027233126)
 
 (1) Die Beiträge werden getragen
 
@@ -9285,6 +9542,7 @@ versichert wären; im Übrigen tragen die Arbeitgeber die Beiträge.
 
 
 ###### § 169 Beitragstragung bei selbständig Tätigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027303308)
 
 Die Beiträge werden getragen
 
@@ -9306,6 +9564,7 @@ Die Beiträge werden getragen
 
 
 ###### § 170 Beitragstragung bei sonstigen Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027438126)
 
 (1) Die Beiträge werden getragen
 
@@ -9436,11 +9695,13 @@ der knappschaftlichen Rentenversicherung versichert sind.
 
 
 ###### § 171 Freiwillig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027501308)
 
 Freiwillig Versicherte tragen ihre Beiträge selbst.
 
 
 ###### § 172 Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027611119)
 
 (1) Für Beschäftigte, die versicherungsfrei sind wegen
 
@@ -9493,6 +9754,7 @@ des Vierten Buches entsprechend.
 
 
 ###### § 172a Beitragszuschüsse des Arbeitgebers für Mitglieder berufsständischer Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062800308)
 
 Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der
 Versicherungspflicht befreit sind, zahlen die Arbeitgeber einen
@@ -9503,10 +9765,12 @@ in der gesetzlichen Rentenversicherung befreit worden wären.
 
 
 ##### Vierter Titel - Zahlung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005801308)
 
 
 
 ###### § 173 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027707308)
 
 Die Beiträge sind, soweit nicht etwas anderes bestimmt ist, von
 denjenigen, die sie zu tragen haben (Beitragsschuldner), unmittelbar
@@ -9514,6 +9778,7 @@ an die Träger der Rentenversicherung zu zahlen.
 
 
 ###### § 174 Beitragszahlung aus dem Arbeitsentgelt und Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027805119)
 
 (1) Für die Zahlung der Beiträge von Versicherungspflichtigen aus
 Arbeitsentgelt und von Hausgewerbetreibenden gelten die Vorschriften
@@ -9552,6 +9817,7 @@ gilt Absatz 1 entsprechend.
 
 
 ###### § 175 Beitragszahlung bei Künstlern und Publizisten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE027904126)
 
 (1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs
 von Krankengeld, Verletztengeld, Krankengeld der Sozialen
@@ -9567,6 +9833,7 @@ haben.
 
 
 ###### § 176 Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028005119)
 
 (1) Soweit Personen, die Krankengeld, Pflegeunterstützungsgeld oder
 Verletztengeld beziehen, an den Beiträgen zur Rentenversicherung
@@ -9590,6 +9857,7 @@ Buches.
 
 
 ###### § 176a Beitragszahlung und Abrechnung bei Pflegepersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052302308)
 
 Das Nähere über Zahlung und Abrechnung der Beiträge für nicht
 erwerbsmäßig tätige Pflegepersonen können die Spitzenverbände der
@@ -9599,6 +9867,7 @@ Rentenversicherung Bund durch Vereinbarung regeln.
 
 
 ###### § 176b Beitragszahlung und Abrechnung für Bezieher von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE064501126)
 
 Das Nähere über Zahlung und Abrechnung der Beiträge für frühere
 Soldaten auf Zeit bei Bezug von Übergangsgebührnissen können das
@@ -9609,6 +9878,7 @@ Arbeit und Soziales.
 
 
 ###### § 176c Beitragszahlung und Abrechnung für Bezieher von Erwerbsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066900126)
 
 Das Nähere über Zahlung und Abrechnung der Beiträge für Personen, die
 Erwerbsschadensausgleich nach dem Soldatenentschädigungsgesetz
@@ -9619,6 +9889,7 @@ Bundesministeriums für Arbeit und Soziales.
 
 
 ###### § 177 Beitragszahlung für Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028109126)
 
 (1) Die Beiträge für Kindererziehungszeiten werden vom Bund gezahlt.
 
@@ -9660,6 +9931,7 @@ haushaltsrechtlichen Vorschriften durch.
 
 
 ###### § 178 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028210308)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Verteidigung, dem
@@ -9698,10 +9970,12 @@ Rentenversicherung pauschal zu zahlen ist, im Bundesanzeiger bekannt.
 
 
 ##### Fünfter Titel - Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG005901308)
 
 
 
 ###### § 179 Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028308119)
 
 (1) Für behinderte Menschen nach § 1 Satz 1 Nummer 2 Buchstabe a, die
 im Arbeitsbereich einer anerkannten Werkstatt für behinderte Menschen
@@ -9778,6 +10052,7 @@ Rentenversicherung abgesichert werden.
 
 
 ###### § 180 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028407119)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -9790,10 +10065,12 @@ einschließlich deren Mitwirkung gemäß § 179 Abs. 1 zu regeln.
 
 
 ##### Sechster Titel - Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006001308)
 
 
 
 ###### § 181 Berechnung und Tragung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028508119)
 
 (1) Die Berechnung der Beiträge erfolgt nach den Vorschriften, die im
 Zeitpunkt der Zahlung der Beiträge für versicherungspflichtige
@@ -9845,6 +10122,7 @@ erstreckt haben; Erstattungsvereinbarungen sind zulässig.
 
 
 ###### § 182 Zusammentreffen mit vorhandenen Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028602119)
 
 (1) Sind für den Nachversicherungszeitraum bereits Pflichtbeiträge
 gezahlt worden, haben die Arbeitgeber, Genossenschaften oder
@@ -9867,6 +10145,7 @@ Beiträge gezahlt wurden, übersteigt.
 
 
 ###### § 183 Erhöhung und Minderung der Beiträge bei Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028703308)
 
 (1) Die Beiträge erhöhen sich für Nachzuversichernde, zu deren Lasten
 ein Versorgungsausgleich durchgeführt worden ist, wenn diese eine
@@ -9909,6 +10188,7 @@ Minderungsbetrag ist
 
 
 ###### § 184 Fälligkeit der Beiträge und Aufschub
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028804308)
 
 (1) Die Beiträge sind zu zahlen, wenn die Voraussetzungen für die
 Nachversicherung eingetreten sind, insbesondere Gründe für einen
@@ -9962,6 +10242,7 @@ Kalenderjahren zugrunde zu legen wären.
 
 
 ###### § 185 Zahlung der Beiträge und Wirkung der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE028907119)
 
 (1) Die Arbeitgeber, Genossenschaften oder Gemeinschaften zahlen die
 Beiträge unmittelbar an den Träger der Rentenversicherung. Sie haben
@@ -10046,6 +10327,7 @@ gespeicherten Daten mit.
 
 
 ###### § 186 Zahlung an eine berufsständische Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029003308)
 
 (1) Nachzuversichernde können beantragen, dass die Arbeitgeber,
 Genossenschaften oder Gemeinschaften die Beiträge an eine
@@ -10082,6 +10364,7 @@ Voraussetzungen für die Nachversicherung gestellt werden.
 
 
 ###### § 186a Zeiten einer besonderen Auslandsverwendung im Nachversicherungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062500308)
 
 (1) Liegen Zeiten einer besonderen Auslandsverwendung nach § 76e in
 einem Nachversicherungszeitraum, gilt § 188 Absatz 1 mit der Maßgabe,
@@ -10103,10 +10386,12 @@ Versorgungseinrichtung nach § 186 gezahlt, sind auch Beiträge nach §
 
 
 ##### Siebter Titel - Zahlung von Beiträgen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006103308)
 
 
 
 ###### § 187 Zahlung von Beiträgen und Ermittlung von Entgeltpunkten aus Beiträgen beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029113126)
 
 (1) Im Rahmen des Versorgungsausgleichs können Beiträge gezahlt
 werden, um
@@ -10243,6 +10528,7 @@ Anrechnung der gewährten Leistungen zurückzuzahlen.
 
 
 ###### § 187a Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053006124)
 
 (1) Bis zum Erreichen der Regelaltersgrenze können Rentenminderungen,
 die durch die vorzeitige Inanspruchnahme einer Rente wegen Alters
@@ -10292,6 +10578,7 @@ Erstattung gezahlter Beiträge erfolgt nicht.
 
 
 ###### § 187b Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053704119)
 
 (1) Versicherte, die bei Beendigung eines Arbeitsverhältnisses nach
 Maßgabe des Gesetzes zur Verbesserung der betrieblichen
@@ -10309,6 +10596,7 @@ die Regelaltersgrenze erreicht wurde.
 
 
 ###### § 188 Beitragszahlung für Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029204308)
 
 (1) Für Zuschläge an Entgeltpunkten für Zeiten einer besonderen
 Auslandsverwendung nach § 76e zahlt der Bund Beiträge. Die Beiträge
@@ -10334,24 +10622,29 @@ Zuschläge an Entgeltpunkten nach Absatz 1 zu entrichten gewesen wären.
 
 
 ##### Achter Titel - Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006201308)
 
 
 
 ###### § 189 Berechnungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029301308)
 
 Die Berechnungsgrundsätze des Zweiten Kapitels (§§ 121 bis 124) gelten
 entsprechend, soweit nicht etwas anderes bestimmt ist.
 
 
 #### Zweiter Unterabschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006301308)
 
 
 
 ##### Erster Titel - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006401308)
 
 
 
 ###### § 190 Meldepflichten bei Beschäftigten und Hausgewerbetreibenden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029401308)
 
 Versicherungspflichtig Beschäftigte und Hausgewerbetreibende sind nach
 den Vorschriften über die Meldepflichten der Arbeitgeber nach dem
@@ -10360,6 +10653,7 @@ anderes bestimmt ist.
 
 
 ###### § 190a Meldepflicht von versicherungspflichtigen selbständig Tätigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056804119)
 
 (1) Selbständig Tätige nach § 2 Satz 1 Nr. 1 bis 3 und 9 sind
 verpflichtet, sich innerhalb von drei Monaten nach der Aufnahme der
@@ -10382,6 +10676,7 @@ Selbständigen zu erlassen.
 
 
 ###### § 191 Meldepflichten bei sonstigen versicherungspflichtigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029507119)
 
 Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben zu
 erstatten
@@ -10409,6 +10704,7 @@ entsprechend.
 
 
 ###### § 192 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029606119)
 
 (1) Bei Einberufung zu einem Wehrdienst hat das Bundesministerium der
 Verteidigung oder die von ihm bestimmte Stelle Beginn und Ende des
@@ -10422,6 +10718,7 @@ zu melden.
 
 
 ###### § 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062600308)
 
 (1) Zeiten einer besonderen Auslandsverwendung, für die Zuschläge an
 Entgeltpunkten nach § 76e zu ermitteln sind, hat das Bundesministerium
@@ -10431,6 +10728,7 @@ der Verteidigung oder die von ihm bestimmte Stelle zu melden.
 
 
 ###### § 192b Meldepflichten bei Bezug von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE064605126)
 
 (1) Bei früheren Soldaten auf Zeit, die Übergangsgebührnisse beziehen,
 hat das Bundesministerium der Verteidigung oder die von ihm bestimmte
@@ -10442,6 +10740,7 @@ gelten entsprechend.
 
 
 ###### § 192c Meldepflichten bei Bezug von Erwerbsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067002126)
 
 (1) Bei Personen, die Erwerbsschadensausgleich nach dem
 Soldatenentschädigungsgesetz beziehen, hat das Bundesministerium der
@@ -10457,6 +10756,7 @@ Datenerfassungs- und -übermittlungsverordnung gelten entsprechend.
 
 
 ###### § 193 Meldung von sonstigen rechtserheblichen Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029704308)
 
 Anrechnungszeiten sowie Zeiten, die für die Anerkennung von
 Anrechnungszeiten erheblich sein können, sind für Versicherte durch
@@ -10466,6 +10766,7 @@ Zweiten Buches oder durch die Bundesagentur für Arbeit zu melden.
 
 
 ###### § 194 Gesonderte Meldung und Hochrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029809126)
 
 (1) Arbeitgeber haben auf Verlangen des Rentenantragstellers die
 beitragspflichtigen Einnahmen und bei einer Beschäftigung im
@@ -10506,6 +10807,7 @@ beitragspflichtigen Einnahme.
 
 
 ###### § 195 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE029904308)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, für
 Meldungen nach § 193 durch Rechtsverordnung mit Zustimmung des
@@ -10526,10 +10828,12 @@ Bundesrates zu bestimmen
 
 
 ##### Zweiter Titel - Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006501308)
 
 
 
 ###### § 196 Auskunfts- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030122126)
 
 (1) Versicherte oder Personen, für die eine Versicherung durchgeführt
 werden soll, haben, soweit sie nicht bereits nach § 28o des Vierten
@@ -10673,14 +10977,17 @@ zuständigen Träger der Rentenversicherung weiterzuleiten.
 
 
 ###### § 196a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063402124)
 
 
 
 ##### Dritter Titel - Wirksamkeit der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006601308)
 
 
 
 ###### § 197 Wirksamkeit von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030201308)
 
 (1) Pflichtbeiträge sind wirksam, wenn sie gezahlt werden, solange der
 Anspruch auf ihre Zahlung noch nicht verjährt ist.
@@ -10703,6 +11010,7 @@ Buches ist ausgeschlossen.
 
 
 ###### § 198 Neubeginn und Hemmung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030302308)
 
 Die Frist des § 197 Abs. 2 wird durch ein Beitragsverfahren oder ein
 Verfahren über einen Rentenanspruch unterbrochen; die Frist beginnt
@@ -10714,6 +11022,7 @@ sechs Monate nach Abschluss eines der in Satz 1 genannten Verfahren.
 
 
 ###### § 199 Vermutung der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030404308)
 
 Bei Beschäftigungszeiten, die den Trägern der Rentenversicherung
 ordnungsgemäß gemeldet worden sind, wird vermutet, dass während dieser
@@ -10728,6 +11037,7 @@ anzuwenden.
 
 
 ###### § 200 Änderung der Beitragsberechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030502308)
 
 Bei der Zahlung von freiwilligen Beiträgen für einen zurückliegenden
 Zeitraum sind
@@ -10747,6 +11057,7 @@ gezahlt wird.
 
 
 ###### § 201 Beiträge an nicht zuständige Träger der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030602308)
 
 (1) Beiträge, die an einen nicht zuständigen Träger der
 Rentenversicherung gezahlt worden sind, gelten als an den zuständigen
@@ -10770,6 +11081,7 @@ erstatten.
 
 
 ###### § 202 Irrtümliche Pflichtbeitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030701308)
 
 Beiträge, die in der irrtümlichen Annahme der Versicherungspflicht
 gezahlt und deshalb beanstandet worden sind, aber nicht
@@ -10785,6 +11097,7 @@ Arbeitgeber zu erstattenden Betrag zu zahlen.
 
 
 ###### § 203 Glaubhaftmachung der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030801308)
 
 (1) Machen Versicherte glaubhaft, dass sie eine
 versicherungspflichtige Beschäftigung gegen Arbeitsentgelt ausgeübt
@@ -10797,10 +11110,12 @@ Beitrag als gezahlt.
 
 
 ##### Vierter Titel - Nachzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006701308)
 
 
 
 ###### § 204 Nachzahlung von Beiträgen bei Ausscheiden aus einer internationalen Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE030901308)
 
 (1) Deutsche, die aus den Diensten einer zwischenstaatlichen oder
 überstaatlichen Organisation ausscheiden, können auf Antrag für Zeiten
@@ -10838,6 +11153,7 @@ Nachzahlungsbescheides nachzuzahlen.
 
 
 ###### § 205 Nachzahlung bei Strafverfolgungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031001308)
 
 (1) Versicherte, für die ein Anspruch auf Entschädigung für Zeiten von
 Strafverfolgungsmaßnahmen nach dem Gesetz über die Entschädigung für
@@ -10860,6 +11176,7 @@ Rentenversicherung zu bestimmenden angemessenen Frist zu zahlen.
 
 
 ###### § 206 Nachzahlung für Geistliche und Ordensleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031102308)
 
 (1) Geistliche und sonstige Beschäftigte der als öffentlich-rechtliche
 Körperschaften anerkannten Religionsgesellschaften, Mitglieder
@@ -10894,6 +11211,7 @@ Kalendermonate Pflichtbeiträge gezahlt sind.
 
 
 ###### § 207 Nachzahlung für Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031203308)
 
 (1) Für Zeiten einer schulischen Ausbildung nach dem vollendeten 16.
 Lebensjahr, die nicht als Anrechnungszeiten berücksichtigt werden,
@@ -10918,10 +11236,12 @@ entsprechend.
 
 
 ###### § 208 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031304308)
 
 
 
 ###### § 209 Berechtigung und Beitragsberechnung zur Nachzahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031401308)
 
 (1) Zur Nachzahlung berechtigt sind Personen, die
 
@@ -10952,10 +11272,12 @@ maßgebend, die zum Zeitpunkt der Nachzahlung gelten.
 
 
 ##### Fünfter Titel - Beitragserstattung und Beitragsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
 
 
 
 ###### § 210 Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031511119)
 
 (1) Beiträge werden auf Antrag erstattet
 
@@ -11036,6 +11358,7 @@ mehr.
 
 
 ###### § 211 Sonderregelung bei der Zuständigkeit zu Unrecht gezahlter Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031602119)
 
 Die Erstattung zu Unrecht gezahlter Beiträge (§ 26 Abs. 2 und 3
 Viertes Buch) erfolgt abweichend von den Regelungen des Dritten
@@ -11060,6 +11383,7 @@ benachrichtigen.
 
 
 ###### § 212 Beitragsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031704308)
 
 Die Träger der Rentenversicherung überwachen die rechtzeitige und
 vollständige Zahlung der Pflichtbeiträge, soweit sie unmittelbar an
@@ -11068,6 +11392,7 @@ der Beitragszahlung berechtigt.
 
 
 ###### § 212a Prüfung der Beitragszahlungen und Meldungen für sonstige Versicherte, Nachversicherte und für Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059906126)
 
 (1) Die Träger der Rentenversicherung prüfen bei den Stellen, die die
 Pflichtbeiträge für sonstige Versicherte sowie für nachversicherte
@@ -11213,6 +11538,7 @@ bestimmen.
 
 
 ###### § 212b Prüfung der Beitragszahlung bei versicherungspflichtigen Selbständigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060000308)
 
 Die Träger der Rentenversicherung sind berechtigt, Prüfungen bei den
 versicherungspflichtigen Selbständigen durchzuführen. § 212a Abs. 2
@@ -11225,14 +11551,17 @@ entsprechend.
 
 
 ### Dritter Abschnitt - Beteiligung des Bundes, Finanzbeziehungen und Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006901308)
 
 
 
 #### Erster Unterabschnitt - Beteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007001308)
 
 
 
 ##### § 213 Zuschüsse des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031820126)
 
 (1) Der Bund leistet zu den Ausgaben der allgemeinen
 Rentenversicherung Zuschüsse.
@@ -11314,6 +11643,7 @@ Abrechnung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ##### § 214 Liquiditätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE031903308)
 
 (1) Reichen in der allgemeinen Rentenversicherung die liquiden Mittel
 der Nachhaltigkeitsrücklage nicht aus, die Zahlungsverpflichtungen zu
@@ -11329,6 +11659,7 @@ Zinsen sind nicht zu zahlen.
 
 
 ##### § 214a Liquiditätserfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060102126)
 
 (1) Die Deutsche Rentenversicherung Bund erfasst arbeitstäglich die
 Liquiditätslage der allgemeinen Rentenversicherung. Die Träger der
@@ -11347,6 +11678,7 @@ Bund geregelt.
 
 
 ##### § 215 Beteiligung des Bundes in der knappschaftlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032001308)
 
 In der knappschaftlichen Rentenversicherung trägt der Bund den
 Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben eines
@@ -11355,10 +11687,12 @@ Leistungsfähigkeit sicher.
 
 
 #### Zweiter Unterabschnitt - Nachhaltigkeitsrücklage und Finanzausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007102308)
 
 
 
 ##### § 216 Nachhaltigkeitsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032103308)
 
 (1) Die Träger der allgemeinen Rentenversicherung halten eine
 gemeinsame Nachhaltigkeitsrücklage (Betriebsmittel und Rücklage), der
@@ -11377,6 +11711,7 @@ das Erweiterte Direktorium bei der Deutschen Rentenversicherung Bund.
 
 
 ##### § 217 Anlage der Nachhaltigkeitsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032206126)
 
 (1) Die Nachhaltigkeitsrücklage ist liquide anzulegen. Als liquide
 gelten alle Vermögensanlagen mit einer Laufzeit, Kündigungsfrist oder
@@ -11410,11 +11745,13 @@ zu erfüllen.
 
 
 ##### § 218
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032306308)
 
 (weggefallen)
 
 
 ##### § 219 Finanzverbund in der allgemeinen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032406126)
 
 (1) Die Ausgaben für Renten, Beitragserstattungen, die von der
 allgemeinen Rentenversicherung zu tragenden Beiträge zur
@@ -11456,6 +11793,7 @@ beantragt sie zusätzliche finanzielle Hilfen des Bundes.
 
 
 ##### § 220 Aufwendungen für Leistungen zur Teilhabe, Verwaltung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032507308)
 
 (1) Die jährlichen Ausgaben im Bereich der allgemeinen
 Rentenversicherung und der knappschaftlichen Rentenversicherung für
@@ -11495,6 +11833,7 @@ welche sich aus dem Benchmarking der Versicherungsträger ergeben.
 
 
 ##### § 221 Ausgaben für das Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032605126)
 
 Für die Schaffung oder Erhaltung des Verwaltungsvermögens dürfen
 Mittel nur aufgewendet werden, wenn dies erforderlich ist, um die
@@ -11512,6 +11851,7 @@ wird.
 
 
 ##### § 222 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032706126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -11522,10 +11862,12 @@ zeitlich begrenzt werden.
 
 
 #### Dritter Unterabschnitt - Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007201308)
 
 
 
 ##### § 223 Wanderversicherungsausgleich und Wanderungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032808119)
 
 (1) Soweit im Leistungsfall die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Träger der knappschaftlichen
@@ -11592,6 +11934,7 @@ Rentenversicherung berücksichtigt.
 
 
 ##### § 224 Erstattung durch die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE032907126)
 
 (1) Zum Ausgleich der Aufwendungen, die der Rentenversicherung für
 Renten wegen voller Erwerbsminderung entstehen, bei denen der Anspruch
@@ -11633,6 +11976,7 @@ Rentenversicherung zusammenstehen.
 
 
 ##### § 224a Tragung pauschalierter Beiträge für Renten wegen voller Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058408126)
 
 (1) Das Bundesamt für Soziale Sicherung führt für den Gesamtbeitrag
 nach § 345a des Dritten Buches die Verteilung zwischen den Trägern der
@@ -11651,6 +11995,7 @@ allgemeinen Rentenversicherung zusammen stehen.
 
 
 ##### § 224b Erstattung für Begutachtung in Angelegenheiten der Grundsicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE061002126)
 
 (1) Der Bund erstattet der Deutschen Rentenversicherung Bund zum 1.
 Mai eines Jahres, erstmals zum 1. Mai 2010, die Kosten und Auslagen,
@@ -11675,6 +12020,7 @@ Rentenversicherung erfolgt sie buchhalterisch.
 
 
 ##### § 225 Erstattung durch den Träger der Versorgungslast
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033005308)
 
 (1) Die Aufwendungen des Trägers der Rentenversicherung aufgrund von
 Rentenanwartschaften, die durch Entscheidung des Familiengerichts
@@ -11701,6 +12047,7 @@ entsprechend.
 
 
 ##### § 226 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033107308)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Nähere über die Berechnung und
@@ -11729,10 +12076,12 @@ Erwerbsminderung gemäß § 224a zu bestimmen.
 
 
 #### Vierter Unterabschnitt - Abrechnung der Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007301308)
 
 
 
 ##### § 227 Abrechnung der Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033204126)
 
 (1) Die Deutsche Rentenversicherung Bund verteilt die Beträge nach §
 219 Abs. 1 und § 223 auf die Träger der allgemeinen Rentenversicherung
@@ -11767,18 +12116,22 @@ Rentenversicherung.
 
 
 ## Fünftes Kapitel - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007401308)
 
 
 
 ### Erster Abschnitt - Ergänzungen für Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007501308)
 
 
 
 #### Erster Unterabschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007601308)
 
 
 
 ##### § 228 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033302308)
 
 Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des
@@ -11787,10 +12140,12 @@ mehr oder nur noch übergangsweise eintreten können.
 
 
 ##### § 228a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043611119)
 
 
 
 ##### § 228b Maßgebende Werte in der Anpassungsphase
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043703119)
 
 Bei der Festsetzung von Werten für Zeiten bis einschließlich 31.
 Dezember 2024 sind, soweit Vorschriften dieses Buches auf die
@@ -11802,10 +12157,12 @@ ist.
 
 
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007701308)
 
 
 
 ##### § 229 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033422126)
 
 (1) Personen, die am 31. Dezember 1991 als
 
@@ -11927,6 +12284,7 @@ Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
 
 ##### § 229a Versicherungspflicht im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043803308)
 
 (1) Personen, die am 31. Dezember 1991 im Beitrittsgebiet
 versicherungspflichtig waren, nicht ab 1. Januar 1992 nach den §§ 1
@@ -11944,6 +12302,7 @@ bleiben in dieser Tätigkeit versicherungspflichtig.
 
 
 ##### § 230 Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033511126)
 
 (1) Personen, die am 31. Dezember 1991 als
 
@@ -12040,6 +12399,7 @@ erklären.
 
 
 ##### § 231 Befreiung von der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033614126)
 
 (1) Personen, die am 31. Dezember 1991 von der Versicherungspflicht
 befreit waren, bleiben in derselben Beschäftigung oder selbständigen
@@ -12302,6 +12662,7 @@ stellen.
 
 
 ##### § 231a Befreiung von der Versicherungspflicht im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043903308)
 
 Selbständig Tätige, die am 31. Dezember 1991 im Beitrittsgebiet
 aufgrund eines Versicherungsvertrages von der Versicherungspflicht
@@ -12312,6 +12673,7 @@ Wehrdienstleistungen von der Versicherungspflicht befreit.
 
 
 ##### § 232 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033704119)
 
 (1) Personen, die nicht versicherungspflichtig sind und vor dem 1.
 Januar 1992 vom Recht der Selbstversicherung, der Weiterversicherung
@@ -12328,6 +12690,7 @@ Regelaltersgrenze erreicht wurde.
 
 
 ##### § 233 Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE033803308)
 
 (1) Personen, die vor dem 1. Januar 1992 aus einer Beschäftigung
 ausgeschieden sind, in der sie nach dem jeweils geltenden, dem § 5
@@ -12364,6 +12727,7 @@ versicherungspflichtig oder versicherungsfrei waren.
 
 
 ##### § 233a Nachversicherung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044003308)
 
 (1) Personen, die vor dem 1. Januar 1992 aus einer Beschäftigung im
 Beitrittsgebiet ausgeschieden sind, in der sie nach dem jeweils
@@ -12453,10 +12817,12 @@ Beitrittsgebiets im Sinne des Artikels 3 § 1 Abs. 3 des Renten-
 
 
 #### Dritter Unterabschnitt - Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007804308)
 
 
 
 ##### § 234 Übergangsgeldanspruch und -berechnung bei Arbeitslosenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034007308)
 
 (1) Bei Leistungen zur medizinischen Rehabilitation oder sonstigen
 Leistungen zur Teilhabe haben Versicherte auch nach dem 31. Dezember
@@ -12473,6 +12839,7 @@ jeweils in der am 31. Dezember 2004 geltenden Fassung anzuwenden.
 
 
 ##### § 234a Übergangsgeldanspruch und -berechnung bei Unterhaltsgeldbezug
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058801301)
 
 (1) Bei Leistungen zur medizinischen Rehabilitation oder sonstigen
 Leistungen zur Teilhabe haben Versicherte, die unmittelbar vor Beginn
@@ -12490,10 +12857,12 @@ anzuwenden.
 
 
 #### Vierter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG007902301)
 
 
 
 ##### § 235 Regelaltersrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053700301)
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
 Anspruch auf Regelaltersrente, wenn sie
@@ -12696,6 +13065,7 @@ wird die Regelaltersgrenze nicht angehoben.
 
 
 ##### § 236 Altersrente für langjährig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034105301)
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
 frühestens Anspruch auf Altersrente für langjährig Versicherte, wenn
@@ -13049,6 +13419,7 @@ folgt:
 
 
 ##### § 236a Altersrente für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053806301)
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
 frühestens Anspruch auf Altersrente für schwerbehinderte Menschen,
@@ -13382,6 +13753,7 @@ waren, haben Anspruch auf diese Altersrente, wenn sie
 
 
 ##### § 236b Altersrente für besonders langjährig Versicherte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063300360)
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
 frühestens Anspruch auf Altersrente für besonders langjährig
@@ -13518,6 +13890,7 @@ Altersgrenze von 63 Jahren wie folgt angehoben:
 
 
 ##### § 237 Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034220119)
 
 (1) Versicherte haben Anspruch auf Altersrente, wenn sie
 
@@ -13885,6 +14258,7 @@ arbeitsmarktpolitische Maßnahme nicht berührt.
 
 
 ##### § 237a Altersrente für Frauen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053102308)
 
 (1) Versicherte Frauen haben Anspruch auf Altersrente, wenn sie
 
@@ -14163,6 +14537,7 @@ arbeitsmarktpolitische Maßnahme nicht berührt.
 
 
 ##### § 238 Altersrente für langjährig unter Tage beschäftigte Bergleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034304124)
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
 frühestens Anspruch auf Altersrente für langjährig unter Tage
@@ -14401,6 +14776,7 @@ b)  die erforderlichen 25 Jahre mit Beitragszeiten aufgrund einer
 
 
 ##### § 239 Knappschaftsausgleichsleistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034407126)
 
 (1) Versicherte haben Anspruch auf Knappschaftsausgleichsleistung,
 wenn sie
@@ -14501,6 +14877,7 @@ Bezugsgröße nicht überschritten wird.
 
 
 ##### § 240 Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034510301)
 
 (1) Anspruch auf Rente wegen teilweiser Erwerbsminderung haben bei
 Erfüllung der sonstigen Voraussetzungen bis zum Erreichen der
@@ -14533,6 +14910,7 @@ nicht zu berücksichtigen.
 
 
 ##### § 241 Rente wegen Erwerbsminderung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034607119)
 
 (1) Der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung
 oder Berufsunfähigkeit (§ 240), in dem Versicherte für einen Anspruch
@@ -14579,6 +14957,7 @@ nicht erforderlich.
 
 
 ##### § 242 Rente für Bergleute
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034704124)
 
 (1) Der Zeitraum von fünf Jahren vor Eintritt der im Bergbau
 verminderten Berufsfähigkeit, in dem Versicherte für einen Anspruch
@@ -14636,6 +15015,7 @@ b)  die erforderlichen 25 Jahre mit Beitragszeiten aufgrund einer
 
 
 ##### § 242a Witwenrente und Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056503301)
 
 (1) Anspruch auf kleine Witwenrente oder kleine Witwerrente besteht
 ohne Beschränkung auf 24 Kalendermonate, wenn der Ehegatte vor dem 1.
@@ -14850,6 +15230,7 @@ große Witwerrente wird, wenn der Versicherte nach dem 31. Dezember
 
 
 ##### § 243 Witwenrente und Witwerrente an vor dem 1. Juli 1977 geschiedene Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034807301)
 
 (1) Anspruch auf kleine Witwenrente oder kleine Witwerrente besteht
 ohne Beschränkung auf 24 Kalendermonate auch für geschiedene
@@ -15156,6 +15537,7 @@ nichtig erklärt oder aufgehoben ist.
 
 
 ##### § 243a Rente wegen Todes an vor dem 1. Juli 1977 geschiedene Ehegatten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044201308)
 
 Bestimmt sich der Unterhaltsanspruch des geschiedenen Ehegatten nach
 dem Recht, das im Beitrittsgebiet gegolten hat, ist § 243 nicht
@@ -15165,6 +15547,7 @@ Juli 1977 geschieden ist.
 
 
 ##### § 243b Wartezeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054004308)
 
 Die Erfüllung der Wartezeit von 15 Jahren ist Voraussetzung für einen
 Anspruch auf
@@ -15179,6 +15562,7 @@ Anspruch auf
 
 
 ##### § 244 Anrechenbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE034908126)
 
 (1) Sind auf die Wartezeit von 35 Jahren eine pauschale
 Anrechnungszeit und Berücksichtigungszeiten wegen Kindererziehung
@@ -15214,6 +15598,7 @@ Arbeitslosengeld II sind keine Grundrentenzeiten.
 
 
 ##### § 244a Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062900308)
 
 Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger
 versicherungsfreier Beschäftigung nach § 264b ermittelt, wird auf die
@@ -15229,6 +15614,7 @@ Anwendung von § 52 Absatz 1 oder 1a gesondert zu ermitteln.
 
 
 ##### § 245 Vorzeitige Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035010126)
 
 (1) Die Vorschrift über die vorzeitige Wartezeiterfüllung findet nur
 Anwendung, wenn Versicherte nach dem 31. Dezember 1972 vermindert
@@ -15299,6 +15685,7 @@ Wartezeit auch vorzeitig erfüllt, wenn sie
 
 
 ##### § 245a Wartezeiterfüllung bei früherem Anspruch auf Hinterbliebenenrente im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044301308)
 
 Die allgemeine Wartezeit gilt für einen Anspruch auf
 Hinterbliebenenrente als erfüllt, wenn der Berechtigte bereits vor dem
@@ -15307,6 +15694,7 @@ Vorschriften des Beitrittsgebiets gehabt hat.
 
 
 ##### § 246 Beitragsgeminderte Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035102308)
 
 Zeiten, für die für Arbeiter in der Zeit vom 1. Oktober 1921 und für
 Angestellte in der Zeit vom 1. August 1921 bis zum 31. Dezember 1923
@@ -15320,6 +15708,7 @@ angerechnet.
 
 
 ##### § 247 Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035204308)
 
 (1) Beitragszeiten sind auch Zeiten, für die in der Zeit vom 1. Januar
 1984 bis zum 31. Dezember 1991 für Anrechnungszeiten Beiträge gezahlt
@@ -15361,6 +15750,7 @@ Januar 1924 sind jedoch nur Beitragszeiten, wenn
 
 
 ##### § 248 Beitragszeiten im Beitrittsgebiet und im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035308308)
 
 (1) Pflichtbeitragszeiten sind auch Zeiten, in denen Personen aufgrund
 gesetzlicher Pflicht nach dem 8. Mai 1945 mehr als drei Tage
@@ -15404,6 +15794,7 @@ werden der allgemeinen Rentenversicherung zugeordnet.
 
 
 ##### § 249 Beitragszeiten wegen Kindererziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035409126)
 
 (1) Die Kindererziehungszeit für ein vor dem 1. Januar 1992 geborenes
 Kind endet 30 Kalendermonate nach Ablauf des Monats der Geburt.
@@ -15463,6 +15854,7 @@ oder zu berücksichtigen war.
 
 
 ##### § 249a Beitragszeiten wegen Kindererziehung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044405308)
 
 (1) Elternteile, die am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
 Beitrittsgebiet hatten, sind von der Anrechnung einer
@@ -15476,6 +15868,7 @@ Erklärung zugunsten des Vaters abgegeben.
 
 
 ##### § 249b Berücksichtigungszeiten wegen Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052401308)
 
 Berücksichtigungszeiten sind auf Antrag auch Zeiten der nicht
 erwerbsmäßigen Pflege eines Pflegebedürftigen in der Zeit vom 1.
@@ -15498,6 +15891,7 @@ gestellt wird.
 
 
 ##### § 250 Ersatzzeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035506126)
 
 (1) Ersatzzeiten sind Zeiten vor dem 1. Januar 1992, in denen
 Versicherungspflicht nicht bestanden hat und Versicherte nach
@@ -15602,6 +15996,7 @@ vollendetem 14. Lebensjahr
 
 
 ##### § 251 Ersatzzeiten bei Handwerkern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035602308)
 
 (1) Ersatzzeiten werden bei versicherungspflichtigen Handwerkern, die
 in diesen Zeiten in die Handwerksrolle eingetragen waren,
@@ -15624,6 +16019,7 @@ waren.
 
 
 ##### § 252 Anrechnungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035717126)
 
 (1) Anrechnungszeiten sind auch Zeiten, in denen Versicherte
 
@@ -15807,6 +16203,7 @@ Arbeitslosigkeit aus.
 
 
 ##### § 252a Anrechnungszeiten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044506308)
 
 (1) Anrechnungszeiten im Beitrittsgebiet sind auch Zeiten nach dem 8.
 Mai 1945, in denen Versicherte
@@ -15872,6 +16269,7 @@ Feststellung von Pflichtbeitragszeiten für einen Anspruch auf Rente.
 
 
 ##### § 253 Pauschale Anrechnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035803308)
 
 (1) Anrechnungszeit für die Zeit vor dem 1. Januar 1957 ist mindestens
 die volle Anzahl an Monaten, die sich ergibt, wenn
@@ -15908,6 +16306,7 @@ vervielfältigt und durch die Gesamtlücke geteilt wird.
 
 
 ##### § 253a Zurechnungszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054106126)
 
 (1) Beginnt eine Rente wegen verminderter Erwerbsfähigkeit oder eine
 Erziehungsrente im Jahr 2018 oder ist bei einer Hinterbliebenenrente
@@ -16051,6 +16450,7 @@ wegen verminderter Erwerbsfähigkeit angerechnet wurde.
 
 
 ##### § 254 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE035902126)
 
 (1) Ersatzzeiten werden der knappschaftlichen Rentenversicherung
 zugeordnet, wenn vor dieser Zeit der letzte Pflichtbeitrag zur
@@ -16077,30 +16477,36 @@ Beitragszeiten und Ersatzzeiten stehen.
 
 
 ##### § 254a Ständige Arbeiten unter Tage im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044601308)
 
 Im Beitrittsgebiet vor dem 1. Januar 1992 überwiegend unter Tage
 ausgeübte Tätigkeiten sind ständige Arbeiten unter Tage.
 
 
 #### Fünfter Unterabschnitt - Rentenhöhe und Rentenanpassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008002308)
 
 
 
 ##### § 254b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044706119)
 
 
 
 ##### § 254c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044803119)
 
 
 
 ##### § 254d Umbenennung in Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE044916119)
 
 Zum 1. Juli 2024 treten Entgeltpunkte an die Stelle von Entgeltpunkten
 (Ost).
 
 
 ##### § 255 Rentenartfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036005308)
 
 (1) Der Rentenartfaktor beträgt für persönliche Entgeltpunkte bei
 großen Witwenrenten und großen Witwerrenten nach dem Ende des dritten
@@ -16117,14 +16523,17 @@ Ehegatte verstorben ist, maßgebend ist.
 
 
 ##### § 255a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE045013119)
 
 
 
 ##### § 255b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE045106119)
 
 
 
 ##### § 255c Anwendung des aktuellen Rentenwerts zum 1. Juli 2024
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056204119)
 
 Zum 1. Juli 2024 tritt der aktuelle Rentenwert an die Stelle des
 aktuellen Rentenwerts (Ost) und die hiervon betroffenen Renten sind
@@ -16133,6 +16542,7 @@ eine Anpassungsmitteilung.
 
 
 ##### § 255d Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2018 bis zum 1. Juli 2026
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056906126)
 
 (1) Für die Bestimmung des aktuellen Rentenwerts für die Zeit vom 1.
 Juli 2018 bis zum 1. Juli 2019 wird abweichend von § 68 Absatz 4 die
@@ -16198,6 +16608,7 @@ für das Beitrittsgebiet ergibt.
 
 
 ##### § 255e Niveauschutzklausel für die Zeit vom 1. Juli 2019 bis zum 1. Juli 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057611126)
 
 (1) Wird in der Zeit vom 1. Juli 2019 bis zum 1. Juli 2025 mit dem
 nach § 68 ermittelten aktuellen Rentenwert das Sicherungsniveau vor
@@ -16254,6 +16665,7 @@ Eurocent aufgerundet.
 
 
 ##### § 255f Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE057707126)
 
 Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
 Bundesrates zum 1. Juli eines Jahres das Sicherungsniveau vor Steuern
@@ -16261,11 +16673,13 @@ des jeweiligen Jahres zu bestimmen.
 
 
 ##### § 255g Ausgleichsbedarf ab dem 1. Juli 2021
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060704377)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2021 0,9883.
 
 
 ##### § 255h Schutzklausel in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067100377)
 
 (1) Ist in der Zeit vom 1. Juli 2022 bis zum Ablauf des 1. Juli 2025
 der nach § 68 berechnete aktuelle Rentenwert geringer als der
@@ -16324,6 +16738,7 @@ Ausgleichsbedarfs nach § 68a in Verbindung mit § 255h.
 
 
 ##### § 255i Anpassung nach Mindestsicherungsniveau bis zum Ablauf des 1. Juli 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067300377)
 
 Wird in der Zeit bis zum Ablauf des 1. Juli 2025 der neue aktuelle
 Rentenwert zum 1. Juli eines Jahres so festgesetzt, dass dieser dem
@@ -16336,6 +16751,7 @@ Rentenwert geringer ist als der bisherige aktuelle Rentenwert.
 
 
 ##### § 255j Bestimmung des aktuellen Rentenwerts zum 1. Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067200377)
 
 Für die Bestimmung des aktuellen Rentenwerts zum 1. Juli 2022 wird
 abweichend von § 68 Absatz 4 in Verbindung mit § 68 Absatz 7 Satz 5
@@ -16345,6 +16761,7 @@ gelegt.
 
 
 ##### § 256 Entgeltpunkte für Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036107308)
 
 (1) Für Pflichtbeitragszeiten aufgrund einer Beschäftigung in der Zeit
 vom 1. Juni 1945 bis 30. Juni 1965 (§ 247 Abs. 2a) werden für jeden
@@ -16400,6 +16817,7 @@ Entgeltpunkte zugrunde gelegt.
 
 
 ##### § 256a Entgeltpunkte für Beitragszeiten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE045213126)
 
 (1) Für Beitragszeiten im Beitrittsgebiet nach dem 8. Mai 1945 und vor
 dem 1. Januar 2025 werden Entgeltpunkte ermittelt, indem der mit den
@@ -16497,6 +16915,7 @@ zugrunde gelegt.
 
 
 ##### § 256b Entgeltpunkte für glaubhaft gemachte Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE045304308)
 
 (1) Für glaubhaft gemachte Pflichtbeitragszeiten nach dem 31. Dezember
 1949 werden zur Ermittlung von Entgeltpunkten als
@@ -16564,6 +16983,7 @@ anzuwenden.
 
 
 ##### § 256c Entgeltpunkte für nachgewiesene Beitragszeiten ohne Beitragsbemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052702308)
 
 (1) Für Zeiten vor dem 1. Januar 1991, für die eine
 Pflichtbeitragszahlung nachgewiesen ist, werden, wenn die Höhe der
@@ -16615,10 +17035,12 @@ anzuwenden.
 
 
 ##### § 256d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054202308)
 
 
 
 ##### § 257 Entgeltpunkte für Berliner Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036202308)
 
 (1) Für Zeiten, für die Beiträge zur
 
@@ -16658,6 +17080,7 @@ Anlage 5 zugrunde gelegt.
 
 
 ##### § 258 Entgeltpunkte für saarländische Beitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036301308)
 
 (1) Für Zeiten vom 20. November 1947 bis zum 5. Juli 1959, für die
 Beiträge in Franken gezahlt worden sind, werden Entgeltpunkte
@@ -16704,6 +17127,7 @@ nachgewiesene Arbeitsentgelt zugrunde gelegt.
 
 
 ##### § 259 Entgeltpunkte für Beitragszeiten mit Sachbezug
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036403308)
 
 Wird glaubhaft gemacht, dass Versicherte vor dem 1. Januar 1957
 während mindestens fünf Jahren, für die Pflichtbeiträge aufgrund einer
@@ -16721,6 +17145,7 @@ zuständig.
 
 
 ##### § 259a Besonderheiten für Versicherte der Geburtsjahrgänge vor 1937
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE045904308)
 
 (1) Für Versicherte, die vor dem 1. Januar 1937 geboren sind und die
 ihren gewöhnlichen Aufenthalt am 18. Mai 1990 oder, falls sie
@@ -16764,6 +17189,7 @@ Beitragserstattung nach § 286d Abs. 2 nicht erfasst werden.
 
 
 ##### § 259b Besonderheiten bei Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046002308)
 
 (1) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder
 Sonderversorgungssystem im Sinne des Anspruchs- und
@@ -16780,11 +17206,13 @@ zurückgelegt worden wären.
 
 
 ##### § 259c
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046101308)
 
 (weggefallen)
 
 
 ##### § 260 Beitragsbemessungsgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036503308)
 
 Für Zeiten, für die Beiträge aufgrund einer Beschäftigung oder
 selbständigen Tätigkeit in den dem Deutschen Reich eingegliederten
@@ -16799,6 +17227,7 @@ berücksichtigt.
 
 
 ##### § 261 Beitragszeiten ohne Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036601308)
 
 Entgeltpunkte werden nicht ermittelt für
 
@@ -16819,6 +17248,7 @@ Entgeltpunkte werden nicht ermittelt für
 
 
 ##### § 262 Mindestentgeltpunkte bei geringem Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036703119)
 
 (1) Sind mindestens 35 Jahre mit rentenrechtlichen Zeiten vorhanden
 und ergibt sich aus den Kalendermonaten mit vollwertigen
@@ -16840,6 +17270,7 @@ ist, nicht als vollwertige Pflichtbeiträge.
 
 
 ##### § 263 Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036809126)
 
 (1) Bei der Gesamtleistungsbewertung für beitragsfreie und
 beitragsgeminderte Zeiten werden Berücksichtigungszeiten wegen
@@ -17323,10 +17754,12 @@ in den Absätzen 5 und 6 genannten Zeiten.
 
 
 ##### § 263a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046202119)
 
 
 
 ##### § 264 Zuschläge oder Abschläge beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE036901308)
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben
 je 100 Werteinheiten einen Entgeltpunkt. Werteinheiten der
@@ -17338,10 +17771,12 @@ Angestellten für dasselbe Jahr zu teilen.
 
 
 ##### § 264a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046304119)
 
 
 
 ##### § 264b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063000308)
 
 Für Arbeitsentgelt aus geringfügiger Beschäftigung, in der
 Beschäftigte nach § 230 Absatz 8 versicherungsfrei sind und für das
@@ -17355,6 +17790,7 @@ Ermittlung der Zuschläge an Entgeltpunkten nach Satz 1 und 2 gilt §
 
 
 ##### § 264c Zuschlag bei Hinterbliebenenrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046404119)
 
 Die Witwenrente oder Witwerrente erhöht sich nicht um einen Zuschlag
 an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1. Januar
@@ -17363,6 +17799,7 @@ wurde und mindestens ein Ehegatte vor dem 2. Januar 1962 geboren ist.
 
 
 ##### § 264d Zugangsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054305308)
 
 Beginnt eine Rente wegen verminderter Erwerbsfähigkeit vor dem 1.
 Januar 2024 oder ist bei einer Rente wegen Todes der Versicherte vor
@@ -17622,6 +18059,7 @@ Jahren 35 Jahre treten.
 
 
 ##### § 265 Knappschaftliche Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037006301)
 
 (1) Für Beiträge zur knappschaftlichen Rentenversicherung, die für
 Arbeiter in der Zeit vom 1. Oktober 1921 und für Angestellte in der
@@ -17835,19 +18273,23 @@ angegebenen Lebensalters maßgebend:
 
 
 ##### § 265a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046505119)
 
 
 
 ##### § 265b
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046602308)
 
 (weggefallen)
 
 
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008103308)
 
 
 
 ##### § 266 Erhöhung des Grenzbetrags
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037102308)
 
 Bestand am 31. Dezember 1991 Anspruch auf eine Rente nach den
 Vorschriften im Gebiet der Bundesrepublik Deutschland ohne das
@@ -17859,6 +18301,7 @@ Betrag.
 
 
 ##### § 267 Rente und Leistungen aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037204308)
 
 Bei der Ermittlung der Summe der zusammentreffenden Rentenbeträge
 bleibt bei der Rente aus der Unfallversicherung auch die Kinderzulage
@@ -17866,10 +18309,12 @@ unberücksichtigt.
 
 
 #### Siebter Unterabschnitt - Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten und Änderung von Renten beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008202308)
 
 
 
 ##### § 268 Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037301308)
 
 Witwenrenten und Witwerrenten aus der Rentenanwartschaft eines vor dem
 1\. Juli 1977 geschiedenen Ehegatten werden vom Ablauf des
@@ -17877,6 +18322,7 @@ Kalendermonats an geleistet, in dem die Rente beantragt wird.
 
 
 ##### § 268a Änderung von Renten beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060601308)
 
 (1) § 101 Abs. 3 Satz 4 in der am 31. August 2009 geltenden Fassung
 gilt nicht in den Fällen, in denen vor dem 30. März 2005 die zunächst
@@ -17891,10 +18337,12 @@ des Versorgungsausgleichs zu kürzende Rente begonnen hat.
 
 
 #### Achter Unterabschnitt - Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008301308)
 
 
 
 ##### § 269 Steigerungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037403308)
 
 (1) Für Beiträge der Höherversicherung und für Beiträge nach § 248
 Abs. 3 Satz 2 Nr. 3 werden zusätzlich zum Monatsbetrag einer Rente
@@ -17967,10 +18415,12 @@ Steigerungsbeträge aus Beiträgen der Höherversicherung abgefunden.
 
 
 ##### § 269a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059302119)
 
 
 
 ##### § 269b Rentenabfindung bei Wiederheirat von Witwen und Witwern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058002308)
 
 Die Rentenabfindung bei Wiederheirat von Witwen und Witwern erfolgt
 ohne Anrechnung der bereits geleisteten kleinen Witwenrente oder
@@ -17981,19 +18431,23 @@ vor dem 1. Januar 2002 geschlossen wurde.
 
 
 ##### § 270 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037504119)
 
 
 
 ##### § 270a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046703308)
 
 (weggefallen)
 
 
 #### Neunter Unterabschnitt - Leistungen an Berechtigte im Ausland und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008404308)
 
 
 
 ##### § 270b Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056601308)
 
 Berechtigte erhalten eine Rente wegen teilweiser Erwerbsminderung bei
 Berufsunfähigkeit (§ 240) nur, wenn sie auf diese Rente bereits für
@@ -18002,6 +18456,7 @@ gehabt haben, einen Anspruch hatten.
 
 
 ##### § 271 Höhe der Rente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037602308)
 
 Bundesgebiets-Beitragszeiten sind auch Zeiten, für die nach den vor
 dem 9. Mai 1945 geltenden Reichsversicherungsgesetzen
@@ -18022,6 +18477,7 @@ Bundesrepublik Deutschland erfolgt ist.
 
 
 ##### § 272 Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037709119)
 
 (1) Die persönlichen Entgeltpunkte von Berechtigten, die vor dem 19.
 Mai 1950 geboren sind und vor dem 19. Mai 1990 ihren gewöhnlichen
@@ -18077,6 +18533,7 @@ Beitragszeiten nach dem Fremdrentengesetz zu berücksichtigen.
 
 
 ##### § 272a Fälligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059400308)
 
 (1) Bei Beginn laufender Geldleistungen mit Ausnahme des
 Übergangsgeldes vor dem 1. April 2004 werden diese zu Beginn des
@@ -18095,14 +18552,17 @@ Rentenbeginn vor dem 1. April 2004 liegt.
 
 
 #### Zehnter Unterabschnitt - Organisation, Datenverarbeitung und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008502308)
 
 
 
 ##### Erster Titel - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010401308)
 
 
 
 ###### § 273 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037805308)
 
 (1) Für Beschäftigte ist die Deutsche Rentenversicherung Knappschaft-
 Bahn-See als Träger der knappschaftlichen Rentenversicherung auch
@@ -18161,6 +18621,7 @@ Rentenversicherung Knappschaft-Bahn-See zuständig.
 
 
 ###### § 273a Zuständigkeit in Zweifelsfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046803126)
 
 Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem
 knappschaftlichen Betrieb gleichgestellt ist oder die Zuständigkeit
@@ -18172,15 +18633,18 @@ Bundesamt für Soziale Sicherung.
 
 
 ###### § 273b
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052102308)
 
 (weggefallen)
 
 
 ##### Zweiter Titel - Datenverarbeitung und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010502308)
 
 
 
 ###### § 274 Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE037904126)
 
 (1) § 150 Absatz 3 Satz 1 ist nicht im Verhältnis zu Staaten und
 Personengruppen anzuwenden, auf welche die Verordnung (EWG) Nr.
@@ -18227,6 +18691,7 @@ Träger der Rentenversicherung folgende Daten gespeichert:
 
 
 ###### § 274a Verarbeitung von Sozialdaten im Zusammenhang mit dem Anpassungsgeld nach § 57 des Kohleverstromungsbeendigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE046903126)
 
 (1) Auf Ersuchen von Versicherten berechnet die Deutsche
 Rentenversicherung Knappschaft-Bahn-See den für die Gewährung des
@@ -18258,6 +18723,7 @@ anschließenden Rente wegen Alters ergeben, zulässig. § 79 Absatz 2 bis
 
 
 ###### § 274b Verarbeitung von Daten aufgrund des Gesetzes zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051803126)
 
 (1) Die Träger der Rentenversicherung dürfen zur Durchführung der
 ihnen nach dem Gesetz zur Zahlung einer Energiepreispauschale für
@@ -18283,10 +18749,12 @@ nach § 79 Absatz 1 des Zehnten Buches bedarf.
 
 
 ##### Dritter Titel - Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010800308)
 
 
 
 ###### § 274c Ausgleichsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060202119)
 
 (1) Versicherte, die vor dem 1. Januar 2005 eine Versicherungsnummer
 erhalten haben (Bestandsversicherte), bleiben dem am 31. Dezember 2004
@@ -18364,39 +18832,48 @@ Maßnahmen.
 
 
 ###### § 274d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE060301119)
 
 
 
 #### Elfter Unterabschnitt - Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008601308)
 
 
 
 ##### Erster Titel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008701308)
 
 
 
 ###### § 275
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038002308)
 
 (weggefallen)
 
 
 ##### Zweiter Titel - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008801308)
 
 
 
 ###### § 275a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047007119)
 
 
 
 ###### § 275b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047102119)
 
 
 
 ###### § 275c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058701308)
 
 
 
 ###### § 276 Übergangsregelung für Auszubildende in einer außerbetrieblichen Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038104126)
 
 § 162 Nummer 3a und § 168 Absatz 1 Nummer 3a in der bis zum 31.
 Dezember 2019 geltenden Fassung sind weiterhin anzuwenden, wenn die
@@ -18405,6 +18882,7 @@ Januar 2020 begonnen wurde.
 
 
 ###### § 276a Arbeitgeberanteil bei Versicherungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056306119)
 
 (1) Für geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 1 des
 Vierten Buches, die in dieser Beschäftigung nach § 230 Absatz 8
@@ -18428,6 +18906,7 @@ und 4 des Vierten Buches entsprechend.
 
 
 ###### § 276b Übergangsregelung für Beschäftigte in Privathaushalten im Übergangsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059105311)
 
 § 134 des Vierten Buches findet nur Anwendung auf Beschäftigte in
 Privathaushalten (§ 8a des Vierten Buches in Verbindung mit § 8 Absatz
@@ -18440,11 +18919,13 @@ Beschäftigten.
 
 
 ###### § 276c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059201301)
 
 -
 
 
 ###### § 277 Beitragsrecht bei Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038203119)
 
 (1) Die Durchführung der Nachversicherung von Personen, die vor dem 1.
 Januar 1992 aus einer nachversicherungspflichtigen Beschäftigung
@@ -18463,6 +18944,7 @@ Nachversicherungsbeiträge vor dem 1. Januar 2016 fällig geworden sind.
 
 
 ###### § 277a Durchführung der Nachversicherung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047204119)
 
 (1) Bei der Durchführung der Nachversicherung von Personen, die eine
 nachversicherungspflichtige Beschäftigung im Beitrittsgebiet ausgeübt
@@ -18519,6 +19001,7 @@ Abs. 4 bleibt unberührt.
 
 
 ###### § 278 Mindestbeitragsbemessungsgrundlage für die Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038301308)
 
 (1) Mindestbeitragsbemessungsgrundlage ist für Zeiten
 
@@ -18555,6 +19038,7 @@ Arbeitszeit entspricht.
 
 
 ###### § 278a Mindestbeitragsbemessungsgrundlage für die Nachversicherung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047303119)
 
 (1) Mindestbeitragsbemessungsgrundlage ist für Zeiten im
 Beitrittsgebiet
@@ -18605,6 +19089,7 @@ Arbeitszeit entspricht.
 
 
 ###### § 279 Beitragspflichtige Einnahmen bei Hebammen und Handwerkern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038401308)
 
 (1) Beitragspflichtige Einnahmen bei selbständig tätigen Hebammen mit
 Niederlassungserlaubnis sind mindestens 40 vom Hundert der
@@ -18632,22 +19117,26 @@ in den Sätzen 1 bis 3 sind nur anzuwenden, wenn dies bis zum 30. Juni
 
 
 ###### § 279a Beitragspflichtige Einnahmen mitarbeitender Ehegatten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047401308)
 
 Beitragspflichtige Einnahmen bei im Beitrittsgebiet mitarbeitenden
 Ehegatten sind die Einnahmen aus der Tätigkeit.
 
 
 ###### § 279b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047503119)
 
 
 
 ###### § 279c Beitragstragung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047604119)
 
 Die Beiträge werden bei mitarbeitenden Ehegatten von diesen und den
 selbständig Tätigen je zur Hälfte getragen.
 
 
 ###### § 279d Beitragszahlung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047701308)
 
 Für die Zahlung der Beiträge von mitarbeitenden Ehegatten gelten die
 Vorschriften über den Gesamtsozialversicherungsbeitrag. Für die
@@ -18655,14 +19144,17 @@ Beitragszahlung gelten die selbständig Tätigen als Arbeitgeber.
 
 
 ###### § 279e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052502308)
 
 
 
 ###### § 279f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058904308)
 
 
 
 ###### § 279g Sonderregelungen bei Altersteilzeitbeschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE059000308)
 
 Bei Arbeitnehmern, für die die Vorschriften des Altersteilzeitgesetzes
 in der bis zum 30. Juni 2004 geltenden Fassung anzuwenden sind, weil
@@ -18672,12 +19164,14 @@ Nr. 6 und 7 in der bis zum 30. Juni 2004 geltenden Fassung anzuwenden.
 
 
 ###### § 280 Höherversicherung für Zeiten vor 1998
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038502308)
 
 Beiträge für Zeiten vor 1998 sind zur Höherversicherung gezahlt, wenn
 sie als solche bezeichnet sind.
 
 
 ###### § 281 Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038602308)
 
 (1) Sind für den Nachversicherungszeitraum bereits freiwillige
 Beiträge vor dem 1. Januar 1992 gezahlt worden, werden diese Beiträge
@@ -18690,10 +19184,12 @@ nachentrichtet sind, gelten sie erst mit der Zahlung im Sinne des §
 
 
 ###### § 281a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047809119)
 
 
 
 ###### § 281b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE047905308)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für die Fälle, in denen nach Vorschriften
@@ -18704,10 +19200,12 @@ Berechnung und Durchführung der Erstattung zu regeln.
 
 
 ##### Dritter Titel - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG008901308)
 
 
 
 ###### § 281c Meldepflichten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048001308)
 
 Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben für im
 Beitrittsgebiet mitarbeitende Ehegatten die selbständig Tätigen zu
@@ -18716,6 +19214,7 @@ gelten entsprechend.
 
 
 ###### § 282 Nachzahlung nach Erreichen der Regelaltersgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE062002119)
 
 (1) Vor dem 1. Januar 1955 geborene Elternteile, denen
 Kindererziehungszeiten anzurechnen sind oder die von § 286g Satz 1
@@ -18757,10 +19256,12 @@ belegt sind.
 
 
 ###### § 283 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038703308)
 
 
 
 ###### § 284 Nachzahlung für Vertriebene, Flüchtlinge und Evakuierte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE038903119)
 
 Personen im Sinne der §§ 1 bis 4 des Bundesvertriebenengesetzes und
 des § 1 des Bundesevakuiertengesetzes, die
@@ -18785,11 +19286,13 @@ der Monat abgelaufen ist, in dem die Regelaltersgrenze erreicht wurde.
 
 
 ###### § 284a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048102308)
 
 (weggefallen)
 
 
 ###### § 285 Nachzahlung bei Nachversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039002308)
 
 Personen, die nachversichert worden sind und die aufgrund der
 Nachversicherung die allgemeine Wartezeit vor dem 1. Januar 1984
@@ -18804,6 +19307,7 @@ Nachzahlungsbescheides nachzuzahlen.
 
 
 ###### § 286 Versicherungskarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039104308)
 
 (1) Werden nach dem 31. Dezember 1991 Versicherungskarten, die nicht
 aufgerechnet sind, den Trägern der Rentenversicherung vorgelegt, haben
@@ -18868,6 +19372,7 @@ Seefahrtzeiten und Durchschnittsheuern der Seeleute.
 
 
 ###### § 286a Glaubhaftmachung der Beitragszahlung und Aufteilung von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048304308)
 
 (1) Fehlen für Zeiten vor dem 1. Januar 1950 die
 Versicherungsunterlagen, die von einem Träger der Rentenversicherung
@@ -18927,6 +19432,7 @@ vermutet.
 
 
 ###### § 286b Glaubhaftmachung der Beitragszahlung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048401308)
 
 Machen Versicherte glaubhaft, dass sie im Beitrittsgebiet in der Zeit
 vom 9. Mai 1945 bis 31. Dezember 1991 ein beitragspflichtiges
@@ -18942,6 +19448,7 @@ zuständig.
 
 
 ###### § 286c Vermutung der Beitragszahlung im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048501308)
 
 Sind in den Versicherungsunterlagen des Beitrittsgebiets für Zeiten
 vor dem 1. Januar 1992 Arbeitszeiten oder Zeiten der selbständigen
@@ -18955,6 +19462,7 @@ zur Versicherungs- oder Beitragsfreiheit führte.
 
 
 ###### § 286d Beitragserstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048603308)
 
 (1) Sind Beitragszeiten im Beitrittsgebiet zurückgelegt, gilt § 210
 Abs. 5 mit der Maßgabe, dass eine Sachleistung, die vor dem 1. Januar
@@ -18981,6 +19489,7 @@ zur freiwilligen Versicherung bestand.
 
 
 ###### § 286e Ausweis für Arbeit und Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048701308)
 
 Versicherte, die für die Durchführung der Versicherung sowie für die
 Feststellung und Erbringung von Leistungen einschließlich der
@@ -19002,6 +19511,7 @@ Zehnten Buches.
 
 
 ###### § 286f Erstattung zu Unrecht gezahlter Pflichtbeiträge an die berufsständische Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063701119)
 
 Pflichtbeiträge, die auf Grund einer Befreiung nach § 231 Absatz 4b
 und 4d zu Unrecht entrichtet wurden, werden abweichend von § 211 und
@@ -19014,6 +19524,7 @@ eine Erstattung nach den allgemeinen Vorschriften aus.
 
 
 ###### § 286g Erstattung von nach dem 21. Juli 2009 gezahlten freiwilligen Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063800119)
 
 Nach dem 21. Juli 2009 gezahlte freiwillige Beiträge werden auf Antrag
 in voller Höhe erstattet, wenn
@@ -19036,6 +19547,7 @@ unberührt.
 
 
 ###### § 286h Erstattung zu Unrecht gezahlter Beiträge für Bezieher von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067500126)
 
 Pflichtbeiträge, die auf Grund einer Befreiung nach § 231 Absatz 10 zu
 Unrecht entrichtet wurden, werden abweichend von § 211 von der
@@ -19049,10 +19561,12 @@ nach § 186 gezahlt worden sind.
 
 
 ##### Vierter Titel - Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009001308)
 
 
 
 ###### § 287 Beitragssatzgarantie bis 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039208377)
 
 (1) Überschreitet der Beitragssatz in der allgemeinen
 Rentenversicherung bis zum Jahr 2025 nach § 158 20 Prozent, ist dieser
@@ -19079,6 +19593,7 @@ Kalenderjahr nach § 213 Absatz 3.
 
 
 ###### § 287a Veränderung des allgemeinen Bundeszuschusses für das Jahr 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048807126)
 
 Für die Bestimmung des allgemeinen Bundeszuschusses nach § 213 Absatz
 2 für das Jahr 2025 sind abweichend von § 228b die für das
@@ -19087,6 +19602,7 @@ Bundesgebiet ohne das Beitrittsgebiet ermittelten Bruttolöhne und
 
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE048908119)
 
 Die jährlichen Ausgaben für Leistungen zur Teilhabe werden in der Zeit
 vom 1. Januar 2014 bis zum 31. Dezember 2050 bedarfsgerecht unter
@@ -19201,6 +19717,7 @@ folgt festgesetzt:
 
 
 ###### § 287c Förderung für sonstige Leistungen der Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049003126)
 
 Der Bund überträgt an die allgemeine Rentenversicherung zusätzlich zu
 den Zuschüssen des Bundes nach den §§ 213 und 287e in den
@@ -19210,6 +19727,7 @@ Die Auszahlung führt das Bundesamt für Soziale Sicherung durch.
 
 
 ###### § 287d Erstattungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049105126)
 
 (1) Der Bund erstattet den Trägern der Rentenversicherung im
 Beitrittsgebiet die Aufwendungen für Kriegsbeschädigtenrenten und für
@@ -19234,6 +19752,7 @@ Abs. 1 entsprechend anzuwenden.
 
 
 ###### § 287e Veränderung des Bundeszuschusses im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049204308)
 
 (1) § 213 Abs. 2 gilt für die Bundesrepublik Deutschland ohne das
 Beitrittsgebiet.
@@ -19256,6 +19775,7 @@ Beitragseinnahmen buchhalterisch aufzuteilen.
 
 
 ###### § 287f Getrennte Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049303119)
 
 Die Abrechnung und die Verteilung nach § 227 Absatz 1 und 1a erfolgen
 für Zahlungen bis zum Jahr 2024 für die Bundesrepublik Deutschland
@@ -19263,6 +19783,7 @@ ohne das Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
 
 ###### § 287g Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses in den Jahren 2024 bis 2027
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068001126)
 
 Der Erhöhungsbetrag nach § 213 Absatz 4 wird in den Jahren 2024 bis
 2027 jeweils um 1,2 Milliarden Euro gemindert. Bei der Feststellung
@@ -19271,15 +19792,18 @@ der Abzugsbetrag nach Satz 1 nicht zu berücksichtigen.
 
 
 ###### § 288
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039404308)
 
 (weggefallen)
 
 
 ##### Fünfter Titel - Erstattungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009101308)
 
 
 
 ###### § 289 Wanderversicherungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039504308)
 
 (1) Hat ein Träger der allgemeinen Rentenversicherung eine
 Gesamtleistung mit einem knappschaftlichen Leistungsanteil
@@ -19304,6 +19828,7 @@ entsprechend.
 
 
 ###### § 289a Besonderheiten beim Wanderversicherungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049403301)
 
 Wurde der letzte Beitrag bis zum 31. Dezember 1991 im Beitrittsgebiet
 gezahlt, erstatten die Regionalträger im Beitrittsgebiet der Deutschen
@@ -19316,6 +19841,7 @@ entsprechend § 227 durch.
 
 
 ###### § 290 Erstattung durch den Träger der Versorgungslast
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039601308)
 
 Die Aufwendungen des Trägers der Rentenversicherung aufgrund von
 Rentenanwartschaften, die durch Entscheidung des Familiengerichts vor
@@ -19337,6 +19863,7 @@ Versorgungslast
 
 
 ###### § 290a Erstattung durch den Träger der Versorgungslast im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049501308)
 
 Bei Renten, die nach den Vorschriften des Beitrittsgebiets berechnet
 worden sind, werden die Aufwendungen der Träger der Rentenversicherung
@@ -19347,6 +19874,7 @@ Versorgungslast erstattet.
 
 
 ###### § 291 Erstattungen für Anrechnungszeiten für den Bezug von Anpassungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039706126)
 
 (1) Zum Ausgleich der Aufwendungen, die der Rentenversicherung für
 Anrechnungszeiten nach § 252 Absatz 1 Nummer 1a entstehen, zahlt die
@@ -19383,6 +19911,7 @@ Rentenversicherung Bund.
 
 
 ###### § 291a Erstattung von Invalidenrenten und Aufwendungen für Pflichtbeitragszeiten bei Erwerbsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049602308)
 
 (1) Der Bund erstattet den Trägern der Rentenversicherung die
 Aufwendungen für Rententeile aus der Anrechnung von
@@ -19395,12 +19924,14 @@ Menschen.
 
 
 ###### § 291b Erstattung nicht beitragsgedeckter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055603308)
 
 Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die
 Aufwendungen für Leistungen nach dem Fremdrentenrecht.
 
 
 ###### § 291c Anschubfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055905311)
 
 Der Bund überträgt an die allgemeine Rentenversicherung im
 Kalenderjahr 2023 Mittel in Höhe von 4,1 Millionen Euro zur pauschalen
@@ -19411,6 +19942,7 @@ Absatz 3c Satz 1 des Elften Buches.
 
 
 ###### § 292 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039807308)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -19432,6 +19964,7 @@ vorgesehen werden kann.
 
 
 ###### § 292a Verordnungsermächtigung für das Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049707124)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
@@ -19444,10 +19977,12 @@ Rentenversicherung durch.
 
 
 ##### Sechster Titel - Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009202308)
 
 
 
 ###### § 293 Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE039909126)
 
 (1) Das am 1. Januar 1992 vorhandene Rücklagevermögen der Deutschen
 Rentenversicherung Knappschaft-Bahn-See als Träger der
@@ -19471,10 +20006,12 @@ gehalten werden.
 
 
 #### Zwölfter Unterabschnitt - Leistungen für Kindererziehung an Mütter der Geburtsjahrgänge vor 1921
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009301308)
 
 
 
 ##### § 294 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040004308)
 
 (1) Eine Mutter, die vor dem 1. Januar 1921 geboren ist, erhält für
 jedes Kind, das sie im Gebiet der Bundesrepublik Deutschland lebend
@@ -19538,6 +20075,7 @@ Personen gehört.
 
 
 ##### § 294a Besonderheiten für das Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049801308)
 
 Hatte eine Mutter am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
 Beitrittsgebiet und bestand für sie am 31. Dezember 1991 ein Anspruch
@@ -19550,6 +20088,7 @@ ist.
 
 
 ##### § 295 Höhe der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040106126)
 
 Monatliche Höhe der Leistung für Kindererziehung ist das 2,5-Fache des
 für die Berechnung von Renten jeweils maßgebenden aktuellen
@@ -19557,10 +20096,12 @@ Rentenwerts.
 
 
 ##### § 295a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE049906119)
 
 
 
 ##### § 296 Beginn und Ende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040201308)
 
 (1) Eine Leistung für Kindererziehung wird von dem Kalendermonat an
 gezahlt, zu dessen Beginn die Anspruchsvoraussetzungen erfüllt sind.
@@ -19576,11 +20117,13 @@ die Berechtigte gestorben ist.
 
 
 ##### § 296a
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050002308)
 
 (weggefallen)
 
 
 ##### § 297 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040302308)
 
 (1) Zuständig für die Leistung für Kindererziehung ist der
 Versicherungsträger, der der Mutter eine Versichertenrente zahlt.
@@ -19604,6 +20147,7 @@ die Mutter weiterzuleiten.
 
 
 ##### § 298 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040402308)
 
 (1) Die Mutter hat das Jahr ihrer Geburt, ihren Familiennamen
 (jetziger und früherer Name mit Namensbestandteilen), ihren Vornamen
@@ -19641,6 +20185,7 @@ statt zugelassen werden.
 
 
 ##### § 299 Anrechnungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040502308)
 
 Die Leistung für Kindererziehung bleibt als Einkommen
 unberücksichtigt, wenn bei Sozialleistungen aufgrund von
@@ -19653,14 +20198,17 @@ für Kindererziehung bezogen wird.
 
 
 ### Zweiter Abschnitt - Ausnahmen von der Anwendung neuen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009401308)
 
 
 
 #### Erster Unterabschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009501308)
 
 
 
 ##### § 300 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040604308)
 
 (1) Vorschriften dieses Gesetzbuchs sind von dem Zeitpunkt ihres
 Inkrafttretens an auf einen Sachverhalt oder Anspruch auch dann
@@ -19697,10 +20245,12 @@ Vorschriften etwas anderes bestimmt ist.
 
 
 #### Zweiter Unterabschnitt - Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009602308)
 
 
 
 ##### § 301 Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040709126)
 
 (1) Für Leistungen zur Teilhabe sind bis zum Ende der Leistungen die
 Vorschriften weiter anzuwenden, die im Zeitpunkt der Antragstellung
@@ -19733,6 +20283,7 @@ nach § 15 Absatz 3 erfüllt sind.
 
 
 ##### § 301a Einmalzahlungs-Neuregelungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE056701308)
 
 (1) Für die Ermittlung der Berechnungsgrundlage für Ansprüche auf
 Übergangsgeld, die vor dem 1. Januar 2001 entstanden sind, ist § 47
@@ -19752,10 +20303,12 @@ Buches zurückzunehmen.
 
 
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009701308)
 
 
 
 ##### § 302 Anspruch auf Altersrente in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040821126)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine Rente aus eigener
 Versicherung und ist der Versicherte vor dem 2. Dezember 1926 geboren,
@@ -19805,6 +20358,7 @@ konkreter Verdienstausfall ersetzt wird.
 
 
 ##### § 302a Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050113119)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine nach den
 Vorschriften des Beitrittsgebiets berechnete Invalidenrente oder eine
@@ -19844,6 +20398,7 @@ eine Bergmannsvollrente aus dem Beitrittsgebiet, wird diese Rente vom
 
 
 ##### § 302b Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052808119)
 
 (1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen
 Berufsunfähigkeit, die am 30. Juni 2017 weiterhin geleistet wurde,
@@ -19868,6 +20423,7 @@ das 60. Lebensjahr.
 
 
 ##### § 303 Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE040901308)
 
 Ist eine Versicherte vor dem 1. Januar 1986 gestorben oder haben die
 Ehegatten bis zum 31. Dezember 1988 eine wirksame Erklärung über die
@@ -19882,6 +20438,7 @@ wirtschaftlichen Dauerzustand vor dem Tod überwiegend bestritten hat.
 
 
 ##### § 303a Große Witwenrente und große Witwerrente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE054703308)
 
 Bestand am 31. Dezember 2000 Anspruch auf große Witwenrente oder große
 Witwerrente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit, besteht
@@ -19891,6 +20448,7 @@ gilt dies auch für einen Anspruch nach Ablauf der Frist.
 
 
 ##### § 304 Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041002126)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf Waisenrente für eine
 Person über deren 25. Lebensjahr hinaus, weil sie infolge körperlicher
@@ -19914,6 +20472,7 @@ nationaler Tragweite
 
 
 ##### § 305 Wartezeit und sonstige zeitliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041102308)
 
 War die Wartezeit oder eine sonstige zeitliche Voraussetzung für eine
 Rente erfüllt und bestand Anspruch auf diese Rente vor dem Zeitpunkt,
@@ -19924,10 +20483,12 @@ dies nach der Rechtsänderung nicht mehr der Fall ist.
 
 
 #### Vierter Unterabschnitt - Rentenhöhe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009801308)
 
 
 
 ##### § 306 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041203308)
 
 (1) Bestand Anspruch auf Leistung einer Rente vor dem Zeitpunkt einer
 Änderung rentenrechtlicher Vorschriften, werden aus Anlass der
@@ -19950,6 +20511,7 @@ aufzuheben, wenn der Anspruch eines Hinterbliebenen wegfällt.
 
 
 ##### § 307 Umwertung in persönliche Entgeltpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041303308)
 
 (1) Besteht am 1. Januar 1992 Anspruch auf eine Rente, werden dafür
 persönliche Entgeltpunkte ermittelt (Umwertung), indem der
@@ -19996,6 +20558,7 @@ Beitragszeiten zurückgelegt sind.
 
 
 ##### § 307a Persönliche Entgeltpunkte aus Bestandsrenten des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050204308)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine nach den
 Vorschriften des Beitrittsgebiets berechnete Rente, werden für den
@@ -20180,6 +20743,7 @@ an ohne Rücksicht auf die Bestandskraft des alten Bescheides.
 
 
 ##### § 307b Bestandsrenten aus überführten Renten des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050306308)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine nach dem Anspruchs-
 und Anwartschaftsüberführungsgesetz überführte Rente des
@@ -20298,6 +20862,7 @@ einem Zusatz- oder Sonderversorgungssystem berücksichtigt worden sind.
 
 
 ##### § 307c Durchführung der Neuberechnung von Bestandsrenten nach § 307b
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051902308)
 
 (1) Für die Neuberechnung von Bestandsrenten nach § 307b sind die
 erforderlichen Daten auch aus allen dem Berechtigten zur Verfügung
@@ -20342,6 +20907,7 @@ den weiterzuzahlenden Betrag erreicht.
 
 
 ##### § 307d Zuschlag an persönlichen Entgeltpunkten für Kindererziehung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055008124)
 
 (1) Bestand am 30. Juni 2014 Anspruch auf eine Rente, wird ab dem 1.
 Juli 2014 ein Zuschlag an persönlichen Entgeltpunkten für
@@ -20444,6 +21010,7 @@ Zuordnung zur Mutter.
 
 
 ##### § 307e Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn in den Jahren 1992 bis 2020
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066500126)
 
 (1) Bestand am 31. Dezember 2020 Anspruch auf eine Rente mit einem
 Rentenbeginn nach dem 31. Dezember 1991, wird ab dem 1. Januar 2021
@@ -20485,6 +21052,7 @@ Zuschlag an Entgeltpunkten § 307f anzuwenden.
 
 
 ##### § 307f Zuschlag an Entgeltpunkten für langjährige Versicherung bei Rentenbeginn vor dem 1. Januar 1992
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066600126)
 
 (1) Bestand am 31. Dezember 2020 Anspruch auf eine Rente mit einem
 Rentenbeginn vor dem 1. Januar 1992, wird ab dem 1. Januar 2021 ein
@@ -20581,6 +21149,7 @@ Zuschlag an Entgeltpunkten § 307e anzuwenden.
 
 
 ##### § 307g Prüfung des Zuschlags an Entgeltpunkten für langjährige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066700126)
 
 Ein Anspruch auf Prüfung des Zuschlags an Entgeltpunkten für
 langjährige Versicherung besteht nicht vor Ablauf des 31. Dezember
@@ -20589,6 +21158,7 @@ langjährige Versicherung besteht nicht vor Ablauf des 31. Dezember
 
 
 ##### § 307h Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE066800126)
 
 Bis zum 31. Dezember 2025 wird durch die Bundesregierung evaluiert, ob
 die mit der Einführung der Grundrente formulierten Ziele erreicht
@@ -20596,6 +21166,7 @@ wurden.
 
 
 ##### § 307i Zuschlag an persönlichen Entgeltpunkten bei Renten wegen Erwerbsminderung und bei Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE067401311)
 
 (1) Ein Zuschlag an persönlichen Entgeltpunkten wird ab dem 1.
 Dezember 2025 berücksichtigt, wenn am 30. November 2025 ein Anspruch
@@ -20666,6 +21237,7 @@ mit einem solchen Zuschlag
 
 
 ##### § 307j Rentenzuschlag bei Renten wegen Erwerbsminderung und Renten wegen Todes für die Zeit von Juli 2024 bis November 2025
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE068100311)
 
 (1) Ein Rentenzuschlag wird als monatliche Rentenleistung vom 1. Juli
 2024 bis zum 30. November 2025 gezahlt, wenn am 30. Juni 2024 ein
@@ -20739,6 +21311,7 @@ zuständigen Rentenversicherungsträgers.
 
 
 ##### § 308 Umstellungsrenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041401308)
 
 (1) Der Rentenartfaktor beträgt für Umstellungsrenten, die als Renten
 wegen Erwerbsunfähigkeit gelten, 0,8667.
@@ -20758,6 +21331,7 @@ Vollendung des 55. Lebensjahres der Versicherten verteilt.
 
 
 ##### § 309 Neufeststellung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041505119)
 
 (1) Eine nach den Vorschriften dieses Buches berechnete Rente ist auf
 Antrag von Beginn an nach dem am 1. Januar 1996 geltenden Recht neu
@@ -20813,6 +21387,7 @@ geltenden Fassung anzuwenden.
 
 
 ##### § 310 Erneute Neufeststellung von Renten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041603308)
 
 Ist eine Rente, die vor dem 1. Januar 2001 nach den Vorschriften
 dieses Gesetzbuchs neu festgestellt worden war, erneut neu
@@ -20826,6 +21401,7 @@ eingetreten ist.
 
 
 ##### § 310a Neufeststellung von Renten mit Zeiten der Beschäftigung bei der Deutschen Reichsbahn oder bei der Deutschen Post
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058201308)
 
 (1) Eine nach den Vorschriften dieses Buches berechnete Rente mit
 Zeiten der Beschäftigung bei der Deutschen Reichsbahn oder bei der
@@ -20840,6 +21416,7 @@ frühestens für die Zeit ab 1. Dezember 1998.
 
 
 ##### § 310b Neufeststellung von Renten mit überführten Zeiten nach dem Anspruchs- und Anwartschaftsüberführungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058301308)
 
 Eine nach den Vorschriften dieses Buches berechnete Rente, die Zeiten
 der Zugehörigkeit zu einem Versorgungssystem nach dem Anspruchs- und
@@ -20858,6 +21435,7 @@ Anwartschaftsüberführungsgesetzes.
 
 
 ##### § 310c Neufeststellung von Renten wegen Beschäftigungszeiten während des Bezugs einer Invalidenrente
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE058500308)
 
 Wurden während des Bezugs einer Invalidenrente oder einer Versorgung
 wegen Invalidität oder wegen des Bezugs von Blindengeld oder
@@ -20878,10 +21456,12 @@ Rentenbeziehers eingetreten ist.
 
 
 #### Fünfter Unterabschnitt - Zusammentreffen von Renten und von Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG009901308)
 
 
 
 ##### § 311 Rente und Leistungen aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041704308)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine Rente nach den
 Vorschriften im Gebiet der Bundesrepublik Deutschland ohne das
@@ -21015,6 +21595,7 @@ berücksichtigen war, verbleibt es für die Leistung dieser Rente dabei.
 
 
 ##### § 312 Mindestgrenzbetrag bei Versicherungsfällen vor dem 1. Januar 1979
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041801308)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, die auf
 einem Versicherungsfall vor dem 1. Januar 1979 beruht, und ruhte diese
@@ -21070,6 +21651,7 @@ aktuellen Rentenwerts vervielfältigt wird.
 
 
 ##### § 313 Hinzuverdienst bei Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE041920126)
 
 (1) Würde sich nach den §§ 96a und 313 in der ab dem 1. Juli 2017
 geltenden Fassung am 1. Juli 2017 eine niedrigere teilweise zu
@@ -21122,6 +21704,7 @@ konkreter Verdienstausfall ersetzt wird.
 
 
 ##### § 314 Einkommensanrechnung auf Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042005119)
 
 (1) Ist der Versicherte vor dem 1. Januar 1986 gestorben oder haben
 die Ehegatten bis zum 31. Dezember 1988 eine wirksame Erklärung über
@@ -21152,6 +21735,7 @@ Anwendung.
 
 
 ##### § 314a Einkommensanrechnung auf Renten wegen Todes aus dem Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050504119)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf Witwenrente oder
 Witwerrente aufgrund des im Beitrittsgebiet geltenden Rechts oder
@@ -21169,10 +21753,12 @@ wegen Todes angewendet.
 
 
 #### Sechster Unterabschnitt - Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010001308)
 
 
 
 ##### § 315 Zuschuss zur Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042102301)
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf einen Zuschuss zu den
 Aufwendungen für die Krankenversicherung und war der Berechtigte
@@ -21210,6 +21796,7 @@ Berechtigten weitergeleistet.
 
 
 ##### § 315a Auffüllbetrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050603308)
 
 Ist der für den Berechtigten nach Anwendung des § 307a ermittelte
 Monatsbetrag der Rente für Dezember 1991 niedriger als der für
@@ -21238,6 +21825,7 @@ Rentenanpassungen im Umfang dieser Rentenanpassungen abgeschmolzen.
 
 
 ##### § 315b Renten aus freiwilligen Beiträgen des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050702308)
 
 Bestand am 31. Dezember 1991 Anspruch auf eine
 
@@ -21260,15 +21848,18 @@ Betrages weitergeleistet.
 
 
 ##### § 316
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042202308)
 
 (weggefallen)
 
 
 #### Siebter Unterabschnitt - Leistungen an Berechtigte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010102308)
 
 
 
 ##### § 317 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042309377)
 
 (1) Bestand Anspruch auf Leistung einer Rente vor dem Zeitpunkt, von
 dem an geänderte Vorschriften über Leistungen an Berechtigte im
@@ -21305,6 +21896,7 @@ hatten.
 
 
 ##### § 317a Neufeststellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE063102124)
 
 (1) Eine nach den Vorschriften dieses Buches berechnete Rente, in der
 die persönlichen Entgeltpunkte zu 70 vom Hundert berücksichtigt
@@ -21331,10 +21923,12 @@ anzuwenden.
 
 
 ##### § 318 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042403119)
 
 
 
 ##### § 319 Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042502308)
 
 (1) Bestand am 31. Dezember 1991 bei gewöhnlichem Aufenthalt im
 Ausland Anspruch auf einen Zuschuss zu den Aufwendungen für die
@@ -21348,10 +21942,12 @@ Rente nur, wenn sie bei gewöhnlichem Aufenthalt im Ausland hierauf am
 
 
 #### Achter Unterabschnitt - Zusatzleistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010302308)
 
 
 
 ##### § 319a Rentenzuschlag bei Rentenbeginn in den Jahren 1992 und 1993
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050802308)
 
 Ist der für den Berechtigten nach Anwendung der Vorschriften dieses
 Buches ermittelte Monatsbetrag der Rente bei Rentenbeginn in der Zeit
@@ -21370,10 +21966,12 @@ Rentenanpassungen abgeschmolzen.
 
 
 #### Neunter Unterabschnitt - Leistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010601308)
 
 
 
 ##### § 319b Übergangszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE052001308)
 
 Besteht für denselben Zeitraum Anspruch auf Leistungen nach den
 Vorschriften dieses Buches und auf solche nach dem Übergangsrecht für
@@ -21397,9 +21995,11 @@ Vorschriften dieses Buches gezahlt.
 
 
 #### Elfter Unterabschnitt - Gesetz zur Regelung des Sozialen Entschädigungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010602126)
 
 
 ##### § 319d Berücksichtigung von Versorgungskrankengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE065100126)
 
 Bei der Anwendung von § 3 Satz 1 Nummer 3, § 20 Nummer 3 Buchstabe b,
 § 96a Absatz 3 Satz 1 Nummer 2, § 163 Absatz 5 Satz 2, § 166 Absatz 1
@@ -21409,10 +22009,12 @@ Versorgungskrankengeld als Krankengeld der Sozialen Entschädigung.
 
 
 ## Sechstes Kapitel - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG010201308)
 
 
 
 ### § 320 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042604119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -21436,6 +22038,7 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ### § 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053607308)
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die
 Rentenversicherungsträger im Rahmen der Prüfung bei den Arbeitgebern
@@ -21491,10 +22094,12 @@ erforderlich sind.
 
 
 ### § 322 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE065201126)
 
 
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042736126)
 
 (Fundstelle: BGBl. I 2002, 869 - 870,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -22344,6 +22949,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042838126)
 
 (Fundstelle: BGBl. I 2002, 871,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -23058,6 +23664,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE050937126)
 
 (Fundstelle: BGBl. I 2002, 872,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -23327,6 +23934,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 2b Jährliche Höchstwerte an Entgeltpunkten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055302308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 873,
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -23944,6 +24552,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 3 Entgeltpunkte für Beiträge nach Lohn-, Beitrags- oder Gehaltsklassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE042901308)
 
 (Fundstelle: BGBl. I 2002, 875 - 876)
 
@@ -24928,6 +25537,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 4 Beitragsbemessungsgrundlage für Beitragsklassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043001308)
 
 < Fundstelle des Originaltextes: BGBl. I 2002, 877 >
 
@@ -25277,6 +25887,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 5 Entgeltpunkte für Berliner Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043101308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 878
 
@@ -25413,6 +26024,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
 
 
 ### Anlage 6 Werte zur Umrechnung der Beitragsbemessungsgrundlagen von Franken in Deutsche Mark
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043201308)
 
 < Fundstelle des Originaltextes: BGBl. I 2002, 878 >
 
@@ -25493,6 +26105,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
 
 
 ### Anlage 7 Entgeltpunkte für saarländische Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043301308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 879 - 880
 
@@ -26711,6 +27324,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 879 - 880
 
 
 ### Anlage 8 Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM/DM für Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043401308)
 
 (Fundstelle: BGBl. I 2002, 881 - 882)
 
@@ -27305,6 +27919,7 @@ Hierzu gehören u.a.:
 
 
 ### Anlage 9
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE043502308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 883 - 885
 
@@ -27757,6 +28372,7 @@ Hauerarbeiten sind auch Zeiten, in denen ein Versicherter
 
 
 ### Anlage 10 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051032126)
 
 (Fundstelle: BGBl. I 2002, 886,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -28265,6 +28881,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051101308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 887
 
@@ -28381,6 +28998,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 887
 
 
 ### Anlage 12 Gesamtdurchschnittseinkommen zur Umwertung der anpassungsfähigen Bestandsrenten des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051202308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 888
 
@@ -28683,6 +29301,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 888
 
 
 ### Anlage 13 Definition der Qualifikationsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051301308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 889
 
@@ -28839,6 +29458,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 889
 
 
 ### Anlage 14
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051413308)
 
 (Fundstelle: BGBl. I 2002, 890 - 913,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -49451,6 +50071,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 15 Entgeltpunkte für glaubhaft gemachte Beitragszeiten mit freiwilligen Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051501308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 914
 
@@ -49714,6 +50335,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 914
 
 
 ### Anlage 16 Höchstverdienste bei glaubhaft gemachten Beitragszeiten ohne freiwillige Zusatzrentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051602308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 915
 
@@ -49826,16 +50448,19 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 
 
 ### Anlage 17
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE051703308)
 
 (weggefallen)
 
 
 ### Anlage 18
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053203308)
 
 (weggefallen)
 
 
 ### Anlage 19
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053303308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 917;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -51173,6 +51798,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ### Anlage 20
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053402308)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 918
 
@@ -52038,16 +52664,19 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
 
 ### Anlage 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE053503301)
 
 -
 
 
 ### Anlage 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055405301)
 
 -
 
 
 ### Anlage 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE055504301)
 
 -
 
@@ -52055,6 +52684,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III
 (BGBl. II 1990, 889, 1060)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNE888800308)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

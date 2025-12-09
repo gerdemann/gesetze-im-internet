@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000100000)
 
 Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1
 Nummer 27 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786)
@@ -33,6 +34,7 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Inhalt und Aufbau des Registers
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000200000)
 
 (1) Das Register enthält die Schutzschriften, die ihm gemäß § 945a
 Absatz 1 Satz 1 der Zivilprozessordnung übermittelt worden sind.
@@ -63,6 +65,7 @@ toleriert werden.
 
 
 ## § 2 Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000303125)
 
 (1) Zur Einreichung einer Schutzschrift bei dem Register ist jeder
 berechtigt, der eine Schutzschrift gemäß § 945a Absatz 1 Satz 2 der
@@ -116,6 +119,7 @@ technischen Rahmenbedingungen unverzüglich mitzuteilen.
 
 
 ## § 3 Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000400000)
 
 (1) Eine dem Register elektronisch übermittelte Schutzschrift ist
 unverzüglich nach ihrer ordnungsgemäßen Einreichung zum elektronischen
@@ -133,6 +137,7 @@ Zeitpunkt der Einstellung zu erteilen.
 
 
 ## § 4 Abruf
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000500000)
 
 (1) Abruf ist jede Suchanfrage bei dem Register.
 
@@ -153,6 +158,7 @@ Gericht unverzüglich mitgeteilt.
 
 
 ## § 5 Protokollierungs- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000600000)
 
 (1) Jeder Abruf ist unter Angabe des Gerichts, des gerichtlichen
 Aktenzeichens, sofern ein solches bereits vergeben wurde, der
@@ -175,6 +181,7 @@ das abrufende Gericht und das gerichtliche Aktenzeichen enthält.
 
 
 ## § 6 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000700000)
 
 (1) Der Betreiber des Registers stellt sicher, dass Schutzschriften
 sechs Monate nach ihrer Einstellung gelöscht werden. Die gemäß § 2
@@ -194,6 +201,7 @@ Feststellung der Unzulässigkeit unverzüglich zu löschen.
 
 
 ## § 7 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000800000)
 
 Der Betreiber des Registers hat durch organisatorische und technische
 Vorkehrungen sicherzustellen, dass die eingereichten Daten während
@@ -202,6 +210,7 @@ sowie gegen unbefugte Kenntnisnahme Dritter geschützt sind.
 
 
 ## § 8 Störungen
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE000900000)
 
 Der Betreiber des Registers hat durch organisatorische und technische
 Vorkehrungen sicherzustellen, dass er von auftretenden Störungen
@@ -209,6 +218,7 @@ unverzüglich Kenntnis erlangt. Störungen sind unverzüglich zu beheben.
 
 
 ## § 9 Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE001000000)
 
 Der Betreiber des Registers hat durch organisatorische und technische
 Vorkehrungen sicherzustellen, dass für blinde und sehbehinderte
@@ -219,6 +229,7 @@ Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE001100000)
 
 (1) § 2 Absatz 4 Satz 2, Absatz 5 Nummer 2 und 3 dieser Verordnung
 tritt am 1. Januar 2017 in Kraft.
@@ -230,6 +241,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/srv/BJNR213500015.html#BJNR213500015BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

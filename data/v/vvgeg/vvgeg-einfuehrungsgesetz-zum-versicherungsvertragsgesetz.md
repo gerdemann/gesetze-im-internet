@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000101377)
 
 (1) Auf Versicherungsverhältnisse, die bis zum Inkrafttreten des
 Versicherungsvertragsgesetzes vom 23. November 2007 (BGBl. I S. 2631)
@@ -48,6 +49,7 @@ Januar 2008 anzuwenden.
 
 
 ## Art 2 Vollmacht des Versicherungsvertreters, Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000201377)
 
 Auf Altverträge sind die folgenden Vorschriften des
 Versicherungsvertragsgesetzes bereits ab 1. Januar 2008 anzuwenden:
@@ -68,6 +70,7 @@ Versicherungsvertragsgesetzes bereits ab 1. Januar 2008 anzuwenden:
 
 
 ## Art 3 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000301377)
 
 (1) § 195 des Bürgerlichen Gesetzbuchs ist auf Ansprüche anzuwenden,
 die am 1. Januar 2008 noch nicht verjährt sind.
@@ -94,6 +97,7 @@ maßgebend sind.
 
 
 ## Art 4 Lebensversicherung, Berufsunfähigkeitsversicherung
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000401377)
 
 (1) § 153 des Versicherungsvertragsgesetzes ist auf Altverträge nicht
 anzuwenden, wenn eine Überschussbeteiligung nicht vereinbart worden
@@ -112,6 +116,7 @@ anzuwenden.
 
 
 ## Art 5 Rechte der Gläubiger von Grundpfandrechten
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000501377)
 
 (1) Rechte, die Gläubigern von Grundpfandrechten gegenüber dem
 Versicherer nach den §§ 99 bis 107c des Gesetzes über den
@@ -150,6 +155,7 @@ erlischt mit Ablauf des 31. Dezember 2008.
 
 
 ## Art 6 Versicherungsverhältnisse nach § 190 des Gesetzes über den Versicherungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000601377)
 
 Das Versicherungsvertragsgesetz gilt nicht für die in § 190 des
 Gesetzes über den Versicherungsvertrag in der bis zum 31. Dezember
@@ -157,6 +163,7 @@ Gesetzes über den Versicherungsvertrag in der bis zum 31. Dezember
 
 
 ## Art 7 Krankenversicherung, Versicherungsverhältnisse nach § 193 Absatz 6 des Versicherungsvertragsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE001601118)
 
 Versicherungsnehmer, für die am 1. August 2013 das Ruhen der
 Leistungen gemäß § 193 Absatz 6 des Versicherungsvertragsgesetzes
@@ -183,6 +190,7 @@ Zugang des Hinweises beim Versicherer eingehen.
 
 
 ## Art 8 Musterwiderrufsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000802119)
 
 Das Muster in der Anlage des Versicherungsvertragsgesetzes in der bis
 einschließlich 14. Juni 2021 geltenden Fassung kann noch bis zum
@@ -192,6 +200,7 @@ des Versicherungsvertragsgesetzes in der bis einschließlich 14. Juni
 
 
 ## Art 9 Übergangsvorschrift zu § 7a Absatz 5 des Versicherungsvertragsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000902128)
 
 § 7a Absatz 5 des Versicherungsvertragsgesetzes in der ab dem 1.
 Januar 2025 geltenden Fassung ist nur auf Restschuldversicherungen
@@ -200,5 +209,6 @@ beziehen, der nach dem 1. Januar 2025 abgeschlossen wurde.
 
 
 ## (XXXX) Art 10 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vvgeg/BJNR003050908.html#BJNR003050908BJNE000706128)
 
 

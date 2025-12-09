@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000400314)
 
 Auf Grund des § 80 Abs. 9 und 10 des Gesetzes gegen
 Wettbewerbsbeschränkungen in der Fassung des Gesetzes zur Änderung von
@@ -31,10 +32,12 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Erster Abschnitt - Kosten der Kartellbehörden
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000501360)
 
 (1) In Verwaltungsverfahren erheben die nach § 44 Abs. 1 des Gesetzes
 gegen Wettbewerbsbeschränkungen (Gesetz) zuständigen Kartellbehörden
@@ -49,6 +52,7 @@ Gebührenerhebung abgesehen wird.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000600314)
 
 (1) Die Gebührenschuld entsteht, soweit ein Antrag oder eine Anmeldung
 notwendig ist, mit dem Eingang des Antrags oder der Anmeldung bei der
@@ -60,6 +64,7 @@ Aufwendung des zu erstattenden Betrages.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000700314)
 
 Wegen irrigen Ansatzes dürfen Kosten nur nachgefordert werden, wenn
 der berichtigte Ansatz dem Kostenschuldner in dem Kalenderjahr, in dem
@@ -69,6 +74,7 @@ Kalenderjahr mitgeteilt worden ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000801118)
 
 (1) Die Kosten werden von Amts wegen festgesetzt. Die Entscheidung
 über die Kosten soll, soweit möglich, zusammen mit der
@@ -99,6 +105,7 @@ für die Erhebung der Kosten sowie deren Berechnung anzugeben.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE000901118)
 
 (1) Mit dem Ablauf der in § 80 Abs. 8 des Gesetzes bestimmten
 Verjährungsfristen erlöschen die Ansprüche auf Zahlung der Gebühren
@@ -128,6 +135,7 @@ auf andere Weise erledigt hat.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001000314)
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
 erstatten, zu Unrecht erhobene Kosten jedoch nur, soweit eine
@@ -142,6 +150,7 @@ jedoch nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001101360)
 
 (1) Kostenentscheidungen der Kartellbehörden und Anforderungen von
 Vorschüssen oder Sicherheitsleistungen nach § 16 des
@@ -154,10 +163,12 @@ die Kostenentscheidung unanfechtbar geworden ist.
 
 
 ## Zweiter Abschnitt - Erstattung von Kosten durch Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNG000200314)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001200314)
 
 (1) Die Kartellbehörde kann anordnen, daß die einem Beteiligten
 entstandenen Kosten, soweit sie zur zweckentsprechenden Erledigung der
@@ -181,6 +192,7 @@ Gesetzes.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001300314)
 
 Aus der Festsetzung der Kosten nach § 8 Abs. 2 findet die
 Zwangsvollstreckung nach den Vorschriften der Zivilprozeßordnung über
@@ -196,10 +208,12 @@ Sitz hat, an die Stelle des Prozeßgerichts.
 
 
 ## Dritter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNG000300314)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001400314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 107 des
@@ -207,6 +221,7 @@ Gesetzes auch im Land Berlin.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/kartkostv/BJNR015350970.html#BJNR015350970BJNE001500314)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

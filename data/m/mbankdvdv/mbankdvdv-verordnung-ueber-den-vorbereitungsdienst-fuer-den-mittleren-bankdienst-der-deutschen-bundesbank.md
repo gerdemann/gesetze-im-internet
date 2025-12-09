@@ -22,9 +22,11 @@ Geändert durch
 Stand: Ersetzt V 2030-8-3-2 v. 11.8.2011 I 1717 (MBankDAPrV)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000201129)
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
 Vorbereitungsdienst für die Laufbahn des mittleren Bankdienstes. Der
@@ -34,6 +36,7 @@ in der Regel 21 Monate.
 
 
 ### § 2 Ausbildungsziele
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000300000)
 
 Die Ausbildung vermittelt das theoretische Wissen sowie die
 berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung
@@ -44,12 +47,14 @@ werden.
 
 
 ### § 3 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000400000)
 
 Erholungsurlaub wird nur während der berufspraktischen Ausbildung
 gewährt.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000501129)
 
 (1) Schwerbehinderten und diesen gleichgestellten Menschen mit
 Behinderungen werden im Auswahlverfahren, bei Leistungstests sowie in
@@ -69,6 +74,7 @@ Prüfungskommission.
 
 
 ### § 5 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000600000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden, soweit in
 dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
@@ -245,9 +251,11 @@ Rangpunktzahlen auf zwei Nachkommastellen ohne Rundung berechnet.
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNG000200000)
 
 
 ### § 6 Auswahlverfahren und Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000701129)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 für die Ernennung der Beamtinnen und Beamten der Deutschen Bundesbank
@@ -295,6 +303,7 @@ Auswahlverfahren geltende Fassung.
 
 
 ### § 7 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000801129)
 
 (1) Für die Durchführung des Auswahlverfahrens werden eine oder bei
 Bedarf mehrere Auswahlkommissionen gebildet. Die Mitglieder der
@@ -326,12 +335,14 @@ dies erfordern.
 
 
 ### § 8 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE000900000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 9 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001001129)
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus zwei
 Abschnitten, und zwar aus
@@ -349,6 +360,7 @@ Persönlichkeitstest.
 
 
 ### § 10 Mündlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001101129)
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus zwei
 Abschnitten, und zwar aus
@@ -372,6 +384,7 @@ in den Auswahlrichtlinien festgelegt.
 
 
 ### § 11 Bewertung der im Auswahlverfahren erbrachten Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001200000)
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten
 Leistungen gelten folgende Noten und Notendefinitionen:
@@ -482,6 +495,7 @@ auf die zweite Nachkommastelle gerundet.
 
 
 ### § 12 Ausschluss von der weiteren Teilnahme am Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001300000)
 
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am
 Auswahlverfahren ausgeschlossen, wenn
@@ -499,6 +513,7 @@ Auswahlverfahren ausgeschlossen, wenn
 
 
 ### § 13 Gesamtergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001401129)
 
 (1) Für die Ermittlung des Gesamtergebnisses des Auswahlverfahrens
 werden gewichtet:
@@ -529,9 +544,11 @@ sind innerhalb der Fristen nach Satz 2 zu löschen.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNG000300000)
 
 
 ### § 14 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001500000)
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die
 erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner
@@ -562,6 +579,7 @@ zu entlasten.
 
 
 ### § 15 Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001600000)
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
 erlässt einen Ausbildungsrahmenplan, der die Lerninhalte, die
@@ -584,6 +602,7 @@ Ausbildungsleiterin oder der Ausbildungsleiter
 
 
 ### § 16 Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001700000)
 
 (1) Die fachtheoretische Ausbildung dauert mindestens sechs Monate.
 Sie umfasst Ausbildungslehrgänge mit einer Gesamtdauer von mindestens
@@ -638,6 +657,7 @@ Die Bewertung ist der Anwärterin oder dem Anwärter zu erläutern.
 
 
 ### § 17 Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001800000)
 
 (1) Während der berufspraktischen Ausbildung sollen die Anwärterinnen
 und Anwärter die wesentlichen Aufgaben im mittleren Bankdienst unter
@@ -664,6 +684,7 @@ bekannt zu geben und mit ihr oder ihm zu besprechen.
 
 
 ### § 18 Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE001900000)
 
 Über den Erfolg der Ausbildung erstellt die Ausbildungsleiterin oder
 der Ausbildungsleiter ein zusammenfassendes Zeugnis, in dem die
@@ -675,15 +696,18 @@ eine Ausfertigung des zusammenfassenden Zeugnisses.
 
 
 ## Abschnitt 4 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNG000400000)
 
 
 ### § 19 Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002000000)
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer
 mündlichen Abschlussprüfung.
 
 
 ### § 20 Organisation
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002100000)
 
 Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
 organisiert die Laufbahnprüfung. Sie hat
@@ -720,6 +744,7 @@ organisiert die Laufbahnprüfung. Sie hat
 
 
 ### § 21 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002200000)
 
 (1) Eine Prüfungskommission besteht in der Regel aus
 
@@ -738,6 +763,7 @@ Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 
 
 ### § 22 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002300000)
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine
 Ausbildungsrangpunktzahl von mindestens 5,00 erreicht hat. Über die
@@ -781,6 +807,7 @@ rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 
 
 ### § 23 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002401129)
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens
 zwei Klausuren der schriftlichen Abschlussprüfung mindestens fünf
@@ -832,6 +859,7 @@ Prüfungskommission gebilligt worden ist.
 
 
 ### § 24 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002500000)
 
 (1) Bei Fernbleiben oder Rücktritt von einem Teil der Abschlussprüfung
 ohne Genehmigung der obersten Dienstbehörde oder einer von ihr
@@ -856,6 +884,7 @@ bestimmte Stelle fest.
 
 
 ### § 25 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002600000)
 
 (1) Anwärterinnen oder Anwärtern, die bei einem Teil der
 Abschlussprüfung täuschen, eine Täuschung versuchen oder daran
@@ -888,6 +917,7 @@ anzuhören.
 
 
 ### § 26 Bestehen der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002700000)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -938,6 +968,7 @@ kurz mündlich.
 
 
 ### § 27 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002800000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis, das die in der schriftlichen und mündlichen
@@ -950,6 +981,7 @@ Bescheid über die nicht bestandene Laufbahnprüfung.
 
 
 ### § 28 Prüfungsakte, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE002901129)
 
 (1) Die Klausuren der schriftlichen Abschlussprüfung und das Protokoll
 der mündlichen Abschlussprüfung sowie eine Ausfertigung des
@@ -969,6 +1001,7 @@ Akte zu vermerken.
 
 
 ### § 29 Wiederholung der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mbankdvdv/BJNR331610017.html#BJNR331610017BJNE003000000)
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle
 bestimmt nach Anhörung der oder des Vorsitzenden der

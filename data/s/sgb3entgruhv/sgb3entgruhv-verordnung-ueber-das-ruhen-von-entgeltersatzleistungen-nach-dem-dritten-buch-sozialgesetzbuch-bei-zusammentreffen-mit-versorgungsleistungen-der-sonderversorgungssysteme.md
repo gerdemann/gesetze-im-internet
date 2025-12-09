@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb3entgruhv/BJNR335900997.html#BJNR335900997BJNE000100310)
 
 Auf Grund des § 151 Abs. 2 Nr. 3 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -28,6 +29,7 @@ S. 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb3entgruhv/BJNR335900997.html#BJNR335900997BJNE000201140)
 
 (1) Der Altersrente im Sinne des § 156 Absatz 1 Nummer 4 des Dritten
 Buches Sozialgesetzbuch stehen folgende Versorgungsleistungen der
@@ -81,6 +83,7 @@ Versorgungsleistung die verminderte Versorgung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sgb3entgruhv/BJNR335900997.html#BJNR335900997BJNE000302140)
 
 Der Rente wegen voller Erwerbsminderung im Sinne des § 156 Absatz 1
 Nummer 3 des Dritten Buches Sozialgesetzbuch steht die
@@ -90,11 +93,13 @@ Satz 2 gilt entsprechend.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sgb3entgruhv/BJNR335900997.html#BJNR335900997BJNE000401308)
 
 Diese Verordnung gilt nicht für das Kurzarbeitergeld.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sgb3entgruhv/BJNR335900997.html#BJNR335900997BJNE000500310)
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 

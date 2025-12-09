@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000100000)
 
 Auf Grund des § 3 Absatz 6, der §§ 17a und 23 Absatz 3 und 5 des
 Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von
@@ -32,9 +33,11 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## 1. Abschnitt - Güterkraftverkehr mit Gemeinschaftslizenzen
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000100000)
 
 
 ### § 1 Erteilung und Entziehung der Gemeinschaftslizenz
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000200000)
 
 (1) Für die Gemeinschaftslizenz im Sinne der Verordnung (EG) Nr.
 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober
@@ -70,6 +73,7 @@ und sind mit einem Trockenprägestempel zu stempeln.
 
 
 ### § 2 Änderungsmitteilung und Urkundenänderung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000302123)
 
 Ändert sich nach der Erteilung der Gemeinschaftslizenz eine der in
 Artikel 16 Absatz 2 Buchstabe a bis d der Verordnung (EG) Nr.
@@ -88,6 +92,7 @@ unverzüglich vorzulegen.
 
 
 ### § 3 Zuständigkeiten des Bundesamtes für Logistik und Mobilität (Bundesamt)
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000401123)
 
 Das Bundesamt für Logistik und Mobilität (Bundesamt) ist zuständig für
 die Unterrichtungen nach Artikel 17 Absatz 1 und 2 und die Maßnahmen
@@ -95,9 +100,11 @@ nach Artikel 13 Absatz 2 der Verordnung (EG) Nr. 1072/2009.
 
 
 ## 2. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit CEMT-Genehmigungen und CEMT-Umzugsgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000200000)
 
 
 ### § 4 Geltungsbereich, Erteilung und Entziehung der CEMT-Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000501305)
 
 (1) Die CEMT-Genehmigung nach der Resolution des Ministerrates der
 Europäischen Konferenz der Verkehrsminister (CEMT) über das
@@ -177,6 +184,7 @@ nicht erteilt werden.
 
 
 ### § 5 Fahrtenberichtheft
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000600000)
 
 (1) Der Unternehmer hat für jede CEMT-Genehmigung ein
 Fahrtenberichtheft entsprechend den Vorgaben in Kapitel 5 der
@@ -208,6 +216,7 @@ genannten Frist Fehlanzeige zu erstatten.
 
 
 ### § 6 Urkundenänderung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000700000)
 
 Ändert sich der Name des Unternehmers oder der Sitz des Unternehmens,
 so hat der Unternehmer die CEMT-Genehmigung und das nach § 5 Absatz 1
@@ -217,6 +226,7 @@ beide Urkunden dem Bundesamt unverzüglich zurückzugeben.
 
 
 ### § 7 CEMT-Umzugsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000800000)
 
 (1) Die CEMT-Umzugsgenehmigung im Sinne des Kapitels III Abschnitt 3.4
 der Gesamtresolution des Ministerrates der Europäischen Konferenz der
@@ -256,6 +266,7 @@ endgültig ein, so hat er sie dem Bundesamt unverzüglich zurückzugeben.
 
 
 ### § 7a Verwendung der CEMT-Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE000901305)
 
 Eine von einem Mitgliedstaat der CEMT nach der in § 4 Absatz 1
 genannten Resolution erteilten CEMT-Genehmigung berechtigt zum
@@ -292,9 +303,11 @@ Voraussetzungen:
 
 
 ## 3. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit bilateralen Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000300000)
 
 
 ### § 8 Geltung der bilateralen Genehmigung auf dem inländischen Streckenteil
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001000000)
 
 (1) Die zuständige inländische Behörde stellt einem Unternehmer,
 dessen Unternehmen seinen Sitz im Inland hat, die bilaterale
@@ -315,9 +328,11 @@ der ausstellenden Behörde unverzüglich zurückzugeben.
 
 
 ## 4. Abschnitt - Grenzüberschreitender Güterkraftverkehr mit Drittstaatengenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000400000)
 
 
 ### § 9 Geltungsbereich der Drittstaatengenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001100000)
 
 Ein Unternehmer, dessen Unternehmen seinen Sitz nicht im Inland hat,
 muss Inhaber einer Drittstaatengenehmigung sein, wenn er im
@@ -330,6 +345,7 @@ Güterkraftverkehrsgesetzes verwendet.
 
 
 ### § 10 Erteilung der Drittstaatengenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001201305)
 
 (1) Die Drittstaatengenehmigung wird einem Unternehmer erteilt, der in
 dem Staat, in dem das Unternehmen seinen Sitz hat, zum
@@ -359,6 +375,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur bestimmt hat.
 
 
 ### § 11 Unternehmer- und fahrzeugbezogene Drittstaatengenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001300000)
 
 (1) Ist die Drittstaatengenehmigung einem Unternehmer erteilt, dessen
 Unternehmen seinen Sitz in einem Mitgliedstaat der Europäischen Union,
@@ -376,6 +393,7 @@ gleichzeitig für mehr als ein Kraftfahrzeug verwenden.
 
 
 ### § 12 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001400000)
 
 Eine Drittstaatengenehmigung ist nicht erforderlich für Beförderungen,
 die nach § 2 Absatz 1 oder auf Grund von § 23 Absatz 2 und 4 des
@@ -384,9 +402,11 @@ ausgenommen sind.
 
 
 ## 5. Abschnitt - Grenzüberschreitender gewerblicher kombinierter Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000500000)
 
 
 ### § 13 Definition
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001500000)
 
 Als grenzüberschreitender gewerblicher kombinierter Verkehr gelten
 Güterbeförderungen, bei denen
@@ -419,6 +439,7 @@ Güterbeförderungen, bei denen
 
 
 ### § 14 Nächstgelegener geeigneter Bahnhof
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001600000)
 
 (1) Der nächstgelegene geeignete Bahnhof im Sinne des § 13 Nummer 3
 Buchstabe a ist derjenige Bahnhof,
@@ -452,6 +473,7 @@ Prüfung auszuhändigen.
 
 
 ### § 15 An- und Abfuhren durch Unternehmer mit Sitz ihres Unternehmens innerhalb eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001700000)
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz in einem
 Mitgliedstaat der Europäischen Union oder in einem anderen
@@ -471,6 +493,7 @@ auszuhändigen.
 
 
 ### § 16 An- und Abfuhren durch Unternehmer mit Sitz ihres Unternehmens außerhalb der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001800000)
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz weder in einem
 Mitgliedstaat der Europäischen Union noch in einem anderen
@@ -519,6 +542,7 @@ auszuhändigen.
 
 
 ### § 17 Nachweis über die Durchführung von grenzüberschreitendem gewerblichem kombiniertem Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE001900000)
 
 (1) Der Unternehmer hat dafür zu sorgen, dass während einer Anfuhr im
 Sinne des § 15 oder des § 16 eine Reservierungsbestätigung der
@@ -541,9 +565,11 @@ und Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
 
 ## 5a. Abschnitt - Kabotage
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000600000)
 
 
 ### § 17a Befugnis zur Kabotage
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002000000)
 
 (1) Kabotage ist nur auf Grund europäischen Gemeinschaftsrechts oder
 mit einer besonderen Genehmigung nach Maßgabe der folgenden Absätze
@@ -600,9 +626,11 @@ machen.
 
 
 ## 6. Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000700000)
 
 
 ### § 18 Bedingungen für den Fahrzeugeinsatz
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002100000)
 
 Sofern das Unternehmen seinen Sitz in einem Mitgliedstaat der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
@@ -617,6 +645,7 @@ zugelassen ist.
 
 
 ### § 19 Ausschluss von Unternehmern mit Sitz ihres Unternehmens außerhalb der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom Güterkraftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002201305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 die von ihm bestimmte Stelle kann Unternehmer, deren Unternehmen ihren
@@ -638,9 +667,11 @@ genannten Verkehren ausschließen.
 
 
 ## 7. Abschnitt - Verfahren zur Erteilung einer Fahrerbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000800000)
 
 
 ### § 20 Antrag auf Ausstellung einer Fahrerbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002302123)
 
 (1) Bei der Stellung eines Antrags auf Erteilung einer
 Fahrerbescheinigung gemäß Artikel 5 der Verordnung (EG) Nr. 1072/2009
@@ -698,6 +729,7 @@ verlangen.
 
 
 ### § 21 Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002400000)
 
 Die Fahrerbescheinigung wird dem Unternehmen in der Regel für einen
 Zeitraum von fünf Jahren erteilt. Sie kann auch für einen kürzeren
@@ -711,6 +743,7 @@ Trockenprägestempel zu stempeln.
 
 
 ### § 22 Rückgabe der Fahrerbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002500000)
 
 Die Fahrerbescheinigung und ihre beglaubigte Kopie sind unverzüglich
 an die Ausstellungsbehörde zurückzugeben, wenn die Fahrerbescheinigung
@@ -719,6 +752,7 @@ ungültig geworden ist.
 
 
 ### § 23 Änderungsmitteilung und Urkundenänderung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002600000)
 
 Verändern sich nach Erteilung der Fahrerbescheinigung Umstände, die
 den nach § 20 Absatz 1 Nummer 1, 2, 4 oder 5 zu machenden Angaben
@@ -730,6 +764,7 @@ vorzulegen.
 
 
 ### § 24 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002700000)
 
 Im Rahmen der Überwachung nach Artikel 6 Absatz 2 der Verordnung (EG)
 Nr. 1072/2009 hat das Unternehmen der zuständigen Behörde auf
@@ -739,9 +774,11 @@ schriftlich mit.
 
 
 ## 8. Abschnitt - Ordnungswidrigkeiten, In- und Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNG000900000)
 
 
 ### § 25 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002801305)
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des
 Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -820,6 +857,7 @@ Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE002900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über den grenzüberschreitenden
@@ -829,6 +867,7 @@ I S. 3976), die zuletzt durch Artikel 1 der Verordnung vom 5. Mai 2008
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/BJNR004200012.html#BJNR004200012BJNE003000000)
 
 Der Bundesrat hat zugestimmt.
 

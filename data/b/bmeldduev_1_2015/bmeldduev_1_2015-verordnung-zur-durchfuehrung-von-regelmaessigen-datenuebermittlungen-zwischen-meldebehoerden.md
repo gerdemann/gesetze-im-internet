@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 Nummer 1 und Absatz 2 des
 Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084) verordnet das
@@ -27,6 +28,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000201123)
 
 (1) Diese Verordnung regelt die Durchführung von regelmäßigen
 Datenübermittlungen zwischen den Meldebehörden in den Fällen des § 23
@@ -39,6 +41,7 @@ Absatz 1 bleibt unberührt.
 
 
 ## § 2 Verfahren der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000302125)
 
 (1) Datenübermittlungen nach dieser Verordnung erfolgen elektronisch
 unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung
@@ -84,6 +87,7 @@ Transports gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000404130)
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des
 Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil –
@@ -112,6 +116,7 @@ der Anwendung anzugeben.
 
 
 ## § 4 Automatisiertes Abrufverfahren zur Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000511130)
 
 (1) Gemäß § 23 Absatz 2 und 3 des Bundesmeldegesetzes sind die
 Meldebehörden verpflichtet, für die Anmeldung mit vorausgefülltem
@@ -368,6 +373,7 @@ und beim Wiederzuzug aus dem Ausland.
 
 
 ## § 5 Organisation und Technik des automatisierten Abrufverfahrens zur Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000601125)
 
 (1) Durch organisatorische und technische Maßnahmen nach den Artikeln
 24, 25 und 32 der Verordnung (EU) 2016/679, ist sicherzustellen, dass
@@ -406,6 +412,7 @@ Löschungsfrist. Der Zeitraum bis zum Abschluss der Prüfung nach Absatz
 
 
 ## § 6 Rückmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000710130)
 
 (1) Hat sich eine Person bei einer Meldebehörde angemeldet, so hat
 diese gemäß § 33 Absatz 1 des Bundesmeldegesetzes die
@@ -694,6 +701,7 @@ Anschluss an das Rückmeldeverfahren gemäß Absatz 1 folgende Daten:
 
 
 ## § 7 Auswertung der Rückmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000809130)
 
 (1) Die Auswertung der Rückmeldung erfolgt
 
@@ -813,6 +821,7 @@ nach § 6 Absatz 2 übermittelten Daten unverändert zusätzlich zu
 
 
 ## § 8 Fortschreibung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE000903130)
 
 (1) Werden in § 3 Absatz 1 und 2 Nummer 4, 7 und 8 des
 Bundesmeldegesetzes bezeichnete Daten bei einer für eine Wohnung der
@@ -878,6 +887,7 @@ Meldebehörde darüber zu unterrichten und ihr folgende Daten zu
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE001000000)
 
 (1) Diese Verordnung tritt am 1. November 2015 in Kraft.
 
@@ -888,6 +898,7 @@ tritt mit Ablauf des 31. Oktober 2015 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmeldd_v_1_2015/BJNR194500014.html#BJNR194500014BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

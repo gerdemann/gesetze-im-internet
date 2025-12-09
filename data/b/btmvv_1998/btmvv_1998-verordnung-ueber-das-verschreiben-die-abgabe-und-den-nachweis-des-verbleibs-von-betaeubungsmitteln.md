@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000106130)
 
 (1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten
 Betäubungsmittel dürfen nur als Zubereitungen verschrieben werden. Die
@@ -68,6 +69,7 @@ nachzuweisen:
 
 
 ## § 2 Verschreiben durch einen Arzt
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000210130)
 
 (1) Für einen Patienten darf der Arzt die in Anlage III des
 Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
@@ -97,6 +99,7 @@ Teileinheiten abgegrenzt sind.
 
 
 ## § 3 Verschreiben durch einen Zahnarzt
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000307130)
 
 (1) Für einen Patienten darf der Zahnarzt die in Anlage III des
 Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
@@ -123,6 +126,7 @@ Teileinheiten abgegrenzt sind.
 
 
 ## § 4 Verschreiben durch einen Tierarzt
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000408130)
 
 (1) Für ein Tier darf der Tierarzt die in Anlage III des
 Betäubungsmittelgesetzes bezeichneten Betäubungsmittel außer
@@ -153,6 +157,7 @@ Darreichungsform verschreiben.
 
 
 ## § 5 Substitution, Verschreiben von Substitutionsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000507130)
 
 (1) Substitution im Sinne dieser Verordnung ist die Anwendung eines
 Substitutionsmittels. Substitutionsmittel im Sinne dieser Verordnung
@@ -500,6 +505,7 @@ ausgehändigt wird.
 
 
 ## § 5a Verschreiben von Substitutionsmitteln mit dem Stoff Diamorphin
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE002202130)
 
 (1) Zur Behandlung einer schweren Opioidabhängigkeit kann der
 substituierende Arzt zugelassene Arzneimittel mit dem Stoff Diamorphin
@@ -586,6 +592,7 @@ unmittelbaren Verbrauch überlassen wird.
 
 
 ## § 5b Substitutionsregister
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001907116)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
 (Bundesinstitut) führt für die Länder als vom Bund entliehenes Organ
@@ -789,6 +796,7 @@ nach Überwachungsbereichen.
 
 
 ## § 5c Verschreiben für Patienten in Alten- oder Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE002005116)
 
 (1) Der Arzt, der ein Betäubungsmittel für einen Patienten in einem
 Alten- oder Pflegeheim, einem Hospiz oder in der spezialisierten
@@ -834,6 +842,7 @@ benötigt werden, können von dem Arzt
 
 
 ## § 5d Verschreiben für den Notfallbedarf in Hospizen und in der spezialisierten ambulanten Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE002104130)
 
 (1) Hospize und Einrichtungen der spezialisierten ambulanten
 Palliativversorgung dürfen in ihren Räumlichkeiten einen Vorrat an
@@ -873,6 +882,7 @@ nicht überschreiten.
 
 
 ## § 6 Verschreiben für Einrichtungen des Rettungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000605130)
 
 (1) Für das Verschreiben des Bedarfs an Betäubungsmitteln für
 Einrichtungen und Teileinheiten von Einrichtungen des Rettungsdienstes
@@ -913,6 +923,7 @@ verbrauchten Betäubungsmittel.
 
 
 ## § 7 Verschreiben für Kauffahrteischiffe
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000704116)
 
 (1) Für das Verschreiben und die Abgabe von Betäubungsmitteln für die
 Ausrüstung von Kauffahrteischiffen gelten die §§ 8 und 9. Auf den
@@ -1013,6 +1024,7 @@ Absätze 1 bis 5 entsprechend anzuwenden.
 
 
 ## § 8 Betäubungsmittelrezept
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000803360)
 
 (1) Betäubungsmittel für Patienten, den Praxisbedarf und Tiere dürfen
 nur auf einem dreiteiligen amtlichen Formblatt
@@ -1070,6 +1082,7 @@ der nachgereichten Verschreibung zu verbinden.
 
 
 ## § 9 Angaben auf dem Betäubungsmittelrezept
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE000906130)
 
 (1) Auf dem Betäubungsmittelrezept sind anzugeben:
 
@@ -1132,6 +1145,7 @@ Unterschrift zu bestätigen.
 
 
 ## § 10 Betäubungsmittelanforderungsschein
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001004130)
 
 (1) Betäubungsmittel für den Stationsbedarf nach § 2 Absatz 3, § 3
 Absatz 3 und § 4 Absatz 3, den Notfallbedarf nach § 5d und den
@@ -1181,6 +1195,7 @@ oder Beauftragten dieser Behörden vorzulegen.
 
 
 ## § 11 Angaben auf dem Betäubungsmittelanforderungsschein
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001101310)
 
 (1) Auf dem Betäubungsmittelanforderungsschein sind anzugeben:
 
@@ -1219,6 +1234,7 @@ durch seine Unterschrift zu bestätigen.
 
 
 ## § 12 Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001206130)
 
 (1) Betäubungsmittel dürfen vorbehaltlich des Absatzes 2 nicht
 abgegeben werden:
@@ -1336,6 +1352,7 @@ der für das Verschreiben geltenden Vorschriften der §§ 1 und 4 Absatz
 
 
 ## § 13 Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001306130)
 
 (1) Der Nachweis von Verbleib und Bestand der Betäubungsmittel in den
 in § 1 Abs. 3 genannten Einrichtungen ist unverzüglich nach
@@ -1412,6 +1429,7 @@ sind.
 
 
 ## § 14 Angaben zur Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001402310)
 
 (1) Beim Nachweis von Verbleib und Bestand der Betäubungsmittel sind
 für jedes Betäubungsmittel dauerhaft anzugeben:
@@ -1467,6 +1485,7 @@ Zugang. Die Differenz ist als Zugang mit "Überfüllung" auszuweisen.
 
 
 ## § 15 Formblätter
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001500311)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt die
 amtlichen Formblätter für das Verschreiben (Betäubungsmittelrezepte
@@ -1476,6 +1495,7 @@ und macht sie im Bundesanzeiger bekannt.
 
 
 ## § 16 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001604130)
 
 Nach § 29 Abs. 1 Satz 1 Nr. 14 des Betäubungsmittelgesetzes wird
 bestraft, wer
@@ -1529,6 +1549,7 @@ bestraft, wer
 
 
 ## § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001706130)
 
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des
 Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -1594,6 +1615,7 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 
 ## § 18 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/btmvv_1998/BJNR008000998.html#BJNR008000998BJNE001804130)
 
 (1) Abweichend von § 5 Absatz 14 Satz 2 in der bis einschließlich 7.
 April 2023 geltenden Fassung hat die Bundesärztekammer Änderungen der

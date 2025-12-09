@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000400307)
 
 (1) Die besonderen Altersgrenzen des § 45 Abs. 2 Nr. 1, 2, 4 und Abs.
 3 des Soldatengesetzes in der Fassung der Bekanntmachung vom 19.
@@ -74,6 +76,7 @@ Soldatengesetzes gelten entsprechend.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000500307)
 
 (1) In den Jahren 1992 bis 1994 können Berufssoldaten, die das
 achtundvierzigste Lebensjahr vollendet haben und die der
@@ -111,20 +114,24 @@ Soldatengesetzes gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000601311)
 
 (weggefallen)
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000701311)
 
 (weggefallen)
 
 
 ## Abschnitt II - Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNG000200307)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000800307)
 
 Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und
 Soldaten auf Zeit sowie ihrer Hinterbliebenen bestimmt sich nach dem
@@ -132,6 +139,7 @@ Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE000902126)
 
 (1) § 27 Absatz 1 des Soldatenversorgungsgesetzes in der Fassung der
 Bekanntmachung vom 5. März 1987 (BGBl. I S. 842), das zuletzt durch
@@ -165,6 +173,7 @@ Anwendung.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE001001126)
 
 (1) Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden
 sind, erhalten unbeschadet der Regelung des § 53 des
@@ -208,6 +217,7 @@ Ruhegehalt beruht, insgesamt viertausend Deutsche Mark nicht
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE001100307)
 
 In den Fällen der Umwandlung des Dienstverhältnisses nach § 3 und der
 Verkürzung der Dienstzeit nach § 4 ist für die Versorgung die neu
@@ -215,10 +225,12 @@ festgesetzte Dienstzeit als Soldat auf Zeit maßgebend.
 
 
 ## Abschnitt III - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNG000300307)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/persst_rkeg/BJNR023760991.html#BJNR023760991BJNE001200307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

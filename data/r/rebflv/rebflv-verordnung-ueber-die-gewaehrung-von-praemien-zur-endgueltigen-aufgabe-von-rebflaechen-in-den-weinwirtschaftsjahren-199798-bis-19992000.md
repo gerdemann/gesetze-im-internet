@@ -24,6 +24,7 @@ Die v tritt gem. § 3 satz 2 am 5.8.1998 außer kraft, sofern nicht mit zustimmu
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rebflv/BJNR031700998.html#BJNR031700998BJNE000101308)
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5
 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in
@@ -34,6 +35,7 @@ für Wirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rebflv/BJNR031700998.html#BJNR031700998BJNE000203301)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft über die Gewährung von
@@ -42,6 +44,7 @@ Weinwirtschaftsjahren 1997/98, 1998/99 und 1999/2000.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rebflv/BJNR031700998.html#BJNR031700998BJNE000303301)
 
 (1) Die Regierungen der Länder Baden-Württemberg, Hessen und
 Rheinland-Pfalz können durch Rechtsverordnung Gebiete im Sinne des
@@ -69,6 +72,7 @@ sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rebflv/BJNR031700998.html#BJNR031700998BJNE000401308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -29,17 +30,20 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000200000)
 
 Der Ausbildungsberuf Kaufmann für Tourismus und Freizeit/Kauffrau für
 Tourismus und Freizeit wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -51,6 +55,7 @@ in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 
 
 ## § 4 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000500000)
 
 Die Ausbildung gliedert sich in
 
@@ -65,6 +70,7 @@ Die Ausbildung gliedert sich in
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -210,6 +216,7 @@ Wahlqualifikationseinheiten:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000700000)
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -221,12 +228,14 @@ ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE000900000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -235,6 +244,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -266,6 +276,7 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 ## § 10 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -386,12 +397,14 @@ so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 (zu § 6)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE001300000)
 
 (Fundstelle: BGBl. I 2005, 797 - 802)
 
@@ -1336,6 +1349,7 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 (zu § 6)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/tourkfmausbv/BJNR079400005.html#BJNR079400005BJNE001400000)
 
 (Fundstelle: BGBl. I 2005, 803 - 805)
 

@@ -261,10 +261,12 @@ Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000104377)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE001515377)
 
 (1) Diese Verordnung regelt das innergemeinschaftliche Verbringen
 sowie die Einfuhr, Durchfuhr und Ausfuhr
@@ -315,6 +317,7 @@ regeln.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE001615310)
 
 Im Sinne dieser Verordnung sind
 
@@ -499,6 +502,7 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 3 Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE001706377)
 
 (1) Bescheinigungen nach dieser Verordnung müssen der zuständigen
 Behörde im Original oder im Falle des § 30 Abs. 1 Satz 1 in
@@ -536,6 +540,7 @@ Mustern oder Vordrucken sind nur zulässig, wenn es sich handelt um
 
 
 ### § 4 Anzeige und Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE001809377)
 
 Wer gewerbsmäßig
 
@@ -558,6 +563,7 @@ Registriernummer in einem Register.
 
 
 ### § 5 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE001907377)
 
 Wer eine Tätigkeit nach § 4 Satz 1 ausübt, hat
 
@@ -608,6 +614,7 @@ und 2 der Viehverkehrsverordnung gilt entsprechend.
 
 
 ### § 6 Anforderungen an Transportmittel und -behältnisse
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002004377)
 
 (1) Tiere und Waren der in Anlage 2 Spalte 1 genannten Arten oder
 Verwendungszwecke dürfen nur in Transportmitteln oder -behältnissen
@@ -622,6 +629,7 @@ Geflügel und Bruteiern aus demselben Betrieb stammen.
 
 
 ### § 7 Zuständigkeit, allgemeiner Genehmigungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002108377)
 
 Die Entscheidung über die Genehmigungen nach dieser Verordnung obliegt
 der obersten Landesbehörde oder der von ihr bestimmten Behörde. Eine
@@ -630,14 +638,17 @@ Tierseuchen zu befürchten ist.
 
 
 ## Abschnitt 2 - Innergemeinschaftliches Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000204377)
 
 
 
 ### Unterabschnitt 1 - Anforderungen an das innergemeinschaftliche Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000304377)
 
 
 
 #### § 8 Genehmigungsfreies Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002218360)
 
 (1) Tiere und Waren der in Anlage 3 Spalte 1 genannten Arten oder
 Verwendungszwecke dürfen innergemeinschaftlich nur verbracht werden,
@@ -688,6 +699,7 @@ Bundesanzeiger bekannt.
 
 
 #### § 9 Genehmigungspflichtiges Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002307310)
 
 Das innergemeinschaftliche Verbringen von Tieren und Waren nach Anlage
 4 Abschnitt I und II Nr. 1 bis 6 aus anderen Mitgliedstaaten bedarf
@@ -699,6 +711,7 @@ Mitgliedstaates begleitet sind.
 
 
 #### § 9a Verbringungsverbot für Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007304377)
 
 Es ist verboten, Tiere der in Anlage 5 Spalte 1 genannten Arten
 innergemeinschaftlich zu verbringen, wenn sie die dort für sie in
@@ -706,6 +719,7 @@ Spalte 2 festgelegten Voraussetzungen erfüllen.
 
 
 #### § 9b Verbringungsverbot für geimpfte Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008903310)
 
 Es ist verboten, Tiere, die auf Grund einer Anordnung nach § 16 Abs. 1
 Satz 1 der MKS-Verordnung geimpft worden sind, innergemeinschaftlich
@@ -713,6 +727,7 @@ zu verbringen.
 
 
 #### § 10 Verbringungsverbot für bestimmte Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002406301)
 
 (1) Es ist verboten, Waren, die zum menschlichen Verzehr bestimmt
 sind, innergemeinschaftlich zu verbringen, soweit die Waren
@@ -793,6 +808,7 @@ Tierseuchen einer Sperre unterliegen.
 
 
 #### § 10a Weitere Verbringungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007805310)
 
 (1) Das innergemeinschaftliche Verbringen nicht in Anlage 3 Abschnitt
 II oder Anlage 4 Abschnitt II Nr. 6 aufgeführter Waren, die von nicht
@@ -827,6 +843,7 @@ Tierseuchen nicht verbreitet werden.
 
 
 #### § 11 Besonderes Verbringungsverbot für Tiere und Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002516360)
 
 (1) Das innergemeinschaftliche Verbringen von Tieren und Waren ist
 ferner verboten, wenn und soweit
@@ -880,6 +897,7 @@ amtlich zur Kenntnis gebracht worden ist.
 
 
 #### § 12 Verbringen nach anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002607377)
 
 (1) Klauentiere und Einhufer dürfen nach einem anderen Mitgliedstaat
 nur unmittelbar aus einem ganz oder teilweise der Zucht oder der
@@ -920,6 +938,7 @@ beglaubigter Kopie begleitet sind.
 
 
 #### § 13 Verbringen aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002710360)
 
 (1) Schafe und Ziegen dürfen, vorbehaltlich des Absatzes 2, aus
 anderen Mitgliedstaaten nur verbracht werden, wenn sie von einer
@@ -968,6 +987,7 @@ seinem Eintreffen zu schlachten oder schlachten zu lassen.
 
 
 #### § 13a Besondere Bestimmungen für Affen und Halbaffen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007905310)
 
 (1) Affen und Halbaffen dürfen aus einem anderen Mitgliedstaat nur
 verbracht werden, wenn
@@ -989,6 +1009,7 @@ Tierseuchen nicht verbreitet werden.
 
 
 #### § 14 Besondere Bestimmungen für Fische
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002807377)
 
 (1) Fische - ausgenommen deren Eier und Sperma - dürfen aus anderen
 Mitgliedstaaten nicht verbracht werden, wenn sie
@@ -1034,16 +1055,19 @@ Mitgliedstaates bestimmt sind, dürfen nur verbracht werden, wenn sie
 
 
 #### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007407377)
 
 (weggefallen)
 
 
 #### § 14b
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007505377)
 
 (weggefallen)
 
 
 #### § 15 Zulassungsbedürftige Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE002905377)
 
 (1) Tiere und Erzeugnisse der in Anlage 7 Teil 1 Spalte 1 genannten
 Arten oder Verwendungszwecke dürfen nach anderen Mitgliedstaaten nur
@@ -1081,6 +1105,7 @@ der zuständigen Behörde zugelassen worden sind.
 
 
 #### § 16 Bekanntgabe der Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003016360)
 
 Die zuständigen Landesbehörden teilen dem Bundesministerium die
 Zulassungen von
@@ -1104,6 +1129,7 @@ zugelassen worden sind, Sammelstellen und Geflügelhaltungen.
 
 
 #### § 17 Ruhen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003108310)
 
 Stellt die zuständige Behörde bei zugelassenen Lagern, Sammelstellen,
 Schlachtstätten oder Betrieben fest, dass die Voraussetzungen für die
@@ -1114,6 +1140,7 @@ entsprechend.
 
 
 #### § 18 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003204377)
 
 Tiere und Erzeugnisse der in Anlage 8 Spalte 1 genannten Arten oder
 Verwendungszwecke dürfen innergemeinschaftlich nur verbracht werden,
@@ -1122,10 +1149,12 @@ Spalte 2 vorgeschriebenen Weise gekennzeichnet sind.
 
 
 ### Unterabschnitt 2 - Überwachung des innergemeinschaftlichen Verbringens
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000404377)
 
 
 
 #### § 19 Anzeige der Ankunft
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003307310)
 
 Soweit es zur Durchführung der Überwachung erforderlich ist, kann die
 zuständige Behörde anordnen, dass der Empfänger von Tieren oder Waren
@@ -1137,6 +1166,7 @@ des vorübergehenden Aufenthalts.
 
 
 #### § 20 Maßnahmen bei Gefahr einer Seuchenverbreitung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003404377)
 
 Stellt die zuständige Behörde bei der Überwachung des
 innergemeinschaftlichen Verbringens bei Tieren oder Waren Tatsachen
@@ -1164,6 +1194,7 @@ ausgeschlossen wird.
 
 
 #### § 21 Sonstige Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003505124)
 
 (1) Stellt die zuständige Behörde fest, dass Tiere oder Waren aus
 einem anderen Mitgliedstaat aus anderen als den in § 20 genannten
@@ -1198,14 +1229,17 @@ Rücksendung erstberührten Landes zuvor unterrichtet hat.
 
 
 ## Abschnitt 3 - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000504377)
 
 
 
 ### Unterabschnitt 1 - Anforderungen an die Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000604377)
 
 
 
 #### § 22 Genehmigungsfreie Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003616360)
 
 (1) Tiere und Waren der in Anlage 9 Spalte 1 genannten Arten oder
 Verwendungszwecke dürfen aus Drittländern oder bestimmten Teilen von
@@ -1267,6 +1301,7 @@ werden.
 
 
 #### § 23 Sonderbestimmungen für den Handel mit bestimmten Drittländern
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003716377)
 
 (1) Abweichend von den §§ 22, 24 bis 27 und 30 bis 35 gelten für die
 Einfuhr von Tieren und Waren aus Andorra, Norwegen, San Marino oder
@@ -1294,6 +1329,7 @@ entsprechend.
 
 
 #### § 23a Sonderbestimmungen für die Einfuhr von in Drittländern zurückgewiesenen Sendungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008305377)
 
 Abweichend von § 22 dürfen
 
@@ -1339,11 +1375,13 @@ Abweichend von § 22 dürfen
 
 
 #### § 24 Genehmigungspflichtige Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003805377)
 
 Die Einfuhr von Tieren und Waren nach Anlage 4 bedarf der Genehmigung.
 
 
 #### § 24a Einfuhrverbot für bestimmte Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008005310)
 
 (1) Die Einfuhr nicht in Anlage 4 Abschnitt II Nr. 6 oder Anlage 9
 Abschnitt II aufgeführter Waren, die von nicht seuchenkranken oder
@@ -1372,6 +1410,7 @@ werden.
 
 
 #### § 25 Besondere Einfuhrverbote
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE003914360)
 
 (1) Die Einfuhr von Tieren der in Anlage 9b Spalte 1 genannten Arten
 aus einem Drittland ist, vorbehaltlich eines Einfuhrverbotes nach
@@ -1424,6 +1463,7 @@ Bundesministerium im Bundesanzeiger bekannt gemacht hat.
 
 
 #### § 26 Einfuhr über bestimmte Überwachungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004014118)
 
 Die Einfuhr von Tieren, ausgenommen Hunde, Katzen und Frettchen, die
 Heimtiere im Sinne des Artikels 3 Buchstabe b der Verordnung (EU) Nr.
@@ -1458,6 +1498,7 @@ Generalzolldirektion übertragen.
 
 
 #### § 27 Einfuhruntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004116360)
 
 (1) Tiere sowie Waren nach § 26 Satz 1 Nr. 1 unterliegen bei der
 Einfuhr der Dokumentenprüfung, der Nämlichkeitskontrolle und der
@@ -1557,15 +1598,18 @@ hat.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004210377)
 
 (weggefallen)
 
 
 ### Unterabschnitt 2 - Maßnahmen bei der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000704377)
 
 
 
 #### § 29 Dokumentenprüfung, Nämlichkeitskontrolle, physische Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004310377)
 
 (1) Die Dokumentenprüfung nach § 27 Abs. 1 bis 4 wird bei Tieren nach
 Maßgabe der Anlage 10a durchgeführt.
@@ -1594,6 +1638,7 @@ durchgeführt.
 
 
 #### § 30 Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004412310)
 
 (1) Hat der Verfügungsberechtigte bei der Dokumentenprüfung eine
 Bescheinigung nach § 22 Abs. 1 Satz 1 Nr. 2, eine Bescheinigung über
@@ -1622,6 +1667,7 @@ dem Verfügungsberechtigten wieder ausgehändigt.
 
 
 #### § 31 Zurückweisung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004510310)
 
 (1) Führen die Untersuchungen nach § 27 zu dem Ergebnis, dass die
 Tiere, Waren oder Gegenstände nicht den Einfuhrvorschriften
@@ -1679,10 +1725,12 @@ geltenden Fassung erfüllt sind.
 
 
 ### Unterabschnitt 3 - Vorschriften über eingeführte Tiere und Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000804377)
 
 
 
 #### § 32 Allgemeine Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004608377)
 
 (1) Eingeführte Tiere dürfen nur unmittelbar an ihren Bestimmungsort
 befördert werden. Der Beförderer hat die Kopien der Bescheinigungen
@@ -1703,6 +1751,7 @@ Transportmitteln befördert werden.
 
 
 #### § 33 Eingeführte Schlachttiere
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004711377)
 
 (1) Eingeführte Schlachtklauentiere dürfen nur unmittelbar in die von
 der zuständigen Behörde bestimmte öffentliche oder nach § 13 Abs. 2
@@ -1736,6 +1785,7 @@ zu schlachten oder schlachten zu lassen.
 
 
 #### § 34 Eingeführte Nutz- und Zuchttiere, eingeführte Bruteier sowie daraus geschlüpftes Geflügel
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004808377)
 
 (1) Eingeführte Zucht- und Nutztiere, ausgenommen vorübergehend
 eingeführte Einhufer sowie Fische, unterliegen im Bestimmungsbetrieb
@@ -1774,6 +1824,7 @@ Gesundheitszustandes zu nehmen.
 
 
 #### § 34a Eingeführte Affen und Halbaffen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008103377)
 
 (1) Bei eingeführten Affen und Halbaffen gilt § 13a entsprechend.
 
@@ -1783,6 +1834,7 @@ Privatpersonen gehalten wird und Tierseuchen nicht verbreitet werden.
 
 
 #### § 35 Eingeführte Vögel
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE004911310)
 
 (1) Eingeführte Vögel, ausgenommen Geflügel und in freier Wildbahn im
 Rahmen eines vom Bestimmungsmitgliedstaat genehmigten
@@ -1810,11 +1862,13 @@ werden, wenn
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005010377)
 
 (weggefallen)
 
 
 #### § 36a Verbringen eingeführter Waren in Lager in Freizonen, Freilager und Zolllager
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008402377)
 
 (1) Eingeführte Waren dürfen in ein Lager in einer Freizone, ein
 Freilager oder ein Zolllager nur eingelagert werden, wenn der
@@ -1847,10 +1901,12 @@ Behörde zu diesem Zweck zugelassen worden ist.
 
 
 ## Abschnitt 4 - Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG000904377)
 
 
 
 ### § 36b Durchfuhrverbot für bestimmte Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE009000310)
 
 Die Durchfuhr von frischem Fleisch und daraus hergestellten
 Fleischerzeugnissen und -zubereitungen, Milch und Milcherzeugnissen
@@ -1861,6 +1917,7 @@ Seeschiffsverkehr.
 
 
 ### § 37 Anforderungen an die Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005114360)
 
 (1) Die Durchfuhr von Tieren und Waren der in Anlage 9 Spalte 1
 genannten Arten oder Verwendungszwecke, die nicht den Anforderungen an
@@ -1980,10 +2037,12 @@ Beförderungsmittel verbracht werden.
 
 
 ## Abschnitt 4a - Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG001301377)
 
 
 
 ### § 37a Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008805360)
 
 Die Ausfuhr von Tieren, Waren und Gegenständen ist verboten oder
 beschränkt, wenn und soweit
@@ -2002,10 +2061,12 @@ beschränkt, wenn und soweit
 
 
 ## Abschnitt 5 - Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG001004377)
 
 
 
 ### § 38 Tiere
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005210377)
 
 Die §§ 8, 9, 13a, 19 Abs. 1, die §§ 20 bis 22, 24, 25 Abs. 1 und 5, §§
 26 bis 35 und 37 sind nicht anzuwenden,
@@ -2058,6 +2119,7 @@ Die §§ 8, 9, 13a, 19 Abs. 1, die §§ 20 bis 22, 24, 25 Abs. 1 und 5, §§
 
 
 ### § 39 Waren
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005320360)
 
 (1) Die §§ 8, 9, 10a, 19 Abs. 2, die §§ 20 bis 22, § 23 Satz 1, die §§
 24 bis 27, 30, 31 und 37 sind nicht anzuwenden auf
@@ -2150,6 +2212,7 @@ deren Einfuhr nach § 22 Abs. 4 genehmigt wurde.
 
 
 ### § 39a Anwendung von Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008208360)
 
 Abweichend von § 1 Absatz 1, den §§ 8, 22 und 24 bis 27 Absatz 1 und 2
 und den §§ 30 bis 35 sind das innergemeinschaftliche Verbringen und
@@ -2160,10 +2223,12 @@ bekannt gemacht hat.
 
 
 ## Abschnitt 6 - Befugnisse der Behörde, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG001104377)
 
 
 
 ### § 40 Befugnisse der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005407124)
 
 (1) Die von der zuständigen Behörde beauftragten Personen dürfen im
 Rahmen der Überwachung des innergemeinschaftlichen Verbringens, der
@@ -2195,6 +2260,7 @@ unterstützen und die geschäftlichen Unterlagen vorzulegen.
 
 
 ### § 41 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005526119)
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2453,10 +2519,12 @@ entgegen
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNG001204377)
 
 
 
 ### § 42 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008504310)
 
 (1) Betriebe, die nach § 15 Abs. 1 oder 3 der Zulassung bedürfen und
 am 31. Dezember 2004 nicht nach dieser Vorschrift zugelassen waren,
@@ -2477,6 +2545,7 @@ gelten als vorläufig zugelassen. Die vorläufige Zulassung erlischt,
 
 
 ### § 43 Wirksamwerden von Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008602377)
 
 Nach dieser Verordnung vorgeschriebene Bekanntmachungen werden mit
 Beginn des Tages, der auf ihre Veröffentlichung im Bundesanzeiger
@@ -2485,16 +2554,19 @@ bestimmt ist. Satz 1 gilt nicht für Bekanntmachungen nach § 16 Satz 2.
 
 
 ### § 43a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE009101377)
 
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE005804377)
 
 (Inkrafttreten)
 
 (zu § 4)
 
 ### Anlage 1 \*Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006011310)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1015;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2520,6 +2592,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 6 Abs. 1)
 
 ### Anlage 2 \*Fe Anforderungen an Transportmittel und -behältnisse \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006109377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1016
 
@@ -2672,6 +2745,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1016
 (zu § 8 Abs. 1 und 4)
 
 ### Anlage 3 Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006221118)
 
 (Fundstelle: BGBl. I 2005, 1017 - 1025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3354,6 +3428,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1)
 
 ### Anlage 4 Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006312360)
 
 (Fundstelle: BGBl. I 2005, 1026;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3421,6 +3496,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 9a)
 
 ### Anlage 5 \*Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006408377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1027)
 
@@ -3489,6 +3565,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Abs. 3)
 
 ### Anlage 6 \*Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006506377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
@@ -3559,6 +3636,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1028
 (zu § 15)
 
 ### Anlage 7 Zulassungsbedürftige Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006611118)
 
 (Fundstelle: BGBl. I 2005, 1029 - 1031)
 
@@ -3901,6 +3979,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1028
 (zu § 18)
 
 ### Anlage 8 Kennzeichnungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006713118)
 
 (Fundstelle: BGBl. I 2005, 1032 - 1033;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4093,6 +4172,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1)
 
 ### Anlage 9 \*Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006816377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1034 - 1038;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4378,6 +4458,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4)
 
 ### Anlage 9a \*Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007108377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1039
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4404,6 +4485,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 25 Abs. 1 und 3)
 
 ### Anlage 9b \*Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007609377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 585, 586;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4514,6 +4596,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 25 Abs. 2 und 3)
 
 ### Anlage 10 \*Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE006911377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1041;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4621,6 +4704,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 29 Abs. 1)
 
 ### Anlage 10a \*Fe Durchführung der Dokumentenprüfung bei Tieren \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE008705377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1042;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4687,6 +4771,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1)
 
 ### Anlage 11 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007006377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 
@@ -4873,6 +4958,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 (zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2)
 
 ### Anlage 12 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007208377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
@@ -4926,6 +5012,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1045
 (zu § 37 Abs. 1 Satz 2)
 
 ### Anlage 13 \*Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist \*/
+[Direktlink](https://www.gesetze-im-internet.de/tierseuchschbmv/BJNR024370992.html#BJNR024370992BJNE007708310)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1046;
 bzgl. der einzelnen Änderungen vgl. Fußnote

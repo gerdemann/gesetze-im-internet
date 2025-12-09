@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## § 1 Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000100325)
 
 Die Deutsche Pfandbriefanstalt kann in eine Aktiengesellschaft
 umgewandelt werden.
 
 
 ## § 2 Umwandlungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000200325)
 
 (1) Über die Umwandlung beschließt die Hauptversammlung der Deutschen
 Pfandbriefanstalt. Bei der Beschlußfassung muß mindestens die Hälfte
@@ -35,6 +37,7 @@ Finanzen.
 
 
 ## § 3 Gründer der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000300325)
 
 (1) Als Gründer der Aktiengesellschaft gelten die Anteilseigner der
 Deutschen Pfandbriefanstalt. Sie übernehmen das Grundkapital der
@@ -45,6 +48,7 @@ Deutschen Pfandbriefanstalt.
 
 
 ## § 4 Satzungsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000400325)
 
 Die Satzung der Aktiengesellschaft wird durch Beschluß der
 Hauptversammlung der Deutschen Pfandbriefanstalt festgestellt. § 2
@@ -52,6 +56,7 @@ Abs. 1 Satz 2 und 3 ist anzuwenden.
 
 
 ## § 5 Gewährleistung für Altverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000500325)
 
 Der Bund gewährleistet die Erfüllung der Verbindlichkeiten der
 Aktiengesellschaft, die zu dem Zeitpunkt bestehen, zu dem die
@@ -63,6 +68,7 @@ können.
 
 
 ## § 6 Sonstige Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000600325)
 
 (1) Die Aktiengesellschaft unterliegt hinsichtlich der vor ihrer
 Eintragung in das Handelsregister abgeschlossenen Geschäfte den für
@@ -117,17 +123,20 @@ Abs. 1 nicht berührt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000700325)
 
 -
 
 
 ## § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000800325)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbraumwg/BJNR023100988.html#BJNR023100988BJNE000900325)
 
 Dieses Gesetz tritt am 1. Januar 1989 in Kraft.
 

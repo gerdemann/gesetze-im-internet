@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svabkchng/BJNR008220002.html#BJNR008220002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/svabkchng/BJNR008220002.html#BJNR008220002BJNE000200000)
 
 Dem in Peking am 12. Juli 2001 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Volksrepublik China über
@@ -33,6 +35,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/svabkchng/BJNR008220002.html#BJNR008220002BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -59,6 +62,7 @@ Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/svabkchng/BJNR008220002.html#BJNR008220002BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

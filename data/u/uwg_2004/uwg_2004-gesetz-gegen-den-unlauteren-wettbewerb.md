@@ -49,10 +49,12 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNG000101140)
 
 
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000103360)
 
 (1) Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucher
 sowie der sonstigen Marktteilnehmer vor unlauteren geschäftlichen
@@ -65,6 +67,7 @@ geschäftliche Handlung vorliegt, den Regelungen dieses Gesetzes vor.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000204360)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -156,6 +159,7 @@ entsprechend anwendbar.
 
 
 ### § 3 Verbot unlauterer geschäftlicher Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000303123)
 
 (1) Unlautere geschäftliche Handlungen sind unzulässig.
 
@@ -182,6 +186,7 @@ durchschnittlichen Mitglieds dieser Gruppe zu beurteilen.
 
 
 ### § 3a Rechtsbruch
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002500123)
 
 Unlauter handelt, wer einer gesetzlichen Vorschrift zuwiderhandelt,
 die auch dazu bestimmt ist, im Interesse der Marktteilnehmer das
@@ -191,6 +196,7 @@ zu beeinträchtigen.
 
 
 ### § 4 Mitbewerberschutz
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000403123)
 
 Unlauter handelt, wer
 
@@ -235,6 +241,7 @@ Unlauter handelt, wer
 
 
 ### § 4a Aggressive geschäftliche Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002600123)
 
 (1) Unlauter handelt, wer eine aggressive geschäftliche Handlung
 vornimmt, die geeignet ist, den Verbraucher oder sonstigen
@@ -297,6 +304,7 @@ die Zwangslage von Verbrauchern.
 
 
 ### § 5 Irreführende geschäftliche Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000505360)
 
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung
 vornimmt, die geeignet ist, den Verbraucher oder sonstigen
@@ -381,6 +389,7 @@ denjenigen, der mit der Preisherabsetzung geworben hat.
 
 
 ### § 5a Irreführung durch Unterlassen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002304360)
 
 (1) Unlauter handelt auch, wer einen Verbraucher oder sonstigen
 Marktteilnehmer irreführt, indem er ihm eine wesentliche Information
@@ -442,6 +451,7 @@ solche nicht erhalten hat.
 
 
 ### § 5b Wesentliche Informationen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003500360)
 
 (1) Werden Waren oder Dienstleistungen unter Hinweis auf deren
 Merkmale und Preis in einer dem verwendeten Kommunikationsmittel
@@ -521,6 +531,7 @@ einschließlich Werbung und Marketing nicht vorenthalten werden dürfen.
 
 
 ### § 5c Verbotene Verletzung von Verbraucherinteressen durch unlautere geschäftliche Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003600360)
 
 (1) Die Verletzung von Verbraucherinteressen durch unlautere
 geschäftliche Handlungen ist verboten, wenn es sich um einen
@@ -577,6 +588,7 @@ geschäftliche Handlungen im Sinne des Absatzes 1 liegt auch vor, wenn
 
 
 ### § 6 Vergleichende Werbung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000602140)
 
 (1) Vergleichende Werbung ist jede Werbung, die unmittelbar oder
 mittelbar einen Mitbewerber oder die von einem Mitbewerber angebotenen
@@ -617,6 +629,7 @@ Waren oder Dienstleistungen erkennbar macht.
 
 
 ### § 7 Unzumutbare Belästigungen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000706360)
 
 (1) Eine geschäftliche Handlung, durch die ein Marktteilnehmer in
 unzumutbarer Weise belästigt wird, ist unzulässig. Dies gilt
@@ -684,6 +697,7 @@ anzunehmen, wenn
 
 
 ### § 7a Einwilligung in Telefonwerbung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003400360)
 
 (1) Wer mit einem Telefonanruf gegenüber einem Verbraucher wirbt, hat
 dessen vorherige ausdrückliche Einwilligung in die Telefonwerbung zum
@@ -698,10 +712,12 @@ nach Absatz 1 auf Verlangen unverzüglich vorzulegen.
 
 
 ## Kapitel 2 - Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNG000201140)
 
 
 
 ### § 8 Beseitigung und Unterlassung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002801360)
 
 (1) Wer eine nach § 3 oder § 7 unzulässige geschäftliche Handlung
 vornimmt, kann auf Beseitigung und bei Wiederholungsgefahr auf
@@ -764,6 +780,7 @@ ein Fall des § 2a des Unterlassungsklagengesetzes vor.
 
 
 ### § 8a Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002700360)
 
 Anspruchsberechtigt nach § 8 Absatz 1 sind bei einem Verstoß gegen die
 Verordnung (EU) 2019/1150 des Europäischen Parlaments und des Rates
@@ -775,6 +792,7 @@ Artikels 14 Absatz 3 und 4 der Verordnung (EU) 2019/1150 erfüllen.
 
 
 ### § 8b Liste der qualifizierten Wirtschaftsverbände
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002901360)
 
 (1) Das Bundesamt für Justiz führt eine Liste der qualifizierten
 Wirtschaftsverbände und veröffentlicht sie in der jeweils aktuellen
@@ -827,6 +845,7 @@ Vorschrift genannten Ansprüche anzugeben.
 
 
 ### § 8c Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003000360)
 
 (1) Die Geltendmachung der Ansprüche aus § 8 Absatz 1 ist unzulässig,
 wenn sie unter Berücksichtigung der gesamten Umstände missbräuchlich
@@ -879,6 +898,7 @@ Ersatzansprüche bleiben unberührt.
 
 
 ### § 9 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE000903360)
 
 (1) Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige
 geschäftliche Handlung vornimmt, ist den Mitbewerbern zum Ersatz des
@@ -897,6 +917,7 @@ einer vorsätzlichen Zuwiderhandlung geltend gemacht werden.
 
 
 ### § 10 Gewinnabschöpfung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001004360)
 
 (1) Wer vorsätzlich oder grob fahrlässig eine nach § 3 oder § 7
 unzulässige geschäftliche Handlung vornimmt und hierdurch zu Lasten
@@ -941,6 +962,7 @@ den Prozessfinanzierer üblich und angemessen sind.
 
 
 ### § 11 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001103360)
 
 (1) Die Ansprüche aus den §§ 8, 9 Absatz 1 und § 13 Absatz 3 verjähren
 in sechs Monaten und der Anspruch aus § 9 Absatz 2 Satz 1 verjährt in
@@ -967,10 +989,12 @@ grob fahrlässige Unkenntnis in drei Jahren von der Entstehung an.
 
 
 ## Kapitel 3 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNG000301140)
 
 
 
 ### § 12 Einstweiliger Rechtsschutz; Veröffentlichungsbefugnis; Streitwertminderung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001203360)
 
 (1) Zur Sicherung der in diesem Gesetz bezeichneten Ansprüche auf
 Unterlassung können einstweilige Verfügungen auch ohne die Darlegung
@@ -1022,6 +1046,7 @@ Gegner zu hören.
 
 
 ### § 13 Abmahnung; Unterlassungsverpflichtung; Haftung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001303360)
 
 (1) Die zur Geltendmachung eines Unterlassungsanspruchs Berechtigten
 sollen den Schuldner vor der Einleitung eines gerichtlichen Verfahrens
@@ -1090,6 +1115,7 @@ erkennbar war. Weitergehende Ersatzansprüche bleiben unberührt.
 
 
 ### § 13a Vertragsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003100360)
 
 (1) Bei der Festlegung einer angemessenen Vertragsstrafe nach § 13
 Absatz 1 sind folgende Umstände zu berücksichtigen:
@@ -1136,6 +1162,7 @@ Einigungsstelle erhobene Klage nicht zulässig.
 
 
 ### § 14 Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001404360)
 
 (1) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch
 auf Grund dieses Gesetzes geltend gemacht wird, sind die Landgerichte
@@ -1179,6 +1206,7 @@ Vorschriften.
 
 
 ### § 15 Einigungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001503360)
 
 (1) Die Landesregierungen errichten bei Industrie- und Handelskammern
 Einigungsstellen zur Beilegung von bürgerlichen Rechtsstreitigkeiten,
@@ -1281,6 +1309,7 @@ Deutschen Demokratischen Republik erworben hat.
 
 
 ### § 15a Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003300360)
 
 (1) § 8 Absatz 3 Nummer 2 ist nicht anzuwenden auf Verfahren, die am
 1\. September 2021 bereits rechtshängig sind.
@@ -1290,10 +1319,12 @@ Abmahnungen, die vor dem 2. Dezember 2020 bereits zugegangen sind.
 
 
 ## Kapitel 4 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNG000402140)
 
 
 
 ### § 16 Strafbare Werbung
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001601140)
 
 (1) Wer in der Absicht, den Anschein eines besonders günstigen
 Angebots hervorzurufen, in öffentlichen Bekanntmachungen oder in
@@ -1312,10 +1343,12 @@ zwei Jahren oder mit Geldstrafe bestraft.
 
 
 ### (XXXX) §§ 17 u. 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE001703360)
 
 
 
 ### § 19 Bußgeldvorschriften bei einem weitverbreiteten Verstoß und einem weitverbreiteten Verstoß mit Unions-Dimension
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE003701360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 5c Absatz 1 Verbraucherinteressen verletzt.
@@ -1364,6 +1397,7 @@ Gesetzes über Ordnungswidrigkeiten sind
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002007360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1413,6 +1447,7 @@ Bundesamt für Justiz.
 
 
 ### Anhang (zu § 3 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html#BJNR141400004BJNE002404360)
 
 (Fundstelle: BGBl. I 2021, 3508 - 3510)
 

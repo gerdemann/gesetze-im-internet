@@ -20,18 +20,22 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000200000)
 
 Dieses Gesetz ist auf Wertpapierinstitute mit Sitz oder Tätigkeit im
 Inland anzuwenden.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000303128)
 
 (1) Ein Wertpapierinstitut ist ein Unternehmen, das gewerbsmäßig oder
 in einem Umfang, der einen in kaufmännischer Weise eingerichteten
@@ -707,6 +711,7 @@ Wertpapiernebendienstleistungen oder Nebengeschäften wesentlich sind.
 
 
 #### § 2a Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008800311)
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft
 gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
@@ -730,6 +735,7 @@ fällt.
 
 
 #### § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000404128)
 
 (1) Als Wertpapierinstitut gelten nicht
 
@@ -1033,6 +1039,7 @@ Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite
 
 
 #### § 4 Gesetzlicher Aufsichtsrahmen für Große Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000500000)
 
 § 1 Absatz 3c Satz 1, 2 Nummer 2 und 3, die §§ 2a, 2d, 2e, 3, 6a bis
 10e, 10g bis 18, 19 bis 22, 24b bis 25d, 25f, 25g, 25l, 25m, 26 bis
@@ -1046,9 +1053,11 @@ Wertpapierinstitute keine Anwendung.
 
 
 ### Abschnitt 2 - Aufgaben und grundlegende Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000300000)
 
 
 #### § 5 Aufgaben und allgemeine Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000601128)
 
 (1) Die Bundesanstalt übt die Aufsicht über Wertpapierinstitute,
 Investmentholdinggesellschaften und gemischte
@@ -1195,6 +1204,7 @@ Sätzen 1 und 2 zu dulden.
 
 
 #### § 5a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009200128)
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
@@ -1235,6 +1245,7 @@ Bundesbank übertragen.
 
 
 #### § 6 Sofortige Vollziehbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000702128)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
 einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
@@ -1251,6 +1262,7 @@ aufschiebende Wirkung.
 
 
 #### § 7 Grenzüberschreitende Auskünfte und Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000800000)
 
 (1) Nationale Rechtsvorschriften, die einer Übermittlung von Daten
 entgegenstehen, sind nicht anzuwenden auf die Übermittlung von Daten
@@ -1311,6 +1323,7 @@ Beaufsichtigung auf zusammengefasster Basis einbezogen werden.
 
 
 #### § 8 Befugnis zur Erstreckung der Verordnung (EU) Nr. 575/2013 auf bestimmte Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE000901128)
 
 (1) Die Bundesanstalt kann anordnen, dass ein Wertpapierinstitut, das
 den Eigenhandel oder das Emissionsgeschäft betreibt und dessen
@@ -1371,9 +1384,11 @@ und VIII der Richtlinie 2013/36/EU.
 
 
 ### Abschnitt 3 - Zusammenarbeit der Bundesanstalt mit anderen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000400000)
 
 
 #### § 9 Zusammenarbeit mit der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001001128)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank arbeiten nach
 Maßgabe dieses Gesetzes zusammen. Unbeschadet weiterer gesetzlicher
@@ -1435,6 +1450,7 @@ Bestimmungen des Bundesdatenschutzgesetzes unberührt.
 
 
 #### § 10 Zusammenarbeit innerhalb des Europäischen Systems der Finanzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001100000)
 
 Im Rahmen des Europäischen Systems der Finanzaufsicht arbeiten die
 Bundesanstalt und die Deutsche Bundesbank bei der Aufsicht über
@@ -1469,6 +1485,7 @@ Betreiben von Geschäften nach § 2 Absatz 2 in einem Drittstaat haben.
 
 
 #### § 11 Zusammenarbeit mit zuständigen Behörden und Stellen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001201128)
 
 (1) Die Bundesanstalt und, soweit sie im Rahmen dieses Gesetzes tätig
 wird, die Deutsche Bundesbank arbeiten bei der Aufsicht über
@@ -1654,6 +1671,7 @@ ist.
 
 
 #### § 12 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001303128)
 
 (1) Die bei der Bundesanstalt beschäftigten und die nach § 4 Absatz 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen, die
@@ -1888,9 +1906,11 @@ Zuständige Behörden können im Einzelfall ausdrücklich
 
 
 ### Abschnitt 4 - Hinweisgebersystem und Aufzeichnungsverpflichtung bei Wertpapierinstituten; Form der einzureichenden Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000500000)
 
 
 #### § 13 Hinweisgebersystem und Aufzeichnungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001400000)
 
 (1) Wertpapierinstitute sind verpflichtet, ein Verfahren einzurichten,
 das es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer
@@ -1913,6 +1933,7 @@ Vorschriften jederzeit zu prüfen.
 
 
 #### § 14 Kommunikation mit Bundesanstalt und Deutscher Bundesbank; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001501128)
 
 (1) Soweit durch eine Rechtsverordnung nach Absatz 2 oder 3 nicht
 abweichend bestimmt, hat die Übermittlung von Erlaubnisanträgen,
@@ -1998,12 +2019,15 @@ Spitzenverbände der Wertpapierinstitute anzuhören.
 
 
 ## Kapitel 2 - Erlaubnis; Geschäftsleiter; Verwaltungs- oder Aufsichtsorgan; Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000600000)
 
 
 ### Abschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000700000)
 
 
 #### § 15 Erlaubnis für das Erbringen von Wertpapierdienstleistungen und -nebendienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001604128)
 
 (1) Wer im Inland Wertpapierdienstleistungen im Sinne des § 2 Absatz 2
 Satz 1 Nummer 1 bis 10, die Wertpapiernebendienstleistungen des § 2
@@ -2136,6 +2160,7 @@ Ausland ins Inland verlegt.
 
 
 #### § 16 Erlaubnisverfahren und Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001700000)
 
 (1) Vor Erteilung einer Erlaubnis hat die Bundesanstalt die
 Entschädigungseinrichtung der Wertpapierhandelsunternehmen nach § 6
@@ -2195,6 +2220,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### § 17 Anfangskapital
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001802128)
 
 (1) Das Anfangskapital beträgt
 
@@ -2302,6 +2328,7 @@ nicht vor Ablauf der vereinbarten Laufzeit fällig.
 
 
 #### § 18 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE001900000)
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -2412,6 +2439,7 @@ die Erlaubnis nicht versagt werden.
 
 
 #### § 19 Erlöschen und Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002002128)
 
 (1) Die Erlaubnis erlischt, wenn
 
@@ -2515,9 +2543,11 @@ unterrichtet die Europäische Wertpapier- und Marktaufsichtsbehörde.
 
 
 ### Abschnitt 2 - Geschäftsleiter und Verwaltungs- oder Aufsichtsorgan
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000800000)
 
 
 #### § 20 Geschäftsleiter
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002101128)
 
 (1) Die Geschäftsleiter eines Kleinen oder Mittleren
 Wertpapierinstituts müssen für die Leitung eines Wertpapierinstituts
@@ -2576,6 +2606,7 @@ Wertpapierinstituts bestellt werden.
 
 
 #### § 21 Verwaltungs- oder Aufsichtsorgan
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002201128)
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans eines Kleinen
 oder Mittleren Wertpapierinstituts müssen zuverlässig sein, die
@@ -2627,6 +2658,7 @@ eines Kleinen oder Mittleren Wertpapierinstituts bestellt werden.
 
 
 #### § 22 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002301128)
 
 (1) In den Fällen des § 19 Absatz 2 Nummer 2 bis 4 kann die
 Bundesanstalt, statt die Erlaubnis aufzuheben,
@@ -2747,6 +2779,7 @@ nach den Vorschriften der Mitbestimmungsgesetze.
 
 
 #### § 23 Tätigkeitsverbote für natürliche Personen, die nicht Geschäftsleiter sind
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002401128)
 
 (1) Die Bundesanstalt kann der für einen Verstoß gegen § 19 Absatz 2
 Nummer 5, 7 oder 8 verantwortlichen natürlichen Person, die zum
@@ -2773,9 +2806,11 @@ Geldwäschegesetzes untersagen.
 
 
 ### Abschnitt 3 - Inhaber bedeutender Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG000900000)
 
 
 #### § 24 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002501128)
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen
 Personen oder Unternehmen eine bedeutende Beteiligung an einem
@@ -2840,6 +2875,7 @@ Deutschen Bundesbank unverzüglich anzuzeigen.
 
 
 #### § 25 Beurteilungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002600000)
 
 Die Bundesanstalt hat die Anzeige nach § 24 Absatz 1 innerhalb von 60
 Arbeitstagen ab dem Datum des Schreibens, mit dem sie den Eingang der
@@ -2898,6 +2934,7 @@ höchstens 90 Arbeitstage ausgedehnt werden, wenn der Anzeigepflichtige
 
 
 #### § 26 Beurteilungskriterien und Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002700000)
 
 (1) Die Bundesanstalt kann innerhalb des Beurteilungszeitraums den
 beabsichtigten Erwerb der bedeutenden Beteiligung oder ihre Erhöhung
@@ -2995,6 +3032,7 @@ unverzüglich bei der Bundesanstalt einzureichen.
 
 
 #### § 27 Untersagung der Stimmrechtsausübung und Weisungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002801311)
 
 (1) Die Bundesanstalt kann dem Inhaber einer bedeutenden Beteiligung
 sowie den von ihm kontrollierten Unternehmen die Ausübung der
@@ -3063,9 +3101,11 @@ vermittelnden Unternehmen beteiligt ist, nicht zu befolgen.
 
 
 ### Abschnitt 4 - Vertraglich gebundene Vermittler, Bezeichnungsschutz und Registervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001000000)
 
 
 #### § 28 Verpflichtungen von Wertpapierinstituten bei der Bestellung vertraglich gebundener Vermittler
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE002900000)
 
 (1) Bedient sich ein Wertpapierinstitut eines vertraglich gebundenen
 Vermittlers, hat das Wertpapierinstitut sicherzustellen, dass der
@@ -3101,6 +3141,7 @@ anzuhören.
 
 
 #### § 29 Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003000000)
 
 (1) Die Bezeichnung „Wertpapierinstitut“ oder
 „Wertpapierdienstleistungsunternehmen“ oder eine Bezeichnung, in der
@@ -3130,6 +3171,7 @@ ist. Sie hat ihre Entscheidungen dem Registergericht mitzuteilen.
 
 
 #### § 30 Registervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003100000)
 
 (1) Soweit nach § 15 das Betreiben von Wertpapierdienstleistungen
 einer Erlaubnis bedarf, dürfen Eintragungen in das Handels- oder
@@ -3156,9 +3198,11 @@ Rechtsmittel einzulegen.
 
 
 ## Kapitel 3 - Informationen über die zuständigen Sicherungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001100000)
 
 
 ### § 31 Information über die Sicherungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003201128)
 
 Ein Wertpapierinstitut hat Kunden, die nicht Institute im Sinne des
 Kreditwesengesetzes oder Wertpapierinstitute sind, über seine
@@ -3180,6 +3224,7 @@ Entschädigungsansprüche erforderlichen Formalitäten erhältlich sein.
 
 
 ### § 32 Information der Kunden über das Ausscheiden aus einer Sicherungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003300000)
 
 Scheidet ein Wertpapierinstitut aus einer Sicherungseinrichtung aus,
 hat es seine Kunden, die nicht Institute im Sinne des
@@ -3189,9 +3234,11 @@ Textform zu unterrichten.
 
 
 ## Kapitel 4 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001200000)
 
 
 ### § 33 Interne Sicherungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003401128)
 
 (1) Wertpapierinstitute, Wertpapierinstitutsgruppen,
 Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften
@@ -3275,6 +3322,7 @@ Handlungen zuständig ist, soweit hierfür ein wichtiger Grund vorliegt.
 
 
 ### § 34 Zeitpunkt der Identitätsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003500000)
 
 Abweichend von § 11 Absatz 1 des Geldwäschegesetzes kann die
 Überprüfung der Identität des Vertragspartners, einer für diesen
@@ -3288,6 +3336,7 @@ werden.
 
 
 ### § 35 Verstärkte Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003600000)
 
 Abweichend von § 10 Absatz 3 Nummer 2 Buchstabe b des
 Geldwäschegesetzes bestehen die Sorgfaltspflichten nach § 10 Absatz 1
@@ -3302,6 +3351,7 @@ die Transaktion einen Wert von 2 500 Euro oder mehr aufweist.
 
 
 ### § 36 Geldwäscherechtliche Pflichten für Investmentholdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003700000)
 
 Investmentholdinggesellschaften, die als Mutterunternehmen gelten oder
 von der Bundesanstalt als solches bestimmt wurden, sind Verpflichtete
@@ -3311,6 +3361,7 @@ Buchstabe b und c des Geldwäschegesetzes.
 
 
 ### § 37 Verbotene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003800000)
 
 Einem Wertpapierinstitut sind verboten:
 
@@ -3330,12 +3381,15 @@ Einem Wertpapierinstitut sind verboten:
 
 
 ## Kapitel 5 - Beaufsichtigung von Wertpapierinstituten; Solvenzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001300000)
 
 
 ### Abschnitt 1 - Grundlagen der Solvenzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001400000)
 
 
 #### § 38 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE003900000)
 
 (1) Abschnitt 1 dieses Kapitels findet mit Ausnahme der §§ 38, 40, 41
 Nummer 1 bis 3, von § 43 Absatz 1, § 45 Absatz 1 Satz 1, 2 und 3
@@ -3387,6 +3441,7 @@ Wertpapierinstitutsgruppe sind.
 
 
 #### § 39 Internes Kapital und liquide Mittel
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004000000)
 
 (1) Mittlere Wertpapierinstitute müssen laufend ihre
 Risikotragfähigkeit sicherstellen. Dies umfasst Verfahren zur
@@ -3409,6 +3464,7 @@ diese die Anforderungen der Absätze 1 und 2 einhalten.
 
 
 #### § 40 Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004100000)
 
 (1) Ein Wertpapierinstitut muss abhängig von Art, Umfang, Komplexität
 und Risikogehalt einer Auslagerung von ausschlaggebenden und wichtigen
@@ -3484,6 +3540,7 @@ Institute zu hören.
 
 
 #### § 41 Interne Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004201128)
 
 Wertpapierinstitute müssen solide Regelungen für die
 Unternehmensführung schaffen, die zweckdienlich, der Art, dem Umfang
@@ -3513,6 +3570,7 @@ den Geschäften des Wertpapierinstituts angemessen sind; dazu zählen
 
 
 #### § 42 Länderspezifische Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004300000)
 
 In Deutschland zugelassene Wertpapierinstitute, die in anderen
 Vertragsstaaten oder in Drittstaaten über Zweigniederlassungen oder
@@ -3547,6 +3605,7 @@ zu lassen und offenzulegen:
 
 
 #### § 43 Aufgaben der Geschäftsleiter im Rahmen des Risikomanagements
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004400000)
 
 (1) Die Geschäftsleiter des Wertpapierinstituts tragen die
 Gesamtverantwortung für die Risikostrategie und die internen
@@ -3580,6 +3639,7 @@ Wertpapierinstitut ausgesetzt ist, bereitzustellen.
 
 
 #### § 44 Funktion des Verwaltungs- oder Aufsichtsorgans im Rahmen des Risikomanagements; Ausschussbildung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004500000)
 
 (1) Das Verwaltungs- oder Aufsichtsorgan des Wertpapierinstituts
 überwacht regelmäßig die Risikostrategie und die internen Grundsätze
@@ -3673,6 +3733,7 @@ Vergütungskontrollausschuss kann auf Gruppenebene eingerichtet werden.
 
 
 #### § 45 Risikosteuerung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004600000)
 
 (1) Ein Wertpapierinstitut hat angemessene Strategien, Grundsätze,
 Verfahren und Systeme zur Risikosteuerung einzurichten. Diese müssen
@@ -3735,6 +3796,7 @@ Rechnung.
 
 
 #### § 46 Vergütungssystem; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004700000)
 
 (1) Ein Wertpapierinstitut hat über Vergütungssysteme für
 Geschäftsleiter und Mitarbeiter, deren berufliche Tätigkeit sich
@@ -3823,9 +3885,11 @@ Wertpapierinstitute zu hören.
 
 
 ### Abschnitt 2 - Aufsichtlicher Überprüfungs- und Bewertungsprozess
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001500000)
 
 
 #### § 47 Aufsichtliche Überprüfung und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004800000)
 
 (1) Die Bundesanstalt überprüft und bewertet die Regelungen,
 Strategien, Verfahren und Mechanismen, die ein Mittleres
@@ -3899,6 +3963,7 @@ Leistung der Geschäftsleiter.
 
 
 #### § 48 Laufende Überprüfung der Erlaubnis zur Verwendung interner Modelle
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE004900000)
 
 (1) Die Bundesanstalt überprüft regelmäßig, mindestens alle drei
 Jahre, ob das Wertpapierinstitut die Anforderungen für die Erlaubnis
@@ -3968,9 +4033,11 @@ Bankenaufsichtsbehörde gemäß Artikel 37 Absatz 4 der Richtlinie (EU)
 
 
 ### Abschnitt 3 - Besondere Befugnisse der Bundesanstalt bei der laufenden Beaufsichtigung von Wertpapierinstituten
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001600000)
 
 
 #### § 49 Besondere Aufsichtsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005000000)
 
 Die Bundesanstalt kann, um Verstöße gegen dieses Gesetz oder die
 Verordnung (EU) 2019/2033 zu verhindern oder zu unterbinden,
@@ -4051,6 +4118,7 @@ insbesondere zur Durchführung der §§ 46 bis 48 sowie der Verordnung
 
 
 #### § 50 Zusätzliche Eigenmittelanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005101128)
 
 (1) Die Bundesanstalt kann die in § 49 Nummer 1 genannten zusätzlichen
 Eigenmittelanforderungen anordnen, wenn Tatsachen die Annahme
@@ -4126,6 +4194,7 @@ Weise zu erfüllen:
 
 
 #### § 51 Vorgaben zu zusätzlichen Eigenmitteln
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005200000)
 
 (1) Zusätzliche Eigenmittelanforderungen kann die Bundesanstalt
 gegenüber einem Mittleren Wertpapierinstitut unter Berücksichtigung
@@ -4145,6 +4214,7 @@ Eigenmittel anordnen und zu deren Umsetzung eine Frist bestimmen.
 
 
 #### § 52 Besondere Liquiditätsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005300000)
 
 (1) Die Bundesanstalt kann besondere Liquiditätsanforderungen nach §
 49 Nummer 11 anordnen, wenn Tatsachen die Annahme rechtfertigen, dass
@@ -4176,6 +4246,7 @@ erfüllen.
 
 
 #### § 53 Zusammenarbeit mit Abwicklungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005400000)
 
 Die Bundesanstalt unterrichtet die von den Vertragsstaaten nach
 Artikel 2 Absatz 1 Nummer 18 in Verbindung mit Artikel 3 der
@@ -4187,6 +4258,7 @@ solchen Wertpapierinstitut erwartete Korrekturen gemäß § 51 Absatz 2.
 
 
 #### § 54 Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005500000)
 
 (1) Die Bundesanstalt kann ein Mittleres Wertpapierinstitut und ein
 Wertpapierinstitut nach Artikel 46 Absatz 2 der Verordnung (EU)
@@ -4213,6 +4285,7 @@ Gesetzes und Artikel 10 der Richtlinie 2014/65/EU zu veröffentlichen.
 
 
 #### § 55 Pflicht zur Unterrichtung der Europäischen Bankenaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005600000)
 
 Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde
 über
@@ -4231,12 +4304,15 @@ Die Bundesanstalt unterrichtet die Europäische Bankenaufsichtsbehörde
 
 
 ### Abschnitt 4 - Besonderheiten bei der Beaufsichtigung von Wertpapierinstitutsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001700000)
 
 
 #### Unterabschnitt 1 - Beaufsichtigung von Wertpapierinstitutsgruppen auf konsolidierter Basis und Beaufsichtigung der Einhaltung der Gruppenkapitalanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001800000)
 
 
 ##### § 56 Zuständigkeit der Bundesanstalt für die Beaufsichtigung auf konsolidierter Basis und die Überwachung der Einhaltung des Gruppenkapitaltests
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005700000)
 
 (1) Die Bundesanstalt ist für die Beaufsichtigung auf konsolidierter
 Basis zuständig, wenn
@@ -4309,6 +4385,7 @@ Bankenaufsichtsbehörde die Entscheidung.
 
 
 ##### § 57 Informationspflichten in Krisensituationen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005800000)
 
 Bei Eintritt einer Krisensituation, einschließlich einer Situation im
 Sinne des Artikels 18 der Verordnung (EU) Nr. 1093/2010 oder widriger
@@ -4326,6 +4403,7 @@ Informationen.
 
 
 ##### § 58 Aufsichtskollegien
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE005900000)
 
 (1) Ist die Bundesanstalt die nach § 56 zuständige Behörde, kann sie
 Aufsichtskollegien einrichten, um die Ausübung der in Absatz 2
@@ -4427,6 +4505,7 @@ arbeiten die Bundesanstalt und die Deutsche Bundesbank zusammen.
 
 
 ##### § 59 Kooperation der Bundesanstalt mit anderen zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006000000)
 
 (1) Ist die Bundesanstalt die nach § 56 zuständige Behörde,
 übermittelt sie den in § 58 Absatz 4 genannten zuständigen Behörden
@@ -4508,6 +4587,7 @@ Behörden oder Stellen unverzüglich mit.
 
 
 ##### § 60 Nachprüfung von Informationen über Unternehmen in anderen Vertragsstaaten
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006100000)
 
 (1) Die Bundesanstalt führt auf Ersuchen einer zuständigen Behörde
 oder Stelle eines Vertragsstaates eine Nachprüfung von Informationen
@@ -4561,9 +4641,11 @@ gerichtliche Verfahren oder die unanfechtbare Entscheidung zu
 
 
 #### Unterabschnitt 2 - Investmentholdinggesellschaften, gemischte Finanzholdinggesellschaften und gemischte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG001900000)
 
 
 ##### § 61 Einbezug von Holdinggesellschaften bei der Überwachung der Einhaltung des Gruppenkapitaltests
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006200000)
 
 Investmentholdinggesellschaften und gemischte
 Finanzholdinggesellschaften werden bei der Überwachung der Einhaltung
@@ -4571,6 +4653,7 @@ des Gruppenkapitaltests von der Bundesanstalt einbezogen.
 
 
 ##### § 62 Qualifikation von Geschäftsleitern und Mitgliedern des Verwaltungs- oder Aufsichtsorgans einer Investmentholdinggesellschaft oder einer gemischten Finanzholdinggesellschaft; Tätigkeitsuntersagung; Verwarnung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006300000)
 
 (1) Geschäftsleiter und Mitglieder des Verwaltungs- oder
 Aufsichtsorgans einer Investmentholdinggesellschaft oder einer
@@ -4610,6 +4693,7 @@ Anordnungen der Bundesanstalt verstoßen hat.
 
 
 ##### § 63 Gemischte Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006401128)
 
 (1) Ist das Mutterunternehmen eines Wertpapierinstituts eine gemischte
 Holdinggesellschaft, so kann die Bundesanstalt, wenn sie die für die
@@ -4637,9 +4721,11 @@ nachprüfen oder von externen Prüfern nachprüfen lassen.
 
 
 ### Abschnitt 5 - Anzeigepflichten; Wertpapierinstitute mit Mutterunternehmen im Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002000000)
 
 
 #### § 64 Anzeigepflichten für alle Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006501128)
 
 (1) Ein Wertpapierinstitut hat der Bundesanstalt und der Deutschen
 Bundesbank unverzüglich anzuzeigen:
@@ -4777,6 +4863,7 @@ Bundesbank
 
 
 #### § 65 Anzeigepflichten für Große Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006600000)
 
 (1) Ein Großes Wertpapierinstitut hat der Bundesanstalt und der
 Deutschen Bundesbank unverzüglich anzuzeigen:
@@ -4835,6 +4922,7 @@ Deutschen Bundesbank jährlich anzuzeigen:
 
 
 #### § 66 Anzeigepflichten für Kleine und Mittlere Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006701128)
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut, das über die
 Erlaubnis für die Dienstleistungen nach § 2 Absatz 2 Nummer 10 oder §
@@ -4861,6 +4949,7 @@ Wertpapierinstitute entsprechende Anwendung.
 
 
 #### § 67 Anzeigepflichten von Geschäftsleitern, Investmentholdinggesellschaften sowie gemischten Finanzholdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006801128)
 
 (1) Ein Geschäftsleiter eines Wertpapierinstituts und die Personen,
 die die Geschäfte einer Investmentholdinggesellschaft oder einer
@@ -4940,6 +5029,7 @@ Fälligkeit zu erfüllen (drohende Zahlungsunfähigkeit).
 
 
 #### § 68 Befugnis für einzelfallbezogene Anzeigepflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE006900000)
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank können einem
 Wertpapierinstitut, einer Wertpapierinstitutsgruppe oder
@@ -4965,6 +5055,7 @@ Wertpapierinstitute anzuhören.
 
 
 #### § 69 Bewertung der Aufsicht im Drittstaat und andere Aufsichtstechniken
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007000000)
 
 (1) Unterliegt ein Wertpapierinstitut oder unterliegen mehrere
 Wertpapierinstitute, die Tochterunternehmen desselben
@@ -4998,9 +5089,11 @@ anwenden.
 
 
 ### Abschnitt 6 - Besondere Vorgaben bei qualifizierter Kryptoverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG003000128)
 
 
 #### § 69a Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009300128)
 
 (1) Ein Institut, das das qualifizierte Kryptoverwahrgeschäft
 betreibt, hat sicherzustellen, dass die kryptografischen Instrumente
@@ -5020,12 +5113,15 @@ werden kann.
 
 
 ## Kapitel 6 - Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002100000)
 
 
 ### Abschnitt 1 - Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002200000)
 
 
 #### § 70 Errichten einer Zweigniederlassung durch inländische Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007100000)
 
 (1) Ein Wertpapierinstitut, das beabsichtigt, in einem anderen
 Vertragsstaat
@@ -5115,6 +5211,7 @@ einer Zweimonatsfrist seine Tätigkeit in dem anderen Staat aufnehmen.
 
 
 #### § 71 Grenzüberschreitender Dienstleistungsverkehr durch inländische Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007201128)
 
 (1) Ein Wertpapierinstitut, das beabsichtigt,
 Wertpapierdienstleistungen grenzüberschreitend in einem anderen
@@ -5171,6 +5268,7 @@ angemessenen Frist diese Angaben mit.
 
 
 #### § 72 Änderung der angezeigten Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007300000)
 
 (1) Ändern sich die Verhältnisse, die nach § 70 Absatz 1 und 2 oder §
 71 Absatz 1 angezeigt wurden, hat das Wertpapierinstitut der
@@ -5201,9 +5299,11 @@ Wertpapierinstitute zu hören.
 
 
 ### Abschnitt 2 - Errichten einer Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch Wertpapierinstitute mit Sitz in einem anderen Vertragsstaat
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002300000)
 
 
 #### § 73 Errichten einer Zweigniederlassung durch Wertpapierinstitute mit Sitz in einem anderen Vertragsstaat
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007401128)
 
 (1) Ein Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat
 darf ohne Erlaubnis durch die Bundesanstalt über eine
@@ -5268,6 +5368,7 @@ anzuwenden:
 
 
 #### § 74 Grenzüberschreitender Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007501128)
 
 (1) Ein Wertpapierinstitut mit Sitz in einem anderen Vertragsstaat
 darf ohne Erlaubnis durch die Bundesanstalt im Wege des
@@ -5297,6 +5398,7 @@ Zugang anbieten, sind die §§ 30 und 31 nicht anzuwenden.
 
 
 #### § 75 Unterrichtungsbefugnis und Maßnahmen der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007600000)
 
 (1) Stellt die Bundesanstalt fest, dass ein Unternehmen im Sinne des §
 73 Absatz 1 oder des § 74 Absatz 1 seinen Pflichten nach § 73 Absatz 4
@@ -5318,9 +5420,11 @@ untersagen.
 
 
 ## Kapitel 7 - Vorlage von Rechnungslegungsunterlagen, Prüferbestellung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002400000)
 
 
 ### § 76 Vorlage von Rechnungslegungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007700000)
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut hat den
 Jahresabschluss in den ersten drei Monaten des Geschäftsjahres für das
@@ -5339,6 +5443,7 @@ Absatz 2a des Handelsgesetzbuchs.
 
 
 ### § 77 Prüferbestellung und Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007801128)
 
 (1) Ein Kleines oder Mittleres Wertpapierinstitut hat der
 Bundesanstalt und der Deutschen Bundesbank den von ihm bestellten
@@ -5388,6 +5493,7 @@ abberufen.
 
 
 ### § 78 Besondere Pflichten des Prüfers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE007903128)
 
 (1) Als Teil der Prüfung des Jahresabschlusses sowie eines
 Zwischenabschlusses hat der Prüfer auch die wirtschaftlichen
@@ -5590,15 +5696,18 @@ Bundesrates bedarf, auf die Bundesanstalt übertragen.
 
 
 ## Kapitel 7a - DLT-Pilotregelung nach der Verordnung (EU) 2022/858
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002900128)
 
 
 ### § 78a Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008900128)
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 12
 Absatz 1 der Verordnung (EU) 2022/858.
 
 
 ### § 78b Ausnahmen von der Erlaubnispflicht nach § 15
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009000128)
 
 (1) DLT-Marktinfrastrukturen im Sinne des Artikels 2 Nummer 5 der
 Verordnung (EU) 2022/858, denen eine besondere Genehmigung nach
@@ -5617,6 +5726,7 @@ Erlaubnis nach § 15 Absatz 4 Satz 1.
 
 
 ### § 78c Unterlagen und Anträge nach der Verordnung (EU) 2022/858
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009100128)
 
 (1) Die Unterlagen, die der Bundesanstalt nach der Verordnung (EU)
 2022/858 vorzulegen sind, sind in deutscher Sprache vorzulegen. Sie
@@ -5631,9 +5741,11 @@ der Bundesanstalt zu bestimmen.
 
 
 ## Kapitel 8 - Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002500000)
 
 
 ### § 79 Maßnahmen bei Gefahr
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008000000)
 
 (1) Besteht Gefahr für die Erfüllung der Verpflichtungen eines
 Wertpapierinstituts gegenüber seinen Kunden, insbesondere für die
@@ -5709,6 +5821,7 @@ verwaltet werden.
 
 
 ### § 80 Sonderbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008100000)
 
 (1) Zur Überwachung der Einhaltung der Anordnungen nach § 79 Absatz 1
 und 2 kann die Bundesanstalt einen Sonderbeauftragten bestellen.
@@ -5748,6 +5861,7 @@ Vorsatz.
 
 
 ### § 81 Abwicklung laufender Geschäfte; Ausnahmen; Verbot der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008200000)
 
 (1) Das Wertpapierinstitut darf nach Erlass des Veräußerungs- und
 Zahlungsverbots nach § 79 Absatz 1 Satz 2 Nummer 4 die im Zeitpunkt
@@ -5788,6 +5902,7 @@ Bundesanstalt nach Absatz 2 Satz 2 angeordnet hat.
 
 
 ### § 81a Zuordnung verwahrter kryptografischer Instrumente; Kosten der Aussonderung
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009400128)
 
 (1) Das im Rahmen eines qualifizierten Kryptoverwahrgeschäfts für
 einen Kunden verwahrte kryptografische Instrument gilt als dem Kunden
@@ -5813,9 +5928,11 @@ verwahrten Gesamtbestands entsprechend anzuwenden.
 
 
 ## Kapitel 9 - Straf- und Bußgeldvorschriften, öffentliche Bekanntmachung und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002600000)
 
 
 ### § 82 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008300000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer ohne Erlaubnis nach § 15 Absatz 1 erster Halbsatz,
@@ -5829,6 +5946,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 ### § 83 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008402128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -6069,6 +6187,7 @@ Finanzdienstleistungsaufsicht.
 
 
 ### § 84 Öffentliche Bekanntmachung von Verwaltungssanktionen und -maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008500000)
 
 (1) Die Bundesanstalt veröffentlicht auf ihrer offiziellen Website
 unverzüglich alle sanktionierenden, rechtskräftigen
@@ -6122,6 +6241,7 @@ Sanktionen und Maßnahmen eingelegten Rechtsmittel und deren Ausgang.
 
 
 ### § 84a Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009500128)
 
 (1) Die Bundesanstalt macht Entscheidungen über bestandskräftige
 Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen, die wegen
@@ -6171,6 +6291,7 @@ mehr erforderlich ist.
 
 
 ### § 85 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008600000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber,
@@ -6224,9 +6345,11 @@ gilt entsprechend.
 
 
 ## Kapitel 10 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNG002700000)
 
 
 ### § 86 Übergangsvorschriften für bestehende Wertpapierinstitute
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE008700000)
 
 (1) Unternehmen, denen bis zum 26. Juni 2021 die Erlaubnis nach § 32
 des Kreditwesengesetzes für das Finanzkommissionsgeschäft nach § 1
@@ -6267,6 +6390,7 @@ das Depotgeschäft wird zugleich gegenstandslos.
 
 
 ### § 87 Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wpig/BJNR099010021.html#BJNR099010021BJNE009600128)
 
 § 78 Absatz 1 Satz 3 Nummer 5 ist erstmals anzuwenden auf
 Rechnungslegungsunterlagen für ein nach dem 31. Dezember 2024

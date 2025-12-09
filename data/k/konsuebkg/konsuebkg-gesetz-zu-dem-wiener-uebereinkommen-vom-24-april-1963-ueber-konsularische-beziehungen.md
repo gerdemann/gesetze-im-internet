@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kons_bkg/BJNR215850969.html#BJNR215850969BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kons_bkg/BJNR215850969.html#BJNR215850969BJNE000200314)
 
 Dem in Wien am 31. Oktober 1963 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 24. April 1963 über konsularische
@@ -35,6 +37,7 @@ werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kons_bkg/BJNR215850969.html#BJNR215850969BJNE000300314)
 
 Zur Durchführung des Artikels 72 Abs. 2 des Wiener Übereinkommens über
 konsularische Beziehungen vom 24. April 1963 wird die Bundesregierung
@@ -67,6 +70,7 @@ b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kons_bkg/BJNR215850969.html#BJNR215850969BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -76,6 +80,7 @@ S. 1).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kons_bkg/BJNR215850969.html#BJNR215850969BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

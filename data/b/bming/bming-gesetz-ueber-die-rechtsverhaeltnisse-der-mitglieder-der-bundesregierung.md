@@ -21,12 +21,14 @@ Neugefasst durch
 Stand: zuletzt geändert Art. 4 G v. 22.12.2023 I Nr. 414
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000100314)
 
 Die Mitglieder der Bundesregierung stehen nach Maßgabe dieses Gesetzes
 zum Bund in einem öffentlich-rechtlichen Amtsverhältnis.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000201377)
 
 (1) Die Mitglieder der Bundesregierung erhalten eine vom
 Bundespräsidenten vollzogene Urkunde über ihre Ernennung. Die Urkunde
@@ -42,6 +44,7 @@ Geschäftszweig angegeben sein.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000300314)
 
 Die Mitglieder der Bundesregierung leisten bei der Übernahme ihres
 Amtes vor dem Bundestag den in Artikel 56 des Grundgesetzes
@@ -49,12 +52,14 @@ vorgesehenen Eid.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000400314)
 
 Ein Mitglied der Bundesregierung kann nicht zugleich Mitglied einer
 Landesregierung sein.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000500314)
 
 (1) Die Mitglieder der Bundesregierung dürfen neben ihrem Amt kein
 anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben. Sie
@@ -76,6 +81,7 @@ Geschenke.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000600314)
 
 (1) Die Mitglieder der Bundesregierung sind, auch nach Beendigung
 ihres Amtsverhältnisses, verpflichtet, über die ihnen amtlich
@@ -95,6 +101,7 @@ Grundordnung für deren Erhaltung einzutreten.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002700377)
 
 (1) Mitglieder der Bundesregierung, die beabsichtigen, innerhalb der
 ersten 18 Monate nach ihrem Ausscheiden aus dem Amt eine
@@ -113,6 +120,7 @@ einem Monat vorläufig untersagen.
 
 
 ## § 6b
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002800377)
 
 (1) Die Bundesregierung kann die Erwerbstätigkeit oder sonstige
 Beschäftigung für die Zeit der ersten 18 Monate nach dem Ausscheiden
@@ -148,6 +156,7 @@ beratenden Gremiums zu veröffentlichen.
 
 
 ## § 6c
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002901311)
 
 (1) Die Mitglieder des beratenden Gremiums sollen Funktionen an der
 Spitze staatlicher oder gesellschaftlicher Institutionen wahrgenommen
@@ -176,6 +185,7 @@ zu stellen.
 
 
 ## § 6d
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE003000377)
 
 Wird die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung
 nach § 6b Absatz 1 Satz 1 untersagt, so wird das Übergangsgeld für die
@@ -184,6 +194,7 @@ Satz 1 ein weitergehender Anspruch ergibt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000700314)
 
 (1) Die Genehmigung, als Zeuge auszusagen, soll nur versagt werden,
 wenn die Aussage dem Wohle des Bundes oder eines deutschen Landes
@@ -200,12 +211,14 @@ bleibt unberührt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000800314)
 
 Ein Disziplinarverfahren gegen Mitglieder der Bundesregierung findet
 nicht statt.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE000900314)
 
 (1) Das Amtsverhältnis der Mitglieder der Bundesregierung endet
 
@@ -227,6 +240,7 @@ und ihre Entlassung jederzeit verlangen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001000314)
 
 Im Falle der Beendigung des Amtsverhältnisses der Mitglieder der
 Bundesregierung finden die Vorschriften des § 2 Abs. 1 entsprechende
@@ -236,6 +250,7 @@ werden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001102377)
 
 (1) Die Mitglieder der Bundesregierung erhalten vom Beginn des
 Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluß
@@ -307,6 +322,7 @@ sinngemäß anzuwenden.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001202311)
 
 (1) Der Bundeskanzler hat Anspruch auf eine Amtswohnung mit
 Ausstattung. Den Bundesministern kann eine Amtswohnung zugewiesen
@@ -340,6 +356,7 @@ für Bundesbeamte geltenden Vorschriften.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001300314)
 
 (1) Die Mitglieder der Bundesregierung und ihre Hinterbliebenen
 erhalten nach Beendigung des Amtsverhältnisses Versorgung nach den
@@ -350,6 +367,7 @@ geltenden versorgungsrechtlichen Vorschriften sinngemäß anzuwenden.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001402160)
 
 (1) Ein ehemaliges Mitglied der Bundesregierung erhält von dem
 Zeitpunkt an, in dem seine Amtsbezüge aufhören, Übergangsgeld.
@@ -401,6 +419,7 @@ angerechnet.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001503160)
 
 (1) Ein ehemaliges Mitglied der Bundesregierung hat von dem Zeitpunkt
 an, in dem die Amtsbezüge aufhören, Anspruch auf Ruhegehalt, wenn es
@@ -467,6 +486,7 @@ stellt fest, ob die Voraussetzungen vorliegen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001601305)
 
 (1) Die Hinterbliebenen eines Mitgliedes der Bundesregierung erhalten
 Hinterbliebenenversorgung (§ 13 Abs. 2). § 15 Abs. 1 gilt nicht für
@@ -481,6 +501,7 @@ zur Zeit seines Todes einen Anspruch auf Ruhegehalt hatte.
 
 
 ## § 16a
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002600305)
 
 (1) Die Hinterbliebenen eines Mitglieds der Bundesregierung erhalten
 ein Überbrückungsgeld in Höhe des Amtsgehalts und des Ortszuschlages.
@@ -508,6 +529,7 @@ versorgungsrechtlichen Vorschriften aus Anlaß des Todes.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001700314)
 
 (1) Wird ein Mitglied der Bundesregierung durch einen Dienstunfall
 verletzt, so wird ihm und seinen Hinterbliebenen Unfallfürsorge
@@ -533,6 +555,7 @@ Teilnahme an Veranstaltungen gelten im Zweifel als Dienstunfälle.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001800314)
 
 (1) Wird ein Beamter oder Richter des Bundes zum Mitglied der
 Bundesregierung ernannt, so scheidet er mit dem Beginn des
@@ -564,6 +587,7 @@ auf Versorgung zu, so wird diese vom Bund übernommen.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE001900314)
 
 Bezieht ein Mitglied der Bundesregierung für einen Zeitraum, für den
 Amtsbezüge (§ 11) zu zahlen sind, ein Einkommen aus einer Verwendung
@@ -572,6 +596,7 @@ zur Höhe des Betrages der Amtsbezüge.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002002160)
 
 (1) Steht einem Mitglied oder einem ehemaligen Mitglied der
 Bundesregierung auf Grund eines früheren Dienstverhältnisses als
@@ -625,6 +650,7 @@ Hinterbliebenen gilt
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002101160)
 
 (1) Die Vorschriften dieses Gesetzes finden auf die ehemaligen
 Mitglieder des Verwaltungsrates des Vereinigten Wirtschaftsgebietes
@@ -671,6 +697,7 @@ Zugehörigkeit zum Ministerrat als volles Amtsjahr.
 
 
 ## § 21a
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002504160)
 
 (1) Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen
 ehemaligen Mitglieder der Bundesregierung sowie der Hinterbliebenen
@@ -738,6 +765,7 @@ Anspruch auf Ruhegehalt nach diesem Gesetz nicht gegeben war.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002201311)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 die zur Durchführung dieses Gesetzes erforderlichen
@@ -745,6 +773,7 @@ Verwaltungsvorschriften zu erlassen.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002300314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -752,6 +781,7 @@ im Land Berlin.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/bming/BJNR004070953.html#BJNR004070953BJNE002400314)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 20. September 1949, § 11
 jedoch erst vom 1. April 1953 ab in Kraft.

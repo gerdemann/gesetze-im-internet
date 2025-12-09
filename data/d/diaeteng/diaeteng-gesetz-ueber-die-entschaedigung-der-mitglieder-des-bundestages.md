@@ -23,10 +23,12 @@ Dieses gesetz wurde mit einschränkung aufgeh. durch
 
 
 ## Erster Abschnitt - Aufwandsentschädigung, Alters- und Hinterbliebenenversorgung, Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000400314)
 
 Die Mitglieder des Bundestages haben Anspruch auf eine monatliche
 Aufwandsentschädigung. Sie beträgt dreiunddreißigeindrittel vom
@@ -37,6 +39,7 @@ Amtsgehalt nach dem Stand vom 1. Januar 1975 maßgebend.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000500314)
 
 (1) Mitglieder, die aus dem Bundestag ausscheiden, erhalten, wenn sie
 dem Bundestag mindestens ein Jahr angehört haben, die
@@ -72,6 +75,7 @@ aussetzen, wenn ein Verfahren zu erwarten ist, das die Folgen nach §
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000600314)
 
 (1) § 2 wird nicht angewandt, wenn ein Mitglied des Bundestages
 stirbt. Seine Hinterbliebenen erhalten die noch nicht abgerechneten
@@ -89,6 +93,7 @@ verstorbenen Mitglied im voraus überwiesen wurden.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000700314)
 
 Für die Mitglieder des Bundestages wird eine Alters- und
 Hinterbliebenenversorgung auf Versicherungsgrundlage geschaffen. Die
@@ -99,6 +104,7 @@ Hinterbliebenenversorgung einen Zuschuß als Aufwandsentschädigung.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000800314)
 
 (1) Die Mitglieder des Bundestages erhalten nach ihrem Ausscheiden aus
 dem Bundestag ein Ruhegeld, wenn sie
@@ -127,6 +133,7 @@ Anspruch auf Ruhegeld für die Dauer der Mitgliedschaft.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE000900314)
 
 Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus
 der Altersversorgung bis zum Eintritt des Versorgungsfalles zulässig.
@@ -136,6 +143,7 @@ nach § 5 Abs. 1 erneut zu laufen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001000314)
 
 (1) Das Ruhegeld bei einer Mitgliedschaft im Bundestag bis zu acht
 Jahren beträgt fünfunddreißig vom Hundert der Entschädigung nach § 1.
@@ -163,6 +171,7 @@ werden jedoch zinslos erstattet.
 
 
 ### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001100314)
 
 (1) Zeiten der Mitgliedschaft im Parlament eines deutschen
 Bundeslandes gelten im Sinne des § 5 Abs. 1 auf Antrag als Zeiten der
@@ -181,6 +190,7 @@ eine Gesamtzeit von 16 Jahren überschreiten würden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001200314)
 
 (1) Hat ein Mitglied während seiner Zugehörigkeit zum Bundestag ohne
 sein grobes Verschulden eine Gesundheitsbeschädigung erlitten, die
@@ -201,6 +211,7 @@ so erhält es ein Ruhegeld, dessen Höhe sich nach § 7 Abs. 1 richtet.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001300314)
 
 (1) Der überlebende Ehegatte eines Mitglieds oder ehemaligen Mitglieds
 des Bundestages erhält sechzig vom Hundert des Ruhegeldes, sofern der
@@ -223,6 +234,7 @@ Hundert des Ruhegeldes nach den Absätzen 1 bis 3.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001400314)
 
 Die Anrechnung von Einkommen oder Versorgungsbezügen aus einer
 Verwendung im öffentlichen oder einem ähnlichen Dienst oder von Renten
@@ -239,6 +251,7 @@ Gesetz nichts anderes ergibt.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001500314)
 
 Die Mitglieder des Bundestages werden gegen Unfall versichert. Sie
 können schriftlich erklären, wer im Falle ihres Todes bezugsberechtigt
@@ -246,6 +259,7 @@ sein soll. Liegt keine Erklärung vor, sind die Erben bezugsberechtigt.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001600314)
 
 Der Präsident kann in besonderen Fällen Mitgliedern des Bundestages
 einmalige Unterstützungen, ausgeschiedenen Mitgliedern und ihren
@@ -254,10 +268,12 @@ Unterhaltszuschüsse gewähren.
 
 
 ## Zweiter Abschnitt - Unkosten- und Tagegeldpauschale sowie Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNG000200314)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001700314)
 
 (1) Entsprechend der Aufwandsentschädigungen nach § 1 erhalten die
 Mitglieder des Bundestages als weitere Aufwandsentschädigungen
@@ -282,6 +298,7 @@ Haushaltsgesetzes (Bundeshaushaltsplan).
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001800314)
 
 Das Kostenpauschale wird nicht geleistet an Mitglieder des
 Bundestages, die im letzten Vierteljahr der Wahlperiode in den
@@ -291,6 +308,7 @@ hat.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE001900314)
 
 (1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der
 Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
@@ -318,6 +336,7 @@ nach Absatz 1 erfolgt.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002000314)
 
 Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in
 die Anwesenheitsliste des Bundestages eingetragen hat, Tage- oder
@@ -329,6 +348,7 @@ bleibt hiervon unberührt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002100314)
 
 (1) Die Mitglieder des Bundestages haben das Recht auf freie Benutzung
 aller Verkehrsmittel der Deutschen Bundesbahn und der Deutschen
@@ -356,6 +376,7 @@ Bundestages wird durch den Ältestenrat geregelt.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002200314)
 
 Mit dem Reisekostenpauschale sind, unbeschadet der in § 17 Abs. 1 und
 § 19 getroffenen Regelungen, alle Kosten, die den Mitgliedern des
@@ -363,6 +384,7 @@ Bundestages für Fahrten im Wahlkreis entstehen, abgegolten.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002300314)
 
 (1) Dienstreisen von Mitgliedern des Bundestages bedürfen der
 vorherigen Zustimmung des Präsidenten.
@@ -395,10 +417,12 @@ Auslandsdienstreisen der Beamten sinngemäß angewandt.
 
 
 ## Dritter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNG000300314)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002400314)
 
 (1) Die bei Inkrafttreten des Gesetzes bestehende
 Todesfallversicherung wird auf Antrag des Versicherten mit der Maßgabe
@@ -419,6 +443,7 @@ Monaten nach Inkrafttreten dieses Gesetzes zu stellen.
 
 
 ### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002500314)
 
 (1) Mitglieder und ehemalige Mitglieder des Bundestages, die sich nach
 § 20 des Gesetzes für die Fortsetzung der Versicherung auf
@@ -437,12 +462,14 @@ eigenen Beiträgen beruhende Rückkaufswert erstattet.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002600314)
 
 Zeiten der Mitgliedschaft im Bundestag, die vor dem Inkrafttreten
 dieses Gesetzes liegen, werden berücksichtigt.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002700314)
 
 Der Präsident gewährt auf Antrag ehemaligen Mitgliedern, die vor
 Inkrafttreten dieses Gesetzes aus dem Bundestag ausgeschieden sind,
@@ -454,6 +481,7 @@ in Höhe des gezahlten Betrages.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002800314)
 
 (1) Die in den §§ 1 und 13 geregelten Ansprüche entstehen mit dem Tag
 der Annahme der Wahl, auch wenn die Wahlperiode des letzten
@@ -472,12 +500,14 @@ aufgerundet.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE002900314)
 
 Die Entschädigung nach § 1 sowie die Leistungen nach den §§ 5 bis 10
 werden auf volle zehn Deutsche Mark aufgerundet.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE003000314)
 
 Ein Verzicht auf die Entschädigung nach § 1 sowie auf die Leistungen
 nach den §§ 5 bis 10 ist unzulässig. Die Ansprüche aus diesem Gesetz
@@ -485,12 +515,14 @@ sind nicht übertragbar.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE003100314)
 
 Der Ältestenrat des Bundestages kann außer in den in § 13 Abs. 2 und §
 19 Abs. 3 aufgeführten Fällen Ausführungsbestimmungen erlassen.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE003200314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -498,6 +530,7 @@ im Land Berlin.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE003300314)
 
 Dieses Gesetz tritt mit Ausnahme des § 15 Abs. 1 hinsichtlich der
 Worte "vom Zeitpunkt der Auslegung an", des § 16 Satz 1, letzter
@@ -507,6 +540,7 @@ Kraft treten, mit Wirkung vom 1. Januar 1968 in Kraft.
 
 
 ### (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/di_teng/BJNR003340968.html#BJNR003340968BJNE003400314)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

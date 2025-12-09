@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000100000)
 
 Auf Grund des § 47 Absatz 3 Satz 1 in Verbindung mit § 47 Absatz 1
 Satz 1 und Absatz 2 sowie des § 49 Absatz 2 in Verbindung mit § 47
@@ -30,9 +31,11 @@ verordnet das Bundesministerium des Innern und für Heimat:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000300000)
 
 Diese Verordnung ist anzuwenden auf die Abschlussprüfung und die
 Prüfung der Zusatzqualifikationen bei der beim Bundesverwaltungsamt
@@ -61,12 +64,15 @@ errichteten zuständigen Stelle in den folgenden Ausbildungsberufen des
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000200000)
 
 
 ### Unterabschnitt 1 - Prüfungsausschuss und Prüferdelegation
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000300000)
 
 
 #### § 2 Errichten der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000400000)
 
 (1) Für die Durchführung der Abschlussprüfungen errichtet die
 zuständige Stelle für jeden Ausbildungsberuf einen Prüfungsausschuss.
@@ -87,6 +93,7 @@ vor,
 
 
 #### § 3 Zusammensetzung und Berufung der Prüfungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000500000)
 
 (1) Der Prüfungsausschuss für die Abschlussprüfung besteht
 
@@ -105,6 +112,7 @@ berufen.
 
 
 #### § 4 Geschäftsführung des Prüfungsausschusses, Einladungen zu den Sitzungen und Sitzungsprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000600000)
 
 (1) Die Geschäftsführung des Prüfungsausschusses liegt bei der
 zuständigen Stelle. Im Einvernehmen mit dem Vorsitz des
@@ -148,6 +156,7 @@ Person und dem Vorsitz zu bestätigen.
 
 
 #### § 5 Zusammensetzung der Prüferdelegation
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000700000)
 
 Die Prüferdelegation besteht
 
@@ -162,6 +171,7 @@ Die Prüferdelegation besteht
 
 
 #### § 6 Einladungen zu den Sitzungen der Prüferdelegation und Sitzungsprotokolle
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000800000)
 
 (1) Zu jeder Sitzung der Prüferdelegation müssen
 
@@ -185,6 +195,7 @@ zu bestätigen.
 
 
 #### § 7 Ausschluss der Mitwirkung als Mitglied des Prüfungsausschusses oder der Prüferdelegation
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE000900000)
 
 (1) Eine Person darf nicht als Mitglied des Prüfungsausschusses oder
 der Prüferdelegation an der Abschlussprüfung mitwirken, wenn bei ihr
@@ -265,6 +276,7 @@ Prüfungsausschuss
 
 
 #### § 8 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001000000)
 
 Die Mitglieder des Prüfungsausschusses, die Mitglieder der
 Prüferdelegation und alle sonstigen Personen, die mit der
@@ -273,9 +285,11 @@ der Abschlussprüfung Verschwiegenheit gegenüber Dritten zu wahren.
 
 
 ### Unterabschnitt 2 - Prüfungstermine und Zulassung zur Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000400000)
 
 
 #### § 9 Prüfungstermine und Frist für den Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001100000)
 
 (1) Die zuständige Stelle bestimmt für jedes Jahr in der Regel zwei
 Zeiträume für die Durchführung der Abschlussprüfung. Diese Zeiträume
@@ -294,6 +308,7 @@ Monat vor Ablauf der Frist für den Antrag auf Zulassung erfolgen.
 
 
 #### § 10 Antragsformular
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001200000)
 
 (1) Für den Antrag auf Zulassung zur Abschlussprüfung stellt die
 zuständige Stelle ein Antragsformular zur Verfügung.
@@ -314,6 +329,7 @@ mit Behinderungen
 
 
 #### § 11 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001300000)
 
 (1) Wer die Abschlussprüfung absolvieren möchte, muss bei der
 zuständigen Stelle einen Antrag auf Zulassung zur Abschlussprüfung
@@ -330,6 +346,7 @@ zuständigen Stelle zur Verfügung gestellt wird.
 
 
 #### § 12 Erforderliche Unterlagen für den Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001400000)
 
 (1) Dem Antrag auf Zulassung zur Abschlussprüfung sind die folgenden
 Unterlagen beizufügen:
@@ -451,6 +468,7 @@ beizufügen:
 
 
 #### § 13 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001500000)
 
 (1) Die Entscheidung, ob ein Prüfling zur Abschlussprüfung zugelassen
 worden ist, ist ihm rechtzeitig mitzuteilen. Die Mitteilung muss
@@ -470,6 +488,7 @@ zudem anzugeben:
 
 
 #### § 14 Ausschluss von der Mitwirkung bei der Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001600000)
 
 Bei der Entscheidung über die Zulassung zur Abschlussprüfung darf eine
 Person nicht mitwirken, wenn bei ihr
@@ -485,21 +504,25 @@ Person nicht mitwirken, wenn bei ihr
 
 
 ### Unterabschnitt 3 - Durchführung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000500000)
 
 
 #### § 15 Gliederung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001700000)
 
 Die Gliederung der Abschlussprüfung richtet sich nach der
 Ausbildungsordnung.
 
 
 #### § 16 Leitung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001800000)
 
 Die Abschlussprüfung wird unter der Leitung des Vorsitzes vom gesamten
 Prüfungsausschuss durchgeführt.
 
 
 #### § 17 Prüfungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE001900000)
 
 (1) Der Prüfungsausschuss beschließt die Prüfungsaufgaben sowie ihre
 Lösungs- und Bewertungshinweise und die zulässigen Arbeits- und
@@ -523,6 +546,7 @@ Minuten nicht überschritten wird.
 
 
 #### § 18 Digitale Durchführung von schriftlich zu bearbeitenden Aufgaben und digitales Prüfungssystem
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002000000)
 
 (1) Sieht die Ausbildungsordnung schriftlich zu bearbeitende Aufgaben
 vor, so kann die zuständige Stelle bestimmen, dass diese Aufgaben ganz
@@ -576,6 +600,7 @@ werden.
 
 
 #### § 19 Nichtöffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002100000)
 
 (1) Die Abschlussprüfung ist nicht öffentlich.
 
@@ -606,6 +631,7 @@ Darauf sind die Prüflinge hinzuweisen.
 
 
 #### § 20 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002200000)
 
 (1) Einem Menschen mit Behinderung wird auf Antrag ein angemessener
 Nachteilsausgleich im Prüfungsverfahren gewährt, insbesondere im
@@ -640,6 +666,7 @@ werden. Die Absätze 2 und 3 Satz 1 gelten entsprechend.
 
 
 #### § 21 Pseudonymisierung der schriftlich zu bearbeitenden Aufgaben und der praktischen Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002300000)
 
 (1) Für die schriftlich zu bearbeitenden Aufgaben und für die
 praktischen Prüfungsleistungen wird nach dem Zufallsprinzip für jeden
@@ -659,6 +686,7 @@ vergeben wurde.
 
 
 #### § 22 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002400000)
 
 (1) Die Führung der Aufsicht während der Abschlussprüfung wird von der
 zuständigen Stelle geregelt. Die zuständige Stelle setzt dafür den
@@ -670,6 +698,7 @@ Hilfsmitteln erbringen.
 
 
 #### § 23 Ausweispflicht und Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002500000)
 
 (1) Vor Beginn jeder Prüfungsleistung muss sich der Prüfling gegenüber
 der aufsichtführenden Person über seine Person ausweisen.
@@ -714,6 +743,7 @@ aufsichtführenden Person
 
 
 #### § 24 Prüfungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002600000)
 
 (1) Über den Ablauf der Abschlussprüfung ist ein Prüfungsprotokoll
 anzufertigen.
@@ -740,6 +770,7 @@ anzufertigen.
 
 
 #### § 25 Täuschungshandlung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002700000)
 
 (1) Versucht ein Prüfling, seine Prüfungsleistung durch Täuschung oder
 durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen oder
@@ -777,6 +808,7 @@ Prüfungsausschuss oder der Prüferdelegation anzuhören.
 
 
 #### § 26 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002800000)
 
 (1) Behindert ein Prüfling durch sein Verhalten die Erbringung der
 Prüfungsleistung so, dass die Erbringung der Prüfungsleistung nicht
@@ -792,6 +824,7 @@ die Prüfungsleistung mit null Punkten zu bewerten.
 
 
 #### § 27 Rücktritt von der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE002900000)
 
 (1) Ist ein Prüfling zur Abschlussprüfung zugelassen worden, so kann
 er vor ihrem Beginn noch von der Abschlussprüfung zurücktreten, wenn
@@ -827,6 +860,7 @@ Abschlussprüfung, so ist die Abschlussprüfung nicht bestanden.
 
 
 #### § 28 Nichtteilnahme an der Erbringung einer Prüfungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003000000)
 
 (1) Nimmt ein Prüfling an der Erbringung einer Prüfungsleistung nicht
 teil, so werden seine bereits davor oder danach erbrachten
@@ -859,6 +893,7 @@ anhören.
 
 
 #### § 29 Ausschluss von Ausbildern und Ausbilderinnen an der Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003100000)
 
 (1) An der Durchführung der Abschlussprüfung sollen die Ausbilder und
 Ausbilderinnen des Prüflings nicht mitwirken.
@@ -868,9 +903,11 @@ zulassen und erfordern.
 
 
 ### Unterabschnitt 4 - Bewertung der Prüfungsleistungen in der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000600000)
 
 
 #### § 30 Bewertungsschlüssel
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003200000)
 
 (1) Die in der Abschlussprüfung erbrachten Prüfungsleistungen sind
 nach dem folgenden Bewertungsschlüssel zu bewerten:
@@ -977,6 +1014,7 @@ der Berechnung der Zwischen- und Gesamtergebnisse anzuwenden.
 
 
 #### § 31 Nichtöffentlichkeit bei Beratungen über Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003300000)
 
 (1) Bei der Beratung über die Bewertung in den einzelnen
 Prüfungsbereichen dürfen nur diejenigen Mitglieder des
@@ -989,6 +1027,7 @@ die Mitglieder des Prüfungsausschusses anwesend sein.
 
 
 #### § 32 Ausschluss von der Tätigkeit als Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003400000)
 
 Als Gutachter nach § 39 Absatz 3 des Berufsbildungsgesetzes sollen
 Personen nicht tätig werden, wenn sie als Mitglieder des
@@ -997,6 +1036,7 @@ auszuschließen wären.
 
 
 #### § 33 Ergebnisniederschrift zur Feststellung der Bewertung der Prüfungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003500000)
 
 (1) Über die Feststellung der Bewertung jeder Prüfungsleistung ist vom
 Prüfungsausschuss oder von der Prüferdelegation eine
@@ -1013,6 +1053,7 @@ zuständigen Stelle vorzulegen.
 
 
 #### § 34 Erforderliche Unterlagen für die Beschlussfassung der Bewertung der einzelnen Prüfungsleistungen und zur Feststellung des Gesamtergebnisses der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003600000)
 
 Zur abschließenden Bewertung und zur Feststellung des
 Gesamtergebnisses der Abschlussprüfung sind dem Prüfungsausschuss alle
@@ -1020,6 +1061,7 @@ erforderlichen Unterlagen zur Verfügung zu stellen.
 
 
 #### § 35 Bekanntgabe von Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003700000)
 
 (1) Endet die Abschlussprüfung mit einer mündlichen Prüfungsleistung,
 so müssen dem Prüfling die Ergebnisse seiner schriftlich bearbeiteten
@@ -1046,9 +1088,11 @@ Absätzen 1 bis 3 abweichen.
 
 
 ### Unterabschnitt 5 - Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000700000)
 
 
 #### § 36 Antrag auf die mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003800000)
 
 (1) Der Antrag auf die mündliche Ergänzungsprüfung muss bei der
 zuständigen Stelle gestellt werden.
@@ -1074,6 +1118,7 @@ entsprechend.
 
 
 #### § 37 Zeitpunkt für die mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE003900000)
 
 Die mündliche Ergänzungsprüfung findet frühestens statt, nachdem der
 Prüfling die mündliche Prüfungsleistung der regulären Abschlussprüfung
@@ -1081,6 +1126,7 @@ erbracht hat.
 
 
 #### § 38 Mitteilung des Zeitpunktes und des Ortes der mündlichen Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004000000)
 
 (1) Ist dem Antrag auf die mündliche Ergänzungsprüfung stattgegeben
 worden, so teilt die zuständige Stelle dem Prüfling den Zeitpunkt und
@@ -1093,6 +1139,7 @@ zu begründen.
 
 
 #### § 39 Bekanntgabe des Ergebnisses der mündlichen Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004100000)
 
 Das Ergebnis der mündlichen Ergänzungsprüfung muss dem Prüfling
 unmittelbar im Anschluss an die mündliche Ergänzungsprüfung bekannt
@@ -1100,9 +1147,11 @@ gegeben werden.
 
 
 ### Unterabschnitt 6 - Feststellung und Beurkundung des Gesamtergebnisses der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000800000)
 
 
 #### § 40 Zeitpunkt für die Feststellung des Gesamtergebnisses der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004200000)
 
 (1) Das Gesamtergebnis der Abschlussprüfung für einen Prüfling soll
 der Prüfungsausschuss an dem Tag feststellen, an dem der Prüfling die
@@ -1115,6 +1164,7 @@ muss der Prüfungsausschuss diese Feststellung unverzüglich treffen.
 
 
 #### § 41 Mitteilung über Bestehen und Nichtbestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004300000)
 
 Unmittelbar nach der Feststellung des Gesamtergebnisses der
 Abschlussprüfung ist dem Prüfling mitzuteilen, ob er die
@@ -1122,6 +1172,7 @@ Abschlussprüfung „bestanden“ oder „nicht bestanden“ hat.
 
 
 #### § 42 Bescheinigung über das Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004400000)
 
 (1) Hat der Prüfling die Abschlussprüfung bestanden, so ist ihm über
 das Bestehen und die Gesamtnote der Abschlussprüfung eine
@@ -1142,6 +1193,7 @@ aktenkundig zu machen.
 
 
 #### § 43 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004500000)
 
 (1) Das Prüfungszeugnis nach § 37 Absatz 2 Satz 1 des
 Berufsbildungsgesetzes wird von der zuständigen Stelle ausgestellt.
@@ -1258,6 +1310,7 @@ Information enthalten, insbesondere
 
 
 #### § 44 Bescheid über die nichtbestandene Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004600000)
 
 (1) Hat der Prüfling die Abschlussprüfung nicht bestanden, so stellt
 ihm die zuständige Stelle einen Bescheid über die nichtbestandene
@@ -1290,6 +1343,7 @@ Stelle zudem den Ausbildenden oder die Ausbildende informieren.
 
 
 #### § 45 Einsicht in die Prüfungsunterlagen und in die Ergebnisniederschriften zur Feststellung der Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004700000)
 
 (1) Der Prüfling kann beantragen, dass er seine schriftlich
 bearbeiteten Aufgaben und die Ergebnisniederschrift zur Feststellung
@@ -1316,15 +1370,18 @@ Rechtsmittels gehemmt.
 
 
 ### Unterabschnitt 7 - Wiederholung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG000900000)
 
 
 #### § 46 Termin der Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004800000)
 
 Die Abschlussprüfung kann frühestens zum nächsten Termin für die
 Abschlussprüfung wiederholt werden.
 
 
 #### § 47 Antrag zur Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE004900000)
 
 (1) Wer die Abschlussprüfung wiederholen möchte, muss dies bei der
 zuständigen Stelle beantragen.
@@ -1345,6 +1402,7 @@ Abschlussprüfung beizufügen.
 
 
 #### § 48 Umfang der Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE005000000)
 
 (1) Wird die Abschlussprüfung wiederholt, so ist sie vollständig zu
 wiederholen.
@@ -1376,15 +1434,18 @@ Wiederholung zu befreien, wenn
 
 
 #### § 49 Ergebnisse der Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE005100000)
 
 Die Punkte und Noten, die bei der Wiederholung der Abschlussprüfung
 erreicht werden, ersetzen die zuvor erreichten.
 
 
 ## Abschnitt 3 - Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG001000000)
 
 
 ### § 50 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE005200000)
 
 Sieht die Ausbildungsordnung die Möglichkeit einer Zusatzqualifikation
 vor, so gilt für die Prüfung der Zusatzqualifikation Abschnitt 2
@@ -1392,9 +1453,11 @@ entsprechend.
 
 
 ## Abschnitt 4 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNG001100000)
 
 
 ### § 51 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_daprv/BJNR16E0A0023.html#BJNR16E0A0023BJNE005300000)
 
 Diese Verordnung tritt drei Monate nach Verkündung in Kraft.
 

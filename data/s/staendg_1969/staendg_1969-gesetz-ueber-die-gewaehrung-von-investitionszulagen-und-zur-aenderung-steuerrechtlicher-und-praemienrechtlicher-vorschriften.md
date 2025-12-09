@@ -21,32 +21,39 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE000900317)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000100317)
 
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000200317)
 
 
 
 ## Art 3 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000300317)
 
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000400317)
 
 
 
 ## Art 8 - Handelrechtliche, steuerrechtliche und andere Vorschriften im Zusammenhang mit der Gründung einer Gesamtgesellschaft für das Steinkohlenbergbaugebiet Ruhr
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000500317)
 
 
 
 ## § 1 Vergütung für Sachübernahmen
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001000317)
 
 (1) Die Ruhrkohle Aktiengesellschaft darf bei der Festsetzung der
 Vergütung für Sachübernahmen von Aktionären Vermögensgegenstände des
@@ -79,6 +86,7 @@ Steinkohlenbergbaugebiete vom 15. Mai 1968 (Bundesgesetzbl. I S. 365)
 
 
 ## § 2 Sonderposten zum Ausgleich von Stillegungsabschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001100317)
 
 (1) Sind bei der Ruhrkohle Aktiengesellschaft Abschreibungen auf
 Vermögensgegenstände des Sachanlagevermögens infolge von
@@ -121,6 +129,7 @@ eingestellt werden darf.
 
 
 ## § 3 Verlustausgleichsrücklage
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001200317)
 
 (1) Die Ruhrkohle Aktiengesellschaft hat auf die Dauer von zwanzig
 Jahren seit ihrer Eintragung in das Handelsregister einen
@@ -135,6 +144,7 @@ Ausgleich von Stillegungsabschreibungen ganz oder teilweise zu tilgen.
 
 
 ## § 4 Steuerliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001300317)
 
 (1) Die Vorschriften der §§ 1 und 2 gelten auch für die steuerliche
 Gewinnermittlung.
@@ -193,6 +203,7 @@ Stelle des 1. Januar 1970 der 1. Januar 1972.
 
 
 ## § 5 Gebührenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001400317)
 
 (1) Geschäfte und Verhandlungen, die den folgenden Zwecken dienen,
 sind von den in der Kostenordnung bestimmten Gebühren befreit:
@@ -268,6 +279,7 @@ Aktiengesellschaft in das Handelsregister.
 
 
 ## § 6 Rationalisierungsverband des Steinkohlenbergbaus
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001501377)
 
 (1)
 
@@ -277,10 +289,12 @@ Bundesministeriums für Wirtschaft und Technologie.
 
 
 ## Art 9 bis 11
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000600317)
 
 
 
 ## Art 12 - Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000700317)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -290,6 +304,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 13
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNG000800317)
 
 Die §§ 1 bis 4 des Artikels 8 treten mit Wirkung vom 1. Januar 1969 in
 Kraft. Im übrigen tritt das Gesetz am Tage nach seiner Verkündung in
@@ -297,6 +312,7 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/st_ndg_1969/BJNR012119969.html#BJNR012119969BJNE001600317)
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.

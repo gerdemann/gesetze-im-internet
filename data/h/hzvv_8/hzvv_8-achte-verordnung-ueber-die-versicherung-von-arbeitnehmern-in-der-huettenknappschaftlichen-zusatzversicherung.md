@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_8/BJNR023430991.html#BJNR023430991BJNE000100307)
 
 Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen
 Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (BGBl. I S. 2104),
@@ -28,6 +29,7 @@ Sozialordnung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_8/BJNR023430991.html#BJNR023430991BJNE000200307)
 
 In der hüttenknappschaftlichen Zusatzversicherung sind
 pflichtversichert die in der Rentenversicherung der Arbeiter oder in
@@ -38,11 +40,13 @@ Versicherungspflicht in dieser Versicherung befreit sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_8/BJNR023430991.html#BJNR023430991BJNE000300307)
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1989 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvv_8/BJNR023430991.html#BJNR023430991BJNE000400307)
 
 Der Bundesrat hat zugestimmt.
 

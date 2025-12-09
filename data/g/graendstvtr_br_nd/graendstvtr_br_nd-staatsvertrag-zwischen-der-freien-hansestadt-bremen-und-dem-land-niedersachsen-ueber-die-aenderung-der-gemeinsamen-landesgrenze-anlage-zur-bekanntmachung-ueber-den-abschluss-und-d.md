@@ -21,6 +21,7 @@ Fundstelle
 Stand: In Kraft gem. Bek. v. 18.5.2010 I 624 mWv 1.1.2010
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000100000)
 
 Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wird
 nach Anhörung der betroffenen kommunalen Gebietskörperschaften
@@ -32,6 +33,7 @@ vom 30. Juli 1979 (BGBl. I S. 1325) folgender Staatsvertrag über die
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000200000)
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze zwischen
 der Freien Hansestadt Bremen und dem Land Niedersachsen – im
@@ -87,6 +89,7 @@ Bestandteile des Staatsvertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000300000)
 
 (1) Das in den abgetretenen Gebieten jeweils gelegene
 Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht
@@ -109,6 +112,7 @@ Hansestadt Bremen verkauft werden sollen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000400000)
 
 Die Freie Hansestadt Bremen übernimmt durch diesen Staatsvertrag die
 Verantwortung für die Deichsicherheit auch für das an der neuen
@@ -120,6 +124,7 @@ Küstenschutzanlagen auf bremischem Hoheitsgebiet.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000500000)
 
 (1) Die Länder und die betroffenen kommunalen Gebietskörperschaften
 treffen die sich infolge der Grenzänderungen als notwendig erweisenden
@@ -143,6 +148,7 @@ Gewerbeerwartungsflächen an die Freie Hansestadt Bremen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000600000)
 
 Die Länder erklären ihre Bereitschaft, in gegenseitigem Einverständnis
 den Grenzverlauf in der Wesermündung festzulegen und in einem weiteren
@@ -150,6 +156,7 @@ Staatsvertrag zu regeln.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000700000)
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden ausgetauscht.
@@ -159,6 +166,7 @@ Ratifikationsurkunden folgenden Monats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_br_nd/BJNR062500010.html#BJNR062500010BJNE000800000)
 
 Für das Land Niedersachsen
 Der Niedersächsische Ministerpräsident

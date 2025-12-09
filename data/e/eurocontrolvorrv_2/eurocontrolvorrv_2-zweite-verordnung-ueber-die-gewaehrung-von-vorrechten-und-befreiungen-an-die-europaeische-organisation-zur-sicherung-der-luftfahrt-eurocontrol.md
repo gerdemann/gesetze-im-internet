@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_2/BJNR209700979.html#BJNR209700979BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -33,6 +34,7 @@ des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_2/BJNR209700979.html#BJNR209700979BJNE000202307)
 
 Für die Europäische Organisation zur Sicherung der Luftfahrt
 EUROCONTROL und die Mitglieder ihres Personals, die dem System der
@@ -45,6 +47,7 @@ Arbeitsförderung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_2/BJNR209700979.html#BJNR209700979BJNE000300314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über den
@@ -56,6 +59,7 @@ das Gesetz vom 28. Februar 1964 neugefaßt wurde, auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrolvorrv_2/BJNR209700979.html#BJNR209700979BJNE000400314)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. November 1972 in Kraft.
 

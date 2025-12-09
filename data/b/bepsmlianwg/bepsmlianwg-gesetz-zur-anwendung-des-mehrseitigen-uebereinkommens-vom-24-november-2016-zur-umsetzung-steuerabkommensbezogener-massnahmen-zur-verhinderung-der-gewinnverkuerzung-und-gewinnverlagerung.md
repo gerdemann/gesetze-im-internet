@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000100000)
 
 (1) Im Sinne dieses Gesetzes ist „BEPS-MLI“ das Mehrseitige
 Übereinkommen vom 24. November 2016 zur Umsetzung
@@ -122,6 +123,7 @@ Steuerabkommen:
 
 
 ## § 2 Auslegung und Anwendung des BEPS-MLI; Verständigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000200000)
 
 Bestimmungen des BEPS-MLI sind nach der Bedeutung auszulegen und
 anzuwenden, die ihnen nach dem BEPS-MLI sowie, sofern der Zusammenhang
@@ -131,6 +133,7 @@ Konsultationsvereinbarungen hierzu, zukommt.
 
 
 ## § 3 Anwendungsvorschrift zum Abkommen mit der Republik Kroatien
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000300000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Republik Kroatien sind ab dem Zeitpunkt, zu dem das BEPS-MLI in
@@ -173,6 +176,7 @@ das Abkommen mit der Republik Kroatien ist.
 
 
 ## § 4 Anwendungsvorschrift zum Abkommen mit der Tschechischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000400000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Tschechischen Republik sind ab dem Zeitpunkt, zu dem das BEPS-MLI
@@ -199,6 +203,7 @@ das Abkommen mit der Tschechischen Republik ist.
 
 
 ## § 5 Anwendungsvorschrift zum Abkommen mit der Französischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000500000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Französischen Republik sind ab dem Zeitpunkt, zu dem das BEPS-MLI
@@ -235,6 +240,7 @@ das Abkommen mit der Französischen Republik ist.
 
 
 ## § 6 Anwendungsvorschrift zum Abkommen mit der Hellenischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000600000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Hellenischen Republik sind ab dem Zeitpunkt, zu dem das BEPS-MLI
@@ -318,6 +324,7 @@ das Abkommen mit der Hellenischen Republik ist.
 
 
 ## § 7 Anwendungsvorschrift zum Abkommen mit der Republik Ungarn
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000700000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Republik Ungarn sind ab dem Zeitpunkt, zu dem das BEPS-MLI in der
@@ -391,6 +398,7 @@ das Abkommen mit der Republik Ungarn ist.
 
 
 ## § 8 Anwendungsvorschrift zum Abkommen mit Japan
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000800000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 Japans sind ab dem Zeitpunkt, zu dem das BEPS-MLI in der
@@ -426,6 +434,7 @@ das Abkommen mit Japan ist.
 
 
 ## § 9 Anwendungsvorschrift zum Abkommen mit der Republik Malta
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE000900000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Republik Malta sind ab dem Zeitpunkt, zu dem das BEPS-MLI in der
@@ -503,6 +512,7 @@ das Abkommen mit der Republik Malta ist.
 
 
 ## § 10 Anwendungsvorschrift zum Abkommen mit der Slowakischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE001000000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 der Slowakischen Republik sind ab dem Zeitpunkt, zu dem das BEPS-MLI
@@ -571,6 +581,7 @@ das Abkommen mit der Slowakischen Republik ist.
 
 
 ## § 11 Anwendungsvorschrift zum Abkommen mit dem Königreich Spanien
+[Direktlink](https://www.gesetze-im-internet.de/bepsmlianwg/BJNR0CD0B0024.html#BJNR0CD0B0024BJNE001100000)
 
 Aufgrund der Auswahlentscheidungen der Bundesrepublik Deutschland und
 des Königreichs Spanien sind ab dem Zeitpunkt, zu dem das BEPS-MLI in

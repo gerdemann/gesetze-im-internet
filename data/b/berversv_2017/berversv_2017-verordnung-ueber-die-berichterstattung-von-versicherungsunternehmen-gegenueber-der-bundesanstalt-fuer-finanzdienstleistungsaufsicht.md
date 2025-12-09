@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -43,12 +44,15 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 
 ## Kapitel 1 - Interner jährlicher Bericht
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000100000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000200000)
 
 
 #### § 1 Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000301128)
 
 (1) Versicherungsunternehmen im Sinne des § 1 Absatz 1 Nummer 1 des
 Versicherungsaufsichtsgesetzes, die der Aufsicht durch die
@@ -75,9 +79,11 @@ festgelegten Muster.
 
 
 ### Abschnitt 2 - Bilanz und Gewinn- und Verlust-Rechnungen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000300000)
 
 
 #### § 2 Bilanz und Gewinn- und Verlust-Rechnung aller Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000401128)
 
 Die Versicherungsunternehmen haben ihre Bilanz und ihre Gewinn- und
 Verlust-Rechnung gegenüber der Bundesanstalt wie folgt darzustellen:
@@ -93,6 +99,7 @@ Verlust-Rechnung gegenüber der Bundesanstalt wie folgt darzustellen:
 
 
 #### § 3 Gesonderte Gewinn- und Verlust-Rechnungen der Lebens- und Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000502128)
 
 (1) Lebens- und Krankenversicherungsunternehmen haben zusätzlich
 jeweils gesonderte versicherungstechnische Gewinn- und Verlust-
@@ -142,6 +149,7 @@ betragen.
 
 
 #### § 4 Gesonderte Gewinn- und Verlust-Rechnungen der Schaden- und Unfallversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000601128)
 
 (1) Schaden- und Unfallversicherungsunternehmen haben zusätzlich
 jeweils gesonderte versicherungstechnische Gewinn- und Verlust-
@@ -296,6 +304,7 @@ betreiben, die in der Anlage 1 Abschnitt C unter den Kennzahlen 03 bis
 
 
 #### § 5 Gesonderte Gewinn- und Verlust-Rechnungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000701128)
 
 (1) Lebensversicherungsunternehmen, die auch die selbst abgeschlossene
 Allgemeine Unfallversicherung betreiben, haben für diesen
@@ -310,6 +319,7 @@ nach Formular F.200.01 bis einschließlich Zeile ZE1300 aufzustellen.
 
 
 #### § 6 Gesonderte Gewinn- und Verlust-Rechnungen der Rückversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000801128)
 
 Rückversicherungsunternehmen haben zusätzlich jeweils gesonderte
 versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formular
@@ -380,6 +390,7 @@ Versicherungsgeschäft ausscheidet. § 4 Absatz 2 gilt entsprechend.
 
 
 #### § 7 Gesonderte Gewinn- und Verlust-Rechnungen der Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE000901128)
 
 (1) Pensionskassen haben zusätzlich jeweils gesonderte
 versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formular
@@ -401,6 +412,7 @@ F.200.01 aufzustellen, und zwar bis einschließlich Zeile ZE0690
 
 
 #### § 8 Fristen für die Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001001128)
 
 (1) Die Formulare F.100.01 und F.200.01 gemäß den §§ 2 bis 7 sind der
 Bundesanstalt spätestens vier Monate nach Schluss des Geschäftsjahres
@@ -428,9 +440,11 @@ und F.200.01 einzureichen.
 
 
 ### Abschnitt 3 - Formgebundene Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000400000)
 
 
 #### § 9 Allgemeine formgebundene Erläuterungen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001101128)
 
 (1) Versicherungsunternehmen haben folgende formgebundene
 Erläuterungen zu erstellen:
@@ -470,6 +484,7 @@ erstellen.
 
 
 #### § 10 Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001201128)
 
 Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene
 Erläuterungen zu erstellen:
@@ -497,6 +512,7 @@ Erläuterungen zu erstellen:
 
 
 #### § 11 Zusätzliche formgebundene Erläuterungen der Pensions- und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001301128)
 
 Pensions- und Sterbekassen haben zusätzlich folgende formgebundene
 Erläuterungen zu erstellen:
@@ -537,6 +553,7 @@ Erläuterungen zu erstellen:
 
 
 #### § 12 Zusätzliche formgebundene Erläuterungen der Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001401128)
 
 (1) Krankenversicherungsunternehmen haben zusätzlich folgende
 formgebundene Erläuterungen zu erstellen:
@@ -563,6 +580,7 @@ Erläuterungen gemäß Absatz 1 Nummer 3.
 
 
 #### § 13 Zusätzliche formgebundene Erläuterungen der Schaden- und Unfallversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001501128)
 
 (1) Schaden- und Unfallversicherungsunternehmen haben zusätzlich
 folgende formgebundene Erläuterungen zu erstellen:
@@ -600,6 +618,7 @@ die formgebundenen Erläuterungen gemäß § 12 Absatz 1 Nummer 1 und 3.
 
 
 #### § 14 Zusätzliche formgebundene Erläuterungen der Rückversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001601128)
 
 Rückversicherungsunternehmen haben zusätzlich formgebundene
 Erläuterungen mit Angaben zu den Beiträgen sowie zur Zusammensetzung
@@ -609,6 +628,7 @@ Versicherungsgeschäfts gemäß Formular F.252.01 zu erstellen.
 
 
 #### § 15 Fristen für die Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001701128)
 
 (1) Die folgenden formgebundenen Erläuterungen gemäß den §§ 9 bis 14
 sind der Bundesanstalt spätestens vier Monate nach Schluss des
@@ -677,9 +697,11 @@ Monate, sofern der Abschlussstichtag der 31. Dezember ist.
 
 
 ### Abschnitt 4 - Sonstige Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000500000)
 
 
 #### § 16 Unterlagen aller Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001801128)
 
 (1) Alle Versicherungsunternehmen haben der Bundesanstalt eine
 elektronische Fassung der folgenden Unterlagen einzureichen:
@@ -777,6 +799,7 @@ wenn erkennbar ist, wer das Dokument im Original unterzeichnet hat.
 
 
 #### § 17 Versicherungsmathematische Gutachten der Pensions- und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE001901128)
 
 Pensions- und Sterbekassen haben der Bundesanstalt spätestens sieben
 Monate nach Schluss des Geschäftsjahres zusätzlich ein
@@ -792,9 +815,11 @@ Geschäftsjahres einzureichen.
 
 
 ### Abschnitt 5 - Ausländische Versicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000600000)
 
 
 #### § 18 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002001128)
 
 (1) Ausländische Versicherungsunternehmen, die zum Betrieb des Erst-
 oder Rückversicherungsgeschäfts der Erlaubnis durch die Bundesanstalt
@@ -877,9 +902,11 @@ Versicherungsunternehmen sind von der Einreichungspflicht nach Absatz
 
 
 ## Kapitel 2 - Interner vierteljährlicher Zwischenbericht
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000700000)
 
 
 ### § 19 Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002101128)
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die der Aufsicht
 durch die Bundesanstalt unterliegen, haben der Bundesanstalt
@@ -908,6 +935,7 @@ festgelegten Muster.
 
 
 ### § 20 Frist für die Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002201128)
 
 Die vierteljährlichen Zwischenberichte gemäß § 19 sind der
 Bundesanstalt spätestens bis zum Ende des Monats einzureichen, der auf
@@ -915,9 +943,11 @@ das jeweilige Berichtsvierteljahr folgt.
 
 
 ## Kapitel 3 - Bestimmte kleinere Vereine
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000800000)
 
 
 ### § 21 Abgrenzungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002300000)
 
 Die Vorschriften dieses Kapitels gelten für die folgenden
 Versicherungsunternehmen mit Sitz im Inland, soweit es sich um
@@ -953,6 +983,7 @@ Bundesanstalt unterliegen:
 
 
 ### § 22 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002401128)
 
 (1) Für die in § 21 genannten Versicherungsunternehmen gelten
 lediglich die §§ 1, 2, 8, 9 Absatz 1, 2 und 4, § 11 Nummer 1 bis 5, §
@@ -994,9 +1025,11 @@ ist und
 
 
 ## Kapitel 4 - Ausfüllen der Formulare und Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG000901128)
 
 
 ### § 23 Kennzahlen und Versicherungszweige
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002501128)
 
 (1) Die auf den Formularen zu setzenden Kennzahlen ergeben sich aus
 Anlage 1.
@@ -1018,6 +1051,7 @@ Kennzahl 30.
 
 
 ### § 24 Anwendung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002601128)
 
 (1) Bei der Verwendung der Formulare sind die sich aus Anlage 2
 Abschnitt A und B ergebenden Anmerkungen und Abkürzungen zu beachten.
@@ -1027,6 +1061,7 @@ beachten.
 
 
 ### § 24a Elektronische Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003400128)
 
 (1) Der interne jährliche Bericht nach § 1 und der interne
 vierteljährliche Bericht nach § 19 sind der Bundesanstalt in
@@ -1043,6 +1078,7 @@ Hinweise sicherzustellen.
 
 
 ### § 24b Datenformate und Einreichungsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003500128)
 
 (1) Einreichungen müssen in einem maschinenlesbaren und
 maschinendurchsuchbaren Dateiformat erfolgen.
@@ -1074,6 +1110,7 @@ erfolgen.
 
 
 ### § 24c Zusammen einzureichende Formularteile
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003600128)
 
 (1) Die quantitativen Formularteile von Formularen mit gleicher
 Einreichungsfrist nach den §§ 8 und 15 und die qualitativen
@@ -1114,6 +1151,7 @@ Meldevorgang übermittelt werden.
 
 
 ### § 24d Korrekturmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003700128)
 
 (1) Muss ein quantitativer Formularteil eines Formulars nach § 1 nach
 Übermittlung korrigiert werden, ist dieser Formularteil unverzüglich
@@ -1143,6 +1181,7 @@ erneuten Übermittlung der jeweils anderen Formularteile.
 
 
 ### § 24e Zurückweisung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003800128)
 
 (1) Die Bundesanstalt weist eine Meldedatei zurück, wenn Dateninhalte
 oder das Datenformat nicht den Vorgaben nach § 24b entsprechen.
@@ -1153,9 +1192,11 @@ Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Kapitel 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG001000000)
 
 
 ### § 25 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002700000)
 
 Ordnungswidrig im Sinne des § 332 Absatz 2 Nummer 2 des
 Versicherungsaufsichtsgesetzes handelt, wer als Mitglied des
@@ -1175,9 +1216,11 @@ Versicherungsunternehmens vorsätzlich oder leichtfertig
 
 
 ## Kapitel 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNG001100000)
 
 
 ### § 26 Ausnahme von der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002800000)
 
 Diese Verordnung ist auf Versicherungsvereine auf Gegenseitigkeit, die
 auf Grund des § 5 Absatz 1 und 2 des Versicherungsaufsichtsgesetzes
@@ -1185,6 +1228,7 @@ von der laufenden Aufsicht freigestellt sind, nicht anzuwenden.
 
 
 ### § 27 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE002901128)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals anzuwenden
 
@@ -1228,6 +1272,7 @@ in der bis zum 16. Dezember 2024 geltenden Fassung anzuwenden.
 (zu § 23)
 
 ### Anlage 1 Kennzahlen und Versicherungszweige
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003103128)
 
 (Fundstelle: BGBl. I 2017, 2866 - 2882
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4341,6 +4386,7 @@ diese mit dem Jahresüberschuss in Zusammenhang stehen.
 (zu § 24)
 
 ### Anlage 2 Anwendung der Formulare
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003202128)
 
 (Fundstelle: BGBl. I 2017, 2883 - 2912, bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -8827,6 +8873,7 @@ Abkürzungen
 (zu § 1 Absatz 2 und § 19 Absatz 2)
 
 ### Anlage 3 Formulare
+[Direktlink](https://www.gesetze-im-internet.de/berversv_2017/BJNR285800017.html#BJNR285800017BJNE003301128)
 
 (Fundstelle: BGBl. 2024 I Nr. 414, S. 48 - 171)
 

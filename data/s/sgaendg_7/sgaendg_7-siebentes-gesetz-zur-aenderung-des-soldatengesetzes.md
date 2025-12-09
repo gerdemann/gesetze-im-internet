@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_7/BJNR002210969.html#BJNR002210969BJNE000100304)
 
 (1)
 
@@ -33,6 +34,7 @@ schriftlich zu erklären.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sg_ndg_7/BJNR002210969.html#BJNR002210969BJNE000200304)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

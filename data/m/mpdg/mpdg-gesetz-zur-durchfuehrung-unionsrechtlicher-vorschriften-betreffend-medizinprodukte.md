@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Das Inkrafttreten dieses G wurde mit Ausnahme der §§ 7, 87, 88, 90 Abs. 3 u. § 97 Abs. 1 Satz 2 u. 3 gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben. §§ 7 u. 90 Abs. 3 treten gem. Art. 17 Abs. 4 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 24.4.2020 in Kraft. § 87 tritt gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 am 23.5.2020 in Kraft. Für die §§ 88 u. 97 Abs. 1 Satz 2 u. 3 verbleibt es bei der Inkraftsetzung gem. Art. 17 Abs. 1 Satz 1 G v. 28.4.2020 I 960 zum 23.5.2020.
 
 ## Kapitel 1 - Zweck, Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000103377)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000205128)
 
 Dieses Gesetz dient der Durchführung und Ergänzung
 
@@ -50,6 +52,7 @@ Dieses Gesetz dient der Durchführung und Ergänzung
 
 
 ### § 2 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000303128)
 
 (1) Dieses Gesetz ist anzuwenden auf Produkte im Anwendungsbereich der
 Verordnung (EU) 2017/745 und der Verordnung (EU) 2017/746.
@@ -62,6 +65,7 @@ angewendet werden.
 
 
 ### § 3 Ergänzende Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000403128)
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung
 (EU) 2017/745 und des Artikels 2 der Verordnung (EU) 2017/746
@@ -133,9 +137,11 @@ bezeichnet im Sinne dieses Gesetzes der Ausdruck
 
 
 ## Kapitel 2 - Anzeigepflichten, Inverkehrbringen und Inbetriebnahme von Produkten sowie deren Bereitstellung auf dem Markt, sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000203377)
 
 
 ### § 4 Ergänzende Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000504377)
 
 (1) Betriebe und Einrichtungen, die Produkte, die bestimmungsgemäß
 keimarm oder steril zur Anwendung kommen, ausschließlich für andere
@@ -159,6 +165,7 @@ das Deutsche Medizinprodukteinformations- und Datenbanksystem nach §
 
 
 ### § 5 Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000604119)
 
 (1) Hersteller und Bevollmächtigte, die ihren Sitz im Geltungsbereich
 dieses Gesetzes haben, stellen sicher, dass, auch wenn sie ihre
@@ -236,6 +243,7 @@ insbesondere
 
 
 ### § 6 Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung oder einer Leistungsstudie
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000703128)
 
 (1) Meinungsverschiedenheiten zwischen einem Hersteller und seiner
 Benannten Stelle über die Klassifizierung einzelner Produkte in
@@ -318,6 +326,7 @@ den Absätzen 1 und 2 entsprechend.
 
 
 ### § 7 Sonderzulassung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000803128)
 
 (1) Unter den in Artikel 59 Absatz 1 der Verordnung (EU) 2017/745 oder
 in Artikel 54 Absatz 1 der Verordnung (EU) 2017/746 genannten
@@ -390,6 +399,7 @@ Folgendes zu regeln:
 
 
 ### § 7a Verfahren für die Informationspflicht nach Artikel 10a der Verordnung (EU) 2017/745 und Artikel 10a der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014300119)
 
 (1) Die Anzeigen der Hersteller nach Artikel 10a Absatz 1 der
 Verordnung (EU) 2017/745 und Artikel 10a Absatz 1 der Verordnung (EU)
@@ -407,6 +417,7 @@ Absatz 2 der Verordnung (EU) 2017/746.
 
 
 ### § 8 Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE000904128)
 
 (1) Der Hersteller hat für Produkte, die im Geltungsbereich dieses
 Gesetzes auf dem Markt bereitgestellt werden, die EU-
@@ -431,6 +442,7 @@ Informationen nach Artikel 18 Absatz 1 Unterabsatz 1 der Verordnung
 
 
 ### § 9 Sondervorschriften für angepasste Produkte
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001001377)
 
 (1) Unbeschadet der für Händler und Importeure nach der Verordnung
 (EU) 2017/745 geltenden Pflichten hat jede natürliche oder juristische
@@ -468,6 +480,7 @@ Nummer 1, 2, 4 und 5 auszuhändigen.
 
 
 ### § 10 Freiverkaufszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001105119)
 
 Auf Antrag des Herstellers, seines Bevollmächtigten, eines Produzenten
 von Systemen und Behandlungseinheiten nach Artikel 22 der Verordnung
@@ -499,6 +512,7 @@ Markt bereitgestellt oder in Betrieb genommen werden dürfen.
 
 
 ### § 11 Betreiben und Anwenden von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001201377)
 
 Produkte und Produkte nach § 2 Absatz 2 dürfen nicht betrieben oder
 angewendet werden, wenn sie Mängel aufweisen, durch die Patienten,
@@ -509,6 +523,7 @@ angewendet werden.
 
 
 ### § 12 Verbote zum Schutz von Patienten, Anwendern und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001301377)
 
 Es ist verboten, ein Produkt in den Verkehr zu bringen, in Betrieb zu
 nehmen, auf dem Markt bereitzustellen, zu betreiben oder anzuwenden,
@@ -530,6 +545,7 @@ wenn
 
 
 ### § 13 Verbote zum Schutz vor Fälschungen und Täuschungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001403128)
 
 (1) Es ist verboten, gefälschte Produkte sowie gefälschte Teile und
 Komponenten im Sinne von Artikel 23 der Verordnung (EU) 2017/745 oder
@@ -546,6 +562,7 @@ Herkunft gemacht werden.
 
 
 ### § 14 Abgabe von Prüfprodukten und Produkten für Leistungsstudien
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001503128)
 
 (1) Ein Prüfprodukt darf zum Zwecke der Durchführung einer klinischen
 Prüfung an Ärzte, Zahnärzte oder sonstige Personen, die auf Grund
@@ -586,6 +603,7 @@ Einrichtungen nur abgegeben werden, wenn
 
 
 ### § 15 Bereitstellen von Sonderanfertigungen auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001601377)
 
 Sonderanfertigungen dürfen nur auf dem Markt bereitgestellt werden,
 wenn sie
@@ -603,6 +621,7 @@ wenn sie
 
 
 ### § 16 Ausstellen von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001703128)
 
 (1) Produkte, die nicht die Anforderungen der Verordnung (EU) 2017/745
 oder der Verordnung (EU) 2017/746 erfüllen, dürfen nur ausgestellt
@@ -621,9 +640,11 @@ angewendet werden.
 
 
 ## Kapitel 3 - Benannte Stellen, Prüflaboratorien, Konformitätsbewertungsstellen für Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000303377)
 
 
 ### § 17 Sprachenregelung für Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001805128)
 
 In deutscher oder englischer Sprache haben die
 Konformitätsbewertungsstellen einzureichen:
@@ -645,6 +666,7 @@ Konformitätsbewertungsstellen einzureichen:
 
 
 ### § 17a Wahrnehmung der mit der Notifizierung und Benennung verbundenen Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE013902128)
 
 (1) Die Wahrnehmung der den Mitgliedstaaten zukommenden und mit der
 Notifizierung und Benennung verbundenen Aufgaben des Kapitels IV der
@@ -660,6 +682,7 @@ Stellen zuständige Behörde, ob dagegen Einwände nach Artikel 42 Absatz
 
 
 ### § 17b Anerkennung von Benannten Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014000128)
 
 (1) Eine Benannte Stelle, die nach Kapitel IV der Verordnung (EU)
 2017/745 benannt ist, kann bei der für Benannte Stellen zuständigen
@@ -730,6 +753,7 @@ landesgesetzlichen Vorschriften unberührt.
 
 
 ### § 17c Überwachung anerkannter Benannter Stellen für die Zertifizierung von Gesundheitseinrichtungen und externen Aufbereitern
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014101128)
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die
 anerkannten Benannten Stellen nach § 17b.
@@ -749,6 +773,7 @@ anerkannten Benannten Stellen bei Überprüfungen zu begleiten.
 
 
 ### § 18 Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE001903128)
 
 (1) Ein Prüflaboratorium, das von einer Benannten Stelle nach Maßgabe
 von Artikel 37 Absatz 1 der Verordnung (EU) 2017/745 oder Artikel 33
@@ -795,6 +820,7 @@ Prüflaboratorien auf ihrer Internetseite bekannt.
 
 
 ### § 19 Überwachung anerkannter Prüflaboratorien
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002003128)
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die
 Einhaltung der auf die anerkannten Prüflaboratorien anwendbaren
@@ -813,6 +839,7 @@ Unterstützung einschließlich der Vorlage von Unterlagen verlangen.
 
 
 ### § 20 Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002101377)
 
 (1) Eine natürliche oder juristische Person oder eine rechtsfähige
 Personengesellschaft kann bei der für Benannte Stellen zuständigen
@@ -872,6 +899,7 @@ jeweiligen Aufgaben auf ihrer Internetseite bekannt.
 
 
 ### § 21 Überwachung benannter Konformitätsbewertungsstellen für Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002201377)
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die
 Konformitätsbewertungsstellen für Drittstaaten.
@@ -893,6 +921,7 @@ begleiten.
 
 
 ### § 22 Befugnisse der für Benannte Stellen zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002304128)
 
 (1) Die Beauftragten der für Benannte Stellen zuständigen Behörde sind
 befugt, zu den üblichen Betriebs- und Geschäftszeiten im Rahmen der
@@ -913,6 +942,7 @@ künftiger Mängel notwendig sind.
 
 
 ### § 23 Auskunftsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002403128)
 
 Eine Person, die im Rahmen der Überwachung nach Artikel 44 der
 Verordnung (EU) 2017/745, Artikel 40 der Verordnung (EU) 2017/746, §
@@ -926,12 +956,15 @@ Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist
 
 
 ## Kapitel 4 - Klinische Prüfungen, Leistungsstudien und sonstige klinische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000405128)
 
 
 ### Abschnitt 1 - Ergänzende Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000503377)
 
 
 #### § 24 Allgemeine ergänzende Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002505128)
 
 Über die Voraussetzungen der Verordnung (EU) 2017/745 hinaus darf eine
 klinische Prüfung von Produkten zu einem der in Artikel 62 Absatz 1
@@ -945,6 +978,7 @@ weiteren Voraussetzungen nach diesem Abschnitt vorliegen.
 
 
 #### § 25 Sponsor oder rechtlicher Vertreter des Sponsors
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002603128)
 
 Bei ausschließlich national durchgeführten oder bei national und in
 Drittstaaten durchgeführten klinischen Prüfungen, Leistungsstudien und
@@ -957,6 +991,7 @@ Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat.
 
 
 #### § 26 Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002704128)
 
 (1) Zugunsten der von einer klinischen Prüfung, einer Leistungsstudie
 oder einer sonstigen klinischen Prüfung betroffenen Personen ist eine
@@ -998,6 +1033,7 @@ Versicherung für den Prüfer oder Sponsor besteht.
 
 
 #### § 27 Verbot der Durchführung bei untergebrachten Personen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002803128)
 
 Die Person, bei der eine klinische Prüfung, eine Leistungsstudie oder
 eine sonstige klinische Prüfung durchgeführt werden soll, darf nicht
@@ -1006,6 +1042,7 @@ Anordnung oder Genehmigung freiheitsentziehend untergebracht sein.
 
 
 #### § 28 Einwilligung in die Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE002903128)
 
 (1) Ergänzend zu den Artikeln 63 und 82 Absatz 1 der Verordnung (EU)
 2017/745 und Artikel 59 der Verordnung (EU) 2017/746 gelten für die
@@ -1091,6 +1128,7 @@ sonstigen klinischen Prüfung ist Artikel 62 Absatz 5 der Verordnung
 
 
 #### § 29 Einwilligung in die Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003003128)
 
 Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine
 Einwilligung nach Aufklärung zu erteilen, sein gesetzlicher oder
@@ -1174,6 +1212,7 @@ Verarbeitung dieser Daten aufzuklären, insbesondere darüber, dass
 
 
 #### § 30 Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung, Leistungsstudie oder sonstigen klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003103128)
 
 (1) Soll eine klinische Prüfung, Leistungsstudie oder sonstige
 klinische Prüfung von mehreren Prüfern in einer Prüfstelle
@@ -1224,15 +1263,19 @@ aussagefähige Dokumente zu erbringen.
 
 
 ### Abschnitt 2 - Voraussetzungen für den Beginn, wesentliche Änderungen und Korrekturmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000603377)
 
 
 #### Unterabschnitt 1 - Klinische Prüfungen nach Artikel 62 Absatz 1 der Verordnung (EU) 2017/745 und Leistungsstudien nach Artikel 58 Absatz 1 und 2 Satz 1 der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000705128)
 
 
 ##### Titel 1 - Voraussetzungen für den Beginn
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG000803377)
 
 
 ###### § 31 Beginn einer klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE011000377)
 
 (1) Eine klinische Prüfung von Produkten, die nach den
 Klassifizierungsregeln des Anhangs VIII Kapitel III der Verordnung
@@ -1267,6 +1310,7 @@ Produkten darf nur begonnen werden, wenn
 
 
 ###### § 31a Beginn einer Leistungsstudie
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE010201128)
 
 (1) Eine Leistungsstudie, die nach Artikel 58 Absatz 1 Buchstabe a der
 Verordnung (EU) 2017/746 durchgeführt wird und bei der die Probenahme
@@ -1289,6 +1333,7 @@ therapiebegleitende Diagnostika einbeziehen.
 
 
 ###### § 31b Beginn von Leistungsstudien mit therapiebegleitenden Diagnostika unter Verwendung von Restproben
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE010302119)
 
 (1) Leistungsstudien, die therapiebegleitende Diagnostika einbeziehen,
 bei denen nur Restproben verwendet werden, muss der Sponsor dem
@@ -1337,6 +1382,7 @@ Verfahrens über den Eingang der Anzeige.
 
 
 ###### § 31c Standardvertragsklauseln für die Durchführung von klinischen Prüfungen und Leistungsstudien
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014400119)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der betroffenen
 Verbände und Organisationen durch Rechtsverordnung mit Zustimmung des
@@ -1393,9 +1439,11 @@ Standardvertragsklauseln abzuweichen.
 
 
 ##### Titel 2 - Verfahren bei der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG003400377)
 
 
 ###### § 32 Anforderungen an die Ethik-Kommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003306119)
 
 (1) Stellungnahmen nach Artikel 62 Absatz 4 Buchstabe b der Verordnung
 (EU) 2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU)
@@ -1465,6 +1513,7 @@ Kommission trifft. Dazu gehören Regelungen
 
 
 ###### § 32a Richtlinien zur Bewertung von klinischen Prüfungen und Leistungsstudien durch Ethik-Kommissionen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014500119)
 
 (1) Der Arbeitskreis Medizinischer Ethik-Kommissionen in der
 Bundesrepublik Deutschland e. V. erlässt nach Anhörung des
@@ -1492,6 +1541,7 @@ bei der Erstellung ihrer Stellungnahmen und Bewertungsberichte.
 
 
 ###### § 33 Antrag bei der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003404119)
 
 (1) Die nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU)
 2017/745 oder Artikel 58 Absatz 5 Buchstabe b der Verordnung (EU)
@@ -1574,6 +1624,7 @@ mittels eines automatisierten elektronischen Verfahrens mit.
 
 
 ###### § 34 Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003501377)
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag ordnungsgemäß
 ist.
@@ -1592,6 +1643,7 @@ Eingangsdatums.
 
 
 ###### § 35 Ethische Bewertung der beantragten klinischen Prüfung oder Leistungsstudie
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003603128)
 
 (1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan oder
 den Leistungsstudienplan und die erforderlichen Unterlagen
@@ -1644,6 +1696,7 @@ der Kinderheilkunde, verfügt.
 
 
 ###### § 36 Frist zur Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003702119)
 
 (1) Die zuständige Ethik-Kommission übermittelt dem Sponsor ihre
 Stellungnahme innerhalb einer Frist von 30 Tagen nach Eingang des
@@ -1669,6 +1722,7 @@ entsprechend oder ist deren Ablauf entsprechend gehemmt.
 
 
 ###### § 37 Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003803128)
 
 (1) Die Stellungnahme der zuständigen Ethik-Kommission muss ein
 eindeutiges Votum im Sinne einer Zustimmung oder Ablehnung enthalten.
@@ -1718,9 +1772,11 @@ eine Leistungsstudie darf nur eine Ablehnung enthalten, wenn
 
 
 ##### Titel 3 - Verfahren bei der Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001003377)
 
 
 ###### § 38 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE003905128)
 
 (1) Der Antrag nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745
 oder Artikel 66 Absatz 1 der Verordnung (EU) 2017/746 ist vom Sponsor
@@ -1740,6 +1796,7 @@ stellt.
 
 
 ###### § 39 Umfang der Prüfung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004003128)
 
 (1) Die zuständige Bundesoberbehörde prüft
 
@@ -1783,9 +1840,11 @@ Leistungsstudie.
 
 
 ##### Titel 4 - Verfahren bei wesentlichen Änderungen nach Artikel 75 der Verordnung (EU) 2017/745 oder Artikel 71 der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001105128)
 
 
 ###### § 40 Zugang der Ethik-Kommission zu Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004105128)
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht der
 nach § 33 Absatz 1 zuständigen Ethik-Kommission in geeigneter Form den
@@ -1795,6 +1854,7 @@ Artikel 71 der Verordnung (EU) 2017/746.
 
 
 ###### § 41 Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004203128)
 
 (1) Die zuständige Ethik-Kommission prüft die wesentliche Änderung
 entsprechend § 35 Absatz 1.
@@ -1831,6 +1891,7 @@ Behörden.
 
 
 ###### § 42 Entscheidung der Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004303128)
 
 Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75
 Absatz 3 Buchstabe a der Verordnung (EU) 2017/745 oder Artikel 71
@@ -1849,9 +1910,11 @@ Verordnung (EU) 2017/745 oder Artikel 71 Absatz 3 der Verordnung (EU)
 
 
 ##### Titel 5 - Korrekturmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001203377)
 
 
 ###### § 43 Korrekturmaßnahmen der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004405128)
 
 (1) Die zuständige Ethik-Kommission hat ihre zustimmende Stellungnahme
 zurückzunehmen, wenn sie davon Kenntnis erlangt, dass zum Zeitpunkt
@@ -1876,6 +1939,7 @@ das Deutsche Medizinprodukteinformations- und Datenbanksystem nach §
 
 
 ###### § 44 Korrekturmaßnahmen der Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004503128)
 
 (1) Die zuständige Bundesoberbehörde hat für alle Meldungen nach
 Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 oder Artikel 76
@@ -1889,6 +1953,7 @@ genannten Korrekturmaßnahmen nach Maßgabe von § 45.
 
 
 ###### § 45 Weitere Vorgaben für Korrekturmaßnahmen der Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004603128)
 
 (1) Die Genehmigung einer klinischen Prüfung oder einer
 Leistungsstudie ist zurückzunehmen, wenn bekannt wird, dass bei der
@@ -1948,6 +2013,7 @@ nach § 86.
 
 
 ###### § 46 Verbot der Fortsetzung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004703128)
 
 Die klinische Prüfung oder die Leistungsstudie darf nicht fortgesetzt
 werden, wenn
@@ -1969,12 +2035,15 @@ werden, wenn
 
 
 #### Unterabschnitt 2 - Sonstige klinische Prüfungen im Sinne von Artikel 82 Absatz 1 der Verordnung (EU) 2017/745
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001303377)
 
 
 ##### Titel 1 - Besondere Voraussetzungen und Beginn
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001403377)
 
 
 ###### § 47 Anforderungen an sonstige klinische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004805119)
 
 (1) Eine sonstige klinische Prüfung eines Produktes darf auch bei
 Vorliegen der Voraussetzungen des Artikels 82 Absatz 1 der Verordnung
@@ -2045,9 +2114,11 @@ trägt, wenn
 
 
 ##### Titel 2 - Verfahren bei der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001503377)
 
 
 ###### § 48 Antrag bei der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE004903377)
 
 (1) Die nach Artikel 82 Absatz 1 in Verbindung mit Artikel 62 Absatz 4
 Buchstabe b der Verordnung
@@ -2102,6 +2173,7 @@ automatisiertes elektronisches Verfahren mit.
 
 
 ###### § 49 Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005001377)
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag ordnungsgemäß
 ist.
@@ -2120,6 +2192,7 @@ Eingangsdatums.
 
 
 ###### § 50 Ethische Bewertung der beantragten sonstigen klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005101377)
 
 (1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan und
 die erforderlichen Unterlagen insbesondere unter ethischen und
@@ -2155,6 +2228,7 @@ Kinderheilkunde, verfügt.
 
 
 ###### § 51 Frist zur Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005202119)
 
 (1) Die zuständige Ethik-Kommission übermittelt dem Sponsor ihre
 Stellungnahme innerhalb einer Frist von 30 Tagen nach Eingang des
@@ -2180,6 +2254,7 @@ entsprechend oder ist deren Ablauf entsprechend gehemmt.
 
 
 ###### § 52 Stellungnahme der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005301377)
 
 (1) Die Stellungnahme der zuständigen Ethik-Kommission muss ein klares
 Votum im Sinne einer Zustimmung oder Ablehnung enthalten.
@@ -2209,9 +2284,11 @@ Ablehnung enthalten, wenn
 
 
 ##### Titel 3 - Anzeige bei der Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001603377)
 
 
 ###### § 53 Anzeige einer sonstigen klinischen Prüfung bei der zuständigen Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005403377)
 
 (1) Eine sonstige klinische Prüfung ist nach § 47 Absatz 2 Nummer 2
 vom Sponsor bei der zuständigen Bundesoberbehörde über das Deutsche
@@ -2235,9 +2312,11 @@ zuständige Behörde und die für die Prüfstellen zuständigen Behörden
 
 
 ##### Titel 4 - Verfahren bei Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001703377)
 
 
 ###### § 54 Anzeige von Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005503377)
 
 (1) Der Sponsor hat Änderungen in den nach § 48 Absatz 2 und § 53
 Absatz 2 eingereichten Unterlagen der zuständigen Bundesoberbehörde
@@ -2254,6 +2333,7 @@ einer Änderungsanzeige.
 
 
 ###### § 55 Antrag bei der Ethik-Kommission bei wesentlichen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005601377)
 
 (1) Beabsichtigt der Sponsor eine Änderung, die wahrscheinlich
 wesentliche Auswirkungen auf die Sicherheit, die Gesundheit oder die
@@ -2271,6 +2351,7 @@ elektronischen Verfahrens mit.
 
 
 ###### § 56 Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005701377)
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag vollständig
 und ordnungsgemäß ist.
@@ -2288,6 +2369,7 @@ des ordnungsgemäßen Antrags unter Angabe des Eingangsdatums.
 
 
 ###### § 57 Prüfung der beantragten wesentlichen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005801377)
 
 (1) Die zuständige Ethik-Kommission prüft die wesentliche Änderung
 entsprechend § 50 Absatz 1.
@@ -2308,6 +2390,7 @@ zu prüfenden Änderungen.
 
 
 ###### § 58 Frist zur Stellungnahme der Ethik-Kommission bei wesentlichen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE005902119)
 
 (1) Die zuständige Ethik-Kommission nimmt gegenüber dem Sponsor
 innerhalb von 37 Tagen nach Eingang eines ordnungsgemäßen
@@ -2333,6 +2416,7 @@ entsprechend gehemmt.
 
 
 ###### § 59 Vornahme von wesentlichen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006001377)
 
 Der Sponsor darf die beantragte wesentliche Änderung frühestens 38
 Tage nach Erhalt der Mitteilung der zuständigen Ethik-Kommission über
@@ -2342,9 +2426,11 @@ eine ablehnende Stellungnahme abgegeben.
 
 
 ##### Titel 5 - Korrekturmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001803377)
 
 
 ###### § 60 Korrekturmaßnahmen der Ethik-Kommission
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006103377)
 
 (1) Die zuständige Ethik-Kommission hat ihre zustimmende Stellungnahme
 zurückzunehmen, wenn sie nachträglich davon Kenntnis erlangt, dass zum
@@ -2372,6 +2458,7 @@ das Deutsche Medizinprodukteinformations- und Datenbanksystem nach §
 
 
 ###### § 61 Verbot der Fortsetzung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006201377)
 
 Die sonstige klinische Prüfung darf nicht fortgesetzt werden, wenn die
 Stellungnahme der zuständigen Ethik-Kommission zurückgenommen oder
@@ -2379,9 +2466,11 @@ widerrufen wurde.
 
 
 ### Abschnitt 3 - Pflichten bei der Durchführung und Überwachung; Kontaktstelle
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG001903377)
 
 
 #### § 62 Pflichten des Prüfers oder Hauptprüfers
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006305128)
 
 (1) Der Prüfer oder Hauptprüfer stellt sicher, dass
 
@@ -2441,6 +2530,7 @@ der Untersuchung überlassen.
 
 
 #### § 63 Meldepflichten des Prüfers oder Hauptprüfers
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006403128)
 
 (1) Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen
 Prüfung oder sonstigen klinischen Prüfung
@@ -2494,6 +2584,7 @@ Leistungsstudie
 
 
 #### § 64 Melde- und Mitteilungspflichten des Sponsors bei einer sonstigen klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006502128)
 
 (1) Der Sponsor meldet über das Deutsche Medizinprodukteinformations-
 und Datenbanksystem nach § 86 der zuständigen Bundesoberbehörde
@@ -2538,6 +2629,7 @@ im Sinne des § 47 Absatz 3.
 
 
 #### § 65 Verarbeitung und Pseudonymisierung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006603128)
 
 (1) Die zuständigen Behörden dürfen personenbezogene Daten von
 Sponsoren, Prüfern, Hauptprüfern, Leitern von klinischen Prüfungen,
@@ -2567,6 +2659,7 @@ Erfüllung ihrer Aufgaben nach diesem Gesetz und der Verordnung (EU)
 
 
 #### § 66 Eigenverantwortliche korrektive Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006703128)
 
 (1) Treten während einer klinischen Prüfung, einer Leistungsstudie
 nach Artikel 58 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU)
@@ -2587,6 +2680,7 @@ zuständige Ethik-Kommission über diese neuen Umstände.
 
 
 #### § 67 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006803128)
 
 Über Meldungen, die nach Artikel 80 Absatz 2 Buchstabe a der
 Verordnung (EU) 2017/745, Artikel 76 Absatz 2 Buchstabe a der
@@ -2607,6 +2701,7 @@ Behörden, die zuständig sind
 
 
 #### § 68 Überwachung von klinischen Prüfungen, Leistungsstudien und sonstigen klinischen Prüfungen durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE006903128)
 
 (1) Die zuständige Behörde überprüft in angemessenem Umfang, ob
 Betriebe und Einrichtungen, die Produkte klinisch prüfen oder einer
@@ -2633,6 +2728,7 @@ Absatz 3 der Verordnung (EU) 2017/746 Rechnung.
 
 
 #### § 69 Korrekturmaßnahmen der Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007001377)
 
 (1) Die zuständige Bundesoberbehörde bewertet die Meldungen nach § 64,
 um festzustellen, ob die Fortführung einer sonstigen klinischen
@@ -2672,6 +2768,7 @@ werden.
 
 
 #### § 70 Kontaktstelle
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007103128)
 
 Die Kontaktstelle im Sinne des Artikels 62 Absatz 4 Buchstabe g der
 Verordnung (EU) 2017/745 oder des Artikels 58 Absatz 5 Buchstabe g der
@@ -2680,9 +2777,11 @@ Bundesoberbehörde einzurichten.
 
 
 ## Kapitel 5 - Vigilanz und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002003377)
 
 
 ### § 71 Durchführung der Vigilanzaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007205128)
 
 (1) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach den
 Artikeln 87 bis 90 der Verordnung (EU) 2017/745 und nach den Artikeln
@@ -2741,6 +2840,7 @@ durch und gibt die Ergebnisse bekannt.
 
 
 ### § 72 Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007303128)
 
 (1) Die zuständige Bundesoberbehörde nimmt ihre Risikobewertung
 möglichst in Zusammenarbeit mit dem Hersteller vor.
@@ -2811,6 +2911,7 @@ Satz 1 hinzuweisen.
 
 
 ### § 73 Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007403128)
 
 (1) Ergreifen Hersteller im Geltungsbereich dieses Gesetzes
 Sicherheitskorrekturmaßnahmen, sind die Sicherheitsanweisungen im Feld
@@ -2831,6 +2932,7 @@ außerhalb des Geltungsbereichs dieses Gesetzes hat.
 
 
 ### § 74 Verfahren zum Schutz vor Risiken
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007504119)
 
 (1) Kommt die zuständige Bundesoberbehörde nach Durchführung der
 Risikobewertung zu dem Schluss, dass von dem Produkt ein
@@ -2920,6 +3022,7 @@ getroffenen Maßnahmen.
 
 
 ### § 75 Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 4 der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007603128)
 
 Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen
 gegen einen Wirtschaftsakteur nach Artikel 95 Absatz 4 der Verordnung
@@ -2931,6 +3034,7 @@ der Verordnung (EU) 2017/746 erforderlichen Informationen mit.
 
 
 ### § 76 Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 6 der Verordnung (EU) 2017/746 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745 oder Artikel 90 Absatz 7 der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007703128)
 
 (1) Hat ein anderer Mitgliedstaat der Europäischen Union gegenüber
 einem Wirtschaftsakteur Maßnahmen nach Artikel 95 Absatz 4 der
@@ -2961,6 +3065,7 @@ erforderlich sind.
 
 
 ### § 77 Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007804119)
 
 (1) Der Überwachung durch die zuständigen Behörden unterliegen
 
@@ -3025,6 +3130,7 @@ unter Angabe der Gründe mit, die daraufhin eine Risikobewertung nach §
 
 
 ### § 78 Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE007904119)
 
 (1) Unbeschadet der Vorschriften der Verordnung (EU) 2017/745 und der
 Verordnung (EU) 2017/746 zur Marktüberwachung und des § 74 Absatz 1
@@ -3072,6 +3178,7 @@ zuständigen Behörden. Absatz 1 ist anzuwenden.
 
 
 ### § 79 Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008003128)
 
 (1) Die mit der Risikobewertung und der Überwachung beauftragten
 Personen sind befugt,
@@ -3121,6 +3228,7 @@ Grundgesetzes) wird durch Absatz 1 Nummer 2 eingeschränkt.
 
 
 ### § 80 Duldungs- und Mitwirkungspflichten im Rahmen der Vigilanz und der Überwachung; Auskunftsverweigerungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008101377)
 
 (1) Wer der Überwachung nach § 77 Absatz 1 unterliegt, hat Maßnahmen
 nach § 79 Absatz 1 zu dulden und ist verpflichtet, die beauftragten
@@ -3141,6 +3249,7 @@ Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist
 
 
 ### § 81 Zuständige Behörden für die Meldepflichten der Importeure und Händler
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008203128)
 
 In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2
 Unterabsatz 2 oder Absatz 7 der Verordnung (EU) 2017/745 oder Artikel
@@ -3164,6 +3273,7 @@ Verordnung (EU) 2017/746 informiert der Händler
 
 
 ### § 82 Präventive Gesundheitsschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008304119)
 
 (1) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der
 Verordnung (EU) 2017/745 oder Artikel 93 der Verordnung (EU) 2017/746
@@ -3205,9 +3315,11 @@ zuständig ist.
 
 
 ## Kapitel 6 - Medizinprodukteberater
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002103377)
 
 
 ### § 83 Medizinprodukteberater
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008403377)
 
 (1) Wer berufsmäßig Fachkreise fachlich informiert oder in die
 sachgerechte Handhabung der Medizinprodukte einweist
@@ -3252,9 +3364,11 @@ Informationen nach Satz 1 diesem schriftlich oder elektronisch zu
 
 
 ## Kapitel 7 - Zuständige Behörden, Verordnungsermächtigungen, sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002203377)
 
 
 ### § 84 Beratungspflichten der zuständigen Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008504377)
 
 Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen
 Behörden, Hersteller, Bevollmächtigte, Importeure, Sponsoren und
@@ -3266,6 +3380,7 @@ von Risiken gefälschter Produkte.
 
 
 ### § 85 Zuständigkeiten und Aufgaben der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008606119)
 
 (1) Zuständige Behörden im Sinne der Verordnung (EU) 2017/745, der
 Verordnung (EU) 2017/746 und dieses Gesetzes sind, soweit in den
@@ -3462,6 +3577,7 @@ Bundesoberbehörden und die zuständigen Behörden wissenschaftlich.
 
 
 ### § 86 Deutsches Medizinprodukteinformations- und Datenbanksystem
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008703128)
 
 (1) Das Deutsche Medizinprodukteinformations- und Datenbanksystem
 (DMIDS) dient insbesondere für
@@ -3624,9 +3740,11 @@ dürfen keine personenbezogenen Daten zugänglich gemacht werden.
 
 
 ### § 87 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008802116)
 
 
 ### § 88 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE008903128)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, mit
@@ -3938,6 +4056,7 @@ werden.
 
 
 ### § 89 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE012400377)
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur
 Durchführung dieses Gesetzes erforderlichen allgemeinen
@@ -3948,9 +4067,11 @@ Informationsaustausch und zur Zusammenarbeit der Behörden.
 
 
 ## Kapitel 8 - Sondervorschriften für den Bereich der Bundeswehr und den Zivil- und Katastrophenschutz
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002303377)
 
 
 ### § 90 Anwendung und Vollzug des Gesetzes, Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE010105128)
 
 (1) Im Bereich des Betreibens und Anwendens sind die Vorschriften
 dieses Gesetzes und die Vorschriften der auf Grund dieses Gesetzes
@@ -3975,6 +4096,7 @@ Satz 1 nach Maßgabe von Artikel 59 Absatz 2 der Verordnung (EU)
 
 
 ### § 91 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009204128)
 
 (1) Schreiben die grundlegenden Sicherheits- und
 Leistungsanforderungen nach Anhang I der Verordnung (EU) 2017/745 oder
@@ -3999,9 +4121,11 @@ gerechtfertigt ist und der Schutz der Gesundheit gewahrt bleibt.
 
 
 ## Kapitel 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002403377)
 
 
 ### § 92 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009305128)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -4284,6 +4408,7 @@ Geldstrafe.
 
 
 ### § 93 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009403128)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -4589,6 +4714,7 @@ verstößt, indem er
 
 
 ### § 94 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009504119)
 
 (1) Ordnungswidrig handelt, wer eine in § 93 bezeichnete Handlung
 fahrlässig begeht.
@@ -4746,6 +4872,7 @@ dreißigtausend Euro geahndet werden.
 
 
 ### § 95 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009601377)
 
 Gegenstände, auf die sich eine Straftat nach § 92 oder § 93 oder eine
 Ordnungswidrigkeit nach § 94 bezieht, können eingezogen werden. § 74a
@@ -4754,9 +4881,11 @@ sind anzuwenden.
 
 
 ## Kapitel 10 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNG002503377)
 
 
 ### § 96 Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE012601128)
 
 (1) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745
 gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und
@@ -4786,6 +4915,7 @@ spätestens bis zum 1. September 2021 zu übermitteln.
 
 
 ### § 96a Übergangsvorschrift aus Anlass von Artikel 113 Absatz 3 Buchstabe a der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE012602128)
 
 (1) Unbeschadet des Artikels 110 Absatz 8 der Verordnung (EU) 2017/746
 gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und
@@ -4817,6 +4947,7 @@ Bundesanzeiger veröffentlicht wird.
 
 
 ### § 97 Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009810128)
 
 (1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34
 Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2021 im
@@ -4894,6 +5025,7 @@ veröffentlicht wird,
 
 
 ### § 97a Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 30 der Verordnung (EU) 2017/746
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE014200128)
 
 (1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34
 Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2022 im
@@ -4971,6 +5103,7 @@ veröffentlicht wird,
 
 
 ### § 98 Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE009906128)
 
 Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem
 nach § 86 am 26. Mai 2021 nicht voll funktionsfähig ist, teilt das
@@ -4985,6 +5118,7 @@ veröffentlicht wird.
 
 
 ### § 99 Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE010004119)
 
 (1) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1,
 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25.
@@ -5105,6 +5239,7 @@ wurden.
 
 
 ### § 100 Sonstige Übergangsregelungen für In-vitro-Diagnostika und deren Zubehör
+[Direktlink](https://www.gesetze-im-internet.de/mpdg/BJNR096010020.html#BJNR096010020BJNE010404119)
 
 (1) Für In-vitro-Diagnostika und deren Zubehör im Sinne von § 3 Nummer
 4 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai

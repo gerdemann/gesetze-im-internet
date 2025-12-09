@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000100328)
 
 Auf Grund des § 6 Abs. 1 Nr. 11 und der §§ 9 und 11 Abs. 2 des
 Gesetzes zur Durchführung der gemeinsamen Marktorganisationen vom 31.
@@ -33,6 +34,7 @@ verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000203377)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
@@ -42,6 +44,7 @@ Schafen.
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -49,6 +52,7 @@ Ernährung (Bundesanstalt).
 
 
 ## § 3 Form der Verträge
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE001300377)
 
 Die nach den in § 1 genannten Rechtsakten abzuschließenden
 Lagerverträge haben dem von der Bundesanstalt im Bundesanzeiger
@@ -56,6 +60,7 @@ bekannt gemachten Muster zu entsprechen.
 
 
 ## § 4 Gewährung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000502377)
 
 (1) Die Anträge auf Gewährung einer Beihilfe sind nach dem von der
 Bundesanstalt im Bundesanzeiger bekanntgemachten Muster bei der
@@ -65,6 +70,7 @@ Bundesanstalt einzureichen.
 
 
 ## § 5 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000601308)
 
 (1) Der Antragsteller ist verpflichtet, gesondert für jeden Vertrag
 über private Lagerhaltung die zur Überwachung der Einhaltung der
@@ -80,6 +86,7 @@ bleiben unberührt.
 
 
 ## § 6 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000700328)
 
 Der Antragsteller hat während der Geschäfts- und Betriebszeit den
 Beauftragten der Bundesanstalt das Betreten der Lagerräume sowie die
@@ -92,21 +99,25 @@ verlangen.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000801310)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE000901308)
 
 -
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE001101308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flbeihv/BJNR004110978.html#BJNR004110978BJNE001200328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

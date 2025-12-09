@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000201360)
 
 Diese Verordnung regelt die Voraussetzungen und Bedingungen für die
 Teilnahme am Luftverkehr in der Bundesrepublik Deutschland, soweit die
@@ -43,6 +45,7 @@ anwendbar sind oder keine Regelung enthalten.
 
 
 ### § 2 Maßeinheiten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000300000)
 
 (1) Im Flugbetrieb sind die Maßeinheiten anzuwenden, die das
 Bundesaufsichtsamt für Flugsicherung festlegt.
@@ -53,6 +56,7 @@ anzuwenden.
 
 
 ### § 3 Zuständige Behörde nach Artikel 4 der Durchführungsverordnung (EU) Nr. 923/2012
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000400000)
 
 Zuständig für die Gewährung von Ausnahmen für besonderen Flugbetrieb
 ist nach
@@ -84,9 +88,11 @@ ist nach
 
 
 ## Abschnitt 2 - Luftfahrtpersonal
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000200000)
 
 
 ### § 4 Körperliche und geistige Beeinträchtigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000500000)
 
 Wer infolge geistiger oder körperlicher Beeinträchtigungen in der
 Wahrnehmung der Aufgaben als Führer eines Luftfahrzeugs oder sonst als
@@ -97,6 +103,7 @@ bleibt hiervon unberührt.
 
 
 ### § 5 Lärm
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000600000)
 
 Der Lärm, der bei dem Betrieb eines Luftfahrzeugs verursacht wird,
 darf nicht stärker sein, als es die ordnungsgemäße Führung oder
@@ -104,6 +111,7 @@ Bedienung des Luftfahrzeugs unvermeidbar erfordert.
 
 
 ### § 6 Mitführung von Urkunden und Ausweisen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000700000)
 
 Die Verpflichtung, die für den Betrieb eines Luftfahrzeugs
 erforderlichen Urkunden und Ausweise an Bord eines Luftfahrzeugs
@@ -115,9 +123,11 @@ sind diese Unterlagen auch in englischer Sprache mitzuführen.
 
 
 ## Abschnitt 3 - Besondere Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000300000)
 
 
 ### § 7 Meldung von Unfällen und Störungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000800000)
 
 (1) Der verantwortliche Luftfahrzeugführer hat Unfälle ziviler
 Luftfahrzeuge im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) Nr.
@@ -211,6 +221,7 @@ melden. Absatz 1 Satz 2 und die Absätze 4 und 5 gelten entsprechend.
 
 
 ### § 8 Startverbote
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE000900000)
 
 (1) Wird auf Grund des Ergebnisses einer luftaufsichtsrechtlichen
 Untersuchung ein Startverbot für ein Luftfahrzeug, das nicht in einem
@@ -266,6 +277,7 @@ nach den Absätzen 1 bis 5 stützt, richtet sich nach § 29 Absatz 5 und
 
 
 ### § 9 Meldung von sicherheitsrelevanten Ereignissen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001000000)
 
 (1) Ein Ereignis, das ein Luftfahrzeug, seine Insassen oder Dritte
 gefährdet hat oder, wenn keine Gegenmaßnahmen ergriffen werden,
@@ -353,6 +365,7 @@ Auflagen bleiben unberührt.
 
 
 ### § 10 Register für sicherheitsrelevante Ereignisse
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001100000)
 
 (1) Das Luftfahrt-Bundesamt führt ein Register zur Erfassung,
 Verarbeitung, Auswertung und Speicherung der ihm gemeldeten
@@ -413,9 +426,11 @@ Ereignisdatei gespeicherten Informationen.
 
 
 ## Abschnitt 4 - Allgemeine Verkehrsregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000400000)
 
 
 ### § 11 Abweichung von Höchstgeschwindigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001200000)
 
 (1) Der Luftfahrzeugführer ist verpflichtet, die in Anhang SERA.6001
 Buchstabe c bis g der Durchführungsverordnung (EU) Nr. 923/2012
@@ -429,6 +444,7 @@ einhalten können, Ausnahmen zulassen.
 
 
 ### § 12 Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923/2012
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001301116)
 
 Zuständig für die Genehmigung der von der Flugsicherungsorganisation
 vorgegebenen Mindestabstände zwischen Fahrzeugen und rollenden
@@ -438,6 +454,7 @@ Buchstabe B der Durchführungsverordnung (EU) Nr.
 
 
 ### § 13 Abwerfen von Gegenständen oder sonstigen Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001400000)
 
 (1) Das Abwerfen oder Ablassen von Gegenständen oder sonstigen Stoffen
 aus oder von Luftfahrzeugen ist verboten. Dies gilt nicht für Ballast
@@ -456,6 +473,7 @@ zuständigen Luftfahrtbehörde des Landes.
 
 
 ### § 14 Kunstflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001500000)
 
 (1) Kunstflüge dürfen nur bei Flugverhältnissen, bei denen nach
 Sichtflugregeln geflogen werden darf, und nur mit ausdrücklicher
@@ -478,6 +496,7 @@ Flugverkehrskontrollstelle ein Flugplan zu übermitteln.
 
 
 ### § 15 Schlepp- und Reklameflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001600000)
 
 (1) Reklameflüge mit geschleppten Gegenständen bedürfen der Erlaubnis
 der Luftfahrtbehörde des Landes, in dem der Luftfahrzeugführer seinen
@@ -531,9 +550,11 @@ Luftfahrzeugs besteht, bedürfen keiner Erlaubnis.
 
 
 ## Abschnitt 5 - Nutzung des Luftraums
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000500000)
 
 
 ### § 16 Luftraumordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001700000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt
 Folgendes fest:
@@ -573,6 +594,7 @@ Sicherheit des Luftverkehrs erforderlich ist.
 
 
 ### § 17 Luftsperrgebiete und Gebiete mit Flugbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001800000)
 
 (1) Zuständig für die Festlegung von Luftsperrgebieten und Gebieten
 mit Flugbeschränkungen sowie für die Genehmigung von Abweichungen in
@@ -592,6 +614,7 @@ verbunden werden.
 
 
 ### § 18 Erlaubnisbedürftige Außenstarts und Außenlandungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE001901305)
 
 (1) Starts und Landungen von Luftfahrzeugen außerhalb der für sie
 genehmigten Flugplätze (Außenstart und Außenlandung) nach § 25 des
@@ -655,6 +678,7 @@ Genehmigung nach Satz 1 widerrufen werden.
 
 
 ### § 19 Verbotene Nutzung des Luftraums
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002002119)
 
 (1) In einer Entfernung von weniger als 1,5 Kilometern von der
 Begrenzung von Flugplätzen sind folgende Arten der Nutzung des
@@ -703,6 +727,7 @@ Leuchtkörpern verbieten, bleiben unberührt.
 
 
 ### § 20 Erlaubnisbedürftige Nutzung des Luftraums
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002101116)
 
 (1) Die folgenden Arten der Nutzung des Luftraums bedürfen der
 Erlaubnis:
@@ -761,6 +786,7 @@ Auflagen verbunden werden.
 
 
 ### § 21 Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002201360)
 
 (1) Vor der Nutzung des kontrollierten Luftraums und des Luftraums
 über Flugplätzen mit Flugverkehrskontrollstelle ist bei der
@@ -840,9 +866,11 @@ Leuchtkörpern verbieten, bleiben unberührt.
 
 
 ## Abschnitt 5a - Betrieb von unbemannten Fluggeräten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG001201360)
 
 
 ### § 21a Verfahren und zuständige Behörden in der Betriebskategorie „offen“ nach der Durchführungsverordnung (EU) 2019/947
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004902119)
 
 (1) Zuständige Behörde in der Betriebskategorie „offen“ für die
 Durchführung von Prüfungen und die Ausstellung von Bescheinigungen und
@@ -892,6 +920,7 @@ im automatischen Verfahren nicht ermittelt würden.
 
 
 ### § 21b Zuständige Behörden für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „speziell“ nach der Durchführungsverordnung (EU) 2019/947
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005002360)
 
 (1) Zuständige Behörde für den Betrieb von unbemannten Fluggeräten und
 für die Durchführung von Prüfungen und die Ausstellung von
@@ -923,6 +952,7 @@ Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2019/947.
 
 
 ### § 21c Zuständige Behörde für den Betrieb von unbemannten Fluggeräten in der Betriebskategorie „zulassungspflichtig“ nach der Durchführungsverordnung (EU) 2019/947; Verkehrsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005101360)
 
 (1) Zuständige Behörde in der Betriebskategorie „zulassungspflichtig“
 für die Erteilung einer Zulassung nach den Artikeln 6, 7 Absatz 3 und
@@ -940,6 +970,7 @@ Umwelt-, Lärm- oder Naturschutzes haben können.
 
 
 ### § 21d Zuständige Behörde für den Betrieb von unbemannten Fluggeräten nach der Durchführungsverordnung (EU) 2019/947 durch Betreiber aus Drittländern
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005201360)
 
 Zuständige Behörde für den Betrieb unbemannter Fluggeräte nach den §§
 21a bis 21c durch Betreiber im Sinne des Artikels 41 der Delegierten
@@ -947,6 +978,7 @@ Verordnung (EU) 2019/945 ist das Luftfahrt-Bundesamt.
 
 
 ### § 21e Benannte und anerkannte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005301360)
 
 (1) Das Luftfahrt-Bundesamt kann auf Antrag Stellen für die
 Durchführung von Prüfungen und für die Ausstellung von Bescheinigungen
@@ -980,6 +1012,7 @@ auch befugt, Prüfungen nach § 21a und § 21b beizuwohnen.
 
 
 ### § 21f Regelungen für den Betrieb von Flugmodellen im Rahmen von Luftsportverbänden nach der Durchführungsverordnung (EU) 2019/947
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005401360)
 
 (1) Der Betrieb von Flugmodellen durch Mitglieder von
 Luftsportverbänden oder durch Mitglieder von in Luftsportverbänden
@@ -1080,6 +1113,7 @@ Naturschutzrecht der Länder bleiben unberührt.
 
 
 ### § 21g Regelungen für die Erteilung einer Genehmigung nach der Durchführungsverordnung (EU) 2019/947 an Luftsportverbände
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005500360)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 eine von ihm bestimmte Bundesbehörde kann bundesweit tätigen
@@ -1133,6 +1167,7 @@ durchgeführt wird, beizuwohnen.
 
 
 ### § 21h Regelungen für den Betrieb von unbemannten Fluggeräten in geografischen Gebieten nach der Durchführungsverordnung (EU) 2019/947
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005600360)
 
 (1) Die Benutzung des Luftraums durch unbemannte Fluggeräte ist frei,
 soweit sie nicht durch das Luftverkehrsgesetz, durch die zu seiner
@@ -1353,6 +1388,7 @@ dem 18. Juni 2021.
 
 
 ### § 21i Erteilung einer Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005700360)
 
 (1) Für die in § 21h Absatz 3 und 4 genannten geografischen Gebiete
 kann die örtlich zuständige Luftfahrtbehörde des Landes über die dort
@@ -1402,6 +1438,7 @@ unberührt.
 
 
 ### § 21j Ausweisung und Veröffentlichung geografischer Gebiete nach Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005800360)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 eine von ihm bestimmte Bundesbehörde ist zuständig für die Ausweisung
@@ -1422,6 +1459,7 @@ veröffentlicht.
 
 
 ### § 21k Betrieb von unbemannten Fluggeräten durch Behörden und Organisationen mit Sicherheitsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE005900360)
 
 (1) Keiner Genehmigung nach Artikel 12 der Durchführungsverordnung
 (EU) 2019/947 bedarf der Betrieb von unbemannten Fluggeräten mit
@@ -1447,9 +1485,11 @@ Fluggeräten zur Erfüllung ihrer gesetzlichen Aufgaben erfolgt.
 
 
 ## Abschnitt 6 - Flugplatzverkehr
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000600000)
 
 
 ### § 22 Regelung des Flugplatzverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002300000)
 
 (1) Für die Durchführung des Flugplatzverkehrs auf Flugplätzen mit
 Flugverkehrskontrollstelle kann die Flugsicherungsorganisation
@@ -1467,6 +1507,7 @@ Voraussetzungen eingehalten werden.
 
 
 ### § 23 Flugbetrieb auf einem Flugplatz und in dessen Umgebung
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002400000)
 
 (1) Wer ein Luftfahrzeug auf einem Flugplatz oder in dessen Umgebung
 führt, ist verpflichtet, über die in Anhang SERA.3225 der
@@ -1591,10 +1632,12 @@ Abstand vom Luftfahrzeug aufhalten.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002501119)
 
 
 
 ### § 25 Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002600000)
 
 (1) Ist beim Betrieb eines Luftfahrzeugs an einem Flugplatz mit
 Flugverkehrskontrolle eine Funkverbindung nicht möglich, so hat der
@@ -1615,6 +1658,7 @@ Verfügungen ist Folge zu leisten.
 
 
 ### § 26 Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002700000)
 
 (1) Flugzeuge mit Strahltriebwerken,
 
@@ -1664,9 +1708,11 @@ Flugzeugs mitzuführen ist.
 
 
 ## Abschnitt 7 - Flugvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000700000)
 
 
 ### § 27 Prüfung der Flugvorbereitung und der vorgeschriebenen Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002800000)
 
 (1) Auf Verlangen der für die Wahrnehmung der Luftaufsicht zuständigen
 Personen oder Stellen hat
@@ -1688,6 +1734,7 @@ sind Flüge, bei denen der Flugplan während des Flugs übermittelt wird.
 
 
 ### § 28 Festlegung des Flugplans
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE002900000)
 
 (1) Das Bundesaufsichtsamt für Flugsicherung ist zuständig für
 
@@ -1740,9 +1787,11 @@ zuständig für die Festlegung der Gebiete,
 
 
 ## Abschnitt 8 - Flug
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000800000)
 
 
 ### § 29 Festlegungen im Funkverkehr
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003000000)
 
 (1) Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die
 Festlegung
@@ -1767,6 +1816,7 @@ der im Sprechfunkverkehr im Flugfunkdienst verwendeten Sprache.
 
 
 ### § 30 Standortmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003100000)
 
 Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung
 (EU) Nr. 923/2012 ist das Bundesaufsichtsamt für Flugsicherung. Es
@@ -1789,6 +1839,7 @@ legt insbesondere Folgendes fest:
 
 
 ### § 31 Flugverkehrskontrollfreigabe
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003200000)
 
 (1) Über die in den Anhängen SERA.5010, SERA.6001 und SERA.8001 der
 Durchführungsverordnung (EU) Nr.
@@ -1834,6 +1885,7 @@ Nummer 131 der Durchführungsverordnung (EU) Nr. 923/2012.
 
 
 ### § 32 Start- und Landemeldung
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003300000)
 
 (1) Der Luftfahrzeugführer hat für Flüge, für die ein Flugplan
 abgegeben wurde, der zuständigen Flugverkehrsdienststelle die
@@ -1852,6 +1904,7 @@ SERA.4020 der Durchführungsverordnung (EU) Nr. 923/2012.
 
 
 ### § 33 Flugverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003400000)
 
 (1) Soweit die zuständige Flugverkehrskontrollstelle keine anders
 lautende Flugverkehrskontrollfreigabe nach § 31 Absatz 3 erteilt, hat
@@ -1880,9 +1933,11 @@ durch Allgemeinverfügung darf drei Monate nicht überschreiten.
 
 
 ## Abschnitt 9 - Sichtflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG000900000)
 
 
 ### § 34 Genehmigung von Flügen oberhalb der Flugfläche 195
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003500000)
 
 Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die
 Genehmigung von Flügen oberhalb der Flugfläche 195 nach Artikel 4 der
@@ -1897,6 +1952,7 @@ mit Anhang SERA.5005 Buchstabe d Nummer 1 der Durchführungsverordnung
 
 
 ### § 35 Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Sichtflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003600000)
 
 (1) Die Höhen zur Einstellung des Höhenmessers für Flüge nach
 Sichtflugregeln werden von dem Bundesaufsichtsamt für Flugsicherung
@@ -1922,6 +1978,7 @@ in Anhang SERA.5005 Buchstabe g der Durchführungsverordnung (EU) Nr.
 
 
 ### § 36 Flüge nach Sichtflugregeln bei Nacht
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003700000)
 
 (1) Flüge nach Sichtflugregeln bei Nacht sind nur unter den in Anhang
 SERA.5005 Buchstabe c der Durchführungsverordnung (EU) Nr. 923/2012
@@ -1935,6 +1992,7 @@ von Kontrollzonen bei Nacht ist zulässig.
 
 
 ### § 37 Sicherheitsmindesthöhe bei Flügen nach Sichtflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003800000)
 
 (1) Für Flüge zu besonderen Zwecken kann die örtlich zuständige
 Luftfahrtbehörde des Landes für einzelne Flüge oder eine Reihe von
@@ -1990,6 +2048,7 @@ ihres Betriebs dies notwendig macht und dadurch keine Gefährdung der
 
 
 ### § 38 Überschallflüge nach Sichtflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE003900000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 Ausnahmen von dem Verbot nach Anhang SERA.5005 Buchstabe d Nummer 2
@@ -2015,6 +2074,7 @@ feststellbar ist.
 
 
 ### § 39 Allgemeingenehmigung für Such- und Rettungsflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004000000)
 
 Flüge im Such- und Rettungseinsatz oder zur Hilfeleistung bei einer
 Gefahr für Leib und Leben einer Person dürfen nach Artikel 4 Absatz 1
@@ -2024,6 +2084,7 @@ Anhangs SERA.5001 und SERA.5005 der Durchführungsverordnung (EU) Nr.
 
 
 ### § 40 Mindestsichtwetterbedingungen in den Lufträumen der Klassen F und G
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004100000)
 
 In den Lufträumen der Klassen F und G gelten ergänzend zu Anhang
 SERA.5001 der Durchführungsverordnung (EU) Nr. 923/2012 folgende
@@ -2058,9 +2119,11 @@ Es ist jeweils die größere Höhe maßgeblich.
 
 
 ## Abschnitt 10 - Instrumentenflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG001000000)
 
 
 ### § 41 Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Instrumentenflugregeln
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004200000)
 
 (1) Die Höhen zur Einstellung des Höhenmessers für Flüge nach
 Instrumentenflugregeln werden von dem Bundesaufsichtsamt für
@@ -2095,6 +2158,7 @@ Sicherheit des Luftverkehrs, dadurch nicht beeinträchtigt wird.
 
 
 ### § 42 Abbruch von Landeanflügen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004300000)
 
 Der Luftfahrzeugführer hat den Landeanflug abzubrechen und das nach §
 33 festgelegte Fehlanflugverfahren einzuleiten, wenn er die für das
@@ -2104,9 +2168,11 @@ nach Sicht beenden kann.
 
 
 ## Abschnitt 11 - Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG001100000)
 
 
 ### § 43 Bekanntmachung in den Nachrichten für Luftfahrer
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004400000)
 
 Regelungen, Genehmigungen und Festlegungen nach § 2 Absatz 1, § 16
 Absatz 1 und 3, § 17 Absatz 1, § 22 Absatz 2 Satz 1, den §§ 28, 29,
@@ -2116,6 +2182,7 @@ bekannt gemacht.
 
 
 ### § 44 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004504119)
 
 (1) Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2395,6 +2462,7 @@ vorsätzlich oder fahrlässig
 (zu § 9 Absatz 2)
 
 ### Anlage 1 Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004600000)
 
 (Fundstelle: BGBl. I 2015, 1908 - 1914)
 
@@ -3618,6 +3686,7 @@ spezifische Systeme nach Abschnitt B Nummer 2 meldepflichtig sind
 (zu § 9 Absatz 2)
 
 ### Anlage 2 Verzeichnis von meldepflichtigen Ereignissen im Zusammenhang mit Flugnavigationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004700000)
 
 (Fundstelle: BGBl. I 2015, 1915 - 1916)
 
@@ -3798,6 +3867,7 @@ Hinweis 3: Der Inhalt dieses Anhangs steht nicht der Meldung von Ereignissen,
 (zu § 18 Absatz 4)
 
 ### Anlage 3 Bauliche Anforderungen an Landestellen an Einrichtungen von öffentlichem Interesse nach § 18 Absatz 4
+[Direktlink](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNE004800305)
 
 (Fundstelle: BGBl. I 2016, 1556 - 1557)
 

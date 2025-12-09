@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wildtart_bkg/BJNR205690984.html#BJNR205690984BJNE000100319)
 
 Dem in Bonn am 23. Juni 1979 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Erhaltung der wandernden
@@ -29,6 +30,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wildtart_bkg/BJNR205690984.html#BJNR205690984BJNE000204119)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, Änderungen der Anhänge I und II des Übereinkommens
@@ -38,6 +40,7 @@ Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wildtart_bkg/BJNR205690984.html#BJNR205690984BJNE000301307)
 
 (1) Es ist verboten, Tiere der im Anhang I des Übereinkommens
 aufgeführten Arten von einem Schiff aus, das berechtigt ist, die
@@ -71,6 +74,7 @@ derartige Versuch.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wildtart_bkg/BJNR205690984.html#BJNR205690984BJNE000402377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 3 Abs. 1 von einem Schiff aus, das berechtigt ist, die
@@ -90,6 +94,7 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wildtart_bkg/BJNR205690984.html#BJNR205690984BJNE000501307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

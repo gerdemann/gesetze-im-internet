@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzversbehstatano/BJNR513510968.html#BJNR513510968BJNE000100319)
 
 Auf Grund des Abschnitts VIII Abs. 2 der Anlage 1 (§ 7 Abs. 6) der
 Verordnung über die Tarife in der Kraftfahrtversicherung vom 20.
@@ -27,6 +28,7 @@ November 1967 - Beilage zum Bundesanzeiger Nr. 225 vom 1. Dezember
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kfzversbehstatano/BJNR513510968.html#BJNR513510968BJNE000200319)
 
 Sofern die Bestimmungen des Tarifs eines Versicherungsunternehmens die
 Tarifgruppe B (Behörden) vorsehen, ist die Gliederung nach
@@ -38,11 +40,13 @@ Anlage 2
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kfzversbehstatano/BJNR513510968.html#BJNR513510968BJNE000300319)
 
 Die Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzversbehstatano/BJNR513510968.html#BJNR513510968BJNE000400319)
 
 Der Präsident des Bundesaufsichtsamtes für das Versicherungs- und
 Bausparwesen

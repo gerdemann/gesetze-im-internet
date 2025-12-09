@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Überleitungsmaßnahmen für die Bediensteten
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000201308)
 
 (1) Die Bediensteten des Bundesministeriums für Post und
 Telekommunikation werden zu Bundesministerien oder der
@@ -36,6 +37,7 @@ Telekommunikation gilt diese Regelung entsprechend.
 
 
 ## § 2 Stellenplan und Ämterbewertung
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000301308)
 
 Im Stellenplan der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen können nach Maßgabe
@@ -51,6 +53,7 @@ dieser Planstellen für einen Zeitraum von fünf Jahren ausgesetzt wird.
 
 
 ## § 3 Soziales
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000401308)
 
 (1) Für die Bediensteten des Bundesministeriums für Post und
 Telekommunikation und seines nachgeordneten Bereichs, die nach § 1 zur
@@ -71,6 +74,7 @@ Satzungen übernommen.
 
 
 ## § 4 Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000501308)
 
 (1) Die erstmaligen Personalratswahlen in der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach dem
@@ -98,6 +102,7 @@ vom Übergangspersonalrat bestellt.
 
 
 ## § 5 Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000602308)
 
 (1) Die erstmaligen Wahlen zu der Schwerbehindertenvertretung in der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -121,6 +126,7 @@ von der Übergangsschwerbehindertenvertretung bestellt.
 
 
 ## § 6 Frauenbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000701308)
 
 (1) Die Frauenbeauftragte ist frühestens nach Ablauf des dritten
 Monats und spätestens bis zum Ablauf des sechsten Monats nach
@@ -134,6 +140,7 @@ Telekommunikation wahr.
 
 
 ## § 7 Besoldungs- und tarifrechtliche Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000803308)
 
 (1) Beamten, denen bis zum Tage vor der Versetzung oder Überleitung
 zur Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
@@ -163,11 +170,13 @@ Bundes- und Landesbehörden erhalten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE000903308)
 
 (weggefallen)
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/persbg/BJNR310810997.html#BJNR310810997BJNE001001308)
 
 -
 

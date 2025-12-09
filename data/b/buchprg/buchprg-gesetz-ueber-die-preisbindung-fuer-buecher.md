@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000100000)
 
 Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung
 verbindlicher Preise beim Verkauf an Letztabnehmer sichert den Erhalt
@@ -29,6 +30,7 @@ die Existenz einer großen Zahl von Verkaufsstellen fördert.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000201119)
 
 (1) Bücher im Sinne dieses Gesetzes sind auch
 
@@ -59,6 +61,7 @@ Zwecken als dem Weiterverkauf erwirbt.
 
 
 ## § 3 Preisbindung
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000301119)
 
 Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in
 Deutschland verkauft, muss den nach § 5 festgesetzten Preis einhalten.
@@ -66,10 +69,12 @@ Dies gilt nicht für den Verkauf gebrauchter Bücher.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000401119)
 
 
 
 ## § 5 Preisfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000501119)
 
 (1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland verlegt
 oder importiert, ist verpflichtet, einen Preis einschließlich
@@ -128,6 +133,7 @@ zulässig, wenn dies sachlich gerechtfertigt ist.
 
 
 ## § 6 Vertrieb
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000600000)
 
 (1) Verlage müssen bei der Festsetzung ihrer Verkaufspreise und
 sonstigen Verkaufskonditionen gegenüber Händlern den von kleineren
@@ -145,6 +151,7 @@ direkt beliefern.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000702377)
 
 (1) § 3 gilt nicht beim Verkauf von Büchern
 
@@ -263,6 +270,7 @@ anlässlich des Verkaufs eines Buches
 
 
 ## § 8 Dauer der Preisbindung
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000801377)
 
 (1) Verleger und Importeure sind berechtigt, durch Veröffentlichung in
 geeigneter Weise die Preisbindung für Buchausgaben aufzuheben, deren
@@ -277,6 +285,7 @@ Zeitraums seit Erscheinen möglich.
 
 
 ## § 9 Schadensersatz- und Unterlassungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE000902360)
 
 (1) Wer den Vorschriften dieses Gesetzes zuwiderhandelt, kann auf
 Unterlassung in Anspruch genommen werden. Wer vorsätzlich oder
@@ -316,6 +325,7 @@ des Unterlassungsklagegesetzes.
 
 
 ## § 10 Bucheinsicht
+[Direktlink](https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html#BJNR344810002BJNE001000000)
 
 (1) Sofern der begründete Verdacht vorliegt, dass ein Unternehmen
 gegen § 3 verstoßen hat, kann ein Gewerbetreibender, der ebenfalls

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Voraussetzungen der Partnerschaft; Anwendbarkeit der Vorschriften über die Gesellschaft bürgerlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000103360)
 
 (1) Die Partnerschaft ist eine Gesellschaft, in der sich Angehörige
 Freier Berufe zur Ausübung ihrer Berufe zusammenschließen. Sie übt
@@ -51,6 +52,7 @@ anderes bestimmt ist, die Vorschriften des Bürgerlichen Gesetzbuchs
 
 
 ## § 2 Name der Partnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000202360)
 
 (1) Der Name der Partnerschaft muss den Zusatz „und Partner“ oder
 „Partnerschaft“ enthalten.
@@ -62,9 +64,11 @@ bürgerlichen Rechts in eine Partnerschaft.
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000301360)
 
 
 ## § 4 Anmeldung der Partnerschaft; Statuswechsel
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000404360)
 
 (1) Auf die Anmeldung der Partnerschaft in das Partnerschaftsregister
 sind § 106 Absatz 1 und 7 Satz 1 und 2 des Handelsgesetzbuchs
@@ -86,6 +90,7 @@ Absatz 2 des Gesetzes über den Versicherungsvertrag beigefügt sein.
 
 
 ## § 5 Inhalt der Eintragung; anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000504360)
 
 (1) Die Eintragung hat zu enthalten:
 
@@ -116,6 +121,7 @@ nicht.
 
 
 ## § 6 Rechtsverhältnis der Partner untereinander
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000602125)
 
 (1) Die Partner erbringen ihre beruflichen Leistungen unter Beachtung
 des für sie geltenden Berufsrechts.
@@ -132,6 +138,7 @@ Handelsgesetzbuchs entsprechend anzuwenden.
 
 
 ## § 7 Wirksamkeit im Verhältnis zu Dritten, rechtliche Selbständigkeit, Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000706360)
 
 (1) Die Partnerschaft wird im Verhältnis zu Dritten mit ihrer
 Eintragung in das Partnerschaftsregister wirksam.
@@ -148,6 +155,7 @@ Berufshaftung auch der von dieser gewählte Namenszusatz im Sinne des §
 
 
 ## § 8 Haftung für Verbindlichkeiten der Partnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000803360)
 
 (1) Für Verbindlichkeiten der Partnerschaft haften den Gläubigern
 neben dem Vermögen der Partnerschaft die Partner als Gesamtschuldner.
@@ -179,6 +187,7 @@ Berufshaftung den Zusatz „Part“ oder „PartG“ enthalten.
 
 
 ## § 9 Ausscheiden eines Partners, Auflösung der Partnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE000902360)
 
 (1) Auf das Ausscheiden eines Partners und die Auflösung der
 Partnerschaft sind, soweit im folgenden nichts anderes bestimmt ist,
@@ -199,6 +208,7 @@ erklären.
 
 
 ## § 10 Liquidation der Partnerschaft, Nachhaftung
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE001001360)
 
 (1) Für die Liquidation der Partnerschaft sind die Vorschriften über
 die Liquidation der offenen Handelsgesellschaft entsprechend
@@ -210,6 +220,7 @@ der Partnerschaft nach den §§ 137 und 151 des Handelsgesetzbuchs.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/partgg/BJNR174410994.html#BJNR174410994BJNE001103360)
 
 (1) Den Zusatz "Partnerschaft" oder "und Partner" dürfen nur
 Partnerschaften nach diesem Gesetz führen. Gesellschaften, die eine

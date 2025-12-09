@@ -22,12 +22,14 @@ Zuletzt geändert durch
 Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000100000)
 
 Auf Grund des § 90 Absatz 1 des Bundesbeamtengesetzes vom 5. Februar
 2009 (BGBl. I S. 160) verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000300000)
 
 (1) Diese Verordnung gilt für die Beamtinnen und Beamten des Bundes.
 Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung
@@ -39,6 +41,7 @@ Rechtsvorschriften ergeben, bleiben unberührt.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000400000)
 
 Die Entscheidung über die Gewährung von Sonderurlaub trifft – außer in
 den Fällen des § 22 Absatz 1 Satz 2 und Absatz 3 Satz 2 – die
@@ -46,6 +49,7 @@ personalverwaltende Dienstbehörde.
 
 
 ## § 3 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000500000)
 
 Sonderurlaub wird nur gewährt, wenn
 
@@ -63,12 +67,14 @@ Sonderurlaub wird nur gewährt, wenn
 
 
 ## § 4 Dauer
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000600000)
 
 Die in den folgenden Vorschriften bestimmte Urlaubsdauer verlängert
 sich um erforderliche Reisezeiten.
 
 
 ## § 5 Sonderurlaub zur Ausübung staatsbürgerlicher Rechte und zur Erfüllung staatsbürgerlicher Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000700000)
 
 Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
@@ -90,6 +96,7 @@ Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
 
 ## § 6 Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtungen oder in einer öffentlichen Einrichtung eines Mitgliedstaates der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000800000)
 
 (1) Sonderurlaub unter Wegfall der Besoldung ist zu gewähren bei
 Entsendung für eine hauptberufliche Tätigkeit
@@ -116,12 +123,14 @@ hauptberuflichen Tätigkeit nicht entsandt wird.
 
 
 ## § 7 Sonderurlaub zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE000900000)
 
 Zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit sind bis
 zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 
 
 ## § 8 Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001002311)
 
 Mit Zustimmung des Bundesministeriums des Innern und für Heimat ist
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
@@ -132,6 +141,7 @@ des Bundes teilnehmen.
 
 
 ## § 9 Sonderurlaub für Aus- oder Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001102311)
 
 (1) Je Kalenderjahr sind insgesamt jeweils bis zu fünf Arbeitstage
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren
@@ -174,6 +184,7 @@ werden.
 
 
 ## § 10 Sonderurlaub für fremdsprachliche Aus- oder Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001200000)
 
 (1) Für eine fremdsprachliche Aus- oder Fortbildung in einem Land, in
 dem die zu erlernende Sprache gesprochen wird, sind bis zu drei Monate
@@ -186,6 +197,7 @@ werden.
 
 
 ## § 11 Sonderurlaub für Zwecke der militärischen und zivilen Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001300000)
 
 (1) Für die Teilnahme an Ausbildungsveranstaltungen von Organisationen
 der zivilen Verteidigung ist je Kalenderjahr bis zu zehn Arbeitstage
@@ -216,6 +228,7 @@ der Heranziehung
 
 
 ## § 12 Sonderurlaub für vereinspolitische Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001400000)
 
 (1) Einer Beamtin oder einem Beamten, die oder der als Mitglied des
 Vorstandes einer überörtlichen Selbsthilfeorganisation zur Betreuung
@@ -240,6 +253,7 @@ Fortzahlung der Besoldung auch zu gewähren für die Teilnahme
 
 
 ## § 13 Sonderurlaub zur Ableistung von Freiwilligendiensten
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001500000)
 
 Bis zu zwei Jahre Sonderurlaub unter Wegfall der Besoldung sind zu
 gewähren, wenn eine Beamtin oder ein Beamter
@@ -260,6 +274,7 @@ ableistet.
 
 
 ## § 14 Sonderurlaub für eine Ausbildung zur Schwesternhelferin oder zum Pflegediensthelfer
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001600000)
 
 Für eine Ausbildung zur Schwesternhelferin oder zum Pflegediensthelfer
 ist Sonderurlaub unter Fortzahlung der Besoldung für die Dauer eines
@@ -268,6 +283,7 @@ Kalenderjahr, zu gewähren.
 
 
 ## § 15 Sonderurlaub für gewerkschaftliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001700000)
 
 Sonderurlaub von jeweils bis zu fünf Arbeitstagen im Kalenderjahr
 unter Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
@@ -288,6 +304,7 @@ unter Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
 
 
 ## § 16 Sonderurlaub für kirchliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001800000)
 
 Sonderurlaub von bis zu fünf Arbeitstagen im Kalenderjahr unter
 Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
@@ -315,6 +332,7 @@ Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
 
 
 ## § 17 Sonderurlaub für sportliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE001900000)
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
@@ -358,6 +376,7 @@ angeschlossenen Verband oder Verein ist vorzulegen.
 
 
 ## § 18 Sonderurlaub für Familienheimfahrten
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002003126)
 
 (1) Beamtinnen und Beamten, die Trennungsgeld nach der
 Trennungsgeldverordnung erhalten, ist für Familienheimfahrten
@@ -411,6 +430,7 @@ treffen.
 
 
 ## § 19 Sonderurlaub aus dienstlichen Anlässen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002102311)
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist im nachstehend
 angegebenen Umfang zu gewähren:
@@ -440,6 +460,7 @@ Finanzen von Absatz 1 abweichende Regelungen treffen.
 
 
 ## § 20 Sonderurlaub aus medizinischen Anlässen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002201311)
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren für
 die Dauer der notwendigen Abwesenheit
@@ -507,6 +528,7 @@ Absatz 2 der Bundesbeihilfeverordnung.
 
 
 ## § 21 Sonderurlaub aus persönlichen Anlässen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002323311)
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist wie folgt zu
 gewähren:
@@ -635,6 +657,7 @@ treffen.
 
 
 ## § 21a Sonderurlaub bei Mitaufnahme oder ganztägiger Begleitung bei stationärer Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE003000311)
 
 (1) Sonderurlaub ist einer Beamtin oder einem Beamten zu gewähren,
 
@@ -680,6 +703,7 @@ Wegfall der Besoldung.
 
 
 ## § 22 Sonderurlaub in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002402311)
 
 (1) Sonderurlaub unter Wegfall der Besoldung kann gewährt werden, wenn
 ein wichtiger Grund vorliegt. Für mehr als drei Monate kann
@@ -702,12 +726,14 @@ Innern und für Heimat.
 
 
 ## § 23 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002500000)
 
 Der Sonderurlaub ist unverzüglich nach Bekanntwerden des Anlasses zu
 beantragen. Sonderurlaub nach § 21 ist zeitnah zu beantragen.
 
 
 ## § 24 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002600000)
 
 Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
@@ -726,6 +752,7 @@ Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
 
 ## § 25 Ersatz von Mehraufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002700000)
 
 (1) Folgende Mehraufwendungen werden der Beamtin oder dem Beamten nach
 den Bestimmungen des Reisekostenrechts ersetzt:
@@ -752,6 +779,7 @@ Deckung der Aufwendungen erhalten hat, sind anzurechnen.
 
 
 ## § 26 Besoldung
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002800000)
 
 (1) Zur Besoldung im Sinne dieser Verordnung gehören die in § 1 Absatz
 2 und 3 des Bundesbesoldungsgesetzes genannten Bezüge.
@@ -768,6 +796,7 @@ unberührt.
 
 
 ## § 27 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/surlv_2016/BJNR128400016.html#BJNR128400016BJNE002900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Sonderurlaubsverordnung in der Fassung der

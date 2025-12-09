@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000100000)
 
 Auf Grund des § 9 des Transparenzgesetzes vom 27. Januar 2017 (BGBl. I
 S. 114, 125, 1676) in Verbindung mit § 1 Absatz 2 des
@@ -29,6 +30,7 @@ nukleare Sicherheit und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Mitteilung von Kontaktdaten durch den Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000200000)
 
 (1) Der Betreiber einer in Anhang 1 des Entsorgungsfondsgesetzes
 aufgeführten Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen
@@ -59,6 +61,7 @@ nach § 5 des Transparenzgesetzes verwendet.
 
 
 ## § 2 Mitteilung des Abschlussstichtages durch den Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000300000)
 
 (1) Der Betreiber ist verpflichtet, dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle bis zum 30. September 2018 seinen Abschlussstichtag
@@ -70,6 +73,7 @@ Ausfuhrkontrolle unverzüglich den neuen Stichtag mitzuteilen.
 
 
 ## § 3 Bestimmung des für die Aufstellung der Rückstellungen maßgeblichen Stichtages
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000400000)
 
 (1) Bestimmt das Bundesamt für Wirtschaft und Ausfuhrkontrolle gemäß §
 1 Absatz 2 des Transparenzgesetzes selbst einen Stichtag für die
@@ -87,6 +91,7 @@ unberührt.
 
 
 ## § 4 Verlangen weiterer Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000500000)
 
 Bei der Anforderung weiterer Auskünfte vom Betreiber kann das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle verlangen oder sein
@@ -96,6 +101,7 @@ Auskünfte setzt es dem Betreiber eine angemessene Frist.
 
 
 ## § 5 Anforderungen an die Aufstellung der Rückstellungen für Rückbauverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000600000)
 
 (1) In der Aufstellung der Rückstellungen für Rückbauverpflichtungen
 hat der Betreiber nach § 2 Absatz 1 und Absatz 2 Satz 1 sowie § 3
@@ -203,6 +209,7 @@ Aufstellung zu erläutern. Dies gilt insbesondere für
 
 
 ## § 6 Darstellung des Haftungskreises durch den Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000700000)
 
 (1) Die Liste zur Darstellung des Haftungskreises, die der Betreiber
 dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nach § 3 Absatz 1
@@ -231,6 +238,7 @@ mitgeteilt, so ist er nicht verpflichtet, sie zu beachten.
 
 
 ## § 7 Form der Aufstellung der Rückstellungen und der Darstellung des Haftungskreises
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000800000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann die Form
 der Aufstellung der Rückstellungen für Rückbauverpflichtungen nach § 2
@@ -246,6 +254,7 @@ für die Aufstellung mit.
 
 
 ## § 8 Form der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE000900000)
 
 Die Mitteilungen und Darstellungen gemäß den §§ 1 bis 7 sind in
 elektronischer Form zu übermitteln. Das Bundesamt für Wirtschaft und
@@ -255,6 +264,7 @@ bleibt unberührt.
 
 
 ## § 9 Gesonderter Bericht des Betreibers im Hinblick auf die Rückbauverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE001000000)
 
 (1) Der Betreiber ist verpflichtet, den gesonderten Bericht nach § 4
 des Transparenzgesetzes spätestens am 30. November ohne
@@ -270,11 +280,13 @@ nach § 5 Absatz 1 und 2 orientieren.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE001100000)
 
 Diese Verordnung tritt an dem Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/r_ckbrtransparenzv/BJNR109000018.html#BJNR109000018BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

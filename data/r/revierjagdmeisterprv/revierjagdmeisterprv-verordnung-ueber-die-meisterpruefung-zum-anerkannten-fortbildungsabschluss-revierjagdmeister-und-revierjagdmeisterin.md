@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-21-13-2 v. 28.12.1982, 1983 I 3 (RevierjMeistPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436
@@ -30,9 +31,11 @@ Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000100000)
 
 
 ### § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss
 Revierjagdmeister und Revierjagdmeisterin soll die auf einen
@@ -247,6 +250,7 @@ Fortbildungsabschluss Revierjagdmeister oder Revierjagdmeisterin.
 
 
 ### § 2 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000400000)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -276,6 +280,7 @@ rechtfertigt.
 
 
 ### § 3 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000500000)
 
 Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
@@ -292,9 +297,11 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 
 ## Abschnitt 2 - Prüfungsteil Jagdbetrieb, Jagd- und Wildtiermanagement und Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000200000)
 
 
 ### § 4 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000600000)
 
 (1) Im Prüfungsteil Jagdbetrieb, Jagd- und Wildtiermanagement und
 Dienstleistungen soll der Prüfling nachweisen, dass er in der Lage
@@ -382,6 +389,7 @@ Qualitätssicherung als Führungskraft durchführen kann.
 
 
 ### § 5 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000700000)
 
 Die Prüfung besteht aus
 
@@ -395,6 +403,7 @@ Die Prüfung besteht aus
 
 
 ### § 6 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000800000)
 
 (1) Mit der Durchführung des Arbeitsprojektes soll der Prüfling
 nachweisen, dass er in der Lage ist, ausgehend von konkreten
@@ -428,6 +437,7 @@ Verfügung. Das Fachgespräch soll nicht länger als 120 Minuten dauern.
 
 
 ### § 7 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE000900000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -438,9 +448,11 @@ Minuten.
 
 
 ## Abschnitt 3 - Prüfungsteil Betriebs- und Unternehmensführung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000300000)
 
 
 ### § 8 Anforderungen und Prüfungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001000000)
 
 (1) Im Prüfungsteil Betriebs- und Unternehmensführung soll der
 Prüfling nachweisen, dass er wirtschaftliche, rechtliche und soziale
@@ -487,6 +499,7 @@ Entwicklungsmöglichkeiten aufzeigen kann.
 
 
 ### § 9 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001100000)
 
 Die Prüfung besteht aus
 
@@ -500,6 +513,7 @@ Die Prüfung besteht aus
 
 
 ### § 10 Arbeitsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001200000)
 
 (1) Im Arbeitsprojekt soll der Prüfling eine komplexe
 betriebswirtschaftliche Aufgabe in einem Jagdbetrieb oder in einem
@@ -529,6 +543,7 @@ länger als 60 Minuten dauern.
 
 
 ### § 11 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001300000)
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht
 anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den
@@ -539,9 +554,11 @@ Minuten.
 
 
 ## Abschnitt 4 - Prüfungsteil Berufsausbildung und Mitarbeiterführung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000400000)
 
 
 ### § 12 Anforderungen und Handlungsfelder
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001400000)
 
 (1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll der
 Prüfling nachweisen, dass er Zusammenhänge der Berufsbildung und
@@ -778,6 +795,7 @@ unterstützen“ nach Absatz 2 Nummer 6 umfasst folgende Kompetenzen:
 
 
 ### § 13 Struktur der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001500000)
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert
 sich in folgende Abschnitte:
@@ -805,6 +823,7 @@ Fallstudie nach § 16.
 
 
 ### § 14 Praktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001600000)
 
 (1) Der praktische Teil besteht aus der Durchführung einer
 Ausbildungssituation und einem Fachgespräch.
@@ -821,6 +840,7 @@ Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001700000)
 
 (1) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben
 unter Aufsicht bearbeiten. Die Aufgaben sollen sich auf die in § 12
@@ -831,6 +851,7 @@ Minuten.
 
 
 ### § 16 Fallstudie
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001800000)
 
 (1) In der Fallstudie soll der Prüfling eine Situation der
 Mitarbeiterführung bearbeiten. Die Situation wird vom
@@ -847,9 +868,11 @@ Minuten dauern.
 
 
 ## Abschnitt 5 - Befreiung von Prüfungsleistungen, Bewertungen in den Prüfungen, Bestehens- und Zeugnisregelungen
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000500000)
 
 
 ### § 17 Befreiung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE001900000)
 
 Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von
 Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16
@@ -857,6 +880,7 @@ ist § 56 Absatz 2 des Berufsbildungsgesetzes anzuwenden.
 
 
 ### § 18 Bewertungen in den Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002000000)
 
 (1) Die drei Prüfungsteile nach § 3 sind gesondert zu bewerten.
 
@@ -914,6 +938,7 @@ Prüfungsbestandteilen nach § 17 entfällt diese Verpflichtung.
 
 
 ### § 19 Bestehen der Meisterprüfung; Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002100000)
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil
 (§ 3) mindestens die Note „ausreichend“ erzielt hat.
@@ -952,9 +977,11 @@ Prüfling ein weiteres Zeugnis aus, in dem mindestens anzugeben sind:
 
 
 ## Abschnitt 6 - Ergänzungs- und Wiederholungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000600000)
 
 
 ### § 20 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002200000)
 
 (1) Wurden eine oder zwei der Prüfungen nach den §§ 7, 11 und 15
 schlechter als mit „ausreichend“ bewertet, ist auf Antrag des
@@ -971,6 +998,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ### § 21 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002300000)
 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal
 wiederholt werden.
@@ -993,9 +1021,11 @@ zu befreien, wenn
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNG000700000)
 
 
 ### § 22 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002400000)
 
 (1) Die bis zum Ablauf des 29. April 2019 begonnenen Prüfungsverfahren
 können nach den bis dahin geltenden Vorschriften zu Ende geführt
@@ -1010,6 +1040,7 @@ ablegen.
 
 
 ### § 23 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/revierjagdmeisterprv/BJNR049900019.html#BJNR049900019BJNE002500000)
 
 Diese Verordnung tritt am 30. April 2019 in Kraft. Gleichzeitig tritt
 die Verordnung über die Anforderungen in der Meisterprüfung für den

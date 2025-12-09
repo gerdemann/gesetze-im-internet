@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000100307)
 
 Auf der Grundlage des § 1 Abs. 2 und 6 und des § 24 Abs. 4 des
 Gesetzes vom 17. Juni 1990 zur Privatisierung und Reorganisation des
@@ -26,6 +27,7 @@ folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000200307)
 
 Der Treuhandanstalt wird das Vermögen
 
@@ -52,6 +54,7 @@ treuhänderischen Verwaltung übergeben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000300307)
 
 Soweit eine Übertragung bisheriger Wirtschaftseinheiten gemäß § 1 in
 das Eigentum der Länder und Kommunen nicht vorgesehen ist, erfolgt
@@ -61,6 +64,7 @@ entsprechende Anwendung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000400307)
 
 Die Eigentumsrechte an den volkseigenen land- und
 forstwirtschaftlichen Nutzflächen (Grundstücke), die sich im Besitz
@@ -72,6 +76,7 @@ die treuhänderische Verwaltung der Treuhandanstalt übertragen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000500307)
 
 Die Treuhandanstalt hat in Abstimmung mit dem Ministerium für
 Ernährung, Land- und Forstwirtschaft die erforderlichen
@@ -83,12 +88,14 @@ der Treuhandanstalt zu schaffen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000600307)
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_3/DDNR213330990.html#DDNR213330990BJNE000700307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

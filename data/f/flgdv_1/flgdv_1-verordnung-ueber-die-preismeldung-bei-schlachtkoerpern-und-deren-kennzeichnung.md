@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNG000100000)
 
 
 ### § 1 Schlachtnummer
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000101377)
 
 (1) Schlachtbetriebe sind verpflichtet, die Schlachtkörper von
 Rindern, Schweinen und Schafen unmittelbar nach der Schlachtung des
@@ -37,6 +39,7 @@ ist die Kennzeichnung bei Rindern auf jedem Viertel anzubringen.
 
 
 ### § 2 Verwiegung, Schnittführung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000203125)
 
 (1) Schlachtbetriebe, die unter Berücksichtigung des Schlachtgewichts
 abrechnen, sind verpflichtet, das Schlachtgewicht von ganzen, halben
@@ -129,6 +132,7 @@ werden darf.
 
 
 ### § 3 Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000301377)
 
 (1) Das Klassifizierungsunternehmen hat unverzüglich nach der
 Feststellung des Schlachtgewichts ein schriftliches und ein
@@ -154,6 +158,7 @@ aufzubewahren.
 
 
 ### § 3a Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE001400119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -161,9 +166,11 @@ Marktorganisationsgesetzes.
 
 
 ## Abschnitt 2 - Preismeldungen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNG000200000)
 
 
 ### § 4 Preismeldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000404119)
 
 (1) Schlachtbetriebe haben für Schlachtkörper von Rindern, Schweinen
 und Schafen nach Maßgabe der folgenden Vorschriften Meldungen zu
@@ -185,6 +192,7 @@ wird.
 
 
 ### § 5 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000502125)
 
 (1) Von der Meldepflicht nach § 4 Absatz 1 sind Betriebe ausgenommen,
 die pro Woche durchschnittlich höchstens 500 Schweine oder höchstens
@@ -201,6 +209,7 @@ betreffenden Tierart erfasst werden.
 
 
 ### § 6 Inhalt der Preismeldung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000603119)
 
 (1) Die Meldungen haben für den jeweiligen Berichtszeitraum folgende
 Angaben zu enthalten:
@@ -317,6 +326,7 @@ worden ist.
 
 
 ### § 7 Verfahren der Preismeldung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000702119)
 
 (1) Die Meldungen sind nach vorgeschriebenem Muster schriftlich oder
 elektronisch an die nach Landesrecht zuständige Behörde (Meldebehörde)
@@ -352,6 +362,7 @@ Meldebehörde zu melden. Für die Korrekturmeldung ist das Muster nach
 
 
 ### § 8 Preisfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000801377)
 
 (1) Die Meldebehörde trifft auf der Grundlage der eingegangenen
 Meldungen Feststellungen über die in jeder Handelsklasse gezahlten
@@ -390,6 +401,7 @@ Umsatzmenge ohne Aussagekraft sind.
 
 
 ### § 9 Festlegung der Meldegebiete
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE000900000)
 
 Meldegebiet ist das jeweilige Land. Die Bekanntgabe der in den
 einzelnen Ländern ermittelten Preise durch die Bundesanstalt kann im
@@ -398,6 +410,7 @@ Länder gemeinsam erfolgen.
 
 
 ### § 10 Muster
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE001002119)
 
 (1) Soweit in dieser Verordnung vorgesehen ist, dass Meldungen oder
 sonstige Mitteilungen nach vorgeschriebenem Muster zu erstatten oder
@@ -411,9 +424,11 @@ Muster werden von der Bundesanstalt im Bundesanzeiger bekannt gegeben.
 
 
 ## Abschnitt 3 - Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNG000300000)
 
 
 ### § 11 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE001101377)
 
 (1) Schlachtbetriebe sind verpflichtet, die Informationen nach § 10
 Abs. 2 Nr. 1 des Fleischgesetzes den Klassifizierungsunternehmen
@@ -440,9 +455,11 @@ erteilen.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNG000400000)
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE001201119)
 
 Ordnungswidrig im Sinne des § 16 Abs. 1 Nr. 3 des Fleischgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -477,6 +494,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 13 Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_1/BJNR218610008.html#BJNR218610008BJNE001300125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften über Kennzeichnung, Verwiegung und

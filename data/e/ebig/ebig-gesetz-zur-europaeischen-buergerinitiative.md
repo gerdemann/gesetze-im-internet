@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000101130)
 
 (1) Das Bundesverwaltungsamt ist zuständige Behörde im Sinne von
 Artikel 20 Absatz 2 in Verbindung mit Artikel 12 Absatz 4 und 5 der
@@ -53,6 +54,7 @@ Absätzen 1 bis 3 keine Gebühren oder Auslagen.
 
 
 ## § 2 Sammeln von Unterstützungsbekundungen
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000201130)
 
 (1) Für das Sammeln von Unterstützungsbekundungen sind ausschließlich
 Formulare nach Artikel 9 Absatz 2 der Verordnung (EU) 2019/788 zu
@@ -81,6 +83,7 @@ erforderlich.
 
 
 ## § 3 Überprüfung von Unterstützungsbekundungen
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000301130)
 
 (1) Das Bundesverwaltungsamt überprüft die Gültigkeit der
 Unterstützungsbekundungen deutscher Staatsangehöriger anhand der in
@@ -120,6 +123,7 @@ der ihm vorliegenden Unterstützungsbekundungen abgleichen:
 
 
 ## § 4 Ungültigkeit von Unterstützungsbekundungen
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000401130)
 
 Eine Unterstützungsbekundung ist ungültig, wenn
 
@@ -180,6 +184,7 @@ Abgabe maßgeblich.
 
 
 ## § 5 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000501130)
 
 (1) Ordnungswidrig handelt, wer die Anzahl der von deutschen
 Staatsangehörigen gesammelten Unterstützungsbekundungen einer
@@ -213,6 +218,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesverwaltungsamt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ebig/BJNR044610012.html#BJNR044610012BJNE000600130)
 
 Für Anträge auf Bescheinigungen über die Übereinstimmung eines
 individuellen Online-Sammelsystems mit der Verordnung (EU) 2019/788

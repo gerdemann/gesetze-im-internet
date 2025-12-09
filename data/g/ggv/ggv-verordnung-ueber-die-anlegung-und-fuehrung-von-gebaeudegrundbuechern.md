@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000100307)
 
 Diese Verordnung regelt
 
@@ -51,6 +52,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Grundsatz für vorhandene Grundbuchblätter
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000201160)
 
 Die Führung von vorhandenen Gebäudegrundbuchblättern richtet sich nach
 den in § 150 Abs. 1 Nr. 4 Satz 1 und 2 der Grundbuchordnung
@@ -59,6 +61,7 @@ bezeichneten Vorschriften. Diese Grundbuchblätter können auch gemäß §
 
 
 ## § 3 Gestaltung und Führung neu anzulegender Gebäudegrundbuchblätter
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000300307)
 
 (1) Für die Gestaltung und Führung von neu anzulegenden
 Gebäudegrundbuchblättern gelten die Vorschriften über die Anlegung und
@@ -136,6 +139,7 @@ eines dinglichen Nutzungsrechts auf ..." tritt der Vermerk
 
 
 ## § 4 Nachweis des Gebäudeeigentums oder des Rechts zum Besitz gemäß Artikel 233 § 2a EGBGB
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000400307)
 
 (1) Zum Nachweis des Bestehens des Gebäudeeigentums gemäß Artikel 233
 § 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche und des
@@ -223,6 +227,7 @@ Grundakten des belasteten oder betroffenen Grundstücks zu nehmen.
 
 
 ## § 5 Eintragung des dinglichen Nutzungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000500307)
 
 (1) In den Fällen des Artikels 233 § 4 Abs. 1 Satz 2 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche ist das dem
@@ -257,6 +262,7 @@ Flurstücke, ist § 48 der Grundbuchordnung anzuwenden.
 
 
 ## § 6 Eintragung des Gebäudeeigentums gemäß Artikel 233 §§ 2b und 8 EGBGB
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000600307)
 
 Vor Anlegung des Gebäudegrundbuchblattes ist das Gebäudeeigentum von
 Amts wegen in der zweiten Abteilung des Grundbuchblattes für das von
@@ -270,6 +276,7 @@ gilt entsprechend.
 
 
 ## § 7 Vermerk zur Sicherung der Ansprüche aus der Sachenrechtsbereinigung aus dem Recht zum Besitz gemäß Artikel 233 § 2a EGBGB
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000700307)
 
 (1) Die Eintragung eines Vermerks zur Sicherung der Ansprüche aus der
 Sachenrechtsbereinigung aus dem Recht zum Besitz gemäß Artikel 233 §
@@ -299,6 +306,7 @@ Spalte 1 vermerkt ist.
 
 
 ## § 8 Nutzungsrecht, Gebäudeeigentum oder Recht zum Besitz für mehrere Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000800307)
 
 Soll ein dingliches Nutzungsrecht oder ein Gebäudeeigentum als
 Eigentum von Ehegatten eingetragen werden (§ 47 GBO), kann der für die
@@ -317,6 +325,7 @@ Verhältnisses nur auf Antrag eines Antragsberechtigten erfolgen soll.
 
 
 ## § 9 Nutzungsrecht oder Gebäudeeigentum auf bestimmten Grundstücksteilen
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE000900307)
 
 (1) Bezieht sich das Gebäudeeigentum nur auf eine Teilfläche des oder
 der belasteten oder betroffenen Grundstücke oder Flurstücke, so sind
@@ -346,6 +355,7 @@ Bestandsverzeichnis eingetragen sind.
 
 
 ## § 10 Nutzungsrecht, Gebäudeeigentum oder Recht zum Besitz auf nicht bestimmten Grundstücken oder Grundstücksteilen
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001000307)
 
 (1) Besteht ein dingliches Nutzungsrecht, ein Gebäudeeigentum oder ein
 Recht zum Besitz an einem oder mehreren nicht grundbuchmäßig
@@ -374,6 +384,7 @@ Verzeichnisses zuständigen Stelle zur Verfügung zu stellen.
 
 
 ## § 11 Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001100307)
 
 (1) In den Fällen der §§ 3, 5 und 6 hat das Grundbuchamt gleichzeitig
 mit der jeweiligen Eintragung einen Widerspruch gegen die Richtigkeit
@@ -449,6 +460,7 @@ wird. Absatz 4 gilt entsprechend.
 
 
 ## § 12 Aufhebung des Gebäudeeigentums
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001200307)
 
 (1) Die Aufhebung eines Nutzungsrechts oder Gebäudeeigentums nach
 Artikel 233 § 4 Abs. 5 des Einführungsgesetzes zum Bürgerlichen
@@ -487,6 +499,7 @@ und Gebäude in der Regel wieder getrennt gebucht.
 
 
 ## § 13 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001301160)
 
 Auf die Bekanntmachungen bei Eintragungen im Grundbuch des mit einem
 dinglichen Nutzungsrecht belasteten oder von einem Gebäudeeigentum
@@ -500,6 +513,7 @@ Eigentümer bekannt ist.
 
 
 ## § 14 Begriffsbestimmungen, Teilung von Grundstück und von Gebäudeeigentum
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001400307)
 
 (1) Nutzer im Sinne dieser Verordnung ist, wer ein Grundstück im
 Umfang der Grundfläche eines darauf stehenden Gebäudes einschließlich
@@ -535,6 +549,7 @@ Voraussetzungen gegeben sind, erbracht werden.
 
 
 ## § 15 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ggv/BJNR160610994.html#BJNR160610994BJNE001500307)
 
 (1)
 Es werden aufgehoben:

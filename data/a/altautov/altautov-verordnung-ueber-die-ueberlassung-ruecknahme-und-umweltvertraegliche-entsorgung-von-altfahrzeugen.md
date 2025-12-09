@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE000504125)
 
 (1) Diese Verordnung gilt für Fahrzeuge und Altfahrzeuge
 einschließlich ihrer Bauteile und Werkstoffe. Unbeschadet von § 3 Abs.
@@ -62,6 +63,7 @@ von Altfahrzeugen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE000606125)
 
 (1) Im Sinne dieser Verordnung bezeichnet der Begriff
 
@@ -268,6 +270,7 @@ Sinne dieser Verordnung anerkannt, wenn
 
 
 ## § 3 Rücknahmepflichten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001206125)
 
 (1) Hersteller von Fahrzeugen sind verpflichtet, alle Altfahrzeuge
 ihrer Marke vom Letzthalter zurückzunehmen. Satz 1 gilt im Fall der
@@ -369,6 +372,7 @@ haben sie geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
 
 ## § 4 Überlassungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE000704360)
 
 (1) Wer sich eines Fahrzeugs entledigt, entledigen will oder
 entledigen muss, ist verpflichtet, dieses nur einer anerkannten
@@ -405,6 +409,7 @@ Nachweispflicht ausgenommen.
 
 
 ## § 5 Entsorgungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE000810125)
 
 (1) Die Wirtschaftsbeteiligten stellen sicher, dass bezogen auf das
 durchschnittliche Fahrzeugleergewicht aller pro Jahr überlassenen
@@ -502,6 +507,7 @@ Wirtschaft und Energie Empfehlungen zur einheitlichen Durchführung der
 
 
 ## § 6 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE000903310)
 
 Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
 
@@ -538,6 +544,7 @@ Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
 
 
 ## § 7 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001302125)
 
 (1) Die Betreiber von Annahmestellen, Rücknahmestellen,
 Demontagebetrieben, Schredderanlagen und sonstigen Anlagen zur
@@ -612,6 +619,7 @@ jeweiligen Betriebs zuständigen Behörde mindestens 14 Tage vor der
 
 
 ## § 8 Abfallvermeidung
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001402310)
 
 (1) Zur Förderung der Abfallvermeidung sind
 
@@ -645,6 +653,7 @@ Kommission in der jeweils geltenden Fassung zu beachten ist.
 
 
 ## § 9 Kennzeichnungsnormen und Demontageinformationen
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001503125)
 
 (1) Die Hersteller von Fahrzeugen sind verpflichtet, in Absprache mit
 der Werkstoff- und Zulieferindustrie Kennzeichnungsnormen für Bauteile
@@ -673,6 +682,7 @@ wiederverwendbaren Teilen zur Verfügung zu stellen.
 
 
 ## § 10 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001602125)
 
 (1) Die Hersteller von Fahrzeugen oder deren Bevollmächtigte sind
 verpflichtet, in Zusammenarbeit mit den jeweiligen
@@ -709,6 +719,7 @@ Fahrzeug aufzunehmen.
 
 
 ## § 10a Bevollmächtigung
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001800125)
 
 Hersteller von Fahrzeugen, die keine Niederlassung im Geltungsbereich
 dieser Verordnung haben, können einen Bevollmächtigten mit der
@@ -720,6 +731,7 @@ hat schriftlich und in deutscher Sprache zu erfolgen.
 
 
 ## § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001006125)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -830,6 +842,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001702125)
 
 (1) § 5 Absatz 1 Satz 2 gilt erstmals für die Daten des Kalenderjahres
 2019\.
@@ -847,6 +860,7 @@ Geltungsdauer von längstens sechs Monaten befristet werden.
 
 
 ## Anhang Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/altautov/BJNR166610997.html#BJNR166610997BJNE001112125)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2221 - 2225;
 bzgl. der einzelnen Änderungen vgl. Fußnote

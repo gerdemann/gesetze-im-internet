@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## (XXXX) §§ 1 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000100328)
 
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000200328)
 
 (1) Die Vermögenswerte, die das ausgründende Kreditinstitut nach dem
 Gründungsvertrag als Sacheinlage in ein Nachfolgeinstitut einzubringen
@@ -60,6 +62,7 @@ können die Nachfolgeinstitute jedoch nicht aufrechnen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000300328)
 
 Die Nachfolgeinstitute sind verpflichtet, auf Verlangen des
 ausgründenden Kreditinstituts gegen Übertragung entsprechender
@@ -72,6 +75,7 @@ zueinander stehen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000400328)
 
 (1) Die Vermögenswerte und Verbindlichkeiten des ausgründenden
 Kreditinstituts sind auf die Nachfolgeinstitute so aufzuteilen, daß
@@ -121,11 +125,13 @@ entsprechender Vermögenswerte verlangen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000500328)
 
 -
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000600328)
 
 (1) Jedem Aktionär des ausgründenden Kreditinstituts stehen Anteile an
 dem Kapital jedes der Nachfolgeinstitute in dem Betrag zu, der seinem
@@ -157,6 +163,7 @@ Gesetzes auszuüben.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000700328)
 
 Nach Eintragung der Nachfolgeinstitute in das Handelsregister darf das
 ausgründende Kreditinstitut Bankgeschäfte nur noch vornehmen, soweit
@@ -164,6 +171,7 @@ sie zur Abwicklung erforderlich sind.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000800328)
 
 (1) Die Umsatzsteuer und die Steuern vom Kapitalverkehr werden nicht
 erhoben aus Anlaß von:
@@ -202,6 +210,7 @@ des ausgründenden Kreditinstituts angesetzten Werte nicht übersteigen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE000900328)
 
 (1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die
 anläßlich der Auflösung und Ausgründung von Kreditinstituten auf Grund
@@ -230,16 +239,19 @@ Geschäft selbst zu erhebenden ermäßigten Gebühr nicht übersteigen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE001000328)
 
 -
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE001100328)
 
 -
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/kredinstndlg/BJNR002170952.html#BJNR002170952BJNE001200328)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

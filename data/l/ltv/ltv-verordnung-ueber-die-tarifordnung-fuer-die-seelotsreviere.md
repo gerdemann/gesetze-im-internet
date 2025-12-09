@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000104360)
 
 (1) Für Wasserfahrzeuge, die ein Seelotsrevier befahren, sind
 Lotsabgaben nach der Anlage 1 zu entrichten. Satz 1 gilt nicht für
@@ -165,6 +166,7 @@ Seelotsen annehmen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000202125)
 
 (1) Für die Leistungen der Seelotsen sind Lotsgelder (Beratungsgeld,
 Wartegeld und Auslagen) nach der Anlage 2 zu entrichten.
@@ -243,6 +245,7 @@ Schiffe mit feuergefährlicher oder explosiver Gesamtladung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000300000)
 
 Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem
 Eigentümer des Wasserfahrzeuges diejenigen Personen verpflichtet, die
@@ -252,6 +255,7 @@ Zahlungspflichtige haften als Gesamtschuldner.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000400000)
 
 (1) Die Zahlungspflicht entsteht bei den Lotsabgaben mit Befahren des
 Reviers, bei den Lotsgeldern mit der Anforderung des Seelotsen.
@@ -268,6 +272,7 @@ gemacht werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000501305)
 
 (1) Der Anspruch auf Zahlung der Lotsabgaben und der Lotsgelder
 verjährt nach drei Jahren. Die Verjährung beginnt mit Ablauf des
@@ -294,6 +299,7 @@ geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000603124)
 
 (1) Für die Berechnung der Lotsabgaben und Lotsgelder ist für ein
 Seeschiff der Internationale Schiffsmessbrief (1969) und für ein
@@ -368,6 +374,7 @@ aufgerundet.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000701305)
 
 (1) Die Lotsabgaben und Lotsgelder werden von der Generaldirektion
 Wasserstraßen und Schifffahrt erhoben und eingezogen. Diese kann
@@ -379,6 +386,7 @@ oder teilweise befreien.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE001200125)
 
 § 2 Absatz 4 Satz 1 Nummer 2 Buchstabe b ist ab dem 1. Januar 2024
 nicht mehr anzuwenden.
@@ -386,6 +394,7 @@ nicht mehr anzuwenden.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Verzeichnis und Tabelle der Lotsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000810119)
 
 (Fundstelle: BGBl. I 2009, 100 - 110;
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -4511,6 +4520,7 @@ Die Lotsabgabe beträgt
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/ltv/BJNR009710009.html#BJNR009710009BJNE000918119)
 
 (Fundstelle: BGBl. I 2009, 111 - 122;
 bzgl. einzelner Änderungen vgl. Fußnote)

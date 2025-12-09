@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000203310)
 
 Anhörungen nach dieser Verordnung sind durchzuführen vor der
 Entscheidung über die Genehmigung
@@ -63,6 +64,7 @@ wird.
 
 
 ## § 2 Bekanntmachung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000301320)
 
 Sind die mit den Genehmigungsanträgen vorzulegenden Unterlagen
 vollständig, so hat die für die Genehmigung zuständige Behörde
@@ -74,6 +76,7 @@ bekanntzumachen (Bekanntmachung).
 
 
 ## § 3 Inhalt der Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000402320)
 
 (1) In der Bekanntmachung nach § 2 ist
 
@@ -119,6 +122,7 @@ der Bekanntmachung hinzuweisen.
 
 
 ## § 4 Auslegung von Antrag und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000502320)
 
 (1) Bei der Genehmigungsbehörde und, soweit erforderlich, bei einer
 geeigneten Stelle in der Nähe des Standortes der Anlage oder in der
@@ -151,6 +155,7 @@ Gentechnikgesetzes auszulegen.
 
 
 ## § 5 Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000602320)
 
 (1) Einwendungen gegen das Vorhaben können schriftlich oder zur
 Niederschrift in den Fällen des § 1 Nr. 1 bis 4 bis zu zwei Wochen und
@@ -169,6 +174,7 @@ berühren.
 
 
 ## § 6 Erörterungstermin
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000701320)
 
 (1) Der Erörterungstermin dient dazu, die rechtzeitig erhobenen
 Einwendungen zu erörtern, soweit dies für die Prüfung der
@@ -185,6 +191,7 @@ Einwendungsfrist stattfinden.
 
 
 ## § 7 Besondere Einwendungen
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000801320)
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
@@ -193,6 +200,7 @@ Gerichten zu verweisen.
 
 
 ## § 8 Wegfall des Erörterungstermins
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE000901320)
 
 (1) Ein Erörterungstermin findet nicht statt, wenn
 
@@ -213,6 +221,7 @@ Gerichten zu verweisen.
 
 
 ## § 9 Verlegung des Erörterungstermins
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE001001320)
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
 Erörterungstermin verlegen, wenn dies im Hinblick auf dessen
@@ -226,6 +235,7 @@ benachrichtigt werden.
 
 
 ## § 10 Verlauf des Erörterungstermins, Förmliches Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE001102320)
 
 Der Verhandlungsleiter erteilt das Wort und kann es entziehen, wenn
 eine von ihm festgesetzte Redezeit für die einzelnen Wortmeldungen
@@ -239,11 +249,13 @@ Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 29. Mai
 
 
 ## § 11 Schriftliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE001202320)
 
 Die §§ 6 bis 10 gelten nicht für Freisetzungen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/gentanhv/BJNR023750990.html#BJNR023750990BJNE001301320)
 
 (Inkrafttreten)
 

@@ -35,9 +35,11 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000100000)
 
 
 ### § 1 Geltungs- und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000203119)
 
 (1) Diese Verordnung regelt für Fahrzeuge, schwimmende Anlagen und
 Schwimmkörper auf den in Anhang I bezeichneten Wasserstraßen des
@@ -188,6 +190,7 @@ auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 [^F804091_03_BJNR139810018BJNE000203119]: 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000306119)
 
 (1) Im Sinne dieser Verordnung ist oder sind
 
@@ -538,6 +541,7 @@ Schwimmkörper folgende Begriffsbestimmungen:
 
 
 ### § 3 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000402119)
 
 (1) Zuständige Behörde für
 
@@ -609,6 +613,7 @@ Hydrographie in Hamburg.
 
 
 ### § 4 Untersuchungskommissionen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000501119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt beruft die
 Mitglieder der Untersuchungskommissionen. Jede Untersuchungskommission
@@ -668,6 +673,7 @@ Sachverständiger an der Untersuchung teilnehmen.
 
 
 ### § 5 Technische Zulassung zum Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000601119)
 
 (1) Ein Fahrzeug darf am Verkehr nur teilnehmen, wenn es zum Verkehr
 technisch zugelassen worden ist und den Voraussetzungen der
@@ -761,6 +767,7 @@ erteilt, wenn die Anforderungen dieser Verordnung erfüllt sind.
 
 
 ### § 6 Voraussetzung für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000703119)
 
 (1) Die technische Zulassung zum Verkehr wird nach der Untersuchung
 durch eine Untersuchungskommission von der Generaldirektion
@@ -828,6 +835,7 @@ des Artikels 6 Absatz 2 der Verordnung (EU) 2016/1628 verfügen.
 
 
 ### § 7 Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000800000)
 
 (1) Die technische Zulassung eines Fahrzeugs, einer schwimmenden
 Anlage oder eines Schwimmkörpers zum Verkehr wird durch eine
@@ -974,6 +982,7 @@ schwimmende Geräte ausschließlich außerhalb des Rheins fahren, ist die
 
 
 ### § 8 Andere Fahrtauglichkeitsbescheinigungen und Bescheinigungen für die Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE000902119)
 
 (1) Die Eignung für die Fahrt auf den Wasserstraßen der Zonen 1 und 2
 wird nachgewiesen durch einen entsprechenden Eintrag im zusätzlichen
@@ -1050,9 +1059,11 @@ erteilt worden ist.
 
 
 ## Kapitel 2 - Erteilungsverfahren Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000200000)
 
 
 ### § 9 Antrag auf Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001000000)
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter muss die
 Untersuchung des Fahrzeugs bei der Generaldirektion Wasserstraßen und
@@ -1072,6 +1083,7 @@ Muster 1 zu verwenden.
 
 
 ### § 10 Vorführung des Fahrzeugs zur Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001100000)
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter hat das
 Fahrzeug ausgerüstet, unbeladen und gereinigt zur Untersuchung
@@ -1118,6 +1130,7 @@ durchführt.
 
 
 ### § 11 Erteilung einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001200000)
 
 (1) Entspricht ein Fahrzeug, eine schwimmende Anlage oder ein
 Schwimmkörper den Bestimmungen über Bau, Einrichtung und Ausrüstung
@@ -1142,6 +1155,7 @@ Fahrtauglichkeitsbescheinigung erteilt wurde. Ist dies der Fall, wird
 
 
 ### § 12 Befristungen einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001300000)
 
 Liegen die Voraussetzungen des § 48 oder § 49 des
 Verwaltungsverfahrensgesetzes vor, so kann die Generaldirektion
@@ -1151,6 +1165,7 @@ nachträglich befristen.
 
 
 ### § 13 Auflagen für eine Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001400000)
 
 Liegen die Voraussetzungen des § 48 oder § 49 des
 Verwaltungsverfahrensgesetzes vor, so kann die Generaldirektion
@@ -1160,6 +1175,7 @@ nachträglich mit Auflagen versehen.
 
 
 ### § 14 Entzug einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001500000)
 
 Erfüllt ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper
 nicht mehr die seinem Zeugnis entsprechenden technischen Vorschriften,
@@ -1170,6 +1186,7 @@ Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 
 ### § 15 Änderung einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001600000)
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter hat der
 Generaldirektion Wasserstraßen und Schifffahrt jede Namensänderung,
@@ -1186,6 +1203,7 @@ mitzuteilen.
 
 
 ### § 16 Zurückbehalten einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001701119)
 
 (1) Hat die Untersuchungskommission bei einer Untersuchung
 festgestellt, dass ein Fahrzeug oder seine Ausrüstung erhebliche
@@ -1224,6 +1242,7 @@ hat.
 
 
 ### § 17 Ersatz einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001800000)
 
 (1) Der Verlust einer Fahrtauglichkeitsbescheinigung muss der
 Generaldirektion Wasserstraßen und Schifffahrt mitgeteilt werden.
@@ -1238,6 +1257,7 @@ eine Ersatzausfertigung aus, die als solche zu bezeichnen ist.
 
 
 ### § 18 Rückgabe einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE001900000)
 
 Ist ein Fahrzeug endgültig stillgelegt oder abgewrackt worden, so hat
 der Eigner die Fahrtauglichkeitsbescheinigung an die Generaldirektion
@@ -1246,6 +1266,7 @@ ausstellende Behörde war.
 
 
 ### § 19 Gültigkeitsdauer einer Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002001119)
 
 (1) Die Gültigkeitsdauer einer Fahrtauglichkeitsbescheinigung wird von
 der Generaldirektion Wasserstraßen und Schifffahrt festgelegt. Sie
@@ -1292,6 +1313,7 @@ in den Absätzen 1 bis 5 vorgeschriebenen Fristen nicht überschreiten.
 
 
 ### § 20 Vorläufige Fahrtauglichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002101119)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann vorläufige
 Fahrtauglichkeitsbescheinigungen für Fahrzeuge, schwimmende Anlagen
@@ -1372,6 +1394,7 @@ sie für erforderlich hält.
 
 
 ### § 21 Verzeichnis der Fahrtauglichkeitsbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002200000)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt versieht jede
 von ihr erteilte Fahrtauglichkeitsbescheinigung mit einer laufenden
@@ -1387,6 +1410,7 @@ Fahrtauglichkeitsbescheinigungen entsprechend.
 
 
 ### § 22 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002300000)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt darf Personen,
 die ein begründetes Interesse glaubhaft machen, Einsicht in die
@@ -1397,6 +1421,7 @@ Personen Auszüge daraus oder beglaubigte Abschriften aushändigen.
 
 
 ### § 23 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002401119)
 
 (1) Der Eigner eines Fahrzeugs oder sein Bevollmächtigter trägt die
 Kosten, die durch die Untersuchung des Fahrzeugs und die Erteilung der
@@ -1409,6 +1434,7 @@ verlangen.
 
 
 ### § 24 Wiederkehrende Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002500000)
 
 (1) Vor Ablauf der Gültigkeit der Fahrtauglichkeitsbescheinigung muss
 das Fahrzeug einer wiederkehrenden Untersuchung unterzogen werden.
@@ -1427,6 +1453,7 @@ erteilt hat, zurückzugeben.
 
 
 ### § 25 Sonderuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002600000)
 
 (1) Nach jeder wesentlichen Änderung oder Instandsetzung, die auf die
 Festigkeit des Baues, die Fahr- oder Manövriereigenschaften oder die
@@ -1455,6 +1482,7 @@ Fahrtauglichkeitsbescheinigung erteilt oder erneuert hatte.
 
 
 ### § 26 Untersuchung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002700000)
 
 (1) Ist die für die Sicherheit der Schifffahrt zuständige
 Generaldirektion Wasserstraßen und Schifffahrt der Ansicht, dass ein
@@ -1470,9 +1498,11 @@ anerkennt.
 
 
 ## Kapitel 3 - Technische Verwaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000300000)
 
 
 ### § 27 Einheitliche europäische Schiffsnummer (ENI)
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002800000)
 
 (1) Jedes Fahrzeug verfügt nur über eine einzige einheitliche
 europäische Schiffsnummer (ENI), die während der gesamten Lebensdauer
@@ -1490,6 +1520,7 @@ ein.
 
 
 ### § 28 Typgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE002901119)
 
 (1) Die zuständigen Behörden erteilen auf Antrag des Herstellers
 Typgenehmigungen für bestimmte Teile und Ausrüstungen der Fahrzeuge.
@@ -1516,9 +1547,11 @@ gelten als gleichwertig.
 
 
 ## Kapitel 4 - Gleichwertigkeiten, Abweichungen, technische Neuerungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000400000)
 
 
 ### § 29 Gleichwertigkeiten und Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003001119)
 
 (1) Schreiben die Bestimmungen dieser Verordnung vor, dass bestimmte
 Werkstoffe, Einrichtungen oder Ausrüstungen auf einem Fahrzeug
@@ -1582,6 +1615,7 @@ Empfehlung der Zentralkommission für die Rheinschifffahrt vorliegt.
 
 
 ### § 30 Nutzung neuer Technologien
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003101119)
 
 Zu Versuchszwecken und für einen begrenzten Zeitraum kann die
 Generaldirektion Wasserstraßen und Schifffahrt für ein Fahrzeug mit
@@ -1592,9 +1626,11 @@ des § 29 Absatz 4, 5 und 6 gelten entsprechend.
 
 
 ## Kapitel 5 - Beförderung von Fahrgästen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000500000)
 
 
 ### § 31 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003201119)
 
 Ein Fahrzeug, auf dem entgeltlich oder anderweitig geschäfts- oder
 erwerbsmäßig Personen befördert werden (Fahrgäste), insbesondere in
@@ -1629,6 +1665,7 @@ Sportbootvermietungsverordnung bleibt unberührt.
 
 
 ### § 32 Ausnahmen für Gütermotorschiffe und Sondertransporte
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003302119)
 
 § 31 gilt nicht für die Beförderung von Fahrgästen
 
@@ -1654,6 +1691,7 @@ Sportbootvermietungsverordnung bleibt unberührt.
 
 
 ### § 33 Ausnahmen für Sportfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003401126)
 
 (1) § 31 gilt nicht für die Beförderung von Fahrgästen
 
@@ -1774,6 +1812,7 @@ unberührt.
 
 
 ### § 34 Übergangsbestimmungen für Sportfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003502119)
 
 (1) Abweichend von § 31 darf ein Sportfahrzeug mit einer Länge von
 weniger als 20 Metern, das
@@ -1824,9 +1863,11 @@ Sicherheit oder Leichtigkeit des Verkehrs nicht entgegenstehen.
 
 
 ## Kapitel 6 - Pflichten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000600000)
 
 
 ### § 35 Pflichten des Schiffsführers, Eigentümers, Ausrüsters oder Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003604119)
 
 (1) Der Eigentümer, der Ausrüster oder der Bevollmächtigte des
 Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
@@ -2705,6 +2746,7 @@ einen Schwimmkörper nur führen, wenn
 
 
 ### § 36 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003704119)
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -2958,9 +3000,11 @@ oder Ausrüsters, Schiffsführer oder Mitglied der Besatzung
 
 
 ## Kapitel 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNG000700000)
 
 
 ### § 37 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003802119)
 
 (1) Werden Fahrtauglichkeitsbescheinigungen erneuert, so gelten für
 die Fahrzeuge die Übergangsbestimmungen des ES-TRIN sowie der Anhänge
@@ -3028,6 +3072,7 @@ Ersatz im Sinne des Absatzes 3.
 
 
 ### § 38 Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE003901119)
 
 Fahrtauglichkeitsbescheinigungen und andere Bescheinigungen, die in
 den Anwendungsbereich dieser Verordnung fallen und
@@ -3048,6 +3093,7 @@ erteilt worden sind, bleiben bis zu ihrem Ablauf gültig.
 
 
 ### § 39 Normen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004000000)
 
 (1) Verweist diese Verordnung bei den Anforderungen an die
 Beschaffenheit
@@ -3073,6 +3119,7 @@ hinterlegt.
 
 
 ### § 40 Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004101119)
 
 Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei
 Jahren vom Bundesministerium für Verkehr überprüft, um für die
@@ -3082,6 +3129,7 @@ internationales Recht vorzunehmen.
 
 
 ### § 41 Rechtsverordnungen über Anordnungen vorübergehender Art
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE005101119)
 
 (1) Der Generaldirektion Wasserstraßen und Schifffahrt wird die
 Befugnis übertragen, durch Rechtsverordnung nach § 3 Absatz 1, auch in
@@ -3112,6 +3160,7 @@ abweichenden Regelungen treffen können, sind nicht zulässig.
 (zu § 1 Absatz 1 und § 2 Absatz 1 Nummer 1)
 
 ### Anhang I Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004201119)
 
 (Fundstelle: BGBl. I 2018, 1419 - 1421;
 bzgl. der einzelnen Änderungen vgl. Fußnote)(Text siehe:
@@ -3120,6 +3169,7 @@ BinSchUO2018Anh I)
 (zu § 1 Absatz 2 Nummer 1, § 6 Absatz 8 und § 31 Satz 1)
 
 ### Anhang II Nationale Sonderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004304119)
 
 (Fundstelle: BGBl. I 2018, 1422 - 1458;
 bzgl. der einzelnen Änderungen vgl. Fußnote)(Text siehe:
@@ -3128,6 +3178,7 @@ BinSchUO2018Anh II)
 (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 3)
 
 ### Anhang III Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004403119)
 
 (Fundstelle: BGBl. I 2018, 1459 - 1471;
 bzgl. der einzelnen Änderungen vgl. Fußnote)(Text siehe:
@@ -3136,6 +3187,7 @@ BinSchUO2018Anh III)
 (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 4 und 9)
 
 ### Anhang IV Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004500000)
 
 (Fundstelle: BGBl. I 2018, 1472 - 1474)(Text siehe: BinSchUO2018Anh
 IV)
@@ -3144,6 +3196,7 @@ IV)
 1)
 
 ### Anhang V Nationale Muster
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004602119)
 
 (Fundstelle: BGBl. I 2018, 1475 - 1502;
 bzgl. der einzelnen Änderungen vgl. Fußnote)(Text siehe:
@@ -3151,6 +3204,7 @@ BinSchUO2018Anh V)
 
 
 ### Anhang VI (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004702119)
 
 (Fundstelle: BGBl. I 2018, 1503 - 1519)(Text siehe: BinSchUO2018Anh
 VI)
@@ -3158,17 +3212,20 @@ VI)
 (zu § 1 Absatz 2 Nummer 1 und § 28 Absatz 5)
 
 ### Anhang VII Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004800000)
 
 (Fundstelle: BGBl. I 2018, 1520)(Text siehe: BinSchUO2018Anh VII)
 
 
 ### Anhang VIII (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE004901119)
 
 (Text siehe: BinSchUO2018Anh VIII)
 
 (zu § 33 Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4)
 
 ### Anhang IX Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete
+[Direktlink](https://www.gesetze-im-internet.de/binschuo_2018/BJNR139810018.html#BJNR139810018BJNE005002119)
 
 (Fundstelle: BGBl. I 2018, 1552 - 1553;
 bzgl. der einzelnen Änderungen vgl. Fußnote)(Text siehe:

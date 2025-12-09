@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -38,6 +39,7 @@ Es verordnen auf Grund
 
 
 ## § 1 Formular
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000200000)
 
 (1) Für die Erklärung der Partei über ihre persönlichen und
 wirtschaftlichen Verhältnisse nach § 117 Absatz 2 Satz 1 oder nach §
@@ -49,6 +51,7 @@ einer juristischen Person oder einer parteifähigen Vereinigung.
 
 
 ## § 2 Vereinfachte Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000300000)
 
 (1) Ein minderjähriges unverheiratetes Kind, das in einer
 Abstammungssache nach § 169 des Gesetzes über das Verfahren in
@@ -100,6 +103,7 @@ ordnet dies ausdrücklich an.
 
 
 ## § 3 Zulässige Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000400000)
 
 (1) Folgende Abweichungen von dem in der Anlage bestimmten Formular
 und dem Hinweisblatt zu dem Formular sind zulässig:
@@ -133,6 +137,7 @@ wird.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Prozesskostenhilfevordruckverordnung vom 17.
@@ -142,11 +147,13 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/pkhfv/BJNR003400014.html#BJNR003400014BJNE000700000)
 
 (Fundstelle: BGBl. I 2014, 36 - 44)
 

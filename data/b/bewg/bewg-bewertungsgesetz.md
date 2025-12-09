@@ -26,10 +26,12 @@ Mittelbare änderung durch
 
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000102301)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003002301)
 
 (1) Die allgemeinen Bewertungsvorschriften (§§ 2 bis 16) gelten für
 alle öffentlich-rechtlichen Abgaben, die durch Bundesrecht geregelt
@@ -42,6 +44,7 @@ Bewertungsvorschriften enthalten sind.
 
 
 ### § 2 Wirtschaftliche Einheit
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003102301)
 
 (1) Jede wirtschaftliche Einheit ist für sich zu bewerten. Ihr Wert
 ist im ganzen festzustellen. Was als wirtschaftliche Einheit zu gelten
@@ -58,6 +61,7 @@ Bewertung der einzelnen Wirtschaftsgüter vorgeschrieben ist.
 
 
 ### § 3 Wertermittlung bei mehreren Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003202301)
 
 Steht ein Wirtschaftsgut mehreren Personen zu, so ist sein Wert im
 ganzen zu ermitteln. Der Wert ist auf die Beteiligten nach dem
@@ -67,10 +71,12 @@ ist.
 
 
 ### § 3a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003303301)
 
 
 
 ### § 4 Aufschiebend bedingter Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003402301)
 
 Wirtschaftsgüter, deren Erwerb vom Eintritt einer aufschiebenden
 Bedingung abhängt, werden erst berücksichtigt, wenn die Bedingung
@@ -78,6 +84,7 @@ eingetreten ist.
 
 
 ### § 5 Auflösend bedingter Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003502301)
 
 (1) Wirtschaftsgüter, die unter einer auflösenden Bedingung erworben
 sind, werden wie unbedingt erworbene behandelt. Die Vorschriften über
@@ -91,6 +98,7 @@ das auf den Eintritt der Bedingung folgt.
 
 
 ### § 6 Aufschiebend bedingte Lasten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003602301)
 
 (1) Lasten, deren Entstehung vom Eintritt einer aufschiebenden
 Bedingung abhängt, werden nicht berücksichtigt.
@@ -100,6 +108,7 @@ entsprechend.
 
 
 ### § 7 Auflösend bedingte Lasten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003702301)
 
 (1) Lasten, deren Fortdauer auflösend bedingt ist, werden, soweit
 nicht ihr Kapitalwert nach § 13 Abs. 2 und 3, § 14, § 15 Abs. 3 zu
@@ -110,6 +119,7 @@ veranlagten Steuern entsprechend zu berichtigen.
 
 
 ### § 8 Befristung auf einen unbestimmten Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003802301)
 
 Die §§ 4 bis 7 gelten auch, wenn der Erwerb des Wirtschaftsguts oder
 die Entstehung oder der Wegfall der Last von einem Ereignis abhängt,
@@ -117,6 +127,7 @@ bei dem nur der Zeitpunkt ungewiß ist.
 
 
 ### § 9 Bewertungsgrundsatz, gemeiner Wert
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE003902301)
 
 (1) Bei Bewertungen ist, soweit nichts anderes vorgeschrieben ist, der
 gemeine Wert zugrunde zu legen.
@@ -135,6 +146,7 @@ Verfügungsbeschränkungen, die auf letztwilligen Anordnungen beruhen.
 
 
 ### § 10 Begriff des Teilwerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004003301)
 
 Wirtschaftsgüter, die einem Unternehmen dienen, sind, soweit nichts
 anderes vorgeschrieben ist, mit dem Teilwert anzusetzen. Teilwert ist
@@ -145,6 +157,7 @@ fortführt.
 
 
 ### § 11 Wertpapiere und Anteile
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004113119)
 
 (1) Wertpapiere und Schuldbuchforderungen, die am Stichtag an einer
 deutschen Börse zum Handel im regulierten Markt zugelassen sind,
@@ -185,6 +198,7 @@ Rücknahmepreis anzusetzen.
 
 
 ### § 12 Kapitalforderungen und Schulden
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004206140)
 
 (1) Kapitalforderungen, die nicht im § 11 bezeichnet sind, und
 Schulden sind mit dem Nennwert anzusetzen, wenn nicht besondere
@@ -212,6 +226,7 @@ werden.
 
 
 ### § 13 Kapitalwert von wiederkehrenden Nutzungen und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004304301)
 
 (1) Der Kapitalwert von Nutzungen oder Leistungen, die auf bestimmte
 Zeit beschränkt sind, ist mit dem aus Anlage 9a zu entnehmenden
@@ -232,6 +247,7 @@ Zahlungsweise zu rechnen ist.
 
 
 ### § 14 Lebenslängliche Nutzungen und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004405140)
 
 (1) Der Kapitalwert von lebenslänglichen Nutzungen und Leistungen ist
 mit dem Vielfachen des Jahreswerts nach Maßgabe der Sätze 2 bis 4
@@ -327,6 +343,7 @@ mittelschüssigen Zahlungsweise zu rechnen ist.
 
 
 ### § 15 Jahreswert von Nutzungen und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004503301)
 
 (1) Der einjährige Betrag der Nutzung einer Geldsumme ist, wenn kein
 anderer Wert feststeht, zu 5,5 Prozent anzunehmen.
@@ -342,6 +359,7 @@ wird.
 
 
 ### § 16 Begrenzung des Jahreswerts von Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004603301)
 
 Bei der Ermittlung des Kapitalwerts der Nutzungen eines
 Wirtschaftsguts kann der Jahreswert dieser Nutzungen höchstens den
@@ -351,10 +369,12 @@ anzusetzende Wert durch 18,6 geteilt wird.
 
 
 ## Zweiter Teil - Besondere Bewertungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000202301)
 
 
 
 ### § 17 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004706123)
 
 (1) Die besonderen Bewertungsvorschriften sind nach Maßgabe der
 jeweiligen Einzelsteuergesetze anzuwenden.
@@ -366,6 +386,7 @@ Grunderwerbsteuer keine Anwendung.
 
 
 ### § 18 Vermögensarten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004804123)
 
 Das Vermögen, das nach den Vorschriften des Zweiten Teils dieses
 Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
@@ -383,17 +404,21 @@ Gesetzes zu bewerten ist, umfaßt die folgenden Vermögensarten:
 
 
 ### Erster Abschnitt - Einheitsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000302301)
 
 
 
 #### A. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000402301)
 
 
 
 ##### § 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE004908123)
 
 
 ##### § 20 Abweichende Feststellung von Besteuerungsgrundlagen aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE005004123)
 
 Bei der Bewertung ist § 163 der Abgabenordnung nicht anzuwenden; dies
 gilt nicht für Übergangsregelungen, die die oberste Finanzbehörde
@@ -402,9 +427,11 @@ eines Landes im Einvernehmen mit den obersten Finanzbehörden der
 
 
 ##### (XXXX) §§ 21 bis 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE005106123)
 
 
 ##### § 30 Abrundung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE006106301)
 
 Die in Deutscher Mark ermittelten Einheitswerte werden auf volle
 hundert Deutsche Mark nach unten abgerundet und danach in Euro
@@ -412,6 +439,7 @@ umgerechnet. Der umgerechnete Betrag wird auf volle Euro abgerundet.
 
 
 ##### § 31 Bewertung von ausländischem Sachvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE006202301)
 
 (1) Für die Bewertung des ausländischen land- und
 forstwirtschaftlichen Vermögens, Grundvermögens und Betriebsvermögens
@@ -426,81 +454,103 @@ Wertpapiere und Geldschulden sind nicht einzubeziehen.
 
 
 ##### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE006305123)
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000502301)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000602301)
 
 
 
 ###### (XXXX) §§ 33 bis 48a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE006403123)
 
 
 ###### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE008103301)
 
 
 
 ##### II. - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000702301)
 
 
 
 ###### a) - Landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000802301)
 
 
 
 ###### (XXXX) §§ 50 bis 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE008203123)
 
 
 ###### b) - Forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG000902301)
 
 
 
 ###### (XXXX) §§ 53 bis 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE008603123)
 
 
 ###### c) - Weinbauliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001002301)
 
 
 
 ###### (XXXX) §§ 56 bis 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE008904123)
 
 
 ###### d) - Gärtnerische Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001102301)
 
 
 
 ###### (XXXX) §§ 59 bis 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE009203123)
 
 
 ###### e) - Sonstige land- und forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001202301)
 
 
 
 ###### § 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE009503123)
 
 
 ##### III. - Bewertungsbeirat, Gutachterausschuß
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001302301)
 
 
 
 ###### (XXXX) §§ 63 bis 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE009605123)
 
 
 #### C. - Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001402301)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001502301)
 
 
 
 ###### (XXXX) §§ 68 und 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE010104123)
 
 
 ###### § 70 Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE010302301)
 
 (1) Jede wirtschaftliche Einheit des Grundvermögens bildet ein
 Grundstück im Sinne dieses Gesetzes.
@@ -522,56 +572,71 @@ ist.
 
 
 ###### § 71 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE010404123)
 
 
 ##### II. - Unbebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001602301)
 
 
 
 ###### (XXXX) §§ 72 und 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE010503123)
 
 
 ##### III. - Bebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001702301)
 
 
 
 ###### a) - Begriff und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001802301)
 
 
 
 ###### (XXXX) §§ 74 bis 77 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE010703123)
 
 
 ###### b) - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG001902301)
 
 
 
 ###### 1. - Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002002301)
 
 
 
 ###### (XXXX) §§ 78 bis 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE011103123)
 
 
 ###### 2. - Sachwertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002102301)
 
 
 
 ###### (XXXX) §§ 83 bis 90 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE011603123)
 
 
 ##### IV. - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002202301)
 
 
 
 ###### (XXXX) §§ 91 bis 94 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE012405123)
 
 
 #### D. - Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002302301)
 
 
 
 ##### § 95 Begriff des Betriebsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE012808123)
 
 (1) Das Betriebsvermögen umfasst alle Teile eines Gewerbebetriebs im
 Sinne des § 15 Absatz 1 und 2 des Einkommensteuergesetzes, die bei der
@@ -591,6 +656,7 @@ Forstwirtschaft, wenn sie den Hauptzweck des Unternehmens bildet.
 
 
 ##### § 96 Freie Berufe
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE012903301)
 
 Dem Gewerbebetrieb steht die Ausübung eines freien Berufs im Sinne des
 § 18 Abs. 1 Nr. 1 des Einkommensteuergesetzes gleich; dies gilt auch
@@ -599,6 +665,7 @@ Tätigkeit nicht schon im Rahmen eines Gewerbebetriebs ausgeübt wird.
 
 
 ##### § 97 Betriebsvermögen von Körperschaften, Personenvereinigungen und Vermögensmassen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034603123)
 
 (1) Einen Gewerbebetrieb bilden insbesondere alle Wirtschaftsgüter,
 die den folgenden Körperschaften, Personenvereinigungen und
@@ -698,14 +765,17 @@ Geschäftsbetrieb (ausgenommen Land- und Forstwirtschaft) dienen.
 
 
 ##### § 98 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013104301)
 
 
 
 ##### § 98a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013206140)
 
 
 
 ##### § 99 Betriebsgrundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013304140)
 
 (1) Betriebsgrundstück im Sinne dieses Gesetzes ist der zu einem
 Gewerbebetrieb gehörige Grundbesitz, soweit er, losgelöst von seiner
@@ -727,10 +797,12 @@ land- und forstwirtschaftliches Vermögen zu bewerten.
 
 
 ##### (XXXX) §§ 100 bis 102 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013508301)
 
 
 
 ##### § 103 Schulden und sonstige Abzüge
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013705301)
 
 (1) Schulden und sonstige Abzüge, die nach § 95 Abs. 1 zum
 Betriebsvermögen gehören, werden vorbehaltlich des Absatzes 3
@@ -748,14 +820,17 @@ Gesetz ausdrücklich zugelassen ist.
 
 
 ##### § 104 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE013910140)
 
 
 
 ##### (XXXX) §§ 105 bis 108 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE014205301)
 
 
 
 ##### § 109 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE014508140)
 
 (1) Das Betriebsvermögen von Gewerbebetrieben im Sinne des § 95 und
 das Betriebsvermögen von freiberuflich Tätigen im Sinne des § 96 ist
@@ -769,18 +844,22 @@ gemeinen Wert anzusetzen. Für die Ermittlung des gemeinen Werts gilt §
 
 
 ##### § 109a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021200301)
 
 
 
 ### Zweiter Abschnitt - Sondervorschriften und Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002403301)
 
 
 
 #### (XXXX) §§ 110 bis 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE014713301)
 
 
 
 #### § 121 Inlandsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE015908301)
 
 Zum Inlandsvermögen gehören:
 
@@ -836,91 +915,115 @@ Zum Inlandsvermögen gehören:
 
 
 #### § 121a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE016005123)
 
 
 #### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE016206123)
 
 
 #### § 123 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE016306123)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 die in § 12 Absatz 4 Satz 3 vorgesehene Rechtsverordnung zu erlassen.
 
 
 #### § 124 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE016419301)
 
 
 
 ### Dritter Abschnitt - Vorschriften für die Bewertung von Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG002903123)
 
 
 
 #### A. - Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003800301)
 
 
 
 ##### (XXXX) §§ 125 bis 128 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028100123)
 
 
 #### B. - Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003900301)
 
 
 
 ##### (XXXX) §§ 129 bis 133 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE018303123)
 
 
 #### C. - Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004000301)
 
 
 
 ##### (XXXX) §§ 134 bis 136 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021101301)
 
 
 
 ##### § 137 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE017905123)
 
 
 ### Vierter Abschnitt - Vorschriften für die Bewertung von Grundbesitz für die Grunderwerbsteuer ab 1. Januar 1997
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003001140)
 
 
 
 #### A. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003100301)
 
 
 
 ##### (XXXX) §§ 138 und 139 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE019403123)
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003200301)
 
 
 
 ##### (XXXX) §§ 140 bis 144 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE019601123)
 
 
 #### C. - Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003300301)
 
 
 
 ##### I. - Unbebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003400301)
 
 
 
 ###### § 145 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE020103123)
 
 
 ##### II. - Bebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003500301)
 
 
 
 ###### (XXXX) §§ 146 bis 150 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE020202123)
 
 
 ### Fünfter Abschnitt - Gesonderte Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004100301)
 
 
 
 #### § 151 Gesonderte Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021404123)
 
 (1) Gesondert festzustellen (§ 179 der Abgabenordnung) sind
 
@@ -981,6 +1084,7 @@ gilt entsprechend. Absatz 2 ist nicht anzuwenden.
 
 
 #### § 152 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021500301)
 
 Für die gesonderten Feststellungen ist örtlich zuständig:
 
@@ -1018,6 +1122,7 @@ Für die gesonderten Feststellungen ist örtlich zuständig:
 
 
 #### § 153 Erklärungspflicht, Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021605123)
 
 (1) Das Finanzamt kann von jedem, für dessen Besteuerung eine
 gesonderte Feststellung von Bedeutung ist, die Abgabe einer
@@ -1060,6 +1165,7 @@ Beteiligte insoweit von der Erklärungspflicht befreit.
 
 
 #### § 154 Beteiligte am Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021704123)
 
 (1) Am Feststellungsverfahren sind beteiligt
 
@@ -1089,6 +1195,7 @@ mit Wirkung für und gegen alle Miterben erfolgt.
 
 
 #### § 155 Rechtsbehelfsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021801140)
 
 Zur Einlegung von Rechtsbehelfen gegen den Feststellungsbescheid sind
 die Beteiligten im Sinne des § 154 Abs. 1 sowie diejenigen befugt, für
@@ -1100,20 +1207,24 @@ Finanzgerichtsordnung entsprechend anzuwenden.
 
 
 #### § 156 Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE021900301)
 
 Eine Außenprüfung zur Ermittlung der Besteuerungsgrundlagen ist bei
 jedem Beteiligten (§ 154 Abs. 1) zulässig.
 
 
 ### Sechster Abschnitt - Vorschriften für die Bewertung von Grundbesitz, von nicht notierten Anteilen an Kapitalgesellschaften und von Betriebsvermögen für die Erbschaftsteuer ab 1. Januar 2009
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004200140)
 
 
 
 #### A. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004300140)
 
 
 
 ##### § 157 Feststellung von Grundbesitzwerten, von Anteilswerten und von Betriebsvermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022001123)
 
 (1) Grundbesitzwerte werden unter Berücksichtigung der tatsächlichen
 Verhältnisse und der Wertverhältnisse zum Bewertungsstichtag für
@@ -1151,14 +1262,17 @@ Verbindung mit § 11 Abs. 2 zu ermitteln.
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004400140)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004500140)
 
 
 
 ###### § 158 Begriff des land- und forstwirtschaftlichen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022101123)
 
 (1) Land- und Forstwirtschaft ist die planmäßige Nutzung der
 natürlichen Kräfte des Bodens zur Erzeugung von Pflanzen und Tieren
@@ -1252,6 +1366,7 @@ Zusammenhang mit den in Absatz 4 genannten Wirtschaftsgütern stehen.
 
 
 ###### § 159 Abgrenzung land- und forstwirtschaftlich genutzter Flächen zum Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022200140)
 
 (1) Land- und forstwirtschaftlich genutzte Flächen sind dem
 Grundvermögen zuzurechnen, wenn nach ihrer Lage, den am
@@ -1278,6 +1393,7 @@ insgesamt 1 Hektar.
 
 
 ###### § 160 Betrieb der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022301123)
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst
 
@@ -1379,6 +1495,7 @@ einschließlich der hiermit zusammenhängenden Wirtschaftsgüter.
 
 
 ###### § 161 Bewertungsstichtag
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022400140)
 
 (1) Für die Größe des Betriebs, für den Umfang und den Zustand der
 Gebäude sowie für die stehenden Betriebsmittel sind die Verhältnisse
@@ -1390,6 +1507,7 @@ ist.
 
 
 ###### § 162 Bewertung des Wirtschaftsteils
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022500140)
 
 (1) Bei der Bewertung des Wirtschaftsteils ist der gemeine Wert zu
 Grunde zu legen. Dabei ist davon auszugehen, dass der Erwerber den
@@ -1422,6 +1540,7 @@ ausschließlich im betrieblichen Interesse verwendet wird.
 
 
 ###### § 163 Ermittlung der Wirtschaftswerte
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022600140)
 
 (1) Bei der Ermittlung der jeweiligen Wirtschaftswerte ist von der
 nachhaltigen Ertragsfähigkeit land- und forstwirtschaftlicher Betriebe
@@ -1565,6 +1684,7 @@ Landwirtschaftsgesetzes anpasst.
 
 
 ###### § 164 Mindestwert
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022700140)
 
 (1) Der Mindestwert des Wirtschaftsteils setzt sich aus dem Wert für
 den Grund und Boden sowie dem Wert der übrigen Wirtschaftsgüter
@@ -1611,6 +1731,7 @@ anpasst.
 
 
 ###### § 165 Bewertung des Wirtschaftsteils mit dem Fortführungswert
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022800140)
 
 (1) Der Wert des Wirtschaftsteils wird aus der Summe der nach § 163 zu
 ermittelnden Wirtschaftswerte gebildet.
@@ -1625,6 +1746,7 @@ ermittelte Wert, ist dieser Wert anzusetzen; § 166 ist zu beachten.
 
 
 ###### § 166 Bewertung des Wirtschaftsteils mit dem Liquidationswert
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE022901140)
 
 (1) Im Falle des § 162 Abs. 3 oder Abs. 4 ist der Liquidationswert
 nach Absatz 2 zu ermitteln und tritt mit Wirkung für die Vergangenheit
@@ -1649,6 +1771,7 @@ an die Stelle des bisherigen Wertansatzes.
 
 
 ###### § 167 Bewertung der Betriebswohnungen und des Wohnteils
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023000140)
 
 (1) Die Bewertung der Betriebswohnungen und des Wohnteils erfolgt nach
 den Vorschriften, die für die Bewertung von Wohngrundstücken im
@@ -1672,6 +1795,7 @@ Vorschriften.
 
 
 ###### § 168 Grundbesitzwert des Betriebs der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023100140)
 
 (1) Der Grundbesitzwert eines Betriebs der Land- und Forstwirtschaft
 besteht aus
@@ -1735,14 +1859,17 @@ Höhe der gesellschaftsrechtlichen Beteiligung aufzuteilen.
 
 
 ##### II. - Besonderer Teil
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004600140)
 
 
 
 ###### a) - Landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004700140)
 
 
 
 ###### § 169 Tierbestände
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023200140)
 
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen
 Nutzung, wenn im Wirtschaftsjahr
@@ -1827,6 +1954,7 @@ werden können.
 
 
 ###### § 170 Umlaufende Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023300140)
 
 Bei landwirtschaftlichen Betrieben zählen die umlaufenden
 Betriebsmittel nur soweit zum normalen Bestand, als der Durchschnitt
@@ -1834,10 +1962,12 @@ der letzten fünf Jahre nicht überschritten wird.
 
 
 ###### b) - Forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004800140)
 
 
 
 ###### § 171 Umlaufende Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023400140)
 
 Eingeschlagenes Holz gehört zum normalen Bestand an umlaufenden
 Betriebsmitteln, soweit es den jährlichen Nutzungssatz nicht
@@ -1847,6 +1977,7 @@ Betriebsverhältnissen entsprechender mehrjähriger Nutzungssatz.
 
 
 ###### § 172 Abweichender Bewertungsstichtag
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023500140)
 
 Bei der forstwirtschaftlichen Nutzung sind abweichend von § 161 Abs. 1
 für den Umfang und den Zustand des Bestands an nicht eingeschlagenem
@@ -1855,10 +1986,12 @@ legen, das dem Bewertungsstichtag vorangegangen ist.
 
 
 ###### c) - Weinbauliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG004900140)
 
 
 
 ###### § 173 Umlaufende Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023600140)
 
 (1) Bei ausbauenden Betrieben zählen die Vorräte an Weinen aus den
 Ernten der letzten fünf Jahre vor dem Bewertungsstichtag zum normalen
@@ -1868,10 +2001,12 @@ Bestand an umlaufenden Betriebsmitteln.
 
 
 ###### d) - Gärtnerische Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005000140)
 
 
 
 ###### § 174 Abweichende Bewertungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023700140)
 
 (1) Die durch Anbau von Baumschulgewächsen genutzte Betriebsfläche
 wird nach § 161 Abs. 1 bestimmt. Dabei sind die zum 15. September
@@ -1888,10 +2023,12 @@ sich die Einordnung der Flächen nach der vorgesehenen Nutzung.
 
 
 ###### e) - Übrige land- und forstwirtschaftliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005100140)
 
 
 
 ###### § 175 Übrige land- und forstwirtschaftliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023800140)
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören
 
@@ -1937,14 +2074,17 @@ insbesondere
 
 
 #### C. - Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005200140)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005300140)
 
 
 
 ###### § 176 Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE023900140)
 
 (1) Zum Grundvermögen gehören
 
@@ -1980,6 +2120,7 @@ soweit es sich nicht um land- und forstwirtschaftliches Vermögen (§§
 
 
 ###### § 177 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024002123)
 
 (1) Den Bewertungen nach den §§ 179 und 182 bis 196 ist der gemeine
 Wert (§ 9) zu Grunde zu legen.
@@ -2014,10 +2155,12 @@ berücksichtigt. § 198 bleibt hiervon unberührt.
 
 
 ##### II. - Unbebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005400140)
 
 
 
 ###### § 178 Begriff der unbebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024100140)
 
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine
 benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt im Zeitpunkt
@@ -2034,6 +2177,7 @@ ist.
 
 
 ###### § 179 Bewertung der unbebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024202123)
 
 Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach ihrer
 Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs). Die
@@ -2046,10 +2190,12 @@ ist der Bodenwert aus den Werten vergleichbarer Flächen abzuleiten.
 
 
 ##### III. - Bebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005500140)
 
 
 
 ###### § 180 Begriff der bebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024300140)
 
 (1) Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare
 Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist
@@ -2063,6 +2209,7 @@ ist.
 
 
 ###### § 181 Grundstücksarten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024401123)
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden
 Grundstücksarten zu unterscheiden:
@@ -2132,6 +2279,7 @@ sind. Die Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
 
 ###### § 182 Bewertung der bebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024500140)
 
 (1) Der Wert der bebauten Grundstücke ist nach dem
 Vergleichswertverfahren (Absatz 2 und § 183), dem Ertragswertverfahren
@@ -2179,6 +2327,7 @@ Vergleichswertverfahren (Absatz 2 und § 183), dem Ertragswertverfahren
 
 
 ###### § 183 Bewertung im Vergleichswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024603123)
 
 (1) Bei Anwendung des Vergleichswertverfahrens sind Kaufpreise von
 Grundstücken heranzuziehen, die hinsichtlich der ihren Wert
@@ -2200,6 +2349,7 @@ Maßgabe des § 177 Absatz 2 und 3.
 
 
 ###### § 184 Bewertung im Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024701123)
 
 (1) Bei Anwendung des Ertragswertverfahrens ist der Wert der Gebäude
 (Gebäudeertragswert) getrennt von dem Bodenwert auf der Grundlage des
@@ -2216,6 +2366,7 @@ dem nach den Absätzen 1 bis 3 ermittelten Ertragswert abgegolten.
 
 
 ###### § 185 Ermittlung des Gebäudeertragswerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024801123)
 
 (1) Bei der Ermittlung des Gebäudeertragswerts ist von dem Reinertrag
 des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des
@@ -2252,6 +2403,7 @@ Bewertungsstichtag begrenzt.
 
 
 ###### § 186 Rohertrag des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE024900140)
 
 (1) Rohertrag ist das Entgelt, das für die Benutzung des bebauten
 Grundstücks nach den am Bewertungsstichtag geltenden vertraglichen
@@ -2277,6 +2429,7 @@ nicht einzubeziehen.
 
 
 ###### § 187 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025002123)
 
 (1) Bewirtschaftungskosten sind die bei gewöhnlicher Bewirtschaftung
 nachhaltig entstehenden Verwaltungskosten, Betriebskosten,
@@ -2300,6 +2453,7 @@ Bundessteuerblatt.
 
 
 ###### § 188 Liegenschaftszinssatz
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025102123)
 
 (1) Liegenschaftszinssätze sind Kapitalisierungszinssätze, mit denen
 Verkehrswerte von Grundstücken je nach Grundstücksart im Durchschnitt
@@ -2330,6 +2484,7 @@ folgenden Zinssätze:
 
 
 ###### § 189 Bewertung im Sachwertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025201123)
 
 (1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude
 (Gebäudesachwert) getrennt vom Bodenwert nach § 190 zu ermitteln.
@@ -2347,6 +2502,7 @@ Außenanlagen und sonstigen Anlagen.
 
 
 ###### § 190 Ermittlung des Gebäudesachwerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025302123)
 
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den
 Regelherstellungskosten des Gebäudes auszugehen.
@@ -2407,6 +2563,7 @@ Bewertungsstichtag begrenzt.
 
 
 ###### § 191 Wertzahlen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025402123)
 
 Als Wertzahlen im Sinne des § 189 Absatz 3 sind die von den
 Gutachterausschüssen im Sinne der §§ 192 ff. des Baugesetzbuchs
@@ -2416,10 +2573,12 @@ stehen, sind die in Anlage 25 bestimmten Wertzahlen zu verwenden.
 
 
 ##### IV. - Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005600140)
 
 
 
 ###### § 192 Bewertung in Erbbaurechtsfällen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025501140)
 
 Ist das Grundstück mit einem Erbbaurecht belastet, sind die Werte für
 die wirtschaftliche Einheit Erbbaurecht (§ 193) und für die
@@ -2432,6 +2591,7 @@ weniger als 0 Euro betragen.
 
 
 ###### § 193 Bewertung des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025602123)
 
 (1) Der Wert des Erbbaurechts ist durch Multiplikation des Werts des
 unbelasteten Grundstücks mit einem Erbbaurechtskoeffizienten zu
@@ -2521,6 +2681,7 @@ jeweiligen Gebäude zu multiplizieren.
 
 
 ###### § 194 Bewertung des Erbbaugrundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025701123)
 
 (1) Der Wert des Erbbaugrundstücks ist durch Multiplikation des
 Bodenwerts des unbelasteten Grundstücks mit einem
@@ -2580,6 +2741,7 @@ Zinssatzes.
 
 
 ###### § 195 Gebäude auf fremdem Grund und Boden
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025802123)
 
 (1) In Fällen von Gebäuden auf fremdem Grund und Boden sind die Werte
 für die wirtschaftliche Einheit des Gebäudes auf fremdem Grund und
@@ -2671,6 +2833,7 @@ anzuwendenden Zinssatzes.
 
 
 ###### § 196 Grundstücke im Zustand der Bebauung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE025900140)
 
 (1) Ein Grundstück im Zustand der Bebauung liegt vor, wenn mit den
 Bauarbeiten begonnen wurde und Gebäude und Gebäudeteile noch nicht
@@ -2685,6 +2848,7 @@ hinzuzurechnen.
 
 
 ###### § 197 Gebäude und Gebäudeteile für den Zivilschutz
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026000140)
 
 Gebäude, Teile von Gebäuden und Anlagen, die wegen der in § 1 des
 Zivilschutzgesetzes vom 25. März 1997 (BGBl. I S. 726), das zuletzt
@@ -2696,10 +2860,12 @@ bleiben bei der Ermittlung des Grundbesitzwerts außer Betracht.
 
 
 ##### V. - Nachweis des niedrigeren gemeinen Werts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005700140)
 
 
 
 ###### § 198 Nachweis des niedrigeren gemeinen Werts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026101123)
 
 (1) Weist der Steuerpflichtige nach, dass der gemeine Wert der
 wirtschaftlichen Einheit am Bewertungsstichtag niedriger ist als der
@@ -2724,10 +2890,12 @@ sind.
 
 
 #### D. - Nicht notierte Anteile an Kapitalgesellschaften und Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005800140)
 
 
 
 ##### § 199 Anwendung des vereinfachten Ertragswertverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026200140)
 
 (1) Ist der gemeine Wert von Anteilen an einer Kapitalgesellschaft
 nach § 11 Abs. 2 Satz 2 unter Berücksichtigung der Ertragsaussichten
@@ -2744,6 +2912,7 @@ dieses nicht zu offensichtlich unzutreffenden Ergebnissen führt.
 
 
 ##### § 200 Vereinfachtes Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026300140)
 
 (1) Zur Ermittlung des Ertragswerts ist vorbehaltlich der Absätze 2
 bis 4 der zukünftig nachhaltig erzielbare Jahresertrag (§§ 201 und
@@ -2770,6 +2939,7 @@ angesetzt.
 
 
 ##### § 201 Ermittlung des Jahresertrags
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026400140)
 
 (1) Die Grundlage für die Bewertung bildet der zukünftig nachhaltig zu
 erzielende Jahresertrag. Für die Ermittlung dieses Jahresertrags
@@ -2799,6 +2969,7 @@ früheren Betriebsergebnisse entsprechend zu korrigieren.
 
 
 ##### § 202 Betriebsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026500140)
 
 (1) Zur Ermittlung des Betriebsergebnisses ist von dem Gewinn im Sinne
 des § 4 Abs. 1 Satz 1 des Einkommensteuergesetzes auszugehen
@@ -2896,6 +3067,7 @@ Betriebsergebnis nach Absatz 1 oder Absatz 2 um 30 Prozent zu mindern.
 
 
 ##### § 203 Kapitalisierungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026601377)
 
 (1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor
 beträgt 13,75.
@@ -2907,13 +3079,16 @@ anzupassen.
 
 
 ### Siebenter Abschnitt - Bewertung des Grundbesitzes für die Grundsteuer ab 1. Januar 2022
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG005900123)
 
 
 
 #### A. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006000123)
 
 
 ##### § 218 Vermögensarten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028200123)
 
 Für Vermögen, das nach diesem Abschnitt zu bewerten ist, erfolgt
 abweichend von § 18 eine Unterscheidung in folgende Vermögensarten:
@@ -2933,6 +3108,7 @@ und sind wie Grundvermögen zu bewerten.
 
 
 ##### § 219 Feststellung von Grundsteuerwerten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028300123)
 
 (1) Grundsteuerwerte werden für inländischen Grundbesitz, und zwar für
 Betriebe der Land- und Forstwirtschaft (§§ 232 bis 234, 240) und für
@@ -2957,6 +3133,7 @@ sie für die Besteuerung von Bedeutung sind.
 
 
 ##### § 220 Ermittlung der Grundsteuerwerte
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028401123)
 
 (1) Die Grundsteuerwerte werden nach den Vorschriften dieses
 Abschnitts ermittelt. Bei der Ermittlung der Grundsteuerwerte ist §
@@ -2986,6 +3163,7 @@ bleiben unberührt.
 
 
 ##### § 221 Hauptfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028500123)
 
 (1) Die Grundsteuerwerte werden in Zeitabständen von je sieben Jahren
 allgemein festgestellt (Hauptfeststellung).
@@ -2995,6 +3173,7 @@ Kalenderjahres (Hauptfeststellungszeitpunkt) zugrunde gelegt.
 
 
 ##### § 222 Fortschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028600123)
 
 (1) Der Grundsteuerwert wird neu festgestellt (Wertfortschreibung),
 wenn der in Euro ermittelte und auf volle 100 Euro abgerundete Wert,
@@ -3035,6 +3214,7 @@ ist:
 
 
 ##### § 223 Nachfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028700123)
 
 (1) Für wirtschaftliche Einheiten, für die ein Grundsteuerwert
 festzustellen ist, wird der Grundsteuerwert nachträglich festgestellt
@@ -3066,6 +3246,7 @@ Nachfeststellungszeitpunkt ist:
 
 
 ##### § 224 Aufhebung des Grundsteuerwerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028800123)
 
 (1) Der Grundsteuerwert wird aufgehoben, wenn dem Finanzamt bekannt
 wird, dass:
@@ -3094,6 +3275,7 @@ wird, dass:
 
 
 ##### § 225 Änderung von Feststellungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028900123)
 
 Bescheide über Fortschreibungen oder über Nachfeststellungen von
 Grundsteuerwerten können schon vor dem maßgeblichen
@@ -3103,6 +3285,7 @@ zu einer abweichenden Feststellung führen.
 
 
 ##### § 226 Nachholung einer Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029000123)
 
 (1) Ist die Feststellungsfrist (§ 181 der Abgabenordnung) abgelaufen,
 kann eine Fortschreibung (§ 222) oder Nachfeststellung (§ 223) unter
@@ -3117,6 +3300,7 @@ entsprechend anzuwenden.
 
 
 ##### § 227 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029100123)
 
 Bei Fortschreibungen und bei Nachfeststellungen der Grundsteuerwerte
 sind die Wertverhältnisse im Hauptfeststellungszeitpunkt zugrunde zu
@@ -3124,6 +3308,7 @@ legen.
 
 
 ##### § 228 Erklärungs- und Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029203123)
 
 (1) Die Steuerpflichtigen haben Erklärungen zur Feststellung der
 Grundsteuerwerte für den Hauptfeststellungszeitpunkt oder einen
@@ -3184,6 +3369,7 @@ Abgabenordnung.
 
 
 ##### § 229 Auskünfte, Erhebungen und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029300123)
 
 (1) Die Eigentümer von Grundbesitz haben der Finanzbehörde auf
 Anforderung alle Angaben zu machen, die sie für die Sammlung der
@@ -3249,12 +3435,14 @@ Bundessteuerblatt zu veröffentlichen.
 
 
 ##### § 230 Abrundung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029400123)
 
 Die ermittelten Grundsteuerwerte werden auf volle 100 Euro nach unten
 abgerundet.
 
 
 ##### § 231 Abgrenzung von in- und ausländischem Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029500123)
 
 (1) Für die Bewertung des inländischen nach diesem Abschnitt zu
 bewertenden Vermögens gelten die §§ 232 bis 262. Nach diesen
@@ -3267,14 +3455,17 @@ nicht der gesonderten Feststellung nach § 219.
 
 
 #### B. - Land- und forstwirtschaftliches Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006100123)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006200123)
 
 
 
 ###### § 232 Begriff des land- und forstwirtschaftlichen Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029600123)
 
 (1) Land- und Forstwirtschaft ist die planmäßige Nutzung der
 natürlichen Kräfte des Bodens zur Erzeugung von Pflanzen und Tieren
@@ -3340,6 +3531,7 @@ der zur gesicherten Fortführung des Betriebs erforderlich ist.
 
 
 ###### § 233 Abgrenzung des land- und forstwirtschaftlichen Vermögens vom Grundvermögen in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029700123)
 
 (1) Dienen im Umgriff einer Windenergieanlage Flächen einem Betrieb
 der Land- und Forstwirtschaft, sind abweichend von § 232 Absatz 4
@@ -3364,6 +3556,7 @@ benachbarten Bereichen begonnen hat oder schon durchgeführt ist. Satz
 
 
 ###### § 234 Betrieb der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029800123)
 
 (1) Ein Betrieb der Land- und Forstwirtschaft umfasst:
 
@@ -3449,6 +3642,7 @@ darstellt.
 
 
 ###### § 235 Feststellungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE029901123)
 
 (1) Für die Größe des Betriebs sowie für den Umfang und den Zustand
 der Gebäude sind die Verhältnisse im Feststellungszeitpunkt maßgebend.
@@ -3459,6 +3653,7 @@ vorangegangen ist.
 
 
 ###### § 236 Bewertungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030000123)
 
 (1) Der Bewertung eines Betriebs der Land- und Forstwirtschaft ist der
 Ertragswert zugrunde zu legen.
@@ -3487,6 +3682,7 @@ Betriebs.
 
 
 ###### § 237 Bewertung des Betriebs der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030100123)
 
 (1) Bei der Ermittlung des Ertragswerts für einen Betrieb der Land-
 und Forstwirtschaft sind die land- und forstwirtschaftlichen
@@ -3563,6 +3759,7 @@ Anlage 32.
 
 
 ###### § 238 Zuschläge zum Reinertrag
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030200123)
 
 (1) Ein Zuschlag zum Reinertrag einer Nutzung oder Nutzungsart ist
 vorzunehmen,
@@ -3601,6 +3798,7 @@ und dem Bewertungsfaktor gemäß Anlage 33.
 
 
 ###### § 239 Grundsteuerwert des Betriebs der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030300123)
 
 (1) Die Summe der Reinerträge des Betriebs einschließlich der
 Zuschläge (§§ 237, 238) ist zur Ermittlung des Ertragswerts mit dem
@@ -3618,6 +3816,7 @@ Forstwirtschaft.
 
 
 ###### § 240 Kleingartenland und Dauerkleingartenland
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030400123)
 
 (1) Als Betrieb der Land- und Forstwirtschaft gelten auch
 Kleingartenland und Dauerkleingartenland im Sinne des
@@ -3639,14 +3838,17 @@ ergibt den Grundsteuerwert des Betriebs der Land-und Forstwirtschaft.
 
 
 ##### II. - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006300123)
 
 
 
 ###### a) - Landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006400123)
 
 
 
 ###### § 241 Tierbestände
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030500123)
 
 (1) Tierbestände gehören in vollem Umfang zur landwirtschaftlichen
 Nutzung, wenn im Wirtschaftsjahr
@@ -3738,10 +3940,12 @@ Tierbestands sind den Anlagen 34 und 35 zu entnehmen.
 
 
 ###### b) - Übrige land- und forstwirtschaftliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006500123)
 
 
 
 ###### § 242 Übrige land- und forstwirtschaftliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030600123)
 
 (1) Zu den übrigen land- und forstwirtschaftlichen Nutzungen gehören:
 
@@ -3790,14 +3994,17 @@ insbesondere:
 
 
 #### C. - Grundvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006600123)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006700123)
 
 
 
 ###### § 243 Begriff des Grundvermögens
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030700123)
 
 (1) Zum Grundvermögen gehören, soweit es sich nicht um land- und
 forstwirtschaftliches Vermögen (§§ 232 bis 242) handelt:
@@ -3836,6 +4043,7 @@ sonstigen Bauteile wie Mauervorlagen und Verstrebungen.
 
 
 ###### § 244 Grundstück
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030801123)
 
 (1) Jede wirtschaftliche Einheit des Grundvermögens bildet ein
 Grundstück im Sinne dieses Abschnitts.
@@ -3869,6 +4077,7 @@ des Verkehrs als selbständige wirtschaftliche Einheit anzusehen ist (§
 
 
 ###### § 245 Gebäude, Gebäudeteile und Anlagen für den Zivilschutz
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE030900123)
 
 Gebäude, Gebäudeteile und Anlagen, die wegen der in § 1 des
 Zivilschutz- und Katastrophenhilfegesetzes bezeichneten Zwecke
@@ -3878,10 +4087,12 @@ Ermittlung des Grundsteuerwerts außer Betracht.
 
 
 ##### II. - Unbebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006800123)
 
 
 
 ###### § 246 Begriff der unbebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031000123)
 
 (1) Unbebaute Grundstücke sind Grundstücke, auf denen sich keine
 benutzbaren Gebäude befinden. Die Benutzbarkeit beginnt zum Zeitpunkt
@@ -3899,6 +4110,7 @@ vorhanden ist.
 
 
 ###### § 247 Bewertung der unbebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031102123)
 
 (1) Der Grundsteuerwert unbebauter Grundstücke ermittelt sich
 regelmäßig durch Multiplikation ihrer Fläche mit dem jeweiligen
@@ -3930,10 +4142,12 @@ abzuleiten.
 
 
 ##### III. - Bebaute Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG006900123)
 
 
 
 ###### § 248 Begriff der bebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031200123)
 
 Bebaute Grundstücke sind Grundstücke, auf denen sich benutzbare
 Gebäude befinden. Wird ein Gebäude in Bauabschnitten errichtet, ist
@@ -3941,6 +4155,7 @@ der bezugsfertige Teil als benutzbares Gebäude anzusehen.
 
 
 ###### § 249 Grundstücksarten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031300123)
 
 (1) Bei der Bewertung bebauter Grundstücke sind die folgenden
 Grundstücksarten zu unterscheiden:
@@ -4020,6 +4235,7 @@ Wohnfläche soll mindestens 20 Quadratmeter betragen.
 
 
 ###### § 250 Bewertung der bebauten Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031400123)
 
 (1) Der Grundsteuerwert bebauter Grundstücke ist nach dem
 Ertragswertverfahren (Absatz 2) oder dem Sachwertverfahren (Absatz 3)
@@ -4059,6 +4275,7 @@ zu ermitteln.
 
 
 ###### § 251 Mindestwert
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031500123)
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
 sein als 75 Prozent des Werts, mit dem der Grund und Boden allein als
@@ -4068,6 +4285,7 @@ der Ermittlung des Mindestwerts § 257 Absatz 1 Satz 2 anzuwenden.
 
 
 ###### § 252 Bewertung im Ertragswertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031600123)
 
 Im Ertragswertverfahren ermittelt sich der Grundsteuerwert aus der
 Summe des kapitalisierten Reinertrags nach § 253 (Barwert des
@@ -4078,6 +4296,7 @@ Anlagen abgegolten.
 
 
 ###### § 253 Ermittlung des kapitalisierten Reinertrags
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031701123)
 
 (1) Zur Ermittlung des kapitalisierten Reinertrags ist vom Reinertrag
 des Grundstücks auszugehen. Dieser ergibt sich aus dem Rohertrag des
@@ -4103,6 +4322,7 @@ Hauptfeststellungszeitpunkt begrenzt.
 
 
 ###### § 254 Rohertrag des Grundstücks
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031800123)
 
 Der jährliche Rohertrag des Grundstücks ergibt sich aus den in Anlage
 39 nach Land, Gebäudeart, Wohnfläche und Baujahr des Gebäudes
@@ -4112,6 +4332,7 @@ Zu- und Abschläge.
 
 
 ###### § 255 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE031900123)
 
 Als Bewirtschaftungskosten werden die bei ordnungsgemäßer
 Bewirtschaftung und zulässiger Nutzung marktüblich entstehenden
@@ -4122,6 +4343,7 @@ pauschalierten Erfahrungssätzen nach Anlage 40.
 
 
 ###### § 256 Liegenschaftszinssätze
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032001123)
 
 (1) Liegenschaftszinssätze sind die Zinssätze, mit denen der Wert von
 Grundstücken abhängig von der Grundstücksart durchschnittlich und
@@ -4162,6 +4384,7 @@ je Quadratmeter beträgt der Zinssatz für Wohnungseigentum einheitlich
 
 
 ###### § 257 Ermittlung des abgezinsten Bodenwerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032100123)
 
 (1) Zur Ermittlung des abgezinsten Bodenwerts ist vom Bodenwert nach §
 247 auszugehen. Bei der Bewertung von Ein- und Zweifamilienhäusern im
@@ -4182,6 +4405,7 @@ benötigt wird und selbständig genutzt oder verwertet werden kann.
 
 
 ###### § 258 Bewertung im Sachwertverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032200123)
 
 (1) Bei Anwendung des Sachwertverfahrens ist der Wert der Gebäude
 (Gebäudesachwert) getrennt vom Bodenwert zu ermitteln.
@@ -4197,6 +4421,7 @@ Außenanlagen, und die sonstigen Anlagen abgegolten.
 
 
 ###### § 259 Ermittlung des Gebäudesachwerts
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032301123)
 
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den
 Normalherstellungskosten des Gebäudes in Anlage 42 auszugehen.
@@ -4233,6 +4458,7 @@ tatsächlichen Gesamtnutzungsdauer begrenzt.
 
 
 ###### § 260 Wertzahlen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032400123)
 
 Zur Ermittlung des Grundsteuerwerts ist der vorläufige Sachwert des
 Grundstücks im Sinne des § 258 Absatz 3 mit der sich aus Anlage 43
@@ -4240,10 +4466,12 @@ ergebenden Wertzahl zu multiplizieren.
 
 
 ##### IV. - Sonderfälle
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG007000123)
 
 
 
 ###### § 261 Erbbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032501123)
 
 Bei Erbbaurechten ist für das Erbbaurecht und das
 Erbbaurechtsgrundstück ein Gesamtwert nach den §§ 243 bis 260 zu
@@ -4254,6 +4482,7 @@ Teilerbbaurechte gelten die Sätze 1 und 2 entsprechend.
 
 
 ###### § 262 Gebäude auf fremdem Grund und Boden
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032600123)
 
 Bei einem Gebäude auf fremdem Grund und Boden ist für den Grund und
 Boden sowie für das Gebäude auf fremdem Grund und Boden ein Gesamtwert
@@ -4262,10 +4491,12 @@ Eigentümer des Grund und Bodens zuzurechnen.
 
 
 ##### V. - Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG007100123)
 
 
 
 ###### § 263 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032701123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die folgenden Anlagen
@@ -4310,10 +4541,12 @@ festzulegen.
 
 
 ## Dritter Teil - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNG003702123)
 
 
 
 ### § 264 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE020803123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen
@@ -4322,6 +4555,7 @@ machen.
 
 
 ### § 265 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE020919123)
 
 (1) Dieses Gesetz in der Fassung des Artikels 7 des Gesetzes vom 1.
 November 2011 (BGBl. I S. 2131) ist auf Bewertungsstichtage nach dem
@@ -4395,6 +4629,7 @@ Bewertungsstichtage nach dem 31. Dezember 2024 anzuwenden.
 
 
 ### § 266 Erstmalige Anwendung des Siebenten Abschnitts des Zweiten Teils
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032805123)
 
 (1) Die erste Hauptfeststellung für die Grundsteuerwerte nach § 221
 wird auf den 1. Januar 2022 für die Hauptveranlagung auf den 1. Januar
@@ -4452,14 +4687,17 @@ Regelungen des Siebenten Abschnitts zugrunde gelegt werden.
 
 
 ### Anlage 1 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE016504123)
 
 
 ### Anlage 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE017307140)
 
 
 (zu § 13)
 
 ### Anlage 9a Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE019103301)
 
 (Fundstelle: BGBl. I 1992, 1860 u. 1861;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -5048,11 +5286,13 @@ nachschüssige Zahlungsweise.
 
 
 ### (XXXX) Anlagen 10 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE017405140)
 
 
 (zu § 163 Abs. 3, § 164 Abs. 2 und 4)
 
 ### Anlage 14 Landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026700140)
 
 (Fundstelle: BGBl. I 2008, 3043 - 3059)
 
@@ -13547,6 +13787,7 @@ nachschüssige Zahlungsweise.
 (zu § 163 Abs. 4 und § 164 Abs. 2)
 
 ### Anlage 15 Forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026802123)
 
 (Fundstelle: BGBl. I 2008, 3060;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -13699,6 +13940,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
    (zu § 164 Abs. 4)
 
 ### Anlage 15a Forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE026900140)
 
 (Fundstelle: BGBl. I 2008, 3061)
 
@@ -14070,6 +14312,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4)
 
 ### Anlage 16 Weinbauliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027000140)
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -14139,6 +14382,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4)
 
 ### Anlage 17 Gärtnerische Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027100140)
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -14246,6 +14490,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4)
 
 ### Anlage 18 Sondernutzungen
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027200140)
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -14312,6 +14557,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 169)
 
 ### Anlage 19 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027301140)
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
 
@@ -14731,6 +14977,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu § 169 Abs. 5)
 
 ### Anlage 20 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027400140)
 
 (Fundstelle: BGBl. I 2008, 3065)
 
@@ -14783,6 +15030,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 1 und § 195 Absatz 3 Satz 1 und Absatz 7 Satz 1)
 
 ### Anlage 21 Vervielfältiger
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027502123)
 
 (Fundstelle: BGBl. 2024 I Nr. 387, S. 65 - 70)
 
@@ -19265,6 +19513,7 @@ Nachkommastellen zu runden.
 (zu § 185 Absatz 3 Satz 3, § 190 Absatz 6 Satz 1 und 2)
 
 ### Anlage 22 Gesamtnutzungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027602123)
 
 (Fundstelle: BGBl. I 2015, 1846)
 
@@ -19424,6 +19673,7 @@ vorstehenden Gebäudearten zuzuordnen.
 (zu § 187 Absatz 2 und 3)
 
 ### Anlage 23 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027702123)
 
 (Fundstelle: BGBl. I 2022, 2317)
 
@@ -19550,6 +19800,7 @@ volle Euro zu runden.
 (zu § 190 Absatz 1 Satz 3 und Absatz 2 und Anlage 23)
 
 ### Anlage 24 Regelherstellungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027804123)
 
 (Fundstelle: BGBl. I 2015, 1847 – 1862)
 
@@ -22416,6 +22667,7 @@ Normalherstellungskosten (2010).
 [^f791494_06_BJNR010350934BJNE027804123]: 
 
 ### Anlage 25 (zu § 191 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE027902123)
 
 (Fundstelle: BGBl. I 2022, 2317 - 2318)
 
@@ -22716,6 +22968,7 @@ vorläufige Sachwert oder Bodenrichtwert oder abgeleitete Bodenwert.
 Satz 3 und Absatz 6 Satz 1)
 
 ### Anlage 26 Abzinsungsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE028002123)
 
 (Fundstelle: BGBl. 2024 I Nr. 387, S. 71 - 76)
 
@@ -27198,6 +27451,7 @@ Nachkommastellen zu runden.
 (zu § 237 Absatz 2)
 
 ### Anlage 27 Landwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE032901123)
 
 (Fundstelle: BGBl. I 2021, 2291)
 
@@ -27242,6 +27496,7 @@ Nachkommastellen zu runden.
 (zu § 237 Absatz 3)
 
 ### Anlage 28 Forstwirtschaftliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033001123)
 
 (Fundstelle: BGBl. I 2021, 2292 – 2294)
 
@@ -27832,6 +28087,7 @@ Nachkommastellen zu runden.
 (zu § 237 Absatz 4)
 
 ### Anlage 29 Weinbauliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033101123)
 
 (Fundstelle: BGBl. I 2021, 2295)
 
@@ -27854,6 +28110,7 @@ Nachkommastellen zu runden.
 (zu § 237 Absatz 5)
 
 ### Anlage 30 Gärtnerische Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033201123)
 
 (Fundstelle: BGBl. I 2021, 2296)
 
@@ -27995,6 +28252,7 @@ Nachkommastellen zu runden.
 Übrige land- und forstwirtschaftliche Nutzungen
 
 ### Anlage 31 sowie Abbauland, Geringstland und Unland
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033302123)
 
 (Fundstelle: BGBl. I 2021, 2297)
 
@@ -28151,6 +28409,7 @@ Nachkommastellen zu runden.
 (zu § 237 Absatz 8)
 
 ### Anlage 32 Nutzungsart Hofstelle
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033401123)
 
 (Fundstelle: BGBl. I 2021, 2298)
 
@@ -28195,6 +28454,7 @@ Nachkommastellen zu runden.
 (zu § 238 Absatz 2)
 
 ### Anlage 33 Weitere den Ertragswert erhöhende Umstände
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033501123)
 
 (Fundstelle: BGBl. I 2021, 2299)
 
@@ -28219,6 +28479,7 @@ Nachkommastellen zu runden.
 Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE)
 
 ### Anlage 34 nach dem Futterbedarf
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033600123)
 
 (Fundstelle: BGBl. I 2019, 1824 – 25)
 
@@ -28592,6 +28853,7 @@ Umrechnungsschlüssel für Tierbestände in Vieheinheiten (VE)
 (zu § 241 Absatz 5)
 
 ### Anlage 35 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033700123)
 
 (Fundstelle: BGBl. I 2019, 1826)
 
@@ -28645,6 +28907,7 @@ Umrechnungskoeffizienten zur Berücksichtigung abweichender
 Grundstücksgrößen
 
 ### Anlage 36 beim Bodenwert von Ein- und Zweifamilienhäusern
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033800123)
 
 (Fundstelle: BGBl. I 2019, 1827)
 
@@ -28880,6 +29143,7 @@ Grundstücksgrößen
 (zu § 253 Absatz 2)
 
 ### Anlage 37 Vervielfältiger
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE033900123)
 
 (Fundstelle: BGBl. I 2019, 1828 — 1833)
 
@@ -33365,6 +33629,7 @@ p   = Zinsfuß
 (zu § 253 Absatz 2 und § 259 Absatz 4)
 
 ### Anlage 38 Wirtschaftliche Gesamtnutzungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034000123)
 
 (Fundstelle: BGBl. I 2019, 1834)
 
@@ -33489,6 +33754,7 @@ vergleichbarer Gebäudearten abzuleiten.
 (zu § 254)
 
 ### Anlage 39 Ermittlung des Rohertrags
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034102123)
 
 (Fundstelle: BGBl. I 2021, 2932 – 2936;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -35789,6 +36055,7 @@ II. **Mietniveaustufen**
 (zu § 255)
 
 ### Anlage 40 Bewirtschaftungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034201123)
 
 (Fundstelle: BGBl. I 2019, 1840)
 
@@ -35857,6 +36124,7 @@ und Mietausfallwagnis in Prozent des Rohertrags des Grundstücks nach §
 (zu § 257 Absatz 2)
 
 ### Anlage 41 Abzinsungsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034300123)
 
 (Fundstelle: BGBl. I 2019, 1841 – 1846)
 
@@ -40342,6 +40610,7 @@ p   = Zinsfuß
 (zu § 259 Absatz 1)
 
 ### Anlage 42 Normalherstellungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034400123)
 
 (Fundstelle: BGBl. I 2019, 1847 – 1848)
 
@@ -40683,6 +40952,7 @@ Wertzahlen
 für Teileigentum, Geschäftsgrundstücke, gemischt genutzte Grundstücke
 
 ### Anlage 43 und sonstige bebaute Grundstücke nach § 249 Absatz 1 Nummer 5 bis 8
+[Direktlink](https://www.gesetze-im-internet.de/bewg/BJNR010350934.html#BJNR010350934BJNE034501123)
 
 (Fundstelle: BGBl. I 2019, 1849)
 

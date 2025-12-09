@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt G 8601-8 v. 22.12.2016 I 3159 (RBEG 2017)
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000100000)
 
 (1) Zur Ermittlung pauschalierter Bedarfe für bedarfsabhängige und
 existenzsichernde bundesgesetzliche Leistungen werden entsprechend §
@@ -37,6 +38,7 @@ Regelbedarfsstufen nach den §§ 5 bis 8 ermittelt.
 
 
 ## § 2 Zugrundeliegende Haushaltstypen
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000200000)
 
 Der Ermittlung der Regelbedarfsstufen nach der Anlage zu § 28 des
 Zwölften Buches Sozialgesetzbuch liegen die Verbrauchsausgaben
@@ -59,6 +61,7 @@ des 14. Lebensjahres sowie vom Beginn des 15. bis zur Vollendung des
 
 
 ## § 3 Auszuschließende Haushalte
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000301126)
 
 (1) Von den Haushalten nach § 2 sind vor der Bestimmung der
 Referenzhaushalte diejenigen Haushalte auszuschließen, in denen
@@ -87,6 +90,7 @@ Absatz 1 Nummer 1 bis 4 Erwerbseinkommen bezogen haben.
 
 
 ## § 4 Bestimmung der Referenzhaushalte; Referenzgruppen
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000400000)
 
 (1) Zur Bestimmung der Referenzhaushalte werden die nach dem
 Ausschluss von Haushalten nach § 3 verbleibenden Haushalte je
@@ -107,6 +111,7 @@ Referenzgruppe.
 
 
 ## § 5 Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000500000)
 
 (1) Von den Verbrauchsausgaben der Referenzgruppe der
 Einpersonenhaushalte nach § 4 Absatz 1 Satz 2 Nummer 1 werden für die
@@ -178,6 +183,7 @@ Einpersonenhaushalte nach Absatz 1 beträgt 434,96 Euro.
 
 
 ## § 6 Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000600000)
 
 (1) Von den Verbrauchsausgaben der Referenzgruppen der
 Familienhaushalte nach § 4 Absatz 1 Satz 2 Nummer 2 werden bei Kindern
@@ -390,6 +396,7 @@ Familienhaushalt Kindern und Jugendlichen zugerechnet werden, beträgt
 
 
 ## § 7 Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000700000)
 
 (1) Die Summen der für das Jahr 2018 ermittelten
 regelbedarfsrelevanten Verbrauchsausgaben nach § 5 Absatz 2 und § 6
@@ -431,6 +438,7 @@ Verbrauchsausgaben für Kinder und Jugendliche
 
 
 ## § 8 Regelbedarfsstufen
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000800000)
 
 Die Regelbedarfsstufen nach der Anlage zu § 28 des Zwölften Buches
 Sozialgesetzbuch belaufen sich zum 1. Januar 2021
@@ -481,6 +489,7 @@ Sozialgesetzbuch belaufen sich zum 1. Januar 2021
 
 
 ## § 9 Ausstattung mit persönlichem Schulbedarf
+[Direktlink](https://www.gesetze-im-internet.de/rbeg_2021/BJNR285510020.html#BJNR285510020BJNE000900000)
 
 Der Teilbetrag für Ausstattung mit persönlichem Schulbedarf beläuft
 sich

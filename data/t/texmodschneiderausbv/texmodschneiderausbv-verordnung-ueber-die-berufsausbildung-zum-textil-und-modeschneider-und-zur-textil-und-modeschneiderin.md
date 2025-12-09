@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-216 v. 13.2.1997 I 262 (BeklIndAusbV 1997)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch
 Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -37,9 +38,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000300000)
 
 Der Ausbildungsberuf des Textil- und Modeschneiders und der Textil-
 und Modeschneiderin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -47,11 +50,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -171,6 +177,7 @@ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -178,6 +185,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -188,9 +196,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -202,6 +212,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -218,6 +229,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001100000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -232,6 +244,7 @@ statt:
 
 
 ### § 10 Prüfungsbereich Fertigungstechniken
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001200000)
 
 (1) Im Prüfungsbereich Fertigungstechniken soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -309,6 +322,7 @@ situativen Fachgespräche dauern zusammen höchstens 15 Minuten.
 
 
 ### § 11 Prüfungsbereich Planung und Fertigung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001300000)
 
 (1) Im Prüfungsbereich Planung und Fertigung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -347,6 +361,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 12 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -368,6 +383,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 13 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001500000)
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -385,6 +401,7 @@ statt:
 
 
 ### § 14 Prüfungsbereich Produktionsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001600000)
 
 (1) Im Prüfungsbereich Produktionsauftrag soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -480,6 +497,7 @@ das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 ### § 15 Prüfungsbereich Planung, Fertigung und Konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001700000)
 
 (1) Im Prüfungsbereich Planung, Fertigung und Konstruktion soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -514,6 +532,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -527,6 +546,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -617,6 +637,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### § 18 Abschluss als Textil- und Modenäher oder Textil- und Modenäherin
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE002000000)
 
 Hat der Prüfling die Abschlussprüfung nicht bestanden, erfüllen jedoch
 die Ergebnisse der Prüfungsbereiche „Fertigungstechniken“, „Planung
@@ -628,9 +649,11 @@ Modenäher und Textil- und Modenäherin erreicht.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNG000300000)
 
 
 ### § 19 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE002100000)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Textil- und
 Modenäher und zur Textil- und Modenäherin kann im Umfang von zwei
@@ -652,9 +675,11 @@ dieser Verordnung angerechnet werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNG000400000)
 
 
 ### § 20 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE002200000)
 
 (1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung in den Berufsbildern des staatlich anerkannten
@@ -675,6 +700,7 @@ Vertragsparteien dies vereinbaren.
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE002300000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung in der Bekleidungsindustrie
@@ -685,6 +711,7 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin
+[Direktlink](https://www.gesetze-im-internet.de/texmodschneiderausbv/BJNR102100015.html#BJNR102100015BJNE002400000)
 
 (Fundstelle: BGBl. I 2015, 1026 - 1033)
 

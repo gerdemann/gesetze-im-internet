@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000100312)
 
 Auf Grund des § 16 Abs. 1 Nr. 1 des Eisenbahnkreuzungsgesetzes vom 14.
 August 1963 (Bundesgesetzbl. I S. 681) wird mit Zustimmung des
@@ -28,6 +29,7 @@ Bundesrates verordnet:
 
 
 ## § 1 Umfang der Kostenmasse
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000201360)
 
 (1) Die Kostenmasse bei der Herstellung einer neuen Kreuzung (§ 2 des
 Gesetzes) oder bei Maßnahmen an bestehenden Kreuzungen (§ 3 des
@@ -78,6 +80,7 @@ auf die Höhe dieser Kosten beschränkt.
 
 
 ## § 2 Zusammensetzung der Kostenmasse
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000300312)
 
 Die Kostenmasse setzt sich zusammen aus
 
@@ -94,6 +97,7 @@ Die Kostenmasse setzt sich zusammen aus
 
 
 ## § 3 Grunderwerbskosten
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000401360)
 
 (1) Zu den Grunderwerbskosten gehören
 
@@ -116,6 +120,7 @@ Duldungspflichtigen gehören.
 
 
 ## § 4 Baukosten
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000501360)
 
 (1) Zu den Baukosten gehören insbesondere die Aufwendungen für
 Leistungen nach Anlage 1.
@@ -147,6 +152,7 @@ bestehen, sind diese anzuwenden.
 
 
 ## § 5 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000601360)
 
 (1) Zu den Verwaltungskosten gehören insbesondere die Aufwendungen für
 Leistungen nach Anlage 2.
@@ -157,6 +163,7 @@ aufgewandten Grunderwerbskosten und Baukosten in Rechnung stellen.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000701360)
 
 Für Maßnahmen, über die die Beteiligten vor dem Ablauf des 1. Juli
 2021 eine Vereinbarung getroffen haben, ist diese Verordnung in der
@@ -165,12 +172,14 @@ anzuwenden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000800305)
 
 Der Bundesminister für Verkehr
 
 (zu § 4 Absatz 1)
 
 ## Anlage 1 Bauleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE000900360)
 
 (Fundstelle: BGBl. I 2021, 1182)
 
@@ -332,6 +341,7 @@ Der Bundesminister für Verkehr
 (zu § 5 Absatz 1)
 
 ## Anlage 2 Verwaltungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ekrv_1/BJNR007110964.html#BJNR007110964BJNE001000360)
 
 (Fundstelle: BGBl. I 2021, 1183)
 

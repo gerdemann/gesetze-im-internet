@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000100000)
 
 Auf Grund des § 26k Satz 2 des Bundesanstalt Post-Gesetzes, der durch
 Artikel 3 Nummer 18 des Gesetzes vom 28. Mai 2015 (BGBl. I S. 813)
@@ -25,6 +26,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Verwaltungsaufwand aus der Beihilfebearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000200000)
 
 Den Verwaltungsaufwand aus der Beihilfebearbeitung nach § 26d Absatz 3
 des Bundesanstalt Post-Gesetzes trägt die Bundesanstalt für Post und
@@ -43,6 +45,7 @@ Verwaltungsaufwand der Pflegeversicherung anzusetzen.
 
 
 ## § 2 Verwaltungsaufwand aus der Grundversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000300000)
 
 (1) Den Verwaltungsaufwand aus der Grundversicherung trägt die
 Bundesanstalt bis zur Höhe des Aufwands, der demjenigen vergleichbarer
@@ -84,6 +87,7 @@ die Mitglieder nach Satz 1 um.
 
 
 ## § 3 Weiterer Verwaltungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000400000)
 
 (1) Den Verwaltungsaufwand für die Zusatz- und Ergänzungsversicherung
 trägt die Postbeamtenkrankenkasse und legt ihn nach Maßgabe ihrer
@@ -99,6 +103,7 @@ Postbeamtenkrankenkasse.
 
 
 ## § 4 Reduzierung des Personalbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000500000)
 
 Reduziert sich bei der Postbeamtenkrankenkasse der Personalbedarf,
 gilt die Finanzierungsregelung dieser Verordnung für den nicht
@@ -108,6 +113,7 @@ oder Arbeitsvertrag entsprechende anderweitige Verwendung für das
 
 
 ## § 5 Kostenabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000600000)
 
 Die Bundesanstalt erstellt alsbald nach Ende des Geschäftsjahres
 gegenüber der Postbeamtenkrankenkasse eine Abrechnung über die Kosten
@@ -116,6 +122,7 @@ Postbeamtenkrankenkasse getragen werden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/BJNR003700016.html#BJNR003700016BJNE000700000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2016 in Kraft.
 

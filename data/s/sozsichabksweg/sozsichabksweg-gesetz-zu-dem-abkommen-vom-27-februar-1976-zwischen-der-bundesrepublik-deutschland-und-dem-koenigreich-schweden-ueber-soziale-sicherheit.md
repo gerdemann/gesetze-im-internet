@@ -21,22 +21,26 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000301308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000401308)
 
 (1) In den Fällen, in denen nach Artikel 20 Abs. 1 und 2 des Abkommens
 in der Bundesrepublik Deutschland ein Träger der Krankenversicherung
@@ -52,12 +56,14 @@ als Verbindungsstelle für die Unfallversicherung durch.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000500314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabksweg/BJNR206640977.html#BJNR206640977BJNE000600314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

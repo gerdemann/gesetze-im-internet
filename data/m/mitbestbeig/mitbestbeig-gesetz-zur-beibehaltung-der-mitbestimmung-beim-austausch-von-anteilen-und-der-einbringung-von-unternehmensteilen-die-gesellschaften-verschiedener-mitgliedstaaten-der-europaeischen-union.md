@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/mitbestbeig/BJNR222800994.html#BJNR222800994BJNE000102301)
 
 Führt eine in § 21 Abs. 1 des Umwandlungssteuergesetzes bezeichnete
 Einbringung von Anteilen oder eine in § 20 Abs. 1 des genannten
@@ -39,6 +40,7 @@ ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/mitbestbeig/BJNR222800994.html#BJNR222800994BJNE000200320)
 
 (1) § 1 gilt nicht, wenn das eingebrachte Betriebsvermögen oder die an
 seine Stelle tretenden Anteile steuerrechtlich mit dem tatsächlichen
@@ -53,6 +55,7 @@ der Regel ein Viertel dieser Mindestzahl sinkt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/mitbestbeig/BJNR222800994.html#BJNR222800994BJNE000300320)
 
 Soweit nach § 1 die Konzernzugehörigkeit eines Unternehmens oder die
 Unternehmenszugehörigkeit eines Betriebs oder Teilbetriebs fingiert
@@ -62,6 +65,7 @@ Verhältnisse maßgebend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/mitbestbeig/BJNR222800994.html#BJNR222800994BJNE000401301)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. § 1 in der
 Fassung des Artikels 11 des Gesetzes vom 7. Dezember 2006 (BGBl. I S.

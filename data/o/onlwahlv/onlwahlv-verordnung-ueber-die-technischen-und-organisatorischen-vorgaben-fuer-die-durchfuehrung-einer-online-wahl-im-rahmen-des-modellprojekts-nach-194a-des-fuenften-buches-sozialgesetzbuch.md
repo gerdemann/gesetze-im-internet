@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000100000)
 
 Auf Grund des § 194c des Fünften Buches Sozialgesetzbuch, der durch
 Artikel 5 Nummer 8 des Gesetzes vom 12. Juni 2020 (BGBl. I S. 1248)
@@ -27,9 +28,11 @@ Informationstechnik:
 
 
 ## Teil 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000200000)
 
 Diese Verordnung regelt die technischen und organisatorischen Vorgaben
 für die Durchführung der Online-Wahl im Rahmen des Modellprojekts nach
@@ -37,6 +40,7 @@ für die Durchführung der Online-Wahl im Rahmen des Modellprojekts nach
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000300000)
 
 (1) Das Online-Wahlsystem umfasst die erforderlichen
 informationstechnischen Komponenten zur Durchführung der Online-Wahl.
@@ -68,6 +72,7 @@ Wahlentscheidung.
 
 
 ### § 3 Allgemeine technische und organisatorische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000400000)
 
 (1) Die nach § 194a Absatz 2 Satz 2 des Fünften Buches
 Sozialgesetzbuch gebildete Arbeitsgemeinschaft bereitet die
@@ -108,6 +113,7 @@ der Online-Dienstleister.
 
 
 ### § 4 Technische Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000500000)
 
 Die sicherheitstechnischen Anforderungen an die Informationstechnik
 des Online-Wahlverfahrens sind nach dem Stand der Technik in der vom
@@ -120,6 +126,7 @@ Internetseite im Bundesanzeiger bekannt gemacht.
 
 
 ### § 5 Informationssicherheitskonzept und Notfallkonzept
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000600000)
 
 (1) Die teilnehmenden Krankenkassen haben gemeinsam und einheitlich
 das Sicherheitskonzept für die Online-Wahlen unter Anwendung des BSI
@@ -140,12 +147,15 @@ spezifischen Vorgaben und Anforderungen anzupassen.
 
 
 ## Teil 2 - Wahl der Mitglieder und der stellvertretenden Mitglieder der Verwaltungsräte der Krankenkassen durch Online-Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000200000)
 
 
 ### Abschnitt 1 - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000300000)
 
 
 #### § 6 Wählerverzeichnis und Online-Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000700000)
 
 (1) Das von der teilnehmenden Krankenkasse erstellte Wählerverzeichnis
 muss in das Online-Wahlsystem übertragen werden. Das Wählerverzeichnis
@@ -170,6 +180,7 @@ ihrer abgegebenen Online-Stimmen erhalten.
 
 
 #### § 7 Wahlzeitraum und Verfügbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000800000)
 
 (1) Der Wahlzeitraum für die Stimmabgabe per Online-Wahl beginnt am
 51\. Tag vor dem Wahltag um 00:00:00 Uhr und endet am Wahltag um
@@ -195,6 +206,7 @@ bereits abgegebene Stimmen nicht verloren gehen.
 
 
 #### § 8 Überprüfung des Online-Wahlsystems
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE000900000)
 
 (1) Die teilnehmenden Krankenkassen erstellen gemeinsam einen
 Testfallkatalog. Unter Berücksichtigung dieses Testfallkatalogs
@@ -230,6 +242,7 @@ Sicherheitstests sind vollständig zu protokollieren.
 
 
 #### § 9 Prüfung der Einrichtung und Freigabe des Online-Wahlsystems durch den Wahlausschuss
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001000000)
 
 (1) Der Wahlausschuss einer teilnehmenden Krankenkasse hat vor der
 Freigabe des Online-Wahlsystems die Einrichtung des Online-Wahlsystems
@@ -293,6 +306,7 @@ sind in der Niederschrift des Wahlausschusses zu protokollieren.
 
 
 #### § 10 Nutzbarkeit und Barrierefreiheit des Online-Wahlsystems
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001100000)
 
 (1) Das Online-Wahlsystem ist benutzerfreundlich und barrierefrei zu
 gestalten, so dass die Anmeldung und die Stimmabgabe per Online-Wahl
@@ -315,9 +329,11 @@ nach Absatz 3 liegt bei den Wahlberechtigten.
 
 
 ### Abschnitt 2 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000400000)
 
 
 #### § 11 Stimmabgabe per Online-Wahl
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001200000)
 
 (1) Nur Wahlberechtigte, die im Wählerverzeichnis eingetragen sind,
 dürfen ihre Stimme per Online-Wahl abgeben. Wahlberechtigte, deren
@@ -368,6 +384,7 @@ durch Unbefugte und gegen Veränderungen geschützt sein.
 
 
 #### § 12 Entgegennahme der Online-Stimme
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001300000)
 
 (1) Die elektronische Wahlurne und alle Verzeichnisse, auf denen Daten
 der Wahlberechtigten gespeichert werden, sind technisch voneinander zu
@@ -393,6 +410,7 @@ ausgewertet werden können.
 
 
 #### § 13 Abgleich der Briefwahl- und der Online-Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001400000)
 
 (1) Der Online-Dienstleister übermittelt die elektronische Liste mit
 den Wahlkennzeichen, zu denen eine Online-Stimme abgegeben wurde, an
@@ -411,9 +429,11 @@ abzugleichen, zu denen eine Stimme per Online-Wahl abgegeben wurde.
 
 
 ### Abschnitt 3 - Ermittlung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000500000)
 
 
 #### § 14 Bestellung einer Online-Wahlleitung
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001500000)
 
 Der Wahlausschuss bestellt eine Online-Wahlleitung oder nimmt deren
 Aufgaben selbst wahr. Die Sitzungen der Online-Wahlleitung sind
@@ -421,6 +441,7 @@ Aufgaben selbst wahr. Die Sitzungen der Online-Wahlleitung sind
 
 
 #### § 15 Prüfung der Ordnungsmäßigkeit der Online-Wahl
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001600000)
 
 (1) Die Online-Wahlleitung hat die Ordnungsmäßigkeit der Online-Wahl
 zu prüfen. Die Prüfung darf erst erfolgen, wenn alle Wahlberechtigten
@@ -456,6 +477,7 @@ Wahlniederschrift der Online-Wahlleitung aufzunehmen.
 
 
 #### § 16 Ermittlung des Online-Wahlergebnisses durch die Online-Wahlleitung
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001700000)
 
 (1) Die Ermittlung des Wahlergebnisses der Online-Wahl darf erst nach
 Abschluss der Prüfung nach § 15 und nur durch die Online-Wahlleitung
@@ -506,6 +528,7 @@ die Wahlniederschrift.
 
 
 #### § 17 Nachvollziehbarkeit des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001800000)
 
 (1) Der Ablauf der Online-Wahl muss durch das Online-Wahlsystem in
 nachvollziehbarer und vor Veränderungen geschützter Form protokolliert
@@ -538,9 +561,11 @@ Rückschluss auf die Identität der Wahlberechtigten zulassen.
 
 
 ### Abschnitt 4 - Nachbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNG000600000)
 
 
 #### § 18 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE001900000)
 
 (1) Der Online-Dienstleister kann folgende Daten nach den Vorgaben des
 § 91 Satz 2 der Wahlordnung für die Sozialversicherung vernichten:
@@ -578,6 +603,7 @@ Dienstleister sicher zu löschen.
 
 
 #### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/onlwahlv/BJNR203400020.html#BJNR203400020BJNE002000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

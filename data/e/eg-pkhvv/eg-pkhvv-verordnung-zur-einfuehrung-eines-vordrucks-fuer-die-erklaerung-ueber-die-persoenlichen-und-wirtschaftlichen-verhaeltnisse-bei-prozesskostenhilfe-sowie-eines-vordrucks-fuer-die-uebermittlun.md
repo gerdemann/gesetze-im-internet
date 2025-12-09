@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000100000)
 
 Auf Grund des § 1077 Abs. 2 der Zivilprozessordnung, der durch Artikel
 1 Nr. 4 des Gesetzes vom 15. Dezember 2004 (BGBl. I S. 3392) eingefügt
@@ -28,6 +29,7 @@ worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000200000)
 
 Für die Erklärung der Partei sowie für die Übermittlung derartiger
 Anträge nach Artikel 13 der Richtlinie 2003/8/EG des Rates vom 27.
@@ -39,17 +41,20 @@ die in der Anlage bestimmten Vordrucke eingeführt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage Formular für die Übermittlung eines Antrags auf Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000500000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3539 - 3541
 ----------------------------------------------------------------------
@@ -220,6 +225,7 @@ Unterschrift:
 (zu § 1)
 
 ## Anlage Formular für Anträge auf Prozesskostenhilfe in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eg-pkhvv/BJNR353800004.html#BJNR353800004BJNE000600000)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3542 - 3547
 ----------------------------------------------------------------------

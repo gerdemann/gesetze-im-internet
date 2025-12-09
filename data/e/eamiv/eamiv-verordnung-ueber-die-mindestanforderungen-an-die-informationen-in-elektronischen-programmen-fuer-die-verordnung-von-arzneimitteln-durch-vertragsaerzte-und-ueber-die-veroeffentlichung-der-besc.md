@@ -23,6 +23,7 @@ Geändert durch
 Stand: § 2 und § 3 treten gem. § 7 Abs. 2 dieser V am 1.7.2020 in Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000100000)
 
 Auf Grund des § 35a Absatz 3a Satz 2 und des § 73 Absatz 9 Satz 2 des
 Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –,
@@ -34,6 +35,7 @@ worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000201126)
 
 (1) Ein elektronisches Programm im Sinne dieser Verordnung ist ein
 elektronisches Programm, das von der Kassenärztlichen
@@ -65,6 +67,7 @@ elektronischen Programm geeignet ist.
 
 
 ## § 2 Mindestanforderungen an die Informationen in elektronischen Programmen
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000302126)
 
 (1) Die Informationen, die ein elektronisches Programm mindestens
 enthalten muss, umfassen folgende Angaben aus den Beschlüssen des
@@ -161,6 +164,7 @@ Falle etwaiger Änderungen zu aktualisieren.
 
 
 ## § 3 Mindestanforderungen an die Darstellung der Informationen in elektronischen Programmen
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000402126)
 
 (1) Bei der Anzeige des Arzneimittels oder des Wirkstoffs in
 Suchergebnissen und Vergleichslisten des elektronischen Programms ist
@@ -216,6 +220,7 @@ erfolgt
 
 
 ## § 4 Veröffentlichung der Beschlüsse des Gemeinsamen Bundesausschusses
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000500000)
 
 (1)
 Der Gemeinsame Bundesausschuss stellt die maschinenlesbare Fassung
@@ -235,6 +240,7 @@ aus sich heraus verständlich sind. Die Länge der Zusammenfassung soll
 
 
 ## § 5 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000600000)
 
 Bei der Bereitstellung der Daten in der maschinenlesbaren Fassung sind
 dem jeweiligen Stand der Technik entsprechende Maßnahmen zur
@@ -242,6 +248,7 @@ Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
 
 
 ## § 6 Datenformate der maschinenlesbaren Form
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000701126)
 
 (1) Die Anforderungen an eine maschinenlesbare Fassung eines
 Beschlusses des Gemeinsamen Bundesausschusses erfüllen Formate, die
@@ -259,6 +266,7 @@ Fassung und zur Korrektur fehlerhafter Angaben treffen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eamiv/BJNR111000019.html#BJNR111000019BJNE000800000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.

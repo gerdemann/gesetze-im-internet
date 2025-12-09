@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000100319)
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom
@@ -30,6 +31,7 @@ Bundesminister für Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000201308)
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
 Prüfungsteilnehmer die erforderlichen Kenntnisse und Fertigkeiten hat,
@@ -42,6 +44,7 @@ Abschluss Fischwirtschaftsmeister/Fischwirtschaftsmeisterin.
 
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE001400308)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -73,6 +76,7 @@ rechtfertigen.
 
 
 ## § 2 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000302377)
 
 (1) Die Meisterprüfung umfaßt einen praktischen Teil, einen
 fachtheoretischen Teil, einen wirtschaftlichen und rechtlichen Teil
@@ -105,6 +109,7 @@ Prüfung befreit werden.
 
 
 ## § 3 Prüfungsanforderungen im praktischen Teil
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000400319)
 
 (1) In der praktischen Prüfung ist ein Arbeitseinsatz durchzuführen.
 
@@ -127,6 +132,7 @@ Planung der Arbeiten schriftlich niederzulegen.
 
 
 ## § 4 Prüfungsanforderungen im fachtheoretischen Teil
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000500319)
 
 (1) Die Prüfung im fachtheoretischen Teil erstreckt sich auf folgende
 Prüfungsfächer:
@@ -215,6 +221,7 @@ als 45 Minuten dauern.
 
 
 ## § 5 Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000601377)
 
 (1) Die Prüfung im wirtschaftlichen und rechtlichen Teil erstreckt
 sich auf folgende Prüfungsfächer:
@@ -330,6 +337,7 @@ als 45 Minuten dauern.
 
 
 ## § 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000702377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -580,6 +588,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000805377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -593,6 +602,7 @@ Abs. 6 bleibt unberührt.
 
 
 ## § 8 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE000903377)
 
 (1) Die vier Prüfungsteile sind gesondert zu bewerten. Für den
 fachtheoretischen sowie den wirtschaftlichen und rechtlichen Teil ist
@@ -630,6 +640,7 @@ und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE001002377)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -644,6 +655,7 @@ Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 10 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE001102377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.
@@ -656,11 +668,13 @@ geltenden Vorschriften ablegen.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE001200319)
 
 Diese Verordnung tritt am 1. März 1979 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fischwimeistprv/BJNR020730978.html#BJNR020730978BJNE001300319)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

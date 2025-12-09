@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE002000000)
 
 Auf Grund des § 12 und des § 16 Abs. 1 Nr. 3 des Gesetzes über
 Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001
@@ -29,6 +30,7 @@ die Bundesregierung:
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000100000)
 
 Diese Verordnung regelt das Nachweisverfahren zur Gewährleistung des
 Schutzes von Personen in den durch den Betrieb von ortsfesten
@@ -36,6 +38,7 @@ Funkanlagen entstehenden elektromagnetischen Feldern.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000201305)
 
 Im Sinne dieser Verordnung
 
@@ -104,6 +107,7 @@ Im Sinne dieser Verordnung
 
 
 ## § 3 Grenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000301305)
 
 Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten
 Funkanlagen sind für den Frequenzbereich 9 Kilohertz bis 300 Gigahertz
@@ -129,6 +133,7 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 
 ## § 4 Standortbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000402305)
 
 (1) Eine ortsfeste Funkanlage mit einer äquivalenten isotropen
 Strahlungsleistung (EIRP) von 10 Watt oder mehr darf nur betrieben
@@ -199,6 +204,7 @@ dadurch entstehenden Aufwand gebührenpflichtig.
 
 
 ## § 5 Erteilen einer Standortbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000502305)
 
 (1) Zur Erteilung der Standortbescheinigung ermittelt die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -268,6 +274,7 @@ Sicherheitsabstand nach Absatz 1 ausweist.
 
 
 ## § 6 Standortmitbenutzung
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000602305)
 
 (1) Sind an dem vorgesehenen Standort einer ortsfesten Funkanlage
 bereits weitere ortsfeste Funkanlagen vorhanden und ergibt die
@@ -315,6 +322,7 @@ und Eisenbahnen.
 
 
 ## § 7 Widerruf und Erlöschen einer Standortbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000700000)
 
 (1) Eine Standortbescheinigung kann widerrufen werden, wenn die
 Grenzwerte des § 3 geändert wurden.
@@ -329,6 +337,7 @@ Standortbescheinigung nach § 5 Abs. 2 oder 3.
 
 
 ## § 8 Ortsfeste Amateurfunkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000802305)
 
 (1) Eine ortsfeste Amateurfunkanlage bedarf einer
 Standortbescheinigung nach § 5, wenn sich am vorgesehenen Standort der
@@ -376,6 +385,7 @@ Nummer 2 abweichen, wenn er
 
 
 ## § 9 Anzeige ortsfester Amateurfunkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE000902305)
 
 (1) Der Betreiber einer ortsfesten Amateurfunkanlage mit einer
 äquivalenten isotropen Strahlungsleistung (EIRP) von 10 Watt oder mehr
@@ -440,6 +450,7 @@ spätestens aber zwei Wochen nach Eingang dieses Antrags, zu löschen.
 
 
 ## § 10 Weiterer Schutz von Trägern aktiver Körperhilfen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001002305)
 
 (1) Wer eine ortsfeste Funkanlage oder eine Amateurfunkanlage in einem
 Frequenzbereich von 9 Kilohertz bis 3 Gigahertz betreibt, hat in
@@ -463,6 +474,7 @@ entsprechend.
 
 
 ## § 11 Inbetriebnahme und Außerbetriebnahme einer Funkanlage
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001102305)
 
 (1) Die Inbetriebnahme und wesentliche Änderung einer ortsfesten
 Funkanlage, die den Regelungen des § 4 unterliegt, ist der
@@ -484,6 +496,7 @@ oder weniger aufweisen.
 
 
 ## § 12 Änderung der Funkanlage
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001201308)
 
 (1) Der Betreiber einer ortsfesten Amateurfunkanlage, die den
 Anforderungen des § 8 Abs. 2 oder 3 unterliegt, hat eine erneute
@@ -498,6 +511,7 @@ hinsichtlich der gemeldeten Daten unverzüglich anzuzeigen.
 
 
 ## § 13 Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001302305)
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen kann vor Ort die Einhaltung der in den
@@ -525,6 +539,7 @@ entsprechend.
 
 
 ## § 14 Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001402305)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen trifft die erforderlichen Anordnungen, um die
@@ -536,10 +551,12 @@ treffen.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001505123)
 
 
 
 ## § 15a Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE002201123)
 
 Ordnungswidrig im Sinne des § 37 Absatz 1 Nummer 14 des Gesetzes über
 die Bereitstellung von Funkanlagen auf dem Markt handelt, wer
@@ -549,6 +566,7 @@ Absatz 3 Satz 5 eine ortsfeste Funkanlage betreibt.
 
 
 ## § 16 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001600000)
 
 § 4 gilt bis zum 31. Dezember 2003 nicht für ortsfeste Funkanlagen,
 die vor dem 20. August 1997 in Betrieb genommen wurden. Wird eine
@@ -558,15 +576,18 @@ findet § 4 Anwendung.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bemfv/BJNR336600002.html#BJNR336600002BJNE001903123)
 
 

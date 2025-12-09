@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften und Grundsätze über den freihändigen Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000100311)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE001700311)
 
 (1) Der Bund kann nach Maßgabe der Vorschriften dieses Gesetzes
 Grundstücke beschaffen
@@ -80,6 +82,7 @@ Entscheidung.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE001800311)
 
 Die für Zwecke des § 1 Abs. 1 benötigten Grundstücke sollen nach
 Möglichkeit freihändig erworben werden. Kann der beabsichtigte Zweck
@@ -90,6 +93,7 @@ Preisvorschriften bemessen werden.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE001900311)
 
 Bei den Verhandlungen über den freihändigen Erwerb ist jeder
 Eigentümer darauf hinzuweisen, daß
@@ -116,6 +120,7 @@ c)  ihm eine sonstige, seine Existenz sichernde Gegenleistung zu gewähren
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002000311)
 
 (1) Sind durch die Verwendung des beschafften Grundstücks zur
 Sicherung gegen Gefahren und Nachteile für die Nachbargrundstücke
@@ -148,6 +153,7 @@ Vorkehrungen und die Unterhaltung der Einrichtungen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002101320)
 
 (1) Stehen Verkehrs-, Telekommunikations- oder
 Versorgungseinrichtungen und -anlagen sowie Einrichtungen und Anlagen
@@ -166,6 +172,7 @@ entstehen, beteiligen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002200311)
 
 (1) Werden infolge von Landbeschaffungen Änderungen oder Neuordnungen
 von Gemeinde-, Schul- oder Kirchenverhältnissen oder von Anlagen im
@@ -180,6 +187,7 @@ Erstellung des angemessenen Wohnraums zu gewährleisten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002300311)
 
 Kommt eine Abfindung in Land in Betracht, können die in den Ländern
 tätigen gemeinnützigen Siedlungsunternehmen im Sinne des
@@ -188,31 +196,37 @@ Durchführung der Umsiedlung beauftragt werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002400311)
 
 Die nach §§ 4 bis 6 zuständige Behörde wird im Benehmen mit dem
 zuständigen Bundesminister von den Landesregierungen bestimmt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002500311)
 
 Werden Grundstücke beschafft, um dem Eigentümer Ersatzland zu gewähren
 (§ 3), so gilt § 56 entsprechend.
 
 
 ## Zweiter Teil - Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000200311)
 
 
 
 ### Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000300311)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002600311)
 
 Für die in § 1 bezeichneten Zwecke ist die Enteignung zulässig.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002700311)
 
 (1) Den Antrag auf Einleitung des Enteignungsverfahrens stellt namens
 des Bundes der zuständige Bundesminister oder die von ihm bestimmte
@@ -241,10 +255,12 @@ c)  die Verhandlung mit dem Betroffenen über den freihändigen Erwerb des
 
 
 ### Zweiter Abschnitt - Gegenstand der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000400311)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002800311)
 
 (1) Durch Enteignung
 
@@ -272,6 +288,7 @@ Begründung eines Nutzungsverhältnisses erreicht werden kann.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE002900311)
 
 (1) Wenn ein Recht an einem Grundstück begründet werden soll und die
 Begründung dieses Rechts für den Eigentümer unbillig ist, so ist er
@@ -286,6 +303,7 @@ die Ausdehnung der Enteignung auch auf den Restbesitz zu verlangen.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003000311)
 
 Zubehör, das nicht dem Grundstückseigentümer gehört, kann enteignet
 werden, wenn ein Grundstück zur Entschädigung in Land oder zur
@@ -294,6 +312,7 @@ entbehren kann. § 12 Abs. 1 Satz 3 gilt entsprechend.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003100311)
 
 Zur Entschädigung in Land (§ 1 Abs. 1 Nr. 3) oder zur Unterbringung
 von Personen, Betrieben und öffentlichen Einrichtungen (§ 1 Abs. 1 Nr.
@@ -306,6 +325,7 @@ unterliegen oder ihrer Verwaltung unterstehen.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003203310)
 
 Zur Entschädigung in Land (§ 1 Abs. 1 Nr. 3) oder zur Unterbringung
 von Personen, Betrieben und öffentlichen Einrichtungen (§ 1 Abs. 1 Nr.
@@ -360,14 +380,17 @@ von Personen, Betrieben und öffentlichen Einrichtungen (§ 1 Abs. 1 Nr.
 
 
 ### Dritter Abschnitt - Enteignungsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000500311)
 
 
 
 #### 1. - Entschädigung für die Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000600311)
 
 
 
 ##### § 17
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003300311)
 
 (1) Die Entschädigung wird gewährt für
 
@@ -398,6 +421,7 @@ verzinsen.
 
 
 ##### § 18
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003400311)
 
 (1) Die Entschädigung für den durch die Enteignung eintretenden
 Rechtsverlust bemißt sich nach dem gemeinen Wert des enteigneten
@@ -421,6 +445,7 @@ Anwendung.
 
 
 ##### § 19
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003500311)
 
 Wegen anderer durch die Enteignung eintretender Vermögensnachteile
 sind die Entschädigungen unter gerechter Abwägung der Interessen der
@@ -445,6 +470,7 @@ Allgemeinheit und der Beteiligten festzusetzen, insbesondere für
 
 
 ##### § 20
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003600311)
 
 (1) Ist das Eigentum an einem Grundstück Gegenstand der Enteignung, so
 entscheidet die Enteignungsbehörde darüber, ob an dem Grundstück
@@ -477,6 +503,7 @@ werden.
 
 
 ##### § 21
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003700311)
 
 Die Entschädigung wird in Geld festgesetzt, soweit nicht nach den §§
 22 und 23 eine Entschädigung in Land oder nach § 25 als
@@ -484,6 +511,7 @@ Naturalwertrente gewährt wird.
 
 
 ##### § 22
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003800311)
 
 (1) Wird ein Grundstück enteignet, so kann der Eigentümer verlangen,
 daß die Entschädigung ganz oder teilweise in Land festgesetzt wird,
@@ -511,6 +539,7 @@ Land nicht erreicht werden würde.
 
 
 ##### § 23
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE003901305)
 
 (1) Wird die Entschädigung in Land festgesetzt, so sollen die Inhaber
 der dinglichen Rechte ganz oder teilweise durch Begründung gleicher
@@ -533,6 +562,7 @@ sofern die Rechtsinhaber im Besitz des Grundstücks sind.
 
 
 ##### § 24
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004000311)
 
 Hat das Ersatzland einen geringeren Wert als das zu enteignende
 Grundstück, so ist zusätzlich eine dem Wertunterschied entsprechende
@@ -545,6 +575,7 @@ Anwendung der §§ 17 bis 19 zu bemessen.
 
 
 ##### § 25
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004102310)
 
 An Stelle des nach § 22 zu gewährenden Ersatzlands kann der
 Entschädigungsberechtigte, soweit dadurch Rechte Dritter nicht
@@ -559,10 +590,12 @@ Kapitalsumme zu leisten wäre.
 
 
 #### 2. - Entschädigung und Kosten für Folgen der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000700311)
 
 
 
 ##### § 26
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004200311)
 
 Für die Entschädigung und die Kosten für Folgen der Enteignung gelten
 die §§ 4 bis 6 sinngemäß. An Stelle der nach § 8 zu bestimmenden
@@ -571,6 +604,7 @@ Landesregierung nichts anderes bestimmt.
 
 
 ##### § 27
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004300311)
 
 Wird die Entschädigung in Land gewährt, so kann der Bund verpflichtet
 werden, die Grundstücke, die als Ersatzland vorgesehen sind, in
@@ -580,14 +614,17 @@ Enteignungsbeschlusses (§ 47 Abs. 3 Nr. 4) ausgesprochen werden.
 
 
 ### Vierter Abschnitt - Enteignungs- und Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000800311)
 
 
 
 #### 1. - Enteignungsbehörde und Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG000900311)
 
 
 
 ##### § 28
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004400311)
 
 (1) Die Enteignungsbehörde wird von der Landesregierung bestimmt.
 
@@ -603,6 +640,7 @@ Durchführung einzelner wichtiger Landbeschaffungen sicherzustellen.
 
 
 ##### § 29
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004500311)
 
 (1) Am Enteignungsverfahren beteiligt sind
 
@@ -644,6 +682,7 @@ diese Hypothek, Grundschuld oder Rentenschuld auf einen anderen
 
 
 ##### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004601377)
 
 (1) Auf Ersuchen der Enteignungsbehörde hat das Betreuungsgericht, für
 einen minderjährigen Beteiligten das Familiengericht, wenn ein
@@ -671,6 +710,7 @@ entsprechend.
 
 
 ##### § 30
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004701310)
 
 (1) Die Beauftragten der für die Planung, den Landerwerb und die
 Enteignung zuständigen Behörden sind befugt, Grundstücke, mit Ausnahme
@@ -695,10 +735,12 @@ sind sinngemäß anzuwenden.
 
 
 #### 2. - Planprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001000311)
 
 
 
 ##### § 31
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004801310)
 
 (1) Die Enteignungsbehörde stellt einen Plan auf, aus dem die
 Grundstücke ersichtlich sind, die von der Enteignung betroffen werden.
@@ -737,6 +779,7 @@ werden.
 
 
 ##### § 32
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE004900311)
 
 (1) Soweit der Kreis der Beteiligten bekannt ist und offensichtlich
 eine Anordnung von Vorkehrungen im Sinne des § 26 in Verbindung mit §
@@ -754,6 +797,7 @@ können.
 
 
 ##### § 33
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005000311)
 
 (1) Nach Ablauf der Frist (§ 31 Abs. 2, § 32 Abs. 2) ist der Plan in
 einem nötigenfalls an Ort und Stelle abzuhaltenden Termin
@@ -794,6 +838,7 @@ im Termin wahrzunehmen.
 
 
 ##### § 34
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005100311)
 
 (1) Einwendungen, die nicht während der Fristen des § 31 Abs. 4 und
 des § 32 Abs. 2 vorgebracht worden sind, sind gegenüber der
@@ -807,6 +852,7 @@ Verwaltungsgerichten.
 
 
 ##### § 35
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005200311)
 
 (1) Im Planprüfungstermin soll auch die Art der Entschädigung sowie
 darüber verhandelt werden, welche Rechte aufrechterhalten bleiben und
@@ -818,6 +864,7 @@ kann.
 
 
 ##### § 36
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005300311)
 
 (1) Ist ein dingliches oder persönliches Recht, das zum Besitz oder
 zur Nutzung eines Grundstücks berechtigt, allein Gegenstand der
@@ -830,6 +877,7 @@ sinngemäß.
 
 
 ##### § 37
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005400311)
 
 (1) Einigen sich die Beteiligten über den Übergang oder die Belastung
 des Eigentums an dem zu enteignenden Grundstück oder anderer in § 12
@@ -851,10 +899,12 @@ fortgesetzt.
 
 
 #### 3. - Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001100311)
 
 
 
 ##### § 38
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005501320)
 
 (1) Ist die sofortige Ausführung eines Vorhabens und die
 Besitzeinweisung für die Durchführung der beabsichtigten Maßnahmen
@@ -886,6 +936,7 @@ leisten (Besitzeinweisungsentschädigung).
 
 
 ##### § 39
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005600311)
 
 (1) Der Besitzeinweisungsbeschluß muß enthalten
 
@@ -934,6 +985,7 @@ Rechtsmittelbelehrung und einer Belehrung über das Antragsrecht nach §
 
 
 ##### § 40
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005700311)
 
 (1) Durch die Besitzeinweisung wird zu dem im
 Besitzeinweisungsbeschluß bezeichneten Zeitpunkt dem Eigentümer und,
@@ -951,6 +1003,7 @@ bezeichneten Zeitpunkt fällig.
 
 
 ##### § 41
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005800311)
 
 Auf Antrag des Eigentümers oder Besitzers ist der Zustand des
 Grundstücks, soweit er für die Festsetzung der Besitzeinweisungs- oder
@@ -960,6 +1013,7 @@ Grundstücks kann auch von Amts wegen ermittelt werden.
 
 
 ##### § 42
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE005900311)
 
 (1) Der Besitzeinweisungsbeschluß ist aufzuheben, wenn nicht binnen
 eines Jahres, nachdem die Besitzeinweisung wirksam geworden ist (§ 39
@@ -981,15 +1035,18 @@ oder auf Verlangen den früheren Zustand wiederherzustellen. § 30 Abs.
 
 
 #### 4. - Festsetzung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001200311)
 
 
 
 ##### § 43
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006000311)
 
 Zur Zahlung der Entschädigung ist der Bund verpflichtet.
 
 
 ##### § 44
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006100311)
 
 (1) Kommt eine Einigung über die Entschädigung nicht zustande, so
 findet zur Festsetzung einer Geldentschädigung, einer Naturalwertrente
@@ -1009,6 +1066,7 @@ Vorschrift ist in der Ladung hinzuweisen.
 
 
 ##### § 45
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006200311)
 
 (1) In der Niederschrift über die Verhandlung ist festzustellen,
 
@@ -1035,6 +1093,7 @@ von demjenigen zu unterschreiben, der eine solche Erklärung abgibt.
 
 
 ##### § 46
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006300311)
 
 Wird der Plan vor Erlaß des Enteignungsbeschlusses geändert, so ist,
 wenn eine erneute Erörterung der Entschädigung erforderlich ist, ein
@@ -1044,10 +1103,12 @@ gilt sinngemäß.
 
 
 #### 5. - Enteignungsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001300311)
 
 
 
 ##### § 47
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006400311)
 
 (1) Auf Grund der Ergebnisse der Planprüfung und der Verhandlung über
 die Entschädigung erläßt die Enteignungsbehörde den
@@ -1132,6 +1193,7 @@ Ausgleichszahlung (Teil B).
 
 
 ##### § 48
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006500311)
 
 (1) Der Beschluß ist den Beteiligten zuzustellen. Die Zustellung eines
 den jeweiligen Beteiligten betreffenden Auszugs genügt. Der Teil des
@@ -1145,6 +1207,7 @@ Vollstreckungsgericht von dem Beschluß Kenntnis.
 
 
 ##### § 49
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006600311)
 
 Der Eintritt der Unanfechtbarkeit des Teils A des
 Enteignungsbeschlusses ist den Beteiligten schriftlich bekanntzugeben.
@@ -1152,6 +1215,7 @@ Die Mitteilung ist zuzustellen.
 
 
 ##### § 50
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006700311)
 
 Bietet der Eigentümer schon vor der Unanfechtbarkeit des Teils B des
 Enteignungsbeschlusses oder vor Übertragung des Besitzes an dem
@@ -1160,10 +1224,12 @@ Abs. 2 Satz 1) sofort fällig.
 
 
 #### 6. - Ausführung der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001400311)
 
 
 
 ##### § 51
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006803310)
 
 (1) Die Enteignungsbehörde bestimmt den Tag, mit dessen Beginn die im
 Enteignungsbeschluß vorgesehenen Rechtsänderungen eintreten, sobald
@@ -1214,6 +1280,7 @@ Veränderungsnachweis und eine Abzeichnung der Flurkarte beizufügen.
 
 
 ##### § 52
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE006900311)
 
 In den Fällen des § 51 Abs. 1 gilt der Enteignungsbeschluß als
 Besitzeinweisung in das enteignete Grundstück und in das Ersatzland zu
@@ -1222,6 +1289,7 @@ dem nach § 51 bestimmten Tag, sofern der Begünstigte nicht schon nach
 
 
 ##### § 53
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007000311)
 
 (1) Geldentschädigungen, aus denen andere Entschädigungsberechtigte
 nach § 20 Abs. 3 zu befriedigen sind, sind unter Verzicht auf das
@@ -1235,6 +1303,7 @@ statthaft ist, werden hierdurch nicht berührt.
 
 
 ##### § 54
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007100311)
 
 Nach dem Eintritt der im Enteignungsbeschluß vorgesehenen
 Rechtsänderungen kann jeder Beteiligte sein Recht an der hinterlegten
@@ -1290,6 +1359,7 @@ Vollstreckungsgerichts statt.
 
 
 ##### § 55
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007200311)
 
 Entstehen nach Erlaß des Enteignungsbeschlusses Vermögensnachteile der
 in § 19 bezeichneten Art, für die eine Entschädigung im
@@ -1302,6 +1372,7 @@ Festsetzungsbescheid gilt § 48 Abs. 1 sinngemäß.
 
 
 ##### § 56
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007300311)
 
 (1) Werden Grundstücke oder Grundstücksteile zur Entschädigung in Land
 erworben, so gelten die Vorschriften der §§ 1, 2 und 4 des Gesetzes
@@ -1324,6 +1395,7 @@ Enteignungsbehörde wahr.
 
 
 ##### § 57
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007400311)
 
 (1) Der enteignete frühere Eigentümer kann verlangen, daß das nach den
 Vorschriften dieses Gesetzes enteignete Grundstück zu seinen Gunsten
@@ -1361,16 +1433,19 @@ gelten sinngemäß.
 
 
 ## Dritter Teil - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001500311)
 
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007500311)
 
 Für die Anfechtung der nach diesem Gesetz erlassenen Verwaltungsakte
 gilt die Verwaltungsgerichtsordnung.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007600311)
 
 (1) Für Klagen auf Festsetzung einer Geldentschädigung, einer
 zusätzlichen Geldentschädigung (§ 24 Satz 1), einer Ausgleichszahlung
@@ -1392,6 +1467,7 @@ genommene Grundstück liegt.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007700311)
 
 Der Rechtsstreit ist zwischen dem Entschädigungsberechtigten und dem
 Bund zu führen. Dies gilt sinngemäß, wenn der Rechtsstreit eine
@@ -1399,6 +1475,7 @@ Ausgleichszahlung betrifft.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007800311)
 
 (1) Die Klage ist innerhalb von zwei Monaten zu erheben.
 
@@ -1415,6 +1492,7 @@ des Enteignungsbeschlusses den Beteiligten zugestellt ist.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE007900311)
 
 In der Klage sollen die Bezeichnung des Enteignungsbeschlusses (Teil
 B) oder des Besitzeinweisungsbeschlusses und die Angabe der
@@ -1426,6 +1504,7 @@ vorgelegt werden.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008000311)
 
 Für Klagen wegen nachträglicher Festsetzung einer Entschädigung (§ 55)
 gelten §§ 59 und 60 entsprechend. Die Klage ist innerhalb einer Frist
@@ -1437,10 +1516,12 @@ getroffen hat. § 62 gilt sinngemäß.
 
 
 ## Vierter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNG001600311)
 
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008100311)
 
 (1) Werden Grundstücke, die vor dem 5. Mai 1955 12 Uhr von den
 Behörden einer beteiligten Macht in Anspruch genommen worden sind und
@@ -1495,6 +1576,7 @@ nach der Inanspruchnahme sind zu berücksichtigen.
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008200311)
 
 (1) Hat der Bund vor Inkrafttreten dieses Gesetzes ein Grundstück der
 in § 64 bezeichneten Art angekauft und ist der Kaufpreis nach dem
@@ -1512,6 +1594,7 @@ bestimmten Behörde festgesetzt. § 63 gilt entsprechend.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008300311)
 
 (1) Wird in den Fällen des § 64 der Erlaß eines Enteignungsbeschlusses
 abgelehnt, so gilt § 42 Abs. 2 sinngemäß, sofern nicht in den
@@ -1540,6 +1623,7 @@ des Gesetzes über die Abgeltung von Besatzungsschäden vom 1. Dezember
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008400311)
 
 Die den Kirchen oder anderen Religionsgesellschaften und religiösen
 Vereinen auf Grund des Artikels 140 des Grundgesetzes und auf Grund
@@ -1547,6 +1631,7 @@ von Verträgen zustehenden Rechte bleiben unberührt.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008500311)
 
 Gesetzliche Vorschriften, behördliche Anordnungen oder Satzungen, die
 Kreditinstituten die Anlage ihres Vermögens in Grundpfandrechten oder
@@ -1556,6 +1641,7 @@ einem außerhalb des Bezirks liegenden Grundstück neu begründet werden.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008604311)
 
 (1) Das Vorkaufsrecht nach dem Reichssiedlungsgesetz kann auch zum
 Zwecke des Erwerbs von Grundstücken zur Entschädigung in Land ausgeübt
@@ -1592,6 +1678,7 @@ Behörde.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008700311)
 
 Verlangt der Eigentümer nach § 10 Abs. 2 des Bundesleistungsgesetzes
 vom 19. Oktober 1956 (Bundesgesetzbl. I S. 815) oder nach § 15 Abs. 1
@@ -1605,6 +1692,7 @@ nach § 11 dieses Gesetzes das Verlangen des Eigentümers oder des in §
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008801116)
 
 (1) Das Verfahren vor der Enteignungsbehörde ist gebührenfrei.
 
@@ -1624,6 +1712,7 @@ der Durchführung der Landbeschaffung dient.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE008900311)
 
 In den Fällen, in denen der Landverlust auf einen großen Kreis von
 Eigentümern verteilt oder Nachteile für die allgemeine Landeskultur
@@ -1640,22 +1729,26 @@ Entscheidung nach § 89 Abs. 1 des Flurbereinigungsgesetzes.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE009001310)
 
 Zustellungen durch die Verwaltungsbehörden werden nach den
 Vorschriften des Verwaltungszustellungsgesetzes bewirkt.
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE009100311)
 
 -
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE009200311)
 
 -
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/lbg/BJNR001340957.html#BJNR001340957BJNE009300311)
 
 Dieses Gesetz tritt am 1. Januar 1957 in Kraft.
 

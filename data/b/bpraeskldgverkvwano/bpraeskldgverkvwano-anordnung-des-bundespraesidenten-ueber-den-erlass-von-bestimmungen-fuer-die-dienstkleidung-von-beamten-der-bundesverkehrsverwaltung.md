@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgverkvwano/BJNR103660957.html#BJNR103660957BJNE000100303)
 
 Gemäß § 76 des Bundesbeamtengesetzes übertrage ich dem Bundesminister
 für Verkehr für den Bereich der Bundesverkehrsverwaltung die Ausübung

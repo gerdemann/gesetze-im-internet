@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000101308)
 
 Schwerstbeschädigtenzulage erhalten Beschädigte, deren
 Schädigungsfolgen allein auf Grund der Beurteilung nach § 30 Abs. 1
@@ -34,6 +35,7 @@ haben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000201308)
 
 (1) Bei der Punktbewertung ist von der Höhe des Grades der
 Schädigungsfolgen auszugehen, die die einzelnen anerkannten
@@ -75,6 +77,7 @@ einzelnen Ergebnisse sind zusammenzuzählen; dabei ist § 30 Abs. 1 Satz
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000301308)
 
 (1) Die nach § 2 ermittelte Punktzahl ist,
 
@@ -146,6 +149,7 @@ Aufteilung in Funktionsbereiche).
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000401308)
 
 Ist für die Zuerkennung der Schwerstbeschädigtenzulage der Anspruch
 auf Pflegezulage von Bedeutung, bleibt eine Höherstufung der
@@ -155,6 +159,7 @@ schädigungsbedingten Gesundheitsstörung vorgenommen worden ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000501308)
 
 (1) Schwerstbeschädigtenzulage wird
 
@@ -223,11 +228,13 @@ erbracht.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000601308)
 
 (weggefallen)
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bvg_31abs5dv/BJNR004530961.html#BJNR004530961BJNE000701308)
 
 (weggefallen)
 

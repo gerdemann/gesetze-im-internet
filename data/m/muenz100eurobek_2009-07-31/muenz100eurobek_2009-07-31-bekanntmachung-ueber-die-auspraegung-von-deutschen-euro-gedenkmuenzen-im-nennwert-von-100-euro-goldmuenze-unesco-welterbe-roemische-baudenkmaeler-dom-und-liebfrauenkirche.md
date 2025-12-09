@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2009-07-31/BJNR299500009.html#BJNR299500009BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, in Würdigung des
@@ -57,11 +58,13 @@ Münzzeichen „A“, „D“, „F“, „G“ oder „J“.\*
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2009-07-31/BJNR299500009.html#BJNR299500009BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz100eurobek_2009-07-31/BJNR299500009.html#BJNR299500009BJNE000300000)
 
 (Fundstelle: BGBl. I 2009, 2995)
 

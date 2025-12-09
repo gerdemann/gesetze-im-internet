@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrfrv/BJNR031350974.html#BJNR031350974BJNE000100317)
 
 Auf Grund des § 15 Abs. 5 des Gesetzes zur Förderung der Stabilität
 und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I
@@ -29,6 +30,7 @@ Hand mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrfrv/BJNR031350974.html#BJNR031350974BJNE000200317)
 
 Aus den gemäß der Verordnung über die Bildung von
 Konjunkturausgleichsrücklagen durch Bund und Länder im Haushaltsjahr
@@ -80,6 +82,7 @@ Für die Länder
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrfrv/BJNR031350974.html#BJNR031350974BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 32 des
@@ -88,6 +91,7 @@ auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/konjausglrfrv/BJNR031350974.html#BJNR031350974BJNE000400317)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

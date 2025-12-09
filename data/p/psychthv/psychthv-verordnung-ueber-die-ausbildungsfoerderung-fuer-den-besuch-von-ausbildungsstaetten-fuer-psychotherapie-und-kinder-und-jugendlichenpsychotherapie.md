@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/psychthv/BJNR123700000.html#BJNR123700000BJNE000100310)
 
 Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes
 in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645,
@@ -29,6 +30,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/psychthv/BJNR123700000.html#BJNR123700000BJNE000200310)
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz
 wird geleistet für den Besuch von Ausbildungsstätten für
@@ -42,17 +44,20 @@ Einrichtung durchgeführt wird.
 
 
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/psychthv/BJNR123700000.html#BJNR123700000BJNE000300310)
 
 Die Auszubildenden erhalten Ausbildungsförderung wie Studierende an
 Hochschulen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/psychthv/BJNR123700000.html#BJNR123700000BJNE000400310)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/psychthv/BJNR123700000.html#BJNR123700000BJNE000500310)
 
 Der Bundesrat hat zugestimmt.
 

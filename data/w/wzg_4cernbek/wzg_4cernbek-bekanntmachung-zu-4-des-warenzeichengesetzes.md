@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cernbek/BJNR005770967.html#BJNR005770967BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird
@@ -34,11 +35,13 @@ ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cernbek/BJNR005770967.html#BJNR005770967BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1 Bezeichnungen der Lateinamerikanischen Freihandelszone
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cernbek/BJNR005770967.html#BJNR005770967BJNE000200303)
 
 (Fundstelle: BGBl. I 1967, 578)
 Lateinamerikanische Freihandelszone
@@ -54,6 +57,7 @@ ALALC
 
 
 ## Anlage 2 Bezeichnungen und Kennzeichen der Europäischen Organisation für Kernforschung
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cernbek/BJNR005770967.html#BJNR005770967BJNE000300303)
 
 Europäische Organisation für Kernforschung
 Organisation

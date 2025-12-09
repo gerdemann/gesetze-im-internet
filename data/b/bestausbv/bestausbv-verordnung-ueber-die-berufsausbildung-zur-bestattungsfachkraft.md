@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -34,6 +35,7 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000200000)
 
 Der Ausbildungsberuf Bestattungsfachkraft wird
 
@@ -52,11 +54,13 @@ Wirtschaft.
 
 
 ## § 2 Dauer der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -126,6 +130,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -166,6 +171,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -241,6 +247,7 @@ Arbeiten bestehen folgende Vorgaben:
 
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000700000)
 
 (1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
@@ -486,6 +493,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000800000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechung der bisher zurückgelegten
@@ -497,12 +505,14 @@ Satz 2 genannten Verordnung weiter anzuwenden.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE000900000)
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (zu § 3)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Bestattungsfachkraft
+[Direktlink](https://www.gesetze-im-internet.de/bestausbv/BJNR067300007.html#BJNR067300007BJNE001000000)
 
 (Fundstelle: BGBl. I 2007, 676 - 679)
 

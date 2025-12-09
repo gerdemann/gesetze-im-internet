@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Weitere Polizeivollzugsbehörden des Landes Bayern
+[Direktlink](https://www.gesetze-im-internet.de/atdteilnv/BJNR030210015.html#BJNR030210015BJNE000100000)
 
 Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff
 auf die Antiterrordatei berechtigt:
@@ -86,6 +87,7 @@ auf die Antiterrordatei berechtigt:
 
 
 ## § 2 Weitere Polizeivollzugsbehörde des Landes Brandenburg
+[Direktlink](https://www.gesetze-im-internet.de/atdteilnv/BJNR030210015.html#BJNR030210015BJNE000200000)
 
 Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum
 Zugriff auf die Antiterrordatei berechtigt:
@@ -96,6 +98,7 @@ Kaiser-Friedrich-Straße 143
 
 
 ## § 3 Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
+[Direktlink](https://www.gesetze-im-internet.de/atdteilnv/BJNR030210015.html#BJNR030210015BJNE000300000)
 
 Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind
 zum Zugriff auf die Antiterrordatei berechtigt:

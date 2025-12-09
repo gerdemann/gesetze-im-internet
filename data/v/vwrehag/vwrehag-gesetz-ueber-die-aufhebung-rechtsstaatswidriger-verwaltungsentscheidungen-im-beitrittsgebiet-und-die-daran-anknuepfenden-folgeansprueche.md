@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000101310)
 
 (1) Die hoheitliche Maßnahme einer deutschen behördlichen Stelle zur
 Regelung eines Einzelfalls in dem in Artikel 3 des Einigungsvertrages
@@ -74,6 +75,7 @@ Organisationen gelten die Vorschriften dieses Gesetzes entsprechend.
 
 
 ## § 1a Feststellung der Rechtsstaatswidrigkeit in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001803130)
 
 (1) Für eine Verwaltungsentscheidung nach § 1 Abs. 1 oder eine
 Maßnahme nach § 1 Abs. 5 Satz 1 oder Abs. 6, die nicht zu einer
@@ -110,6 +112,7 @@ anderen Einkommen abhängig ist, als Einkommen unberücksichtigt.
 
 
 ## § 2 Folgeansprüche
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000203116)
 
 (1) Die Aufhebung oder die Feststellung der Rechtsstaatswidrigkeit
 einer Maßnahme nach § 1 begründet Ansprüche nach Maßgabe dieses
@@ -157,6 +160,7 @@ gewährt werden.
 
 
 ## § 3 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000304130)
 
 (1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine
 gesundheitliche Schädigung erlitten hat, erhält wegen der
@@ -227,6 +231,7 @@ erteilt werden.
 
 
 ## § 4 Leistungen der Sozialen Entschädigung für Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000402116)
 
 Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten
 die Hinterbliebenen auf Antrag Leistungen der Sozialen Entschädigung
@@ -255,6 +260,7 @@ Sozialgesetzbuch sind entsprechend anzuwenden.
 
 
 ## § 5 Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000503116)
 
 (1) Treffen Ansprüche aus § 3 mit folgenden Ansprüchen zusammen,
 werden die Leistungen der Sozialen Entschädigung unter
@@ -290,10 +296,12 @@ Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000603116)
 
 
 
 ## § 7 Eingriff in Vermögenswerte
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000701310)
 
 (1) Hat die Maßnahme nach § 1 die Entziehung eines Vermögenswertes im
 Sinne des § 2 Abs. 2 des Vermögensgesetzes zur Folge, so richtet sich
@@ -324,6 +332,7 @@ Gebiet das Grundstück liegt.
 
 
 ## § 8 Berufliche Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000801310)
 
 Hatte eine Maßnahme nach § 1 Auswirkungen auf den Beruf oder ein
 Ausbildungsverhältnis und wurde dadurch eine Benachteiligung nach § 1
@@ -338,6 +347,7 @@ Rehabilitierungsgesetz in Betracht kommt.
 
 
 ## § 9 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE000909116)
 
 (1) Der Antrag nach § 1 kann von einer natürlichen Person, die durch
 die Maßnahme unmittelbar in ihren Rechten betroffen ist und nach deren
@@ -356,6 +366,7 @@ Rehabilitierungsbehörde zu stellen.
 
 
 ## § 10 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001003116)
 
 (1) Der Antrag soll enthalten
 
@@ -385,6 +396,7 @@ vorgeschriebenen Angaben enthalten.
 
 
 ## § 11 Verarbeitung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001102116)
 
 Personenbezogene Daten aus einem verwaltungsrechtlichen
 Rehabilitierungsverfahren dürfen auch für andere Verfahren zur
@@ -393,6 +405,7 @@ dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 
 
 ## § 12 Rehabilitierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001204116)
 
 (1) Die Aufhebung oder die Feststellung der Rechtsstaatswidrigkeit
 einer Maßnahme nach § 1 sowie die Entscheidung über
@@ -427,6 +440,7 @@ Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ## § 13 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001302310)
 
 (1) In dem Verfahren vor der Rehabilitierungsbehörde sind Zeugen zur
 Aussage und Sachverständige zur Erstattung von Gutachten verpflichtet.
@@ -450,6 +464,7 @@ Vollstreckungsgesetzes.
 
 
 ## § 14 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001401310)
 
 Das Verwaltungsverfahren vor den Rehabilitierungsbehörden
 einschließlich des Widerspruchsverfahrens ist kostenfrei. Wurde ein
@@ -459,6 +474,7 @@ auferlegt werden.
 
 
 ## § 15 Bestandskraft nach allgemeinen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001502310)
 
 Für die Wirksamkeit von Verwaltungsentscheidungen gelten die
 verwaltungsverfahrensrechtlichen Nichtigkeitsbestimmungen erst ab dem
@@ -469,6 +485,7 @@ Oktober 1990 erfolgen.
 
 
 ## § 16 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001603116)
 
 (1) In Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben. Die Berufung gegen ein Urteil und die Beschwerde gegen eine
@@ -487,6 +504,7 @@ Sozialen Entschädigungsrechts maßgebend.
 
 
 ## § 17 Kostenregelung
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001703116)
 
 Der Bund trägt 60 vom Hundert der Ausgaben, die den Ländern durch
 Geldleistungen nach diesem Gesetz entstehen. Zu den Geldleistungen
@@ -495,6 +513,7 @@ einer Sachleistung gezahlt werden.
 
 
 ## § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vwrehag/BJNR131110994.html#BJNR131110994BJNE001901310)
 
 Ist die zu zahlende Entschädigung entgegen § 2 Abs. 4 Satz 3
 festgesetzt worden, ist der Verwaltungsakt insoweit mit Wirkung für

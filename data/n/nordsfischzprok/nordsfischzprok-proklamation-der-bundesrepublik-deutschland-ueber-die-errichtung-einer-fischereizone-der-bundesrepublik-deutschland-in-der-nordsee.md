@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/nordsfischzprok/BJNR319990976.html#BJNR319990976BJNE000100377)
 
 Im Seevölkerrecht bereiten sich tiefgreifende Änderungen vor. Dies
 wird vor allem auf der seit 1973 tagenden 3. Seerechtskonferenz der

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruch
+[Direktlink](https://www.gesetze-im-internet.de/ausglbgg/BJNR167600996.html#BJNR167600996BJNE000101308)
 
 (1) Anspruch auf einen Dienstbeschädigungsausgleich haben vom 1. März
 2002 an Personen, die
@@ -52,6 +53,7 @@ Sonderversorgungssystems eingetreten ist.
 
 
 ## § 1a Leistungsversagung und -entziehung
+[Direktlink](https://www.gesetze-im-internet.de/ausglbgg/BJNR167600996.html#BJNR167600996BJNE000500308)
 
 (1) Leistungen sind zu versagen, wenn der Berechtigte bei einer
 Diensthandlung gegen die Grundsätze der Menschlichkeit oder
@@ -77,6 +79,7 @@ für Nationale Sicherheit der DDR ergeben.
 
 
 ## § 2 Höhe
+[Direktlink](https://www.gesetze-im-internet.de/ausglbgg/BJNR167600996.html#BJNR167600996BJNE000208126)
 
 (1) Der Dienstbeschädigungsausgleich wird bei einem Körper- oder
 Gesundheitsschaden, der nach den Regelungen der
@@ -138,6 +141,7 @@ anderen Einkommen abhängt.
 
 
 ## § 3 Verfahren, Erstattung, Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ausglbgg/BJNR167600996.html#BJNR167600996BJNE000300310)
 
 Für die Feststellung der Anspruchsvoraussetzungen, das
 Verwaltungsverfahren, die Auszahlung, die Erstattung und den Rechtsweg
@@ -149,6 +153,7 @@ Sozialgesetzbuch sind anzuwenden.
 
 
 ## § 4 Leistungen für die Zeit vom 1. August 1991 bis 28. Februar 2002
+[Direktlink](https://www.gesetze-im-internet.de/ausglbgg/BJNR167600996.html#BJNR167600996BJNE000600308)
 
 (1) Personen nach § 1, für die ein Bescheid über die Nichtgewährung
 von Dienstbeschädigungsteilrenten am 14. Februar 2002 noch nicht

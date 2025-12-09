@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000100000)
 
 (1) Diese Verordnung ergänzt die Regelungen der Verordnung (EU) Nr.
 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober
@@ -71,6 +72,7 @@ geregelt sind.
 
 
 ## § 2 Allgemeine Anforderungen an die Kennzeichnung von Lebensmitteln beim Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000200000)
 
 (1) Lebensmittel sind beim Inverkehrbringen in deutscher Sprache zu
 kennzeichnen, wenn die Kennzeichnung verpflichtend ist nach
@@ -96,6 +98,7 @@ muss.
 
 
 ## § 3 Besondere Anforderungen an die Kennzeichnung bestimmter vorverpackter Lebensmittel beim Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000300000)
 
 Abweichend von Artikel 16 Absatz 4 der Verordnung (EU) Nr. 1169/2011
 ist Bier, das als vorverpacktes Lebensmittel abgegeben wird, beim
@@ -105,6 +108,7 @@ kennzeichnen.
 
 
 ## § 4 Besondere Vorschriften für die Kennzeichnung von nicht vorverpackten Lebensmitteln beim Inverkehrbringen oder Abgeben
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000402130)
 
 (1) Lebensmittel, die im Hinblick auf ihren unmittelbaren Verkauf
 vorverpackt und Endverbrauchern zur Selbstbedienung angeboten werden,
@@ -223,6 +227,7 @@ elektronische Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz
 
 
 ## § 4a Erweiterte Nährwertkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000700116)
 
 (1) Der Verantwortliche nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2
 der Verordnung (EU) Nr. 1169/2011 darf Lebensmittel mit dem in der
@@ -260,6 +265,7 @@ Bundesanzeiger veröffentlichen:
 
 
 ## § 4b Herkunftskennzeichnung bei nicht vorverpacktem frischem, gekühltem und gefrorenem Schweine-, Schaf-, Ziegen- und Geflügelfleisch
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000900130)
 
 (1) Für diese Verordnung gelten
 
@@ -325,6 +331,7 @@ Unternehmer in den nachfolgenden Produktions- und Vertriebsstufen
 
 
 ## § 5 Verkehrs- und Abgabeverbote
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000502130)
 
 (1) Dem Verantwortlichen nach Artikel 8 Absatz 1 oder 4 Satz 2 der
 Verordnung (EU) Nr. 1169/2011 ist es verboten, vorverpackte
@@ -559,6 +566,7 @@ bis 5 genannten Anforderungen erhalten.
 
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000602130)
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 5 Absatz 1
@@ -626,6 +634,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE001000130)
 
 Fleischwaren, für die keine hinreichenden Informationen am 1. Februar
 2024 für die Erfüllung der Anforderungen des § 4b Absatz 2 vorliegen,
@@ -635,6 +644,7 @@ werden.
 (zu § 4a Absatz 1)
 
 ## Anlage Abbildung des Nutri-Score-Kennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/lmidv/BJNR227210017.html#BJNR227210017BJNE000800116)
 
 (Fundstelle: BGBl. I 2020, 2267)
 

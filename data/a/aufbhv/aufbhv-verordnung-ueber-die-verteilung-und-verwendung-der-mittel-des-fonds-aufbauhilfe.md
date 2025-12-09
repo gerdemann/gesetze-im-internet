@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000100000)
 
 Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes
 vom 15. Juli 2013 (BGBl. I S. 2401) verordnet die Bundesregierung:
 
 
 ## § 1 Mittelverteilung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000200000)
 
 (1) Die dem Fonds nach § 4 Absatz 1 des Aufbauhilfefonds-
 Errichtungsgesetzes vom 15. Juli 2013 (BGBl. I S. 2401) zugewiesenen
@@ -165,6 +167,7 @@ Anlage zu dieser Rechtsverordnung festgestellt.
 
 
 ## § 2 Ermittlung der Schadenshöhe
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000300000)
 
 (1) Die Ermittlungen der Gesamtschäden in den vom Hochwasser
 betroffenen Ländern erfolgt nach Maßgabe der in den nachfolgenden
@@ -237,6 +240,7 @@ Maßnahmen nach Satz 1 sind ebenfalls berücksichtigungsfähig.
 
 
 ## § 3 Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000400000)
 
 (1) Nach der Verteilung der Mittel des Fonds im Rahmen seines
 Wirtschaftsplans obliegt die Entscheidung über die Verwendung der auf
@@ -322,6 +326,7 @@ genannten Zeitraum sind förderfähig.
 
 
 ## § 4 Zweckentsprechende Mittelverwendung, Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000500000)
 
 (1) Die Länder sind für die bestimmungsgemäße Verwendung der Mittel
 des Fonds verantwortlich, soweit nicht der Bund für seine eigenen aus
@@ -383,6 +388,7 @@ ebenfalls zurückzufordern.
 
 
 ## § 5 Inanspruchnahme und Rückzahlung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000600000)
 
 (1) Die Länder nehmen die ihnen zugeteilten Mittel für sich und ihre
 beauftragten Stellen im Rahmen der Ansätze des Wirtschaftsplans des
@@ -402,17 +408,20 @@ Wirtschaftsplans des Fonds zu.
 
 
 ## § 6 Liquidität des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000700000)
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten
 sicherzustellen.
 
 
 ## § 7 Fondsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000800000)
 
 Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen.
 
 
 ## § 8 EU-beihilferechtliche Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE000900000)
 
 Soweit im Einzelfall eine beihilferechtliche Genehmigung erforderlich
 ist, wird diese unverzüglich durch den jeweiligen Beihilfegeber
@@ -420,17 +429,20 @@ eingeholt.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 2 Satz 2)
 
 ## Anlage Wirtschaftsplan des Sondervermögens „Aufbauhilfe“
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv/BJNR323300013.html#BJNR323300013BJNE001201377)
 
 (Fundstelle: BGBl. I 2014, 1717 – 1723)
 

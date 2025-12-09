@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/nordsfischzprokbek/BJNR219990976.html#BJNR219990976BJNE000100304)
 
 Die Proklamation der Bundesrepublik Deutschland über die Errichtung
 einer Fischereizone der Bundesrepublik Deutschland in der Nordsee vom
@@ -26,6 +27,7 @@ einer Fischereizone der Bundesrepublik Deutschland in der Nordsee vom
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/nordsfischzprokbek/BJNR219990976.html#BJNR219990976BJNE000200304)
 
 Der Bundesminister des Auswärtigen
 

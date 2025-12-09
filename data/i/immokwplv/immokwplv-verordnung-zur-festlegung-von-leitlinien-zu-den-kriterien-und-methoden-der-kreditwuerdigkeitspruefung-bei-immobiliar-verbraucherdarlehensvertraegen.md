@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000100000)
 
 Auf Grund des § 505e des Bürgerlichen Gesetzbuchs, der durch Artikel 6
 Nummer 4 des Gesetzes vom 6. Juni 2017 (BGBl. I S. 1495) eingefügt
@@ -37,6 +38,7 @@ und für Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000200000)
 
 Diese Verordnung findet Anwendung auf die Kreditwürdigkeitsprüfung bei
 Immobiliar-Verbraucherdarlehensverträgen nach den §§ 505a und 505b
@@ -45,6 +47,7 @@ bis 5 des Kreditwesengesetzes.
 
 
 ## § 2 Grundlagen der Kreditwürdigkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000300000)
 
 (1) Die Kreditwürdigkeitsprüfung bei einem Immobiliar-
 Verbraucherdarlehensvertrag dient der Bewertung, ob es wahrscheinlich
@@ -68,6 +71,7 @@ auf die besonderen Umstände des Einzelfalles abstellen.
 
 
 ## § 3 Anforderungen an die Einschätzung der Wahrscheinlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000400000)
 
 (1) Bei der Prognose, welche künftigen Entwicklungen wahrscheinlich
 sind, kann der Darlehensgeber einen nach der Lebenserfahrung
@@ -85,6 +89,7 @@ Informationen nicht mit verhältnismäßigem Aufwand zu ermitteln sind.
 
 
 ## § 4 Bei der Kreditwürdigkeitsprüfung zu berücksichtigende Faktoren
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000500000)
 
 (1) Der Darlehensgeber hat die Faktoren angemessen zu berücksichtigen,
 die für die Einschätzung relevant sind, ob der Darlehensnehmer seinen
@@ -175,6 +180,7 @@ voraussichtlich kreditwürdig sein muss.
 
 
 ## § 5 Bau- und Renovierungsdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000600000)
 
 Bei Darlehensverträgen, die dem Bau oder der Renovierung einer
 Wohnimmobilie dienen, darf im Rahmen der Kreditwürdigkeitsprüfung der
@@ -182,6 +188,7 @@ hierdurch zu erwartende Wertzuwachs berücksichtigt werden.
 
 
 ## § 6 Abschnittsfinanzierungen mit einem neuen Darlehensgeber
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000700000)
 
 Bei einem Immobiliar-Verbraucherdarlehensvertrag, der die
 Voraussetzungen des § 505a Absatz 3 Satz 1 Nummer 1 des Bürgerlichen
@@ -195,6 +202,7 @@ gezeigt hat.
 
 
 ## § 7 Neue Kreditwürdigkeitsprüfung bei deutlicher Erhöhung des Nettodarlehensbetrages
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000800000)
 
 (1) In der Regel liegt eine deutliche Erhöhung des
 Nettodarlehensbetrages nach Vertragsschluss im Sinne des § 505a Absatz
@@ -211,6 +219,7 @@ Absatz 2a Satz 1 des Kreditwesengesetzes.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/immokwplv/BJNR052900018.html#BJNR052900018BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

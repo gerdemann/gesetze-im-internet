@@ -26,12 +26,14 @@ Stand: Zum Inkrafttreten vgl. § 7
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000202377)
 
 Für Schadenersatzansprüche nach Artikel 30 des Beschlusses 2009/917/JI
 des Rates vom 30. November 2009 über den Einsatz der
@@ -49,6 +51,7 @@ durch die Generalzolldirektion, geltend zu machen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000301140)
 
 Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15 Absatz
 3 Satz 1 des Beschlusses 2009/917/JI enthält ausschließlich
@@ -61,6 +64,7 @@ Verzeichnis nach Satz 1.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000404123)
 
 (1) Die Generalzolldirektion, die Zollfahndungsämter und die
 Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich
@@ -75,6 +79,7 @@ Gefährdung des Untersuchungszwecks nicht zu besorgen ist. § 480 Absatz
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000500000)
 
 Das Bundeskriminalamt ist berechtigt, Daten aus dem
 Aktennachweissystem für Zollzwecke im automatisierten Verfahren
@@ -82,6 +87,7 @@ abzurufen, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000601140)
 
 (1) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu
 natürlichen Personen sind zu löschen nach Ablauf
@@ -121,6 +127,7 @@ Absatz 1 Satz 1 Nummer 3 und Satz 2 gilt entsprechend.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000701140)
 
 (1) Die in Artikel 16 Absatz 1 Satz 1 und Absatz 2 Buchstabe b) des
 Beschlusses 2009/917/JI genannten Daten zu Unternehmen dürfen in das
@@ -173,6 +180,7 @@ wird. Im Übrigen sind die Daten zu löschen nach Ablauf
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zisag/BJNR048200004.html#BJNR048200004BJNE000801140)
 
 Der Beschluss 2009/917/JI des Rates vom 30. November 2009 über den
 Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom

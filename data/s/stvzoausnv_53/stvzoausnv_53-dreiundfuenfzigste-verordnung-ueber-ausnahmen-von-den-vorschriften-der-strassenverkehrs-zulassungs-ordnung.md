@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_53/BJNR166500997.html#BJNR166500997BJNE000100000)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -34,6 +35,7 @@ Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_53/BJNR166500997.html#BJNR166500997BJNE000201311)
 
 (1) Abweichend von § 34 Abs. 5 Nr. 1 der Straßenverkehrs-Zulassungs-
 Ordnung darf das zulässige Gesamtgewicht von Anhängern mit nicht mehr
@@ -82,6 +84,7 @@ Prüfung auszuhändigen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_53/BJNR166500997.html#BJNR166500997BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

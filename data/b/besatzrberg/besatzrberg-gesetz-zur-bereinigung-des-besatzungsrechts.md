@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Aufhebung von Besatzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/besatzrberg/BJNR261410007.html#BJNR261410007BJNE000100000)
 
 (1) Die von Besatzungsbehörden erlassenen Rechtsvorschriften
 (Besatzungsrecht), insbesondere solche nach Artikel 1 Abs. 3 des
@@ -36,6 +37,7 @@ Kommission für Deutschland S. 103).
 
 
 ## § 2 Aufhebung bundesrechtlicher Vorschriften über die Bereinigung von Besatzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/besatzrberg/BJNR261410007.html#BJNR261410007BJNE000200000)
 
 Es werden aufgehoben:
 
@@ -59,6 +61,7 @@ Es werden aufgehoben:
 
 
 ## § 3 Folgen der Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/besatzrberg/BJNR261410007.html#BJNR261410007BJNE000300000)
 
 Rechte und Pflichten, die durch gesetzgeberische, gerichtliche oder
 Verwaltungsmaßnahmen der Besatzungsbehörden oder auf Grund solcher

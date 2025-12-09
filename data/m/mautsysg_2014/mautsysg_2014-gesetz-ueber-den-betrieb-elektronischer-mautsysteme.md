@@ -25,6 +25,7 @@ L 200 vom 7.6.2004, S. 50).
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000101123)
 
 (1) Die Vorschriften dieses Gesetzes gelten für
 
@@ -78,6 +79,7 @@ nach Maßgabe besonderer Vorschriften des Bundes und der Länder.
 
 
 ## § 2 Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000201123)
 
 Elektronische Mautsysteme, die von Bund und Ländern in Betrieb
 genommen oder betrieben werden, dürfen für die Erhebung der Maut nur
@@ -96,6 +98,7 @@ eine oder mehrere der folgenden Techniken verwenden:
 
 
 ## § 3 Europäischer elektronischer Mautdienst
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000301123)
 
 (1) Der europäische elektronische Mautdienst ist ein Dienst, der den
 Nutzern die Zahlung der Maut für ein Fahrzeug in mehreren
@@ -112,6 +115,7 @@ dieses Gesetzes so zu betreiben, dass der Mautdienst ermöglicht wird.
 
 
 ## § 4 Registrierung von Anbietern
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000402123)
 
 Wer mautdienstbezogene Leistungen als Anbieter erbringen will, muss
 sich beim Bundesamt für Logistik und Mobilität registrieren lassen,
@@ -122,6 +126,7 @@ registriert ist.
 
 
 ## § 5 Registrierungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000501123)
 
 Die Registrierung erfolgt auf Antrag, wenn der Anbieter nach Maßgabe
 des § 6, auch in Verbindung mit § 7, nachweist, dass er
@@ -179,6 +184,7 @@ des § 6, auch in Verbindung mit § 7, nachweist, dass er
 
 
 ## § 6 Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000602123)
 
 (1) Der Antrag auf Registrierung als Anbieter ist schriftlich beim
 Bundesamt für Logistik und Mobilität zu stellen. Zum Nachweis des
@@ -223,6 +229,7 @@ unverzüglich zu löschen.
 
 
 ## § 7 Regelmäßige Überprüfung der Registrierungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000701123)
 
 (1) Jeder in Deutschland registrierte Anbieter ist verpflichtet, dem
 Bundesamt für Logistik und Mobilität Änderungen der tatsächlichen
@@ -257,6 +264,7 @@ haben.
 
 
 ## § 8 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000800000)
 
 Für die Registrierung nach den §§ 5 und 6 Absatz 1 sowie die
 regelmäßige Überprüfung des Vorliegens der
@@ -268,6 +276,7 @@ Rechtsverordnung nach § 31 Absatz 1 Nummer 1 Buchstabe b bestimmt.
 
 
 ## § 9 Gebietsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE000902123)
 
 (1) Bund und Länder haben für ihre mautpflichtigen Streckennetze nach
 Maßgabe des Anhangs II der Durchführungsverordnung (EU) 2020/204
@@ -375,6 +384,7 @@ mautpflichtige Streckennetz zu zahlen haben dürfte.
 
 
 ## § 10 Zulassung von Anbietern
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001000000)
 
 (1) Ein Anbieter kann mautdienstbezogene Leistungen innerhalb eines
 mautpflichtigen Streckennetzes nur erbringen, wenn er von der jeweils
@@ -407,6 +417,7 @@ Absatz 2 zugelassen sind.
 
 
 ## § 10a Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003300123)
 
 (1) Die für die Erhebung der Maut zuständige Behörde des Bundes oder
 eines Landes zahlt jedem zugelassenen Anbieter eine Vergütung. Die
@@ -442,6 +453,7 @@ Betreibers unterscheiden, soweit
 
 
 ## § 11 Beschränkte Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001100000)
 
 (1) Zum Zweck der Überprüfung der Erfüllung der Anforderungen nach §
 10 Absatz 2 Satz 1 unter den Bedingungen des Wirkbetriebs
@@ -494,6 +506,7 @@ und den Betrieb der mautpflichtigen Strecken regeln.
 
 
 ## § 12 Abdeckung der mautpflichtigen Streckennetze
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001202123)
 
 (1) Ein Anbieter muss innerhalb von 36 Monaten nach seiner
 Registrierung Zulassungsverträge über alle mautpflichtigen
@@ -535,6 +548,7 @@ nachkommen. § 6 Absatz 1 Satz 2 bis 5 gilt entsprechend.
 
 
 ## § 13 Pflichten der Anbieter gegenüber den Nutzern
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001303123)
 
 (1) Die Vertragsbedingungen der Anbieter dürfen nicht nach der
 Staatsangehörigkeit des Nutzers, dem Staat des Wohnsitzes oder der
@@ -578,6 +592,7 @@ bleiben unberührt.
 
 
 ## § 14 Weitere Pflichten der Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001401123)
 
 (1) Ein zugelassener Anbieter hat durch betriebseigene Kontrollen
 sicherzustellen, dass die von ihm erbrachten mautdienstbezogenen
@@ -622,6 +637,7 @@ oder Landes jeweils erforderlich ist.
 
 
 ## § 15 Rechte und Pflichten der Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001501123)
 
 (1) Nutzer können am Mautdienst über einen zugelassenen Anbieter
 teilnehmen.
@@ -654,6 +670,7 @@ für die Erhebung einer Maut in Bund und Ländern zuständigen Behörde.
 
 
 ## § 16 Befugnisse und Pflichten der für die Mauterhebung zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001602123)
 
 (1) Werden Änderungen hinsichtlich der im Mautdienstregister nach § 21
 Absatz 1 gespeicherten Daten eines Mautsystems erforderlich, so hat
@@ -699,6 +716,7 @@ Absatz 1 in ihren Mautsystemen zu prüfen.
 
 
 ## § 17 Maut-Basisdaten
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001702123)
 
 (1) Die für die Erhebung einer Maut zuständige Behörde des Bundes oder
 Landes gibt die Maut-Basisdaten vor, die für die Berechnung der Maut
@@ -732,6 +750,7 @@ entsprechend der Frist des § 9 Absatz 2 elektronisch mitzuteilen.
 
 
 ## § 18 Fahrzeugklassifizierung
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001804123)
 
 (1) Die Berechnung der Maut ist vom Bund und den Ländern auf der
 Grundlage einer Fahrzeugklassifizierung festzulegen. Die Fahrzeuge
@@ -751,6 +770,7 @@ die Einführung.
 
 
 ## § 19 Mautbuchungsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE001901123)
 
 (1) Berechnen die zugelassenen Anbieter die für die Fahrzeuge ihrer
 Nutzer geschuldete Maut, können Bund und Länder von einem zugelassenen
@@ -794,6 +814,7 @@ angefallen sind.
 
 
 ## § 20 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002001123)
 
 Betreiber und Anbieter müssen zur Vermeidung von Quersubventionen ihre
 Buchführung so gestalten, dass eine eindeutige Unterscheidung der
@@ -812,6 +833,7 @@ unberührt.
 
 
 ## § 21 Mautdienstregister
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002103123)
 
 (1) Das Bundesamt für Logistik und Mobilität führt und aktualisiert
 das nationale elektronische Mautdienstregister (Mautdienstregister).
@@ -876,6 +898,7 @@ jeweilige Anbieter registriert ist, sowie der Kommission mit.
 
 
 ## § 22 Anforderungen an Interoperabilitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002201123)
 
 (1) Interoperabilitätskomponenten sind Bauteile, Bauteilgruppen,
 Unterbaugruppen oder komplette Materialbaugruppen, die in
@@ -906,6 +929,7 @@ Dienstleistungsqualität zu erreichen und aufrechtzuerhalten
 
 
 ## § 23 Beurteilung und Kennzeichnung von Interoperabilitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002301123)
 
 (1) Die Beurteilung der Konformität von Interoperabilitätskomponenten
 hat durch den Hersteller selbst oder durch eine oder mehrere
@@ -949,6 +973,7 @@ Bevollmächtigten ein Entgelt für die Durchführung der Tests verlangen.
 
 
 ## § 24 Inverkehrbringen von Interoperabilitätskomponenten
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002401123)
 
 (1) Das Inverkehrbringen von Interoperabilitätskomponenten darf
 vorbehaltlich des Absatzes 2 nicht verboten, beschränkt oder behindert
@@ -996,6 +1021,7 @@ getroffenen Maßnahmen.
 
 
 ## § 25 Besondere Anforderungen an die Fahrzeuggeräte
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002501123)
 
 (1) Die mautdienstbezogenen Leistungen sind den Nutzern als ein
 einheitlicher, fortdauernder Dienst anzubieten. Dies erfordert
@@ -1032,6 +1058,7 @@ entsprechen.
 
 
 ## § 26 Liste gesperrter Fahrzeuggeräte
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002602123)
 
 (1) Jeder zugelassene Anbieter darf zu Zwecken der
 Haftungsbeschränkung nach Absatz 2 Listen führen, in denen er die von
@@ -1091,6 +1118,7 @@ Häufigkeit ihrer Aktualisierung zu vereinbaren.
 
 
 ## § 27 Notifizierte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002702123)
 
 (1) Eine notifizierte Stelle ist eine akkreditierte Stelle, die nach
 Absatz 4 Satz 2 benannt worden und befugt ist, das Verfahren zur
@@ -1135,6 +1163,7 @@ Ausschuss für elektronische Maut.
 
 
 ## § 28 Einrichtung und Aufgaben der Vermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002804123)
 
 (1) Das Bundesministerium für Verkehr überträgt einer Behörde oder
 einem Privaten die Errichtung und den Betrieb der Vermittlungsstelle.
@@ -1175,6 +1204,7 @@ personenbezogener Form aus.
 
 
 ## § 29 Organisation der Vermittlungsstelle und Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE002902123)
 
 (1) Die Vermittlungsstelle besteht aus einem Spruchkörper nach Absatz
 2 und der Geschäftsstelle nach Absatz 3.
@@ -1209,6 +1239,7 @@ Bundesministerium für Verkehr.
 
 
 ## § 30 Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003000000)
 
 (1) Die für die Erhebung einer Maut in Bund und Ländern zuständigen
 Behörden sowie die registrierten Anbieter können die zuständige
@@ -1230,6 +1261,7 @@ und 5 gilt entsprechend.
 
 
 ## § 31 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003103123)
 
 (1) Das Bundesministerium für Verkehr wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1279,6 +1311,7 @@ für die Vermittlungsstelle nach § 28 zu erlassen.
 
 
 ## § 32 Pilot-Mautsysteme
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003201123)
 
 (1) Der Bund und die Länder können im Interesse der technischen
 Weiterentwicklung des in § 3 Absatz 1 bezeichneten Mautdienstes
@@ -1300,6 +1333,7 @@ nicht länger als drei Jahre betragen.
 
 
 ## § 33 Austausch von Informationen über die Nichtentrichtung der Maut
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003401123)
 
 Die nationalen Kontaktstellen der Mitgliedstaaten der Europäischen
 Union und der Vertragsstaaten des Abkommens über den Europäischen
@@ -1326,6 +1360,7 @@ Kontaktstelle für den Informationsaustausch sind
 
 
 ## § 34 Abrufe aus dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003500123)
 
 (1) Das Kraftfahrt-Bundesamt ist befugt, die in Anhang I der
 Richtlinie (EU) 2019/520 genannten Fahrzeug- und Halterdaten aus dem
@@ -1372,6 +1407,7 @@ und die zuständige Behörde des genannten Mitgliedstaates.
 
 
 ## § 35 Abrufe aus den Fahrzeugregistern der anderen Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003603123)
 
 (1) Das Bundesamt für Logistik und Mobilität ist befugt, die für einen
 Abruf von Fahrzeug- und Halterdaten aus den Fahrzeugregistern der
@@ -1468,6 +1504,7 @@ versendeten Informationsschreiben nach § 36.
 
 
 ## § 36 Informationsschreiben über die Nichtentrichtung der Maut
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003700123)
 
 (1) Hat die zuständige Behörde des Bundes oder Landes den Verdacht,
 dass die Maut nicht, nicht vollständig oder nicht rechtzeitig
@@ -1501,6 +1538,7 @@ dem Informationsschreiben werden angegeben:
 
 
 ## § 37 Zentrale Anlaufstelle
+[Direktlink](https://www.gesetze-im-internet.de/mautsysg_2014/BJNR198010014.html#BJNR198010014BJNE003802123)
 
 (1) Wenn mindestens zwei elektronische Mautsysteme in Deutschland
 betrieben werden, benennt das Bundesministerium für Verkehr eine

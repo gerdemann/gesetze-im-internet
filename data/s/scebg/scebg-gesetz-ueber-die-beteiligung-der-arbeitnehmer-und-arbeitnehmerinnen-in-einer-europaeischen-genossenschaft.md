@@ -26,10 +26,12 @@ Nr. L 207 S. 25).
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000100000)
 
 
 
 ### § 1 Zielsetzung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000200000)
 
 (1) Dieses Gesetz regelt die Beteiligung der Arbeitnehmer in einer
 Europäischen Genossenschaft, die Gegenstand der Verordnung (EG) Nr.
@@ -62,6 +64,7 @@ ihre Arbeitnehmer.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000300000)
 
 (1) Der Begriff des Arbeitnehmers richtet sich nach den
 Rechtsvorschriften und Gepflogenheiten der jeweiligen Mitgliedstaaten.
@@ -169,6 +172,7 @@ Angelegenheiten einer juristischen Person durch
 
 
 ### § 3 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000400000)
 
 (1) Dieses Gesetz gilt für eine Europäische Genossenschaft mit Sitz im
 Inland. Es gilt unabhängig vom Sitz der Europäischen Genossenschaft
@@ -183,14 +187,17 @@ der Europäischen Union und die anderen Vertragsstaaten des Abkommens
 
 
 ## Teil 2 - Beteiligung der Arbeitnehmer in einer Europäischen Genossenschaft, die durch mindestens zwei juristische Personen oder durch Umwandlung gegründet wird
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000200000)
 
 
 
 ### Kapitel 1 - Bildung und Zusammensetzung des besonderen  Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000300000)
 
 
 
 #### § 4 Information der Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000500000)
 
 (1) Ist die Gründung einer Europäischen Genossenschaft durch
 mindestens zwei juristische Personen oder durch Umwandlung geplant,
@@ -232,6 +239,7 @@ Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 1.
 
 
 #### § 5 Zusammensetzung des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000600000)
 
 (1) Das besondere Verhandlungsgremium ist auf Grund einer
 schriftlichen Aufforderung der Leitungen zu bilden. Es hat die
@@ -284,6 +292,7 @@ Verhandlungsgremium zu informieren. § 4 gilt entsprechend.
 
 
 #### § 6 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000700000)
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen
 Verhandlungsgremiums richten sich nach den jeweiligen Bestimmungen der
@@ -308,6 +317,7 @@ leitender Angestellter.
 
 
 #### § 7 Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000800000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums nach § 5 erfolgt nach den jeweiligen Bestimmungen
@@ -342,10 +352,12 @@ Personen betroffen, gelten die Absätze 2 bis 4 entsprechend.
 
 
 ### Kapitel 2 - Wahlgremium
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000400000)
 
 
 
 #### § 8 Zusammensetzung des Wahlgremiums; Urwahl
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE000900000)
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen
 Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der
@@ -430,6 +442,7 @@ Wahlberechtigte. Absatz 1 Satz 2 bis 6 gilt entsprechend.
 
 
 #### § 9 Einberufung des Wahlgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001000000)
 
 (1) Auf der Grundlage der von den Leitungen erhaltenen Informationen
 hat der Vorsitzende der Arbeitnehmervertretung auf Konzernebene oder,
@@ -454,6 +467,7 @@ Arbeitnehmervertretung, die die meisten Arbeitnehmer vertritt.
 
 
 #### § 10 Wahl der Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001100000)
 
 (1) Bei der Wahl müssen mindestens zwei Drittel der Mitglieder des
 Wahlgremiums, die mindestens zwei Drittel der Arbeitnehmer vertreten,
@@ -476,10 +490,12 @@ Mitglieder des Wahlgremiums.
 
 
 ### Kapitel 3 - Verhandlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000500000)
 
 
 
 #### § 11 Information über die Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001200000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums soll innerhalb von zehn Wochen nach der in § 4
@@ -500,6 +516,7 @@ Verhandlungsverfahren beteiligen.
 
 
 #### § 12 Sitzungen, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001300000)
 
 (1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder
 oder im Fall des § 11 nach Ablauf der in § 11 Abs. 1 Satz 1 genannten
@@ -513,6 +530,7 @@ schriftliche Geschäftsordnung geben.
 
 
 #### § 13 Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001400000)
 
 (1) Das besondere Verhandlungsgremium schließt mit den Leitungen eine
 schriftliche Vereinbarung über die Beteiligung der Arbeitnehmer in der
@@ -530,6 +548,7 @@ einvernehmlich festgelegt.
 
 
 #### § 14 Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001500000)
 
 (1) Das besondere Verhandlungsgremium kann bei den Verhandlungen
 Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen
@@ -545,6 +564,7 @@ Verhandlungen zu unterrichten.
 
 
 #### § 15 Beschlussfassung im besonderen Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001600000)
 
 (1) Die Mitglieder des besonderen Verhandlungsgremiums, die in einem
 Mitgliedstaat gewählt oder bestellt werden, vertreten alle in dem
@@ -600,6 +620,7 @@ kann ein Beschluss nach Absatz 3 nicht gefasst werden.
 
 
 #### § 16 Nichtaufnahme oder Abbruch der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001700000)
 
 (1) Das besondere Verhandlungsgremium kann beschließen, keine
 Verhandlungen aufzunehmen oder bereits aufgenommene Verhandlungen
@@ -623,6 +644,7 @@ zustehen.
 
 
 #### § 17 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001800000)
 
 In eine Niederschrift, die vom Vorsitzenden und einem weiteren
 Mitglied des besonderen Verhandlungsgremiums zu unterzeichnen ist,
@@ -644,6 +666,7 @@ Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
 
 
 #### § 18 Wiederaufnahme der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE001900000)
 
 (1) Frühestens zwei Jahre nach dem Beschluss nach § 16 Abs. 1 wird auf
 schriftlichen Antrag von mindestens 10 Prozent der Arbeitnehmer der
@@ -682,6 +705,7 @@ die Leitung der Europäischen Genossenschaft tritt.
 
 
 #### § 19 Kosten des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002000000)
 
 Die durch die Bildung und Tätigkeit des besonderen
 Verhandlungsgremiums entstehenden erforderlichen Kosten tragen die
@@ -694,6 +718,7 @@ besonderen Verhandlungsgremiums zu tragen.
 
 
 #### § 20 Dauer der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002100000)
 
 (1) Die Verhandlungen beginnen mit der Einsetzung des besonderen
 Verhandlungsgremiums und können bis zu sechs Monate dauern. Einsetzung
@@ -707,10 +732,12 @@ fortzusetzen.
 
 
 ### Kapitel 4 - Beteiligung der Arbeitnehmer kraft Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000600000)
 
 
 
 #### § 21 Inhalt der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002200000)
 
 (1) In der schriftlichen Vereinbarung zwischen den Leitungen und dem
 besonderen Verhandlungsgremium wird, unbeschadet der Autonomie der
@@ -792,18 +819,22 @@ monistischen Organisationsstruktur und umgekehrt.
 
 
 ### Kapitel 5 - Beteiligung der Arbeitnehmer kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000700000)
 
 
 
 #### Abschnitt 1 - SCE-Betriebsrat kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000800000)
 
 
 
 ##### Unterabschnitt 1 - Bildung und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG000900000)
 
 
 
 ###### § 22 Voraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002300000)
 
 (1) Die §§ 23 bis 33 über den SCE-Betriebsrat kraft Gesetzes finden ab
 dem Zeitpunkt der Eintragung der Europäischen Genossenschaft
@@ -823,6 +854,7 @@ Anwendung, wenn
 
 
 ###### § 23 Errichtung des SCE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002400000)
 
 (1) Zur Sicherung des Rechts auf Unterrichtung und Anhörung in der
 Europäischen Genossenschaft ist ein SCE-Betriebsrat zu errichten.
@@ -863,6 +895,7 @@ SCE-Betriebsrats (geschäftsführender Ausschuss).
 
 
 ###### § 24 Sitzungen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002500000)
 
 (1) Der SCE-Betriebsrat soll sich eine schriftliche Geschäftsordnung
 geben, die er mit der Mehrheit seiner Mitglieder beschließt.
@@ -882,6 +915,7 @@ Mehrheit der anwesenden Mitglieder gefasst.
 
 
 ###### § 25 Prüfung der Zusammensetzung des SCE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002600000)
 
 Alle zwei Jahre, vom Tag der konstituierenden Sitzung des SCE-
 Betriebsrats an gerechnet, hat die Leitung der Europäischen
@@ -899,6 +933,7 @@ Mitgliedstaaten.
 
 
 ###### § 26 Beschluss zur Aufnahme von Neuverhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002700000)
 
 (1) Spätestens vier Jahre nach seiner Einsetzung hat der SCE-
 Betriebsrat mit der Mehrheit seiner Mitglieder einen Beschluss darüber
@@ -913,10 +948,12 @@ die bisherige Regelung weiter Anwendung.
 
 
 ##### Unterabschnitt 2 - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001000000)
 
 
 
 ###### § 27 Zuständigkeiten des SCE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002800000)
 
 Der SCE-Betriebsrat ist zuständig für die Angelegenheiten, die die
 Europäische Genossenschaft selbst, eine ihrer Tochtergesellschaften
@@ -926,6 +963,7 @@ einzelnen Mitgliedstaats hinausgehen.
 
 
 ###### § 28 Jährliche Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE002900000)
 
 (1) Die Leitung der Europäischen Genossenschaft hat den SCE-
 Betriebsrat mindestens einmal im Kalenderjahr in einer gemeinsamen
@@ -991,6 +1029,7 @@ Leitungen über Ort und Tag der Sitzung.
 
 
 ###### § 29 Unterrichtung und Anhörung über außergewöhnliche Umstände
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003000000)
 
 (1) Über außergewöhnliche Umstände, die erhebliche Auswirkungen auf
 die Interessen der Arbeitnehmer haben, hat die Leitung der
@@ -1033,6 +1072,7 @@ herbeizuführen.
 
 
 ###### § 30 Information durch den SCE-Betriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003100000)
 
 Der SCE-Betriebsrat informiert die Arbeitnehmervertreter der
 Europäischen Genossenschaft, ihrer Tochtergesellschaften und ihrer
@@ -1042,10 +1082,12 @@ die Arbeitnehmer zu informieren.
 
 
 ##### Unterabschnitt 3 - Freistellung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001100000)
 
 
 
 ###### § 31 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003200000)
 
 Der SCE-Betriebsrat kann Mitglieder zur Teilnahme an Schulungs- und
 Bildungsveranstaltungen bestimmen, soweit diese Kenntnisse vermitteln,
@@ -1057,6 +1099,7 @@ zu berücksichtigen.
 
 
 ###### § 32 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003300000)
 
 Der SCE-Betriebsrat oder der geschäftsführende Ausschuss können sich
 durch Sachverständige ihrer Wahl unterstützen lassen, soweit dies zur
@@ -1065,6 +1108,7 @@ Sachverständige können auch Vertreter von Gewerkschaften sein.
 
 
 ###### § 33 Kosten und Sachaufwand
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003400000)
 
 Die durch die Bildung und Tätigkeit des SCE-Betriebsrats und des
 geschäftsführenden Ausschusses entstehenden erforderlichen Kosten
@@ -1073,10 +1117,12 @@ entsprechend.
 
 
 #### Abschnitt 2 - Mitbestimmung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001200000)
 
 
 
 ##### § 34 Besondere Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003500000)
 
 (1) Liegen die Voraussetzungen des § 22 vor, finden die Regelungen
 über die Mitbestimmung der Arbeitnehmer kraft Gesetzes nach den §§ 35
@@ -1152,6 +1198,7 @@ Buchstabe b und Absatz 2 Satz 1 gefasst hat.
 
 
 ##### § 35 Umfang der Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003600000)
 
 (1) Liegen die Voraussetzungen des § 34 Abs. 1 Nr. 1 (Gründung einer
 Europäischen Genossenschaft durch Umwandlung) vor, bleibt die Regelung
@@ -1173,6 +1220,7 @@ Eintragung der Europäischen Genossenschaft bestanden hat.
 
 
 ##### § 36 Sitzverteilung und Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003700000)
 
 (1) Der SCE-Betriebsrat verteilt die Zahl der Sitze im Aufsichts- oder
 Verwaltungsorgan der Europäischen Genossenschaft auf die
@@ -1215,6 +1263,7 @@ Vorschläge gebunden.
 
 
 ##### § 37 Abberufung und Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003800000)
 
 (1) Ein Mitglied oder ein Ersatzmitglied der Arbeitnehmer aus dem
 Inland im Aufsichts- oder Verwaltungsorgan der Europäischen
@@ -1259,6 +1308,7 @@ erhoben werden.
 
 
 ##### § 38 Rechtsstellung; Innere Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE003900000)
 
 (1) Die Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der
 Europäischen Genossenschaft haben die gleichen Rechte und Pflichten
@@ -1280,10 +1330,12 @@ Arbeitnehmervertreter zu wählen.
 
 
 #### Abschnitt 3 - Tendenzschutz
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001300000)
 
 
 
 ##### § 39 Tendenzunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004000000)
 
 (1) Auf eine Europäische Genossenschaft, die unmittelbar und
 überwiegend
@@ -1308,10 +1360,12 @@ entstehen.
 
 
 ## Teil 3 - Beteiligung der Arbeitnehmer in einer Europäischen  Genossenschaft, an deren Gründung natürliche Personen beteiligt sind
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001400000)
 
 
 
 ### § 40 Gründung einer Europäischen Genossenschaft durch mindestens zwei juristische Personen zusammen mit natürlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004100000)
 
 Erfolgt die Gründung einer Europäischen Genossenschaft durch
 mindestens zwei juristische Personen zusammen mit natürlichen
@@ -1319,6 +1373,7 @@ Personen, finden die §§ 1 bis 39 entsprechende Anwendung.
 
 
 ### § 41 Gründung einer Europäischen Genossenschaft durch ausschließlich natürliche Personen oder durch nur eine juristische Person zusammen mit natürlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004200000)
 
 (1) Wird eine Europäische Genossenschaft ausschließlich von
 natürlichen Personen oder von nur einer juristischen Person zusammen
@@ -1374,10 +1429,12 @@ dasselbe Niveau an Mitbestimmungsrechten zu gewährleisten.
 
 
 ## Teil 4 - Grundsätze der Zusammenarbeit und Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001500000)
 
 
 
 ### § 42 Vertrauensvolle Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004300000)
 
 Die Leitung der Europäischen Genossenschaft und der SCE-Betriebsrat
 oder die Arbeitnehmervertreter im Rahmen eines Verfahrens zur
@@ -1386,6 +1443,7 @@ Unternehmens oder der Unternehmensgruppe vertrauensvoll zusammen.
 
 
 ### § 43 Geheimhaltung; Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004400000)
 
 (1) Informationspflichten der Leitungen und der Leitung der
 Europäischen Genossenschaft nach diesem Gesetz bestehen nur, soweit
@@ -1467,6 +1525,7 @@ Die Pflicht zur Vertraulichkeit gilt ferner nicht für
 
 
 ### § 44 Schutz der Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004500000)
 
 Bei der Wahrnehmung ihrer Aufgaben genießen die
 
@@ -1497,6 +1556,7 @@ Entgeltfortzahlung.
 
 
 ### § 45 Missbrauchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004600000)
 
 Eine Europäische Genossenschaft darf nicht dazu missbraucht werden,
 den Arbeitnehmern Beteiligungsrechte zu entziehen oder vorzuenthalten.
@@ -1508,6 +1568,7 @@ werden.
 
 
 ### § 46 Errichtungs- und Tätigkeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004700000)
 
 Niemand darf
 
@@ -1536,10 +1597,12 @@ Niemand darf
 
 
 ## Teil 5 - Straf- und Bußgeldvorschriften; Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNG001600000)
 
 
 
 ### § 47 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004800000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1586,6 +1649,7 @@ antragsberechtigt.
 
 
 ### § 48 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE004900000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1605,6 +1669,7 @@ zwanzigtausend Euro geahndet werden.
 
 
 ### § 49 Geltung nationalen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE005000000)
 
 (1) Dieses Gesetz berührt nicht die den Arbeitnehmern nach
 inländischen Rechtsvorschriften und Regelungen zustehenden
@@ -1629,6 +1694,7 @@ weiterhin wahrnehmen können.
 
 
 ### § 50 Sonderregelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/scebg/BJNR191700006.html#BJNR191700006BJNE005105126)
 
 Bis zum Ablauf des 7. April 2023 können im Rahmen der Unterrichtung
 und Anhörung die Teilnahme an Sitzungen eines SCE-Betriebsrats oder

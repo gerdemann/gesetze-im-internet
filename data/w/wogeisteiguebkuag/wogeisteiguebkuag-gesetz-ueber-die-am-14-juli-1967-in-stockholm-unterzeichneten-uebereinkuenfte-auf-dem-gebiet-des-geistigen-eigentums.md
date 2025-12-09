@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wogeisteig_bkuag/BJNR202930970.html#BJNR202930970BJNE000100307)
 
 Den folgenden von der Bundesrepublik Deutschland am 14. Juli 1967 in
 Stockholm unterzeichneten Übereinkünften wird zugestimmt:
@@ -66,6 +67,7 @@ Die Übereinkünfte werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wogeisteig_bkuag/BJNR202930970.html#BJNR202930970BJNE000300307)
 
 Änderungen der Ausführungsordnung und Festsetzungen der Höhe von
 Gebühren, die die Versammlung des Verbandes für die internationale
@@ -76,6 +78,7 @@ Bundesgesetzblatt bekanntzumachen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wogeisteig_bkuag/BJNR202930970.html#BJNR202930970BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -26,6 +26,7 @@ Das g tritt gem. art. 10 g v. 10.12.2019 i 2121 am 1.7.2021 in kraft. das inkraf
 
 
 ## § 1 Allgemeine Beeidigung gerichtlicher Dolmetscher
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000103125)
 
 Dolmetscher, die nach § 185 des Gerichtsverfassungsgesetzes, auch in
 Verbindung mit § 55 der Verwaltungsgerichtsordnung, § 52 Absatz 1 der
@@ -37,6 +38,7 @@ Gerichtsverfassungsgesetzes bleibt unberührt.
 
 
 ## § 2 Zuständigkeit für die allgemeine Beeidigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000203125)
 
 (1) Für die allgemeine Beeidigung von gerichtlichen Dolmetschern ist
 zuständig:
@@ -59,6 +61,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ## § 3 Antrag auf allgemeine Beeidigung
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000302125)
 
 (1) Als gerichtlicher Dolmetscher für eine Sprache oder mehrere
 Sprachen wird von der nach § 2 zuständigen Stelle auf Antrag allgemein
@@ -152,6 +155,7 @@ Fristablauf nach Absatz 4 Satz 2 gehemmt.
 
 
 ## § 4 Alternativer Befähigungsnachweis; gleichwertige Qualifikationen nach der Berufsanerkennungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000402125)
 
 (1) Die nach § 3 Absatz 1 Nummer 6 erforderlichen Fachkenntnisse
 können statt mit einer bestandenen Prüfung nach § 3 Absatz 2 Satz 1
@@ -213,6 +217,7 @@ oder teilweise vergleichbar sind.
 
 
 ## § 5 Beeidigung des Dolmetschers
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000502125)
 
 (1) Der Dolmetscher hat einen Eid dahin zu leisten, dass er treu und
 gewissenhaft übertragen werde.
@@ -236,6 +241,7 @@ mitzuteilen oder sie zum Nachteil anderer zu verwerten.
 
 
 ## § 6 Bezeichnung der allgemein beeidigten Gerichtsdolmetscher
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000602125)
 
 Die Bezeichnung „allgemein beeidigter Gerichtsdolmetscher für …
 [Angabe der Sprache, für die er beeidigt ist]“ oder die Bezeichnung
@@ -245,6 +251,7 @@ beeidigt ist.
 
 
 ## § 7 Befristung der allgemeinen Beeidigung; Verlängerung; Verzicht; Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000702125)
 
 (1) Die allgemeine Beeidigung endet nach fünf Jahren. Sie wird auf
 Antrag des Dolmetschers jeweils um weitere fünf Jahre verlängert, wenn
@@ -285,6 +292,7 @@ Richtlinie 2005/36/EG geregelten Befugnisse und Verpflichtungen wahr.
 
 
 ## § 8 Verlust und Rückgabe der Beeidigungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000802125)
 
 (1) Der Verlust der Beeidigungsurkunde ist dem Aussteller und der nach
 § 2 zuständigen Stelle unverzüglich mitzuteilen.
@@ -311,6 +319,7 @@ die Beeidigung
 
 
 ## § 9 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE000902125)
 
 (1) Die nach § 2 zuständige Stelle darf die für die allgemeine
 Beeidigung erforderlichen personenbezogenen Daten sowie die Angaben
@@ -344,6 +353,7 @@ Widerruf der allgemeinen Beeidigung zu löschen.
 
 
 ## § 10 Anzeigepflichten des allgemein beeidigten Dolmetschers
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE001002125)
 
 (1) Der allgemein beeidigte Dolmetscher hat der nach § 2 zuständigen
 Stelle unverzüglich die Änderung seiner personenbezogenen Daten gemäß
@@ -363,6 +373,7 @@ Stelle über.
 
 
 ## § 11 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE001102125)
 
 (1) Ordnungswidrig handelt, wer sich unbefugt als „allgemein
 beeidigter Gerichtsdolmetscher“ oder „allgemein beeidigte
@@ -374,6 +385,7 @@ Euro geahndet werden.
 
 
 ## § 12 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gdolmg/BJNR212400019.html#BJNR212400019BJNE001202125)
 
 Für die Beeidigung und die Verlängerung der Beeidigung von
 Dolmetschern werden Kosten nach den jeweiligen landesrechtlichen

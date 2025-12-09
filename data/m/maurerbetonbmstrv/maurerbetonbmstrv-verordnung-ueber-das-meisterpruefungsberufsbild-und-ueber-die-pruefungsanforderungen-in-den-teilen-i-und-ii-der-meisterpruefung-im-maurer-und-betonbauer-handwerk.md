@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000100000)
 
 Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
@@ -32,6 +33,7 @@ Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000200000)
 
 Die Meisterprüfung im zulassungspflichtigen Maurer- und Betonbauer-
 Handwerk umfasst folgende selbständige Prüfungsteile:
@@ -55,6 +57,7 @@ Handwerk umfasst folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000300000)
 
 (1) Durch die Meisterprüfung im Maurer- und Betonbauer-Handwerk wird
 festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb
@@ -191,6 +194,7 @@ Qualifikationen zu berücksichtigen:
 
 
 ## § 3 Gliederung, Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000400000)
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -222,6 +226,7 @@ worden sein darf.
 
 
 ## § 4 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000500000)
 
 (1) Der Prüfling hat eine Meisterprüfungsarbeit anzufertigen, die
 einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt
@@ -266,6 +271,7 @@ Fall die Arbeiten nach den Nummern 1 und 2:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000600000)
 
 Auf der Grundlage der Prüfungsleistungen in der Meisterprüfungsarbeit
 wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er
@@ -277,6 +283,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000700000)
 
 (1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis
 für das Maurer- und Betonbauer-Handwerk.
@@ -345,6 +352,7 @@ gebildet.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000801360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung
 technologischer, ablauf- und verfahrenstechnischer,
@@ -583,6 +591,7 @@ Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE000902128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -593,6 +602,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE001001360)
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -600,6 +610,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/maurerbetonbmstrv/BJNR230700004.html#BJNR230700004BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 

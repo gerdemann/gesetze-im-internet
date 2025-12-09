@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2000/BJNR254410999.html#BJNR254410999BJNE000100310)
 
 Der Beitragssatz für das Jahr 2000 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,3 vom Hundert und in der
@@ -26,6 +27,7 @@ knappschaftlichen Rentenversicherung 25,6 vom Hundert.
 
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsg_2000/BJNR254410999.html#BJNR254410999BJNE000200310)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
 Beitragssatzes für das Jahr 2000 berechneten Faktoren betragen im

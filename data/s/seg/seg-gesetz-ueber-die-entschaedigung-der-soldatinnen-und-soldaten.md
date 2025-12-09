@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Das G tritt gem. Art. 90 Abs. 1 G v. 20.8.2021 I 3932 am 1.1.2025 in Kraft. Gem. Art. 90 Abs. 4 Satz 1 dieses G treten § 6 Abs. 5 u. § 18 Abs. 2 am 1.10.2021 in Kraft.
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000100000)
 
 
 ### § 1 Persönlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000201000)
 
 Dieses Gesetz gilt für
 
@@ -37,6 +39,7 @@ Dieses Gesetz gilt für
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000301377)
 
 (1) Geschädigte Person ist eine Person, die eine
 Wehrdienstbeschädigung erlitten hat.
@@ -112,6 +115,7 @@ Pflegeverhältnis zu den Eltern nicht mehr besteht.
 
 
 ### § 3 Wehrdienstbeschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000401377)
 
 (1) Eine Wehrdienstbeschädigung liegt vor, wenn die primäre
 Gesundheitsstörung durch eines der folgenden schädigenden Ereignisse
@@ -235,6 +239,7 @@ Körper getragenen Hilfsmittels vorliegt.
 
 
 ### § 4 Besondere Fallgestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000500000)
 
 (1) Als Wehrdienstbeschädigung gilt die bei einer Verwendung im
 Ausland außerhalb des Dienstes erlittene primäre Gesundheitsstörung,
@@ -306,6 +311,7 @@ ausgeschlossen.
 
 
 ### § 5 Anerkennung der Schädigungsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000600000)
 
 (1) Als Schädigungsfolge wird die sekundäre Gesundheitsstörung
 anerkannt, die in ursächlichem Zusammenhang mit der
@@ -348,6 +354,7 @@ für die Zeit nach Beendigung des Wehrdienstverhältnisses fort.
 
 
 ### § 6 Grad der Schädigungsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000702377)
 
 (1) Ist für eine geschädigte Person die Schädigungsfolge anerkannt
 worden, so wird für sie der Grad der Schädigungsfolgen festgesetzt.
@@ -393,6 +400,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 ### § 7 Leistungen der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000801000)
 
 (1) Eine geschädigte Person hat wegen der anerkannten Schädigungsfolge
 und deren wirtschaftlicher Folgen Anspruch auf folgende Leistungen:
@@ -446,6 +454,7 @@ einer geschädigten Person bezahlt hat.
 
 
 ### § 8 Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE000900000)
 
 (1) Leistungen nach diesem Gesetz werden auf Antrag gewährt.
 
@@ -455,6 +464,7 @@ Amts wegen eingeleitet werden.
 
 
 ### § 9 Anspruchskonkurrenz
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001000000)
 
 Ansprüche auf Leistungen der Soldatenentschädigung gehen Ansprüchen
 auf Leistungen der Sozialen Entschädigung vor, soweit sie auf
@@ -462,6 +472,7 @@ derselben Ursache beruhen.
 
 
 ### § 10 Verhältnis zu Leistungen anderer Träger
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001101377)
 
 (1) Die Leistungen der Soldatenentschädigung gehen Leistungen anderer
 Träger, insbesondere anderer Sozialleistungsträger, vor.
@@ -477,9 +488,11 @@ nicht anzurechnen.
 
 
 ## Kapitel 2 - Ausgleich für gesundheitliche Schädigungsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000201000)
 
 
 ### § 11 Ausgleich für gesundheitliche Schädigungsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001203129)
 
 (1) Geschädigte Personen erhalten einen Ausgleich für gesundheitliche
 Schädigungsfolgen als monatliche Zahlung in Höhe von
@@ -511,6 +524,7 @@ einen Grad der Schädigungsfolgen von 100 und zusätzlich von mindestens
 
 
 ### § 12 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001301377)
 
 (1) Einer geschädigten Person, die das 18. Lebensjahr vollendet hat
 und einen Anspruch auf eine monatliche Zahlung nach § 11 Absatz 1 hat,
@@ -531,6 +545,7 @@ Entschädigungszahlungen für die Dauer von fünf Jahren abgegolten.
 
 
 ### § 13 Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001400000)
 
 (1) Die Höhe der monatlichen Zahlungen nach § 11 Absatz 1 wird jeweils
 entsprechend dem Prozentsatz angepasst, um den sich der aktuelle
@@ -545,12 +560,15 @@ der gesetzlichen Rentenversicherung angepasst werden.
 
 
 ## Kapitel 3 - Leistungen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000300000)
 
 
 ### Abschnitt 1 - Medizinische Versorgung während des Wehrdienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000401000)
 
 
 #### § 14 Medizinische Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001501000)
 
 Für die anerkannte Schädigungsfolge erhalten Soldatinnen und Soldaten
 während des Wehrdienstverhältnisses Leistungen der medizinischen
@@ -559,12 +577,15 @@ nach § 69a des Bundesbesoldungsgesetzes.
 
 
 ### Abschnitt 2 - Medizinische Versorgung außerhalb des Wehrdienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000500000)
 
 
 #### Unterabschnitt 1 - Grundsatz und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000600000)
 
 
 ##### § 15 Grundsätze der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001601000)
 
 (1) Für die anerkannte Schädigungsfolge erhalten geschädigte Personen,
 die sich nicht im Wehrdienstverhältnis befinden, medizinische
@@ -596,6 +617,7 @@ dieses Gesetz nichts anderes bestimmt.
 
 
 ##### § 16 Katalog der Leistungen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001701377)
 
 Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 
@@ -657,6 +679,7 @@ Die Leistungen der medizinischen Versorgung umfassen insbesondere:
 
 
 ##### § 17 Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001801129)
 
 (1) § 44 des Siebten Buches Sozialgesetzbuch gilt entsprechend. Für
 die Berechnung der Höhe des Pflegegeldes ist ein Mindestbetrag von 467
@@ -673,6 +696,7 @@ Minderung außer Betracht.
 
 
 ##### § 18 Leistungen zur Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE001901000)
 
 (1) Für die Leistungen zur Mobilität gilt § 40 des Siebten Buches
 Sozialgesetzbuch entsprechend.
@@ -690,9 +714,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes zu regeln:
 
 
 #### Unterabschnitt 2 - Krankengeld der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000701000)
 
 
 ##### § 19 Krankengeld der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002002377)
 
 (1) Geschädigte Personen, die infolge der anerkannten Schädigungsfolge
 arbeitsunfähig sind, erhalten Krankengeld der Soldatenentschädigung.
@@ -728,6 +754,7 @@ nach diesem Gesetz eintritt.
 
 
 ##### § 20 Berechnung und Höhe des Krankengeldes der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002101377)
 
 (1) Das Krankengeld der Soldatenentschädigung beträgt 80 Prozent des
 erzielten regelmäßigen Entgelts (Regelentgelt) und darf das entgangene
@@ -763,6 +790,7 @@ Neunten Buches Sozialgesetzbuch angepasst.
 
 
 ##### § 21 Beginn und Ende des Krankengeldes der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002200000)
 
 (1) Das Krankengeld der Soldatenentschädigung ist von dem Tag an zu
 erbringen, von dem an die Voraussetzungen des § 19 erfüllt sind, wenn
@@ -828,6 +856,7 @@ sind, endet das Krankengeld der Soldatenentschädigung
 
 
 ##### § 22 Krankengeld der Soldatenentschädigung bei Wiedererkrankung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002300000)
 
 Im Fall einer Wiedererkrankung gelten die §§ 19 bis 21 mit der Maßgabe
 entsprechend, dass anstelle des Zeitpunkts der ersten
@@ -836,6 +865,7 @@ ist.
 
 
 ##### § 23 Ruhen des Anspruchs auf Krankengeld der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002400000)
 
 (1) Der Anspruch ruht, solange die geschädigte Person
 Mutterschaftsgeld, Arbeitslosengeld oder Kurzarbeitergeld bezieht.
@@ -851,6 +881,7 @@ durch Erwerbstätigkeit während der Elternzeit erzielt wurde.
 
 
 ##### § 24 Kürzung des Krankengeldes der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002501377)
 
 Das Krankengeld der Soldatenentschädigung wird um die Zahlbeträge der
 folgenden Leistungen gekürzt, wenn die Leistungen von einem Zeitpunkt
@@ -869,6 +900,7 @@ an zuerkannt werden:
 
 
 ##### § 25 Soziale Sicherung der Bezieher von Krankengeld der Soldatenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002600000)
 
 (1) Personen sind in der Zeit, in der sie Krankengeld der
 Soldatenentschädigung beziehen,
@@ -927,9 +959,11 @@ rentenversicherungspflichtig wäre.
 
 
 #### Unterabschnitt 3 - Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000801000)
 
 
 ##### § 26 Erstattung der Kosten selbstbeschaffter Maßnahmen der medizinischen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002702377)
 
 (1) Entstehen der geschädigten Person Kosten für eine selbstbeschaffte
 notwendige Leistung der medizinischen Versorgung der Schädigungsfolge
@@ -965,6 +999,7 @@ des Neunten Buches Sozialgesetzbuch erstattet.
 
 
 ##### § 27 Erstattung von Kosten für medizinische Versorgung bei vorübergehendem Auslandsaufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002800000)
 
 (1) Geschädigten Personen werden bei einem vorübergehenden Aufenthalt
 im Ausland die Kosten einer im Ausland notwendigen medizinischen
@@ -1007,12 +1042,15 @@ solange sie daran gehindert war, die Zustimmung einzuholen.
 
 
 ## Kapitel 4 - Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG000901000)
 
 
 ### Abschnitt 1 - Grundsatz und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001000000)
 
 
 #### § 28 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE002901000)
 
 Geschädigte Personen erhalten Leistungen zur Teilhabe am Arbeitsleben,
 wenn sie diese auf Grund der anerkannten Schädigungsfolge benötigen,
@@ -1022,6 +1060,7 @@ dadurch ihre Teilhabe am Arbeitsleben möglichst auf Dauer zu sichern.
 
 
 #### § 29 Umfang der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003000000)
 
 (1) Die Leistungen für geschädigte Personen, die sich nicht in einem
 Wehrdienstverhältnis befinden, werden nach Maßgabe der §§ 49 bis 59
@@ -1061,6 +1100,7 @@ Arbeitsleben auch die notwendigen Leistungen zur Teilhabe an Bildung.
 
 
 #### § 30 Übergangsgeld bei Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003101377)
 
 (1) Geschädigte Personen, die sich nicht in einem Wehrdienstverhältnis
 befinden, erhalten Übergangsgeld für die Dauer einer Maßnahme zur
@@ -1082,6 +1122,7 @@ gelten entsprechend.
 
 
 #### § 31 Soziale Sicherung der Bezieher von Übergangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003200000)
 
 Für die Zeit des Bezugs von Übergangsgeld werden zusätzlich Leistungen
 zur Alterssicherung entsprechend § 25 Absatz 1 Nummer 2, Absatz 2 und
@@ -1089,9 +1130,11 @@ zur Alterssicherung entsprechend § 25 Absatz 1 Nummer 2, Absatz 2 und
 
 
 ### Abschnitt 2 - Ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001100000)
 
 
 #### § 32 Ergänzende Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003300000)
 
 Leistungen zur Teilhabe am Arbeitsleben nach den §§ 6 bis 10 des
 Soldatenversorgungsgesetzes, nach § 3 des Einsatz-
@@ -1119,9 +1162,11 @@ soweit diese nicht bereits anderweitig erbracht werden.
 
 
 ## Kapitel 5 - Soziale Teilhabe und besondere Leistungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001201000)
 
 
 ### § 33 Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003401000)
 
 (1) Geschädigte Personen erhalten Leistungen zur Sozialen Teilhabe und
 ergänzende Leistungen, um ihnen eine gleichberechtigte Teilhabe am
@@ -1164,6 +1209,7 @@ Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern, wenn
 
 
 ### § 34 Leistungen der Eingliederungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003500000)
 
 Geschädigte Personen, die auf Grund der anerkannten Schädigungsfolge
 Eingliederungshilfe benötigen, erhalten die Leistungen der
@@ -1174,6 +1220,7 @@ Leistungen nach diesem Gesetz nach.
 
 
 ### § 35 Leistungen zur Überwindung besonderer sozialer Schwierigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003600000)
 
 (1) Geschädigte Personen, bei denen auf Grund der anerkannten
 Schädigungsfolge eine besondere Lebenslage vorliegt, die mit sozialen
@@ -1190,6 +1237,7 @@ Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 36 Leistungen in sonstigen Lebenslagen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003700000)
 
 Leistungen können zur Deckung des schädigungsbedingten Bedarfs auch in
 sonstigen Lebenslagen erbracht werden, wenn sie den Einsatz
@@ -1198,9 +1246,11 @@ rechtfertigen.
 
 
 ## Kapitel 6 - Erwerbsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001301000)
 
 
 ### § 37 Anspruch auf Erwerbsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003802377)
 
 (1) Hat die geschädigte Person, die sich nicht in einem
 Wehrdienstverhältnis befindet, einen Erwerbsschaden infolge der
@@ -1233,6 +1283,7 @@ angepasst.
 
 
 ### § 38 Derzeitiges Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE003901377)
 
 Derzeitiges Einkommen sind die in § 18a des Vierten Buches
 Sozialgesetzbuch genannten Einkommensarten, mit Ausnahme der in § 18a
@@ -1242,6 +1293,7 @@ des Vierten Buches Sozialgesetzbuch gelten entsprechend.
 
 
 ### § 39 Referenzeinkommen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004002129)
 
 (1) Das monatliche Referenzeinkommen beträgt bei einer geschädigten
 Person
@@ -1330,6 +1382,7 @@ der gesetzlichen Rentenversicherung angepasst werden.
 
 
 ### § 40 Dauer des Bezugs von Erwerbsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004101377)
 
 Der Anspruch auf Erwerbsschadensausgleich endet mit Ablauf des
 Kalendermonats, der dem Kalendermonat vorausgeht, ab dem die
@@ -1362,6 +1415,7 @@ noch nicht erreicht hat.
 
 
 ### § 41 Soziale Sicherung der Erwerbsschadensausgleichsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004201377)
 
 (1) Die zuständige Behörde hat die Versicherungspflicht nach § 4
 Absatz 3 Satz 1 Nummer 3 des Sechsten Buches Sozialgesetzbuch für
@@ -1409,9 +1463,11 @@ Satz 1 des Elften Buches Sozialgesetzbuch hat.
 
 
 ## Kapitel 7 - Leistungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001401000)
 
 
 ### § 42 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004301000)
 
 (1) Ist der Tod der geschädigten Person Folge einer
 Wehrdienstbeschädigung oder stirbt die geschädigte Person an der
@@ -1425,6 +1481,7 @@ wurde.
 
 
 ### § 43 Ausgleichszahlung an Witwen und Witwer
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004402129)
 
 (1) Die Witwe oder der Witwer der geschädigten Person erhält eine
 monatliche Ausgleichszahlung in Höhe von 778 Euro. § 13 gilt
@@ -1520,6 +1577,7 @@ Leistung und den Zeitraum, für den diese gezahlt wurde, ausstellt.
 
 
 ### § 44 Ausgleichszahlung an Waisen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004502129)
 
 (1) Waisen erhalten eine monatliche Ausgleichszahlung in Höhe von 415
 Euro. § 13 gilt entsprechend.
@@ -1535,6 +1593,7 @@ dem die Waise das 27. Lebensjahr vollendet.
 
 
 ### § 45 Ausgleichszahlung an Eltern
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004602129)
 
 (1) Ist die geschädigte Person an der Schädigungsfolge verstorben, so
 erhalten die Eltern eine monatliche Ausgleichszahlung, wenn sie
@@ -1564,6 +1623,7 @@ Elternteilen zu gleichen Teilen aufgeteilt.
 
 
 ### § 46 Leistungen zur Teilhabe am Arbeitsleben für Witwen und Witwer
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004700000)
 
 (1) Witwen und Witwer können einmalig Leistungen zur Teilhabe am
 Arbeitsleben entsprechend der §§ 28 bis 32 erhalten. Wenn unmittelbar
@@ -1577,9 +1637,11 @@ entsprechend.
 
 
 ## Kapitel 8 - Überführung und Bestattung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001501000)
 
 
 ### § 47 Überführung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004801000)
 
 (1) Verstirbt die geschädigte Person an der Schädigungsfolge, werden
 derjenigen Person, die die Überführung bezahlt hat, die
@@ -1596,6 +1658,7 @@ erbracht werden.
 
 
 ### § 48 Bestattung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE004900000)
 
 (1) Verstirbt die geschädigte Person an der Schädigungsfolge, werden
 derjenigen Person, die die Bestattung bezahlt hat, die
@@ -1613,9 +1676,11 @@ erbracht werden.
 
 
 ## Kapitel 9 - Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001601000)
 
 
 ### § 49 Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005002377)
 
 (1) Beim Tod der geschädigten Person wird Sterbegeld in Höhe des
 Zweifachen der monatlichen Zahlung des Ausgleichs für gesundheitliche
@@ -1650,9 +1715,11 @@ Sterbegeldes nach den §§ 56 und 59 des Soldatenversorgungsgesetzes.
 
 
 ## Kapitel 10 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001701000)
 
 
 ### § 50 Ausgleichszahlung an Partnerinnen und Partner einer verfestigten Lebensgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005102377)
 
 Die monatliche Ausgleichszahlung nach § 43 Absatz 1 erhalten auch
 Partnerinnen und Partner einer zum Zeitpunkt des Versterbens der
@@ -1668,6 +1735,7 @@ schädigungsbedingten Tod der geschädigten Person zu stellen ist.
 
 
 ### § 51 Erstattung von Kosten für psychotherapeutische Leistungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005200000)
 
 (1) Angehörigen und Hinterbliebenen werden die Kosten für
 psychotherapeutische Leistungen in angemessenem Umfang erstattet, wenn
@@ -1688,6 +1756,7 @@ psychotherapeutische Leistungen in angemessenem Umfang erstattet, wenn
 
 
 ### § 52 Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland für geschädigte Personen, die sich nicht in einem Wehrdienstverhältnis befinden
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005301377)
 
 (1) Geschädigte Personen, die sich nicht in einem Wehrdienstverhältnis
 befinden und ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland
@@ -1743,6 +1812,7 @@ Erwerbsschadensausgleich abgegolten.
 
 
 ### § 53 Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005400000)
 
 (1) Geschädigte Personen haben auf Grund der anerkannten
 Schädigungsfolge gegen den Bund nur die auf diesem Gesetz beruhenden
@@ -1771,6 +1841,7 @@ Soldatengesetzes bleiben unberührt.
 
 
 ### § 54 Erstattung von Sachschäden und besonderen Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005500000)
 
 (1) Werden bei einem während der Ausübung des Wehrdienstes erlittenen
 Unfall neben der gesundheitlichen Schädigung Kleidungsstücke oder
@@ -1796,6 +1867,7 @@ notwendigen Aufwendungen ausgeschlossen.
 
 
 ### § 55 Ansprüche gegen Schadensersatzpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005600000)
 
 (1) Für den Übergang eines Anspruchs der geschädigten Person auf
 Ersatz eines Schadens auf den Kostenträger der Soldatenentschädigung
@@ -1819,6 +1891,7 @@ Versorgung mit Arznei- und Verbandmitteln.
 
 
 ### § 56 Erstattung des fortgezahlten Arbeitsentgelts an den privaten Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005700000)
 
 (1) Ist die frühere Soldatin oder der frühere Soldat ab dem Tag nach
 dem Ende des auf einer Dienstpflicht beruhenden
@@ -1854,9 +1927,11 @@ Wehrdienstverhältnis beendet worden ist.
 
 
 ## Kapitel 11 - Härtefallregelung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001801000)
 
 
 ### § 57 Ausgleich in Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005801000)
 
 (1) Soweit sich im Einzelfall bei Vorliegen der anerkannten
 Schädigungsfolge aus der Anwendung dieses Gesetzes eine besondere
@@ -1872,12 +1947,15 @@ gleichgelagerten Fallgestaltungen allgemein zustimmen.
 
 
 ## Kapitel 12 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG001901000)
 
 
 ### Abschnitt 1 - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG002000000)
 
 
 #### § 58 Beweiserhebung und Beweiserleichterung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE005902377)
 
 (1) Ist eine notwendige Anhörung der geschädigten Person, der
 Hinterbliebenen oder anderer Personen vor der zuständigen Behörde mit
@@ -1902,6 +1980,7 @@ verlangt werden.
 
 
 #### § 59 Leistungsbeginn und vorläufige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006001377)
 
 (1) Bei erstmaligem Antrag auf Anerkennung der Schädigungsfolge sind
 Leistungen ab dem Kalendermonat zu erbringen, in dem die
@@ -1956,6 +2035,7 @@ beachten.
 
 
 #### § 60 Änderungen und Ende von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006101377)
 
 (1) Ändern sich aus tatsächlichen oder rechtlichen Gründen die
 Voraussetzungen für die Höhe einer Leistung nach ihrer Feststellung,
@@ -1981,6 +2061,7 @@ auf Leistungen nach diesem Gesetz wieder auf.
 
 
 #### § 61 Beginn der Leistungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006201377)
 
 (1) Die Leistungen an Hinterbliebene beginnen frühestens mit dem auf
 den Sterbemonat folgenden Kalendermonat. Kinder, die nach dem
@@ -1993,6 +2074,7 @@ schädigungsbedingten Tod der geschädigten Person zu stellen ist.
 
 
 #### § 62 Auszahlung, Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006301377)
 
 (1) In Ergänzung zu § 47 des Ersten Buches Sozialgesetzbuch gilt § 118
 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch entsprechend.
@@ -2003,6 +2085,7 @@ Kalendermonat vorausgeht, für den sie bestimmt sind.
 
 
 #### § 63 Umrechnung von ausländischem Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006401377)
 
 (1) Ist Einkommen zu berücksichtigen, das in fremder Währung erzielt
 wird, wird es nach dem Referenzkurs in Euro umgerechnet, den die
@@ -2044,12 +2127,14 @@ ermittelt.
 
 
 #### § 64 Pfändbarkeit von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006500000)
 
 Ansprüche auf Leistungen nach den §§ 11, 43 Absatz 1, §§ 44, 45, 50
 und 83 Absatz 1 können nicht gepfändet werden.
 
 
 #### § 65 Ruhensregelung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006601377)
 
 Soweit Ansprüche der geschädigten Person nach diesem Gesetz und
 Ansprüche der geschädigten Person aus dem Beamtenverhältnis nach der
@@ -2060,6 +2145,7 @@ beamtenrechtlichen Vorschriften über die Unfallfürsorge bestehen.
 
 
 #### § 66 Zuständigkeit und Kostentragung beim Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006700000)
 
 Für die Festsetzung nach § 6 Absatz 4 ist die Behörde zuständig, die
 auf Grund der weiteren Gesundheitsstörung über Ansprüche entscheidet.
@@ -2070,6 +2156,7 @@ gesundheitlichen Schädigung zuständig ist.
 
 
 #### § 67 Fallmanagement
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006800000)
 
 (1) Die zuständige Behörde führt auf Verlangen oder mit Einwilligung
 der geschädigten Person oder deren Hinterbliebenen ein Fallmanagement
@@ -2083,6 +2170,7 @@ Sozialgesetzbuch zu beachten.
 
 
 #### § 68 Erstattung von Leistungen durch öffentlich-rechtliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE006901377)
 
 (1) Hat die zuständige Behörde als Träger der Soldatenentschädigung
 Leistungen erbracht und stellt sich nachträglich heraus, dass eine
@@ -2106,12 +2194,14 @@ erstattet.
 
 
 #### § 69 Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007000000)
 
 Das Bundesministerium der Verteidigung erlässt die zur Durchführung
 dieses Gesetzes notwendigen allgemeinen Verwaltungsvorschriften.
 
 
 #### § 70 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007101377)
 
 (1) Die Durchführung der Aufgaben nach diesem Gesetz erfolgt durch die
 Bundeswehrverwaltung. Diese ist Träger der Soldatenentschädigung.
@@ -2147,9 +2237,11 @@ werden durch Vereinbarung geregelt.
 
 
 ### Abschnitt 2 - Vorverfahren und Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG002100000)
 
 
 #### § 71 Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007200000)
 
 (1) § 78 des Sozialgerichtsgesetzes gilt mit der Maßgabe, dass
 
@@ -2175,6 +2267,7 @@ Bundesgesetzblatt zu veröffentlichen.
 
 
 #### § 72 Rechtsweg und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007300000)
 
 (1) Das Bundessozialgericht entscheidet im ersten und letzten
 Rechtszug über Klagen von
@@ -2196,9 +2289,11 @@ Die allgemeine Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
 
 
 ## Kapitel 13 - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG002201000)
 
 
 ### § 73 Übermittlung zwischen der nach § 70 Absatz 1 zuständigen Behörde und der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007401000)
 
 Die im Rahmen der Aufgabenerfüllung nach diesem Gesetz erhobenen und
 gespeicherten Sozialdaten dürfen im Rahmen der Aufgabenerfüllung nach
@@ -2209,6 +2304,7 @@ Sozialgesetzbuch.
 
 
 ### § 74 Erhebung, Speicherung und Übermittlung von Daten durch Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte und Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007500000)
 
 Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Psychologische
 Psychotherapeutinnen und Psychologische Psychotherapeuten, die nach
@@ -2226,6 +2322,7 @@ Satz 1 genannten Stellen.
 
 
 ### § 75 Auskunftspflicht von Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten und Psychotherapeutinnen und Psychotherapeuten
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007600000)
 
 Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Psychologische
 Psychotherapeutinnen und Psychologische Psychotherapeuten, die nicht
@@ -2244,6 +2341,7 @@ Sozialgesetzbuch gilt entsprechend.
 
 
 ### § 76 Auskunftspflicht der Krankenkassen und privaten Krankenversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007700000)
 
 Die nach § 70 Absatz 1 zuständige Behörde und die Unfallversicherung
 Bund und Bahn können von den Krankenkassen und privaten
@@ -2259,6 +2357,7 @@ Zusammenhang stehen können.
 
 
 ### § 77 Übermittlung innerhalb der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007800000)
 
 (1) Die nach § 70 Absatz 1 zuständige Behörde teilt der nach dem
 Soldatengesetz für die Führung der Gesundheitsakte zuständigen Stelle
@@ -2274,6 +2373,7 @@ Fälle einer möglichen Wehrdienstbeschädigung anzuzeigen.
 
 
 ### § 78 Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE007900000)
 
 Für die Auskunft an die geschädigte Person auf Grund ihres
 Auskunftsrechts nach Artikel 15 der Verordnung (EU) 2016/679 des
@@ -2288,9 +2388,11 @@ Buches Sozialgesetzbuch entsprechend.
 
 
 ## Kapitel 14 - Statistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG002301000)
 
 
 ### § 79 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008001000)
 
 (1) Die zuständige Behörde ist im Rahmen der Aufgabenerfüllung nach
 diesem Gesetz befugt, statistische Daten zum Umfang und zur Qualität
@@ -2310,9 +2412,11 @@ nichtstatistischen Aufgaben einzuhalten.
 
 
 ## Kapitel 15 - Übergangsvorschriften und Fortgeltung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNG002401000)
 
 
 ### § 80 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008102377)
 
 (1) Personen, die im Dezember 2024 Leistungen nach § 80 des
 Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden
@@ -2372,6 +2476,7 @@ zum 31. Dezember 2023 geltenden Fassung erhalten.
 
 
 ### § 81 Leistungen der Heil- und Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008201377)
 
 (1) Personen, deren Anspruch auf Heilbehandlung nach § 80 des
 Soldatenversorgungsgesetzes in der am 31. Dezember 2024 geltenden
@@ -2439,6 +2544,7 @@ halbjährlich 5 Prozent des Erstattungsbetrags nach Satz 1 erstattet.
 
 
 ### § 82 Berufsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008301377)
 
 Personen, die im Dezember 2024 Berufsschadensausgleich nach § 30
 Absatz 3 bis 12 des Bundesversorgungsgesetzes in der bis zum 31.
@@ -2453,6 +2559,7 @@ nicht, wenn die Zahlung nach Satz 1 bezogen wird.
 
 
 ### § 83 Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008401377)
 
 (1) Personen, die im Dezember 2024 folgende einkommensunabhängige
 Geldleistungen beziehen, erhalten einen monatlichen Gesamtbetrag, der
@@ -2554,6 +2661,7 @@ nach § 13 angepasst.
 
 
 ### § 84 Befristete oder auf Zeit erbrachte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008501377)
 
 (1) Personen, die im Dezember 2024 eine befristete Geldleistung oder
 eine befristete Sachleistung nach dem Soldatenversorgungsgesetz in
@@ -2665,6 +2773,7 @@ der am 31. Dezember 2023 geltenden Fassung.
 
 
 ### § 85 Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008601377)
 
 (1) Personen, deren Ansprüche nach dem Soldatenversorgungsgesetz in
 Verbindung mit dem Bundesversorgungsgesetz in der bis zum 31. Dezember
@@ -2687,6 +2796,7 @@ gegenüber der zuständigen Behörde zu erklären.
 
 
 ### § 86 Neufeststellung
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008701377)
 
 (1) Die Neufeststellung der Anspruchsberechtigung und des Grades der
 Schädigungsfolgen erfolgt auf Antrag und richtet sich nach diesem
@@ -2711,6 +2821,7 @@ eingetreten sind.
 
 
 ### § 87 Anrechnungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008802129)
 
 Die Geldleistung nach § 83 bleibt bei anderen Sozialleistungen und bei
 den Leistungen nach dem Asylbewerberleistungsgesetz als Einkommen
@@ -2719,6 +2830,7 @@ unberücksichtigt, soweit sie den Betrag von 1 209 Euro nicht
 
 
 ### § 88 Pflegeausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE008900377)
 
 Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
@@ -2746,6 +2858,7 @@ aufgerundet.
 
 
 ### § 89 Ausgleichszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
+[Direktlink](https://www.gesetze-im-internet.de/seg/BJNR393300021.html#BJNR393300021BJNE009000377)
 
 (1) Witwen und Witwer einer nicht schädigungsbedingt verstorbenen
 geschädigten Person erhalten eine monatliche Ausgleichszahlung, wenn

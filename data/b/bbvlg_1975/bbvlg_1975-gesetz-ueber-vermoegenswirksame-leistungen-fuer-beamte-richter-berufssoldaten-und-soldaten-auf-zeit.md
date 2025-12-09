@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000106320)
 
 (1) Vermögenswirksame Leistungen nach dem Fünften
 Vermögensbildungsgesetz erhalten
@@ -56,6 +57,7 @@ vorangegangenen Monate desselben Kalenderjahres.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000204320)
 
 (1) Die vermögenswirksame Leistung beträgt 6,65 Euro.
 Teilzeitbeschäftigte erhalten den Betrag, der dem Verhältnis der
@@ -78,6 +80,7 @@ danach monatlich im Voraus zu zahlen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000302320)
 
 (1) Die vermögenswirksame Leistung wird dem Berechtigten im
 Kalendermonat nur einmal gewährt.
@@ -98,6 +101,7 @@ Regelungen im Einzelnen nicht übereinstimmen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000406116)
 
 (1) Der Berechtigte teilt seiner Dienststelle oder der nach
 Landesrecht bestimmten Stelle schriftlich oder elektronisch die Art
@@ -117,17 +121,20 @@ Gewährung der vermögenswirksamen Leistung verlangt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000504320)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000602320)
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bbvlg_1975/BJNR012370975.html#BJNR012370975BJNE000701320)
 
 (weggefallen)
 

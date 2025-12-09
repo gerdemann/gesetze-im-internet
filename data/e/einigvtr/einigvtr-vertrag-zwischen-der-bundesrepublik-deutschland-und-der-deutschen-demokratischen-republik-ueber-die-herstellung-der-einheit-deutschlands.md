@@ -21,6 +21,7 @@ Zuletzt angepasst durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000200301)
 
 Die Bundesrepublik Deutschland und die Deutsche Demokratische Republik
 -
@@ -49,10 +50,12 @@ Deutschlands mit den nachfolgenden Bestimmungen zu schließen:
 
 
 ## Kapitel I - Wirkung des Beitritts
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG000300301)
 
 
 
 ### Art 1 Länder
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000400301)
 
 (1) Mit dem Wirksamwerden des Beitritts der Deutschen Demokratischen
 Republik zur Bundesrepublik Deutschland gemäß Artikel 23 des
@@ -68,6 +71,7 @@ Anlage II maßgebend.
 
 
 ### Art 2 Hauptstadt, Tag der Deutschen Einheit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000500301)
 
 (1) Hauptstadt Deutschlands ist Berlin. Die Frage des Sitzes von
 Parlament und Regierung wird nach der Herstellung der Einheit
@@ -78,10 +82,12 @@ Feiertag.
 
 
 ## Kapitel II - Grundgesetz
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG000600301)
 
 
 
 ### Art 3 Inkrafttreten des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000700301)
 
 Mit dem Wirksamwerden des Beitritts tritt das Grundgesetz für die
 Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III,
@@ -94,6 +100,7 @@ soweit in diesem Vertrag nichts anderes bestimmt ist.
 
 
 ### Art 4 Beitrittsbedingte Änderungen des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000800301)
 
 Das Grundgesetz für die Bundesrepublik Deutschland wird wie folgt
 geändert:
@@ -205,6 +212,7 @@ geändert:
 
 
 ### Art 5 Künftige Verfassungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000900301)
 
 Die Regierungen der beiden Vertragsparteien empfehlen den
 gesetzgebenden Körperschaften des vereinten Deutschlands, sich
@@ -233,12 +241,14 @@ Grundgesetzes zu befassen, insbesondere
 
 
 ### Art 6 Ausnahmebestimmung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001000301)
 
 Artikel 131 des Grundgesetzes wird in dem in Artikel 3 genannten
 Gebiet vorerst nicht in Kraft gesetzt.
 
 
 ### Art 7 Finanzverfassung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001100301)
 
 (1) Die Finanzverfassung der Bundesrepublik Deutschland wird auf das
 in Artikel 3 genannte Gebiet erstreckt, soweit in diesem Vertrag
@@ -339,10 +349,12 @@ Bund und Ländern gemeinsam geprüft.
 
 
 ## Kapitel III - Rechtsangleichung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG001200301)
 
 
 
 ### Art 8 Überleitung von Bundesrecht
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001300301)
 
 Mit dem Wirksamwerden des Beitritts tritt in dem in Artikel 3
 genannten Gebiet Bundesrecht in Kraft, soweit es nicht in seinem
@@ -352,6 +364,7 @@ Vertrag, insbesondere dessen Anlage I, nichts anderes bestimmt wird.
 
 
 ### Art 9 Fortgeltendes Recht der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001400301)
 
 (1) Das im Zeitpunkt der Unterzeichnung dieses Vertrags geltende Recht
 der Deutschen Demokratischen Republik, das nach der Kompetenzordnung
@@ -390,6 +403,7 @@ Ländern als Landesrecht fort.
 
 
 ### Art 10 Recht der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001500301)
 
 (1) Mit dem Wirksamwerden des Beitritts gelten in dem in Artikel 3
 genannten Gebiet die Verträge über die Europäischen Gemeinschaften
@@ -411,10 +425,12 @@ durch landesrechtliche Vorschriften umzusetzen oder auszuführen.
 
 
 ## Kapitel IV - Völkerrechtliche Verträge und Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG001600301)
 
 
 
 ### Art 11 Verträge der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001700301)
 
 Die Vertragsparteien gehen davon aus, daß völkerrechtliche Verträge
 und Vereinbarungen, denen die Bundesrepublik Deutschland als
@@ -429,6 +445,7 @@ Benehmen setzen.
 
 
 ### Art 12 Verträge der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE001800301)
 
 (1) Die Vertragsparteien sind sich einig, daß die völkerrechtlichen
 Verträge der Deutschen Demokratischen Republik im Zuge der Herstellung
@@ -456,10 +473,12 @@ soweit deren Zuständigkeiten berührt sind, hergestellt.
 
 
 ## Kapitel V - Öffentliche Verwaltung und Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG001900301)
 
 
 
 ### Art 13 Übergang von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002000301)
 
 (1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung oder
 Rechtspflege dienende Einrichtungen in dem in Artikel 3 genannten
@@ -493,6 +512,7 @@ deren Rechtsträger die öffentliche Verwaltung ist.
 
 
 ### Art 14 Gemeinsame Einrichtungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002100301)
 
 (1) Einrichtungen oder Teile von Einrichtungen, die bis zum
 Wirksamwerden des Beitritts Aufgaben erfüllt haben, die nach der
@@ -509,6 +529,7 @@ zuständigen Landesminister übertragen.
 
 
 ### Art 15 Übergangsregelungen für die Landesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002200301)
 
 (1) Die Landessprecher in den in Artikel 1 Abs. 1 genannten Ländern
 und die Regierungsbevollmächtigten in den Bezirken nehmen ihre
@@ -543,6 +564,7 @@ Einfuhr-Umsatzsteuer verrechnet.
 
 
 ### Art 16 Übergangsvorschrift bis zur Bildung einer gesamtberliner Landesregierung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002300301)
 
 Bis zur Bildung einer gesamtberliner Landesregierung nimmt der Senat
 von Berlin gemeinsam mit dem Magistrat die Aufgaben der gesamtberliner
@@ -550,6 +572,7 @@ Landesregierung wahr.
 
 
 ### Art 17 Rehabilitierung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002400301)
 
 Die Vertragsparteien bekräftigen ihre Absicht, daß unverzüglich eine
 gesetzliche Grundlage dafür geschaffen wird, daß alle Personen
@@ -561,6 +584,7 @@ angemessenen Entschädigungsregelung zu verbinden.
 
 
 ### Art 18 Fortgeltung gerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002501333)
 
 (1) Vor dem Wirksamwerden des Beitritts ergangene Entscheidungen der
 Gerichte der Deutschen Demokratischen Republik bleiben wirksam und
@@ -574,6 +598,7 @@ Grundsätzen. Artikel 17 bleibt unberührt.
 
 
 ### Art 19 Fortgeltung von Entscheidungen der öffentlichen Verwaltung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002600301)
 
 Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der
 Deutschen Demokratischen Republik bleiben wirksam. Sie können
@@ -584,6 +609,7 @@ unberührt.
 
 
 ### Art 20 Rechtsverhältnisse im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002700301)
 
 (1) Für die Rechtsverhältnisse der Angehörigen des öffentlichen
 Dienstes zum Zeitpunkt des Beitritts gelten die in Anlage I
@@ -600,10 +626,12 @@ Regelungen eingeführt.
 
 
 ## Kapitel VI - Öffentliches Vermögen und Schulden
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG002800301)
 
 
 
 ### Art 21 Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE002900301)
 
 (1) Das Vermögen der Deutschen Demokratischen Republik, das
 unmittelbar bestimmten Verwaltungsaufgaben dient
@@ -638,6 +666,7 @@ Veräußerungen von Vermögenswerten.
 
 
 ### Art 22 Finanzvermögen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003000301)
 
 (1) Öffentliches Vermögen von Rechtsträgern in dem in Artikel 3
 genannten Gebiet einschließlich des Grundvermögens und des Vermögens
@@ -693,6 +722,7 @@ bleibt Absatz 1 unberührt.
 
 
 ### Art 23 Schuldenregelung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003100301)
 
 (1) Mit dem Wirksamwerden des Beitritts wird die bis zu diesem
 Zeitpunkt aufgelaufene Gesamtverschuldung des Republikhaushalts der
@@ -779,6 +809,7 @@ nach Absatz 1 übernommen.
 
 
 ### Art 24 Abwicklung der Forderungen und Verbindlichkeiten gegenüber dem Ausland und der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003200301)
 
 (1) Die Abwicklung der beim Wirksamwerden des Beitritts noch
 bestehenden Forderungen und Verbindlichkeiten, soweit sie im Rahmen
@@ -813,6 +844,7 @@ die nach dem 30. Juni 1990 entstehen oder entstanden sind.
 
 
 ### Art 25 Treuhandvermögen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003300301)
 
 Das Gesetz zur Privatisierung und Reorganisation des volkseigenen
 Vermögens - Treuhandgesetz - vom 17. Juni 1990 (GBl. I Nr. 33 S. 300)
@@ -878,6 +910,7 @@ erstatten.
 
 
 ### Art 26 Sondervermögen Deutsche Reichsbahn
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003400301)
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte der Deutschen
 Demokratischen Republik sowie das Reichsvermögen in Berlin (West), die
@@ -909,6 +942,7 @@ organisatorisch zusammenzuführen.
 
 
 ### Art 27 Sondervermögen Deutsche Post
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003500301)
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte, die zum
 Sondervermögen Deutsche Post gehören, werden Vermögen der
@@ -943,6 +977,7 @@ Zwecken dienen. Er übernimmt diese ohne Wertausgleich.
 
 
 ### Art 28 Wirtschaftsförderung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003600301)
 
 (1) Mit Wirksamwerden des Beitritts wird das in Artikel 3 genannte
 Gebiet in die im Bundesgebiet bestehenden Regelungen des Bundes zur
@@ -985,6 +1020,7 @@ sich auf folgende Bereiche:
 
 
 ### Art 29 Außenwirtschaftsbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003700301)
 
 (1) Die gewachsenen außenwirtschaftlichen Beziehungen der Deutschen
 Demokratischen Republik, insbesondere die bestehenden vertraglichen
@@ -1005,10 +1041,12 @@ sind.
 
 
 ## Kapitel VII - Arbeit, Soziales, Familie, Frauen, Gesundheitswesen und Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG003800301)
 
 
 
 ### Art 30 Arbeit und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE003900301)
 
 (1) Es ist Aufgabe des gesamtdeutschen Gesetzgebers,
 
@@ -1091,6 +1129,7 @@ genannten Gebiet geltenden Regelungen berücksichtigt werden können.
 
 
 ### Art 31 Familie und Frauen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004000301)
 
 (1) Es ist Aufgabe des gesamtdeutschen Gesetzgebers, die Gesetzgebung
 zur Gleichberechtigung zwischen Männern und Frauen weiterzuentwickeln.
@@ -1124,6 +1163,7 @@ materielle Recht in dem in Artikel 3 genannten Gebiet weiter.
 
 
 ### Art 32 Freie gesellschaftliche Kräfte
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004100301)
 
 Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien
 Jugendhilfe leisten mit ihren Einrichtungen und Diensten einen
@@ -1134,6 +1174,7 @@ grundgesetzlichen Zuständigkeiten gefördert.
 
 
 ### Art 33 Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004200301)
 
 (1) Es ist Aufgabe der Gesetzgeber, die Voraussetzungen dafür zu
 schaffen, daß das Niveau der stationären Versorgung der Bevölkerung in
@@ -1150,6 +1191,7 @@ im heutigen Bundesgebiet entspricht.
 
 
 ### Art 34 Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004300301)
 
 (1) Ausgehend von der in Artikel 16 des Vertrags vom 18. Mai 1990 in
 Verbindung mit dem Umweltrahmengesetz der Deutschen Demokratischen
@@ -1169,10 +1211,12 @@ Gesundheit der Bevölkerung vorzusehen.
 
 
 ## Kapitel VIII - Kultur, Bildung und Wissenschaft, Sport
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG004400301)
 
 
 
 ### Art 35 Kultur
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004500301)
 
 (1) In den Jahren der Teilung waren Kunst und Kultur - trotz
 unterschiedlicher Entwicklung der beiden Staaten in Deutschland - eine
@@ -1222,6 +1266,7 @@ genannten Gebiet mitfinanzieren.
 
 
 ### Art 36 Rundfunk
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004600301)
 
 (1) Der "Rundfunk der DDR" und der "Deutsche Fernsehfunk" werden als
 gemeinschaftliche staatsunabhängige, rechtsfähige Einrichtung von den
@@ -1293,6 +1338,7 @@ unberührt.
 
 
 ### Art 37 Bildung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004700301)
 
 (1) In der Deutschen Demokratischen Republik erworbene oder staatlich
 anerkannte schulische, berufliche und akademische Abschlüsse oder
@@ -1343,6 +1389,7 @@ entwickeln.
 
 
 ### Art 38 Wissenschaft und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004800301)
 
 (1) Wissenschaft und Forschung bilden auch im vereinten Deutschland
 wichtige Grundlagen für Staat und Gesellschaft. Der notwendigen
@@ -1409,6 +1456,7 @@ aufgelöst.
 
 
 ### Art 39 Sport
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE004900301)
 
 (1) Die in dem in Artikel 3 genannten Gebiet in Umwandlung
 befindlichen Strukturen des Sports werden auf Selbstverwaltung
@@ -1433,10 +1481,12 @@ Bund den Behindertensport.
 
 
 ## Kapitel IX - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG005000301)
 
 
 
 ### Art 40 Verträge und Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005100301)
 
 (1) Die Verpflichtungen aus dem Vertrag vom 18. Mai 1990 über die
 Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der
@@ -1454,6 +1504,7 @@ werden sie von den innerstaatlich zuständigen Rechtsträgern
 
 
 ### Art 41 Regelung von Vermögensfragen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005200301)
 
 (1) Die von der Regierung der Bundesrepublik Deutschland und der
 Regierung der Deutschen Demokratischen Republik abgegebene Gemeinsame
@@ -1478,6 +1529,7 @@ Erklärung widersprechen.
 
 
 ### Art 42 Entsendung von Abgeordneten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005300301)
 
 (1) Vor dem Wirksamwerden des Beitritts der Deutschen Demokratischen
 Republik wählt die Volkskammer auf der Grundlage ihrer Zusammensetzung
@@ -1505,6 +1557,7 @@ Bundestages.
 
 
 ### Art 43 Übergangsvorschrift für den Bundesrat bis zur Bildung von Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005400301)
 
 Von der Bildung der in Artikel 1 Abs. 1 genannten Länder bis zur Wahl
 des Ministerpräsidenten kann der Landesbevollmächtigte an den
@@ -1512,6 +1565,7 @@ Sitzungen des Bundesrates mit beratender Stimme teilnehmen.
 
 
 ### Art 44 Rechtswahrung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005500301)
 
 Rechte aus diesem Vertrag zugunsten der Deutschen Demokratischen
 Republik oder der in Artikel 1 genannten Länder können nach
@@ -1520,6 +1574,7 @@ werden.
 
 
 ### Art 45 Inkrafttreten des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005600301)
 
 (1) Dieser Vertrag einschließlich des anliegenden Protokolls und der
 Anlagen I bis III tritt an dem Tag in Kraft, an dem die Regierungen
@@ -1532,6 +1587,7 @@ Bundesrecht geltendes Recht.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005700301)
 
 Geschehen zu Berlin am 31. August 1990 in zwei Urschriften in
 deutscher Sprache.
@@ -1555,6 +1611,7 @@ deutscher Sprache.
 
 
 ### (XXXX) Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005800301)
 
 Bei Unterzeichnung des Vertrags zwischen der Bundesrepublik
 Deutschland und der Deutschen Demokratischen Republik über die
@@ -1791,6 +1848,7 @@ deutschen Einheit getroffen werden.
 
 
 ### Anlage I Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE005900301)
 
 
 *    *   A.
@@ -1910,6 +1968,7 @@ deutschen Einheit getroffen werden.
 Besondere Bestimmungen zur Überleitung von Bundesrecht
 
 ### Anlage I BesBest gemäß Artikel 8 und Artikel 11 des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006000301)
 
 (Fundstelle in der Anlage I des Einigungsvertrages, BGBl. II 1990,
 907)
@@ -1936,12 +1995,14 @@ bestimmt.
 Anlage I Kapitel I
 
 ### Anlage I Kap I Geschäftsbereich des Bundesministers des Auswärtigen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006100301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 908 - 909)
 
 Anlage I Kapitel I
 
 ### Anlage I Kap I I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006200301)
 
 Von der Geltung in dem in Artikel 3 des Vertrages genannten Gebiet
 sind gemäß Artikel 11 des Vertrages ausgenommen:
@@ -2083,6 +2144,7 @@ sind gemäß Artikel 11 des Vertrages ausgenommen:
 Anlage I Kapitel II
 
 ### Anlage I Kap II Geschäftsbereich des Bundesministers des Innern
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006300300)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 910 - 920)
 
@@ -2111,6 +2173,7 @@ Anlage I Kapitel II
 Sachgebiet A - Staats- und Verfassungsrecht
 
 ### Anlage I Kap II A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006400301)
 
 Bundesrecht wird wie folgt aufgehoben und geändert:
 
@@ -2190,6 +2253,7 @@ Anlage I Kapitel II
 Sachgebiet A - Staats- und Verfassungsrecht
 
 ### Anlage I Kap II A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006501377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -2197,6 +2261,7 @@ Anlage I Kapitel II
 Sachgebiet B - Verwaltung
 
 ### Anlage I Kap II B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006600301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -2297,6 +2362,7 @@ Anlage I Kapitel II
 Sachgebiet B - Verwaltung
 
 ### Anlage I Kap II B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006701305)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -2511,6 +2577,7 @@ Anlage I Kapitel II
 Sachgebiet B - Verwaltung
 
 ### Anlage I Kap II B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006802377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -2650,6 +2717,7 @@ Anlage I Kapitel II
 Sachgebiet C - Öffentliche Sicherheit
 
 ### Anlage I Kap II C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE006900301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -2748,6 +2816,7 @@ Anlage I Kapitel II
 Sachgebiet C - Öffentliche Sicherheit
 
 ### Anlage I Kap II C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007001377)
 
 (Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
@@ -2755,6 +2824,7 @@ Anlage I Kapitel II
 Sachgebiet D - Kriegsfolgenrecht
 
 ### Anlage I Kap II D I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007100300)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -2785,6 +2855,7 @@ Anlage I Kapitel II
 Sachgebiet D - Kriegsfolgenrecht
 
 ### Anlage I Kap II D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007200300)
 
 Bundesrecht wird wie folgt geändert und aufgehoben:
 
@@ -2902,6 +2973,7 @@ Anlage I Kapitel II
 Sachgebiet D - Kriegsfolgenrecht
 
 ### Anlage I Kap II D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007303377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -2964,6 +3036,7 @@ mit folgenden Maßgaben in Kraft:
 Anlage I Kapitel III
 
 ### Anlage I Kap III Geschäftsbereich des Bundesministers der Justiz
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007400300)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 921 - 963)
 
@@ -2989,6 +3062,7 @@ Anlage I Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage I Kap III A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007502307)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind, vorbehaltlich der Sonderregelung für das Land Berlin in
@@ -3045,6 +3119,7 @@ Anlage I Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage I Kap III A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007600301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -3103,6 +3178,7 @@ Anlage I Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage I Kap III A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007711377)
 
 Bundesrecht tritt, soweit sich nicht aus den nachfolgenden Maßgaben
 ein anderer Geltungsbereich ergibt und vorbehaltlich der
@@ -3220,6 +3296,7 @@ Anlage I Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage I Kap III A IV Abschnitt IV
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE000105377)
 
 Abweichend von den Regelungen der Abschnitte I und III wird der im
 bisherigen Geltungsbereich des Grundgesetzes für die Bundesrepublik
@@ -3234,6 +3311,7 @@ Anlage I Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage I Kap III B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007800301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -3253,6 +3331,7 @@ Anlage I Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage I Kap III B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE007900301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -4278,6 +4357,7 @@ Anlage I Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage I Kap III B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008010377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4318,6 +4398,7 @@ Anlage I Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage I Kap III C I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008100301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -4339,6 +4420,7 @@ Anlage I Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage I Kap III C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008201377)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -4637,6 +4719,7 @@ Anlage I Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage I Kap III C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008307377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4710,6 +4793,7 @@ Sachgebiet D - Handels- und Gesellschaftsrecht,
 Versicherungsvertragsrecht
 
 ### Anlage I Kap III D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008400301)
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -4735,6 +4819,7 @@ Sachgebiet D - Handels- und Gesellschaftsrecht,
 Versicherungsvertragsrecht
 
 ### Anlage I Kap III D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008503377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4768,6 +4853,7 @@ Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren
 Wettbewerb, Urheberrecht
 
 ### Anlage I Kap III E II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008601377)
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -4945,6 +5031,7 @@ Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren
 Wettbewerb, Urheberrecht
 
 ### Anlage I Kap III E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008701377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -4952,12 +5039,14 @@ Anlage I Kapitel III
 Sachgebiet F - Verfassungsgerichtsbarkeit
 
 ### Anlage I Kap III F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE008802377)
 
 (Abschnitt III Buchst. a und b nicht mehr anzuwenden)
 
 Anlage I Kapitel IV
 
 ### Anlage I Kap IV Geschäftsbereich des Bundesministers der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009000301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 964 - 995)
 
@@ -4983,6 +5072,7 @@ Anlage I Kapitel IV
 Sachgebiet A - Kriegsfolgenregelungen
 
 ### Anlage I Kap IV A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE012700301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -5137,6 +5227,7 @@ Anlage I Kapitel IV
 Sachgebiet A - Kriegsfolgenregelungen
 
 ### Anlage I Kap IV A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE012800301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -5225,6 +5316,7 @@ Anlage I Kapitel IV
 Sachgebiet B - Haushalts- und Finanzwesen
 
 ### Anlage I Kap IV B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE012900301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -5250,6 +5342,7 @@ Anlage I Kapitel IV
 Sachgebiet B - Haushalts- und Finanzwesen
 
 ### Anlage I Kap IV B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013000301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -8880,6 +8973,7 @@ Anlage I Kapitel IV
 Sachgebiet B - Haushalts- und Finanzwesen
 
 ### Anlage I Kap IV B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013101377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -8928,6 +9022,7 @@ mit folgenden Maßgaben in Kraft:
 Anlage I Kapitel V
 
 ### Anlage I Kap V Geschäftsbereich des Bundesministers für Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009100301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 996 - 1009)
 
@@ -8954,6 +9049,7 @@ Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
 Wettbewerbs- und Preisrecht
 
 ### Anlage I Kap V A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013200301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -8968,6 +9064,7 @@ Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
 Wettbewerbs- und Preisrecht
 
 ### Anlage I Kap V A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013300301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9060,6 +9157,7 @@ Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
 Wettbewerbs- und Preisrecht
 
 ### Anlage I Kap V A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013401377)
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
@@ -9067,6 +9165,7 @@ Anlage I Kapitel V
 Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung
 
 ### Anlage I Kap V B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013500301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9130,6 +9229,7 @@ Anlage I Kapitel V
 Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung
 
 ### Anlage I Kap V B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013603377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -9255,6 +9355,7 @@ Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
 Filmförderung
 
 ### Anlage I Kap V C I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013700301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9269,6 +9370,7 @@ Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
 Filmförderung
 
 ### Anlage I Kap V C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013800301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9287,6 +9389,7 @@ Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
 Filmförderung
 
 ### Anlage I Kap V C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE013901377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -9373,6 +9476,7 @@ Anlage I Kapitel V
 Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
 ### Anlage I Kap V D I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014000301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9395,6 +9499,7 @@ Anlage I Kapitel V
 Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
 ### Anlage I Kap V D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014100301)
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -9467,6 +9572,7 @@ Anlage I Kapitel V
 Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
 ### Anlage I Kap V D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014204377)
 
 Folgende Rechtsvorschriften treten mit den nachfolgend genannten
 Maßgaben in Kraft:
@@ -9727,6 +9833,7 @@ Anlage I Kapitel V
 Sachgebiet E - Recht der gewerblichen Wirtschaft
 
 ### Anlage I Kap V E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014301377)
 
 (Abschnitt III nicht mehr anzuwenden)
 
@@ -9734,6 +9841,7 @@ Anlage I Kapitel V
 Sachgebiet F - Außenwirtschaftsrecht
 
 ### Anlage I Kap V F II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014400301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9780,6 +9888,7 @@ Bundesrecht wird wie folgt geändert:
 Anlage I Kapitel VI
 
 ### Anlage I Kap VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009200301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1010 - 1018)
 
@@ -9805,6 +9914,7 @@ Anlage I Kapitel VI
 Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen
 
 ### Anlage I Kap VI A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014500301)
 
 Bundesrecht wird wie folgt aufgehoben:
 
@@ -9817,6 +9927,7 @@ Anlage I Kapitel VI
 Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen
 
 ### Anlage I Kap VI A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014608377)
 
 (Abschnitt III Nr. 1 bis 17 nicht mehr anzuwenden)
 
@@ -9824,6 +9935,7 @@ Anlage I Kapitel VI
 Sachgebiet B - Agrarpolitik
 
 ### Anlage I Kap VI B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014700301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9847,6 +9959,7 @@ Anlage I Kapitel VI
 Sachgebiet B - Agrarpolitik
 
 ### Anlage I Kap VI B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014800301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9867,6 +9980,7 @@ Sachgebiet C - Marktordnung für Landwirtschaft und
 Ernährungswirtschaft
 
 ### Anlage I Kap VI C I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE014900301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9883,6 +9997,7 @@ Sachgebiet C - Marktordnung für Landwirtschaft und
 Ernährungswirtschaft
 
 ### Anlage I Kap VI C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015003160)
 
 (Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
@@ -9890,6 +10005,7 @@ Anlage I Kapitel VI
 Sachgebiet D - Agrarsozialrecht
 
 ### Anlage I Kap VI D I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015100301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9910,6 +10026,7 @@ Anlage I Kapitel VI
 Sachgebiet E - Siedlungswesen
 
 ### Anlage I Kap VI E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015200301)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -9939,6 +10056,7 @@ Anlage I Kapitel VI
 Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei
 
 ### Anlage I Kap VI F II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015300301)
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -10048,12 +10166,14 @@ Anlage I Kapitel VI
 Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei
 
 ### Anlage I Kap VI F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015401160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel VII
 
 ### Anlage I Kap VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009300301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1019)
 
@@ -10062,6 +10182,7 @@ Anlage I Kapitel VII
 Anlage I Kapitel VIII
 
 ### Anlage I Kap VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009400301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
@@ -10088,6 +10209,7 @@ Anlage I Kapitel VIII
 Sachgebiet A - Arbeitsrechtsordnung
 
 ### Anlage I Kap VIII A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015500301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -10100,6 +10222,7 @@ Anlage I Kapitel VIII
 Sachgebiet A - Arbeitsrechtsordnung
 
 ### Anlage I Kap VIII A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015600301)
 
 Bundesrecht wird wie folgt aufgehoben:
 Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -10111,6 +10234,7 @@ Anlage I Kapitel VIII
 Sachgebiet A - Arbeitsrechtsordnung
 
 ### Anlage I Kap VIII A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015705160)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -10280,6 +10404,7 @@ Anlage I Kapitel VIII
 Sachgebiet B - Technischer Arbeitsschutz
 
 ### Anlage I Kap VIII B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015800301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -10543,6 +10668,7 @@ Anlage I Kapitel VIII
 Sachgebiet B - Technischer Arbeitsschutz
 
 ### Anlage I Kap VIII B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE015902377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -10616,6 +10742,7 @@ Anlage I Kapitel VIII
 Sachgebiet C - Sozialer Arbeitsschutz
 
 ### Anlage I Kap VIII C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016002377)
 
 (Abschnitt III Nr. 1 bis 13 nicht mehr anzuwenden)
 
@@ -10623,6 +10750,7 @@ Anlage I Kapitel VIII
 Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
 ### Anlage I Kap VIII D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016100301)
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -10657,6 +10785,7 @@ Anlage I Kapitel VIII
 Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
 ### Anlage I Kap VIII D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016201160)
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
@@ -10665,6 +10794,7 @@ Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
 Arbeitslosenversicherung
 
 ### Anlage I Kap VIII E I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016300301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -10688,6 +10818,7 @@ Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
 Arbeitslosenversicherung
 
 ### Anlage I Kap VIII E II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016400301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -11544,6 +11675,7 @@ Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
 Arbeitslosenversicherung
 
 ### Anlage I Kap VIII E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016501160)
 
 (Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
@@ -11551,6 +11683,7 @@ Anlage I Kapitel VIII
 Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
 ### Anlage I Kap VIII F I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016600301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -11577,6 +11710,7 @@ Anlage I Kapitel VIII
 Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
 ### Anlage I Kap VIII F II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016700301)
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -12034,6 +12168,7 @@ Anlage I Kapitel VIII
 Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
 ### Anlage I Kap VIII F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016802377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -12066,6 +12201,7 @@ Anlage I Kapitel VIII
 Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
 ### Anlage I Kap VIII G II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE016900301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -12894,6 +13030,7 @@ Anlage I Kapitel VIII
 Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
 ### Anlage I Kap VIII G III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017004377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -12931,6 +13068,7 @@ Anlage I Kapitel VIII
 Sachgebiet H - Gesetzliche Rentenversicherung
 
 ### Anlage I Kap VIII H I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017100301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
@@ -13187,6 +13325,7 @@ Anlage I Kapitel VIII
 Sachgebiet H - Gesetzliche Rentenversicherung
 
 ### Anlage I Kap VIII H II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017200301)
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -13642,6 +13781,7 @@ Anlage I Kapitel VIII
 Sachgebiet H - Gesetzliche Rentenversicherung
 
 ### Anlage I Kap VIII H III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017302377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -13744,6 +13884,7 @@ Anlage I Kapitel VIII
 Sachgebiet I - Gesetzliche Unfallversicherung
 
 ### Anlage I Kap VIII I I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017400301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrags
 sind ausgenommen:
@@ -13776,6 +13917,7 @@ Anlage I Kapitel VIII
 Sachgebiet I - Gesetzliche Unfallversicherung
 
 ### Anlage I Kap VIII I III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032701377)
 
 (Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
@@ -13783,6 +13925,7 @@ Anlage I Kapitel VIII
 Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
 ### Anlage I Kap VIII K I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017600301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -13806,6 +13949,7 @@ Anlage I Kapitel VIII
 Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
 ### Anlage I Kap VIII K II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017700301)
 
 Bundesrecht wird wie folgt ergänzt:
 Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
@@ -13862,6 +14006,7 @@ Anlage I Kapitel VIII
 Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
 ### Anlage I Kap VIII K III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017804377)
 
 (Abschnitt III Nr. 1 bis 21 nicht mehr anzuwenden)
 
@@ -13869,6 +14014,7 @@ Anlage I Kapitel VIII
 Sachgebiet L - Förderung der Vermögensbildung
 
 ### Anlage I Kap VIII L III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE017901377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -13889,6 +14035,7 @@ mit folgenden Maßgaben in Kraft:
 Anlage I Kapitel IX
 
 ### Anlage I Kap IX Geschäftsbereich des Bundesministers der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009500301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1071)
 
@@ -13898,6 +14045,7 @@ des Rechts der Soldaten)
 Anlage I Kapitel X
 
 ### Anlage I Kap X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009600301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1072 - 1097)
 
@@ -13923,6 +14071,7 @@ Anlage I Kapitel X
 Sachgebiet A - Frauenpolitik
 
 ### Anlage I Kap X A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018101377)
 
 (Abschnitt III nicht mehr anzuwenden)
 
@@ -13930,6 +14079,7 @@ Anlage I Kapitel X
 Sachgebiet B - Jugend
 
 ### Anlage I Kap X B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018202377)
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
@@ -13937,6 +14087,7 @@ Anlage I Kapitel X
 Sachgebiet C - Zivildienst
 
 ### Anlage I Kap X C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018300301)
 
 Bundesrecht wird wie folgt ergänzt:
 Nach § 51 des Zivildienstgesetzes in der Fassung der Bekanntmachung
@@ -13959,6 +14110,7 @@ Anlage I Kapitel X
 Sachgebiet C - Zivildienst
 
 ### Anlage I Kap X C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018401160)
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
@@ -13966,6 +14118,7 @@ Anlage I Kapitel X
 Sachgebiet D - Gesundheitspolitik
 
 ### Anlage I Kap X D I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018500301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -13980,6 +14133,7 @@ Anlage I Kapitel X
 Sachgebiet D - Gesundheitspolitik
 
 ### Anlage I Kap X D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018600301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -15442,6 +15596,7 @@ Anlage I Kapitel X
 Sachgebiet D - Gesundheitspolitik
 
 ### Anlage I Kap X D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018703160)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -15487,6 +15642,7 @@ Anlage I Kapitel X
 Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht
 
 ### Anlage I Kap X E II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018800301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -15524,6 +15680,7 @@ Anlage I Kapitel X
 Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht
 
 ### Anlage I Kap X E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE018902160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
@@ -15531,6 +15688,7 @@ Anlage I Kapitel X
 Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht
 
 ### Anlage I Kap X F II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019000301)
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -15589,6 +15747,7 @@ Anlage I Kapitel X
 Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht
 
 ### Anlage I Kap X F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019101160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
@@ -15596,6 +15755,7 @@ Anlage I Kapitel X
 Sachgebiet G - Tierärzte
 
 ### Anlage I Kap X G II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019200301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -15764,6 +15924,7 @@ Anlage I Kapitel X
 Sachgebiet G - Tierärzte
 
 ### Anlage I Kap X G III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019304377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -15771,6 +15932,7 @@ Anlage I Kapitel X
 Sachgebiet H - Familie und Soziales
 
 ### Anlage I Kap X H I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019400301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -15797,6 +15959,7 @@ Anlage I Kapitel X
 Sachgebiet H - Familie und Soziales
 
 ### Anlage I Kap X H II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019500301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -15993,6 +16156,7 @@ Anlage I Kapitel X
 Sachgebiet H - Familie und Soziales
 
 ### Anlage I Kap X H III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019605377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit nachfolgenden Maßgaben in Kraft:
@@ -16038,6 +16202,7 @@ mit nachfolgenden Maßgaben in Kraft:
 Anlage I Kapitel XI
 
 ### Anlage I Kap XI Geschäftsbereich des Bundesministers für Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009700301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1098 - 1113)
 
@@ -16063,6 +16228,7 @@ Anlage I Kapitel XI
 Sachgebiet A - Eisenbahnverkehr
 
 ### Anlage I Kap XI A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019802377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16123,6 +16289,7 @@ Anlage I Kapitel XI
 Sachgebiet B - Straßenverkehr
 
 ### Anlage I Kap XI B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE019900301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -16133,6 +16300,7 @@ Anlage I Kapitel XI
 Sachgebiet B - Straßenverkehr
 
 ### Anlage I Kap XI B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020003377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16354,6 +16522,7 @@ Anlage I Kapitel XI
 Sachgebiet C - Luftfahrt
 
 ### Anlage I Kap XI C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020100301)
 
 Bundesrecht wird wie folgt geändert:
 Verordnung über die Erhebung von Gebühren für die Inanspruchnahme von
@@ -16368,6 +16537,7 @@ Anlage I Kapitel XI
 Sachgebiet C - Luftfahrt
 
 ### Anlage I Kap XI C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020201160)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16403,6 +16573,7 @@ Anlage I Kapitel XI
 Sachgebiet D - Seeverkehr
 
 ### Anlage I Kap XI D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020300301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -16476,6 +16647,7 @@ Anlage I Kapitel XI
 Sachgebiet D - Seeverkehr
 
 ### Anlage I Kap XI D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020402377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16644,6 +16816,7 @@ Anlage I Kapitel XI
 Sachgebiet E - Binnenschiffahrt und Wasserstraßen
 
 ### Anlage I Kap XI E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020503377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16686,6 +16859,7 @@ Anlage I Kapitel XI
 Sachgebiet F - Straßenbau
 
 ### Anlage I Kap XI F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020601377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -16693,6 +16867,7 @@ Anlage I Kapitel XI
 Sachgebiet G - Allgemeine verkehrliche Bestimmungen
 
 ### Anlage I Kap XI G II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020700301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -16809,12 +16984,14 @@ Anlage I Kapitel XI
 Sachgebiet G - Allgemeine verkehrliche Bestimmungen
 
 ### Anlage I Kap XI G III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE020801160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel XII
 
 ### Anlage I Kap XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009800301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1114 - 1119)
 
@@ -16840,6 +17017,7 @@ Anlage I Kapitel XII
 Sachgebiet A - Immissionsschutzrecht
 
 ### Anlage I Kap XII A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021000301)
 
 Bundesrecht wird wie folgt geändert:
 Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom
@@ -16962,6 +17140,7 @@ Anlage I Kapitel XII
 Sachgebiet A - Immissionsschutzrecht
 
 ### Anlage I Kap XII A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021103160)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -16990,6 +17169,7 @@ Anlage I Kapitel XII
 Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz
 
 ### Anlage I Kap XII B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021200301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -17087,6 +17267,7 @@ Anlage I Kapitel XII
 Sachgebiet C - Wasserwirtschaft
 
 ### Anlage I Kap XII C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021301160)
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
@@ -17094,6 +17275,7 @@ Anlage I Kapitel XII
 Sachgebiet D - Abfallwirtschaft
 
 ### Anlage I Kap XII D II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021400301)
 
 Bundesrecht wird wie folgt geändert:
 Abfallgesetz vom 27. August 1986 (BGBl. I S. 1410, 1501), zuletzt
@@ -17195,6 +17377,7 @@ Anlage I Kapitel XII
 Sachgebiet E - Chemikalienrecht
 
 ### Anlage I Kap XII E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021502377)
 
 (Abschnitt III Nr. 1 bis 3 nicht mehr anzuwenden)
 
@@ -17202,12 +17385,14 @@ Anlage I Kapitel XII
 Sachgebiet F - Naturschutz und Landschaftspflege
 
 ### Anlage I Kap XII F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021601160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel XIII
 
 ### Anlage I Kap XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE009900301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1120 - 1121)
 
@@ -17234,6 +17419,7 @@ Anlage I Kapitel XIII
 Sachgebiet A - Postverfassungsrecht
 
 ### Anlage I Kap XIII A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021800301)
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -17260,6 +17446,7 @@ Anlage I Kapitel XIII
 Sachgebiet A - Postverfassungsrecht
 
 ### Anlage I Kap XIII A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE021901377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -17267,6 +17454,7 @@ Anlage I Kapitel XIII
 Sachgebiet B - Postwesen
 
 ### Anlage I Kap XIII B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022000301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -17333,6 +17521,7 @@ Anlage I Kapitel XIII
 Sachgebiet B - Postwesen
 
 ### Anlage I Kap XIII B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022101377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -17340,12 +17529,14 @@ Anlage I Kapitel XIII
 Sachgebiet C - Fernmeldewesen
 
 ### Anlage I Kap XIII C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022201377)
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
 Anlage I Kapitel XIV
 
 ### Anlage I Kap XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010000301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1122 - 1128)
 
@@ -17365,6 +17556,7 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIV III) - Ausgegeben
 Anlage I Kapitel XIV
 
 ### Anlage I Kap XIV I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022400301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -17383,6 +17575,7 @@ sind ausgenommen:
 Anlage I Kapitel XIV
 
 ### Anlage I Kap XIV II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022500301)
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -18076,12 +18269,14 @@ Bundesrecht wird wie folgt ergänzt:
 Anlage I Kapitel XIV
 
 ### Anlage I Kap XIV III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022601160)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel XV
 
 ### Anlage I Kap XV Geschäftsbereich des Bundesministers für Forschung und Technologie
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010100301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1129)
 
@@ -18090,6 +18285,7 @@ Anlage I Kapitel XV
 Anlage I Kapitel XVI
 
 ### Anlage I Kap XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010200301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1130 - 1136)
 
@@ -18115,6 +18311,7 @@ Anlage I Kapitel XVI
 Sachgebiet A - Hochschulen
 
 ### Anlage I Kap XVI A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE022900301)
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -18370,6 +18567,7 @@ Anlage I Kapitel XVI
 Sachgebiet B - Ausbildungsförderung
 
 ### Anlage I Kap XVI B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023000301)
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 Bundesausbildungsförderungsgesetz in der Fassung der Bekanntmachung
@@ -18939,6 +19137,7 @@ Anlage I Kapitel XVI
 Sachgebiet C - Berufliche Bildung
 
 ### Anlage I Kap XVI C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023100301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -18961,6 +19160,7 @@ Anlage I Kapitel XVI
 Sachgebiet C - Berufliche Bildung
 
 ### Anlage I Kap XVI C III 
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023202377)
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
@@ -18968,24 +19168,28 @@ Anlage I Kapitel XVI
 Sachgebiet D - Fernunterricht
 
 ### Anlage I Kap XVI D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023301377)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel XVII
 
 ### Anlage I Kap XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010300301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1137)
 
 Anlage I Kapitel XVII
 
 ### Anlage I Kap XVII III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023501377)
 
 (Abschnitt III nicht mehr anzuwenden)
 
 Anlage I Kapitel XVIII
 
 ### Anlage I Kap XVIII Statistik
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010400301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1138)
 
@@ -19005,6 +19209,7 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVIII II) - Ausgegeben
 Anlage I Kapitel XVIII
 
 ### Anlage I Kap XVIII I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023700301)
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -19020,12 +19225,14 @@ ist ausgenommen:
 Anlage I Kapitel XVIII
 
 ### Anlage I Kap XVIII II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE023801377)
 
 (Abschnitt II nicht mehr anzuwenden)
 
 Anlage I Kapitel XIX
 
 ### Anlage I Kap XIX Recht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE010500301)
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1139 - 1147)
 
@@ -19051,6 +19258,7 @@ Anlage I Kapitel XIX
 Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
 ### Anlage I Kap XIX A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024000301)
 
 Bundesrecht wird wie folgt geändert:
 
@@ -19144,6 +19352,7 @@ Anlage I Kapitel XIX
 Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
 ### Anlage I Kap XIX A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024105377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -19269,6 +19478,7 @@ Anlage I Kapitel XIX
 Sachgebiet B - Recht der Soldaten
 
 ### Anlage I Kap XIX B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024200301)
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -19528,6 +19738,7 @@ Anlage I Kapitel XIX
 Sachgebiet B - Recht der Soldaten
 
 ### Anlage I Kap XIX B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024301377)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -19576,6 +19787,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 ### Anlage II Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024400301)
 
 
 *    *   A.
@@ -19711,6 +19923,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 ### Anlage II BesBest Besondere Bestimmungen für fortgeltendes Recht der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024500301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1148)
 
@@ -19744,12 +19957,14 @@ mit den in dieser Anlage niedergelegten Maßgaben in Kraft.
 Anlage II Kapitel I
 
 ### Anlage II Kap I Geschäftsbereich des Bundesministers des Auswärtigen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024600301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1149)
 
 Anlage II Kapitel I
 
 ### Anlage II Kap I I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024700301)
 
 Folgende Verträge der Deutschen Demokratischen Republik gemäß Artikel
 12 des Vertrages gelten in dem in Artikel 3 des Vertrages genannten
@@ -19779,6 +19994,7 @@ Gebiet weiter:
 Anlage II Kapitel II
 
 ### Anlage II Kap II Geschäftsbereich des Bundesministers des Innern
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024800301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1150 -
 1152)
@@ -19807,6 +20023,7 @@ Anlage II Kapitel II
 Sachgebiet A - Staats- und Verfassungsrecht
 
 ### Anlage II Kap II A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE024900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Länderwahlgesetz - LWG - vom 22. Juli 1990 (GBl. I Nr. 51 S. 960)
@@ -19815,6 +20032,7 @@ Anlage II Kapitel II
 Sachgebiet A - Staats- und Verfassungsrecht
 
 ### Anlage II Kap II A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -19827,6 +20045,7 @@ Anlage II Kapitel II
 Sachgebiet A - Staats- und Verfassungsrecht
 
 ### Anlage II Kap II A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025101377)
 
 (Abschnitt III Buchst. a bis d nicht mehr anzuwenden)
 
@@ -19834,6 +20053,7 @@ Anlage II Kapitel II
 Sachgebiet B - Verwaltung
 
 ### Anlage II Kap II B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Gesetz über die Selbstverwaltung der Gemeinden und Landkreise in der
@@ -19854,6 +20074,7 @@ Anlage II Kapitel II
 Sachgebiet B - Verwaltung
 
 ### Anlage II Kap II B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025300301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -19954,6 +20175,7 @@ Anlage II Kapitel II
 Sachgebiet C - Öffentliche Sicherheit
 
 ### Anlage II Kap II C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -20009,6 +20231,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel III
 
 ### Anlage II Kap III Geschäftsbereich des Bundesministers der Justiz
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025500301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1153 -
 1193)
@@ -20036,6 +20259,7 @@ Anlage II Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage II Kap III A I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025600301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -20091,6 +20315,7 @@ Anlage II Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage II Kap III A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025700301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Aufhebungen, Änderungen, Ergänzungen und Maßgaben in Kraft:
@@ -20427,6 +20652,7 @@ Anlage II Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage II Kap III A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt -
 unbeschadet der Maßgabe y) zum Deutschen Richtergesetz - Nr. 8 - in
@@ -20560,6 +20786,7 @@ Anlage II Kapitel III
 Sachgebiet A - Rechtspflege
 
 ### Anlage II Kap III A IV Abschnitt IV
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE025900301)
 
 In dem Teil des Landes Berlin, in dem das Grundgesetz bisher nicht
 galt, gelten folgende Besonderheiten:
@@ -20614,6 +20841,7 @@ Anlage II Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage II Kap III B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -21676,6 +21904,7 @@ Anlage II Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage II Kap III B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026100301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Aufhebungen in Kraft:
@@ -21709,6 +21938,7 @@ Anlage II Kapitel III
 Sachgebiet B - Bürgerliches Recht
 
 ### Anlage II Kap III B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -21788,6 +22018,7 @@ Anlage II Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage II Kap III C I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026300301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -21825,6 +22056,7 @@ Anlage II Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage II Kap III C II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgender Änderung in Kraft:
@@ -21851,6 +22083,7 @@ Anlage II Kapitel III
 Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
 ### Anlage II Kap III C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026500301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -21865,6 +22098,7 @@ Sachgebiet D - Handels- und Gesellschaftsrecht,
 Versicherungsvertragsrecht
 
 ### Anlage II Kap III D I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026600301)
 
 Mit Inkrafttreten dieses Vertrages tritt das folgende Gesetz der
 Deutschen Demokratischen Republik in Kraft:
@@ -24196,6 +24430,7 @@ Sachgebiet D - Handels- und Gesellschaftsrecht,
 Versicherungsvertragsrecht
 
 ### Anlage II Kap III D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026700301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -24210,6 +24445,7 @@ Geltungsdauer dieser Bestimmungen zu verlängern.
 Anlage II Kapitel IV
 
 ### Anlage II Kap IV Geschäftsbereich des Bundesministers der Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026800301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1194 -
 1200)
@@ -24230,6 +24466,7 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap IV III) - Ausgegeben
 Anlage II Kapitel IV
 
 ### Anlage II Kap IV I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE026900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -24630,6 +24867,7 @@ sind, ist das Gesetz vom Tage nach der Verkündung anzuwenden."
 Anlage II Kapitel IV
 
 ### Anlage II Kap IV II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -24713,6 +24951,7 @@ folgenden Änderungen in Kraft:
 Anlage II Kapitel IV
 
 ### Anlage II Kap IV III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027100301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -24870,6 +25109,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel V
 
 ### Anlage II Kap V Geschäftsbereich des Bundesministers für Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027200301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1201 -
 1203)
@@ -24897,6 +25137,7 @@ Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
 Wettbewerbs- und Preisrecht
 
 ### Anlage II Kap V A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027300301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -24985,6 +25226,7 @@ Anlage II Kapitel V
 Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
 ### Anlage II Kap V D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25073,6 +25315,7 @@ Anlage II Kapitel V
 Sachgebiet E - Außenwirtschaftsrecht
 
 ### Anlage II Kap V E II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027500301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen oder Maßgaben in Kraft:
@@ -25126,6 +25369,7 @@ folgenden Änderungen oder Maßgaben in Kraft:
 Anlage II Kapitel VI
 
 ### Anlage II Kap VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027600301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1204 -
 1205)
@@ -25152,6 +25396,7 @@ Anlage II Kapitel VI
 Sachgebiet A - Bodennutzung und Tierhaltung
 
 ### Anlage II Kap VI A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027700301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -25181,6 +25426,7 @@ Anlage II Kapitel VI
 Sachgebiet A - Bodennutzung und Tierhaltung
 
 ### Anlage II Kap VI A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25222,6 +25468,7 @@ Anlage II Kapitel VI
 Sachgebiet B - Treuhandvermögen
 
 ### Anlage II Kap VI B II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE027900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -25247,6 +25494,7 @@ Anlage II Kapitel VI
 Sachgebiet C - Forstwirtschaft
 
 ### Anlage II Kap VI C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25283,6 +25531,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel VII
 
 ### Anlage II Kap VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028100301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1206)
 
@@ -25291,6 +25540,7 @@ Anlage II Kapitel VII
 Anlage II Kapitel VIII
 
 ### Anlage II Kap VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028200301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1207 -
 1216)
@@ -25318,6 +25568,7 @@ Anlage II Kapitel VIII
 Sachgebiet A - Arbeitsrechtsordnung
 
 ### Anlage II Kap VIII A II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028300301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -25367,6 +25618,7 @@ Anlage II Kapitel VIII
 Sachgebiet A - Arbeitsrechtsordnung
 
 ### Anlage II Kap VIII A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25468,6 +25720,7 @@ Anlage II Kapitel VIII
 Sachgebiet C - Sozialer Arbeitsschutz
 
 ### Anlage II Kap VIII C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028500301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25519,6 +25772,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel VIII
 
 ### Anlage II Kap VIII D Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028600301)
 
 (ohne Inhalt)
 
@@ -25527,6 +25781,7 @@ Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
 Arbeitslosenversicherung
 
 ### Anlage II Kap VIII E I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028700301)
 
 Folgendes Recht der Deutschen Demokratischen Republik gilt fort:
 
@@ -25602,6 +25857,7 @@ Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
 Arbeitslosenversicherung
 
 ### Anlage II Kap VIII E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028801333)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25825,6 +26081,7 @@ Anlage II Kapitel VIII
 Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
 ### Anlage II Kap VIII F III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE028900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26192,6 +26449,7 @@ Anlage II Kapitel VIII
 Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
 ### Anlage II Kap VIII G III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26220,6 +26478,7 @@ Anlage II Kapitel VIII
 Sachgebiet H - Gesetzliche Rentenversicherung
 
 ### Anlage II Kap VIII H III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029100301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26482,6 +26741,7 @@ Anlage II Kapitel VIII
 Sachgebiet I - Gesetzliche Unfallversicherung
 
 ### Anlage II Kap VIII I III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26529,6 +26789,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel IX
 
 ### Anlage II Kap IX Geschäftsbereich des Bundesministers der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029300301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1217)
 
@@ -26538,6 +26799,7 @@ Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 Anlage II Kapitel X
 
 ### Anlage II Kap X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029400301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1218 -
 1221)
@@ -26564,6 +26826,7 @@ Anlage II Kapitel X
 Sachgebiet A - Frauenpolitik
 
 ### Anlage II Kap X A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029500301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26675,6 +26938,7 @@ Anlage II Kapitel X
 Sachgebiet B - Jugend
 
 ### Anlage II Kap X B I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029600301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -26704,6 +26968,7 @@ Anlage II Kapitel X
 Sachgebiet B - Jugend
 
 ### Anlage II Kap X B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029700301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26718,6 +26983,7 @@ Anlage II Kapitel X
 Sachgebiet D - Gesundheitspolitik
 
 ### Anlage II Kap X D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26815,6 +27081,7 @@ Anlage II Kapitel X
 Sachgebiet H - Familie und Soziales
 
 ### Anlage II Kap X H I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE029900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S.
@@ -26825,6 +27092,7 @@ Anlage II Kapitel X
 Sachgebiet H - Familie und Soziales
 
 ### Anlage II Kap X H III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -26975,6 +27243,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel XI
 
 ### Anlage II Kap XI Geschäftsbereich des Bundesministers für Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030100301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1222 -
 1225)
@@ -27001,6 +27270,7 @@ Anlage II Kapitel XI
 Sachgebiet A - Eisenbahnverkehr
 
 ### Anlage II Kap XI A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27112,6 +27382,7 @@ Anlage II Kapitel XI
 Sachgebiet B - Straßenverkehr
 
 ### Anlage II Kap XI B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030301377)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27214,6 +27485,7 @@ Anlage II Kapitel XI
 Sachgebiet C - Binnenschiffahrt und Wasserstraßen
 
 ### Anlage II Kap XI C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27246,6 +27518,7 @@ Anlage II Kapitel XI
 Sachgebiet D - Straßenbau
 
 ### Anlage II Kap XI D III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030500301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27283,6 +27556,7 @@ Anlage II Kapitel XI
 Sachgebiet E - Allgemeine verkehrliche Bestimmungen
 
 ### Anlage II Kap XI E III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030600301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27362,6 +27636,7 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel XII
 
 ### Anlage II Kap XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030700301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1226 -
 1227)
@@ -27370,6 +27645,7 @@ Anlage II Kapitel XII
 Fortgeltendes Recht der Deutschen Demokratischen Republik
 
 ### Anlage II Kap XII III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030801377)
 
 
 1.  Umweltrahmengesetz vom 29. Juni 1990 (GBl. I Nr. 42 S. 649)
@@ -27553,6 +27829,7 @@ Fortgeltendes Recht der Deutschen Demokratischen Republik
 Anlage II Kapitel XIII
 
 ### Anlage II Kap XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE030900301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1228 -
 1229)
@@ -27580,6 +27857,7 @@ Anlage II Kapitel XIII
 Sachgebiet B - Postwesen
 
 ### Anlage II Kap XIII B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031000301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27648,6 +27926,7 @@ Anlage II Kapitel XIII
 Sachgebiet C - Fernmeldewesen
 
 ### Anlage II Kap XIII C I Abschnitt I
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031100301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -27663,6 +27942,7 @@ Anlage II Kapitel XIII
 Sachgebiet C - Fernmeldewesen
 
 ### Anlage II Kap XIII C III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27731,12 +28011,14 @@ folgenden Maßgaben in Kraft:
 Anlage II Kapitel XIV
 
 ### Anlage II Kap XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031300301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1230)
 
 Anlage II Kapitel XIV
 
 ### Anlage II Kap XIV III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27762,12 +28044,14 @@ c)  In § 17 Abs. 1 entfällt die Mindestandrohung von 1.000 Deutsche Mark.
 Anlage II Kapitel XV
 
 ### Anlage II Kap XV Geschäftsbereich des Bundesministers für Forschung und Technologie
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031500301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1231)
 
 Anlage II Kapitel XV
 
 ### Anlage II Kap XV II Abschnitt II
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031600301)
 
 Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 
@@ -27859,6 +28143,7 @@ Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 Anlage II Kapitel XVI
 
 ### Anlage II Kap XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031700301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1232)
 
@@ -27884,6 +28169,7 @@ Anlage II Kapitel XVI
 Sachgebiet A - Ausbildungsförderung
 
 ### Anlage II Kap XVI A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27933,6 +28219,7 @@ Anlage II Kapitel XVI
 Sachgebiet B - Berufliche Bildung
 
 ### Anlage II Kap XVI B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE031900301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27946,6 +28233,7 @@ sind.
 Anlage II Kapitel XVII
 
 ### Anlage II Kap XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032000301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1233)
 
@@ -27955,12 +28243,14 @@ Anlage II Kapitel XVIII
 Statistik
 
 ### Anlage II Kap XVIII 
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032100301)
 
 Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1234
 
 Anlage II Kapitel XVIII
 
 ### Anlage II Kap XVIII III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032200301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgender Maßgabe in Kraft:
@@ -28012,6 +28302,7 @@ zum 30. Juni 1991 abgeschlossen sein müssen:
 Anlage II Kapitel XIX
 
 ### Anlage II Kap XIX Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032300301)
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1235 -
 1236)
@@ -28039,6 +28330,7 @@ Anlage II Kapitel XIX
 Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
 ### Anlage II Kap XIX A III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032600301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28065,6 +28357,7 @@ Anlage II Kapitel XIX
 Sachgebiet B - Recht der Soldaten
 
 ### Anlage II Kap XIX B III Abschnitt III
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032400301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -28139,6 +28432,7 @@ der Regierungen der Bundesrepublik Deutschland und der Deutschen
 Demokratischen Republik zur Regelung offener Vermögensfragen
 
 ### Anlage III Vom 15. Juni 1990
+[Direktlink](https://www.gesetze-im-internet.de/einigvtr/BJNR208890990.html#BJNR208890990BJNE032500301)
 
 Die Teilung Deutschlands, die damit verbundene Bevölkerungswanderung
 von Ost nach West und die unterschiedlichen Rechtsordnungen in beiden

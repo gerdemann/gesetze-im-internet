@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000100325)
 
 Auf Grund des § 76 Abs. 3 des Bundessozialhilfegesetzes vom 30. Juni
 1961 (Bundesgesetzbl. I S. 815) verordnet die Bundesregierung mit
@@ -27,6 +28,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000201310)
 
 Bei der Berechnung der Einkünfte in Geld oder Geldeswert, die nach §
 82 Abs. 1 des Zwölften Buches Sozialgesetzbuch zum Einkommen gehören,
@@ -37,6 +39,7 @@ unterliegen, zugrunde zu legen.
 
 
 ## § 2 Bewertung von Sachbezügen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000302310)
 
 (1) Für die Bewertung von Einnahmen, die nicht in Geld bestehen (Kost,
 Wohnung und sonstige Sachbezüge), sind die auf Grund des § 17 Abs. 2
@@ -55,6 +58,7 @@ Vertrag andere Werte festgesetzt worden sind.
 
 
 ## § 3 Einkünfte aus nichtselbständiger Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000403116)
 
 (1) Welche Einkünfte zu den Einkünften aus nichtselbständiger Arbeit
 gehören, bestimmt sich nach § 19 Abs. 1 Ziff. 1 des
@@ -190,6 +194,7 @@ Haushalt trägt, den er gemeinsam mit nächsten Angehörigen führt.
 
 
 ## § 4 Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000500325)
 
 (1) Welche Einkünfte zu den Einkünften aus Land- und Forstwirtschaft,
 Gewerbebetrieb und selbständiger Arbeit gehören, bestimmt sich nach §
@@ -246,6 +251,7 @@ sie vom Gewinn abzusetzen.
 
 
 ## § 5 Sondervorschrift für die Einkünfte aus Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000600325)
 
 (1) Die Träger der Sozialhilfe können mit Zustimmung der zuständigen
 Landesbehörde die Einkünfte aus Land- und Forstwirtschaft abweichend
@@ -269,6 +275,7 @@ unberücksichtigt.
 
 
 ## § 6 Einkünfte aus Kapitalvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000701310)
 
 (1) Welche Einkünfte zu den Einkünften aus Kapitalvermögen gehören,
 bestimmt sich nach § 20 Abs. 1 bis 3 des Einkommensteuergesetzes.
@@ -286,6 +293,7 @@ Einkünfte für das Berechnungsjahr auch nachträglich errechnet werden.
 
 
 ## § 7 Einkünfte aus Vermietung und Verpachtung
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000801310)
 
 (1) Welche Einkünfte zu den Einkünften aus Vermietung und Verpachtung
 gehören, bestimmt sich nach § 21 Abs. 1 und 3 des
@@ -359,6 +367,7 @@ entsprechend.
 
 
 ## § 8 Andere Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE000901116)
 
 (1) Andere als die in den §§ 3, 4, 6 und 7 genannten Einkünfte sind,
 wenn sie nicht monatlich oder wenn sie monatlich in unterschiedlicher
@@ -372,6 +381,7 @@ sonstige wiederkehrende Bezüge. § 3 Abs. 3 gilt entsprechend.
 
 
 ## § 9 Einkommensberechnung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001000325)
 
 Ist der Bedarf an Sozialhilfe einmalig oder nur von kurzer Dauer und
 duldet die Entscheidung über die Hilfe keinen Aufschub, so kann der
@@ -380,6 +390,7 @@ Einkünfte schätzen.
 
 
 ## § 10 Verlustausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001100325)
 
 Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht
 vorzunehmen. In Härtefällen kann jedoch die gesamtwirtschaftliche Lage
@@ -387,6 +398,7 @@ des Beziehers des Einkommens berücksichtigt werden.
 
 
 ## § 11 Maßgebender Zeitraum
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001201310)
 
 (1) Soweit die Einkünfte als Jahreseinkünfte berechnet werden, gilt
 der zwölfte Teil dieser Einkünfte zusammen mit den monatlich
@@ -407,6 +419,7 @@ Einkünfte den Hauptbestandteil des Einkommens bilden.
 
 
 ## § 12 Ausgaben nach § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001302310)
 
 Die in § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
 bezeichneten Ausgaben sind von der Summe der Einkünfte abzusetzen,
@@ -415,11 +428,13 @@ den einzelnen Einkunftsarten abzuziehen sind.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001401310)
 
 (weggefallen)
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bshg_76dv/BJNR006920962.html#BJNR006920962BJNE001500325)
 
 Diese Verordnung tritt am 1. Januar 1963 in Kraft.
 

@@ -21,6 +21,7 @@ Fundstelle
 Stand: In Kraft getreten gem. Bek. v. 23.9.2010 I 1359 mWv 20.1.1999
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000100000)
 
 Das Land Brandenburg und der Freistaat Sachsen (Vertragsparteien)
 schließen auf der Grundlage des Artikels 29 Abs. 7 des Grundgesetzes
@@ -31,6 +32,7 @@ Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000200000)
 
 (1) Die Flurstücke 2/2, 2/5, 3/1, 3/2 und 4/1 der Flur 6 der Gemarkung
 Rohne, Gemeinde Schleife, Landkreis Niederschlesischer
@@ -55,6 +57,7 @@ ist in den Anlagen 1 und 2 zu diesem Vertrag dargestellt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000300000)
 
 (1) Mit Inkrafttreten dieses Vertrages treten in den
 Umgliederungsgebieten das Landesrecht des aufnehmenden Landes und das
@@ -95,6 +98,7 @@ geregelt werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000400000)
 
 (1) Das in den Umgliederungsgebieten belegene Verwaltungsvermögen von
 Körperschaften des öffentlichen Rechts geht mit Inkrafttreten dieses
@@ -114,6 +118,7 @@ dort betätigen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000500000)
 
 Die beteiligten Gemeinden und Landkreise sind verpflichtet, möglichst
 innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages die
@@ -128,6 +133,7 @@ der Vertragsparteien einschließlich der Gerichte.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000600000)
 
 (1) Schülerinnen und Schüler mit Wohnung in den Umgliederungsgebieten
 können die bei Inkrafttreten dieses Vertrages bestehenden
@@ -151,6 +157,7 @@ den Umgliederungsgebieten der Vertragsparteien erhoben.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000700000)
 
 Die Anlagen 1 und 2 sind Bestandteil dieses Vertrages. Ausfertigungen
 der Anlagen werden beim Landesvermessungsamt Brandenburg und beim
@@ -159,6 +166,7 @@ werden.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000800000)
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden unverzüglich ausgetauscht.
@@ -168,6 +176,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_sn/BJNR136000010.html#BJNR136000010BJNE000900000)
 
 Für das Land Brandenburg
 Der Ministerpräsident

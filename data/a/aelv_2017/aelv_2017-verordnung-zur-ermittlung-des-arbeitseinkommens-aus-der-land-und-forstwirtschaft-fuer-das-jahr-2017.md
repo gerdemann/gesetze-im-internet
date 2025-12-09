@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000100000)
 
 Auf Grund des § 35 des Gesetzes über die Alterssicherung der
 Landwirte, der zuletzt durch Artikel 438 der Verordnung vom 31. August
@@ -27,6 +28,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Ermittlung des Arbeitseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000200000)
 
 (1) Das für die Gewährung von Beitragszuschüssen für das Jahr 2017
 maßgebende Arbeitseinkommen aus Land- und Forstwirtschaft wird auf der
@@ -162,16 +164,19 @@ volle Euro abgerundet.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000500000)
 
 (Fundstelle: BGBl. I 2016, 2491)
 
@@ -241,6 +246,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000600000)
 
 (Fundstelle: BGBl. I 2016, 2491)
 
@@ -310,6 +316,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 3 (zu § 1 Absatz 3 Satz 1 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000700000)
 
 (Fundstelle: BGBl. I 2016, 2492)
 
@@ -374,6 +381,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 4 (zu § 1 Absatz 3 Satz 1 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/_lv_2017/BJNR248900016.html#BJNR248900016BJNE000800000)
 
 (Fundstelle: BGBl. I 2016, 2492)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000100000)
 
 Diese Verordnung regelt den Schutz von Beständen zur Erzeugung oder
 zum Erhalt von Obstanbaumaterial sowie von Erwerbsobstbeständen vor
@@ -27,6 +28,7 @@ Regelungen in Rechtsakten der Europäischen Union unterliegen
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000200000)
 
 Im Sinne dieser Verordnung sind
 
@@ -151,6 +153,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Festlegung von Gebieten zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000300000)
 
 Die zuständige Behörde kann im Umfeld von Beständen zur Erzeugung oder
 zum Erhalt von Obstanbaumaterial oder Erwerbsobstbeständen ein Gebiet
@@ -179,12 +182,14 @@ Maßnahmen nach § 5 Absatz 1 angeordnet werden können.
 
 
 ## § 4 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000400000)
 
 Die zuständige Behörde kann Wirtspflanzen und Bestände auf die in § 2
 Nummer 1 genannten Schadorganismen untersuchen.
 
 
 ## § 5 Maßnahmen zur Verhinderung der Ausbreitung von besonderen unionsgeregelten Nicht-Quarantäneschadorganismen
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000500000)
 
 (1) Die zuständige Behörde kann in einem nach § 3 festgelegten Gebiet,
 soweit es zur Verhinderung des Befalls mit den in § 2 Nummer 1
@@ -227,6 +232,7 @@ angeordneten Verfahren durchzuführen.
 
 
 ## § 6 Versuchszwecke
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000600000)
 
 Wer Versuche mit den unter § 2 Nummer 1 aufgeführten besonderen
 unionsgeregelten Nicht-Quarantäneschadorganismen im Freiland
@@ -236,6 +242,7 @@ anzuzeigen.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/pflbestschv/BJNR1150B0023.html#BJNR1150B0023BJNE000700000)
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig

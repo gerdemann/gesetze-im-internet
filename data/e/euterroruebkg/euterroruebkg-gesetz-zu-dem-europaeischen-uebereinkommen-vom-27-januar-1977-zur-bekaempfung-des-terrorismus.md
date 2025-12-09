@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/euterror_bkg/BJNR203210978.html#BJNR203210978BJNE000100306)
 
 Dem in Straßburg am 27. Januar 1977 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen zur Bekämpfung des
@@ -27,6 +28,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/euterror_bkg/BJNR203210978.html#BJNR203210978BJNE000200306)
 
 Bei der Prüfung der Zulässigkeit der Auslieferung ist eine schwere
 Gewalttat im Sinne des Artikels 2 Abs. 1 des Übereinkommens oder eine
@@ -55,12 +57,14 @@ worden ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/euterror_bkg/BJNR203210978.html#BJNR203210978BJNE000300306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/euterror_bkg/BJNR203210978.html#BJNR203210978BJNE000400306)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000100000)
 
 Aufgabe der Versorgungsausgleichskasse ist es ausschließlich, die
 Versorgung der ausgleichsberechtigten Person bei der externen Teilung
@@ -30,6 +31,7 @@ ausübt.
 
 
 ## § 2 Rechtsform, anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000201119)
 
 (1) Die Versorgungsausgleichskasse ist eine Pensionskasse im Sinne des
 § 232 des Versicherungsaufsichtsgesetzes in der Rechtsform eines
@@ -40,6 +42,7 @@ dieses Gesetz nichts anderes bestimmt.
 
 
 ## § 3 Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000303119)
 
 (1) Die erstmalige Erlaubnis zum Geschäftsbetrieb durch die
 Bundesanstalt für Finanzdienstleistungsaufsicht bedarf der Zustimmung
@@ -69,6 +72,7 @@ Vertriebskosten eingerechnet werden.
 
 
 ## § 4 Leistungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000401119)
 
 (1) Die von der Versorgungsausgleichskasse durchgeführte Versicherung
 muss die Voraussetzungen nach § 1 Absatz 1 Satz 1 Nummer 2 und 4
@@ -92,6 +96,7 @@ werden.
 
 
 ## § 5 Beschränkung des Anrechts
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000501308)
 
 (1) Ein bei der Versorgungsausgleichskasse bestehendes Anrecht ist
 nicht übertragbar, nicht beleihbar und nicht veräußerbar. Es darf
@@ -105,6 +110,7 @@ möglich.
 
 
 ## § 6 Bilanzierung von Rückdeckungsversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/versausglkassg/BJNR194700009.html#BJNR194700009BJNE000600000)
 
 Verträge, die von der Versorgungsausgleichskasse nach § 3 Absatz 3 bei
 Lebensversicherungsunternehmen eingegangen werden, sind abweichend von

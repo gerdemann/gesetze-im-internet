@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNG000100000)
 
 
 ### § 1 Verkündungs- und Bekanntmachungsorgane des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000100000)
 
 (1) Das Bundesgesetzblatt ist das Verkündungsorgan des Bundes für
 Gesetze und Rechtsverordnungen. Das Bundesgesetzblatt ist außerdem das
@@ -48,6 +50,7 @@ Bundesministerium der Justiz herausgegeben.
 
 
 ### § 2 Ausgabe und dauerhafte Bereithaltung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000200000)
 
 (1) Das Bundesgesetzblatt wird vom Bundesamt für Justiz auf der
 Internetseite www.recht.bund.de ausgegeben. Es wird dort vollständig
@@ -62,6 +65,7 @@ S. 2941, 2942, 4114) in der jeweils geltenden Fassung ist anzuwenden.
 
 
 ### § 3 Verkündung und amtliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000300000)
 
 (1) Die Verkündung von Gesetzen und Rechtsverordnungen erfolgt jeweils
 durch die Ausgabe einer Nummer des Bundesgesetzblatts. Amtliche
@@ -75,6 +79,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 
 ### § 4 Freier Zugang
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000400000)
 
 (1) Das Bundesgesetzblatt ist jederzeit frei zugänglich. Es kann
 unentgeltlich gelesen, ausgedruckt, gespeichert und verwertet werden.
@@ -85,6 +90,7 @@ werden.
 
 
 ### § 5 Benachrichtigungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000500000)
 
 Für das Bundesgesetzblatt ist ein unentgeltlicher elektronischer
 Benachrichtigungsdienst bereitzustellen, der über jede Ausgabe einer
@@ -93,6 +99,7 @@ amtlichen Teil des Bundesanzeigers.
 
 
 ### § 6 Änderungsverbot; Löschung personenbezogener Daten; Berichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000600000)
 
 (1) Änderungen des Bundesgesetzblatts auf der Internetseite
 www.recht.bund.de und des amtlichen Teils des Bundesanzeigers auf der
@@ -111,6 +118,7 @@ Bundesanzeiger entsprechend.
 
 
 ### § 7 Sicherung der Echtheit und Unverfälschtheit
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000700000)
 
 (1) Jede Nummer des Bundesgesetzblatts, die nach § 3 Absatz 1 oder
 nach § 8 Absatz 1 ausgegeben wird, und jede Nummer des amtlichen Teils
@@ -130,9 +138,11 @@ von Rechtsverordnungen und amtlichen Bekanntmachungen.
 
 
 ## Abschnitt 2 - Verkündung und Bekanntmachung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNG000200000)
 
 
 ### § 8 Ersatzverkündungen und -bekanntmachungen des Bundesgesetzblatts
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000800000)
 
 (1) Ist die Ausgabe einer Nummer des Bundesgesetzblatts auf der
 Internetseite www.recht.bund.de nicht nur kurzfristig unmöglich, so
@@ -154,6 +164,7 @@ und Behörden auszugeben.
 
 
 ### § 9 Vereinfachte Verkündungen und vereinfachte amtliche Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE000900000)
 
 Ist die Ausgabe einer Nummer des Bundesgesetzblatts weder nach § 3
 Absatz 1 noch nach § 8 rechtzeitig möglich, so findet sie in den
@@ -189,6 +200,7 @@ amtliche Bekanntmachung statt:
 
 
 ### § 10 Arten der vereinfachten Verkündung und der vereinfachten amtlichen Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001000000)
 
 (1) Eine vereinfachte Verkündung oder vereinfachte amtliche
 Bekanntmachung nach § 9 erfolgt durch die Ausgabe der Nummer des
@@ -227,6 +239,7 @@ bleibt unberührt.
 
 
 ### § 11 Duldungs- und Mitwirkungspflichten; Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001100000)
 
 (1) Die für die Verkündung oder die amtliche Bekanntmachung zuständige
 Stelle kann
@@ -306,6 +319,7 @@ Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
 
 
 ### § 12 Nachträgliche Bereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001200000)
 
 Sobald die Ausgabe des Bundesgesetzblatts auf der Internetseite
 www.recht.bund.de wieder möglich ist, werden dort die nach den §§ 8
@@ -314,6 +328,7 @@ bereitgestellt.
 
 
 ### § 13 Aufwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001300000)
 
 Wer zur Ausführung folgender Anordnungen verpflichtet wurde, kann von
 der Bundesrepublik Deutschland nach Maßgabe des § 670 des Bürgerlichen
@@ -336,6 +351,7 @@ Gesetzbuchs den Ersatz der Aufwendungen verlangen:
 
 
 ### § 14 Ersatzbekanntmachungen des Bundesanzeigers
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001400000)
 
 (1) Ist die Ausgabe des Bundesanzeigers auf der Internetseite
 www.bundesanzeiger.de nicht nur kurzfristig unmöglich, so erfolgen
@@ -372,9 +388,11 @@ bereitgestellt.
 
 
 ## Abschnitt 3 - Bekanntmachungen von Beschlüssen nach Artikel 80a des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNG000300000)
 
 
 ### § 15 Zuständige Stelle für die amtliche Bekanntmachung von Beschlüssen nach Artikel 80a des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001500000)
 
 Zuständige Stelle für die amtliche Bekanntmachung der Beschlüsse nach
 Artikel 80a Absatz 1 und 3 Satz 1 des Grundgesetzes ist die
@@ -383,6 +401,7 @@ Bundesregierung.
 
 
 ### § 16 Verfahren der amtlichen Bekanntmachung von Beschlüssen nach Artikel 80a des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001600000)
 
 Beschlüsse nach Artikel 80a Absatz 1 und 3 Satz 1 des Grundgesetzes
 sind unverzüglich im Bundesgesetzblatt bekannt zu machen. In der
@@ -396,9 +415,11 @@ anwendbaren Rechtsvorschriften sind jeweils genau zu bezeichnen.
 
 
 ## Abschnitt 4 - Archivierung
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNG000400000)
 
 
 ### § 17 Dauerhafte Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001700000)
 
 (1) Jede Nummer des Bundesgesetzblatts ist zusammen mit einem Nachweis
 über den Verkündungs- oder Bekanntmachungszeitpunkt zur dauerhaften
@@ -440,6 +461,7 @@ Zwischenarchiv abzugeben.
 
 
 ### § 18 Erhaltung des Beweiswerts
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001800000)
 
 Enthalten die nach § 17 Absatz 1 und 3 dauerhaft aufzubewahrenden
 Dokumente ein qualifiziertes elektronisches Siegel, eine qualifizierte
@@ -453,9 +475,11 @@ gewährleistet ist.
 
 
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNG000500000)
 
 
 ### § 19 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE001900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer einer vollziehbaren Anordnung nach § 11 Absatz 1
@@ -463,6 +487,7 @@ Nummer 1 oder 2 oder Absatz 2 Satz 1 zuwiderhandelt.
 
 
 ### § 20 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vkbkmg/BJNR275210022.html#BJNR275210022BJNE002000000)
 
 (1) Ordnungswidrig handelt, wer eine in § 19 bezeichnete Handlung
 fahrlässig begeht.

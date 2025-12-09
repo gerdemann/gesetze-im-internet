@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000100000)
 
 Auf Grund des § 6 Absatz 5 und des § 7 Absatz 4 und Absatz 5 Satz 2
 des Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I
@@ -30,9 +31,11 @@ verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000300000)
 
 Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Brennstoffemissionshandelsgesetzes. Sie ist beschränkt auf die
@@ -41,6 +44,7 @@ Brennstoffemissionshandelsgesetzes für die Periode 2021 und 2022.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000401130)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des
 Brennstoffemissionshandelsgesetzes und der
@@ -142,9 +146,11 @@ Begriffsbestimmungen:
 
 
 ## Abschnitt 2 - Überwachungsplan (zu § 6 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNG000200000)
 
 
 ### § 3 Entbehrlichkeit des Überwachungsplans
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000500000)
 
 Für die Periode 2021 und 2022 entfallen die Pflichten nach § 6 Absatz
 1 des Brennstoffemissionshandelsgesetzes zur Übermittlung und
@@ -153,9 +159,11 @@ Genehmigung eines Überwachungsplans oder eines vereinfachten
 
 
 ## Abschnitt 3 - Überwachung, Ermittlung und Berichterstattung der Brennstoffemissionen (zu den §§ 6 und 7 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNG000300000)
 
 
 ### § 4 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000600000)
 
 (1) Für die Überwachung, Ermittlung und Berichterstattung der
 Brennstoffemissionen gelten die in den Absätzen 2 bis 4 näher
@@ -192,6 +200,7 @@ der Daten des Verantwortlichen enthalten.
 
 
 ### § 5 Ermittlung von Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000700000)
 
 (1) Der Verantwortliche hat die Brennstoffemissionen der in jedem
 Kalenderjahr in Verkehr gebrachten Brennstoffe nach den Vorschriften
@@ -226,6 +235,7 @@ Inverkehrbringen folgenden Jahres mitteilt.
 
 
 ### § 6 Berücksichtigung des Bioenergieanteils bei der Ermittlung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000801130)
 
 (1) Bei der Ermittlung der Brennstoffemissionen kann der
 Verantwortliche für den Bioenergieanteil eines Brennstoffs einen
@@ -297,6 +307,7 @@ Verordnung.
 
 
 ### § 7 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE000900000)
 
 (1) Der nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes bis
 zum 31. Juli des Folgejahres zu übermittelnde Emissionsbericht umfasst
@@ -327,6 +338,7 @@ Satz 3 gilt erstmals für den Emissionsbericht für das Kalenderjahr
 
 
 ### § 8 Berichterstattungsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001000000)
 
 Eine Pflicht des Verantwortlichen zur Berichterstattung nach § 7
 Absatz 1 des Brennstoffemissionshandelsgesetzes besteht nicht, soweit
@@ -336,6 +348,7 @@ von weniger als 1 Tonne Kohlendioxid führen können.
 
 
 ### § 9 Aufbewahrung von Unterlagen und Daten
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001100000)
 
 (1) Verantwortliche müssen alle Unterlagen und Daten, auf deren Basis
 ein Emissionsbericht nach § 7 Absatz 1 des
@@ -356,6 +369,7 @@ rechtskräftigen Abschluss.
 
 
 ### § 10 Vermeidung von Doppelerfassungen nach § 7 Absatz 4 Nummer 5 des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001200000)
 
 (1) Der Verantwortliche kann eine entsprechende Menge an
 Brennstoffemissionen von den nach § 7 Absatz 1 des
@@ -453,6 +467,7 @@ Brennstoffemissionshandelsgesetzes geltend gemacht wird.
 
 
 ### § 11 Vermeidung von Doppelbelastungen nach § 7 Absatz 5 des Brennstoffemissionshandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001300000)
 
 (1) Der Verantwortliche kann eine Menge an Brennstoffemissionen von
 den nach § 7 Absatz 1 des Brennstoffemissionshandelsgesetzes zu
@@ -517,15 +532,18 @@ EU-Emissionshandel unterliegenden Anlage geliefert wurden.
 
 
 ## Abschnitt 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNG000400000)
 
 
 ### § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu den §§ 5, 6, 10 und 11)
 
 ### Anlage 1 Ermittlung der Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001500000)
 
 (Fundstelle: BGBl. I 2020, 3021 - 3022)
 
@@ -857,6 +875,7 @@ Formel 3,6 GJ/MWh \* 0,903 GJ/GJ.
 (zu den §§ 6, 7, 10 und 11)
 
 ### Anlage 2 Mindestinhalt eines jährlichen Emissionsberichts
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001600000)
 
 (Fundstelle: BGBl. I 2020, 3023 - 3024)
 
@@ -1045,6 +1064,7 @@ Nachweise enthalten:
 (zu § 11)
 
 ### Anlage 3 Erforderliche Erklärungen, Angaben und Nachweise des belieferten Unternehmens im Zusammenhang mit dem Abzug von Brennstoffemissionen bei der Lieferung von Brennstoffen zum Einsatz in einer dem EU-Emissionshandel unterliegenden Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ebev_2022/BJNR301600020.html#BJNR301600020BJNE001700000)
 
 (Fundstelle: BGBl. I 2020, 3025)
 

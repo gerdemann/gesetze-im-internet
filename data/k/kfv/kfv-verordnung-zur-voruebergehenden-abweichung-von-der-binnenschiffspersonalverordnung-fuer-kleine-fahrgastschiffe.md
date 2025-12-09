@@ -30,6 +30,7 @@ die Verordnung (EU) Nr. 2022/184 vom 22. November 2021 (ABl. L 30 vom
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000100000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet aufgrund
 des § 3 Absatz 1 Nummer 2 der Binnenschiffspersonalverordnung vom 26.
@@ -39,6 +40,7 @@ durch Artikel 5 der Verordnung vom 23. Juli 2024 (BGBl. 2024 I Nr.
 
 
 ## § 1 Abweichende Regelung zum Geltungsbereich des Kleinschifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000200000)
 
 Abweichend von § 15 Absatz 5 Satz 1 der
 Binnenschiffspersonalverordnung berechtigt das nach Maßgabe dieser
@@ -49,6 +51,7 @@ Fahrgastschiff). Dies gilt nicht auf dem Rhein.
 
 
 ## § 2 Abweichende Regelungen zu den Voraussetzungen für den Erwerb des Kleinschifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000300000)
 
 (1) Abweichend von § 24 Absatz 1 Satz 2 der
 Binnenschiffspersonalverordnung dürfen die Tauglichkeitsuntersuchungen
@@ -87,6 +90,7 @@ Binnenschiffspersonalverordnung sind zu erfüllen.
 
 
 ## § 3 Abweichende Regelungen zur behördlichen Befähigungsprüfung zum Erwerb des Kleinschifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000400000)
 
 (1) Abweichend von § 38 Absatz 1 Satz 1 in Verbindung mit § 40 Absatz
 5 Satz 3 der Binnenschiffspersonalverordnung sind Gegenstand der
@@ -117,6 +121,7 @@ Binnenschiffspersonalverordnung abzulegen.
 
 
 ## § 4 Abweichende Regelung zur Erteilung des Kleinschifferzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000500000)
 
 Abweichend von § 78 Absatz 3 Nummer 5 der
 Binnenschiffspersonalverordnung ist das Kleinschifferzeugnis für
@@ -128,6 +133,7 @@ einzutragen ist.
 
 
 ## § 5 Besatzungsvorschriften für Fahrgastschiffe mit einer Länge von weniger als 35 Metern
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000600000)
 
 § 96 Absatz 2 der Binnenschiffspersonalverordnung gilt für die
 Besatzung auf Fahrgastschiffen mit einer Länge von weniger als 35
@@ -135,6 +141,7 @@ Metern entsprechend.
 
 
 ## § 6 Abweichende Regelung zur Mindestbesatzung auf Tagesausflugsschiffen
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000700000)
 
 (1) Abweichend von § 108 Absatz 1 der Binnenschiffspersonalverordnung
 kann für ein Tagesausflugsschiff mit einer Länge von weniger als 35
@@ -167,6 +174,7 @@ Matrosen und einen Leichtmatrosen ersetzt werden.
 
 
 ## § 7 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000800000)
 
 Die Regelungen dieser Rechtsverordnung sind durch die zuständige
 Behörde nach § 4 der Binnenschiffspersonalverordnung im Anschluss an
@@ -177,11 +185,13 @@ dieser Verordnung für die Personalgewinnung zu beurteilen.
 
 
 ## § 8 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE000900000)
 
 Diese Verordnung tritt mit Ablauf des 25. Juli 2028 außer Kraft.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfv/BJNR0B20A0025.html#BJNR0B20A0025BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

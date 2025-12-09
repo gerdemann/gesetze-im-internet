@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000100000)
 
 Auf Grund des § 1 Absatz 5 Nummer 2 und 3 des
 Auswandererschutzgesetzes in der Fassung der Bekanntmachung vom 12.
@@ -25,6 +26,7 @@ Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000200000)
 
 (1) Der Antrag auf Erteilung der Erlaubnis zur Auswandererberatung
 muss enthalten:
@@ -87,6 +89,7 @@ weitere bestimmte Unterlagen vorgelegt werden.
 
 
 ## § 2 Beurteilung der Persönlichen Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000300000)
 
 (1) Zur Beurteilung der persönlichen Zuverlässigkeit im Sinne des § 1
 Absatz 1 Satz 2 des Auswandererschutzgesetzes hat der Antragsteller
@@ -119,6 +122,7 @@ Freistellungsbescheid des zuständigen Finanzamtes vorzulegen.
 
 
 ## § 3 Beurteilung der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000400000)
 
 Der Bewerber hat zur Beurteilung seiner Sachkunde Unterlagen
 vorzulegen, aus denen seine Qualifikation für die Beratertätigkeit
@@ -147,6 +151,7 @@ insbesondere:
 
 
 ## § 4 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000500000)
 
 Änderungen zu den nach den vorstehenden Vorschriften gemachten Angaben
 sind dem Bundesverwaltungsamt unverzüglich und unaufgefordert
@@ -154,11 +159,13 @@ mitzuteilen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 1 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/auswerlv/BJNR080500013.html#BJNR080500013BJNE000700000)
 
 (Fundstelle: BGBl. I 2013, 807 - 810)
 

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lvandzust_ndg/BJNR000980979.html#BJNR000980979BJNE000100319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/lvandzust_ndg/BJNR000980979.html#BJNR000980979BJNE000200319)
 
 Im Land Niedersachsen sind örtlich zuständig:
 
@@ -57,17 +59,20 @@ Im Land Niedersachsen sind örtlich zuständig:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/lvandzust_ndg/BJNR000980979.html#BJNR000980979BJNE000300319)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/lvandzust_ndg/BJNR000980979.html#BJNR000980979BJNE000400319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/lvandzust_ndg/BJNR000980979.html#BJNR000980979BJNE000500319)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

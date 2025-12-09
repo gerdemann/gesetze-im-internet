@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-70 v. 15.5.1998 I 1007 (MetBildAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der durch
 Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
@@ -34,9 +35,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000300000)
 
 Der Ausbildungsberuf des Metallbildners und der Metallbildnerin wird
 nach § 25 Absatz 1 der Handwerksordnung zur Ausbildung für das Gewerbe
@@ -45,11 +48,13 @@ Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -205,6 +211,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -212,6 +219,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -222,9 +230,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE000900000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -236,6 +246,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001000000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -252,6 +263,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001100000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich
 Fertigungsauftrag statt.
@@ -298,6 +310,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001200000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -319,6 +332,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001300000)
 
 Teil 2 der Gesellenprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -339,6 +353,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich Kundenauftrag
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001400000)
 
 (1) Im Prüfungsbereich Kundenauftrag ist der Prüfling in der
 Fachrichtung zu prüfen, in der er ausgebildet worden ist.
@@ -466,6 +481,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 13 Prüfungsbereich Skizzen, Entwürfe und technische Zeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001500000)
 
 (1) Im Prüfungsbereich Skizzen, Entwürfe und technische Zeichnungen
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -501,6 +517,7 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Technologie und Arbeitsplanung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001600000)
 
 (1) Im Prüfungsbereich Technologie und Arbeitsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -543,6 +560,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -556,6 +574,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -649,9 +668,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNG000300000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Metallbildner/zur
@@ -660,6 +681,7 @@ Metallbildnerin vom 15. Mai 1998 (BGBl. I S. 1007) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metallbildner und zur Metallbildnerin
+[Direktlink](https://www.gesetze-im-internet.de/metallbausbvo/BJNR133500016.html#BJNR133500016BJNE002000000)
 
 (Fundstelle: BGBl. I 2016,1340 - 1348)
 

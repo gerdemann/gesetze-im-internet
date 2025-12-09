@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNG000100308)
 
 
 
 ### § 1 Zusammenarbeitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE000500308)
 
 (1) Der Verfassungsschutz dient dem Schutz der freiheitlichen
 demokratischen Grundordnung, des Bestandes und der Sicherheit des
@@ -38,6 +40,7 @@ Hilfeleistung.
 
 
 ### § 2 Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE000603311)
 
 (1) Für die Zusammenarbeit des Bundes mit den Ländern unterhält der
 Bund ein Bundesamt für Verfassungsschutz als Bundesoberbehörde. Es
@@ -52,6 +55,7 @@ gemeinsame Behörde unterhalten.
 
 
 ### § 3 Aufgaben der Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE000711377)
 
 (1) Aufgabe der Verfassungsschutzbehörden des Bundes und der Länder
 ist die Sammlung und Auswertung von Informationen, insbesondere von
@@ -128,6 +132,7 @@ Rechtsvorschriften gebunden (Artikel 20 des Grundgesetzes).
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE000801311)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -197,6 +202,7 @@ g)  die im Grundgesetz konkretisierten Menschenrechte.
 
 
 ### § 5 Zuständigkeiten des Bundesamtes für Verfassungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE000906116)
 
 (1) Das Bundesamt für Verfassungsschutz darf in einem Lande im
 Benehmen mit der Landesbehörde für Verfassungsschutz Informationen,
@@ -294,6 +300,7 @@ solchen Dienstverkehr führen
 
 
 ### § 6 Gegenseitige Unterrichtung der Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001005377)
 
 (1) Die Landesbehörden für Verfassungsschutz und das Bundesamt für
 Verfassungsschutz übermitteln sich unverzüglich die für ihre Aufgaben
@@ -340,6 +347,7 @@ nach Ablauf von fünf Jahren zu löschen.
 
 
 ### § 7 Weisungsrechte des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001100308)
 
 Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige
 Ordnung des Bundes erfolgt, den obersten Landesbehörden die für die
@@ -348,10 +356,12 @@ Verfassungsschutzes erforderlichen Weisungen erteilen.
 
 
 ## Zweiter Abschnitt - Bundesamt für Verfassungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNG000200308)
 
 
 
 ### § 8 Befugnisse des Bundesamtes für Verfassungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001209311)
 
 (1) Das Bundesamt für Verfassungsschutz darf die zur Erfüllung seiner
 Aufgaben erforderlichen Informationen einschließlich personenbezogener
@@ -395,6 +405,7 @@ beabsichtigten Erfolg steht.
 
 
 ### § 8a Besondere Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003314311)
 
 (1) Das Bundesamt für Verfassungsschutz darf im Einzelfall Auskunft
 einholen bei
@@ -512,6 +523,7 @@ werden, die in Deutschland
 
 
 ### § 8b Verfahrensregelungen zu besonderen Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003509311)
 
 (1) Anordnungen nach § 8a Absatz 1 und 2 werden vom Behördenleiter
 oder seinem Vertreter beantragt; der Antrag ist schriftlich zu stellen
@@ -657,10 +669,12 @@ erlassene Rechtsverordnung sowie die Vorgaben nach Absatz 8 Satz 4 und
 
 
 ### § 8c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003604311)
 
 
 
 ### § 8d Besondere Auskunftsverlangen zu Bestandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003704377)
 
 (1) Soweit dies auf Grund tatsächlicher Anhaltspunkte im Einzelfall
 zur Aufklärung bestimmter Bestrebungen oder Tätigkeiten nach § 3
@@ -728,6 +742,7 @@ Maßgabe des Absatzes 2 Satz 1 eingeschränkt.
 
 
 ### § 9 Besondere Formen der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001316311)
 
 (1) Das Bundesamt für Verfassungsschutz darf Informationen,
 insbesondere personenbezogene Daten, mit den Mitteln gemäß § 8 Abs. 2
@@ -810,6 +825,7 @@ Absatz 1 bis 3 und 7 Satz 1 gilt entsprechend.
 
 
 ### § 9a Verdeckte Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003800116)
 
 (1) Das Bundesamt für Verfassungsschutz darf eigene Mitarbeiter unter
 einer ihnen verliehenen und auf Dauer angelegten Legende (Verdeckte
@@ -873,6 +889,7 @@ Fällen der Landesbehörden für Verfassungsschutz.
 
 
 ### § 9b Vertrauensleute
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003900116)
 
 (1) Für den Einsatz von Privatpersonen, deren planmäßige, dauerhafte
 Zusammenarbeit mit dem Bundesamt für Verfassungsschutz Dritten nicht
@@ -918,6 +935,7 @@ bewerten.
 
 
 ### § 10 Speicherung, Veränderung und Nutzung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001402116)
 
 (1) Das Bundesamt für Verfassungsschutz darf zur Erfüllung seiner
 Aufgaben personenbezogene Daten in Dateien speichern, verändern und
@@ -945,6 +963,7 @@ das für seine Aufgabenerfüllung erforderliche Maß zu beschränken.
 
 
 ### § 11 Speicherung, Veränderung und Nutzung personenbezogener Daten von Minderjährigen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001503377)
 
 (1) Das Bundesamt für Verfassungsschutz darf unter den Voraussetzungen
 des § 10 Daten über Minderjährige vor Vollendung des 14. Lebensjahres
@@ -967,6 +986,7 @@ Erkenntnisse nach § 3 Absatz 1 angefallen sind.
 
 
 ### § 12 Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten in Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001611377)
 
 (1) Das Bundesamt für Verfassungsschutz hat die in Dateien
 gespeicherten personenbezogenen Daten zu berichtigen, wenn sie
@@ -998,6 +1018,7 @@ werden, dürfen nur für diese Zwecke verwendet werden.
 
 
 ### § 13 Verwendung und Berichtigung personenbezogener Daten in Akten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001703311)
 
 (1) Stellt das Bundesamt für Verfassungsschutz fest, daß in Akten
 gespeicherte personenbezogene Daten unrichtig sind oder wird ihre
@@ -1049,6 +1070,7 @@ löschen.
 
 
 ### § 14 Dateianordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001805311)
 
 (1) Für jede automatisierte Datei beim Bundesamt für Verfassungsschutz
 nach § 6 oder § 10 sind in einer Dateianordnung, die der Zustimmung
@@ -1094,6 +1116,7 @@ treffen. Das Verfahren nach Absatz 1 ist unverzüglich nachzuholen.
 
 
 ### § 15 Auskunft an den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE001903311)
 
 (1) Das Bundesamt für Verfassungsschutz erteilt dem Betroffenen über
 zu seiner Person gespeicherte Daten auf Antrag unentgeltlich Auskunft,
@@ -1146,6 +1169,7 @@ zulassen, sofern es nicht einer weitergehenden Auskunft zustimmt.
 
 
 ### § 16 Verfassungsschutz durch Aufklärung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002003311)
 
 (1) Das Bundesamt für Verfassungsschutz informiert die Öffentlichkeit
 über Bestrebungen und Tätigkeiten nach § 3 Absatz 1, soweit
@@ -1170,10 +1194,12 @@ Betroffenen überwiegen.
 
 
 ## Dritter Abschnitt - Übermittlungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNG000300308)
 
 
 
 ### § 17 Zulässigkeit von Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002114377)
 
 (1) Wird nach den Bestimmungen dieses Abschnittes um Übermittlung von
 personenbezogenen Daten ersucht, dürfen nur die Daten übermittelt
@@ -1225,6 +1251,7 @@ das Bundeskanzleramt tritt.
 
 
 ### § 18 Übermittlung von Informationen an die Verfassungsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002222377)
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen
 Personen des öffentlichen Rechts unterrichten von sich aus das
@@ -1333,6 +1360,7 @@ Artikel 10-Gesetzes entsprechende Anwendung.
 
 
 ### § 19 Übermittlung an inländische öffentliche Stellen zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002314377)
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an
 eine inländische öffentliche Stelle übermitteln, soweit dies im
@@ -1381,6 +1409,7 @@ Absatz 3 genanntes Rechtsgut erforderlich ist.
 
 
 ### § 20 Übermittlung an inländische öffentliche Stellen zum administrativen Rechtsgüterschutz
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002401377)
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an
 eine inländische öffentliche Stelle übermitteln, soweit dies auf Grund
@@ -1458,6 +1487,7 @@ einer Übermittlung nach Satz 1 verpflichtet.
 
 
 ### § 21 Übermittlung an Strafverfolgungsbehörden zur Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002501377)
 
 (1) Das Bundesamt für Verfassungsschutz übermittelt personenbezogene
 Daten an eine zuständige inländische Strafverfolgungsbehörde, wenn
@@ -1491,6 +1521,7 @@ Absatz 2 Satz 2 erhoben hat, ist nicht zulässig.
 
 
 ### § 22 Übermittlung an inländische öffentliche Stellen ohne belastende Maßnahmen mit Außenwirkung
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002603377)
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an
 eine inländische öffentliche Stelle übermitteln, wenn dies auf Grund
@@ -1538,6 +1569,7 @@ betroffene Person mit unmittelbarer Außenwirkung belasten.
 
 
 ### § 22a Übermittlung an inländische nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004400377)
 
 Eine Übermittlung personenbezogener Daten an nichtöffentliche
 inländische Stellen ist unzulässig, es sei denn, es bestehen im
@@ -1605,6 +1637,7 @@ deren Anlass zu unterrichten.
 
 
 ### § 22b Projektbezogene gemeinsame Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003206126)
 
 (1) Das Bundesamt für Verfassungsschutz kann für die Dauer einer
 befristeten projektbezogenen Zusammenarbeit mit den Landesbehörden für
@@ -1713,6 +1746,7 @@ gilt entsprechend.
 
 
 ### § 22c Errichtung gemeinsamer Dateien mit ausländischen Nachrichtendiensten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004004126)
 
 (1) Das Bundesamt für Verfassungsschutz kann für die Zusammenarbeit
 mit ausländischen öffentlichen Stellen, die mit
@@ -1821,6 +1855,7 @@ Verfassungsschutz eingegebenen Daten.
 
 
 ### § 22d Teilnahme an gemeinsamen Dateien mit ausländischen Nachrichtendiensten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004101126)
 
 Das Bundesamt für Verfassungsschutz darf an gemeinsamen Dateien, die
 von ausländischen Nachrichtendiensten errichtet sind, teilnehmen. §
@@ -1843,6 +1878,7 @@ eingegebenen Daten entsprechend § 15 Auskunft.
 
 
 ### § 23 Übermittlungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002701377)
 
 (1) Personenbezogene Daten dürfen nicht nach den §§ 19 bis 22a
 übermittelt werden, wenn
@@ -1907,6 +1943,7 @@ Fälle des Absatzes 1 Satz 1 Nummer 4.
 
 
 ### § 24 Minderjährigenschutz bei Inlandsübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002802377)
 
 Das Bundesamt für Verfassungsschutz darf personenbezogene Daten, die
 sich auf das Verhalten Minderjähriger beziehen, vorbehaltlich der
@@ -1951,6 +1988,7 @@ eine minderjährige Person, die
 
 
 ### § 25 Weiterverarbeitung durch den Empfänger
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE002902377)
 
 (1) Der Empfänger prüft, ob die nach den §§ 19 bis 22a übermittelten
 personenbezogenen Daten für die Erfüllung seiner Aufgaben erforderlich
@@ -1987,6 +2025,7 @@ Person auch das Recht auf Auskunft ein, dass die Folge durch eine
 
 
 ### § 25a Übermittlung an ausländische sowie über- und zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004500377)
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an
 ausländische öffentliche Stellen sowie an über- und zwischenstaatliche
@@ -2107,6 +2146,7 @@ einer Übermittlung nach den vorstehenden Absätzen erforderlich ist. §
 
 
 ### § 25b Übermittlung zum Schutz der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004600377)
 
 Das Bundesamt für Verfassungsschutz darf personenbezogene Daten auch
 übermitteln, wenn offensichtlich ist, dass die Übermittlung im
@@ -2118,6 +2158,7 @@ Zwecke der Jugendhilfe übermitteln.
 
 
 ### § 25c Weitere Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004701377)
 
 (1) Das Bundesamt für Verfassungsschutz protokolliert den Empfänger,
 die Rechtsgrundlage sowie den Zeitpunkt der Übermittlung. Die
@@ -2148,6 +2189,7 @@ Aufgabenerfüllung durch die Mitteilung nicht mehr zu besorgen ist.
 
 
 ### § 25d Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004800377)
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten,
 die es aus allgemein zugänglichen Quellen erhoben hat, einer anderen
@@ -2168,6 +2210,7 @@ Die Übermittlung richtet sich in diesen Fällen nach den §§ 19 bis 25c.
 
 
 ### § 26 Nachberichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003000308)
 
 Erweisen sich personenbezogene Daten nach ihrer Übermittlung nach den
 Vorschriften dieses Gesetzes als unvollständig oder unrichtig, so sind
@@ -2176,6 +2219,7 @@ daß dies für die Beurteilung eines Sachverhalts ohne Bedeutung ist.
 
 
 ### § 26a Übermittlung durch Landesverfassungsschutzbehörden an Strafverfolgungs- und Sicherheitsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004900377)
 
 (1) Die Verfassungsschutzbehörden der Länder übermitteln den
 Staatsanwaltschaften und, vorbehaltlich der staatsanwaltschaftlichen
@@ -2190,10 +2234,12 @@ Voraussetzungen des § 22 Absatz 2.
 
 
 ## Vierter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNG000401377)
 
 
 
 ### § 26b Besondere Eigensicherungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE005000377)
 
 (1) Die Eigensicherung dient dem Schutz der Beschäftigten,
 Einrichtungen, Gegenstände, Quellen und amtlichen Informationen des
@@ -2307,6 +2353,7 @@ führen, der zu dem erstrebten Erfolg erkennbar außer Verhältnis steht.
 
 
 ### § 26c Verfahren; Kernbereichsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE005100377)
 
 (1) Maßnahmen nach § 26b Absatz 2 Nummer 2 und Absatz 4 bedürfen der
 Anordnung der für die Eigensicherung zuständigen Abteilungsleitung
@@ -2400,6 +2447,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 27 Anwendung des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE003103377)
 
 Bei der Erfüllung der Aufgaben nach § 3 durch das Bundesamt für
 Verfassungsschutz findet das Bundesdatenschutzgesetz wie folgt
@@ -2417,6 +2465,7 @@ Anwendung:
 
 
 ### § 28 Unabhängige Datenschutzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004202311)
 
 (1) Jedermann kann sich an die Bundesbeauftragte oder den
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
@@ -2464,6 +2513,7 @@ der Aufgaben von Verfassungsschutzbehörden nach § 3 dient. § 16 Absatz
 
 
 ### § 29 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bverfschg/BJNR029700990.html#BJNR029700990BJNE004300311)
 
 Die Grundrechte der Versammlungsfreiheit (Artikel 8 des
 Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel

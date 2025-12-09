@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000100000)
 
 Auf Grund des § 49 Absatz 4 Satz 1 Nummer 3 des
 Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621),
@@ -35,6 +36,7 @@ Wirtschaft und Energie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000201377)
 
 (1) Diese Verordnung regelt den Nachweis der Einhaltung der
 allgemeinen technischen Mindestanforderungen im Sinne des § 19 des
@@ -57,6 +59,7 @@ sind, ist diese Verordnung nur unter den Voraussetzungen des Artikels
 
 
 ## § 2 Nachweis der Einhaltung der allgemeinen technischen Mindestanforderungen von Erzeugungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000302377)
 
 (1) Betreiber von Erzeugungsanlagen haben dem zuständigen
 Netzbetreiber im Rahmen des Betriebserlaubnisverfahrens nach Artikel
@@ -209,6 +212,7 @@ nicht überschrieben werden.
 [^F799008_03_BJNR165100017BJNE000302377]: 
 
 ## § 3 Allgemein anerkannte Regeln der Technik
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000400000)
 
 (1) Bei dem Nachweis nach § 2 sind vorbehaltlich sonstiger
 Rechtsvorschriften die allgemein anerkannten Regeln der Technik zu
@@ -235,6 +239,7 @@ Fassung akkreditiert worden sind.
 [^F799008_04_BJNR165100017BJNE000400000]: 
 
 ## § 4 Register nach § 49d des Energiewirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000900377)
 
 (1) Das Register nach § 49d des Energiewirtschaftsgesetzes stellt eine
 Datenbank im Sinne des § 49 Absatz 4 Satz 1 Nummer 9 des
@@ -327,6 +332,7 @@ anderem Wege als über das Register zu verlangen.
 
 
 ## § 5 Gültigkeit von Einheiten- oder Komponentenzertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE001000377)
 
 (1) Mit der Änderung von im Rahmen der Einheiten- oder
 Komponentenzertifizierung nachgewiesenen elektrotechnischen
@@ -409,6 +415,7 @@ technisch geforderten Eigenschaften entsprechen.
 
 
 ## § 6 Rechtsfolgen bei Nichterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000502377)
 
 (1) Der zuständige Netzbetreiber muss eine endgültige
 Betriebserlaubnis nach Artikel 32 Absatz 3 oder nach Artikel 36 der
@@ -521,6 +528,7 @@ Anforderungen nach § 2 Absatz 1 vollständig nachgewiesen hat.
 
 
 ## § 7 Übergangsregelungen, Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000602377)
 
 (1) Soweit für die Ausstellung des Nachweisdokuments nach § 2 Absatz 2
 keine allgemein anerkannten Regeln der Technik gemäß § 3 existieren,
@@ -563,11 +571,13 @@ anzuwenden.
 [^F799008_05_BJNR165100017BJNE000602377]: 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000701377)
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/nelev/BJNR165100017.html#BJNR165100017BJNE000801377)
 
 Der Bundesrat hat zugestimmt.
 

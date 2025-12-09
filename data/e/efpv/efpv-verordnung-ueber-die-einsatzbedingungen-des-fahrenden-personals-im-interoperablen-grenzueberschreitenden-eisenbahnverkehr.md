@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000100000)
 
 Auf Grund des § 26 Abs. 2 und 3 Satz 4 und Abs. 4 Nr. 1 des
 Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378,
@@ -38,6 +39,7 @@ Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000200000)
 
 (1) Für das fahrende Personal der Eisenbahnen, das im interoperablen
 grenzüberschreitenden Verkehr eingesetzt ist, der von
@@ -66,6 +68,7 @@ Mitgliedstaates der Europäischen Union nutzen, ohne dort anzuhalten.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000300000)
 
 Im Sinne dieser Verordnung bezeichnet der Begriff
 
@@ -120,6 +123,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 
 ## § 3 Tägliche Ruhezeit am Dienstort
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000400000)
 
 (1) Der Eisenbahnverkehrsunternehmer hat dafür Sorge zu tragen, dass
 die tägliche Ruhezeit am Dienstort eine Dauer von mindestens zwölf
@@ -139,6 +143,7 @@ Ruhezeiten festlegen.
 
 
 ## § 4 Auswärtige tägliche Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000500000)
 
 (1) Der Eisenbahnverkehrsunternehmer hat dafür Sorge zu tragen, dass
 die auswärtige tägliche Ruhezeit eine Dauer von mindestens acht
@@ -153,6 +158,7 @@ Ruhezeiten vereinbart werden.
 
 
 ## § 5 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000600000)
 
 (1) Während eines Arbeitstages hat der Eisenbahnverkehrsunternehmer
 Triebfahrzeugführerinnen und Triebfahrzeugführern bei einer
@@ -180,6 +186,7 @@ Regelungen vereinbart werden.
 
 
 ## § 6 Wöchentliche und jährliche Ruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000700000)
 
 (1) Der Eisenbahnverkehrsunternehmer hat pro Sieben-Tage-Zeitraum eine
 zusammenhängende Mindestruhezeit von 24 Stunden zuzüglich der
@@ -202,6 +209,7 @@ enthalten sein.
 
 
 ## § 7 Fahrzeit
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000800000)
 
 Der Eisenbahnverkehrsunternehmer hat die Fahrzeit so zu planen, dass
 
@@ -217,6 +225,7 @@ nicht überschritten werden.
 
 
 ## § 8 Verzeichnis der täglichen Arbeits- und Ruhestunden
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE000900000)
 
 (1) Der Eisenbahnverkehrsunternehmer hat ein Verzeichnis über die
 täglichen Arbeits- und Ruhestunden des fahrenden Personals zu führen.
@@ -231,6 +240,7 @@ eingehalten wurden, zur Verfügung zu stellen.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE001000000)
 
 Ordnungswidrig im Sinne des § 28 Abs. 1 Nr. 6 Buchstabe c des
 Allgemeinen Eisenbahngesetzes handelt, wer als
@@ -281,11 +291,13 @@ Eisenbahnverkehrsunternehmer vorsätzlich oder fahrlässig
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/efpv/BJNR295700009.html#BJNR295700009BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

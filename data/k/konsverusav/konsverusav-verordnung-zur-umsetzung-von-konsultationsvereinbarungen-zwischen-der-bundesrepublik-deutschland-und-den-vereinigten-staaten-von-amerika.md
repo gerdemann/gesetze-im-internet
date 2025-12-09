@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -28,6 +29,7 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen vom 29.
 August 1989 zwischen der Bundesrepublik Deutschland und den
@@ -39,6 +41,7 @@ Fassung der Bekanntmachung vom 4. Juni 2008 (BGBl. 2008 II S. 611,
 
 
 ## § 2 Besteuerung des Gehalts bestimmter Ortskräfte konsularischer Vertretungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000300000)
 
 (1) Die einheitliche Anwendung und Auslegung des Artikels 19 Absatz 1
 Buchstabe b des Abkommens auf Grund einer entsprechenden
@@ -62,17 +65,20 @@ nicht anzuwenden.
 
 
 ## § 3 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000400000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverusav/BJNR213600010.html#BJNR213600010BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Steuern vom Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNG000100306)
 
 
 
 ### § 1 Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000402301)
 
 (1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs,
 dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes
@@ -269,6 +271,7 @@ Rechtsordnung Kapitalanlagen im Sinne des Absatzes 3 Satz 1 Nr. 1 bis
 
 
 ### § 2 Steuerfreie Rücklage für Beteiligungen an Kapitalgesellschaften in Entwicklungsländern, die von der Entwicklungsgesellschaft erworben werden
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000500306)
 
 (1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs,
 dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes
@@ -286,6 +289,7 @@ mindestens einem Sechstel gewinnerhöhend aufzulösen.
 
 
 ### § 3 Sondervorschriften für Kapitalanlagen durch Sacheinlagen
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000600306)
 
 (1) Kapitalanlagen im Sinne des § 1 Abs. 3, die durch Sacheinlagen
 erworben worden sind oder in solchen bestehen, können auch dann, wenn
@@ -325,6 +329,7 @@ anzuwenden.
 
 
 ### § 4 Sondervorschriften für bestimmte Umwandlungen oder Veräußerungen
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000700306)
 
 (1) Ist bei Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 3 und 4
 infolge einer durch die Verhältnisse im Entwicklungsland bedingten
@@ -370,6 +375,7 @@ Anwendung.
 
 
 ### § 5 Wegfall der Steuervergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000800306)
 
 (1) Werden Kapitalanlagen im Sinne des § 1 Abs. 3 oder Beteiligungen
 im Sinne des § 2 nach § 6 des Einkommensteuergesetzes mit dem
@@ -482,6 +488,7 @@ anzuwenden.
 
 
 ### § 6 Entwicklungsländer
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE000900306)
 
 (1) Entwicklungsländer im Sinne dieses Gesetzes sind die folgenden
 Länder und Gebiete:
@@ -519,10 +526,12 @@ geworden sind.
 
 
 ## Zweiter Abschnitt - Gewerbesteuer und Vermögensteuer
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNG000200306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE001000306)
 
 (1) Die Vorschriften der §§ 1 bis 6 gelten auch für die Ermittlung des
 Gewerbeertrags nach § 7 des Gewerbesteuergesetzes.
@@ -541,10 +550,12 @@ dieses land- und forstwirtschaftlichen Betriebs anzuwenden.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNG000300306)
 
 
 
 ### § 8 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE001101301)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
@@ -553,6 +564,7 @@ und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ### § 9 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE001201306)
 
 (1) Über die Inanspruchnahme der steuerfreien Rücklagen nach den §§ 1
 und 7 wird beim Statistischen Bundesamt eine Bundesstatistik geführt.
@@ -588,12 +600,14 @@ nach dem 31. Dezember 1978 endet.
 
 
 ### § 10 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE001300306)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ### § 11 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/entwhstg/BJNR010130963.html#BJNR010130963BJNE001401306)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist vorbehaltlich der
 Absätze 2 bis 4 auf Kapitalanlagen anzuwenden, die nach dem 31.

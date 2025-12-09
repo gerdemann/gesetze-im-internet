@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000400307)
 
 Auf Grund des § 40 des Vermögensgesetzes in der Fassung der
 Bekanntmachung vom 3. August 1992 (BGBl. I S. 1446), der durch Artikel
@@ -37,10 +38,12 @@ Raumordnung, Bauwesen und Städtebau und für Wirtschaft:
 
 
 ## Abschnitt 1 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNG000100307)
 
 
 
 ### § 1 Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000500307)
 
 In der Mitteilung nach § 32 des Vermögensgesetzes sind die früheren
 dinglichen Rechte, die zuletzt im Grundbuch eingetragenen Gläubiger
@@ -57,6 +60,7 @@ Mitteilung ist dem betroffenen Kreditinstitut zu übersenden.
 
 
 ### § 2 Umrechnung
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000602307)
 
 (1) Mark der DDR, Mark der deutschen Notenbank, Renten-, Reichs- oder
 Goldmark oder vergleichbare Währungsbezeichnungen sind in den Fällen
@@ -88,6 +92,7 @@ Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr.
 
 
 ### § 3 Kürzung und Entfallen von Einzelbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000700307)
 
 (1) In den Fällen des § 18 Abs. 1 Satz 4 des Vermögensgesetzes darf
 die Berücksichtigung eines Einzelbetrages nur unterbleiben, wenn das
@@ -116,6 +121,7 @@ Abs. 5 bis 9 des Vermögensgesetzes entsprechend.
 
 
 ### § 4 Verfahren bei Veräußerung des Grundstücks und bei Ablösung von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000802301)
 
 (1) Veräußert der Verfügungsberechtigte ein ehemals volkseigenes
 Grundstück und steht dem Berechtigten aufgrund gesetzlicher
@@ -229,6 +235,7 @@ Briefes.
 
 
 ### § 5 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE000901301)
 
 (1) Entscheidungen, durch die ein Ablösebetrag gemäß § 18 des
 Vermögensgesetzes festgesetzt wird, und Auszahlungsbescheide des
@@ -252,10 +259,12 @@ Wochen ab der Aufgabe zur Post als erfolgt.
 
 
 ## Abschnitt 2 - Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNG000200307)
 
 
 
 ### § 6 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001001307)
 
 (1) Sicherheit nach den Vorschriften des Vermögensgesetzes kann durch
 Hinterlegung bei der gemäß § 18a dieses Gesetzes zuständigen Stelle
@@ -267,6 +276,7 @@ festgesetzten Betrages zu leisten.
 
 
 ### § 7 Hinterlegung
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001101307)
 
 Leistet der Berechtigte für einen festgesetzten Betrag Sicherheit
 durch Hinterlegung, kann er die Differenz zwischen dem hinterlegten
@@ -275,6 +285,7 @@ Hinterlegungsstelle herausverlangen.
 
 
 ### § 8 Garantie oder sonstiges Zahlungsversprechen
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001201307)
 
 (1) Sicherheit durch Beibringung einer Garantie oder eines sonstigen
 Zahlungsversprechens eines Kreditinstitutes ist dadurch zu leisten,
@@ -308,15 +319,18 @@ Vermögensfragen das zuständige Ausgleichsamt tritt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001301307)
 
 (weggefallen)
 
 
 ## Abschnitt 3 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNG000300307)
 
 
 
 ### § 10 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001400307)
 
 Diese Verordnung ist auch auf Verfahren anzuwenden, die vor ihrem
 Inkrafttreten begonnen haben, aber noch nicht bestandskräftig
@@ -326,6 +340,7 @@ dieser Verordnung entsprechend § 5 betrieben worden ist, gelten als am
 
 
 ### § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001500307)
 
 (1) Diese Verordnung tritt am 4. Juli 1994 in Kraft.
 
@@ -335,6 +350,7 @@ dieser Verordnung entsprechend § 5 betrieben worden ist, gelten als am
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hypablv/BJNR125300994.html#BJNR125300994BJNE001600307)
 
 Der Bundesrat hat zugestimmt.
 

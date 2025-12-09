@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000200320)
 
 Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen vom 30. September 1957 über
@@ -37,6 +39,7 @@ Anlagen A und B werden in einem Anlagenband veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000204305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Änderungen des Übereinkommens, die der Verwirklichung
@@ -66,6 +69,7 @@ Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000300320)
 
 (1) Ein Fahrzeug, das den Vorschriften des Übereinkommens nicht
 entspricht oder für das die nach dem Übereinkommen vorgeschriebenen
@@ -78,6 +82,7 @@ Fahrzeuge zurückweisen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000400320)
 
 (1) Zuständig für die Ausführung des Übereinkommens sind
 
@@ -116,6 +121,7 @@ Zuständigkeit nach Landesrecht.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000500320)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -125,6 +131,7 @@ S. 1).
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/adrg/BJNR214890969.html#BJNR214890969BJNE000600320)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

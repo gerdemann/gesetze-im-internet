@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V ist nach ihrem Art. 5 iVm Bek. v. 27.2.2013 II 394 am 19.5.2005 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000100311)
 
 Es verordnen
 auf Grund des Artikel 2 Abs. 1 Nr. 1 und 2 des MARPOL-Gesetzes in der
@@ -37,6 +38,7 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000200311)
 
 Das von der Bundesrepublik Deutschland in London am 9. Juni 1998
 unterzeichnete und von der Konferenz der Vertragsparteien am 26.
@@ -51,6 +53,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000300311)
 
 Die Vorschriften der Verordnung zum Verbot von bestimmten die
 Ozonschicht abbauenden Halogenkohlenwasserstoffen (FCKW-Halon-Verbots-
@@ -58,6 +61,7 @@ Verordnung) vom 6. Mai 1991 (BGBl. I S. 1090) bleiben unberührt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000400311)
 
 (1) Seeschiffe mit einer Bruttoraumzahl von 400 und mehr, die
 berechtigt sind, die Bundesflagge zu führen sowie jede ortsfeste und
@@ -78,11 +82,13 @@ Ausland der Hilfe des Germanischen Lloyds bedient.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000500311)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/marpol_ndv_8/BJNR013020003.html#BJNR013020003BJNE000600311)
 
 Diese Verordnung tritt an dem Tage in Kraft, an dem das Protokoll nach
 seinem Artikel 6 Abs. 1 für die Bundesrepublik Deutschland in Kraft

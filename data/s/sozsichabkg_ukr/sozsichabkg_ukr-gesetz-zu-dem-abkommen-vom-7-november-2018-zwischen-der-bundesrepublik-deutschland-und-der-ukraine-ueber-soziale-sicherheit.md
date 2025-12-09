@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_ukr/BJNR000320020.html#BJNR000320020BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_ukr/BJNR000320020.html#BJNR000320020BJNE000200000)
 
 Folgenden in Kiew am 7. November 2018 unterzeichneten
 zwischenstaatlichen Übereinkünften zwischen der Bundesrepublik
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_ukr/BJNR000320020.html#BJNR000320020BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -59,6 +62,7 @@ genannter Stellen und Behörden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_ukr/BJNR000320020.html#BJNR000320020BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 (2) Der Tag, an dem das Abkommen nach seinem Artikel 30 Absatz 2 und
@@ -67,6 +71,7 @@ Absatz 1 in Kraft treten, ist im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkg_ukr/BJNR000320020.html#BJNR000320020BJNE000500000)
 
 Das vorstehende Gesetz wird hiermit ausgefertigt. Es ist im
 Bundesgesetzblatt zu verkünden.

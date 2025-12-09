@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000100000)
 
 Auf Grund des § 57 Absatz 1 Nummer 6 und 11 des
 Personenbeförderungsgesetzes, dessen Nummer 6 durch Artikel 29
@@ -31,6 +32,7 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000200000)
 
 Diese Verordnung regelt die Durchführung
 
@@ -63,6 +65,7 @@ Diese Verordnung regelt die Durchführung
 
 
 ## § 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000301305)
 
 (1) Für die Erteilung der Gemeinschaftslizenz nach Artikel 4 der
 Verordnung (EG) Nr. 1073/2009 ist die Genehmigungsbehörde im Sinne des
@@ -121,6 +124,7 @@ zuständig für
 
 
 ## § 3 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000400000)
 
 (1) Der Antrag auf Erteilung einer Genehmigung nach Artikel 7 der
 Verordnung (EG) Nr. 1073/2009 in Verbindung mit Artikel 7 der
@@ -140,6 +144,7 @@ beginnt zu laufen, wenn ein vollständiger Antrag vorliegt.
 
 
 ## § 4 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000500000)
 
 Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in
 folgenden Fällen ein Anhörungsverfahren entsprechend § 14 Absatz 1 bis
@@ -167,6 +172,7 @@ folgenden Fällen ein Anhörungsverfahren entsprechend § 14 Absatz 1 bis
 
 
 ## § 5 Pflichten des Unternehmers und des Fahrzeugführers oder der Fahrzeugführerin
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000601305)
 
 (1) Der Unternehmer hat die Fahrtenblätter gemäß Artikel 17 Absatz 5
 der Verordnung (EG) Nr. 1073/2009 unverzüglich jeweils nach Ablauf des
@@ -247,6 +253,7 @@ vorzuzeigen:
 
 
 ## § 6 Aufsicht, Amtshilfe gegenüber ausländischen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000701119)
 
 (1) Der Unternehmer unterliegt hinsichtlich der Erfüllung der
 Vorschriften dieser Verordnung sowie der in § 1 genannten Verordnungen
@@ -290,6 +297,7 @@ mitzuteilen.
 
 
 ## § 7 Maßnahmen der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000800000)
 
 Kontrollberechtigte können die Fortsetzung der Fahrt untersagen, wenn
 
@@ -351,6 +359,7 @@ Kontrollberechtigte können die Fortsetzung der Fahrt untersagen, wenn
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE000900000)
 
 (1) Ordnungswidrig im Sinne des § 61 Absatz 1 Nummer 4 des
 Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -526,6 +535,7 @@ mit Omnibussen (Interbus-Übereinkommen) (ABl. L 321 vom 26.11.2002, S.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die EG-Bus-Durchführungsverordnung vom 11. August
@@ -535,6 +545,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/egbusdv_2012/BJNR103800012.html#BJNR103800012BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

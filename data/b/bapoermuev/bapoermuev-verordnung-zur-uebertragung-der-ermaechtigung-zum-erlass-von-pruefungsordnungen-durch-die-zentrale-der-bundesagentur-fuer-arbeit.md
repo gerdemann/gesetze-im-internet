@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bap_rm_v/BJNR1200A0025.html#BJNR1200A0025BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des §
 47 Absatz 3 und des § 56 Absatz 1 Satz 2 des Berufsbildungsgesetzes in
@@ -26,6 +27,7 @@ der Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr.
 
 
 ## § 1 Zuständigkeit für den Erlass von Prüfungsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bap_rm_v/BJNR1200A0025.html#BJNR1200A0025BJNE000200000)
 
 Die Zentrale der Bundesagentur für Arbeit als zuständige Stelle im
 Bereich des öffentlichen Dienstes für alle zum Geschäftsbereich der
@@ -38,6 +40,7 @@ für Arbeit und Soziales zu erlassen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bap_rm_v/BJNR1200A0025.html#BJNR1200A0025BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000100000)
 
 Auf Grund des § 20i Absatz 3 Satz 1 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 4 Nummer 4 Buchstabe b des
@@ -28,6 +29,7 @@ Krankenkassen:
 
 
 ## § 1 Prophylaxe gegen Respiratorische Synzytial Viren
+[Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000200000)
 
 (1) Versicherte, die das erste Lebensjahr noch nicht vollendet haben,
 haben Anspruch auf eine einmalige Versorgung mit Arzneimitteln, die
@@ -47,6 +49,7 @@ S. 24) geändert worden ist, erteilt wurde.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rsvprophylaxev/BJNR1160A0024.html#BJNR1160A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

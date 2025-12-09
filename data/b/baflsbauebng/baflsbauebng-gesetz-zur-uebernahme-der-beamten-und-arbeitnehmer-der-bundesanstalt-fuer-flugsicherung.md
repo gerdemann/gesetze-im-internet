@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000105305)
 
 (1) Beamte und Arbeitnehmer bei der Bundesanstalt für Flugsicherung,
 die nicht aus dem Beamtenverhältnis oder aus dem Arbeitsverhältnis
@@ -58,6 +59,7 @@ Bundesaufsichtsamt für Flugsicherung erfolgt durch Versetzung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000207305)
 
 (1) Für die Beamten des gehobenen Flugverkehrskontrolldienstes und für
 die Beamten in Aufsichtsfunktionen des Flugverkehrskontrolldienstes
@@ -142,6 +144,7 @@ Juli 1992 (BGBl. I S. 1370, 1376) weiterhin entsprechende Anwendung. §
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000401305)
 
 (1) Ein in § 1 Abs. 1 bezeichneter Beamter des mittleren oder des
 gehobenen Dienstes des Luftfahrt-Bundesamtes kann bis zum 31. Dezember
@@ -170,6 +173,7 @@ gehobenen Dienstes des Luftfahrt-Bundesamtes kann bis zum 31. Dezember
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000301305)
 
 Personen, die die DFS Deutsche Flugsicherung GmbH von der
 Bundesanstalt für Flugsicherung übernommen hat und die als Bedienstete
@@ -182,6 +186,7 @@ Bereich der Flugsicherung betraut waren.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000502125)
 
 (1) Die in § 1 Abs. 1 genannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte der Dienststelle
@@ -199,6 +204,7 @@ Beamten.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/baflsba_bng/BJNR013760992.html#BJNR013760992BJNE000601305)
 
 Gegenüber den in § 1 Abs. 1 bezeichneten Beschäftigten hat die DFS
 Deutsche Flugsicherung GmbH Entscheidungs- und Weisungsbefugnisse im

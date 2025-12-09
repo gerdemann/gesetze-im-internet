@@ -23,6 +23,7 @@ Stand: Die zugehörige V v. 23.1.2025 I Nr. 22 (GebäudeArbbV 10) tritt gem. § 
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/BJNR0160B0025.html#BJNR0160B0025BJNE000100000)
 
 
 1.  **Räumlicher Geltungsbereich**
@@ -58,6 +59,7 @@ Stand: Die zugehörige V v. 23.1.2025 I Nr. 22 (GebäudeArbbV 10) tritt gem. § 
 [^F832484_02_BJNR0160B0025BJNE000100000]: 
 
 ## § 2 Mindestlöhne
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/BJNR0160B0025.html#BJNR0160B0025BJNE000200000)
 
 Die Mindestlöhne betragen bundeseinheitlich
 
@@ -146,6 +148,7 @@ Die Mindestlöhne betragen bundeseinheitlich
 
 
 ## § 3 Geringfügig Beschäftigte der Lohngruppe 1 – Monatslohn
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/BJNR0160B0025.html#BJNR0160B0025BJNE000300000)
 
 
 1.  Bei geringfügig Beschäftigten (§ 8 Absatz 1 Nummer 1 SGB IV) der
@@ -177,6 +180,7 @@ Die Mindestlöhne betragen bundeseinheitlich
 (zur Anlage)
 
 ## Anhang Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 31. Oktober 2019 (RTV Gebäudereinigung), in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. Februar 2025 geltenden Fassung
+[Direktlink](https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/BJNR0160B0025.html#BJNR0160B0025BJNE000400000)
 
 (Fundstelle: BGBl. 2025 I Nr. 22, S. 5 - 7)
 

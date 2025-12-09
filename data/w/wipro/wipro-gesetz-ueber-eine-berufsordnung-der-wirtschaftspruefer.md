@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000101125)
 
 
 
 ### § 1 Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE002603125)
 
 (1) Wirtschaftsprüfer oder Wirtschaftsprüferinnen (Berufsangehörige)
 sind Personen, die als solche öffentlich bestellt sind. Die Bestellung
@@ -42,6 +44,7 @@ Wirtschaftsprüfern verantwortlich geführt wird.
 
 
 ### § 2 Inhalt der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE002703125)
 
 (1) Wirtschaftsprüfer haben die berufliche Aufgabe,
 betriebswirtschaftliche Prüfungen, insbesondere solche von
@@ -71,6 +74,7 @@ Vorschriften befugt
 
 
 ### § 3 Berufliche Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE002808125)
 
 (1) Berufsangehörige müssen unmittelbar nach der Bestellung eine
 berufliche Niederlassung begründen und eine solche unterhalten; wird
@@ -89,6 +93,7 @@ Zweigniederlassungen nach den Vorschriften dieses Gesetzes begründen.
 
 
 ### § 4 Wirtschaftsprüferkammer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE002904125)
 
 (1) Zur Erfüllung der beruflichen Selbstverwaltungsaufgaben wird eine
 Kammer der Wirtschaftsprüfer gebildet; diese wird bei der Prüfung und
@@ -108,6 +113,7 @@ Rechts. Ihr Sitz bestimmt sich nach ihrer Satzung.
 
 
 ### § 4a Verfahren über eine einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023401125)
 
 Die Verwaltungsverfahren in öffentlich-rechtlichen und
 berufsrechtlichen Angelegenheiten, die in diesem Gesetz oder in einer
@@ -117,6 +123,7 @@ Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 
 ### § 4b Frist für den Erlass von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023601125)
 
 Über Anträge auf Erteilung eines Verwaltungsaktes durch die
 Wirtschaftsprüferkammer ist innerhalb einer Frist von drei Monaten zu
@@ -127,14 +134,17 @@ Vorlage des ärztlichen Gutachtens.
 
 
 ## Zweiter Teil - Voraussetzungen für die Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000201125)
 
 
 
 ### Erster Abschnitt - Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000301125)
 
 
 
 #### § 5 Prüfungsstelle; Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003005125)
 
 (1) Die Wirtschaftsprüferkammer richtet zur Erfüllung der ihr nach dem
 Zweiten und Neunten Teil dieses Gesetzes obliegenden Aufgaben für das
@@ -160,6 +170,7 @@ die Widerspruchskommission.
 
 
 #### § 6 Verbindliche Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003104125)
 
 Auf Antrag erteilt die Prüfungsstelle eine verbindliche Auskunft über
 die Erfüllung einzelner Voraussetzungen für die Zulassung zur Prüfung,
@@ -168,12 +179,14 @@ von Prüfungsleistungen.
 
 
 #### § 7 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003206125)
 
 Der Antrag auf Zulassung zur Prüfung ist schriftlich oder elektronisch
 an die Prüfungsstelle zu richten.
 
 
 #### § 8 Voraussetzungen für die Zulassung (Vorbildung)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003306125)
 
 (1) Die Zulassung setzt den Nachweis einer abgeschlossenen
 Hochschulausbildung voraus.
@@ -203,6 +216,7 @@ gleichwertig sein.
 
 
 #### § 8a Anerkannte Hochschulausbildungsgänge; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021406125)
 
 (1) Hochschulausbildungsgänge,
 
@@ -253,6 +267,7 @@ Anerkennung zuständige Stelle. In der Rechtsverordnung kann es ferner
 
 
 #### § 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit); Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003408125)
 
 (1) Die Zulassung setzt eine für die Ausübung des Berufes genügende
 praktische Ausbildung (Tätigkeit) voraus. Bewerbende mit
@@ -363,14 +378,17 @@ von der Regelung des Satzes 1 auszunehmen.
 
 
 #### (XXXX) §§ 10, 10a und 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003509377)
 
 
 
 ### Zweiter Abschnitt - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000401125)
 
 
 
 #### § 12 Prüfungskommission und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003704125)
 
 (1) Die Prüfung wird vor der Prüfungskommission abgelegt.
 
@@ -383,6 +401,7 @@ Werdegang gleiche Anforderungen zu stellen.
 
 
 #### § 13 Verkürzte Prüfung für Steuerberater
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003802125)
 
 Steuerberater und Bewerber, die die Prüfung als Steuerberater
 bestanden haben, können die Prüfung in verkürzter Form ablegen. Bei
@@ -391,6 +410,7 @@ Prüfung im Steuerrecht.
 
 
 #### § 13a Verkürzte Prüfung für vereidigte Buchprüfer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023801125)
 
 (1) Vereidigte Buchprüfer und vereidigte Buchprüferinnen können die
 Prüfung in verkürzter Form ablegen.
@@ -420,6 +440,7 @@ Wirtschaftsrecht.
 
 
 #### § 13b Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021505125)
 
 Prüfungsleistungen, die im Rahmen einer Hochschulausbildung erbracht
 werden, werden angerechnet, wenn ihre Gleichwertigkeit in Inhalt, Form
@@ -436,6 +457,7 @@ Verfahren festzulegen.
 
 
 #### § 14 Verordnungsermächtigung zu Einzelheiten des Prüfungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE003907125)
 
 Das Bundesministerium für Wirtschaft und Energie regelt durch
 Rechtsverordnung
@@ -462,6 +484,7 @@ Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
 
 #### § 14a Zulassungs- und Prüfungsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004006125)
 
 Für alle Zulassungs- und Prüfungsverfahren und für erfolglose
 Widerspruchsverfahren sind Gebühren an die Wirtschaftsprüferkammer zu
@@ -471,10 +494,12 @@ Gebührenordnung der Wirtschaftsprüferkammer (§ 61 Abs. 2).
 
 
 ### Dritter Abschnitt - Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000501125)
 
 
 
 #### § 15 Bestellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004108125)
 
 Nach bestandener Prüfung wird der Bewerber auf Antrag durch
 Aushändigung einer von der Wirtschaftsprüferkammer ausgestellten
@@ -489,6 +514,7 @@ Prüfungstätigkeit nach § 9 Abs. 2, vorzulegen.
 
 
 #### § 16 Versagung der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004211125)
 
 (1) Die Bestellung ist zu versagen,
 
@@ -538,6 +564,7 @@ Wirtschaftsprüferkammer.
 
 
 #### § 16a Ärztliches Gutachten im Bestellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022502125)
 
 (1) Wenn es zur Entscheidung über den Versagungsgrund des § 16 Abs. 1
 Nr. 5 erforderlich ist, gibt die Wirtschaftsprüferkammer dem Bewerber
@@ -560,6 +587,7 @@ auf Bestellung als zurückgenommen.
 
 
 #### § 16b Aussetzung des Bestellungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025500125)
 
 Die Entscheidung über den Antrag auf Bestellung kann ausgesetzt
 werden, wenn gegen die antragstellende Person ein Verfahren wegen des
@@ -569,6 +597,7 @@ Folge haben würde.
 
 
 #### § 17 Berufsurkunde und Berufseid
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004303125)
 
 (1) Bewerber haben vor Aushändigung der Urkunde den Berufseid vor der
 Wirtschaftsprüferkammer oder einer von ihr im Einzelfall beauftragten
@@ -593,6 +622,7 @@ nehmen.
 
 
 #### § 18 Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004405125)
 
 (1) Wirtschaftsprüfer haben im beruflichen Verkehr die
 Berufsbezeichnung "Wirtschaftsprüfer" zu führen. Frauen können die
@@ -632,6 +662,7 @@ Erlaubnis ist der oder die Betroffene zu hören.
 
 
 #### § 19 Erlöschen der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004503125)
 
 (1) Die Bestellung erlischt durch
 
@@ -651,6 +682,7 @@ zu erklären.
 
 
 #### § 20 Rücknahme und Widerruf der Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004613125)
 
 (1) Die Bestellung ist mit Wirkung für die Zukunft zurückzunehmen,
 wenn nachträglich Tatsachen bekanntwerden, bei deren Kenntnis die
@@ -731,6 +763,7 @@ Nr. 4 hat keine aufschiebende Wirkung.
 
 
 #### § 20a Ärztliches Gutachten im Widerrufsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018404125)
 
 Im Verfahren wegen des Widerrufs der Bestellung nach § 20 Abs. 2 Nr. 3
 ist § 16a Abs. 1 und 2 entsprechend anzuwenden. Wird das Gutachten
@@ -742,16 +775,19 @@ unfähig ist, seinen Beruf ordnungsgemäß auszuüben.
 
 
 #### § 21 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004703125)
 
 Über die Rücknahme und den Widerruf der Bestellung entscheidet die
 Wirtschaftsprüferkammer.
 
 
 #### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004801308)
 
 
 
 #### § 23 Wiederbestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE004906125)
 
 (1) Ein ehemaliger Wirtschaftsprüfer kann wiederbestellt werden, wenn
 
@@ -783,26 +819,32 @@ vorliegen.
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005002308)
 
 
 
 ### Vierter Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000602125)
 
 
 
 #### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005101308)
 
 
 
 #### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005201308)
 
 
 
 ### Fünfter Abschnitt - Wirtschaftsprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000701125)
 
 
 
 #### § 27 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005305125)
 
 Europäische Gesellschaften, Gesellschaften nach deutschem Recht oder
 Gesellschaften in einer nach dem Recht eines Mitgliedstaats der
@@ -813,6 +855,7 @@ Wirtschaftsprüfungsgesellschaften anerkannt werden.
 
 
 #### § 28 Voraussetzungen für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005411125)
 
 (1) Voraussetzung für die Anerkennung ist, dass die Mehrheit der
 Mitglieder des Vorstandes, der Geschäftsführer und
@@ -957,6 +1000,7 @@ Berufshaftpflichtversicherung vorliegt.
 
 
 #### § 29 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005506125)
 
 (1) Zuständig für die Anerkennung als Wirtschaftsprüfungsgesellschaft
 ist die Wirtschaftsprüferkammer.
@@ -970,6 +1014,7 @@ Urkunde ausgestellt.
 
 
 #### § 30 Änderungsanzeige
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005604125)
 
 Jede Änderung des Gesellschaftsvertrages oder der Satzung ist der
 Wirtschaftsprüferkammer unverzüglich anzuzeigen. Die
@@ -979,6 +1024,7 @@ anfordern.
 
 
 #### § 31 Bezeichnung "Wirtschaftsprüfungsgesellschaft"
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005704125)
 
 Die anerkannte Gesellschaft ist verpflichtet, die Bezeichnung
 "Wirtschaftsprüfungsgesellschaft" in die Firma oder den Namen
@@ -986,6 +1032,7 @@ aufzunehmen und im beruflichen Verkehr zu führen.
 
 
 #### § 32 Bestätigungsvermerke
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005803125)
 
 Erteilen Wirtschaftsprüfungsgesellschaften gesetzlich vorgeschriebene
 Bestätigungsvermerke, so dürfen diese nur von Wirtschaftsprüfern
@@ -997,6 +1044,7 @@ gesetzlich vorbehalten sind.
 
 
 #### § 33 Erlöschen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE005903125)
 
 (1) Die Anerkennung erlischt durch
 
@@ -1014,6 +1062,7 @@ Wirtschaftsprüferkammer unverzüglich anzuzeigen.
 
 
 #### § 34 Rücknahme und Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006013125)
 
 (1) Die Anerkennung ist zurückzunehmen oder zu widerrufen, wenn
 
@@ -1059,18 +1108,22 @@ die Wirtschaftsprüferkammer.
 
 
 #### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006102308)
 
 
 
 #### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006202308)
 
 
 
 ### Sechster Abschnitt - Allgemeine Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002902125)
 
 
 
 #### § 36a Untersuchungsgrundsatz; Mitwirkungspflicht; Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018511125)
 
 (1) Die Wirtschaftsprüferkammer ermittelt den Sachverhalt von Amts
 wegen.
@@ -1136,10 +1189,12 @@ der Versorgungsleistung erforderlich sind.
 
 
 ### Siebenter Abschnitt - Berufsregister
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000802125)
 
 
 
 #### § 37 Registerführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006307125)
 
 (1) Die Wirtschaftsprüferkammer führt ein Berufsregister für
 Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften. Alle
@@ -1162,6 +1217,7 @@ Wirtschaftsprüferkammer auf sein Widerspruchsrecht hinzuweisen.
 
 
 #### § 38 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006411125)
 
 In das Berufsregister sind einleitend die für alle Berufsangehörigen
 und Wirtschaftsprüfungsgesellschaften verantwortlichen Stellen für die
@@ -1330,6 +1386,7 @@ einzutragen
 
 
 #### § 39 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006506125)
 
 (1) Im Berufsregister sind zu löschen
 
@@ -1389,6 +1446,7 @@ Berufsregister nach Absatz 2 Satz 1 zu informieren.
 
 
 #### § 40 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006608125)
 
 (1) Eintragungen und Löschungen werden von der Wirtschaftsprüferkammer
 unverzüglich von Amts wegen vorgenommen.
@@ -1405,6 +1463,7 @@ Buchstabe h oder Nummer 2 Buchstabe f zur Verfügung.
 
 
 #### § 40a Register für genossenschaftliche Prüfungsverbände und Prüfungsstellen der Sparkassen- und Giroverbände
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023202125)
 
 (1) Bei der Wirtschaftsprüferkammer werden auch die
 genossenschaftlichen Prüfungsverbände eingetragen, die gesetzlich
@@ -1517,10 +1576,12 @@ Zusatz ist nach Durchführung der Qualitätskontrolle zu löschen.
 
 
 ### Achter Abschnitt - Verwaltungsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG003001125)
 
 
 
 #### § 41 Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021101125)
 
 Vor Erhebung einer Klage gegen Bescheide der Wirtschaftsprüferkammer,
 die aufgrund von Vorschriften des Dritten und Fünften Abschnitts des
@@ -1529,14 +1590,17 @@ sind, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006800319)
 
 
 
 ## Dritter Teil - Rechte und Pflichten der Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG000901125)
 
 
 
 ### § 43 Allgemeine Berufspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE006906125)
 
 (1) Berufsangehörige haben ihren Beruf unabhängig, gewissenhaft,
 verschwiegen und eigenverantwortlich auszuüben. Sie haben sich
@@ -1657,6 +1721,7 @@ ihrer Bestellung.
 
 
 ### § 43a Regeln der Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018717125)
 
 (1) Berufsangehörige üben ihren Beruf aus
 
@@ -1814,6 +1879,7 @@ dient.
 
 
 ### § 44 Eigenverantwortliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007004125)
 
 (1) Eine eigenverantwortliche Tätigkeit übt nicht aus, wer sich als
 zeichnungsberechtigter Vertreter oder als zeichnungsberechtigter
@@ -1840,6 +1906,7 @@ Prüfungsstelle oder der Prüfungseinrichtung vereinbart ist.
 
 
 ### § 44a Wirtschaftsprüfer im öffentlich-rechtlichen Dienst- oder Amtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007102125)
 
 Ist ein Wirtschaftsprüfer ein öffentlich-rechtliches Dienstverhältnis
 als Wahlbeamter auf Zeit oder ein öffentlich-rechtliches
@@ -1853,6 +1920,7 @@ nicht gefährdet wird.
 
 
 ### § 44b Gemeinsame Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018808125)
 
 (1) Wirtschaftsprüfer dürfen ihren Beruf mit natürlichen und
 juristischen Personen sowie mit rechtsfähigen Personengesellschaften,
@@ -1903,6 +1971,7 @@ anzuwenden.
 
 
 ### § 45 Prokuristen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007202125)
 
 Wirtschaftsprüfer sollen als Angestellte von
 Wirtschaftsprüfungsgesellschaften die Rechtsstellung von Prokuristen
@@ -1911,6 +1980,7 @@ im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes.
 
 
 ### § 46 Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007303125)
 
 (1) Wirtschaftsprüfer, die vorübergehend eine mit dem Beruf
 unvereinbare Tätigkeit aufnehmen oder aufgrund besonderer Umstände,
@@ -1924,6 +1994,7 @@ fünf aufeinanderfolgende Jahre nicht überschreiten.
 
 
 ### § 47 Zweigniederlassungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007403125)
 
 Zweigniederlassungen müssen jeweils von wenigstens einem
 Berufsangehörigen oder EU- oder EWR-Abschlussprüfer geleitet werden,
@@ -1933,6 +2004,7 @@ Berufsangehörigen kann die Wirtschaftsprüferkammer Ausnahmen zulassen.
 
 
 ### § 48 Siegel
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007507125)
 
 (1) Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sind
 verpflichtet, ein Siegel zu benutzen, wenn sie Erklärungen abgeben,
@@ -1946,6 +2018,7 @@ des Siegels.
 
 
 ### § 49 Versagung der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007601125)
 
 Der Wirtschaftsprüfer hat seine Tätigkeit zu versagen, wenn sie für
 eine pflichtwidrige Handlung in Anspruch genommen werden soll oder die
@@ -1954,6 +2027,7 @@ besteht.
 
 
 ### § 50 Verschwiegenheitspflicht beschäftigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007702125)
 
 Der Wirtschaftsprüfer hat die von ihm beschäftigten Personen in
 Textform zur Verschwiegenheit zu verpflichten und sie dabei über die
@@ -1974,6 +2048,7 @@ andere dieser Personen die Verpflichtung nach Satz 1 vorgenommen hat.
 
 
 ### § 50a Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024701125)
 
 (1) Der Wirtschaftsprüfer darf Dienstleistern den Zugang zu Tatsachen
 eröffnen, auf die sich die Verpflichtung zur Verschwiegenheit gemäß §
@@ -2034,6 +2109,7 @@ unberührt.
 
 
 ### § 51 Mitteilung der Ablehnung eines Auftrages
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007801125)
 
 Der Wirtschaftsprüfer, der einen Auftrag nicht annehmen will, hat die
 Ablehnung unverzüglich zu erklären. Er hat den Schaden zu ersetzen,
@@ -2041,6 +2117,7 @@ der aus einer schuldhaften Verzögerung dieser Erklärung entsteht.
 
 
 ### § 51a Pflicht zur Übernahme der Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE007903125)
 
 Wirtschaftsprüfer und vereidigte Buchprüfer sind verpflichtet, die in
 dem Beratungshilfegesetz vorgesehene Beratungshilfe zu übernehmen. Sie
@@ -2048,6 +2125,7 @@ können die Beratungshilfe im Einzelfall aus wichtigem Grund ablehnen.
 
 
 ### § 51b Handakten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018905125)
 
 (1) Berufsangehörige müssen durch Anlegung von Handakten ein
 zutreffendes Bild über die von ihnen entfaltete Tätigkeit geben
@@ -2134,6 +2212,7 @@ unberührt.
 
 
 ### § 51c Auftragsdatei
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024001125)
 
 Berufsangehörige müssen für gesetzlich vorgeschriebene
 Abschlussprüfungen nach § 316 des Handelsgesetzbuchs eine
@@ -2155,11 +2234,13 @@ Angaben enthält:
 
 
 ### § 52 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008003125)
 
 Werbung ist zulässig, es sei denn, sie ist unlauter.
 
 
 ### § 53 Wechsel des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008104125)
 
 Berufsangehörige dürfen keine widerstreitenden Interessen vertreten;
 sie dürfen insbesondere in einer Sache, in der sie oder eine Person
@@ -2170,6 +2251,7 @@ einverstanden sind.
 
 
 ### § 54 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008209125)
 
 (1) Berufsangehörige, die ihren Beruf nach § 43a Absatz 1 Nummer 1
 ausüben, und Wirtschaftsprüfungsgesellschaften sind verpflichtet, eine
@@ -2274,6 +2356,7 @@ Versicherungspflicht.
 
 
 ### § 54a Vertragliche Begrenzung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE019006125)
 
 (1) Der Anspruch der Auftraggeber aus den zwischen ihnen und den
 Berufsangehörigen bestehenden Vertragsverhältnissen auf Ersatz eines
@@ -2303,6 +2386,7 @@ Auftraggebern hiervon unberührt.
 
 
 ### § 55 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE019104125)
 
 (1) Unbeschadet des Artikels 4 der Verordnung (EU) Nr. 537/2014 dürfen
 Berufsangehörige für Tätigkeiten nach § 2 Abs. 1 und 3 Nr. 1 und 3
@@ -2342,6 +2426,7 @@ zulässig.
 
 
 ### § 55a Erfolgshonorar für Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023102125)
 
 (1) Vereinbarungen, durch die eine Vergütung für eine Hilfeleistung in
 Steuersachen oder ihre Höhe vom Ausgang der Sache oder vom Erfolg der
@@ -2389,6 +2474,7 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 
 ### § 55b Internes Qualitätssicherungssystem
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022104125)
 
 (1) Berufsangehörige haben für ihre Praxis Regelungen zu schaffen, die
 die Einhaltung ihrer Berufspflichten gewährleisten, und deren
@@ -2490,6 +2576,7 @@ Buchprüferinnen oder EU- oder EWR-Abschlussprüfern.
 
 
 ### § 55c Bestellung eines Praxisabwicklers
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022603125)
 
 (1) Ist ein Berufsangehöriger oder eine Berufsangehörige verstorben,
 kann die Wirtschaftsprüferkammer einen anderen Berufsangehörigen oder
@@ -2559,6 +2646,7 @@ Erben vor.
 
 
 ### § 56 Anwendung der Vorschriften über die Rechte und Pflichten der Wirtschaftsprüfer auf Wirtschaftsprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008405125)
 
 (1) Die §§ 43, 43a Absatz 2 und 3, §§ 44b, 49 bis 53, 54a und 55 bis
 55c gelten sinngemäß für Wirtschaftsprüfungsgesellschaften sowie für
@@ -2572,10 +2660,12 @@ Verschwiegenheit verpflichtet.
 
 
 ## Vierter Teil - Organisation des Berufs
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001001125)
 
 
 
 ### § 57 Aufgaben der Wirtschaftsprüferkammer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008518360)
 
 (1) Die Wirtschaftsprüferkammer erfüllt die ihr durch Gesetz
 zugewiesenen Aufgaben; sie hat die beruflichen Belange der Gesamtheit
@@ -2915,6 +3005,7 @@ Stelle an diese herausgeben, wenn
 
 
 ### § 57a Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE019806125)
 
 (1) Berufsangehörige in eigener Praxis und
 Wirtschaftsprüfungsgesellschaften sind verpflichtet, sich einer
@@ -3152,6 +3243,7 @@ Urteils.
 
 
 ### § 57b Verschwiegenheitspflicht und Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE019902125)
 
 (1) Der Prüfer für Qualitätskontrolle und seine Gehilfen, die
 Mitglieder der Kommission für Qualitätskontrolle (§ 57e) und die
@@ -3182,6 +3274,7 @@ entsprechend.
 
 
 ### § 57c Satzung für Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020010125)
 
 (1) Die Wirtschaftsprüferkammer erlässt eine Satzung für
 Qualitätskontrolle; die Satzung wird vom Beirat der
@@ -3247,6 +3340,7 @@ dieses Gesetzes näher zu regeln:
 
 
 ### § 57d Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020102125)
 
 Wirtschaftsprüfer in eigener Praxis, Wirtschaftsprüfungsgesellschaften
 sowie die Personen, die den Beruf gemeinsam mit diesen ausüben, sind
@@ -3258,6 +3352,7 @@ Verwaltungszwangs nach § 57e Abs. 3 erzwungen werden.
 
 
 ### § 57e Kommission für Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020208125)
 
 (1) In der Wirtschaftsprüferkammer wird eine Kommission für
 Qualitätskontrolle eingerichtet. Mitglieder der Kommission für
@@ -3363,11 +3458,13 @@ Berufsausübungsregelungen eingehalten haben. Absatz 2 Satz 1 bis 4 und
 
 
 ### § 57f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020303377)
 
 -
 
 
 ### § 57g Freiwillige Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020402125)
 
 § 57a Absatz 2 bis 6a und die §§ 57b bis 57e gelten entsprechend für
 die freiwillige Durchführung einer Qualitätskontrolle bei
@@ -3376,6 +3473,7 @@ Wirtschaftsprüfungsgesellschaften.
 
 
 ### § 57h Qualitätskontrolle bei Prüfungsstellen der Sparkassen- und Giroverbände
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020508125)
 
 (1) § 57a Absatz 1 Satz 1, Absatz 3 bis 5 und 5b bis 8, die §§ 57b bis
 57d und 66a Absatz 1 Satz 1, Absatz 3 Satz 1 bis 3, Absatz 5 Satz 1
@@ -3423,6 +3521,7 @@ Durchführung der Prüfung nicht beteiligt sind.
 
 
 ### § 58 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008606125)
 
 (1) Mitglieder der Wirtschaftsprüferkammer sind die Wirtschaftsprüfer,
 die nach diesem Gesetz bestellt sind, und Mitglieder des Vorstandes,
@@ -3442,6 +3541,7 @@ anzuwenden.
 
 
 ### § 58a Mitgliederakten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025600125)
 
 (1) Die Wirtschaftsprüferkammer führt zur Erfüllung ihrer Aufgaben
 Akten über ihre Mitglieder (§ 58). Mitgliederakten können teilweise
@@ -3492,6 +3592,7 @@ Mitglieder.
 
 
 ### § 58b Elektronische Kommunikation mit den Mitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE026000125)
 
 Diejenigen Mitglieder der Wirtschaftsprüferkammer, die über ein
 E-Mail-Postfach oder ein Postfach nach § 130a Absatz 4 Satz 1 Nummer
@@ -3501,6 +3602,7 @@ mitzuteilen, sofern dem keine wesentlichen Gründe entgegenstehen.
 
 
 ### § 59 Organe; Kammerversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008708125)
 
 (1) Organe der Wirtschaftsprüferkammer sind
 
@@ -3559,6 +3661,7 @@ in der Wahlordnung gemäß § 60 Absatz 1.
 
 
 ### § 59a Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021203125)
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Satzung der
 Wirtschaftsprüferkammer es zulässt. Er überträgt den Abteilungen die
@@ -3593,6 +3696,7 @@ Kommission für Qualitätskontrolle.
 
 
 ### § 59b Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024801125)
 
 Die Mitglieder der Organe der Wirtschaftsprüferkammer (§ 59 Absatz 1)
 und der Aufgabenkommission, der Prüfungskommission und der
@@ -3621,6 +3725,7 @@ Die Sätze 1 bis 3 gelten entsprechend für
 
 
 ### § 59c Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025702125)
 
 (1) Die Mitglieder des Vorstands, des Beirats und der Ausschüsse haben
 über die Angelegenheiten, die ihnen bei ihrer jeweiligen Tätigkeit
@@ -3701,6 +3806,7 @@ unterliegen, § 50a Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 
 ### § 60 Satzung; Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008810125)
 
 (1) Die Organisation und Verwaltung der Wirtschaftsprüferkammer,
 insbesondere die Einrichtung von Landesgeschäftsstellen, werden in der
@@ -3719,6 +3825,7 @@ für Wirtschaft und Energie.
 
 
 ### § 61 Beiträge und Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE008911125)
 
 (1) Die Mitglieder sind verpflichtet, die Beiträge nach Maßgabe der
 Beitragsordnung zu leisten; die Beitragsordnung kann je nach
@@ -3749,10 +3856,12 @@ Verwaltungsvollstreckungsgesetzes beigetrieben.
 
 
 ## Fünfter Teil - Berufsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG003201125)
 
 
 
 ### § 61a Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022203125)
 
 Für die Berufsaufsicht ist unbeschadet des § 66a die
 Wirtschaftsprüferkammer zuständig. Liegen konkrete Anhaltspunkte für
@@ -3768,6 +3877,7 @@ gelten die Sätze 1 bis 3 nicht.
 
 
 ### § 62 Pflicht zum Erscheinen vor der Wirtschaftsprüferkammer; Auskunfts- und Vorlagepflichten; Betretens- und Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009004125)
 
 (1) Persönliche Mitglieder der Wirtschaftsprüferkammer haben in
 Aufsichts- und Beschwerdesachen vor der Wirtschaftsprüferkammer zu
@@ -3832,6 +3942,7 @@ zu löschen.
 
 
 ### § 62a Zwangsgeld bei Verletzung von Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021603125)
 
 (1) Um Mitglieder der Wirtschaftsprüferkammer zur Erfüllung ihrer
 Pflichten nach § 62 Abs. 1 bis 3 anzuhalten, kann die
@@ -3862,6 +3973,7 @@ Festsetzungsbescheids entsprechend § 61 Abs. 3 Satz 3 beigetrieben.
 
 
 ### § 62b Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022704125)
 
 (1) Berufsangehörige in eigener Praxis und
 Wirtschaftsprüfungsgesellschaften sind verpflichtet, sich einer
@@ -3890,10 +4002,12 @@ Verordnung (EU) Nr. 537/2014 § 57a Absatz 5 entsprechend.
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009103118)
 
 
 
 ### § 64 Auskünfte von Nichtkammerangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009305125)
 
 Zur Durchführung von Ermittlungen in Aufsichts- und Beschwerdesachen
 sowie in Widerrufsverfahren sind die in § 59c Absatz 1 Satz 1 und
@@ -3908,6 +4022,7 @@ Handelsgesetzbuchs und die Nichtkammerangehörigen fallen unter Artikel
 
 
 ### § 65 Unterrichtung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009404125)
 
 (1) Erhalten die Wirtschaftsprüferkammer oder die
 Abschlussprüferaufsichtsstelle Kenntnis von Tatsachen, die den
@@ -3928,6 +4043,7 @@ Wirtschaftsprüferkammer weiter.
 
 
 ### § 66 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009510125)
 
 (1) Das Bundesministerium für Wirtschaft und Energie führt die
 Rechtsaufsicht über die Wirtschaftsprüferkammer einschließlich der
@@ -3949,6 +4065,7 @@ Wirtschaft und Ausfuhrkontrolle unberührt.
 
 
 ### § 66a Abschlussprüferaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022311125)
 
 (1) Die Abschlussprüferaufsichtsstelle führt eine öffentliche
 fachbezogene Aufsicht über die Wirtschaftsprüferkammer, soweit diese
@@ -4069,6 +4186,7 @@ Arbeitsprogramm und einen Tätigkeitsbericht.
 
 
 ### § 66b Verschwiegenheit; Schutz von Privatgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023004125)
 
 (1) Beamte und Angestellte, die in der Abschlussprüferaufsichtsstelle
 tätig sind, Mitglieder des bei ihr eingerichteten Fachbeirats und
@@ -4088,6 +4206,7 @@ bekannt geworden ist, nicht offenbaren und nicht verwerten.
 
 
 ### § 66c Zusammenarbeit mit anderen Stellen und internationale Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024104125)
 
 (1) Die Abschlussprüferaufsichtsstelle übermittelt den folgenden
 Stellen, soweit es zur Erfüllung der jeweiligen Aufgaben dieser
@@ -4198,6 +4317,7 @@ die in § 57 Absatz 9 Satz 5 genannten Bedingungen erfüllt sind.
 
 
 ### § 67 Ahndung einer Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009602125)
 
 (1) Gegen einen Wirtschaftsprüfer, der seine Pflichten schuldhaft
 verletzt, wird eine berufsaufsichtliche Maßnahme verhängt.
@@ -4215,6 +4335,7 @@ unterstand.
 
 
 ### § 67a Absehen von der Verfolgung gegen Auflage
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025900125)
 
 (1) Der Vorstand der Wirtschaftsprüferkammer kann mit Zustimmung des
 Berufsangehörigen, der Abschlussprüferaufsichtsstelle und der für die
@@ -4247,6 +4368,7 @@ Geldbetrag, den er zu ihrer Erfüllung gezahlt hat, nicht erstattet.
 
 
 ### § 68 Berufsaufsichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009709125)
 
 (1) Der Vorstand der Wirtschaftsprüferkammer kann gegen
 Berufsangehörige berufsaufsichtliche Maßnahmen verhängen, wenn diese
@@ -4332,6 +4454,7 @@ Wirtschaftsprüferkammer zu. § 61 Absatz 3 gilt entsprechend.
 
 
 ### § 68a Untersagungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021703125)
 
 Wird gegen Berufsangehörige eine berufsaufsichtliche Maßnahme wegen
 einer Pflichtverletzung, die im Zeitpunkt der Verhängung der Maßnahme
@@ -4348,6 +4471,7 @@ Pflichtwidrigkeit ihres Verhaltens belehrt worden waren.
 
 
 ### § 68b Vorläufige Untersagungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024201125)
 
 Wird gegen Berufsangehörige eine Untersagungsverfügung nach § 68a
 erlassen, so kann die Wirtschaftsprüferkammer zusammen mit dem Erlass
@@ -4362,6 +4486,7 @@ entsprechend.
 
 
 ### § 68c Ordnungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024301125)
 
 (1) Handeln Berufsangehörige einem Tätigkeits- oder Berufsverbot (§ 68
 Absatz 1 Satz 2 Nummer 3 bis 5), einer Untersagungsverfügung (§ 68a)
@@ -4378,6 +4503,7 @@ entsprechend.
 
 
 ### § 69 Bekanntmachung von Maßnahmen, Bußgeldentscheidungen und strafrechtlichen Verurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009805125)
 
 (1) Die Wirtschaftsprüferkammer und die Abschlussprüferaufsichtsstelle
 machen jede ihrer unanfechtbaren berufsaufsichtlichen Maßnahmen
@@ -4473,6 +4599,7 @@ Beschwerdeführer mitzuteilen. Die Mitteilung ist nicht anfechtbar.
 
 
 ### § 69a Anderweitige Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE009904125)
 
 (1) Von einer berufsaufsichtlichen Ahndung ist abzusehen, wenn
 
@@ -4516,6 +4643,7 @@ diesem Gesetz obliegenden Pflichten.
 
 
 ### § 70 Verjährung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010007125)
 
 (1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
 Abweichend davon verjährt sie
@@ -4561,6 +4689,7 @@ Abschlussprüferaufsichtsstelle gleich.
 
 
 ### § 71 Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind, und Wirtschaftsprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010105125)
 
 (1) Die Vorschriften des Fünften und Sechsten Teils gelten
 entsprechend für Vorstandsmitglieder, Geschäftsführer oder persönlich
@@ -4608,14 +4737,17 @@ Anwendung.
 
 
 ## Sechster Teil - Berufsgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001103125)
 
 
 
 ### Erster Abschnitt - Berufsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001203125)
 
 
 
 #### § 71a Antrag auf berufsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024401125)
 
 Wird der Einspruch gegen eine berufsaufsichtliche Maßnahme
 zurückgewiesen, so können Berufsangehörige innerhalb eines Monats nach
@@ -4624,10 +4756,12 @@ beantragen.
 
 
 ### Zweiter Abschnitt - Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001302125)
 
 
 
 #### § 72 Kammer für Wirtschaftsprüfersachen; Verbindung berufsgerichtlicher Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010204125)
 
 (1) In berufsgerichtlichen Verfahren entscheidet im ersten Rechtszug
 eine Kammer desjenigen Landgerichts, das für die Strafsachen in
@@ -4666,6 +4800,7 @@ aufeinander folgende Zeiträume bezogen haben.
 
 
 #### § 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010302125)
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im zweiten
 Rechtszug ein Senat des Oberlandesgerichts (Senat für
@@ -4678,6 +4813,7 @@ wirken außerdem als Beisitzer zwei Berufsangehörige mit.
 
 
 #### § 74 Senat für Wirtschaftsprüfersachen beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010404125)
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im dritten
 Rechtszug ein Senat des Bundesgerichtshofes (Senat für
@@ -4690,6 +4826,7 @@ Bundesgerichtshofs und zwei Berufsangehörigen als Beisitzern.
 
 
 #### § 75 Berufsangehörige als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010507125)
 
 (1) Die Beisitzer aus den Reihen der Berufsangehörigen sind
 ehrenamtliche Richter.
@@ -4725,6 +4862,7 @@ mit seiner Ernennung.
 
 
 #### § 76 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010604125)
 
 (1) Zu ehrenamtlichen Richtern können nur Berufsangehörige berufen
 werden, die in den Vorstand der Wirtschaftsprüferkammer gewählt werden
@@ -4753,6 +4891,7 @@ Wirtschaftsprüferkammer im Haupt- oder Nebenberuf tätig sein.
 
 
 #### § 77 Enthebung vom Amt des Beisitzers
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010705125)
 
 (1) Ein ehrenamtlicher Richter ist auf Antrag der Justizverwaltung,
 die ihn berufen hat, seines Amtes zu entheben,
@@ -4782,6 +4921,7 @@ Entscheidung ist endgültig.
 
 
 #### § 78 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010801125)
 
 (1) Die ehrenamtlichen Richter haben in der Sitzung, zu der sie
 herangezogen werden, die Stellung eines Berufsrichters.
@@ -4793,6 +4933,7 @@ Die Genehmigung zur Aussage erteilt der Präsident des Gerichts.
 
 
 #### § 79 Reihenfolge der Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE010901125)
 
 (1) Die ehrenamtlichen Richter sind zu den einzelnen Sitzungen in der
 Reihenfolge einer Liste heranzuziehen, die der Vorsitzende nach
@@ -4805,26 +4946,31 @@ Gerichtsverfassungsgesetzes sinngemäß.
 
 
 #### § 80 Entschädigung der ehrenamtlichen Richter
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011003125)
 
 Die ehrenamtlichen Richter erhalten eine Entschädigung nach dem
 Justizvergütungs- und -entschädigungsgesetz.
 
 
 ### Dritter Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001402125)
 
 
 
 #### Erster Unterabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001502125)
 
 
 
 ##### § 81 Vorschriften für das Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011102125)
 
 Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften sowie § 62 entsprechend.
 
 
 ##### § 82 Keine Verhaftung von Berufsangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011202125)
 
 Berufsangehörige dürfen zur Durchführung des berufsgerichtlichen
 Verfahrens weder vorläufig festgenommen noch verhaftet oder vorgeführt
@@ -4834,6 +4980,7 @@ werden.
 
 
 ##### § 82a Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011303125)
 
 (1) Zu Verteidigern im berufsgerichtlichen Verfahren vor dem
 Landgericht und vor dem Oberlandesgericht können außer den in § 138
@@ -4846,6 +4993,7 @@ anzuwenden.
 
 
 ##### § 82b Akteneinsicht; Beteiligung der Wirtschaftsprüferkammer und der Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011407125)
 
 (1) Die Wirtschaftsprüferkammer, die Abschlussprüferaufsichtsstelle
 und die betroffenen Berufsangehörigen sind befugt, die Akten, die dem
@@ -4871,6 +5019,7 @@ Vertreter der Abschlussprüferaufsichtsstelle an dieser teilnimmt.
 
 
 ##### § 83 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011504125)
 
 Werden Berufsangehörige im gerichtlichen Verfahren wegen einer
 Straftat oder einer Ordnungswidrigkeit verurteilt oder freigesprochen,
@@ -4885,10 +5034,12 @@ bringen.
 
 
 ##### § 83a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011602118)
 
 
 
 ##### § 83b Aussetzung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011704125)
 
 Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn
 
@@ -4918,6 +5069,7 @@ Das berufsgerichtliche Verfahren kann ausgesetzt werden, wenn
 
 
 ##### § 83c Wiederaufnahme des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021801125)
 
 Die Wiederaufnahme eines rechtskräftig abgeschlossenen
 berufsgerichtlichen Verfahrens ist zulässig, wenn die tatsächlichen
@@ -4931,10 +5083,12 @@ stellen.
 
 
 #### Zweiter Unterabschnitt - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001602125)
 
 
 
 ##### § 84 Mitwirkung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011801125)
 
 Die Staatsanwaltschaft bei dem Oberlandesgericht, bei dem der Senat
 für Wirtschaftsprüfersachen besteht, nimmt in den Verfahren vor der
@@ -4943,6 +5097,7 @@ wahr.
 
 
 ##### § 85 Einleitung des berufsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE011902125)
 
 Das berufsgerichtliche Verfahren wird dadurch eingeleitet, dass der
 oder die Berufsangehörige den Antrag nach § 71a schriftlich bei dem
@@ -4950,6 +5105,7 @@ Landgericht einreicht.
 
 
 ##### § 86 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012002125)
 
 (1) Ist der Antrag auf berufsgerichtliche Entscheidung verspätet
 eingelegt oder sonst unzulässig, verwirft ihn das Landgericht ohne
@@ -4962,6 +5118,7 @@ soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ##### § 87 Entscheidung zur Höhe der Geldbuße durch Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012103125)
 
 Hat der Berufsangehörige seinen Antrag auf gerichtliche Entscheidung
 auf die Höhe einer nach § 68 Absatz 1 Satz 2 Nummer 2 verhängten
@@ -4978,9 +5135,11 @@ sofortige Beschwerde gegen den Beschluss ist zulässig.
 
 
 ##### (XXXX) §§ 88 bis 93 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012200319)
 
 
 ##### § 94 Verlesung der berufsaufsichtlichen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012302125)
 
 In der Hauptverhandlung tritt an die Stelle der Verlesung des
 Anklagesatzes nach § 243 Absatz 3 der Strafprozessordnung die
@@ -4989,10 +5148,12 @@ Verhängung der berufsaufsichtlichen Maßnahme.
 
 
 ##### (XXXX) §§ 95 bis 97 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012401118)
 
 
 
 ##### § 98 Hauptverhandlung trotz Ausbleibens der Berufsangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012702125)
 
 Die Hauptverhandlung kann gegen Berufsangehörige, die nicht erschienen
 sind, durchgeführt werden, wenn diese ordnungsmäßig geladen wurden und
@@ -5001,14 +5162,17 @@ verhandelt werden kann. Eine öffentliche Ladung ist nicht zulässig.
 
 
 ##### § 99 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012810125)
 
 
 
 ##### § 100 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE012900319)
 
 
 
 ##### § 101 Beweisaufnahme durch einen ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013002125)
 
 Die Kammer für Wirtschaftsprüfersachen kann ein Amtsgericht um die
 Vernehmung von Zeugen oder Sachverständigen ersuchen. Der Zeuge oder
@@ -5020,6 +5184,7 @@ zugemutet werden kann.
 
 
 ##### § 102 Verlesen von Protokollen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013105125)
 
 (1) Die Kammer für Wirtschaftsprüfersachen beschließt nach
 pflichtmäßigem Ermessen, ob die Aussage eines Zeugen oder eines
@@ -5045,6 +5210,7 @@ Ablehnung des Antrags jetzt nicht mehr bestehen.
 
 
 ##### § 103 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013207125)
 
 (1) Die mündliche Verhandlung schließt mit der auf die Beratung
 folgenden Verkündung des Urteils.
@@ -5076,16 +5242,19 @@ Absatz 3.
 
 
 #### Dritter Unterabschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001702125)
 
 
 
 ##### § 104 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013303125)
 
 Für die Verhandlung und Entscheidung über Beschwerden ist der Senat
 für Wirtschaftsprüfersachen beim Oberlandesgericht zuständig.
 
 
 ##### § 105 Berufung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013405125)
 
 (1) Gegen das Urteil der Kammer für Wirtschaftsprüfersachen ist die
 Berufung an den Senat für Wirtschaftsprüfersachen zulässig.
@@ -5105,6 +5274,7 @@ unberührt.
 
 
 ##### § 106 Mitwirkung der Staatsanwaltschaft vor dem Senat für Wirtschaftsprüfersachen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013502125)
 
 Die Aufgaben der Staatsanwaltschaft in dem Verfahren vor dem Senat für
 Wirtschaftsprüfersachen werden von der Staatsanwaltschaft bei dem
@@ -5112,6 +5282,7 @@ Oberlandesgericht wahrgenommen, bei dem der Senat besteht.
 
 
 ##### § 107 Revision
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013602125)
 
 (1) Gegen ein Urteil des Senats für Wirtschaftsprüfersachen bei dem
 Oberlandesgericht ist die Revision an den Bundesgerichtshof zulässig,
@@ -5153,6 +5324,7 @@ Revisionsfrist.
 
 
 ##### § 107a Einlegung der Revision und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013704125)
 
 (1) Die Revision ist binnen einer Woche bei dem Oberlandesgericht
 schriftlich einzulegen. Die Frist beginnt mit der Verkündung des
@@ -5170,16 +5342,19 @@ Wirtschaftsprüfersachen beim Oberlandesgericht zurückzuverweisen.
 
 
 ##### § 108 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013808125)
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
 
 #### Vierter Unterabschnitt - Sicherung von Beweisen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001802125)
 
 
 
 ##### § 109 Anordnung der Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE013902125)
 
 (1) Wird ein berufsgerichtliches Verfahren eingestellt, weil die
 Bestellung als Wirtschaftsprüfer erloschen oder zurückgenommen ist, so
@@ -5194,6 +5369,7 @@ berufsrichterlichen Mitglieder mit der Beweisaufnahme beauftragen.
 
 
 ##### § 110 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014002125)
 
 (1) Die Kammer für Wirtschaftsprüfersachen beim Landgericht hat von
 Amts wegen alle Beweise zu erheben, die eine Entscheidung darüber
@@ -5214,9 +5390,11 @@ aufhalten und sie ihre Anschrift dem Landgericht angezeigt haben.
 
 
 #### Fünfter Unterabschnitt - Vorläufige Tätigkeits- und Berufsverbot
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG001903125)
 
 
 ##### § 111 Voraussetzung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014105125)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass gegen
 Berufsangehörige auf Ausschließung aus dem Beruf erkannt werden wird,
@@ -5238,6 +5416,7 @@ ist.
 
 
 ##### § 112 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014204125)
 
 (1) Der Beschluß, durch den ein vorläufiges Tätigkeits- oder
 Berufsverbot verhängt wird, kann nur auf Grund mündlicher Verhandlung
@@ -5260,12 +5439,14 @@ der Berufsangehörigen gebunden zu sein.
 
 
 ##### § 113 Abstimmung über das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014302125)
 
 Zur Verhängung des vorläufigen Tätigkeits- oder Berufsverbots ist eine
 Mehrheit von zwei Dritteln der Stimmen erforderlich.
 
 
 ##### § 114 Verbot im Anschluss an die Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014403125)
 
 Hat das Gericht auf Ausschließung aus dem Beruf erkannt, so kann es im
 unmittelbaren Anschluß an die Hauptverhandlung über die Verhängung des
@@ -5275,6 +5456,7 @@ Hauptverhandlung nicht erschienen sind.
 
 
 ##### § 115 Zustellung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014503125)
 
 Der Beschluß ist mit Gründen zu versehen. Er ist den Berufsangehörigen
 zuzustellen. Waren die Berufsangehörigen bei der Verkündung des
@@ -5283,6 +5465,7 @@ Gründe unverzüglich nach der Verkündung zuzustellen.
 
 
 ##### § 116 Wirkungen des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014604125)
 
 (1) Der Beschluß wird mit der Verkündung wirksam.
 
@@ -5304,6 +5487,7 @@ vorgenommen werden.
 
 
 ##### § 117 Zuwiderhandlungen gegen das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014703125)
 
 (1) Berufsangehörige, die gegen sie ergangene vorläufige Tätigkeits-
 oder Berufsverbote wissentlich zuwiderhandeln, werden aus dem Beruf
@@ -5316,6 +5500,7 @@ zurückweisen.
 
 
 ##### § 118 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014802125)
 
 (1) Gegen den Beschluß, durch den das Landgericht oder das
 Oberlandesgericht ein vorläufiges Tätigkeits- oder Berufsverbot
@@ -5336,6 +5521,7 @@ Strafprozeßordnung über die Beschwerde § 112 Abs. 1, 2 und 4 sowie §§
 
 
 ##### § 119 Außerkrafttreten des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE014903125)
 
 Vorläufige Tätigkeits- und Berufsverbote treten außer Kraft, wenn das
 ihrer Verhängung zugrundeliegende berufsgerichtliche Verfahren
@@ -5349,6 +5535,7 @@ vorläufigen entsprechendes Tätigkeitsverbot erkannt wird.
 
 
 ##### § 120 Aufhebung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015003125)
 
 (1) Das vorläufige Tätigkeits- oder Berufsverbot wird aufgehoben, wenn
 sich ergibt, daß die Voraussetzungen für seine Verhängung nicht oder
@@ -5366,6 +5553,7 @@ nicht zulässig.
 
 
 ##### § 120a Mitteilung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015103125)
 
 (1) Der Beschluß, durch den ein vorläufiges Tätigkeits- oder
 Berufsverbot verhängt wird, ist alsbald der Wirtschaftsprüferkammer in
@@ -5376,6 +5564,7 @@ oder wird es aufgehoben, so gilt Absatz 1 entsprechend.
 
 
 ##### § 121 Bestellung eines Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015203125)
 
 (1) Für Berufsangehörige, gegen die ein vorläufiges Tätigkeits- oder
 Berufsverbot verhängt ist, wird im Fall des Bedürfnisses von der
@@ -5403,10 +5592,12 @@ Wirtschaftsprüferkammer wie ein Bürge.
 
 
 #### Sechster Unterabschnitt - Vorläufige Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG003102125)
 
 
 
 ##### § 121a Voraussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022001125)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass den
 betroffenen Berufsangehörigen die Aufrechterhaltung oder Vornahme
@@ -5418,10 +5609,12 @@ sinngemäß.
 
 
 ### Vierter Abschnitt - Kosten des berufsgerichtlichen Verfahrens; Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten; Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002004125)
 
 
 
 #### § 122 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015304360)
 
 In gerichtlichen Verfahren nach diesem Gesetz werden Gebühren nach dem
 Gebührenverzeichnis der Anlage 2 zu diesem Gesetz erhoben. Im Übrigen
@@ -5430,10 +5623,12 @@ Gerichtskostengesetzes entsprechend anzuwenden.
 
 
 #### § 123 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015401118)
 
 
 
 #### § 124 Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015503125)
 
 (1) Berufsangehörigen, die ihren Antrag auf berufsgerichtliche
 Entscheidung zurücknehmen, deren Antrag auf berufsgerichtliche
@@ -5470,10 +5665,12 @@ Staatskasse zur Last.
 
 
 #### § 125 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015702118)
 
 
 
 #### § 126 Vollstreckung der berufsaufsichtlichen Maßnahmen und der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015805125)
 
 (1) Die Ausschließung aus dem Beruf wird mit der Unanfechtbarkeit der
 Entscheidung über die berufsaufsichtliche Maßnahme wirksam.
@@ -5488,6 +5685,7 @@ Vollstreckung der Geldbuße.
 
 
 #### § 126a Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE015905125)
 
 (1) Eintragungen in den über Berufsangehörige geführten Akten über die
 in den Sätzen 4 und 5 genannten Maßnahmen und Entscheidungen sind nach
@@ -5571,10 +5769,12 @@ Maßnahmen oder Entscheidungen nach Absatz 1 nicht betroffen.
 
 
 ### Fünfter Abschnitt - Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002102125)
 
 
 
 #### § 127 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016002125)
 
 Für die Berufsgerichtsbarkeit sind ergänzend das
 Gerichtsverfassungsgesetz und die Strafprozeßordnung sinngemäß
@@ -5582,10 +5782,12 @@ anzuwenden.
 
 
 ## Siebenter Teil - Vereidigte Buchprüfer und Buchprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002202125)
 
 
 
 ### § 128 Berufszugehörigkeit und Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016103125)
 
 (1) Vereidigter Buchprüfer ist, wer nach den Vorschriften dieses
 Gesetzes als solcher anerkannt oder bestellt ist; wird ein vereidigter
@@ -5607,6 +5809,7 @@ entsprechend.
 
 
 ### § 129 Inhalt der Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016204125)
 
 (1) Vereidigte Buchprüfer haben die berufliche Aufgabe, Prüfungen auf
 dem Gebiet des betrieblichen Rechnungswesens, insbesondere Buch- und
@@ -5644,6 +5847,7 @@ unberührt.
 
 
 ### § 130 Anwendung von Vorschriften des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016309125)
 
 (1) Auf vereidigte Buchprüfer finden § 1 Abs. 2 und § 3 sowie die
 Bestimmungen des Dritten, Sechsten, Siebenten und Achten Abschnitts
@@ -5677,10 +5881,12 @@ Abs. 3 entsprechend.
 
 
 ## Achter Teil - EU- und EWR-Abschlussprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002704125)
 
 
 
 ### § 131 Prüfungstätigkeit von EU- und EWR-Abschlussprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016408125)
 
 Eine EU- oder EWR-Abschlussprüfungsgesellschaft darf unter der
 Berufsbezeichnung ihres Herkunftsstaats Abschlussprüfungen nach § 316
@@ -5697,6 +5903,7 @@ ihre Tätigkeit nach § 57a Absatz 1 Satz 2 anzuzeigen.
 
 
 ### § 131a Registrierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023901125)
 
 EU- und EWR-Abschlussprüfungsgesellschaften, die nach § 131 tätig
 werden wollen, haben der Wirtschaftsprüferkammer zum Zwecke ihrer
@@ -5712,6 +5919,7 @@ Herkunftsstaats über die Eintragung nach § 38 Nummer 4.
 
 
 ### § 131b Überwachung der EU- und EWR-Abschlussprüfungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024501125)
 
 Soweit nichts anderes geregelt ist, unterliegen EU- und EWR-
 Abschlussprüfungsgesellschaften im Hinblick auf ihre Tätigkeiten nach
@@ -5726,14 +5934,17 @@ gegebenenfalls anderer Aufnahmestaaten zusammen.
 
 
 ### (XXXX) §§ 131c bis 131f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE024600118)
 
 
 
 ## Neunter Teil - Eignungsprüfung als Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002803125)
 
 
 
 ### § 131g Zulassung zur Eignungsprüfung als Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017512125)
 
 (1) Eine Person, die in einem Mitgliedstaat oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
@@ -5749,6 +5960,7 @@ einzureichen. Die §§ 13 bis 13b finden entsprechende Anwendung.
 
 
 ### § 131h Eignungsprüfung als Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017608125)
 
 (1) Bewerber und Bewerberinnen, die zugelassen worden sind, legen die
 Eignungsprüfung vor der Prüfungskommission ab.
@@ -5774,16 +5986,19 @@ durchgeführt werden.
 
 
 ### § 131i Anwendung des Berufsqualifikationsfeststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023701125)
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 keine Anwendung.
 
 
 ### (XXXX) § 131j (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017702118)
 
 
 
 ### § 131k Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017905125)
 
 Auf die Bestellung der Personen, die die Prüfung nach § 131h bestanden
 haben, als Wirtschaftsprüfer findet der Dritte Abschnitt des Zweiten
@@ -5791,6 +6006,7 @@ Teils entsprechende Anwendung.
 
 
 ### § 131l Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018009125)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung für die Prüfung nach § 131h Bestimmungen zu
@@ -5805,6 +6021,7 @@ nicht der Zustimmung des Bundesrates.
 
 
 ### § 131m Bescheinigungen des Herkunftsmitgliedstaats
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE018103125)
 
 Soweit es für die Entscheidung über die Bestellung als
 Wirtschaftsprüfer der Vorlage oder Anforderung von
@@ -5832,10 +6049,12 @@ Nummer 1 Buchstabe d und e der Richtlinie 2005/36/EG.
 
 
 ## Zehnter Teil - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002305125)
 
 
 
 ### § 132 Verbot verwechslungsfähiger Berufsbezeichnungen; Siegelimitate
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016505125)
 
 (1) Untersagt ist
 
@@ -5870,6 +6089,7 @@ geahndet werden.
 
 
 ### § 133 Schutz der Bezeichnung "Wirtschaftsprüfungsgesellschaft" und "Buchprüfungsgesellschaft"
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016606125)
 
 (1) Ordnungswidrig handelt, wer die Bezeichnung
 "Wirtschaftsprüfungsgesellschaft oder "Buchprüfungsgesellschaft" oder
@@ -5883,6 +6103,7 @@ geahndet werden.
 
 
 ### § 133a Unbefugte Ausübung einer Führungsposition bei dem geprüften Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023302125)
 
 (1) Ordnungswidrig handelt, wer entgegen § 43 Abs. 3 eine wichtige
 Führungsposition ausübt.
@@ -5892,6 +6113,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ### § 133b Unbefugte Verwertung fremder Betriebs- oder Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE020903125)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 66b Abs. 2 ein fremdes Geheimnis verwertet.
@@ -5900,6 +6122,7 @@ bestraft, wer entgegen § 66b Abs. 2 ein fremdes Geheimnis verwertet.
 
 
 ### § 133c Unbefugte Offenbarung fremder Betriebs- oder Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE021003125)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 66b Abs. 2 ein fremdes Geheimnis offenbart.
@@ -5912,6 +6135,7 @@ Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 133d Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022804125)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten nach § 132
@@ -5923,6 +6147,7 @@ Dienstleistungs-Informationspflichten-Verordnung.
 
 
 ### § 133e Verwendung der Geldbußen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE023502125)
 
 (1) Die Geldbußen fließen in den Fällen von § 132 Absatz 3, § 133
 Absatz 1, § 133a Absatz 1 sowie § 56 des Geldwäschegesetzes und § 6
@@ -5936,10 +6161,12 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ## Elfter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNG002404125)
 
 
 
 ### § 134 Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016709125)
 
 (1) Abschlussprüfer, Abschlussprüferinnen und
 Abschlussprüfungsgesellschaften aus Drittstaaten, bei denen keine
@@ -6071,6 +6298,7 @@ wegen.
 
 
 ### § 134a Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025000125)
 
 (1) Wirtschaftsprüfer und vereidigte Buchprüfer, die am 31. Dezember
 1989 bestellt sind, behalten ihre Bestellung, auch wenn sie die
@@ -6102,6 +6330,7 @@ ist entsprechend anzuwenden.
 
 
 ### § 135 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016806125)
 
 § 43 Absatz 6 Satz 2 und § 54 in der ab dem 1. Juli 2021 geltenden
 Fassung sind erstmals auf alle gesetzlich vorgeschriebenen
@@ -6113,10 +6342,12 @@ beginnende Geschäftsjahr.
 
 
 ### (XXXX) §§ 136 bis 139a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE016906125)
 
 
 
 ### § 139b Übergangsregelung für den bis zum 31. Dezember 2003 geltenden § 51a
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE019502125)
 
 (1) Die regelmäßige Verjährungsfrist nach § 195 des Bürgerlichen
 Gesetzbuchs findet auf die am 1. Januar 2004 bestehenden und noch
@@ -6133,10 +6364,12 @@ geltenden Verjährungsfrist des § 51a vollendet.
 
 
 ### § 140 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017304118)
 
 
 
 ### § 141 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE017401125)
 
 (1) Dieses Gesetz tritt am ersten Kalendertag des vierten auf seine
 Verkündung folgenden Kalendermonats in Kraft.
@@ -6147,6 +6380,7 @@ Kraft.
 (zu § 57 Absatz 3a Satz 1 und § 57c Absatz 1 Satz 4)
 
 ### Anlage 1 Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE025800360)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 9 – 11)
 
@@ -6426,6 +6660,7 @@ Eine Vorschrift im Sinne des § 57 Absatz 3 Satz 3
 (zu § 122 Satz 1)
 
 ### Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/wipro/BJNR010490961.html#BJNR010490961BJNE022405125)
 
 (Fundstelle: BGBl. I 2016, 546 - 548
 bzgl. der einzelnen Änderungen vgl. Fußnote)

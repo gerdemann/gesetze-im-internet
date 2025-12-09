@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNG000100000)
 
 
 ### § 1 Wahlrechtsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000200000)
 
 Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen werden in
 allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl
@@ -31,6 +33,7 @@ gewählt.
 
 
 ### § 2 Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000300000)
 
 (1) Wahlberechtigt sind auch teilzeitbeschäftigte Frauen und
 minderjährige weibliche Auszubildende sowie Frauen, die beurlaubt oder
@@ -40,6 +43,7 @@ zu einer anderen Dienststelle abgeordnet sind.
 
 
 ### § 3 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000400000)
 
 Wählbar für das Amt der Gleichstellungsbeauftragten und das Amt einer
 Stellvertreterin sind alle weiblichen Beschäftigten der Dienststelle.
@@ -49,6 +53,7 @@ abgeordnet sind.
 
 
 ### § 4 Fristen für die Wahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000500000)
 
 (1) Bei erstmaliger Bestellung einer Gleichstellungsbeauftragten und
 ihrer Stellvertreterinnen muss die Wahl innerhalb von vier Monaten
@@ -76,6 +81,7 @@ durchgeführt und abgeschlossen werden.
 
 
 ### § 5 Formen der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000600000)
 
 (1) Die Dienststelle kann anordnen, dass die Stimmabgabe
 ausschließlich durch eine einzige der nach den §§ 16, 17 und 19
@@ -90,9 +96,11 @@ festzulegen.
 
 
 ## Abschnitt 2 - Vorbereitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNG000200000)
 
 
 ### § 6 Pflichten der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000700000)
 
 (1) Die Dienststelle bestellt einen Wahlvorstand, der aus drei
 volljährigen Beschäftigten der Dienststelle besteht, in der gewählt
@@ -134,6 +142,7 @@ Verfügung zu stellen.
 
 
 ### § 7 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000800000)
 
 Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er
 beschließt mit Stimmenmehrheit. Er führt über jede Sitzung eine
@@ -150,6 +159,7 @@ Vorgesetzten.
 
 
 ### § 8 Bekanntgabe der Wählerinnenliste
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE000900000)
 
 (1) Der Wahlvorstand überprüft die Richtigkeit der Liste nach § 6
 Absatz 3 und die Wahlberechtigung der eingetragenen Beschäftigten. Im
@@ -174,6 +184,7 @@ berichtigen bei
 
 
 ### § 9 Einspruch gegen die Wählerinnenliste
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001000000)
 
 (1) Jede Wahlberechtigte kann innerhalb von zwei Wochen nach
 Bekanntgabe der Wählerinnenliste beim Wahlvorstand Einspruch gegen die
@@ -190,6 +201,7 @@ Wählerinnenliste nochmals auf ihre Richtigkeit hin überprüfen.
 
 
 ### § 10 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001101116)
 
 (1) Spätestens sechs Wochen vor dem Wahltag erlässt der Wahlvorstand
 ein Wahlausschreiben, das mindestens zwei Mitglieder des
@@ -281,6 +293,7 @@ denen gewählt wird, schriftlich oder elektronisch bekannt.
 
 
 ### § 11 Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001201116)
 
 (1) Jede Beschäftigte der Dienststelle, die wählbar ist, kann sich
 entweder für das Amt der Gleichstellungsbeauftragten oder für das Amt
@@ -314,6 +327,7 @@ ungültig.
 
 
 ### § 12 Nachfrist für Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001301116)
 
 (1) Ist nach Ablauf der Frist nach § 11 Absatz 2 Satz 2 keine gültige
 Bewerbung für das Amt der Gleichstellungsbeauftragten eingegangen,
@@ -342,6 +356,7 @@ dass
 
 
 ### § 13 Bekanntgabe der Bewerbungen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001400000)
 
 Der Wahlvorstand gibt unverzüglich nach Ablauf der Frist nach § 11
 Absatz 2 Satz 2 oder nach Ablauf der Nachfrist nach § 12 Absatz 1 Satz
@@ -360,6 +375,7 @@ schriftlich oder elektronisch zu erfolgen.
 
 
 ### § 14 Form und Inhalt der Stimmzettel
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001501116)
 
 (1) Für jeden Wahlgang ist ein eigener Stimmzettel vorzusehen. Die
 Stimmzettel eines Wahlgangs müssen in Größe, Farbe, Beschaffenheit und
@@ -381,9 +397,11 @@ Stellvertreterinnen entsprechend.
 
 
 ## Abschnitt 3 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNG000300000)
 
 
 ### § 15 Ausübung des Wahlrechts
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001600000)
 
 (1) Jede Wählerin hat für jeden Wahlgang eine Stimme.
 
@@ -411,6 +429,7 @@ dafür vorgesehenen Feldes.
 
 
 ### § 16 Stimmabgabe im Wahlraum
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001700000)
 
 (1) Der Wahlvorstand trifft Vorkehrungen, damit die Wählerin ihre
 Stimmen im Wahlraum unter Wahrung des Wahlgeheimnisses abgeben kann.
@@ -476,6 +495,7 @@ entsiegelt werden.
 
 
 ### § 17 Briefwahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001801116)
 
 (1) Eine Wahlberechtigte, die an der persönlichen Stimmabgabe
 verhindert ist, erhält auf Antrag vom Wahlvorstand folgende Unterlagen
@@ -537,6 +557,7 @@ und sicher vor dem Zugriff Dritter aufzubewahren.
 
 
 ### § 18 Behandlung der Briefwahlstimmen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE001900000)
 
 (1) Bis zum Ablauf der Frist für die Stimmabgabe öffnet der
 Wahlvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt
@@ -558,6 +579,7 @@ angefochten worden ist.
 
 
 ### § 19 Elektronische Wahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002002129)
 
 (1) Hat die Dienststelle eine elektronische Wahl angeordnet, so hat
 sie die technischen und organisatorischen Abläufe so zu regeln, dass
@@ -673,6 +695,7 @@ in der jeweils geltenden Fassung.
 
 
 ### § 20 Stimmenauszählung, Feststellung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002101116)
 
 (1) Unverzüglich nach Ablauf der Frist zur Stimmabgabe, im Fall der
 Briefwahl nach Abschluss der Tätigkeiten nach § 18 Absatz 1, zählt der
@@ -734,6 +757,7 @@ Bundesgleichstellungsgesetzes hin.
 
 
 ### § 21 Benachrichtigung der Bewerberinnen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002200000)
 
 Der Wahlvorstand benachrichtigt unverzüglich alle Bewerberinnen
 schriftlich oder elektronisch gegen Empfangsbestätigung über das
@@ -743,6 +767,7 @@ das Verfahren zur Annahme der Wahl und die Folgen einer Nichtannahme
 
 
 ### § 22 Annahme der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002301116)
 
 (1) Die Wahl gilt als angenommen, wenn die Gewählte dem Wahlvorstand
 nicht innerhalb von drei Arbeitstagen nach Zugang der Benachrichtigung
@@ -778,6 +803,7 @@ Bekanntgabe haben schriftlich oder elektronisch zu erfolgen.
 
 
 ### § 23 Bekanntgabe der Gewählten und Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002401116)
 
 (1) Sobald die Wahl angenommen ist, teilt der Wahlvorstand der
 Dienststelle die Namen der Gewählten mit und gibt sie gleichzeitig in
@@ -814,6 +840,7 @@ diesem Fall gilt Absatz 2 Satz 3 entsprechend.
 
 
 ### § 24 Aufbewahrung der Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002500000)
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die
 Niederschriften, Bekanntmachungen und Stimmzettel, mindestens bis zum
@@ -825,6 +852,7 @@ und die Wählerinnenlisten unverzüglich zu vernichten.
 
 
 ### § 25 Auflösung des Wahlvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002600000)
 
 Die Amtszeit des Wahlvorstandes endet
 
@@ -845,9 +873,11 @@ Die Amtszeit des Wahlvorstandes endet
 
 
 ## Abschnitt 4 - Sonderregelungen, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNG000400000)
 
 
 ### § 26 Sonderregelungen für den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002700000)
 
 Für den Bundesnachrichtendienst gilt diese Verordnung mit der
 Einschränkung, dass bei der Erstellung und Aufbewahrung der
@@ -858,6 +888,7 @@ während der Dienststunden zugänglich zu machen.
 
 
 ### § 27 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gleibwv_2015/BJNR227410015.html#BJNR227410015BJNE002800000)
 
 (1) Wahlverfahren, die nach § 40 Absatz 3 Satz 2 des
 Bundesgleichstellungsgesetzes unverzüglich durchgeführt werden müssen,

@@ -24,6 +24,7 @@ Mittelbare änderung durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000100314)
 
 Die bisherigen Reichsautobahnen sind mit Wirkung vom 24. Mai 1949 als
 Bundesautobahnen Eigentum des Bundes. Vom gleichen Zeitpunkt ist der
@@ -35,12 +36,14 @@ besonderer Vereinbarung für übertragbar erklärt sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000200314)
 
 Treuhandschaften der Länder an diesem Eigentum und diesen
 Vermögensrechten erlöschen mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000300314)
 
 Die bisherigen Reichsstraßen sind mit Wirkung vom 24. Mai 1949 als
 Bundesstraßen Eigentum des Bundes. Vom gleichen Zeitpunkt ist der Bund
@@ -51,6 +54,7 @@ Grundstück zugunsten von Reichsstraßen. § 1 Satz 3 ist anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000400314)
 
 Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Eigentum und Vermögensrechte der in § 1 und § 3 bezeichneten Art vor
@@ -59,6 +63,7 @@ unberührt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000500314)
 
 § 1 und § 3 gelten nicht für Eigentum und Vermögensrechte, die nach
 dem 30. Januar 1933 einer Gewerkschaft, Genossenschaft, politischen
@@ -67,6 +72,7 @@ sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000602124)
 
 (1) Mit Wirkung vom 1. April 1950 ist der Bund Träger der
 Straßenbaulast für die Bundesautobahnen und die Bundesstraßen.
@@ -86,6 +92,7 @@ Hundert der Baukosten beträgt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000700314)
 
 (1) Die Bestimmungen des § 3 und des § 6 Abs. 1 gelten nicht für
 diejenigen im Zuge von Reichsstraßen liegenden Ortsdurchfahrten, für
@@ -98,6 +105,7 @@ war.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000800314)
 
 (1) Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten,
 die unter § 1 oder § 3 fallen, bleiben bestehen.
@@ -107,6 +115,7 @@ Unternehmens "Reichsautobahnen" bleibt vorbehalten.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE000900314)
 
 (1) Steht das Eigentum an einem Grundstück nach § 1 oder § 3 dem Bund
 zu, so ist der Antrag auf Berichtigung des Grundbuchs von der vom Land
@@ -123,6 +132,7 @@ entsprechend.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE001000314)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
@@ -130,6 +140,7 @@ außer Ansatz.
 
 
 ## § 10a Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE001200124)
 
 (1) Der Bund trägt bis zum 31. Dezember 2020 die Zweckausgaben aus der
 Wahrnehmung der Straßenbaulast für die Bundesautobahnen und die
@@ -149,6 +160,7 @@ für Bundesautobahnen im Jahr 2020.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/babg/BJNR001570951.html#BJNR001570951BJNE001100314)
 
 Das Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

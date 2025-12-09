@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Unmittelbare Steuerberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000100311)
 
 
 
 ### § 1 Unmittelbare Steuerberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE000604140)
 
 (1) Der Anspruch auf die Einkommensteuer oder die Körperschaftsteuer
 für ein Kalenderjahr steht unmittelbar dem Lande zu, in dem der
@@ -63,6 +65,7 @@ bis 6) und über die Zerlegung der Lohnsteuer (§ 7) bleiben unberührt.
 
 
 ### § 1a Unmittelbare Steuerberechtigung für die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE002101140)
 
 (1) Der Anspruch auf die Einkommensteuer auf Einkünfte im Sinne des §
 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes, soweit durch
@@ -83,10 +86,12 @@ leisten.
 
 
 ## Abschnitt 2 - Zerlegung der Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000200311)
 
 
 
 ### § 2 Grundlagen der Zerlegung der Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE000706123)
 
 (1) Bei Körperschaften, Personenvereinigungen und Vermögensmassen im
 Sinne der § 1 und 2 Nr. 1 des Körperschaftsteuergesetzes
@@ -147,6 +152,7 @@ Länder fest.
 
 
 ### § 3 Zerlegung der verbleibenden Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE000801301)
 
 (1) Das Erhebungsfinanzamt zerlegt die verbleibende Körperschaftsteuer
 auf die beteiligten Länder, sobald die erste Steuerfestsetzung für den
@@ -189,6 +195,7 @@ verbleibenden Körperschaftsteuer zu ändern.
 
 
 ### § 4 Zerlegung der Körperschaftsteuer-Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE000901377)
 
 (1) Sofern die Voraussetzungen für eine Zerlegung der
 Körperschaftsteuer vorliegen, zerlegt das beauftragte Finanzamt (§ 6
@@ -213,6 +220,7 @@ Betrag ist nach den vorstehenden Grundsätzen zu zerlegen.
 
 
 ### § 5 Abrechnung der Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001002377)
 
 (1) Das beauftragte Finanzamt rechnet mit Ablauf des
 Kalendervierteljahres, in dem die verbleibende Körperschaftsteuer
@@ -235,6 +243,7 @@ wird, gilt Absatz 1 entsprechend.
 
 
 ### § 6 Verfahrensrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001102123)
 
 (1) Die oberste Finanzbehörde des Landes beauftragt ein Finanzamt mit
 der Wahrnehmung der Rechte des Landes an der Zerlegung (beauftragtes
@@ -286,10 +295,12 @@ sie hierzu vom zuständigen Finanzamt aufgefordert wird.
 
 
 ## Abschnitt 3 - Zerlegung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000300311)
 
 
 
 ### § 7 Zerlegung der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001207377)
 
 (1) Die von einem Land vereinnahmte Lohnsteuer wird insoweit zerlegt,
 als sie von den Bezügen der in den anderen Ländern ansässigen
@@ -394,10 +405,12 @@ Verfahren bei der Zerlegung der Lohnsteuer nicht anzuwenden.
 
 
 ## Abschnitt 4 - Zerlegung des Zinsabschlags
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000400311)
 
 
 
 ### § 8 Zerlegung der Kapitalertragsteuer
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001304377)
 
 (1) Der Länder- und Gemeindeanteil am Aufkommen der
 Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis
@@ -428,10 +441,12 @@ erfolgt im Rahmen eines Clearingverfahrens.
 
 
 ## Abschnitt 4a - Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes, soweit durch Rechtsverordnung zu § 19 Abs. 6 der Abgabenordnung für die Einkommensbesteuerung von Personen, die beschränkt steuerpflichtig oder nach § 1 Abs. 3 des Einkommensteuergesetzes unbeschränkt steuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, einer Finanzbehörde die örtliche Zuständigkeit übertragen wird
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000600140)
 
 
 
 ### § 8a Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE002000140)
 
 (1) Der Länder- und Gemeindeanteil am Aufkommen der Einkommensteuer
 auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des
@@ -569,10 +584,12 @@ auszugleichen.
 
 
 ## Abschnitt 5 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNG000500311)
 
 
 
 ### § 9 Zahlungen im Clearingverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001400311)
 
 Die sich im Rahmen der Clearingverfahren ergebenden Zahlungen sind von
 den zahlungspflichtigen Ländern bis zum Ende des auf das jeweilige
@@ -581,6 +598,7 @@ der empfangsberechtigten Länder zu überweisen.
 
 
 ### § 10 Erlöschen der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001500311)
 
 (1) Die Ansprüche nach den §§ 1 und 8 erlöschen, wenn sie nicht bis
 zum Ablauf des dritten auf die Vereinnahmung der Steuer folgenden
@@ -592,12 +610,14 @@ geltend gemacht werden.
 
 
 ### § 11 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001600311)
 
 Für die Entscheidung von Rechtsstreitigkeiten auf Grund dieses
 Gesetzes ist der Finanzrechtsweg gegeben.
 
 
 ### § 12 Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/zerlg_1998/BJNR199810998.html#BJNR199810998BJNE001711377)
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in Satz 2 und
 in Absatz 2 nichts anderes geregelt ist, erstmals für den

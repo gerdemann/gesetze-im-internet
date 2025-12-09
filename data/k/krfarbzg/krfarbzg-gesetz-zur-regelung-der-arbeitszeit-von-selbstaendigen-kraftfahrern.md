@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000100000)
 
 Dieses Gesetz regelt die Arbeitszeit von selbständigen Kraftfahrern im
 Sinne von Artikel 3 Buchstabe e der Richtlinie 2002/15/EG des
@@ -39,6 +40,7 @@ AETR bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000200000)
 
 (1) Arbeitszeit im Sinne dieses Gesetzes ist die Zeitspanne zwischen
 Arbeitsbeginn und Arbeitsende ohne Ruhepausen, in der sich der
@@ -80,6 +82,7 @@ Uhr.
 
 
 ## § 3 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000300000)
 
 (1) Der selbständige Kraftfahrer darf eine Arbeitszeit von 48 Stunden
 wöchentlich nicht überschreiten. Er kann seine Arbeitszeit auf bis zu
@@ -92,6 +95,7 @@ arbeiten.
 
 
 ## § 4 Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000400000)
 
 Die täglichen und wöchentlichen Ruhezeiten bestimmen sich nach den
 Vorschriften der Europäischen Gemeinschaften für Kraftfahrer sowie
@@ -99,6 +103,7 @@ nach dem AETR.
 
 
 ## § 5 Ruhepause
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000500000)
 
 Ein selbständiger Kraftfahrer darf nicht länger als sechs Stunden
 hintereinander ohne Ruhepause arbeiten. Die Arbeit ist durch
@@ -110,6 +115,7 @@ aufgeteilt werden.
 
 
 ## § 6 Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000601123)
 
 Der selbständige Kraftfahrer ist verpflichtet, seine Arbeitszeit
 täglich aufzuzeichnen, soweit sie nicht durch einen Fahrtenschreiber
@@ -127,6 +133,7 @@ mindestens zwei Jahre aufzubewahren.
 
 
 ## § 7 Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000700000)
 
 (1) Die Einhaltung dieses Gesetzes wird von den nach Landesrecht
 zuständigen Behörden (Aufsichtsbehörden) überwacht.
@@ -155,6 +162,7 @@ Strafprozessordnung entsprechend.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -193,6 +201,7 @@ werden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krfarbzg/BJNR147900012.html#BJNR147900012BJNE000900000)
 
 Dieses Gesetz tritt am 1. November 2012 in Kraft.
 

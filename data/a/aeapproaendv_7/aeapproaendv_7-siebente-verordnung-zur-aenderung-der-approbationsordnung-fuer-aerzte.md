@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE000700328)
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
 Bekanntmachung vom 16. April 1987 (BGBl. I S. 1218), der durch Artikel
@@ -26,10 +27,12 @@ worden ist, wird verordnet:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000100328)
 
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000200328)
 
 Über das Bestehen einer schriftlichen Prüfung ist erneut zu
 entscheiden, wenn der Prüfling die Prüfung nicht bestanden hat, weil
@@ -45,10 +48,12 @@ in der bis zum 31. Juli 1979 geltenden Fassung anzuwenden.
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000300328)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE000800328)
 
 Bei Studierenden der Medizin, die bis zum 10. März 1992 erstmals zur
 Ärztlichen Vorprüfung zugelassen werden, findet Anlage 1 zur
@@ -57,6 +62,7 @@ Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE000900328)
 
 Bei Studierenden der Medizin, die bis zum 10. August 1990 erstmals zum
 Ersten Abschnitt der Ärztlichen Prüfung zugelassen werden, findet
@@ -65,6 +71,7 @@ Fassung Anwendung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE001000328)
 
 Bei Studierenden der Medizin, die bis zum 10. März 1993 erstmals zum
 Zweiten Abschnitt der Ärztlichen Prüfung zugelassen werden, findet
@@ -73,6 +80,7 @@ Anwendung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE001100328)
 
 Studierende der Medizin, die bis zum 10. März 1992 erstmals zur
 Ärztlichen Vorprüfung oder zum Ersten Abschnitt der Ärztlichen Prüfung
@@ -87,6 +95,7 @@ bis zum 1. Juli 1993 nicht bestehen.
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000400328)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den
 Wortlaut der Approbationsordnung für Ärzte in der nach Inkrafttreten
@@ -95,12 +104,14 @@ bekanntmachen.
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000500328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
 
 ## Art 6 - 
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNG000600328)
 
 Diese Verordnung tritt mit Ausnahme des Artikels 1 Nr. 3 Buchstaben b
 und c und Artikel 1 Nr. 7 am 1. Januar 1990 in Kraft. Artikel 1 Nr. 7
@@ -111,6 +122,7 @@ Artikel 1 Nr. 3 Buchstabe b Doppelbuchstabe bb tritt am 1. Oktober
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/_appro_ndv_7/BJNR025499989.html#BJNR025499989BJNE001200328)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

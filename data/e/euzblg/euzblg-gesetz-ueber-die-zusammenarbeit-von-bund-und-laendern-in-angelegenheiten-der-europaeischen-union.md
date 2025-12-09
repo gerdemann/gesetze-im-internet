@@ -21,18 +21,21 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000200307)
 
 In Angelegenheiten der Europäischen Union wirken die Länder durch den
 Bundesrat mit.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000300307)
 
 Die Bundesregierung unterrichtet den Bundesrat unbeschadet des
 Artikels 2 des Gesetzes zu den Verträgen vom 25. März 1957 zur
@@ -43,6 +46,7 @@ Europäischen Union, die für die Länder von Interesse sein könnten.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000400307)
 
 Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der
 Europäischen Union gibt die Bundesregierung dem Bundesrat rechtzeitig
@@ -51,6 +55,7 @@ Interessen der Länder berührt sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000500307)
 
 (1) Soweit der Bundesrat an einer entsprechenden innerstaatlichen
 Maßnahme mitzuwirken hätte oder soweit die Länder innerstaatlich
@@ -64,6 +69,7 @@ Einvernehmen anzustreben.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000601160)
 
 (1) Soweit in einem Bereich ausschließlicher Zuständigkeiten des
 Bundes Interessen der Länder berührt sind oder soweit im übrigen der
@@ -94,6 +100,7 @@ Einnahmeminderungen für den Bund führen können.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000701377)
 
 (1) Bei einem Vorhaben, bei dem der Bundesrat an einer entsprechenden
 innerstaatlichen Maßnahme mitzuwirken hätte oder bei dem die Länder
@@ -144,6 +151,7 @@ Behandlung mit dem Vertreter der Länder abgestimmt worden ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000801377)
 
 (1) Die Bundesregierung macht auf Verlangen des Bundesrates
 unbeschadet eigener Klagerechte der Länder von dem im Vertrag über die
@@ -176,6 +184,7 @@ haben.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE000900307)
 
 Die Länder können unmittelbar zu Einrichtungen der Europäischen Union
 ständige Verbindungen unterhalten, soweit dies zur Erfüllung ihrer
@@ -190,6 +199,7 @@ wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001002160)
 
 Einzelheiten der Unterrichtung und Beteiligung der Länder nach diesem
 Gesetz sowie nach dem Integrationsverantwortungsgesetz vom 22.
@@ -199,6 +209,7 @@ vorbehalten.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001101160)
 
 (1) Bei Vorhaben der Europäischen Union ist das Recht der Gemeinden
 und Gemeindeverbände zur Regelung der Angelegenheiten der örtlichen
@@ -212,12 +223,14 @@ unberührt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001200307)
 
 Dieses Gesetz gilt nicht für den Bereich der Gemeinsamen Außen- und
 Sicherheitspolitik der Europäischen Union.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001300307)
 
 Dieses Gesetz gilt auch für Vorhaben, die auf Beschlüsse des Rates und
 der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten
@@ -225,12 +238,14 @@ gerichtet sind.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001400307)
 
 Die in § 9 genannte Vereinbarung kann weitere Fälle vorsehen, in denen
 die Länder entsprechend diesem Gesetz mitwirken.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001501160)
 
 (1) Vor der Zustimmung zu einem Beschluss über die Zusammensetzung des
 Ausschusses der Regionen nach Artikel 305 Absatz 2 des Vertrags über
@@ -247,11 +262,13 @@ Regionalausschuß vertreten sind.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001600307)
 
 -
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001700307)
 
 Dieses Gesetz tritt mit dem Tage der Gründung der Europäischen Union
 in Kraft. Dieser Tag ist im Bundesgesetzblatt bekanntzugeben.
@@ -259,6 +276,7 @@ Abweichend von Satz 1 tritt § 5 Abs. 3 am 1. Januar 1993 in Kraft.
 
 
 ## Anlage (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/euzblg/BJNR031300993.html#BJNR031300993BJNE001900160)
 
 (Fundstelle: BGBl. I 2009, 3032 - 3035)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbbatzv/BJNR276300020.html#BJNR276300020BJNE000100000)
 
 Auf Grund des § 3 Absatz 3 Satz 1 Nummer 4 und des § 10 Absatz 1 des
 Postpersonalrechtsgesetzes, von denen § 3 Absatz 3 Satz 1 Nummer 4
@@ -30,6 +31,7 @@ Innern, für Bau und Heimat:
 
 
 ## § 1 Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/dbbatzv/BJNR276300020.html#BJNR276300020BJNE000200000)
 
 (1) Abweichend von § 93 Absatz 1 bis 3 des Bundesbeamtengesetzes kann
 den bei der Deutschen Bank AG beschäftigten Beamtinnen und Beamten,
@@ -78,6 +80,7 @@ Altersteilzeit nach Absatz 1 nicht anzuwenden.
 
 
 ## § 2 Deutsche-Bank-Altersteilzeitzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/dbbatzv/BJNR276300020.html#BJNR276300020BJNE000300000)
 
 (1) Beamtinnen und Beamte, denen Altersteilzeit nach § 1 bewilligt
 worden ist, erhalten einen nicht ruhegehaltfähigen Zuschlag in Höhe
@@ -124,6 +127,7 @@ Bundesbesoldungsgesetzes.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbbatzv/BJNR276300020.html#BJNR276300020BJNE000400000)
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft.
 

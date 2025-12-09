@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000100000)
 
 Auf Grund des § 56b Absatz 2 Satz 2 des
 Versicherungsaufsichtsgesetzes, der durch Artikel 6 Nummer 6 des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000201118)
 
 Diese Verordnung gilt für Lebensversicherungsunternehmen mit Ausnahme
 von Sterbekassen und regulierten Pensionskassen im Sinne von § 233
@@ -35,6 +37,7 @@ Absatz 1 oder 2 des Versicherungsaufsichtsgesetzes.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000301118)
 
 Im Sinne dieser Verordnung bezeichnet:
 
@@ -127,6 +130,7 @@ Im Sinne dieser Verordnung bezeichnet:
 
 
 ## § 3 Kollektiver Teil der Rückstellung für Beitragsrückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000401118)
 
 (1) Kollektive Teile der Rückstellung für Beitragsrückerstattung im
 Sinne des § 140 Absatz 4 des Versicherungsaufsichtsgesetzes können nur
@@ -176,6 +180,7 @@ Aufsichtsbehörde möglich.
 
 
 ## § 4 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000501118)
 
 (1) Vertragliche Verpflichtungen aus Versicherungsverträgen, die einer
 Zuführung in den kollektiven Teil der Rückstellung für
@@ -189,6 +194,7 @@ getrennt für die separaten Bestände anzuwenden.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000601118)
 
 Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist
 die RfB-Verordnung in der bis zum 31. Juli 2017 geltenden Fassung
@@ -196,6 +202,7 @@ anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rfbv/BJNR030000015.html#BJNR030000015BJNE000801118)
 
 Der Bundesrat hat zugestimmt.
 

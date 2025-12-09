@@ -20,20 +20,24 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000100307)
 
 
 
 ### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000101301)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000201160)
 
 Die Vorschriften des Gerichtsverfassungsgesetzes finden auf die
 ordentliche Gerichtsbarkeit und deren Ausübung Anwendung.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000301301)
 
 (1) Die Gerichtsbarkeit in bürgerlichen Rechtsstreitigkeiten und
 Strafsachen, für welche besondere Gerichte zugelassen sind, kann den
@@ -52,10 +56,12 @@ Gerichtsverfassungsgesetz vorgeschriebenen Normen bestimmt werden.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000401301)
 
 
 
 ### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003103301)
 
 (1) Die Länder Berlin und Hamburg bestimmen, welche Stellen die
 Aufgaben erfüllen, die im Gerichtsverfassungsgesetz den
@@ -70,10 +76,12 @@ nach den Grenzen der Verwaltungsbezirke bestimmt.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000501307)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003000309)
 
 (1) Vorschriften über die Wahl oder Ernennung ehrenamtlicher Richter
 in der ordentlichen Gerichtsbarkeit einschließlich ihrer Vorbereitung,
@@ -90,10 +98,12 @@ ihrem Inkrafttreten beginnende Amtsperiode anzuwenden.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000502307)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000601310)
 
 (1) Durch die Gesetzgebung eines Landes, in dem mehrere
 Oberlandesgerichte errichtet werden, kann die Verhandlung und
@@ -109,6 +119,7 @@ enthalten sind.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000703125)
 
 Durch die Gesetzgebung eines Landes, in dem mehrere Oberlandesgerichte
 errichtet werden, können die zur Zuständigkeit der Oberlandesgerichte
@@ -123,6 +134,7 @@ werden.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000802125)
 
 (1) Die allgemeinen sowie die in § 116 Abs. 1 Satz 2, §§ 117, 124, 130
 Abs. 1 und § 181 Abs. 1 enthaltenen besonderen Vorschriften des
@@ -143,14 +155,17 @@ Gerichtsbarkeit nach den Vorschriften über die Oberlandesgerichte, im
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE000901301)
 
 
 
 ## Zweiter Abschnitt - Verfahrensübergreifende Mitteilungen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000200307)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003201311)
 
 (1) Die Vorschriften dieses Abschnitts gelten für die Übermittlung
 personenbezogener Daten von Amts wegen durch Gerichte der ordentlichen
@@ -181,6 +196,7 @@ in besonderen Rechtsvorschriften bleiben unberührt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003301125)
 
 (1) Gerichte und Staatsanwaltschaften dürfen personenbezogene Daten
 zur Erfüllung der in der Zuständigkeit des Empfängers liegenden
@@ -240,6 +256,7 @@ entsprechenden Landesgesetz verarbeitet werden.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003405125)
 
 (1) In Strafsachen ist die Übermittlung personenbezogener Daten des
 Beschuldigten, die den Gegenstand des Verfahrens betreffen, zulässig,
@@ -376,6 +393,7 @@ gesichert die zu übermittelnden Erkenntnisse sind.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003500307)
 
 In Zivilsachen einschließlich der Angelegenheiten der freiwilligen
 Gerichtsbarkeit ist die Übermittlung personenbezogener Daten zulässig,
@@ -398,6 +416,7 @@ erforderlich ist
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003601311)
 
 Werden personenbezogene Daten an ausländische öffentliche Stellen oder
 an über- oder zwischenstaatliche Stellen nach den hierfür geltenden
@@ -417,6 +436,7 @@ auch zulässig
 
 
 ### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004502311)
 
 (1) Das Bundesamt für Justiz nach Maßgabe des Absatzes 2 und die von
 den Landesregierungen durch Rechtsverordnung bestimmten weiteren
@@ -437,6 +457,7 @@ einer obersten Landesbehörde übertragen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003701125)
 
 Die Übermittlung personenbezogener Daten ist ferner zulässig, wenn die
 Kenntnis der Daten aus der Sicht der übermittelnden Stelle
@@ -464,6 +485,7 @@ erforderlich ist.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003801125)
 
 (1) Sind mit personenbezogenen Daten, die nach diesem Abschnitt
 übermittelt werden dürfen, weitere personenbezogene Daten der
@@ -484,6 +506,7 @@ erreichen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE003901125)
 
 (1) Die übermittelten Daten dürfen nur zu dem Zweck verarbeitet
 werden, zu dessen Erfüllung sie übermittelt worden sind. Eine
@@ -500,6 +523,7 @@ Verarbeitung der Daten zuständige Stelle bekannt, so leitet er die
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004001125)
 
 (1) Betreffen Daten, die vor Beendigung eines Verfahrens übermittelt
 worden sind, den Gegenstand dieses Verfahrens, so ist der Empfänger
@@ -524,6 +548,7 @@ erforderlich ist.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004101125)
 
 (1) Der betroffenen Person ist auf Antrag Auskunft über die
 übermittelten Daten und deren Empfänger zu erteilen. Der Antrag ist
@@ -588,6 +613,7 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 
 
 ### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE005200125)
 
 Bei verfahrensübergreifenden Mitteilungen von Amts wegen im Sinne
 dieses Abschnitts gelten für Rechte und Pflichten nach den Artikeln 12
@@ -602,6 +628,7 @@ den in den Sätzen 1 und 2 genannten Artikeln der Verordnung (EU)
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004201125)
 
 (1) Ist die Rechtsgrundlage für die Übermittlung personenbezogener
 Daten nicht in den Vorschriften enthalten, die das Verfahren der
@@ -627,10 +654,12 @@ worden ist.
 
 
 ## Dritter Abschnitt - Anfechtung von Justizverwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000300307)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001301301)
 
 (1) Über die Rechtmäßigkeit der Anordnungen, Verfügungen oder
 sonstigen Maßnahmen, die von den Justizbehörden zur Regelung einzelner
@@ -652,6 +681,7 @@ Vorschriften angerufen werden können, behält es hierbei sein Bewenden.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001400666)
 
 (1) Der Antrag auf gerichtliche Entscheidung ist nur zulässig, wenn
 der Antragsteller geltend macht, durch die Maßnahme oder ihre
@@ -664,6 +694,7 @@ vorausgegangenem Beschwerdeverfahren gestellt werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001500666)
 
 (1) Über den Antrag entscheidet ein Zivilsenat oder, wenn der Antrag
 eine Angelegenheit der Strafrechtspflege oder des Vollzugs betrifft,
@@ -679,6 +710,7 @@ Oberlandesgerichte oder dem Obersten Landesgericht zuweisen.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001601308)
 
 (1) Der Antrag auf gerichtliche Entscheidung muß innerhalb eines
 Monats nach Zustellung oder schriftlicher Bekanntgabe des Bescheides
@@ -709,6 +741,7 @@ Jahresfrist infolge höherer Gewalt unmöglich war.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001700666)
 
 (1) Ein Antrag auf gerichtliche Entscheidung kann auch gestellt
 werden, wenn über einen Antrag, eine Maßnahme zu treffen, oder über
@@ -733,6 +766,7 @@ den besonderen Verhältnissen des Einzelfalles unterblieben ist.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001801308)
 
 (1) Soweit die Maßnahme rechtswidrig und der Antragsteller dadurch in
 seinen Rechten verletzt ist, hebt das Gericht die Maßnahme und, soweit
@@ -767,6 +801,7 @@ Sitz und über die einzuhaltende Form und Frist beizufügen.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE001905308)
 
 (1) Gegen einen Beschluss des Oberlandesgerichts ist die
 Rechtsbeschwerde statthaft, wenn sie das Oberlandesgericht im ersten
@@ -795,6 +830,7 @@ der Zivilprozessordnung entsprechend anzuwenden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002001311)
 
 Das Oberlandesgericht kann nach billigem Ermessen bestimmen, daß die
 außergerichtlichen Kosten des Antragstellers, die zur
@@ -806,6 +842,7 @@ nicht angefochten werden.
 
 
 ### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004605311)
 
 (1) Verwaltungsakte, die im Bereich der Justizverwaltung beim Vollzug
 des Gerichtskostengesetzes, des Gesetzes über Kosten in
@@ -853,10 +890,12 @@ anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle
 
 
 ## Vierter Abschnitt - Kontaktsperre
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000400307)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002102311)
 
 (1) Besteht eine gegenwärtige Gefahr für Leben, Leib oder Freiheit
 einer Person, begründen bestimmte Tatsachen den Verdacht, daß die
@@ -885,6 +924,7 @@ Verkehrs mit dem Verteidiger erstreckt werden.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002201311)
 
 Die Feststellung nach § 31 trifft die Landesregierung oder die von ihr
 bestimmte oberste Landesbehörde. Ist es zur Abwendung der Gefahr
@@ -894,6 +934,7 @@ Verbraucherschutz treffen.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002301311)
 
 Ist eine Feststellung nach § 31 erfolgt, so treffen die zuständigen
 Behörden der Länder die Maßnahmen, die zur Unterbrechung der
@@ -903,6 +944,7 @@ entsprechend.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002401311)
 
 (1) Sind Gefangene von Maßnahmen nach § 33 betroffen, so gelten für
 sie, von der ersten sie betreffenden Maßnahme an, solange sie von
@@ -992,6 +1034,7 @@ das Gericht kann einstweilige Maßnahmen treffen.
 
 
 ### § 34a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002901311)
 
 (1) Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31
 Absatz 2 auf den schriftlichen und mündlichen Verkehr mit dem
@@ -1044,6 +1087,7 @@ Absätze 1 bis 5 zu belehren.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002501311)
 
 Die Feststellung nach § 31 verliert ihre Wirkung, wenn sie nicht
 innerhalb von zwei Wochen nach ihrem Erlaß bestätigt worden ist. Für
@@ -1055,6 +1099,7 @@ ein Strafsenat des Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002600666)
 
 Die Feststellung nach § 31 ist zurückzunehmen, sobald ihre
 Voraussetzungen nicht mehr vorliegen. Sie verliert spätestens nach
@@ -1069,6 +1114,7 @@ anwendbar.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002700666)
 
 (1) Über die Rechtmäßigkeit einzelner Maßnahmen nach § 33 entscheidet
 auf Antrag ein Strafsenat des Oberlandesgerichts, in dessen Bezirk die
@@ -1087,6 +1133,7 @@ und der §§ 26 bis 30 gelten entsprechend.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE002800666)
 
 Die Vorschriften der §§ 31 bis 37 gelten entsprechend, wenn eine
 Maßregel der Besserung und Sicherung vollzogen wird oder wenn ein
@@ -1094,6 +1141,7 @@ Unterbringungsbefehl nach § 126a der Strafprozeßordnung besteht.
 
 
 ### § 38a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004700301)
 
 (1) Die §§ 31 bis 38 finden entsprechende Anwendung, wenn gegen einen
 Gefangenen ein Strafverfahren wegen des Verdachts der Bildung einer
@@ -1125,18 +1173,22 @@ rechtskräftig verurteilt worden ist.
 
 
 ## Fünfter Abschnitt - Insolvenzstatistik
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000500301)
 
 
 
 ### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004301308)
 
 
 
 ## Sechster Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNG000600160)
 
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004800160)
 
 § 119 findet im Fall einer Entscheidung über Ansprüche, die von einer
 oder gegen eine Partei erhoben worden sind, die ihren allgemeinen
@@ -1150,6 +1202,7 @@ Entscheidung vor dem 1. September 2009 erlassen wurde.
 
 
 ### § 40a
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004802125)
 
 (1) Die §§ 72a und 119a des Gerichtsverfassungsgesetzes in der bis
 einschließlich 31. Dezember 2020 geltenden Fassung sind auf Verfahren,
@@ -1162,6 +1215,7 @@ Gerichtsverfassungsgesetzes in der bis einschließlich 31. Dezember
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE004900308)
 
 (1) Für Verfahren, die vor dem 1. Januar 2012 beim Landgericht
 anhängig geworden sind, sind die §§ 74, 74c und 76 des
@@ -1177,6 +1231,7 @@ geltenden Fassung entsprechend anzuwenden.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE005000311)
 
 § 30a ist auf Verwaltungsakte im Bereich der Kostenordnung auch nach
 dem Inkrafttreten des 2. Kostenrechtsmodernisierungsgesetzes vom 23.
@@ -1184,6 +1239,7 @@ Juli 2013 (BGBl. I S. 2586) weiter anzuwenden.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/gvgeg/BJNR000770877.html#BJNR000770877BJNE005100311)
 
 § 169 Absatz 2 des Gerichtsverfassungsgesetzes findet keine Anwendung
 auf Verfahren, die am 18. April 2018 bereits anhängig sind.

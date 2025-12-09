@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000100325)
 
 Auf Grund des § 6 Abs. 1 und 2 und § 83 Abs. 1 und 2 des
 Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448), § 6
@@ -30,6 +31,7 @@ Forsten verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000200325)
 
 (1) Es ist verboten, bei der Herstellung von Arzneimitteln, die aus
 Pflanzen oder Pflanzenteilen bestehen, Ethylenoxid zu verwenden.
@@ -40,6 +42,7 @@ hergestellt worden sind, in den Verkehr zu bringen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000301310)
 
 (1) Nach § 95 Abs. 1 Nr. 2 und Abs. 2 bis 4 des Arzneimittelgesetzes
 wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 2
@@ -53,12 +56,14 @@ handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000400325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000501307)
 
 (1) Diese Verordnung tritt vorbehaltlich der Regelung nach Absatz 2 am
 Tage nach der Verkündung in Kraft.
@@ -72,6 +77,7 @@ zugelassen.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ethylenoxidv/BJNR015860988.html#BJNR015860988BJNE000600325)
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Neue Freihäfen
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000102307)
 
 (1) In Deggendorf und in Duisburg wird jeweils ein Teil des
 Hafengebiets als Freihafen eingerichtet.
@@ -69,11 +70,13 @@ oder Teile davon in die Freihäfen einbeziehen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000200328)
 
 -
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000300328)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -82,30 +85,35 @@ des Dritten Überleitungsgesetzes.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000400328)
 
 Dieses Gesetz tritt am ersten Tage des seiner Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 2 und 4 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000500328)
 
 (Fundstelle: BGBl. I 1989, 1543)
 
 ![bgbl1_1989_j1543_0010.jpg](bgbl1_1989_j1543_0010.jpg)
 
 ## Anlage 2 (zu § 1 Abs. 4 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000600328)
 
 (Fundstelle: BGBl. I 1989, 1544)
 
 ![bgbl1_1989_j1544_0010.jpg](bgbl1_1989_j1544_0010.jpg)
 
 ## Anlage 3 (zu § 1 Abs. 3 und 4 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000700328)
 
 (Fundstelle: BGBl. I 1989, 1545)
 
 ![bgbl1_1989_j1545_0010.jpg](bgbl1_1989_j1545_0010.jpg)
 
 ## Anlage 4 (zu § 1 Abs. 4 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/frhfdeg_dug/BJNR015410989.html#BJNR015410989BJNE000800328)
 
 (Fundstelle: BGBl. I 1989, 1546)
 

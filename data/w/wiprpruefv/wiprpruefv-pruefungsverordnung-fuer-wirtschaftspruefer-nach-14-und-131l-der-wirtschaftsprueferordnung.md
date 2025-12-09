@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000100000)
 
 Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der
 Fassung der Bekanntmachung vom 5. November 1975 (BGBl. I S. 2803), §
@@ -29,10 +30,12 @@ durch Artikel 1 Nr. 65 des Gesetzes vom 1. Dezember 2003 (BGBl. I S.
 
 
 ## Erster Teil - Prüfungsverfahren nach § 14 der Wirtschaftsprüferordnung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNG000100000)
 
 
 
 ### § 1 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000304125)
 
 (1) Der Antrag auf Zulassung zur Prüfung ist an die "Prüfungsstelle
 für das Wirtschaftsprüfungsexamen bei der Wirtschaftsprüferkammer"
@@ -112,6 +115,7 @@ Modul, um das die Prüfung verkürzt werden soll, nicht nach § 22 Absatz
 
 
 ### § 1a Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE004200125)
 
 (1) Die Aufsichtsarbeiten nach § 5 Absatz 1 Satz 5 sind bei der
 Prüfungsstelle für die Dauer von mindestens drei Jahren nach Eintritt
@@ -136,6 +140,7 @@ Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren.
 
 
 ### § 2 Prüfungskommission, Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000401118)
 
 (1) Der Prüfungskommission gehören als Mitglieder an ein Vertreter
 oder eine Vertreterin der für die Wirtschaft zuständigen oder einer
@@ -212,6 +217,7 @@ Kalenderjahr angeboten werden.
 
 
 ### § 3 Berufung der Mitglieder der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000503118)
 
 (1) Die Mitglieder der Prüfungskommission werden auf Vorschlag des
 Vorstandes der Wirtschaftsprüferkammer, welcher der Zustimmung des
@@ -237,6 +243,7 @@ Vorschläge nicht gebunden.
 
 
 ### § 4 Prüfungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000602118)
 
 (1) Prüfungsgebiete sind
 
@@ -406,10 +413,12 @@ Mathematik und Statistik.
 
 
 ### § 4a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003901118)
 
 
 
 ### § 5 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000702125)
 
 (1) Die Prüfung gliedert sich in vier Module, die jeweils ein
 Prüfungsgebiet nach § 4 Absatz 1 umfassen. In jedem Modul ist eine
@@ -432,12 +441,14 @@ gewählt werden, wenn es sich um den nächstmöglichen handelt.
 
 
 ### § 6 Verkürzte Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000801118)
 
 Abweichend von § 5 Absatz 1 kann die Prüfung in verkürzter Form nach
 den §§ 8a, 13 bis 13b der Wirtschaftsprüferordnung abgelegt werden.
 
 
 ### § 7 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE000903118)
 
 (1) Die Aufgaben für die Aufsichtsarbeiten sind aus der Berufsarbeit
 der Wirtschaftsprüfer und Wirtschaftsprüferinnen zu entnehmen.
@@ -457,6 +468,7 @@ ist jeweils eine Aufsichtsarbeit an einem Tag zu bearbeiten.
 
 
 ### § 8 Aufgabenkommission
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001001118)
 
 (1) Für das Bestimmen der Prüfungsaufgaben in der schriftlichen
 Prüfung und für die Entscheidung über die zugelassenen Hilfsmittel
@@ -479,6 +491,7 @@ drei Jahren berufen.
 
 
 ### § 9 Widerspruchskommission
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001100000)
 
 Für Entscheidungen nach § 5 Abs. 5 der Wirtschaftsprüferordnung wird
 bei der Prüfungsstelle eine Widerspruchskommission eingerichtet, die
@@ -489,6 +502,7 @@ entsprechend.
 
 
 ### § 10 Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001200000)
 
 Die Aufsicht bei den Aufsichtsarbeiten führen von der Prüfungsstelle
 bestimmte Personen. Über die Anfertigung der Aufsichtsarbeiten haben
@@ -499,6 +513,7 @@ aufzunehmen sind.
 
 
 ### § 11 Prüfungsnoten
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001301118)
 
 (1) Für die Bewertung der einzelnen Prüfungsleistungen werden sechs
 Notenstufen gebildet. Es bedeuten
@@ -578,6 +593,7 @@ Rundung zu berechnen.
 
 
 ### § 12 Bewertung der Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001400000)
 
 (1) Jede Aufsichtsarbeit ist von zwei Mitgliedern der
 Prüfungskommission, die nicht an der mündlichen Prüfung teilnehmen
@@ -592,6 +608,7 @@ Durchschnitt der Bewertungen.
 
 
 ### § 13 Ergebnis der schriftlichen Prüfung; Ausschluss von der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001502118)
 
 (1) Für die schriftliche Modulprüfung wird, sofern zwei
 Aufsichtsarbeiten anzufertigen sind, eine Gesamtnote gebildet.
@@ -606,6 +623,7 @@ bestanden.
 
 
 ### § 14 Vorberatung der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001601118)
 
 Vor Beginn der mündlichen Prüfung findet eine Vorberatung der an der
 mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission
@@ -613,6 +631,7 @@ statt, zu der sämtliche Prüfungsunterlagen vorliegen.
 
 
 ### § 15 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001702118)
 
 (1) Die mündliche Modulprüfung im Prüfungsgebiet Wirtschaftliches
 Prüfungswesen, Unternehmensbewertung und Berufsrecht besteht aus einem
@@ -650,6 +669,7 @@ werden, einmal bei der mündlichen Prüfung zuzuhören.
 
 
 ### § 16 Bewertung der mündlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001802118)
 
 (1) In der mündlichen Prüfung werden der kurze Vortrag und die
 einzelnen Prüfungsabschnitte jeweils gesondert bewertet.
@@ -664,6 +684,7 @@ Gesamtnote gebildet.
 
 
 ### § 17 Modulgesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE001901118)
 
 Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der
 Gesamtnote oder Note der mündlichen Modulprüfung ist eine
@@ -674,6 +695,7 @@ sodann die Summe durch 10 geteilt wird.
 
 
 ### § 18 Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002002118)
 
 (1) Die an der mündlichen Prüfung mitwirkenden Mitglieder der
 Prüfungskommission entscheiden im Anschluss an eine mündliche
@@ -695,6 +717,7 @@ Bezeichnung, die auf das Bestehen der Prüfung Bezug nimmt.
 
 
 ### § 19 Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002103125)
 
 (1) Hat die geprüfte Person in der Modulprüfung im Prüfungsgebiet
 Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht
@@ -732,6 +755,7 @@ finden die Absätze 1 und 2 keine Anwendung.
 
 
 ### § 20 Niederschrift der Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002201118)
 
 (1) Über den Hergang der mündlichen Modulprüfung ist eine
 Niederschrift aufzunehmen, in der festgestellt werden
@@ -762,6 +786,7 @@ unterschreiben.
 
 
 ### § 21 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002302118)
 
 (1) Tritt die zu prüfende Person von einer Modulprüfung zurück, so
 gilt die Modulprüfung als nicht bestanden. Als Rücktritt gilt es, wenn
@@ -788,6 +813,7 @@ nicht bestanden.
 
 
 ### § 22 Wiederholung einer Modulprüfung und der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002406125)
 
 (1) Eine Modulprüfung kann zweimal wiederholt werden. Für die
 Wiederholung der Modulprüfung ist eine Anmeldung bei der
@@ -802,12 +828,14 @@ Modulprüfungen.
 
 
 ### § 23 Mitteilung des Prüfungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002501118)
 
 Die Prüfungsstelle teilt der geprüften Person das Prüfungsergebnis
 mit.
 
 
 ### § 24 Täuschungsversuch, Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002601118)
 
 (1) Unternimmt es eine zu prüfende Person, das Ergebnis einer
 schriftlichen Arbeit durch Täuschung oder Benutzung nicht zugelassener
@@ -831,16 +859,19 @@ Beendigung der Prüfung mehr als drei Jahre vergangen sind.
 
 
 ### § 24a Einsicht in Prüfungsakten
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE004000118)
 
 Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung
 die Prüfungsakten persönlich einsehen.
 
 
 ## Zweiter Teil - Prüfungsverfahren nach § 131l der Wirtschaftsprüferordnung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNG000200000)
 
 
 
 ### § 25 Antrag auf Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002703125)
 
 (1) Der Antrag auf Zulassung zur Eignungsprüfung ist an die
 "Prüfungsstelle für das Wirtschaftsprüfungsexamen bei der
@@ -891,6 +922,7 @@ Prüfungssprache ist Deutsch. § 1a gilt entsprechend.
 
 
 ### § 26 Prüfungskommission, Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002802118)
 
 (1) Der Prüfungskommission gehören als Mitglieder an eine eine oberste
 Landesbehörde vertretende Person als vorsitzendes Mitglied, eine die
@@ -904,6 +936,7 @@ Finanzverwaltung vertretende Person nicht teil.
 
 
 ### § 27 Prüfungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE002901118)
 
 (1) In der Eignungsprüfung sind Prüfungsgebiete der schriftlichen
 Prüfung
@@ -1002,6 +1035,7 @@ enthält.
 
 
 ### § 28 Verkürzte Prüfung; Erlass von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003000000)
 
 (1) Für die verkürzte Prüfung gilt § 6 entsprechend.
 
@@ -1024,6 +1058,7 @@ Arbeitsproben vorzulegen.
 
 
 ### § 29 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003102118)
 
 (1) Die schriftliche Prüfung besteht aus zwei unter Aufsicht
 anzufertigenden Arbeiten (Aufsichtsarbeiten). Die Aufgaben für die
@@ -1063,6 +1098,7 @@ bewerten.
 
 
 ### § 30 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003202118)
 
 (1) Die zu prüfende Person ist von der mündlichen Prüfung
 ausgeschlossen, wenn beide Aufsichtsarbeiten den Anforderungen nicht
@@ -1114,6 +1150,7 @@ Prüfungskommission zu unterschreiben.
 
 
 ### § 31 Prüfungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003301118)
 
 Die Prüfungskommission entscheidet im Anschluss an die mündliche
 Prüfung auf Grund des Gesamteindrucks der in der schriftlichen und in
@@ -1124,6 +1161,7 @@ erforderlichen Kenntnisse verfügt und damit die Prüfung bestanden hat.
 
 
 ### § 32 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003400000)
 
 Tritt die zu prüfende Person von der Prüfung zurück, so gilt die
 gesamte Prüfung als nicht bestanden. Als Rücktritt gilt es, wenn sie
@@ -1133,6 +1171,7 @@ entsprechend.
 
 
 ### § 33 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003501118)
 
 (1) Die Prüfung kann zweimal wiederholt werden. Für die Wiederholung
 der Prüfung ist eine erneute Zulassung erforderlich.
@@ -1143,6 +1182,7 @@ Erklärungen beizufügen.
 
 
 ### § 34 Täuschungsversuch, Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003600000)
 
 Unternimmt es eine zu prüfende Person, das Ergebnis einer
 schriftlichen Arbeit durch Täuschung oder Benutzung nicht zugelassener
@@ -1153,16 +1193,19 @@ für die mündliche Prüfung. § 24 Abs. 2 bis 4 gilt entsprechend.
 
 
 ### § 35 Einsicht in Prüfungsakten
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003701118)
 
 Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung
 die Prüfungsakten persönlich einsehen.
 
 
 ## Dritter Teil - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNG000302118)
 
 
 
 ### § 36 Behandlung schwebender Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE003802118)
 
 (1) Prüfungsverfahren nach dem Ersten Teil dieser Verordnung, die am
 16\. Februar 2019 nicht abgeschlossen sind, werden auf Antrag der zu
@@ -1190,6 +1233,7 @@ nicht bestanden, kann sie noch einmal wiederholt werden.
 
 
 ### § 37 Verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung
+[Direktlink](https://www.gesetze-im-internet.de/wiprpr_fv/BJNR170700004.html#BJNR170700004BJNE004100118)
 
 Für die verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung gilt
 diese Verordnung in der bis zum 15. Februar 2019 geltenden Fassung.

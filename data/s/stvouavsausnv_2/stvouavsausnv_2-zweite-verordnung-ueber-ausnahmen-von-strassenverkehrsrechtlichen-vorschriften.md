@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000100325)
 
 Auf Grund des § 6 Abs. 1 Nr. 1 und Nr. 3 in Verbindung mit Abs. 3 des
 Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ nach Anhörung der zuständigen obersten Landesbehörden verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000207119)
 
 (1) Zugmaschinen mit einer durch die Bauart bestimmten
 Höchstgeschwindigkeit von nicht mehr als 60 km/h und Anhänger hinter
@@ -121,31 +123,37 @@ Anhänger fest angebracht sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000301307)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000401308)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000501307)
 
 (weggefallen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000601307)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000802307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvouavsausnv_2/BJNR004810989.html#BJNR004810989BJNE000900325)
 
 Der Bundesminister für Verkehr
 

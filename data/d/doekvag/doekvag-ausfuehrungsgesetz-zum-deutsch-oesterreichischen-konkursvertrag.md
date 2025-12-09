@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vorschriften für deutsche Konkursverfahren
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNG000100319)
 
 
 
 ### § 1 Zuständigkeit auf Grund einer Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE000600319)
 
 Abweichend von § 238 der Konkursordnung umfaßt ein Konkursverfahren,
 das in einem dort angeführten Gerichtsstand eröffnet worden ist, auch
@@ -36,6 +38,7 @@ Vergleichs-(Ausgleichs-)rechts (BGBl. 1985 II S. 410) gegeben ist.
 
 
 ### § 2 Begründung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE000700319)
 
 Ist anzunehmen, daß sich Vermögen des Gemeinschuldners in Österreich
 befindet, sollen im Eröffnungsbeschluß die tatsächlichen
@@ -45,6 +48,7 @@ deutschen Gerichte ergibt.
 
 
 ### § 3 Einstellung des Konkursverfahrens zugunsten der österreichischen Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE000800319)
 
 (1) Darf das Konkursgericht ein bereits eröffnetes Konkursverfahren
 nicht fortsetzen (Artikel 2, 3 Abs. 1 des Vertrags), so stellt es von
@@ -79,6 +83,7 @@ ist nicht anzuwenden.
 
 
 ### § 4 Besonderer Konkursverwalter
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE000900319)
 
 (1) Der besondere Konkursverwalter, den das Konkursgericht zur
 Ausübung der Befugnisse des Konkursverwalters auf österreichischem
@@ -112,10 +117,12 @@ Konkursverwalter betreffenden Vorschriften der Konkursordnung.
 
 
 ## Zweiter Abschnitt - Vorschriften für die Unterstützung österreichischer Konkursverfahren
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNG000200319)
 
 
 
 ### § 5 Eintragungen in öffentliche Bücher oder Register
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001000319)
 
 Dem auf Eintragung in ein öffentliches Buch oder Register gerichteten
 Ersuchen eines österreichischen Gerichts (Artikel 5 Abs. 2 des
@@ -132,6 +139,7 @@ weiter und unterrichtet hierüber das ersuchende Gericht.
 
 
 ### § 6 Rechtsmittel gegen die Ablehnung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001100319)
 
 Wird die Eintragung abgelehnt, so kann auch der Masseverwalter das in
 dem Verfahren gegebene Rechtsmittel einlegen. Das Verfahren über das
@@ -139,6 +147,7 @@ Rechtsmittel ist kostenfrei.
 
 
 ### § 7 Löschung einer Eintragung auf Ersuchen des österreichischen Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001200319)
 
 Eine Eintragung in einem öffentlichen Buch oder Register (Artikel 5
 Abs. 2 des Vertrags) ist auf Grund des Ersuchens des österreichischen
@@ -146,6 +155,7 @@ Gerichts, das um die Eintragung ersucht hatte, kostenfrei zu löschen.
 
 
 ### § 8 Löschung einer Eintragung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001301160)
 
 (1) Auf Antrag ist eine Eintragung zu löschen, wenn einer der in
 Artikel 5 Abs. 2 Satz 1 des Vertrags bezeichneten Versagungsgründe
@@ -180,6 +190,7 @@ ist ihm eine angemessene Frist für eine Äußerung anzugeben.
 
 
 ### § 9 Eintragung in das Patentregister
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001401310)
 
 Für die Eintragung in das Patentregister (§ 30 des Patentgesetzes), um
 die ein österreichisches Gericht ersucht (Artikel 5 Abs. 2 des
@@ -194,6 +205,7 @@ das österreichische Gericht.
 
 
 ### § 10 Verwertung im Wege der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001500319)
 
 (1) Soll Vermögen des Schuldners im Wege der Zwangsvollstreckung
 verwertet werden (Artikel 8 Abs. 2 des Vertrags), ist das Verfahren
@@ -221,6 +233,7 @@ den Geltungsbereich dieses Gesetzes.
 
 
 ### § 11 Anordnung von Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001600319)
 
 (1) Geht das Ersuchen eines österreichischen Konkursgerichts oder der
 Antrag eines Masseverwalters, Zwangsmaßnahmen anzuordnen (Artikel 10
@@ -244,6 +257,7 @@ auch den Gerichtsvollzieher mit der Zustellung der Anordnung betrauen.
 
 
 ### § 12 Beschwerde gegen Ablehnung der Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001701309)
 
 Wird die Anordnung abgelehnt, findet die Beschwerde statt. Die
 Beschwerde kann der Masseverwalter auch einlegen, wenn das
@@ -253,6 +267,7 @@ Erklärungen abgegeben werden.
 
 
 ### § 13 Sofortige Beschwerde gegen die Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001801309)
 
 Gegen die Anordnung steht dem Schuldner die sofortige Beschwerde zu.
 Die sofortige Beschwerde ist auch zulässig, wenn die Zwangsmaßnahme
@@ -260,6 +275,7 @@ bereits vollzogen ist. § 12 Satz 3 gilt entsprechend.
 
 
 ### § 14 Anwendung der Zivilprozeßordnung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE001900319)
 
 Soweit nicht aus §§ 11 bis 13 sich Abweichungen ergeben, gilt für das
 eine Zwangsmaßnahme betreffende Verfahren die Zivilprozeßordnung
@@ -269,6 +285,7 @@ Ablehnung der Anordnung entschieden wird, ist kostenfrei.
 
 
 ### § 15 Haft des Schuldners
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002001160)
 
 Die Anordnung der Haft, die Verhaftung des Schuldners und die
 Vollziehung der Haft, um die ein österreichisches Konkursgericht
@@ -279,6 +296,7 @@ entsprechend.
 
 
 ### § 16 Postsperre
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002100319)
 
 Die Behörde der Postverwaltung händigt die für den Schuldner
 bestimmten Sendungen dem Masseverwalter aus, wenn ihr ein
@@ -288,6 +306,7 @@ vorgelegt wird.
 
 
 ### § 17 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002202310)
 
 (1) Der Schuldner kann eine gerichtliche Entscheidung darüber
 beantragen, ob sich aus dem Vertrag die Verpflichtung ergibt, die
@@ -306,6 +325,7 @@ ist kostenfrei.
 
 
 ### § 18 Zuständigkeit für die eine Vormerkung betreffende einstweilige Verfügung
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002300319)
 
 Wird die konkursrechtliche Anfechtung des Erwerbs eines Rechts an
 einer unbeweglichen Sache (Artikel 16 des Vertrags), die im
@@ -319,6 +339,7 @@ ist.
 
 
 ### § 19 Erteilung der Vollstreckungsklausel für österreichische Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002401310)
 
 Für die Erteilung der Vollstreckungsklausel zu Entscheidungen,
 Anordnungen und zu den ihnen nach Artikel 22 Abs. 3 des Vertrags
@@ -334,10 +355,12 @@ Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887), entsprechend.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNG000300319)
 
 
 
 ### § 20 Ersatzgerichtsstand im Inland
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002500319)
 
 Kommt in den Fällen der Artikel 20 und 21 des Vertrags die
 Zuständigkeit den deutschen Gerichten zu und ist ein Gerichtsstand im
@@ -350,6 +373,7 @@ seinen Sitz hat.
 
 
 ### § 21 Erstreckung von Folgen österreichischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002600319)
 
 Knüpft eine gewerberechtliche oder eine andere gesetzliche Vorschrift
 Folgen im Sinne des Artikels 17 des Vertrags an die Eintragung in dem
@@ -363,6 +387,7 @@ hinreichenden Vermögens abgewiesen worden ist.
 
 
 ### § 22 Anwendung der Vorschriften über Konkursausfallgeld
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002705140)
 
 (1) Die Entscheidung eines österreichischen Gerichts, mit der das
 Konkursverfahren über das Vermögen eines Arbeitgebers eröffnet oder
@@ -380,6 +405,7 @@ zuständig.
 
 
 ### § 23 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002800319)
 
 Zustellungen, die in einem unter den Vertrag fallenden
 Konkursverfahren oder in einem Verfahren nach diesem Gesetz an
@@ -390,10 +416,12 @@ Amtsblatt zur Wiener Zeitung erfolgt.
 
 
 ## Vierter Abschnitt - Vergleichs-(Ausgleichs-)verfahren
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNG000400319)
 
 
 
 ### § 24 Entsprechende Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE002900319)
 
 Die §§ 1 bis 23 gelten für die Ausführung des Artikels 25 des Vertrags
 (Vergleichsverfahren sowie Ausgleichsverfahren einschließlich des
@@ -401,10 +429,12 @@ Vorverfahrens) entsprechend.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNG000500319)
 
 
 
 ### § 25 Ermächtigung zur Zusammenfassung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE003000319)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 Entscheidung über Rechtsmittel nach §§ 6, 8 Abs. 2, § 24 sowie die
@@ -416,17 +446,20 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### (XXXX) §§ 26 und 27
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE003100319)
 
 -
 
 
 ### § 28 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE003200319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/d_kvag/BJNR005350985.html#BJNR005350985BJNE003300319)
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 25 gleichzeitig mit dem
 Vertrag vom 25. Mai 1979 zwischen der Bundesrepublik Deutschland und

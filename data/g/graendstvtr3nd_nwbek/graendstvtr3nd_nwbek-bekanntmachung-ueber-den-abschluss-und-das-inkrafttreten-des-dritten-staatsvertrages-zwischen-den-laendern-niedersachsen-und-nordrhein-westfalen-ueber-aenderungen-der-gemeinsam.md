@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3nd_nwbek/BJNR185900006.html#BJNR185900006BJNE000100000)
 
 Zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen wurde
 am 15./28. Dezember 2005 der Dritte Staatsvertrag über Änderungen der
@@ -49,6 +50,7 @@ Staatsvertrag nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr3nd_nwbek/BJNR185900006.html#BJNR185900006BJNE000200000)
 
 Bundesministerium des Innern
 

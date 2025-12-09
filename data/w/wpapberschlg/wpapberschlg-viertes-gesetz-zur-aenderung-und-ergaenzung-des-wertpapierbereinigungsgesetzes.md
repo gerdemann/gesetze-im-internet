@@ -20,21 +20,25 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE000800319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Beendigung der Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE000900319)
 
 Schlußtag im Sinne dieses Gesetzes ist der 31. Dezember 1964.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001000319)
 
 (1) Anträge nach §§ 4, 5 des Wertpapierbereinigungsgesetzes auf
 Feststellung, daß die gesetzlichen Voraussetzungen für die Bereinigung
@@ -55,6 +59,7 @@ nicht gestellt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001100319)
 
 (1) Anträge nach § 53 Abs. 1 Satz 2 des Zweiten Gesetzes zur Änderung
 und Ergänzung des Wertpapierbereinigungsgesetzes vom 20. August 1953
@@ -69,6 +74,7 @@ ausgestellte Sammelurkunde mit dem Schlußtag kraftlos.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001200319)
 
 Ist für eine Wertpapierart ein Antrag nach §§ 4, 5 des
 Wertpapierbereinigungsgesetzes oder ein Antrag nach § 53 Abs. 1 Satz 2
@@ -83,6 +89,7 @@ Wertpapierbereinigungsverfahren anerkannt worden wäre.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001300319)
 
 Auf Aktienarten, für die ein Antrag nach §§ 4, 5 des
 Wertpapierbereinigungsgesetzes oder ein Antrag nach § 53 Abs. 1 Satz 2
@@ -96,6 +103,7 @@ nach dem Schlußtag nicht mehr anzuwenden.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001400319)
 
 Nachanmeldungen (§ 1 des Dritten Gesetzes zur Änderung und Ergänzung
 des Wertpapierbereinigungsgesetzes vom 16. November 1956 -
@@ -106,6 +114,7 @@ Prüfstelle vorgelegt werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001500319)
 
 (1)
 
@@ -117,6 +126,7 @@ werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001600319)
 
 (1) Eine Nachanmeldung ist unter den sonst geltenden Voraussetzungen
 auch zulässig, wenn eine frühere Nachanmeldung zurückgenommen oder als
@@ -131,6 +141,7 @@ werden kann.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001700319)
 
 Die Vorschriften über Nachanmeldungen und Wiederanmeldungen gelten
 sinngemäß für Wertpapierarten, die nach § 21 des Dritten Gesetzes zur
@@ -141,10 +152,12 @@ Konversionskasse für deutsche Auslandsschulden.
 
 
 ## Zweiter Abschnitt - Verwendung der nach Abschluß der Wertpapierbereinigung verbleibenden Beträge für den Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000200319)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001805301)
 
 (1) Der Präsident des Bundesausgleichsamts kann nach Ablauf von drei
 Monaten nach dem Schlußtag, jedoch nicht früher als zwei Jahre nach
@@ -178,6 +191,7 @@ Zeitpunkt der Veräußerung an nicht mehr anzuwenden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE001901377)
 
 (1) Ein Aussteller, der nach §§ 12, 19 des Zweiten Gesetzes zur
 Änderung und Ergänzung des Wertpapierbereinigungsgesetzes aus einer
@@ -196,6 +210,7 @@ innerhalb eines Monats nach Eingang der Anzeige zu zahlen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002001377)
 
 (1) Der Präsident des Bundesausgleichsamts hat einem Aussteller, dem
 nach §§ 13, 19 des Zweiten Gesetzes zur Änderung und Ergänzung des
@@ -239,6 +254,7 @@ worden ist.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002101377)
 
 Die Wertpapiersammelbank hat auf Verlangen des Präsidenten des
 Bundesausgleichsamts die Geldbeträge, die nach § 54 Abs. 2 des Zweiten
@@ -249,6 +265,7 @@ benötigt werden.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002201377)
 
 (1) Der Präsident des Bundesausgleichsamts kann verlangen, daß die
 Wertpapiersammelbank die Zinsen, die ihr aus der verzinslichen
@@ -271,10 +288,12 @@ bemessen ist.
 
 
 ## Dritter Abschnitt - Entschädigung nach Abschluß der Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000300319)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002301377)
 
 (1) Wer glaubhaft macht, daß er ohne eigenes Verschulden an der
 rechtzeitigen Nachanmeldung eines Rechts verhindert oder daß ihm eine
@@ -300,6 +319,7 @@ nicht vorgenommen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002400319)
 
 (1) Der Anspruch auf Entschädigung ist bei dem Präsidenten des
 Bundesausgleichsamts schriftlich geltend zu machen. Dabei sind die den
@@ -331,6 +351,7 @@ nicht.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002500319)
 
 (1) Als Bemessungstag für die Höhe der Entschädigung gilt der letzte
 Tag des Kalendermonats, der auf die Anerkennung des Anspruchs durch
@@ -345,6 +366,7 @@ berechnen und zu zahlen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002600319)
 
 (1) Die Höhe der Entschädigung wird durch den Preis bestimmt, der am
 Bemessungstag im gewöhnlichen Geschäftsverkehr für den Erwerb der
@@ -370,6 +392,7 @@ verpflichtet, die Rechte unverzüglich nach dem Bemessungstag zu
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002701377)
 
 (1) Bei gesamtfälligen und teilfälligen Wertpapierarten (§§ 1, 2 des
 Zweiten Gesetzes zur Änderung und Ergänzung des
@@ -390,6 +413,7 @@ erhalten hätte.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002800319)
 
 Bei Schuldverschreibungsarten, für die nach den Bestimmungen des
 Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
@@ -400,6 +424,7 @@ Regelungsangebots zugestanden hätten. § 18 gilt sinngemäß.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE002900319)
 
 Die Entschädigung nach §§ 18 bis 20 erhöht sich um den Betrag der
 Entschädigung und der Zinsen nach § 5 des Altsparergesetzes, wenn dem
@@ -412,15 +437,18 @@ Dritten auf Antrag zu zahlen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003000319)
 
 -
 
 
 ## Vierter Abschnitt - Vorschriften für Schuldverschreibungen verlagerter Geldinstitute und Berliner Altbanken
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000400319)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003100319)
 
 (1) Rechte aus Schuldverschreibungen der in § 64 des Zweiten Gesetzes
 zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes
@@ -467,6 +495,7 @@ des verlagerten Geldinstituts zuständige Landesbehörde.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003200319)
 
 (1) Auf Schuldverschreibungen der in § 64 des Zweiten Gesetzes zur
 Änderung und Ergänzung des Wertpapierbereinigungsgesetzes bezeichneten
@@ -481,6 +510,7 @@ nicht mehr gestellt werden. § 4 gilt sinngemäß.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003300319)
 
 (1) Wer bei Schuldverschreibungen Berliner Altbanken ein Recht
 beansprucht, das für einen anderen (bisheriger Anmelder) rechtskräftig
@@ -521,6 +551,7 @@ Antrags nicht beansprucht werden.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003400319)
 
 (1) Auf Schuldverschreibungen Berliner Altbanken sind §§ 10, 11 nicht
 anzuwenden. Die Ansprüche aus dem Restbetrag der Sammelurkunde nach §
@@ -535,6 +566,7 @@ verlagerten Geldinstitute ist § 11 nicht anzuwenden.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003500319)
 
 (1) Bei Schuldverschreibungen verlagerter Geldinstitute und Berliner
 Altbanken hat Anspruch auf Entschädigung nach § 15 nur, wer bei
@@ -548,10 +580,12 @@ Auslandsschulden.
 
 
 ## Fünfter Abschnitt - Vorschriften für saarländische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000500319)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003601377)
 
 (1) Der Präsident des Bundesausgleichsamts kann die Aktien veräußern,
 die nach § 8 des Zweiten Gesetzes zur Änderung des Gesetzes zur
@@ -570,6 +604,7 @@ erlangt hat.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003700319)
 
 Für Wertpapiere, auf die das Gesetz zur Bereinigung der saarländischen
 Wertpapiere in der Fassung der Bekanntmachung vom 17. September 1953
@@ -584,10 +619,12 @@ Gesetzes zur Bereinigung der saarländischen Wertpapiere sinngemäß.
 
 
 ## Sechster Abschnitt - Verschiedene Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000600319)
 
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003800319)
 
 (1) Die Anmeldestelle kann, nachdem sie die Anmeldung, Nachanmeldung
 oder Wiederanmeldung der Prüfstelle vorgelegt hat, ihre weiteren
@@ -614,6 +651,7 @@ des Allgemeinen Kriegsfolgengesetzes vom 5. November 1957
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE003900319)
 
 Bei der Anerkennung eines Rechts ist nicht mehr festzustellen, ob das
 Recht nachgewiesen oder glaubhaft gemacht ist. Das anerkannte Recht
@@ -621,6 +659,7 @@ ist wie ein nachgewiesenes Recht zu behandeln.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004000319)
 
 Die Vorschriften des § 57 des Zweiten Gesetzes zur Änderung und
 Ergänzung des Wertpapierbereinigungsgesetzes über die Bekanntgabe der
@@ -629,6 +668,7 @@ Schuldverschreibungen nicht mehr anzuwenden.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004101377)
 
 (1) Können bei Aktien die Rechte aus Nachanmeldungen und
 Wiederanmeldungen, die in einem Bericht nach § 8 des Dritten Gesetzes
@@ -657,6 +697,7 @@ Anmeldestelle zu zahlen.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004200319)
 
 Der Präsident des Bundesausgleichsamts kann von der Prüfstelle und der
 Wertpapiersammelbank die Auskünfte verlangen, die zur Ausübung der ihm
@@ -665,6 +706,7 @@ obliegenden Verpflichtungen erforderlich sind.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004300319)
 
 Die in § 10 Abs. 1 Satz 2, §§ 11 bis 14, 28 Abs. 2, § 34 geregelten
 Ansprüche können im Wege der Klage vor den ordentlichen Gerichten
@@ -675,6 +717,7 @@ Wertpapierbereinigung gegeben ist.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004400319)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, zu bestimmen,
@@ -689,6 +732,7 @@ der Zustimmung des Bundesrates bedarf, zu bestimmen,
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004500319)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 Aufgaben der nach § 29 des Wertpapierbereinigungsgesetzes gebildeten
@@ -700,15 +744,18 @@ die Landesjustizverwaltungen übertragen.
 
 
 ## Siebenter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNG000700319)
 
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004600319)
 
 -
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004700319)
 
 Soweit dieses Gesetz auf das Wertpapierbereinigungsgesetz Bezug nimmt,
 ist darunter je nach dem Geltungsbereich das Gesetz zur Bereinigung
@@ -721,6 +768,7 @@ verstehen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004800319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -730,6 +778,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/wpapberschlg/BJNR000450964.html#BJNR000450964BJNE004900319)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 zweiten Kalendermonats in Kraft.

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfsvzustano/BJNR363700013.html#BJNR363700013BJNE000100000)
 
 Nach § 2 Absatz 3 der Soldatenversorgungs-
 Zuständigkeitsübertragungsverordnung vom 22. Juli 2013 (BGBl. I S.
@@ -28,6 +29,7 @@ Zuständigkeitsübertragungsverordnung vom 22. Juli 2013 (BGBl. I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bmfsvzustano/BJNR363700013.html#BJNR363700013BJNE000201116)
 
 (1) Die örtliche Zuständigkeit der Service-Center der
 Generalzolldirektion richtet sich nach der Anlage.
@@ -42,11 +44,13 @@ Anträge.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bmfsvzustano/BJNR363700013.html#BJNR363700013BJNE000300000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 2013 in Kraft.
 
 
 ## Anlage (zu § 1 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bmfsvzustano/BJNR363700013.html#BJNR363700013BJNE000401116)
 
 (Fundstelle: BGBl. I 2013, 3638)
 

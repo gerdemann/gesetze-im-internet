@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 2030-21-2 v. 21.7.1977 I 1353 (StBAPO 1977)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000100000)
 
 Auf Grund des § 8 des Steuerbeamten-Ausbildungsgesetzes vom 29.
 Oktober 1996 (BGBl. I S. 1577), das zuletzt durch Artikel 1 des
@@ -26,6 +27,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -68,9 +70,11 @@ Diese Verordnung regelt
 
 
 ## Teil 1 - Vorbereitungsdienst für den einfachen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000100000)
 
 
 ### § 2 Inhalt und Ziel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000400000)
 
 Der Vorbereitungsdienst umfasst eine sechsmonatige Einführung in das
 Aufgabengebiet des einfachen Dienstes. In dieser Zeit soll die Beamtin
@@ -81,6 +85,7 @@ Beamten vertraut gemacht werden.
 
 
 ### § 3 Abschluss
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000500000)
 
 Nach Ablauf des Vorbereitungsdienstes stellt die oder der unmittelbare
 Dienstvorgesetzte der Beamtin oder des Beamten fest, ob das Ziel des
@@ -88,6 +93,7 @@ Vorbereitungsdienstes erreicht worden ist.
 
 
 ### § 4 Verlängerung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000600000)
 
 Hat die Beamtin oder der Beamte die Einführung um insgesamt mehr als
 einen Monat unterbrochen, so kann der Vorbereitungsdienst verlängert
@@ -108,12 +114,15 @@ Beamte anzuhören.
 
 
 ## Teil 2 - Vorbereitungsdienste für den mittleren und gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000200000)
 
 
 ### Kapitel 1 - Vorschriften für beide Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000300000)
 
 
 #### § 5 Ziele der Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000700000)
 
 (1) In den Vorbereitungsdiensten werden die Beamtinnen und Beamten auf
 ihre Verantwortung im freiheitlichen, demokratischen und sozialen
@@ -136,6 +145,7 @@ ist unzulässig.
 
 
 #### § 6 Gliederung der Vorbereitungsdienste
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000800000)
 
 Die Vorbereitungsdienste gliedern sich in fachtheoretische und
 berufspraktische Abschnitte. Die fachtheoretischen Abschnitte werden
@@ -146,6 +156,7 @@ verpflichtet.
 
 
 #### § 7 Ausbildungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE000900000)
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte Stelle führt
 eine Ausbildungsakte.
@@ -160,6 +171,7 @@ vernichtet.
 
 
 #### § 8 Ausbildende
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001000000)
 
 (1) Bei jeder Oberfinanzdirektion oder bei der Landesfinanzbehörde,
 die die Aufgaben der Oberfinanzdirektion wahrnimmt, ist mindestens
@@ -200,6 +212,7 @@ geeignet ist.
 
 
 #### § 9 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001100000)
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter stellt für jede
 Beamtin und jeden Beamten einen Plan für die praktische Ausbildung
@@ -214,6 +227,7 @@ eingesetzt werden.
 
 
 #### § 10 Lehrende
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001200000)
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte Stelle
 bestellt die Lehrenden an den Bildungseinrichtungen. Die Bestellung
@@ -254,6 +268,7 @@ Bundesfinanzakademie entsprechend.
 
 
 #### § 11 Ausbildungsarbeitsgemeinschaften, Gestaltungspläne
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001300000)
 
 (1) Die Beamtin oder der Beamte nimmt während der berufspraktischen
 Abschnitte an Ausbildungsarbeitsgemeinschaften teil. Diese dienen
@@ -280,6 +295,7 @@ genehmigen.
 
 
 #### § 12 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001400000)
 
 (1) Die Leistungen der Beamtin oder des Beamten werden wie folgt
 bewertet:
@@ -505,6 +521,7 @@ zugeordnet:
 
 
 #### § 13 Durchführung der Zwischenprüfung und der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001500000)
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte Stelle ist
 zuständig für die organisatorische Durchführung der Zwischenprüfung
@@ -528,6 +545,7 @@ angewandt wird.
 
 
 #### § 14 Auswahl und Geheimhaltung der Prüfungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001600000)
 
 (1) Die Prüfungsarbeiten werden von der obersten Landesbehörde oder
 der von ihr bestimmten Stelle ausgewählt. Die zugelassenen Hilfsmittel
@@ -545,6 +563,7 @@ verpflichtet.
 
 
 #### § 15 Bewertungsverfahren bei Prüfungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001700000)
 
 (1) Bei der Bewertung der Prüfungsarbeiten ist die Richtigkeit der
 Entscheidung, in Abhängigkeit von der Aufgabe auch die Art und
@@ -562,12 +581,14 @@ abgelieferte Prüfungsarbeit ist mit der Notenpunktzahl 0 zu bewerten.
 
 
 #### § 16 Zulässigkeit des Antwort-Wahl-Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001800000)
 
 Schriftliche Leistungsnachweise können ganz oder teilweise im Antwort-
 Wahl-Verfahren durchgeführt werden.
 
 
 #### § 17 Ausgestaltung und Durchführung des Antwort-Wahl-Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE001900000)
 
 (1) Schriftliche Leistungsnachweise im Antwort-Wahl-Verfahren sind so
 auszugestalten, dass für Fragen oder Aufgaben die für zutreffend
@@ -613,6 +634,7 @@ Aufgabe nicht gelöst.
 
 
 #### § 18 Bewertungen von Leistungen im Antwort-Wahl-Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002000000)
 
 (1) Bei im Antwort-Wahl-Verfahren durchgeführten Leistungsnachweisen
 wird die Notenpunktzahl 5 vergeben, wenn die Mindestleistungspunktzahl
@@ -761,6 +783,7 @@ Mitglied des Prüfungsausschusses sein soll, zu überprüfen.
 
 
 #### § 19 E-Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002100000)
 
 (1) Schriftliche Leistungsnachweise können ganz oder teilweise mittels
 elektronischer Geräte erbracht werden (E-Klausuren).
@@ -777,6 +800,7 @@ und Sicherheit der Daten gewährleistet sein.
 
 
 #### § 20 Fehlerberichtigung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002200000)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 bei der Ermittlung oder der Bekanntgabe der Prüfungsergebnisse können
@@ -787,6 +811,7 @@ unrichtig sind, sind zurückzugeben.
 
 
 #### § 21 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002300000)
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten
 Beamtinnen und Beamten wird auf schriftlichen oder elektronischen
@@ -807,6 +832,7 @@ Gutachten vorzulegen.
 
 
 #### § 22 Säumnis, Verhinderung und Rücktritt bei Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002400000)
 
 (1) Versäumt die Beamtin oder der Beamte die von ihm zu erbringenden
 Prüfungsleistungen ganz oder teilweise ohne ausreichende
@@ -837,6 +863,7 @@ eine von ihr bestimmte Stelle über die Genehmigung entscheidet.
 
 
 #### § 23 Ordnungsverstöße
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002500000)
 
 (1) Über die Folgen eines Täuschungsversuches, einer Täuschung oder
 eines sonstigen Verstoßes gegen die Ordnung während der
@@ -870,6 +897,7 @@ diesem Fall als nicht bestanden.
 
 
 #### § 24 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002600000)
 
 (1) Nach Abschluss der Zwischenprüfung oder der Laufbahnprüfung können
 die Beamtinnen und Beamten auf schriftlichen oder elektronischen
@@ -894,12 +922,15 @@ Beamtenverhältnis erfolgt.
 
 
 ### Kapitel 2 - Vorbereitungsdienst für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000400000)
 
 
 #### Abschnitt 1 - Ablauf und Dauer
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000500000)
 
 
 ##### § 25 Ausbildungsablauf
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002700000)
 
 (1) Der zweijährige Vorbereitungsdienst umfasst
 
@@ -927,6 +958,7 @@ Vorbereitungsdienstes eine Laufbahnprüfung ab.
 
 
 ##### § 26 Ausbildungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002800000)
 
 (1) Die fachtheoretische Ausbildung wird an Landesfinanzschulen oder
 an gleichstehenden Bildungseinrichtungen der Verwaltung durchgeführt.
@@ -939,6 +971,7 @@ Veranlagung soll auch in dafür bestimmten Arbeitsgebieten stattfinden.
 
 
 ##### § 27 Verlängerung oder Verkürzung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE002900000)
 
 (1) Der Vorbereitungsdienst kann im Einzelfall verlängert werden, wenn
 die Beamtin oder der Beamte aus Gründen, die sie oder er nicht zu
@@ -984,6 +1017,7 @@ Beamte anzuhören.
 
 
 ##### § 28 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003000000)
 
 Während der Ausbildung darf Erholungsurlaub nicht zu Lasten der
 fachtheoretischen Ausbildung gewährt werden. Tage, an denen keine
@@ -992,12 +1026,15 @@ den Anspruch auf Erholungsurlaub angerechnet.
 
 
 #### Abschnitt 2 - Ausbildungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000600000)
 
 
 ##### Unterabschnitt 1 - Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000700000)
 
 
 ###### § 29 Unterrichtsfächer und Gesamtstunden
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003100000)
 
 (1) Die fachtheoretische Ausbildung vermittelt neben der Fachkompetenz
 die methodische und die soziale Kompetenz. Die zu unterrichtenden
@@ -1010,6 +1047,7 @@ mindestens 800 Unterrichtsstunden.
 
 
 ###### § 30 Übungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003200000)
 
 (1) Ein angemessener Teil der Lehrveranstaltungen in der
 fachtheoretischen Ausbildung besteht aus Übungen. Ein Teil der Übungen
@@ -1026,6 +1064,7 @@ den Lehrplänen ausgewiesen werden.
 
 
 ###### § 31 Stoffgliederungspläne, Lehrpläne und Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003300000)
 
 (1) Zur Gewährleistung der einheitlichen Ausbildung der
 Steuerbeamtinnen und Steuerbeamten erstellt das Bundesministerium der
@@ -1045,6 +1084,7 @@ Bedeutung ist vor der Abweichung der Koordinierungsausschuss zu hören.
 
 
 ###### § 32 Aufsichtsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003400000)
 
 (1) Während der fachtheoretischen Ausbildung sind Aufsichtsarbeiten
 anzufertigen.
@@ -1077,6 +1117,7 @@ durchzuführen.
 
 
 ###### § 33 Teilbeurteilungen und abschließende Beurteilung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003500000)
 
 (1) Nach Beendigung des ersten und des zweiten
 Ausbildungsteilabschnitts der fachtheoretischen Ausbildung nehmen die
@@ -1099,9 +1140,11 @@ zu geben.
 
 
 ##### Unterabschnitt 2 - Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000800000)
 
 
 ###### § 34 Gliederung, Ziel und Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003600000)
 
 (1) Die berufspraktische Ausbildung umfasst
 
@@ -1156,6 +1199,7 @@ Koordinierungsausschuss anzuhören.
 
 
 ###### § 35 Beurteilung im Ausbildungsfinanzamt
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003700000)
 
 Die Amtsleitung hat vor Beginn des mündlichen Teils der
 Laufbahnprüfung die Beamtin oder den Beamten auf schriftlichen oder
@@ -1170,12 +1214,15 @@ bekannt zu geben und mit ihr oder ihm zu besprechen.
 
 
 #### Abschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG000900000)
 
 
 ##### Unterabschnitt 1 - Ausrichtung und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001000000)
 
 
 ###### § 36 Ziel und Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003800000)
 
 (1) Die Laufbahnprüfung dient der Feststellung, ob die Beamtin oder
 der Beamte die Ziele des Vorbereitungsdienstes erreicht hat und nach
@@ -1193,6 +1240,7 @@ einzubeziehen.
 
 
 ###### § 37 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE003900000)
 
 (1) Die Prüfung wird vor einem Prüfungsausschuss abgelegt.
 
@@ -1233,9 +1281,11 @@ teilzunehmen.
 
 
 ##### Unterabschnitt 2 - Schriftlicher Teil der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001100000)
 
 
 ###### § 38 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004000000)
 
 (1) Der schriftliche Teil der Laufbahnprüfung umfasst fünf
 Prüfungsarbeiten aus den folgenden Fächern:
@@ -1271,6 +1321,7 @@ prüfungsfrei bleiben.
 
 
 ###### § 39 Prüfungsablauf, Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004100000)
 
 (1) Vor Beginn jeder Prüfungsarbeit des schriftlichen Teils der
 Laufbahnprüfung sind die Beamtinnen und Beamten auf die Folgen von
@@ -1318,6 +1369,7 @@ Laufbahnprüfung. In der Niederschrift sind anzugeben
 
 
 ###### § 40 Information über das Ergebnis des schriftlichen Teils der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004200000)
 
 Die Beamtin oder der Beamte wird über das Ergebnis ihrer oder seiner
 schriftlichen Prüfungsarbeiten vor dem mündlichen Teil der
@@ -1325,9 +1377,11 @@ Laufbahnprüfung schriftlich oder elektronisch informiert.
 
 
 ##### Unterabschnitt 3 - Mündlicher Teil der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001200000)
 
 
 ###### § 41 Zulassung zum mündlichen Teil der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004300000)
 
 (1) Zum mündlichen Teil der Laufbahnprüfung werden Beamtinnen und
 Beamte zugelassen, wenn
@@ -1385,6 +1439,7 @@ Anlage 6 bekannt zu geben.
 
 
 ###### § 42 Prüfungsfächer und Prüfungsablauf
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004400000)
 
 (1) Der mündliche Teil der Laufbahnprüfung kann sich auf die Fächer
 der Anlage 2 Nummer 1 bis 12 erstrecken. Neben den fachlichen
@@ -1419,9 +1474,11 @@ Durchschnittsnotenpunktzahl von mindestens 5 erreicht worden ist.
 
 
 ##### Unterabschnitt 4 - Ergebnis der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001300000)
 
 
 ###### § 43 Ermittlung der Endnotenpunktzahl und Ergebnis
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004500000)
 
 (1) Im Anschluss an den mündlichen Teil der Laufbahnprüfung berechnet
 der Prüfungsausschuss die Endnotenpunktzahl und ermittelt das Ergebnis
@@ -1465,6 +1522,7 @@ fest.
 
 
 ###### § 44 Bekanntgabe des Ergebnisses der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004600000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses gibt den
 Beamtinnen und Beamten im Anschluss an die Beratung des
@@ -1479,6 +1537,7 @@ Mitteilung über das Nichtbestehen nach dem Muster der Anlage 9.
 
 
 ###### § 45 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004700000)
 
 (1) Über die Laufbahnprüfung ist eine Niederschrift nach dem Muster
 der Anlage 10 zu fertigen.
@@ -1488,6 +1547,7 @@ Teils der Laufbahnprüfung zur Prüfungsakte zu nehmen.
 
 
 ###### § 46 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004800000)
 
 (1) Hat die Beamtin oder der Beamte die Laufbahnprüfung nicht
 bestanden oder gilt diese als nicht bestanden, ist eine einmalige
@@ -1503,12 +1563,15 @@ Beurteilungen zugrunde gelegt.
 
 
 ### Kapitel 3 - Vorbereitungsdienst für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001400000)
 
 
 #### Abschnitt 1 - Ablauf und Dauer
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001500000)
 
 
 ##### § 47 Gliederung des Studiengangs
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE004900000)
 
 (1) Der dreijährige Vorbereitungsdienst umfasst einen Studiengang mit
 
@@ -1541,6 +1604,7 @@ Zwischenprüfung und eine Laufbahnprüfung ab.
 
 
 ##### § 48 Ausbildungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005000000)
 
 (1) Die Fachstudien finden an Fachhochschulen der Verwaltung oder an
 gleichstehenden Bildungseinrichtungen der Verwaltung statt. Die
@@ -1558,6 +1622,7 @@ Veranlagung soll auch in dafür bestimmten Arbeitsgebieten stattfinden.
 
 
 ##### § 49 Verlängerung oder Verkürzung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005100000)
 
 (1) Der Vorbereitungsdienst kann im Einzelfall verlängert werden, wenn
 die Beamtin oder der Beamte aus Gründen, die sie oder er nicht zu
@@ -1602,6 +1667,7 @@ Beamte anzuhören.
 
 
 ##### § 50 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005200000)
 
 Während des Studiums ist der Anspruch auf Erholungsurlaub anteilig auf
 die Fachstudien und die berufspraktische Studienzeit zu verteilen.
@@ -1610,12 +1676,15 @@ stattfinden, werden auf den Anspruch auf Erholungsurlaub angerechnet.
 
 
 #### Abschnitt 2 - Ausbildungsinhalte
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001600000)
 
 
 ##### Unterabschnitt 1 - Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001700000)
 
 
 ###### § 51 Studienfächer und Gesamtstunden
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005300000)
 
 (1) Die Fachstudien vermitteln neben der Fachkompetenz die methodische
 und die soziale Kompetenz sowie das Verständnis für internationale
@@ -1629,6 +1698,7 @@ mindestens 2 200 Unterrichtsstunden.
 
 
 ###### § 52 Lerninhalte und Einteilung der Studienfächer
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005400000)
 
 (1) Die Lerninhalte der Fachstudien sind nach wissenschaftlichen
 Erkenntnissen und Methoden praxisbezogen und anwendungsorientiert zu
@@ -1644,6 +1714,7 @@ Schwerpunktthema sind stets fächerübergreifend zu gestalten.
 
 
 ###### § 53 Übungen und Seminare
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005500000)
 
 (1) Während der Fachstudien sind Übungen zu veranstalten. Die Übungen
 dienen dazu, die bis dahin fachtheoretisch und berufspraktisch
@@ -1662,6 +1733,7 @@ den Lehrplänen ausgewiesen werden.
 
 
 ###### § 54 Stoffgliederungspläne, Lehrpläne und Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005600000)
 
 (1) Zur Gewährleistung der einheitlichen Ausbildung der
 Steuerbeamtinnen und Steuerbeamten erstellt das Bundesministerium der
@@ -1682,6 +1754,7 @@ Koordinierungsausschuss anzuhören.
 
 
 ###### § 55 Aufsichtsarbeiten im Grund- und Hauptstudium
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005700000)
 
 (1) Während des Grundstudiums ist vor der Zwischenprüfung aus jedem
 Fach dieser Prüfung mindestens eine Aufsichtsarbeit anzufertigen. Im
@@ -1743,6 +1816,7 @@ durchzuführen.
 
 
 ###### § 56 Abschlussklausuren im Grundstudium
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005800000)
 
 (1) Am Ende des Grundstudiums sind fünf Abschlussklausuren in den
 folgenden Fächern anzufertigen:
@@ -1778,6 +1852,7 @@ teilweise im Antwort-Wahl-Verfahren durchzuführen.
 
 
 ###### § 57 Schriftliche Arbeit im Hauptstudium
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE005900000)
 
 (1) Während des Hauptstudiums ist zu einem vorgegebenen Thema bis zu
 einem vorgegebenen Abgabetermin eine schriftliche Arbeit unter
@@ -1794,6 +1869,7 @@ Stelle.
 
 
 ###### § 58 Beurteilungen und Studiennoten für die Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006000000)
 
 (1) Vor der Zwischenprüfung sowie nach Beendigung des Grundstudiums
 und des Hauptstudiums beurteilen die Lehrenden die Leistungen der
@@ -1830,9 +1906,11 @@ Beamten bekannt zu geben.
 
 
 ##### Unterabschnitt 2 - Berufspraktische Studienzeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001800000)
 
 
 ###### § 59 Gliederung, Ziel und Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006100000)
 
 (1) Die berufspraktischen Studienzeiten umfassen
 
@@ -1891,6 +1969,7 @@ Abweichung der Koordinierungsausschuss anzuhören.
 
 
 ###### § 60 Beurteilung im Ausbildungsfinanzamt
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006200000)
 
 Die Amtsleitung hat vor Beginn des mündlichen Teils der
 Laufbahnprüfung die Beamtin oder den Beamten auf schriftlichen oder
@@ -1905,12 +1984,15 @@ bekannt zu geben und mit ihr oder ihm zu besprechen.
 
 
 #### Abschnitt 3 - Zwischenprüfung und Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG001900000)
 
 
 ##### Unterabschnitt 1 - Gemeinsame Vorschriften für die Zwischenprüfung und die Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002000000)
 
 
 ###### § 61 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006300000)
 
 (1) Die Zwischenprüfung und die Laufbahnprüfung werden vor
 Prüfungsausschüssen abgelegt.
@@ -1955,6 +2037,7 @@ einschließlich der Beratungen teilzunehmen.
 
 
 ###### § 62 Prüfungsablauf, Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006400000)
 
 (1) Vor Beginn jeder Prüfungsarbeit der Zwischenprüfung und des
 schriftlichen Teils der Laufbahnprüfung sind die Beamtinnen und
@@ -2004,9 +2087,11 @@ anzugeben
 
 
 ##### Unterabschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002100000)
 
 
 ###### § 63 Ziel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006500000)
 
 In der Zwischenprüfung soll die Beamtin oder der Beamte zeigen, ob sie
 oder er nach ihren oder seinen Kenntnissen und Fähigkeiten geeignet
@@ -2016,6 +2101,7 @@ Prüfung.
 
 
 ###### § 64 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006600000)
 
 (1) Die Zwischenprüfung umfasst fünf Prüfungsarbeiten aus den
 folgenden Fächern:
@@ -2050,6 +2136,7 @@ prüfungsfrei bleiben.
 
 
 ###### § 65 Ermittlung der Endnotenpunktzahl und Ergebnis
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006700000)
 
 (1) Im Anschluss an die Bewertung der Prüfungsarbeiten setzt der
 Prüfungsausschuss die Endnotenpunktzahl der Zwischenprüfung fest. Über
@@ -2089,6 +2176,7 @@ fest.
 
 
 ###### § 66 Bekanntgabe des Ergebnisses der Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006800000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses teilt den
 Beamtinnen und Beamten im Anschluss an die Zwischenprüfung die
@@ -2100,6 +2188,7 @@ der Anlage 8.
 
 
 ###### § 67 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE006900000)
 
 (1) Hat die Beamtin oder der Beamte die Zwischenprüfung nicht
 bestanden oder gilt diese als nicht bestanden, ist eine einmalige
@@ -2119,9 +2208,11 @@ unberührt.
 
 
 ##### Unterabschnitt 3 - Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002200000)
 
 
 ###### § 68 Ziel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007000000)
 
 (1) Die Laufbahnprüfung dient der Feststellung, ob die Beamtin oder
 der Beamte die Ziele des Vorbereitungsdienstes erreicht hat und nach
@@ -2138,6 +2229,7 @@ auch die Feststellung von Einzelkenntnissen einzubeziehen.
 
 
 ###### § 69 Prüfungsfächer des schriftlichen Teils der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007100000)
 
 (1) Der schriftliche Teil der Laufbahnprüfung umfasst fünf
 Prüfungsarbeiten aus den folgenden Fächern:
@@ -2172,6 +2264,7 @@ prüfungsfrei bleiben.
 
 
 ###### § 70 Information über das Ergebnis des schriftlichen Teils der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007200000)
 
 Die Beamtin oder der Beamte wird über die Ergebnisse ihrer oder seiner
 schriftlichen Prüfungsarbeiten vor dem mündlichen Teil der
@@ -2179,6 +2272,7 @@ Laufbahnprüfung schriftlich oder elektronisch informiert.
 
 
 ###### § 71 Zulassung zum mündlichen Teil der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007300000)
 
 (1) Zum mündlichen Teil der Laufbahnprüfung werden Beamtinnen und
 Beamte zugelassen, wenn
@@ -2240,6 +2334,7 @@ dem Muster der Anlage 17 bekannt zu geben.
 
 
 ###### § 72 Mündlicher Teil der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007400000)
 
 (1) Der mündliche Teil der Laufbahnprüfung kann sich auf die Fächer
 der Anlage 11 Nummer 1 bis 7 erstrecken. Neben den fachlichen
@@ -2274,6 +2369,7 @@ Durchschnittsnotenpunktzahl von mindestens 5 erreicht worden ist.
 
 
 ###### § 73 Ermittlung der Endnotenpunktzahl und Ergebnis
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007500000)
 
 (1) Im Anschluss an den mündlichen Teil der Laufbahnprüfung berechnet
 der Prüfungsausschuss die Endnotenpunktzahl und ermittelt das Ergebnis
@@ -2318,6 +2414,7 @@ der Endnotenpunktzahl die Prüfungsgesamtnote der Laufbahnprüfung fest.
 
 
 ###### § 74 Bekanntgabe des Ergebnisses der Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007600000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses gibt den
 Beamtinnen und Beamten im Anschluss an die Beratung des
@@ -2332,6 +2429,7 @@ Mitteilung über das Nichtbestehen nach dem Muster der Anlage 19.
 
 
 ###### § 75 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007700000)
 
 (1) Über die Laufbahnprüfung ist eine Niederschrift nach dem Muster
 der Anlage 20 zu fertigen.
@@ -2341,6 +2439,7 @@ Teils der Laufbahnprüfung zur Prüfungsakte zu nehmen.
 
 
 ###### § 76 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007800000)
 
 (1) Hat die Beamtin oder der Beamte die Laufbahnprüfung nicht
 bestanden oder gilt diese als nicht bestanden, ist eine einmalige
@@ -2356,6 +2455,7 @@ zugrunde gelegt.
 
 
 ###### § 77 Übernahmemöglichkeiten in die Laufbahn des mittleren Steuerverwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE007900000)
 
 Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann den
 Beamtinnen und Beamten, die die Laufbahnprüfung für den gehobenen
@@ -2368,9 +2468,11 @@ wird, erhalten ein Befähigungszeugnis.
 
 
 ## Teil 3 - Aufstiegsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002300000)
 
 
 ### § 78 Aufstieg in den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008000000)
 
 Für die Einführungszeit beim Aufstieg vom einfachen
 Steuerverwaltungsdienst in den mittleren Steuerverwaltungsdienst
@@ -2379,6 +2481,7 @@ Steuerverwaltungsdienst nach Teil 2 Kapitel 1 und 2 entsprechend.
 
 
 ### § 79 Aufstieg in den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008100000)
 
 Für die Einführungszeit beim Aufstieg vom mittleren
 Steuerverwaltungsdienst in den gehobenen Steuerverwaltungsdienst
@@ -2387,6 +2490,7 @@ Steuerverwaltungsdienst nach Teil 2 Kapitel 1 und 3 entsprechend.
 
 
 ### § 80 Aufstieg in den höheren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008200000)
 
 (1) Die inhaltliche Gestaltung der Einführung beim Aufstieg vom
 gehobenen Steuerverwaltungsdienst in den höheren
@@ -2398,9 +2502,11 @@ die neue Laufbahn erforderlichen Kenntnisse und Fähigkeiten besitzt.
 
 
 ## Teil 4 - Einführung in den höheren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002400000)
 
 
 ### § 81 Ziel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008300000)
 
 (1) Die Einführung bereitet die Beamtinnen und Beamten auf ihre
 künftigen Führungsaufgaben in der Steuerverwaltung vor und ergänzt
@@ -2417,6 +2523,7 @@ internationale Kompetenz.
 
 
 ### § 82 Ablauf
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008400000)
 
 (1) Die Einführung umfasst
 
@@ -2452,6 +2559,7 @@ fortführenden Studien gewährt werden.
 
 
 ### § 83 Allgemeine Grundsätze für die berufspraktische Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008500000)
 
 (1) Für die berufspraktische Einweisung sind die Oberfinanzdirektionen
 und die Finanzämter verantwortlich. Die Ausbildungsreferentin oder der
@@ -2478,6 +2586,7 @@ zu geben.
 
 
 ### § 84 Durchführung der berufspraktischen Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008600000)
 
 (1) Die Beamtin oder der Beamte wird während der berufspraktischen
 Einweisung
@@ -2533,6 +2642,7 @@ ergänzt.
 
 
 ### § 85 Abschluss und Verlängerung der Einführung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008700000)
 
 (1) Der erfolgreiche Abschluss der Einführung wird von der obersten
 Landesbehörde oder der von ihr bestimmten Stelle unter
@@ -2552,9 +2662,11 @@ dass
 
 
 ## Teil 5 - Koordinierungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002500000)
 
 
 ### § 86 Bildung und Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008800000)
 
 (1) Zur Gewährleistung der Einheitlichkeit der Einführung, der
 Ausbildung, des Studiengangs, der Einweisung, der Prüfungen und der
@@ -2577,6 +2689,7 @@ der Finanzen.
 
 
 ### § 87 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE008900000)
 
 Der Koordinierungsausschuss hat insbesondere die Aufgabe,
 
@@ -2653,6 +2766,7 @@ Der Koordinierungsausschuss hat insbesondere die Aufgabe,
 
 
 ### § 88 Berechtigungen der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009000000)
 
 Die Mitglieder des Koordinierungsausschusses sind berechtigt,
 
@@ -2671,6 +2785,7 @@ Die Mitglieder des Koordinierungsausschusses sind berechtigt,
 
 
 ### § 89 Arbeitsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009100000)
 
 (1) Der Koordinierungsausschuss kann zur Vorbereitung und Durchführung
 seiner Aufgaben Arbeitsausschüsse bilden.
@@ -2681,18 +2796,22 @@ werden.
 
 
 ## Teil 6 - Personalvertretung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002600000)
 
 
 ### § 90 Beteiligung der Personalvertretungen
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009200000)
 
 Landesrechtliche Vorschriften über die Beteiligung der
 Personalvertretungen der Beamtinnen und Beamten bleiben unberührt.
 
 
 ## Teil 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNG002700000)
 
 
 ### § 91 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009300000)
 
 Für Beamtinnen und Beamte, die vor dem Inkrafttreten dieser Verordnung
 mit dem Vorbereitungsdienst begonnen haben, ist die
@@ -2706,6 +2825,7 @@ Absatz 2 Satz 1 Nummer 2 tritt.
 
 
 ### § 92 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Steuerbeamtenausbildungs- und -prüfungsordnung
@@ -2715,12 +2835,14 @@ in der Fassung der Bekanntmachung vom 29. Oktober 1996 (BGBl. I S.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 9)
 
 ### Anlage 1 Ausbildungsplan für die praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009600000)
 
 (Fundstelle: BGBl. I 2022, 1931)
 
@@ -2889,6 +3011,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 29 Absatz 1)
 
 ### Anlage 2 Fächer und Mindestunterrichtsstunden in der fachtheoretischen Ausbildung für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009700000)
 
 (Fundstelle: BGBl. I 2022, 1932)
 
@@ -3070,6 +3193,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 33 Absatz 1)
 
 ### Anlage 3 Teilbeurteilung der Leistungen im ersten Teilabschnitt der fachtheoretischen Ausbildung des mittleren Steuerverwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009800000)
 
 (Fundstelle: BGBl. I 2022, 1933)
 
@@ -3214,6 +3338,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 33 Absatz 1)
 
 ### Anlage 4 Teilbeurteilung der Leistungen im zweiten Teilabschnitt der fachtheoretischen Ausbildung und abschließende Beurteilung der Leistungen in der fachtheoretischen Ausbildung des mittleren Steuerverwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE009900000)
 
 (Fundstelle: BGBl. I 2022, 1934 - 1935)
 
@@ -3488,6 +3613,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 35 Absatz 2 Satz 1)
 
 ### Anlage 5 Beurteilung in der berufspraktischen Ausbildung des mittleren Steuerverwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010000000)
 
 (Fundstelle: BGBl. I 2022, 1936)
 
@@ -3655,6 +3781,7 @@ Der Bundesrat hat zugestimmt.
    (zu § 41 Absatz 4)
 
 ### Anlage 6 Mitteilung über die Nichtzulassung zum mündlichen Teil der Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010100000)
 
 (Fundstelle: BGBl. I 2022, 1937 - 1938)
 
@@ -3883,6 +4010,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
 (zu § 42 Absatz 6 und § 43 Absatz 1)
 
 ### Anlage 7 Beurteilungsblatt für die Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010200000)
 
 (Fundstelle: BGBl. I 2022, 1939 - 1940)
 
@@ -4339,6 +4467,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
    (zu § 44 Absatz 2, § 66 Absatz 2 und § 74 Absatz 2)
 
 ### Anlage 8 Prüfungszeugnis für die Laufbahnprüfung des mittleren Steuerverwaltungsdienstes sowie für die Zwischenprüfung und Laufbahnprüfung des gehobenen Steuerverwaltungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010300000)
 
 (Fundstelle: BGBl. I 2022, 1941)
 
@@ -4416,6 +4545,7 @@ Laufbahnprüfung/Zwischenprüfung für den
    (zu § 44 Absatz 3)
 
 ### Anlage 9 Mitteilung über das Nichtbestehen der Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010400000)
 
 (Fundstelle: BGBl. I 2022, 1942)
 
@@ -4519,6 +4649,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
 (zu § 45)
 
 ### Anlage 10 Niederschrift über die Laufbahnprüfung für den mittleren Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010500000)
 
 (Fundstelle: BGBl. I 2022, 1943 - 1944)
 
@@ -4804,6 +4935,7 @@ worden (§ 44 Absatz 1 StBAPO).**
 (zu § 51 Absatz 1)
 
 ### Anlage 11 Studienfächer, Unterrichtsstunden, Mindestunterrichtsstunden für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010600000)
 
 (Fundstelle: BGBl. I 2022, 1945 - 1946)
 
@@ -5170,6 +5302,7 @@ worden (§ 44 Absatz 1 StBAPO).**
 (zu § 58 Absatz 1)
 
 ### Anlage 12 Teilbeurteilung der Leistungen im Grundstudium bis zur Zwischenprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010700000)
 
 (Fundstelle: BGBl. I 2022, 1947)
 
@@ -5302,6 +5435,7 @@ worden (§ 44 Absatz 1 StBAPO).**
 (zu § 58 Absatz 1 und Absatz 2)
 
 ### Anlage 13 Beurteilung der Leistungen im Grundstudium für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010800000)
 
 (Fundstelle: BGBl. I 2022, 1948 - 1949)
 
@@ -5858,6 +5992,7 @@ worden (§ 44 Absatz 1 StBAPO).**
 (zu § 58 Absatz 1 und Absatz 3)
 
 ### Anlage 14 Beurteilung der Leistungen im Hauptstudium für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE010900000)
 
 (Fundstelle: BGBl. I 2022, 1950 - 1951)
 
@@ -6312,6 +6447,7 @@ worden (§ 44 Absatz 1 StBAPO).**
 (zu § 60)
 
 ### Anlage 15 Beurteilung in den berufspraktischen Studienzeiten für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011000000)
 
 (Fundstelle: BGBl. I 2022, 1952)
 
@@ -6478,6 +6614,7 @@ worden (§ 44 Absatz 1 StBAPO).**
    (zu § 66 Absatz 1)
 
 ### Anlage 16 Mitteilung über das Ergebnis der Zwischenprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011100000)
 
 (Fundstelle: BGBl. I 2022, 1953 - 1954)
 
@@ -6851,6 +6988,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
 (zu § 71 Absatz 4)
 
 ### Anlage 17 Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011200000)
 
 (Fundstelle: BGBl. I 2022, 1955 - 1956)
 
@@ -7079,6 +7217,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
 (zu § 71 Absatz 3 und § 73 Absatz 1)
 
 ### Anlage 18 Beurteilungsblatt für die Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011300000)
 
 (Fundstelle: BGBl. I 2022, 1957 - 1958)
 
@@ -7574,6 +7713,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
    (zu § 74 Absatz 3)
 
 ### Anlage 19 Mitteilung über das Nichtbestehen der Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011400000)
 
 (Fundstelle: BGBl. I 2022, 1959)
 
@@ -7677,6 +7817,7 @@ Bestimmungen entsprechende Rechtsbehelfsbelehrung anzufügen.]**
 (zu § 75)
 
 ### Anlage 20 Niederschrift über die Laufbahnprüfung für den gehobenen Steuerverwaltungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/stbapo_2022/BJNR190900022.html#BJNR190900022BJNE011500000)
 
 (Fundstelle: BGBl. I 2022, 1960 - 1961)
 

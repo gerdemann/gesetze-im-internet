@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mexbek/BJNR006520984.html#BJNR006520984BJNE000100307)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29)
@@ -29,11 +30,13 @@ die in den Vereinigten Mexikanischen Staaten eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mexbek/BJNR006520984.html#BJNR006520984BJNE000900307)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4mexbek/BJNR006520984.html#BJNR006520984BJNE000200307)
 
 (Inhalt: Nicht darstellbares Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1984, 652)

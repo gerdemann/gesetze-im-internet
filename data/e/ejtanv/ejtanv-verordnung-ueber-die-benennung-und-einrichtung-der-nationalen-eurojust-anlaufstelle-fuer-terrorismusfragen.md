@@ -27,12 +27,14 @@ Bekämpfung des Terrorismus gemäß Artikel 4 des Gemeinsamen Standpunkts
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000100000)
 
 Auf Grund des § 7 Abs. 1 des Eurojust-Gesetzes vom 12. Mai 2004 (BGBl.
 I S. 902) verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Nationale Anlaufstelle für Terrorismusfragen
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000203125)
 
 Der Generalbundesanwalt beim Bundesgerichtshof ist nationale Eurojust-
 Anlaufstelle für Terrorismusfragen nach Artikel 20 Absatz 3 Buchstabe
@@ -47,6 +49,7 @@ Straftaten (ABl. EU Nr. L 253 S. 22) (nationale Anlaufstelle).
 
 
 ## § 2 Verarbeitung der durch den Generalbundesanwalt erhobenen Informationen
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000303125)
 
 (1) In seiner Eigenschaft als nationale Anlaufstelle verarbeitet der
 Generalbundesanwalt diejenigen Informationen über terroristische
@@ -71,6 +74,7 @@ unberührt.
 
 
 ## § 3 Übermittlung von Informationen durch die Staatsanwaltschaften der Länder und deren Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000401301)
 
 (1) Soweit die Informationen nach dem Kenntnisstand der
 Staatsanwaltschaften der Länder nicht bereits beim Generalbundesanwalt
@@ -89,6 +93,7 @@ Anforderungen entsprechen, speichert er sie in der Datei nach § 2 Abs.
 
 
 ## § 4 Befugnisse des Generalbundesanwalts in seiner Eigenschaft als nationale Anlaufstelle, Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000501125)
 
 (1) Der Generalbundesanwalt führt die in den §§ 2 und 3 bezeichneten
 Informationen in der Datei nach § 2 Abs. 1 Satz 1 zu einheitlich
@@ -108,6 +113,7 @@ Artikel 21 der Eurojust-Verordnung.
 
 
 ## § 5 Schutz personenbezogener Informationen
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000604125)
 
 (1) Auf die Verwendung der nach § 3 Abs. 1 übermittelten und der in
 der Datei nach § 2 Abs. 1 Satz 1 gespeicherten Informationen finden §
@@ -130,6 +136,7 @@ Richtlinie (EU) 2017/541 beziehen.
 
 
 ## § 6 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000701311)
 
 Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben
 unterliegt der Generalbundesanwalt der fachlichen Aufsicht des
@@ -137,11 +144,13 @@ Bundesministeriums der Justiz und für Verbraucherschutz.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000801308)
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ejtanv/BJNR352000004.html#BJNR352000004BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

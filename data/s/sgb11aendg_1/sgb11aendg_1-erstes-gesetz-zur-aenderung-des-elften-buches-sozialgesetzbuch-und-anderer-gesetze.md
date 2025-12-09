@@ -18,16 +18,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_ndg_1/BJNR083000996.html#BJNR083000996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_ndg_1/BJNR083000996.html#BJNR083000996BJNE000200310)
 
 
 
 ## Art 6 Übergangsregelung zur Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_ndg_1/BJNR083000996.html#BJNR083000996BJNE000300310)
 
 Pflegekassen, die auf Grund der bisherigen Zuständigkeitsregelung nach
 § 112 Abs. 3 in Verbindung mit § 112 Abs. 1 Nr. 1 und 6 des Elften
@@ -37,6 +40,7 @@ zuständig.
 
 
 ## Art 7 Medizinische Behandlungspflege in stationären Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_ndg_1/BJNR083000996.html#BJNR083000996BJNE000400310)
 
 Der Deutsche Bundestag und der Bundesrat prüfen im Laufe des Jahres
 1999, ob und in welchem Umfang die Aufwendungen für die medizinische
@@ -46,6 +50,7 @@ Krankenversicherung zu tragen sind.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb11_ndg_1/BJNR083000996.html#BJNR083000996BJNE000500310)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft, soweit
 in Absatz 2 nichts Abweichendes bestimmt ist.

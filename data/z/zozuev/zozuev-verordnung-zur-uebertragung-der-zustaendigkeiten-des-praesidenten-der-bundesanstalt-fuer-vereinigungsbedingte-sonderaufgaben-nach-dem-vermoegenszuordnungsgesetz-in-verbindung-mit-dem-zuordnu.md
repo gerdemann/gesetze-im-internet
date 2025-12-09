@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zoz_v/BJNR109800999.html#BJNR109800999BJNE000100305)
 
 Auf Grund des § 7 Abs. 6 des Vermögenszuordnungsgesetzes, der durch
 Artikel 16 Nr. 10 Buchstabe e des Gesetzes vom 20. Dezember 1993
@@ -29,6 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Übertragung der Zuständigkeiten des Präsidenten der Bundesanstalt für vereinigungsbedingte Sonderaufgaben nach dem Vermögenszuordnungsgesetz in Verbindung mit dem Zuordnungsergänzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/zoz_v/BJNR109800999.html#BJNR109800999BJNE000200305)
 
 Die Zuständigkeiten des Präsidenten der Bundesanstalt für
 vereinigungsbedingte Sonderaufgaben nach dem Vermögenszuordnungsgesetz
@@ -42,6 +44,7 @@ Oberfinanzpräsidenten der Oberfinanzdirektion Berlin übertragen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zoz_v/BJNR109800999.html#BJNR109800999BJNE000300305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

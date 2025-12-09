@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000103311)
 
 (1) Die Verordnung steuert die Zuwanderung ausländischer
 Arbeitnehmerinnen und Arbeitnehmer und bestimmt, unter welchen
@@ -78,9 +80,11 @@ Vorjahres im Bundesanzeiger bekannt.
 
 
 ## Teil 2 - Qualifizierte Beschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000201311)
 
 
 ### § 2 Vermittlungsabsprachen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000202311)
 
 (1) Für die Erteilung einer Aufenthaltserlaubnis nach § 16d Absatz 4
 Nummer 1 des Aufenthaltsgesetzes kann Ausländerinnen und Ausländern
@@ -127,6 +131,7 @@ Berufsausübungserlaubnis erforderlich sind.
 
 
 ### § 2a Anerkennungspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004800311)
 
 (1) Die Zustimmung kann für eine Aufenthaltserlaubnis nach § 16d
 Absatz 3 des Aufenthaltsgesetzes erteilt werden, wenn die
@@ -157,6 +162,7 @@ keine Anwendung.
 
 
 ### § 3 Leitende Angestellte, Führungskräfte und Spezialisten
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000301311)
 
 Die Zustimmung kann erteilt werden für
 
@@ -176,10 +182,12 @@ Die Zustimmung kann erteilt werden für
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000402311)
 
 
 
 ### § 5 Wissenschaft, Forschung und Entwicklung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000502311)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
@@ -211,6 +219,7 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 
 ### § 6 Beschäftigung bei ausgeprägter berufspraktischer Erfahrung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000602311)
 
 (1) Die Zustimmung zur Ausübung einer inländischen qualifizierten
 Beschäftigung kann Ausländerinnen und Ausländern erteilt werden, wenn
@@ -270,10 +279,12 @@ Bundesanzeiger bekannt.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000701311)
 
 
 
 ### § 8 Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000803311)
 
 (1) Die Zustimmung kann für die Erteilung eines Aufenthaltstitels nach
 § 16a Absatz 1 des Aufenthaltsgesetzes erteilt werden.
@@ -299,6 +310,7 @@ Ausübung dieser befristeten Beschäftigung zugestimmt werden.
 
 
 ### § 9 Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE000902311)
 
 (1) Keiner Zustimmung bedarf die Ausübung einer Beschäftigung bei
 Ausländerinnen und Ausländern, die eine Aufenthaltserlaubnis besitzen
@@ -345,9 +357,11 @@ Beschäftigung erteilt wird.
 
 
 ## Teil 3 - Vorübergehende Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000300000)
 
 
 ### § 10 Internationaler Personalaustausch, Auslandsprojekte
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001001311)
 
 (1) Die Zustimmung kann erteilt werden zur Ausübung einer
 Beschäftigung von bis zu drei Jahren
@@ -382,6 +396,7 @@ einen Betrieb im Ausland hat.
 
 
 ### § 10a Unternehmensintern transferierte Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004501311)
 
 Die Zustimmung zur Erteilung einer ICT-Karte nach § 19 des
 Aufenthaltsgesetzes und zur Erteilung einer Mobiler-ICT-Karte nach §
@@ -403,6 +418,7 @@ Aufenthaltsgesetzes und zur Erteilung einer Mobiler-ICT-Karte nach §
 
 
 ### § 11 Sprachlehrerinnen und Sprachlehrer, Spezialitätenköchinnen und Spezialitätenköche
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001102311)
 
 (1) Die Zustimmung kann für Lehrkräfte zur Erteilung
 muttersprachlichen Unterrichts in Schulen unter Aufsicht der jeweils
@@ -421,6 +437,7 @@ Aufenthaltstitels erteilt werden.
 
 
 ### § 12 Au-pair-Beschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001201311)
 
 Die Zustimmung kann für Personen mit Grundkenntnissen der deutschen
 Sprache erteilt werden, die unter 27 Jahre alt sind und in einer
@@ -432,6 +449,7 @@ Gasteltern stammt.
 
 
 ### § 13 Hausangestellte von Entsandten
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001301311)
 
 Die Zustimmung zur Ausübung einer Beschäftigung als Hausangestellte
 oder Hausangestellter bei Personen, die
@@ -455,6 +473,7 @@ Hausangestellten beschäftigt sind, längstens für fünf Jahre erteilt.
 
 
 ### § 14 Sonstige Beschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001404311)
 
 (1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
@@ -493,6 +512,7 @@ Bundesagentur für Arbeit vermittelt worden ist.
 
 
 ### § 15 Praktika zu Weiterbildungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001504311)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels für ein
 Praktikum
@@ -542,6 +562,7 @@ Praktikum
 
 
 ### § 15a Saisonabhängige Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001604311)
 
 (1) Ausländerinnen und Ausländern, die auf Grund einer Absprache der
 Bundesagentur für Arbeit mit der Arbeitsverwaltung des Herkunftslandes
@@ -712,6 +733,7 @@ Aufenthaltsgesetzes festgelegt hat.
 
 
 ### § 15b Schaustellergehilfen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001701311)
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
 Beschäftigung im Schaustellergewerbe kann bis zu insgesamt neun
@@ -722,6 +744,7 @@ Verfahren und die Auswahl vermittelt worden sind.
 
 
 ### § 15c Haushaltshilfen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001801311)
 
 Die Zustimmung zu einem Aufenthaltstitel zur Ausübung einer
 versicherungspflichtigen Vollzeitbeschäftigung bis zu drei Jahren für
@@ -739,6 +762,7 @@ Ausland aufgehalten hat, wie sie zuvor im Inland beschäftigt war.
 
 
 ### § 15d Kurzzeitige kontingentierte Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004900311)
 
 (1) Die Bundesagentur für Arbeit kann Ausländerinnen und Ausländern
 zur Ausübung jeder inländischen Beschäftigung von regelmäßig
@@ -817,9 +841,11 @@ Beschäftigungsverhältnis bei einem anderen Arbeitgeber.
 
 
 ## Teil 4 - Entsandte Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000400000)
 
 
 ### § 16 Geschäftsreisende
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE001901116)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Personen, die
@@ -844,6 +870,7 @@ Tage innerhalb eines Zeitraums von 180 Tagen im Inland aufhalten.
 
 
 ### § 17 Betriebliche Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002001116)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an im
 Ausland beschäftigte Fachkräfte eines international tätigen Konzerns
@@ -853,6 +880,7 @@ innerhalb eines Zeitraums von zwölf Monaten.
 
 
 ### § 18 Journalistinnen und Journalisten
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002101116)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Beschäftigte eines Arbeitgebers mit Sitz im Ausland,
@@ -870,6 +898,7 @@ Beschäftigte eines Arbeitgebers mit Sitz im Ausland,
 
 
 ### § 19 Werklieferungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002203311)
 
 (1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Personen, die von ihrem Arbeitgeber mit Sitz im Ausland für bis zu 90
@@ -928,6 +957,7 @@ Dauer von drei Jahren in das Inland entsandt werden, um
 
 
 ### § 20 Internationaler Straßen- und Schienenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002301116)
 
 (1) Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 das Fahrpersonal, das
@@ -973,6 +1003,7 @@ Beförderungsunternehmen seinen Sitz im Ausland hat.
 
 
 ### § 21 Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002400000)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Personen, die von einem Unternehmen mit Sitz in einem Mitgliedstaat
@@ -983,9 +1014,11 @@ vorübergehend in das Bundesgebiet entsandt werden.
 
 
 ## Teil 5 - Besondere Berufs- oder Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000500000)
 
 
 ### § 22 Besondere Berufsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002502311)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
@@ -1076,6 +1109,7 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 
 ### § 22a Beschäftigung von Pflegehilfskräften
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE005000311)
 
 Die Zustimmung kann Ausländerinnen und Ausländern für eine inländische
 Beschäftigung als Pflegehilfskraft erteilt werden, wenn sie die durch
@@ -1097,6 +1131,7 @@ Pflegehilfstätigkeit erfüllen, und
 
 
 ### § 23 Internationale Sportveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002600000)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Personen, die zur Vorbereitung, Teilnahme, Durchführung und
@@ -1128,6 +1163,7 @@ Personen:
 
 
 ### § 24 Schifffahrt- und Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002700000)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
@@ -1154,6 +1190,7 @@ Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 
 ### § 24a Berufskraftfahrerinnen und Berufskraftfahrer
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004601311)
 
 (1) Die Zustimmung kann Ausländerinnen und Ausländern für eine
 inländische Beschäftigung als Berufskraftfahrerin oder
@@ -1199,6 +1236,7 @@ Anwendung.
 
 
 ### § 24b Windenergieanlagen auf See und Offshore-Anbindungsleitungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004700311)
 
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 Ausländerinnen und Ausländer, die im deutschen Küstenmeer beschäftigt
@@ -1211,6 +1249,7 @@ einen Zeitraum von bis zu 24 Monaten. § 9 findet keine Anwendung.
 
 
 ### § 25 Kultur und Unterhaltung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002802311)
 
 Die Zustimmung kann mit Vorrangprüfung für Personen erteilt werden,
 die
@@ -1229,6 +1268,7 @@ die
 
 
 ### § 26 Beschäftigung bestimmter Staatsangehöriger
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE002915311)
 
 (1) Für Staatsangehörige von Andorra, Australien, Israel, Japan,
 Kanada, der Republik Korea, von Monaco, Neuseeland, San Marino, des
@@ -1254,6 +1294,7 @@ geltenden Fassung erteilt wurde.
 
 
 ### § 27 Grenzgängerbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003001311)
 
 Zur Erteilung einer Grenzgängerkarte nach § 12 Absatz 1 der
 Aufenthaltsverordnung kann die Zustimmung mit Vorrangprüfung erteilt
@@ -1261,6 +1302,7 @@ werden.
 
 
 ### § 28 Deutsche Volkszugehörige
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003101311)
 
 Deutschen Volkszugehörigen, die einen Aufnahmebescheid nach dem
 Bundesvertriebenengesetz besitzen, kann die Zustimmung mit
@@ -1269,9 +1311,11 @@ vorübergehenden Beschäftigung erteilt werden.
 
 
 ## Teil 6 - Sonstiges
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000600000)
 
 
 ### § 29 Internationale Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003202311)
 
 (1) Für Beschäftigungen im Rahmen der mit den Staaten Türkei, Serbien,
 Bosnien-Herzegowina und Nordmazedonien bestehenden
@@ -1322,6 +1366,7 @@ bedarf, bedarf es keiner Zustimmung.
 
 
 ### § 30 Beschäftigungsaufenthalte ohne Aufenthaltstitel
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003305311)
 
 Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
@@ -1350,9 +1395,11 @@ Nicht als Beschäftigung im Sinne des Aufenthaltsgesetzes gelten
 
 
 ## Teil 7 - Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen sowie von Personen mit Duldung und Asylbewerbern
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000700000)
 
 
 ### § 31 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003400000)
 
 Die Erteilung der Erlaubnis zur Beschäftigung an Ausländerinnen und
 Ausländer mit einer Aufenthaltserlaubnis, die nach Abschnitt 5 des
@@ -1361,6 +1408,7 @@ Bundesagentur für Arbeit.
 
 
 ### § 32 Beschäftigung von Personen mit Duldung oder Aufenthaltsgestattung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003514311)
 
 (1) Ausländerinnen und Ausländern, die eine Duldung besitzen, kann
 eine Zustimmung zur Ausübung einer Beschäftigung erteilt werden, wenn
@@ -1401,12 +1449,15 @@ Ausländer mit einer Aufenthaltsgestattung.
 
 
 ### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003601116)
 
 
 ## Teil 8 - Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000800000)
 
 
 ### § 34 Beschränkung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003703311)
 
 (1) Die Bundesagentur für Arbeit kann die Zustimmung zur Ausübung
 einer Beschäftigung beschränken hinsichtlich
@@ -1450,6 +1501,7 @@ Aufenthaltsgesetzes ist die Zustimmung wie folgt zu erteilen:
 
 
 ### § 35 Reichweite der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003801311)
 
 (1) Die Zustimmung zur Ausübung einer Beschäftigung wird jeweils zu
 einem bestimmten Aufenthaltstitel erteilt.
@@ -1478,6 +1530,7 @@ zwischenstaatlichen Vereinbarung zeitlich begrenzt sind.
 
 
 ### § 36 Erteilung der Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE003904311)
 
 (1) Die Bundesagentur für Arbeit teilt der zuständigen Stelle die
 Zustimmung zur Erteilung eines Aufenthaltstitels nach § 39 des
@@ -1550,6 +1603,7 @@ Einvernehmen nach § 15 Nummer 4 und 6.
 
 
 ### § 37 Härtefallregelung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004000000)
 
 Ausländerinnen und Ausländern kann die Zustimmung zur Ausübung einer
 Beschäftigung ohne Vorrangprüfung erteilt werden, wenn deren Versagung
@@ -1557,9 +1611,11 @@ eine besondere Härte bedeuten würde.
 
 
 ## Teil 9 - Anwerbung und Arbeitsvermittlung aus dem Ausland
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNG000900116)
 
 
 ### § 38 Anwerbung und Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004100116)
 
 Die Anwerbung in Staaten und die Arbeitsvermittlung aus Staaten, die
 in der Anlage zu dieser Verordnung aufgeführt sind, darf für eine
@@ -1568,6 +1624,7 @@ Bundesagentur für Arbeit durchgeführt werden.
 
 
 ### § 39 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004200116)
 
 Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches
 Sozialgesetzbuch handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -1575,10 +1632,12 @@ Sozialgesetzbuch handelt, wer vorsätzlich oder fahrlässig entgegen §
 
 
 ### Anlage (zu § 32) (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004401116)
 
 
 
 ### Anlage (zu § 38)
+[Direktlink](https://www.gesetze-im-internet.de/beschv_2013/BJNR149910013.html#BJNR149910013BJNE004302311)
 
 (Fundstelle: BGBl I 2023, Nr. 353)
 

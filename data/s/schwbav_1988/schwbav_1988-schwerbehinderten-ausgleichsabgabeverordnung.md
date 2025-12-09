@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE001501325)
 
 Auf Grund des § 11 Abs. 3 Satz 3, § 12 Abs. 2 und § 33 Abs. 2 Satz 5
 des Schwerbehindertengesetzes in der Fassung der Bekanntmachung vom
@@ -30,18 +31,22 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Erster Abschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000102308)
 
 
 
 ### (XXXX) §§ 1 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE001602308)
 
 
 
 ## Zweiter Abschnitt - Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben aus Mitteln der Ausgleichsabgabe durch die Integrationsämter
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000201308)
 
 
 
 ### § 14 Verwendungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE002910126)
 
 (1) Die Integrationsämter haben die ihnen zur Verfügung stehenden
 Mittel der Ausgleichsabgabe einschließlich der Zinsen, der
@@ -87,10 +92,12 @@ beteiligen.
 
 
 ### 1. Unterabschnitt - Leistungen zur Förderung des Arbeits- und Ausbildungsplatzangebots für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000301308)
 
 
 
 #### § 15 Leistungen an Arbeitgeber zur Schaffung von Arbeits- und Ausbildungsplätzen für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003003119)
 
 (1) Arbeitgeber können Darlehen oder Zuschüsse bis zur vollen Höhe der
 entstehenden notwendigen Kosten zu den Aufwendungen für folgende
@@ -164,6 +171,7 @@ gefördert werden.
 
 
 #### § 16 Arbeitsmarktprogramme für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003105119)
 
 Die Integrationsämter können der Bundesagentur für Arbeit Mittel der
 Ausgleichsabgabe zur Durchführung befristeter regionaler
@@ -172,10 +180,12 @@ Sozialgesetzbuch zuweisen.
 
 
 ### 2. Unterabschnitt - Leistungen zur begleitenden Hilfe im Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000401308)
 
 
 
 #### § 17 Leistungsarten
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003206119)
 
 (1) Leistungen zur begleitenden Hilfe im Arbeitsleben können erbracht
 werden
@@ -272,6 +282,7 @@ gefördert werden.
 
 
 #### § 18 Leistungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003306119)
 
 (1) Leistungen nach § 17 Abs. 1 bis 1b dürfen nur erbracht werden,
 soweit Leistungen für denselben Zweck nicht von einem
@@ -309,10 +320,12 @@ erbracht werden. Leistungen können wiederholt erbracht werden.
 
 
 #### I. - Leistungen an schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000501308)
 
 
 
 ##### § 19 Technische Arbeitshilfen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003401308)
 
 Für die Beschaffung technischer Arbeitshilfen, ihre Wartung,
 Instandsetzung und die Ausbildung des schwerbehinderten Menschen im
@@ -322,6 +335,7 @@ Anpassung an die technische Weiterentwicklung.
 
 
 ##### § 20 Hilfen zum Erreichen des Arbeitsplatzes
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003501308)
 
 Schwerbehinderte Menschen können Leistungen zum Erreichen des
 Arbeitsplatzes nach Maßgabe der Kraftfahrzeughilfe-Verordnung vom 28.
@@ -329,6 +343,7 @@ September 1987 (BGBl. I S. 2251) erhalten.
 
 
 ##### § 21 Hilfen zur Gründung und Erhaltung einer selbständigen beruflichen Existenz
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003603308)
 
 (1) Schwerbehinderte Menschen können Darlehen oder Zinszuschüsse zur
 Gründung und zur Erhaltung einer selbständigen beruflichen Existenz
@@ -362,6 +377,7 @@ oder aufzunehmen beabsichtigen, entsprechend anzuwenden.
 
 
 ##### § 22 Hilfen zur Beschaffung, Ausstattung und Erhaltung einer behinderungsgerechten Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003702308)
 
 (1) Schwerbehinderte Menschen können Leistungen erhalten
 
@@ -389,11 +405,13 @@ Behinderung zu erbringen sind oder erbracht werden.
 
 
 ##### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003801308)
 
 (weggefallen)
 
 
 ##### § 24 Hilfen zur Teilnahme an Maßnahmen zur Erhaltung und Erweiterung beruflicher Kenntnisse und Fertigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE003901308)
 
 Schwerbehinderte Menschen, die an inner- oder außerbetrieblichen
 Maßnahmen der beruflichen Bildung zur Erhaltung und Erweiterung ihrer
@@ -407,6 +425,7 @@ beruflichen Aufstieg erbracht werden.
 
 
 ##### § 25 Hilfen in besonderen Lebenslagen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004002308)
 
 Andere Leistungen zur begleitenden Hilfe im Arbeitsleben als die in
 den §§ 19 bis 24 geregelten Leistungen können an schwerbehinderte
@@ -417,10 +436,12 @@ ermöglichen, zu erleichtern oder zu sichern.
 
 
 #### II. - Leistungen an Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000601325)
 
 
 
 ##### § 26 Leistungen zur behinderungsgerechten Einrichtung von Arbeits- und Ausbildungsplätzen für schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004104119)
 
 (1) Arbeitgeber können Darlehen oder Zuschüsse bis zur vollen Höhe der
 entstehenden notwendigen Kosten für folgende Maßnahmen erhalten:
@@ -469,6 +490,7 @@ beschäftigt werden.
 
 
 ##### § 26a Zuschüsse zu den Gebühren bei der Berufsausbildung besonders betroffener schwerbehinderter Jugendlicher und junger Erwachsener
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006501119)
 
 Arbeitgeber, die ohne Beschäftigungspflicht (§ 154 Absatz 1 des
 Neunten Buches Sozialgesetzbuch) besonders betroffene schwerbehinderte
@@ -478,6 +500,7 @@ erhalten.
 
 
 ##### § 26b Prämien und Zuschüsse zu den Kosten der Berufsausbildung behinderter Jugendlicher und junger Erwachsener
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006602126)
 
 Arbeitgeber können Prämien und Zuschüsse zu den Kosten der
 Berufsausbildung behinderter Jugendlicher und junger Erwachsener
@@ -487,12 +510,14 @@ gleichgestellt sind.
 
 
 ##### § 26c Prämien zur Einführung eines betrieblichen Eingliederungsmanagements
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006700308)
 
 Arbeitgeber können zur Einführung eines betrieblichen
 Eingliederungsmanagements Prämien erhalten.
 
 
 ##### § 27 Leistungen bei außergewöhnlichen Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004204119)
 
 (1) Arbeitgeber können Zuschüsse zur Abgeltung außergewöhnlicher
 Belastungen erhalten, die mit der Beschäftigung eines
@@ -528,10 +553,12 @@ Einzelfalls.
 
 
 #### III. - Sonstige Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000701325)
 
 
 
 ##### § 27a Leistungen an Integrationsfachdienste
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006302377)
 
 (1) Träger von Integrationsfachdiensten im Sinne des Kapitels 7 des
 Teils 3 des Neunten Buches Sozialgesetzbuch können Leistungen nach §
@@ -550,6 +577,7 @@ Integrationsämter und Hauptfürsorgestellen erfolgen.
 
 
 ##### § 28 Leistungen zur Durchführung der psychosozialen Betreuung schwerbehinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004301308)
 
 (1) Freie gemeinnützige Träger psychosozialer Dienste, die das
 Integrationsamt an der Durchführung der ihr obliegenden Aufgabe der im
@@ -601,6 +629,7 @@ Buchstabe c.
 
 
 ##### § 28a Leistungen an Inklusionsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006402119)
 
 Inklusionsbetriebe im Sinne des Kapitels 11 des Teils 3 des Neunten
 Buches Sozialgesetzbuch können Leistungen für Aufbau, Erweiterung,
@@ -609,6 +638,7 @@ betriebswirtschaftlichen Beratung und besonderen Aufwand erhalten.
 
 
 ##### § 29 Leistungen zur Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004404119)
 
 (1) Die Durchführung von Schulungs- und Bildungsmaßnahmen für
 Vertrauenspersonen schwerbehinderter Menschen, Beauftragte der
@@ -633,38 +663,47 @@ Sozialgesetzbuch und anderen Vorschriften.
 
 
 ### 3. Unterabschnitt - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000802126)
 
 
 
 #### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004508126)
 
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004605126)
 
 
 
 #### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004702126)
 
 
 
 #### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004802126)
 
 
 
 #### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE004902126)
 
 
 
 ## Dritter Abschnitt - Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG000901325)
 
 
 
 ### 1. Unterabschnitt - Gestaltung des Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG001001325)
 
 
 
 #### § 35 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005003308)
 
 Der Ausgleichsfonds für überregionale Vorhaben zur Teilhabe
 schwerbehinderter Menschen am Arbeitsleben (Ausgleichsfonds) ist ein
@@ -678,6 +717,7 @@ Verbindlichkeiten des Bundes.
 
 
 #### § 36 Weiterleitung der Mittel an den Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005109311)
 
 Die Integrationsämter leiten zum 30. Juni eines jeden Jahres 18 vom
 Hundert des im Zeitraum vom 1. Juni des vorangegangenen Jahres bis zum
@@ -697,6 +737,7 @@ Aufkommens an Ausgleichsabgabe an den Ausgleichsfonds weiter.
 
 
 #### § 37 Anwendung der Vorschriften der Bundeshaushaltsordnung
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005201325)
 
 Für den Ausgleichsfonds gelten die Bundeshaushaltsordnung sowie die zu
 ihrer Ergänzung und Durchführung erlassenen Vorschriften entsprechend,
@@ -704,6 +745,7 @@ soweit die Vorschriften dieser Verordnung nichts anderes bestimmen.
 
 
 #### § 38 Aufstellung eines Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005301325)
 
 (1) Für jedes Kalenderjahr (Wirtschaftsjahr) ist ein Wirtschaftsplan
 aufzustellen.
@@ -732,6 +774,7 @@ Einnahmen zu.
 
 
 #### § 39 Feststellung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005403308)
 
 Das Bundesministerium für Arbeit und Soziales stellt im Benehmen mit
 dem Bundesministerium der Finanzen und im Einvernehmen mit dem Beirat
@@ -740,6 +783,7 @@ fest. § 1 der Bundeshaushaltsordnung findet keine Anwendung.
 
 
 #### § 40 Ausführung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005504308)
 
 (1) Bei der Vergabe der Mittel des Ausgleichsfonds sind die jeweils
 gültigen Allgemeinen Nebenbestimmungen für Zuwendungen des Bundes
@@ -778,10 +822,12 @@ verzinslich anzulegen.
 
 
 ### 2. Unterabschnitt - Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben aus Mitteln des Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG001101308)
 
 
 
 #### § 41 Verwendungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005609126)
 
 (1) Die Mittel aus dem Ausgleichsfonds sind zu verwenden für
 
@@ -831,10 +877,12 @@ von Bedeutung sein können.
 
 
 ### 3. Unterabschnitt - Verfahren zur Vergabe der Mittel des Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG001201325)
 
 
 
 #### § 42 Anmeldeverfahren und Anträge
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005708126)
 
 Leistungen aus dem Ausgleichsfonds sind vom Träger der Maßnahme beim
 Bundesministerium für Arbeit und Soziales zu beantragen. Das
@@ -843,6 +891,7 @@ seiner Stellungnahme dem Beirat zu.
 
 
 #### § 43 Vorschlagsrecht des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005802301)
 
 (1) Der Beirat nimmt zu den Anträgen Stellung. Die Stellungnahme hat
 einen Vorschlag zu enthalten, ob, in welcher Art und Höhe sowie unter
@@ -855,6 +904,7 @@ vorschlagen.
 
 
 #### § 44 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE005904301)
 
 (1) Das Bundesministerium für Arbeit und Soziales entscheidet über die
 Anträge aufgrund der Vorschläge des Beirats durch schriftlichen oder
@@ -864,6 +914,7 @@ elektronischen Bescheid.
 
 
 #### § 45 Vorhaben des Bundesministeriums für Arbeit und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006004308)
 
 Für Vorhaben des Bundesministeriums für Arbeit und Soziales, die dem
 Beirat zur Stellungnahme zuzuleiten sind, gelten die §§ 43 und 44
@@ -871,10 +922,12 @@ entsprechend.
 
 
 ## Vierter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNG001301325)
 
 
 
 ### § 46 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006109377)
 
 Leistungen zur Förderung von Einrichtungen, die vor dem 1. Januar 2024
 beantragt worden sind, können weiter erbracht werden. Die §§ 30 bis 34
@@ -883,6 +936,7 @@ sind auf diese Leistungen weiter anzuwenden.
 
 
 ### § 47 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schwbav_1988/BJNR004840988.html#BJNR004840988BJNE006201325)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

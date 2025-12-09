@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrhe_nwbek/BJNR062100010.html#BJNR062100010BJNE000100000)
 
 Zwischen dem Land Hessen und dem Land Nordrhein-Westfalen wurde am 27.
 April 2009/28. Mai 2009 ein Staatsvertrag über Änderungen der
@@ -52,6 +53,7 @@ Staatsvertrag nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrhe_nwbek/BJNR062100010.html#BJNR062100010BJNE000200000)
 
 Bundesministerium des Innern
 

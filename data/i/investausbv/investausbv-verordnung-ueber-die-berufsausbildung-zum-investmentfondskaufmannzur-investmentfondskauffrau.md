@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -33,17 +34,20 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000200000)
 
 Der Ausbildungsberuf Investmentfondskaufmann/Investmentfondskauffrau
 wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000400000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -137,6 +141,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000500000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -155,12 +160,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000700000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -169,6 +176,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -197,6 +205,7 @@ durchzuführen:
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE000900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -339,6 +348,7 @@ bestanden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
@@ -347,6 +357,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum
 Investmentfondskaufmann/zur Investmentfondskauffrau
 
 ## Anlage 1 - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE001101377)
 
 (Fundstelle: BGBl. I 2003, 721 - 725)
 
@@ -1168,6 +1179,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum
 Investmentfondskaufmann/zur Investmentfondskauffrau
 
 ## Anlage 2 - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/investausbv/BJNR071800003.html#BJNR071800003BJNE001200000)
 
 (Fundstelle: BGBl. I 2003, 726 - 727)
 

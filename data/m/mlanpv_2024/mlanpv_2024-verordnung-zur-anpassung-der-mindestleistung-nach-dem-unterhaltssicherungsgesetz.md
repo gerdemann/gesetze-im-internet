@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 53-10-1 v. 9.5.2022 I 775 (MLAnpV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mlanpv_2024/BJNR07F0A0024.html#BJNR07F0A0024BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 Satz 3 in Verbindung mit Satz 2 des
 Unterhaltssicherungsgesetzes vom 4. August 2019 (BGBl. I S. 1147,
@@ -25,6 +26,7 @@ Unterhaltssicherungsgesetzes vom 4. August 2019 (BGBl. I S. 1147,
 
 
 ## § 1 Höhe der Tagessätze ab dem 1. Mai 2024
+[Direktlink](https://www.gesetze-im-internet.de/mlanpv_2024/BJNR07F0A0024.html#BJNR07F0A0024BJNE000200000)
 
 Ab dem 1. Mai 2024 gelten für die Mindestleistung nach § 8 Absatz 1
 des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
@@ -307,6 +309,7 @@ des Unterhaltssicherungsgesetzes die folgenden Tagessätze:
 [^F829703_01_BJNR07F0A0024BJNE000200000]: 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mlanpv_2024/BJNR07F0A0024.html#BJNR07F0A0024BJNE000300000)
 
 Diese Verordnung tritt am 1. Mai 2024 in Kraft. Gleichzeitig tritt die
 Mindestleistungsanpassungsverordnung vom 9. Mai 2022 (BGBl. I S. 775)

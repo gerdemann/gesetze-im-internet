@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nzbek_1970/BJNR000350970.html#BJNR000350970BJNE000100307)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
 18\. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele
@@ -52,11 +53,13 @@ CITIUS ..... ALTIUS ..... FORTIUS.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nzbek_1970/BJNR000350970.html#BJNR000350970BJNE000200307)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/olympiam_nzbek_1970/BJNR000350970.html#BJNR000350970BJNE000300307)
 
 (Inhalt: nicht darstellbare Abbildung)
 Fundstelle: BGBl I 1970, 35

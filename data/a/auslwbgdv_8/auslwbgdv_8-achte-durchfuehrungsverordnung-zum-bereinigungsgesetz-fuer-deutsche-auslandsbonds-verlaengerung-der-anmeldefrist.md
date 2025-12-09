@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_8/BJNR002630954.html#BJNR002630954BJNE000100306)
 
 Auf Grund des § 21 Abs. 2 in Verbindung mit § 76 Abs. 3 des
 Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
@@ -26,6 +27,7 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 
 
 ## § 1 Verlängerung der Anmeldefrist
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_8/BJNR002630954.html#BJNR002630954BJNE000200306)
 
 Die in § 21 Abs. 1 Satz 1 des Gesetzes bezeichnete Frist wird für die
 bei Inkrafttreten dieser Verordnung im Verzeichnis der Auslandsbonds
@@ -36,6 +38,7 @@ um ein Jahr verlängert.
 
 
 ## § 2 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_8/BJNR002630954.html#BJNR002630954BJNE000300306)
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des
@@ -44,6 +47,7 @@ Rechtsverordnung auch im Land Berlin.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_8/BJNR002630954.html#BJNR002630954BJNE000400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

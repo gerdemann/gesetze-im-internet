@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Insolvenz- und Restrukturierungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000101125)
 
 Für wirtschaftspolitische Planungsentscheidungen werden über
 Insolvenzverfahren und Restrukturierungssachen monatliche und
@@ -27,6 +28,7 @@ jährliche Erhebungen als Bundesstatistik durchgeführt.
 
 
 ## § 2 Erhebungsmerkmale in Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000202125)
 
 Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
@@ -168,6 +170,7 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
 
 ## § 3 Hilfsmerkmale in Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000303125)
 
 (1) Hilfsmerkmale der Erhebungen sind:
 
@@ -236,6 +239,7 @@ Nummer 2 zu übermittelnden Angaben sind:
 
 
 ## § 4 Auskunftspflicht und Erteilung der Auskunft in Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000402125)
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 3
 Absatz 1 Nummer 6 und Absatz 2 Nummer 9 sind freiwillig.
@@ -297,6 +301,7 @@ Angaben.
 
 
 ## § 4a Erhebungsmerkmale in Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000801125)
 
 Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
@@ -363,6 +368,7 @@ Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
 
 ## § 4b Hilfsmerkmale in Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000901125)
 
 Hilfsmerkmale der Erhebungen sind:
 
@@ -392,6 +398,7 @@ Hilfsmerkmale der Erhebungen sind:
 
 
 ## § 4c Auskunftspflicht und Erteilung der Auskunft in Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE001000125)
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4b
 Nummer 5 sind freiwillig. Auskunftspflichtig sind bezüglich der
@@ -409,6 +416,7 @@ Verfahrenshandlung vorgenommen wurde, zu übermitteln.
 
 
 ## § 5 Veröffentlichung und Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000501125)
 
 (1) Die statistischen Ämter dürfen Ergebnisse veröffentlichen, auch
 wenn Tabellenfelder nur einen einzigen Fall ausweisen, sofern diese
@@ -509,6 +517,7 @@ nach Artikel 29 Absatz 7 der Richtlinie (EU) 2019/1023 folgt.
 
 
 ## § 5a Nutzung der Insolvenzbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000701125)
 
 Der Betreiber des elektronischen Informations- und
 Kommunikationssystems für öffentliche Bekanntmachungen in
@@ -529,6 +538,7 @@ Empfang der Daten zu löschen.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/insstatg/BJNR258900011.html#BJNR258900011BJNE000601125)
 
 (1) Die Insolvenzverwalter, Sachwalter und Treuhänder sind nach § 4
 Absatz 1 auskunftspflichtig bezüglich der Angaben, die sich auf

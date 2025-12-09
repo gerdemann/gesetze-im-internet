@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schlheim_bkg/BJNR200120930.html#BJNR200120930BJNE000100326)
 
 ... Für die Durchführung des Übereinkommens sind die
 Seemannsordnung vom 2. Juni 1902 (Reichsgesetzbl. S. 175) und das
@@ -28,6 +29,7 @@ S. 212) maßgebend. ...
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schlheim_bkg/BJNR200120930.html#BJNR200120930BJNE000200326)
 
 (1)
 

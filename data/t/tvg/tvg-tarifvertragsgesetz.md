@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Inhalt und Form des Tarifvertrags
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000100319)
 
 (1) Der Tarifvertrag regelt die Rechte und Pflichten der
 Tarifvertragsparteien und enthält Rechtsnormen, die den Inhalt, den
@@ -33,6 +34,7 @@ betriebliche und betriebsverfassungsrechtliche Fragen ordnen können.
 
 
 ## § 2 Tarifvertragsparteien
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000200319)
 
 (1) Tarifvertragsparteien sind Gewerkschaften, einzelne Arbeitgeber
 sowie Vereinigungen von Arbeitgebern.
@@ -52,6 +54,7 @@ Erfüllung der gegenseitigen Verpflichtungen der Tarifvertragsparteien.
 
 
 ## § 3 Tarifgebundenheit
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000300319)
 
 (1) Tarifgebunden sind die Mitglieder der Tarifvertragsparteien und
 der Arbeitgeber, der selbst Partei des Tarifvertrags ist.
@@ -64,6 +67,7 @@ Arbeitgeber tarifgebunden ist.
 
 
 ## § 4 Wirkung der Rechtsnormen
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000400319)
 
 (1) Die Rechtsnormen des Tarifvertrags, die den Inhalt, den Abschluß
 oder die Beendigung von Arbeitsverhältnissen ordnen, gelten
@@ -93,6 +97,7 @@ bis sie durch eine andere Abmachung ersetzt werden.
 
 
 ## § 4a Tarifkollision
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001601126)
 
 (1) Zur Sicherung der Schutzfunktion, Verteilungsfunktion,
 Befriedungsfunktion sowie Ordnungsfunktion von Rechtsnormen des
@@ -149,6 +154,7 @@ Vorstellungen und Forderungen mündlich vorzutragen.
 
 
 ## § 5 Allgemeinverbindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000504119)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann einen
 Tarifvertrag im Einvernehmen mit einem aus je drei Vertretern der
@@ -247,6 +253,7 @@ erfassten Rechtsnormen des Tarifvertrages.
 
 
 ## § 6 Tarifregister
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000602308)
 
 Bei dem Bundesministerium für Arbeit und Soziales wird ein
 Tarifregister geführt, in das der Abschluß, die Änderung und die
@@ -255,6 +262,7 @@ Allgemeinverbindlichkeit eingetragen werden.
 
 
 ## § 7 Übersendungs- und Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000702308)
 
 (1) Die Tarifvertragsparteien sind verpflichtet, dem Bundesministerium
 für Arbeit und Soziales innerhalb eines Monats nach Abschluß
@@ -281,6 +289,7 @@ nach Absatz 1 zu erfüllen ist.
 
 
 ## § 8 Bekanntgabe des Tarifvertrags
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000801119)
 
 Der Arbeitgeber ist verpflichtet, die im Betrieb anwendbaren
 Tarifverträge sowie rechtskräftige Beschlüsse nach § 99 des
@@ -289,6 +298,7 @@ Tarifvertrag im Betrieb bekanntzumachen.
 
 
 ## § 9 Feststellung der Rechtswirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE000900319)
 
 Rechtskräftige Entscheidungen der Gerichte für Arbeitssachen, die in
 Rechtsstreitigkeiten zwischen Tarifvertragsparteien aus dem
@@ -299,6 +309,7 @@ Gerichte und Schiedsgerichte bindend.
 
 
 ## § 10 Tarifvertrag und Tarifordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001003308)
 
 (1) Mit dem Inkrafttreten eines Tarifvertrags treten Tarifordnungen,
 die für den Geltungsbereich des Tarifvertrags oder Teile desselben
@@ -310,6 +321,7 @@ aufheben; die Aufhebung bedarf der öffentlichen Bekanntmachung.
 
 
 ## § 11 Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001102308)
 
 Das Bundesministerium für Arbeit und Soziales kann unter Mitwirkung
 der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer die zur
@@ -334,6 +346,7 @@ insbesonders über
 
 
 ## § 12 Spitzenorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001200319)
 
 Spitzenorganisationen im Sinne dieses Gesetzes sind - unbeschadet der
 Regelung in § 2 - diejenigen Zusammenschlüsse von Gewerkschaften oder
@@ -346,6 +359,7 @@ erfüllen.
 
 
 ## § 12a Arbeitnehmerähnliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001300319)
 
 (1) Die Vorschriften dieses Gesetzes gelten entsprechend
 
@@ -397,6 +411,7 @@ Sinne des § 84 des Handelsgesetzbuchs.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE001501119)
 
 (1) Dieses Gesetz tritt mit seiner Verkündung in Kraft.
 
@@ -410,6 +425,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III
 (BGBl. II 1990, 889, 1023)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/tvg/BJNR700550949.html#BJNR700550949BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

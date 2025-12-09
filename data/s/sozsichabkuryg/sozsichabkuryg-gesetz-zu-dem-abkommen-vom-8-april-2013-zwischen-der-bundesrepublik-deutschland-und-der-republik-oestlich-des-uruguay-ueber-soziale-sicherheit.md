@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkuryg/BJNR033020014.html#BJNR033020014BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkuryg/BJNR033020014.html#BJNR033020014BJNE000200000)
 
 Folgenden in Berlin am 8. April 2013 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -44,6 +46,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkuryg/BJNR033020014.html#BJNR033020014BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -71,6 +74,7 @@ Dabei können zur Anwendung und Durchführung des Abkommens insbesondere
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkuryg/BJNR033020014.html#BJNR033020014BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

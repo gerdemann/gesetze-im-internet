@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000100000)
 
 Auf Grund
 
@@ -42,6 +43,7 @@ Auf Grund
 
 
 ## § 1 Ziel und Inhalt der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000300000)
 
 (1) Ziel der Ausbildung ist die Befähigung zum sicheren,
 verantwortungsvollen und umweltbewussten Verkehrsteilnehmer. Ziel der
@@ -77,6 +79,7 @@ einschließt.
 
 
 ## § 2 Art und Umfang der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000401305)
 
 (1) Die Ausbildung erfolgt in einem theoretischen und einem
 praktischen Teil. Die beiden Teile sollen in der Konzeption
@@ -91,6 +94,7 @@ Fahrsimulatoren ergänzt werden.
 
 
 ## § 3 Allgemeine Ausbildungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000500000)
 
 (1) Die Ausbildung hat sich an den Zielen dieser Verordnung zu
 orientieren. Die Ausbildungsinhalte sind so auszuwählen und
@@ -109,6 +113,7 @@ anzustreben.
 
 
 ## § 4 Theoretischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000601123)
 
 (1) Die Ausbildung setzt das selbstständige Lernen durch die
 Fahrschüler voraus.
@@ -161,6 +166,7 @@ täglich nicht überschreiten.
 
 
 ## § 5 Praktischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000702360)
 
 (1) Der praktische Unterricht ist auf die theoretische Ausbildung zu
 beziehen und inhaltlich mit dieser zu verzahnen. Er hat sich an den in
@@ -242,6 +248,7 @@ Geschäftsräumen der Fahrschule bekannt zu geben.
 
 
 ## § 5a Praktische Ausbildung auf Kraftfahrzeugen mit Schaltgetriebe der Klasse B gemäß § 17a der Fahrerlaubnis-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002901123)
 
 (1) Für den Nachweis nach § 17a Absatz 4 der Fahrerlaubnis-Verordnung
 sind mindestens 10 Stunden (à 45 Minuten) auf einem Kraftfahrzeug mit
@@ -286,6 +293,7 @@ auszuhändigen. Die Unterzeichnung kann auch elektronisch erfolgen.
 
 
 ## § 5b Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE003000123)
 
 Die Auswirkungen dieser Verordnung im Hinblick auf die
 Verkehrssicherheit und auf die Nutzung alternativer Antriebe werden
@@ -297,6 +305,7 @@ vor.
 
 
 ## § 6 Abschluss der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000803124)
 
 (1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung
 erst abschließen, wenn der Bewerber den Unterricht im gesetzlich
@@ -332,6 +341,7 @@ elektronisch zu übermitteln.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE000904123)
 
 (1) Die §§ 1 bis 6 finden keine Anwendung, wenn
 
@@ -382,6 +392,7 @@ Ausbildung für Dienstfahrerlaubnisse erteilt werden.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001003124)
 
 (1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des
 Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als
@@ -467,6 +478,7 @@ fahrlässig
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Fahrschüler-Ausbildungsordnung vom 18. August
@@ -476,12 +488,14 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 4)
 
 ## Anlage 1 Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001301305)
 
 (Fundstelle: BGBl. I 2012, 1322 - 1323;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -955,6 +969,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.1 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A2, A1 (4 Doppelstunden), in der Klasse AM (2 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001401308)
 
 (Fundstelle: BGBl. I 2012, 1324 - 1325;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1169,6 +1184,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.2 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse B (2 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001501308)
 
 (Fundstelle: BGBl. I 2012, 1326;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1282,6 +1298,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.3 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001601360)
 
 (Fundstelle: BGBl. I 2012, 1327;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1530,6 +1547,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.4 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001700000)
 
 (Fundstelle: BGBl. I 2012, 1328)
 
@@ -1626,6 +1644,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.5 Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001802360)
 
 (Fundstelle: BGBl. I 2012, 1329 - 1330)
 
@@ -2061,6 +2080,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.6 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE001900000)
 
 (Fundstelle: BGBl. I 2012, 1331)
 
@@ -2134,6 +2154,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4)
 
 ## Anlage 2.7 Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002000000)
 
 (Fundstelle: BGBl. I 2012, 1332)
 
@@ -2295,6 +2316,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4 Absatz 4)
 
 ## Anlage 2.8 Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002101308)
 
 (Fundstelle: BGBl. I 2012, 1417 - 1418)
 
@@ -2403,6 +2425,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 1)
 
 ## Anlage 3 Sachgebiete für den praktischen Unterricht für alle Klassen
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002201308)
 
 (Fundstelle: BGBl. I 2012, 1334 - 1338;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3401,6 +3424,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 3)
 
 ## Anlage 4 Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002302305)
 
 (Fundstelle BGBl. I 2014, 375)
 
@@ -3546,6 +3570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5 Absatz 4)
 
 ## Anlage 5 Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002400000)
 
 (Fundstelle: BGBl. I 2012, 1340)
 
@@ -3726,6 +3751,7 @@ sowie entsprechende Handfertigkeiten
 Kontrolle der Kraftfahrzeuge und
 
 ## Anlage 6 Anhänger auf Verkehrs- und Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE002501360)
 
 (Fundstelle: BGBl. I 2012, 1341 - 1342;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3961,6 +3987,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 5a Absatz 4)
 
 ## Anlage 7 Nachweis über die praktische Ausbildung zum Führen von Fahrzeugen mit Schaltgetriebe der Klasse B
+[Direktlink](https://www.gesetze-im-internet.de/fahrschausbo_2012/BJNR131800012.html#BJNR131800012BJNE003100123)
 
 (Fundstelle: BGBl. I 2020, 2707)
 

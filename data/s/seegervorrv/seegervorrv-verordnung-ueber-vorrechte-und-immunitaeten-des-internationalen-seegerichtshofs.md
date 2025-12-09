@@ -19,6 +19,7 @@ Stand: Die Verordnung tritt gem. Art. 2 Abs. 2 dieser V an dem Tage außer Kraft
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seegervorrv/BJNR251720996.html#BJNR251720996BJNE000100310)
 
 Auf Grund des Artikels 3 Nr. 1 Buchstabe b und Nr. 2 des Gesetzes vom
 22\. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum
@@ -31,6 +32,7 @@ ist, verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/seegervorrv/BJNR251720996.html#BJNR251720996BJNE000200310)
 
 (1) Die Mitglieder des Internationalen Seegerichtshofs und dessen
 Kanzler, soweit dieser nicht die deutsche Staatsangehörigkeit besitzt
@@ -59,6 +61,7 @@ ausreichende Leistungen vorsieht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/seegervorrv/BJNR251720996.html#BJNR251720996BJNE000300310)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung mit Wirkung vom
 1\. August 1996 in Kraft, Artikel 1 Abs. 2 dieser Verordnung in bezug
@@ -75,6 +78,7 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/seegervorrv/BJNR251720996.html#BJNR251720996BJNE000400310)
 
 Der Bundesrat hat zugestimmt.
 

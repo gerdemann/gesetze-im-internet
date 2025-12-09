@@ -24,6 +24,7 @@ Schuldverschreibungen und zur Änderung der Richtlinien 2009/65/EG und
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000100000)
 
 (1) Diese Verordnung gilt für Pfandbriefbanken im Sinne des § 1 Absatz
 1 Satz 1 des Pfandbriefgesetzes, die Pfandbriefe mindestens einer der
@@ -35,6 +36,7 @@ Satz 1 des Pfandbriefgesetzes nicht anzuwenden.
 
 
 ## § 2 Berichtszeiträume, Meldestichtage, Einreichungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000200000)
 
 (1) Berichtszeitraum für die Meldungen nach den Anlagen ist das
 Kalenderquartal. Abweichend von Satz 1 ist der Berichtszeitraum im
@@ -53,6 +55,7 @@ nächstfolgenden Bankarbeitstag.
 
 
 ## § 3 Meldeumfang
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000300000)
 
 (1) Pfandbriefbanken haben die Meldung nach Anlage 2 abzugeben.
 Zusätzlich haben Pfandbriefbanken, die
@@ -111,6 +114,7 @@ erlischt die Freistellung.
 
 
 ## § 4 Währungsformat
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000400000)
 
 Betragsangaben in den Meldungen der Anlagen sind in Euro zu machen.
 Maßgebliche nicht in Euro denominierte Beträge sind zum offiziellen
@@ -121,6 +125,7 @@ vorhergehenden Bankarbeitstags zu verwenden.
 
 
 ## § 5 Einreichungsweg
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000500000)
 
 Für die Meldung ist ein elektronischer Einreichungsweg zu nutzen.
 Nähere Bestimmungen zum elektronischen Einreichungsweg und zu den zu
@@ -129,6 +134,7 @@ Finanzdienstleistungsaufsicht (Bundesanstalt) auf ihrer Internetseite.
 
 
 ## § 6 Insolvenz und Abwicklung der Pfandbriefbank
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000600000)
 
 (1) Wird über das Vermögen der Pfandbriefbank das Insolvenzverfahren
 eröffnet, so entfällt ab dem nächstfolgenden Meldestichtag die Pflicht
@@ -153,6 +159,7 @@ einzelner Meldungen freizustellen.
 
 
 ## § 7 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000700000)
 
 Meldestichtag für die erste Meldung ist der 30. Juni 2023. Vor dem
 Meldestichtag 30. Juni 2027 brauchen Deckungswerte nur mit den der
@@ -164,6 +171,7 @@ vorgesehenen Weise kenntlich zu machen.
 
 
 ## Anlage 1 Übersicht und Ausfüllhinweise Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE000900000)
 
 (Fundstelle: BGBl. I 2022, 1616 - 1621)
 
@@ -1114,6 +1122,7 @@ III. Textfeld mit Ausfüllhinweisen
 
 
 ## Anlage 2 Meldung: Gattungsübergreifend (GttÜbg)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001000000)
 
 (Fundstelle: BGBl. I 2022, 1622 - 1624)
 
@@ -1535,6 +1544,7 @@ V.  Beschriftung der Zeilenköpfe
 
 
 ## Anlage 3 Meldung: Hypothekenpfandbriefe – Umlauf (HypUml)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001100000)
 
 (Fundstelle: BGBl. I 2022, 1625 - 1628)
 
@@ -1989,6 +1999,7 @@ VI. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 4 Meldung: Hypothekenpfandbriefe – Deckung (HypDck)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001200000)
 
 (Fundstelle: BGBl. I 2022, 1629 - 1633)
 
@@ -2622,6 +2633,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 5 Meldung: Hypothekenpfandbriefe – Deckung – Ordentliche Deckungswerte – Inland (HypDckOrdInl)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001300000)
 
 (Fundstelle: BGBl. I 2022, 1634 - 1636)
 
@@ -2977,6 +2989,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 6 Meldung: Hypothekenpfandbriefe – Deckung – Ordentliche Deckungswerte – Ausland (HypDckOrdAus)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001400000)
 
 (Fundstelle: BGBl. I 2022, 1637 - 1641)
 
@@ -3584,6 +3597,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 7 Meldung: Hypothekenpfandbriefe – Deckung – Weitere Deckungswerte (HypDckWtr)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001500000)
 
 (Fundstelle: BGBl. I 2022, 1642 - 1643)
 
@@ -3822,6 +3836,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 8 Meldung: Hypothekenpfandbriefe – Deckung – Weitere Deckungswerte – Derivategeschäfte (HypDckWtrDrv)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001600000)
 
 (Fundstelle: BGBl. I 2022, 1644 - 1646)
 
@@ -4146,6 +4161,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 9 Meldung: Öffentliche Pfandbriefe – Umlauf (ÖpfUml)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001700000)
 
 (Fundstelle: BGBl. I 2022, 1647 - 1650)
 
@@ -4606,6 +4622,7 @@ VI. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 10 Meldung: Öffentliche Pfandbriefe – Deckung (ÖpfDck)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001800000)
 
 (Fundstelle: BGBl. I 2022, 1651 - 1655)
 
@@ -5228,6 +5245,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 11 Meldung: Öffentliche Pfandbriefe – Deckung – Ordentliche Deckungswerte – Inland (ÖpfDckOrdInl)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE001900000)
 
 (Fundstelle: BGBl. I 2022, 1656 - 1658)
 
@@ -5560,6 +5578,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 12 Meldung: Öffentliche Pfandbriefe – Deckung – Ordentliche Deckungswerte – Ausland (ÖpfDckOrdAus)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002000000)
 
 (Fundstelle: BGBl. I 2022, 1659 - 1662)
 
@@ -6048,6 +6067,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 13 Meldung: Öffentliche Pfandbriefe – Deckung – Weitere Deckungswerte (ÖpfDckWtr)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002100000)
 
 (Fundstelle: BGBl. I 2022, 1663 - 1664)
 
@@ -6222,6 +6242,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 14 Meldung: Öffentliche Pfandbriefe – Deckung – Weitere Deckungswerte – Derivategeschäfte (ÖpfDckWtrDrv)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002200000)
 
 (Fundstelle: BGBl. I 2022, 1665 - 1667)
 
@@ -6546,6 +6567,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 15 Meldung: Schiffspfandbriefe – Umlauf (SchUml)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002300000)
 
 (Fundstelle: BGBl. I 2022, 1668 - 1671)
 
@@ -7004,6 +7026,7 @@ VI. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 16 Meldung: Schiffspfandbriefe – Deckung (SchDck)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002400000)
 
 (Fundstelle: BGBl. I 2022, 1672 - 1677)
 
@@ -7654,6 +7677,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 17 Meldung: Schiffspfandbriefe – Deckung – Ordentliche Deckungswerte (SchDckOrd)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002500000)
 
 (Fundstelle: BGBl. I 2022, 1678 - 1681)
 
@@ -8106,6 +8130,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 18 Meldung: Schiffspfandbriefe – Deckung – Weitere Deckungswerte (SchDckWtr)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002600000)
 
 (Fundstelle: BGBl. I 2022, 1682 - 1683)
 
@@ -8345,6 +8370,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 19 Meldung: Schiffspfandbriefe – Deckung – Weitere Deckungswerte – Derivategeschäfte (SchDckWtrDrv)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002700000)
 
 (Fundstelle: BGBl. I 2022, 1684 - 1686)
 
@@ -8669,6 +8695,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 20 Meldung: Flugzeugpfandbriefe – Umlauf (FlgUml)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002800000)
 
 (Fundstelle: BGBl. I 2022, 1687 - 1690)
 
@@ -9123,6 +9150,7 @@ VI. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 21 Meldung: Flugzeugpfandbriefe – Deckung (FlgDck)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE002900000)
 
 (Fundstelle: BGBl. I 2022, 1691 - 1695)
 
@@ -9742,6 +9770,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 22 Meldung: Flugzeugpfandbriefe – Deckung – Ordentliche Deckungswerte (FlgDckOrd)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE003000000)
 
 (Fundstelle: BGBl. I 2022, 1696 - 1699)
 
@@ -10185,6 +10214,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 23 Meldung: Flugzeugpfandbriefe – Deckung – Weitere Deckungswerte (FlgDckWtr)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE003100000)
 
 (Fundstelle: BGBl. I 2022, 1700 - 1701)
 
@@ -10424,6 +10454,7 @@ VII. Beschriftung der Zeilenköpfe
 
 
 ## Anlage 24 Meldung: Flugzeugpfandbriefe – Deckung – Weitere Deckungswerte – Derivategeschäfte (FlgDckWtrDrv)
+[Direktlink](https://www.gesetze-im-internet.de/pfandmeldev/BJNR161410022.html#BJNR161410022BJNE003200000)
 
 (Fundstelle: BGBl. I 2022, 1702 - 1704)
 

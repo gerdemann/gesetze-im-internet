@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000100000)
 
 Es verordnen
 
@@ -38,10 +39,12 @@ Es verordnen
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNG000100000)
 
 
 
 ### § 1 Durchführung der Integrationskurse
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000200000)
 
 Das Bundesamt für Migration und Flüchtlinge (Bundesamt) führt die
 Integrationskurse in Zusammenarbeit mit Ausländerbehörden, dem
@@ -53,12 +56,14 @@ oder öffentlichen Trägern durchführen.
 
 
 ### § 2 Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000300000)
 
 Die Verordnung findet auch Anwendung auf Ausländer, deren
 Rechtsstellung sich nach dem Freizügigkeitsgesetz/EU bestimmt.
 
 
 ### § 3 Ziel des Integrationskurses
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000402311)
 
 (1) Der Kurs dient der erfolgreichen Vermittlung
 
@@ -87,10 +92,12 @@ Europäischen Referenzrahmen für Sprachen – GER).
 
 
 ## Abschnitt 2 - Rahmenbedingungen für die Teilnahme, Datenverarbeitung und Kursgebühren
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNG000200000)
 
 
 
 ### § 4 Teilnahmeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000506311)
 
 (1) Teilnahmeberechtigte im Sinne dieser Verordnung sind
 
@@ -170,6 +177,7 @@ Bundesrepublik Deutschland zu integrieren.
 
 
 ### § 4a Fahrtkostenerstattung, Kinderbetreuung, kursbegleitende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002604311)
 
 (1) Das Bundesamt gewährt Teilnahmeberechtigten zur Ermöglichung einer
 Kursteilnahme bei Bedarf auf Antrag einen pauschalen Zuschuss zu den
@@ -205,6 +213,7 @@ durchgeführt werden darf.
 
 
 ### § 5 Zulassung zum Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000608311)
 
 (1) Die Zulassung zur Teilnahme am Integrationskurs nach § 44 Absatz 4
 des Aufenthaltsgesetzes erfolgt durch das Bundesamt auf Antrag. Der
@@ -238,6 +247,7 @@ berücksichtigen sind insbesondere:
 
 
 ### § 5a Zulassung durch den Träger der Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002900311)
 
 (1) Der Träger der Grundsicherung für Arbeitsuchende kann einen
 Ausländer zur Teilnahme an einem Integrationskurs nach § 44 Absatz 4
@@ -255,6 +265,7 @@ sowie den Zeitpunkt des Erlöschens der Teilnahmeberechtigung.
 
 
 ### § 6 Bestätigung der Teilnahmeberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000703311)
 
 (1) Die Ausländerbehörde bestätigt Teilnahmeberechtigten nach § 4 Abs.
 1 Satz 1 Nr. 1 und 5 das Recht auf Teilnahme. Der Träger der
@@ -290,6 +301,7 @@ informiert.
 
 
 ### § 7 Anmeldung zum Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000809311)
 
 (1) Teilnahmeberechtigte können sich bei jedem zugelassenen Kursträger
 zu einem Integrationskurs anmelden. Die Anmeldung kann im Einzelfall
@@ -355,6 +367,7 @@ kommt.
 
 
 ### § 8 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE000909311)
 
 (1) Die Ausländerbehörde, die Träger der Grundsicherung für
 Arbeitsuchende, die Träger der Leistungen nach dem
@@ -492,6 +505,7 @@ die Erfüllung anderer Aufgaben des Bundesamtes zu erfolgen.
 
 
 ### § 9 Kostenbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001006311)
 
 (1) Für die Teilnahme am Integrationskurs haben Teilnahmeberechtigte
 einen Kostenbeitrag zu leisten, der 50 Prozent des zum Zeitpunkt der
@@ -561,10 +575,12 @@ absolviert haben, beträgt die Frist nach Satz 1 drei Jahre.
 
 
 ## Abschnitt 3 - Struktur, Dauer und Inhalt des Integrationskurses
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNG000300000)
 
 
 
 ### § 10 Grundstruktur des Integrationskurses
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001103377)
 
 (1) Der Integrationskurs umfasst 700 Unterrichtsstunden. Er findet in
 Deutsch statt und ist in einen Sprachkurs sowie einen
@@ -577,6 +593,7 @@ Erfahrungen bei der Vermittlung von Deutsch als Zweitsprache.
 
 
 ### § 11 Grundstruktur des Sprachkurses
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001204311)
 
 (1) Der Sprachkurs umfasst 600 Unterrichtsstunden. Er ist in einen
 Basis- und in einen Aufbausprachkurs unterteilt. Basis- und
@@ -615,6 +632,7 @@ Unterbrechung wird kein Kostenbeitrag erhoben.
 
 
 ### § 12 Grundstruktur des Orientierungskurses
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001303116)
 
 Der Orientierungskurs umfasst 100 Unterrichtsstunden. Er findet im
 Anschluss an den Sprachkurs statt und wird grundsätzlich von dem
@@ -625,6 +643,7 @@ Orientierungskurs durchzuführen.
 
 
 ### § 13 Integrationskurse für spezielle Zielgruppen, Intensivkurs
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001405311)
 
 (1) Bei Bedarf können Integrationskurse für spezielle Zielgruppen
 vorgesehen werden, wenn ein besonderer Unterricht oder ein erhöhter
@@ -671,6 +690,7 @@ Bedarf für die Integrationskurse nach den Absätzen 1 und 2 fest.
 
 
 ### § 14 Organisation der Integrationskurse, Ordnungsmäßigkeit der Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001509311)
 
 (1) Der Integrationskurs wird in der Regel als ganztägiger Unterricht
 angeboten. Das Angebot von Teilzeitkursen soll auf einen zügigen
@@ -737,6 +757,7 @@ Teilnahme mitzuwirken.
 
 
 ### § 15 Lehrkräfte und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002505311)
 
 (1) Lehrkräfte, die im Integrationskurs unterrichten, müssen über eine
 Zulassung des Bundesamtes verfügen. Die Erteilung einer Zulassung
@@ -789,6 +810,7 @@ Lehrkraft nach Absatz 1.
 
 
 ### § 15a Widerruf und Erlöschen der Zulassung als Lehrkraft
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE003000311)
 
 (1) Die Zulassung als Lehrkraft ist mit Wirkung für die Zukunft zu
 widerrufen, wenn ihre Voraussetzungen nicht mehr vorliegen,
@@ -803,12 +825,14 @@ ebenfalls.
 
 
 ### § 16 Zulassung der Lehr- und Lernmittel
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001701311)
 
 Lehr- und Lernmittel für den Integrationskurs können auf Antrag vom
 Bundesamt zugelassen werden.
 
 
 ### § 17 Abschlusstest, Zertifikat Integrationskurs
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001808311)
 
 (1) Der Integrationskurs wird abgeschlossen durch
 
@@ -890,10 +914,12 @@ Einbürgerungstestverordnung findet keine Anwendung.
 
 
 ## Abschnitt 4 - Kursträger, Prüfstellen, Bewertungskommission
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNG000401377)
 
 
 
 ### § 18 Kursträger
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE001903377)
 
 (1) Das Bundesamt kann auf Antrag zur Durchführung der
 Integrationskurse und des Einstufungstests nach § 11 Absatz 2 private
@@ -937,6 +963,7 @@ dem Dritten Buch Sozialgesetzbuch bleiben unberührt.
 
 
 ### § 19 Anforderungen an den Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002006311)
 
 (1) Zur Beurteilung der Zuverlässigkeit und Gesetzestreue des
 Antragstellers oder der zur Führung seiner Geschäfte bestellten
@@ -1063,6 +1090,7 @@ zu verwenden.
 
 
 ### § 20 Prüfung und Entscheidung des Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002104311)
 
 (1) Das Bundesamt entscheidet über den Zulassungsantrag nach Prüfung
 der eingereichten Unterlagen und im Regelfall nach örtlicher Prüfung.
@@ -1110,6 +1138,7 @@ Einzelheiten regelt das Bundesamt in einer Abrechnungsrichtlinie.
 
 
 ### § 20a Zulassung von Prüfungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002705311)
 
 (1) Für die Durchführung des „Deutsch-Tests für Zuwanderer“ nach § 17
 Absatz 1 Nummer 1 sowie des Tests „Leben in Deutschland“ nach § 17
@@ -1154,6 +1183,7 @@ Absatz 2 und von Abschlusstests nach § 17 Absatz 1 beauftragen.
 
 
 ### § 20b Widerruf und Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002802311)
 
 (1) Die Zulassung soll mit Wirkung für die Zukunft widerrufen werden,
 wenn ihre Voraussetzungen nicht mehr vorliegen, insbesondere wenn
@@ -1199,6 +1229,7 @@ erlischt die Zulassung als Prüfungsstelle ebenfalls.
 
 
 ### § 21 Bewertungskommission
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002203311)
 
 (1) Zur Bewertung von Lehrplänen, Lehr- und Lernmitteln und der
 Inhalte der Tests, zur Entwicklung von Verfahren der
@@ -1212,10 +1243,12 @@ berufen.
 
 
 ## Abschnitt 5 - Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNG000501310)
 
 
 
 ### § 22 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002306311)
 
 (1) § 5 Absatz 3 Satz 4 in der bis zum 31. Januar 2023 geltenden
 Fassung findet für Zulassungen Anwendung, die bis zum Ablauf des 31.
@@ -1239,6 +1272,7 @@ vor dem 1. Mai 2025 beginnen.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intv/BJNR337000004.html#BJNR337000004BJNE002402310)
 
 -
 

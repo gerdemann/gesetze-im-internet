@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Auflösung und Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/absfondslwauflg/BJNR095010011.html#BJNR095010011BJNE000102301)
 
 (1) Die Anstalt Absatzförderungsfonds der deutschen Land- und
 Ernährungswirtschaft ist aufgelöst. Bis zur Beendigung der Abwicklung
@@ -49,6 +50,7 @@ Ernährung und Landwirtschaft im Bundesanzeiger bekannt zu geben.
 
 
 ## § 2 Kostentragung und Vermögensüberschussverteilung
+[Direktlink](https://www.gesetze-im-internet.de/absfondslwauflg/BJNR095010011.html#BJNR095010011BJNE000200000)
 
 (1) Die Kosten der Abwicklung sind aus dem Vermögen der Anstalt zu
 tragen.
@@ -63,6 +65,7 @@ bei der Landwirtschaftlichen Rentenbank zu verwenden.
 
 
 ## § 3 Aufhebung des Absatzfondsgesetzes und der Verordnung über die Beiträge nach dem Absatzfondsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/absfondslwauflg/BJNR095010011.html#BJNR095010011BJNE000300000)
 
 (1) Es werden aufgehoben:
 

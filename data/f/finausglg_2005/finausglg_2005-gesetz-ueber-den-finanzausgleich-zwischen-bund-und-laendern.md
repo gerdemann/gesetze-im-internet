@@ -26,10 +26,12 @@ Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. dur
 
 
 ## Erster Abschnitt - Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNG000102123)
 
 
 
 ### § 1 Anteile von Bund und Ländern an der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE002408119)
 
 (1) Das Aufkommen der Umsatzsteuer wird auf Bund, Länder und Gemeinden
 nach folgenden Prozentsätzen aufgeteilt:
@@ -234,6 +236,7 @@ Millionen Euro.
 
 
 ### § 2 Verteilung der Umsatzsteuer unter den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000202123)
 
 Der Länderanteil an der Umsatzsteuer wird vorbehaltlich des gemäß § 4
 durchzuführenden Finanzkraftausgleichs nach dem Verhältnis ihrer
@@ -244,16 +247,19 @@ Einwohnerzahlen zugrunde zu legen, die das Statistische Bundesamt zum
 
 
 ### § 3 Verteilung der Gewerbesteuerumlage unter den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000302123)
 
 Die Gewerbesteuerumlage steht den Ländern insoweit zu, als die
 Gewerbesteuer in dem Gebiet des einzelnen Landes vereinnahmt wird.
 
 
 ## Zweiter Abschnitt - Angemessener Ausgleich der unterschiedlichen Finanzkraft
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNG000202123)
 
 
 
 ### § 4 Finanzkraftausgleich
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000402123)
 
 Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener
 Ausgleich der unterschiedlichen Finanzkraftverhältnisse
@@ -263,6 +269,7 @@ Abschlägen von der Finanzkraft.
 
 
 ### § 5 Abschläge und Zuschläge zum Zweck des Finanzkraftausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000502123)
 
 (1) Abschläge werden von den Ländern erhoben, deren
 Finanzkraftmesszahl im Ausgleichsjahr ihre Ausgleichsmesszahl
@@ -273,6 +280,7 @@ Ausgleichsjahr ihre Ausgleichsmesszahl nicht erreicht.
 
 
 ### § 6 Finanzkraftmesszahl, Ausgleichsmesszahl
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000602123)
 
 (1) Die Finanzkraftmesszahl eines Landes ist die Summe der Einnahmen
 des Landes nach § 7 und der Steuereinnahmen seiner Gemeinden nach § 8.
@@ -287,6 +295,7 @@ vervielfacht mit der Einwohnerzahl des Landes; hierbei sind die nach §
 
 
 ### § 7 Einnahmen der Länder aus Steuern und Förderabgabe
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000707123)
 
 (1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr
 zugeflossenen Einnahmen
@@ -347,6 +356,7 @@ Kalenderjahres sowie mit der Einwohnerzahl des Ausgleichsjahres.
 
 
 ### § 8 Steuereinnahmen der Gemeinden
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000803123)
 
 (1) Als Steuereinnahmen der Gemeinden eines Landes gelten nach Maßgabe
 des Absatzes 3
@@ -428,6 +438,7 @@ abweichende Festlegungen treffen.
 
 
 ### § 9 Einwohnerzahl
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE000902123)
 
 (1) Der Ausgleichsmesszahl eines Landes wird die Einwohnerzahl
 (Wohnbevölkerung) zugrunde gelegt, die das Statistische Bundesamt zum
@@ -448,6 +459,7 @@ Länder mit 100 Prozent gewertet.
 
 
 ### § 10 Bemessung der Zu- und Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001002123)
 
 (1) Die Höhe des Zuschlags, der einem Land zu gewähren ist, beträgt 63
 Prozent des Betrags, um den die Ausgleichsmesszahl dieses Landes seine
@@ -461,10 +473,12 @@ Unterschiedsbetrag von diesem Land aufzubringen.
 
 
 ## Dritter Abschnitt - Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNG000302123)
 
 
 
 ### § 11 Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001113123)
 
 (1) Der Bund gewährt aus seinen Mitteln leistungsschwachen Ländern
 Bundesergänzungszuweisungen zur ergänzenden Deckung ihres allgemeinen
@@ -619,10 +633,12 @@ den Einnahmen darzustellen.
 
 
 ## Vierter Abschnitt - Vollzug und Abrechnung der Umsatzsteuerverteilung, des Finanzkraftausgleichs und der Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNG000402123)
 
 
 
 ### § 12 Feststellung der Umsatzsteueranteile
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001202123)
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des
 Ausgleichsjahres die endgültige Höhe der Länderanteile an der
@@ -631,6 +647,7 @@ Bundesrates bedarf.
 
 
 ### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE002301123)
 
 Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung
 nach § 12 die Unterschiede zwischen den fortgeschriebenen
@@ -652,6 +669,7 @@ Quartal 2026 entrichtet.
 
 
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001302123)
 
 Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden
 während des Ausgleichsjahres aufgrund vorläufiger Bemessungsgrundlagen
@@ -681,6 +699,7 @@ den §§ 2 sowie 4 bis 10 ermittelt; jedoch werden zugrunde gelegt
 
 
 ### § 14 Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001404123)
 
 (1) Der Zahlungsverkehr wird während des Ausgleichsjahres in der Weise
 abgewickelt, dass die Ablieferung des Bundesanteils an der durch
@@ -722,6 +741,7 @@ einer Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
 
 ### § 15 Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001502123)
 
 Unterschiede zwischen den vorläufig gezahlten und den endgültig
 festgestellten Ausgleichszahlungen werden durch Überweisungen
@@ -731,6 +751,7 @@ trifft die für den Überweisungsverkehr erforderlichen Anordnungen.
 
 
 ### § 16 Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001602123)
 
 (1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5
 werden am 15. März, 15. Juni, 15. September und 15. Dezember
@@ -746,6 +767,7 @@ September und 15. Dezember fällig.
 
 
 ### § 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001704123)
 
 (1) Die Höhe des Gemeindeanteils am Aufkommen der durch
 Bundesfinanzbehörden und Landesfinanzbehörden verwalteten Umsatzsteuer
@@ -770,6 +792,7 @@ Rechtsverordnung bestimmen, die der Zustimmung des Bundesrates bedarf.
 
 
 ### § 18 Berichts- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001802123)
 
 (1) Über Struktur und Höhe des Finanzkraftausgleichs sowie der
 Zuweisungen gemäß § 11 im Ausgleichsjahr unterrichtet die
@@ -784,6 +807,7 @@ bestätigen.
 
 
 ### § 19 Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2020
+[Direktlink](https://www.gesetze-im-internet.de/finausglg_2005/BJNR395600001.html#BJNR395600001BJNE001902123)
 
 Für den Vollzug und die Abrechnung der Umsatzsteuerverteilung, des
 Finanzausgleichs und der Bundesergänzungszuweisungen für die vor dem

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000100325)
 
 Der Pächter eines landwirtschaftlichen Grundstücks kann an dem ihm
 gehörenden Inventar einem Kreditinstitut zur Sicherung eines ihm
@@ -29,6 +30,7 @@ bestellen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000200325)
 
 (1) Zur Bestellung des Pfandrechts ist die Einigung des Pächters und
 des Gläubigers darüber, daß dem Gläubiger das Pfandrecht zustehen
@@ -45,6 +47,7 @@ Pfandrechts den Verpächter benachrichtigen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000300325)
 
 (1) Das Pfandrecht erstreckt sich auf das gesamte, dem Pächter zur
 Zeit der Niederlegung des Verpfändungsvertrages gehörende Inventar.
@@ -63,6 +66,7 @@ Merkmale bezeichnet werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000400325)
 
 (1) Gehört ein Inventarstück nicht dem Pächter, so erwirbt der
 Gläubiger gleichwohl ein Pfandrecht, es sei denn, daß ihm im Zeitpunkt
@@ -81,6 +85,7 @@ unberührt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000500325)
 
 (1) Erwirbt ein Dritter von dem Pächter ein mit dem Pfandrecht
 belastetes Inventarstück oder ein Recht an einem solchen
@@ -97,6 +102,7 @@ Pfandgläubiger sein Pfandrecht gerichtlich geltend gemacht hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000600325)
 
 Das Inventar haftet auch für die dem Gläubiger zu ersetzenden Kosten
 der Kündigung und der Rechtsverfolgung sowie für die Kosten der
@@ -104,6 +110,7 @@ Verwerfung des Pfandes.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000700325)
 
 Rechte an dem Inventar, die durch eine Belastung des verpachteten
 Grundstücks oder im Wege der Zwangsvollstreckung erworben sind,
@@ -112,6 +119,7 @@ Rechte in gutem Glauben ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000800325)
 
 Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf seine
 Ansprüche die für die Ansprüche aus dem Eigentum geltenden
@@ -119,6 +127,7 @@ Vorschriften entsprechende Anwendung.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE000900325)
 
 Beabsichtigt der Verpächter oder das Kreditinstitut, das Inventar zu
 verwerten, so sollen sie sich unter dem Gesichtspunkt der
@@ -127,6 +136,7 @@ verständigen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001000325)
 
 (1) Die Befriedigung des Pfandgläubigers aus dem Inventar erfolgt
 durch Verkauf. Die Vorschriften des § 1228 Abs. 2 Satz 1 und der §§
@@ -146,6 +156,7 @@ Pächter die Herausgabe der zu verkaufenden Inventarstücke verlangen.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001100325)
 
 (1) Der Verpächter kann der Verwertung des Inventars nach Maßgabe des
 § 10 nicht widersprechen. Zu einer Verwertung, die nicht im Wege
@@ -164,6 +175,7 @@ wenn der Verpächter sein gesetzliches Pfandrecht geltend macht.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001200325)
 
 Die Vorschriften des § 11 Abs. 1 Satz 2, 4, Abs. 2 finden auch
 Anwendung, wenn ein Dritter die Zwangsvollstreckung in Inventarstücke
@@ -173,6 +185,7 @@ dem Erlös geltend machen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001300325)
 
 (1) Die nach Maßgabe dieses Gesetzes gesicherte Forderung kann nur an
 ein Kreditinstitut abgetreten werden; die Abtretung soll dem in § 2
@@ -185,6 +198,7 @@ Pfandrechts ausgeschlossen, so erlischt das Pfandrecht.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001400325)
 
 (1) Das Pfandrecht erlischt mit der Forderung, für die es bestellt
 ist.
@@ -200,6 +214,7 @@ Erklärung hat der Pächter zu tragen und auf Verlangen vorzuschießen.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001500325)
 
 (1) Der Verpfändungsvertrag kann sowohl von dem Pächter wie von dem
 Kreditinstitut niedergelegt werden.
@@ -220,6 +235,7 @@ die in § 14 Abs. 3 bezeichnete Erklärung.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001600325)
 
 (1) Die Einsicht der bei dem Amtsgericht niedergelegten
 Verpfändungsverträge ist jedem gestattet, der ein berechtigtes
@@ -234,5 +250,6 @@ niedergelegt worden ist.
 
 
 ## (XXXX) §§ 17 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pachtkredg/BJNR003990926.html#BJNR003990926BJNE001700325)
 
 

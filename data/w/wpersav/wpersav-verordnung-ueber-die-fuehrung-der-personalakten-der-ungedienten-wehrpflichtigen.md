@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000100308)
 
 Auf Grund der §§ 27 und 50 Abs. 1 Nr. 7 des Wehrpflichtgesetzes in der
 Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1756)
@@ -28,6 +29,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000200308)
 
 Die Verordnung regelt Einzelheiten zum Personalaktenrecht der
 ungedienten Wehrpflichtigen nach § 25 des Wehrpflichtgesetzes. Als
@@ -36,6 +38,7 @@ der Wehrpflicht Erfaßten.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000301377)
 
 (1) Die Personalakte ist beim Karrierecenter der Bundeswehr zu führen;
 sie ist vertraulich zu behandeln und vor unbefugter Einsichtnahme zu
@@ -52,6 +55,7 @@ Nebenakten aufzunehmen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000401377)
 
 (1) Die Gesundheitsakte dient dienen der personenbezogenen
 Dokumentation ärztlicher Aufzeichnungen aus Untersuchungen,
@@ -83,6 +87,7 @@ Eignungsfeststellung entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000501377)
 
 (1) Die Personalakte des Wehrpflichtigen ist so lange aufzubewahren,
 wie dies zur Erfüllung der Wehrpflicht erforderlich ist, längstens bis
@@ -120,6 +125,7 @@ der mit der Einholung beabsichtigte Zweck erfüllt ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000600308)
 
 (1) Die Personalaktendaten dürfen auch in automatisierten Dateien nur
 für Zwecke des Wehrersatzwesens sowie der Personalführung oder der
@@ -144,6 +150,7 @@ Weise Kenntnis von der Speicherung erlangt hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000701377)
 
 (1) Einsicht in die Personalakte wird grundsätzlich beim
 Karrierecenter der Bundeswehr gewährt. Auszüge, Abschriften,
@@ -163,6 +170,7 @@ Vollmacht des Wehrpflichtigen gewährt werden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000800308)
 
 Personenbezogene medizinische Daten, die im Rahmen der Untersuchungen
 nach dem Wehrpflichtgesetz in zivilen medizinischen Einrichtungen oder
@@ -172,11 +180,13 @@ erforderlich ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE000900308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wpersav/BJNR316900998.html#BJNR316900998BJNE001000308)
 
 Der Bundesrat hat zugestimmt.
 

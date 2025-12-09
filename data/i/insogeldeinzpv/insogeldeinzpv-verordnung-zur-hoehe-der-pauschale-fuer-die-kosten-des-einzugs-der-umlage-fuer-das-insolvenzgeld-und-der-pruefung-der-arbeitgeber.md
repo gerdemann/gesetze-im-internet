@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000100000)
 
 Auf Grund des § 361 Satz 1 Nr. 2 des Dritten Buches Sozialgesetzbuch –
 Arbeitsförderung – (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -30,6 +31,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Höhe der Einzugskostenvergütung an die Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000200000)
 
 (1) Die von der Bundesagentur für Arbeit an die Krankenkassen zu
 zahlende pauschale Vergütung für den Einzug der Umlage für das
@@ -48,6 +50,7 @@ Insolvenzgeld beträgt jährlich 732 000 Euro.
 
 
 ## § 2 Verteilung der Einzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000301308)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 erhält jährlich 3 Prozent der Einzugskostenvergütung nach § 1 Abs. 1.
@@ -63,6 +66,7 @@ Absatz 2 genannten Relationen aufgeteilt.
 
 
 ## § 3 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die Träger der Deutschen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000400000)
 
 (1) Die von der Bundesagentur für Arbeit zu zahlende pauschale
 Vergütung für die Prüfung der Arbeitgeber (§ 358 Abs. 3 Satz 2 des
@@ -76,6 +80,7 @@ Million Euro abgegolten.
 
 
 ## § 4 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die landwirtschaftliche Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000501308)
 
 (1) Die von der Bundesagentur für Arbeit an die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau zu zahlende pauschale Vergütung
@@ -90,6 +95,7 @@ Euro.
 
 
 ## § 5 Fälligkeit und Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000601308)
 
 (1) Die Einzugskostenvergütung nach § 1 Abs. 1 und 3 wird in
 monatlichen Teilbeträgen geleistet und ist jeweils am 15. des
@@ -139,11 +145,13 @@ leisten.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000700000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2009 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/insogeldeinzpv/BJNR000400009.html#BJNR000400009BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

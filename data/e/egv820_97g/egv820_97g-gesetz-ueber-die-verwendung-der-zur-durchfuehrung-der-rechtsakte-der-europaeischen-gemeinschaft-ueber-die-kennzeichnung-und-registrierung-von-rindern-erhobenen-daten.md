@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000107377)
 
 (1) Dieses Gesetz dient der Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union über die
@@ -41,6 +42,7 @@ Rechtsverordnungen geregelt ist.
 
 
 ## § 2 Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000211119)
 
 (1) Die zuständigen Behörden oder die von diesen beauftragten Stellen
 übermitteln Daten, die
@@ -143,6 +145,7 @@ zuständigen Behörde oder der von ihr beauftragten Stelle.
 
 
 ## § 3 Auskunft an den Tierhalter
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000305119)
 
 (1) Ein Tierhalter kann Auskunft verlangen über die Daten, die er nach
 den Vorschriften der Viehverkehrsverordnung über die Kennzeichnung und
@@ -207,6 +210,7 @@ geltenden Fassung bleibt unberührt.
 
 
 ## § 4 Aufbewahrung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000403377)
 
 Die in § 2 Abs. 1 Satz 1 bezeichneten und bei der zuständigen Behörde
 oder der von dieser beauftragten Stelle gespeicherten Daten sind für
@@ -219,6 +223,7 @@ Aufbewahrungsfrist besteht, bleiben unberührt.
 
 
 ## § 5 Technische und organisatorische Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000504119)
 
 (1) Hinsichtlich der technischen und organisatorischen Maßnahmen sind
 die Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu beachten.
@@ -229,6 +234,7 @@ festgestellt und überprüft werden kann.
 
 
 ## § 6 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/egv820_97g/BJNR248910999.html#BJNR248910999BJNE000605301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das

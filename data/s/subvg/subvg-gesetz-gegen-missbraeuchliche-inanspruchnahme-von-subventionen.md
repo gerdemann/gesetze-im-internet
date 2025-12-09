@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000100306)
 
 (1) Dieses Gesetz gilt, soweit Absatz 2 nichts anderes bestimmt, für
 Leistungen, die Subventionen im Sinne des § 264 des Strafgesetzbuches
@@ -29,6 +30,7 @@ Landesrecht dies bestimmt.
 
 
 ## § 2 Bezeichnung der subventionserheblichen Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000200306)
 
 (1) Die für die Bewilligung einer Subvention zuständige Behörde oder
 andere in das Subventionsverfahren eingeschaltete Stelle oder Person
@@ -66,6 +68,7 @@ Strafgesetzbuches zu bezeichnen.
 
 
 ## § 3 Offenbarungspflicht bei der Inanspruchnahme von Subventionen
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000300306)
 
 (1) Der Subventionsnehmer ist verpflichtet, dem Subventionsgeber
 unverzüglich alle Tatsachen mitzuteilen, die der Bewilligung,
@@ -83,6 +86,7 @@ anzuzeigen.
 
 
 ## § 4 Scheingeschäfte, Mißbrauch von Gestaltungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000400306)
 
 (1) Scheingeschäfte und Scheinhandlungen sind für die Bewilligung,
 Gewährung, Rückforderung und Weitergewährung oder das Belassen einer
@@ -107,6 +111,7 @@ werden.
 
 
 ## § 5 Herausgabe von Subventionsvorteilen
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000500306)
 
 (1) Wer einen Gegenstand oder eine Geldleistung, deren Verwendung
 durch Gesetz oder durch den Subventionsgeber im Hinblick auf eine
@@ -126,6 +131,7 @@ unberührt.
 
 
 ## § 6 Anzeige bei Verdacht eines Subventionsbetrugs
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000600306)
 
 Gerichte und Behörden von Bund, Ländern und kommunalen Trägern der
 öffentlichen Verwaltung haben Tatsachen, die sie dienstlich erfahren
@@ -134,6 +140,7 @@ Strafverfolgungsbehörden mitzuteilen.
 
 
 ## § 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000700306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -141,6 +148,7 @@ im Land Berlin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/subvg/BJNR020370976.html#BJNR020370976BJNE000800306)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Monats in Kraft.

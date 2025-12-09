@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## - - Zu § 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000103301)
 
 
 
 ### § 1 Stehender Gewerbebetrieb
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE001704301)
 
 Stehender Gewerbebetrieb ist jeder Gewerbebetrieb, der kein
 Reisegewerbebetrieb im Sinne des § 35a Abs. 2 des Gesetzes ist.
 
 
 ### § 2 Betriebe der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE001804140)
 
 (1)
 1Unternehmen von juristischen Personen des öffentlichen Rechts sind
@@ -53,11 +56,13 @@ Monopolrechte nicht aus.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE001903301)
 
 (weggefallen)
 
 
 ### § 4 Aufgabe, Auflösung und Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002004301)
 
 (1) Ein Gewerbebetrieb, der aufgegeben oder aufgelöst wird, bleibt
 Steuergegenstand bis zur Beendigung der Aufgabe oder Abwicklung.
@@ -67,6 +72,7 @@ Insolvenzverfahrens über das Vermögen des Unternehmers nicht berührt.
 
 
 ### § 5 Betriebsstätten auf Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002103301)
 
 Ein Gewerbebetrieb wird gewerbesteuerlich insoweit nicht im Inland
 betrieben, als für ihn eine Betriebsstätte auf einem Kauffahrteischiff
@@ -76,6 +82,7 @@ einem inländischen Schiffsregister eingetragen ist.
 
 
 ### § 6 Binnen- und Küstenschifffahrtsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002203301)
 
 Bei Binnen- und Küstenschifffahrtsbetrieben, die feste örtliche
 Anlagen oder Einrichtungen zur Ausübung des Gewerbes nicht
@@ -84,11 +91,13 @@ als Heimathafen (Heimatort) im Schiffsregister eingetragen ist.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002304301)
 
 (weggefallen)
 
 
 ### § 8 Zusammenfassung mehrerer wirtschaftlicher Geschäftsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002404123)
 
 Werden von einer sonstigen juristischen Person des privaten Rechts
 oder einem Verein ohne Rechtspersönlichkeit (§ 2 Abs. 3 des Gesetzes)
@@ -97,19 +106,23 @@ als ein einheitlicher Gewerbebetrieb.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002503301)
 
 (weggefallen)
 
 
 ## - - Zu § 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000203301)
 
 
 
 ### (XXXX) §§ 10 bis 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002603301)
 
 
 
 ### § 12a Kleinere Versicherungsvereine
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002704377)
 
 Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
 des Versicherungsaufsichtsgesetzes sind von der Gewerbesteuer befreit,
@@ -118,6 +131,7 @@ Körperschaftsteuer befreit sind.
 
 
 ### § 13 Einnehmer einer staatlichen Lotterie
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002803301)
 
 Die Tätigkeit der Einnehmer einer staatlichen Lotterie unterliegt auch
 dann nicht der Gewerbesteuer, wenn sie im Rahmen eines Gewerbebetriebs
@@ -125,15 +139,18 @@ ausgeübt wird.
 
 
 ## - - Zu § 4 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000303301)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE002903301)
 
 (weggefallen)
 
 
 ### § 15 Hebeberechtigte Gemeinde bei Gewerbebetrieben auf Schiffen und bei Binnen- und Küstenschifffahrtsbetrieben
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003003301)
 
 Hebeberechtigte Gemeinde für die Betriebsstätten auf
 Kauffahrteischiffen, die in einem inländischen Schiffsregister
@@ -145,10 +162,12 @@ liegt.
 
 
 ## - - Zu den §§ 7, 8 und 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000403301)
 
 
 
 ### § 16 Gewerbeertrag bei Abwicklung und Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003105301)
 
 (1) Der Gewerbeertrag, der bei einem in der Abwicklung befindlichen
 Gewerbebetrieb im Sinne des § 2 Abs. 2 des Gesetzes im Zeitraum der
@@ -160,14 +179,17 @@ des Unternehmens ein Insolvenzverfahren eröffnet worden ist.
 
 
 ### (XXXX) §§ 17 und 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003204301)
 
 
 
 ## - - Zu § 8 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000604301)
 
 
 
 ### § 19 Schulden bestimmter Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003416123)
 
 (1)
 1Bei Kreditinstituten im Sinne des § 1 Absatz 1 in Verbindung mit § 2
@@ -249,10 +271,12 @@ entfallen.
 
 
 ## - - Zu § 9 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000703301)
 
 
 
 ### § 20 Grundbesitz
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003507123)
 
 1Die Frage, ob und inwieweit im Sinne des § 9 Nr. 1 des Gesetzes
 Grundbesitz zum Betriebsvermögen des Unternehmers gehört, ist nach den
@@ -262,15 +286,18 @@ Körperschaftsteuergesetzes zu entscheiden.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003605301)
 
 (weggefallen)
 
 
 ## - - Zu § 11 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG000903301)
 
 
 
 ### § 22 Hausgewerbetreibende und ihnen gleichgestellte Personen
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003704301)
 
 1Betreibt ein Hausgewerbetreibender oder eine ihm gleichgestellte
 Person noch eine andere gewerbliche Tätigkeit und sind beide
@@ -280,14 +307,17 @@ Gesetzes nur anzuwenden, wenn die andere Tätigkeit nicht überwiegt.
 
 
 ### (XXXX) §§ 23 und 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE003903301)
 
 
 
 ## - - Zu § 14a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG001104301)
 
 
 
 ### § 25 Gewerbesteuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004015123)
 
 (1) Eine Gewerbesteuererklärung ist abzugeben
 
@@ -343,14 +373,17 @@ unberührt.
 
 
 ### (XXXX) §§ 26 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004203301)
 
 
 
 ## - - Zu § 19 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG001203301)
 
 
 
 ### § 29 Anpassung und erstmalige Festsetzung der Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004306301)
 
 (1)
 1Setzt das Finanzamt nach § 19 Abs. 3 Satz 3 des Gesetzes einen
@@ -387,6 +420,7 @@ Vorauszahlungen erstmals gilt.
 
 
 ### § 30 Verlegung von Betriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004403301)
 
 1Wird eine Betriebsstätte in eine andere Gemeinde verlegt, so sind die
 Vorauszahlungen in dieser Gemeinde von dem auf die Verlegung folgenden
@@ -397,14 +431,17 @@ bleibt.
 
 
 ### (XXXX) §§ 31 bis 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004503301)
 
 
 
 ## - - Zu § 34 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG001403301)
 
 
 
 ### § 34 Kleinbeträge bei Verlegung der Geschäftsleitung
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004804301)
 
 Hat das Unternehmen die Geschäftsleitung im Laufe des
 Erhebungszeitraums in eine andere Gemeinde verlegt, so ist der
@@ -413,10 +450,12 @@ am Ende des Erhebungszeitraums befindet.
 
 
 ## - - Zu § 35a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG001503301)
 
 
 
 ### § 35 Reisegewerbebetriebe
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE004904301)
 
 (1)
 1Der Mittelpunkt der gewerblichen Tätigkeit befindet sich in der
@@ -447,10 +486,12 @@ längste Zeit befunden hat.
 
 
 ## - - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNG001603301)
 
 
 
 ### § 36 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gewstdv_1955/BJNR001520956.html#BJNR001520956BJNE005025123)
 
 1Die vorstehende Fassung dieser Verordnung ist erstmals für den
 Erhebungszeitraum 2021 anzuwenden.

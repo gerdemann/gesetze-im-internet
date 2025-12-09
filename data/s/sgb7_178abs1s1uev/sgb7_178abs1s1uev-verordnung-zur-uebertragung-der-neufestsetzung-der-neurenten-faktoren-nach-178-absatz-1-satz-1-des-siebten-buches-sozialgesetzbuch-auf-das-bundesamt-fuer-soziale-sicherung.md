@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb7_178abs1s1_v/BJNR1740C0024.html#BJNR1740C0024BJNE000100000)
 
 Das Bundesamt für Soziale Sicherung setzt die Neurenten-Faktoren nach
 § 178 Absatz 1 Satz 1 des Siebten Buches Sozialgesetzbuch durch

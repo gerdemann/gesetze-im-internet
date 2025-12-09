@@ -27,6 +27,7 @@ Stand: Ersetzt V 806-21-1-161 v. 7.1.1991 I 38 (FlGlasMAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -36,9 +37,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000300000)
 
 Der Ausbildungsberuf des Flachglastechnologen und der
 Flachglastechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
@@ -46,11 +49,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -68,6 +73,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -135,6 +141,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -142,9 +149,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNG000200000)
 
 
 ### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -156,6 +165,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -172,6 +182,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001000000)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -186,6 +197,7 @@ statt:
 
 
 ### § 9 Prüfungsbereich Manuelle Flachglasbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001100000)
 
 (1) Im Prüfungsbereich Manuelle Flachglasbearbeitung soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -225,6 +237,7 @@ und 30 Minuten.
 
 
 ### § 10 Prüfungsbereich Flachglasveredlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001200000)
 
 (1) Im Prüfungsbereich Flachglasveredlungsverfahren soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -246,6 +259,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 11 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001300000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -267,6 +281,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 12 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001400000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -284,6 +299,7 @@ statt:
 
 
 ### § 13 Prüfungsbereich Maschinelle Flachglasbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001500000)
 
 (1) Im Prüfungsbereich Maschinelle Flachglasbearbeitung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -330,6 +346,7 @@ Arbeitsprobe beträgt die Prüfungszeit 90 Minuten.
 
 
 ### § 14 Prüfungsbereich Technologie der Flachglasbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001600000)
 
 (1) Im Prüfungsbereich Technologie der Flachglasbearbeitung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -362,6 +379,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -375,6 +393,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -465,9 +484,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNG000300000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
 die Flachglasmechaniker-Ausbildungsverordnung vom 7. Januar 1991
@@ -476,6 +497,7 @@ die Flachglasmechaniker-Ausbildungsverordnung vom 7. Januar 1991
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin
+[Direktlink](https://www.gesetze-im-internet.de/flglastechausbv/BJNR043100018.html#BJNR043100018BJNE002000000)
 
 (Fundstelle: BGBl. I 2018, 435 - 437)
 

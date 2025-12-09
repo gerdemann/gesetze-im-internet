@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 9290-13-2 v. 24.6.2003 I 1003 (LKW-MautV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000100000)
 
 Auf Grund des § 4 Absatz 4 Satz 3, Absatz 5 Satz 2 und des § 5 Satz 2
 und 3 des Bundesfernstraßenmautgesetzes, von denen § 4 Absatz 4 Satz 3
@@ -34,6 +35,7 @@ Infrastruktur:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000201123)
 
 Diese Verordnung regelt
 
@@ -55,6 +57,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Maßgebliche Tatsachen für die Mauterhebung
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000303123)
 
 Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
@@ -96,6 +99,7 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 
 ## § 3 Mauterhebungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000401123)
 
 (1) Der Mautschuldner kann die Maut wahlweise über ein manuelles
 Mauterhebungssystem, ein teilautomatisches Mauterhebungssystem oder
@@ -108,6 +112,7 @@ verantwortlich.
 
 
 ## § 4 Manuelles Mauterhebungssystem
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000501123)
 
 (1) Die manuelle Einbuchung kann über die Internetseite oder eine für
 mobile Endgeräte bereitgestellte Software (mobile Applikation)
@@ -134,6 +139,7 @@ sowie der für die Durchführung der Fahrt zulässige Zeitraum
 
 
 ## § 5 Automatisches Mauterhebungssystem
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000603123)
 
 (1) Die Teilnahme an dem automatischen Mauterhebungssystem erfordert
 die Anmeldung des Mautschuldners beim Betreiber oder einem Anbieter
@@ -206,6 +212,7 @@ es sei denn, er kann vorher
 
 
 ## § 5a Teilautomatisches Mauterhebungssystem
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE001300123)
 
 (1) Die Teilnahme an dem teilautomatischen Mauterhebungssystem erfolgt
 über eine vom Betreiber bereitgestellte Applikation für mobile
@@ -232,6 +239,7 @@ Mobilfunkkosten trägt der Mautschuldner.
 
 
 ## § 6 Nachweis der Richtigkeit der mautrelevanten Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000702123)
 
 (1) Der Mautschuldner ist verpflichtet, auf Verlangen des Betreibers,
 eines Anbieters nach den §§ 4e und 4f des
@@ -254,6 +262,7 @@ betroffene Fahrzeug festzustellen.
 
 
 ## § 7 Nachweis der Schadstoffklasse
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000803123)
 
 (1) Der Nachweis der Schadstoffklasse kann insbesondere erbracht
 werden durch Vorlage
@@ -347,6 +356,7 @@ Die Kosten der Übersetzung hat der Mautschuldner zu tragen.
 
 
 ## § 8 Nachweis der Kohlenstoffdioxid-Emissionsklasse
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE000902123)
 
 (1) Der Nachweis der Kohlenstoffdioxid-Emissionsklasse kann
 insbesondere erbracht werden durch Vorlage
@@ -399,6 +409,7 @@ Satz 2 bis 4 ist anzuwenden.
 
 
 ## § 9 Stornierung
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE001001123)
 
 (1) Stornierungen erfolgen entweder als Vollstornierung für die
 gesamte gebuchte Strecke oder als Teilstornierung für den noch nicht
@@ -421,6 +432,7 @@ Tatsachen wahrheitsgemäß und vollständig anzugeben.
 
 
 ## § 10 Mauterstattung
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE001102123)
 
 (1) Falls eine Voll- oder Teilstornierung gemäß § 9 ausgeschlossen
 ist, kann der Mautschuldner eine Erstattung nur dann verlangen, wenn
@@ -457,6 +469,7 @@ mit dem Erstattungsbetrag verrechnet.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lkw-mautv_2018/BJNR115600018.html#BJNR115600018BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I

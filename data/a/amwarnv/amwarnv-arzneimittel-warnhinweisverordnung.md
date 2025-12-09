@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amwarnv/BJNR000220985.html#BJNR000220985BJNE000100314)
 
 Auf Grund des § 12 Abs. 1 Nr. 1 und 3 des Arzneimittelgesetzes vom 24.
 August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/amwarnv/BJNR000220985.html#BJNR000220985BJNE000202126)
 
 Fertigarzneimittel nach § 4 Absatz 1 des Arzneimittelgesetzes, die am
 1\. Juni 2022 mit einem Warnhinweis nach den Vorschriften dieser
@@ -39,11 +41,13 @@ dem 30. Juni 2025 weiterhin in den Verkehr bringen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/amwarnv/BJNR000220985.html#BJNR000220985BJNE000401126)
 
 § 2 tritt am 1. Juli 2023 außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/amwarnv/BJNR000220985.html#BJNR000220985BJNE000800314)
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 

@@ -24,9 +24,11 @@ Zuletzt geändert durch
 Stand: Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000201119)
 
 (1) Zweck dieses Gesetzes ist es, durch technologieneutrale
 Regulierung den Wettbewerb im Bereich der Telekommunikation und
@@ -45,6 +47,7 @@ Verpflichteten.
 
 
 ### § 2 Ziele und Grundsätze der Regulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000301119)
 
 (1) Die Regulierung der Telekommunikation ist eine hoheitliche Aufgabe
 des Bundes.
@@ -182,6 +185,7 @@ medienrechtlichen Bestimmungen der Länder bleiben unberührt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000403119)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -848,6 +852,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ### § 4 Internationale Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000500000)
 
 Die Betreiber öffentlicher Telekommunikationsnetze und die Anbieter
 öffentlich zugänglicher Telekommunikationsdienste müssen der
@@ -859,6 +864,7 @@ Gremien erfüllen zu können.
 
 
 ### § 5 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000600000)
 
 (1) Wer gewerblich öffentliche Telekommunikationsnetze betreibt oder
 gewerblich öffentlich zugängliche Telekommunikationsdienste erbringt,
@@ -892,6 +898,7 @@ Wege die nach Absatz 2 eingegangenen Formulardaten.
 
 
 ### § 6 Jahresfinanzbericht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000700000)
 
 (1) Unternehmen, die
 
@@ -949,6 +956,7 @@ entsprechend anzuwenden.
 
 
 ### § 7 Strukturelle Separierung und getrennte Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000800000)
 
 (1) Unternehmen, die öffentliche Telekommunikationsnetze betreiben
 oder öffentlich zugängliche Telekommunikationsdienste erbringen und
@@ -998,6 +1006,7 @@ als 50 000 000 Euro betragen haben.
 
 
 ### § 8 Ordnungsgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE000901119)
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
 Handelsgesetzbuchs sind auf die Verletzung der Pflichten zur
@@ -1042,6 +1051,7 @@ bekannt werdenden Unternehmen, die
 
 
 ### § 9 Internationaler Status
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001000000)
 
 (1) Unternehmen, die internationale Telekommunikationsdienste
 erbringen oder die im Rahmen ihres Angebots Funkanlagen betreiben, die
@@ -1071,12 +1081,15 @@ Internationalen Fernmeldeunion
 
 
 ## Teil 2 - Marktregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000200000)
 
 
 ### Abschnitt 1 - Verfahren der Marktregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000300000)
 
 
 #### § 10 Marktdefinition
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001100000)
 
 (1) Die Bundesnetzagentur legt im Rahmen des ihr zustehenden
 Beurteilungsspielraums unter Berücksichtigung der Ziele und Grundsätze
@@ -1118,6 +1131,7 @@ länderübergreifenden Nachfrage weitestgehend Rechnung.
 
 
 #### § 11 Marktanalyse
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001200000)
 
 (1) Bei den nach § 10 Absatz 1 festgelegten Märkten prüft die
 Bundesnetzagentur im Rahmen der Marktanalyse, ob diese nach Absatz 2
@@ -1205,6 +1219,7 @@ jeweils geltenden Fassung weitestgehend Rechnung.
 
 
 #### § 12 Konsultations- und Konsolidierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001301119)
 
 (1) Die Bundesnetzagentur gibt den interessierten Parteien
 Gelegenheit, innerhalb einer angemessenen Frist, die in der Regel
@@ -1303,6 +1318,7 @@ Marktanalyse nach den §§ 10 und 11 jederzeit zurückziehen.
 
 
 #### § 13 Regulierungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001400000)
 
 (1) Die Bundesnetzagentur erlegt Unternehmen, die über beträchtliche
 Marktmacht verfügen, Verpflichtungen nach den §§ 24 bis 30, 38 oder 49
@@ -1393,6 +1409,7 @@ Verwaltungsakt.
 
 
 #### § 14 Verfahren der Regulierungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001500000)
 
 (1) Die Bundesnetzagentur legt in der Regel innerhalb von sechs
 Monaten nach Veröffentlichung der Ergebnisse von Marktdefinition und
@@ -1468,6 +1485,7 @@ nach § 13 jederzeit zurückziehen.
 
 
 #### § 15 Überprüfung von Marktdefinition, Marktanalyse und Regulierungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001600000)
 
 (1) Werden der Bundesnetzagentur Tatsachen bekannt oder bekannt
 gemacht, prüft sie innerhalb von sechs Wochen, ob diese Tatsachen die
@@ -1533,6 +1551,7 @@ begonnen hat.
 
 
 #### § 16 Verfahren bei sonstigen marktrelevanten Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001700000)
 
 Außer in den Fällen der §§ 10, 11 und 13 hat die Bundesnetzagentur bei
 allen Maßnahmen, die beträchtliche Auswirkungen auf den betreffenden
@@ -1542,6 +1561,7 @@ Absatz 7 gilt entsprechend.
 
 
 #### § 17 Verwaltungsvorschriften zu Regulierungsgrundsätzen und Anträge auf Auskunft über den Regulierungsrahmen für Netze mit sehr hoher Kapazität
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001800000)
 
 (1) Zur Verfolgung eines einheitlichen Regulierungskonzepts im Sinne
 von § 2 Absatz 3 Nummer 1 kann die Bundesnetzagentur
@@ -1602,6 +1622,7 @@ Konsultations- und Konsolidierungsverfahren nach § 14 entsprechend.
 
 
 #### § 18 Verpflichtungszusagen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE001900000)
 
 (1) Unternehmen mit beträchtlicher Marktmacht können der
 Bundesnetzagentur zu den für ihre Telekommunikationsnetze geltenden
@@ -1706,6 +1727,7 @@ Unternehmen gewährleisten.
 
 
 #### § 19 Marktprüfungsverfahren für Verpflichtungszusagen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002000000)
 
 (1) Die Bundesnetzagentur erklärt Verpflichtungszusagen des
 Unternehmens mit beträchtlicher Marktmacht regelmäßig für den
@@ -1749,12 +1771,15 @@ diesem Zweck auffordern, jährliche Konformitätserklärungen abzugeben.
 
 
 ### Abschnitt 2 - Zugangsregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000400000)
 
 
 #### Unterabschnitt 1 - Allgemeine Zugangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000500000)
 
 
 ##### § 20 Verhandlungen über Zugang und Zusammenschaltung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002100000)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze sind berechtigt und
 auf Verlangen anderer Unternehmen verpflichtet, mit diesen über ein
@@ -1776,6 +1801,7 @@ sofern die Wettbewerbslage dies erfordert.
 
 
 ##### § 21 Zugangsverpflichtung und Zusammenschaltung bei Kontrolle über Zugang zu Endnutzern
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002200000)
 
 (1) Die Bundesnetzagentur kann Unternehmen, die den Zugang zu
 Endnutzern kontrollieren,
@@ -1836,6 +1862,7 @@ Aufhebung angemessen wäre.
 
 
 ##### § 22 Zugangsverpflichtung bei Hindernissen der Replizierbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002300000)
 
 (1) Die Bundesnetzagentur kann Unternehmen verpflichten, anderen
 Unternehmen Zugang zu ihrem Netz an einem Punkt jenseits des ersten
@@ -1911,6 +1938,7 @@ und darauf, ob deren Änderung oder Aufhebung angemessen wäre.
 
 
 ##### § 23 Zugangsvereinbarungen bei Kontrolle über Zugang zu Endnutzern oder bei Hindernissen der Replizierbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002400000)
 
 (1) Ein Unternehmen, dem eine Verpflichtung nach § 21 oder 22
 auferlegt worden ist, hat anderen Unternehmen, die diese
@@ -1923,9 +1951,11 @@ vorzulegen.
 
 
 #### Unterabschnitt 2 - Zugangsvorschriften für Unternehmen mit beträchtlicher Marktmacht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000600000)
 
 
 ##### § 24 Diskriminierungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002500000)
 
 (1) Die Bundesnetzagentur kann Unternehmen mit beträchtlicher
 Marktmacht verpflichten, dass Zugangsvereinbarungen auf objektiven
@@ -1943,6 +1973,7 @@ gewährleisten.
 
 
 ##### § 25 Transparenzverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002600000)
 
 (1) Die Bundesnetzagentur kann Unternehmen mit beträchtlicher
 Marktmacht verpflichten, alle für den Zugang benötigten Informationen
@@ -1983,6 +2014,7 @@ einsehen können.
 
 
 ##### § 26 Zugangsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002700000)
 
 (1) Die Bundesnetzagentur kann ein Unternehmen mit beträchtlicher
 Marktmacht verpflichten, anderen Unternehmen Zugang zu gewähren, wenn
@@ -2126,6 +2158,7 @@ aus technischen Gründen nicht oder nur eingeschränkt möglich ist.
 
 
 ##### § 27 Verpflichtungen zur einheitlichen Rechnungsstellung und Inkasso
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002800000)
 
 (1) Die Bundesnetzagentur kann ein Unternehmen mit beträchtlicher
 Marktmacht verpflichten, Dienstleistungen im Bereich der einheitlichen
@@ -2203,6 +2236,7 @@ der Vereinbarung niedergelegten Bedingungen gewährt.
 
 
 ##### § 28 Zugangsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE002900000)
 
 (1) Ein Unternehmen mit beträchtlicher Marktmacht, dem eine
 Zugangsverpflichtung nach § 26 oder 27 auferlegt worden ist, hat
@@ -2216,6 +2250,7 @@ vorzulegen.
 
 
 ##### § 29 Standardangebot
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003000000)
 
 (1) Die Bundesnetzagentur kann ein Unternehmen mit beträchtlicher
 Marktmacht verpflichten, ein Standardangebot für die folgenden
@@ -2297,6 +2332,7 @@ Allgemeinen Geschäftsbedingungen aufzunehmen.
 
 
 ##### § 30 Getrennte Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003100000)
 
 (1) Die Bundesnetzagentur kann einem Unternehmen mit beträchtlicher
 Marktmacht für bestimmte Tätigkeiten im Zusammenhang mit
@@ -2319,9 +2355,11 @@ Betriebsgeheimnissen zu beachten.
 
 
 #### Unterabschnitt 3 - Sonstige Zugangsvorschriften für Unternehmen mit beträchtlicher Marktmacht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000700000)
 
 
 ##### § 31 Verpflichtung zur funktionellen Trennung eines vertikal integrierten Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003200000)
 
 (1) Gelangt die Bundesnetzagentur zu dem Schluss, dass die nach § 13
 Absatz 1 auferlegten Verpflichtungen nicht zu einem wirksamen
@@ -2413,6 +2451,7 @@ jede der Verpflichtungen nach § 13 Absatz 1 auferlegt werden.
 
 
 ##### § 32 Freiwillige funktionelle Trennung durch ein vertikal integriertes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003300000)
 
 (1) Ein vertikal integriertes Unternehmen mit beträchtlicher
 Marktmacht unterrichtet die Bundesnetzagentur mindestens drei Monate
@@ -2442,6 +2481,7 @@ nach § 2 nicht ausreichen. § 33 bleibt unberührt.
 
 
 ##### § 33 Ausschließlich auf der Vorleistungsebene tätige Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003400000)
 
 (1) Die Bundesnetzagentur kann einem Unternehmen mit beträchtlicher
 Marktmacht, das auf keinem Endkundenmarkt für öffentlich zugängliche
@@ -2482,6 +2522,7 @@ Tatsachen im Sinne von Satz 1.
 
 
 ##### § 34 Migration von herkömmlichen Infrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003500000)
 
 (1) Beabsichtigt ein Unternehmen mit beträchtlicher Marktmacht, Teile
 seines Telekommunikationsnetzes außer Betrieb zu nehmen oder durch
@@ -2544,9 +2585,11 @@ entsprechende Anwendung auf den Verkaufsprozess.
 
 
 #### Unterabschnitt 4 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000800000)
 
 
 ##### § 35 Anordnungen im Rahmen der Zugangsregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003600000)
 
 (1) Kommt eine Zugangsvereinbarung nach § 23 oder 28 ganz oder
 teilweise nicht zustande und liegen die nach diesem Gesetz
@@ -2615,6 +2658,7 @@ bis zu einer Million Euro festsetzen.
 
 
 ##### § 36 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003700000)
 
 Die Bundesnetzagentur veröffentlicht die nach diesem Abschnitt
 getroffenen Maßnahmen unter Wahrung von Betriebs- oder
@@ -2622,12 +2666,15 @@ Geschäftsgeheimnissen der betroffenen Unternehmen.
 
 
 ### Abschnitt 3 - Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG000900000)
 
 
 #### Unterabschnitt 1 - Entgeltvorschriften für Zugangsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001000000)
 
 
 ##### § 37 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht bei der Forderung und Vereinbarung von Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003800000)
 
 (1) Ein Unternehmen mit beträchtlicher Marktmacht darf diese Stellung
 bei der Forderung und Vereinbarung von Entgelten gegenüber Endnutzern
@@ -2693,6 +2740,7 @@ im Sinne von Absatz 1 Satz 2 Nummer 2 wird vermutet, wenn
 
 
 ##### § 38 Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE003900000)
 
 (1) Die Bundesnetzagentur kann Unternehmen mit beträchtlicher
 Marktmacht verpflichten, Entgelte für Zugangsleistungen zur
@@ -2794,6 +2842,7 @@ entsprechend.
 
 
 ##### § 39 Maßstäbe der Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004000000)
 
 (1) Die Bundesnetzagentur genehmigt nach § 38 Absatz 1 Satz 1 oder
 Absatz 3 Satz 2 vorgelegte Entgelte
@@ -2825,6 +2874,7 @@ bestimmen.
 
 
 ##### § 40 Verfahren der Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004100000)
 
 (1) Unterliegen Entgelte einer Genehmigungspflicht nach § 38, ist vor
 dem beabsichtigten Inkrafttreten bei der Bundesnetzagentur ein Antrag
@@ -2880,6 +2930,7 @@ Verfahrenseinleitung.
 
 
 ##### § 41 Rechtsschutz bei Verfahren der Entgeltgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004200000)
 
 (1) Enthalten Entgeltgenehmigungen die vollständige oder teilweise
 Genehmigung eines vertraglich bereits vereinbarten Entgelts, so wirken
@@ -2929,6 +2980,7 @@ gerichtet sind.
 
 
 ##### § 42 Kosten der effizienten Leistungsbereitstellung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004300000)
 
 (1) Die Kosten der effizienten Leistungsbereitstellung umfassen die
 langfristigen zusätzlichen Kosten der Leistungsbereitstellung und
@@ -2980,6 +3032,7 @@ Absatz 2 berücksichtigt werden.
 
 
 ##### § 43 Kostenunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004400000)
 
 (1) Vorzulegende Kostenunterlagen in den Verfahren nach § 40 Absatz 1
 und 2 sind insbesondere
@@ -3074,6 +3127,7 @@ grundsätzlich antragsübergreifend einheitlich anzuwenden.
 
 
 ##### § 44 Abweichung von genehmigten Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004500000)
 
 (1) Unterliegen Entgelte eines Unternehmens mit beträchtlicher
 Marktmacht einer Genehmigungspflicht nach § 38, darf das Unternehmen
@@ -3095,6 +3149,7 @@ untersagen.
 
 
 ##### § 45 Verfahren der Entgeltanzeige
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004600000)
 
 (1) Hat die Bundesnetzagentur das Unternehmen mit beträchtlicher
 Marktmacht nach § 38 verpflichtet, Entgelte zur Anzeige zu bringen,
@@ -3109,6 +3164,7 @@ weitere Prüfung geht die Bundesnetzagentur nach § 46 vor.
 
 
 ##### § 46 Nachträgliche Missbrauchsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004700000)
 
 (1) Werden der Bundesnetzagentur Tatsachen bekannt oder bekannt
 gemacht, die die Annahme rechtfertigen, dass Entgelte für
@@ -3149,9 +3205,11 @@ hat.
 
 
 #### Unterabschnitt 2 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001100000)
 
 
 ##### § 47 Anordnungen im Rahmen der Entgeltregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004800000)
 
 (1) Die Bundesnetzagentur kann im Rahmen oder zur Vorbereitung von
 Verfahren der Entgeltregulierung nach diesem Abschnitt anordnen, dass
@@ -3195,6 +3253,7 @@ sachgerechten Ausübung der Entgeltregulierung erforderlich ist.
 
 
 ##### § 48 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE004900000)
 
 (1) Die Bundesnetzagentur veröffentlicht nach Unterabschnitt 1
 auferlegte Entgeltmaßnahmen.
@@ -3206,9 +3265,11 @@ entgeltrelevanter Bestandteile zu veröffentlichen ist.
 
 
 ### Abschnitt 4 - Regulierung von Endnutzerleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001200000)
 
 
 #### § 49 Regulierung von Endnutzerleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005000000)
 
 (1) Rechtfertigen Tatsachen die Annahme, dass die Verpflichtungen im
 Zugangsbereich nach Abschnitt 2 Unterabschnitt 2 sowie nach Abschnitt
@@ -3224,9 +3285,11 @@ gilt entsprechend.
 
 
 ### Abschnitt 5 - Besondere Missbrauchsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001300000)
 
 
 #### § 50 Missbräuchliches Verhalten eines Unternehmens mit beträchtlicher Marktmacht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005100000)
 
 (1) Ein Unternehmen mit beträchtlicher Marktmacht darf diese Stellung
 gegenüber Endnutzern oder gegenüber anderen Unternehmen nicht
@@ -3276,9 +3339,11 @@ unwirksam erklären.
 
 
 ## Teil 3 - Kundenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001400000)
 
 
 ### § 51 Nichtdiskriminierung, Berücksichtigung der Interessen von Endnutzern mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005200000)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze und Anbieter
 öffentlich zugänglicher Telekommunikationsdienste dürfen gegenüber
@@ -3335,6 +3400,7 @@ fest.
 
 
 ### § 52 Transparenz, Veröffentlichung von Informationen und Dienstemerkmalen zur Kostenkontrolle; Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005301119)
 
 (1) Anbieter von Internetzugangsdiensten und öffentlich zugänglichen
 interpersonellen Telekommunikationsdiensten, die die Erbringung der
@@ -3487,6 +3553,7 @@ Bundesnetzagentur oder für Dritte kostenlos.
 
 
 ### § 53 Unabhängige Vergleichsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005400000)
 
 (1) Die Bundesnetzagentur stellt sicher, dass Verbraucher kostenlosen
 Zugang zu mindestens einem unabhängigen Vergleichsinstrument haben,
@@ -3564,6 +3631,7 @@ kostenlose Nutzung in offenen Datenformaten ermöglichen.
 
 
 ### § 54 Vertragsschluss und Vertragszusammenfassung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005500000)
 
 (1) Bevor ein Verbraucher seine Vertragserklärung abgibt, hat der
 Anbieter anderer öffentlich zugänglicher Telekommunikationsdienste als
@@ -3643,6 +3711,7 @@ etwas anderes vereinbart.
 
 
 ### § 55 Informationsanforderungen für Verträge
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005600000)
 
 (1) Bevor ein Verbraucher seine Vertragserklärung abgibt, hat der
 Anbieter anderer öffentlich zugänglicher Telekommunikationsdienste als
@@ -3709,6 +3778,7 @@ insbesondere dargestellt wird, inwiefern
 
 
 ### § 56 Vertragslaufzeit, Kündigung nach stillschweigender Vertragsverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005700000)
 
 (1) Die anfängliche Laufzeit eines Vertrages zwischen einem
 Verbraucher und einem Anbieter öffentlich zugänglicher
@@ -3773,6 +3843,7 @@ können. Die Bundesnetzagentur kann den angemessenen Zeitraum nach Satz
 
 
 ### § 57 Vertragsänderung, Minderung und außerordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005800000)
 
 (1) Hat ein Anbieter öffentlich zugänglicher Telekommunikationsdienste
 sich durch Allgemeine Geschäftsbedingungen vorbehalten, einen Vertrag
@@ -3871,6 +3942,7 @@ Allgemeinverfügung konkretisieren.
 
 
 ### § 58 Entstörung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE005900000)
 
 (1) Der Verbraucher kann von einem Anbieter eines öffentlich
 zugänglichen Telekommunikationsdienstes verlangen, dass dieser eine
@@ -3926,6 +3998,7 @@ Installationsterminen festlegen.
 
 
 ### § 59 Anbieterwechsel und Rufnummernmitnahme
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006000000)
 
 (1) Anbieterwechsel und Rufnummernmitnahme erfolgen unter Leitung des
 aufnehmenden Anbieters. Anbieter von Internetzugangsdiensten und
@@ -4042,6 +4115,7 @@ abweichende Regelungen treffen.
 
 
 ### § 60 Umzug
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006100000)
 
 (1) Wenn ein Verbraucher seinen Wohnsitz wechselt und seine Verträge
 weiterführen möchte, ist der Anbieter von öffentlich zugänglichen
@@ -4073,6 +4147,7 @@ Einzelheiten des Verfahrens für den Umzug festlegen.
 
 
 ### § 61 Selektive Sperre zum Schutz vor Kosten, Sperre bei Zahlungsverzug
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006200000)
 
 (1) Endnutzer können von dem Anbieter von
 Sprachkommunikationsdiensten, von dem Anbieter von
@@ -4129,6 +4204,7 @@ die Sperre fortbesteht.
 
 
 ### § 62 Rechnungsinhalte, Teilzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006300000)
 
 (1) Rechnungen an Endnutzer müssen Folgendes enthalten:
 
@@ -4209,6 +4285,7 @@ Abständen auf ihre Wirksamkeit.
 
 
 ### § 63 Verbindungspreisberechnung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006400000)
 
 (1) Bei der Abrechnung sind Anbieter öffentlich zugänglicher
 nummerngebundener interpersoneller Telekommunikationsdienste und
@@ -4257,6 +4334,7 @@ betroffenen Unternehmen, Fachkreise und Verbraucherverbände fest.
 
 
 ### § 64 Vorausbezahlung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006500000)
 
 (1) Verbraucher müssen die Möglichkeit haben, auf Vorauszahlungsbasis
 Zugang zum öffentlichen Telekommunikationsnetz zu erhalten und
@@ -4274,6 +4352,7 @@ Verbraucher auf Anfrage bei Beendigung des Vertrages das Restguthaben.
 
 
 ### § 65 Anspruch auf Einzelverbindungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006600000)
 
 (1) Der Endnutzer kann von dem Anbieter öffentlich zugänglicher
 nummerngebundener interpersoneller Telekommunikationsdienste und von
@@ -4296,6 +4375,7 @@ verlangen, für den kein Entgelt erhoben werden darf.
 
 
 ### § 66 Angebotspakete
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006700000)
 
 (1) Wenn ein Dienstpaket oder ein Dienst- und Endgerätepaket, das
 Verbrauchern angeboten wird, mindestens einen Internetzugangsdienst
@@ -4323,6 +4403,7 @@ Endgeräte ausdrücklich zustimmt.
 
 
 ### § 67 Beanstandungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006800000)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -4391,6 +4472,7 @@ das in Rechnung gestellte Verbindungsentgelt beeinflusst haben.
 
 
 ### § 68 Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE006901119)
 
 (1) Ein Endnutzer kann bei der Schlichtungsstelle Telekommunikation
 der Bundesnetzagentur durch einen Antrag ein Schlichtungsverfahren
@@ -4454,6 +4536,7 @@ Absatz 3 und 4 des Verbraucherstreitbeilegungsgesetzes.
 
 
 ### § 69 Abwehr- und Schadensersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007000000)
 
 (1) Ein Anbieter von öffentlich zugänglichen
 Telekommunikationsdiensten, der gegen dieses Gesetz, eine aufgrund
@@ -4480,6 +4563,7 @@ Schadensersatz nach den allgemeinen Vorschriften anzurechnen.
 
 
 ### § 70 Haftungsbegrenzung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007100000)
 
 Soweit eine Verpflichtung des Anbieters von öffentlich zugänglichen
 Telekommunikationsdiensten zum Ersatz eines Vermögensschadens oder zur
@@ -4504,6 +4588,7 @@ werden.
 
 
 ### § 71 Abweichende Vereinbarungen und Geltungsbereich Kundenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007200000)
 
 (1) Von den Vorschriften dieses Teils oder der aufgrund dieses Teils
 erlassenen Rechtsverordnungen darf, soweit nicht ein anderes bestimmt
@@ -4541,6 +4626,7 @@ Vertrag nicht anzuwenden sind.
 
 
 ### § 72 Glasfaserbereitstellungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007300000)
 
 (1) Der Betreiber eines öffentlichen Telekommunikationsnetzes kann auf
 Grundlage einer vertraglichen Vereinbarung mit dem Eigentümer des
@@ -4658,9 +4744,11 @@ nach Nummer 2 entspricht.
 
 
 ## Teil 4 - Telekommunikationsendeinrichtungen und Rundfunkübertragung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001500000)
 
 
 ### § 73 Anschluss von Telekommunikationsendeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007401119)
 
 (1) Der Zugang zu öffentlichen Telekommunikationsnetzen an festen
 Standorten ist an einer mit dem Endnutzer zu vereinbarenden,
@@ -4747,6 +4835,7 @@ Betreiber
 
 
 ### § 74 Schnittstellenbeschreibungen der Betreiber öffentlicher Telekommunikationsnetze
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007500000)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze sind verpflichtet,
 
@@ -4806,6 +4895,7 @@ veröffentlicht worden ist.
 
 
 ### § 75 Interoperabilität von Fernseh- und Radiogeräten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007600000)
 
 (1) Jedes zum Verkauf, zur Miete oder anderweitig angebotene digitale
 Fernsehempfangsgerät muss, soweit es einen integrierten Bildschirm
@@ -4877,6 +4967,7 @@ Elektronikgerätegesetzes bleiben hiervon unberührt.
 
 
 ### § 76 Zugangsberechtigungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007700000)
 
 (1) Entschließen sich Inhaber gewerblicher Schutzrechte an
 Zugangsberechtigungssystemen, Lizenzen an Hersteller digitaler
@@ -4955,6 +5046,7 @@ Für das Verfahren nach Satz 1 gelten die §§ 11 bis 16 entsprechend.
 
 
 ### § 77 Streitschlichtung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007800000)
 
 (1) Die durch die §§ 75 und 76 Berechtigten oder Verpflichteten können
 zur Beilegung ungelöster Streitfragen in Bezug auf die Anwendung
@@ -4979,9 +5071,11 @@ Entscheidungen können in einem zusammengefassten Verfahren erfolgen.
 
 
 ## Teil 5 - Informationen über Infrastruktur und Netzausbau
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001600000)
 
 
 ### § 78 Aufgaben der zentralen Informationsstelle des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE007901119)
 
 (1) Zur Herstellung und Aufrechterhaltung der Transparenz in Bezug auf
 den Ausbau öffentlicher Telekommunikationsnetze errichtet und führt
@@ -5027,6 +5121,7 @@ dies für ihre Aufgaben von Belang sein kann.
 
 
 ### § 79 Informationen über Infrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008002119)
 
 (1) Informationen über Infrastruktur umfassen
 
@@ -5139,6 +5234,7 @@ wahren.
 
 
 ### § 80 Informationen über Breitbandausbau
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008100000)
 
 (1) Informationen über den Breitbandausbau beruhen auf einer von der
 zentralen Informationsstelle des Bundes durchzuführenden geografischen
@@ -5169,6 +5265,7 @@ auf dem Markt zur Verfügung steht.
 
 
 ### § 81 Informationen über künftigen Netzausbau
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008201119)
 
 (1) Informationen über den künftigen Netzausbau für den Bereich
 Mobilfunk beruhen auf geografischen Erhebungen, die die zentrale
@@ -5233,6 +5330,7 @@ Betriebs- und Geschäftsgeheimnissen vertraulich behandelt werden.
 
 
 ### § 82 Informationen über Baustellen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008300000)
 
 Informationen über Baustellen sind Informationen nach § 142 Absatz 3
 für die Koordinierung von Bauarbeiten an öffentlichen
@@ -5242,6 +5340,7 @@ Zwecke zur Verfügung gestellt wurden.
 
 
 ### § 83 Informationen über Liegenschaften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008401119)
 
 (1) Informationen über Liegenschaften sind Informationen über solche
 für die Zwecke des Mobilfunknetzausbaus geeignete Liegenschaften,
@@ -5266,6 +5365,7 @@ Digitales und Staatsmodernisierung.
 
 
 ### § 84 Gebiete mit Ausbaudefizit
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008500000)
 
 (1) Für allgemeine Planungs- und Förderzwecke kann die zentrale
 Informationsstelle des Bundes geographisch eindeutig abgegrenzte
@@ -5321,6 +5421,7 @@ dem kein Unternehmen von vornherein ausgeschlossen ist.
 
 
 ### § 85 Veröffentlichung und Weitergabe von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008600000)
 
 (1) Die zentrale Informationsstelle des Bundes veröffentlicht die
 Informationen aus der geographischen Erhebung gemäß § 80, sofern die
@@ -5344,6 +5445,7 @@ dem GEREK und der Kommission zur Verfügung gestellt.
 
 
 ### § 86 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008701119)
 
 Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -5355,9 +5457,11 @@ zentralen Informationsstelle des Bundes bereitzustellen sind.
 
 
 ## Teil 6 - Frequenzordnung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001700000)
 
 
 ### § 87 Ziele der Frequenzregulierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008800000)
 
 (1) Ziele der Frequenzregulierung sind
 
@@ -5448,6 +5552,7 @@ genannten Ziele im Einklang mit § 198 und mit der Entscheidung Nr.
 
 
 ### § 88 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE008901119)
 
 (1) Zur Sicherstellung einer effizienten und störungsfreien Nutzung
 von Frequenzen und unter Berücksichtigung der Regulierungsziele des §
@@ -5477,6 +5582,7 @@ Einvernehmen mit dem Bundesministerium der Verteidigung her.
 
 
 ### § 89 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009000000)
 
 (1) Die Bundesregierung wird ermächtigt, die Frequenzzuweisungen für
 die Bundesrepublik Deutschland sowie darauf bezogene weitere
@@ -5510,6 +5616,7 @@ Grundgesetzes Anwendung.
 
 
 ### § 90 Frequenzplan
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009100000)
 
 (1) Auf der Grundlage der Frequenzzuweisungen und Festlegungen in der
 Frequenzverordnung nach § 89 Absatz 1 teilt die Bundesnetzagentur die
@@ -5556,6 +5663,7 @@ Telekommunikationsdiensten zulässig sind. Absatz 6 bleibt unberührt.
 
 
 ### § 91 Frequenzzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009200000)
 
 (1) Jede Frequenznutzung bedarf einer vorherigen Frequenzzuteilung,
 soweit in diesem Gesetz nichts anderes geregelt ist. Die
@@ -5699,6 +5807,7 @@ ist zu veröffentlichen.
 
 
 ### § 92 Befristung und Verlängerung der Frequenzzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009300000)
 
 (1) Frequenzen werden in der Regel befristet zugeteilt. Die Befristung
 muss für die betreffende Nutzung angemessen sein und die Amortisation
@@ -5822,6 +5931,7 @@ und 87 geboten.
 
 
 ### § 93 Gemeinsame Frequenzzuteilungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009400000)
 
 Die Bundesnetzagentur kann mit zuständigen Behörden anderer
 Mitgliedstaaten der Europäischen Union und mit der Gruppe für
@@ -5832,6 +5942,7 @@ Vergabeverfahren gemäß § 100 durchzuführen.
 
 
 ### § 94 Zeitliche Koordinierung der Frequenzzuteilungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009500000)
 
 (1) Die Bundesnetzagentur schafft die Voraussetzungen für die
 Zuteilung von harmonisierten Frequenzen unverzüglich, spätestens
@@ -5890,6 +6001,7 @@ Fristüberschreitung hat sie anzugeben.
 
 
 ### § 95 Orbitpositionen und Frequenznutzungen durch Satelliten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009600000)
 
 (1) Natürliche oder juristische Personen mit Wohnsitz beziehungsweise
 Sitz in der Bundesrepublik Deutschland, die Orbitpositionen und
@@ -5936,6 +6048,7 @@ Bundesnetzagentur festzulegenden Bedingungen durchgeführt werden.
 
 
 ### § 96 Frequenzzuteilung für Rundfunk, Luftfahrt, Seeschifffahrt, Binnenschifffahrt und sicherheitsrelevante Funkanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009701119)
 
 (1) Für die Zuteilung von Frequenzen zur Übertragung von Rundfunk im
 Zuständigkeitsbereich der Länder ist neben den Voraussetzungen des §
@@ -6031,6 +6144,7 @@ Wasserstraßen- und Schifffahrtsverwaltung des Bundes vorliegt.
 
 
 ### § 97 Zuteilung zur gemeinsamen Frequenznutzung, Erprobung innovativer Technologien, kurzfristig auftretender Frequenzbedarf
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009800000)
 
 (1) Frequenzen, bei denen eine effiziente Nutzung durch einen
 Einzelnen allein nicht zu erwarten ist, können auch mehreren zur
@@ -6050,6 +6164,7 @@ zuständigen Landesbehörde herzustellen.
 
 
 ### § 98 Zuteilung zur alternativen Frequenznutzung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE009901119)
 
 (1) Besteht auf nationaler oder regionaler Ebene keine ausreichende
 Nachfrage nach der Nutzung eines Frequenzbereichs der harmonisierten
@@ -6081,6 +6196,7 @@ das Ergebnis der Überprüfung der Entscheidung in Kenntnis.
 
 
 ### § 99 Bestandteile der Frequenzzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010000000)
 
 (1) Im Rahmen der Frequenzzuteilung sind insbesondere festzulegen:
 
@@ -6161,6 +6277,7 @@ die dem Funkanlagengesetz entsprechen.
 
 
 ### § 100 Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010101119)
 
 (1) Hat die Bundesnetzagentur nach § 91 Absatz 9 angeordnet, dass der
 Zuteilung von Frequenzen ein Vergabeverfahren voranzugehen hat, kann
@@ -6283,6 +6400,7 @@ Satellitenkoordinierung unberührt.
 
 
 ### § 101 Flexibilisierung der Frequenznutzung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010200000)
 
 (1) Die Bundesnetzagentur kann Frequenzbereiche bestimmen, in denen
 sie Frequenznutzungsrechte zum Handel, zur Vermietung oder zur
@@ -6333,6 +6451,7 @@ veröffentlicht diese Informationen.
 
 
 ### § 102 Widerruf der Frequenzzuteilung, Verzicht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010300000)
 
 (1) Eine Frequenzzuteilung kann neben den Fällen des § 49 Absatz 2 des
 Verwaltungsverfahrensgesetzes ganz oder teilweise widerrufen werden,
@@ -6410,6 +6529,7 @@ Frequenzzuteilung zu erklären.
 
 
 ### § 103 Überwachung, Anordnung der Außerbetriebnahme, Monitoring der Mobilfunkversorgung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010401119)
 
 (1) Zur Sicherstellung der Frequenzordnung überwacht die
 Bundesnetzagentur die Frequenznutzung. Soweit es für die Überwachung,
@@ -6464,6 +6584,7 @@ der Berichterstattung nicht bereits vollständig erfüllt sind.
 
 
 ### § 104 Einschränkung der Frequenzzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010500000)
 
 Die Nutzung der zugeteilten Frequenzen kann vorübergehend
 eingeschränkt werden, wenn diese Frequenzen von den zuständigen
@@ -6476,6 +6597,7 @@ und besonders schweren Unglücksfällen benötigt werden.
 
 
 ### § 105 Förderung des Wettbewerbs
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010600000)
 
 (1) Bei der Zuteilung von Frequenzen für Telekommunikationsnetze und
 -dienste gemäß diesem Gesetz sowie der Änderung oder Verlängerung von
@@ -6546,6 +6668,7 @@ dem in § 107 genannten Verfahren.
 
 
 ### § 106 Lokales Roaming, Zugang zu aktiven und passiven Netzinfrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010700000)
 
 (1) Die Bundesnetzagentur kann den Betreiber eines öffentlichen
 Mobilfunknetzes dazu verpflichten, in einem räumlich umgrenzten Gebiet
@@ -6659,6 +6782,7 @@ angesichts der sich wandelnden Umstände angemessen wäre.
 
 
 ### § 107 Beteiligung in der Gruppe für Frequenzpolitik
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010800000)
 
 (1) Sofern die Bundesnetzagentur beabsichtigt, ein Vergabeverfahren
 nach § 91 Absatz 9 in Verbindung mit § 100 in Bezug auf harmonisierte
@@ -6680,9 +6804,11 @@ Richtlinie (EU) 2018/1972.
 
 
 ## Teil 7 - Nummerierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001800000)
 
 
 ### § 108 Nummerierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE010900000)
 
 (1) Die Bundesnetzagentur nimmt die Aufgaben der Nummerierung wahr.
 Ihr obliegt insbesondere die Strukturierung und Ausgestaltung des
@@ -6791,6 +6917,7 @@ Verkehrsauffassung die größte Bedeutung hat.
 
 
 ### § 109 Preisangabe
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011000000)
 
 (1) Wer gegenüber Endnutzern
 
@@ -6834,6 +6961,7 @@ hinzuweisen.
 
 
 ### § 110 Preisansage
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011100000)
 
 (1) Wer den vom Endnutzer zu zahlenden Preis für die Inanspruchnahme
 von
@@ -6896,6 +7024,7 @@ hinzuweisen.
 
 
 ### § 111 Preisanzeige
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011200000)
 
 (1) Für Kurzwahl-Datendienste hat derjenige, der den vom Endnutzer zu
 zahlenden Preis für die Inanspruchnahme dieses Dienstes festlegt,
@@ -6926,6 +7055,7 @@ Die Einzelheiten regelt und veröffentlicht die Bundesnetzagentur.
 
 
 ### § 112 Preishöchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011300000)
 
 (1) Preise für zeitabhängig über Rufnummern für Premium-Dienste,
 Kurzwahldienste und Auskunftsdienste abgerechnete Verbindungen und
@@ -6976,6 +7106,7 @@ dies erforderlich macht.
 
 
 ### § 113 Verbindungstrennung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011400000)
 
 (1) Der Anbieter öffentlich zugänglicher Telekommunikationsdienste,
 bei dem die Rufnummer für Premium-Dienste, Kurzwahl-Sprachdienste oder
@@ -6993,6 +7124,7 @@ Verbindungstrennung festlegen.
 
 
 ### § 114 Anwählprogramme (Dialer)
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011500000)
 
 (1) Anwählprogramme, die Verbindungen zu einer Nummer herstellen, bei
 denen neben der Telekommunikationsdienstleistung Inhalte abgerechnet
@@ -7018,6 +7150,7 @@ ihre Wirksamkeit.
 
 
 ### § 115 Warteschleifen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011600000)
 
 (1) Warteschleifen dürfen nur eingesetzt werden, wenn eine der
 folgenden Voraussetzungen erfüllt ist:
@@ -7072,6 +7205,7 @@ Bezug auf den Einsatz von Warteschleifen gleich, wenn
 
 
 ### § 116 Wegfall des Entgeltanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011700000)
 
 Der Endnutzer ist zur Zahlung eines Entgelts nicht verpflichtet, wenn
 und soweit
@@ -7119,6 +7253,7 @@ den gesamten Anruf.
 
 
 ### § 117 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011800000)
 
 (1) Jeder, der ein berechtigtes Interesse daran hat, kann schriftlich
 oder elektronisch von der Bundesnetzagentur Auskunft über den Namen
@@ -7152,6 +7287,7 @@ erheben und aktuell zu halten.
 
 
 ### § 118 Datenbank für (0)900er-Rufnummern
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE011900000)
 
 (1) Alle zugeteilten (0)900er-Rufnummern werden in einer Datenbank bei
 der Bundesnetzagentur erfasst. Die Datenbank ist mit folgenden Angaben
@@ -7173,6 +7309,7 @@ Daten verlangen.
 
 
 ### § 119 R-Gespräche
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012000000)
 
 (1) Aufgrund von Verbindungen, bei denen dem Angerufenen das
 Verbindungsentgelt in Rechnung gestellt wird (R-Gespräche), dürfen
@@ -7193,6 +7330,7 @@ bereit.
 
 
 ### § 120 Rufnummernübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012100000)
 
 (1) Anbieter von öffentlich zugänglichen nummerngebundenen
 interpersonellen Telekommunikationsdiensten, die Endnutzern den Aufbau
@@ -7254,6 +7392,7 @@ zweiseitige Kommunikation ermöglicht wird.
 
 
 ### § 121 Internationaler entgeltfreier Telefondienst
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012200000)
 
 Anrufe bei (00)800er-Rufnummern müssen für den Anrufer unentgeltlich
 sein. Die Erhebung eines Entgelts für die Inanspruchnahme eines
@@ -7261,12 +7400,14 @@ Endgerätes bleibt unbenommen.
 
 
 ### § 122 Umgehungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012300000)
 
 Die §§ 109 bis 121 sind auch dann anzuwenden, wenn versucht wird, sie
 durch anderweitige Gestaltungen zu umgehen.
 
 
 ### § 123 Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012400000)
 
 (1) Die Bundesnetzagentur kann im Rahmen der Nummernverwaltung
 Anordnungen und andere geeignete Maßnahmen treffen, um die Einhaltung
@@ -7362,6 +7503,7 @@ bleiben unberührt.
 
 
 ### § 124 Mitteilung an Staatsanwaltschaft oder Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012500000)
 
 Die Bundesnetzagentur teilt Tatsachen, die den Verdacht einer Straftat
 oder einer Ordnungswidrigkeit begründen, der Staatsanwaltschaft oder
@@ -7369,12 +7511,15 @@ der Verwaltungsbehörde mit.
 
 
 ## Teil 8 - Wegerechte und Mitnutzung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG001900000)
 
 
 ### Abschnitt 1 - Wegerechte
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002000000)
 
 
 #### § 125 Berechtigung zur Nutzung öffentlicher Wege und ihre Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012600000)
 
 (1) Der Bund ist befugt, Verkehrswege für die öffentlichen Zwecken
 dienenden Telekommunikationslinien unentgeltlich zu benutzen, soweit
@@ -7407,6 +7552,7 @@ nicht rechtzeitig mitgeteilt wurden, haftet der Nutzungsberechtigte.
 
 
 #### § 126 Pflichten der Eigentümer und Betreiber öffentlicher Telekommunikationsnetze oder öffentlichen Zwecken dienender Telekommunikationslinien
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012700000)
 
 Telekommunikationslinien sind so zu errichten und zu unterhalten, dass
 sie den Anforderungen der öffentlichen Sicherheit und Ordnung sowie
@@ -7414,6 +7560,7 @@ den anerkannten Regeln der Technik genügen.
 
 
 #### § 127 Verlegung und Änderung von Telekommunikationslinien
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012800000)
 
 (1) Für die Verlegung oder die Änderung von Telekommunikationslinien
 ist die schriftliche oder elektronische Zustimmung des Trägers der
@@ -7507,6 +7654,7 @@ Sicherheit abhängig gemacht werden.
 
 
 #### § 128 Mitnutzung und Wegerecht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE012900000)
 
 (1) Eigentümer oder Betreiber öffentlicher Versorgungsnetze dürfen
 ihre passiven Netzinfrastrukturen Eigentümern oder Betreibern
@@ -7546,6 +7694,7 @@ Einrichtungen fest.
 
 
 #### § 129 Rücksichtnahme auf Wegeunterhaltung und Widmungszweck
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013000000)
 
 (1) Bei der Benutzung der Verkehrswege ist eine Erschwerung ihrer
 Unterhaltung und eine vorübergehende Beschränkung ihres Widmungszwecks
@@ -7569,6 +7718,7 @@ Verwaltungsakt geltend machen.
 
 
 #### § 130 Gebotene Änderung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013100000)
 
 (1) Ergibt sich nach Errichtung einer Telekommunikationslinie, dass
 sie den Widmungszweck eines Verkehrsweges nicht nur vorübergehend
@@ -7590,6 +7740,7 @@ Verwaltungsakt geltend machen.
 
 
 #### § 131 Schonung der Baumpflanzungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013200000)
 
 (1) Die Baumpflanzungen auf und an den Verkehrswegen und
 Wirtschaftswegen im Sinne des § 134 Absatz 1 Satz 1 Nummer 3 sind nach
@@ -7612,6 +7763,7 @@ vorgenommenen Ausästungen.
 
 
 #### § 132 Besondere Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013300000)
 
 (1) Die Telekommunikationslinien sind so auszuführen, dass sie
 vorhandene besondere Anlagen (der Wegeunterhaltung dienende
@@ -7647,6 +7799,7 @@ erhalten haben.
 
 
 #### § 133 Spätere besondere Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013400000)
 
 (1) Spätere besondere Anlagen sind nach Möglichkeit so auszuführen,
 dass sie die vorhandenen Telekommunikationslinien nicht störend
@@ -7698,6 +7851,7 @@ Absätze 1 bis 5 entsprechende Anwendung.
 
 
 #### § 134 Beeinträchtigung von Grundstücken und Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013500000)
 
 (1) Der Eigentümer eines Grundstücks, das kein Verkehrsweg im Sinne
 des § 125 Absatz 1 Satz 2 ist, kann die Errichtung, den Betrieb und
@@ -7775,6 +7929,7 @@ entsprechend.
 
 
 #### § 135 Verjährung der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013600000)
 
 Die Verjährung der auf den §§ 128 bis 134 beruhenden Ansprüche richtet
 sich nach den Regelungen über die regelmäßige Verjährung nach dem
@@ -7782,9 +7937,11 @@ Bürgerlichen Gesetzbuch.
 
 
 ### Abschnitt 2 - Mitnutzung öffentlicher Versorgungsnetze
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002100000)
 
 
 #### § 136 Informationen über passive Netzinfrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013702119)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei Eigentümern oder Betreibern öffentlicher Versorgungsnetze
@@ -7881,6 +8038,7 @@ gebietsbezogenen Übersicht gemäß § 79 Absatz 1 Nummer 1 verwenden.
 
 
 #### § 137 Vor-Ort-Untersuchung passiver Netzinfrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013801119)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei den Eigentümern oder Betreibern öffentlicher
@@ -7936,6 +8094,7 @@ Untersuchung.
 
 
 #### § 138 Mitnutzung öffentlicher Versorgungsnetze
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE013900000)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei den Eigentümern oder Betreibern öffentlicher
@@ -8000,6 +8159,7 @@ des Bundes veröffentlichen.
 
 
 #### § 139 Umfang des Mitnutzungsanspruchs bei Elektrizitätsversorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014000000)
 
 (1) Die Mitnutzung eines Elektrizitätsversorgungsnetzes umfasst auch
 Dachständer, Giebelanschlüsse und die Hauseinführung.
@@ -8012,6 +8172,7 @@ hoher Kapazität zur Verfügung stellen.
 
 
 #### § 140 Einnahmen aus Mitnutzungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014100000)
 
 Eigentümer oder Betreiber öffentlicher Versorgungsnetze können
 Einnahmen aus Mitnutzungen, die über die Kosten im Sinne des § 149
@@ -8023,6 +8184,7 @@ ausnehmen.
 
 
 #### § 141 Ablehnung der Mitnutzung, Versagungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014201119)
 
 (1) Gibt der Eigentümer oder Betreiber des öffentlichen
 Versorgungsnetzes kein Angebot über die Mitnutzung ab, so hat er
@@ -8090,6 +8252,7 @@ der folgenden Gründe vorliegt:
 
 
 #### § 142 Informationen über Bauarbeiten an öffentlichen Versorgungsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014301119)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei den Eigentümern oder Betreibern öffentlicher
@@ -8186,6 +8349,7 @@ Informationsstelle des Bundes.
 
 
 #### § 143 Koordinierung von Bauarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014401119)
 
 (1) Eigentümer oder Betreiber öffentlicher Versorgungsnetze können mit
 Eigentümern oder Betreibern öffentlicher Telekommunikationsnetze im
@@ -8269,6 +8433,7 @@ Grundsätze gebunden.
 
 
 #### § 144 Allgemeine Informationen über Verfahrensbedingungen bei Bauarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014500000)
 
 Die zentrale Informationsstelle des Bundes macht die relevanten
 Informationen zugänglich, welche die allgemeinen Bedingungen und
@@ -8279,6 +8444,7 @@ Angaben über Ausnahmen von Genehmigungspflichten ein.
 
 
 #### § 145 Netzinfrastruktur von Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014600000)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze dürfen ihr
 öffentliches Telekommunikationsnetz in den Räumen des Endnutzers
@@ -8342,6 +8508,7 @@ Absatz 6 gewährt wird.
 
 
 #### § 146 Mitverlegung, Sicherstellung und Betrieb der Infrastruktur für Netze mit sehr hoher Kapazität
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014700000)
 
 (1) Eigentümer oder Betreiber öffentlicher Versorgungsnetze können im
 Rahmen von Bauarbeiten passive Netzinfrastrukturen für ein Netz mit
@@ -8370,6 +8537,7 @@ einschließlich der relevanten Übergabepunkte.
 
 
 #### § 147 Antragsform und Reihenfolge der Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014801119)
 
 (1) Anträge der Eigentümer oder Betreiber öffentlicher
 Telekommunikationsnetze nach § 72 Absatz 6 sowie den §§ 79, 82, 136
@@ -8383,6 +8551,7 @@ Informationen dargelegt hat.
 
 
 #### § 148 Vertraulichkeit der Verfahren, Informationsverarbeitung und Gewährung der Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE014901119)
 
 (1) Die Informationen, die im Rahmen der Verfahren dieses Abschnitts
 gewonnen werden, dürfen nur für die Zwecke verwendet werden, für die
@@ -8402,6 +8571,7 @@ verarbeiteten Informationen gewähren. Für die Verwendung der nach Satz
 
 
 #### § 149 Regulierungsziele, Entgeltmaßstäbe und Fristen der nationalen Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015001119)
 
 (1) Die Bundesnetzagentur kann als nationale Streitbeilegungsstelle
 nach § 211 in Verbindung mit § 214 in den folgenden Fällen angerufen
@@ -8544,6 +8714,7 @@ begründen.
 
 
 #### § 150 Genehmigungsfristen für Bauarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015100000)
 
 Genehmigungen für Bauarbeiten, die zum Zweck des Aufbaus der
 Komponenten von Netzen mit sehr hoher Kapazität notwendig sind, sind
@@ -8555,6 +8726,7 @@ rechtzeitig mitzuteilen.
 
 
 #### § 151 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015202119)
 
 (1) Das Bundesministerium für Digitales und Staatsmodernisierung wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
@@ -8612,9 +8784,11 @@ sind der Kommission mitzuteilen.
 
 
 ### Abschnitt 3 - Drahtlose Zugangspunkte mit geringer Reichweite, sonstige physische Infrastrukturen und offener Netzzugang
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002200000)
 
 
 #### § 152 Errichtung, Anbindung und Betrieb drahtloser Zugangspunkte mit geringer Reichweite
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015300000)
 
 (1) Die zuständigen Behörden beschränken die Errichtung drahtloser
 Zugangspunkte mit geringer Reichweite, die den Durchführungsmaßnahmen
@@ -8629,6 +8803,7 @@ und geschäftliche Vereinbarungen.
 
 
 #### § 153 Informationen über sonstige physische Infrastruktur für drahtlose Zugangspunkte mit geringer Reichweite
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015402119)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei Eigentümern oder Betreibern sonstiger physischer
@@ -8725,6 +8900,7 @@ gebietsbezogenen Übersicht gemäß § 79 Absatz 1 Nummer 1 verwenden.
 
 
 #### § 154 Mitnutzung sonstiger physischer Infrastruktur für drahtlose Zugangspunkte mit geringer Reichweite
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015501119)
 
 (1) Eigentümer oder Betreiber öffentlicher Telekommunikationsnetze
 können bei Eigentümern oder Betreibern sonstiger physischer
@@ -8825,6 +9001,7 @@ Abschluss der Bundesnetzagentur zur Kenntnis zu geben.
 
 
 #### § 155 Offener Netzzugang zu öffentlich geförderten Telekommunikationsnetzen und Telekommunikationslinien, Verbindlichkeit von Ausbauzusagen in der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015601119)
 
 (1) Betreiber oder Eigentümer öffentlicher Telekommunikationsnetze
 müssen anderen Betreibern öffentlicher Telekommunikationsnetze auf
@@ -8866,9 +9043,11 @@ bestimmten Zeitraums sicherzustellen.
 
 
 ## Teil 9 - Recht auf Versorgung mit Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002300000)
 
 
 ### § 156 Recht auf Versorgung mit Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015700000)
 
 (1) Endnutzer haben gegenüber Unternehmen, die durch die
 Bundesnetzagentur nach § 161 Absatz 1, 2 oder 3 verpflichtet worden
@@ -8900,6 +9079,7 @@ Sprachkommunikationsdienste beschränkt werden.
 
 
 ### § 157 Verfügbarkeit der Telekommunikationsdienste
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015802119)
 
 (1) Die Bundesnetzagentur überwacht in regelmäßigen Abständen die
 Verfügbarkeit eines Mindestangebots gemäß Absatz 2. Sie berücksichtigt
@@ -8960,6 +9140,7 @@ und Staatsmodernisierung des Deutschen Bundestages.
 
 
 ### § 158 Erschwinglichkeit der Telekommunikationsdienste
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE015900000)
 
 (1) Telekommunikationsdienste nach § 157 Absatz 2, einschließlich des
 hierfür notwendigen Anschlusses an ein öffentliches
@@ -8979,6 +9160,7 @@ Telekommunikationsnetz an einem festen Standort.
 
 
 ### § 159 Beitrag von Unternehmen zur Versorgung mit Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016000000)
 
 Jeder Anbieter, der auf dem sachlichen Markt der Versorgung mit
 Telekommunikationsdiensten nach § 157 Absatz 2 im Geltungsbereich
@@ -8989,6 +9171,7 @@ der Bestimmungen dieses Abschnitts zu erfüllen.
 
 
 ### § 160 Feststellung der Unterversorgung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016100000)
 
 (1) Stellt die Bundesnetzagentur im Rahmen ihrer Überwachung gemäß §
 157 Absatz 1 und § 158 Absatz 2 fest, dass einer der nachfolgenden
@@ -9026,6 +9209,7 @@ Ausgleich nach § 162 zu verpflichten.
 
 
 ### § 161 Verpflichtungen zur Versorgung mit Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016200000)
 
 (1) Ist die nach § 160 Absatz 2 eingereichte Verpflichtungszusage nach
 Beurteilung durch die Bundesnetzagentur geeignet, die Versorgung mit
@@ -9111,6 +9295,7 @@ Eigentümer.
 
 
 ### § 162 Ausgleich für die Versorgung mit Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016300000)
 
 (1) Die Bundesnetzagentur gewährt dem Diensteverpflichteten nach § 161
 Absatz 2 oder 3 nach Ablauf des Kalenderjahres, in welchem dem
@@ -9160,6 +9345,7 @@ Unternehmen zu wahren.
 
 
 ### § 163 Umlageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016400000)
 
 (1) Gewährt die Bundesnetzagentur einen Ausgleich nach § 162 für die
 Erbringung der Versorgung mit Telekommunikationsdiensten gemäß § 157
@@ -9239,12 +9425,15 @@ Diensteverpflichtung entstanden sind.
 
 
 ## Teil 10 - Öffentliche Sicherheit und Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002400000)
 
 
 ### Abschnitt 1 - Öffentliche Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002500000)
 
 
 #### § 164 Notruf
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016501119)
 
 (1) Wer öffentlich zugängliche nummerngebundene interpersonelle
 Telekommunikationsdienste für das Führen von ausgehenden Gesprächen zu
@@ -9390,6 +9579,7 @@ Inkrafttreten die geänderten Anforderungen erfüllen.
 
 
 #### § 164a Öffentliche Warnungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE023201119)
 
 (1) Betreiber öffentlicher Mobilfunknetze haben
 
@@ -9517,6 +9707,7 @@ nach Absatz 3 trägt jeder Anbieter selbst.
 
 
 #### § 165 Technische und organisatorische Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016601119)
 
 (1) Wer Telekommunikationsdienste erbringt oder daran mitwirkt, hat
 angemessene technische Vorkehrungen und sonstige Maßnahmen zu treffen
@@ -9725,6 +9916,7 @@ die Informationsfreiheit konsultieren.
 
 
 #### § 166 Sicherheitsbeauftragter und Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016700000)
 
 (1) Wer ein öffentliches Telekommunikationsnetz betreibt oder
 öffentlich zugängliche Telekommunikationsdienste erbringt, hat
@@ -9785,6 +9977,7 @@ erfolgen.
 
 
 #### § 167 Katalog von Sicherheitsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016801119)
 
 (1) Die Bundesnetzagentur legt im Einvernehmen mit dem Bundesamt für
 Sicherheit in der Informationstechnik und der oder dem
@@ -9835,6 +10028,7 @@ Katalog ist eine davon abweichende Umsetzungsfrist festgelegt worden.
 
 
 #### § 168 Meldung eines Sicherheitsvorfalls
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE016901119)
 
 (1) Wer ein öffentliches Telekommunikationsnetz betreibt oder
 öffentlich zugängliche Telekommunikationsdienste erbringt, macht an
@@ -9951,6 +10145,7 @@ ergriffenen Abhilfemaßnahmen vor.
 
 
 #### § 169 Daten- und Informationssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017000000)
 
 (1) Wer öffentlich zugängliche Telekommunikationsdienste erbringt, hat
 im Falle einer Verletzung des Schutzes personenbezogener Daten
@@ -10075,6 +10270,7 @@ Daten erforderlich ist.
 
 
 #### § 170 Umsetzung von Überwachungsmaßnahmen, Erteilung von Auskünften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017104119)
 
 (1) Wer eine Telekommunikationsanlage betreibt, mit der öffentlich
 zugängliche Telekommunikationsdienste erbracht werden, hat
@@ -10339,6 +10535,7 @@ beschrieben werden.
 
 
 #### § 171 Mitwirkung bei technischen Ermittlungsmaßnahmen bei Mobilfunkendgeräten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017200000)
 
 Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den
 berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung, §
@@ -10382,6 +10579,7 @@ jeweils geltenden Vorschriften.
 
 
 #### § 172 Daten für Auskunftsersuchen der Sicherheitsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017300000)
 
 (1) Wer nummerngebundene interpersonelle Telekommunikationsdienste,
 Internetzugangsdienste oder Dienste, die ganz oder überwiegend in der
@@ -10527,6 +10725,7 @@ nicht gewährt.
 
 
 #### § 173 Automatisiertes Auskunftsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017401119)
 
 (1) Wer nummerngebundene interpersonelle Telekommunikationsdienste
 oder Dienste, die ganz oder überwiegend in der Übertragung von
@@ -10760,6 +10959,7 @@ Verpflichteten nicht gewährt.
 
 
 #### § 174 Manuelles Auskunftsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017502119)
 
 (1) Wer Telekommunikationsdienste erbringt oder daran mitwirkt, darf
 von ihm erhobene Bestandsdaten sowie die nach § 172 erhobenen Daten
@@ -11376,6 +11576,7 @@ automatisch überprüft werden kann.
 
 
 #### § 175 Verpflichtete; Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017600000)
 
 (1) Die Verpflichtungen zur Speicherung von Verkehrsdaten, zur
 Verwendung der Daten und zur Datensicherheit nach den §§ 176 bis 181
@@ -11405,6 +11606,7 @@ der Entschädigung sind die tatsächlich entstandenen Kosten maßgebend.
 
 
 #### § 176 Pflichten zur Speicherung von Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017701119)
 
 (1) Die in § 175 Absatz 1 Genannten sind verpflichtet, Daten wie folgt
 im Inland zu speichern:
@@ -11524,6 +11726,7 @@ sicherzustellen.
 
 
 #### § 177 Verwendung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017800000)
 
 (1) Die aufgrund des § 176 gespeicherten Daten dürfen
 
@@ -11559,6 +11762,7 @@ diese aufrechtzuerhalten.
 
 
 #### § 178 Gewährleistung der Sicherheit der Daten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE017900000)
 
 Der nach § 175 Absatz 1 Verpflichtete hat sicherzustellen, dass die
 aufgrund der Speicherpflicht nach § 176 Absatz 1 gespeicherten Daten
@@ -11590,6 +11794,7 @@ Die Maßnahmen umfassen insbesondere
 
 
 #### § 179 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018000000)
 
 (1) Der nach § 175 Absatz 1 Verpflichtete hat sicherzustellen, dass
 für Zwecke der Datenschutzkontrolle jeder Zugriff, insbesondere das
@@ -11616,6 +11821,7 @@ die Protokolldaten nach einem Jahr gelöscht werden.
 
 
 #### § 180 Anforderungskatalog
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018100000)
 
 (1) Bei der Umsetzung der Verpflichtungen gemäß den §§ 176 bis 179 ist
 ein besonders hoher Standard der Datensicherheit und Datenqualität zu
@@ -11642,6 +11848,7 @@ Absatz 7 und 8, § 178 und § 179 Absatz 1 und 3 treten.
 
 
 #### § 181 Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018200000)
 
 Der nach § 175 Absatz 1 Verpflichtete hat in das Sicherheitskonzept
 nach § 166 zusätzlich aufzunehmen,
@@ -11668,6 +11875,7 @@ jeweils zwei Jahren schriftlich zu erklären.
 
 
 #### § 182 Auskunftsersuchen des Bundesnachrichtendienstes
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018302119)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze haben dem
 Bundesministerium für Digitales und Staatsmodernisierung auf Anfrage
@@ -11685,6 +11893,7 @@ erlangten Auskunft zu anderen Zwecken ist ausgeschlossen.
 
 
 #### § 183 Kontrolle und Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018400000)
 
 (1) Die Bundesnetzagentur kann Anordnungen und andere Maßnahmen
 treffen, um die Einhaltung der Vorschriften des Abschnitts 1 sowie der
@@ -11729,9 +11938,11 @@ Maßgabe des Absatzes 1 eingeschränkt.
 
 
 ### Abschnitt 2 - Notfallvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002600000)
 
 
 #### § 184 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018500000)
 
 Die Vorschriften dieses Abschnitts sind anzuwenden zur Sicherung einer
 Mindestversorgung mit Telekommunikationsdiensten
@@ -11762,6 +11973,7 @@ Mindestversorgung mit Telekommunikationsdiensten
 
 
 #### § 185 Telekommunikationssicherstellungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018600000)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste mit
 mehr als 100 000 Vertragspartnern haben folgende von ihnen erbrachte
@@ -11806,6 +12018,7 @@ oder eine eingetretene Engpasssituation zu beseitigen.
 
 
 #### § 186 Telekommunikationsbevorrechtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018700000)
 
 (1) Betreiber öffentlicher Telekommunikationsnetze und Anbieter
 öffentlich zugänglicher Telekommunikationsdienste nach § 185 Absatz 1
@@ -11873,6 +12086,7 @@ kürzere Geltungsdauer vermerkt ist.
 
 
 #### § 187 Umsetzung der Telekommunikationsbevorrechtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018800000)
 
 (1) Telekommunikationsbevorrechtigte haben ihrem Anbieter rechtzeitig
 im Voraus mitzuteilen,
@@ -11910,6 +12124,7 @@ bleibt unberührt.
 
 
 #### § 188 Mitwirkungspflichten und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE018901119)
 
 (1) Die nach diesem Abschnitt Verpflichteten haben auf Anordnung des
 Bundesministeriums für Digitales und Staatsmodernisierung in den
@@ -11929,6 +12144,7 @@ achtstündigen Einsatz zu leisten ist, nicht überschreiten.
 
 
 #### § 189 Entgelte für die Telekommunikationsbevorrechtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019000000)
 
 Telekommunikationsbevorrechtigte haben die folgenden Entgelte an ihren
 Anbieter zu entrichten:
@@ -11952,6 +12168,7 @@ Inanspruchnahme von Telekommunikationsdiensten bleiben unberührt.
 
 
 #### § 190 Kontrolle und Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019100000)
 
 (1) Die Bundesnetzagentur kann Anordnungen und andere Maßnahmen
 treffen, um die Einhaltung der Vorschriften dieses Abschnitts
@@ -11970,12 +12187,15 @@ Euro festgesetzt werden.
 
 
 ## Teil 11 - Bundesnetzagentur und andere zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002700000)
 
 
 ### Abschnitt 1 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002800000)
 
 
 #### § 191 Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019200000)
 
 Die Bundesnetzagentur nimmt die ihr nach diesem Gesetz und nach
 Artikel 5 der Verordnung (EU)
@@ -11990,6 +12210,7 @@ und (EU) 2017/2394 sowie der Richtlinie 2009/22/EG (ABl. L 60 vom
 
 
 #### § 192 Medien der Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019300000)
 
 Veröffentlichungen und Bekanntmachungen, zu denen die
 Bundesnetzagentur durch dieses Gesetz verpflichtet ist, erfolgen im
@@ -11998,6 +12219,7 @@ nichts Abweichendes bestimmt ist.
 
 
 #### § 193 Veröffentlichung von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019401119)
 
 Weisungen, die das Bundesministerium für Digitales und
 Staatsmodernisierung oder das Bundesministerium für Wirtschaft und
@@ -12009,6 +12231,7 @@ haben.
 
 
 #### § 194 Aufgaben und Rechte des Beirates
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019500000)
 
 (1) Der Beirat nach § 5 des Gesetzes über die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen hat die in
@@ -12032,6 +12255,7 @@ anzuhören.
 
 
 #### § 195 Tätigkeitsbericht, Sektorgutachten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019600000)
 
 (1) Die Bundesnetzagentur legt den gesetzgebenden Körperschaften des
 Bundes einen Bericht über ihre Tätigkeit sowie über die Lage und die
@@ -12063,6 +12287,7 @@ des Bundes in angemessener Frist Stellung.
 
 
 #### § 196 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019700000)
 
 Die Bundesnetzagentur veröffentlicht einmal jährlich einen Bericht
 über die Entwicklung des Telekommunikationsmarktes, einschließlich der
@@ -12072,6 +12297,7 @@ berichtet die Bundesnetzagentur auch über ihre zukünftigen Vorhaben.
 
 
 #### § 197 Zusammenarbeit mit anderen Behörden auf nationaler Ebene
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019801119)
 
 (1) Die Bundesnetzagentur entscheidet in den folgenden Fällen im
 Einvernehmen mit dem Bundeskartellamt:
@@ -12161,6 +12387,7 @@ Landesrecht zuständigen Stelle zusammen.
 
 
 #### § 198 Zusammenarbeit mit anderen Behörden auf der Ebene der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE019901119)
 
 (1) Die Bundesnetzagentur arbeitet mit den nationalen
 Regulierungsbehörden anderer Mitgliedstaaten der Europäischen Union,
@@ -12186,6 +12413,7 @@ mit.
 
 
 #### § 199 Bereitstellung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020000000)
 
 (1) Die Bundesnetzagentur und andere nach diesem Gesetz zuständige
 Behörden stellen der Kommission auf deren begründeten Antrag die
@@ -12222,6 +12450,7 @@ zu begründen.
 
 
 #### § 200 Mediation
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020100000)
 
 Die Bundesnetzagentur kann in geeigneten Fällen zur Beilegung
 telekommunikationsrechtlicher Streitigkeiten den Parteien einen
@@ -12230,6 +12459,7 @@ Mediationsverfahrens vorschlagen.
 
 
 #### § 201 Wissenschaftliche Beratung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020200000)
 
 (1) Die Bundesnetzagentur kann zur Vorbereitung ihrer Entscheidungen
 oder zur Begutachtung von Fragen der Regulierung wissenschaftliche
@@ -12259,9 +12489,11 @@ insbesondere
 
 
 ### Abschnitt 2 - Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG002900000)
 
 
 #### § 202 Durchsetzung von Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020300000)
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Unternehmen seine
 Verpflichtungen nach diesem Gesetz, aufgrund dieses Gesetzes, nach der
@@ -12318,6 +12550,7 @@ gelten die Absätze 1, 2 und 5 entsprechend.
 
 
 #### § 203 Auskunftsverlangen und weitere Untersuchungsrechte; Übermittlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020401119)
 
 (1) Unbeschadet anderer nationaler oder auf unmittelbar vollziehbarem
 Recht der Europäischen Union beruhender Berichts- und
@@ -12479,6 +12712,7 @@ Intervallen der Übermittlung geeignete Vorgaben machen.
 
 
 #### § 204 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020500000)
 
 (1) Die Inhaber der Unternehmen oder die diese vertretenden Personen
 sind verpflichtet,
@@ -12549,6 +12783,7 @@ Euro bis höchstens 10 Millionen Euro festgesetzt werden.
 
 
 #### § 205 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020600000)
 
 (1) Die Bundesnetzagentur kann alle Ermittlungen führen und alle
 Beweise erheben, die erforderlich sind.
@@ -12583,6 +12818,7 @@ Herbeiführung einer wahrheitsgemäßen Aussage für notwendig erachtet.
 
 
 #### § 206 Beschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020700000)
 
 (1) Die Bundesnetzagentur kann Gegenstände, die als Beweismittel für
 die Ermittlung von Bedeutung sein können, beschlagnahmen. Die
@@ -12606,12 +12842,14 @@ entsprechend.
 
 
 #### § 207 Vorläufige Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020800000)
 
 Die Bundesnetzagentur kann bis zur endgültigen Entscheidung vorläufige
 Anordnungen treffen.
 
 
 #### § 208 Vorteilsabschöpfung durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE020900000)
 
 (1) Hat ein Unternehmen gegen eine Entscheidung der Bundesnetzagentur
 oder vorsätzlich oder fahrlässig gegen eine Vorschrift dieses Gesetzes
@@ -12637,12 +12875,15 @@ abzuführende Geldbetrag ist zahlenmäßig zu bestimmen.
 
 
 ### Abschnitt 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003000000)
 
 
 #### Unterabschnitt 1 - Verwaltungsverfahren der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003100000)
 
 
 ##### § 209 Entscheidungen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021000000)
 
 (1) Entscheidungen der Bundesnetzagentur sind zu begründen. Sie sind
 mit der Begründung und einer Belehrung über den zulässigen
@@ -12666,6 +12907,7 @@ wird, ist die Beendigung des Verfahrens den Beteiligten mitzuteilen.
 
 
 ##### § 210 Bekanntgabe von Allgemeinverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021100000)
 
 Entscheidungen der Bundesnetzagentur in Form von Technischen
 Richtlinien und anderen Allgemeinverfügungen sind abweichend von § 209
@@ -12699,9 +12941,11 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 
 
 #### Unterabschnitt 2 - Beschlusskammern
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003200000)
 
 
 ##### § 211 Beschlusskammerentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021201119)
 
 (1) Die Bundesnetzagentur entscheidet durch Beschlusskammern in den
 Fällen des Teils 2, des § 91 Absatz 9 sowie der §§ 100 und 101. Absatz
@@ -12764,6 +13008,7 @@ Beendigung des Verfahrens den Beteiligten mitzuteilen.
 
 
 ##### § 212 Sonstige Streitigkeiten zwischen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021300000)
 
 (1) Ergeben sich im Zusammenhang mit Verpflichtungen aus diesem Gesetz
 oder aufgrund dieses Gesetzes Streitigkeiten zwischen Unternehmen, die
@@ -12806,6 +13051,7 @@ die Streitigkeit spätestens innerhalb von vier Monaten beigelegt wird.
 
 
 ##### § 213 Einleitung, Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021400000)
 
 (1) Die Beschlusskammer leitet ein Verfahren von Amts wegen oder auf
 Antrag ein.
@@ -12829,6 +13075,7 @@ Antrag ein.
 
 
 ##### § 214 Verfahren der nationalen Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021501119)
 
 (1) Die nationale Streitbeilegungsstelle leitet ein Verfahren auf
 Antrag ein.
@@ -12874,6 +13121,7 @@ Sicherheit in der Informationstechnik.
 
 
 ##### § 215 Anhörung, mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021600000)
 
 (1) Die Beschlusskammer hat den Beteiligten Gelegenheit zur
 Stellungnahme zu geben.
@@ -12921,6 +13169,7 @@ glaubhaft zu machen.
 
 
 ##### § 216 Betriebs- oder Geschäftsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021700000)
 
 Unverzüglich nach der Vorlage von Unterlagen im Rahmen des
 Beschlusskammerverfahrens haben alle Beteiligten diejenigen Teile zu
@@ -12937,9 +13186,11 @@ an Dritte die vorlegenden Personen hören.
 
 
 #### Unterabschnitt 3 - Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003300000)
 
 
 ##### § 217 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021800000)
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur
 haben keine aufschiebende Wirkung.
@@ -12980,6 +13231,7 @@ Bundesnetzagentur nach Teil 9 betreffen.
 
 
 ##### § 218 Vorlage- und Auskunftspflicht der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE021901119)
 
 (1) Für die Vorlage von Urkunden oder Akten, die Übermittlung
 elektronischer Dokumente oder die Erteilung von Auskünften durch die
@@ -13022,6 +13274,7 @@ und Absatz 3 Satz 2 gelten sinngemäß.
 
 
 ##### § 219 Informationssystem zu eingelegten Rechtsbehelfen
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022000000)
 
 (1) Die Bundesnetzagentur erhebt zu den gegen ihre Entscheidungen
 eingelegten Rechtsbehelfen die folgenden Informationen:
@@ -13043,6 +13296,7 @@ Entscheidungen oder Gerichtsurteile zur Verfügung.
 
 
 ##### § 220 Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022100000)
 
 Für bürgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz
 ergeben, gilt § 90 Absatz 1 und 2 des Gesetzes gegen
@@ -13053,9 +13307,11 @@ Präsidentin.
 
 
 #### Unterabschnitt 4 - Internationale Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003400000)
 
 
 ##### § 221 Internationale Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022201119)
 
 (1) Im Bereich der europäischen und internationalen
 Telekommunikationspolitik, insbesondere bei der Mitarbeit in
@@ -13081,6 +13337,7 @@ Behandlung von Informationen fordern.
 
 
 ##### § 222 Anerkannte Abrechnungsstelle für den Seefunkverkehr
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022300000)
 
 Zuständige Behörde für die Anerkennung von Abrechnungsstellen für den
 internationalen Seefunkverkehr nach den Anforderungen der
@@ -13089,9 +13346,11 @@ die Bundesnetzagentur.
 
 
 ## Teil 12 - Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003500000)
 
 
 ### § 223 Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022401119)
 
 (1) Die Gebühren für Entscheidungen über die Zuteilung von Frequenzen
 nach den §§ 91 und 92 sind abweichend von § 9 Absatz 1 des
@@ -13140,6 +13399,7 @@ Wege erhoben werden können. Eine Pauschalierung ist zulässig.
 
 
 ### § 224 Frequenznutzungsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022501119)
 
 (1) Die Bundesnetzagentur erhebt jährliche Beiträge zur Deckung ihrer
 Kosten für die Verwaltung, Kontrolle und Durchsetzung von
@@ -13223,6 +13483,7 @@ Bundesministerium für Wirtschaft und Energie.
 
 
 ### § 225 Kosten von außergerichtlichen Streitbeilegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022600000)
 
 Für die außergerichtlichen Streitbeilegungsverfahren nach § 68 werden
 keine Gebühren und Auslagen erhoben. Jede Partei trägt die ihr durch
@@ -13230,6 +13491,7 @@ die Teilnahme am Verfahren entstehenden Kosten selbst.
 
 
 ### § 226 Kosten des Vorverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022700000)
 
 (1) Für ein Vorverfahren werden Gebühren und Auslagen erhoben.
 
@@ -13249,6 +13511,7 @@ entscheidet die Widerspruchsstelle nach billigem Ermessen.
 
 
 ### § 227 Mitteilung der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022800000)
 
 Die Bundesnetzagentur veröffentlicht einen jährlichen Überblick über
 ihre Verwaltungskosten und die insgesamt eingenommenen Abgaben. Soweit
@@ -13257,9 +13520,11 @@ Verordnungen für die Zukunft angepasst.
 
 
 ## Teil 13 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003600000)
 
 
 ### § 228 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE022902119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer
 vollziehbaren Anordnung nach § 203 Absatz 4 Satz 1 Nummer 2
@@ -13845,9 +14110,11 @@ auch die der Staatskasse auferlegten Kosten trägt.
 
 
 ## Teil 14 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNG003700000)
 
 
 ### § 229 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE023000000)
 
 Die Vorschriften dieses Gesetzes gelten nach Maßgabe des
 Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982
@@ -13856,6 +14123,7 @@ Bereich der deutschen ausschließlichen Wirtschaftszone.
 
 
 ### § 230 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tkg_2021/BJNR185810021.html#BJNR185810021BJNE023101119)
 
 (1) Bestehende Frequenz- und Nummernzuteilungen sowie Wegerechte, die
 im Rahmen des § 8 des Telekommunikationsgesetzes vom 25. Juli 1996

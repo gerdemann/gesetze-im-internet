@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftstchev/BJNR006150985.html#BJNR006150985BJNE000100327)
 
 Auf Grund des § 15 Abs. 1 Nr. 5, 7 und 8 des
 Kraftfahrzeugsteuergesetzes in der Fassung der Bekanntmachung vom 1.
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kraftstchev/BJNR006150985.html#BJNR006150985BJNE000200327)
 
 (1) Fahrzeuge, die im Gebiet der Schweizerischen Eidgenossenschaft zum
 Verkehr zugelassen sind (schweizerische Fahrzeuge) und zum
@@ -45,15 +47,18 @@ gerechnet.
 
 
 ## (XXXX) §§ 2 und 3
+[Direktlink](https://www.gesetze-im-internet.de/kraftstchev/BJNR006150985.html#BJNR006150985BJNE000301301)
 
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kraftstchev/BJNR006150985.html#BJNR006150985BJNE000501301)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kraftstchev/BJNR006150985.html#BJNR006150985BJNE000600327)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

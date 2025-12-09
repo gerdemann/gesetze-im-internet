@@ -20,6 +20,7 @@ Fundstelle
 Stand: Diese V tritt nach ihrem Art. 20 mit Ablauf des Jahres außer Kraft, in dem das Büro geschlossen wird. Der Tag des Außterkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000100000)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -32,6 +33,7 @@ Bundesregierung:
 
 
 ## Art 1 Zweck der Verordnung und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000200000)
 
 (1) Dem Wirtschafts- und Handelsbüro der Sonderverwaltungsregion
 Hongkong der Volksrepublik China in Berlin werden Rechtsfähigkeit
@@ -71,6 +73,7 @@ e)  Der Ausdruck „entsandter Mitarbeiter des Büros“ bezeichnet im Range
 
 
 ## Art 2 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000300000)
 
 (1) Das Büro besitzt in der Bundesrepublik Deutschland volle
 Rechtspersönlichkeit und kann insbesondere
@@ -91,6 +94,7 @@ vertreten.
 
 
 ## Art 3 Unverletzlichkeit der Geschäftsräume
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000400000)
 
 (1) Die Geschäftsräume des Büros sind in dem in diesem Artikel
 vorgesehenen Umfang unverletzlich.
@@ -109,12 +113,14 @@ wird.
 
 
 ## Art 4 Unverletzlichkeit der amtlichen Archive und Schriftstücke
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000500000)
 
 Die amtlichen Archive und Schriftstücke des Büros sind jederzeit
 unverletzlich, wo immer sie sich befinden.
 
 
 ## Art 5 Verkehrsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000600000)
 
 (1) Dem Büro ist der freie Verkehr für alle amtlichen Zwecke
 gestattet. Das Büro kann sich im Verkehr mit der Regierung und mit
@@ -141,6 +147,7 @@ Gepäckstück an seinen Ursprungsort zurückbefördert.
 
 
 ## Art 6 Immunität von der Gerichtsbarkeit und Eingriffen der Verwaltungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000700000)
 
 (1) Entsandte Mitarbeiter des Büros genießen für Handlungen, die in
 Wahrnehmung amtlicher Aufgaben vorgenommen worden sind, Immunität von
@@ -163,6 +170,7 @@ b)  wenn diese von einem Dritten wegen eines Schadens angestrengt werden,
 
 
 ## Art 7 Zeugnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000800000)
 
 (1) Entsandte Mitarbeiter des Büros können in einem Gerichts- oder
 Verwaltungsverfahren als Zeugen geladen werden.
@@ -175,6 +183,7 @@ und Schriftstücke vorzulegen.
 
 
 ## Art 8 Verzicht auf Vorrechte und Immunitäten
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE000900000)
 
 (1) Die Regierung der Sonderverwaltungsregion Hongkong kann
 hinsichtlich eines entsandten Mitarbeiters des Büros auf die in den
@@ -190,6 +199,7 @@ Verzicht erforderlich.
 
 
 ## Art 9 Befreiung der Räumlichkeiten des Büros von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001000000)
 
 Die Räumlichkeiten des Büros in Berlin, die in seinem Eigentum oder
 einer für das Büro handelnden Person stehen oder von ihnen gemietet
@@ -204,6 +214,7 @@ Person Verträge geschlossen hat.
 
 
 ## Art 10 Befreiung der Dienstkraftfahrzeuge des Büros und bestimmter Privatfahrzeuge der entsandten Mitarbeiter von der Kraftfahrzeugsteuer und der Versicherungsteuer
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001100000)
 
 Die Dienstfahrzeuge des Büros und bis zu zwei Privatfahrzeuge jedes
 entsandten Mitarbeiters des Büros sind von der Kraftfahrzeugsteuer und
@@ -212,6 +223,7 @@ Person zu entrichten sind.
 
 
 ## Art 11 Befreiung von Zöllen und Zollkontrollen
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001200000)
 
 (1) Nach Maßgabe der in der Bundesrepublik Deutschland jeweils
 geltenden Gesetze und sonstigen Rechtsvorschriften ist die Einfuhr der
@@ -246,6 +258,7 @@ stattfinden.
 
 
 ## Art 12 Weitere steuerliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001300000)
 
 (1) Die entsandten Mitarbeiter des Büros sind von der Einkommensteuer
 auf das Gehalt und andere Vergütungen oder Erstattungen, die ihnen vom
@@ -263,6 +276,7 @@ erstattet.
 
 
 ## Art 13 Befreiung vom System der sozialen Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001400000)
 
 (1) Vorbehaltlich des Absatzes 2 sind die entsandten Mitarbeiter des
 Büros, in Bezug auf ihre Dienste für das Büro, und die mit ihnen im
@@ -276,6 +290,7 @@ einzuhalten.
 
 
 ## Art 14 Befreiung von der Ausländermeldepflicht, der Aufenthaltsgenehmigung und der Arbeitserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001500000)
 
 Auf die entsandten Mitarbeiter des Büros und die mit ihnen im
 gemeinsamen Haushalt lebenden Familienmitglieder finden die
@@ -285,6 +300,7 @@ Sie sind zu der Beschäftigung in dem Büro berechtigt.
 
 
 ## Art 15 Ausweise
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001600000)
 
 Für die entsandten Mitarbeiter des Büros und die mit ihnen im
 gemeinsamen Haushalt lebenden Familienangehörigen werden
@@ -292,6 +308,7 @@ Protokollausweise ausgestellt, die Angaben zu ihrem Status enthalten.
 
 
 ## Art 16 Beachtung der deutschen Gesetze und sonstigen Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001700000)
 
 (1) Alle Personen, die Vorrechte und Immunitäten nach dieser
 Verordnung genießen, sind unbeschadet derselben verpflichtet, die
@@ -302,6 +319,7 @@ werden, die mit der Wahrnehmung seiner Aufgaben unvereinbar ist.
 
 
 ## Art 17 Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001800000)
 
 Die entsandten Mitarbeiter des Büros und die mit ihnen im gemeinsamen
 Haushalt lebenden Familienangehörigen haben allen Verpflichtungen
@@ -311,6 +329,7 @@ von ihnen benutzten Land-, Wasser- oder Luftfahrzeuge vorgesehen sind.
 
 
 ## Art 18 Private Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE001900000)
 
 (1) Die entsandten Mitarbeiter des Büros dürfen in der Bundesrepublik
 Deutschland keinen freien Beruf und keine gewerbliche Tätigkeit
@@ -323,6 +342,7 @@ gewährt.
 
 
 ## Art 19 Deutsche Staatsangehörige und Personen, die ständig in Deutschland ansässig sind
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE002000000)
 
 Deutsche Staatsangehörige und Personen, die ständig in Deutschland
 ansässig sind Familienangehörigen von entsandten Mitarbeitern des
@@ -332,6 +352,7 @@ zu.
 
 
 ## Art 20 Inkrafttreten und Außerkrafttreten der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE002100000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -343,6 +364,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svwhkvorrv/BJNR014220009.html#BJNR014220009BJNE002200000)
 
 Der Bundesrat hat zugestimmt.
 

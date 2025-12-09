@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35bwabek/BJNR022880985.html#BJNR022880985BJNE000100327)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
 in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1,
@@ -34,6 +35,7 @@ den Markenschutz nachgesucht und erhalten haben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35bwabek/BJNR022880985.html#BJNR022880985BJNE000200327)
 
 Der Bundesminister der Justiz
 

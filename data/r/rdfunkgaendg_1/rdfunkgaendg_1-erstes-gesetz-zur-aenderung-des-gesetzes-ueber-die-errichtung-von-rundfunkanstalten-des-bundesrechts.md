@@ -19,16 +19,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000100308)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000200308)
 
 -
 
 
 ## Art 2 Neubildung der Rundfunkräte
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000300308)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gilt die derzeitige Amtszeit
 der Rundfunkräte der Deutschen Welle und des Deutschlandfunks als
@@ -43,6 +46,7 @@ den sich daraus ergebenden Rechten und Pflichten wahr.
 
 
 ## Art 3 Neubildung der Verwaltungsräte
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000400308)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gilt die derzeitige Amtszeit
 der Verwaltungsräte der Deutschen Welle und des Deutschlandfunks als
@@ -62,12 +66,14 @@ daraus ergebenden Rechten und Pflichten wahr.
 
 
 ## Art 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000500308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rdfunkg_ndg_1/BJNR008230990.html#BJNR008230990BJNE000600308)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

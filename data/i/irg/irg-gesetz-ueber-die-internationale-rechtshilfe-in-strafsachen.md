@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001205311)
 
 (1) Der Rechtshilfeverkehr mit dem Ausland in strafrechtlichen
 Angelegenheiten richtet sich nach diesem Gesetz.
@@ -53,10 +55,12 @@ sich nach diesem Gesetz.
 
 
 ## Zweiter Teil - Auslieferung an das Ausland
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000201307)
 
 
 
 ### § 2 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001301307)
 
 (1) Ein Ausländer, der in einem ausländischen Staat wegen einer Tat,
 die dort mit Strafe bedroht ist, verfolgt wird oder verurteilt worden
@@ -76,6 +80,7 @@ Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind.
 
 
 ### § 3 Auslieferung zur Verfolgung oder zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001401307)
 
 (1) Die Auslieferung ist nur zulässig, wenn die Tat auch nach
 deutschem Recht eine rechtswidrige Tat ist, die den Tatbestand eines
@@ -98,6 +103,7 @@ Monate beträgt.
 
 
 ### § 4 Akzessorische Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001501307)
 
 Ist die Auslieferung zulässig, so ist sie wegen einer weiteren Tat
 auch dann zulässig, wenn für diese
@@ -114,6 +120,7 @@ auch dann zulässig, wenn für diese
 
 
 ### § 5 Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001601307)
 
 Die Auslieferung ist nur zulässig, wenn auf Grund der vom ersuchenden
 Staat gegebenen Zusicherungen erwartet werden kann, daß dieser einem
@@ -121,6 +128,7 @@ vergleichbaren deutschen Ersuchen entsprechen würde.
 
 
 ### § 6 Politische Straftaten, politische Verfolgung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001701307)
 
 (1) Die Auslieferung ist nicht zulässig wegen einer politischen Tat
 oder wegen einer mit einer solchen zusammenhängenden Tat. Sie ist
@@ -137,12 +145,14 @@ aus einem dieser Gründe erschwert werden würde.
 
 
 ### § 7 Militärische Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001801307)
 
 Die Auslieferung ist nicht zulässig wegen einer Tat, die
 ausschließlich in der Verletzung militärischer Pflichten besteht.
 
 
 ### § 8 Todesstrafe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE001901307)
 
 Ist die Tat nach dem Recht des ersuchenden Staates mit der Todesstrafe
 bedroht, so ist die Auslieferung nur zulässig, wenn der ersuchende
@@ -151,6 +161,7 @@ vollstreckt werden wird.
 
 
 ### § 9 Konkurrierende Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002001307)
 
 Ist für die Tat auch die deutsche Gerichtsbarkeit begründet, so ist
 die Auslieferung nicht zulässig, wenn
@@ -174,6 +185,7 @@ die Auslieferung nicht zulässig, wenn
 
 
 ### § 9a Auslieferung und Verfahren vor internationalen Strafgerichtshöfen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009600310)
 
 (1) Die Auslieferung ist nicht zulässig, wenn ein internationaler
 Strafgerichtshof, der durch einen für die Bundesrepublik Deutschland
@@ -203,6 +215,7 @@ wird dem Ersuchen des Gerichtshofes Vorrang gegeben.
 
 
 ### § 10 Auslieferungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002101307)
 
 (1) Die Auslieferung ist nur zulässig, wenn wegen der Tat ein
 Haftbefehl, eine Urkunde mit entsprechender Rechtswirkung oder ein
@@ -247,6 +260,7 @@ vorgelegt worden sind.
 
 
 ### § 11 Spezialität
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002201307)
 
 (1) Die Auslieferung ist nur zulässig, wenn gewährleistet ist, daß der
 Verfolgte
@@ -299,12 +313,14 @@ Verfahrens nach Absatz 1 Nr. 3, Abs. 2 Satz 1 Nr. 2 gleich.
 
 
 ### § 12 Bewilligung der Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002301307)
 
 Die Auslieferung darf, außer im Fall des § 41, nur bewilligt werden,
 wenn das Gericht sie für zulässig erklärt hat.
 
 
 ### § 13 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002401307)
 
 (1) Die gerichtlichen Entscheidungen erläßt vorbehaltlich der §§ 21,
 22 und 39 Abs. 2 das Oberlandesgericht. Die Entscheidungen des
@@ -316,6 +332,7 @@ Auslieferung durch.
 
 
 ### § 14 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002501307)
 
 (1) Örtlich zuständig sind das Oberlandesgericht und die
 Staatsanwaltschaft bei dem Oberlandesgericht, in deren Bezirk der
@@ -336,6 +353,7 @@ Bundesgerichtshof das zuständige Oberlandesgericht.
 
 
 ### § 15 Auslieferungshaft
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002601307)
 
 (1) Nach dem Eingang des Auslieferungsersuchens kann gegen den
 Verfolgten die Auslieferungshaft angeordnet werden, wenn
@@ -356,6 +374,7 @@ unzulässig erscheint.
 
 
 ### § 16 Vorläufige Auslieferungshaft
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002701307)
 
 (1) Die Auslieferungshaft kann unter den Voraussetzungen des § 15
 schon vor dem Eingang des Auslieferungsersuchens angeordnet werden,
@@ -385,6 +404,7 @@ Auslieferungsunterlagen entscheidet das Oberlandesgericht unverzüglich
 
 
 ### § 17 Auslieferungshaftbefehl
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002801307)
 
 (1) Die vorläufige Auslieferungshaft und die Auslieferungshaft werden
 durch schriftlichen Haftbefehl (Auslieferungshaftbefehl) des
@@ -414,6 +434,7 @@ Oberlandesgerichts angeordnet.
 
 
 ### § 18 Fahndungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE002902310)
 
 Liegt ein Auslieferungsersuchen vor und ist der Aufenthalt des
 Verfolgten nicht bekannt, so können die erforderlichen Maßnahmen zur
@@ -426,6 +447,7 @@ entsprechend anwendbar.
 
 
 ### § 19 Vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003001307)
 
 Liegen die Voraussetzungen eines Auslieferungshaftbefehls vor, so sind
 die Staatsanwaltschaft und die Beamten des Polizeidienstes zur
@@ -435,6 +457,7 @@ Festnahme berechtigt.
 
 
 ### § 20 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003101307)
 
 (1) Wird der Verfolgte festgenommen, so ist ihm der Grund der
 Festnahme mitzuteilen.
@@ -444,6 +467,7 @@ unverzüglich bekanntzugeben. Der Verfolgte erhält eine Abschrift.
 
 
 ### § 21 Verfahren nach Ergreifung auf Grund eines Auslieferungshaftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003202125)
 
 (1) Wird der Verfolgte auf Grund eines Auslieferungshaftbefehls
 ergriffen, so ist er unverzüglich, spätestens am Tag nach der
@@ -514,6 +538,7 @@ des Verfolgten anordnen.
 
 
 ### § 22 Verfahren nach vorläufiger Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003302125)
 
 (1) Wird der Verfolgte vorläufig festgenommen, so ist er unverzüglich,
 spätestens am Tag nach der Festnahme, dem Richter des nächsten
@@ -539,12 +564,14 @@ festzuhalten ist. § 21 Abs. 4 Satz 2, Abs. 6 und 7 gilt entsprechend.
 
 
 ### § 23 Entscheidung über Einwendungen des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003401307)
 
 Über Einwendungen des Verfolgten gegen den Auslieferungshaftbefehl
 oder gegen dessen Vollzug entscheidet das Oberlandesgericht.
 
 
 ### § 24 Aufhebung des Auslieferungshaftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003501307)
 
 (1) Der Auslieferungshaftbefehl ist aufzuheben, sobald die
 Voraussetzungen der vorläufigen Auslieferungshaft oder der
@@ -558,6 +585,7 @@ an.
 
 
 ### § 25 Aussetzung des Vollzugs des Auslieferungshaftbefehls
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003602307)
 
 (1) Das Oberlandesgericht kann den Vollzug des
 Auslieferungshaftbefehls aussetzen, wenn weniger einschneidende
@@ -571,6 +599,7 @@ Jugendgerichtsgesetzes gelten entsprechend.
 
 
 ### § 26 Haftprüfung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003701307)
 
 (1) Befindet sich der Verfolgte in Auslieferungshaft, so entscheidet
 das Oberlandesgericht über deren Fortdauer, wenn der Verfolgte seit
@@ -586,6 +615,7 @@ des Jugendgerichtsgesetzes), so gilt Absatz 1 entsprechend.
 
 
 ### § 27 Vollzug der Haft
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003802160)
 
 (1) Für den Vollzug der vorläufigen Auslieferungshaft, der
 Auslieferungshaft und der Haft auf Grund einer Anordnung des Richters
@@ -600,6 +630,7 @@ zuständigen Senats des Oberlandesgerichts.
 
 
 ### § 28 Vernehmung des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE003902125)
 
 (1) Nach dem Eingang des Auslieferungsersuchens beantragt die
 Staatsanwaltschaft bei dem Oberlandesgericht die Vernehmung des
@@ -624,6 +655,7 @@ sodann dessen Erklärung zu Protokoll.
 
 
 ### § 29 Antrag auf Entscheidung über die Zulässigkeit der Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004001307)
 
 (1) Hat sich der Verfolgte nicht mit der vereinfachten Auslieferung (§
 41) einverstanden erklärt, so beantragt die Staatsanwaltschaft bei dem
@@ -637,6 +669,7 @@ hat.
 
 
 ### § 30 Vorbereitung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004101307)
 
 (1) Reichen die Auslieferungsunterlagen zur Beurteilung der
 Zulässigkeit der Auslieferung nicht aus, so entscheidet das
@@ -656,6 +689,7 @@ Verzichte oder frühere Beschlüsse gebunden zu sein.
 
 
 ### § 31 Durchführung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004202125)
 
 (1) Von Ort und Zeit der mündlichen Verhandlung sind die
 Staatsanwaltschaft bei dem Oberlandesgericht, der Verfolgte und sein
@@ -683,6 +717,7 @@ hören. Über die Verhandlung ist ein Protokoll aufzunehmen.
 
 
 ### § 32 Entscheidung über die Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004302125)
 
 Der Beschluß über die Zulässigkeit der Auslieferung ist zu begründen.
 Er wird der Staatsanwaltschaft bei dem Oberlandesgericht, dem
@@ -691,6 +726,7 @@ Verfolgte erhält eine Abschrift.
 
 
 ### § 33 Erneute Entscheidung über die Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004401307)
 
 (1) Treten nach der Entscheidung des Oberlandesgerichts über die
 Zulässigkeit der Auslieferung Umstände ein, die eine andere
@@ -710,6 +746,7 @@ Zulässigkeit der Auslieferung entscheiden.
 
 
 ### § 34 Haft zur Durchführung der Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004501307)
 
 (1) Befindet sich der Verfolgte nach der Bewilligung der Auslieferung
 auf freiem Fuß und ist die Durchführung der Auslieferung nicht auf
@@ -736,6 +773,7 @@ Auslieferungshaftbefehls (§ 17) angeordnet werden kann.
 
 
 ### § 35 Erweiterung der Auslieferungsbewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004601307)
 
 (1) Ist die Auslieferung durchgeführt und ersucht der Staat, an den
 der Verfolgte ausgeliefert worden ist, wegen einer weiteren Tat um
@@ -770,6 +808,7 @@ Auslieferung zuständig war.
 
 
 ### § 36 Weiterlieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004701307)
 
 (1) Ist die Auslieferung durchgeführt und ersucht eine zuständige
 Stelle eines ausländischen Staates wegen der Tat, derentwegen die
@@ -789,6 +828,7 @@ wäre. Für das Verfahren gelten die §§ 28 bis 33 entsprechend.
 
 
 ### § 37 Vorübergehende Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004801307)
 
 (1) Wird die bewilligte Auslieferung aufgeschoben, weil im
 Geltungsbereich dieses Gesetzes gegen den Verfolgten ein
@@ -827,6 +867,7 @@ ganz oder zum Teil unterbleibt, wenn
 
 
 ### § 38 Herausgabe von Gegenständen im Auslieferungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE004902311)
 
 (1) Im Zusammenhang mit einer Auslieferung können an den ersuchenden
 Staat ohne besonderes Ersuchen Gegenstände herausgegeben werden,
@@ -861,6 +902,7 @@ erklärt hat.
 
 
 ### § 39 Beschlagnahme und Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005002301)
 
 (1) Gegenstände, deren Herausgabe an einen ausländischen Staat in
 Betracht kommt, können, auch schon vor Eingang des
@@ -879,6 +921,7 @@ die Beschlagnahme und die Durchsuchung anzuordnen.
 
 
 ### § 40 Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005104125)
 
 (1) Die verfolgte Person kann sich in jeder Lage des Verfahrens eines
 Rechtsbeistands bedienen.
@@ -955,6 +998,7 @@ Absatz 6 Satz 2 und Absatz 7 Satz 4 sind unanfechtbar.
 
 
 ### § 41 Vereinfachte Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005202301)
 
 (1) Die Auslieferung eines Verfolgten, gegen den ein
 Auslieferungshaftbefehl besteht, kann auf Ersuchen einer zuständigen
@@ -979,6 +1023,7 @@ der Verfolgte befindet.
 
 
 ### § 42 Anrufung des Bundesgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005301307)
 
 (1) Hält das Oberlandesgericht eine Entscheidung des
 Bundesgerichtshofes für geboten, um eine Rechtsfrage von
@@ -998,10 +1043,12 @@ Oberlandesgericht dies zur Klärung einer Rechtsfrage beantragt.
 
 
 ## Dritter Teil - Durchlieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000301307)
 
 
 
 ### § 43 Zulässigkeit der Durchlieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005401307)
 
 (1) Ein Ausländer, der in einem ausländischen Staat wegen einer Tat,
 die dort mit Strafe bedroht ist, verfolgt wird oder verurteilt worden
@@ -1046,6 +1093,7 @@ Ersuchen zugrunde liegenden Taten vorliegen.
 
 
 ### § 44 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005501307)
 
 (1) Die gerichtlichen Entscheidungen erläßt das Oberlandesgericht. §
 13 Abs. 1 Satz 2, Abs. 2 gilt entsprechend.
@@ -1068,6 +1116,7 @@ das Oberlandesgericht Frankfurt am Main zuständig.
 
 
 ### § 45 Durchlieferungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005602125)
 
 (1) Erscheint die Durchlieferung zulässig, so wird der Verfolgte zu
 ihrer Sicherung in Haft gehalten.
@@ -1116,6 +1165,7 @@ herausgegeben werden.
 
 
 ### § 46 Durchlieferung bei vorübergehender Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005701307)
 
 (1) Ist die Durchlieferung bewilligt worden, so kann der Verfolgte auf
 Ersuchen einer zuständigen Stelle des ersuchenden Staates zunächst zum
@@ -1128,6 +1178,7 @@ die weiteren Überstellungsfälle zu erstrecken.
 
 
 ### § 47 Unvorhergesehene Zwischenlandung bei Beförderung auf dem Luftweg
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005802125)
 
 (1) Hat eine zuständige Stelle eines ausländischen Staates
 angekündigt, sie werde einen Ausländer zum Zweck der Auslieferung auf
@@ -1183,10 +1234,12 @@ Oberlandesgericht den Durchlieferungshaftbefehl aufrechterhalten hat.
 
 
 ## Vierter Teil - Rechtshilfe durch Vollstreckung ausländischer Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000401307)
 
 
 
 ### § 48 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE005904311)
 
 Rechtshilfe kann für ein Verfahren in einer strafrechtlichen
 Angelegenheit durch Vollstreckung einer im Ausland rechtskräftig
@@ -1199,6 +1252,7 @@ zugrunde liegt.
 
 
 ### § 49 Weitere Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006005311)
 
 (1) Die Vollstreckung ist nur zulässig, wenn
 
@@ -1310,6 +1364,7 @@ Gesetz gebilligte völkerrechtliche Vereinbarung dies vorsieht.
 
 
 ### § 50 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006101307)
 
 Über die Vollstreckbarkeit eines ausländischen Erkenntnisses
 entscheidet das Landgericht. Die Staatsanwaltschaft bei dem
@@ -1317,6 +1372,7 @@ Landgericht bereitet die Entscheidung vor.
 
 
 ### § 51 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006204311)
 
 (1) Die örtliche Zuständigkeit für die Entscheidung über die
 Vollstreckbarkeit eines ausländischen Erkenntnisses richtet sich nach
@@ -1344,6 +1400,7 @@ sich die Zuständigkeit nach dem Sitz der Bundesregierung.
 
 
 ### § 52 Vorbereitung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006304311)
 
 (1) Reichen die übermittelten Unterlagen zur Beurteilung der
 Zulässigkeit der Vollstreckung nicht aus, so entscheidet das Gericht
@@ -1363,6 +1420,7 @@ könnten, müssen vor der Entscheidung Gelegenheit erhalten, sich zu
 
 
 ### § 53 Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006405125)
 
 (1) Die verurteilte Person kann sich in jeder Lage des Verfahrens
 eines Rechtsbeistands bedienen. Dies gilt auch für Dritte, die im Fall
@@ -1408,6 +1466,7 @@ sowie § 144 gelten entsprechend.
 
 
 ### § 54 Umwandlung der ausländischen Sanktion
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006506311)
 
 (1) Soweit die Vollstreckung des ausländischen Erkenntnisses zulässig
 ist, wird es für vollstreckbar erklärt. Zugleich ist die insoweit
@@ -1465,6 +1524,7 @@ für die Anrechnung ein, so ist die Entscheidung zu ergänzen.
 
 
 ### § 54a Vollstreckung langer freiheitsentziehender Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022700311)
 
 (1) Hat der Urteilsstaat die Bedingung gestellt, dass ab der
 Überstellung einer Person mit deutscher Staatsangehörigkeit die
@@ -1504,6 +1564,7 @@ Entscheidung gemäß Absatz 1.
 
 
 ### § 55 Entscheidung über die Vollstreckbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006606311)
 
 (1) Über die Vollstreckbarkeit entscheidet das Landgericht durch
 Beschluß. Soweit das ausländische Erkenntnis für vollstreckbar erklärt
@@ -1528,6 +1589,7 @@ des Bundeszentralregistergesetzes gelten entsprechend.
 
 
 ### § 56 Bewilligung der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006705311)
 
 (1) Die Rechtshilfe darf nur bewilligt werden, wenn das ausländische
 Erkenntnis für vollstreckbar erklärt worden ist.
@@ -1546,6 +1608,7 @@ gilt entsprechend.
 
 
 ### § 56a Entschädigung der verletzten Person
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009304311)
 
 (1) Wurde aus einer ausländischen Anordnung der Einziehung von
 Taterträgen im Inland in Vermögenswerte der verurteilten Person
@@ -1600,6 +1663,7 @@ zu den Zivilgerichten eröffnet.
 
 
 ### § 56b Vereinbarung über die Verwertung, Herausgabe und Aufteilung des abgeschöpften Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015403311)
 
 (1) Die für die Bewilligung zuständige Behörde kann mit der
 zuständigen Behörde des ausländischen Staates für den Einzelfall eine
@@ -1614,6 +1678,7 @@ zuständigen obersten Bundesbehörde.
 
 
 ### § 57 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006804311)
 
 (1) Nach Bewilligung der Rechtshilfe führt die nach § 50 Satz 2
 zuständige Staatsanwaltschaft als Vollstreckungsbehörde die
@@ -1663,6 +1728,7 @@ Absatz 4 Satz 2 genannte Frist verstrichen ist.
 
 
 ### § 57a Kosten der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015501311)
 
 Die verurteilte Person trägt die Kosten der Vollstreckung. Sie trägt
 auch die notwendigen Kosten ihrer Überstellung, sofern die
@@ -1674,6 +1740,7 @@ würde.
 
 
 ### § 58 Sicherung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE006906311)
 
 (1) Liegt ein vollständiges rechtskräftiges und vollstreckbares
 Erkenntnis im Sinne des § 49 Absatz 1 Nummer 1 vor oder hat eine
@@ -1722,10 +1789,12 @@ vornherein unzulässig erscheint.
 
 
 ## Fünfter Teil - Sonstige Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000501307)
 
 
 
 ### § 59 Zulässigkeit der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007001307)
 
 (1) Auf Ersuchen einer zuständigen Stelle eines ausländischen Staates
 kann sonstige Rechtshilfe in einer strafrechtlichen Angelegenheit
@@ -1744,6 +1813,7 @@ einander in entsprechenden Fällen Rechtshilfe leisten könnten.
 
 
 ### § 60 Leistung der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007101307)
 
 Hält die für die Bewilligung der Rechtshilfe zuständige Behörde die
 Voraussetzungen für die Leistung der Rechtshilfe für gegeben, so ist
@@ -1752,6 +1822,7 @@ gebunden. § 61 bleibt unberührt.
 
 
 ### § 61 Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007201307)
 
 (1) Hält ein Gericht, das für die Leistung der Rechtshilfe zuständig
 ist, die Voraussetzungen für die Leistung der Rechtshilfe für nicht
@@ -1786,6 +1857,7 @@ Leistung der Rechtshilfe nicht vorliegen.
 
 
 ### § 61a Datenübermittlung ohne Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011300301)
 
 (1) Gerichte und Staatsanwaltschaften dürfen ohne ein Ersuchen
 personenbezogene Daten aus strafprozessualen Ermittlungen an
@@ -1859,6 +1931,7 @@ unterrichten.
 
 
 ### § 61b Gemeinsame Ermittlungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015300160)
 
 (1) Wenn eine völkerrechtliche Vereinbarung dies vorsieht, kann eine
 gemeinsame Ermittlungsgruppe gebildet werden. Einem von einem anderen
@@ -1886,6 +1959,7 @@ Ersuchen bewilligt werden könnte.
 
 
 ### § 61c Audiovisuelle Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011401160)
 
 Die Auferlegung von Kosten oder die Festsetzung eines Ordnungsmittels
 gegen einen Zeugen oder Sachverständigen, der einer Ladung zur
@@ -1894,6 +1968,7 @@ Videokonferenz keine Folge leistet, unterbleibt.
 
 
 ### § 62 Vorübergehende Überstellung in das Ausland für ein ausländisches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007301307)
 
 (1) Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs- oder
 Strafhaft befindet oder auf Grund der Anordnung einer
@@ -1938,6 +2013,7 @@ Freiheitsentziehung angerechnet. § 37 Abs. 4 gilt entsprechend.
 
 
 ### § 63 Vorübergehende Überstellung aus dem Ausland für ein ausländisches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007402311)
 
 (1) Wer sich in einem ausländischen Staat in Untersuchungs- oder
 Strafhaft befindet oder auf Grund der Anordnung einer
@@ -1972,6 +2048,7 @@ Rechtshilfehandlung vornehmen soll. Die Entscheidung ist unanfechtbar.
 
 
 ### § 64 Durchbeförderung von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007501307)
 
 (1) Ein Ausländer, der sich in einem ausländischen Staat in
 Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung
@@ -1987,6 +2064,7 @@ Abs. 2 gelten entsprechend.
 
 
 ### § 65 Durchbeförderung zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007601307)
 
 Für die Durchbeförderung eines Ausländers zur Vollstreckung einer
 Strafe oder sonstigen Sanktion aus dem Staat, in dem er verurteilt
@@ -1998,6 +2076,7 @@ werden kann.
 
 
 ### § 66 Herausgabe von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007703311)
 
 (1) Auf Ersuchen einer zuständigen Stelle eines ausländischen Staates
 können Gegenstände herausgegeben werden,
@@ -2056,6 +2135,7 @@ Landgericht, in dessen Bezirk sich die Gegenstände befinden. § 61 Abs.
 
 
 ### § 67 Beschlagnahme und Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007802301)
 
 (1) Gegenstände, deren Herausgabe an einen ausländischen Staat in
 Betracht kommt, können, auch schon vor Eingang des Ersuchens um
@@ -2078,6 +2158,7 @@ die Beschlagnahme und die Durchsuchung anzuordnen.
 
 
 ### § 67a Rechtshilfe für internationale Strafgerichtshöfe, zwischen- und überstaatliche Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009402160)
 
 Für Ersuchen eines internationalen Strafgerichtshofes und anderer
 zwischen- und überstaatlicher Einrichtungen um sonstige Rechtshilfe in
@@ -2087,10 +2168,12 @@ abschließende Regelung treffen.
 
 
 ## Sechster Teil - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000601307)
 
 
 
 ### § 68 Rücklieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE007901307)
 
 (1) Ein Verfolgter, der für ein im Geltungsbereich dieses Gesetzes
 gegen ihn geführtes Strafverfahren auf Ersuchen unter der Bedingung
@@ -2124,6 +2207,7 @@ Entscheidung ist unanfechtbar.
 
 
 ### § 69 Vorübergehende Überstellung aus dem Ausland für ein deutsches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008002311)
 
 (1) Eine in einem ausländischen Staat in Untersuchungs- oder Strafhaft
 befindliche oder auf Grund der Anordnung einer freiheitsentziehenden
@@ -2144,6 +2228,7 @@ Satz 1, § 63 Abs. 2 gelten entsprechend.
 
 
 ### § 70 Vorübergehende Überstellung in das Ausland für ein deutsches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008101307)
 
 Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs- oder
 Strafhaft befindet oder auf Grund der Anordnung einer
@@ -2156,6 +2241,7 @@ und 3 gilt entsprechend.
 
 
 ### § 71 Vollstreckung deutscher Erkenntnisse im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008204311)
 
 (1) Die Vollstreckung einer im Geltungsbereich dieses Gesetzes gegen
 eine ausländische Person verhängten Strafe oder sonstigen Sanktion
@@ -2234,26 +2320,31 @@ nicht zu Ende geführt hat.
 
 
 ### § 71a Vereinbarung über die Verwertung, Herausgabe und Aufteilung des abgeschöpften Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014602311)
 
 Für den Fall der Vollstreckung einer Anordnung der Einziehung in einem
 ausländischen Staat gilt § 56b Absatz 1 entsprechend.
 
 
 ### § 72 Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008302311)
 
 Bedingungen, die der ausländische Staat an die Rechtshilfe geknüpft
 hat, sind zu beachten.
 
 
 ## Siebenter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000702125)
 
 
 
 ### Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001401125)
 
 
 
 #### § 73 Grenze der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008408125)
 
 Die Leistung von Rechtshilfe sowie die Datenübermittlung ohne Ersuchen
 ist unzulässig, wenn sie wesentlichen Grundsätzen der deutschen
@@ -2264,6 +2355,7 @@ die Europäische Union enthaltenen Grundsätzen im Widerspruch stünde.
 
 
 #### § 74 Zuständigkeit des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008509311)
 
 (1) Über ausländische Rechtshilfeersuchen und über die Stellung von
 Rechtshilfeersuchen an ausländische Staaten entscheidet das
@@ -2298,6 +2390,7 @@ Absatz 2 ausgeschlossen.
 
 
 #### § 74a Internationale Strafgerichtshöfe, zwischen- und überstaatliche Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009502160)
 
 Für die Entscheidung über Ersuchen eines internationalen
 Strafgerichtshofes und anderer zwischen- und überstaatlicher
@@ -2307,12 +2400,14 @@ spezialgesetzliche Vorschriften eine abschließende Regelung treffen.
 
 
 #### § 75 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008602311)
 
 Auf die Erstattung von Kosten der Rechtshilfe kann gegenüber dem
 ausländischen Staat verzichtet werden.
 
 
 #### § 76 Gegenseitigkeitszusicherung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008702311)
 
 Im Zusammenhang mit deutschen Rechtshilfeersuchen kann einem
 ausländischen Staat zugesichert werden, von ihm ausgehende Ersuchen zu
@@ -2321,6 +2416,7 @@ gilt entsprechend.
 
 
 #### § 77 Anwendung anderer Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE008804311)
 
 (1) Soweit dieses Gesetz keine besonderen Verfahrensvorschriften
 enthält, gelten die Vorschriften des Gerichtsverfassungsgesetzes und
@@ -2336,6 +2432,7 @@ Bußgeldverfahren gelten.
 
 
 #### § 77a Elektronische Kommunikation und Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015605125)
 
 (1) Ist nach diesem Gesetz für die Leistung von Rechtshilfe die
 Einreichung schriftlicher Unterlagen einschließlich von Originalen
@@ -2409,6 +2506,7 @@ Zustimmung des Bundesrates nicht erforderlich ist.
 
 
 #### § 77b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015702125)
 
 (1) Das Bundesministerium der Justiz und die Landesregierungen
 bestimmen für ihren Bereich durch Rechtsverordnung,
@@ -2472,10 +2570,12 @@ Verfahrensabschnitte beschränkt werden.
 
 
 ### Abschnitt 2 - Schutz personenbezogener Daten im Rechtshilfeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003600125)
 
 
 
 #### § 77c Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024400125)
 
 Die Vorschriften dieses Abschnitts sind auf personenbezogene Daten
 anzuwenden, die im Rechtshilfeverkehr übermittelt oder empfangen
@@ -2483,6 +2583,7 @@ werden.
 
 
 #### § 77d Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024500125)
 
 (1) Personenbezogene Daten dürfen, soweit dies gesetzlich vorgesehen
 ist und vorbehaltlich der Regelungen in den §§ 97a und 97b, an
@@ -2592,6 +2693,7 @@ assoziierte Staaten sind solche gemäß § 91 Absatz 3.
 
 
 #### § 77e Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024600125)
 
 (1) Die übermittelnde Stelle
 
@@ -2643,6 +2745,7 @@ von der empfangenden Stelle einzuhalten sind.
 
 
 #### § 77f Verfahren bei Fehlen eines Angemessenheitsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024700125)
 
 (1) Ohne Angemessenheitsbeschluss gemäß § 77d Absatz 1 Nummer 4 dürfen
 personenbezogene Daten übermittelt werden, wenn
@@ -2692,6 +2795,7 @@ datenschutzrechtliche Aufsichtsbehörde über Fallgruppen von
 
 
 #### § 77g Zustimmung zur Weiterleitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024800125)
 
 Wird die übermittelnde Stelle von der empfangenden Stelle um eine
 Zustimmung zur Weiterleitung der übermittelten personenbezogenen Daten
@@ -2702,6 +2806,7 @@ wäre.
 
 
 #### § 77h Verwendung von übermittelten personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024900125)
 
 (1) Personenbezogene Daten, die von öffentlichen Stellen anderer
 Staaten oder von zwischen- oder überstaatlichen Einrichtungen
@@ -2719,14 +2824,17 @@ sie übermittelt wurden, benötigt werden.
 
 
 ## Achter Teil - Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000804160)
 
 
 
 ### Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001400301)
 
 
 
 #### § 78 Vorrang des Achten Teils
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011701160)
 
 (1) Soweit dieser Teil keine besonderen Regelungen enthält, finden die
 übrigen Bestimmungen dieses Gesetzes auf den Auslieferungs- und
@@ -2738,6 +2846,7 @@ Vereinbarungen vor, soweit er abschließende Regelungen enthält.
 
 
 #### § 79 Grundsätzliche Pflicht zur Bewilligung; Vorabentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011800301)
 
 (1) Zulässige Ersuchen eines Mitgliedstaates um Auslieferung oder
 Durchlieferung können nur abgelehnt werden, soweit dies in diesem Teil
@@ -2763,10 +2872,12 @@ Verfahren nach § 33.
 
 
 ### Abschnitt 2 - Auslieferung an einen Mitgliedstaat der  Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001500301)
 
 
 
 #### § 80 Auslieferung deutscher Staatsangehöriger
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011901311)
 
 (1) Die Auslieferung eines Deutschen zum Zwecke der Strafverfolgung
 ist nur zulässig, wenn
@@ -2833,6 +2944,7 @@ Protokoll zustimmt. § 41 Abs. 3 und 4 gilt entsprechend.
 
 
 #### § 81 Auslieferung zur Verfolgung oder zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012002311)
 
 § 3 findet mit den Maßgaben Anwendung, dass
 
@@ -2871,12 +2983,14 @@ Protokoll zustimmt. § 41 Abs. 3 und 4 gilt entsprechend.
 
 
 #### § 82 Nichtanwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012100301)
 
 Die §§ 5, 6 Abs. 1, § 7 und, soweit ein Europäischer Haftbefehl
 vorliegt, § 11 finden keine Anwendung.
 
 
 #### § 83 Ergänzende Zulässigkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012201311)
 
 (1) Die Auslieferung ist nicht zulässig, wenn
 
@@ -2972,6 +3086,7 @@ werden wird.
 
 
 #### § 83a Auslieferungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012302125)
 
 (1) Die Auslieferung ist nur zulässig, wenn die in § 10 genannten
 Unterlagen oder ein Europäischer Haftbefehl übermittelt wurden, der
@@ -3021,6 +3136,7 @@ Haftbefehl.
 
 
 #### § 83b Bewilligungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012602311)
 
 (1) Die Bewilligung der Auslieferung kann abgelehnt werden, wenn
 
@@ -3063,6 +3179,7 @@ seinen gewöhnlichen Aufenthalt hat, kann ferner abgelehnt werden, wenn
 
 
 #### § 83c Verfahren und Fristen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012706125)
 
 (1) Über die Auslieferung soll spätestens innerhalb von 60 Tagen nach
 der Festnahme des Verfolgten entschieden werden.
@@ -3097,6 +3214,7 @@ innerhalb von 30 Tagen nach Eingang des Ersuchens entschieden werden.
 
 
 #### § 83d Entlassung des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012401311)
 
 Wurde der Verfolgte innerhalb von zehn Tagen nach Ablauf eines nach §
 83c Absatz 4 vereinbarten Übergabetermins nicht übernommen, so ist er
@@ -3105,6 +3223,7 @@ vereinbart wurde.
 
 
 #### § 83e Vernehmung des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012500301)
 
 (1) Solange eine Entscheidung über die Auslieferung noch nicht
 ergangen ist, ist ein Ersuchen des ersuchenden Mitgliedstaates um
@@ -3115,10 +3234,12 @@ Mitgliedstaates die Anwesenheit zu gestatten.
 
 
 ### Abschnitt 3 - Durchlieferung an einen Mitgliedstaat der  Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001600301)
 
 
 
 #### § 83f Durchlieferung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012802311)
 
 (1) Die Durchlieferung durch den Geltungsbereich dieses Gesetzes aus
 einem Mitgliedstaat in einen anderen Mitgliedstaat ist zulässig, wenn
@@ -3161,6 +3282,7 @@ nach Eingang des Ersuchens entschieden werden.
 
 
 #### § 83g Beförderung auf dem Luftweg
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE012900301)
 
 § 83f gilt auch bei der Beförderung auf dem Luftweg, bei der es zu
 einer unvorhergesehenen Zwischenlandung im Geltungsbereich dieses
@@ -3168,10 +3290,12 @@ Gesetzes kommt.
 
 
 ### Abschnitt 4 - Ausgehende Ersuchen um Auslieferung an einen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001700301)
 
 
 
 #### § 83h Spezialität
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013000301)
 
 (1) Von einem Mitgliedstaat aufgrund eines Europäischen Haftbefehls
 übergebene Personen dürfen
@@ -3223,6 +3347,7 @@ hierüber zu belehren.
 
 
 #### § 83i Unterrichtung über Fristverzögerungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013101311)
 
 Die Bundesregierung unterrichtet den Rat der Europäischen Union, wenn
 es wiederholt zu Verzögerungen bei der Auslieferung durch einen
@@ -3237,6 +3362,7 @@ Haftbefehl erforderlich ist.
 
 
 #### § 83j Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE011502125)
 
 (1) In einem Verfahren zur Vollstreckung eines Europäischen
 Haftbefehls zum Zwecke der Strafverfolgung liegt ein Fall der
@@ -3275,18 +3401,22 @@ sowie § 144 gelten entsprechend.
 
 
 ## Neunter Teil - Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG000903125)
 
 
 
 ### Abschnitt 1 - Freiheitsentziehende Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001801311)
 
 
 
 #### Unterabschnitt 1 - Vollstreckung ausländischer Erkenntnisse in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002900311)
 
 
 
 ##### § 84 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009005311)
 
 (1) Nach diesem Unterabschnitt richtet sich die Vollstreckungshilfe
 für einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe
@@ -3316,6 +3446,7 @@ nach § 1 Absatz 3 vor, soweit er abschließende Regelungen enthält.
 
 
 ##### § 84a Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019200311)
 
 (1) In Abweichung von § 49 ist die Vollstreckung eines ausländischen
 Erkenntnisses nach Maßgabe des Rahmenbeschlusses Freiheitsstrafen nur
@@ -3395,6 +3526,7 @@ Maßgabe des Rahmenbeschlusses Freiheitsstrafen ersucht hat und
 
 
 ##### § 84b Ergänzende Zulässigkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019300311)
 
 (1) Die Vollstreckung ist nicht zulässig, wenn
 
@@ -3500,6 +3632,7 @@ aufgehoben werden kann, belehrt worden sein.
 
 
 ##### § 84c Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019400311)
 
 (1) Die Vollstreckung eines ausländischen Erkenntnisses nach Maßgabe
 des Rahmenbeschlusses Freiheitsstrafen ist nur zulässig, wenn durch
@@ -3517,6 +3650,7 @@ anderen beigefügten Unterlagen ergeben.
 
 
 ##### § 84d Bewilligungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019500311)
 
 Die Bewilligung einer nach den §§ 84a bis 84c zulässigen Vollstreckung
 kann nur abgelehnt werden, wenn
@@ -3570,6 +3704,7 @@ kann nur abgelehnt werden, wenn
 
 
 ##### § 84e Vorläufige Bewilligungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019600311)
 
 (1) Über die Bewilligung der Vollstreckung entscheidet die nach § 50
 Satz 2 und § 51 zuständige Staatsanwaltschaft. Sie gibt der
@@ -3595,6 +3730,7 @@ den vorigen Stand gelten entsprechend.
 
 
 ##### § 84f Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019700311)
 
 (1) Das nach § 50 Satz 1 und § 51 zuständige Landgericht entscheidet
 auf Antrag der Staatsanwaltschaft nach § 84e Absatz 2 oder auf Antrag
@@ -3629,6 +3765,7 @@ verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 
 
 ##### § 84g Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019800311)
 
 (1) Über die Anträge auf gerichtliche Entscheidung nach § 84e Absatz 2
 und 3 entscheidet das Landgericht durch Beschluss.
@@ -3688,6 +3825,7 @@ verschärft werden.
 
 
 ##### § 84h Bewilligung nach gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019900311)
 
 (1) Die Staatsanwaltschaft darf die Vollstreckungshilfe nur
 bewilligen, wenn das ausländische Erkenntnis für vollstreckbar erklärt
@@ -3705,6 +3843,7 @@ ist zu begründen.
 
 
 ##### § 84i Spezialität
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020000311)
 
 (1) Wurde eine verurteilte Person ohne ihr Einverständnis aus einem
 anderen Mitgliedstaat überstellt, darf sie wegen einer vor der
@@ -3746,6 +3885,7 @@ Unwiderruflichkeit zu belehren.
 
 
 ##### § 84j Sicherung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020100311)
 
 § 58 Absatz 1, 2 und 4 gilt mit der Maßgabe, dass die Haft gegen die
 verurteilte Person angeordnet werden kann, wenn
@@ -3769,6 +3909,7 @@ verurteilte Person angeordnet werden kann, wenn
 
 
 ##### § 84k Ergänzende Regelungen zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020200311)
 
 (1) Die Vollstreckung des Restes der freiheitsentziehenden Sanktion
 kann zur Bewährung ausgesetzt werden. Die Vorschriften des
@@ -3789,6 +3930,7 @@ Deutschland geflohen ist.
 
 
 ##### § 84l Durchbeförderung zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020300311)
 
 (1) Soll eine Person von einem Mitgliedstaat durch den Geltungsbereich
 dieses Gesetzes in einen anderen Mitgliedstaat befördert werden, damit
@@ -3811,6 +3953,7 @@ gegen sie ergangen ist. Die Zustimmung kann nicht widerrufen werden.
 
 
 ##### § 84m Durchbeförderungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020400311)
 
 (1) Für das Durchbeförderungsverfahren gelten die §§ 44 und 45 Absatz
 1, 2, 4 bis 7 entsprechend. Eine Durchbeförderung ist zu bewilligen,
@@ -3821,6 +3964,7 @@ ab Eingang des Ersuchens entschieden werden.
 
 
 ##### § 84n Durchbeförderung auf dem Luftweg
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020500311)
 
 (1) Die §§ 84l und 84m gelten auch für die Beförderung auf dem
 Luftweg, wenn es zu einer unvorhergesehenen Zwischenlandung im
@@ -3839,10 +3983,12 @@ aufrechterhalten hat.
 
 
 #### Unterabschnitt 2 - Vollstreckung deutscher Erkenntnisse in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003000311)
 
 
 
 ##### § 85 Vorläufige Bewilligungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009105311)
 
 (1) In Abweichung von § 71 kann die Vollstreckungsbehörde die
 Vollstreckung einer im Geltungsbereich dieses Gesetzes verhängten
@@ -3903,6 +4049,7 @@ und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 
 
 ##### § 85a Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020600311)
 
 (1) Das nach § 71 Absatz 4 Satz 2 und 3 zuständige Oberlandesgericht
 entscheidet auf Antrag der Vollstreckungsbehörde nach § 85 Absatz 2
@@ -3918,6 +4065,7 @@ Gesetzes, so gelten auch § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und
 
 
 ##### § 85b Gerichtliche Entscheidung auf Antrag der verurteilten Person
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020700311)
 
 (1) Sind die Vorschriften über den Antrag auf gerichtliche
 Entscheidung durch die verurteilte Person nach § 85 Absatz 5 Satz 3
@@ -3951,6 +4099,7 @@ zurück.
 
 
 ##### § 85c Gerichtliche Entscheidung auf Antrag der Vollstreckungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020800311)
 
 Auf Antrag der Vollstreckungsbehörde erklärt es das Gericht nach
 Maßgabe des Rahmenbeschlusses Freiheitsstrafen für zulässig, in einem
@@ -3971,6 +4120,7 @@ vollstrecken, wenn die verurteilte Person
 
 
 ##### § 85d Bewilligung nach gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE020900311)
 
 Die Vollstreckungsbehörde darf die Vollstreckung der
 freiheitsentziehenden Sanktion nur bewilligen, wenn das Gericht die
@@ -3981,6 +4131,7 @@ Bewilligungsentscheidung ist unanfechtbar.
 
 
 ##### § 85e Inländisches Vollstreckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021000311)
 
 (1) Die verurteilte Person soll innerhalb von 30 Tagen nach der
 Entscheidung des anderen Mitgliedstaates, die Vollstreckung der
@@ -4009,6 +4160,7 @@ Absatz 1 bei der Vollstreckungsbehörde eingegangen sind.
 
 
 ##### § 85f Sicherung der weiteren Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021100311)
 
 (1) Wird die verurteilte Person im Geltungsbereich dieses Gesetzes
 angetroffen, bevor die Hälfte der Strafzeit abgelaufen ist, die sie
@@ -4050,14 +4202,17 @@ geändert worden ist, gelten entsprechend.
 
 
 ### Abschnitt 2 - Geldsanktionen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG001901160)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002500160)
 
 
 
 ##### § 86 Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE009205160)
 
 (1) Soweit dieser Abschnitt keine besonderen Regelungen enthält,
 finden die übrigen Bestimmungen dieses Gesetzes auf Ersuchen um
@@ -4070,10 +4225,12 @@ Regelungen enthält.
 
 
 #### Unterabschnitt 2 - Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002600160)
 
 
 
 ##### § 87 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013204311)
 
 (1) Die Vollstreckungshilfe für einen anderen Mitgliedstaat nach
 Maßgabe des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar
@@ -4146,6 +4303,7 @@ S. 1) vollstreckbar sind.
 
 
 ##### § 87a Vollstreckungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015801311)
 
 Die Vollstreckung der Geldsanktion ist nur zulässig, wenn die
 folgenden Unterlagen vorliegen:
@@ -4164,6 +4322,7 @@ folgenden Unterlagen vorliegen:
 
 
 ##### § 87b Zulässigkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015901311)
 
 (1) Die Vollstreckung der Geldsanktion ist nur zulässig, wenn auch
 nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse und
@@ -4309,6 +4468,7 @@ bei der Verhandlung persönlich zu erscheinen,
 
 
 ##### § 87c Vorbereitung der Entscheidung über die Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016001125)
 
 (1) Die Bewilligungsbehörde hat dem Betroffenen ein Anhörungsschreiben
 mit Abschriften der in § 87a bezeichneten Unterlagen zu übersenden. Er
@@ -4338,6 +4498,7 @@ Bewilligungsbehörde
 
 
 ##### § 87d Grundsätzliche Pflicht zur Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016200160)
 
 Die Bewilligung eines zulässigen Ersuchens um Vollstreckung einer
 Geldsanktion kann nur abgelehnt werden, wenn die der Entscheidung
@@ -4360,11 +4521,13 @@ zugrunde liegende Tat
 
 
 ##### § 87e Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016301125)
 
 Die Vorschrift des § 53 über den Rechtsbeistand gilt entsprechend.
 
 
 ##### § 87f Bewilligung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016401125)
 
 (1) Über die Vollstreckung entscheidet die Bewilligungsbehörde, sofern
 sie nicht einen Antrag auf gerichtliche Entscheidung nach § 87i Absatz
@@ -4416,6 +4579,7 @@ Einspruch des Betroffenen abhilft.
 
 
 ##### § 87g Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016501125)
 
 (1) Gegen die Bewilligung der Vollstreckung und gegen die Entscheidung
 nach § 87f Absatz 5 Satz 1 ist der Rechtsweg zu den ordentlichen
@@ -4475,6 +4639,7 @@ wenn es ihre Teilnahme für angemessen hält.
 
 
 ##### § 87h Gerichtliche Entscheidung nach Einspruch oder auf Antrag des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016601125)
 
 (1) Über die Zulässigkeit und Begründetheit des Einspruchs entscheidet
 das Amtsgericht durch Beschluss.
@@ -4520,6 +4685,7 @@ Gerichts ist unanfechtbar.
 
 
 ##### § 87i Gerichtliche Entscheidung auf Antrag der Bewilligungsbehörde; Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016701125)
 
 (1) Ist die Entscheidung des anderen Mitgliedstaates eine Geldsanktion
 nach § 87 Absatz 2 Nummer 1 und 2, die gegen einen Jugendlichen oder
@@ -4569,6 +4735,7 @@ gilt entsprechend. Die Bewilligung enthält
 
 
 ##### § 87j Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016801125)
 
 (1) Gegen den Beschluss des Amtsgerichts nach § 87h Absatz 3 und § 87i
 Absatz 4 ist die Rechtsbeschwerde zulässig, wenn sie zugelassen wird.
@@ -4598,6 +4765,7 @@ desselben Landes zurückverweisen.
 
 
 ##### § 87k Zulassung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE016901125)
 
 (1) Das Beschwerdegericht lässt die Rechtsbeschwerde auf Antrag des
 Betroffenen oder der Bewilligungsbehörde zu, wenn es geboten ist,
@@ -4633,6 +4801,7 @@ ist.
 
 
 ##### § 87l Besetzung der Senate der Oberlandesgerichte
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017000160)
 
 (1) Über die Zulassung der Rechtsbeschwerde und über die
 Rechtsbeschwerde entscheidet das Oberlandesgericht.
@@ -4661,6 +4830,7 @@ besetzt in Verfahren über Rechtsbeschwerden, wenn
 
 
 ##### § 87m Verbot der Doppelverfolgung; Mitteilung an das Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017100160)
 
 (1) Wird die Vollstreckung bewilligt, so darf dieselbe Tat, die der
 Entscheidung des anderen Mitgliedstaates zugrunde liegt, nach
@@ -4686,6 +4856,7 @@ Bundeszentralregister mitzuteilen. Dies gilt nicht, wenn
 
 
 ##### § 87n Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017202125)
 
 (1) Die Bewilligungsbehörde führt als Vollstreckungsbehörde die
 Vollstreckung durch. Dies gilt nicht, wenn das Gericht nach Einspruch
@@ -4732,6 +4903,7 @@ Vollstreckung dem Opfer zufließt.
 
 
 ##### § 87o Übergangsvorschrift für Verfahren nach § 87f Absatz 5 und § 87i Absatz 3
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025800125)
 
 § 87f Absatz 5 und § 87i sind nicht anzuwenden auf Ersuchen, die vor
 dem 27. November 2020 beim Bundesamt für Justiz eingegangen sind. Für
@@ -4741,10 +4913,12 @@ eingegangen sind, gelten die §§ 86 bis 87p in ihrer bis zum Ablauf des
 
 
 #### Unterabschnitt 3 - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002701125)
 
 
 
 ##### § 87p Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017302125)
 
 (1) Ersuchen an einen anderen Mitgliedstaat nach Maßgabe des
 Rahmenbeschlusses Geldsanktionen richten sich nach diesem
@@ -4772,6 +4946,7 @@ Vollstreckung einer Geldsanktion ersucht werden, wenn der Betroffene
 
 
 ##### § 87q Inländisches Vollstreckungsverfahren; Ruhen der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017401125)
 
 (1) Wurde der andere Mitgliedstaat um Vollstreckung ersucht, ist die
 Vollstreckung im Inland erst wieder zulässig, soweit
@@ -4797,10 +4972,12 @@ Union bewilligt wurde.
 
 
 ### Abschnitt 3 - Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002001311)
 
 
 
 #### § 88 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013303125)
 
 Außerhalb des Anwendungsbereichs der Verordnung (EU) 2018/1805 des
 Europäischen Parlaments und des Rates vom 14. November 2018 über die
@@ -4822,6 +4999,7 @@ Siebenten Teils dieses Gesetzes anzuwenden.
 
 
 #### § 88a Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014702311)
 
 (1) In Abweichung von § 49 Absatz 1 ist die Vollstreckung einer nach
 Maßgabe des Rahmenbeschlusses Einziehung übersandten gerichtlichen
@@ -4949,6 +5127,7 @@ aufgehoben werden kann, belehrt worden sein.
 
 
 #### § 88b Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014802311)
 
 (1) Der ersuchende Mitgliedstaat hat das Original oder eine
 beglaubigte Abschrift einer rechtskräftigen gerichtlichen Entscheidung
@@ -5002,6 +5181,7 @@ Bescheinigung verzichten.
 
 
 #### § 88c Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014902311)
 
 Ein nach § 88a zulässiges Ersuchen kann nur abgelehnt werden, wenn
 
@@ -5035,6 +5215,7 @@ Ein nach § 88a zulässiges Ersuchen kann nur abgelehnt werden, wenn
 
 
 #### § 88d Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015002311)
 
 (1) Erachtet die nach den §§ 50 und 51 zuständige Staatsanwaltschaft
 das Ersuchen für zulässig und beabsichtigt sie, keine Ablehnungsgründe
@@ -5075,6 +5256,7 @@ Anordnung nicht nach § 459g der Strafprozessordnung vollstreckbar ist.
 
 
 #### § 88e Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015100160)
 
 (1) § 57 Absatz 1 gilt mit der Maßgabe, dass sich die Zuständigkeit
 für die Vollstreckung einer ausländischen Anordnung auch dann nach den
@@ -5094,6 +5276,7 @@ erfolgen darf.
 
 
 #### § 88f Aufteilung der Erträge
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE015200160)
 
 Der Ertrag aus der Vollstreckung ist mit der zuständigen Behörde des
 ersuchenden Mitgliedstaates hälftig zu teilen, wenn er ohne Abzug von
@@ -5104,6 +5287,7 @@ verweigert wurde.
 
 
 #### § 89 Sicherstellungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013401311)
 
 Auf Ersuchen eines Mitgliedstaates der Europäischen Union um eine
 Sicherstellungsmaßnahme nach den §§ 111b bis 111h der
@@ -5113,6 +5297,7 @@ und 94 bis 96 entsprechende Anwendung.
 
 
 #### § 90 Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013503311)
 
 (1) Die zuständigen Behörden können Ersuchen um Vollstreckung einer
 Anordnung der Einziehung nach Maßgabe des Rahmenbeschlusses Einziehung
@@ -5146,14 +5331,17 @@ wenn eine Entscheidung nach § 76 des Strafgesetzbuchs erfolgt ist.
 
 
 ### Abschnitt 4 - Bewährungsmaßnahmen und alternative Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003100311)
 
 
 
 #### Unterabschnitt 1 - Überwachung von ausländischen Bewährungsmaßnahmen und alternativen Sanktionen in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003200311)
 
 
 
 ##### § 90a Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021200311)
 
 (1) Nach diesem Unterabschnitt richtet sich die Vollstreckungshilfe
 für einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe
@@ -5183,6 +5371,7 @@ nach § 1 Absatz 3 vor, soweit er abschließende Regelungen enthält.
 
 
 ##### § 90b Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021300311)
 
 (1) In Abweichung von § 49 sind die Vollstreckung eines ausländischen
 Erkenntnisses und die Überwachung der darauf beruhenden
@@ -5373,6 +5562,7 @@ Erkenntnisses ist auch zulässig, wenn
 
 
 ##### § 90c Ergänzende Zulässigkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021400311)
 
 (1) Die Vollstreckung des Erkenntnisses und die Überwachung der darauf
 beruhenden Bewährungsmaßnahmen oder alternativen Sanktionen sind nicht
@@ -5485,6 +5675,7 @@ aufgehoben werden kann, belehrt worden sein.
 
 
 ##### § 90d Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021500311)
 
 (1) Die Vollstreckung eines ausländischen Erkenntnisses und die
 Überwachung der darauf beruhenden Bewährungsmaßnahmen oder
@@ -5504,6 +5695,7 @@ anderen beigefügten Unterlagen ergeben.
 
 
 ##### § 90e Bewilligungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021600311)
 
 (1) Die Bewilligung der Vollstreckung eines ausländischen
 Erkenntnisses und der Überwachung der darauf beruhenden
@@ -5553,6 +5745,7 @@ inwieweit das Erkenntnis vollstreckt werden soll.
 
 
 ##### § 90f Vorläufige Bewilligungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021700311)
 
 (1) Über die Bewilligung der Vollstreckung des ausländischen
 Erkenntnisses und die Überwachung der darauf beruhenden
@@ -5594,6 +5787,7 @@ Bewährungsmaßnahmen oder alternativen Sanktionen.
 
 
 ##### § 90g Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021800311)
 
 (1) Das nach § 50 Satz 1 und § 51 zuständige Landgericht entscheidet
 auf Antrag der Staatsanwaltschaft nach § 90f Absatz 2 und 4 Satz 2
@@ -5630,6 +5824,7 @@ verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 
 
 ##### § 90h Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE021900311)
 
 (1) Über die Anträge auf gerichtliche Entscheidung nach § 90f Absatz
 2, 3 und 4 entscheidet das Landgericht durch Beschluss.
@@ -5758,6 +5953,7 @@ die Dauer der Bewährungszeit anzugeben sind.
 
 
 ##### § 90i Bewilligung nach gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022000311)
 
 (1) Die Staatsanwaltschaft darf die Vollstreckung des ausländischen
 Erkenntnisses und die Überwachung der Bewährungsmaßnahmen oder
@@ -5779,6 +5975,7 @@ Bewilligungsentscheidung ist zu begründen.
 
 
 ##### § 90j Ergänzende Regelungen zur Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022100311)
 
 (1) Nach der Bewilligung der Vollstreckung des ausländischen
 Erkenntnisses und der Überwachung der darauf beruhenden
@@ -5859,6 +6056,7 @@ verurteilte Person führt und um ein Absehen von der Vollstreckung und
 
 
 ##### § 90k Überwachung der verurteilten Person
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022200311)
 
 (1) Hat die Staatsanwaltschaft allein die Überwachung der
 Bewährungsmaßnahmen oder alternativen Sanktionen bewilligt, so
@@ -5942,10 +6140,12 @@ belehrt, von der Überwachung nach Absatz 3 Satz 1 Nummer 3 abzusehen.
 
 
 #### Unterabschnitt 2 - Überwachung von deutschen Bewährungsmaßnahmen in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003300311)
 
 
 
 ##### § 90l Bewilligung der Vollstreckung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022300311)
 
 (1) In Abweichung von § 71 kann die Vollstreckungsbehörde nach Maßgabe
 des Rahmenbeschlusses Bewährungsüberwachung einem anderen
@@ -6007,6 +6207,7 @@ und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 
 
 ##### § 90m Gerichtliches Verfahren auf Antrag der verurteilten Person
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022400311)
 
 (1) Das nach § 71 Absatz 4 Satz 2 und 3 zuständige Oberlandesgericht
 entscheidet auf Antrag der verurteilten Person nach § 90l Absatz 5
@@ -6057,6 +6258,7 @@ Bewilligungsentscheidung ist unanfechtbar.
 
 
 ##### § 90n Inländisches Vollstreckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022500311)
 
 (1) Die deutsche Vollstreckungsbehörde sieht von der Vollstreckung und
 Überwachung ab, soweit der andere Mitgliedstaat sie übernommen und
@@ -6084,10 +6286,12 @@ angerechnet.
 
 
 ### Abschnitt 5 - Überwachung von Maßnahmen zur Vermeidung von Untersuchungshaft
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002800311)
 
 
 
 #### § 90o Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017900311)
 
 (1) Nach diesem Abschnitt richtet sich die Vollstreckungshilfe für und
 die Vollstreckungsabgabe an einen anderen Mitgliedstaat der
@@ -6108,6 +6312,7 @@ Regelungen enthält.
 
 
 #### § 90p Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018000311)
 
 (1) Auflagen und Weisungen, die ein anderer Mitgliedstaat der
 Europäischen Union nach Maßgabe seines innerstaatlichen Rechts und
@@ -6222,6 +6427,7 @@ Mitgliedstaates.
 
 
 #### § 90q Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018100311)
 
 (1) Die Überwachung einer Maßnahme nach Maßgabe des Rahmenbeschlusses
 Überwachungsanordnung ist nur zulässig, wenn durch den anderen
@@ -6238,6 +6444,7 @@ Vorlage einer vervollständigten Bescheinigung verzichten.
 
 
 #### § 90r Bewilligungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018200311)
 
 Die Bewilligung einer nach den §§ 90p und 90q zulässigen Überwachung
 der Maßnahmen kann nur abgelehnt werden, wenn
@@ -6266,6 +6473,7 @@ der Maßnahmen kann nur abgelehnt werden, wenn
 
 
 #### § 90s Vorläufige Bewilligungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018300311)
 
 (1) Die nach § 51 zuständige Staatsanwaltschaft entscheidet darüber,
 ob die Übernahme der Überwachung bewilligt wird.
@@ -6302,6 +6510,7 @@ Stand gelten entsprechend.
 
 
 #### § 90t Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018400311)
 
 (1) Das Amtsgericht entscheidet auf Antrag der Staatsanwaltschaft nach
 § 90s Absatz 3 Satz 1 oder auf Antrag der zu überwachenden Person nach
@@ -6325,6 +6534,7 @@ verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 
 
 #### § 90u Gerichtliche Zulässigkeitsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018500311)
 
 (1) Über die Anträge auf gerichtliche Entscheidung nach § 90s Absatz 3
 Satz 1 und Absatz 4 Satz 3 entscheidet das Amtsgericht durch
@@ -6377,6 +6587,7 @@ Satz 2 bleibt unberührt. § 42 ist entsprechend anwendbar.
 
 
 #### § 90v Bewilligung nach gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018600311)
 
 (1) Die Staatsanwaltschaft darf die Übernahme der Überwachung nur
 bewilligen, wenn diese durch die gerichtliche Entscheidung für
@@ -6398,6 +6609,7 @@ voraussichtlich für eine Entscheidung benötigt wird.
 
 
 #### § 90w Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018700311)
 
 (1) Das für die Entscheidung nach § 90u zuständige Gericht überwacht
 die Maßnahmen unverzüglich nach Bewilligung der Überwachungsübernahme
@@ -6477,6 +6689,7 @@ anderen Mitgliedstaates hiervon schriftlich mit Gründen.
 
 
 #### § 90x Erneuerte und geänderte Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018800311)
 
 Die Vorschriften der §§ 90o bis 90w gelten auch für die Übernahme und
 Überwachung erneuerter oder geänderter Maßnahmen mit der Maßgabe, dass
@@ -6488,6 +6701,7 @@ statt.
 
 
 #### § 90y Abgabe der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE018900311)
 
 (1) Das gemäß § 126 der Strafprozessordnung zuständige Gericht kann
 von einem deutschen Gericht erlassene Überwachungsmaßnahmen zur
@@ -6563,6 +6777,7 @@ ersuchen, wenn
 
 
 #### § 90z Rücknahme der Überwachungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019000311)
 
 (1) Das Gericht hat die Bescheinigung zur Abgabe der Überwachung
 zurückzunehmen, wenn die Voraussetzungen für den Haftbefehl entfallen
@@ -6616,14 +6831,17 @@ zuständig, wenn
 
 
 ## Zehnter Teil - Sonstiger Rechtshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002100160)
 
 
 
 ### Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002200160)
 
 
 
 #### § 91 Vorrang des Zehnten Teils
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013601308)
 
 (1) Soweit dieser Teil keine besonderen Regelungen enthält, finden die
 übrigen Bestimmungen dieses Gesetzes auf den sonstigen
@@ -6641,10 +6859,12 @@ Schengen-Besitzstandes anwenden (Schengenassoziierte Staaten).
 
 
 ### Abschnitt 2 - Europäische Ermittlungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003400311)
 
 
 
 #### § 91a Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022802125)
 
 (1) Nach diesem Abschnitt richtet sich die sonstige Rechtshilfe für
 einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe der
@@ -6688,6 +6908,7 @@ dieses Teils sind anzuwenden,
 
 
 #### § 91b Voraussetzungen der Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022900311)
 
 (1) Die Leistung der Rechtshilfe ist nicht zulässig,
 
@@ -6741,6 +6962,7 @@ schriftlichen Nachweis ermöglicht.
 
 
 #### § 91c Ergänzende Zulässigkeitsvoraussetzungen für besondere Formen der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023000311)
 
 (1) Eine audiovisuelle Vernehmung im Sinne von § 61c ist nicht
 zulässig, wenn die zu vernehmende Person der Vernehmung nicht
@@ -6814,6 +7036,7 @@ hatte, oder nach Verlassen in ihn zurückgekehrt ist.
 
 
 #### § 91d Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023100311)
 
 (1) Die Leistung der Rechtshilfe ist nur zulässig, wenn der ersuchende
 Mitgliedstaat für sein Ersuchen das in Anhang A oder in Anhang C der
@@ -6852,6 +7075,7 @@ erfolgen, die einen schriftlichen Nachweis ermöglicht.
 
 
 #### § 91e Bewilligung; Bewilligungshindernisse; Aufschub der Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023200311)
 
 (1) Die Bewilligung der Rechtshilfe kann nur abgelehnt werden, wenn
 mindestens einer der folgenden Gründe vorliegt:
@@ -6919,6 +7143,7 @@ werden. § 91b Absatz 5 Satz 2 gilt entsprechend.
 
 
 #### § 91f Rückgriff auf andere Ermittlungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023300311)
 
 (1) Steht eine weniger einschneidende Ermittlungsmaßnahme als die in
 dem Ersuchen nach § 91d Absatz 1 angegebene zur Verfügung, ist auf
@@ -6955,6 +7180,7 @@ leisten. § 91b Absatz 5 Satz 2 gilt entsprechend.
 
 
 #### § 91g Fristen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023400311)
 
 (1) Über die Bewilligung der Rechtshilfe soll unverzüglich, spätestens
 aber 30 Tage nach Eingang des Ersuchens bei der zuständigen Stelle
@@ -7014,6 +7240,7 @@ mitzuteilen, dass
 
 
 #### § 91h Erledigung des Ersuchens
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023500311)
 
 (1) Liegen die Voraussetzungen für die Leistung der Rechtshilfe vor,
 ist das Ersuchen nach § 91d Absatz 1 nach denselben Vorschriften
@@ -7058,6 +7285,7 @@ Vernehmung von Zeugen oder Sachverständigen.
 
 
 #### § 91i Rechtsbehelfe; Aufschub der Übermittlung von Beweismitteln
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023600311)
 
 (1) Erfolgt eine Vorlage nach § 61 Absatz 1 Satz 1 oder wird ein
 Antrag nach § 61 Absatz 1 Satz 2 gestellt, überprüft das
@@ -7088,6 +7316,7 @@ Satz 2 gilt entsprechend.
 
 
 #### § 91j Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023700311)
 
 (1) Für ausgehende Ersuchen ist das in Anhang A oder in Anhang C der
 Richtlinie Europäische Ermittlungsanordnung wiedergegebene Formblatt
@@ -7136,10 +7365,12 @@ Verlassen in ihn zurückgekehrt ist.
 
 
 ### Abschnitt 3 - Besondere Formen der Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002301311)
 
 
 
 #### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017600308)
 
 (1) Auf ein Ersuchen einer Strafverfolgungsbehörde eines
 Mitgliedstaates der Europäischen Union, das nach Maßgabe des
@@ -7208,6 +7439,7 @@ Union im Sinne des Absatzes 1 gilt jede von diesem Staat gemäß Artikel
 
 
 #### § 92a Inhalt des Ersuchens
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017700308)
 
 Die Bewilligung eines Ersuchens im Sinne des § 92 Absatz 1 Satz 1 ist
 nur zulässig, wenn das Ersuchen folgende Angaben enthält:
@@ -7244,6 +7476,7 @@ nur zulässig, wenn das Ersuchen folgende Angaben enthält:
 
 
 #### § 92b Verwendung von nach dem Rahmenbeschluss 2006/960/JI übermittelten Informationen einschließlich personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017800308)
 
 Informationen einschließlich personenbezogener Daten, die nach dem
 Rahmenbeschluss 2006/960/JI an eine inländische Polizeibehörde
@@ -7257,6 +7490,7 @@ der Daten gestellte Bedingungen sind zu beachten.
 
 
 #### § 92c Datenübermittlung ohne Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013701308)
 
 (1) Soweit eine völkerrechtliche Vereinbarung dies vorsieht oder nach
 Maßgabe des Rahmenbeschlusses 2006/960/JI, dürfen öffentliche Stellen
@@ -7290,6 +7524,7 @@ Organe und Einrichtungen der Europäischen Union übermitteln, soweit
 
 
 #### § 92d Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023800311)
 
 (1) Örtlich zuständig für Ersuchen aus den Mitgliedstaaten der
 Europäischen Union, die auf eine grenzüberschreitende Überwachung des
@@ -7376,6 +7611,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 #### § 93 Gemeinsame Ermittlungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013801160)
 
 (1) Einem von einem Mitgliedstaat der Europäischen Union in eine
 gemeinsame Ermittlungsgruppe entsandten Mitglied kann unter der
@@ -7402,6 +7638,7 @@ Ersuchen bewilligt werden könnte.
 
 
 #### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE013904125)
 
 (1) Außerhalb des Anwendungsbereichs der Verordnung Sicherstellung und
 Einziehung sind § 58 Absatz 3 und § 67 bei Ersuchen nach Maßgabe des
@@ -7461,6 +7698,7 @@ Strafgesetzbuchs selbständig angeordnet werden könnte.
 
 
 #### § 95 Sicherungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014002311)
 
 (1) Die Bewilligung von Ersuchen nach Maßgabe des Rahmenbeschlusses
 Sicherstellung ist nur zulässig, wenn eine Sicherstellungsentscheidung
@@ -7504,6 +7742,7 @@ Vorlage einer vervollständigten Bescheinigung verzichten.
 
 
 #### § 96 Grundsätzliche Pflicht zur Bewilligung von Sicherstellungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014100160)
 
 Nach Maßgabe der §§ 94 und 95 zulässige Ersuchen eines Mitgliedstaates
 sind zu bewilligen. Wird ein Ersuchen wegen Unzulässigkeit abgelehnt,
@@ -7511,16 +7750,19 @@ ist die ablehnende Bewilligungsentscheidung zu begründen.
 
 
 ## Elfter Teil - Durchführungsvorschriften zur Verordnung (EU) 2018/1805 des Europäischen Parlaments und des Rates vom 14. November 2018 über die gegenseitige Anerkennung von Sicherstellungs- und Einziehungsentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003800125)
 
 
 
 ### § 96a Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025300125)
 
 Soweit dieser Teil keine besonderen Regelungen enthält, ist § 77
 anzuwenden.
 
 
 ### § 96b Zuständigkeit und Verfahren für eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025400125)
 
 (1) Über die Anerkennung und Vollstreckung eingehender
 Sicherstellungsentscheidungen entscheidet das nach § 67 Absatz 3
@@ -7549,6 +7791,7 @@ Beistands bedienen.
 
 
 ### § 96c Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025500125)
 
 (1) Nachdem das Gericht die Anerkennung und Vollstreckung einer
 Sicherstellungs- oder Einziehungsentscheidung beschlossen hat, führt
@@ -7568,6 +7811,7 @@ Jugendgerichtsgesetzes.
 
 
 ### § 96d Rechtsbehelf
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025600125)
 
 (1) Betroffene können nach Maßgabe des Artikels 33 der Verordnung
 Sicherstellung und Einziehung gegen die Entscheidung über die
@@ -7579,6 +7823,7 @@ Landgerichts, so gilt für das weitere Verfahren § 42 entsprechend.
 
 
 ### § 96e Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025700125)
 
 (1) Für die Ausstellung und Übermittlung von Ersuchen um Anerkennung
 und Vollstreckung von Sicherstellungs- oder Einziehungsentscheidungen
@@ -7625,14 +7870,17 @@ befasste Gericht erfolgen, wenn die Länder dies vorsehen.
 
 
 ### § 97 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014202311)
 
 
 
 ## Zwölfter Teil - Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003701125)
 
 
 
 ### § 97a Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025000125)
 
 (1) Die Vorschriften dieses Teils sind anzuwenden auf personenbezogene
 Daten, die an Mitgliedstaaten der Europäischen Union, für die die
@@ -7649,6 +7897,7 @@ Bestimmungen des Abschnitts 2 des Siebenten Teils anzuwenden.
 
 
 ### § 97b Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025100125)
 
 Für die Übermittlung personenbezogener Daten gilt § 77d mit der
 Maßgabe, dass keine Anwendung finden dessen
@@ -7668,6 +7917,7 @@ Maßgabe, dass keine Anwendung finden dessen
 
 
 ### § 97c Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE025200125)
 
 Zusätzlich zu den in § 77e genannten Pflichten gilt, dass der Stelle
 eines anderen Mitgliedstaates der Europäischen Union, von der oder an
@@ -7678,10 +7928,12 @@ mitzuteilen sind.
 
 
 ## Dreizehnter Teil - Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG003503125)
 
 
 
 ### § 98 Vorrang des Dreizehnten Teils
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024202125)
 
 (1) Dieser Teil gilt für den Auslieferungs- und Durchlieferungsverkehr
 mit der Republik Island und dem Königreich Norwegen nach dem
@@ -7719,6 +7971,7 @@ Haftbefehl in den anwendbaren Vorschriften des Achten Teils.
 
 
 ### § 99 Grundsätzliche Pflicht zur Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024300311)
 
 Zulässige Ersuchen der Republik Island und des Königreichs Norwegen um
 Auslieferung oder Durchlieferung eines Ausländers können nur abgelehnt
@@ -7727,10 +7980,12 @@ Bestimmungen dieses Gesetzes vorgesehen ist.
 
 
 ## Vierzehnter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNG002403125)
 
 
 
 ### § 100 Anwendungsvorbehalt; Stichtagsregelung
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE017502311)
 
 Die Vorschriften des Abschnitts 2 des Neunten Teils über die
 Vollstreckung von Geldsanktionen nach dem Rahmenbeschluss
@@ -7743,6 +7998,7 @@ Verhängung der Geldsanktion nach dem 27. Oktober 2010 ergangen ist.
 
 
 ### § 101 Übergangsvorschrift für Ersuchen, die auf einer Abwesenheitsentscheidung beruhen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE019101311)
 
 In Abweichung von § 83a Absatz 1, § 83f Absatz 1, § 87a Nummer 2, §
 88b Absatz 1 und § 88c Nummer 1 ist die Vorlage des dort genannten
@@ -7766,6 +8022,7 @@ Bundesanzeiger bekannt.
 
 
 ### § 102 Übergangsvorschrift für die Vollstreckung freiheitsentziehender Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE022601311)
 
 Die §§ 84 bis 85f sind im Verhältnis zum Königreich der Niederlande,
 zur Republik Lettland, zur Republik Litauen, zur Republik Polen, zu
@@ -7775,6 +8032,7 @@ liegt, vor dem 5. Dezember 2011 ergangen ist.
 
 
 ### § 103 Übergangsvorschrift für Ersuchen um sonstige Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE023901311)
 
 Abschnitt 2 des Zehnten Teils ist nicht anzuwenden auf Ersuchen, die
 vor dem 22. Mai 2017 bei der für die Bewilligung zuständigen Stelle
@@ -7782,6 +8040,7 @@ eingegangen sind.
 
 
 ### § 104 Gleichstellung von ausländischen mit inländischen Amtsträgern bei Amtshandlungen in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024001311)
 
 Richter und sonstige Amtsträger eines anderen Mitgliedstaates der
 Europäischen Union, die bei Amtshandlungen nach Abschnitt 2 des
@@ -7793,6 +8052,7 @@ deutschen Amtsträgern gleich.
 
 
 ### § 105 Ausgleich von Schäden
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE024101311)
 
 (1) Ersetzt ein anderer Mitgliedstaat der Europäischen Union einen
 Schaden, den deutsche Richter oder sonstige deutsche Amtsträger bei
@@ -7812,6 +8072,7 @@ Amtsträger die Schäden verursacht hätten.
 
 
 ### § 106 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/irg/BJNR020710982.html#BJNR020710982BJNE014302311)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2

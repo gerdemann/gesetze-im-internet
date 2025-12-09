@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1989/BJNR109010989.html#BJNR109010989BJNE000101377)
 
 Der Bundesnachrichtendienst wird dem Chef des Bundeskanzleramtes
 unterstellt. Dessen Vertreter ist ein Staatssekretär oder ein
@@ -28,6 +29,7 @@ Abteilungsleiter im Bundeskanzleramt.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1989/BJNR109010989.html#BJNR109010989BJNE000200333)
 
 Zum Beauftragten für die Nachrichtendienste wird ein Staatsminister
 oder Staatssekretär im Geschäftsbereich des Bundeskanzlers und des
@@ -38,6 +40,7 @@ Erfüllung seiner Aufgaben.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1989/BJNR109010989.html#BJNR109010989BJNE000300333)
 
 Dem Beauftragten für die Nachrichtendienste obliegt die Koordinierung
 und Intensivierung der Zusammenarbeit des Bundesnachrichtendienstes,
@@ -107,6 +110,7 @@ Zusammenarbeit mit anderen Behörden und Dienststellen.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1989/BJNR109010989.html#BJNR109010989BJNE000400333)
 
 Das Bundesministerium des Innern und das Bundesministerium der
 Verteidigung unterrichten den Beauftragten für die Nachrichtendienste

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2/BJNR002930959.html#BJNR002930959BJNE000100315)
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) genehmige
@@ -45,12 +46,14 @@ Jerusalem, genannt der Johanniterorden:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2/BJNR002930959.html#BJNR002930959BJNE000200315)
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 der in Artikel 1 genannten Ehrenzeichen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2/BJNR002930959.html#BJNR002930959BJNE000300315)
 
 Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
 Abbildungen und die Beschreibungen der nach Artikel 1 genehmigten
@@ -59,6 +62,7 @@ veröffentlicht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2/BJNR002930959.html#BJNR002930959BJNE000400315)
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 der nach Artikel 1 genehmigten Ehrenzeichen und jede Änderung ihrer
@@ -66,6 +70,7 @@ Form und ihrer Benennung bedarf meiner Genehmigung.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordenerl_2/BJNR002930959.html#BJNR002930959BJNE000500315)
 
 Der Bundespräsident
 Der Bundesminister des Innern

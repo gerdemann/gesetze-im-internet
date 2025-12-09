@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/urhg_127aabs3bek/BJNR279500005.html#BJNR279500005BJNE000100000)
 
 Die in Brüssel am 26. März 2003 geschlossene Vereinbarung in Form
 eines Briefwechsels zwischen dem Vereinigten Königreich Großbritannien
@@ -54,11 +55,13 @@ Europäischen Gemeinschaft nachstehend bekannt gemacht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/urhg_127aabs3bek/BJNR279500005.html#BJNR279500005BJNE000200000)
 
 Bundesministerium der Justiz
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/urhg_127aabs3bek/BJNR279500005.html#BJNR279500005BJNE000300000)
 
 Herr ...,
 ich beehre mich, den Empfang Ihres heutigen Schreibens zu bestätigen,

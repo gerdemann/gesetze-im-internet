@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000100319)
 
 Auf Grund des § 6 Abs. 2 und des § 7 Abs. 3 Satz 2 des
 Eignungsübungsgesetzes vom 20. Januar 1956 (Bundesgesetzbl. I S. 13)
@@ -27,6 +28,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Urlaub für Arbeitnehmer bei Ausscheiden aus den Streitkräften
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000200319)
 
 (1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung aus
 den Streitkräften ausscheidet, erhält von den Streitkräften für jeden
@@ -57,6 +59,7 @@ Dauer der Eignungsübung von den Streitkräften geklebt.
 
 
 ## § 2 Urlaub für Arbeitnehmer bei Verbleiben in den Streitkräften
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000300319)
 
 (1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung als
 freiwilliger Soldat in den Streitkräften bleibt, erhält den Urlaub aus
@@ -71,6 +74,7 @@ diesem Zeitpunkt geendet hätte.
 
 
 ## § 3 Urlaubsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000400319)
 
 Der Arbeitgeber hat dem Arbeitnehmer vor Beginn der Eignungsübung eine
 Bescheinigung über den im laufenden Urlaubsjahr zustehenden und
@@ -84,12 +88,14 @@ Urlaub.
 
 
 ## § 4 Urlaub für Beamte und Richter
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000500319)
 
 Für Beamte und Richter gelten die §§ 1 bis 3 mit Ausnahme des § 1 Abs.
 4 Satz 2 und Abs. 6 sinngemäß.
 
 
 ## § 5 Zusätzliche Alters- und Hinterbliebenenversorgung für Arbeitnehmer im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000600319)
 
 (1) Durch die Teilnahme an einer Eignungsübung wird eine bestehende
 Versicherung in der zusätzlichen Alters- und Hinterbliebenenversorgung
@@ -124,6 +130,7 @@ gelten die Absätze 1 bis 4 sinngemäß.
 
 
 ## § 6 Betriebliche und überbetriebliche Alters- und Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000700319)
 
 (1) Für Betriebe, für die Pensionskassen bestehen, gilt § 5 Abs. 1 und
 2 sinngemäß.
@@ -146,12 +153,14 @@ Absätze 1 bis 3 sinngemäß.
 
 
 ## § 7 Urlaubskassen
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000800319)
 
 Beiträge für Urlaubskassen brauchen für die Dauer der Eignungsübung
 nicht entrichtet zu werden. § 1 Abs. 6 bleibt unberührt.
 
 
 ## § 8 Anrechnung der Wehrdienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE000900319)
 
 Die Zeit der Teilnahme an einer Eignungsübung wird auf die Dauer der
 Berufs- und Betriebszugehörigkeit sowie auf die Dauer des
@@ -163,6 +172,7 @@ angerechnet.
 
 
 ## § 9 Geltungsdauer der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/e_gv/BJNR000710956.html#BJNR000710956BJNE001000319)
 
 Diese Verordnung tritt am 26. Januar 1956 in Kraft.
 

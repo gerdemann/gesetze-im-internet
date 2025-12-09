@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000100320)
 
 Über die religiöse Erziehung eines Kindes bestimmt die freie Einigung
 der Eltern, soweit ihnen das Recht und die Pflicht zusteht, für die
@@ -28,6 +29,7 @@ und wird durch den Tod eines Ehegatten gelöst.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000203125)
 
 (1) Besteht eine solche Einigung nicht oder nicht mehr, so gelten auch
 für die religiöse Erziehung die Vorschriften des Bürgerlichen
@@ -52,6 +54,7 @@ vollendet hat.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000303125)
 
 (1) Steht dem Vater oder der Mutter das Recht und die Pflicht, für die
 Person des Kindes zu sorgen, neben einem dem Kinde bestellten Vormund
@@ -73,12 +76,14 @@ eine schon erfolgte Bestimmung über die religiöse Erziehung ändern.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000400320)
 
 Verträge über die religiöse Erziehung eines Kindes sind ohne
 bürgerliche Wirkung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000500320)
 
 Nach der Vollendung des vierzehnten Lebensjahrs steht dem Kinde die
 Entscheidung darüber zu, zu welchem religiösen Bekenntnis es sich
@@ -88,12 +93,14 @@ erzogen werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000600320)
 
 Die vorstehenden Bestimmungen finden auf die Erziehung der Kinder in
 einer nicht bekenntnismäßigen Weltanschauung entsprechende Anwendung.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000701140)
 
 Für Streitigkeiten aus diesem Gesetz ist das Familiengericht
 zuständig. Ein Einschreiten von Amts wegen findet dabei nicht statt,
@@ -102,6 +109,7 @@ Gesetzbuchs vorliegen.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000800320)
 
 Alle diesem Gesetz entgegenstehenden Bestimmungen der Landesgesetze
 sowie Artikel 134 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch
@@ -109,10 +117,12 @@ werden aufgehoben.
 
 
 ## (XXXX) §§ 9 und 10
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE000900320)
 
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kerzg/BJNR009390921.html#BJNR009390921BJNE001000320)
 
 Das Gesetz tritt am 1. Januar 1922 in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-09-08/BJNR189800003.html#BJNR189800003BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum 200. Geburtstag
@@ -52,11 +53,13 @@ Der Entwurf der Münze stammt von Michael Otto, Rodenbach.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-09-08/BJNR189800003.html#BJNR189800003BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2003-09-08/BJNR189800003.html#BJNR189800003BJNE000300000)
 
 (Fundstelle: BGBl. I 2003, 1898)
 ![bgbl1_2003_j1898_0010.jpg](bgbl1_2003_j1898_0010.jpg)

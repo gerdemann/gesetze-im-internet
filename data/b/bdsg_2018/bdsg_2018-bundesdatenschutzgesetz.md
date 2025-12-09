@@ -21,12 +21,15 @@ Zuletzt geändert durch
 Stand: Ersetzt G 204-3 v. 20.12.1990 I 2954, 2955 (BDSG 1990)
 
 ## Teil 1 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000100000)
 
 
 ### Kapitel 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000200000)
 
 
 #### § 1 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000201116)
 
 (1) Dieses Gesetz gilt für die Verarbeitung personenbezogener Daten
 durch
@@ -126,6 +129,7 @@ einem anderen Gesetz Abweichendes geregelt ist.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000300000)
 
 (1) Öffentliche Stellen des Bundes sind die Behörden, die Organe der
 Rechtspflege und andere öffentlich-rechtlich organisierte
@@ -172,9 +176,11 @@ Landesgesetz geregelt ist.
 
 
 ### Kapitel 2 - Rechtsgrundlagen der Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000300000)
 
 
 #### § 3 Verarbeitung personenbezogener Daten durch öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000400000)
 
 Die Verarbeitung personenbezogener Daten durch eine öffentliche Stelle
 ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit des
@@ -183,6 +189,7 @@ Gewalt, die dem Verantwortlichen übertragen wurde, erforderlich ist.
 
 
 #### § 4 Videoüberwachung öffentlich zugänglicher Räume
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000501116)
 
 (1) Die Beobachtung öffentlich zugänglicher Räume mit optisch-
 elektronischen Einrichtungen (Videoüberwachung) ist nur zulässig,
@@ -239,9 +246,11 @@ der betroffenen Personen einer weiteren Speicherung entgegenstehen.
 
 
 ### Kapitel 3 - Datenschutzbeauftragte öffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000400000)
 
 
 #### § 5 Benennung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000600000)
 
 (1) Öffentliche Stellen benennen eine Datenschutzbeauftragte oder
 einen Datenschutzbeauftragten. Dies gilt auch für öffentliche Stellen
@@ -270,6 +279,7 @@ mit.
 
 
 #### § 6 Stellung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000700000)
 
 (1) Die öffentliche Stelle stellt sicher, dass die oder der
 Datenschutzbeauftragte ordnungsgemäß und frühzeitig in alle mit dem
@@ -329,6 +339,7 @@ Beschlagnahmeverbot.
 
 
 #### § 7 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000800000)
 
 (1) Der oder dem Datenschutzbeauftragten obliegen neben den in der
 Verordnung (EU) 2016/679 genannten Aufgaben zumindest folgende
@@ -380,9 +391,11 @@ Umstände und die Zwecke der Verarbeitung berücksichtigt.
 
 
 ### Kapitel 4 - Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000500000)
 
 
 #### § 8 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE000900000)
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit (Bundesbeauftragte) ist eine oberste
@@ -401,6 +414,7 @@ ist.
 
 
 #### § 9 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001003130)
 
 (1) Die oder der Bundesbeauftragte ist zuständig für die Aufsicht über
 die öffentlichen Stellen des Bundes, auch soweit sie als öffentlich-
@@ -421,6 +435,7 @@ Tätigkeit vorgenommenen Verarbeitungen.
 
 
 #### § 10 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001100000)
 
 (1) Die oder der Bundesbeauftragte handelt bei der Erfüllung ihrer
 oder seiner Aufgaben und bei der Ausübung ihrer oder seiner Befugnisse
@@ -434,6 +449,7 @@ Unabhängigkeit nicht beeinträchtigt wird.
 
 
 #### § 11 Ernennung und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001200000)
 
 (1) Der Deutsche Bundestag wählt ohne Aussprache auf Vorschlag der
 Bundesregierung die Bundesbeauftragte oder den Bundesbeauftragten mit
@@ -462,6 +478,7 @@ Einmalige Wiederwahl ist zulässig.
 
 
 #### § 12 Amtsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001302119)
 
 (1) Die oder der Bundesbeauftragte steht nach Maßgabe dieses Gesetzes
 zum Bund in einem öffentlich-rechtlichen Amtsverhältnis.
@@ -513,6 +530,7 @@ Besoldungsgruppe B 11 zu durchlaufenden Amt befunden hat.
 
 
 #### § 13 Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001400000)
 
 (1) Die oder der Bundesbeauftragte sieht von allen mit den Aufgaben
 ihres oder seines Amtes nicht zu vereinbarenden Handlungen ab und übt
@@ -594,6 +612,7 @@ Vorschriften über den Datenschutz in den Ländern zuständig sind.
 
 
 #### § 14 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001500000)
 
 (1) Die oder der Bundesbeauftragte hat neben den in der Verordnung
 (EU) 2016/679 genannten Aufgaben die Aufgaben,
@@ -703,6 +722,7 @@ oder exzessiven Charakter der Anfrage.
 
 
 #### § 15 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001600000)
 
 Die oder der Bundesbeauftragte erstellt einen Jahresbericht über ihre
 oder seine Tätigkeit, der eine Liste der Arten der gemeldeten Verstöße
@@ -715,6 +735,7 @@ Kommission und dem Europäischen Datenschutzausschuss zugänglich.
 
 
 #### § 16 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001701116)
 
 (1) Die oder der Bundesbeauftragte nimmt im Anwendungsbereich der
 Verordnung (EU) 2016/679 die Befugnisse gemäß Artikel 58 der
@@ -796,9 +817,11 @@ Halbsatz gilt entsprechend.
 
 
 ### Kapitel 5 - Vertretung im Europäischen Datenschutzausschuss, zentrale Anlaufstelle, Zusammenarbeit der Aufsichtsbehörden des Bundes und der Länder in Angelegenheiten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000600000)
 
 
 #### § 17 Vertretung im Europäischen Datenschutzausschuss, zentrale Anlaufstelle
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001800000)
 
 (1) Gemeinsamer Vertreter im Europäischen Datenschutzausschuss und
 zentrale Anlaufstelle ist die oder der Bundesbeauftragte (gemeinsamer
@@ -818,6 +841,7 @@ Datenschutzausschuss.
 
 
 #### § 18 Verfahren der Zusammenarbeit der Aufsichtsbehörden des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE001900000)
 
 (1) Die oder der Bundesbeauftragte und die Aufsichtsbehörden der
 Länder (Aufsichtsbehörden des Bundes und der Länder) arbeiten in
@@ -863,6 +887,7 @@ gemeinsamen Vertreters den Ausschlag.
 
 
 #### § 19 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002001116)
 
 (1) Federführende Aufsichtsbehörde eines Landes im Verfahren der
 Zusammenarbeit und Kohärenz nach Kapitel VII der Verordnung (EU)
@@ -898,9 +923,11 @@ ab.
 
 
 ### Kapitel 6 - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000700000)
 
 
 #### § 20 Gerichtlicher Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002100000)
 
 (1) Für Streitigkeiten zwischen einer natürlichen oder einer
 juristischen Person und einer Aufsichtsbehörde des Bundes oder eines
@@ -938,6 +965,7 @@ Rechtsträger nicht die sofortige Vollziehung gemäß § 80 Absatz 2 Satz
 
 
 #### § 21 Antrag der Aufsichtsbehörde auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Beschlusses der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002200000)
 
 (1) Hält eine Aufsichtsbehörde einen Angemessenheitsbeschluss der
 Europäischen Kommission, einen Beschluss über die Anerkennung von
@@ -978,15 +1006,19 @@ Union zur Entscheidung vor.
 
 
 ## Teil 2 - Durchführungsbestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 2 der Verordnung (EU) 2016/679
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000800000)
 
 
 ### Kapitel 1 - Rechtsgrundlagen der Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG000900000)
 
 
 #### Abschnitt 1 - Verarbeitung besonderer Kategorien personenbezogener Daten und Verarbeitung zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001000000)
 
 
 ##### § 22 Verarbeitung besonderer Kategorien personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002301116)
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist
 die Verarbeitung besonderer Kategorien personenbezogener Daten im
@@ -1108,6 +1140,7 @@ können dazu insbesondere gehören:
 
 
 ##### § 23 Verarbeitung zu anderen Zwecken durch öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002400000)
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck
 als zu demjenigen, zu dem die Daten erhoben wurden, durch öffentliche
@@ -1159,6 +1192,7 @@ Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU)
 
 
 ##### § 24 Verarbeitung zu anderen Zwecken durch nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002500000)
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck
 als zu demjenigen, zu dem die Daten erhoben wurden, durch
@@ -1185,6 +1219,7 @@ Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU)
 
 
 ##### § 25 Datenübermittlungen durch öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002600000)
 
 (1) Die Übermittlung personenbezogener Daten durch öffentliche Stellen
 an öffentliche Stellen ist zulässig, wenn sie zur Erfüllung der in der
@@ -1229,9 +1264,11 @@ Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU)
 
 
 #### Abschnitt 2 - Besondere Verarbeitungssituationen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001100000)
 
 
 ##### § 26 Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002701116)
 
 (1) Personenbezogene Daten von Beschäftigten dürfen für Zwecke des
 Beschäftigungsverhältnisses verarbeitet werden, wenn dies für die
@@ -1336,6 +1373,7 @@ Beschäftigte.
 
 
 ##### § 27 Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002800000)
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist
 die Verarbeitung besonderer Kategorien personenbezogener Daten im
@@ -1379,6 +1417,7 @@ Zeitgeschichte unerlässlich ist.
 
 
 ##### § 28 Datenverarbeitung zu im öffentlichen Interesse liegenden Archivzwecken
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE002900000)
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist
 die Verarbeitung besonderer Kategorien personenbezogener Daten im
@@ -1412,6 +1451,7 @@ und die Ausnahmen für die Erfüllung dieser Zwecke erforderlich sind.
 
 
 ##### § 29 Rechte der betroffenen Person und aufsichtsbehördliche Befugnisse im Fall von Geheimhaltungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003000000)
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel
 14 Absatz 1 bis 4 der Verordnung (EU) 2016/679 besteht ergänzend zu
@@ -1454,6 +1494,7 @@ die Geheimhaltungspflicht auch für die Aufsichtsbehörde.
 
 
 ##### § 30 Verbraucherkredite
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003100000)
 
 (1) Eine Stelle, die geschäftsmäßig personenbezogene Daten, die zur
 Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen,
@@ -1472,6 +1513,7 @@ würde. § 37 bleibt unberührt.
 
 
 ##### § 31 Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003200000)
 
 (1) Die Verwendung eines Wahrscheinlichkeitswerts über ein bestimmtes
 zukünftiges Verhalten einer natürlichen Person zum Zweck der
@@ -1553,9 +1595,11 @@ allgemeinem Datenschutzrecht bleibt unberührt.
 
 
 ### Kapitel 2 - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001200000)
 
 
 #### § 32 Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003300000)
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel
 13 Absatz 3 der Verordnung (EU)
@@ -1620,6 +1664,7 @@ von zwei Wochen, nach.
 
 
 #### § 33 Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003400000)
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel
 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 besteht ergänzend zu
@@ -1686,6 +1731,7 @@ ist sie nur mit Zustimmung dieser Stellen zulässig.
 
 
 #### § 34 Auskunftsrecht der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003500000)
 
 (1) Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der
 Verordnung (EU) 2016/679 besteht ergänzend zu den in § 27 Absatz 2, §
@@ -1747,6 +1793,7 @@ geltend gemachten Informationsinteresse steht.
 
 
 #### § 35 Recht auf Löschung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003600000)
 
 (1) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung
 wegen der besonderen Art der Speicherung nicht oder nur mit
@@ -1778,6 +1825,7 @@ satzungsgemäße oder vertragliche Aufbewahrungsfristen entgegenstehen.
 
 
 #### § 36 Widerspruchsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003700000)
 
 Das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
 (EU) 2016/679 gegenüber einer öffentlichen Stelle besteht nicht,
@@ -1787,6 +1835,7 @@ eine Rechtsvorschrift zur Verarbeitung verpflichtet.
 
 
 #### § 37 Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003800000)
 
 (1) Das Recht gemäß Artikel 22 Absatz 1 der Verordnung (EU) 2016/679,
 keiner ausschließlich auf einer automatisierten Verarbeitung
@@ -1820,9 +1869,11 @@ Person gemäß § 22 Absatz 2 Satz 2 vor.
 
 
 ### Kapitel 3 - Pflichten der Verantwortlichen und Auftragsverarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001300000)
 
 
 #### § 38 Datenschutzbeauftragte nichtöffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE003901116)
 
 (1) Ergänzend zu Artikel 37 Absatz 1 Buchstabe b und c der Verordnung
 (EU) 2016/679 benennen der Verantwortliche und der Auftragsverarbeiter
@@ -1844,6 +1895,7 @@ Datenschutzbeauftragten verpflichtend ist.
 
 
 #### § 39 Akkreditierung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004000000)
 
 Die Erteilung der Befugnis, als Zertifizierungsstelle gemäß Artikel 43
 Absatz 1 Satz 1 der Verordnung (EU) 2016/679 tätig zu werden, erfolgt
@@ -1857,9 +1909,11 @@ Anwendungsbereich des § 1 Absatz 2 Satz 2 unterfallender Bereich gilt.
 
 
 ### Kapitel 4 - Aufsichtsbehörde für die Datenverarbeitung durch nichtöffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001400000)
 
 
 #### § 40 Aufsichtsbehörden der Länder
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004100000)
 
 (1) Die nach Landesrecht zuständigen Behörden überwachen im
 Anwendungsbereich der Verordnung (EU) 2016/679 bei den
@@ -1937,9 +1991,11 @@ Interessenkonflikt vorliegt.
 
 
 ### Kapitel 5 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001500000)
 
 
 #### § 41 Anwendung der Vorschriften über das Bußgeld- und Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004200000)
 
 (1) Für Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU)
 2016/679 gelten, soweit dieses Gesetz nichts anderes bestimmt, die
@@ -1965,6 +2021,7 @@ kann.
 
 
 #### § 42 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004300000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer wissentlich nicht allgemein zugängliche personenbezogene
@@ -2006,6 +2063,7 @@ Benachrichtigenden verwendet werden.
 
 
 #### § 43 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004400000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2035,9 +2093,11 @@ Benachrichtigenden verwendet werden.
 
 
 ### Kapitel 6 - Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001600000)
 
 
 #### § 44 Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004500000)
 
 (1) Klagen der betroffenen Person gegen einen Verantwortlichen oder
 einen Auftragsverarbeiter wegen eines Verstoßes gegen
@@ -2061,12 +2121,15 @@ Zivilprozessordnung bleibt unberührt.
 
 
 ## Teil 3 - Bestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001700000)
 
 
 ### Kapitel 1 - Anwendungsbereich, Begriffsbestimmungen und allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001800000)
 
 
 #### § 45 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004600000)
 
 Die Vorschriften dieses Teils gelten für die Verarbeitung
 personenbezogener Daten durch die für die Verhütung, Ermittlung,
@@ -2085,6 +2148,7 @@ Auftragsverarbeiter enthält, gilt er auch für diese.
 
 
 #### § 46 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004700000)
 
 Es bezeichnen die Begriffe:
 
@@ -2234,6 +2298,7 @@ Es bezeichnen die Begriffe:
 
 
 #### § 47 Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004800000)
 
 Personenbezogene Daten müssen
 
@@ -2274,9 +2339,11 @@ Personenbezogene Daten müssen
 
 
 ### Kapitel 2 - Rechtsgrundlagen der Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG001900000)
 
 
 #### § 48 Verarbeitung besonderer Kategorien personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE004900000)
 
 (1) Die Verarbeitung besonderer Kategorien personenbezogener Daten ist
 nur zulässig, wenn sie zur Aufgabenerfüllung unbedingt erforderlich
@@ -2318,6 +2385,7 @@ vorzusehen. Geeignete Garantien können insbesondere sein
 
 
 #### § 49 Verarbeitung zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005000000)
 
 Eine Verarbeitung personenbezogener Daten zu einem anderen Zweck als
 zu demjenigen, zu dem sie erhoben wurden, ist zulässig, wenn es sich
@@ -2330,6 +2398,7 @@ Rechtsvorschrift vorgesehen ist.
 
 
 #### § 50 Verarbeitung zu archivarischen, wissenschaftlichen und statistischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005100000)
 
 Personenbezogene Daten dürfen im Rahmen der in § 45 genannten Zwecke
 in archivarischer, wissenschaftlicher oder statistischer Form
@@ -2343,6 +2412,7 @@ getrennten Verarbeitung bestehen.
 
 
 #### § 51 Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005200000)
 
 (1) Soweit die Verarbeitung personenbezogener Daten nach einer
 Rechtsvorschrift auf der Grundlage einer Einwilligung erfolgen kann,
@@ -2376,6 +2446,7 @@ beziehen.
 
 
 #### § 52 Verarbeitung auf Weisung des Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005300000)
 
 Jede einem Verantwortlichen oder einem Auftragsverarbeiter
 unterstellte Person, die Zugang zu personenbezogenen Daten hat, darf
@@ -2385,6 +2456,7 @@ Verarbeitung verpflichtet ist.
 
 
 #### § 53 Datengeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005400000)
 
 Mit Datenverarbeitung befasste Personen dürfen personenbezogene Daten
 nicht unbefugt verarbeiten (Datengeheimnis). Sie sind bei der Aufnahme
@@ -2393,6 +2465,7 @@ Datengeheimnis besteht auch nach der Beendigung ihrer Tätigkeit fort.
 
 
 #### § 54 Automatisierte Einzelentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005500000)
 
 (1) Eine ausschließlich auf einer automatischen Verarbeitung beruhende
 Entscheidung, die mit einer nachteiligen Rechtsfolge für die
@@ -2410,9 +2483,11 @@ diskriminiert werden, ist verboten.
 
 
 ### Kapitel 3 - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002000000)
 
 
 #### § 55 Allgemeine Informationen zu Datenverarbeitungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005600000)
 
 Der Verantwortliche hat in allgemeiner Form und für jedermann
 zugänglich Informationen zur Verfügung zu stellen über
@@ -2440,6 +2515,7 @@ zugänglich Informationen zur Verfügung zu stellen über
 
 
 #### § 56 Benachrichtigung betroffener Personen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005700000)
 
 (1) Ist die Benachrichtigung betroffener Personen über die
 Verarbeitung sie betreffender personenbezogener Daten in speziellen
@@ -2497,6 +2573,7 @@ entsprechend.
 
 
 #### § 57 Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005800000)
 
 (1) Der Verantwortliche hat betroffenen Personen auf Antrag Auskunft
 darüber zu erteilen, ob er sie betreffende Daten verarbeitet.
@@ -2599,6 +2676,7 @@ die Entscheidung zu dokumentieren.
 
 
 #### § 58 Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE005900000)
 
 (1) Die betroffene Person hat das Recht, von dem Verantwortlichen
 unverzüglich die Berichtigung sie betreffender unrichtiger Daten zu
@@ -2663,6 +2741,7 @@ Unterrichtung verfolgten Zweck gefährden würde.
 
 
 #### § 59 Verfahren für die Ausübung der Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006000000)
 
 (1) Der Verantwortliche hat mit betroffenen Personen unter Verwendung
 einer klaren und einfachen Sprache in präziser, verständlicher und
@@ -2691,6 +2770,7 @@ Bestätigung ihrer Identität erforderlich sind.
 
 
 #### § 60 Anrufung der oder des Bundesbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006100000)
 
 (1) Jede betroffene Person kann sich unbeschadet anderweitiger
 Rechtsbehelfe mit einer Beschwerde an die Bundesbeauftragte oder den
@@ -2714,6 +2794,7 @@ deren Ersuchen weitere Unterstützung zu leisten.
 
 
 #### § 61 Rechtsschutz gegen Entscheidungen der oder des Bundesbeauftragten oder bei deren oder dessen Untätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006200000)
 
 (1) Jede natürliche oder juristische Person kann unbeschadet anderer
 Rechtsbehelfe gerichtlich gegen eine verbindliche Entscheidung der
@@ -2727,9 +2808,11 @@ der Beschwerde in Kenntnis gesetzt hat.
 
 
 ### Kapitel 4 - Pflichten der Verantwortlichen und Auftragsverarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002100000)
 
 
 #### § 62 Auftragsverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006300000)
 
 (1) Werden personenbezogene Daten im Auftrag eines Verantwortlichen
 durch andere Personen oder Stellen verarbeitet, hat der
@@ -2828,6 +2911,7 @@ Bezug auf diese Verarbeitung als Verantwortlicher.
 
 
 #### § 63 Gemeinsam Verantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006400000)
 
 Legen zwei oder mehr Verantwortliche gemeinsam die Zwecke und die
 Mittel der Verarbeitung fest, gelten sie als gemeinsam
@@ -2843,6 +2927,7 @@ gegenüber jedem der gemeinsam Verantwortlichen geltend zu machen.
 
 
 #### § 64 Anforderungen an die Sicherheit der Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006500000)
 
 (1) Der Verantwortliche und der Auftragsverarbeiter haben unter
 Berücksichtigung des Stands der Technik, der Implementierungskosten,
@@ -2952,6 +3037,7 @@ Verschlüsselungsverfahren erreicht werden.
 
 
 #### § 65 Meldung von Verletzungen des Schutzes personenbezogener Daten an die oder den Bundesbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006600000)
 
 (1) Der Verantwortliche hat eine Verletzung des Schutzes
 personenbezogener Daten unverzüglich und möglichst innerhalb von 72
@@ -3013,6 +3099,7 @@ Verletzungen des Schutzes personenbezogener Daten bleiben unberührt.
 
 
 #### § 66 Benachrichtigung betroffener Personen bei Verletzungen des Schutzes personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006700000)
 
 (1) Hat eine Verletzung des Schutzes personenbezogener Daten
 voraussichtlich eine erhebliche Gefahr für Rechtsgüter betroffener
@@ -3065,6 +3152,7 @@ erheblichen Gefahr im Sinne des Absatzes 1 überwiegen.
 
 
 #### § 67 Durchführung einer Datenschutz-Folgenabschätzung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006800000)
 
 (1) Hat eine Form der Verarbeitung, insbesondere bei Verwendung neuer
 Technologien, aufgrund der Art, des Umfangs, der Umstände und der
@@ -3112,12 +3200,14 @@ der Folgenabschätzung ergeben haben.
 
 
 #### § 68 Zusammenarbeit mit der oder dem Bundesbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE006900000)
 
 Der Verantwortliche hat mit der oder dem Bundesbeauftragten bei der
 Erfüllung ihrer oder seiner Aufgaben zusammenzuarbeiten.
 
 
 #### § 69 Anhörung der oder des Bundesbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007000000)
 
 (1) Der Verantwortliche hat vor der Inbetriebnahme von neu
 anzulegenden Dateisystemen die Bundesbeauftragte oder den
@@ -3191,6 +3281,7 @@ Verarbeitung daraufhin gegebenenfalls anzupassen.
 
 
 #### § 70 Verzeichnis von Verarbeitungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007100000)
 
 (1) Der Verantwortliche hat ein Verzeichnis aller Kategorien von
 Verarbeitungstätigkeiten zu führen, die in seine Zuständigkeit fallen.
@@ -3263,6 +3354,7 @@ stellen.
 
 
 #### § 71 Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007200000)
 
 (1) Der Verantwortliche hat sowohl zum Zeitpunkt der Festlegung der
 Mittel für die Verarbeitung als auch zum Zeitpunkt der Verarbeitung
@@ -3293,6 +3385,7 @@ unbestimmten Anzahl von Personen zugänglich gemacht werden können.
 
 
 #### § 72 Unterscheidung zwischen verschiedenen Kategorien betroffener Personen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007300000)
 
 Der Verantwortliche hat bei der Verarbeitung personenbezogener Daten
 so weit wie möglich zwischen den verschiedenen Kategorien betroffener
@@ -3323,6 +3416,7 @@ Kategorien:
 
 
 #### § 73 Unterscheidung zwischen Tatsachen und persönlichen Einschätzungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007400000)
 
 Der Verantwortliche hat bei der Verarbeitung so weit wie möglich
 danach zu unterscheiden, ob personenbezogene Daten auf Tatsachen oder
@@ -3335,6 +3429,7 @@ persönlichen Einschätzung beruhenden Beurteilung zugrunde liegen.
 
 
 #### § 74 Verfahren bei Übermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007500000)
 
 (1) Der Verantwortliche hat angemessene Maßnahmen zu ergreifen, um zu
 gewährleisten, dass personenbezogene Daten, die unrichtig oder nicht
@@ -3362,6 +3457,7 @@ entsprechende innerstaatliche Datenübermittlungen gelten.
 
 
 #### § 75 Berichtigung und Löschung personenbezogener Daten sowie Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007600000)
 
 (1) Der Verantwortliche hat personenbezogene Daten zu berichtigen,
 wenn sie unrichtig sind.
@@ -3384,6 +3480,7 @@ Fristen eingehalten werden.
 
 
 #### § 76 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007700000)
 
 (1) In automatisierten Verarbeitungssystemen haben Verantwortliche und
 Auftragsverarbeiter mindestens die folgenden Verarbeitungsvorgänge zu
@@ -3431,6 +3528,7 @@ Verfügung zu stellen.
 
 
 #### § 77 Vertrauliche Meldung von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007800000)
 
 Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche
 Meldungen über in seinem Verantwortungsbereich erfolgende Verstöße
@@ -3438,9 +3536,11 @@ gegen Datenschutzvorschriften zugeleitet werden können.
 
 
 ### Kapitel 5 - Datenübermittlungen an Drittstaaten und an internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002200000)
 
 
 #### § 78 Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE007900000)
 
 (1) Die Übermittlung personenbezogener Daten an Stellen in
 Drittstaaten oder an internationale Organisationen ist bei Vorliegen
@@ -3500,6 +3600,7 @@ Genehmigung kann auch abweichend geregelt werden.
 
 
 #### § 79 Datenübermittlung bei geeigneten Garantien
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008000000)
 
 (1) Liegt entgegen § 78 Absatz 1 Nummer 2 kein Beschluss nach Artikel
 36 Absatz 3 der Richtlinie (EU)
@@ -3531,6 +3632,7 @@ erfolgt sind. In der Unterrichtung kann er die Empfänger und die
 
 
 #### § 80 Datenübermittlung ohne geeignete Garantien
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008100000)
 
 (1) Liegt entgegen § 78 Absatz 1 Nummer 2 kein Beschluss nach Artikel
 36 Absatz 3 der Richtlinie (EU)
@@ -3566,6 +3668,7 @@ Interesse an der Übermittlung überwiegen.
 
 
 #### § 81 Sonstige Datenübermittlung an Empfänger in Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008200000)
 
 (1) Verantwortliche können bei Vorliegen der übrigen für die
 Datenübermittlung in Drittstaaten geltenden Voraussetzungen im
@@ -3608,9 +3711,11 @@ und der polizeilichen Zusammenarbeit bleiben unberührt.
 
 
 ### Kapitel 6 - Zusammenarbeit der Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002300000)
 
 
 #### § 82 Gegenseitige Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008300000)
 
 (1) Die oder der Bundesbeauftragte hat den
 Datenschutzaufsichtsbehörden in anderen Mitgliedstaaten der
@@ -3663,9 +3768,11 @@ verwendet werden, zu dem sie angefordert wurden.
 
 
 ### Kapitel 7 - Haftung und Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002400000)
 
 
 #### § 83 Schadensersatz und Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008400000)
 
 (1) Hat ein Verantwortlicher einer betroffenen Person durch eine
 Verarbeitung personenbezogener Daten, die nach diesem Gesetz oder nach
@@ -3694,6 +3801,7 @@ Anwendung.
 
 
 #### § 84 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008500000)
 
 Für Verarbeitungen personenbezogener Daten durch öffentliche Stellen
 im Rahmen von Tätigkeiten nach § 45 Satz 1, 3 oder 4 findet § 42
@@ -3701,9 +3809,11 @@ entsprechende Anwendung.
 
 
 ## Teil 4 - Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNG002500000)
 
 
 ### § 85 Verarbeitung personenbezogener Daten im Rahmen von nicht in die Anwendungs- bereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008600000)
 
 (1) Die Übermittlung personenbezogener Daten an einen Drittstaat oder
 an über- oder zwischenstaatliche Stellen oder internationale
@@ -3750,6 +3860,7 @@ informieren, besteht auch kein Recht auf Auskunft. § 32 Absatz 2 und §
 
 
 ### § 86 Verarbeitung personenbezogener Daten für Zwecke staatlicher Auszeichnungen und Ehrungen
+[Direktlink](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html#BJNR209710017BJNE008700116)
 
 (1) Zur Vorbereitung und Durchführung staatlicher Verfahren bei
 Auszeichnungen und Ehrungen dürfen sowohl die zuständigen als auch

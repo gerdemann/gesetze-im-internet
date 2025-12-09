@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Dienstrecht
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000100000)
 
 Dieses Gesetz gilt für Beamtinnen und Beamte im Geschäftsbereich des
 Bundesministeriums der Verteidigung, die wegen der Verringerung des
@@ -30,6 +32,7 @@ werden können.
 
 
 ### § 2 Verwendung bei anderen Dienstherren
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000200000)
 
 Bis zum 31. Dezember 2017 sollen Beamtinnen und Beamte für eine
 Weiterverwendung bei anderen Dienstherren vor der Versetzung in der
@@ -38,6 +41,7 @@ Dies gilt auch bei einer Weiterverwendung bei einer Bundesbehörde.
 
 
 ### § 3 Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000300000)
 
 (1) Bis zum 31. Dezember 2017 kann Beamtinnen und Beamten für eine
 Tätigkeit, die keine Verwendung im Sinne des § 53 Absatz 8 des
@@ -73,6 +77,7 @@ Beitragsbemessungsgrundlage gilt Absatz 3 Satz 3 entsprechend.
 
 
 ### § 4 Versetzung in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000400000)
 
 Bis zum 31. Dezember 2017 können bis zu 1 050 Beamtinnen und Beamte
 auf Antrag in den Ruhestand versetzt werden, wenn
@@ -97,9 +102,11 @@ Beamtinnen und Beamte auf Antrag in den Ruhestand versetzt werden.
 
 
 ## Abschnitt 2 - Finanzieller Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNG000200000)
 
 
 ### § 5 Einmalzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000500000)
 
 (1) Beamtinnen und Beamte, die bis zum 31. Dezember 2017 zu anderen
 Dienstherren versetzt werden, bei denen die §§ 13, 19a oder 19b des
@@ -150,6 +157,7 @@ legen.
 
 
 ### § 6 Erstattung der Personalausgaben bei Abordnung zur Erprobung
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000600000)
 
 Im Fall des § 2 kann der Bund für die Dauer der Abordnung auf die
 Erstattung der Personalausgaben durch den aufnehmenden Dienstherrn
@@ -157,9 +165,11 @@ verzichten.
 
 
 ## Abschnitt 3 - Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNG000300000)
 
 
 ### § 7 Anwendung des Beamtenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000700000)
 
 Im Fall des § 4 ist das Beamtenversorgungsgesetz mit folgenden
 Maßgaben anzuwenden:
@@ -211,6 +221,7 @@ Maßgaben anzuwenden:
 
 
 ### § 8 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/bwbeamtausglg/BJNR158600012.html#BJNR158600012BJNE000800000)
 
 Das Bundesministerium der Verteidigung prüft im Einvernehmen mit dem
 Bundesministerium des Innern die Regelungen dieses Gesetzes bis zum

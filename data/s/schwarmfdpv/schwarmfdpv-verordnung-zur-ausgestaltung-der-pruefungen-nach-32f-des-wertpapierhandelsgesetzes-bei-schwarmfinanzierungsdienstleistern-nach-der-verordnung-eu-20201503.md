@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000100000)
 
 Auf Grund des § 32f Absatz 8 des Wertpapierhandelsgesetzes, der durch
 Artikel 4 Nummer 1 Buchstabe b des Gesetzes vom 3. Juni 2021 (BGBl. I
@@ -30,15 +31,18 @@ ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000200000)
 
 Diese Verordnung gilt für die Prüfung nach § 32f Absatz 2 des
 Wertpapierhandelsgesetzes.
 
 
 ### § 2 Fehler, Mangel, sonstige Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000300000)
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung
 von
@@ -83,9 +87,11 @@ berücksichtigt worden ist.
 
 
 ## Abschnitt 2 - Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNG000200000)
 
 
 ### § 3 Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000400000)
 
 (1) Der Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit
 dem Tag der letzten Prüfungshandlung vor Ort.
@@ -108,6 +114,7 @@ Prüfung jedoch insgesamt für mehr als vier Wochen unterbrochen wurde.
 
 
 ### § 4 Stichtag der Prüfung und Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000500000)
 
 (1) Der Prüfer legt den Stichtag der Prüfung nach pflichtgemäßem
 Ermessen fest.
@@ -129,6 +136,7 @@ folgenden Prüfung.
 
 
 ### § 5 Prüfungsbeginn
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000600000)
 
 (1) Die Prüfung muss spätestens 15 Monate nach dem Beginn des für sie
 maßgeblichen Berichtszeitraums nach § 4 begonnen worden sein. Die
@@ -158,6 +166,7 @@ der Bundesanstalt in Frankfurt am Main zu erfolgen.
 
 
 ### § 6 Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000700000)
 
 (1) Die Prüfung umfasst die Einhaltung der in § 2 Absatz 1 genannten
 Anforderungen und Anordnungen. Sie muss den gesamten Berichtszeitraum
@@ -192,6 +201,7 @@ wird, ist ein getrennter Prüfbericht zu erstellen.
 
 
 ### § 7 Auslagerung
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000800000)
 
 (1) Bei Schwarmfinanzierungsdienstleistern, welche bei der Wahrnehmung
 betrieblicher Aufgaben auf Dritte zugreifen (Auslagerung), erstreckt
@@ -229,6 +239,7 @@ Sitz der Hauptverwaltung befinden.
 
 
 ### § 8 Prüfungen nach § 32f Absatz 1 des Wertpapierhandelsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE000900000)
 
 (1) Wurde im Berichtszeitraum eine Prüfung nach § 32f Absatz 1 des
 Wertpapierhandelsgesetzes durchgeführt, hat der Prüfer das
@@ -242,6 +253,7 @@ Prüfung eingetreten sind.
 
 
 ### § 9 Aufzeichnungen und Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001000000)
 
 (1) Der Prüfer ist verpflichtet, über die Prüfung Aufzeichnungen in
 Papierform oder auf Datenträgern anzufertigen und zur
@@ -272,9 +284,11 @@ aufzubewahren.
 
 
 ## Abschnitt 3 - Prüfungsbericht und Fragebogen
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNG000300000)
 
 
 ### § 10 Umfang der Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001100000)
 
 (1) Der Prüfungsbericht muss den Berichtszeitraum und den
 Prüfungszeitraum nennen. Er muss vollständig und so übersichtlich
@@ -295,6 +309,7 @@ Prüfungsbericht darzustellen.
 
 
 ### § 11 Darstellung der Schwarmfinanzierungsdienstleistung und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001200000)
 
 Im Prüfungsbericht sind die erbrachten
 Schwarmfinanzierungsdienstleistungen sowie die Einhaltung der in § 2
@@ -305,6 +320,7 @@ darzulegen.
 
 
 ### § 12 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001300000)
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den
 Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat,
@@ -320,6 +336,7 @@ Stichproben sowie deren Ergebnis sind anzugeben.
 
 
 ### § 13 Verweisungen auf frühere Prüfungsberichte
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001400000)
 
 (1) Verweisungen auf den Inhalt anderer oder früherer Prüfungsberichte
 sind grundsätzlich nicht zulässig.
@@ -341,6 +358,7 @@ ausnahmsweise dann zulässig, wenn der Prüfer
 
 
 ### § 14 Bei der letzten Prüfung festgestellte Mängel
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001500000)
 
 Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung
 festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer
@@ -351,6 +369,7 @@ in der Zukunft zu vermeiden.
 
 
 ### § 15 Schlussbemerkung
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001600000)
 
 In einer Schlussbemerkung ist zusammenfassend zu beurteilen, ob der
 Schwarmfinanzierungsdienstleister die in § 2 Absatz 1 genannten
@@ -359,6 +378,7 @@ die entsprechenden Fundstellen im Bericht aufzuzählen.
 
 
 ### § 16 Prüfer; Unterschrift
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001700000)
 
 Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort
 geleitet hat. Der Prüfer hat den Prüfungsbericht unter Angabe von Ort
@@ -366,6 +386,7 @@ und Datum zu unterzeichnen.
 
 
 ### § 17 Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001800000)
 
 (1) Der nach § 32f Absatz 3 Satz 2 des Wertpapierhandelsgesetzes dem
 Prüfungsbericht beizufügende Fragebogen ist nach Maßgabe der Anlage zu
@@ -382,6 +403,7 @@ benennen.
 
 
 ### § 18 Übersendung des Prüfungsberichts und des Fragebogens
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE001900000)
 
 (1) Der Fragebogen und der Prüfungsbericht, soweit dieser nach § 32f
 Absatz 3 Satz 1 des Wertpapierhandelsgesetzes angefordert wurde, sind
@@ -406,6 +428,7 @@ einzureichen.
 
 
 ### § 19 Berichtsentwurf
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE002000000)
 
 (1) Falls die Bundesanstalt an der Prüfung nach § 32f Absatz 5 Satz 4
 des Wertpapierhandelsgesetzes teilnimmt, hat der Prüfer der
@@ -419,21 +442,25 @@ Besprechung zu übersenden.
 
 
 ### § 20 Erläuterung des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE002100000)
 
 Der Prüfer hat der Bundesanstalt auf deren Verlangen den
 Prüfungsbericht zu erläutern.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNG000400000)
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE002200000)
 
 Diese Verordnung tritt am 1. Juli 2022 in Kraft.
 
 (zu § 17 Absatz 1)
 
 ### Anlage Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/schwarmfdpv/BJNR085200022.html#BJNR085200022BJNE002300000)
 
 (Fundstelle: BGBl. I 2022, 856 - 857)
 

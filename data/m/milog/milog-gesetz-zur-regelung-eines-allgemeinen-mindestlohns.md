@@ -20,12 +20,15 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Festsetzung des allgemeinen Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000100000)
 
 
 ### Unterabschnitt 1 - Inhalt des Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000200000)
 
 
 #### § 1 Mindestlohn
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000202311)
 
 (1) Jede Arbeitnehmerin und jeder Arbeitnehmer hat Anspruch auf
 Zahlung eines Arbeitsentgelts mindestens in Höhe des Mindestlohns
@@ -44,6 +47,7 @@ Branchenmindestlöhne die Höhe des Mindestlohns nicht unterschreitet.
 
 
 #### § 2 Fälligkeit des Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000300000)
 
 (1) Der Arbeitgeber ist verpflichtet, der Arbeitnehmerin oder dem
 Arbeitnehmer den Mindestlohn
@@ -83,6 +87,7 @@ Arbeitnehmer vergleichbare ausländische Regelung.
 
 
 #### § 3 Unabdingbarkeit des Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000400000)
 
 Vereinbarungen, die den Anspruch auf Mindestlohn unterschreiten oder
 seine Geltendmachung beschränken oder ausschließen, sind insoweit
@@ -93,9 +98,11 @@ Verwirkung des Anspruchs ist ausgeschlossen.
 
 
 ### Unterabschnitt 2 - Mindestlohnkommission
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000300000)
 
 
 #### § 4 Aufgabe und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000500000)
 
 (1) Die Bundesregierung errichtet eine ständige Mindestlohnkommission,
 die über die Anpassung der Höhe des Mindestlohns befindet.
@@ -107,6 +114,7 @@ Kreisen der Wissenschaft ohne Stimmrecht (beratende Mitglieder).
 
 
 #### § 5 Stimmberechtigte Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000600000)
 
 (1) Die Bundesregierung beruft je drei stimmberechtigte Mitglieder auf
 Vorschlag der Spitzenorganisationen der Arbeitgeber und der
@@ -128,6 +136,7 @@ und 4 ein neues Mitglied berufen.
 
 
 #### § 6 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000700000)
 
 (1) Die Bundesregierung beruft die Vorsitzende oder den Vorsitzenden
 auf gemeinsamen Vorschlag der Spitzenorganisationen der Arbeitgeber
@@ -147,6 +156,7 @@ Vorsitzender berufen.
 
 
 #### § 7 Beratende Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000800000)
 
 (1) Die Bundesregierung beruft auf Vorschlag der Spitzenorganisationen
 der Arbeitgeber und Arbeitnehmer zusätzlich je ein beratendes Mitglied
@@ -176,6 +186,7 @@ Beratungen der Mindestlohnkommission teilzunehmen.
 
 
 #### § 8 Rechtsstellung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE000900000)
 
 (1) Die Mitglieder der Mindestlohnkommission unterliegen bei der
 Wahrnehmung ihrer Tätigkeit keinen Weisungen.
@@ -193,6 +204,7 @@ Vorsitzende der Mindestlohnkommission fest.
 
 
 #### § 9 Beschluss der Mindestlohnkommission
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001001311)
 
 (1) Die Mindestlohnkommission hat über eine Anpassung der Höhe des
 Mindestlohns bis zum 30. Juni 2023 mit Wirkung zum 1. Januar 2024 zu
@@ -219,6 +231,7 @@ gemeinsam mit ihrem Beschluss zur Verfügung.
 
 
 #### § 10 Verfahren der Mindestlohnkommission
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001101119)
 
 (1) Die Mindestlohnkommission ist beschlussfähig, wenn mindestens die
 Hälfte ihrer stimmberechtigten Mitglieder anwesend ist.
@@ -259,6 +272,7 @@ einer Geschäftsordnung.
 
 
 #### § 11 Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001200000)
 
 (1) Die Bundesregierung kann die von der Mindestlohnkommission
 vorgeschlagene Anpassung des Mindestlohns durch Rechtsverordnung ohne
@@ -280,6 +294,7 @@ Verordnungsentwurfs.
 
 
 #### § 12 Geschäfts- und Informationsstelle für den Mindestlohn; Kostenträgerschaft
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001300000)
 
 (1) Die Mindestlohnkommission wird bei der Durchführung ihrer Aufgaben
 von einer Geschäftsstelle unterstützt. Die Geschäftsstelle untersteht
@@ -297,23 +312,28 @@ Geschäftsstelle anfallenden Kosten trägt der Bund.
 
 
 ## Abschnitt 2 - Zivilrechtliche Durchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000400000)
 
 
 ### § 13 Haftung des Auftraggebers
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001400000)
 
 § 14 des Arbeitnehmer-Entsendegesetzes findet entsprechende Anwendung.
 
 
 ## Abschnitt 3 - Kontrolle und Durchsetzung durch staatliche Behörden
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000500000)
 
 
 ### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001500000)
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
 20 sind die Behörden der Zollverwaltung zuständig.
 
 
 ### § 15 Befugnisse der Behörden der Zollverwaltung und anderer Behörden; Mitwirkungspflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001600000)
 
 Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
@@ -335,6 +355,7 @@ Schwarzarbeitsbekämpfungsgesetzes finden entsprechende Anwendung.
 
 
 ### § 16 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001701126)
 
 (1) Ein Arbeitgeber mit Sitz im Ausland, der eine Arbeitnehmerin oder
 einen Arbeitnehmer oder mehrere Arbeitnehmerinnen oder Arbeitnehmer in
@@ -498,6 +519,7 @@ Satz 1 und Absatz 3 Satz 1 bestimmen.
 
 
 ### § 17 Erstellen und Bereithalten von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001801126)
 
 (1) Ein Arbeitgeber, der Arbeitnehmerinnen und Arbeitnehmer nach § 8
 Absatz 1 des Vierten Buches Sozialgesetzbuch oder in den in § 2a des
@@ -638,6 +660,7 @@ Wirtschaftsbereiches oder Wirtschaftszweiges dies erfordern.
 
 
 ### § 18 Zusammenarbeit der in- und ausländischen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE001901126)
 
 (1) Die Behörden der Zollverwaltung unterrichten die zuständigen
 örtlichen Landesfinanzbehörden über Meldungen nach § 16 Absatz 1 und
@@ -662,6 +685,7 @@ beträgt.
 
 
 ### § 19 Ausschluss von der Vergabe öffentlicher Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002005126)
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
 Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
@@ -700,6 +724,7 @@ der Bewerber zu hören.
 
 
 ### § 20 Pflichten des Arbeitgebers zur Zahlung des Mindestlohns
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002100000)
 
 Arbeitgeber mit Sitz im In- oder Ausland sind verpflichtet, ihren im
 Inland beschäftigten Arbeitnehmerinnen und Arbeitnehmern ein
@@ -709,6 +734,7 @@ zu zahlen.
 
 
 ### § 21 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002203126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -805,9 +831,11 @@ Verwaltungs-Vollstreckungsgesetz des Bundes.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNG000600000)
 
 
 ### § 22 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002300000)
 
 (1) Dieses Gesetz gilt für Arbeitnehmerinnen und Arbeitnehmer.
 Praktikantinnen und Praktikanten im Sinne des § 26 des
@@ -864,10 +892,12 @@ Regelung fortbestehen soll.
 
 
 ### § 23 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002400000)
 
 Dieses Gesetz ist im Jahr 2020 zu evaluieren.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milog/BJNR134810014.html#BJNR134810014BJNE002501000)
 
 

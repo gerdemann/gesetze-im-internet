@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anlagenhaftung bei Umwelteinwirkungen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000100308)
 
 Wird durch eine Umwelteinwirkung, die von einer im Anhang 1 genannten
 Anlage ausgeht, jemand getötet, sein Körper oder seine Gesundheit
@@ -29,6 +30,7 @@ ersetzen.
 
 
 ## § 2 Haftung für nichtbetriebene Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000200308)
 
 (1) Geht die Umwelteinwirkung von einer noch nicht fertiggestellten
 Anlage aus und beruht sie auf Umständen, die die Gefährlichkeit der
@@ -43,6 +45,7 @@ Anlage war.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000300308)
 
 (1) Ein Schaden entsteht durch eine Umwelteinwirkung, wenn er durch
 Stoffe, Erschütterungen, Geräusche, Druck, Strahlen, Gase, Dämpfe,
@@ -68,12 +71,14 @@ Umwelteinwirkungen von Bedeutung sein können.
 
 
 ## § 4 Ausschluß der Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000400308)
 
 Die Ersatzpflicht besteht nicht, soweit der Schaden durch höhere
 Gewalt verursacht wurde.
 
 
 ## § 5 Beschränkung der Haftung bei Sachschäden
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000500308)
 
 Ist die Anlage bestimmungsgemäß betrieben worden (§ 6 Abs. 2 Satz 2),
 so ist die Ersatzpflicht für Sachschäden ausgeschlossen, wenn die
@@ -82,6 +87,7 @@ nach den örtlichen Verhältnissen zumutbar ist.
 
 
 ## § 6 Ursachenvermutung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000600308)
 
 (1) Ist eine Anlage nach den Gegebenheiten des Einzelfalles geeignet,
 den entstandenen Schaden zu verursachen, so wird vermutet, daß der
@@ -123,6 +129,7 @@ dieser Betriebspflicht vermutet, wenn
 
 
 ## § 7 Ausschluß der Vermutung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000700308)
 
 (1) Sind mehrere Anlagen geeignet, den Schaden zu verursachen, so gilt
 die Vermutung nicht, wenn ein anderer Umstand nach den Gegebenheiten
@@ -138,6 +145,7 @@ verursachen.
 
 
 ## § 8 Auskunftsanspruch des Geschädigten gegen den Inhaber einer Anlage
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000800308)
 
 (1) Liegen Tatsachen vor, die die Annahme begründen, daß eine Anlage
 den Schaden verursacht hat, so kann der Geschädigte vom Inhaber der
@@ -164,6 +172,7 @@ entsprechende Anwendung.
 
 
 ## § 9 Auskunftsanspruch des Geschädigten gegen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE000900308)
 
 Liegen Tatsachen vor, die die Annahme begründen, daß eine Anlage den
 Schaden verursacht hat, so kann der Geschädigte von Behörden, die die
@@ -185,6 +194,7 @@ verlangt werden.
 
 
 ## § 10 Auskunftsanspruch des Inhabers einer Anlage
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001000308)
 
 (1) Wird gegen den Inhaber einer Anlage ein Anspruch aufgrund dieses
 Gesetzes geltend gemacht, so kann er von dem Geschädigten und von dem
@@ -201,6 +211,7 @@ Auskunftsanspruch gegen Behörden § 9 entsprechend.
 
 
 ## § 11 Mitverschulden
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001100308)
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
 mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; im Falle der
@@ -210,6 +221,7 @@ Geschädigten gleich.
 
 
 ## § 12 Umfang der Ersatzpflicht bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001201123)
 
 (1) Im Falle der Tötung ist Ersatz der Kosten einer versuchten Heilung
 sowie des Vermögensnachteils zu leisten, den der Getötete dadurch
@@ -238,6 +250,7 @@ Getöteten war.
 
 
 ## § 13 Umfang der Ersatzpflicht bei Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001301377)
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der
 Kosten der Heilung sowie des Vermögensnachteils zu leisten, den der
@@ -249,6 +262,7 @@ gefordert werden.
 
 
 ## § 14 Schadensersatz durch Geldrente
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001400308)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit und wegen vermehrter Bedürfnisse des Verletzten sowie
@@ -260,6 +274,7 @@ anzuwenden.
 
 
 ## § 15 Haftungshöchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001501377)
 
 Der Ersatzpflichtige haftet für Tötung, Körper- und
 Gesundheitsverletzung insgesamt nur bis zu einem Höchstbetrag von 85
@@ -273,6 +288,7 @@ dem ihr Gesamtbetrag zum Höchstbetrag steht.
 
 
 ## § 16 Aufwendungen bei Wiederherstellungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001600308)
 
 (1) Stellt die Beschädigung einer Sache auch eine Beeinträchtigung der
 Natur oder der Landschaft dar, so ist, soweit der Geschädigte den
@@ -287,6 +303,7 @@ Verlangen des Ersatzberechtigten Vorschuß zu leisten.
 
 
 ## § 17 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001700308)
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
@@ -294,6 +311,7 @@ Anwendung.
 
 
 ## § 18 Weitergehende Haftung
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001800308)
 
 (1) Eine Haftung aufgrund anderer Vorschriften bleibt unberührt.
 
@@ -308,6 +326,7 @@ Fassung, maßgebend ist.
 
 
 ## § 19 Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE001900308)
 
 (1) Die Inhaber von Anlagen, die in Anhang 2 genannt sind, haben dafür
 Sorge zu tragen, daß sie ihren gesetzlichen Verpflichtungen zum Ersatz
@@ -351,6 +370,7 @@ festzusetzenden angemessenen Frist nachweist.
 
 
 ## § 20 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002001377)
 
 (1) Die Bundesregierung wird durch Rechtsverordnung mit Zustimmung des
 Bundesrates Vorschriften erlassen über
@@ -396,6 +416,7 @@ erforderlich sind.
 
 
 ## § 21 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002100308)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -416,6 +437,7 @@ Tagessätzen.
 
 
 ## § 22 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002201377)
 
 (1) Ordnungswidrig handelt, wer einer Rechtsverordnung nach § 20 Abs.
 1 Nr. 3 bis 6 zuwiderhandelt, soweit sie für einen bestimmten
@@ -426,6 +448,7 @@ geahndet werden.
 
 
 ## § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002301377)
 
 Dieses Gesetz und § 32a der Zivilprozessordnung finden keine
 Anwendung, soweit der Schaden vor dem Inkrafttreten dieses Gesetzes
@@ -433,6 +456,7 @@ verursacht worden ist.
 
 
 ## Anhang 1 (zu § 1 UmweltHG)
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002400308)
 
 Für die genannten Anlagen gilt:
 
@@ -1179,6 +1203,7 @@ Sonstiges
 
 
 ## Anhang 2 (zu § 19 UmweltHG)
+[Direktlink](https://www.gesetze-im-internet.de/umwelthg/BJNR126340990.html#BJNR126340990BJNE002500308)
 
 
 1.  Anlagen, für die gemäß den §§ 1, 7 der Störfall-Verordnung eine

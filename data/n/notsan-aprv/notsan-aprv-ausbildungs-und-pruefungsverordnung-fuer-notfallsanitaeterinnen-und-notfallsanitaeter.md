@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000100000)
 
 Auf Grund des § 11 des Notfallsanitätergesetzes vom 22. Mai 2013
 (BGBl. I S. 1348) verordnet das Bundesministerium für Gesundheit im
@@ -27,9 +28,11 @@ Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Ausbildung und allgemeine Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000100000)
 
 
 ### § 1 Gliederung der Ausbildung, Gliederung der Ergänzungsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000200000)
 
 (1) Die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter
 nach § 5 Absatz 1 Satz 2 des Notfallsanitätergesetzes umfasst
@@ -101,6 +104,7 @@ Bescheinigung nach dem Muster der Anlage 5 nachzuweisen.
 
 
 ### § 2 Theoretischer und praktischer Unterricht, praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000301130)
 
 (1) Durch den Unterricht nach § 1 Absatz 1 Nummer 1 werden die
 Schülerinnen und Schüler befähigt, auf der Grundlage fachlichen
@@ -132,6 +136,7 @@ entwickeln.
 
 
 ### § 3 Praxisanleitung; Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000401125)
 
 (1) Die Einrichtungen der praktischen Ausbildung stellen die
 Praxisanleitung der Schülerinnen und Schüler nach § 5 Absatz 3 Satz 3
@@ -222,6 +227,7 @@ Aufgabe der Praxisbegleitung ist es,
 
 
 ### § 4 Staatliche Prüfung, staatliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000500000)
 
 (1) Die staatliche Prüfung für die Ausbildung nach § 1 Absatz 1
 umfasst jeweils einen schriftlichen, einen mündlichen und einen
@@ -247,6 +253,7 @@ Prüflinge teilnehmen.
 
 
 ### § 5 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000601130)
 
 (1) Bei jeder Schule wird ein Prüfungsausschuss gebildet, der
 mindestens aus folgenden Mitgliedern besteht:
@@ -302,6 +309,7 @@ und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ### § 6 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000700000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf
 Antrag des Prüflings über die Zulassung zur Prüfung und setzt die
@@ -344,6 +352,7 @@ schriftlich mitgeteilt werden.
 
 
 ### § 6a Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE004100125)
 
 (1) Die besonderen Belange von zu prüfenden Personen mit Behinderung
 oder Beeinträchtigung sind zur Wahrung ihrer Chancengleichheit bei
@@ -373,6 +382,7 @@ Person in geeigneter Weise bekannt gegeben.
 
 
 ### § 7 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000800000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -380,6 +390,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ### § 8 Benotung von Leistungen in der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE000901130)
 
 Die in der staatlichen Prüfung erbrachten Leistungen werden wie folgt
 benotet:
@@ -449,6 +460,7 @@ benotet:
 
 
 ### § 9 Bestehen und Wiederholung der staatlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001000000)
 
 (1) Die staatliche Prüfung ist bestanden, wenn jeder der nach § 4
 Absatz 1 vorgeschriebenen Prüfungsteile bestanden ist.
@@ -479,6 +491,7 @@ beizufügen.
 
 
 ### § 10 Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001100000)
 
 Die staatliche Ergänzungsprüfung ist bestanden, wenn jeder der nach §
 4 Absatz 3 vorgeschriebenen Prüfungsteile bestanden ist. Wer die
@@ -498,6 +511,7 @@ darf die Dauer von zwölf Monaten nicht überschreiten.
 
 
 ### § 11 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001200000)
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
 einem Teil der Prüfung zurück, so hat er der oder dem Vorsitzenden des
@@ -517,6 +531,7 @@ entsprechend.
 
 
 ### § 12 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001300000)
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine
 Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er
@@ -532,6 +547,7 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 ### § 13 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001400000)
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen,
 die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße
@@ -544,6 +560,7 @@ Prüfung zulässig.
 
 
 ### § 14 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001500000)
 
 Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in
 seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten
@@ -552,9 +569,11 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 ## Abschnitt 2 - Bestimmungen für die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000200000)
 
 
 ### § 15 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001601130)
 
 (1) Der schriftliche Teil der staatlichen Prüfung erstreckt sich auf
 die folgenden Themenbereiche der Anlage 1:
@@ -602,6 +621,7 @@ wird.
 
 
 ### § 16 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001701130)
 
 (1) In der mündlichen Prüfung hat der Prüfling seine berufliche
 Handlungskompetenz, die sich in den Dimensionen Fach-, Sozial- und
@@ -656,6 +676,7 @@ Interesse besteht.
 
 
 ### § 17 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001801130)
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling nachzuweisen,
 dass er in der Lage ist, die während der Ausbildung erworbenen
@@ -730,9 +751,11 @@ jedes Fallbeispiel mindestens mit „ausreichend“ benotet wird.
 
 
 ## Abschnitt 3 - Prüfungsbestimmungen für die staatliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000300000)
 
 
 ### § 18 Mündlicher Teil der Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE001901130)
 
 (1) Der mündliche Teil der Ergänzungsprüfung erstreckt sich auf die
 folgenden Themenbereiche der Anlage 1:
@@ -775,6 +798,7 @@ Prüfung teilnehmen; ihr oder ihm steht ein Fragerecht zu.
 
 
 ### § 19 Praktischer Teil der Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002001130)
 
 (1) Der praktische Teil der Ergänzungsprüfung erstreckt sich auf die
 Übernahme aller anfallenden Aufgaben einer fachgerechten
@@ -793,9 +817,11 @@ Fachprüferinnen oder Fachprüfer jedes Fallbeispiel übereinstimmend mit
 
 
 ## Abschnitt 4 - Anpassungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000400000)
 
 
 ### § 20 Sonderregelungen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002101116)
 
 (1) Personen, die über einen Ausbildungsnachweis aus einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -876,6 +902,7 @@ Gleichstellung ergibt.
 
 
 ### § 21 Anpassungsmaßnahmen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002201116)
 
 (1) Personen, die eine Erlaubnis nach § 1 Absatz 1 des
 Notfallsanitätergesetzes beantragen und
@@ -944,6 +971,7 @@ werden kann.
 
 
 ### § 22 Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002301130)
 
 (1) Personen, die eine Erlaubnis nach § 1 Absatz 1 des
 Notfallsanitätergesetzes beantragen, haben einen Anpassungslehrgang
@@ -1048,6 +1076,7 @@ dem Muster der Anlage 11 erteilt.
 
 
 ### § 23 Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002402116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis als Notfallsanitäterin oder Notfallsanitäter nach § 1 Absatz
@@ -1105,9 +1134,11 @@ entsprechend.
 
 
 ## Abschnitt 5 - Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000500000)
 
 
 ### § 24 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002500000)
 
 Sind die Voraussetzungen nach § 2 des Notfallsanitätergesetzes oder
 nach § 32 Absatz 2 des Notfallsanitätergesetzes für die Erteilung der
@@ -1117,9 +1148,11 @@ Erlaubnisurkunde nach dem Muster der Anlage 12 aus.
 
 
 ## Abschnitt 6 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNG000600000)
 
 
 ### § 25 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002600000)
 
 Eine bis einschließlich 31. Dezember 2014 begonnene Ausbildung zur
 Rettungsassistentin oder zum Rettungsassistenten wird nach den bisher
@@ -1127,6 +1160,7 @@ geltenden Vorschriften abgeschlossen.
 
 
 ### § 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002700000)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Die Ausbildungs-
 und Prüfungsverordnung für Rettungsassistentinnen und
@@ -1137,12 +1171,14 @@ außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 1 Nummer 1)
 
 ### Anlage 1 Theoretischer und praktischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE002900000)
 
 (Fundstelle: BGBl. I 2013, 4289 - 4292)
 
@@ -1789,6 +1825,7 @@ Themenbereiche:
 (zu § 1 Absatz 1 Nummer 2)
 
 ### Anlage 2 Praktische Ausbildung in genehmigten Lehrrettungswachen
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003000000)
 
 (Fundstelle: BGBl. I 2013, 4293)
 
@@ -1848,6 +1885,7 @@ praktische Einsätze zu nutzen.
 (zu § 1 Absatz 1 Nummer 3)
 
 ### Anlage 3 Praktische Ausbildung in geeigneten Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003101125)
 
 (Fundstelle: BGBl. I 2013, 4294 - 4295;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2180,6 +2218,7 @@ folgende Funktionsbereiche:
 (zu § 1 Absatz 3)
 
 ### Anlage 4 Weitere Ausbildung nach § 32 Absatz 2 Satz 2 des Notfallsanitätergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003200000)
 
 (Fundstelle: BGBl. I 2013, 4296)
 
@@ -2406,6 +2445,7 @@ folgende Funktionsbereiche:
 
 
 ### Anlage 5 (zu § 1 Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003300000)
 
 (Fundstelle: BGBl. I 2013, 4297)
 
@@ -2504,6 +2544,7 @@ zulässigen Fehlzeiten hinaus – um . . .
 [^f783705_01_BJNR428000013BJNE003300000]: 
 
 ### Anlage 6 (zu § 9 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003400000)
 
 (Fundstelle: BGBl. I 2013, 4298)
 
@@ -2615,6 +2656,7 @@ Sie/Er hat folgende Prüfungsnoten erhalten:
 
 
 ### Anlage 7 (zu § 10 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003500000)
 
    (Fundstelle: BGBl. I 2013, 4299)
 
@@ -2705,6 +2747,7 @@ des Prüfungsausschusses
 
 
 ### Anlage 8 (zu § 21 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003600000)
 
    (Fundstelle: BGBl. I 2013, 4300)
 
@@ -2773,6 +2816,7 @@ Bezeichnung der Einrichtung
 
 
 ### Anlage 9 (zu § 21 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003700000)
 
    (Fundstelle: BGBl. I 2013, 4301)
 
@@ -2852,6 +2896,7 @@ des Prüfungsausschusses
 [^f783705_02_BJNR428000013BJNE003700000]: 
 
 ### Anlage 10 (zu § 22 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003800000)
 
 (Fundstelle: BGBl. I 2013, 4302)
 
@@ -2928,6 +2973,7 @@ Bezeichnung der Einrichtung
 [^f783705_03_BJNR428000013BJNE003800000]: 
 
 ### Anlage 11 (zu § 22 Absatz 7)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE003900000)
 
 (Fundstelle: BGBl. I 2013, 4303)
 
@@ -3013,6 +3059,7 @@ des Prüfungsausschusses
 [^f783705_04_BJNR428000013BJNE003900000]: 
 
 ### Anlage 12 (zu § 24)
+[Direktlink](https://www.gesetze-im-internet.de/notsan-aprv/BJNR428000013.html#BJNR428000013BJNE004000000)
 
 (Fundstelle: BGBl. I 2013, 4304)
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich und Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000101130)
 
 (1) Diese Verordnung regelt die Voraussetzungen für
 
@@ -66,6 +67,7 @@ asynchronen Verfahren erfolgen.
 
 
 ## § 2 Technische Grundlagen des Abrufverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000201130)
 
 (1) Datenabrufe erfolgen elektronisch unter Zugrundelegung des
 Datenaustauschformats XPassAusweis aus dem Standard XInneres und unter
@@ -105,6 +107,7 @@ gleichwertig sind.
 
 
 ## § 3 Standards der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000301130)
 
 (1) XLichtbild ist ein Datenaustauschformat in dem Standard XInneres
 für die Übermittlung von Daten nach § 1 Absatz 1 Nummer 1 bis 4 aus
@@ -134,6 +137,7 @@ der Beginn der Anwendung anzugeben.
 
 
 ## § 4 Auswahldaten; Voraussetzung der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000401130)
 
 (1) Als Auswahldaten für Abrufe nach § 1 Absatz 1 Nummer 1 bis 4
 können verwendet werden:
@@ -169,6 +173,7 @@ Adressierung von automatisierten Mitteilungen nach § 1 Absatz 1 Nummer
 
 
 ## § 5 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/ppdav/BJNR368210021.html#BJNR368210021BJNE000500130)
 
 (1) Abweichend von § 1 Absatz 2 Satz 1 dürfen automatisierte Abrufe
 nach Absatz 1 Nummer 1 bis 4 bis zum 31. Oktober 2025 auch im

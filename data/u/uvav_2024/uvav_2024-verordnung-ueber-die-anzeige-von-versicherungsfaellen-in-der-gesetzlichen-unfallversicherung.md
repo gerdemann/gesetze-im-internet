@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V 860-7-4 v. 23.1.2002 I 554 (UVAV)
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000100000)
 
 Die Anzeige von Arbeitsunfällen und Berufskrankheiten, die nach den §§
 193 und 202 des Siebten Buches Sozialgesetzbuch zu erstatten ist,
@@ -28,6 +29,7 @@ richtet sich nach den Bestimmungen dieser Verordnung.
 
 
 ## § 2 Grundsätze der Anzeigenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000200000)
 
 (1) Arbeitsunfälle und Berufskrankheiten sind durch elektronische
 Datenübertragung anzuzeigen. Bei der Datenübertragung sind die
@@ -49,6 +51,7 @@ elektronische Vorgangsbearbeitung ist barrierefrei zu gestalten.
 
 
 ## § 3 Allgemeine Daten der Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000300000)
 
 (1) Die Anzeigen nach § 2 Absatz 1 Satz 1 haben folgende Daten zu
 enthalten:
@@ -110,6 +113,7 @@ enthalten:
 
 
 ## § 4 Zusätzliche Daten bei Unfallanzeigen
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000400000)
 
 (1) Eine Unfallanzeige hat über die in § 3 aufgeführten Daten hinaus
 zusätzlich folgende Daten zu enthalten:
@@ -251,6 +255,7 @@ zusätzlich folgende Daten anzugeben:
 
 
 ## § 5 Zusätzliche Daten bei Anzeigen von Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000500000)
 
 (1) Bei einer Anzeige des begründeten Verdachts des Bestehens einer
 Berufskrankheit sind über die in § 3 aufgeführten Daten hinaus
@@ -404,6 +409,7 @@ erneute Übermittlung der Daten entbehrlich.
 
 
 ## § 6 Hinweispflicht, Datenübertragung an Arbeitsschutzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000600000)
 
 (1) Die versicherten Personen haben das Recht, die Inhalte der Anzeige
 von den anzeigenden Unternehmen in einem barrierefreien Format zu
@@ -416,6 +422,7 @@ durch die Träger der gesetzlichen Unfallversicherung erfolgen.
 
 
 ## § 7 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/uvav_2024/BJNR0C00B0023.html#BJNR0C00B0023BJNE000700000)
 
 Abweichend von § 2 können die Anzeigen nach den §§ 193 und 202 des
 Siebten Buches Sozialgesetzbuch bis zum 31. Dezember 2027 auf den

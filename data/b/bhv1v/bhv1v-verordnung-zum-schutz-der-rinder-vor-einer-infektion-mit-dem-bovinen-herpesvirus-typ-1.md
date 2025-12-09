@@ -24,10 +24,12 @@ Geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000105360)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE000813118)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -181,14 +183,17 @@ Reagenten entfernt worden sind.
 
 
 ## Abschnitt 2 - Schutzmaßregeln gegen die BHV1-Infektion
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000205360)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000305360)
 
 
 
 #### § 2 Impfungen
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE000909360)
 
 (1) Rinder dürfen gegen eine BHV1-Infektion nur mit Impfstoffen
 geimpft werden, bei deren Herstellung Virusstämme verwendet worden
@@ -236,6 +241,7 @@ verwendeten BHV1-Impfstoff zu erteilen.
 
 
 #### § 2a Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002107360)
 
 (1) Der Tierhalter hat, soweit sein Bestand nicht bereits ein
 BHV1-freier Rinderbestand im Sinne des § 1 Absatz 2 Nummer 1 ist, alle
@@ -295,6 +301,7 @@ Untersuchungen sowie das Ergebnis dieser Untersuchungen zu erteilen.
 
 
 #### § 2b Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002904360)
 
 Die zuständigen obersten Landesbehörden übermitteln dem
 Bundesministerium jährlich bis zum 1. März des folgenden Jahres nach
@@ -306,6 +313,7 @@ der BHV1-Sanierung.
 
 
 #### § 3 Verbringen von Rindern
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001014118)
 
 (1) Zucht- und Nutzrinder dürfen aus einem Bestand nur verbracht oder
 in einen Bestand nur eingestellt werden, wenn sie die Anforderungen
@@ -424,6 +432,7 @@ Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 4 Weitergehende Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001109360)
 
 (1) Die zuständige Behörde kann das Treiben von Rindern, die nicht die
 Anforderungen des § 1 Absatz 2 Nummer 2 erfüllen, verbieten, soweit es
@@ -450,14 +459,17 @@ erforderlich ist.
 
 
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000406360)
 
 
 
 #### Titel 1 - Vor amtlicher Feststellung der BHV1-Infektion oder des Verdachts der BHV1-Infektion
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000705360)
 
 
 
 ##### § 5 Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002206360)
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der
 BHV1-Infektion in einem Gehöft oder an einem sonstigen Standort gelten
@@ -509,10 +521,12 @@ anderer Tierhalter zu verhindern sind.
 
 
 #### Titel 2 - Nach amtlicher Feststellung der BHV1-Infektion oder des Verdachts der BHV1-Infektion
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000805360)
 
 
 
 ##### § 6 Sperre
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002307360)
 
 (1) Ist der Ausbruch der BHV1-Infektion bei Rindern amtlich
 festgestellt, so unterliegen das Gehöft oder der sonstige Standort
@@ -603,6 +617,7 @@ benötigt werden.
 
 
 ##### § 7 Tötung
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002405360)
 
 Ist der Verdacht des Ausbruchs oder der Ausbruch der BHV1-Infektion in
 einem Gehöft oder an einem sonstigen Standort amtlich festgestellt,
@@ -611,6 +626,7 @@ seuchenverdächtigen Rinder anordnen.
 
 
 ##### § 8 Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002505360)
 
 Ist der Ausbruch der BHV1-Infektion bei Rindern in einem Gehöft oder
 an einem sonstigen Standort amtlich festgestellt, so kann die
@@ -625,6 +641,7 @@ verbracht werden dürfen.
 
 
 ##### § 9 Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002606360)
 
 (1) Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch
 der BHV1-Infektion amtlich festgestellt, so stellt die zuständige
@@ -654,6 +671,7 @@ erforderlich ist.
 
 
 ##### § 10 Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002706360)
 
 (1) Nach Entfernung der seuchenkranken und -verdächtigen Rinder hat
 der Tierhalter unverzüglich nach näherer Anweisung der zuständigen
@@ -687,6 +705,7 @@ nicht entgegenstehen.
 
 
 ##### § 11 Ausstellungen, Märkte
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002805360)
 
 Wird bei Rindern, die sich auf Ausstellungen, Märkten und
 Veranstaltungen ähnlicher Art befinden, die BHV1-Infektion amtlich
@@ -696,10 +715,12 @@ treffen.
 
 
 ## Abschnitt 3 - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000506360)
 
 
 
 ### § 12 Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001409360)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die
 BHV1-Infektion erloschen ist oder der Verdacht des Ausbruchs der
@@ -786,10 +807,12 @@ wenn
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNG000607360)
 
 
 
 ### § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001513118)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -879,6 +902,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 14 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE003004360)
 
 § 3 Absatz 1 Satz 3 ist mit Ablauf des 31. Dezember 2005 nicht mehr
 anzuwenden.
@@ -886,6 +910,7 @@ anzuwenden.
 (zu § 1 Absatz 2 Nummer 1 Buchstabe a und b)
 
 ### Anlage 1 Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001811118)
 
 (Fundstelle: BGBl. I 2015, 775 - 777)
 
@@ -1287,6 +1312,7 @@ zu 50 Tieren zusammen (gepoolt) untersucht werden können.
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage 2 Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE001911118)
 
 (Fundstelle: BGBl. I 2015, 778)
 
@@ -1375,6 +1401,7 @@ _\_\__\_\__\_\__\_\__
 (zu § 3 Absatz 1 Satz 1)
 
 ### Anlage 3 Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
+[Direktlink](https://www.gesetze-im-internet.de/bhv1v/BJNR275800997.html#BJNR275800997BJNE002011118)
 
 (Fundstelle: BGBl. I 2015, 779)
 

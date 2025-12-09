@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE000500325)
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8, der §§ 3 und 5 Abs.
 1, des § 6, des § 8 Abs. 1 und 6 und der §§ 9 und 21 Nr. 2 des
@@ -31,10 +32,12 @@ mit Zustimmung des Bundesrates:
 
 
 ## I. Abschnitt - Eingriffsvorbehalte
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNG000100325)
 
 
 
 ### § 1 Produkte
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE000600325)
 
 (1) Inhaber von Unternehmen der Mineralölwirtschaft mit einer
 Betriebsstätte im Geltungsbereich dieser Verordnung, die im Rahmen
@@ -69,6 +72,7 @@ bezüglich der bei ihnen lagernden Produkte dem Unternehmer nach Absatz
 
 
 ### § 2 Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE000700325)
 
 Unternehmer nach § 1 Abs. 1 können von der zuständigen Behörde
 verpflichtet werden, ihre Anlagen, technischen Einrichtungs- und
@@ -81,6 +85,7 @@ unterlassen.
 
 
 ### § 3 Umfang der Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE000800325)
 
 Verpflichtungen nach den §§ 1 und 2 sind nur zulässig,
 
@@ -100,10 +105,12 @@ Sie sind auf das unerläßliche Maß zu beschränken.
 
 
 ## II. Abschnitt - Allgemeine Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNG000200325)
 
 
 
 ### § 4 Allgemeine Verbrauchseinschränkung
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE000904118)
 
 (1) Schränkt das Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung nach § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8 des
@@ -131,6 +138,7 @@ steht der Verfügung nach Absatz 1 gleich.
 
 
 ### § 5 Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001004118)
 
 (1) In der Rechtsverordnung nach § 4 Abs. 1 kann die Verfügung des
 Unternehmers über Produkte, deren Bezug oder Verwendung insgesamt oder
@@ -187,6 +195,7 @@ ist.
 
 
 ### § 6 Bezugscheine
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001104118)
 
 (1) Für den Bezug von nach § 4 Abs. 1 bewirtschafteten Produkten
 können die zuständigen Behörden zur Deckung des nach § 3 Nr. 1
@@ -224,10 +233,12 @@ dieser Frist der zuständigen Behörde auf Anforderung vorzulegen.
 
 
 ## III. Abschnitt - Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNG000300325)
 
 
 
 ### § 7 Meldung des Aufkommens und der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001204118)
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des
 Bedarfs der Zivilbevölkerung, der Bundeswehr und der verbündeten
@@ -322,6 +333,7 @@ Erfüllung der in Absatz 1 genannten Zwecke benötigt.
 
 
 ### § 8 Besondere Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001300325)
 
 (1) Für die in § 7 Abs. 1 genannten Zwecke haben Unternehmer, die eine
 öffentliche Tankstelle oder Bunkerstation für die Schiffahrt
@@ -350,10 +362,12 @@ Zeitpunkt erneut Meldungen abzugeben sind.
 
 
 ## IV. Abschnitt - Zuständigkeiten und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNG000400325)
 
 
 
 ### § 9 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001415125)
 
 (1) Zuständig sind
 
@@ -445,6 +459,7 @@ besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
 
 ### § 10 Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001501118)
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -495,6 +510,7 @@ Behörden der allgemeinen Verwaltung auf der Kreisstufe. Die
 
 
 ### § 11 Inkrafttreten und Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001604118)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -508,6 +524,7 @@ Energie durch Rechtsverordnung bestimmt.
 zur Mineralölbewirtschaftungs-Verordnung
 
 ### Anlage Liste der Produkte gemäß § 1 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/min_lbewv_1988/BJNR005300988.html#BJNR005300988BJNE001700325)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 534
 Rohöl

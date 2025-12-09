@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNG000100326)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE000600326)
 
 (1) Jedermann hat das Recht, öffentliche Versammlungen und Aufzüge zu
 veranstalten und an solchen Veranstaltungen teilzunehmen.
@@ -56,6 +58,7 @@ veranstalten und an solchen Veranstaltungen teilzunehmen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE000700326)
 
 (1) Wer zu einer öffentlichen Versammlung oder zu einem Aufzug
 öffentlich einlädt, muß als Veranstalter in der Einladung seinen Namen
@@ -77,6 +80,7 @@ bereitzuhalten oder zu verteilen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE000801116)
 
 (1) Es ist verboten, öffentlich oder in einer Versammlung Uniformen,
 Uniformteile oder gleichartige Kleidungsstücke als Ausdruck einer
@@ -94,14 +98,17 @@ Landesbehörden in ihren amtlichen Mitteilungsblättern bekanntzumachen.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE000900326)
 
 
 
 ## Abschnitt II - Öffentliche Versammlungen in geschlossenen Räumen
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNG000200326)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001000326)
 
 Die Abhaltung einer Versammlung kann nur im Einzelfall und nur dann
 verboten werden, wenn
@@ -131,6 +138,7 @@ verboten werden, wenn
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001100326)
 
 (1) Bestimmte Personen oder Personenkreise können in der Einladung von
 der Teilnahme an einer Versammlung ausgeschlossen werden.
@@ -141,6 +149,7 @@ ordnungsgemäß auszuweisen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001200326)
 
 (1) Jede öffentliche Versammlung muß einen Leiter haben.
 
@@ -154,6 +163,7 @@ Leiter.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001300326)
 
 Der Leiter bestimmt den Ablauf der Versammlung. Er hat während der
 Versammlung für Ordnung zu sorgen. Er kann die Versammlung jederzeit
@@ -162,6 +172,7 @@ Versammlung fortgesetzt wird.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001400326)
 
 (1) Der Leiter kann sich bei der Durchführung seiner Rechte aus § 8
 der Hilfe einer angemessenen Zahl ehrenamtlicher Ordner bedienen.
@@ -176,6 +187,7 @@ Zahl der Ordner angemessen beschränken.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001500326)
 
 Alle Versammlungsteilnehmer sind verpflichtet, die zur
 Aufrechterhaltung der Ordnung getroffenen Anweisungen des Leiters oder
@@ -183,6 +195,7 @@ der von ihm bestellten Ordner zu befolgen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001600326)
 
 (1) Der Leiter kann Teilnehmer, welche die Ordnung gröblich stören,
 von der Versammlung ausschließen.
@@ -192,6 +205,7 @@ verlassen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001700326)
 
 Werden Polizeibeamte in eine öffentliche Versammlung entsandt, so
 haben sie sich dem Leiter zu erkennen zu geben. Es muß ihnen ein
@@ -199,6 +213,7 @@ angemessener Platz eingeräumt werden.
 
 
 ### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE004100307)
 
 (1) Die Polizei darf Bild- und Tonaufnahmen von Teilnehmern bei oder
 im Zusammenhang mit öffentlichen Versammlungen nur anfertigen, wenn
@@ -234,6 +249,7 @@ Ordnungswidrigkeiten bleiben unberührt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001800326)
 
 (1) Die Polizei (§ 12) kann die Versammlung nur dann und unter Angabe
 des Grundes auflösen, wenn
@@ -270,10 +286,12 @@ Teilnehmer sich sofort zu entfernen.
 
 
 ## Abschnitt III - Öffentliche Versammlungen unter freiem Himmel und Aufzüge
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNG000300326)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE001900326)
 
 (1) Wer die Absicht hat, eine öffentliche Versammlung unter freiem
 Himmel oder einen Aufzug zu veranstalten, hat dies spätestens 48
@@ -285,6 +303,7 @@ Versammlung oder des Aufzuges verantwortlich sein soll.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002001310)
 
 (1) Die zuständige Behörde kann die Versammlung oder den Aufzug
 verbieten oder von bestimmten Auflagen abhängig machen, wenn nach den
@@ -321,6 +340,7 @@ zu einem Verbot nach Absatz 1 oder 2 gegeben sind.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002104310)
 
 (1) Öffentliche Versammlungen unter freiem Himmel und Aufzüge sind
 innerhalb des befriedeten Bannkreises der Gesetzgebungsorgane der
@@ -334,6 +354,7 @@ werden durch Landesgesetze bestimmt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002200326)
 
 Die §§ 14 bis 16 gelten nicht für Gottesdienste unter freiem Himmel,
 kirchliche Prozessionen, Bittgänge und Wallfahrten, gewöhnliche
@@ -342,6 +363,7 @@ Volksfeste.
 
 
 ### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002301307)
 
 (1) Es ist verboten, bei öffentlichen Versammlungen unter freiem
 Himmel, Aufzügen oder sonstigen öffentlichen Veranstaltungen unter
@@ -377,6 +399,7 @@ ausschließen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002400326)
 
 (1) Für Versammlungen unter freiem Himmel sind § 7 Abs. 1, §§ 8, 9
 Abs. 1, §§ 10, 11 Abs. 2, §§ 12 und 13 Abs. 2 entsprechend anzuwenden.
@@ -389,6 +412,7 @@ von der Versammlung ausschließen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002500326)
 
 (1) Der Leiter des Aufzuges hat für den ordnungsmäßigen Ablauf zu
 sorgen. Er kann sich der Hilfe ehrenamtlicher Ordner bedienen, für
@@ -406,22 +430,26 @@ von dem Aufzug ausschließen.
 
 
 ### § 19a
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE004200307)
 
 Für Bild- und Tonaufnahmen durch die Polizei bei Versammlungen unter
 freiem Himmel und Aufzügen gilt § 12a.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002600326)
 
 Das Grundrecht des Artikels 8 des Grundgesetzes wird durch die
 Bestimmungen dieses Abschnitts eingeschränkt.
 
 
 ## Abschnitt IV - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNG000400326)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002700326)
 
 Wer in der Absicht, nicht verbotene Versammlungen oder Aufzüge zu
 verhindern oder zu sprengen oder sonst ihre Durchführung zu vereiteln,
@@ -431,6 +459,7 @@ Geldstrafe bestraft.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002800326)
 
 Wer bei einer öffentlichen Versammlung oder einem Aufzug dem Leiter
 oder einem Ordner in der rechtmäßigen Ausübung seiner
@@ -441,6 +470,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE002902116)
 
 Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Abs. 3 des Strafgesetzbuches) zur Teilnahme an einer
@@ -451,6 +481,7 @@ Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003000326)
 
 Wer als Leiter einer öffentlichen Versammlung oder eines Aufzuges
 Ordner verwendet, die Waffen oder sonstige Gegenstände, die ihrer Art
@@ -460,6 +491,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003101310)
 
 Wer als Leiter einer öffentlichen Versammlung unter freiem Himmel oder
 eines Aufzuges
@@ -477,6 +509,7 @@ zu einhundertachtzig Tagessätzen bestraft.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003200326)
 
 Wer als Veranstalter oder Leiter
 
@@ -494,6 +527,7 @@ Wer als Veranstalter oder Leiter
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003301307)
 
 (1) Wer bei öffentlichen Versammlungen oder Aufzügen Waffen oder
 sonstige Gegenstände, die ihrer Art nach zur Verletzung von Personen
@@ -547,12 +581,14 @@ bestraft.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003400326)
 
 Wer der Vorschrift des § 3 zuwiderhandelt, wird mit Freiheitsstrafe
 bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003602310)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -611,6 +647,7 @@ Mark geahndet werden.
 
 
 ### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE004300320)
 
 (1) Ordnungswidrig handelt, wer entgegen § 16 Abs. 1 an einer
 öffentlichen Versammlung unter freiem Himmel oder an einem Aufzug
@@ -622,6 +659,7 @@ dreißigtausend Deutsche Mark geahndet werden.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003701307)
 
 Gegenstände, auf die sich eine Straftat nach § 27 oder § 28 oder eine
 Ordnungswidrigkeit nach § 29 Abs. 1 Nr. 1a oder 3 bezieht, können
@@ -630,14 +668,17 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 ## Abschnitt V - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNG000500326)
 
 
 
 ### § 31 (Aufhebungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003800326)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE003900326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -646,11 +687,13 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE004000326)
 
 (Inkrafttreten)
 
 
 ### Anlage (zu § 15 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/versammlg/BJNR006840953.html#BJNR006840953BJNE004300310)
 
 Die Abgrenzung des Ortes nach § 15 Abs. 2 Satz 2 (Denkmal für die
 ermordeten Juden Europas) umfasst das Gebiet der Bundeshauptstadt

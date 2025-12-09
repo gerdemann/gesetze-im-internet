@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000100000)
 
 Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1
 und 4a, des § 79a Abs. 2 Nr. 2 in Verbindung mit § 17b Abs. 1 Nr. 1, 2
@@ -34,6 +35,7 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000200000)
 
 (1) Diese Verordnung dient der Festlegung von Mindestanforderungen an
 die Züchtung auf Resistenz gegen transmissible spongiforme
@@ -61,6 +63,7 @@ dem alle Schafe
 
 
 ## § 2 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000301124)
 
 (1) Ein Schafbock eines Schafbestandes mit hohem genetischem Wert oder
 dessen Samen darf zur Zucht nur verwendet werden, soweit dessen Halter
@@ -85,6 +88,7 @@ durchgeführt werden.
 
 
 ## § 3 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000400000)
 
 Der Halter eines Schafbestandes mit hohem genetischem Wert und der
 Halter eines Schafbestandes, der eine Erklärung nach § 2 Abs. 2
@@ -113,6 +117,7 @@ Ergebnisse der Genotypisierungen nach Satz 1 Nr. 2 und 3 beizufügen.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000500000)
 
 Schafe, bei denen eine Genotypisierung nach § 2 Abs. 1, auch in
 Verbindung mit Abs. 2, durchgeführt wird, sind unverzüglich nach der
@@ -123,6 +128,7 @@ Schafen bleiben unberührt.
 
 
 ## § 5 Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000600000)
 
 (1) Der Halter eines Schafbestandes mit hohem genetischem Wert hat
 sicherzustellen, dass
@@ -155,6 +161,7 @@ aufgeführt ist.
 
 
 ## § 6 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000700000)
 
 (1) Die zuständige Behörde oder eine von dieser beauftragte Stelle
 erkennt auf Antrag einen Schafbestand als TSE-resistent an, wenn
@@ -177,6 +184,7 @@ Rahmen der Mitteilungen nach § 3 vorgelegt worden sind.
 
 
 ## § 7 Untersuchungen nach Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000800000)
 
 Der Halter eines anerkannten Schafbestandes hat zum Nachweis des
 Fortbestehens der TSE-Resistenz nach § 6 Abs. 1
@@ -202,6 +210,7 @@ zum 10. des darauf folgenden Monats mitzuteilen.
 
 
 ## § 8 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE000902301)
 
 Die zuständige oberste Landesbehörde übermittelt dem Bundesministerium
 für Ernährung und Landwirtschaft zum 1. März eines jeden Jahres einen
@@ -211,6 +220,7 @@ Europäische Kommission.
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE001001301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -238,16 +248,19 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE001100000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 1 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE001300000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3030
 
@@ -343,6 +356,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 3030
 
 
 ## Anlage 2 (zu § 5 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/tsereszv/BJNR302800005.html#BJNR302800005BJNE001400000)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3030
 

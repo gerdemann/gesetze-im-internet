@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000103310)
 
 
 
 ### 1. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000203310)
 
 
 
 #### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001412377)
 
 (1) Soldat ist, wer auf Grund der Wehrpflicht oder freiwilliger
 Verpflichtung in einem Wehrdienstverhältnis steht. Staat und Soldaten
@@ -65,6 +68,7 @@ Monaten durchschnittlich zu leistende wöchentliche Arbeitszeit.
 
 
 #### § 2 Dauer des Wehrdienstverhältnisses; Dienstzeitberechnung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001508310)
 
 (1) Das Wehrdienstverhältnis beginnt
 
@@ -95,6 +99,7 @@ an diesem Tag angetreten hat. § 44 Abs. 5 Satz 2 bleibt unberührt.
 
 
 #### § 3 Ernennungs- und Verwendungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001608126)
 
 (1) Der Soldat ist nach Eignung, Befähigung und Leistung ohne
 Rücksicht auf Geschlecht, sexuelle Identität, Abstammung, Rasse,
@@ -125,6 +130,7 @@ zusteht.
 
 
 #### § 3a Intensivierte erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015400126)
 
 (1) Ein Soldat, der in einer Verwendung mit besonders hohen
 Sicherheitsanforderungen eingesetzt werden soll, ist zuvor einer
@@ -236,6 +242,7 @@ den Maßgaben, dass
 
 
 #### § 4 Ernennung, Dienstgradbezeichnungen, Uniform
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001709126)
 
 (1) Einer Ernennung bedarf es
 
@@ -301,10 +308,12 @@ oder § 54 Abs. 4 leistet.
 
 
 #### § 4a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009204360)
 
 
 
 #### § 5 Gnadenrecht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001805310)
 
 (1) Dem Bundespräsidenten steht hinsichtlich des Verlustes der
 Soldatenrechte und der Rechte aus einem früheren Soldatenverhältnis
@@ -316,10 +325,12 @@ Bundesbeamtengesetzes entsprechend.
 
 
 ### 2. - Pflichten und Rechte der Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000303310)
 
 
 
 #### § 6 Staatsbürgerliche Rechte des Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE001903310)
 
 Der Soldat hat die gleichen staatsbürgerlichen Rechte wie jeder andere
 Staatsbürger. Seine Rechte werden im Rahmen der Erfordernisse des
@@ -328,6 +339,7 @@ beschränkt.
 
 
 #### § 7 Grundpflicht des Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002003310)
 
 Der Soldat hat die Pflicht, der Bundesrepublik Deutschland treu zu
 dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu
@@ -335,6 +347,7 @@ verteidigen.
 
 
 #### § 8 Eintreten für die demokratische Grundordnung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002103310)
 
 Der Soldat muss die freiheitliche demokratische Grundordnung im Sinne
 des Grundgesetzes anerkennen und durch sein gesamtes Verhalten für
@@ -342,6 +355,7 @@ ihre Erhaltung eintreten.
 
 
 #### § 9 Eid und feierliches Gelöbnis
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002205311)
 
 (1) Berufssoldaten und Soldaten auf Zeit haben folgenden Diensteid zu
 leisten:
@@ -362,6 +376,7 @@ Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen."
 
 
 #### § 10 Pflichten des Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002303310)
 
 (1) Der Vorgesetzte soll in seiner Haltung und Pflichterfüllung ein
 Beispiel geben.
@@ -384,6 +399,7 @@ erforderlich ist, um das Vertrauen als Vorgesetzte zu erhalten.
 
 
 #### § 11 Gehorsam
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002404360)
 
 (1) Der Soldat muss seinen Vorgesetzten gehorchen. Er hat ihre Befehle
 nach besten Kräften vollständig, gewissenhaft und unverzüglich
@@ -407,6 +423,7 @@ Absatz 1 und § 63 des Bundesbeamtengesetzes entsprechend.
 
 
 #### § 12 Kameradschaft
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002503310)
 
 Der Zusammenhalt der Bundeswehr beruht wesentlich auf Kameradschaft.
 Sie verpflichtet alle Soldaten, die Würde, die Ehre und die Rechte des
@@ -416,6 +433,7 @@ Anschauungen ein.
 
 
 #### § 13 Wahrheit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002604310)
 
 (1) Der Soldat muss in dienstlichen Angelegenheiten die Wahrheit
 sagen.
@@ -425,6 +443,7 @@ rechtfertigt.
 
 
 #### § 14 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002705377)
 
 (1) Der Soldat hat, auch nach seinem Ausscheiden aus dem Wehrdienst,
 über die ihm bei oder bei Gelegenheit seiner dienstlichen Tätigkeit
@@ -473,6 +492,7 @@ seine Erben.
 
 
 #### § 15 Politische Betätigung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002803310)
 
 (1) Im Dienst darf sich der Soldat nicht zu Gunsten oder zu Ungunsten
 einer bestimmten politischen Richtung betätigen. Das Recht des
@@ -496,12 +516,14 @@ gegen eine politische Meinung beeinflussen.
 
 
 #### § 16 Verhalten in anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE002903310)
 
 Außerhalb des Geltungsbereichs des Grundgesetzes ist dem Soldaten jede
 Einmischung in die Angelegenheiten des Aufenthaltsstaates versagt.
 
 
 #### § 17 Verhalten im und außer Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003012377)
 
 (1) Der Soldat hat Disziplin zu wahren und die dienstliche Stellung
 des Vorgesetzten in seiner Person auch außerhalb des Dienstes zu
@@ -525,6 +547,7 @@ für seine Wiederverwendung in seinem Dienstgrad erforderlich sind.
 
 
 #### § 17a Gesunderhaltungspflicht und Patientenrechte
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014600377)
 
 (1) Der Soldat hat alles in seinen Kräften Stehende zu tun, um seine
 Gesundheit zu erhalten oder wiederherzustellen. Er darf seine
@@ -564,6 +587,7 @@ Bürgerlichen Gesetzbuchs gelten nicht entsprechend, sofern die Absätze
 
 
 #### § 18 Gemeinschaftsunterkunft und Gemeinschaftsverpflegung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003106377)
 
 Der Soldat ist auf dienstliche Anordnung verpflichtet, in einer
 Gemeinschaftsunterkunft zu wohnen und an einer
@@ -574,6 +598,7 @@ und für Heimat.
 
 
 #### § 19 Verbot der Annahme von Belohnungen oder Geschenken, Herausgabe- und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003207123)
 
 (1) Der Soldat darf, auch nach seinem Ausscheiden aus dem Wehrdienst,
 keine Belohnungen, Geschenke oder sonstigen Vorteile für sich oder
@@ -595,6 +620,7 @@ geben.
 
 
 #### § 20 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003311116)
 
 (1) Der Berufssoldat und der Soldat auf Zeit bedürfen zur Ausübung
 jeder entgeltlichen Nebentätigkeit, mit Ausnahme der in Absatz 6
@@ -736,6 +762,7 @@ Dienstleistung nach dem Vierten Abschnitt herangezogen worden ist.
 
 
 #### § 20a Tätigkeit nach dem Ausscheiden aus dem Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009107311)
 
 (1) Ein Berufssoldat im Ruhestand oder ein früherer Soldat mit
 Anspruch auf Dienstzeitversorgung hat eine Erwerbstätigkeit oder
@@ -774,6 +801,7 @@ Zuständigkeiten auf andere Stellen übertragen.
 
 
 #### § 21 Vormundschaft und Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003408377)
 
 Der Soldat bedarf zur Übernahme einer Vormundschaft, Betreuung oder
 Pflegschaft sowie zur Übernahme des Amtes eines
@@ -787,6 +815,7 @@ Aufnahme seinem Disziplinarvorgesetzten schriftlich anzuzeigen.
 
 
 #### § 22 Verbot der Ausübung des Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003505310)
 
 Der Bundesminister der Verteidigung oder die von ihm bestimmte Stelle
 kann einem Soldaten aus zwingenden dienstlichen Gründen die Ausübung
@@ -797,6 +826,7 @@ eingeleitet ist.
 
 
 #### § 23 Dienstvergehen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003607311)
 
 (1) Der Soldat begeht ein Dienstvergehen, wenn er schuldhaft seine
 Pflichten verletzt.
@@ -829,6 +859,7 @@ Wehrdisziplinarordnung.
 
 
 #### § 24 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003706310)
 
 (1) Verletzt ein Soldat vorsätzlich oder grob fahrlässig die ihm
 obliegenden Pflichten, so hat er dem Dienstherrn, dessen Aufgaben er
@@ -849,6 +880,7 @@ Soldaten über.
 
 
 #### § 25 Wahlrecht; Amtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003808305)
 
 (1) Stimmt ein Soldat seiner Aufstellung als Bewerber für die Wahl zum
 Deutschen Bundestag, zu der gesetzgebenden Körperschaft eines Landes
@@ -904,6 +936,7 @@ entsprechend.
 
 
 #### § 26 Verlust des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE003905311)
 
 Der Soldat verliert seinen Dienstgrad nur kraft Gesetzes oder durch
 Richterspruch. Das Nähere über den Verlust des Dienstgrades durch
@@ -912,6 +945,7 @@ Dienstgrad ist nicht zulässig.
 
 
 #### § 27 Laufbahnvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004009377)
 
 (1) Vorschriften über die Laufbahnen der Soldaten werden nach den
 Grundsätzen der Absätze 2 bis 6 durch Rechtsverordnung erlassen.
@@ -1008,6 +1042,7 @@ Bundesministers der Verteidigung bestellt.
 
 
 #### § 27a Dienstliche Beurteilung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015501311)
 
 (1) Eignung, Befähigung und fachliche Leistung der Soldaten sind zu
 beurteilen
@@ -1074,6 +1109,7 @@ den Gegenstand der jeweiligen Beschwerde zu beurteilen hat.
 
 
 #### § 27b Referenzgruppen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015600377)
 
 (1) Für die fiktive Nachzeichnung der beruflichen Entwicklung von
 Soldaten sind Referenzgruppen zu bilden für solche Soldaten
@@ -1148,6 +1184,7 @@ eine Referenzgruppe zu bilden ist und zu welchem Zeitpunkt sie endet.
 
 
 #### § 28 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004115377)
 
 (1) Dem Soldaten steht alljährlich ein Erholungsurlaub unter Belassung
 der Geld- und Sachbezüge zu.
@@ -1199,6 +1236,7 @@ die Eigenart des militärischen Dienstes berücksichtigt.
 
 
 #### § 28a Urlaub bis zum Beginn des Ruhestandes
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009013377)
 
 (1) Einem Berufssoldaten kann nach mindestens 20-jähriger
 Beschäftigung im öffentlichen Dienst und nach Vollendung des 50.
@@ -1228,6 +1266,7 @@ zwingenden dienstlichen Gründen widerrufen.
 
 
 #### § 29 Personalakte
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004213377)
 
 Für jeden Soldaten ist eine Personalakte zu führen. Sofern in den §§
 29a bis 29e nichts anderes bestimmt ist, gelten die §§ 106 bis 112,
@@ -1240,6 +1279,7 @@ Wehrdisziplinarordnung vorrangig anzuwenden ist.
 
 
 #### § 29a Verarbeitung von besonderen Kategorien personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014702377)
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des
 Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
@@ -1328,6 +1368,7 @@ genetischen Daten ist zulässig
 
 
 #### § 29b Datenverarbeitung durch und Datenübermittlung an Feldjäger
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015800377)
 
 (1) Die Feldjäger dürfen Daten verarbeiten, soweit dies zur Erfüllung
 ihrer Aufgaben im Rahmen der Wahrnehmung des militärischen
@@ -1477,6 +1518,7 @@ Bundesdatenschutzgesetzes entsprechend.
 
 
 #### § 29c Gesundheitsakte
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014802377)
 
 (1) Für jeden Soldaten ist eine Gesundheitsakte zu führen. Die
 Gesundheitsakte besteht aus der Gesundheitsgrundakte und aus fall-
@@ -1536,6 +1578,7 @@ Abrechnung mit den Leistungserbringern verarbeitet werden.
 
 
 #### § 29d Personalaktenführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014901377)
 
 (1) Die Personalakte wird geführt
 
@@ -1598,6 +1641,7 @@ Eignung betreffen.
 
 
 #### § 29e Aufbewahrung von Personalakten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015001377)
 
 (1) Die Personalakte ist, sofern nicht besondere Aufbewahrungsfristen
 gesetzlich festgelegt sind, aufzubewahren
@@ -1642,6 +1686,7 @@ Lebensjahres aufzubewahren und danach zu vernichten.
 
 
 #### § 29f Befugtes Offenbaren von Privatgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015101377)
 
 Werden Privatgeheimnisse, die zugleich Daten im Sinne des § 29c Absatz
 3 oder Absatz 6 sind, auf der Grundlage von § 29a Absatz 1 bis 4 oder
@@ -1651,6 +1696,7 @@ Strafgesetzbuchs.
 
 
 #### § 30 Geld- und Sachbezüge, Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013307377)
 
 (1) Der Soldat hat Anspruch auf Geld- und Sachbezüge, Versorgung,
 Reise- und Umzugskostenvergütung nach Maßgabe besonderer Gesetze. Zu
@@ -1716,6 +1762,7 @@ Beförderung Uniform trägt. Eine Rechtsverordnung bestimmt das Nähere
 
 
 #### § 30a Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010206126)
 
 (1) Einem Soldaten kann auf Antrag Teilzeitbeschäftigung im Umfang von
 mindestens der Hälfte der regelmäßigen Arbeitszeit nach § 30c Absatz 1
@@ -1799,6 +1846,7 @@ Bewilligung von Teilzeitbeschäftigung nach Satz 1 Nummer 1 die Absätze
 
 
 #### § 30b Zusammentreffen von Urlaub und Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010304126)
 
 Urlaube nach § 28 Absatz 5 und den §§ 28a und 30a Absatz 7 sowie
 Zeiten einer Teilzeitbeschäftigung nach § 30a dürfen zusammen eine
@@ -1807,6 +1855,7 @@ in den Fällen des § 30a Absatz 1 Satz 3 Nummer 1.
 
 
 #### § 30c Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014304377)
 
 (1) Die regelmäßige wöchentliche Arbeitszeit von Soldaten, die im
 Geschäftsbereich des Bundesministeriums der Verteidigung verwendet
@@ -1965,6 +2014,7 @@ und der Rechtsverordnung nach Absatz 5 ausgenommen werden.
 
 
 #### § 30d Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015201377)
 
 (1) Die höchstzulässige wöchentliche Arbeitszeit in einem Zeitraum von
 zwölf Monaten kann durch Rechtsverordnung längstens bis zum 31.
@@ -2001,6 +2051,7 @@ eines bestmöglichen Arbeits- und Gesundheitsschutzes.
 
 
 #### § 31 Fürsorge
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004414377)
 
 (1) Der Bund hat im Rahmen des Dienst- und Treueverhältnisses für das
 Wohl des Berufssoldaten und des Soldaten auf Zeit sowie ihrer
@@ -2072,6 +2123,7 @@ erstattet werden.
 
 
 #### § 31a Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014401126)
 
 (1) Hat ein Soldat wegen einer vorsätzlichen Verletzung des Körpers,
 der Gesundheit, der Freiheit oder der sexuellen Selbstbestimmung, die
@@ -2115,6 +2167,7 @@ Zivilprozessordnung festgestellt worden sind.
 
 
 #### § 32 Dienstzeitbescheinigung und Dienstzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004504310)
 
 (1) Der Soldat erhält nach Beendigung seines Wehrdienstes eine
 Dienstzeitbescheinigung. Auf Antrag ist ihm bei einer Dienstzeit von
@@ -2130,6 +2183,7 @@ Wehrdienstes ein vorläufiges Dienstzeugnis beantragen.
 
 
 #### § 33 Staatsbürgerlicher und völkerrechtlicher Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004604310)
 
 (1) Die Soldaten erhalten staatsbürgerlichen und völkerrechtlichen
 Unterricht. Der für den Unterricht verantwortliche Vorgesetzte darf
@@ -2144,37 +2198,44 @@ unterrichten.
 
 
 #### § 34 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004704310)
 
 Der Soldat hat das Recht, sich zu beschweren. Das Nähere regelt die
 Wehrbeschwerdeordnung.
 
 
 #### § 35 Beteiligungsrechte der Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE004804310)
 
 Die Beteiligung der Soldaten regelt das Soldatenbeteiligungsgesetz.
 
 
 #### § 35a Beteiligung an der Gestaltung des Dienstrechts
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008905310)
 
 Für die Beteiligung bei der Gestaltung des Dienstrechts der Soldaten
 gilt § 118 des Bundesbeamtengesetzes sinngemäß.
 
 
 #### § 36 Seelsorge
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005103310)
 
 Der Soldat hat einen Anspruch auf Seelsorge und ungestörte
 Religionsausübung. Die Teilnahme am Gottesdienst ist freiwillig.
 
 
 ## Zweiter Abschnitt - Rechtsstellung der Berufssoldaten und der Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000403310)
 
 
 
 ### 1. - Begründung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000503310)
 
 
 
 #### § 37 Voraussetzung der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005207126)
 
 (1) In das Dienstverhältnis eines Berufssoldaten oder eines Soldaten
 auf Zeit darf nur berufen werden, wer
@@ -2208,6 +2269,7 @@ durchzuführen.
 
 
 #### § 38 Hindernisse der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005408377)
 
 (1) In das Dienstverhältnis eines Berufssoldaten oder eines Soldaten
 auf Zeit darf nicht berufen werden, wer
@@ -2237,6 +2299,7 @@ Ausnahmen von Absatz 1 Nr. 1 zulassen.
 
 
 #### § 39 Begründung des Dienstverhältnisses eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005506126)
 
 In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
@@ -2263,6 +2326,7 @@ In das Dienstverhältnis eines Berufssoldaten können berufen werden
 
 
 #### § 40 Begründung des Dienstverhältnisses eines Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005617377)
 
 (1) Die Berufung in ein Dienstverhältnis als Soldat auf Zeit ist
 längstens bis zu einer Dienstzeit von 25 Jahren zulässig, jedoch nicht
@@ -2329,6 +2393,7 @@ der Elternzeit zu treffen. Absatz 7 bleibt im Übrigen unberührt.
 
 
 #### § 41 Form der Begründung und der Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005706310)
 
 (1) Die Begründung des Dienstverhältnisses und seine Umwandlung
 erfolgen durch Aushändigung einer Ernennungsurkunde. In der Urkunde
@@ -2375,10 +2440,12 @@ vorliegen.
 
 
 ### 2. - Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000603310)
 
 
 
 #### § 42 Form der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005806377)
 
 (1) Die Beförderung eines Berufssoldaten und eines Soldaten auf Zeit
 wird in einer Ernennungsurkunde verfügt, in der die Bezeichnung des
@@ -2406,14 +2473,17 @@ auszuhändigen ist.
 
 
 ### 3. - Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000703310)
 
 
 
 #### a) - Beendigung des Dienstverhältnisses eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000803310)
 
 
 
 ##### § 43 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE005906310)
 
 (1) Das Dienstverhältnis eines Berufssoldaten endet durch Eintritt
 oder Versetzung in den Ruhestand nach Maßgabe der Vorschriften über
@@ -2438,6 +2508,7 @@ die rechtliche Stellung der Berufssoldaten im Ruhestand.
 
 
 ##### § 44 Eintritt oder Versetzung in den Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006026311)
 
 (1) Ein Berufssoldat tritt in den Ruhestand mit Ablauf des Monats, in
 dem er die nach § 45 Abs. 1 festgesetzte allgemeine Altersgrenze
@@ -2527,6 +2598,7 @@ Berufssoldat das Recht, seine Dienstgradbezeichnung mit dem Zusatz
 
 
 ##### § 45 Altersgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006115377)
 
 (1) Für Berufssoldaten werden folgende allgemeine Altersgrenzen
 festgesetzt:
@@ -2581,6 +2653,7 @@ Bundestag, erstmals im Jahr 2018.
 
 
 ##### § 45a Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009804310)
 
 (1) Beantragt ein Berufssoldat die Umwandlung seines
 Dienstverhältnisses in das eines Soldaten auf Zeit, kann dem Antrag
@@ -2594,6 +2667,7 @@ nicht vorliegen.
 
 
 ##### § 46 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006216377)
 
 (1) Ein Berufssoldat ist entlassen, wenn er die Eigenschaft als
 Deutscher im Sinne des Artikels 116 des Grundgesetzes verliert. Das
@@ -2754,6 +2828,7 @@ Dienstzeitversorgung regelt das Soldatenversorgungsgesetz.
 
 
 ##### § 47 Zuständigkeit, Anhörungspflicht und Fristen bei der Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006308310)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, wird die Entlassung
 von der Stelle verfügt, die nach § 4 Abs. 2 für die Ernennung des
@@ -2776,6 +2851,7 @@ unter schriftlicher Angabe der Gründe zugestellt werden.
 
 
 ##### § 47a Besondere Verfahrensvorschriften für die Entlassung nach § 46 Absatz 2a
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015700377)
 
 (1) Der Berufssoldat ist über den Beginn eines auf seine Entlassung
 nach § 46 Absatz 2a gerichteten Verfahrens (Entlassungsverfahren)
@@ -2820,6 +2896,7 @@ Beweismittel zu enthalten.
 
 
 ##### § 48 Verlust der Rechtsstellung eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006405310)
 
 Der Berufssoldat verliert seine Rechtsstellung, wenn gegen ihn durch
 Urteil eines deutschen Gerichts im Geltungsbereich des Grundgesetzes
@@ -2844,6 +2921,7 @@ Grundgesetzes ein Grundrecht verwirkt hat.
 
 
 ##### § 49 Folgen der Entlassung und des Verlustes der Rechtsstellung eines Berufssoldaten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006514377)
 
 (1) Die Zugehörigkeit des Berufssoldaten zur Bundeswehr endet mit der
 Beendigung seines Dienstverhältnisses durch Entlassung nach § 46 oder
@@ -2900,6 +2978,7 @@ Stellen übertragen.
 
 
 ##### § 50 Versetzung in den einstweiligen Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006606377)
 
 (1) Der Bundespräsident kann die Berufsoffiziere vom Brigadegeneral
 und den entsprechenden Dienstgraden an aufwärts jederzeit in den
@@ -2913,6 +2992,7 @@ Altersgrenze als dauernd in den Ruhestand versetzt.
 
 
 ##### § 51 Wiederverwendung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006709377)
 
 (1) Ein früherer Berufssoldat, der wegen Erreichens einer allgemeinen
 Altersgrenze in den Ruhestand getreten ist oder wegen Erreichens einer
@@ -2951,11 +3031,13 @@ nach § 60 bis zu drei Monaten Dauer herangezogen werden.
 
 
 ##### § 51a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009306310)
 
 -
 
 
 ##### § 52 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006804310)
 
 Wird ein Urteil mit den Folgen des § 48 im Wiederaufnahmeverfahren
 durch ein Urteil ersetzt, das diese Folgen nicht hat, so gilt § 42
@@ -2963,6 +3045,7 @@ Abs. 1, 2 und 4 des Bundesbeamtengesetzes entsprechend.
 
 
 ##### § 53 Verurteilung nach Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE006905377)
 
 (1) Ein Berufssoldat im Ruhestand oder ein früherer Berufssoldat,
 
@@ -3002,10 +3085,12 @@ Grundgesetzes ein Grundrecht verwirkt hat. § 52 gilt entsprechend.
 
 
 #### b) - Beendigung des Dienstverhältnisses eines Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG000903310)
 
 
 
 ##### § 54 Beendigungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007008126)
 
 (1) Das Dienstverhältnis eines Soldaten auf Zeit endet mit dem Ablauf
 der Zeit, für die er in das Dienstverhältnis berufen ist. Das
@@ -3046,6 +3131,7 @@ nach § 60 bis zu drei Monaten Dauer herangezogen werden.
 
 
 ##### § 55 Entlassung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007118377)
 
 (1) Für den Soldaten auf Zeit gilt § 46 Absatz 1, Absatz 2 Satz 1
 Nummer 1 bis 5 sowie 7 und 8 und Satz 2 und 3 sowie Absatz 2a
@@ -3116,6 +3202,7 @@ Abs. 7 entsprechend.
 
 
 ##### § 56 Folgen der Entlassung und des Verlustes der Rechtsstellung eines Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007213377)
 
 (1) Mit der Beendigung seines Dienstverhältnisses durch Zeitablauf
 nach § 54 Abs. 1, durch Entlassung nach § 55 oder durch Verlust seiner
@@ -3170,6 +3257,7 @@ Zahlung mit 5 Prozentpunkten über dem jeweiligen Basiszinssatz nach §
 
 
 ##### § 57 Wiederaufnahme des Verfahrens, Verurteilungen nach Beendigung des Dienstverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007305310)
 
 (1) Für die Wiederaufnahme des Verfahrens und für die Folgen von
 Verurteilungen nach Beendigung des Dienstverhältnisses als Soldat auf
@@ -3185,14 +3273,17 @@ Maßregeln oder Nebenfolgen erkannt wird.
 
 
 ## Dritter Abschnitt - Wehrdienst nach dem Wehrpflichtgesetz; Reservewehrdienstverhältnis; freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001006311)
 
 
 
 ### 1. - Wehrdienst nach dem Wehrpflichtgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002300311)
 
 
 
 #### § 58 Wehrdienst nach dem Wehrpflichtgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007408377)
 
 (1) Die Begründung der Wehrpflicht, die Heranziehung der
 Wehrpflichtigen zum Wehrdienst und die Beendigung ihres Wehrdienstes
@@ -3208,20 +3299,24 @@ Dienstleistungen herangezogen werden.
 
 
 ### 2. - Reservewehrdienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002400311)
 
 
 
 #### § 58a Reservewehrdienstverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013501377)
 
 Die Rechtsstellung der Soldaten in einem Reservewehrdienstverhältnis
 wird durch das Reservistengesetz geregelt.
 
 
 ### 3. - Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002500311)
 
 
 
 #### § 58b Freiwilliger Wehrdienst als besonderes staatsbürgerliches Engagement
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013600311)
 
 (1) Frauen und Männer können sich verpflichten, freiwilligen
 Wehrdienst als besonderes staatsbürgerliches Engagement zu leisten.
@@ -3233,6 +3328,7 @@ Monaten anschließendem Wehrdienst.
 
 
 #### § 58c Übermittlung personenbezogener Daten durch die Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013703377)
 
 (1) Zum Zweck der Übersendung von Informationsmaterial nach Absatz 2
 übermitteln die Meldebehörden dem Bundesamt für das Personalmanagement
@@ -3265,6 +3361,7 @@ Bundeswehr.
 
 
 #### § 58d Beratung und Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013801123)
 
 (1) Die Karrierecenter der Bundeswehr bieten Personen, die Interesse
 an einem freiwilligen Wehrdienst nach § 58b bekunden, eine persönliche
@@ -3287,6 +3384,7 @@ Bundesreisekostengesetzes entsprechend.
 
 
 #### § 58e Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013900311)
 
 (1) Die Verpflichtungserklärung nach § 58b Absatz 1 Satz 1 bedarf der
 Schriftform. Für eine besondere Auslandsverwendung ist eine gesonderte
@@ -3304,6 +3402,7 @@ familiärer Gründe eine besondere Härte bedeuten würde.
 
 
 #### § 58f Status
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014000311)
 
 Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die
 Ableistung des Grundwehrdienstes (§ 5 des Wehrpflichtgesetzes) oder
@@ -3314,6 +3413,7 @@ anzuwenden.
 
 
 #### § 58g Dienstantritt
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014100311)
 
 (1) Das Karrierecenter der Bundeswehr fordert eine Person, deren
 Verpflichtung zum freiwilligen Wehrdienst nach § 58b angenommen worden
@@ -3329,6 +3429,7 @@ anzuwenden.
 
 
 #### § 58h Beendigung des freiwilligen Wehrdienstes nach § 58b
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014202311)
 
 (1) Der freiwillige Wehrdienst nach § 58b endet
 
@@ -3356,14 +3457,17 @@ möglich ist.
 
 
 ## Vierter Abschnitt - Dienstleistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001303310)
 
 
 
 ### 1. - Umfang und Arten der Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001401310)
 
 
 
 #### § 59 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007510377)
 
 (1) Ein früherer Berufssoldat, der wegen Erreichens einer allgemeinen
 Altersgrenze in den Ruhestand getreten ist oder wegen Erreichens einer
@@ -3433,6 +3537,7 @@ Härte bedeuten würde.
 
 
 #### § 60 Arten der Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010404377)
 
 Dienstleistungen sind
 
@@ -3459,6 +3564,7 @@ Dienstleistungen sind
 
 
 #### § 61 Übungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010501310)
 
 (1) Befristete Übungen dauern grundsätzlich höchstens drei Monate.
 Über Ausnahmen entscheidet das Bundesministerium der Verteidigung.
@@ -3474,6 +3580,7 @@ Verteidigung kann eine Anrechnung anordnen.
 
 
 #### § 62 Besondere Auslandsverwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010602377)
 
 (1) Besondere Auslandsverwendungen sind Verwendungen, die auf Grund
 eines Übereinkommens, eines Vertrages oder einer Vereinbarung mit
@@ -3500,6 +3607,7 @@ zu entlassen ist.
 
 
 #### § 63 Hilfeleistungen im Innern
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010702310)
 
 (1) Hilfeleistungen im Innern sind Verwendungen der Streitkräfte im
 Rahmen der Amtshilfe oder bei einer Naturkatastrophe oder einem
@@ -3517,6 +3625,7 @@ Rahmen der zivil-militärischen Zusammenarbeit.
 
 
 #### § 63a Hilfeleistungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013300310)
 
 (1) Hilfeleistungen im Ausland sind Verwendungen der Streitkräfte im
 Rahmen von humanitären Hilfeleistungen.
@@ -3530,6 +3639,7 @@ auf die Gesamtdauer der Übungen nach § 61 Abs. 2 nicht angerechnet.
 
 
 #### § 63b Wehrdienst zur temporären Verbesserung der personellen Einsatzbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE015300377)
 
 (1) Wehrdienst zur temporären Verbesserung der personellen
 Einsatzbereitschaft dient
@@ -3560,15 +3670,18 @@ auf die Gesamtdauer der Übungen nach § 61 Absatz 2 nicht angerechnet.
 
 
 ### 2. - Dienstleistungsausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001501310)
 
 
 
 #### § 64 Dienstunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010802310)
 
 Zu Dienstleistungen wird nicht herangezogen, wer dienstunfähig ist.
 
 
 #### § 65 Ausschluss von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010902126)
 
 Von Dienstleistungen ist derjenige ausgeschlossen, gegen den durch ein
 deutsches Gericht auf die in § 38 Abs. 1 bezeichneten Strafen,
@@ -3579,6 +3692,7 @@ sind.
 
 
 #### § 66 Befreiung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011002310)
 
 Von Dienstleistungen sind befreit
 
@@ -3607,6 +3721,7 @@ Von Dienstleistungen sind befreit
 
 
 #### § 67 Zurückstellung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011103377)
 
 (1) Von Dienstleistungen wird zurückgestellt,
 
@@ -3726,6 +3841,7 @@ auszusetzen.
 
 
 #### § 68 Unabkömmlichstellung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011202310)
 
 (1) Zum Ausgleich des personellen Kräftebedarfs für die Aufgaben der
 Bundeswehr und andere Aufgaben kann ein Dienstleistungspflichtiger im
@@ -3761,10 +3877,12 @@ Voraussetzungen selbst anzuzeigen.
 
 
 ### 3. - Heranziehungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001601310)
 
 
 
 #### § 69 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011301310)
 
 Zuständig für die Heranziehung von Dienstleistungspflichtigen zu
 Dienstleistungen und das damit in Zusammenhang stehende Verfahren nach
@@ -3772,6 +3890,7 @@ diesem Abschnitt sind die Wehrersatzbehörden.
 
 
 #### § 70 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011403377)
 
 (1) Das Verfahren nach diesem Abschnitt ist kostenfrei. Notwendige
 Auslagen sind zu erstatten. Zu den notwendigen Auslagen gehören auch
@@ -3802,6 +3921,7 @@ unmittelbar durch die Truppe zugestellt werden.
 
 
 #### § 71 Ärztliche Untersuchung, Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011503377)
 
 Ungediente Personen, die sich gemäß § 59 Abs. 3 Satz 1 freiwillig zu
 Dienstleistungen verpflichten wollen, sind vor der Annahme ihrer
@@ -3823,6 +3943,7 @@ durchgeführt wird.
 
 
 #### § 72 Heranziehung von ungedienten Dienstleistungspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011604311)
 
 (1) Ungediente Dienstleistungspflichtige (§ 59 Abs. 3 Satz 1), die
 nach § 71 verfügbar sind, werden durch die Karrierecenter der
@@ -3863,6 +3984,7 @@ Einhaltung einer Frist einberufen werden, wenn
 
 
 #### § 73 Heranziehung von gedienten Dienstleistungspflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011704311)
 
 Dienstleistungspflichtige, die bereits in der Bundeswehr gedient
 haben, werden nach Feststellung ihrer Verfügbarkeit durch die
@@ -3881,10 +4003,12 @@ Verteidigung zu stellen. § 72 Abs. 1 und 3 gilt entsprechend.
 
 
 ### 4. - Beendigung der Dienstleistungen und Verlust des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001701310)
 
 
 
 #### § 74 Beendigung der Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011801310)
 
 Die Dienstleistungen enden
 
@@ -3902,6 +4026,7 @@ Die Dienstleistungen enden
 
 
 #### § 75 Entlassung aus den Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE011904377)
 
 (1) Der Soldat ist entlassen mit Ablauf des Monats, in dem er das für
 ihn nach § 59 Abs. 1, 2 oder 3 festgesetzte Höchstalter für eine
@@ -4018,6 +4143,7 @@ endet der Wehrdienst, zu dem er herangezogen wurde, wenn
 
 
 #### § 76 Ausschluss von Dienstleistungen und Verlust des Dienstgrades
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012004377)
 
 (1) Ein Soldat ist von Dienstleistungen ausgeschlossen, wenn gegen ihn
 durch ein deutsches Gericht auf die in § 38 Abs. 1 bezeichneten
@@ -4041,10 +4167,12 @@ Die §§ 53 und 57 bleiben unberührt.
 
 
 ### 5. - Überwachung und Durchsetzung der Dienstleistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001801310)
 
 
 
 #### § 77 Dienstleistungsüberwachung; Haftung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007610377)
 
 (1) Der Dienstleistungsüberwachung unterliegen die in § 59 Abs. 1 bis
 3 genannten Personen. Die Dienstleistungsüberwachung beginnt im
@@ -4182,6 +4310,7 @@ unverzüglich schriftlich, elektronisch oder mündlich zu melden:
 
 
 #### § 78 Aufenthaltsfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012203377)
 
 (1) Kann die für die Dienstleistungsüberwachung zuständige
 Wehrersatzbehörde (ausschreibende Behörde) den ständigen
@@ -4248,6 +4377,7 @@ Stellen die ihnen zuvor übermittelte Datei zu löschen.
 
 
 #### § 79 Vorführung und Zuführung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012302310)
 
 (1) Bei Dienstleistungspflichtigen, die einer angeordneten ärztlichen
 Untersuchung (§ 71 Satz 3 oder § 73 Satz 4) fernbleiben oder einer
@@ -4281,20 +4411,24 @@ insoweit eingeschränkt.
 
 
 ### 6. - Verhältnis zur Wehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001901310)
 
 
 
 #### § 80 Konkurrenzregelung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012402310)
 
 Für Wehrpflichtige nach § 1 des Wehrpflichtgesetzes geht im Spannungs-
 oder Verteidigungsfall das Wehrpflichtgesetz vor.
 
 
 ## Fünfter Abschnitt - Dienstliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001105310)
 
 
 
 ### § 81 Zuziehung zu dienstlichen Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012502377)
 
 (1) Dienstliche Veranstaltungen sind dienstliche Vorhaben im
 Geschäftsbereich des Bundesministeriums der Verteidigung insbesondere
@@ -4309,14 +4443,17 @@ Wehrdienstverhältnis.
 
 
 ## Sechster Abschnitt - Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002005310)
 
 
 
 ### 1. - Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002101310)
 
 
 
 #### § 82 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012602116)
 
 (1) Für Klagen der Soldaten, der Soldaten im Ruhestand, der früheren
 Soldaten, der Dienstleistungspflichtigen gemäß § 59 Abs. 3 Satz 1 und
@@ -4341,10 +4478,12 @@ Es kann die Entscheidung durch allgemeine Anordnung anderen Behörden
 
 
 ### 2. - Rechtsbehelfe und Rechtsmittel gegen Verwaltungsakte nach dem Vierten Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG002201310)
 
 
 
 #### § 83 Besondere Vorschriften für das Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012702377)
 
 (1) Der Widerspruch gegen Verwaltungsakte, die auf Grund des Vierten
 Abschnitts dieses Gesetzes durch die Wehrersatzbehörden ergehen, ist
@@ -4364,6 +4503,7 @@ Untersuchungsbescheid haben keine aufschiebende Wirkung.
 
 
 #### § 84 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012801310)
 
 Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere
 Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt
@@ -4376,6 +4516,7 @@ Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
 
 #### § 85 Besondere Vorschriften für die Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE012902377)
 
 Die Anfechtungsklage gegen den Untersuchungsbescheid (§ 71 Satz 5 und
 § 73 Satz 3), die Anfechtungsklage gegen den Heranziehungsbescheid (§
@@ -4387,10 +4528,12 @@ Personalmanagement der Bundeswehr zu hören.
 
 
 ## Siebter Abschnitt - Bußgeldvorschriften; Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNG001205310)
 
 
 
 ### § 86 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013003377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4425,6 +4568,7 @@ Personalmanagement der Bundeswehr zu hören.
 
 
 ### § 87 Einstellung von anderen Bewerbern
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013201310)
 
 (1) Ein Bewerber, der die für einen höheren Dienstgrad erforderliche
 militärische Eignung durch Lebens- und Berufserfahrung außerhalb der
@@ -4445,6 +4589,7 @@ zum Soldaten auf Zeit ernannt werden.
 
 
 ### § 88 Entlassung von anderen Bewerbern
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE007705310)
 
 Ein Bewerber nach § 87 Abs. 1, der in das Dienstverhältnis eines
 Berufssoldaten oder eines Soldaten auf Zeit berufen ist, kann auf
@@ -4456,6 +4601,7 @@ Satz 1 Nr. 3.
 
 
 ### § 89 Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009607311)
 
 (1) In Strafsachen gegen Soldaten gilt § 115 des Bundesbeamtengesetzes
 entsprechend.
@@ -4492,6 +4638,7 @@ Weiterleitung in einem verschlossenen Umschlag zu übermitteln.
 
 
 ### § 90 Organisationsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008204310)
 
 Die Organisation der Verteidigung, insbesondere die Spitzengliederung
 der Bundeswehr und die endgültige Organisation des Bundesministeriums
@@ -4500,10 +4647,12 @@ vorbehalten.
 
 
 ### § 91 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008508377)
 
 
 
 ### § 92 Übergangsvorschrift für die Laufbahnen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008605310)
 
 In der Rechtsverordnung nach § 27 Abs. 1 kann für die Dauer des
 Spannungs- oder Verteidigungsfalles bestimmt werden, dass für die bei
@@ -4514,6 +4663,7 @@ Buchstabe b bis auf ein Jahr verkürzt wird.
 
 
 ### § 93 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008725377)
 
 (1) Die Bundesregierung erlässt die Rechtsverordnungen über
 
@@ -4620,6 +4770,7 @@ Bundesrates.
 
 
 ### § 94 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 24. Februar 1983 (BGBl. I S. 179)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE008805310)
 
 Auf Berufssoldaten und Soldaten auf Zeit, die vor dem 2. März 1983 ein
 Studium oder eine Fachausbildung im Rahmen ihrer militärischen
@@ -4628,6 +4779,7 @@ anzuwenden.
 
 
 ### § 95 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 6. Dezember 1990 (BGBl. I S. 2588)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009405310)
 
 Die Vorschriften der § 40 Abs. 4, § 46 Abs. 4 finden nur auf Soldaten
 auf Zeit und Berufssoldaten Anwendung, die Elternzeit nach
@@ -4637,6 +4789,7 @@ haben.
 
 
 ### § 96 Übergangsvorschrift aus Anlass des Dienstrechtsneuordnungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE009704310)
 
 (1) Abweichend von § 45 Abs. 1 Nr. 1 wird die allgemeine Altersgrenze
 in den Jahren 2008 bis 2012 auf das vollendete 62. Lebensjahr
@@ -5745,6 +5898,7 @@ der Marine mit entsprechenden Dienstgraden.
 
 
 ### § 97 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 19. Dezember 2000 (BGBl. I S. 1815)
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE010003310)
 
 (1) Auf Berufssoldaten und Soldaten auf Zeit, die vor Inkrafttreten
 des Gesetzes zur Änderung des Soldatengesetzes und anderer
@@ -5759,6 +5913,7 @@ bisherigen Fassung anzuwenden.
 
 
 ### § 98 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013102310)
 
 (1) Die Vorschriften über nachwirkende Dienstleistungspflichten nach
 dem Vierten Abschnitt sind nur anzuwenden, wenn
@@ -5798,6 +5953,7 @@ dass ausschließlich Grundwehrdienst geleistet wird.
 
 
 ### § 99 Übergangsvorschrift aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE013400310)
 
 § 3 Absatz 2 Satz 1 Nummer 2 gilt entsprechend, wenn die
 gesundheitliche Schädigung in der Zeit vom 1. Juli 1992 bis zum 30.
@@ -5805,6 +5961,7 @@ November 2002 verursacht worden ist.
 
 
 ### § 100 Übergangsvorschrift aus Anlass des Gesetzes zur Beitragsentlastung der Versicherten in der gesetzlichen Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sg/BJNR001140956.html#BJNR001140956BJNE014500377)
 
 Auf die am 31. Dezember 2018 vorhandenen Versorgungsempfängerinnen und
 Versorgungsempfänger ist § 31 Absatz 2 in der bis dahin geltenden

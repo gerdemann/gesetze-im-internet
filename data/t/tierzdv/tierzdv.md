@@ -30,6 +30,7 @@ Fundstelle
 [^F817400_02_BJNR290400021]: 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000100000)
 
 Auf Grund
 
@@ -49,9 +50,11 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000300000)
 
 Im Sinne dieser Verordnung ist
 
@@ -131,9 +134,11 @@ Im Sinne dieser Verordnung ist
 
 
 ## Kapitel 2 - Zuchtverbände, Zuchtunternehmen und Zuchtprogramme
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000200000)
 
 
 ### § 2 Für die Zuchtarbeit verantwortliche Person
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000400000)
 
 (1) Die in einem Zuchtverband oder Zuchtunternehmen für die
 Zuchtarbeit verantwortliche Person muss ein Diplom oder einen Master
@@ -163,6 +168,7 @@ die verantwortliche Person fort.
 
 
 ### § 3 Genehmigung von Zuchtprogrammen für reinrassige Zuchttiere
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000500000)
 
 (1) Ein Zuchtprogramm wird nach Artikel 8 Absatz 3 der Verordnung (EU)
 2016/1012 des Europäischen Parlaments und des Rates vom 8. Juni 2016
@@ -284,6 +290,7 @@ genehmigen.
 
 
 ### § 4 Genehmigung von Zuchtprogrammen für Hybridzuchtschweine
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000600000)
 
 (1) Für jede Rasse, Linie oder Kreuzung von Hybridzuchtschweinen, von
 der Tiere als Eltern von Endprodukten angeboten werden oder von deren
@@ -396,6 +403,7 @@ dokumentieren.
 
 
 ### § 5 Kennzeichnung und Identifizierung von Zuchttieren
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000700000)
 
 (1) Bei der Kennzeichnung von Zuchttieren dürfen die Fristen nicht
 überschritten werden, die in § 27 Absatz 1, § 34 Absatz 1 oder § 39
@@ -441,6 +449,7 @@ unberührt.
 
 
 ### § 6 Eintragungsbestätigungen für Vorbuchtiere und Tierzuchtbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000800000)
 
 (1) Eine Eintragungsbestätigung für Vorbuchtiere muss
 
@@ -516,6 +525,7 @@ Zuchtequiden (ABl. L 275 vom 25.10.2017, S. 1) auszustellen.
 
 
 ### § 7 Pferdesportliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE000900000)
 
 (1) Werden Leistungsprüfungen zur Zuchtwertschätzung von Pferden als
 pferdesportliche Veranstaltungen durchgeführt, dürfen Pferde aus
@@ -555,6 +565,7 @@ Vorschriften (ABl. L 73 vom 10.3.2020, S. 19).
 
 
 ### § 8 Zuchtprogramme zur Wiederherstellung einer ausgestorbenen oder einer ernsthaft vom Aussterben bedrohten einheimischen Rasse
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001000000)
 
 Führt ein Zuchtverband ein Zuchtprogramm mit dem Ziel durch, eine
 ausgestorbene oder eine ernsthaft vom Aussterben bedrohte einheimische
@@ -565,6 +576,7 @@ eingetragen werden.
 
 
 ### § 9 Aufstiegsregelungen bei gefährdeten Rassen und robusten Schafrassen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001100000)
 
 (1) Die zuständige Behörde kann auf Antrag genehmigen, dass ein
 Zuchtverband, der ein Zuchtprogramm für reinrassige Tiere einer
@@ -580,12 +592,15 @@ Nummer 2 Satz 2 der Verordnung (EU) 2016/1012 erfüllt.
 
 
 ## Kapitel 3 - Gewinnung, Behandlung, Lagerung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000300000)
 
 
 ### Abschnitt 1 - Künstliche Besamung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000400000)
 
 
 #### § 10 Anforderungen an Einrichtungen einer nationalen Besamungsstation
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001200000)
 
 Eine nationale Besamungsstation verfügt über die nach § 18 Absatz 2
 Nummer 3 des Tierzuchtgesetzes erforderlichen Einrichtungen, wenn in
@@ -594,6 +609,7 @@ sind.
 
 
 #### § 11 Anforderungen an den Betrieb einer nationalen Besamungsstation
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001300000)
 
 Der Betreiber einer nationalen Besamungsstation hat sicherzustellen,
 dass
@@ -748,6 +764,7 @@ dass
 
 
 #### § 12 Kennzeichnungsnummer der nationalen Besamungsstation
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001400000)
 
 Mit der Erlaubnis nach § 18 Absatz 1 Satz 1 des Tierzuchtgesetzes
 erteilt die zuständige Behörde der nationalen Besamungsstation eine
@@ -785,6 +802,7 @@ Samens. Diese Kennzeichnungsnummer besteht aus
 
 
 #### § 13 Kennzeichnung von Samen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001500000)
 
 (1) In einer Besamungsstation ist jedes Ejakulat für die weitere
 Behandlung so zu kennzeichnen, dass das Datum der Samengewinnung, die
@@ -862,6 +880,7 @@ nach Satz 1 anzugeben.
 
 
 #### § 14 Aufzeichnungen über Gewinnung, Behandlung, Lagerung und Abgabe von Samen, Samenbegleitschein
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001600000)
 
 (1) Die nach § 18 Absatz 8 Satz 1 Nummer 2 des Tierzuchtgesetzes zu
 erstellenden Aufzeichnungen über die Gewinnung von Samen durch eine
@@ -1036,6 +1055,7 @@ enthalten.
 
 
 #### § 15 Aufzeichnungen über die Verwendung von Samen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001700000)
 
 (1) Die nach § 15 Absatz 3 des Tierzuchtgesetzes zu erstellenden
 Aufzeichnungen über die Verwendung von Samen müssen für jede
@@ -1105,9 +1125,11 @@ Erstellen der Aufzeichnung.
 
 
 ### Abschnitt 2 - Tierzüchterische Bestimmungen für die künstliche Besamung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000500000)
 
 
 #### § 16 Prüfeinsatz
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001800000)
 
 (1) Ein Zuchtverband hat sicherzustellen, dass Prüfsamen nur zur
 Besamung von Tieren eingesetzt wird,
@@ -1187,9 +1209,11 @@ der Besamungs- und Geburtsdaten vorzunehmen.
 
 
 ### Abschnitt 3 - Embryotransfer
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000600000)
 
 
 #### § 17 Anforderungen an Einrichtungen einer nationalen Embryo-Entnahmeeinheit
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE001900000)
 
 Eine nationale Embryo-Entnahmeeinheit verfügt über die nach § 18
 Absatz 2 Nummer 3 des Tierzuchtgesetzes erforderlichen Einrichtungen,
@@ -1198,6 +1222,7 @@ vorhanden sind.
 
 
 #### § 18 Anforderungen an den Betrieb einer Embryo-Entnahme- oder Erzeugungseinheit
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002000000)
 
 (1) Der Betreiber einer nationalen Embryo-Entnahmeeinheit hat
 sicherzustellen, dass
@@ -1269,6 +1294,7 @@ entspricht.
 
 
 #### § 19 Kennzeichnungsnummer der nationalen Embryo-Entnahmeeinheit
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002100000)
 
 Mit der Erlaubnis nach § 18 Absatz 1 Satz 1 des Tierzuchtgesetzes
 erteilt die zuständige Behörde der nationalen Embryo-Entnahmeeinheit
@@ -1307,6 +1333,7 @@ Nummer besteht aus
 
 
 #### § 20 Kennzeichnung von Eizellen und Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002200000)
 
 (1) In einer Embryo-Entnahmeeinheit ist jede nicht zur unmittelbaren
 Übertragung vorgesehene Eizelle und jeder nicht zur unmittelbaren
@@ -1387,6 +1414,7 @@ Zulassungsnummer angegeben. Zusätzlich sind anzugeben:
 
 
 #### § 21 Aufzeichnungen über Erzeugung, Gewinnung, Behandlung, Lagerung und Abgabe von Eizellen und Embryonen, Embryobegleitschein
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002300000)
 
 (1) Die nach § 18 Absatz 8 Satz 1 Nummer 2 des Tierzuchtgesetzes zu
 erstellenden Aufzeichnungen über die Gewinnung von Embryonen durch
@@ -1535,6 +1563,7 @@ Tierzuchtbescheinigungen der Spendertiere ausgestellt haben.
 
 
 #### § 22 Aufzeichnungen über die Verwendung von Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002400000)
 
 (1) Der Verwender eines Embryos nach § 17 Absatz 1 des
 Tierzuchtgesetzes, der nach § 17 Absatz 2 des Tierzuchtgesetzes
@@ -1576,9 +1605,11 @@ Aufzeichnung.
 
 
 ### Abschnitt 4 - Bestimmungen zum Datenzugang
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000700000)
 
 
 #### § 23 Zugang zu Daten aus Leistungsprüfung und Zuchtwertschätzung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002500000)
 
 (1) Daten und Ergebnisse einer Leistungsprüfung oder einer
 Zuchtwertschätzung, die nach Artikel 25 auch in Verbindung mit Anhang
@@ -1629,12 +1660,15 @@ Zuchtprogrammes durch den Zuchtverband veröffentlicht.
 
 
 ## Kapitel 4 - Lehrgänge nach dem Tierzuchtgesetz
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000800000)
 
 
 ### Abschnitt 1 - Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG000900000)
 
 
 #### § 24 Anforderungen an Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002600000)
 
 (1) Die Ausbildungsstätten, an denen Lehrgänge oder Kurzlehrgänge über
 künstliche Besamung oder Lehrgänge über Embryotransfer durchgeführt
@@ -1659,12 +1693,15 @@ Gesetzes erlassenen Rechtsvorschriften bleiben unberührt.
 
 
 ### Abschnitt 2 - Lehrgänge über künstliche Besamung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG001000000)
 
 
 #### Unterabschnitt 1 - Lehrgänge für Besamungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG001100000)
 
 
 ##### § 25 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002700000)
 
 An einem Lehrgang für Besamungsbeauftragte darf nur teilnehmen, wer
 das 18. Lebensjahr vollendet hat und
@@ -1697,6 +1734,7 @@ das 18. Lebensjahr vollendet hat und
 
 
 ##### § 26 Lehrinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002800000)
 
 (1) Ein Lehrgang für eine Tierart umfasst mindestens 160
 Unterrichtsstunden. Eine Unterrichtsstunde umfasst 45 Minuten.
@@ -1737,6 +1775,7 @@ Lehrgang mindestens 240 Unterrichtsstunden umfassen.
 
 
 ##### § 27 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE002900000)
 
 (1) Der Lehrgang schließt mit einer Prüfung ab.
 
@@ -1763,15 +1802,18 @@ mitzuteilen.
 
 
 #### Unterabschnitt 2 - Kurzlehrgänge über Eigenbestandsbesamung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG001200000)
 
 
 ##### § 28 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003000000)
 
 An einem Kurzlehrgang über Eigenbestandsbesamung darf nur teilnehmen,
 wer das 16. Lebensjahr vollendet hat.
 
 
 ##### § 29 Lehrinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003100000)
 
 (1) Der Kurzlehrgang umfasst mindestens 25 Unterrichtsstunden. Eine
 Unterrichtsstunde umfasst 45 Minuten. Der Kurzlehrgang bezieht sich
@@ -1803,6 +1845,7 @@ Phantomen oder sich in der Brunst befindlichen Tieren zu vermitteln.
 
 
 ##### § 30 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003200000)
 
 (1) Der Kurzlehrgang schließt mit einer Prüfung ab.
 
@@ -1821,9 +1864,11 @@ mitzuteilen.
 
 
 ### Abschnitt 3 - Lehrgänge über Embryotransfer
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG001300000)
 
 
 #### § 31 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003300000)
 
 An einem Lehrgang über Embryotransfer darf nur teilnehmen, wer
 
@@ -1839,6 +1884,7 @@ An einem Lehrgang über Embryotransfer darf nur teilnehmen, wer
 
 
 #### § 32 Lehrinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003400000)
 
 (1) Der Lehrgang umfasst mindestens 28 Unterrichtsstunden. Eine
 Unterrichtsstunde umfasst 45 Minuten. Der Lehrgang bezieht sich nur
@@ -1873,6 +1919,7 @@ Ausbildung muss am lebenden Tier erfolgen.
 
 
 #### § 33 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003500000)
 
 (1) Der Lehrgang schließt mit einer Prüfung ab. § 27 Absatz 2 und 3
 gilt entsprechend.
@@ -1888,9 +1935,11 @@ mitzuteilen.
 
 
 ## Kapitel 5 - Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNG001400000)
 
 
 ### § 34 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003600000)
 
 Ordnungswidrig im Sinne des § 23 Absatz 1 Nummer 6 des
 Tierzuchtgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1958,6 +2007,7 @@ Tierzuchtgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 35 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003700000)
 
 (1) Besamungstechniker, die in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet auf Grund des Gesetzes über die Leitung, Planung und
@@ -1981,6 +2031,7 @@ Ausbildungsstätten gelten als Anerkennungen nach dieser Verordnung.
 
 
 ### § 36 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten außer Kraft:
@@ -2024,12 +2075,14 @@ Gleichzeitig treten außer Kraft:
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE003900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 10 und 11)
 
 ### Anlage 1 Anforderungen an Einrichtungen einer nationalen Besamungsstation
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE004000000)
 
 (Fundstelle: BGBl. I 2021, 2919)
 
@@ -2082,6 +2135,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 11 Satz 1 Nummer 5 bis 7 und 11)
 
 ### Anlage 2 Vorgeschriebene Voraussetzungen und Überprüfungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung und zum Natursprung vorgesehen sind
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE004100000)
 
 (Fundstelle: BGBl. I 2021, 2920)
 
@@ -2141,6 +2195,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 11 Satz 1 Nummer 7a)
 
 ### Anlage 2a Vorgeschriebene Untersuchungen an männlichen Equiden, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE004200000)
 
 (Fundstelle: BGBl. I 2021, 2921)
 
@@ -2189,6 +2244,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 17)
 
 ### Anlage 3 Anforderungen an Einrichtungen einer nationalen Embryo-Entnahmeeinheit
+[Direktlink](https://www.gesetze-im-internet.de/tierzdv/BJNR290400021.html#BJNR290400021BJNE004300000)
 
 (Fundstelle: BGBl. I 2021, 2922)
 

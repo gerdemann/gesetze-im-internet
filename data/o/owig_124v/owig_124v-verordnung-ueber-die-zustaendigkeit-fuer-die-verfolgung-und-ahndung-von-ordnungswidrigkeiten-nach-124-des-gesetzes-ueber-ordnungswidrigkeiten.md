@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/owig_124v/BJNR002090975.html#BJNR002090975BJNE000100304)
 
 Auf Grund des § 36 Abs. 3 in Verbindung mit § 131 Abs. 1 Satz 3 des
 Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/owig_124v/BJNR002090975.html#BJNR002090975BJNE000200304)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten
@@ -36,6 +38,7 @@ handelt, dem Bundesverwaltungsamt übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/owig_124v/BJNR002090975.html#BJNR002090975BJNE000300304)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 134 des
@@ -43,11 +46,13 @@ Gesetzes über Ordnungswidrigkeiten auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/owig_124v/BJNR002090975.html#BJNR002090975BJNE000400304)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/owig_124v/BJNR002090975.html#BJNR002090975BJNE000500304)
 
 Der Bundesminister des Innern
 

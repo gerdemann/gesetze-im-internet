@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000100305)
 
 Es verordnen
 
@@ -74,6 +75,7 @@ Es verordnen
 
 
 ## § 1 Verbot der Verwendung bestimmter Stoffe, bestimmter Zubereitungen aus Stoffen oder bestimmter Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000200305)
 
 (1) Es ist verboten, Stoffe, Zubereitungen aus Stoffen oder
 Gegenstände, die von im Vereinigten Königreich Großbritannien und
@@ -166,6 +168,7 @@ c)  soweit die Hilfsstoffe oder Produktionshilfsstoffe von im Vereinigten
 
 
 ## § 2 Erklärung für das Verbringen aus Mitgliedstaaten der Europäischen Union und die Einfuhr aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000300305)
 
 Für Fertigarzneimittel, die in den Geltungsbereich dieser Verordnung
 verbracht werden sollen, hat der für das Verbringen Verantwortliche
@@ -182,6 +185,7 @@ worden sind, die Voraussetzungen von § 1 Abs. 5 erfüllen.
 
 
 ## § 3 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000401310)
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
 bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 4 ein
@@ -200,17 +204,20 @@ nicht oder nicht rechtzeitig vorlegt.
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000500305)
 
 § 1 Abs. 2 ist für Volumenersatzmittel erst ab dem 14. Mai 2002
 anzuwenden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000600305)
 
 Diese Verordnung tritt am 15. Mai 2001 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tseamv/BJNR085600001.html#BJNR085600001BJNE000700305)
 
 Der Bundesrat hat zugestimmt.
 

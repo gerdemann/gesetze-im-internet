@@ -21,11 +21,13 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/d_gaufhg/BJNR122000002.html#BJNR122000002BJNE000100305)
 
 -
 
 
 ## § 2 Einführung neuer Zinssätze
+[Direktlink](https://www.gesetze-im-internet.de/d_gaufhg/BJNR122000002.html#BJNR122000002BJNE000201118)
 
 (1) Es werden ersetzt:
 

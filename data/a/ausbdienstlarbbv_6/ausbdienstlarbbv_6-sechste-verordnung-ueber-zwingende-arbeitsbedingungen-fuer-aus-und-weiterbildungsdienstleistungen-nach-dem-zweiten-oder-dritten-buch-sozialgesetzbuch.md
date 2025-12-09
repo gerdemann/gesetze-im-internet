@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 am 31.12.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbdienstlarbbv_6/BJNR0160A0023.html#BJNR0160A0023BJNE000100000)
 
 Auf Grund des § 7 Absatz 1 und 2 in Verbindung mit Absatz 4 des
 Arbeitnehmer-Entsendegesetzes, dessen Absatz 1 durch Artikel 1 Nummer
@@ -37,6 +38,7 @@ festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
 
 
 ## § 1 Zwingende Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ausbdienstlarbbv_6/BJNR0160A0023.html#BJNR0160A0023BJNE000200000)
 
 (1) Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen
 des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für
@@ -67,6 +69,7 @@ Geltungsbereich dieser Verordnung fällt.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbdienstlarbbv_6/BJNR0160A0023.html#BJNR0160A0023BJNE000300000)
 
 Diese Verordnung tritt am 1. Februar 2023 in Kraft und am 31. Dezember
 2026 außer Kraft.
@@ -74,6 +77,7 @@ Diese Verordnung tritt am 1. Februar 2023 in Kraft und am 31. Dezember
 (zu § 1 Absatz 1)
 
 ## Anlage Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/ausbdienstlarbbv_6/BJNR0160A0023.html#BJNR0160A0023BJNE000400000)
 
 (Fundstelle: BGBl 2023 I Nr. 22, S. 3 - 6)
 

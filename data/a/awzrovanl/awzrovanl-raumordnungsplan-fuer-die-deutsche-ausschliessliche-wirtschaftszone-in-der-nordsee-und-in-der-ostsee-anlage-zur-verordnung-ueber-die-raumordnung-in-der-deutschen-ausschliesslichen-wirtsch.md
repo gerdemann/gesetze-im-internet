@@ -20,6 +20,7 @@ Fundstelle
 (zu § 1)
 
 ## Anlage Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee und in der Ostsee
+[Direktlink](https://www.gesetze-im-internet.de/awzrovanl/BJNR388610021.html#BJNR388610021BJNE000100000)
 
 (Fundstelle: Anlageband zu BGBl. I 2021, Ausgabe 58 vom 26. August
 2021, S - 43, gesonderte Karte)

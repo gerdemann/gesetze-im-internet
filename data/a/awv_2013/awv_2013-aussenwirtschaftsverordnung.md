@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -40,9 +41,11 @@ Es verordnen auf Grund
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000100000)
 
 
 ### § 1 Beantragung von Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000300000)
 
 (1) Anträge auf Erteilung einer Genehmigung können, wenn im Folgenden
 nichts anderes bestimmt ist, von jedem gestellt werden, der das
@@ -56,6 +59,7 @@ Verwaltungsverfahrensgesetzes) werden von Amts wegen erteilt.
 
 
 ### § 2 Zertifikate nach Artikel 9 der Richtlinie 2009/43/EG
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000400000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erteilt
 einem Teilnehmer am Außenwirtschaftsverkehr auf Antrag ein Zertifikat,
@@ -167,6 +171,7 @@ betragen.
 
 
 ### § 3 Formerfordernisse; Verwaltungsportal und Fristlauf
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000501119)
 
 (1) Soweit nichts anderes bestimmt ist, können Verwaltungsakte, die
 nach dem Außenwirtschaftsgesetz oder auf Grund dieser Verordnung
@@ -218,6 +223,7 @@ Hemmung einer Frist nach § 14a Absatz 6 des Außenwirtschaftsgesetzes.
 
 
 ### § 4 Erteilung von Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000601311)
 
 (1) Genehmigungen können in Form von Einzelgenehmigungen,
 Sammelgenehmigungen oder Allgemeingenehmigungen erteilt werden.
@@ -230,10 +236,12 @@ Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000701128)
 
 
 
 ### § 6 Aufbewahrung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000800000)
 
 (1) Der Adressat eines Verwaltungsakts muss die diesen Verwaltungsakt
 verkörpernde Urkunde nach Ablauf der Gültigkeit des Verwaltungsaktes
@@ -255,6 +263,7 @@ ist, kann die zuständige Stelle
 
 
 ### § 7 Boykotterklärung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE000901118)
 
 Die Abgabe einer Erklärung im Außenwirtschaftsverkehr, durch die sich
 ein Inländer an einem Boykott gegen einen anderen Staat beteiligt
@@ -279,6 +288,7 @@ wirtschaftliche Sanktionsmaßnahmen beschlossen haben.
 
 
 ### § 7a Gebiete, die als Zollgebiet der Europäischen Union gelten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011601119)
 
 Bei Anwendung der §§ 8 bis 12, 19, 20a bis 27, 29 bis 43, 46, 47, 49,
 50, 52a, 52b und 75 gilt das Gebiet von Nordirland als Teil des
@@ -286,15 +296,19 @@ Zollgebiets der Europäischen Union.
 
 
 ## Kapitel 2 - Ausfuhr und Verbringung aus dem Inland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000200000)
 
 
 ### Abschnitt 1 - Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000300000)
 
 
 #### Unterabschnitt 1 - Genehmigungsbedürftige Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000400000)
 
 
 ##### § 8 Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils I der Ausfuhrliste
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001001311)
 
 (1) Die Ausfuhr der folgenden Güter bedarf der Genehmigung:
 
@@ -340,6 +354,7 @@ genehmigungspflichtig.
 
 
 ##### § 9 Genehmigungserfordernisse für die Ausfuhr von Gütern mit einem bestimmten Verwendungszweck
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001102128)
 
 (1) Die Ausfuhr von Gütern, die nicht in der Ausfuhrliste oder in
 Anhang I der Verordnung (EU) 2021/821 des Europäischen Parlaments und
@@ -397,6 +412,7 @@ dort genannte Güter für eine dort genannte Verwendung bestimmt sind.
 
 
 ##### § 10 Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils II der Ausfuhrliste
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001202118)
 
 Die Ausfuhr der in Teil II Spalte 3 der Ausfuhrliste mit „G“
 gekennzeichneten Waren bedarf der Genehmigung. Dies gilt nicht, wenn
@@ -413,9 +429,11 @@ der Vermarktungsnormen oder Mindestanforderungen vorgesehen sind.
 
 
 #### Unterabschnitt 2 - Genehmigungsbedürftige Verbringung aus dem Inland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000500000)
 
 
 ##### § 11 Genehmigungserfordernisse für die Verbringung von Gütern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001304311)
 
 (1) Die Verbringung der in Teil I Abschnitt A der Ausfuhrliste
 genannten Güter bedarf der Genehmigung. Dies gilt nicht für
@@ -495,12 +513,15 @@ Genehmigung bedarf.
 
 
 ### Abschnitt 2 - Verfahrens- und Meldevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000600000)
 
 
 #### Unterabschnitt 1 - Ausfuhr und Wiederausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000700000)
 
 
 ##### § 12 Gestellung und Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001404119)
 
 (1) Jede Ausfuhrsendung ist vor der Ausfuhr vom Anmelder unter Vorlage
 einer Ausfuhranmeldung oder einer Wiederausfuhranmeldung bei der
@@ -584,10 +605,12 @@ der Rohrleitung befindet, in der die Ware befördert wird.
 
 
 ##### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001502119)
 
 
 
 ##### § 14 Verfahren bei der zollamtlichen Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001601118)
 
 (1) Zur Prüfung der Zulässigkeit der Ausfuhr können die
 Ausfuhrzollstelle und die Ausgangszollstelle von dem Ausführer oder
@@ -611,6 +634,7 @@ lassen oder dort verladen oder verladen lassen.
 
 
 ##### § 15 Vereinfachte Zollanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001703119)
 
 (1) Wenn ein Anmelder von der vereinfachten Zollanmeldung nach Artikel
 166 der Verordnung (EU) Nr. 952/2013 Gebrauch machen will, muss er in
@@ -649,6 +673,7 @@ Verordnung (EU) 2015/2446 ist das Hauptzollamt.
 
 
 ##### § 16 Anschreibung in der Buchführung des Anmelders
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001802118)
 
 (1) In dem Antrag auf Bewilligung der Anschreibung in der Buchführung
 des Anmelders nach Artikel 182 der Verordnung (EU) Nr. 952/2013 sind
@@ -667,10 +692,12 @@ des Anmelders ist das Hauptzollamt.
 
 
 ##### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE001901118)
 
 
 
 ##### § 18 Erhebung von Ausfuhrdaten bei der Ausfuhr von Mineralöl und Gas
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002004118)
 
 (1) Bei der Ausfuhr von Waren der Warennummern 2707 10 00 bis 2707 50
 00, 2709 00 10 bis 2711 14 00, 2711 21 00, 2711 29 00, 2712 10 10 bis
@@ -724,6 +751,7 @@ Zollstelle übermittelt worden sind.
 
 
 ##### § 19 Ausfuhr von Obst und Gemüse
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002103118)
 
 (1) Bei der genehmigungsfreien Ausfuhr von Obst und Gemüse, das in
 Teil II Kapitel 7, 8, 9 und 12 der Ausfuhrliste mit „G“ gekennzeichnet
@@ -805,6 +833,7 @@ gilt entsprechend.
 
 
 ##### § 20 Wiederausfuhren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002201118)
 
 Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr.
 952/2013 einer Wiederausfuhranmeldung bedürfen, gelten die
@@ -812,6 +841,7 @@ Vorschriften dieses Unterabschnitts entsprechend.
 
 
 ##### § 20a Summarische Ausgangsanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010702119)
 
 (1) Sofern keine Ausfuhranmeldung oder Wiederausfuhranmeldung
 abgegeben wurde, hat der Beförderer eine summarische Ausgangsanmeldung
@@ -829,6 +859,7 @@ Verordnung (EU) 2015/2446 enthalten.
 
 
 ##### § 20b Wiederausfuhrmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010803119)
 
 (1) Sollen Waren aus dem Zollgebiet der Union ausgeführt werden und
 ist weder eine Zollanmeldung noch eine Wiederausfuhranmeldung noch
@@ -845,9 +876,11 @@ Verordnung (EU) 2015/2446 bei der Ausgangszollstelle abzugeben.
 
 
 #### Unterabschnitt 2 - Genehmigungsbedürftige Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000800000)
 
 
 ##### § 21 Ausfuhrgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002301118)
 
 (1) Eine Ausfuhrgenehmigung kann nur der Ausführer beantragen.
 
@@ -887,6 +920,7 @@ Bundesanzeiger bekannt zu machen ist.
 
 
 ##### § 22 Informations- und Buchführungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002400000)
 
 (1) Ausführer der in Teil I Abschnitt A der Ausfuhrliste genannten
 Güter sind verpflichtet, den Empfänger spätestens bei der Ausfuhr über
@@ -927,6 +961,7 @@ von fünf Jahren aufzubewahren.
 
 
 ##### § 23 Ausfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002502311)
 
 (1) Erfolgt die Ausfuhrabfertigung aufgrund einer elektronischen
 Ausfuhranmeldung nach § 12 Absatz 3 Satz 1, ist die Vorlage der
@@ -1011,6 +1046,7 @@ gelten die Absätze 2 bis 6 entsprechend.
 
 
 ##### § 24 Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002602311)
 
 (1) Zum Zweck der Ausfuhrabfertigung ausfuhrgenehmigungspflichtiger
 Waren ruft die zuständige Zollstelle die Daten der vom Bundesamt für
@@ -1056,6 +1092,7 @@ Zollstelle oder das Bundesamt für Wirtschaft und Ausfuhrkontrolle
 
 
 ##### § 25 Ausfuhrabfertigung in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002701118)
 
 (1) Wenn der Ausführer eine vom Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) erteilte Ausfuhrgenehmigung zur
@@ -1084,6 +1121,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) weiter:
 
 
 ##### § 26 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002800000)
 
 (1) Der Ausführer ist verpflichtet, für jede von einer Zollstelle
 vorgenommene Abschreibung gemäß § 23 oder § 25 unter Bezugnahme auf
@@ -1116,9 +1154,11 @@ Jahren aufzubewahren.
 
 
 #### Unterabschnitt 3 - Genehmigungsbedürftige Verbringung und Zertifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG000900000)
 
 
 ##### § 27 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE002900000)
 
 Für die Verbringung genehmigungspflichtiger Güter gilt § 21
 entsprechend. Für die Verbringung der in Teil I Abschnitt A der
@@ -1126,6 +1166,7 @@ Ausfuhrliste genannten Güter gilt darüber hinaus § 22 entsprechend.
 
 
 ##### § 28 Zertifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003000000)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bestimmt
 durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist,
@@ -1144,12 +1185,15 @@ veröffentlichen kann.
 
 
 ## Kapitel 3 - Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001000000)
 
 
 ### Abschnitt 1 - Beschränkungen und allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001100000)
 
 
 #### § 29 Verwendungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003100000)
 
 Ist die Einfuhr einer Ware unter der Voraussetzung zugelassen oder
 unter der Auflage genehmigt, dass die Ware nur in bestimmter Weise
@@ -1160,6 +1204,7 @@ Ware nur in der vorgeschriebenen Weise verwenden.
 
 
 #### § 30 Bestätigungen über Internationale Einfuhrbescheinigungen und Wareneingangsbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003201360)
 
 (1) Wer Waren ins Inland einführt oder verbringt, kann beim Bundesamt
 für Wirtschaft und Ausfuhrkontrolle (BAFA) eine Internationale
@@ -1193,9 +1238,11 @@ entsprechend anwendbar.
 
 
 ### Abschnitt 2 - Einfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001200000)
 
 
 #### § 31 Antrag auf Einfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003301118)
 
 (1) Der Einführer hat die Einfuhrabfertigung bei einer Zollstelle zu
 beantragen. Anstelle des Einführers kann ein Unionsansässiger im
@@ -1259,6 +1306,7 @@ Warenverzeichnisses für die Außenhandelsstatistik anzugeben.
 
 
 #### § 32 Einfuhrdokumente
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003401119)
 
 (1) Wird die Einfuhrabfertigung elektronisch beantragt, hat der
 Einführer sicherzustellen, dass die nachstehend genannten Dokumente
@@ -1305,6 +1353,7 @@ Absatz 1 genannten Dokumente vorzulegen.
 
 
 #### § 33 Verfahren bei der Einfuhrabfertigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003500000)
 
 (1) Die Zollstelle prüft die Zulässigkeit der Einfuhr. Sie lehnt die
 Einfuhrabfertigung ab, wenn
@@ -1334,6 +1383,7 @@ oder ähnlichen Gasen in Leitungen entfällt die Einfuhrabfertigung.
 
 
 #### § 34 Erhebung von Einfuhrdaten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003605119)
 
 (1) Bei der Einfuhr von Waren der Warennummern 2705 00 00, 2707 10 00,
 2707 20 00, 2707 30 00, 2707 50 00, 2709 00 10, 2709 00 90, 2710 12
@@ -1406,10 +1456,12 @@ Zollstelle übermittelt worden sind.
 
 
 #### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003702119)
 
 
 
 #### § 36 Vorherige Einfuhrüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003800000)
 
 (1) Unterliegt die Einfuhr einer Ware auf Grund eines Rechtsakts der
 Europäischen Union der Überwachung, so wird bei der genehmigungsfreien
@@ -1459,6 +1511,7 @@ ist. Die Absätze 1 bis 3 sind entsprechend anzuwenden.
 
 
 #### § 37 Einfuhrabfertigung bei vorheriger Einfuhrüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE003900000)
 
 (1) Erfolgt die Einfuhrabfertigung auf Grund einer elektronischen
 Einfuhranmeldung, rufen die Zollstellen die Daten des
@@ -1495,6 +1548,7 @@ zuständigen Zollstelle vorlegen. Die Zollstelle vermerkt auf dem
 
 
 #### § 38 Ursprungszeugnis und Ursprungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004003119)
 
 (1) Wenn für Waren auf Grund eines Rechtsakts der Europäischen Union
 ein Ursprungszeugnis oder eine Ursprungserklärung vorgesehen ist, sind
@@ -1523,6 +1577,7 @@ Verordnung (EU) 2015/2446 in dem angegebenen Drittland haben.
 
 
 #### § 39 Einfuhrgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004100000)
 
 (1) Durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen
 ist, können die für die Erteilung von Einfuhrgenehmigungen und
@@ -1576,6 +1631,7 @@ abgefertigten Waren.
 
 
 #### § 40 Erleichtertes Verfahren für landwirtschaftliche Waren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004201118)
 
 (1) Ohne Einfuhrgenehmigung dürfen folgende landwirtschaftliche Waren
 eingeführt werden:
@@ -1638,6 +1694,7 @@ Einfuhren.
 
 
 #### § 41 Erleichtertes Verfahren für sonstige Waren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004301118)
 
 (1) Ohne Einfuhrgenehmigung dürfen ferner folgende Waren eingeführt
 werden:
@@ -1787,6 +1844,7 @@ können.
 
 
 #### § 42 Einfuhr von Gartenbauerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004402118)
 
 (1) Bei der Einfuhr von frischem Obst und Gemüse, für das
 Vermarktungsnormen auf Grund der Verordnung (EU) Nr. 1308/2013
@@ -1831,6 +1889,7 @@ erleichterte Verfahren nach § 40 gilt.
 
 
 #### § 43 Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004500000)
 
 Soll eine Zwangsvollstreckung in Waren vorgenommen werden, die sich in
 einer Freizone oder in einem Zolllager befinden, so kann der Gläubiger
@@ -1841,12 +1900,15 @@ ist zu vermerken: „Zwangsvollstreckung“.
 
 
 ## Kapitel 4 - Sonstiger Güterverkehr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001300000)
 
 
 ### Abschnitt 1 - Durchfuhr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001400000)
 
 
 #### § 44 Beschränkungen bei der Durchfuhr von Gütern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004602311)
 
 (1) Die zuständigen Zollstellen können im Fall einer Durchfuhr von
 Gütern nach Artikel 2 Nummer 11 der Verordnung (EU) 2021/821 die
@@ -1884,6 +1946,7 @@ des Zollverwaltungsgesetzes, sind entsprechend anzuwenden.
 
 
 #### § 45 Durchfuhrverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004700000)
 
 Die Zulässigkeit der Durchfuhr wird beim Ausgang der Güter aus dem
 Inland von der Ausgangszollstelle geprüft und beim Ausgang über eine
@@ -1895,9 +1958,11 @@ auch die Vorlage der Verladescheine verlangen.
 
 
 ### Abschnitt 2 - Handels- und Vermittlungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001500000)
 
 
 #### § 46 Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte über Güter des Teils I Abschnitt A der Ausfuhrliste
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004800000)
 
 (1) Handels- und Vermittlungsgeschäfte über Güter des Teils I
 Abschnitt A der Ausfuhrliste bedürfen der Genehmigung, wenn
@@ -1925,6 +1990,7 @@ Kontrolle von Kriegswaffen genehmigungspflichtig ist.
 
 
 #### § 47 Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte in einem Drittland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE004901311)
 
 (1) § 46 gilt auch für Handels- und Vermittlungsgeschäfte, die in
 einem Drittland durch Deutsche mit Wohnsitz oder gewöhnlichem
@@ -2000,6 +2066,7 @@ genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
 
 #### § 48 Einfuhrdokumente für Handels- und Vermittlungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005000000)
 
 Wer für Handels- und Vermittlungsgeschäfte eine Internationale
 Einfuhrbescheinigung oder eine Wareneingangsbescheinigung benötigt,
@@ -2009,9 +2076,11 @@ in das im Antrag bezeichnete Bestimmungsland nachzuweisen ist.
 
 
 ## Kapitel 5 - Dienstleistungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001600000)
 
 
 ### § 49 Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit chemischen oder biologischen Waffen oder Kernwaffen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005102311)
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen
 oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der
@@ -2070,6 +2139,7 @@ Unterstützung
 
 
 ### § 50 Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005202311)
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen
 oder einen Inländer, die nicht von § 49 Absatz 1 erfasst ist, bedarf
@@ -2108,6 +2178,7 @@ Unterstützung
 
 
 ### § 51 Genehmigungserfordernisse für technische Unterstützung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005301311)
 
 (1) Technische Unterstützung im Inland durch einen Inländer bedarf der
 Genehmigung, wenn der Inländer vom Bundesamt für Wirtschaft und
@@ -2183,6 +2254,7 @@ Aufenthalt im Inland auf höchstens fünf Jahre befristet ist.
 
 
 ### § 52 Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb kerntechnischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005401311)
 
 (1) Technische Unterstützung durch einen Deutschen oder einen Inländer
 bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom
@@ -2223,6 +2295,7 @@ abgewickelt werden.
 
 
 ### § 52a Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EU) 2021/821 gelisteten Gütern der Kommunikationsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010501311)
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen
 oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der
@@ -2270,6 +2343,7 @@ Unterstützung
 
 
 ### § 52b Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Teil I Abschnitt B der Ausfuhrliste gelisteten Gütern der Kommunikationsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010601311)
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen
 oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der
@@ -2315,6 +2389,7 @@ Unterstützung
 
 
 ### § 53 Befreiung von der Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005502311)
 
 Die §§ 49 bis 52b gelten nicht
 
@@ -2350,12 +2425,15 @@ Die §§ 49 bis 52b gelten nicht
 
 
 ## Kapitel 6 - Beschränkungen des Kapitalverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001700000)
 
 
 ### Abschnitt 1 - Beschränkungen nach § 4 Absatz 2 des Außenwirtschaftsgesetzes zur Erfüllung des Abkommens über deutsche Auslandsschulden
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001800000)
 
 
 #### § 54 Bewirkung von Zahlungen und sonstigen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005600000)
 
 (1) Einem Schuldner ist die Bewirkung von Zahlungen und sonstigen
 Leistungen verboten, wenn sie
@@ -2393,12 +2471,15 @@ gelten auch für Absatz 1.
 
 
 ### Abschnitt 2 - Prüfung von Unternehmenserwerben
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG001900000)
 
 
 #### Unterabschnitt 1 - Sektorübergreifende Prüfung von Unternehmenserwerben
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002000000)
 
 
 ##### § 55 Anwendungsbereich der sektorübergreifenden Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005710119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann prüfen,
 ob es die öffentliche Ordnung oder Sicherheit der Bundesrepublik
@@ -2467,6 +2548,7 @@ Erwerb nach Absatz 1 betroffene inländische Unternehmen maßgeblich.
 
 
 ##### § 55a Voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011107128)
 
 (1) Bei der Prüfung einer voraussichtlichen Beeinträchtigung der
 öffentlichen Ordnung oder Sicherheit kann insbesondere berücksichtigt
@@ -2871,6 +2953,7 @@ Absatz 1 nicht vorliegen.
 [^f816116_01_BJNR286500013BJNE011107128]: 
 
 ##### § 56 Stimmrechtsanteile
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005804311)
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers
 an dem inländischen Unternehmen muss nach dem Erwerb seiner
@@ -3001,10 +3084,12 @@ Tochtergesellschaft halten.
 
 
 ##### § 57 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE005904119)
 
 
 
 ##### § 58 Unbedenklichkeitsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006007119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz bescheinigt
 dem unmittelbaren Erwerber auf Antrag die Unbedenklichkeit eines
@@ -3036,6 +3121,7 @@ Absatz 4 Satz 1 besteht.
 
 
 ##### § 58a Freigabe eines Erwerbs nach § 55
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011202119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz gibt den
 Erwerb frei, wenn dem Erwerb keine Bedenken im Hinblick auf die
@@ -3067,6 +3153,7 @@ nach Abschluss des schuldrechtlichen Rechtsgeschäfts anzuzeigen ist. §
 
 
 ##### § 59 Untersagung oder Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006106119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann einen
 Erwerb im Sinne des § 55 bis zum Ablauf der in § 14a Absatz 1 Nummer
@@ -3122,6 +3209,7 @@ Verpflichteten.
 
 
 ##### § 59a Ausnahmen von den Vollzugsbeschränkungen nach § 15 Absatz 3 des Außenwirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011701119)
 
 (1) § 15 Absatz 3 Satz 1 des Außenwirtschaftsgesetzes steht dem
 Vollzug solcher schuldrechtlichen Rechtsgeschäfte über den Erwerb
@@ -3165,9 +3253,11 @@ machen. Insbesondere kann angeordnet werden, dass
 
 
 #### Unterabschnitt 2 - Sektorspezifische Prüfung von Unternehmenserwerben
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002100000)
 
 
 ##### § 60 Anwendungsbereich der sektorspezifischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006207119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann prüfen,
 ob der Erwerb eines inländischen Unternehmens oder einer unmittelbaren
@@ -3319,6 +3409,7 @@ entsprechend.
 
 
 ##### § 60a Stimmrechtsanteile
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011001128)
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers
 an dem inländischen Unternehmen muss nach dem Erwerb seiner
@@ -3332,6 +3423,7 @@ abzustellen ist, entsprechend.
 
 
 ##### § 61 Freigabe eines Erwerbs nach § 60
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006306119)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz gibt den Erwerb
 gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 7 frei, wenn
@@ -3347,6 +3439,7 @@ mit der Maßgabe entsprechend, dass an die Stelle des § 55 Absatz 1 der
 
 
 ##### § 62 Untersagung oder Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006406119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann
 gegenüber dem Meldepflichtigen bis zum Ablauf der in § 14a Absatz 1
@@ -3360,9 +3453,11 @@ Sicherheitsinteressen der Bundesrepublik Deutschland zu gewährleisten.
 
 
 #### Unterabschnitt 3 - Verfahrensübergreifende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002102311)
 
 
 ##### § 62a Verfahrenswechsel im Prüfverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011302119)
 
 Sofern sich in einem Prüfverfahren nach § 55 Absatz 1 oder nach § 60
 Absatz 1 Satz 1 herausstellt, dass die Voraussetzungen für eine
@@ -3378,12 +3473,15 @@ dem inländischen Unternehmen unverzüglich bekannt zu geben.
 
 
 ## Kapitel 7 - Meldevorschriften im Kapital- und Zahlungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002200000)
 
 
 ### Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002300000)
 
 
 #### § 63 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006501128)
 
 Für Zwecke der Meldungen nach diesem Kapitel ist
 
@@ -3410,9 +3508,11 @@ Für Zwecke der Meldungen nach diesem Kapitel ist
 
 
 ### Abschnitt 2 - Meldevorschriften im Kapitalverkehr
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002400000)
 
 
 #### § 64 Meldung von Vermögen von Inländern im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006601128)
 
 (1) Der Meldepflichtige nach Absatz 6 hat der Deutschen Bundesbank in
 der Frist des § 71 Absatz 1 den Stand und ausgewählte Positionen der
@@ -3494,6 +3594,7 @@ zuzurechnen ist.
 
 
 #### § 65 Meldung von Vermögen von Ausländern im Inland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006701128)
 
 (1) Der Meldepflichtige nach Absatz 6 hat der Deutschen Bundesbank in
 der Frist des § 71 Absatz 2 den Stand und ausgewählte Positionen der
@@ -3610,6 +3711,7 @@ die Angaben gemäß Anlage 3 enthalten sein müssen.
 
 
 #### § 66 Meldungen von Forderungen und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006802128)
 
 (1) Inländer haben ihre Forderungen und Verbindlichkeiten gegenüber
 Ausländern der Deutschen Bundesbank gemäß Absatz 3 innerhalb der Frist
@@ -3655,9 +3757,11 @@ anzuzeigen.
 
 
 ### Abschnitt 3 - Meldung von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002500000)
 
 
 #### § 67 Meldung von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE006901128)
 
 (1) Inländer haben der Deutschen Bundesbank in den Fristen des § 71
 Absatz 6 Zahlungen gemäß Absatz 4 zu melden, die sie
@@ -3730,10 +3834,12 @@ der Frist des § 71 Absatz 6 zu melden.
 
 
 #### (XXXX) §§ 68 und 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007001128)
 
 
 
 #### § 70 Meldungen der Geldinstitute
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007202128)
 
 (1) Inländische Geldinstitute haben der Deutschen Bundesbank in der
 Frist des § 71 Absatz 6 zu melden:
@@ -3791,9 +3897,11 @@ anzuwenden.
 
 
 ### Abschnitt 4 - Meldefristen, Meldestellen und Ausnahmen von der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002600000)
 
 
 #### § 71 Meldefristen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007301128)
 
 (1) Meldungen gemäß § 64 nach Anlage 2 sind einmal jährlich spätestens
 bis zum letzten Werktag des sechsten auf den Bilanzstichtag des
@@ -3828,6 +3936,7 @@ sind bis zum siebten Werktag des folgenden Monats einzureichen.
 
 
 #### § 72 Meldestelle und Einreichungsweg
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007402119)
 
 (1) Die Meldungen nach den §§ 64 bis 70 sind der Deutschen Bundesbank
 elektronisch einzureichen. Soweit die vorliegende Verordnung keine
@@ -3844,6 +3953,7 @@ und die erlassenen Formvorschriften beachtet werden.
 
 
 #### § 73 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007500000)
 
 Die Deutsche Bundesbank kann
 
@@ -3862,12 +3972,15 @@ Meldevorschriften nicht beeinträchtigt wird.
 
 
 ## Kapitel 8 - Beschränkungen gegen bestimmte Länder und Personen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002700000)
 
 
 ### Abschnitt 1 - Ausfuhr-, Handels- und Vermittlungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002800000)
 
 
 #### § 74 Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007609119)
 
 (1) Verboten sind der Verkauf, die Ausfuhr und die Durchfuhr von in
 Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus
@@ -3997,6 +4110,7 @@ Organisationen oder Einrichtungen, die aufgeführt sind
 
 
 #### § 75 Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007704124)
 
 (1) Verboten sind Handels- und Vermittlungsgeschäfte in Bezug auf in
 Teil I Abschnitt A der Ausfuhrliste erfasste Güter, welche unmittelbar
@@ -4096,6 +4210,7 @@ in folgenden Ländern bestimmt sind:
 
 
 #### § 76 Ausnahmen von § 74 Absatz 1 und § 75
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007812119)
 
 (1) Abweichend von § 74 Absatz 1 und § 75 können der Verkauf, die
 Ausfuhr, die Durchfuhr oder Handels- und Vermittlungsgeschäfte unter
@@ -4591,6 +4706,7 @@ für jeden einzelnen Start oder Satellit nicht überschreiten.
 
 
 #### § 76a Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE010900118)
 
 Abweichend von § 74 Absatz 1 und § 75 können genehmigt werden:
 
@@ -4621,9 +4737,11 @@ Abweichend von § 74 Absatz 1 und § 75 können genehmigt werden:
 
 
 ### Abschnitt 2 - Einfuhr- und Verbringungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG002900000)
 
 
 #### § 77 Einfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus bestimmten Ländern
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE007908116)
 
 (1) Verboten sind die Einfuhr und der Erwerb von in Teil I Abschnitt A
 der Ausfuhrliste erfassten Gütern aus den folgenden Ländern,
@@ -4705,9 +4823,11 @@ Ausfuhrkontrolle (BAFA).
 
 
 ### Abschnitt 3 - Besondere Genehmigungserfordernisse
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003000000)
 
 
 #### § 78 Genehmigungserfordernisse für die Ausfuhr bestimmter Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008001360)
 
 Die Ausfuhr von Ausrüstung für die Herstellung von Banknoten,
 Wertzeichen, Banknoten- oder Wertzeichenspezialpapieren bedarf der
@@ -4716,20 +4836,25 @@ Korea ist.
 
 
 ### Abschnitt 4 - Auslandstaten Deutscher
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003100000)
 
 
 #### § 79 Beschränkungen nach § 5 Absatz 5 des Außenwirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008100000)
 
 Die §§ 74 bis 77 gelten auch für Deutsche im Ausland.
 
 
 ## Kapitel 9 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003200000)
 
 
 ### Abschnitt 1 - Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003300000)
 
 
 #### § 80 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008201311)
 
 (1) Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes
 wird bestraft, wer vorsätzlich oder leichtfertig
@@ -4764,9 +4889,11 @@ bestraft, wer
 
 
 ### Abschnitt 2 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003400000)
 
 
 #### § 81 Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008308128)
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 3 Nummer 1 Buchstabe a des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -4904,6 +5031,7 @@ Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 #### § 82 Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008416129)
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des
 Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -5520,9 +5648,11 @@ Transaktion tätigt.
 
 
 ## Kapitel 10 - Übergangsbestimmungen, Evaluierung und Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNG003501128)
 
 
 ### § 82a Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011400128)
 
 Die §§ 55 bis 62a in der ab dem 1. Mai 2021 geltenden Fassung sind
 erstmals auf schuldrechtliche Rechtsgeschäfte über den Erwerb eines
@@ -5533,6 +5663,7 @@ Veröffentlichung der Entscheidung zur Abgabe des Angebots maßgeblich.
 
 
 ### § 82b Evaluierung der Änderungen der §§ 55 bis 62a durch die Fünfzehnte, Sechzehnte und Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE011501119)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz bewertet unter
 Beteiligung des Auswärtigen Amts, des Bundesministeriums der
@@ -5556,6 +5687,7 @@ Juli 2020 (BGBl. I S. 1637).
 
 
 ### § 83 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008500000)
 
 Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur
 Modernisierung des Außenwirtschaftsrechts nach Artikel 4 Absatz 1 Satz
@@ -5566,6 +5698,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 
 ### Anlage 1 Anlage AL zur Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008614129)
 
 (Fundstelle: BGBl. 2025 I Nr. 261, S. 5 - 46)
 
@@ -11351,6 +11484,7 @@ sind.
 (zu § 64)
 
 ### Anlage 2 DIREKA1 Meldung von Vermögen von Inländern im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008802128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 17 - 19)
 
@@ -11634,6 +11768,7 @@ sind.
 (zu § 65)
 
 ### Anlage 3 DIREKA2 Meldung von Vermögen von Ausländern im Inland
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE008902128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 20 - 22)
 
@@ -11938,6 +12073,7 @@ sind.
 (zu § 66)
 
 ### Anlage 4 AUSWIB1 Bestandsmeldungen der Forderungen und Verbindlichkeiten im Außenwirtschaftsverkehr nach den §§ 66 ff. der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE009001128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 23 - 25)
 
@@ -12427,6 +12563,7 @@ sind.
 (zu den §§ 67 und § 70 Absatz 1 Nummer 2)
 
 ### Anlage 5 ZABILC1 Zahlungen für Dienstleistungen, Transit, Direktinvestitionen, Kapitalverkehr (einschließlich Wertpapier- und Zinserträge) im Außenwirtschaftsverkehr nach den §§ 67 ff. der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE009101128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 26)
 
@@ -12488,6 +12625,7 @@ sind.
 (zu den §§ 67 Absatz 4 und § 70 Absatz 1 Nummer 1)
 
 ### Anlage 6 ZABILC2 Zahlungen für Wertpapiergeschäfte, Finanzderivate im Außenwirtschaftsverkehr nach § 67 Abs. 4 und § 70 Abs. 1 Nr. 1 der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE009201128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 27)
 
@@ -12543,6 +12681,7 @@ sind.
 (zu § 70 Absatz 1 Nummer 3)
 
 ### Anlage 7 ZABILC3 Zahlungen für den Reiseverkehr (Karten-Umsätze) im Außenwirtschaftsverkehr nach § 70 Abs. 1 Nr. 3 der Außenwirtschaftsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE009301128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 28)
 
@@ -12583,6 +12722,7 @@ sind.
 (zu § 70 Absatz 1 Nummer 3)
 
 ### Anlage 8 Leistungsverzeichnis zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/awv_2013/BJNR286500013.html#BJNR286500013BJNE009401128)
 
 (Fundstelle: BGBl. 2024 I Nr. 411, S. 29 - 42)
 

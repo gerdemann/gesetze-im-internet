@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000100000)
 
 Auf Grund des § 558c Absatz 5 des Bürgerlichen Gesetzbuchs, der durch
 Artikel 1 Nummer 1 Buchstabe d des Gesetzes vom 10. August 2021 (BGBl.
@@ -25,9 +26,11 @@ I S. 3515) neu gefasst worden ist, verordnet die Bundesregierung:
 
 
 ## Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000100000)
 
 
 ### § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000300000)
 
 Gegenstand der Verordnung sind der Inhalt und das Verfahren zur
 Erstellung und Anpassung von Mietspiegeln im Sinne des § 558c Absatz 1
@@ -38,6 +41,7 @@ Mietspiegel sind (einfache Mietspiegel).
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000400000)
 
 (1) Wohnwertrelevante gesetzliche Merkmale sind die in § 558 Absatz 2
 Satz 1 des Bürgerlichen Gesetzbuchs genannten Merkmale Art, Größe,
@@ -61,15 +65,18 @@ Stichprobe der Auswertungsgrundgesamtheit zu generieren.
 
 
 ## Abschnitt 2 - Einfache Mietspiegel
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000200000)
 
 
 ### § 3 Erstellung und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000500000)
 
 Die Erstellung und Anpassung eines einfachen Mietspiegels ist
 vorbehaltlich der §§ 4 und 5 an kein Verfahren gebunden.
 
 
 ### § 4 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000600000)
 
 Die Erstellung und Anpassung eines einfachen Mietspiegels und die
 dafür verwendeten tatsächlichen Grundlagen sind in Grundzügen im
@@ -78,6 +85,7 @@ erläutern.
 
 
 ### § 5 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000700000)
 
 Ein einfacher Mietspiegel und seine Dokumentation sind kostenfrei im
 Internet zu veröffentlichen. Für ihre Ausgabe in gedruckter Form
@@ -85,9 +93,11 @@ können angemessene Entgelte verlangt werden.
 
 
 ## Abschnitt 3 - Qualifizierte Mietspiegel
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000300000)
 
 
 ### § 6 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000800000)
 
 (1) Das für qualifizierte Mietspiegel bestehende Erfordernis der
 Erstellung nach anerkannten wissenschaftlichen Grundsätzen (§ 558d
@@ -102,9 +112,11 @@ Mietspiegel.
 
 
 ### Unterabschnitt 1 - Erstellung des qualifizierten Mietspiegels
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000400000)
 
 
 #### § 7 Methoden
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE000900000)
 
 (1) Qualifizierte Mietspiegel können mittels Regressions- oder mittels
 Tabellenanalyse oder durch eine Kombination beider Methoden oder durch
@@ -118,6 +130,7 @@ durch eine vergleichbar geeignete Methode (Absatz 1) erstellt werden.
 
 
 #### § 8 Datengrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001000000)
 
 (1) Qualifizierte Mietspiegel müssen vorbehaltlich des Absatzes 3 auf
 der Grundlage einer direkten Datenerhebung durch Befragung von
@@ -152,6 +165,7 @@ darzustellen.
 
 
 #### § 9 Bruttostichprobe
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001100000)
 
 (1) Beim Ziehen einer Stichprobe von Wohnungen, hinsichtlich derer
 eine Primärdatenerhebung stattfinden soll (Bruttostichprobe), ist
@@ -190,6 +204,7 @@ wurden.
 
 
 #### § 10 Nettostichprobe
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001200000)
 
 (1) Die Nettostichprobe ist der Rücklauf aus der Befragung von
 Vermietern oder Mietern oder beider Gruppen. Die Nettostichprobe ist
@@ -206,6 +221,7 @@ der Nettostichprobe Verzerrungen der Ergebnisse möglich sind.
 
 
 #### § 11 Stichprobenumfang
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001300000)
 
 (1) Die bereinigte Nettostichprobe muss eine ausreichende Datenmenge
 enthalten.
@@ -226,6 +242,7 @@ der Dokumentation nachzuweisen.
 
 
 #### § 12 Datenaufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001400000)
 
 (1) Die erhobenen Mietwerte sollen so aufbereitet werden, dass eine
 einheitliche Ausweisung der ortsüblichen Vergleichsmiete im
@@ -249,6 +266,7 @@ wurden.
 
 
 #### § 13 Datenauswertung bei der Tabellenanalyse
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001500000)
 
 (1) Wird die ortsübliche Vergleichsmiete mithilfe der Tabellenanalyse
 ermittelt, so sind Tabellenfelder durch Kombinationen
@@ -270,6 +288,7 @@ Wohnungen waren.
 
 
 #### § 14 Datenauswertung bei der Regressionsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001600000)
 
 (1) Wird die ortsübliche Vergleichsmiete nach der Regressionsanalyse
 ermittelt, so sind wohnwertrelevante gesetzliche Merkmale daraufhin zu
@@ -304,6 +323,7 @@ eine Modellvalidierung erfolgte und zu welchem Ergebnis sie führte.
 
 
 #### § 15 Bestimmung und Darstellung der ortsüblichen Vergleichsmiete bei der Tabellenanalyse
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001700000)
 
 (1) In einem nach der Tabellenanalyse erstellten qualifizierten
 Mietspiegel wird die ortsübliche Vergleichsmiete in den
@@ -346,6 +366,7 @@ wurden.
 
 
 #### § 16 Bestimmung und Darstellung der ortsüblichen Vergleichsmiete bei der Regressionsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001800000)
 
 (1) Die ortsübliche Vergleichsmiete in einem mittels
 Regressionsanalyse erstellten qualifizierten Mietspiegel wird im
@@ -376,9 +397,11 @@ etwaige Bildung von Spannen ist darzustellen und zu erläutern.
 
 
 ### Unterabschnitt 2 - Inhalt des qualifizierten Mietspiegels
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000500000)
 
 
 #### § 17 Art der Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE001900000)
 
 (1) Der qualifizierte Mietspiegel soll in der Regel Wohnungen in
 Mehrfamilienhäusern mit mehr als zwei Wohnungen erfassen. Andere
@@ -392,6 +415,7 @@ Wohnungsarten von ihm erfasst sind.
 
 
 #### § 18 Größe, Beschaffenheit und Ausstattung der Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002000000)
 
 Im qualifizierten Mietspiegel soll dargestellt sein, welche Auswirkung
 die Größe sowie die Beschaffenheit und die Ausstattung der Wohnung,
@@ -403,6 +427,7 @@ zurückgegriffen werden, sofern keine Mehrfachberücksichtigung erfolgt.
 
 
 #### § 19 Wohnlagen
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002100000)
 
 (1) Unterschiedliche Wohnlagen müssen im qualifizierten Mietspiegel
 nur insoweit gesondert ausgewiesen werden, als eine sachgerechte
@@ -454,9 +479,11 @@ erläutern.
 
 
 ### Unterabschnitt 3 - Dokumentation und Veröffentlichung des qualifizierten Mietspiegels
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000600000)
 
 
 #### § 20 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002200000)
 
 (1) Angaben, die für die Anwendung des qualifizierten Mietspiegels
 notwendig sind, einschließlich des Stichtags, zu dem die Daten für den
@@ -485,6 +512,7 @@ Absatz 4, § 9 Absatz 4, § 10 Absatz 2, § 11 Absatz 4, § 12 Absatz 3, §
 
 
 #### § 21 Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002300000)
 
 (1) Der qualifizierte Mietspiegel und seine Dokumentation sind
 kostenfrei im Internet zu veröffentlichen. Für ihre Abgabe in
@@ -496,9 +524,11 @@ Erhebung bezieht, erfolgen.
 
 
 ### Unterabschnitt 4 - Anpassung des qualifizierten Mietspiegels
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000700000)
 
 
 #### § 22 Anpassung mittels Index
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002400000)
 
 Erfolgt die Anpassung des qualifizierten Mietspiegels unter
 Zugrundelegung der Entwicklung des vom Statistischen Bundesamt
@@ -507,6 +537,7 @@ Haushalte in Deutschland, so gelten die §§ 20 und 21 entsprechend.
 
 
 #### § 23 Anpassung mittels Stichprobe
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002500000)
 
 (1) Bei der Anpassung eines qualifizierten Mietspiegels mittels
 Stichprobe können vereinfachende, mit der Fortschreibung auf der
@@ -523,14 +554,17 @@ darzulegen und zu begründen.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNG000800000)
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002600000)
 
 Diese Verordnung tritt am 1. Juli 2022 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/msv/BJNR477900021.html#BJNR477900021BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## § 1 Errichtung und Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/dbustiftg/BJNR014480990.html#BJNR014480990BJNE000100328)
 
 Der Bund wird unter dem Namen "Deutsche Bundesstiftung Umwelt" eine
 rechtsfähige Stiftung des bürgerlichen Rechts errichten.
 
 
 ## § 2 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/dbustiftg/BJNR014480990.html#BJNR014480990BJNE000201116)
 
 (1) Aufgabe der Stiftung soll es sein, Vorhaben zum Schutz der Umwelt
 unter besonderer Berücksichtigung der mittelständischen Wirtschaft zu
@@ -61,18 +63,21 @@ fördern:
 
 
 ## § 3 Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/dbustiftg/BJNR014480990.html#BJNR014480990BJNE000300328)
 
 Die Haushalts- und Wirtschaftsführung der Stiftung unterliegt der
 Prüfung durch den Bundesrechnungshof.
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/dbustiftg/BJNR014480990.html#BJNR014480990BJNE000400328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbustiftg/BJNR014480990.html#BJNR014480990BJNE000500328)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000101308)
 
 Auf Grund des § 368 o Abs. 4 Satz 3 der Reichsversicherungsordnung in
 der Fassung des Gesetzes über Änderungen von Vorschriften des Zweiten
@@ -32,6 +33,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000204308)
 
 Die Amtsdauer der Mitglieder der Landesausschüsse der Ärzte, Zahnärzte
 und Krankenkassen beträgt vier Jahre. Die Amtsdauer der Mitglieder des
@@ -42,11 +44,13 @@ Amtsperiode aus.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000301308)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000402308)
 
 (1) Die Vorsitzenden und die weiteren unparteiischen Mitglieder sowie
 ihre Stellvertreter können aus wichtigem Grund von der für die
@@ -60,6 +64,7 @@ erfolgen. Sie ist dem Vorsitzenden des Ausschusses mitzuteilen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000503308)
 
 Die Niederlegung des Amtes ist dem Vorsitzenden des Ausschusses
 gegenüber zu erklären; dieser benachrichtigt die für die Bestellung
@@ -73,6 +78,7 @@ Bundesministerium für Gesundheit hierüber in Kenntnis.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000601308)
 
 Die Mitglieder der Ausschüsse sind verpflichtet, an den Sitzungen
 teilzunehmen oder bei Verhinderung ihre Stellvertreter zu
@@ -80,6 +86,7 @@ benachrichtigen. Dies gilt sinngemäß für die Stellvertreter.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000702308)
 
 Die von den Trägerorganisationen bestellten Mitglieder der Ausschüsse
 oder ihre Stellvertreter haben Anspruch auf Erstattung ihrer baren
@@ -90,6 +97,7 @@ Trägerorganisation.
 
 
 ## § 7 Reisekosten für Mitglieder des Gemeinsamen Bundesausschusses
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000802308)
 
 Der Vorsitzende und die weiteren unparteiischen Mitglieder des
 Gemeinsamen Bundesausschusses erhalten Reisekostenvergütung nach den
@@ -98,6 +106,7 @@ gegen den Gemeinsamen Bundesausschuss.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE000902308)
 
 Die Vorsitzenden und die weiteren unparteiischen Mitglieder der
 Landesausschüsse oder ihre Stellvertreter erhalten Reisekosten nach
@@ -109,6 +118,7 @@ gegen welche Vereinigung sich der Anspruch richtet.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001003308)
 
 Die Vorsitzenden und die weiteren unparteiischen Mitglieder der
 Ausschüsse oder ihre Stellvertreter erhalten, soweit sie nicht
@@ -121,6 +131,7 @@ entsprechend.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001104124)
 
 Die Vorsitzenden und die weiteren unparteiischen Mitglieder der
 Ausschüsse erhalten, soweit sie nicht hauptamtlich tätig sind, eine
@@ -136,6 +147,7 @@ und 3 gelten entsprechend.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001203308)
 
 (1) Die Trägerorganisationen tragen die Kosten für die von ihnen
 bestellten Vertreter selbst.
@@ -153,6 +165,7 @@ beteiligt sind.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001301308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 3
@@ -160,11 +173,13 @@ des Gesetzes über Kassenarztrecht auch im Land Berlin.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001401308)
 
 Diese Verordnung tritt mit Wirkung vom 1. September 1955 in Kraft. ...
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rvo_368oabs4v/BJNR008610956.html#BJNR008610956BJNE001501308)
 
 Der Bundesminister für Arbeit
 

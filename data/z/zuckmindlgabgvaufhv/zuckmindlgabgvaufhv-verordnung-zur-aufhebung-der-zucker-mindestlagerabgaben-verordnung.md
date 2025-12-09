@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zuckmindlgabgvaufhv/BJNR288910002.html#BJNR288910002BJNE000100310)
 
 Die Zucker-Mindestlagerabgaben-Verordnung vom 7. Juli 1977 (BGBl. I S.
 1320), geändert durch Artikel 1 der Verordnung vom 22. Dezember 1992
@@ -25,6 +26,7 @@ Die Zucker-Mindestlagerabgaben-Verordnung vom 7. Juli 1977 (BGBl. I S.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zuckmindlgabgvaufhv/BJNR288910002.html#BJNR288910002BJNE000200310)
 
 Auf Sachverhalte, die vor dem 31. Juli 2002 entstanden sind, ist die
 in § 1 genannte Verordnung weiter anzuwenden.

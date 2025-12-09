@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Errichtung, Sitz, Außenstellen
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000100000)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird das
 Informationstechnikzentrum Bund in eine bundesunmittelbare
@@ -30,6 +31,7 @@ als Hauptstellen oder Nebenstellen einrichten.
 
 
 ## § 2 Aufgaben und Leistungen der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000200000)
 
 (1) Die Bundesanstalt hat die Aufgabe, IT-Leistungen für Behörden und
 Organisationen des Bundes bereitzustellen und deren
@@ -75,6 +77,7 @@ standardisierter Prozesse.
 
 
 ## § 3 Organe der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000300000)
 
 (1) Organe der Bundesanstalt sind das Direktorium und der
 Verwaltungsrat.
@@ -84,6 +87,7 @@ sie nicht durch dieses Gesetz geregelt sind.
 
 
 ## § 4 Direktorium der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000400000)
 
 (1) Das Direktorium verantwortet das operative Geschäft. Es
 unterrichtet den Verwaltungsrat über den Stand der Geschäftsführung.
@@ -125,6 +129,7 @@ und für Berufssoldatinnen und Berufssoldaten entsprechend.
 
 
 ## § 5 Verwaltungsrat der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000500000)
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er
 entscheidet über die strategische Ausrichtung der Bundesanstalt. Das
@@ -169,6 +174,7 @@ eine Geschäftsstelle eingerichtet.
 
 
 ## § 6 Kundenbeirat der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000600000)
 
 Zur Vertretung der Kundeninteressen wird in der Bundesanstalt der
 bereits in der Behörde eingerichtete Kundenbeirat fortgeführt. Der
@@ -176,6 +182,7 @@ Kundenbeirat kann sich eine Geschäftsordnung geben.
 
 
 ## § 7 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000700000)
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch
 den Verwaltungsrat erlassen. Sie bedarf der Genehmigung des
@@ -200,6 +207,7 @@ veröffentlicht.
 
 
 ## § 8 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000800000)
 
 (1) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen. Die fachliche Zuständigkeit für die
@@ -213,6 +221,7 @@ aus.
 
 
 ## § 9 Anwendung des Haushaltsrechts, Finanzierung und Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE000900000)
 
 (1) Das Haushaltsrecht gilt uneingeschränkt.
 
@@ -232,6 +241,7 @@ Bundesministerium der Finanzen.
 
 
 ## § 10 Tätigkeit der Bundesanstalt im Steuerbereich, Auftragsverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE001000000)
 
 (1) Soweit die Bundesanstalt für andere Bundesfinanzbehörden
 
@@ -320,6 +330,7 @@ bedienen.
 
 
 ## § 11 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/itzbundg/BJNR275610020.html#BJNR275610020BJNE001100000)
 
 Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel mit
 der Umschrift „Informationstechnikzentrum Bund – ITZBund“.

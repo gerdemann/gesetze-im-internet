@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 934-1 v. 8.9.1938 II 663 (EVO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Satz 1 Nummer 1a und 1b in Verbindung mit
 Absatz 3 Satz 2 des Allgemeinen Eisenbahngesetzes vom 27. Dezember
@@ -29,6 +30,7 @@ Justiz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000300000)
 
 Auf die Beförderung von Personen und Reisegepäck durch
 Eisenbahnverkehrsunternehmen sind die Vorschriften dieser Verordnung
@@ -51,6 +53,7 @@ inhaltsgleiche oder entgegenstehende Regelungen enthalten.
 
 
 ## § 2 Anwendung der Verordnung (EU) 2021/782 für den Schienenpersonennahverkehr und für den Schienenpersonenverkehr zu historischen oder touristischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000400000)
 
 (1) Auf die Beförderungen im Schienenpersonennahverkehr sind Artikel
 20 Absatz 2 Buchstabe a, Artikel 29 und Artikel 30 Absatz 1 Satz 1 der
@@ -66,9 +69,11 @@ der Verordnung (EU) 2021/782 anzuwenden.
 
 
 ## Abschnitt 1 - Beförderung von Personen und ihrem Gepäck
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNG000100000)
 
 
 ### § 3 Abweichungen in den Beförderungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000500000)
 
 (1) Ein Eisenbahnverkehrsunternehmen kann in seinen
 Beförderungsbedingungen von jeder Bestimmung dieser Verordnung
@@ -99,6 +104,7 @@ ermäßigtes Beförderungsentgelt im Sinne des Absatzes 2.
 
 
 ### § 4 Sonderabmachungen
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000600000)
 
 (1) Ein Eisenbahnverkehrsunternehmen kann ohne Bindung an die Tarife
 Entgelte und Bedingungen vereinbaren (Sonderabmachungen) mit
@@ -149,6 +155,7 @@ Beförderung nach dem Tarif.
 
 
 ### § 5 Ausschluss von der Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000700000)
 
 (1) In Ergänzung zu Anhang I Artikel 9 Absatz 2 der Verordnung (EU)
 2021/782 können Kinder von der Beförderung ausgeschlossen werden,
@@ -186,6 +193,7 @@ Gepäckfracht.
 
 
 ### § 6 Erhöhtes Beförderungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000800000)
 
 (1) Ein Reisender ist zur Zahlung eines erhöhten Beförderungsentgelts
 verpflichtet, wenn er
@@ -231,6 +239,7 @@ erwerben konnte, weil am Abfahrtsbahnhof oder Abfahrtshaltepunkt
 
 
 ### § 7 Entwertung von Fahrausweisen durch den Reisenden
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE000900000)
 
 Ein Reisender ist verpflichtet, Fahrausweise und sonstige Karten,
 insbesondere Zuschlagskarten, Übergangskarten, Umwegkarten,
@@ -241,6 +250,7 @@ Betreten des Zuges vorschreibt.
 
 
 ### § 8 Nachzahlung oder Erstattung bei falscher Höhe des Beförderungsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001000000)
 
 (1) Ist das Beförderungsentgelt eines Fahrausweises falsch erhoben
 worden, so muss der Unterschied zum richtigen Beförderungsentgelt
@@ -261,6 +271,7 @@ Fahrausweises geltend gemacht wird.
 
 
 ### § 9 Erstattung des Beförderungsentgelts bei Nichtnutzung des Fahrausweises
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001100000)
 
 (1) Hat ein Reisender den Fahrausweis nicht zur Fahrt benutzt, so kann
 er das Beförderungsentgelt zurückverlangen. Ist der Fahrausweis nur
@@ -289,6 +300,7 @@ gemacht werden.
 
 
 ### § 10 Informationen über Fahrgastrechte bei Fahrt im Schienenpersonennahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001200000)
 
 (1) Beim Verkauf eines Fahrausweises für eine Zugfahrt, die
 ausschließlich im Schienenpersonennahverkehr durchgeführt wird, müssen
@@ -305,6 +317,7 @@ verfügbar und zugänglich sein.
 
 
 ### § 11 Zusätzliche Rechte bei Verspätung im Schienenpersonennahverkehr
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001300000)
 
 (1) Besitzt ein Reisender einen Fahrausweis, der ausschließlich für
 den öffentlichen Personennahverkehr gilt, so hat er, sofern
@@ -367,9 +380,11 @@ ausgeschlossen werden,
 
 
 ## Abschnitt 2 - Aufbewahrung von Reise- und Handgepäck
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNG000200000)
 
 
 ### § 12 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001400000)
 
 (1) Die Bedingungen für die Aufbewahrung von Reisegepäck und
 Handgepäck (Gepäck) sind im Tarif zu regeln. Die Entgelte sowie die
@@ -388,6 +403,7 @@ mangelhaften Zustand an.
 
 
 ### § 13 Abholung des Gepäcks, Verkauf von nicht abgeholtem Gepäck
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001500000)
 
 (1) Die hinterlegten Gegenstände können jederzeit innerhalb der für
 die Annahme und Auslieferung von Gepäck bestimmten Zeiten gegen
@@ -413,6 +429,7 @@ benachrichtigen.
 
 
 ### § 14 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001600000)
 
 (1) Die aufbewahrende Eisenbahn haftet für Reise- und Handgepäck, das
 sie zur Aufbewahrung annimmt, als Verwahrer.
@@ -430,9 +447,11 @@ Unternehmens für die Vermietung von Schließfächern.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNG000300000)
 
 
 ### § 15 Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001700000)
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung durch
 Eisenbahnverkehrsunternehmen kann ein Reisender eine geeignete
@@ -445,6 +464,7 @@ Verbraucherschlichtungsstellen mitzuteilen.
 
 
 ### § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Eisenbahn-Verkehrsordnung in der Fassung der
@@ -454,6 +474,7 @@ geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/evo_2023/BJNR0D00A0023.html#BJNR0D00A0023BJNE001900000)
 
 Der Bundesrat hat zugestimmt.
 

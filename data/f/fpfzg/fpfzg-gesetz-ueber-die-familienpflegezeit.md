@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000100000)
 
 Durch die Einführung der Familienpflegezeit werden die Möglichkeiten
 zur Vereinbarkeit von Beruf und familiärer Pflege verbessert.
 
 
 ## § 2 Familienpflegezeit
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000201119)
 
 (1) Beschäftigte sind von der Arbeitsleistung für längstens 24 Monate
 (Höchstdauer) teilweise freizustellen, wenn sie einen
@@ -60,6 +62,7 @@ Absatz 1 geltend machen.
 
 
 ## § 2a Inanspruchnahme der Familienpflegezeit
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001602126)
 
 (1) Wer Familienpflegezeit nach § 2 beanspruchen will, muss dies dem
 Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn in
@@ -128,6 +131,7 @@ der Arbeitsleistung nach § 2 Absatz 5.
 
 
 ## § 2b Erneute Familienpflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE002000126)
 
 (1) Abweichend von § 2a Absatz 3 können Beschäftigte einmalig nach
 einer beendeten Familienpflegezeit zur Pflege und Betreuung desselben
@@ -155,6 +159,7 @@ Absatz 2 von 24 Monaten ab Beginn der ersten Freistellung nicht
 
 
 ## § 3 Förderung der pflegebedingten Freistellung von der Arbeitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000311126)
 
 (1) Für die Dauer der Freistellungen nach § 2 dieses Gesetzes oder
 nach § 3 des Pflegezeitgesetzes gewährt das Bundesamt für Familie und
@@ -217,6 +222,7 @@ sind die Zuflüsse aus dem Darlehen als Einkommen zu berücksichtigen.
 
 
 ## § 4 Mitwirkungspflicht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000401119)
 
 Der Arbeitgeber hat dem Bundesamt für Familie und
 zivilgesellschaftliche Aufgaben für bei ihm Beschäftigte den
@@ -229,6 +235,7 @@ Arbeitgebers der Auftraggeber oder Zwischenmeister.
 
 
 ## § 5 Ende der Förderfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000501119)
 
 (1) Die Förderfähigkeit endet mit dem Ende der Freistellung nach § 3
 Absatz 1. Die Förderfähigkeit endet auch dann, wenn die oder der
@@ -254,6 +261,7 @@ anderen als den in Absatz 1 Satz 2 genannten Gründen.
 
 
 ## § 6 Rückzahlung des Darlehens
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000601119)
 
 (1) Im Anschluss an die Freistellung nach § 3 Absatz 1 ist die
 Darlehensnehmerin oder der Darlehensnehmer verpflichtet, das Darlehen
@@ -281,6 +289,7 @@ Rückzahlungszeitraum verlängert sich um den Zeitraum der Aussetzung.
 
 
 ## § 7 Härtefallregelung
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000701119)
 
 (1) Zur Vermeidung einer besonderen Härte stundet das Bundesamt für
 Familie und zivilgesellschaftliche Aufgaben der Darlehensnehmerin oder
@@ -330,6 +339,7 @@ der Bundeshaushaltsordnung.
 
 
 ## § 8 Antrag auf Förderung
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000801119)
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 entscheidet auf schriftlichen Antrag über das Darlehen nach § 3 und
@@ -381,6 +391,7 @@ Monats der Antragstellung.
 
 
 ## § 9 Darlehensbescheid und Zahlweise
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE000901119)
 
 (1) In dem Bescheid nach § 8 Absatz 1 sind anzugeben:
 
@@ -416,6 +427,7 @@ aufzurunden.
 
 
 ## § 10 Antrag und Nachweis in weiteren Fällen
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001002126)
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 entscheidet auch in den Fällen des § 7 auf schriftlichen oder
@@ -452,6 +464,7 @@ stellen.
 
 
 ## § 11 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001301119)
 
 Zur Durchführung des Verfahrens nach den §§ 8 und 10 kann das
 Bundesministerium für Familie, Senioren, Frauen und Jugend allgemeine
@@ -459,6 +472,7 @@ Verwaltungsvorschriften erlassen.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001401119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -493,12 +507,14 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ## § 13 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001501119)
 
 Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt der
 Bund.
 
 
 ## § 14 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001700119)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 setzt einen unabhängigen Beirat für die Vereinbarkeit von Pflege und
@@ -550,6 +566,7 @@ erlassenden Geschäftsordnung.
 
 
 ## § 15 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE001800119)
 
 Die Vorschriften des Familienpflegezeitgesetzes in der Fassung vom 6.
 Dezember 2011 gelten in den Fällen fort, in denen die Voraussetzungen
@@ -558,5 +575,6 @@ für die Gewährung eines Darlehens nach § 3 Absatz 1 in Verbindung mit
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fpfzg/BJNR256410011.html#BJNR256410011BJNE002119126)
 
 

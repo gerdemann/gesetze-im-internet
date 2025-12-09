@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000100000)
 
 Auf Grund des § 36 Absatz 11 Satz 1 und 4 des Kapitalanlagegesetzbuchs
 vom 4. Juli 2013 (BGBl.  I S. 1981) in Verbindung mit § 1 Nummer 3a
@@ -31,12 +32,14 @@ Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000200000)
 
 Diese Verordnung gilt für Anzeigen nach § 36 Absatz 2 und Absatz 6
 Satz 1 Nummer 2 und Satz 2 des Kapitalanlagegesetzbuchs.
 
 
 ## § 2 Einreichungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000300000)
 
 (1) Die Auslagerungsanzeigen nach § 36 Absatz 2 und Absatz 6 Satz 1
 Nummer 2 und Satz 2 des Kapitalanlagegesetzbuchs und die
@@ -60,12 +63,14 @@ erst wirksam, wenn sie ihr zugeht.
 
 
 ## § 3 Datenformate
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000400000)
 
 Die Bundesanstalt veröffentlicht auf ihrer Internetseite die für eine
 elektronische Dateneinreichung jeweils zu verwendenden Datenformate.
 
 
 ## § 4 Unternehmenskennung
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000500000)
 
 (1) Bei der Übermittlung von Unterlagen haben sich die
 Kapitalverwaltungsgesellschaften gegenüber der Bundesanstalt durch
@@ -78,6 +83,7 @@ ihnen verwendet werden darf.
 
 
 ## § 5 Zurückweisung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000600000)
 
 (1) Die Bundesanstalt weist Datensätze zurück, die
 
@@ -97,6 +103,7 @@ Kommunikationsverfahren nach § 2 Absatz 2 abrufbar.
 
 
 ## § 6 Anzeigen nach § 36 Absatz 2 und Absatz 6 Satz 1 Nummer 2 und Satz 2 des Kapitalanlagegesetzbuchs (Auslagerung und Unterauslagerung)
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000700000)
 
 (1) Anzeigen nach § 36 Absatz 2, Absatz 6 Satz 1 Nummer 2 oder Absatz
 6 Satz 2 des Kapitalanlagegesetzbuchs über die Absicht einer
@@ -244,6 +251,7 @@ sind als Änderungsanzeigen zu kennzeichnen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kagbauslanzv/BJNR209100022.html#BJNR209100022BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000100000)
 
 Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der
 Gewerbeordnung, die durch Artikel 1 des Gesetzes vom 17. Juli 2009
@@ -32,6 +33,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000200000)
 
 (1) Diese Verordnung gilt für Personen, die Dienstleistungen
 erbringen, die in den Anwendungsbereich des Artikels 2 der Richtlinie
@@ -57,6 +59,7 @@ für Informationen nach Absatz 2.
 
 
 ## § 2 Stets zur Verfügung zu stellende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000301128)
 
 (1) Unbeschadet weiter gehender Anforderungen aus anderen
 Rechtsvorschriften muss ein Dienstleistungserbringer einem
@@ -148,6 +151,7 @@ Informationen wahlweise
 
 
 ## § 3 Auf Anfrage zur Verfügung zu stellende Informationen
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000400000)
 
 (1) Unbeschadet weiter gehender Anforderungen aus anderen
 Rechtsvorschriften muss der Dienstleistungserbringer dem
@@ -192,6 +196,7 @@ Informationsunterlagen über die Dienstleistung enthalten sind.
 
 
 ## § 4 Erforderliche Preisangaben
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000501128)
 
 (1) Der Dienstleistungserbringer muss dem Dienstleistungsempfänger vor
 Abschluss eines schriftlichen Vertrages oder, sofern kein
@@ -217,6 +222,7 @@ Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind.
 
 
 ## § 5 Verbot diskriminierender Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000600000)
 
 Der Dienstleistungserbringer darf keine Bedingungen für den Zugang zu
 einer Dienstleistung bekannt machen, die auf der Staatsangehörigkeit
@@ -227,6 +233,7 @@ objektive Kriterien gerechtfertigt sind.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000700000)
 
 Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 1 der Gewerbeordnung
 handelt, wer vorsätzlich oder fahrlässig
@@ -248,11 +255,13 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000800000)
 
 Diese Verordnung tritt zwei Monate nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dlinfov/BJNR026700010.html#BJNR026700010BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000100307)
 
 Das Land Brandenburg und das Land Sachsen-Anhalt schließen auf der
 Grundlage des Artikels 29 Absatz 7 des Grundgesetzes und des Gesetzes
@@ -29,6 +30,7 @@ Gemeindeverbände nachstehenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000200307)
 
 (1) Die Flurstücke 28/6, 28/10 und 49 der Flur 5 der Gemarkung
 Brandis, Gemeinde Brandis, Landkreis Herzberg, werden aus dem Land
@@ -41,6 +43,7 @@ dieses Vertrages.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000300307)
 
 Durch die Änderung der Grenze zwischen den vertragschließenden Ländern
 wird die Zuständigkeit eines Gerichts für die bei ihm anhängigen
@@ -53,6 +56,7 @@ Entscheidungen über die Strafvollstreckung).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000400307)
 
 Das in dem nach Artikel 1 abzutretenden Gebietsteil belegene
 Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht
@@ -63,6 +67,7 @@ Anhalt zuständige entsprechende Körperschaft des öffentlichen Rechts
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000500307)
 
 (1) Das Land Brandenburg sowie die betroffenen brandenburgischen
 kommunalen Körperschaften sind verpflichtet, innerhalb von drei
@@ -89,6 +94,7 @@ verlängern.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000600307)
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden unverzüglich ausgetauscht.
@@ -98,6 +104,7 @@ Ratifikationsurkunden folgt, in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000700307)
 
 Für das Land Brandenburg
 Der Ministerpräsident
@@ -111,6 +118,7 @@ des Landes Sachsen-Anhalt
 
 
 ## Anlage zum Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze vom 24.8.1993
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st/BJNR009000994.html#BJNR009000994BJNE000800307)
 
 (Fundstelle: BGBl. I 1994, 91)
 ![bgbl1_1994_j0091_0010.jpg](bgbl1_1994_j0091_0010.jpg)

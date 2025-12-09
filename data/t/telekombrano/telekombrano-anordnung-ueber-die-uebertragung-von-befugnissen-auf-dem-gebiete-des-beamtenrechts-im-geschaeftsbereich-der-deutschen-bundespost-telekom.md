@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/telekombrano/BJNR004380990.html#BJNR004380990BJNE000100308)
 
 
 1.  Wir übertragen

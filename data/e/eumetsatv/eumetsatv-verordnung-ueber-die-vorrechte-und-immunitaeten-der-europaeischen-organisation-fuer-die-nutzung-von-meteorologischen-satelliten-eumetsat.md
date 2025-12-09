@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000100308)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -30,6 +31,7 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000200308)
 
 Für die Gewährung von Vorrechten und Immunitäten an die Europäische
 Organisation für die Nutzung von meteorologischen Satelliten
@@ -42,6 +44,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000300308)
 
 Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die
 Inhaber eines Passes oder Personalausweises der Bundesrepublik
@@ -52,6 +55,7 @@ Vorrechte und Immunitäten.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000400308)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
@@ -60,6 +64,7 @@ S. 187) neu gefaßt wurde, auch im Land Berlin.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000500308)
 
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
@@ -71,6 +76,7 @@ Steuerfestsetzungen aufzuheben oder zu ändern.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000600308)
 
 Diese Verordnung tritt an dem Tage außer Kraft, an dem das Protokoll
 für die Bundesrepublik Deutschland außer Kraft tritt. Der Tag des
@@ -78,6 +84,7 @@ Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/eumetsatv/BJNR207010989.html#BJNR207010989BJNE000700308)
 
 Der Bundesrat hat zugestimmt.
 

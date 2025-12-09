@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000100328)
 
 Versicherungsunternehmen können wegen ihrer Verbindlichkeiten aus
 Lebens- und Rentenversicherungen, die nach den vor dem Inkrafttreten
@@ -32,6 +33,7 @@ in Anspruch genommen werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000200328)
 
 War der Versicherungsfall bis zum 21. Juni 1948 noch nicht
 eingetreten, so können Ansprüche aus der Versicherung nur geltend
@@ -66,6 +68,7 @@ bleibt unberührt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000300328)
 
 Ist der Versicherungsfall vor dem 21. Juni 1948 eingetreten, so können
 Ansprüche geltend gemacht werden, wenn
@@ -92,11 +95,13 @@ anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000400328)
 
 (gestrichen)
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000500328)
 
 (1) Bei ehelichen Gütergemeinschaften und Erbengemeinschaften gelten
 die Voraussetzungen des § 2 Satz 1 Buchstabe a und des § 3 Satz 1
@@ -114,6 +119,7 @@ Regierung der Bundesrepublik Deutschland anerkannt hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000600328)
 
 (1) Sind Verbindlichkeiten aus einem Versicherungsverhältnis mit einem
 im Geltungsbereich dieses Gesetzes zugelassenen
@@ -147,6 +153,7 @@ der Anschlußversicherung nicht mehr erhalten wird.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000701308)
 
 (1) Als zum inländischen Bestand eines Versicherungsunternehmens
 gehörig können nach §§ 2 und 3 Ansprüche aus solchen
@@ -175,6 +182,7 @@ Versicherungsverordnung unberührt.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000800328)
 
 Ansprüche aus einem Versicherungsverhältnis, das zu einem
 selbständigen ausländischen Bestand eines deutschen
@@ -197,12 +205,14 @@ b)  das Bundesaufsichtsamt für das Versicherungs- und Bausparwesen den
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE000900328)
 
 Die Bestimmungen der §§ 2, 3, 5 bis 8 gelten für Gruppenversicherungen
 sinngemäß.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001000328)
 
 (1) Soweit Versicherungsunternehmen wegen Verbindlichkeiten, die
 bisher in die Umstellungsrechnung nicht einzustellen waren, auf Grund
@@ -269,6 +279,7 @@ März 1963 sind nicht anzuwenden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001100328)
 
 (1) Die Geltendmachung von Leistungen aus Renten- und
 Pensionsversicherungsverhältnissen, wegen deren die
@@ -311,6 +322,7 @@ Ausgleichsforderungen bereits als am 1. Juli 1963 entstanden gelten.
 
 
 ## § 11a
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001200328)
 
 Für die Verbindlichkeiten von betrieblichen und überbetrieblichen
 Pensionskassen mit Zwangsbeitritt, die aus
@@ -320,6 +332,7 @@ anzuwenden.
 
 
 ## § 11b
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001300328)
 
 Soweit nach § 2 Satz 1 Buchstabe a und § 3 Satz 1 Buchstaben a und b
 bestimmte Voraussetzungen von dem Versicherungsnehmer erfüllt sein
@@ -337,6 +350,7 @@ auf die in § 11a bezeichneten Verbindlichkeiten nicht anzuwenden.
 
 
 ## § 11c
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001400328)
 
 (1) Ist das Arbeits- oder Dienstverhältnis des Versicherungsnehmers,
 das ihn zur Versicherung bei der Pensionskasse verpflichtete, infolge
@@ -374,6 +388,7 @@ worden ist.
 
 
 ## § 11d
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001500328)
 
 (1) Ist für das Fortbestehen der Rechte oder die Geltendmachung der
 Ansprüche aus dem Versicherungsverhältnis bis zum 31. Dezember 1957
@@ -404,6 +419,7 @@ sind.
 
 
 ## § 11e
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001600328)
 
 Ist, abgesehen von den Fällen des § 11c Abs. 2 Satz 2, die satzungs-
 oder bedingungsgemäß erforderliche Wartezeit nicht erfüllt, so kann
@@ -417,11 +433,13 @@ natürliche Person.
 
 
 ## § 11f
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001700328)
 
 (gestrichen)
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001800328)
 
 Ansprüche aus einem Versicherungsverhältnis, die nach den aus Anlaß
 der Neuordnung des Geldwesens erlassenen Vorschriften als erloschen
@@ -432,6 +450,7 @@ Ablauf von einem Jahr seit dem Inkrafttreten dieses Gesetzes. \*)
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE001900328)
 
 (1) Die Rechtskraft einer gerichtlichen Entscheidung, durch die eine
 Klage auf Grund der aus Anlaß der Neuordnung des Geldwesens erlassenen
@@ -446,12 +465,14 @@ gerichtlichen Auslagen. Die Gerichtsgebühren werden niedergeschlagen.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE002000328)
 
 Die in § 12 bezeichneten Ansprüche werden nicht vor Ablauf von sechs
 Monaten nach Inkrafttreten dieses Gesetzes fällig.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE002100328)
 
 § 9 der Ersten Verordnung (Anordnung) über die Lebens- und
 Rentenversicherung aus Anlaß der Neuordnung des Geldwesens vom 5. Juli
@@ -463,6 +484,7 @@ aufgehoben.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE002200328)
 
 Dieses Gesetz gilt gemäß § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) mit folgenden Maßgaben
@@ -494,6 +516,7 @@ eingehalten zu werden.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE002300328)
 
 Ein Unternehmen mit Sitz in Berlin hat nur dann seinen Sitz im
 Geltungsbereich dieses Gesetzes, wenn sich auch die Geschäftsleitung
@@ -501,6 +524,7 @@ im Geltungsbereich dieses Gesetzes befindet.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE002400328)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft \*).
 
@@ -508,6 +532,7 @@ Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt II
 (BGBl. II 1990, 889, 959)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg/BJNR004740955.html#BJNR004740955BJNE888800309)
 
 Abschnitt II
 Bundesrecht wird wie folgt geändert und ergänzt:

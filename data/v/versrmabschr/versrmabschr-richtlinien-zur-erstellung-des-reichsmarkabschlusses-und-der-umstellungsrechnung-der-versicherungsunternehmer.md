@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002300328)
 
 Auf Grund des § 15 der 23. Verordnung zur Durchführung des
 Umstellungsgesetzes (Umstellungsrechnung der Versicherungsunternehmen)
@@ -29,18 +30,22 @@ Versicherungsunternehmen erlassen.
 
 
 ## Teil A - Für alle Versicherungszweige (RVA)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000100328)
 
 
 
 ### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000200328)
 
 
 
 #### (XXXX) 1. bis 6. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002400328)
 
 
 
 #### 6a. Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002500328)
 
 Soweit nicht in diesen Richtlinien für besondere Fälle etwas anderes
 vorgeschrieben ist, gelten für den Ansatz von Aktiven und Passiven in
@@ -192,6 +197,7 @@ Passiven
 
 
 #### 6b. Grundstücke, Inventar, Warenvorräte
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002600328)
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und
 Geschäftsausstattungen, Maschinen und maschinelle Anlagen sowie für
@@ -215,6 +221,7 @@ Umstellungsrechnung ergeben.
 
 
 #### 6c. Kriegssachschäden
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002700328)
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz
 bis zu einem Betrage angesetzt werden, der zusammen mit dem Restwert
@@ -234,6 +241,7 @@ Buchstabe A.
 
 
 #### 6d. Zinsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002800328)
 
 Zinsansprüche für die Zeit bis zum 20. Juni 1948 dürfen mit der sich
 aus Ziffer 6a Buchstabe A Nr. 5 ergebenden Einschränkung in der
@@ -248,6 +256,7 @@ Schuldbuchforderungen.
 
 
 #### 6e. Anleiheablösungsforderungen mit Auslösungsrechten und Reichsschatzanweisungen 1944, Folge III
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE002900328)
 
 (1) Für die Bewertung von Reichsanleiheablösungsforderungen mit
 Auslosungsrecht in der Reichsmarkschlußbilanz gelten folgende
@@ -294,6 +303,7 @@ die Zeit vom Anschaffungsstichtag bis zum 8. Mai 1945 erhöht werden.
 
 
 #### 6f. Zuführung zum früheren Eigenkapital
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003000328)
 
 Wird für die Zeit vor dem 21. Juni 1948 die Veranlagung eines
 Versicherungsunternehmens zur Körperschaftsteuer im
@@ -319,6 +329,7 @@ mitberücksichtigt sind.
 
 
 #### 6g. Bilanztechnische Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003100328)
 
 Erhöhungen bisheriger Wertansätze der Aktivseite und Verminderungen
 bisheriger Wertansätze der Passivseite sowie Abschreibungen auf
@@ -332,6 +343,7 @@ Rücklage für Ersatzbeschaffungen vorzunehmen.
 
 
 #### 6h. Berichtigungen der Reichsmarkschlußbilanz
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003200328)
 
 (1) Entspricht ein bereits festgestellter Abschluß auf den 20. Juni
 1948 nicht den vorstehenden Grundsätzen, so muß er diesen für die
@@ -383,6 +395,7 @@ dieses Abschlusses zu prüfen.
 
 
 #### 6i. Weitergeltung bisheriger Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003300328)
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen
 Richtlinien nichts Abweichendes bestimmt ist, gelten für die
@@ -393,22 +406,27 @@ Bilanzierungsrichtlinien.
 
 
 #### (XXXX) 7. bis 15. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003400328)
 
 
 
 ### II. bis V. - 
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000300328)
 
 
 
 #### (XXXX) 16. bis 54. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003500328)
 
 
 
 ## Teil B - Ergänzungsrichtlinien für die Lebensversicherung (RVB)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000400328)
 
 
 
 ### I. - Gliederung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000500328)
 
 Für die Gliederung der einzelnen Posten gilt das anliegende Schema;
 soweit neben der Lebensversicherung noch andere Versicherungszweige
@@ -418,6 +436,7 @@ rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
 
 
 ### II. - Aktiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000600328)
 
 1\. Grundstücke im Währungsgebiet, die zum Deckungsstock eines
 Lebensversicherungsunternehmens gehören, können in Abweichung von
@@ -517,6 +536,7 @@ Provisionen aufzuführen.
 
 
 ### III. - Passiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000700328)
 
 
 1.
@@ -638,12 +658,14 @@ entfallenden Rückversicherungsprovisionen zu enthalten.
 
 
 ### IV. - Rückversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000800328)
 
 Für Rückversicherungsunternehmen gelten vorstehende Richtlinien
 sinngemäß.
 
 
 ### V. - Ergänzungsvorschriften für Sterbe- und Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG000900328)
 
 1\. Sterbe- und Pensionskassen sind nach den Vorschriften der
 Abschnitte I bis IV umzustellen. Für die Gliederung der einzelnen
@@ -704,6 +726,7 @@ mit folgenden Vorschriften:
 
 
 ### - - Bilanzmuster für Lebensversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001000328)
 
 A.
 Aktiva
@@ -947,6 +970,7 @@ Passiva
 
 
 ### - - Bilanzmuster für Sterbe- und Pensionskassen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001100328)
 
 A.
 Aktiva
@@ -1067,10 +1091,12 @@ Passiva
 
 
 ## Teil C - Ergänzungsrichtlinien für die Schadens- und Unfallversicherung (RVC)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001200328)
 
 
 
 ### I. - Gliederung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001300328)
 
 Für die Gliederung der einzelnen Posten gilt das anliegende Schema.
 Soweit neben der Schadens- und Unfallversicherung noch andere
@@ -1081,6 +1107,7 @@ anzuwenden.
 
 
 ### II. - Aktiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001400328)
 
 Als **Außenstände** - A XIV 1 und 2 - sind die von Vertretern und
 Versicherungsnehmern geschuldeten und in der Reichsmarkschlußbilanz
@@ -1103,6 +1130,7 @@ einbringlich anzusehen sind.
 
 
 ### III. - Passiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001500328)
 
 1\. Die **Deckungsrückstellungen** - B IV 1 bis 4 - sind zum 21. Juni
 1948 zu berechnen. Als Rechnungszins ist der Satz von 3 1/2 vom
@@ -1291,11 +1319,13 @@ Pensionsrückstellungen
 
 
 ### IV. - Für Rückversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001600328)
 
 gelten vorstehende Richtlinien sinngemäß.
 
 
 ### - - Bilanzmuster für Schadens- und Unfallversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001700328)
 
 A.
 Aktiva
@@ -1561,10 +1591,12 @@ Passiva
 
 
 ## Teil D - Ergänzungsrichtlinien für die Krankenversicherung (RVD)
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001800328)
 
 
 
 ### I. - Gliederung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG001900328)
 
 Für die Gliederung der einzelnen Posten gilt das anliegende Schema.
 Soweit neben der Krankenversicherung noch andere Versicherungszweige
@@ -1574,6 +1606,7 @@ rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
 
 
 ### II. - Aktiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG002000328)
 
 Als **Außenstände** - A XIV 1 und 2 - sind die von Vertretern und
 Versicherungsnehmern geschuldeten und in der Reichsmarkschlußbilanz
@@ -1590,6 +1623,7 @@ einbringlich anzusehen sind.
 
 
 ### III. - Passiva
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG002100328)
 
 1\. Die **Deckungsrückstellungen** - B IV 1 bis 4 - sind zum 21. Juni
 1948 zu berechnen. Als Rechnungszins ist der Satz von 3 1/2 vom
@@ -1737,6 +1771,7 @@ Pensionsrückstellungen
 
 
 ### - - Bilanzmuster für Krankenversicherungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNG002200328)
 
 A.
 Aktiva
@@ -1981,6 +2016,7 @@ Passiva
 (zu Teil D)
 
 #### Anlage Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003600328)
 
 Für die Berechnung der Alterungsrückstellung, der Rückstellung für das
 Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der
@@ -2275,6 +2311,7 @@ IV. Schlußbemerkungen
 
 
 #### Anhang 1 Normierte Kopfschäden
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003700328)
 
 Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 
@@ -2721,6 +2758,7 @@ Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 
 
 #### Anhang 2 Tafel der Krankheitsdauern
+[Direktlink](https://www.gesetze-im-internet.de/versrmabschr/BJNR700860949.html#BJNR700860949BJNE003800328)
 
    Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 (Auf 1 Mitglied kommen Arbeitsunfähigkeitstage)

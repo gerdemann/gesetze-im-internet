@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I. Erlaß von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/telekombeihazano/BJNR011990991.html#BJNR011990991BJNE000100308)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit
@@ -31,6 +32,7 @@ zu erlassen, auf das Unternehmen Deutsche Bundespost POSTDIENST.
 
 
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/telekombeihazano/BJNR011990991.html#BJNR011990991BJNE000200308)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir
 die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in
@@ -40,11 +42,13 @@ die Vertretung des Dienstherrn vor.
 
 
 ## III. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/telekombeihazano/BJNR011990991.html#BJNR011990991BJNE000300308)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/telekombeihazano/BJNR011990991.html#BJNR011990991BJNE000400308)
 
 Deutsche Bundespost TELEKOM
 Generaldirektion

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzhtibek/BJNR200170927.html#BJNR200170927BJNE000100306)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der
 Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. 1923 II S. 445)

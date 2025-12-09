@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000100000)
 
 (1) Dieses Gesetz ist für Textilerzeugnisse, die auf dem Markt
 bereitgestellt werden, für die Verwendung von Bezeichnungen von
@@ -43,6 +44,7 @@ Verordnung (EU) Nr. 1007/2011 genannten Textilerzeugnisse anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000200000)
 
 (1) Die Begriffsbestimmungen des Artikels 3 Absatz 1 der Verordnung
 (EU) Nr. 1007/2011 sind anzuwenden.
@@ -62,6 +64,7 @@ Sinne dieses Gesetzes sind die Zollbehörden.
 
 
 ## § 3 Voraussetzungen für die Bereitstellung von Textilerzeugnissen auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000300000)
 
 Ein Hersteller, Einführer oder Händler darf ein Textilerzeugnis nur in
 Verkehr bringen oder auf dem Markt bereitstellen, wenn es entsprechend
@@ -70,6 +73,7 @@ etikettiert oder gekennzeichnet ist.
 
 
 ## § 4 Anforderungen an die Bezeichnung von Textilfasern und an die Etikettierung oder Kennzeichnung von Textilerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000400000)
 
 (1) Textilerzeugnisse dürfen nur dann auf dem Markt bereitgestellt
 werden, wenn sie entsprechend den Artikeln 5, 7, 8 Absatz 1 und 3,
@@ -114,6 +118,7 @@ erfolgen.
 
 
 ## § 5 Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000500000)
 
 (1) Hersteller und Einführer haben Unterlagen über Tatsachen, auf
 deren Kenntnis die Etikettierung oder Kennzeichnung der
@@ -129,6 +134,7 @@ beziehen, vom Händler auf dem Markt bereitgestellt werden.
 
 
 ## § 6 Zuständigkeiten und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000600000)
 
 (1) Die zuständige oberste Landesbehörde oder die nach Landesrecht
 bestimmten Behörden (Marktüberwachungsbehörden) haben die Einhaltung
@@ -162,6 +168,7 @@ Betriebsgeheimnisse und personenbezogene Daten.
 
 
 ## § 7 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000700000)
 
 (1) Die zuständigen Behörden haben zu überwachen, dass
 
@@ -206,6 +213,7 @@ elektronischem Wege zur Verfügung zu stellen.
 
 
 ## § 8 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000800000)
 
 (1) Die zuständigen obersten Landesbehörden haben mindestens alle vier
 Jahre in nicht personenbezogener Form über die ergriffenen
@@ -225,6 +233,7 @@ Wirtschaft und Energie schriftlich oder elektronisch zu informieren.
 
 
 ## § 9 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE000900000)
 
 (1) Die Marktüberwachungsbehörden haben anhand von Stichproben zu
 kontrollieren, ob
@@ -325,6 +334,7 @@ und zu unterstützen.
 
 
 ## § 10 Adressaten der Marktüberwachungsmaßnahmen, Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE001000000)
 
 (1) Die Maßnahmen der Marktüberwachungsbehörden im Sinne des § 9 sind
 gegen den jeweils betroffenen Wirtschaftsakteur zu richten.
@@ -345,6 +355,7 @@ geben, sich zu äußern. Die Maßnahme ist daraufhin umgehend zu
 
 
 ## § 11 Betretensrechte, Befugnisse und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE001100000)
 
 (1) Die Marktüberwachungsbehörden und ihre Beauftragten sind, soweit
 dies zur Erfüllung ihrer Aufgaben erforderlich ist, befugt, zu den
@@ -392,6 +403,7 @@ Auskunftsverweigerung zu belehren.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/textilkennzg_2016/BJNR019810016.html#BJNR019810016BJNE001200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

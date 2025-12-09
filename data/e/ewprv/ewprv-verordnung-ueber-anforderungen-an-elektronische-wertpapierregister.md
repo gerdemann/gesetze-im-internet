@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000100000)
 
 Auf Grund des § 15 Absatz 1 und des § 23 Absatz 1 des Gesetzes über
 elektronische Wertpapiere vom 3. Juni 2021 (BGBl. I S. 1423) in
@@ -35,9 +36,11 @@ Bundesministerium der Justiz und das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000200000)
 
 Diese Verordnung gilt für elektronische Wertpapierregister nach § 4
 Absatz 1 sowie für registerführende Stellen nach § 12 Absatz 2 und
@@ -45,9 +48,11 @@ nach § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere.
 
 
 ## Abschnitt 2 - Gemeinsame Vorschriften für zentrale Register und Kryptowertpapierregister
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNG000200000)
 
 
 ### § 2 Teilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000300000)
 
 (1) Teilnehmer eines elektronischen Wertpapierregisters sind
 
@@ -77,6 +82,7 @@ erhält.
 
 
 ### § 3 Dokumentationspflichten; Beaufsichtigung
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000400000)
 
 (1) Die registerführende Stelle hat in einer nachvollziehbaren,
 aussagefähigen und für einen sachkundigen Dritten leicht
@@ -124,6 +130,7 @@ der Dokumentation zehn Jahre nach Inkrafttreten der Änderung.
 
 
 ### § 4 Niederlegung der Emissionsbedingungen gemäß § 5 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000500000)
 
 (1) Für die Niederlegung der Emissionsbedingungen als beständiges
 elektronisches Dokument gemäß § 5 Absatz 1 des Gesetzes über
@@ -164,6 +171,7 @@ berichtigen.
 
 
 ### § 5 Anforderungen an die Einrichtung und die Führung des Registers nach § 7 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000600000)
 
 Die registerführende Stelle hat das elektronische Wertpapierregister
 unter Berücksichtigung des Stands der Technik so zu führen, dass die
@@ -179,6 +187,7 @@ und Testumgebung sind dabei grundsätzlich voneinander zu trennen.
 
 
 ### § 6 Anforderungen an die vorzusehenden Eintragungsarten nach § 8 Absatz 1 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000700000)
 
 Eine registerführende Stelle kann die technischen Vorkehrungen für die
 Registerführung von lediglich elektronischen Wertpapieren in
@@ -190,6 +199,7 @@ Depotgesetzes bleiben unberührt.
 
 
 ### § 7 Wesentlicher Inhalt des Rechts und eindeutige Wertpapierkennnummer gemäß § 13 Absatz 1 Nummer 1 oder § 17 Absatz 1 Nummer 1 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000800000)
 
 (1) Bei der Eintragung einer elektronischen Schuldverschreibung auf
 den Inhaber genügt es für die Angabe des wesentlichen Inhalts des
@@ -231,6 +241,7 @@ aufzunehmen.
 
 
 ### § 8 Personenbezogene Registerangaben
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE000900000)
 
 (1) Bei einem elektronischen Wertpapier in Sammeleintragung hat die
 registerführende Stelle sicherzustellen, dass das elektronische
@@ -276,6 +287,7 @@ durch Zuordnung einer eindeutigen Kennung zu bezeichnen.
 
 
 ### § 9 Wechsel der Begebungsform nach § 6 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001000000)
 
 (1) Ersetzt der Emittent gemäß § 6 Absatz 2 Satz 1 Nummer 1 des
 Gesetzes über elektronische Wertpapiere ein elektronisches Wertpapier
@@ -315,6 +327,7 @@ Wertpapiere hat der Emittent:
 
 
 ### § 10 Einsichtnahme in das Register gemäß § 10 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001100000)
 
 (1) Die registerführende Stelle gewährleistet, dass Teilnehmer die sie
 betreffenden Registerangaben jederzeit abrufen können. Den Emittenten
@@ -382,6 +395,7 @@ elektronische Wertpapiere zu führen ist, muss enthalten:
 
 
 ### § 11 Anforderungen an die Identifizierung des Weisungsberechtigten und das Authentifizierungsinstrument nach § 14 Absatz 1 oder § 18 Absatz 1 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001200000)
 
 (1) Derjenige, der Weisungen nach § 14 Absatz 1 Satz 1 oder § 18
 Absatz 1 Satz 1 des Gesetzes über elektronische Wertpapiere erteilt,
@@ -484,6 +498,7 @@ Wertpapiere anzusehen, wenn
 
 
 ### § 12 Anforderungen an den angemessenen Zeitraum und die Gültigkeit von Umtragungen nach § 14 Absatz 4 oder § 18 Absatz 4 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001300000)
 
 (1) Die registerführende Stelle teilt den Teilnehmern in elektronisch
 lesbarer Form den für das elektronische Wertpapierregister als
@@ -508,9 +523,11 @@ oder Umtragung auch an jedem späteren Zeitpunkt gültig bleibt.
 
 
 ## Abschnitt 3 - Weitere Vorschriften für registerführende Stellen von Kryptowertpapierregistern gemäß § 16 Absatz 2 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNG000300000)
 
 
 ### § 13 Dokumentationspflichten für die registerführende Stelle eines Kryptowertpapierregisters
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001400000)
 
 (1) Die registerführende Stelle nach § 16 Absatz 2 des Gesetzes über
 elektronische Wertpapiere hat in dem von ihr geführten
@@ -548,6 +565,7 @@ dokumentieren:
 
 
 ### § 14 Zurverfügungstellung des verwendeten Quellcodes und der Beschreibung des Aufzeichnungssystems
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001500000)
 
 (1) Die registerführende Stelle stellt der Bundesanstalt auf ihr
 Verlangen unverzüglich den Quellcode des Aufzeichnungssystems (§ 4
@@ -568,6 +586,7 @@ zu stellen.
 
 
 ### § 15 Rückgängigmachung von Änderungen des Registerinhalts
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001600000)
 
 (1) Die registerführende Stelle hat das von ihr geführte
 Kryptowertpapierregister so einzurichten, dass sie Änderungen des
@@ -582,6 +601,7 @@ Zeitpunkt sie vorgenommen wurden.
 
 
 ### § 16 Anforderungen an kryptografische Verfahren und sonstige Methoden der Transformation von Daten; Überprüfung der Integrität der niedergelegten Emissionsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001700000)
 
 (1) Die von der registerführenden Stelle eines
 Kryptowertpapierregisters vorgesehenen und eingesetzten
@@ -602,6 +622,7 @@ gewähren.
 
 
 ### § 17 Liste der Kryptowertpapiere bei der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001800000)
 
 (1) Für die Führung der öffentlichen Liste nach § 20 Absatz 3 des
 Gesetzes über elektronische Wertpapiere übermittelt der Emittent der
@@ -653,6 +674,7 @@ unzutreffender Angaben zu widerlegen.
 
 
 ### § 18 Teilnahme an einem Kryptowertpapierregister; Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE001900000)
 
 (1) Eine registerführende Stelle nach § 16 Absatz 2 des Gesetzes über
 elektronische Wertpapiere legt für jedes von ihr betriebene
@@ -693,6 +715,7 @@ abrufbar zur Verfügung zu stellen sowie der Bundesanstalt vorzulegen.
 
 
 ### § 19 Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE002000000)
 
 (1) Eine registerführende Stelle nach § 16 Absatz 2 des Gesetzes über
 elektronische Wertpapiere beachtet bei der Kommunikation mit den
@@ -727,6 +750,7 @@ Schnittstellen müssen dem Stand der Technik entsprechen.
 
 
 ### § 20 Dokumentation der Vorkehrungen und Verfahren für die Übertragung des Wertpapierregisters nach § 21 Absatz 2 und § 22 des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE002100000)
 
 (1) Eine registerführende Stelle nach § 16 Absatz 2 des Gesetzes über
 elektronische Wertpapiere hat technische Vorkehrungen zu treffen und
@@ -748,6 +772,7 @@ elektronische Wertpapiere).
 
 
 ### § 21 Dokumentation des Kryptowertpapierregisters
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE002200000)
 
 (1) Bei einer registerführenden Stelle nach § 16 Absatz 2 des Gesetzes
 über elektronische Wertpapiere hat die Dokumentation gemäß § 3 Absatz
@@ -802,6 +827,7 @@ Aufzeichnungssystems frühzeitig bekanntzugeben.
 
 
 ### § 22 Hinweise auf Bußgeldvorschriften des Gesetzes über elektronische Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE002300000)
 
 (1) Zuwiderhandlungen gegen § 7 Absatz 1 des Gesetzes über
 elektronische Wertpapiere, auch in Verbindung mit § 5 dieser
@@ -815,9 +841,11 @@ elektronische Wertpapiere geahndet werden.
 
 
 ## Abschnitt 4 - Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNG000400000)
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewprv/BJNR188200022.html#BJNR188200022BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

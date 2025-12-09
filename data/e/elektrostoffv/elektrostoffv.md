@@ -34,6 +34,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000100000)
 
 Auf Grund
 
@@ -59,6 +60,7 @@ Auf Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000201116)
 
 (1) Diese Verordnung gilt für das Inverkehrbringen und das
 Bereitstellen von neuen Elektro- und Elektronikgeräten auf dem Markt.
@@ -170,6 +172,7 @@ diese Rechtsvorschriften,
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001902130)
 
 Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
@@ -432,6 +435,7 @@ Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
 
 ## § 3 Voraussetzungen für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000408116)
 
 (1) Elektro- und Elektronikgeräte einschließlich Kabeln und
 Ersatzteilen dürfen nur in Verkehr gebracht werden, wenn die
@@ -530,6 +534,7 @@ worden ist, einer Beschränkung unterliegt.
 
 
 ## § 4 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000500000)
 
 (1) Der Hersteller darf nur Elektro- und Elektronikgeräte in Verkehr
 bringen, die die Anforderungen des § 3 Absatz 1 erfüllen.
@@ -564,6 +569,7 @@ und die ergriffenen Maßnahmen.
 
 
 ## § 5 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000600000)
 
 (1) Der Hersteller muss sicherstellen, dass seine Elektro- und
 Elektronikgeräte zur Identifikation eine Typen-, Chargen- oder
@@ -598,6 +604,7 @@ Elektro- und Elektronikgeräte in regelmäßigen Abständen informieren.
 
 
 ## § 6 Ermächtigung eines Bevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000700000)
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten
 ermächtigen.
@@ -643,6 +650,7 @@ den Marktüberwachungsbehörden wahrnehmen.
 
 
 ## § 7 Verpflichtungen des Importeurs
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000801377)
 
 (1) Der Importeur muss sich, bevor er ein Elektro- oder
 Elektronikgerät in Verkehr bringt, vergewissern, dass der Hersteller
@@ -710,6 +718,7 @@ gebrachte Gerät die Anforderungen dieser Verordnung einhält.
 
 
 ## § 8 Verpflichtungen des Vertreibers
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE000901377)
 
 (1) Der Vertreiber muss, bevor er ein Elektro- und Elektronikgerät auf
 dem Markt bereitstellt, mit der erforderlichen Sorgfalt prüfen, ob
@@ -751,6 +760,7 @@ auf dem Markt bereitgestellte Gerät die Anforderungen des § 3 erfüllt.
 
 
 ## § 9 Umstände, unter denen die Verpflichtungen des Herstellers auch für den Importeur und den Vertreiber gelten
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001000000)
 
 Ein Importeur oder Vertreiber gilt für die Zwecke dieser Verordnung
 als Hersteller und hat die Verpflichtungen für Hersteller gemäß den §§
@@ -769,6 +779,7 @@ als Hersteller und hat die Verpflichtungen für Hersteller gemäß den §§
 
 
 ## § 10 Benennung der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001100000)
 
 (1) Jeder Wirtschaftsakteur hat den zuständigen Behörden auf deren
 Verlangen diejenigen Wirtschaftsakteure zu benennen,
@@ -789,6 +800,7 @@ Elektro- oder Elektronikgeräts bereithalten.
 
 
 ## § 11 EU-Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001200000)
 
 (1) Mit der Ausstellung der EU-Konformitätserklärung bestätigt der
 Hersteller, dass
@@ -824,6 +836,7 @@ Verlangen der zuständigen Behörde in die deutsche Sprache zu
 
 
 ## § 12 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001300000)
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze gemäß
 Artikel 30 der Verordnung (EG) Nr. 765/2008 des Europäischen
@@ -840,6 +853,7 @@ den Begleitunterlagen angebracht.
 
 
 ## § 13 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001400000)
 
 (1) Bei einem Elektro- oder Elektronikgerät, das mit der CE-
 Kennzeichnung versehen ist, gehen die Marktüberwachungsbehörden davon
@@ -863,6 +877,7 @@ Absatz 1 erfüllen, wenn
 
 
 ## § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001501130)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -897,6 +912,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001602116)
 
 (1) (weggefallen)
 
@@ -1037,11 +1053,13 @@ wurden, gilt § 3 Absatz 1 Nummer 1 nicht für Ersatzteile, die aus
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001700000)
 
 Diese Verordnung tritt am 9. Mai 2013 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/elektrostoffv/BJNR111100013.html#BJNR111100013BJNE001800000)
 
 Der Bundesrat hat zugestimmt.
 

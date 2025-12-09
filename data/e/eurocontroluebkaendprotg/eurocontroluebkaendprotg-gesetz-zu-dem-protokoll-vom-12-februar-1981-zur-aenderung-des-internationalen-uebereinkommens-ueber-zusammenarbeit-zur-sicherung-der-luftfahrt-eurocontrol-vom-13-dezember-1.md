@@ -23,17 +23,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000200328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000303305)
 
 (1) Die nach Artikel 3 Abs. 2 Buchstaben b bis f in Verbindung mit
 Artikel 6 Abs. 1 Buchstabe a der Vereinbarung gefaßten Beschlüsse sind
@@ -49,6 +52,7 @@ Beschluß dieses vorsieht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000400328)
 
 Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf
 dem Verwaltungsweg durch die Bundesrepublik Deutschland vorgenommen.
@@ -63,11 +67,13 @@ Vollstreckungsgesetzes erläßt die Bundesanstalt für Flugsicherung.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000500328)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/BJNR200690984.html#BJNR200690984BJNE000600328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

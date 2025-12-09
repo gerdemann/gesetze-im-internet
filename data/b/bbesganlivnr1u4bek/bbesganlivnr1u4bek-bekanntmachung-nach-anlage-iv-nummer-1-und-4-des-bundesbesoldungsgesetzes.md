@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesganlivnr1u4bek/BJNR031610020.html#BJNR031610020BJNE000100000)
 
 Nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes in der
 Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434), die
@@ -27,6 +28,7 @@ geltenden Grundgehaltssätze der weggefallenen Besoldungsgruppen A 2, R
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesganlivnr1u4bek/BJNR031610020.html#BJNR031610020BJNE000200000)
 
 Der Bundesminister des Innern, für Bau und Heimat
 
@@ -34,6 +36,7 @@ Zu Anlage IV des BBesG
 (zu § 20 Absatz 2 Satz 2, § 37 Satz 2)
 
 ## (XXXX) Gültig ab 1. März 2020
+[Direktlink](https://www.gesetze-im-internet.de/bbesganlivnr1u4bek/BJNR031610020.html#BJNR031610020BJNE000300000)
 
 (Fundstelle: BGBl. I 2020, 317)
 

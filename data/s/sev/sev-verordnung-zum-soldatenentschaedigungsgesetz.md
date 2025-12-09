@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sev/BJNR0C40A0024.html#BJNR0C40A0024BJNE000100000)
 
 Auf Grund des § 6 Absatz 5 sowie des § 18 Absatz 2 des
 Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
@@ -24,6 +25,7 @@ Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
 
 
 ## § 1 Anwendung der Versorgungsmedizin-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/sev/BJNR0C40A0024.html#BJNR0C40A0024BJNE000200000)
 
 Für die Anerkennung der sekundären Gesundheitsstörung als
 Schädigungsfolge nach § 5 des Soldatenentschädigungsgesetzes sowie für
@@ -36,6 +38,7 @@ entsprechend.
 
 
 ## § 2 Leistungen zur Mobilität
+[Direktlink](https://www.gesetze-im-internet.de/sev/BJNR0C40A0024.html#BJNR0C40A0024BJNE000300000)
 
 Für die Leistungen zur Mobilität nach § 18 des
 Soldatenentschädigungsgesetzes gelten die §§ 1 bis 5, 7, 9 und 10 der
@@ -46,6 +49,7 @@ Fassung entsprechend.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sev/BJNR0C40A0024.html#BJNR0C40A0024BJNE000400000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 

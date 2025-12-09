@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruch auf Abschläge
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000104128)
 
 Die pharmazeutischen Unternehmer haben den Unternehmen der privaten
 Krankenversicherung und den Trägern der Kosten in Krankheits-, Pflege-
@@ -46,6 +47,7 @@ Versichertenbeständen verwendet werden.
 
 
 ## § 1a Anspruch auf Ausgleich des Differenzbetrags zwischen Erstattungsbetrag und tatsächlichem Abgabepreis
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000601119)
 
 Für Arzneimittel, für die ein Erstattungsbetrag nach § 130b des
 Fünften Buches Sozialgesetzbuch gilt, haben die pharmazeutischen
@@ -66,6 +68,7 @@ und Geburtsfällen nach beamtenrechtlichen Vorschriften.
 
 
 ## § 2 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000200000)
 
 Die Unternehmen der privaten Krankenversicherung und die Träger der
 Kosten in Krankheits-, Pflege- und Geburtsfällen nach
@@ -91,6 +94,7 @@ Sie können den Vereinbarungen nach Satz 4 beitreten.
 
 
 ## § 3 Prüfung durch Treuhänder
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000302360)
 
 Die pharmazeutischen Unternehmer können in begründeten Fällen sowie in
 Stichproben die Abrechnung der Abschläge durch einen Treuhänder
@@ -105,6 +109,7 @@ Vereinbarung nach § 2 Satz 4 geregelt werden.
 
 
 ## § 4 Angaben auf dem Verordnungsblatt
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000400000)
 
 Bei der Abgabe von Arzneimitteln, die der Abschlagspflicht nach § 130a
 Absatz 1, 1a, 2, 3, 3a oder 3b des Fünften Buches Sozialgesetzbuch
@@ -125,6 +130,7 @@ der Vereinbarung nach Satz 2 beitreten.
 
 
 ## § 5 Datenübermittlung durch pharmazeutische Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/amrabg/BJNR227500010.html#BJNR227500010BJNE000500000)
 
 Die pharmazeutischen Unternehmer sind verpflichtet, die erforderlichen
 Preis- und Produktangaben für Arzneimittel einschließlich des

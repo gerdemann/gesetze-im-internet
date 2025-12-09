@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4intelsatbek/BJNR008330983.html#BJNR008330983BJNE000100307)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -30,11 +31,13 @@ Januar 1983 (BGBl. I S. 47, 433).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4intelsatbek/BJNR008330983.html#BJNR008330983BJNE000900307)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4intelsatbek/BJNR008330983.html#BJNR008330983BJNE000200307)
 
 Bezeichnungen
 

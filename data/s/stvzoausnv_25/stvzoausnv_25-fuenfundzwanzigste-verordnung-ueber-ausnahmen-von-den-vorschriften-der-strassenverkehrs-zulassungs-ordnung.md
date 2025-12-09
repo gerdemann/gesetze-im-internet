@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000100312)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 sowie des Absatzes 3 des
 Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -30,6 +31,7 @@ zuständigen obersten Landesbehörden verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000202308)
 
 (1) Abweichend von § 19 Abs. 2 StVZO erlischt die Betriebserlaubnis
 nicht, wenn an Kraftfahrzeugen eine Vorrichtung zum Schutz der
@@ -65,6 +67,7 @@ die landwirtschaftliche Unfallversicherung angebracht wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000301308)
 
 Abweichend von § 19 Abs. 2 StVZO erlischt bei Kraftfahrzeugen, die in
 anderen Fällen als nach § 1 durch Anbringen einer
@@ -79,11 +82,13 @@ Bescheinigung der ausführenden Werkstatt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000401306)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000500312)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 33
@@ -92,11 +97,13 @@ Abs. 2 des Kostenermächtigungs-Änderungsgesetzes vom 23. Juni 1970
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000600312)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_25/BJNR017780976.html#BJNR017780976BJNE000700312)
 
 Der Bundesminister für Verkehr
 

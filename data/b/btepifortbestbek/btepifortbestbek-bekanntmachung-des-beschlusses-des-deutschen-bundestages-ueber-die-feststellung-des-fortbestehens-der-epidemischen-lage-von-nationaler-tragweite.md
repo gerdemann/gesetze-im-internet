@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btepifortbestbek/BJNR039700021.html#BJNR039700021BJNE000100000)
 
 Der Deutsche Bundestag hat in seiner 215. Sitzung am 4. März 2021
 beschlossen (Plenarprotokoll 19/215, S. 27052 (C)):
@@ -31,6 +32,7 @@ festgestellt hat, fortbesteht.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btepifortbestbek/BJNR039700021.html#BJNR039700021BJNE000200000)
 
 Bundesministerium für Gesundheit
 

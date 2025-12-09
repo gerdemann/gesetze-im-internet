@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000100000)
 
 Auf Grund des § 1 Abs. 2 Nr. 2 des Patentkostengesetzes vom 13.
 Dezember 2001 (BGBl. I S. 3656) verordnet das Bundesministerium der
@@ -29,6 +30,7 @@ Justiz:
 
 
 ## § 1 Zahlungswege
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000202125)
 
 (1) Kosten des Deutschen Patent- und Markenamts und des
 Bundespatentgerichts können gezahlt werden
@@ -71,6 +73,7 @@ Zahlung erforderlich sind.
 
 
 ## § 2 Zahlungstag
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000302125)
 
 Als Zahlungstag gilt
 
@@ -107,6 +110,7 @@ Als Zahlungstag gilt
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000400000)
 
 Abbuchungsaufträge, die nach § 1 Nr. 4 der
 Patentkostenzahlungsverordnung vom 20. Dezember 2001 (BGBl. I S. 3853)
@@ -117,6 +121,7 @@ Gebühren erteilt worden sind, gilt § 2 Nr. 4 entsprechend.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/patkostzv_2004/BJNR208300003.html#BJNR208300003BJNE000500000)
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000100000)
 
 (1) Die Vorschriften dieses Gesetzes gelten für das
 Zustellungsverfahren der Bundesbehörden, der bundesunmittelbaren
@@ -32,6 +33,7 @@ behördliche Anordnung bestimmt ist.
 
 
 ## § 2 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000202310)
 
 (1) Zustellung ist die Bekanntgabe eines schriftlichen oder
 elektronischen Dokuments in der in diesem Gesetz bestimmten Form.
@@ -46,6 +48,7 @@ in den §§ 9 und 10 geregelten Sonderarten der Zustellung.
 
 
 ## § 3 Zustellung durch die Post mit Zustellungsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000300000)
 
 (1) Soll durch die Post mit Zustellungsurkunde zugestellt werden,
 übergibt die Behörde der Post den Zustellungsauftrag, das
@@ -66,6 +69,7 @@ nach der Zustellungsvordruckverordnung zu verwenden.
 
 
 ## § 4 Zustellung durch die Post mittels Einschreiben
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000401130)
 
 (1) Ein Dokument kann durch die Post mittels Einschreiben durch
 Übergabe oder mittels Einschreiben mit Rückschein zugestellt werden.
@@ -79,6 +83,7 @@ vermerken.
 
 
 ## § 5 Zustellung durch die Behörde gegen Empfangsbekenntnis; elektronische Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000505130)
 
 (1) Bei der Zustellung durch die Behörde händigt der zustellende
 Bedienstete das Dokument dem Empfänger in einem verschlossenen
@@ -166,6 +171,7 @@ Eintritt der Zustellungsfiktion nach Satz 2 zu benachrichtigen.
 
 
 ## § 5a Elektronische Zustellung gegen Abholbestätigung über De-Mail-Dienste
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE001102130)
 
 (1) Die elektronische Zustellung kann unbeschadet des § 5 Absatz 4 und
 5 Satz 1 und 2 durch Übermittlung der nach § 17 des De-Mail-Gesetzes
@@ -203,6 +209,7 @@ Zustellungsfiktion nach Satz 1 elektronisch zu benachrichtigen.
 
 
 ## § 6 Zustellung an gesetzliche Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000601311)
 
 (1) Bei Geschäftsunfähigen oder beschränkt Geschäftsfähigen ist an
 ihre gesetzlichen Vertreter zuzustellen. Gleiches gilt bei Personen,
@@ -224,6 +231,7 @@ Anschrift den Vorschriften der Absätze 1 bis 3 entspricht.
 
 
 ## § 7 Zustellung an Bevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000701360)
 
 (1) Zustellungen können an den allgemeinen oder für bestimmte
 Angelegenheiten bestellten Bevollmächtigten gerichtet werden. Sie sind
@@ -240,6 +248,7 @@ vorhanden sind.
 
 
 ## § 8 Heilung von Zustellungsmängeln
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000800000)
 
 Lässt sich die formgerechte Zustellung eines Dokuments nicht
 nachweisen oder ist es unter Verletzung zwingender
@@ -250,6 +259,7 @@ Empfangsbekenntnis zurückgesendet hat.
 
 
 ## § 9 Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE000902310)
 
 (1) Eine Zustellung im Ausland erfolgt
 
@@ -301,6 +311,7 @@ kann, finden die Sätze 1 bis 6 keine Anwendung.
 
 
 ## § 10 Öffentliche Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/vwzg_2005/BJNR235410005.html#BJNR235410005BJNE001003116)
 
 (1) Die Zustellung kann durch öffentliche Bekanntmachung erfolgen,
 wenn

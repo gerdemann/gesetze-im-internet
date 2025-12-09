@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmfl_jubano/BJNR510500963.html#BJNR510500963BJNE000100314)
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes vom 24. Mai 1962
@@ -42,12 +43,14 @@ zu entscheiden.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmfl_jubano/BJNR510500963.html#BJNR510500963BJNE000200314)
 
 Diese Anordnung tritt am Tage der Verkündung im Bundesanzeiger in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfl_jubano/BJNR510500963.html#BJNR510500963BJNE000300314)
 
 Der Bundesminister für Vertriebene, Flüchtlinge und Kriegsgeschädigte
 

@@ -26,6 +26,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -35,9 +36,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000300000)
 
 Der Ausbildungsberuf des Prüftechnologen Keramik und der
 Prüftechnologin Keramik wird nach § 4 Absatz 1 des
@@ -45,11 +48,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -155,6 +161,7 @@ Ausbildungsbetrieb vor Beginn der Ausbildung festgelegt.
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -162,9 +169,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNG000200000)
 
 
 ### § 6 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -173,6 +182,7 @@ durchzuführen.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -189,6 +199,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001000000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -202,6 +213,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich Rohstoff- und Werkstoffprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001100000)
 
 (1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der
 Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden
@@ -256,6 +268,7 @@ Untersuchungen jeweils eine Arbeitsprobe durchführen.
 
 
 ### § 10 Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001200000)
 
 (1) Im Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
 soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -281,9 +294,11 @@ soll der Prüfling nachweisen, dass er in der Lage ist,
 
 
 ## Abschnitt 3 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNG000300000)
 
 
 ### § 11 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001300000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -293,6 +308,7 @@ durchgeführt werden.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001400000)
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -309,6 +325,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001500000)
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -328,6 +345,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich Probennahme und Probenvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001600000)
 
 (1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -385,6 +403,7 @@ jeweils eine Arbeitsprobe durchführen.
 
 
 ### § 15 Prüfungsbereich Physikalische, chemische und keramische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001700000)
 
 (1) Im Prüfungsbereich Physikalische, chemische und keramische
 Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -457,6 +476,7 @@ Fachgespräch dauert höchstens 15 Minuten.
 
 
 ### § 16 Prüfungsbereich Prüftechnik
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001800000)
 
 (1) Im Prüfungsbereich Prüftechnik soll der Prüfling nachweisen, dass
 er in der Lage ist,
@@ -491,6 +511,7 @@ er in der Lage ist,
 
 
 ### § 17 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE001900000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -504,6 +525,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 18 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE002000000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -581,9 +603,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNG000400000)
 
 
 ### § 19 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE002100000)
 
 Berufsausbildungsverhältnisse zum Beruf des Stoffprüfers Chemie und
 der Stoffprüferin Chemie, die bei Inkrafttreten dieser Verordnung
@@ -594,12 +618,14 @@ Auszubildende noch keine Zwischenprüfung absolviert hat.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik
+[Direktlink](https://www.gesetze-im-internet.de/kpr_ftechnausbv/BJNR379600017.html#BJNR379600017BJNE002300000)
 
 (Fundstelle: BGBl. I 2017, 3800 - 3802)
 

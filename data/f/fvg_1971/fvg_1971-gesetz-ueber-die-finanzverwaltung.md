@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000101301)
 
 
 
 ### § 1 Bundesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE000720123)
 
 Bundesfinanzbehörden sind
 
@@ -51,6 +53,7 @@ Bundesfinanzbehörden sind
 
 
 ### § 2 Landesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE000805123)
 
 (1) Landesfinanzbehörden sind
 
@@ -97,6 +100,7 @@ anzuwenden.
 
 
 ### § 2a Verzicht auf Mittelbehörden, Aufgabenwahrnehmung durch andere Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003505123)
 
 (1) Durch Rechtsverordnung kann auf Mittelbehörden verzichtet werden.
 Die Rechtsverordnung erlässt für den Bereich von Aufgaben des Landes
@@ -114,11 +118,13 @@ zuständige oberste Landesbehörde übertragen.
 
 
 ### § 2b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003602301)
 
 -
 
 
 ### § 3 Leitung der Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE000904311)
 
 (1) Das Bundesministerium der Finanzen leitet die
 Bundesfinanzverwaltung. Soweit die Bundesfinanzbehörden Aufgaben aus
@@ -137,10 +143,12 @@ obersten Landesbehörde.
 
 
 ## Abschnitt II - Oberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000201301)
 
 
 
 ### § 4 Sitz und Aufgaben der Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001003377)
 
 (1) Das Bundesministerium der Finanzen bestimmt den Sitz der
 Bundesoberbehörden, soweit durch Gesetz nichts anderes bestimmt ist.
@@ -156,6 +164,7 @@ Bundesministerium beauftragt werden.
 
 
 ### § 5 Aufgaben des Bundeszentralamtes für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE005501123)
 
 (1) Das Bundeszentralamt für Steuern hat unbeschadet des § 4 Abs. 2
 und 3 folgende Aufgaben:
@@ -942,6 +951,7 @@ Auszahlung der Einnahmen in Ausübung der Aufgaben nach Absatz 1 Nummer
 
 
 ### § 5a Aufgaben und Gliederung der Generalzolldirektion
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003010123)
 
 (1) Unbeschadet des § 4 Absatz 2 und 3 leitet die Generalzolldirektion
 bundesweit die Durchführung der Aufgaben der Zollverwaltung. Sie übt
@@ -975,6 +985,7 @@ wahrgenommen.
 
 
 ### § 5b Übertragung von Bauaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004601123)
 
 Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der Bund
 die Leitung und Erledigung seiner Bauaufgaben im Wege der Organleihe
@@ -986,6 +997,7 @@ zu befolgen haben.
 
 
 ### § 6 Sitz und Aufgaben der Landesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001204301)
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde
 bestimmt den Sitz der Landesoberbehörde, soweit durch Gesetz nichts
@@ -1001,19 +1013,23 @@ gilt § 9a Satz 3 entsprechend.
 
 
 ## Abschnitt III - Mittelbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000301301)
 
 
 
 ### § 7 Bezirk und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001306123)
 
 Die obersten Landesbehörden bestimmen den Bezirk und Sitz der
 Mittelbehörde, die ihnen jeweils untersteht.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001408377)
 
 
 ### § 8a Aufgaben und Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004201123)
 
 (1) Die Mittelbehörden leiten die Finanzverwaltung des jeweiligen
 Landes in ihrem Bezirk. Einer Mittelbehörde kann auch die Leitung der
@@ -1039,9 +1055,11 @@ Außerdem erledigt sie die ihr sonst übertragenen Aufgaben.
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001505377)
 
 
 ### § 9a Leitung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004301123)
 
 Der Präsident oder die Präsidentin leitet die jeweilige Mittelbehörde.
 Ihm oder ihr kann auch die Leitung einer Abteilung übertragen werden.
@@ -1052,9 +1070,11 @@ entlassen.
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001604377)
 
 
 ### § 10a Landeskassen
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004401123)
 
 Werden oder sind bei einer Mittelbehörde eine oder mehrere
 Landeskassen errichtet, so kann eine Landeskasse Kassengeschäfte für
@@ -1064,15 +1084,18 @@ Präsidentin unterstellt werden.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001703301)
 
 -
 
 
 ## Abschnitt IV - Örtliche Behörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000401301)
 
 
 
 ### § 12 Bezirk und Sitz der Hauptzollämter und Zollfahndungsämter sowie Aufgaben der Hauptzollämter
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001810377)
 
 (1) Die Generalzolldirektion bestimmt den Bezirk und den Sitz der
 Hauptzollämter und der Zollfahndungsämter.
@@ -1099,26 +1122,31 @@ Generalzolldirektion übertragen.
 
 
 ### § 12a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003105301)
 
 -
 
 
 ### § 12b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003201301)
 
 -
 
 
 ### § 12c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003302301)
 
 -
 
 
 ### § 12d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003401301)
 
 -
 
 
 ### § 13 Beistandspflicht der Ortsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE001901301)
 
 (1) Die Gemeindebehörden, die Ortspolizeibehörden und die sonstigen
 Ortsbehörden haben den Hauptzollämtern auch neben der in § 111 der
@@ -1131,21 +1159,25 @@ gewährt.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002002301)
 
 -
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002101301)
 
 -
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002203301)
 
 -
 
 
 ### § 17 Bezirk, Sitz und Aufgaben der Finanzämter
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002307360)
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde
 bestimmt den Bezirk und den Sitz der Finanzämter.
@@ -1207,10 +1239,12 @@ Satz 1 kann zugleich die Kostentragung geregelt werden.
 
 
 ## Abschnitt V - Zusammenwirken von Bundes- und Landesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000501301)
 
 
 
 ### § 18 Verwaltung der Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002404140)
 
 Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung
 der Umsatzsteuer nach Maßgabe der für diese Steuer geltenden
@@ -1219,9 +1253,11 @@ die Besteuerung örtlich zuständig ist.
 
 
 ### § 18a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004501377)
 
 
 ### § 19 Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002505123)
 
 (1) Das Bundeszentralamt für Steuern ist zur Mitwirkung an
 Außenprüfungen berechtigt, die durch Landesfinanzbehörden durchgeführt
@@ -1260,6 +1296,7 @@ den Fällen des Absatzes 3 Satz 2.
 
 
 ### § 20 Einsatz von automatischen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002607360)
 
 (1) Die für die Finanzverwaltung zuständigen obersten Landesbehörden
 bestimmen Art, Umfang und Organisation des Einsatzes der automatischen
@@ -1307,6 +1344,7 @@ Zusammenwirkens von Bund und Ländern nach Absatz 2.
 
 
 ### § 20a Druckdienstleistungen für Bundes- oder Landesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004703123)
 
 (1) Das Bundesministerium der Finanzen darf sich zum Drucken und
 Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der
@@ -1368,6 +1406,7 @@ eines weiteren Auftragsverarbeiters bedienen will.
 
 
 ### § 21 Auskunfts- und Teilnahmerechte
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002710360)
 
 (1) Soweit die den Ländern zustehenden Steuern von
 Bundesfinanzbehörden verwaltet werden, haben die für die
@@ -1425,6 +1464,7 @@ Europäischen Kommission gemäß Artikel 21 Absatz 5 der Richtlinie
 
 
 ### § 21a Allgemeine Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003704123)
 
 (1) Zur Verbesserung und Erleichterung des Vollzugs von Steuergesetzen
 und im Interesse des Zieles der Gleichmäßigkeit der Besteuerung
@@ -1463,10 +1503,12 @@ Gemeinden verwaltet werden.
 
 
 ## Abschnitt VI - Übergangsregelungen aus Anlass des Zweiten Gesetzes zur Änderung des Finanzverwaltungsgesetzes und anderer Gesetze vom 13. Dezember 2007
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000602301)
 
 
 
 ### § 22 Dienstrechtliche Folgen und Regelung der Versorgungslasten
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002805160)
 
 (1) Für die am 31. Dezember 2007 vorhandenen Oberfinanzpräsidenten und
 Oberfinanzpräsidentinnen der Oberfinanzdirektionen Chemnitz, Hannover,
@@ -1498,16 +1540,19 @@ gilt Absatz 1 Satz 2 entsprechend.
 Übergangsregelung
 
 ### § 23 Kosten der Oberfinanzdirektion
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE002904377)
 
 Die Kosten der Oberfinanzdirektion werden vom Bund getragen, soweit
 sie auf den Bund entfallen.
 
 
 ## Abschnitt VII - Überleitungs- und Übergangsregelungen aus Anlass des Gesetzes zur Neuorganisation der Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178)
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNG000900377)
 
 
 
 ### § 24 Überleitung der Beschäftigten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003801377)
 
 Auf Grund der mit Inkrafttreten des Gesetzes zur Neuorganisation der
 Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178) vollzogenen
@@ -1524,6 +1569,7 @@ genannten Behörden entsprechend.
 
 
 ### § 25 Übergangsregelung Personalvertretung, Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE003901377)
 
 (1) Die erstmaligen Wahlen zu den Personalvertretungen finden bei der
 Generalzolldirektion spätestens bis zum 31. Mai 2016 statt. Bis zu
@@ -1547,6 +1593,7 @@ wahrgenommen.
 
 
 ### § 26 Übergangsregelung Schwerbehindertenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004001377)
 
 (1) Die erstmaligen Wahlen zur örtlichen Schwerbehindertenvertretung
 nach dem Neunten Buch Sozialgesetzbuch finden in der
@@ -1572,6 +1619,7 @@ erstmalige Wahl nach Satz 1.
 
 
 ### § 27 Übergangsregelung Gleichstellungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/fvg_1971/BJNR014270971.html#BJNR014270971BJNE004101377)
 
 (1) Die erstmalige Wahl der Gleichstellungsbeauftragten der
 Generalzolldirektion sowie der Stellvertreterinnen findet spätestens

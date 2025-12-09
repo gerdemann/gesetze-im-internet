@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000100304)
 
 Auf Grund des § 44 der Verordnung über Maßnahmen auf dem Gebiete der
 Gerichtsverfassung und der Rechtspflege vom 1. September 1939
@@ -31,6 +32,7 @@ Maßnahmen auf dem Gebiete der Zwangsvollstreckung vom 31. Oktober 1939
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000200304)
 
 (1) Ist die Urschrift einer von einem Gericht oder einem Notar
 aufgenommenen oder ausgestellten Urkunde oder einer gerichtlichen
@@ -49,6 +51,7 @@ dem Siegel oder Stempel des Gerichts oder Notars zu versehen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000300304)
 
 Das Gericht kann von Amts wegen oder auf Ersuchen eines Notars, bei
 dem ein Verfahren nach § 1 schwebt, dem Besitzer von Ausfertigungen
@@ -57,6 +60,7 @@ vorzulegen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000400304)
 
 (1) Ist eine Ausfertigung oder beglaubigte Abschrift nicht vorhanden,
 so kann das Gericht oder der Notar den Inhalt der Urkunde durch
@@ -76,6 +80,7 @@ Gutachtens gerechtfertigt ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000500304)
 
 (1) Für die Ersetzung der Urschrift nach den §§ 1 und 3 ist das
 Gericht oder der Notar zuständig, von dem die Urkunde aufgenommen oder
@@ -89,6 +94,7 @@ die Ersetzung der Urschrift zuständig.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000600304)
 
 (1) Im Falle des § 1 ist dem Antragsteller und nach dem Ermessen des
 Gerichts oder des Notars auch anderen Beteiligten eine Ausfertigung
@@ -104,6 +110,7 @@ freiem Ermessen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000701160)
 
 (1) Gegen die Ersetzung der Urschrift steht den Beteiligten, denen die
 Ausfertigung oder Entscheidung zugestellt worden ist (§ 5), die
@@ -133,6 +140,7 @@ Rechtsmittel nicht zulässig.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000800304)
 
 (1) Das Verfahren nach den §§ 1 und 3 ist gebührenfrei. Für die den
 Beteiligten zugestellten Ausfertigungen werden Schreibgebühren
@@ -150,6 +158,7 @@ oder geändert werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE000900304)
 
 Das Amtsgericht ist auch zuständig, Urkunden, die von Dienststellen
 der Wehrmacht im Bereich der freiwilligen Gerichtsbarkeit aufgenommen
@@ -159,17 +168,20 @@ aufgenommen oder ausgestellt hat, wiederherzustellen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE001000304)
 
 Die Vorschriften zur Ausführung dieser Verordnung werden im
 Verwaltungsweg erlassen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE001100304)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/urkersv/BJNR003950942.html#BJNR003950942BJNE001200304)
 
 Der Reichsminister der Justiz
 

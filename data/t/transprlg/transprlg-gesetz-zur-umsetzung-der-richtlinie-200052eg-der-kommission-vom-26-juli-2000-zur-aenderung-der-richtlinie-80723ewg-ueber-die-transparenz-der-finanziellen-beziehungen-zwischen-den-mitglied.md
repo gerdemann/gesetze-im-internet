@@ -22,6 +22,7 @@ Zuletzt gändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000101377)
 
 (1) Die Vorschriften dieses Gesetzes gelten für Unternehmen,
 
@@ -63,6 +64,7 @@ Zuletzt gändert durch
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -97,6 +99,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Rechnungsmäßige Trennung nach Geschäftsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000300000)
 
 (1) Die Unternehmen sind verpflichtet, intern getrennte Konten zur
 Erfassung der Kosten und Erlöse einerseits für alle Geschäftsbereiche
@@ -119,6 +122,7 @@ Gemeinschaftsrecht besondere Regelungen vorsieht.
 
 
 ## § 4 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000400000)
 
 Die Unternehmen haben die Konten und sonstigen Aufzeichnungen nach § 3
 Abs. 1 Satz 1 und 4 fünf Jahre geordnet aufzubewahren. Die
@@ -130,6 +134,7 @@ entsprechende Anwendung.
 
 
 ## § 5 Vorlage- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000500000)
 
 (1) Soweit es zur Beantwortung eines Auskunftsverlangens der
 Kommission der Europäischen Gemeinschaften nach Artikel 5 Abs. 3 der
@@ -152,6 +157,7 @@ Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
 
 ## § 6 Persönliche Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000601360)
 
 (1) Für die Erfüllung der Pflichten nach § 3 Abs. 1, §§ 4 und 5 haben
 der Rechtsträger des Unternehmens und die Personen einzustehen, die
@@ -170,12 +176,14 @@ werden.
 
 
 ## § 7 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000700000)
 
 Rechnungs-, Buchführungs-, Aufzeichnungs-, Aufbewahrungs-, Vorlage-
 und Auskunftspflichten nach anderen Vorschriften bleiben unberührt.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -201,6 +209,7 @@ zwanzigtausend Euro geahndet werden.
 
 
 ## § 9 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE000900000)
 
 Die Verpflichtungen nach § 3 Abs. 1, §§ 4 und 5 sind vom 1. Januar
 2002 an zu erfüllen. Unternehmen, deren erstes nach dem 31. Dezember
@@ -210,6 +219,7 @@ Geschäftsjahres an zu erfüllen.
 
 
 ## § 10 Geschäftsweg
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE001000000)
 
 Der Verkehr mit der Kommission der Europäischen Gemeinschaften obliegt
 der Bundesregierung. § 50 des Gesetzes gegen Wettbewerbsbeschränkungen
@@ -217,6 +227,7 @@ bleibt unberührt.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/transprlg/BJNR214100001.html#BJNR214100001BJNE001100000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

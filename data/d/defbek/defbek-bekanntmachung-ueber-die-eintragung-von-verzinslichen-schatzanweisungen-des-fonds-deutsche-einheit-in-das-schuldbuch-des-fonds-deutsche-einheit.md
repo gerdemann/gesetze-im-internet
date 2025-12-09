@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/defbek/BJNR013220990.html#BJNR013220990BJNE000100328)
 
 Auf Grund des Artikels 31 § 5 Abs. 7 des Gesetzes zu dem Vertrag vom
 18\. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und
@@ -37,6 +38,7 @@ werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/defbek/BJNR013220990.html#BJNR013220990BJNE000200328)
 
 Der Bundesminister der Finanzen
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000100000)
 
 Auf Grund des § 122 Absatz 2 Satz 1 in Verbindung mit Satz 3, des §
 217 Satz 1 Nummer 1 bis 4 in Verbindung mit Satz 3, auch in Verbindung
@@ -31,9 +32,11 @@ Finanzen:
 
 
 ## Kapitel 1 - Versicherungsunternehmen, die nicht kleine Versicherungsunternehmen, Rückversicherungsunternehmen in Abwicklung, Pensions- oder Sterbekassen sind
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000100000)
 
 
 ### § 1 Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000301123)
 
 (1) Die gemäß den Artikeln 248 bis 251 der Delegierten Verordnung (EU)
 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der
@@ -82,12 +85,15 @@ absoluten Untergrenzen unterschreiten:
 
 
 ## Kapitel 2 - Kleine Versicherungsunternehmen, Rückversicherungsunternehmen in Abwicklung sowie Pensions- und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000200000)
 
 
 ### Abschnitt 1 - Alle Versicherungssparten mit Ausnahme der Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000300000)
 
 
 #### § 2 Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000400000)
 
 (1) Die Höhe der Solvabilitätskapitalanforderung ergibt sich
 vorbehaltlich des Absatzes 2 als Maximum des Beitragsindexes nach § 3
@@ -116,6 +122,7 @@ Der Quotient darf dabei höchstens mit 1 angesetzt werden.
 
 
 #### § 3 Beitragsindex
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000500000)
 
 (1) Der Beitragsindex errechnet sich nach den Absätzen 2 und 3. Dabei
 sind die Bruttobeiträge die gebuchten oder die verdienten
@@ -141,6 +148,7 @@ mindestens 0,5 anzusetzen.
 
 
 #### § 4 Schadenindex
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000600000)
 
 (1) Der Schadenindex wird nach Maßgabe der folgenden Sätze ermittelt.
 Die Bruttozahlungen für Versicherungsfälle in den letzten drei
@@ -172,6 +180,7 @@ erwachsen.
 
 
 #### § 5 Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000700000)
 
 Die Prozentsätze nach § 3 Absatz 2 Satz 3 und § 4 Absatz 1 Satz 5 sind
 um zwei Drittel zu kürzen, soweit Krankenversicherungen nach Art der
@@ -204,6 +213,7 @@ Lebensversicherung betrieben werden, wenn
 
 
 #### § 6 Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000801118)
 
 (1) Die Mindestkapitalanforderung beträgt mindestens 2,5 Millionen
 Euro.
@@ -218,6 +228,7 @@ Mindestkapitalanforderung nicht angerechnet.
 
 
 #### § 7 Ausnahme von der Mindestkapitalanforderung für bestimmte kleinere Vereine
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE000900000)
 
 Für kleinere Vereine, deren Satzung vorsieht, dass Nachschüsse
 vorbehalten sind oder Versicherungsansprüche gekürzt werden, und deren
@@ -226,9 +237,11 @@ Mindestbetrag der Mindestkapitalanforderung.
 
 
 ### Abschnitt 2 - Rückversicherungsunternehmen in Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000400000)
 
 
 #### § 8 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001000000)
 
 Für Rückversicherungsunternehmen in Abwicklung gemäß § 165 des
 Versicherungsaufsichtsgesetzes gelten die §§ 2 bis 4 und 6
@@ -236,9 +249,11 @@ entsprechend.
 
 
 ### Abschnitt 3 - Lebensversicherung mit Ausnahme der Pensions- und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000500000)
 
 
 #### § 9 Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001100000)
 
 (1) Bei Kapital- und Rentenversicherungen wird die
 Solvabilitätskapitalanforderung ermittelt als Summe von
@@ -314,6 +329,7 @@ mitzuteilen.
 
 
 #### § 10 Fondsgebundene Lebensversicherung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001200000)
 
 (1) Bei fondsgebundenen Lebensversicherungen gilt § 9 Absatz 1 Satz 1
 Nummer 1 nur insoweit, als das Versicherungsunternehmen ein
@@ -338,6 +354,7 @@ Geschäftsjahr.
 
 
 #### § 11 Zusätzliche Risiken
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001300000)
 
 Für Zusatzrisiken zur Lebensversicherung (§ 10 Absatz 4 des
 Versicherungsaufsichtsgesetzes) bemisst sich die
@@ -347,6 +364,7 @@ Beitragsindex gelten entsprechend.
 
 
 #### § 12 Kapitalisierungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001400000)
 
 Bei Kapitalisierungsgeschäften nach § 1 Absatz 2 Satz 2 des
 Versicherungsaufsichtsgesetzes beträgt die
@@ -355,12 +373,14 @@ Diese sind nach § 9 Absatz 1 Satz 1 Nummer 1 zu berechnen.
 
 
 #### § 13 Tontinengeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001500000)
 
 Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1
 Prozent des Vermögens der Gemeinschaften.
 
 
 #### § 14 Verwaltung von Versorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001600000)
 
 (1) Bei Geschäften der Verwaltung von Versorgungseinrichtungen nach §
 1 Absatz 2 Satz 3 und 4 des Versicherungsaufsichtsgesetzes bestimmt
@@ -382,6 +402,7 @@ Geschäftsjahr.
 
 
 #### § 15 Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001701118)
 
 (1) Die Mindestkapitalanforderung beträgt mindestens 3,7 Millionen
 Euro.
@@ -396,6 +417,7 @@ Mindestkapitalanforderung angerechnet.
 
 
 #### § 16 Zusätzliche Eigenmittel
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001800000)
 
 (1) Wenn die Deckungsrückstellung nicht oder mit einem niedrigeren
 Satz gezillmert wurde als dem in den Beitrag eingerechneten Zuschlag
@@ -419,9 +441,11 @@ angerechnet werden.
 
 
 ### Abschnitt 4 - Pensions- und Sterbekassen
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000600000)
 
 
 #### § 17 Solvabilitätskapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE001900000)
 
 (1) Für die Ermittlung der Solvabilitätskapitalanforderung gelten die
 §§ 9 bis 11, 14 und 16 entsprechend, soweit nicht Absatz 2 etwas
@@ -435,6 +459,7 @@ ist.
 
 
 #### § 18 Mindestkapitalanforderung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002001128)
 
 (1) Für Pensions- und Sterbekassen beträgt die
 Mindestkapitalanforderung mindestens 3 Millionen Euro.
@@ -450,9 +475,11 @@ Mindestkapitalanforderung.
 
 
 ## Kapitel 3 - Berichterstattung gegenüber der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000700000)
 
 
 ### § 19 Solvabilitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002102128)
 
 (1) Die in Kapitel 2 genannten Unternehmen haben jährlich der
 Aufsichtsbehörde eine Berechnung der Solvabilitätskapitalanforderung
@@ -475,6 +502,7 @@ der in der Anlage abgedruckten Formulare in der bis zum 16. Dezember
 
 
 ### § 19a Elektronische Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002500128)
 
 (1) Unternehmen unter Bundesaufsicht übermitteln der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) den
@@ -491,6 +519,7 @@ Hinweise sicherzustellen.
 
 
 ### § 19b Datenformate und Einreichungsvorgaben
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002600128)
 
 (1) Einreichungen bei der Bundesanstalt müssen in einem
 maschinenlesbaren und maschinendurchsuchbaren Dateiformat erfolgen.
@@ -522,6 +551,7 @@ erfolgen.
 
 
 ### § 19c Zusammen bei der Bundesanstalt einzureichende Formularteile
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002700128)
 
 (1) Bereits bei einem früheren Meldevorgang nach § 1 der
 Versicherungsberichterstattungs-Verordnung für das jeweilige
@@ -541,6 +571,7 @@ Meldevorgang übermittelt werden.
 
 
 ### § 19d Korrekturmeldungen gegenüber der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002800128)
 
 (1) Muss der quantitative Formularteil des Solvabilitätsnachweises
 nach Übermittlung korrigiert werden, ist dieser Formularteil
@@ -564,6 +595,7 @@ keiner erneuten Übermittlung des jeweils anderen Formularteils.
 
 
 ### § 19e Zurückweisung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002900128)
 
 (1) Die Bundesanstalt weist eine Meldedatei zurück, wenn Dateninhalte
 oder das Datenformat nicht den Vorgaben nach § 19b entsprechen.
@@ -574,9 +606,11 @@ Zurückweisungsgrundes im MVP-Portal abrufbar.
 
 
 ## Kapitel 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNG000800000)
 
 
 ### § 20 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002201128)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -593,12 +627,14 @@ geltenden Fassung anzuwenden.
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 19 Absatz 3)
 
 ### Anlage Solvabilitätsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kapausstv_2016/BJNR079500016.html#BJNR079500016BJNE002401128)
 
 (Fundstelle: BGBl. 2024 I Nr. 414, S. 172 - 200)
 

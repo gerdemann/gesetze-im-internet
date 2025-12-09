@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000100308)
 
 Dem in New York am 30. Oktober 1958 von der Bundesrepublik Deutschland
 unterzeichneten
@@ -41,6 +42,7 @@ werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000203116)
 
 (1) Die Bundesregierung wird ermächtigt, zur Verhütung der
 Verunreinigung des Meeres und des darüber befindlichen Luftraumes
@@ -109,11 +111,13 @@ Rahmensätze vorzusehen. Die Gebühren für jede Amtshandlung dürfen
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000300308)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000400308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach Artikel 2 Abs. 1 zuwiderhandelt, soweit sie für
@@ -124,12 +128,14 @@ einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000500308)
 
 Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit der
 Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) eingeschränkt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000600308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -139,6 +145,7 @@ S. 1).
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/hohesee_bkg/BJNR210890972.html#BJNR210890972BJNE000700308)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

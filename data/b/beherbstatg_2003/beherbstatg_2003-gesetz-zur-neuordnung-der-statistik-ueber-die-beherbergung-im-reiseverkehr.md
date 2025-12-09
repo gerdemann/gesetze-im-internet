@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anordnung, Zweck
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000100000)
 
 Über die Beherbergung im Reiseverkehr (vorübergehende Beherbergung)
 werden statistische Erhebungen bei Beherbergungsbetrieben als
@@ -27,6 +28,7 @@ Bundesstatistik durchgeführt.
 
 
 ## § 2 Periodizität, Berichtszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000202360)
 
 (1) Die Erhebungen werden monatlich, beginnend für den Berichtsmonat
 Januar 2012, durchgeführt. Die Zahl der Gästezimmer nach § 4 Nummer 4
@@ -38,6 +40,7 @@ Erhebung ist der 31. Juli.
 
 
 ## § 3 Erhebungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000302360)
 
 (1) Beherbergungsbetriebe im Sinne des § 1 sind Betriebe und
 Betriebsteile, die nach Einrichtung und Zweckbestimmung dazu dienen,
@@ -76,6 +79,7 @@ Campingplätzen müssen mindestens zehn Stellplätze vorhanden sein.
 
 
 ## § 4 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000402360)
 
 Erhebungsmerkmale sind:
 
@@ -106,6 +110,7 @@ Erhebungsmerkmale sind:
 
 
 ## § 5 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000501377)
 
 Hilfsmerkmale sind:
 
@@ -120,6 +125,7 @@ Hilfsmerkmale sind:
 
 
 ## § 6 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000603118)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
 ist der Inhaber, die Inhaberin, der Leiter oder die Leiterin des
@@ -147,6 +153,7 @@ Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 7 Übermittlungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000700000)
 
 An die obersten Bundes- und Landesbehörden dürfen für die Verwendung
 gegenüber den gesetzgebenden Körperschaften und für Zwecke der
@@ -157,6 +164,7 @@ Tabellenfelder nur einen einzigen Fall ausweisen.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000900360)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -179,6 +187,7 @@ Zustimmung des Bundesrates
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/beherbstatg_2003/BJNR164200002.html#BJNR164200002BJNE000801360)
 
 Dieses Gesetz tritt am 1. Januar 2003 in Kraft. Gleichzeitig tritt das
 Beherbergungsstatistikgesetz vom 14. Juli 1980 (BGBl. I S. 953),

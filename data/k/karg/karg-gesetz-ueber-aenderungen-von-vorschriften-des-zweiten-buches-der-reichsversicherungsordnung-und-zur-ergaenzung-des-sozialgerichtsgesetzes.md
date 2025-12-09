@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNG000100317)
 
 -
 
 
 ## Art 3 - Geltung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNG000200317)
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -49,10 +51,12 @@ gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 
 ## Art 4 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNG000300317)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000400317)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 
@@ -64,6 +68,7 @@ bleiben unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000501308)
 
 (1) Die in den Ländern bestehenden Vereinigungen der Kassenärzte und
 Kassenzahnärzte werden mit dem Inkrafttreten des Gesetzes
@@ -81,6 +86,7 @@ beteiligten Länder.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000600317)
 
 (1) Die Kassenärztliche Bundesvereinigung und die Kassenzahnärztliche
 Bundesvereinigung werden mit Inkrafttreten dieses Gesetzes
@@ -90,11 +96,13 @@ Bundesvereinigungen im Sinne des § 368k Abs. 2.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000700317)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000800317)
 
 (1) Die Kassenärztliche Vereinigung Deutschlands wird mit
 Inkrafttreten dieses Gesetzes aufgelöst. Ihr Vermögen (Eigentum und
@@ -128,6 +136,7 @@ unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE000900317)
 
 (1) Die Verbindlichkeiten der Kassenärztlichen Vereinigung
 Deutschlands gehen auf die Kassenärztlichen Vereinigungen und die
@@ -149,6 +158,7 @@ des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001000317)
 
 Soweit Eigentum an einem Grundstück nach § 5 übergeht, genügt zum
 Nachweis des Übergangs des Eigentums gegenüber dem Grundbuchamt eine
@@ -157,6 +167,7 @@ Grundbuch eingetragene Rechte entsprechend.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001100317)
 
 (1) Gerichtsgebühren und andere Abgaben, die aus Anlaß und in
 Durchführung der Vorschriften der §§ 5 bis 7 entstehen, werden nicht
@@ -166,6 +177,7 @@ erhoben; bare Auslagen bleiben außer Ansatz.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001200317)
 
 Die Kassenzahnärztliche Vereinigung Deutschlands und die
 Kassendentistische Vereinigung Deutschlands werden aufgelöst. Das
@@ -175,6 +187,7 @@ entsprechend.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001300317)
 
 Die Treuhandschaft des Bundes und des Landes Berlin an dem Eigentum
 und den sonstigen Vermögensrechten der Kassenärztlichen Vereinigung
@@ -184,6 +197,7 @@ Inkrafttreten dieses Gesetzes.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001400317)
 
 (1) Die bis zum Inkrafttreten dieses Gesetzes auf Grund der bisherigen
 Bestimmungen ausgesprochenen Zulassungen zur kassenärztlichen
@@ -193,6 +207,7 @@ Tätigkeit gelten als Zulassungen im Sinne dieses Gesetzes; ...
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001500317)
 
 Die bei Inkrafttreten dieses Gesetzes zwischen den bestehenden
 Vereinigungen der Kassenärzte und den Krankenkassen und ihren
@@ -204,6 +219,7 @@ Verträge ein.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001600317)
 
 (1) Die Bestimmungen und Richtlinien des früheren Reichsausschusses
 für Ärzte und Krankenkassen und die vom früheren Reichsarbeitsminister
@@ -220,6 +236,7 @@ Aufgaben des früheren Reichsausschusses für Ärzte und Krankenkassen
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/karg/BJNR005139955.html#BJNR005139955BJNE001700317)
 
 (1) Als Zahnärzte im Sinne dieses Gesetzes gelten auch die gemäß § 123
 der Reichsversicherungsordnung in der Fassung des § 22 des Gesetzes

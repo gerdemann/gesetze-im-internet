@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -37,12 +38,14 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000200000)
 
 Der Ausbildungsberuf Bergbautechnologe/Bergbautechnologin wird nach §
 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer und Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -52,6 +55,7 @@ Tiefbautechnik oder Tiefbohrtechnik.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -165,6 +169,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000501119)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -186,6 +191,7 @@ durchzusehen.
 
 
 ## § 5 Ziel der Abschlussprüfung, Aufteilung in zwei Teile und Zeitpunkte
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000601119)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -197,6 +203,7 @@ durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ## § 6 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000701119)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -213,6 +220,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ## § 7 Prüfungsbereiche von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000801119)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -227,6 +235,7 @@ statt:
 
 
 ## § 8 Prüfungsbereich „Montagetechnik“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE000901119)
 
 (1) Im Prüfungsbereich „Montagetechnik“ soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -268,6 +277,7 @@ Minuten.
 
 
 ## § 9 Prüfungsbereich „Lagerstätte“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001001119)
 
 (1) Im Prüfungsbereich „Lagerstätte“ soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -297,6 +307,7 @@ bearbeiten.
 
 
 ## § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001101119)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -318,6 +329,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ## § 11 Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbautechnik“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001201119)
 
 Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbautechnik“
 findet in folgenden Prüfungsbereichen statt:
@@ -335,6 +347,7 @@ findet in folgenden Prüfungsbereichen statt:
 
 
 ## § 12 Prüfungsbereich „Bergbautechnische Prozesse“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001301119)
 
 (1) Im Prüfungsbereich „Bergbautechnische Prozesse“ soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -381,6 +394,7 @@ von höchstens zehn Minuten.
 
 
 ## § 13 Prüfungsbereich „Bergbautechnik und Bergrecht“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001700119)
 
 (1) Im Prüfungsbereich „Bergbautechnik und Bergrecht“ soll der
 Prüfling darstellen, dass er in der Lage ist,
@@ -434,6 +448,7 @@ Prüfling darstellen, dass er in der Lage ist,
 
 
 ## § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001800119)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ soll der
 Prüfling nachweisen, dass er in der Lage ist, allgemeine
@@ -447,6 +462,7 @@ Aufgaben schriftlich bearbeiten.
 
 
 ## § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001900119)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -517,6 +533,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 16 Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbohrtechnik“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002000119)
 
 Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbohrtechnik“
 findet in folgenden Prüfungsbereichen statt:
@@ -534,6 +551,7 @@ findet in folgenden Prüfungsbereichen statt:
 
 
 ## § 17 Prüfungsbereich „Bohrtechnische Prozesse“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002100119)
 
 (1) Im Prüfungsbereich „Bohrtechnische Prozesse“ soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -569,6 +587,7 @@ auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
 ## § 18 Prüfungsbereich „Bohrtechnik und Bergrecht“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002200119)
 
 (1) Im Prüfungsbereich „Bohrtechnik und Bergrecht“ soll der Prüfling
 darstellen, dass er in der Lage ist,
@@ -620,6 +639,7 @@ darstellen, dass er in der Lage ist,
 
 
 ## § 19 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002300119)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ soll der
 Prüfling nachweisen, dass er in der Lage ist, allgemeine
@@ -633,6 +653,7 @@ Aufgaben schriftlich bearbeiten.
 
 
 ## § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002400119)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -723,6 +744,7 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## § 21 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE002500119)
 
 Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2015
 bestehen, werden nach den bis dahin geltenden Vorschriften zu Ende
@@ -731,6 +753,7 @@ geführt.
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001500000)
 
 (Fundstelle: BGBl. I 2009, 1244 - 1248)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1518,6 +1541,7 @@ und Fähigkeiten in der Fachrichtung Tiefbohrtechnik**
 (zu § 3 Absatz 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/bergtechausbv/BJNR124000009.html#BJNR124000009BJNE001600000)
 
 (Fundstelle: BGBl. I 2009, 1249 - 1262)
 **Abschnitt 1**

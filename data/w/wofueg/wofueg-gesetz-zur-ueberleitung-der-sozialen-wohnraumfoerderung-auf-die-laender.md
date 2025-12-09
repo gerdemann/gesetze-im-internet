@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/wof_g/BJNR210000006.html#BJNR210000006BJNE000100000)
 
 Die den Ländern zur Förderung des Wohnungsbaus als Darlehen gewährten
 Bundesmittel und Finanzhilfen sind mindestens so zu verzinsen und zu
@@ -37,6 +38,7 @@ Verwaltungsvereinbarung geregelt.
 
 
 ## § 2 Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/wof_g/BJNR210000006.html#BJNR210000006BJNE000201311)
 
 (1) Auf Wohnungsfürsorgemittel, die aus Haushalten des Bundes sowie
 der früheren öffentlich-rechtlichen Sondervermögen des Bundes oder

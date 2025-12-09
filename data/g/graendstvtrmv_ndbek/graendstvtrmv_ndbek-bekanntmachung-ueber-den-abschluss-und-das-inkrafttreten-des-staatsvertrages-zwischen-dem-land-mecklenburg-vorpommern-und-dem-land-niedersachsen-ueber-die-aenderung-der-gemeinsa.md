@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrmv_ndbek/BJNR151300993.html#BJNR151300993BJNE000100307)
 
 Zwischen dem Land Mecklenburg-Vorpommern und dem Land Niedersachsen
 wurde am 2./9. März 1993 ein Staatsvertrag über eine Änderung der

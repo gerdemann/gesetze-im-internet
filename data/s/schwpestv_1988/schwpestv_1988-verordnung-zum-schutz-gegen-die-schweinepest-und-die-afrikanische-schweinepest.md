@@ -38,10 +38,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000109119)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE002712119)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -125,14 +127,17 @@ Schweine, die nachweislich gegen Schweinepest geimpft sind.
 
 
 ## Abschnitt 2 - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000209119)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000309119)
 
 
 
 #### § 2 Impfverbot
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE002812119)
 
 (1) Impfungen gegen die Schweinepest oder die Afrikanische
 Schweinepest sowie Heilversuche an seuchenkranken und
@@ -146,6 +151,7 @@ sofern Belange der Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 2a Verbot des Verfütterns von Küchen- und Speiseabfällen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007503119)
 
 Das Verfüttern von Küchen- und Speiseabfällen an Schweine, die keine
 Nutztiere im Sinne des Artikels 3 Nummer 6 Buchstabe a der Verordnung
@@ -158,6 +164,7 @@ zuletzt durch die Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom
 
 
 #### § 2b Reinigung und Desinfektion von Transportfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007605119)
 
 (1) Fahrzeuge für den Transport von Schweinen, mit denen ein Betrieb
 oder eine Schlachtstätte angefahren worden ist, der oder die in einem
@@ -225,6 +232,7 @@ tierische Nebenprodukte bleiben unberührt.
 
 
 #### § 3 Behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE002911119)
 
 Die zuständige Behörde kann, soweit es aus Gründen der
 Seuchenbekämpfung erforderlich ist,
@@ -253,6 +261,7 @@ anordnen.
 
 
 #### § 3a Weitere behördliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007704119)
 
 Die zuständige Behörde kann für ein von ihr bestimmtes Gebiet, soweit
 es zur Vorbeugung vor der Einschleppung oder zur Erkennung der
@@ -315,6 +324,7 @@ Tierseuchenbekämpfung erforderlich ist.
 
 
 #### § 3b Amtliche Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006807119)
 
 Bei amtlichen oder amtlich angeordneten Untersuchungen ist das
 Diagnosehandbuch mit Diagnosemethoden, Probenahmeverfahren und
@@ -338,14 +348,17 @@ in der jeweils geltenden Fassung anzuwenden.
 
 
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000409119)
 
 
 
 #### A. - Vor amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000509119)
 
 
 
 ##### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003014119)
 
 (1) Im Falle des Verdachts auf Schweinepest oder Afrikanische
 Schweinepest in einem Betrieb ordnet die zuständige Behörde in Bezug
@@ -590,24 +603,29 @@ liegenden Betriebe entsprechend.
 
 
 #### B. - Nach amtlicher Feststellung der Schweinepest und der Afrikanischen Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000609119)
 
 
 
 ##### 1. - Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000810119)
 
 
 
 ###### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003110119)
 
 Die zuständige Behörde macht den Ausbruch der Schweinepest oder der
 Afrikanischen Schweinepest öffentlich bekannt.
 
 
 ##### 2. - Schutzmaßregeln für den Seuchenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG000910119)
 
 
 
 ###### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003215119)
 
 (1) Ist der Ausbruch der Schweinepest oder der Afrikanischen
 Schweinepest in einem Betrieb amtlich festgestellt, so ordnet die
@@ -680,10 +698,12 @@ mit Genehmigung der zuständigen Behörde verbracht werden.
 
 
 ###### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003313119)
 
 
 
 ###### § 8 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003412119)
 
 (1) Bei Seuchenbetrieben mit gesonderten Betriebsabteilungen kann die
 zuständige Behörde für nicht betroffene Betriebsabteilungen Ausnahmen
@@ -713,14 +733,17 @@ Absätzen 1 und 2 erteilten Ausnahmegenehmigungen mit.
 
 
 ###### (XXXX) §§ 9 und 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003510119)
 
 
 
 ##### 3. - Schutzmaßregeln für den Sperrbezirk und das Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG001013119)
 
 
 
 ###### § 11 Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003722119)
 
 (1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem
 Betrieb amtlich festgestellt, so legt die zuständige Behörde ein
@@ -857,6 +880,7 @@ Folgendes:
 
 
 ###### § 11a Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005515119)
 
 (1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem
 Betrieb amtlich festgestellt, so legt die zuständige Behörde um den
@@ -901,6 +925,7 @@ sowie § 11 Absatz 2 Nummer 5, Absatz 3 Nummer 1 und Absatz 4 Nummer 1,
 
 
 ###### § 11b Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005613119)
 
 (1) Die zuständige Behörde kann Ausnahmen von § 11 Absatz 4 Nummer 1
 und 5 Satz 1 und § 11a Absatz 3 Satz 2 für das Verbringen oder den
@@ -1102,6 +1127,7 @@ innerhalb eines Sperrbezirks liegt, wenn
 
 
 ###### § 11c Seuchenausbruch in benachbartem Staat
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005710119)
 
 Wird auf dem Gebiet eines benachbarten Staates der Ausbruch der
 Schweinepest oder der Afrikanischen Schweinepest innerhalb einer
@@ -1112,6 +1138,7 @@ entsprechend den §§ 11 und 11a an. § 11b gilt entsprechend.
 
 
 ###### § 11d Weitergehende Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005814119)
 
 (1) In Zeiten erhöhter Seuchengefahr kann die zuständige Behörde die
 Durchführung von Schweineausstellungen, Schweinemärkten und
@@ -1131,10 +1158,12 @@ Tiergesundheitsgesetzes an.
 
 
 ##### 4. - Schutzmaßregeln für den Kontaktbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG001211119)
 
 
 
 ###### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE003916119)
 
 (1) Führt die epidemiologische Nachforschung nach § 4 Absatz 1 Satz 2
 zu dem Ergebnis, dass die Schweinepest oder die Afrikanische
@@ -1173,10 +1202,12 @@ an.
 
 
 ##### 5. - Notimpfung bei Hausschweinen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG001311119)
 
 
 
 ###### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE004015119)
 
 (1) Die zuständige oberste Landesbehörde kann, vorbehaltlich der
 Zustimmung durch die Europäische Kommission, für ein bestimmtes Gebiet
@@ -1267,10 +1298,12 @@ Impfgebiet Folgendes:
 
 
 ##### 6. - Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002510119)
 
 
 
 ###### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005913119)
 
 Die zuständige Behörde kann über § 4 Absatz 1 Satz 2 Nummer 2 und § 6
 Absatz 1 Satz 1 Nummer 2 hinaus die Tötung von Schweinen im
@@ -1281,14 +1314,17 @@ Infektionsherdes, erforderlich ist.
 
 
 ##### 7. - Schutzmaßregeln beim Auftreten der Schweinepest oder der Afrikanischen Schweinepest bei Wildschweinen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002611119)
 
 
 
 ###### a. - bei Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002703119)
 
 
 
 ###### § 14a Gefährdeter Bezirk
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006019119)
 
 (1) Im Falle des Verdachts auf Schweinepest bei einem Wildschwein
 ordnet die zuständige Behörde die serologische und virologische
@@ -1503,6 +1539,7 @@ erforderlich ist.
 
 
 ###### § 14b Notimpfung bei Wildschweinen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006209119)
 
 Die zuständige oberste Landesbehörde kann, vorbehaltlich der
 Zustimmung durch die Europäische Kommission, für den gefährdeten
@@ -1523,6 +1560,7 @@ Impfköder im Rahmen der Notimpfung verpflichtet.
 
 
 ###### § 14c Maßregeln zur Erkennung der Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006513119)
 
 (1) Zur Erkennung der Schweinepest bei Wildschweinen gilt im
 gefährdeten Bezirk Folgendes:
@@ -1620,10 +1658,12 @@ Seuchenbekämpfung nicht entgegenstehen.
 
 
 ###### b. - bei Afrikanischer Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002803119)
 
 
 
 ###### § 14d Kerngebiet, gefährdetes Gebiet und Pufferzone
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007809119)
 
 (1) Im Falle des Verdachts auf Afrikanische Schweinepest bei einem
 Wildschwein ordnet die zuständige Behörde die virologische
@@ -1888,6 +1928,7 @@ der Tierseuchenbekämpfung erforderlich ist.
 
 
 ###### § 14e Maßregeln zur Erkennung der Afrikanischen Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007905119)
 
 (1) Zur Erkennung der Afrikanischen Schweinepest bei Wildschweinen
 gilt im gefährdeten Gebiet und in der Pufferzone Folgendes:
@@ -2017,6 +2058,7 @@ anordnen, dass Jagdausübungsberechtigte
 
 
 ###### § 14f Maßregeln bei Afrikanischer Schweinepest für Schweine
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE008005119)
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem
 Wildschwein amtlich festgestellt, dürfen Schweine
@@ -2333,6 +2375,7 @@ Teil II oder Teil III des Anhangs des Durchführungsbeschlusses
 
 
 ###### § 14g Maßregeln bei Afrikanischer Schweinepest für frisches Schweinefleisch und Schweinefleischerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE008104119)
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem
 Wildschwein amtlich festgestellt, dürfen
@@ -2442,6 +2485,7 @@ zu verwechseln sein.
 
 
 ###### § 14h Maßregeln bei Afrikanischer Schweinepest für Sperma, Eizellen und Embryonen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE008204119)
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem
 Wildschwein amtlich festgestellt, dürfen
@@ -2539,6 +2583,7 @@ Mitgliedstaaten über die nach Absatz 3 erteilten Genehmigungen.
 
 
 ###### § 14i Maßregeln bei Afrikanischer Schweinepest für Wildschweine, Wildschweinefleisch und Wildschweinefleischerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE008304119)
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem
 Wildschwein amtlich festgestellt, dürfen
@@ -2617,6 +2662,7 @@ zu verwechseln sein.
 
 
 ###### § 14j Maßregeln bei Afrikanischer Schweinepest für tierische Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE008403119)
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem
 Wildschwein amtlich festgestellt, dürfen tierische Nebenprodukte und
@@ -2662,10 +2708,12 @@ Das Recht der Beseitigung tierischer Nebenprodukte bleibt unberührt.
 
 
 ###### c. - bei Schweinepest und Afrikanischer Schweinepest
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002903119)
 
 
 
 ###### § 14k Tilgungsplan
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006610119)
 
 (1) Die zuständige Behörde legt dem Bundesministerium
 
@@ -2700,6 +2748,7 @@ Richtlinie 2002/60/EG vorgesehen sind.
 
 
 ###### § 14l Seuchenausbruch bei Wildschweinen in einem benachbarten Staat
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007007119)
 
 Wird auf dem Gebiet eines benachbarten Staates der Ausbruch der
 Schweinepest oder der Afrikanischen Schweinepest bei Wildschweinen
@@ -2714,14 +2763,17 @@ entsprechend den §§ 14d bis 14j anordnen.
 
 
 ###### (XXXX) §§ 15 bis 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE004110119)
 
 
 
 ## Abschnitt 3 - Schutzmaßregeln in Schlachtstätten und auf dem Transport
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002111119)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE004913119)
 
 (1) Im Falle des Verdachts auf Schweinepest oder Afrikanische
 Schweinepest in einer Schlachtstätte oder in einem Transportmittel
@@ -2778,10 +2830,12 @@ beseitigen zu lassen.
 
 
 ## Abschnitt 4 - Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002213119)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005020119)
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn
 die Schweinepest bei Hausschweinen oder die Afrikanische Schweinepest
@@ -2987,6 +3041,7 @@ der Seuchensituation um bis zu sechs Monate verlängern.
 
 
 ### § 24a Wiederbelegung
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006111119)
 
 (1) Betriebe, in denen nach einem Ausbruch der Schweinepest auf
 Anordnung der zuständigen Behörde die Schweine getötet und unschädlich
@@ -3114,6 +3169,7 @@ Monate nach Abschluss der Reinigung und Desinfektion nach § 24 Absatz
 
 
 ### § 24b Wiederbelegung von Betrieben im Impfgebiet
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007206119)
 
 (1) Betriebe, in denen nach § 13 geimpft worden ist, dürfen mit
 Schweinen erst wiederbelegt werden, wenn
@@ -3137,10 +3193,12 @@ nach Satz 1 Schweine nicht aus dem Betrieb verbracht werden dürfen.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002309119)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005126119)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -3375,10 +3433,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNG002410119)
 
 
 
 ### § 25a Weitergehende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007406119)
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der
 Schweinepest oder Afrikanischen Schweinepest bei einem Hausschwein
@@ -3390,6 +3450,7 @@ nicht entgegenstehen, bleibt unberührt.
 
 
 ### § 25b Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE007307119)
 
 (1) Am 25. Juli 2003 bestehende Einrichtungen nach § 8 Absatz 2 Satz 1
 haben der zuständigen Behörde die Voraussetzungen und Vorkehrungen,
@@ -3408,12 +3469,14 @@ Juli 2003 für gefährdete Bezirke geltenden Vorschriften anzuwenden.
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE005312119)
 
 
 (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc
 Dreifachbuchstabe aaa)
 
 ### Anlage Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/schwpestv_1988/BJNR015590988.html#BJNR015590988BJNE006711119)
 
 (Fundstelle: BGBl. I 2020, 1629)
 

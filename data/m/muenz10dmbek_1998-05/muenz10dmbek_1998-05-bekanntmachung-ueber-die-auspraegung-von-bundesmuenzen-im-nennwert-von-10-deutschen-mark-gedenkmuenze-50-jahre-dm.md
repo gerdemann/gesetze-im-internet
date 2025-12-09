@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1998-05/BJNR123700998.html#BJNR123700998BJNE000100305)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
@@ -98,6 +99,7 @@ Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1998-05/BJNR123700998.html#BJNR123700998BJNE000200305)
 
 (Fundstelle: BGBl. I 1998, 1237)
 ![bgbl1_1998_j1237_0010.jpg](bgbl1_1998_j1237_0010.jpg)

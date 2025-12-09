@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fzvausnv_2021/BJNR196800020.html#BJNR196800020BJNE000102123)
 
 Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in
 Verbindung mit § 6 Absatz 2 jeweils in Verbindung mit Absatz 3 des
@@ -35,6 +36,7 @@ nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1 Versicherungskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzvausnv_2021/BJNR196800020.html#BJNR196800020BJNE000203123)
 
 (1) Versicherungskennzeichen nach § 52 der Fahrzeug-
 Zulassungsverordnung dürfen sich abweichend von § 53 der Fahrzeug-
@@ -100,12 +102,14 @@ Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung unberührt.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fzvausnv_2021/BJNR196800020.html#BJNR196800020BJNE000302123)
 
 Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt mit Ablauf
 des 31. August 2026 außer Kraft.
 
 
 ## Anlage Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzvausnv_2021/BJNR196800020.html#BJNR196800020BJNE000402123)
 
 (Fundstelle: BGBl. I 2020, 1970 - 1971)
 

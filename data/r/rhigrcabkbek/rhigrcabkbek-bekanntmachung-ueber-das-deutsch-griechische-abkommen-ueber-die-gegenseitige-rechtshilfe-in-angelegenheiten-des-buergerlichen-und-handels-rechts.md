@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rhigrcabkbek/BJNR208480939.html#BJNR208480939BJNE000100306)
 
 (1) ...
 
@@ -32,6 +33,7 @@ Handels-Rechts (Reichsgesetzbl. II S. 847) erlassen worden.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rhigrcabkbek/BJNR208480939.html#BJNR208480939BJNE000200306)
 
 Der Reichsminister des Auswärtigen
 Der Reichsminister der Justiz

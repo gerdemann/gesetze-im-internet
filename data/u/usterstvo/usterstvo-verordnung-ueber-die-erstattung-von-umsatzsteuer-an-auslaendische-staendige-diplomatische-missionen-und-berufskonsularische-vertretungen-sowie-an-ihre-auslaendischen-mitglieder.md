@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000205140)
 
 (1) Hat eine im Geltungsbereich dieser Verordnung errichtete
 ausländische ständige diplomatische Mission oder ausländische ständige
@@ -49,6 +50,7 @@ gewähren.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000303301)
 
 (1) § 1 gilt zugunsten eines Mitglieds der Mission oder der
 berufskonsularischen Vertretung, das weder Angehöriger der
@@ -62,6 +64,7 @@ hierbei nicht zu berücksichtigen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000402301)
 
 (1) Die §§ 1 und 2 gelten nicht für den Erwerb von Lebensmitteln und
 Tabakerzeugnissen sowie die Abgabe von Speisen und Getränken zum
@@ -74,6 +77,7 @@ zu kürzen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000504123)
 
 (1) Der Antrag auf Erstattung ist unter Beifügung der in Betracht
 kommenden Rechnungen und Zahlungsnachweise nach einem vom
@@ -103,6 +107,7 @@ Antrags verrechnet werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000602309)
 
 Diese Verordnung ist auf Steuerbeträge anzuwenden, denen Lieferungen
 und sonstige Leistungen zugrunde liegen, die nach dem 31. Dezember
@@ -110,6 +115,7 @@ und sonstige Leistungen zugrunde liegen, die nach dem 31. Dezember
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000701309)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom
@@ -119,6 +125,7 @@ Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom 24. April 1963
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/usterstvo/BJNR003160970.html#BJNR003160970BJNE000801309)
 
 (Inkrafttreten)
 

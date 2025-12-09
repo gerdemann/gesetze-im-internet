@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000100000)
 
 Es verordnen
 
@@ -75,10 +76,12 @@ Es verordnen
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000100000)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000301377)
 
 Die Vorschriften dieser Verordnung gelten für den Umgang mit
 tierischen Nebenprodukten im Sinne des Artikels 2 Abs. 1 Buchstabe a
@@ -91,6 +94,7 @@ Buchstabe e der Verordnung (EG) Nr. 1774/2002.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000400000)
 
 (1) Im Sinne dieser Verordnung sind:
 
@@ -151,10 +155,12 @@ Anhangs I der Verordnung (EG) Nr. 1774/2002.
 
 
 ## Teil 2 - Spezifische Anforderungen für Küchen- und Speiseabfälle und an Betriebe mit Nutztierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000200000)
 
 
 
 ### § 3 Küchen- und Speiseabfälle aus privaten Haushaltungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000501377)
 
 (1) Für Küchen- und Speiseabfälle der Kategorie 3, die in privaten
 Haushaltungen anfallen und die in einer Biogas- oder
@@ -199,6 +205,7 @@ keine Anwendung.
 
 
 ### § 4 Sonstige Küchen- und Speiseabfälle
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000600000)
 
 (1) Küchen- und Speiseabfälle der Kategorie 3, die nicht in privaten
 Haushaltungen anfallen und die in einer Biogas- oder
@@ -236,6 +243,7 @@ desinfizieren.
 
 
 ### § 5 Betriebe mit Nutztierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000702377)
 
 (1) Tierische Nebenprodukte, verarbeitete Erzeugnisse und tierische
 Nebenprodukte enthaltende Düngemittel, Bodenhilfsstoffe,
@@ -287,10 +295,12 @@ Absatz 3 entsprechend.
 
 
 ## Teil 3 - Transport- und Nachweisverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000300000)
 
 
 
 ### § 6 Lagerung, Beförderung und Inverkehrbringen von Gülle
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000800000)
 
 (1) Artikel 7 Abs. 1 bis 3 und 5 der Verordnung (EG) Nr. 1774/2002
 sowie die §§ 8 und 9 gelten nicht für Gülle, soweit sie
@@ -320,6 +330,7 @@ der Verordnung (EG) Nr. 1774/2002 genehmigen.
 
 
 ### § 7 Anzeige und Betriebsregistrierung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE000900000)
 
 Wer tierische Nebenprodukte gewerbsmäßig abholt, sammelt oder
 befördert, hat seinen Betrieb vor Beginn der Tätigkeit der zuständigen
@@ -329,6 +340,7 @@ anzuzeigen. Änderungen sind unverzüglich anzuzeigen.
 
 
 ### § 8 Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001000000)
 
 (1) Wer Fermentationsrückstände aus Biogasanlagen oder Komposte aus
 Kompostierungsanlagen abholt, sammelt oder befördert, hat
@@ -380,6 +392,7 @@ Desinfektionskontrollbuch ist während der Beförderung mitzuführen.
 
 
 ### § 9 Handelspapiere, Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001100000)
 
 (1) Wer tierische Nebenprodukte oder verarbeitete Erzeugnisse im
 Inland befördert, hat sicherzustellen, dass die tierischen
@@ -480,6 +493,7 @@ verarbeitete Erzeugnisse nach Absatz 1 Satz 2.
 
 
 ### § 9a Kennzeichnung von Verpackungen, Behältern oder Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003800377)
 
 (1) Die natürliche oder juristische Person, in deren betrieblicher
 Verantwortung die Beförderung von nach Anhang II Kapitel I Nr. 2 der
@@ -534,14 +548,17 @@ versehen sein.
 
 
 ## Teil 4 - Anforderungen an die Verarbeitung, Behandlung und Entsorgung tierischer Nebenprodukte
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000400000)
 
 
 
 ### Abschnitt 1 - Verarbeitungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000500000)
 
 
 
 #### § 10 Verarbeitungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001200000)
 
 (1) Material der Kategorie 1 sowie Material der Kategorie 2 mit
 Ausnahme von Milch der Kategorie 2, Kolostrum, Gülle und Magen- und
@@ -582,10 +599,12 @@ gelten § 8 Abs. 2 und § 9 entsprechend.
 
 
 ### Abschnitt 2 - Pasteurisierung von tierischen Nebenprodukten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000600000)
 
 
 
 #### § 11 Anlagen zur Pasteurisierung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001300000)
 
 Anlagen zur Pasteurisierung von Material der Kategorie 3, die nicht
 Teil einer nach Artikel 15 in Verbindung mit Anhang VI Kapitel II der
@@ -620,14 +639,17 @@ entsprechend.
 
 
 ### Abschnitt 3 - Vergärung und Kompostierung von tierischen Nebenprodukten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000700000)
 
 
 
 #### Unterabschnitt 1 - Anforderungen an Biogasanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000800000)
 
 
 
 ##### § 12 Verarbeitung von tierischen Nebenprodukten in einer Biogasanlage
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001400000)
 
 Tierische Nebenprodukte dürfen in einer Biogasanlage, die nach Artikel
 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002 zugelassen ist und
@@ -640,6 +662,7 @@ ist oder eine Pasteurisierung des Fermentationsrückstandes erfolgt.
 
 
 ##### § 13 Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001501377)
 
 (1) Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle
 der Kategorie 3 eingesetzt werden, bedürfen nicht der Zulassung nach
@@ -670,6 +693,7 @@ Bioabfallverordnung und an die Prozessüberwachung nach Anhang 2 Nummer
 
 
 ##### § 14 Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001601377)
 
 (1) Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle
 der Kategorie 3 zusammen mit Gülle, Magen- und Darminhalt, Milch und
@@ -689,6 +713,7 @@ Bioabfallverordnung entsprechend eingehalten werden.
 
 
 ##### § 15 Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001700000)
 
 Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt,
 Milch und Kolostrum aus Betrieben, die keinen tierseuchenrechtlichen
@@ -720,10 +745,12 @@ eingehalten werden.
 
 
 #### Unterabschnitt 2 - Anforderungen an Kompostierungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG000900000)
 
 
 
 ##### § 16 Verarbeitung von tierischen Nebenprodukten in einer Kompostierungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001800000)
 
 Tierische Nebenprodukte dürfen in eine Kompostierungsanlage, die nicht
 den §§ 17 bis 19 unterfällt, nur verbracht werden, wenn
@@ -760,6 +787,7 @@ den §§ 17 bis 19 unterfällt, nur verbracht werden, wenn
 
 
 ##### § 17 Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE001901377)
 
 (1) Kompostierungsanlagen, in denen ausschließlich Küchen- und
 Speiseabfälle der Kategorie 3 eingesetzt werden, bedürfen nicht der
@@ -793,6 +821,7 @@ Kompostierreaktor betrieben wird.
 
 
 ##### § 18 Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002001377)
 
 (1) Kompostierungsanlagen, in denen ausschließlich Küchen- und
 Speiseabfälle der Kategorie 3 zusammen mit Gülle, Magen- und
@@ -812,6 +841,7 @@ Bioabfallverordnung und an die Prozessüberwachung nach Anhang 2 Nummer
 
 
 ##### § 19 Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002100000)
 
 Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und
 Darminhalt, Milch und Kolostrum aus Betrieben, die keinen
@@ -842,10 +872,12 @@ eingehalten werden.
 
 
 #### Unterabschnitt 3 - Anforderungen an Biogas- und Kompostierungsanlagen, Untersuchungen und Probenahme bei zugelassenen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001000000)
 
 
 
 ##### § 20 Gemeinsame Anforderungen an Biogas- und Kompostierungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002200000)
 
 (1) Verarbeitete Gülle aus einer nach Artikel 15 Abs. 1 und 2 der
 Verordnung (EG) Nr. 1774/2002 zugelassenen Biogas- oder
@@ -864,6 +896,7 @@ beginnend mit dem Tag der jeweiligen Aufzeichnung, aufzubewahren.
 
 
 ##### § 21 Untersuchungen und Probenahme in Biogas- und Kompostierungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002301377)
 
 (1) Der Betreiber einer Biogas- oder Kompostierungsanlage hat Proben
 von Fermentationsrückständen oder Komposten aus Anlagen nach den §§ 12
@@ -935,6 +968,7 @@ durchzuführen.
 
 
 ##### § 22 Untersuchungen und Probenahme in Anlagen zur Pasteurisierung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002400000)
 
 Der Betreiber einer Anlage zur Pasteurisierung hat Proben der
 pasteurisierten tierischen Materialien auf Escherichia Coli oder
@@ -945,10 +979,12 @@ von der zuständigen Behörde bestimmte Stelle durchzuführen.
 
 
 #### Unterabschnitt 4 - Verwertung von Fermentationsrückständen  und Komposten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001100000)
 
 
 
 ##### § 23 Verwertung von Fermentationsrückständen und Komposten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002501377)
 
 (1) Fermentationsrückstände und Komposte, die tierische Nebenprodukte
 und verarbeitete Erzeugnisse enthalten, dürfen auf landwirtschaftlich,
@@ -991,10 +1027,12 @@ auszubringende Material eine Temperatur von mindestens 70 Grad Celsius
 
 
 ### Abschnitt 4 - Anlagen zur Entsorgung tierischer Nebenprodukte als Abfall
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001200000)
 
 
 
 #### § 24 Verbrennungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002601377)
 
 (1) Rückstände aus Anlagen, die nach Artikel 12 Abs. 1 in Verbindung
 mit Abs. 2 oder 3 der Verordnung (EG) Nr. 1774/2002 zugelassen sind
@@ -1017,6 +1055,7 @@ verbrannt oder mitverbrannt werden.
 
 
 #### § 25 Ablagerung auf Deponien
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002701377)
 
 Bei einer Ablagerung von tierischen Nebenprodukten oder verarbeiteten
 Erzeugnissen auf einer Deponie finden die für die Ablagerung von
@@ -1033,10 +1072,12 @@ Verbrennens und Vergrabens tierischer Nebenprodukte und bestimmter
 
 
 ## Teil 5 - Registrierung und Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001300000)
 
 
 
 ### § 26 Registrierung und Bekanntmachung der Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002802301)
 
 (1) Die zuständige Behörde erfasst die nach
 
@@ -1072,10 +1113,12 @@ im Bundesanzeiger bekannt.
 
 
 ## Teil 6 - Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001400000)
 
 
 
 ### § 27 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE002902119)
 
 (1) Die zuständige Behörde kann Ausnahmen von Artikel 6 Abs. 2 der
 Verordnung (EG) Nr. 1774/2002 im Hinblick auf Blut genehmigen, das zu
@@ -1116,10 +1159,12 @@ geltenden Fassung.
 
 
 ## Teil 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNG001500000)
 
 
 
 ### § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003004377)
 
 (1) Ordnungswidrig im Sinne des § 14 Abs. 1 Nr. 8 des Tierische
 Nebenprodukte-Beseitigungsgesetzes handelt, wer vorsätzlich oder
@@ -1259,17 +1304,20 @@ Abs. 1 einen Fermentationsrückstand oder einen Kompost aufbringt.
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003100000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003200000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 9 Abs. 1, 3 und 4)
 
 ### Anlage 1 Handelspapiere
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003300000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1746 - 1747
 
@@ -1405,6 +1453,7 @@ Gewichts (in Kilogramm) oder der Tierzahl:
 (zu § 9 Abs. 5)
 
 ### Anlage 2 Muster für Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003401377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1748;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1551,6 +1600,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 21 Abs. 1)
 
 ### Anlage 3 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003500000)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1749 - 1750)
 
@@ -1707,6 +1757,7 @@ Einzelprobe nicht eingehalten zu werden.
 (zu § 23 Abs. 1)
 
 ### Anlage 4 Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen  zugelassenen tierischen Nebenprodukte, soweit die  Fermentationsrückstände und Komposte aus den Anlagen zur  Verwertung auf Böden bestimmt sind
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003600000)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
@@ -1740,6 +1791,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1751
 (zu § 26 Abs. 1)
 
 ### Anlage 5 Nummernschlüssel für die Betriebsart
+[Direktlink](https://www.gesetze-im-internet.de/tiernebv/BJNR173500006.html#BJNR173500006BJNE003701377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1752;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

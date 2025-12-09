@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000100000)
 
 Es verordnen auf Grund
 
@@ -46,9 +47,11 @@ Es verordnen auf Grund
 
 
 ## Abschnitt 1 - Zuständigkeit, Unterrichtung in Strafsachen, Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000100000)
 
 
 ### § 1 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000300000)
 
 (1) § 34a der Gewerbeordnung wird für Gewerbetreibende sowie mit der
 Leitung des Betriebs oder einer Zweigniederlassung beauftragte
@@ -74,6 +77,7 @@ Absatz 1.
 
 
 ### § 2 Unterrichtung in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000400000)
 
 In Strafsachen gegen Gewerbetreibende im Sinne des § 34a Absatz 1 Satz
 1 der Gewerbeordnung, gegen mit der Leitung des Betriebs oder einer
@@ -102,6 +106,7 @@ elektronischen Verfahren erfolgen.
 
 
 ### § 3 Angaben bei der Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000500000)
 
 (1) Mit einem Antrag auf Erteilung einer Erlaubnis nach § 34a Absatz 1
 der Gewerbeordnung hat die den Antrag stellende Person der zuständigen
@@ -236,9 +241,11 @@ unverzüglich mitzuteilen.
 
 
 ## Abschnitt 2 - Unterrichtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000200000)
 
 
 ### § 4 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000600000)
 
 Zweck der Unterrichtung nach § 34a Absatz 1a Satz 1 Nummer 2 der
 Gewerbeordnung ist es, Wachpersonen so zu befähigen, dass sie mit den
@@ -248,12 +255,14 @@ Befugnissen und deren praktischer Anwendung vertraut sind.
 
 
 ### § 5 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000700000)
 
 Die Unterrichtung kann bei jeder Industrie- und Handelskammer
 erfolgen, die diese anbietet.
 
 
 ### § 6 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000800000)
 
 (1) Die Unterrichtung erfolgt mündlich. Die zu unterrichtende Person
 muss über die zur Ausübung der Tätigkeit und zum Verständnis des
@@ -277,6 +286,7 @@ deren praktischer Anwendung nach Maßgabe des § 7 vertraut ist.
 
 
 ### § 7 Inhalt der Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE000900000)
 
 Die Unterrichtung umfasst nach näherer Bestimmung der Anlage 2 für
 alle Arten des Bewachungsgewerbes die fachspezifischen Rechte,
@@ -311,6 +321,7 @@ Pflichten und Befugnisse folgender Sachgebiete:
 
 
 ### § 8 Anerkennung anderer Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001001116)
 
 Bei Vorliegen folgender Nachweise ist der Nachweis einer Unterrichtung
 nicht erforderlich:
@@ -362,9 +373,11 @@ nicht erforderlich:
 
 
 ## Abschnitt 3 - Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000300000)
 
 
 ### § 9 Zweck und Gegenstand der Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001100000)
 
 (1) Zweck der Sachkundeprüfung nach § 34a Absatz 1 Satz 3 Nummer 3 und
 Absatz 1a Satz 2 der Gewerbeordnung ist es, den Nachweis zu erbringen,
@@ -379,6 +392,7 @@ dort aufgeführten Gebiete erstrecken.
 
 
 ### § 10 Zuständige Stelle und Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001200000)
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer
 abgelegt werden, die diese anbietet.
@@ -391,6 +405,7 @@ sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
 
 
 ### § 11 Prüfung, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001300000)
 
 (1) Die Sachkundeprüfung ist in einen mündlichen und einen
 schriftlichen Teil zu gliedern.
@@ -445,15 +460,18 @@ Handelskammern nach Maßgabe des § 32 der Gewerbeordnung durch Satzung.
 
 
 ### § 12 Anerkennung anderer Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001400000)
 
 Inhaber der in § 8 Nummer 1 bis 3 genannten Nachweise bedürfen nicht
 der Prüfung nach § 9.
 
 
 ## Abschnitt 4 - Anerkennung von ausländischen Befähigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000400000)
 
 
 ### § 13 Gebrauch der Dienstleistungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001500000)
 
 (1) Wenn unter Berücksichtigung der konkret beabsichtigten Tätigkeit
 bei unzureichender Qualifikation eine schwere Gefahr für die
@@ -472,9 +490,11 @@ Gewerbeordnung.
 
 
 ## Abschnitt 5 - Anforderungen an die Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000500000)
 
 
 ### § 14 Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001600000)
 
 (1) Die Versicherung nach § 34a Absatz 1 Satz 3 Nummer 4 der
 Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb
@@ -520,6 +540,7 @@ nach Satz 1 abdecken.
 
 
 ### § 15 Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001700000)
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung
 nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum
@@ -551,9 +572,11 @@ Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
 
 
 ## Abschnitt 6 - Verpflichtungen bei der Ausübung des Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000600000)
 
 
 ### § 16 Beschäftigte, An- und Abmeldung von Wach- und Leitungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001800000)
 
 (1) Der Gewerbetreibende darf mit Bewachungsaufgaben sowie mit der
 Leitung eines Betriebs oder einer Zweigniederlassung nur eine Person
@@ -698,6 +721,7 @@ oder einer Zweigniederlassung beauftragte Personen richtet sich nach §
 
 
 ### § 17 Dienstanweisung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE001900000)
 
 (1) Der Gewerbetreibende hat den Wachdienst durch eine Dienstanweisung
 nach Maßgabe der Sätze 2 und 3 zu regeln. Die Dienstanweisung muss den
@@ -722,6 +746,7 @@ bekannt geworden sind, nicht unbefugt zu offenbaren.
 
 
 ### § 18 Ausweis, Kennzeichnung der Wachperson
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002000000)
 
 (1) Der Gewerbetreibende hat der Wachperson spätestens vor der ersten
 Aufnahme der Bewachungstätigkeit einen Ausweis nach Maßgabe der Sätze
@@ -769,6 +794,7 @@ selbst als Wachperson tätig werden.
 
 
 ### § 19 Dienstkleidung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002100000)
 
 (1) Bestimmt der Gewerbetreibende für seine Wachpersonen eine
 Dienstkleidung, so hat er dafür zu sorgen, dass sie sich von Uniformen
@@ -783,6 +809,7 @@ werden.
 
 
 ### § 20 Behandlung der Waffen und Anzeigepflicht nach Waffengebrauch
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002200000)
 
 (1) Der Gewerbetreibende ist für die sichere Aufbewahrung der Waffen
 und der Munition verantwortlich. Er hat die ordnungsgemäße Rückgabe
@@ -797,6 +824,7 @@ der zuständigen Polizeidienststelle anzuzeigen.
 
 
 ### § 21 Buchführung und Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002300000)
 
 (1) Der Gewerbetreibende hat nach Maßgabe des Satzes 2 und der Absätze
 2 bis 4 die Pflicht, Aufzeichnungen zu machen sowie die dort genannten
@@ -882,9 +910,11 @@ Belegen bleibt unberührt.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000700000)
 
 
 ### § 22 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002401116)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -949,9 +979,11 @@ Marktgewerbes begeht.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNG000800000)
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002500000)
 
 (1) Personen im Sinne des § 34a Absatz 1a Satz 1 der Gewerbeordnung,
 die am 31. März 1996 in einem Bewachungsunternehmen beschäftigt waren,
@@ -986,6 +1018,7 @@ Vielfachen von fünf Jahren durchgeführt werden.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002600000)
 
 Diese Verordnung tritt am 1. Juni 2019 in Kraft. Gleichzeitig tritt
 die Bewachungsverordnung in der Fassung der Bekanntmachung vom 10.
@@ -995,6 +1028,7 @@ außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 
@@ -1002,6 +1036,7 @@ Der Bundesrat hat zugestimmt.
 Bescheinigung
 
 ### Anlage 1 über die Unterrichtung nach § 34a Absatz 1a Satz 1 Nummer 2 der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002800000)
 
 (Fundstelle: BGBl. I 2019, 700)
 
@@ -1081,6 +1116,7 @@ Sachgebiete
 für das Unterrichtungsverfahren im Bewachungsgewerbe
 
 ### Anlage 2 Bewachungspersonal (40 Unterrichtsstunden)
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE002900000)
 
 (Fundstelle: BGBl. I 2019, 701)
 
@@ -1200,6 +1236,7 @@ für das Unterrichtungsverfahren im Bewachungsgewerbe
 Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfung
 
 ### Anlage 3 nach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/bewachv_2019/BJNR069200019.html#BJNR069200019BJNE003000000)
 
 (Fundstelle: BGBl. I 2019, 702)
 

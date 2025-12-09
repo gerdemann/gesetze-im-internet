@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000100000)
 
 Auf Grund des § 119 Absatz 5 Satz 6 des Seearbeitsgesetzes vom 20.
 April 2013 (BGBl. I S. 868), der durch Artikel 1 Nummer 2 des Gesetzes
@@ -25,6 +26,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur:
 
 
 ## § 1 Inhalt, Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000300000)
 
 (1) Diese Verordnung regelt ergänzend das Verfahren zur Gewährung des
 Gesamtbetrages nach § 119 Absatz 5 des Seearbeitsgesetzes.
@@ -38,6 +40,7 @@ Satz 1 bezeichnete inländische Einrichtung.
 
 
 ## § 2 Leistungsberechtigte Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000400000)
 
 (1) Leistungsberechtigt ist eine Einrichtung, die die Anforderungen
 des § 119 Absatz 5 Satz 2 des Seearbeitsgesetzes erfüllt.
@@ -56,6 +59,7 @@ zurückzuerstatten.
 
 
 ## § 3 Antragstellung, Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000500000)
 
 (1) Die Gewährung der Leistung nach § 119 Absatz 5 Satz 3 und 4 des
 Seearbeitsgesetzes ist durch eine Einrichtung bei der
@@ -83,6 +87,7 @@ Oktober 2021 gestellt werden.
 
 
 ## § 4 Gewährung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000600000)
 
 (1) Die Berufsgenossenschaft entscheidet durch Verwaltungsakt über den
 Antrag nach Ablauf der in § 3 Absatz 4 Satz 1 genannten Frist bis
@@ -112,6 +117,7 @@ Anspruchs ist auf die zweite Nachkommastelle abzurunden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg_119abs5v/BJNR181900021.html#BJNR181900021BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

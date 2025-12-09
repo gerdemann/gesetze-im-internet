@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Zuständigkeitsübergang
+[Direktlink](https://www.gesetze-im-internet.de/zustanpg_2002/BJNR316510002.html#BJNR316510002BJNE000100000)
 
 (1) Werden innerhalb der Bundesregierung Zuständigkeiten aus dem
 Geschäftsbereich einer obersten Bundesbehörde in den Geschäftsbereich
@@ -40,6 +41,7 @@ machen.
 
 
 ## § 2 Anpassung der Gesetze und Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/zustanpg_2002/BJNR316510002.html#BJNR316510002BJNE000201377)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
 Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit
@@ -54,6 +56,7 @@ Wortlauts der Vorschriften vornehmen.
 
 
 ## § 3 Neufassung der Gesetze und Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/zustanpg_2002/BJNR316510002.html#BJNR316510002BJNE000300000)
 
 (1) Die obersten Bundesbehörden im Sinne des § 1 Abs. 1 können Gesetze
 und Rechtsverordnungen ihres Zuständigkeitsbereichs jeweils in der vom
@@ -74,6 +77,7 @@ Stelle erlassen worden ist, gelten die Absätze 1 und 2 entsprechend.
 
 
 ## § 4 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zustanpg_2002/BJNR316510002.html#BJNR316510002BJNE000400000)
 
 Die Erlaubnis zur Bekanntmachung einer Neufassung nach § 3 Abs. 1 oder
 Abs. 3 gilt entsprechend für Gesetze und Rechtsverordnungen, die durch

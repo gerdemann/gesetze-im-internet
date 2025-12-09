@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1993-05/BJNR068700993.html#BJNR068700993BJNE000100307)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
@@ -91,6 +92,7 @@ Der Entwurf der Münze stammt von Erich Ott, München.
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1993-05/BJNR068700993.html#BJNR068700993BJNE000200307)
 
 (Fundstelle: BGBl. I 1993, 678)
 ![bgbl1_1993_j0687_0010.jpg](bgbl1_1993_j0687_0010.jpg)

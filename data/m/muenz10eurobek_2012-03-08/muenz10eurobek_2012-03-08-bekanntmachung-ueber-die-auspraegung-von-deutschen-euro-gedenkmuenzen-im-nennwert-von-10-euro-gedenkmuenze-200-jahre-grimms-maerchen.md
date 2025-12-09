@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2012-03-08/BJNR049100012.html#BJNR049100012BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „200 Jahre
@@ -56,11 +57,13 @@ aus Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2012-03-08/BJNR049100012.html#BJNR049100012BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2012-03-08/BJNR049100012.html#BJNR049100012BJNE000300000)
 
 (Fundstelle: BGBl. I 2012, 491)
 

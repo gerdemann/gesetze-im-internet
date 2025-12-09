@@ -23,6 +23,7 @@ Neugefasst durch
 
 
 ## § 1 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000101116)
 
 Dieses Gesetz findet Anwendung, soweit Rechtsvorschriften des Bundes
 oder der Länder die Vermeidung und Sanierung von Umweltschäden nicht
@@ -32,6 +33,7 @@ bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000203116)
 
 Im Sinne dieses Gesetzes sind
 
@@ -116,6 +118,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000303116)
 
 (1) Dieses Gesetz gilt für
 
@@ -181,6 +184,7 @@ ist.
 
 
 ## § 4 Informationspflicht
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000401116)
 
 Besteht die unmittelbare Gefahr eines Umweltschadens oder ist ein
 Umweltschaden eingetreten, hat der Verantwortliche die zuständige
@@ -189,6 +193,7 @@ unterrichten.
 
 
 ## § 5 Gefahrenabwehrpflicht
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000501116)
 
 Besteht die unmittelbare Gefahr eines Umweltschadens, hat der
 Verantwortliche unverzüglich die erforderlichen Vermeidungsmaßnahmen
@@ -196,6 +201,7 @@ zu ergreifen.
 
 
 ## § 6 Sanierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000601116)
 
 Ist ein Umweltschaden eingetreten, hat der Verantwortliche
 
@@ -209,6 +215,7 @@ Ist ein Umweltschaden eingetreten, hat der Verantwortliche
 
 
 ## § 7 Allgemeine Pflichten und Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000701116)
 
 (1) Die zuständige Behörde überwacht, dass die erforderlichen
 Vermeidungs-, Schadensbegrenzungs- und Sanierungsmaßnahmen vom
@@ -234,6 +241,7 @@ zuständige Behörde dem Verantwortlichen aufgeben,
 
 
 ## § 8 Bestimmung von Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000801116)
 
 (1) Der Verantwortliche ist verpflichtet, die gemäß den
 fachrechtlichen Vorschriften erforderlichen Sanierungsmaßnahmen zu
@@ -261,6 +269,7 @@ Entscheidung zu berücksichtigen.
 
 
 ## § 9 Kosten der Vermeidungs- und Sanierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE000905116)
 
 (1) Der Verantwortliche trägt vorbehaltlich von Ansprüchen gegen die
 Behörden oder Dritte die Kosten der Vermeidungs-, Schadensbegrenzungs-
@@ -305,6 +314,7 @@ Binnenschifffahrtsgesetzes zu beschränken.
 
 
 ## § 10 Aufforderung zum Tätigwerden
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001002116)
 
 Die zuständige Behörde wird zur Durchsetzung der Sanierungspflichten
 nach diesem Gesetz von Amts wegen tätig oder, wenn ein von einem
@@ -315,6 +325,7 @@ den Eintritt eines Umweltschadens glaubhaft erscheinen lassen.
 
 
 ## § 11 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001102116)
 
 (1) Ein Verwaltungsakt nach diesem Gesetz ist zu begründen und mit
 einer Rechtsbehelfsbelehrung zu versehen.
@@ -325,6 +336,7 @@ Gesetz gilt das Umwelt-Rechtsbehelfsgesetz.
 
 
 ## § 12 Zusammenarbeit mit den Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001201116)
 
 (1) Sind einer oder mehrere Mitgliedstaaten der Europäischen Union von
 einem Umweltschaden betroffen oder wahrscheinlich betroffen, so
@@ -349,6 +361,7 @@ dieser Maßnahmen angefallenen Kosten bemühen.
 
 
 ## § 12a Vorbereitung der Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001901116)
 
 (1) Die zuständigen Behörden der Länder teilen dem für Umweltschutz
 zuständigen Bundesministerium erstmals bis zum 31. Dezember 2021 und
@@ -378,6 +391,7 @@ mitzuteilen.
 
 
 ## § 13 Zeitliche Begrenzung der Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001302116)
 
 (1) Dieses Gesetz gilt nicht für Schäden, die durch Emissionen,
 Ereignisse oder Vorfälle verursacht wurden, die vor dem 30. April 2007
@@ -390,6 +404,7 @@ den Verantwortlichen ergriffen hat.
 
 
 ## § 14 Übergangsvorschrift zu Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001701116)
 
 Für Verbringungen von Abfällen, die Artikel 62 Absatz 1 der Verordnung
 (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14.
@@ -403,6 +418,7 @@ S. 666) anzuwenden.
 (zu § 3 Absatz 1)
 
 ## Anlage 1 Berufliche Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001811130)
 
 (Fundstelle: BGBl. I 2021, 350)
 
@@ -528,6 +544,7 @@ S. 666) anzuwenden.
 (zu § 3 Absatz 3 Nummer 3)
 
 ## Anlage 2 Internationale Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001501116)
 
 (Fundstelle: BGBl. I 2021, 351)
 
@@ -562,6 +579,7 @@ e)  Übereinkommen vom 10. Oktober 1989 über die zivilrechtliche Haftung
 (zu § 3 Absatz 3 Nummer 5)
 
 ## Anlage 3 Internationale Übereinkünfte
+[Direktlink](https://www.gesetze-im-internet.de/uschadg/BJNR066610007.html#BJNR066610007BJNE001601116)
 
 (Fundstelle: BGBl. I 2021, 352)
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000100000)
 
 Auf Grund des § 24 Abs. 5 Satz 1 und 2 des Pfandbriefgesetzes vom 22.
 Mai 2005 (BGBl. I S. 1373) in Verbindung mit § 1 Nr. 4 der Verordnung
@@ -34,9 +35,11 @@ Kreditwirtschaft:
 
 
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000200000)
 
 Bei der Ermittlung der Schiffsbeleihungswerte nach § 24 Abs. 1 bis 3
 des Pfandbriefgesetzes und bei der Erhebung der für die Wertermittlung
@@ -45,12 +48,14 @@ anzuwenden.
 
 
 ### § 2 Gegenstand der Wertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000300000)
 
 Gegenstand der Schiffsbeleihungswertermittlung sind Schiffe und
 Schiffsbauwerke, die in einem öffentlichen Register eingetragen sind.
 
 
 ### § 3 Grundsatz der Schiffsbeleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000400000)
 
 (1) Der Wert, der der Beleihung zugrunde gelegt wird
 (Schiffsbeleihungswert), ist der Wert des Schiffes oder
@@ -65,6 +70,7 @@ zu berücksichtigen.
 
 
 ### § 4 Verfahren zur Ermittlung von Beleihungswerten für Schiffe und Schiffsbauwerke
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000500000)
 
 (1) Zur Ermittlung des Schiffsbeleihungswerts für ein Schiff sind der
 aktuelle Marktwert (§ 9), der durchschnittliche Marktwert der letzten
@@ -97,9 +103,11 @@ hat nach Maßgabe des § 13 zu erfolgen.
 
 
 ## Teil 2 - Gutachten und Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNG000200000)
 
 
 ### § 5 Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000600000)
 
 (1) Der Schiffsbeleihungswert ist mittels eines Gutachtens zu
 ermitteln.
@@ -146,6 +154,7 @@ Besichtigungsbericht Bezug nehmen.
 
 
 ### § 6 Besichtigung
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000700000)
 
 (1) Das zu bewertende Schiff ist im Rahmen der Wertermittlung zu
 besichtigen. Dabei sind sämtliche an Bord befindliche Schiffspapiere
@@ -178,6 +187,7 @@ Die Pfandbriefbank hat die Klassifikationsunterlagen auf Echtheit zu
 
 
 ### § 7 Gutachter
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000800000)
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
 Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der
@@ -194,6 +204,7 @@ erforderlich.
 
 
 ### § 8 Unabhängigkeit des Gutachters
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE000900000)
 
 (1) Der Gutachter muss sowohl vom Kreditakquisitions- und
 Kreditentscheidungsprozess als auch von Vermittlung, Verkauf,
@@ -220,9 +231,11 @@ einzigen Votums gemacht werden.
 
 
 ## Teil 3 - Wertermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNG000300000)
 
 
 ### § 9 Aktueller Marktwert
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001000000)
 
 (1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen ein
 Schiff am Bewertungsstichtag zwischen einem verkaufsbereiten Verkäufer
@@ -238,6 +251,7 @@ Besonderheiten des zu bewertenden Schiffes anzupassen.
 
 
 ### § 10 Durchschnittlicher Marktwert
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001100000)
 
 Der durchschnittliche Marktwert ist der Durchschnittsbetrag der
 Marktwerte eines gleichartigen Schiffes für die zugrunde zu legenden
@@ -245,6 +259,7 @@ letzten Kalenderjahre vor dem Jahr der Wertermittlung.
 
 
 ### § 11 Neubaupreis
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001200000)
 
 Der Neubaupreis ist der mit der Werft vertraglich vereinbarte Baupreis
 zuzüglich Nebenkosten wie Bauzeitenzinsen, Kosten der Bauaufsicht
@@ -253,6 +268,7 @@ sind.
 
 
 ### § 12 Kaufpreis
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001300000)
 
 Der Kaufpreis ist der vertraglich vereinbarte Preis für den Erwerb des
 zu bewertenden Schiffes. Kaufpreis ist auch der Preis, der für den
@@ -261,6 +277,7 @@ zu bauendes Schiff vereinbart wird.
 
 
 ### § 13 Wertermittlung bei Schiffsbauwerken
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001400000)
 
 Bei Schiffsbauwerken ist als Schiffsbeleihungswert der Zustandswert zu
 ermitteln. Der Zustandswert entspricht dem Bautenstand, der durch
@@ -271,9 +288,11 @@ geschlossenen Verträge einzusehen.
 
 
 ## Teil 4 - Überprüfung der Schiffsbeleihungswertermittlung und Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNG000400000)
 
 
 ### § 14 Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001501119)
 
 (1) Der Schiffsbeleihungswert ist längstens jährlich zu überwachen.
 Bestehen Anhaltspunkte, dass sich die Grundlagen der
@@ -292,6 +311,7 @@ unberührt.
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schiffsbelwertv/BJNR085100008.html#BJNR085100008BJNE001600000)
 
 Diese Verordnung tritt am 1. Juli 2008 in Kraft.
 

@@ -25,17 +25,20 @@ Neugefasst durch
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000201360)
 
 Der Ausbildungsberuf des Mechatronikers und der Mechatronikerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000301360)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000402360)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
@@ -117,6 +120,7 @@ gliedert sich wie folgt (Ausbildungsberufsbild):
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000502360)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -132,6 +136,7 @@ erstellen.
 
 
 ## § 5 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000601360)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -149,6 +154,7 @@ erforderlich ist.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000702360)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -199,6 +205,7 @@ Minuten haben.
 
 
 ## § 7 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000802360)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
@@ -399,6 +406,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE000901360)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -468,6 +476,7 @@ gewichten.
 
 
 ## § 9 Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001002360)
 
 Über das in § 3 Absatz 2 beschriebene Ausbildungsberufsbild hinaus
 kann die Ausbildung in einer oder mehreren der folgenden
@@ -489,6 +498,7 @@ Zusatzqualifikationen vereinbart werden:
 
 
 ## § 10 Gegenstand der Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001301360)
 
 (1) Gegenstand der Zusatzqualifikation Digitale Vernetzung sind die in
 Anlage 2 Abschnitt A genannten Fertigkeiten, Kenntnisse und
@@ -508,6 +518,7 @@ und Fähigkeiten.
 
 
 ## § 11 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001401360)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -519,6 +530,7 @@ der Abschlussprüfung als gesonderte Prüfung statt.
 
 
 ## § 12 Anforderungen für die Prüfung der Zusatzqualifikation Digitale Vernetzung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001501360)
 
 (1) Die Prüfung der Zusatzqualifikation Digitale Vernetzung erstreckt
 sich auf die in Anlage 2 Abschnitt A genannten Fertigkeiten,
@@ -546,6 +558,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ## § 13 Anforderungen für die Prüfung der Zusatzqualifikation Programmierung
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001601360)
 
 (1) Die Prüfung der Zusatzqualifikation Programmierung erstreckt sich
 auf die in Anlage 2 Abschnitt B genannten Fertigkeiten, Kenntnisse und
@@ -570,6 +583,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ## § 14 Anforderungen für die Prüfung der Zusatzqualifikation IT-Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001701360)
 
 (1) Die Prüfung der Zusatzqualifikation IT-Sicherheit erstreckt sich
 auf die in Anlage 2 Abschnitt C genannten Fertigkeiten, Kenntnisse und
@@ -593,6 +607,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ## § 15 Anforderungen für die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001801360)
 
 (1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
 erstreckt sich auf die in Anlage 2 Abschnitt D genannten Fertigkeiten,
@@ -614,6 +629,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ## § 16 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001901360)
 
 (1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
 Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
@@ -650,6 +666,7 @@ die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## § 17 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE002001360)
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
 bestehen, ist die Mechatroniker-Ausbildungsverordnung vom 21. Juli
@@ -657,6 +674,7 @@ bestehen, ist die Mechatroniker-Ausbildungsverordnung vom 21. Juli
 
 
 ## § 18 Änderung bestehender Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE002101360)
 
 Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
 bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
@@ -667,6 +685,7 @@ nicht Teil 1 der Abschlussprüfung absolviert hat.
 
 
 ## § 19 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE002201360)
 
 Die Regelungen zu den Zusatzqualifikationen nach
 Teil 8 können ab dem 1. August 2018 auch auf
@@ -676,6 +695,7 @@ bestehen, angewendet werden.
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE001102360)
 
 (Fundstelle: BGBl. I 2018, 1063 – 1070)
 
@@ -1764,6 +1784,7 @@ bestehen, angewendet werden.
 (zu § 10)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mechatronikerausbv/BJNR151600011.html#BJNR151600011BJNE002301360)
 
 (Fundstelle: BGBl. I 2018, 1071 – 1073)
 

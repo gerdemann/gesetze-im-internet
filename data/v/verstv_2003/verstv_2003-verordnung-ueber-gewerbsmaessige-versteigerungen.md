@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Versteigerungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000101128)
 
 Der Versteigerer darf nur auf Grund eines Vertrags in Textform mit dem
 Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
@@ -64,6 +65,7 @@ Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
 
 
 ## § 2 Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000202119)
 
 (1) Der Versteigerer hat bis spätestens zwei Wochen vor der
 Versteigerung ein Verzeichnis der zu versteigernden Sachen
@@ -85,6 +87,7 @@ Anforderungen nach Absatz 1 zugelassen werden.
 
 
 ## § 3 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000303128)
 
 (1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor
 dem in Aussicht genommenen Versteigerungstermin der zuständigen
@@ -161,15 +164,18 @@ Gewerbeordnung keine Anwendung.
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000401128)
 
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000501308)
 
 -
 
 
 ## § 6 Ausnahme von den verbotenen Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000601119)
 
 (1) Das Verbot der Versteigerung von Waren, die in offenen
 Verkaufsstellen feilgeboten werden und die ungebraucht sind oder deren
@@ -215,6 +221,7 @@ unter den Voraussetzungen des Absatzes 1 Satz 2 Ausnahmen zulassen.
 
 
 ## § 7 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000700000)
 
 Der Versteigerer darf den Zuschlag erst erteilen, wenn nach
 dreimaligem Wiederholen des Höchstgebots kein Übergebot abgegeben
@@ -222,6 +229,7 @@ wird.
 
 
 ## § 8 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000800000)
 
 (1) Der Versteigerer hat über jeden Versteigerungsauftrag und dessen
 Abwicklung nach den Grundsätzen ordnungsmäßiger Buchführung
@@ -242,6 +250,7 @@ Fall entsprechend.
 
 
 ## § 9 Untersagung, Aufhebung und Unterbrechung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE000902128)
 
 Die zuständige Behörde kann die Versteigerung ganz oder teilweise
 untersagen oder eine begonnene Versteigerung aufheben oder
@@ -251,6 +260,7 @@ Verordnung verstößt oder verstoßen hat.
 
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE001003128)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -306,6 +316,7 @@ gefährdet, ist nach § 148 Nr. 2 der Gewerbeordnung strafbar.
 
 
 ## § 11 Anwendung bei grenzüberschreitender Dienstleistungserbringung
+[Direktlink](https://www.gesetze-im-internet.de/verstv_2003/BJNR054710003.html#BJNR054710003BJNE001100377)
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat

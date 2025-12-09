@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Gem. Art 10 Abs. 3 G v. 10.12.2014 I 2091 tritt § 146 Abs. 6 an dem Tag außer Kraft an dem die technischen Regulierungsstandards gemäß Artikel 74 Absatz 4 der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190) in Kraft treten; das Bundesministerium der Finanzen gibt diesen Tag im Bundesgesetzblatt bekannt
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000100000)
 
 
 ### § 1 Anwendungsbereich; Verhältnis zur SRM-Verordnung; Umsetzung von Beschlüssen des Ausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000205123)
 
 (1) Dieses Gesetz gilt für folgende Unternehmen, soweit nicht die
 Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates
@@ -111,6 +113,7 @@ Verordnung (EU) Nr. 806/2014 definiert.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000308123)
 
 (1) Institute im Sinne dieses Gesetzes sind CRR-Kreditinstitute und
 Wertpapierinstitute, die vom Anwendungsbereich dieses Gesetzes gemäß §
@@ -690,6 +693,7 @@ Definitionen aus Artikel 4 Absatz 1 der Verordnung (EU) Nr. 575/2013:
 
 
 ### § 3 Abwicklungsbehörde; Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000401301)
 
 (1) Abwicklungsbehörde ist die Bundesanstalt für
 Finanzdienstleistungsaufsicht.
@@ -699,6 +703,7 @@ Finanzdienstleistungsaufsicht.
 
 
 ### § 4 Vertraulichkeit von Informationen; personenbezogene Daten; Informationsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000501123)
 
 (1) Die §§ 5 bis 10 gelten für die Weitergabe von
 
@@ -763,6 +768,7 @@ Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU)
 
 
 ### § 5 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000604123)
 
 (1) Die bei der Abwicklungsbehörde, bei der Aufsichtsbehörde, bei dem
 Bundesministerium der Finanzen und bei anderen nationalen Behörden
@@ -848,6 +854,7 @@ gelten die Regelungen des § 181.
 
 
 ### § 6 Zulässiger Informationsaustausch zwischen Behörden im Rahmen dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000701123)
 
 (1) Zwischen der Abwicklungsbehörde und der Aufsichtsbehörde findet im
 Rahmen gegenseitiger Unterstützung, Beratung und Abstimmung ein
@@ -872,6 +879,7 @@ obliegenden Aufgaben nötig ist.
 
 
 ### § 7 Weitergabe von Informationen an sonstige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000802123)
 
 (1) Die Abwicklungsbehörde und die Aufsichtsbehörde sind ferner
 berechtigt, die ihnen im Zusammenhang mit diesem Gesetz vorliegenden
@@ -975,6 +983,7 @@ des Kreditwesengesetzes vor.
 
 
 ### § 8 Vertraulichkeit gegenüber Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE000901123)
 
 (1) Die Abwicklungsbehörde und die im Rahmen dieses Gesetzes tätigen
 national zuständigen Behörden dürfen Informationen im Sinne des § 4
@@ -1023,6 +1032,7 @@ Mitgliedstaates der Verschwiegenheitspflicht unterliegt.
 
 
 ### § 9 Vorabprüfung auf Vertraulichkeit bei sonstiger Weitergabe von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001000000)
 
 Vor der Weitergabe von Informationen außerhalb der
 Offenbarungsbefugnisse der §§ 5 bis 8 ist sicherzustellen, dass sich
@@ -1037,6 +1047,7 @@ sind dabei gesondert zu untersuchen.
 
 
 ### § 10 Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001101123)
 
 (1) Hinsichtlich der Weitergabe von Informationen für die Zwecke von
 Straf- oder Zivilverfahren gelten die Regelungen des § 9 des
@@ -1049,6 +1060,7 @@ gelten die Regelungen des § 181.
 
 
 ### § 11 Zugang zu Informationen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001200000)
 
 Zum Schutz einer effektiven Sanierungs- und Abwicklungsplanung und
 einer effektiven Anwendung der Abwicklungsinstrumente wird ein Zugang
@@ -1061,12 +1073,15 @@ sind, nicht gewährt.
 
 
 ## Teil 2 - Aufsichtsrechtliche Vorschriften und Anforderungen zur Vorbereitung der Sanierung und zur Frühintervention
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000200000)
 
 
 ### Kapitel 1 - Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000300000)
 
 
 #### § 12 Sanierungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001301123)
 
 (1) Institute, die nicht nach § 20 Absatz 1 befreit sind, haben einen
 Sanierungsplan zu erstellen. In dem Sanierungsplan hat das Institut
@@ -1108,6 +1123,7 @@ Gruppe entsprechende Anwendung.
 
 
 #### § 13 Ausgestaltung von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001401123)
 
 (1) Die Ausgestaltung des Sanierungsplans ist abhängig von Größe,
 Komplexität und Vernetzung des Instituts oder der Gruppe sowie von
@@ -1250,6 +1266,7 @@ Vertragspartei ist.
 
 
 #### § 14 Besondere Anforderungen an die Ausgestaltung von Gruppensanierungsplänen; Einzelsanierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001502123)
 
 (1) Ein übergeordnetes Unternehmen, das ein EU-Mutterunternehmen ist
 und für das die Aufsichtsbehörde gleichzeitig die konsolidierende
@@ -1305,6 +1322,7 @@ auch auf alle ihm nachgeordneten Unternehmen bezieht.
 
 
 #### § 15 Prüfung und Bewertung von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001601123)
 
 (1) Die Aufsichtsbehörde legt der Abwicklungsbehörde den
 Sanierungsplan vor. Die Abwicklungsbehörde kann den Sanierungsplan
@@ -1323,6 +1341,7 @@ Gruppe beurteilen.
 
 
 #### § 16 Maßnahmen bei Mängeln von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001701123)
 
 (1) Gelangt die Aufsichtsbehörde zu der Einschätzung, dass der
 Sanierungsplan nicht den Anforderungen der §§ 13 und 14 entspricht
@@ -1429,6 +1448,7 @@ gegenüber dem institutsbezogenen Sicherungssystem zu.
 
 
 #### § 17 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde zugleich konsolidierende Aufsichtsbehörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001801123)
 
 (1) Ist die Aufsichtsbehörde zugleich die konsolidierende
 Aufsichtsbehörde, übermittelt sie die Gruppensanierungspläne an
@@ -1507,6 +1527,7 @@ eines Monats keinen Beschluss, so gilt Absatz 3 entsprechend.
 
 
 #### § 18 Verfahren bei Gruppensanierungsplänen und Mängeln von Gruppensanierungsplänen, wenn die Aufsichtsbehörde nicht konsolidierende Aufsichtsbehörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE001901123)
 
 (1) Erhält die Aufsichtsbehörde von der konsolidierenden
 Aufsichtsbehörde einen Gruppensanierungsplan, bemüht sie sich, nach
@@ -1567,6 +1588,7 @@ bindend zugrunde.
 
 
 #### § 19 Vereinfachte Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002003123)
 
 (1) Die Aufsichtsbehörde kann die Anforderungen nach den §§ 12 bis 18
 in Abstimmung mit der Deutschen Bundesbank beschränken in Bezug auf
@@ -1636,6 +1658,7 @@ Deutschen Bundesbank ergeht.
 
 
 #### § 20 Befreiung von Instituten, die institutsbezogenen Sicherungssystemen angehören
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002102123)
 
 (1) Die Aufsichtsbehörde kann ein Institut, das einem
 institutsbezogenen Sicherungssystem angehört, in Abstimmung mit der
@@ -1687,6 +1710,7 @@ gegebenenfalls nach Maßgabe des § 19 zu erfüllen.
 
 
 #### § 21 Vertraulichkeitspflicht der Institute und gruppenangehörigen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002200000)
 
 Institute und gruppenangehörige Unternehmen sind verpflichtet,
 Sanierungspläne und Gruppensanierungspläne vertraulich zu behandeln;
@@ -1696,6 +1720,7 @@ des Sanierungsplans oder Gruppensanierungsplans beteiligt sind.
 
 
 #### § 21a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017800116)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates im Benehmen mit der
@@ -1749,9 +1774,11 @@ ergeht.
 
 
 ### Kapitel 2 - Gruppeninterne finanzielle Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000400000)
 
 
 #### § 22 Vereinbarung über gruppeninterne finanzielle Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002300000)
 
 (1) Eine Vereinbarung über gruppeninterne finanzielle Unterstützung im
 Sinne dieses Gesetzes ist eine Vereinbarung über die einseitige oder
@@ -1792,6 +1819,7 @@ unberührt.
 
 
 #### § 23 Zulässigkeit und Inhalt einer Vereinbarung über gruppeninterne finanzielle Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002400000)
 
 (1) Die Partei einer Vereinbarung über gruppeninterne finanzielle
 Unterstützung darf weder von anderen gruppenangehörigen Unternehmen
@@ -1871,6 +1899,7 @@ folgenden Prinzipien entsprechen:
 
 
 #### § 24 Abtretungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002500000)
 
 Forderungen und andere Rechte aus einer Vereinbarung über
 gruppeninterne finanzielle Unterstützung können nicht abgetreten
@@ -1879,6 +1908,7 @@ gruppeninterne finanzielle Unterstützung herleiten.
 
 
 #### § 25 Genehmigungserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002600000)
 
 Eine Vereinbarung über gruppeninterne finanzielle Unterstützung darf
 nur mit vorheriger Genehmigung der zuständigen Aufsichtsbehörde auf
@@ -1887,6 +1917,7 @@ werden.
 
 
 #### § 26 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002700000)
 
 (1) Hat das übergeordnete Unternehmen seinen Sitz im Inland, hat es
 den Antrag auf Genehmigung des geplanten Abschlusses der Vereinbarung
@@ -1946,6 +1977,7 @@ einvernehmlichen Entscheidung nach Absatz 3 Satz 4 zu übermitteln.
 
 
 #### § 27 Genehmigungsverfahren bei übergeordnetem Unternehmen mit Sitz in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002800000)
 
 (1) Leitet die zuständige Aufsichtsbehörde mit Sitz in einem
 Mitgliedstaat an die Aufsichtsbehörde den Antrag eines übergeordneten
@@ -1967,6 +1999,7 @@ Europäische Bankenaufsichtsbehörde um Hilfe ersuchen.
 
 
 #### § 28 Weiterleitung an die Abwicklungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE002900000)
 
 Die Aufsichtsbehörde leitet eine gemäß § 26 oder § 27 genehmigte
 Vereinbarung über gruppeninterne finanzielle Unterstützung an die
@@ -1974,6 +2007,7 @@ Abwicklungsbehörde weiter.
 
 
 #### § 29 Einholung der Zustimmung der Anteilsinhaber; Berichtspflichten gegenüber den Anteilsinhabern
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003000000)
 
 (1) Eine Vereinbarung über gruppeninterne finanzielle Unterstützung
 wird nur im Verhältnis derjenigen Parteien wirksam, deren
@@ -1990,6 +2024,7 @@ der Grundlage der Vereinbarung getroffenen Entscheidungen.
 
 
 #### § 30 Voraussetzungen für die Gewährung gruppeninterner finanzieller Unterstützung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003101000)
 
 (1) Eine finanzielle Unterstützung in Durchführung einer Vereinbarung
 über gruppeninterne finanzielle Unterstützung darf von einem
@@ -2080,6 +2115,7 @@ Abwicklungsbehörde anzuhören ist.
 
 
 #### § 31 Beschlüsse über Gewährung und Annahme einer finanziellen Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003200000)
 
 (1) Die Geschäftsleitung entscheidet über die beabsichtigte Gewährung
 einer gruppeninternen finanziellen Unterstützung nach Maßgabe der
@@ -2092,6 +2128,7 @@ gruppeninternen finanziellen Unterstützung.
 
 
 #### § 32 Anzeige der beabsichtigten Gewährung gruppeninterner finanzieller Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003300000)
 
 (1) Hat die Geschäftsleitung eines gruppenangehörigen Unternehmens mit
 Sitz im Inland die Absicht, gruppeninterne finanzielle Unterstützung
@@ -2142,6 +2179,7 @@ Abwicklungskollegiums unverzüglich über die angezeigte Absicht.
 
 
 #### § 33 Entscheidung der Aufsichtsbehörde über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz im Inland
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003401301)
 
 (1) Die Aufsichtsbehörde kann der Gewährung der finanziellen
 Unterstützung innerhalb von fünf Werktagen nach Eingang der
@@ -2172,6 +2210,7 @@ werden.
 
 
 #### § 34 Beteiligung der Aufsichtsbehörde bei der Entscheidung über die Gewährung gruppeninterner finanzieller Unterstützung durch ein Unternehmen mit Sitz in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003501116)
 
 (1) Untersagt oder beschränkt eine Aufsichtsbehörde mit Sitz in einem
 anderen Mitgliedstaat die Gewährung finanzieller Unterstützung an ein
@@ -2201,6 +2240,7 @@ aktualisierten Sanierungsplans verlangen.
 
 
 #### § 35 Offenlegungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003600000)
 
 (1) Jedes Unternehmen einer Gruppe hat offenzulegen, ob es Partei
 einer Vereinbarung über gruppeninterne finanzielle Unterstützung ist.
@@ -2215,9 +2255,11 @@ mindestens einmal jährlich zu aktualisieren.
 
 
 ### Kapitel 3 - Frühzeitiges Eingreifen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000500000)
 
 
 #### § 36 Frühinterventionsmaßnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003705123)
 
 (1) Verschlechtert sich die Finanzlage eines Instituts, insbesondere
 auf Grund seiner Liquiditätssituation, auf Grund seiner
@@ -2382,6 +2424,7 @@ oder ein solcher Verstoß in naher Zukunft droht.
 
 
 #### § 37 Abberufung der Geschäftsleitung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003801301)
 
 (1) Sind die Maßnahmen nach § 36 nicht ausreichend, die signifikante
 Verschlechterung der wirtschaftlichen Situation des Instituts zu
@@ -2398,6 +2441,7 @@ unberührt.
 
 
 #### § 38 Vorläufiger Verwalter
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE003902123)
 
 (1) Wäre eine Maßnahme nach § 37 nicht ausreichend, die signifikant
 verschlechterte wirtschaftliche Situation des Instituts zu verbessern,
@@ -2433,6 +2477,7 @@ Verwalter jederzeit wieder abberufen.
 
 
 #### § 39 Koordinierung der Frühinterventionsmaßnahmen und Bestellung eines vorläufigen Verwalters bei Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004001116)
 
 (1) Liegen bei einem EU-Mutterunternehmen, für das die
 Aufsichtsbehörde die konsolidierende Aufsichtsbehörde ist, die
@@ -2534,12 +2579,15 @@ entscheidet die Aufsichtsbehörde im Rahmen ihrer Zuständigkeit selbst
 
 
 ## Teil 3 - Abwicklungsrechtliche Vorschriften und Anforderungen zur Vorbereitung der Restrukturierung und Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000600000)
 
 
 ### Kapitel 1 - Abwicklungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000700000)
 
 
 #### § 40 Erstellung und Aktualisierung von Abwicklungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004103123)
 
 (1) Die Abwicklungsbehörde erstellt für jedes Institut, das nicht Teil
 einer Gruppe ist, die einer Beaufsichtigung auf konsolidierter Basis
@@ -2720,6 +2768,7 @@ soll dem Institut offengelegt werden.
 
 
 #### § 41 Vereinfachte Anforderungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004203123)
 
 (1) Die Abwicklungsbehörde kann die Anforderungen nach den §§ 40 bis
 48 und 57 und 58 beschränken in Bezug auf
@@ -2781,6 +2830,7 @@ Bankenaufsichtsbehörde darüber, wie sie Artikel 4 Absatz 1 und 8 bis
 
 
 #### § 42 Mitwirkung des Instituts; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004303123)
 
 (1) Die Abwicklungsbehörde kann vorbehaltlich der Regelungen in Absatz
 2 verlangen, dass das Institut die Abwicklungsbehörde bei der
@@ -2850,6 +2900,7 @@ Kosten und Aufwendungen zu ersetzen.
 
 
 #### § 42a Elektronische Kommunikation; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE021000123)
 
 (1) Unternehmen sind verpflichtet, der Abwicklungsbehörde
 Informationen und Analysen nach § 42 Absatz 1 Satz 2, Anzeigen und
@@ -2876,6 +2927,7 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 #### § 43 Zentrale Verwahrung und Verwaltung von Finanzkontrakten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004400000)
 
 (1) Die Aufsichtsbehörde oder die Abwicklungsbehörde kann verlangen,
 dass Institute und gruppenangehörige Unternehmen sowie das
@@ -2932,6 +2984,7 @@ zugänglich zu machen und Auswertungen bereitzustellen.
 
 
 #### § 44 Information der Abwicklungsbehörde über Vermögenswerte und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004500000)
 
 Die Abwicklungsbehörde trifft geeignete Vorkehrungen, um zu
 gewährleisten, dass sie stets so aktuell und umfassend wie möglich
@@ -2943,6 +2996,7 @@ entsprechend anzuwenden.
 
 
 #### § 45 Mitwirkung Dritter; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004603123)
 
 (1) Die folgenden Unternehmen haben der Abwicklungsbehörde, der
 Aufsichtsbehörde und der Deutschen Bundesbank Art und Ausmaß der
@@ -3020,6 +3074,7 @@ Rechtsverordnung im Benehmen mit der Abwicklungsbehörde ergeht.
 
 
 #### § 46 Gruppenabwicklungspläne; Mitwirkung der EU-Mutterunternehmen und Dritter
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004702123)
 
 (1) Ist die Abwicklungsbehörde gemäß § 155 die für die
 Gruppenabwicklung zuständige Behörde, erstellt sie den
@@ -3221,6 +3276,7 @@ gegenüber dem EU-Mutterunternehmen erfolgt.
 
 
 #### § 47 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004801123)
 
 (1) Ist die Abwicklungsbehörde für die Gruppenabwicklung zuständig, so
 entscheidet sie gemeinsam mit den für die Tochterunternehmen
@@ -3275,6 +3331,7 @@ Beschluss, so gilt Absatz 3 entsprechend.
 
 
 #### § 48 Verfahren für Gruppenabwicklungspläne, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE004902123)
 
 (1) Ist die Abwicklungsbehörde nicht die für die Gruppenabwicklung
 zuständige Behörde, sondern die zuständige Abwicklungsbehörde für ein
@@ -3322,12 +3379,15 @@ Beschluss, so gilt Absatz 3 entsprechend.
 
 
 ### Kapitel 2 - Anforderungen in Bezug auf berücksichtigungsfähige Verbindlichkeiten, relevante Kapitalinstrumente und genehmigtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000800000)
 
 
 #### Abschnitt 1 - Mindestbetrag berücksichtigungsfähiger Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG000900000)
 
 
 ##### § 49 Anwendung und Berechnung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005003123)
 
 (1) Institute und gruppenangehörige Unternehmen haben auf Verlangen
 der Abwicklungsbehörde die Mindestanforderung an Eigenmittel und
@@ -3385,6 +3445,7 @@ entsprechende Regelung in § 50 des Wertpapierinstitutsgesetzes.
 
 
 ##### § 49a Ausnahme von der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019700123)
 
 (1) Durch gedeckte Schuldverschreibungen finanzierte
 Hypothekenkreditinstitute, die keine Einlagen entgegennehmen dürfen,
@@ -3402,6 +3463,7 @@ nicht in die Konsolidierung nach § 49e Absatz 1 einbezogen.
 
 
 ##### § 49b Berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019802123)
 
 (1) Verbindlichkeiten dürfen im Betrag der Eigenmittel und
 berücksichtigungsfähigen Verbindlichkeiten von Abwicklungseinheiten
@@ -3712,6 +3774,7 @@ Entscheidungen berücksichtigt die Abwicklungsbehörde zudem
 
 
 ##### § 49c Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019902123)
 
 (1) Die Anforderung nach § 49 Absatz 1 wird von der Abwicklungsbehörde
 nach Anhörung der Aufsichtsbehörde anhand folgender Kriterien
@@ -4102,6 +4165,7 @@ festgelegt sind.
 
 
 ##### § 49d Festlegung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten für Abwicklungseinheiten von global systemrelevanten Instituten und in der Union ansässige bedeutende Tochterunternehmen von global systemrelevanten Nicht-EU-Instituten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020002123)
 
 (1) Die in § 49 Absatz 1 genannte Anforderung an eine
 Abwicklungseinheit, bei der es sich um ein global systemrelevantes
@@ -4175,6 +4239,7 @@ Kreditwesengesetzes festgesetzten Anforderung Rechnung zu tragen.
 
 
 ##### § 49e Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Abwicklungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020100123)
 
 (1) Abwicklungseinheiten kommen den in den §§ 49b bis 49d festgelegten
 Anforderungen auf konsolidierter Basis auf Ebene der Abwicklungsgruppe
@@ -4198,6 +4263,7 @@ Unternehmen dies im Einklang mit dem Abwicklungsplan erfüllen sollen.
 
 
 ##### § 49f Anwendung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten auf Unternehmen, die selbst keine Abwicklungseinheit sind
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020200123)
 
 (1) Institute, die Tochterunternehmen einer Abwicklungseinheit oder
 eines Mutterunternehmens mit Sitz in einem Drittstaat aber selbst
@@ -4450,6 +4516,7 @@ Abwicklungseinheit an das betreffende Tochterunternehmen bestehen.
 
 
 ##### § 49g Ausnahmen für eine Zentralorganisation und CRR-Kreditinstitute, die einer Zentralorganisation ständig zugeordnet sind
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020300123)
 
 Die Abwicklungsbehörde kann die Zentralorganisation oder ein CRR-
 Kreditinstitut, das einer Zentralorganisation ständig zugeordnet ist,
@@ -4503,6 +4570,7 @@ von der Anwendung des § 49f teilweise oder ganz ausnehmen, wenn
 
 
 ##### § 50 Gemeinsame Entscheidung über die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005103123)
 
 (1) Die für die Abwicklungseinheit zuständige Abwicklungsbehörde, die
 für die Gruppenabwicklung zuständige Abwicklungsbehörde, sofern diese
@@ -4683,6 +4751,7 @@ Abwicklungsplänen.
 
 
 ##### § 51 Berichterstattung und Offenlegung der Anforderung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005202123)
 
 (1) Die Unternehmen, die der Anforderung nach § 49 Absatz 1
 unterliegen, melden der Abwicklungsbehörde und der Aufsichtsbehörde
@@ -4763,6 +4832,7 @@ nach § 49e oder § 49f.
 
 
 ##### § 52 Berichterstattung der Abwicklungsbehörde an die Europäische Bankenaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005301123)
 
 Die Abwicklungsbehörde teilt der Europäischen Bankenaufsichtsbehörde
 die Mindestanforderung an Eigenmittel und berücksichtigungsfähige
@@ -4771,6 +4841,7 @@ Zuständigkeit im Einklang mit § 49e oder § 49f festgelegt hat.
 
 
 ##### § 53 Verstöße gegen die Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005401123)
 
 (1) Bei einem Verstoß gegen die Mindestanforderung an Eigenmittel und
 berücksichtigungsfähige Verbindlichkeiten nach § 49e oder § 49f können
@@ -4787,6 +4858,7 @@ Absatz 1 Satz 1 Nummer 1 vorliegen.
 
 
 ##### § 54 Übergangsregelungen und Regelungen nach Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005501123)
 
 (1) Die Abwicklungsbehörde legt für Institute oder gruppenangehörige
 Unternehmen abweichend von § 49 Absatz 1 angemessene
@@ -4893,6 +4965,7 @@ Absatz 6 festgelegten Übergangszeitraum nachträglich ändern.
 
 
 ##### § 55 Vertragliche Anerkennung des Instruments der Gläubigerbeteiligung und des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente in Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005601123)
 
 (1) Institute und gruppenangehörige Unternehmen sind verpflichtet, in
 den Vertragsbestimmungen von Verbindlichkeiten, die dem Recht eines
@@ -5056,9 +5129,11 @@ Feststellung im Sinne des Absatzes 6 gelangen kann.
 
 
 #### Abschnitt 2 - Genehmigtes Kapital und andere Instrumente harten Kernkapitals
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001000000)
 
 
 ##### § 56 Beseitigung der verfahrenstechnischen Hindernisse für das Instrument der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005701123)
 
 (1) Die Abwicklungsbehörde kann im Benehmen mit der Aufsichtsbehörde
 anordnen, dass Institute oder gruppenangehörige Unternehmen jederzeit
@@ -5117,9 +5192,11 @@ Instrument der Gläubigerbeteiligung Gebrauch zu machen.
 
 
 ### Kapitel 3 - Abwicklungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001100000)
 
 
 #### § 57 Bewertung der Abwicklungsfähigkeit von Instituten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005801116)
 
 (1) Die Abwicklungsbehörde bewertet, inwieweit ein Institut, das
 keiner Gruppe angehört, die einer Beaufsichtigung auf konsolidierter
@@ -5171,6 +5248,7 @@ umfassend.
 
 
 #### § 58 Bewertung der Abwicklungsfähigkeit von Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE005901123)
 
 (1) Wenn die Abwicklungsbehörde gemäß § 155 für die Gruppenabwicklung
 zuständig ist, bewertet sie die Abwicklungsfähigkeit der
@@ -5243,6 +5321,7 @@ Ergebnis, informiert sie die Europäische Bankenaufsichtsbehörde.
 
 
 #### § 58a Befugnis zur Untersagung bestimmter Ausschüttungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020402123)
 
 (1) Die Abwicklungsbehörde hat die Befugnis, einem Unternehmen zu
 untersagen, Ausschüttungen vorzunehmen, die den nach Absatz 4
@@ -5426,6 +5505,7 @@ wobei Qn = die Ordinalzahl des betreffenden Quartils.
 
 
 #### § 59 Abbau und Beseitigung von Abwicklungshindernissen bei Instituten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006004123)
 
 (1) Stellt die Abwicklungsbehörde bei ihrer Bewertung nach den §§ 57
 und 58 fest, dass der Abwicklungsfähigkeit des Unternehmens
@@ -5645,6 +5725,7 @@ Abwicklungsbehörde übertragen.
 
 
 #### § 60 Abbau und Beseitigung von Abwicklungshindernissen bei Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006103123)
 
 (1) Gemeinsam mit den für die Tochterunternehmen zuständigen
 Abwicklungsbehörden und nach Anhörung des Aufsichtskollegiums und der
@@ -5859,6 +5940,7 @@ Tochterunternehmen zuständigen Abwicklungsbehörde.
 
 
 #### § 60a Vertragliche Anerkennung von Befugnissen zur vorübergehenden Aussetzung von Beendigungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017902123)
 
 (1) Institute und gruppenangehörige Unternehmen sind verpflichtet, in
 Finanzkontrakte, die dem Recht eines Drittstaats unterliegen, eine
@@ -5933,9 +6015,11 @@ Ermessens kann die Abwicklungsbehörde insbesondere berücksichtigen:
 
 
 ### Kapitel 4 - Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001200000)
 
 
 #### § 61 Gründung von Brückeninstituten und Vermögensverwaltungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006201116)
 
 (1) Die Abwicklungsbehörde oder der Restrukturierungsfonds gemäß § 1
 des Restrukturierungsfondsgesetzes kann, auch ohne konkreten Anlass,
@@ -5969,12 +6053,15 @@ und Vermögensverwaltungsgesellschaften nicht anzuwenden.
 
 
 ## Teil 4 - Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001300000)
 
 
 ### Kapitel 1 - Abwicklungsbefugnis, Voraussetzungen und weitere Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001400000)
 
 
 #### § 62 Abwicklungsvoraussetzungen in Bezug auf Institute
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006303123)
 
 (1) Die Abwicklungsvoraussetzungen in Bezug auf ein Institut liegen
 vor, wenn
@@ -6035,6 +6122,7 @@ diese Feststellung erforderlich sind.
 
 
 #### § 63 Bestandsgefährdung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006402116)
 
 (1) Eine Bestandsgefährdung eines Instituts liegt vor, wenn
 
@@ -6119,6 +6207,7 @@ Bundesbank ergeht.
 
 
 #### § 64 Abwicklungsvoraussetzungen in Bezug auf Finanzinstitute und Holdinggesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006502123)
 
 (1) Die Abwicklungsvoraussetzungen in Bezug auf ein Finanzinstitut,
 das nachgeordnetes Unternehmen eines auf konsolidierter Basis
@@ -6180,6 +6269,7 @@ erfüllt.
 
 
 #### § 65 Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006601123)
 
 (1) Außer in den Fällen des § 89 kann die Abwicklungsbehörde das
 Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente
@@ -6237,6 +6327,7 @@ Maßgabe des Artikels 72c Absatz 1 der Verordnung (EU) Nr. 575/2013. §
 
 
 #### § 66 Feststellung der Voraussetzungen für die Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und berücksichtigungsfähiger Verbindlichkeiten bei gruppenangehörigen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006701123)
 
 (1) Beabsichtigt die Abwicklungsbehörde in Bezug auf ein
 Tochterunternehmen, das relevante Kapitalinstrumente ausgibt, die auf
@@ -6316,6 +6407,7 @@ Dringlichkeit der Umstände umgehend um.
 
 
 #### § 66a Befugnis zur Aussetzung vertraglicher Pflichten bei Bestandsgefährdung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020500123)
 
 (1) Die Abwicklungsbehörde kann anordnen, dass alle oder einzelne
 Zahlungs- oder Lieferverpflichtungen eines Instituts oder
@@ -6442,6 +6534,7 @@ von Beendigungsrechten entsprechend § 84 Gebrauch machen.
 
 
 #### § 67 Abwicklungsziele
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006801116)
 
 (1) Abwicklungsziele sind
 
@@ -6474,6 +6567,7 @@ angemessene Abwägung vorzunehmen.
 
 
 #### § 68 Allgemeine Grundsätze für eine Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE006901301)
 
 (1) Die Abwicklungsbehörde verfolgt bei Abwicklungsmaßnahmen die
 Grundsätze, dass
@@ -6531,6 +6625,7 @@ möglich ist.
 
 
 #### § 69 Bewertung; gerichtliche Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007000000)
 
 (1) Bevor eine Abwicklungsanordnung erlassen wird,
 
@@ -6554,6 +6649,7 @@ Kapitalinstrumente gerichtlich überprüft werden.
 
 
 #### § 70 Sachverständiger Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007102123)
 
 (1) Der sachverständige Prüfer (Prüfer) muss unabhängig sein von
 
@@ -6582,6 +6678,7 @@ den Artikeln 37 bis 41 der Verordnung (EU) 2016/1075.
 
 
 #### § 71 Zwecke der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007201123)
 
 Die Bewertung dient der Abwicklungsbehörde als Beurteilungsgrundlage
 für die folgenden Zwecke:
@@ -6641,6 +6738,7 @@ für die folgenden Zwecke:
 
 
 #### § 72 Grundsätze der Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007302301)
 
 (1) Die Bewertung hat sich auf vorsichtige Annahmen zu stützen,
 insbesondere auch in Bezug auf Ausfallwahrscheinlichkeiten und
@@ -6676,6 +6774,7 @@ die nach Maßgabe dieses Gesetzes erfolgen.
 
 
 #### § 73 Umfang der Bewertung; Prüfungsbericht und ergänzende Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007400000)
 
 (1) Die Bewertung hat unter Berücksichtigung ihres Zwecks nach § 71
 und der Grundsätze der Bewertung nach § 72 für alle Verbindlichkeiten
@@ -6724,6 +6823,7 @@ Rechtsanspruch auf Übermittlung des Prüfungsberichts besteht nicht.
 
 
 #### § 74 Vorläufige Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007500000)
 
 (1) Ist die Durchführung einer Bewertung, die sämtliche Anforderungen
 der §§ 70 bis 73 erfüllt, nicht oder nicht rechtzeitig vor der
@@ -6747,6 +6847,7 @@ Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente.
 
 
 #### § 75 Abschließende Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007600000)
 
 (1) Eine Bewertung, die nicht sämtliche Anforderungen der §§ 70 bis 73
 erfüllt, gilt so lange als vorläufige Bewertung, bis ein
@@ -6800,6 +6901,7 @@ so kann die Abwicklungsbehörde
 
 
 #### § 76 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007701000)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -6825,6 +6927,7 @@ Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
 
 #### § 77 Anordnung von Abwicklungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007803123)
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der
 Abwicklungsvoraussetzungen nach Maßgabe dieses Gesetzes alle zur
@@ -6933,6 +7036,7 @@ Veröffentlichung und zur Abgabe eines Angebots vom 27. Dezember 2001
 
 
 #### § 78 Allgemeine Befugnisse der Abwicklungsbehörde; Prüfungen vor Ort
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE007903123)
 
 (1) Wenn die Abwicklungsvoraussetzungen vorliegen, kann die
 Abwicklungsbehörde
@@ -7005,6 +7109,7 @@ Annahme einer Gefahr im Verzug begründet haben.
 
 
 #### § 79 Unterstützende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008003123)
 
 (1) Die Abwicklungsbehörde kann Maßnahmen nach den Absätzen 2 bis 7
 anordnen, wenn dies erforderlich ist, um Abwicklungsanordnungen
@@ -7109,6 +7214,7 @@ unberührt:
 
 
 #### § 80 Bereitstellung von Diensten und Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008100000)
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der
 Abwicklungsvoraussetzungen gegenüber dem in Abwicklung befindlichen
@@ -7154,6 +7260,7 @@ Insolvenzverwalter erfolgen. Die Absätze 2 bis 5 gelten entsprechend.
 
 
 #### § 81 Befugnis in Bezug auf in Drittstaaten belegene Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008200000)
 
 (1) Erstreckt sich eine Abwicklungsmaßnahme auch auf Gegenstände oder
 Verbindlichkeiten, die in einem Drittstaat belegen sind oder die dem
@@ -7207,6 +7314,7 @@ angeordnet, so hebt sie diese rückwirkend auf.
 
 
 #### § 82 Befugnis zur Aussetzung vertraglicher Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008302123)
 
 (1) Die Abwicklungsbehörde kann anordnen, dass alle oder einzelne
 Zahlungs- oder Lieferverpflichtungen eines in Abwicklung befindlichen
@@ -7257,6 +7365,7 @@ anzuwenden.
 
 
 #### § 83 Befugnis zur zeitweiligen Untersagung der Durchsetzung von Sicherungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008401123)
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die
 Abwicklungsbehörde den Gläubigern eines in Abwicklung befindlichen
@@ -7284,6 +7393,7 @@ Zentralbanken an seinen Vermögenswerten bestellt hat.
 
 
 #### § 84 Befugnis zur vorübergehenden Aussetzung von Beendigungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008503123)
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die
 Abwicklungsbehörde das Recht einer Partei, einen Vertrag mit einem in
@@ -7400,6 +7510,7 @@ Anordnung nach § 66a Gebrauch gemacht wurde.
 
 
 #### § 85 Streichung des Gesamtbetrags variabler Vergütungen und zurückbehaltener variabler Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008601123)
 
 (1) Die Abwicklungsbehörde kann bei Vorliegen der
 Abwicklungsvoraussetzungen gegenüber dem Institut oder
@@ -7434,6 +7545,7 @@ Institutsvergütungsverordnung reduziert oder streicht.
 
 
 #### § 86 Kontrollbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008701301)
 
 (1) Bei Vorliegen der Abwicklungsvoraussetzungen kann die
 Abwicklungsbehörde zur Vornahme einer Abwicklungsmaßnahme direkt oder
@@ -7462,6 +7574,7 @@ Kreditwesengesetzes.
 
 
 #### § 87 Sonderverwaltung; gemeinsamer Sonderverwalter für gruppenangehörige Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008801301)
 
 (1) Hat die Abwicklungsbehörde gegenüber einem Institut eine
 Abwicklungsanordnung erlassen, kann sie die Geschäftsleitung und das
@@ -7493,6 +7606,7 @@ Kreditwesengesetzes.
 
 
 #### § 88 Rechte, Aufgaben und Befugnisse des Sonderverwalters
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE008901301)
 
 (1) Die Abwicklungsbehörde kann dem Sonderverwalter nach § 87 die in §
 45c Absatz 2 des Kreditwesengesetzes genannten Aufgaben und Befugnisse
@@ -7534,12 +7648,15 @@ anzuwenden.
 
 
 ### Kapitel 2 - Abwicklungsinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001500000)
 
 
 #### Abschnitt 1 - Beteiligung der Anteilsinhaber und Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001600000)
 
 
 ##### § 89 Instrument der Beteiligung der Inhaber relevanter Kapitalinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009002123)
 
 (1) Liegen bei einem Institut oder einem gruppenangehörigen
 Unternehmen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor,
@@ -7576,6 +7693,7 @@ Restrukturierungsfondsgesetzes für das betreffende Unternehmen gelten.
 
 
 ##### § 90 Instrument der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009102123)
 
 Liegen bei einem Institut oder einem gruppenangehörigen Unternehmen
 die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, so kann die
@@ -7611,6 +7729,7 @@ anordnen, dass
 
 
 ##### § 91 Bail-in-fähige Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009202123)
 
 (1) Das Instrument der Gläubigerbeteiligung ist auf alle
 Verbindlichkeiten eines Instituts oder eines gruppenangehörigen
@@ -7733,6 +7852,7 @@ unterliegen:
 
 
 ##### § 92 Ausschluss der Anwendung des Instruments der Gläubigerbeteiligung im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009301123)
 
 (1) Die Abwicklungsbehörde kann im Einzelfall bestimmte bail-in-fähige
 Verbindlichkeiten oder bestimmte Kategorien berücksichtigungsfähiger
@@ -7820,6 +7940,7 @@ geben.
 
 
 ##### § 93 Anwendung des Instruments der Gläubigerbeteiligung in Bezug auf Verbindlichkeiten aus Derivaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009402377)
 
 (1) In Bezug auf Verbindlichkeiten aus Derivaten ist das Instrument
 der Gläubigerbeteiligung nur nach oder gleichzeitig mit der
@@ -7866,6 +7987,7 @@ zusammengefasst sind.
 
 
 ##### § 94 Ausgleichsbeiträge des Restrukturierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009502123)
 
 (1) Für die nach § 92 ganz oder teilweise ausgeschlossenen
 Verbindlichkeiten kann nach Maßgabe des § 7a des
@@ -7889,6 +8011,7 @@ Finanzierungsquellen in Anspruch nehmen, wenn
 
 
 ##### § 95 Zwecke des Instruments der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009600000)
 
 Das Instrument der Gläubigerbeteiligung kann für folgende Zwecke
 eingesetzt werden:
@@ -7935,6 +8058,7 @@ eingesetzt werden:
 
 
 ##### § 96 Festlegung des Betrags der herabzuschreibenden oder umzuwandelnden relevanten Kapitalinstrumente und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009701123)
 
 (1) Vor der Anwendung des Instruments der Beteiligung der Inhaber
 relevanter Kapitalinstrumente oder des Instruments der
@@ -8045,6 +8169,7 @@ Alternativmodell vorsieht.
 
 
 ##### § 97 Haftungskaskade
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009801123)
 
 (1) Anteile, andere Instrumente des harten Kernkapitals, relevante
 Kapitalinstrumente und berücksichtigungsfähige Verbindlichkeiten nach
@@ -8094,6 +8219,7 @@ gleichen Ranges gemäß § 92 Absatz 1 zulässig ist.
 
 
 ##### § 98 Umwandlungssatz; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE009902123)
 
 (1) Der Faktor, zu dem ein relevantes Kapitalinstrument oder eine
 berücksichtigungsfähige Verbindlichkeit nach § 65 Absatz 4 oder eine
@@ -8120,6 +8246,7 @@ Abwicklungsbehörde übertragen.
 
 
 ##### § 99 Weitere Wirkungen der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010002123)
 
 (1) Schreibt die Abwicklungsbehörde den Nennwert oder den geschuldeten
 Restbetrag eines relevanten Kapitalinstruments oder einer
@@ -8216,6 +8343,7 @@ Verbindlichkeiten nach § 65 Absatz 4 oder dem Gläubiger.
 
 
 ##### § 100 Behandlung der Anteilsinhaber und der Inhaber von Instrumenten des harten Kernkapitals bei der Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010101123)
 
 (1) Im Fall des § 96 Absatz 2 wird die Beteiligung der Anteilsinhaber
 durch die Anwendung des Instruments der Beteiligung der Inhaber
@@ -8272,6 +8400,7 @@ des Instruments der Gläubigerbeteiligung ergeben.
 
 
 ##### § 101 Abwicklungsbefugnisse bei Anwendung des Instruments der Beteiligung der Inhaber relevanter Kapitalinstrumente und des Instruments der Gläubigerbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010201123)
 
 Bei Anwendung des Instruments der Beteiligung der Inhaber relevanter
 Kapitalinstrumente und des Instruments der Gläubigerbeteiligung kann
@@ -8319,6 +8448,7 @@ insbesondere
 
 
 ##### § 102 Erfordernis der Erstellung eines Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010300000)
 
 (1) Wird das Instrument der Gläubigerbeteiligung zur Rekapitalisierung
 eines Instituts oder gruppenangehörigen Unternehmens gemäß § 95 Nummer
@@ -8354,6 +8484,7 @@ Europäische Bankenaufsichtsbehörde weiter.
 
 
 ##### § 103 Anforderungen an den Restrukturierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010400000)
 
 (1) Im Restrukturierungsplan ist festzulegen, wie innerhalb eines
 angemessenen Zeitrahmens die vollständige oder teilweise Fortführung
@@ -8420,6 +8551,7 @@ staatliche Beihilfen vorlegen muss, vereinbar sein.
 
 
 ##### § 104 Bewertung und Genehmigung des Restrukturierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010500000)
 
 (1) Die Abwicklungsbehörde bewertet im Benehmen mit der
 Aufsichtsbehörde innerhalb eines Monats nach Vorlage des
@@ -8452,6 +8584,7 @@ geänderte Restrukturierungsplan weiterer Änderungen bedarf.
 
 
 ##### § 105 Umsetzung des Restrukturierungsplans; spätere Überarbeitungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010600000)
 
 (1) Die Geschäftsleitung des Instituts oder gruppenangehörigen
 Unternehmens oder die als Sonderverwalter gemäß § 87 bestellte Person
@@ -8470,6 +8603,7 @@ entsprechend.
 
 
 ##### § 106 Zulassung zum Handel und Einbeziehung in den Handel von neu ausgegebenen Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010701123)
 
 (1) Wertpapiere, die zum Zweck der Anwendung des Instruments der
 Beteiligung der Inhaber relevanter Kapitalinstrumente oder des
@@ -8497,12 +8631,15 @@ gruppenangehörige Unternehmen zu erfüllen.
 
 
 #### Abschnitt 2 - Übertragung von Anteilen, Vermögenswerten, Verbindlichkeiten und Rechtsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001700000)
 
 
 ##### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001800000)
 
 
 ###### § 107 Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010800000)
 
 (1) Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor,
 kann die Abwicklungsbehörde nach Maßgabe der §§ 108 bis 137 in der
@@ -8544,6 +8681,7 @@ Anspruch auf Übertragung besteht nicht.
 
 
 ###### § 108 Mehrfache Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE010900000)
 
 Liegen die Abwicklungsvoraussetzungen gemäß § 62 oder § 64 vor, können
 das Instrument der Unternehmensveräußerung, das Instrument der
@@ -8553,6 +8691,7 @@ ausgeübt werden.
 
 
 ###### § 109 Einwilligung des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011001123)
 
 (1) Eine Übertragung nach § 107 bedarf der Einwilligung des
 übernehmenden Rechtsträgers. Die Einwilligung muss auf einen Entwurf
@@ -8574,6 +8713,7 @@ Rechtsfolge einer möglichen Rückabwicklung angefochten werden können.
 
 
 ###### § 110 Auswahl der Übertragungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011100000)
 
 (1) Unbeschadet der Befugnisse der Abwicklungsbehörde gemäß den §§ 82,
 83 und 144 können die Übertragungsgegenstände nur zusammen mit den
@@ -8625,6 +8765,7 @@ von Artikel 9 der Richtlinie
 
 
 ###### § 111 Bewertung von Angeboten; Gegenleistung; Ausgleichsverbindlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011201123)
 
 (1) Im Fall des § 107 Absatz 1 Nummer 1 Buchstabe a dient der Wert der
 Übertragungsgegenstände auf der Grundlage der Bewertung nach § 69 der
@@ -8691,6 +8832,7 @@ von der Übertragung erfassten Verbindlichkeiten.
 
 
 ###### § 112 Drittvergleich
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011300000)
 
 (1) Eine Übertragung nach § 107 muss einem Drittvergleich standhalten.
 Hierbei sind zu berücksichtigen:
@@ -8718,6 +8860,7 @@ hält einem Drittvergleich im Sinne von Absatz 1 stand.
 
 
 ###### § 113 Wirkungen der Abwicklungsanordnung bei Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011401116)
 
 (1) Eine Übertragung nach § 107 vollzieht sich ausschließlich nach
 Maßgabe dieses Gesetzes in Verbindung mit der nach Maßgabe dieses
@@ -8774,6 +8917,7 @@ oder einen Umtausch vorsehen, werden im Zweifel an die durch die
 
 
 ###### § 114 Wirksamwerden der Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011500000)
 
 (1) Die Übertragung wird mit der Bekanntgabe der Abwicklungsanordnung
 nach § 137 wirksam.
@@ -8784,6 +8928,7 @@ Abwicklungsanordnung erfassten Übertragungsgegenstände auf den
 
 
 ###### § 115 Eintragung der Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011600000)
 
 (1) Ist Übertragungsgegenstand ein Teil oder die Gesamtheit des
 Vermögens eines in Abwicklung befindlichen Instituts oder
@@ -8817,6 +8962,7 @@ werden.
 
 
 ###### § 116 Insolvenzantragspflicht; Haftung des übernehmenden Rechtsträgers
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011701116)
 
 (1) Werden die in § 107 Absatz 1 Nummer 1 genannten
 Abwicklungsinstrumente angewendet, stellt die Abwicklungsbehörde bei
@@ -8836,6 +8982,7 @@ für von der Übertragung nicht erfasste Verbindlichkeiten des
 
 
 ###### § 117 Übertragungsgegenstände, die ausländischem Recht unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011800000)
 
 (1) Unterliegen Übertragungsgegenstände ausländischem Recht und werden
 danach die Rechtswirkungen der Abwicklungsanordnung nicht oder nicht
@@ -8885,6 +9032,7 @@ die Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 ###### § 118 Erforderliche Erlaubnisse, Zulassungen und Genehmigungen; aufsichtliche Anforderungen; Mitgliedschaft in und Zugang zu Finanzmarktinfrastrukturen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE011900000)
 
 (1) Führt die Übertragung von Übertragungsgegenständen nach § 107 auf
 den übernehmenden Rechtsträger dazu, dass dieser erlaubnis-,
@@ -8925,6 +9073,7 @@ hinaus verlängert werden.
 
 
 ###### § 119 Inländische Erlaubnis-, Zulassungs- und Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012000000)
 
 (1) Die Abwicklungsbehörde informiert die Aufsichtsbehörde und die
 weiteren betroffenen Behörden im Inland, wenn ihr bekannt ist, dass
@@ -8960,6 +9109,7 @@ zu erteilen.
 
 
 ###### § 120 Besondere Vorschriften für das Verfahren nach § 2c des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012100000)
 
 (1) Wenn eine Übertragung von Anteilen nach § 107 zum Erwerb oder zur
 Erhöhung einer bedeutenden Beteiligung führt, nimmt die
@@ -9011,6 +9161,7 @@ der Aufsichtsbehörde vollständig auf den übernehmenden Rechtsträger
 
 
 ###### § 121 Erlaubnisverfahren in anderen Mitgliedstaaten und Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012200000)
 
 (1) Erfordert die Anwendung eines der Abwicklungsinstrumente nach §
 107 nach Einschätzung der Abwicklungsbehörde die Durchführung eines
@@ -9046,6 +9197,7 @@ Abwicklungsanordnung, ist § 120 Absatz 3 entsprechend anzuwenden.
 
 
 ###### § 122 Mitwirkung der Abwicklungsbehörde bei Erlaubnis-, Zulassungs- oder Genehmigungsverfahren einer ausländischen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012300000)
 
 (1) Wird ein Rechtsakt, der einer Abwicklungsanordnung vergleichbar
 ist, von einer ausländischen Abwicklungsbehörde erlassen und erfordert
@@ -9076,6 +9228,7 @@ der Abwicklungsbehörde zurückgenommen oder widerrufen werden.
 
 
 ###### § 123 Gegenseitige Unterstützung der betroffenen Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012400000)
 
 (1) Verbleiben bei dem übertragenden Rechtsträger Gegenstände, auf
 deren Nutzung oder Mitnutzung der übernehmende Rechtsträger angewiesen
@@ -9100,6 +9253,7 @@ Mitnutzung gegen ein angemessenes Entgelt zu gestatten, bis der
 
 
 ###### § 124 Maßnahmen beim übertragenden Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012501123)
 
 (1) Besteht die Gegenleistung nach § 111 Absatz 2 und 5 in Anteilen am
 übernehmenden Rechtsträger, so wird das Stimmrecht des übertragenden
@@ -9139,6 +9293,7 @@ Verfahrens erforderlichen Kostenvorschuss zu leisten.
 
 
 ###### § 125 Maßnahmen beim übernehmenden Rechtsträger
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012602123)
 
 (1) Der übernehmende Rechtsträger hat der Abwicklungsbehörde auf
 Verlangen unverzüglich Auskunft über alle Umstände zu geben, die für
@@ -9253,9 +9408,11 @@ Dritte gleich.
 
 
 ##### Unterabschnitt 2 - Besondere Vorschriften für das Instrument der Unternehmensveräußerung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG001900000)
 
 
 ###### § 126 Vermarktungsprozess; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012703123)
 
 (1) Beabsichtigt die Abwicklungsbehörde, im Rahmen einer
 Abwicklungsanordnung vom Instrument der Unternehmensveräußerung
@@ -9329,6 +9486,7 @@ Abwicklungsbehörde übertragen.
 
 
 ###### § 127 Rückübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012800000)
 
 (1) Die Abwicklungsbehörde kann innerhalb von vier Monaten nach dem
 Wirksamwerden der Übertragung nach § 114 anordnen, dass Gegenstände an
@@ -9354,9 +9512,11 @@ Rechtsträger keine Befriedigung erlangen kann.
 
 
 ##### Unterabschnitt 3 - Besondere Vorschriften für das Instrument der Übertragung auf ein Brückeninstitut
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002000000)
 
 
 ###### § 128 Verfassung des Brückeninstituts
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE012902301)
 
 (1) Brückeninstitut kann nur ein Rechtsträger sein,
 
@@ -9451,6 +9611,7 @@ des Brückeninstituts.
 
 
 ###### § 129 Vermarktung oder Liquidation des Brückeninstituts
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013000000)
 
 (1) Sollen die Anteile an dem Brückeninstitut an einen oder mehrere
 andere Rechtsträger oder sollen die an das Brückeninstitut
@@ -9490,6 +9651,7 @@ Brückeninstitut nicht anzuwenden.
 
 
 ###### § 130 Vermögenslage des Brückeninstituts
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013100000)
 
 (1) Wird das Instrument der Übertragung auf ein Brückeninstitut
 angewendet, stellt die Abwicklungsbehörde sicher, dass der Gesamtwert
@@ -9503,6 +9665,7 @@ Erlasses der Abwicklungsanordnung.
 
 
 ###### § 131 Rück- und Weiterübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013200000)
 
 (1) Die Abwicklungsbehörde kann anordnen, dass Gegenstände an die
 vorherigen Anteilsinhaber oder den übertragenden Rechtsträger
@@ -9537,9 +9700,11 @@ Anschlussübertragungsanordnung.
 
 
 ##### Unterabschnitt 4 - Besondere Vorschriften für das Instrument der Übertragung auf eine Vermögensverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002100000)
 
 
 ###### § 132 Zusätzliche Anwendungsvoraussetzungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013301000)
 
 (1) Die Abwicklungsbehörde kann das Instrument der Übertragung auf
 eine Vermögensverwaltungsgesellschaft nur anwenden, wenn
@@ -9572,6 +9737,7 @@ Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
 
 ###### § 133 Verfassung der Vermögensverwaltungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013400000)
 
 (1) Vermögensverwaltungsgesellschaft kann nur ein Rechtsträger sein,
 
@@ -9630,6 +9796,7 @@ anzuwenden.
 
 
 ###### § 134 Besondere Vorschriften für die Gegenleistung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013500000)
 
 Werden alle oder einzelne Vermögenswerte, Verbindlichkeiten und
 Rechtsverhältnisse eines Brückeninstituts auf eine
@@ -9642,6 +9809,7 @@ werden.
 
 
 ###### § 135 Rückübertragung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013600000)
 
 § 131 Absatz 1 ist auf die Rückübertragung von
 Übertragungsgegenständen, die vom übertragenden Rechtsträger auf die
@@ -9650,12 +9818,15 @@ anzuwenden.
 
 
 #### Abschnitt 3 - Abwicklungsanordnung; Vorschriften für das Verfahren; Rechtsformwechsel; Inanspruchnahme von Einlagensicherungssystemen; Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002200000)
 
 
 ##### Unterabschnitt 1 - Bestimmungen für den Erlass einer Abwicklungsanordnung; sonstige Verfahrensvorschriften; Rechtswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002300000)
 
 
 ###### § 136 Inhalt der Abwicklungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013701123)
 
 (1) Die Abwicklungsanordnung muss mindestens die folgenden Angaben
 enthalten:
@@ -9772,6 +9943,7 @@ Eintragung ist für die Wirksamkeit der Maßnahmen nicht konstitutiv.
 
 
 ###### § 137 Erlass und Bekanntgabe der Abwicklungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013801301)
 
 (1) Die Abwicklungsanordnung ergeht als Allgemeinverfügung. Einer
 gesonderten Bekanntgabe an die Beteiligten bedarf es genauso wenig wie
@@ -9786,6 +9958,7 @@ Kapitalerhöhungsbeschlüssen nach § 109.
 
 
 ###### § 138 Mitteilungspflichten bei einer Bestandsgefährdung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE013902123)
 
 (1) Im Fall einer Bestandsgefährdung im Sinne des § 63 eines Instituts
 oder eines gruppenangehörigen Unternehmens informiert die
@@ -9852,6 +10025,7 @@ nicht um den Drittstaat handelt, in dem das konsolidierungspflichtige
 
 
 ###### § 139 Entscheidung der Abwicklungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014000000)
 
 (1) Erhält die Abwicklungsbehörde von einer anderen Stelle Kenntnis
 von einer möglichen Bestandsgefährdung, prüft sie unverzüglich, ob die
@@ -9868,6 +10042,7 @@ das geplante weitere Vorgehen.
 
 
 ###### § 140 Verfahrenspflichten der Abwicklungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014103123)
 
 (1) Vor der Vornahme einer Abwicklungsmaßnahme informiert die
 Abwicklungsbehörde
@@ -9944,6 +10119,7 @@ im Bundesanzeiger, dass die Abwicklungsmaßnahmen beendet sind.
 
 
 ###### § 141 Insolvenzfestigkeit von Abwicklungsmaßnahmen, Anfechtbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014200000)
 
 Ein Insolvenzverfahren über das Vermögen des Instituts oder des
 gruppenangehörigen Unternehmens lässt die Anwendung eines
@@ -9953,6 +10129,7 @@ innerhalb noch außerhalb eines solchen Insolvenzverfahrens möglich.
 
 
 ###### § 142 Abzugsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014302301)
 
 Die Abwicklungsbehörde kann anordnen, dass Gebühren und Auslagen nach
 dem Bundesgebührengesetz sowie Kostenerstattungen nach § 15 Absatz 1
@@ -9971,6 +10148,7 @@ durch Abzug von den folgenden Positionen beglichen werden:
 
 
 ###### § 143 Schadensersatzansprüche gegen Organmitglieder und ehemalige Organmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014400000)
 
 Die Abwicklungsbehörde soll bei dem Institut oder dem
 gruppenangehörigen Unternehmen einen Sonderprüfer einsetzen, um zu
@@ -9981,6 +10159,7 @@ bestehen. § 45c Absatz 6 des Kreditwesengesetzes sowie die §§ 144 und
 
 
 ###### § 144 Ausschluss bestimmter vertraglicher Bedingungen bei frühzeitigem Eingreifen und bei der Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014502123)
 
 (1) Eine Krisenpräventionsmaßnahme oder eine Krisenmanagementmaßnahme,
 einschließlich eines unmittelbar mit der Anwendung einer solchen
@@ -10035,9 +10214,11 @@ zuwiderlaufen, können keine Rechte hergeleitet werden.
 
 
 ##### Unterabschnitt 2 - Inanspruchnahme von Einlagensicherungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002400000)
 
 
 ###### § 145 Inanspruchnahme von Einlagensicherungssystemen im Rahmen einer Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014602123)
 
 (1) Für den Fall, dass für ein Institut oder für ein
 gruppenangehöriges Unternehmen eine Abwicklungsmaßnahme durchgeführt
@@ -10097,9 +10278,11 @@ beschränkt.
 
 
 ##### Unterabschnitt 3 - Ausgleichszahlung für benachteiligte Anteilsinhaber, Gläubiger und Einlagensicherungssysteme; Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002500000)
 
 
 ###### § 146 Vergleich mit dem Ausgang eines hypothetischen Insolvenzverfahrens; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014700000)
 
 (1) Die Abwicklungsbehörde hat unverzüglich nach Durchführung einer
 oder mehrerer Abwicklungsmaßnahmen durch einen unabhängigen,
@@ -10172,6 +10355,7 @@ Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde
 
 
 ###### § 147 Schutzbestimmungen für Anteilsinhaber und Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014800000)
 
 Führt die Bewertung gemäß § 146 zu dem Ergebnis, dass die von einem
 Anteilsinhaber, Gläubiger oder Einlagensicherungssystem im Sinne des §
@@ -10185,6 +10369,7 @@ in Verträge nach § 79 Absatz 5.
 
 
 ###### § 148 Schutzbestimmungen für Sozialpläne
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE014900000)
 
 Ansprüche aus einem Sozialplan, der nach dem Zeitpunkt des § 138
 Absatz 3 Satz 1 aufgestellt wird, sind vom Anwendungsbereich des
@@ -10196,9 +10381,11 @@ Insolvenzordnung beglichen worden wären.
 
 
 ##### Unterabschnitt 4 - Rechtsformwechsel
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002600000)
 
 
 ###### § 149 Anordnung eines Rechtsformwechsels
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015001377)
 
 (1) Die Anordnung eines Formwechsels muss folgende Bestimmungen
 enthalten:
@@ -10298,16 +10485,20 @@ der Anmeldung oder Eintragung wirksam.
 
 
 ##### Unterabschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002701123)
 
 
 ###### (XXXX) §§ 150 bis 152 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015101123)
 
 
 
 ## Teil 5 - Sondervorschriften für zentrale Gegenparteien
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003700123)
 
 
 ### § 152a Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018301123)
 
 Die Vorschriften dieses Teils finden ausschließlich Anwendung auf
 zentrale Gegenparteien, die ein Unternehmen im Sinne des Artikels 2
@@ -10316,6 +10507,7 @@ Inland haben.
 
 
 ### § 152b Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018403123)
 
 (1) Die Bundesanstalt ist zuständige Abwicklungsbehörde im Sinne von
 Artikel 3 Absatz 1 der Verordnung (EU) 2021/23.
@@ -10338,6 +10530,7 @@ Beeinträchtigung der Abwicklungsziele möglich ist.
 
 
 ### § 152c Unabhängiger Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018502123)
 
 (1) Die für die Durchführung einer abschließenden Bewertung
 erforderliche Unabhängigkeit des Prüfers wird nicht dadurch
@@ -10353,6 +10546,7 @@ den Artikeln 37 bis 41 der Verordnung (EU) 2016/1075.
 
 
 ### § 152d Abwicklungsinstrumente, Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018602123)
 
 (1) Die Abwicklungsbehörde kann von der zentralen Gegenpartei
 verlangen, die Positionszuweisungs- und Verlustzuweisungsinstrumente
@@ -10365,6 +10559,7 @@ die Einhaltung der Verordnung (EU) 2021/23 sicherzustellen.
 
 
 ### § 152e Ausgleich des Differenzbetrags
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018701123)
 
 Der Ausgleich des Differenzbetrags nach Artikel 62 der Verordnung (EU)
 2021/23 steht den Anteilseignern, den Clearingmitgliedern und den
@@ -10372,6 +10567,7 @@ anderen Gläubigern gegenüber der Abwicklungsbehörde zu.
 
 
 ### § 152f Inhalt der Abwicklungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018801123)
 
 (1) Die Abwicklungsanordnung muss mindestens enthalten:
 
@@ -10433,6 +10629,7 @@ anderen Gläubigern gegenüber der Abwicklungsbehörde zu.
 
 
 ### § 152g Verfahrensvorschriften, Einlagensicherung, Sozialpläne
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018901123)
 
 Liegen die Abwicklungsvoraussetzungen vor, kann die Abwicklungsbehörde
 die Abwicklungsanordnung durch Allgemeinverfügung treffen. § 10 Absatz
@@ -10441,6 +10638,7 @@ die §§ 139 bis 143, 145, 148, 151, 152 finden entsprechende Anwendung.
 
 
 ### § 152h Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019001123)
 
 (1) Ein Widerspruchsverfahren gegen eine Abwicklungsmaßnahme nach
 Artikel 27 Absatz 1, den Artikeln 48 bis 59 der Verordnung (EU)
@@ -10459,6 +10657,7 @@ Wirkung.
 
 
 ### § 152i Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019101123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
@@ -10499,6 +10698,7 @@ Abwicklungsbehörde übertragen.
 
 
 ### § 152j Besondere Befugnisse nach der Verordnung (EU) 2021/23
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE019201123)
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote
 der in den Titeln III bis V enthaltenen Artikel der Verordnung (EU)
@@ -10547,12 +10747,15 @@ wurden, auf ihrer Internetseite bekannt machen.
 
 
 ## Teil 6 - Grenzüberschreitende Gruppenabwicklung und Beziehungen zu Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002801123)
 
 
 ### Kapitel 1 - Anerkennung von Maßnahmen der Behörden anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG002901123)
 
 
 #### § 153 Wirksamkeit von Krisenmanagementmaßnahmen oder Krisenpräventionsmaßnahmen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015401123)
 
 (1) Überträgt eine Abwicklungsbehörde in einem anderen Mitgliedstaat
 in Anwendung eines Abwicklungsinstruments im Sinne der Richtlinie
@@ -10582,12 +10785,15 @@ anderen Mitgliedstaat bei der Übertragung nach Absatz 1.
 
 
 ### Kapitel 2 - Grenzüberschreitende Gruppenabwicklung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003001123)
 
 
 #### Abschnitt 1 - Grenzüberschreitende Entscheidungsfindung und Information; Abwicklungskollegien
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003101123)
 
 
 ##### § 154 Allgemeine Grundsätze für Entscheidungsfindungen, an denen eine Behörde oder mehrere Behörden anderer Mitgliedstaaten beteiligt sind
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015501123)
 
 Wenn die Abwicklungsbehörde oder andere nach diesem Gesetz zuständige
 Behörden Entscheidungen treffen oder Maßnahmen nach diesem Gesetz
@@ -10672,6 +10878,7 @@ Mitgliedstaaten haben können, müssen sie
 
 
 ##### § 155 Zuständigkeit der Abwicklungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015601123)
 
 Die Abwicklungsbehörde ist für die Gruppenabwicklung eines Instituts
 oder eines übergeordneten Unternehmens zuständig, wenn die
@@ -10683,6 +10890,7 @@ wäre.
 
 
 ##### § 156 Abwicklungskollegium
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015702123)
 
 (1) Ist die Abwicklungsbehörde für die Gruppenabwicklung eines
 Instituts oder übergeordneten Unternehmens zuständig, richtet sie
@@ -10749,6 +10957,7 @@ dieses andere Kollegium zu verstehen.
 
 
 ##### § 157 Mitglieder des Abwicklungskollegiums und weitere Teilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015802123)
 
 (1) Die folgenden Behörden sind stimmberechtigte Mitglieder des
 Abwicklungskollegiums:
@@ -10823,6 +11032,7 @@ festgelegten Anforderungen vergleichbar sind.
 
 
 ##### § 158 Organisation des Abwicklungskollegiums
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE015900000)
 
 (1) Die Abwicklungsbehörde führt den Vorsitz im Abwicklungskollegium.
 In dieser Eigenschaft muss sie
@@ -10871,6 +11081,7 @@ sich in ihrem Rechtsraum befindet.
 
 
 ##### § 159 Europäische Abwicklungskollegien
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016001123)
 
 (1) Hat ein Institut mit Sitz in einem Drittstaat oder ein
 Drittstaatsmutterunternehmen
@@ -10943,6 +11154,7 @@ Abwicklungskollegium wären.
 
 
 ##### § 160 Informationsaustausch mit Behörden und Ministerien anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016101301)
 
 (1) Vorbehaltlich der §§ 4 bis 10 übermitteln die Abwicklungsbehörde
 und die Aufsichtsbehörde den Abwicklungsbehörden und Aufsichtsbehörden
@@ -10975,9 +11187,11 @@ haben könnte.
 
 
 #### Abschnitt 2 - Gruppenabwicklung im Fall eines Tochterunternehmens, das nicht EU-Mutterunternehmen ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003201123)
 
 
 ##### § 161 Übermittlung von Informationen über die Abwicklungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016200000)
 
 Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein Institut
 oder gruppenangehöriges Unternehmen, das Mitglied einer Gruppe ist,
@@ -11003,6 +11217,7 @@ die betreffende Gruppe zuständigen Abwicklungskollegiums:
 
 
 ##### § 162 Vorgehen, wenn die Abwicklungsbehörde nicht die für die Gruppenabwicklung zuständige Behörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016300000)
 
 (1) Ist die Abwicklungsbehörde nicht die für die Gruppenabwicklung
 zuständige Behörde, so kann sie die nach § 161 Nummer 2 mitgeteilten
@@ -11047,6 +11262,7 @@ angemessener Weise Rechnung zu tragen.
 
 
 ##### § 163 Vorgehen, wenn die Abwicklungsbehörde die für die Gruppenabwicklung zuständige Behörde ist
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016400000)
 
 (1) Ist die Abwicklungsbehörde die für die Gruppenabwicklung
 zuständige Behörde und erhält sie eine dem § 161 entsprechende
@@ -11083,6 +11299,7 @@ verlängert werden.
 
 
 ##### § 164 Gruppenabwicklungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016500000)
 
 (1) In einem Gruppenabwicklungskonzept
 
@@ -11136,6 +11353,7 @@ unterrichten.
 
 
 ##### § 165 Unverzügliche Durchführung der Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016600000)
 
 Die Abwicklungsbehörde führt alle Maßnahmen gemäß den §§ 161 bis 164
 unverzüglich und unter gebührender Berücksichtigung der gebotenen
@@ -11143,9 +11361,11 @@ Dringlichkeit durch.
 
 
 #### Abschnitt 3 - Gruppenabwicklung im Fall eines EU-Mutterunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003301123)
 
 
 ##### § 166 Gruppenabwicklung im Fall eines EU-Mutterunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016700000)
 
 (1) Gelangt die Abwicklungsbehörde zu der Einschätzung, dass ein
 übergeordnetes Unternehmen, welches gleichzeitig ein EU-
@@ -11226,9 +11446,11 @@ gebotenen Dringlichkeit durch.
 
 
 ### Kapitel 3 - Beziehungen zu Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003401123)
 
 
 #### § 167 Vereinbarungen mit Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016801123)
 
 (1) In Vereinbarungen mit Drittstaaten kann die Art und Weise der
 Zusammenarbeit zwischen der Abwicklungsbehörde und der
@@ -11286,6 +11508,7 @@ Vorgaben des Artikels 93 der Richtlinie 2014/59/EU geschlossen hat.
 
 
 #### § 168 Zusammenarbeit mit Drittstaatsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE016901123)
 
 (1) Die Bestimmungen dieses Paragraphen gelten in Bezug auf die
 Zusammenarbeit mit einem Drittstaat, sofern und solange keine
@@ -11425,6 +11648,7 @@ Abwicklungsbehörde oder Aufsichtsbehörde geschlossen hat.
 
 
 #### § 169 Anerkennung und Durchsetzung von Drittstaatsabwicklungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017000000)
 
 (1) Die Bestimmungen dieses Paragraphen gelten in Bezug auf
 Drittstaatsabwicklungsverfahren, sofern und solange keine Übereinkunft
@@ -11560,6 +11784,7 @@ Abwicklungsverfahren nach deutschem Recht.
 
 
 #### § 170 Recht auf Verweigerung der Anerkennung oder Durchsetzung von Drittstaatsabwicklungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017100000)
 
 Nach Konsultation der betroffenen Abwicklungsbehörden der anderen
 Mitgliedstaaten des europäischen Abwicklungskollegiums gemäß § 159
@@ -11597,6 +11822,7 @@ ist, dass
 
 
 #### § 171 Abwicklung von inländischen Unionszweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017200000)
 
 (1) Wenn eine inländische Unionszweigstelle entweder keinem
 Drittstaatsabwicklungsverfahren unterliegt oder wenn die inländische
@@ -11648,9 +11874,11 @@ Abwicklungsmaßnahme einschlägig sind.
 
 
 ## Teil 7 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003501123)
 
 
 ### § 172 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017302123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -11754,6 +11982,7 @@ ist.
 
 
 ### § 172a Bußgeldvorschriften zur Verordnung (EU) 2021/23
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020900123)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2021/23 des
 Europäischen Parlaments und des Rates vom 16. Dezember 2020 über einen
@@ -11809,6 +12038,7 @@ Mutterunternehmens ausgewiesen ist.
 
 
 ### § 173 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017401123)
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 über Ordnungswidrigkeiten ist in den Fällen des § 172 Absatz 1 Nummer
@@ -11817,6 +12047,7 @@ Aufsichtsbehörde, im Übrigen die Abwicklungsbehörde.
 
 
 ### § 174 Vorübergehendes Tätigkeitsverbot; Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017501301)
 
 (1) Bei wiederholter oder fortgesetzter Begehung von
 Ordnungswidrigkeiten nach § 172 Absatz 1 kann die Aufsichtsbehörde dem
@@ -11881,6 +12112,7 @@ Abwicklungsbehörden eines Mitgliedstaats zugänglich zu machen.
 
 
 ### § 175 Beteiligung der Abwicklungsbehörde und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017600000)
 
 (1) Das Gericht, die Strafverfolgungs- oder die
 Strafvollstreckungsbehörde hat in Strafverfahren gegen Inhaber oder
@@ -11930,12 +12162,15 @@ ist, dass schutzwürdige Interessen des Betroffenen überwiegen. Absatz
 
 
 ## Teil 8 - Weitere Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003603123)
 
 
 ### Kapitel 1 - Maßnahmen des Ausschusses
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003900123)
 
 
 #### § 176 Unterstützung bei Untersuchungen; Zwangsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE017701116)
 
 (1) Beschließt der Ausschuss, seine Untersuchungsbefugnisse nach den
 Artikeln 34 bis 36 der Verordnung (EU) Nr. 806/2014 mit Hilfe der
@@ -11965,6 +12200,7 @@ Verwaltungsvollstreckungsgesetz gilt entsprechend.
 
 
 #### § 177 Prüfungen vor Ort nach der SRM-Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018000116)
 
 Für Prüfungen vor Ort nach Artikel 36 der Verordnung (EU) Nr. 806/2014
 durch die dort genannten Bediensteten und Personen gilt § 78 Absatz 2
@@ -11974,6 +12210,7 @@ richtet sich nach Artikel 37 Absatz 2 der Verordnung (EU) Nr.
 
 
 #### § 178 Vollstreckung der vom Ausschuss verhängten Geldbußen und Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE018100116)
 
 (1) Für die Vollstreckung der durch den Ausschuss nach den Artikeln 38
 und 39 der Verordnung (EU) Nr. 806/2014 verhängten Geldbußen und
@@ -11997,9 +12234,11 @@ ausgesetzt werden.
 
 
 ### Kapitel 2 - Untersuchungsbefugnisse der Abwicklungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG004000123)
 
 
 #### § 178a Auskunfts- und Vorlageverlangen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE021100123)
 
 (1) Die Abwicklungsbehörde kann von den in § 1 Absatz 1 genannten
 Unternehmen und zentralen Gegenparteien, von den Mitgliedern der
@@ -12024,6 +12263,7 @@ Kosten und Aufwendungen zu erstatten.
 
 
 #### § 178b Vornahme von Prüfungen und Prüfungen vor Ort
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE021200123)
 
 (1) Die Abwicklungsbehörde kann zum Zweck der Bewertung der
 Abwicklungsfähigkeit, auch ohne besonderen Anlass, bei den in § 1
@@ -12063,9 +12303,11 @@ betroffenen Unternehmen oder zentralen Gegenparteien zu erstatten.
 
 
 ## Teil 9 - Rechtsbehelf und Ausschluss anderer Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNG003800123)
 
 
 ### § 179 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020600123)
 
 (1) Ein Widerspruchsverfahren gegen eine Abwicklungsmaßnahme wird
 nicht durchgeführt. Eine Anfechtungsklage gegen Abwicklungsmaßnahmen
@@ -12105,6 +12347,7 @@ der durch die Abwicklungsmaßnahme entstandenen Nachteile zu.
 
 
 ### § 179a Besondere Vorschriften für das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE021300123)
 
 Vor dem Erlass einer Maßnahme nach den §§ 66a, 77 bis 90, 101, 107,
 153 oder nach § 169 ist die Abwicklungsbehörde zur Durchführung einer
@@ -12113,6 +12356,7 @@ verpflichtet.
 
 
 ### § 180 Unterbrechung von gerichtlichen Verfahren in Zivilsachen
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020700123)
 
 Im Fall des Erlasses einer Abwicklungsmaßnahme der Abwicklungsbehörde
 gegen ein Institut oder ein gruppenangehöriges Unternehmen mit Sitz im
@@ -12125,6 +12369,7 @@ Absatz 6 veröffentlicht hat.
 
 
 ### § 181 Haftungsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/sag/BJNR209110014.html#BJNR209110014BJNE020800123)
 
 Abweichend von § 75 Absatz 1 Satz 1 des Bundesbeamtengesetzes haben
 Beamtinnen und Beamte, deren Behörden Aufgaben nach diesem Gesetz

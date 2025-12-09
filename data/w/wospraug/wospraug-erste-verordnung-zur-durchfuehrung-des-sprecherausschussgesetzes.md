@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE001700328)
 
 Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des
 Gesetzes vom 20. Dezember 1988 - BGBl. I S. 2312, 2316) wird
@@ -28,14 +29,17 @@ verordnet:
 
 
 ## Erster Teil - Wahl des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000100328)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000200328)
 
 
 
 #### § 1 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE001801126)
 
 (1) Die Leitung der Wahl obliegt dem Wahlvorstand.
 
@@ -78,6 +82,7 @@ auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 2 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE001901126)
 
 (1) Der Wahlvorstand hat für jede Wahl des Sprecherausschusses eine
 Liste der leitenden Angestellten (Wählerliste) aufzustellen. Die
@@ -108,6 +113,7 @@ vorgenommen werden können.
 
 
 #### § 3 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002001126)
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erläßt
 der Wahlvorstand ein Wahlausschreiben, das vom Vorsitzenden und von
@@ -192,6 +198,7 @@ erforderlichen Informationen zur Verfügung zu stellen.
 
 
 #### § 4 Einspruch gegen die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002101126)
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit
 Wirksamkeit für die Wahl des Sprecherausschusses nur vor Ablauf von
@@ -221,14 +228,17 @@ ergänzt werden.
 
 
 ### Zweiter Abschnitt - Wahl mehrerer Mitglieder des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000300328)
 
 
 
 #### Erster Unterabschnitt - Einreichung und Bekanntmachung von Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000400328)
 
 
 
 ##### § 5 Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002200328)
 
 (1) Sind mehrere Mitglieder des Sprecherausschusses zu wählen, erfolgt
 die Wahl auf Grund von Vorschlagslisten. Die Vorschlagslisten sind von
@@ -274,6 +284,7 @@ Bewerber auf sämtlichen Listen zu streichen.
 
 
 ##### § 6 Prüfung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002300328)
 
 (1) Der Wahlvorstand hat dem Überbringer der Vorschlagsliste oder,
 falls die Vorschlagsliste auf eine andere Weise eingereicht wird, dem
@@ -291,6 +302,7 @@ unterrichten.
 
 
 ##### § 7 Ungültige Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002400328)
 
 (1) Ungültig sind Vorschlagslisten,
 
@@ -329,6 +341,7 @@ drei Arbeitstagen beseitigt werden.
 
 
 ##### § 8 Nachfrist für Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002500328)
 
 (1) Ist nach Ablauf der in § 5 Abs. 1 genannten Frist für die Wahl
 keine gültige Vorschlagsliste eingereicht, hat dies der Wahlvorstand
@@ -344,6 +357,7 @@ bekanntzumachen, daß die Wahl nicht stattfindet.
 
 
 ##### § 9 Bekanntmachung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002601126)
 
 (1) Nach Ablauf der in § 5 Abs. 1 sowie der in den §§ 7 und 8
 genannten Fristen ermittelt der Wahlvorstand durch das Los die
@@ -358,10 +372,12 @@ Wahlausschreiben nach § 3 Absatz 4 Satz 1 bis 3.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000500328)
 
 
 
 ##### § 10 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002701126)
 
 (1) Der Wähler kann seine Stimme nur für eine der als gültig
 anerkannten Vorschlagslisten abgeben. Die Stimmabgabe erfolgt durch
@@ -385,6 +401,7 @@ einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
 
 ##### § 11 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002801126)
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der
 Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen kann. Für
@@ -421,6 +438,7 @@ durchgeführt wird.
 
 
 ##### § 12 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE002901126)
 
 (1) Unverzüglich nach Abschluß der Stimmabgabe nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor. Sofern eine schriftliche
@@ -438,6 +456,7 @@ andernfalls als ungültig angesehen.
 
 
 ##### § 13 Verteilung der Sitze
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003000328)
 
 (1) Die auf die einzelnen Vorschlagslisten entfallenen Stimmenzahlen
 werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2,
@@ -463,6 +482,7 @@ Vorschlagslisten bestimmt sich nach der Reihenfolge ihrer Benennung.
 
 
 ##### § 14 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003101126)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
 einer Niederschrift festzustellen:
@@ -497,6 +517,7 @@ weiteren Mitglied des Wahlvorstands zu unterschreiben.
 
 
 ##### § 15 Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003200328)
 
 (1) Der Wahlvorstand hat die als Mitglieder des Sprecherausschusses
 gewählten leitenden Angestellten unverzüglich schriftlich von ihrer
@@ -510,6 +531,7 @@ gewählte Bewerber.
 
 
 ##### § 16 Bekanntmachung des Wahlergebnisses und der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003301126)
 
 Sobald die Mitglieder des Sprecherausschusses endgültig feststehen,
 hat der Wahlvorstand das Wahlergebnis und die Namen der Gewählten
@@ -520,16 +542,19 @@ Wahlniederschrift (§ 14) ist dem Arbeitgeber unverzüglich zu
 
 
 ##### § 17 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003400328)
 
 Der Sprecherausschuß hat die Wahlakten mindestens bis zur Beendigung
 seiner Amtszeit aufzubewahren.
 
 
 #### Dritter Unterabschnitt - Wahlverfahren bei nur einer Vorschlagsliste
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000600328)
 
 
 
 ##### § 18 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003501126)
 
 (1) Ist für die Wahl nur eine gültige Vorschlagsliste eingereicht,
 kann der Wähler seine Stimme nur für solche Bewerber abgeben, die in
@@ -548,6 +573,7 @@ wählen sind. § 10 Abs. 1 Satz 2, Abs. 2 Satz 2 und Abs. 4 sowie die §§
 
 
 ##### § 19 Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003601126)
 
 Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die Stimmzettel
 und zählt die auf jeden Bewerber entfallenden Stimmen zusammen; § 12
@@ -555,12 +581,14 @@ Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
 
 
 ##### § 20 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003700328)
 
 Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben. Bei
 Stimmengleichheit entscheidet das Los.
 
 
 ##### § 21 Wahlniederschrift, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003800328)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
 einer Niederschrift außer den Angaben nach § 14 Abs. 1 Nr. 1 und 5 bis
@@ -572,10 +600,12 @@ gewählte Bewerber mit der nächsthöchsten Stimmenzahl.
 
 
 ### Dritter Abschnitt - Wahl nur eines Mitglieds des Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000700328)
 
 
 
 #### § 22 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE003900328)
 
 (1) Ist nur ein Mitglied des Sprecherausschusses zu wählen, erfolgt
 die Wahl auf Grund von Wahlvorschlägen; § 5 Abs. 1 Satz 2 und Abs. 2
@@ -639,10 +669,12 @@ die Angabe enthalten, daß
 
 
 ### Vierter Abschnitt - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000800328)
 
 
 
 #### § 23 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004001126)
 
 (1) Einem leitenden Angestellten, der im Zeitpunkt der Stimmabgabe
 verhindert ist, seine Stimme persönlich abzugeben, hat der
@@ -700,6 +732,7 @@ Absatz 1 bezeichneten Unterlagen auszuhändigen oder zu übersenden.
 
 
 #### § 24 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004101126)
 
 Der Wähler gibt seine Stimme in der Weise ab, daß er
 
@@ -724,6 +757,7 @@ Vertrauens verrichten lassen.
 
 
 #### § 25 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004201126)
 
 (1) Zu Beginn der öffentlichen Sitzung zur Stimmauszählung nach § 12
 öffnet der Wahlvorstand die bis zum Ende der Stimmabgabe (§ 3 Absatz 2
@@ -743,14 +777,17 @@ Wahl nicht angefochten worden ist.
 
 
 ### Fünfter Abschnitt - Abstimmung über die Wahl eines Sprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG000900328)
 
 
 
 #### Erster Unterabschnitt - Vorbereitung der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001000328)
 
 
 
 ##### § 26 Art der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004301126)
 
 (1) Ist der Wahlvorstand nach § 7 Abs. 2 des Gesetzes gewählt, hat er
 unverzüglich eine geheime Abstimmung darüber herbeizuführen, ob ein
@@ -770,10 +807,12 @@ ergänzt werden.
 
 
 #### Zweiter Unterabschnitt - Abstimmung in einer Versammlung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001100328)
 
 
 
 ##### § 27 Einladung und Abstimmungsausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004401126)
 
 (1) Hat der Wahlvorstand beschlossen, daß die Abstimmung in einer
 Versammlung erfolgen soll, hat er unverzüglich den Zeitpunkt für die
@@ -819,6 +858,7 @@ in § 30 Absatz 2 genannten Personen zu erfolgen hat.
 
 
 ##### § 28 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004501126)
 
 (1) Die Abstimmung erfolgt durch Abgabe von Abstimmungszetteln, die so
 gefaltet sind, dass die Stimmabgabe erst nach Auseinanderfalten der
@@ -836,6 +876,7 @@ Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
 
 ##### § 29 Abstimmungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004601126)
 
 Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der
 Abstimmende den Abstimmungszettel im Versammlungsraum unbeobachtet
@@ -844,6 +885,7 @@ kennzeichnen und falten kann. § 11 Absatz 1 Satz 2 bis 4 sowie Absatz
 
 
 ##### § 30 Schriftliche Stimmabgabe bei Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004701126)
 
 (1) Einem Abstimmungsberechtigten, der im Zeitpunkt der Versammlung
 verhindert ist, seine Stimme persönlich abzugeben, hat der
@@ -931,6 +973,7 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### § 31 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004801126)
 
 (1) Unverzüglich nach Abschluß der Abstimmung nimmt der Wahlvorstand
 öffentlich die Auszählung der Stimmen vor. Sofern eine schriftliche
@@ -944,6 +987,7 @@ der Abstimmungszettel zu prüfen; § 12 Abs. 3 gilt entsprechend.
 
 
 ##### § 32 Bekanntmachung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE004901126)
 
 (1) Der Wahlvorstand hat die Zahl der Abstimmungsberechtigten und die
 Zahl der für die Wahl eines Sprecherausschusses abgegebenen Stimmen in
@@ -960,10 +1004,12 @@ Wahlvorstands mit der Bekanntgabe des Abstimmungsergebnisses.
 
 
 #### Dritter Unterabschnitt - Schriftliche Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001200328)
 
 
 
 ##### § 33 Verfahren bei schriftlicher Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005001126)
 
 (1) Hat der Wahlvorstand schriftliche Stimmabgabe beschlossen, hat er
 unverzüglich den Zeitpunkt festzusetzen, bis zu dem die Freiumschläge
@@ -1004,10 +1050,12 @@ Wahlurne. § 11 Absatz 1 Satz 3 und 4 sowie Absatz 5, § 30 Absatz 5, §
 
 
 ## Zweiter Teil - Besondere Vorschriften für den Unternehmenssprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001300328)
 
 
 
 ### § 34 Wahl des Unternehmenssprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005101126)
 
 Für die Wahl des Unternehmenssprecherausschusses sind die §§ 1 bis 25
 mit der Maßgabe anzuwenden, daß
@@ -1048,6 +1096,7 @@ mit der Maßgabe anzuwenden, daß
 
 
 ### § 35 Voraussetzungen für die Wahl des Unternehmenswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005200328)
 
 (1) Die Einladung zu einer Versammlung zur Wahl eines
 Unternehmenswahlvorstands ist in gleicher Weise wie das
@@ -1086,6 +1135,7 @@ Unternehmenswahlvorstand gewählt worden ist, § 32 Abs. 2 Satz 1 und §
 
 
 ### § 36 Abstimmung über die Wahl eines Unternehmenssprecherausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005300328)
 
 Ist der Wahlvorstand für die Wahl eines
 Unternehmenssprecherausschusses gewählt (§ 20 Abs. 1 Satz 2, § 7 Abs.
@@ -1096,6 +1146,7 @@ bis 3 gelten entsprechend.
 
 
 ### § 37 Wechsel von Sprecherausschüssen zum Unternehmenssprecherausschuß
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005400328)
 
 Bestehen in einem Unternehmen Sprecherausschüsse und stellen ein
 Zwanzigstel der leitenden Angestellten, jedoch mindestens drei
@@ -1114,6 +1165,7 @@ entsprechend.
 
 
 ### § 38 Wechsel vom Unternehmenssprecherausschuß zu Sprecherausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005500328)
 
 Besteht ein Unternehmenssprecherausschuß und stellen ein Zwanzigstel
 der leitenden Angestellten, jedoch mindestens drei leitende
@@ -1129,10 +1181,12 @@ gelten entsprechend.
 
 
 ## Dritter Teil - Besondere Vorschriften für die Seeschiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001400328)
 
 
 
 ### § 39 Teilnahme der Kapitäne an der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005600328)
 
 Werden in Landbetrieben von Seeschiffahrtsunternehmen
 Sprecherausschüsse gewählt, finden die §§ 1 bis 38 mit folgender
@@ -1202,10 +1256,12 @@ Maßgabe Anwendung:
 
 
 ## Vierter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNG001500328)
 
 
 
 ### § 40 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005701126)
 
 (1) Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
@@ -1219,15 +1275,18 @@ dem Ende der Arbeitszeit der Mehrheit der Wähler an diesem Tag liegen.
 
 
 ### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005801126)
 
 
 
 ### § 42 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE005900328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wospraug/BJNR017980989.html#BJNR017980989BJNE006000328)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

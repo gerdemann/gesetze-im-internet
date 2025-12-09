@@ -27,12 +27,15 @@ Aufhebung der Richtlinie 2004/17/EG (ABl. L 94 vom 28.3.2014, S. 243).
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen und Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000200000)
 
 (1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende
 Verfahren bei der dem Teil 4 des Gesetzes gegen
@@ -50,6 +53,7 @@ die Vergabe von Konzessionen.
 
 
 #### § 2 Schätzung des Auftragswerts
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000302125)
 
 (1) Bei der Schätzung des Auftragswerts ist vom voraussichtlichen
 Gesamtwert der vorgesehenen Leistung ohne Umsatzsteuer auszugehen.
@@ -158,6 +162,7 @@ ausschließt.
 
 
 #### § 3 Antragsverfahren für Tätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000400000)
 
 (1) Auftraggeber können bei der Europäischen Kommission beantragen
 festzustellen, dass die Vorschriften des Teils 4 des Gesetzes gegen
@@ -219,6 +224,7 @@ Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
 
 
 #### § 4 Gelegentliche gemeinsame Auftragsvergabe
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000500000)
 
 (1) Mehrere Auftraggeber können vereinbaren, bestimmte Aufträge
 gemeinsam zu vergeben. Dies gilt auch für die Auftragsvergabe
@@ -241,6 +247,7 @@ an.
 
 
 #### § 5 Wahrung der Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000600000)
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts
 anderes bestimmt ist, darf der Auftraggeber keine von den Unternehmen
@@ -268,6 +275,7 @@ Verschwiegenheitserklärung.
 
 
 #### § 6 Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000700000)
 
 (1) Organmitglieder oder Mitarbeiter des öffentlichen Auftraggebers
 oder eines im Namen des öffentlichen Auftraggebers handelnden
@@ -317,6 +325,7 @@ und Pflegekinder.
 
 
 #### § 7 Mitwirkung an der Vorbereitung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000800000)
 
 (1) Hat ein Unternehmen oder ein mit ihm in Verbindung stehendes
 Unternehmen den Auftraggeber beraten oder war auf andere Art und Weise
@@ -341,6 +350,7 @@ kann.
 
 
 #### § 8 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE000900000)
 
 (1) Der Auftraggeber ist verpflichtet, den Fortgang des
 Vergabeverfahrens jeweils zeitnah zu dokumentieren. Hierzu stellt er
@@ -390,9 +400,11 @@ deren Anforderung hin zu übermitteln.
 
 
 ### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000301125)
 
 
 #### § 9 Grundsätze der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001001125)
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in
 einem Vergabeverfahren verwenden Auftraggeber und Unternehmen
@@ -416,6 +428,7 @@ verlangen; eine freiwillige Registrierung ist zulässig.
 
 
 #### § 10 Anforderungen an die verwendeten elektronischen Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001100000)
 
 (1) Der Auftraggeber legt das erforderliche Sicherheitsniveau für die
 elektronischen Mittel fest. Elektronische Mittel, die vom Auftraggeber
@@ -464,6 +477,7 @@ verwenden.
 
 
 #### § 10a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE007000125)
 
 Für die Erstellung und Übermittlung von Auftragsbekanntmachungen,
 Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen über
@@ -476,6 +490,7 @@ den Datenservice Öffentlicher Einkauf entsprechend.
 
 
 #### § 11 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001202124)
 
 (1) Elektronische Mittel und deren technische Merkmale müssen
 allgemein verfügbar, nichtdiskriminierend und mit allgemein
@@ -510,6 +525,7 @@ Informationen zur Verfügung stellen über
 
 
 #### § 12 Einsatz alternativer elektronischer Mittel bei der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001300000)
 
 (1) Der Auftraggeber kann im Vergabeverfahren die Verwendung
 elektronischer Mittel, die nicht allgemein verfügbar sind (alternative
@@ -535,12 +551,15 @@ Zugang zu ihnen gemäß Absatz 1 an.
 
 
 ## Abschnitt 2 - Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000400000)
 
 
 ### Unterabschnitt 1 - Verfahrensarten, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000500000)
 
 
 #### § 13 Wahl der Verfahrensart
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001402360)
 
 (1) Dem Auftraggeber stehen zur Vergabe von Aufträgen das offene
 Verfahren, das nicht offene Verfahren und das Verhandlungsverfahren
@@ -662,6 +681,7 @@ Auftragsvergabeparameter ist.
 
 
 #### § 14 Offenes Verfahren; Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001500000)
 
 (1) In einem offenen Verfahren kann jedes interessierte Unternehmen
 ein Angebot abgeben.
@@ -682,6 +702,7 @@ akzeptiert.
 
 
 #### § 15 Nicht offenes Verfahren und Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb; Fristen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001600000)
 
 (1) In einem nicht offenen Verfahren sowie einem Verhandlungsverfahren
 mit vorherigem Teilnahmewettbewerb kann jedes interessierte
@@ -708,6 +729,7 @@ Interessensbestätigung vorbehalten hat.
 
 
 #### § 16 Fristsetzung; Pflicht zur Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001700000)
 
 (1) Bei der Festlegung der Fristen für den Eingang der Angebote und
 der Teilnahmeanträge berücksichtigt der Auftraggeber die Komplexität
@@ -743,6 +765,7 @@ des Angebots unerheblich ist.
 
 
 #### § 17 Wettbewerblicher Dialog
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001800000)
 
 (1) In der Auftragsbekanntmachung oder den Vergabeunterlagen zur
 Durchführung eines wettbewerblichen Dialogs beschreibt der
@@ -828,6 +851,7 @@ Dialog vorsehen.
 
 
 #### § 18 Innovationspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE001900000)
 
 (1) Der Auftraggeber kann für die Vergabe eines Auftrags eine
 Innovationspartnerschaft mit dem Ziel der Entwicklung einer
@@ -941,9 +965,11 @@ Kostenobergrenze eingehalten werden.
 
 
 ### Unterabschnitt 2 - Besondere Methoden und Instrumente im Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000600000)
 
 
 #### § 19 Rahmenvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002000000)
 
 (1) Der Abschluss einer Rahmenvereinbarung erfolgt im Wege einer nach
 dieser Verordnung geltenden Verfahrensart. Das in Aussicht genommene
@@ -968,6 +994,7 @@ Rahmenvereinbarung maximal acht Jahre.
 
 
 #### § 20 Grundsätze für den Betrieb dynamischer Beschaffungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002100000)
 
 (1) Der Auftraggeber kann für die Beschaffung marktüblicher Leistungen
 ein dynamisches Beschaffungssystem nutzen.
@@ -990,6 +1017,7 @@ Unternehmen kostenlos.
 
 
 #### § 21 Betrieb eines dynamischen Beschaffungssystems
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002201125)
 
 (1) Der Auftraggeber gibt in der Auftragsbekanntmachung an, dass er
 ein dynamisches Beschaffungssystem nutzt und für welchen Zeitraum es
@@ -1032,6 +1060,7 @@ zugelassenen Bewerber aufgefordert, ein Angebot zu unterbreiten.
 
 
 #### § 22 Fristen beim Betrieb eines dynamischen Beschaffungssystems
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002300000)
 
 (1) Abweichend von § 15 gelten bei der Nutzung eines dynamischen
 Beschaffungssystems die Bestimmungen der Absätze 2 bis 5.
@@ -1066,6 +1095,7 @@ Angebotsabgabe. § 15 Absatz 3 findet Anwendung.
 
 
 #### § 23 Grundsätze für die Durchführung elektronischer Auktionen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002400000)
 
 (1) Der Auftraggeber kann im Rahmen eines offenen, eines nicht offenen
 oder eines Verhandlungsverfahrens vor der Zuschlagserteilung eine
@@ -1113,6 +1143,7 @@ oder prozentual beschrieben werden.
 
 
 #### § 24 Durchführung elektronischer Auktionen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002500000)
 
 (1) Der Auftraggeber kündigt in der Auftragsbekanntmachung oder in der
 Aufforderung zur Interessensbestätigung an, dass er eine elektronische
@@ -1198,6 +1229,7 @@ entsprechend ihrem Ergebnis mitgeteilt.
 
 
 #### § 25 Elektronische Kataloge
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002601360)
 
 (1) Der Auftraggeber kann festlegen, dass Angebote in Form eines
 elektronischen Kataloges einzureichen sind oder einen elektronischen
@@ -1241,9 +1273,11 @@ Fehler enthält, hat.
 
 
 ### Unterabschnitt 3 - Vorbereitung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000700000)
 
 
 #### § 26 Markterkundung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002700000)
 
 (1) Vor der Einleitung eines Vergabeverfahrens darf der Auftraggeber
 eine Markterkundung zur Vorbereitung der Auftragsvergabe und zur
@@ -1255,6 +1289,7 @@ und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
 
 #### § 27 Aufteilung nach Losen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002800000)
 
 (1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen
 Wettbewerbsbeschränkungen kann der Auftraggeber festlegen, ob die
@@ -1282,6 +1317,7 @@ die kombiniert werden können.
 
 
 #### § 28 Leistungsbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE002900000)
 
 (1) Der Auftraggeber fasst die Leistungsbeschreibung (§ 121 des
 Gesetzes gegen Wettbewerbsbeschränkungen) in einer Weise, dass sie
@@ -1379,6 +1415,7 @@ gleichwertig“ zu versehen.
 
 
 #### § 29 Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003000000)
 
 (1) Verweist der Auftraggeber in der Leistungsbeschreibung auf
 technische Anforderungen nach § 28 Absatz 2 Satz 1 Nummer 2, so darf
@@ -1420,6 +1457,7 @@ Prüfbericht einer anerkannten Stelle sein.
 
 
 #### § 30 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003100000)
 
 (1) Der Auftraggeber stellt den interessierten Unternehmen auf deren
 Anfrage die technischen Anforderungen zur Verfügung, auf die er sich
@@ -1439,6 +1477,7 @@ Absatz 4 stellt.
 
 
 #### § 31 Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003200000)
 
 (1) Als Beleg dafür, dass eine Leistung bestimmten, in der
 Leistungsbeschreibung geforderten Merkmalen entspricht, kann der
@@ -1469,6 +1508,7 @@ Konformitätsbewertungstätigkeiten durchführt.
 
 
 #### § 32 Nachweisführung durch Gütezeichen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003300000)
 
 (1) Als Beleg dafür, dass eine Leistung bestimmten, in der
 Leistungsbeschreibung geforderten Merkmalen entspricht, kann der
@@ -1519,6 +1559,7 @@ Anforderungen erfüllt.
 
 
 #### § 33 Nebenangebote
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003400000)
 
 (1) Der Auftraggeber kann Nebenangebote zulassen oder vorschreiben.
 Dabei legt er Mindestanforderungen, denen die Nebenangebote genügen
@@ -1548,6 +1589,7 @@ einem Dienstleistungsauftrag führen würde.
 
 
 #### § 34 Unteraufträge
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003500000)
 
 (1) Der Auftraggeber kann Unternehmen in der Auftragsbekanntmachung
 oder den Vergabeunterlagen auffordern, bei Angebotsabgabe die Teile
@@ -1592,9 +1634,11 @@ Frist setzen.
 
 
 ### Unterabschnitt 4 - Veröffentlichung, Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000800000)
 
 
 #### § 35 Auftragsbekanntmachungen; Beschafferprofil; Ex-ante-Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003601125)
 
 (1) Der Auftraggeber teilt seine Absicht, einen Auftrag zu vergeben
 oder eine Rahmenvereinbarung abzuschließen, in einer
@@ -1625,6 +1669,7 @@ Verbindung mit § 10a.
 
 
 #### § 36 Regelmäßige nicht verbindliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003701125)
 
 (1) Der Auftraggeber kann die Absicht einer geplanten Auftragsvergabe
 mittels Veröffentlichung einer regelmäßigen nicht verbindlichen
@@ -1711,6 +1756,7 @@ das Amt für Veröffentlichungen der Europäischen Union.
 
 
 #### § 37 Bekanntmachung über das Bestehen eines Qualifizierungssystems
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003801125)
 
 (1) Der Auftraggeber kann die Absicht einer Auftragsvergabe mittels
 der Bekanntmachung über das Bestehen eines Qualifizierungssystems
@@ -1729,6 +1775,7 @@ Durchführungsverordnung (EU) 2019/1780 in Verbindung mit § 10a.
 
 
 #### § 38 Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE003901125)
 
 (1) Der Auftraggeber übermittelt spätestens 30 Tage nach
 Zuschlagserteilung oder nach dem Abschluss einer Rahmenvereinbarung
@@ -1797,6 +1844,7 @@ zur Art und Menge der Dienstleistung auf Folgendes beschränkt werden:
 
 
 #### § 39 Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004001125)
 
 (1) Der Auftraggeber teilt seine Absicht, einen Auftrag zur Erbringung
 sozialer oder anderer besonderer Dienstleistungen im Sinne von § 130
@@ -1840,6 +1888,7 @@ Zusammenstellung spätestens 30 Tage nach Quartalsende.
 
 
 #### § 40 Veröffentlichung von Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004101125)
 
 (1) Der Auftraggeber muss den Tag der Absendung der Bekanntmachungen
 an das Amt für Veröffentlichungen der Europäischen Union nachweisen
@@ -1870,6 +1919,7 @@ unterliegen, an das Amt für Veröffentlichungen der Europäischen Union
 
 
 #### § 41 Bereitstellung der Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004200000)
 
 (1) Der Auftraggeber gibt in der Auftragsbekanntmachung oder der
 Aufforderung zur Interessensbestätigung eine elektronische Adresse an,
@@ -1922,6 +1972,7 @@ Absatz 3 im gegenseitigen Einvernehmen festgelegt.
 
 
 #### § 42 Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004300000)
 
 (1) Ist ein Teilnahmewettbewerb durchgeführt worden, wählt der
 Auftraggeber Bewerber aus, die er auffordert, in einem nicht offenen
@@ -2012,6 +2063,7 @@ umfasst zumindest folgende Angaben:
 
 
 #### § 43 Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004400000)
 
 (1) Die Unternehmen übermitteln ihre Angebote, Teilnahmeanträge,
 Interessensbekundungen und Interessensbestätigungen in Textform nach §
@@ -2034,6 +2086,7 @@ können.
 
 
 #### § 44 Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004501118)
 
 (1) Der Auftraggeber prüft im Einzelfall, ob zu übermittelnde Daten
 erhöhte Anforderungen an die Sicherheit stellen. Soweit es
@@ -2066,9 +2119,11 @@ elektronischer Mittel für erforderlich hält.
 
 
 ### Unterabschnitt 5 - Anforderungen an die Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG000900000)
 
 
 #### § 45 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004600000)
 
 (1) Bei der Auswahl der Teilnehmer an Vergabeverfahren beachtet der
 Auftraggeber die in den Absätzen 2 und 3 genannten Grundsätze.
@@ -2094,6 +2149,7 @@ gewährleistet sein muss.
 
 
 #### § 46 Objektive und nichtdiskriminierende Kriterien
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004701125)
 
 (1) Der Auftraggeber wählt die Unternehmen anhand objektiver Kriterien
 aus, die allen interessierten Unternehmen zugänglich sein müssen.
@@ -2120,6 +2176,7 @@ Vergabeunterlagen oder im Vergabevermerk hinreichend zu begründen.
 
 
 #### § 47 Eignungsleihe
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004800000)
 
 (1) Ein Bewerber oder Bieter kann für einen bestimmten Auftrag im
 Hinblick auf die erforderliche wirtschaftliche und finanzielle sowie
@@ -2174,6 +2231,7 @@ ausgeführt werden müssen.
 
 
 #### § 48 Qualifizierungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE004900000)
 
 (1) Der Auftraggeber kann zur Eignungsfeststellung ein
 Qualifizierungssystem für Unternehmen einrichten und betreiben.
@@ -2248,6 +2306,7 @@ mitzuteilen.
 
 
 #### § 49 Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005000000)
 
 (1) Verlangt der Auftraggeber als Beleg dafür, dass Bewerber oder
 Bieter bestimmte Normen der Qualitätssicherung erfüllen, die Vorlage
@@ -2308,6 +2367,7 @@ Normen für das Umweltmanagement erforderlich sind, gleichwertig sind.
 
 
 #### § 50 Rechtsform von Unternehmen und Bietergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005100000)
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des
 Staates, in dem sie niedergelassen sind, zur Erbringung der
@@ -2338,9 +2398,11 @@ des Auftrags erforderlich ist.
 
 
 ### Unterabschnitt 6 - Prüfung und Wertung der Angebote
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG001000000)
 
 
 #### § 51 Prüfung und Wertung der Angebote; Nachforderung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005200000)
 
 (1) Die Angebote werden geprüft und gewertet, bevor der Zuschlag
 erteilt wird.
@@ -2372,6 +2434,7 @@ dokumentieren.
 
 
 #### § 52 Zuschlag und Zuschlagskriterien
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005300000)
 
 (1) Der Zuschlag wird nach Maßgabe des § 127 des Gesetzes gegen
 Wettbewerbsbeschränkungen auf das wirtschaftlichste Angebot erteilt.
@@ -2424,6 +2487,7 @@ entsprechend.
 
 
 #### § 53 Berechnung von Lebenszykluskosten
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005400000)
 
 (1) Der Auftraggeber kann vorgeben, dass das Zuschlagskriterium
 „Kosten“ auf der Grundlage der Lebenszykluskosten der Leistung
@@ -2490,6 +2554,7 @@ worden ist, hat der Auftraggeber diese Methode vorzugeben.
 
 
 #### § 54 Ungewöhnlich niedrige Angebote
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005500000)
 
 (1) Erscheinen der Preis oder die Kosten eines Angebots im Verhältnis
 zu der zu erbringenden Leistung ungewöhnlich niedrig, verlangt der
@@ -2538,6 +2603,7 @@ Kommission mit.
 
 
 #### § 55 Angebote, die Erzeugnisse aus Drittländern umfassen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005600000)
 
 (1) Der Auftraggeber eines Lieferauftrags kann Angebote zurückweisen,
 bei denen der Warenanteil zu mehr als 50 Prozent des Gesamtwertes aus
@@ -2563,6 +2629,7 @@ verwendet wird, gilt als Ware im Sinne des Absatzes 1.
 
 
 #### § 56 Unterrichtung der Bewerber oder Bieter
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005700000)
 
 (1) Unbeschadet des § 134 des Gesetzes gegen Wettbewerbsbeschränkungen
 teilt der Auftraggeber jedem Bewerber und jedem Bieter unverzüglich
@@ -2599,6 +2666,7 @@ des Antrags in Textform
 
 
 #### § 57 Aufhebung und Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005800000)
 
 Ein Vergabeverfahren kann ganz oder bei Losvergabe für einzelne Lose
 aufgehoben werden oder im Fall eines Verhandlungsverfahrens
@@ -2610,9 +2678,11 @@ mitzuteilen.
 
 
 ## Abschnitt 3 - Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG001101125)
 
 
 ### § 58 Beschaffung energieverbrauchsrelevanter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE005900000)
 
 (1) Mit der Leistungsbeschreibung sind im Rahmen der technischen
 Spezifikationen von den Bietern Angaben zum Energieverbrauch von
@@ -2631,13 +2701,16 @@ Bauleistung ist.
 
 
 ### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006001125)
 
 
 
 ## Abschnitt 4 - Planungswettbewerbe
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG001200000)
 
 
 ### § 60 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006100000)
 
 (1) Wettbewerbe nach § 103 Absatz 6 des Gesetzes gegen
 Wettbewerbsbeschränkungen werden insbesondere auf den Gebieten der
@@ -2650,6 +2723,7 @@ an.
 
 
 ### § 61 Veröffentlichung, Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006201125)
 
 (1) Der Auftraggeber teilt seine Absicht, einen Planungswettbewerb
 auszurichten, in einer Wettbewerbsbekanntmachung mit. Die
@@ -2675,6 +2749,7 @@ in Verbindung mit § 10a erstellt.
 
 
 ### § 62 Ausrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006300000)
 
 (1) Die an einem Planungswettbewerb Interessierten sind vor
 Wettbewerbsbeginn über die geltenden Durchführungsregeln zu
@@ -2699,6 +2774,7 @@ werden, muss ausreichen, um einen echten Wettbewerb zu gewährleisten.
 
 
 ### § 63 Preisgericht
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006400000)
 
 (1) Das Preisgericht darf nur aus Preisrichtern bestehen, die von den
 Teilnehmern des Planungswettbewerbs unabhängig sind. Wird von den
@@ -2724,9 +2800,11 @@ zwischen Preisrichtern und Teilnehmern ist zu dokumentieren.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNG001300000)
 
 
 ### § 64 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006500000)
 
 Zentrale Beschaffungsstellen im Sinne von § 120 Absatz 4 Satz 1 des
 Gesetzes gegen Wettbewerbsbeschränkungen können bis zum 18. April
@@ -2740,6 +2818,7 @@ Vergabeunterlagen betrifft.
 
 
 ### § 65 Fristenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006600000)
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
@@ -2748,6 +2827,7 @@ Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 
 
 ### § 66 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE007100125)
 
 Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung
 ergebenden Tages sind
@@ -2764,6 +2844,7 @@ ergebenden Tages sind
 (zu § 28 Absatz 2)
 
 ### Anlage 1 Technische Anforderungen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html#BJNR065700016BJNE006700000)
 
 (Fundstelle: BGBl. I 2016, 680)
 

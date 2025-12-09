@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000202116)
 
 Der Apotheker ist berufen, die Bevölkerung ordnungsgemäß mit
 Arzneimitteln, die zur Anwendung beim Menschen bestimmt sind, und
@@ -31,6 +32,7 @@ Gesundheit des einzelnen Menschen und des gesamten Volkes.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000305116)
 
 (1) Wer im Geltungsbereich dieses Gesetzes den Apothekerberuf ausüben
 will, bedarf der Approbation als Apotheker.
@@ -108,6 +110,7 @@ oder „Apothekerin“. Pharmazeutische Tätigkeiten umfassen insbesondere:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000403301)
 
 Die Berufsbezeichnung "Apotheker" oder "Apothekerin" darf nur führen,
 wer als Apotheker approbiert oder nach § 2 Abs. 2 oder Abs. 2a zur
@@ -115,6 +118,7 @@ Ausübung des Apothekerberufs befugt ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000514116)
 
 (1) Die Approbation als Apotheker ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -472,6 +476,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE002300116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -574,6 +579,7 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000612116)
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates in einer Approbationsordnung für
@@ -614,6 +620,7 @@ Fristenregelungen vorsehen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000704310)
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung
 
@@ -644,6 +651,7 @@ Voraussetzungen nach § 4 Abs. 1 Satz 1 Nr. 2 weggefallen ist.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000802310)
 
 (1) (weggefallen)
 
@@ -656,6 +664,7 @@ bezogenen Voraussetzungen nicht vorgelegen hat.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE000902301)
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -691,11 +700,13 @@ nicht ausüben.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001002307)
 
 (weggefallen)
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001101307)
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
@@ -703,6 +714,7 @@ Bedingung erklärt wird, ist unwirksam.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001209116)
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs
 nach § 2 Absatz 2 kann auf Antrag Personen erteilt werden, die eine
@@ -749,6 +761,7 @@ Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
 
 
 ## § 11a
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE002202116)
 
 (1) Staatsangehörige eines Mitgliedstaats der Europäischen Union oder
 eines anderen Vertragsstaates des Abkommens über den Europäischen
@@ -886,6 +899,7 @@ Bescheinigungen darüber auszustellen, dass
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001310116)
 
 (1) Die Approbation erteilt in den Fällen des § 4 Abs. 1 Satz 1 die
 zuständige Behörde des Landes, in dem der Antragsteller die
@@ -943,6 +957,7 @@ Monaten zu erfolgen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001401307)
 
 Wer den Apothekerberuf ausübt, solange durch vollziehbare Verfügung
 das Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis
@@ -950,6 +965,7 @@ zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001502307)
 
 (1) Eine Approbation oder Bestallung, die bei Inkrafttreten dieses
 Gesetzes in seinem Geltungsbereich zur Ausübung des Apothekerberufs
@@ -986,21 +1002,25 @@ S. 457) gilt mit ihrem bisherigen Inhalt als Erlaubnis im Sinne des §
 
 
 ## (XXXX) §§ 15 und 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001601307)
 
 (Änderung anderer Vorschriften)
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001802301)
 
 (weggefallen)
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE001901307)
 
 (Inkrafttreten)
 
 
 ## Anlage (zu § 4 Abs. 1a Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/bapo/BJNR006010968.html#BJNR006010968BJNE002106360)
 
 (Fundstelle: BGBl. I 2007, 2945 - 2947; bzgl. einzelner Änderungen
 vgl. Fußnote)

@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Amtliche Anerkennung als Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000200314)
 
 (1) Wer die Aufgaben eines amtlich anerkannten Sachverständigen für
 den Kraftfahrzeugverkehr (Sachverständiger) oder eines amtlich
@@ -57,6 +59,7 @@ Untersuchungen im Rahmen der amtlich vorgeschriebenen technischen
 
 
 ## § 2 Voraussetzung für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000303308)
 
 (1) Die Anerkennung wird erteilt, wenn der Bewerber
 
@@ -134,6 +137,7 @@ anzuwenden.
 
 
 ## § 3 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000401307)
 
 (1) In dem Antrag auf Anerkennung hat der Bewerber anzugeben, ob er
 als Sachverständiger, als Sachverständiger mit Teilbefugnissen, als
@@ -179,6 +183,7 @@ der der Bewerber beschäftigt ist oder war.
 
 
 ## § 4 Prüfung für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000504305)
 
 (1) Zur Prüfung wird der Bewerber nur zugelassen, wenn er die
 Voraussetzungen des § 2 Abs. 1 Nr. 1 bis 6 und des § 2 Abs. 2 erfüllt.
@@ -230,6 +235,7 @@ erlassen
 
 
 ## § 5 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000600314)
 
 Die Anerkennung als Sachverständiger oder Prüfer wird durch
 Aushändigung oder Zustellung eines Ausweises erteilt. Der Ausweis ist
@@ -239,6 +245,7 @@ widerrufen ist.
 
 
 ## § 6 Tätigkeit der Sachverständigen und Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000702313)
 
 (1) Der Sachverständige und der Prüfer dürfen ihre Tätigkeit nur für
 die Technische Prüfstelle für den Kraftfahrzeugverkehr ausüben, der
@@ -274,6 +281,7 @@ einer Fahrschulerlaubnis sein.
 
 
 ## § 7 Ruhen und Erlöschen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000803126)
 
 (1) Die Anerkennung ruht,
 
@@ -321,6 +329,7 @@ Prüfer auf die Anerkennung verzichtet.
 
 
 ## § 8 Rücknahme und Widerruf der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE000902126)
 
 (1) Die Anerkennung als Sachverständiger oder als Prüfer ist
 zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen des
@@ -339,6 +348,7 @@ anerkannten Begutachtungsstelle für Fahreignung verlangen.
 
 
 ## § 9 Erteilung einer neuen Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001001307)
 
 Wird nach Erlöschen (§ 7 Abs. 2 und 3), Rücknahme oder Widerruf (§ 8)
 innerhalb von zwei Jahren eine neue Anerkennung beantragt, so entfällt
@@ -350,6 +360,7 @@ berücksichtigen.
 
 
 ## § 10 Technische Prüfstelle für den Kraftfahrzeugverkehr
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001100314)
 
 (1) Eine Technische Prüfstelle für den Kraftfahrzeugverkehr wird von
 der Stelle unterhalten, die die Landesregierung oder die von ihr
@@ -385,6 +396,7 @@ die Technische Prüfstelle ihre Pflichten ordnungsgemäß wahrnimmt.
 
 
 ## § 11 Einrichtung und Aufgaben der Technischen Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001206123)
 
 (1) Für die Technische Prüfstelle sind Sachverständige und Prüfer
 sowie Hilfskräfte in der erforderlichen Zahl anzustellen und die
@@ -432,6 +444,7 @@ geben.
 
 
 ## § 12 Organisation der Technischen Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001300314)
 
 (1) Der Leiter der Technischen Prüfstelle und sein Stellvertreter
 sowie der Leiter einer der Technischen Prüfstelle unmittelbar
@@ -446,6 +459,7 @@ Aufsichtsbehörde bedarf.
 
 
 ## § 13 Aufsicht über die Technische Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001401307)
 
 (1) Die zuständige Landesbehörde übt die Aufsicht über die Technische
 Prüfstelle aus. Sie erläßt eine Geschäftsanweisung. Der Leiter der
@@ -475,6 +489,7 @@ Bedeutung sein können.
 
 
 ## § 14 Staatliche Technische Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001500314)
 
 Für die Länder, die staatliche Technische Prüfstellen eingerichtet
 haben oder künftig einrichten werden, gelten § 10 Abs. 1, Abs. 2 -
@@ -483,6 +498,7 @@ und 13 sinngemäß.
 
 
 ## § 15 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001600314)
 
 Die Landesregierungen bestimmen durch Rechtsverordnung
 
@@ -501,6 +517,7 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 
 ## § 16 Sachverständige und Prüfer bei Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001708124)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat, das
 Bundesministerium der Finanzen, das Bundesministerium der
@@ -548,6 +565,7 @@ des Bewerbers rechtfertigen.
 
 
 ## § 17 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001803124)
 
 (1) Die nach § 15 zuständigen Behörden und die nach § 16 Abs. 1
 zuständigen Dienststellen können Ausnahmen von der Voraussetzung der
@@ -572,6 +590,7 @@ aus dienstlichen Gründen geboten ist.
 
 
 ## § 18 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE001905305)
 
 (1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem
 Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften
@@ -611,6 +630,7 @@ gilt § 6a Abs. 3 Satz 2 des Straßenverkehrsgesetzes entsprechend.
 
 
 ## § 19 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002001307)
 
 Zur Durchführung dieses Gesetzes und der auf ihm beruhenden
 Rechtsverordnungen kann das Bundesministerium für Verkehr mit
@@ -619,6 +639,7 @@ erlassen.
 
 
 ## § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002101307)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -656,11 +677,13 @@ erlassen.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002200314)
 
 -
 
 
 ## § 22 Örtliche Kraftfahrsachverständigenregister
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002602126)
 
 (1) Die nach Landesrecht für die
 
@@ -766,6 +789,7 @@ werden:
 
 
 ## § 23 Registrierung im Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002404126)
 
 (1) Im Zentralen Fahrerlaubnisregister (§ 48 des
 Straßenverkehrsgesetzes) wird vermerkt, ob die dort erfaßten Inhaber
@@ -808,6 +832,7 @@ Straßenverkehrsgesetzes.
 
 
 ## § 24 Zweck der Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002700307)
 
 Die Registrierung wird vorgenommen:
 
@@ -826,6 +851,7 @@ Die Registrierung wird vorgenommen:
 
 
 ## § 25 Erhebung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002800307)
 
 Die in den Registern nach den §§ 22 und 23 zu erfassenden Personen
 haben die für die Speicherung nach diesen Vorschriften erforderlichen
@@ -840,6 +866,7 @@ unverzüglich mitzuteilen und nachzuweisen.
 
 
 ## § 26 Übermittlung der Daten zur Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002902126)
 
 (1) Die Technischen Prüfstellen und die Überwachungsorganisationen
 haben die nach § 25 erhobenen Daten den zuständigen Behörden zur
@@ -869,6 +896,7 @@ Behörden, die der Betrauung zugestimmt haben.
 
 
 ## § 27 Übermittlung der Daten aus den Registern
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE003001126)
 
 (1) Die in den Registern gespeicherten Daten dürfen den Stellen,
 
@@ -896,6 +924,7 @@ Straßenverkehrsgesetzes.
 
 
 ## § 28 Abgleich mit dem Fahreignungsregister
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE003102126)
 
 (1) Das Kraftfahrt-Bundesamt prüft, ob die im Fahreignungsregister
 enthaltenen Eintragungen Sachverständige, Prüfer oder Prüfingenieure
@@ -912,6 +941,7 @@ der Behörde oder des Gerichts übermittelt.
 
 
 ## § 29 Datenvergleich zur Beseitigung von Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE003201305)
 
 (1) Die nach § 22 gespeicherten Daten dürfen von der örtlichen
 Registerbehörde an das Kraftfahrt-Bundesamt zum Fahreignungsregister
@@ -932,6 +962,7 @@ oder unvollständig sind.
 
 
 ## § 30 Löschung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE003301126)
 
 Die nach den §§ 22 und 23 gespeicherten Daten sind
 
@@ -967,6 +998,7 @@ entsprechend.
 
 
 ## § 31 Register über die Sachverständigen der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE003402124)
 
 (1) Die durch das Bundesministerium der Verteidigung bestimmte
 Dienststelle führt ein Register über die von der Bundeswehr
@@ -984,6 +1016,7 @@ sinngemäß Anwendung.
 
 
 ## § 32 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002302313)
 
 (1) Ein bei Inkrafttreten dieses Gesetzes amtlich anerkannter
 Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr bedarf für
@@ -1019,6 +1052,7 @@ Qualitätssicherung nach diesem Gesetz.
 
 
 ## § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE002501307)
 
 (1) Dieses Gesetz tritt am 1. Januar 1972 in Kraft.
 
@@ -1028,6 +1062,7 @@ Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
 (BGBl. II 1990, 889, 1103)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/kfsachvg/BJNR020860971.html#BJNR020860971BJNE888800305)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

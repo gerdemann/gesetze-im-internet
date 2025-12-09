@@ -20,17 +20,20 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkleing_ndg/BJNR076600994.html#BJNR076600994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bkleing_ndg/BJNR076600994.html#BJNR076600994BJNE000200307)
 
 -
 
 
 ## Art 3 Überleitungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bkleing_ndg/BJNR076600994.html#BJNR076600994BJNE000303320)
 
 Für private Verpächter von Kleingärten findet Artikel 1 Nr. 4
 Buchstabe a
@@ -53,6 +56,7 @@ erhöhte Pacht tritt.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkleing_ndg/BJNR076600994.html#BJNR076600994BJNE000400307)
 
 Dieses Gesetz tritt am 1. Mai 1994 in Kraft.
 

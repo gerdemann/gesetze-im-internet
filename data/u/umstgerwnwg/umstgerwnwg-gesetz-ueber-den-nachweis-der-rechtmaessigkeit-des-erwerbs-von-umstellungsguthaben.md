@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000100314)
 
 Zur Entscheidung über die Realisierung der Umstellung von Guthaben
 kann die Prüfung des rechtmäßigen Erwerbs im nachfolgend geregelten
@@ -27,6 +28,7 @@ Sonderausschuß gebildet.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000200314)
 
 Natürliche Personen und juristische Personen mit Wohnsitz oder Sitz
 der Niederlassung in der DDR oder außerhalb der DDR haben auf
@@ -35,6 +37,7 @@ angemeldeten Guthabens (nachfolgend Gesamtguthaben) nachzuweisen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000300314)
 
 (1) Das Verlangen gemäß § 2 kann durch den zeitweiligen Sonderausschuß
 gestellt werden, wenn Zweifel an dem rechtmäßigen Erwerb des
@@ -51,6 +54,7 @@ Verfügung über diesen Betrag auszuschließen ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000400314)
 
 (1) Der Kontoinhaber ist verpflichtet, innerhalb einer Frist von 10
 Tagen nach Zugang des Verlangens die Rechtmäßigkeit des Erwerbs des
@@ -61,6 +65,7 @@ einzureichen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000500314)
 
 (1) Durch den zeitweiligen Sonderausschuß ist anhand der eingereichten
 Unterlagen zu prüfen, ob der Erwerb des Gesamtguthabens rechtmäßig
@@ -105,6 +110,7 @@ des kontoführenden Kreditinstituts mitzuteilen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000600314)
 
 (1) Gegen die Entscheidung des zeitweiligen Sonderausschusses hat der
 Betroffene das Recht der Beschwerde. Sie ist innerhalb von 2 Wochen
@@ -121,11 +127,13 @@ entscheidet innerhalb von 4 Wochen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000700314)
 
 Dieses Gesetz tritt am 29. Juni 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE000800314)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
@@ -133,6 +141,7 @@ Republik**
 Auszug aus EinigVtrVbg Art 3
 
 ## Anhang EV (BGBl. II 1990, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/umstgerwnwg/DDNR005030990.html#DDNR005030990BJNE888800301)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

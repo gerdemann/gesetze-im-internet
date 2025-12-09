@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/xbasisdatenv/BJNR060100022.html#BJNR060100022BJNE000100000)
 
 Auf Grund des § 12 Absatz 3 Nummer 3 des
 Identifikationsnummerngesetzes vom 28. März 2021 (BGBl. I S. 591) in
@@ -28,6 +29,7 @@ Finanzen und im Benehmen mit dem IT-Planungsrat:
 
 
 ## § 1 Standard der Datenübermittlungen nach § 7 Absatz 1 Satz 1 und § 10 Absatz 4 des Identifikationsnummerngesetzes
+[Direktlink](https://www.gesetze-im-internet.de/xbasisdatenv/BJNR060100022.html#BJNR060100022BJNE000200000)
 
 (1) XBasisdaten ist der Standard einer technischen Beschreibung des
 Datensatzes für Datenübermittlungen nach § 7 Absatz 1 Satz 1 und § 10
@@ -63,6 +65,7 @@ Barbarastraße 1, 50735 Köln bezogen werden.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/xbasisdatenv/BJNR060100022.html#BJNR060100022BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

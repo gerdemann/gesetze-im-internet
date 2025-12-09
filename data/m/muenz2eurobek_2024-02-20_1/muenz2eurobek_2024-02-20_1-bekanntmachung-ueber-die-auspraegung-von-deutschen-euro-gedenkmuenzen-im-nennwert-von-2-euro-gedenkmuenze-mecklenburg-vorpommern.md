@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2024-02-20_1/BJNR04E0A0024.html#BJNR04E0A0024BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema
@@ -50,11 +51,13 @@ Umlaufmünze.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2024-02-20_1/BJNR04E0A0024.html#BJNR04E0A0024BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz2eurobek_2024-02-20_1/BJNR04E0A0024.html#BJNR04E0A0024BJNE000300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 78, S. 2)
 

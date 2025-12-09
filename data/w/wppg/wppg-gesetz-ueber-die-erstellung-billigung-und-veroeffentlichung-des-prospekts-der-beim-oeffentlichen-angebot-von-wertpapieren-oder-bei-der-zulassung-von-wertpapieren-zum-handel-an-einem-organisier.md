@@ -28,10 +28,12 @@ der Richtlinie 2001/34/EG (ABl. EU Nr. L 345 S. 64).
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE000208360)
 
 (1) Dieses Gesetz enthält ergänzende Regelungen zu den Vorschriften
 der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des
@@ -89,6 +91,7 @@ Bezug auf
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE000308360)
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
@@ -196,10 +199,12 @@ Bezugnahmen auf die Begriffe „Originator“ oder
 
 
 ## Abschnitt 2 - Ausnahmen von der Prospektpflicht und Regelungen zum Wertpapier-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNG000900360)
 
 
 
 ### § 3 Ausnahmen von der Verpflichtung zur Veröffentlichung eines Prospekts
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE000404360)
 
 Die Verpflichtung zur Veröffentlichung eines Prospekts gemäß Artikel 3
 Absatz 1 der Verordnung (EU) 2017/1129 gilt nicht für ein Angebot von
@@ -221,6 +226,7 @@ Wertpapieren,
 
 
 ### § 4 Wertpapier-Informationsblatt; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004302360)
 
 (1) Ein Anbieter, der die Ausnahme nach § 3 Nummer 2 in Anspruch
 nimmt, darf die Wertpapiere im Inland erst dann öffentlich anbieten,
@@ -432,6 +438,7 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 5 Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung; Veröffentlichung durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004402360)
 
 (1) Das Wertpapier-Informationsblatt ist der Bundesanstalt
 elektronisch und in elektronisch durchsuchbarem Format über ihr Melde-
@@ -457,6 +464,7 @@ Informationsblätter; Satz 2 gilt entsprechend.
 
 
 ### § 6 Einzelanlageschwellen für nicht qualifizierte Anleger
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004501360)
 
 Unbeschadet der Vorgaben in den §§ 4 und 5 ist die Befreiung von der
 Pflicht zur Veröffentlichung eines Prospekts nach § 3 Nummer 2 auf ein
@@ -488,6 +496,7 @@ Aktionären im Rahmen einer Bezugsrechtsemission angeboten werden.
 
 
 ### § 7 Werbung für Angebote, für die ein Wertpapier-Informationsblatt zu veröffentlichen ist
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE000504360)
 
 (1) Der Anbieter hat bei Angeboten gemäß § 4 Absatz 1 Satz 1 und 2
 dafür zu sorgen, dass in der Werbung für diese Angebote darauf
@@ -532,10 +541,12 @@ veröffentlichen ist.
 
 
 ## Abschnitt 3 - Prospekthaftung und Haftung bei Wertpapier-Informationsblättern
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNG000802360)
 
 
 
 ### § 8 Prospektverantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004902360)
 
 Die Verantwortung für den Inhalt des Prospekts haben zumindest der
 Anbieter, der Emittent, der Zulassungsantragsteller oder der
@@ -555,6 +566,7 @@ die Verantwortung für den Inhalt des Prospekts zu übernehmen.
 
 
 ### § 9 Haftung bei fehlerhaftem Börsenzulassungsprospekt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003401360)
 
 (1) Der Erwerber von Wertpapieren, die auf Grund eines Prospekts zum
 Börsenhandel zugelassen sind, in dem für die Beurteilung der
@@ -603,6 +615,7 @@ Absatz 5 Buchstabe e, f, g, h oder j Ziffer v und vi der Verordnung
 
 
 ### § 10 Haftung bei sonstigem fehlerhaften Prospekt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003501360)
 
 Sind in einem nach Artikel 3 Absatz 1 der Verordnung (EU) 2017/1129
 veröffentlichten Prospekt, der nicht Grundlage für die Zulassung von
@@ -624,6 +637,7 @@ unvollständig, ist § 9 entsprechend anzuwenden mit der Maßgabe, dass
 
 
 ### § 11 Haftung bei fehlerhaftem Wertpapier-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004601360)
 
 (1) Sind in einem veröffentlichten Wertpapier-Informationsblatt nach §
 4 Absatz 1 Satz 1 für die Beurteilung der Wertpapiere wesentliche
@@ -653,6 +667,7 @@ erbrachten Wertpapierdienstleistung erworben wurden.
 
 
 ### § 12 Haftungsausschluss bei fehlerhaftem Prospekt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003604360)
 
 (1) Nach den §§ 9 oder 10 kann nicht in Anspruch genommen werden, wer
 nachweist, dass er die Unrichtigkeit oder Unvollständigkeit der
@@ -713,6 +728,7 @@ auf grober Fahrlässigkeit beruht.
 
 
 ### § 13 Haftungsausschluss bei fehlerhaftem Wertpapier-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004701360)
 
 (1) Nach § 11 kann nicht in Anspruch genommen werden, wer nachweist,
 dass er die Unrichtigkeit der Angaben des Wertpapier-
@@ -756,6 +772,7 @@ beruht.
 
 
 ### § 14 Haftung bei fehlendem Prospekt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003701360)
 
 (1) Ist ein Prospekt entgegen Artikel 3 Absatz 1 der Verordnung (EU)
 2017/1129 nicht veröffentlicht worden, kann der Erwerber von
@@ -788,6 +805,7 @@ kannte.
 
 
 ### § 15 Haftung bei fehlendem Wertpapier-Informationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004801360)
 
 (1) Ist ein Wertpapier-Informationsblatt entgegen § 4 Absatz 1 Satz 1
 oder Satz 2 nicht veröffentlicht worden, kann der Erwerber von
@@ -819,6 +837,7 @@ veröffentlichen, beim Erwerb kannte.
 
 
 ### § 16 Unwirksame Haftungsbeschränkung; sonstige Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003802360)
 
 (1) Eine Vereinbarung, durch die Ansprüche nach den §§ 9, 10, 11, 14
 oder 15 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
@@ -829,10 +848,12 @@ Handlungen erhoben werden können, bleiben unberührt.
 
 
 ## Abschnitt 4 - Zuständige Behörde und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNG000602360)
 
 
 
 ### § 17 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005000360)
 
 Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 31
 Absatz 1 Satz 1 der Verordnung (EU) 2017/1129 in der jeweils geltenden
@@ -840,6 +861,7 @@ Fassung.
 
 
 ### § 18 Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2017/1129 und dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE002206360)
 
 (1) Ist bei der Bundesanstalt ein Prospekt zur Billigung eingereicht
 worden, kann sie vom Emittenten, Anbieter oder Zulassungsantragsteller
@@ -1078,6 +1100,7 @@ Durchsuchung und ihr Ergebnis enthalten.
 
 
 ### § 18a Befugnisse der Bundesanstalt im Hinblick auf die Vorgaben der Verordnung (EU) 2023/2631
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE006100360)
 
 (1) Hat ein Emittent einer europäischen grünen Anleihe eine
 Veröffentlichung nach Artikel 15 Absatz 1 der Verordnung (EU)
@@ -1275,6 +1298,7 @@ und d der Verordnung (EU) 2017/1129 fallen.
 
 
 ### § 19 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE002306360)
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen
@@ -1353,6 +1377,7 @@ jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ### § 20 Sofortige Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE002703360)
 
 Keine aufschiebende Wirkung haben
 
@@ -1368,10 +1393,12 @@ Keine aufschiebende Wirkung haben
 
 
 ## Abschnitt 5 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNG000702360)
 
 
 
 ### § 21 Anerkannte Sprache
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005101360)
 
 (1) Anerkannte Sprache im Sinne des Artikels 27 der Verordnung (EU)
 2017/1129 ist die deutsche Sprache.
@@ -1393,6 +1420,7 @@ der Verordnung (EU) 2023/2631 ist die deutsche Sprache.
 
 
 ### § 22 Elektronische Einreichung, Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005201360)
 
 (1) Der Prospekt einschließlich der Übersetzung der Zusammenfassung
 ist der Bundesanstalt ausschließlich elektronisch über das Melde- und
@@ -1420,10 +1448,12 @@ Angaben.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE004103360)
 
 
 
 ### § 24 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003106360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -1901,6 +1931,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 24a Bußgeldvorschriften zur Verordnung (EU) 2023/2631
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE006200360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 18a Absatz 1 bis 7, 8 Satz 1, Absatz 9
@@ -2099,6 +2130,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 25 Maßnahmen bei Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005301360)
 
 (1) Im Falle eines Verstoßes gegen die in § 24 Absatz 1, 3 oder 4
 genannten Vorschriften kann die Bundesanstalt zur Verhinderung
@@ -2158,6 +2190,7 @@ fünf Jahren zu löschen.
 
 
 ### § 26 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005402360)
 
 Die Bundesanstalt darf personenbezogene Daten nur zur Erfüllung ihrer
 aufsichtlichen Aufgaben und für Zwecke der Zusammenarbeit nach Maßgabe
@@ -2167,6 +2200,7 @@ und Absatz 7 der Verordnung (EU) 2023/2631 verarbeiten.
 
 
 ### § 27 Übergangsbestimmungen zur Aufhebung des Verkaufsprospektgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE003902360)
 
 Für Ansprüche wegen fehlerhafter Prospekte, die nicht Grundlage für
 die Zulassung von Wertpapieren zum Handel an einer inländischen Börse
@@ -2181,6 +2215,7 @@ Mai 2012 geltenden Fassung weiterhin anzuwenden.
 
 
 ### § 28 Übergangsbestimmungen zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005501360)
 
 (1) Prospekte, die vor dem 21. Juli 2019 gebilligt wurden, unterliegen
 bis zum Ablauf ihrer Gültigkeit weiterhin dem Wertpapierprospektgesetz
@@ -2197,13 +2232,16 @@ Anträge auf Gestattung der Veröffentlichung nach § 4 in der nach dem
 
 
 ### (XXXX) §§ 28a bis 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005600360)
 
 
 
 ### § 31 (jetzt § 20)
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE005700360)
 
 
 
 ### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wppg/BJNR169810005.html#BJNR169810005BJNE002804360)
 
 

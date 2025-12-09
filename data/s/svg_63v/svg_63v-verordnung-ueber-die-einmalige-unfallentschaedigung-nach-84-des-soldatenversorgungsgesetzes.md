@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Flugdienst
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000101377)
 
 (1) Flugdienst im Sinne des § 84 Absatz 1 Nummer 1 und 2 des
 Soldatenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines
@@ -74,6 +75,7 @@ bei Drehflüglern mit dem Aufsetzen oder dem Ausrollen.
 
 
 ## § 2 Fliegendes Personal
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000201307)
 
 (1) Soldaten, die zur Besatzung eines einsitzigen oder zweisitzigen
 strahlgetriebenen Kampfflugzeugs gehören oder in der Ausbildung zum
@@ -117,6 +119,7 @@ gelten die Absätze 1 und 2 sinngemäß.
 
 
 ## § 3 Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000300319)
 
 (1) Ein besonders gefährlicher Auftrag (§ 2 Abs. 2 Nr. 5) liegt vor
 bei vorgeschriebenen Flügen
@@ -186,6 +189,7 @@ Nr. 6) liegt vor
 
 
 ## § 4 Springendes Personal der Luftlandetruppen
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000400319)
 
 Soldaten, die
 
@@ -207,6 +211,7 @@ Luftlandetruppen.
 
 
 ## § 5 Sprungdienst
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000500319)
 
 Sprungdienst ist
 
@@ -222,6 +227,7 @@ Sprungdienst ist
 
 
 ## § 6 Soldaten im Bergrettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000600319)
 
 (1) Soldaten, die
 
@@ -254,6 +260,7 @@ Soldaten für die Bergnothilfe in Übung zu halten.
 
 
 ## § 7 Kampfschwimmer und Minentaucher
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000700319)
 
 (1) Soldaten, die als Einzelkämpfer für besondere Aufgaben gegen
 Schiffe, Unterwasserhindernisse sowie sonstige Anlagen im Wasser
@@ -292,6 +299,7 @@ Gewässern unter Fortfall der sonst im Taucherdienst der Marine
 
 
 ## § 8 Minendemonteure
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000800319)
 
 (1) Minentaucher, die zu Dienstverrichtungen nach Absatz 2
 ausgebildet, in Übung gehalten und eingesetzt werden, sind
@@ -302,6 +310,7 @@ Klassifizieren, Identifizieren und Beseitigen von Minen.
 
 
 ## § 9 Versuchspersonal für die Erprobung von Minen und ähnlichen Kampfmitteln
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE000900319)
 
 (1) Soldaten, die zur Erprobung von Minen und ähnlichen Kampfmitteln
 planmäßig oder auf dem Kommandoweg vorübergehend eingesetzt sind, sind
@@ -326,6 +335,7 @@ Tätigkeiten mit der Erprobung im Zusammenhang stehen.
 
 
 ## § 10 Munitionsuntersuchungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001000319)
 
 (1) Soldaten, die zur Untersuchung von Munition eingesetzt, und
 Soldaten, die dabei als Hilfskräfte tätig sind, gehören während des
@@ -346,6 +356,7 @@ Vernichten sowie das Entfernen, Auswechseln und Hinzufügen von Teilen.
 
 
 ## § 11 Besonders gefährlicher Einsatz mit tauchfähigen Landfahrzeugen oder schwimmfähigen gepanzerten Landfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001100319)
 
 (1) Soldaten, die zur Besatzung eines tauchfähigen Landfahrzeugs
 gehören, befinden sich in besonders gefährlichem Einsatz, wenn sie mit
@@ -365,6 +376,7 @@ Landfahrzeug mitfahren.
 
 
 ## § 12 U-Boot-Besatzungen
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001200319)
 
 (1) Soldaten, die sich auf Grund eines Befehls oder aus sonstigen
 dienstlichen Gründen an Bord eines U-Bootes befinden, sind
@@ -384,6 +396,7 @@ verbündeten Streitkräfte.
 
 
 ## § 13 Helm- und Schwimmtaucher
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001300319)
 
 (1) Soldaten, die zu Unterwasserarbeiten mit einem Helmtauchgerät
 ausgebildet, in Übung gehalten oder eingesetzt werden, sind
@@ -403,6 +416,7 @@ b)  des Schwimmtauchers vom Auf- bis zum Absetzen der Schwimmaske.
 
 
 ## § 14 Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001600307)
 
 (1) Soldaten, die unterhalb eines Drehflügelflugzeuges im Schwebeflug
 Außenlasten ein- oder aushängen, befinden sich im Einsatz beim Ein-
@@ -415,6 +429,7 @@ den oder aus dem Lasthaken ein- oder ausgehängt wird.
 
 
 ## § 15 Angehörige des Kommandos Spezialkräfte
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001700320)
 
 (1) Soldaten, die im Rahmen des Kommandos Spezialkräfte in besonderen
 militärischen Einsätzen verwendet oder hierfür ausgebildet werden,
@@ -429,6 +444,7 @@ Ausbildung über die im Militärdienst übliche Gefährdung hinausgeht.
 
 
 ## § 16 Andere Angehörige des öffentlichen Dienstes im Bereich der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001402320)
 
 Für Beamte, Angestellte und Arbeiter, die ihre Dienstobliegenheiten im
 Bereich der Bundeswehr verrichten, gelten die §§ 1 bis 15
@@ -436,6 +452,7 @@ entsprechend.
 
 
 ## § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svg_63v/BJNR003670962.html#BJNR003670962BJNE001502320)
 
 -
 

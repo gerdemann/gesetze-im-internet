@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000100666)
 
 Auf Grund des § 46 des Deutschen Richtergesetzes vom 8. September 1961
 (Bundesgesetzbl. I S. 1665) in Verbindung mit § 69 des
@@ -28,6 +29,7 @@ Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 1. Oktober
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000200666)
 
 Der Richter darf eine Nebentätigkeit nur ausüben, wenn dadurch das
 Vertrauen in seine Unabhängigkeit, Unparteilichkeit oder
@@ -35,6 +37,7 @@ Unbefangenheit nicht gefährdet wird.
 
 
 ## § 2 Heranziehung zu einer Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000300666)
 
 (1) Der Richter darf nur herangezogen werden zu
 
@@ -54,6 +57,7 @@ Unbefangenheit nicht gefährdet wird.
 
 
 ## § 3 Nebentätigkeit im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000400666)
 
 (1) Im öffentlichen Dienst darf der Richter nur eine richterliche oder
 eine nach § 4 des Deutschen Richtergesetzes mit dem Richteramt
@@ -66,6 +70,7 @@ Vorschriften.
 
 
 ## § 4 Allgemeine Genehmigung von Nebenbeschäftigungen
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000501310)
 
 (1) Die Genehmigung für eine oder mehrere Nebenbeschäftigungen gegen
 Vergütung außerhalb des öffentlichen Dienstes gilt allgemein als
@@ -83,6 +88,7 @@ Versagung einer Genehmigung rechtfertigen würden.
 
 
 ## § 5 Versagung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000600666)
 
 Die Genehmigung für eine Nebentätigkeit ist zu versagen, wenn der
 Richter sie nach den §§ 4, 39, 40 oder 41 des Deutschen
@@ -107,6 +113,7 @@ ist, daß die Nebentätigkeit
 
 
 ## § 6 Abgeordnete Richter
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000700666)
 
 (1) Für Richter, die an eine Verwaltungsbehörde oder zur Wahrnehmung
 einer nichtrichterlichen Tätigkeit an ein Gericht abgeordnet sind,
@@ -126,6 +133,7 @@ genehmigt geltenden Nebentätigkeiten ist zu untersagen.
 
 
 ## § 7 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000800666)
 
 (1) Über den Antrag auf Genehmigung einer Nebentätigkeit, über den
 Widerruf der Genehmigung und über die Untersagung einer als genehmigt
@@ -141,6 +149,7 @@ soweit die dienstlichen Interessen dies gestatten.
 
 
 ## § 8 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE000901309)
 
 (1) Die für Bundesbeamte geltenden Vorschriften über die Vergütung für
 eine Nebentätigkeit und über die Abrechnung und Ablieferung der
@@ -154,17 +163,20 @@ darf eine Vergütung nur auf Grund eines Gesetzes gewährt werden.
 
 
 ## § 9 Richter des Bundesverfassungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE001000666)
 
 Diese Verordnung gilt nicht für die Richter des
 Bundesverfassungsgerichts.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE001101301)
 
 (weggefallen)
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brinv/BJNR017190965.html#BJNR017190965BJNE001200666)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

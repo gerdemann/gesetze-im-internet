@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V tritt gem. § 6 am 31.12.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000100000)
 
 Auf Grund des § 185 Absatz 2 in Verbindung mit Absatz 1 Satz 1 des
 Dritten Buches Sozialgesetzbuch, der durch Artikel 21 Nummer 2 des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000200000)
 
 Träger nach § 21 des Dritten Buches Sozialgesetzbuch haben bei der
 Ausführung eines öffentlichen Auftrags über Aus- und
@@ -40,6 +42,7 @@ nach § 4 zu zahlen.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000300000)
 
 Arbeitnehmerinnen und Arbeitnehmer im pädagogischen Bereich sind
 solche, die mit der Aus- und Weiterbildung, mit der Vermittlung oder
@@ -49,6 +52,7 @@ Sozialgesetzbuch betraut sind.
 
 
 ## § 3 Ausnahmeregelungen
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000400000)
 
 (1) Diese Verordnung gilt nicht für Praktikantinnen und Praktikanten,
 unabhängig davon, ob sie sich im Anerkennungsjahr befinden.
@@ -71,6 +75,7 @@ wurden.
 
 
 ## § 4 Höhe des Mindestentgelts
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000500000)
 
 (1) Das Mindestentgelt beträgt ab dem
 
@@ -120,6 +125,7 @@ Auftragsbekanntmachung oder in den Vergabeunterlagen hinzuweisen.
 
 
 ## § 5 Fälligkeit des Mindestentgelts
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000600000)
 
 (1) Der Anspruch auf das Mindestentgelt wird spätestens am 15. des
 Kalendermonats fällig, der auf den Kalendermonat folgt, für den das
@@ -139,12 +145,14 @@ Beendigung eines Arbeitsverhältnisses noch bestehen, sind abzugelten.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000700000)
 
 Diese Verordnung tritt am 1. Februar 2023 in Kraft und am 31. Dezember
 2026 außer Kraft.
 
 
 ## Anlage „Qualifikationen – Gruppe 2“ des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022
+[Direktlink](https://www.gesetze-im-internet.de/vergmindv_2023/BJNR0170A0023.html#BJNR0170A0023BJNE000800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 23, S. 4 - 5)
 

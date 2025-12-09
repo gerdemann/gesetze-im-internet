@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -37,20 +38,24 @@ und Forschung:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000300000)
 
 Der Ausbildungsberuf des Werkstoffprüfers und der Werkstoffprüferin
 wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000400000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000500000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und in die Ausbildung in einer der Fachrichtungen
@@ -71,6 +76,7 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
@@ -285,6 +291,7 @@ sind:
 
 
 ### § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000700000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -306,12 +313,15 @@ durchzusehen.
 
 
 ## Teil 2 - Fachrichtungsspezifische Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000200000)
 
 
 ### Teil 2.1 - Fachrichtung Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000300000)
 
 
 #### § 6 Abschlussprüfung in der Fachrichtung Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000800000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -329,6 +339,7 @@ nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 #### § 7 Teil 1 der Abschlussprüfung in der Fachrichtung Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE000900000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -419,6 +430,7 @@ Prüfverfahren.
 
 
 #### § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001000000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -628,6 +640,7 @@ folgende Vorgaben:
 
 
 #### § 9 Gewichtungs- und Bestehensregelungen in der Fachrichtung Metalltechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001101377)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -724,9 +737,11 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ### Teil 2.2 - Fachrichtung Kunststofftechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000400000)
 
 
 #### § 10 Abschlussprüfung in der Fachrichtung Kunststofftechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001200000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -745,6 +760,7 @@ Berufsbildungsgesetztes erforderlich ist.
 
 
 #### § 11 Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001300000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -835,6 +851,7 @@ Prüfverfahren.
 
 
 #### § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001400000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1034,6 +1051,7 @@ folgende Vorgaben:
 
 
 #### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofftechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001501377)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1130,9 +1148,11 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ### Teil 2.3 - Fachrichtung Wärmebehandlungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000500000)
 
 
 #### § 14 Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001600000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1150,6 +1170,7 @@ nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 #### § 15 Teil 1 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001700000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1240,6 +1261,7 @@ Prüfverfahren.
 
 
 #### § 16 Teil 2 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1451,6 +1473,7 @@ folgende Vorgaben:
 
 
 #### § 17 Gewichtungs- und Bestehensregelungen in der Fachrichtung Wärmebehandlungstechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE001901377)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1547,9 +1570,11 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ### Teil 2.4 - Fachrichtung Systemtechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000600000)
 
 
 #### § 18 Abschlussprüfung in der Fachrichtung Systemtechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002000000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -1567,6 +1592,7 @@ nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
 
 #### § 19 Teil 1 der Abschlussprüfung in der Fachrichtung Systemtechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002100000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -1657,6 +1683,7 @@ Prüfverfahren.
 
 
 #### § 20 Teil 2 der Abschlussprüfung in der Fachrichtung Systemtechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -1850,6 +1877,7 @@ folgende Vorgaben:
 
 
 #### § 21 Gewichtungs- und Bestehensregelungen in der Fachrichtung Systemtechnik
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002301377)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1942,9 +1970,11 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## Teil 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNG000700000)
 
 
 ### § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002400000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Werkstoffprüfer/zur
@@ -1953,6 +1983,7 @@ Werkstoffprüferin vom 29. Mai 1996 (BGBl. I S. 773) außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002600000)
 
 (Fundstelle: BGBl. I 2013, 1704 - 1715)
 
@@ -3714,6 +3745,7 @@ Fähigkeiten**
    (zu § 4 Absatz 1 Satz 2)
 
 ### Anlage 2 Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712
+[Direktlink](https://www.gesetze-im-internet.de/werkstoffprausbv/BJNR169300013.html#BJNR169300013BJNE002700000)
 
 (Fundstelle: BGBl. I 2013, 1716 - 1728)
 

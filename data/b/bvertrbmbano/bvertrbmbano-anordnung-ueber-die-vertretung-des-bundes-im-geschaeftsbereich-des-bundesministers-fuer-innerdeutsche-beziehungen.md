@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bvertrbmbano/BJNR507600970.html#BJNR507600970BJNE000100307)
 
 Soweit durch Rechtsvorschriften des Bundes nichts anderes bestimmt
 ist, wird der Bund im Geschäftsbereich des Bundesministers für

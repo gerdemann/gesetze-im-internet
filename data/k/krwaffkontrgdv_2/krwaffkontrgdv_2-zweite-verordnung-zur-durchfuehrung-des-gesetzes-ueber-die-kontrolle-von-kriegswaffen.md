@@ -18,6 +18,7 @@ Fundstelle
 Stand: Zuletzt geändert Art. 1 V v. 13.3.2020 I 521
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000100311)
 
 Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes
 über die Kontrolle von Kriegswaffen vom 20. April 1961
@@ -26,6 +27,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Antrag auf Erteilung einer Herstellungsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000200311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Herstellung von
 Kriegswaffen muß folgende Angaben enthalten:
@@ -76,6 +78,7 @@ nachzuweisen,
 
 
 ## § 2 Antrag auf Erteilung einer Überlassungsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000300311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Überlassung der
 tatsächlichen Gewalt über Kriegswaffen an einen anderen muß folgende
@@ -109,6 +112,7 @@ Angaben enthalten:
 
 
 ## § 3 Antrag auf Erteilung einer Erwerbsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000400311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung zum Erwerb der
 tatsächlichen Gewalt über Kriegswaffen von einem anderen muß folgende
@@ -148,6 +152,7 @@ Angaben enthalten:
 
 
 ## § 4 Antrag auf Erteilung einer Genehmigung zur Beförderung innerhalb des Bundesgebietes
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000500311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Beförderung von
 Kriegswaffen innerhalb des Bundesgebietes (§ 3 Abs. 1 und 2 des
@@ -197,6 +202,7 @@ Angaben sind glaubhaft zu machen.
 
 
 ## § 5 Antrag auf Erteilung einer Genehmigung zur Beförderung außerhalb des Bundesgebietes
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000600311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Beförderung von
 Kriegswaffen außerhalb des Bundesgebietes muß folgende Angaben
@@ -235,6 +241,7 @@ enthalten:
 
 
 ## § 5a Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000700311)
 
 (1) Der Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte
 muß folgende Angaben enthalten:
@@ -285,6 +292,7 @@ auf Verlangen vorzulegen.
 
 
 ## § 6 Antragsform
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000802377)
 
 (1) Der Antrag auf Erteilung einer Genehmigung ist in Textform zu
 stellen.
@@ -300,6 +308,7 @@ Auftragnehmer den Auftrag schriftlich annimmt.
 
 
 ## § 7 Gleichzeitige Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE000900311)
 
 (1) Liegen die Voraussetzungen für den Wegfall der Überlassungs- und
 Erwerbsgenehmigung nicht vor, so sollen
@@ -328,6 +337,7 @@ die tatsächliche Gewalt erwerben will, gleichzeitig gestellt werden.
 
 
 ## § 8 Dauergenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001000311)
 
 (1) Die Genehmigung kann einem Antragsteller ohne Beschränkung auf die
 Vornahme einer einzelnen Handlung für eine bestimmte Zeitdauer erteilt
@@ -344,6 +354,7 @@ bestimmte Art und Menge erteilt werden.
 
 
 ## § 9 Führung und Inhalt des Kriegswaffenbuches
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001103377)
 
 (1) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat den
 Kriegswaffenbestand zu den nach § 10 Absatz 1 vorgeschriebenen
@@ -431,6 +442,7 @@ nicht verpflichtet, ein Kriegswaffenbuch zu führen.
 
 
 ## § 10 Meldung der Kriegswaffenbestände
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001204377)
 
 (1) Jede Bestandsveränderung und die am 31. März und 30. September
 eines jeden Jahres (Meldestichtage) vorhandenen Kriegswaffenbestände
@@ -486,6 +498,7 @@ Ausfuhrkontrolle binnen der in Absatz 1 genannten Zeiträume zu
 
 
 ## § 11 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001301377)
 
 (1) Der zur Führung eines Kriegswaffenbuches Verpflichtete hat das
 Kriegswaffenbuch so lange aufzubewahren, wie er die tatsächliche
@@ -501,6 +514,7 @@ der Genehmigung dienen.
 
 
 ## § 12 Nicht ausgenutzte Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001402311)
 
 (1) Wird die genehmigte Handlung nicht oder nur teilweise ausgeführt,
 so hat der Inhaber der Genehmigung dies dem Bundesamt für Wirtschaft
@@ -514,6 +528,7 @@ Luftfahrzeugen.
 
 
 ## § 13 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001501309)
 
 (1) Kriegswaffen, die im Bundesgebiet hergestellt, in das Bundesgebiet
 eingeführt oder sonst in das Bundesgebiet verbracht werden, müssen ein
@@ -528,6 +543,7 @@ Herstellungsnummer tragen.
 
 
 ## § 14 Gestellungs-, Anmelde- und Vorführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001602311)
 
 (1) Kriegswaffen sind, soweit sie nicht schon nach den
 Zollvorschriften zu gestellen sind, bei der Einfuhr, Ausfuhr und
@@ -540,6 +556,7 @@ oder aus dem Bundesgebiet sind die Kriegswaffen den für die
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/krwaffkontrgdv_2/BJNR106490961.html#BJNR106490961BJNE001700311)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

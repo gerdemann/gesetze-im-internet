@@ -27,6 +27,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000100000)
 
 Auf Grund
 
@@ -53,6 +54,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000200000)
 
 Diese Verordnung regelt die Durchführung der Betäubung von unter acht
 Tage alten männlichen Schweinen (Ferkel) zum Zweck der Kastration
@@ -62,6 +64,7 @@ sowie an das Verfahren der Kastration unter der Betäubung.
 
 
 ## § 2 Ausnahme vom Tierarztvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000300000)
 
 Abweichend von § 5 Absatz 1 Satz 2 des Tierschutzgesetzes darf auch
 eine andere Person als ein Tierarzt oder eine Tierärztin eine
@@ -72,6 +75,7 @@ die weiteren Voraussetzungen dieser Verordnung erfüllt sind.
 
 
 ## § 3 Tierarzneimittel zur Betäubung
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000400000)
 
 Das zum Erreichen der Betäubung durch Isofluran angewendete
 Tierarzneimittel muss nach arzneimittelrechtlichen Vorschriften für
@@ -80,6 +84,7 @@ acht Tage alten Ferkeln zugelassen sein.
 
 
 ## § 4 Verfahren der Ferkelkastration unter Betäubung
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000500000)
 
 (1) Vor der Narkoseeinleitung ist das Ferkel durch die sachkundige
 Person klinisch auf Narkosefähigkeit und normale anatomische
@@ -118,6 +123,7 @@ geeignete Maßnahmen zur Nachsorge.
 
 
 ## § 5 Orte und Narkosegeräte
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000600000)
 
 (1) Die Orte, an denen die sachkundige Person die Betäubung
 durchführt, müssen trocken, sauber, gut belüftet und leicht zu
@@ -155,6 +161,7 @@ durchführt, müssen
 
 
 ## § 6 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000700000)
 
 (1) Die Sachkunde zur Durchführung der Betäubung wird durch eine
 jeweils durch Prüfungen nachgewiesene erfolgreiche Teilnahme
@@ -237,6 +244,7 @@ zuständigen Behörde auf Verlangen nachzuweisen.
 
 
 ## § 7 Schulungseinrichtungen, Lehrgänge und Überprüfung der praktischen Fähigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000800000)
 
 (1) Einrichtungen, die Lehrgänge nach § 6 Absatz 1 Nummer 1
 durchführen,
@@ -370,6 +378,7 @@ sachkundige Person erhält einen Nachweis über die Teilnahme an einer
 
 
 ## § 8 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE000900000)
 
 Die sachkundige Person hat arbeitstäglich Aufzeichnungen über
 Komplikationen bei der Narkose zu führen und die Aufzeichnungen nach §
@@ -388,6 +397,7 @@ Tod von Tieren während oder unmittelbar nach der Narkose.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE001000000)
 
 Narkosegeräte, die bereits vor Inkrafttreten dieser Verordnung
 verwendet worden sind, dürfen weiter verwendet werden, auch wenn sie
@@ -398,11 +408,13 @@ elektronisch arbeitstäglich aufzuzeichnen.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ferkbetsachkv/BJNR009600020.html#BJNR009600020BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

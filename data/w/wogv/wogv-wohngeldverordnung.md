@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNG000108308)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE000513308)
 
 (1) Die Miete und der Mietwert im Sinne des Wohngeldgesetzes sind nach
 den Vorschriften des Teils 2 dieser Verordnung zu ermitteln.
@@ -41,10 +43,12 @@ Verordnung beigefügten Anlage.
 
 
 ## Teil 2 - Ermittlung der Miete
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNG000209308)
 
 
 
 ### § 2 Miete
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE000610305)
 
 (1) Zur Miete im Sinne des § 9 Abs. 1 des Wohngeldgesetzes gehören
 auch Beträge, die im Zusammenhang mit dem Miet- oder mietähnlichen
@@ -57,6 +61,7 @@ bleibt unberührt.
 
 
 ### § 3 Mietvorauszahlungen und Mieterdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE000708308)
 
 (1) Ist die Miete ganz oder teilweise im Voraus bezahlt worden
 (Mietvorauszahlung), sind die im Voraus bezahlten Beträge so zu
@@ -70,6 +75,7 @@ sich die Miete hierdurch tatsächlich vermindert.
 
 
 ### § 4 Sach- und Dienstleistungen des Mieters
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE000808308)
 
 (1) Erbringt der Mieter Sach- oder Dienstleistungen für den Vermieter
 und wird deshalb die Miete ermäßigt, ist die ermäßigte Miete zu Grunde
@@ -81,6 +87,7 @@ Vergütung ohne Einfluss auf die Miete.
 
 
 ### § 5 Nicht feststehende Betriebskosten
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE000908308)
 
 Stehen bei der Entscheidung über den Mietzuschussantrag die Umlagen
 für Betriebskosten ganz oder teilweise nicht fest, sind
@@ -88,6 +95,7 @@ Erfahrungswerte als Pauschbeträge anzusetzen.
 
 
 ### § 6 Außer Betracht bleibende Kosten und Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001017305)
 
 (1) Kosten, die nach § 9 Absatz 2 Nummer 1 und 2 des Wohngeldgesetzes
 außer Betracht bleiben, sind:
@@ -139,6 +147,7 @@ die Absätze 1 und 2 entsprechend anzuwenden.
 
 
 ### § 7 Mietwert
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001209308)
 
 (1) Als Mietwert des Wohnraums (§ 9 Abs. 3 Satz 1 des
 Wohngeldgesetzes) soll der Betrag zu Grunde gelegt werden, der der
@@ -152,10 +161,12 @@ werden kann.
 
 
 ## Teil 3 - Wohngeld-Lastenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNG000309308)
 
 
 
 ### § 8 Aufstellung der Wohngeld-Lastenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001310308)
 
 Bei der Aufstellung der Wohngeld-Lastenberechnung ist von der im
 Bewilligungszeitraum zu erwartenden Belastung auszugehen. Ist die
@@ -165,6 +176,7 @@ erwarten, ist von dieser Belastung auszugehen.
 
 
 ### § 9 Gegenstand und Inhalt der Wohngeld-Lastenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001410308)
 
 (1) Als Belastung ist die Belastung zu berücksichtigen, die auf den
 selbst genutzten Wohnraum entfällt. Selbst genutzter Wohnraum ist der
@@ -199,6 +211,7 @@ Belastung auszuweisen.
 
 
 ### § 10 Fremdmittel
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001509308)
 
 Fremdmittel im Sinne dieser Verordnung sind
 
@@ -216,6 +229,7 @@ ohne Rücksicht darauf, ob sie dinglich gesichert sind oder nicht.
 
 
 ### § 11 Ausweisung der Fremdmittel
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001614308)
 
 (1) In der Wohngeld-Lastenberechnung sind Fremdmittel mit dem
 Nennbetrag auszuweisen, wenn sie der Finanzierung folgender Zwecke
@@ -259,6 +273,7 @@ in der Wohngeld-Lastenberechnung nicht auszuweisen.
 
 
 ### § 12 Belastung aus dem Kapitaldienst
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001710308)
 
 (1) Als Belastung aus dem Kapitaldienst sind auszuweisen:
 
@@ -297,6 +312,7 @@ Leistung anzusetzen.
 
 
 ### § 13 Belastung aus der Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001815126)
 
 (1) Als Belastung aus der Bewirtschaftung sind Instandhaltungskosten,
 Verwaltungskosten und Betriebskosten ohne die Heizkosten auszuweisen.
@@ -312,6 +328,7 @@ hinaus dürfen Bewirtschaftungskosten nicht angesetzt werden.
 
 
 ### § 14 Nutzungsentgelte und Wärmelieferungskosten
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE001911308)
 
 (1) Leistet die wohngeldberechtigte Person an Stelle des
 Kapitaldienstes, der Instandhaltungskosten, der Betriebskosten und der
@@ -332,6 +349,7 @@ anzusetzen. § 6 Abs. 2 Satz 1 Nr. 1 und 2 ist entsprechend anzuwenden.
 
 
 ### § 15 Außer Betracht bleibende Belastung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE002014305)
 
 (1) In den Fällen des § 11 Abs. 2 Nr. 1 des Wohngeldgesetzes bleibt
 die Belastung insoweit außer Betracht, als sie auf die in § 9 Abs. 2
@@ -374,10 +392,12 @@ abzusetzen.
 
 
 ## Teil 4 - Verfahren und Kosten des automatisierten Datenabgleichs
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNG000310308)
 
 
 
 ### § 16 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE002901119)
 
 Die §§ 17 bis 22 gelten für den automatisierten Datenabgleich nach §
 33 Absatz 5 in Verbindung mit Absatz 2 des Wohngeldgesetzes zwischen
@@ -392,6 +412,7 @@ Rechtsverordnungen der Landesregierungen, die über die Regelungen der
 
 
 ### § 17 Abgleichszeitraum und Übermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003002126)
 
 (1) Der automatisierte Datenabgleich nach § 33 Absatz 5 in Verbindung
 mit Absatz 2 Satz 1 des Wohngeldgesetzes wird vierteljährlich für das
@@ -443,6 +464,7 @@ aufbereiten darf.
 
 
 ### § 18 Einzelheiten des automatisierten Datenabgleichs
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003101126)
 
 (1) Die Datenstelle gleicht die ihr nach § 17 Absatz 2 übermittelten
 Daten ab mit den bei ihr gespeicherten Daten nach
@@ -511,6 +533,7 @@ aus der gesetzlichen Renten- und Unfallversicherung.
 
 
 ### § 19 Anforderungen an die Datenübermittlung und Datenspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003200308)
 
 (1) Bei der Datenübermittlung und Datenspeicherung sind alle
 erforderlichen und angemessenen technischen und organisatorischen
@@ -555,6 +578,7 @@ identifizieren.
 
 
 ### § 20 Weiterverwendung der Antwortdatensätze
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003301126)
 
 Die von der Datenstelle oder der zentralen Landesstelle an die
 Wohngeldbehörde übermittelten Antwortdatensätze dürfen in das
@@ -570,6 +594,7 @@ Löschung der Daten erst bei Löschung der Akte im Wohngeldverfahren.
 
 
 ### § 21 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003400308)
 
 Die technischen Einzelheiten des automatisierten
 Datenabgleichsverfahrens nach § 16, insbesondere des Aufbaus, der
@@ -585,6 +610,7 @@ Internetseite der Deutschen Rentenversicherung zu veröffentlichen.
 
 
 ### § 22 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE003500308)
 
 (1) Die Länder haben der Datenstelle die notwendigen Kosten für die
 Durchführung und Vermittlung des automatisierten Datenabgleichs nach §
@@ -616,6 +642,7 @@ erstatten; Absatz 2 Satz 3 gilt entsprechend.
 (zu § 1 Absatz 3)
 
 ### Anlage Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2023
+[Direktlink](https://www.gesetze-im-internet.de/wogv/BJNR020650971.html#BJNR020650971BJNE002418126)
 
 (Fundstelle: BGBl. I 2022, 2166 – 2210;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

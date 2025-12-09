@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000100000)
 
 Auf Grund des § 15 Absatz 8 Satz 1 in Verbindung mit den Sätzen 2 bis
 4 des Bundesnaturschutzgesetzes, der durch Artikel 8 des Gesetzes vom
@@ -30,6 +31,7 @@ unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000200000)
 
 (1) Diese Verordnung findet Anwendung, soweit die Vorschriften des
 Dritten Kapitels des Bundesnaturschutzgesetzes vom 29. Juli 2009
@@ -59,6 +61,7 @@ deutschen ausschließlichen Wirtschaftszone und des Festlandsockels.
 
 
 ## § 2 Allgemeine Anforderungen an die Vermeidung und die Kompensation
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000300000)
 
 (1) Die nach § 17 des Bundesnaturschutzgesetzes zuständige Behörde
 trifft die zur Durchführung des § 15 Absatz 1 bis 6 des
@@ -177,6 +180,7 @@ werden.
 
 
 ## § 3 Besondere Anforderungen an die Vermeidung
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000400000)
 
 (1) Beeinträchtigungen von Natur und Landschaft gemäß § 15 Absatz 1
 des Bundesnaturschutzgesetzes sind vorrangig zu vermeiden.
@@ -210,6 +214,7 @@ Vermeidungsmaßnahmen nicht durchführbar sind.
 
 
 ## § 4 Grundsätze der Bewertung des vorhandenen Zustands und der zu erwartenden unvermeidbaren Beeinträchtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000500000)
 
 (1) Zur Ermittlung des Kompensationsbedarfs
 
@@ -254,6 +259,7 @@ Die Erfassung und Bewertung erfolgt nach Maßgabe des § 6.
 
 
 ## § 5 Grundbewertung des Schutzguts Biotope
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000600000)
 
 (1) Zur Erfassung und Bewertung des vorhandenen Zustands ist jedes
 Biotop im Einwirkungsbereich des Vorhabens zunächst einem der in der
@@ -327,6 +333,7 @@ gelegt werden.
 
 
 ## § 6 Bewertung weiterer Schutzgüter
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000700000)
 
 (1) Die Erfassung und Bewertung der in der Anlage 1 Spalte 1 und 2
 genannten weiteren Schutzgüter und Funktionen erfolgt anhand der
@@ -347,6 +354,7 @@ einzustufen sind.
 
 
 ## § 7 Biotopwertbezogener und funktionsspezifischer Kompensationsbedarf
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000800000)
 
 (1) Bei den Biotopen, bei denen eine erhebliche Beeinträchtigung zu
 erwarten ist, ist der biotopwertbezogene Kompensationsbedarf zu
@@ -387,6 +395,7 @@ verbal-argumentativ.
 
 
 ## § 8 Anforderungen an den Ausgleich und den Ersatz erheblicher Beeinträchtigungen von Biotopen
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE000900000)
 
 (1) Erhebliche Beeinträchtigungen von Biotopen sind ausgeglichen oder
 ersetzt, wenn im betroffenen Naturraum und innerhalb einer
@@ -425,6 +434,7 @@ nach Maßgabe des § 9 Absatz 2 bis 5 auszugleichen oder zu ersetzen.
 
 
 ## § 9 Anforderungen an den Ausgleich und den Ersatz erheblicher Beeinträchtigungen weiterer Schutzgüter
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001000000)
 
 (1) Erhebliche Beeinträchtigungen der Schutzgüter Tiere, Pflanzen,
 Boden, Wasser, Klima und Luft werden durch die nach § 8 Absatz 1 Satz
@@ -472,6 +482,7 @@ durch eine landschaftsgerechte Neugestaltung erfüllt werden.
 
 
 ## § 10 Berücksichtigung agrarstruktureller Belange
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001100000)
 
 (1) Soweit agrarstrukturelle Belange im Sinne des § 15 Absatz 3 Satz 1
 des Bundesnaturschutzgesetzes betroffen sein können, beteiligt die
@@ -508,6 +519,7 @@ Bundesnaturschutzgesetzes.
 
 
 ## § 11 Bewirtschaftungs- oder Pflegemaßnahmen; Entsiegelung und Wiedervernetzung
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001200000)
 
 (1) Bewirtschaftungs- oder Pflegemaßnahmen, die in Anlage 6 Abschnitt
 A Spalte 1 aufgeführt sind, werden unter regelmäßiger Beachtung der in
@@ -527,6 +539,7 @@ Lebensräumen zu verringern.
 
 
 ## § 12 Unterhaltung und rechtliche Sicherung; Übertragung auf Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001300000)
 
 (1) Die während des nach § 15 Absatz 4 Satz 2 des
 Bundesnaturschutzgesetzes festgesetzten Zeitraums erforderliche
@@ -559,6 +572,7 @@ Landesrecht anerkannte Einrichtungen.
 
 
 ## § 13 Voraussetzungen der Ersatzzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001400000)
 
 (1) Beeinträchtigungen des Naturhaushalts oder des Landschaftsbildes
 sind im Sinne des § 15 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes
@@ -592,6 +606,7 @@ darzulegen.
 
 
 ## § 14 Höhe der Ersatzzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001500000)
 
 (1) Bemisst sich die Ersatzzahlung nach den durchschnittlichen Kosten
 der nicht durchführbaren Ausgleichs- und Ersatzmaßnahmen nach § 15
@@ -732,6 +747,7 @@ Absatz 1 Satz 2.
 
 
 ## § 15 Bewertung und Ersatzgeldbemessung für Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001600000)
 
 (1) Für die Errichtung und den Betrieb von Windenergieanlagen auf See
 einschließlich der hierfür erforderlichen Nebeneinrichtungen im
@@ -773,6 +789,7 @@ Festlandsockels bleibt im Übrigen unberührt.
 
 
 ## § 16 Sicherheitsleistung für die Ersatzzahlung
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001700000)
 
 Setzt die zuständige Behörde eine Sicherheitsleistung für die
 Ersatzzahlung nach § 15 Absatz 6 Satz 6 zweiter Halbsatz des
@@ -796,6 +813,7 @@ Sicherheit zulassen, dass die Sicherheit bewirkt wird durch
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001800000)
 
 (1) Diese Verordnung findet keine Anwendung auf Eingriffe in Natur und
 Landschaft,
@@ -849,12 +867,14 @@ der jeweils von dem Vorhaben betroffenen Länder erfolgen.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE001900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 4 Absatz 3, § 6 Absatz 1 und 2 und § 14 Absatz 2 Satz 1)
 
 ## Anlage 1 Bestandserfassung und -bewertung weiterer Schutzgüter und Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002000000)
 
 (Fundstelle: BGBl. I 2020, 1095 - 1099)
 
@@ -1346,6 +1366,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 5 Absatz 1)
 
 ## Anlage 2 Liste der Biotoptypen und -werte
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002100000)
 
 (Fundstelle: BGBl. I 2020, 1100 - 1122)
 
@@ -7478,6 +7499,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage 3 (zu § 5 Absatz 3 Satz 2 und § 6 Absatz 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002200000)
 
 (Fundstelle: BGBl. I 2020, 1123)
 
@@ -7598,6 +7620,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 8 Absatz 1 Satz 2 und § 9 Absatz 4 Satz 1)
 
 ## Anlage 4 Naturräume in Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 1124 - 1126)
 
@@ -7976,6 +7999,7 @@ Ssymank 1994)
 (zu § 9 Absatz 3 und 4)
 
 ## Anlage 5 Anforderungen an den Ausgleich und den Ersatz mindestens erheblicher Beeinträchtigungen des Landschaftsbildes sowie erheblicher Beeinträchtigungen besonderer Schwere sonstiger Schutzgüter
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002400000)
 
 (Fundstelle: BGBl. I 2020, 1127 - 1135)
 
@@ -8888,6 +8912,7 @@ B.**** Berücksichtigung von Entwicklungszeiten ****
 (zu § 8 Absatz 3 Satz 2, § 11 Absatz 1 bis 3)
 
 ## Anlage 6 Maßnahmen im Sinne des § 15 Absatz 3 des Bundesnaturschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bkompv/BJNR108800020.html#BJNR108800020BJNE002500000)
 
 (Fundstelle: BGBl. I 2020, 1136 - 1157)
 

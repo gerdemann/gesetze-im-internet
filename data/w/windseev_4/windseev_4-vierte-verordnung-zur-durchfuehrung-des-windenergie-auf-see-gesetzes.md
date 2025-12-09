@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000100000)
 
 Auf Grund des § 15 Absatz 1 der Erneuerbare-Energien-Verordnung vom
 17\. Februar 2015 (BGBl. I S. 146), der zuletzt durch Artikel 2 der
@@ -33,9 +34,11 @@ Bundesamt für Seeschifffahrt und Hydrographie:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000300000)
 
 [^F829178_01_BJNR0340A0024BJNE000300000]
 Für die im Flächenentwicklungsplan vom 20. Januar 2023
@@ -73,12 +76,15 @@ Wirtschaftszone der Nordsee werden durch diese Verordnung
 [^F829178_01_BJNR0340A0024BJNE000300000]: 
 
 ## Teil 2 - Feststellung der Eignung sowie der Erforderlichkeit der Realisierung von Windenergieanlagen auf See und Vorgaben für das spätere Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000200000)
 
 
 ### Kapitel 1 - Feststellung der Eignung und der Erforderlichkeit der Realisierung von Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000300000)
 
 
 #### § 2 Feststellung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000400000)
 
 Die im Flächenentwicklungsplan vom 20. Januar 2023 festgelegten
 Flächen N-9.1, N.9.2 und N-9.3 in der deutschen ausschließlichen
@@ -90,6 +96,7 @@ See-Gesetzes geeignet.
 
 
 #### § 3 Feststellung der Erforderlichkeit der Realisierung von Windenergieanlagen auf See
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000500000)
 
 Die Realisierung von Windenergieanlagen auf See auf den Flächen N-9.1,
 N-9.2 und N-9.3 ist entsprechend § 1 Absatz 3 des Windenergie-auf-See-
@@ -98,12 +105,15 @@ Interesse der öffentlichen Sicherheit erforderlich.
 
 
 ### Kapitel 2 - Vorgaben für das spätere Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000400000)
 
 
 #### Abschnitt 1 - Besondere Vorgaben für die Fläche N-9.2
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000500000)
 
 
 ##### § 4 Ausschlusszonen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000600000)
 
 (1) Um das Schiffswrack mit dem Wrackmittelpunkt 54°24,3767'N,
 005°37,1008'E WGS84 ist eine Ausschlusszone mit einem Radius von 100
@@ -121,9 +131,11 @@ Schwerpunktkoordinate
 
 
 #### Abschnitt 2 - Besondere Vorgabe für die Fläche N-9.3
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000600000)
 
 
 ##### § 5 Ausschlusszone
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000700000)
 
 Um das Schiffswrack mit dem Wrackmittelpunkt 54°33.1555'N,
 005°50.2961'E WGS84 ist eine Ausschlusszone mit einem Radius von 50
@@ -131,9 +143,11 @@ Metern um den Wrackmittelpunkt einzuhalten.
 
 
 ## Teil 3 - Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000700000)
 
 
 ### § 6 Feststellung der zu installierenden Leistung
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000800000)
 
 (1) Die auf der Fläche N-9.1 zu installierende Leistung beträgt 2 000
 Megawatt.
@@ -146,9 +160,11 @@ Megawatt.
 
 
 ## Teil 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNG000800000)
 
 
 ### § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/windseev_4/BJNR0340A0024.html#BJNR0340A0024BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

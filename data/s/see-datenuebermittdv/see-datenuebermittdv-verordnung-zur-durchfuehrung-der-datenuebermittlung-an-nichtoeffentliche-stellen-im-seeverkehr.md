@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/see-daten_bermittdv/BJNR032910016.html#BJNR032910016BJNE000101119)
 
 (1) Diese Verordnung regelt die Übermittlung der in § 9e Absatz 1 Satz
 1 Nummer 1 und 6 des Seeaufgabengesetzes bezeichneten Daten durch die
@@ -52,6 +53,7 @@ der Wasser- und Schifffahrtsverwaltung des Bundes.
 
 
 ## § 2 Übermittlung und Nutzung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/see-daten_bermittdv/BJNR032910016.html#BJNR032910016BJNE000201119)
 
 (1) Die datenerhebende Stelle darf die bei ihr nach § 9e Absatz 1 Satz
 1 Nummer 1 und 6 des Seeaufgabengesetzes gespeicherten Daten an eine
@@ -99,6 +101,7 @@ Datenübermittlung auszuschließen.
 
 
 ## § 3 Verfahren der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/see-daten_bermittdv/BJNR032910016.html#BJNR032910016BJNE000300000)
 
 (1) Ersuchen zur Übermittlung von Daten sind von der nichtöffentlichen
 Stelle elektronisch oder in Papierform an die datenerhebende Stelle zu

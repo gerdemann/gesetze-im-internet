@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr2g/BJNR1460A0024.html#BJNR1460A0024BJNE000100000)
 
 (1) Dem Zweiten Staatsvertrag zur Änderung des IT-Staatsvertrags
 (Zweiter IT-Änderungsstaatsvertrag) zwischen der Bundesrepublik
@@ -33,6 +34,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr2g/BJNR1460A0024.html#BJNR1460A0024BJNE000200000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

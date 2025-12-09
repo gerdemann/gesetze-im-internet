@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000400308)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -31,10 +32,12 @@ Bildung und Wissenschaft verordnet:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNG000100308)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000500308)
 
 (1) Dem Thermometermacher-Handwerk sind folgende Tätigkeiten
 zuzurechnen:
@@ -112,10 +115,12 @@ Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNG000200308)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000600308)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -132,6 +137,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000700308)
 
 (1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten
 Arbeiten anzufertigen, entweder nach Nummer 1 bis 4 oder nach Nummer 5
@@ -203,6 +209,7 @@ Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000800308)
 
 (1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten
 auszuführen, entweder nach Nummer 1 bis 6 oder nach Nummer 7 bis 10:
@@ -277,6 +284,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE000900308)
 
 (1) Im Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern
 nachzuweisen:
@@ -371,16 +379,19 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNG000300308)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE001000308)
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 werden nach den bisherigen Vorschriften zu Ende geführt.
 
 
 ### § 7 Weitere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -390,10 +401,12 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE001201128)
 
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE001300308)
 
 (1) Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
@@ -403,6 +416,7 @@ nicht mehr anzuwenden.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/thermmstrv/BJNR011310989.html#BJNR011310989BJNE001400308)
 
 Der Bundesminister für Wirtschaft
 

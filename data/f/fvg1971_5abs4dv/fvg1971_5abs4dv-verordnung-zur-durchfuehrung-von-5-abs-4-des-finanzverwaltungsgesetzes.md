@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000000000)
 
 Auf Grund des § 5 Abs. 4 des Finanzverwaltungsgesetzes in der Fassung
 der Bekanntmachung vom 30. August 1971 (BGBl. I S. 1426, 1427), der
@@ -29,6 +30,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Abrechnung durch das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000101308)
 
 Die Mitfinanzierungsanteile der Länder und Gemeinden an den
 Altersvorsorgezulagen nach § 83 des Einkommensteuergesetzes sind
@@ -41,6 +43,7 @@ Einkommensteuergesetzes.
 
 
 ## § 2 Länderweise Aufteilung der Länder- und Gemeindeanteile
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000203377)
 
 (1) Grundlage für die Feststellung der Mitfinanzierungsanteile der
 Länder und Gemeinden bildet die von der Deutschen Rentenversicherung
@@ -64,6 +67,7 @@ Aufteilung zu.
 
 
 ## § 3 Erstattung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000300000)
 
 Die nach § 2 festgestellten Anteile der einzelnen Länder
 einschließlich ihrer Gemeinden sind von den Ländern bis zum 15. des
@@ -72,11 +76,13 @@ Lohnsteuertitels zu überweisen.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000400000)
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fvg1971_5abs4dv/BJNR340500002.html#BJNR340500002BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbgsauslano/BJNR033860974.html#BJNR033860974BJNE000100303)
 
 Auf Grund des § 76 des Bundesbeamtengesetzes ordne ich an:
 Die Dienstkleidung der bei den deutschen Auslandsvertretungen
@@ -33,12 +34,14 @@ Stoffen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbgsauslano/BJNR033860974.html#BJNR033860974BJNE000200303)
 
 Der Bundesminister des Auswärtigen wird ermächtigt,
 Ausführungsbestimmungen zu dieser Anordnung zu erlassen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bpr_skldgbgsauslano/BJNR033860974.html#BJNR033860974BJNE000300303)
 
 Die Anordnung tritt mit dem Tage der Unterzeichnung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/hyp_berlg/BJNR004290906.html#BJNR004290906BJNE000100304)
 
 Durch Landesgesetz kann bestimmt werden, daß ein zu der Zeit, zu
 welcher das Grundbuch als angelegt anzusehen ist, an einem Grundstücke

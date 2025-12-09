@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000100325)
 
 Auf Grund des § 17 Abs. 1 Nr. 3 des Gesetzes über die Eingliederung
 des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011)
@@ -27,6 +28,7 @@ Saarlandes:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000200325)
 
 (1) Forderungen und Verbindlichkeiten im Sinne dieser Verordnung sind
 auf französische Franken (Franken) lautende Forderungen und
@@ -44,6 +46,7 @@ ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000300325)
 
 (1) Forderungen und Verbindlichkeiten zwischen Personen im
 Geltungsbereich dieser Verordnung sowie Forderungen und
@@ -79,6 +82,7 @@ der Weise auf Deutsche Mark umgestellt, daß an Stelle von 100 Franken
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000400325)
 
 In Franken bleiben bestehen
 
@@ -95,6 +99,7 @@ In Franken bleiben bestehen
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000500325)
 
 (1) Auf Franken lautende Hypotheken werden in der Weise umgestellt,
 daß an Stelle von 100 Franken 0,8507 Deutsche Mark aus dem Grundstück
@@ -128,6 +133,7 @@ Bahneinheiten sinngemäß.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000600325)
 
 (1) Haben Gläubiger und Schuldner über die Umstellung von Forderungen,
 Verbindlichkeiten oder dinglichen Rechten vor dem Inkrafttreten der
@@ -144,6 +150,7 @@ Inkrafttreten dieser Verordnung bestehenden Rechtsverhältnissen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000700325)
 
 Vollstreckungstitel, die auf einen der Umstellung unterliegenden
 Geldbetrag lauten, sind in Deutscher Mark zu vollstrecken. Über
@@ -154,6 +161,7 @@ Zivilprozeßordnung.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000800325)
 
 Für die Anwendung dieser Verordnung gelten auf Reichsmark lautende,
 noch nicht auf Franken oder Deutsche Mark umgestellte
@@ -163,6 +171,7 @@ von einer Reichsmark treten zwanzig Franken.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE000900325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 19 des
@@ -170,6 +179,7 @@ Gesetzes über die Eingliederung des Saarlandes auch im Land Berlin.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/schuldsaarumstv/BJNR004030959.html#BJNR004030959BJNE001000325)
 
 Diese Verordnung tritt mit dem Ende der Übergangszeit in Kraft.
 

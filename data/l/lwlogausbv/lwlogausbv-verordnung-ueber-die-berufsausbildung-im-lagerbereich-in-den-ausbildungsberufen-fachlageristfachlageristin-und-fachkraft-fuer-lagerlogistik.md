@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -29,10 +30,12 @@ für Bildung und Forschung:
 
 
 ## Erster Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNG000100000)
 
 
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000300000)
 
 Die Ausbildungsberufe
 
@@ -47,6 +50,7 @@ werden staatlich anerkannt.
 
 
 ### § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000400000)
 
 Die Ausbildung dauert im Ausbildungsberuf Fachlagerist/Fachlageristin
 zwei Jahre und im Ausbildungsberuf Fachkraft für Lagerlogistik drei
@@ -54,6 +58,7 @@ Jahre.
 
 
 ### § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000500000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 so vermittelt werden, dass die Auszubildenden zur Ausübung einer
@@ -65,12 +70,14 @@ oder 13 und 14 nachzuweisen.
 
 
 ### § 4 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ### § 5 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000700000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -79,6 +86,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 6 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000800000)
 
 Die Berufsausbildung im Ausbildungsberuf Fachlagerist/Fachlageristin
 gemäß § 1 Nr. 1 kann nach den Vorschriften dieser Verordnung für das
@@ -87,10 +95,12 @@ gemäß § 1 Nr. 2 fortgesetzt werden.
 
 
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Fachlagerist/Fachlageristin
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNG000200000)
 
 
 
 ### § 7 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE000900000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -132,6 +142,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 8 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001000000)
 
 Die Fertigkeiten und Kenntnisse nach § 7 sollen nach den in der Anlage
 1 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der
@@ -142,6 +153,7 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ### § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001100000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres
@@ -173,6 +185,7 @@ bei der Arbeit sowie den Umweltschutz berücksichtigen kann.
 
 
 ### § 10 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001200000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -304,10 +317,12 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Fachkraft für Lagerlogistik
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNG000300000)
 
 
 
 ### § 11 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001300000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -349,6 +364,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ### § 12 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001400000)
 
 Die Fertigkeiten und Kenntnisse nach § 11 sollen nach den in der
 Anlage 2 enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -360,6 +376,7 @@ erfordern.
 
 
 ### § 13 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001500000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -405,6 +422,7 @@ folgende Gebiete in Betracht:
 
 
 ### § 14 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001600000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -591,10 +609,12 @@ nicht bestanden.
 
 
 ## Vierter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNG000400000)
 
 
 
 ### § 15 Nichtanwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001700000)
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Handelsfachpacker sind
@@ -602,6 +622,7 @@ vorbehaltlich des § 17 nicht mehr anzuwenden.
 
 
 ### § 16 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001800000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -610,11 +631,13 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 
 ### Anlage 1 (zu § 8)
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE002000000)
 
 (Fundstelle: BGBl. I 2004, 1892 - 1896)
 
@@ -1094,6 +1117,7 @@ zu vertiefen.
 
 
 ### Anlage 2 (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/lwlogausbv/BJNR188700004.html#BJNR188700004BJNE002100000)
 
 (Fundstelle: BGBl. I 2004, 1897 - 1901)
 

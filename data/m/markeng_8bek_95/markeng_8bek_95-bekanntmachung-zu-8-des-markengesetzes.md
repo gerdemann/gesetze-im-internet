@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_95/BJNR158700995.html#BJNR158700995BJNE000100310)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 5. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) werden die folgenden amtlichen Prüf-
@@ -38,11 +39,13 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1 Estnisches Kontrollzeichen für Gegenstände aus Edelmetall
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_95/BJNR158700995.html#BJNR158700995BJNE000200310)
 
 Fundstelle: BGBl. I 1995, 1587)
 ![bgbl1_1995_j1587_0010.jpg](bgbl1_1995_j1587_0010.jpg)
 
 ## Anlage 2 Estnisches Sicherheitszeichen für elektrische Geräte (blau oder schwarz)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_95/BJNR158700995.html#BJNR158700995BJNE000300310)
 
 Fundstelle: BGBl. I 1995, 1588)
 ![bgbl1_1995_j1588_0010.jpg](bgbl1_1995_j1588_0010.jpg)

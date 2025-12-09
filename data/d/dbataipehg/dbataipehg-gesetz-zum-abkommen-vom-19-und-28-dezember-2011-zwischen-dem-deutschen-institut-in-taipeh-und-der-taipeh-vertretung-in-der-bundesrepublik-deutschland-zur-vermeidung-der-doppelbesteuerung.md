@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbataipehg/BJNR207900012.html#BJNR207900012BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbataipehg/BJNR207900012.html#BJNR207900012BJNE000200000)
 
 (1) Dem in Berlin am 19. Dezember 2011 und in Taipeh am 28. Dezember
 2011 unterzeichneten Abkommen zwischen dem Deutschen Institut in
@@ -40,6 +42,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbataipehg/BJNR207900012.html#BJNR207900012BJNE000300000)
 
 (1) § 2 Absatz 1 der Abgabenordnung gilt für das Abkommen und das
 Protokoll zum Abkommen entsprechend.
@@ -50,6 +53,7 @@ Abkommen entsprechend.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbataipehg/BJNR207900012.html#BJNR207900012BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

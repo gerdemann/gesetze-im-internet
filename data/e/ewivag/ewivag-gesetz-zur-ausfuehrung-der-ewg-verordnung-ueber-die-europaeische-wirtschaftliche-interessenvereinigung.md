@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000100325)
 
 Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli
 1985 über die Schaffung einer Europäischen wirtschaftlichen
@@ -33,6 +34,7 @@ gilt als Handelsgesellschaft im Sinne des Handelsgesetzbuchs.
 
 
 ## § 2 Anmeldung zum Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000201307)
 
 (1) Die Vereinigung ist bei dem Gericht, in dessen Bezirk sie ihren im
 Gründungsvertrag genannten Sitz hat, zur Eintragung in das
@@ -101,6 +103,7 @@ Handelsregister hat zu enthalten:
 
 
 ## § 3 Besonderheiten der Handelsregisteranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000303140)
 
 (1) Die Anmeldungen zur Eintragung in das Handelsregister sind von den
 Geschäftsführern oder den Abwicklern vorzunehmen. Die Anmeldung zur
@@ -127,6 +130,7 @@ erfolgen.
 
 
 ## § 4 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000401377)
 
 (1) Das Gericht hat einen Verlegungsplan nach Artikel 14 Abs. 1 der
 Verordnung sowie die Abtretung der gesamten oder eines Teils der
@@ -142,6 +146,7 @@ Gemeinschaften mitzuteilen.
 
 
 ## § 5 Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000500325)
 
 (1) Die Geschäftsführer haben bei ihrer Geschäftsführung die Sorgfalt
 eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden.
@@ -159,6 +164,7 @@ trifft sie die Beweislast.
 
 
 ## § 6 Aufstellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000600325)
 
 Die Geschäftsführer sind verpflichtet, für die ordnungsmäßige
 Buchführung der Vereinigung zu sorgen und den Jahresabschluß
@@ -166,6 +172,7 @@ aufzustellen.
 
 
 ## § 7 Entlassung der Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000700325)
 
 Sind die Bedingungen für die Entlassung der Geschäftsführer nicht
 gemäß Artikel 19 Abs. 3 der Verordnung festgelegt, so ist die
@@ -174,6 +181,7 @@ der Entschädigungsansprüche aus bestehenden Verträgen.
 
 
 ## § 8 Ausscheiden eines Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000801307)
 
 Ein Mitglied scheidet außer aus den Gründen nach Artikel 28 Abs. 1
 Satz 1 der Verordnung aus der Vereinigung aus, wenn über sein Vermögen
@@ -181,11 +189,13 @@ das Insolvenzverfahren eröffnet wird.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE000901307)
 
 (weggefallen)
 
 
 ## § 10 Abwicklung der Vereinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001002377)
 
 (1) In den Fällen der Auflösung der Vereinigung außer im Fall des
 Insolvenzverfahrens über das Vermögen der Vereinigung erfolgt die
@@ -199,6 +209,7 @@ Verordnung, auf die Anmeldung zur Eintragung in das Handelsregister §
 
 
 ## § 11 Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001102140)
 
 Den Antrag auf Eröffnung des Insolvenzverfahrens können auch die
 Geschäftsführer stellen. Im Fall des § 15a Abs. 1 Satz 2 der
@@ -207,6 +218,7 @@ verpflichtet, diesen Antrag zu stellen.
 
 
 ## § 12 Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001201311)
 
 Geschäftsführer oder Abwickler, die Artikel 25 der Verordnung nicht
 befolgen, sind hierzu vom Registergericht durch Festsetzung von
@@ -216,6 +228,7 @@ Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht
 
 
 ## § 13 Falsche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001300325)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Geschäftsführer in der nach § 3 Abs. 3 Satz 1, auch
@@ -225,6 +238,7 @@ zweiter Halbsatz abzugebenden Versicherung falsche Angaben macht.
 
 
 ## § 14 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001400325)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis der Vereinigung, namentlich ein Betriebs-
@@ -246,22 +260,26 @@ Vertreter.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001502140)
 
 -
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001600325)
 
 -
 
 
 ## § 17 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001700325)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 18 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewivag/BJNR005140988.html#BJNR005140988BJNE001800325)
 
 Dieses Gesetz tritt am 1. Januar 1989 in Kraft.
 

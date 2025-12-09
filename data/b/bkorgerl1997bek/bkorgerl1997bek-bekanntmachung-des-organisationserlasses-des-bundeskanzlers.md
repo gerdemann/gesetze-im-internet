@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1997bek/BJNR006800998.html#BJNR006800998BJNE000100310)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
 17\. Dezember 1997 bekannt, der mit Wirkung vom gleichen Tage in Kraft
@@ -25,12 +26,14 @@ tritt:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1997bek/BJNR006800998.html#BJNR006800998BJNE000200310)
 
 Das Bundesministerium für Post und Telekommunikation wird mit dem
 Ablauf des 31. Dezember 1997 aufgelöst.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1997bek/BJNR006800998.html#BJNR006800998BJNE000300310)
 
 Mit Wirkung vom 1. Januar 1998 tritt folgendes in Kraft:
 
@@ -66,6 +69,7 @@ Mit Wirkung vom 1. Januar 1998 tritt folgendes in Kraft:
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1997bek/BJNR006800998.html#BJNR006800998BJNE000400310)
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten
 Bundesministern geregelt und dem Chef des Bundeskanzleramtes
@@ -73,6 +77,7 @@ mitgeteilt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl1997bek/BJNR006800998.html#BJNR006800998BJNE000500310)
 
 Der Chef des Bundeskanzleramtes
 

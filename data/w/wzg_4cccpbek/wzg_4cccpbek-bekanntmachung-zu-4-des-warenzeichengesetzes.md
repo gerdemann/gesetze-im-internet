@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cccpbek/BJNR102120968.html#BJNR102120968BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) wird in der
@@ -29,11 +30,13 @@ der Union der Sozialistischen Sowjetrepubliken eingeführt ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cccpbek/BJNR102120968.html#BJNR102120968BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4cccpbek/BJNR102120968.html#BJNR102120968BJNE000200303)
 
 (Fundstelle: BGBl. I 1968, 212)
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung

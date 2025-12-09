@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000100314)
 
 Auf Grund des § 1 Abs. 2 des
 Verkehrswegeplanungsbeschleunigungsgesetzes vom 16. Dezember 1991
@@ -27,6 +28,7 @@ Verkehrswegeplanungsbeschleunigungsgesetzes vom 16. Dezember 1991
 
 
 ## § 1 Verkehrswege der Eisenbahnen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000201314)
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des
 Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden
@@ -84,6 +86,7 @@ Verkehrswege der Eisenbahnen des Bundes:
 
 
 ## § 2 Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000302308)
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des
 Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden
@@ -226,6 +229,7 @@ Bundesfernstraßen:
 
 
 ## § 3 Bundeswasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000400314)
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des
 Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden
@@ -243,11 +247,13 @@ Bundeswasserstraßen:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000500314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fverkwbv/BJNR010140992.html#BJNR010140992BJNE000600314)
 
 Der Bundesrat hat zugestimmt.
 

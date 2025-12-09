@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35gbrbek_1991/BJNR108070991.html#BJNR108070991BJNE000100307)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
 in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1,
@@ -32,6 +33,7 @@ nachgesucht und erhalten haben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35gbrbek_1991/BJNR108070991.html#BJNR108070991BJNE000200307)
 
 Der Bundesminister der Justiz
 

@@ -25,6 +25,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000100000)
 
 Auf Grund des § 66 Abs. 2 des Lebensmittel- und
 Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
@@ -33,6 +34,7 @@ Ernährung, Landwirtschaft und Verbraucherschutz:
 
 
 ## § 1 Erhebungsmerkmale, Berichtszeitraum, Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000204119)
 
 Die nach § 66 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches
 zu führende Statistik erfasst
@@ -127,6 +129,7 @@ Kalenderjahr, danach jeweils für die Kalenderhalbjahre durchgeführt.
 
 
 ## § 2 Übermittlung der Erhebungskataloge
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000301311)
 
 Das Statistische Bundesamt stellt den für die Durchführung der in § 1
 Satz 1 genannten Untersuchungen und Kontrollen zuständigen Behörden
@@ -138,6 +141,7 @@ elektronisch zur Verfügung gestellt.
 
 
 ## § 3 Auskunftspflichtige, ergänzende Angaben, Form der Übermittlung an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000401311)
 
 (1) Die für die in § 1 Satz 1 genannten Untersuchungen und Kontrollen
 zuständigen Behörden übermitteln dem Statistischen Bundesamt unter
@@ -156,6 +160,7 @@ Datensatzformate, die technischen Übermittlungsformate und die
 
 
 ## § 4 Aufbereitung der Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000502311)
 
 (1) Das Statistische Bundesamt bereitet die Ergebnisse der Statistik,
 auch nach Ländern gegliedert, auf und veröffentlicht sie.
@@ -181,10 +186,12 @@ Rahmen der Risikobewertung übermitteln.
 
 
 ## § 5 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000601311)
 
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/flustatv/BJNR218700006.html#BJNR218700006BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

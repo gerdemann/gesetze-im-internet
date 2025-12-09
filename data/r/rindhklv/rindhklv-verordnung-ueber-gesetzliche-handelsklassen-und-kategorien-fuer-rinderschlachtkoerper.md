@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000103119)
 
 (1) Für ganze, halbe und viertel Schlachtkörper von Rindern gelten die
 in Anhang IV Teil A und Anhang VII Teil I der Verordnung (EU) Nr.
@@ -41,6 +42,7 @@ zum Schlachtzeitpunkt mindestens acht Monate alt waren.
 
 
 ## § 2 Einstufung in Handelsklassen
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000203119)
 
 (1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes,
 die pro Woche durchschnittlich mehr als 150 Rinder schlachten oder
@@ -79,6 +81,7 @@ Handelsklassen und Kategorien ist nicht zulässig.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000303125)
 
 (1) Klassifizierte Rinderschlachtkörper sind vom Klassifizierer
 deutlich lesbar durch Stempelaufdruck oder durch von der Landesbehörde
@@ -112,6 +115,7 @@ zu kennzeichnen.
 
 
 ## § 3a Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000800119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -119,6 +123,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000404119)
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -157,10 +162,12 @@ er vorsätzlich oder fahrlässig
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000501377)
 
 
 
 ## § 6 Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000700125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -196,6 +203,7 @@ prüfen zu lassen und Auskünfte zu erteilen.
 (zu § 1)
 
 ## Anlage I. Fleischigkeitsklassen
+[Direktlink](https://www.gesetze-im-internet.de/rindhklv/BJNR219600008.html#BJNR219600008BJNE000600000)
 
 (Fundstelle: BGBl. I 2008, 2197)
 

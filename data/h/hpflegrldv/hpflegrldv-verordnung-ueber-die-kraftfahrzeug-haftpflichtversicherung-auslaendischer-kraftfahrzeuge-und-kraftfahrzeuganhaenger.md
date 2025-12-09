@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE000100314)
 
 Auf Grund der §§ 7a, 8 Abs. 2 und § 8a Abs. 1 des Gesetzes über die
 Haftpflichtversicherung für ausländische Kraftfahrzeuge und
@@ -31,13 +32,16 @@ Anhörung der obersten Landesbehörden verordnet:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000100314)
 
 
 
 ### Abschnitt 1 - Ausnahmen von der Pflicht zum Mitführen und Aushändigen eines Versicherungsnachweises bei Fahrzeugen aus anderen Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000202123)
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE000207123)
 
 Von der Pflicht zum Mitführen und Aushändigen des
 Versicherungsnachweises nach § 12 Absatz 1 des Auslandsfahrzeug-
@@ -97,6 +101,7 @@ ausgenommen:
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE000305123)
 
 Die Ausnahme nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage
 zu dieser Verordnung aufgeführten Kraftfahrzeuge und
@@ -104,9 +109,11 @@ Kraftfahrzeuganhänger.
 
 
 ### Abschnitt 2 - Ausnahmen von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises bei Fahrzeugen aus anderen Vertragsstaaten des Europäischen Wirtschaftsraums und aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000302123)
 
 
 ### § 3 Ausnahmen von der Pflicht zum Mitführen und Aushändigen des Versicherungsnachweises
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE000908123)
 
 (1) Von der Pflicht zum Mitführen und Aushändigen des
 Versicherungsnachweises nach § 12 Absatz 1 des Auslandsfahrzeug-
@@ -177,25 +184,30 @@ Zugmaschinen, ihre Anhänger sowie landwirtschaftliche Arbeitsgeräte.
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000400314)
 
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000501311)
 
 (weggefallen)
 
 
 ## Art 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNG000600314)
 
 Diese Verordnung tritt am 15. Mai 1974 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE001100314)
 
 Der Bundesminister für Verkehr
 
 
 ## Anlage (zu § 2)
+[Direktlink](https://www.gesetze-im-internet.de/hpflegrldv/BJNR010629974.html#BJNR010629974BJNE001200308)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158
 **Zypern**

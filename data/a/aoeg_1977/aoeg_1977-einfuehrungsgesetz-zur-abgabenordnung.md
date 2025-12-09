@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000100319)
 
 
 
 ### Art 1 bis 6 - 
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000200319)
 
 
 
 ### Art 7 - Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG001201123)
 
 (1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
 der Einheitswerte auf den 1. Januar 1977 statt (Hauptfeststellung
@@ -44,26 +47,32 @@ Feststellungen auf den 1. Januar 2024.
 
 
 ### Art 8 bis 38 - 
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG001300306)
 
 
 
 ## Zweiter Abschnitt - Anpassung weiterer Bundesgesetze
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000300319)
 
 
 
 ### Art 39 bis 96 - 
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000400319)
 
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000500319)
 
 
 
 ### Art 97 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000600319)
 
 
 
 ### § 1 Begonnene Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE001314123)
 
 (1) Verfahren, die am 1. Januar 1977 anhängig sind, werden nach den
 Vorschriften der Abgabenordnung zu Ende geführt, soweit in den
@@ -167,6 +176,7 @@ Abruf bereit gestellt werden.
 
 
 ### § 1a Steuerlich unschädliche Betätigungen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003404301)
 
 (1) § 58 Nr. 1 der Abgabenordnung in der Fassung des Artikels 1 des
 Gesetzes vom 21. Juli 2004 (BGBl. I S. 1753) ist ab dem 1. Januar 2001
@@ -183,6 +193,7 @@ S. 1034) sind ab dem 1. Januar 2000 anzuwenden.
 
 
 ### § 1b Steuerpflichtige wirtschaftliche Geschäftsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005600301)
 
 § 64 Abs. 6 der Abgabenordnung in der Fassung des Artikels 5 des
 Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar
@@ -190,6 +201,7 @@ Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar
 
 
 ### § 1c Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003503301)
 
 (1) § 67 Abs. 1 der Abgabenordnung in der Fassung des
 Steuerbereinigungsgesetzes 1986 ist ab dem 1. Januar 1986 anzuwenden.
@@ -208,6 +220,7 @@ Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist ab dem 1. Januar
 
 
 ### § 1d Steuerbegünstigte Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003904140)
 
 (1) Die §§ 52, 58, 61, 64 und 67a der Abgabenordnung in der Fassung
 des Artikels 5 des Gesetzes vom 10. Oktober 2007 (BGBl. I S. 2332)
@@ -228,6 +241,7 @@ Vorbehalt der Nachprüfung stehen.
 
 
 ### § 1e Zweckbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004602301)
 
 (1) § 68 Abs. 6 der Abgabenordnung in der Fassung des Artikels 5 des
 Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist mit Wirkung vom
@@ -252,6 +266,7 @@ Vorbehalt der Nachprüfung stehen.
 
 
 ### § 1f Satzung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006001140)
 
 (1) § 62 der Abgabenordnung in der Fassung des Artikels 10 des
 Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt für alle
@@ -271,6 +286,7 @@ Dezember 2008 wirksam werden, anzuwenden.
 
 
 ### § 2 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE001400319)
 
 Fristen, deren Lauf vor dem 1. Januar 1977 begonnen hat, werden nach
 den bisherigen Vorschriften berechnet, soweit in den nachfolgenden
@@ -281,6 +297,7 @@ Reichsabgabenordnung hinausgeschoben worden ist.
 
 
 ### § 3 Grunderwerbsteuer, Feuerschutzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE001501306)
 
 (1) Die Abgabenordnung und die Übergangsvorschriften dieses Artikels
 gelten auch für die Grunderwerbsteuer und die Feuerschutzsteuer;
@@ -292,6 +309,7 @@ gilt § 1 Abs. 2 der Abgabenordnung sinngemäß.
 
 
 ### § 4 Mitteilungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE001701301)
 
 § 7 Abs. 2 Satz 1 der Mitteilungsverordnung vom 7. September 1993
 (BGBl. I S. 1554) in der Fassung des Artikels 25 des Gesetzes vom 19.
@@ -300,6 +318,7 @@ geleistete Zahlungen anzuwenden.
 
 
 ### § 5 Zeitpunkt der Einführung des steuerlichen Identifikationsmerkmals
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005902123)
 
 (1) Das Bundesministerium der Finanzen bestimmt durch Rechtsverordnung
 mit Zustimmung des Bundesrates den Zeitpunkt der Einführung des
@@ -325,6 +344,7 @@ Identifikationsnummer im Bundesgesetzblatt Teil I bekannt.
 
 
 ### § 5a Identifikationsnummer und Wirtschafts-Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008301123)
 
 (1) § 139b Absatz 8 der Abgabenordnung in der Fassung des Artikels 26
 des Gesetzes vom 16. Dezember 2022 (BGBl. I S. 2294) ist ab dem Tag
@@ -351,6 +371,7 @@ Altgerichts jeweils vorliegen.
 
 
 ### § 6 Zahlungszeitpunkt bei Scheckzahlung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006100301)
 
 § 224 Abs. 2 Nr. 1 der Abgabenordnung in der Fassung des Artikels 10
 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt erstmals,
@@ -359,6 +380,7 @@ eingegangen ist.
 
 
 ### § 7 Missbrauch von rechtlichen Gestaltungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006200301)
 
 § 42 der Abgabenordnung in der Fassung des Artikels 14 des Gesetzes
 vom 20. Dezember 2007 (BGBl. I S. 3150) ist ab dem 1. Januar 2008 für
@@ -369,6 +391,7 @@ anzuwenden.
 
 
 ### § 8 Verspätungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002007123)
 
 (1) Die Vorschriften des § 152 der Abgabenordnung über
 Verspätungszuschläge sind erstmals auf Steuererklärungen anzuwenden,
@@ -426,6 +449,7 @@ zur gesonderten Feststellung des Grundsteuerwerts auf den 1. Januar
 
 
 ### § 9 Aufhebung und Änderung von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002204123)
 
 (1) Die Vorschriften der Abgabenordnung über die Aufhebung und
 Änderung von Verwaltungsakten sind erstmals anzuwenden, wenn nach dem
@@ -466,6 +490,7 @@ haben.
 
 
 ### § 9a Absehen von Steuerfestsetzung, Abrundung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005501377)
 
 (1) Die Vorschriften der Kleinbetragsverordnung vom 10. Dezember 1980
 (BGBl. I S. 2255) in der Fassung des Artikels 26 des Gesetzes vom 19.
@@ -488,6 +513,7 @@ geltenden Fassung weiter anzuwenden.
 
 
 ### § 10 Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002314123)
 
 (1) Die Vorschriften der Abgabenordnung über die
 Festsetzungsverjährung gelten erstmals für die Festsetzung sowie für
@@ -570,6 +596,7 @@ Festsetzungsfristen.
 
 
 ### § 10a Erklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003705123)
 
 (1) § 150 Absatz 7 der Abgabenordnung in der Fassung des Artikels 3
 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals für
@@ -601,6 +628,7 @@ dem 21. Dezember 2022 abgegeben werden.
 
 
 ### § 10b Gesonderte Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004303123)
 
 § 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung
 in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993
@@ -617,6 +645,7 @@ anzuwenden.
 
 
 ### § 10c Billigkeitsmaßnahmen bei der Festsetzung des Gewerbesteuermessbetrags
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006901377)
 
 § 184 Absatz 2 der Abgabenordnung in der Fassung des Artikels 1 des
 Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) ist auch für nach dem
@@ -626,6 +655,7 @@ vor dem 1. Januar 2015 abgelaufen sind.
 
 
 ### § 11 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002404123)
 
 (1) Die Vorschriften der §§ 69 bis 76 und 191 Abs. 3 bis 5 der
 Abgabenordnung sind anzuwenden, wenn der haftungsbegründende
@@ -649,6 +679,7 @@ Steuervergütung.
 
 
 ### § 11a Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005001301)
 
 In einem Insolvenzverfahren, das nach dem 31. Dezember 1998 beantragt
 wird, gelten § 75 Abs. 2, § 171 Abs. 12 und 13, § 231 Abs. 1 Satz 1
@@ -667,6 +698,7 @@ Vergleichsantrag vor dem 1. Januar 1999 gestellt worden ist.
 
 
 ### § 11b Anfechtung außerhalb des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005200301)
 
 § 191 Abs. 1 Satz 2 der Abgabenordnung in der Fassung des Artikels 17
 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2601) ist mit Wirkung
@@ -678,6 +710,7 @@ gleichsteht.
 
 
 ### § 12 Verbindliche Zusagen auf Grund einer Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002500319)
 
 Die Vorschriften der Abgabenordnung über verbindliche Zusagen auf
 Grund einer Außenprüfung (§§ 204 bis 207) sind anzuwenden, wenn die
@@ -687,6 +720,7 @@ Prüfungsbericht nach dem 31. Dezember 1976 zugegangen ist.
 
 
 ### § 13 Sicherungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002600319)
 
 Die Vorschriften des § 203 der Reichsabgabenordnung sind auch nach dem
 31\. Dezember 1976 anzuwenden, soweit die dort genannten besonderen
@@ -696,6 +730,7 @@ der Finanzgerichtsordnung nicht anzuwenden.
 
 
 ### § 13a Änderung widerstreitender Abrechnungsbescheide und Anrechnungsverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007000377)
 
 § 218 Absatz 3 der Abgabenordnung in der Fassung des Artikels 1 des
 Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) gilt ab dem 31.
@@ -705,6 +740,7 @@ sind.
 
 
 ### § 14 Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002705123)
 
 (1) Die Vorschriften der Abgabenordnung über die Zahlungsverjährung
 gelten für alle Ansprüche im Sinne des § 228 Satz 1 der
@@ -743,6 +779,7 @@ abgelaufenen Verjährungsfristen.
 
 
 ### § 15 Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002815123)
 
 (1) Zinsen entstehen für die Zeit nach dem 31. Dezember 1976 nach den
 Vorschriften der Abgabenordnung. Aussetzungszinsen entstehen nach §
@@ -850,6 +887,7 @@ festgesetzt werden.
 
 
 ### § 16 Säumniszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE002904301)
 
 (1) Die Vorschriften des § 240 der Abgabenordnung über
 Säumniszuschläge sind erstmals auf Säumniszuschläge anzuwenden, die
@@ -904,6 +942,7 @@ Haftungsschuld nach dem 31. Dezember 2003 fällig geworden ist.
 
 
 ### § 17 Angabe des Schuldgrunds
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003000319)
 
 Für die Anwendung des § 260 der Abgabenordnung auf Ansprüche, die bis
 zum 31. Dezember 1980 entstanden sind, gilt folgendes:
@@ -915,6 +954,7 @@ auf den Kontoauszug Bezug nimmt, der den Rückstand ausweist.
 
 
 ### § 17a Kosten der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003801377)
 
 Die Höhe der Gebühren und Auslagen im Vollstreckungsverfahren richtet
 sich nach dem Recht, das in dem Zeitpunkt gilt, in dem der Tatbestand
@@ -923,6 +963,7 @@ oder der Auslage knüpft.
 
 
 ### § 17b Eidesstattliche Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004700301)
 
 § 284 Abs. 1 Nr. 3 und 4 der Abgabenordnung in der Fassung des
 Artikels 2 Abs. 11 Nr. 1 Buchstabe a des Zweiten Gesetzes zur Änderung
@@ -933,6 +974,7 @@ Gesetzes versucht hat.
 
 
 ### § 17c Pfändung fortlaufender Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004800301)
 
 § 313 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 Abs. 11
 Nr. 3 des Zweiten Gesetzes zur Änderung
@@ -942,6 +984,7 @@ vor Inkrafttreten dieses Gesetzes beendet waren.
 
 
 ### § 17d Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005300301)
 
 § 329 der Abgabenordnung in der Fassung des Artikels 17 des Gesetzes
 vom 22. Dezember 1999 (BGBl. I S. 2601) gilt in allen Fällen, in denen
@@ -949,6 +992,7 @@ ein Zwangsgeld nach dem 31. Dezember 1999 angedroht wird.
 
 
 ### § 17e Aufteilung einer Gesamtschuld bei Ehegatten oder Lebenspartnern
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006602377)
 
 (1) Die §§ 270, 273 Absatz 1 und § 279 Absatz 2 Nummer 4 der
 Abgabenordnung in der Fassung des Artikels 3 des Gesetzes vom 1.
@@ -964,6 +1008,7 @@ entsprechend.
 
 
 ### § 18 Außergerichtliche Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003101301)
 
 (1) Wird ein Verwaltungsakt angefochten, der vor dem 1. Januar 1977
 wirksam geworden ist, bestimmt sich die Zulässigkeit des
@@ -992,6 +1037,7 @@ dem 31. Dezember 1995 bekanntgegeben werden.
 
 
 ### § 18a Erledigung von Massenrechtsbehelfen und Massenanträgen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004402113)
 
 (1) Wurde mit einem vor dem 1. Januar 1995 eingelegten Einspruch die
 Verfassungswidrigkeit von Normen des Steuerrechts gerügt, derentwegen
@@ -1133,6 +1179,7 @@ oder eingelegt wurden und die Allgemeinverfügung nach dem 19. Dezember
 
 
 ### § 18b Zuständigkeit für Klagen nach § 32i Absatz 2 der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008200123)
 
 § 32i Absatz 5 Satz 2 der Abgabenordnung in der am 21. Dezember 2022
 geltenden Fassung ist auf alle nach dem 20. Dezember 2022 anhängig
@@ -1140,6 +1187,7 @@ gewordenen Klagen anzuwenden.
 
 
 ### § 19 Buchführungspflicht bestimmter Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003209123)
 
 (1) § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung in der am 1.
 Januar 2016 geltenden Fassung ist auf Umsätze der Kalenderjahre
@@ -1184,6 +1232,7 @@ Fassung nicht erfüllt sind.
 
 
 ### § 19a Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004902123)
 
 (1)§ 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des
 Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für
@@ -1224,6 +1273,7 @@ Fassung am 1. Januar 2026 noch nicht abgelaufen ist.
 
 
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005401123)
 
 (1) § 146 Abs. 5, § 147 Abs. 2, 5 und 6 sowie § 200 Abs. 1 der
 Abgabenordnung in der Fassung des Artikels 7 des Gesetzes vom 23.
@@ -1236,6 +1286,7 @@ Aufbewahrungsfrist bis zum 1. Januar 2020 noch nicht abgelaufen ist.
 
 
 ### § 20 Verweisungserfordernis bei Blankettvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE003300319)
 
 Die in § 381 Abs. 1, § 382 Abs. 1 der Abgabenordnung vorgeschriebene
 Verweisung ist nicht erforderlich, soweit die Vorschriften der dort
@@ -1244,6 +1295,7 @@ erlassen sind.
 
 
 ### § 21 Steueranmeldungen in Euro
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005100301)
 
 Für Besteuerungszeiträume nach dem 31. Dezember 1998 und vor dem 1.
 Januar 2002 ist § 168 der Abgabenordnung mit folgender Maßgabe
@@ -1260,6 +1312,7 @@ erforderlich.
 
 
 ### § 22 Mitwirkungspflichten der Beteiligten; Schätzung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005804123)
 
 (1) § 90 Abs. 3 der Abgabenordnung in der Fassung des Artikels 9 des
 Gesetzes vom 16. Mai 2003 (BGBl. I S. 660) ist erstmals für
@@ -1304,6 +1357,7 @@ beginnen.
 
 
 ### § 23 Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006400140)
 
 § 376 der Abgabenordnung in der Fassung des Artikels 10 des Gesetzes
 vom 19. Dezember 2008 (BGBl. I S. 2794) gilt für alle bei
@@ -1312,6 +1366,7 @@ Verjährungsfristen.
 
 
 ### § 24 Selbstanzeige bei Steuerhinterziehung und leichtfertiger Steuerverkürzung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006500140)
 
 Bei Selbstanzeigen nach § 371 der Abgabenordnung, die bis zum 28.
 April 2011 bei der zuständigen Finanzbehörde eingegangen sind, ist §
@@ -1324,6 +1379,7 @@ der Abgabenordnung.
 
 
 ### § 25 Erteilung einer verbindlichen Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006701377)
 
 (1) § 89 Absatz 3 bis 7 der Abgabenordnung in der Fassung des Artikels
 3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals auf
@@ -1340,6 +1396,7 @@ einheitlichen verbindlichen Auskunft anzuwenden.
 
 
 ### § 26 Kontenabrufmöglichkeit und Kontenwahrheit
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE006802123)
 
 (1) § 93 Absatz 7 Satz 1 Nummer 2 der Abgabenordnung in der am 31.
 Dezember 2011 geltenden Fassung ist für Veranlagungszeiträume vor 2012
@@ -1420,6 +1477,7 @@ Januar 2018 noch bestehen, gilt Folgendes:
 
 
 ### § 27 Elektronische Datenübermittlung an Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007103123)
 
 (1) § 72a Absatz 1 bis 3, § 87a Absatz 6, die §§ 87b bis 87e und 150
 Absatz 6 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
@@ -1460,6 +1518,7 @@ nach dem 5. Dezember 2024 erlassen worden sind.
 
 
 ### § 28 Elektronische Bekanntgabe von Verwaltungsakten
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007200377)
 
 § 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung
 in der am 1. Januar 2017 geltenden Fassung sind erstmals auf
@@ -1468,6 +1527,7 @@ worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
 
 
 ### § 29 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007300377)
 
 § 163 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
 ist für nach dem 31. Dezember 2016 getroffene Billigkeitsmaßnahmen
@@ -1477,6 +1537,7 @@ abgelaufen oder eingetreten sind.
 
 
 ### § 30 Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007501116)
 
 (1) Die §§ 146a und 379 Absatz 1 Satz 1 und Absatz 4 der
 Abgabenordnung in der am 29. Dezember 2016 geltenden Fassung sowie §
@@ -1509,6 +1570,7 @@ und Absatz 4 der Abgabenordnung weiter verwendet werden.
 
 
 ### § 31 Länderbezogener Bericht multinationaler Unternehmensgruppen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007401123)
 
 § 138a Absatz 1, 2, 3, 6 und 7 der Abgabenordnung in der am 24.
 Dezember 2016 geltenden Fassung ist erstmals für Wirtschaftsjahre
@@ -1521,6 +1583,7 @@ anzuwenden.
 
 
 ### § 32 Mitteilungspflicht über Beziehungen zu Drittstaat-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007601123)
 
 (1) § 138 Absatz 2 bis 5, § 138b und § 379 Absatz 2 Nummer 1d der
 Abgabenordnung in der am 25. Juni 2017 geltenden Fassung sind erstmals
@@ -1548,6 +1611,7 @@ diesem Fall entsprechend.
 
 
 ### § 33 Mitteilungspflicht bei Steuergestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007702123)
 
 (1) § 102 Absatz 4 Satz 3 und die §§ 138d bis 138k der Abgabenordnung
 in der am 1. Januar 2020 geltenden Fassung sind ab dem 1. Juli 2020 in
@@ -1611,6 +1675,7 @@ Vorschriften anhängigen Verfahren anzuwenden.
 
 
 ### § 34 Vorabverständigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE007802123)
 
 § 89a der Abgabenordnung in der am 9. Juni 2021 geltenden Fassung ist
 erstmals auf Anträge anzuwenden, die nach dem 8. Juni 2021 bei der
@@ -1621,6 +1686,7 @@ zuständigen Behörde eingegangen sind.
 
 
 ### § 35 Abrufverfahren bei Steuermessbeträgen und Zerlegungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008001123)
 
 § 184 Absatz 3 Satz 2 und § 188 Absatz 1 Satz 2 der Abgabenordnung
 finden erstmals für die Steuermessbeträge und Zerlegungsbescheide
@@ -1632,6 +1698,7 @@ aber ab dem 1. Januar 2025.
 
 
 ### § 36 Sonderregelungen auf Grund der Corona-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008102123)
 
 (1) § 149 Absatz 3 der Abgabenordnung in der am 19. Februar 2021
 geltenden Fassung ist für den Besteuerungszeitraum 2019 mit der
@@ -1803,6 +1870,7 @@ Fassung mit folgenden Maßgaben anzuwenden:
 
 
 ### § 37 Modernisierung der Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008401123)
 
 (1) Die durch Artikel 3 des Gesetzes vom 20. Dezember 2022 (BGBl. I S.
 2730) geänderten Vorschriften der Abgabenordnung sind auf alle am 1.
@@ -1856,6 +1924,7 @@ anzuwenden.
 
 
 ### § 38 Erprobung alternativer Prüfungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008500123)
 
 (1) Soweit im Rahmen einer Außenprüfung eines Steuerpflichtigen nach
 den §§ 193 bis 202 der Abgabenordnung die Wirksamkeit eines von ihm
@@ -1896,6 +1965,7 @@ mitzuteilen.
 
 
 ### § 39 Übergangs- und Anwendungsbestimmungen anlässlich der steuerverfahrensrechtlichen Umsetzung der Reform des Personengesellschaftsrechts
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE008601123)
 
 (1) § 152 Absatz 4 Satz 3 und § 181 Absatz 2 Satz 2 Nummer 1 und 4 der
 Abgabenordnung in der am 1. Januar 2024 geltenden Fassung sind
@@ -1965,10 +2035,12 @@ entstanden ist.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG001400309)
 
 
 
 ### § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004005301)
 
 (1) Für vor dem 1. Januar 1991 nach dem Recht der Bundesrepublik
 Deutschland oder der Deutschen Demokratischen Republik entstandene
@@ -1993,6 +2065,7 @@ Rechtsbehelfsverfahren.
 
 
 ### § 2 Überleitungsbestimmungen für die Anwendung der Abgabenordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004101123)
 
 Für die Anwendung der Abgabenordnung in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet gilt folgendes:
@@ -2134,6 +2207,7 @@ Einigungsvertrages genannten Gebiet gilt folgendes:
 
 
 ### § 3 Festsetzungsverjährung und D-Markbilanzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004500301)
 
 (1) Bei Steuerpflichtigen, die nach dem D-Markbilanzgesetz vom 31.
 August 1990 in der Fassung vom 28. Juli 1994 (BGBl. I S. 1842) eine
@@ -2159,6 +2233,7 @@ des § 71 der Abgabenordnung zehn Jahre.
 
 
 ### § 4 Verrechnung der für das zweite Halbjahr 1990 gezahlten Vermögensteuer
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE004201301)
 
 Die nach der Verordnung vom 27. Juni 1990 (GBl. I Nr. 41 S. 618) in
 der zusammengefaßten Steuerrate für das zweite Halbjahr 1990 gezahlte
@@ -2169,11 +2244,13 @@ Betriebe und Einrichtungen zu verrechnen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNE005701301)
 
 (weggefallen)
 
 
 ### Art 98 - 
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000700319)
 
 Soweit in Rechtsvorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz aufgehoben werden, treten an deren Stelle die
@@ -2181,6 +2258,7 @@ entsprechenden Vorschriften der Abgabenordnung.
 
 
 ### Art 99 - Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000801301)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung in den Fällen, in denen Verbrauchsteuergesetze für
@@ -2221,11 +2299,13 @@ nicht der Zustimmung des Bundesrates.
 
 
 ### Art 100 - 
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG000901301)
 
 -
 
 
 ### Art 101 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG001000319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
@@ -2235,6 +2315,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### Art 102 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/a_g_1977/BJNR033419976.html#BJNR033419976BJNG001100319)
 
 (1) Dieses Gesetz tritt am 1. Januar 1977 in Kraft, soweit nichts
 anderes bestimmt ist.

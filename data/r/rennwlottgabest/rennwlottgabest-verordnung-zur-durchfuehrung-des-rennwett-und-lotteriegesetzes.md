@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007300306)
 
 Auf Grund der §§ 3, 4 Abs. 1 Satz 3, § 13 Abs. 2, §§ 15, 20, 22, 25
 des Rennwett- und Lotteriegesetzes vom 8. April 1922 (Reichsgesetzbl.
@@ -28,20 +29,24 @@ folgendes bestimmt:
 
 
 ## A. - Ordnungsrechtlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG000101123)
 
 
 
 ### I. - Erteilung der Erlaubnis für Rennwetten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG000201123)
 
 
 
 #### § 1 Erlaubnisempfänger
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007402123)
 
 Die Erlaubnis zum Abschluss und zur Vermittlung von Rennwetten darf
 nur Betreibern von Totalisatoren und Buchmachern erteilt werden.
 
 
 #### § 2 Voraussetzungen für die Erteilung der Erlaubnis zum Betrieb eines Totalisators
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007502123)
 
 (1) Zum Betrieb eines Totalisators darf nur ein Renn- oder
 Pferdezuchtverein (Verein) zugelassen werden.
@@ -98,6 +103,7 @@ ist auf der Rennbahn ein bestimmter Platz anzuweisen.
 
 
 #### § 3 Voraussetzungen für die Erteilung der Erlaubnis an Buchmacher
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007602123)
 
 (1) Als Buchmacher darf nur zugelassen werden, wer den Nachweis
 erbringt, daß er seiner Person nach die Gewähr für eine einwandfreie
@@ -129,6 +135,7 @@ zuständig ist, freigegeben werden.
 
 
 #### § 4 Besondere Bestimmungen für Totalisatorbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007803123)
 
 Dem Verein ist vorzuschreiben, auf welchen Plätzen der Rennbahn der
 Totalisator aufgestellt werden darf und welches der Mindestbetrag der
@@ -140,6 +147,7 @@ zuständige Behörde.
 
 
 #### § 5 Besondere Bestimmungen für Buchmacher
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE007902123)
 
 (1) Den Buchmachern ist vorzuschreiben, welchen Beschränkungen sie und
 ihre Gehilfen (§ 3 Absatz 2) sich bei Ausübung ihres Gewerbes auf dem
@@ -164,6 +172,7 @@ sind.
 
 
 #### § 6 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008103123)
 
 Die Erteilung der Erlaubnis an Vereine zum Betrieb eines Totalisators
 und an Buchmacher zum Betrieb eines Wettunternehmens, die Beschränkung
@@ -174,6 +183,7 @@ Erlaubnis zu unterrichten.
 
 
 #### § 7 Abschluss der Wette beim Totalisator
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008201123)
 
 Die von dem Veranstalter und den Annahmestellen eines Totalisators dem
 Wettnehmer auszuhändigenden Urkunden (Totalisatorausweise, Tickets)
@@ -197,6 +207,7 @@ d)  den Namen des Unternehmers.
 
 
 #### § 8 Abschluss der Wetten beim Buchmacher
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008303123)
 
 (1) Der Buchmacher und die Buchmachergehilfen haben über jede
 angenommene Wette einen dem Wettenden auszuhändigenden Wettschein
@@ -244,10 +255,12 @@ enthalten.
 
 
 ### II. - Abschluss der Rennwette
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG001301123)
 
 
 
 #### § 9 Aufbewahrungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008401123)
 
 Die im Besitz des Buchmachers verbleibenden Duplikate der Wettscheine
 oder demselben Zweck dienende vergleichbare schriftliche oder
@@ -257,6 +270,7 @@ aufzubewahren.
 
 
 #### § 10 Buchführung des Buchmachers
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008602123)
 
 Jeder Buchmacher hat über seine Einnahmen und Ausgaben aus dem
 Wettgeschäft Buch zu führen. Aus der Buchführung müssen
@@ -278,14 +292,17 @@ zu ersehen sein. § 9 gilt entsprechend.
 
 
 ## B. - Steuerrechtlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG003202123)
 
 
 
 ### I. - Rennwettsteuer
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002201123)
 
 
 
 #### § 11 Definition der Rennwetten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008701123)
 
 Rennwetten im Sinne der §§ 8 bis 15 des Rennwett- und Lotteriegesetzes
 sind Wetten, die aus Anlass öffentlicher Pferderennen und anderer
@@ -296,6 +313,7 @@ Wettenden abgeschlossen werden.
 
 
 #### § 12 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008801123)
 
 Der geleistete Wetteinsatz nach § 9 Rennwett- und Lotteriegesetz
 umfasst nicht Wettboni, die dem Wettenden zur Verfügung gestellt
@@ -303,6 +321,7 @@ werden, aber nicht ausbezahlt, sondern nur verspielt werden können.
 
 
 #### § 13 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE008901123)
 
 (1) Ist der Veranstalter der Rennwette eine natürliche Person, ist das
 Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen Wohnsitz
@@ -320,6 +339,7 @@ Veranstalter der Rennwette seinen Sitz hat.
 
 
 #### § 14 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009002123)
 
 (1) Das Besteuerungsverfahren richtet sich nach den §§ 8 bis 15 des
 Rennwett- und Lotteriegesetzes.
@@ -333,10 +353,12 @@ berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
 
 ### II. - Sportwettensteuer
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002301123)
 
 
 
 #### § 15 Sportwetten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009102123)
 
 (1) Wetten aus Anlass von Sportereignissen, die nicht als Rennwetten
 im Sinne des § 11 besteuert werden, unterliegen unabhängig vom Ort des
@@ -366,6 +388,7 @@ sind Sportwetten im Sinne des Rennwett- und Lotteriegesetzes.
 
 
 #### § 16 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009201123)
 
 Der geleistete Wetteinsatz nach § 17 des Rennwett- und
 Lotteriegesetzes umfasst nicht Wettboni, die dem Wettenden zur
@@ -374,6 +397,7 @@ verspielt werden können.
 
 
 #### § 17 Veranstalter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009302123)
 
 Veranstalter einer Sportwette ist diejenige Person, die das
 Wettgeschehen in tatsächlicher oder rechtlicher Hinsicht maßgeblich
@@ -386,6 +410,7 @@ diese auch zugekauft werden oder auf andere Art zu Stande kommen.
 
 
 #### § 18 Veranstaltungsort
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009402123)
 
 (1) In den Fällen des § 16 Satz 2 Nummer 1 des Rennwett- und
 Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
@@ -413,6 +438,7 @@ schriftlicher, mündlicher oder elektronischer Form.
 
 
 #### § 19 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009602123)
 
 (1) Ist der Veranstalter der Sportwette eine natürliche Person, ist
 das Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen
@@ -437,6 +463,7 @@ die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
 
 #### § 20 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009702123)
 
 (1) Wer Sportwetten im Sinne des § 16 des Rennwett- und
 Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
@@ -463,6 +490,7 @@ zuständigen Finanzamt unverzüglich schriftlich zu benennen.
 
 
 #### § 21 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009801123)
 
 (1) Das Besteuerungsverfahren richtet sich nach den §§ 16 bis 25 des
 Rennwett- und Lotteriegesetzes.
@@ -476,10 +504,12 @@ berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
 
 ### III. - Lotteriesteuer
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002401123)
 
 
 
 #### § 22 Definition der Lotterie und Ausspielung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE009902123)
 
 (1) Ein öffentliches Glücksspiel, bei dem einer Mehrzahl von Personen
 die Möglichkeit eröffnet wird, nach einem bestimmten Plan gegen ein
@@ -512,6 +542,7 @@ Gewinnmöglichkeiten in jeweilige Klassen unterteilt ist.
 
 
 #### § 23 Öffentliche Veranstaltung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010003123)
 
 Eine Lotterie oder Ausspielung im Sinne des § 26 des Rennwett- und
 Lotteriegesetzes ist öffentlich, wenn für einen größeren, nicht
@@ -525,6 +556,7 @@ Lotteriesteuer nicht bindend.
 
 
 #### § 24 Veranstalter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010102123)
 
 (1) Veranstalter einer öffentlichen Lotterie oder Ausspielung ist
 diejenige Person, die das Spielgeschehen in tatsächlicher oder
@@ -539,6 +571,7 @@ einer anderen Lotterie abhängt.
 
 
 #### § 25 Veranstaltungsort
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013604123)
 
 (1) In den Fällen des § 26 Absatz 1 Satz 2 Nummer 1 des Rennwett- und
 Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
@@ -568,6 +601,7 @@ schriftlicher, mündlicher oder elektronischer Form.
 
 
 #### § 26 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013700123)
 
 (1) Das geleistete Teilnahmeentgelt im Sinne des § 27 des Rennwett-
 und Lotteriegesetzes umfasst nicht Spielboni, die dem Spielenden zur
@@ -601,6 +635,7 @@ die aufgrund eines Gesetzes allgemein oder der Höhe nach erlaubt sind.
 
 
 #### § 27 Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010201123)
 
 (1) Die in § 28 des Rennwett- und Lotteriegesetzes bestimmten
 Freigrenzen bemessen sich nach dem Gesamtbetrag der geleisteten
@@ -636,6 +671,7 @@ tatsächlichen Kosten, Gewinnsummen und Steuern ergibt.
 
 
 #### § 28 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010302123)
 
 (1) Ist der Veranstalter der Lotterie oder Ausspielung eine natürliche
 Person, ist das Finanzamt örtlich zuständig, in dessen Bezirk dieser
@@ -662,6 +698,7 @@ die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
 
 #### § 29 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010404123)
 
 (1) Wer öffentliche Lotterien oder Ausspielungen im Geltungsbereich
 des Rennwett- und Lotteriegesetzes veranstalten oder über einen
@@ -703,6 +740,7 @@ Lottogesellschaften der Länder besteht keine Anzeigepflicht.
 
 
 #### § 30 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010502123)
 
 (1) Das Besteuerungsverfahren richtet sich nach den §§ 26 bis 35 des
 Rennwett- und Lotteriegesetzes.
@@ -716,10 +754,12 @@ berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
 
 ### IV. - Virtuelle Automatensteuer
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002501123)
 
 
 
 #### § 31 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010604123)
 
 Der geleistete Spieleinsatz nach § 37 des Rennwett- und
 Lotteriegesetzes umfasst nicht Spielboni, die dem Spieler zur
@@ -728,6 +768,7 @@ verspielt werden können.
 
 
 #### § 32 Veranstalter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010704123)
 
 Veranstalter des virtuellen Automatenspiels ist diejenige Person, die
 das Spielgeschehen in tatsächlicher oder rechtlicher Hinsicht
@@ -739,6 +780,7 @@ entsprechend um.
 
 
 #### § 33 Veranstaltungsort
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010801123)
 
 (1) In den Fällen des § 36 Satz 2 Nummer 1 des Rennwett- und
 Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
@@ -767,6 +809,7 @@ schriftlicher, mündlicher oder elektronischer Form.
 
 
 #### § 34 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE010903123)
 
 (1) Ist der Veranstalter des virtuellen Automatenspiels eine
 natürliche Person, ist das Finanzamt örtlich zuständig, in dessen
@@ -793,6 +836,7 @@ Hamburg zuständig.
 
 
 #### § 35 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE011001123)
 
 (1) Wer virtuelles Automatenspiel im Sinne des § 36 des Rennwett- und
 Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
@@ -821,6 +865,7 @@ zuständigen Finanzamt unverzüglich schriftlich zu benennen.
 
 
 #### § 36 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE011101123)
 
 (1) Das Besteuerungsverfahren richtet sich nach den §§ 36 bis 45 des
 Rennwett- und Lotteriegesetzes.
@@ -834,10 +879,12 @@ geändert oder berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
 
 ### V. - Online-Pokersteuer
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002601123)
 
 
 
 #### § 37 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE011201123)
 
 (1) Der Spieleinsatz nach § 47 des Rennwett- und Lotteriegesetzes
 umfasst nicht Spielboni, die dem Spieler zur Verfügung gestellt
@@ -852,6 +899,7 @@ Höhe des entsprechenden, zugrundeliegenden geleisteten Geldbetrages.
 
 
 #### § 38 Veranstalter
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE011301123)
 
 Veranstalter des Online-Pokers ist diejenige Person, die das
 Spielgeschehen in tatsächlicher oder rechtlicher Hinsicht maßgeblich
@@ -863,6 +911,7 @@ andere entsprechend um.
 
 
 #### § 39 Veranstaltungsort
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013800123)
 
 (1) In den Fällen des § 46 Satz 2 Nummer 1 des Rennwett- und
 Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
@@ -890,6 +939,7 @@ schriftlicher, mündlicher oder elektronischer Form.
 
 
 #### § 40 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013901123)
 
 (1) Ist der Veranstalter des Online-Pokers eine natürliche Person, ist
 das Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen
@@ -914,6 +964,7 @@ die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
 
 #### § 41 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE014000123)
 
 (1) Wer Online-Poker im Sinne des § 46 des Rennwett- und
 Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
@@ -942,6 +993,7 @@ zuständigen Finanzamt unverzüglich schriftlich zu benennen.
 
 
 #### § 42 Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE014100123)
 
 (1) Das Besteuerungsverfahren richtet sich nach den §§ 46 bis 55 des
 Rennwett- und Lotteriegesetzes.
@@ -955,10 +1007,12 @@ berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
 
 ### VI. - Steuerberechnung
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNG002701123)
 
 
 
 #### § 43 Steuerberechnungsformel
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE014200123)
 
 (1) In den §§ 9, 17, 27, 37 und 47 des Rennwett- und Lotteriegesetzes
 wird die Steuerbemessungsgrundlage als geleisteter Wetteinsatz, als
@@ -973,12 +1027,14 @@ geschuldete Steuer herauszurechnen ist.
 ![bgbl1_2021_j2065-1_0010.jpg](bgbl1_2021_j2065-1_0010.jpg)
 
 #### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013400306)
 
 Der Reichsminister der Finanzen
 
 Muster 1 bis Muster 14
 
 #### Anlage Zentralbl. 1922 S. 361 bis 371
+[Direktlink](https://www.gesetze-im-internet.de/rennwlottgabest/BJNR703510922.html#BJNR703510922BJNE013501309)
 
 -
 

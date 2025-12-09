@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000104377)
 
 (1) Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind,
 auf einem erfinderischen Schritt beruhen und gewerblich anwendbar
@@ -57,6 +58,7 @@ solche Schutz begehrt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002603377)
 
 Als Gebrauchsmuster werden nicht geschützt:
 
@@ -76,6 +78,7 @@ Als Gebrauchsmuster werden nicht geschützt:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002701309)
 
 (1) Der Gegenstand eines Gebrauchsmusters gilt als neu, wenn er nicht
 zum Stand der Technik gehört. Der Stand der Technik umfaßt alle
@@ -93,6 +96,7 @@ der Landwirtschaft hergestellt oder benutzt werden kann.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000207360)
 
 (1) Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird,
 sind beim Deutschen Patent- und Markenamt anzumelden. Für jede
@@ -159,6 +163,7 @@ Patent- und Markenamt übertragen.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003803360)
 
 (1) Der Anmeldetag der Gebrauchsmusteranmeldung ist der Tag, an dem
 die Unterlagen nach § 4 Abs. 3 Nr. 1 und 2 und, soweit sie jedenfalls
@@ -192,6 +197,7 @@ Zeichnungen als nicht erfolgt.
 
 
 ## § 4b
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004500360)
 
 Ist die Anmeldung nicht oder teilweise nicht in deutscher Sprache
 abgefasst, so hat der Anmelder eine deutsche Übersetzung innerhalb
@@ -201,6 +207,7 @@ eingereicht, so gilt die Anmeldung als zurückgenommen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002804360)
 
 (1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland
 für dieselbe Erfindung bereits früher ein Patent nachgesucht, so kann
@@ -224,6 +231,7 @@ rechtzeitig gemacht, so wird das Recht nach Absatz 1 Satz 1 verwirkt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002905360)
 
 (1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach
 dem Anmeldetag einer beim Deutschen Patent- und Markenamt
@@ -240,6 +248,7 @@ Priorität (§ 41) sind entsprechend anzuwenden.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004002301)
 
 (1) Hat der Anmelder eine Erfindung
 
@@ -275,6 +284,7 @@ Prioritätsfristen nach § 6 Abs. 1 nicht.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003004360)
 
 (1) Das Deutsche Patent- und Markenamt ermittelt auf Antrag den Stand
 der Technik, der für die Beurteilung der Schutzfähigkeit des
@@ -312,6 +322,7 @@ dass diese Mitteilung ergangen ist.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000308360)
 
 (1) Entspricht die Anmeldung den Anforderungen der §§ 4, 4a, 4b so
 verfügt das Deutsche Patent- und Markenamt die Eintragung in das
@@ -398,6 +409,7 @@ Markenamtes nehmen kann.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000403377)
 
 (1) Wird ein Gebrauchsmuster angemeldet, dessen Gegenstand ein
 Staatsgeheimnis (§ 93 des Strafgesetzbuchs) ist, so ordnet die für die
@@ -418,6 +430,7 @@ Handlungen zuständig.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000507360)
 
 (1) Für Anträge in Gebrauchsmustersachen mit Ausnahme der
 Löschungsanträge (§§ 15 bis 17) wird im Deutschen Patent- und
@@ -456,6 +469,7 @@ Gebrauchsmusterabteilungen obliegender Geschäfte betraut worden sind.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000602309)
 
 (1) Die Eintragung eines Gebrauchsmusters hat die Wirkung, daß allein
 der Inhaber befugt ist, den Gegenstand des Gebrauchsmusters zu
@@ -483,6 +497,7 @@ Gebrauchsmusters berechtigt sind.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003101309)
 
 Die Wirkung des Gebrauchsmusters erstreckt sich nicht auf
 
@@ -502,6 +517,7 @@ Die Wirkung des Gebrauchsmusters erstreckt sich nicht auf
 
 
 ## § 12a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003300309)
 
 Der Schutzbereich des Gebrauchsmusters wird durch den Inhalt der
 Schutzansprüche bestimmt. Die Beschreibung und die Zeichnungen sind
@@ -509,6 +525,7 @@ jedoch zur Auslegung der Schutzansprüche heranzuziehen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003201309)
 
 (1) Der Gebrauchsmusterschutz wird durch die Eintragung nicht
 begründet, soweit gegen den als Inhaber Eingetragenen für jedermann
@@ -527,6 +544,7 @@ entsprechend anzuwenden.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000701309)
 
 Soweit ein später angemeldetes Patent in ein nach § 11 begründetes
 Recht eingreift, darf das Recht aus diesem Patent ohne Erlaubnis des
@@ -534,6 +552,7 @@ Inhabers des Gebrauchsmusters nicht ausgeübt werden.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000802309)
 
 (1) Jedermann hat gegen den als Inhaber Eingetragenen Anspruch auf
 Löschung des Gebrauchsmusters, wenn
@@ -562,6 +581,7 @@ Form einer Änderung der Schutzansprüche vorgenommen werden.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE000904360)
 
 Die Löschung des Gebrauchsmusters nach § 15 ist beim Deutschen Patent-
 und Markenamt schriftlich zu beantragen. Der Antrag muß die Tatsachen
@@ -570,6 +590,7 @@ und des § 125 des Patentgesetzes gelten entsprechend.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001007360)
 
 (1) Das Deutsche Patent- und Markenamt teilt dem Inhaber des
 Gebrauchsmusters den Antrag mit und fordert ihn auf, sich dazu
@@ -618,6 +639,7 @@ Rechtsanwaltsvergütungsgesetzes entsprechend.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001103377)
 
 (1) Gegen die Beschlüsse der Gebrauchsmusterstelle und der
 Gebrauchsmusterabteilungen findet die Beschwerde an das Patentgericht
@@ -656,6 +678,7 @@ anzuwenden.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001201309)
 
 Ist während des Löschungsverfahrens ein Rechtsstreit anhängig, dessen
 Entscheidung von dem Bestehen des Gebrauchsmusterschutzes abhängt, so
@@ -668,6 +691,7 @@ ergangen ist.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001304301)
 
 Die Vorschriften des Patentgesetzes über die Erteilung oder
 Zurücknahme einer Zwangslizenz oder wegen der Anpassung der durch
@@ -677,6 +701,7 @@ Gebrauchsmuster entsprechend.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001412360)
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
 Gutachten (§ 29 Abs. 1 und 2), über die Nutzung von urheberrechtlich
@@ -697,6 +722,7 @@ entsprechend anzuwenden, § 135 Abs. 3 mit der Maßgabe, daß der nach §
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001502309)
 
 (1) Das Recht auf das Gebrauchsmuster, der Anspruch auf seine
 Eintragung und das durch die Eintragung begründete Recht gehen auf die
@@ -715,6 +741,7 @@ Lizenzen, die Dritten vorher erteilt worden sind.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001605360)
 
 (1) Die Schutzdauer eines eingetragenen Gebrauchsmusters beginnt mit
 dem Anmeldetag und endet zehn Jahre nach Ablauf des Monats, in den der
@@ -739,6 +766,7 @@ bewirkt. Die Aufrechterhaltung wird im Register vermerkt.
 
 
 ## § 24
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001705360)
 
 (1) Wer entgegen den §§ 11 bis 14 ein Gebrauchsmuster benutzt, kann
 von dem Verletzten bei Wiederholungsgefahr auf Unterlassung in
@@ -763,6 +791,7 @@ Erfindung eingeholt hätte.
 
 
 ## § 24a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003401140)
 
 (1) Wer entgegen den §§ 11 bis 14 ein Gebrauchsmuster benutzt, kann
 von dem Verletzten auf Vernichtung der im Besitz oder Eigentum des
@@ -784,6 +813,7 @@ Dritter zu berücksichtigen.
 
 
 ## § 24b
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003503360)
 
 (1) Wer entgegen den §§ 11 bis 14 ein Gebrauchsmuster benutzt, kann
 von dem Verletzten auf unverzügliche Auskunft über die Herkunft und
@@ -877,6 +907,7 @@ Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
 
 ## § 24c
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004100140)
 
 (1) Wer mit hinreichender Wahrscheinlichkeit entgegen den §§ 11 bis 14
 ein Gebrauchsmuster benutzt, kann von dem Rechtsinhaber oder einem
@@ -912,6 +943,7 @@ entstandenen Schadens verlangen.
 
 
 ## § 24d
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004200140)
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
 begangenen Rechtsverletzung in den Fällen des § 24 Abs. 2 auch auf
@@ -941,6 +973,7 @@ entsprechend.
 
 
 ## § 24e
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004300140)
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
 obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das
@@ -953,6 +986,7 @@ Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 
 
 ## § 24f
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003702140)
 
 Auf die Verjährung der Ansprüche wegen Verletzung des Schutzrechts
 finden die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen
@@ -962,11 +996,13 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
 
 ## § 24g
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004400140)
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 
 ## § 25
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE001805360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer ohne die erforderliche Zustimmung des Inhabers des
@@ -1014,6 +1050,7 @@ streitgegenständliche Gebrauchsmuster anhängig ist.
 
 
 ## § 25a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003605123)
 
 (1) Ein Erzeugnis, das ein nach diesem Gesetz geschütztes
 Gebrauchsmuster verletzt, unterliegt auf Antrag und gegen
@@ -1089,6 +1126,7 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 
 
 ## § 25b
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004600123)
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 25a
 Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
@@ -1096,6 +1134,7 @@ enthält, die dem entgegenstehen.
 
 
 ## § 26
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002001309)
 
 (1) Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage
 ein Anspruch aus einem der in diesem Gesetz geregelten
@@ -1124,6 +1163,7 @@ Gegner zu hören.
 
 
 ## § 26a
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE004700360)
 
 In Gebrauchsmusterstreitsachen mit Ausnahme von selbstständigen
 Beweisverfahren sowie in Zwangslizenzverfahren gemäß § 20 in
@@ -1136,6 +1176,7 @@ Kläger und Beklagtem in das Verfahren eingeführten Informationen.
 
 
 ## § 27
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002208377)
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
 Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
@@ -1158,6 +1199,7 @@ Auslagen des Patentanwalts zu erstatten.
 
 
 ## § 28
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002305360)
 
 (1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an
 einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent-
@@ -1183,6 +1225,7 @@ Patent- und Markenamt oder dem Patentgericht angezeigt wird.
 
 
 ## § 29
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002405360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -1208,6 +1251,7 @@ Markenamt übertragen.
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE002501309)
 
 Wer Gegenstände oder ihre Verpackung mit einer Bezeichnung versieht,
 die geeignet ist, den Eindruck zu erwecken, daß die Gegenstände als
@@ -1221,6 +1265,7 @@ stützt.
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/gebrmg/BJNR201300936.html#BJNR201300936BJNE003900377)
 
 Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 findet mit der Maßgabe entsprechende Anwendung, dass § 24c in der bis

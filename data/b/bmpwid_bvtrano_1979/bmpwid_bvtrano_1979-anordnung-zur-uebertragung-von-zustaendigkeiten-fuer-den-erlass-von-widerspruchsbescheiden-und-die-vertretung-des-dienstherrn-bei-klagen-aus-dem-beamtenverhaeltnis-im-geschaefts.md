@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I. Erlaß von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bmpwid_bvtrano_1979/BJNR016690979.html#BJNR016690979BJNE000100326)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 3. Januar 1977 (BGBl. I S. 1) in Verbindung mit §
@@ -83,6 +84,7 @@ die Befugnis, Widerspruchsbescheide zu erlassen,
 
 
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bmpwid_bvtrano_1979/BJNR016690979.html#BJNR016690979BJNE000200326)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
 Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis den
@@ -92,11 +94,13 @@ Fälle behalte ich mir die Vertretung des Dienstherrn vor.
 
 
 ## III. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmpwid_bvtrano_1979/BJNR016690979.html#BJNR016690979BJNE000300326)
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmpwid_bvtrano_1979/BJNR016690979.html#BJNR016690979BJNE000400326)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

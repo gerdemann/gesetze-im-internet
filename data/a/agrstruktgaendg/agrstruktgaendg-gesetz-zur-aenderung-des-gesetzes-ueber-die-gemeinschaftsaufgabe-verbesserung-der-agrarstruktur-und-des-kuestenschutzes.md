@@ -19,32 +19,38 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000200328)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000300328)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000400328)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000500328)
 
 -
 
 
 ## Art 5 Rechtliche Behandlung stillgelegter Flächen
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000600328)
 
 Flächen, die nach Maßgabe der Verordnung (EWG) Nr. 1094/88 des Rates
 vom 25. April 1988 zur Änderung der Verordnungen (EWG) Nr. 797/85 und
@@ -66,6 +72,7 @@ forstwirtschaftlich genutzt werden können.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000700328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten kann den
 Wortlaut des Gesetzes über die Gemeinschaftsaufgabe "Verbesserung der
@@ -74,12 +81,14 @@ geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 7 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000800328)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg_ndg/BJNR010530988.html#BJNR010530988BJNE000900328)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Juli 1988 in Kraft.
 

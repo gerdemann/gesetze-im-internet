@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2019/BJNR044300019.html#BJNR044300019BJNE000100000)
 
 Auf Grund des § 850c Absatz 2a Satz 2, der zuletzt durch Artikel 145
 Nummer 4 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert
@@ -85,11 +86,13 @@ der zuletzt durch Artikel 1 Nummer 14 des Gesetzes vom 21. November
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2019/BJNR044300019.html#BJNR044300019BJNE000200000)
 
 Die Bundesministerin der Justiz und für Verbraucherschutz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2019/BJNR044300019.html#BJNR044300019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 444 - 462)
 

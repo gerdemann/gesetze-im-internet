@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000000000)
 
 Auf Grund des § 151 Abs. 2 Nr. 4 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -29,6 +30,7 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Ehrenamtliche Betätigung
+[Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000104126)
 
 (1) Ehrenamtlich im Sinne des § 138 Absatz 2 des Dritten Buches
 Sozialgesetzbuch ist eine Betätigung, die
@@ -58,6 +60,7 @@ Monat nicht übersteigt.
 
 
 ## § 2 Berufliche Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000201308)
 
 Die berufliche Eingliederung des Arbeitslosen hat Vorrang vor der
 Ausübung einer ehrenamtlichen Betätigung. Der Arbeitslose hat der
@@ -78,6 +81,7 @@ anzuzeigen. Er hat darüber hinaus sicherzustellen, dass er
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ehrbet_tv/BJNR178300002.html#BJNR178300002BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2002 in Kraft.
 

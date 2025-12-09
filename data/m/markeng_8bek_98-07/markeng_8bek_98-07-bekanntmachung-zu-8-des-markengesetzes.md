@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-07/BJNR187000998.html#BJNR187000998BJNE000100311)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß das folgende
@@ -39,6 +40,7 @@ ausgeschlossen ist:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-07/BJNR187000998.html#BJNR187000998BJNE000200311)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht,
 daß das Kennzeichen des
@@ -59,6 +61,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-07/BJNR187000998.html#BJNR187000998BJNE000300311)
 
 (Fundstelle: BGBl. I 1998, 1871)
 
@@ -68,6 +71,7 @@ Farben: weiße Schrift auf grünem Grund
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek_98-07/BJNR187000998.html#BJNR187000998BJNE000400311)
 
 (Fundstelle: BGBl. I 1998, 1872)
 

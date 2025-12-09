@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000100000)
 
 Auf Grund des § 113 Absatz 6 des Sozialgesetzbuchs Vierzehntes Buch –
 Soziale Entschädigung – vom 12. Dezember 2019 (BGBl. I S. 2652)
@@ -25,6 +26,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000200000)
 
 Diese Verordnung regelt die örtliche Zuständigkeit für die
 Durchführung des Sozialen Entschädigungsrechts nach dem Vierzehnten
@@ -33,6 +35,7 @@ gewöhnlichen Aufenthalt im Ausland haben.
 
 
 ## § 2 Örtliche Zuständigkeit bei Antragstellung durch Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000300000)
 
 (1) Beantragt die geschädigte Person, die ihren Wohnsitz oder
 gewöhnlichen Aufenthalt im Ausland hat, Leistungen der sozialen
@@ -134,6 +137,7 @@ Zuständigkeit nach Absatz 1 neu zu bestimmen.
 
 
 ## § 3 Örtliche Zuständigkeit bei Antragstellung durch Angehörige, Hinterbliebene, Nahestehende und weitere Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000400000)
 
 (1) Beantragen Angehörige, Hinterbliebene oder Nahestehende der
 geschädigten Person sowie weitere Berechtigte nach Kapitel 2 Abschnitt
@@ -155,6 +159,7 @@ bestimmen.
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000500000)
 
 (1) Haben Geschädigte oder Berechtigte im Sinne des § 3 vor dem 1.
 Januar 2024 Leistungen der Sozialen Entschädigung beantragt, ist das
@@ -169,6 +174,7 @@ Bundeslandes nach Maßgabe des § 2 neu zu bestimmen.
 
 
 ## § 5 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000600000)
 
 Die Bestimmung der Zuständigkeit nach § 2 ist spätestens fünf Jahre
 nach Inkrafttreten der Verordnung zu evaluieren. Ergibt die
@@ -178,16 +184,19 @@ Fällen besteht, so werden die Zuständigkeiten neu bestimmt.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage I (zu § 2 Absatz 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/auslzustv_2024/BJNR12F0A0023.html#BJNR12F0A0023BJNE000900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 303, S. 4 - 7)
 

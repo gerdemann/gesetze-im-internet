@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000101308)
 
 (1) Für die Abnahme der in Richtlinien des Rates der Europäischen
 Gemeinschaften über die Niederlassungsfreiheit und den freien
@@ -46,6 +47,7 @@ Zusammenhang stehenden näheren Umstände erstrecken.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000200313)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zur Durchführung von
@@ -70,6 +72,7 @@ Kenntnisnahme zuzuleiten.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000300313)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zur Durchführung von
@@ -94,11 +97,13 @@ Verarbeitung von Milch (Molkerei, Meierei) verantwortlichen Personen
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000400313)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000500313)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -108,6 +113,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/niederlfrhewgdg_2/BJNR017090970.html#BJNR017090970BJNE000600313)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

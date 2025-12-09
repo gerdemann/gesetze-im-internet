@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Fördervoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000100000)
 
 (1) Jugendfreiwilligendienste fördern die Bildungsfähigkeit der
 Jugendlichen und gehören zu den besonderen Formen des
@@ -36,6 +37,7 @@ freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr
 
 
 ## § 2 Freiwillige
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000202130)
 
 (1) Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
@@ -92,6 +94,7 @@ Voraussetzungen des Absatzes 1 Nummer 1 und 3 erfüllen.
 
 
 ## § 3 Freiwilliges soziales Jahr
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000301116)
 
 (1) Das freiwillige soziale Jahr wird als überwiegend praktische
 Hilfstätigkeit, die an Lernzielen orientiert ist, in
@@ -111,6 +114,7 @@ stärken.
 
 
 ## § 4 Freiwilliges ökologisches Jahr
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000401116)
 
 (1) Das freiwillige ökologische Jahr wird als überwiegend praktische
 Hilfstätigkeit, die an Lernzielen orientiert ist, in geeigneten
@@ -130,6 +134,7 @@ fördern.
 
 
 ## § 5 Jugendfreiwilligendienste im Inland
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000502130)
 
 (1) Das freiwillige soziale Jahr und das freiwillige ökologische Jahr
 im Inland werden in der Regel für eine Dauer von zwölf
@@ -176,6 +181,7 @@ Beschäftigungsfähigkeit der Freiwilligen gemeinsam verfolgen.
 
 
 ## § 6 Jugendfreiwilligendienst im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000601116)
 
 (1) Ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches
 Jahr im Sinne dieses Gesetzes kann auch im Ausland geleistet werden.
@@ -223,6 +229,7 @@ zusätzlicher Seminartage gilt § 5 Absatz 2 Satz 3 und 4 entsprechend.
 
 
 ## § 7 Kombinierter Jugendfreiwilligendienst
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000701116)
 
 Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom
 Träger angeboten werden, wenn insgesamt eine Dauer von 18
@@ -237,6 +244,7 @@ entsprechend.
 
 
 ## § 8 Zeitliche Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000801116)
 
 Der Jugendfreiwilligendienst nach den §§ 5, 6 und 7 kann ausnahmsweise
 bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im
@@ -244,10 +252,12 @@ Rahmen eines besonderen pädagogischen Konzepts begründet ist.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE000904130)
 
 
 
 ## § 10 Träger
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE001000000)
 
 (1) Als Träger des freiwilligen sozialen Jahres im Inland im Sinne
 dieses Gesetzes sind zugelassen:
@@ -312,6 +322,7 @@ eines freiwilligen ökologischen Jahres bleiben unberührt.
 
 
 ## § 11 Vereinbarung, Bescheinigung, Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE001101130)
 
 (1) Der zugelassene Träger des Jugendfreiwilligendienstes und die oder
 der Freiwillige schließen vor Beginn des Jugendfreiwilligendienstes
@@ -374,6 +385,7 @@ Jugendfreiwilligendienstes aufzunehmen.
 
 
 ## § 12 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE001202130)
 
 Die Einsatzstellen, Zentralstellen und Träger des
 Jugendfreiwilligendienstes dürfen personenbezogene Daten nach § 11
@@ -383,6 +395,7 @@ Jugendfreiwilligendienstes zu löschen.
 
 
 ## § 13 Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE001301130)
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne
 dieses Gesetzes sind die Arbeitsschutzbestimmungen und das
@@ -392,6 +405,7 @@ und Arbeitnehmer.
 
 
 ## § 13a Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/jfdg/BJNR084210008.html#BJNR084210008BJNE001600130)
 
 (1) Freiwillige haben Anspruch auf Erholungsurlaub.
 

@@ -25,12 +25,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000100328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000200328)
 
 Den von den Vertragsparteien des Übereinkommens vom 1. September 1970
 über internationale Beförderungen leicht verderblicher Lebensmittel
@@ -45,6 +47,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000702377)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung
@@ -64,6 +67,7 @@ Inkrafttretens der jeweiligen Rechtsverordnung.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000300328)
 
 (1) Zuständige Behörden im Sinne der Anlage 1 - Anhang 1 Ziffer 2
 Buchstabe b zu dem Übereinkommen sind die Prüfstellen, die von den
@@ -79,6 +83,7 @@ zuständigen Behörden anerkannt bzw. hiermit beauftragt worden sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000400328)
 
 In dem Gesetz vom 26. April 1974 (BGBl. 1974 II S. 565) zu dem in
 Artikel 1 angeführten Übereinkommen werden
@@ -93,6 +98,7 @@ Artikel 1 angeführten Übereinkommen werden
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000500328)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -101,6 +107,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/atpanl1_3_ndg/BJNR206300988.html#BJNR206300988BJNE000600328)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

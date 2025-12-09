@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_bkbernav/BJNR007870897.html#BJNR007870897BJNE000100304)
 
 Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw.
 verordnen im Namen des Reichs, auf Grund des Gesetzes vom 4. April
@@ -31,6 +32,7 @@ was folgt:\*
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/_bkbernav/BJNR007870897.html#BJNR007870897BJNE000200304)
 
 Werden besondere Abkommen, die mit anderen Verbandsländern über den
 Schutz von Werken der Literatur und Kunst abgeschlossen sind, außer
@@ -69,6 +71,7 @@ nachstehenden Einschränkungen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/_bkbernav/BJNR007870897.html#BJNR007870897BJNE000300304)
 
 Die in § 1 Nr. 1 gewährte Befugnis zur Verbreitung und zum Verkaufe
 von Exemplaren sowie zur Benutzung von Vorrichtungen unterliegt der
@@ -79,6 +82,7 @@ welchem das Abkommen aufgehoben worden ist. ...
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/_bkbernav/BJNR007870897.html#BJNR007870897BJNE000400304)
 
 Diese Verordnung tritt mit dem Tage ihrer Verkündung in Kraft.
 

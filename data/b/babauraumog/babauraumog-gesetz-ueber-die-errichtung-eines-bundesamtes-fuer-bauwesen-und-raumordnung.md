@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/babauraumog/BJNR290210997.html#BJNR290210997BJNE000105116)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Wohnen,
 Stadtentwicklung und Bauwesen ist ein Bundesamt für Bauwesen und
@@ -30,6 +31,7 @@ Bonn.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/babauraumog/BJNR290210997.html#BJNR290210997BJNE000206116)
 
 (1) Das Bundesamt für Bauwesen und Raumordnung erledigt
 Verwaltungsaufgaben auf den Gebieten des Bauwesens, der Raumordnung,
@@ -99,6 +101,7 @@ Einzelfall auch jeweils in eigener Zuständigkeit regeln.
 
 
 ## § 3 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/babauraumog/BJNR290210997.html#BJNR290210997BJNE000306116)
 
 Die Aufsicht über das Bundesamt für Bauwesen und Raumordnung wird
 durch das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kultgschkonvg/BJNR212330967.html#BJNR212330967BJNE000100314)
 
 Der in Den Haag am 14. Mai 1954 von der Bundesrepublik Deutschland
 unterzeichneten Konvention zum Schutz von Kulturgut bei bewaffneten
@@ -29,6 +30,7 @@ Protokoll werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kultgschkonvg/BJNR212330967.html#BJNR212330967BJNE000203311)
 
 (1) Die Länder führen dieses Gesetz im Auftrag des Bundes aus, soweit
 nicht in den Absätzen 2 bis 6 etwas anderes bestimmt ist. Der
@@ -93,6 +95,7 @@ wird besonders geregelt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kultgschkonvg/BJNR212330967.html#BJNR212330967BJNE000300314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt, wobei die Rechte und die
@@ -103,6 +106,7 @@ unberührt bleiben.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kultgschkonvg/BJNR212330967.html#BJNR212330967BJNE000400314)
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tage nach
 seiner Verkündung in Kraft; Artikel 2 tritt an dem Tage in Kraft, an

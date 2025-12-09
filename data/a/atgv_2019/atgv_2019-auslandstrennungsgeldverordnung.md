@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000100000)
 
 Diese Verordnung regelt die bei grenzüberschreitenden dienstlichen
 Maßnahmen erforderlichen Abweichungen von den allgemein für
@@ -28,6 +29,7 @@ Trennungsgeld.
 
 
 ## § 2 Anwendungsbereich, Zweck
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000201116)
 
 (1) Auslandstrennungsgeld wird aus Anlass von Umsetzungen,
 Abordnungen, Versetzungen und versetzungsgleichen Maßnahmen (§ 3
@@ -81,6 +83,7 @@ weniger als 30 Kilometer von ihr entfernt ist.
 
 
 ## § 3 Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000300000)
 
 (1) Berechtigt sind
 
@@ -115,6 +118,7 @@ weniger als 30 Kilometer von ihr entfernt ist.
 
 
 ## § 4 Voraussetzungen für die Gewährung von Auslandstrennungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000401116)
 
 (1) Auslandstrennungsgeld wird gewährt, wenn die berechtigte Person in
 häuslicher Gemeinschaft lebt
@@ -169,6 +173,7 @@ Reisebeihilfen nach § 13 für längstens ein Jahr gewährt.
 
 
 ## § 5 Auslandstrennungsgeld nach Zusage der Umzugskostenvergütung
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000500000)
 
 (1) Nach uneingeschränkter Zusage der Umzugskostenvergütung wird
 Auslandstrennungsgeld gewährt, wenn die berechtigte Person seit dem
@@ -196,6 +201,7 @@ Auslandstrennungsgeldanspruch lebt nicht wieder auf.
 
 
 ## § 6 Arten des Auslandstrennungsgelds
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000600000)
 
 Als Auslandstrennungsgeld werden gewährt:
 
@@ -231,6 +237,7 @@ Als Auslandstrennungsgeld werden gewährt:
 
 
 ## § 7 Auslandstrennungstagegeld
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000700000)
 
 (1) Als Auslandstrennungstagegeld wird gewährt
 
@@ -279,6 +286,7 @@ Reisekostenvergütung für Verpflegungsmehraufwand anzurechnen.
 
 
 ## § 8 Auslandstrennungsübernachtungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000800000)
 
 (1) Als Auslandstrennungsübernachtungsgeld wird gewährt
 
@@ -307,6 +315,7 @@ Auslandstrennungsübernachtungsgeld anzurechnen.
 
 
 ## § 9 Auslandstrennungsbedingter Mehraufwand
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE000902360)
 
 (1) Bei Maßnahmen nach § 2 Absatz 1 im Ausland und vom Ausland ins
 Inland wird der auslandstrennungsbedingte Mehraufwand einer getrennten
@@ -364,6 +373,7 @@ neuen Dienstort zustünde. Dies gilt nur, soweit kein Anspruch nach §
 
 
 ## § 10 Vorwegumzug
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001001360)
 
 (1) Wird ein Umzug, für den eine uneingeschränkte
 Umzugskostenvergütung zugesagt ist, aus Anlass einer Maßnahme nach § 2
@@ -385,6 +395,7 @@ oder Wohnort im Ausland.
 
 
 ## § 11 Entschädigung bei täglicher Rückkehr zum Wohnort
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001100000)
 
 (1) Eine berechtigte Person, die täglich an ihren Wohnort zurückkehrt
 oder der die tägliche Rückkehr zuzumuten ist, erhält
@@ -402,6 +413,7 @@ erstattet.
 
 
 ## § 12 Auslandstrennungsgeld in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001200000)
 
 (1) Haben beide Ehegatten oder Lebenspartner Anspruch auf
 Auslandstrennungsgeld nach dieser Verordnung, kann jede berechtigte
@@ -471,6 +483,7 @@ der Maßnahme betroffenen Berechtigten.
 
 
 ## § 13 Reisebeihilfen für Heimfahrten
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001301130)
 
 (1) Eine nach § 4 Absatz 1 berechtigte Person erhält für jeweils drei
 Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine
@@ -548,6 +561,7 @@ erstattet.
 
 
 ## § 14 Anspruchszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001401116)
 
 (1) Auslandstrennungsgeld wird grundsätzlich vom Tag nach Beendigung
 der Dienstantrittsreise zum neuen Dienstort bis zu dem Tag gezahlt, an
@@ -593,6 +607,7 @@ Berechtigten die Aufgabe der Unterkunft nicht zuzumuten ist.
 
 
 ## § 15 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001500000)
 
 (1) Das Auslandstrennungsgeld wird auf schriftlichen oder
 elektronischen Antrag gewährt. Der Antrag kann nur innerhalb einer
@@ -614,6 +629,7 @@ Bewilligung und Zahlung des Auslandstrennungsgelds.
 
 
 ## § 16 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/atgv_2019/BJNR089110018.html#BJNR089110018BJNE001600000)
 
 Auslandstrennungsgeld für dienstliche Maßnahmen nach § 2 Absatz 1, die
 bis zum Tag vor dem Inkrafttreten dieser Verordnung begonnen haben,

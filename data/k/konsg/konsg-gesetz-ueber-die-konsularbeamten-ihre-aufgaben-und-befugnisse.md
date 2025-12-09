@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE000700311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000100311)
 
 
 
 ### § 1 Die konsularischen Aufgaben im allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE000800311)
 
 Die Konsularbeamten (Berufskonsularbeamte oder Honorarkonsularbeamte)
 sind berufen,
@@ -48,6 +51,7 @@ sind berufen,
 
 
 ### § 2 Übertragene konsularische Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE000901377)
 
 Die Konsularbeamten sind berufen, die Aufgaben und Befugnisse
 wahrzunehmen, die ihnen durch dieses Gesetz oder andere Rechts- und
@@ -105,6 +109,7 @@ Gebieten,
 
 
 ### § 3 Wahrnehmung konsularischer Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001000311)
 
 (1) Für die Wahrnehmung konsularischer Aufgaben gelten die allgemeinen
 Rechtsvorschriften, soweit dieses Gesetz keine besonderen Regelungen
@@ -121,6 +126,7 @@ bedienen.
 
 
 ### § 4 Schranken der konsularischen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001100311)
 
 Bei ihrer Amtstätigkeit haben die Konsularbeamten die Schranken zu
 berücksichtigen, die sich aus dem in ihrem Konsularbezirk geltenden
@@ -131,10 +137,12 @@ Bundesrepublik Deutschland und dem Empfangsstaat in Kraft sind.
 
 
 ## 2. Abschnitt - Einzelne Konsularische Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000200311)
 
 
 
 ### § 5 Hilfeleistung an einzelne
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001201310)
 
 (1) Die Konsularbeamten sollen Deutschen, die in ihrem Konsularbezirk
 hilfsbedürftig sind, die erforderliche Hilfe leisten, wenn die Notlage
@@ -180,6 +188,7 @@ Gesundheit erleiden würde.
 
 
 ### § 6 Hilfe in Katastrophenfällen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001301126)
 
 (1) Wenn im Konsularbezirk Naturkatastrophen, kriegerische oder
 revolutionäre Verwicklungen oder vergleichbare Ereignisse, die der
@@ -208,6 +217,7 @@ Onlinezugangsgesetz zulässig.
 
 
 ### § 7 Hilfe für Gefangene
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001400311)
 
 Die Konsularbeamten sollen in ihrem Konsularbezirk deutsche
 Untersuchungs- und Strafgefangene auf deren Verlangen betreuen und
@@ -215,6 +225,7 @@ ihnen insbesondere Rechtsschutz vermitteln.
 
 
 ### § 8 Antrag auf Beurkundung der Geburt oder des Todes eines Deutschen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001502310)
 
 Die Konsularbeamten sind befugt, Anträge auf Beurkundung der Geburt
 oder des Todes eines Deutschen entgegenzunehmen, wenn sich der
@@ -224,6 +235,7 @@ zuständigen Standesamt zu übersenden.
 
 
 ### § 9 Überführung Verstorbener und Nachlaßfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001601116)
 
 (1) Sofern andere Möglichkeiten nicht gegeben sind, sollen die
 Konsularbeamten umgehend die Angehörigen der im Konsularbezirk
@@ -251,6 +263,7 @@ läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
 
 
 ### § 9a ...
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE004500377)
 
 (1) Die §§ 5 bis 7 und 9, mit Ausnahme des § 6 Absatz 3 und des § 9
 Absatz 2 und 3, sind entsprechend auf Unionsbürgerinnen und
@@ -270,6 +283,7 @@ Deutschland zum Ersatz dieser Auslagen verpflichtet.
 
 
 ### § 10 Beurkundungen im allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001701310)
 
 (1) Die Konsularbeamten sind befugt, über Tatsachen und Vorgänge, die
 sie in Ausübung ihres Amts wahrgenommen haben, Niederschriften oder
@@ -323,6 +337,7 @@ mit folgenden Abweichungen:
 
 
 ### § 11 Besonderheiten für Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001803377)
 
 (1) Testamente und Erbverträge sollen die Konsularbeamten nur
 beurkunden, wenn die Erblasser Deutsche sind. Die §§ 2232, 2233 und
@@ -345,6 +360,7 @@ anzuwenden.
 
 
 ### § 12 Entgegennahme von Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE001902116)
 
 Die Konsularbeamten sind befugt,
 
@@ -367,6 +383,7 @@ Die Konsularbeamten sind befugt,
 
 
 ### § 13 Legalisation ausländischer öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002000311)
 
 (1) Die Konsularbeamten sind befugt, die in ihrem Amtsbezirk
 ausgestellten öffentlichen Urkunden zu legalisieren.
@@ -394,6 +411,7 @@ legalisiert werden.
 
 
 ### § 14 Bestätigung der Echtheit inländischer öffentlicher Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002100311)
 
 (1) Die Konsularbeamten sind befugt, zur Verwendung in ihrem
 Konsularbezirk die Echtheit im Inland ausgestellter öffentlicher
@@ -406,6 +424,7 @@ aufgenommen hat, zugeleitet worden ist.
 
 
 ### § 15 Vernehmungen und Anhörungen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002200311)
 
 (1) Die Konsularbeamten sind berufen, auf Ersuchen deutscher Gerichte
 und Behörden Vernehmungen durchzuführen.
@@ -432,6 +451,7 @@ entsprechend.
 
 
 ### § 16 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002300311)
 
 Die Konsularbeamten sind berufen, auf Ersuchen deutscher Gerichte und
 Behörden Personen, die sich in ihrem Konsularbezirk aufhalten,
@@ -441,15 +461,18 @@ ein schriftliches Zeugnis auszustellen und der ersuchenden Stelle zu
 
 
 ### § 17 Aufnahme von Verklarungen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002400311)
 
 Die Konsularbeamten sind befugt, Verklarungen aufzunehmen.
 
 
 ## 3. Abschnitt - Die Berufskonsularbeamten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000300311)
 
 
 
 ### § 18 Kreis der Berufskonsularbeamten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002500311)
 
 (1) Berufskonsularbeamte im Sinne dieses Gesetzes sind die bei den
 diplomatischen oder berufskonsularischen Vertretungen der
@@ -470,6 +493,7 @@ zugeteilt werden.
 
 
 ### § 19 Erfordernisse einer besonderen Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002602310)
 
 (1) Berufskonsularbeamte, die die Befähigung zum Richteramt haben,
 sind ohne weiteres zur Wahrnehmung aller konsularischen Aufgaben
@@ -515,16 +539,19 @@ sachgemäße Erledigung der ihm anzuvertrauenden Amtsgeschäfte besitzt.
 
 
 ## 4. Abschnitt - Die Honorarkonsularbeamten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000400311)
 
 
 
 ### § 20 Kreis der Honorarkonsularbeamten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002700311)
 
 Honorarkonsularbeamte sind Ehrenbeamte im Sinne des Beamtenrechts, die
 mit der Wahrnehmung konsularischer Aufgaben beauftragt sind.
 
 
 ### § 21 Ernennung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002800311)
 
 (1) Zu Honorarkonsularbeamten können sowohl Deutsche wie Ausländer
 ernannt werden.
@@ -545,6 +572,7 @@ Wird ein Ausländer ernannt, so hat er folgendes Gelöbnis zu leisten:
 
 
 ### § 22 Besondere Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE002900311)
 
 (1) Der Honorarkonsularbeamte darf auch ohne Urlaub seinen Amtssitz
 für kurze Zeit verlassen. Für einen längeren Urlaub hat er die
@@ -559,6 +587,7 @@ anderen Staatsangehörigkeit.
 
 
 ### § 23 Verabschiedung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003000311)
 
 Honorarkonsularbeamte können jederzeit verabschiedet werden. Sie sind
 zu verabschieden, wenn die Voraussetzungen für die Versetzung eines
@@ -566,6 +595,7 @@ Beamten in den Ruhestand gegeben sind.
 
 
 ### § 24 Erfordernis einer besonderen Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003101311)
 
 (1) § 19 gilt für Honorarkonsularbeamte entsprechend.
 Honorarkonsularbeamte sollen auch die Echtheit inländischer
@@ -580,10 +610,12 @@ unterwerfen.
 
 
 ## 5. Abschnitt - Gebühren, Auslagen und Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000502116)
 
 
 
 ### § 25 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003205311)
 
 (1) Das Auswärtige Amt, die Vertretungen des Bundes im Ausland sowie
 die Honorarkonsularbeamten erheben Gebühren und Auslagen nach dem
@@ -600,6 +632,7 @@ des zu erstattenden Betrags.
 
 
 ### § 25a Gebühren- und Auslagenerhebung der Honorarkonsularbeamten
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE004401311)
 
 (1) Wird die individuell zurechenbare öffentliche Leistung von einem
 Honorarkonsularbeamten vorgenommen, so ist dieser Gebührengläubiger.
@@ -620,6 +653,7 @@ Aufwendungen, so kann er deren Erstattung beanspruchen.
 
 
 ### § 25b Gebührenbemessung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003901116)
 
 (1) Für die Gebührenerhebung nach § 25, insbesondere für die
 notariellen Tätigkeiten der Vertretungen des Bundes im Ausland sowie
@@ -640,6 +674,7 @@ bestimmt wird.
 
 
 ### § 25c Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE004001116)
 
 (1) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
 Absatz 4 des Bundesgebührengesetzes kann eine Gebühr auch nach dem
@@ -650,6 +685,7 @@ Wertes erforderlichen Angaben zu machen.
 
 
 ### § 25d Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE004101116)
 
 Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
@@ -661,6 +697,7 @@ Gastland ein Zuschlag erhoben werden kann. Der Zuschlag kann bis zu
 
 
 ### § 25e Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE004201116)
 
 Die Erstattung von Auslagen kann auch verlangt werden, wenn für die
 individuell zurechenbare öffentliche Leistung keine Gebühr vorgesehen
@@ -668,6 +705,7 @@ ist.
 
 
 ### § 26 Erstattungsansprüche bei Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003302116)
 
 (1) Im Falle der Amtshilfe hat die ersuchende Behörde keine
 Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu
@@ -682,21 +720,25 @@ Dritten hierfür geschuldeten Gebühren und Auslagen zu.
 
 
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNG000600311)
 
 
 
 ### § 27 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003400311)
 
 Der Begriff "Deutscher" bestimmt sich nach Artikel 116 Abs. 1 des
 Grundgesetzes.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003500311)
 
 -
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/konsg/BJNR023170974.html#BJNR023170974BJNE003600311)
 
 -
 

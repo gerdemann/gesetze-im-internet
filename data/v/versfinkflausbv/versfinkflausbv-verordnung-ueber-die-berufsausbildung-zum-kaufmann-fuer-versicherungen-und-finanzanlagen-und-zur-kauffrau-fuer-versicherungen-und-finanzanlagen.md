@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-22-1-24 v. 17.5.2006 I 1187 (VersFinKfAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) in Verbindung mit
@@ -37,9 +38,11 @@ Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Kaufmanns für
 Versicherungen und Finanzanlagen und der Kauffrau für Versicherungen
@@ -48,11 +51,13 @@ staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -73,6 +78,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -177,6 +183,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -184,9 +191,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -202,6 +211,7 @@ der Abschlussprüfung stattfinden.
 
 
 ### § 7 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -218,6 +228,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich „Allgemeine
 Versicherungswirtschaft“ statt.
@@ -283,6 +294,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 9 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -314,6 +326,7 @@ ausgewählte Wahlqualifikation mitgeteilt.
 
 
 ### § 10 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -335,6 +348,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich „Kundenbedarfsanalyse, Lösungsentwicklung und Versicherungsfallbearbeitung“
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001300000)
 
 (1) Im Prüfungsbereich „Kundenbedarfsanalyse, Lösungsentwicklung und
 Versicherungsfallbearbeitung“ hat der Prüfling nachzuweisen, dass er
@@ -420,6 +434,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 12 Prüfungsbereich „Kommunikation und Handeln im Kundenkontakt“
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001400000)
 
 (1) Im Prüfungsbereich „Kommunikation und Handeln im Kundenkontakt“
 hat der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -483,6 +498,7 @@ Gesprächssimulation stehen ihm insgesamt 15 Minuten zur Verfügung.
 
 
 ### § 13 Prüfungsbereich „Projektbezogene Prozesse in der Versicherungswirtschaft“
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001500000)
 
 (1) Im Prüfungsbereich „Projektbezogene Prozesse in der
 Versicherungswirtschaft“ hat der Prüfling nachzuweisen, dass er in der
@@ -558,6 +574,7 @@ praxisbezogenen Aufgabe und der Report.
 
 
 ### § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001600000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -571,6 +588,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -640,6 +658,7 @@ Berufsbildungsgesetzes zu fassen.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -678,9 +697,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNG000300000)
 
 
 ### § 17 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE001900000)
 
 (1) Als Zusatzqualifikation kann die Ausbildung in einer
 Wahlqualifikation nach § 4 Absatz 3 vereinbart werden, die nicht im
@@ -691,6 +712,7 @@ Gliederung des Abschnitts B der Anlage entsprechend anzuwenden.
 
 
 ### § 18 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE002000000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -707,9 +729,11 @@ Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNG000400000)
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2022 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Kaufmann für
@@ -721,6 +745,7 @@ außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen und zur Kauffrau für Versicherungen und Finanzanlagen
+[Direktlink](https://www.gesetze-im-internet.de/versfinkflausbv/BJNR029100022.html#BJNR029100022BJNE002200000)
 
 (Fundstelle: BGBl. I 2022, 296 - 304)
 

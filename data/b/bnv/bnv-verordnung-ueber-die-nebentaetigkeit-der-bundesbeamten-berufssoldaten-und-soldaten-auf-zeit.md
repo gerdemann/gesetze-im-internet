@@ -24,15 +24,18 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Ausübung von Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNG000101307)
 
 
 
 ### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000103310)
 
 -
 
 
 ### § 2 Nebentätigkeit im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000202307)
 
 (1) Nebentätigkeit im öffentlichen Dienst ist jede für den Bund, ein
 Land oder andere Körperschaften, Anstalten oder Stiftungen des
@@ -65,6 +68,7 @@ Nebentätigkeit für
 
 
 ### § 3 Zulässigkeit von Nebentätigkeiten im Bundesdienst
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000301307)
 
 Aufgaben, die für den Bund oder bundesunmittelbare Körperschaften,
 Anstalten oder Stiftungen des öffentlichen Rechts wahrgenommen werden,
@@ -74,6 +78,7 @@ Zusammenhang stehen.
 
 
 ### § 4 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000401307)
 
 (1) Vergütung für eine Nebentätigkeit ist jede Gegenleistung in Geld
 oder geldwerten Vorteilen, auch wenn kein Rechtsanspruch auf sie
@@ -100,6 +105,7 @@ Nr. 1 übersteigen, als Vergütung anzusehen.
 
 
 ### § 5 Allgemeine Erteilung, Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000503320)
 
 (1) Die zur Übernahme einer oder mehrerer Nebenbeschäftigungen gegen
 Vergütung erforderliche Genehmigung gilt allgemein als erteilt, wenn
@@ -125,6 +131,7 @@ dienstlichen Interessen dies gestatten.
 
 
 ### § 6 Vergütungen für Nebentätigkeiten und Ablieferungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000603320)
 
 (1) Für eine Nebentätigkeit im Bundesdienst (§ 3) wird grundsätzlich
 eine Vergütung nicht gewährt. Ausnahmen können zugelassen werden für
@@ -214,6 +221,7 @@ gewährt sind.
 
 
 ### § 7 Ausnahmen von § 6
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000702307)
 
 § 6 ist mit Ausnahme des Absatzes 1 Satz 3 nicht anzuwenden auf
 Vergütungen für
@@ -243,6 +251,7 @@ Vergütungen für
 
 
 ### § 8 Abrechnung über die Vergütung aus Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000802320)
 
 Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem
 Dienstvorgesetzten eine Abrechnung über die ihnen zugeflossenen
@@ -252,10 +261,12 @@ sind auch Ruhestandsbeamte und frühere Beamte hierzu verpflichtet.
 
 
 ## Zweiter Abschnitt - Inanspruchnahme von Einrichtungen, Personal oder Material des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNG000201307)
 
 
 
 ### § 9 Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001301307)
 
 (1) Der Beamte bedarf der vorherigen schriftlichen Genehmigung seiner
 obersten Dienstbehörde oder der von ihr beauftragten Behörde, wenn er
@@ -283,6 +294,7 @@ bleibt unberührt.
 
 
 ### § 10 Grundsätze für die Bemessung des Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001402320)
 
 (1) Für die Inanspruchnahme von Einrichtungen, Personal oder Material
 des Dienstherrn hat der Beamte ein angemessenes Entgelt zu entrichten.
@@ -309,6 +321,7 @@ zur Entrichtung des Entgelts verpflichtet.
 
 
 ### § 11 Allgemeines Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001502116)
 
 (1) Das Entgelt außerhalb des in § 12 geregelten Bereichs wird
 pauschaliert nach einem Vomhundertsatz der für die Nebentätigkeit
@@ -379,6 +392,7 @@ diese Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
 
 
 ### § 12 Entgelt für ärztliche und zahnärztliche Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001602320)
 
 (1) Das Entgelt (Kostenerstattung und Vorteilsausgleich) für ärztliche
 und zahnärztliche Nebentätigkeiten in Krankenhäusern und in den
@@ -406,6 +420,7 @@ zu entrichten.
 
 
 ### § 13 Festsetzung des Entgelts
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001702116)
 
 (1) Das zu zahlende Entgelt wird von der für die Genehmigung nach § 9
 Abs. 1 zuständigen oder der von ihr mit seiner Berechnung beauftragten
@@ -427,21 +442,25 @@ aufzubewahren.
 
 
 ## Dritter Abschnitt - Geltungsbereich, Berlinklausel, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNG000301307)
 
 
 
 ### § 14 Geltung für Berufssoldaten und Soldaten auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE000902307)
 
 Diese Verordnung gilt für Berufssoldaten und Soldaten auf Zeit
 entsprechend.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001003310)
 
 -
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/bnv/BJNR002990964.html#BJNR002990964BJNE001102307)
 
 (Inkrafttreten)
 

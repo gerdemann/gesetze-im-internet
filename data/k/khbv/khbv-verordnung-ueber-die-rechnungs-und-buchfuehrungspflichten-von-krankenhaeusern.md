@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000205116)
 
 (1) Die Rechnungs- und Buchführungspflichten von Krankenhäusern regeln
 sich nach den Vorschriften dieser Verordnung und deren Anlagen,
@@ -81,11 +82,13 @@ dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
 
 
 ## § 2 Geschäftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000301307)
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
 
 ## § 3 Buchführung, Inventar
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000403307)
 
 Das Krankenhaus führt seine Bücher nach den Regeln der kaufmännischen
 doppelten Buchführung; im übrigen gelten die §§ 238 und 239 des
@@ -97,6 +100,7 @@ Handelsgesetzbuchs.
 
 
 ## § 4 Jahresabschluß
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000509116)
 
 (1) Der Jahresabschluß des Krankenhauses besteht aus der Bilanz, der
 Gewinn- und Verlustrechnung und dem Anhang einschließlich des
@@ -118,6 +122,7 @@ bestimmt.
 
 
 ## § 5 Einzelvorschriften zum Jahresabschluß
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000603307)
 
 (1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich
 begrenzt ist, sind zu den Anschaffungs- oder Herstellungskosten,
@@ -181,6 +186,7 @@ des Handelsgesetzbuchs entsprechend.
 
 
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000703307)
 
 Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
 Vorlegung von Unterlagen gelten die §§ 257 und 261 des
@@ -188,11 +194,13 @@ Handelsgesetzbuchs.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000802307)
 
 (weggefallen)
 
 
 ## § 8 Kosten- und Leistungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE000905360)
 
 Das Krankenhaus hat eine Kosten- und Leistungsrechnung zu führen, die
 eine betriebsinterne Steuerung sowie eine Beurteilung der
@@ -225,6 +233,7 @@ Mindestanforderungen:
 
 
 ## § 9 Befreiungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001004360)
 
 Ein Krankenhaus mit bis zu 100 Betten oder mit nur einer
 bettenführenden Abteilung kann von den Pflichten nach § 8 befreit
@@ -238,6 +247,7 @@ genannten Beteiligten anzustreben.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001105116)
 
 Ordnungswidrig im Sinne des § 334 Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Mitglied des
@@ -270,6 +280,7 @@ Feststellung eines Jahresabschlusses
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE002106116)
 
 (1) § 279 des Handelsgesetzbuchs ist letztmals auf einen
 Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen
@@ -309,16 +320,19 @@ anzuwenden.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001302310)
 
 -
 
 
 ## § 13 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001401307)
 
 -
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE002204310)
 
 (Fundstelle: BGBl. I 1987, 1049 - 1052;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -565,6 +579,7 @@ Haftungsverhältnisse: .....................
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001607116)
 
 (Fundstelle: BGBl. I 1987, 1053 - 1054;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -694,12 +709,14 @@ und Verlustrechnung
 
 
 ## Anlage 3 Anlagennachweis
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001704320)
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1987, 1055)
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE001510116)
 
 (Fundstelle: BGBl. I 1987, 1056 - 1066;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2919,6 +2936,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/khbv/BJNR004730978.html#BJNR004730978BJNE002003307)
 
 (Fundstelle: BGBl. I 1987, 1067 - 1068)
 

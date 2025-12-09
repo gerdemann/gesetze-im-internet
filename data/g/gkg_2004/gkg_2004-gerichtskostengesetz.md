@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000101311)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009903131)
 
 (1) Für Verfahren vor den ordentlichen Gerichten
 
@@ -191,6 +193,7 @@ Verfahren geltenden Verfahrensvorschriften vor.
 
 
 ### § 2 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000302311)
 
 (1) In Verfahren vor den ordentlichen Gerichten und den Gerichten der
 Finanz- und Sozialgerichtsbarkeit sind von der Zahlung der Kosten
@@ -225,6 +228,7 @@ Zahlung der Kosten befreite Partei Kosten des Verfahrens übernimmt.
 
 
 ### § 3 Höhe der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000401311)
 
 (1) Die Gebühren richten sich nach dem Wert des Streitgegenstands
 (Streitwert), soweit nichts anderes bestimmt ist.
@@ -234,6 +238,7 @@ Gesetz erhoben.
 
 
 ### § 4 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000501311)
 
 (1) Verweist ein erstinstanzliches Gericht oder ein
 Rechtsmittelgericht ein Verfahren an ein erstinstanzliches Gericht
@@ -249,6 +254,7 @@ Entscheidung trifft das Gericht, an das verwiesen worden ist.
 
 
 ### § 5 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000606311)
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach
 Ablauf des Kalenderjahrs, in dem das Verfahren durch rechtskräftige
@@ -281,6 +287,7 @@ Musterverfahrensgesetz geltenden Regelung nicht verzinst.
 
 
 ### § 5a Elektronische Akte, elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007702311)
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
 Vorschriften über die elektronische Akte und über das elektronische
@@ -289,6 +296,7 @@ zugrunde liegende Verfahren gelten.
 
 
 ### § 5b Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009101311)
 
 Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine
 Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei
@@ -297,10 +305,12 @@ einzuhaltende Form und Frist zu enthalten.
 
 
 ## Abschnitt 2 - Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000201311)
 
 
 
 ### § 6 Fälligkeit der Gebühren im Allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000707125)
 
 (1) In folgenden Verfahren wird die Verfahrensgebühr mit der
 Einreichung der Klage-, Antrags-, Einspruchs- oder Rechtsmittelschrift
@@ -337,6 +347,7 @@ Fälligkeit der Kosten nach § 9.
 
 
 ### § 7 Zwangsversteigerung und Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000802311)
 
 (1) Die Gebühren für die Entscheidung über den Antrag auf Anordnung
 der Zwangsversteigerung und über den Beitritt werden mit der
@@ -354,6 +365,7 @@ Verfahrens fällig.
 
 
 ### § 8 Strafsachen, Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE000901311)
 
 In Strafsachen werden die Kosten, die dem verurteilten Beschuldigten
 zur Last fallen, erst mit der Rechtskraft des Urteils fällig. Dies
@@ -362,6 +374,7 @@ Ordnungswidrigkeiten entsprechend.
 
 
 ### § 9 Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001008360)
 
 (1) Die Gebühr für die Anmeldung eines Anspruchs zum Musterverfahren
 nach dem Kapitalanleger-Musterverfahrensgesetz wird mit Einreichung
@@ -399,10 +412,12 @@ Akten werden sofort nach ihrer Entstehung fällig.
 
 
 ## Abschnitt 3 - Vorschuss und Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000301311)
 
 
 
 ### § 10 Grundsatz für die Abhängigmachung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001102311)
 
 In weiterem Umfang als die Prozessordnungen und dieses Gesetz es
 gestatten, darf die Tätigkeit der Gerichte von der Sicherstellung oder
@@ -410,6 +425,7 @@ Zahlung der Kosten nicht abhängig gemacht werden.
 
 
 ### § 11 Verfahren nach dem Arbeitsgerichtsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001202311)
 
 In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften
 dieses Abschnitts nicht anzuwenden; dies gilt für die
@@ -420,6 +436,7 @@ Arbeitsgerichtsgesetzes).
 
 
 ### § 12 Bürgerliche Rechtsstreitigkeiten, Verfahren nach der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001312125)
 
 (1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach
 Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden.
@@ -488,6 +505,7 @@ für das Verfahren keine gerichtliche Handlung vorgenommen werden.
 
 
 ### § 12a Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE008902311)
 
 In Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher
 Ermittlungsverfahren ist § 12 Absatz 1 Satz 1 und 2 entsprechend
@@ -500,6 +518,7 @@ rechtshängig wird.
 
 
 ### § 13 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001401311)
 
 Über den Antrag auf Eröffnung des Verteilungsverfahrens nach der
 Schifffahrtsrechtlichen Verteilungsordnung soll erst nach Zahlung der
@@ -508,6 +527,7 @@ Bekanntmachung entschieden werden.
 
 
 ### § 13a Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009600125)
 
 (1) Über den Antrag auf Inanspruchnahme eines Instruments des
 Stabilisierungs- und Restrukturierungsrahmens soll erst nach Zahlung
@@ -518,6 +538,7 @@ Restrukturierungsbeauftragten oder eines Sanierungsmoderators.
 
 
 ### § 14 Ausnahmen von der Abhängigmachung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001503125)
 
 Die §§ 12 und 13 gelten nicht,
 
@@ -548,6 +569,7 @@ Die §§ 12 und 13 gelten nicht,
 
 
 ### § 15 Zwangsversteigerungs- und Zwangsverwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001601311)
 
 (1) Im Zwangsversteigerungsverfahren ist spätestens bei der Bestimmung
 des Zwangsversteigerungstermins ein Vorschuss in Höhe des Doppelten
@@ -558,6 +580,7 @@ angemessenen Gebührenvorschuss zu zahlen.
 
 
 ### § 16 Privatklage, Nebenklage
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001702311)
 
 (1) Der Privatkläger hat, wenn er Privatklage erhebt, Rechtsmittel
 einlegt, die Wiederaufnahme beantragt oder das Verfahren nach den §§
@@ -579,6 +602,7 @@ Gebühr als Vorschuss zu zahlen.
 
 
 ### § 17 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001806311)
 
 (1) Wird die Vornahme einer Handlung, mit der Auslagen verbunden sind,
 beantragt, hat derjenige, der die Handlung beantragt hat, einen zur
@@ -606,6 +630,7 @@ Insolvenzordnung).
 
 
 ### § 18 Fortdauer der Vorschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE001901311)
 
 Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch
 wenn die Kosten des Verfahrens einem anderen auferlegt oder von einem
@@ -613,10 +638,12 @@ anderen übernommen sind. § 31 Absatz 2 gilt entsprechend.
 
 
 ## Abschnitt 4 - Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000401311)
 
 
 
 ### § 19 Kostenansatz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002003311)
 
 (1) Außer in Strafsachen und in gerichtlichen Verfahren nach dem
 Gesetz über Ordnungswidrigkeiten werden angesetzt:
@@ -661,6 +688,7 @@ Kostenansatz ebenfalls berichtigt werden.
 
 
 ### § 20 Nachforderung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002103311)
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert
 werden, wenn der berichtigte Ansatz dem Zahlungspflichtigen vor Ablauf
@@ -683,6 +711,7 @@ letzten Wertfestsetzung mitgeteilt worden ist.
 
 
 ### § 21 Nichterhebung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002202311)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch
@@ -699,10 +728,12 @@ im Verwaltungsweg geändert werden.
 
 
 ## Abschnitt 5 - Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000501311)
 
 
 
 ### § 22 Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002320125)
 
 (1) In bürgerlichen Rechtsstreitigkeiten mit Ausnahme der
 Restitutionsklage nach § 580 Nummer 8 der Zivilprozessordnung sowie in
@@ -745,6 +776,7 @@ beigetreten ist, die Kosten.
 
 
 ### § 23 Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE008408311)
 
 (1) Die Gebühr für das Verfahren über den Antrag auf Eröffnung des
 Insolvenzverfahrens schuldet, wer den Antrag gestellt hat. Wird der
@@ -783,6 +815,7 @@ Insolvenzverfahrens.
 
 
 ### § 24 Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002501311)
 
 Die Kosten des Verfahrens über den Antrag auf öffentliche
 Bekanntmachung ausländischer Entscheidungen in Insolvenzverfahren oder
@@ -790,12 +823,14 @@ vergleichbaren Verfahren schuldet, wer das Verfahren beantragt hat.
 
 
 ### § 25 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002601311)
 
 Die Kosten des Verteilungsverfahrens nach der Schifffahrtsrechtlichen
 Verteilungsordnung schuldet, wer das Verfahren beantragt hat.
 
 
 ### § 25a Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009700125)
 
 (1) Die Kosten der Verfahren nach dem Unternehmensstabilisierungs- und
 -restrukturierungsgesetz vor dem Restrukturierungsgericht sowie die
@@ -812,6 +847,7 @@ ihnen nach § 82 Absatz 2 des Unternehmensstabilisierungs- und
 
 
 ### § 26 Zwangsversteigerungs- und Zwangsverwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002701311)
 
 (1) Die Kosten des Zwangsversteigerungs- und
 Zwangsverwaltungsverfahrens sowie des Verfahrens der Zwangsliquidation
@@ -830,6 +866,7 @@ Gesamtschuldner.
 
 
 ### § 26a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE010100360)
 
 Die Kosten des Umsetzungsverfahrens nach dem
 Verbraucherrechtedurchsetzungsgesetz schuldet nur der im zugrunde
@@ -837,6 +874,7 @@ liegenden Abhilfeverfahren verurteilte Unternehmer.
 
 
 ### § 27 Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002801311)
 
 Der Betroffene, der im gerichtlichen Verfahren nach dem Gesetz über
 Ordnungswidrigkeiten den Einspruch gegen einen Bußgeldbescheid
@@ -844,6 +882,7 @@ zurücknimmt, schuldet die entstandenen Kosten.
 
 
 ### § 28 Auslagen in weiteren Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE002904311)
 
 (1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der
 Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind Kopien oder
@@ -870,6 +909,7 @@ Prozesskostenhilfe ist der Antragsteller Schuldner der Auslagen, wenn
 
 
 ### § 29 Weitere Fälle der Kostenhaftung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003001311)
 
 Die Kosten schuldet ferner,
 
@@ -895,6 +935,7 @@ Die Kosten schuldet ferner,
 
 
 ### § 30 Erlöschen der Zahlungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003101311)
 
 Die durch gerichtliche oder staatsanwaltschaftliche Entscheidung
 begründete Verpflichtung zur Zahlung von Kosten erlischt, soweit die
@@ -905,6 +946,7 @@ werden bereits gezahlte Kosten zurückerstattet.
 
 
 ### § 31 Mehrere Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003203311)
 
 (1) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -950,6 +992,7 @@ aufgrund des § 29 Nummer 2 haftet, wenn
 
 
 ### § 32 Haftung von Streitgenossen und Beigeladenen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003301311)
 
 (1) Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht
 durch gerichtliche Entscheidung unter sie verteilt sind. Soweit einen
@@ -962,6 +1005,7 @@ worden sind.
 
 
 ### § 33 Verpflichtung zur Zahlung von Kosten in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003401311)
 
 Die nach den §§ 53 bis 55, 177, 209 und 269 der Insolvenzordnung sowie
 den §§ 466 und 471 Absatz 4 der Strafprozessordnung begründete
@@ -970,10 +1014,12 @@ Staatskasse.
 
 
 ## Abschnitt 6 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000601311)
 
 
 
 ### § 34 Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003504125)
 
 (1) Wenn sich die Gebühren nach dem Streitwert richten, beträgt bei
 einem Streitwert bis 500 Euro die Gebühr 40 Euro. Die Gebühr erhöht
@@ -1052,6 +1098,7 @@ aufgerundet.
 
 
 ### § 35 Einmalige Erhebung der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003601311)
 
 Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine
 Entscheidung werden in jedem Rechtszug hinsichtlich eines jeden Teils
@@ -1059,6 +1106,7 @@ des Streitgegenstands nur einmal erhoben.
 
 
 ### § 36 Teile des Streitgegenstands
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003701311)
 
 (1) Für Handlungen, die einen Teil des Streitgegenstands betreffen,
 sind die Gebühren nur nach dem Wert dieses Teils zu berechnen.
@@ -1074,6 +1122,7 @@ berechnete Gebühr darf jedoch nicht überschritten werden.
 
 
 ### § 37 Zurückverweisung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003801311)
 
 Wird eine Sache zur anderweitigen Verhandlung an das Gericht des
 unteren Rechtszugs zurückverwiesen, bildet das weitere Verfahren mit
@@ -1082,6 +1131,7 @@ Rechtszug.
 
 
 ### § 38 Verzögerung des Rechtsstreits
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE003902311)
 
 Wird außer im Fall des § 335 der Zivilprozessordnung durch Verschulden
 des Klägers, des Beklagten oder eines Vertreters die Vertagung einer
@@ -1099,14 +1149,17 @@ der Vertreter des öffentlichen Interesses sowie ihre Vertreter.
 
 
 ## Abschnitt 7 - Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000701311)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000801311)
 
 
 
 #### § 39 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004002311)
 
 (1) In demselben Verfahren und in demselben Rechtszug werden die Werte
 mehrerer Streitgegenstände zusammengerechnet, soweit nichts anderes
@@ -1117,6 +1170,7 @@ niedrigerer Höchstwert bestimmt ist.
 
 
 #### § 40 Zeitpunkt der Wertberechnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004101311)
 
 Für die Wertberechnung ist der Zeitpunkt der den jeweiligen
 Streitgegenstand betreffenden Antragstellung maßgebend, die den
@@ -1124,6 +1178,7 @@ Rechtszug einleitet.
 
 
 #### § 41 Miet-, Pacht- und ähnliche Nutzungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004203125)
 
 (1) Ist das Bestehen oder die Dauer eines Miet-, Pacht- oder ähnlichen
 Nutzungsverhältnisses streitig, ist der Betrag des auf die streitige
@@ -1168,6 +1223,7 @@ niedrigerer Betrag maßgebend.
 
 
 #### § 42 Wiederkehrende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004304311)
 
 (1) Bei Ansprüchen auf wiederkehrende Leistungen aus einem öffentlich-
 rechtlichen Dienst- oder Amtsverhältnis, einer Dienstpflicht oder
@@ -1203,6 +1259,7 @@ wird.
 
 
 #### § 43 Nebenforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004401311)
 
 (1) Sind außer dem Hauptanspruch auch Früchte, Nutzungen, Zinsen oder
 Kosten als Nebenforderungen betroffen, wird der Wert der
@@ -1218,6 +1275,7 @@ Hauptanspruchs nicht übersteigt.
 
 
 #### § 44 Stufenklage
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004501311)
 
 Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines
 Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen
@@ -1228,6 +1286,7 @@ höhere, maßgebend.
 
 
 #### § 45 Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004601311)
 
 (1) In einer Klage und in einer Widerklage geltend gemachte Ansprüche,
 die nicht in getrennten Prozessen verhandelt werden, werden
@@ -1250,10 +1309,12 @@ Absätze 1 bis 3 entsprechend anzuwenden.
 
 
 #### § 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004702311)
 
 
 
 #### § 47 Rechtsmittelverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004801311)
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Streitwert nach den
 Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass
@@ -1272,10 +1333,12 @@ maßgebende Wert.
 
 
 ### Unterabschnitt 2 - Besondere Wertvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG000901311)
 
 
 
 #### § 48 Bürgerliche Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE004906360)
 
 (1) In bürgerlichen Rechtsstreitigkeiten richten sich die Gebühren
 nach den für die Zuständigkeit des Prozessgerichts oder die
@@ -1301,6 +1364,7 @@ Anspruch, und zwar der höhere, maßgebend.
 
 
 #### § 49 Beschlussklagen nach dem Wohnungseigentumsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005003125)
 
 Der Streitwert in Verfahren nach § 44 Absatz 1 des
 Wohnungseigentumsgesetzes ist auf das Interesse aller
@@ -1311,6 +1375,7 @@ nicht übersteigen.
 
 
 #### § 50 Bestimmte Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009503131)
 
 (1) In folgenden Verfahren bestimmt sich der Wert nach § 3 der
 Zivilprozessordnung:
@@ -1357,12 +1422,14 @@ Prozent der Bruttoauftragssumme.
 
 
 #### § 50a Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE010000125)
 
 In Verfahren nach dem Agrarorganisationen-und-Lieferketten-Gesetz
 bestimmt sich der Wert nach § 3 der Zivilprozessordnung.
 
 
 #### § 51 Gewerblicher Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005207360)
 
 (1) In Rechtsmittelverfahren des gewerblichen Rechtsschutzes (§ 1
 Absatz 1 Satz 1 Nummer 14) und in Verfahren über Ansprüche nach dem
@@ -1404,6 +1471,7 @@ von Geschäftsgeheimnissen) sind anzuwenden.
 
 
 #### § 51a Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007805125)
 
 (1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 13 des
 Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach
@@ -1428,6 +1496,7 @@ Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 
 
 #### § 52 Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005306125)
 
 (1) In Verfahren vor den Gerichten der Verwaltungs-, Finanz- und
 Sozialgerichtsbarkeit ist, soweit nichts anderes bestimmt ist, der
@@ -1511,6 +1580,7 @@ Rechtszugs beantragt hat.
 
 
 #### § 53 Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005408377)
 
 (1) In folgenden Verfahren bestimmt sich der Wert nach § 3 der
 Zivilprozessordnung:
@@ -1570,6 +1640,7 @@ und 2:
 
 
 #### § 54 Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005502125)
 
 (1) Bei der Zwangsversteigerung von Grundstücken sind die Gebühren für
 das Verfahren im Allgemeinen und für die Abhaltung des
@@ -1614,12 +1685,14 @@ Ersteher.
 
 
 #### § 55 Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005601311)
 
 Die Gebühr für die Durchführung des Zwangsverwaltungsverfahrens
 bestimmt sich nach dem Gesamtwert der Einkünfte.
 
 
 #### § 56 Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005701311)
 
 Die §§ 54 und 55 gelten entsprechend für die Zwangsversteigerung von
 Schiffen, Schiffsbauwerken und Luftfahrzeugen sowie für die
@@ -1629,6 +1702,7 @@ unterliegen, einschließlich der unbeweglichen Kuxe.
 
 
 #### § 57 Zwangsliquidation einer Bahneinheit
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005801311)
 
 Bei der Zwangsliquidation einer Bahneinheit bestimmt sich die Gebühr
 für das Verfahren nach dem Gesamtwert der Bestandteile der
@@ -1636,6 +1710,7 @@ Bahneinheit.
 
 
 #### § 58 Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE005903125)
 
 (1) Die Gebühren für den Antrag auf Eröffnung des Insolvenzverfahrens
 und für die Durchführung des Insolvenzverfahrens werden nach dem Wert
@@ -1674,6 +1749,7 @@ Wert nach der Höhe der Kosten.
 
 
 #### § 59 Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006001311)
 
 Die Gebühren für den Antrag auf Eröffnung des Verteilungsverfahrens
 nach der Schifffahrtsrechtlichen Verteilungsordnung und für die
@@ -1685,6 +1761,7 @@ dem Gesamtbetrag der Ansprüche.
 
 
 #### § 59a Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE010200360)
 
 Im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
 bestimmt sich die Gebühr nach dem Gesamtwert der von dem
@@ -1692,6 +1769,7 @@ Umsetzungsverfahren erfassten Ansprüche.
 
 
 #### § 60 Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006102311)
 
 Für die Bestimmung des Werts in gerichtlichen Verfahren nach dem
 Strafvollzugsgesetz, auch in Verbindung mit § 92 des
@@ -1702,10 +1780,12 @@ Anordnung gilt § 52 Absatz 1 und 2 entsprechend.
 
 
 ### Unterabschnitt 3 - Wertfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG001001311)
 
 
 
 #### § 61 Angabe des Werts
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006202311)
 
 Bei jedem Antrag ist der Streitwert, sofern dieser nicht in einer
 bestimmten Geldsumme besteht, kein fester Wert bestimmt ist oder sich
@@ -1716,6 +1796,7 @@ werden.
 
 
 #### § 62 Wertfestsetzung für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006301311)
 
 Ist der Streitwert für die Entscheidung über die Zuständigkeit des
 Prozessgerichts oder die Zulässigkeit des Rechtsmittels festgesetzt,
@@ -1726,6 +1807,7 @@ Verfahren vor den Gerichten für Arbeitssachen.
 
 
 #### § 63 Wertfestsetzung für die Gerichtsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006404311)
 
 (1) Sind Gebühren, die sich nach dem Streitwert richten, mit der
 Einreichung der Klage-, Antrags-, Einspruchs- oder Rechtsmittelschrift
@@ -1766,6 +1848,7 @@ sich anderweitig erledigt hat.
 
 
 #### § 64 Schätzung des Werts
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006501311)
 
 Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem
 Beschluss, durch den der Wert festgesetzt wird (§ 63), über die Kosten
@@ -1777,6 +1860,7 @@ durch eine unbegründete Beschwerde veranlasst hat.
 
 
 #### § 65 Wertfestsetzung in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006602311)
 
 In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in
 Verbindung mit § 92 des Jugendgerichtsgesetzes, ist der Wert von Amts
@@ -1784,10 +1868,12 @@ wegen festzusetzen. § 63 Absatz 3 gilt entsprechend.
 
 
 ## Abschnitt 8 - Erinnerung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG001101311)
 
 
 
 ### § 66 Erinnerung gegen den Kostenansatz, Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006709311)
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen
 den Kostenansatz entscheidet das Gericht, bei dem die Kosten angesetzt
@@ -1856,6 +1942,7 @@ des Gerichts.
 
 
 ### § 67 Beschwerde gegen die Anordnung einer Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006803311)
 
 (1) Gegen den Beschluss, durch den die Tätigkeit des Gerichts nur
 aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten
@@ -1871,6 +1958,7 @@ muss, gilt dies auch im Beschwerdeverfahren.
 
 
 ### § 68 Beschwerde gegen die Festsetzung des Streitwerts
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE006905125)
 
 (1) Gegen den Beschluss, durch den der Wert für die Gerichtsgebühren
 festgesetzt worden ist (§ 63 Absatz 2), findet die Beschwerde statt,
@@ -1908,6 +1996,7 @@ sowie Absatz 6 ist entsprechend anzuwenden.
 
 
 ### § 69 Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007002311)
 
 Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der
 Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Gericht,
@@ -1918,6 +2007,7 @@ Absatz 6 und 8 ist entsprechend anzuwenden.
 
 
 ### § 69a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007603125)
 
 (1) Auf die Rüge eines durch die Entscheidung beschwerten Beteiligten
 ist das Verfahren fortzuführen, wenn
@@ -1960,10 +2050,12 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ## Abschnitt 9 - Schluss- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNG001202311)
 
 
 
 ### § 69b Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009001311)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass die von den Gerichten der Länder zu erhebenden
@@ -1985,10 +2077,12 @@ Rechtsmittel eingelegt worden ist.
 
 
 ### § 70 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007104311)
 
 
 
 ### § 70a Bekanntmachung von Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE008702125)
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
 Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
@@ -2009,6 +2103,7 @@ angeben
 
 
 ### § 71 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007202311)
 
 (1) In Rechtsstreitigkeiten, die vor dem Inkrafttreten einer
 Gesetzesänderung anhängig geworden sind, werden die Kosten nach
@@ -2032,6 +2127,7 @@ geworden sind.
 
 
 ### § 72 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007301311)
 
 Das Gerichtskostengesetz in der Fassung der Bekanntmachung vom 15.
 Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 2
@@ -2059,6 +2155,7 @@ Verweisungen hierauf sind weiter anzuwenden
 
 
 ### § 73 Übergangsvorschrift für die Erhebung von Haftkosten
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE008801311)
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die
@@ -2068,6 +2165,7 @@ Dezember 2010 geltenden Fassung anzuwenden.
 (zu § 3 Abs. 2)
 
 ### Anlage 1 Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE009318131)
 
 (Fundstelle: BGBl. I 2014, 172 - 216;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9837,6 +9935,7 @@ Auslagen
 
 
 ### Anlage 2 (zu § 34 Absatz 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/gkg_2004/BJNR071810004.html#BJNR071810004BJNE007504125)
 
 (Fundstelle: BGBl. 2025 I Nr. 109, S. 11)
 

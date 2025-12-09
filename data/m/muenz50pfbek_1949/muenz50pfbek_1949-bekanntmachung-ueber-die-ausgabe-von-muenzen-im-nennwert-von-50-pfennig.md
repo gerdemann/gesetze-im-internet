@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50pfbek_1949/BJNR503310949.html#BJNR503310949BJNE000100317)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des
 Geldwesens (Emissionsgesetz) werden demnächst neue auf 50 Pfennig

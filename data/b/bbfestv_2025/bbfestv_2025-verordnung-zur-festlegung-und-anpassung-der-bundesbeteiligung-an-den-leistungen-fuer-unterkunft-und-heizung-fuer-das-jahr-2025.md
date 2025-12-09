@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2025/BJNR0A00A0025.html#BJNR0A00A0025BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales verordnet aufgrund des §
 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Bürgergeld,
@@ -28,6 +29,7 @@ worden ist:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2025/BJNR0A00A0025.html#BJNR0A00A0025BJNE000200000)
 
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2025 rückwirkend angepasst
@@ -85,6 +87,7 @@ und für das Jahr 2026 festgelegt wird, beträgt
 
 
 ## § 2 Anpassung der Werte nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2025/BJNR0A00A0025.html#BJNR0A00A0025BJNE000300000)
 
 (1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2025
@@ -194,11 +197,13 @@ und für das Jahr 2026 festgelegt wird, beträgt
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2025/BJNR0A00A0025.html#BJNR0A00A0025BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2025/BJNR0A00A0025.html#BJNR0A00A0025BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

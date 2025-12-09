@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000100000)
 
 Auf Grund des § 32 Absatz 7 Satz 4 des Neunten Buches
 Sozialgesetzbuch, der durch Artikel 2 Nummer 2 Buchstabe b des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000200000)
 
 
 *    *   §  1
@@ -113,6 +115,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Beratungsangebote, Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000300000)
 
 (1) Das Bundesministerium für Arbeit und Soziales finanziert
 bundesweit ergänzende, niedrigschwellige Beratungsangebote zu
@@ -135,6 +138,7 @@ von den Bereichen der Leistungserbringung nachzuweisen.
 
 
 ## § 2 Beratung, Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000400000)
 
 (1) Das Beratungsangebot soll Ratsuchenden insbesondere im Vorfeld und
 während der Beantragung konkreter Leistungen die notwendige
@@ -156,6 +160,7 @@ Klageverfahren.
 
 
 ## § 3 Finanzierung der Beratungsangebote, Verteilungsschlüssel
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000500000)
 
 (1) Wird die Anzahl der dem Gebiet eines Landes zugeordneten
 Vollzeitäquivalente nicht ausgeschöpft, ist den antragstellenden
@@ -355,12 +360,14 @@ Arbeitszeit von 39 Stunden.
 
 
 ## § 4 Gegenstand und Höhe des Zuschusses pro Vollzeitäquivalent
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000601126)
 
 Der Zuschuss wird für Personal- und Sachausgaben gewährt. Er ist auf
 jährlich 110 000 Euro pro Vollzeitäquivalent begrenzt.
 
 
 ## § 5 Personalausgaben
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000700000)
 
 Für sozialversicherungspflichtig beschäftigte Beraterinnen und Berater
 wird ein Zuschuss unter Berücksichtigung ihrer Qualifikation und
@@ -371,6 +378,7 @@ besserstellen als vergleichbare Bundesbedienstete.
 
 
 ## § 6 Sachausgaben
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000800000)
 
 (1) Für Sachausgaben kann ein Zuschuss gewährt werden für:
 
@@ -420,6 +428,7 @@ besserstellen als vergleichbare Bundesbedienstete.
 
 
 ## § 7 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE000900000)
 
 Antragsberechtigt für die Gewährung von Zuschüssen sind juristische
 Personen mit Sitz in Deutschland. Nicht antragsberechtigt sind
@@ -427,6 +436,7 @@ Rehabilitationsträger nach dem Neunten Buch Sozialgesetzbuch.
 
 
 ## § 8 Voraussetzungen für die Gewährung des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001000000)
 
 (1) Der Antragsteller muss zuverlässig sein. Er ist zuverlässig, wenn
 er die Gewähr dafür bietet, das Beratungsangebot ordnungsgemäß
@@ -478,6 +488,7 @@ Zwecke der Gewinnerzielung erfolgt.
 
 
 ## § 9 Zuteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001100000)
 
 (1) Erfüllen bezogen auf das Gebiet eines Landes mehr Antragsteller
 die Voraussetzungen für die Gewährung des Zuschusses nach § 8 als für
@@ -513,6 +524,7 @@ entscheidet das Los.
 
 
 ## § 10 Zuständigkeit, Antragsverfahren, Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001200000)
 
 (1) Für die Gewährung des Zuschusses ist ein Antrag erforderlich. Der
 Antrag ist schriftlich oder elektronisch bei der zuständigen Stelle zu
@@ -535,6 +547,7 @@ Restlaufzeit der Bewilligungsperiode gestellt werden.
 
 
 ## § 11 Gewährung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001300000)
 
 (1) Die zuständige Stelle entscheidet über die Gewährung des
 Zuschusses durch Verwaltungsakt. Der Zuschuss kann unter Auflagen und
@@ -553,6 +566,7 @@ bereits gezahlten Teilzuschüsse in summarischer Form bestätigt wird.
 
 
 ## § 12 Dauer und Zeitraum der Bewilligungsperiode
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001400000)
 
 (1) Die erste Bewilligung von Zuschüssen nach dieser Verordnung
 erfolgt zum 1. Januar 2023.
@@ -563,6 +577,7 @@ endet mit Ablauf des 31. Dezember 2029.
 
 
 ## § 13 Tätigkeitsnachweis, Belegprüfung, Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001500000)
 
 (1) Die Träger der Beratungsangebote legen der zuständigen Stelle bis
 zum Ablauf des 31. März eines jeden Kalenderjahres einen
@@ -597,6 +612,7 @@ mitzuwirken.
 
 
 ## § 14 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001600000)
 
 Die zuständige Stelle erhebt bei den Trägern der Beratungsangebote
 regelmäßig nicht personenbezogene Daten über die Beratungsangebote
@@ -608,6 +624,7 @@ zuständige Stelle zu unterstützen.
 
 
 ## § 15 Mitteilungspflichten, sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001700000)
 
 (1) Die Träger der Beratungsangebote sind gegenüber der zuständigen
 Stelle verpflichtet, unverzüglich anzuzeigen, wenn in den
@@ -621,6 +638,7 @@ Verwendung des Zuschusses zu prüfen.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html#BJNR179600021BJNE001800000)
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 

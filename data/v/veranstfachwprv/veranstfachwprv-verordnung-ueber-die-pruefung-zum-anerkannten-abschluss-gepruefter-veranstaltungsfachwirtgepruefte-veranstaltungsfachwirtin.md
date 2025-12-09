@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Veranstaltungsfachwirt/zur Geprüften
@@ -100,6 +102,7 @@ und verantwortlich wahrgenommen werden können:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000301308)
 
 (1) Zur Prüfung in dem Prüfungsteil „Wirtschaftsbezogene
 Qualifikationen“ ist zuzulassen, wer
@@ -149,6 +152,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000401128)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -229,6 +233,7 @@ Leistungen erbracht wurden.
 
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000500000)
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen
 zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre
@@ -351,6 +356,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsfeldspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000600000)
 
 (1) Im Handlungsbereich „Analysieren von Märkten und Definieren von
 Marktchancen“ soll die Fähigkeit nachgewiesen werden, dass Märkte
@@ -590,6 +596,7 @@ Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -602,6 +609,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -641,6 +649,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -714,6 +723,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001700128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -740,6 +750,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen
@@ -759,6 +770,7 @@ der letzten Prüfung.
 
 
 ## § 11 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001002128)
 
 (1) Wer den Handlungsbereich „Führung und Zusammenarbeit“ bestanden
 hat, kann beantragen, eine zusätzliche Prüfung zum Nachweis der
@@ -784,6 +796,7 @@ auszustellen.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001101128)
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt Tagungs-, Kongress- und
 Messewirtschaft/zur Fachwirtin Tagungs-, Kongress- und Messewirtschaft
@@ -801,12 +814,14 @@ beantragt werden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001201128)
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001403128)
 
 (Fundstelle: BGBl. I 2019, 2296 – 2297)
 
@@ -1108,6 +1123,7 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/veranstfachwprv/BJNR010900008.html#BJNR010900008BJNE001503128)
 
 (Fundstelle: BGBl. I 2019, 2298)
 

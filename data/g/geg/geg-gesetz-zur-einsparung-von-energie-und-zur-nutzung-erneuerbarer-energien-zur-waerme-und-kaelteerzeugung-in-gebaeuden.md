@@ -37,9 +37,11 @@ Stand: Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 a
 
 
 ## Teil 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000100000)
 
 
 ### § 1 Zweck und Ziel
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000201128)
 
 (1) Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur
 Erreichung der nationalen Klimaschutzziele zu leisten. Dies soll durch
@@ -70,6 +72,7 @@ Bündnisverteidigung anzuwenden.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000300000)
 
 (1) Dieses Gesetz ist anzuwenden auf
 
@@ -154,6 +157,7 @@ befinden, ist dieses Gesetz nicht anzuwenden.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000401128)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -541,6 +545,7 @@ befinden, ist dieses Gesetz nicht anzuwenden.
 [^F827528_04_BJNR172810020BJNE000401128]: 
 
 ### § 4 Vorbildfunktion der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000501128)
 
 (1) Einem Nichtwohngebäude, das sich im Eigentum der öffentlichen Hand
 befindet und von einer Behörde genutzt wird, kommt eine
@@ -571,6 +576,7 @@ Abschnitt 3.
 
 
 ### § 5 Grundsatz der Wirtschaftlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000600000)
 
 Die Anforderungen und Pflichten, die in diesem Gesetz oder in den auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen aufgestellt
@@ -585,6 +591,7 @@ erwartende Nutzungsdauer zu berücksichtigen.
 
 
 ### § 6 Verordnungsermächtigung zur Verteilung der Betriebskosten und zu Abrechnungs- und Verbrauchsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000700000)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates vorzuschreiben, dass
@@ -653,6 +660,7 @@ Informationstechnik festgelegt wird.
 
 
 ### § 6a Verordnungsermächtigung zur Versorgung mit Fernkälte
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000801128)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann im
 Einvernehmen mit dem Bundesministerium der Justiz durch
@@ -678,6 +686,7 @@ Verwaltungsverfahrens.
 
 
 ### § 7 Regeln der Technik
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE000901128)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann
 gemeinsam mit dem Bundesministerium für Wohnen, Stadtentwicklung und
@@ -736,6 +745,7 @@ Deutschen Bundestag bis zum 31. Dezember 2022 gemeinsam einen Bericht
 
 
 ### § 8 Verantwortliche
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001000000)
 
 (1) Für die Einhaltung der Vorschriften dieses Gesetzes ist der
 Bauherr oder Eigentümer verantwortlich, soweit in diesem Gesetz nicht
@@ -749,6 +759,7 @@ werden.
 
 
 ### § 9 Überprüfung der Anforderungen an zu errichtende und bestehende Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001101128)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz und das
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen werden die
@@ -773,6 +784,7 @@ Abschnitt 1 Berücksichtigung finden können.
 
 
 ### § 9a Länderregelung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012800128)
 
 Die Länder können durch Landesrecht weitergehende Anforderungen an die
 Erzeugung und Nutzung von Strom oder Wärme sowie Kälte aus
@@ -782,12 +794,15 @@ Stromdirektheizungen stellen.
 
 
 ## Teil 2 - Anforderungen an zu errichtende Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000300000)
 
 
 #### § 10 Grundsatz und Niedrigstenergiegebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001201128)
 
 (1) Wer ein Gebäude errichtet, hat dieses als Niedrigstenergiegebäude
 nach Maßgabe von Absatz 2 zu errichten.
@@ -821,6 +836,7 @@ Gesundheit entgegensteht.
 
 
 #### § 11 Mindestwärmeschutz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001300000)
 
 (1) Bei einem zu errichtenden Gebäude sind Bauteile, die gegen die
 Außenluft, das Erdreich oder gegen Gebäudeteile mit wesentlich
@@ -835,6 +851,7 @@ Absatz 1 genügen.
 
 
 #### § 12 Wärmebrücken
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001400000)
 
 Ein Gebäude ist so zu errichten, dass der Einfluss konstruktiver
 Wärmebrücken auf den Jahres-Heizwärmebedarf nach den anerkannten
@@ -844,6 +861,7 @@ wird.
 
 
 #### § 13 Dichtheit
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001500000)
 
 Ein Gebäude ist so zu errichten, dass die wärmeübertragende
 Umfassungsfläche einschließlich der Fugen dauerhaft luftundurchlässig
@@ -853,6 +871,7 @@ Beheizung erforderlichen Mindestluftwechsel bleiben unberührt.
 
 
 #### § 14 Sommerlicher Wärmeschutz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001600000)
 
 (1) Ein Gebäude ist so zu errichten, dass der Sonneneintrag durch
 einen ausreichenden baulichen sommerlichen Wärmeschutz nach den
@@ -891,12 +910,15 @@ verzichtet werden.
 
 
 ### Abschnitt 2 - Jahres-Primärenergiebedarf und baulicher Wärmeschutz bei zu errichtenden Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000400000)
 
 
 #### Unterabschnitt 1 - Wohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000500000)
 
 
 ##### § 15 Gesamtenergiebedarf
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001701119)
 
 (1) Ein zu errichtendes Wohngebäude ist so zu errichten, dass der
 Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung
@@ -913,6 +935,7 @@ errichtenden Wohngebäudes nach Absatz 1 ist nach Maßgabe des § 20, der
 
 
 ##### § 16 Baulicher Wärmeschutz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001800000)
 
 Ein zu errichtendes Wohngebäude ist so zu errichten, dass der
 Höchstwert des spezifischen, auf die wärmeübertragende
@@ -922,6 +945,7 @@ entsprechenden Wertes des jeweiligen Referenzgebäudes nach § 15 Absatz
 
 
 ##### § 17 Aneinandergereihte Bebauung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE001900000)
 
 Werden aneinandergereihte Wohngebäude gleichzeitig errichtet, dürfen
 sie hinsichtlich der Anforderungen der §§ 12, 14, 15 und 16 wie ein
@@ -930,9 +954,11 @@ unberührt.
 
 
 #### Unterabschnitt 2 - Nichtwohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000600000)
 
 
 ##### § 18 Gesamtenergiebedarf
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002001119)
 
 (1) Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der
 Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung,
@@ -965,6 +991,7 @@ errichtenden Gebäudes bedingt sind.
 
 
 ##### § 19 Baulicher Wärmeschutz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002100000)
 
 Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass die
 Höchstwerte der mittleren Wärmedurchgangskoeffizienten der
@@ -973,9 +1000,11 @@ werden.
 
 
 ### Abschnitt 3 - Berechnungsgrundlagen und -verfahren
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000700000)
 
 
 #### § 20 Berechnung des Jahres-Primärenergiebedarfs eines Wohngebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002200000)
 
 (1) Für das zu errichtende Wohngebäude und das Referenzgebäude ist der
 Jahres-Primärenergiebedarf nach DIN V 18599: 2018-09 zu ermitteln.
@@ -1029,6 +1058,7 @@ Berechnungsverfahren anzuwenden:
 
 
 #### § 21 Berechnung des Jahres-Primärenergiebedarfs eines Nichtwohngebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002300000)
 
 (1) Für das zu errichtende Nichtwohngebäude und das Referenzgebäude
 ist der Jahres-Primärenergiebedarf nach DIN V 18599: 2018-09 zu
@@ -1071,6 +1101,7 @@ einem elektronischen Vorschaltgerät anzunehmen.
 
 
 #### § 22 Primärenergiefaktoren
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002402128)
 
 (1) Für die Ermittlung des Jahres-Primärenergiebedarfs nach § 20
 Absatz 1 oder Absatz 2 und nach § 21 Absatz 1 und 2 sind für den nicht
@@ -1250,6 +1281,7 @@ Berechnungsverfahrens ab dem Jahr 2030.
 
 
 #### § 23 Anrechnung von Strom aus erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002501119)
 
 (1) Strom aus erneuerbaren Energien, der im unmittelbaren räumlichen
 Zusammenhang zu einem zu errichtenden Gebäude erzeugt wird, darf bei
@@ -1271,6 +1303,7 @@ Photovoltaikmoduls nach DIN V 18599-9: 2018-09 Anhang B zu ermitteln.
 
 
 #### § 24 Einfluss von Wärmebrücken
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002601119)
 
 Unbeschadet der Regelung in § 12 ist der verbleibende Einfluss von
 Wärmebrücken bei der Ermittlung des Jahres-Primärenergiebedarfs nach §
@@ -1289,6 +1322,7 @@ werden.
 
 
 #### § 25 Berechnungsrandbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002700000)
 
 (1) Bei den Berechnungen für die Ermittlung des Jahres-
 Primärenergiebedarfs nach § 20 Absatz 1 oder Absatz 2 und nach § 21
@@ -1377,6 +1411,7 @@ Anforderungen nach diesem Gesetz.
 
 
 #### § 26 Prüfung der Dichtheit eines Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002800000)
 
 (1) Wird die Luftdichtheit eines zu errichtenden Gebäudes vor seiner
 Fertigstellung nach DIN EN ISO 9972: 2018-12 Anhang NA überprüft, darf
@@ -1428,6 +1463,7 @@ Nutzeinheiten begrenzt werden.
 
 
 #### § 27 Gemeinsame Heizungsanlage für mehrere Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE002900000)
 
 Wird ein zu errichtendes Gebäude mit Wärme aus einer Heizungsanlage
 versorgt, aus der auch andere Gebäude oder Teile davon Wärme beziehen,
@@ -1445,6 +1481,7 @@ zu berücksichtigen.
 
 
 #### § 28 Anrechnung mechanisch betriebener Lüftungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003000000)
 
 (1) Im Rahmen der Berechnung nach § 20 Absatz 1 oder Absatz 2 ist bei
 mechanischen Lüftungsanlagen die Anrechnung der Wärmerückgewinnung
@@ -1477,6 +1514,7 @@ eine nicht mehr als 50 Quadratmeter Gebäudenutzfläche hat, ist Absatz
 
 
 #### § 29 Berechnung des Jahres-Primärenergiebedarfs und des Transmissionswärmeverlustes bei aneinandergereihter Bebauung von Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003100000)
 
 (1) Bei der Berechnung des Jahres-Primärenergiebedarfs nach § 20 und
 des Transmissionswärmeverlustes von aneinandergereihten Wohngebäuden
@@ -1511,6 +1549,7 @@ Gebäudeteilen anzuwenden.
 
 
 #### § 30 Zonenweise Berücksichtigung von Energiebedarfsanteilen bei einem zu errichtenden Nichtwohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003200000)
 
 (1) Ist ein zu errichtendes Nichtwohngebäude nach § 21 Absatz 2 für
 die Berechnung des Jahres-Primärenergiebedarfs nach § 21 Absatz 1 in
@@ -1562,6 +1601,7 @@ ist.
 
 
 #### § 31 Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003302128)
 
 (1) Ein zu errichtendes Wohngebäude erfüllt die Anforderungen nach §
 10 Absatz 2 in Verbindung mit den §§ 15 bis 17, wenn es die
@@ -1576,6 +1616,7 @@ Berechnungen in Energiebedarfsausweisen zu verwenden sind.
 
 
 #### § 32 Vereinfachtes Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003400000)
 
 (1) Abweichend von § 21 Absatz 1 und 2 darf der Jahres-
 Primärenergiebedarf des zu errichtenden Nichtwohngebäudes und des
@@ -1672,6 +1713,7 @@ zu errichtenden Gebäudes.
 
 
 #### § 33 Andere Berechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003500000)
 
 Werden in einem Gebäude bauliche oder anlagentechnische Komponenten
 eingesetzt, für deren energetische Bewertung weder anerkannte Regeln
@@ -1687,63 +1729,79 @@ vorliegen.
 
 
 ### Abschnitt 4 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000801128)
 
 
 #### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003601128)
 
 
 
 #### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003701128)
 
 
 
 #### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003801128)
 
 
 
 #### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE003901128)
 
 
 
 #### § 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004001128)
 
 
 
 #### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004101128)
 
 
 
 #### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004201128)
 
 
 
 #### § 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004301128)
 
 
 
 #### § 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004401128)
 
 
 
 #### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004501128)
 
 
 
 #### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004601128)
 
 
 
 #### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004701128)
 
 
 
 ## Teil 3 - Anforderungen an bestehende Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG000901128)
 
 
 ### Abschnitt 1 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001001128)
 
 
 #### § 46 Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004800000)
 
 (1) Außenbauteile eines bestehenden Gebäudes dürfen nicht in einer
 Weise verändert werden, dass die energetische Qualität des Gebäudes
@@ -1759,6 +1817,7 @@ zum Arbeitsschutz oder zum Schutz der Gesundheit entgegensteht.
 
 
 #### § 47 Nachrüstung eines bestehenden Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE004901128)
 
 (1) Eigentümer eines Wohngebäudes sowie Eigentümer eines
 Nichtwohngebäudes, die nach ihrer Zweckbestimmung jährlich mindestens
@@ -1802,6 +1861,7 @@ angemessener Frist erwirtschaftet werden können.
 
 
 #### § 48 Anforderungen an ein bestehendes Gebäude bei Änderung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005000000)
 
 Soweit bei beheizten oder gekühlten Räumen eines Gebäudes
 Außenbauteile im Sinne der Anlage 7 erneuert, ersetzt oder erstmalig
@@ -1824,6 +1884,7 @@ Beratungsgesprächs schriftlich hinzuweisen.
 
 
 #### § 49 Berechnung des Wärmedurchgangskoeffizienten
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005100000)
 
 (1) Der Wärmedurchgangskoeffizient eines Bauteils nach § 48 wird unter
 Berücksichtigung der neuen und der vorhandenen Bauteilschichten
@@ -1852,6 +1913,7 @@ neuen Dämmschicht den Mindestwärmeschutz nach § 11 erfüllen.
 
 
 #### § 50 Energetische Bewertung eines bestehenden Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005201128)
 
 (1) Die Anforderungen des § 48 gelten als erfüllt, wenn
 
@@ -1940,6 +2002,7 @@ angewendet werden.
 
 
 #### § 51 Anforderungen an ein bestehendes Gebäude bei Erweiterung und Ausbau
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005301128)
 
 (1) Bei der Erweiterung und dem Ausbau eines Gebäudes um beheizte oder
 gekühlte Räume darf
@@ -1970,38 +2033,48 @@ Wärmeschutz nach § 14 einzuhalten.
 
 
 ### Abschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001101128)
 
 
 #### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005401128)
 
 
 
 #### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005501128)
 
 
 
 #### § 54 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005601128)
 
 
 
 #### § 55 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005701128)
 
 
 
 #### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005801128)
 
 
 
 ## Teil 4 - Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001200000)
 
 
 ### Abschnitt 1 - Aufrechterhaltung der energetischen Qualität bestehender Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001300000)
 
 
 #### Unterabschnitt 1 - Veränderungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001400000)
 
 
 ##### § 57 Verbot von Veränderungen; entgegenstehende Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE005900000)
 
 (1) Eine Anlage und Einrichtung der Heizungs-, Kühl- oder
 Raumlufttechnik oder der Warmwasserversorgung darf, soweit sie zum
@@ -2017,9 +2090,11 @@ entgegensteht.
 
 
 #### Unterabschnitt 2 - Betreiberpflichten
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001500000)
 
 
 ##### § 58 Betriebsbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006000000)
 
 (1) Energiebedarfssenkende Einrichtungen in Anlagen und Einrichtungen
 der Heizungs-, Kühl- und Raumlufttechnik sowie der
@@ -2033,6 +2108,7 @@ den Jahres-Primärenergiebedarf ausgleicht.
 
 
 ##### § 59 Sachgerechte Bedienung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006100000)
 
 Eine Anlage und Einrichtung der Heizungs-, Kühl- oder Raumlufttechnik
 oder der Warmwasserversorgung ist vom Betreiber sachgerecht zu
@@ -2040,6 +2116,7 @@ bedienen.
 
 
 ##### § 60 Wartung und Instandhaltung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006200000)
 
 (1) Komponenten, die einen wesentlichen Einfluss auf den Wirkungsgrad
 von Anlagen und Einrichtungen der Heizungs-, Kühl- und Raumlufttechnik
@@ -2053,6 +2130,7 @@ unberührt.
 
 
 ##### § 60a Prüfung und Optimierung von Wärmepumpen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012900128)
 
 (1) Wärmepumpen, die als Heizungsanlage zum Zweck der Inbetriebnahme
 in einem Gebäude mit mindestens sechs Wohnungen oder sonstigen
@@ -2168,6 +2246,7 @@ anzuwenden.
 
 
 ##### § 60b Prüfung und Optimierung älterer Heizungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013000128)
 
 (1) Eine Heizungsanlage mit Wasser als Wärmeträger, die nach Ablauf
 des 30. September 2009 eingebaut oder aufgestellt wurde, keine
@@ -2315,6 +2394,7 @@ vorzulegen:
 
 
 ##### § 60c Hydraulischer Abgleich und weitere Maßnahmen zur Heizungsoptimierung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013100128)
 
 (1) Ein Heizungssystem mit Wasser als Wärmeträger ist nach dem Einbau
 oder der Aufstellung einer Heizungsanlage zum Zweck der Inbetriebnahme
@@ -2366,12 +2446,15 @@ anzuwenden.
 [^F827528_05_BJNR172810020BJNE013100128]: 
 
 ### Abschnitt 2 - Einbau und Ersatz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001600000)
 
 
 #### Unterabschnitt 1 - Verteilungseinrichtungen und Warmwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001700000)
 
 
 ##### § 61 Verringerung und Abschaltung der Wärmezufuhr sowie Ein- und Ausschaltung elektrischer Antriebe
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006300000)
 
 (1) Wird eine Zentralheizung in ein Gebäude eingebaut, hat der Bauherr
 oder der Eigentümer dafür Sorge zu tragen, dass die Zentralheizung mit
@@ -2402,6 +2485,7 @@ werden.
 
 
 ##### § 62 Wasserheizung, die ohne Wärmeübertrager an eine Nah- oder Fernwärmeversorgung angeschlossen ist
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006400000)
 
 Bei einer Wasserheizung, die ohne Wärmeübertrager an eine Nah- oder
 Fernwärmeversorgung angeschlossen ist, kann die Pflicht nach § 61
@@ -2414,6 +2498,7 @@ geregelt wird.
 
 
 ##### § 63 Raumweise Regelung der Raumtemperatur
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006500000)
 
 (1) Wird eine heizungstechnische Anlage mit Wasser als Wärmeträger in
 ein Gebäude eingebaut, hat der Bauherr oder der Eigentümer dafür Sorge
@@ -2445,6 +2530,7 @@ werden.
 
 
 ##### § 64 Umwälzpumpe, Zirkulationspumpe
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006601128)
 
 Eine Zirkulationspumpe muss beim Einbau in eine Warmwasseranlage mit
 einer selbsttätig wirkenden Einrichtung zur Ein- und Ausschaltung
@@ -2452,9 +2538,11 @@ ausgestattet werden. Die Trinkwasserverordnung bleibt unberührt.
 
 
 #### Unterabschnitt 2 - Klimaanlagen und sonstige Anlagen der Raumlufttechnik
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001800000)
 
 
 ##### § 65 Begrenzung der elektrischen Leistung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006700000)
 
 Beim Einbau einer Klimaanlage, die eine Nennleistung für den
 Kältebedarf von mehr als 12 Kilowatt hat, und einer
@@ -2482,6 +2570,7 @@ H2 nach DIN EN 13053: 2012-02 erweitert werden.
 
 
 ##### § 66 Regelung der Be- und Entfeuchtung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006800000)
 
 (1) Soweit eine Anlage nach § 65 Satz 1 dazu bestimmt ist, die Feuchte
 der Raumluft unmittelbar zu verändern, muss diese Anlage beim Einbau
@@ -2499,6 +2588,7 @@ anzuwenden.
 
 
 ##### § 67 Regelung der Volumenströme
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE006900000)
 
 (1) Beim Einbau einer Anlage nach § 65 Satz 1 in Gebäude und bei der
 Erneuerung eines Zentralgerätes oder eines Luftkanalsystems einer
@@ -2525,6 +2615,7 @@ des zeitlichen Verlaufs erfassbar sind.
 
 
 ##### § 68 Wärmerückgewinnung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007000000)
 
 Wird eine Anlage nach § 65 Satz 1 in Gebäude eingebaut oder ein
 Zentralgerät einer solchen Anlage erneuert, muss diese mit einer
@@ -2538,9 +2629,11 @@ Luftvolumenstrom der Außenluftvolumenstrom maßgebend.
 
 
 #### Unterabschnitt 3 - Wärmedämmung von Rohrleitungen und Armaturen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG001900000)
 
 
 ##### § 69 Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007101128)
 
 (1) Werden Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen
 erstmalig in ein Gebäude eingebaut oder werden sie ersetzt, hat der
@@ -2555,6 +2648,7 @@ Anlage 8 begrenzt wird.
 
 
 ##### § 70 Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007200000)
 
 Werden Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen, die
 zu Klimaanlagen oder sonstigen Anlagen der Raumlufttechnik im Sinne
@@ -2566,9 +2660,11 @@ Kälteverteilungs- und Kaltwasserleitungen sowie Armaturen nach Anlage
 
 
 #### Unterabschnitt 4 - Anforderungen an Heizungsanlagen; Betriebsverbot für Heizkessel
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002001128)
 
 
 ##### § 71 Anforderungen an eine Heizungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007301128)
 
 (1) Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem
 Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65
@@ -2750,6 +2846,7 @@ Inbetriebnahme eingebaut oder aufgestellt werden.
 [^F827528_07_BJNR172810020BJNE007301128]: 
 
 ##### § 71a Gebäudeautomation
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013200128)
 
 (1) Ein Nichtwohngebäude mit einer Nennleistung der Heizungsanlage
 oder der kombinierten Raumheizungs- und Lüftungsanlage von mehr als
@@ -2835,6 +2932,7 @@ Herstellern.
 [^F827528_08_BJNR172810020BJNE013200128]: 
 
 ##### § 71b Anforderungen bei Anschluss an ein Wärmenetz und Pflichten für Wärmenetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013300128)
 
 (1) Beim Einbau oder bei der Aufstellung einer Hausübergabestation zum
 Anschluss an ein neues Wärmenetz, dessen Baubeginn nach Ablauf des 31.
@@ -2865,6 +2963,7 @@ Erfüllung der Anforderungen der Absätze 1 und 2 gleich.
 
 
 ##### § 71c Anforderungen an die Nutzung einer Wärmepumpe
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013400128)
 
 Beim Einbau einer oder mehrerer elektrischer Wärmepumpen gelten die
 Anforderungen des § 71 Absatz 1 als erfüllt, wenn eine oder mehrere
@@ -2873,6 +2972,7 @@ verbundenen Gebäude decken.
 
 
 ##### § 71d Anforderungen an die Nutzung einer Stromdirektheizung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013500128)
 
 (1) Eine Stromdirektheizung darf in einem zu errichtenden Gebäude zum
 Zweck der Inbetriebnahme nur eingebaut oder aufgestellt werden, wenn
@@ -2910,6 +3010,7 @@ Einzelraum-Stromdirektheizung anzuwenden.
 
 
 ##### § 71e Anforderungen an eine solarthermische Anlage
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013600128)
 
 Wird eine solarthermische Anlage mit Flüssigkeiten als Wärmeträger
 genutzt, müssen die darin enthaltenen Kollektoren oder das System mit
@@ -2926,6 +3027,7 @@ anerkannten Regeln der Technik erfolgen.
 
 
 ##### § 71f Anforderungen an Biomasse und Wasserstoff einschließlich daraus hergestellter Derivate
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013700128)
 
 (1) Der Betreiber einer mit flüssigen oder gasförmigen Brennstoffen
 beschickten Heizungsanlage hat sicherzustellen, dass mindestens 65
@@ -2981,6 +3083,7 @@ geltenden Fassung entsprechend anzuwenden.
 
 
 ##### § 71g Anforderungen an eine Heizungsanlage zur Nutzung von fester Biomasse
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013800128)
 
 Der Betreiber einer Feuerungsanlage im Sinne von § 1 Absatz 1 und § 2
 Nummer 5 der Verordnung über kleine und mittlere Feuerungsanlagen hat
@@ -3008,6 +3111,7 @@ bei der Nutzung von fester Biomasse sicherzustellen, dass
 
 
 ##### § 71h Anforderungen an eine Wärmepumpen- oder eine Solarthermie-Hybridheizung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE013900128)
 
 (1) Eine Wärmepumpen-Hybridheizung, bestehend aus einer elektrisch
 angetriebenen Wärmepumpe in Kombination mit einer Gas-, Biomasse- oder
@@ -3090,6 +3194,7 @@ Absatz 3 genannten Aperturfläche zu mindern.
 [^F827528_09_BJNR172810020BJNE013900128]: 
 
 ##### § 71i Allgemeine Übergangsfrist
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014000128)
 
 Im Fall eines Heizungsaustauschs nach den in § 71 Absatz 8 Satz 1 bis
 3 genannten Zeitpunkten kann höchstens für fünf Jahre übergangsweise
@@ -3107,6 +3212,7 @@ Hallenheizung nach § 71m.
 
 
 ##### § 71j Übergangsfristen bei Neu- und Ausbau eines Wärmenetzes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014100128)
 
 (1) Bis zum Anschluss an ein Wärmenetz nach § 71b Absatz 1 oder Absatz
 2 kann eine Heizungsanlage zum Zweck der Inbetriebnahme eingebaut oder
@@ -3171,6 +3277,7 @@ Entstehung der Mehrkosten nicht zu vertreten hat.
 
 
 ##### § 71k Übergangsfristen bei einer Heizungsanlage, die sowohl Gas als auch Wasserstoff verbrennen kann; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014200128)
 
 (1) Bis zum Anschluss an ein Wasserstoffnetz kann eine Heizungsanlage,
 die Erdgas verbrennen kann und auf die Verbrennung von 100 Prozent
@@ -3291,6 +3398,7 @@ erbracht werden.
 
 
 ##### § 71l Übergangsfristen bei einer Etagenheizung oder einer Einzelraumfeuerungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014300128)
 
 (1) In einem Gebäude, in dem mindestens eine Etagenheizung betrieben
 wird, sind die Anforderungen des § 71 Absatz 1 für Etagenheizungen
@@ -3361,6 +3469,7 @@ Inbetriebnahme in dem Gebäude eingebaut oder aufgestellt wurde.
 
 
 ##### § 71m Übergangsfrist bei einer Hallenheizung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014400128)
 
 (1) Abweichend von den Anforderungen des § 71 Absatz 1 kann höchstens
 für zehn Jahre nach dem Austausch der ersten einzelnen dezentralen
@@ -3394,6 +3503,7 @@ entsprechend anzuwenden.
 
 
 ##### § 71n Verfahren für Gemeinschaften der Wohnungseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014500128)
 
 (1) Für ein Gebäude, in dem Wohnungs- oder Teileigentum besteht und in
 dem mindestens eine Etagenheizung zum Zweck der Inbetriebnahme
@@ -3508,6 +3618,7 @@ aufgestellt ist und betrieben wird.
 
 
 ##### § 71o Regelungen zum Schutz von Mietern
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014600128)
 
 (1) In einem Gebäude mit Wohnungen, die vermietet sind, kann der
 Vermieter beim Einbau einer Wärmepumpe nach § 71c eine Mieterhöhung
@@ -3561,6 +3672,7 @@ oder Teilen von diesen entsprechend anzuwenden.
 [^F827528_10_BJNR172810020BJNE014600128]: 
 
 ##### § 71p Verordnungsermächtigung zu dem Einsatz von Kältemitteln in elektrischen Wärmepumpen und Wärmepumpen-Hybridheizungen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014700128)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates den Einsatz natürlicher Kältemittel in
@@ -3574,6 +3686,7 @@ können.
 
 
 ##### § 72 Betriebsverbot für Heizkessel, Ölheizungen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007401128)
 
 (1) Eigentümer von Gebäuden dürfen ihre Heizkessel, die mit einem
 flüssigen oder gasförmigen Brennstoff beschickt werden und vor dem 1.
@@ -3607,6 +3720,7 @@ mit fossilen Brennstoffen betrieben werden.
 
 
 ##### § 73 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007501128)
 
 (1) Bei einem Wohngebäude mit nicht mehr als zwei Wohnungen, von denen
 der Eigentümer eine Wohnung am 1. Februar 2002 selbst bewohnt hat,
@@ -3621,9 +3735,11 @@ Eigentumsübergang nach dem 1. Februar 2002.
 
 
 ### Abschnitt 3 - Energetische Inspektion von Klimaanlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002100000)
 
 
 #### § 74 Betreiberpflicht
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007601128)
 
 (1) Der Betreiber von einer in ein Gebäude eingebauten Klimaanlage mit
 einer Nennleistung für den Kältebedarf von mehr als 12 Kilowatt oder
@@ -3692,6 +3808,7 @@ eingebaut ist, das ausgestattet ist mit
 
 
 #### § 75 Durchführung und Umfang der Inspektion
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007700000)
 
 (1) Die Inspektion einer Klimaanlage oder einer kombinierten Klima-
 und Lüftungsanlage umfasst Maßnahmen zur Prüfung der Komponenten, die
@@ -3725,6 +3842,7 @@ Absätze 1 bis 3 zu unterziehen.
 
 
 #### § 76 Zeitpunkt der Inspektion
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007800000)
 
 (1) Die Inspektion ist erstmals im zehnten Jahr nach der
 Inbetriebnahme oder der Erneuerung wesentlicher Bauteile wie
@@ -3744,6 +3862,7 @@ Anlagendimensionierung nicht wiederholt werden.
 
 
 #### § 77 Fachkunde des Inspektionspersonals
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE007900000)
 
 (1) Eine Inspektion darf nur von einer fachkundigen Person
 durchgeführt werden.
@@ -3795,6 +3914,7 @@ gleichgestellt.
 
 
 #### § 78 Inspektionsbericht; Registriernummern
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008000000)
 
 (1) Die inspizierende Person hat einen Inspektionsbericht mit den
 Ergebnissen der Inspektion und Ratschlägen in Form von kurz gefassten
@@ -3818,9 +3938,11 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ## Teil 5 - Energieausweise
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002200000)
 
 
 ### § 79 Grundsätze des Energieausweises
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008100000)
 
 (1) Energieausweise dienen ausschließlich der Information über die
 energetischen Eigenschaften eines Gebäudes und sollen einen
@@ -3843,6 +3965,7 @@ Abschnitts nicht anzuwenden. Auf ein Baudenkmal ist § 80 Absatz 3 bis
 
 
 ### § 80 Ausstellung und Verwendung von Energieausweisen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008200000)
 
 (1) Wird ein Gebäude errichtet, ist ein Energiebedarfsausweis unter
 Zugrundelegung der energetischen Eigenschaften des fertiggestellten
@@ -3933,6 +4056,7 @@ entsprechend anzuwenden.
 
 
 ### § 81 Energiebedarfsausweis
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008300000)
 
 (1) Wird ein Energieausweis für ein zu errichtendes Gebäude auf der
 Grundlage des berechneten Energiebedarfs ausgestellt, sind die
@@ -3949,6 +4073,7 @@ anzuwenden.
 
 
 ### § 82 Energieverbrauchsausweis
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008400000)
 
 (1) Wird ein Energieausweis auf der Grundlage des erfassten
 Endenergieverbrauchs ausgestellt, sind der witterungsbereinigte
@@ -4017,6 +4142,7 @@ gemeinsam bekannt gemacht worden sind.
 
 
 ### § 83 Ermittlung und Bereitstellung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008500000)
 
 (1) Der Aussteller ermittelt die Daten, die in den Fällen des § 80
 Absatz 3 Satz 3 benötigt werden, sowie die Daten, die nach § 81 Absatz
@@ -4044,6 +4170,7 @@ Richtigkeit bestehen.
 
 
 ### § 84 Empfehlungen für die Verbesserung der Energieeffizienz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008600000)
 
 (1) Der Aussteller hat ein bestehendes Gebäude, für das er einen
 Energieausweis erstellt, vor Ort zu begehen oder sich für eine
@@ -4065,6 +4192,7 @@ Energieausweis zu vermerken.
 
 
 ### § 85 Angaben im Energieausweis
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008701128)
 
 (1) Ein Energieausweis muss mindestens folgende Angaben zur Ausweisart
 und zum Gebäude enthalten:
@@ -4273,6 +4401,7 @@ Absatz 6 und 7 und macht diese im Bundesanzeiger bekannt.
 
 
 ### § 86 Energieeffizienzklasse eines Wohngebäudes
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008800000)
 
 (1) Im Energieausweis ist die Energieeffizienzklasse des Wohngebäudes
 entsprechend der Einteilung nach Absatz 2 in Verbindung mit Anlage 10
@@ -4283,6 +4412,7 @@ unmittelbar aus dem Endenergieverbrauch oder Endenergiebedarf.
 
 
 ### § 87 Pflichtangaben in einer Immobilienanzeige
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE008900000)
 
 (1) Wird vor dem Verkauf, der Vermietung, der Verpachtung oder dem
 Leasing eines Gebäudes, einer Wohnung oder einer sonstigen
@@ -4326,6 +4456,7 @@ Wärme als auch für Strom jeweils getrennt aufzuführen.
 
 
 ### § 88 Ausstellungsberechtigung für Energieausweise
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009001128)
 
 (1) Zur Ausstellung eines Energieausweises ist nur eine Person
 berechtigt,
@@ -4416,9 +4547,11 @@ erfolgreich abgeschlossen hat.
 
 
 ## Teil 6 - Finanzielle Förderung der Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder Kälte und von Energieeffizienzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002300000)
 
 
 ### § 89 Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009101128)
 
 (1) Die Nutzung erneuerbarer Energien für die Erzeugung von Wärme oder
 Kälte, die Errichtung besonders energieeffizienter und die
@@ -4465,6 +4598,7 @@ Fördersatzes, einer Förderhöhe oder der Art eines Bonus.
 
 
 ### § 90 Geförderte Maßnahmen zur Nutzung erneuerbarer Energien
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009201128)
 
 (1) Gefördert werden können Maßnahmen im Zusammenhang mit der Nutzung
 erneuerbarer Energien zur Bereitstellung von Wärme oder Kälte,
@@ -4530,6 +4664,7 @@ den anerkannten Regeln der Technik berechnete Wirkungsgrad.
 
 
 ### § 91 Verhältnis zu den Anforderungen an ein Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009302128)
 
 (1) Maßnahmen können nicht gefördert werden, soweit sie der Erfüllung
 der Anforderungen nach § 10 Absatz 2, der Pflicht nach § 71 Absatz 1
@@ -4600,9 +4735,11 @@ dem der Bund oder das Land beteiligt sind, bleiben unberührt.
 
 
 ## Teil 7 - Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002400000)
 
 
 ### § 92 Erfüllungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009400000)
 
 (1) Für ein zu errichtendes Gebäude hat der Bauherr oder Eigentümer
 der nach Landesrecht zuständigen Behörde durch eine
@@ -4624,6 +4761,7 @@ entsprechend anzuwenden.
 
 
 ### § 93 Pflichtangaben in der Erfüllungserklärung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009500000)
 
 In der Erfüllungserklärung sind für das gesamte Gebäude oder, soweit
 die Berechnungen für unterschiedliche Zonen zu erfolgen haben,
@@ -4635,6 +4773,7 @@ den näheren Umfang der Nachweispflicht.
 
 
 ### § 94 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009600000)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das
 Verfahren zur Erfüllungserklärung, die Berechtigung zur Ausstellung
@@ -4652,6 +4791,7 @@ andere Behörden übertragen.
 
 
 ### § 95 Behördliche Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009700000)
 
 Die zuständige Behörde kann im Einzelfall die zur Erfüllung der
 Verpflichtungen aus diesem Gesetz erforderlichen Anordnungen treffen.
@@ -4662,6 +4802,7 @@ an sie richten, unmittelbar zu befolgen.
 
 
 ### § 96 Private Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009801128)
 
 (1) Wer geschäftsmäßig an oder in einem bestehenden Gebäude Arbeiten
 durchführt, hat dem Eigentümer unverzüglich nach Abschluss der
@@ -4813,6 +4954,7 @@ Zeitpunkt der Lieferung aufzubewahren.
 
 
 ### § 97 Aufgaben des bevollmächtigten Bezirksschornsteinfegers
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE009901128)
 
 (1) Bei einer heizungstechnischen Anlage prüft der bevollmächtigte
 Bezirksschornsteinfeger als Beliehener im Rahmen der Feuerstättenschau
@@ -4901,6 +5043,7 @@ bevollmächtigten Bezirksschornsteinfeger.
 
 
 ### § 98 Registriernummer
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010000000)
 
 (1) Wer einen Inspektionsbericht nach § 78 oder einen Energieausweis
 nach § 79 ausstellt, hat für diesen Bericht oder für diesen
@@ -4939,6 +5082,7 @@ Antragstellung zu erteilen.
 
 
 ### § 99 Stichprobenkontrollen von Energieausweisen und Inspektionsberichten über Klimaanlagen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010100000)
 
 (1) Die zuständige Behörde (Kontrollstelle) unterzieht
 Inspektionsberichte über Klimaanlagen oder über kombinierte Klima- und
@@ -5049,6 +5193,7 @@ entsprechend anzuwenden.
 
 
 ### § 100 Nicht personenbezogene Auswertung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010200000)
 
 (1) Die Kontrollstelle kann den nicht personenbezogenen Anteil der
 Daten, die sie im Rahmen des § 99 Absatz 3 Satz 1, Absatz 4, 6 Satz 1
@@ -5108,6 +5253,7 @@ Klimaanlagen insbesondere auf folgende Merkmale beziehen:
 
 
 ### § 101 Verordnungsermächtigung; Erfahrungsberichte der Länder
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010300000)
 
 (1) Die Landesregierungen werden ermächtigt, zu den in § 78 und in den
 §§ 98 bis 100 getroffenen Regelungen zur Erfassung und Kontrolle von
@@ -5164,6 +5310,7 @@ personenbezogenen Daten enthalten.
 
 
 ### § 102 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010402128)
 
 (1) Die nach Landesrecht zuständigen Behörden haben auf Antrag des
 Eigentümers oder Bauherren von den Anforderungen dieses Gesetzes zu
@@ -5222,6 +5369,7 @@ Eigentümers zum Austausch der Heizungsanlage verpflichtet sind.
 
 
 ### § 103 Innovationsklausel
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010502128)
 
 (1) Bis zum 31. Dezember 2025 können die nach Landesrecht zuständigen
 Behörden auf Antrag nach § 102 Absatz 1 Satz 1 Nummer 1
@@ -5327,9 +5475,11 @@ anzuwenden.
 
 
 ## Teil 8 - Besondere Gebäude, Bußgeldvorschriften, Anschluss- und Benutzungszwang
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002500000)
 
 
 ### § 104 Kleine Gebäude und Gebäude aus Raumzellen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010600000)
 
 Werden bei einem zu errichtenden kleinen Gebäude die für den Fall des
 erstmaligen Einbaus anzuwendenden Höchstwerte der
@@ -5341,6 +5491,7 @@ höchstens fünf Jahren bestimmt und aus Raumzellen von jeweils bis zu
 
 
 ### § 105 Baudenkmäler und sonstige besonders erhaltenswerte Bausubstanz
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010700000)
 
 Soweit bei einem Baudenkmal, bei auf Grund von Vorschriften des
 Bundes- oder Landesrechts besonders geschützter Bausubstanz oder bei
@@ -5352,6 +5503,7 @@ werden.
 
 
 ### § 106 Gemischt genutzte Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010800000)
 
 (1) Teile eines Wohngebäudes, die sich hinsichtlich der Art ihrer
 Nutzung und der gebäudetechnischen Ausstattung wesentlich von der
@@ -5369,6 +5521,7 @@ Absatz 1.
 
 
 ### § 107 Wärmeversorgung im Quartier
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE010901128)
 
 (1) In den Fällen des § 10 Absatz 2 oder des § 50 Absatz 1 in
 Verbindung mit § 48 können Bauherren oder Eigentümer, deren Gebäude in
@@ -5425,6 +5578,7 @@ zuständigen Behörde auf Verlangen vorzulegen ist.
 
 
 ### § 108 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011001128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -5598,6 +5752,7 @@ In den Fällen des Satzes 1 Nummer 3 Buchstabe b ist § 30 Absatz 2 Satz
 
 
 ### § 109 Anschluss- und Benutzungszwang
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011100000)
 
 Die Gemeinden und Gemeindeverbände können von einer Bestimmung nach
 Landesrecht, die sie zur Begründung eines Anschluss- und
@@ -5607,9 +5762,11 @@ Ressourcenschutzes Gebrauch machen.
 
 
 ## Teil 9 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNG002600000)
 
 
 ### § 110 Anforderungen an Anlagen der Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung und an Anlagen zur Nutzung erneuerbarer Energien
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011200000)
 
 Die technischen Anforderungen dieses Gesetzes an Anlagen der
 Heizungs-, Kühl- und Raumlufttechnik sowie der Warmwasserversorgung
@@ -5619,6 +5776,7 @@ soweit ein Durchführungsrechtsakt auf der Grundlage der Richtlinie
 
 
 ### § 111 Allgemeine Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011301128)
 
 (1) Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf
 Vorhaben, welche die Errichtung, die Änderung, die größere
@@ -5658,6 +5816,7 @@ bestandskräftig entschieden worden ist.
 
 
 ### § 112 Übergangsvorschriften für Energieausweise
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011400000)
 
 (1) Wird nach dem 1. November 2020 ein Energieausweis gemäß § 80
 Absatz 1, 2 oder Absatz 3 für ein Gebäude ausgestellt, auf das vor dem
@@ -5718,6 +5877,7 @@ Energieausweis zu übergeben; für die Vorlage und die Übergabe sind im
 
 
 ### § 113 Übergangsvorschriften für Aussteller von Energieausweisen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011500000)
 
 (1) Zur Ausstellung von Energieausweisen für bestehende Wohngebäude
 nach § 80 Absatz 3 sind ergänzend zu § 88 auch Personen berechtigt,
@@ -5748,6 +5908,7 @@ begonnen haben, nach erfolgreichem Abschluss der Fortbildung.
 
 
 ### § 114 Übergangsvorschrift über die vorläufige Wahrnehmung von Vollzugsaufgaben der Länder durch das Deutsche Institut für Bautechnik
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011600000)
 
 Bis zum Inkrafttreten der erforderlichen jeweiligen landesrechtlichen
 Regelungen zur Aufgabenübertragung nimmt das Deutsche Institut für
@@ -5762,6 +5923,7 @@ Jahre nach Inkrafttreten dieser Regelung anzuwenden.
 
 
 ### § 115 Übergangsvorschrift für Geldbußen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE014800128)
 
 § 108 Absatz 1 Nummer 12 und 16 bis 19, Absatz 2 Satz 1 Nummer 3
 Buchstabe b und Satz 2 ist bis zum Ablauf der Fristen nach § 71 Absatz
@@ -5771,6 +5933,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 15 Absatz 1)
 
 ### Anlage 1 Technische Ausführung des Referenzgebäudes (Wohngebäude)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011701119)
 
 (Fundstelle: BGBl. I 2020, 1767 - 1768; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -6076,6 +6239,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 18 Absatz 1)
 
 ### Anlage 2 Technische Ausführung des Referenzgebäudes (Nichtwohngebäude)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011800000)
 
 (Fundstelle: BGBl. I 2020, 1769 - 1773)
 
@@ -6808,6 +6972,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 19)
 
 ### Anlage 3 Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche (Nichtwohngebäude)
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE011900000)
 
 (Fundstelle: BGBl. I 2020, 1774)
 
@@ -6895,6 +7060,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 22 Absatz 1)
 
 ### Anlage 4 Primärenergiefaktoren
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012000000)
 
 (Fundstelle: BGBl. I 2020, 1775)
 
@@ -7037,6 +7203,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 31 Absatz 1)
 
 ### Anlage 5 Vereinfachtes Nachweisverfahren für ein zu errichtendes Wohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012101119)
 
 (Fundstelle: BGBl. I 2020, 1776 - 1781; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -7317,6 +7484,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 32 Absatz 3)
 
 ### Anlage 6 Zu verwendendes Nutzungsprofil für die Berechnungen des Jahres-Primärenergiebedarfs beim vereinfachten Berechnungsverfahren für ein zu errichtendes Nichtwohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012200000)
 
 (Fundstelle: BGBl. I 2020, 1782)
 
@@ -7434,6 +7602,7 @@ mehr als sechs Wohnungen, wenn dieser das Wohngebäude selber bewohnt.
 (zu § 48)
 
 ### Anlage 7 Höchstwerte der Wärmedurchgangskoeffizienten von Außenbauteilen bei Änderung an bestehenden Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012300000)
 
 (Fundstelle: BGBl. I 2020, 1783 - 1786)
 
@@ -7974,6 +8143,7 @@ ist.
 (zu den §§ 69 und 70)
 
 ### Anlage 8 Anforderungen an die Wärmedämmung von Rohrleitungen und Armaturen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012401128)
 
 (Fundstelle: BGBl. I 2020, 1787;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8105,6 +8275,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 85 Absatz 6)
 
 ### Anlage 9 Umrechnung in Treibhausgasemissionen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012501119)
 
 (Fundstelle: BGBl. I 2020, 1788 - 1789; bezüglich der einzelnen
 Änderungen vgl. Fußnote)
@@ -8400,6 +8571,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 86)
 
 ### Anlage 10 Energieeffizienzklassen von Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012600000)
 
 (Fundstelle: BGBl. I 2020, 1790)
 
@@ -8460,6 +8632,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 88 Absatz 2 Nummer 2)
 
 ### Anlage 11 Anforderungen an die Inhalte der Schulung für die Berechtigung zur Ausstellung von Energieausweisen
+[Direktlink](https://www.gesetze-im-internet.de/geg/BJNR172810020.html#BJNR172810020BJNE012700000)
 
 (Fundstelle: BGBl. I 2020, 1791 - 1792)
 

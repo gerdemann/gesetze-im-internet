@@ -25,6 +25,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000100305)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -37,18 +38,21 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000200305)
 
 Der Ausbildungsberuf Bühnenmaler und -plastiker/Bühnenmalerin und
 -plastikerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000300305)
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 Malerei und Plastik gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000400305)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -127,6 +131,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000500305)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -145,12 +150,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000600305)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000700305)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -159,6 +166,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000800305)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -180,6 +188,7 @@ gestalten.
 
 
 ## § 8 Abschlussprüfung in der Fachrichtung Malerei
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE000900305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -305,6 +314,7 @@ Leistungen erbracht sind.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Plastik
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE001000305)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -431,12 +441,14 @@ Leistungen erbracht sind.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE001100305)
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
+[Direktlink](https://www.gesetze-im-internet.de/b_hnenm_plastausbv/BJNR008300000.html#BJNR008300000BJNE001200305)
 
 (Fundstelle: BGBl. I 2000, 86 - 90)
 

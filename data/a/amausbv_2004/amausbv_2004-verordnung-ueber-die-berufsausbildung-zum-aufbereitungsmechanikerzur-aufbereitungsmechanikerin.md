@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -28,12 +29,14 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000200000)
 
 Der Ausbildungsberuf Aufbereitungsmechaniker/Aufbereitungsmechanikerin
 wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000300000)
 
 Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann
 zwischen den Fachrichtungen
@@ -58,6 +61,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -225,6 +229,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000500000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -242,6 +247,7 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -249,6 +255,7 @@ zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000700000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -257,6 +264,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -324,6 +332,7 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 
 
 ## § 8 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE000900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -594,6 +603,7 @@ Leistungen erbracht werden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE001000000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -602,12 +612,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Aufbereitungsmechaniker/zur Aufbereitungsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/amausbv_2004/BJNR016000004.html#BJNR016000004BJNE001200000)
 
 
 *    *   (Fundstelle BGBl. I 2004, 164 - 179)

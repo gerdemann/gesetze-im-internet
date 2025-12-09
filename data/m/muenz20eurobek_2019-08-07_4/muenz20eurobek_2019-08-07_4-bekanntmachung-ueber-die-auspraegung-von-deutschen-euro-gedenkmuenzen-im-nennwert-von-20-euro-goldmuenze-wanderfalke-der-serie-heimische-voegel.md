@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2019-08-07_4/BJNR138100019.html#BJNR138100019BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2016 bis
@@ -49,11 +50,13 @@ Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2019-08-07_4/BJNR138100019.html#BJNR138100019BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2019-08-07_4/BJNR138100019.html#BJNR138100019BJNE000300000)
 
 (Fundstelle: BGBl. I 2019, 1381)
 

@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000101360)
 
 Dieses Gesetz ist anzuwenden auf
 
@@ -40,6 +42,7 @@ Dieses Gesetz ist anzuwenden auf
 
 
 ### § 2 Elektronisches Wertpapier
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000200000)
 
 (1) Ein Wertpapier kann auch als elektronisches Wertpapier begeben
 werden. Ein elektronisches Wertpapier wird dadurch begeben, dass der
@@ -56,6 +59,7 @@ Bürgerlichen Gesetzbuchs.
 
 
 ### § 3 Inhaber und Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000300000)
 
 (1) Inhaber eines elektronischen Wertpapiers ist derjenige, der als
 Inhaber eines elektronischen Wertpapiers oder eines bestimmten Anteils
@@ -67,6 +71,7 @@ Wertpapier innehat.
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000400000)
 
 (1) Elektronische Wertpapierregister sind
 
@@ -126,6 +131,7 @@ Einheiten nach einem im Vorhinein festgelegten Muster verteilt sind.
 
 
 ### § 5 Niederlegung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000501360)
 
 (1) Der Emittent hat vor der Eintragung des elektronischen Wertpapiers
 in einem elektronischen Wertpapierregister die Emissionsbedingungen
@@ -172,6 +178,7 @@ nicht niederzulegen.
 
 
 ### § 6 Verhältnis zu Wertpapierurkunden
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000601360)
 
 (1) Ein Anspruch auf Ausreichung einzelner Wertpapierurkunden besteht
 nicht. Das gilt nicht, wenn die Emissionsbedingungen des
@@ -241,6 +248,7 @@ Wertpapierregister eingetragen werden.
 
 
 ### § 7 Registerführung; Schadenersatz
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000700000)
 
 (1) Die registerführende Stelle hat ein elektronisches
 Wertpapierregister so zu führen, dass Vertraulichkeit, Integrität und
@@ -270,6 +278,7 @@ des Depotgesetzes dar.
 
 
 ### § 8 Sammeleintragung; Einzeleintragung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000801360)
 
 (1) Auf Veranlassung des Emittenten kann als Inhaber elektronischer
 Wertpapiere bis zur Höhe des Nennbetrages der jeweiligen Emission, bei
@@ -292,6 +301,7 @@ ausgeschlossen ist.
 
 
 ### § 9 Sondervorschrift für Sammeleintragungen
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE000901360)
 
 (1) Elektronische Wertpapiere in Sammeleintragung gelten als
 Wertpapiersammelbestand. Die Berechtigten der eingetragenen
@@ -314,6 +324,7 @@ zur Sammeleintragung vermerkt ist.
 
 
 ### § 10 Publizität; Registergeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001000000)
 
 (1) Die registerführende Stelle muss sicherstellen, dass die
 Teilnehmer des elektronischen Wertpapierregisters elektronische
@@ -368,6 +379,7 @@ ab dem Eintragungsdatum zu vernichten.
 
 
 ### § 11 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht als
 Aufsichtsbehörde die Führung eines elektronischen Wertpapierregisters
@@ -375,9 +387,11 @@ nach diesem Gesetz.
 
 
 ## Abschnitt 2 - Zentrale Register
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000200000)
 
 
 ### § 12 Zentrale Register
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001200000)
 
 (1) Zentrale Register dienen der zentralen Eintragung und Publizität
 von Zentralregisterwertpapieren gemäß den nachfolgenden Bestimmungen.
@@ -404,6 +418,7 @@ Eintragungstätigkeit anzuzeigen.
 
 
 ### § 13 Registerangaben in zentralen Registern
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001301360)
 
 (1) Die registerführende Stelle hat sicherzustellen, dass das zentrale
 Register die folgenden Angaben über das eingetragene Wertpapier
@@ -488,6 +503,7 @@ sie nur zusammen abgerufen werden können.
 
 
 ### § 14 Änderungen des Registerinhalts
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001401360)
 
 (1) Die registerführende Stelle darf, soweit gesetzlich nicht anders
 bestimmt, Änderungen der Angaben nach § 13 Absatz 1 und 2 sowie die
@@ -561,6 +577,7 @@ Artikel 17 der Verordnung (EU) 2016/679, bleiben unberührt.
 
 
 ### § 15 Verordnungsermächtigung in Bezug auf zentrale Register
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001500000)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz und das
 Bundesministerium der Finanzen können für zentrale Register durch
@@ -634,9 +651,11 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 ## Abschnitt 3 - Kryptowertpapierregister
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000300000)
 
 
 ### § 16 Kryptowertpapierregister
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001601360)
 
 (1) Ein Kryptowertpapierregister muss auf einem fälschungssicheren
 Aufzeichnungssystem geführt werden, in dem Daten in der Zeitfolge
@@ -653,6 +672,7 @@ Aktiengesellschaft, ist etwas Abweichendes geregelt.
 
 
 ### § 17 Registerangaben im Kryptowertpapierregister
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001701360)
 
 (1) Die registerführende Stelle hat sicherzustellen, dass das
 Kryptowertpapierregister folgende Angaben über das eingetragene
@@ -737,6 +757,7 @@ sie nur zusammen abgerufen werden können.
 
 
 ### § 18 Änderungen des Registerinhalts
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001801360)
 
 (1) Die registerführende Stelle darf Änderungen der Angaben nach § 17
 Absatz 1 und 2 sowie die Löschung des Kryptowertpapiers und seiner
@@ -806,6 +827,7 @@ unverzüglich rückgängig machen. Die Rechte aus der Verordnung (EU)
 
 
 ### § 19 Registerauszug
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE001900000)
 
 (1) Die registerführende Stelle hat dem Inhaber eines einzeln
 eingetragenen Kryptowertpapiers auf Verlangen einen Registerauszug in
@@ -832,6 +854,7 @@ zu stellen:
 
 
 ### § 20 Liste der Kryptowertpapiere bei der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002001360)
 
 (1) Der Emittent hat der Aufsichtsbehörde unverzüglich mitzuteilen:
 
@@ -881,6 +904,7 @@ Liste enthält zu jedem Kryptowertpapier jeweils folgende Angaben:
 
 
 ### § 21 Pflichten des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002101360)
 
 (1) Der Emittent trifft die erforderlichen technischen und
 organisatorischen Maßnahmen, um die Integrität und die Authentizität
@@ -901,6 +925,7 @@ elektronisches Wertpapierregister zu übertragen.
 
 
 ### § 22 Wechsel des Wertpapierregisters
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002200000)
 
 Will der Emittent ein Kryptowertpapier in ein anderes elektronisches
 Wertpapierregister übertragen, benötigt er hierfür die Zustimmung
@@ -909,6 +934,7 @@ Aufsichtsbehörde.
 
 
 ### § 23 Verordnungsermächtigung in Bezug auf Kryptowertpapierregister
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002301360)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz und das
 Bundesministerium der Finanzen können für Kryptowertpapierregister
@@ -1053,9 +1079,11 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 ## Abschnitt 4 - Verfügungen über elektronische Wertpapiere in Einzeleintragung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000400000)
 
 
 ### § 24 Verfügungstransparenz
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002400000)
 
 Folgende Verfügungen bedürfen vorbehaltlich der sonstigen gesetzlichen
 Anforderungen zu ihrer Wirksamkeit einer Eintragung oder Umtragung in
@@ -1076,6 +1104,7 @@ dem elektronischen Wertpapierregister:
 
 
 ### § 25 Übereignung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002501360)
 
 (1) Zur Übertragung des Eigentums an einem elektronischen Wertpapier
 ist es erforderlich, dass das elektronische Wertpapier auf Weisung des
@@ -1095,6 +1124,7 @@ Namensaktien durch Indossament ist nicht möglich.
 
 
 ### § 26 Gutgläubiger Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002600000)
 
 Zugunsten desjenigen, der auf Grund eines Rechtsgeschäfts in ein
 elektronisches Wertpapierregister eingetragen wird, gilt der Inhalt
@@ -1110,6 +1140,7 @@ Absatz 2 Satz 3 und § 17 Absatz 2 Satz 3 fallen.
 
 
 ### § 27 Eigentumsvermutung für den Inhaber
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002700000)
 
 Sofern dieses Gesetz nichts anderes vorsieht, wird zugunsten des
 Inhabers eines elektronischen Wertpapiers vermutet, dass er für die
@@ -1117,9 +1148,11 @@ Dauer seiner Eintragung als Inhaber Eigentümer des Wertpapiers ist.
 
 
 ## Abschnitt 5 - Sondervorschriften zu Buch 2 Abschnitt 8 Titel 24 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000500000)
 
 
 ### § 28 Rechte aus der Schuldverschreibung; Einwendungen des Emittenten
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002800000)
 
 (1) Der Inhaber einer als elektronisches Wertpapier begebenen
 Schuldverschreibung kann vom Emittenten die in der Schuldverschreibung
@@ -1156,6 +1189,7 @@ nur folgende Einwendungen erheben:
 
 
 ### § 29 Leistungspflicht nur gegen Umtragung; Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE002900000)
 
 (1) Der Emittent einer elektronisch begebenen Schuldverschreibung ist
 zur Leistung aus der Schuldverschreibung nur verpflichtet, wenn der
@@ -1169,6 +1203,7 @@ Berechtigung.
 
 
 ### § 30 Außerordentliche Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003000000)
 
 Der Inhaber einer in einem Kryptowertpapierregister eingetragenen
 Schuldverschreibung ist zur außerordentlichen Kündigung berechtigt,
@@ -1181,9 +1216,11 @@ Absatz 2 und § 22 gleich.
 
 
 ## Abschnitt 6 - Sondervorschriften für elektronische Aktien
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000800360)
 
 
 ### § 30a Führung des Aktienregisters
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003400360)
 
 Der Emittent kann die registerführende Stelle auch mit der Führung des
 Aktienregisters nach § 67 Absatz 1 Satz 1 des Aktiengesetzes
@@ -1194,6 +1231,7 @@ Beendigung der Registerführung kündigen.
 
 
 ### § 30b Umtragung bei Ausschluss säumiger Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003500360)
 
 Der Emittent ist berechtigt, die Aktien, die zugunsten eines nach § 64
 Absatz 3 des Aktiengesetzes ausgeschlossenen Aktionärs im
@@ -1207,9 +1245,11 @@ Aktiengesetzes ist nicht anzuwenden.
 
 
 ## Abschnitt 7 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000601360)
 
 
 ### § 31 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003101360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1317,9 +1357,11 @@ Finanzdienstleistungsaufsicht.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNG000701360)
 
 
 ### § 32 Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003200000)
 
 (1) Soweit nicht § 17a des Depotgesetzes anzuwenden ist, unterliegen
 Rechte an einem elektronischen Wertpapier und Verfügungen über ein
@@ -1334,6 +1376,7 @@ Emittenten des elektronischen Wertpapiers maßgebend.
 
 
 ### § 33 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ewpg/BJNR142310021.html#BJNR142310021BJNE003301360)
 
 § 6 Absatz 3 ist auch auf Schuldverschreibungen, die vor dem 10. Juni
 2021 begeben wurden, sowie auf Aktien, die vor dem 15. Dezember 2023

@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000200000)
 
 Den folgenden in Peking am 15. September 1999 von der Bundesrepublik
 Deutschland unterzeichneten Verträgen des Weltpostvereins,
@@ -49,6 +51,7 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000301305)
 
 Das Bundesministerium für Wirtschaft und Energie kann den Wortlaut der
 Satzung in der vom Inkrafttreten des Sechsten Zusatzprotokolls an
@@ -57,6 +60,7 @@ Neufassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000401305)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die Ergänzenden
@@ -70,6 +74,7 @@ und Post zu verkünden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000502124)
 
 (1) Für die Bundesrepublik Deutschland nimmt die Deutsche Post AG die
 Rechte und Pflichten wahr, die sich für eine Postverwaltung im
@@ -124,6 +129,7 @@ nach Maßgabe des Artikels 43 des Weltpostvertrages zu erlassen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000600000)
 
 Für die Bundesrepublik Deutschland nimmt die Deutsche Postbank AG die
 Rechte und Pflichten wahr, die sich für eine Postverwaltung im
@@ -135,6 +141,7 @@ Schlussprotokoll ergeben. Die Vorschriften des Artikels 4 Abs. 2 Satz
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000700000)
 
 (1) Die Regulierungsbehörde für Telekommunikation und Post überwacht
 bei Unternehmen, die nach den Artikeln 4 und 5 für die Bundesrepublik
@@ -155,6 +162,7 @@ begangener Verstöße zu beheben.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1999g/BJNR144620002.html#BJNR144620002BJNE000800000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

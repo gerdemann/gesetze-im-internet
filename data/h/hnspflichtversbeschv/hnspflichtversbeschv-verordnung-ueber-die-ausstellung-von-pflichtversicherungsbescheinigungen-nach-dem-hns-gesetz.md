@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000100000)
 
 Auf Grund des § 3 Satz 1 Nummer 1 und 2, Nummer 2 auch in Verbindung
 mit Satz 2, des HNS-Gesetzes vom 16. Juli 2021 (BGBl. I S. 3079)
@@ -26,6 +27,7 @@ Infrastruktur:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000200000)
 
 Diese Verordnung regelt die Voraussetzungen für die Ausstellung, die
 Gültigkeit und die Einziehung der HNS-
@@ -34,6 +36,7 @@ Ausstellung und Einziehung der HNS-Pflichtversicherungsbescheinigung.
 
 
 ## § 2 Voraussetzungen für die Ausstellung der HNS-Pflichtversicherungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000300000)
 
 (1) Die Ausstellung einer HNS-Pflichtversicherungsbescheinigung setzt
 einen schriftlichen oder elektronischen Antrag des Eigentümers des
@@ -90,6 +93,7 @@ Schiffes an das Bundesamt für Seeschifffahrt und Hydrographie voraus.
 
 
 ## § 3 Ausstellung der HNS-Pflichtversicherungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000400000)
 
 (1) Bei der Ausstellung der HNS-Pflichtversicherungsbescheinigung ist
 das Muster der Anlage zu dieser Verordnung zu verwenden.
@@ -102,6 +106,7 @@ befristet werden.
 
 
 ## § 4 Pflichten des Antragstellers
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000500000)
 
 Nach Ausstellung der HNS-Pflichtversicherungsbescheinigung ist der
 Eigentümer verpflichtet, dem Bundesamt für Seeschifffahrt und
@@ -124,6 +129,7 @@ Hydrographie Folgendes unverzüglich mitzuteilen:
 
 
 ## § 5 Einziehung der HNS-Pflichtversicherungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000600000)
 
 Besteht die Versicherung oder die sonstige Sicherheit nicht mehr oder
 genügt sie nicht mehr den Anforderungen des Artikels 12 Absatz 1 in
@@ -134,6 +140,7 @@ unrichtige oder unvollständige Angaben gemacht worden sind.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000700000)
 
 Ordnungswidrig im Sinne des § 12 Absatz 1 Nummer 1 des HNS-Gesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Nummer 1 oder 2
@@ -142,11 +149,13 @@ rechtzeitig macht.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/hnspflichtversbeschv/BJNR422600021.html#BJNR422600021BJNE000900000)
 
 (Fundstelle: BGBl. I 2021, 4228)
 

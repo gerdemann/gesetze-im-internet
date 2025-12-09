@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4itabek/BJNR004800962.html#BJNR004800962BJNE000100303)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 vom 9. Mai 1961 (Bundesgesetzbl. I S. 574) werden in der Anlage
@@ -26,11 +27,13 @@ Italien für bestimmte Waren eingeführt sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4itabek/BJNR004800962.html#BJNR004800962BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Italienische Prüf- und Gewährzeichen
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4itabek/BJNR004800962.html#BJNR004800962BJNE000200303)
 
 (Fundstelle: BGBl. I 1962, 480)
 (Inhalt: nicht darstellbare Prüf- und Gewährzeichen)

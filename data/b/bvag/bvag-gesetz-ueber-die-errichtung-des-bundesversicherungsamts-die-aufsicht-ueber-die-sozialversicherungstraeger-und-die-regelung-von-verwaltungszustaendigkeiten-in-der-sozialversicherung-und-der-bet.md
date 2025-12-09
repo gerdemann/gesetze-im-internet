@@ -22,11 +22,13 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000100314)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000202126)
 
 (1)
 
@@ -41,6 +43,7 @@ Bundesregierung oder der Bundesminister für Arbeit zuständig ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000301126)
 
 (1)
 
@@ -56,6 +59,7 @@ Soziale Sicherung zuständig ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000400314)
 
 Soweit das frühere Reichsversicherungsamt zum Erlaß von allgemeinen
 Verwaltungsvorschriften ermächtigt war, werden diese Ermächtigungen
@@ -65,11 +69,13 @@ bundesunmittelbare Sozialversicherungsträger handelt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000500314)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000601126)
 
 Die Verwaltungsaufgaben und -befugnisse, die bis zum 31. Dezember 1953
 den Oberversicherungsämtern oder ihren Vorsitzenden zustanden, gehen
@@ -81,6 +87,7 @@ das Bundesamt für Soziale Sicherung über.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000701126)
 
 Soweit in sozialversicherungsrechtlichen Vorschriften
 Veröffentlichungen in amtlichen Verkündungsblättern des Reiches
@@ -90,10 +97,12 @@ des Bundesamtes für Soziale Sicherung erfolgen im Bundesarbeitsblatt.
 
 
 ## (XXXX) §§ 8 bis 10
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000800314)
 
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE000901126)
 
 Das Bundesamt für Soziale Sicherung hat auch die nach den Richtlinien
 zur Gewährung von Bundesbeihilfen zum Ausgleich von Härten im Rahmen
@@ -103,6 +112,7 @@ zustehenden Aufgaben und Befugnisse.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE001001126)
 
 Die nach diesem Gesetz dem Bundesamt für Soziale Sicherung zustehenden
 Aufgaben und Befugnisse gehen zu einem vom Bundesminister für Arbeit
@@ -111,6 +121,7 @@ Zeitpunkt des Übergangs ist im Bundesanzeiger bekanntzumachen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE001100314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -120,6 +131,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/bvag/BJNR004150956.html#BJNR004150956BJNE001200314)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft;
 zu demselben Zeitpunkt treten die diesem Gesetz entgegenstehenden

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/egvg/BJNR208000017.html#BJNR208000017BJNE000100000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie erstellt die
 gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung.
@@ -34,6 +35,7 @@ durch das Bundesministerium für Wirtschaft und Energie veröffentlicht.
 
 
 ## § 2 Erstellung, Inhalt, Mittel und Form
+[Direktlink](https://www.gesetze-im-internet.de/egvg/BJNR208000017.html#BJNR208000017BJNE000200000)
 
 (1) Die Bundesregierung erstellt jährlich in der Regel drei
 gesamtwirtschaftliche Vorausschätzungen, die der Haushalts- und
@@ -58,6 +60,7 @@ der erforderlichen Informationen aus ihrem Zuständigkeitsbereich.
 
 
 ## § 3 Verordnungsermächtigung zur Überprüfung der gesamtwirtschaftlichen Vorausschätzungen durch eine unabhängige Einrichtung
+[Direktlink](https://www.gesetze-im-internet.de/egvg/BJNR208000017.html#BJNR208000017BJNE000300000)
 
 Die gesamtwirtschaftlichen Vorausschätzungen, die den Haushalts- und
 Finanzplanungen der Bundesregierung zugrunde liegen, sind von einer
@@ -99,6 +102,7 @@ durch Rechtsverordnung zu bestimmen
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/egvg/BJNR208000017.html#BJNR208000017BJNE000400000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

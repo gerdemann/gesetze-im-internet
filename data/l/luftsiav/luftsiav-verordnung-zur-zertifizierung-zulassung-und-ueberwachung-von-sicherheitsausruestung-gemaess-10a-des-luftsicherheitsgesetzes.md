@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000100000)
 
 Auf Grund des § 17 Absatz 5 des Luftsicherheitsgesetzes, der durch
 Artikel 1 Nummer 19 Buchstabe c des Gesetzes vom 23. Februar 2017
@@ -30,9 +31,11 @@ Infrastruktur:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000200000)
 
 Diese Verordnung gilt für die Zertifizierung, Zulassung und
 Überwachung von Sicherheitsausrüstung im Sinne von § 10a des
@@ -40,6 +43,7 @@ Luftsicherheitsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000300000)
 
 (1) Betreiber der Sicherheitsausrüstung ist jede öffentliche Stelle
 oder natürliche oder juristische Person, Gesellschaft oder andere
@@ -90,6 +94,7 @@ beschreibt.
 
 
 ### § 3 Maßgebliche Standards und weitergehende Anforderungen für Sicherheitsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000400000)
 
 (1) Die maßgeblichen Standards für Sicherheitsausrüstung nach § 10a
 Absatz 2 Satz 2 Nummer 1 des Luftsicherheitsgesetzes ergeben sich aus
@@ -130,9 +135,11 @@ nach den besonderen Bestimmungen des Geheimschutzes berechtigt ist.
 
 
 ## Abschnitt 2 - Zertifizierung von Sicherheitsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000200000)
 
 
 ### § 4 Zertifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000500000)
 
 (1) Die Erteilung eines Zertifikats ist vom Hersteller der
 Sicherheitsausrüstung bei der zuständigen Zertifizierungsstelle
@@ -176,6 +183,7 @@ Verfügung zu stellen.
 
 
 ### § 5 Zertifikat
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000600000)
 
 (1) Die zuständige Zertifizierungsstelle erteilt nach erfolgreicher
 Prüfung der Sicherheitsausrüstung ein Zertifikat. Das Zertifikat gilt
@@ -232,6 +240,7 @@ für alle baugleichen Geräte.
 
 
 ### § 6 Veröffentlichung erteilter Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000700000)
 
 Die zuständige Zertifizierungsstelle veröffentlicht die Zertifikate
 auf ihrer Internetseite spätestens drei Monate nach
@@ -242,6 +251,7 @@ Internetseite als solche gekennzeichnet.
 
 
 ### § 7 Gegenseitige Anerkennung erteilter Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000800000)
 
 Eine nationale Zertifizierungsstelle erkennt das von der anderen
 nationalen Zertifizierungsstelle für Sicherheitsausrüstung
@@ -252,6 +262,7 @@ Nationalen Luftsicherheitsprogramm zu Grunde liegen.
 
 
 ### § 8 Nachträgliche Änderung wesentlicher Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE000900000)
 
 (1) Die nachträgliche Änderung einer oder mehrerer wesentlicher
 Komponenten einer zertifizierten Sicherheitsausrüstung bedarf der
@@ -310,9 +321,11 @@ neues Zertifikat nach § 4 zu beantragen.
 
 
 ## Abschnitt 3 - Zulassung von Sicherheitsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000300000)
 
 
 ### § 9 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001000000)
 
 (1) Die Zulassung zertifizierter Sicherheitsausrüstung ist vom
 Betreiber der Sicherheitsausrüstung bei der zuständigen
@@ -331,6 +344,7 @@ Sicherheitsausrüstung für die Zulassung zur Verfügung.
 
 
 ### § 10 Zulassungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001100000)
 
 (1) Die zuständige Luftsicherheitsbehörde erteilt dem Betreiber einen
 Bescheid über die erfolgreiche Zulassung der Sicherheitsausrüstung.
@@ -366,6 +380,7 @@ Bescheid über die erfolgreiche Zulassung der Sicherheitsausrüstung.
 
 
 ### § 11 Nachträgliche Änderung des Einsatzortes, der Umgebungsbedingungen und Austausch wesentlicher Komponenten
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001200000)
 
 (1) Eine Änderung des Einsatzortes oder der Umgebungsbedingungen,
 insbesondere hinsichtlich der elektromagnetischen, chemischen oder
@@ -415,9 +430,11 @@ zuständige Luftsicherheitsbehörde wieder erfüllt werden. Absatz 3 Satz
 
 
 ## Abschnitt 4 - Zulassung von Sprengstoffspürhunden, Hundeführern und Sprengstoffspürhunde-Teams
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000400000)
 
 
 ### § 12 Voraussetzungen für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001300000)
 
 (1) Ein Sprengstoffspürhund bildet zusammen mit seinem Hundeführer ein
 Sprengstoffspürhunde-Team und kann in dieser Kombination zur
@@ -442,6 +459,7 @@ das Sprengstoffspürhunde-Team erfolgt nicht.
 
 
 ### § 13 Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001400000)
 
 Die Anforderungen für die Verwendung von Sprengstoffspürhunden ergeben
 sich aus Anlage 12-D des Durchführungsbeschlusses der Kommission
@@ -455,6 +473,7 @@ des Durchführungsbeschlusses der Kommission C (2015) 8005.
 
 
 ### § 14 Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001500000)
 
 (1) Die Zulassung eines Sprengstoffspürhunde-Teams ist vom Hundeführer
 bei der zuständigen Behörde schriftlich zu beantragen. Dem Antrag sind
@@ -491,6 +510,7 @@ und Ort der Zulassungsprüfung mit.
 
 
 ### § 15 Zulassungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001600000)
 
 (1) Nach erfolgreich abgeschlossener Zulassungsprüfung erteilt die
 zuständige Behörde dem Antragsteller einen Bescheid über die
@@ -528,6 +548,7 @@ ist längstens zwölf Monate gültig.
 
 
 ### § 16 Verlängerung des Zulassungsbescheides
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001700000)
 
 (1) Vor Ablauf der Zulassung eines Sprengstoffspürhunde-Teams kann vom
 Hundeführer bei der zuständigen Behörde die Verlängerung des
@@ -546,9 +567,11 @@ vermerkt.
 
 
 ## Abschnitt 5 - Überwachung von Sicherheitsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000500000)
 
 
 ### § 17 Durchführung von Routinetests
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001800000)
 
 (1) Die Überwachung von zugelassener Sicherheitsausrüstung durch
 Routinetests am Einsatzort erfolgt durch die zuständige
@@ -572,6 +595,7 @@ zuständigen Luftsicherheitsbehörde.
 
 
 ### § 18 Durchführung von Funktionstests
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE001900000)
 
 (1) Der Betreiber der Sicherheitsausrüstung hat die zugelassene
 Sicherheitsausrüstung durch Funktionstests an ihrem Einsatzort nach
@@ -591,9 +615,11 @@ erlischt die Zulassung.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNG000600000)
 
 
 ### § 19 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE002000000)
 
 Das Bundesministerium des Innern, für Bau und Heimat und das
 Bundesministerium für Verkehr und digitale Infrastruktur können
@@ -605,6 +631,7 @@ erforderlich ist.
 
 
 ### § 20 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE002100000)
 
 (1) Die am Tag vor dem 28. Mai 2021 in Anlage R3 zum Nationalen
 Luftsicherheitsprogramm aufgeführte Sicherheitsausrüstung gilt als
@@ -625,11 +652,13 @@ gelten § 6 Satz 1 und die §§ 7, 8, 10 und 11 entsprechend.
 
 
 ### § 21 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE002200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsiav/BJNR115900021.html#BJNR115900021BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 

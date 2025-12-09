@@ -29,6 +29,7 @@ Stand: Das G tritt gem. § 9 Satz 2 dieses G mWv 1.1.2027 außer Kraft
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000200000)
 
 (1) Dieses Gesetz dient dem zeitnahen Erreichen eines breiten,
 modernen und innovationsorientierten Fähigkeitsspektrums der
@@ -42,6 +43,7 @@ Vergabeverfahren vereinfacht berücksichtigt werden können.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000300000)
 
 Dieses Gesetz gilt für öffentliche Aufträge, deren geschätzter
 Auftrags- oder Vertragswert ohne Umsatzsteuer die Schwellenwerte gemäß
@@ -80,6 +82,7 @@ eine der folgenden Leistungen umfasst:
 
 
 ## § 3 Beschleunigte Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000400000)
 
 (1) Abweichend von § 97 Absatz 4 Satz 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen dürfen mehrere Teil- oder Fachlose zusammen
@@ -146,6 +149,7 @@ Zusatzkosten rechtfertigt.
 
 
 ## § 4 Gemeinsame europäische Beschaffung
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000500000)
 
 (1) Abweichend von § 97 Absatz 2 des Gesetzes gegen
 Wettbewerbsbeschränkungen dürfen Auftraggeber die Teilnahme an einem
@@ -221,6 +225,7 @@ bindenden internationalen Übereinkommen beigetreten ist, und der
 
 
 ## § 5 Beschleunigte Verfahren vor der Vergabekammer
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000600000)
 
 (1) Ergänzend zu § 166 Absatz 1 Satz 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen kann auch nach Lage der Akten entschieden
@@ -254,6 +259,7 @@ und 5 zu beachten.
 
 
 ## § 6 Beschleunigte sofortige Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000700000)
 
 (1) Bei der Abwägung nach § 173 Absatz 2 Satz 1 des Gesetzes gegen
 Wettbewerbsbeschränkungen ist auch der Zweck des § 1 zu
@@ -296,6 +302,7 @@ selbst.
 
 
 ## § 7 Verstärkte Berücksichtigung von Sicherheitsinteressen im Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000800000)
 
 (1) § 145 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen
 umfasst auch Aufträge, die den Zwecken der Tätigkeiten des
@@ -336,6 +343,7 @@ Auftrag in den Anwendungsbereich des jeweiligen Übereinkommens fällt.
 
 
 ## § 8 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE000900000)
 
 Die Regelungen dieses Gesetzes sind auf vor dem Inkrafttreten dieses
 Gesetzes begonnene, aber noch nicht abgeschlossene Vergabeverfahren
@@ -344,6 +352,7 @@ Gegenstand haben.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bwbbg/BJNR107800022.html#BJNR107800022BJNE001000000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Es tritt mit
 Ablauf des 31. Dezember 2026 außer Kraft.

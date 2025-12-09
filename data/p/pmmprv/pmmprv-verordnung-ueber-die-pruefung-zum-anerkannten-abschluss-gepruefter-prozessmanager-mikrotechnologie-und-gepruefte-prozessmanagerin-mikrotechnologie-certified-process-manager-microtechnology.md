@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -34,6 +35,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000201360)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Prozessmanager – Mikrotechnologie und zur Geprüften
@@ -92,6 +94,7 @@ Microtechnology).
 
 
 ## § 2 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000300000)
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -112,6 +115,7 @@ nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000401360)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -147,6 +151,7 @@ rechtfertigen.
 
 
 ## § 4 Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse"
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000501128)
 
 (1) Im Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse" sollen
 die folgenden Befähigungen nachgewiesen werden:
@@ -214,6 +219,7 @@ Fachgesprächs sind die Befähigungen nach Absatz 1 zu bewerten.
 
 
 ## § 5 Prüfungsteil "Mikrotechnologie-Fachaufgaben"
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000600000)
 
 (1) Im Prüfungsteil "Mikrotechnologie-Fachaufgaben" soll die
 Befähigung zur Bewältigung berufstypischer Probleme nachgewiesen
@@ -338,6 +344,7 @@ gewichtet.
 
 
 ## § 6 Prüfungsteil "Mitarbeiterführung und Personalmanagement"
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000701128)
 
 (1) Im Prüfungsteil "Mitarbeiterführung und Personalmanagement" sind
 durch die Bearbeitung der Situationsaufgaben folgende Befähigungen
@@ -538,6 +545,7 @@ höchstens 30 Minuten vorzubereiten.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000802128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -550,6 +558,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 8 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE000900000)
 
 (1) Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
@@ -565,6 +574,7 @@ auszustellen.
 
 
 ## § 9 Bewerten von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001001128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -583,6 +593,7 @@ Situationsaufgaben zu bilden.
 
 
 ## § 10 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001600128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 Prüfungsleistungen nach § 9 Absatz 2 jeweils mindestens 50 Punkte
@@ -623,6 +634,7 @@ ist die Gesamtnote.
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001700128)
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
@@ -649,6 +661,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001101128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -664,12 +677,14 @@ gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001201128)
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (zu § 3 Abs. 2)
 
 ## Anlage 1 Spezialistenprofile in der Mikrotechnologie
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001302128)
 
 (Fundstelle: BGBl. I 2007, 1423 - 1424; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -892,6 +907,7 @@ führen.
 (zu den §§ 9 und 10)
 
 ## Anlage 2 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001800128)
 
 (Fundstelle: BGBl. I 2019, 2283 – 2284)
 
@@ -1193,6 +1209,7 @@ führen.
 (zu § 11)
 
 ## Anlage 3 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/pmmprv/BJNR141800007.html#BJNR141800007BJNE001900128)
 
 (Fundstelle: BGBl. I 2019, 2285)
 

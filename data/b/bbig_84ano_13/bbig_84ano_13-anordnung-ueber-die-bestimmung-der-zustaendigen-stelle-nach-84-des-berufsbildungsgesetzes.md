@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_13/BJNR003870986.html#BJNR003870986BJNE000100326)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der durch Artikel 1 Nr. 1 des Gesetzes vom 12.
@@ -43,11 +44,13 @@ zur zuständigen Stelle für meinen Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_13/BJNR003870986.html#BJNR003870986BJNE000200326)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_13/BJNR003870986.html#BJNR003870986BJNE000300326)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

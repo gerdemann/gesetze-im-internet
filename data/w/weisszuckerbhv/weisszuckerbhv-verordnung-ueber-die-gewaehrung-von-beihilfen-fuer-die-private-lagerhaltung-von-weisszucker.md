@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000100000)
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe l, der §§ 15, 16 und 17 Abs.
 2 Satz 3 und 4 sowie des § 31 Abs. 2 Satz 1 Nr. 2 des Gesetzes zur
@@ -36,6 +37,7 @@ Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000201377)
 
 Diese Verordnung gilt für die Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union hinsichtlich der
@@ -43,6 +45,7 @@ Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker.
 
 
 ## § 2 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000300000)
 
 Zuständige Stelle für die Durchführung dieser Verordnung und der in §
 1 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -50,6 +53,7 @@ Ernährung (Bundesanstalt).
 
 
 ## § 3 Form der Verträge
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000401377)
 
 Die nach den in § 1 genannten Rechtsakten abzuschließenden
 Lagerverträge haben dem von der Bundesanstalt im Bundesanzeiger
@@ -57,6 +61,7 @@ bekannt gemachten Muster zu entsprechen.
 
 
 ## § 4 Gewährung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000501377)
 
 (1) Die Anträge auf Gewährung einer Beihilfe für die private
 Lagerhaltung von Weißzucker sind nach dem von der Bundesanstalt im
@@ -66,6 +71,7 @@ Bundesanzeiger bekannt gemachten Muster einzureichen.
 
 
 ## § 5 Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000600000)
 
 (1) Der Antragsteller ist verpflichtet, gesondert für jeden Vertrag
 über private Lagerhaltung die zur Überwachung der Einhaltung der
@@ -82,6 +88,7 @@ Aufbewahrungspflicht besteht, bleiben unberührt.
 
 
 ## § 6 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000700000)
 
 Der Antragsteller hat während der Geschäfts- und Betriebszeit den
 Beauftragten der Bundesanstalt das Betreten der im Zusammenhang mit
@@ -94,6 +101,7 @@ soweit dies die Beauftragten der Bundesanstalt verlangen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weisszuckerbhv/BJNR293700007.html#BJNR293700007BJNE000800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

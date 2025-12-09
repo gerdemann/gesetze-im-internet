@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt AnO 2030-14-215 v. 27.12.2016 I 3453 (BMIWidVertrAnO)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) wird
@@ -27,6 +28,7 @@ angeordnet:
 
 
 ## § 1 Widerspruchsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000200000)
 
 (1) Die Zuständigkeit für den Erlass des Widerspruchsbescheids wird
 übertragen
@@ -111,6 +113,7 @@ Ernennung und Entlassung übertragen worden ist.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000300000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamtenverhältnis wird den in § 1 genannten Behörden übertragen,
@@ -119,6 +122,7 @@ sind.
 
 
 ## § 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000400000)
 
 Das Bundesministerium des Innern kann im Einzelfall die Zuständigkeit
 nach § 1 und die Vertretung nach § 2 abweichend von dieser Anordnung
@@ -126,6 +130,7 @@ regeln oder selbst übernehmen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000500000)
 
 (1) Diese Anordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -137,6 +142,7 @@ Innern vom 27. Dezember 2016 (BGBl. I S. 3453) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmiwidvertrano_2017/BJNR305700017.html#BJNR305700017BJNE000600000)
 
 Der Bundesminister des Innern
 

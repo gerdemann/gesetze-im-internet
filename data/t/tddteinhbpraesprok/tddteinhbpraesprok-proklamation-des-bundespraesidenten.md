@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/tddteinhbpr_sprok/BJNR003970963.html#BJNR003970963BJNE000200315)
 
 "Am 17. Juni jährt sich zum zehnten Male der Tag der Volkserhebung in
 Ost-Berlin und der sowjetisch besetzten Zone, die vor aller Welt

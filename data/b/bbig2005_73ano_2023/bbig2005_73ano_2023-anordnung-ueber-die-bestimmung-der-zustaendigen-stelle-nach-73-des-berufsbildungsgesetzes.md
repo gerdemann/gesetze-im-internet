@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2023/BJNR0690A0023.html#BJNR0690A0023BJNE000100000)
 
 Nach § 73 Absatz 1 des Berufsbildungsgesetzes in der Fassung der
 Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) sowie § 1 Absatz 3 des
@@ -28,11 +29,13 @@ zur zuständigen Stelle für meinen Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2023/BJNR0690A0023.html#BJNR0690A0023BJNE000200000)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2023/BJNR0690A0023.html#BJNR0690A0023BJNE000300000)
 
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 

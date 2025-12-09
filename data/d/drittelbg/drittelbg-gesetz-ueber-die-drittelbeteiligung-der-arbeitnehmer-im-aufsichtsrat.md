@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNG000100000)
 
 
 
 ### § 1 Erfasste Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000103119)
 
 (1) Die Arbeitnehmer haben ein Mitbestimmungsrecht im Aufsichtsrat
 nach Maßgabe dieses Gesetzes in
@@ -97,6 +99,7 @@ den Vorschriften dieses Gesetzes widersprechen.
 
 
 ### § 2 Konzern
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000200000)
 
 (1) An der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer des
 herrschenden Unternehmens eines Konzerns (§ 18 Abs. 1 des
@@ -113,6 +116,7 @@ ist.
 
 
 ### § 3 Arbeitnehmer, Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000300000)
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 1 des
 Betriebsverfassungsgesetzes bezeichneten Personen mit Ausnahme der in
@@ -132,10 +136,12 @@ Teil dieses Landbetriebs.
 
 
 ## Teil 2 - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNG000200000)
 
 
 
 ### § 4 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000401126)
 
 (1) Der Aufsichtsrat eines in § 1 Abs. 1 bezeichneten Unternehmens
 muss zu einem Drittel aus Arbeitnehmervertretern bestehen.
@@ -173,6 +179,7 @@ vertreten sein.
 
 
 ### § 5 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000500000)
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer werden nach den
 Grundsätzen der Mehrheitswahl in allgemeiner, geheimer, gleicher und
@@ -186,6 +193,7 @@ gilt entsprechend.
 
 
 ### § 6 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000600000)
 
 Die Wahl erfolgt auf Grund von Wahlvorschlägen der Betriebsräte und
 der Arbeitnehmer. Die Wahlvorschläge der Arbeitnehmer müssen von
@@ -194,6 +202,7 @@ Wahlberechtigten unterzeichnet sein.
 
 
 ### § 7 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000701126)
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen
 ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Ein
@@ -210,6 +219,7 @@ des § 4 Absatz 5 entspricht; § 7a Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 7a Nichterreichen des Geschlechteranteils
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001600126)
 
 (1) Ergibt im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2
 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre
@@ -241,6 +251,7 @@ Nachwahl besetzt; § 4 Absatz 2 Satz 2 ist zu beachten.
 
 
 ### § 8 Bekanntmachung der Mitglieder des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000801140)
 
 Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die
 Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats
@@ -253,6 +264,7 @@ Bekanntmachung in seinen Betrieben verpflichtet.
 
 
 ### § 9 Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE000900000)
 
 Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer
 Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer
@@ -261,6 +273,7 @@ Dies gilt auch für ihre berufliche Entwicklung.
 
 
 ### § 10 Wahlschutz und Wahlkosten
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001000000)
 
 (1) Niemand darf die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 behindern. Insbesondere darf niemand in der Ausübung des aktiven und
@@ -277,6 +290,7 @@ Arbeitsentgelts.
 
 
 ### § 11 Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001101140)
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds
 der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn
@@ -302,6 +316,7 @@ Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
 
 ### § 12 Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001200000)
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
 Amtszeit auf Antrag eines Betriebsrats oder von mindestens einem
@@ -316,10 +331,12 @@ anzuwenden.
 
 
 ## Teil 3 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNG000300000)
 
 
 
 ### § 13 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001301126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften über das Verfahren für die Wahl und die Abberufung von
@@ -365,6 +382,7 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 
 ### § 14 Verweisungen
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001400000)
 
 Soweit in anderen Gesetzen auf Vorschriften verwiesen wird, die durch
 Artikel 6 Abs. 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der
@@ -373,6 +391,7 @@ ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
 
 ### § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/drittelbg/BJNR097410004.html#BJNR097410004BJNE001502126)
 
 (1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in

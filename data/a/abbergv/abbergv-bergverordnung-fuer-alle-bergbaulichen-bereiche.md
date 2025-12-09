@@ -68,6 +68,7 @@ folgender EG-Richtlinien:
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000100000)
 
 Auf Grund des § 66 Satz 1 Nr. 1 Buchstabe b, Nr. 2, 4 Buchstabe a und
 d, Nr. 5, 6, 9, 10 und Satz 3, des § 67 Nr. 1 und 8 und des § 68 Abs.
@@ -82,6 +83,7 @@ Bundesministerium für Verkehr:
 
 
 ## § 1 Sachliche und räumliche Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000202124)
 
 Diese Verordnung regelt die Sicherheit und den Gesundheitsschutz sowie
 den Umweltschutz bei
@@ -112,6 +114,7 @@ Lagerung, Sicherstellung und Endlagerung radioaktiver Stoffe nach §
 
 
 ## § 2 Allgemeine Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000300000)
 
 (1) Zur Gewährleistung der Sicherheit und zum Schutz der Gesundheit
 der Beschäftigten hat der Unternehmer die jeweils erforderlichen
@@ -220,6 +223,7 @@ Informationen erhalten.
 
 
 ## § 3 Sicherheits- und Gesundheitsschutzdokument
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000401123)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß als Maßnahme nach § 2
 Abs. 1 Satz 1 und 2 ein Dokument über Sicherheit und Gesundheitsschutz
@@ -298,6 +302,7 @@ getroffenen Maßnahmen schriftlich festzuhalten.
 
 
 ## § 4 Zusammenarbeit der Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000500000)
 
 (1) Werden Beschäftigte mehrerer Unternehmer zeitlich und örtlich
 gemeinsam in einem Betrieb tätig, so ist jeder Unternehmer für den
@@ -320,6 +325,7 @@ die Voraussetzungen des § 4 Abs. 5 des Bundesberggesetzes erfüllen.
 
 
 ## § 5 Beaufsichtigung durch verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000600000)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß
 
@@ -397,6 +403,7 @@ Bundesberggesetzes erfüllt.
 
 
 ## § 6 Unterrichtung, Unterweisung, Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000700000)
 
 (1) Der Unternehmer hat Beschäftigte vor Beginn der Beschäftigung und
 bei Veränderungen in ihren Arbeitsbereichen über Gefahren für
@@ -433,6 +440,7 @@ und Unterweisung nach den Absätzen 1 und 2.
 
 
 ## § 7 Schriftliche Anweisungen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000800000)
 
 Für jede Arbeitsstätte oder einen Betrieb hat der Unternehmer
 schriftliche Anweisungen in verständlicher Form und Sprache über die
@@ -448,6 +456,7 @@ ist.
 
 
 ## § 8 Übertragung von Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE000900000)
 
 (1) Bei der Übertragung von Arbeiten an Beschäftigte hat der
 Unternehmer zu berücksichtigen, daß die Beschäftigten
@@ -469,6 +478,7 @@ geeigneter Beschäftigter zur Verfügung stehen.
 
 
 ## § 9 Arbeitsfreigabe
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001000000)
 
 Der Unternehmer hat entsprechend dem Ergebnis der Beurteilung von
 Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 dafür zu sorgen, daß
@@ -490,6 +500,7 @@ geregelt und den jeweiligen Beschäftigten bekannt sein.
 
 
 ## § 10 Vorkehrungen bei erheblichen Gefahren
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001100000)
 
 (1) Der Unternehmer hat alle Beschäftigten, die einer unmittelbaren
 erheblichen Gefahr ausgesetzt sind oder sein können, unverzüglich über
@@ -530,6 +541,7 @@ grob fahrlässig ungeeignete Maßnahmen getroffen.
 
 
 ## § 11 Spezifische Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001200000)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß entsprechend der Art und
 Größe des Betriebes sowie der Art der Tätigkeiten, ergänzt durch die
@@ -595,6 +607,7 @@ Betriebe und untertägige Betriebe mit brennbaren Stäuben.
 
 
 ## § 12 Allgemeine Anforderungen an Arbeitsstätten und sanitäre Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001300000)
 
 (1) Bei der Gestaltung der Arbeitsstätten hat der Unternehmer für
 einen den Gefahren angemessenen Schutz der Beschäftigten zu sorgen.
@@ -642,6 +655,7 @@ Tätigkeiten und Einrichtungen nach § 1.
 
 
 ## § 13 Arbeitsstätten zur Aufsuchung und Gewinnung durch Bohrungen einschließlich der Aufbereitung, Untergrundspeicherung, Wiedernutzbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001401123)
 
 (1) Der Unternehmer hat Arbeitsstätten,
 
@@ -728,6 +742,7 @@ Anhangs 3.
 
 
 ## § 14 Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001500000)
 
 (1) Der Unternehmer hat Arbeitsstätten, in denen
 
@@ -771,6 +786,7 @@ Maschinen, Geräten und Fahrzeugen gegeben ist.
 
 
 ## § 15 Untertägige Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001600000)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß
 
@@ -917,6 +933,7 @@ Mitteln verfügbar sein.
 
 
 ## § 16 Bewetterung untertägiger Arbeitsstätten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001700000)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß alle untertägigen
 Arbeitsstätten mit einem ausreichenden Sicherheitsspielraum so
@@ -983,6 +1000,7 @@ neuesten Stand zu bringen und im Betrieb verfügbar zu halten.
 
 
 ## § 17 Bereitstellung und Benutzung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001802377)
 
 (1) Der Unternehmer hat alle Maschinen, Geräte, Apparate, Werkzeuge
 oder Anlagen, die bei der Arbeit benutzt werden, entsprechend dem
@@ -1071,6 +1089,7 @@ Anforderungen des Anhangs I dieser Richtlinie entsprechen.
 
 
 ## § 18 Bereitstellung und Benutzung von persönlichen Schutzausrüstungen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE001902124)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß persönliche
 Schutzausrüstungen bereitgestellt und benutzt werden, wenn die
@@ -1138,6 +1157,7 @@ erforderlich sind.
 
 
 ## § 19 Sicherheits- oder Gesundheitsschutzkennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002000000)
 
 (1) Der Unternehmer hat zu gewährleisten, daß Risiken und Gefahren für
 Sicherheit und Gesundheit an Arbeitsplätzen unter Berücksichtigung des
@@ -1160,6 +1180,7 @@ Absatz 1 Satz 2 entsprechen.
 
 
 ## § 20 Präventivmedizinische Überwachung, ärztliche Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002102124)
 
 Der Unternehmer hat zu gewährleisten, daß die Gesundheit der
 Beschäftigten in Abhängigkeit von den Sicherheits- und
@@ -1175,6 +1196,7 @@ maßgebend.
 
 
 ## § 21 Pflichten der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002201301)
 
 (1) Die Beschäftigten sind verpflichtet, nach ihren Möglichkeiten
 sowie gemäß der Unterweisung und besonderer Weisung des Unternehmers
@@ -1217,6 +1239,7 @@ behördlichen Auflagen zu erfüllen.
 
 
 ## § 22 Rechte der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002300000)
 
 Die Beschäftigten sind berechtigt,
 
@@ -1244,6 +1267,7 @@ Satz 1 keine Nachteile entstehen.
 
 
 ## § 22a Anforderungen an die Entsorgung von bergbaulichen Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003602360)
 
 (1) Der Unternehmer hat für die Entsorgung von Abfällen nach § 2
 Absatz 2 Nummer 7 des Kreislaufwirtschaftsgesetzes, die unmittelbar
@@ -1418,6 +1442,7 @@ Anforderungen gemäß Anhang 6 Nr. 2 und 3 sind einzuhalten.
 
 
 ## § 22b Anforderungen an die Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003800123)
 
 Bei der Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme
 einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
@@ -1474,6 +1499,7 @@ im Betrieb oder der Umwelt erforderlich ist.
 [^F795105_03_BJNR146600995BJNE003800123]: 
 
 ## § 22c Anforderungen an den Umgang mit Lagerstättenwasser und Rückfluss bei der Aufsuchung und Gewinnung von Erdöl und Erdgas
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003901124)
 
 (1) Bei der Aufsuchung und Gewinnung von Erdgas und Erdöl hat der
 Unternehmer das Lagerstättenwasser aufzufangen. Der Unternehmer hat
@@ -1537,6 +1563,7 @@ für Vorhaben nach Satz 1 ab dem 11. Februar 2020.
 
 
 ## § 23 Übertragung der Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002400000)
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser
 Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen
@@ -1544,6 +1571,7 @@ Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen
 
 
 ## § 23a Anerkennung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003700123)
 
 (1) Ein Sachverständiger, der Aufgaben nach einer Bergverordnung
 wahrnimmt, die auf Grund des § 68 Absatz 1 oder 2 des
@@ -1663,6 +1691,7 @@ entsprechend anzuwenden.
 
 
 ## § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002502123)
 
 (1) Ordnungswidrig im Sinne des § 145 Abs. 3 Nr. 1 des
 Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -1767,23 +1796,27 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 25 Gegenstandslose landesrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002600000)
 
 Das Bundesministerium für Wirtschaft gibt im Bundesanzeiger bekannt,
 welche landesrechtlichen Vorschriften gegenstandslos werden.
 
 
 ## § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002700000)
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002800000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 11 und 12)
 
 ## Anhang 1 Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE002902377)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1476 - 1479;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2349,6 +2382,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 12)
 
 ## Anhang 2 Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003002377)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1480 - 1481;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2536,6 +2570,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (zu § 13)
 
 ## Anhang 3 Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 2 im Bereich des Festlandsockels und der Küstengewässer
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003101123)
 
 (Fundstelle: BGBl. I 1995, 1482 - 1484; bzgl. einzelner Änderungen
 vgl. Fußnote)
@@ -2869,6 +2904,7 @@ vgl. Fußnote)
 (zu § 19)
 
 ## Anhang 4 Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003200000)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
@@ -3120,6 +3156,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 (zu § 22a Abs. 2)
 
 ## Anhang 5 Abfallbewirtschaftungsplan
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003300377)
 
 (Fundstelle des Originaltextes: BGBl. I 2008, 87)
 
@@ -3228,6 +3265,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 (zu § 22a Abs. 3 Satz 1)
 
 ## Anhang 6 Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003400377)
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 88 )
 
@@ -3336,6 +3374,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 (zu § 22a Abs. 3 Satz 4)
 
 ## Anhang 7 Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
+[Direktlink](https://www.gesetze-im-internet.de/abbergv/BJNR146600995.html#BJNR146600995BJNE003500377)
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 89 )
 

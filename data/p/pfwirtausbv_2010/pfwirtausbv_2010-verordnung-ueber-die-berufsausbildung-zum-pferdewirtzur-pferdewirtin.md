@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -37,17 +38,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000200000)
 
 Der Ausbildungsberuf Pferdewirt/Pferdewirtin wird nach § 4 Absatz 1
 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und in die Ausbildung in einer der Fachrichtungen
@@ -71,6 +75,7 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -250,6 +255,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -271,6 +277,7 @@ regelmäßig durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -370,6 +377,7 @@ folgende Vorgaben:
 
 
 ## § 7 Abschlussprüfung in der Fachrichtung Pferdehaltung und Service
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -686,6 +694,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Abschlussprüfung in der Fachrichtung Pferdezucht
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -975,6 +984,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Klassische Reitausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001000000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -1262,6 +1272,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Abschlussprüfung in der Fachrichtung Pferderennen
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001100000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -1543,6 +1554,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 11 Abschlussprüfung in der Fachrichtung Spezialreitweisen
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001200000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -1846,6 +1858,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 12 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001300000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1854,6 +1867,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Pferdewirt vom 1.
@@ -1864,6 +1878,7 @@ außer Kraft.
 (zu § 4 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+[Direktlink](https://www.gesetze-im-internet.de/pfwirtausbv_2010/BJNR072800010.html#BJNR072800010BJNE001501308)
 
 (Fundstelle: BGBl. I 2010, 738 - 747;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

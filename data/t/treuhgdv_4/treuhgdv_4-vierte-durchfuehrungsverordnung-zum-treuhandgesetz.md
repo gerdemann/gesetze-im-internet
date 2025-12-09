@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000100314)
 
 Auf der Grundlage des § 1 Abs. 2 und § 24 Abs. 4 des Gesetzes vom 17.
 Juni 1990 zur Privatisierung und Reorganisation des volkseigenen
@@ -26,6 +27,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000200314)
 
 Das Vermögen des ehemaligen Ministeriums für Staatssicherheit des
 Amtes für Nationale Sicherheit einschließlich der in
@@ -39,11 +41,13 @@ Zwecke ergangen ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000300314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000400314)
 
 (1) Die Treuhandanstalt hat in Abstimmung mit dem Komitee zur
 Auflösung des Amtes für Nationale Sicherheit die erforderlichen
@@ -57,12 +61,14 @@ Treuhandanstalt. Dem Antrag ist eine Ausfertigung des
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000500314)
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_4/DDNR014650990.html#DDNR014650990BJNE000600314)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

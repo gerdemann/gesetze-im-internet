@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bva_widvertrano/BJNR147000017.html#BJNR147000017BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -29,6 +30,7 @@ Verbraucherschutz an:
 
 
 ## § 1 Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/bva_widvertrano/BJNR147000017.html#BJNR147000017BJNE000200000)
 
 (1) Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
 Angelegenheiten der Besoldung, des Umzugskosten- und
@@ -52,6 +54,7 @@ sich vor, im Einzelfall selbst zu entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bva_widvertrano/BJNR147000017.html#BJNR147000017BJNE000300000)
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
 die Vertretung der Bundesrepublik Deutschland bei Klagen von
@@ -64,6 +67,7 @@ die Vertretung abweichend regeln oder selbst übernehmen.
 
 
 ## § 3 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bva_widvertrano/BJNR147000017.html#BJNR147000017BJNE000400000)
 
 (1) § 1 ist auch auf Widersprüche gegen Maßnahmen anzuwenden, die das
 Bundesamt für zentrale Dienste und offene Vermögensfragen vor dem 1.
@@ -75,6 +79,7 @@ Vermögensfragen erlassen worden ist.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bva_widvertrano/BJNR147000017.html#BJNR147000017BJNE000500000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juni 2017 in Kraft.
 Gleichzeitig treten außer Kraft:

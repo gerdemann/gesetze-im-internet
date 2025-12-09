@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2017/BJNR271600016.html#BJNR271600016BJNE000100000)
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des
 Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –,
@@ -95,6 +96,7 @@ Beitragssatzes für das Jahr 2017 berechneten Faktoren betragen im Jahr
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2017/BJNR271600016.html#BJNR271600016BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

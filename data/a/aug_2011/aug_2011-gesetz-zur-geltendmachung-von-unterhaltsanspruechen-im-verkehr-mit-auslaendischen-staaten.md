@@ -21,12 +21,15 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000202311)
 
 (1) Dieses Gesetz dient
 
@@ -105,6 +108,7 @@ Durchführungsbestimmungen dieses Gesetzes nicht berührt.
 
 
 #### § 2 Allgemeine gerichtliche Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000300000)
 
 Soweit in diesem Gesetz nichts anderes geregelt ist, werden die
 Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
@@ -112,6 +116,7 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit angewendet.
 
 
 #### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000400000)
 
 Im Sinne dieses Gesetzes
 
@@ -158,9 +163,11 @@ Im Sinne dieses Gesetzes
 
 
 ### Abschnitt 2 - Zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000300000)
 
 
 #### § 4 Zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000502311)
 
 (1) Zentrale Behörde für die gerichtliche und außergerichtliche
 Geltendmachung von Ansprüchen in Unterhaltssachen nach diesem Gesetz
@@ -191,6 +198,7 @@ Tätigkeit der Beliehenen nicht angewendet.
 
 
 #### § 5 Aufgaben und Befugnisse der zentralen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000601308)
 
 (1) Die gerichtliche und außergerichtliche Geltendmachung von
 Unterhaltsansprüchen nach diesem Gesetz erfolgt über die zentrale
@@ -227,6 +235,7 @@ Zahlungen entsprechend.
 
 
 #### § 6 Unterstützung durch das Jugendamt
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000700000)
 
 Wird die zentrale Behörde tätig, um Unterhaltsansprüche Minderjähriger
 und junger Volljähriger, die das 21. Lebensjahr noch nicht vollendet
@@ -235,12 +244,15 @@ Unterstützung ersuchen.
 
 
 ### Abschnitt 3 - Ersuchen um Unterstützung in Unterhaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000400000)
 
 
 #### Unterabschnitt 1 - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000500000)
 
 
 ##### § 7 Vorprüfung durch das Amtsgericht; Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000802125)
 
 (1) Die Entgegennahme und Prüfung eines Antrages auf Unterstützung in
 Unterhaltssachen erfolgt durch das für den Sitz des
@@ -254,6 +266,7 @@ des Kammergerichts entscheidet das Amtsgericht Pankow.
 
 
 ##### § 8 Inhalt und Form des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE000901308)
 
 (1) Der Inhalt eines an einen anderen Mitgliedstaat mit Ausnahme des
 Königreichs Dänemark gerichteten Antrages richtet sich nach Artikel 57
@@ -326,6 +339,7 @@ soll.
 
 
 ##### § 9 Umfang der Vorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001001311)
 
 (1) Der Vorstand des Amtsgerichts oder der im Rahmen der Verteilung
 der Justizverwaltungsgeschäfte bestimmte Richter prüft
@@ -376,6 +390,7 @@ Weiterleitung des Antrages vor.
 
 
 ##### § 10 Übersetzung des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001101311)
 
 (1) Der Antragsteller hat dem Antrag nebst Anlagen von einem
 beeidigten Übersetzer beglaubigte Übersetzungen in der Sprache des zu
@@ -406,6 +421,7 @@ Zivilprozessordnung erfüllt.
 
 
 ##### § 11 Weiterleitung des Antrages durch die zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001201311)
 
 (1) Die zentrale Behörde prüft, ob der Antrag den förmlichen
 Anforderungen des einzuleitenden ausländischen Verfahrens genügt. Sind
@@ -428,6 +444,7 @@ zentralen Behörde richtet sich nach Absatz 1.
 
 
 ##### § 12 Registrierung eines bestehenden Titels im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001300000)
 
 Liegt über den Unterhaltsanspruch bereits eine inländische
 gerichtliche Entscheidung oder ein sonstiger Titel im Sinne des § 3
@@ -439,9 +456,11 @@ inländischen Titels findet nicht statt.
 
 
 #### Unterabschnitt 2 - Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000600000)
 
 
 ##### § 13 Übersetzung des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001400000)
 
 (1) Ist eine Übersetzung von Schriftstücken erforderlich, so ist diese
 in deutscher Sprache abzufassen.
@@ -478,6 +497,7 @@ bestimmten Staaten oder im Einzelfall von dem Erfordernis einer
 
 
 ##### § 14 Inhalt und Form des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001501308)
 
 (1) Der Inhalt eines Antrages aus einem anderen Mitgliedstaat mit
 Ausnahme des Königreichs Dänemark richtet sich nach Artikel 57 der
@@ -517,6 +537,7 @@ bezeichnet sein.
 
 
 ##### § 15 Behandlung einer vorläufigen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001601308)
 
 In Verfahren mit förmlicher Gegenseitigkeit (§ 1 Absatz 1 Satz 1
 Nummer 3) gilt eine ausländische Entscheidung, die ohne die Anhörung
@@ -527,9 +548,11 @@ Erwirkung eines Unterhaltstitels. § 8 Absatz 3 und § 14 Absatz 3 Satz
 
 
 ### Abschnitt 4 - Datenerhebung durch die zentrale Behörde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000700000)
 
 
 #### § 16 Auskunftsrecht der zentralen Behörde zur Herbeiführung oder Änderung eines Titels
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001702125)
 
 (1) Ist der gegenwärtige Aufenthaltsort des Berechtigten oder des
 Verpflichteten nicht bekannt, so darf die zentrale Behörde zur
@@ -568,6 +591,7 @@ im Zentralregister veranlassen.
 
 
 #### § 17 Auskunftsrecht zum Zweck der Anerkennung, Vollstreckbarerklärung und Vollstreckung eines Titels
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001801125)
 
 (1) Ist die Unterhaltsforderung tituliert und weigert sich der
 Schuldner, auf Verlangen der zentralen Behörde Auskunft über sein
@@ -611,6 +635,7 @@ nur erheben, wenn dies für die Vollstreckung erforderlich ist.
 
 
 #### § 18 Benachrichtigung über die Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE001900000)
 
 (1) Die zentrale Behörde benachrichtigt den Antragsteller
 grundsätzlich nur darüber, ob ein Auskunftsersuchen nach den §§ 16 und
@@ -625,6 +650,7 @@ erfolgen.
 
 
 #### § 19 Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002001125)
 
 Die zentrale Behörde darf personenbezogene Daten an andere öffentliche
 und nichtöffentliche Stellen übermitteln, wenn dies zur Erfüllung der
@@ -634,9 +660,11 @@ sind.
 
 
 ### Abschnitt 5 - Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000800000)
 
 
 #### § 20 Voraussetzungen für die Bewilligung von Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002100000)
 
 Auf die Bewilligung von Verfahrenskostenhilfe ist § 113 Absatz 1 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -646,6 +674,7 @@ in diesem Gesetz nichts anderes bestimmt ist.
 
 
 #### § 21 Zuständigkeit für Anträge auf Verfahrenskostenhilfe nach der Richtlinie 2003/8/EG
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002202125)
 
 (1) Abweichend von § 1077 Absatz 1 Satz 1 der Zivilprozessordnung
 erfolgt in Unterhaltssachen die Entgegennahme und Übermittlung von
@@ -661,6 +690,7 @@ Zivilprozessordnung.
 
 
 #### § 22 Verfahrenskostenhilfe nach Artikel 46 der Verordnung (EG) Nr. 4/2009 und den Artikeln 14 bis 17 des Haager Übereinkommens vom 23. November 2007 über die internationale Geltendmachung der Unterhaltsansprüche von Kindern und anderen Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002301308)
 
 (1) Eine Person, die das 21. Lebensjahr noch nicht vollendet hat,
 erhält unabhängig von ihren wirtschaftlichen Verhältnissen
@@ -702,6 +732,7 @@ Billigkeit entspricht.
 
 
 #### § 23 Verfahrenskostenhilfe für die Anerkennung, Vollstreckbarerklärung und Vollstreckung von unterhaltsrechtlichen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002401311)
 
 Hat der Antragsteller im Ursprungsstaat für das Erkenntnisverfahren
 ganz oder teilweise Verfahrenskostenhilfe erhalten, ist ihm für das
@@ -714,6 +745,7 @@ genannten Kosten befreit. Dies gilt nicht, wenn die Bewilligung nach §
 
 
 #### § 24 Verfahrenskostenhilfe für Verfahren mit förmlicher Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002501311)
 
 Bietet in Verfahren gemäß § 1 Absatz 1 Satz 1 Nummer 3 die
 beabsichtigte Rechtsverfolgung eingehender Ersuchen hinreichende
@@ -728,9 +760,11 @@ Zivilprozessordnung aufgehoben wird.
 
 
 ### Abschnitt 6 - Ergänzende Zuständigkeitsregelungen; Zuständigkeitskonzentration
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG000900000)
 
 
 #### § 25 Internationale Zuständigkeit nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 4/2009
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002601125)
 
 (1) Die deutschen Gerichte sind in Unterhaltssachen nach Artikel 3
 Buchstabe c der Verordnung (EG) Nr. 4/2009 zuständig, wenn
@@ -784,6 +818,7 @@ eines der Beteiligten zuständig sind.
 
 
 #### § 26 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002700000)
 
 (1) Örtlich zuständig nach Artikel 3 Buchstabe c der Verordnung (EG)
 Nr. 4/2009 ist das Amtsgericht,
@@ -809,6 +844,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unberührt.
 
 
 #### § 27 Örtliche Zuständigkeit für die Auffang- und Notzuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002802125)
 
 (1) Sind die deutschen Gerichte nach Artikel 6 oder Artikel 7 der
 Verordnung (EG) Nr. 4/2009 international zuständig, so entscheidet das
@@ -831,6 +867,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 #### § 28 Zuständigkeitskonzentration; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE002902125)
 
 (1) Wenn ein Beteiligter seinen gewöhnlichen Aufenthalt nicht im
 Inland hat, entscheidet über Anträge in Unterhaltssachen in den Fällen
@@ -850,6 +887,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 #### § 29 Zuständigkeit im Anwendungsbereich der Verordnung (EG) Nr. 1896/2006
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003000000)
 
 In Bezug auf die Zuständigkeit im Anwendungsbereich der Verordnung
 (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12.
@@ -859,12 +897,15 @@ unberührt.
 
 
 ## Kapitel 2 - Anerkennung und Vollstreckung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001000000)
 
 
 ### Abschnitt 1 - Verfahren ohne Exequatur nach der Verordnung (EG) Nr. 4/2009
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001100000)
 
 
 #### § 30 Verzicht auf Vollstreckungsklausel; Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003100000)
 
 (1) Liegen die Voraussetzungen der Artikel 17 oder 48 der Verordnung
 (EG) Nr. 4/2009 vor, findet die Vollstreckung aus dem ausländischen
@@ -883,6 +924,7 @@ der Mitgliedstaaten hierzu befugt ist, in die deutsche Sprache zu
 
 
 #### § 31 Anträge auf Verweigerung, Beschränkung oder Aussetzung der Vollstreckung nach Artikel 21 der Verordnung (EG) Nr. 4/2009
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003200000)
 
 (1) Für Anträge auf Verweigerung, Beschränkung oder Aussetzung der
 Vollstreckung nach Artikel 21 der Verordnung (EG) Nr. 4/2009 ist das
@@ -904,6 +946,7 @@ Entscheidung ist unanfechtbar.
 
 
 #### § 32 Einstellung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003300000)
 
 Die Zwangsvollstreckung ist entsprechend § 775 Nummer 1 und 2 und §
 776 der Zivilprozessordnung auch dann einzustellen oder zu
@@ -916,6 +959,7 @@ befugt ist, in die deutsche Sprache zu übersetzen.
 
 
 #### § 33 Einstweilige Einstellung bei Wiedereinsetzung, Rechtsmittel und Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003400000)
 
 (1) Hat der Schuldner im Ursprungsstaat Wiedereinsetzung beantragt
 oder gegen die zu vollstreckende Entscheidung einen Rechtsbehelf oder
@@ -928,6 +972,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 #### § 34 Bestimmung des vollstreckungsfähigen Inhalts eines ausländischen Titels
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003500000)
 
 (1) Lehnt das Vollstreckungsorgan die Zwangsvollstreckung aus einem
 ausländischen Titel, der keiner Vollstreckungsklausel bedarf, mangels
@@ -954,9 +999,11 @@ freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
 
 ### Abschnitt 2 - Gerichtliche Zuständigkeit für Verfahren zur Anerkennung und Vollstreckbarerklärung ausländischer Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001200000)
 
 
 #### § 35 Gerichtliche Zuständigkeit; Zuständigkeitskonzentration; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003603125)
 
 (1) Über einen Antrag auf Feststellung der Anerkennung oder über einen
 Antrag auf Vollstreckbarerklärung eines ausländischen Titels nach den
@@ -1000,12 +1047,15 @@ ein Gericht gelten sinngemäß.
 
 
 ### Abschnitt 3 - Verfahren mit Exequatur nach der Verordnung (EG) Nr. 4/2009 und den Abkommen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001300000)
 
 
 #### Unterabschnitt 1 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001400000)
 
 
 ##### § 36 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003700000)
 
 (1) Der in einem anderen Staat vollstreckbare Titel wird dadurch zur
 Zwangsvollstreckung zugelassen, dass er auf Antrag mit der
@@ -1037,6 +1087,7 @@ vorgelegt wird, sollen je zwei Abschriften beigefügt werden.
 
 
 ##### § 37 Zustellungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003800000)
 
 (1) Hat der Antragsteller in dem Antrag keinen
 Zustellungsbevollmächtigten im Sinne des § 184 Absatz 1 Satz 1 der
@@ -1053,6 +1104,7 @@ Nr. 4/2009 nicht anzuwenden.
 
 
 ##### § 38 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE003900000)
 
 (1) Die Entscheidung ergeht ohne mündliche Verhandlung. Jedoch kann
 eine mündliche Erörterung mit dem Antragsteller oder seinem
@@ -1065,6 +1117,7 @@ nicht erforderlich.
 
 
 ##### § 39 Vollstreckbarkeit ausländischer Titel in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004000000)
 
 (1) Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer
 dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer Frist
@@ -1085,6 +1138,7 @@ Verhandlung anordnen.
 
 
 ##### § 40 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004100000)
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
@@ -1104,6 +1158,7 @@ dem Antragsteller aufzuerlegen.
 
 
 ##### § 41 Vollstreckungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004200000)
 
 (1) Auf Grund des Beschlusses nach § 40 Absatz 1 erteilt der
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
@@ -1144,6 +1199,7 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 
 ##### § 42 Bekanntgabe der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004300000)
 
 (1) Lässt das Gericht die Zwangsvollstreckung zu (§ 40 Absatz 1), sind
 dem Antragsgegner eine beglaubigte Abschrift des Beschlusses, eine
@@ -1161,9 +1217,11 @@ Antragsteller zuzustellen.
 
 
 #### Unterabschnitt 2 - Beschwerde, Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001500000)
 
 
 ##### § 43 Beschwerdegericht; Einlegung der Beschwerde; Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004400000)
 
 (1) Beschwerdegericht ist das Oberlandesgericht.
 
@@ -1214,11 +1272,13 @@ zuzustellen.
 
 
 ##### § 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004501308)
 
 -
 
 
 ##### § 45 Verfahren und Entscheidung über die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004600000)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss, der mit Gründen
 zu versehen ist und ohne mündliche Verhandlung ergehen kann. Der
@@ -1245,6 +1305,7 @@ nach dem Inhalt der Anordnung.
 
 
 ##### § 46 Statthaftigkeit und Frist der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004700000)
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
 Rechtsbeschwerde statt.
@@ -1259,6 +1320,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
 
 ##### § 47 Einlegung und Begründung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004800000)
 
 (1) Die Rechtsbeschwerde wird durch Einreichen der Beschwerdeschrift
 beim Bundesgerichtshof eingelegt.
@@ -1273,6 +1335,7 @@ angefochtene Beschluss abweicht, bezeichnet werden.
 
 
 ##### § 48 Verfahren und Entscheidung über die Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE004900000)
 
 (1) Der Bundesgerichtshof kann nur überprüfen, ob der Beschluss auf
 einer Verletzung des Rechts der Europäischen Union, eines
@@ -1294,9 +1357,11 @@ Geschäftsstelle dieses Gerichts die Vollstreckungsklausel. § 40 Absatz
 
 
 #### Unterabschnitt 3 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001600000)
 
 
 ##### § 49 Prüfung der Beschränkung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005000000)
 
 Einwendungen des Schuldners, dass bei der Zwangsvollstreckung die
 Beschränkung auf Sicherungsmaßregeln nach der Verordnung (EG) Nr.
@@ -1310,6 +1375,7 @@ Zivilprozessordnung) geltend zu machen.
 
 
 ##### § 50 Sicherheitsleistung durch den Schuldner
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005100000)
 
 (1) Solange die Zwangsvollstreckung aus einem Titel, der auf Leistung
 von Geld lautet, nicht über Maßregeln der Sicherung hinausgehen darf,
@@ -1324,6 +1390,7 @@ erforderliche Sicherheitsleistung nachweist.
 
 
 ##### § 51 Versteigerung beweglicher Sachen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005200000)
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
 nicht über Maßregeln zur Sicherung hinausgehen, so kann das
@@ -1334,6 +1401,7 @@ Aufbewahrung unverhältnismäßige Kosten verursachen würde.
 
 
 ##### § 52 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005300000)
 
 (1) Weist das Beschwerdegericht die Beschwerde des Schuldners gegen
 die Zulassung der Zwangsvollstreckung zurück oder lässt es auf die
@@ -1357,6 +1425,7 @@ erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
 
 
 ##### § 53 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005400000)
 
 (1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
 Geschäftsstelle des Gerichts des ersten Rechtszuges mit der
@@ -1393,6 +1462,7 @@ ist.
 
 
 ##### § 54 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005500000)
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
 der Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel
@@ -1422,9 +1492,11 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 
 #### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001700000)
 
 
 ##### § 55 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005600000)
 
 (1) Auf das Verfahren, das die Feststellung zum Gegenstand hat, ob
 eine Entscheidung aus einem anderen Staat anzuerkennen ist, sind die
@@ -1436,6 +1508,7 @@ Gericht, die Entscheidung anzuerkennen.
 
 
 ##### § 56 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005700000)
 
 In den Fällen des § 55 Absatz 2 sind die Kosten dem Antragsgegner
 aufzuerlegen. Dieser kann die Beschwerde (§ 43) auf die Entscheidung
@@ -1446,12 +1519,15 @@ hat.
 
 
 ### Abschnitt 4 - Anerkennung und Vollstreckung von Unterhaltstiteln nach völkerrechtlichen Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001800000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG001900000)
 
 
 ##### § 57 Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005800000)
 
 Auf die Anerkennung und Vollstreckbarerklärung von ausländischen
 Unterhaltstiteln nach den in § 1 Absatz 1 Satz 1 Nummer 2 bezeichneten
@@ -1461,12 +1537,14 @@ bestimmt ist.
 
 
 ##### § 58 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE005900000)
 
 Das Gericht entscheidet in dem Verfahren nach § 36 ohne Anhörung des
 Antragsgegners.
 
 
 ##### § 59 Beschwerdefrist
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006000000)
 
 (1) Die Beschwerde gegen die im ersten Rechtszug ergangene
 Entscheidung über den Antrag auf Erteilung der Vollstreckungsklausel
@@ -1485,6 +1563,7 @@ unberührt.
 
 
 ##### § 59a Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007900308)
 
 (1) Der Schuldner kann mit der Beschwerde, die sich gegen die
 Zulassung der Zwangsvollstreckung aus einer Entscheidung richtet, auch
@@ -1500,6 +1579,7 @@ Beschränkung geltend machen.
 
 
 ##### § 60 Beschränkung der Zwangsvollstreckung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006100000)
 
 Die Zwangsvollstreckung ist auf Sicherungsmaßregeln beschränkt,
 solange die Frist zur Einlegung der Beschwerde noch läuft und solange
@@ -1507,18 +1587,22 @@ solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 
 
 #### Unterabschnitt 2 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 23. November 2007 über die internationale Geltendmachung der Unterhaltsansprüche von Kindern und anderen Familienangehörigen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG003000308)
 
 
 ##### § 60a Beschwerdeverfahren im Bereich des Haager Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE008000308)
 
 Abweichend von § 59 gelten für das Beschwerdeverfahren die Fristen des
 Artikels 23 Absatz 6 des Haager Übereinkommens.
 
 
 #### Unterabschnitt 3 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002001308)
 
 
 ##### § 61 Einschränkung der Anerkennung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006200000)
 
 (1) Öffentliche Urkunden aus einem anderen Vertragsstaat werden nur
 anerkannt und vollstreckt, wenn dieser Staat die Erklärung nach
@@ -1544,6 +1628,7 @@ Antragsgegners zu versagen, wenn
 
 
 ##### § 62 Beschwerdeverfahren im Anwendungsbereich des Haager Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006300000)
 
 (1) Abweichend von § 59 Absatz 2 Satz 1 beträgt die Frist für die
 Beschwerde des Schuldners gegen die Zulassung der Zwangsvollstreckung
@@ -1564,9 +1649,11 @@ Entscheidung entsprechend anwendbar.
 
 
 #### Unterabschnitt 4 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 16. September 1988
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002101308)
 
 
 ##### § 63 Sonderregelungen für das Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006400000)
 
 (1) Die Frist für die Beschwerde des Antragsgegners gegen die
 Entscheidung über die Zulassung der Zwangsvollstreckung beträgt zwei
@@ -1581,9 +1668,11 @@ Verlängerung dieser Frist wegen weiter Entfernung ist ausgeschlossen.
 
 
 ### Abschnitt 5 - Verfahren bei förmlicher Gegenseitigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002200000)
 
 
 #### § 64 Vollstreckbarkeit ausländischer Titel
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006500000)
 
 (1) Die Vollstreckbarkeit ausländischer Titel in Verfahren mit
 förmlicher Gegenseitigkeit nach § 1 Absatz 1 Satz 1 Nummer 3 richtet
@@ -1603,12 +1692,15 @@ Gerichtsbarkeit zulässig.
 
 
 ## Kapitel 3 - Vollstreckung, Vollstreckungsabwehrantrag, besonderes Verfahren; Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002300000)
 
 
 ### Abschnitt 1 - Vollstreckung, Vollstreckungsabwehrantrag, besonderes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002400000)
 
 
 #### § 65 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006600000)
 
 Für die Vollstreckung von ausländischen Unterhaltstiteln gilt § 120
 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den
@@ -1618,6 +1710,7 @@ bestimmt ist.
 
 
 #### § 66 Vollstreckungsabwehrantrag
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006701308)
 
 (1) Ist ein ausländischer Titel nach der Verordnung (EG) Nr. 4/2009
 ohne Exequaturverfahren vollstreckbar oder nach dieser Verordnung oder
@@ -1659,6 +1752,7 @@ richtet sich die Zuständigkeit nach § 35 Absatz 1 und 2.
 
 
 #### § 67 Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels im Ursprungsstaat
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006800000)
 
 (1) Wird der Titel in dem Staat, in dem er errichtet worden ist,
 aufgehoben oder geändert und kann der Schuldner diese Tatsache in dem
@@ -1689,6 +1783,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 #### § 68 Aufhebung oder Änderung ausländischer Entscheidungen, deren Anerkennung festgestellt ist
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE006900000)
 
 Wird die Entscheidung in dem Staat, in dem sie ergangen ist,
 aufgehoben oder abgeändert und kann die davon begünstigte Partei diese
@@ -1698,9 +1793,11 @@ entsprechend anzuwenden.
 
 
 ### Abschnitt 2 - Schadensersatz wegen ungerechtfertigter Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002500000)
 
 
 #### § 69 Schadensersatz wegen ungerechtfertigter Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007000000)
 
 (1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde (§
 43) oder die Rechtsbeschwerde (§ 46) aufgehoben oder abgeändert, so
@@ -1734,9 +1831,11 @@ den Fällen des Absatzes 2 Nummer 2 richtet sich die Zuständigkeit nach
 
 
 ## Kapitel 4 - Entscheidungen deutscher Gerichte; Mahnverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002600000)
 
 
 ### § 70 Antrag des Schuldners nach Artikel 19 der Verordnung (EG) Nr. 4/2009
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007100000)
 
 (1) Der Antrag des Schuldners auf Nachprüfung der Entscheidung gemäß
 Artikel 19 der Verordnung (EG) Nr. 4/2009 ist bei dem Gericht zu
@@ -1759,6 +1858,7 @@ Sicherheitsleistung einzustellen.
 
 
 ### § 71 Bescheinigungen zu inländischen Titeln
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007200000)
 
 (1) Die Gerichte, Behörden oder Notare, denen die Erteilung einer
 vollstreckbaren Ausfertigung obliegt, sind zuständig für die
@@ -1795,6 +1895,7 @@ nicht aus.
 
 
 ### § 72 Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007300000)
 
 Soll ein Unterhaltstitel, der den Unterhalt nach § 1612a des
 Bürgerlichen Gesetzbuchs als Prozentsatz des Mindestunterhalts
@@ -1804,6 +1905,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 ### § 73 Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007400000)
 
 (1) Will ein Beteiligter einen Versäumnis- oder Anerkenntnisbeschluss,
 der nach § 38 Absatz 4 des Gesetzes über das Verfahren in
@@ -1836,6 +1938,7 @@ werden sollen und nicht mit einer Begründung versehen sind.
 
 
 ### § 74 Vollstreckungsklausel zur Verwendung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007500000)
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Anordnungen,
 deren Zwangsvollstreckung in einem anderen Vertrags- oder
@@ -1848,6 +1951,7 @@ freiwilligen Gerichtsbarkeit nicht erforderlich wäre.
 
 
 ### § 75 Mahnverfahren mit Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007600000)
 
 (1) Das Mahnverfahren findet auch statt, wenn die Zustellung des
 Mahnbescheids in einem anderen Vertrags- oder Mitgliedstaat erfolgen
@@ -1864,12 +1968,15 @@ Zivilprozessordnung) beträgt einen Monat.
 
 
 ## Kapitel 5 - Kosten; Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002700000)
 
 
 ### Abschnitt 1 - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002800000)
 
 
 #### § 76 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007700000)
 
 Die Höhe der Vergütung für die von der zentralen Behörde veranlassten
 Übersetzungen richtet sich nach dem Justizvergütungs- und
@@ -1877,9 +1984,11 @@ Entschädigungsgesetz.
 
 
 ### Abschnitt 2 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNG002900000)
 
 
 #### § 77 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aug_2011/BJNR089810011.html#BJNR089810011BJNE007800000)
 
 (1) Die Anerkennung und Vollstreckbarerklärung eines ausländischen
 Unterhaltstitels richtet sich für die am 18. Juni 2011 bereits

@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Fördergrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000200000)
 
 (1) An staatlichen oder staatlich anerkannten Hochschulen in
 Deutschland, mit Ausnahme der Hochschulen in Trägerschaft des Bundes,
@@ -48,6 +50,7 @@ Bildung bleibt unberührt.
 
 
 ## § 2 Bewerbung, Auswahl und regelmäßige Eignungs- und Leistungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000300000)
 
 (1) Die Stipendien werden nach Durchführung eines Auswahlverfahrens
 durch die Hochschulen auf Antrag des Bewerbers vergeben, wenn die
@@ -94,6 +97,7 @@ staatlichen Anerkennung.
 
 
 ## § 3 Auswahlkriterien
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000400000)
 
 Die Stipendien werden nach Begabung und Leistung vergeben. Neben den
 bisher erbrachten Leistungen und dem bisherigen persönlichen Werdegang
@@ -104,6 +108,7 @@ aus der familiären Herkunft oder einem Migrationshintergrund ergeben.
 
 
 ## § 4 Ausschluss von Doppelförderung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000500000)
 
 (1) Ein Stipendium nach diesem Gesetz wird nicht vergeben, wenn der
 oder die Studierende eine begabungs- und leistungsabhängige materielle
@@ -126,6 +131,7 @@ vernichten.
 
 
 ## § 5 Umfang der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000600000)
 
 (1) Die Höhe des Stipendiums beträgt monatlich 300 Euro. Ein höheres
 Stipendium kann vergeben werden, wenn der nach § 11 Absatz 2
@@ -143,6 +149,7 @@ entsprechende landesrechtliche Vorschriften bleiben unberührt.
 
 
 ## § 6 Bewilligung und Förderungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000701116)
 
 (1) Die Entscheidung über den Antrag erfolgt schriftlich oder
 elektronisch. Die Bewilligung eines Stipendiums umfasst die
@@ -172,6 +179,7 @@ Auslandsaufenthalts gezahlt.
 
 
 ## § 7 Verlängerung der Förderungshöchstdauer; Beurlaubung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000800000)
 
 (1) Verlängert sich die Studiendauer aus schwerwiegenden Gründen, wie
 zum Beispiel einer Behinderung, einer Schwangerschaft, der Pflege und
@@ -186,6 +194,7 @@ des Stipendiaten oder der Stipendiatin angepasst.
 
 
 ## § 8 Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE000901116)
 
 Das Stipendium endet mit Ablauf des Monats, in dem der Stipendiat oder
 die Stipendiatin
@@ -214,6 +223,7 @@ fortgezahlt wird.
 
 
 ## § 9 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001000000)
 
 Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger
 Frist zum Ende eines Kalendermonats widerrufen werden, wenn der
@@ -226,6 +236,7 @@ insbesondere im Fall der Doppelförderung möglich.
 
 
 ## § 10 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001100000)
 
 (1) Die Bewerberinnen und Bewerber haben die für das Auswahlverfahren
 notwendigen Mitwirkungspflichten zu erfüllen, insbesondere die zur
@@ -242,6 +253,7 @@ Leistungsnachweise vorzulegen.
 
 
 ## § 11 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001201360)
 
 (1) Die Stipendien werden aus von den Hochschulen eingeworbenen
 privaten Mitteln und aus öffentlichen Mitteln finanziert.
@@ -268,6 +280,7 @@ Höchstgrenze erfolgt schrittweise.
 
 
 ## § 12 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001300000)
 
 (1) Das Bundesministerium für Bildung und Forschung richtet einen
 Beirat ein. Dieser berät das Bundesministerium durch Stellungnahmen
@@ -282,6 +295,7 @@ der Arbeitnehmer für jeweils vier Jahre in den Beirat.
 
 
 ## § 13 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001400000)
 
 (1) Über die Förderung nach diesem Gesetz wird eine Bundesstatistik
 geführt.
@@ -312,6 +326,7 @@ Auskunftspflichtig sind die Hochschulen.
 
 
 ## § 14 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001501360)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrats Vorschriften zu erlassen über
@@ -359,6 +374,7 @@ des Bundesrates die Einzelheiten zur Erreichung der Höchstgrenze nach
 
 
 ## § 15 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001600000)
 
 Auf der Grundlage der Statistik nach § 13 prüft die Bundesregierung
 nach Ablauf von vier Jahren, ob an allen Hochschulstandorten
@@ -368,6 +384,7 @@ Deutschen Bundestag und dem Bundesrat zu berichten.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stipg/BJNR095700010.html#BJNR095700010BJNE001700000)
 
 Dieses Gesetz tritt am 1. August 2010 in Kraft.
 

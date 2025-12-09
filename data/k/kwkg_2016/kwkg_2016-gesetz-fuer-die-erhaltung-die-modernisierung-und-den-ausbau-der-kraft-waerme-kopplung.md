@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 754-18 v. 19.3.2002 I 1092 (KWKG 2002)
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000203119)
 
 (1) Zweck dieses Gesetzes ist es, insbesondere im Interesse der
 Energieeinsparung sowie des Klima- und Umweltschutzes die
@@ -157,6 +159,7 @@ der in ihnen erzeugte KWK-Strom angerechnet.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000307128)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -505,6 +508,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 
 ### § 3 Anschluss- und Abnahmepflicht
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000407123)
 
 (1) Netzbetreiber müssen unabhängig von der Pflicht zur Zahlung von
 Zuschlägen nach den §§ 6 bis 13 hocheffiziente KWK-Anlagen
@@ -527,6 +531,7 @@ entsprechend anzuwenden.
 
 
 ### § 4 Direktvermarktung des KWK-Stroms, Vergütung für nicht direkt vermarktete KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000501118)
 
 (1) Betreiber von KWK-Anlagen mit einer elektrischen KWK-Leistung von
 mehr als 100 Kilowatt müssen den erzeugten KWK-Strom direkt vermarkten
@@ -561,9 +566,11 @@ Betreiber der KWK-Anlage vom Netzbetreiber abzunehmen.
 
 
 ## Abschnitt 2 - Zuschlagzahlungen für KWK-Strom
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000201118)
 
 
 ### § 5 Anspruch auf Zuschlagzahlung für KWK-Anlagen und Förderung innovativer KWK-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000607119)
 
 (1) Der Anspruch auf Zuschlagzahlung besteht
 
@@ -621,6 +628,7 @@ finanzielle Förderung nach den §§ 7a und 7b.
 
 
 ### § 6 Zuschlagberechtigte neue, modernisierte oder nachgerüstete KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000709128)
 
 (1) Betreiber von neuen, modernisierten oder nachgerüsteten KWK-
 Anlagen haben gegenüber dem Netzbetreiber, mit dessen Netz ihre KWK-
@@ -787,6 +795,7 @@ Absatz 2 anzuwenden.
 
 
 ### § 7 Höhe des Zuschlags für KWK-Strom aus neuen, modernisierten oder nachgerüsteten KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006902128)
 
 (1) Der Zuschlag für KWK-Strom, der in ein Netz der allgemeinen
 Versorgung eingespeist wird und auf den die §§ 61e bis 61g und 104
@@ -964,6 +973,7 @@ Zuschlägen auf null.
 
 
 ### § 7a Bonus für innovative erneuerbare Wärme
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006002123)
 
 (1) Der Zuschlag für KWK-Strom nach § 7 Absatz 1 oder nach § 8a in
 Verbindung mit der KWK-Ausschreibungsverordnung erhöht sich ab dem 1.
@@ -1047,6 +1057,7 @@ entsprechend anzuwenden.
 
 
 ### § 7b Bonus für elektrische Wärmeerzeuger
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006101128)
 
 (1) Betreiber von neuen oder modernisierten KWK-Anlagen mit einer
 elektrischen Leistung von mehr als 1 Megawatt haben gegenüber dem
@@ -1088,6 +1099,7 @@ erhalten.
 
 
 ### § 7c Kohleersatzbonus
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006204128)
 
 (1) Betreiber von neuen KWK-Anlagen haben gegenüber dem Netzbetreiber,
 mit dessen Netz ihre KWK-Anlagen unmittelbar oder mittelbar verbunden
@@ -1269,10 +1281,12 @@ seine Mitteilungspflicht nach § 7e erfüllt hat.
 
 
 ### § 7d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006301128)
 
 
 
 ### § 7e Mitteilungspflicht im Zusammenhang mit der Inanspruchnahme der Boni
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006401128)
 
 Anlagenbetreiber, die beabsichtigen, einen Bonus nach den §§ 7b bis 7c
 in Anspruch zu nehmen, sind verpflichtet, dem für die Auszahlung
@@ -1287,6 +1301,7 @@ vor dem 31. Juli erfolgt ist.
 
 
 ### § 8 Dauer der Zuschlagzahlung für neue, modernisierte oder nachgerüstete KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE000903119)
 
 (1) Für neue KWK-Anlagen wird der Zuschlag ab Aufnahme des
 Dauerbetriebs der Anlage für 30 000 Vollbenutzungsstunden gezahlt.
@@ -1402,6 +1417,7 @@ des Dauerbetriebs gezahlt für
 
 
 ### § 8a Ausschreibung der Zuschlagzahlung für KWK-Strom
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003902123)
 
 (1) Die Bundesnetzagentur ermittelt die Höhe der Zuschlagzahlung für
 KWK-Strom aus KWK-Anlagen im Sinn des § 5 Absatz 1 Nummer 2 nach
@@ -1460,6 +1476,7 @@ der Energiestatistik melden.
 
 
 ### § 8b Ausschreibung der Förderung für innovative KWK-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE004001128)
 
 (1) Die Bundesnetzagentur ermittelt die Höhe der finanziellen
 Förderung für innovative KWK-Systeme im Sinn des § 5 Absatz 2 nach
@@ -1475,12 +1492,14 @@ anwendbar.
 
 
 ### § 8c Ausschreibungsvolumen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE004102123)
 
 Das Ausschreibungsvolumen für die Ausschreibungen nach den §§ 8a und
 8b beträgt pro Kalenderjahr 200 Megawatt elektrische KWK-Leistung.
 
 
 ### § 9 Neue KWK-Anlagen mit einer elektrischen KWK-Leistung von bis zu 2 Kilowatt
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001003128)
 
 (1) Betreiber von neuen KWK-Anlagen mit einer elektrischen KWK-
 Leistung von bis zu 2 Kilowatt können sich auf Antrag vom
@@ -1496,6 +1515,7 @@ Einzelabrechnung der erzeugten Strommenge.
 
 
 ### § 10 Zulassung von neuen, modernisierten oder nachgerüsteten KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001108128)
 
 (1) Voraussetzung für den Anspruch auf Zahlung des Zuschlags sowie der
 Boni nach den §§ 7a bis 7c ist die Zulassung der KWK-Anlage durch das
@@ -1640,6 +1660,7 @@ zugelassen werden, ist § 11 Absatz 3 entsprechend anzuwenden.
 
 
 ### § 11 Überprüfung, Wirkung und Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001203128)
 
 (1) Soweit es für die Überprüfung der Zulassungsvoraussetzungen
 erforderlich ist, sind die von dem Bundesamt für Wirtschaft und
@@ -1687,6 +1708,7 @@ wird.
 
 
 ### § 12 Vorbescheid für neue KWK-Anlagen mit einer elektrischen Leistung von mehr als 50 Megawatt
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001306119)
 
 (1) Auf Antrag entscheidet das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle vor Inbetriebnahme von neuen KWK-Anlagen im Sinn des
@@ -1741,6 +1763,7 @@ die KWK-Anlage zum Zeitpunkt der Antragstellung enthalten.
 
 
 ### § 13 Zuschlagberechtigte bestehende KWK-Anlagen, Höhe des Zuschlags und Dauer der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001403128)
 
 (1) Betreiber von bestehenden KWK-Anlagen mit einer elektrischen KWK-
 Leistung von mehr als 2 Megawatt bis zu einer elektrischen Leistung
@@ -1822,6 +1845,7 @@ Fassung an den Betreiber der KWK-Anlage.
 
 
 ### § 13a Registrierung von KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE004300118)
 
 Die Höhe der Zuschlagzahlung nach diesem Abschnitt verringert sich um
 20 Prozent, solange Anlagenbetreiber die zur Registrierung der Anlage
@@ -1830,6 +1854,7 @@ erforderlichen Angaben nicht nach Maßgabe der Rechtsverordnung nach §
 
 
 ### § 13b Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE007100119)
 
 Zahlt ein Netzbetreiber einem Anlagenbetreiber mehr als nach diesem
 Gesetz vorgeschrieben, muss er den Mehrbetrag zurückfordern. Ist die
@@ -1846,9 +1871,11 @@ Kalenderjahres; die Pflicht nach Satz 1 erlischt insoweit.
 
 
 ## Abschnitt 3 - Vorschriften zum Nachweis der Menge des eingespeisten KWK-Stroms und zur Übermittlung von Daten an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000300000)
 
 
 ### § 14 Messung von KWK-Strom und Nutzwärme
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001503118)
 
 (1) Der Netzbetreiber ist verpflichtet, die für den Nachweis des in
 der KWK-Anlage erzeugten und des in das Netz der allgemeinen
@@ -1887,6 +1914,7 @@ Messeinrichtungen zu gewähren.
 
 
 ### § 15 Mitteilungs- und Vorlagepflichten des Betreibers einer KWK-Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001604128)
 
 (1) Der Betreiber einer KWK-Anlage oder ein von ihm beauftragter
 Dritter informiert das Bundesamt für Wirtschaft und Ausfuhrkontrolle
@@ -2008,6 +2036,7 @@ worden ist.
 
 
 ### § 16 Maßnahmen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle zur Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001701118)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann Maßnahmen
 zur Überprüfung ergreifen, wenn sie begründete Zweifel hat an der
@@ -2028,6 +2057,7 @@ Richtigkeit
 
 
 ### § 17 Übermittlung von Daten an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001803119)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle übermittelt
 jährlich die folgenden Daten an das Statistische Bundesamt:
@@ -2056,9 +2086,11 @@ jeweils geltenden Fassung anzuwenden.
 
 
 ## Abschnitt 4 - Zuschlagzahlungen für Wärmenetze und Kältenetze
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000400000)
 
 
 ### § 18 Zuschlagberechtigter Neu- und Ausbau von Wärmenetzen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE001907128)
 
 (1) Betreiber eines neuen oder ausgebauten Wärmenetzes haben gegenüber
 dem Übertragungsnetzbetreiber Anspruch auf Zahlung eines Zuschlags
@@ -2185,6 +2217,7 @@ sind
 
 
 ### § 19 Höhe des Zuschlags für den Neu- und Ausbau von Wärmenetzen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002003128)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle legt den
 Zuschlag für den Neu- und Ausbau von Wärmenetzen mit der Zulassung
@@ -2221,6 +2254,7 @@ gestellt wird, abzuziehen.
 
 
 ### § 20 Zulassung für den Neu- und Ausbau von Wärmenetzen, Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002105128)
 
 (1) Die Zulassung für den Neu- und Ausbau von Wärmenetzen ist dem
 Wärmenetzbetreiber von dem Bundesamt für Wirtschaft und
@@ -2313,15 +2347,18 @@ Voraussetzungen erfüllt.
 
 
 ### § 21 Zuschlagzahlungen für Kältenetze
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002200000)
 
 Die §§ 18, 19 und 20 sind für den Neu- und Ausbau von Kältenetzen
 entsprechend anzuwenden.
 
 
 ## Abschnitt 5 - Zuschlagzahlungen für Wärmespeicher und Kältespeicher
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000500000)
 
 
 ### § 22 Zuschlagberechtigter Neubau von Wärmespeichern
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002306128)
 
 (1) Betreiber von Wärmespeichern haben gegenüber dem
 Übertragungsnetzbetreiber einen Anspruch auf Zahlung eines Zuschlags
@@ -2396,6 +2433,7 @@ Komponenten in einen Wärmespeicher.
 
 
 ### § 23 Höhe des Zuschlags für den Neubau von Wärmespeichern
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002401118)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle legt den
 Zuschlag für den Neubau von Wärmespeichern mit der Zulassung fest. Der
@@ -2437,6 +2475,7 @@ Absatz 1 gewährt werden.
 
 
 ### § 24 Zulassung für den Neubau von Wärmespeichern, Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002503119)
 
 (1) Die Zulassung für den Neubau von Wärmespeichern ist dem Betreiber
 des Wärmespeichers auf Antrag zu erteilen, wenn der Neubau des
@@ -2525,15 +2564,18 @@ entsprechend anzuwenden.
 
 
 ### § 25 Kältespeicher
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002600000)
 
 Die §§ 22, 23 und 24 sind für den Neubau von Kältespeichern
 entsprechend anzuwenden.
 
 
 ## Abschnitt 6 - Finanzierung und Begrenzung der Zuschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000601119)
 
 
 ### § 26 Finanzierung der Zuschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002703119)
 
 Die Finanzierung der Ausgaben der Netzbetreiber nach diesem Gesetz und
 nach aufgrund dieses Gesetzes erlassener Rechtsverordnungen bestimmt
@@ -2541,6 +2583,7 @@ sich nach dem Energiefinanzierungsgesetz.
 
 
 ### § 27 Begrenzung der Zuschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE002804119)
 
 (1) Der nach Anlage 1 des Energiefinanzierungsgesetzes ermittelte
 KWKG-Finanzierungsbedarf darf einen Betrag von 1,8 Milliarden Euro pro
@@ -2595,13 +2638,16 @@ Ansprüchen auf KWK-Zuschlag der KWK-Anlagen aus dem Prognosejahr.
 
 
 ### (XXXX) §§ 27a bis 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE004602119)
 
 
 
 ## Abschnitt 7 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000700000)
 
 
 ### § 30 Vorschriften für Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003106119)
 
 (1) Folgende Abrechnungen, Angaben oder Nachweise müssen von einem
 Wirtschaftsprüfer, einer Wirtschaftsprüfungsgesellschaft, einem
@@ -2651,6 +2697,7 @@ anzuwenden.
 
 
 ### § 31 Herkunftsnachweis für Strom aus hocheffizienter Kraft-Wärme-Kopplung
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003203128)
 
 (1) Betreiber von hocheffizienten KWK-Anlagen mit Ausnahme von
 Anlagen, die erneuerbare Energieträger einsetzen, können für Strom,
@@ -2724,6 +2771,7 @@ unionsrechtlichen Vorgaben widersprechen.
 
 
 ### § 31a Weitere Aufgaben des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE004900118)
 
 Für die Erstellung eines Testats zur Wirtschaftlichkeitsanalyse
 einschließlich des Kosten-Nutzen-Vergleichs im Sinn von § 3 Absatz 3
@@ -2733,6 +2781,7 @@ zuständig.
 
 
 ### § 31b Weitere Aufgaben der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005003119)
 
 (1) Die Bundesnetzagentur hat unbeschadet weiterer Aufgaben, die ihr
 in diesem Gesetz oder in aufgrund dieses Gesetzes erlassenen
@@ -2772,6 +2821,7 @@ Wärme- und Kältespeichern möglich, die keine Unternehmen sind.
 
 
 ### § 32 Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003304119)
 
 (1) Der Bundesgerichtshof muss die Bundesnetzagentur über alle
 bürgerlichen Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben,
@@ -2791,6 +2841,7 @@ von dem Bundesgerichtshof mitzuteilen.
 
 
 ### § 32a Clearingstelle
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005103119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz kann zur
 Vermeidung und Beilegung von Streitigkeiten eine Clearingstelle
@@ -2920,6 +2971,7 @@ Clearingstelle zur Deckung des Aufwands Entgelte erheben.
 
 
 ### § 33 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003705119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf,
@@ -2992,6 +3044,7 @@ Bundesrates bedarf,
 
 
 ### § 33a Verordnungsermächtigungen zur Ausschreibung der Zuschlagzahlungen für KWK-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005210119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates im Anwendungsbereich des § 8a Regelungen
@@ -3463,6 +3516,7 @@ eine Verordnung nach Satz 1 vorlegen.
 
 
 ### § 33b Verordnungsermächtigungen zur Ausschreibung der Förderung für innovative KWK-Systeme
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005305119)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates im Anwendungsbereich des § 8b Regelungen
@@ -3719,6 +3773,7 @@ Zustimmung des Bundesrates im Anwendungsbereich des § 8b
 
 
 ### § 33c Gemeinsame Bestimmungen zu den Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005400118)
 
 (1) Die Rechtsverordnungen aufgrund von § 33a Absatz 1 und 2 und § 33b
 Absatz 1 bedürfen der Zustimmung des Bundestages.
@@ -3744,9 +3799,11 @@ nicht der Zustimmung des Bundesrates oder des Bundestages.
 
 
 ## Abschnitt 8 - Evaluierungen und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNG000800000)
 
 
 ### § 34 Evaluierungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003507119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz überprüft
 jährlich die Angemessenheit der Höhe der Zuschlagzahlungen für KWK-
@@ -3844,6 +3901,7 @@ werden kann.
 
 
 ### § 35 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE003614128)
 
 (1) Für Ansprüche der Betreiber auf Vermarktung des KWK-Stroms durch
 den Netzbetreiber
@@ -4134,14 +4192,17 @@ werden.
 
 
 ### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005501119)
 
 
 
 ### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE005601119)
 
 
 (zu den §§ 7b und 7d)
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html#BJNR249810015BJNE006501128)
 
 

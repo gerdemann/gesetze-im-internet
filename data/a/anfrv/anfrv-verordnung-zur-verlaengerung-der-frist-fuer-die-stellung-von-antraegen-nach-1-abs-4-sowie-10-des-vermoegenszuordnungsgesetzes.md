@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000100307)
 
 Auf Grund des § 7 Abs. 3 Satz 2 des Vermögenszuordnungsgesetzes in der
 Fassung der Bekanntmachung vom 29. März 1994 (BGBl. I S. 709)
@@ -26,6 +27,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000200307)
 
 Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte
 Frist zur Stellung von Anträgen nach § 1 Abs. 4 in Verbindung mit dem
@@ -34,6 +36,7 @@ bis zum 31. Dezember 1995 verlängert.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000300307)
 
 Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte
 Frist zur Stellung von Anträgen nach § 1 Abs. 4 des
@@ -43,6 +46,7 @@ verlängert.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000400307)
 
 Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte
 Frist zur Stellung von Anträgen nach § 10 des
@@ -50,11 +54,13 @@ Vermögenszuordnungsgesetzes wird bis zum 31. Dezember 1994 verlängert.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000500307)
 
 Diese Verordnung tritt am 30. Juni 1994 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/anfrv/BJNR126500994.html#BJNR126500994BJNE000600307)
 
 Der Bundesrat hat zugestimmt.
 

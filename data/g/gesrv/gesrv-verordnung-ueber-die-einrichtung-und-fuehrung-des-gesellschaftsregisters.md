@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Anwendung der Handelsregisterverordnung
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000100000)
 
 (1) Für die Einrichtung und Führung des Gesellschaftsregisters ist die
 Handelsregisterverordnung entsprechend anwendbar, soweit in dieser
@@ -38,6 +39,7 @@ einer offenen Handelsgesellschaft mit den Maßgaben gleich, dass
 
 
 ## § 2 Einteilung und Gestaltung des Gesellschaftsregisters
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000200000)
 
 (1) Jede Gesellschaft ist unter einer fortlaufenden Nummer
 (Registerblatt) in das Gesellschaftsregister einzutragen.
@@ -47,6 +49,7 @@ zu verwenden.
 
 
 ## § 3 Anmeldung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000300000)
 
 (1) In der Anmeldung der Gesellschaft zur Eintragung in das
 Gesellschaftsregister soll auch der Gegenstand der Gesellschaft
@@ -62,6 +65,7 @@ angemeldet wird.
 
 
 ## § 4 Inhalt der Eintragungen in das Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000400000)
 
 (1) In Spalte 1 des Gesellschaftsregisters ist die laufende Nummer der
 die Gesellschaft betreffenden Eintragungen einzutragen.
@@ -180,6 +184,7 @@ Registernummer dieses Rechtsträgers zu vermerken.
 
 
 ## § 5 Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000500000)
 
 Die Bekanntmachungen erfolgen in dem für das Handelsregister
 bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
@@ -190,6 +195,7 @@ abzufassen.
 (zu § 2 Absatz 2 und § 4)
 
 ## Anlage 1 Allgemeines Muster für Eintragungen in das Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000600000)
 
 (Fundstelle: BGBl. I 2022, 2424)
 
@@ -425,6 +431,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 (zu § 2 Absatz 2)
 
 ## Anlage 2 Musterbeispiel für die Eintragung eines Statuswechsels einer Gesellschaft bürgerlichen Rechts in eine Kommanditgesellschaft in das Gesellschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000700000)
 
 (Fundstelle: BGBl. I 2022, 2425)
 
@@ -554,6 +561,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 (zu § 2 Absatz 2)
 
 ## Anlage 3 Musterbeispiel für die Eintragung eines Statuswechsels einer Gesellschaft bürgerlichen Rechts in eine Kommanditgesellschaft in das Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000800000)
 
 (Fundstelle: BGBl. I 2022, 2426)
 
@@ -732,6 +740,7 @@ Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der
 (zu § 2 Absatz 2)
 
 ## Anlage 4 Muster der Wiedergabe des aktuellen Registerinhalts
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE000900000)
 
 (Fundstelle: BGBl. I 2022, 2427)
 
@@ -804,6 +813,7 @@ Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten auf dem
 (zu § 5 Satz 2)
 
 ## Anlage 5 Muster für Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/gesrv/BJNR242210022.html#BJNR242210022BJNE001000000)
 
 (Fundstelle: BGBl. I 2022, 2428)
 

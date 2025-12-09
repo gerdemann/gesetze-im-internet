@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzversnatostatano/BJNR513500968.html#BJNR513500968BJNE000100319)
 
 Auf Grund des Abschnitts VII Abs. 2 der Anlage 1 (§ 7 Abs. 6) der
 Verordnung über die Tarife in der Kraftfahrtversicherung vom 20.
@@ -28,6 +29,7 @@ Absatz 2 Tarifverordnung angeordnet:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kfzversnatostatano/BJNR513500968.html#BJNR513500968BJNE000200319)
 
 
 *
@@ -325,11 +327,13 @@ Absatz 2 Tarifverordnung angeordnet:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kfzversnatostatano/BJNR513500968.html#BJNR513500968BJNE000300319)
 
 Die Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzversnatostatano/BJNR513500968.html#BJNR513500968BJNE000400319)
 
 Der Präsident des Bundesaufsichtsamtes für das Versicherungs- und
 Bausparwesen

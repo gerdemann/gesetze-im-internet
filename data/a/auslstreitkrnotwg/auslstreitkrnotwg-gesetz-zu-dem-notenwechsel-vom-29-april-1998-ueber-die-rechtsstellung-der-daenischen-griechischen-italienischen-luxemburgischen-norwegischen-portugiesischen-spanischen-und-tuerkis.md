@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslstreitkrnotwg/BJNR050620999.html#BJNR050620999BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/auslstreitkrnotwg/BJNR050620999.html#BJNR050620999BJNE000200305)
 
 (1) Dem Notenwechsel vom 29. April 1998 zwischen der Bundesrepublik
 Deutschland und dem Königreich Dänemark, der Griechischen Republik,
@@ -44,6 +46,7 @@ Vereinbarte Niederschrift werden nachstehend veröffentlicht.
 
 
 ## Art 2 Schadensabwicklung
+[Direktlink](https://www.gesetze-im-internet.de/auslstreitkrnotwg/BJNR050620999.html#BJNR050620999BJNE000301377)
 
 (1) Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und
 25 des Gesetzes zu dem Abkommen zwischen den Parteien des
@@ -62,6 +65,7 @@ mit § 16 Abs. 5 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995
 
 
 ## Art 3 Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/auslstreitkrnotwg/BJNR050620999.html#BJNR050620999BJNE000400305)
 
 Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit wird von
 der Staatsanwaltschaft erklärt. Im übrigen gilt Artikel 4a des
@@ -70,6 +74,7 @@ jeweils geltenden Fassung.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslstreitkrnotwg/BJNR050620999.html#BJNR050620999BJNE000500305)
 
 (1) Artikel 1 tritt am Tage nach der Verkündung dieses Gesetzes in
 Kraft.

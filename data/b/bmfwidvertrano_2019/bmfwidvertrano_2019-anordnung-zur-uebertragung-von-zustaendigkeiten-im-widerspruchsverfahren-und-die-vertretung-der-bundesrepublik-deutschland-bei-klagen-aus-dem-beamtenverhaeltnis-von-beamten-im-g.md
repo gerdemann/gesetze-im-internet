@@ -20,6 +20,7 @@ Fundstelle
 Stand: Ersetzt V 2030-14-216 v. 12.6.2017 I 1879 (BMFWidVertrAnO 2017)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfwidvertrano_2019/BJNR162400019.html#BJNR162400019BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -28,6 +29,7 @@ Bundesministerium des Innern, für Bau und Heimat an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bmfwidvertrano_2019/BJNR162400019.html#BJNR162400019BJNE000200000)
 
 (1) Die Zuständigkeit für den Erlass von Widerspruchsbescheiden auf
 den Gebieten des Besoldungs-, Dienstunfall-, Reisekosten-,
@@ -69,6 +71,7 @@ Zuständigkeit abweichend regeln oder selbst entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmfwidvertrano_2019/BJNR162400019.html#BJNR162400019BJNE000300000)
 
 (1) Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamtenverhältnis wird den Leitern der in § 1 genannten Behörden
@@ -80,6 +83,7 @@ Vertretung abweichend regeln oder selbst übernehmen.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmfwidvertrano_2019/BJNR162400019.html#BJNR162400019BJNE000400000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig tritt die Anordnung über die

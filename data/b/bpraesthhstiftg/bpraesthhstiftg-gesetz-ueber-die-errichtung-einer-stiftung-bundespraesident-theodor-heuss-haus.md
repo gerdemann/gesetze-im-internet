@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000100307)
 
 Unter dem Namen "Stiftung Bundespräsident-Theodor-Heuss-Haus" wird mit
 Sitz in Stuttgart eine rechtsfähige Stiftung des öffentlichen Rechts
@@ -28,6 +29,7 @@ Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000200307)
 
 (1) Zweck der Stiftung ist es,
 
@@ -69,6 +71,7 @@ Maßnahmen:
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000300307)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -86,6 +89,7 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000401320)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -95,6 +99,7 @@ Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000500307)
 
 Organe der Stiftung sind
 
@@ -108,6 +113,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000600307)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Zwei
@@ -133,6 +139,7 @@ des Vorstandes. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000701320)
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
 Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder
@@ -150,12 +157,14 @@ außergerichtlich.
 
 
 ## § 8 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000800307)
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE000901320)
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
 Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
@@ -170,6 +179,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 10 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE001000307)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -183,6 +193,7 @@ haben, verliehen werden.
 
 
 ## § 11 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE001100307)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -190,11 +201,13 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 12 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE001200307)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 13 Übernahme von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE001300307)
 
 Mit ihrem Entstehen übernimmt die "Stiftung Bundespräsident-Theodor-
 Heuss-Haus" die Rechte und Pflichten, welche für die Bundesrepublik
@@ -205,6 +218,7 @@ gestellt werden.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sthhstiftg/BJNR116600994.html#BJNR116600994BJNE001400307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

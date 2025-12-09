@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000100314)
 
 Auf Grund der §§ 9 Abs. 2 Satz 2, 62 Abs. 1 des Gesetzes zur Regelung
 der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes
@@ -33,12 +34,14 @@ Fälle die Ausübung dieser Befugnisse vorbehalte.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000200314)
 
 Ich behalte mir außerdem vor, in Einzelfällen die Befugnisse in jeder
 Lage des Verfahrens wieder an mich zu ziehen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000300314)
 
 Die auf den Bundesminister der Finanzen, den Bundesminister für das
 Post- und Fernmeldewesen und den Bundesminister für Verkehr durch mein
@@ -48,11 +51,13 @@ unberührt.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000400314)
 
 -
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000500314)
 
 Diese Anordnung tritt zugleich mit dem Gesetz über die Errichtung des
 Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S.
@@ -60,6 +65,7 @@ Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvwadisrzustano/BJNR500300960.html#BJNR500300960BJNE000600314)
 
 Der Bundesminister des Innern
 

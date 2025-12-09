@@ -55,6 +55,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000100000)
 
 Auf Grund
 
@@ -86,9 +87,11 @@ Auf Grund
 
 
 ## Kapitel 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000300000)
 
 Diese Verordnung gilt für die Genehmigung von
 
@@ -124,6 +127,7 @@ Diese Verordnung gilt für die Genehmigung von
 
 
 ### § 2 Genehmigungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000400000)
 
 (1) Genehmigungsbehörde für Typgenehmigungen und Genehmigungen für den
 Verkauf, das Anbieten zum Verkauf oder die Inbetriebnahme von Teilen
@@ -138,12 +142,15 @@ Landesrecht zuständigen Stellen.
 
 
 ## Kapitel 2 - Genehmigung für Kraftfahrzeuge mit mindestens vier Rädern und ihre Anhänger sowie deren Systeme, Bauteile und selbstständige technische Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000200000)
 
 
 ### Abschnitt 1 - Anwendungsbereich und EG-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000300000)
 
 
 #### § 3 Anwendungsbereich und Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000500000)
 
 (1) Für die Genehmigung von
 
@@ -221,6 +228,7 @@ benennen, der ihn bei der Genehmigungsbehörde vertritt.
 
 
 #### § 4 Erteilung der EG-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000600000)
 
 (1) Für das Antragsverfahren gelten die Artikel 6 und 7 der Richtlinie
 2007/46/EG. Der Antragsteller hat der Genehmigungsbehörde zu erklären,
@@ -257,6 +265,7 @@ technischen Einheiten jeweils mit dem genehmigten Typ übereinstimmen.
 
 
 #### § 5 Änderung der EG-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000700000)
 
 Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt
 unverzüglich über jede Änderung zu den Angaben, die in den
@@ -273,6 +282,7 @@ Genehmigungsbogens nach den Artikeln 14 bis 16 der Richtlinie
 
 
 #### § 6 Übereinstimmungsbescheinigung und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000800000)
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der
 Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach
@@ -294,6 +304,7 @@ Vorschriften über den Einbau beizufügen.
 
 
 #### § 7 Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE000902123)
 
 (1) Die EG-Typgenehmigung für Fahrzeuge erlischt, wenn neue
 Anforderungen eines für das genehmigte Fahrzeug geltenden Rechtsakts
@@ -323,6 +334,7 @@ Geräte- und Produktsicherheitsgesetz bleiben unberührt.
 
 
 #### § 8 Besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001000000)
 
 (1) Die den Mitgliedstaaten nach Artikel 20 Absatz 1, 2 und 4 der
 Richtlinie 2007/46/EG obliegenden Aufgaben werden für die
@@ -337,9 +349,11 @@ wirksam ist.
 
 
 ### Abschnitt 2 - Kleinserien-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000400000)
 
 
 #### § 9 Erteilung der EG-Kleinserien-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001100000)
 
 (1) Für Fahrzeuge wird eine EG-Kleinserien-Typgenehmigung nach Artikel
 22 der Richtlinie 2007/46/EG erteilt, wenn die in der Anlage zum
@@ -352,6 +366,7 @@ entsprechend.
 
 
 #### § 10 Übereinstimmungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001200000)
 
 Für die Ausstellung der Übereinstimmungsbescheinigung ist § 6 Absatz 1
 und 2 mit der Maßgabe anzuwenden, dass die nach Artikel 18 Absatz 6
@@ -359,6 +374,7 @@ der Richtlinie 2007/46/EG geforderten Zusätze einzutragen sind.
 
 
 #### § 11 Erteilung der nationalen Kleinserien-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001301123)
 
 (1) Für Fahrzeuge wird eine nationale Kleinserien-Typgenehmigung nach
 Artikel 23 der Richtlinie
@@ -396,6 +412,7 @@ der zugehörigen Anlagen.
 
 
 #### § 12 Datenbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001400000)
 
 (1) Der Inhaber einer nationalen Kleinserien-Typgenehmigung für
 Fahrzeuge ist verpflichtet, für jedes dem Typ entsprechende Fahrzeug
@@ -425,9 +442,11 @@ Militärkraftfahrtstelle mitteilt.
 
 
 ### Abschnitt 3 - Einzelgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000500000)
 
 
 #### § 13 Einzelgenehmigung für Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001500000)
 
 (1) Für ein Fahrzeug wird eine Einzelgenehmigung nach Artikel 24 der
 Richtlinie 2007/46/EG erteilt, wenn die in Anhang IV oder Anhang XI
@@ -526,9 +545,11 @@ dass
 
 
 ### Abschnitt 4 - EG-Autorisierung für risikobehaftete Teile und Ausrüstungen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000600000)
 
 
 #### § 14 Erteilung, Änderung, Widerruf, Rücknahme und Erlöschen der Autorisierung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001600000)
 
 (1) Für Teile oder Ausrüstungen nach Anhang XIII der Richtlinie
 2007/46/EG kann auf Antrag vom Kraftfahrt-Bundesamt eine Autorisierung
@@ -575,9 +596,11 @@ wird, dass
 
 
 ## Kapitel 3 - EG-Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000700000)
 
 
 ### § 15 Anwendungsbereich und Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001700000)
 
 (1) Für die Genehmigung von
 
@@ -641,6 +664,7 @@ erteilt.
 
 
 ### § 16 Erteilung und Änderung der EG-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001801308)
 
 (1) Für das Antragsverfahren gilt Artikel 3 in Verbindung mit Artikel
 11 der Richtlinie 2002/24/EG.
@@ -718,6 +742,7 @@ Artikels 9 Absatz 3 und 4 der Richtlinie 2002/24/EG vor.
 
 
 ### § 17 Übereinstimmungsbescheinigung und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE001900000)
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der
 Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach
@@ -761,6 +786,7 @@ Artikel 8 der Richtlinie 2002/24/EG.
 
 
 ### § 18 Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002000000)
 
 Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-
 Typgenehmigungen nach den in Anhang I der Richtlinie 2002/24/EG
@@ -772,6 +798,7 @@ Bauteils.
 
 
 ### § 19 Besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002100000)
 
 (1) Die den Mitgliedstaaten nach Artikel 15 Absatz 3 und 4 sowie
 Artikel 16 der Richtlinie 2002/24/EG obliegenden Aufgaben werden für
@@ -803,9 +830,11 @@ bis 18 sind entsprechend anzuwenden. Im Übrigen gilt Artikel 16 Absatz
 
 
 ## Kapitel 4 - EG-Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000800000)
 
 
 ### § 20 Anwendungsbereich und Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002200000)
 
 (1) Für die Genehmigung von
 
@@ -852,6 +881,7 @@ erteilt.
 
 
 ### § 21 Erteilung und Änderung der EG-Typgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002301308)
 
 (1) Für das Antragsverfahren gilt Artikel 3 in Verbindung mit Artikel
 12 der Richtlinie 2003/37/EG.
@@ -928,6 +958,7 @@ nimmt die Änderungen nach Maßgabe des Artikels 5 der Richtlinie
 
 
 ### § 22 Übereinstimmungsbescheinigung und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002400000)
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der
 Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach
@@ -954,6 +985,7 @@ dem genehmigten Typ erneut sicherzustellen.
 
 
 ### § 23 Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002500000)
 
 Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-
 Typgenehmigungen nach den in Anhang II Kapitel B der Richtlinie
@@ -965,6 +997,7 @@ technischen Einheit oder eines Bauteils.
 
 
 ### § 24 Besondere Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002600000)
 
 (1) Die den Mitgliedstaaten nach Artikel 8 Absatz 2 der Richtlinie
 2003/37/EG obliegenden Aufgaben werden für die Bundesrepublik
@@ -995,9 +1028,11 @@ Maßgabe des Artikels 11 Buchstabe a, c, d und e der Richtlinie
 
 
 ## Kapitel 5 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG000900000)
 
 
 ### § 25 Sicherstellung der Übereinstimmung der Produktion, Widerruf und Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002700000)
 
 (1) Stellt das Kraftfahrt-Bundesamt fest, dass Fahrzeuge, Systeme,
 Bauteile und selbstständige technische Einheiten nicht mit dem
@@ -1038,6 +1073,7 @@ wird, dass
 
 
 ### § 26 EG-Typgenehmigungen aus anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002800000)
 
 (1) In den anderen Mitgliedstaaten nach
 
@@ -1088,6 +1124,7 @@ für neue Fahrzeuge dürfen die Dauer von sechs Monaten nicht
 
 
 ### § 27 Zulassung und Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE002900000)
 
 (1) Neue Fahrzeuge, selbstständige technische Einheiten oder Bauteile,
 für die eine Übereinstimmungsbescheinigung nach Anhang IX der
@@ -1145,6 +1182,7 @@ wurde und durch eine Bescheinigung nachgewiesen wird.
 
 
 ### § 28 Informationen des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003000000)
 
 (1) Technische Informationen des Herstellers zu Angaben, die in der
 Richtlinie 2007/46/EG oder in den in Anhang IV der Richtlinie
@@ -1164,6 +1202,7 @@ gestellten Informationen und Anweisungen beigefügt sind.
 
 
 ### § 29 Zusammenarbeit mit den anderen Mitgliedstaaten der Europäischen Union und mit der Kommission der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003100000)
 
 (1) Das Kraftfahrt-Bundesamt übermittelt den Genehmigungsbehörden der
 anderen Mitgliedstaaten nach den Richtlinien nach § 1 die
@@ -1191,9 +1230,11 @@ ausländische Genehmigungsbehörde übersandt werden.
 
 
 ## Kapitel 6 - Anerkennung von Technischen Diensten
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG001001308)
 
 
 ### § 30 Anerkennung und Anerkennungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003200000)
 
 (1) Stellen, die die Aufgaben von Technischen Diensten nach den
 Richtlinien 2007/46/EG, 2002/24/EG oder 2003/37/EG oder den in Anhang
@@ -1210,6 +1251,7 @@ in Anlehnung an die Norm DIN EN ISO/IEC 17011:2004 wahr.
 
 
 ### § 31 Verfahren der Anerkennung der Technischen Dienste
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003300000)
 
 (1) Der Antrag auf Anerkennung mit den erforderlichen Unterlagen ist
 schriftlich zu stellen. Es sind die Formblätter und Muster zu
@@ -1234,6 +1276,7 @@ durch die Stelle zu gewährleisten.
 
 
 ### § 32 Änderung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003400000)
 
 (1) Die anerkannte Stelle hat dem Kraftfahrt-Bundesamt jede Änderung
 der Angaben, die in den Antragsunterlagen nach § 31 Absatz 1 enthalten
@@ -1244,6 +1287,7 @@ geändert werden. Für das Änderungsverfahren gilt § 31.
 
 
 ### § 33 Erlöschen, Widerruf und Rücknahme der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003500000)
 
 (1) Die Anerkennung erlischt mit Ablauf einer festgesetzten Frist oder
 bei Einstellung des Betriebs der benannten Stelle.
@@ -1259,6 +1303,7 @@ Anerkennungsbescheides nicht erfüllt waren.
 
 
 ### § 34 Überwachung der anerkannten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003600000)
 
 Das Kraftfahrt-Bundesamt kann jederzeit die Erfüllung der
 Anerkennungskriterien, die Einhaltung der Nebenbestimmungen und die
@@ -1278,10 +1323,12 @@ beaufsichtigenden Prüfungen stattfinden.
 
 
 ### § 35 (aufgehoben)
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003701308)
 
 
 
 ### § 36 Freistellungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003800000)
 
 Die anerkannte oder akkreditierte Stelle hat die Bundesrepublik
 Deutschland und die Länder von allen Ansprüchen Dritter wegen Schäden
@@ -1290,9 +1337,11 @@ freizustellen, die durch die Ausübung der mit der Anerkennung
 
 
 ## Kapitel 7 - Durchführungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNG001100000)
 
 
 ### § 37 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE003900000)
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des
 Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1309,6 +1358,7 @@ Ausrüstung gewerbsmäßig feilbietet.
 
 
 ### § 38 Harmonisierte Normen
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE004000000)
 
 Soweit in dieser Verordnung auf DIN-, EN- oder
 ISO/IEC-Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH,
@@ -1317,6 +1367,7 @@ München archivmäßig gesichert niedergelegt.
 
 
 ### § 39 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE004100000)
 
 (1) Die Bestimmungen der Richtlinie 2007/46/EG sind wie folgt
 anzuwenden:
@@ -1433,6 +1484,7 @@ nicht vorher aus anderen Gründen erlöschen.
 
 
 ### § 40 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE004200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die EG-Fahrzeuggenehmigungsverordnung vom 21. April
@@ -1440,6 +1492,7 @@ Gleichzeitig tritt die EG-Fahrzeuggenehmigungsverordnung vom 21. April
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/eg-fgv_2011/BJNR012600011.html#BJNR012600011BJNE004300000)
 
 Der Bundesrat hat zugestimmt.
 

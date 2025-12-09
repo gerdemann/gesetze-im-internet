@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zwecke der Verdienststatistik
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000101126)
 
 Für Zwecke wirtschafts- und sozialpolitischer Planungsentscheidungen,
 insbesondere zur regelmäßigen Evaluierung des gesetzlichen
@@ -29,6 +30,7 @@ und der Struktur der Arbeitskosten durchgeführt.
 
 
 ## § 2 Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000203126)
 
 (1) Die Statistik umfasst
 
@@ -60,10 +62,12 @@ Beschäftigungsverhältnis stehen,
 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000302126)
 
 
 
 ## § 4 Erhebung der Arbeitsverdienste
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000404126)
 
 (1) Die Erhebung der Arbeitsverdienste wird im Kalenderjahr 2021
 einmal für den Berichtsmonat April und ab dem Kalenderjahr 2022
@@ -154,6 +158,7 @@ Kalenderjahr die Haupterhebung durchgeführt wird.
 
 
 ## § 5 Erhebung der Struktur der Arbeitskosten
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000502126)
 
 (1) Die Erhebung erfasst alle vier Jahre, beginnend für das
 Berichtsjahr 2008, bei höchstens 34 000 Erhebungseinheiten nach § 2
@@ -207,6 +212,7 @@ Abschnitt A – Land- und Forstwirtschaft, Fischerei.
 
 
 ## § 6 Verdienstverlaufsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000603126)
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
 führen eine Verdienstverlaufsstatistik für alle Beschäftigten der
@@ -239,6 +245,7 @@ Zusammenführungen werden 15 Jahre nach der letzten Erhebung gelöscht.
 
 
 ## § 7 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000703126)
 
 Hilfsmerkmale der Erhebung sind:
 
@@ -258,6 +265,7 @@ Hilfsmerkmale der Erhebung sind:
 
 
 ## § 8 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000803119)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7
 Nr. 2 sind freiwillig. Auskunftspflichtig sind die Inhaber der in die
@@ -282,6 +290,7 @@ Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 9 Übermittlung von Einzelangaben
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE000900000)
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
 dürfen an die obersten Bundes- und Landesbehörden für die Verwendung
@@ -292,6 +301,7 @@ einen einzigen Fall ausweisen.
 
 
 ## § 10 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE001001126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -315,6 +325,7 @@ Zustimmung des Bundesrates
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/verdstatg/BJNR329100006.html#BJNR329100006BJNE001101126)
 
 Die Erhebung der Arbeitsverdienste wird für die vier Berichtsquartale
 des Jahres 2021 auf der Grundlage des § 3 in der bis zum 31. Dezember

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Sachkundenachweis
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000100000)
 
 
 ### § 1 Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000100000)
 
 (1) Durch das Bestehen der Sachkundeprüfung erbringt der Prüfling den
 Nachweis, dass er über die fachspezifischen Produkt- und
@@ -48,6 +50,7 @@ nach der Anlage 1.
 
 
 ### § 2 Zuständige Stelle und Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000200000)
 
 (1) Die Abnahme der Sachkundeprüfung erfolgt durch die Industrie- und
 Handelskammern. Die Sachkundeprüfung kann bei jeder Industrie- und
@@ -71,6 +74,7 @@ worden ist.
 
 
 ### § 3 Prüfungsinhalt, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000301118)
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem
 praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt
@@ -190,6 +194,7 @@ Gewerbeordnung durch Satzung.
 
 
 ### § 4 Gleichstellung anderer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000400000)
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger
 sind dem Nachweis der erforderlichen Sachkunde gleichgestellt:
@@ -271,6 +276,7 @@ Immobiliardarlehensvermittlung nachgewiesen wird.
 
 
 ### § 5 Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000501128)
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten
 Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich
@@ -287,9 +293,11 @@ Abkommens über den Europäischen Wirtschaftsraum erworbenen Abschluss.
 
 
 ## Abschnitt 2 - Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000200000)
 
 
 ### § 6 Angaben zur Speicherung im Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000600000)
 
 (1) Im Vermittlerregister nach § 11a der Gewerbeordnung werden
 folgende Angaben zu den Eintragungspflichtigen gespeichert:
@@ -364,6 +372,7 @@ zuständigen Registerbehörde mitgeteilt hat.
 
 
 ### § 7 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000700000)
 
 (1) Der Eintragungspflichtige hat der zuständigen Erlaubnisbehörde
 unverzüglich nach Aufnahme seiner Tätigkeit die Angaben nach § 6
@@ -390,6 +399,7 @@ Gewerbeordnung.
 
 
 ### § 8 Zugang
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000800000)
 
 Die Angaben nach § 6 Absatz 1 Satz 1 Nummer 2 und 11 dürfen nicht
 automatisiert abgerufen werden. Die Registerbehörde darf zu diesen
@@ -398,9 +408,11 @@ Behörden Auskunft erteilen.
 
 
 ## Abschnitt 3 - Anforderungen an die Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000300000)
 
 
 ### § 9 Geltungsbereich der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE000900000)
 
 Die Versicherung nach § 34i Absatz 2 Nummer 3 der Gewerbeordnung muss
 für das gesamte Gebiet der Mitgliedstaaten der Europäischen Union und
@@ -410,6 +422,7 @@ nicht ausschließlich auf das Inland beschränkt.
 
 
 ### § 10 Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001000000)
 
 (1) Die Versicherung nach § 34i Absatz 2 Nummer 3 der Gewerbeordnung
 muss bei einem im Inland zum Geschäftsbetrieb zugelassenen
@@ -453,6 +466,7 @@ dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
 
 ### § 11 Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001100000)
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung
 nach § 113 Absatz 2 des Versicherungsvertragsgesetzes vom 23. November
@@ -488,9 +502,11 @@ Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
 
 
 ## Abschnitt 4 - Verhaltenspflichten
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000400000)
 
 
 ### § 12 Allgemeine Verhaltenspflicht
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001200000)
 
 Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der
 erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im
@@ -498,6 +514,7 @@ Interesse des Immobiliardarlehensnehmers auszuüben.
 
 
 ### § 13 Verbot der Annahme von Geldern
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001300000)
 
 Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der
 Immobiliardarlehensvermittlung oder -beratung nach § 34i Absatz 1 Satz
@@ -506,6 +523,7 @@ Immobiliardarlehensnehmers zu verschaffen.
 
 
 ### § 14 Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001400000)
 
 (1) Der Gewerbetreibende hat ab der Annahme des Auftrags Folgendes
 nach Satz 3 aufzuzeichnen:
@@ -535,6 +553,7 @@ Aufzeichnungs- und Buchführungspflichten bleiben unberührt.
 
 
 ### § 15 Außerordentliche Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001501118)
 
 (1) Die für die Erlaubniserteilung nach § 34i Absatz 1 der
 Gewerbeordnung zuständige Behörde kann aus besonderem Anlass anordnen,
@@ -590,6 +609,7 @@ denen die Besorgnis der Befangenheit besteht.
 
 
 ### § 16 Rechte und Pflichten der an der außerordentlichen Prüfung Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001600000)
 
 (1) Der Gewerbetreibende hat dem Prüfer jederzeit Einsicht in die
 Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat dem Prüfer
@@ -606,13 +626,16 @@ Gesamtschuldner.
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001701128)
 
 
 
 ## Abschnitt 5 - Grenzüberschreitende Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000500000)
 
 
 ### § 18 Grenzüberschreitende Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001800000)
 
 Die für die Erlaubniserteilung zuständigen Behörden und die
 Registerbehörde arbeiten zur Überwachung der Gewerbetreibenden gemäß
@@ -631,9 +654,11 @@ Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNG000600000)
 
 
 ### § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE001901128)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -678,6 +703,7 @@ Marktgewerbes begeht.
 
 
 ### § 20 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE002000000)
 
 [^F793957_02_BJNR104610016BJNE002000000]
 Ein vor dem 21. März 2016 abgelegter Abschluss nach dem Standard des
@@ -700,6 +726,7 @@ erfolgreich abgelegten Sachkundeprüfung gleich.
 (zu § 1 Absatz 2)
 
 ### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE002100000)
 
 (Fundstelle: BGBl. I 2016, 1052 - 1054)
 
@@ -1282,6 +1309,7 @@ erfolgreich abgelegten Sachkundeprüfung gleich.
 (zu § 3 Absatz 8)
 
 ### Anlage 2 Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Immobiliardarlehensvermittlung IHK“ und „Geprüfte Fachfrau für Immobiliardarlehensvermittlung IHK“ nach § 34i Absatz 2 Nummer 4 der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/immvermv/BJNR104610016.html#BJNR104610016BJNE002200000)
 
 (Fundstelle: BGBl. I 2016, 1055)
 

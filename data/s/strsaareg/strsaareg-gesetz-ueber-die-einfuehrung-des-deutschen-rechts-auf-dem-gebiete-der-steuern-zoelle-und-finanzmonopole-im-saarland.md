@@ -22,10 +22,12 @@ Zuletzt geändert durch
 Allgemeine Grundsätze
 
 ## Erster Teil - Allgemeines Abgabenrecht
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG000100314)
 
 
 
 ### § 1 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003100314)
 
 (1) Mit dem Ablauf der Übergangszeit nach Artikel 3 des Saarvertrages
 vom 27. Oktober 1956 (Bundesgesetzbl. II S. 1587) tritt im Saarland
@@ -59,6 +61,7 @@ Beträge nach dem amtlichen Umrechnungskurs am Tage nach Ablauf der
 
 
 ### § 2 Finanzgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003200314)
 
 (1) Bis zum Inkrafttreten einer bundeseinheitlichen Regelung der
 Finanzgerichtsbarkeit bleibt die saarländische Finanzgerichtsordnung
@@ -73,6 +76,7 @@ der Übergangszeit bei ihm anhängig sind.
 
 
 ### § 3 Steuerberatung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003300314)
 
 Das Gesetz Nr. 551 über die Errichtung der Kammer der Steuerberater
 und Helfer in Steuersachen für das Saarland sowie deren Ehren- und
@@ -88,49 +92,60 @@ und Helfer in Steuersachen in Kraft.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003401140)
 
 
 
 ## Zweiter Teil - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG000201140)
 
 -
 
 
 ### (XXXX) §§ 5 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003501140)
 
 
 
 ## Dritter Teil - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG000301140)
 
 -
 
 
 ### (XXXX) §§ 9 bis 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE003901140)
 
 
 
 ## Vierter Teil - Besitz- und Verkehrsteuern
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001300314)
 
 
 
 ### Erster Abschnitt - Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001400314)
 
 
 
 #### Erster Unterabschnitt - Änderung des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001500314)
 
 
 
 ##### § 42
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007200314)
 
 (Änderungsvorschrift)
 
 
 #### Zweiter Unterabschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001600314)
 
 
 
 ##### § 43 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007300314)
 
 (1) Auf natürliche Personen, die bei Ablauf der Übergangszeit
 
@@ -163,6 +178,7 @@ Vorschriften zur Einkommensteuer veranlagt.
 
 
 ##### § 44 Erster Veranlagungszeitraum, Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007400314)
 
 (1) Erster Veranlagungszeitraum ist die Zeit vom Eingliederungstag bis
 zum 31. Dezember 1960 (Veranlagungszeitraum 1959/60). Die
@@ -174,6 +190,7 @@ bezogen hat.
 
 
 ##### § 45 Umrechnung von Jahresbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007500314)
 
 (1) Die in den nachstehenden Vorschriften bezeichneten Jahresbeträge
 sind auf den Zeitraum vom Eingliederungstag bis zum 31. Dezember 1960
@@ -343,6 +360,7 @@ unberücksichtigt.
 
 
 ##### § 46 Maßgeblicher Gewinn bei Land- und Forstwirten
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007600314)
 
 Bei Land- und Forstwirten werden die Gewinne der Wirtschaftsjahre, die
 in der Zeit vom Eingliederungstag bis zum 31. Dezember 1959 beginnen,
@@ -354,6 +372,7 @@ Einkommensteuergesetzes.
 
 
 ##### § 47 Zusammenfassung von Wirtschaftsjahren
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007700314)
 
 Die im Veranlagungszeitraum 1959/60 endenden Wirtschaftsjahre können
 für die Ermittlung des in diesem Veranlagungszeitraum zu
@@ -366,6 +385,7 @@ D-Markbilanzgesetzes für das Saarland vom 30. Juni 1959
 
 
 ##### § 48 Ermittlung der Einkommensteuer bei Gewerbetreibenden mit einem vom Kalenderjahr abweichenden Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007800314)
 
 (1) Bei Gewerbetreibenden, deren Wirtschaftsjahr vom Kalenderjahr
 abweicht, bemißt sich, abweichend von §§ 44 und 57, die
@@ -398,6 +418,7 @@ Wirtschaftsjahr auf einen vom Kalenderjahr abweichenden Zeitraum nach
 
 
 ##### § 49 Gewinnzuschläge und Gewinnabschläge wegen Schwankungen im Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE007900314)
 
 Sind bei der Ermittlung des Gewinns für Wirtschaftsjahre, die vor dem
 Eingliederungstag geendet haben, wegen Schwankungen im
@@ -411,6 +432,7 @@ der Übergangszeit vorgenommenen Zuschläge und Abschläge nach § 1 Abs.
 
 
 ##### § 50 Rückstellung für Pensionsanwartschaften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008000314)
 
 Die Vorschriften des § 6a des Einkommensteuergesetzes können bei
 Pensionsverpflichtungen, die vor dem 20. Januar 1947 entstanden sind,
@@ -419,6 +441,7 @@ Pensionszusage angewendet werden.
 
 
 ##### § 51 Absetzung für Abnutzung oder Substanzverringerung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008101140)
 
 (1) Die Vorschriften des § 7 des Einkommensteuergesetzes sind erstmals
 auf Wirtschaftsgüter anzuwenden, die nach dem Ablauf der Übergangszeit
@@ -470,6 +493,7 @@ Abs. 3 entsprechend.
 
 
 ##### § 52 Erhöhte Absetzungen für Wohngebäude
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008200314)
 
 (1) Die Vorschriften des § 7b des Einkommensteuergesetzes sind
 erstmals auf im Saarland belegene Gebäude und Gebäudeteile anzuwenden,
@@ -504,6 +528,7 @@ Restnutzungsdauer des Gebäudes.
 
 
 ##### § 53 Weitergeltung des § 8 der Dritten Verordnung über Steuer- und Gebührenerleichterungen für den Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008300314)
 
 § 8 der Dritten Verordnung über Steuer- und Gebührenerleichterungen
 für den Wohnungsbau ist weiter anzuwenden; für die Umrechnung des
@@ -512,6 +537,7 @@ für den Wohnungsbau ist weiter anzuwenden; für die Umrechnung des
 
 
 ##### § 54 Überleitungsvorschriften zu § 10 des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008400314)
 
 (1) Beiträge und Versicherungsprämien im Sinn des § 14 Abs. 1 Ziff. 2
 des saarländischen Einkommensteuergesetzes in der Fassung der
@@ -568,6 +594,7 @@ Abs. 3 findet entsprechend Anwendung.
 
 
 ##### § 55 Verlustabzug
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008500314)
 
 (1) Die Vorschriften des § 10d des Einkommensteuergesetzes sind
 vorbehaltlich des § 51 Abs. 5 des D-Markbilanzgesetzes für das
@@ -593,6 +620,7 @@ angeschafft oder hergestellt worden sind, nur die bei Anwendung des §
 
 
 ##### § 56 Nutzungswert der Wohnung im Sinn des § 21 Abs. 2 des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008601140)
 
 (1) Bei der Ermittlung des Nutzungswerts der Wohnung nach § 21 Abs. 2
 des Einkommensteuergesetzes ist, falls der Eingliederungstag nicht auf
@@ -605,6 +633,7 @@ aufgewendet worden sind, bleibt unberührt.
 
 
 ##### § 57 Einkommensteuertabelle für den Veranlagungszeitraum 1959/60
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008700314)
 
 Die Einkommensteuertabelle (Anlage zu § 32a des
 Einkommensteuergesetzes) und die Einkommensteuertabelle (Anhang zu §
@@ -617,6 +646,7 @@ ergebenden Einkommensteuertabellen bekanntzumachen.
 
 
 ##### § 58 Einkünfte aus mehrjähriger Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008800314)
 
 Entfallen bei der Verteilung nach § 34 Abs. 3 Satz 2 des
 Einkommensteuergesetzes die Einkünfte aus der mehrjährigen Tätigkeit
@@ -632,6 +662,7 @@ als 15 und nicht mehr als 40 vom Hundert betragen.
 
 
 ##### § 59 Entrichtung und Anrechnung von Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE008900314)
 
 (1) Die nach § 42 des Einkommensteuergesetzes (Saar), § 57 der
 Einkommensteuer-Durchführungsverordnung (Saar) in Franken
@@ -647,6 +678,7 @@ diesem Veranlagungszeitraum fällig geworden sind.
 
 
 ##### § 60 Steuerabzug vom Arbeitslohn (Lohnsteuer)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009000314)
 
 (1) Erster Erhebungszeitraum für die Lohnsteuer ist die Zeit vom
 Eingliederungstag bis zum 31. Dezember 1960 (Erhebungszeitraum
@@ -696,6 +728,7 @@ Satz 3 bezeichneten Lohnsteuertabelle entfällt, übersteigt.
 
 
 ##### § 61 Begünstigung der Anschaffung oder Herstellung bestimmter Wirtschaftsgüter und der Vornahme bestimmter Baumaßnahmen durch Land- und Forstwirte
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009100314)
 
 (1) Die Vorschriften der §§ 76 bis 78 der Einkommensteuer-
 Durchführungsverordnung sind erstmals auf die Wirtschaftsgüter und auf
@@ -713,6 +746,7 @@ für die Umrechnung gilt § 1 Abs. 3 entsprechend.
 
 
 ##### § 62 Bewertungsfreiheit für Abwasserbehandlungs- und Luftreinigungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009200314)
 
 (1) Die Vorschriften der §§ 79 und 82 der Einkommensteuer-
 Durchführungsverordnung sind erstmals auf die Wirtschaftsgüter
@@ -728,6 +762,7 @@ für die Umrechnung gilt § 1 Abs. 3 entsprechend.
 
 
 ##### § 63 Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009300314)
 
 Die Vorschriften des § 81 der Einkommensteuer-Durchführungsverordnung
 sind mit der Maßgabe anzuwenden, daß auf die danach zulässigen
@@ -738,6 +773,7 @@ gilt § 1 Abs. 3 entsprechend.
 
 
 ##### § 64 Steuerfreiheit von Familienzulagen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009400314)
 
 Nachzahlungen von Familienzulagen im Sinn des § 5 Ziff. 9 des
 Einkommensteuergesetzes (Saar) für vor dem Eingliederungstag liegende
@@ -746,6 +782,7 @@ für Familienzulagen des Saarlandes sind steuerfrei.
 
 
 ##### § 65 Ermäßigung der veranlagten Einkommensteuer und der Lohnsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009500314)
 
 (1) Bei unbeschränkt steuerpflichtigen natürlichen Personen, die vom
 Ablauf der Übergangszeit bis zum 30. Juni 1960 ununterbrochen im
@@ -799,6 +836,7 @@ unberücksichtigt.
 
 
 ##### § 66 Ermäßigung der veranlagten Einkommensteuer bei Vorliegen einer Betriebstätte
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009600314)
 
 Bei Steuerpflichtigen, die, ohne die Voraussetzungen des § 65 zu
 erfüllen, eine oder mehrere Betriebstätten eines Gewerbebetriebs bei
@@ -822,6 +860,7 @@ von Arbeitnehmern beschäftigt worden ist.
 
 
 ##### § 67 Behandlung von Organgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009700314)
 
 Besteht zwischen einer Organgesellschaft mit Sitz und Geschäftsleitung
 im Saarland und dem beherrschenden Einzelunternehmen, dessen Inhaber
@@ -837,6 +876,7 @@ bezeichneten Personen gehören.
 
 
 ##### § 68 Berechnung der Ermäßigung der veranlagten Einkommensteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009800314)
 
 (1) Sind in dem Einkommen neben den Einkünften aus dem Saarland noch
 andere Einkünfte enthalten, so ist die Einkommensteuer für die
@@ -867,10 +907,12 @@ vorzunehmen sind.
 
 
 ### Zweiter Abschnitt - Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001700314)
 
 
 
 #### § 69 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE009900314)
 
 (1) Auf Körperschaften, Personenvereinigungen und Vermögensmassen, die
 bei Ablauf der Übergangszeit
@@ -905,6 +947,7 @@ geltenden Vorschriften zur Körperschaftsteuer veranlagt.
 
 
 #### § 70 Persönliche Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010000314)
 
 Von der Körperschaftsteuer sind befreit
 
@@ -923,6 +966,7 @@ Von der Körperschaftsteuer sind befreit
 
 
 #### § 71 Erster Veranlagungszeitraum, Wirtschaftsjahr, Zusammenfassung von Wirtschaftsjahren
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010100314)
 
 (1) Erster Veranlagungszeitraum ist die Zeit vom Eingliederungstag bis
 zum 31. Dezember 1960 (Veranlagungszeitraum 1959/60). Die
@@ -942,12 +986,14 @@ D-Markbilanzgesetzes für das Saarland verbunden werden.
 
 
 #### § 72 Anwendung von Vorschriften des Ersten Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010200314)
 
 Die Vorschriften des Ersten Abschnitts sind für Körperschaften,
 Personenvereinigungen und Vermögensmassen entsprechend anzuwenden.
 
 
 #### § 73 Schachtelgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010300314)
 
 Bei Anwendung des § 9 Abs. 1 des Körperschaftsteuergesetzes in der
 Fassung vom 18. November 1958 (Bundesgesetzbl. I S. 747) -
@@ -956,12 +1002,14 @@ Körperschaftsteuergesetzes außer Betracht.
 
 
 #### § 74 Nichtabzugsfähige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010400314)
 
 Bei der Ermittlung des Einkommens sind die Wiederaufbauabgabe und die
 Gemeinschaftshilfeabgabe nicht abzugsfähig.
 
 
 #### § 75 Körperschaftsteuertarif für personenbezogene Kapitalgesellschaften für den Veranlagungszeitraum 1959/60
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010500314)
 
 Bei Kapitalgesellschaften im Sinn des § 19 Abs. 1 Ziff. 2 des
 Körperschaftsteuergesetzes sind die in dieser Vorschrift und die in §
@@ -972,6 +1020,7 @@ Eingliederungstag fällt, als voller Monat anzusetzen ist.
 
 
 #### § 76 Körperschaftsteuertarif für personenbezogene Kapitalgesellschaften mit einem vom Kalenderjahr abweichenden Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010600314)
 
 (1) Bei Kapitalgesellschaften im Sinn des § 19 Abs. 1 Ziff. 2 des
 Körperschaftsteuergesetzes, deren Wirtschaftsjahr vom Kalenderjahr
@@ -996,6 +1045,7 @@ Körperschaftsteuergesetzes umgestellt hat.
 
 
 #### § 77 Ermäßigung der veranlagten Körperschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010700314)
 
 (1) Bei Körperschaften, Personenvereinigungen und Vermögensmassen, die
 vom Ablauf der Übergangszeit bis zum 30. Juni 1960 ununterbrochen ihre
@@ -1022,6 +1072,7 @@ gelten die Vorschriften der §§ 66 bis 68 entsprechend.
 
 
 #### § 78 Landwirtschaftliche Nutzungs- und Verwertungsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010800314)
 
 Auf landwirtschaftliche Genossenschaften, die am Eingliederungstag im
 Saarland ihre Geschäftsleitung oder ihren Sitz haben, ist § 4 Abs. 1
@@ -1031,10 +1082,12 @@ bis zum Veranlagungszeitraum 1961 anzuwenden.
 
 
 ### Dritter Abschnitt - Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001800314)
 
 
 
 #### § 79 Erhebungszeitraum 1959
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE010900314)
 
 Bei Unternehmen, deren Geschäftsleitung sich im Saarland befindet,
 endet die Steuerpflicht für Betriebstätten, die im Geltungsbereich des
@@ -1049,6 +1102,7 @@ fällt, außer Betracht.
 
 
 #### § 80 Erhebungszeitraum 1959/60
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011000314)
 
 (1) Befindet sich bei Ablauf der Übergangszeit die Geschäftsleitung
 eines Unternehmens oder bei einem Wandergewerbebetrieb der Mittelpunkt
@@ -1114,6 +1168,7 @@ angefangene Kalendermonate im Erhebungszeitraum bestanden hat.
 
 
 #### § 81 Gewerbeverlust
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011100314)
 
 (1) Die Vorschrift des § 10a des Gewerbesteuergesetzes ist
 vorbehaltlich des § 51 Abs. 5 des D-Markbilanzgesetzes für das
@@ -1135,6 +1190,7 @@ entsprechend.
 
 
 #### § 82 Steuerbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011200314)
 
 (1) Von der Gewerbesteuer sind befreit
 
@@ -1165,6 +1221,7 @@ entsprechend.
 
 
 #### § 83 Entrichtung und Anrechnung von Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011300314)
 
 (1) Die nach § 22 des saarländischen Gewerbesteuergesetzes in der
 Fassung der Bekanntmachung vom 5. März 1958 (Amtsblatt des Saarlandes
@@ -1181,10 +1238,12 @@ Erhebungszeitraum fällig geworden sind.
 
 
 ### Vierter Abschnitt - Gesetz über Steuererleichterungen bei der Umwandlung von Kapitalgesellschaften und bergrechtlichen Gewerkschaften (Umwandlungs-Steuergesetz)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG001900314)
 
 
 
 #### § 84 Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011400314)
 
 (1) Das Umwandlungs-Steuergesetz vom 11. Oktober 1957 (Bundesgesetzbl.
 I S. 1713) gilt für Umwandlungen von Kapitalgesellschaften und
@@ -1221,10 +1280,12 @@ sinngemäß anzuwenden.
 
 
 ### Fünfter Abschnitt - Wohnungsbau-Prämien
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002000314)
 
 
 
 #### § 85 Inkrafttreten, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011500314)
 
 (1) Mit dem Ablauf der Übergangszeit treten im Saarland in Kraft
 
@@ -1260,10 +1321,12 @@ Mittel wird durch besonderes Gesetz geregelt.
 
 
 ### Sechster Abschnitt - Bergmannsprämien
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002100314)
 
 
 
 #### § 86 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011600314)
 
 Mit dem Ablauf der Übergangszeit treten im Saarland in Kraft
 
@@ -1281,10 +1344,12 @@ gewährt wird, die nach Ablauf der Übergangszeit verfahren wird.
 
 
 ### Siebenter Abschnitt - Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002200314)
 
 
 
 #### § 87 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011700314)
 
 (1) Die Vorschriften des deutschen Umsatzsteuerrechts finden auf
 Umsätze Anwendung, die nach Ablauf der Übergangszeit bewirkt werden.
@@ -1309,19 +1374,23 @@ ist.
 
 
 ### Achter Abschnitt - Beförderungsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002300314)
 
 
 
 #### § 88 Änderung des Beförderungsteuergesetzes 1955
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011800314)
 
 -
 
 
 ### Neunter Abschnitt - Kraftfahrzeugsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002400314)
 
 
 
 #### § 89 Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE011900314)
 
 Das für die Verwaltung der Kraftfahrzeugsteuer im Saarland zuständige
 Finanzamt kann bestimmen, daß für die Dauer von höchstens 30 Tagen,
@@ -1332,10 +1401,12 @@ Steuer einschließlich des Aufgeldes.
 
 
 ### Zehnter Abschnitt - Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002500314)
 
 
 
 #### § 90 Umrechnung der Einheitswerte
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012001140)
 
 (1) Die für die wirtschaftlichen Einheiten des Grundbesitzes in
 Franken ermittelten oder noch zu ermittelnden Einheitswerte sind auf
@@ -1352,6 +1423,7 @@ Eingliederungstag auf Deutsche Mark umzustellen.
 
 
 #### § 91 Fortschreibungen und Nachfeststellungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012101140)
 
 (1) (weggefallen)
 
@@ -1371,6 +1443,7 @@ Bewertungsgesetzes eintreten.
 
 
 #### § 92 Wertverhältnisse bei Grundbesitz im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012200314)
 
 Bei Fortschreibungen und bei Nachfeststellungen der Einheitswerte für
 Grundbesitz (§§ 22 und 23 des Bewertungsgesetzes) sind der
@@ -1381,6 +1454,7 @@ zugrunde zu legen.
 
 
 #### § 93 Hauptfeststellung der Einheitswerte für das Betriebsvermögen im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012300314)
 
 (1) Für gewerbliche Betriebe im Saarland werden auf den Beginn des 1.
 Januar 1960 allgemein Einheitswerte festgestellt. Für den Bestand und
@@ -1406,6 +1480,7 @@ Vermögensteuer-Hauptveranlagung 1960 so behandelt, als ob es noch zum
 
 
 #### § 94 Lastenausgleichsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012400314)
 
 Ansprüche auf Leistungen aus einer saarländischen Einrichtung, die dem
 im § 68 Ziff. 4a des Bewertungsgesetzes genannten Lastenausgleich
@@ -1413,16 +1488,19 @@ entspricht, gehören nicht zum sonstigen Vermögen.
 
 
 ### Elfter Abschnitt - Vermögensteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002600314)
 
 
 
 #### § 95 Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012500314)
 
 Die Saarländische Rediskontbank ist von der Vermögensteuer befreit,
 soweit sie Aufgaben staatswirtschaftlicher Art erfüllt.
 
 
 #### § 96 Steuervergünstigung für Aktien und Anteile
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012600314)
 
 (1) Das Gesamtvermögen von Steuerpflichtigen, die im Saarland zur
 Vermögensteuer veranlagt werden, ist in der Weise zu ermitteln, daß
@@ -1435,6 +1513,7 @@ Vermögensteuer.
 
 
 #### § 97 Steuererleichterungen für den Wiederaufbau und Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012700314)
 
 (1) Die Steuererleichterungen, die im Saarland auf Grund der
 
@@ -1463,6 +1542,7 @@ Verordnungen sind weiterhin anzuwenden.
 
 
 #### § 98 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012800314)
 
 (1) Auf die Jahressteuerschuld, die sich auf Grund der
 Hauptveranlagung 1960 ergibt, haben die Steuerpflichtigen im Saarland
@@ -1488,10 +1568,12 @@ unberührt.
 
 
 ### Zwölfter Abschnitt - Grundsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002700314)
 
 
 
 #### § 99 Erhebungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE012900314)
 
 Erhebungszeitraum für die Grundsteuer ist im Saarland das
 Kalenderjahr. In allen Fällen, in denen es auf den Beginn oder das
@@ -1501,6 +1583,7 @@ Rechnungsjahres fällt.
 
 
 #### § 100 Neuveranlagung und Nachveranlagung des Steuermeßbetrages im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013000314)
 
 (1) Neuveranlagungen und Nachveranlagungen der Steuermeßbeträge werden
 auf den 1. Januar 1960 durchgeführt. Dabei werden zugrunde gelegt
@@ -1530,6 +1613,7 @@ mit Ablauf des Kalenderjahres 1959 außer Kraft.
 
 
 #### § 101 Steuererleichterungen für den Wiederaufbau und Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013100314)
 
 (1) Die Steuererleichterungen, die im Saarland auf Grund der
 
@@ -1573,6 +1657,7 @@ oder des Saarlandes vorbehalten.
 
 
 #### § 102 Arbeiterwohnstätten
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013200314)
 
 Grundsteuerbeihilfen, die im Saarland gewährt worden sind, werden vom
 Rechnungsjahr 1960 an für den Rest des Beihilfezeitraums vom Bund
@@ -1580,6 +1665,7 @@ Rechnungsjahr 1960 an für den Rest des Beihilfezeitraums vom Bund
 
 
 #### § 103 Überleitungsvorschriften zu § 33 des Grundsteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013300314)
 
 Im Saarland finden keine Anwendung
 
@@ -1595,10 +1681,12 @@ Im Saarland finden keine Anwendung
 
 
 ### Dreizehnter Abschnitt - Erbschaftsteuer
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002800314)
 
 
 
 #### § 104 Entstehung der Steuerschuld
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013400314)
 
 Für den Zeitpunkt der Entstehung der Steuerschuld ist § 14 des
 Erbschaftsteuergesetzes in der Fassung vom 1. April 1959
@@ -1612,6 +1700,7 @@ Eingliederungstag entstanden ist.
 
 
 #### § 105 Berücksichtigung von früheren Erwerben und Steuerfestsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013500314)
 
 (1) Kommt es für einen Steuerfall auf frühere Erwerbe an, so sind
 diese auch dann zu berücksichtigen, wenn sie nach einem der
@@ -1633,10 +1722,12 @@ Umrechnungskurs vom Eingliederungstag auf Deutsche Mark umzustellen.
 
 
 ### Vierzehnter Abschnitt - Lastenausgleichsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG002900314)
 
 
 
 #### § 106 Überleitung
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013600314)
 
 (1) Die Bezugnahmen in § 25 Abs. 2, §§ 51, 78 Abs. 2 Nr. 9 und § 178
 des Lastenausgleichsgesetzes in der geltenden Fassung auf den
@@ -1671,6 +1762,7 @@ ergangenen Rechtsverordnungen gelten im Saarland nur:
 
 
 #### § 107 Ermächtigung zu Übergangsbestimmungen, Wegfall der Gemeinschaftshilfeabgabe
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013700314)
 
 (1)
 
@@ -1684,15 +1776,18 @@ Gemeinschaftshilfeabgabe noch nachzuerheben sind.
 
 
 ## Fünfter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNG003000314)
 
 
 
 ### § 108 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013801140)
 
 -
 
 
 ### § 109 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strsaareg/BJNR003390959.html#BJNR003390959BJNE013900314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

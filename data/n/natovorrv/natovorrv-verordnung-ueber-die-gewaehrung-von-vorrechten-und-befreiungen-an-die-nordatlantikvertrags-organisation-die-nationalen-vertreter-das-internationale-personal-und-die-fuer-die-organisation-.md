@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv/BJNR201170958.html#BJNR201170958BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -32,6 +33,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv/BJNR201170958.html#BJNR201170958BJNE000200314)
 
 (1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen
 der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf
@@ -46,11 +48,13 @@ internationalen Personals vom 20. September 1951 Anwendung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv/BJNR201170958.html#BJNR201170958BJNE000300314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv/BJNR201170958.html#BJNR201170958BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen über den Status der Nordatlantikvertrags-Organisation,
@@ -62,6 +66,7 @@ Deutschland in Kraft tritt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natovorrv/BJNR201170958.html#BJNR201170958BJNE000500314)
 
 Der Bundeskanzler
 Der Bundesminister des Auswärtigen

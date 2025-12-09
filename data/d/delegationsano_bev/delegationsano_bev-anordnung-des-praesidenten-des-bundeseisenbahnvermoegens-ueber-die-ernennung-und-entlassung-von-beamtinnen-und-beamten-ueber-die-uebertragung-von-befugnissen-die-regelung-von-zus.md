@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## I. Ernennung und Entlassung von Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000100000)
 
 Nach Abschnitt A. I. b) der Delegationsanordnung BMVBW vom 6. Februar
 2002 (BGBl. I S. 746), die zuletzt durch die Anordnung vom 10. Januar
@@ -32,6 +33,7 @@ Leiterinnen und Leiter der Dienststellen des Bundeseisenbahnvermögens.
 
 
 ## II. Übertragung von Befugnissen nach dem Bundesbeamtengesetz und der Bundesnebentätigkeitsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000200000)
 
 Ich übertrage den Dienststellen des Bundeseisenbahnvermögens die
 Befugnis,
@@ -75,6 +77,7 @@ Befugnis,
 
 
 ## III. Übertragung von Befugnissen nach dem Bundesdisziplinargesetz
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000300000)
 
 Ich übertrage den Leiterinnen und Leitern der Dienststellen des
 Bundeseisenbahnvermögens
@@ -106,6 +109,7 @@ Bundeseisenbahnvermögens
 
 
 ## IV. Übertragung von Befugnissen nach dem Bundesbesoldungsgesetz und ergänzender Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000400000)
 
 (1) Ich übertrage den Leiterinnen und Leitern der Dienststellen des
 Bundeseisenbahnvermögens die Befugnis,
@@ -161,6 +165,7 @@ Bundesbesoldungsgesetzes), zu entscheiden.
 
 
 ## V. Übertragung von Befugnissen nach dem Bundesreisekostengesetz, Bundesumzugskostengesetz und anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000500000)
 
 Ich ermächtige die Dienststellen des Bundeseisenbahnvermögens,
 
@@ -190,6 +195,7 @@ obliegt den Dienststellen des Bundeseisenbahnvermögens.
 
 
 ## VI. Übertragung von Befugnissen nach dem Beamtenversorgungsgesetz (BeamtVG) und ergänzenden Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000600000)
 
 (1) Ich übertrage
 
@@ -292,6 +298,7 @@ obliegt den Dienststellen des Bundeseisenbahnvermögens.
 
 
 ## VII. Übertragung von Befugnissen nach anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000700000)
 
 Ich übertrage den Dienststellen des Bundeseisenbahnvermögens die
 Befugnis,
@@ -350,6 +357,7 @@ Befugnis,
 
 
 ## VIII. Regelung von Zuständigkeiten in Widerspruchsverfahren in Beamtenangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000800000)
 
 Ich übertrage den Leiterinnen und Leitern der Dienststellen des
 Bundeseisenbahnvermögens die Befugnis, nach § 172 des
@@ -364,6 +372,7 @@ zuständig waren.
 
 
 ## IX. Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE000900000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
 Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis den
@@ -372,12 +381,14 @@ Anordnung für die Entscheidung über Widersprüche zuständig sind.
 
 
 ## X. Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE001000000)
 
 Ich behalte mir im Einzelfall die Zuständigkeit nach den Abschnitten I
 bis IX dieser Anordnung vor.
 
 
 ## XI. Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/delegationsano_bev/BJNR251500005.html#BJNR251500005BJNE001100000)
 
 (1) Soweit in dieser Anordnung auf Vorschriften verwiesen wird, sind
 diese in der jeweils geltenden Fassung anzuwenden.

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Organisation, Aufgaben und allgemeine Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000101377)
 
 
 
 ### § 1 Organisation und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000105377)
 
 (1) Der Bundesnachrichtendienst ist eine Bundesoberbehörde im
 Geschäftsbereich des Bundeskanzleramtes. Einer polizeilichen
@@ -39,6 +41,7 @@ nach Satz 1 sowie den §§ 2 bis 8, 10 bis 37 sowie 59 bis 63.
 
 
 ### § 2 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000207377)
 
 (1) Der Bundesnachrichtendienst darf die erforderlichen Informationen
 einschließlich personenbezogener Daten verarbeiten, soweit nicht die
@@ -98,6 +101,7 @@ erkennbar außer Verhältnis zu dem beabsichtigten Erfolg steht.
 
 
 ### § 3 Besondere Auskunftsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001806311)
 
 (1) Der Bundesnachrichtendienst darf Auskünfte entsprechend den §§ 8a
 und 8b des Bundesverfassungsschutzgesetzes einholen, soweit dies im
@@ -142,6 +146,7 @@ bezeichneten Personen.
 
 
 ### § 4 Besondere Auskunftsverlangen zu Bestandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001511377)
 
 (1) Soweit dies zur politischen Unterrichtung der Bundesregierung oder
 zur Früherkennung von aus dem Ausland drohenden Gefahren von
@@ -315,6 +320,7 @@ die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und
 
 
 ### § 5 Besondere Formen der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000303377)
 
 Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von
 Informationen einschließlich personenbezogener Daten
@@ -326,10 +332,12 @@ Absatz 2 Satz 1 bleibt unberührt.
 
 
 ## Abschnitt 2 - Weiterverarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000201377)
 
 
 
 ### § 6 Speicherung, Veränderung und Nutzung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000404377)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten nach § 10
 des Bundesverfassungsschutzgesetzes speichern, verändern und nutzen,
@@ -358,6 +366,7 @@ erforderlich ist.
 
 
 ### § 7 Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001604377)
 
 (1) Der Bundesnachrichtendienst hat die in Dateien gespeicherten
 personenbezogenen Daten zu berichtigen, zu löschen und deren
@@ -376,6 +385,7 @@ spätestens nach zehn Jahren zu prüfen ist.
 
 
 ### § 8 Dateianordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000603377)
 
 Der Bundesnachrichtendienst hat für jede automatisierte Datei mit
 personenbezogenen Daten eine Dateianordnung nach § 14 des
@@ -385,6 +395,7 @@ Bundesverfassungsschutzgesetzes ist anzuwenden.
 
 
 ### § 9 Auskunft an den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000705377)
 
 Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag
 Auskunft über zu seiner Person nach § 6 gespeicherte Daten
@@ -394,14 +405,17 @@ das Bundeskanzleramt.
 
 
 ## Abschnitt 3 - Übermittlung von Daten und gemeinsame Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000303377)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften bei der Übermittlung von personenbezogenen Daten durch den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001400377)
 
 
 
 #### § 9a Zweckbindung der Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011700377)
 
 (1) Die empfangende Stelle darf personenbezogene Daten nur zu den
 Zwecken verarbeiten, zu denen sie ihr vom Bundesnachrichtendienst
@@ -450,6 +464,7 @@ zu unterbleiben.
 
 
 #### § 9b Protokollierung der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008900377)
 
 (1) Hat der Bundesnachrichtendienst einer anderen Stelle
 personenbezogene Daten übermittelt, so ist er verpflichtet, die
@@ -478,6 +493,7 @@ Bundesnachrichtendienstes erforderlich sind, nicht oder nur mit
 
 
 #### § 9c Verbundene personenbezogene Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009000377)
 
 (1) Sind mit personenbezogenen Daten, die übermittelt werden sollen,
 weitere personenbezogene Daten der betroffenen oder einer dritten
@@ -496,6 +512,7 @@ weiterverarbeiten.
 
 
 #### § 9d Pflicht zur Übermittlung vervollständigter oder berichtigter Daten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009100377)
 
 (1) Erweisen sich personenbezogene Daten nach ihrer Übermittlung als
 unvollständig oder unrichtig, so hat der Bundesnachrichtendienst
@@ -510,6 +527,7 @@ auf andere Sachverhalte erkennbar sind.
 
 
 #### § 9e Verbot der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009200377)
 
 (1) Der Bundesnachrichtendienst darf keine personenbezogenen Daten
 übermitteln, wenn
@@ -594,6 +612,7 @@ ausländischen Stelle mit übermittelten Daten berücksichtigen.
 
 
 #### § 9f Schutz von minderjährigen Personen bei Übermittlungen an inländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009300377)
 
 (1) Personenbezogene Daten einer minderjährigen Person darf der
 Bundesnachrichtendienst vorbehaltlich der Absätze 2 und 4 und
@@ -630,6 +649,7 @@ vorliegen.
 
 
 #### § 9g Schutz von minderjährigen Personen bei Übermittlungen an ausländische Stellen und an über- oder zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009400377)
 
 (1) Personenbezogene Daten einer minderjährigen Person darf der
 Bundesnachrichtendienst vorbehaltlich der Absätze 2 bis 4 und
@@ -654,6 +674,7 @@ Nordatlantikvertrages ist, ist § 9f entsprechend anzuwenden.
 
 
 #### § 9h Übermittlung zum Schutz der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009500377)
 
 (1) Der Bundesnachrichtendienst darf zum Schutz der betroffenen Person
 mit deren Einwilligung ihre personenbezogenen Daten übermitteln. Kann
@@ -677,10 +698,12 @@ minderjährigen Person erforderlich ist.
 
 
 ### Unterabschnitt 2 - Datenübermittlung an den Bundenachrichtendienst und Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen durch den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001500377)
 
 
 
 #### § 10 Übermittlung von personenbezogenen Daten an den Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE000812377)
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen
 Personen des öffentlichen Rechts dürfen von sich aus dem
@@ -735,6 +758,7 @@ anzuwenden.
 
 
 #### § 10a Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009600377)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten, die er
 aus allgemein zugänglichen Quellen erhoben hat, einer anderen Stelle
@@ -756,10 +780,12 @@ Unterabschnitten 3 und 4.
 
 
 ### Unterabschnitt 3 - Übermittlung von personenbezogenen Daten aus nicht allgemein zugänglichen Quellen an inländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001600377)
 
 
 
 #### § 11 Übermittlung an inländische Nachrichtendienste
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009700377)
 
 Der Bundesnachrichtendienst darf personenbezogene Daten an das
 Bundesamt für Verfassungsschutz, an die Verfassungsschutzbehörden der
@@ -777,6 +803,7 @@ Länder und an das Bundesamt für den Militärischen Abschirmdienst
 
 
 #### § 11a Übermittlung an inländische Strafverfolgungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009800377)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten an eine
 zuständige inländische Strafverfolgungsbehörde übermitteln, wenn
@@ -815,6 +842,7 @@ die durch Maßnahmen nach den §§ 19 und 34 erhoben wurden.
 
 
 #### § 11b Übermittlung an inländische öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE009900377)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten an die
 nicht in den §§ 11 und 11a genannten inländischen öffentlichen Stellen
@@ -986,6 +1014,7 @@ genannten inländischen Stellen verpflichtet.
 
 
 #### § 11c Übermittlung an nicht öffentliche inländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010000377)
 
 (1) Eine Übermittlung personenbezogener Daten an nicht öffentliche
 inländische Stellen ist unzulässig, es sei denn es bestehen
@@ -1074,6 +1103,7 @@ Voraussetzungen der Absätze 1 oder 3 übermitteln, wenn diese Daten
 
 
 #### § 11d Übermittlung von personenbezogenen Daten aus einer Vertraulichkeitsbeziehung an inländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010100377)
 
 (1) Eine Übermittlung von personenbezogenen Daten aus einer
 Vertraulichkeitsbeziehung im Sinne des § 21 Absatz 1 Satz 2, die durch
@@ -1124,10 +1154,12 @@ personenbezogenen Daten aufgefordert.
 
 
 ### Unterabschnitt 4 - Übermittlung von personenbezogenen Daten aus nicht allgemein zugänglichen Quellen an ausländische Stellen sowie an über- oder zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001700377)
 
 
 
 #### § 11e Übermittlung an ausländische öffentliche Stellen und an über- oder zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010200377)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten an
 ausländische öffentliche Stellen sowie an über- oder
@@ -1206,6 +1238,7 @@ Stelle oder an eine über- oder zwischenstaatliche Stelle nur
 
 
 #### § 11f Übermittlung an nicht öffentliche ausländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010300377)
 
 (1) Eine Übermittlung personenbezogener Daten an nicht öffentliche
 ausländische Stellen ist unzulässig, es sei denn, es bestehen
@@ -1267,6 +1300,7 @@ der Absätze 1 oder 3 übermitteln, wenn diese Daten
 
 
 #### § 11g Übermittlung von personenbezogenen Daten aus einer Vertraulichkeitsbeziehung an ausländische Stellen sowie über- oder zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010400377)
 
 Für die Übermittlung von personenbezogenen Daten aus einer
 Vertraulichkeitsbeziehung (§ 21 Absatz 1 Satz 2) an ausländische
@@ -1276,10 +1310,12 @@ Nummer 2 konkret ist.
 
 
 ### Unterabschnitt 5 - Gemeinsame Dateien
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001800377)
 
 
 
 #### § 12 Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001305377)
 
 (1) Der Bundesnachrichtendienst kann für die Dauer einer befristeten
 projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des
@@ -1412,6 +1448,7 @@ Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 
 #### § 13 Gemeinsame Dateien mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003201377)
 
 (1) Der Bundesnachrichtendienst kann zum Zwecke des Austausches und
 der gemeinsamen Auswertung von personenbezogenen Daten mit
@@ -1461,6 +1498,7 @@ Zwecks der Datei insbesondere aufzunehmen, dass
 
 
 #### § 14 Führung gemeinsamer Dateien durch den Bundesnachrichtendienst mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003302377)
 
 (1) Führt der Bundesnachrichtendienst eine Datei nach § 13 Absatz 1
 als eigene Datei, muss sich diese auf personenbezogene Daten zur
@@ -1476,6 +1514,7 @@ eingegeben hat.
 
 
 #### § 15 Dateianordnung bei gemeinsamen Dateien mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003402377)
 
 Der Bundesnachrichtendienst hat für jede gemeinsam mit ausländischen
 öffentlichen Stellen genutzte Datei, die er selbst führt, eine
@@ -1539,6 +1578,7 @@ gemeinsame Datei eingegebenen Daten.
 
 
 #### § 16 Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003501377)
 
 (1) Die Eingabe von personenbezogenen Daten durch den
 Bundesnachrichtendienst in die von diesem geführten gemeinsamen
@@ -1566,6 +1606,7 @@ danach unverzüglich zu löschen.
 
 
 #### § 17 Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003601377)
 
 Eine Beteiligung des Bundesnachrichtendienstes an von ausländischen
 öffentlichen Stellen errichteten gemeinsamen Dateien im Sinne des § 13
@@ -1574,17 +1615,21 @@ bis 3 gilt entsprechend.
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001003377)
 
 
 ## Abschnitt 4 - Technische Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000402377)
 
 
 
 ### Unterabschnitt 1 - Verarbeitung von personenbezogenen Daten im Rahmen der strategischen Ausland-Fernmeldeaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000800377)
 
 
 
 #### § 19 Strategische Ausland-Fernmeldeaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004101377)
 
 (1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben mit
 technischen Mitteln personenbezogene Inhaltsdaten von Ausländern im
@@ -1780,6 +1825,7 @@ Die Kennzeichnung entfällt bei Übermittlungen.
 
 
 #### § 20 Besondere Formen der strategischen Ausland-Fernmeldeaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004200377)
 
 (1) Die gezielte Erhebung von personenbezogenen Daten nach § 19 Absatz
 5 von Einrichtungen der Europäischen Union, von öffentlichen Stellen
@@ -1828,6 +1874,7 @@ Telekommunikationsverkehrs einer Person ist unzulässig.
 
 
 #### § 21 Schutz von Vertraulichkeitsbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004301377)
 
 (1) Die gezielte Erhebung von personenbezogenen Daten nach § 19 Absatz
 5 zum Zweck der Erlangung von Daten aus einer
@@ -1878,6 +1925,7 @@ Absatz 1 Satz 2 genannten Personenkreis ist zu dokumentieren.
 
 
 #### § 22 Kernbereichsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004400377)
 
 (1) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen über
 den Kernbereich privater Lebensgestaltung ist unzulässig.
@@ -1904,6 +1952,7 @@ aufzubewahren und danach unverzüglich zu löschen.
 
 
 #### § 23 Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004500377)
 
 (1) Strategische Aufklärungsmaßnahmen nach § 19 Absatz 1 bedürfen der
 Anordnung durch die Präsidentin oder den Präsidenten des
@@ -2012,6 +2061,7 @@ regelmäßigen Abständen über Anordnungen nach den Absätzen 1 und 5.
 
 
 #### § 24 Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004601311)
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten aus
 Telekommunikationsnetzen erheben und auswerten, soweit dies zur
@@ -2118,6 +2168,7 @@ automatisiert erfolgen. Die Kennzeichnung der Daten nach § 19 Absatz
 
 
 #### § 25 Pflichten der Anbieter von Telekommunikationsdiensten, Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004702377)
 
 (1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der
 Erbringung solcher Dienste mitwirkt und in Deutschland eine
@@ -2195,6 +2246,7 @@ Kosten orientiert.
 
 
 #### § 26 Verarbeitung von personenbezogenen Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004800377)
 
 (1) Der Bundesnachrichtendienst darf im Rahmen von strategischen
 Aufklärungsmaßnahmen nach § 19 Absatz 1 auch Verkehrsdaten
@@ -2272,6 +2324,7 @@ Speicherung gilt § 27 entsprechend.
 
 
 #### § 27 Auswertung der Daten und Prüfpflichten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004900377)
 
 (1) Der Bundesnachrichtendienst prüft die anhand von Suchbegriffen
 erhobenen personenbezogenen Inhaltsdaten unverzüglich und sodann
@@ -2293,6 +2346,7 @@ Kontrollrates erforderlich sind.
 
 
 #### § 28 Datenerhebung durch eine ausländische öffentliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005001377)
 
 (1) Der Bundesnachrichtendienst darf ausländische öffentliche Stellen
 zur Durchführung strategischer Aufklärungsmaßnahmen ersuchen.
@@ -2313,18 +2367,22 @@ zulässig wäre.
 
 
 ### Unterabschnitt 2 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000901377)
 
 
 
 #### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005101377)
 
 
 
 ### Unterabschnitt 3 - Kooperationen im Rahmen der strategischen Ausland-Fernmeldeaufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001000377)
 
 
 
 #### § 31 Kooperationen mit ausländischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005300377)
 
 (1) Soweit der Bundesnachrichtendienst im Rahmen der strategischen
 Ausland-Fernmeldeaufklärung mit ausländischen öffentlichen Stellen
@@ -2502,6 +2560,7 @@ Absichtserklärung zu unterrichten.
 
 
 #### § 32 Verarbeitung von selektierten personenbezogenen Daten im Rahmen von Kooperationen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005400377)
 
 (1) Die Verarbeitung selektierter personenbezogener Daten durch den
 Bundesnachrichtendienst im Rahmen einer Kooperation nach § 31 ist
@@ -2609,6 +2668,7 @@ gespeichert.
 
 
 #### § 33 Verarbeitung von unselektierten personenbezogenen Verkehrsdaten im Rahmen von Kooperationen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005500377)
 
 (1) Die automatisierte Übermittlung von unselektierten
 personenbezogenen Verkehrsdaten im Rahmen einer Kooperation durch den
@@ -2673,10 +2733,12 @@ Bundesnachrichtendienstes bestimmt hat.
 
 
 ### Unterabschnitt 4 - Besondere Formen der technischen Aufklärung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001100377)
 
 
 
 #### § 34 Eingriff in informationstechnische Systeme von Ausländern im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005600377)
 
 (1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben
 ohne Wissen des Betroffenen auf der Grundlage einer zuvor angeordneten
@@ -2798,6 +2860,7 @@ einer längeren Frist zustimmt.
 
 
 #### § 35 Schutz von Vertraulichkeitsbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005701377)
 
 (1) Individuelle Aufklärungsmaßnahmen nach § 34 Absatz 1 Satz 1 zum
 Zweck der Erhebung von personenbezogenen Daten aus einer
@@ -2843,6 +2906,7 @@ Absatz 1 genannten Personenkreis ist zu dokumentieren.
 
 
 #### § 36 Kernbereichsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005800377)
 
 (1) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen zum
 Kernbereich privater Lebensgestaltung ist unzulässig.
@@ -2869,6 +2933,7 @@ aufzubewahren und danach unverzüglich zu löschen.
 
 
 #### § 37 Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE005901377)
 
 (1) Individuelle Aufklärungsmaßnahmen nach § 34 Absatz 1 Satz 1
 bedürfen der Anordnung durch die Präsidentin oder den Präsidenten des
@@ -2949,14 +3014,17 @@ individuellen Aufklärungsmaßnahmen.
 
 
 #### (XXXX) §§ 38 und 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006001377)
 
 
 
 ### Unterabschnitt 5 - Unabhängige Rechtskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001200377)
 
 
 
 #### § 40 Ausübung der unabhängigen Rechtskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006200377)
 
 (1) Die Rechtmäßigkeit der technischen Aufklärung und damit
 einhergehender Übermittlungen und Kooperationen des
@@ -2977,6 +3045,7 @@ Unabhängigen Kontrollrat.
 
 
 #### § 41 Unabhängiger Kontrollrat
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008700377)
 
 (1) Der Unabhängige Kontrollrat ist eine oberste Bundesbehörde und als
 unabhängiges Organ der Kontrolle der technischen Aufklärung des
@@ -3019,6 +3088,7 @@ Pullach.
 
 
 #### § 42 Zuständigkeit des gerichtsähnlichen Kontrollorgans; Vorlagepflicht des Bundesnachrichtendienstes
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006402377)
 
 (1) Das gerichtsähnliche Kontrollorgan ist im Rahmen der strategischen
 Ausland-Fernmeldeaufklärung zuständig für die Vorabkontrolle der
@@ -3104,6 +3174,7 @@ Kontrollgegenstand unverzüglich vorzulegen.
 
 
 #### § 43 Besetzung des gerichtsähnlichen Kontrollorgans; Wahl der Mitglieder; Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Unabhängigen Kontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006500377)
 
 (1) Das gerichtsähnliche Kontrollorgan des Unabhängigen Kontrollrates
 besteht aus sechs Mitgliedern, die bis zu ihrer Ernennung als Mitglied
@@ -3147,6 +3218,7 @@ Absatz 2 erfolgen.
 
 
 #### § 44 Rechtsstellung und Ernennung der Mitglieder des gerichtsähnlichen Kontrollorgans
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006600377)
 
 (1) Die Mitglieder des gerichtsähnlichen Kontrollorgans werden zu
 Beamtinnen und Beamten auf Zeit ernannt. Vorbehaltlich der Regelungen
@@ -3169,6 +3241,7 @@ religiöse Beteuerung geleistet werden.
 
 
 #### § 45 Amtszeit der Mitglieder des gerichtsähnlichen Kontrollorgans; Ruhestand
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006700377)
 
 (1) Die Amtszeit beträgt zwölf Jahre. Eine Wiederwahl ist unzulässig.
 
@@ -3218,6 +3291,7 @@ Amtsgeschäfte fort.
 
 
 #### § 46 Besoldung der Mitglieder des gerichtsähnlichen Kontrollorgans
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006800377)
 
 (1) Den Mitgliedern des gerichtsähnlichen Kontrollorgans wird vom
 Beginn des Kalendermonats an, in dem das Beamtenverhältnis auf Zeit
@@ -3231,6 +3305,7 @@ des Unabhängigen Kontrollrates ein Amt der Besoldungsgruppe B 9
 
 
 #### § 47 Weitere Rechte und Pflichten der Mitglieder des gerichtsähnlichen Kontrollorgans
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE006900377)
 
 (1) Die für die Richterinnen und Richter an den obersten Gerichtshöfen
 des Bundes geltenden Vorschriften über Unabhängigkeit und
@@ -3242,6 +3317,7 @@ ab. § 4 des Deutschen Richtergesetzes gilt entsprechend.
 
 
 #### § 48 Amtsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007000377)
 
 (1) Präsidentin oder Präsident des Unabhängigen Kontrollrates ist die
 Amtsbezeichnung der Behördenleiterin oder des Behördenleiters.
@@ -3254,6 +3330,7 @@ Kontrollrat oder Kontrollbeauftragter beim Unabhängigen Kontrollrat.
 
 
 #### § 49 Spruchkörper des gerichtsähnlichen Kontrollorgans; Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007100377)
 
 (1) Die Mitglieder des gerichtsähnlichen Kontrollorgans bilden den
 Senat des gerichtsähnlichen Kontrollorgans. Den Vorsitz im Senat hat
@@ -3277,6 +3354,7 @@ entscheidet die Stimme der oder des Vorsitzenden.
 
 
 #### § 50 Leitung des administrativen Kontrollorgans
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007200377)
 
 Das administrative Kontrollorgan untersteht einer Leiterin oder einem
 Leiter. Die Leiterin oder der Leiter verfügt über die Befähigung zum
@@ -3288,6 +3366,7 @@ unterliegt den Weisungen der Präsidentin oder des Präsidenten.
 
 
 #### § 51 Zuständigkeit des administrativen Kontrollorgans
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007301377)
 
 (1) Das administrative Kontrollorgan unterstützt das gerichtsähnliche
 Kontrollorgan in der Durchführung seiner Kontrollbefugnisse. Darüber
@@ -3309,6 +3388,7 @@ Kontrollbefugnis ein Beanstandungsrecht nach § 52 zu.
 
 
 #### § 52 Beanstandungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007400377)
 
 (1) Stellt das administrative Kontrollorgan im Rahmen seiner
 Kontrollzuständigkeit einen rechtswidrigen Zustand fest, kann es
@@ -3339,6 +3419,7 @@ ist.
 
 
 #### § 53 Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007500377)
 
 Die Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates
 müssen deutsche Staatsangehörige sein und haben sich einer erweiterten
@@ -3347,6 +3428,7 @@ Sicherheitsüberprüfungsgesetz zu unterziehen.
 
 
 #### § 54 Geheimhaltung; Aussagegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007600377)
 
 (1) Die Beratungen des Unabhängigen Kontrollrates sind geheim.
 
@@ -3367,6 +3449,7 @@ Präsidenten entscheidet die Vizepräsidentin oder der Vizepräsident.
 
 
 #### § 55 Bericht des Unabhängigen Kontrollrates an das Parlamentarische Kontrollgremium
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007701377)
 
 (1) Der Unabhängige Kontrollrat berichtet in Abständen von höchstens
 sechs Monaten dem Parlamentarischen Kontrollgremium über seine
@@ -3405,6 +3488,7 @@ Kontrolltätigkeit nach § 13 des Kontrollgremiumsgesetzes beifügen.
 
 
 #### § 56 Pflicht des Bundesnachrichtendienstes zur Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007800377)
 
 (1) Der Bundesnachrichtendienst unterstützt den Unabhängigen
 Kontrollrat bei seinen Aufgaben.
@@ -3441,6 +3525,7 @@ Kontrollrates ist unverzüglich zu entsprechen.
 
 
 #### § 57 Personal- und Sachausstattung; Personalverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE007900377)
 
 (1) Dem
 Unabhängigen Kontrollrat ist die für die Erfüllung seiner Aufgaben
@@ -3456,6 +3541,7 @@ erforderlich ist.
 
 
 #### § 58 Austausch zwischen dem Parlamentarischen Kontrollgremium und dem Unabhängigen Kontrollrat; Zusammenarbeit zwischen dem Unabhängigen Kontrollrat, der G 10-Kommission und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008000377)
 
 (1) Der Unabhängige Kontrollrat kann sich regelmäßig mit dem
 Parlamentarischen Kontrollgremium unter Wahrung der jeweils geltenden
@@ -3483,10 +3569,12 @@ des Unabhängigen Kontrollrates unberührt.
 
 
 ### Unterabschnitt 6 - Mitteilungen und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001300377)
 
 
 
 #### § 59 Mitteilung an Betroffene und Benachrichtigungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008100377)
 
 (1) Soweit personenbezogene Daten von Ausländern im Ausland erhoben
 werden, erfolgt keine Mitteilung an die betroffene Person.
@@ -3521,6 +3609,7 @@ verwendet werden.
 
 
 #### § 60 Mitteilungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008200377)
 
 (1) Personen, die Telekommunikationsdienste erbringen oder die an der
 Erbringung solcher Dienste mitwirken, sind in Bezug auf die ihnen
@@ -3536,6 +3625,7 @@ mitgeteilt werden.
 
 
 #### § 61 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008300377)
 
 Der Unabhängige Kontrollrat erstellt alle fünf Jahre einen Bericht zur
 Evaluierung der Effektivität seiner Kontrolltätigkeit und übermittelt
@@ -3544,6 +3634,7 @@ erhält vorab die Gelegenheit zur Stellungnahme zu diesem Bericht.
 
 
 #### § 62 Dienstvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008400377)
 
 Die technische und organisatorische Umsetzung der Regelungen zur
 technischen Aufklärung ist in Dienstvorschriften festzulegen. Die
@@ -3552,10 +3643,12 @@ Bundeskanzleramt unterrichtet das Parlamentarische Kontrollgremium.
 
 
 ## Abschnitt 5 - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000501377)
 
 
 
 ### § 63 Unabhängige Datenschutzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001108377)
 
 § 28 des Bundesverfassungsschutzgesetzes ist mit der Maßgabe
 entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des
@@ -3563,6 +3656,7 @@ Innern und für Heimat das Bundeskanzleramt tritt.
 
 
 ### § 64 Anwendung des Bundesdatenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE004001377)
 
 Bei der Erfüllung der Aufgaben des Bundesnachrichtendienstes nach § 1
 Absatz 2 ist das Bundesdatenschutzgesetz wie folgt anzuwenden:
@@ -3597,6 +3691,7 @@ Absatz 2 ist das Bundesdatenschutzgesetz wie folgt anzuwenden:
 
 
 ### § 65 Politische Unterrichtung und Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE001205377)
 
 (1) Der Bundesnachrichtendienst unterrichtet zum Zweck der Information
 der Bundesregierung zur Wahrnehmung ihrer außen- und
@@ -3635,14 +3730,17 @@ Information darf er auch personenbezogene Daten bekanntgeben, wenn
 
 
 ## Abschnitt 6 - Sicherung von Verschlusssachen im Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG001900377)
 
 
 
 ### Unterabschnitt 1 - Befugnisse, Durchführung und Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG002000377)
 
 
 
 #### § 65a Maßnahmen zur Sicherung von Verschlusssachen; Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010500377)
 
 (1) Der Bundesnachrichtendienst trifft Maßnahmen zur Sicherung von
 Verschlusssachen nach den §§ 65b bis 65d, um zu erkennen und zu
@@ -3697,6 +3795,7 @@ Personen in geeigneter Form zu belehren über
 
 
 #### § 65b Kontrolle und Durchsuchung von Personen, Taschen und Fahrzeugen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010600377)
 
 Zur Sicherung von Verschlusssachen darf der Bundesnachrichtendienst
 innerhalb seiner Dienststellen
@@ -3716,6 +3815,7 @@ innerhalb seiner Dienststellen
 
 
 #### § 65c Kontrolle und Durchsuchung von Räumen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010700377)
 
 (1) Zur Sicherung von Verschlusssachen darf der
 Bundesnachrichtendienst innerhalb seiner Dienststellen
@@ -3741,6 +3841,7 @@ Eine Überwachung höchstpersönlich genutzter Räume ist unzulässig.
 
 
 #### § 65d IT-Kontrollen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010800377)
 
 (1) Zur Sicherung von Verschlusssachen darf der
 Bundesnachrichtendienst zu dienstlichen Zwecken überlassene Geräte der
@@ -3889,6 +3990,7 @@ durchsuchen, wenn diese das Gerät nicht freiwillig herausgibt.
 
 
 #### § 65e Anordnung von Maßnahmen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE010900377)
 
 (1) Maßnahmen nach den §§ 65b bis 65d, mit Ausnahme von Kontrollen
 nach § 65b Nummer 1, bedürfen der Anordnung der oder des
@@ -3938,6 +4040,7 @@ Maßnahmen haben keine aufschiebende Wirkung.
 
 
 #### § 65f Durchführung von Maßnahmen zur Sicherung von Verschlusssachen; Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011000377)
 
 (1) Bei der Durchführung von Maßnahmen zur Sicherung von
 Verschlusssachen hat der Bundesnachrichtendienst unter mehreren
@@ -4028,10 +4131,12 @@ insoweit eingeschränkt.
 
 
 ### Unterabschnitt 2 - Verarbeitung und Übermittlung von personenbezogenen Daten aus Maßnahmen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG002100377)
 
 
 
 #### § 65g Kennzeichnung, Speicherung, Löschung und Zweckbindung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011100377)
 
 (1) Der Bundesnachrichtendienst darf die im Rahmen der Maßnahmen nach
 den §§ 65b bis 65d erforderlichen Informationen einschließlich
@@ -4060,6 +4165,7 @@ personenbezogenen Daten nach Absatz 1 Satz 2 ist aufrechtzuerhalten.
 
 
 #### § 65h Schutz des Kernbereichs privater Lebensgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011200377)
 
 (1) Die Datenerhebung zum Zweck der Erlangung von Erkenntnissen über
 den Kernbereich privater Lebensgestaltung ist unzulässig. Der
@@ -4083,6 +4189,7 @@ er die Maßnahme abzubrechen.
 
 
 #### § 65i Personenbezogene Daten aus Vertraulichkeitsbeziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011300377)
 
 Sofern in den sichergestellten Unterlagen und Daten Kommunikation aus
 Vertraulichkeitsbeziehungen nach § 21 Absatz 1 Satz 2 enthalten ist,
@@ -4090,6 +4197,7 @@ gilt § 21 für diese Kommunikation entsprechend.
 
 
 #### § 65j Schutz von minderjährigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011400377)
 
 (1) Der Bundesnachrichtendienst darf im Rahmen von Maßnahmen nach den
 §§ 65b bis 65d erhobene personenbezogene Daten von minderjährigen
@@ -4107,6 +4215,7 @@ und die zu dem in § 65a Absatz 2 genannten Personenkreis gehören.
 
 
 #### § 65k Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011500377)
 
 (1) Werden Informationen einschließlich personenbezogener Daten aus
 Maßnahmen nach den §§ 65b bis 65d in automatisierten Dateien
@@ -4132,6 +4241,7 @@ Einhaltung der Vorgaben des Unterabschnitts 2 jederzeit überprüfen.
 
 
 #### § 65l Übermittlung von personenbezogenen Daten aus Maßnahmen zur Sicherung von Verschlusssachen
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE011600377)
 
 (1) Die Übermittlung personenbezogener Daten, die im Rahmen von
 Maßnahmen zur Sicherung von Verschlusssachen nach den §§ 65b bis 65d
@@ -4147,16 +4257,19 @@ Verschlusssache erforderlich ist.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000602377)
 
 
 
 ### § 66 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003701377)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 60 Absatz 2 eine Mitteilung macht.
 
 
 ### § 67 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003801377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -4178,10 +4291,12 @@ Wirtschaft und Energie.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNG000702377)
 
 
 
 ### § 68 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE003901377)
 
 Das Grundrecht des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10
 des Grundgesetzes) sowie das Grundrecht der Unverletzlichkeit der
@@ -4190,6 +4305,7 @@ eingeschränkt.
 
 
 ### § 69 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bndg/BJNR029790990.html#BJNR029790990BJNE008500377)
 
 (1) Maßnahmen der technischen Aufklärung im Sinne des Abschnitts 4,
 die bereits vor dem 1. Januar 2022 begonnen wurden, dürfen bis zum 31.

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000100314)
 
 (1) Die Bundesanstalt für Arbeit (Bundesanstalt) gewährt Arbeitgebern
 Zuschüsse zu den Aufwendungen für Vorruhestandsleistungen an
@@ -35,6 +36,7 @@ im Jahr 1988 für Arbeitnehmer, die vor dem Jahr 1931 geboren sind.
 
 
 ## § 2 Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000203308)
 
 (1) Der Anspruch auf den Zuschuß setzt voraus, daß
 
@@ -127,6 +129,7 @@ des Bergbaus erhält.
 
 
 ## § 3 Höhe des Zuschusses zu den Vorruhestandsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000302308)
 
 (1) Der Zuschuß beträgt 35 vom Hundert der Aufwendungen für
 
@@ -191,6 +194,7 @@ tarifvertraglicher Vereinbarung gesichert ist.
 
 
 ## § 4 Dynamisierung des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000401308)
 
 Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils
 nach Ablauf eines Jahres seit Beginn der Zahlung des
@@ -203,6 +207,7 @@ erhöht hat.
 
 
 ## § 5 Erlöschen und Unterbrechung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000500314)
 
 (1) Der Anspruch auf den Zuschuß erlischt
 
@@ -232,6 +237,7 @@ hat.
 
 
 ## § 6 Nebentätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000600314)
 
 (1) Der Anspruch auf den Zuschuß
 
@@ -265,6 +271,7 @@ Zuschusses.
 
 
 ## § 7 Schutzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000700314)
 
 (1) Die Tatsache, daß ein Arbeitnehmer nach Vollendung des 58.
 Lebensjahres gegenüber seinem Arbeitgeber zur Inanspruchnahme von
@@ -291,6 +298,7 @@ Arbeitseinkommen gepfändet, verpfändet oder übertragen werden.
 
 
 ## § 8 Ausgleichskassen, gemeinsame Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000800314)
 
 (1) Werden die Vorruhestandsleistungen auf Grund eines Tarifvertrags
 von einer Ausgleichskasse der Arbeitgeber erbracht oder werden die
@@ -304,6 +312,7 @@ Ausgleichskasse.
 
 
 ## § 9 Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE000901308)
 
 (1) Soweit der Arbeitgeber seine Verpflichtung zur Zahlung von
 Vorruhestandsgeld nicht erfüllt und der Arbeitnehmer auf Grund
@@ -346,6 +355,7 @@ entsprechend.
 
 
 ## § 10 Mitwirkungspflichten des Arbeitnehmers, Erstattungspflicht des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001000314)
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse,
 die für den Zuschuß erheblich sind, dem Arbeitgeber unverzüglich
@@ -366,6 +376,7 @@ grobfahrlässig
 
 
 ## § 11 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001100314)
 
 (1) Der Zuschuß zu den Vorruhestandsleistungen und das
 Vorruhestandsgeld nach § 9 Abs. 1 werden auf Antrag gewährt. Der
@@ -386,6 +397,7 @@ bestimmen.
 
 
 ## § 12 Steuerliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001200314)
 
 (1) Bei der Anwendung des § 28 des Berlinförderungsgesetzes gilt der
 Bezug von Vorruhestandsgeld als Arbeitslohn aus einem gegenwärtigen
@@ -414,6 +426,7 @@ Gewerbesteuer und Vermögensteuer befreit.
 
 
 ## § 13 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001300314)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 60 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch eine Änderung in
@@ -438,6 +451,7 @@ diese ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes
 
 
 ## § 14 Befristung der Regelung
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001400314)
 
 Für die Zeit ab 1. Januar 1989 ist dieses Gesetz nur noch anzuwenden,
 wenn die Voraussetzungen für den Anspruch erstmals vor diesem
@@ -445,6 +459,7 @@ Zeitpunkt vorgelegen haben.
 
 
 ## § 15 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/vrg/BJNR106010984.html#BJNR106010984BJNE001500314)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes auch im Land Berlin.

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000100328)
 
 Auf Grund des § 6 Abs. 1 Nr. 11 und des § 9 des Gesetzes zur
 Durchführung der gemeinsamen Marktorganisationen vom 31. August 1972
@@ -32,6 +33,7 @@ mit den Bundesministern der Finanzen und für Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000201308)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
@@ -42,6 +44,7 @@ Magermilchpulver.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000301308)
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
@@ -49,6 +52,7 @@ Ernährung (Bundesanstalt).
 
 
 ## § 3 Form der Verträge
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000400328)
 
 Die nach den in § 1 genannten Rechtsakten abzuschließenden
 Lagerverträge haben dem von der Bundesanstalt im Bundesanzeiger
@@ -56,6 +60,7 @@ bekanntgemachten Muster zu entsprechen.
 
 
 ## § 4 Gewährung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000501308)
 
 (1) Anträge auf Gewährung der Beihilfe sind nach dem von der
 Bundesanstalt im Bundesanzeiger bekanntgemachten Muster zu stellen.
@@ -64,11 +69,13 @@ Bundesanstalt im Bundesanzeiger bekanntgemachten Muster zu stellen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000602308)
 
 -
 
 
 ## § 6 Aufzeichnungs-, Anzeige- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000701308)
 
 Unbeschadet weitergehender Bestimmungen in den in § 1 genannten
 Rechtsakten ist der Einlagerer verpflichtet,
@@ -119,6 +126,7 @@ Rechtsakten ist der Einlagerer verpflichtet,
 
 
 ## § 7 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000801308)
 
 Zum Zwecke der Überwachung hat der Einlagerer den Beauftragten der
 Bundesanstalt das Betreten der Geschäfts-, Betriebs- und angemieteten
@@ -135,16 +143,19 @@ auszudrucken.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE000901308)
 
 -
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE001101308)
 
 Diese Verordnung tritt am 1. April 1979 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/prlagerhbeihv/BJNR002240979.html#BJNR002240979BJNE001200328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

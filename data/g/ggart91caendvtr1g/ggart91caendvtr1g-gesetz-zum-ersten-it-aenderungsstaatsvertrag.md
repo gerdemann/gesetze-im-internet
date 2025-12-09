@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr1g/BJNR112600019.html#BJNR112600019BJNE000100000)
 
 (1) Dem Ersten Staatsvertrag zur Änderung des Vertrags über die
 Errichtung des IT-Planungsrats und über die Grundlagen der
@@ -36,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ggart91c_ndvtr1g/BJNR112600019.html#BJNR112600019BJNE000200000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000100307)
 
 Auf Grund
 
@@ -69,6 +70,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Beitragssätze in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000200307)
 
 Der Beitragssatz für das Jahr 1994 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,2 vom Hundert und in der
@@ -76,12 +78,14 @@ knappschaftlichen Rentenversicherung 25,5 vom Hundert.
 
 
 ## § 2 Anpassung des aktuellen Rentenwertes (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000300307)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1994 an 33,34
 Deutsche Mark.
 
 
 ## § 3 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000400307)
 
 Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
 Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
@@ -91,6 +95,7 @@ Anpassungsfaktor beträgt 1,0364.
 
 
 ## § 4 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000500307)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1994 an für Arbeitsunfälle, für die § 1151 der
@@ -99,6 +104,7 @@ und 1.506 Deutsche Mark monatlich.
 
 
 ## § 5 Durchschnittsentgelt in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000600307)
 
 (1) Das Durchschnittsentgelt für das Jahr 1992 beträgt 46.820 Deutsche
 Mark.
@@ -111,6 +117,7 @@ ergänzt.
 
 
 ## § 6 Bezugsgröße in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000700307)
 
 (1) Die Bezugsgröße im Sinne des § 18 Abs. 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahre 1994 47.040 Deutsche Mark jährlich
@@ -122,6 +129,7 @@ und 3.080 Deutsche Mark monatlich.
 
 
 ## § 7 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000800307)
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahre 1994
 
@@ -153,6 +161,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 
 ## § 8 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE000900307)
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
 Beitragssatzes für das Jahr 1994 berechneten Faktoren betragen im
@@ -255,6 +264,7 @@ Beiträge maßgebend wäre.
 
 
 ## § 9 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001000307)
 
 Die Angleichungsfaktoren zur Ermittlung des Wertes von
 angleichungsdynamischen Anrechten nach § 3 Abs. 2 Nr. 1 Buchstabe a
@@ -321,6 +331,7 @@ Entscheidung über den Versorgungsausgleich nach dem 1. Januar 1994 und
 
 
 ## § 10 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001100307)
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:
@@ -348,6 +359,7 @@ ergänzt:
 
 
 ## § 11 Durchschnittsverdienste der Anlage 14 zum Sechsten Buch Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001200307)
 
 (1) Die Tabellen 1 bis 23 der Anlage 14 zum Sechsten Buch
 Sozialgesetzbuch werden für das Jahr 1992 um die folgenden endgültigen
@@ -1134,6 +1146,7 @@ Werte ergänzt:
 
 
 ## § 12 Erstattung an die Deutsche Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001300307)
 
 Der Postrentendienst des Unternehmens Deutsche Bundespost POSTDIENST
 erhält für die nach dieser Verordnung vorzunehmenden Anpassungen und
@@ -1143,11 +1156,13 @@ in Höhe von 1,20 Deutsche Mark für jeden Zahlfall.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001400307)
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bsv_1994/BJNR198700993.html#BJNR198700993BJNE001500307)
 
 Der Bundesrat hat zugestimmt.
 

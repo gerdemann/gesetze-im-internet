@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000100000)
 
 Auf Grund des § 23b Satz 1 des Treuhandgesetzes, der durch Artikel 1
 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt
@@ -34,12 +35,14 @@ den Bundesministerien der Finanzen und für Wirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000200000)
 
 Die Treuhandanstalt wird in Bundesanstalt für vereinigungsbedingte
 Sonderaufgaben umbenannt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000300000)
 
 (1) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch
 für die Erteilung des Investitionsvorrangbescheides nach den
@@ -70,11 +73,13 @@ unberührt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000401311)
 
 (weggefallen)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000500000)
 
 Soweit im Zeitpunkt des Inkrafttretens dieser Verordnung Verfahren
 nach dem Investitionsvorranggesetz oder der Grundstücksverkehrsordnung
@@ -90,11 +95,13 @@ Sonderaufgaben eingegangen sein.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhumbenv/BJNR391300994.html#BJNR391300994BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

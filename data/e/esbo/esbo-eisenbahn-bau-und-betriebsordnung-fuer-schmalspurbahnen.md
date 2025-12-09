@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000200304)
 
 Auf Grund des § 3 Abs. 1 und des § 8a Abs. 3 des Allgemeinen
 Eisenbahngesetzes vom 29. März 1951 (Bundesgesetzbl. I S. 225, 438),
@@ -32,6 +33,7 @@ S. 654) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000300304)
 
 (1) Diese Verordnung gilt für die schmalspurigen Eisenbahnen des
 öffentlichen Verkehrs in der Bundesrepublik Deutschland.
@@ -49,11 +51,13 @@ Unterhaltung und Erneuerung berücksichtigt werden.
 
 
 ## § 2 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000400304)
 
 Die Vorschriften des § 2 der EBO gelten entsprechend.
 
 
 ## § 3 Ausnahmen, Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000503305)
 
 (1) Ausnahmen können zulassen
 
@@ -104,11 +108,13 @@ Hinweis auf diesen Absatz vorgesehen sind, erteilen
 
 
 ## § 4 Begriffserklärungen für Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000600304)
 
 § 4 der EBO über Begriffserklärungen gilt entsprechend.
 
 
 ## § 5 Spurweite
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000700304)
 
 (1) Die Spurweite ist der kleinste Abstand der Innenflächen der
 Schienenköpfe im Bereich von 0 bis 14 mm unter Schienenoberkante (SO).
@@ -128,6 +134,7 @@ die Höchstmaße nach Absatz 3 dürfen jedoch nicht überschritten werden.
 
 
 ## § 6 Gleisbogen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000800304)
 
 (1) Der Bogenhalbmesser in durchgehenden Hauptgleisen soll bei
 Neubauten nicht weniger als 50 m betragen.
@@ -184,11 +191,13 @@ deren Neigung nicht größer sein darf als 1:300.
 
 
 ## § 7 Gleisneigung
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE000900304)
 
 Die Vorschriften des § 7 der EBO gelten entsprechend.
 
 
 ## § 8 Belastbarkeit des Oberbaus und der Bauwerke
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001000304)
 
 Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen
 Radsatzlast und dem jeweils zugelassenen Fahrzeuggewicht je
@@ -196,6 +205,7 @@ Längeneinheit bei der zugelassenen Geschwindigkeit aufnehmen können.
 
 
 ## § 9 Umgrenzung des lichten Raumes
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001100304)
 
 (1) Die Mittellinie der Umgrenzung des lichten Raumes nach Anlage 1
 ist in der Mitte zwischen beiden Schienen anzunehmen, in Bogen mit
@@ -296,6 +306,7 @@ Längsrichtung symmetrisch verladen werden.
 
 
 ## § 10 Gleisabstand
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001200304)
 
 (1) Der Abstand von Gleisen gleicher Spurweite ohne
 Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern
@@ -463,17 +474,20 @@ und Straßenbahngleisen sinngemäß anzuwenden.
 
 
 ## § 11 Bahnübergänge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001300304)
 
 Die Vorschriften des § 11 und der Anlage 4 der EBO gelten
 entsprechend.
 
 
 ## § 12 Höhengleiche Kreuzungen von Schienenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001400304)
 
 Die Vorschriften des § 12 der EBO gelten entsprechend.
 
 
 ## § 13 Bahnsteige, Rampen, Bahnhofsname
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001500304)
 
 (1) Feste Gegenstände auf Personenbahnsteigen (Säulen und dgl.) müssen
 bis zu einer Höhe von 2,50 m über dem Bahnsteig mindestens um die
@@ -501,11 +515,13 @@ einfachen Verhältnissen darf hierauf verzichtet werden.
 
 
 ## § 14 Signale und Weichen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001600304)
 
 Die Vorschriften des § 14 der EBO gelten entsprechend.
 
 
 ## § 15 Zugbeeinflussung
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001701308)
 
 Die zuständigen Eisenbahnaufsichtsbehörden können die Ausrüstung mit
 Zugbeeinflussung oder technischen Einrichtungen, durch die ein Zug
@@ -515,16 +531,19 @@ erfordern.
 
 
 ## § 16 Fernmeldeanlagen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001800304)
 
 Die Vorschriften des § 16 der EBO gelten entsprechend.
 
 
 ## § 17 Untersuchen und Überwachen der Bahn
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE001900304)
 
 Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 
 ## § 18 Einteilung der Fahrzeuge, Begriffserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002000304)
 
 (1) Die Fahrzeuge werden entsprechend ihrer Zweckbestimmung nach
 Regelfahrzeugen und Nebenfahrzeugen unterschieden. Regelfahrzeuge
@@ -569,6 +588,7 @@ Rollwagen eingeteilt.
 
 
 ## § 19 Radsatzlasten und Fahrzeuggewichte je Längeneinheit
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002100304)
 
 (1) Die Radsatzlasten und die Fahrzeuggewichte je Längeneinheit dürfen
 nicht größer sein, als es die Belastbarkeit des Oberbaus und der
@@ -581,6 +601,7 @@ Puffer zu messen.
 
 
 ## § 20 Radsatzabstand und Bogenlauf
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002200304)
 
 (1) Der feste Radsatzabstand neuer Fahrzeuge ohne Drehgestelle muß
 mindestens 2.000 mm betragen. Bei Kleinlokomotiven darf der feste
@@ -593,6 +614,7 @@ daß die Gleisbogen einwandfrei durchfahren werden können.
 
 
 ## § 21 Räder und Radsätze
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002300304)
 
 (1) Die Räder eines Radsatzes dürfen auf der Radsatzwelle seitlich
 nicht verschiebbar sein.
@@ -619,6 +641,7 @@ gekennzeichnet sein, die auf der äußern Stirnfläche eingedreht ist
 
 
 ## § 22 Begrenzung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002400304)
 
 (1) Die Fahrzeuge dürfen die in Anlage 1 Bild 1 und 2 angegebenen
 Begrenzungen nicht überschreiten, soweit in den nachstehenden Absätzen
@@ -685,6 +708,7 @@ erfordert.
 
 
 ## § 23 Bremsen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002500304)
 
 (1) Triebfahrzeuge und andere führende Fahrzeuge müssen eine
 durchgehende Bremse und eine Feststellbremse (Handbremse,
@@ -718,6 +742,7 @@ des Uhrzeigers die Bremsen anziehen.
 
 
 ## § 24 Zug- und Stoßeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002600304)
 
 (1) Die Fahrzeuge außer Rollfahrzeugen müssen an beiden Enden federnde
 Zug- und Stoßeinrichtungen haben.
@@ -740,6 +765,7 @@ nicht hintereinandergreifen können.
 
 
 ## § 25 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002700304)
 
 (1) An den Stirnseiten neu zu bauender Fahrzeuge außer Rollböcken muß
 auf jeder Seite der Zugeinrichtung ein Raum nach Anlage 6 freigehalten
@@ -751,11 +777,13 @@ Hiervon ausgenommen sind die Teile der Wulstübergänge.
 
 
 ## § 26
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002800304)
 
 (weggefallen)
 
 
 ## § 27 Beschaffenheit der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE002900304)
 
 (1) Der tragende Teil des Aufbaus neu zu bauender Fahrzeuge und die
 Innenausstattung neu zu bauender Triebfahrzeuge und Reisezugwagen
@@ -768,6 +796,7 @@ geschützt werden.
 
 
 ## § 28 Ausrüstung der Triebfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003001308)
 
 Triebfahrzeuge und andere führende Fahrzeuge müssen folgende
 Ausrüstung haben:
@@ -804,6 +833,7 @@ Ausrüstung haben:
 
 
 ## § 29 Ausrüstung der Wagen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003100304)
 
 (1) Die Vorschriften für Personenwagen gelten auch für Triebwagen.
 
@@ -845,16 +875,19 @@ Handgriff für Rangierer haben.
 
 
 ## § 30
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003200304)
 
 (weggefallen)
 
 
 ## § 31
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003300304)
 
 (weggefallen)
 
 
 ## § 32 Abnahme und Untersuchung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003400304)
 
 (1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie
 abgenommen worden sind.
@@ -881,11 +914,13 @@ führen.
 
 
 ## § 33 Überwachungsbedürftige Anlagen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003500304)
 
 Die Vorschriften des § 33 der EBO gelten entsprechend.
 
 
 ## § 34 Begriff, Art und Länge der Züge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003600304)
 
 (1) Züge sind die auf die freie Strecke übergehenden, aus
 Regelfahrzeugen bestehenden, durch Maschinenkraft bewegten Einheiten
@@ -914,6 +949,7 @@ gewährleistet ist.
 
 
 ## § 35 Ausrüsten der Züge mit Bremsen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003703305)
 
 (1) Die Züge mit einer Höchstgeschwindigkeit von mehr als 50 km/h
 müssen mit durchgehender selbsttätiger Bremse gefahren werden.
@@ -960,6 +996,7 @@ unverändert bleiben, sind Ausnahmen zulässig (§ 3 Abs. 1 Nr. 2).
 
 
 ## § 36 Zusammenstellen der Züge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003800304)
 
 (1) Die Radsatzlast und das Fahrzeuggewicht je Längeneinheit der
 Fahrzeuge dürfen nicht größer sein, als es für die zu befahrende
@@ -991,21 +1028,25 @@ für leere und beladene Rollwagen ohne Zug- und Stoßeinrichtung.
 
 
 ## § 37
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE003900304)
 
 (weggefallen)
 
 
 ## § 38 Fahrordnung
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004000304)
 
 Auf zweigleisigen Bahnen ist in der Regel rechts zu fahren.
 
 
 ## § 39 Zugfolge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004100304)
 
 Die Vorschriften des § 39 der EBO gelten entsprechend.
 
 
 ## § 40 Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004200304)
 
 (1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf
 (zulässige Geschwindigkeit), ist abhängig von
@@ -1115,6 +1156,7 @@ Vorschrift in Absatz 6.
 
 
 ## § 41 Schieben und Nachschieben der Züge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004300304)
 
 (1) Züge gelten betrieblich als geschoben, wenn das Triebfahrzeug
 nicht an der Spitze läuft und nicht von der Spitze aus gesteuert wird.
@@ -1143,21 +1185,25 @@ nachgeschoben werden.
 
 
 ## § 42 Rangieren, Hemmschuhe
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004400304)
 
 Die Vorschriften des § 42 der EBO gelten entsprechend.
 
 
 ## § 43 Sichern stillstehender Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004500304)
 
 Die Vorschriften des § 43 der EBO gelten entsprechend.
 
 
 ## § 44 Mitfahren im Führerraum
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004600304)
 
 Die Vorschriften des § 44 der EBO gelten entsprechend.
 
 
 ## § 45 Besetzen der Triebfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004700304)
 
 (1) Arbeitende Triebfahrzeuge müssen während der Fahrt mit einem
 Triebfahrzeugführer besetzt sein; bei Kleinlokomotiven dürfen die
@@ -1214,6 +1260,7 @@ fehlender Sicherheitsfahrschaltung abgesehen werden
 
 
 ## § 46 Besetzen der Züge mit Zugbegleitern
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004800304)
 
 (1) Die Züge sind mit mindestens einem Zugbegleiter zu besetzen,
 soweit in den Absätzen 2 und 3 nichts anderes zugelassen ist.
@@ -1270,16 +1317,19 @@ besetzt sein.
 
 
 ## § 47 Personal
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE004900304)
 
 Die Vorschriften der §§ 47 bis 54 der EBO gelten entsprechend.
 
 
 ## § 48 Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005001314)
 
 Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
 
 ## § 49 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005103308)
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes
 handelt, wer entgegen den Vorschriften des § 48 vorsätzlich
@@ -1335,6 +1385,7 @@ Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs.
 
 
 ## § 50 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005200304)
 
 (1) Diese Verordnung tritt am ersten Tag des auf die Verkündung
 folgenden Kalendermonats in Kraft.
@@ -1343,11 +1394,13 @@ folgenden Kalendermonats in Kraft.
 
 
 ## § 51
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005300304)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005400304)
 
 Der Bundesminister für Verkehr
 
@@ -1355,12 +1408,14 @@ Bild 1, 2 und 3
 (Zu den §§ 9 und 22)
 
 ## Anlage 1 Umgrenzung des lichten Raumes
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005500304)
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 280 - 281)
 
 
 ## Anlage 2 (zu den §§ 9 und 10)
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005600304)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 282
 
@@ -1566,6 +1621,7 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 (zu den §§ 9 und 10)
 
 ## Anlage 3 Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005700304)
 
 (Fundstelle: BGBl. I 1972, 283 - 284)
 
@@ -2500,6 +2556,7 @@ Fundstelle des Originaltextes: BGBl. I 1972, 282
 (zu § 21)
 
 ## Anlage 4 Radsatz
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005800304)
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1972, 285)
@@ -2507,6 +2564,7 @@ Fundstelle: BGBl I 1972, 285)
 (zu § 21)
 
 ## Anlage 5 Räder
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE005900304)
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 286)
@@ -2514,6 +2572,7 @@ Fundstelle: BGBl I 1972, 286)
 (zu § 25)
 
 ## Anlage 6 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/esbo/BJNR002690972.html#BJNR002690972BJNE006000304)
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)

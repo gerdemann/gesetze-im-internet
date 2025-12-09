@@ -76,12 +76,14 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/saatartverzv_1985/BJNR017620985.html#BJNR017620985BJNE000201377)
 
 Das Artenverzeichnis zum Saatgutverkehrsgesetz erhält die Fassung der
 Anlage.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/saatartverzv_1985/BJNR017620985.html#BJNR017620985BJNE000404377)
 
 Als im Artenverzeichnis aufgeführt gelten auch Unterlagen und andere
 Pflanzenteile anderer als der in Nummer 2 der Anlage genannten
@@ -91,16 +93,19 @@ veredelt werden oder veredelt werden sollen.
 
 
 ## § 2a
+[Direktlink](https://www.gesetze-im-internet.de/saatartverzv_1985/BJNR017620985.html#BJNR017620985BJNE000802377)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/saatartverzv_1985/BJNR017620985.html#BJNR017620985BJNE000502377)
 
 (Inkrafttreten)
 
 
 ## Anlage Artenverzeichnis zum Saatgutverkehrsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/saatartverzv_1985/BJNR017620985.html#BJNR017620985BJNE000722119)
 
 (Fundstelle: BGBl. I 2004, 2698 - 2702;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

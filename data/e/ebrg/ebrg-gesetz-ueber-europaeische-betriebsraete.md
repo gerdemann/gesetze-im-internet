@@ -30,10 +30,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG000101140)
 
 
 
 ### § 1 Grenzübergreifende Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000202140)
 
 (1) Zur Stärkung des Rechts auf grenzübergreifende Unterrichtung und
 Anhörung der Arbeitnehmer in gemeinschaftsweit tätigen Unternehmen und
@@ -92,6 +94,7 @@ Arbeitnehmervertretungen durchzuführen.
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000403140)
 
 (1) Dieses Gesetz gilt für gemeinschaftsweit tätige Unternehmen mit
 Sitz im Inland und für gemeinschaftsweit tätige Unternehmensgruppen
@@ -128,6 +131,7 @@ liegt.
 
 
 ### § 3 Gemeinschaftsweite Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000501140)
 
 (1) Ein Unternehmen ist gemeinschaftsweit tätig, wenn es mindestens
 1 000 Arbeitnehmer in den Mitgliedstaaten und davon jeweils mindestens
@@ -141,6 +145,7 @@ in verschiedenen Mitgliedstaaten beschäftigen.
 
 
 ### § 4 Berechnung der Arbeitnehmerzahlen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000601140)
 
 In Betrieben und Unternehmen des Inlands errechnen sich die im Rahmen
 des § 3 zu berücksichtigenden Arbeitnehmerzahlen nach der Anzahl der
@@ -154,6 +159,7 @@ entsprechender Antrag der Arbeitnehmer oder ihrer Vertreter zugeht.
 
 
 ### § 5 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000702140)
 
 (1) Die zentrale Leitung hat auf Verlangen einer
 Arbeitnehmervertretung die für die Aufnahme von Verhandlungen zur
@@ -175,6 +181,7 @@ Informationen nach Absatz 1 zu erheben und zur Verfügung zu stellen.
 
 
 ### § 6 Herrschendes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000802140)
 
 (1) Ein Unternehmen, das zu einer gemeinschaftsweit tätigen
 Unternehmensgruppe gehört, ist herrschendes Unternehmen, wenn es
@@ -218,6 +225,7 @@ nicht beteiligt sind.
 
 
 ### § 7 Europäischer Betriebsrat in Unternehmensgruppen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE000901140)
 
 Gehören einer gemeinschaftsweit tätigen Unternehmensgruppe ein oder
 mehrere gemeinschaftsweit tätige Unternehmen an, wird ein Europäischer
@@ -226,10 +234,12 @@ nichts anderes vereinbart wird.
 
 
 ## Zweiter Teil - Besonderes Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG001001140)
 
 
 
 ### § 8 Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001101140)
 
 (1) Das besondere Verhandlungsgremium hat die Aufgabe, mit der
 zentralen Leitung eine Vereinbarung über eine grenzübergreifende
@@ -247,6 +257,7 @@ Verhandlungsgremium einvernehmlich festgelegt.
 
 
 ### § 9 Bildung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001201140)
 
 (1) Die Bildung des besonderen Verhandlungsgremiums ist von den
 Arbeitnehmern oder ihren Vertretern schriftlich bei der zentralen
@@ -271,6 +282,7 @@ Verhandlungsgremiums und seine Zusammensetzung zu unterrichten.
 
 
 ### § 10 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001302140)
 
 (1) Für jeden Anteil der in einem Mitgliedstaat beschäftigten
 Arbeitnehmer, der 10 Prozent der Gesamtzahl der in allen
@@ -283,6 +295,7 @@ besondere Verhandlungsgremium entsandt.
 
 
 ### § 11 Bestellung inländischer Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001401140)
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen
 Mitgliedstaates auf die im Inland beschäftigten Arbeitnehmer
@@ -349,6 +362,7 @@ Verhältnis bestellt werden.
 
 
 ### § 12 Unterrichtung über die Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001501140)
 
 Der zentralen Leitung sind unverzüglich die Namen der Mitglieder des
 besonderen Verhandlungsgremiums, ihre Anschriften sowie die jeweilige
@@ -359,6 +373,7 @@ vertretenen Gewerkschaften über diese Angaben zu unterrichten.
 
 
 ### § 13 Sitzungen, Geschäftsordnung, Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001602140)
 
 (1) Die zentrale Leitung lädt unverzüglich nach Benennung der
 Mitglieder zur konstituierenden Sitzung des besonderen
@@ -387,6 +402,7 @@ Verhandlungsgremiums beratend an den Verhandlungen teilnehmen.
 
 
 ### § 14 Einbeziehung von Arbeitnehmervertretern aus Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001701140)
 
 Kommen die zentrale Leitung und das besondere Verhandlungsgremium
 überein, die nach § 17 auszuhandelnde Vereinbarung auf nicht in einem
@@ -398,6 +414,7 @@ deren Rechtsstellung festlegen.
 
 
 ### § 15 Beschluss über Beendigung der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001801140)
 
 (1) Das besondere Verhandlungsgremium kann mit mindestens zwei
 Dritteln der Stimmen seiner Mitglieder beschließen, keine
@@ -413,6 +430,7 @@ zentrale Leitung nicht schriftlich eine kürzere Frist festlegen.
 
 
 ### § 16 Kosten und Sachaufwand
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE001901140)
 
 (1) Die durch die Bildung und Tätigkeit des besonderen
 Verhandlungsgremiums entstehenden Kosten trägt die zentrale Leitung.
@@ -429,10 +447,12 @@ dessen Anspruch auf Kostenerstattung als Gesamtschuldner.
 
 
 ## Dritter Teil - Vereinbarungen über grenzübergreifende Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG002001140)
 
 
 
 ### § 17 Gestaltungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002101140)
 
 Die zentrale Leitung und das besondere Verhandlungsgremium können frei
 vereinbaren, wie die grenzübergreifende Unterrichtung und Anhörung der
@@ -448,6 +468,7 @@ nach § 19 erfolgen soll.
 
 
 ### § 18 Europäischer Betriebsrat kraft Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002202140)
 
 (1) Soll ein Europäischer Betriebsrat errichtet werden, ist
 schriftlich zu vereinbaren, wie dieser ausgestaltet werden soll. Dabei
@@ -494,6 +515,7 @@ soll insbesondere Folgendes geregelt werden:
 
 
 ### § 19 Verfahren zur Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002301140)
 
 Soll ein Verfahren zur Unterrichtung und Anhörung der Arbeitnehmer
 eingeführt werden, ist schriftlich zu vereinbaren, unter welchen
@@ -506,6 +528,7 @@ erhebliche Auswirkungen auf die Interessen der Arbeitnehmer haben.
 
 
 ### § 20 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002401140)
 
 Eine nach § 18 oder § 19 bestehende Vereinbarung gilt fort, wenn vor
 ihrer Beendigung das Antrags- oder Initiativrecht nach § 9 Absatz 1
@@ -521,14 +544,17 @@ ist.
 
 
 ## Vierter Teil - Europäischer Betriebsrat kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG002501140)
 
 
 
 ### Erster Abschnitt - Errichtung des Europäischen Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG002601140)
 
 
 
 #### § 21 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002601140)
 
 (1) Verweigert die zentrale Leitung die Aufnahme von Verhandlungen
 innerhalb von sechs Monaten nach Antragstellung (§ 9), ist ein
@@ -546,6 +572,7 @@ Fristen einen Beschluss nach § 15 Absatz 1 fasst.
 
 
 #### § 22 Zusammensetzung des Europäischen Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002703140)
 
 (1) Der Europäische Betriebsrat setzt sich aus Arbeitnehmern des
 gemeinschaftsweit tätigen Unternehmens oder der gemeinschaftsweit
@@ -561,6 +588,7 @@ Europäischen Betriebsrat entsandt.
 
 
 #### § 23 Bestellung inländischer Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002802140)
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen
 Mitgliedstaates auf die im Inland beschäftigten Arbeitnehmer
@@ -634,6 +662,7 @@ entsandt werden. § 35 Absatz 2 und § 39 gelten entsprechend.
 
 
 #### § 24 Unterrichtung über die Mitglieder des Europäischen Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE002901140)
 
 Der zentralen Leitung sind unverzüglich die Namen der Mitglieder des
 Europäischen Betriebsrats, ihre Anschriften sowie die jeweilige
@@ -644,10 +673,12 @@ vertretenen Gewerkschaften über diese Angaben zu unterrichten.
 
 
 ### Zweiter Abschnitt - Geschäftsführung des Europäischen Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG003001140)
 
 
 
 #### § 25 Konstituierende Sitzung, Vorsitzender
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003001140)
 
 (1) Die zentrale Leitung lädt unverzüglich nach Benennung der
 Mitglieder zur konstituierenden Sitzung des Europäischen Betriebsrats
@@ -663,6 +694,7 @@ Stellvertreter berechtigt.
 
 
 #### § 26 Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003102140)
 
 Der Europäische Betriebsrat bildet aus seiner Mitte einen Ausschuss.
 Der Ausschuss besteht aus dem Vorsitzenden und mindestens zwei,
@@ -673,6 +705,7 @@ Europäischen Betriebsrats.
 
 
 #### § 27 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003202140)
 
 (1) Der Europäische Betriebsrat hat das Recht, im Zusammenhang mit der
 Unterrichtung durch die zentrale Leitung nach § 29 eine Sitzung
@@ -689,6 +722,7 @@ nach § 26.
 
 
 #### § 28 Beschlüsse, Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003301140)
 
 Die Beschlüsse des Europäischen Betriebsrats werden, soweit in diesem
 Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der
@@ -699,10 +733,12 @@ Stimmen seiner Mitglieder beschließt.
 
 
 ### Dritter Abschnitt - Mitwirkungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG003602140)
 
 
 
 #### § 29 Jährliche Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003702140)
 
 (1) Die zentrale Leitung hat den Europäischen Betriebsrat einmal im
 Kalenderjahr über die Entwicklung der Geschäftslage und die
@@ -752,6 +788,7 @@ des Absatzes 1 gehören insbesondere
 
 
 #### § 30 Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003802140)
 
 (1) Über außergewöhnliche Umstände oder Entscheidungen, die erhebliche
 Auswirkungen auf die Interessen der Arbeitnehmer haben, hat die
@@ -783,6 +820,7 @@ Ausschussmitglieder.
 
 
 #### § 31 Tendenzunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE003902140)
 
 Auf Unternehmen und herrschende Unternehmen von Unternehmensgruppen,
 die unmittelbar und überwiegend den in § 118 Absatz 1 Satz 1 Nummer 1
@@ -795,10 +833,12 @@ Betriebsänderungen entstehen.
 
 
 ### Vierter Abschnitt - Änderung der Zusammensetzung, Übergang zu einer Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG004102140)
 
 
 
 #### § 32 Dauer der Mitgliedschaft, Neubestellung von Mitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004102140)
 
 (1) Die Dauer der Mitgliedschaft im Europäischen Betriebsrat beträgt
 vier Jahre, wenn sie nicht durch Abberufung oder aus anderen Gründen
@@ -823,6 +863,7 @@ vertretenen Mitgliedstaates.
 
 
 #### § 33 Aufnahme von Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004202140)
 
 Vier Jahre nach der konstituierenden Sitzung (§ 25 Absatz 1) hat der
 Europäische Betriebsrat mit der Mehrheit der Stimmen seiner Mitglieder
@@ -836,10 +877,12 @@ Amt des Europäischen Betriebsrats endet, wenn eine Vereinbarung nach §
 
 
 ## Fünfter Teil - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG004302140)
 
 
 
 ### § 34 Vertrauensvolle Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004402140)
 
 Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll
 zum Wohl der Arbeitnehmer und des Unternehmens oder der
@@ -849,6 +892,7 @@ im Rahmen eines Verfahrens zur Unterrichtung und Anhörung.
 
 
 ### § 35 Geheimhaltung, Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004502140)
 
 (1) Die Pflicht der zentralen Leitung, über die im Rahmen der §§ 18
 und 19 vereinbarten oder die sich aus den §§ 29 und 30 Absatz 1
@@ -909,6 +953,7 @@ Satz 3 und 4 gelten entsprechend für
 
 
 ### § 36 Unterrichtung der örtlichen Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005401140)
 
 (1) Der Europäische Betriebsrat oder der Ausschuss (§ 30 Absatz 2)
 berichtet den örtlichen Arbeitnehmervertretern oder, wenn es diese
@@ -928,6 +973,7 @@ zuzuleiten.
 
 
 ### § 37 Wesentliche Strukturänderung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005501140)
 
 (1) Ändert sich die Struktur des gemeinschaftsweit tätigen
 Unternehmens oder der gemeinschaftsweit tätigen Unternehmensgruppe
@@ -977,6 +1023,7 @@ den Fällen des § 21 Absatz 1 ein Europäischer Betriebsrat nach den §§
 
 
 ### § 38 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005601140)
 
 (1) Der Europäische Betriebsrat kann Mitglieder zur Teilnahme an
 Schulungs- und Bildungsveranstaltungen bestimmen, soweit diese
@@ -993,6 +1040,7 @@ Absatz 1 Satz 1 bis 3 entsprechend.
 
 
 ### § 39 Kosten, Sachaufwand und Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005701140)
 
 (1) Die durch die Bildung und Tätigkeit des Europäischen Betriebsrats
 und des Ausschusses entstehenden Kosten trägt die zentrale Leitung.
@@ -1013,6 +1061,7 @@ Vereinbarung nach § 18 oder § 19 sieht etwas anderes vor.
 
 
 ### § 40 Schutz inländischer Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004602140)
 
 (1) Für die Mitglieder eines Europäischen Betriebsrats, die im Inland
 beschäftigt sind, gelten § 37 Absatz 1 bis 5 und die §§ 78 und 103 des
@@ -1027,10 +1076,12 @@ Verfahrens zur Unterrichtung und Anhörung.
 
 
 ## Sechster Teil - Bestehende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG004701140)
 
 
 
 ### § 41 Fortgeltung
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE004803140)
 
 (1) Auf die in den §§ 2 und 3 genannten Unternehmen und
 Unternehmensgruppen, in denen vor dem 22. September 1996 eine
@@ -1097,10 +1148,12 @@ Vereinbarung wirksam ist; Absatz 4 gilt entsprechend.
 
 
 ## Siebter Teil - Besondere Vorschriften, Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNG004902116)
 
 
 
 ### § 41a Besondere Regelungen für Besatzungsmitglieder von Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005002360)
 
 (1) Ist ein Mitglied des besonderen Verhandlungsgremiums, eines
 Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne
@@ -1126,6 +1179,7 @@ neuer Informations- und Kommunikationstechnologien erfolgen, wenn
 
 
 ### § 41b Sonderregelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005805126)
 
 Bis zum Ablauf des 7. April 2023 können die Teilnahme an Sitzungen des
 besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder
@@ -1136,6 +1190,7 @@ Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
 
 
 ### § 42 Errichtungs- und Tätigkeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005001140)
 
 Niemand darf
 
@@ -1161,6 +1216,7 @@ Niemand darf
 
 
 ### § 43 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005102140)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 35 Absatz 2 Satz 1 oder 2, jeweils auch in
@@ -1171,6 +1227,7 @@ verwertet.
 
 
 ### § 44 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005202140)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1202,6 +1259,7 @@ eine im Betrieb vertretene Gewerkschaft antragsberechtigt.
 
 
 ### § 45 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ebrg/BJNR154810996.html#BJNR154810996BJNE005303140)
 
 (1) Ordnungswidrig handelt, wer
 

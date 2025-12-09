@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Umfang der Vergünstigung
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000100309)
 
 (1) Bei Ermittlung der Einkünfte aus Land- und Forstwirtschaft können
 buchführende Land- und Forstwirte für den Bau von
@@ -45,6 +46,7 @@ land- und forstwirtschaftlichen Betriebs entstanden sind.
 
 
 ## § 1a Vergünstigung bei Verpächtern
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000200309)
 
 Verpächter land- und forstwirtschaftlicher Betriebe, Teilbetriebe oder
 Betriebsteile, bei denen die Einkünfte aus der Verpachtung Einkünfte
@@ -58,6 +60,7 @@ Dezember 1977 hergestellt werden.
 
 
 ## § 1b Ausschließung der Anwendung von Vorschriften des Einkommensteuergesetzes
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000300309)
 
 Für Landarbeiterwohnungen, für die der Steuerpflichtige die
 Vergünstigungen des § 1 oder des § 1a in Anspruch nimmt, ist die
@@ -66,6 +69,7 @@ ausgeschlossen.
 
 
 ## § 2 Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000400309)
 
 (1) Als Land- und Forstwirte gelten alle natürlichen Personen, die
 Einkünfte aus Land- und Forstwirtschaft im Sinne des § 13 des
@@ -80,6 +84,7 @@ verpachten.
 
 
 ## § 3 Begriff der Landarbeiterwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000500309)
 
 (1) Landarbeiterwohnungen sind Wohnungen oder Wohnräume in
 landwirtschaftlichen oder forstwirtschaftlichen Betriebsgebäuden für
@@ -111,12 +116,14 @@ Berechnungsverordnung in der jeweils geltenden Fassung.
 
 
 ## § 4 Selbstaufbringungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000600309)
 
 Für die Absetzung nach § 1 oder § 1a kommen nur die eigenen
 Aufwendungen (Selbstaufbringungsbetrag) in Betracht.
 
 
 ## § 5 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000700309)
 
 Die vorstehende Fassung der Verordnung ist erstmals für
 Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 1973 beginnen;
@@ -125,6 +132,7 @@ anzuwenden.
 
 
 ## § 6 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000800309)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
@@ -133,6 +141,7 @@ des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/larbwov/BJNR007300950.html#BJNR007300950BJNE000900309)
 
 Die vorstehende Fassung dieser Verordnung tritt am 14. August 1974 in
 Kraft.

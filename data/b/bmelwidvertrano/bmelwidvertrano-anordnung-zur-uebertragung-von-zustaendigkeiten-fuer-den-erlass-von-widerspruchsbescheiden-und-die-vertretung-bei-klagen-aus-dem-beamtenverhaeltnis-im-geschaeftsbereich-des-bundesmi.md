@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -26,6 +27,7 @@ Bundesministerium für Ernährung und Landwirtschaft an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000200000)
 
 Die Befugnis, Widerspruchsbescheide in beamtenrechtlichen
 Angelegenheiten zu erlassen, wird den folgenden Behörden übertragen,
@@ -65,6 +67,7 @@ soweit diese die Maßnahme getroffen haben:
 
 
 ## § 2 Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000300000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamtenverhältnis wird den Präsidentinnen und Präsidenten der in § 1
@@ -73,6 +76,7 @@ die Entscheidung über Widersprüche zuständig sind.
 
 
 ## § 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000400000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft behält sich
 vor, im Einzelfall die Befugnisse und die Vertretung nach den §§ 1 und
@@ -80,6 +84,7 @@ vor, im Einzelfall die Befugnisse und die Vertretung nach den §§ 1 und
 
 
 ## § 4 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000500000)
 
 Auf Widersprüche und Klagen, die vor dem 1. Juni 2017 erhoben worden
 sind, sind die in § 5 Absatz 2 genannten Anordnungen weiter
@@ -87,6 +92,7 @@ anzuwenden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmelwidvertrano/BJNR129400017.html#BJNR129400017BJNE000600000)
 
 (1) Diese Anordnung tritt am 1. Juni 2017 in Kraft.
 

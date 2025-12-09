@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Teil I - Beitritt und Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000100307)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000200307)
 
 (1) Dem Beitritt der Bundesrepublik Deutschland zu dem Abkommen
 zwischen den Parteien des Nordatlantikvertrags von London vom 19. Juni
@@ -102,6 +104,7 @@ veröffentlicht.
 
 
 ### Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000300307)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 20 des Zusatzabkommens
@@ -109,14 +112,17 @@ eingeschränkt.
 
 
 ## Teil II - Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000400307)
 
 
 
 ### Kapitel 1 - Ausführungsbestimmungen zu Artikel VII Abs 5 und 6 des NATO-Truppenstatuts und zu Artikel 19 und 75 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000501307)
 
 
 
 #### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000600307)
 
 (1) Die Rücknahme des Verzichts auf das den deutschen Behörden nach
 Artikel VII Abs. 3 Buchstabe b des NATO-Truppenstatuts in den Fällen
@@ -133,6 +139,7 @@ entsprechend.
 
 
 #### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000700307)
 
 Für den Empfang von Mitteilungen über anhängige Fälle im Sinne des
 Artikels 75 Abs. 1 Buchstabe b des Zusatzabkommens ist jede
@@ -140,6 +147,7 @@ Staatsanwaltschaft im Geltungsbereich dieses Gesetzes zuständig.
 
 
 #### Art 4a - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000800307)
 
 Die in Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
 Truppenstatuts geregelte Zusammenarbeit in strafrechtlichen
@@ -148,6 +156,7 @@ auszuführen:
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNE000200307)
 
 Soweit die Behörden des Entsendestaates die Gerichtsbarkeit ausüben,
 sind die Strafverfolgungsbehörden auf deren Ersuchen befugt, zur
@@ -162,6 +171,7 @@ nachstehend nicht anderes bestimmt ist.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNE000300307)
 
 Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des
 NATO-Truppenstatuts erforderliche Beschlagnahme und Durchsuchung
@@ -173,6 +183,7 @@ Staatsanwaltschaft zuerst mit der Sache befaßt wurde.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNE000401310)
 
 (1) Ist nach Eingang eines Ersuchens um Festnahme und Übergabe nach
 Artikel VII Abs. 5 Buchstabe a des NATO-Truppenstatuts der
@@ -215,6 +226,7 @@ die vom Gericht angeordnete Übergabe durch.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNE000500307)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -223,10 +235,12 @@ des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.
 
 
 ### Kapitel 1a - Ausführungsbestimmungen zu Artikel 3 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG000900307)
 
 
 
 #### Art 4b
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001000307)
 
 Unbeschränkte Auskünfte aus dem Zentralregister gemäß § 41 des
 Bundeszentralregistergesetzes können den Behörden der Entsendestaaten
@@ -247,14 +261,17 @@ Sicherheitsüberprüfungen von Personen, die
 
 
 ### Kapitel 2 - Ausführungsbestimmungen zu Artikel 35 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001100307)
 
 
 
 ### Kapitel 2 - Ausführungsbestimmungen zu Artikel 32 und 35 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001101307)
 
 
 
 #### Art 4c
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001201320)
 
 (1) Bei Zustellungen an Angehörige von Mitgliedern einer Truppe oder
 eines zivilen Gefolges müssen in der in Artikel 32 Abs. 2 des
@@ -304,6 +321,7 @@ Angaben.
 
 
 #### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001300307)
 
 (1) Bei der Zwangsvollstreckung aus einem privatrechtlichen
 Vollstreckungstitel kann das Ersuchen in den Fällen des Artikels 35
@@ -332,10 +350,12 @@ Forderungen entsprechend Anwendung.
 
 
 ### Kapitel 3 - Ausführungsbestimmungen zu Art 41 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001400307)
 
 
 
 #### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001500307)
 
 (1) Ansprüche der in Artikel VIII Abs. 5 des NATO-Truppenstatuts
 genannten Art gegen die Entsendestaaten sind zur Vermeidung des
@@ -367,6 +387,7 @@ bleibt unberührt.
 
 
 #### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001600307)
 
 Bei Schadensfällen der in Artikel 41 Abs. 10 des Zusatzabkommens
 genannten Art gilt der Anspruch auf Entschädigung als mit der Freigabe
@@ -378,6 +399,7 @@ Satz 2 ist entsprechend anzuwenden.
 
 
 #### Art 8 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001702310)
 
 Zuständig ist die Verteidigungslastenverwaltung. Sie wird in
 bundeseigener Verwaltung mit eigenem Verwaltungsunterbau oder in einer
@@ -388,6 +410,7 @@ veröffentlicht.
 
 
 #### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001800307)
 
 (1) Die Ansprüche sind durch Einreichung eines Antrags auf
 Entschädigung geltend zu machen.
@@ -404,6 +427,7 @@ Antrag anzugeben.
 
 
 #### Art 10
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG001900307)
 
 (1) Die Behörde hat den Eingang des Antrags unter Angabe des
 Eingangstags schriftlich zu bestätigen.
@@ -418,6 +442,7 @@ Mitteilung über die Entschließung nach Artikel 11 Abs. 1 ergeht.
 
 
 #### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002000307)
 
 (1) Die Behörde hat dem Antragsteller ihre Entschließung darüber
 mitzuteilen, ob und inwieweit sie einen geltend gemachten Anspruch als
@@ -435,6 +460,7 @@ zu gewährende Entschädigung abgeschlossen wird.
 
 
 #### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002100307)
 
 (1) Hat die Behörde einen geltend gemachten Anspruch nicht oder nicht
 in vollem Umfang anerkannt, so kann der Antragsteller Klage vor den
@@ -469,6 +495,7 @@ Schiedsrichters herbeizuführen.
 
 
 #### Art 13
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002200307)
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang
 oder zum Teil anerkannt, so sind die danach zahlbaren und fälligen
@@ -485,6 +512,7 @@ gerechtfertigt ist.
 
 
 #### Art 14 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002301320)
 
 Für Anträge, die einen Anspruch auf Ersatzleistung wegen
 Manöverschäden (§ 76 des Bundesleistungsgesetzes) zum Gegenstand
@@ -522,24 +550,29 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
 
 
 #### Art 15 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002400307)
 
 -
 
 
 ### Kapitel 4 - Ausführungsbestimmungen zu Art 45 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002500307)
 
 
 
 #### Art 16 u. 17 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002600307)
 
 -
 
 
 ### Kapitel 5 - Ausführungsbestimmungen zu Art 48 Abs. 2 des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002700307)
 
 
 
 #### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002800307)
 
 Für Liegenschaften, die nach Artikel 48 Abs. 2 des Zusatzabkommens
 einer Truppe oder einem zivilen Gefolge weiter zu überlassen sind,
@@ -547,6 +580,7 @@ gelten die Artikel 19 bis 21.
 
 
 #### Art 19
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG002900307)
 
 Soweit nicht § 64 Abs. 3 Satz 1 des Landbeschaffungsgesetzes in der
 Fassung des Artikels 1 Nr. 4 des Gesetzes zur Änderung von
@@ -573,6 +607,7 @@ entsprechend.
 
 
 #### Art 20
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003000307)
 
 Die Beschaffung nicht Wohnzwecken dienender Liegenschaften, die nach §
 85 Abs. 1 des Bundesleistungsgesetzes angefordert wurden, regelt sich
@@ -581,22 +616,26 @@ Anwendung.
 
 
 #### Art 21
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003100307)
 
 Das Enteignungsverfahren wird von den Ländern im Auftrag des Bundes
 durchgeführt.
 
 
 ### Kapitel 5a - Ausführungsbestimmungen und Übergangsregelungen zu Artikel 49, 53 und 53A des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003200307)
 
 
 
 #### Art 21a
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003300307)
 
 Auf Vorhaben der Entsendestaaten finden § 37 des Baugesetzbuches und §
 29a Abs. 2 des Abfallgesetzes Anwendung.
 
 
 #### Art 21b
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003400307)
 
 (1) Anlagen und Einrichtungen, die am Tage des Inkrafttretens des
 Abkommens zur Änderung des Zusatzabkommens zum NATO-Truppenstatut auf
@@ -649,6 +688,7 @@ des Zusatzabkommens zum NATO-Truppenstatut enthaltene
 
 
 #### Art 21c
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003500307)
 
 (1) Die in Artikel 53A des Zusatzabkommens zum NATO-Truppenstatut
 vorgesehene Verfahrens- und Prozeßstandschaft deutscher Bundesbehörden
@@ -663,10 +703,12 @@ befolgen haben. Hiervon gibt sie den Verfahrensbeteiligten Kenntnis.
 
 
 ### Kapitel 6 - Ausführungsbestimmungen zu Art 57 Abs. 4 Buchstabe b des Zusatzabkommens
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003600307)
 
 
 
 #### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003700307)
 
 (1) Kommt eine Vereinbarung über die Einbeziehung einer Straße in das
 gemäß Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu
@@ -681,6 +723,7 @@ Beteiligten vorauszugehen.
 
 
 #### Art 23 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003803116)
 
 Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
 Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
@@ -697,19 +740,23 @@ die Ersparnis von Aufwendungen zu berücksichtigen.
 
 
 ### Kapitel 7 - Ausführungsbestimmungen zu dem Abkommen vom 3. August 1959 zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG003900307)
 
 
 
 #### Art 24 - 
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG004001307)
 
 -
 
 
 ### Kapitel 8 - Prozeßstandschaft
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG004100307)
 
 
 
 #### Art 25
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG004200307)
 
 Ergeht in einem gerichtlichen Verfahren, in dem die Klage oder der
 Antrag nach dem Zusatzabkommen in Verbindung mit dem NATO-
@@ -724,10 +771,12 @@ hat, dem die Leistung obliegt.
 
 
 ## Teil III - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG004300307)
 
 
 
 ### Art 26
+[Direktlink](https://www.gesetze-im-internet.de/natotrstatvtrg/BJNR211839961.html#BJNR211839961BJNG004400307)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 3 bis 25 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 3 bis 25 treten gleichzeitig

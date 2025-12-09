@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bkdv/BJNR200230962.html#BJNR200230962BJNE000100328)
 
 Auf Grund des § 32 Abs. 1 Nr. 2 des Luftverkehrsgesetzes in der
 Fassung vom 10. Januar 1959 (Bundesgesetzbl. I S. 9), geändert durch
@@ -28,6 +29,7 @@ Bundesrates verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bkdv/BJNR200230962.html#BJNR200230962BJNE000200328)
 
 Für die Anerkennung der Lufttüchtigkeitszeugnisse eingeführter
 Luftfahrzeuge gelten die Bestimmungen des Mehrseitigen Übereinkommens
@@ -36,6 +38,7 @@ Luftfahrzeuge. Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bkdv/BJNR200230962.html#BJNR200230962BJNE000300328)
 
 Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge werden nach
 Artikel 2 Abs. 1 Buchstabe b des Übereinkommens durch Erteilung eines
@@ -43,6 +46,7 @@ Lufttüchtigkeitszeugnisses der Bundesrepublik Deutschland anerkannt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bkdv/BJNR200230962.html#BJNR200230962BJNE000400328)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen nach seinem Artikel 11 Abs. 1 für die Bundesrepublik
@@ -56,6 +60,7 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftfzg_bkdv/BJNR200230962.html#BJNR200230962BJNE000500328)
 
 Der Bundesminister für Verkehr
 

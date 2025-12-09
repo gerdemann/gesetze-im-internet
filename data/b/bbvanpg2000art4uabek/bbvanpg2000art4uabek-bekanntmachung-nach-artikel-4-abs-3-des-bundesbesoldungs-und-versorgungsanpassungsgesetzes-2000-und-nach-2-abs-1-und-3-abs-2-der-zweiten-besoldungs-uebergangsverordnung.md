@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000100310)
 
 Auf Grund des Artikels 4 Abs. 3 des Bundesbesoldungs- und
 -versorgungsanpassungsgesetzes 2000 vom 19. April 2000 (BGBl. I S.
@@ -57,6 +58,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage 1 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000200310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 649 - 651)
 
@@ -900,6 +902,7 @@ Der Bundesminister des Innern
 (Anlage V des BBesG)
 
 ## Anlage 2 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000300310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 652)
 
@@ -971,6 +974,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIa des BBesG)
 
 ## Anlage 3a Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000400310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 653
 
@@ -1336,6 +1340,7 @@ Auslandszuschlag (§ 55 Abs. 2)
 (Anlage VIb des BBesG)
 
 ## Anlage 3b Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000500310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 653
 
@@ -1701,6 +1706,7 @@ Auslandszuschlag (§ 55 Abs. 3)
 (Anlage VIc des BBesG)
 
 ## Anlage 3c Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000600310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 654
 
@@ -2066,6 +2072,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VId des BBesG)
 
 ## Anlage 3d Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000700310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 654
 
@@ -2432,6 +2439,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VIe des BBesG)
 
 ## Anlage 3e Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000800310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
 
@@ -2798,6 +2806,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VIf des BBesG)
 
 ## Anlage 3f Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE000900310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
 
@@ -3161,6 +3170,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIg des BBesG)
 
 ## Anlage 3g Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001000310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 656
 
@@ -3524,6 +3534,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIh des BBesG)
 
 ## Anlage 3h Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001100310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 656
 
@@ -3887,6 +3898,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIi des BBesG)
 
 ## Anlage 3i Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001200310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 657
 
@@ -3965,6 +3977,7 @@ Auslandskinderzuschlag (§ 56)
 (Anlage VIII des BBesG)
 
 ## Anlage 4 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001300310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 657
 
@@ -4013,6 +4026,7 @@ Anwärtergrundbetrag
 (Anlage IX des BBesG)
 
 ## Anlage 5 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001400310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 658 - 660)
 
@@ -5153,6 +5167,7 @@ Anwärtergrundbetrag
 (Anlage IV des BBesG)
 
 ## Anlage 6 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001500310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 661 - 663
 
@@ -6066,6 +6081,7 @@ Grundgehaltssätze
    (Anlage V des BBesG)
 
 ## Anlage 7 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001600310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 664
 
@@ -6134,6 +6150,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIa des BBesG)
 
 ## Anlage 8a Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001700310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 665
 
@@ -6499,6 +6516,7 @@ Auslandszuschlag (§ 55 Abs. 2)
 (Anlage VIb des BBesG)
 
 ## Anlage 8b Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001800310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 665
 
@@ -6864,6 +6882,7 @@ Auslandszuschlag (§ 55 Abs. 3)
 (Anlage VIc des BBesG)
 
 ## Anlage 8c Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE001900310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 666
 
@@ -7229,6 +7248,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VId des BBesG)
 
 ## Anlage 8d Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002000310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 666
 
@@ -7595,6 +7615,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VIe des BBesG)
 
 ## Anlage 8e Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002100310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
 
@@ -7961,6 +7982,7 @@ Auslandszuschlag (§ 55 Abs. 4)
 (Anlage VIf des BBesG)
 
 ## Anlage 8f Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002200310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
 
@@ -8324,6 +8346,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIg des BBesG)
 
 ## Anlage 8g Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002300310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 668
 
@@ -8687,6 +8710,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIh des BBesG)
 
 ## Anlage 8h Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002400310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 668
 
@@ -9050,6 +9074,7 @@ Auslandszuschlag (§ 55 Abs. 5)
    (Anlage VIi des BBesG)
 
 ## Anlage 8i Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002500310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 669
 
@@ -9128,6 +9153,7 @@ Auslandskinderzuschlag (§ 56)
 (Anlage VIII des BBesG)
 
 ## Anlage 9 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002600310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 669
 
@@ -9176,6 +9202,7 @@ Anwärtergrundbetrag
 (Anlage IX des BBesG)
 
 ## Anlage 10 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002700310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 670 - 672)
 
@@ -10319,6 +10346,7 @@ Anwärtergrundbetrag
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 11 Gültig ab 1. August 2000
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002800310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 673 - 675
 
@@ -11233,6 +11261,7 @@ Grundgehaltssätze
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 12 Gültig ab 1. August 2000
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE002900310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 676
 
@@ -11290,6 +11319,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 13 Gültig ab 1. August 2000
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003000310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 677)
 
@@ -11345,6 +11375,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 14 Gültig ab 1. August 2000
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003100310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 678 - 680)
 
@@ -12510,6 +12541,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 15 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003200310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 681 - 683
 
@@ -13424,6 +13456,7 @@ Grundgehaltssätze
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 16 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003300310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 684)
 
@@ -13503,6 +13536,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 17 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003400310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 685
 
@@ -13552,6 +13586,7 @@ Anwärtergrundbetrag
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 18 Gültig ab 1. Januar 2001
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003500310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 686 - 688)
 
@@ -14694,6 +14729,7 @@ Anwärtergrundbetrag
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 19 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003600310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 689 - 691
 
@@ -15608,6 +15644,7 @@ Grundgehaltssätze
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 20 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003700310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 692
 
@@ -15666,6 +15703,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 21 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003800310)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 693
 
@@ -15715,6 +15753,7 @@ Anwärtergrundbetrag
 (Zweite Besoldungs-Übergangsverordnung)
 
 ## Anlage 22 Gültig ab 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg2000art4uabek/BJNR064800001.html#BJNR064800001BJNE003900310)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 694 - 696)
 

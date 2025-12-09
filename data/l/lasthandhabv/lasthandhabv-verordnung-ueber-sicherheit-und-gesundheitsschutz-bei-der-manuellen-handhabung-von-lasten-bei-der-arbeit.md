@@ -30,6 +30,7 @@ insbesondere eine Gefährdung der Lendenwirbelsäule mit sich bringt
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lasthandhabv/BJNR184200996.html#BJNR184200996BJNE000706124)
 
 (1) Diese Verordnung gilt für die manuelle Handhabung von Lasten, die
 aufgrund ihrer Merkmale oder ungünstiger ergonomischer Bedingungen für
@@ -60,6 +61,7 @@ Verordnung auf andere Weise gewährleistet werden.
 
 
 ## § 2 Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lasthandhabv/BJNR184200996.html#BJNR184200996BJNE000800000)
 
 (1) Der Arbeitgeber hat unter Zugrundelegung des Anhangs geeignete
 organisatorische Maßnahmen zu treffen oder geeignete Arbeitsmittel,
@@ -78,6 +80,7 @@ möglichst gering gehalten wird.
 
 
 ## § 3 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/lasthandhabv/BJNR184200996.html#BJNR184200996BJNE000900000)
 
 Bei der Übertragung von Aufgaben der manuellen Handhabung von Lasten,
 die für die Beschäftigten zu einer Gefährdung für Sicherheit und
@@ -86,6 +89,7 @@ Beschäftigten zur Ausführung der Aufgaben zu berücksichtigen.
 
 
 ## § 4 Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/lasthandhabv/BJNR184200996.html#BJNR184200996BJNE001000000)
 
 Bei der Unterweisung nach § 12 des Arbeitsschutzgesetzes hat der
 Arbeitgeber insbesondere den Anhang und die körperliche Eignung der
@@ -97,6 +101,7 @@ ausgesetzt sind.
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/lasthandhabv/BJNR184200996.html#BJNR184200996BJNE001100000)
 
 Merkmale, aus denen sich eine Gefährdung von Sicherheit und
 Gesundheit, insbesondere der Lendenwirbelsäule, der Beschäftigten

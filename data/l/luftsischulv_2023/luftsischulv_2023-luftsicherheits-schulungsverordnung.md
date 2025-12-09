@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000100000)
 
 Auf Grund des § 17 Absatz 3 und 4 des Luftsicherheitsgesetzes, der
 durch Artikel 1 Nummer 19 Buchstabe c des Gesetzes vom 23. Februar
@@ -29,9 +30,11 @@ Verkehr:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000300000)
 
 Diese Verordnung gilt
 
@@ -84,6 +87,7 @@ Diese Verordnung gilt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000400000)
 
 (1) Luftsicherheitskontrollpersonal sind Personen, die für die
 Kontrollen von Personen, Handgepäck, mitgeführten Gegenständen,
@@ -142,9 +146,11 @@ einer Lernsoftware durchgeführt wird.
 
 
 ## Abschnitt 2 - Schulung von Personal
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000200000)
 
 
 ### § 3 Schulungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000500000)
 
 (1) Für Personen, die nach § 7 Absatz 1 Satz 1 Nummer 1 bis 3 des
 Luftsicherheitsgesetzes zu überprüfen sind, muss die
@@ -167,6 +173,7 @@ Anforderungen für das Luftsicherheitskontrollpersonal sind der Anlage
 
 
 ### § 4 Schulungen und Fortbildungen von Luftsicherheitskontrollpersonal, Aufsichtspersonal und Sicherheitsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000600000)
 
 (1) Schulungen und Fortbildungen von Luftsicherheitskontrollpersonal,
 Aufsichtspersonal und Sicherheitsbeauftragten werden grundsätzlich
@@ -194,6 +201,7 @@ Elternzeit überschritten werden.
 
 
 ### § 5 Schulungen und Fortbildungen von Sicherheitspersonal und anderem Personal
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000700000)
 
 (1) Schulungen und Fortbildungen von Sicherheitspersonal und anderem
 Personal können durch Ausbilder, durch computergestützte Schulungen
@@ -228,6 +236,7 @@ Vorgaben der Anlage 7 erfüllt werden.
 
 
 ### § 6 Schulungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000800000)
 
 (1) Luftsicherheitskontrollpersonal zur Kontrolle von Personen,
 Handgepäck, mitgeführten Gegenständen und aufgegebenem Gepäck im Sinne
@@ -320,6 +329,7 @@ Beachtung von Anlage 2.
 
 
 ### § 7 Schulungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE000900000)
 
 (1) Die Inhalte der durchzuführenden Schulungen richten sich nach den
 Angaben in den Nummern 11.2.3.1 bis 11.2.7 des Anhangs der
@@ -337,6 +347,7 @@ inhaltliche Schwerpunktsetzung der Schulung unter Beachtung von Anlage
 
 
 ### § 8 Schulungsnachweis, Lernerfolgskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001000000)
 
 (1) Jede Person, die an einer Schulung erfolgreich teilgenommen hat,
 erhält einen vom Ausbilder unterschriebenen Schulungsnachweis. Bei
@@ -363,9 +374,11 @@ teilgenommen hat.
 
 
 ## Abschnitt 3 - Zuständige Luftsicherheitsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000300000)
 
 
 ### § 9 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001100000)
 
 (1) Zuständig für die Prüfung, die Erteilung und den Widerruf des
 Zertifikats sowie für die Rezertifizierung von
@@ -484,9 +497,11 @@ computergestützte Schulungen nach den §§ 4 und 5 ist
 
 
 ## Abschnitt 4 - Zertifizierung und Rezertifizierung des Luftsicherheitskontrollpersonals
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000400000)
 
 
 ### § 10 Antragstellung zur Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001200000)
 
 (1) Die Zertifizierung von Luftsicherheitskontrollpersonal nach Nummer
 11\.3.1 a) des Anhangs der Durchführungsverordnung (EU) 2015/1998, das
@@ -518,6 +533,7 @@ nach Abschluss der Schulung zu stellen.
 
 
 ### § 11 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001300000)
 
 (1) Die Zertifizierung des Luftsicherheitskontrollpersonals nach
 Nummer 11.3.1 a) des Anhangs der Durchführungsverordnung (EU)
@@ -536,6 +552,7 @@ entnehmen.
 
 
 ### § 12 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001400000)
 
 (1) Die für die Prüfung zuständige Luftsicherheitsbehörde beruft einen
 Prüfungsausschuss ein und benennt seinen Vorsitzenden, der Mitarbeiter
@@ -561,6 +578,7 @@ Luftsicherheitsbehörden zur Beobachtung der Prüfung zulassen.
 
 
 ### § 13 Bewertung von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001500000)
 
 (1) Die theoretische Prüfung ist bestanden, wenn die zu prüfende
 Person mindestens 70 Prozent der zu erreichenden Punktzahl in jeder
@@ -595,6 +613,7 @@ die Vorsitzende.
 
 
 ### § 14 Reihenfolge und Wiederholung von theoretischer und praktischer Prüfung; endgültiges Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001600000)
 
 (1) Zur praktischen Prüfung wird nur zugelassen, wer die theoretische
 Prüfung bestanden hat.
@@ -609,6 +628,7 @@ zugelassen werden.
 
 
 ### § 15 Störung der Prüfung und Täuschungsversuch
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001700000)
 
 Hat die zu prüfende Person die ordnungsgemäße Durchführung der Prüfung
 in erheblichem Maße gestört oder einen Täuschungsversuch unternommen,
@@ -620,6 +640,7 @@ nur bis zum Abschluss der gesamten Prüfung zulässig.
 
 
 ### § 16 Erteilung des Zertifikats
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001800000)
 
 (1) Nach erfolgreich abgeschlossener Prüfung des
 Luftsicherheitskontrollpersonals für Tätigkeiten nach den Nummern
@@ -652,6 +673,7 @@ ohne eine Prüfung ablegen zu müssen, das entsprechende Zertifikat.
 
 
 ### § 17 Widerruf des Zertifikats
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE001900000)
 
 (1) Das Zertifikat ist von der zuständigen Luftsicherheitsbehörde zu
 widerrufen, wenn die nach § 7 des Luftsicherheitsgesetzes
@@ -672,6 +694,7 @@ statt abzugeben.
 
 
 ### § 18 Rezertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002000000)
 
 (1) Luftsicherheitskontrollpersonal nach § 2 Absatz 1 ist nach den
 zeitlichen Vorgaben in Nummer 11.3.1. b) und c) des Anhangs der
@@ -719,9 +742,11 @@ ausgestellt.
 
 
 ## Abschnitt 5 - Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000500000)
 
 
 ### § 19 Ausbilderzertifikat
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002100000)
 
 (1) Wer Schulungen im Sinne der Nummern 11.2, 11.6 oder 12.9.3 des
 Anhangs der Durchführungsverordnung (EU) 2015/1998 durchführt
@@ -765,6 +790,7 @@ Ausbilder werden möchten.
 
 
 ### § 20 Verfahren zur Erteilung des Ausbilderzertifikats
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002200000)
 
 (1) Die zuständige Luftsicherheitsbehörde erteilt das
 Ausbilderzertifikat für fünf Jahre, wenn die Antragsunterlagen
@@ -901,6 +927,7 @@ Durchführungsverordnung (EU) 2015/1998 verfügen.
 
 
 ### § 21 Widerruf eines erteilten Ausbilderzertifikats, Suspendierung des Ausbilders, Streichung von der Ausbilderliste
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002300000)
 
 (1) Das Ausbilderzertifikat ist von der zuständigen
 Luftsicherheitsbehörde zu widerrufen, wenn
@@ -948,6 +975,7 @@ die Ausbilderliste aufzunehmen.
 
 
 ### § 22 Fortbildungsverpflichtung der Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002400000)
 
 (1) Ausbilder müssen entsprechend Nummer 11.5.2 des Anhangs der
 Durchführungsverordnung (EU) 2015/1998 ab dem Zeitpunkt der Erteilung
@@ -961,6 +989,7 @@ die Ausbilderfunktionen wahrnehmen.
 
 
 ### § 23 Rezertifizierung der Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002500000)
 
 (1) Ausbilder müssen mindestens alle fünf Jahre rezertifiziert werden.
 
@@ -992,9 +1021,11 @@ Ausbilderzertifikats anerkennen.
 
 
 ## Abschnitt 6 - Schulungen von Sprengstoffspürhunden, Hundeführern und des Sprengstoffspürhunde-Teams
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000600000)
 
 
 ### § 24 Schulungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002600000)
 
 Voraussetzungen für die Zulassung eines Sprengstoffspürhunde-Teams,
 das aus einem Sprengstoffspürhund und einem Hundeführer besteht, sind
@@ -1005,6 +1036,7 @@ des Hundeführers und eine Erstschulung des Sprengstoffspürhunde-Teams.
 
 
 ### § 25 Schulungsumfang und Schulungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002700000)
 
 (1) Ein Sprengstoffspürhund, der nach den Nummern 12.9.2.2 und
 12\.9.2.3 des Anhangs der Durchführungsverordnung (EU) 2015/1998
@@ -1030,12 +1062,14 @@ mit den Inhalten der Anlage 4 übereinstimmen und nachgewiesen werden.
 
 
 ### § 26 Schulungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002800000)
 
 Nach erfolgreichem Abschluss einer der Schulungen nach § 25 Absatz 1
 bis 3 erteilt der Ausbilder einen entsprechenden Schulungsnachweis.
 
 
 ### § 27 Wiederholungsschulung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE002900000)
 
 (1) Sprengstoffspürhunde und Hundeführer haben nach Nummer 12.9.3.9
 des Anhangs der Durchführungsverordnung (EU) 2015/1998 jeder für sich
@@ -1057,6 +1091,7 @@ zuständigen Luftsicherheitsbehörde zu dokumentieren.
 
 
 ### § 28 Ausbilderzertifikat für die Schulung von Sprengstoffspürhunde-Teams
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003000000)
 
 Die Berechtigung zur Schulung von Sprengstoffspürhunde-Teams erfordert
 nach Nummer 12.9.3.3 des Anhangs der Durchführungsverordnung (EU)
@@ -1067,9 +1102,11 @@ entnehmen.
 
 
 ## Abschnitt 7 - Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000700000)
 
 
 ### § 29 Fortbildungspflicht, Fortbildungsumfang und Fortbildungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003100000)
 
 (1) Luftsicherheitskontrollpersonal, Aufsichtspersonal und
 Sicherheitsbeauftragte unterliegen einer Fortbildungspflicht. Die
@@ -1109,12 +1146,14 @@ sich nach der Anlage 6.
 
 
 ### § 30 Fortbildungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003200000)
 
 Fortbildungen werden grundsätzlich von Ausbildern durchgeführt. § 4
 Absatz 1 Satz 2 und 3 gelten entsprechend.
 
 
 ### § 31 Fortbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003300000)
 
 (1) Der Ausbilder händigt jeder Person, die eine Fortbildung durch
 eine Lernerfolgskontrolle nach § 8 Absatz 2 erfolgreich absolviert
@@ -1160,6 +1199,7 @@ Fortbildungsnachweis in Kopie oder elektronisch zuzuleiten.
 
 
 ### § 32 Verletzung der Fortbildungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003400000)
 
 (1) Luftsicherheitskontrollpersonal, das seine Pflicht zur
 regelmäßigen Fortbildung nach § 29 verletzt, darf nicht mehr für
@@ -1203,9 +1243,11 @@ Umfang der versäumten Fortbildung absolviert hat.
 
 
 ## Abschnitt 8 - Dokumentationspflichten, Anerkennung von Schulungsnachweisen, Fortbildungsnachweisen und Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000800000)
 
 
 ### § 33 Dokumentations- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003500000)
 
 (1) Inhalt und Umfang der Schulungen und Fortbildungen sind vom
 Ausbilder zu dokumentieren. Die Dokumentation nach Satz 1 ist für die
@@ -1223,6 +1265,7 @@ oder Dienstleister ihr diese Unterlagen zur Verfügung zu stellen.
 
 
 ### § 34 Anerkennung von Schulungsnachweisen, Fortbildungsnachweisen und Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003600000)
 
 (1) Nach dieser Verordnung erworbene Schulungsnachweise,
 Fortbildungsnachweise und Zertifikate gelten bundesweit. Zusätzlich
@@ -1241,9 +1284,11 @@ Kompetenzen nachzuweisen.
 
 
 ## Abschnitt 9 - Übergangsregelung und Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNG000900000)
 
 
 ### § 35 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003700000)
 
 (1) Eine Ausbilderzulassung nach § 2 Absatz 2 Satz 1 der
 Luftsicherheits-Schulungsverordnung vom 2. April 2008 (BGBl. I S.
@@ -1300,6 +1345,7 @@ spätestens ab dem 1. Januar 2025 umzusetzen.
 
 
 ### § 36 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Luftsicherheits-Schulungsverordnung vom 2.
@@ -1309,12 +1355,14 @@ Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE003900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3 Absatz 2)
 
 ### Anlage 1 Kriterien der mentalen und physischen Geeignetheit von Luftsicherheitskontrollpersonal
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 17 - 18)
 
@@ -1508,6 +1556,7 @@ Der Bundesrat hat zugestimmt.
 (zu den §§ 7 und 8)
 
 ### Anlage 2 Schulungsinhalte und Schulungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 19 - 23)
 
@@ -1949,6 +1998,7 @@ Der Bundesrat hat zugestimmt.
 (zu den §§ 19 bis 23 und § 28)
 
 ### Anlage 3 Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 24 - 30)
 
@@ -3033,6 +3083,7 @@ Schulungsinhalte für die Erst- und Wiederholungsschulungen für
 Sprengstoffspürhunde,
 
 ### Anlage 4 Hundeführer und Sprengstoffspürhunde-Teams
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 31 - 34)
 
@@ -3676,6 +3727,7 @@ Sprengstoffspürhunde,
 (zu den §§ 10 bis 18)
 
 ### Anlage 5 Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 35 - 37)
 
@@ -3915,6 +3967,7 @@ Sprengstoffspürhunde,
 (zu den §§ 29 bis 32)
 
 ### Anlage 6 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 38 - 44)
 
@@ -4794,6 +4847,7 @@ Sprengstoffspürhunde,
 (zu den §§ 4 und 5)
 
 ### Anlage 7 Computergestützte Schulungen
+[Direktlink](https://www.gesetze-im-internet.de/luftsischulv_2023/BJNR0C10A0023.html#BJNR0C10A0023BJNE004600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 193, S. 45)
 

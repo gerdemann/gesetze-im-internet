@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000100000)
 
 Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch
 Artikel 1 Nr. 32 Buchstabe i des Gesetzes vom 13. Dezember 2007 (BGBl.
@@ -30,6 +31,7 @@ Verteidigung:
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000201126)
 
 Diese Verordnung regelt die medizinischen Grundsätze und Kriterien,
 die bei der ärztlichen Begutachtung nach Teil 3 des Neunten Buches
@@ -38,6 +40,7 @@ anzuwenden sind, sowie das dafür maßgebende Verfahren.
 
 
 ## § 2 Anlage „Versorgungsmedizinische Grundsätze“
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000301126)
 
 [^F1_771649_BJNR241200008BJNE000301126]
 Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu
@@ -51,23 +54,28 @@ als deren Bestandteil festgelegt.
 [^F1_771649_BJNR241200008BJNE000301126]: 
 
 ## § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000402126)
 
 
 ## § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000502126)
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 
 zu § 2
 
 ## Anlage der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+[Direktlink](https://www.gesetze-im-internet.de/versmedv/BJNR241200008.html#BJNR241200008BJNE000810129)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

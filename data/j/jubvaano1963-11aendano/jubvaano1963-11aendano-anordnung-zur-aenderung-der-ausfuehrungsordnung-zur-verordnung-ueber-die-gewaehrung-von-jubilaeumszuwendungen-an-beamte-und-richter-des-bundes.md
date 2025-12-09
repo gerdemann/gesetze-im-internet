@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano1963-11_ndano/BJNR506200992.html#BJNR506200992BJNE000100314)
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
 Jubiläumszuwendungen an Beamte und Richter des Bundes in der Fassung
@@ -29,11 +30,13 @@ Jubiläumszuwendungen an Beamte und Richter des Bundes vom 4. November
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano1963-11_ndano/BJNR506200992.html#BJNR506200992BJNE000200314)
 
 -
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano1963-11_ndano/BJNR506200992.html#BJNR506200992BJNE000300314)
 
 Solange das statusrechtliche Amt des Präsidenten eines
 Grenzschutzpräsidiums noch nicht eingerichtet ist, wird die nach
@@ -43,11 +46,13 @@ betrauten Beamten übertragen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano1963-11_ndano/BJNR506200992.html#BJNR506200992BJNE000400314)
 
 Die Anordnung tritt zum 1. April 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/jubvaano1963-11_ndano/BJNR506200992.html#BJNR506200992BJNE000500314)
 
 Der Bundesminister des Innern
 

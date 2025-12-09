@@ -20,11 +20,13 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000200000)
 
 
 Anwendungsbereich
 
 ### § 1 (Zu Artikel 1, Artikel 17, Artikel 86 und Artikel 34 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000300000)
 
 (1) Der Internationale Strafgerichtshof ergänzt die deutsche
 Strafgerichtsbarkeit. Die Bundesrepublik Deutschland arbeitet nach
@@ -39,11 +41,13 @@ seiner Anklagebehörde, der Kanzlei und der Angehörigen dieser Organe.
 
 
 ## Teil 2 - Überstellung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000300000)
 
 
 Grundsatz
 
 ### § 2 (Zu Artikel 89 Abs. 1, Artikel 91 Abs. 2 und 3 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000400000)
 
 (1) Personen, um deren Überstellung der Gerichtshof in Übereinstimmung
 mit dem Römischen Statut ersucht hat und die sich im Inland aufhalten,
@@ -60,6 +64,7 @@ vollzogen werden.
 oder in einem ausländischen Staat
 
 ### § 3 (Zu Artikel 89 Abs. 2 Satz 1 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000500000)
 
 Macht der Verfolgte während des Überstellungsverfahrens geltend, wegen
 der Tat, derentwegen der Gerichtshof um Überstellung ersucht, schon
@@ -77,6 +82,7 @@ zulässig ist.
 Überstellungsersuchen und Auslieferungsersuchen
 
 ### § 4 (Zu Artikel 90 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000600000)
 
 (1) Ersucht ein ausländischer Staat um Auslieferung einer Person wegen
 einer der Gerichtsbarkeit des Gerichtshofes unterliegenden Tat, kann
@@ -125,6 +131,7 @@ das Auslieferungsersuchen unterrichtet.
 Überstellungsunterlagen
 
 ### § 5 (Zu Artikel 91 Abs. 2 und 3, Artikel 111 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000700000)
 
 (1) Die Überstellung an den Gerichtshof ist nur zulässig, wenn die in
 Artikel 91 Abs. 2 des Römischen Statuts (Überstellung zur
@@ -158,12 +165,14 @@ in Artikel 91 Abs. 3 des Römischen Statuts bezeichneten Unterlagen
 
 
 ### § 6 Bewilligung der Überstellung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000800000)
 
 Die Überstellung darf, außer im Falle des § 32, nur bewilligt werden,
 wenn das Gericht sie für zulässig erklärt hat.
 
 
 ### § 7 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE000900000)
 
 (1) Die gerichtlichen Entscheidungen erlässt, soweit nichts anderes
 bestimmt ist, das Oberlandesgericht. Die Entscheidungen des
@@ -175,6 +184,7 @@ Entscheidung über die Überstellung vor und führt die bewilligte
 
 
 ### § 8 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001000000)
 
 (1) Örtlich zuständig sind das Oberlandesgericht und die
 Staatsanwaltschaft bei dem Oberlandesgericht, in deren Bezirk der
@@ -195,6 +205,7 @@ sich die Zuständigkeit nach dem Sitz der Bundesregierung.
 Fahndungsmaßnahmen
 
 ### § 9 (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001100000)
 
 (1) Nach Eingang eines Ersuchens des Gerichtshofes um Festnahme und
 Überstellung nach Artikel 89 Abs. 1 des Römischen Statuts oder
@@ -212,6 +223,7 @@ Oberlandesgericht.
 Überstellungshaft
 
 ### § 10 (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001200000)
 
 Nach Eingang des Festnahme- und Überstellungsersuchens, dem im Falle
 einer Überstellung zur Strafverfolgung die in Artikel 91 Abs. 2 des
@@ -223,6 +235,7 @@ bezeichneten Unterlagen beigefügt sind, wird gegen den Verfolgten die
 Vorläufige Überstellungshaft
 
 ### § 11 (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001300000)
 
 (1) Liegen ein Ersuchen des Gerichtshofes um vorläufige Festnahme und
 die in Artikel 92 Abs. 2 des Römischen Statuts bezeichneten Unterlagen
@@ -275,6 +288,7 @@ anzuwenden.
 
 
 ### § 12 Überstellungshaftbefehl
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001400000)
 
 (1) Die vorläufige Überstellungshaft und die Überstellungshaft werden
 durch schriftlichen Haftbefehl (Überstellungshaftbefehl) des
@@ -304,6 +318,7 @@ ist, oder die Überstellung für unzulässig erklärt wird.
 
 
 ### § 13 Vorläufige Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001500000)
 
 (1) Liegen die Voraussetzungen eines Überstellungshaftbefehls vor, so
 sind die Staatsanwaltschaft und die Beamten des Polizeidienstes zur
@@ -320,6 +335,7 @@ unverzüglich bekannt zu geben. Der Verfolgte erhält eine Abschrift.
 Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls
 
 ### § 14 (Zu Artikel 59 Abs. 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001601125)
 
 (1) Wird der Verfolgte auf Grund eines Überstellungshaftbefehls
 ergriffen, so ist er unverzüglich, spätestens am Tag nach der
@@ -398,6 +414,7 @@ anzuwenden.
 
 
 ### § 15 Verfahren nach vorläufiger Festnahme
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001700000)
 
 (1) Wird der Verfolgte vorläufig festgenommen, so ist er unverzüglich,
 spätestens am Tag nach der Festnahme, dem Richter des nächsten
@@ -420,6 +437,7 @@ Haftentscheidungen, Aussetzung des Vollzuges des
 Überstellungshaftbefehls
 
 ### § 16 (Zu Artikel 59 Abs. 4 bis 6 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001800000)
 
 (1) Über Einwendungen des Verfolgten gegen den Überstellungshaftbefehl
 oder gegen dessen Vollzug entscheidet das Oberlandesgericht.
@@ -447,6 +465,7 @@ unterrichtet.
 
 
 ### § 17 Haftprüfung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE001900000)
 
 Befindet sich der Verfolgte in Überstellungshaft oder in vorläufiger
 Überstellungshaft, so entscheidet das Oberlandesgericht über eine
@@ -461,6 +480,7 @@ anzuwenden.
 
 
 ### § 18 Vollzug der Haft
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002000000)
 
 (1) Für die vorläufige Überstellungshaft, die Überstellungshaft und
 die Haft auf Grund einer Anordnung des Richters beim Amtsgericht
@@ -477,6 +497,7 @@ zuständigen Senats des Oberlandesgerichts.
 
 
 ### § 19 Vernehmung des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002100000)
 
 (1) Nach dem Eingang des Festnahme- und Überstellungsersuchens
 vernimmt das Oberlandesgericht den Verfolgten, wenn er sich nicht mit
@@ -493,6 +514,7 @@ gilt entsprechend.
 
 
 ### § 20 Zulässigkeitsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002200000)
 
 (1) Hat sich der Verfolgte nicht mit der vereinfachten Überstellung (§
 32) einverstanden erklärt, so beantragt die Staatsanwaltschaft bei dem
@@ -512,6 +534,7 @@ Verzichte oder frühere Beschlüsse gebunden zu sein.
 
 
 ### § 21 Durchführung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002301125)
 
 (1) Von Ort und Zeit der mündlichen Verhandlung sind die
 Staatsanwaltschaft bei dem Oberlandesgericht, der Verfolgte und sein
@@ -543,6 +566,7 @@ Satz 5 ist entsprechend anwendbar.
 
 
 ### § 22 Entscheidung über die Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002401125)
 
 Der Beschluss über die Zulässigkeit der Überstellung ist zu begründen.
 Er wird der Staatsanwaltschaft bei dem Oberlandesgericht, dem
@@ -551,6 +575,7 @@ Verfolgte erhält eine Abschrift.
 
 
 ### § 23 Erneute Entscheidung über die Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002500000)
 
 (1) Treten nach der Entscheidung des Oberlandesgerichts über die
 Zulässigkeit der Überstellung Umstände ein, die eine andere
@@ -576,6 +601,7 @@ mit der vereinfachten Überstellung tritt.
 
 
 ### § 24 Haft zur Durchführung der Überstellung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002600000)
 
 Ist der Vollzug eines Überstellungshaftbefehls ausgesetzt, so ordnet
 das Oberlandesgericht nach Bewilligung der Überstellung den Vollzug
@@ -585,6 +611,7 @@ die Durchführung der Überstellung auf andere Weise gewährleistet ist.
 Spezialität
 
 ### § 25 (Zu Artikel 101 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002700000)
 
 (1) Der Gerichtshof kann nach Maßgabe des Artikels 101 Abs. 2 des
 Römischen Statuts einen an ihn überstellten Verfolgten auch wegen
@@ -615,6 +642,7 @@ Auslieferungsrechts nicht sichergestellt werden kann.
 
 
 ### § 26 Überstellungsersuchen nach vorheriger Auslieferung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002800000)
 
 (1) Ist die Auslieferung eines Verfolgten an einen ausländischen Staat
 durchgeführt und ersucht der Gerichtshof um Zustimmung zur Verfolgung
@@ -655,6 +683,7 @@ die §§ 19 bis 23 entsprechend.
 Vorübergehende Überstellung
 
 ### § 27 (Zu Artikel 89 Abs. 4 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE002900000)
 
 (1) Wird die bewilligte Überstellung aufgeschoben, weil im Inland
 gegen den Verfolgten ein Strafverfahren geführt wird oder eine
@@ -691,6 +720,7 @@ ganz oder zum Teil unterbleibt, wenn
 
 
 ### § 28 Deutsches Strafverfahren und Überstellungsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003001311)
 
 (1) Wird gegen den Verfolgten im Inland ein Strafverfahren wegen einer
 Tat nach Artikel 5 des Römischen Statuts geführt und hat der
@@ -729,6 +759,7 @@ entsprechend.
 
 
 ### § 29 Herausgabe von Gegenständen im Überstellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003101311)
 
 (1) Im Zusammenhang mit einer Überstellung können an den Gerichtshof
 ohne besonderes Ersuchen nach § 51 Gegenstände herausgegeben werden,
@@ -775,6 +806,7 @@ Verfolgten oder eines Dritten an deren Geheimhaltung offensichtlich
 
 
 ### § 30 Beschlagnahme und Durchsuchung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003201301)
 
 (1) Gegenstände, deren Herausgabe an den Gerichtshof in Betracht
 kommt, können, auch schon vor Eingang des Überstellungsersuchens,
@@ -794,6 +826,7 @@ Beschlagnahme und die Durchsuchung anzuordnen.
 
 
 ### § 31 Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003301125)
 
 (1) Die verfolgte Person kann sich in jeder Lage des Verfahrens eines
 Rechtsbeistands bedienen.
@@ -839,6 +872,7 @@ Absatz 5 Satz 2 sind unanfechtbar.
 Vereinfachte Überstellung
 
 ### § 32 (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003400000)
 
 (1) Die Überstellung einer Person, gegen die ein
 Überstellungshaftbefehl besteht und um deren Festnahme und
@@ -860,6 +894,7 @@ befindet.
 
 
 ### § 33 Anrufung des Bundesgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003500000)
 
 (1) Hält das Oberlandesgericht eine Entscheidung des
 Bundesgerichtshofes für geboten, um eine Rechtsfrage von
@@ -879,11 +914,13 @@ Oberlandesgericht dies zur Klärung einer Rechtsfrage beantragt.
 
 
 ## Teil 3 - Durchbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000400000)
 
 
 Grundsatz
 
 ### § 34 (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003600000)
 
 Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen
 Einverständnis der Staat, aus dem der Verfolgte an den Gerichtshof
@@ -895,6 +932,7 @@ das Bundesgebiet befördert.
 Durchbeförderungsunterlagen
 
 ### § 35 (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003700000)
 
 (1) Eine Durchbeförderung an den Gerichtshof nach Artikel 89 Abs. 3
 des Römischen Statuts zur Strafverfolgung oder Strafvollstreckung ist
@@ -920,6 +958,7 @@ Ersuchen ergibt.
 
 
 ### § 36 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003800000)
 
 (1) Die gerichtlichen Entscheidungen erlässt das Oberlandesgericht. §
 7 Abs. 1 Satz 2 und Abs. 2 gilt entsprechend.
@@ -943,6 +982,7 @@ das Oberlandesgericht Frankfurt am Main zuständig.
 Durchbeförderungsverfahren
 
 ### § 37 (Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE003901125)
 
 (1) Erscheint die Durchbeförderung zulässig, so wird der Verfolgte zu
 ihrer Sicherung in Haft gehalten.
@@ -994,6 +1034,7 @@ Verfolgten herausgegeben werden.
 
 
 ### § 38 Mehrfache Durchbeförderung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004000000)
 
 (1) Ist die erstmalige Durchbeförderung zur Übergabe des Verfolgten an
 den Gerichtshof bewilligt worden, so kann der Verfolgte auf ein
@@ -1019,6 +1060,7 @@ Rücküberstellung bei der ersten Durchbeförderung erkennbar war.
 Unvorhergesehene Zwischenlandung
 
 ### § 39 (Zu Artikel 89 Abs. 3 Buchstabe e des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004100000)
 
 (1) Im Falle einer unvorhergesehenen Zwischenlandung im Inland
 unterrichtet die Stelle, der die Zwischenlandung zuerst bekannt und
@@ -1040,10 +1082,12 @@ nach § 68 Abs. 1 zuständigen Stelle eingegangen sind.
 
 
 ## Teil 4 - Rechtshilfe durch die Vollstreckung von Entscheidungen und Anordnungen des Gerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000500000)
 
 
 
 ### § 40 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004201311)
 
 Rechtshilfe wird durch Vollstreckung einer vom Gerichtshof
 rechtskräftig verhängten Strafe nach Maßgabe des Römischen Statuts
@@ -1055,6 +1099,7 @@ Statuts.
 Vollstreckung von Freiheitsstrafen
 
 ### § 41 (Zu Artikel 77 Abs. 1, Artikel 103 Abs. 1 und 2, Artikel 105, Artikel 106, Artikel 110 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004300000)
 
 (1) Freiheitsstrafen werden vollstreckt, wenn
 
@@ -1124,6 +1169,7 @@ Bestimmungen vom Gerichtshof übernommen werden.
 Flucht und Spezialität
 
 ### § 42 (Zu Artikel 108, Artikel 111 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004400000)
 
 (1) Entweicht der Verurteilte oder entzieht er sich sonst dem Vollzug,
 erlässt die nach § 46 Abs. 1 zuständige Stelle Haftbefehl und ergreift
@@ -1153,6 +1199,7 @@ Auslieferungsvorschriften zulässig ist.
 Vollstreckung von Geldstrafen
 
 ### § 43 (Zu Artikel 77 Abs. 2 Buchstabe a, Artikel 109 Abs. 1 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004501311)
 
 (1) Geldstrafen werden vollstreckt, wenn
 
@@ -1204,6 +1251,7 @@ und 42 Anwendung.
 
 
 ### § 44 Vollstreckung von Anordnungen der Einziehung von Taterträgen (Zu Artikel 77 Abs. 2 Buchstabe b, Artikel 109 Abs. 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004602125)
 
 (1) Anordnungen nach Artikel 77 Abs. 2 Buchstabe b des Römischen
 Statuts (Verfallsanordnungen) werden vollstreckt, wenn
@@ -1274,6 +1322,7 @@ der Gerichtshof in seiner Stellungnahme gegen sie ausspricht.
 Vollstreckung von Wiedergutmachungsanordnungen
 
 ### § 45 (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004700000)
 
 Wiedergutmachungsanordnungen, die auf die Zahlung einer Geldsumme
 gerichtet sind, werden vollstreckt, wenn
@@ -1294,6 +1343,7 @@ Im Übrigen richtet sich die Vollstreckung nach § 43.
 
 
 ### § 46 Zuständigkeit, Anrufung des Bundesgerichtshofes, Rechtsbeistand
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004802125)
 
 (1) Zuständige deutsche Stelle bei der Vollstreckung von
 Freiheitsstrafen des Gerichtshofes (§§ 41 und 42) ist die
@@ -1346,11 +1396,13 @@ Rechtsbeistandschaft vorliegt, wenn
 
 
 ## Teil 5 - Sonstige Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000600000)
 
 
 Grundsatz
 
 ### § 47 (Zu Artikel 93 Abs. 1, Artikel 96 Abs. 1 und 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE004900000)
 
 (1) Vorbehaltlich § 58 Abs. 2 wird dem Gerichtshof auf Ersuchen
 sonstige Rechtshilfe nach Maßgabe des Römischen Statuts und dieses
@@ -1373,6 +1425,7 @@ entsprechende Anwendung.
 
 
 ### § 48 Aufschub der Erledigung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005000000)
 
 In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94
 Abs. 1 und Artikel 95 des Römischen Statuts kann die Erledigung
@@ -1381,6 +1434,7 @@ Römischen Statut weiter in Bezug auf das Ersuchen zu verfahren ist.
 
 
 ### § 49 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005100000)
 
 (1) Soweit die Rechtshilfe durch eine Staatsanwaltschaft geleistet
 wird, ist örtlich die Staatsanwaltschaft zuständig, in deren Bezirk
@@ -1422,6 +1476,7 @@ Freiheitsentziehung vollzogen wird.
 
 
 ### § 50 Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005201125)
 
 (1) Die Rechtshilfe darf in den Fällen des § 52 Abs. 1, 2 und 4, § 55
 Abs. 1 und 6, § 59 Abs. 1 und 2 nur bewilligt werden, wenn das
@@ -1466,6 +1521,7 @@ Buches der Strafprozessordnung mit Ausnahme der dortigen §§ 140 bis
 
 
 ### § 51 Herausgabe von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005301311)
 
 (1) Unbeschadet der Bestimmung des § 58 Abs. 3 werden auf Ersuchen
 einer zuständigen Stelle des Gerichtshofes Gegenstände herausgegeben,
@@ -1509,6 +1565,7 @@ offensichtlich überwiegen.
 
 
 ### § 52 Beschlagnahme und Durchsuchung, Vermögensbeschlagnahme
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005401301)
 
 (1) Gegenstände, deren Herausgabe an den Gerichtshof in Betracht
 kommt, können, auch schon vor Eingang des Ersuchens um Herausgabe,
@@ -1552,6 +1609,7 @@ entsprechende Anwendung.
 
 
 ### § 53 Persönliches Erscheinen von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005500000)
 
 (1) Ersucht der Gerichtshof um persönliches Erscheinen einer Person,
 die sich im Inland auf freiem Fuß befindet, als Zeuge zur Vernehmung,
@@ -1572,6 +1630,7 @@ Angaben hätte verweigern können.
 Vorübergehende Übergabe
 
 ### § 54 (Zu Artikel 93 Abs. 1 und 7 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005600000)
 
 Wer sich im Inland in Untersuchungs- oder Strafhaft befindet oder auf
 Grund der Anordnung einer freiheitsentziehenden Maßregel der Besserung
@@ -1617,6 +1676,7 @@ vollstreckt worden sind.
 
 
 ### § 55 Vorübergehende Übernahme und Verbringung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005700000)
 
 (1) Wer sich außerhalb des Geltungsbereichs dieses Gesetzes in
 Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung
@@ -1703,6 +1763,7 @@ Frist von einem Monat tritt. Ferner finden § 14 Abs. 5, §§ 18, 20 Abs.
 Schutz von Personen
 
 ### § 56 (Zu Artikel 93 Abs. 1 Buchstabe j des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005800000)
 
 Die Vorschriften zum Schutz von Opfern von Straftaten und zum Schutz
 von Personen, die an einem deutschen Strafverfahren beteiligt sind,
@@ -1713,6 +1774,7 @@ Verfahren vor dem Gerichtshof entsprechende Anwendung.
 Zustellungen
 
 ### § 57 (Zu Artikel 58 Abs. 7 Satz 4, Artikel 93 Abs. 1 Buchstabe d des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE005900000)
 
 (1) Für das Verfahren bei Zustellungen gelten die Vorschriften der
 Zivilprozessordnung entsprechend.
@@ -1722,6 +1784,7 @@ im Wege der Ersatzzustellung ist ausgeschlossen.
 
 
 ### § 58 Weitergabe von dienstlich erlangten Erkenntnissen und Informationen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006000000)
 
 (1) Auf Ersuchen einer zuständigen Stelle des Gerichtshofes werden
 vorbehaltlich des Absatzes 3 dem Gerichtshof im Rahmen seiner
@@ -1784,6 +1847,7 @@ Telekommunikationsüberwachung und sonstige Maßnahmen ohne Wissen des
 Betroffenen
 
 ### § 59 (Zu Artikel 93 Abs. 1 Buchstabe l des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006104125)
 
 (1) Die Anordnung der Überwachung der Telekommunikation (§ 100a der
 Strafprozessordnung) und die Übermittlung der durch die Überwachung
@@ -1817,6 +1881,7 @@ Betroffenen angeordnet. Absatz 1 gilt entsprechend.
 Anwesenheit bei Rechtshilfehandlungen
 
 ### § 60 (Zu Artikel 99 Abs. 1 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006200000)
 
 Angehörigen und Bevollmächtigten des Gerichtshofes sowie anderen im
 Ersuchen des Gerichtshofes genannten Personen wird auf Ersuchen die
@@ -1833,6 +1898,7 @@ Strafverfahren nicht verwertet werden.
 Gerichtliche Anhörungen
 
 ### § 61 (Zu Artikel 3 Abs. 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006300000)
 
 (1) Auf Ersuchen des Gerichtshofes wird diesem gestattet, gerichtliche
 Anhörungen im Inland durchzuführen.
@@ -1843,6 +1909,7 @@ Römischen Statuts findet § 43 entsprechende Anwendung.
 Unmittelbare Erledigung durch den Gerichtshof
 
 ### § 62 (Zu Artikel 99 Abs. 4 Buchstabe b des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006400000)
 
 Auf besonderes Ersuchen wird Angehörigen und Bevollmächtigten des
 Gerichtshofes in Absprache mit den zuständigen deutschen Behörden
@@ -1856,6 +1923,7 @@ Behörden vorbehalten und richtet sich nach deutschem Recht.
 Einleitung eines deutschen Strafverfahrens
 
 ### § 63 (Zu Artikel 70 Abs. 4 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006500000)
 
 Ersucht der Gerichtshof nach Artikel 70 Abs. 4 Buchstabe b des
 Römischen Statuts um Einleitung eines Strafverfahrens gegen eine
@@ -1868,11 +1936,13 @@ Akten sind zurückzugeben, sofern der Gerichtshof darum ersucht.
 
 
 ## Teil 6 - Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000700000)
 
 
 Form und Inhalt der Ersuchen
 
 ### § 64 (Zu Artikel 93 Abs. 10, Artikel 96 Abs. 4 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006600000)
 
 An den Gerichtshof nach Artikel 93 Abs. 10 Buchstabe a des Römischen
 Statuts gerichtete Ersuchen um Rechtshilfe oder Überstellung sowie die
@@ -1883,6 +1953,7 @@ bezeichneten Inhalt haben.
 
 
 ### § 65 Rücküberstellung
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006700000)
 
 (1) Wer für ein im Inland gegen ihn geführtes Strafverfahren auf
 Ersuchen unter der Bedingung späterer Rücküberstellung vom Gerichtshof
@@ -1914,6 +1985,7 @@ Staatsanwaltschaft bei dem nach Satz 1 zuständigen Oberlandesgericht.
 
 
 ### § 66 Vorübergehende Übergabe für ein deutsches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006800000)
 
 (1) Wer sich auf Grund einer Anordnung des Gerichtshofes in
 Untersuchungs- oder Strafhaft befindet und einem deutschen Gericht
@@ -1941,16 +2013,19 @@ sowie § 54 Satz 2 bis 5 gelten entsprechend.
 
 
 ### § 67 Bedingungen
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE006900000)
 
 Bedingungen, die der Gerichtshof an die Rechtshilfe geknüpft hat, sind
 zu beachten.
 
 
 ## Teil 7 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNG000800000)
 
 
 
 ### § 68 Zuständigkeit des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007002311)
 
 (1) Über Rechtshilfeersuchen des Gerichtshofes und über die Stellung
 von Ersuchen an den Gerichtshof um Rechtshilfe entscheidet das
@@ -2032,6 +2107,7 @@ Deutsches Strafverfahren und früheres Strafverfahren vor dem
 Gerichtshof
 
 ### § 69 (Zu Artikel 20 Abs. 2, Artikel 70 Abs. 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007100000)
 
 (1) Niemand darf wegen eines in Artikel 5 des Römischen Statuts
 bezeichneten Verbrechens oder einer in Artikel 70 Abs. 1 des Römischen
@@ -2054,6 +2130,7 @@ Schuld- und Straffrage zu Grunde gelegt.
 Benachrichtigung
 
 ### § 70 (Zu Artikel 27 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007201311)
 
 Richtet sich ein Ersuchen des Gerichtshofes um Überstellung oder
 sonstige Rechtshilfe gegen ein Mitglied des Deutschen Bundestages oder
@@ -2070,12 +2147,14 @@ wird.
 Kosten
 
 ### § 71 (Zu Artikel 100, Artikel 107 Abs. 2 des Römischen Statuts)
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007300000)
 
 Auf die Erstattung der vom Gerichtshof zu tragenden Kosten der
 Rechtshilfe kann verzichtet werden.
 
 
 ### § 72 Anwendung anderer Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007400000)
 
 Soweit dieses Gesetz keine besonderen Verfahrensvorschriften enthält,
 gelten die Vorschriften des Gerichtsverfassungsgesetzes und des
@@ -2086,6 +2165,7 @@ und der Abgabenordnung sinngemäß.
 
 
 ### § 73 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/istghg/BJNR214410002.html#BJNR214410002BJNE007500000)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2

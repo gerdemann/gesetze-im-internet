@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Sondervermögen "Versorgungsrücklage des Bundes"
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNG000101310)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000102310)
 
 (1) Die Vorschriften des Abschnitts 1 gelten für den Bund und alle
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen, die als
@@ -49,6 +51,7 @@ gesetzlicher Vorschriften gebildet werden.
 
 
 ### § 2 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000203116)
 
 Aus den Zuführungen nach § 14a Absatz 1 bis 3 des
 Bundesbesoldungsgesetzes wird eine „Versorgungsrücklage des Bundes“
@@ -56,6 +59,7 @@ als Sondervermögen des Bundes errichtet.
 
 
 ### § 3 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000303116)
 
 Das Sondervermögen dient der Entlastung der in § 1 Absatz 1 genannten
 Stellen von Versorgungsaufwendungen. Es darf nach Maßgabe des § 7 nur
@@ -64,6 +68,7 @@ Sondervermögen werden nicht begründet.
 
 
 ### § 4 Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000401310)
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
@@ -71,6 +76,7 @@ Der allgemeine Gerichtsstand des Sondervermögens ist Berlin.
 
 
 ### § 5 Verwaltung, Anlage der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000507311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat verwaltet das
 Sondervermögen. Die Verwaltung der Mittel des Sondervermögens wird der
@@ -88,6 +94,7 @@ Anteil an Aktien führen.
 
 
 ### § 5a Anlagerichtlinien und Anlageausschuss
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE002301311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat erlässt im
 Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen
@@ -118,6 +125,7 @@ Anlagerichtlinien vorgesehenen Spielräume machen.
 
 
 ### § 6 Zuführung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000608311)
 
 (1) Die sich nach § 14a Absatz 2 und 3 des Bundesbesoldungsgesetzes
 durch die Verminderung der Besoldungs- und Versorgungsausgaben des
@@ -174,6 +182,7 @@ unterfallen.
 
 
 ### § 7 Verwendung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000704116)
 
 Das Sondervermögen ist nach Abschluss der Zuführung der Mittel (§ 14a
 Absatz 2 und 3 des Bundesbesoldungsgesetzes) ab 1. Januar 2032 über
@@ -185,12 +194,14 @@ der Grundlage von Beschlüssen der Selbstverwaltungsorgane.
 
 
 ### § 8 Vermögenstrennung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000801310)
 
 Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen
 Rechten und Verbindlichkeiten getrennt zu halten.
 
 
 ### § 9 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE000902311)
 
 Das Bundesministerium des Innern, für Bau und Heimat stellt ab dem 1.
 Januar 1999 für jedes Wirtschaftsjahr mit Zustimmung des
@@ -198,6 +209,7 @@ Bundesministeriums der Finanzen einen Wirtschaftsplan auf.
 
 
 ### § 10 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001003311)
 
 (1) Die Deutsche Bundesbank legt dem Bundesministerium des Innern, für
 Bau und Heimat jährlich einen Bericht über die Verwaltung der Mittel
@@ -211,6 +223,7 @@ Einnahmen und Ausgaben nachzuweisen.
 
 
 ### § 11 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001106311)
 
 (1) Bei dem Sondervermögen wird ein Beirat gebildet. Er wirkt bei
 allen wichtigen Fragen mit, insbesondere bei den Anlagerichtlinien und
@@ -258,16 +271,19 @@ nicht erstattet.
 
 
 ### § 12 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001201310)
 
 Das Sondervermögen gilt nach Auszahlung seines Vermögens (§ 7) als
 aufgelöst.
 
 
 ## Abschnitt 2 - Sondervermögen  "Versorgungsfonds des Bundes"
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNG000201310)
 
 
 
 ### § 13 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001302310)
 
 (1) Die Vorschriften des Abschnitts 2 gelten für den Bund und alle
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen, die
@@ -280,6 +296,7 @@ entsprechend.
 
 
 ### § 14 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001502116)
 
 Zur anteiligen Finanzierung der Versorgungsausgaben
 (Versorgungsaufwendungen und Beihilfen) für Beamtinnen, Beamte,
@@ -294,6 +311,7 @@ Beamtenverhältnis auf Widerruf.
 
 
 ### § 15 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001603311)
 
 Für die Rechtsform, Vermögenstrennung, Jahresrechnung und den Beirat
 des Sondervermögens "Versorgungsfonds des Bundes" gelten die §§ 4, 8,
@@ -304,6 +322,7 @@ Maßgabe, dass ein Wirtschaftsplan für das Sondervermögen
 
 
 ### § 16 Zuweisung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001704311)
 
 (1) Das Sondervermögen "Versorgungsfonds des Bundes" wird aus
 regelmäßigen Zuweisungen und den daraus erzielten Erträgen gebildet.
@@ -341,6 +360,7 @@ gilt nur für Personenkreise im Sinne des § 14 Satz 1.
 
 
 ### § 17 Verwendung des Sondervermögens „Versorgungsfonds des Bundes“; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE001803311)
 
 Ab dem Jahr 2030 entstehende Versorgungsausgaben für den in § 14 Satz
 1 genannten Personenkreis sowie Ausgaben, die anstelle von
@@ -358,4 +378,5 @@ festgelegt und alle fünf Jahre überprüft.
 
 
 ### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/versr_cklg/BJNR180000998.html#BJNR180000998BJNE002101116)
 

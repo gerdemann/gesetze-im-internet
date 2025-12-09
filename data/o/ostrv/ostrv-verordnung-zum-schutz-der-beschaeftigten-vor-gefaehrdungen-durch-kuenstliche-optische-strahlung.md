@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000200000)
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten bei der Arbeit
 vor tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und
@@ -48,6 +50,7 @@ werden können.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000301119)
 
 (1) Optische Strahlung ist jede elektromagnetische Strahlung im
 Wellenlängenbereich von 100 Nanometer bis 1 Millimeter. Das Spektrum
@@ -126,9 +129,11 @@ gleich.
 
 
 ## Abschnitt 2 - Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNG000200000)
 
 
 ### § 3 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000400000)
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
 Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob
@@ -231,6 +236,7 @@ Jahre aufzubewahren.
 
 
 ### § 4 Messungen und Berechnungen
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000500000)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen und
 Berechnungen nach dem Stand der Technik fachkundig geplant und
@@ -254,6 +260,7 @@ Beschäftigten repräsentativ ist.
 
 
 ### § 5 Fachkundige Personen, Laserschutzbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000602360)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass die
 Gefährdungsbeurteilung, die Messungen und die Berechnungen nur von
@@ -286,9 +293,11 @@ Betriebsarzt zusammen.
 
 
 ## Abschnitt 3 - Expositionsgrenzwerte für und Schutzmaßnahmen gegen künstliche optische Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNG000300000)
 
 
 ### § 6 Expositionsgrenzwerte für künstliche optische Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000700000)
 
 (1) Die Expositionsgrenzwerte für inkohärente künstliche optische
 Strahlung entsprechen den festgelegten Werten im Anhang I der
@@ -310,6 +319,7 @@ Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 114 vom
 
 
 ### § 7 Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch künstliche optische Strahlung
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000800000)
 
 (1) Der Arbeitgeber hat die nach § 3 Absatz 1 Satz 7 festgelegten
 Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um
@@ -382,9 +392,11 @@ wird.
 
 
 ## Abschnitt 4 - Unterweisung der Beschäftigten bei Gefährdungen durch künstliche optische Strahlung; Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNG000400000)
 
 
 ### § 8 Unterweisung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE000900000)
 
 (1) Bei Gefährdungen der Beschäftigten durch künstliche optische
 Strahlung am Arbeitsplatz stellt der Arbeitgeber sicher, dass die
@@ -436,6 +448,7 @@ beteiligen.
 
 
 ### § 9 Beratung durch den Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE001001360)
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der
 Sicherheit und des Gesundheitsschutzes bei künstlicher optischer
@@ -445,9 +458,11 @@ Betriebssicherheitsverordnung gilt entsprechend.
 
 
 ## Abschnitt 5 - Ausnahmen; Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNG000500000)
 
 
 ### § 10 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE001101119)
 
 (1) Die zuständige Behörde kann auf schriftlichen Antrag des
 Arbeitgebers Ausnahmen von den Vorschriften des § 7 zulassen, wenn die
@@ -490,6 +505,7 @@ Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
 
 
 ### § 11 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ostrv/BJNR096010010.html#BJNR096010010BJNE001201119)
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig

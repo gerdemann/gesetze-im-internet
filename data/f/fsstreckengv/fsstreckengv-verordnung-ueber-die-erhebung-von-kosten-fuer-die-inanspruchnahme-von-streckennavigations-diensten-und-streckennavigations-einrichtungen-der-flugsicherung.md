@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: In Kraft gem. § 3 Abs. 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE000100328)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
@@ -36,6 +37,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE000204123)
 
 (1) Für die Inanspruchnahme von Streckennavigations-Diensten und
 Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung
@@ -73,6 +75,7 @@ und keine Kosten nach Absatz 1 Satz 1 erhoben wurden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE000302305)
 
 (1) Für die Festlegung der Gebühren und die Einziehung der Kosten
 bedient sich die Bundesrepublik Deutschland der Dienste der
@@ -91,6 +94,7 @@ Umsatzsteuer hinzuzurechnen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE000400328)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die
 Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren vom 12.
@@ -104,12 +108,14 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE000500328)
 
 Der Bundesminister für Verkehr
 
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1106)
+[Direktlink](https://www.gesetze-im-internet.de/fsstreckengv/BJNR006290984.html#BJNR006290984BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

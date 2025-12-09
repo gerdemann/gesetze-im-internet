@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35brbbek/BJNR005260983.html#BJNR005260983BJNE000100301)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung der
 Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird gemäß einer
@@ -27,6 +28,7 @@ inländische zum gesetzlichen Schutz zugelassen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35brbbek/BJNR005260983.html#BJNR005260983BJNE000200301)
 
 Der Bundesminister der Justiz
 

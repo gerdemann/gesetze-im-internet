@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/msptbeihilfeano/BJNR225100016.html#BJNR225100016BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 2 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in
@@ -31,6 +32,7 @@ an:
 
 
 ## § 1 Entscheidung über Widersprüche in Beihilfeangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/msptbeihilfeano/BJNR225100016.html#BJNR225100016BJNE000200000)
 
 In Angelegenheiten der Beihilfe in Krankheits-, Pflege- und
 Geburtsfällen
@@ -39,6 +41,7 @@ die Postbeamtenkrankenkasse übertragen.
 
 
 ## § 2 Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/msptbeihilfeano/BJNR225100016.html#BJNR225100016BJNE000300000)
 
 In Angelegenheiten der Beihilfe in Krankheits-, Pflege- und
 Geburtsfällen
@@ -48,6 +51,7 @@ Klagen aus dem Beamtenverhältnis auf die Postbeamtenkrankenkasse
 
 
 ## § 3 Vorbehalt des Selbsteintritts
+[Direktlink](https://www.gesetze-im-internet.de/msptbeihilfeano/BJNR225100016.html#BJNR225100016BJNE000400000)
 
 Das Kuratorium behält sich vor, die Aufgaben und Befugnisse nach § 126
 Absatz 3 und § 127 des Bundesbeamtengesetzes im Einzelfall selbst
@@ -55,6 +59,7 @@ auszuüben.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/msptbeihilfeano/BJNR225100016.html#BJNR225100016BJNE000500000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.

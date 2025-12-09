@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000100000)
 
 Auf Grund des § 66 Abs. 4 des Telekommunikationsgesetzes vom 22. Juni
 2004 (BGBl. I S. 1190), der durch Artikel 2 Nr. 16 des Gesetzes vom
@@ -28,6 +29,7 @@ Bundesregierung:
 
 
 ## § 1 Nummernplan
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000300000)
 
 (1) Die Bundesnetzagentur legt in einem Nummernplan für jeden
 Nummernraum fest, wie dieser strukturiert und ausgestaltet ist. Dazu
@@ -73,6 +75,7 @@ Nummernraums im öffentlichen Interesse erfolgen.
 
 
 ## § 2 Nummerierungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000400000)
 
 Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung
 jährlich ein Nummerierungskonzept über die Entwicklungen auf dem
@@ -106,6 +109,7 @@ Das Nummerierungskonzept soll insbesondere enthalten:
 
 
 ## § 3 Änderungen des Nummernplans
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000501119)
 
 (1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit
 Wirkung für die Zukunft ändern, soweit dies der Erreichung der Ziele
@@ -125,6 +129,7 @@ durchzuführen. § 1 Abs. 3 Satz 2 gilt entsprechend.
 
 
 ## § 4 Nummernzuteilung
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000601119)
 
 (1) Jede Nutzung von Nummern bedarf einer vorherigen Zuteilung, soweit
 für den jeweiligen Nummernraum ein Nummernplan erlassen worden ist.
@@ -210,6 +215,7 @@ Nummer entsprechend der Festlegungen im Nummernplan verantwortlich.
 
 
 ## § 5 Ausgestaltung des Antragsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000700000)
 
 (1) Die Bundesnetzagentur kann für Anträge auf Nummernzuteilung eine
 bestimmte Antragsform festlegen sowie einen Zeitrahmen bestimmen, in
@@ -250,6 +256,7 @@ innerhalb von drei Wochen nach Eingang eines Antrags erfolgen.
 
 
 ## § 6 Besondere Ablehnungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000801119)
 
 Die Bundesnetzagentur kann einen Antrag auf Zuteilung einer Nummer
 ablehnen,
@@ -294,6 +301,7 @@ ablehnen,
 
 
 ## § 7 Bekanntmachungen über Zuteilungen
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE000900000)
 
 Die Bundesnetzagentur macht im Internet den Stand der von ihr
 zugeteilten Nummern bekannt. Sie kann unter Wahrung der berechtigten
@@ -304,6 +312,7 @@ machen.
 
 
 ## § 8 Abgeleitete Zuteilung von Nummern
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001003119)
 
 (1) Jedermann hat im Rahmen der für die Nummernzuteilung geltenden
 Regelungen, einschließlich der dem originären Zuteilungsnehmer von der
@@ -349,6 +358,7 @@ gelten als abgeleitet zugeteilt.
 
 
 ## § 9 Rückgabe, Widerruf und Rückfall
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001101119)
 
 (1) Direkt oder originär zugeteilte Nummern, die dauerhaft nicht
 genutzt werden, sind unverzüglich durch schriftliche Erklärung
@@ -398,6 +408,7 @@ entsprechende Funktion erbracht wird.
 
 
 ## § 10 Datenaustauschverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001201119)
 
 Die Bundesnetzagentur kann Anbieter von öffentlichen
 Telekommunikationsdiensten verpflichten, für einzelne Nummernräume,
@@ -416,6 +427,7 @@ wird nicht gewährt.
 
 
 ## § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001301119)
 
 Ordnungswidrig im Sinne des § 228 Absatz 2 Nummer 6 des
 Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -435,6 +447,7 @@ Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001400000)
 
 Bis zum Erlass eines Nummernplans nach § 1 Abs. 1 gelten die im
 Amtsblatt des Bundesministeriums für Post und Telekommunikation, der
@@ -448,11 +461,13 @@ Nummernplans genutzt werden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/tnv/BJNR014100008.html#BJNR014100008BJNE001700000)
 
 ( Fundstelle: BGBl. I 2008, 145 - 148 )
 

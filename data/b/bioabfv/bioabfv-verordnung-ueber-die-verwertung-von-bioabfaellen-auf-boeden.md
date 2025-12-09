@@ -43,6 +43,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000205125)
 
 (1) Diese Verordnung gilt für
 
@@ -152,6 +153,7 @@ Absatz 3 Nummer 3a genannten Vorschriften.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000304125)
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -273,6 +275,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 
 ## § 2a Anforderungen an die Fremdstoffentfrachtung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002800125)
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen zur Aufbereitung,
 Bioabfallbehandlung und Gemischherstellung Bioabfälle und in Anhang 1
@@ -399,6 +402,7 @@ und 8b entsprechend.
 
 
 ## § 3 Anforderungen an die hygienisierende Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000403116)
 
 (1) Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von
 einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst,
@@ -640,6 +644,7 @@ selbst bewirtschaftete Betriebsflächen aufgebracht werden.
 
 
 ## § 3a Anforderungen an die biologisch stabilisierende Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002001116)
 
 Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer
 Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor
@@ -652,6 +657,7 @@ Bioabfälle oder Gemische nicht beeinträchtigt wird.
 
 
 ## § 3b Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002101116)
 
 (1) In Betrieben mit Nutztierhaltung ist das Verbringen von
 Bioabfällen tierischer Herkunft nur nach einer hygienisierenden
@@ -674,6 +680,7 @@ Betriebsbereiche mit Nutztierhaltung angrenzen.
 
 
 ## § 3c Schadstoff- und Fremdstoffminimierung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002900125)
 
 (1) Die in § 1 Absatz 2 Genannten wirken darauf hin, dass die in
 dieser Verordnung genannten Schadstoffhöchstwerte für unbehandelte und
@@ -691,6 +698,7 @@ Vermeidung von Kunststoff als Fremdstoff in Bioabfällen anzustreben.
 
 
 ## § 4 Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000505125)
 
 (1) Der Bioabfallbehandler darf nur Bioabfälle und in Anhang 1 Nummer
 2 genannte Materialien verwenden, von denen in unvermischter Form auf
@@ -901,6 +909,7 @@ gilt § 3 Absatz 8a und 8b entsprechend.
 
 
 ## § 5 Anforderungen an Gemische
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000602116)
 
 (1) Der Gemischhersteller darf behandelte Bioabfälle, gemäß § 10
 unbehandelte, hygienisierend oder biologisch stabilisierend behandelte
@@ -948,6 +957,7 @@ Bestimmungen sind zu beachten.
 
 
 ## § 5a Rückstellprobe
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002701125)
 
 (1) Die zuständige Behörde kann den Bioabfallbehandler und den
 Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3
@@ -986,6 +996,7 @@ gilt § 3 Absatz 8a und 8b entsprechend.
 
 
 ## § 6 Beschränkungen und Verbote der Aufbringung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000703125)
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden
 innerhalb von drei Jahren nicht mehr als 20 Tonnen Trockenmasse
@@ -1057,6 +1068,7 @@ mit der zuständigen Forstbehörde erfolgen.
 
 
 ## § 7 Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000802116)
 
 (1) Auf Grünlandflächen und mehrschnittigen Feldfutterflächen dürfen
 nur diejenigen Bioabfälle und Gemische aufgebracht werden, die in
@@ -1083,6 +1095,7 @@ menschliche oder tierische Gesundheit erforderlich ist.
 
 
 ## § 8 Zusammentreffen von Bioabfall- und Klärschlammaufbringung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE000901116)
 
 Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche
 nur die Aufbringung von Bioabfällen und Gemischen nach dieser
@@ -1091,6 +1104,7 @@ Klärschlammverordnung zulässig.
 
 
 ## § 9 Bodenuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001006125)
 
 (1) Der Bewirtschafter oder ein beauftragter Dritter hat der
 zuständigen Behörde innerhalb von zwei Wochen nach der ersten nach dem
@@ -1141,6 +1155,7 @@ Beeinträchtigungen des Wohls der Allgemeinheit zu erwarten sind. Satz
 
 
 ## § 9a Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002203125)
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen die in Anhang 1
 Nummer 1 Buchstabe b genannten Bioabfälle nur mit Zustimmung der für
@@ -1183,6 +1198,7 @@ auszuhändigen.
 
 
 ## § 10 Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001103125)
 
 (1) Bioabfälle dürfen unvermischt abgegeben, zur Gemischherstellung
 verwendet oder aufgebracht werden, soweit diese in Anhang 1 Nummer 1
@@ -1261,6 +1277,7 @@ biologisch stabilisierende Behandlung der Bioabfälle durchführt.
 
 
 ## § 11 Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001206125)
 
 (1) Der Bioabfallbehandler hat die bei der Behandlung verwendeten
 Materialien nach Art, Bezugsquelle, -menge und Anfallstelle von der
@@ -1509,6 +1526,7 @@ Nummer 2 der Nachweisverordnung keine Anwendung.
 
 
 ## § 12 Ausnahmen für Kleinflächen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001303125)
 
 (1) § 9 Absatz 1 und 2, § 11 Absatz 2a Satz 2 und Absatz 3a Satz 6
 gelten nicht, wenn unbehandelte oder behandelte Bioabfälle oder
@@ -1541,6 +1559,7 @@ nicht für forstwirtschaftliche Flächen.
 
 
 ## § 12a Elektronische Datenverarbeitung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002301116)
 
 Die in dieser Verordnung vorgeschriebenen Dokumentationen und
 Nachweise können mit Hilfe elektronischer Datenverarbeitung erstellt
@@ -1549,6 +1568,7 @@ elektronischer Form vorgelegt oder übermittelt werden.
 
 
 ## § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001405125)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1702,6 +1722,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 13a Bestimmungen für bestehende Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002401116)
 
 (1) Bei den am 1. Mai 2012 bestehenden Anlagen, in denen von den
 Anforderungen an die Behandlung freigestellte Bioabfälle nach § 10
@@ -1758,6 +1779,7 @@ Nummer 2 und 3 und Satz 2 nach spätestens 12 Monaten einzuhalten.
 
 
 ## § 13b Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002501116)
 
 (1) Direkte Prozessprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz
 4 Satz 1 Nummer 1 in der bis zu diesem Datum geltenden Fassung
@@ -1794,6 +1816,7 @@ Nummer 2 und 3 und Satz 2 einzuhalten.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001501116)
 
 
 (zu § 2 Nummer 1, 1a, 4, 5, § 2a Absatz 1, 2, 3, 4, § 3 Absatz 3, 7,
@@ -1802,6 +1825,7 @@ Nummer 2 und 3 und Satz 2 einzuhalten.
 Absatz 1, § 13a Absatz 1)
 
 ## Anhang 1 Liste der für eine Verwertung auf Böden geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001706125)
 
 (Fundstelle: BGBl. I 2013, 671 — 688;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3169,6 +3193,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)
 
 ## Anhang 2 Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001802116)
 
 **Inhaltsverzeichnis**
 
@@ -5147,6 +5172,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2a Absatz 7, § 4 Absatz 9)
 
 ## Anhang 3 Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE001903125)
 
 (Fundstelle: BGBl. I 2013, 704 — 706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5466,6 +5492,7 @@ chemische Wasseruntersuchung, DIN 38402-60, Ausgabe Dezember 2013.
 (zu § 11 Absatz 2)
 
 ## Anhang 4 Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE002602125)
 
 (Fundstelle: BGBl. I 2013, 706 — 708;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5829,6 +5856,7 @@ ausgefüllten Lieferscheines ist 10 Jahre lang aufzubewahren.
 (zu Anhang 1 Nummer 2, Tabellenzeile
 
 ## Anhang 5 „Sammel- und Transportmaterialien aus der getrennten Bioabfallsammlung“, Spalte 3, Satz 1 Buchstabe c)
+[Direktlink](https://www.gesetze-im-internet.de/bioabfv/BJNR295500998.html#BJNR295500998BJNE003000125)
 
 (Fundstelle: BGBl. I 2022, 714 — 719)
 

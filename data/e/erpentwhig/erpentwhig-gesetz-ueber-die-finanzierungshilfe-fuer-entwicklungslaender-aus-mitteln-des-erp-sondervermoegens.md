@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000104377)
 
 (1) Zur Förderung der Zusammenarbeit mit dem Ausland, insbesondere mit
 den Entwicklungsländern, ist das Bundesministerium für Wirtschaft und
@@ -37,6 +38,7 @@ verwendet worden sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000200313)
 
 Die Förderungsmittel dienen in Ergänzung anderer Leistungen,
 insbesondere des Geld- und Kapitalmarktes, zur Gewährung von Darlehen
@@ -45,6 +47,7 @@ Gewährleistungen übernimmt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000304377)
 
 (1) Für den Förderungszweck, insbesondere zur Erfüllung der nach § 1
 Abs. 1 eingegangenen Verpflichtungen, werden bereitgestellt:
@@ -68,6 +71,7 @@ Sondervermögens zu beschaffen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000404377)
 
 Das Bundesministerium für Wirtschaft und Energie ist ermächtigt,
 Kassenmittel zur Vorfinanzierung der Darlehen nach § 1 zu verwenden.
@@ -76,6 +80,7 @@ Jahresrechnung gesondert nachzuweisen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000500313)
 
 (1) Die Förderungsmittel bleiben Bestandteil des ERP-Sondervermögens.
 
@@ -85,6 +90,7 @@ Verwaltung des ERP-Sondervermögens vom 31. August 1953
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000600313)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -92,6 +98,7 @@ im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/erpentwhig/BJNR205770961.html#BJNR205770961BJNE000700313)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

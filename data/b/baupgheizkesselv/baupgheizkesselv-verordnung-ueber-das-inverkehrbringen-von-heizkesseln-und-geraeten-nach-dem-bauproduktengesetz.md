@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000100305)
 
 (1) Diese Verordnung regelt im Hinblick auf die Anforderungen an den
 Wirkungsgrad das Inverkehrbringen von Geräten und Heizkesseln, die mit
@@ -57,6 +58,7 @@ Nennleistung gleich oder größer als 4 kW und gleich oder kleiner als
 
 
 ## § 2 Begriffsdefinitionen
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000200305)
 
 Im Sinne dieser Verordnung sind
 
@@ -114,6 +116,7 @@ Im Sinne dieser Verordnung sind
 
 
 ## § 3 Wirkungsgradanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000300305)
 
 (1) Heizkessel müssen den jeweiligen Wirkungsgradanforderungen an die
 verschiedenen Heizkesseltypen des Anhangs 1 entsprechen. Geräte müssen
@@ -134,6 +137,7 @@ Heizfunktion.
 
 
 ## § 4 Voraussetzungen für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000400305)
 
 (1) Heizkessel und Geräte dürfen nur in den Verkehr gebracht werden,
 wenn sie mit der CE-Kennzeichnung nach § 5 Abs. 1 und 2 versehen sind
@@ -203,6 +207,7 @@ Heizkessels ausweisen.
 
 
 ## § 5 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000502116)
 
 (1) Die nach § 4 Abs. 1 und 2 erforderliche CE-Kennzeichnung ist gut
 sichtbar, lesbar und dauerhaft auf den Heizkesseln und Geräten
@@ -244,11 +249,13 @@ Marktüberwachungsgesetzes anzuwenden.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000601310)
 
 -
 
 
 ## § 7 Prüf-, Überwachungs- und Zertifizierungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000701116)
 
 (1) Die nach Landesrecht zuständige oder von der Landesregierung
 bestimmte Anerkennungsbehörde kann auf schriftlichen Antrag eine
@@ -286,6 +293,7 @@ Absatz 1 anerkannten Stellen gleich.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000802116)
 
 Ordnungswidrig im Sinne des § 8 Absatz 1 des Bauproduktengesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 1 Satz 1
@@ -293,6 +301,7 @@ oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
 
 
 ## Anhang 1 Wirkungsgradanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE000900305)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 801)
 
@@ -379,11 +388,13 @@ oder Abs. 2 einen Heizkessel oder ein Gerät in den Verkehr bringt.
 
 
 ## Anhang 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE001001310)
 
 -
 
 
 ## Anhang 3
+[Direktlink](https://www.gesetze-im-internet.de/baupgheizkesselv/BJNR079610998.html#BJNR079610998BJNE001101310)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

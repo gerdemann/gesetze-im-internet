@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNG000100000)
 
 
 
 ### § 1 Wesen der REIT-Aktiengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000102123)
 
 (1) REIT-Aktiengesellschaften sind Aktiengesellschaften, deren
 Unternehmensgegenstand sich darauf beschränkt,
@@ -106,6 +108,7 @@ Handelsgesetzbuchs entsprechend anzuwenden.
 
 
 ### § 2 Vor-REIT
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000200000)
 
 Ein Vor-REIT ist eine Aktiengesellschaft mit Sitz im Geltungsbereich
 dieses Gesetzes, die beim Bundeszentralamt für Steuern als Vor-REIT
@@ -125,6 +128,7 @@ REIT zum Ende dieses Geschäftsjahres.
 
 
 ### § 3 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000301360)
 
 (1) Immobilienpersonengesellschaften sind rechtsfähige
 Personengesellschaften, deren Unternehmensgegenstand im Sinne des § 1
@@ -191,12 +195,14 @@ sind.
 
 
 ### § 4 Mindestnennbetrag des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000400000)
 
 Der Mindestnennbetrag des Grundkapitals einer REIT-Aktiengesellschaft
 ist 15 Millionen Euro.
 
 
 ### § 5 Form der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000500000)
 
 (1) Sämtliche Aktien der REIT-Aktiengesellschaft müssen als
 stimmberechtigte Aktien gleicher Gattung begründet werden. Sie dürfen
@@ -207,6 +213,7 @@ nicht.
 
 
 ### § 6 Firma
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000600000)
 
 Die Firma einer REIT-Aktiengesellschaft muss, auch wenn sie nach § 22
 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
@@ -215,6 +222,7 @@ fortgeführt wird, die Bezeichnung "REIT-Aktiengesellschaft" oder
 
 
 ### § 7 Bezeichnungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000700000)
 
 Eine Gesellschaft, die ihren Sitz im Geltungsbereich dieses Gesetzes
 hat, darf die Bezeichnung "REIT-Aktiengesellschaft" oder eine
@@ -226,22 +234,26 @@ Voraussetzungen der §§ 8 bis 15 erfüllt.
 
 
 ## Abschnitt 2 - Qualifikation als REIT-Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNG000200000)
 
 
 
 ### § 8 Anmeldung als REIT-Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000800000)
 
 Die Firma der REIT-Aktiengesellschaft (§ 6) ist bei dem zuständigen
 Gericht zur Eintragung in das Handelsregister anzumelden.
 
 
 ### § 9 Sitz
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE000900000)
 
 Die REIT-Aktiengesellschaft muss ihren Sitz und ihre Geschäftsleitung
 im Inland haben.
 
 
 ### § 10 Börsenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001002123)
 
 (1) Die Aktien der REIT-Aktiengesellschaft müssen zum Handel an einem
 organisierten Markt im Sinne des § 2 Absatz 11 des
@@ -264,6 +276,7 @@ beantragt wird.
 
 
 ### § 11 Streuung der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001102123)
 
 (1) Mindestens 15 Prozent der Aktien einer REIT-Aktiengesellschaft
 müssen sich im Streubesitz befinden. Im Zeitpunkt der Börsenzulassung
@@ -299,6 +312,7 @@ Aktiengesellschaft erreicht, überschreitet oder unterschreitet.
 
 
 ### § 12 Vermögens- und Ertragsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001201123)
 
 (1) Ist die REIT-Aktiengesellschaft zur Aufstellung eines
 Konzernabschlusses gemäß § 315e des Handelsgesetzbuchs verpflichtet,
@@ -365,6 +379,7 @@ Erträgen hinzuzusetzen.
 
 
 ### § 13 Ausschüttung an die Anleger
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001301140)
 
 (1) Die REIT-Aktiengesellschaft ist verpflichtet, bis zum Ende des
 folgenden Geschäftsjahres mindestens 90 Prozent ihres
@@ -400,6 +415,7 @@ werden.
 
 
 ### § 14 Ausschluss des Immobilienhandels
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001400000)
 
 (1) Die REIT-Aktiengesellschaft darf keinen Handel mit ihrem
 unbeweglichen Vermögen betreiben.
@@ -420,6 +436,7 @@ bisherigen Geschäftsjahre abzustellen.
 
 
 ### § 15 Mindesteigenkapital
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001502123)
 
 Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss
 nach § 12 Abs. 1 ausgewiesene Eigenkapital der REIT-Aktiengesellschaft
@@ -432,10 +449,12 @@ die Berechnung des Mindesteigenkapitals als Eigenkapital.
 
 
 ## Abschnitt 3 - Steuerliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNG000300000)
 
 
 
 ### § 16 Steuerbefreiung der REIT-Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001600000)
 
 (1) Eine REIT-Aktiengesellschaft, die die Voraussetzungen der §§ 8 bis
 15 erfüllt, unbeschränkt körperschaftsteuerpflichtig ist und nicht im
@@ -500,6 +519,7 @@ anzuwenden.
 
 
 ### § 17 Beginn der Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001701360)
 
 (1) Die Steuerbefreiung tritt zu Beginn des Wirtschaftsjahres ein, in
 dem die REIT-Aktiengesellschaft nach der Anmeldung gemäß § 8 unter
@@ -526,6 +546,7 @@ wieder aufleben oder beginnen.
 
 
 ### § 18 Ende der Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001800000)
 
 (1) Die Steuerbefreiung nach § 16 Abs. 1 endet zum Ende des
 Wirtschaftsjahres, das dem Verlust der Börsenzulassung nach § 10
@@ -586,6 +607,7 @@ Steuerpflicht.
 
 
 ### § 19 Besteuerung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE001901140)
 
 (1) Die Ausschüttungen der REIT-Aktiengesellschaft und anderer REIT-
 Körperschaften, -Personenvereinigungen oder -Vermögensmassen sowie
@@ -640,6 +662,7 @@ diese Einkünfte erhobenen ausländischen Steuer zu vermeiden.
 
 
 ### § 19a Berücksichtigung von Vorbelastungen bei der Besteuerung der Anteilsinhaber
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE002400140)
 
 (1) Abweichend von § 19 Abs. 3 sind § 3 Nr. 40 und § 3c Abs. 2 des
 Einkommensteuergesetzes sowie § 8b des Körperschaftsteuergesetzes
@@ -708,6 +731,7 @@ REIT-Körperschaft,
 
 
 ### § 20 Kapitalertragssteuerabzug
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE002002360)
 
 (1) Von den Ausschüttungen, sonstigen Vorteilen und Bezügen nach
 Kapitalherabsetzung oder Auflösung einer inländischen REIT-
@@ -749,6 +773,7 @@ kontrolliert werden.
 
 
 ### § 21 Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE002102123)
 
 (1) Auf die Zahlungen nach den §§ 16 und 19a sind die für die
 Körperschaftsteuer geltenden Vorschriften der Abgabenordnung
@@ -782,10 +807,12 @@ eine Außenprüfung anzuordnen oder Sachverständige hinzuzuziehen.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNG000400000)
 
 
 
 ### § 22 Übergangsregelung zu § 7
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE002200000)
 
 Abweichend von § 7 darf eine Gesellschaft die Bezeichnung "REIT-
 Aktiengesellschaft" oder eine Bezeichnung, in der der Begriff "Real
@@ -800,6 +827,7 @@ werden.
 
 
 ### § 23 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/reitg/BJNR091410007.html#BJNR091410007BJNE002304123)
 
 (1) Diese Fassung des Gesetzes ist vorbehaltlich der nachfolgenden
 Absätze erstmals für das Kalenderjahr 2008 anzuwenden.

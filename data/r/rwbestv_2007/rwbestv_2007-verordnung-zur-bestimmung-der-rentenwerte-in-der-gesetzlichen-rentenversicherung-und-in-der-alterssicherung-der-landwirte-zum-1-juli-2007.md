@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000100000)
 
 Auf Grund
 
@@ -68,6 +69,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2007 an 26,27 Euro.
 
@@ -76,6 +78,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 2007 an 12,13 Euro.
@@ -85,6 +88,7 @@ Landwirte beträgt vom 1. Juli 2007 an 10,66 Euro.
 
 
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2008
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000400000)
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2008 0,9825.
 
@@ -92,6 +96,7 @@ Landwirte beträgt vom 1. Juli 2007 an 10,66 Euro.
 
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2007 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -106,6 +111,7 @@ Der Anpassungsfaktor beträgt 1,0054.
 
 
 ## § 5 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2007 an
@@ -123,11 +129,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2007/BJNR111300007.html#BJNR111300007BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

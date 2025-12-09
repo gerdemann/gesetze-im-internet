@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmubgebv/BJNR233410021.html#BJNR233410021BJNE000101130)
 
 (1) Gebühren und Auslagen werden für individuell zurechenbare
 öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf
@@ -121,6 +122,7 @@ deutschen ausschließlichen Wirtschaftszone und des Festlandsockels.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmubgebv/BJNR233410021.html#BJNR233410021BJNE000200000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis in der Anlage. Das Gebühren- und
@@ -136,6 +138,7 @@ Anlage aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmubgebv/BJNR233410021.html#BJNR233410021BJNE000300000)
 
 Wenn im Gebühren- und Auslagenverzeichnis in der Anlage nichts anderes
 bestimmt ist, gelten für den Zeitaufwand von Verwaltungsbeschäftigten
@@ -146,6 +149,7 @@ geltenden Fassung festgelegt sind.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmubgebv/BJNR233410021.html#BJNR233410021BJNE000400000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 1. Oktober 2021 beantragt oder begonnen, aber
@@ -161,6 +165,7 @@ anzuwenden.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmubgebv/BJNR233410021.html#BJNR233410021BJNE000502130)
 
 (Fundstelle: BGBl. I 2021, 2336 - 2347;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

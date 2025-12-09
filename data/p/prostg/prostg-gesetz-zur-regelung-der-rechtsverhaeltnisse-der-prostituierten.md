@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/prostg/BJNR398310001.html#BJNR398310001BJNE000100305)
 
 Sind sexuelle Handlungen gegen ein vorher vereinbartes Entgelt
 vorgenommen worden, so begründet diese Vereinbarung eine
@@ -31,6 +32,7 @@ für eine bestimmte Zeitdauer bereithält.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/prostg/BJNR398310001.html#BJNR398310001BJNE000200305)
 
 Die Forderung kann nicht abgetreten und nur im eigenen Namen geltend
 gemacht werden. Gegen eine Forderung gemäß § 1 Satz 1 kann nur die
@@ -42,6 +44,7 @@ weitere Einwendungen und Einreden ausgeschlossen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/prostg/BJNR398310001.html#BJNR398310001BJNE000301123)
 
 (1) Weisungen, die das Ob, die Art oder das Ausmaß der Erbringung
 sexueller Dienstleistungen vorschreiben, sind unzulässig.

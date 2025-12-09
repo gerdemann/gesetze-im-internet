@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 215-10-3 v. 11.1.2004 I 75 (THW-MitwV)
 
 ## § 1 Mindestalter für Helferinnen und Helfer
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000100000)
 
 Helferin oder Helfer kann werden, wer mindestens sechs Jahre alt ist.
 Helferinnen und Helfer, die noch nicht 18 Jahre alt sind, sind
@@ -25,6 +26,7 @@ Junghelferinnen und Junghelfer.
 
 
 ## § 2 Zustandekommen des Amtsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000200000)
 
 (1) Eine Aufnahme in das Amtsverhältnis zum Bund für den
 ehrenamtlichen Dienst im Technischen Hilfswerk kann nur auf Antrag in
@@ -40,6 +42,7 @@ Ermessen über die Annahme des Antrags.
 
 
 ## § 3 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000300000)
 
 Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen
 Probezeit. Das Technische Hilfswerk kann die Probezeit aus wichtigem
@@ -49,6 +52,7 @@ schriftlich oder elektronisch mitzuteilen.
 
 
 ## § 4 Inhalt des Amtsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000400000)
 
 (1) Helferinnen und Helfer tragen zur Gestaltung des Technischen
 Hilfswerks bei, wirken bei der Erfüllung von dessen Aufgaben mit und
@@ -66,6 +70,7 @@ Verwendung im Technischen Hilfswerk vorbereiten sollen.
 
 
 ## § 5 Folgen bei Verstoß gegen Dienstpflichten
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000500000)
 
 (1) Verstößt eine Helferin oder ein Helfer schuldhaft gegen eine
 Dienstpflicht, so kann sie oder er abhängig von der Schwere des
@@ -95,6 +100,7 @@ Eignung fehlt.
 
 
 ## § 6 Beendigung des Amtsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000600000)
 
 (1) Das Technische Hilfswerk beendet das Amtsverhältnis einer Helferin
 oder eines Helfers durch Entlassung, wenn die Helferin oder der Helfer
@@ -155,6 +161,7 @@ Erklärung in schriftlicher oder elektronischer Form beenden.
 
 
 ## § 7 Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000700000)
 
 (1) Helferinnen und Helfer tragen zur Gestaltung und Weiterentwicklung
 des Technischen Hilfswerks auch dadurch bei, dass ihre Interessen
@@ -264,6 +271,7 @@ einzuladen.
 
 
 ## § 8 Ermächtigung zum Erlass von Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/thwmitwv_2023/BJNR1130B0023.html#BJNR1130B0023BJNE000800000)
 
 Zu näheren Einzelheiten der Anwendung und Durchführung dieser
 Verordnung erlässt das Technische Hilfswerk Verwaltungsvorschriften,

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/hfzhvzvstg/BJNR013360991.html#BJNR013360991BJNE000101301)
 
 Abweichend von § 21 Abs. 1 des Bewertungsgesetzes findet für die
 wirtschaftlichen Einheiten des Betriebsvermögens die nächste
@@ -28,6 +29,7 @@ Hauptfeststellung der Einheitswerte auf den 1. Januar 1993 statt.
 
 
 ## § 2 Verlängerung des Hauptveranlagungszeitraums für die Vermögensteuer
+[Direktlink](https://www.gesetze-im-internet.de/hfzhvzvstg/BJNR013360991.html#BJNR013360991BJNE000201301)
 
 (1) Abweichend von § 15 Abs. 1 Satz 1 des Vermögensteuergesetzes
 findet die nächste Hauptveranlagung der Vermögensteuer auf den 1.

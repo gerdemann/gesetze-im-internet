@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000400304)
 
 Auf Grund der §§ 58, 64, 65 des Bereinigungsgesetzes für deutsche
 Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet
@@ -28,10 +29,12 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## Abschnitt I - Verwaltungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNG000100304)
 
 
 
 ### § 1 Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000500304)
 
 (1) Die Aussteller von Auslandsbonds haben als Abschlag auf die
 Verwaltungsabgabe (§ 64 des Gesetzes) drei vom Tausend des vorläufigen
@@ -172,6 +175,7 @@ Sammelanerkennung anerkannt worden sind.
 
 
 ### § 2 Verwaltungsabgabe für das Verfahren der Sammelanerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000600304)
 
 (1) Für das Verfahren der Sammelanerkennung (§§ 13, 55 bis 58 des
 Gesetzes) haben die Aussteller als Verwaltungsabgabe eins vom Tausend
@@ -186,6 +190,7 @@ Gesetzes) zurückgenommen haben.
 
 
 ### § 3 Erhebung der Verwaltungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000701377)
 
 (1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt
 für Wertpapierbereinigung gegen die Aussteller nach dem Inkrafttreten
@@ -217,16 +222,19 @@ Aussteller.
 
 
 ### § 4 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000800304)
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche
 Auslandsschulden sind von den Zahlungen nach §§ 1 und 2 befreit.
 
 
 ## Abschnitt II - Vorschußverpflichtung der Aussteller
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNG000200304)
 
 
 
 ### § 5 Vorschußverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE000900304)
 
 (1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben die
 Aussteller von Auslandsbonds auf die Zahlungen, die von den
@@ -243,6 +251,7 @@ mehr zu erwarten ist.
 
 
 ### § 6 Erhebung der Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE001000304)
 
 (1) Für die Erhebung der Vorschüsse gilt § 3 Abs. 1, 3 und 4
 sinngemäß, soweit er sich nicht auf das Verfahren der
@@ -254,16 +263,19 @@ zahlen.
 
 
 ## Abschnitt III - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNG000300304)
 
 
 
 ### § 7 Geltung der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE001100304)
 
 Die Allgemeinen Vorschriften des Zweiten Teils der Abgabenordnung
 gelten sinngemäß, soweit nichts anderes bestimmt ist.
 
 
 ### § 8 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE001200304)
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
@@ -272,6 +284,7 @@ diese Rechtsverordnung auch im Land Berlin.
 
 
 ### § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbgdv_5/BJNR007170953.html#BJNR007170953BJNE001300304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

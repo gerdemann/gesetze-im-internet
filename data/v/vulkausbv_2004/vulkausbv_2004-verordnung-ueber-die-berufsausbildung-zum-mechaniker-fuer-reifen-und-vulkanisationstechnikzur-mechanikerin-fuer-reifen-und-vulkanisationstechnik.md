@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -29,6 +30,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000200000)
 
 Der Ausbildungsberuf Mechaniker für Reifen- und
 Vulkanisationstechnik/Mechanikerin für Reifen- und
@@ -38,6 +40,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre. Im dritten Ausbildungsjahr kann
 zwischen den Fachrichtungen
@@ -59,6 +62,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
@@ -72,6 +76,7 @@ und 11 nachzuweisen.
 
 
 ## § 4 Berufsfeldbreite Grundbildung
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000500000)
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -81,6 +86,7 @@ Berufsgrundbildungsjahr erfolgen.
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -185,6 +191,7 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000700000)
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung
 der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen
@@ -196,6 +203,7 @@ erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -203,6 +211,7 @@ zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE000900000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -211,6 +220,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -255,6 +265,7 @@ Durchführung der Arbeitsaufgaben begründen können.
 
 
 ## § 10 Gesellenprüfung in der Fachrichtung Reifen- und Fahrwerktechnik
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001100000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -415,6 +426,7 @@ sein.
 
 
 ## § 11 Gesellenprüfung in der Fachrichtung Vulkanisationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001200000)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -579,6 +591,7 @@ sein.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001300000)
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -602,12 +615,14 @@ Verordnung.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001400000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/vulkausbv_2004/BJNR090800004.html#BJNR090800004BJNE001500000)
 
 
 *    *   (Fundstelle: BGBl. I 2004, 912 - 921)

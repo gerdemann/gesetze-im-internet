@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000100000)
 
 Dieses Gesetz dient der Bekämpfung des Einsatzes von Dopingmitteln und
 Dopingmethoden im Sport, um die Gesundheit der Sportlerinnen und
@@ -29,6 +30,7 @@ des Sports beizutragen.
 
 
 ## § 2 Unerlaubter Umgang mit Dopingmitteln, unerlaubte Anwendung von Dopingmethoden
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000201116)
 
 (1) Es ist verboten, ein Dopingmittel, das ein in der Anlage I des
 Internationalen Übereinkommens vom 19. Oktober 2005 gegen Doping im
@@ -75,6 +77,7 @@ Gesetzes zu verbringen.
 
 
 ## § 3 Selbstdoping
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000300000)
 
 (1) Es ist verboten,
 
@@ -126,6 +129,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 4 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000400000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -226,6 +230,7 @@ oder anwenden lässt.
 
 
 ## § 4a Strafmilderung oder Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE001400116)
 
 Das Gericht kann die Strafe nach § 49 Absatz 1 des Strafgesetzbuches
 mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei
@@ -250,12 +255,14 @@ entsprechend.
 
 
 ## § 5 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000501116)
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können
 eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 
 
 ## § 6 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000601116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
@@ -286,6 +293,7 @@ verhüten.
 
 
 ## § 7 Hinweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000700000)
 
 (1) In der Packungsbeilage und in der Fachinformation von
 Arzneimitteln, die in Anlage I des Internationalen Übereinkommens
@@ -311,6 +319,7 @@ II, in den Verkehr gebracht werden.
 
 
 ## § 8 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000801116)
 
 (1) Gerichte und Staatsanwaltschaften dürfen der Stiftung Nationale
 Anti Doping Agentur Deutschland personenbezogene Daten aus
@@ -326,6 +335,7 @@ Zulässigkeit der Übermittlung trägt die übermittelnde Stelle.
 
 
 ## § 9 Umgang mit personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE000901116)
 
 Die Stiftung Nationale Anti Doping Agentur Deutschland ist berechtigt,
 folgende personenbezogene Daten zu verarbeiten, soweit dies zur
@@ -367,6 +377,7 @@ Durchführung ihres Dopingkontrollsystems erforderlich ist:
 
 
 ## § 10 Umgang mit Gesundheitsdaten
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE001001116)
 
 (1) Die Stiftung Nationale Anti Doping Agentur Deutschland ist
 berechtigt, im Rahmen des Dopingkontrollsystems folgende
@@ -407,6 +418,7 @@ werden.
 
 
 ## § 11 Schiedsgerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE001100000)
 
 Sportverbände und Sportlerinnen und Sportler können als Voraussetzung
 der Teilnahme von Sportlerinnen und Sportlern an der organisierten
@@ -421,6 +433,7 @@ Anti-Doping Agentur umgesetzt werden sollen.
 
 
 ## § 12 Konzentration der Rechtsprechung in Dopingsachen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE001200000)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 strafrechtlichen Verfahren nach § 4 ganz oder teilweise für die
@@ -432,6 +445,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ## Anlage (zu § 2 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/antidopg/BJNR221010015.html#BJNR221010015BJNE001303130)
 
 (Fundstelle: BGBl. 2023 I, Nr. 67, 1 - 5)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/postdiensternano_1991/BJNR010600991.html#BJNR010600991BJNE000100308)
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
@@ -31,17 +32,20 @@ Posttechnischen Zentralamt.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/postdiensternano_1991/BJNR010600991.html#BJNR010600991BJNE000200308)
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/postdiensternano_1991/BJNR010600991.html#BJNR010600991BJNE000300308)
 
 Diese Anordnung tritt am 1. Juli 1991 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/postdiensternano_1991/BJNR010600991.html#BJNR010600991BJNE000400308)
 
 Deutsche Bundespost POSTDIENST
 Generaldirektion

@@ -20,6 +20,7 @@ Fundstelle
 Stand: Das G ist gem. Bek. v. 14.5.2024 I Nr. 165 mWv 1.5.2024 in Kraft getreten
 
 ## § 1 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000100000)
 
 Soweit dieses Gesetz oder der Vertrag vom 5. April 2022 zwischen der
 Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
@@ -36,6 +37,7 @@ Ordnungswidrigkeiten sinngemäß.
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000200000)
 
 Die Aufgaben nach den Artikeln 48 bis 51 des Deutsch-Schweizerischen
 Polizeivertrages nimmt das Bundesamt für Justiz als zentrale
@@ -44,6 +46,7 @@ Vollstreckungshilfeersuchen wahr.
 
 
 ## § 3 Unzulässigkeit der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000300000)
 
 Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
@@ -59,6 +62,7 @@ Die Vollstreckung einer schweizerischen Entscheidung ist unzulässig
 
 
 ## § 4 Anhörung der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000400000)
 
 (1) Die Bewilligungsbehörde hat der von einem schweizerischen
 Vollstreckungshilfeersuchen betroffenen Person ein Anhörungsschreiben
@@ -88,6 +92,7 @@ Bewilligungsbehörde
 
 
 ## § 5 Rechtsbeistand der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000500000)
 
 (1) Die von einem schweizerischen Vollstreckungshilfeersuchen
 betroffene Person kann sich in jeder Lage des Verfahrens eines
@@ -136,6 +141,7 @@ Absatz 3 sowie des § 144 gelten entsprechend.
 
 
 ## § 6 Bewilligung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000600000)
 
 (1) Die Bewilligungsbehörde entscheidet über die Bewilligung der
 Vollstreckung einer schweizerischen Entscheidung, sofern sie nicht
@@ -162,6 +168,7 @@ Bewilligung ist mit Gründen zu versehen und enthält
 
 
 ## § 7 Einspruch gegen die Bewilligung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000700000)
 
 (1) Die von einem schweizerischen Vollstreckungshilfeersuchen
 betroffene Person kann gegen die Bewilligung der Vollstreckung einer
@@ -187,6 +194,7 @@ Einspruch abhilft.
 
 
 ## § 8 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000800000)
 
 (1) Gegen die Bewilligung der Vollstreckung und gegen die Entscheidung
 über die Unzulässigkeit des Einspruchs (§ 7 Absatz 2) ist der
@@ -245,6 +253,7 @@ sie vernehmen. Über die Verhandlung ist ein Protokoll aufzunehmen.
 
 
 ## § 9 Gerichtliche Entscheidung nach Einspruch oder auf Antrag der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE000900000)
 
 (1) Über den Einspruch der betroffenen Person (§ 7) entscheidet das
 Gericht durch Beschluss.
@@ -287,6 +296,7 @@ Entscheidung des Gerichts ist unanfechtbar.
 
 
 ## § 10 Gerichtliche Entscheidung auf Antrag der Bewilligungsbehörde; Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001000000)
 
 (1) Ist die schweizerische Entscheidung wegen einer nach
 schweizerischem Recht strafbaren Tat gegen einen Jugendlichen oder
@@ -332,6 +342,7 @@ gilt entsprechend. Die Bewilligung enthält
 
 
 ## § 11 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001100000)
 
 (1) Gegen die Beschlüsse des Amtsgerichts nach § 9 Absatz 3 und § 10
 Absatz 3 ist die Rechtsbeschwerde zulässig, wenn sie zugelassen wird.
@@ -362,6 +373,7 @@ internationale Rechtshilfe in Strafsachen entsprechend.
 
 
 ## § 12 Zulassung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001200000)
 
 (1) Das Beschwerdegericht lässt die Rechtsbeschwerde auf Antrag der
 betroffenen Person oder der Bewilligungsbehörde zu, wenn es geboten
@@ -399,6 +411,7 @@ des Beschlusses nach § 9 Absatz 3 oder § 10 Absatz 3 eingetreten ist.
 
 
 ## § 13 Besetzung der Senate der Oberlandesgerichte
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001300000)
 
 (1) Über die Zulassung der Rechtsbeschwerde und über die
 Rechtsbeschwerde entscheidet das Oberlandesgericht.
@@ -429,6 +442,7 @@ Richtern einschließlich des Vorsitzenden besetzt, wenn
 
 
 ## § 14 Verbot der Doppelverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001400000)
 
 Wird die Vollstreckung einer schweizerischen Entscheidung bewilligt,
 so darf die Tat, die dieser Entscheidung zugrunde liegt, nach
@@ -437,6 +451,7 @@ verfolgt werden.
 
 
 ## § 15 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001500000)
 
 (1) Die Vollstreckungsbehörde vollstreckt die schweizerische
 Entscheidung. Dies gilt nicht, wenn das Gericht nach einem Einspruch
@@ -479,6 +494,7 @@ das zuständige Amtsgericht seinen Sitz hat.
 
 
 ## § 16 Inländisches Vollstreckungsverfahren und Ruhen der Verjährung bei ausgehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001600000)
 
 (1) Die Vollstreckung der einem ausgehenden Ersuchen zugrunde
 liegenden deutschen Entscheidung im Inland ist unzulässig, wenn die
@@ -495,12 +511,14 @@ Zahlungserleichterung in der Schweiz bewilligt wurde.
 
 
 ## § 17 Ausschluss von Ersatzfreiheitsstrafen in ausgehenden Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001700000)
 
 Die Anordnung einer Ersatzfreiheitsstrafe in der Schweiz ist im
 ausgehenden Ersuchen ausdrücklich auszuschließen.
 
 
 ## § 18 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/dechpolvtrug/BJNR16D0B0023.html#BJNR16D0B0023BJNE001800000)
 
 Die Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes)
 wird nach Maßgabe dieses Gesetzes eingeschränkt.

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2024/BJNR1510A0023.html#BJNR1510A0023BJNE000100000)
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des
 Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –,
@@ -115,6 +116,7 @@ in Entgeltpunkte (Ost) findet nur bis zum 30. Juni 2024 statt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2024/BJNR1510A0023.html#BJNR1510A0023BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

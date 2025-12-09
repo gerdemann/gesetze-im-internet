@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000100314)
 
 Zur zügigen Reorganisation des volkseigenen Vermögens und seiner
 Entflechtung im Interesse zweckmäßiger Unternehmensstrukturen wird
@@ -28,6 +29,7 @@ verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000200314)
 
 (1) Diese Durchführungsverordnung gilt für die im Register der
 volkseigenen Wirtschaft eingetragenen volkseigenen Kombinate,
@@ -41,6 +43,7 @@ des öffentlichen Straßennetzes und andere Staatsunternehmen sind.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000300314)
 
 (1) Wirtschaftseinheiten, die am 30. Juni 1990 auf der Grundlage von
 Nutzungsverträgen betriebsnotwendige Grundstücke überwiegend und nicht
@@ -55,12 +58,14 @@ dem Umfang, der im Nutzungsvertrag bezeichnet ist, als geteilt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000400314)
 
 Rechte nach § 2 erlöschen, wenn der Nutzer sie nicht bis zum 31.
 Dezember 1990 dem bisherigen Rechtsträger angezeigt hat.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000500314)
 
 (1) Die Teilung bzw. Übergabe eines Grundstücks erfolgt auf der
 Grundlage eines Übergabe-/Übernahmeprotokolls zwischen dem ehemaligen
@@ -102,6 +107,7 @@ werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000600314)
 
 Streitigkeiten werden bei Unternehmen, an denen die Treuhandanstalt
 beteiligt ist, durch die Treuhandanstalt geschlichtet. Der Gerichtsweg
@@ -109,12 +115,14 @@ wird dadurch nicht berührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000700314)
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhgdv_5/DDNR014660990.html#DDNR014660990BJNE000800314)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

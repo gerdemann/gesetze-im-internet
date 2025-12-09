@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000200305)
 
 Zur Milderung von Härten, die durch den Anstieg der Energiepreise
 entstanden sind oder entstehen werden, wird für die Heizperiode
@@ -32,6 +34,7 @@ dieses Gesetzes gewährt.
 
 
 ## § 2 Anspruchsberechtigte, Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000300305)
 
 (1) Anspruch auf einen Zuschuss haben allein stehende Personen und
 Haushaltsvorstände,
@@ -79,6 +82,7 @@ Einkommen im Sinne des Absatzes 1 Satz 1 Nr. 2.
 
 
 ## § 3 Höhe des Zuschusses
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000400305)
 
 Der Zuschuss beträgt 5 Deutsche Mark je Quadratmeter Wohnfläche. Bei
 jedem Empfänger von Ausbildungsförderung nach dem
@@ -89,6 +93,7 @@ von 20 Quadratmetern zu Grunde zu legen.
 
 
 ## § 4 Amtsgrundsatz, Antrag
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000500305)
 
 (1) Der Zuschuss wird vorbehaltlich des Absatzes 2 von Amts wegen
 durch die für die Bewilligung von Wohngeld zuständige Stelle gewährt.
@@ -105,6 +110,7 @@ Antrag unverzüglich an die zuständige Stelle weiterzuleiten.
 
 
 ## § 5 Kostenerstattung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000600305)
 
 (1) Zuschüsse, die ein Land auf Grund dieses Gesetzes gewährt, werden
 ihm vom Bund erstattet.
@@ -199,6 +205,7 @@ Bundeshaushalt abgerufen werden.
 
 
 ## § 6 Entsprechend anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000700305)
 
 Die Vorschriften des Ersten und des Zehnten Buches Sozialgesetzbuch
 gelten entsprechend, soweit dieses Gesetz keine abweichende Regelung
@@ -206,6 +213,7 @@ trifft.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heizkzg/BJNR184600000.html#BJNR184600000BJNE000800305)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

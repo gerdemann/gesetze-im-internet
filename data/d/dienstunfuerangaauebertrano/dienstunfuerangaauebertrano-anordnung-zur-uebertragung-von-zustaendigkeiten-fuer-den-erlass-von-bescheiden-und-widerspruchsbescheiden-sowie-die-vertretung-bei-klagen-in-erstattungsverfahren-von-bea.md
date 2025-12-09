@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dienstunf_rangaa_bertrano/BJNR0CC0A0025.html#BJNR0CC0A0025BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -29,6 +30,7 @@ an:
 
 
 ## § 1 Übertragung der Zuständigkeit für Dienstunfallfürsorgeleistungen sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/dienstunf_rangaa_bertrano/BJNR0CC0A0025.html#BJNR0CC0A0025BJNE000200000)
 
 (1) Dem Bundesverwaltungsamt werden die Zuständigkeiten für die
 Auszahlung von Leistungen sowie die Vereinnahmung von Erstattungen in
@@ -72,6 +74,7 @@ selbst wahrzunehmen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dienstunf_rangaa_bertrano/BJNR0CC0A0025.html#BJNR0CC0A0025BJNE000300000)
 
 Diese Anordnung tritt mit Wirkung vom 1. Januar 2025 in Kraft.
 

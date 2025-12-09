@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv/BJNR204610981.html#BJNR204610981BJNE000100314)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv/BJNR204610981.html#BJNR204610981BJNE000200314)
 
 Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
 Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21.
@@ -42,6 +44,7 @@ veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv/BJNR204610981.html#BJNR204610981BJNE000300314)
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über den
@@ -54,6 +57,7 @@ auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/natkautschorgvorrv/BJNR204610981.html#BJNR204610981BJNE000400314)
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
 Übereinkommen nach seinem Artikel 61 für die Bundesrepublik

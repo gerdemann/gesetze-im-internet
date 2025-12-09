@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Grundvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000100315)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000200315)
 
 (1) Leistungen können angefordert werden
 
@@ -61,14 +63,17 @@ Bundesrat es verlangen.
 
 
 ## Erster Teil - Die Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000200315)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000300315)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000301307)
 
 (1) Als Leistungen können angefordert werden
 
@@ -144,6 +149,7 @@ gemäß § 1 Abs. 2 finden die Sätze 1 und 2 keine Anwendung.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000400315)
 
 (1) Leistungen dürfen nur angefordert werden, wenn der Bedarf auf
 andere Weise nicht oder nicht rechtzeitig oder nur mit
@@ -179,6 +185,7 @@ des Betroffenen muß gewährleistet bleiben.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000500315)
 
 (1) Zu Leistungen können alle natürlichen und juristischen Personen
 sowie Personenvereinigungen innerhalb und außerhalb des Bundesgebiets
@@ -248,6 +255,7 @@ angefordert werden.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000600315)
 
 (1) Leistungen können nur Behörden anfordern, die durch
 Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
@@ -317,6 +325,7 @@ Aufgaben und für den Schutz der Zivilbevölkerung zu berücksichtigen.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000700315)
 
 (1) Obliegt die Ausführung dieses Gesetzes Anforderungsbehörden der
 Länder, so handeln sie im Auftrag des Bundes, soweit der Vollzug des
@@ -334,6 +343,7 @@ Land erstattet.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000800315)
 
 (1) Die Anforderungsbehörden fordern die Leistungen in der Regel auf
 Antrag von Bedarfsträgern an. In dem Antrag sind der Grund der
@@ -347,6 +357,7 @@ Landesregierungen übertragen werden.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE000900315)
 
 (1) Leistungsempfänger ist der Bedarfsträger, in den Fällen des § 1
 Abs. 1 Nr. 3 der auswärtige Staat, für dessen Streitkräfte die
@@ -364,6 +375,7 @@ des Gesetzes.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001000315)
 
 (1) Leistungspflichtiger ist
 
@@ -405,6 +417,7 @@ erforderlich ist.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001100315)
 
 (1) Der Eigentümer kann eine Anforderung nach § 2 Abs. 1 Nr. 2
 verlangen, wenn eine Anforderung nach § 2 Abs. 1 Nr. 1 erfolgt ist und
@@ -436,10 +449,12 @@ unverhältnismäßig geringen Wert hätte.
 
 
 ### Zweiter Abschnitt - Rechtliche Wirkungen der Leistungsanforderung
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000400315)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001200315)
 
 Eine Anforderung nach § 2 Abs. 1 Nr. 1 und 3 bis 6 bewirkt nicht, daß
 Rechtsverhältnisse erlöschen, die den Leistungspflichtigen gegenüber
@@ -450,6 +465,7 @@ die Nutzung der Sache in vollem Umfang entzogen wird.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001300315)
 
 Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 1, 3 bis 5, 7 und 8
 dürfen auch diejenigen, die nicht Leistungspflichtige sind, Rechte zur
@@ -458,6 +474,7 @@ Leistungsempfängers entgegenstehen würden. § 11 gilt sinngemäß.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001400315)
 
 (1) Auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 2 hat der
 Leistungspflichtige dem Leistungsempfänger die angeforderte Sache
@@ -490,6 +507,7 @@ des Absatzes 3 gilt bis zum Eigentumserwerb des Leistungsempfängers §
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001500315)
 
 Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr.
 10 gilt als bindendes Vertragsangebot des Leistungspflichtigen. Eine
@@ -498,10 +516,12 @@ Leistungspflichtigen gegenüber unverzüglich zu erklären.
 
 
 ### Dritter Abschnitt - Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000500315)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001600315)
 
 (1) Alle natürlichen und juristischen Personen, Personenvereinigungen,
 Behörden und Einrichtungen haben, soweit sie nicht einer gesetzlichen
@@ -537,10 +557,12 @@ der für ihn tätigen Personen handelt.
 
 
 ### Vierter Abschnitt - Leistungsvorbereitungen
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000600315)
 
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001700315)
 
 (1) Der Leistungspflichtige ist zu Handlungen, Duldungen und
 Unterlassungen verpflichtet, die zur ordnungsmäßigen Vorbereitung der
@@ -555,10 +577,12 @@ die Anforderung der Leistung zuständige Behörde.
 
 
 ### Fünfter Abschnitt - Pflichten der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000700315)
 
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001801320)
 
 (1) Auf Grund der Anforderung hat der Leistungspflichtige die
 angeforderte Leistung rechtzeitig, ordnungsgemäß und vollständig zu
@@ -594,6 +618,7 @@ versetzen. § 258 Satz 2 des Bürgerlichen Gesetzbuchs gilt sinngemäß.
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE001900315)
 
 (1) Der Leistungsempfänger ist verpflichtet, die Leistung abzunehmen
 und dem Leistungspflichtigen ihren Empfang schriftlich zu bestätigen.
@@ -615,6 +640,7 @@ bestimmen sich nach den Vorschriften des Sechsten Abschnitts.
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002000315)
 
 Die Vorschriften des § 17 Abs. 1 und 2 über die Pflichten des
 Leistungspflichtigen gelten sinngemäß für den nach § 13 Abs. 1 Satz 2
@@ -623,10 +649,12 @@ schriftlich zu bestätigen.
 
 
 ### Sechster Abschnitt - Die Abgeltung
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000800315)
 
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002100315)
 
 (1) Im Fall der Anforderung nach § 2 Abs. 1 Nr. 1 und 3 bis 8 hat der
 Leistungsempfänger eine Entschädigung zu zahlen, die sich nach dem für
@@ -666,6 +694,7 @@ der Frist genügt die rechtzeitige Absendung der Anzeige.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002200315)
 
 Für Vermögensnachteile, die nicht schon durch die Entschädigung nach §
 20 abgegolten sind, hat der Leistungsempfänger eine Entschädigung zu
@@ -679,6 +708,7 @@ zu ersetzen.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002300315)
 
 (1) Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 9 hat der
 Leistungsempfänger eine Entschädigung zu zahlen, die sich nach den im
@@ -692,6 +722,7 @@ sofern nicht ein Entgelt vereinbart ist.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002400315)
 
 (1) Die Entschädigung nach § 20 kann verlangen
 
@@ -724,6 +755,7 @@ Entschädigung des Eigentümers nach § 20 angewiesen.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002500315)
 
 Für Leistungsvorbereitungen (§ 16) sowie für Schäden, die infolge
 einer Beschlagnahme (§ 45) entstehen, ist dem Leistungspflichtigen
@@ -731,6 +763,7 @@ eine angemessene Entschädigung zu zahlen.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002600315)
 
 Im Fall einer Anforderung nach § 2 Abs. 1 Nr. 7 ist dem Eigentümer für
 seine zur Durchführung dieser Maßnahmen notwendigen besonderen
@@ -739,6 +772,7 @@ sinngemäß im Fall des § 16 Abs. 1.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002700315)
 
 (1) Kann der Leistungsempfänger eine angeforderte Sache, zu deren
 Rückgabe er verpflichtet ist, nicht zurückgeben oder gibt er sie in
@@ -777,6 +811,7 @@ leisten.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002800315)
 
 Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger zum
 Leistungsempfänger bestimmt (§ 8 Abs. 2), so hat der
@@ -786,6 +821,7 @@ bürgerlichen Rechts ergibt.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE002901306)
 
 (1) Körper- und Gesundheitsschäden, Schäden durch Verlust,
 Beschädigung oder Verschlechterung anderer als der angeforderten
@@ -810,6 +846,7 @@ vorliegen.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003001320)
 
 (1) Wird die Entschädigung oder Ersatzleistung nicht innerhalb eines
 Monats nach Einigung (§ 51) oder Festsetzung, bei wiederkehrenden
@@ -829,6 +866,7 @@ Absatz 1 genannten Zinsen von diesem Zeitpunkt an zu zahlen.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003100315)
 
 In den Fällen der §§ 26 und 28 ist der Leistungsempfänger zur
 Ersatzleistung nur gegen Abtretung der Ansprüche verpflichtet, die dem
@@ -839,12 +877,14 @@ Versicherungsverhältnis.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003200315)
 
 Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der
 Entschädigung und Ersatzleistung.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003300315)
 
 (1) Eine Entschädigung nach den §§ 20 bis 22 und 24 sowie eine
 Ersatzleistung nach den §§ 26 und 27 wird nicht gezahlt, soweit einem
@@ -860,6 +900,7 @@ nicht, wenn der Schaden auch ohne die Anforderung eingetreten wäre.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003400315)
 
 (1) Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger
 zum Leistungsempfänger bestimmt (§ 8 Abs. 2) und erfüllt dieser seine
@@ -880,10 +921,12 @@ kann nicht zum Nachteil des Berechtigten geltend gemacht werden.
 
 
 ### Siebenter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG000900315)
 
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003500315)
 
 (1) Nach diesem Gesetz begründete Zahlungsansprüche verjähren in vier
 Jahren. Die Verjährung beginnt mit dem Schluß des Jahres, in dem der
@@ -903,20 +946,24 @@ Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183) bleiben unberührt.
 
 
 ## Zweiter Teil - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001000315)
 
 
 
 ### Erster Abschnitt - Durchführung der Anforderung
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001100315)
 
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003600315)
 
 Leistungen werden von der Anforderungsbehörde durch Leistungsbescheid
 angefordert.
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003700315)
 
 (1) Der Leistungsbescheid bedarf der Schriftform. In ihm müssen der
 Grund der Anforderung, die Anforderungsbehörde, der Gegenstand und der
@@ -948,6 +995,7 @@ eine Rechtsmittelbelehrung erteilen.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003800315)
 
 (1) Der Leistungsbescheid ist dem Leistungspflichtigen (§ 9)
 zuzustellen.
@@ -978,6 +1026,7 @@ ihren Rechten betroffen werden.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE003900315)
 
 Soll im Verteidigungsfall oder nach einer Feststellung der
 Bundesregierung gemäß § 1 Abs. 2 ein Verkehrsmittel nach § 2 Abs. 1
@@ -995,6 +1044,7 @@ Abs. 2 Satz 2, Abs. 4 und 5 gilt entsprechend.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004000315)
 
 Auf Antrag des Bedarfsträgers hat die Anforderungsbehörde die
 sofortige Vollziehung des Leistungsbescheids anzuordnen. In diesem
@@ -1002,11 +1052,13 @@ Fall kann die Widerspruchsbehörde die Vollziehung nicht aussetzen.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004100315)
 
 Leistungsvorbereitungen nach § 16 sind schriftlich anzufordern.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004200315)
 
 Zur Sicherung des Beweises soll, soweit es sachdienlich und unter den
 gegebenen Umständen möglich ist, der Zustand einer angeforderten Sache
@@ -1016,6 +1068,7 @@ die den Beteiligten zuzustellen ist.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004300315)
 
 Bietet der Leistungspflichtige dem Leistungsempfänger zu angemessenen
 Bedingungen den Abschluß eines Rechtsgeschäfts an, auf Grund dessen
@@ -1026,6 +1079,7 @@ des Rechtsgeschäfts ohne berechtigten Grund ablehnt.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004400315)
 
 (1) Fallen die Voraussetzungen der Anforderung weg, so hat die
 Anforderungsbehörde
@@ -1079,6 +1133,7 @@ berücksichtigen.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004500315)
 
 (1) Auf die Erzwingung von Handlungen, Duldungen oder Unterlassungen,
 die nach diesem Gesetz angefordert werden, sind die Vorschriften des
@@ -1092,6 +1147,7 @@ Verwaltungshilfe anderer Behörden in Anspruch nehmen.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004600315)
 
 (1) Die Anforderungsbehörde kann zur Sicherstellung einer
 anzufordernden Leistung die Beschlagnahme der Sache anordnen, auf die
@@ -1112,11 +1168,13 @@ zweier Monate angefordert wird.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004701320)
 
 (weggefallen)
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004801310)
 
 Für die Zustellungen durch die Verwaltungsbehörde nach diesem Gesetz
 gelten die Vorschriften des Verwaltungszustellungsgesetzes mit
@@ -1145,6 +1203,7 @@ folgender Maßgabe:
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE004900315)
 
 (1) Das Verfahren vor den Verwaltungsbehörden ist kostenfrei. Dem
 Leistungspflichtigen können jedoch Auslagen insoweit auferlegt werden,
@@ -1157,16 +1216,19 @@ sein Antrag als begründet erweist.
 
 
 ### Zweiter Abschnitt - Festsetzung von Entschädigung und Ersatzleistung
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001200315)
 
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005000315)
 
 Entschädigung und Ersatzleistung werden durch die Anforderungsbehörden
 festgesetzt.
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005100315)
 
 Wer Anspruch auf Entschädigung oder Ersatzleistung erhebt, hat der
 Anforderungsbehörde schriftlich oder zur Niederschrift zu erklären, ob
@@ -1177,6 +1239,7 @@ Berechtigte benannten Personen zuzustellen.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005200315)
 
 (1) Vor der Festsetzung der Entschädigung oder der Ersatzleistung hat
 die Anforderungsbehörde durch einen Vorschlag auf eine gütliche
@@ -1205,6 +1268,7 @@ Verzicht auf das Recht der Rücknahme zu hinterlegen ist.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005300315)
 
 (1) Die Niederschrift über die Einigung nach § 51 Abs. 2 ist nach
 Zustellung an die Beteiligten vollstreckbar. Der Festsetzungsbescheid
@@ -1225,6 +1289,7 @@ befaßte Behörde ihren Sitz hat, an die Stelle des Prozeßgerichts.
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005400315)
 
 (1) Hat der Entschädigungsberechtigte im Fall einer Anforderung nach §
 2 Abs. 1 Nr. 2 gegenüber der Anforderungsbehörde gemäß § 50 erklärt,
@@ -1243,6 +1308,7 @@ bestehenden Rechtsverhältnis.
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005500315)
 
 (1) Durch Hinterlegung in den Fällen des § 51 Abs. 5 und des § 53 wird
 der Zahlungspflichtige von seiner Zahlungspflicht befreit.
@@ -1256,6 +1322,7 @@ statthaft ist, bleiben unberührt.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005600315)
 
 Wird der als Entschädigung oder Ersatzleistung zu zahlende Betrag nach
 Maßgabe der Vorschriften dieses Gesetzes hinterlegt, so kann jeder
@@ -1277,6 +1344,7 @@ anzuwenden.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005700315)
 
 (1) Der Bundesminister der Finanzen kann bei den Anforderungsbehörden
 Vertreter des Finanzinteresses bestellen.
@@ -1287,6 +1355,7 @@ Beteiligung verzichtet.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005800315)
 
 (1) Ist ein Festsetzungsbescheid von der unteren Verwaltungsbehörde
 erlassen worden, so können die am Festsetzungsverfahren Beteiligten
@@ -1299,6 +1368,7 @@ Festsetzungsverfahren Beteiligten zuzustellen.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE005900315)
 
 (1) Wegen der Festsetzung der Entschädigung oder der Ersatzleistung
 kann ein Beteiligter binnen einer Frist von zwei Monaten nach
@@ -1333,6 +1403,7 @@ Zivilprozeßordnung sind entsprechend anzuwenden.
 
 
 #### § 59
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006000315)
 
 Hat eine oberste Bundes- oder Landesbehörde die Entschädigung oder
 Ersatzleistung festgesetzt, so ist die Klage vor dem ordentlichen
@@ -1341,6 +1412,7 @@ zu erheben.
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006100315)
 
 (1) Die Festsetzung von Entschädigungen für Leistungen zugunsten der
 in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte erfolgt im Benehmen mit
@@ -1366,11 +1438,13 @@ August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006201304)
 
 -
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006300315)
 
 (1) Ist durch Vorauszahlungen auf eine noch nicht festgesetzte
 Entschädigung oder Ersatzleistung eine Überzahlung eingetreten, so hat
@@ -1393,26 +1467,31 @@ Vorschriften der §§ 51 bis 61 sinngemäß anzuwenden.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006400315)
 
 Die Vorschriften dieses Abschnitts gelten für den Anspruch auf Ersatz
 von Verwendungen (§ 17 Abs. 2 und 4) sinngemäß.
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006500315)
 
 Für die Zustellungen im Festsetzungsverfahren gilt § 47 entsprechend.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006600315)
 
 Für die Kosten des Festsetzungsverfahrens gilt § 48 entsprechend.
 
 
 ## Dritter Teil - Manöver und andere Übungen
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001300315)
 
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006700315)
 
 (1) Wenn uniformierte Verbände oder Einheiten (Truppen), die
 berechtigt sind, im Bundesgebiet Manöver oder andere Übungen
@@ -1441,12 +1520,14 @@ des Grundstücks führen könnten.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006800315)
 
 Die Vorschriften des Ersten und Zweiten Teils finden nur insoweit
 Anwendung, als in diesem Teil auf sie Bezug genommen ist.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE006901310)
 
 (1) Die Truppen dürfen Grundstücke überqueren, vorübergehend besetzen
 oder zeitweilig sperren.
@@ -1501,6 +1582,7 @@ Manöver dies ausdrücklich gestatten.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007000315)
 
 Manöver oder andere Übungen sind rechtzeitig bei den zuständigen
 Behörden anzumelden. Dabei ist anzugeben, in welchem Umfang Straßen
@@ -1513,6 +1595,7 @@ Behörden besondere Vereinbarungen treffen.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007100315)
 
 (1) Die Truppen dürfen bei Manövern oder anderen Übungen, die nach §
 69 angemeldet sind, die öffentlichen Verkehrswege mehr als
@@ -1541,6 +1624,7 @@ solche Teilgebiete sperren.
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007200315)
 
 (1) Zur Unterbringung von Dienststellen, Personen, Tieren, Fahrzeugen,
 Waffen sowie Gerät und sonstigen Bedarfsgegenständen sind der Truppe
@@ -1570,6 +1654,7 @@ beeinträchtigt werden.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007300315)
 
 Die Träger örtlicher Wasserversorgungsanlagen haben den Truppen nach
 den vorhandenen Möglichkeiten Wasser für den Quartier-, Biwak- und
@@ -1578,6 +1663,7 @@ und Abs. 5 gilt sinngemäß.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007400315)
 
 (1) Sachen und Leistungen, für die ein Bereitstellungsbescheid (§ 36
 Abs. 3) ergangen ist, können nach § 2 Abs. 1 Nr. 1, 8 und 9 für
@@ -1590,12 +1676,14 @@ Anwendung.
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007500315)
 
 Leistungspflichtig ist, wer die tatsächliche Gewalt über die
 angeforderte Sache ausübt.
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007600315)
 
 Leistungsempfänger ist die Körperschaft, in deren Dienst die Truppen
 stehen. Die zuständigen Stellen dieser Körperschaft bestimmen die
@@ -1604,6 +1692,7 @@ Leistungen erbracht werden sollen.
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007700315)
 
 (1) Für die Leistungen, die nach §§ 71, 72 erbracht werden müssen, ist
 eine angemessene Entschädigung zu gewähren. In den Fällen des § 73
@@ -1620,6 +1709,7 @@ Leistungspflichtigen als Empfänger der Zahlung bleiben unberührt.
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007800315)
 
 (1) Für Schäden, die an Grundstücken, baulichen Anlagen, Straßen,
 Brücken, Wasserläufen, Häfen und sonstigen Verkehrsanlagen oder
@@ -1644,6 +1734,7 @@ werden, so gilt § 26 Abs. 2 und 3 sinngemäß.
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE007900315)
 
 Wird durch die Benutzung eines Grundstücks zu Manövern oder anderer
 Übungen dessen gewöhnliche Nutzung derart beeinträchtigt, daß dadurch
@@ -1653,6 +1744,7 @@ angemessen ausgleicht.
 
 
 ### § 79
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008000315)
 
 Leistungen nach den §§ 71, 72 werden durch Behörden angefordert, die
 gemäß § 5 Abs. 1 durch Rechtsverordnung bestimmt werden. Für die
@@ -1662,12 +1754,14 @@ finden sinngemäß Anwendung.
 
 
 ### § 80
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008100315)
 
 Die Vorschriften des § 7 Abs. 1 und 2 und des § 9 Abs. 2 finden
 Anwendung.
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008200315)
 
 (1) Für die Durchführung der Anforderung gelten die Vorschriften der
 §§ 35, 36 Abs. 1 bis 2, der §§ 37, 39, 40, 44, 46 und 47.
@@ -1690,6 +1784,7 @@ eine Vereinbarung nicht zustande, so gilt § 51 Abs. 3 bis 5.
 
 
 ### § 82
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008300315)
 
 (1) Das Verfahren für die Abgeltung der Schäden, für welche die
 Streitkräfte nach § 77 ersatzpflichtig sind, sowie die Fristen für die
@@ -1709,6 +1804,7 @@ Landes, so gelten die landesrechtlichen Vorschriften.
 
 
 ### § 83
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008401310)
 
 Wenn die Bundesregierung feststellt, dass die Herstellung der
 Einsatzfähigkeit der Streitkräfte notwendig ist, finden die
@@ -1717,10 +1813,12 @@ Vorschriften des § 66 Abs. 2, des § 68 Abs. 2 Nr. 1 bis 5 und der §§
 
 
 ## Vierter Teil - Bußgeld- und Strafbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001400315)
 
 
 
 ### § 84
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008501320)
 
 (1) Ordnungswidrig handelt, wer als Leistungspflichtiger vorsätzlich
 oder fahrlässig
@@ -1771,6 +1869,7 @@ Gesetzes über Ordnungswidrigkeiten wahr.
 
 
 ### § 85
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008600315)
 
 Wer in der Absicht, die angeforderte Leistung zu vereiteln, eine der
 in § 84 Abs. 1 Nr. 1 oder Abs. 2 bezeichneten Handlungen oder
@@ -1780,15 +1879,18 @@ Geldstrafe bestraft.
 
 
 ### § 86
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008700315)
 
 -
 
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNG001500315)
 
 
 
 ### § 87
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008800315)
 
 Das Gesetz über Sachleistungen für Reichsaufgaben
 (Reichsleistungsgesetz) vom 1. September 1939 (Reichsgesetzbl. I S.
@@ -1797,6 +1899,7 @@ soweit sie Bundesrecht geworden sind, aufgehoben.
 
 
 ### § 88
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE008900315)
 
 (1) Werden Grundstücke im Eigentum von Gebietskörperschaften nach
 diesem Gesetz angefordert, so bemißt sich die Entschädigung, wenn und
@@ -1827,6 +1930,7 @@ unterliegen, sinngemäß Anwendung.
 
 
 ### § 89
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009000315)
 
 (1)
 
@@ -1841,16 +1945,19 @@ diesem Paragraphen ergebenden Beschränkungen angefordert werden.
 
 
 ### § 90
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009100315)
 
 -
 
 
 ### § 91
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009200315)
 
 -
 
 
 ### § 92
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009300315)
 
 (1) Bei Sachen, die nach
 Artikel 48 Abs. 1 des Truppenvertrags oder nach Artikel 13 des Ersten
@@ -1871,6 +1978,7 @@ dieses Gesetzes eine angemessene Abschlagszahlung geleistet ist.
 
 
 ### § 93
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009400315)
 
 Auf Grundstücke, die von den Behörden einer beteiligten Macht zur
 Errichtung von nicht nur vorübergehenden Zwecken dienenden Bauwerken
@@ -1881,11 +1989,13 @@ Anspruch genommen oder in dieser Weise behandelt worden sind, finden
 
 
 ### § 94
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009500315)
 
 -
 
 
 ### § 95
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009604377)
 
 Die nach Kapitel 12 des Postgesetzes oder Teil 10 Abschnitt 2 des
 Telekommunikationsgesetzes verpflichteten Unternehmen sowie
@@ -1894,12 +2004,14 @@ herangezogen werden.
 
 
 ### § 96
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009700315)
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, durch
 Rechtsverordnung eine von § 57 Abs. 1 abweichende Regelung zu treffen.
 
 
 ### § 97
+[Direktlink](https://www.gesetze-im-internet.de/blg/BJNR008150956.html#BJNR008150956BJNE009800315)
 
 Soweit durch die Vorschriften dieses Gesetzes das Grundrecht der
 Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) berührt

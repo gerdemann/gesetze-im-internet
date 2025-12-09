@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bimazustbek/BJNR145410006.html#BJNR145410006BJNE000100000)
 
 Nach § 11 Abs. 4 des Gesetzes über die Bundesanstalt für
 Immobilienaufgaben vom 9. Dezember 2004 (BGBl. I S. 3235) wird bekannt
@@ -32,6 +33,7 @@ Center Süd-Ost, übertragen hat.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimazustbek/BJNR145410006.html#BJNR145410006BJNE000200000)
 
 Bundesanstalt für Immobilienaufgaben
 

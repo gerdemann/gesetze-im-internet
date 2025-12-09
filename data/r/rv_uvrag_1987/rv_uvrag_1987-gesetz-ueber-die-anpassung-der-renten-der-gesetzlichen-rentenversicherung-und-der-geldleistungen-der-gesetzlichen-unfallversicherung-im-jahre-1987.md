@@ -19,16 +19,19 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvrag_1987/BJNR025919986.html#BJNR025919986BJNG000100308)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvrag_1987/BJNR025919986.html#BJNR025919986BJNG000200308)
 
 -
 
 
 ## Art 3 - Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvrag_1987/BJNR025919986.html#BJNR025919986BJNG000300308)
 
 Der Bundesminister für Arbeit und Sozialordnung wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Anpassung der
@@ -47,6 +50,7 @@ entwickelt hat, als es diesen Werten und Beträgen zugrunde gelegt ist.
 
 
 ## Art 4 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvrag_1987/BJNR025919986.html#BJNR025919986BJNG000400308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -55,6 +59,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 5 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rv_uvrag_1987/BJNR025919986.html#BJNR025919986BJNG000500308)
 
 Die Artikel 1 und 2 treten am 1. Juli 1987 in Kraft. Im übrigen tritt
 dieses Gesetz am Tage nach der Verkündung in Kraft.

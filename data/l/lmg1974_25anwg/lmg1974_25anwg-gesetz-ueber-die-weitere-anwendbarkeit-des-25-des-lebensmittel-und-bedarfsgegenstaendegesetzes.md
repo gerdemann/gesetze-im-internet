@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 8 Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lmg1974_25anwg/BJNR095200004.html#BJNR095200004BJNE000100000)
 
 § 25 des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung
 der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), das

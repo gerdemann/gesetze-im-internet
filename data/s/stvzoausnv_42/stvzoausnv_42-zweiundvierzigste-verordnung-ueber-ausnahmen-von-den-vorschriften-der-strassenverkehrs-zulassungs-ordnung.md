@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000100333)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -33,6 +34,7 @@ Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000202308)
 
 Abweichend von § 19 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung
 erlischt die Betriebserlaubnis nicht, wenn an Fahrzeugen, die vor dem
@@ -89,6 +91,7 @@ angebracht werden. Dies gilt nur, wenn
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000301308)
 
 Abweichend von § 13 Abs. 1 der Fahrzeug-Zulassungsverordnung sind
 Änderungen der Leermasse durch den Anbau der seitlichen
@@ -98,6 +101,7 @@ hinzuweisen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000400333)
 
 Abweichend von § 22 Abs. 1 Satz 2 zweiter Halbsatz der
 Straßenverkehrs-Zulassungs-Ordnung darf die Anbauabnahme nach § 1 Nr.
@@ -120,11 +124,13 @@ Straßenverkehrs-Zulassungs-Ordnung amtlich anerkannte
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000501308)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_42/BJNR024790992.html#BJNR024790992BJNE000600333)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

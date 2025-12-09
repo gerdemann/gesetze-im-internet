@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/geswzustg/BJNR005600964.html#BJNR005600964BJNE000100314)
 
 Die in Gesetzen und Rechtsverordnungen begründeten Zuständigkeiten des
 Bundesministers des Innern auf dem Gebiete des Rechts des
@@ -132,16 +133,19 @@ Gesetze und Rechtsverordnungen begründeten Zuständigkeiten:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/geswzustg/BJNR005600964.html#BJNR005600964BJNE000201320)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/geswzustg/BJNR005600964.html#BJNR005600964BJNE000300314)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/geswzustg/BJNR005600964.html#BJNR005600964BJNE000400314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -149,6 +153,7 @@ im Land Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/geswzustg/BJNR005600964.html#BJNR005600964BJNE000500314)
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 3 mit Wirkung vom 14.
 November 1961 in Kraft; Maßnahmen, die bis zum Tag nach seiner

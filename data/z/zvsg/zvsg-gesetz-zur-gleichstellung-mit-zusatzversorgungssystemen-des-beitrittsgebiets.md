@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000102119)
 
 (1) Dieses Gesetz gilt für Ansprüche und Anwartschaften nach dem
 Pensionsstatut der Carl-Zeiss-Stiftung Jena vom 3. Dezember 1888 in
@@ -50,6 +51,7 @@ Buches Sozialgesetzbuch.
 
 
 ## § 2 Versorgungsträger
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000201126)
 
 (1) Versorgungsträger im Sinne dieses Gesetzes ist die Ernst-Abbe-
 Stiftung. Sie unterliegt insoweit der Aufsicht durch das Bundesamt für
@@ -66,6 +68,7 @@ Ordnungswidrigkeiten ist das Bundesamt für Soziale Sicherung.
 
 
 ## § 3 Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000303308)
 
 (1) Mit der Gleichstellung erwerben die Berechtigten Ansprüche oder
 Anwartschaften in der Rentenversicherung wie Berechtigte, die
@@ -123,6 +126,7 @@ für Hinterbliebene bindend.
 
 
 ## § 4 Rentenberechnung in Fällen ohne Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000401119)
 
 (1) Wird ein Antrag auf Gleichstellung nicht gestellt und hatte der
 Berechtigte oder die Person, von der sich die Berechtigung ableitet,
@@ -154,6 +158,7 @@ zugrunde zu legen.
 
 
 ## § 5 Geltung von Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000500307)
 
 Auf die nach diesem Gesetz gleichgestellten Ansprüche und
 Anwartschaften sind die Vorschriften des Gesetzes zur Überführung der
@@ -167,6 +172,7 @@ entsprechend anzuwenden.
 
 
 ## § 6 Zeitpunkt und Art der Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000602308)
 
 (1) Die Gleichstellung der Ansprüche und Anwartschaften nach dem
 Pensionsstatut erfolgt mit Wirkung vom 31. Dezember 1992. Eine
@@ -224,6 +230,7 @@ erreicht.
 
 
 ## § 7 Verfahren zur Datenmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000703126)
 
 (1) Der Versorgungsträger nimmt die Aufgaben nach § 1 Abs. 4 sowie
 nach § 8 Abs. 1 bis 3, 7 und 8 des Anspruchs- und
@@ -260,6 +267,7 @@ laufende Zahlung der neu berechneten Rente aufgenommen wird.
 
 
 ## § 8 Abrechnung der Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/zvsg/BJNR104700993.html#BJNR104700993BJNE000802126)
 
 (1) Aufwendung zu Lasten der Deutschen Rentenversicherung Bund im
 Sinne des § 15 Abs. 1 des Anspruchs- und

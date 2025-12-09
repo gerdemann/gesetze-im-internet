@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1997-10/BJNR260900997.html#BJNR260900997BJNE000100310)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
@@ -84,6 +85,7 @@ Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg.
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10dmbek_1997-10/BJNR260900997.html#BJNR260900997BJNE000200310)
 
 (Fundstelle: BGBl. I 1997, 2609)
 ![bgbl1_1997_j2609_0010.jpg](bgbl1_1997_j2609_0010.jpg)

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000100000)
 
 Auf Grund des § 73a Satz 1 in Verbindung mit Satz 2 Nummer 1 und 4,
 des § 79 Absatz 1 Nummer 1 in Verbindung mit § 17 Absatz 1 Nummer 1,
@@ -33,9 +34,11 @@ und Verbraucherschutz:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000200000)
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -66,9 +69,11 @@ Im Sinne dieser Verordnung liegen vor:
 
 
 ## Abschnitt 2 - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNG000200000)
 
 
 ### § 2 Impfungen und Heilversuche
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000300000)
 
 Impfungen und Heilversuche seuchenkranker oder -verdächtiger Einhufer
 sind verboten. Die zuständige Behörde kann Ausnahmen von Satz 1 zur
@@ -77,6 +82,7 @@ Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 ### § 3 Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000400000)
 
 Die zuständige Behörde kann anordnen, dass
 
@@ -96,6 +102,7 @@ soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 
 ### § 3a Veranstaltungen mit Einhufern
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001700119)
 
 (1) Wer eine überregionale Veranstaltung durchführt, bei der Einhufer
 verschiedener Bestände zusammenkommen, hat ein Register der zu der
@@ -133,12 +140,15 @@ entsprechend.
 
 
 ## Abschnitt 3 - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNG000300000)
 
 
 ### Unterabschnitt 1 - Schutzmaßnahmen vor amtlicher Feststellung der Einhufer-Blutarmut
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNG000400000)
 
 
 #### § 4 Blutprobenentnahme, epidemiologische Nachforschungen
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000500000)
 
 (1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut führt
 die zuständige Behörde unverzüglich eine klinische und serologische
@@ -169,6 +179,7 @@ Die epidemiologischen Nachforschungen erstrecken sich mindestens auf
 
 
 #### § 5 Schutzmaßnahmen in dem betroffenen Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000601118)
 
 (1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut hat
 der Tierhalter des Betriebes unverzüglich
@@ -207,6 +218,7 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 #### § 6 Reinigung und Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000700000)
 
 Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut haben
 Personen, die eine Untersuchung oder Behandlung seuchenverdächtiger
@@ -235,15 +247,18 @@ oder Pflege seuchenverdächtiger Einhufer betraut sind,
 
 
 ### Unterabschnitt 2 - Schutzmaßnahmen nach amtlicher Feststellung der Einhufer-Blutarmut
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNG000500000)
 
 
 #### § 7 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000800000)
 
 Die zuständige Behörde macht den Ausbruch und das Erlöschen der
 Einhufer-Blutarmut öffentlich bekannt.
 
 
 #### § 8 Schutzmaßnahmen in dem betroffenen Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE000900000)
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt,
 ordnet die zuständige Behörde
@@ -280,6 +295,7 @@ Tierseuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 9 Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001001118)
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und
 besteht Ansteckungsverdacht, führt die zuständige Behörde unverzüglich
@@ -302,6 +318,7 @@ entsprechend.
 
 
 #### § 10 Sperrbezirk
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001100000)
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut in einem Betrieb amtlich
 festgestellt, so legt die zuständige Behörde ein Gebiet um den
@@ -379,6 +396,7 @@ desinfiziert werden.
 
 
 #### § 11 Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001200000)
 
 (1) Der Tierhalter des betroffenen Betriebes hat nach näherer
 Anweisung der zuständigen Behörde
@@ -413,6 +431,7 @@ seuchenkranken und -verdächtigen Einhufer gestanden haben.
 
 
 #### § 12 Aufhebung der Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001300000)
 
 (1) Angeordnete Schutzmaßnahmen nach den §§ 5 bis 11 sind aufzuheben,
 wenn die Einhufer-Blutarmut erloschen ist oder der Verdacht des
@@ -449,6 +468,7 @@ serologische Untersuchung mit negativem Ergebnis durchgeführt wurde.
 
 
 #### § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001403119)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -498,6 +518,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 #### § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Einhufer-Blutarmut-Verordnung vom 2. Juli 1975
@@ -506,6 +527,7 @@ April 2000 (BGBl. I S. 531) geändert worden ist, außer Kraft.
 
 
 #### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/blutarmv_2010/BJNR132600010.html#BJNR132600010BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 

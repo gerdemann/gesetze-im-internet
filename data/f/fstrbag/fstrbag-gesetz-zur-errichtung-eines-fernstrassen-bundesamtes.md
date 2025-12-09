@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/fstrbag/BJNR314300017.html#BJNR314300017BJNE000100000)
 
 (1) Zum 1. Januar 2021 wird das Fernstraßen-Bundesamt als
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
@@ -34,6 +35,7 @@ Präsidentin geleitet.
 
 
 ## § 2 Aufgaben des Fernstraßen-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/fstrbag/BJNR314300017.html#BJNR314300017BJNE000201000)
 
 (1) Dem Fernstraßen-Bundesamt obliegen folgende Aufgaben:
 
@@ -93,6 +95,7 @@ die Änderung von Bundesfernstraßen.
 
 
 ## § 3 Übergangsregelung, Antragsrecht der Länder
+[Direktlink](https://www.gesetze-im-internet.de/fstrbag/BJNR314300017.html#BJNR314300017BJNE000302360)
 
 (1) Das Fernstraßen-Bundesamt tritt im Rahmen seiner Zuständigkeiten
 nach § 2 in vor dem 1. Januar 2021 eingeleitete Verwaltungsverfahren
@@ -220,6 +223,7 @@ wirksamen Übertragung im Bundesanzeiger veröffentlichen.
 
 
 ## § 4 Straßenverkehrsrechtliche Aufgaben des Fernstraßen-Bundesamtes
+[Direktlink](https://www.gesetze-im-internet.de/fstrbag/BJNR314300017.html#BJNR314300017BJNE000401124)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates dem

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchqbalmzustv/BJNR010260978.html#BJNR010260978BJNE000100328)
 
 Auf Grund des § 26 Abs. 3 des Gesetzes zur Durchführung der
 gemeinsamen Marktorganisationen vom 31. August 1972 (BGBl. I S. 1617),
@@ -29,6 +30,7 @@ geändert worden ist, wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/milchqbalmzustv/BJNR010260978.html#BJNR010260978BJNE000201308)
 
 Zuständig für die Durchführung von Rechtsakten des Rates und der
 Kommission der Europäischen Gemeinschaften über Maßnahmen zur
@@ -38,11 +40,13 @@ Landwirtschaft und Ernährung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/milchqbalmzustv/BJNR010260978.html#BJNR010260978BJNE000401308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/milchqbalmzustv/BJNR010260978.html#BJNR010260978BJNE000500328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000100000)
 
 Auf Grund des § 23 Nummer 1 und 2 in Verbindung mit § 21 Absatz 3 des
 Krankenhausfinanzierungsgesetzes, von denen § 21 Absatz 3 durch
@@ -31,6 +32,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Änderung der Höhe der tagesbezogenen Pauschale nach § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000200000)
 
 (1) Abweichend von § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes
 beträgt die Höhe der tagesbezogenen Pauschale ab dem 13. Juli 2020 für
@@ -74,6 +76,7 @@ vergütet werden und
 
 
 ## § 2 Änderungen des Zuschlags nach § 21 Absatz 6 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000300000)
 
 (1) Die Frist für die Erhebung des Zuschlags nach § 21 Absatz 6 Satz 1
 des Krankenhausfinanzierungsgesetzes wird bis einschließlich 30.
@@ -86,16 +89,19 @@ dem Coronavirus SARS-CoV-2 infiziert sind.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage Höhe der tagesbezogenen Pauschale nach § 1 Absatz 1 Nummer 1
+[Direktlink](https://www.gesetze-im-internet.de/ausglzav/BJNR155600020.html#BJNR155600020BJNE000600000)
 
 (Fundstelle: BGBl. I 2020, 1557 - 1593)
 

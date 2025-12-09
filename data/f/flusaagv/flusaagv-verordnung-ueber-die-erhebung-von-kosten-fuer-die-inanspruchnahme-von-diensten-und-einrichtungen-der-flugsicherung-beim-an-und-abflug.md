@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000100308)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
@@ -30,6 +31,7 @@ Bundesminister für Wirtschaft verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000208119)
 
 (1) Für die Inanspruchnahme von Diensten und Einrichtungen der
 Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flughäfen
@@ -68,6 +70,7 @@ Abflug. Zähleinheit des Gebührenbereichs 2 ist die Landung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000335119)
 
 (1) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
 im Gebührenbereich 1 beträgt ab 1. Januar 2025 380,71 Euro. Die
@@ -98,12 +101,14 @@ diese Inanspruchnahme.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000402124)
 
 Kostenschuldner ist der Luftraumnutzer im Sinne des Artikels 2 Nummer
 5 der Durchführungsverordnung (EU) 2019/317.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000503305)
 
 Für folgende Inanspruchnahmen werden keine Kosten erhoben:
 
@@ -120,22 +125,26 @@ Für folgende Inanspruchnahmen werden keine Kosten erhoben:
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000601308)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000700308)
 
 Diese Verordnung tritt am 1. Juli 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000800308)
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Verkehr
 
 
 ## Anlage (zu § 1 Absatz 1b)
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE000902119)
 
 (Fundstelle: BGBl. I 2021, S. 3569;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -271,6 +280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1106)
+[Direktlink](https://www.gesetze-im-internet.de/flusaagv/BJNR018090989.html#BJNR018090989BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

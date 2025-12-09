@@ -30,10 +30,12 @@ der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000101123)
 
 
 
 ### § 1 Gegenstand der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000214119)
 
 Diese Verordnung regelt
 
@@ -102,6 +104,7 @@ Diese Verordnung regelt
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000310119)
 
 Im Sinne dieser Verordnung ist
 
@@ -298,14 +301,17 @@ Im Sinne dieser Verordnung ist
 
 
 ## Teil 2 - Maßnahmen nach § 100a Absatz 1 Satz 1 der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, § 72 Absatz 1, 2 und 4 des Zollfahndungsdienstgesetzes, § 51 Absatz 1 des Bundeskriminalamtgesetzes oder nach Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000205119)
 
 
 
 ### Abschnitt 1 - Kreis der Verpflichteten, Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000301123)
 
 
 
 #### § 3 Kreis der Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000409119)
 
 (1) Die Vorschriften dieses Teils gelten für die Betreiber von
 Telekommunikationsanlagen, mit denen öffentlich zugängliche
@@ -364,6 +370,7 @@ Absätzen 1 und 2 unberührt.
 
 
 #### § 4 Grenzen des Anwendungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000503123)
 
 (1) Telekommunikation, bei der die Telekommunikationsanlage im Rahmen
 der üblichen Betriebsverfahren erkennt, dass sich das Endgerät, das
@@ -408,6 +415,7 @@ und Absatz 2 bis 4 abgewichen werden kann. § 22 ist im Rahmen von
 
 
 #### § 5 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000605119)
 
 (1) Die zu überwachende Telekommunikation umfasst bei
 Überwachungsmaßnahmen nach § 100a Absatz 1 Satz 1 der
@@ -476,10 +484,12 @@ beseitigen.
 
 
 ### Abschnitt 2 - Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000401123)
 
 
 
 #### § 6 Grundlegende Anforderungen an die technischen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000702123)
 
 (1) Der Verpflichtete hat seine Überwachungseinrichtungen so zu
 gestalten, dass er eine Anordnung unverzüglich umsetzen kann; dies
@@ -510,6 +520,7 @@ berechtigte Stelle ermöglichen kann.
 
 
 #### § 7 Bereitzustellende Daten
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000803123)
 
 (1) Der Verpflichtete hat der berechtigten Stelle als Teil der
 Überwachungskopie auch die folgenden bei ihm vorhandenen Daten
@@ -659,6 +670,7 @@ Telekommunikationsanlage festzulegen.
 
 
 #### § 8 Übergabepunkt
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE000902123)
 
 (1) Der Verpflichtete hat seine Überwachungseinrichtungen so zu
 gestalten, dass die Überwachungskopie an einem Übergabepunkt
@@ -747,6 +759,7 @@ Absatz 2 bleibt unberührt.
 
 
 #### § 9 Übermittlung der Überwachungskopie
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001002123)
 
 (1) Die Übermittlung der Überwachungskopie einschließlich der Daten
 nach § 7 Absatz 1 Satz 1 sowie der Referenznummern und
@@ -775,6 +788,7 @@ richten sich nach § 14.
 
 
 #### § 10 Zeitweilige Übermittlungshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001102123)
 
 Der Verpflichtete hat seine Überwachungseinrichtungen so zu gestalten,
 dass die Daten nach § 7 Absatz 1 Satz 1 einschließlich der
@@ -790,14 +804,17 @@ Eine für den ungestörten Funktionsablauf aus technischen, insbesondere
 
 
 #### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001203123)
 
 
 
 ### Abschnitt 3 - Organisatorische Anforderungen, Schutzanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000501123)
 
 
 
 #### § 12 Entgegennahme der Anordnung, Rückfragen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001303123)
 
 (1) Der Verpflichtete hat sicherzustellen, dass er jederzeit
 telefonisch über das Vorliegen einer Anordnung und die Dringlichkeit
@@ -853,6 +870,7 @@ Verpflichteten gilt Absatz 1 Satz 5 entsprechend.
 
 
 #### § 13 Störung und Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001402119)
 
 Während einer Überwachungsmaßnahme hat der Verpflichtete die
 betroffenen berechtigten Stellen unverzüglich über Störungen seiner
@@ -880,6 +898,7 @@ der berechtigten Stelle zu machen.
 
 
 #### § 14 Schutzanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001503119)
 
 (1) Der Verpflichtete hat die von ihm zu treffenden Vorkehrungen zur
 technischen und organisatorischen Umsetzung von Anordnungen,
@@ -935,6 +954,7 @@ Telekommunikationsgesetzes gegen unbefugte Kenntnisnahme zu schützen.
 
 
 #### § 15 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001601123)
 
 (1) Der Verpflichtete darf Informationen über die Art und Weise, wie
 Anordnungen in seiner Telekommunikationsanlage umgesetzt werden,
@@ -962,6 +982,7 @@ informieren.
 
 
 #### § 16 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001702123)
 
 (1) Der Verpflichtete hat sicherzustellen, dass jede Anwendung seiner
 Überwachungseinrichtungen, die als integraler Bestandteil der
@@ -1041,6 +1062,7 @@ Anforderungen eingehalten werden:
 
 
 #### § 17 Prüfung und Löschung der Protokolldaten, Vernichtung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001802123)
 
 (1) Der Verpflichtete hat einen angemessenen Anteil der für die
 Aktivierung, Änderung oder Abschaltung der Überwachungsfunktionalität
@@ -1120,14 +1142,17 @@ betroffenen Kennungen sortiert auszugeben.
 
 
 ### Abschnitt 4 - Verfahren zum Nachweis nach § 170 Absatz 1 Satz 1 Nummer 4 des Telekommunikationsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000602119)
 
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE001901123)
 
 
 
 #### § 19 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002004119)
 
 (1) Für den nach § 170 Absatz 1 Satz 1 Nummer 4 des
 Telekommunikationsgesetzes zu erbringenden Nachweis der
@@ -1273,6 +1298,7 @@ Liste der jeweils insgesamt gültigen Dokumente vorzulegen; die Absätze
 
 
 #### § 20 Änderungen der Telekommunikationsanlage oder der Überwachungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002102123)
 
 § 19 gilt entsprechend bei jeder Änderung der
 Telekommunikationsanlage, eines mittels dieser
@@ -1284,14 +1310,17 @@ Abstimmung mit der Bundesnetzagentur vorgenommen werden.
 
 
 ### Abschnitt 5 - Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000701123)
 
 
 
 #### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002202123)
 
 
 
 #### § 22 Abweichungen, Feldversuche, Probebetriebe
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002304119)
 
 (1) Die Bundesnetzagentur kann im Rahmen des Nachweises nach § 19 im
 Benehmen mit den in § 19 Absatz 4 genannten Stellen auf Antrag des
@@ -1357,10 +1386,12 @@ Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
 
 ### Abschnitt 6 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000801123)
 
 
 
 #### § 23 Probeweise Anwendung der Überwachungsfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002403119)
 
 (1) Die probeweise Anwendung der Überwachungsfunktionen ist auf das
 unabdingbare Maß zu begrenzen und nur zulässig
@@ -1430,6 +1461,7 @@ nach den zeitlichen Vorgaben der berechtigten Stelle einzurichten.
 
 
 #### § 24 Anforderungen an Aufzeichnungsanschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002502119)
 
 (1) Der nach § 170 Absatz 9 des Telekommunikationsgesetzes
 verpflichtete Betreiber hat der berechtigten Stelle auf Antrag die von
@@ -1445,14 +1477,17 @@ vorrangige Entstörung der Anschlüsse nach Absatz 1 sicherzustellen.
 
 
 #### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002602123)
 
 
 
 ## Teil 3 - Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes und den §§ 19, 24 und 26 des BND-Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG000903119)
 
 
 
 ### § 26 Kreis der Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002703119)
 
 (1) Die Vorschriften dieses Teils gelten für Betreiber von
 Telekommunikationsanlagen, die
@@ -1487,6 +1522,7 @@ Ablauf der bisherigen Befreiungsfrist zu treffen.
 
 
 ### § 27 Grundsätze, technische und organisatorische Umsetzung von Anordnungen, Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002804119)
 
 (1) Die zu überwachende Telekommunikation umfasst bei
 Überwachungsmaßnahmen nach § 5 oder § 8 des Artikel 10-Gesetzes die
@@ -1595,6 +1631,7 @@ erforderlich.
 
 
 ### § 28 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE002903119)
 
 (1) Sofern der Verpflichtete für die technische Umsetzung von
 Anordnungen nach § 5 oder § 8 des Artikel 10-Gesetzes oder Anordnungen
@@ -1625,6 +1662,7 @@ entsprechend.
 
 
 ### § 29 Bereitstellung von Übertragungswegen zum Bundesnachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003002123)
 
 Für die Bereitstellung der Übertragungswege, die zur Übermittlung der
 gemäß § 27 Absatz 3 Nummer 1 aufbereiteten Kopie an den
@@ -1633,10 +1671,12 @@ und Absatz 2 entsprechend.
 
 
 ## Teil 4 - Vorkehrungen für die Erteilung von Auskünften über Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG001002123)
 
 
 
 ### § 30 Kreis der Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003103119)
 
 Die Vorschriften dieses Teils gelten für
 
@@ -1657,6 +1697,7 @@ hierfür Telekommunikationsanlagen zu betreiben.
 
 
 ### § 31 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003204119)
 
 (1) Die nach § 30 Verpflichteten haben Auskunftsverlangen in einem
 digitalen Format zu beantworten. Die Anforderungen nach § 14 Absatz 1
@@ -1755,6 +1796,7 @@ die Übermittlung von:
 
 
 ### § 32 Auskünfte über zurückliegende Verkehrsdaten, zukünftige Verkehrsdaten, Verkehrsdaten in Echtzeit
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003601123)
 
 (1) Die nach § 30 Verpflichteten haben Auskünfte auf Grundlage der
 nach den Vorschriften des Telekommunikationsgesetzes gespeicherten und
@@ -1825,12 +1867,14 @@ nutzen, dass
 
 
 ### § 33 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003701123)
 
 Für die im Zusammenhang mit Auskunftsverlangen und den dazu erteilten
 Auskünften zu wahrende Verschwiegenheit gilt § 15 entsprechend.
 
 
 ### § 34 Nachweis, probeweise Anwendungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003802119)
 
 (1) Für den Nachweis der Übereinstimmung der getroffenen Vorkehrungen
 mit den Bestimmungen dieser Verordnung und der Technischen Richtlinie
@@ -1847,6 +1891,7 @@ Verpflichteten nach den §§ 30, 31 und 32 gilt § 23 entsprechend.
 
 
 ### § 35 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003903119)
 
 Der Verpflichtete hat sicherzustellen, dass die Zugriffe auf seine für
 die Erteilung von Auskünften vorgehaltenen technischen Einrichtungen
@@ -1903,10 +1948,12 @@ gestellten Auskunftsverlangen einer Prüfung zu unterziehen sind.
 
 
 ## Teil 5 - Ergänzende technische Festlegungen, Übergangsvorschriften, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNG001101123)
 
 
 
 ### § 36 Technische Richtlinie
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE004002119)
 
 Die technischen Einzelheiten zu § 2 Nummer 8 und 17 Buchstabe c, § 4
 Absatz 1 und 2, § 5 Absatz 1, 2, 4 Satz 1, Absatz 5 und 6, § 6 Absatz
@@ -1945,6 +1992,7 @@ berücksichtigt sind, hat der Verpflichtete die Gestaltung seiner
 
 
 ### § 37 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE004102119)
 
 Für Überwachungseinrichtungen, für die bereits eine Genehmigung nach §
 19 der Telekommunikations-Überwachungsverordnung vom 22. Januar 2002
@@ -1959,5 +2007,6 @@ unberührt.
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tk_v_2005/BJNR313600005.html#BJNR313600005BJNE003402123)
 
 

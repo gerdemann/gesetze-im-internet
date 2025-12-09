@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/basp_rmv/BJNR228900021.html#BJNR228900021BJNE000100000)
 
 Auf Grund des § 47 Absatz 3 Satz 2 und des § 56 Absatz 1 Satz 2 in
 Verbindung mit § 47 Absatz 3 Satz 2 des Berufsbildungsgesetzes in der
@@ -26,6 +27,7 @@ das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Zuständigkeit für den Erlass von Prüfungsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/basp_rmv/BJNR228900021.html#BJNR228900021BJNE000200000)
 
 Das Bundesamt für Soziale Sicherung als zuständige Stelle im Bereich
 des öffentlichen Dienstes für die Aus- und Fortbildung in der
@@ -38,6 +40,7 @@ für Arbeit und Soziales zu erlassen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/basp_rmv/BJNR228900021.html#BJNR228900021BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

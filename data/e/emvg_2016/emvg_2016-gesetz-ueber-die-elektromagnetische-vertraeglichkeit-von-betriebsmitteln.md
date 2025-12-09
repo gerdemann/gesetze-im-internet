@@ -26,9 +26,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000200000)
 
 (1) Dieses Gesetz gilt für alle Betriebsmittel, die elektromagnetische
 Störungen verursachen können oder deren Betrieb durch
@@ -46,6 +48,7 @@ Rechtsvorschriften.
 
 
 ### § 2 Einschränkungen des Anwendungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000301123)
 
 (1) Auf Geräte im Sinne des Funkanlagengesetzes vom 27. Juni 2017
 (BGBl. I S. 1947) sind nur die §§ 27 und 30 dieses Gesetzes
@@ -114,6 +117,7 @@ Bundesgebührengesetzes.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000400000)
 
 Im Sinne dieses Gesetzes
 
@@ -307,6 +311,7 @@ Im Sinne dieses Gesetzes
 
 
 ### § 4 Grundlegende Anforderungen an die elektromagnetische Verträglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000500000)
 
 Betriebsmittel müssen nach dem Stand der Technik so entworfen und
 hergestellt sein, dass
@@ -326,12 +331,14 @@ hergestellt sein, dass
 
 
 ### § 5 Besondere Anforderungen an die Installation ortsfester Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000600000)
 
 Ortsfeste Anlagen müssen zusätzlich zu den Anforderungen des § 4 nach
 den allgemein anerkannten Regeln der Technik installiert werden.
 
 
 ### § 6 Bereitstellung auf dem Markt, Inbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000700000)
 
 Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben
 und in Betrieb genommen werden, wenn sie bei ordnungsgemäßer
@@ -340,6 +347,7 @@ Anforderungen dieses Gesetzes erfüllen.
 
 
 ### § 7 Besondere Regelungen zum freien Warenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000801123)
 
 (1) Die Bereitstellung von Betriebsmitteln auf dem Markt oder die
 Inbetriebnahme von Betriebsmitteln, die die Anforderungen dieses
@@ -357,9 +365,11 @@ Störungen zu treffen.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000200000)
 
 
 ### § 8 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE000900000)
 
 (1) Der Hersteller hat sicherzustellen, wenn er Geräte in Verkehr
 bringt, dass sie nach den Anforderungen des § 4 entworfen und
@@ -402,6 +412,7 @@ Störungen von Betriebsmitteln Dritter zu treffen.
 
 
 ### § 9 Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001000000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Geräte beim
 Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine
@@ -438,6 +449,7 @@ Verkehr gebracht hat.
 
 
 ### § 10 Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001100000)
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -471,6 +483,7 @@ Bevollmächtigten übertragen.
 
 
 ### § 11 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001200000)
 
 (1) Der Einführer darf nur Geräte in Verkehr bringen, die den
 Anforderungen dieses Gesetzes genügen.
@@ -519,6 +532,7 @@ ergriffenen Korrekturmaßnahmen.
 
 
 ### § 12 Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001300000)
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seinen
 eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie
@@ -546,6 +560,7 @@ verbunden sind, die er in Verkehr gebracht hat.
 
 
 ### § 13 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001400000)
 
 (1) Der Händler darf ein Gerät erst auf dem Markt bereitstellen, wenn
 er sichergestellt hat, dass
@@ -600,6 +615,7 @@ verbunden sind, die von ihm auf dem Markt bereitgestellt wurden.
 
 
 ### § 14 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001500000)
 
 Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses
 Gesetzes und unterliegt den Pflichten des Herstellers nach den §§ 8
@@ -619,6 +635,7 @@ und 9, wenn er
 
 
 ### § 15 Identifizierung der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001600000)
 
 (1) Die Wirtschaftsakteure sind verpflichtet, der Bundesnetzagentur
 auf Verlangen die Wirtschaftsakteure zu nennen,
@@ -636,9 +653,11 @@ den Zeitraum von zehn Jahren nach Abgabe oder Bezug des Gerätes.
 
 
 ## Abschnitt 3 - Konformität der Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000300000)
 
 
 ### § 16 Konformitätsvermutung bei Betriebsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001700000)
 
 Stimmt ein Betriebsmittel mit den einschlägigen harmonisierten Normen
 oder Teilen davon, deren Fundstellen im Amtsblatt der Europäischen
@@ -648,6 +667,7 @@ abgedeckten Anforderungen des § 4 übereinstimmt.
 
 
 ### § 17 Konformitätsbewertungsverfahren für Geräte
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001800000)
 
 (1) Die Übereinstimmung der Geräte mit den Anforderungen des § 4 ist
 durch eines der folgenden Konformitätsbewertungsverfahren
@@ -683,6 +703,7 @@ enthalten.
 
 
 ### § 18 CE-Kennzeichnung von Geräten
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE001900000)
 
 (1) Geräte, deren Übereinstimmung mit den Anforderungen des § 4 im
 Verfahren nach § 17 Absatz 1 nachgewiesen wurde, sind, bevor sie in
@@ -703,6 +724,7 @@ anzubringen.
 
 
 ### § 19 Montage und Gebrauchsanleitung für Geräte, Hinweise auf Nutzungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002000000)
 
 (1) Auf dem Gerät, seiner Verpackung oder den beigegebenen Unterlagen
 müssen Angaben über besondere Vorkehrungen beigefügt sein, die bei
@@ -723,6 +745,7 @@ Betriebsanleitung in deutscher Sprache abgefasst sein.
 
 
 ### § 20 Ortsfeste Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002100000)
 
 (1) Der Betreiber einer ortsfesten Anlage hat dafür zu sorgen, dass
 die Anlage die Anforderungen der §§ 4 und 5 erfüllt. Die in § 5
@@ -768,9 +791,11 @@ mindestens Folgendes beizufügen:
 
 
 ## Abschnitt 4 - Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000400000)
 
 
 ### § 21 Notifizierende Behörde, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002200000)
 
 (1) Notifizierende Behörde ist die Bundesnetzagentur. Die
 Bundesnetzagentur richtet das Verfahren zur Anerkennung einer
@@ -809,12 +834,15 @@ nach Drittstaatenabkommen durchführen.
 
 
 ## Abschnitt 5 - Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000500000)
 
 
 ### Unterabschnitt 1 - Zuständigkeiten und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000600000)
 
 
 #### § 22 Zuständigkeiten und Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002301123)
 
 (1) Die Bundesnetzagentur führt dieses Gesetz aus, soweit gesetzlich
 nichts anderes bestimmt ist.
@@ -874,9 +902,11 @@ nichts anderes bestimmt ist.
 
 
 ### Unterabschnitt 2 - Marktüberwachung und Störungsbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000700000)
 
 
 #### § 23 Maßnahmen der Marktüberwachung bei Geräten, mit denen ein Risiko verbunden ist
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002400000)
 
 (1) Hat die Bundesnetzagentur Grund zu der Annahme, dass ein Gerät
 elektromagnetisch nicht verträglich ist, so prüft sie, ob das Gerät
@@ -928,6 +958,7 @@ Hoheitsgebiet beschränkt, so
 
 
 #### § 23a Maßnahmen auf Messen und Ausstellungen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002501123)
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Betriebsmittel, das
 auf Messen, Ausstellungen oder ähnlichen Veranstaltungen aufgestellt
@@ -943,6 +974,7 @@ Betriebsmittels.
 
 
 #### § 24 Maßnahmen bei formaler Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002600000)
 
 (1) Stellt die Bundesnetzagentur eine formale Nichtkonformität fest,
 so fordert sie den betreffenden Wirtschaftsakteur auf, die
@@ -981,6 +1013,7 @@ wird. § 23 Absatz 4 Satz 2 gilt entsprechend.
 
 
 #### § 25 Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, die sich nicht auf das deutsche Hoheitsgebiet beschränken
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002700000)
 
 (1) Ist die Bundesnetzagentur der Auffassung, dass die beanstandeten
 Geräte auch in anderen Mitgliedstaaten der europäischen Union auf dem
@@ -1035,6 +1068,7 @@ gerechtfertigt sind.
 
 
 #### § 26 Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, bei Maßnahmen anderer Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002800000)
 
 (1) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der
 Europäischen Union darüber informiert, dass dieser Mitgliedstaat eine
@@ -1070,6 +1104,7 @@ gerechtfertigt ist.
 
 
 #### § 27 Befugnisse bei der Störungsbearbeitung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE002900000)
 
 (1) Die Bundesnetzagentur ist befugt, die notwendigen Maßnahmen zur
 Klärung von Problemen mit der elektromagnetischen Verträglichkeit zu
@@ -1129,6 +1164,7 @@ Sicherheitszwecken betrieben werden.
 
 
 #### § 28 Besondere Eingriffsbefugnisse bei der Störungsbearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003000000)
 
 (1) Besteht aufgrund einer elektromagnetischen Störung
 
@@ -1239,6 +1275,7 @@ Absatz 4 Satz 3 bis 5 und Absatz 5 bleibt unberührt.
 
 
 #### § 29 Auskunftsrechte
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003100000)
 
 (1) Die Bundesnetzagentur kann von den Wirtschaftsakteuren, von
 denjenigen, die Betriebsmittel ausstellen, betreiben, lagern oder die
@@ -1283,9 +1320,11 @@ Maßnahmen zu dulden.
 
 
 ### Unterabschnitt 3 - Zwangsgeld und Beiträge, Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000800000)
 
 
 #### § 30 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003200000)
 
 Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den
 §§ 23, 24, 27 Absatz 1 und 2, § 28 Absatz 2, § 29 und der Anordnungen
@@ -1294,6 +1333,7 @@ fünfhunderttausend Euro festsetzen und vollstrecken.
 
 
 #### § 31 Beiträge, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003300000)
 
 (1) Senderbetreiber haben einen Jahresbeitrag zur Abgeltung der
 folgenden Kosten zu entrichten:
@@ -1346,6 +1386,7 @@ Energie und dem Bundesministerium der Finanzen.
 
 
 #### § 32 Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003401119)
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur
 haben keine aufschiebende Wirkung.
@@ -1355,9 +1396,11 @@ Telekommunikationsgesetzes.
 
 
 ## Abschnitt 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG000900000)
 
 
 ### § 33 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003500000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1432,9 +1475,11 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNG001000000)
 
 
 ### § 34 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emvg_2016/BJNR287910016.html#BJNR287910016BJNE003600000)
 
 (1) Geräte, die den Bestimmungen des Gesetzes über die
 elektromagnetische Verträglichkeit von Betriebsmitteln vom 26. Februar

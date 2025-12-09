@@ -23,15 +23,18 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Rechtsform und Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000102377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001002377)
 
 (weggefallen)
 
 
 ### § 2 Rechtsform, Grundkapital und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001104377)
 
 Die Deutsche Bundesbank ist eine bundesunmittelbare juristische Person
 des öffentlichen Rechts. Ihr Grundkapital im Betrage von 2,5
@@ -40,6 +43,7 @@ Frankfurt am Main.
 
 
 ### § 3 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001203377)
 
 Die Deutsche Bundesbank ist als Zentralbank der Bundesrepublik
 Deutschland integraler Bestandteil des Europäischen Systems der
@@ -53,6 +57,7 @@ Gesetz oder anderen Rechtsvorschriften übertragenen Aufgaben wahr.
 
 
 ### § 4 Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001302333)
 
 Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der
 Satzung des Europäischen Systems der Zentralbanken und der
@@ -65,14 +70,17 @@ Aufgabe zu fördern.
 
 
 ## Zweiter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000201308)
 
 
 
 ### (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001402377)
 
 
 
 ### § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001605377)
 
 (1) Organ der Deutschen Bundesbank ist der Vorstand. Er leitet und
 verwaltet die Bank. Er beschließt ein Organisationsstatut, das die
@@ -112,6 +120,7 @@ werden.
 
 
 ### § 8 Hauptverwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001705377)
 
 (1) Die Deutsche Bundesbank unterhält je eine Hauptverwaltung für den
 Bereich
@@ -155,6 +164,7 @@ tragen die Bezeichnung Präsident der Hauptverwaltung.
 
 
 ### § 9 Beiräte bei den Hauptverwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001803377)
 
 (1) Bei jeder Hauptverwaltung besteht ein Beirat, der regelmäßig mit
 dem Präsidenten der Hauptverwaltung zusammentrifft und mit ihm über
@@ -180,12 +190,14 @@ verpflichtet.
 
 
 ### § 10 Filialen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE001902377)
 
 Die Deutsche Bundesbank darf Filialen unterhalten, die der zuständigen
 Hauptverwaltung unterstehen.
 
 
 ### § 11 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002002377)
 
 (1) Die Deutsche Bundesbank wird gerichtlich und außergerichtlich
 durch den Vorstand vertreten. § 31 Abs. 2 und § 41 Abs. 4 bleiben
@@ -206,10 +218,12 @@ dem Gericht des Sitzes der Hauptverwaltung erhoben werden.
 
 
 ## Dritter Abschnitt - Bundesregierung und Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000301308)
 
 
 
 ### § 12 Verhältnis der Bank zur Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002102333)
 
 Die Deutsche Bundesbank ist bei der Ausübung der Befugnisse, die ihr
 nach diesem Gesetz zustehen, von Weisungen der Bundesregierung
@@ -219,6 +233,7 @@ sie die allgemeine Wirtschaftspolitik der Bundesregierung.
 
 
 ### § 13 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002203377)
 
 (1) Die Deutsche Bundesbank hat die Bundesregierung in Angelegenheiten
 von wesentlicher währungspolitischer Bedeutung zu beraten und ihr auf
@@ -230,10 +245,12 @@ Bedeutung zuziehen.
 
 
 ## Vierter Abschnitt - Währungspolitische Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000401308)
 
 
 
 ### § 14 Notenausgabe
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002304360)
 
 (1) Die Deutsche Bundesbank hat unbeschadet des Artikels 128 Absatz 1
 des Vertrages über die Arbeitsweise der Europäischen Union das
@@ -250,15 +267,18 @@ Aufruf bestimmten Umtauschfrist ungültig.
 
 
 ### (XXXX) §§ 15 und 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002402333)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002602308)
 
 -
 
 
 ### § 18 Statistische Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002704360)
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe
 Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen
@@ -273,10 +293,12 @@ Anordnung über die Statistik vorgesehen ist.
 
 
 ## Fünfter Abschnitt - Geschäftskreis
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000501308)
 
 
 
 ### § 19 Geschäfte mit Kreditinstituten und anderen Marktteilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002805377)
 
 Die Deutsche Bundesbank darf mit Kreditinstituten und anderen
 Marktteilnehmern unbeschadet des Kapitels IV der Satzung des
@@ -331,6 +353,7 @@ betreiben:
 
 
 ### § 20 Geschäfte mit öffentlichen Verwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE002906377)
 
 Die Deutsche Bundesbank darf mit dem Bund, den Sondervermögen des
 Bundes, den Ländern und anderen öffentlichen Verwaltungen die in § 19
@@ -341,11 +364,13 @@ keine Kosten und Gebühren berechnen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003004377)
 
 (weggefallen)
 
 
 ### § 22 Geschäfte mit jedermann
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003103377)
 
 Die Deutsche Bundesbank darf mit natürlichen und juristischen Personen
 im In- und Ausland die in § 19 Nr. 2 bis 7 bezeichneten Geschäfte
@@ -353,6 +378,7 @@ betreiben.
 
 
 ### § 23 Bestätigung von Schecks
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003202308)
 
 (1) Die Deutsche Bundesbank darf Schecks, die auf sie gezogen sind,
 nur nach Deckung bestätigen. Aus dem Bestätigungsvermerk wird sie dem
@@ -377,11 +403,13 @@ Verfahrensvorschriften entsprechend anzuwenden.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003303377)
 
 (weggefallen)
 
 
 ### § 25 Andere Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003403377)
 
 Die Deutsche Bundesbank soll andere als die in den §§ 19, 20, 22 und
 23 oder auf der Grundlage der Satzung des Europäischen Systems der
@@ -391,18 +419,22 @@ den eigenen Betrieb oder für ihre Betriebsangehörigen vornehmen.
 
 
 ## Abschnitt 5a - 
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG001102308)
 
 -
 
 
 ### (XXXX) §§ 25a bis 25d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005802308)
 
 
 ## Sechster Abschnitt - Jahresabschluss, Kostenrechnung, Gewinnverteilung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000602377)
 
 
 
 ### § 26 Jahresabschluss, Kostenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003504377)
 
 (1) Das Geschäftsjahr der Deutschen Bundesbank ist das Kalenderjahr.
 
@@ -447,6 +479,7 @@ seine Feststellungen nach Absatz 3.
 
 
 ### § 27 Gewinnverteilung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003603377)
 
 Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
@@ -464,15 +497,18 @@ Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003703333)
 
 (weggefallen)
 
 
 ## Siebenter Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000701308)
 
 
 
 ### § 29 Sonderstellung der Deutschen Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003802377)
 
 (1) Der Vorstand mit der Zentrale am Sitz der Bank hat die Stellung
 einer obersten Bundesbehörde. Die Hauptverwaltungen und Filialen haben
@@ -489,6 +525,7 @@ nicht anzuwenden.
 
 
 ### § 30 Urkundsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE003901308)
 
 Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11
 Abs. 3 Urkundsbeamte bestellen. Sie müssen die Befähigung zum
@@ -496,6 +533,7 @@ Richteramt besitzen.
 
 
 ### § 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004012119)
 
 (1) Die Deutsche Bundesbank beschäftigt Beamte, Angestellte und
 Arbeiter.
@@ -639,6 +677,7 @@ den Vorstand der Deutschen Bundesbank übertragen.
 
 
 ### § 32 Schweigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004103377)
 
 Sämtliche Personen im Dienste der Deutschen Bundesbank haben über die
 Angelegenheiten und Einrichtungen der Bank sowie über die von ihr
@@ -656,6 +695,7 @@ der Allgemeinheit erfordern.
 
 
 ### § 33 Veröffentlichungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004202377)
 
 Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten
 Bekanntmachungen, insbesondere den Aufruf von Noten sowie die
@@ -663,15 +703,18 @@ Anordnung von Statistiken im Bundesanzeiger zu veröffentlichen.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004302377)
 
 (weggefallen)
 
 
 ## Achter Abschnitt - Strafbestimmungen und Vorschriften über das Anhalten von Falschgeld
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000801308)
 
 
 
 ### § 35 Unbefugte Ausgabe und Verwendung von Geldzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004402377)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft,
@@ -697,6 +740,7 @@ bis zu einhundertachtzig Tagessätzen.
 
 
 ### § 36 Anhalten von Falschgeld sowie unbefugt ausgegebener Geldzeichen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004505360)
 
 (1) Die Deutsche Bundesbank sowie die Stellen und deren Beschäftigte,
 die in Artikel 6 Absatz 1 der Verordnung (EG) Nr. 1338/2001 des Rates
@@ -760,6 +804,7 @@ einhunderttausend Euro geahndet werden.
 
 
 ### § 36a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE006300360)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit
 der Deutschen Bundesbank durch Rechtsverordnung ohne Zustimmung des
@@ -783,6 +828,7 @@ der Finanzen.
 
 
 ### § 37 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004601308)
 
 (1) Unbefugt ausgegebene Gegenstände der in § 35 genannten Art können
 eingezogen werden.
@@ -796,6 +842,7 @@ Einziehung aussprechenden Urteils vernichtet werden.
 
 
 ### § 37a Auskünfte und Prüfungen, Untersagung der Wiederausgabe von Banknoten
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE006400360)
 
 (1) Verpflichtete nach § 36 Absatz 1, die Banknoten wieder in Umlauf
 geben wollen, haben der Deutschen Bundesbank auf Verlangen Auskünfte
@@ -826,10 +873,12 @@ Banknotenbearbeitung zu prüfen.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNG000901308)
 
 
 
 ### § 38 Übergangsvorschrift für die Mitglieder der Organe der Bank
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004702377)
 
 Die Mitglieder des Direktoriums, mit Ausnahme des Präsidenten,
 scheiden mit Inkrafttreten des Änderungsgesetzes aus ihren Ämtern aus;
@@ -855,6 +904,7 @@ unter Beachtung von § 8 dieses Gesetzes übernommen.
 
 
 ### § 39 Übergangsvorschrift für die Vorstände der Landeszentralbanken und die Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004802308)
 
 (1) Die Mitglieder der Vorstände der am 1. November 1992 bestehenden
 Landeszentralbanken, deren Bereiche sich gemäß § 8 Abs. 1 Nr. 4, 5 und
@@ -868,6 +918,7 @@ Landeszentralbanken werden aufgelöst.
 
 
 ### § 40 Änderung der Dienstverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE004902377)
 
 (1) Mit dem Inkrafttreten dieses Gesetzes werden die Beamten,
 Angestellten und Arbeiter der Bank deutscher Länder, der bisherigen
@@ -944,6 +995,7 @@ dieses Gesetzes.
 
 
 ### § 41 Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005003377)
 
 (1) Die Deutsche Bundesbank ist entsprechende Einrichtung im Sinne des
 § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter
@@ -1003,6 +1055,7 @@ dessen Stelle.
 
 
 ### § 42 Ausgabe von Liquiditätspapieren offenen Markt
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005104377)
 
 (1) Der Bund hat der Deutschen Bundesbank auf Verlangen Schatzwechsel
 oder unverzinsliche Schatzanweisungen in einer Stückelung und
@@ -1026,17 +1079,20 @@ Wahl begeben.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005301308)
 
 (Aufhebung und Änderung von Rechtsvorschriften)
 
 
 ### § 44 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005401308)
 
 Die Deutsche Bundesbank kann nur durch Gesetz aufgelöst werden. Das
 Auflösungsgesetz bestimmt über die Verwendung des Vermögens.
 
 
 ### § 45 Weitere Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE006203377)
 
 (1) § 2 Satz 2 und § 27 Nr. 1, jeweils in der Fassung des Sechsten
 Gesetzes zur Änderung des Gesetzes über die Deutsche Bundesbank, sind
@@ -1084,6 +1140,7 @@ weiter, längstens jedoch bis zum 30. Juni 2009.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/bbankg/BJNR007450957.html#BJNR007450957BJNE005701308)
 
 (Inkrafttreten)
 

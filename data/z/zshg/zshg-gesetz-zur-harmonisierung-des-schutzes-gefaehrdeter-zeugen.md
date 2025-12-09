@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000100000)
 
 (1) Eine Person, ohne deren Angaben in einem Strafverfahren die
 Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsorts
@@ -52,6 +53,7 @@ Gefährdung fortbesteht.
 
 
 ## § 2 Zeugenschutzdienststellen
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000200000)
 
 (1) Der Schutz einer Person nach Maßgabe dieses Gesetzes obliegt der
 Polizei oder den sonst nach Bundes- oder Landesrecht zuständigen
@@ -82,6 +84,7 @@ Zeugenschutzes in Kenntnis zu setzen.
 
 
 ## § 3 Geheimhaltung, Verpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000300000)
 
 Wer mit dem Zeugenschutz befasst wird, darf die ihm bekannt gewordenen
 Erkenntnisse über Zeugenschutzmaßnahmen auch über den Zeitpunkt der
@@ -93,6 +96,7 @@ dies geboten erscheint.
 
 
 ## § 4 Verwendung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000400000)
 
 (1) Die Zeugenschutzdienststelle kann Auskünfte über personenbezogene
 Daten der zu schützenden Person verweigern, soweit dies für den
@@ -122,6 +126,7 @@ oder sonst von ihr bestimmten Daten unverzüglich mit.
 
 
 ## § 5 Vorübergehende Tarnidentität
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000501301)
 
 (1) Öffentliche Stellen dürfen auf Ersuchen der
 Zeugenschutzdienststelle für eine zu schützende Person Urkunden oder
@@ -152,6 +157,7 @@ ihrer Aufgaben unerlässlich ist.
 
 
 ## § 6 Aufhebung von Maßnahmen des Zeugenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000600000)
 
 Wird der Zeugenschutz insgesamt beendet oder sind einzelne Maßnahmen
 nicht mehr erforderlich, unterrichtet die Zeugenschutzdienststelle
@@ -163,6 +169,7 @@ nicht mehr erforderlich ist.
 
 
 ## § 7 Ansprüche gegen Dritte
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000700000)
 
 (1) Ansprüche der zu schützenden Personen gegen Dritte werden durch
 Maßnahmen nach diesem Gesetz nicht berührt.
@@ -187,6 +194,7 @@ Sozialgesetzbuch findet Anwendung.
 
 
 ## § 8 Zuwendungen der Zeugenschutzdienststelle
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000800000)
 
 Zuwendungen der Zeugenschutzdienststelle dürfen nur in dem Umfang
 gewährt werden, als dies für den Zeugenschutz erforderlich ist. Sie
@@ -195,6 +203,7 @@ wissentlich falscher Angaben gewährt worden sind.
 
 
 ## § 9 Ansprüche Dritter
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE000900000)
 
 (1) Ansprüche Dritter gegen die zu schützende Person werden durch
 Maßnahmen nach diesem Gesetz nicht berührt. Mit Aufnahme in den
@@ -207,6 +216,7 @@ Maßnahmen des Zeugenschutzes vereitelt wird.
 
 
 ## § 10 Zeugenschutz in justizförmigen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE001001125)
 
 (1) Eine zu schützende Person, die in einem anderen gerichtlichen
 Verfahren als einem Strafverfahren oder in einem Verfahren vor einem
@@ -231,6 +241,7 @@ als Zwecke des Zeugenschutzes dem nicht entgegenstehen.
 
 
 ## § 11 Zeugenschutz bei freiheitsentziehenden Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zshg/BJNR351010001.html#BJNR351010001BJNE001100000)
 
 Entscheidungen der Zeugenschutzdienststelle, die Auswirkungen auf den
 Vollzug von Untersuchungshaft, Freiheitsstrafe oder einer sonstigen

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 7833-3-13 v. 4.11.1999 I 2156
 
 ## § 1 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verstiermeldv_2013/BJNR414510013.html#BJNR414510013BJNE000102119)
 
 (1) Wer Tierversuche nach § 7 Absatz 2 des Tierschutzgesetzes an
 Wirbeltieren oder Kopffüßern durchführt, hat der zuständigen Behörde
@@ -70,6 +71,7 @@ erstatten.
 
 
 ## § 2 Übermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verstiermeldv_2013/BJNR414510013.html#BJNR414510013BJNE000202119)
 
 Die zuständige Behörde übermittelt alle in einem Land für ein
 Kalenderjahr gemachten Meldungen in anonymisierter Form jeweils bis
@@ -78,6 +80,7 @@ Risikobewertung.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verstiermeldv_2013/BJNR414510013.html#BJNR414510013BJNE000300000)
 
 Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe b des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -86,6 +89,7 @@ nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/verstiermeldv_2013/BJNR414510013.html#BJNR414510013BJNE000400000)
 
 Für die Meldungen für das Kalenderjahr 2013 ist die
 Versuchstiermeldeverordnung vom 4. November 1999 (BGBl. I S. 2156),
@@ -97,6 +101,7 @@ gelten.
 
 
 ## Anlage (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: \_\_\__\_\_
+[Direktlink](https://www.gesetze-im-internet.de/verstiermeldv_2013/BJNR414510013.html#BJNR414510013BJNE000502119)
 
 (Fundstelle: BGBl. I 2013, 4147 - 4152;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

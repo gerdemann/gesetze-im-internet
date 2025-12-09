@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000100000)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
@@ -32,6 +33,7 @@ Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000200000)
 
 (1) Die Meisterprüfung im zulassungspflichtigen Maler- und Lackierer-
 Handwerk umfasst folgende selbständige Prüfungsteile:
@@ -61,6 +63,7 @@ Schwerpunkte auszuwählen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, dass der Prüfling
 befähigt ist, einen Betrieb selbständig zu führen, technische,
@@ -361,12 +364,14 @@ und Kenntnisse als ganzheitliche Qualifikationen zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein
 Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen
@@ -452,6 +457,7 @@ Dokumentation mit 10 vom Hundert gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -463,6 +469,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000700000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 sechs Arbeitstage, das Fachgespräch nicht länger als 30 Minuten
@@ -480,6 +487,7 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000801360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 genannten Handlungsfeldern seine Handlungskompetenz dadurch
@@ -705,6 +713,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE000902128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -715,6 +724,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE001001360)
 
 Die Regelungen des § 7 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -722,6 +732,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mulmstrv/BJNR165900005.html#BJNR165900005BJNE001100000)
 
 Diese Verordnung tritt am 1. Oktober 2005 in Kraft.
 

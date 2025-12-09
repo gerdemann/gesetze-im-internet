@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000100000)
 
 Auf Grund des § 31 Abs. 4 Satz 1 des Fünften Buches Sozialgesetzbuch -
 Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20.
@@ -32,6 +33,7 @@ Bundesministerium für Gesundheit und Soziale Sicherung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000205116)
 
 (1) Fertigarzneimittel nach § 4 Absatz 1 des Arzneimittelgesetzes, die
 von einem Vertragsarzt für Versicherte verordnet und zu Lasten der
@@ -97,6 +99,7 @@ ist, ist dieses maßgeblich.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000302116)
 
 (1) Pharmazeutische Unternehmen haben für die von ihnen in Verkehr
 gebrachten Fertigarzneimittel die maßgeblichen
@@ -137,6 +140,7 @@ nach den Vorschriften dieser Verordnung gekennzeichnet werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000403116)
 
 Fertigarzneimittel, die nach § 47 Absatz 1 Nummer 2 Buchstabe a des
 Arzneimittelgesetzes vom ausschließlichen Vertrieb über Apotheken
@@ -149,6 +153,7 @@ einer Einzelpackung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000502116)
 
 Für die Versorgung von Arztpraxen oder ärztlich geleiteten
 Einrichtungen mit Arzneimitteln können Krankenkassen und ihre Verbände
@@ -160,6 +165,7 @@ werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000603116)
 
 Das Nähere zur Ermittlung der Packungsgrößen regelt das Bundesinstitut
 für Arzneimittel und Medizinprodukte mit Zustimmung des
@@ -187,11 +193,13 @@ Kalendermonats; § 2 Absatz 5 Satz 3 bleibt unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000800360)
 
 Die Verordnung tritt am 1. Juli 2004 in Kraft.
 
 
 ## (XXXX) Anlage 1 bis 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/packungsv/BJNR131800004.html#BJNR131800004BJNE000704360)
 
 -
 

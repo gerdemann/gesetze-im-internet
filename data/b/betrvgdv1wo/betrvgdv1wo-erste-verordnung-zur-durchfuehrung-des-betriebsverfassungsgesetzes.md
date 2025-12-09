@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004500000)
 
 Auf Grund des § 126 des Betriebsverfassungsgesetzes in der Fassung der
 Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518) verordnet das
@@ -27,14 +28,17 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Erster Teil - Wahl des Betriebsrats (§ 14 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000100000)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000200000)
 
 
 
 #### § 1 Wahlvorstand
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000201126)
 
 (1) Die Leitung der Wahl obliegt dem Wahlvorstand.
 
@@ -79,6 +83,7 @@ auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 2 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000301126)
 
 (1) Der Wahlvorstand hat für jede Betriebsratswahl eine Liste der
 Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern,
@@ -121,6 +126,7 @@ Stimmabgabe in geeigneter Weise unterrichtet werden.
 
 
 #### § 3 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000401126)
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erlässt
 der Wahlvorstand ein Wahlausschreiben, das von der oder dem
@@ -220,6 +226,7 @@ erforderlichen Informationen zur Verfügung zu stellen.
 
 
 #### § 4 Einspruch gegen die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000501126)
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit
 Wirksamkeit für die Betriebsratswahl nur vor Ablauf von zwei Wochen
@@ -249,6 +256,7 @@ Stimmabgabe berichtigt oder ergänzt werden.
 
 
 #### § 5 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000600000)
 
 (1) Der Wahlvorstand stellt fest, welches Geschlecht von seinem
 zahlenmäßigen Verhältnis im Betrieb in der Minderheit ist. Sodann
@@ -272,14 +280,17 @@ dieser Sitz zufällt.
 
 
 ### Zweiter Abschnitt - Wahl von mehr als fünf Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000401126)
 
 
 
 #### Erster Unterabschnitt - Einreichung und Bekanntmachung von Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000500000)
 
 
 
 ##### § 6 Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000701126)
 
 (1) Sind mehr als fünf Betriebsratsmitglieder zu wählen, so erfolgt
 die Wahl aufgrund von Vorschlagslisten, sofern nicht die Anwendung des
@@ -331,6 +342,7 @@ Bewerberin oder der Bewerber auf sämtlichen Listen zu streichen.
 
 
 ##### § 7 Prüfung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000800000)
 
 (1) Der Wahlvorstand hat bei Überbringen der Vorschlagsliste oder,
 falls die Vorschlagsliste auf eine andere Weise eingereicht wird, der
@@ -348,6 +360,7 @@ Gründe zu unterrichten.
 
 
 ##### § 8 Ungültige Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE000901126)
 
 (1) Ungültig sind Vorschlagslisten,
 
@@ -387,6 +400,7 @@ drei Arbeitstagen beseitigt werden.
 
 
 ##### § 9 Nachfrist für Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001000000)
 
 (1) Ist nach Ablauf der in § 6 Abs. 1 genannten Frist keine gültige
 Vorschlagsliste eingereicht, so hat dies der Wahlvorstand sofort in
@@ -402,6 +416,7 @@ bekannt zu machen, dass die Wahl nicht stattfindet.
 
 
 ##### § 10 Bekanntmachung der Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001101126)
 
 (1) Nach Ablauf der in § 6 Abs. 1, § 8 Abs. 2 und § 9 Abs. 1 genannten
 Fristen ermittelt der Wahlvorstand durch das Los die Reihenfolge der
@@ -416,10 +431,12 @@ Wahlausschreiben nach § 3 Absatz 4 Satz 1 bis 3.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten (§ 14 Abs. 2 Satz 1 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001800000)
 
 
 
 ##### § 11 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001201126)
 
 (1) Die Wählerin oder der Wähler kann ihre oder seine Stimme nur für
 eine der als gültig anerkannten Vorschlagslisten abgeben. Die
@@ -447,6 +464,7 @@ enthalten, sind ungültig.
 
 
 ##### § 12 Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001301126)
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen für die unbeobachtete
 Bezeichnung der Stimmzettel im Wahlraum zu treffen und für die
@@ -485,6 +503,7 @@ wird, insbesondere wenn sie an mehreren Tagen erfolgt.
 
 
 ##### § 13 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001401126)
 
 Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich
 die Auszählung der Stimmen vor und gibt das aufgrund der Auszählung
@@ -494,6 +513,7 @@ Stimmauszählung das Verfahren nach § 26 durch.
 
 
 ##### § 14 Verfahren bei der Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001501126)
 
 (1) Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die
 Stimmzettel und zählt die auf jede Vorschlagsliste entfallenden
@@ -507,6 +527,7 @@ angesehen.
 
 
 ##### § 15 Verteilung der Betriebsratssitze auf die Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001600000)
 
 (1) Die Betriebsratssitze werden auf die Vorschlagslisten verteilt.
 Dazu werden die den einzelnen Vorschlagslisten zugefallenen
@@ -573,6 +594,7 @@ Folgendes:
 
 
 ##### § 16 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001701126)
 
 (1) Nachdem ermittelt ist, welche Arbeitnehmerinnen und Arbeitnehmer
 als Betriebsratsmitglieder gewählt sind, hat der Wahlvorstand in einer
@@ -609,6 +631,7 @@ zu unterschreiben.
 
 
 ##### § 17 Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001800000)
 
 (1) Der Wahlvorstand hat die als Betriebsratsmitglieder gewählten
 Arbeitnehmerinnen und Arbeitnehmer unverzüglich schriftlich von ihrer
@@ -627,6 +650,7 @@ Mindestsitze erhält. § 15 Abs. 5 Nr. 2 bis 5 gilt entsprechend.
 
 
 ##### § 18 Bekanntmachung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE001901126)
 
 Sobald die Namen der Betriebsratsmitglieder endgültig feststehen, hat
 der Wahlvorstand sie durch zweiwöchigen Aushang in gleicher Weise
@@ -637,16 +661,19 @@ zu übersenden.
 
 
 ##### § 19 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002000000)
 
 Der Betriebsrat hat die Wahlakten mindestens bis zur Beendigung seiner
 Amtszeit aufzubewahren.
 
 
 #### Dritter Unterabschnitt - Wahlverfahren bei nur einer Vorschlagsliste (§ 14 Abs. 2 Satz 2 erster Halbsatz des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000600000)
 
 
 
 ##### § 20 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002101126)
 
 (1) Ist nur eine gültige Vorschlagsliste eingereicht, so kann die
 Wählerin oder der Wähler ihre oder seine Stimme nur für solche
@@ -668,6 +695,7 @@ Betriebsratsmitglieder zu wählen sind. § 11 Abs. 1 Satz 2, Abs. 2 Satz
 
 
 ##### § 21 Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002201126)
 
 Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die Stimmzettel
 und zählt die auf jede Bewerberin und jeden Bewerber entfallenden
@@ -675,6 +703,7 @@ Stimmen zusammen; § 14 Abs. 1 Satz 2 und Abs. 2 gilt entsprechend.
 
 
 ##### § 22 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002300000)
 
 (1) Zunächst werden die dem Geschlecht in der Minderheit zustehenden
 Mindestsitze (§ 15 Abs. 2 des Gesetzes) verteilt. Dazu werden die dem
@@ -702,6 +731,7 @@ Satz 2 zu berücksichtigen.
 
 
 ##### § 23 Wahlniederschrift, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002400000)
 
 (1) Nachdem ermittelt ist, welche Arbeitnehmerinnen und Arbeitnehmer
 als Betriebsratsmitglieder gewählt sind, hat der Wahlvorstand eine
@@ -723,10 +753,12 @@ Stimmenzahl über.
 
 
 ### Dritter Abschnitt - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000700000)
 
 
 
 #### § 24 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002501126)
 
 (1) Wahlberechtigten, die im Zeitpunkt der Wahl wegen Abwesenheit vom
 Betrieb verhindert sind, ihre Stimme persönlich abzugeben, hat der
@@ -783,6 +815,7 @@ Stimmabgabe beschließen. Absatz 2 gilt entsprechend.
 
 
 #### § 25 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002601126)
 
 Die Stimmabgabe erfolgt in der Weise, dass die Wählerin oder der
 Wähler
@@ -809,6 +842,7 @@ Person des Vertrauens verrichten lassen.
 
 
 #### § 26 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002701126)
 
 (1) Zu Beginn der öffentlichen Sitzung zur Stimmauszählung nach § 13
 öffnet der Wahlvorstand die bis zum Ende der Stimmabgabe (§ 3 Absatz 2
@@ -828,10 +862,12 @@ Wahl nicht angefochten worden ist.
 
 
 ### Vierter Abschnitt - Wahlvorschläge der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000800000)
 
 
 
 #### § 27 Voraussetzungen, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002800000)
 
 (1) Für den Wahlvorschlag einer im Betrieb vertretenen Gewerkschaft (§
 14 Abs. 3 des Gesetzes) gelten die §§ 6 bis 26 entsprechend.
@@ -847,18 +883,22 @@ Mitglied der Gewerkschaft ist, benennen.
 
 
 ## Zweiter Teil - Wahl des Betriebsrats im vereinfachten Wahlverfahren (§ 14a des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG000900000)
 
 
 
 ### Erster Abschnitt - Wahl des Betriebsrats im zweistufigen Verfahren (§ 14a Abs. 1 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001000000)
 
 
 
 #### Erster Unterabschnitt - Wahl des Wahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001200000)
 
 
 
 ##### § 28 Einladung zur Wahlversammlung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE002901126)
 
 (1) Zu der Wahlversammlung, in der der Wahlvorstand nach § 17a Nr. 3
 des Gesetzes (§ 14a Abs. 1 des Gesetzes) gewählt wird, können drei
@@ -900,6 +940,7 @@ versiegelten Umschlag auszuhändigen.
 
 
 ##### § 29 Wahl des Wahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003000000)
 
 Der Wahlvorstand wird in der Wahlversammlung zur Wahl des
 Wahlvorstands von der Mehrheit der anwesenden Arbeitnehmerinnen und
@@ -909,10 +950,12 @@ Vorsitzenden des Wahlvorstands gilt Satz 1 entsprechend.
 
 
 #### Zweiter Unterabschnitt - Wahl des Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001300000)
 
 
 
 ##### § 30 Wahlvorstand, Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003100000)
 
 (1) Unmittelbar nach seiner Wahl hat der Wahlvorstand in der
 Wahlversammlung zur Wahl des Wahlvorstands die Wahl des Betriebsrats
@@ -932,6 +975,7 @@ eingelegt werden. § 4 Abs. 2 und 3 gilt entsprechend.
 
 
 ##### § 31 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003201126)
 
 (1) Im Anschluss an die Aufstellung der Wählerliste erlässt der
 Wahlvorstand in der Wahlversammlung das Wahlausschreiben, das von der
@@ -1033,6 +1077,7 @@ entsprechend.
 
 
 ##### § 32 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003300000)
 
 Besteht der zu wählende Betriebsrat aus mindestens drei Mitgliedern,
 so hat der Wahlvorstand den Mindestanteil der Betriebsratssitze für
@@ -1041,6 +1086,7 @@ zu errechnen.
 
 
 ##### § 33 Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003401126)
 
 (1) Die Wahl des Betriebsrats erfolgt aufgrund von Wahlvorschlägen.
 Die Wahlvorschläge sind von den Wahlberechtigten und den im Betrieb
@@ -1075,6 +1121,7 @@ Weise wie das Wahlausschreiben (§ 31 Abs. 2) zu erfolgen.
 
 
 ##### § 34 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003501126)
 
 (1) Die Wählerin oder der Wähler kann ihre oder seine Stimme nur für
 solche Bewerberinnen oder Bewerber abgeben, die in einem Wahlvorschlag
@@ -1109,6 +1156,7 @@ Ermittlung der Gewählten die §§ 22 und 23 Abs. 2 entsprechend.
 
 
 ##### § 35 Nachträgliche schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003601126)
 
 (1) Können Wahlberechtigte an der Wahlversammlung zur Wahl des
 Betriebsrats nicht teilnehmen, um ihre Stimme persönlich abzugeben,
@@ -1145,10 +1193,12 @@ die Auszählung der Stimmen vor. § 34 Abs. 3 bis 5 gilt entsprechend.
 
 
 ### Zweiter Abschnitt - Wahl des Betriebsrats im einstufigen Verfahren (§ 14a Abs. 3 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001400000)
 
 
 
 #### § 36 Wahlvorstand, Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003701126)
 
 (1) Nach der Bestellung des Wahlvorstands durch den Betriebsrat,
 Gesamtbetriebsrat, Konzernbetriebsrat oder das Arbeitsgericht (§ 14a
@@ -1211,10 +1261,12 @@ Wahlausschreiben (Absatz 3) zu erfolgen.
 
 
 ### Dritter Abschnitt - Wahl des Betriebsrats in Betrieben mit in der Regel 101 bis 200 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001501126)
 
 
 
 #### § 37 Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003801126)
 
 Haben Arbeitgeber und Wahlvorstand in einem Betrieb mit in der Regel
 101 bis 200 Wahlberechtigten die Wahl des Betriebsrats im
@@ -1223,10 +1275,12 @@ richtet sich das Wahlverfahren nach § 36.
 
 
 ## Dritter Teil - Wahl der Jugend- und Auszubildendenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001600000)
 
 
 
 ### § 38 Wahlvorstand, Wahlvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE003900000)
 
 Für die Wahl der Jugend- und Auszubildendenvertretung gelten die
 Vorschriften der §§ 1 bis 5 über den Wahlvorstand, die Wählerliste,
@@ -1236,6 +1290,7 @@ mindestens eine nach § 8 des Gesetzes wählbare Person angehören.
 
 
 ### § 39 Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004001126)
 
 (1) Sind mehr als drei Mitglieder zur Jugend- und
 Auszubildendenvertretung zu wählen, so erfolgt die Wahl aufgrund von
@@ -1265,6 +1320,7 @@ entsprechend.
 
 
 ### § 40 Wahl der Jugend- und Auszubildendenvertretung im vereinfachten Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004101126)
 
 (1) In Betrieben mit in der Regel fünf bis 100 der in § 60 Abs. 1 des
 Gesetzes genannten Arbeitnehmerinnen und Arbeitnehmern wird die
@@ -1282,10 +1338,12 @@ Anwendung des vereinfachten Wahlverfahrens vereinbart haben (§ 63 Abs.
 
 
 ## Vierter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNG001700000)
 
 
 
 ### § 41 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004201126)
 
 (1) Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
@@ -1301,6 +1359,7 @@ liegen.
 
 
 ### § 42 Bereich der Seeschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004300000)
 
 Die Regelung der Wahlen für die Bordvertretung und den Seebetriebsrat
 (§§ 115 und 116 des Gesetzes) bleibt einer besonderen Rechtsverordnung
@@ -1308,6 +1367,7 @@ vorbehalten.
 
 
 ### § 43 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004401308)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -1315,6 +1375,7 @@ vorbehalten.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/betrvgdv1wo/BJNR349400001.html#BJNR349400001BJNE004600000)
 
 Der Bundesrat hat zugestimmt.
 

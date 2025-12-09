@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000100000)
 
 Auf Grund des § 4 Abs. 6 des Pfandbriefgesetzes vom 22. Mai 2005
 (BGBl. I S. 1373) in Verbindung mit § 1 Nr. 4 der Verordnung zur
@@ -36,6 +37,7 @@ Kreditwirtschaft:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000200000)
 
 Im Sinne dieser Verordnung ist
 
@@ -55,6 +57,7 @@ An- und Verkaufskursen zugrunde zu legen.
 
 
 ## § 2 Barwertdeckungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000301377)
 
 Die Barwerte der im Umlauf befindlichen Hypothekenpfandbriefe,
 Öffentlichen Pfandbriefe, Schiffspfandbriefe und Flugzeugpfandbriefe
@@ -68,6 +71,7 @@ Deckungswerte barwertig auszugleichen.
 
 
 ## § 3 Ermittlung der aktuellen Barwerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000400000)
 
 (1) Für die Ermittlung der Barwerte ist die alleinige Verwendung der
 währungsspezifischen Zinskurve für Swapgeschäfte zulässig. Derivate
@@ -82,6 +86,7 @@ aktuellen Wechselkurs in Euro umzurechnen.
 
 
 ## § 4 Stresstest
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000501377)
 
 Die Pfandbriefbank hat sicherzustellen, dass die barwertige Deckung
 nach § 4 Abs. 1 Satz 1 des Pfandbriefgesetzes auch im Falle von Zins-
@@ -100,6 +105,7 @@ keine barwertige Unterdeckung ausweist.
 
 
 ## § 5 Simulation der Auswirkung von Zinsveränderungen auf die Barwerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000604119)
 
 (1) Zur Abbildung der Auswirkung von Zinsveränderungen sind die zur
 Barwertberechnung verwendeten Zinskurven nach Maßgabe eines statischen
@@ -148,6 +154,7 @@ Berechnungen anzuwenden.
 
 
 ## § 6 Simulation der Auswirkung von Währungsveränderungen auf die Barwerte
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000702119)
 
 (1) Für Fremdwährungspositionen gleicher Währung ist ein Nettobarwert
 zu bestimmen, der der Differenz der gemäß § 5 Abs. 1 ermittelten
@@ -201,6 +208,7 @@ Berechnungen anzuwenden.
 
 
 ## § 7 Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000801119)
 
 (1) Jede Pfandbriefbank ist verpflichtet,
 
@@ -224,6 +232,7 @@ aufzubewahren.
 
 
 ## § 8 Methodenwechsel
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE000902119)
 
 Die Pfandbriefbank darf das von ihr einmal gewählte
 Berechnungsverfahren nur mit Zustimmung der Bundesanstalt wechseln.
@@ -236,6 +245,7 @@ Verbesserung der Ergebnisqualität führt.
 
 
 ## § 9 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE001000000)
 
 (1) Pfandbriefbanken, die eine Anzeige nach § 51 des
 Pfandbriefgesetzes abgegeben haben, haben für die von dieser Anzeige
@@ -255,6 +265,7 @@ nach einem anderen geeigneten Verfahren durchführen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pfandbarwertv_2005/BJNR216500005.html#BJNR216500005BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

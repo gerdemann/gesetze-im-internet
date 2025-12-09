@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg1990v/BJNR397000994.html#BJNR397000994BJNE000100307)
 
 Auf Grund des § 6 des Straßenverkehrsunfallstatistikgesetzes, der
 durch Artikel 1 Nr. 5 des Gesetzes vom 23. November 1994 (BGBl. I S.
@@ -29,6 +30,7 @@ Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg1990v/BJNR397000994.html#BJNR397000994BJNE000201308)
 
 Ein schwerwiegender Unfall mit Sachschaden im Sinne des § 2 Abs. 1 des
 Straßenverkehrsunfallstatistikgesetzes vom 15. Juni 1990, das durch
@@ -65,11 +67,13 @@ hat.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg1990v/BJNR397000994.html#BJNR397000994BJNE000300307)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stvunfstatg1990v/BJNR397000994.html#BJNR397000994BJNE000400307)
 
 Der Bundesrat hat zugestimmt.
 

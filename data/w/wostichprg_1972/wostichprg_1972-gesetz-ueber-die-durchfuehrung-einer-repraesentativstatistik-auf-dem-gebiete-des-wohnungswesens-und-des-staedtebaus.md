@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000100304)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000200304)
 
 Im Geltungsbereich dieses Gesetzes wird eine repräsentative
 Bundesstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus
@@ -35,12 +37,14 @@ den Verhältnissen im April 1972 durchgeführt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000300304)
 
 Die Wohnungsstichprobe erstreckt sich im Bundesdurchschnitt auf
 höchstens 1 vom Hundert der Gebäude mit Wohnraum.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000400304)
 
 In der Wohnungsstichprobe sind zu erfassen:
 
@@ -103,6 +107,7 @@ In der Wohnungsstichprobe sind zu erfassen:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000500304)
 
 (1) Auskunftspflichtig sind alle Haushaltsvorstände und die im
 Haushalt lebenden Volljährigen, die im April 1972 bei der Erhebung
@@ -121,6 +126,7 @@ Auskünfte schriftlich eingeholt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000600304)
 
 Die Gemeinden mit 10.000 und mehr Einwohnern - soweit sie von der
 Stichprobe erfaßt werden - haben auszufüllen
@@ -147,6 +153,7 @@ Stichprobe erfaßt werden - haben auszufüllen
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000700304)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -154,6 +161,7 @@ im Land Berlin.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/wostichprg_1972/BJNR019450971.html#BJNR019450971BJNE000800304)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

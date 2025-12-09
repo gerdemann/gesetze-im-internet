@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stsweabkg/BJNR068620994.html#BJNR068620994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stsweabkg/BJNR068620994.html#BJNR068620994BJNE000200307)
 
 Dem in Bonn am 14. Juli 1992 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Schweden zur Vermeidung
@@ -38,6 +40,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stsweabkg/BJNR068620994.html#BJNR068620994BJNE000300307)
 
 Soweit das Abkommen auf Grund seines Artikels 46 Abs. 3 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -48,6 +51,7 @@ Abkommen in Kraft getreten ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/stsweabkg/BJNR068620994.html#BJNR068620994BJNE000400307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

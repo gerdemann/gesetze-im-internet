@@ -23,12 +23,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE000100319)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE000200319)
 
 Dem in Den Haag am 8. April 1960 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Königreich der Niederlande zur
@@ -39,6 +41,7 @@ Briefwechsel werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE001200319)
 
 (1) In den Gebietsteilen, die am 31. Dezember 1937 zum Königreich der
 Niederlande gehörten und die gemäß Artikel 1 des Grenzvertrags zur
@@ -57,6 +60,7 @@ die Artikel 24, 25 und 30 des Grenzvertrags sinngemäß Anwendung.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE000300319)
 
 Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates
 die Rechtsverordnungen zu erlassen, die zur Durchführung der in
@@ -65,6 +69,7 @@ vorgesehenen späteren Änderungen des Grenzverlaufs erforderlich sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE000400319)
 
 (1) Die Landesregierungen werden ermächtigt, für die Grundstücke in
 den in Artikel 4 und Artikel 5 des Grenzvertrags bezeichneten
@@ -100,10 +105,12 @@ Landesjustizverwaltung übertragen.
 
 
 ## (XXXX) Art 5 bis 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE000501116)
 
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/ausglvtrnldg/BJNR204580963.html#BJNR204580963BJNE001100319)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

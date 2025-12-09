@@ -20,36 +20,44 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNG000100000)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE000200000)
 
 -
 
 
 ### (XXXX) Art 2 bis 10
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE000300000)
 
 
 
 ## Zweiter Teil - Änderung des Arbeitsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNG000400000)
 
 
 
 ### Art 11
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE000500000)
 
 -
 
 
 ## Dritter Teil - Änderung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNG000600000)
 
 
 
 ### (XXXX) Art 12 bis 79
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE000700000)
 
 
 
 ### Art 80 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE000800000)
 
 Die auf den Artikeln 12, 13, 14, 15, 21, 25, 26, 33, 34, 35, 47, 54,
 55, 56, 57, 58, 59, 60, 61, 62, 71, 76 und 79 beruhenden Teile der
@@ -59,10 +67,12 @@ Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Vierter Teil, Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNG000900000)
 
 
 
 ### Art 81 Weitergeltung von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE001000000)
 
 Die auf Grund des Arbeitsförderungsgesetzes erlassenen und weiterhin
 geltenden Rechtsverordnungen können nach Maßgabe der in diesem Gesetz
@@ -78,11 +88,13 @@ Entwicklungsländern) vom 11. Mai 1967 (BGBl. I S. 531) in Kraft.
 
 
 ### Art 82
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE001100000)
 
 -
 
 
 ### Art 83 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/afrg/BJNR059400997.html#BJNR059400997BJNE001300000)
 
 (1) Dieses Gesetz tritt am 1. Januar 1998 in Kraft, soweit in den
 folgenden Absätzen nichts Abweichendes bestimmt ist.

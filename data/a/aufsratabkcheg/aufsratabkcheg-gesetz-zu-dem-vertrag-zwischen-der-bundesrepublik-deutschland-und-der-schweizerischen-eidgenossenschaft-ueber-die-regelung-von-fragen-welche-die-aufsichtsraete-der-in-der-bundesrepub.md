@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNG000100314)
 
 Dem in Bonn am 6. Dezember 1955 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
@@ -33,6 +34,7 @@ Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNG000200314)
 
 Auf Grund des Vorbehalts nach Artikel 2 des Vertrags wird für
 Aktiengesellschaften mit Sitz im Geltungsbereich dieses Gesetzes,
@@ -41,6 +43,7 @@ Grenzkraftwerke am Rhein ist, folgendes bestimmt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE000500314)
 
 (1) An allen Sitzungen des Aufsichtsrats können in Unternehmen mit in
 der Regel nicht mehr als 150 Arbeitnehmern zwei Arbeitnehmervertreter,
@@ -57,6 +60,7 @@ nach Absatz 1 teilnehmen können, einzuladen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE000600314)
 
 (1) Die Arbeitnehmervertreter werden in allgemeiner, geheimer,
 gleicher und unmittelbarer Wahl für die Dauer von vier Jahren gewählt.
@@ -84,6 +88,7 @@ umfaßt. Für die Beschlußfassung gilt Absatz 1 entsprechend.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE000700314)
 
 Die Arbeitnehmervertreter erhalten keine andere Vergütung als eine von
 der Hauptversammlung festzusetzende Aufwandsentschädigung. Notwendige
@@ -92,6 +97,7 @@ berechtigt nicht zur Minderung des Arbeitsentgelts.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE000800314)
 
 Die Arbeitnehmervertreter haben über vertrauliche Angaben oder
 Betriebs- und Geschäftsgeheimnisse, die ihnen wegen ihrer Tätigkeit
@@ -102,6 +108,7 @@ dem Unternehmen Stillschweigen gegenüber jedermann zu wahren.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE000900314)
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis
 offenbart, das ihm in seiner Eigenschaft als Arbeitnehmervertreter
@@ -120,6 +127,7 @@ verwertet.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE001000314)
 
 Zur Regelung der in § 2 bezeichneten Wahlen und Abstimmungen erläßt
 die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung
@@ -159,6 +167,7 @@ i)  den Widerruf der Bestellung der Arbeitnehmervertreter.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNE001100314)
 
 (1) Die Arbeitsgerichte sind ausschließlich zuständig für die
 Entscheidung über
@@ -183,6 +192,7 @@ Anwendung.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNG000300314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -192,6 +202,7 @@ S. 1).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/aufsratabkcheg/BJNR202629957.html#BJNR202629957BJNG000400314)
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tag nach seiner
 Verkündung in Kraft. Artikel 2 tritt am Tag des Inkrafttretens des

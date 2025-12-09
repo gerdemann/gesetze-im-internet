@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 2126-13-1 v. 21.5.2001 I 959 (TrinkwV 2001)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000200000)
 
 (1) Diese Verordnung findet Anwendung auf das im 7. Abschnitt des
 Infektionsschutzgesetzes bezeichnete Wasser für den menschlichen
@@ -59,6 +61,7 @@ ausschließlichen Wirtschaftszone Anwendung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -241,6 +244,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ### § 3 Bezugnahmen auf technische Normen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000400000)
 
 (1) Vorschriften, die auf DIN- oder internationale Normen verweisen,
 beziehen sich, wenn nicht anders bestimmt, jeweils auf die folgenden
@@ -366,6 +370,7 @@ Nationalbibliothek in Leipzig archivmäßig gesichert niedergelegt.
 
 
 ### § 4 Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000500000)
 
 Die Zuständigkeit der Behörden für den Vollzug dieser Verordnung
 ergibt sich aus den §§ 54 bis 54b des Infektionsschutzgesetzes, soweit
@@ -374,9 +379,11 @@ Bundesbehörden zugewiesen sind.
 
 
 ## Abschnitt 2 - Beschaffenheit des Trinkwassers
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000200000)
 
 
 ### § 5 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000600000)
 
 Die Anforderungen nach § 37 Absatz 1 des Infektionsschutzgesetzes an
 die Beschaffenheit von Trinkwasser gelten als erfüllt, wenn
@@ -396,6 +403,7 @@ die Beschaffenheit von Trinkwasser gelten als erfüllt, wenn
 
 
 ### § 6 Mikrobiologische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000700000)
 
 (1) Im Trinkwasser dürfen Krankheitserreger im Sinne des § 2 Nummer 1
 des Infektionsschutzgesetzes, die durch Trinkwasser übertragen werden
@@ -425,6 +433,7 @@ allgemein anerkannten Regeln der Technik möglich ist.
 
 
 ### § 7 Chemische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000800000)
 
 (1) Im Trinkwasser dürfen chemische Stoffe nicht in Konzentrationen
 enthalten sein, die eine Schädigung der menschlichen Gesundheit
@@ -449,6 +458,7 @@ allgemein anerkannten Regeln der Technik möglich ist.
 
 
 ### § 8 Anforderungen in Bezug auf Indikatorparameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE000900000)
 
 (1) Im Trinkwasser müssen die in Anlage 3 festgelegten Grenzwerte und
 Anforderungen für Indikatorparameter eingehalten sein. Dies gilt nicht
@@ -485,6 +495,7 @@ die folgenden Indikatorparameter vorzunehmen:
 
 
 ### § 9 Radiologische Anforderung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001000000)
 
 Trinkwasser darf keine Stoffe aufweisen, die ein oder mehrere
 Radionuklide enthalten, deren Aktivität oder Konzentration unter dem
@@ -495,6 +506,7 @@ werden.
 
 
 ### § 10 Stelle der Einhaltung der Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001100000)
 
 Die Anforderungen an die Beschaffenheit des Trinkwassers nach den §§ 6
 bis 9 müssen an folgender Stelle eingehalten werden:
@@ -528,9 +540,11 @@ bis 9 müssen an folgender Stelle eingehalten werden:
 
 
 ## Abschnitt 3 - Anzeigepflichten in Bezug auf Wasserversorgungsanlagen und Nichttrinkwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000300000)
 
 
 ### § 11 Anzeigepflichten in Bezug auf Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001200000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage, einer
 dezentralen Wasserversorgungsanlage, einer
@@ -651,6 +665,7 @@ sind.
 
 
 ### § 12 Anzeigepflichten in Bezug auf Nichttrinkwasseranlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001300000)
 
 Der Betreiber einer Gebäudewasserversorgungsanlage hat in Bezug auf
 eine im selben Gebäude betriebene Nichttrinkwasseranlage nach § 2
@@ -675,9 +690,11 @@ anzuwenden sind.
 
 
 ## Abschnitt 4 - Anforderungen an Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000400000)
 
 
 ### § 13 Planung, Errichtung, Instandhaltung und Betrieb von Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001400000)
 
 (1) Wasserversorgungsanlagen sind so zu planen und zu errichten, dass
 sie mindestens den allgemein anerkannten Regeln der Technik
@@ -746,6 +763,7 @@ genannten Voraussetzungen weiterhin erfüllt sind.
 
 
 ### § 14 Allgemeine Anforderungen an Werkstoffe und Materialien für die Errichtung oder Instandhaltung von Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001500000)
 
 Werkstoffe und Materialien, die für die Errichtung oder Instandhaltung
 von Wasserversorgungsanlagen verwendet werden und die Kontakt mit dem
@@ -771,6 +789,7 @@ Rohwasser oder Trinkwasser haben, dürfen nicht
 
 
 ### § 15 Grundlagen für die Bewertung von Werkstoffen und Materialien im Kontakt mit Trinkwasser
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001600000)
 
 (1) Das Umweltbundesamt kann die allgemeinen Anforderungen an
 Werkstoffe und Materialien nach § 14 dadurch konkretisieren, dass es
@@ -853,6 +872,7 @@ des Bundesanzeigers bekannt und veröffentlicht diese im Internet.
 
 
 ### § 16 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001700000)
 
 Es wird vermutet, dass die für ein Produkt verwendeten Werkstoffe und
 Materialien den allgemein anerkannten Regeln der Technik und den
@@ -864,6 +884,7 @@ akkreditierten Zertifizierers bestätigt wird.
 
 
 ### § 17 Trinkwasserleitungen aus Blei
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001800000)
 
 (1) Der Betreiber einer Wasserversorgungsanlage, in der
 Trinkwasserleitungen oder Teilstücke von Trinkwasserleitungen aus dem
@@ -963,9 +984,11 @@ Entfernung festgestellt wird.
 
 
 ## Abschnitt 5 - Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000500000)
 
 
 ### § 18 Aufbereitungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE001900000)
 
 Eine Aufbereitung von Rohwasser zu Trinkwasser und eine Aufbereitung
 von Trinkwasser dürfen nur zu den folgenden Aufbereitungszwecken
@@ -1024,6 +1047,7 @@ erfolgen:
 
 
 ### § 19 Allgemeine Anforderungen an die Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002000000)
 
 (1) Die Aufbereitung von Rohwasser oder Trinkwasser hat mindestens
 nach den allgemein anerkannten Regeln der Technik zu erfolgen.
@@ -1065,6 +1089,7 @@ Technik erforderliche Maß zu beschränken.
 
 
 ### § 20 Liste zulässiger Aufbereitungsstoffe und Desinfektionsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002100000)
 
 (1) Das Umweltbundesamt führt eine Liste der zulässigen
 Aufbereitungsstoffe und Desinfektionsverfahren (Liste zulässiger
@@ -1225,6 +1250,7 @@ veröffentlicht diese im Internet.
 
 
 ### § 21 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002200000)
 
 (1) Erfordert die Beurteilung des Vorliegens der Voraussetzungen nach
 § 20 Absatz 4 eine erweiterte Wirksamkeitsprüfung oder eine
@@ -1293,6 +1319,7 @@ Zugabe bis zum 30. Juni 2024 weiterhin einsetzen.
 
 
 ### § 22 Abgabeverbot bei unzulässiger Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002300000)
 
 Der Betreiber einer Wasserversorgungsanlage darf Wasser nicht als
 Trinkwasser abgeben, wenn das Wasser ohne eine Ausnahmegenehmigung
@@ -1305,6 +1332,7 @@ aufgeführt sind.
 
 
 ### § 23 Pflicht zur Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002400000)
 
 (1) Eine Aufbereitung muss erfolgen, wenn der Betreiber einer
 Wasserversorgungsanlage hinsichtlich des Rohwassers Tatsachen
@@ -1353,6 +1381,7 @@ und 2 nicht eingehalten werden, so
 
 
 ### § 24 Untersuchung auf den Betriebsparameter Trübung bei Filtration
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002500000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage hat ab der
 Anwendung eines Filtrationsverfahrens in der partikelabscheidenden
@@ -1372,6 +1401,7 @@ mit dem Ziel der Einhaltung der Referenzwerte durchzuführen.
 
 
 ### § 25 Aufzeichnungspflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002600000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage, einer
 dezentralen Wasserversorgungsanlage oder, sofern das Trinkwasser im
@@ -1405,6 +1435,7 @@ der Aufbereitungsstoffe an sechs Monate lang
 
 
 ### § 26 Information der Anschlussnehmer und Verbraucher über Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002700000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage, einer
 dezentralen Wasserversorgungsanlage, einer mobilen
@@ -1433,9 +1464,11 @@ Aushang an geeigneter Stelle erfolgen.
 
 
 ## Abschnitt 6 - Untersuchungspflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000600000)
 
 
 ### § 27 Besichtigung von Schutzzonen, Untersuchung von Rohwasser
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002800000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage oder einer
 dezentralen Wasserversorgungsanlage hat regelmäßig, mindestens jedoch
@@ -1458,6 +1491,7 @@ Dokumentation zehn Jahre verfügbar zu halten.
 
 
 ### § 28 Untersuchungspflichten in Bezug auf mikrobiologische Parameter, chemische Parameter, Indikatorparameter und Aufbereitungsstoffe bei zentralen und dezentralen Wasserversorgungsanlagen; Untersuchungsplan
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE002900000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage oder einer
 dezentralen Wasserversorgungsanlage hat Untersuchungen durchzuführen,
@@ -1585,6 +1619,7 @@ Aufbereitungsstoffe und Desinfektionsverfahren nach § 20 festgelegt.
 
 
 ### § 29 Untersuchungspflichten in Bezug auf mikrobiologische Parameter, chemische Parameter, Indikatorparameter und Aufbereitungsstoffe bei anderen Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003000000)
 
 (1) Der Betreiber einer Eigenwasserversorgungsanlage hat das
 Trinkwasser mindestens einmal im Jahr darauf zu untersuchen, ob die in
@@ -1648,6 +1683,7 @@ Desinfektionsverfahren nach § 20 festgelegt.
 
 
 ### § 30 Programm für betriebliche Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003100000)
 
 (1) Betreiber der folgenden Wasserversorgungsanlagen haben ein
 Programm für die betriebliche Kontrolle der Maßnahmen zur
@@ -1726,6 +1762,7 @@ den §§ 41 bis 43 bestimmen.
 
 
 ### § 31 Untersuchungspflichten in Bezug auf Legionella spec.
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003200000)
 
 (1) Der Betreiber einer mobilen Wasserversorgungsanlage, einer
 Gebäudewasserversorgungsanlage oder einer zeitweiligen
@@ -1815,6 +1852,7 @@ durchzuführen.
 
 
 ### § 32 Untersuchungspflichten in Bezug auf radioaktive Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003300000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage hat durch
 eine Erstuntersuchung nach Maßgabe der Absätze 3 bis 5 und 8 und durch
@@ -1913,6 +1951,7 @@ Anlage 4 Teil II und III und Anlage 7 Teil II.
 
 
 ### § 33 Ausnahmen von den Untersuchungspflichten in Bezug auf radioaktive Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003400000)
 
 (1) Erstuntersuchungen sind nicht erforderlich, soweit die zuständige
 Behörde für einen von ihr festzulegenden Zeitraum auf der Grundlage
@@ -1959,9 +1998,11 @@ Betreiber einer Wasserversorgungsanlage
 
 
 ## Abschnitt 7 - Risikobasierter Ansatz
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000700000)
 
 
 ### § 34 Pflicht zum Risikomanagement für Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003500000)
 
 (1) Die Betreiber der folgenden Wasserversorgungsanlagen haben die
 Wasserversorgungsanlage zur Sicherstellung von Anforderungen an die
@@ -2029,6 +2070,7 @@ Absatz 4.
 
 
 ### § 35 Risikomanagement für Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003600000)
 
 (1) Personen, die das Risikomanagement durchführen, müssen
 hinreichende Fachkenntnisse über die dem Risikomanagement
@@ -2175,6 +2217,7 @@ hierüber ins Benehmen zu setzen.
 
 
 ### § 36 Indikatorparameter somatische Coliphagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003700000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage hat für das
 Risikomanagement das Rohwasser, das aus einem Oberflächengewässer
@@ -2209,6 +2252,7 @@ festgestellt, so hat der Betreiber
 
 
 ### § 37 Vorschlag für eine Anpassung oder Beibehaltung des Untersuchungsplans oder für die Bestimmung von Untersuchungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003800000)
 
 (1) Der Vorschlag zur Anpassung oder Beibehaltung des
 Untersuchungsplans nach § 35 Absatz 3 Satz 2 Nummer 3 oder der
@@ -2353,6 +2397,7 @@ entsprechendes Erfordernis ergibt.
 
 
 ### § 38 Verfahren zur Entscheidung über eine Anpassung oder Beibehaltung des Untersuchungsplans oder für eine Bestimmung von Untersuchungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE003900000)
 
 (1) Die Dokumentation der Durchführung und der Ergebnisse des
 Risikomanagements nach § 35 Absatz 3 ist dem Gesundheitsamt
@@ -2469,9 +2514,11 @@ aktualisieren hat.
 
 
 ## Abschnitt 8 - Zugelassene Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000800000)
 
 
 ### § 39 Beauftragung einer zugelassenen Untersuchungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004000000)
 
 (1) Die nach dieser Verordnung erforderlichen Untersuchungen des
 Trinkwassers einschließlich der Probennahmen dürfen nur von dafür
@@ -2512,6 +2559,7 @@ setzen hat über:
 
 
 ### § 40 Zugelassene Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004100000)
 
 (1) Auf die Zulassung von Untersuchungsstellen ist bis zum Erlass
 einer Rechtsverordnung auf Grund von § 38 Absatz 1 Satz 1 Nummer 11
@@ -2529,9 +2577,11 @@ Untersuchungsstelle der Parameterumfang anzugeben.
 
 
 ## Abschnitt 9 - Durchführung von Trinkwasseruntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG000900000)
 
 
 ### § 41 Stelle der Probennahme
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004200000)
 
 (1) Trinkwasserproben sind grundsätzlich an der Stelle der Einhaltung
 der Anforderungen nach § 10 zu nehmen.
@@ -2590,6 +2640,7 @@ Trinkwasser handelt, mit der zuständigen Behörde zu erörtern.
 
 
 ### § 42 Probennahmeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004300000)
 
 (1) Die Proben für die Untersuchung von Wasser nach dieser Verordnung
 sind nach den allgemein anerkannten Regeln der Technik zu nehmen.
@@ -2662,6 +2713,7 @@ Jahreszeitliche und saisonale Besonderheiten sind zu berücksichtigen.
 
 
 ### § 43 Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004400000)
 
 (1) Bei den Untersuchungen der mikrobiologischen Beschaffenheit des
 Trinkwassers sind die in den folgenden technischen Normen
@@ -2802,6 +2854,7 @@ III beschriebenen Verfahren.
 
 
 ### § 44 Niederschrift über das Untersuchungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004500000)
 
 (1) Der Betreiber einer Wasserversorgungsanlage hat das Ergebnis jeder
 Untersuchung, die von ihm durchzuführen ist, unverzüglich in einer
@@ -2856,9 +2909,11 @@ Rahmen der Überwachung nach § 59 Absatz 4.
 
 
 ## Abschnitt 10 - Regelmäßige Information der Anschlussnehmer und Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001000000)
 
 
 ### § 45 Regelmäßige Information der Anschlussnehmer und Verbraucher in Textform
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004600000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage oder einer
 dezentralen Wasserversorgungsanlage hat den betroffenen
@@ -2949,6 +3004,7 @@ anzuwenden.
 
 
 ### § 46 Regelmäßige internetbasierte Information der Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004700000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage informiert
 die Verbraucher über eine Internetseite in benutzerfreundlicher und
@@ -3055,9 +3111,11 @@ den Zeitraum, der mit dem 24. Juni 2023 beginnt.
 
 
 ## Abschnitt 11 - Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001100000)
 
 
 ### § 47 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004800000)
 
 (1) Der Betreiber einer Wasserversorgungsanlage hat dem Gesundheitsamt
 oder, wenn es sich um radioaktive Stoffe im Trinkwasser handelt, der
@@ -3144,6 +3202,7 @@ haben Betreiber
 
 
 ### § 48 Klärung der Ursachen und Maßnahmen zur Abhilfe
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE004900000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage, einer
 dezentralen Wasserversorgungsanlage, einer
@@ -3229,6 +3288,7 @@ eingehalten wird.
 
 
 ### § 49 Abgabeverbot
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005000000)
 
 (1) Der Betreiber einer Wasserversorgungsanlage darf Wasser nicht als
 Trinkwasser abgeben und anderen nicht zur Verfügung stellen, wenn
@@ -3279,6 +3339,7 @@ Trinkwasser abgeben und anderen nicht zur Verfügung stellen, wenn
 
 
 ### § 50 Maßnahmenplan des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005100000)
 
 (1) Der Betreiber einer zentralen Wasserversorgungsanlage oder einer
 dezentralen Wasserversorgungsanlage hat einen Maßnahmenplan gemäß Satz
@@ -3314,6 +3375,7 @@ elektronische Datenverarbeitungsverfahren anzuwenden sind.
 
 
 ### § 51 Handlungspflichten des Betreibers in Bezug auf Legionella spec.
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005200000)
 
 (1) Wird in einer Trinkwasserinstallation der in Anlage 3 Teil II
 festgelegte technische Maßnahmenwert für den Parameter Legionella
@@ -3388,6 +3450,7 @@ Verlangen unverzüglich zu übermitteln.
 
 
 ### § 52 Information der Verbraucher bei Überschreitungen von Grenzwerten, Höchstwerten, Anforderungen, Parameterwerten oder Erreichen des technischen Maßnahmenwerts
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005300000)
 
 (1) Ordnet das Gesundheitsamt oder die zuständige Behörde Maßnahmen
 zur Gefahrenabwehr nach § 63 Absatz 1 oder Absatz 3 an, so hat der
@@ -3465,9 +3528,11 @@ Legionella spec. erhalten hat:
 
 
 ## Abschnitt 12 - Pflichten der zugelassenen Untersuchungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001200000)
 
 
 ### § 53 Anzeigepflicht und Meldepflicht der zugelassenen Untersuchungsstelle in Bezug auf Legionella spec.
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005400000)
 
 (1) Stellt eine zugelassene Untersuchungsstelle bei einer Untersuchung
 des Trinkwassers auf den Parameter Legionella spec. nach § 31 das
@@ -3551,9 +3616,11 @@ Bundesgesundheitsblatt bekannt.
 
 
 ## Abschnitt 13 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001300000)
 
 
 ### § 54 Überwachung durch das Gesundheitsamt
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005500000)
 
 (1) Das Gesundheitsamt überwacht Wasserversorgungsanlagen im Hinblick
 auf die Einhaltung der Anforderungen dieser Verordnung und die
@@ -3605,6 +3672,7 @@ die Beschaffenheit des Trinkwassers nach Abschnitt 2 erforderlich ist.
 
 
 ### § 55 Umfang der Überwachung durch das Gesundheitsamt
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005600000)
 
 (1) Bei Wasserversorgungsanlagen nach § 54 Absatz 2 Nummer 1 bis 3
 umfassen die Überwachungen nach § 54 Absatz 1 Satz 1 insbesondere
@@ -3699,6 +3767,7 @@ handeln.
 
 
 ### § 56 Berichtsplan des Gesundheitsamts für ein Wasserversorgungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005700000)
 
 (1) Das Gesundheitsamt legt für jedes Wasserversorgungsgebiet
 kalenderjährlich einen Plan fest, um sicherzustellen, dass die für die
@@ -3776,6 +3845,7 @@ Landesrecht zuständige Stelle kann bestimmen, dass
 
 
 ### § 57 Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005800000)
 
 (1) Die zuständige Behörde überwacht zentrale und, sofern eine
 Untersuchung von radioaktiven Stoffen angeordnet wurde, dezentrale
@@ -3801,6 +3871,7 @@ für radioaktive Stoffe erwarten lassen.
 
 
 ### § 58 Mitwirkungs- und Duldungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE005900000)
 
 (1) Über die Pflichten und Befugnisse nach § 15a des
 Infektionsschutzgesetzes hinaus gelten im Rahmen der Überwachung durch
@@ -3866,6 +3937,7 @@ Nichttrinkwasseranlage vorzulegen:
 
 
 ### § 59 Durchführung der Untersuchungen im Rahmen der Überwachung durch das Gesundheitsamt oder die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006000000)
 
 (1) Das Gesundheitsamt oder, wenn es sich um radioaktive Stoffe im
 Trinkwasser handelt, die zuständige Behörde kann die Entnahme oder
@@ -3894,6 +3966,7 @@ Ergebnis der im Rahmen der Überwachung vorgenommenen Untersuchung.
 
 
 ### § 60 Niederschrift über die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006100000)
 
 (1) Die Ergebnisse der Überwachung hat das Gesundheitsamt oder, wenn
 es sich um radioaktive Stoffe im Trinkwasser handelt, die zuständige
@@ -3914,9 +3987,11 @@ Niederschrift zehn Jahre aufzubewahren.
 
 
 ## Abschnitt 14 - Gefahrenvorsorge und Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001400000)
 
 
 ### § 61 Anordnungen des Gesundheitsamts oder der zuständigen Behörde zur Gefahrenvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006200000)
 
 Wenn es unter Berücksichtigung der Umstände des Einzelfalls zum Schutz
 der menschlichen Gesundheit oder zur Sicherstellung einer den
@@ -4007,6 +4082,7 @@ Behörde anordnen, dass der Betreiber einer Wasserversorgungsanlage
 
 
 ### § 62 Beurteilung von Gefährdungen und Risiken
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006300000)
 
 (1) Das Gesundheitsamt hat unverzüglich zu beurteilen, ob eine
 Schädigung der menschlichen Gesundheit zu besorgen ist, wenn ihm
@@ -4081,6 +4157,7 @@ ebenfalls unverzüglich informiert werden.
 
 
 ### § 63 Anordnungen von Maßnahmen des Gesundheitsamts oder der zuständigen Behörde zur Gefahrenabwehr bei Wasserversorgungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006400000)
 
 (1) Das Gesundheitsamt oder, wenn es sich um radioaktive Stoffe im
 Trinkwasser handelt, die zuständige Behörde ordnet die erforderlichen
@@ -4149,6 +4226,7 @@ allgemein anerkannten Regeln der Technik zu erfolgen.
 
 
 ### § 64 Anordnungen des Gesundheitsamts zur Gefahrenabwehr bei Trinkwasserinstallationen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006500000)
 
 (1) Ist die Nichteinhaltung oder die Nichterfüllung der in den §§ 6
 bis 8 festgelegten Grenzwerte, Höchstwerte und Anforderungen für
@@ -4200,6 +4278,7 @@ unberührt.
 
 
 ### § 65 Klärung der Ursachen und Anordnung von Maßnahmen durch das Gesundheitsamt oder die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006600000)
 
 (1) Ist die Ursache der Nichterfüllung der in den §§ 5 bis 9
 festgelegten Anforderungen unbekannt, so ordnet das Gesundheitsamt
@@ -4246,6 +4325,7 @@ welchen Zeitraum die Nichteinhaltung geduldet wird.
 
 
 ### § 66 Zulassung der Abweichung von Grenzwerten oder Höchstwerten für chemische Parameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006700000)
 
 (1) Kann bei der Überschreitung eines in § 7 Absatz 2 in Verbindung
 mit Anlage 2 festgelegten Grenzwerts oder eines nach § 7 Absatz 3
@@ -4384,6 +4464,7 @@ Absatzes 3 verlängert werden.
 
 
 ### § 67 Information der betroffenen Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006800000)
 
 (1) Das Gesundheitsamt oder, wenn es sich um radioaktive Stoffe im
 Trinkwasser handelt, die zuständige Behörde hat, sofern erforderlich
@@ -4423,6 +4504,7 @@ Vorsorgemaßnahmen.
 
 
 ### § 68 Besondere Maßnahmen des Gesundheitsamts in Bezug auf Legionella spec.
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE006900000)
 
 (1) Wird dem Gesundheitsamt bekannt, dass der in Anlage 3 Teil II
 festgelegte technische Maßnahmenwert für den Parameter Legionella
@@ -4449,9 +4531,11 @@ Gesundheitsschutz ergreift.
 
 
 ## Abschnitt 15 - Berichtswesen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001500000)
 
 
 ### § 69 Berichtspflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007000000)
 
 (1) Bis zum Ablauf des 30. April jedes Jahres haben das Gesundheitsamt
 und, wenn es sich um radioaktive Stoffe im Trinkwasser handelt, die
@@ -4537,6 +4621,7 @@ Internet sowie im Bundesgesundheitsblatt.
 
 
 ### § 70 Bewertung von Trinkwasserinstallationen
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007100000)
 
 (1) Das Umweltbundesamt führt eine allgemeine Bewertung der von
 Trinkwasserinstallationen in Deutschland ausgehenden gesundheitlichen
@@ -4552,9 +4637,11 @@ Bundeministerium für Gesundheit zu übermitteln.
 
 
 ## Abschnitt 16 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNG001600000)
 
 
 ### § 71 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007200000)
 
 (1) Nach § 75 Absatz 2, 4 des Infektionsschutzgesetzes wird bestraft,
 wer vorsätzlich oder fahrlässig entgegen § 22 oder § 49 Absatz 1
@@ -4571,6 +4658,7 @@ Absatz 1 des Infektionsschutzgesetzes strafbar.
 
 
 ### § 72 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007300000)
 
 (1) Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des
 Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -4755,6 +4843,7 @@ Nummer 6 Buchstabe a Doppelbuchstabe aa, § 62 Absatz 1 Satz 1 Nummer
 1, § 69 Absatz 1 Satz 2 Nummer 3)
 
 ### Anlage 1 Mikrobiologische Parameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 47)
 
@@ -4826,6 +4915,7 @@ aa, § 62 Absatz 1 Satz 1 Nummer 1, § 65 Absatz 2 Satz 2 und Absatz 4
 Satz 1, § 66 Absatz 1, § 69 Absatz 1 Satz 2 Nummer 3)
 
 ### Anlage 2 Chemische Parameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 48 - 51)
 
@@ -5302,6 +5392,7 @@ Absatz 1
 Teil III zu § 36 Absatz 2 Satz 1)
 
 ### Anlage 3 Indikatorparameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 52 - 53)
 
@@ -5581,6 +5672,7 @@ Satz 3, Absatz 6 Satz 1 und Absatz 8, den §§ 33, 39 Absatz 4 Nummer 3,
 Absatz 1 Satz 2 Nummer 3)
 
 ### Anlage 4 Anforderungen an Trinkwasser in Bezug auf radioaktive Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 54 - 55)
 
@@ -5888,6 +5980,7 @@ die Richtdosis nach Teil II berechnet.
 (zu § 24 Absatz 1 und 3)
 
 ### Anlage 5 Betriebsparameter Trübung
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 56)
 
@@ -5954,6 +6047,7 @@ die Richtdosis nach Teil II berechnet.
 2, § 56 Absatz 3 Satz 1 Nummer 2)
 
 ### Anlage 6 Untersuchungshäufigkeit
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE007900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 57 - 58)
 
@@ -6197,6 +6291,7 @@ Wasserversorgungsgebiet**
 (zu § 32 Absatz 8, § 43 Absatz 6 Satz 1 und 3 und Absatz 7 Satz 1)
 
 ### Anlage 7 Spezifikationen für die Untersuchung der Parameter
+[Direktlink](https://www.gesetze-im-internet.de/trinkwv_2023/BJNR09F0B0023.html#BJNR09F0B0023BJNE008000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 159, S. 59 - 61)
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Elterngeld
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNG000101119)
 
 
 
 ### § 1 Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000116126)
 
 (1) Anspruch auf Elterngeld hat, wer
 
@@ -211,6 +213,7 @@ als 175 000 Euro beträgt.
 
 
 ### § 2 Höhe des Elterngeldes
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000208119)
 
 (1) Elterngeld wird in Höhe von 67 Prozent des Einkommens aus
 Erwerbstätigkeit vor der Geburt des Kindes gewährt. Es wird bis zu
@@ -261,6 +264,7 @@ Einkommen aus Erwerbstätigkeit hat.
 
 
 ### § 2a Geschwisterbonus und Mehrlingszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002801119)
 
 (1) Lebt die berechtigte Person in einem Haushalt mit
 
@@ -295,6 +299,7 @@ auch, wenn ein Geschwisterbonus nach Absatz 1 gezahlt wird.
 
 
 ### § 2b Bemessungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002909126)
 
 (1) Für die Ermittlung des Einkommens aus nichtselbstständiger
 Erwerbstätigkeit im Sinne von § 2c vor der Geburt sind die zwölf
@@ -393,6 +398,7 @@ sich aus den gemäß Satz 3 vorgelegten Nachweisen ergibt.
 
 
 ### § 2c Einkommen aus nichtselbstständiger Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE003005126)
 
 (1) Der monatlich durchschnittlich zu berücksichtigende Überschuss der
 Einnahmen aus nichtselbstständiger Arbeit in Geld oder Geldeswert über
@@ -436,6 +442,7 @@ entsprechend zu berücksichtigen.
 
 
 ### § 2d Einkommen aus selbstständiger Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE003102119)
 
 (1) Die monatlich durchschnittlich zu berücksichtigende Summe der
 positiven Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und
@@ -466,6 +473,7 @@ den einkommensteuerrechtlichen Grundsätzen.
 
 
 ### § 2e Abzüge für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE003203126)
 
 (1) Als Abzüge für Steuern sind Beträge für die Einkommensteuer, den
 Solidaritätszuschlag und, wenn die berechtigte Person
@@ -553,6 +561,7 @@ entsprechend zu berücksichtigen.
 
 
 ### § 2f Abzüge für Sozialabgaben
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE003302126)
 
 (1) Als Abzüge für Sozialabgaben sind Beträge für die gesetzliche
 Sozialversicherung oder für eine vergleichbare Einrichtung sowie für
@@ -595,6 +604,7 @@ Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
 
 
 ### § 3 Anrechnung von anderen Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000308126)
 
 (1) Auf das der berechtigten Person nach § 2 oder nach § 2 in
 Verbindung mit § 2a zustehende Elterngeld werden folgende Einnahmen
@@ -676,6 +686,7 @@ Elterngeld bis zur möglichen Höhe der vergleichbaren Leistung.
 
 
 ### § 4 Bezugsdauer, Anspruchsumfang
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000409126)
 
 (1) Elterngeld wird als Basiselterngeld oder als Elterngeld Plus
 gewährt. Es kann ab dem Tag der Geburt bezogen werden. Basiselterngeld
@@ -834,6 +845,7 @@ Basiselterngeld beziehen.
 
 
 ### § 4a Berechnung von Basiselterngeld und Elterngeld Plus
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004200126)
 
 (1) Basiselterngeld wird allein nach den Vorgaben der §§ 2 bis 3
 ermittelt.
@@ -862,6 +874,7 @@ Berechnung des Elterngeldes Plus halbieren sich:
 
 
 ### § 4b Partnerschaftsbonus
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004300126)
 
 (1) Wenn beide Elternteile
 
@@ -898,6 +911,7 @@ vorliegen oder vorlagen.
 
 
 ### § 4c Alleiniger Bezug durch einen Elternteil
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004401126)
 
 (1) Ein Elternteil kann abweichend von § 4 Absatz 4 Satz 1 zusätzlich
 auch das Elterngeld für die Partnermonate nach § 4 Absatz 3 Satz 2
@@ -934,6 +948,7 @@ Monatsbeträge Elterngeld Plus. § 4b Absatz 5 gilt entsprechend.
 
 
 ### § 4d Weitere Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004500126)
 
 Die §§ 4 bis 4c gelten in den Fällen des § 1 Absatz 3 und 4
 entsprechend. Der Bezug von Elterngeld durch nicht sorgeberechtigte
@@ -943,10 +958,12 @@ sorgeberechtigten Elternteils.
 
 
 ## Abschnitt 2 - Verfahren und Organisation
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNG000502119)
 
 
 
 ### § 5 Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000505119)
 
 (1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen, bestimmen
 sie, wer von ihnen die Monatsbeträge für welche Lebensmonate des
@@ -971,12 +988,14 @@ sorgeberechtigten Elternteils an.
 
 
 ### § 6 Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000605119)
 
 Elterngeld wird im Laufe des Lebensmonats gezahlt, für den es bestimmt
 ist.
 
 
 ### § 7 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000706119)
 
 (1) Elterngeld ist schriftlich zu beantragen. Es wird rückwirkend nur
 für die letzten drei Lebensmonate vor Beginn des Lebensmonats
@@ -1021,6 +1040,7 @@ Monatsbeträge erhalten.
 
 
 ### § 8 Auskunftspflicht, Nebenbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE000807126)
 
 (1) Soweit im Antrag auf Elterngeld Angaben zum voraussichtlichen
 Einkommen aus Erwerbstätigkeit gemacht wurden, ist nach Ablauf des
@@ -1077,6 +1097,7 @@ gemachten Angaben entschieden, wenn
 
 
 ### § 9 Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004100126)
 
 (1) Soweit es zum Nachweis des Einkommens aus Erwerbstätigkeit oder
 der wöchentlichen Arbeitszeit erforderlich ist, hat der Arbeitgeber
@@ -1103,6 +1124,7 @@ des Vierten Buches Sozialgesetzbuch vorgesehenen Verfahren zu
 
 
 ### § 10 Verhältnis zu anderen Sozialleistungen
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001007126)
 
 (1) Das Elterngeld und vergleichbare Leistungen der Länder sowie die
 nach § 3 auf die Leistung angerechneten Einnahmen oder Leistungen
@@ -1147,6 +1169,7 @@ einkommensabhängig ist.
 
 
 ### § 11 Unterhaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001104119)
 
 Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes
 und vergleichbarer Leistungen der Länder nur insoweit berührt, als die
@@ -1160,6 +1183,7 @@ Absatz 1 des Bürgerlichen Gesetzbuchs.
 
 
 ### § 12 Zuständigkeit; Bewirtschaftung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001204119)
 
 (1) Die Landesregierungen oder die von ihnen beauftragten Stellen
 bestimmen die für die Ausführung dieses Gesetzes zuständigen Behörden.
@@ -1187,6 +1211,7 @@ Verwaltungsvorschriften anzuwenden.
 
 
 ### § 13 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001301119)
 
 (1) Über öffentlich-rechtliche Streitigkeiten in Angelegenheiten der
 §§ 1 bis 12 entscheiden die Gerichte der Sozialgerichtsbarkeit. § 85
@@ -1198,6 +1223,7 @@ Wirkung.
 
 
 ### § 14 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001404119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1238,10 +1264,12 @@ Behörden.
 
 
 ## Abschnitt 3 - Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNG000203119)
 
 
 
 ### § 15 Anspruch auf Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001508126)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer haben Anspruch auf Elternzeit,
 wenn sie
@@ -1407,6 +1435,7 @@ Arbeitssachen erheben.
 
 
 ### § 16 Inanspruchnahme der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001606126)
 
 (1) Wer Elternzeit beanspruchen will, muss sie
 
@@ -1476,6 +1505,7 @@ oder die Arbeitnehmerin dem Arbeitgeber unverzüglich mitzuteilen.
 
 
 ### § 17 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001701119)
 
 (1) Der Arbeitgeber kann den Erholungsurlaub, der dem Arbeitnehmer
 oder der Arbeitnehmerin für das Urlaubsjahr zusteht, für jeden vollen
@@ -1500,6 +1530,7 @@ viel gewährten Urlaubstage kürzen.
 
 
 ### § 18 Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001803119)
 
 (1) Der Arbeitgeber darf das Arbeitsverhältnis ab dem Zeitpunkt, von
 dem an Elternzeit verlangt worden ist, nicht kündigen. Der
@@ -1538,6 +1569,7 @@ Arbeitnehmerinnen
 
 
 ### § 19 Kündigung zum Ende der Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE001901119)
 
 Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis
 zum Ende der Elternzeit nur unter Einhaltung einer Kündigungsfrist von
@@ -1545,6 +1577,7 @@ drei Monaten kündigen.
 
 
 ### § 20 Zur Berufsbildung Beschäftigte, in Heimarbeit Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002002119)
 
 (1) Die zu ihrer Berufsbildung Beschäftigten gelten als Arbeitnehmer
 und Arbeitnehmerinnen im Sinne dieses Gesetzes. Die Elternzeit wird
@@ -1562,6 +1595,7 @@ Beschäftigungsverhältnis.
 
 
 ### § 21 Befristete Arbeitsverträge
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002101119)
 
 (1) Ein sachlicher Grund, der die Befristung eines
 Arbeitsverhältnisses rechtfertigt, liegt vor, wenn ein Arbeitnehmer
@@ -1607,10 +1641,12 @@ Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
 
 
 ## Abschnitt 4 - Statistik und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNG000303119)
 
 
 
 ### § 22 Bundesstatistik
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002206119)
 
 (1) Zur Beurteilung der Auswirkungen dieses Gesetzes sowie zu seiner
 Fortentwicklung sind laufende Erhebungen zum Bezug von Elterngeld als
@@ -1694,6 +1730,7 @@ Leistungsbezugs zu melden.
 
 
 ### § 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002305126)
 
 (1) Für die Erhebung nach § 22 besteht Auskunftspflicht. Die Angaben
 nach § 22 Absatz 3 Nummer 2 sind freiwillig. Auskunftspflichtig sind
@@ -1715,6 +1752,7 @@ Berichtszeitraums an das Statistische Bundesamt zu übermitteln.
 
 
 ### § 24 Übermittlung von Tabellen mit statistischen Ergebnissen durch das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002402119)
 
 Zur Verwendung gegenüber den gesetzgebenden Körperschaften und zu
 Zwecken der Planung, jedoch nicht zur Regelung von Einzelfällen,
@@ -1728,6 +1766,7 @@ Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
 
 ### § 24a Übermittlung von Einzelangaben durch das Statistische Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE003403126)
 
 (1) Zur Abschätzung von Auswirkungen der Änderungen dieses Gesetzes im
 Rahmen der Zwecke nach § 24 übermittelt das Statistische Bundesamt auf
@@ -1765,6 +1804,7 @@ für die in Absatz 1 genannten Zwecke verwenden.
 
 
 ### § 25 Automatisierter Datenabruf bei den Standesämtern
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002505126)
 
 Beantragt eine Person Elterngeld, so ist die nach § 12 Absatz 1
 zuständige Behörde berechtigt, zur Prüfung des Anspruchs nach § 1 die
@@ -1787,6 +1827,7 @@ Datenübermittlung eingewilligt hat:
 
 
 ### § 26 Anwendung der Bücher des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002605126)
 
 (1) Soweit dieses Gesetz zum Elterngeld keine ausdrückliche Regelung
 trifft, ist bei der Ausführung des Ersten und Zweiten Abschnitts das
@@ -1797,6 +1838,7 @@ gelten entsprechend.
 
 
 ### § 27 Sonderregelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE004005126)
 
 (1) Übt ein Elternteil eine systemrelevante Tätigkeit aus, so kann
 sein Bezug von Elterngeld auf Antrag für die Zeit vom 1. März 2020 bis
@@ -1824,6 +1866,7 @@ glaubhaft gemacht worden sind.
 
 
 ### § 28 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/beeg/BJNR274810006.html#BJNR274810006BJNE002718126)
 
 (1) Für die vor dem 1. September 2021 geborenen oder mit dem Ziel der
 Adoption aufgenommenen Kinder ist dieses Gesetz in der bis zum 31.

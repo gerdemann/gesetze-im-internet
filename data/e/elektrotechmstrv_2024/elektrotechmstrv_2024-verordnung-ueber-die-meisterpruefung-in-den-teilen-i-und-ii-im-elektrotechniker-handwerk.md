@@ -18,6 +18,7 @@ Fundstelle
 Stand: ersetzt V 7110-3-151 v. 17.6.2002 I 2331 (ElektroTechMstrV)
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000100000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der
 Prüfung in den Teilen I und II der Meisterprüfung zu stellenden
@@ -38,6 +39,7 @@ Schwerpunkten:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000200000)
 
 In den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk
 hat der Prüfling die beruflichen Handlungskompetenzen nachzuweisen,
@@ -218,6 +220,7 @@ Zusammenhang mit den Tätigkeiten im Elektrotechniker-Handwerk.
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000300000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -237,6 +240,7 @@ meisterhaft verrichtet.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000400000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht und wählt dafür einen Schwerpunkt nach
@@ -341,6 +345,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000500000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -369,6 +374,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000600000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt für die Meisterprüfung den Nachweis der beruflichen
@@ -393,6 +399,7 @@ Mittel der Aufgaben nach Absatz 2 Satz 2.
 
 
 ## § 7 Gewichtung, Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000700000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Bei Berechnung des
@@ -416,6 +423,7 @@ Situationsaufgabe im Verhältnis 2:1 gewichtet.
 
 
 ## § 8 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000800000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -451,6 +459,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 9 Handlungsfeld „Anforderungen von Kundinnen und Kunden eines Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE000900000)
 
 (1) Im Handlungsfeld „Anforderungen von Kundinnen und Kunden eines
 Betriebs im Elektrotechniker-Handwerk analysieren, Lösungen erarbeiten
@@ -577,6 +586,7 @@ und anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-Handwerk erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE001000000)
 
 (1) Im Handlungsfeld „Leistungen eines Betriebs im Elektrotechniker-
 Handwerk erbringen, kontrollieren und übergeben“ hat der Prüfling
@@ -698,6 +708,7 @@ Qualifikationen:
 
 
 ## § 11 Handlungsfeld „Einen Betrieb im Elektrotechniker-Handwerk führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE001100000)
 
 (1) Im Handlungsfeld „Einen Betrieb im Elektrotechniker-Handwerk
 führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der
@@ -851,6 +862,7 @@ führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 12 Gewichtung, Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE001200000)
 
 (1) Bei der Berechnung des Gesamtergebnisses der Prüfung in Teil II
 der Meisterprüfung nach Maßgabe der Vorschriften der
@@ -903,6 +915,7 @@ mindestens 50 Prozent der möglichen Punktzahl bewertet worden sind:
 
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE001300000)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -912,6 +925,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/elektrotechmstrv_2024/BJNR03E0D0024.html#BJNR03E0D0024BJNE001400000)
 
 (1) Die bis zum Ablauf des 29. Februar 2024 begonnenen
 Prüfungsverfahren werden nach den Vorschriften für der

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ambtangv/BJNR019680991.html#BJNR019680991BJNE000100308)
 
 Auf Grund des § 12 Abs. 1a des Arzneimittelgesetzes vom 24. August
 1976 (BGBl. I S. 2445, 2448), der durch Artikel 1 Nr. 5 des Gesetzes
@@ -30,6 +31,7 @@ für Ernährung, Landwirtschaft und Forsten:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ambtangv/BJNR019680991.html#BJNR019680991BJNE000200308)
 
 (1) Die in der Anlage genannten Stoffe oder Zubereitungen aus Stoffen
 unterliegen nicht der Verpflichtung zur Angabe nach § 11 Abs. 1 Satz 1
@@ -56,16 +58,19 @@ genannten Anwendungsbereichen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ambtangv/BJNR019680991.html#BJNR019680991BJNE000300308)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ambtangv/BJNR019680991.html#BJNR019680991BJNE000400308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/ambtangv/BJNR019680991.html#BJNR019680991BJNE000500308)
 
 
 1   Stoffe zur pH-Wert-Einstellung oder zur Pufferung

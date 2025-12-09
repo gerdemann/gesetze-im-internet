@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000100325)
 
 Auf Grund des § 9 Abs. 1 der 33. Durchführungsverordnung zum
 Umstellungsgesetz (Bausparkassenverordnung) wird im Einvernehmen mit
@@ -26,6 +27,7 @@ angeordnet:
 
 
 ## § 1 Fristen und Termine
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000200325)
 
 (1) Bei der Berechnung von Fristen und Terminen, die den
 bauspartechnischen Ablauf des Bausparvertrages betreffen, wird die vor
@@ -39,6 +41,7 @@ angerechnet.
 
 
 ## § 2 Bewertung der Bausparguthaben
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000300325)
 
 (1) Die Bewertungsziffer der bis zum 20. Juni 1948 geleisteten
 Zahlungen wird auf 10 vom Hundert herabgesetzt. Vom 21. Juni 1948 ab
@@ -49,6 +52,7 @@ Bausparbedingungen errechnet.
 
 
 ## § 3 Festsetzung der Bausparsumme und der Bewertungsziffer bei Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000400325)
 
 (1) Macht der Bausparer von seinem Widerspruchsrecht gemäß § 1 Satz 3
 BKVO Gebrauch, so ist die neue Bausparsumme gleich dem für die Zeit
@@ -68,6 +72,7 @@ zurücknehmen.
 
 
 ## § 4 Umstellung der Tilgungsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000500325)
 
 Die vereinbarten tariflichen Reichsmark-Tilgungsbeiträge zuzüglich
 etwaiger vertraglich vereinbarter Zuschläge werden in dem gleichen
@@ -78,6 +83,7 @@ berührt.
 
 
 ## § 5 Erleichterte Herabsetzung der Bausparsumme
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000600325)
 
 Wird eine Herabsetzung der Bausparsumme bis zum 30. Juni 1950
 beantragt, so wird das vertragliche Teilkündigungsverfahren nicht
@@ -87,6 +93,7 @@ der Herabsetzung behandelt.
 
 
 ## § 6 Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geldwnobauspano/BJNR500300950.html#BJNR500300950BJNE000700325)
 
 (1) Bei Verträgen der öffentlich-rechtlichen Bausparkassen und bei
 Vollfinanzierungsverträgen der privaten Bausparkassen gilt die

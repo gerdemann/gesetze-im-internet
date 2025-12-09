@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000100326)
 
 Auf Grund des § 77 Abs. 7 des Zollgesetzes in der Fassung der
 Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), der durch Artikel 30
@@ -30,6 +31,7 @@ Landwirtschaft und Forsten verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000201301)
 
 (1) Die auf die Bundesrepublik Deutschland entfallende
 Zollkontingentsmenge des entsprechend der Fußnote 3 zu Position 0202
@@ -44,6 +46,7 @@ Bundesanstalt für Landwirtschaft und Ernährung in Frankfurt am Main.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000300326)
 
 (1) Die in § 1 Abs. 1 genannte Zollkontingentsmenge wird abzüglich der
 in Absatz 4 aufgeführten Menge wie folgt verteilt:
@@ -92,6 +95,7 @@ Gemeinschaftsreserve zurückgegeben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000400326)
 
 Soweit in der zu erlassenden Verordnung (EWG) des Rates über die
 Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents
@@ -100,6 +104,7 @@ nichts anderes bestimmt ist, werden die Zollkontingentscheine bis zum
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000500326)
 
 Soweit in der zu erlassenden Verordnung (EWG) des Rates über die
 Eröffnung, Aufteilung und Verwaltung des Gemeinschaftszollkontingents
@@ -109,17 +114,20 @@ zugeteilten Mengen auf die erteilten Zollkontingentscheine verteilt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000600326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 89 des Zollgesetzes auch im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000700326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gzktgrindflv_1989/BJNR501000989.html#BJNR501000989BJNE000800326)
 
 Der Bundesminister der Finanzen
 

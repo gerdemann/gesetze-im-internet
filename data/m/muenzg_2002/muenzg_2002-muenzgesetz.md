@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ausprägung von deutschen Euro-Münzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000100310)
 
 Der Bund prägt Münzen (deutsche Euro-Münzen) gemäß der Verordnung (EG)
 Nr. 975/98 des Rates vom 3. Mai 1998 über die Stückelungen und die
@@ -28,6 +29,7 @@ EG Nr. L 139 S. 6) in der jeweils geltenden Fassung aus.
 
 
 ## § 2 Ausprägung von Sammlermünzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000200310)
 
 (1) Der Bund kann als Sammlermünzen
 
@@ -48,6 +50,7 @@ gesetzliche Zahlungsmittel im Inland.
 
 
 ## § 3 Annahme- und Umtauschpflicht
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000303140)
 
 (1) Niemand ist verpflichtet, deutsche Euro-Gedenkmünzen im Betrag von
 mehr als 200 Euro bei einer einzelnen Zahlung anzunehmen. Erfolgt eine
@@ -75,6 +78,7 @@ abzulehnen.
 
 
 ## § 4 Gestaltung der deutschen Euro-Münzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000400310)
 
 (1) Die Bundesregierung bestimmt die Gestaltung der nationalen
 Münzseite der deutschen Euro-Münzen einschließlich des Wortlauts der
@@ -87,6 +91,7 @@ ist im Bundesgesetzblatt bekannt zu machen.
 
 
 ## § 5 Gestalt der deutschen Euro-Gedenkmünzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000500310)
 
 Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie im
 Benehmen mit der Deutschen Bundesbank die technischen Merkmale der
@@ -95,6 +100,7 @@ Münzen unterscheiden. § 4 Abs. 2 ist entsprechend anzuwenden.
 
 
 ## § 6 Münzprägung
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000600310)
 
 (1) Die deutschen Euro-Münzen und die deutschen Euro-Gedenkmünzen
 werden von denjenigen Münzstätten der Länder ausgeprägt, die sich dazu
@@ -112,6 +118,7 @@ Münzstätten vom Bundesministerium der Finanzen zugewiesen.
 
 
 ## § 7 Inverkehrbringen von Münzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000701140)
 
 (1) Die Deutsche Bundesbank bringt die deutschen Euro-Münzen und die
 deutschen Euro-Gedenkmünzen unbeschadet des Artikels 128 Absatz 2 Satz
@@ -129,12 +136,14 @@ beauftragen.
 
 
 ## § 7a Aufgaben nach den Artikeln 6 und 8 bis 12 der Verordnung (EG) Nr. 1210/2010
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE001500140)
 
 Die Deutsche Bundesbank nimmt die Aufgaben nach den Artikeln 6, 8 bis
 11 und 12 Absatz 2 und 3 der Verordnung (EU) Nr. 1210/2010 wahr.
 
 
 ## § 8 Einziehung von Münzen
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000801160)
 
 Euro-Münzen und deutsche Euro-Gedenkmünzen, die infolge längeren
 Umlaufs und Abnutzung an Gewicht oder Erkennbarkeit erheblich
@@ -143,6 +152,7 @@ sind für Rechnung des Bundes einzuziehen.
 
 
 ## § 9 Außerkurssetzung
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE000900310)
 
 (1) Die Bundesregierung kann deutsche Euro-Münzen und deutsche Euro-
 Gedenkmünzen außer Kurs setzen. Die Einlösungsfrist muss mindestens
@@ -155,6 +165,7 @@ Gemeinschaften mitzuteilen.
 
 
 ## § 10 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE001001308)
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zu versagen oder
@@ -165,6 +176,7 @@ anderen kommerziellen Zwecken verbreitet werden.
 
 
 ## § 11 Münzschutz
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE001100310)
 
 (1) Es ist verboten,
 
@@ -195,6 +207,7 @@ dem Jahr 1850 hergestellt worden sind.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE001204140)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr.
 2182/2004 des Rates vom 6. Dezember 2004 über Medaillen und Münzstücke
@@ -267,6 +280,7 @@ eingezogen werden.
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/m_nzg_2002/BJNR240230999.html#BJNR240230999BJNE001302160)
 
 -
 

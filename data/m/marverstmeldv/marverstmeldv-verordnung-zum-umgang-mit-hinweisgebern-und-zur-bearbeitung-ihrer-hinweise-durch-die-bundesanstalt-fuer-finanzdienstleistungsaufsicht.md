@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000100000)
 
 Auf Grund des § 4d Absatz 9 des Finanzdienstleistungsaufsichtsgesetzes
 vom 22. April 2002 (BGBl. I S. 1310), der durch Artikel 9 Nummer 2 des
@@ -35,6 +36,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Spezielle Beschäftigte für die Bearbeitung von Verstoßmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000201118)
 
 (1) Die Bundesanstalt für Finanzdienstleistungsaufsicht
 (Bundesanstalt) setzt Beschäftigte eigens für die Bearbeitung von
@@ -66,6 +68,7 @@ Personen sicherzustellen oder Verstöße dagegen zu ahnden.
 
 
 ## § 2 Spezielle Kommunikationskanäle
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000300000)
 
 (1) Die Bundesanstalt richtet für die Entgegennahme von
 Verstoßmeldungen und für die Folgekommunikation spezielle
@@ -125,6 +128,7 @@ bedienen.
 
 
 ## § 3 Allgemeine Informationen zu Verstoßmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000401119)
 
 (1) Die Bundesanstalt veröffentlicht in einer gesonderten, leicht
 erkennbaren und leicht zugänglichen Rubrik auf ihrer Internetseite
@@ -201,6 +205,7 @@ Unselbständigkeit als arbeitnehmerähnliche Personen anzusehen sind.
 
 
 ## § 4 Information von meldenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000501119)
 
 (1) Die Bundesanstalt informiert die meldende Person über die in § 3
 Absatz 2 genannten Informationen vor oder spätestens während der
@@ -241,6 +246,7 @@ vereinbar sind.
 
 
 ## § 5 Dokumentation von Verstoßmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000600000)
 
 (1) Die Bundesanstalt dokumentiert jede Verstoßmeldung.
 
@@ -283,6 +289,7 @@ bestätigen.
 
 
 ## § 6 Vertraulichkeit und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000700000)
 
 (1) Die Bundesanstalt stellt sicher, dass die Dokumentation der
 Verstoßmeldung in einem vertraulichen und sicheren System gespeichert
@@ -306,6 +313,7 @@ Dokumentation der Verstoßmeldung so zu organisieren, dass
 
 
 ## § 7 Weitergabe von Daten
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000801119)
 
 (1) Die Bundesanstalt richtet angemessene Verfahren für die
 Übermittlung personenbezogener Daten der meldenden Person und der
@@ -349,6 +357,7 @@ abgeleitet werden kann, auch innerhalb der Bundesanstalt zu schützen.
 
 
 ## § 8 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE000901119)
 
 (1) Fällt der Hinweis der meldenden Person nicht in den
 Zuständigkeitsbereich der Bundesanstalt nach § 4d Absatz 1 des
@@ -374,6 +383,7 @@ Bundesanstalt als Informant aufgetreten ist.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/marverstmeldv/BJNR157200016.html#BJNR157200016BJNE001000000)
 
 Diese Verordnung tritt am 3. Juli 2016 in Kraft.
 

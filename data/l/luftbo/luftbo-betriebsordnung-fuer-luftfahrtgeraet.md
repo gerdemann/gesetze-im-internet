@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE001900328)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1, 2, 8, 10 und Abs. 3 Satz 3 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 4. November
@@ -28,10 +29,12 @@ verordnet:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG000100328)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002010305)
 
 (1) Die Verordnung regelt den Betrieb von Luftfahrzeugen,
 
@@ -82,6 +85,7 @@ verordnet:
 
 
 ### § 2 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002100328)
 
 (1) Sofern in dieser Verordnung nichts anderes bestimmt ist, trägt der
 Halter des Luftfahrtgeräts die Verantwortung für die Einhaltung der
@@ -104,6 +108,7 @@ Luftfahrzeugs bleibt unberührt.
 
 
 ### § 3 Grundregel für den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002202308)
 
 (1) Der Halter hat das Luftfahrtgerät in einem solchen Zustand zu
 erhalten und so zu betreiben, daß kein anderer gefährdet, geschädigt
@@ -122,6 +127,7 @@ Verordnung zur Prüfung von Luftfahrtgerät nachgewiesen worden ist.
 
 
 ### § 3a Sprachkenntnisse der Flugbesatzung im gewerblichen Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE008200305)
 
 Das Luftfahrtunternehmen stellt sicher, dass die im gewerblichen
 Luftverkehr eingesetzte Flugbesatzung über ausreichende Kenntnisse der
@@ -130,10 +136,12 @@ Luftraum verwendet wird, oder der englischen Sprache verfügt.
 
 
 ## Zweiter Abschnitt - Technische Betriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG000201305)
 
 
 
 ### § 4 Zulässige Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002304305)
 
 (1) Für das Luftfahrtgerät oder seine Teile können von dem Luftfahrt-
 Bundesamt oder dem vom Bundesministerium für Verkehr und digitale
@@ -156,10 +164,12 @@ Auflagen nicht eingehalten werden.
 
 
 ### (XXXX) §§ 5 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002401305)
 
 
 
 ### § 10 Wägung der Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE002901308)
 
 Gewicht und Schwerpunkt der Luftfahrzeuge sind in bestimmten
 Zeitabständen durch Wägung zu überprüfen. Das gleiche gilt, wenn
@@ -169,10 +179,12 @@ können. Satz 1 gilt nicht für nichtmotorgetriebene Luftsportgeräte.
 
 
 ### (XXXX) §§ 11 bis 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003001305)
 
 
 
 ### § 14 Lufttüchtigkeitsanweisung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003302305)
 
 (1) Die zuständige Stelle ordnet durch Lufttüchtigkeitsanweisung, die
 in den Nachrichten für Luftfahrer oder in der Informationsschrift des
@@ -195,22 +207,27 @@ Absatz 4 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003403305)
 
 
 
 ## Dritter Abschnitt - 
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG000801305)
 
 
 
 ### (XXXX) §§ 16 bis 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003503305)
 
 
 
 ## Vierter Abschnitt - Ausrüstung der Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG000900328)
 
 
 
 ### § 18 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003700328)
 
 Zur Ausrüstung der Luftfahrzeuge gehören die Grundausrüstung, die in
 den Bauvorschriften geregelt ist, die Flugsicherungsausrüstung, die in
@@ -220,6 +237,7 @@ Vorschriften (§§ 19 bis 22).
 
 
 ### § 19 Ergänzungsausrüstung, die durch den Verwendungszweck erforderlich ist
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003802308)
 
 (1) Luftfahrzeuge, die für die Beförderung von Personen oder Sachen
 verwendet werden, müssen ausgerüstet sein mit:
@@ -260,6 +278,7 @@ für jeden Fallschirmspringer an seinem Sitzplatz vorhanden sein.
 
 
 ### § 20 Ergänzungsausrüstung, die durch die Betriebsart erforderlich ist
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE003900328)
 
 (1) Für Flüge nach Instrumentenflugregeln, für kontrollierte Flüge
 nach Sichtflugregeln und für Flüge nach Sichtflugregeln über
@@ -275,6 +294,7 @@ Anschnallgurt für jeden Insassen ausgerüstet sein.
 
 
 ### § 21 Ergänzungsausrüstung, die durch äußere Betriebsbedingungen erforderlich ist
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004001305)
 
 (1) Für Flüge über Wasser, bei denen im Falle einer Störung mit einer
 Notlandung auf dem Wasser zu rechnen ist, und für Flüge über
@@ -321,6 +341,7 @@ Bordnetz sind, ausgerüstet sein.
 
 
 ### § 22 Zusätzliche Ergänzungsausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004101308)
 
 Die zuständige Stelle kann zusätzliche Geräte oder Anlagen, die für
 die Sicherheit des Luftverkehrs erforderlich sind, für die Ausrüstung
@@ -329,14 +350,17 @@ Ermittlung von Unfallursachen beitragen können.
 
 
 ## Fünfter Abschnitt - Allgemeine Flugbetriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001000328)
 
 
 
 ### 1. - Flugbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001100328)
 
 
 
 #### § 23 Verwendung des Luftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004200328)
 
 Ein Luftfahrzeug darf nur in Übereinstimmung mit dem im
 Lufttüchtigkeitszeugnis eingetragenen Verwendungszweck (Kategorie)
@@ -344,6 +368,7 @@ betrieben werden.
 
 
 #### § 24 Betriebsgrenzen für Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004302308)
 
 (1) Ein Luftfahrzeug darf nur in Übereinstimmung mit den im
 zugehörigen Flughandbuch und in anderen Betriebsanweisungen
@@ -367,6 +392,7 @@ Schneebelag aufweisen, dürfen nicht starten.
 
 
 #### § 24a Besondere betriebliche Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE008300305)
 
 (1) Flüge nach Instrumentenflugregeln bedürfen der Genehmigung durch
 das Luftfahrt-Bundesamt, wenn die Lufträume aus einem der folgenden
@@ -399,6 +425,7 @@ Absatz 1 durchführen zu können, nachzuweisen. Der Nachweis umfasst
 
 
 #### § 25 Verlust der Lufttüchtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004403305)
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrzeugs Mängel
 festgestellt, die seine Lufttüchtigkeit beeinträchtigen oder
@@ -427,6 +454,7 @@ kann mit Auflagen verbunden und befristet werden.
 
 
 #### § 26 Ausfall von Ausrüstungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004501308)
 
 (1) Sind bei Antritt eines Fluges vorgeschriebene Anlagen, Geräte oder
 Bauteile der Ausrüstung des Luftfahrzeugs nicht betriebsbereit, darf
@@ -449,6 +477,7 @@ abgebrochen werden muß.
 
 
 #### § 27 Kontrollen nach Klarlisten
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004601308)
 
 Der Luftfahrzeugführer hat vor, bei und nach dem Flug sowie in
 Notfällen an Hand von Klarlisten die Kontrollen vorzunehmen, die für
@@ -457,6 +486,7 @@ nicht für nichtmotorgetriebene Luftsportgeräte.
 
 
 #### § 28 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004700328)
 
 Der Luftfahrzeugführer hat dem Halter des Luftfahrzeugs die bei dem
 Betrieb des Luftfahrzeugs festgestellten Mängel des Luftfahrzeugs
@@ -464,6 +494,7 @@ unverzüglich anzuzeigen.
 
 
 #### § 29 Betriebsstoffmengen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004800328)
 
 Motorgetriebene Luftfahrzeuge müssen eine ausreichende
 Betriebsstoffmenge mitführen, die unter Berücksichtigung der
@@ -475,6 +506,7 @@ Ausweichflugplatz im Flugplan angegeben ist.
 
 
 #### § 30 Bordbuch
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE004903305)
 
 (1) Für jedes Luftfahrzeug mit Ausnahme der Luftsportgeräte ist ein
 Bordbuch zu führen.
@@ -536,6 +568,7 @@ Eintragung aufzubewahren.
 
 
 #### § 31 Flugdurchführungsplan
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005000328)
 
 Bei Flügen nach Instrumentenflugregeln hat der Luftfahrzeugführer
 einen Flugdurchführungsplan zu erstellen, aus dem ersichtlich ist, daß
@@ -544,10 +577,12 @@ werden kann.
 
 
 ### 2. - Flugbesatzung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001200328)
 
 
 
 #### § 32 Zusammensetzung der Flugbesatzung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005102307)
 
 (1) Die Zusammensetzung der Flugbesatzung eines Luftfahrzeugs muß
 mindestens den im Flughandbuch und in anderen Betriebsanweisungen
@@ -582,6 +617,7 @@ erfordert und die Führung des Luftfahrzeuges dadurch erleichtert wird.
 
 
 #### § 33 Verhalten der Besatzung im Flugbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005200328)
 
 Die Besatzungsmitglieder müssen sich während des Starts und der
 Landung auf ihrem Platz befinden und durch Anschnallgurte gesichert
@@ -593,6 +629,7 @@ Fluges nicht beeinträchtigt wird.
 
 
 #### § 34 Betriebsmindestbedingungen und Mindestflughöhen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE008001305)
 
 (1) Der Luftfahrzeugführer hat vor einem Flug nach
 Instrumentenflugregeln zu ermitteln:
@@ -625,6 +662,7 @@ ausdrücklich erlaubt hat.
 
 
 #### § 35 Wettermindestbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE008101305)
 
 (1) Ein Flug nach Sichtflugregeln darf nur dann angetreten oder zum
 Bestimmungsflugplatz fortgesetzt werden, wenn nach den letzten
@@ -647,20 +685,24 @@ Beseitigung von Eisansatz ausgerüstet ist.
 
 
 ## Sechster Abschnitt - Besondere Flugbetriebsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001300328)
 
 
 
 ### 1. - Betrieb von Luftfahrzeugen in Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001400328)
 
 
 
 #### § 36 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005500328)
 
 Der Unternehmer ist verpflichtet, den Flugbetrieb zu überwachen. Das
 Verfahren der Überwachung bedarf der Zustimmung der Aufsichtsbehörde.
 
 
 #### § 37 Flugbetriebshandbuch
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005600328)
 
 (1) Der Unternehmer hat als Dienstanweisung und Arbeitsunterlage für
 das Flugbetriebspersonal ein Flugbetriebshandbuch zu erstellen und auf
@@ -677,6 +719,7 @@ verlangen.
 
 
 #### § 38 Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005700328)
 
 (1) Der Unternehmer hat unbeschadet seiner eigenen Verantwortung einen
 technischen Betriebsleiter und einen Flugbetriebsleiter zu bestellen,
@@ -690,6 +733,7 @@ Aufsichtsbehörde.
 
 
 #### § 39 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005800328)
 
 Der Unternehmer hat sicherzustellen, daß beim Flugbetrieb
 festgestellte Mängel der Bodeneinrichtungen und -dienste unverzüglich
@@ -697,6 +741,7 @@ der zuständigen Stelle aufgezeigt werden.
 
 
 #### § 40 Flugbetriebspersonal
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE005901307)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß eine nach der
 Luftverkehrs-Zulassungs-Ordnung erlaubnispflichtige Tätigkeit nur von
@@ -709,6 +754,7 @@ neuer Luftfahrzeugmuster und für Flüge auf neuen Strecken.
 
 
 #### § 41 Zusammensetzung der Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006001307)
 
 (1) Der Unternehmer hat für jeden Flug den verantwortlichen
 Luftfahrzeugführer und die Flugbesatzung zu bestimmen. Mitglieder der
@@ -735,6 +781,7 @@ Betriebsbedingungen Ausnahmen zulassen.
 
 
 #### § 42 Anforderungen an die Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006101307)
 
 (1) Der Unternehmer darf einen Luftfahrzeugführer nur dann als
 verantwortlichen Luftfahrzeugführer bestimmen, wenn dieser genügende
@@ -787,6 +834,7 @@ Verrichtungen berühren.
 
 
 #### § 43 Aufenthalt im Führerraum
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006200328)
 
 (1) Im Führerraum dürfen sich außer der Flugbesatzung andere
 Mitglieder der Besatzung und Angehörige der Luftfahrtbehörden und des
@@ -805,6 +853,7 @@ erfordert.
 
 
 #### § 44 Aufgaben des Flugdienstberaters
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006300328)
 
 (1) Der Unternehmer kann einen Flugdienstberater für die Wahrnehmung
 der folgenden Aufgaben bestellen:
@@ -836,6 +885,7 @@ festzulegen.
 
 
 #### § 45 Flugdurchführungsplan
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006400328)
 
 Der Unternehmer hat einen Flugdurchführungsplan für Flüge nach
 Instrumentenflugregeln und für Streckenflüge von mehr als 100
@@ -845,6 +895,7 @@ seiner Erstellung notwendigen Unterlagen 6 Monate aufzubewahren.
 
 
 #### § 46 Betriebsstoffmengen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006500328)
 
 Der Unternehmer ist verpflichtet, Aufzeichnungen über die auf jedem
 Flug mitgeführten Betriebsstoffmengen zu führen. Der Unternehmer hat
@@ -852,6 +903,7 @@ die Aufzeichnungen 6 Monate aufzubewahren.
 
 
 #### § 47 Mindestausrüstungsliste
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006600328)
 
 Der Unternehmer hat für alle Luftfahrzeuge, die von ihm betrieben
 werden, Mindestausrüstungslisten zu erstellen. In den Listen sind die
@@ -863,6 +915,7 @@ der Aufsichtsbehörde.
 
 
 #### § 48 Klarlisten
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006700328)
 
 Der Unternehmer hat für alle Luftfahrzeuge, die von ihm betrieben
 werden, Klarlisten zu erstellen, die von der Flugbesatzung vor, bei
@@ -873,10 +926,12 @@ Betriebsverfahren angewendet werden.
 
 
 #### (XXXX) §§ 49 und 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007901307)
 
 
 
 #### § 51 Such- und Rettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE006900328)
 
 Der Unternehmer muß Aufzeichnungen führen, nach denen er jederzeit in
 der Lage ist, den Organen des Such- und Rettungsdienstes unverzüglich
@@ -886,6 +941,7 @@ machen.
 
 
 #### § 52 Fluggäste
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007000328)
 
 (1) Der Unternehmer hat dafür zu sorgen, daß die Fluggäste über die
 Benutzung der für sie bestimmten Sicherheits- und Rettungsgeräte
@@ -903,6 +959,7 @@ werden.
 
 
 #### § 53 Einmotorige Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007101308)
 
 (1) Einmotorige Luftfahrzeuge dürfen nur bei Tage, nur unter
 Sichtflugwetterbedingungen und nur auf Strecken eingesetzt werden, auf
@@ -918,10 +975,12 @@ Bestimmungsflugplatz oder einem Ausweichflugplatz fortzusetzen.
 
 
 ### 2. - Arbeitsflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001500328)
 
 
 
 #### § 54 Arbeitsflüge
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007200328)
 
 Der Halter des Luftfahrzeugs hat dafür zu sorgen, daß bei der
 Durchführung von Arbeitsflügen die Besatzungsmitglieder die
@@ -931,10 +990,12 @@ ausgehenden besonderen Gefahren erforderlich sind.
 
 
 ### 3. - Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger Besatzungen von Luftfahrzeugen innerhalb und außerhalb von Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001601307)
 
 
 
 #### § 55 Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger Besatzungen von Luftfahrzeugen innerhalb und außerhalb von Luftfahrtunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007302307)
 
 (1) Der Luftfahrtunternehmer hat für die Mitglieder der Besatzung von
 Luftfahrzeugen die höchstzulässigen Flugzeiten und Flugdienstzeiten
@@ -960,10 +1021,12 @@ des Landes und im übrigen das Luftfahrt-Bundesamt.
 
 
 ## Siebter Abschnitt - Bußgeld- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNG001700328)
 
 
 
 ### § 56 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007401307)
 
 Das Luftfahrt-Bundesamt wird ermächtigt, soweit dies zur
 Gewährleistung der Sicherheit des Luftverkehrs und der öffentlichen
@@ -985,6 +1048,7 @@ berücksichtigen.
 
 
 ### § 57 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007505305)
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
 Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1202,11 +1266,13 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 58 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007701308)
 
 Diese Verordnung tritt am 1. April 1970 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/luftbo/BJNR002620970.html#BJNR002620970BJNE007800328)
 
 Der Bundesminister für Verkehr
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000100000)
 
 Auf Grund
 
@@ -62,6 +63,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2014 28,61 Euro.
 
@@ -70,6 +72,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2014 13,21 Euro.
@@ -79,6 +82,7 @@ Landwirte beträgt ab dem 1. Juli 2014 12,18 Euro.
 
 
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000400000)
 
 (1) Der Ausgleichsbedarf beträgt ab dem 1. Juli 2014 1,0000.
 
@@ -86,6 +90,7 @@ Landwirte beträgt ab dem 1. Juli 2014 12,18 Euro.
 
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2014 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -100,6 +105,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0253.
 
 
 ## § 5 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2014 an
@@ -117,11 +123,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2014/BJNR074600014.html#BJNR074600014BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

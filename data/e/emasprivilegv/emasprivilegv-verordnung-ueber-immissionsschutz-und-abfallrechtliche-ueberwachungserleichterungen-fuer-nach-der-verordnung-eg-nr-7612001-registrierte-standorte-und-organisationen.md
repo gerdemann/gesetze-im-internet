@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000101116)
 
 Im Sinne dieser Verordnung ist eine EMAS-Anlage eine Anlage, die
 Bestandteil einer Organisation oder eines Standorts ist, die oder der
@@ -34,6 +35,7 @@ Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr.
 
 
 ## § 2 Betriebsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000202116)
 
 Die Anzeige- und Mitteilungspflichten zur Betriebsorganisation nach §
 52b des Bundes-Immissionsschutzgesetzes und § 58 des
@@ -49,6 +51,7 @@ verlangen.
 
 
 ## § 3 Betriebsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000302116)
 
 (1) Auf die Anordnung der Bestellung eines oder mehrerer
 Betriebsbeauftragten nach § 53 Abs. 2 des Bundes-
@@ -85,6 +88,7 @@ gleichwertige Angaben enthalten.
 
 
 ## § 4 Ermittlungen von Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000400000)
 
 Die zuständige Behörde soll bei EMAS-Anlagen Messungen nach § 28 Satz
 1 Nr. 2 des Bundes-Immissionsschutzgesetzes erst nach Ablauf eines
@@ -99,6 +103,7 @@ und Einrichtungen eingesetzt werden.
 
 
 ## § 5 Wiederkehrende Messungen, Funktionsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000503116)
 
 (1) Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf
 Antrag gestatten, für diese Anlage wiederkehrende
@@ -161,6 +166,7 @@ erstmalige Funktionsprüfung.
 
 
 ## § 6 Sicherheitstechnische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000600000)
 
 Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag
 gestatten, sicherheitstechnische Prüfungen nach § 29a Abs. 2 Nr. 1 bis
@@ -175,6 +181,7 @@ der Prüfungen sind der Behörde auf deren Verlangen vorzulegen.
 
 
 ## § 7 Berichte
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000704116)
 
 (1) Betreiber von EMAS-Anlagen können der zuständigen Behörde anstelle
 einer Emissionserklärung gemäß der Verordnung über
@@ -220,6 +227,7 @@ Einbeziehung der Öffentlichkeit bedürfen.
 
 
 ## § 8 Verlängerung von Messintervallen
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000800000)
 
 Die zuständige Behörde soll die Messintervalle von Messungen an EMAS-
 Anlagen nach § 12 Abs. 3 der Verordnung zur Emissionsbegrenzung von
@@ -228,6 +236,7 @@ geltenden Fassung um jeweils ein Jahr verlängern.
 
 
 ## § 9 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE000900000)
 
 Der Verpflichtete nach § 18 der Verordnung über Verbrennungsanlagen
 für Abfälle und ähnliche brennbare Stoffe in der jeweils geltenden
@@ -238,6 +247,7 @@ erforderlichen Angaben enthält.
 
 
 ## § 10 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/emasprivilegv/BJNR224710002.html#BJNR224710002BJNE001000000)
 
 (1) Die zuständige Behörde kann die nach dieser Verordnung von ihr
 gestatteten Überwachungserleichterungen auch dann ganz oder teilweise

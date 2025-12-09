@@ -26,9 +26,11 @@ bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000100000)
 
 
 ### § 1 Ziel
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000100000)
 
 Ziel dieses Gesetzes ist, die Auswirkungen der
 Einwegkunststoffprodukte nach Anlage 1 auf die Umwelt, insbesondere
@@ -40,6 +42,7 @@ regeln.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000200000)
 
 (1) Dieses Gesetz regelt die Produktverantwortung der Hersteller von
 Einwegkunststoffprodukten nach Anlage 1 im Sinne von § 23 Absatz 1 bis
@@ -56,6 +59,7 @@ Kreislaufwirtschaftsgesetzes gilt entsprechend.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000300000)
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -211,9 +215,11 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 ## Teil 2 - Einwegkunststofffonds
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000200000)
 
 
 ### § 4 Einwegkunststofffonds
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000400000)
 
 (1) Das Umweltbundesamt verwaltet den Einwegkunststofffonds. Der
 Einwegkunststofffonds dient der Abwicklung der Erstattung der in § 3
@@ -224,6 +230,7 @@ der Wirtschaftlichkeit und Sparsamkeit zu beachten.
 
 
 ### § 5 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000500000)
 
 (1) Die Verwaltungskosten werden aus den Einnahmen des
 Einwegkunststofffonds finanziert, soweit keine anderweitige
@@ -253,6 +260,7 @@ Haushaltsjahre vorgesehen werden.
 
 
 ### § 6 Jahresübersicht
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000600000)
 
 (1) Unbeschadet der §§ 80 bis 85 der Bundeshaushaltsordnung vom 19.
 August 1969 (BGBl. I S. 1284), die zuletzt durch Artikel 2 des
@@ -266,9 +274,11 @@ geeigneter Weise auf seiner Internetseite.
 
 
 ## Teil 3 - Register der Hersteller, Pflichten der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000300000)
 
 
 ### § 7 Registrierung der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000701000)
 
 (1) Hersteller haben sich vor der Aufnahme ihrer Tätigkeit nach
 Maßgabe des Absatzes 2 beim Umweltbundesamt registrieren zu lassen.
@@ -349,6 +359,7 @@ Registrierung des Herstellers endet, automatisiert zu löschen.
 
 
 ### § 8 Register der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000801000)
 
 (1) Zur Registrierung der Hersteller nach § 7 richtet das
 Umweltbundesamt ein informationstechnisches System ein und eröffnet
@@ -396,6 +407,7 @@ Statistische Bundesamt legen das Format der elektronischen
 
 
 ### § 9 Einwegkunststoffprodukte von nicht oder nicht ordnungsgemäß registrierten Herstellern
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE000902000)
 
 (1) Hersteller, die nicht nach § 7 Absatz 1 Satz 1 registriert sind,
 dürfen Einwegkunststoffprodukte nach Anlage 1 nicht erstmals auf dem
@@ -417,6 +429,7 @@ nicht nach § 7 Absatz 1 Satz 1 registriert ist.
 
 
 ### § 10 Beauftragung von Bevollmächtigten; Drittbeauftragung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001001000)
 
 (1) Hersteller, die nicht im Geltungsbereich dieses Gesetzes
 niedergelassen sind, haben vor der Aufnahme ihrer Tätigkeit einen
@@ -474,6 +487,7 @@ entsprechend. Satz 1 gilt nicht für die Registrierung nach § 7 Absatz
 
 
 ### § 11 Jährliche Meldung der Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001101000)
 
 (1) Hersteller haben jährlich bis zum 15. Mai dem Umweltbundesamt die
 von ihnen im vorangegangenen Kalenderjahr erstmals auf dem Markt
@@ -532,9 +546,11 @@ und dabei vorhandene Beweisdokumente beizufügen.
 
 
 ## Teil 4 - Einwegkunststoffabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000400000)
 
 
 ### § 12 Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001201000)
 
 Die Hersteller von Einwegkunststoffprodukten nach Anlage 1 entrichten
 jährlich eine Sonderabgabe zur Erstattung der Kosten nach Anlage 2
@@ -542,6 +558,7 @@ jährlich eine Sonderabgabe zur Erstattung der Kosten nach Anlage 2
 
 
 ### § 13 Festsetzung, Fälligkeit und Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001301000)
 
 (1) Die Festsetzung der Einwegkunststoffabgabe erfolgt jährlich durch
 einen Abgabebescheid des Umweltbundesamtes. Die Einwegkunststoffabgabe
@@ -585,6 +602,7 @@ entsprechend anzuwenden.
 
 
 ### § 14 Festlegung der Abgabesätze, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001400000)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
 und Verbraucherschutz hat nach Anhörung der beteiligten Kreise ohne
@@ -604,9 +622,11 @@ Einwegkunststoffprodukten entstandenen Abfälle berücksichtigt werden.
 
 
 ## Teil 5 - Register der Anspruchsberechtigten, Pflichten der Anspruchsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000500000)
 
 
 ### § 15 Registrierung der Anspruchsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001501000)
 
 (1) Öffentlich-rechtliche Entsorgungsträger und sonstige juristische
 Personen des öffentlichen Rechts, die eine Erstattung ihrer Kosten
@@ -685,6 +705,7 @@ zu löschen.
 
 
 ### § 16 Register der Anspruchsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001601000)
 
 Zur Registrierung der Anspruchsberechtigten nach § 15 richtet das
 Umweltbundesamt ein informationstechnisches System ein und eröffnet
@@ -701,6 +722,7 @@ automatisiert zu löschen.
 
 
 ### § 17 Jährliche Meldung der Anspruchsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001701000)
 
 (1) Die Erstattung von Kosten setzt voraus, dass der registrierte
 Anspruchsberechtigte dem Umweltbundesamt bis zum 15. Mai des
@@ -736,6 +758,7 @@ Kosten nach Absatz 1 auf seiner Internetseite.
 
 
 ### § 18 Kontrolle der Angaben
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001801000)
 
 (1) Bei Vorliegen von Anhaltspunkten für die Unrichtigkeit der Meldung
 eines Anspruchsberechtigten nach § 17 Absatz 1, die auch nach
@@ -790,9 +813,11 @@ nicht erfolgt.
 
 
 ## Teil 6 - Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000600000)
 
 
 ### § 19 Punktesystem, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE001900000)
 
 (1) Die Auszahlung aus dem Einwegkunststofffonds erfolgt nach einem
 Punktesystem, welches den kalenderjährlich erbrachten Leistungen der
@@ -813,6 +838,7 @@ das Transparenzgebot zu wahren.
 
 
 ### § 20 Bekanntgabe und Berechnung des Punktewertes
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002001000)
 
 (1) Das Umweltbundesamt berechnet jährlich den Punktewert und gibt
 diesen bis zum Ablauf des 30. September bekannt. Der Punktewert ist
@@ -844,6 +870,7 @@ erbrachten Leistungen.
 
 
 ### § 21 Festsetzung und Auszahlung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002101000)
 
 Das Umweltbundesamt setzt die auszuzahlenden Mittel aus dem
 Einwegkunststofffonds gegenüber dem jeweiligen Anspruchsberechtigten
@@ -855,9 +882,11 @@ Bestandskraft des Bescheides erfolgt sein.
 
 
 ## Teil 7 - Feststellungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000700000)
 
 
 ### § 22 Feststellung zur Einordnung als Einwegkunststoffprodukt, Feststellung der Herstellereigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002201000)
 
 (1) Das Umweltbundesamt stellt auf Antrag eines Herstellers oder
 Bevollmächtigten oder nach pflichtgemäßem Ermessen fest,
@@ -893,9 +922,11 @@ aufschiebende Wirkung.
 
 
 ## Teil 8 - Einwegkunststoffkommission
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000800000)
 
 
 ### § 23 Einrichtung, Aufgaben und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002300000)
 
 (1) Es wird eine Einwegkunststoffkommission eingerichtet. Sie berät
 
@@ -954,6 +985,7 @@ ohne Mitwirkung der Einwegkunststoffkommission fortgesetzt.
 
 
 ### § 24 Besetzung und Benennung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002400000)
 
 (1) Die Einwegkunststoffkommission besteht aus 12 Mitgliedern. Die
 Mitglieder verteilen sich wie folgt:
@@ -993,9 +1025,11 @@ benannt. Einzelheiten werden in der Geschäftsordnung nach § 23 Absatz
 
 
 ## Teil 9 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNG000900000)
 
 
 ### § 25 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002500000)
 
 Das Umweltbundesamt untersteht hinsichtlich der ihm nach diesem Gesetz
 übertragenen Aufgaben der Rechts- und Fachaufsicht des
@@ -1004,6 +1038,7 @@ Verbraucherschutz.
 
 
 ### § 26 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002600000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1068,6 +1103,7 @@ Bundeskasse zu, die auch die der Staatskasse auferlegten Kosten trägt.
 
 
 ### § 27 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002700000)
 
 Ist eine Ordnungswidrigkeit nach § 26 Absatz 1 begangen worden, so
 können Gegenstände eingezogen werden,
@@ -1084,6 +1120,7 @@ können Gegenstände eingezogen werden,
 
 
 ### § 28 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002800000)
 
 Die Bundesregierung evaluiert bis zum 31. Dezember 2027 die Wirkung
 der in diesem Gesetz enthaltenen Regelungen im Hinblick auf die
@@ -1112,6 +1149,7 @@ Zielerreichung. Im Rahmen der Evaluierung ist insbesondere zu
 
 
 ### § 29 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE002900000)
 
 (1) Die Feststellung der Einnahmen und Ausgaben durch die
 Jahresübersicht gemäß § 6 Absatz 1 und die Veröffentlichung gemäß § 6
@@ -1130,6 +1168,7 @@ jährlichen Meldung nach § 11 Absatz 1, erfüllt.
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003001000)
 
 
 (zu den §§ 1, 2 Absatz 1, zu § 3 Nummer 3, 5 bis 8 und 12 bis 15, § 7
@@ -1139,6 +1178,7 @@ zu den §§ 9, 10 Absatz 4, zu § 11 Absatz 1 Satz 1, Absatz 2 und Absatz
 Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
 
 ### Anlage 1 Liste der Einwegkunststoffprodukte
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 123, S. 13)
 
@@ -1222,6 +1262,7 @@ Satz 1, § 22 Absatz 1 Satz 1 Nummer 2, § 28 Satz 2 Nummer 1 und 2)
 (zu den §§ 12, 14 Absatz 1 Satz 1)
 
 ### Anlage 2 Kostentragung nach Produktart
+[Direktlink](https://www.gesetze-im-internet.de/ewkfondsg/BJNR07C0B0023.html#BJNR07C0B0023BJNE003200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 123, S. 14)
 

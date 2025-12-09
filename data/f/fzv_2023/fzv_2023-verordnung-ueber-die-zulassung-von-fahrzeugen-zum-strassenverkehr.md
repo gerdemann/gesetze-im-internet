@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)
 
 ## Abschnitt 1 - Allgemeine Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf
 
@@ -38,6 +40,7 @@ Diese Verordnung ist anzuwenden auf
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000301123)
 
 Im Sinne dieser Verordnung ist
 
@@ -254,6 +257,7 @@ der Leermasse dieses Fahrzeuges weniger als 3,0 beträgt.
 
 
 ### § 3 Notwendigkeit einer Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000401123)
 
 (1) Ein Kraftfahrzeug und seine Anhänger dürfen von der das Fahrzeug
 führenden Person auf öffentlichen Straßen nur in Betrieb gesetzt
@@ -376,6 +380,7 @@ Fahrzeug zugelassen ist.
 
 
 ### § 4 Voraussetzungen für die Inbetriebsetzung eines zulassungsfreien Fahrzeuges
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000500000)
 
 (1) Ein zulassungsfreies Fahrzeug nach § 3 Absatz 3 Satz 1 Nummer 1
 und 2 Buchstabe a bis g sowie ein land- oder forstwirtschaftliches
@@ -467,6 +472,7 @@ Verlangen zur Prüfung aushändigt.
 
 
 ### § 5 Beschränkung und Untersagung des Betriebs von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000600000)
 
 (1) Erweist sich ein Fahrzeug als nicht vorschriftsmäßig nach dieser
 Verordnung, der Straßenverkehrs-Zulassungs-Ordnung oder der
@@ -510,9 +516,11 @@ mehrere Anordnungen nach Satz 1 treffen.
 
 
 ## Abschnitt 2 - Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000200000)
 
 
 ### § 6 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000701123)
 
 (1) Die Zulassung eines Fahrzeuges ist bei der nach § 75 zuständigen
 Zulassungsbehörde zu beantragen. Im Antrag sind zur Erhebung und
@@ -818,6 +826,7 @@ worden ist und aus dem sich die fehlenden Fahrzeugdaten ergeben.
 
 
 ### § 7 Tageszulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000800000)
 
 (1) Auf Antrag kann die Erstzulassung eines zulassungspflichtigen
 Fahrzeuges auch für die Dauer ausschließlich des Tages erfolgen, an
@@ -870,6 +879,7 @@ Erstzulassung von außen gut lesbar im Fahrzeug auszulegen.
 
 
 ### § 8 Zulassung in der Bundesrepublik Deutschland nach vorheriger Zulassung in einem anderen Staat
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE000900000)
 
 (1) Die Zulassungsbehörde ist befugt, unter Übermittlung des
 Kennzeichens oder der Fahrzeug-Identifizierungsnummer oder weiterer
@@ -931,6 +941,7 @@ eingezogene Zulassungsbescheinigung innerhalb der Aufbewahrungsfrist
 
 
 ### § 9 Zuteilung von Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001000000)
 
 (1) Die Zulassungsbehörde hat dem Fahrzeug ein Kennzeichen zuzuteilen,
 um eine Identifizierung des Halters zu ermöglichen. Das Kennzeichen
@@ -1030,6 +1041,7 @@ die Vorführung des Fahrzeuges anordnen.
 
 
 ### § 10 Besondere Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001100000)
 
 (1) Auf Antrag ist für ein Fahrzeug, für das ein Gutachten nach § 23
 der Straßenverkehrs-Zulassungs-Ordnung vorliegt, ein
@@ -1121,6 +1133,7 @@ bleiben unberührt.
 
 
 ### § 11 Kennzeichnung elektrisch betriebener Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001200000)
 
 (1) Auf Antrag ist für ein Fahrzeug im Sinne des § 2 Nummer 1 des
 Elektromobilitätsgesetzes ein Kennzeichen für elektrisch betriebene
@@ -1179,6 +1192,7 @@ Plaketten für elektrisch betriebene Fahrzeuge gleich.
 [^F825991_02_BJNR0C70B0023BJNE001200000]: 
 
 ### § 12 Ausgestaltung und Anbringung der Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001301123)
 
 (1) Das Unterscheidungszeichen und die Erkennungsnummern sind mit
 schwarzer Schrift auf weißem schwarz gerandetem Grund auf ein
@@ -1405,6 +1419,7 @@ zugeteilten Prüfzeichen gekennzeichnet sein.
 [^F825991_03_BJNR0C70B0023BJNE001301123]: 
 
 ### § 13 Zulassungsbescheinigung Teil I
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001400000)
 
 (1) Die Zulassungsbescheinigung Teil I ist nach den Vorgaben der
 Anlage 6 auszufertigen. Die Zulassungsbescheinigung Teil I muss einen
@@ -1506,6 +1521,7 @@ Zulassungsbehörde abzugeben.
 [^F825991_04_BJNR0C70B0023BJNE001400000]: 
 
 ### § 14 Zulassungsbescheinigung Teil II
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001500000)
 
 (1) Mit dem Antrag auf Ausfertigung einer Zulassungsbescheinigung Teil
 II ist der zuständigen Zulassungsbehörde die Verfügungsberechtigung
@@ -1639,6 +1655,7 @@ identifizieren.
 [^F825991_05_BJNR0C70B0023BJNE001500000]: 
 
 ### § 15 Mitteilungspflichten bei Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001600000)
 
 (1) Folgende Änderungen von Fahrzeugdaten oder von Halterdaten sind
 der zuständigen Zulassungsbehörde vom Halter zum Zweck der Änderung
@@ -1847,6 +1864,7 @@ befunden hat.
 
 
 ### § 16 Außerbetriebsetzung, Wiederzulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001700000)
 
 (1) Soll ein zugelassenes Fahrzeug oder ein zulassungsfreies Fahrzeug,
 dem ein Kennzeichen zugeteilt ist, außer Betrieb gesetzt werden, hat
@@ -1909,6 +1927,7 @@ Straßenverkehrs-Zulassungs-Ordnung entsprechend anzuwenden.
 
 
 ### § 17 Verwertungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001800000)
 
 (1) Ist ein Fahrzeug der Klasse M1, N1 oder L5e einer anerkannten
 Stelle nach § 4 Absatz 1 der Altfahrzeug-Verordnung zur Verwertung
@@ -1992,9 +2011,11 @@ dass das Fahrzeug
 [^F825991_06_BJNR0C70B0023BJNE001800000]: 
 
 ## Abschnitt 3 - Internetbasierte Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000300000)
 
 
 ### § 18 Zulässigkeit internetbasierter Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE001900000)
 
 (1) Die Zulassung eines Fahrzeuges, einschließlich der Änderung
 bestehender Zulassungen und der Kennzeichenzuteilung für ein
@@ -2065,9 +2086,11 @@ werden.
 
 
 ### Unterabschnitt 1 - Gemeinsame Regelungen für internetbasierte Zulassungsverfahren über Portale der Zulassungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000400000)
 
 
 #### § 19 Portal
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002000000)
 
 (1) Sofern ein nach dieser Verordnung erforderlicher Antrag
 elektronisch gestellt werden soll, hat dies über das von der
@@ -2126,6 +2149,7 @@ Satz 1 verwendet werden können.
 
 
 #### § 20 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002102123)
 
 (1) Ein elektronischer Antrag erfordert eine sichere Identifizierung
 des Halters. Die für den Antrag erforderlichen Angaben sind, soweit
@@ -2220,6 +2244,7 @@ bei der Antragstellung nachzuweisen.
 
 
 #### § 21 Sicherheitscodes
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002200000)
 
 (1) Für die Bearbeitung der Anträge sind, soweit erforderlich,
 folgende Sicherheitscodes zu erfassen und nach § 20 Absatz 4 zu
@@ -2274,6 +2299,7 @@ Sinne des § 12 Absatz 4 Satz 1, auch in Verbindung mit § 12 Absatz 13.
 
 
 #### § 22 Nachweis der Hauptuntersuchungen und der Sicherheitsprüfungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002300000)
 
 (1) Der Nachweis der Frist für die nächste Hauptuntersuchung oder die
 nächste Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-
@@ -2411,6 +2437,7 @@ unterrichten.
 
 
 #### § 23 Bekanntgabe und Wirksamkeit der Entscheidung sowie Vorbehalt der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002400000)
 
 (1) Die Zulassungsbehörde hat der antragstellenden Person die
 automatisierte Entscheidung unmittelbar nach Abschluss des
@@ -2457,9 +2484,11 @@ Speicherung im Zentralen Fahrzeugregister zu übermitteln.
 
 
 ### Unterabschnitt 2 - Internetbasierte Außerbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000500000)
 
 
 #### § 24 Antrag auf Außerbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002500000)
 
 (1) Die Außerbetriebsetzung eines zugelassenen Fahrzeuges oder eines
 zulassungsfreien Fahrzeuges, dem ein Kennzeichen zugeteilt ist, kann
@@ -2534,6 +2563,7 @@ zu verwenden.
 
 
 #### § 25 Außerbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002601119)
 
 (1) Liegen die Voraussetzungen für die Außerbetriebsetzung nach
 maschineller Prüfung durch das Portal vor, ist das Fahrzeug mittels
@@ -2572,9 +2602,11 @@ Datum der Wirksamkeit der Außerbetriebsetzung schriftlich hinzuweisen.
 
 
 ### Unterabschnitt 3 - Internetbasierte Erstzulassung, Tageszulassung, Wiederzulassung und Änderung bei Halter- und Wohnsitzwechsel
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000600000)
 
 
 #### § 26 Gemeinsame Regelungen für die Zulassung und für Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002700000)
 
 (1) Die Zulassung oder deren Änderung kann elektronisch beantragt
 werden, sofern
@@ -2733,6 +2765,7 @@ Verfolgung als Ordnungswidrigkeit die Kennzeichenschilder einziehen.
 
 
 #### § 27 Internetbasierte Erstzulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002800000)
 
 (1) Die Erstzulassung eines Fahrzeuges kann internetbasiert nach dem
 Verfahren des § 26 nach Maßgabe der folgenden Absätze beantragt
@@ -2777,6 +2810,7 @@ folgenden Maßgaben:
 
 
 #### § 28 Internetbasierte Tageszulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE002900000)
 
 Die Tageszulassung eines Fahrzeuges nach § 7 Absatz 1 kann
 internetbasiert nach dem Verfahren der §§ 26 Absatz 1 bis 4 und 27
@@ -2791,6 +2825,7 @@ Verlangen zur Prüfung auszuhändigen.
 
 
 #### § 29 Internetbasierte Wiederzulassung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003000000)
 
 (1) Die Zulassung eines Fahrzeuges, das nach § 16 Absatz 2 wieder
 zugelassen werden soll, kann internetbasiert nach dem Verfahren des §
@@ -2838,6 +2873,7 @@ erhoben, gespeichert und verwendet.
 
 
 #### § 30 Internetbasierte Änderung bei Halter- oder Wohnsitzwechsel, sofortige Inbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003100000)
 
 (1) Die Änderung der Zulassung bei
 
@@ -2923,9 +2959,11 @@ hinzuweisen.
 
 
 ### Unterabschnitt 4 - Sofortige Inbetriebsetzung bei internetbasierten Zulassungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000700000)
 
 
 #### § 31 Zulässigkeit der sofortigen Inbetriebsetzung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003200000)
 
 Ein Fahrzeug darf abweichend von § 12 Absatz 13 Satz 1 Nummer 2 ohne
 Stempelplaketten oder Plakettenträger bis zum Empfang der nach § 26
@@ -2950,6 +2988,7 @@ Personen auf Verlangen zur Prüfung auszuhändigen.
 
 
 #### § 32 Vorläufiger Zulassungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003300000)
 
 (1) Im Fall des § 31 hat die Zulassungsbehörde der antragstellenden
 Person zusätzlich zum Zulassungsbescheid nach § 23 Absatz 1 Satz 1
@@ -2985,9 +3024,11 @@ auszulegen.
 
 
 ### Unterabschnitt 5 - Großkundenschnittstelle beim Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000800000)
 
 
 #### § 33 Großkundenschnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003400000)
 
 (1) Das Kraftfahrt-Bundesamt errichtet und betreibt eine
 Großkundenschnittstelle für die internetbasierte Entgegennahme und
@@ -3003,6 +3044,7 @@ Wiederzulassung, Halter- oder Wohnsitzwechsel oder Außerbetriebsetzung
 
 
 #### § 34 Registrierung als Großkunde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003501123)
 
 (1) Eine juristische Person des Privatrechts, die jährlich regelmäßig
 mehr als 500 Anträge im Sinne des § 33 Absatz 1 stellt und beim
@@ -3143,6 +3185,7 @@ Nummer 3 Verwaltungsverfahrensgesetz zu verbinden.
 
 
 #### § 35 Identifizierungsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003600000)
 
 (1) Mit der Bekanntgabe über die Registrierung hat das Kraftfahrt-
 Bundesamt dem registrierten Großkunden ein nicht personenbezogenes
@@ -3155,6 +3198,7 @@ anzugeben.
 
 
 #### § 36 Überprüfung der Voraussetzungen und Widerruf der Registrierung als Großkunde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003700000)
 
 (1) Das Kraftfahrt-Bundesamt ist jederzeit berechtigt zu überprüfen,
 ob die Voraussetzungen für die Registrierung als Großkunde noch
@@ -3177,6 +3221,7 @@ widerrufen wurde.
 
 
 #### § 37 Antragstellung über die Großkundenschnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003801123)
 
 (1) Vor jeder Antragstellung hat sich der Großkunde unter Angabe des
 nach § 35 vergebenen Identifizierungsmerkmals zu authentifizieren.
@@ -3218,6 +3263,7 @@ Außergewöhnlich ist eine Zahl von mehr als 100 Anträgen.
 
 
 #### § 38 Übermittlung eines Antrags an die Zulassungsbehörde und automatische Ergänzung erforderlicher Daten
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE003900000)
 
 (1) Die Übermittlung der Fahrzeugdaten und Halterdaten im Umfang der
 Eintragungen in den Zulassungsbescheinigungen Teil I und Teil II an
@@ -3306,6 +3352,7 @@ benachrichtigen und sind die Antragsdaten automatisiert zu löschen.
 
 
 #### § 39 Bekanntgabe und Wirksamkeit der Entscheidung der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004001123)
 
 (1) Über die Großkundenschnittstelle übermittelte Anträge sind im
 Portal nach den Maßgaben der § 19 Absatz 1 Satz 2 bis § 20 Absatz 4
@@ -3400,6 +3447,7 @@ elektronische Zulassungsbescheid übermittelt wurde, gewähren.
 
 
 #### § 40 Sofortige Inbetriebsetzung nach Entscheidung der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004100000)
 
 Für die sofortige Inbetriebsetzung eines Fahrzeuges gelten die
 Vorschriften des Unterabschnitts 4 mit der Maßgabe, dass an die Stelle
@@ -3408,9 +3456,11 @@ tritt.
 
 
 ## Abschnitt 4 - Zeitweilige Teilnahme am Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG000900000)
 
 
 ### § 41 Prüfungsfahrten, Probefahrten und Überführungsfahrten mit rotem Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004201123)
 
 (1) Ein Fahrzeug darf, wenn es nicht zugelassen ist, auch ohne eine
 EU-Typgenehmigung, eine nationale Typgenehmigung oder eine Fahrzeug-
@@ -3544,6 +3594,7 @@ nicht anzuwenden.
 
 
 ### § 42 Probefahrten und Überführungsfahrten mit Kurzzeitkennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004300000)
 
 (1) Ein Fahrzeug darf, wenn es nicht zugelassen ist, zu Probefahrten
 oder Überführungsfahrten in Betrieb gesetzt werden, wenn
@@ -3705,6 +3756,7 @@ Betriebs- und Verkehrssicherheit belegt wird durch
 
 
 ### § 43 Fahrten zur Teilnahme an Veranstaltungen für Oldtimer
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004400000)
 
 (1) Eine Person, die mit einem Oldtimer an einer Veranstaltung
 teilnimmt, die der Darstellung von Oldtimer-Fahrzeugen und der Pflege
@@ -3744,6 +3796,7 @@ Straßenverkehrs-Ordnung, ergeben.
 
 
 ### § 44 Fahrten im internationalen Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004500000)
 
 Für ein Fahrzeug, für das ein Kennzeichen zugeteilt ist, wird auf
 Antrag ein Internationaler Zulassungsschein nach Artikel 4 und Anlage
@@ -3752,6 +3805,7 @@ Kraftfahrzeugverkehr (RGBl. 1930 II S. 1233) ausgestellt.
 
 
 ### § 45 Fahrten zur dauerhaften Verbringung eines Fahrzeuges in das Ausland
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004600000)
 
 (1) Soll ein zulassungspflichtiges, nicht zugelassenes Kraftfahrzeug
 oder ein zulassungsfreies und kennzeichenpflichtiges Kraftfahrzeug,
@@ -3858,9 +3912,11 @@ Zulassungsbescheinigung Teil II ist fortzuschreiben. Die Absätze 1 bis
 
 
 ## Abschnitt 5 - Teilnahme ausländischer Fahrzeuge am Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001000000)
 
 
 ### § 46 Vorübergehende Teilnahme am Straßenverkehr in der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004700000)
 
 (1) Ein in einem anderen Mitgliedstaat oder einem anderen
 Vertragsstaat zugelassenes Fahrzeug darf vorübergehend am Verkehr in
@@ -3958,6 +4014,7 @@ bezeichnete Zeitraum darf 3 Jahre nicht überschreiten.
 
 
 ### § 47 Kennzeichen und Unterscheidungszeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004800000)
 
 (1) Die das Fahrzeug führende Person hat sicherzustellen, dass ein in
 einem anderen Staat zugelassenes Kraftfahrzeug an seiner Vorderseite
@@ -3997,6 +4054,7 @@ nicht erforderlich bei einem Fahrzeug,
 
 
 ### § 48 Beschränkung und Untersagung des Betriebs ausländischer Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE004900000)
 
 (1) Erweist sich ein ausländisches Fahrzeug als nicht
 vorschriftsmäßig, ist § 5 anzuwenden.
@@ -4010,9 +4068,11 @@ Verwaltungsbehörde nach § 75 Absatz 1 zuständig.
 
 
 ## Abschnitt 6 - Überwachung des Versicherungsschutzes der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001100000)
 
 
 ### § 49 Versicherungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005000000)
 
 (1) Der Nachweis nach § 3 Absatz 1 Satz 2, § 41 Absatz 1 Satz 1 Nummer
 1 oder § 42 Absatz 1 Satz 1 Nummer 3, dass eine Kraftfahrzeug-
@@ -4126,6 +4186,7 @@ Bescheinigung muss folgende Daten enthalten:
 
 
 ### § 50 Mitteilungspflichten der Zulassungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005100000)
 
 (1) Die Zulassungsbehörde hat den Versicherer zum Zweck der
 Gewährleistung des Versicherungsschutzes im Rahmen der Kraftfahrzeug-
@@ -4165,6 +4226,7 @@ der vom Kraftfahrt-Bundesamt herausgegebenen Standards zu übermitteln.
 
 
 ### § 51 Maßnahmen und Pflichten bei fehlendem Versicherungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005200000)
 
 (1) Der Versicherer kann zur Beendigung seiner Haftung nach § 117
 Absatz 2 des Versicherungsvertragsgesetzes der Zulassungsbehörde
@@ -4246,6 +4308,7 @@ ein Kurzzeitkennzeichen führt, dessen Ablaufdatum überschritten ist.
 
 
 ### § 52 Versicherungskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005301123)
 
 (1) Für ein Kraftfahrzeug im Sinne des § 4 Absatz 3 Satz 1 in
 Verbindung mit § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe d bis f ist das
@@ -4307,6 +4370,7 @@ Absatz 3 Satz 1 und 3 gilt entsprechend.
 
 
 ### § 53 Ausgestaltung und Anbringung des Versicherungskennzeichens
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005400000)
 
 (1) Die Beschriftung eines Versicherungskennzeichens hat im
 Verkehrsjahr 2023 schwarz auf weißem Grund zu sein, im Verkehrsjahr
@@ -4368,6 +4432,7 @@ Einrichtungen nach Absatz 6 am Fahrzeug angebracht sind.
 
 
 ### § 54 Rote Versicherungskennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005500000)
 
 (1) Eine Fahrt im Sinne des § 41 Absatz 1 darf mit einem Kraftfahrzeug
 im Sinne des § 4 Absatz 3 Satz 1 vorbehaltlich des § 4 Absatz 1 auch
@@ -4393,6 +4458,7 @@ roten Versicherungskennzeichens zu übermitteln.
 
 
 ### § 55 Maßnahmen bei vorzeitiger Beendigung des Versicherungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005600000)
 
 Endet das Versicherungsverhältnis vor dem Ablauf des Verkehrsjahres,
 das auf dem Versicherungskennzeichen angegeben ist, hat der
@@ -4407,6 +4473,7 @@ Versicherungskennzeichen und die Bescheinigung einzuziehen.
 
 
 ### § 56 Versicherungsplakette
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005700000)
 
 (1) Für ein Kraftfahrzeug im Sinne des § 1 Absatz 1 der
 Elektrokleinstfahrzeuge-Verordnung in Verbindung mit § 3 Absatz 3 Satz
@@ -4484,9 +4551,11 @@ entfernen und die Bescheinigung einzuziehen.
 
 
 ## Abschnitt 7 - Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001200000)
 
 
 ### § 57 Erhebung und Speicherung der Fahrzeugdaten im Zentralen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005800000)
 
 (1) Bei einem Fahrzeug, dem ein Kennzeichen zugeteilt ist, sind im
 Zentralen Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu
@@ -5014,6 +5083,7 @@ Fahrzeug außer Betrieb gesetzt wird.
 
 
 ### § 58 Erhebung und Speicherung der Fahrzeugdaten im örtlichen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE005900000)
 
 (1) Bei einem Fahrzeug, dem ein Kennzeichen zugeteilt ist, sind im
 örtlichen Fahrzeugregister folgende Fahrzeugdaten zu erheben und zu
@@ -5398,6 +5468,7 @@ werden.
 
 
 ### § 59 Erhebung und Speicherung der Halterdaten in den Fahrzeugregistern
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006000000)
 
 (1) Die der Zulassungsbehörde nach § 6 Absatz 1 Satz 2 mitzuteilenden
 Halterdaten und die nach § 15 Absatz 5 Satz 3 mitzuteilenden Daten des
@@ -5459,6 +5530,7 @@ eines Fahrzeuges zu erheben und zu speichern.
 
 
 ### § 60 Übermittlung von Daten an das Kraftfahrt-Bundesamt
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006100000)
 
 (1) Die Zulassungsbehörde hat dem Kraftfahrt-Bundesamt zur Erhebung
 und Speicherung im Zentralen Fahrzeugregister die nach § 57 zu
@@ -5511,6 +5583,7 @@ Verkehrsblatt hinzuweisen.
 
 
 ### § 61 Übermittlung, Erhebung und Speicherung der Daten über Hauptuntersuchungen und Sicherheitsprüfungen im Zentralen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006200000)
 
 (1) Folgende Daten über Hauptuntersuchungen und Sicherheitsprüfungen
 sind im Zentralen Fahrzeugregister zu erheben und zu speichern:
@@ -5707,6 +5780,7 @@ zu speichern:
 
 
 ### § 62 Übermittlung von Daten an die Versicherer
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006300000)
 
 (1) Die Zulassungsbehörde darf dem Versicherer zur Durchführung des
 Versicherungsvertrags folgende Daten übermitteln:
@@ -5866,6 +5940,7 @@ begründet.
 
 
 ### § 63 Mitteilungen an die Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006400000)
 
 (1) Die Zulassungsbehörde hat den nach § 1 der Kraftfahrzeugsteuer-
 Durchführungsverordnung für die Ausübung der Verwaltung der
@@ -5913,6 +5988,7 @@ anderen Zwecken durch das Kraftfahrt-Bundesamt ist nicht zulässig.
 
 
 ### § 64 Übermittlung von Daten an Stellen zur Durchführung des Bundesleistungsgesetzes, des Verkehrssicherstellungsgesetzes, des Verkehrsleistungsgesetzes und von Maßnahmen des Katastrophenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006500000)
 
 (1) Die Zulassungsbehörde darf bei einem Fahrzeug, dem ein Kennzeichen
 zugeteilt ist,
@@ -5969,6 +6045,7 @@ der Stempelplaketten.
 
 
 ### § 65 Übermittlungen des Kraftfahrt-Bundesamtes an die Zulassungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006600000)
 
 (1) Ist einem Fahrzeug von einer Zulassungsbehörde ein neues
 Kennzeichen oder ein Ausfuhrkennzeichen zugeteilt worden und war
@@ -6063,6 +6140,7 @@ Datenfernübertragung durch Direkteinstellung vornimmt.
 
 
 ### § 66 Abruf im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006701123)
 
 (1) Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
 Zentralen Fahrzeugregister nach § 36 Absatz 1 des
@@ -6331,6 +6409,7 @@ löschen. § 68 bleibt unberührt.
 
 
 ### § 67 Automatisiertes Anfrage- und Auskunftsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006800000)
 
 Die technische Abwicklung des automatisierten Anfrage- und
 Auskunftsverfahrens nach § 36a des Straßenverkehrsgesetzes hat nach
@@ -6342,6 +6421,7 @@ Satz 1 sind die zuständigen obersten Landesbehörden anzuhören.
 
 
 ### § 68 Sicherung des Abrufverfahrens gegen Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE006900000)
 
 (1) Die übermittelnde Stelle darf einen Abruf nach § 36 des
 Straßenverkehrsgesetzes nur zulassen, wenn bei der Durchführung des
@@ -6416,6 +6496,7 @@ den zum Empfang bestimmten Endgeräten empfangen werden. Die
 
 
 ### § 69 Aufzeichnung der Abrufe im automatisierten Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007000000)
 
 (1) Der Anlass des Abrufs ist von der abrufenden Stelle unter
 Verwendung folgender Schlüsselzahlen zu übermitteln:
@@ -6492,6 +6573,7 @@ vorgeschriebenen weiteren Aufzeichnungen gilt § 36 Absatz 6 Satz 2 bis
 
 
 ### § 70 Abruf im automatisierten Verfahren durch ausländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007100000)
 
 Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
 Zentralen Fahrzeugregister nach § 37a des Straßenverkehrsgesetzes
@@ -6516,6 +6598,7 @@ Die §§ 68 und 69 gelten entsprechend.
 
 
 ### § 71 Übermittlungssperren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007200000)
 
 (1) Eine Übermittlungssperre gegenüber Dritten nach § 41 des
 Straßenverkehrsgesetzes darf nur durch die für die Zulassungsbehörde
@@ -6542,6 +6625,7 @@ sperrende Behörde weiterzuleiten.
 
 
 ### § 72 Löschung von Daten aus dem Zentralen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007300000)
 
 (1) Bei einem Fahrzeug mit Kennzeichen nach § 9 sind die Daten im
 Zentralen Fahrzeugregister vorbehaltlich des Absatzes 5 sieben Jahre,
@@ -6577,6 +6661,7 @@ Absatz 5 entsprechend.
 
 
 ### § 73 Löschung von Daten aus dem örtlichen Fahrzeugregister
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007400000)
 
 (1) Bei einem Fahrzeug mit einem Kennzeichen nach § 9 sind die Daten
 im örtlichen Fahrzeugregister vorbehaltlich des Absatzes 4 spätestens
@@ -6633,6 +6718,7 @@ Fahrzeugregisters dem Zentralen Fahrzeugregister übertragen hat, ist §
 
 
 ### § 74 Zentrale Datenbank der Übereinstimmungsbescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007500000)
 
 (1) Das Kraftfahrt-Bundesamt hat eine Zentrale Datenbank der
 Übereinstimmungsbescheinigungen für solche Fahrzeuge zu führen, für
@@ -6774,9 +6860,11 @@ seinen Verpflichtungen nach den Absätzen 4 und 5 nicht nachkommt.
 
 
 ## Abschnitt 8 - Durchführungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNG001300000)
 
 
 ### § 75 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007600000)
 
 (1) Diese Verordnung wird, soweit nichts anderes bestimmt ist, von den
 nach Landesrecht zuständigen Behörden ausgeführt.
@@ -6847,6 +6935,7 @@ werden.
 
 
 ### § 76 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007700000)
 
 (1) Die zuständigen obersten Landesbehörden oder die von ihnen
 bestimmten oder nach Landesrecht zuständigen Stellen können
@@ -6885,6 +6974,7 @@ notwendig ist.
 
 
 ### § 77 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007801123)
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 des Straßenverkehrsgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -7032,6 +7122,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 78 Verweis auf technische Regelwerke
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE007900000)
 
 (1) DIN-Normen, EN-Normen und ISO-Normen, auf die in dieser Verordnung
 verwiesen wird, sind im Beuth Verlag GmbH, Berlin, erschienen. Sie
@@ -7046,6 +7137,7 @@ erhältlich.
 
 
 ### § 79 Übergangs- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008001123)
 
 (1) Ein Fahrzeug, das nach § 18 Absatz 2 der Straßenverkehrs-
 Zulassungs-Ordnung in der bis zum 28. Februar 2007 geltenden Fassung
@@ -7288,6 +7380,7 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
 (zu § 9 Absatz 1 Satz 4)
 
 ### Anlage 1 Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 67)
 
@@ -7325,6 +7418,7 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
 (zu § 9 Absatz 1 Satz 6)
 
 ### Anlage 2 Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter internationaler Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 68 - 69)
 
@@ -7533,6 +7627,7 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
 (zu § 11 Absatz 4)
 
 ### Anlage 3 Plakettenmuster für elektrisch betriebene Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 70)
 
@@ -7572,6 +7667,7 @@ Mindestsicherheitsanforderungen vorgelegten Unterlagen innerhalb von
 Absatz 2, § 45 Absatz 2 Satz 1 bis 4)
 
 ### Anlage 4 Ausgestaltung der Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 71 - 91)
 
@@ -8261,6 +8357,7 @@ Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
 (zu § 12 Absatz 3 Satz 2 bis 7)
 
 ### Anlage 5 Stempelplaketten und Plakettenträger
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 92 - 98)
 
@@ -8652,6 +8749,7 @@ Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
 (zu § 13 Absatz 1)
 
 ### Anlage 6 Zulassungsbescheinigung Teil I
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 99 - 102)
 
@@ -8880,6 +8978,7 @@ Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
 (zu § 13 Absatz 4)
 
 ### Anlage 7 Zulassungsbescheinigung Teil I für Fahrzeuge der Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 103 - 104)
 
@@ -8894,6 +8993,7 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 (zu § 14 Absatz 2)
 
 ### Anlage 8 Zulassungsbescheinigung Teil II
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 105 - 108)
 
@@ -9064,6 +9164,7 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 (zu § 17)
 
 ### Anlage 9 Verwertungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE008900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 109 - 112)
 
@@ -9222,6 +9323,7 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
 (zu § 22 Absatz 4)
 
 ### Anlage 10 Verifizierung der Prüfziffer
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 190, S. 113)
 
@@ -9275,6 +9377,7 @@ internetbasierten Zulassungsverfahren nach § 22 Absatz 1 Satz 1 Nummer
 (zu § 26 Absatz 3)
 
 ### Anlage 11 Verifizierung und Verarbeitung der Daten für internetbasierte Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 114)
 
@@ -9362,6 +9465,7 @@ Portal hinzugefügt.
 (zu § 37 Absatz 4)
 
 ### Anlage 12 Bevollmächtigung eines Großkunden zur Antragstellung bei der Zulassungsbehörde mithilfe der beim Kraftfahrt-Bundesamt vorhandenen Großkundenschnittstelle
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009200000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 115 - 122)
 
@@ -10564,6 +10668,7 @@ beruflich Selbstständigen**
 (zu § 41 Absatz 2 Satz 1)
 
 ### Anlage 13 Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009301123)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 123 - 124)
 
@@ -10796,6 +10901,7 @@ Abbildung Seite 1:
    (zu § 42 Absatz 5 Satz 1)
 
 ### Anlage 14 Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 125 - 126)
 
@@ -10812,6 +10918,7 @@ Abbildung Rückseite:
 (zu § 43 Absatz 2 Satz 1)
 
 ### Anlage 15 Fahrzeugscheinheft für Oldtimerfahrzeuge mit rotem Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 127)
 
@@ -11008,6 +11115,7 @@ Seite 1
    (zu §§ 45 Absatz 1 Satz 1 Nummer 1 Buchstabe a und 49 Absatz 3)
 
 ### Anlage 16 Bestätigung über eine dem Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechende Haftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 128)
 
@@ -11024,6 +11132,7 @@ Versicherungsschutzes.
 (zu § 53 Absatz 1 Satz 6)
 
 ### Anlage 17 Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und leichte vierrädrige Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 129 - 130)
 
@@ -11200,6 +11309,7 @@ Versicherungsschutzes.
 (zu § 56 Absatz 2 Nummer 3)
 
 ### Anlage 18 Versicherungsplakette für Elektrokleinstfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/fzv_2023/BJNR0C70B0023.html#BJNR0C70B0023BJNE009800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 199, S. 131 - 133)
 

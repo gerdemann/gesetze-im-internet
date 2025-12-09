@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000100307)
 
 Auf Grund des § 1 Abs. 1 und 3 Satz 1 und des § 2 des
 Handelsklassengesetzes in der Fassung der Bekanntmachung vm 23.
@@ -31,6 +32,7 @@ für Gesundheit und für Wirtschaft:
 
 
 ## § 1 Gesetzliche Handelsklassen, Einstufung in Kategorien und Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000206119)
 
 (1) Schaffleisch darf zum Verkauf vorrätig gehalten, angeboten,
 feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht
@@ -77,6 +79,7 @@ Einstufung in Handelsklassen erfolgt.
 
 
 ## § 1a Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000700119)
 
 Zum Zweck der Durchführung von Kontrollen verarbeitet und übermittelt
 die zuständige Behörde die Daten nach Abschnitt III der Anlage des
@@ -84,6 +87,7 @@ Marktorganisationsgesetzes.
 
 
 ## § 2 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000302119)
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -100,6 +104,7 @@ Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 
 ## § 2a Überwachung, Duldungs- und Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000600125)
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
@@ -134,11 +139,13 @@ prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000400307)
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hdlklschafflv_1993/BJNR099300993.html#BJNR099300993BJNE000500307)
 
 Der Bundesrat hat zugestimmt.
 

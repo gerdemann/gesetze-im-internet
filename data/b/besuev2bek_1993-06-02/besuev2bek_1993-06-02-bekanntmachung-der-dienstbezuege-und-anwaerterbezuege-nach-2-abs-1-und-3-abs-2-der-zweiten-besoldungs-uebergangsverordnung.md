@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000100307)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778) werden in
@@ -38,6 +39,7 @@ Anwärtergrundbetrag
 Anwärterverheiratetenzuschlag
 
 ## Anlage I (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000200307)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 787
 
@@ -133,6 +135,7 @@ Fundstelle des Originaltextes: BGBl. I 1993, 787
 (Anlage IV des BBesG)
 
 ## Anlage II A Gültig ab 1. Mai 1992
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000300307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 788 - 790)
 
@@ -1079,6 +1082,7 @@ Gültig ab 1. Mai 1992
 Ortszuschlag
 
 ## Anlage II B (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000400307)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 790
 
@@ -1185,6 +1189,7 @@ Anwärtergrundbetrag
 Anwärterverheiratetenzuschlag
 
 ## Anlage II C (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000500307)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 791
 
@@ -1284,6 +1289,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
 ## Anlage II D - in der Reihenfolge der Gesetzesstellen -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000600307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 792 - 794)
 
@@ -2608,6 +2614,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
 ## Anlage II E - in der Reihenfolge der Gesetzesstellen -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001500307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 705 - 797)
 
@@ -4030,6 +4037,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Anlage IV des BBesG)
 
 ## Anlage III A Gültig ab 1. Juni 1992
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001600307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 798 - 800)
 
@@ -5034,6 +5042,7 @@ Gültig ab 1. Juni 1992
 Ortszuschlag
 
 ## Anlage III B (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE000900307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 800)
 
@@ -5155,6 +5164,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
 ## Anlage III C - in der Reihenfolge der Gesetzesstellen -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001000307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 801 - 803)
 
@@ -6532,6 +6542,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Anlage IV des BBesG)
 
 ## Anlage IV A Gültig ab 1. Dezember 1992
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001800307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 804 - 806)
 
@@ -7692,6 +7703,7 @@ Gültig ab 1. Dezember 1992
 Ortszuschlag
 
 ## Anlage IV B (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001200307)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 806
 
@@ -7797,6 +7809,7 @@ Anwärtergrundbetrag
 Anwärterverheiratetenzuschlag
 
 ## Anlage IV C (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001300307)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 807
 
@@ -7902,6 +7915,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
 ## Anlage IV D - in der Reihenfolge der Gesetzesstellen -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/BJNR078700993.html#BJNR078700993BJNE001400307)
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 808 - 810)
 

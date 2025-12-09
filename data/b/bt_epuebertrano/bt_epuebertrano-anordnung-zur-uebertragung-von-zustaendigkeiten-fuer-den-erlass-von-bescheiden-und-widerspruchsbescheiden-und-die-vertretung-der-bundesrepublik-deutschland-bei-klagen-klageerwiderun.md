@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bt_ep_bertrano/BJNR1330A0024.html#BJNR1330A0024BJNE000100000)
 
 Nach § 27 Absatz 1 des Abgeordnetengesetzes in der Fassung der
 Bekanntmachung vom 21. Februar 1996 (BGBl. I S. 326), das zuletzt
@@ -34,6 +35,7 @@ Sitzung am 25. Mai 2023 an:
 
 
 ## § 1 Übertragung der Zuständigkeit für die Festsetzung von Leistungen nach der Bundesbeihilfeverordnung sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bt_ep_bertrano/BJNR1330A0024.html#BJNR1330A0024BJNE000200000)
 
 (1) Dem Bundesverwaltungsamt werden die Zuständigkeiten für die
 Prüfung, Festsetzung und Auszahlungen von Zuschüssen zu den
@@ -55,12 +57,14 @@ verwaltungsgerichtlichen Verfahren in Angelegenheiten nach Absatz 1
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bt_ep_bertrano/BJNR1330A0024.html#BJNR1330A0024BJNE000300000)
 
 Diese Anordnung gilt auch für Widersprüche und Klagen, die vor ihrem
 Inkrafttreten erhoben worden sind.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bt_ep_bertrano/BJNR1330A0024.html#BJNR1330A0024BJNE000400000)
 
 Diese Anordnung tritt am 26. Oktober 2024 in Kraft.
 

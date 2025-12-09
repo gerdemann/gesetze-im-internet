@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabk2000polg/BJNR233120002.html#BJNR233120002BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabk2000polg/BJNR233120002.html#BJNR233120002BJNE000200000)
 
 Dem in Frankfurt (Oder) am 21. November 2000 unterzeichneten Abkommen
 zwischen der Regierung der Bundesrepublik Deutschland und der
@@ -38,6 +40,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabk2000polg/BJNR233120002.html#BJNR233120002BJNE000300000)
 
 (1) Auf die in Artikel 19 Abs. 1 des Abkommens bezeichneten Umsätze
 findet deutsches Umsatzsteuerrecht Anwendung; für diese Umsätze wird
@@ -73,6 +76,7 @@ Bestimmungen sind mit Wirkung vom 21. November 2000 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabk2000polg/BJNR233120002.html#BJNR233120002BJNE000400000)
 
 Die Bundesregierung wird ermächtigt, Notenwechsel gemäß Artikel 25
 Abs. 2 des Abkommens durch Rechtsverordnung, die der Zustimmung des
@@ -80,6 +84,7 @@ Bundesrates bedarf, in Kraft zu setzen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckabk2000polg/BJNR233120002.html#BJNR233120002BJNE000500000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

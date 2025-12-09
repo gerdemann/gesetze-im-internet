@@ -22,14 +22,17 @@ Geändert durch
 Stand: Gem. § 24 Abs. 2 dieses G iVm Nr. 1 Bek. v. 5.12.2022 I 2262 ist dieses G im Übrigen am 22.11.2022 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000201119)
 
 (1) Dieses Gesetz dient der Durchführung
 
@@ -69,6 +72,7 @@ gilt dieses Gesetz nur, soweit ein Land die jeweilige Zahlung gewährt.
 
 
 ### § 2 Anwendbare Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000301000)
 
 Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des
 Marktorganisationsgesetzes mit den Maßgaben, dass
@@ -96,6 +100,7 @@ Marktorganisationsgesetzes mit den Maßgaben, dass
 
 
 ### § 3 Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand sowie Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000401119)
 
 (1) Betriebsinhaber und andere Begünstigte (Begünstigte) sind
 verpflichtet,
@@ -174,12 +179,15 @@ Verfahren erlassen werden.
 
 
 ## Kapitel 2 - GLÖZ-Standards
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000200000)
 
 
 ### Abschnitt 1 - Erhaltung von Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000300000)
 
 
 #### § 4 Dauergrünlandanteil auf regionaler Ebene
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000502119)
 
 (1) Die Erhaltung des Anteils des Dauergrünlands an der gesamten
 landwirtschaftlichen Fläche (Dauergrünlandanteil) nach dem in der
@@ -195,6 +203,7 @@ Region.
 
 
 #### § 5 Genehmigungspflicht für Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000601119)
 
 (1) Dauergrünland darf nur mit Genehmigung umgewandelt werden. Eine
 Genehmigung wird erteilt:
@@ -273,6 +282,7 @@ Dauergrünland nach Satz 1 entsprechende Anwendung.
 
 
 #### § 6 Umwandlung von Dauergrünland ohne Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000700000)
 
 Abweichend von § 5 kann Dauergrünland, das ab dem 1. Januar 2021 neu
 entstanden ist, vorbehaltlich anderer rechtlicher Regelungen, ohne
@@ -281,6 +291,7 @@ Behörde anzuzeigen.
 
 
 #### § 7 Bagatellregelung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000800000)
 
 (1) Abweichend von § 5 bedarf die Umwandlung von insgesamt bis zu 500
 Quadratmetern Dauergrünland in einer Region je Begünstigtem und Jahr
@@ -292,6 +303,7 @@ Anwendung.
 
 
 #### § 8 Bekanntmachung des Referenzanteils; Abnahme des Dauergrünlandanteils
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE000900000)
 
 (1) Die zuständige Behörde gibt den nach den Vorgaben der
 Rechtsverordnung gemäß § 9 Absatz 6 zu bestimmenden maßgeblichen
@@ -309,6 +321,7 @@ mehr erteilt werden.
 
 
 #### § 9 Verordnungsermächtigungen zur Erhaltung des Dauergrünlands
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001000000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
@@ -453,9 +466,11 @@ Bundesrates die Methode festzulegen:
 
 
 ### Abschnitt 2 - Weitere GLÖZ-Standards
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000400000)
 
 
 #### § 10 Mindestschutz für Feuchtgebiete und Moore
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001102119)
 
 (1) Dauergrünland in den in einer Rechtsverordnung nach § 26 Absatz 1
 Nummer 2 bezeichneten Feuchtgebieten und Mooren darf nicht umgewandelt
@@ -490,6 +505,7 @@ weitergehende Bodenbearbeitungen zu ermöglichen.
 
 
 #### § 11 Mindestanteil von Ackerland an nichtproduktiven Flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001200000)
 
 (1) Der Begünstigte ist verpflichtet, mindestens 3 Prozent des
 Ackerlands des Betriebes als nichtproduktive Fläche oder als
@@ -502,6 +518,7 @@ Unionsrecht vorgesehenen Mindestprozentsatz anzupassen.
 
 
 #### § 12 Umweltsensibles Dauergrünland; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001302119)
 
 (1) Als umweltsensibel gilt das am 1. Januar 2015 bestehende
 Dauergrünland, das in Gebieten gelegen ist,
@@ -613,9 +630,11 @@ Vorschriften zu erlassen über
 
 
 ## Kapitel 3 - Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000900119)
 
 
 ### § 13 Mitteilung von Verstößen gegen Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002600119)
 
 (1) Die nach Absatz 3 zuständige Behörde oder Körperschaft hat der
 Zahlstelle einen Verstoß eines Begünstigten gegen eine Vorschrift der
@@ -675,6 +694,7 @@ Richter.
 
 
 ### § 14 Auskunftsersuchen an die Zahlstelle
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002700119)
 
 (1) Die nach § 13 Absatz 3 zuständige Behörde oder Körperschaft kann
 zur Feststellung, ob ein Verstoß gegen Vorschriften der sozialen
@@ -692,12 +712,15 @@ Verwaltungs- und Kontrollsystems mit.
 
 
 ## Kapitel 4 - Verwaltungs-, Kontroll- und Sanktionssystem
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000502119)
 
 
 ### Abschnitt 1 - Verwaltungs- und Kontrollsystem
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000602119)
 
 
 #### § 15 Anwendung des Integrierten Verwaltungs- und Kontrollsystems
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001402119)
 
 Das Integrierte Verwaltungs- und Kontrollsystem nach der
 Unionsregelung wird zum Zwecke der Einhaltung und der Durchführung der
@@ -705,6 +728,7 @@ Verpflichtungen nach § 3 Absatz 1 Nummer 1 und 2 angewendet.
 
 
 #### § 16 Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001501119)
 
 (1) Die zuständige Behörde prüft die Einhaltung der GAB gemäß § 3
 Absatz 1 Nummer 1 und der GLÖZ-Standards gemäß § 3 Absatz 1 Nummer 2
@@ -722,6 +746,7 @@ Betriebsgröße von bis zu 10 Hektar landwirtschaftlicher Fläche.
 
 
 #### § 17 Antragsablehnung bei einer Verhinderung von Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001601119)
 
 Ein Sammelantrag nach der Unionsregelung wird abgelehnt, wenn der
 Begünstigte, die vertretungsberechtigten Personen oder Organe, die
@@ -732,6 +757,7 @@ Vorliegens außergewöhnlicher Umstände.
 
 
 #### § 18 Mindestkontrollsatz; Kontrollstichproben
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001701119)
 
 (1) Die Kontrollbehörde führt im Bereich der in ihre Zuständigkeit
 fallenden GAB und GLÖZ-Standards Kontrollen vor Ort bei mindestens 1
@@ -747,6 +773,7 @@ unberücksichtigt.
 
 
 #### § 19 Zeitraum der Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001801119)
 
 Die Kontrollen im Sinne des § 16 werden in dem Kalenderjahr
 durchgeführt, in dem die Sammelanträge nach der Unionsregelung
@@ -754,6 +781,7 @@ gestellt werden.
 
 
 #### § 20 Kontrollbericht; Information des Begünstigten
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE001901119)
 
 (1) Die zuständige Kontrollbehörde erstellt einen Kontrollbericht für
 jede im Rahmen dieses Abschnitts durchgeführte Kontrolle vor Ort.
@@ -764,9 +792,11 @@ informiert.
 
 
 ### Abschnitt 2 - Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000702119)
 
 
 #### § 21 Zurechnung von Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002002119)
 
 (1) Verstöße gegen die Verpflichtungen nach § 3 Absatz 1 werden
 sanktioniert. Satz 1 gilt nicht für Begünstigte mit einer
@@ -781,6 +811,7 @@ in gleichem Umfang zu vertreten wie einen eigenen Verstoß.
 
 
 #### § 22 Sanktionierung bei Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002101119)
 
 (1) Wird im Laufe des Kalenderjahres eine landwirtschaftliche Fläche
 übertragen, ergeht die Verwaltungssanktion gegen denjenigen an der
@@ -795,6 +826,7 @@ Betriebsteile.
 
 
 #### § 23 Begrenzung der Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002201119)
 
 Die Gesamthöhe der Verwaltungssanktionen ohne Berücksichtigung einer
 möglichen Verzinsung in einem Kalenderjahr übersteigt nicht den
@@ -805,6 +837,7 @@ soweit diese dem Geltungsbereich des § 3 Absatz 1 unterliegen.
 
 
 #### § 24 Ausnahmen von Verwaltungssanktionen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002301119)
 
 (1) Kommt der Begünstigte den in § 3 Absatz 1 Nummer 1 und 2 genannten
 Verpflichtungen aufgrund von höherer Gewalt oder außergewöhnlichen
@@ -818,6 +851,7 @@ nachzuweisen.
 
 
 #### § 25 Sanktionierung von Verstößen gegen Vorschriften der sozialen Konditionalität
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002800119)
 
 (1) Ist der Zahlstelle ein Verstoß gegen eine Vorschrift der sozialen
 Konditionalität mitgeteilt worden, hat die Zahlstelle nach näherer
@@ -836,9 +870,11 @@ höherer Gewalt oder einer behördlichen Anordnung beruht.
 
 
 ## Kapitel 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNG000801119)
 
 
 ### § 26 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002401119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
@@ -941,6 +977,7 @@ mit Zustimmung des Bundesrates zu regeln:
 
 
 ### § 27 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gapkondg/BJNR299600021.html#BJNR299600021BJNE002900119)
 
 (1) § 21 Absatz 1 ist ab dem 1. Januar 2024 anzuwenden.
 

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbag_man/BJNR096820010.html#BJNR096820010BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbag_man/BJNR096820010.html#BJNR096820010BJNE000200000)
 
 Dem in Berlin am 2. März 2009 unterzeichneten Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Regierung der Insel
@@ -34,6 +36,7 @@ wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbag_man/BJNR096820010.html#BJNR096820010BJNE000300000)
 
 Soweit das Abkommen auf Grund seines Artikels 5 Absatz 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
@@ -45,6 +48,7 @@ Abkommen in Kraft getreten ist.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbag_man/BJNR096820010.html#BJNR096820010BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

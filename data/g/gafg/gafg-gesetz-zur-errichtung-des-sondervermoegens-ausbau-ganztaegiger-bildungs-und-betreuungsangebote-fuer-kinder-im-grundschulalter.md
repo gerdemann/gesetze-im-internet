@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000100000)
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung „Ausbau
 ganztägiger Bildungs- und Betreuungsangebote für Kinder im
@@ -28,6 +29,7 @@ Grundschulalter“ errichtet.
 
 
 ## § 2 Zweck des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000200000)
 
 Aus dem Sondervermögen werden den Ländern Finanzhilfen für
 gesamtstaatlich bedeutsame Investitionen der Länder und Gemeinden
@@ -39,6 +41,7 @@ des Grundgesetzes gewährt.
 
 
 ## § 3 Stellung des Sondervermögens im Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000301131)
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Das Sondervermögen kann
 jedoch unter seinem Namen im Rechtsverkehr handeln, klagen und
@@ -54,6 +57,7 @@ Rechten und Verbindlichkeiten zu trennen.
 
 
 ## § 4 Finanzierung des Sondervermögens und Einsatz der Finanzmittel
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000402126)
 
 (1) Der Bund stellt dem Sondervermögen die folgenden Beträge zur
 Verfügung:
@@ -90,12 +94,14 @@ er den Basismitteln zugeführt.
 
 
 ## § 5 Rücklagen des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000500000)
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks
 Rücklagen bilden.
 
 
 ## § 6 Wirtschaftsplan für das Sondervermögen, Haushaltsrecht
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000600000)
 
 (1) Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt, der für das Jahr 2020 Anlage zu diesem
@@ -111,6 +117,7 @@ Bundes und wird bedarfsgerecht über das Sondervermögen ausgezahlt.
 
 
 ## § 7 Jahresrechnung für das Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000701131)
 
 Das Bundesministerium für Bildung, Familie, Senioren, Frauen und
 Jugend stellt am Schluss eines jeden Rechnungsjahres die Rechnung über
@@ -119,11 +126,13 @@ die Einnahmen und Ausgaben des Sondervermögens auf und fügt sie den
 
 
 ## § 8 Verwaltungskosten des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000800000)
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 
 ## § 9 Auflösung des Sondervermögens
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE000901131)
 
 (1) Das Sondervermögen gilt am 31. Dezember des Jahres, in dem seine
 Mittel nach § 4 für die Erfüllung seiner gesetzlichen Aufgaben
@@ -137,12 +146,14 @@ des Bundesrates bedarf.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE001000000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 6 Absatz 1 Satz 1)
 
 ## Anlage Wirtschaftsplan des Sondervermögens „Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“
+[Direktlink](https://www.gesetze-im-internet.de/gafg/BJNR286500020.html#BJNR286500020BJNE001100000)
 
 (Fundstelle: BGBl. I 2020, 2867 - 2869)
 

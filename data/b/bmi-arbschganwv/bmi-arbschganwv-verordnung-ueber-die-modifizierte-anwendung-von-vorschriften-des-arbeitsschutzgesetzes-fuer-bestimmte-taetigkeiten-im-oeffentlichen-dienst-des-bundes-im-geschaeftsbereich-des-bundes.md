@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000100305)
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
 7\. August 1996 (BGBl. I S. 1246) verordnet das Bundesministerium des
@@ -30,12 +31,14 @@ Sozialordnung:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000201124)
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums
 des Innern, für Bau und Heimat.
 
 
 ## § 2 Pflichten des Dienstherrn
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000301124)
 
 Der Dienstherr ist verpflichtet, die erforderlichen Maßnahmen des
 Arbeitsschutzes für die Beschäftigten im Geschäftsbereich des
@@ -46,6 +49,7 @@ Arbeitsschutzgesetzes möglich ist.
 
 
 ## § 3 Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000401308)
 
 Einsatztätigkeiten der Beschäftigten beim Bundesamt für
 Verfassungsschutz, bei der Bundespolizei, beim Bundeskriminalamt und
@@ -59,6 +63,7 @@ Verordnung.
 
 
 ## § 4 Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000500305)
 
 (1) Soweit öffentliche Belange dies zwingend erfordern, insbesondere
 zur Aufrechterhaltung oder Wiederherstellung der öffentlichen
@@ -71,6 +76,7 @@ in den jeweiligen Dienstvorschriften festgelegt.
 
 
 ## § 5 Gewährleistung der Sicherheit und des Gesundheitsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000600305)
 
 (1) Die Gewährleistung der Sicherheit und des Gesundheitsschutzes bei
 Einsatz- und Einsatzvorbereitungstätigkeiten, bei denen nach § 4 von
@@ -99,6 +105,7 @@ Dienstvorschriften nicht erfasst ist.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmi-arbschganwv/BJNR011400000.html#BJNR011400000BJNE000700305)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

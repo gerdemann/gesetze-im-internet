@@ -20,21 +20,25 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000200320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Gesetz über die Alterssicherung der Landwirte (ALG)
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000300320)
 
 -
 
 
 ## (XXXX) Art 2 bis 43
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000400320)
 
 
 
 ## Art 44 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000500320)
 
 Die auf den Artikeln 17, 18, 20, 21, 30, 33, 34, 35, 36, 37, 38, 39
 und 42 beruhenden Teile der dort geänderten Verordnungen können
@@ -43,6 +47,7 @@ diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
 
 
 ## Art 45 Bekanntmachung im Bundesgesetzblatt
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000600320)
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Gesetzes zur Förderung der Einstellung der landwirtschaftlichen
@@ -54,6 +59,7 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 46 Geltung von Vorschriften im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000700320)
 
 Abweichend von Anlage I Kapitel VIII Sachgebiet H Abschnitt I Nr. 45
 und 46 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S.
@@ -73,11 +79,13 @@ Gebiet in Kraft
 
 
 ## Art 47 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000800320)
 
 -
 
 
 ## Art 48 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/asrg_1995/BJNR189000994.html#BJNR189000994BJNE000902308)
 
 (1) Dieses Gesetz tritt am 1. Januar 1995 in Kraft, soweit in den
 folgenden Absätzen nicht etwas anderes bestimmt ist.

@@ -23,32 +23,39 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE000900311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Aufgaben und Verwendung des Bundesgrenzschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000100311)
 
 
 
 ### (XXXX) §§ 1 bis 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE001003307)
 
 
 
 ## Zweiter Abschnitt - Befugnisse des Bundesgrenzschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000200311)
 
 
 
 ## Dritter Abschnitt - Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000300311)
 
 
 
 ## Vierter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000400311)
 
 
 
 ### § 48 Heranziehung von Dienstpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE005700311)
 
 (1) Kann der Bedarf an Polizeivollzugsbeamten im Bundesgrenzschutz
 nicht mit geeigneten Bewerbern gedeckt werden, so können zum Ausgleich
@@ -61,10 +68,12 @@ Bundesgrenzschutz.
 
 
 ## Fünfter Abschnitt - Grenzschutzdienstpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000500311)
 
 
 
 ### § 49 Der Grenzschutzdienstpflicht unterliegende Personen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE005801311)
 
 (1) Männer, die das achtzehnte Lebensjahr vollendet haben und Deutsche
 im Sinne des Grundgesetzes sind, können zum Polizeivollzugsdienst im
@@ -99,6 +108,7 @@ kann aufgehoben werden, wenn
 
 
 ### § 50 Beginn und Ende der Grenzschutzdienstpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE005900311)
 
 (1) Die Grenzschutzdienstpflicht beginnt mit der Zustellung des
 Verpflichtungsbescheides.
@@ -129,6 +139,7 @@ Verpflichtungsbescheides.
 
 
 ### § 51 Inhalt der Grenzschutzdienstpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006000311)
 
 Die Grenzschutzdienstpflicht umfaßt neben der Verpflichtung,
 Grenzschutzdienst zu leisten, die Pflicht, sich zu melden,
@@ -140,6 +151,7 @@ Grenzschutzdienst bestimmte Bekleidungs- und Ausrüstungsstücke zu
 
 
 ### § 52 Arten des Grenzschutzdienstes, Reserve
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006100311)
 
 (1) Der auf Grund der Grenzschutzdienstpflicht zu leistende Dienst
 umfaßt
@@ -163,6 +175,7 @@ verpflichtet worden sind, gehören der Grenzschutzreserve an.
 
 
 ### § 53 Zuständigkeit, Verfahren, anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006201311)
 
 (1) Verpflichtung und Heranziehung zum Polizeivollzugsdienst im
 Bundesgrenzschutz erfolgen auf Anforderung des Bundesministers des
@@ -188,6 +201,7 @@ entsprechend anzuwenden.
 
 
 ### § 54 Grenzschutzdienstverhältnis, Gelöbnis
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006300311)
 
 (1) Die Dienstleistenden stehen in einem öffentlich-rechtlichen
 Dienst- und Treueverhältnis besonderer Art.
@@ -204,6 +218,7 @@ Gelöbnis:
 
 
 ### § 55 Ernennungsbehörde, oberste Dienstbehörde, Vorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006401311)
 
 (1) Der Bundespräsident ernennt die Grenzschutzoffiziere der Reserve.
 Die übrigen Dienstleistenden ernennt der Bundesminister des Innern,
@@ -223,6 +238,7 @@ Vorschriften.
 
 
 ### § 56 Gehorsamspflicht und Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006500311)
 
 (1) Der Dienstleistende hat dienstliche Anordnungen seiner
 Vorgesetzten zu befolgen.
@@ -255,6 +271,7 @@ entsprechend anzuwenden.
 
 
 ### § 57 Anträge und Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006601160)
 
 (1) Der Dienstleistende kann Anträge und Beschwerden vorbringen;
 hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zur
@@ -272,6 +289,7 @@ entsprechend.
 
 
 ### § 58 Dienstvergehen, Disziplinarmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006704377)
 
 Für die Dienstleistenden gilt § 77 des Bundesbeamtengesetzes
 entsprechend. Die für Polizeivollzugsbeamte im Bundesgrenzschutz
@@ -313,6 +331,7 @@ folgender Maßgabe anzuwenden:
 
 
 ### § 59 Sonstige anwendbare Vorschriften, Grenzschutzsold
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006801311)
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist oder nach § 60
 bestimmt wird, gelten für die persönliche Rechtsstellung der
@@ -333,6 +352,7 @@ Verteidigung.
 
 
 ### § 60 Rechtsverordnung über Dienstbezeichnungen, Laufbahnen, Verwendung und Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE006900311)
 
 Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die Dienstbezeichnungen, die Laufbahnen, die Verwendung
@@ -343,6 +363,7 @@ Bestimmungen über das Führen der Dienstbezeichnungen getroffen werden.
 
 
 ### § 61 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE007000311)
 
 (1) Ordnungswidrig handelt, wer als Grenzschutzdienstpflichtiger
 vorsätzlich oder fahrlässig
@@ -367,22 +388,27 @@ Ordnungswidrigkeiten ist das Kreiswehrersatzamt.
 
 
 ## Sechster Abschnitt - Wahrnehmung von Aufgaben durch andere Verwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000600311)
 
 
 
 ### (XXXX) §§ 62 bis 74 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE007101307)
 
 
 
 ## Siebenter Abschnitt - Vorschriften für besondere Fälle
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000700311)
 
 
 
 ## Achter Abschnitt - Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNG000800311)
 
 
 
 ### Anlage (zu § 59 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/bgsg/BJNR118340972.html#BJNR118340972BJNE008300311)
 
 Fundstelle des Originaltextes: BGBl. I 1974, 2152 - 2153
 

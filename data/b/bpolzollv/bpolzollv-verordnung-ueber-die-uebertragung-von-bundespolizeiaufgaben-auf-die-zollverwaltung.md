@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000100000)
 
 Auf Grund des § 68 Abs. 1 Satz 1 des Bundespolizeigesetzes vom 19.
 Oktober 1994 (BGBl. I S. 2978, 2979) verordnet das Bundesministerium
@@ -28,6 +29,7 @@ des Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000200000)
 
 Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung
 die Aufgaben
@@ -52,6 +54,7 @@ zur Ausübung übertragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000301377)
 
 Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung
 die Aufgaben
@@ -76,6 +79,7 @@ Wahrnehmung der Aufgaben nach § 1 anfallen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000400000)
 
 Die Zollverwaltung führt nach Maßgabe des § 12 des
 Bundespolizeigesetzes die erforderlichen unaufschiebbaren Maßnahmen
@@ -84,6 +88,7 @@ der Wahrnehmung der Aufgaben nach den §§ 1 und 2 feststellt, durch.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000500000)
 
 Die Bundespolizei und die Zollverwaltung unterrichten einander über
 alle nichtpersonenbezogenen Informationen, die für die Wahrnehmung
@@ -93,6 +98,7 @@ bleiben unberührt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000600000)
 
 (1) Für die Ausübung der Aufgaben nach den §§ 1 bis 3 durch die
 Zollverwaltung gelten dieselben Rechts- und Verwaltungsvorschriften,
@@ -112,6 +118,7 @@ Satz 3 des Bundespolizeigesetzes) erteilten Weisungen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000701311)
 
 Das Bundesministerium des Innern, für Bau und Heimat benennt dem
 Bundesministerium der Finanzen die Bundespolizeibehörden, die es mit
@@ -122,11 +129,13 @@ Bundespolizeibehörden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000800000)
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/bpolzollv/BJNR186700005.html#BJNR186700005BJNE000901377)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

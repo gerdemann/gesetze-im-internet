@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000011309)
 
 
 
 ### Erster Abschnitt - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000021309)
 
 
 
 #### § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000021309)
 
 (1) Eine Ordnungswidrigkeit ist eine rechtswidrige und vorwerfbare
 Handlung, die den Tatbestand eines Gesetzes verwirklicht, das die
@@ -42,12 +45,14 @@ verwirklicht, auch wenn sie nicht vorwerfbar begangen ist.
 
 
 #### § 2 Sachliche Geltung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000031309)
 
 Dieses Gesetz gilt für Ordnungswidrigkeiten nach Bundesrecht und nach
 Landesrecht.
 
 
 #### § 3 Keine Ahndung ohne Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000041309)
 
 Eine Handlung kann als Ordnungswidrigkeit nur geahndet werden, wenn
 die Möglichkeit der Ahndung gesetzlich bestimmt war, bevor die
@@ -55,6 +60,7 @@ Handlung begangen wurde.
 
 
 #### § 4 Zeitliche Geltung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000051309)
 
 (1) Die Geldbuße bestimmt sich nach dem Gesetz, das zur Zeit der
 Handlung gilt.
@@ -76,6 +82,7 @@ ein Gesetz etwas anderes bestimmt.
 
 
 #### § 5 Räumliche Geltung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000062307)
 
 Wenn das Gesetz nichts anderes bestimmt, können nur
 Ordnungswidrigkeiten geahndet werden, die im räumlichen
@@ -86,6 +93,7 @@ der Bundesrepublik Deutschland zu führen.
 
 
 #### § 6 Zeit der Handlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000071309)
 
 Eine Handlung ist zu der Zeit begangen, zu welcher der Täter tätig
 geworden ist oder im Falle des Unterlassens hätte tätig werden müssen.
@@ -93,6 +101,7 @@ Wann der Erfolg eintritt, ist nicht maßgebend.
 
 
 #### § 7 Ort der Handlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000081309)
 
 (1) Eine Handlung ist an jedem Ort begangen, an dem der Täter tätig
 geworden ist oder im Falle des Unterlassens hätte tätig werden müssen
@@ -106,10 +115,12 @@ Beteiligten verwirklicht werden sollte.
 
 
 ### Zweiter Abschnitt - Grundlagen der Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000031309)
 
 
 
 #### § 8 Begehen durch Unterlassen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000091309)
 
 Wer es unterläßt, einen Erfolg abzuwenden, der zum Tatbestand einer
 Bußgeldvorschrift gehört, handelt nach dieser Vorschrift nur dann
@@ -119,6 +130,7 @@ gesetzlichen Tatbestandes durch ein Tun entspricht.
 
 
 #### § 9 Handeln für einen anderen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000103377)
 
 (1) Handelt jemand
 
@@ -165,6 +177,7 @@ Auftragsverhältnis begründen sollte, unwirksam ist.
 
 
 #### § 10 Vorsatz und Fahrlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000111309)
 
 Als Ordnungswidrigkeit kann nur vorsätzliches Handeln geahndet werden,
 außer wenn das Gesetz fahrlässiges Handeln ausdrücklich mit Geldbuße
@@ -172,6 +185,7 @@ bedroht.
 
 
 #### § 11 Irrtum
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000121309)
 
 (1) Wer bei Begehung einer Handlung einen Umstand nicht kennt, der zum
 gesetzlichen Tatbestand gehört, handelt nicht vorsätzlich. Die
@@ -184,6 +198,7 @@ vorwerfbar, wenn er diesen Irrtum nicht vermeiden konnte.
 
 
 #### § 12 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000192360)
 
 (1) Nicht vorwerfbar handelt, wer bei Begehung einer Handlung noch
 nicht vierzehn Jahre alt ist. Ein Jugendlicher handelt nur unter den
@@ -197,6 +212,7 @@ Handlung einzusehen oder nach dieser Einsicht zu handeln.
 
 
 #### § 13 Versuch
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000141309)
 
 (1) Eine Ordnungswidrigkeit versucht, wer nach seiner Vorstellung von
 der Handlung zur Verwirklichung des Tatbestandes unmittelbar ansetzt.
@@ -219,6 +235,7 @@ wird.
 
 
 #### § 14 Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000151309)
 
 (1) Beteiligen sich mehrere an einer Ordnungswidrigkeit, so handelt
 jeder von ihnen ordnungswidrig. Dies gilt auch dann, wenn besondere
@@ -243,6 +260,7 @@ dem sie vorliegen.
 
 
 #### § 15 Notwehr
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000161309)
 
 (1) Wer eine Handlung begeht, die durch Notwehr geboten ist, handelt
 nicht rechtswidrig.
@@ -256,6 +274,7 @@ Furcht oder Schrecken, so wird die Handlung nicht geahndet.
 
 
 #### § 16 Rechtfertigender Notstand
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE077770309)
 
 Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben,
 Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine
@@ -268,10 +287,12 @@ angemessenes Mittel ist, die Gefahr abzuwenden.
 
 
 ### Dritter Abschnitt - Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000041309)
 
 
 
 #### § 17 Höhe der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000174377)
 
 (1) Die Geldbuße beträgt mindestens fünf Euro und, wenn das Gesetz
 nichts anderes bestimmt, höchstens eintausend Euro.
@@ -294,6 +315,7 @@ werden.
 
 
 #### § 18 Zahlungserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000181309)
 
 Ist dem Betroffenen nach seinen wirtschaftlichen Verhältnissen nicht
 zuzumuten, die Geldbuße sofort zu zahlen, so wird ihm eine
@@ -305,10 +327,12 @@ zahlt.
 
 
 ### Vierter Abschnitt - Zusammentreffen mehrerer Gesetzesverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000051309)
 
 
 
 #### § 19 Tateinheit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000191309)
 
 (1) Verletzt dieselbe Handlung mehrere Gesetze, nach denen sie als
 Ordnungswidrigkeit geahndet werden kann, oder ein solches Gesetz
@@ -320,11 +344,13 @@ anderen Gesetz angedrohten Nebenfolgen kann erkannt werden.
 
 
 #### § 20 Tatmehrheit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000211309)
 
 Sind mehrere Geldbußen verwirkt, so wird jede gesondert festgesetzt.
 
 
 #### § 21 Zusammentreffen von Straftat und Ordnungswidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000221309)
 
 (1) Ist eine Handlung gleichzeitig Straftat und Ordnungswidrigkeit, so
 wird nur das Strafgesetz angewendet. Auf die in dem anderen Gesetz
@@ -336,10 +362,12 @@ wird.
 
 
 ### Fünfter Abschnitt - Einziehung von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000074123)
 
 
 
 #### § 22 Einziehung von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000232123)
 
 (1) Als Nebenfolge einer Ordnungswidrigkeit dürfen Gegenstände nur
 eingezogen werden, soweit das Gesetz es ausdrücklich zuläßt.
@@ -363,6 +391,7 @@ gehandelt hat.
 
 
 #### § 23 Erweiterte Voraussetzungen der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000241309)
 
 Verweist das Gesetz auf diese Vorschrift, so dürfen die Gegenstände
 abweichend von § 22 Abs. 2 Nr. 1 auch dann eingezogen werden, wenn
@@ -381,6 +410,7 @@ derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
 
 
 #### § 24 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000251309)
 
 (1) Die Einziehung darf in den Fällen des § 22 Abs. 2 Nr. 1 und des §
 23 nicht angeordnet werden, wenn sie zur Bedeutung der begangenen
@@ -412,6 +442,7 @@ werden.
 
 
 #### § 25 Einziehung des Wertersatzes
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000261309)
 
 (1) Hat der Täter den Gegenstand, der ihm zur Zeit der Handlung
 gehörte oder zustand und dessen Einziehung hätte angeordnet werden
@@ -442,6 +473,7 @@ nachträglich angeordnet werden.
 
 
 #### § 26 Wirkung der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000271309)
 
 (1) Wird ein Gegenstand eingezogen, so geht das Eigentum an der Sache
 oder das eingezogene Recht mit der Rechtskraft der Entscheidung auf
@@ -464,6 +496,7 @@ wenn sie noch nicht rechtskräftig ist.
 
 
 #### § 27 Selbständige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000282309)
 
 (1) Kann wegen der Ordnungswidrigkeit aus tatsächlichen Gründen keine
 bestimmte Person verfolgt oder eine Geldbuße gegen eine bestimmte
@@ -492,6 +525,7 @@ oder das Gericht das Verfahren einstellt.
 
 
 #### § 28 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000291309)
 
 (1) Stand das Eigentum an der Sache oder das eingezogene Recht zur
 Zeit der Rechtskraft der Entscheidung über die Einziehung einem
@@ -528,6 +562,7 @@ werden, soweit es eine unbillige Härte wäre, sie zu versagen.
 
 
 #### § 29 Sondervorschrift für Organe und Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000303377)
 
 (1) Hat jemand
 
@@ -566,10 +601,12 @@ dieser Vorschriften dem Vertretenen zugerechnet.
 
 
 ### Sechster Abschnitt - Einziehung des Wertes von Taterträgen, Geldbuße gegen juristische Personen und Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG004000123)
 
 
 
 #### § 29a Einziehung des Wertes von Taterträgen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078200123)
 
 (1) Hat der Täter durch eine mit Geldbuße bedrohte Handlung oder für
 sie etwas erlangt und wird gegen ihn wegen der Handlung eine Geldbuße
@@ -629,6 +666,7 @@ werden.
 
 
 #### § 30 Geldbuße gegen juristische Personen und Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000393123)
 
 (1) Hat jemand
 
@@ -715,10 +753,12 @@ an die Stelle des Urteils der Bußgeldbescheid tritt.
 
 
 ### Siebenter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000081309)
 
 
 
 #### § 31 Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000324377)
 
 (1) Durch die Verjährung werden die Verfolgung von
 Ordnungswidrigkeiten und die Anordnung von Nebenfolgen ausgeschlossen.
@@ -752,6 +792,7 @@ Verjährung mit diesem Zeitpunkt.
 
 
 #### § 32 Ruhen der Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000331309)
 
 (1) Die Verjährung ruht, solange nach dem Gesetz die Verfolgung nicht
 begonnen oder nicht fortgesetzt werden kann. Dies gilt nicht, wenn die
@@ -765,6 +806,7 @@ rechtskräftig abgeschlossen ist.
 
 
 #### § 33 Unterbrechung der Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000395360)
 
 (1) Die Verjährung wird unterbrochen durch
 
@@ -862,6 +904,7 @@ auf die Verfolgung der Tat als Straftat gerichtet ist.
 
 
 #### § 34 Vollstreckungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000353377)
 
 (1) Eine rechtskräftig festgesetzte Geldbuße darf nach Ablauf der
 Verjährungsfrist nicht mehr vollstreckt werden.
@@ -899,14 +942,17 @@ Rechtsfolge nicht früher als die der anderen.
 
 
 ## Zweiter Teil - Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000091309)
 
 
 
 ### Erster Abschnitt - Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000101309)
 
 
 
 #### § 35 Verfolgung und Ahndung durch die Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000361309)
 
 (1) Für die Verfolgung von Ordnungswidrigkeiten ist die
 Verwaltungsbehörde zuständig, soweit nicht hierzu nach diesem Gesetz
@@ -919,6 +965,7 @@ das Gericht berufen ist.
 
 
 #### § 36 Sachliche Zuständigkeit der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000372307)
 
 (1) Sachlich zuständig ist
 
@@ -951,6 +998,7 @@ sonstige Stelle übertragen.
 
 
 #### § 37 Örtliche Zuständigkeit der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000381309)
 
 (1) Örtlich zuständig ist die Verwaltungsbehörde, in deren Bezirk
 
@@ -982,6 +1030,7 @@ Bundesrepublik Deutschland zu führen.
 
 
 #### § 38 Zusammenhängende Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000391309)
 
 Bei zusammenhängenden Ordnungswidrigkeiten, die einzeln nach § 37 zur
 Zuständigkeit verschiedener Verwaltungsbehörden gehören würden, ist
@@ -992,6 +1041,7 @@ Tat mehrere Personen einer Ordnungswidrigkeit beschuldigt werden.
 
 
 #### § 39 Mehrfache Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000401309)
 
 (1) Sind nach den §§ 36 bis 38 mehrere Verwaltungsbehörden zuständig,
 so gebührt der Vorzug der Verwaltungsbehörde, die wegen der Tat den
@@ -1032,6 +1082,7 @@ Weise wieder aufgehoben werden.
 
 
 #### § 40 Verfolgung durch die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000412307)
 
 Im Strafverfahren ist die Staatsanwaltschaft für die Verfolgung der
 Tat auch unter dem rechtlichen Gesichtspunkt einer Ordnungswidrigkeit
@@ -1039,6 +1090,7 @@ zuständig, soweit ein Gesetz nichts anderes bestimmt.
 
 
 #### § 41 Abgabe an die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000421309)
 
 (1) Die Verwaltungsbehörde gibt die Sache an die Staatsanwaltschaft
 ab, wenn Anhaltspunkte dafür vorhanden sind, daß die Tat eine Straftat
@@ -1049,6 +1101,7 @@ einzuleiten, so gibt sie die Sache an die Verwaltungsbehörde zurück.
 
 
 #### § 42 Übernahme durch die Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000431309)
 
 (1) Die Staatsanwaltschaft kann bis zum Erlaß des Bußgeldbescheides
 die Verfolgung der Ordnungswidrigkeit übernehmen, wenn sie eine
@@ -1066,6 +1119,7 @@ die Entscheidung sachdienlich erscheint.
 
 
 #### § 43 Abgabe an die Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000441309)
 
 (1) Stellt die Staatsanwaltschaft in den Fällen des § 40 das Verfahren
 nur wegen der Straftat ein oder übernimmt sie in den Fällen des § 42
@@ -1080,12 +1134,14 @@ sie das Verfahren nur wegen der zusammenhängenden Straftat einstellt.
 
 
 #### § 44 Bindung der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000451309)
 
 Die Verwaltungsbehörde ist an die Entschließung der Staatsanwaltschaft
 gebunden, ob eine Tat als Straftat verfolgt wird oder nicht.
 
 
 #### § 45 Zuständigkeit des Gerichts
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000461309)
 
 Verfolgt die Staatsanwaltschaft die Ordnungswidrigkeit mit einer
 zusammenhängenden Straftat, so ist für die Ahndung der
@@ -1094,10 +1150,12 @@ zuständig ist.
 
 
 ### Zweiter Abschnitt - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000111309)
 
 
 
 #### § 46 Anwendung der Vorschriften über das Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078801360)
 
 (1) Für das Bußgeldverfahren gelten, soweit dieses Gesetz nichts
 anderes bestimmt, sinngemäß die Vorschriften der allgemeinen Gesetze
@@ -1173,6 +1231,7 @@ bestimmen.
 
 
 #### § 47 Verfolgung von Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000483377)
 
 (1) Die Verfolgung von Ordnungswidrigkeiten liegt im pflichtgemäßen
 Ermessen der Verfolgungsbehörde. Solange das Verfahren bei ihr
@@ -1192,11 +1251,13 @@ abhängig gemacht oder damit in Zusammenhang gebracht werden.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000492377)
 
 (weggefallen)
 
 
 #### § 49 Akteneinsicht des Betroffenen und der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000594123)
 
 (1) Die Verwaltungsbehörde gewährt dem Betroffenen auf Antrag Einsicht
 in die Akten, soweit der Untersuchungszweck, auch in einem anderen
@@ -1214,6 +1275,7 @@ auf Antrag zur Einsichtnahme übersandt.
 
 
 #### § 49a Verfahrensübergreifende Mitteilungen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014404130)
 
 (1) Von Amts wegen dürfen Gerichte, Staatsanwaltschaften und
 Verwaltungsbehörden personenbezogene Daten aus Bußgeldverfahren den
@@ -1289,6 +1351,7 @@ mitgewirkt hat, erfolgt.
 
 
 #### § 49b Verfahrensübergreifende Mitteilungen auf Ersuchen; sonstige Verwendung von Daten für verfahrensübergreifende Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014604130)
 
 Für die Erteilung von Auskünften und Gewährung von Akteneinsicht auf
 Ersuchen sowie die sonstige Verwendung von Daten aus Bußgeldverfahren
@@ -1324,6 +1387,7 @@ für verfahrensübergreifende Zwecke gelten die §§ 474 bis 476, 478 bis
 
 
 #### § 49c Dateiregelungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014702360)
 
 (1) Für die Verarbeitung und Nutzung personenbezogener Daten in
 Dateien gelten vorbehaltlich des § 496 Absatz 3 der
@@ -1370,6 +1434,7 @@ Jahre nicht übersteigen.
 
 
 #### § 49d Schutz personenbezogener Daten in einer elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014802123)
 
 § 496 Absatz 1 und 2 sowie die §§ 497 und 498 Absatz 1 der
 Strafprozessordnung gelten entsprechend, wobei in § 496 Absatz 1 und §
@@ -1378,6 +1443,7 @@ Strafverfahrens das jeweilige Bußgeldverfahren tritt.
 
 
 #### § 50 Bekanntmachung von Maßnahmen der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000511309)
 
 (1) Anordnungen, Verfügungen und sonstige Maßnahmen der
 Verwaltungsbehörde werden der Person, an die sich die Maßnahme
@@ -1392,6 +1458,7 @@ Anfechtung und die dafür vorgeschriebene Frist und Form zu belehren.
 
 
 #### § 51 Verfahren bei Zustellungen der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000595360)
 
 (1) Für das Zustellungsverfahren der Verwaltungsbehörde gelten die
 Vorschriften des Verwaltungszustellungsgesetzes, wenn eine
@@ -1432,6 +1499,7 @@ entsprechenden landesrechtlichen Vorschriften nicht anzuwenden.
 
 
 #### § 52 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000532309)
 
 (1) Für den befristeten Rechtsbehelf gegen den Bescheid der
 Verwaltungsbehörde gelten die §§ 44, 45, 46 Abs. 2 und 3 und § 47 der
@@ -1451,14 +1519,17 @@ zulässig.
 
 
 ### Dritter Abschnitt - Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000121309)
 
 
 
 #### I. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000131309)
 
 
 
 ##### § 53 Aufgaben der Polizei
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000542377)
 
 (1) Die Behörden und Beamten des Polizeidienstes haben nach
 pflichtgemäßem Ermessen Ordnungswidrigkeiten zu erforschen und dabei
@@ -1477,11 +1548,13 @@ Untersuchungen und sonstige Maßnahmen anordnen.
 
 
 ##### § 54
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001381309)
 
 (weggefallen)
 
 
 ##### § 55 Anhörung des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000562123)
 
 (1) § 163a Abs. 1 der Strafprozeßordnung ist mit der Einschränkung
 anzuwenden, daß es genügt, wenn dem Betroffenen Gelegenheit gegeben
@@ -1494,10 +1567,12 @@ Strafprozeßordnung ist nicht anzuwenden.
 
 
 #### II. - Verwarnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000141309)
 
 
 
 ##### § 56 Verwarnung durch die Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000593310)
 
 (1) Bei geringfügigen Ordnungswidrigkeiten kann die Verwaltungsbehörde
 den Betroffenen verwarnen und ein Verwarnungsgeld von fünf bis
@@ -1525,6 +1600,7 @@ verfolgt werden, unter denen die Verwarnung erteilt worden ist.
 
 
 ##### § 57 Verwarnung durch Beamte des Außen- und Polizeidienstes
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000581309)
 
 (1) Personen, die ermächtigt sind, die Befugnis nach § 56 für die
 Verwaltungsbehörde im Außendienst wahrzunehmen, haben sich
@@ -1537,6 +1613,7 @@ anderer Weise ausweisen.
 
 
 ##### § 58 Ermächtigung zur Erteilung der Verwarnung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000592307)
 
 (1) Die Ermächtigung nach § 57 Abs. 2 erteilt die oberste
 Dienstbehörde des Beamten oder die von ihr bestimmte Stelle. Die
@@ -1558,10 +1635,12 @@ welcher Höhe das Verwarnungsgeld erhoben werden soll.
 
 
 #### III. - Verfahren der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000151309)
 
 
 
 ##### § 59 Vergütung von Sachverständigen, Dolmetschern und Übersetzern, Entschädigung von Zeugen und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000602377)
 
 Für die Vergütung von Sachverständigen, Dolmetschern und Übersetzern
 sowie die Entschädigung von Zeugen und Dritten (§ 23 des
@@ -1570,6 +1649,7 @@ Justizvergütungs- und -entschädigungsgesetz anzuwenden.
 
 
 ##### § 60 Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000614360)
 
 Ist die Mitwirkung eines Verteidigers im Verfahren der
 Verwaltungsbehörde geboten (§ 140 Absatz 2 der Strafprozeßordnung), so
@@ -1580,6 +1660,7 @@ Satz 1, 2 der Strafprozeßordnung).
 
 
 ##### § 61 Abschluß der Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000621309)
 
 Sobald die Verwaltungsbehörde die Ermittlungen abgeschlossen hat,
 vermerkt sie dies in den Akten, wenn sie die weitere Verfolgung der
@@ -1587,6 +1668,7 @@ Ordnungswidrigkeit erwägt.
 
 
 ##### § 62 Rechtsbehelf gegen Maßnahmen der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000632309)
 
 (1) Gegen Anordnungen, Verfügungen und sonstige Maßnahmen, die von der
 Verwaltungsbehörde im Bußgeldverfahren getroffen werden, können der
@@ -1605,10 +1687,12 @@ bestimmt.
 
 
 #### IV. - Verfahren der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000161309)
 
 
 
 ##### § 63 Beteiligung der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000642377)
 
 (1) Hat die Staatsanwaltschaft die Verfolgung der Ordnungswidrigkeit
 übernommen (§ 42), so haben die mit der Ermittlung von
@@ -1632,6 +1716,7 @@ Verwaltungsbehörde entbehrt werden kann.
 
 
 ##### § 64 Erstreckung der öffentlichen Klage auf die Ordnungswidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000651309)
 
 Erhebt die Staatsanwaltschaft in den Fällen des § 42 wegen der
 Straftat die öffentliche Klage, so erstreckt sie diese auf die
@@ -1640,16 +1725,19 @@ bieten.
 
 
 ### Vierter Abschnitt - Bußgeldbescheid
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000171309)
 
 
 
 #### § 65 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000661309)
 
 Die Ordnungswidrigkeit wird, soweit dieses Gesetz nichts anderes
 bestimmt, durch Bußgeldbescheid geahndet.
 
 
 #### § 66 Inhalt des Bußgeldbescheides
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000672309)
 
 (1) Der Bußgeldbescheid enthält
 
@@ -1714,14 +1802,17 @@ Bußgeldbescheid nicht begründet zu werden.
 
 
 ### Fünfter Abschnitt - Einspruch und gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000181309)
 
 
 
 #### I. - Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000191309)
 
 
 
 ##### § 67 Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000684307)
 
 (1) Der Betroffene kann gegen den Bußgeldbescheid innerhalb von zwei
 Wochen nach Zustellung schriftlich oder zur Niederschrift bei der
@@ -1734,6 +1825,7 @@ werden.
 
 
 ##### § 68 Zuständiges Gericht
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000691309)
 
 (1) Bei einem Einspruch gegen den Bußgeldbescheid entscheidet das
 Amtsgericht, in dessen Bezirk die Verwaltungsbehörde ihren Sitz hat.
@@ -1767,6 +1859,7 @@ Landesjustizverwaltung übertragen.
 
 
 ##### § 69 Zwischenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000704377)
 
 (1) Ist der Einspruch nicht rechtzeitig, nicht in der vorgeschriebenen
 Form oder sonst nicht wirksam eingelegt, so verwirft ihn die
@@ -1819,6 +1912,7 @@ unanfechtbar.
 
 
 ##### § 70 Entscheidung des Gerichts über die Zulässigkeit des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000712309)
 
 (1) Sind die Vorschriften über die Einlegung des Einspruchs nicht
 beachtet, so verwirft das Gericht den Einspruch als unzulässig.
@@ -1827,10 +1921,12 @@ beachtet, so verwirft das Gericht den Einspruch als unzulässig.
 
 
 #### II. - Hauptverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000201309)
 
 
 
 ##### § 71 Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000722309)
 
 (1) Das Verfahren nach zulässigem Einspruch richtet sich, soweit
 dieses Gesetz nichts anderes bestimmt, nach den Vorschriften der
@@ -1856,6 +1952,7 @@ anzuwenden.
 
 
 ##### § 72 Entscheidung durch Beschluß
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000734307)
 
 (1) Hält das Gericht eine Hauptverhandlung nicht für erforderlich, so
 kann es durch Beschluß entscheiden, wenn der Betroffene und die
@@ -1909,6 +2006,7 @@ Beschluß Rechtsbeschwerde eingelegt wird.
 
 
 ##### § 73 Anwesenheit des Betroffenen in der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000796123)
 
 (1) Der Betroffene ist zum Erscheinen in der Hauptverhandlung
 verpflichtet.
@@ -1925,6 +2023,7 @@ nachgewiesener Vollmacht versehenen Verteidiger vertreten lassen.
 
 
 ##### § 74 Verfahren bei Abwesenheit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078400123)
 
 (1) Die Hauptverhandlung wird in Abwesenheit des Betroffenen
 durchgeführt, wenn er nicht erschienen ist und von der Verpflichtung
@@ -1952,6 +2051,7 @@ belehren.
 
 
 ##### § 75 Teilnahme der Staatsanwaltschaft an der Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000762307)
 
 (1) Die Staatsanwaltschaft ist zur Teilnahme an der Hauptverhandlung
 nicht verpflichtet. Das Gericht macht der Staatsanwaltschaft
@@ -1964,6 +2064,7 @@ nicht.
 
 
 ##### § 76 Beteiligung der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000771309)
 
 (1) Das Gericht gibt der Verwaltungsbehörde Gelegenheit, die
 Gesichtspunkte vorzubringen, die von ihrem Standpunkt für die
@@ -1984,6 +2085,7 @@ sind der Verwaltungsbehörde mitzuteilen.
 
 
 ##### § 77 Umfang der Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000783307)
 
 (1) Das Gericht bestimmt, unbeschadet der Pflicht, die Wahrheit von
 Amts wegen zu erforschen, den Umfang der Beweisaufnahme. Dabei
@@ -2012,6 +2114,7 @@ Beweiserhebung zur Erforschung der Wahrheit nicht erforderlich ist.
 
 
 ##### § 77a Vereinfachte Art der Beweisaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001436123)
 
 (1) Die Vernehmung eines Zeugen, Sachverständigen oder Mitbetroffenen
 darf durch Verlesung von Protokollen über eine frühere Vernehmung
@@ -2036,6 +2139,7 @@ Strafprozeßordnung bleiben unberührt.
 
 
 ##### § 77b Absehen von Urteilsgründen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001433377)
 
 (1) Von einer schriftlichen Begründung des Urteils kann abgesehen
 werden, wenn alle zur Anfechtung Berechtigten auf die Einlegung der
@@ -2061,6 +2165,7 @@ eingelegt wird.
 
 
 ##### § 78 Weitere Verfahrensvereinfachungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078500123)
 
 (1) Statt der Verlesung einer Urkunde kann das Gericht dessen
 wesentlichen Inhalt bekanntgeben; dies gilt jedoch nicht, soweit es
@@ -2087,10 +2192,12 @@ Vollstreckungsanordnung nach § 98 Abs. 1 treffen.
 
 
 #### III. - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000211309)
 
 
 
 ##### § 79 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000895123)
 
 (1) Gegen das Urteil und den Beschluß nach § 72 ist Rechtsbeschwerde
 zulässig, wenn
@@ -2155,6 +2262,7 @@ zurückverweisen.
 
 
 ##### § 80 Zulassung der Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000814377)
 
 (1) Das Beschwerdegericht läßt die Rechtsbeschwerde nach § 79 Abs. 1
 Satz 2 auf Antrag zu, wenn es geboten ist,
@@ -2210,6 +2318,7 @@ des Urteils eingetreten ist.
 
 
 ##### § 80a Besetzung der Bußgeldsenate der Oberlandesgerichte
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014502377)
 
 (1) Die Bußgeldsenate der Oberlandesgerichte sind mit einem Richter
 besetzt, soweit nichts anderes bestimmt ist.
@@ -2232,10 +2341,12 @@ Rechtsbeschwerde, nicht aber in Verfahren über deren Zulassung.
 
 
 ### Sechster Abschnitt - Bußgeld- und Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000221309)
 
 
 
 #### § 81 Übergang vom Bußgeld- zum Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000822309)
 
 (1) Das Gericht ist im Bußgeldverfahren an die Beurteilung der Tat als
 Ordnungswidrigkeit nicht gebunden. Jedoch darf es auf Grund eines
@@ -2259,6 +2370,7 @@ nach den §§ 77a und 78 Abs. 1.
 
 
 #### § 82 Bußgelderkenntnis im Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000831309)
 
 (1) Im Strafverfahren beurteilt das Gericht die in der Anklage
 bezeichnete Tat zugleich unter dem rechtlichen Gesichtspunkt einer
@@ -2271,6 +2383,7 @@ anzuwenden.
 
 
 #### § 83 Verfahren bei Ordnungswidrigkeiten und Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000842377)
 
 (1) Hat das Verfahren Ordnungswidrigkeiten und Straftaten zum
 Gegenstand und werden einzelne Taten nur als Ordnungswidrigkeiten
@@ -2296,10 +2409,12 @@ entscheiden.
 
 
 ### Siebenter Abschnitt - Rechtskraft und Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000231309)
 
 
 
 #### § 84 Wirkung der Rechtskraft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000851309)
 
 (1) Ist der Bußgeldbescheid rechtskräftig geworden oder hat das
 Gericht über die Tat als Ordnungswidrigkeit oder als Straftat
@@ -2313,6 +2428,7 @@ Beschwerdegerichts über die Tat als Ordnungswidrigkeit gleich.
 
 
 #### § 85 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000864377)
 
 (1) Für die Wiederaufnahme eines durch rechtskräftige
 Bußgeldentscheidung abgeschlossenen Verfahrens gelten die §§ 359 bis
@@ -2352,6 +2468,7 @@ Staatsanwaltschaft. § 69 Abs. 4 Satz 1 gilt entsprechend.
 
 
 #### § 86 Aufhebung des Bußgeldbescheides im Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000871309)
 
 (1) Ist gegen den Betroffenen ein Bußgeldbescheid ergangen und wird er
 später wegen derselben Handlung in einem Strafverfahren verurteilt, so
@@ -2371,10 +2488,12 @@ oder in der sonstigen abschließenden Entscheidung getroffen.
 
 
 ### Achter Abschnitt - Verfahren bei Anordnung von Nebenfolgen oder der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000242377)
 
 
 
 #### § 87 Anordnung der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000894123)
 
 (1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die Einziehung
 eines Gegenstandes zu entscheiden, so ist sie auch für die Anordnung
@@ -2416,6 +2535,7 @@ gelten nicht im Verfahren bei Anordnung der Einziehung nach § 29a.
 
 
 #### § 88 Festsetzung der Geldbuße gegen juristische Personen und Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078100123)
 
 (1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die
 Festsetzung einer Geldbuße gegen eine juristische Person oder eine
@@ -2436,16 +2556,19 @@ Personenvereinigung ihren Sitz oder eine Zweigniederlassung hat.
 
 
 ### Neunter Abschnitt - Vollstreckung der Bußgeldentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000251309)
 
 
 
 #### § 89 Vollstreckbarkeit der Bußgeldentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000901309)
 
 Bußgeldentscheidungen sind vollstreckbar, wenn sie rechtskräftig
 geworden sind.
 
 
 #### § 90 Vollstreckung des Bußgeldbescheides
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000914123)
 
 (1) Der Bußgeldbescheid wird, soweit das Gesetz nichts anderes
 bestimmt, nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes
@@ -2473,6 +2596,7 @@ Verwaltungsbehörde festgesetzten Ordnungsgeldes entsprechend.
 
 
 #### § 91 Vollstreckung der gerichtlichen Bußgeldentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000922307)
 
 Für die Vollstreckung der gerichtlichen Bußgeldentscheidung gelten §
 451 Abs. 1 und 2, die §§ 459 und 459g Abs. 1 sowie Abs. 2 in
@@ -2482,6 +2606,7 @@ Jugendliche und Heranwachsende auch § 82 Abs. 1, § 83 Abs. 2 sowie die
 
 
 #### § 92 Vollstreckungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000931309)
 
 Vollstreckungsbehörde im Sinne der nachfolgenden Vorschriften dieses
 Abschnitts ist in den Fällen des § 90 die Verwaltungsbehörde, die den
@@ -2490,6 +2615,7 @@ Vollstreckung obliegt.
 
 
 #### § 93 Zahlungserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000941309)
 
 (1) Nach Rechtskraft der Bußgeldentscheidung entscheidet über die
 Bewilligung von Zahlungserleichterungen (§ 18) die
@@ -2513,6 +2639,7 @@ Zahlungserleichterung bewilligen.
 
 
 #### § 94 Verrechnung von Teilbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000951309)
 
 Teilbeträge werden, wenn der Betroffene bei der Zahlung keine
 Bestimmung trifft, zunächst auf die Geldbuße, dann auf die etwa
@@ -2521,6 +2648,7 @@ zuletzt auf die Kosten des Verfahrens angerechnet.
 
 
 #### § 95 Beitreibung der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000961309)
 
 (1) Die Geldbuße oder der Teilbetrag einer Geldbuße wird vor Ablauf
 von zwei Wochen nach Eintritt der Fälligkeit nur beigetrieben, wenn
@@ -2534,6 +2662,7 @@ unterbleibt.
 
 
 #### § 96 Anordnung von Erzwingungshaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000971309)
 
 (1) Nach Ablauf der in § 95 Abs. 1 bestimmten Frist kann das Gericht
 auf Antrag der Vollstreckungsbehörde oder, wenn ihm selbst die
@@ -2572,6 +2701,7 @@ wiederholt werden.
 
 
 #### § 97 Vollstreckung der Erzwingungshaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000982307)
 
 (1) Für die Vollstreckung der Erzwingungshaft gilt § 451 Abs. 1 und 2
 der Strafprozeßordnung, im Verfahren gegen Jugendliche und
@@ -2590,6 +2720,7 @@ kann jedoch die Vollziehung aussetzen.
 
 
 #### § 98 Vollstreckung gegen Jugendliche und Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE000992307)
 
 (1) Wird die gegen einen Jugendlichen festgesetzte Geldbuße auch nach
 Ablauf der in § 95 Abs. 1 bestimmten Frist nicht gezahlt, so kann der
@@ -2637,6 +2768,7 @@ einen Heranwachsenden festgesetzten Geldbuße.
 
 
 #### § 99 Vollstreckung von Nebenfolgen, die zu einer Geldzahlung verpflichten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001003123)
 
 (1) Für die Vollstreckung von Nebenfolgen, die zu einer Geldzahlung
 verpflichten, gelten die §§ 93 und 95 entsprechend, für die
@@ -2657,6 +2789,7 @@ Betroffenen oder den Einziehungsbeteiligten an.
 
 
 #### § 100 Nachträgliche Entscheidungen über die Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001014377)
 
 (1) Über die Aufhebung des Vorbehalts der Einziehung und die
 nachträgliche Anordnung der Einziehung eines Gegenstandes oder des
@@ -2679,12 +2812,14 @@ Euro übersteigt.
 
 
 #### § 101 Vollstreckung in den Nachlaß
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001021309)
 
 In den Nachlaß des Betroffenen darf eine Geldbuße nicht vollstreckt
 werden.
 
 
 #### § 102 Nachträgliches Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001031309)
 
 (1) Wird nach Rechtskraft des Bußgeldbescheides wegen derselben
 Handlung die öffentliche Klage erhoben, so soll die
@@ -2696,6 +2831,7 @@ unterblieben, so sind sie von dem Gericht nachträglich zu treffen.
 
 
 #### § 103 Gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001042309)
 
 (1) Über Einwendungen gegen
 
@@ -2718,6 +2854,7 @@ gehemmt. Das Gericht kann jedoch die Vollstreckung aussetzen.
 
 
 #### § 104 Verfahren bei gerichtlicher Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001054377)
 
 (1) Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen werden erlassen
@@ -2764,14 +2901,17 @@ den übrigen Fällen ist die Entscheidung nicht anfechtbar.
 
 
 ### Zehnter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000261309)
 
 
 
 #### I. - Verfahren der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000271309)
 
 
 
 ##### § 105 Kostenentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001065377)
 
 (1) Im Verfahren der Verwaltungsbehörde gelten § 464 Abs. 1 und 2, §
 464a, § 464c, soweit die Kosten für Gebärdensprachdolmetscher
@@ -2789,6 +2929,7 @@ Landeskasse.
 
 
 ##### § 106 Kostenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001073377)
 
 (1) Die Höhe der Kosten und Auslagen, die ein Beteiligter einem
 anderen zu erstatten hat, wird auf Antrag durch die Verwaltungsbehörde
@@ -2814,6 +2955,7 @@ Geschäftsstelle des nach § 68 zuständigen Gerichts erteilt.
 
 
 ##### § 107 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE077803360)
 
 (1) Im Verfahren der Verwaltungsbehörde bemißt sich die Gebühr nach
 der Geldbuße, die gegen den Betroffenen im Bußgeldbescheid festgesetzt
@@ -2959,6 +3101,7 @@ Pauschale nicht erhoben.
 
 
 ##### § 108 Rechtsbehelf und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001095377)
 
 (1) Im Verfahren der Verwaltungsbehörde ist gegen den
 
@@ -2983,10 +3126,12 @@ wenn der Wert des Beschwerdegegenstandes zweihundert Euro übersteigt.
 
 
 #### II. - Verfahren der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000371309)
 
 
 
 ##### § 108a
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001402309)
 
 (1) Stellt die Staatsanwaltschaft nach Einspruch gegen den
 Bußgeldbescheid das Verfahren ein, bevor sie die Akten dem Gericht
@@ -3005,10 +3150,12 @@ zuständige Gericht.
 
 
 #### III. - Verfahren über die Zulässigkeit des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000282309)
 
 
 
 ##### § 109
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001103307)
 
 (1) Wird der Bescheid der Verwaltungsbehörde über die Verwerfung
 
@@ -3030,10 +3177,12 @@ gerichtlichen Verfahrens.
 
 
 #### IV. - Auslagen des Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000381309)
 
 
 
 ##### § 109a
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001412377)
 
 (1) War gegen den Betroffenen in einem Bußgeldbescheid wegen einer Tat
 lediglich eine Geldbuße bis zu zehn Euro festgesetzt worden, so
@@ -3049,10 +3198,12 @@ kann davon abgesehen werden, diese der Staatskasse aufzuerlegen.
 
 
 ### Elfter Abschnitt - Entschädigung für Verfolgungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000291309)
 
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001112309)
 
 (1) Die Entscheidung über die Entschädigungspflicht für einen
 Vermögensschaden, der durch eine Verfolgungsmaßnahme im
@@ -3076,10 +3227,12 @@ des Bundes das Verfahren durchführt, sonst das Land.
 
 
 ### Zwölfter Abschnitt - Aktenführung und Kommunikation im Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG003901123)
 
 
 
 #### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE014911130)
 
 (1) Die Akten können elektronisch geführt werden. Die Bundesregierung
 und die Landesregierungen bestimmen jeweils für ihren Bereich durch
@@ -3158,6 +3311,7 @@ Bußgeldverfahren wahrnehmen.
 
 
 #### § 110b Elektronische Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE015003360)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates elektronische Formulare einführen. Die Rechtsverordnung
@@ -3176,6 +3330,7 @@ ohne Zustimmung des Bundesrates auf die zuständigen Bundesministerien
 
 
 #### § 110c Entsprechende Geltung der Strafprozessordnung für Aktenführung und Kommunikation im Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE015103360)
 
 Im Übrigen gelten die §§ 32a, 32b und 32d bis 32f der
 Strafprozessordnung sowie die auf der Grundlage des § 32a Absatz 2
@@ -3193,14 +3348,17 @@ nehmenden Dokument inhaltlich und bildlich übereinstimmt.
 
 
 ## Dritter Teil - Einzelne Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000301309)
 
 
 
 ### Erster Abschnitt - Verstöße gegen staatliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000311309)
 
 
 
 #### § 111 Falsche Namensangabe
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001123377)
 
 (1) Ordnungswidrig handelt, wer einer zuständigen Behörde, einem
 zuständigen Amtsträger oder einem zuständigen Soldaten der Bundeswehr
@@ -3220,6 +3378,7 @@ mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
 
 #### § 112 Verletzung der Hausordnung eines Gesetzgebungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001132377)
 
 (1) Ordnungswidrig handelt, wer gegen Anordnungen verstößt, die ein
 Gesetzgebungsorgan des Bundes oder eines Landes oder sein Präsident
@@ -3241,6 +3400,7 @@ Mitglieder der Landesregierung und deren Beauftragte.
 
 
 #### § 113 Unerlaubte Ansammlung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001143377)
 
 (1) Ordnungswidrig handelt, wer sich einer öffentlichen Ansammlung
 anschließt oder sich nicht aus ihr entfernt, obwohl ein Träger von
@@ -3256,6 +3416,7 @@ einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
 
 #### § 114 Betreten militärischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001151309)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 einem Verbot der zuständigen Dienststelle eine militärische
@@ -3267,6 +3428,7 @@ gesperrt ist.
 
 
 #### § 115 Verkehr mit Gefangenen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001161309)
 
 (1) Ordnungswidrig handelt, wer unbefugt
 
@@ -3288,10 +3450,12 @@ können mit einer Geldbuße geahndet werden.
 
 
 ### Zweiter Abschnitt - Verstöße gegen die öffentliche Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000321309)
 
 
 
 #### § 116 Öffentliche Aufforderung zu Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001192360)
 
 (1) Ordnungswidrig handelt, wer öffentlich, in einer Versammlung oder
 durch Verbreiten eines Inhalts (§ 11 Absatz 3 des Strafgesetzbuches)
@@ -3303,6 +3467,7 @@ Geldbuße für die Handlung, zu der aufgefordert wird.
 
 
 #### § 117 Unzulässiger Lärm
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001182377)
 
 (1) Ordnungswidrig handelt, wer ohne berechtigten Anlaß oder in einem
 unzulässigen oder nach den Umständen vermeidbaren Ausmaß Lärm erregt,
@@ -3315,6 +3480,7 @@ Vorschriften geahndet werden kann.
 
 
 #### § 118 Belästigung der Allgemeinheit
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001191309)
 
 (1) Ordnungswidrig handelt, wer eine grob ungehörige Handlung
 vornimmt, die geeignet ist, die Allgemeinheit zu belästigen oder zu
@@ -3326,6 +3492,7 @@ kann.
 
 
 #### § 119 Grob anstößige und belästigende Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001296360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3357,6 +3524,7 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 #### § 120 Verbotene Ausübung der Prostitution
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001243123)
 
 (1) Ordnungswidrig handelt, wer einem durch Rechtsverordnung
 erlassenen Verbot, der Prostitution an bestimmten Orten überhaupt oder
@@ -3366,6 +3534,7 @@ zu bestimmten Tageszeiten nachzugehen, zuwiderhandelt.
 
 
 #### § 121 Halten gefährlicher Tiere
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001221309)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3384,6 +3553,7 @@ zu bestimmten Tageszeiten nachzugehen, zuwiderhandelt.
 
 
 #### § 122 Vollrausch
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001231309)
 
 (1) Wer sich vorsätzlich oder fahrlässig durch alkoholische Getränke
 oder andere berauschende Mittel in einen Rausch versetzt, handelt
@@ -3398,6 +3568,7 @@ Rausch begangene Handlung angedroht ist.
 
 
 #### § 123 Einziehung, Unbrauchbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE077901360)
 
 (1) Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 119
 bezieht, können eingezogen werden.
@@ -3428,10 +3599,12 @@ bestimmten Vorrichtungen.
 
 
 ### Dritter Abschnitt - Mißbrauch staatlicher oder staatlich geschützter Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000331309)
 
 
 
 #### § 124 Benutzen von Wappen oder Dienstflaggen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001251309)
 
 (1) Ordnungswidrig handelt, wer unbefugt
 
@@ -3452,6 +3625,7 @@ solche gleich, die ihnen zum Verwechseln ähnlich sind.
 
 
 #### § 125 Benutzen des Roten Kreuzes oder des Schweizer Wappens
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001261309)
 
 (1) Ordnungswidrig handelt, wer unbefugt das Wahrzeichen des roten
 Kreuzes auf weißem Grund oder die Bezeichnung "Rotes Kreuz" oder
@@ -3473,6 +3647,7 @@ gleichstehen.
 
 
 #### § 126 Mißbrauch von Berufstrachten oder Berufsabzeichen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001271309)
 
 (1) Ordnungswidrig handelt, wer unbefugt
 
@@ -3495,6 +3670,7 @@ gleich, die ihnen zum Verwechseln ähnlich sind.
 
 
 #### § 127 Herstellen oder Verwenden von Sachen, die zur Geld- oder Urkundenfälschung benutzt werden können
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001297360)
 
 (1) Ordnungswidrig handelt, wer ohne schriftliche Erlaubnis der
 zuständigen Stelle oder des sonst dazu Befugten
@@ -3549,6 +3725,7 @@ einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 #### § 128 Herstellen oder Verbreiten von papiergeldähnlichen Drucksachen oder Abbildungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001295377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3589,16 +3766,19 @@ einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 #### § 129 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001395377)
 
 Gegenstände, auf die sich eine Ordnungswidrigkeit nach den §§ 124, 126
 bis 128 bezieht, können eingezogen werden.
 
 
 ### Vierter Abschnitt - Verletzung der Aufsichtspflicht in Betrieben und Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000341309)
 
 
 
 #### § 130
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001397360)
 
 (1) Wer als Inhaber eines Betriebes oder Unternehmens vorsätzlich oder
 fahrlässig die Aufsichtsmaßnahmen unterläßt, die erforderlich sind, um
@@ -3625,10 +3805,12 @@ Höchstmaß der Geldbuße das Höchstmaß nach Satz 1 übersteigt.
 
 
 ### Fünfter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000351309)
 
 
 
 #### § 131
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE078700360)
 
 (1) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 ist
 
@@ -3692,10 +3874,12 @@ bedrohte Pflichtverletzung nur mit Geldbuße bedroht wäre.
 
 
 ## Vierter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNG000361309)
 
 
 
 ### § 132 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001331309)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -3704,6 +3888,7 @@ des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 133 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001394123)
 
 (1) Die Anwesenheit des Betroffenen in der Hauptverhandlung und das
 Verfahren bei seiner Abwesenheit richten sich nach dem Recht, das zu
@@ -3735,6 +3920,7 @@ zum 1. Juli 2017 geltenden Fassung anzuwenden.
 
 
 ### § 134 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in Strafsachen und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001353123)
 
 Die Bundesregierung und die Landesregierungen können jeweils für ihren
 Bereich durch Rechtsverordnung bestimmen, dass die Einreichung
@@ -3747,6 +3933,7 @@ zuständigen Bundes- oder Landesministerien übertragen.
 
 
 ### § 135
+[Direktlink](https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html#BJNR004810968BJNE001361309)
 
 (Inkrafttreten)
 

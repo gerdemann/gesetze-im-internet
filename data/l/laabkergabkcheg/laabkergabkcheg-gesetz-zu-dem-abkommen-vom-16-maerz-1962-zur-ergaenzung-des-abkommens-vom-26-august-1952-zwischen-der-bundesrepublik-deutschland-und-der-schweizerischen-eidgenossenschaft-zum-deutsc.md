@@ -20,16 +20,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/laabkergabkcheg/BJNR204530964.html#BJNR204530964BJNE000100325)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/laabkergabkcheg/BJNR204530964.html#BJNR204530964BJNE000200325)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/laabkergabkcheg/BJNR204530964.html#BJNR204530964BJNE000300325)
 
 Das Abkommen wird vom Inkrafttreten des Lastenausgleichsgesetzes vom
 14\. August 1952 (BGBl. I S. 446) an (§ 375 des
@@ -39,12 +42,14 @@ vom 1. Juni 1961 an.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/laabkergabkcheg/BJNR204530964.html#BJNR204530964BJNE000400325)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/laabkergabkcheg/BJNR204530964.html#BJNR204530964BJNE000500325)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

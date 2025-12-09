@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000100307)
 
 Auf Grund des § 31c und des § 31d Abs. 2 Satz 3 des
 Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
@@ -29,6 +30,7 @@ Bundesministerium für Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000204116)
 
 Der im Vereinsregister des Amtsgerichts Braunschweig unter der Nummer
 200069 eingetragene Deutsche Aero Club e.V. wird beauftragt, die
@@ -66,6 +68,7 @@ Luftraums durch Luftsportgeräte wahrzunehmen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000303116)
 
 Der im Vereinsregister des Amtsgerichts München unter der Nummer 10635
 eingetragene Deutsche Ultraleichtflugverband e.V. wird beauftragt, die
@@ -103,6 +106,7 @@ Luftraums durch Luftsportgeräte wahrzunehmen:
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000401308)
 
 Der im Vereinsregister des Amtsgerichts München unter der Nummer 9767
 eingetragene Deutsche Hängegleiterverband e.V. wird beauftragt, die
@@ -137,6 +141,7 @@ Zulassungs-Ordnung) wahrzunehmen:
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000901311)
 
 Die in den §§ 1 und 3 genannten Vereine werden beauftragt, die
 folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des
@@ -171,6 +176,7 @@ wahrzunehmen:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000501308)
 
 Der in § 1 genannte Verein und der im Vereinsregister des Amtsgerichts
 Weilheim, Zweigstelle Schongau, unter der Nummer 180 eingetragene
@@ -205,6 +211,7 @@ wahrzunehmen:
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE001000308)
 
 Der in § 1 genannte Verein und der im Vereinsregister des Amtsgerichts
 Bonn unter der Nummer 4321 eingetragene Deutsche Modellflieger Verband
@@ -232,6 +239,7 @@ Abs. 1 Nr. 8 Luftverkehrs-Zulassungs-Ordnung) wahrzunehmen:
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000601308)
 
 (1) Die Beauftragten sind verpflichtet, ihre Aufgaben neutral und
 unabhängig von der Mitgliedschaft in einem der genannten oder in
@@ -256,6 +264,7 @@ Koordinierungssitzungen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000704305)
 
 Die Rechts- und Fachaufsicht über die in den §§ 1 bis 4a beauftragten
 Luftsportverbände wird auf das Luftfahrt-Bundesamt übertragen. Soweit
@@ -266,6 +275,7 @@ Entscheidung vorgelegt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/beauftrv/BJNR211100993.html#BJNR211100993BJNE000804305)
 
 (1) Mit dem Inkrafttreten dieser Verordnung werden alle bisher vom
 Bundesministerium für Verkehr und digitale Infrastruktur erteilten

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Einlagerer
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000202116)
 
 Dient das Steuerlager der Einlagerung von Energieerzeugnissen durch
 Dritte (Einlagerer) im Sinne des § 7 Absatz 4 Satz 1 des
@@ -34,6 +35,7 @@ des Energiesteuergesetzes nicht erfüllt sind.
 
 
 ## § 2 Ermittlung der für die Erfüllung der Quotenverpflichtung notwendigen Biokraftstoffmenge
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000304116)
 
 (1) Der nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a
 Absatz 3 des Bundes-Immissionsschutzgesetzes Verpflichtete
@@ -58,6 +60,7 @@ nachzuweisen.
 
 
 ## § 3 Erfüllung der Quotenverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000403116)
 
 (1) Der Verpflichtete hat durch die in § 2 genannten Aufzeichnungen
 und sonstige geeignete betriebliche Unterlagen die Erfüllung der
@@ -74,6 +77,7 @@ gebrachten Mengen Biokraftstoffe ersichtlich sein.
 
 
 ## § 4 Nachweis der Biokraftstoffeigenschaft
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000502116)
 
 Der Verpflichtete hat die Biokraftstoffeigenschaft nachzuweisen. Der
 Nachweis ist durch eine Herstellererklärung oder mit Zustimmung der
@@ -94,6 +98,7 @@ sind, können diese anerkannt werden.
 
 
 ## § 5 Klimatisch abhängige Anforderungen für beigemischte Fettsäuremethylester (FAME)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000603116)
 
 Wird FAME Dieselkraftstoff beigemischt, gelten abweichend von § 37b
 Absatz 2 des Bundes-Immissionsschutzgesetzes in Verbindung mit § 5 der
@@ -115,6 +120,7 @@ zuständigen Stelle in anderer geeigneter Form nachzuweisen.
 
 
 ## § 6 Mitteilungspflichten des Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000702116)
 
 Der Dritte hat der nach § 8 zuständigen Stelle die nach § 37c Absatz 1
 Satz 4 bis 6 des Bundes-Immissionsschutzgesetzes erforderlichen
@@ -125,6 +131,7 @@ Absatz 2 genannten Aufzeichnungen zu belegen.
 
 
 ## § 7 Bagatellgrenze
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000904116)
 
 Die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit §
 37a Absatz 4 des Bundes-Immissionsschutzgesetzes entsteht erst, wenn
@@ -136,6 +143,7 @@ ausschließlich Dieselkraftstoff in Verkehr gebracht wird.
 
 
 ## § 8 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE001201116)
 
 Zuständige Stelle im Sinne des § 37d Absatz 1 Satz 1 des Bundes-
 Immissionsschutzgesetzes ist das Hauptzollamt Frankfurt (Oder), soweit
@@ -143,6 +151,7 @@ diese Verordnung nichts anderes bestimmt.
 
 
 ## § 9 Tierische Fette und Öle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE001302116)
 
 (1) Biokraftstoffe, die zielgerichtet vollständig oder teilweise aus
 tierischen Fetten oder Ölen hergestellt werden, können nicht auf die
@@ -211,6 +220,7 @@ den Sätzen 1 und 2 zur Verfügung stellt.
 
 
 ## § 10 Zugänglichkeit der DIN-Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE001002116)
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
 Verlag GmbH, Berlin, erschienen und in der Deutschen
@@ -218,6 +228,7 @@ Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 
 ## § 11 Anpassung der Treibhausgasminderungs-Quote
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE002100130)
 
 Die in § 37a Absatz 4 Satz 2 des Bundes-Immissionsschutzgesetzes
 genannten Prozentsätze für das Kalenderjahr 2024 und die nachfolgenden
@@ -226,6 +237,7 @@ Kalenderjahre werden um jeweils 0,1 Prozentpunkte angehoben.
 (zu § 4)
 
 ## Anlage Nachweis der Einhaltung der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_36/BJNR006010007.html#BJNR006010007BJNE000803116)
 
 (Fundstelle: BGBl. I 2011, 1106 - 1107;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

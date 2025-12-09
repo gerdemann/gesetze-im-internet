@@ -23,9 +23,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000101119)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000205119)
 
 (1) Dieses Gesetz regelt in Umsetzung und Durchführung der Rechtsakte
 der Europäischen Gemeinschaft oder der Europäischen Union
@@ -92,6 +94,7 @@ gerechtfertigt oder unionsrechtlich zwingend ist.
 
 
 ### § 2 Begriffsbestimmungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000304119)
 
 (1) Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -217,6 +220,7 @@ Agrarorganisationen für derartige Erzeugnisse besteht.
 
 
 ### § 3 Zuständigkeit; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000403119)
 
 (1) Zuständig für die Durchführung dieses Gesetzes, der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen und des in § 1 Absatz 1,
@@ -240,9 +244,11 @@ oder der Käufer oder beide in Deutschland niedergelassen ist oder sind
 
 
 ## Teil 2 - Agrarorganisationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000201119)
 
 
 ### § 4 Voraussetzungen und Verfahren der Anerkennung; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000504119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz durch
@@ -347,6 +353,7 @@ Agrarorganisationen ist das allgemeine Recht anzuwenden.
 
 
 ### § 5 Allgemeinverbindlichkeit; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001403119)
 
 (1) Soweit das Unionsrecht den Mitgliedstaaten die Möglichkeit
 eröffnet, dass Vereinbarungen, Beschlüsse oder aufeinander abgestimmte
@@ -430,6 +437,7 @@ die Ermächtigung auf oberste Landesbehörden übertragen.
 
 
 ### § 6 Kartellbestimmungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000604119)
 
 (1) Für Tätigkeiten, die eine Agrarorganisation in dem von ihrer
 Anerkennung umfassten Bereich vornimmt und die dem in § 1 Absatz 1
@@ -466,6 +474,7 @@ Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 
 ### § 7 Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001305119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz durch
@@ -512,6 +521,7 @@ werden.
 
 
 ### § 8 Agrarorganisationenregister; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000702119)
 
 (1) Jede zuständige Stelle führt für die Agrarorganisationen, für
 deren Anerkennung sie zuständig ist, ein Register zum Zweck der
@@ -576,6 +586,7 @@ erforderlichen Registerdaten von der in Absatz 1 genannten Stelle zu
 
 
 ### § 9 Mitteilungen und Veröffentlichung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001601119)
 
 (1) Die zuständigen Stellen können Daten, die sie im Rahmen der
 Anerkennung oder Überwachung gewonnen haben, den folgenden Stellen
@@ -608,15 +619,19 @@ funktionierenden Wettbewerbs veröffentlichen.
 
 
 ## Teil 3 - Geschäftsbeziehungen in der Agrar-, Fischerei- und Lebensmittellieferkette
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000402119)
 
 
 ### Kapitel 1 - Unlautere Handelspraktiken in der Agrar-, Fischerei- und Lebensmittellieferkette
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000502119)
 
 
 #### Abschnitt 1 - Unlautere Handelspraktiken
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000601119)
 
 
 ##### § 10 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001702119)
 
 (1) Dieser Abschnitt gilt für den Verkauf von Agrar-, Fischerei- und
 Lebensmittelerzeugnissen durch Lieferanten, die einen globalen
@@ -717,6 +732,7 @@ erfüllt sind, wie hoch ihr jeweiliger Jahresumsatz ist.
 
 
 ##### § 11 Zahlungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001801119)
 
 (1) Für Entgeltforderungen aus Verträgen gemäß § 10 Absatz 1 gelten
 die allgemeinen Vorschriften, soweit nachfolgend nichts anderes
@@ -767,6 +783,7 @@ kommt der Schuldner spätestens in Verzug, wenn er nicht innerhalb von
 
 
 ##### § 12 Vereinbarung über das Zurückschicken nicht verkaufter Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001902119)
 
 Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass er
 nicht verkaufte Agrar-, Fischerei- oder Lebensmittelerzeugnisse an den
@@ -786,6 +803,7 @@ zwölf Monate weiter zum Verkauf geeignet sind.
 
 
 ##### § 13 Vereinbarung einer kurzfristigen Beendigung des Vertrages über den Kauf von verderblichen Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002001119)
 
 Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass er
 den Vertrag über den Kauf von verderblichen Agrar-, Fischerei- oder
@@ -799,6 +817,7 @@ immer als kurzfristig im Sinne des Satzes 1 anzusehen.
 
 
 ##### § 14 Vereinbarung von Zahlungen oder Preisnachlässen für die Lagerung von Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002102119)
 
 Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass
 sich der Lieferant an den Kosten der Lagerung der gelieferten Agrar-,
@@ -809,6 +828,7 @@ Erzeugnisse gemeinsam zu nutzen.
 
 
 ##### § 15 Vereinbarung über einseitige Vertragsänderung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002201119)
 
 Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass
 der Käufer den Vertrag über die Lieferung von Agrar-, Fischerei- oder
@@ -846,6 +866,7 @@ Lebensmittelerzeugnissen einseitig ändern kann in Bezug auf
 
 
 ##### § 16 Vereinbarung über die Kostenübernahme durch den Lieferanten
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002301119)
 
 (1) Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren,
 dass der Lieferant Kosten zu tragen hat, die dem Käufer ohne ein
@@ -873,6 +894,7 @@ verursacht werden.
 
 
 ##### § 17 Vereinbarung über Zahlungen oder Preisnachlässe für die Listung von Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002401119)
 
 Der Käufer kann mit dem Lieferanten nicht wirksam vereinbaren, dass
 sich der Lieferant an den Kosten für die Listung der zu liefernden
@@ -882,6 +904,7 @@ die Listung bei der Markteinführung von Erzeugnissen entstehen.
 
 
 ##### § 18 Androhung von Vergeltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002501119)
 
 Der Käufer darf dem Lieferanten keine Vergeltungsmaßnahmen
 geschäftlicher Art androhen oder derartige Maßnahmen gegen den
@@ -900,6 +923,7 @@ Lieferanten ergreifen, wenn der Lieferant
 
 
 ##### § 19 Bestätigung des Vertragsinhalts
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002601119)
 
 Der Käufer hat dem Lieferanten auf Verlangen den Inhalt eines mündlich
 geschlossenen Liefervertrages oder einer diesem zugrunde liegenden
@@ -920,6 +944,7 @@ Rahmenvereinbarung muss nicht nach Satz 1 bestätigt werden, wenn
 
 
 ##### § 20 Mangels Vereinbarung unlautere Handelspraktiken
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002702119)
 
 (1) Das Verlangen des Käufers vom Lieferanten nach
 
@@ -969,6 +994,7 @@ verlangen.
 
 
 ##### § 21 Vorlage einer Zahlungen- und Kostenschätzung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002802119)
 
 Wurden Zahlungen oder Preisnachlässe nach § 20 Absatz 1 Nummer 2
 zwischen Käufer und Lieferant vereinbart, kann der Lieferant
@@ -997,6 +1023,7 @@ Rahmen von Verkaufsaktionen.
 
 
 ##### § 22 Wirksamkeit des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE002901119)
 
 (1) Die allgemeinen Vorschriften über die Wirksamkeit von Verträgen
 und Vertragsbestimmungen, insbesondere die §§ 134, 138 und 305 bis 310
@@ -1011,6 +1038,7 @@ gesetzlichen Vorschriften.
 
 
 ##### § 23 Verbot der unlauteren Handelspraktiken
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003002119)
 
 Die Ausnutzung des wirtschaftlichen Ungleichgewichts zwischen dem
 Käufer und dem Lieferanten durch unlautere Handelspraktiken des
@@ -1099,6 +1127,7 @@ Ungleichgewichts nach Satz 1 liegt ausschließlich vor, wenn der Käufer
 
 
 ##### § 24 Anwendbarkeit des Gesetzes gegen Wettbewerbsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003101119)
 
 Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen,
 insbesondere die §§ 19 und 20 des Gesetzes gegen
@@ -1107,9 +1136,11 @@ Zuständigkeiten des Bundeskartellamts bleiben unberührt.
 
 
 #### Abschnitt 2 - Beschwerderecht des Lieferanten; alternative Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000701119)
 
 
 ##### § 25 Beschwerde; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003202119)
 
 (1) Eine Beschwerde bei der Durchsetzungsbehörde können unbeschadet
 anderweitiger Rechtsbehelfe einlegen:
@@ -1159,6 +1190,7 @@ Beschwerdeverfahren näher zu regeln.
 
 
 ##### § 26 Vertrauliche Behandlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003301119)
 
 (1) Auf Antrag des Beschwerdeführers trifft die Durchsetzungsbehörde
 die erforderlichen Maßnahmen, um
@@ -1189,6 +1221,7 @@ Zustimmungserklärung der Durchsetzungsbehörde vorzulegen.
 
 
 ##### § 27 Vereinbarung über alternative Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003401119)
 
 Unbeschadet des Rechts des Lieferanten, nach § 25 eine Beschwerde
 einzulegen, und der Befugnisse der Durchsetzungsbehörde nach § 28
@@ -1201,9 +1234,11 @@ Schutz von Geschäftsgeheimnissen verboten ist.
 
 
 #### Abschnitt 3 - Befugnisse und Aufgaben der Durchsetzungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000801119)
 
 
 ##### § 28 Befugnisse der Durchsetzungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003503119)
 
 (1) Die Durchsetzungsbehörde hat die Befugnis,
 
@@ -1269,6 +1304,7 @@ höchstens drei Monaten auf ihrer Internetseite bekannt.
 
 
 ##### § 28a Informationsaustausch mit dem Bundeskartellamt
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE006300119)
 
 Die Durchsetzungsbehörde und das Bundeskartellamt können unabhängig
 von der jeweils gewählten Verfahrensart untereinander Informationen
@@ -1279,6 +1315,7 @@ verwerten. Beweisverwertungsverbote bleiben unberührt.
 
 
 ##### § 29 Tätigkeitsbericht der Durchsetzungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003601119)
 
 Die Durchsetzungsbehörde veröffentlicht jährlich einen Bericht über
 ihre Tätigkeit. Der Bericht hat für das jeweilige Vorjahr Folgendes zu
@@ -1298,6 +1335,7 @@ umfassen:
 
 
 ##### § 30 Gegenseitige Amtshilfe der Durchsetzungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003701119)
 
 (1) Die Durchsetzungsbehörde hat den Durchsetzungsbehörden der anderen
 Mitgliedstaaten der Europäischen Union sowie der Europäischen
@@ -1342,6 +1380,7 @@ verwendet werden, zu dem sie angefordert wurden.
 
 
 ##### § 31 Austausch mit anderen Durchsetzungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003801119)
 
 Die Durchsetzungsbehörde nimmt an den regelmäßigen Treffen der
 Durchsetzungsbehörden der Mitgliedstaaten der Europäischen Union nach
@@ -1349,12 +1388,15 @@ Artikel 8 Absatz 2 der Richtlinie (EU) 2019/633 teil.
 
 
 #### Abschnitt 4 - Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000901119)
 
 
 ##### Unterabschnitt 1 - Gerichtsverfahren in Verwaltungssachen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG001001119)
 
 
 ###### § 32 Zuständigkeit, Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE003901119)
 
 (1) Über eine Klage gegen die Durchsetzungsbehörde entscheidet das für
 Beschwerden gegen Entscheidungen des Bundeskartellamts zuständige
@@ -1365,12 +1407,14 @@ anzuwenden.
 
 
 ###### § 33 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004001119)
 
 Die Klage gegen eine Verfügung der Durchsetzungsbehörde hat keine
 aufschiebende Wirkung.
 
 
 ###### § 34 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004101119)
 
 (1) Die Klage ist binnen einer Frist von einem Monat bei der
 Durchsetzungsbehörde schriftlich einzureichen. Die Frist beginnt mit
@@ -1403,12 +1447,14 @@ Rechtsanwalt unterzeichnet sein.
 
 
 ###### § 35 Beteiligtenfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004201119)
 
 Fähig, am Verfahren beteiligt zu sein, sind außer natürlichen und
 juristischen Personen auch nichtrechtsfähige Personenvereinigungen.
 
 
 ###### § 36 Verfahrensbeteiligte
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004302119)
 
 An dem Verfahren vor dem zuständigen Gericht sind beteiligt:
 
@@ -1427,6 +1473,7 @@ An dem Verfahren vor dem zuständigen Gericht sind beteiligt:
 
 
 ###### § 37 Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004402119)
 
 Vor dem zuständigen Gericht müssen sich die Beteiligten durch einen
 Rechtsanwalt als Bevollmächtigten vertreten lassen. Die
@@ -1435,6 +1482,7 @@ vertreten lassen.
 
 
 ###### § 38 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004501119)
 
 (1) Das zuständige Gericht entscheidet über die Klage auf Grund
 mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne
@@ -1447,6 +1495,7 @@ verhandelt und entschieden werden.
 
 
 ###### § 39 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004601119)
 
 (1) Das zuständige Gericht erforscht den Sachverhalt von Amts wegen.
 
@@ -1479,6 +1528,7 @@ der nicht beigebrachten Beweismittel entschieden werden.
 
 
 ###### § 40 Gerichtsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004701119)
 
 (1) Das zuständige Gericht entscheidet durch Urteil oder, wenn nach
 Einverständnis der Beteiligten nach § 38 Absatz 1 ohne mündliche
@@ -1518,6 +1568,7 @@ Rechtsmittelbelehrung den Beteiligten zuzustellen.
 
 
 ###### § 41 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004802119)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -1568,6 +1619,7 @@ entsprechend anzuwenden.
 
 
 ###### § 42 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE004902119)
 
 (1) Die in § 36 Nummer 1 und 2 bezeichneten Beteiligten können die
 Akten des zuständigen Gerichts einsehen und sich von der
@@ -1602,6 +1654,7 @@ gleichem Umfang gewähren.
 
 
 ###### § 43 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005001119)
 
 Für Verfahren vor dem zuständigen Gericht gelten, soweit nichts
 anderes bestimmt ist, folgende Vorschriften entsprechend:
@@ -1627,6 +1680,7 @@ anderes bestimmt ist, folgende Vorschriften entsprechend:
 
 
 ###### § 44 Zulassung der Revision, absolute Revisionsgründe
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005102119)
 
 (1) Gegen Entscheidungen des Oberlandesgerichts findet die Revision an
 den Bundesgerichtshof statt, wenn das Oberlandesgericht die Revision
@@ -1679,6 +1733,7 @@ Mängel des Verfahrens vorliegt und gerügt wird:
 
 
 ###### § 45 Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005201119)
 
 (1) Die Nichtzulassung der Revision kann selbständig durch
 Nichtzulassungsbeschwerde angefochten werden.
@@ -1714,6 +1769,7 @@ Lauf der Beschwerdefrist.
 
 
 ###### § 46 Revisionsberechtigte, Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005301119)
 
 (1) Die Revision steht der Durchsetzungsbehörde sowie den am
 Klageverfahren Beteiligten zu.
@@ -1738,6 +1794,7 @@ Gericht zuständig.
 
 
 ###### § 47 Kostentragung und Kostenfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005401119)
 
 Im Klageverfahren und im Revisionsverfahren kann das Gericht anordnen,
 dass die Kosten, die zur zweckentsprechenden Erledigung der
@@ -1751,9 +1808,11 @@ Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 ##### Unterabschnitt 2 - Gerichtsverfahren in Bußgeldsachen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG001101119)
 
 
 ###### § 48 Befugnisse und Zuständigkeiten im gerichtlichen Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005502119)
 
 (1) Im gerichtlichen Bußgeldverfahren kann dem Vertreter der
 Durchsetzungsbehörde gestattet werden, Fragen an Betroffene, Zeugen
@@ -1772,6 +1831,7 @@ die der Staatskasse auferlegten Kosten trägt.
 
 
 ###### § 49 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005601119)
 
 (1) Das nach § 32 Absatz 1 zuständige Gericht entscheidet
 
@@ -1794,6 +1854,7 @@ Mitgliedern, das vorsitzende Mitglied eingeschlossen.
 
 
 ###### § 50 Rechtsbeschwerde beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005701119)
 
 Über die Rechtsbeschwerde (§ 79 des Gesetzes über
 Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die
@@ -1803,6 +1864,7 @@ Entscheidung aufgehoben wird, zurück.
 
 
 ###### § 51 Wiederaufnahmeverfahren gegen den Bußgeldbescheid
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005801119)
 
 Im Wiederaufnahmeverfahren gegen den Bußgeldbescheid der
 Durchsetzungsbehörde (§ 85 Absatz 4 des Gesetzes über
@@ -1811,6 +1873,7 @@ Gericht.
 
 
 ###### § 52 Gerichtliche Entscheidungen bei der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE005901119)
 
 Die bei der Vollstreckung notwendig werdenden gerichtlichen
 Entscheidungen (§ 104 des Gesetzes über Ordnungswidrigkeiten) werden
@@ -1818,9 +1881,11 @@ von dem nach § 32 Absatz 1 zuständigen Gericht erlassen.
 
 
 ##### Unterabschnitt 3 - Gemeinsame Bestimmungen für das gerichtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG001300119)
 
 
 ###### § 52a Zuständiger Senat bei dem Oberlandesgericht
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE006100119)
 
 Der nach § 91 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen bei
 dem Oberlandesgericht gebildete Kartellsenat entscheidet über die nach
@@ -1828,6 +1893,7 @@ diesem Gesetz dem Oberlandesgericht zugewiesenen Rechtssachen.
 
 
 ###### § 52b Zuständiger Senat beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE006200119)
 
 (1) Der nach § 94 des Gesetzes gegen Wettbewerbsbeschränkungen beim
 Bundesgerichtshof gebildete Kartellsenat entscheidet über folgende
@@ -1849,9 +1915,11 @@ entsprechend.
 
 
 ### Kapitel 2 - Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG001201119)
 
 
 #### § 53 Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern von Agrarerzeugnissen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001503119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz durch
@@ -1900,9 +1968,11 @@ Rechtsverordnung nach Absatz 1
 
 
 ## Teil 4 - Überwachung, Sanktionen, Verordnungsermächtigungen, Übergangsvorschriften, Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNG000301119)
 
 
 ### § 54 Überwachung; Mitteilungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000805119)
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Klimaschutz durch
@@ -1934,6 +2004,7 @@ Vorschriften
 
 
 ### § 55 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE000905119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1998,6 +2069,7 @@ Nummer 1a und 1b die Durchsetzungsbehörde.
 
 
 ### § 56 Rechtsverordnungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001005119)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
 der Zustimmung des Bundesrates bedarf, Vorschriften dieses Gesetzes zu
@@ -2013,10 +2085,12 @@ Monaten begrenzt wird.
 
 
 ### § 57 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001103119)
 
 
 
 ### § 58 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE001202119)
 
 (1) Anerkennungen von Agrarorganisationen, die auf Grund der bis zum
 24\. April 2013 geltenden Vorschriften erteilt worden sind, bleiben
@@ -2029,6 +2103,7 @@ anzupassen.
 
 
 ### § 59 Evaluierung der Regelungen über unlautere Handelspraktiken
+[Direktlink](https://www.gesetze-im-internet.de/agrarmsg/BJNR091710013.html#BJNR091710013BJNE006003119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft bewertet
 unter Beteiligung des Bundesministeriums für Wirtschaft und

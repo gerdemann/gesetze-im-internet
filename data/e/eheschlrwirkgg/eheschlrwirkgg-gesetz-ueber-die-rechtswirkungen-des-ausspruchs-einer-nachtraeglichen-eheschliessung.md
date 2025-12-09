@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000100305)
 
 (1) Hat auf Grund einer bis zum 31. März 1946 ergangenen Anordnung
 einer obersten Verwaltungsbehörde ein Standesbeamter ausgesprochen,
@@ -60,10 +61,12 @@ Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000200305)
 
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000300305)
 
 Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er
 erschlichen ist oder wenn begründete Zweifel bestehen, ob der Mann die
@@ -71,6 +74,7 @@ Ehe geschlossen hätte.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000400305)
 
 (1) Niemand kann sich auf die Rechtsunwirksamkeit des Ausspruchs
 berufen, solange er nicht durch gerichtliches Urteil für
@@ -95,6 +99,7 @@ Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000500305)
 
 (1) Rechtskräftige gerichtliche Entscheidungen, die auf der
 Feststellung beruhen, daß durch den Ausspruch des Standesbeamten eine
@@ -114,6 +119,7 @@ Landes Rheinland-Pfalz ergangen sind, bleiben unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000600305)
 
 (1) Vermögensrechtliche Erklärungen, die von den Beteiligten im
 Zusammenhang mit dem Ausspruch abgegeben worden sind, sind
@@ -125,6 +131,7 @@ die sich auf die vermögensrechtlichen Folgen des Ausspruchs beziehen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/eheschlrwirkgg/BJNR002150951.html#BJNR002150951BJNE000700305)
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

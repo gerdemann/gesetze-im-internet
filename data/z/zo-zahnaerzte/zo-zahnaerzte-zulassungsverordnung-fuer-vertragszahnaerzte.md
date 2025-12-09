@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE001700333)
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der
 Fassung des Gesetzes über Änderungen von Vorschriften des Zweiten
@@ -31,10 +32,12 @@ Bundesrates verordnet:
 
 
 ## Abschnitt I - Zahnarztregister
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000100333)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE001803308)
 
 (1) Für jeden Zulassungsbezirk führt die Kassenzahnärztliche
 Vereinigung neben dem Zahnarztregister die Registerakten.
@@ -54,6 +57,7 @@ dort und bei Vertragszahnärzten angestellten Zahnärzte entsprechend.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE001901308)
 
 (1) Das Zahnarztregister muß die Angaben über die Person und die
 berufliche Tätigkeit des Zahnarztes enthalten, die für die Zulassung
@@ -63,6 +67,7 @@ von Bedeutung sind.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002003308)
 
 (1) Die Eintragung in das Zahnarztregister ist bei der nach § 4
 zuständigen Kassenzahnärztlichen Vereinigung zu beantragen.
@@ -106,6 +111,7 @@ erworben haben und zur Berufsausübung zugelassen sind.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002101308)
 
 (1) Der Zahnarzt ist in das Zahnarztregister des Zulassungsbezirks
 einzutragen, in dem er seinen Wohnort hat. Sofern er keinen Wohnort im
@@ -137,6 +143,7 @@ Erklärung des Antragstellers allein nicht.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002202308)
 
 (1) Verzieht ein im Zahnarztregister eingetragener nicht zugelassener
 Zahnarzt aus dem bisherigen Zulassungsbezirk, so wird er auf seinen
@@ -153,6 +160,7 @@ Stelle zu übersenden.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002303308)
 
 (1) Die Zulassung eines Zahnarztes ist als solche im Zahnarztregister
 kenntlich zu machen.
@@ -172,6 +180,7 @@ den Registerakten zu entfernen und zu vernichten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002400333)
 
 Der Zahnarzt wird im Zahnarztregister gestrichen, wenn
 
@@ -193,6 +202,7 @@ d)  die Voraussetzungen nach § 3 Abs. 2 Buchstabe b auf Grund falscher
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002500333)
 
 (1) Über Eintragungen und Streichungen im Zahnarztregister und in den
 Registerakten beschließt der Vorstand der Kassenzahnärztlichen
@@ -204,6 +214,7 @@ auf Eintragung oder Streichung einen schriftlichen Bescheid.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002603308)
 
 (1) Die Kassenzahnärztlichen Vereinigungen, die Krankenkassen und die
 Landesverbände der Krankenkassen können das Zahnarztregister und bei
@@ -219,6 +230,7 @@ Einsicht zu überlassen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002700333)
 
 (1) Die Kassenzahnärztliche Bundesvereinigung führt das
 Bundeszahnarztregister nach dem Muster der Anlage.
@@ -233,10 +245,12 @@ Kassenzahnärztlichen Vereinigung unverzüglich mit.
 
 
 ## Abschnitt II - Bildung und Abgrenzung der Zulassungsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000200333)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002802308)
 
 (1) Die Zulassungsbezirke werden von den Kassenzahnärztlichen
 Vereinigungen und den Landesverbänden der Krankenkassen sowie den
@@ -252,10 +266,12 @@ Blättern bekanntzugeben.
 
 
 ## Abschnitt III - Bedarfsplanung
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000300333)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE002906308)
 
 (1) Durch die den Kassenzahnärztlichen Vereinigungen im Einvernehmen
 mit den Landesverbänden der Krankenkassen und den Ersatzkassen
@@ -322,6 +338,7 @@ Rücksicht nehmen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003008308)
 
 (1) Die Kassenzahnärztlichen Vereinigungen haben andere Träger der
 Krankenversicherung und die kommunalen Verbände, soweit deren Belange
@@ -361,6 +378,7 @@ von der Auswertung und dem Beratungsergebnis unterrichten.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003103308)
 
 (1) Kommt das Einvernehmen bei der Aufstellung und Fortentwicklung des
 Bedarfsplans zwischen der Kassenzahnärztlichen Vereinigung, den
@@ -390,10 +408,12 @@ Begründung für die Beanstandung oder die Ersatzvornahme zuzuleiten.
 
 
 ## Abschnitt IV - Unterversorgung
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000400333)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003201308)
 
 Weist der Bedarfsplan einen Bedarf an Vertragszahnärzten für einen
 bestimmten Versorgungsbereich aus und werden für einen Zeitraum von
@@ -404,6 +424,7 @@ Bekanntmachungen vorgesehenen Blättern auszuschreiben.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003303308)
 
 (1) Der Landesausschuss der Zahnärzte und Krankenkassen hat von Amts
 wegen zu prüfen, ob in einem Planungsbereich eine ärztliche
@@ -425,29 +446,35 @@ Landesausschuß kann bestimmte Maßnahmen empfehlen.
 
 
 ## Abschnitt IVa - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001701308)
 
 
 
 ### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007202308)
 
 (weggefallen)
 
 
 ### § 16b
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007304308)
 
 (weggefallen)
 
 
 ## Abschnitt V - Voraussetzungen für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000500333)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003402308)
 
 (weggefallen)
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003505126)
 
 (1) Der Antrag muß schriftlich gestellt werden. In dem Antrag ist
 anzugeben, für welchen Vertragszahnarztsitz und gegebenenfalls unter
@@ -517,10 +544,12 @@ nachzuweisende Sachverhalt glaubhaft zu machen.
 
 
 ## Abschnitt VI - Zulassung und Vertragszahnarztsitz
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000601308)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003603308)
 
 (1) Über den Antrag befindet der Zulassungsausschuß durch Beschluß.
 
@@ -534,6 +563,7 @@ späteren Zeitpunkt festsetzen.
 
 
 ### § 19a
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007800308)
 
 (1) Die Zulassung verpflichtet den Zahnarzt, die vertragszahnärztliche
 Tätigkeit vollzeitig auszuüben.
@@ -552,6 +582,7 @@ Vorschriften dieses Abschnitts.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003705360)
 
 (1) Ein Beschäftigungsverhältnis oder eine andere nicht ehrenamtliche
 Tätigkeit steht der Eignung für die Ausübung der
@@ -587,6 +618,7 @@ unanfechtbar geworden ist.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003801308)
 
 Ungeeignet für die Ausübung der vertragszahnärztlichen Tätigkeit ist
 ein Zahnarzt, der aus gesundheitlichen oder sonstigen in der Person
@@ -607,10 +639,12 @@ Anordnung nach Satz 3 haben keine aufschiebende Wirkung.
 
 
 ### (XXXX) §§ 22 u. 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE003900333)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004006311)
 
 (1) Die Zulassung erfolgt für den Ort der Niederlassung als Zahnarzt
 (Vertragszahnarztsitz).
@@ -699,15 +733,18 @@ erbracht werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004102308)
 
 (weggefallen)
 
 
 ## Abschnitt VII - Ruhen, Entziehung und Ende der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000700333)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004205126)
 
 (1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung
 eines Vertragszahnarztes zu beschließen, wenn
@@ -740,6 +777,7 @@ Vereinigung (Registerstelle) ein besonderes Verzeichnis.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004305126)
 
 Der Zulassungsausschuß hat von Amts wegen über die vollständige oder
 hälftige Entziehung der Zulassung zu beschließen, wenn die
@@ -753,6 +791,7 @@ Zulassung beim Zulassungsausschuß unter Angabe der Gründe beantragen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004404308)
 
 (1) Der Verzicht auf die Zulassung wird mit dem Ende des auf den
 Zugang der Verzichtserklärung des Vertragszahnarztes beim
@@ -770,14 +809,17 @@ Landesverbände der Krankenkassen dem Zulassungsausschuß mitzuteilen.
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004501308)
 
 
 
 ## Abschnitt VIII - Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG000901308)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004711126)
 
 (1) Die Zulassungsausschüsse können über den Kreis der zugelassenen
 Zahnärzte hinaus weitere Zahnärzte oder in besonderen Fällen
@@ -855,6 +897,7 @@ geleitete Einrichtungen ermächtigt werden.
 
 
 ### § 31a
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007501308)
 
 (1) Die Zulassungsausschüsse können Krankenhauszahnärzte mit
 abgeschlossener Weiterbildung mit Zustimmung des Krankenhausträgers
@@ -877,10 +920,12 @@ schriftliche Zustimmungserklärung des Krankenhausträgers beizufügen. §
 
 
 ## Abschnitt IX - Vertreter, Assistenten, angestellte Zahnärzte und Berufsausübungsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001002308)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004804308)
 
 (1) Der Vertragszahnarzt hat die vertragszahnärztliche Tätigkeit
 persönlich in freier Praxis auszuüben. Bei Krankheit, Urlaub oder
@@ -934,6 +979,7 @@ der vertragszahnärztlichen Pflichten anzuhalten.
 
 
 ### § 32a
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007601308)
 
 Der ermächtigte Zahnarzt hat die in dem Ermächtigungsbeschluß
 bestimmte vertragszahnärztliche Tätigkeit persönlich auszuüben. Bei
@@ -944,6 +990,7 @@ Ermächtigungen nach § 31 Abs. 1 Buchstabe b.
 
 
 ### § 32b
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007706119)
 
 (1) Der Vertragszahnarzt kann Zahnärzte nach Maßgabe des § 95 Abs. 9
 des Fünften Buches Sozialgesetzbuch anstellen. In den
@@ -986,6 +1033,7 @@ zulässig.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE004903308)
 
 (1) Die gemeinsame Nutzung von Praxisräumen und Praxiseinrichtungen
 sowie die gemeinsame Beschäftigung von Hilfspersonal durch mehrere
@@ -1034,10 +1082,12 @@ einheitlich in den Bundesmantelverträgen zu regeln.
 
 
 ## Abschnitt X - Zulassungs- und Berufungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001100333)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005002308)
 
 (1) Der Zulassungsausschuß besteht aus sechs Mitgliedern, und zwar aus
 je drei Vertretern der Zahnärzte und der Krankenkassen sowie aus
@@ -1079,6 +1129,7 @@ entsprechend.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005100333)
 
 (1) Der Berufungsausschuß besteht aus einem Vorsitzenden mit der
 Befähigung zum Richteramt und aus je drei Vertretern der Zahnärzte und
@@ -1093,14 +1144,17 @@ Berufungsausschuß sein.
 
 
 ## Abschnitt XI - Verfahren vor den Zulassungs- und Berufungsausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001200333)
 
 
 
 ### 1. - Zulassungsausschuß für Zahnärzte
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001300333)
 
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005202126)
 
 (1) Der Zulassungsausschuß beschließt in Sitzungen. Sitzungen sind im
 Regelfall als Präsenzsitzungen bei persönlicher Anwesenheit aller
@@ -1160,6 +1214,7 @@ an der Sitzung teilnehmen.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005303126)
 
 (1) Über Zulassungen und über die Entziehung von Zulassungen
 beschließt der Zulassungsausschuß nach mündlicher Verhandlung. In
@@ -1206,6 +1261,7 @@ Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005400333)
 
 Über gebührenpflichtige Anträge wird erst nach Entrichtung der nach §
 46 zu zahlenden Gebühr verhandelt. Wird die Gebühr nach Anforderung
@@ -1216,6 +1272,7 @@ Anforderung zu vermerken.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005501301)
 
 (1) Der Zulassungsausschuß erhebt die ihm erforderlich erscheinenden
 Beweise.
@@ -1226,6 +1283,7 @@ entsprechend dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005600333)
 
 Die Sitzung ist nicht öffentlich. Sie beginnt nach dem Aufruf der
 Sache mit der Darstellung des Sachverhalts durch den Vorsitzenden oder
@@ -1237,6 +1295,7 @@ Anträge stellen.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005702126)
 
 (1) Beratung und Beschlußfassung erfolgen in Abwesenheit der am
 Verfahren Beteiligten. Die Anwesenheit eines von der
@@ -1277,6 +1336,7 @@ erhalten, wenn sie ein berechtigtes Interesse nachweisen.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005801308)
 
 Über jede Sitzung ist eine Niederschrift anzufertigen. Sie soll die
 Namen der Sitzungsteilnehmer, die Anträge und wesentlichen Erklärungen
@@ -1289,16 +1349,19 @@ haben.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE005900333)
 
 Die Akten des Zulassungsausschusses sind fünf Jahre, Niederschriften
 und Urschriften von Beschlüssen zwanzig Jahre aufzubewahren.
 
 
 ### 2. - Berufungsausschuß für Zahnärzte (Widerspruchsverfahren)
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001400333)
 
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006001308)
 
 Der Widerspruch ist schriftlich oder zur Niederschrift der
 Geschäftsstelle des Berufungsausschusses beim Berufungsausschuß
@@ -1306,6 +1369,7 @@ einzulegen. Er muß den Beschluß bezeichnen, gegen den er sich richtet.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006100333)
 
 (1) Der Widerspruch gilt als zurückgenommen, wenn die Gebühr nach § 46
 nicht innerhalb der gesetzten Frist entrichtet ist. Die Zahlungsfrist
@@ -1320,10 +1384,12 @@ beschließt.
 
 
 ## Abschnitt XII - Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001500333)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006206126)
 
 (1) Für das Verfahren werden nachstehende Gebühren erhoben:
 
@@ -1441,20 +1507,24 @@ nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
 
 
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNG001600333)
 
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006300333)
 
 Diese Zulassungsordnung tritt am Ersten des auf die Verkündung
 folgenden Monats in Kraft.
 
 
 ### (XXXX) §§ 48 bis 52
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006400333)
 
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006500333)
 
 (1) Nach dem Inkrafttreten dieser Zulassungsordnung sind
 Zahnarztregister nach dem in § 2 vorgeschriebenen Muster anzulegen.
@@ -1463,11 +1533,13 @@ Zahnarztregister nach dem in § 2 vorgeschriebenen Muster anzulegen.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006600333)
 
 -
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006700333)
 
 Für die nach §§ 8 und 9 des Gesetzes über die Ausübung der
 Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S. 221) bestallten
@@ -1476,6 +1548,7 @@ Zulassungsordnung das Datum der staatlichen Anerkennung als Dentist.
 
 
 ### § 55a
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE006800333)
 
 Bei Fachzahnärzten für Kieferorthopädie, die bis zum 1. Juli 1976 den
 Antrag auf Eintragung in das Zahnarztregister stellen, entfällt das
@@ -1483,11 +1556,13 @@ Erfordernis des § 3 Abs. 3 Satz 1, zweiter Halbsatz.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007000333)
 
 Der Bundesminister für Arbeit
 
 
 ### Anlage (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE007101308)
 
 (Fundstelle: BGBl. I 1988, 2576)
 Muster für das Zahnarztregister
@@ -1545,6 +1620,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III
 (BGBl. II 1990, 889, 1056)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/zo-zahn_rzte/BJNR005820957.html#BJNR005820957BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

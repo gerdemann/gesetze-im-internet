@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -33,6 +34,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000200000)
 
 Der Ausbildungsberuf des Augenoptikers und der Augenoptikerin wird
 nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
@@ -40,11 +42,13 @@ nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -120,6 +124,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -141,6 +146,7 @@ durchzusehen.
 
 
 ## § 5 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000600000)
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinander
 fallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen,
@@ -162,6 +168,7 @@ Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000700000)
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -225,6 +232,7 @@ Instandsetzung von Sehhilfen.
 
 
 ## § 7 Teil 2 der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000800000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -366,6 +374,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -445,6 +454,7 @@ gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -454,6 +464,7 @@ Zwischenprüfung abgelegt wurde.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Augenoptiker/zur
@@ -462,6 +473,7 @@ Augenoptikerin vom 4. März 1997 (BGBl. I S. 436) außer Kraft.
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
+[Direktlink](https://www.gesetze-im-internet.de/augenoptausbv/BJNR069800011.html#BJNR069800011BJNE001200000)
 
 (Fundstelle: BGBl. I 2011, 701 - 704)
 

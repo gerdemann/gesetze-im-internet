@@ -24,9 +24,11 @@ Fundstelle
 
 
 ## Kapitel 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000200000)
 
 (1) In diesem Gesetz wird ein Verfahren zur Beilegung von
 Streitigkeiten zwischen der Bundesrepublik Deutschland und einem oder
@@ -50,6 +52,7 @@ Aufgabe zur Post das Datum der Mitteilung gilt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000300000)
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
@@ -140,6 +143,7 @@ Begriff nach anderen Gesetzen des genannten Mitgliedstaats hat.
 
 
 ### § 3 Verfahrenssprache
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000400000)
 
 Jegliche Kommunikation zwischen der betroffenen Person und der
 zuständigen Behörde der Bundesrepublik Deutschland in Bezug auf die
@@ -147,9 +151,11 @@ Anwendung dieses Gesetzes hat in deutscher Sprache zu erfolgen.
 
 
 ## Kapitel 2 - Streitbeilegungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000200000)
 
 
 ### § 4 Einreichung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000500000)
 
 (1) Jede betroffene Person ist berechtigt, eine Beschwerde über eine
 Streitfrage („Streitbeilegungsbeschwerde“) bei jeder der zuständigen
@@ -185,6 +191,7 @@ Zusammenhang mit der Streitfrage steht, unzulässig.
 
 
 ### § 5 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000600000)
 
 Die Streitbeilegungsbeschwerde hat zu enthalten:
 
@@ -287,6 +294,7 @@ Die Streitbeilegungsbeschwerde hat zu enthalten:
 
 
 ### § 6 Eingangsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000700000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland bestätigt
 gegenüber der betroffenen Person, welche die
@@ -302,6 +310,7 @@ Verfahrens zu kommunizieren beabsichtigt.
 
 
 ### § 7 Informationsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000800000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland kann die
 betroffene Person, welche die Streitbeilegungsbeschwerde eingereicht
@@ -319,6 +328,7 @@ Behörden der anderen betroffenen Mitgliedstaaten zu übermitteln.
 
 
 ### § 8 Entscheidung über die Zulassung oder Zurückweisung der Streitbeilegungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE000900000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland trifft
 innerhalb von sechs Monaten ab Eingang der Streitbeilegungsbeschwerde
@@ -381,6 +391,7 @@ so gilt die Streitbeilegungsbeschwerde als zugelassen.
 
 
 ### § 9 Rechtsbehelfe gegen die Zurückweisung der Streitbeilegungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001000000)
 
 (1) Ist zu dem Zeitpunkt, zu dem der betroffenen Person die ablehnende
 Entscheidung der anderen betroffenen Mitgliedstaaten zugeht, die Frist
@@ -405,6 +416,7 @@ dieser Entscheidung hiervon nicht abweichen darf.
 
 
 ### § 10 Ersetzung der Zulassung durch den Beratenden Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001100000)
 
 (1) Wurde die Streitbeilegungsbeschwerde von der zuständigen Behörde
 mindestens eines betroffenen Mitgliedstaats, jedoch nicht von den
@@ -466,6 +478,7 @@ betroffene Person, dass ein Verständigungsverfahren veranlasst wurde.
 
 
 ### § 11 Rücknahme der Streitbeilegungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001200000)
 
 (1) Die betroffene Person, welche die Streitbeilegungsbeschwerde
 eingereicht hat, kann diese jederzeit zurücknehmen. Über die Rücknahme
@@ -482,6 +495,7 @@ unverzüglich über die Beendigung der Verfahren.
 
 
 ### § 12 Erledigung der Streitbeilegungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001300000)
 
 (1) Wird eine Streitfrage in der Bundesrepublik Deutschland aus
 rechtlichen oder tatsächlichen Gründen gegenstandslos, werden im
@@ -509,9 +523,11 @@ Absatz 2.
 
 
 ## Kapitel 3 - Verständigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000300000)
 
 
 ### § 13 Einleitung und Einigungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001400000)
 
 (1) Haben alle zuständigen Behörden der betroffenen Mitgliedstaaten
 eine Streitbeilegungsbeschwerde zugelassen, bemüht sich die zuständige
@@ -559,6 +575,7 @@ unverzüglich über eine Verlängerung der Einigungsfrist.
 
 
 ### § 14 Informationsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001500000)
 
 Sofern die zuständige Behörde der Bundesrepublik Deutschland es für
 erforderlich hält, kann sie die betroffene Person auch im Rahmen des
@@ -569,6 +586,7 @@ Informationsersuchen nicht gehemmt.
 
 
 ### § 15 Einigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001600000)
 
 (1) Sobald die zuständigen Behörden der betroffenen Mitgliedstaaten
 innerhalb der Einigungsfrist eine Einigung darüber erzielt haben, wie
@@ -603,6 +621,7 @@ entsprechend.
 
 
 ### § 16 Beendigung ohne Einigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001700000)
 
 (1) Haben die zuständigen Behörden der betroffenen Mitgliedstaaten
 innerhalb der Einigungsfrist keine Einigung darüber erzielt, wie die
@@ -624,9 +643,11 @@ nicht abgewichen werden darf.
 
 
 ## Kapitel 4 - Streitbeilegung durch den Beratenden Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000400000)
 
 
 ### § 17 Stellungnahme des Beratenden Ausschusses
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001800000)
 
 (1) Wurde nach § 16 Absatz 1 keine Einigung darüber erzielt, wie die
 Streitfrage gelöst werden soll, kann die betroffene Person, welche die
@@ -676,6 +697,7 @@ Mitgliedstaaten.
 
 
 ### § 18 Abschließende Entscheidung durch die zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE001900000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland einigt sich
 mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten
@@ -716,6 +738,7 @@ Abgabenordnung gilt entsprechend.
 
 
 ### § 19 Veröffentlichung der abschließenden Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002000000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland kann mit den
 zuständigen Behörden der anderen betroffenen Mitgliedstaaten die
@@ -775,6 +798,7 @@ zu veröffentlichenden Informationen.
 
 
 ### § 20 Versagungsgründe und vorzeitige Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002100000)
 
 (1) Abweichend von § 17 Absatz 1 Satz 1 kann die zuständige Behörde
 der Bundesrepublik Deutschland den Antrag auf Einsetzung eines
@@ -821,9 +845,11 @@ nicht abgewichen werden darf.
 
 
 ## Kapitel 5 - Verfahrensregelungen für den Beratenden Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000500000)
 
 
 ### § 21 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002200000)
 
 Der Beratende Ausschuss setzt sich zusammen aus
 
@@ -847,6 +873,7 @@ werden.
 
 
 ### § 22 Einsetzungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002300000)
 
 Geht bei der zuständigen Behörde der Bundesrepublik Deutschland ein
 Antrag nach § 10 Absatz 1 oder § 17 Absatz 1 auf Einsetzung eines
@@ -859,6 +886,7 @@ betroffene Person unverzüglich über die Einsetzung.
 
 
 ### § 23 Vorlage von Informationen und Erscheinen vor dem Beratenden Ausschuss
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002400000)
 
 (1) Für die Zwecke eines Verfahrens vor dem Beratenden Ausschuss kann
 eine betroffene Person dem Beratenden Ausschuss jegliche
@@ -918,6 +946,7 @@ gegen die Geheimhaltungspflicht nach den Absätzen 5 und 6 zu ahnden.
 
 
 ### § 24 Benennung der unabhängigen Personen und des Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002500000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland und die
 zuständigen Behörden der anderen betroffenen Mitgliedstaaten einigen
@@ -980,6 +1009,7 @@ Vorsitzenden per Losentscheid.
 
 
 ### § 25 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002600000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland kann die
 Benennung einer bestimmten unabhängigen Person für den Beratenden
@@ -1039,6 +1069,7 @@ Gesetzes von Neuem.
 
 
 ### § 26 Liste der unabhängigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002700000)
 
 (1) Für die Liste der unabhängigen Personen der Kommission, die alle
 von den Mitgliedstaaten benannten unabhängigen Personen enthält,
@@ -1080,6 +1111,7 @@ Kommission umgehend von seiner Entscheidung in Kenntnis.
 
 
 ### § 27 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002800000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland einigt sich
 mit den zuständigen Behörden der anderen betroffenen Mitgliedstaaten
@@ -1162,9 +1194,11 @@ für die Anwendung der Geschäftsordnung zu erwirken.
 
 
 ## Kapitel 6 - Sonderregelungen für natürliche Personen und kleinere Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000600000)
 
 
 ### § 28 Verfahrenserleichterungen für natürliche Personen und kleinere Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE002900000)
 
 (1) Eine betroffene Person, die
 
@@ -1213,9 +1247,11 @@ Deutschland als zugegangen.
 
 
 ## Kapitel 7 - Alternative Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000700000)
 
 
 ### § 29 Ausschuss für Alternative Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE003000000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland kann mit den
 zuständigen Behörden der anderen betroffenen Mitgliedstaaten
@@ -1229,6 +1265,7 @@ werden.
 
 
 ### § 30 Anwendbare Regelungen dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE003100000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland und die
 zuständigen Behörden der anderen betroffenen Mitgliedstaaten können
@@ -1258,9 +1295,11 @@ dieser verbindlichen Stellungnahme gilt § 18.
 
 
 ## Kapitel 8 - Schlussbestimmungen und gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNG000800000)
 
 
 ### § 31 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE003200000)
 
 (1) Die zuständige Behörde der Bundesrepublik Deutschland trägt zu
 gleichen Teilen mit den zuständigen Behörden der anderen betroffenen
@@ -1303,12 +1342,14 @@ zustimmen.
 
 
 ### § 32 Schutz von Informationen und Geheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE003300000)
 
 Regelungen zum Schutz von Informationen und zum Schutz des Handels-,
 Geschäfts-, Gewerbe- und Berufsgeheimnisses sind anzuwenden.
 
 
 ### § 33 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/eu-dba-sbg/BJNR210310019.html#BJNR210310019BJNE003400000)
 
 (1) Dieses Gesetz ist auf alle Streitbeilegungsbeschwerden anzuwenden,
 die ab dem 1. Juli 2019 zu Streitfragen im Zusammenhang mit Einkommen

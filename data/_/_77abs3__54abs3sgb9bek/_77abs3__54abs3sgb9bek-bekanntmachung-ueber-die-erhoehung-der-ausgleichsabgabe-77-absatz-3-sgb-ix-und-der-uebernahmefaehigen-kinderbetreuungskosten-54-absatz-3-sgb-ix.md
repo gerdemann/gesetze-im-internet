@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/_77abs3__54abs3sgb9bek/BJNR519640011.html#BJNR519640011BJNE000100000)
 
 
 1.  Gemäß § 77 Absatz 3 des Neunten Buches Sozialgesetzbuch (SGB IX)
@@ -59,6 +60,7 @@ Fundstelle
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/_77abs3__54abs3sgb9bek/BJNR519640011.html#BJNR519640011BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

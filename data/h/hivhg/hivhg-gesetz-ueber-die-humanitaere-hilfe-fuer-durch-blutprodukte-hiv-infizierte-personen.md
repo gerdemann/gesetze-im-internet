@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE000800305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000100305)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE000901116)
 
 Zweck des Gesetzes ist es, aus humanitären und sozialen Gründen und
 unabhängig von bisher erbrachten Entschädigungs- und sozialen
@@ -40,19 +43,23 @@ Angehörige zeitlich begrenzt finanzielle Hilfe zu leisten.
 
 
 ### § 2 Mittel für finanzielle Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001001116)
 
 Die Mittel für die finanzielle Hilfe werden vom Bund aufgebracht.
 
 
 ## Teil 2 - Stiftung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000200305)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000300305)
 
 
 
 #### § 3 Errichtung und Sitz
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001100305)
 
 (1) Unter dem Namen "Humanitäre Hilfe für durch Blutprodukte HIV-
 infizierte Personen" wird eine rechtsfähige Stiftung des öffentlichen
@@ -63,12 +70,14 @@ Gesetzes entstanden.
 
 
 #### § 4 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001200305)
 
 Zweck der Stiftung ist es, die Zwecksetzung nach § 1 durch Auszahlung
 der Leistungen an die anspruchsberechtigten Personen zu erfüllen.
 
 
 #### § 5 Stifter, Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001301116)
 
 (1) Stifter sind der Bund, die pharmazeutischen Unternehmen Bayer AG,
 Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG, Armour Pharma
@@ -82,6 +91,7 @@ anzunehmen.
 
 
 #### § 6 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001403116)
 
 Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den
 Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der
@@ -93,11 +103,13 @@ und für Verbraucherschutz ändern.
 
 
 #### § 7 Organe
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001500305)
 
 Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 
 #### § 8 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001603116)
 
 (1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird
 vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden
@@ -129,6 +141,7 @@ des Stiftungsvorstandes. Das Nähere regelt die Satzung.
 
 
 #### § 9 Stiftungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001702310)
 
 (1) Der Stiftungsvorstand besteht aus dem vorsitzenden Mitglied und
 höchstens zwei weiteren Mitgliedern. § 8 Abs. 4 gilt entsprechend.
@@ -145,12 +158,14 @@ gerichtlich und außergerichtlich.
 
 
 #### § 10 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001800305)
 
 Die Kosten für die Durchführung der Aufgaben der Stiftung sind aus den
 Stiftungsmitteln zu tragen.
 
 
 #### § 11 Aufsicht, Haushalt, Rechnungslegung, Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE001903116)
 
 (1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für
 Gesundheit.
@@ -170,6 +185,7 @@ Jahres, vorgelegt.
 
 
 #### § 12 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002000305)
 
 Die Mitglieder des Stiftungsrates, des Stiftungsvorstandes und der
 Kommission nach § 18 Abs. 2 haben über die während ihrer Tätigkeit
@@ -184,6 +200,7 @@ verpflichten, soweit sie nicht Amtsträger sind.
 
 
 #### § 13 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002100305)
 
 Die Antragsunterlagen dürfen nur für die Erfüllung des
 Stiftungszweckes verwendet werden. Für die Verarbeitung und Nutzung
@@ -192,15 +209,18 @@ des § 14 Abs. 2 - die Bestimmungen des Bundesdatenschutzgesetzes.
 
 
 #### § 14 Aufhebung der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002201116)
 
 Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist.
 
 
 ### Abschnitt 2 - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000400305)
 
 
 
 #### § 15 Anspruchsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002300305)
 
 (1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die in
 dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem
@@ -271,6 +291,7 @@ Absätze 5 bis 7 entsprechend.
 
 
 #### § 16 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002402116)
 
 (1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe
 von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne
@@ -307,6 +328,7 @@ dem 1. Juli 2019.
 
 
 #### § 17 Steuerfreiheit, Anrechnung auf andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002501320)
 
 (1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus
 öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich
@@ -317,6 +339,7 @@ verpfändet oder gepfändet werden.
 
 
 #### § 18 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002600305)
 
 (1) Der Stiftungsvorstand gewährt auf Antrag Leistungen nach diesem
 Gesetz durch Bescheid.
@@ -341,6 +364,7 @@ Anwendung.
 
 
 #### § 19 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002700305)
 
 Für Rechtsstreitigkeiten in Anwendung dieses Gesetzes ist der
 Verwaltungsrechtsweg gegeben. Vor Klageerhebung ist gegen den Bescheid
@@ -349,10 +373,12 @@ entscheidet.
 
 
 ### Abschnitt 3 - Andere Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000500305)
 
 
 
 #### § 20 Ausschluß von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002801116)
 
 (1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten,
 gegen die Bundesrepublik Deutschland, die Blutspendedienste des
@@ -369,6 +395,7 @@ Leistungen erbracht worden sind.
 
 
 #### § 21 Anhängige Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE002900305)
 
 Werden anhängige Rechtsstreitigkeiten über nach § 20 Abs. 1 erloschene
 Ansprüche für erledigt erklärt, so trägt jede Partei die ihr
@@ -377,13 +404,16 @@ erhoben.
 
 
 ## Teil 3 - Ländermittel
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000600305)
 
 
 
 ### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE003001116)
 
 
 ### § 23 Ausschluß von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE003101116)
 
 Ansprüche von Personen, die nach Teil 2 Abschnitt 2 Leistungen
 erhalten, gegen die Länder wegen einer von diesem Gesetz erfaßten HIV-
@@ -393,13 +423,16 @@ auf einen anderen übertragen worden sind.
 
 
 ### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE003201116)
 
 
 ## Teil 4 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNG000700305)
 
 
 
 ### § 25 Programm "Humanitäre Soforthilfe"
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE003300305)
 
 Die Richtlinie für die Gewährung von Leistungen an durch Blut oder
 Blutprodukte HIV-infizierte oder an AIDS erkrankte Personen durch das
@@ -409,6 +442,7 @@ nach Maßgabe der Bestimmungen der genannten Richtlinie abgewickelt.
 
 
 ### § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hivhg/BJNR097200995.html#BJNR097200995BJNE003402310)
 
 Dieses Gesetz tritt in Kraft, sobald sichergestellt ist, daß die in §
 2 Nr. 2 und 3 genannten Mittel der Stiftung "Humanitäre Hilfe für

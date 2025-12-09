@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000100000)
 
 Nach § 34 Absatz 5, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des
 Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510), das
@@ -32,6 +33,7 @@ Bundesministerium für Digitales und Verkehr an:
 
 
 ## § 1 Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000200000)
 
 (1) Den Leiterinnen und Leitern der unmittelbar nachgeordneten
 Behörden werden für den jeweiligen Geschäftsbereich übertragen:
@@ -77,6 +79,7 @@ für die Autobahn GmbH des Bundes. Die Befugnisse gemäß Absatz 1 werden
 
 
 ## § 2 Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000300000)
 
 (1) Der DFS Deutsche Flugsicherung GmbH wird die Zuständigkeit für die
 Entscheidung über Widersprüche der bei ihr tätigen Beamtinnen und
@@ -95,6 +98,7 @@ Widersprüche gegen von ihnen getroffene beamtenrechtliche Maßnahmen
 
 
 ## § 3 Vertretung bei Klagen aus dem Beamtenverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000400000)
 
 Die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 wird den in § 2 genannten Behörden übertragen, soweit sie nach dieser
@@ -102,6 +106,7 @@ Anordnung für die Entscheidung über Widersprüche zuständig sind.
 
 
 ## § 4 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000500000)
 
 Das Bundesministerium für Digitales und Verkehr behält sich vor,
 Zuständigkeiten nach den §§ 1 bis 3 in besonderen Fällen selbst
@@ -109,6 +114,7 @@ auszuüben.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000600000)
 
 Für Disziplinarverfahren, Widersprüche und Klagen, die vor dem
 Inkrafttreten dieser Anordnung eingeleitet oder erhoben worden sind,
@@ -116,6 +122,7 @@ bleibt es bei den bisherigen Zuständigkeiten.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten, Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bmdvdelegatano/BJNR0490A0024.html#BJNR0490A0024BJNE000700000)
 
 Diese Anordnung tritt am 1. April 2024 in Kraft. Gleichzeitig treten
 die §§ 4 bis 6 der BMVBS-Delegationsanordnung vom 6. August 2013

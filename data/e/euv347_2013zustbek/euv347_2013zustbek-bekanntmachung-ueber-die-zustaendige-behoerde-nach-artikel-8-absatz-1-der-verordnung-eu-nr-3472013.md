@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/euv347_2013zustbek/BJNR057600014.html#BJNR057600014BJNE000100000)
 
 Die Bundesnetzagentur ist als zuständige nationale Behörde gemäß
 Artikel 8 Absatz 1 der Verordnung (EU) Nr. 347/2013 des Europäischen
@@ -35,6 +36,7 @@ Buchstabe c der Verordnung (EU) Nr. 347/2013.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/euv347_2013zustbek/BJNR057600014.html#BJNR057600014BJNE000200000)
 
 Bundesministerium für Wirtschaft und Energie
 

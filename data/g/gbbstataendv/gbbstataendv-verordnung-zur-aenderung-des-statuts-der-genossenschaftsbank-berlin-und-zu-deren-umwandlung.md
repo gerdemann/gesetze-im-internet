@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000100307)
 
 Auf Grund der Anlage II Kapitel IV Abschnitt III Nr. 5 des
 Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
@@ -29,18 +30,21 @@ der Bundesminister der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000200307)
 
 Die Genossenschaftsbank Berlin erhält den Namen "GBB Genossenschafts-
 Holding Berlin".
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000300307)
 
 Das Statut der GBB Genossenschafts-Holding Berlin erhält die Fassung
 der Anlage zu dieser Verordnung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000401377)
 
 (1) Die GBB Genossenschafts-Holding Berlin kann gemäß den §§ 385a bis
 385c des Aktiengesetzes in eine Aktiengesellschaft umgewandelt werden.
@@ -59,11 +63,13 @@ Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000500307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage Statut der GBB Genossenschafts-Holding Berlin
+[Direktlink](https://www.gesetze-im-internet.de/gbbstat_ndv/BJNR021230991.html#BJNR021230991BJNE000604377)
 
 (Text siehe: GBBStatÄndVAnl)
 

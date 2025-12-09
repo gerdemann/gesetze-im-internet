@@ -27,6 +27,7 @@ Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -37,17 +38,20 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000200000)
 
 Der Ausbildungsberuf Maschinen- und Anlagenführer/Maschinen- und
 Anlagenführerin wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000400000)
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
 bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie
@@ -61,6 +65,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000500000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -111,6 +116,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000600000)
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen unter
 Berücksichtigung der Schwerpunkte Metall- und Kunststofftechnik,
@@ -124,12 +130,14 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000700000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000800000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -138,6 +146,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE000901308)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres
@@ -173,6 +182,7 @@ berücksichtigen kann.
 
 
 ## § 9 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -541,6 +551,7 @@ ungenügenden Leistungen erbracht worden sein.
 
 
 ## § 10 Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE001104128)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Maschinen- und
 Anlagenführer/zur Maschinen- und Anlagenführerin kann nach den
@@ -614,12 +625,14 @@ Gesamtergebnis einbezogen.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
+[Direktlink](https://www.gesetze-im-internet.de/maschf_ausbv/BJNR064700004.html#BJNR064700004BJNE001300000)
 
 (Fundstelle: BGBl. I 2004, 651 - 660)
 

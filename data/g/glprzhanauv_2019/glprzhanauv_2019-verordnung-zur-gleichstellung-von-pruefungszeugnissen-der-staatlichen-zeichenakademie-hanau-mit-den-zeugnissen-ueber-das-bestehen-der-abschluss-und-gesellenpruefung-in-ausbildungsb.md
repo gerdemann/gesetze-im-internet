@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 1.8.2023 hinaus bis zum 1.8.2026 verlängert worden
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000101123)
 
 Auf Grund des § 50 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I
@@ -33,6 +34,7 @@ Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000201123)
 
 Die vom 1. Januar 2018 bis zum Ablauf des 31. Juli 2026 von der
 Staatlichen Zeichenakademie Hanau erteilten Prüfungszeugnisse über
@@ -76,12 +78,14 @@ gleichgestellt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000301123)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1.
 August 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzhanauv_2019/BJNR092900019.html#BJNR092900019BJNE000401123)
 
 Der Bundesrat hat zugestimmt.
 

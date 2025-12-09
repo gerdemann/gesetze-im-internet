@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvbgcang/BJNR001820011.html#BJNR001820011BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvbgcang/BJNR001820011.html#BJNR001820011BJNE000200000)
 
 Folgenden in Quebec am 20. April 2010 unterzeichneten
 zwischenstaatlichen Übereinkünften wird zugestimmt:
@@ -44,6 +46,7 @@ Die Vereinbarungen werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvbgcang/BJNR001820011.html#BJNR001820011BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung der
@@ -72,6 +75,7 @@ Gegenstände Regelungen getroffen werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichvbgcang/BJNR001820011.html#BJNR001820011BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

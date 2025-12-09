@@ -29,6 +29,7 @@ Geändert durch
 Stand: Der Vertrag tritt nach seinem § 7 Abs. 1 iVm Art. 2 Abs. 2 Satz 1 G v. 27.5.2010 I 662 nach Maßgaben mWv 1.4.2010 in Kraft
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000102116)
 
 ## **Präambel**
 
@@ -111,9 +112,11 @@ folgende Vereinbarung:
 
 
 ## Abschnitt I - Der IT-Planungsrat
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNG000101116)
 
 
 ### § 1 Einrichtung, Aufgaben, Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000202116)
 
 (1) Der Planungsrat für die IT-Zusammenarbeit der öffentlichen
 Verwaltung zwischen Bund und Ländern (IT-Planungsrat)
@@ -194,9 +197,11 @@ rechtzeitig durchgeführt werden können.
 
 
 ## Abschnitt II - Gemeinsame Standards und Sicherheitsanforderungen, Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNG000202116)
 
 
 ### § 2 Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000402116)
 
 (1) Für den im Rahmen ihrer Aufgabenerfüllung notwendigen Austausch
 von Daten zwischen dem Bund und den Ländern sollen gemeinsame
@@ -230,6 +235,7 @@ Prüfung gebunden.
 
 
 ### § 3 Aufgaben im Bereich Verbindungsnetz
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000502116)
 
 Der IT-Planungsrat nimmt die Aufgaben des Koordinierungsgremiums nach
 Maßgabe des aufgrund von Artikel 91c Absatz 4 des Grundgesetzes
@@ -237,6 +243,7 @@ ergangenen Bundesgesetzes wahr.
 
 
 ### § 4 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000602116)
 
 Der Bund und die Länder informieren sich möglichst frühzeitig über
 beabsichtigte Vorhaben zur Einrichtung und Entwicklung
@@ -245,9 +252,11 @@ Zusammenarbeit zu ermöglichen.
 
 
 ## Abschnitt III - Gemeinsame Einrichtung zur Unterstützung des IT-Planungsrats
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNG000401116)
 
 
 ### § 5 Errichtung und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001201116)
 
 (1) Die Vertragspartner errichten mit Wirkung zum 1. Januar 2020 eine
 rechtsfähige Anstalt des öffentlichen Rechts (gemeinsame Anstalt). Sie
@@ -272,6 +281,7 @@ Anstalt Dritter bedienen.
 
 
 ### § 6 Trägerschaft, Dienstherrnfähigkeit, anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001301116)
 
 (1) Träger der gemeinsamen Anstalt sind die Vertragspartner zu
 gleichen Teilen. Die Anteile an der gemeinsamen Anstalt sind nicht
@@ -308,6 +318,7 @@ Dienstherrenwechseln ist anzuwenden.
 
 
 ### § 7 Organe
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001401116)
 
 (1) Die gemeinsame Anstalt wird von einem Präsidenten geleitet und
 vertreten. Er wird hierbei vom Verwaltungsrat beaufsichtigt.
@@ -327,6 +338,7 @@ Präsident beruft einen Vertreter für den Fall seiner Abwesenheit.
 
 
 ### § 8 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001501116)
 
 Die gemeinsame Anstalt unterliegt der Rechtsaufsicht der
 Vertragspartner. Die Rechtsaufsicht wird vom Sitzland ausgeübt. Das
@@ -340,6 +352,7 @@ Mitglieder des IT-Planungsrats (§ 1 Absatz 2) angehören.
 
 
 ### § 9 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001601116)
 
 (1) Die gemeinsame Anstalt erhält zur Erfüllung ihrer Aufgaben von den
 Vertragspartnern Finanzmittel nach Maßgabe des Wirtschaftsplans und
@@ -391,15 +404,18 @@ gegenüber der gemeinsamen Anstalt.
 
 
 ### § 10 Unzulässigkeit eines Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001701116)
 
 Ein Insolvenzverfahren über das Vermögen der gemeinsamen Anstalt ist
 unzulässig.
 
 
 ## Abschnitt IV - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNG000302116)
 
 
 ### § 11 Änderung, Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000702116)
 
 (1) Änderungen dieses Vertrages bedürfen einer einstimmigen
 Entscheidung der Vertragspartner.
@@ -430,6 +446,7 @@ vorliegt.
 
 
 ### § 12 Inkrafttreten, Außerkrafttreten, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE000802116)
 
 (1) Dieser Vertrag tritt am 1. April 2010 in Kraft. Sind bis zum 31.
 März 2010 nicht mindestens dreizehn Ratifikationsurkunden bei dem der
@@ -473,6 +490,7 @@ Rechtsnachfolge ein.
 
 
 ### Anhang „Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
+[Direktlink](https://www.gesetze-im-internet.de/ggart91cvtr/BJNR066300010.html#BJNR066300010BJNE001001116)
 
 A. Verbindungsnetz
 

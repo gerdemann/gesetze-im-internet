@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000100000)
 
 Auf Grund des § 22d Abs. 1 Satz 2 des Kreditwesengesetzes, der durch
 Artikel 4a Nr. 4 des Gesetzes vom 22. September 2005 (BGBl. I S. 2809)
@@ -34,10 +35,12 @@ Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Teil 1 - Anwendungsbereich; allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich; Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000200000)
 
 (1) Diese Verordnung regelt die Anforderungen an die Form des
 Refinanzierungsregisters nach den §§ 22a bis 22o des
@@ -48,6 +51,7 @@ Löschungsvermerke.
 
 
 ### § 2 Form des Refinanzierungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000301119)
 
 (1) Das Refinanzierungsregister kann in Papierform oder nach Maßgabe
 des Teils 2 als elektronisches Register geführt werden.
@@ -78,6 +82,7 @@ nehmen.
 
 
 ### § 3 Vollständigkeit und Richtigkeit des Refinanzierungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000401119)
 
 Eintragungen sind in der Weise dauerhaft aufzuzeichnen, dass etwaig
 vorgenommene spätere Änderungen und Löschungen jederzeit erkennbar
@@ -90,6 +95,7 @@ Löschung mindestens zehn Jahre verstrichen sind.
 
 
 ### § 4 Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und Unterabteilungen
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000500000)
 
 (1) Das Refinanzierungsregister muss die Überschrift
 "Refinanzierungsregister", die Bezeichnung des registerführenden
@@ -122,6 +128,7 @@ Abteilung eine Liste zu führen.
 
 
 ### § 5 Art und Weise der Aufzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000601119)
 
 (1) Jeder in das Refinanzierungsregister einzutragende Gegenstand ist
 mit einer innerhalb der einschlägigen Abteilung oder Unterabteilung
@@ -235,6 +242,7 @@ Formulars RR in folgender Weise vorzunehmen:
 
 
 ### § 6 Eintragung ausländischer Sicherungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000701119)
 
 Eintragungen ausländischer Sicherungsrechte sind entsprechend § 5
 vorzunehmen. Soweit die Bezeichnung der ausländischen Sicherungsrechte
@@ -254,6 +262,7 @@ eindeutige Identifizierung des jeweiligen Objekts ermöglichen.
 
 
 ### § 7 Schutz des Refinanzierungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000800000)
 
 Das Refinanzierungsregister ist vor unberechtigtem Zugriff sowie vor
 Beschädigung oder Zerstörung durch äußere Einwirkungen wie Feuer oder
@@ -261,10 +270,12 @@ Wasser besonders zu schützen.
 
 
 ## Teil 2 - Zusätzliche Anforderungen bei elektronischer Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNG000200000)
 
 
 
 ### § 8 Begriff und allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE000901119)
 
 (1) Der Inhalt des elektronisch geführten Refinanzierungsregisters
 muss auf Dauer unverändert in lesbarer Form wiedergabefähig sowie auf
@@ -278,6 +289,7 @@ vollständig ausgedruckt werden können.
 
 
 ### § 9 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE001001119)
 
 (1) Die eingesetzten Datenverarbeitungssysteme müssen dem Stand der
 Technik sowie den Anforderungen des Datenschutzes und der
@@ -337,10 +349,12 @@ Kreditwesengesetzes des registerführenden Unternehmens zu übermitteln.
 
 
 ## Teil 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNG000300000)
 
 
 
 ### § 10 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE001101119)
 
 (1) Refinanzierungsregister, die auf Grund der §§ 22a bis 22o des
 Kreditwesengesetzes bereits vor Inkrafttreten dieser Verordnung
@@ -371,11 +385,13 @@ denen nach dem 30. Juni 2023 Eintragungen vorgenommen werden.
 
 
 ### § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/refiregv/BJNR324100006.html#BJNR324100006BJNE001300000)
 
 (Fundstelle: BGBl. I 2006, 3244)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_12/BJNR120850985.html#BJNR120850985BJNE000100325)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), zuletzt geändert durch das
@@ -39,11 +40,13 @@ für meinen Geschäftsbereich.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_12/BJNR120850985.html#BJNR120850985BJNE000200325)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_84ano_12/BJNR120850985.html#BJNR120850985BJNE000300325)
 
 Der Chef des Presse- und Informationsamtes der Bundesregierung
 

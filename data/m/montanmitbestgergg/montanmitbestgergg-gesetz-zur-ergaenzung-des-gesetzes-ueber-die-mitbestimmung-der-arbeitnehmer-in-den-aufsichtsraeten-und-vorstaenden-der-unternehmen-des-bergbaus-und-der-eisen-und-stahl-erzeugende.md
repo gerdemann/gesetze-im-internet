@@ -22,10 +22,12 @@ Zuletzt geändert durch
 
 
 ## Art 1 - Mitbestimmung in herrschenden Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000402308)
 
 Die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und den zur
 gesetzlichen Vertretung berufenen Organen von Unternehmen in der
@@ -40,6 +42,7 @@ Gesetzes.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000500319)
 
 Liegen bei dem herrschenden Unternehmen nach seinem eigenen
 überwiegenden Betriebszweck die Voraussetzungen für die Anwendung des
@@ -50,6 +53,7 @@ in dem herrschenden Unternehmen das Mitbestimmungsrecht nach § 1 Abs.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000602308)
 
 (1) Liegen bei dem herrschenden Unternehmen die Voraussetzungen für
 die Anwendung des Montan-Mitbestimmungsgesetzes nach § 2 nicht vor,
@@ -83,6 +87,7 @@ Umsätze anzurechnen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000706311)
 
 (1) Das nach § 3 maßgebliche Umsatzverhältnis hat der Abschlußprüfer
 des herrschenden Unternehmens zu ermitteln. Ist der Jahresabschluß des
@@ -125,6 +130,7 @@ Voraussetzungen des § 3 Abs. 2 Satz 1 Nr. 2 vorliegen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000805119)
 
 (1) Der Aufsichtsrat besteht aus fünfzehn Mitgliedern. Er setzt sich
 zusammen aus
@@ -169,6 +175,7 @@ Betriebsverfassungsgesetzes ist anzuwenden.
 
 
 ### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003901126)
 
 Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1
 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz
@@ -180,6 +187,7 @@ im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE000903308)
 
 (1) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer müssen sich
 fünf Arbeitnehmer von Konzernunternehmen und zwei Vertreter von
@@ -204,6 +212,7 @@ vertreten sein.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001002119)
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer eines Konzerns mit in
 der Regel mehr als 8 000 Arbeitnehmern werden durch Delegierte
@@ -228,6 +237,7 @@ abgegebenen Stimmen gefaßt werden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001103308)
 
 (1) Sind nach § 7 die Aufsichtsratsmitglieder der Arbeitnehmer durch
 Delegierte zu wählen, so wählen in jedem Betrieb des Konzerns die
@@ -248,6 +258,7 @@ gewählt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001203308)
 
 (1) In jedem Betrieb entfällt auf je 90 wahlberechtigte Arbeitnehmer
 ein Delegierter. Ergibt die Berechnung nach Satz 1 in einem Betrieb
@@ -307,6 +318,7 @@ Konzernunternehmen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001303308)
 
 (1) Zur Wahl der Delegierten können die wahlberechtigten Arbeitnehmer
 des Betriebs Wahlvorschläge machen. Jeder Wahlvorschlag für Delegierte
@@ -318,6 +330,7 @@ enthalten, wie in dem Wahlgang Delegierte zu wählen sind.
 
 
 ### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002600308)
 
 (1) Die Delegierten werden für eine Zeit gewählt, die der Amtszeit der
 von ihnen zu wählenden Aufsichtsratsmitglieder entspricht. Sie nehmen
@@ -353,6 +366,7 @@ gesunken ist.
 
 
 ### § 10b
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002700308)
 
 (1) Die Amtszeit eines Delegierten endet vor dem in § 10a bezeichneten
 Zeitpunkt
@@ -377,6 +391,7 @@ ersetzenden Delegierten angehören.
 
 
 ### § 10c
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002801308)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 6
 Abs. 1 Arbeitnehmer von Konzernunternehmen sein müssen, geheim und
@@ -396,6 +411,7 @@ Aufsichtsratsmitglieder auf die Arbeitnehmer entfallen.
 
 
 ### § 10d
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002901308)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 6
 Abs. 1 Vertreter von Gewerkschaften sind, in geheimer Wahl und nach
@@ -410,6 +426,7 @@ wie Vertreter von Gewerkschaften in den Aufsichtsrat zu wählen sind.
 
 
 ### § 10e
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003002119)
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen
 ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Ein
@@ -426,6 +443,7 @@ Arbeitnehmer nicht mehr den Vorgaben des § 5a entspricht; § 10f Absatz
 
 
 ### § 10f
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE004000119)
 
 (1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die
 Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die
@@ -460,6 +478,7 @@ nach § 104 des Aktiengesetzes oder der Nachwahl besetzt.
 
 
 ### § 10g
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003103119)
 
 Das zur gesetzlichen Vertretung berufene Organ des herrschenden
 Unternehmens hat die Namen der Mitglieder und der Ersatzmitglieder des
@@ -471,6 +490,7 @@ Betrieben verpflichtet.
 
 
 ### § 10h
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003202119)
 
 Sind nach § 7 die Aufsichtsratsmitglieder der Arbeitnehmer in
 unmittelbarer Wahl zu wählen, so sind diejenigen Arbeitnehmer der
@@ -482,6 +502,7 @@ Arbeitnehmer der Konzernunternehmen treten.
 
 
 ### § 10i
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003303119)
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die
 Anwendung dieses Gesetzes als ein Betrieb.
@@ -509,6 +530,7 @@ entsprechend anzuwenden.
 
 
 ### § 10k
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003401119)
 
 (1) Niemand darf die Wahlen nach den §§ 8, 10c, 10d und 10h behindern.
 Insbesondere darf niemand in der Ausübung des aktiven und passiven
@@ -525,6 +547,7 @@ Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
 
 ### § 10l
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003502119)
 
 (1) Die Wahl der Delegierten eines Betriebs kann beim Arbeitsgericht
 angefochten werden, wenn gegen wesentliche Vorschriften über das
@@ -552,6 +575,7 @@ der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
 
 ### § 10m
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003603119)
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds
 der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn
@@ -599,6 +623,7 @@ der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
 
 ### § 10n
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003702119)
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
 Amtszeit auf Antrag abberufen werden. Antragsberechtigt für die
@@ -630,6 +655,7 @@ entsprechend anzuwenden.
 
 
 ### § 10o
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE003802119)
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 6 Abs. 1
 Arbeitnehmer eines Konzernunternehmens sein muß, die Wählbarkeit, so
@@ -639,6 +665,7 @@ erlischt sein Amt.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001401304)
 
 Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der
 Mitglieder, aus denen er nach diesem Gesetz oder der Satzung insgesamt
@@ -647,11 +674,13 @@ des Aktiengesetzes findet Anwendung.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001501308)
 
 -
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001601304)
 
 Für die Bestellung der Mitglieder des zur gesetzlichen Vertretung
 berufenen Organs und für den Widerruf ihrer Bestellung gelten § 76
@@ -661,11 +690,13 @@ findet Anwendung.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001701308)
 
 -
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001801308)
 
 (1) Die einem Unternehmen, in dem die Arbeitnehmer nach dem Montan-
 Mitbestimmungsgesetz oder nach § 2 oder § 3 dieses Gesetzes ein
@@ -686,6 +717,7 @@ anderen Unternehmen weniger als ein Viertel beträgt.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE001901308)
 
 (1) Die §§ 5 bis 13 sind auf das herrschende Unternehmen erst
 anzuwenden,
@@ -718,6 +750,7 @@ anzuwenden, wenn in sechs aufeinanderfolgenden Geschäftsjahren
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002003119)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften über das Verfahren für die Wahl und die Abberufung von
@@ -770,10 +803,12 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 
 ## Art 2 - Anwendung und Änderung des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNG000202308)
 
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002104377)
 
 Im Fall des § 8 Abs. 3 Satz 4 des Montan-Mitbestimmungsgesetzes sind
 auf das Verfahren des Oberlandesgerichts die Vorschriften des Gesetzes
@@ -784,19 +819,23 @@ statt.
 
 
 ### (XXXX) §§ 19 u. 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002201308)
 
 
 
 ## Art 3 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNG000300319)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002300319)
 
 -
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002405126)
 
 (1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in
@@ -809,6 +848,7 @@ des herrschenden Unternehmens befugte Organ erfolgt ist.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgergg/BJNR007070956.html#BJNR007070956BJNE002500319)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

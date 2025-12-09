@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004000314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000100314)
 
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004101308)
 
 
 *    *   **Erstes Kapitel**
@@ -436,14 +439,17 @@ beschlossen:
 
 
 ## Art 2 - Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000200314)
 
 
 
 ### Erstes Kapitel - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000300314)
 
 
 
 ### § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004201308)
 
 (1) Anspruch auf Rente nach den Vorschriften dieses Artikels haben
 Personen,
@@ -472,14 +478,17 @@ sind entsprechend anzuwenden.
 
 
 ### Zweites Kapitel - Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000400314)
 
 
 
 #### Erster Abschnitt - Rentenarten und Voraussetzungen für einen Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000500314)
 
 
 
 #### § 2 Rentenarten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004300314)
 
 (1) Renten werden geleistet wegen Alters, wegen verminderter
 Erwerbsfähigkeit oder wegen Todes.
@@ -536,6 +545,7 @@ Erwerbsfähigkeit oder wegen Todes.
 
 
 #### § 3 Voraussetzungen für einen Rentenanspruch
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004400314)
 
 Personen haben Anspruch auf Rente, wenn die für die jeweilige Rente
 erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die
@@ -544,14 +554,17 @@ Voraussetzungen vorliegen.
 
 
 #### Zweiter Abschnitt - Anspruchsvoraussetzungen für einzelne Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000600314)
 
 
 
 ##### Erster Unterabschnitt - Renten wegen Alters
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000700314)
 
 
 
 ##### § 4 Altersrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004500314)
 
 (1) Versicherte haben Anspruch auf Altersrente, wenn sie
 
@@ -579,6 +592,7 @@ haben.
 
 
 ##### § 5 Bergmannsaltersrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004600314)
 
 (1) Versicherte haben Anspruch auf Bergmannsaltersrente, wenn sie
 
@@ -620,6 +634,7 @@ FZR haben.
 
 
 ##### § 6 Bergmannsvollrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004700314)
 
 (1) Versicherte haben Anspruch auf Bergmannsvollrente, wenn sie
 
@@ -643,10 +658,12 @@ auf Bergmannsvollrente um die Anzahl der Monate später, die an einer
 
 
 ##### Zweiter Unterabschnitt - Renten wegen verminderter Erwerbsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000800314)
 
 
 
 ##### § 7 Invalidenrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004802308)
 
 (1) Versicherte haben Anspruch auf Invalidenrente, wenn sie
 
@@ -798,6 +815,7 @@ versicherungspflichtigen Tätigkeit.
 
 
 ##### § 8 Bergmannsinvalidenrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE004900314)
 
 (1) Versicherte haben Anspruch auf Bergmannsinvalidenrente, wenn sie
 
@@ -819,6 +837,7 @@ einer versicherungspflichtigen Tätigkeit.
 
 
 ##### § 9 Bergmannsrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005000314)
 
 Versicherte haben Anspruch auf Bergmannsrente, wenn sie
 
@@ -836,6 +855,7 @@ Versicherte haben Anspruch auf Bergmannsrente, wenn sie
 
 
 ##### § 10 Invalidenrente für Behinderte
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005101308)
 
 Anspruch auf Invalidenrente für Behinderte haben Personen, die
 
@@ -853,10 +873,12 @@ Einkommen 205 Euro nicht übersteigt.
 
 
 ##### Dritter Unterabschnitt - Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG000900314)
 
 
 
 ##### § 11 Witwenrente und Witwerrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005201308)
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
 dem Tod des versicherten Ehegatten Anspruch auf eine Witwenrente oder
@@ -955,6 +977,7 @@ Verstorbene rentenrechtliche Zeiten zur FZR hat.
 
 
 ##### § 12 Bergmannswitwenrente und Bergmannswitwerrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005301308)
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
 dem Tode des Versicherten Anspruch auf Bergmannswitwenrente oder
@@ -998,6 +1021,7 @@ Verstorbene die finanziellen Aufwendungen für die Familie nicht
 
 
 ##### § 13 Übergangshinterbliebenenrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005400314)
 
 (1) Witwen oder Witwer haben Anspruch auf
 Übergangshinterbliebenenrente, wenn ein Anspruch auf Witwenrente oder
@@ -1016,6 +1040,7 @@ rentenrechtliche Zeiten zur FZR hatte.
 
 
 ##### § 14 Unterhaltsrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005500314)
 
 Anspruch auf Unterhaltsrente haben Personen bei Tod des zur
 Unterhaltszahlung verurteilten geschiedenen Ehegatten für die Dauer
@@ -1048,6 +1073,7 @@ der gerichtlich festgelegten Unterhaltszahlung, wenn
 
 
 ##### § 15 Waisenrente
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005601308)
 
 (1) Kinder haben nach dem Tode eines Elternteils Anspruch auf
 Halbwaisenrente, wenn
@@ -1118,10 +1144,12 @@ Sozialpflichtversicherung nicht erfüllt hatte.
 
 
 ##### Vierter Unterabschnitt - Wartezeiterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001000314)
 
 
 
 ##### § 16 Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005700314)
 
 (1) Die Erfüllung der allgemeinen Wartezeit von 15 Jahren ist
 Voraussetzung für einen Anspruch auf
@@ -1154,6 +1182,7 @@ Voraussetzung für einen Anspruch auf
 
 
 ##### § 17 Anrechenbare Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005800314)
 
 (1) Auf die allgemeine Wartezeit werden Kalendermonate mit Zeiten
 einer versicherungspflichtigen Tätigkeit und Zeiten der freiwilligen
@@ -1222,10 +1251,12 @@ werden die Zeiten nach Nummer 1 und 2 angerechnet.
 
 
 ##### Fünfter Unterabschnitt - Rentenrechtliche Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001100314)
 
 
 
 ##### § 18 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE005900314)
 
 Rentenrechtliche Zeiten sind
 
@@ -1263,6 +1294,7 @@ Rentenrechtliche Zeiten sind
 
 
 ##### § 19 Zeiten einer versicherungspflichtigen Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006001308)
 
 (1) Zeiten einer versicherungspflichtigen Tätigkeit sind Zeiten, in
 denen nach den im Beitrittsgebiet geltenden Rechtsvorschriften
@@ -1455,6 +1487,7 @@ Nr. 38 S. 486).
 
 
 ##### § 20 Zurechnungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006100314)
 
 (1) Bei der Berechnung von Renten aus der Sozialpflichtversicherung
 werden als Zurechnungszeiten angerechnet
@@ -1526,6 +1559,7 @@ Zurechnungszeit.
 
 
 ##### § 21 Zeiten der freiwilligen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006201308)
 
 (1) Zeiten der freiwilligen Rentenversicherung sind Zeiten, in denen
 freiwillige Beiträge zur
@@ -1549,6 +1583,7 @@ Beitrittsgebiets.
 
 
 ##### § 22 Zuordnung von Zeiten zur bergbaulichen Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006301308)
 
 Den Zeiten der bergbaulichen Versicherung werden Dienstzeiten
 
@@ -1569,6 +1604,7 @@ bestanden hat.
 
 
 ##### § 23 Bergmännische Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006400314)
 
 (1) Bergmännische Tätigkeiten sind Zeiten einer
 versicherungspflichtigen Tätigkeit, in denen Versicherte
@@ -1635,6 +1671,7 @@ wenn sie sich unmittelbar an solche Zeiten anschließen.
 
 
 ##### § 24 Beitragszeiten zur FZR
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006501308)
 
 (1) Beitragszeiten zur FZR sind Zeiten, in denen neben einer
 bestehenden Pflichtversicherung Beiträge für ein Einkommen über 600
@@ -1699,6 +1736,7 @@ Beitritt zur FZR erfolgt ist.
 
 
 ##### § 25 Zurechnungszeiten zur FZR
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006600314)
 
 Bei der Berechnung von Zusatzrenten aus der FZR werden als
 Zurechnungszeiten angerechnet
@@ -1715,6 +1753,7 @@ Zurechnungszeiten angerechnet
 
 
 ##### § 26 Ermittlung von rentenrechtlichen Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006701308)
 
 (1) Bei der Ermittlung
 
@@ -1761,14 +1800,17 @@ Abnahme eidesstattlicher Versicherungen zuständig.
 
 
 ### Drittes Kapitel - Rentenhöhe
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001200314)
 
 
 
 #### Erster Abschnitt - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001300314)
 
 
 
 #### § 27 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006800314)
 
 (1) Die Höhe einer Rente richtet sich vor allem nach dem durch
 Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen und den
@@ -1781,14 +1823,17 @@ Mindestrente oder der jeweilige Mindestbetrag geleistet.
 
 
 #### Zweiter Abschnitt - Renten aus der Sozialpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001400314)
 
 
 
 ##### Erster Unterabschnitt - Berechnung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001500314)
 
 
 
 ##### § 28 Rentenformel für Monatsbetrag der Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE006901308)
 
 (1) Der Monatsbetrag einer Rente wegen Alters, der Invalidenrente und
 der Bergmannsinvalidenrente ergibt sich aus der Summe von
@@ -1836,6 +1881,7 @@ eine Rente der Unfallversicherung ist darauf anzurechnen.
 
 
 ##### § 29 Festbetrag
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007000314)
 
 Der Festbetrag beträgt bei
 
@@ -1878,6 +1924,7 @@ Der Festbetrag beträgt bei
 
 
 ##### § 30 Steigerungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007100314)
 
 Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
@@ -1894,6 +1941,7 @@ Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
 
 ##### § 31 Beitragspflichtiges Durchschnittseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007201308)
 
 (1) Das beitragspflichtige Durchschnittseinkommen wird ermittelt,
 indem das beitragspflichtige Einkommen der letzten 20 Jahre vor Ende
@@ -2006,6 +2054,7 @@ berücksichtigt.
 
 
 ##### § 32 Steigerungssatz
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007300314)
 
 (1) Der Steigerungssatz für jedes Arbeitsjahr beträgt bei
 
@@ -2038,6 +2087,7 @@ zwei vom Hundert.
 
 
 ##### § 33 Zuschlag für Untertagetätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007400314)
 
 Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt
 haben, erhalten für jedes Jahr mit solchen Tätigkeiten
@@ -2069,6 +2119,7 @@ einer solchen Rente.
 
 
 ##### § 34 Mindestrenten und Mindestbeträge
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007500314)
 
 (1) Altersrente und Invalidenrente werden in Höhe der Mindestrente
 geleistet, wenn der Anspruch auf Altersrente und Invalidenrente
@@ -2151,10 +2202,12 @@ geleistet.
 
 
 ##### Zweiter Unterabschnitt - Sonderbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001600314)
 
 
 
 ##### § 35 Besonderer Steigerungssatz
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007600314)
 
 Der Steigerungssatz beträgt für jedes Jahr der Beschäftigung
 
@@ -2186,6 +2239,7 @@ worden ist.
 
 
 ##### § 36 Zusätzlicher Steigerungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007700314)
 
 (1) Versicherte haben zusätzlich zur errechneten
 
@@ -2225,10 +2279,12 @@ zur errechneten Hinterbliebenenrente geleistet.
 
 
 #### Dritter Abschnitt - Renten aus der freiwilligen Zusatzrentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001700314)
 
 
 
 #### § 37 Rentenformel für Monatsbetrag der Zusatzrenten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007800314)
 
 (1) Der Monatsbetrag einer Zusatzaltersrente und einer
 Zusatzinvalidenrente beträgt
@@ -2265,6 +2321,7 @@ der nach Absatz 1 ermittelten Zusatzrente des Verstorbenen.
 
 
 #### § 38 Durchschnittseinkommen für Zusatzrenten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE007901308)
 
 (1) Das durch Beiträge zur FZR versicherte Durchschnittseinkommen wird
 ermittelt, indem das Gesamteinkommen, für das Beiträge zur FZR gezahlt
@@ -2358,10 +2415,12 @@ selbständig Tätige entsprechend anzuwenden.
 
 
 #### Vierter Abschnitt - Erhöhung auf den Stand 31. Dezember 1991
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001800314)
 
 
 
 #### § 39 Erhöhung auf den Stand 31. Dezember 1991
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008001308)
 
 (1) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte
 Renten wegen Alters, Invalidenrenten, Bergmannsinvalidenrenten,
@@ -2406,10 +2465,12 @@ Versicherung auf Zusatzrente bei der Sozialversicherung vom 15. März
 
 
 #### Fünfter Abschnitt - Berechnung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG001900314)
 
 
 
 #### § 40 Berechnung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008100314)
 
 Bei der Berechnung des
 
@@ -2433,10 +2494,12 @@ ist auf volle Deutsche Mark aufzurunden.
 
 
 ### Viertes Kapitel - Zusammentreffen von Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002000314)
 
 
 
 ### § 41 Mehrere Rentenansprüche
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008201308)
 
 (1) Besteht für denselben Zeitraum Anspruch auf mehrere Renten
 gleicher Art, wird nur die höhere Rente gezahlt. Renten gleicher Art
@@ -2520,6 +2583,7 @@ zusätzlich zu einer errechneten Rente geleistet werden, angerechnet.
 
 
 ### § 42 Mehrere Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008301308)
 
 Besteht aus der Versicherung eines Verstorbenen für mehrere
 Hinterbliebene Anspruch auf mehrere Renten wegen Todes, wird die
@@ -2530,6 +2594,7 @@ Faktor 1,4130 vervielfältigten Mindestrente geleistet.
 
 
 ### § 43 Rente und Leistungen aus der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008401308)
 
 (1) Besteht für denselben Zeitraum Anspruch auf eine Rente und eine
 Rente aus der Unfallversicherung gleicher Art, wird die Rente nur
@@ -2591,10 +2656,12 @@ niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die
 
 
 ### Fünftes Kapitel - Beginn, Änderung und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002100314)
 
 
 
 ### § 44 Beginn, Änderung und Ende von Renten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008500314)
 
 (1) Die Vorschriften über Beginn, Änderung und Ende von Renten des
 Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
@@ -2623,16 +2690,19 @@ sind.
 
 
 ### Sechstes Kapitel
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002201308)
 
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008601308)
 
 -
 
 (zu § 39)
 
 ### Anlage Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNE008700314)
 
 (Fundstelle: BGBl. I 1991, 1675)
 
@@ -5348,58 +5418,72 @@ sind.
 
 
 ## Art 3 - Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets (Anspruchs- und Anwartschaftsüberführungsgesetz - AAÜG)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002300314)
 
 
 
 ## Art 4 - Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen (Versorgungsruhensgesetz)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002400314)
 
 
 
 ## Art 5 bis 23
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002500314)
 
 
 
 ## Art 24 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002601360)
 
 
 
 ## Art 25 und 26
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002700314)
 
 
 
 ## Art 27 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002802360)
 
 
 
 ## Art 28 bis 30
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG002900314)
 
 
 
 ## Art 31 - Gesetz zur Überleitung des Versorgungsausgleichs auf das Beitrittsgebiet (Versorgungsausgleichs-Überleitungsgesetz - VAÜG)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003000314)
 
 
 
 ## Art 32 bis 34
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003100314)
 
 
 
 ## Art 35 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003202360)
 
 
 
 ## Art 36
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003300314)
 
 
 
 ## Art 37 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003401360)
 
 
 
 ## Art 38 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003502360)
 
 
 
 ## Art 39 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003600314)
 
 Die auf den Artikeln 32 bis 34 beruhenden Teile der dort geänderten
 Verordnungen können aufgrund der jeweils einschlägigen Ermächtigung in
@@ -5408,14 +5492,17 @@ aufgehoben werden.
 
 
 ## Art 40 - Gesetz zur Zahlung eines Sozialzuschlags zu Renten im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003700314)
 
 
 
 ## Art 41
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003800314)
 
 
 
 ## Art 42 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/r_g/BJNR016069991.html#BJNR016069991BJNG003901308)
 
 (1) Dieses Gesetz tritt am 1. Januar 1992 in Kraft, soweit in den
 folgenden Absätzen nicht etwas anderes bestimmt ist.

@@ -23,20 +23,24 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendung auf Ehegatten und Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE002606119)
 
 Die Regelungen dieser Verordnung zu Ehegatten und Ehen sind auch auf
 Lebenspartner und Lebenspartnerschaften anzuwenden.
 
 
 ## (XXXX) §§ 2 und 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014300119)
 
 
 
 ## - - Zu § 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000105301)
 
 
 
 ### § 4 Steuerfreie Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE002705301)
 
 Die Vorschriften der Lohnsteuer-Durchführungsverordnung über die
 Steuerpflicht oder die Steuerfreiheit von Einnahmen aus
@@ -44,14 +48,17 @@ nichtselbständiger Arbeit sind bei der Veranlagung anzuwenden.
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE002805301)
 
 
 
 ## - - Zu den §§ 4 bis 7 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000205301)
 
 
 
 ### § 6 Eröffnung, Erwerb, Aufgabe und Veräußerung eines Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE002905301)
 
 (1) Wird ein Betrieb eröffnet oder erworben, so tritt bei der
 Ermittlung des Gewinns an die Stelle des Betriebsvermögens am Schluss
@@ -65,10 +72,12 @@ oder der Veräußerung des Betriebs.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003006301)
 
 
 
 ### § 8 Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014003301)
 
 Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als
 Betriebsvermögen behandelt zu werden, wenn ihr Wert nicht mehr als ein
@@ -77,10 +86,12 @@ Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als
 
 
 ### § 8a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003108301)
 
 
 
 ### § 8b Wirtschaftsjahr
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003305301)
 
 1Das Wirtschaftsjahr umfasst einen Zeitraum von zwölf Monaten.
 2Es darf einen Zeitraum von weniger als zwölf Monaten umfassen, wenn
@@ -103,6 +114,7 @@ Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als
 
 
 ### § 8c Wirtschaftsjahr bei Land- und Forstwirten
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003412123)
 
 (1)
 1Als Wirtschaftsjahr im Sinne des § 4a Abs. 1 Nr. 1 des Gesetzes
@@ -148,16 +160,19 @@ Verpflichtung Bücher führen und regelmäßig Abschlüsse machen.
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003505301)
 
 
 
 ### § 9a Anschaffung, Herstellung
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003605301)
 
 Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung
 ist das Jahr der Fertigstellung.
 
 
 ### § 10 Absetzung für Abnutzung im Fall des § 4 Abs. 3 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003706301)
 
 (1)
 1Bei nicht in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
@@ -182,13 +197,16 @@ bereinigten Fassung treten.
 
 
 ### § 10a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE003807140)
 
 
 
 ### (XXXX) §§ 11 bis 11b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004006301)
 
 
 ### § 11c Absetzung für Abnutzung bei Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004206301)
 
 (1)
 1Nutzungsdauer eines Gebäudes im Sinne des § 7 Abs. 4 Satz 2 des
@@ -238,6 +256,7 @@ Zuschreibung oder Wertaufholung.
 
 
 ### § 11d Absetzung für Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004306140)
 
 (1)
 1Bei den nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern,
@@ -263,21 +282,26 @@ Substanzverringerung nicht zulässig.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004405301)
 
 
 
 ## - - Zu den §§ 7e und 10a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000305301)
 
 
 ### (XXXX) §§ 13 und 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004506301)
 
 
 
 ## - - Zu § 7b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000405301)
 
 
 
 ### § 15 Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004707301)
 
 (1) Bauherr ist, wer auf eigene Rechnung und Gefahr ein Gebäude baut
 oder bauen lässt.
@@ -291,22 +315,27 @@ die Verordnung vom 11. Juni 1981 (BGBl. I S. 526), weiter anzuwenden.
 
 
 ### (XXXX) §§ 16 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE004906301)
 
 
 
 ## - - Zu § 7e des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000505301)
 
 
 
 ### (XXXX) §§ 22 bis 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE005205301)
 
 
 
 ## - - Zu § 10 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000805301)
 
 
 
 ### § 29 Anzeigepflichten bei Versicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE005312301)
 
 1Bei Versicherungen, deren Laufzeit vor dem 1. Januar 2005 begonnen
 hat, hat der Sicherungsnehmer nach amtlich vorgeschriebenem Muster dem
@@ -330,6 +359,7 @@ unverzüglich anzuzeigen.
 
 
 ### § 30 Nachversteuerung bei Versicherungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE005409377)
 
 1Eine Nachversteuerung ist durchzuführen, wenn die Voraussetzungen für
 den Sonderausgabenabzug von Vorsorgeaufwendungen nach § 10 Absatz 2
@@ -342,32 +372,39 @@ Nachsteuer zu erheben.
 
 
 ### (XXXX) §§ 31 bis 44 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE005706301)
 
 
 
 ## - - Zu § 10a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG000905301)
 
 
 
 ### (XXXX) §§ 45 bis 47 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE005806301)
 
 
 
 ## - - Zu § 10b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001005301)
 
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006108301)
 
 -
 
 
 ### § 49 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006208301)
 
 -
 
 
 ### § 50 Zuwendungsbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006318123)
 
 (1)
 1Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen
@@ -512,10 +549,12 @@ eines Jahres nach Bekanntgabe der Steuerfestsetzung aufzubewahren.
 
 
 ## - - Zu § 13 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001105301)
 
 
 
 ### § 51 Pauschale Ermittlung der Gewinne aus Holznutzungen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006407140)
 
 (1) Steuerpflichtige, die für ihren Betrieb nicht zur Buchführung
 verpflichtet sind, den Gewinn nicht nach § 4 Absatz 1 des
@@ -542,6 +581,7 @@ unmittelbarem Zusammenhang stehenden Betriebsausgaben.
 
 
 ### § 52 Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006508123)
 
 (1)
 1Behörden und andere öffentliche Stellen im Sinne von § 6 Absatz 1 bis
@@ -596,10 +636,12 @@ Beihilfen erfolgen.
 
 
 ## - - Zu § 17 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001305301)
 
 
 
 ### § 53 Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006605301)
 
 1Bei Anteilen an einer Kapitalgesellschaft, die vor dem 21. Juni 1948
 erworben worden sind, sind als Anschaffungskosten im Sinne des § 17
@@ -619,6 +661,7 @@ jeweils der 6. Juli 1959.
 
 
 ### § 54 Übersendung von Urkunden durch die Notare
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006708301)
 
 (1)
 1Die Notare übersenden dem in § 20 der Abgabenordnung bezeichneten
@@ -655,10 +698,12 @@ Abgabenordnung für die Besteuerung des Anteilseigners zuständig war.
 
 
 ## - - Zu § 22 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001405301)
 
 
 
 ### § 55 Ermittlung des Ertrags aus Leibrenten in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006808140)
 
 (1) Der Ertrag des Rentenrechts ist in den folgenden Fällen auf Grund
 der in § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes
@@ -1115,10 +1160,12 @@ Berücksichtigung der zeitlichen Begrenzung zu ermitteln.
 
 
 ## - - Zu § 25 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001505301)
 
 
 
 ### § 56 Steuererklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE006920123)
 
 1Unbeschränkt Steuerpflichtige haben eine jährliche
 Einkommensteuererklärung für das abgelaufene Kalenderjahr
@@ -1171,10 +1218,12 @@ oder ein nachversteuerungspflichtiger Betrag im Sinne von § 34a Absatz
 
 
 ### (XXXX) §§ 57 bis 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007306301)
 
 
 
 ### § 60 Unterlagen zur Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007511377)
 
 (1)
 1Der Steuererklärung ist eine Abschrift der Bilanz, die auf dem
@@ -1214,10 +1263,12 @@ Vordruck beizufügen.
 
 
 ## - - Zu den §§ 26a und 26b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001606140)
 
 
 
 ### § 61 Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007607140)
 
 Können die Ehegatten den Antrag nach § 26a Absatz 2 des Gesetzes nicht
 gemeinsam stellen, weil einer der Ehegatten dazu aus zwingenden
@@ -1226,9 +1277,11 @@ anderen Ehegatten als genügend ansehen.
 
 
 ### (XXXX) §§ 62 bis 62c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007706301)
 
 
 ### § 62d Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE007910140)
 
 (1)
 1Im Fall der Einzelveranlagung von Ehegatten (§ 26a des Gesetzes) kann
@@ -1256,14 +1309,17 @@ Veranlagungszeitraum der Verlustentstehung zueinander stehen.
 
 
 ### § 63 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008006301)
 
 
 
 ## - - Zu § 33 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002701301)
 
 
 
 ### § 64 Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014104123)
 
 (1) Den Nachweis der Zwangsläufigkeit von Aufwendungen im
 Krankheitsfall hat der Steuerpflichtige zu erbringen:
@@ -1333,10 +1389,12 @@ behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des §
 
 
 ## - - Zu § 33b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001705301)
 
 
 
 ### § 65 Nachweis der Behinderung und des Pflegegrads
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008115123)
 
 (1) Den Nachweis einer Behinderung hat der Steuerpflichtige zu
 erbringen:
@@ -1467,14 +1525,17 @@ Behörde.
 
 
 ### (XXXX) §§ 66 und 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008205301)
 
 
 
 ## - - Zu § 34b des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001805301)
 
 
 
 ### § 68 Nutzungssatz, Betriebsgutachten, Betriebswerk
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008307377)
 
 (1)
 1Der Nutzungssatz muss periodisch für zehn Jahre durch die
@@ -1505,10 +1566,12 @@ Betrieb liegt, ausgesprochen wird.
 
 
 ## - - Zu § 34c des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002605301)
 
 
 
 ### § 68a Einkünfte aus mehreren ausländischen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008406140)
 
 1Die für die Einkünfte aus einem ausländischen Staat festgesetzte und
 gezahlte und um einen entstandenen Ermäßigungsanspruch gekürzte
@@ -1521,6 +1584,7 @@ einzelnen ausländischen Staat gesondert zu berechnen.
 
 
 ### § 68b Nachweis über die Höhe der ausländischen Einkünfte und Steuern
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008505301)
 
 1Der Steuerpflichtige hat den Nachweis über die Höhe der ausländischen
 Einkünfte und über die Festsetzung und Zahlung der ausländischen
@@ -1531,14 +1595,17 @@ beglaubigte Übersetzung in die deutsche Sprache verlangt werden.
 
 
 ### (XXXX) §§ 68c und 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008706301)
 
 
 
 ## - - Zu § 46 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG001905301)
 
 
 
 ### § 70 Ausgleich von Härten in bestimmten Fällen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008808118)
 
 1Betragen in den Fällen des § 46 Absatz 2 Nummer 1 bis 7 des Gesetzes
 die einkommensteuerpflichtigen Einkünfte, von denen der Steuerabzug
@@ -1554,22 +1621,27 @@ verminderten Einkünfte.
 
 
 ### (XXXX) §§ 71 und 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE008905301)
 
 
 
 ## - - Zu § 50 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002205301)
 
 
 
 ### § 73 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009107301)
 
 
 
 ## - - Zu § 50a des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002305301)
 
 
 
 ### § 73a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009211123)
 
 (1) Inländisch im Sinne des § 50a Abs. 1 Nr. 4 des Gesetzes sind
 solche Personenvereinigungen, die ihre Geschäftsleitung oder ihren
@@ -1598,10 +1670,12 @@ geschützt sind.
 
 
 ### § 73b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009306301)
 
 
 
 ### § 73c Zeitpunkt des Zufließens im Sinne des § 50a Abs. 5 Satz 1 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009406140)
 
 Die Vergütungen im Sinne des § 50a Abs. 1 des Gesetzes fließen dem
 Gläubiger zu
@@ -1626,6 +1700,7 @@ Gläubiger zu
 
 
 ### § 73d Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009508140)
 
 (1)
 1Der Schuldner der Vergütungen im Sinne des § 50a Abs. 1 des Gesetzes
@@ -1663,6 +1738,7 @@ einbehalten und abgeführt worden sind.
 
 
 ### § 73e Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009613123)
 
 1Der Schuldner hat die innerhalb eines Kalendervierteljahrs
 einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des
@@ -1708,6 +1784,7 @@ Absatz 7 des Gesetzes mit der Maßgabe, dass
 
 
 ### § 73f Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009708140)
 
 1Der Schuldner der Vergütungen für die Nutzung oder das Recht auf
 Nutzung von Urheberrechten im Sinne des § 50a Abs. 1 Nr. 3 des
@@ -1725,6 +1802,7 @@ und 73e gelten entsprechend.
 
 
 ### § 73g Haftungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE009806140)
 
 (1) Ist die Steuer nicht ordnungsmäßig einbehalten oder abgeführt, so
 hat das Bundeszentralamt für Steuern oder das zuständige Finanzamt die
@@ -1742,14 +1820,17 @@ anerkannt hat.
 
 
 ## - - Zu § 51 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002405301)
 
 
 
 ### (XXXX) §§ 74 bis 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE010107301)
 
 
 
 ### § 81 Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE010812377)
 
 (1)
 1Steuerpflichtige, die den Gewinn nach § 5 des Gesetzes ermitteln,
@@ -1883,10 +1964,12 @@ sofort abzugsfähige Betriebsausgaben behandelt werden.
 
 
 ### § 82 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE010906301)
 
 
 
 ### § 82a Erhöhte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand für bestimmte Anlagen und Einrichtungen bei Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011012123)
 
 (1)
 1Der Steuerpflichtige kann von den Herstellungskosten
@@ -1965,6 +2048,7 @@ die Wohnung seit mindestens zehn Jahren fertiggestellt ist.
 
 
 ### § 82b Behandlung größeren Erhaltungsaufwands bei Wohngebäuden
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014200301)
 
 (1)
 1Der Steuerpflichtige kann größere Aufwendungen für die Erhaltung von
@@ -1995,9 +2079,11 @@ gleichen Zeitraum zu verteilen.
 
 
 ### (XXXX) §§ 82c bis 82e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011206140)
 
 
 ### § 82f Bewertungsfreiheit für Handelsschiffe, für Schiffe, die der Seefischerei dienen, und für Luftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011513140)
 
 (1)
 1Steuerpflichtige, die den Gewinn nach § 5 des Gesetzes ermitteln,
@@ -2053,6 +2139,7 @@ treten.
 
 
 ### § 82g Erhöhte Absetzungen von Herstellungskosten für bestimmte Baumaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011611123)
 
 1Der Steuerpflichtige kann von den durch Zuschüsse aus Sanierungs-
 oder Entwicklungsförderungsmitteln nicht gedeckten Herstellungskosten
@@ -2077,10 +2164,12 @@ auch deren Höhe zu enthalten.
 
 
 ### § 82h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011707301)
 
 
 
 ### § 82i Erhöhte Absetzungen von Herstellungskosten bei Baudenkmälern
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE011806140)
 
 (1)
 1Bei einem Gebäude, das nach den jeweiligen landesrechtlichen
@@ -2116,14 +2205,17 @@ zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
 
 ### § 83 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012005301)
 
 
 
 ## - - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNG002505301)
 
 
 
 ### § 84 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE014401123)
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
@@ -2382,20 +2474,24 @@ erstmals für den Veranlagungszeitraum 2013 anzuwenden.
 
 
 ### § 85 (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012205301)
 
 
 
 ### Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012309301)
 
 -
 
 
 ### (XXXX) Anlagen 2 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012405301)
 
 
 (zu § 81 Abs. 3 Nr. 1)
 
 ### Anlage 5 Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012705301)
 
 (Fundstelle: BGBl. I 2000, 733)
 
@@ -2429,6 +2525,7 @@ dienenden Anlagen und Einrichtungen gehören:
 (zu § 81 Abs. 3 Nr. 2)
 
 ### Anlage 6 Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/estdv_1955/BJNR007560955.html#BJNR007560955BJNE012805301)
 
 (Fundstelle: BGBl. I 2000, 733)
 

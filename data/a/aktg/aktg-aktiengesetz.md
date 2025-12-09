@@ -20,20 +20,24 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000200308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erstes Buch - Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG000300308)
 
 
 
 ### Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG000400308)
 
 
 
 #### § 1 Wesen der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000500308)
 
 (1) Die Aktiengesellschaft ist eine Gesellschaft mit eigener
 Rechtspersönlichkeit. Für die Verbindlichkeiten der Gesellschaft
@@ -43,6 +47,7 @@ haftet den Gläubigern nur das Gesellschaftsvermögen.
 
 
 #### § 2 Gründerzahl
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000601307)
 
 An der Feststellung des Gesellschaftsvertrags (der Satzung) müssen
 sich eine oder mehrere Personen beteiligen, welche die Aktien gegen
@@ -50,6 +55,7 @@ Einlagen übernehmen.
 
 
 #### § 3 Formkaufmann. Börsennotierung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000702307)
 
 (1) Die Aktiengesellschaft gilt als Handelsgesellschaft, auch wenn der
 Gegenstand des Unternehmens nicht im Betrieb eines Handelsgewerbes
@@ -62,6 +68,7 @@ das Publikum mittelbar oder unmittelbar zugänglich ist.
 
 
 #### § 4 Firma
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000801307)
 
 Die Firma der Aktiengesellschaft muß, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
@@ -70,21 +77,25 @@ allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
 
 #### § 5 Sitz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE000901140)
 
 Sitz der Gesellschaft ist der Ort im Inland, den die Satzung bestimmt.
 
 
 #### § 6 Grundkapital
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001002307)
 
 Das Grundkapital muß auf einen Nennbetrag in Euro lauten.
 
 
 #### § 7 Mindestnennbetrag des Grundkapitals
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001101307)
 
 Der Mindestnennbetrag des Grundkapitals ist fünfzigtausend Euro.
 
 
 #### § 8 Form und Mindestbeträge der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001204307)
 
 (1) Die Aktien können entweder als Nennbetragsaktien oder als
 Stückaktien begründet werden.
@@ -112,6 +123,7 @@ Aktionären vor der Ausgabe der Aktien erteilt werden
 
 
 #### § 9 Ausgabebetrag der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001301307)
 
 (1) Für einen geringeren Betrag als den Nennbetrag oder den auf die
 einzelne Stückaktie entfallenden anteiligen Betrag des Grundkapitals
@@ -121,6 +133,7 @@ dürfen Aktien nicht ausgegeben werden (geringster Ausgabebetrag).
 
 
 #### § 10 Aktien und Zwischenscheine
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001405360)
 
 (1) Die Aktien lauten auf Namen. Sie können auf den Inhaber lauten,
 wenn
@@ -182,6 +195,7 @@ zugelassen ist.
 
 
 #### § 11 Aktien besonderer Gattung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001500308)
 
 Die Aktien können verschiedene Rechte gewähren, namentlich bei der
 Verteilung des Gewinns und des Gesellschaftsvermögens. Aktien mit
@@ -189,6 +203,7 @@ gleichen Rechten bilden eine Gattung.
 
 
 #### § 12 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001602360)
 
 Jede Aktie gewährt das Stimmrecht. Nach den Vorschriften dieses
 Gesetzes können Mehrstimmrechtsaktien sowie Vorzugsaktien als Aktien
@@ -196,6 +211,7 @@ ohne Stimmrecht ausgegeben werden.
 
 
 #### § 13 Unterzeichnung der Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001701360)
 
 Zur Unterzeichnung von Aktien und Zwischenscheinen genügt eine
 vervielfältigte Unterschrift. Die Gültigkeit der Unterzeichnung kann
@@ -205,12 +221,14 @@ Aktien findet keine Unterzeichnung statt.
 
 
 #### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001800308)
 
 Gericht im Sinne dieses Gesetzes ist, wenn nichts anderes bestimmt
 ist, das Gericht des Sitzes der Gesellschaft.
 
 
 #### § 15 Verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE001900308)
 
 Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im
 Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit
@@ -221,6 +239,7 @@ Unternehmensvertrags (§§ 291, 292) sind.
 
 
 #### § 16 In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002001307)
 
 (1) Gehört die Mehrheit der Anteile eines rechtlich selbständigen
 Unternehmens einem anderen Unternehmen oder steht einem anderen
@@ -253,6 +272,7 @@ Inhabers sind.
 
 
 #### § 17 Abhängige und herrschende Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002100308)
 
 (1) Abhängige Unternehmen sind rechtlich selbständige Unternehmen, auf
 die ein anderes Unternehmen (herrschendes Unternehmen) unmittelbar
@@ -264,6 +284,7 @@ ist.
 
 
 #### § 18 Konzern und Konzernunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002200308)
 
 (1) Sind ein herrschendes und ein oder mehrere abhängige Unternehmen
 unter der einheitlichen Leitung des herrschenden Unternehmens
@@ -282,6 +303,7 @@ Unternehmen sind Konzernunternehmen.
 
 
 #### § 19 Wechselseitig beteiligte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002301307)
 
 (1) Wechselseitig beteiligte Unternehmen sind Unternehmen mit Sitz im
 Inland in der Rechtsform einer Kapitalgesellschaft, die dadurch
@@ -306,6 +328,7 @@ oder abhängige Unternehmen sind, nicht anzuwenden.
 
 
 #### § 20 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002405125)
 
 (1) Sobald einem Unternehmen mehr als der vierte Teil der Aktien einer
 Aktiengesellschaft mit Sitz im Inland gehört, hat es dies der
@@ -363,6 +386,7 @@ Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 
 #### § 21 Mitteilungspflichten der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002505125)
 
 (1) Sobald der Gesellschaft mehr als der vierte Teil der Anteile einer
 anderen Kapitalgesellschaft mit Sitz im Inland gehört, hat sie dies
@@ -390,6 +414,7 @@ Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 
 #### § 22 Nachweis mitgeteilter Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002600308)
 
 Ein Unternehmen, dem eine Mitteilung nach § 20 Abs. 1, 3 oder 4, § 21
 Abs. 1 oder 2 gemacht worden ist, kann jederzeit verlangen, daß ihm
@@ -397,10 +422,12 @@ das Bestehen der Beteiligung nachgewiesen wird.
 
 
 ### Zweiter Teil - Gründung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG002700308)
 
 
 
 #### § 23 Feststellung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002801307)
 
 (1) Die Satzung muß durch notarielle Beurkundung festgestellt werden.
 Bevollmächtigte bedürfen einer notariell beglaubigten Vollmacht.
@@ -459,10 +486,12 @@ eine abschließende Regelung enthält.
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE002901123)
 
 
 
 #### § 25 Bekanntmachungen der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003004123)
 
 Bestimmt das Gesetz oder die Satzung, daß eine Bekanntmachung der
 Gesellschaft durch die Gesellschaftsblätter erfolgen soll, so ist sie
@@ -470,6 +499,7 @@ in den Bundesanzeiger einzurücken.
 
 
 #### § 26 Sondervorteile. Gründungsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003100308)
 
 (1) Jeder einem einzelnen Aktionär oder einem Dritten eingeräumte
 besondere Vorteil muß in der Satzung unter Bezeichnung des
@@ -496,6 +526,7 @@ mindestens fünf Jahren abgewickelt sind.
 
 
 #### § 27 Sacheinlagen, Sachübernahmen; Rückzahlung von Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003202140)
 
 (1) Sollen Aktionäre Einlagen machen, die nicht durch Einzahlung des
 Ausgabebetrags der Aktien zu leisten sind (Sacheinlagen), oder soll
@@ -542,18 +573,21 @@ Abs. 4, für die Beseitigung der Satzungsbestimmungen § 26 Abs. 5.
 
 
 #### § 28 Gründer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003300308)
 
 Die Aktionäre, die die Satzung festgestellt haben, sind die Gründer
 der Gesellschaft.
 
 
 #### § 29 Errichtung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003400308)
 
 Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft
 errichtet.
 
 
 #### § 30 Bestellung des Aufsichtsrats, des Vorstands und des Abschlußprüfers
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003500308)
 
 (1) Die Gründer haben den ersten Aufsichtsrat der Gesellschaft und den
 Abschlußprüfer für das erste Voll- oder Rumpfgeschäftsjahr zu
@@ -575,6 +609,7 @@ zusammenzusetzen ist; §§ 96 bis 99 sind anzuwenden.
 
 
 #### § 31 Bestellung des Aufsichtsrats bei Sachgründung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003601307)
 
 (1) Ist in der Satzung als Gegenstand einer Sacheinlage oder
 Sachübernahme die Einbringung oder Übernahme eines Unternehmens oder
@@ -611,6 +646,7 @@ Aufsichtsratsmitglieder der Arbeitnehmer.
 
 
 #### § 32 Gründungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003700308)
 
 (1) Die Gründer haben einen schriftlichen Bericht über den Hergang der
 Gründung zu erstatten (Gründungsbericht).
@@ -642,6 +678,7 @@ Entschädigung oder Belohnung ausbedungen hat.
 
 
 #### § 33 Gründungsprüfung. Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003802140)
 
 (1) Die Mitglieder des Vorstands und des Aufsichtsrats haben den
 Hergang der Gründung zu prüfen.
@@ -695,6 +732,7 @@ maßgebenden Einfluß haben.
 
 
 #### § 33a Sachgründung ohne externe Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056702123)
 
 (1) Von einer Prüfung durch Gründungsprüfer kann bei einer Gründung
 mit Sacheinlagen oder Sachübernahmen (§ 33 Abs. 2 Nr. 4) abgesehen
@@ -729,6 +767,7 @@ angenommene Wert.
 
 
 #### § 34 Umfang der Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE003903140)
 
 (1) Die Prüfung durch die Mitglieder des Vorstands und des
 Aufsichtsrats sowie die Prüfung durch die Gründungsprüfer haben sich
@@ -761,6 +800,7 @@ einsehen.
 
 
 #### § 35 Meinungsverschiedenheiten zwischen Gründern und Gründungsprüfern. Vergütung und Auslagen der Gründungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004001140)
 
 (1) Die Gründungsprüfer können von den Gründern alle Aufklärungen und
 Nachweise verlangen, die für eine sorgfältige Prüfung notwendig sind.
@@ -780,6 +820,7 @@ Zivilprozeßordnung statt.
 
 
 #### § 36 Anmeldung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004102140)
 
 (1) Die Gesellschaft ist bei dem Gericht von allen Gründern und
 Mitgliedern des Vorstands und des Aufsichtsrats zur Eintragung in das
@@ -794,6 +835,7 @@ steht.
 
 
 #### § 36a Leistung der Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004201307)
 
 (1) Bei Bareinlagen muß der eingeforderte Betrag (§ 36 Abs. 2)
 mindestens ein Viertel des geringsten Ausgabebetrags und bei Ausgabe
@@ -808,6 +850,7 @@ Aktien für einen höheren als diesen auch dem Mehrbetrag entsprechen.
 
 
 #### § 37 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004306360)
 
 (1) In der Anmeldung ist zu erklären, daß die Voraussetzungen des § 36
 Abs. 2 und des § 36a erfüllt sind; dabei sind der Betrag, zu dem die
@@ -878,6 +921,7 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 
 #### § 37a Anmeldung bei Sachgründung ohne externe Gründungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056800140)
 
 (1) Wird nach § 33a von einer externen Gründungsprüfung abgesehen, ist
 dies in der Anmeldung zu erklären. Der Gegenstand jeder Sacheinlage
@@ -916,6 +960,7 @@ bekannt geworden sind.
 
 
 #### § 38 Prüfung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004403140)
 
 (1) Das Gericht hat zu prüfen, ob die Gesellschaft ordnungsgemäß
 errichtet und angemeldet ist. Ist dies nicht der Fall, so hat es die
@@ -959,6 +1004,7 @@ soweit diese Bestimmung, ihr Fehlen oder ihre Nichtigkeit
 
 
 #### § 39 Inhalt der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004501140)
 
 (1) Bei der Eintragung der Gesellschaft sind die Firma und der Sitz
 der Gesellschaft, eine inländische Geschäftsanschrift, der Gegenstand
@@ -979,11 +1025,13 @@ einzutragen.
 
 
 #### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004604377)
 
 -
 
 
 #### § 41 Handeln im Namen der Gesellschaft vor der Eintragung. Verbotene Aktienausgabe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004700308)
 
 (1) Vor der Eintragung in das Handelsregister besteht die
 Aktiengesellschaft als solche nicht. Wer vor der Eintragung der
@@ -1010,6 +1058,7 @@ Gesamtschuldner verantwortlich.
 
 
 #### § 42 Einpersonen-Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE054501307)
 
 Gehören alle Aktien allein oder neben der Gesellschaft einem Aktionär,
 ist unverzüglich eine entsprechende Mitteilung unter Angabe von Name,
@@ -1018,10 +1067,12 @@ Handelsregister einzureichen.
 
 
 #### (XXXX) §§ 43 und 44
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE004802307)
 
 
 
 #### § 45 Sitzverlegung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005101377)
 
 (1) Wird der Sitz der Gesellschaft im Inland verlegt, so ist die
 Verlegung beim Gericht des bisherigen Sitzes anzumelden.
@@ -1050,6 +1101,7 @@ wirksam.
 
 
 #### § 46 Verantwortlichkeit der Gründer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005200308)
 
 (1) Die Gründer sind der Gesellschaft als Gesamtschuldner
 verantwortlich für die Richtigkeit und Vollständigkeit der Angaben,
@@ -1086,6 +1138,7 @@ die ein für ihre Rechnung handelnder Gründer kannte oder kennen mußte.
 
 
 #### § 47 Verantwortlichkeit anderer Personen neben den Gründern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005300308)
 
 Neben den Gründern und den Personen, für deren Rechnung die Gründer
 Aktien übernommen haben, ist als Gesamtschuldner der Gesellschaft zum
@@ -1116,6 +1169,7 @@ Schadenersatz verpflichtet,
 
 
 #### § 48 Verantwortlichkeit des Vorstands und des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005400308)
 
 Mitglieder des Vorstands und des Aufsichtsrats, die bei der Gründung
 ihre Pflichten verletzen, sind der Gesellschaft zum Ersatz des daraus
@@ -1129,12 +1183,14 @@ des Vorstands und des Aufsichtsrats bei der Gründung gelten im übrigen
 
 
 #### § 49 Verantwortlichkeit der Gründungsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005500308)
 
 § 323 Abs. 1 bis 4 des Handelsgesetzbuchs über die Verantwortlichkeit
 des Abschlußprüfers gilt sinngemäß.
 
 
 #### § 50 Verzicht und Vergleich
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005601307)
 
 Die Gesellschaft kann auf Ersatzansprüche gegen die Gründer, die neben
 diesen haftenden Personen und gegen die Mitglieder des Vorstands und
@@ -1150,6 +1206,7 @@ Insolvenzplan geregelt wird.
 
 
 #### § 51 Verjährung der Ersatzansprüche
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005701377)
 
 Ersatzansprüche der Gesellschaft nach den §§ 46 bis 48 verjähren in
 fünf Jahren. Die Verjährung beginnt mit der Eintragung der
@@ -1159,6 +1216,7 @@ der Handlung.
 
 
 #### § 52 Nachgründung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005803140)
 
 (1) Verträge der Gesellschaft mit Gründern oder mit mehr als 10 vom
 Hundert des Grundkapitals an der Gesellschaft beteiligten Aktionären,
@@ -1230,6 +1288,7 @@ Gesellschaft, in der Zwangsvollstreckung oder an der Börse erfolgt.
 
 
 #### § 53 Ersatzansprüche bei der Nachgründung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE005900308)
 
 Für die Nachgründung gelten die §§ 46, 47, 49 bis 51 über die
 Ersatzansprüche der Gesellschaft sinngemäß. An die Stelle der Gründer
@@ -1241,15 +1300,18 @@ Vertrags über die Nachgründung.
 
 
 ### Dritter Teil - Rechtsverhältnisse der Gesellschaft und der Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG006000308)
 
 
 
 #### § 53a Gleichbehandlung der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006100308)
 
 Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 
 #### § 54 Hauptverpflichtung der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006203377)
 
 (1) Die Verpflichtung der Aktionäre zur Leistung der Einlagen wird
 durch den Ausgabebetrag der Aktien begrenzt.
@@ -1272,6 +1334,7 @@ nicht vor Ablauf von sechs Monaten ab dem Zeitpunkt der Eröffnung ein.
 
 
 #### § 55 Nebenverpflichtungen der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006300308)
 
 (1) Ist die Übertragung der Aktien an die Zustimmung der Gesellschaft
 gebunden, so kann die Satzung Aktionären die Verpflichtung auferlegen,
@@ -1286,6 +1349,7 @@ Verpflichtung nicht oder nicht gehörig erfüllt wird.
 
 
 #### § 56 Keine Zeichnung eigener Aktien. Aktienübernahme für Rechnung der Gesellschaft oder durch ein abhängiges oder in Mehrheitsbesitz stehendes Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006400308)
 
 (1) Die Gesellschaft darf keine eigenen Aktien zeichnen.
 
@@ -1314,6 +1378,7 @@ Vorstandsmitglied beweist, daß es kein Verschulden trifft.
 
 
 #### § 57 Keine Rückgewähr, keine Verzinsung der Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006502140)
 
 (1) Den Aktionären dürfen die Einlagen nicht zurückgewährt werden. Als
 Rückgewähr gilt nicht die Zahlung des Erwerbspreises beim zulässigen
@@ -1333,6 +1398,7 @@ Bilanzgewinn verteilt werden.
 
 
 #### § 58 Verwendung des Jahresüberschusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006605123)
 
 (1) Die Satzung kann nur für den Fall, daß die Hauptversammlung den
 Jahresabschluß feststellt, bestimmen, daß Beträge aus dem
@@ -1379,6 +1445,7 @@ eine Sachausschüttung beschließen.
 
 
 #### § 59 Abschlagszahlung auf den Bilanzgewinn
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006700308)
 
 (1) Die Satzung kann den Vorstand ermächtigen, nach Ablauf des
 Geschäftsjahrs auf den voraussichtlichen Bilanzgewinn einen Abschlag
@@ -1397,6 +1464,7 @@ Aufsichtsrats.
 
 
 #### § 60 Gewinnverteilung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006801307)
 
 (1) Die Anteile der Aktionäre am Gewinn bestimmen sich nach ihren
 Anteilen am Grundkapital.
@@ -1414,6 +1482,7 @@ ist.
 
 
 #### § 61 Vergütung von Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE006900308)
 
 Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung
 neben den Einlagen auf das Grundkapital verpflichtet sind, darf eine
@@ -1422,6 +1491,7 @@ darauf gezahlt werden, ob ein Bilanzgewinn ausgewiesen wird.
 
 
 #### § 62 Haftung der Aktionäre beim Empfang verbotener Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007002377)
 
 (1) Die Aktionäre haben der Gesellschaft Leistungen, die sie entgegen
 den Vorschriften dieses Gesetzes von ihr empfangen haben,
@@ -1442,6 +1512,7 @@ Anwendung.
 
 
 #### § 63 Folgen nicht rechtzeitiger Einzahlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007100308)
 
 (1) Die Aktionäre haben die Einlagen nach Aufforderung durch den
 Vorstand einzuzahlen. Die Aufforderung ist, wenn die Satzung nichts
@@ -1457,6 +1528,7 @@ Vertragsstrafen festsetzen.
 
 
 #### § 64 Ausschluß säumiger Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007200308)
 
 (1) Aktionären, die den eingeforderten Betrag nicht rechtzeitig
 einzahlen, kann eine Nachfrist mit der Androhung gesetzt werden, daß
@@ -1487,6 +1559,7 @@ Aktionär.
 
 
 #### § 65 Zahlungspflicht der Vormänner
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007302377)
 
 (1) Jeder im Aktienregister verzeichnete Vormann des ausgeschlossenen
 Aktionärs ist der Gesellschaft zur Zahlung des rückständigen Betrags
@@ -1517,6 +1590,7 @@ der Versteigerung ergehen.
 
 
 #### § 66 Keine Befreiung der Aktionäre von ihren Leistungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007400308)
 
 (1) Die Aktionäre und ihre Vormänner können von ihren
 Leistungspflichten nach den §§ 54 und 65 nicht befreit werden. Gegen
@@ -1537,6 +1611,7 @@ Betrags, um den das Grundkapital herabgesetzt worden ist.
 
 
 #### § 67 Eintragung im Aktienregister
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007510360)
 
 (1) Namensaktien sind unabhängig von einer Verbriefung unter Angabe
 des Namens, Vornamens, Geburtsdatums und einer Anschrift sowie einer
@@ -1624,6 +1699,7 @@ Widerspruchsrecht zu informieren.
 
 
 #### § 67a Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057300360)
 
 (1) Börsennotierte Gesellschaften haben Informationen über
 Unternehmensereignisse gemäß Absatz 6, die den Aktionären nicht direkt
@@ -1682,6 +1758,7 @@ der Durchführungsverordnung (EU) 2018/1212.
 
 
 #### § 67b Übermittlung von Informationen durch Intermediäre an die Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057400360)
 
 (1) Der Letztintermediär hat dem Aktionär die nach § 67a Absatz 1 Satz
 1 erhaltenen Informationen nach Artikel 2 Absatz 1 und 4, Artikel 9
@@ -1695,6 +1772,7 @@ Union.
 
 
 #### § 67c Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057500360)
 
 (1) Der Letztintermediär hat die vom Aktionär einer börsennotierten
 Gesellschaft erhaltenen Informationen über die Ausübung seiner Rechte
@@ -1724,6 +1802,7 @@ diesen nach Absatz 1 der Gesellschaft zu übermitteln.
 
 
 #### § 67d Informationsanspruch der Gesellschaft gegenüber Intermediären
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057600360)
 
 (1) Die börsennotierte Gesellschaft kann von einem Intermediär, der
 Aktien der Gesellschaft verwahrt, Informationen über die Identität der
@@ -1763,6 +1842,7 @@ die Absätze 1 bis 5 Satz 1 entsprechend.
 
 
 #### § 67e Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057700360)
 
 (1) Gesellschaften und Intermediäre dürfen personenbezogene Daten der
 Aktionäre für die Zwecke der Identifikation, der Kommunikation mit den
@@ -1789,6 +1869,7 @@ Berichtigung verlangen.
 
 
 #### § 67f Kosten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057801125)
 
 (1) Vorbehaltlich der Regelungen in Satz 2 trägt die Gesellschaft die
 Kosten für die nach den §§ 67a bis 67d, auch in Verbindung mit § 125
@@ -1854,6 +1935,7 @@ bedarf nicht der Zustimmung des Bundesrates.
 
 
 #### § 68 Übertragung von Namensaktien. Vinkulierung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007601311)
 
 (1) Namensaktien können auch durch Indossament übertragen werden. Für
 die Form des Indossaments, den Rechtsausweis des Inhabers und seine
@@ -1874,6 +1956,7 @@ aber die Unterschriften zu prüfen.
 
 
 #### § 69 Rechtsgemeinschaft an einer Aktie
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007700308)
 
 (1) Steht eine Aktie mehreren Berechtigten zu, so können sie die
 Rechte aus der Aktie nur durch einen gemeinschaftlichen Vertreter
@@ -1890,6 +1973,7 @@ Anfall der Erbschaft abgegeben werden.
 
 
 #### § 70 Berechnung der Aktienbesitzzeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007803360)
 
 Ist die Ausübung von Rechten aus der Aktie davon abhängig, dass der
 Aktionär während eines bestimmten Zeitraums Inhaber der Aktie gewesen
@@ -1906,6 +1990,7 @@ Bausparkassen erworben hat.
 
 
 #### § 71 Erwerb eigener Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE007912360)
 
 (1) Die Gesellschaft darf eigene Aktien nur erwerben,
 
@@ -1986,6 +2071,7 @@ eigener Aktien ist jedoch nichtig, soweit der Erwerb gegen die Absätze
 
 
 #### § 71a Umgehungsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008004360)
 
 (1) Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines
 Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an
@@ -2013,11 +2099,13 @@ zu erwerben, soweit der Erwerb durch die Gesellschaft gegen § 71 Abs.
 
 
 #### § 71b Rechte aus eigenen Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008100308)
 
 Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu.
 
 
 #### § 71c Veräußerung und Einziehung eigener Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008201307)
 
 (1) Hat die Gesellschaft eigene Aktien unter Verstoß gegen § 71 Abs. 1
 oder 2 erworben, so müssen sie innerhalb eines Jahres nach ihrem
@@ -2035,6 +2123,7 @@ einzuziehen.
 
 
 #### § 71d Erwerb eigener Aktien durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008303307)
 
 Ein im eigenen Namen, jedoch für Rechnung der Gesellschaft handelnder
 Dritter darf Aktien der Gesellschaft nur erwerben oder besitzen,
@@ -2054,6 +2143,7 @@ zu erstatten.
 
 
 #### § 71e Inpfandnahme eigener Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008403360)
 
 (1) Dem Erwerb eigener Aktien nach § 71 Abs. 1 und 2, § 71d steht es
 gleich, wenn eigene Aktien als Pfand genommen werden. Jedoch darf ein
@@ -2069,6 +2159,7 @@ Aktien ist nichtig, soweit der Erwerb gegen Absatz 1 verstößt.
 
 
 #### § 72 Kraftloserklärung von Aktien im Aufgebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008501140)
 
 (1) Ist eine Aktie oder ein Zwischenschein abhanden gekommen oder
 vernichtet, so kann die Urkunde im Aufgebotsverfahren nach dem Gesetz
@@ -2085,6 +2176,7 @@ Kraftloserklärung der Urkunde nach Absatz 1 nicht entgegen.
 
 
 #### § 73 Kraftloserklärung von Aktien durch die Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008602140)
 
 (1) Ist der Inhalt von Aktienurkunden durch eine Veränderung der
 rechtlichen Verhältnisse unrichtig geworden, so kann die Gesellschaft
@@ -2120,6 +2212,7 @@ werden, gilt § 226.
 
 
 #### § 74 Neue Urkunden an Stelle beschädigter oder verunstalteter Aktien oder Zwischenscheine
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008700308)
 
 Ist eine Aktie oder ein Zwischenschein so beschädigt oder
 verunstaltet, daß die Urkunde zum Umlauf nicht mehr geeignet ist, so
@@ -2130,6 +2223,7 @@ der alten verlangen. Die Kosten hat er zu tragen und vorzuschießen.
 
 
 #### § 75 Neue Gewinnanteilscheine
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE008800308)
 
 Neue Gewinnanteilscheine dürfen an den Inhaber des Erneuerungsscheins
 nicht ausgegeben werden, wenn der Besitzer der Aktie oder des
@@ -2139,14 +2233,17 @@ vorlegt.
 
 
 ### Vierter Teil - Verfassung der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG008900308)
 
 
 
 #### Erster Abschnitt - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG009000308)
 
 
 
 ##### § 76 Leitung der Aktiengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009110360)
 
 (1) Der Vorstand hat unter eigener Verantwortung die Gesellschaft zu
 leiten.
@@ -2242,6 +2339,7 @@ fünf Jahre sein.
 
 
 ##### § 77 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009200308)
 
 (1) Besteht der Vorstand aus mehreren Personen, so sind sämtliche
 Vorstandsmitglieder nur gemeinschaftlich zur Geschäftsführung befugt.
@@ -2259,6 +2357,7 @@ gefaßt werden.
 
 
 ##### § 78 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009301140)
 
 (1) Der Vorstand vertritt die Gesellschaft gerichtlich und
 außergerichtlich. Hat eine Gesellschaft keinen Vorstand
@@ -2293,11 +2392,13 @@ der Gesellschaft befugt ist.
 
 
 ##### § 79 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009401140)
 
 -
 
 
 ##### § 80 Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009504140)
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
 bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der
@@ -2333,6 +2434,7 @@ sowie alle Abwickler anzugeben.
 
 
 ##### § 81 Änderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009604360)
 
 (1) Jede Änderung des Vorstands oder der Vertretungsbefugnis eines
 Vorstandsmitglieds hat der Vorstand zur Eintragung in das
@@ -2351,6 +2453,7 @@ belehrt worden sind. § 37 Abs. 2 Satz 2 ist anzuwenden.
 
 
 ##### § 82 Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009700308)
 
 (1) Die Vertretungsbefugnis des Vorstands kann nicht beschränkt
 werden.
@@ -2364,6 +2467,7 @@ getroffen haben.
 
 
 ##### § 83 Vorbereitung und Ausführung von Hauptversammlungsbeschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009800308)
 
 (1) Der Vorstand ist auf Verlangen der Hauptversammlung verpflichtet,
 Maßnahmen, die in die Zuständigkeit der Hauptversammlung fallen,
@@ -2378,6 +2482,7 @@ Rahmen ihrer Zuständigkeit beschlossenen Maßnahmen auszuführen.
 
 
 ##### § 84 Bestellung und Abberufung des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE009902360)
 
 (1) Vorstandsmitglieder bestellt der Aufsichtsrat auf höchstens fünf
 Jahre. Eine wiederholte Bestellung oder Verlängerung der Amtszeit,
@@ -2450,6 +2555,7 @@ Bestellung bleiben unberührt.
 
 
 ##### § 85 Bestellung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010002360)
 
 (1) Fehlt ein erforderliches Vorstandsmitglied, so hat in dringenden
 Fällen das Gericht auf Antrag eines Beteiligten das Mitglied zu
@@ -2471,11 +2577,13 @@ Zivilprozeßordnung statt.
 
 
 ##### § 86
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010101377)
 
 (weggefallen)
 
 
 ##### § 87 Grundsätze für die Bezüge der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010203360)
 
 (1) Der Aufsichtsrat hat bei der Festsetzung der Gesamtbezüge des
 einzelnen Vorstandsmitglieds (Gehalt, Gewinnbeteiligungen,
@@ -2517,6 +2625,7 @@ herabsetzen.
 
 
 ##### § 87a Vergütungssystem börsennotierter Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057900360)
 
 (1) Der Aufsichtsrat der börsennotierten Gesellschaft beschließt ein
 klares und verständliches System zur Vergütung der
@@ -2625,6 +2734,7 @@ des Vergütungssystems, von denen abgewichen werden kann, benennt.
 
 
 ##### § 88 Wettbewerbsverbot
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010301377)
 
 (1) Die Vorstandsmitglieder dürfen ohne Einwilligung des Aufsichtsrats
 weder ein Handelsgewerbe betreiben noch im Geschäftszweig der
@@ -2651,6 +2761,7 @@ fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
 
 
 ##### § 89 Kreditgewährung an Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010402320)
 
 (1) Die Gesellschaft darf ihren Vorstandsmitgliedern Kredit nur auf
 Grund eines Beschlusses des Aufsichtsrats gewähren. Der Beschluß kann
@@ -2707,6 +2818,7 @@ Vorschriften des Gesetzes über das Kreditwesen.
 
 
 ##### § 90 Berichte an den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010503123)
 
 (1) Der Vorstand hat dem Aufsichtsrat zu berichten über
 
@@ -2783,6 +2895,7 @@ Aufsichtsratssitzung zu unterrichten.
 
 
 ##### § 91 Organisation. Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010602360)
 
 (1) Der Vorstand hat dafür zu sorgen, daß die erforderlichen
 Handelsbücher geführt werden.
@@ -2798,6 +2911,7 @@ Kontrollsystem und Risikomanagementsystem einzurichten.
 
 
 ##### § 92 Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010703360)
 
 (1) Ergibt sich bei Aufstellung der Jahresbilanz oder einer
 Zwischenbilanz oder ist bei pflichtmäßigem Ermessen anzunehmen, daß
@@ -2809,6 +2923,7 @@ anzuzeigen.
 
 
 ##### § 93 Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010811360)
 
 (1) Die Vorstandsmitglieder haben bei ihrer Geschäftsführung die
 Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters
@@ -2899,16 +3014,19 @@ sind, in zehn Jahren, bei anderen Gesellschaften in fünf Jahren.
 
 
 ##### § 94 Stellvertreter von Vorstandsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE010900308)
 
 Die Vorschriften für die Vorstandsmitglieder gelten auch für ihre
 Stellvertreter.
 
 
 #### Zweiter Abschnitt - Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG011000308)
 
 
 
 ##### § 95 Zahl der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011104360)
 
 Der Aufsichtsrat besteht aus drei Mitgliedern. Die Satzung kann eine
 bestimmte höhere Zahl festsetzen. Die Zahl muß durch drei teilbar
@@ -2939,6 +3057,7 @@ berührt.
 
 
 ##### § 96 Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011205360)
 
 (1) Der Aufsichtsrat setzt sich zusammen
 bei Gesellschaften, für die das Mitbestimmungsgesetz gilt, aus
@@ -3006,6 +3125,7 @@ anzuwenden sind.
 
 
 ##### § 97 Bekanntmachung über die Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011302360)
 
 (1) Ist der Vorstand der Ansicht, daß der Aufsichtsrat nicht nach den
 für ihn maßgebenden gesetzlichen Vorschriften zusammengesetzt ist, so
@@ -3041,6 +3161,7 @@ nicht erfolgen.
 
 
 ##### § 98 Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011405140)
 
 (1) Ist streitig oder ungewiss, nach welchen gesetzlichen Vorschriften
 der Aufsichtsrat zusammenzusetzen ist, so entscheidet darüber auf
@@ -3118,6 +3239,7 @@ Frist von sechs Monaten mit dem Eintritt der Rechtskraft beginnt.
 
 
 ##### § 99 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011509301)
 
 (1) Auf das Verfahren ist das Gesetz über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
@@ -3163,6 +3285,7 @@ werden nicht erstattet.
 
 
 ##### § 100 Persönliche Voraussetzungen für Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011611125)
 
 (1) Mitglied des Aufsichtsrats kann nur eine natürliche, unbeschränkt
 geschäftsfähige Person sein. Ein Betreuter, der bei der Besorgung
@@ -3224,6 +3347,7 @@ Gesellschaft tätig ist, vertraut sein.
 
 
 ##### § 101 Bestellung der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011704125)
 
 (1) Die Mitglieder des Aufsichtsrats werden von der Hauptversammlung
 gewählt, soweit sie nicht in den Aufsichtsrat zu entsenden oder als
@@ -3261,6 +3385,7 @@ geltenden Vorschriften anzuwenden.
 
 
 ##### § 102 Amtszeit der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011800308)
 
 (1) Aufsichtsratsmitglieder können nicht für längere Zeit als bis zur
 Beendigung der Hauptversammlung bestellt werden, die über die
@@ -3273,6 +3398,7 @@ Amtszeit des weggefallenen Aufsichtsratsmitglieds.
 
 
 ##### § 103 Abberufung der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE011906125)
 
 (1) Aufsichtsratsmitglieder, die von der Hauptversammlung ohne Bindung
 an einen Wahlvorschlag gewählt worden sind, können von ihr vor Ablauf
@@ -3313,6 +3439,7 @@ ist.
 
 
 ##### § 104 Bestellung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012005360)
 
 (1) Gehört dem Aufsichtsrat die zur Beschlußfähigkeit nötige Zahl von
 Mitgliedern nicht an, so hat ihn das Gericht auf Antrag des Vorstands,
@@ -3432,6 +3559,7 @@ Zivilprozeßordnung statt.
 
 
 ##### § 105 Unvereinbarkeit der Zugehörigkeit zum Vorstand und zum Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012101140)
 
 (1) Ein Aufsichtsratsmitglied kann nicht zugleich Vorstandsmitglied,
 dauernd Stellvertreter von Vorstandsmitgliedern, Prokurist oder zum
@@ -3450,6 +3578,7 @@ Tätigkeit als Aufsichtsratsmitglied ausüben. Das Wettbewerbsverbot des
 
 
 ##### § 106 Bekanntmachung der Änderungen im Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012201377)
 
 Der Vorstand hat bei jeder Änderung in den Personen der
 Aufsichtsratsmitglieder unverzüglich eine Liste der Mitglieder des
@@ -3461,6 +3590,7 @@ worden ist.
 
 
 ##### § 107 Innere Ordnung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012308360)
 
 (1) Der Aufsichtsrat hat nach näherer Bestimmung der Satzung aus
 seiner Mitte einen Vorsitzenden und mindestens einen Stellvertreter zu
@@ -3520,6 +3650,7 @@ eingeholt, ist der Vorstand hierüber unverzüglich zu unterrichten.
 
 
 ##### § 108 Beschlußfassung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012401311)
 
 (1) Der Aufsichtsrat entscheidet durch Beschluß.
 
@@ -3551,6 +3682,7 @@ diesem Verfahren widerspricht.
 
 
 ##### § 109 Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012502360)
 
 (1) An den Sitzungen des Aufsichtsrats und seiner Ausschüsse sollen
 Personen, die weder dem Aufsichtsrat noch dem Vorstand angehören,
@@ -3573,6 +3705,7 @@ wenn diese sie hierzu in Textform ermächtigt haben.
 
 
 ##### § 110 Einberufung des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012602377)
 
 (1) Jedes Aufsichtsratsmitglied oder der Vorstand kann unter Angabe
 des Zwecks und der Gründe verlangen, daß der Vorsitzende des
@@ -3590,6 +3723,7 @@ beschließen, dass eine Sitzung im Kalenderhalbjahr abzuhalten ist.
 
 
 ##### § 111 Aufgaben und Rechte des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012705360)
 
 (1) Der Aufsichtsrat hat die Geschäftsführung zu überwachen.
 
@@ -3643,6 +3777,7 @@ andere wahrnehmen lassen.
 
 
 ##### § 111a Geschäfte mit nahestehenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058001125)
 
 (1) Geschäfte mit nahestehenden Personen sind Rechtsgeschäfte oder
 Maßnahmen,
@@ -3746,6 +3881,7 @@ und 111a bis 111c gelten ferner
 
 
 ##### § 111b Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058100360)
 
 (1) Ein Geschäft der börsennotierten Gesellschaft mit nahestehenden
 Personen, dessen wirtschaftlicher Wert allein oder zusammen mit den
@@ -3783,6 +3919,7 @@ sich noch für einen anderen ausüben.
 
 
 ##### § 111c Veröffentlichung von Geschäften mit nahestehenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058200360)
 
 (1) Die börsennotierte Gesellschaft hat Angaben zu solchen Geschäften
 mit nahestehenden Personen, die gemäß § 111b Absatz 1 der Zustimmung
@@ -3830,6 +3967,7 @@ worden wäre, nach § 111b Absatz 1 und 3 einer Zustimmung bedürfte.
 
 
 ##### § 112 Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012801140)
 
 Vorstandsmitgliedern gegenüber vertritt der Aufsichtsrat die
 Gesellschaft gerichtlich und außergerichtlich. § 78 Abs. 2 Satz 2 gilt
@@ -3837,6 +3975,7 @@ entsprechend.
 
 
 ##### § 113 Vergütung der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE012902360)
 
 (1) Den Aufsichtsratsmitgliedern kann für ihre Tätigkeit eine
 Vergütung gewährt werden. Sie kann in der Satzung festgesetzt oder von
@@ -3861,6 +4000,7 @@ nicht anfechtbar. § 120a Absatz 2 und 3 ist sinngemäß anzuwenden.
 
 
 ##### § 114 Verträge mit Aufsichtsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013000308)
 
 (1) Verpflichtet sich ein Aufsichtsratsmitglied außerhalb seiner
 Tätigkeit im Aufsichtsrat durch einen Dienstvertrag, durch den ein
@@ -3879,6 +4019,7 @@ nicht gegen den Rückgewähranspruch aufgerechnet werden.
 
 
 ##### § 115 Kreditgewährung an Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013102320)
 
 (1) Die Gesellschaft darf ihren Aufsichtsratsmitgliedern Kredit nur
 mit Einwilligung des Aufsichtsrats gewähren. Eine herrschende
@@ -3922,6 +4063,7 @@ Vorschriften des Gesetzes über das Kreditwesen.
 
 
 ##### § 116 Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013203360)
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Aufsichtsratsmitglieder gelten § 93 mit Ausnahme des Absatzes 2 Satz 3
@@ -3934,10 +4076,12 @@ eine unangemessene Vergütung festsetzen (§ 87 Absatz 1).
 
 
 #### Dritter Abschnitt - Benutzung des Einflusses auf die Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG013300308)
 
 
 
 ##### § 117 Schadenersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013402377)
 
 (1) Wer vorsätzlich unter Benutzung seines Einflusses auf die
 Gesellschaft ein Mitglied des Vorstands oder des Aufsichtsrats, einen
@@ -3994,14 +4138,17 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 
 #### Vierter Abschnitt - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG013500308)
 
 
 
 ##### Erster Unterabschnitt - Rechte der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG013600308)
 
 
 
 ###### § 118 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013703360)
 
 (1) Die Aktionäre üben ihre Rechte in den Angelegenheiten der
 Gesellschaft in der Hauptversammlung aus, soweit das Gesetz nichts
@@ -4035,6 +4182,7 @@ zuzulassen.
 
 
 ###### § 118a Virtuelle Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE059000125)
 
 (1) Die Satzung kann vorsehen oder den Vorstand dazu ermächtigen,
 vorzusehen, dass die Versammlung ohne physische Präsenz der Aktionäre
@@ -4129,6 +4277,7 @@ zugänglich zu machen.
 
 
 ###### § 119 Rechte der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013804125)
 
 (1) Die Hauptversammlung beschließt in den im Gesetz und in der
 Satzung ausdrücklich bestimmten Fällen, namentlich über
@@ -4176,6 +4325,7 @@ entscheiden, wenn der Vorstand es verlangt.
 
 
 ###### § 120 Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE013908360)
 
 (1) Die Hauptversammlung beschließt alljährlich in den ersten acht
 Monaten des Geschäftsjahrs über die Entlastung der Mitglieder des
@@ -4198,6 +4348,7 @@ die Verwendung des Bilanzgewinns verbunden werden.
 
 
 ###### § 120a Votum zum Vergütungssystem und zum Vergütungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058300360)
 
 (1) Die Hauptversammlung der börsennotierten Gesellschaft beschließt
 über die Billigung des vom Aufsichtsrat vorgelegten Vergütungssystems
@@ -4229,10 +4380,12 @@ zur Erörterung vorgelegt wird.
 
 
 ##### Zweiter Unterabschnitt - Einberufung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG014000308)
 
 
 
 ###### § 121 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014108125)
 
 (1) Die Hauptversammlung ist in den durch Gesetz oder Satzung
 bestimmten Fällen sowie dann einzuberufen, wenn das Wohl der
@@ -4336,6 +4489,7 @@ die Satzung eine andere Berechnung der Frist bestimmen.
 
 
 ###### § 122 Einberufung auf Verlangen einer Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014208123)
 
 (1) Die Hauptversammlung ist einzuberufen, wenn Aktionäre, deren
 Anteile zusammen den zwanzigsten Teil des Grundkapitals erreichen, die
@@ -4373,6 +4527,7 @@ stattgegeben hat.
 
 
 ###### § 123 Frist, Anmeldung zur Hauptversammlung, Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014306360)
 
 (1) Die Hauptversammlung ist mindestens dreißig Tage vor dem Tage der
 Versammlung einzuberufen. Der Tag der Einberufung ist nicht
@@ -4412,6 +4567,7 @@ Aktienregister.
 
 
 ###### § 124 Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014410125)
 
 (1) Hat die Minderheit nach § 122 Abs. 2 verlangt, dass Gegenstände
 auf die Tagesordnung gesetzt werden, so sind diese entweder bereits
@@ -4476,6 +4632,7 @@ Beschlußfassung bedarf es keiner Bekanntmachung.
 
 
 ###### § 124a Veröffentlichungen auf der Internetseite der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056901125)
 
 Bei börsennotierten Gesellschaften müssen alsbald nach der Einberufung
 der Hauptversammlung über die Internetseite der Gesellschaft
@@ -4516,6 +4673,7 @@ Weise zugänglich zu machen.
 
 
 ###### § 125 Mitteilungen für die Aktionäre und an Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014508360)
 
 (1) Der Vorstand einer Gesellschaft, die nicht ausschließlich
 Namensaktien ausgegeben hat, hat die Einberufung der Hauptversammlung
@@ -4572,6 +4730,7 @@ anzuwenden sind.
 
 
 ###### § 126 Anträge von Aktionären
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014603125)
 
 (1) Anträge von Aktionären einschließlich des Namens des Aktionärs,
 der Begründung und einer etwaigen Stellungnahme der Verwaltung sind
@@ -4642,6 +4801,7 @@ nicht behandelt werden.
 
 
 ###### § 127 Wahlvorschläge von Aktionären
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014705123)
 
 Für den Vorschlag eines Aktionärs zur Wahl von
 Aufsichtsratsmitgliedern oder von Abschlußprüfern gilt § 126
@@ -4670,6 +4830,7 @@ folgenden Inhalten zu versehen:
 
 
 ###### § 127a Aktionärsforum
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056302301)
 
 (1) Aktionäre oder Aktionärsvereinigungen können im Aktionärsforum des
 Bundesanzeigers andere Aktionäre auffordern, gemeinsam oder in
@@ -4709,13 +4870,16 @@ regeln.
 
 
 ###### § 128 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE014811360)
 
 
 ##### Dritter Unterabschnitt - Verhandlungsniederschrift. Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG014900308)
 
 
 
 ###### § 129 Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015058360)
 
 (1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens
 drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals
@@ -4765,6 +4929,7 @@ Absatz 2 Satz 1 und Absatz 3 gilt entsprechend.
 
 
 ###### § 130 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056603360)
 
 (1) Jeder Beschluß der Hauptversammlung ist durch eine über die
 Verhandlung notariell aufgenommene Niederschrift zu beurkunden.
@@ -4822,6 +4987,7 @@ Internetseite veröffentlichen.
 
 
 ###### § 130a Stellungnahme- und Rederecht bei virtuellen Hauptversammlungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE059100125)
 
 (1) Im Fall der virtuellen Hauptversammlung haben die Aktionäre das
 Recht, vor der Versammlung Stellungnahmen zu den Gegenständen der
@@ -4863,6 +5029,7 @@ sichergestellt ist.
 
 
 ###### § 131 Auskunftsrecht des Aktionärs
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015107125)
 
 (1) Jedem Aktionär ist auf Verlangen in der Hauptversammlung vom
 Vorstand Auskunft über Angelegenheiten der Gesellschaft zu geben,
@@ -4997,6 +5164,7 @@ elektronischen Kommunikation übermitteln kann.
 
 
 ###### § 132 Gerichtliche Entscheidung über das Auskunftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015204125)
 
 (1) Ob der Vorstand die Auskunft zu geben hat, entscheidet auf Antrag
 ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft
@@ -5040,10 +5208,12 @@ sind.
 
 
 ##### Vierter Unterabschnitt - Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG015300308)
 
 
 
 ###### § 133 Grundsatz der einfachen Stimmenmehrheit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015400308)
 
 (1) Die Beschlüsse der Hauptversammlung bedürfen der Mehrheit der
 abgegebenen Stimmen (einfache Stimmenmehrheit), soweit nicht Gesetz
@@ -5054,6 +5224,7 @@ bestimmen.
 
 
 ###### § 134 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015504140)
 
 (1) Das Stimmrecht wird nach Aktiennennbeträgen, bei Stückaktien nach
 deren Zahl ausgeübt. Für den Fall, daß einem Aktionär mehrere Aktien
@@ -5109,6 +5280,7 @@ Satzung.
 
 
 ###### § 134a Begriffsbestimmungen; Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058401360)
 
 (1) Im Sinne der §§ 134b bis 135 ist
 
@@ -5186,6 +5358,7 @@ unterfallen:
 
 
 ###### § 134b Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058500360)
 
 (1) Institutionelle Anleger und Vermögensverwalter haben eine Politik,
 in der sie ihre Mitwirkung in den Portfoliogesellschaften beschreiben
@@ -5236,6 +5409,7 @@ dort die Informationen nach den Absätzen 1 bis 4 verfügbar sind.
 
 
 ###### § 134c Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058600360)
 
 (1) Institutionelle Anleger haben offenzulegen, inwieweit die
 Hauptelemente ihrer Anlagestrategie dem Profil und der Laufzeit ihrer
@@ -5312,6 +5486,7 @@ Angaben
 
 
 ###### § 134d Offenlegungspflichten der Stimmrechtsberater
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058700360)
 
 (1) Stimmrechtsberater haben jährlich zu erklären, dass sie den
 Vorgaben eines näher bezeichneten Verhaltenskodex entsprochen haben
@@ -5360,6 +5535,7 @@ informieren.
 
 
 ###### § 135 Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015609360)
 
 (1) Ein Intermediär darf das Stimmrecht für Aktien, die ihm nicht
 gehören und als deren Inhaber er nicht im Aktienregister eingetragen
@@ -5476,6 +5652,7 @@ kann im Voraus weder ausgeschlossen noch beschränkt werden.
 
 
 ###### § 135a Mehrstimmrechtsaktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE059200360)
 
 (1) Die Satzung kann Namensaktien mit Mehrstimmrechten vorsehen. Die
 Mehrstimmrechte dürfen höchstens das Zehnfache des Stimmrechts nach §
@@ -5507,6 +5684,7 @@ berechtigen Mehrstimmrechtsaktien zu nur einer Stimme.
 
 
 ###### § 136 Ausschluß des Stimmrechts
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015700308)
 
 (1) Niemand kann für sich oder für einen anderen das Stimmrecht
 ausüben, wenn darüber Beschluß gefaßt wird, ob er zu entlasten oder
@@ -5525,6 +5703,7 @@ stimmen.
 
 
 ###### § 137 Abstimmung über Wahlvorschläge von Aktionären
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE015800308)
 
 Hat ein Aktionär einen Vorschlag zur Wahl von Aufsichtsratsmitgliedern
 nach § 127 gemacht und beantragt er in der Hauptversammlung die Wahl
@@ -5535,10 +5714,12 @@ vertretenen Grundkapitals erreichen.
 
 
 ##### Fünfter Unterabschnitt - Sonderbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG015900308)
 
 
 
 ###### § 138 Gesonderte Versammlung. Gesonderte Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016000308)
 
 In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse
 gewisser Aktionäre sind entweder in einer gesonderten Versammlung
@@ -5557,10 +5738,12 @@ den Sonderbeschluß das Stimmrecht ausgeübt werden kann.
 
 
 ##### Sechster Unterabschnitt - Vorzugsaktien ohne Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG016100308)
 
 
 
 ###### § 139 Wesen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016202123)
 
 (1) Für Aktien, die mit einem Vorzug bei der Verteilung des Gewinns
 ausgestattet sind, kann das Stimmrecht ausgeschlossen werden
@@ -5574,6 +5757,7 @@ Grundkapitals ausgegeben werden.
 
 
 ###### § 140 Rechte der Vorzugsaktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016301123)
 
 (1) Die Vorzugsaktien ohne Stimmrecht gewähren mit Ausnahme des
 Stimmrechts die jedem Aktionär aus der Aktie zustehenden Rechte.
@@ -5597,6 +5781,7 @@ Vorzugsbetrag.
 
 
 ###### § 141 Aufhebung oder Beschränkung des Vorzugs
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016400308)
 
 (1) Ein Beschluß, durch den der Vorzug aufgehoben oder beschränkt
 wird, bedarf zu seiner Wirksamkeit der Zustimmung der
@@ -5626,10 +5811,12 @@ Sonderbeschluß § 186 Abs. 3 bis 5 sinngemäß.
 
 
 ##### Siebenter Unterabschnitt - Sonderprüfung. Geltendmachung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG016500308)
 
 
 
 ###### § 142 Bestellung der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016610360)
 
 (1) Zur Prüfung von Vorgängen bei der Gründung oder der
 Geschäftsführung, namentlich auch bei Maßnahmen der Kapitalbeschaffung
@@ -5708,6 +5895,7 @@ soweit in diesem Gesetz nichts anderes bestimmt ist.
 
 
 ###### § 143 Auswahl der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016703360)
 
 (1) Als Sonderprüfer sollen, wenn der Gegenstand der Sonderprüfung
 keine anderen Kenntnisse fordert, nur bestellt werden
@@ -5743,12 +5931,14 @@ sich der zu prüfende Vorgang ereignet hat, erbracht hat.
 
 
 ###### § 144 Verantwortlichkeit der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016800308)
 
 § 323 des Handelsgesetzbuchs über die Verantwortlichkeit des
 Abschlußprüfers gilt sinngemäß.
 
 
 ###### § 145 Rechte der Sonderprüfer. Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE016903140)
 
 (1) Der Vorstand hat den Sonderprüfern zu gestatten, die Bücher und
 Schriften der Gesellschaft sowie die Vermögensgegenstände, namentlich
@@ -5789,6 +5979,7 @@ bekanntzumachen.
 
 
 ###### § 146 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017001377)
 
 Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die
 Gerichtskosten und die Kosten der Prüfung. Hat der Antragsteller die
@@ -5798,6 +5989,7 @@ erstatten.
 
 
 ###### § 147 Geltendmachung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017105140)
 
 (1) Die Ersatzansprüche der Gesellschaft aus der Gründung gegen die
 nach den §§ 46 bis 48, 53 verpflichteten Personen oder aus der
@@ -5830,6 +6022,7 @@ der Zivilprozeßordnung statt.
 
 
 ###### § 148 Klagezulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017403140)
 
 (1) Aktionäre, deren Anteile im Zeitpunkt der Antragstellung zusammen
 den einhundertsten Teil des Grundkapitals oder einen anteiligen Betrag
@@ -5924,6 +6117,7 @@ Bevollmächtigter zur Rechtsverfolgung unerlässlich war.
 
 
 ###### § 149 Bekanntmachungen zur Haftungsklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017501377)
 
 (1) Nach rechtskräftiger Zulassung der Klage gemäß § 148 sind der
 Antrag auf Zulassung und die Verfahrensbeendigung von der
@@ -5945,14 +6139,17 @@ Vereinbarungen, die zur Vermeidung eines Prozesses geschlossen werden.
 
 
 ### Fünfter Teil - Rechnungslegung Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG017201377)
 
 
 
 #### Erster Abschnitt - Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG052701360)
 
 
 
 ##### § 150 Gesetzliche Rücklage. Kapitalrücklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052600308)
 
 (1) In der Bilanz des nach den §§ 242, 264 des Handelsgesetzbuchs
 aufzustellenden Jahresabschlusses ist eine gesetzliche Rücklage zu
@@ -6003,14 +6200,17 @@ gleichzeitig Gewinnrücklagen zur Gewinnausschüttung aufgelöst werden.
 
 
 ##### § 150a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017700308)
 
 
 
 ##### § 151 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE017800308)
 
 
 
 ##### § 152 Vorschriften zur Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052703360)
 
 (1) Das Grundkapital ist in der Bilanz als gezeichnetes Kapital
 auszuweisen. Dabei ist der auf jede Aktiengattung entfallende Betrag
@@ -6056,10 +6256,12 @@ anzuwenden, dass die Angaben in der Bilanz zu machen sind.
 
 
 ##### (XXXX) §§ 153 bis 157 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE018000308)
 
 
 
 ##### § 158 Vorschriften zur Gewinn- und Verlustrechnung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052802377)
 
 (1) Die Gewinn- und Verlustrechnung ist nach dem Posten
 "Jahresüberschuß/Jahresfehlbetrag" in Fortführung der Numerierung um
@@ -6127,11 +6329,13 @@ Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
 
 
 ##### § 159
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE018600308)
 
 -
 
 
 ##### § 160 Vorschriften zum Anhang
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052907123)
 
 (1) In jedem Anhang sind auch Angaben zu machen über
 
@@ -6207,6 +6411,7 @@ Veräußerung eigener Aktien nicht zu berichten braucht.
 
 
 ##### § 161 Erklärung zum Corporate Governance Kodex
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE018805123)
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft
 erklären jährlich, dass den vom Bundesministerium der Justiz und für
@@ -6226,6 +6431,7 @@ des Wertpapierhandelsgesetzes gehandelt werden.
 
 
 ##### § 162 Vergütungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058800360)
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft
 erstellen jährlich einen klaren und verständlichen Bericht über die im
@@ -6337,22 +6543,27 @@ darauf folgenden Vergütungsbericht aufzunehmen.
 
 
 #### Zweiter Abschnitt - Prüfung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG018901360)
 
 
 
 ##### Erster Unterabschnitt - Prüfung durch Abschlußprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG019001360)
 
 
 
 ###### (XXXX) §§ 163 bis 169
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE019101360)
 
 
 
 ##### Zweiter Unterabschnitt - Prüfung durch den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG019900308)
 
 
 
 ###### § 170 Vorlage an den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020005360)
 
 (1) Der Vorstand hat den Jahresabschluß und den Lagebericht
 unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz
@@ -6410,6 +6621,7 @@ Ausschusses zu übermitteln.
 
 
 ###### § 171 Prüfung durch den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020108360)
 
 (1) Der Aufsichtsrat hat den Jahresabschluß, den Lagebericht und den
 Vorschlag für die Verwendung des Bilanzgewinns zu prüfen, bei
@@ -6464,14 +6676,17 @@ Billigung durch den Aufsichtsrat offen legen.
 
 
 #### Dritter Abschnitt - Feststellung des Jahresabschlusses. Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG020200308)
 
 
 
 ##### Erster Unterabschnitt - Feststellung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG020300308)
 
 
 
 ###### § 172 Feststellung durch Vorstand und Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020400308)
 
 Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser
 festgestellt, sofern nicht Vorstand und Aufsichtsrat beschließen, die
@@ -6481,6 +6696,7 @@ des Aufsichtsrats an die Hauptversammlung aufzunehmen.
 
 
 ###### § 173 Feststellung durch die Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020501377)
 
 (1) Haben Vorstand und Aufsichtsrat beschlossen, die Feststellung des
 Jahresabschlusses der Hauptversammlung zu überlassen, oder hat der
@@ -6509,10 +6725,12 @@ erteilt wird.
 
 
 ##### Zweiter Unterabschnitt - Gewinnverwendung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG020600308)
 
 
 
 ###### § 174
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020701377)
 
 (1) Die Hauptversammlung beschließt über die Verwendung des
 Bilanzgewinns. Sie ist hierbei an den festgestellten Jahresabschluß
@@ -6543,10 +6761,12 @@ Jahresabschlusses.
 
 
 ##### Dritter Unterabschnitt - Ordentliche Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG020800308)
 
 
 
 ###### § 175 Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE020907123)
 
 (1) Unverzüglich nach Eingang des Berichts des Aufsichtsrats hat der
 Vorstand die Hauptversammlung zur Entgegennahme des festgestellten
@@ -6594,6 +6814,7 @@ Konzernabschlusses entsprechend.
 
 
 ###### § 176 Vorlagen. Anwesenheit des Abschlußprüfers
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021006125)
 
 (1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2
 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen
@@ -6614,28 +6835,34 @@ erteilen.
 
 
 #### Vierter Abschnitt - Bekanntmachung des Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG021100308)
 
 
 
 ##### § 177
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021200308)
 
 -
 
 
 ##### § 178
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021300308)
 
 -
 
 
 ### Sechster Teil - Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG021400308)
 
 
 
 #### Erster Abschnitt - Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG021500308)
 
 
 
 ##### § 179 Beschluß der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021600308)
 
 (1) Jede Satzungsänderung bedarf eines Beschlusses der
 Hauptversammlung. Die Befugnis zu Änderungen, die nur die Fassung
@@ -6657,6 +6884,7 @@ gilt Absatz 2.
 
 
 ##### § 179a Verpflichtung zur Übertragung des ganzen Gesellschaftsvermögens
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE054601140)
 
 (1) Ein Vertrag, durch den sich eine Aktiengesellschaft zur
 Übertragung des ganzen Gesellschaftsvermögens verpflichtet, ohne daß
@@ -6681,6 +6909,7 @@ in Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
 
 ##### § 180 Zustimmung der betroffenen Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021700308)
 
 (1) Ein Beschluß, der Aktionären Nebenverpflichtungen auferlegt,
 bedarf zu seiner Wirksamkeit der Zustimmung aller betroffenen
@@ -6692,6 +6921,7 @@ gebunden wird.
 
 
 ##### § 181 Eintragung der Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE021802140)
 
 (1) Der Vorstand hat die Satzungsänderung zur Eintragung in das
 Handelsregister anzumelden. Der Anmeldung ist der vollständige
@@ -6710,14 +6940,17 @@ des Sitzes der Gesellschaft eingetragen worden ist.
 
 
 #### Zweiter Abschnitt - Maßnahmen der Kapitalbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG021900308)
 
 
 
 ##### Erster Unterabschnitt - Kapitalerhöhung gegen Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG022000308)
 
 
 
 ###### § 182 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022102307)
 
 (1) Eine Erhöhung des Grundkapitals gegen Einlagen kann nur mit einer
 Mehrheit beschlossen werden, die mindestens drei Viertel des bei der
@@ -6748,6 +6981,7 @@ aus, so hindert dies die Erhöhung des Grundkapitals nicht.
 
 
 ###### § 183 Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022202140)
 
 (1) Wird eine Sacheinlage (§ 27 Abs. 1 und 2) gemacht, so müssen ihr
 Gegenstand, die Person, von der die Gesellschaft den Gegenstand
@@ -6765,6 +6999,7 @@ einen oder mehrere Prüfer stattzufinden. § 33 Abs. 3 bis 5, die §§ 34,
 
 
 ###### § 183a Kapitalerhöhung mit Sacheinlagen ohne Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057000140)
 
 (1) Von einer Prüfung der Sacheinlage (§ 183 Abs. 3) kann unter den
 Voraussetzungen des § 33a abgesehen werden. Wird hiervon Gebrauch
@@ -6790,6 +7025,7 @@ entsprechend.
 
 
 ###### § 184 Anmeldung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022301140)
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben den
 Beschluss über die Erhöhung des Grundkapitals zur Eintragung in das
@@ -6814,6 +7050,7 @@ entsprechend.
 
 
 ###### § 185 Zeichnung der neuen Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022401307)
 
 (1) Die Zeichnung der neuen Aktien geschieht durch schriftliche
 Erklärung (Zeichnungsschein), aus der die Beteiligung nach der Zahl
@@ -6854,6 +7091,7 @@ Gesellschaft gegenüber unwirksam.
 
 
 ###### § 186 Bezugsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022507360)
 
 (1) Jedem Aktionär muß auf sein Verlangen ein seinem Anteil an dem
 bisherigen Grundkapital entsprechender Teil der neuen Aktien zugeteilt
@@ -6902,6 +7140,7 @@ anzubieten.
 
 
 ###### § 187 Zusicherung von Rechten auf den Bezug neuer Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022600308)
 
 (1) Rechte auf den Bezug neuer Aktien können nur unter Vorbehalt des
 Bezugsrechts der Aktionäre zugesichert werden.
@@ -6911,6 +7150,7 @@ sind der Gesellschaft gegenüber unwirksam.
 
 
 ###### § 188 Anmeldung und Eintragung der Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022703140)
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben die
 Durchführung der Erhöhung des Grundkapitals zur Eintragung in das
@@ -6949,17 +7189,20 @@ die Erhöhung verbunden werden.
 
 
 ###### § 189 Wirksamwerden der Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022800308)
 
 Mit der Eintragung der Durchführung der Erhöhung des Grundkapitals ist
 das Grundkapital erhöht.
 
 
 ###### § 190 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE022901377)
 
 -
 
 
 ###### § 191 Verbotene Ausgabe von Aktien und Zwischenscheinen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023000308)
 
 Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals
 können die neuen Anteilsrechte nicht übertragen, neue Aktien und
@@ -6970,10 +7213,12 @@ verantwortlich.
 
 
 ##### Zweiter Unterabschnitt - Bedingte Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG023100308)
 
 
 
 ###### § 192 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023204360)
 
 (1) Die Hauptversammlung kann eine Erhöhung des Grundkapitals
 beschließen, die nur so weit durchgeführt werden soll, wie von einem
@@ -7031,6 +7276,7 @@ für das Umtauschrecht.
 
 
 ###### § 193 Erfordernisse des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023304140)
 
 (1) Der Beschluß über die bedingte Kapitalerhöhung bedarf einer
 Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung
@@ -7064,6 +7310,7 @@ Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2 und
 
 
 ###### § 194 Bedingte Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023403123)
 
 (1) Wird eine Sacheinlage gemacht, so müssen ihr Gegenstand, die
 Person, von der die Gesellschaft den Gegenstand erwirbt, und der
@@ -7091,6 +7338,7 @@ einen oder mehrere Prüfer stattzufinden. § 33 Abs. 3 bis 5, die §§ 34,
 
 
 ###### § 195 Anmeldung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023503123)
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben den
 Beschluß über die bedingte Kapitalerhöhung zur Eintragung in das
@@ -7122,11 +7370,13 @@ entsprechend.
 
 
 ###### § 196 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023602377)
 
 -
 
 
 ###### § 197 Verbotene Aktienausgabe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023700308)
 
 Vor der Eintragung des Beschlusses über die bedingte Kapitalerhöhung
 können die Bezugsaktien nicht ausgegeben werden. Ein Anspruch des
@@ -7137,6 +7387,7 @@ verantwortlich.
 
 
 ###### § 198 Bezugserklärung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023801307)
 
 (1) Das Bezugsrecht wird durch schriftliche Erklärung ausgeübt. Die
 Erklärung (Bezugserklärung) soll doppelt ausgestellt werden. Sie hat
@@ -7162,6 +7413,7 @@ Gesellschaft gegenüber unwirksam.
 
 
 ###### § 199 Ausgabe der Bezugsaktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE023901307)
 
 (1) Der Vorstand darf die Bezugsaktien nur in Erfüllung des im
 Beschluß über die bedingte Kapitalerhöhung festgesetzten Zwecks und
@@ -7180,11 +7432,13 @@ der Bezugsaktien insgesamt erreicht oder übersteigt.
 
 
 ###### § 200 Wirksamwerden der bedingten Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024000308)
 
 Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 
 ###### § 201 Anmeldung der Ausgabe von Bezugsaktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024102123)
 
 (1) Der Vorstand meldet ausgegebene Bezugsaktien zur Eintragung in das
 Handelsregister mindestens einmal jährlich bis spätestens zum Ende des
@@ -7206,10 +7460,12 @@ ergibt.
 
 
 ##### Dritter Unterabschnitt - Genehmigtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG024200308)
 
 
 
 ###### § 202 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024302360)
 
 (1) Die Satzung kann den Vorstand für höchstens fünf Jahre nach
 Eintragung der Gesellschaft ermächtigen, das Grundkapital bis zu einem
@@ -7234,6 +7490,7 @@ Arbeitnehmer der Gesellschaft ausgegeben werden.
 
 
 ###### § 203 Ausgabe der neuen Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024400308)
 
 (1) Für die Ausgabe der neuen Aktien gelten sinngemäß, soweit sich aus
 den folgenden Vorschriften nichts anderes ergibt, §§ 185 bis 191 über
@@ -7260,6 +7517,7 @@ der Gesellschaft ausgegeben werden.
 
 
 ###### § 204 Bedingungen der Aktienausgabe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024500308)
 
 (1) Über den Inhalt der Aktienrechte und die Bedingungen der
 Aktienausgabe entscheidet der Vorstand, soweit die Ermächtigung keine
@@ -7287,6 +7545,7 @@ abzugeben.
 
 
 ###### § 205 Ausgabe gegen Sacheinlagen; Rückzahlung von Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024602140)
 
 (1) Gegen Sacheinlagen dürfen Aktien nur ausgegeben werden, wenn die
 Ermächtigung es vorsieht.
@@ -7326,6 +7585,7 @@ entsprechend.
 
 
 ###### § 206 Verträge über Sacheinlagen vor Eintragung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024701140)
 
 Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach
 denen auf das genehmigte Kapital eine Sacheinlage zu leisten ist, so
@@ -7339,10 +7599,12 @@ Durchführung der Erhöhung des Grundkapitals.
 
 
 ##### Vierter Unterabschnitt - Kapitalerhöhung aus Gesellschaftsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG024800308)
 
 
 
 ###### § 207 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE024902377)
 
 (1) Die Hauptversammlung kann eine Erhöhung des Grundkapitals durch
 Umwandlung der Kapitalrücklage und von Gewinnrücklagen in Grundkapital
@@ -7357,6 +7619,7 @@ Beschluß über die Kapitalerhöhung muß die Art der Erhöhung angeben.
 
 
 ###### § 208 Umwandlungsfähigkeit von Kapital- und Gewinnrücklagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE053000308)
 
 (1) Die Kapitalrücklage und die Gewinnrücklagen, die in Grundkapital
 umgewandelt werden sollen, müssen in der letzten Jahresbilanz und,
@@ -7379,6 +7642,7 @@ dies mit ihrer Zweckbestimmung vereinbar ist.
 
 
 ###### § 209 Zugrunde gelegte Bilanz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025107360)
 
 (1) Dem Beschluß kann die letzte Jahresbilanz zugrunde gelegt werden,
 wenn die Jahresbilanz geprüft und die festgestellte Jahresbilanz mit
@@ -7417,6 +7681,7 @@ Bilanz und für die Erteilung von Abschriften § 175 Abs. 2 sinngemäß.
 
 
 ###### § 210 Anmeldung und Eintragung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025201377)
 
 (1) Der Anmeldung des Beschlusses zur Eintragung in das
 Handelsregister ist die der Kapitalerhöhung zugrunde gelegte Bilanz
@@ -7443,6 +7708,7 @@ eine Kapitalerhöhung aus Gesellschaftsmitteln handelt.
 
 
 ###### § 211 Wirksamwerden der Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025301307)
 
 (1) Mit der Eintragung des Beschlusses über die Erhöhung des
 Grundkapitals ist das Grundkapital erhöht.
@@ -7451,6 +7717,7 @@ Grundkapitals ist das Grundkapital erhöht.
 
 
 ###### § 212 Aus der Kapitalerhöhung Berechtigte
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025401307)
 
 Neue Aktien stehen den Aktionären im Verhältnis ihrer Anteile am
 bisherigen Grundkapital zu. Ein entgegenstehender Beschluß der
@@ -7458,6 +7725,7 @@ Hauptversammlung ist nichtig.
 
 
 ###### § 213 Teilrechte
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025500308)
 
 (1) Führt die Kapitalerhöhung dazu, daß auf einen Anteil am bisherigen
 Grundkapital nur ein Teil einer neuen Aktie entfällt, so ist dieses
@@ -7472,6 +7740,7 @@ zusammenschließen.
 
 
 ###### § 214 Aufforderung an die Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025603360)
 
 (1) Nach der Eintragung des Beschlusses über die Erhöhung des
 Grundkapitals durch Ausgabe neuer Aktien hat der Vorstand unverzüglich
@@ -7510,6 +7779,7 @@ Aktionäre aufzufordern, sich die neuen Aktien zuteilen zu lassen.
 
 
 ###### § 215 Eigene Aktien. Teileingezahlte Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025701307)
 
 (1) Eigene Aktien nehmen an der Erhöhung des Grundkapitals teil.
 
@@ -7528,6 +7798,7 @@ des Nennbetrags der Aktien nicht gedeckt werden können.
 
 
 ###### § 216 Wahrung der Rechte der Aktionäre und Dritter
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025801140)
 
 (1) Das Verhältnis der mit den Aktien verbundenen Rechte zueinander
 wird durch die Kapitalerhöhung nicht berührt.
@@ -7551,6 +7822,7 @@ berührt. Gleiches gilt für Nebenverpflichtungen der Aktionäre.
 
 
 ###### § 217 Beginn der Gewinnbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE025902140)
 
 (1) Neue Aktien nehmen, wenn nichts anderes bestimmt ist, am Gewinn
 des ganzen Geschäftsjahrs teil, in dem die Erhöhung des Grundkapitals
@@ -7575,6 +7847,7 @@ Nichtigkeitsklage rechtshängig ist.
 
 
 ###### § 218 Bedingtes Kapital
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026001307)
 
 Bedingtes Kapital erhöht sich im gleichen Verhältnis wie das
 Grundkapital. Ist das bedingte Kapital zur Gewährung von
@@ -7587,6 +7860,7 @@ Umtauschberechtigten vereinbart sind.
 
 
 ###### § 219 Verbotene Ausgabe von Aktien und Zwischenscheinen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026100308)
 
 Vor der Eintragung des Beschlusses über die Erhöhung des Grundkapitals
 in das Handelsregister dürfen neue Aktien und Zwischenscheine nicht
@@ -7594,6 +7868,7 @@ ausgegeben werden.
 
 
 ###### § 220 Wertansätze
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026201307)
 
 Als Anschaffungskosten der vor der Erhöhung des Grundkapitals
 erworbenen Aktien und der auf sie entfallenen neuen Aktien gelten die
@@ -7605,10 +7880,12 @@ Aktien ist nicht als Zugang auszuweisen.
 
 
 ##### Fünfter Unterabschnitt - Wandelschuldverschreibungen. Gewinnschuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG026300308)
 
 
 
 ###### § 221
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026402123)
 
 (1) Schuldverschreibungen, bei denen den Gläubigern oder der
 Gesellschaft ein Umtausch- oder Bezugsrecht auf Aktien eingeräumt wird
@@ -7637,14 +7914,17 @@ Abs. 2 Nr. 4 gelten sinngemäß.
 
 
 #### Dritter Abschnitt - Maßnahmen der Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG026500308)
 
 
 
 ##### Erster Unterabschnitt - Ordentliche Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG026600308)
 
 
 
 ###### § 222 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026702307)
 
 (1) Eine Herabsetzung des Grundkapitals kann nur mit einer Mehrheit
 beschlossen werden, die mindestens drei Viertel des bei der
@@ -7671,6 +7951,7 @@ Herabsetzung angeben.
 
 
 ###### § 223 Anmeldung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026800308)
 
 Der Vorstand und der Vorsitzende des Aufsichtsrats haben den Beschluß
 über die Herabsetzung des Grundkapitals zur Eintragung in das
@@ -7678,12 +7959,14 @@ Handelsregister anzumelden.
 
 
 ###### § 224 Wirksamwerden der Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE026900308)
 
 Mit der Eintragung des Beschlusses über die Herabsetzung des
 Grundkapitals ist das Grundkapital herabgesetzt.
 
 
 ###### § 225 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027002360)
 
 (1) Den Gläubigern, deren Forderungen begründet worden sind, bevor die
 Eintragung des Beschlusses bekanntgemacht worden ist, ist, wenn sie
@@ -7711,6 +7994,7 @@ Herabsetzung des Grundkapitals geleistet werden.
 
 
 ###### § 226 Kraftloserklärung von Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027101377)
 
 (1) Sollen zur Durchführung der Herabsetzung des Grundkapitals Aktien
 durch Umtausch, Abstempelung oder durch ein ähnliches Verfahren
@@ -7745,6 +8029,7 @@ Recht zur Hinterlegung besteht, zu hinterlegen.
 
 
 ###### § 227 Anmeldung der Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027200308)
 
 (1) Der Vorstand hat die Durchführung der Herabsetzung des
 Grundkapitals zur Eintragung in das Handelsregister anzumelden.
@@ -7755,6 +8040,7 @@ die Herabsetzung verbunden werden.
 
 
 ###### § 228 Herabsetzung unter den Mindestnennbetrag
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027301140)
 
 (1) Das Grundkapital kann unter den in § 7 bestimmten
 Mindestnennbetrag herabgesetzt werden, wenn dieser durch eine
@@ -7772,10 +8058,12 @@ werden.
 
 
 ##### Zweiter Unterabschnitt - Vereinfachte Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG027400308)
 
 
 
 ###### § 229 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027500308)
 
 (1) Eine Herabsetzung des Grundkapitals, die dazu dienen soll,
 Wertminderungen auszugleichen, sonstige Verluste zu decken oder
@@ -7794,6 +8082,7 @@ ordentliche Kapitalherabsetzung gelten sinngemäß.
 
 
 ###### § 230 Verbot von Zahlungen an die Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027600308)
 
 Die Beträge, die aus der Auflösung der Kapital- oder Gewinnrücklagen
 und aus der Kapitalherabsetzung gewonnen werden, dürfen nicht zu
@@ -7807,6 +8096,7 @@ Herabsetzung angegeben ist.
 
 
 ###### § 231 Beschränkte Einstellung in die Kapitalrücklage und in die gesetzliche Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE053100308)
 
 Die Einstellung der Beträge, die aus der Auflösung von anderen
 Gewinnrücklagen gewonnen werden, in die gesetzliche Rücklage und der
@@ -7823,6 +8113,7 @@ zugleich mit dem Beschluß über die Kapitalherabsetzung gefaßt wird.
 
 
 ###### § 232 Einstellung von Beträgen in die Kapitalrücklage bei zu hoch angenommenen Verlusten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027800308)
 
 Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in
 dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für
@@ -7833,6 +8124,7 @@ Unterschiedsbetrag in die Kapitalrücklage einzustellen.
 
 
 ###### § 233 Gewinnausschüttung. Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE027903360)
 
 (1) Gewinn darf nicht ausgeschüttet werden, bevor die gesetzliche
 Rücklage und die Kapitalrücklage zusammen zehn vom Hundert des
@@ -7863,6 +8155,7 @@ auch nach diesen Vorschriften nicht als Gewinn ausgeschüttet werden.
 
 
 ###### § 234 Rückwirkung der Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028001140)
 
 (1) Im Jahresabschluß für das letzte vor der Beschlußfassung über die
 Kapitalherabsetzung abgelaufene Geschäftsjahr können das gezeichnete
@@ -7881,6 +8174,7 @@ ist.
 
 
 ###### § 235 Rückwirkung einer gleichzeitigen Kapitalerhöhung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028101140)
 
 (1) Wird im Fall des § 234 zugleich mit der Kapitalherabsetzung eine
 Erhöhung des Grundkapitals beschlossen, so kann auch die
@@ -7903,6 +8197,7 @@ werden.
 
 
 ###### § 236 Offenlegung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028200308)
 
 Die Offenlegung des Jahresabschlusses nach § 325 des
 Handelsgesetzbuchs darf im Fall des § 234 erst nach Eintragung des
@@ -7913,10 +8208,12 @@ worden sind.
 
 
 ##### Dritter Unterabschnitt - Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG028301377)
 
 
 
 ###### § 237 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028404123)
 
 (1) Aktien können zwangsweise oder nach Erwerb durch die Gesellschaft
 eingezogen werden. Eine Zwangseinziehung ist nur zulässig, wenn sie in
@@ -7975,6 +8272,7 @@ die Einziehung.
 
 
 ###### § 238 Wirksamwerden der Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028501307)
 
 Mit der Eintragung des Beschlusses oder, wenn die Einziehung
 nachfolgt, mit der Einziehung ist das Grundkapital um den auf die
@@ -7987,6 +8285,7 @@ Rechte aus bestimmten Aktien gerichtet ist.
 
 
 ###### § 239 Anmeldung der Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028600308)
 
 (1) Der Vorstand hat die Durchführung der Herabsetzung des
 Grundkapitals zur Eintragung in das Handelsregister anzumelden. Dies
@@ -7999,10 +8298,12 @@ verbunden werden.
 
 
 ##### Vierter Unterabschnitt - Ausweis der Kapitalherabsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG028700308)
 
 
 
 ###### § 240
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE028801360)
 
 Der aus der Kapitalherabsetzung gewonnene Betrag ist in der Gewinn-
 und Verlustrechnung als "Ertrag aus der Kapitalherabsetzung"
@@ -8030,18 +8331,22 @@ anzuwenden.
 
 
 ### Siebenter Teil - Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG028900308)
 
 
 
 #### Erster Abschnitt - Nichtigkeit von Hauptversammlungsbeschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG029000308)
 
 
 
 ##### Erster Unterabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG029100308)
 
 
 
 ###### § 241 Nichtigkeitsgründe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029204125)
 
 Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192
 Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs.
@@ -8076,6 +8381,7 @@ Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs.
 
 
 ###### § 242 Heilung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029305125)
 
 (1) Die Nichtigkeit eines Hauptversammlungsbeschlusses, der entgegen §
 130 Absatz 1 bis 2 Satz 1 und Absatz 4 nicht oder nicht gehörig
@@ -8110,6 +8416,7 @@ Eintragungen nicht fristgemäß vorgenommen worden sind.
 
 
 ###### § 243 Anfechtungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029405125)
 
 (1) Ein Beschluß der Hauptversammlung kann wegen Verletzung des
 Gesetzes oder der Satzung durch Klage angefochten werden.
@@ -8169,6 +8476,7 @@ Spruchverfahren vorsieht.
 
 
 ###### § 244 Bestätigung anfechtbarer Hauptversammlungsbeschlüsse\*.
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029500308)
 
 Die Anfechtung kann nicht mehr geltend gemacht werden, wenn die
 Hauptversammlung den anfechtbaren Beschluß durch einen neuen Beschluß
@@ -8181,6 +8489,7 @@ den anfechtbaren Beschluß für diese Zeit für nichtig zu erklären.
 
 
 ###### § 245 Anfechtungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029602125)
 
 Zur Anfechtung ist befugt
 
@@ -8215,6 +8524,7 @@ Satzes 1 Nummer 1.
 
 
 ###### § 246 Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029705123)
 
 (1) Die Klage muß innerhalb eines Monats nach der Beschlußfassung
 erhoben werden.
@@ -8243,6 +8553,7 @@ an der Klage beteiligen.
 
 
 ###### § 246a Freigabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056404125)
 
 (1) Wird gegen einen Hauptversammlungsbeschluss zur Änderung der
 Satzung nach § 118a Absatz 1 Satz 1, über eine Maßnahme der
@@ -8299,6 +8610,7 @@ Schadensersatz verlangt werden.
 
 
 ###### § 247 Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029801308)
 
 (1) Den Streitwert bestimmt das Prozeßgericht unter Berücksichtigung
 aller Umstände des einzelnen Falles, insbesondere der Bedeutung der
@@ -8332,6 +8644,7 @@ ist der Gegner zu hören.
 
 
 ###### § 248 Urteilswirkung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE029900308)
 
 (1) Soweit der Beschluß durch rechtskräftiges Urteil für nichtig
 erklärt ist, wirkt das Urteil für und gegen alle Aktionäre sowie die
@@ -8349,6 +8662,7 @@ Handelsregister einzureichen.
 
 
 ###### § 248a Bekanntmachungen zur Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056500377)
 
 Wird der Anfechtungsprozess beendet, hat die börsennotierte
 Gesellschaft die Verfahrensbeendigung unverzüglich in den
@@ -8357,6 +8671,7 @@ entsprechend anzuwenden.
 
 
 ###### § 249 Nichtigkeitsklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030003140)
 
 (1) Erhebt ein Aktionär, der Vorstand oder ein Mitglied des Vorstands
 oder des Aufsichtsrats Klage auf Feststellung der Nichtigkeit eines
@@ -8375,10 +8690,12 @@ können verbunden werden.
 
 
 ##### Zweiter Unterabschnitt - Nichtigkeit bestimmter Hauptversammlungsbeschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG030100308)
 
 
 
 ###### § 250 Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030205360)
 
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung
 ist außer im Falle des § 241 Nr. 1, 2 und 5 nur dann nichtig, wenn
@@ -8452,6 +8769,7 @@ der Klage geltend zu machen.
 
 
 ###### § 251 Anfechtung der Wahl von Aufsichtsratsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030310125)
 
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung
 kann wegen Verletzung des Gesetzes oder der Satzung durch Klage
@@ -8476,6 +8794,7 @@ Satz 2 und § 248a.
 
 
 ###### § 252 Urteilswirkung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030402307)
 
 (1) Erhebt ein Aktionär, der Vorstand, ein Mitglied des Vorstands oder
 des Aufsichtsrats oder eine in § 250 Abs. 2 bezeichnete Organisation
@@ -8500,6 +8819,7 @@ und Spitzenorganisationen, auch wenn sie nicht Partei sind.
 
 
 ###### § 253 Nichtigkeit des Beschlusses über die Verwendung des Bilanzgewinns
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030500308)
 
 (1) Der Beschluß über die Verwendung des Bilanzgewinns ist außer in
 den Fällen des § 173 Abs. 3, des § 217 Abs. 2 und des § 241 nur dann
@@ -8514,6 +8834,7 @@ Gesellschaft gilt § 249.
 
 
 ###### § 254 Anfechtung des Beschlusses über die Verwendung des Bilanzgewinns
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030603377)
 
 (1) Der Beschluß über die Verwendung des Bilanzgewinns kann außer nach
 § 243 auch angefochten werden, wenn die Hauptversammlung aus dem
@@ -8537,6 +8858,7 @@ Grundkapitals oder den anteiligen Betrag von 500.000 Euro erreichen.
 
 
 ###### § 255 Anfechtung der Kapitalerhöhung gegen Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030702360)
 
 (1) Der Beschluß über eine Kapitalerhöhung gegen Einlagen kann nach §
 243 angefochten werden, soweit sich aus den Absätzen 4 bis 7 nicht ein
@@ -8608,6 +8930,7 @@ Vorschriften des Spruchverfahrensgesetzes bestimmt.
 
 
 ###### § 255a Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE059300360)
 
 (1) Im Beschluss über die Kapitalerhöhung kann bestimmt werden, dass
 anstelle einer baren Ausgleichszahlung (§ 255 Absatz 4) zusätzliche
@@ -8666,6 +8989,7 @@ trägt die Gesellschaft.
 
 
 ###### § 255b Kapitalerhöhung zur Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE059400360)
 
 (1) Die gemäß § 255a Absatz 1 sowie Absatz 2 Satz 1 zusätzlich zu
 gewährenden Aktien können nach Maßgabe dieses Absatzes und der Absätze
@@ -8737,10 +9061,12 @@ Bezugsrechte zu gewähren.
 
 
 #### Zweiter Abschnitt - Nichtigkeit des festgestellten Jahresabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG030800308)
 
 
 
 ##### § 256 Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE030918360)
 
 (1) Ein festgestellter Jahresabschluß ist außer in den Fällen des §
 173 Abs. 3, § 234 Abs. 3 und § 235 Abs. 2 nichtig, wenn
@@ -8862,6 +9188,7 @@ rechtskräftige Entscheidung über diese Klage mitzuteilen.
 
 
 ##### § 257 Anfechtung der Feststellung des Jahresabschlusses durch die Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031001377)
 
 (1) Die Feststellung des Jahresabschlusses durch die Hauptversammlung
 kann nach § 243 angefochten werden. Die Anfechtung kann jedoch nicht
@@ -8875,10 +9202,12 @@ prüfen ist.
 
 
 #### Dritter Abschnitt - Sonderprüfung wegen unzulässiger Unterbewertung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG031100308)
 
 
 
 ##### § 258 Bestellung der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031212360)
 
 (1) Besteht Anlaß für die Annahme, daß
 
@@ -8946,6 +9275,7 @@ Gesellschaft.
 
 
 ##### § 259 Prüfungsbericht. Abschließende Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031301377)
 
 (1) Die Sonderprüfer haben über das Ergebnis der Prüfung schriftlich
 zu berichten. Stellen die Sonderprüfer bei Wahrnehmung ihrer Aufgaben
@@ -9005,6 +9335,7 @@ Gesellschaftsblättern bekanntzumachen.
 
 
 ##### § 260 Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031406301)
 
 (1) Gegen abschließende Feststellungen der Sonderprüfer nach § 259
 Abs. 2 und 3 können die Gesellschaft oder Aktionäre, deren Anteile
@@ -9044,6 +9375,7 @@ sinngemäß.
 
 
 ##### § 261 Entscheidung über den Ertrag auf Grund höherer Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031502360)
 
 (1) Haben die Sonderprüfer in ihrer abschließenden Feststellung
 erklärt, daß Posten unterbewertet sind, und ist gegen diese
@@ -9090,6 +9422,7 @@ Gewinnrücklagen gedeckt ist.
 
 
 ##### § 261a Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056203360)
 
 Das Gericht hat der Bundesanstalt für Finanzdienstleistungsaufsicht
 den Eingang eines Antrags auf Bestellung eines Sonderprüfers, jede
@@ -9105,18 +9438,22 @@ Wertpapierhandelsgesetzes) ist.
 
 
 ### Achter Teil - Auflösung und Nichtigerklärung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG031600308)
 
 
 
 #### Erster Abschnitt - Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG031700308)
 
 
 
 ##### Erster Unterabschnitt - Auflösungsgründe und Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG031800308)
 
 
 
 ###### § 262 Auflösungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE031902140)
 
 (1) Die Aktiengesellschaft wird aufgelöst
 
@@ -9155,6 +9492,7 @@ anderen Gründen aufgelöst wird.
 
 
 ###### § 263 Anmeldung und Eintragung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032001307)
 
 Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das
 Handelsregister anzumelden. Dies gilt nicht in den Fällen der
@@ -9167,10 +9505,12 @@ die Eintragung der Auflösung.
 
 
 ##### Zweiter Unterabschnitt - Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG032100308)
 
 
 
 ###### § 264 Notwendigkeit der Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032201307)
 
 (1) Nach der Auflösung der Gesellschaft findet die Abwicklung statt,
 wenn nicht über das Vermögen der Gesellschaft das Insolvenzverfahren
@@ -9189,6 +9529,7 @@ nicht aufgelöste Gesellschaften gelten.
 
 
 ###### § 265 Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032306360)
 
 (1) Die Abwicklung besorgen die Vorstandsmitglieder als Abwickler.
 
@@ -9224,6 +9565,7 @@ Mitbestimmungsgesetzes bestimmen.
 
 
 ###### § 266 Anmeldung der Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032401377)
 
 (1) Die ersten Abwickler sowie ihre Vertretungsbefugnis hat der
 Vorstand, jeden Wechsel der Abwickler und jede Änderung ihrer
@@ -9247,6 +9589,7 @@ wird von Amts wegen eingetragen.
 
 
 ###### § 267 Aufruf der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032501140)
 
 Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft
 die Gläubiger der Gesellschaft aufzufordern, ihre Ansprüche
@@ -9255,6 +9598,7 @@ bekanntzumachen.
 
 
 ###### § 268 Pflichten der Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032601307)
 
 (1) Die Abwickler haben die laufenden Geschäfte zu beenden, die
 Forderungen einzuziehen, das übrige Vermögen in Geld umzusetzen und
@@ -9287,6 +9631,7 @@ Bestellscheine gelten als Geschäftsbriefe im Sinne des Satzes 1; Satz
 
 
 ###### § 269 Vertretung durch die Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032701125)
 
 (1) Die Abwickler vertreten die Gesellschaft gerichtlich und
 außergerichtlich.
@@ -9318,6 +9663,7 @@ Abwicklung hinweisender Zusatz hinzuzufügen.
 
 
 ###### § 270 Eröffnungsbilanz. Jahresabschluß und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE053201140)
 
 (1) Die Abwickler haben für den Beginn der Abwicklung eine Bilanz
 (Eröffnungsbilanz) und einen die Eröffnungsbilanz erläuternden Bericht
@@ -9342,6 +9688,7 @@ Gegen die Entscheidung ist die Beschwerde zulässig.
 
 
 ###### § 271 Verteilung des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE032901307)
 
 (1) Das nach der Berichtigung der Verbindlichkeiten verbleibende
 Vermögen der Gesellschaft wird unter die Aktionäre verteilt.
@@ -9360,6 +9707,7 @@ einzuziehen.
 
 
 ###### § 272 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033001140)
 
 (1) Das Vermögen darf nur verteilt werden, wenn ein Jahr seit dem Tag
 verstrichen ist, an dem der Aufruf der Gläubiger bekanntgemacht worden
@@ -9375,6 +9723,7 @@ Gläubiger Sicherheit geleistet ist.
 
 
 ###### § 273 Schluß der Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033101140)
 
 (1) Ist die Abwicklung beendet und die Schlußrechnung gelegt, so haben
 die Abwickler den Schluß der Abwicklung zur Eintragung in das
@@ -9397,6 +9746,7 @@ die Beschwerde zulässig.
 
 
 ###### § 274 Fortsetzung einer aufgelösten Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033201307)
 
 (1) Ist eine Aktiengesellschaft durch Zeitablauf oder durch Beschluß
 der Hauptversammlung aufgelöst worden, so kann die Hauptversammlung,
@@ -9437,10 +9787,12 @@ eingetragen werden.
 
 
 #### Zweiter Abschnitt - Nichtigerklärung der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG033300308)
 
 
 
 ##### § 275 Klage auf Nichtigerklärung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033402140)
 
 (1) Enthält die Satzung keine Bestimmungen über die Höhe des
 Grundkapitals oder über den Gegenstand des Unternehmens oder sind die
@@ -9468,6 +9820,7 @@ Grund rechtskräftigen Urteils ist einzutragen.
 
 
 ##### § 276 Heilung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033500308)
 
 Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens
 betrifft, kann unter Beachtung der Bestimmungen des Gesetzes und der
@@ -9475,6 +9828,7 @@ Satzung über Satzungsänderungen geheilt werden.
 
 
 ##### § 277 Wirkung der Eintragung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033600308)
 
 (1) Ist die Nichtigkeit einer Gesellschaft auf Grund rechtskräftigen
 Urteils oder einer Entscheidung des Registergerichts in das
@@ -9489,10 +9843,12 @@ Erfüllung der eingegangenen Verbindlichkeiten nötig ist.
 
 
 ## Zweites Buch - Kommanditgesellschaft auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG033700308)
 
 
 
 ### § 278 Wesen der Kommanditgesellschaft auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033800308)
 
 (1) Die Kommanditgesellschaft auf Aktien ist eine Gesellschaft mit
 eigener Rechtspersönlichkeit, bei der mindestens ein Gesellschafter
@@ -9515,6 +9871,7 @@ Vorstands nichts anderes ergibt, die Vorschriften des Ersten Buchs
 
 
 ### § 279 Firma
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE033901307)
 
 (1) Die Firma der Kommanditgesellschaft auf Aktien muß, auch wenn sie
 nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen
@@ -9529,6 +9886,7 @@ Bezeichnung enthalten, welche die Haftungsbeschränkung kennzeichnet.
 
 
 ### § 280 Feststellung der Satzung. Gründer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034002377)
 
 (1) Die Satzung muß durch notarielle Beurkundung festgestellt werden.
 In der Urkunde sind bei Nennbetragsaktien der Nennbetrag, bei
@@ -9547,6 +9905,7 @@ Gründer der Gesellschaft.
 
 
 ### § 281 Inhalt der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034101307)
 
 (1) Die Satzung muß außer den Festsetzungen nach § 23 Abs. 3 und 4 den
 Namen, Vornamen und Wohnort jedes persönlich haftenden Gesellschafters
@@ -9560,6 +9919,7 @@ Art in der Satzung festgesetzt werden.
 
 
 ### § 282 Eintragung der persönlich haftenden Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034200308)
 
 Bei der Eintragung der Gesellschaft in das Handelsregister sind statt
 der Vorstandsmitglieder die persönlich haftenden Gesellschafter
@@ -9568,6 +9928,7 @@ persönlich haftenden Gesellschafter haben.
 
 
 ### § 283 Persönlich haftende Gesellschafter
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034304360)
 
 Für die persönlich haftenden Gesellschafter gelten sinngemäß die für
 den Vorstand der Aktiengesellschaft geltenden Vorschriften über
@@ -9630,6 +9991,7 @@ den Vorstand der Aktiengesellschaft geltenden Vorschriften über
 
 
 ### § 284 Wettbewerbsverbot
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034401377)
 
 (1) Ein persönlich haftender Gesellschafter darf ohne ausdrückliche
 Einwilligung der übrigen persönlich haftenden Gesellschafter und des
@@ -9657,6 +10019,7 @@ fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
 
 
 ### § 285 Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034500308)
 
 (1) In der Hauptversammlung haben die persönlich haftenden
 Gesellschafter nur ein Stimmrecht für ihre Aktien. Sie können das
@@ -9705,6 +10068,7 @@ beurkunden.
 
 
 ### § 286 Jahresabschluß. Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034603140)
 
 (1) Die Hauptversammlung beschließt über die Feststellung des
 Jahresabschlusses. Der Beschluß bedarf der Zustimmung der persönlich
@@ -9740,6 +10104,7 @@ Gewinn nicht angegeben zu werden braucht.
 
 
 ### § 287 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034700308)
 
 (1) Die Beschlüsse der Kommanditaktionäre führt der Aufsichtsrat aus,
 wenn die Satzung nichts anderes bestimmt.
@@ -9757,6 +10122,7 @@ Aufsichtsratsmitglieder sein.
 
 
 ### § 288 Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034801140)
 
 (1) Entfällt auf einen persönlich haftenden Gesellschafter ein
 Verlust, der seinen Kapitalanteil übersteigt, so darf er keinen Gewinn
@@ -9781,6 +10147,7 @@ Satz 1 und 2 sinngemäß.
 
 
 ### § 289 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE034903360)
 
 (1) Die Gründe für die Auflösung der Kommanditgesellschaft auf Aktien
 und das Ausscheiden eines von mehreren persönlich haftenden
@@ -9834,6 +10201,7 @@ entfällt die Eintragung der Auflösung.
 
 
 ### § 290 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035001307)
 
 (1) Die Abwicklung besorgen alle persönlich haftenden Gesellschafter
 und eine oder mehrere von der Hauptversammlung gewählte Personen als
@@ -9850,18 +10218,22 @@ Gericht zu ernennen.
 
 
 ## Drittes Buch - Verbundene Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG035100308)
 
 
 
 ### Erster Teil - Unternehmensverträge
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG035200308)
 
 
 
 #### Erster Abschnitt - Arten von Unternehmensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG035300308)
 
 
 
 ##### § 291 Beherrschungsvertrag. Gewinnabführungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035401140)
 
 (1) Unternehmensverträge sind Verträge, durch die eine
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien die Leitung
@@ -9884,6 +10256,7 @@ eines Gewinnabführungsvertrags gelten nicht als Verstoß gegen die §§
 
 
 ##### § 292 Andere Unternehmensverträge
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035500308)
 
 (1) Unternehmensverträge sind ferner Verträge, durch die eine
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien
@@ -9919,10 +10292,12 @@ dieses Verstoßes nicht aus.
 
 
 #### Zweiter Abschnitt - Abschluß, Änderung und Beendigung von Unternehmensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG035600308)
 
 
 
 ##### § 293 Zustimmung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035701307)
 
 (1) Ein Unternehmensvertrag wird nur mit Zustimmung der
 Hauptversammlung wirksam. Der Beschluß bedarf einer Mehrheit, die
@@ -9944,6 +10319,7 @@ sinngemäß.
 
 
 ##### § 293a Bericht über den Unternehmensvertrag
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE054700307)
 
 (1) Der Vorstand jeder an einem Unternehmensvertrag beteiligten
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien hat, soweit
@@ -9970,6 +10346,7 @@ beglaubigte Erklärung verzichten.
 
 
 ##### § 293b Prüfung des Unternehmensvertrags
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE054801307)
 
 (1) Der Unternehmensvertrag ist für jede vertragschließende
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien durch einen
@@ -9981,6 +10358,7 @@ herrschenden Unternehmens befinden.
 
 
 ##### § 293c Bestellung der Vertragsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE054903140)
 
 (1) Die Vertragsprüfer werden jeweils auf Antrag der Vorstände der
 vertragschließenden Gesellschaften vom Gericht ausgewählt und
@@ -9997,6 +10375,7 @@ Handelsgesetzbuchs.
 
 
 ##### § 293d Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055003360)
 
 (1) Für die Auswahl und das Auskunftsrecht der Vertragsprüfer gelten §
 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1
@@ -10022,6 +10401,7 @@ Unternehmen und deren Anteilsinhabern.
 
 
 ##### § 293e Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055100307)
 
 (1) Die Vertragsprüfer haben über das Ergebnis der Prüfung schriftlich
 zu berichten. Der Prüfungsbericht ist mit einer Erklärung darüber
@@ -10050,6 +10430,7 @@ Abfindung angemessen ist. Dabei ist anzugeben,
 
 
 ##### § 293f Vorbereitung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055201140)
 
 (1) Von der Einberufung der Hauptversammlung an, die über die
 Zustimmung zu dem Unternehmensvertrag beschließen soll, sind in dem
@@ -10079,6 +10460,7 @@ Internetseite der Gesellschaft zugänglich sind.
 
 
 ##### § 293g Durchführung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055301140)
 
 (1) In der Hauptversammlung sind die in § 293f Abs. 1 bezeichneten
 Unterlagen zugänglich zu machen.
@@ -10092,6 +10474,7 @@ anderen Vertragsteils zu geben.
 
 
 ##### § 294 Eintragung. Wirksamwerden
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035801377)
 
 (1) Der Vorstand der Gesellschaft hat das Bestehen und die Art des
 Unternehmensvertrages sowie den Namen des anderen Vertragsteils zur
@@ -10110,6 +10493,7 @@ Handelsregister des Sitzes der Gesellschaft eingetragen worden ist.
 
 
 ##### § 295 Änderung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE035901307)
 
 (1) Ein Unternehmensvertrag kann nur mit Zustimmung der
 Hauptversammlung geändert werden. §§ 293 bis 294 gelten sinngemäß.
@@ -10126,6 +10510,7 @@ des anderen Vertragsteils zu geben.
 
 
 ##### § 296 Aufhebung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036000308)
 
 (1) Ein Unternehmensvertrag kann nur zum Ende des Geschäftsjahrs oder
 des sonst vertraglich bestimmten Abrechnungszeitraums aufgehoben
@@ -10140,6 +10525,7 @@ Satz 2 und 3, § 295 Abs. 2 Satz 3 sinngemäß.
 
 
 ##### § 297 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036100308)
 
 (1) Ein Unternehmensvertrag kann aus wichtigem Grund ohne Einhaltung
 einer Kündigungsfrist gekündigt werden. Ein wichtiger Grund liegt
@@ -10158,6 +10544,7 @@ zustimmen. Für den Sonderbeschluß gilt § 293 Abs. 1 Satz 2 und 3, §
 
 
 ##### § 298 Anmeldung und Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036200308)
 
 Der Vorstand der Gesellschaft hat die Beendigung eines
 Unternehmensvertrags, den Grund und den Zeitpunkt der Beendigung
@@ -10165,6 +10552,7 @@ unverzüglich zur Eintragung in das Handelsregister anzumelden.
 
 
 ##### § 299 Ausschluß von Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036300308)
 
 Auf Grund eines Unternehmensvertrags kann der Gesellschaft nicht die
 Weisung erteilt werden, den Vertrag zu ändern, aufrechtzuerhalten oder
@@ -10172,10 +10560,12 @@ zu beendigen.
 
 
 #### Dritter Abschnitt - Sicherung der Gesellschaft und der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG036400308)
 
 
 
 ##### § 300 Gesetzliche Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036500308)
 
 In die gesetzliche Rücklage sind an Stelle des in § 150 Abs. 2
 bestimmten Betrags einzustellen,
@@ -10209,6 +10599,7 @@ bestimmten Betrags einzustellen,
 
 
 ##### § 301 Höchstbetrag der Gewinnabführung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036601140)
 
 Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die
 Berechnung des abzuführenden Gewinns getroffen worden sind, als ihren
@@ -10223,6 +10614,7 @@ Gewinn abgeführt werden.
 
 
 ##### § 302 Verlustübernahme
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036704360)
 
 (1) Besteht ein Beherrschungs- oder ein Gewinnabführungsvertrag, so
 hat der andere Vertragsteil jeden während der Vertragsdauer sonst
@@ -10257,6 +10649,7 @@ worden ist.
 
 
 ##### § 303 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE036803360)
 
 (1) Endet ein Beherrschungs- oder ein Gewinnabführungsvertrag, so hat
 der andere Vertragsteil den Gläubigern der Gesellschaft, deren
@@ -10279,10 +10672,12 @@ Ausschluß der Einrede der Vorausklage ist nicht anzuwenden.
 
 
 #### Vierter Abschnitt - Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG036900308)
 
 
 
 ##### § 304 Angemessener Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037002377)
 
 (1) Ein Gewinnabführungsvertrag muß einen angemessenen Ausgleich für
 die außenstehenden Aktionäre durch eine auf die Anteile am
@@ -10329,6 +10724,7 @@ Entscheidung ohne Einhaltung einer Kündigungsfrist kündigen.
 
 
 ##### § 305 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037108360)
 
 (1) Außer der Verpflichtung zum Ausgleich nach § 304 muß ein
 Beherrschungs- oder ein Gewinnabführungsvertrag die Verpflichtung des
@@ -10401,11 +10797,13 @@ bestimmen. § 304 Abs. 4 gilt sinngemäß.
 
 
 ##### § 306
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037202377)
 
 (weggefallen)
 
 
 ##### § 307 Vertragsbeendigung zur Sicherung außenstehender Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037300308)
 
 Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer
 Hauptversammlung über einen Beherrschungs- oder
@@ -10415,14 +10813,17 @@ außenstehender Aktionär beteiligt ist.
 
 
 ### Zweiter Teil - Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG037400308)
 
 
 
 #### Erster Abschnitt - Leitungsmacht und Verantwortlichkeit bei Bestehen eines Beherrschungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG037500308)
 
 
 
 ##### § 308 Leitungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037600308)
 
 (1) Besteht ein Beherrschungsvertrag, so ist das herrschende
 Unternehmen berechtigt, dem Vorstand der Gesellschaft hinsichtlich der
@@ -10450,6 +10851,7 @@ einen Aufsichtsrat hat, nur mit dessen Zustimmung wiederholt werden.
 
 
 ##### § 309 Verantwortlichkeit der gesetzlichen Vertreter des herrschenden Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037701307)
 
 (1) Besteht ein Beherrschungsvertrag, so haben die gesetzlichen
 Vertreter (beim Einzelkaufmann der Inhaber) des herrschenden
@@ -10490,6 +10892,7 @@ zu machen, aus.
 
 
 ##### § 310 Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE037800308)
 
 (1) Die Mitglieder des Vorstands und des Aufsichtsrats der
 Gesellschaft haften neben dem Ersatzpflichtigen nach § 309 als
@@ -10509,10 +10912,12 @@ die nach § 308 Abs. 2 zu befolgen war.
 
 
 #### Zweiter Abschnitt - Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG037900308)
 
 
 
 ##### § 311 Schranken des Einflusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038001360)
 
 (1) Besteht kein Beherrschungsvertrag, so darf ein herrschendes
 Unternehmen seinen Einfluß nicht dazu benutzen, eine abhängige
@@ -10532,6 +10937,7 @@ abhängigen Gesellschaft ein Rechtsanspruch zu gewähren.
 
 
 ##### § 312 Bericht des Vorstands über Beziehungen zu verbundenen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038100308)
 
 (1) Besteht kein Beherrschungsvertrag, so hat der Vorstand einer
 abhängigen Gesellschaft in den ersten drei Monaten des Geschäftsjahrs
@@ -10565,6 +10971,7 @@ Lagebericht aufzunehmen.
 
 
 ##### § 313 Prüfung durch den Abschlußprüfer
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038201305)
 
 (1) Ist der Jahresabschluß durch einen Abschlußprüfer zu prüfen, so
 ist gleichzeitig mit dem Jahresabschluß und dem Lagebericht auch der
@@ -10643,6 +11050,7 @@ Prüfungsbericht aufzunehmen.
 
 
 ##### § 314 Prüfung durch den Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038302377)
 
 (1) Der Vorstand hat den Bericht über die Beziehungen zu verbundenen
 Unternehmen unverzüglich nach dessen Aufstellung dem Aufsichtsrat
@@ -10676,6 +11084,7 @@ Prüfung zu berichten.
 
 
 ##### § 315 Sonderprüfung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038405140)
 
 Auf Antrag eines Aktionärs hat das Gericht Sonderprüfer zur Prüfung
 der geschäftlichen Beziehungen der Gesellschaft zu dem herrschenden
@@ -10710,12 +11119,14 @@ Aktionär den Antrag nach § 142 Abs. 4 stellen.
 
 
 ##### § 316 Kein Bericht über Beziehungen zu verbundenen Unternehmen bei Gewinnabführungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038500308)
 
 §§ 312 bis 315 gelten nicht, wenn zwischen der abhängigen Gesellschaft
 und dem herrschenden Unternehmen ein Gewinnabführungsvertrag besteht.
 
 
 ##### § 317 Verantwortlichkeit des herrschenden Unternehmens und seiner gesetzlichen Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038600308)
 
 (1) Veranlaßt ein herrschendes Unternehmen eine abhängige
 Gesellschaft, mit der kein Beherrschungsvertrag besteht, ein für sie
@@ -10742,6 +11153,7 @@ Rechtsgeschäft oder der Maßnahme veranlaßt haben.
 
 
 ##### § 318 Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038700308)
 
 (1) Die Mitglieder des Vorstands der Gesellschaft haften neben den
 nach § 317 Ersatzpflichtigen als Gesamtschuldner, wenn sie es unter
@@ -10770,10 +11182,12 @@ Beschluß der Hauptversammlung beruht.
 
 
 ### Dritter Teil - Eingegliederte Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG038800308)
 
 
 
 #### § 319 Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE038903140)
 
 (1) Die Hauptversammlung einer Aktiengesellschaft kann die
 Eingliederung der Gesellschaft in eine andere Aktiengesellschaft mit
@@ -10884,6 +11298,7 @@ eingegliedert.
 
 
 #### § 320 Eingliederung durch Mehrheitsbeschluß
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039005140)
 
 (1) Die Hauptversammlung einer Aktiengesellschaft kann die
 Eingliederung der Gesellschaft in eine andere Aktiengesellschaft mit
@@ -10932,6 +11347,7 @@ sinngemäß für die Aktionäre beider Gesellschaften.
 
 
 #### § 320a Wirkungen der Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055400307)
 
 Mit der Eintragung der Eingliederung in das Handelsregister gehen alle
 Aktien, die sich nicht in der Hand der Hauptgesellschaft befinden, auf
@@ -10941,6 +11357,7 @@ den Anspruch auf Abfindung.
 
 
 #### § 320b Abfindung der ausgeschiedenen Aktionäre
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055503140)
 
 (1) Die ausgeschiedenen Aktionäre der eingegliederten Gesellschaft
 haben Anspruch auf angemessene Abfindung. Als Abfindung sind ihnen
@@ -10978,6 +11395,7 @@ ist.
 
 
 #### § 321 Gläubigerschutz
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039102360)
 
 (1) Den Gläubigern der eingegliederten Gesellschaft, deren Forderungen
 begründet worden sind, bevor die Eintragung der Eingliederung in das
@@ -10995,6 +11413,7 @@ gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich
 
 
 #### § 322 Haftung der Hauptgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039200308)
 
 (1) Von der Eingliederung an haftet die Hauptgesellschaft für die vor
 diesem Zeitpunkt begründeten Verbindlichkeiten der eingegliederten
@@ -11023,6 +11442,7 @@ Hauptgesellschaft nicht statt.
 
 
 #### § 323 Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039300308)
 
 (1) Die Hauptgesellschaft ist berechtigt, dem Vorstand der
 eingegliederten Gesellschaft hinsichtlich der Leitung der Gesellschaft
@@ -11034,6 +11454,7 @@ Hauptgesellschaft gelten nicht als Verstoß gegen die §§ 57, 58 und 60.
 
 
 #### § 324 Gesetzliche Rücklage. Gewinnabführung. Verlustübernahme
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039400308)
 
 (1) Die gesetzlichen Vorschriften über die Bildung einer gesetzlichen
 Rücklage, über ihre Verwendung und über die Einstellung von Beträgen
@@ -11056,11 +11477,13 @@ Gewinnrücklagen übersteigt.
 
 
 #### § 325
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039500308)
 
 -
 
 
 #### § 326 Auskunftsrecht der Aktionäre der Hauptgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039600308)
 
 Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der
 eingegliederten Gesellschaft ebenso Auskunft zu erteilen wie über
@@ -11068,6 +11491,7 @@ Angelegenheiten der Hauptgesellschaft.
 
 
 #### § 327 Ende der Eingliederung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039703125)
 
 (1) Die Eingliederung endet
 
@@ -11116,10 +11540,12 @@ Hauptgesellschaft den Anspruch schriftlich anerkannt hat.
 
 
 ### Vierter Teil - Ausschluss von Minderheitsaktionären
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG052600377)
 
 
 
 #### § 327a Übertragung von Aktien gegen Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055600377)
 
 (1) Die Hauptversammlung einer Aktiengesellschaft oder einer
 Kommanditgesellschaft auf Aktien kann auf Verlangen eines Aktionärs,
@@ -11134,6 +11560,7 @@ Aktien gehören, gilt § 16 Abs. 2 und 4.
 
 
 #### § 327b Barabfindung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055702140)
 
 (1) Der Hauptaktionär legt die Höhe der Barabfindung fest; sie muss
 die Verhältnisse der Gesellschaft im Zeitpunkt der Beschlussfassung
@@ -11157,6 +11584,7 @@ festgelegte Barabfindung für die übergegangenen Aktien zu zahlen.
 
 
 #### § 327c Vorbereitung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055802140)
 
 (1) Die Bekanntmachung der Übertragung als Gegenstand der Tagesordnung
 hat folgende Angaben zu enthalten:
@@ -11206,6 +11634,7 @@ Internetseite der Gesellschaft zugänglich sind.
 
 
 #### § 327d Durchführung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE055901140)
 
 In der Hauptversammlung sind die in § 327c Abs. 3 bezeichneten
 Unterlagen zugänglich zu machen. Der Vorstand kann dem Hauptaktionär
@@ -11215,6 +11644,7 @@ zu erläutern.
 
 
 #### § 327e Eintragung des Übertragungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056000377)
 
 (1) Der Vorstand hat den Übertragungsbeschluss zur Eintragung in das
 Handelsregister anzumelden. Der Anmeldung sind die Niederschrift des
@@ -11231,6 +11661,7 @@ den Anspruch auf Barabfindung.
 
 
 #### § 327f Gerichtliche Nachprüfung der Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE056101377)
 
 Die Anfechtung des Übertragungsbeschlusses kann nicht auf § 243 Abs. 2
 oder darauf gestützt werden, dass die durch den Hauptaktionär
@@ -11244,10 +11675,12 @@ erhoben, zurückgenommen oder rechtskräftig abgewiesen worden ist.
 
 
 ### Fünfter Teil - Wechselseitig beteiligte Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG039801377)
 
 
 
 #### § 328 Beschränkung der Rechte
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE039902125)
 
 (1) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien
 und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so
@@ -11278,32 +11711,39 @@ und jede Änderung in Textform mitzuteilen.
 
 
 ### Sechster Teil - Rechnungslegung im Konzern
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG040001377)
 
 
 
 #### (XXXX) §§ 329 bis 336
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE040100308)
 
 
 
 #### § 337
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE053302377)
 
 (weggefallen)
 
 
 #### § 338
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE041000308)
 
 -
 
 
 ## Viertes Buch - Sonder-, Straf- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG050302360)
 
 
 
 ### Erster Teil - Sondervorschriften bei Beteiligung von Gebietskörperschaften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG050402360)
 
 
 
 #### § 393a Besetzung von Organen bei Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE058900360)
 
 (1) Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes sind
 Aktiengesellschaften mit Sitz im Inland,
@@ -11363,6 +11803,7 @@ Mehrheitsbeteiligung des Bundes entsprechend.
 
 
 #### § 394 Berichte der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE050501123)
 
 Aufsichtsratsmitglieder, die auf Veranlassung einer
 Gebietskörperschaft in den Aufsichtsrat gewählt oder entsandt worden
@@ -11377,6 +11818,7 @@ Rechtsgeschäft beruhen.
 
 
 #### § 395 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE050600308)
 
 (1) Personen, die damit betraut sind, die Beteiligungen einer
 Gebietskörperschaft zu verwalten oder für eine Gebietskörperschaft die
@@ -11394,10 +11836,12 @@ Betriebs- oder Geschäftsgeheimnisse, nicht veröffentlicht werden.
 
 
 ### Zweiter Teil - Gerichtliche Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG050701307)
 
 
 
 #### § 396 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE050800308)
 
 (1) Gefährdet eine Aktiengesellschaft oder Kommanditgesellschaft auf
 Aktien durch gesetzwidriges Verhalten ihrer Verwaltungsträger das
@@ -11415,6 +11859,7 @@ Behörde stellen.
 
 
 #### § 397 Anordnungen bei der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE050900308)
 
 Ist die Auflösungsklage erhoben, so kann das Gericht auf Antrag der in
 § 396 Abs. 1 Satz 1 bestimmten Behörde durch einstweilige Verfügung
@@ -11422,6 +11867,7 @@ die nötigen Anordnungen treffen.
 
 
 #### § 398 Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051000308)
 
 Die Entscheidungen des Gerichts sind dem Registergericht mitzuteilen.
 Dieses trägt sie, soweit sie eintragungspflichtige Rechtsverhältnisse
@@ -11429,10 +11875,12 @@ betreffen, in das Handelsregister ein.
 
 
 ### Dritter Teil - Straf- und Bußgeldvorschriften. Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNG051101307)
 
 
 
 #### § 399 Falsche Angaben
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051205123)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -11483,6 +11931,7 @@ Wahrheit zuwider abgibt.
 
 
 #### § 400 Unrichtige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051302360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Mitglied des Vorstands oder des Aufsichtsrats oder
@@ -11513,6 +11962,7 @@ falsche Angaben macht oder erhebliche Umstände verschweigt.
 
 
 #### § 401 Pflichtverletzung bei Verlust, Überschuldung oder Zahlungsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051402140)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer es als Mitglied des Vorstands entgegen § 92 Abs. 1
@@ -11524,6 +11974,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 #### § 402 Falsche Ausstellung von Berechtigungsnachweisen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051501377)
 
 (1) Wer Bescheinigungen, die zum Nachweis des Stimmrechts in einer
 Hauptversammlung oder in einer gesonderten Versammlung dienen sollen,
@@ -11540,6 +11991,7 @@ Stimmrechts Gebrauch macht.
 
 
 #### § 403 Verletzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051600308)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das
@@ -11552,6 +12004,7 @@ die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 #### § 404 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051701377)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr, bei börsennotierten
 Gesellschaften bis zu zwei Jahren, oder mit Geldstrafe wird bestraft,
@@ -11585,6 +12038,7 @@ sind der Vorstand oder die Abwickler antragsberechtigt.
 
 
 #### § 404a Verletzung der Pflichten bei Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057102360)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Mitglied des Prüfungsausschusses einer Gesellschaft,
@@ -11615,6 +12069,7 @@ Satz 2 des Handelsgesetzbuchs ist,
 
 
 #### § 405 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051808360)
 
 (1) Ordnungswidrig handelt, wer als Mitglied des Vorstands oder des
 Aufsichtsrats oder als Abwickler
@@ -11853,11 +12308,13 @@ zu fünfundzwanzigtausend Euro geahndet werden.
 
 
 #### § 406 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE051902140)
 
 -
 
 
 #### § 407 Zwangsgelder
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052008360)
 
 (1) Vorstandsmitglieder oder Abwickler, die § 52 Abs. 2 Satz 2 bis 4,
 § 71c, § 73 Abs. 3 Satz 2, §§ 80, 90, 104 Abs. 1, § 111 Abs. 2, § 145,
@@ -11876,6 +12333,7 @@ Abs. 1, §§ 184, 188, 195, 210, 223, 237 Abs. 4, §§ 274, 294 Abs. 1, §
 
 
 #### § 407a Mitteilungen an die Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE057201360)
 
 (1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt
 der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
@@ -11891,6 +12349,7 @@ das eingelegte Rechtsmittel zu übermitteln.
 
 
 #### § 408 Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052100308)
 
 Die §§ 399 bis 407 gelten sinngemäß für die Kommanditgesellschaft auf
 Aktien. Soweit sie Vorstandsmitglieder betreffen, gelten sie bei der
@@ -11899,6 +12358,7 @@ Gesellschafter.
 
 
 #### § 409 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052200308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -11908,6 +12368,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 #### § 410 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aktg/BJNR010890965.html#BJNR010890965BJNE052300308)
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 

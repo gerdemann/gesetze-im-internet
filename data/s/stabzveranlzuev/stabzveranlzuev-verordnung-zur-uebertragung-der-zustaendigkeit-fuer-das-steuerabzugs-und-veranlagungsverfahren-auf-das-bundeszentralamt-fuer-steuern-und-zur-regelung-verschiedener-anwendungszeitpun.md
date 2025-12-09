@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Übertragung der Zuständigkeit auf das Bundeszentralamt für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/stabzveranlz_v/BJNR167910013.html#BJNR167910013BJNE000100000)
 
 Das Bundeszentralamt für Steuern ist zuständig für
 
@@ -40,6 +41,7 @@ zufließen.
 
 
 ## § 2 Anwendungszeitpunkte zum Einkommensteuergesetz
+[Direktlink](https://www.gesetze-im-internet.de/stabzveranlz_v/BJNR167910013.html#BJNR167910013BJNE000200000)
 
 (1) § 50 Absatz 2 Satz 8 des Einkommensteuergesetzes ist erstmals für
 Vergütungen anzuwenden, die nach dem 31. Dezember 2013 zufließen.

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000100000)
 
 Nach
 
@@ -118,6 +119,7 @@ ordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend
 
 
 ## § 1 Ernennung und Entlassung von Beamtinnen und Beamten
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000201000)
 
 Dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben
 (Bundesamt) wird die Befugnis zur Ernennung und Entlassung der
@@ -125,6 +127,7 @@ Beamtinnen und Beamten der Besoldungsgruppen A 2 bis B 2 übertragen.
 
 
 ## § 2 Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesbeamtengesetz
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000301000)
 
 Dem Bundesamt werden übertragen:
 
@@ -174,6 +177,7 @@ Dem Bundesamt werden übertragen:
 
 
 ## § 3 Übertragung von Zuständigkeiten nach der Bundeslaufbahnverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000401000)
 
 Dem Bundesamt werden übertragen:
 
@@ -210,6 +214,7 @@ Dem Bundesamt werden übertragen:
 
 
 ## § 4 Übertragung von Zuständigkeiten nach dem Bundesbesoldungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000500000)
 
 Dem Bundesamt wird die Entscheidung über die Anweisung eines
 dienstlichen Wohnsitzes nach § 15 Absatz 2 Satz 1 des
@@ -217,6 +222,7 @@ Bundesbesoldungsgesetzes übertragen.
 
 
 ## § 5 Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000600000)
 
 Dem Bundesamt werden übertragen:
 
@@ -241,6 +247,7 @@ Dem Bundesamt werden übertragen:
 
 
 ## § 6 Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesdisziplinargesetz
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000700000)
 
 (1) Der Präsidentin oder dem Präsidenten des Bundesamts werden
 übertragen:
@@ -265,6 +272,7 @@ Bundesdisziplinargesetzes übertragen.
 
 
 ## § 7 Zuständigkeit bei Funktionsübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000800000)
 
 (1) Über Funktionsübertragungen entscheidet die Präsidentin oder der
 Präsident des Bundesamts.
@@ -283,6 +291,7 @@ Bundesministerium frühzeitig zu beteiligen.
 
 
 ## § 8 Übertragung von Zuständigkeiten nach der Arbeitszeitverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE000900000)
 
 Dem Bundesamt werden die der obersten Dienstbehörde nach der
 Arbeitszeitverordnung zustehenden Befugnisse übertragen,
@@ -290,6 +299,7 @@ einschließlich der Befugnisse nach § 7a der Arbeitszeitverordnung.
 
 
 ## § 9 Übertragung von Befugnissen und Zuständigkeiten auf dem Gebiet des Haushalts-, Kassen- und Rechnungswesens
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE001000000)
 
 (1) Dem Bundesamt werden übertragen:
 
@@ -359,6 +369,7 @@ Meldungen erforderlich sind.
 
 
 ## § 10 Übertragung von Zuständigkeiten nach anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE001100000)
 
 (1) Dem Bundesamt werden übertragen:
 
@@ -405,6 +416,7 @@ Meldungen erforderlich sind.
 
 
 ## § 11 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE001200000)
 
 (1) Das Bundesministerium behält sich vor, im Einzelfall die
 Befugnisse nach den §§ 1 bis 6 und 8 bis 10 selbst auszuüben.
@@ -414,6 +426,7 @@ Bundesministerium zur Entscheidung vorzulegen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbafzazustano/BJNR07C0A0024.html#BJNR07C0A0024BJNE001300000)
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft, mit Ausnahme von § 2 Satz 1 Nummer 7 und

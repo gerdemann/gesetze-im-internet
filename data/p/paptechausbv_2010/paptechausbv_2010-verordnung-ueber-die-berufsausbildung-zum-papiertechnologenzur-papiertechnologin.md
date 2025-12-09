@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -37,17 +38,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000200000)
 
 Der Ausbildungsberuf Papiertechnologe/Papiertechnologin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -62,6 +66,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -226,6 +231,7 @@ gliedert sich wie folgt (Ausbildungsberufsbild):
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000601360)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -243,6 +249,7 @@ erstellen.
 
 
 ## § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000701360)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -256,6 +263,7 @@ Prüfungsausschüsse fest.
 
 
 ## § 7 Inhalt von Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000801360)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -272,6 +280,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ## § 8 Prüfungsbereiche von Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE000901360)
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -287,6 +296,7 @@ statt:
 
 
 ## § 9 Prüfungsbereich „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie Qualitätssicherung“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001002360)
 
 (1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur
 Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie
@@ -327,6 +337,7 @@ durchgeführt werden.
 
 
 ## § 10 Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001101360)
 
 (1) Im Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen
 sowie Instandhaltung“ hat der Prüfling nachzuweisen, dass er in der
@@ -368,6 +379,7 @@ Lage ist,
 
 
 ## § 11 Inhalt von Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001201360)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -389,6 +401,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ## § 12 Prüfungsbereiche von Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001400360)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -411,6 +424,7 @@ statt:
 
 
 ## § 13 Prüfungsbereich „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001500360)
 
 (1) Im Prüfungsbereich „Bedienen von Anlagen zur Herstellung von
 Papier, Karton, Pappe und Zellstoff“ hat der Prüfling nachzuweisen,
@@ -438,6 +452,7 @@ dass er in der Lage ist,
 
 
 ## § 14 Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001600360)
 
 (1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung
 von Papier, Karton, Pappe und Zellstoff“ hat der Prüfling
@@ -480,6 +495,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ## § 15 Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001700360)
 
 (1) Im Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -523,6 +539,7 @@ auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
 
 ## § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001800360)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -536,6 +553,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ## § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001900360)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -584,6 +602,7 @@ wie folgt bewertet worden sind:
 
 
 ## § 18 Mündliche Ergänzungsprüfung in der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE002000360)
 
 (1) Der Prüfling kann in einem Prüfungsbereich der Abschlussprüfung
 eine mündliche Ergänzungsprüfung beantragen.
@@ -622,6 +641,7 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 19 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE002100360)
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2019 bereits
 bestehen, ist die Verordnung über die Berufsausbildung zum
@@ -632,6 +652,7 @@ S. 1433) geändert worden ist, weiter anzuwenden.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
+[Direktlink](https://www.gesetze-im-internet.de/paptechausbv_2010/BJNR043600010.html#BJNR043600010BJNE001300000)
 
 (Fundstelle: BGBl. I 2010, 439 - 445)
 

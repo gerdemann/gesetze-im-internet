@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Spirituosen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNG000101377)
 
 
 
 ### § 1 Weinbrand oder Brandy
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000204116)
 
 (1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im
 Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des
@@ -64,6 +66,7 @@ gewerbsmäßig nicht in den Verkehr gebracht werden.
 
 
 ### § 2 Deutscher Weinbrand
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000306360)
 
 Eine Spirituose im Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr.
 110/2008 darf unter der Verkehrsbezeichnung "Deutscher Weinbrand"
@@ -126,6 +129,7 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 
 ### § 3 Hinweise auf das Alter
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000402377)
 
 Es ist verboten, Weinbrand oder Brandy mit Hinweisen auf das Alter in
 den Verkehr zu bringen oder bei diesem Erzeugnis mit solchen Hinweisen
@@ -135,6 +139,7 @@ gereift ist. Satz 1 gilt entsprechend für Deutschen Weinbrand.
 
 
 ### § 4 Antrag auf Erteilung einer Prüfungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000502377)
 
 (1) Eine Prüfungsnummer (§ 5 Abs. 3 Satz 2) kann beantragen, wer
 Deutschen Weinbrand gemäß § 2 herstellt oder abfüllt oder in wessen
@@ -182,6 +187,7 @@ einer Prüfungsnummer.
 
 
 ### § 5 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000602377)
 
 (1) Mit dem Antrag auf Erteilung einer Prüfungsnummer ist unbeschadet
 des § 4 Abs. 2 von dem abgefüllten Erzeugnis ein Untersuchungsbefund
@@ -268,6 +274,7 @@ seiner Erstellung aufzubewahren.
 
 
 ### § 6 Angabe der Prüfungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000703310)
 
 (1) Der Prüfungsnummer ist die Angabe "Amtliche Prüfungsnummer"
 voranzustellen. An Stelle dieser Angabe kann die Kurzform "A.P.Nr."
@@ -283,11 +290,13 @@ innerhalb ihrer Betriebsstätte beziehen, gleich.
 
 
 ### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000803310)
 
 -
 
 
 ### § 8 Zuckerung von bestimmten Spirituosen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001803310)
 
 (1) Bei der gewerbsmäßigen Herstellung von
 
@@ -329,6 +338,7 @@ dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
 
 ### § 9 Spirituosen mit geografischen Bezugnahmen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001905116)
 
 (1) Spirituosen dürfen gewerbsmäßig nach Maßgabe des Artikels 10
 Absatz 6 Buchstabe a der Verordnung (EU) 2019/787 des Europäischen
@@ -379,10 +389,12 @@ folgende Bedingungen erfüllt:
 
 
 ## Zweiter Abschnitt - Weinähnliche, perlweinähnliche und schaumweinähnliche Getränke und hieraus weiterverarbeitete alkoholhaltige Getränke
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNG000202377)
 
 
 
 ### § 10 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE002003360)
 
 (1) Weinähnliche Getränke sind alkoholhaltige Getränke, die durch
 teilweise oder vollständige alkoholische Gärung aus Fruchtsaft,
@@ -430,6 +442,7 @@ sind, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
 
 ### § 11 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE002107116)
 
 (1) Die in § 10 Abs. 1 bis 4 und 7 bezeichneten Getränke dürfen als
 "...Wein" nur in solchen Wortverbindungen in den Verkehr gebracht
@@ -468,10 +481,12 @@ geltenden Fassung bezeichneten Aufmachung in Verkehr gebracht werden.
 
 
 ## Dritter Abschnitt - Straftaten und Ordnungswidrigkeiten, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNG000302377)
 
 
 
 ### § 12 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE000906116)
 
 Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft,
@@ -505,6 +520,7 @@ Futtermittelgesetzbuches wird bestraft,
 
 
 ### § 13 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001003310)
 
 Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches handelt, wer eine in § 12 bezeichnete
@@ -512,6 +528,7 @@ Handlung fahrlässig begeht.
 
 
 ### § 14 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE002303310)
 
 (1) Bis zum 1. Januar 2005 dürfen Spirituosen im Sinne des § 2, die
 den Vorschriften dieser Verordnung nicht entsprechen, nach den bis zum
@@ -531,12 +548,14 @@ den Verkehr gebracht werden.
 
 
 ### § 15 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001303377)
 
 -
 
 (zu § 4 Abs. 1)
 
 ### Anlage 1 Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001502377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1260)
 Zuständige Stelle: ............................
@@ -586,6 +605,7 @@ Antragstellers)
 (zu § 5 Abs. 2)
 
 ### Anlage 2 Bewertungsschema für Deutschen Weinbrand
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001602377)
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1261)
 
@@ -796,6 +816,7 @@ Antragstellers)
 (zu § 5 Abs. 3 Nr. 1)
 
 ### Anlage 3 Abkürzungen der Bundesländer
+[Direktlink](https://www.gesetze-im-internet.de/spiritv/BJNR031000998.html#BJNR031000998BJNE001702377)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1262
 

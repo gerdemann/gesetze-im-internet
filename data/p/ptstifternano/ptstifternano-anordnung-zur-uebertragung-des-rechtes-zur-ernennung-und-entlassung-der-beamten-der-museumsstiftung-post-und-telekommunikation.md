@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ptstifternano/BJNR006300998.html#BJNR006300998BJNE000100310)
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
 über die Ernennung und Entlassung der Bundesbeamten und Richter im
@@ -28,6 +29,7 @@ angeordnet:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/ptstifternano/BJNR006300998.html#BJNR006300998BJNE000200310)
 
 Das Recht zur Ernennung und Entlassung der Beamten der Museumsstiftung
 Post und Telekommunikation bis zur Besoldungsgruppe A 13 (gehobener
@@ -35,6 +37,7 @@ Dienst) wird dem Kurator übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/ptstifternano/BJNR006300998.html#BJNR006300998BJNE000300310)
 
 Diese Anordnung tritt am 1. Januar 1998 in Kraft.
 

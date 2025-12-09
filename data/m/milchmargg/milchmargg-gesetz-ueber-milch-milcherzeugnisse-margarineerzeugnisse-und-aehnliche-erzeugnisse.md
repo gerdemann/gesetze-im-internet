@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE000700328)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNG000100328)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE000802118)
 
 (1) Die Vorschriften dieses Gesetzes sind anzuwenden auf
 
@@ -63,6 +66,7 @@ Erzeugnissen getrennt gehalten und kenntlich gemacht werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE000904119)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -138,10 +142,12 @@ Gemeinschaftsverpflegung.
 
 
 ## Zweiter Abschnitt - Ermächtigungen, Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNG000301308)
 
 
 
 ### § 3 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE001410119)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -194,6 +200,7 @@ Milcherzeugnissen.
 
 
 ### § 4 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE001510119)
 
 (1) Von den Vorschriften der auf Grund des § 3 Abs. 1 erlassenen
 Rechtsverordnungen können im Einzelfall auf Antrag Ausnahmen
@@ -249,6 +256,7 @@ widerrufen werden.
 
 
 ### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE003200119)
 
 (1) Ein Erzeugnis im Sinne des § 1 Absatz 1 Nummer 1 bis 3 darf nur in
 Verkehr gebracht werden, wenn die Vorgaben für die Kennzeichnung
@@ -282,10 +290,12 @@ Lebensmittelrechts enthalten sind.
 
 
 ## Dritter Abschnitt - Überwachung, Lebensmittel-Monitoring, Befugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNG000402308)
 
 
 
 ### § 5 Überwachung; Monitoring
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE001703308)
 
 Die Überwachung der Einhaltung der Vorschriften dieses Gesetzes
 erfolgt nach Maßgabe der Bestimmungen der §§ 38 bis 48 des
@@ -297,6 +307,7 @@ Gesetzes Anwendung.
 
 
 ### § 6 Erlaß von allgemeinen Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE001806301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit
 Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes
@@ -304,6 +315,7 @@ erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ### § 7 Befugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE001902308)
 
 Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach § 3
 zu erlassen, solange der Bund von den in diesem Gesetz genannten
@@ -314,16 +326,19 @@ auf andere Behörden zu übertragen.
 
 
 ## Vierter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNG000501308)
 
 
 
 ### § 8 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002005119)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 4a Absatz 2 ein Erzeugnis in Verkehr bringt.
 
 
 ### § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002106119)
 
 (1) Ordnungswidrig handelt, wer fahrlässig eine in § 8 bezeichnete
 Handlung begeht.
@@ -379,6 +394,7 @@ Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
 
 ### § 10 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE003006119)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
@@ -389,6 +405,7 @@ Nr. 4 geahndet werden können.
 
 
 ### § 11 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002202308)
 
 Gegenstände, auf die sich eine Straftat nach § 8 oder eine
 Ordnungswidrigkeit nach § 9 bezieht, können eingezogen werden. § 74a
@@ -397,10 +414,12 @@ sind anzuwenden.
 
 
 ## Fünfter Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNG000602308)
 
 
 
 ### § 12 Rechtsverordnungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002305119)
 
 (1) Rechtsverordnungen nach § 3 Absatz 1 können ohne Zustimmung des
 Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur
@@ -421,6 +440,7 @@ sowie zur Anpassung von Änderungshinweisen Gebrauch gemacht werden.
 
 
 ### § 13 Anhörung von Sachkennern
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002402308)
 
 Vor Erlaß von Rechtsverordnungen nach diesem Gesetz soll ein jeweils
 auszuwählender Kreis von Sachkennern aus der Wissenschaft, der
@@ -428,16 +448,19 @@ Verbraucherschaft und der beteiligten Wirtschaft gehört werden.
 
 
 ### § 14 Geltung lebensmittelrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002502308)
 
 Unberührt bleiben die Vorschriften des Lebensmittelrechts, soweit
 nicht Vorschriften dieses Gesetzes entgegenstehen.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE003102119)
 
 
 
 ### § 16 Inkrafttreten, abgelöste Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/milchmargg/BJNR014710990.html#BJNR014710990BJNE002902308)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

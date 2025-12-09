@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzdnkbek/BJNR007090913.html#BJNR007090913BJNE000100303)
 
 Auf Grund des § 24h des Gesetzes zum Schutze der Warenbezeichnungen
 vom 12. Mai 1894 (Artikel III des Gesetzes zur Ausführung der

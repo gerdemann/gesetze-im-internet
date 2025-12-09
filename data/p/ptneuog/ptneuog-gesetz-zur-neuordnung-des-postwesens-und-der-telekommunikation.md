@@ -20,61 +20,75 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNE001400320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000100320)
 
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000200320)
 
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000300320)
 
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000400320)
 
 
 
 ## Art 5 u. 6
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000500320)
 
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000600320)
 
 
 
 ## Art 8 u. 9
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000700320)
 
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000800320)
 
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG000900320)
 
 
 
 ## Art 12
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG001001307)
 
 
 
 ## Art 13 - Außerkrafttreten bisherigen Rechts und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG001100320)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNE001500320)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNE001600320)
 
 § 63 Abs. 1 bis 3 des Postverfassungsgesetzes gilt im Jahr 1995 noch
 mit den folgenden Maßgaben fort:
@@ -88,6 +102,7 @@ anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNE001700320)
 
 Für das Geschäftsjahr 1994 stellt der Vorstand des jeweiligen
 Nachfolgeunternehmens einen Jahresabschluß und einen Lagebericht in
@@ -102,6 +117,7 @@ entscheidet.
 
 
 ## § 4 Auflösung und Rechtsnachfolge der "Kaiser-Wilhelm-Stiftung für die Angehörigen der deutschen Reichs-Postverwaltung"
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNE001800320)
 
 (1) Mit Inkrafttreten dieses Gesetzes wird die durch Gesetz vom 20.
 Juni 1872 (RGBl. S. 210) errichtete "Kaiser-Wilhelm-Stiftung für die
@@ -116,6 +132,7 @@ Bundespost".
 
 
 ## Art 14 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG001200320)
 
 Die mit diesem Gesetz geänderten Rechtsverordnungen können auf Grund
 der jeweils einschlägigen Ermächtigung durch Rechtsverordnung geändert
@@ -123,6 +140,7 @@ werden.
 
 
 ## Art 15 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ptneuog/BJNR232509994.html#BJNR232509994BJNG001300320)
 
 (1) Dieses Gesetz tritt am 1. Januar 1995 in Kraft.
 

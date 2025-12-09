@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE000800319)
 
 Auf Grund des § 125 Abs. 3 des Gesetzes über die Angelegenheiten der
 freiwilligen Gerichtsbarkeit in der Fassung der Verordnung vom 10.
@@ -28,10 +29,12 @@ August 1937 (Reichsgesetzbl. I S. 900) bestimme ich folgendes:
 Einrichtung des Handelsregisters,
 
 ## I. - Örtliche und sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000100319)
 
 
 
 ### § 1 Zuständigkeit des Amtsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE000903160)
 
 Soweit nicht nach § 376 Abs. 2 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
@@ -41,11 +44,13 @@ Bezirk dieses Landgerichts ein Handelsregister.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001001310)
 
 (weggefallen)
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001103308)
 
 (1) Das Handelsregister besteht aus zwei Abteilungen.
 
@@ -60,6 +65,7 @@ beschränkter Haftung und die Versicherungsvereine auf Gegenseitigkeit.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001203160)
 
 Für die Erledigung der Geschäfte des Registergerichts ist der Richter
 zuständig. Soweit die Erledigung der Geschäfte nach dieser Verordnung
@@ -69,16 +75,19 @@ Geschäftsstelle entsprechend.
 
 
 ### (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001300319)
 
 
 
 ### § 7 Elektronische Führung des Handelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001402310)
 
 Die Register einschließlich der Registerordner werden elektronisch
 geführt. § 8a Abs. 2 des Handelsgesetzbuchs bleibt unberührt.
 
 
 ### § 8 Registerakten
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001504311)
 
 (1) Für jedes Registerblatt (§ 13) werden Akten gebildet. Zu den
 Registerakten gehören auch die Schriften oder Dokumente über solche
@@ -117,6 +126,7 @@ aufzubewahren.
 
 
 ### § 9 Registerordner
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001610125)
 
 (1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des
 Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden
@@ -199,6 +209,7 @@ anzugeben.
 
 
 ### § 10 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001702125)
 
 (1) Die Einsicht in das Register und in die zum Register eingereichten
 Dokumente ist auf der Geschäftsstelle des Registergerichts während der
@@ -221,6 +232,7 @@ Angaben und der eingereichten Übersetzungen zugänglich zu machen.
 
 
 ### § 11 Bereitstellung von Unternehmensdaten über das Europäische System der Registervernetzung
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001803125)
 
 (1) In Bezug auf Kapitalgesellschaften übermitteln die
 Registergerichte an die zentrale Europäische Plattform gemäß § 9b
@@ -272,10 +284,12 @@ Handelsgesetzbuchs gilt entsprechend.
 
 
 ## II. - Führung des Handelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000200319)
 
 
 
 ### § 12 Form der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE001901310)
 
 Die Eintragungen sind deutlich, klar verständlich sowie in der Regel
 ohne Verweis auf gesetzliche Vorschriften und ohne Abkürzung
@@ -284,6 +298,7 @@ oder sonstige Maßnahmen entfernt werden.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002003125)
 
 (1) Jeder Einzelkaufmann, jede juristische Person sowie jede
 Handelsgesellschaft ist unter einer in derselben Abteilung
@@ -310,6 +325,7 @@ Eintragung zuzuordnen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002100319)
 
 (1) Jede Eintragung ist mit einer laufenden Nummer zu versehen und
 mittels eines alle Spalten des Registers durchschneidenden Querstrichs
@@ -320,6 +336,7 @@ sie nur eine laufende Nummer.
 
 
 ### § 15 Übersetzungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002201310)
 
 War eine frühere Eintragung in einer Amtssprache der Europäischen
 Union zugänglich gemacht worden (§ 11 des Handelsgesetzbuchs), so ist
@@ -330,6 +347,7 @@ Kenntlichmachung ist zu entfernen, sobald eine aktualisierte
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002301310)
 
 (1) Änderungen des Inhalts einer Eintragung sowie Löschungen sind
 unter einer neuen laufenden Nummer einzutragen. Eine Eintragung, die
@@ -350,6 +368,7 @@ zu wiederholen.
 
 
 ### § 16a Kennzeichnung bestimmter Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009501125)
 
 Diejenigen Eintragungen, die lediglich andere Eintragungen
 wiederholen, erläutern oder begründen und daher nach § 30a Abs. 4 Satz
@@ -359,6 +378,7 @@ nicht in den aktuellen Ausdruck übernommen werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002402125)
 
 (1) Schreibversehen und ähnliche offenbare Unrichtigkeiten in einer
 Eintragung können durch den Richter oder nach Anordnung des Richters
@@ -374,6 +394,7 @@ beseitigen. Die Löschung oder sonstige Beseitigung ist zu vermerken.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002501310)
 
 Erfolgt eine Eintragung auf Grund einer rechtskräftigen oder
 vollstreckbaren Entscheidung des Prozeßgerichts, so ist dies bei der
@@ -383,6 +404,7 @@ der Entscheidung ist in dieselbe Spalte des Registers einzutragen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002602160)
 
 (1) Soll eine Eintragung von Amts wegen gelöscht werden, weil Sie
 mangels einer wesentlichen Voraussetzung unzulässig ist, so erfolgt
@@ -401,11 +423,13 @@ Handelsgesetzbuchs vorgesehenen Vermerke.
 
 
 ### § 19a
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006101310)
 
 (weggefallen)
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002704310)
 
 Wird die Hauptniederlassung eines Einzelkaufmanns, einer juristischen
 Person oder der Sitz einer Handelsgesellschaft oder die
@@ -421,6 +445,7 @@ des neuen Registergerichts zu verweisen und umgekehrt.
 
 
 ### § 21 Umschreibung eines Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002802310)
 
 (1) Ist das Registerblatt unübersichtlich geworden, so sind die noch
 gültigen Eintragungen unter einer neuen oder unter derselben Nummer
@@ -439,6 +464,7 @@ sind die Beteiligten vorher zu hören.
 
 
 ### § 22 Gegenstandslosigkeit aller Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE002901310)
 
 (1) Sämtliche Seiten des Registerblatts sind zu röten oder rot zu
 durchkreuzen, wenn alle Eintragungen gegenstandslos geworden sind. Das
@@ -454,10 +480,12 @@ entgegenstehen.
 
 
 ## III. - Verfahren bei Anmeldung, Eintragung und Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000301125)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003004160)
 
 Das Gericht hat dafür Sorge zu tragen, dass die gesetzlich
 vorgeschriebenen Eintragungen in das Register erfolgen. Die
@@ -468,6 +496,7 @@ eingeholt und übermittelt werden.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003104160)
 
 (1) Werden natürliche Personen zur Eintragung in das Handelsregister
 angemeldet (insbesondere als Kaufleute, Gesellschafter, Prokuristen,
@@ -491,6 +520,7 @@ angegeben wird.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003205125)
 
 (1) Auf die Anmeldung zur Eintragung, auf Gesuche und Anträge
 entscheidet der Richter. Über die Eintragung ist unverzüglich nach
@@ -540,6 +570,7 @@ für die Verzögerung.
 
 
 ### § 26 Änderung eingetragener Angaben
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003303311)
 
 Die Änderung eingetragener Angaben ist, unbeschadet des § 25 Absatz 1
 Satz 2, in der Regel innerhalb von 21 Tagen nach Eingang der
@@ -549,6 +580,7 @@ Behebung einzutragen und bekannt zu machen.
 
 
 ### § 27 Vornahme der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003402125)
 
 (1) Der Richter nimmt die Eintragung entweder selbst vor oder er
 verfügt die Eintragung durch den Urkundsbeamten der Geschäftsstelle.
@@ -575,6 +607,7 @@ Registerblattes gespeichert wird.
 
 
 ### § 28 Elektronische Signatur
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003501310)
 
 Der Richter oder im Fall des § 27 Abs. 2 der Urkundsbeamte der
 Geschäftsstelle setzt der Eintragung seinen Nachnamen hinzu und
@@ -583,6 +616,7 @@ Grundbuchverfügung entsprechend.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003608125)
 
 (1) Der Urkundsbeamte der Geschäftsstelle ist zuständig:
 
@@ -623,6 +657,7 @@ Entscheidung gegeben.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003703310)
 
 (1) Einfache Abschriften der in Papierform vorhandenen Registerblätter
 und Schriftstücke sind mit dem Vermerk: "Gefertigt am ..."
@@ -672,6 +707,7 @@ würde; andere Versagungsgründe bleiben unberührt.
 
 
 ### § 30a Ausdrucke
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009602125)
 
 (1) Ausdrucke aus dem Registerblatt (§ 9 Abs. 4 des
 Handelsgesetzbuchs) sind mit der Aufschrift "Ausdruck" oder "Amtlicher
@@ -722,6 +758,7 @@ zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003801310)
 
 Ausfertigungen der Bescheinigungen und Zeugnisse sind von dem
 Urkundsbeamten der Geschäftsstelle unter Angabe des Ortes und Tages zu
@@ -731,6 +768,7 @@ Bescheinigungen und Zeugnisse können auch in elektronischer Form (§
 
 
 ### § 32 Bereitstellung der Eintragung zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE003901125)
 
 Die Eintragung ist unverzüglich zum Abruf über das von der
 Landesjustizverwaltung nach § 9 Absatz 1 Satz 2 des Handelsgesetzbuchs
@@ -739,6 +777,7 @@ bereitzustellen.
 
 
 ### § 33 Registerbekanntmachungen nach § 10 Absatz 3 des Handelsgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004002125)
 
 (1) Registerbekanntmachungen nach § 10 Absatz 3 des Handelsgesetzbuchs
 werden in dem von der Landesjustizverwaltung nach § 9 Absatz 1 Satz 2
@@ -767,10 +806,12 @@ bekanntmachende Stelle beizufügen.
 
 
 ### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004103125)
 
 
 
 ### § 34a Veröffentlichungen im Amtsblatt der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009400310)
 
 Die Pflichten zur Veröffentlichung im Amtsblatt der Europäischen Union
 und die Mitteilungspflichten gegenüber dem Amt für amtliche
@@ -783,6 +824,7 @@ Nr. L 199 S. 1) sowie der Verordnung (EG) Nr. 2157/2001 des Rates vom
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004202125)
 
 Wird eine Firma im Handelsregister gelöscht, weil das Unternehmen nach
 Art oder Umfang einen in kaufmännischer Weise eingerichteten
@@ -795,6 +837,7 @@ werden.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004302160)
 
 Der Urkundsbeamte der Geschäftsstelle unterschreibt die Mitteilungen.
 In geeigneten Fällen ist darauf hinzuweisen, daß auf die Bekanntgabe
@@ -804,6 +847,7 @@ freiwilligen Gerichtsbarkeit).
 
 
 ### § 37 Mitteilungen an andere Stellen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004406310)
 
 (1) Das Gericht hat jede Neuanlegung und jede Änderung eines
 Registerblatts
@@ -831,6 +875,7 @@ Stellen vorgesehen ist, bleiben diese Vorschriften unberührt.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004500319)
 
 Gehört ein Ort oder eine Gemeinde zu den Bezirken verschiedener
 Registergerichte, so hat jedes Registergericht vor der Eintragung
@@ -841,6 +886,7 @@ bestehen.
 
 
 ### § 38a
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006202125)
 
 (1) Gerichtliche Verfügungen und Benachrichtigungen an Beteiligte, die
 maschinell erstellt werden, brauchen nicht unterschrieben zu werden.
@@ -861,6 +907,7 @@ freiwilligen Gerichtsbarkeit bleibt unberührt.
 
 
 ### § 38b Überprüfung ausländischer Registereintragungen über das Europäische System der Registervernetzung
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009800125)
 
 Die Registergerichte können im Rahmen von Verfahren zur Anmeldung und
 Eintragung der Zweigniederlassung einer Kapitalgesellschaft, die dem
@@ -873,20 +920,24 @@ abrufen und überprüfen.
 
 
 ## IV. - Sondervorschriften für die Abteilungen A und B
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000400319)
 
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004601310)
 
 Die Abteilungen A und B werden in getrennten Registern nach den
 beigegebenen Mustern geführt.
 
 
 ### Abteilung A - 
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000500319)
 
 
 
 #### § 40 Inhalt der Eintragungen in Abteilung A
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004711125)
 
 In Abteilung A des Handelsregisters sind die nachfolgenden Angaben
 einzutragen:
@@ -1047,6 +1098,7 @@ einzutragen:
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004800319)
 
 (1) Wird bei dem Eintritt eines persönlich haftenden Gesellschafters
 oder eines Kommanditisten in das Geschäft eines Einzelkaufmanns oder
@@ -1062,6 +1114,7 @@ zu verweisen.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE004900319)
 
 Wird zum Handelsregister angemeldet, daß das Handelsgeschäft eines
 Einzelkaufmanns, einer juristischen Person, einer offenen
@@ -1075,10 +1128,12 @@ Registerblatt in der Spalte "Bemerkungen" zu verweisen und umgekehrt.
 
 
 ### Abteilung B - 
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000600319)
 
 
 
 #### § 43 Inhalt der Eintragungen in Abteilung B
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005016125)
 
 In Abteilung B des Handelsregisters sind die nachfolgenden Angaben
 einzutragen:
@@ -1265,6 +1320,7 @@ einzutragen:
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005103160)
 
 Urteile, durch die ein in das Register eingetragener Beschluß der
 Hauptversammlung einer Aktiengesellschaft, SE, Kommanditgesellschaft
@@ -1278,6 +1334,7 @@ die der Beschluß eingetragen war.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005203160)
 
 (1) Soll eine Aktiengesellschaft, eine SE, eine Kommanditgesellschaft
 auf Aktien oder eine Gesellschaft mit beschränkter Haftung als nichtig
@@ -1293,6 +1350,7 @@ Gesellschaft durch rechtskräftiges Urteil für nichtig erklärt ist.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005300319)
 
 Wird bei einer in Abteilung B eingetragenen Handelsgesellschaft die
 Änderung der Firma zum Handelsregister angemeldet, weil das Geschäft
@@ -1304,6 +1362,7 @@ bisherige Registerblatt zu verweisen und umgekehrt.
 
 
 #### § 46a
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009900125)
 
 (1) Eintragungen bei grenzüberschreitenden Umwandlungen nach dem
 Umwandlungsgesetz enthalten mindestens die folgenden Angaben:
@@ -1350,14 +1409,17 @@ Formwechselbescheinigung bestimmt sich der Inhalt der Eintragung nach
 
 
 ## IVa. - Vorschriften für das elektronisch geführte Handelsregister
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000803310)
 
 
 
 ### 1. - Einrichtung des elektronisch geführten Handelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG000903310)
 
 
 
 #### § 47 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006305125)
 
 (1) Bei der elektronischen Führung des Handelsregisters muss
 gewährleistet sein, dass
@@ -1399,6 +1461,7 @@ Eigentümer der Anlage keinen Zugang zu den Daten hat.
 
 
 #### § 48 Begriff des elektronisch geführten Handelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006403310)
 
 Bei dem elektronisch geführten Handelsregister ist der in den dafür
 bestimmten Datenspeicher aufgenommene und auf Dauer unverändert in
@@ -1412,6 +1475,7 @@ verändert werden.
 Anforderungen an Anlagen und Programme,
 
 #### § 49 Sicherung der Anlagen, Programme und Daten
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006503310)
 
 (1) Hinsichtlich der Anforderungen an die für das elektronisch
 geführte Handelsregister verwendeten Anlagen und Programme, deren
@@ -1424,6 +1488,7 @@ eingesetzten Systemen verbunden werden können.
 
 
 #### § 50 Gestaltung des elektronisch geführten Handelsregisters
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006603310)
 
 (1) Der Inhalt des elektronisch geführten Handelsregisters muß auf dem
 Bildschirm und in Ausdrucken entsprechend den beigegebenen Mustern
@@ -1444,10 +1509,12 @@ Eintragung in das Registerblatt vor dem 1. Januar 1997 erfolgte.
 
 
 ### 2. - Anlegung des elektronisch geführten Registerblatts
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG001001310)
 
 
 
 #### § 51 Anlegung des elektronisch geführten Registerblatts durch Umschreibung
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006702310)
 
 Ein bisher in Papierform geführtes Registerblatt kann für die
 elektronische Führung nach den §§ 51, 52 und 54 in der bis zum
@@ -1457,10 +1524,12 @@ Genossenschaftsregister sowie das Unternehmensregister am 1. Januar
 
 
 ### 3. - Automatisierter Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG001101310)
 
 
 
 #### § 52 Umfang des automatisierten Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE006803125)
 
 Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren
 einschließlich des Rechts, von den abgerufenen Daten Abdrucke zu
@@ -1473,6 +1542,7 @@ Abdrucke stehen den Ausdrucken (§ 30a) nicht gleich.
 
 
 #### § 53 Protokollierung der Abrufe
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009700310)
 
 (1) Für die Sicherung der ordnungsgemäßen Datenverarbeitung und für
 die Abrechnung der Kosten des Abrufs werden alle Abrufe durch die
@@ -1496,10 +1566,12 @@ den Rechtsbehelf.
 
 
 ### 4. - Ersatzregister und Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNG001201310)
 
 
 
 #### § 54 Ersatzregister und Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE007002310)
 
 (1) Ist die Vornahme von Eintragungen in das elektronisch geführte
 Handelsregister vorübergehend nicht möglich, so können auf Anordnung
@@ -1530,22 +1602,26 @@ elektronische Dokumente zu übertragen.
 
 
 #### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005600319)
 
 Der Reichsminister der Justiz
 
 
 #### Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005701310)
 
 -
 
 
 #### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005801310)
 
 -
 
 (zu § 33 Absatz 5)
 
 #### Anlage 3 Muster für Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE005904125)
 
 (Fundstelle: BGBl. I 2021, 3351)
 
@@ -1564,6 +1640,7 @@ Tag der Registerbekanntmachung: [Datum].
 
 
 #### Anlage 4 (zu § 50 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE008802160)
 
 (Fundstelle: BGBl. I 2001, 3693;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1741,6 +1818,7 @@ Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 [^BJNR705150937BJNE008801310_02_BJNR705150937BJNE008802160]: 
 
 #### Anlage 5 (zu § 50 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE008904160)
 
 (Fundstelle: BGBl. I 2001, 3693;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1936,6 +2014,7 @@ Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
 
 #### Anlage 6 (zu § 50 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009002160)
 
 (Fundstelle: BGBl. I 2001, 3694;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2034,6 +2113,7 @@ auf dem Bildschirm stets sichtbar sein.
 
 
 #### Anlage 7 (zu § 50 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009103160)
 
 (Fundstelle: BGBl. I 2001, 3694;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2122,6 +2202,7 @@ auf dem Bildschirm stets sichtbar sein.
 
 
 #### Anlage 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hdlregvfg/BJNR705150937.html#BJNR705150937BJNE009201310)
 
 -
 

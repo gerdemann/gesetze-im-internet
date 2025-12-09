@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/aug2011uhbek/BJNR110900011.html#BJNR110900011BJNE000100000)
 
 Nach § 1 Absatz 1 Satz 2 in Verbindung mit Satz 1 Nummer 3 des
 Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898) wird
@@ -434,6 +435,7 @@ Geltendmachung von Unterhaltsansprüchen festgestellt ist:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aug2011uhbek/BJNR110900011.html#BJNR110900011BJNE000200000)
 
 Die Bundesministerin der Justiz
 

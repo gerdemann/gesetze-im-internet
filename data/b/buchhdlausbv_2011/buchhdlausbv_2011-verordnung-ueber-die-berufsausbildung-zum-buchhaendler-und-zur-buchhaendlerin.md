@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -34,17 +35,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000200000)
 
 Der Ausbildungsberuf des Buchhändlers und der Buchhändlerin wird nach
 § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -65,6 +69,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -330,6 +335,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -351,6 +357,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -400,6 +407,7 @@ Vorgaben:
 
 
 ## § 7 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -622,6 +630,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE000900000)
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte dreimonatige
 Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt C können als
@@ -632,6 +641,7 @@ Anlage 1 Abschnitt C enthaltene sachliche Gliederung entsprechend.
 
 
 ## § 9 Prüfung der Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE001000000)
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung
 gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die
@@ -646,6 +656,7 @@ der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
 
 ## § 10 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE001100000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -654,6 +665,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Buchhändler/zur
@@ -662,6 +674,7 @@ Buchhändlerin vom 5. März 1998 (BGBl. I S. 462) außer Kraft.
 (zu § 4 Absatz 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE001300000)
 
 (Fundstelle: BGBl. I 2011, 426 - 437)
 
@@ -2603,6 +2616,7 @@ Wahlqualifikationseinheiten**
 (zu § 4 Absatz 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+[Direktlink](https://www.gesetze-im-internet.de/buchhdlausbv_2011/BJNR042200011.html#BJNR042200011BJNE001400000)
 
 (Fundstelle: BGBl. I 2011, 438 - 439)
 

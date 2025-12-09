@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4bek_1977-07-20/BJNR013450977.html#BJNR013450977BJNE000100303)
 
 
 1.  Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -47,21 +48,25 @@ Zuletzt geändert durch
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4bek_1977-07-20/BJNR013450977.html#BJNR013450977BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4bek_1977-07-20/BJNR013450977.html#BJNR013450977BJNE000201308)
 
 -
 
 
 ## Anlage 2 Bezeichnungen und Kennzeichen der Europäischen Weltraumbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4bek_1977-07-20/BJNR013450977.html#BJNR013450977BJNE000300303)
 
 Fundstelle: BGBl. I 1977, 1346)
 ![bgbl1_1977_j1346_0010.jpg](bgbl1_1977_j1346_0010.jpg)
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4bek_1977-07-20/BJNR013450977.html#BJNR013450977BJNE000400303)
 
 -
 

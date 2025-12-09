@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Zulassung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000200307)
 
 (1) Zur Herstellung der Einheitlichkeit der Lebensverhältnisse im
 gesamten Gebiet der Bundesrepublik Deutschland ist als Teil der
@@ -48,6 +50,7 @@ geregelt.
 
 
 ## § 2 Änderungen und Ergänzungen des Planes
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000303305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den
@@ -87,6 +90,7 @@ entsprechende Anwendung.
 
 
 ## § 3 Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000401301)
 
 (1) Die Enteignung zugunsten des Trägers der Straßenbaulast ist
 zulässig, soweit sie zur Ausführung der in dem Plan nach § 1 und § 2
@@ -105,6 +109,7 @@ entsprechend.
 
 
 ## § 4 Vorzeitige Besitzeinweisung
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000500307)
 
 (1) Weigert sich der Eigentümer oder Besitzer, den Besitz eines für
 den Bau oder die Änderung des Verkehrsweges benötigten Grundstücks
@@ -153,6 +158,7 @@ festzusetzen.
 
 
 ## § 5 Vertreter des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000600307)
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
 die kommunale Aufsichtsbehörde der Gemeinde, in der das betroffene
@@ -163,11 +169,13 @@ Verwaltungsverfahrensgesetzes findet Anwendung.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000700307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage 1 Erläuterungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000800307)
 
 (Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren
 Graphiken und Übersichtskarten,
@@ -176,6 +184,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S. 11
 
 
 ## Anlage 2 Übersichtskarte
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE000900307)
 
 (Inhalt: nicht darstellbare Übersichtskarten,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -183,6 +192,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 3 Übersichtsplan
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001000307)
 
 (Inhalt: nicht darstellbarer Übersichtsplan,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -190,6 +200,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 4 Übersichtslageplan und Übersichtshöhenplan
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001100307)
 
 (Inhalt: nicht darstellbarer Übersichtslageplan und
 Übersichtshöhenplan,
@@ -198,6 +209,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 5 Verzeichnis der Bauwerke, Versorgungsleitungen und sonstigen Anlagen (Bauwerksverzeichnis)
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001200307)
 
 (Inhalt: nicht erfaßtes Bauwerksverzeichnis,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -205,6 +217,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 6 Querschnitte
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001300307)
 
 (Inhalt: nicht darstellbare Querschnittszeichnungen,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -212,6 +225,7 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 7 Lageplan und Höhenplan
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001400307)
 
 (Inhalt: nicht darstellbare Lage- und Höhenpläne,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -219,6 +233,7 @@ Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 8 Versorgungsleitungsplan
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001500307)
 
 (Inhalt: nicht darstellbarer Versorgungsleitungsplan - die von dem
 Plan betroffenen Versorgungsleitungen sind in den Anlagen 5 und 7
@@ -228,6 +243,7 @@ Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 9 Grunderwerbsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001600307)
 
 (Inhalt: nicht erfaßtes Grunderwerbsverzeichnis,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -235,6 +251,7 @@ Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 10 Grunderwerbspläne
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001700307)
 
 (Inhalt: nicht darstellbare Grunderwerbspläne,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
@@ -242,6 +259,7 @@ Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 11 Ergebnisse der landschaftspflegerischen Begleitplanung
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001800307)
 
 (Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren
 Graphiken und Plänen,
@@ -250,6 +268,7 @@ Fundstelle: Anlageband III zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 
 
 ## Anlage 12 Schalltechnische Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/babwismarg/BJNR073400994.html#BJNR073400994BJNE001900307)
 
 (Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren
 Übersichtslageplänen,

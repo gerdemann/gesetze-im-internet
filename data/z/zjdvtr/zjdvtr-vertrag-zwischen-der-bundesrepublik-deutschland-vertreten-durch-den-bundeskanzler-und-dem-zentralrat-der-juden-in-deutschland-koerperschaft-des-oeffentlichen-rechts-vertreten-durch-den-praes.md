@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000100000)
 
 Im Bewusstsein der besonderen geschichtlichen Verantwortung des
 deutschen Volkes für das jüdische Leben in Deutschland, angesichts des
@@ -34,6 +35,7 @@ der Juden in Deutschland folgenden Vertrag:
 
 
 ## Art 1 Zusammenwirken
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000200000)
 
 Die Bundesregierung und der Zentralrat der Juden in Deutschland,
 Körperschaft des öffentlichen Rechts, der nach seinem
@@ -50,6 +52,7 @@ Kosten seiner Verwaltung finanziell unterstützen.
 
 
 ## Art 2 Staatsleistung
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000304125)
 
 (1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik
 Deutschland an den Zentralrat der Juden in Deutschland jährlich einen
@@ -66,6 +69,7 @@ Leistungsanpassung darstellt.
 
 
 ## Art 3 Zahlungsmodalitäten
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000400000)
 
 Die Leistung wird 2003 in einer Summe, ab 2004 mit je einem Viertel
 des Jahresbetrages jeweils zum 15. Februar, 15. Mai, 15. August und
@@ -73,6 +77,7 @@ des Jahresbetrages jeweils zum 15. Februar, 15. Mai, 15. August und
 
 
 ## Art 4 Prüfung der Verwendung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000500000)
 
 Der Zentralrat der Juden in Deutschland weist die Verwendung der
 Zahlung jährlich durch eine von einem unabhängigen vereidigten
@@ -81,6 +86,7 @@ des Wirtschaftsprüfers sind der Bundesregierung vorzulegen.
 
 
 ## Art 5 Weitere Einrichtungen des Zentralrats
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000600000)
 
 (1) Der Bund wird darüber hinaus auch zukünftig die bisher geförderten
 Einrichtungen des Zentralrats der Juden in Deutschland - Hochschule
@@ -100,6 +106,7 @@ Vorgaben des Haushaltsgesetzgebers.
 
 
 ## Art 6 Ausschluss weiterer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000700000)
 
 (1) Der Zentralrat der Juden in Deutschland wird über die in Artikel 2
 und 5 gewährten Leistungen hinaus keine weiteren finanziellen
@@ -114,6 +121,7 @@ Bund und den Ländern vom 21. Juni 1957.
 
 
 ## Art 7 Vertragsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000800000)
 
 Die Vertragsschließenden sind sich bewusst, dass die Festlegung der
 finanziellen Leistungen dieses Vertrages auf der Grundlage der
@@ -123,6 +131,7 @@ angemessene Anpassung bemühen.
 
 
 ## Art 8 Freundschaftsklausel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE000900000)
 
 Die Vertragsschließenden werden etwa in Zukunft auftretende
 Meinungsverschiedenheiten über die Auslegung dieses Vertrages in
@@ -130,6 +139,7 @@ freundschaftlicher Weise beseitigen.
 
 
 ## Art 9 Zustimmung des Deutschen Bundestages, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE001000000)
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.
@@ -139,6 +149,7 @@ Vertrag zugestimmt wird, in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr/BJNR159800003.html#BJNR159800003BJNE001100000)
 
 
 *    *   Für die Bundesrepublik Deutschland

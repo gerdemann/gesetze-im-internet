@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000100305)
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 1, 7 und 13 und des § 54 Abs. 1
 Satz 1 und Abs. 2 Satz 1 des Atomgesetzes in der Fassung der
@@ -30,10 +31,12 @@ geändert durch Artikel 2 des Gesetzes vom 9. Oktober 1989 (BGBl. I S.
 
 
 ## Erster Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNG000200305)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000303116)
 
 (1) Diese Verordnung gilt für Anlagen nach § 7 Absatz 1 des
 Atomgesetzes.
@@ -89,10 +92,12 @@ Atomgesetzes.
 
 
 ## Zweiter Abschnitt - Kerntechnischer Sicherheitsbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNG000400305)
 
 
 
 ### § 2 Bestellung des kerntechnischen Sicherheitsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000502116)
 
 (1) Der Inhaber einer Genehmigung zum Betrieb einer Anlage nach § 7
 Absatz 1 des Atomgesetzes (Betreiber) hat für die Dauer des Betriebs
@@ -141,6 +146,7 @@ bestellt.
 
 
 ### § 3 Pflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000600305)
 
 (1) Der Betreiber hat den Sicherheitsbeauftragten bei der Erfüllung
 seiner Aufgaben zu unterstützen und ihm insbesondere, soweit dies zur
@@ -154,6 +160,7 @@ oder Befugnisse betreffen, zur Kenntnis gegeben werden.
 
 
 ### § 4 Aufgaben des Sicherheitsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000700305)
 
 (1) Der Sicherheitsbeauftragte hat innerhalb der Betriebsorganisation
 am Standort der Anlage unbeschadet der Verantwortung des Betreibers
@@ -209,6 +216,7 @@ beraten.
 
 
 ### § 5 Stellung des Sicherheitsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE000801377)
 
 (1) Der Sicherheitsbeauftragte darf bei der Erfüllung seiner Aufgaben
 nicht behindert und wegen seiner Tätigkeit nicht benachteiligt werden.
@@ -234,10 +242,12 @@ und der Aufsichtsbehörde je eine Abschrift zu übersenden.
 
 
 ## Dritter Abschnitt - Meldung von Unfällen, Störfällen und sonstigen Ereignissen
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNG000900305)
 
 
 
 ### § 6 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001003116)
 
 (1) Der Inhaber einer Genehmigung nach § 6, § 7 Absatz 1 oder Absatz 3
 Satz 1 oder einer Genehmigung oder eines Planfeststellungsbeschlusses
@@ -278,6 +288,7 @@ der Bevölkerung vor Lebens- und Gesundheitsgefahren erforderlich ist.
 
 
 ### § 7 Inhalt der schriftlichen Meldung
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001101377)
 
 (1) Der Meldepflichtige hat in der Meldung an die Aufsichtsbehörde
 nach § 8 Abs. 1 Satz 1 Nr. 1 bis 4 mittels amtlichen Meldeformulars
@@ -294,6 +305,7 @@ unverzüglich gemacht werden können und Daten bekannt sind.
 
 
 ### § 7a Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002500377)
 
 (1) Die Übermittlung elektronischer Dokumente ist erst zulässig, wenn
 die Aufsichtsbehörde dem Meldepflichtigen mitgeteilt hat, dass ein
@@ -307,6 +319,7 @@ Stand der Technik entsprechen.
 
 
 ### § 8 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001201377)
 
 (1) Meldepflichtige Ereignisse sind zu melden
 
@@ -378,6 +391,7 @@ maßgeblichen Tatsachen schriftlich mit.
 
 
 ### § 9 Ergänzende Pflichten des Meldepflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001300305)
 
 (1) Der Meldepflichtige zeigt der Aufsichtsbehörde monatlich die
 Anzahl der seit Übermittlung der vorangegangenen Anzeige eingetretenen
@@ -404,6 +418,7 @@ c)  Anlegen einer ausführlichen Schadensdokumentation.
 
 
 ### § 10 Prüfung durch den Sicherheitsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001401377)
 
 Der Sicherheitsbeauftragte hat die Richtigkeit und Vollständigkeit der
 Meldung eines meldepflichtigen Ereignisses zu prüfen, das Ergebnis
@@ -413,10 +428,12 @@ Unterschrift zu versehen. Gleiches gilt für die Anzeige nach § 9 Abs.
 
 
 ## Vierter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNG001500305)
 
 
 
 ### § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001702377)
 
 Ordnungswidrig im Sinne des § 46 Abs. 1 Nr. 4 des Atomgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -445,25 +462,30 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNG001800305)
 
 
 
 ### § 12 Verhältnis zu anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE001902116)
 
 Die §§ 108 bis 110 der Strahlenschutzverordnung finden im
 Anwendungsbereich dieser Verordnung keine Anwendung.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002001377)
 
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002100305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002203116)
 
 (Fundstelle: BGBl. I 2010, 757 - 762)
 
@@ -1258,6 +1280,7 @@ Meldekriterien sinngemäß anzuwenden.
 
 
 ### Anlage 2 Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes der Kernbrennstoffversorgung und -entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002303116)
 
 (Fundstelle: BGBl. I 2010, 763 - 766)
 
@@ -1720,6 +1743,7 @@ Meldekriterien sinngemäß anzuwenden.
 [^F774190_01_BJNR017660992BJNE002303116]: 
 
 ### Anlage 3 Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen, die überwiegend Forschungszwecken dienen
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002403116)
 
 (Fundstelle: BGBl. I 2010, 767 - 772)
 
@@ -2509,6 +2533,7 @@ anlagenspezifische Konkretisierung erforderlich.
 
 
 ### Anlage 4 Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002601116)
 
 (Fundstelle: BGBl. I 2010, 773 - 776)
 
@@ -2981,6 +3006,7 @@ Anwendung.
 
 
 ### Anlage 5 Meldekriterien für meldepflichtige Ereignisse bei Aufbewahrungen nach § 6 des Atomgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002701116)
 
 (Fundstelle: BGBl. I 2010, 777 - 779)
 
@@ -3349,6 +3375,7 @@ Transporte.
 
 
 ### Anlage 6 Meldekriterien für meldepflichtige Ereignisse in Einrichtungen der Entsorgung radioaktiver Abfälle nach § 9 des Atomgesetzes oder § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002800116)
 
 (Fundstelle: BGBl. I 2018, 2202 - 2204)
 
@@ -3651,6 +3678,7 @@ Handlungsschritte einschließlich der innerbetrieblichen Transporte.
 
 
 ### Anlage 7 Meldekriterien für meldepflichtige Ereignisse in nach § 9b des Atomgesetzes zugelassenen Anlagen und der Schachtanlage Asse II
+[Direktlink](https://www.gesetze-im-internet.de/atsmv/BJNR017660992.html#BJNR017660992BJNE002900116)
 
 (Fundstelle: BGBl. I 2018, 2204 - 2207)
 

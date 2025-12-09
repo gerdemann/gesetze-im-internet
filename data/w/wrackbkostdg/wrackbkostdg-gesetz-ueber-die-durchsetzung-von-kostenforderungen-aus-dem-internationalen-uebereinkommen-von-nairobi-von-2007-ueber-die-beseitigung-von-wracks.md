@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdg/BJNR147800013.html#BJNR147800013BJNE000100000)
 
 Kommt der eingetragene Eigentümer eines Schiffes seiner Pflicht zur
 Beseitigung nach Artikel 9 Absatz 2 des Internationalen Übereinkommens
@@ -29,6 +30,7 @@ nach Maßgabe der §§ 677 bis 687 des Bürgerlichen Gesetzbuches.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdg/BJNR147800013.html#BJNR147800013BJNE000200000)
 
 Auf den Aufwendungsersatz nach den Artikeln 10, 11 und 12 des
 Wrackbeseitigungsübereinkommens sind die §§ 683 und 670 des
@@ -36,6 +38,7 @@ Bürgerlichen Gesetzbuches anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdg/BJNR147800013.html#BJNR147800013BJNE000300000)
 
 Zuständige Behörde im Sinne der §§ 1 und 2 ist die für die Maßnahmen
 nach den Artikeln 6 bis 8 und 9 Absatz 1 und 4 des
@@ -44,6 +47,7 @@ des Bundes.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdg/BJNR147800013.html#BJNR147800013BJNE000400000)
 
 In Streitigkeiten nach dem Wrackbeseitigungsübereinkommen wegen der
 Ansprüche nach § 2 ist das Landgericht im ersten Rechtszug zuständig,
@@ -51,6 +55,7 @@ in dessen Bezirk die nach § 3 zuständige Behörde ihren Sitz hat.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wrackbkostdg/BJNR147800013.html#BJNR147800013BJNE000500000)
 
 (1) Die §§ 1 bis 4 sind erst ab dem Tag anzuwenden, an dem das
 Wrackbeseitigungsübereinkommen für die Bundesrepublik Deutschland in

@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000201308)
 
 Diese Verordnung gilt für die nicht in die Rentenversicherung
 überführten Leistungen nach den Sonderversorgungssystemen der Anlage 2
@@ -34,6 +35,7 @@ Empfänger solcher Leistungen (Versorgungsempfänger).
 
 
 ## § 2 Einkommensanrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000304308)
 
 (1) Einkommen von Versorgungsempfängern wird auf Versorgungsleistungen
 angerechnet.
@@ -49,6 +51,7 @@ Entgeltersatzleistungen nach dem Dritten Buch Sozialgesetzbuch.
 
 
 ## § 3 Anrechenbares Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000406308)
 
 (1) Maßgebend ist das monatliche Einkommen; mehrere zu
 berücksichtigende Einkommen sind zusammenzurechnen. Ausländisches
@@ -83,6 +86,7 @@ erzielt wurde.
 
 
 ## § 4 Einkommensänderung
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000502308)
 
 (1) Einkommensänderungen sind vom 1. Januar eines jeden Kalenderjahres
 an zu berücksichtigten. Dies gilt nicht für die Änderung des
@@ -98,6 +102,7 @@ Sozialgesetzbuch entsprechend.
 
 
 ## § 5 Anrechnungsfreibetrag
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000602308)
 
 Anrechnungsfrei sind folgende Vomhundertsätze des Nettoeinkommens:
 
@@ -143,6 +148,7 @@ Januar 1992 anrechnungsfrei war oder gewesen wäre.
 
 
 ## § 6 Ruhen der Versorgungsleistung
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000703308)
 
 Die Versorgungsleistung ruht in Höhe des Betrages, um den das
 anrechenbare Einkommen den Anrechnungsfreibetrag übersteigt. Die
@@ -152,6 +158,7 @@ Anspruchs- und Anwartschaftsüberführungsgesetzes.
 
 
 ## § 7 Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000801308)
 
 Die Versorgungsleistungen stehen unter dem Vorbehalt, daß die sich
 aufgrund von Einkommensanrechnungen ergebenden Überzahlungen
@@ -163,6 +170,7 @@ Vollendung des 65. Lebensjahres sowie für den Wegfall aufgrund des §
 
 
 ## § 8 Mitwirkungspflichten, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE000902308)
 
 (1) Für die Mitwirkungspflichten des Versorgungsempfängers und die
 Folgen fehlender Mitwirkung gelten die §§ 60 bis 62 und 65 bis 67 des
@@ -196,6 +204,7 @@ Anwartschaftsüberführungsgesetzes bleiben unberührt.
 
 
 ## § 8a Leistungen öffentlich-rechtlicher Art
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE001400308)
 
 Den Renten wegen Alters oder wegen verminderter Erwerbsfähigkeit im
 Sinne der §§ 6 bis 8 stehen ähnliche Leistungen öffentlich-rechtlicher
@@ -203,6 +212,7 @@ Art gleich.
 
 
 ## § 9 Rückforderung von Versorgungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE001002308)
 
 Die Rückforderung zuviel gezahlter Versorgungsleistungen
 einschließlich der Aufrechnung und Verrechnung richtet sich nach den
@@ -213,11 +223,13 @@ abgesehen werden.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE001102308)
 
 (weggefallen)
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/sverslv/BJNR011740992.html#BJNR011740992BJNE001201308)
 
 (Inkrafttreten)
 

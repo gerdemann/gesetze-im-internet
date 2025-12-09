@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE000800308)
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
 Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880) verordnet
@@ -27,10 +28,12 @@ die Bundesregierung nach Anhörung der beteiligten Kreise:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNG000100308)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE000902116)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Anlagen, in denen unter Verwendung von Lösemitteln,
@@ -67,6 +70,7 @@ Verbindungen bis zu 1 vom Hundert eingesetzt werden.
 
 
 ### § 2 Einsatzstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001006116)
 
 (1) Der Betreiber einer Anlage hat schädliche Stoffe oder Gemische,
 die eingesetzt werden und denen aufgrund ihres Gehalts an nach der
@@ -115,10 +119,12 @@ Bekanntgabe eingesetzt werden.
 
 
 ## Zweiter Abschnitt - Errichtung und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNG000200308)
 
 
 
 ### § 3 Oberflächenbehandlungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001103116)
 
 (1) Oberflächenbehandlungsanlagen sind so zu errichten und zu
 betreiben, daß
@@ -196,6 +202,7 @@ Massenstrom von 30 Gramm je Stunde nicht überschreiten.
 
 
 ### § 4 Chemischreinigungs- und Textilausrüstungsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001203116)
 
 (1) Chemischreinigungs- und Textilausrüstungsmaschinen sind so zu
 errichten und zu betreiben, daß
@@ -276,6 +283,7 @@ betrieben werden.
 
 
 ### § 5 Extraktionsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001303116)
 
 Extraktionsanlagen sind so zu errichten und zu betreiben, daß die
 Abgase einem Abscheider zugeführt werden, mit dem sichergestellt wird,
@@ -304,19 +312,23 @@ Abscheider angeschlossenen Extraktionsanlagen auslösen.
 
 
 ## Dritter Abschnitt - Anforderungen an Altanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNG000300308)
 
 
 
 ### (XXXX) §§ 6 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001401377)
 
 -
 
 
 ## Vierter Abschnitt - Eigenkontrolle und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNG000400308)
 
 
 
 ### § 10 Meßöffnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001801377)
 
 Der Betreiber einer Anlage, für die Anforderungen nach § 3 Abs. 1 Nr.
 2 oder 3 oder Abs. 2, § 4 Abs. 1 oder Abs. 2 oder § 5 festgelegt sind,
@@ -328,6 +340,7 @@ ermöglichen.
 
 
 ### § 11 Eigenkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE001902116)
 
 (1) Der Betreiber einer Anlage hat über
 
@@ -366,6 +379,7 @@ aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ### § 12 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002003116)
 
 (1) Der Betreiber einer Anlage, die nach § 4 des Bundes-
 Immissionsschutzgesetzes keiner Genehmigung bedarf, hat diese der
@@ -486,10 +500,12 @@ nimmt.
 
 
 ## Fünfter Abschnitt - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNG000500308)
 
 
 
 ### § 13 Umgang mit leichtflüchtigen halogenierten organischen Verbindungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002101377)
 
 (1) Die Befüllung der Anlagen mit Lösemitteln oder Hilfsstoffen sowie
 die Entnahme gebrauchter Lösemittel sind so vorzunehmen, daß
@@ -515,6 +531,7 @@ Behältnissen gelagert, transportiert und gehandhabt werden.
 
 
 ### § 14 Ableitung der Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002201377)
 
 Die abgesaugten Abgase sind durch eine Abgasleitung, die gegen
 leichtflüchtige halogenierte organische Verbindungen beständig ist, so
@@ -524,6 +541,7 @@ lüftungstechnischen Einrichtungen.
 
 
 ### § 15 An- und Abfahren von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE003000116)
 
 (1) Der Betreiber einer Anlage hat alle geeigneten Maßnahmen zu
 treffen, um die Emissionen während des An- und Abfahrens so gering wie
@@ -537,6 +555,7 @@ Abfahren.
 
 
 ### § 16 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002302116)
 
 (1) Anlagen nach § 1 Abs. 1 dürfen nur betrieben werden, wenn der
 Übertritt von Halogenkohlenwasserstoffen
@@ -566,6 +585,7 @@ Raumluftkonzentration von 0,1 Milligramm je Kubikmeter nicht
 
 
 ### § 17 Berichterstattung an die Europäische Kommission, Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002903116)
 
 (1) Der Betreiber einer Anlage hat die für die Berichterstattung an
 die Europäische Kommission nach Absatz 2 benötigten Informationen der
@@ -603,6 +623,7 @@ Geschäftsgeheimnisse gezogen werden können.
 
 
 ### § 18 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002401116)
 
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
@@ -610,6 +631,7 @@ treffen, bleibt unberührt.
 
 
 ### § 19 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002502116)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers abweichend
 von § 2 Abs. 2 Satz 1 für hochwertige Anwendungen in
@@ -644,11 +666,13 @@ Kubikmeter nicht mehr überschreitet.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002800308)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_2_1990/BJNR026940990.html#BJNR026940990BJNE002605116)
 
 (1) Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig

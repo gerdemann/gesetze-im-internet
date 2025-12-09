@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/k_merwbek/BJNR013660984.html#BJNR013660984BJNE000100319)
 
 Der Beschluß der Bundesregierung über die "Erweiterung des
 Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur

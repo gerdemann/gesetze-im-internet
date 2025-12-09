@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000100303)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000200303)
 
 Die Bundesregierung wird ermächtigt, die Verordnung über die
 steuerliche Begünstigung von Wasserkraftwerken vom 26. Oktober 1944
@@ -33,11 +35,13 @@ und die Nichtgeltung im Saarland auszusprechen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000300303)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000400303)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -47,11 +51,13 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000500303)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/waskwv_ndg/BJNR008070957.html#BJNR008070957BJNE000600303)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

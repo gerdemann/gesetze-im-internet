@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdobukbminaano/BJNR120900993.html#BJNR120900993BJNE000100307)
 
 Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in
 der Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750, 984)
@@ -29,6 +30,7 @@ wird im Benehmen mit dem Bundesministerium des Innern angeordnet:
 
 
 ## § 1 Bundesanstalt für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/bdobukbminaano/BJNR120900993.html#BJNR120900993BJNE000200307)
 
 (1) Einleitungsbehörde im Sinne der Bundesdisziplinarordnung ist für
 die Beamten der Bundesanstalt für Arbeit
@@ -51,6 +53,7 @@ ziehen.
 
 
 ## § 2 \*Ku Bundesversicherungsanstalt für Angestellte, Landesversicherungsanstalt Oldenburg-Bremen, Bundesknappschaft \*KE
+[Direktlink](https://www.gesetze-im-internet.de/bdobukbminaano/BJNR120900993.html#BJNR120900993BJNE000301320)
 
 (1) Einleitungsbehörde im Sinne der Bundesdisziplinarordnung ist für
 die Beamten der Bundesversicherungsanstalt für Angestellte, der
@@ -71,11 +74,13 @@ b)  der Geschäftsführer oder die Geschäftsführung der jeweiligen
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdobukbminaano/BJNR120900993.html#BJNR120900993BJNE000400307)
 
 Diese Anordnung tritt am 1. August 1993 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bdobukbminaano/BJNR120900993.html#BJNR120900993BJNE000500307)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

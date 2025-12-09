@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000103360)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001306130)
 
 (1) Zweck dieses Gesetzes ist es, Menschen, Wild- und Nutztiere und
 Pflanzen, den Boden, das Wasser, die Atmosphäre, das Klima sowie
@@ -51,6 +53,7 @@ dieses Gesetz auch
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001410360)
 
 (1) Die Vorschriften dieses Gesetzes gelten für
 
@@ -107,6 +110,7 @@ und Pflanzenschutzrechts etwas anderes ergibt.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001511130)
 
 (1) Schädliche Umwelteinwirkungen im Sinne dieses Gesetzes sind
 Immissionen, die nach Art, Ausmaß oder Dauer geeignet sind, Gefahren,
@@ -283,14 +287,17 @@ Anlagengrundstück verursachen können.
 
 
 ## Zweiter Teil - Errichtung und Betrieb von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000203360)
 
 
 
 ### Erster Abschnitt - Genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000303360)
 
 
 
 #### § 4 Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001605360)
 
 (1) Die Errichtung und der Betrieb von Anlagen, die auf Grund ihrer
 Beschaffenheit oder ihres Betriebs in besonderem Maße geeignet sind,
@@ -322,6 +329,7 @@ Wetterführung unerlässlichen Anlagen.
 
 
 #### § 5 Pflichten der Betreiber genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001714130)
 
 (1) Genehmigungsbedürftige Anlagen sind so zu errichten und zu
 betreiben, dass zur Gewährleistung eines hohen Schutzniveaus für die
@@ -403,6 +411,7 @@ Betriebsgeheimnisse enthalten, gilt § 10 Absatz 2 entsprechend.
 
 
 #### § 6 Genehmigungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001806360)
 
 (1) Die Genehmigung ist zu erteilen, wenn
 
@@ -452,6 +461,7 @@ einer Verwaltungsvorschrift nach § 48 oder einer Rechtsverordnung nach
 
 
 #### § 7 Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE001915116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -641,6 +651,7 @@ ist
 
 
 #### § 8 Teilgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002005360)
 
 Auf Antrag soll eine Genehmigung für die Errichtung einer Anlage oder
 eines Teils einer Anlage oder für die Errichtung und den Betrieb eines
@@ -668,6 +679,7 @@ Gesamtbeurteilung abweichenden Beurteilung führen.
 
 
 #### § 8a Zulassung vorzeitigen Beginns
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE010504130)
 
 (1) In einem Verfahren zur Erteilung einer Genehmigung soll die
 Genehmigungsbehörde auf Antrag vorläufig zulassen, dass bereits vor
@@ -723,6 +735,7 @@ dient.
 
 
 #### § 9 Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002106130)
 
 (1) Auf Antrag soll durch Vorbescheid über einzelne
 Genehmigungsvoraussetzungen sowie über den Standort der Anlage
@@ -757,6 +770,7 @@ verlängert werden.
 
 
 #### § 10 Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002224130)
 
 (1) Das Genehmigungsverfahren setzt einen schriftlichen oder
 elektronischen Antrag voraus. Dem Antrag sind die zur Prüfung nach § 6
@@ -992,6 +1006,7 @@ regeln.
 
 
 #### § 10a Sonderregelungen für das Genehmigungsverfahren bei Vorhaben nach der Richtlinie (EU) 2018/2001
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014800130)
 
 (1) Die nachstehenden Absätze sind ergänzend anzuwenden, wenn das
 Vorhaben eine Anlage betrifft, die in den Anwendungsbereich der
@@ -1095,6 +1110,7 @@ Die Fristverlängerung ist gegenüber dem Antragsteller zu begründen.
 
 
 #### § 11 Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002303360)
 
 Ist eine Teilgenehmigung oder ein Vorbescheid erteilt worden, können
 nach Eintritt ihrer Unanfechtbarkeit im weiteren Verfahren zur
@@ -1105,6 +1121,7 @@ nach den ausgelegten Unterlagen hätten vorgebracht werden können.
 
 
 #### § 12 Nebenbestimmungen zur Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002410130)
 
 (1) Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen
 verbunden werden, soweit dies erforderlich ist, um die Erfüllung der
@@ -1186,6 +1203,7 @@ Fachbehörde ein.
 
 
 #### § 13 Genehmigung und andere behördliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002507360)
 
 Die Genehmigung schließt andere die Anlage betreffende behördliche
 Entscheidungen ein, insbesondere öffentlich-rechtliche Genehmigungen,
@@ -1197,6 +1215,7 @@ Verbindung mit § 10 des Wasserhaushaltsgesetzes.
 
 
 #### § 14 Ausschluss von privatrechtlichen Abwehransprüchen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002603360)
 
 Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender
 Ansprüche zur Abwehr benachteiligender Einwirkungen von einem
@@ -1209,6 +1228,7 @@ nicht vertretbar sind, kann lediglich Schadensersatz verlangt werden.
 
 
 #### § 14a Vereinfachte Klageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE010602360)
 
 Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben,
 wenn über seinen Widerspruch nach Ablauf von drei Monaten seit der
@@ -1217,6 +1237,7 @@ Umstände des Falles eine kürzere Frist geboten ist.
 
 
 #### § 15 Änderung genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002709116)
 
 (1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer
 genehmigungsbedürftigen Anlage ist, sofern eine Genehmigung nicht
@@ -1273,6 +1294,7 @@ werden.
 
 
 #### § 16 Wesentliche Änderung genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002808130)
 
 (1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer
 genehmigungsbedürftigen Anlage bedarf der Genehmigung, wenn durch die
@@ -1322,6 +1344,7 @@ Genehmigung ersetzt oder ausgetauscht werden sollen.
 
 
 #### § 16a Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012701116)
 
 Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage,
 die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist,
@@ -1337,6 +1360,7 @@ Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 
 #### § 16b Repowering von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013204130)
 
 (1) Wird eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien
 modernisiert (Repowering), sind im Rahmen eines
@@ -1456,6 +1480,7 @@ zulässig.
 
 
 #### § 17 Nachträgliche Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE002913116)
 
 (1) Zur Erfüllung der sich aus diesem Gesetz und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten können
@@ -1573,6 +1598,7 @@ nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen waren.
 
 
 #### § 18 Erlöschen der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003003360)
 
 (1) Die Genehmigung erlischt, wenn
 
@@ -1597,6 +1623,7 @@ nicht gefährdet wird.
 
 
 #### § 19 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003111130)
 
 (1) Durch Rechtsverordnung nach § 4 Absatz 1 Satz 3 kann
 vorgeschrieben werden, dass die Genehmigung von Anlagen bestimmter Art
@@ -1638,6 +1665,7 @@ Vorgaben Rechnung getragen worden ist.
 
 
 #### § 20 Untersagung, Stilllegung und Beseitigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003207116)
 
 (1) Kommt der Betreiber einer genehmigungsbedürftigen Anlage einer
 Auflage, einer vollziehbaren nachträglichen Anordnung oder einer
@@ -1689,6 +1717,7 @@ bietet. Die Erlaubnis kann mit Auflagen verbunden werden.
 
 
 #### § 21 Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003303360)
 
 (1) Eine nach diesem Gesetz erteilte rechtmäßige Genehmigung darf,
 auch nachdem sie unanfechtbar geworden ist, ganz oder teilweise mit
@@ -1754,10 +1783,12 @@ soweit dadurch dem Widerspruch oder der Klage abgeholfen wird.
 
 
 ### Zweiter Abschnitt - Nicht genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000403360)
 
 
 
 #### § 22 Pflichten der Betreiber nicht genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003407360)
 
 (1) Nicht genehmigungsbedürftige Anlagen sind so zu errichten und zu
 betreiben, dass
@@ -1798,6 +1829,7 @@ unberührt.
 
 
 #### § 23 Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003509116)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1872,6 +1904,7 @@ oberste Landesbehörden übertragen.
 
 
 #### § 23a Anzeigeverfahren für nicht genehmigungsbedürftige Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012801116)
 
 (1) Die störfallrelevante Errichtung und der Betrieb oder die
 störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage,
@@ -1917,6 +1950,7 @@ Absatz 2 Satz 1 durch.
 
 
 #### § 23b Störfallrechtliches Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012905130)
 
 (1) Ergibt die Feststellung nach § 23a Absatz 2 Satz 1, dass der
 angemessene Sicherheitsabstand erstmalig unterschritten wird, räumlich
@@ -2008,6 +2042,7 @@ den Absätzen 1 bis 4 zu regeln, insbesondere
 
 
 #### § 23c Betriebsplanzulassung nach dem Bundesberggesetz
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013000116)
 
 Die §§ 23a und 23b Absatz 1, 3 und 4 gelten nicht für die
 störfallrelevante Errichtung und den Betrieb oder die
@@ -2023,6 +2058,7 @@ Vorhaben, soweit § 57d des Bundesberggesetzes dies anordnet.
 
 
 #### § 24 Anordnungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003603360)
 
 Die zuständige Behörde kann im Einzelfall die zur Durchführung des §
 22 und der auf dieses Gesetz gestützten Rechtsverordnungen
@@ -2032,6 +2068,7 @@ soll diese angeordnet werden.
 
 
 #### § 25 Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003705116)
 
 (1) Kommt der Betreiber einer Anlage einer vollziehbaren behördlichen
 Anordnung nach § 24 Satz 1 nicht nach, so kann die zuständige Behörde
@@ -2075,6 +2112,7 @@ ausreichend geschützt werden kann.
 
 
 #### § 25a Stilllegung und Beseitigung nicht genehmigungsbedürftiger Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013100116)
 
 Die zuständige Behörde kann anordnen, dass eine Anlage, die
 Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und ohne
@@ -2086,10 +2124,12 @@ ausreichend geschützt werden kann.
 
 
 ### Dritter Abschnitt - Ermittlung von Emissionen und Immissionen, sicherheitstechnische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000505360)
 
 
 
 #### § 26 Messungen aus besonderem Anlass
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003808360)
 
 Die zuständige Behörde kann anordnen, dass der Betreiber einer
 genehmigungsbedürftigen Anlage oder, soweit § 22 Anwendung findet,
@@ -2104,6 +2144,7 @@ Ermittlungsergebnisses vorzuschreiben.
 
 
 #### § 27 Emissionserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE003910116)
 
 (1) Der Betreiber einer genehmigungsbedürftigen Anlage ist
 verpflichtet, der zuständigen Behörde innerhalb einer von ihr zu
@@ -2153,6 +2194,7 @@ Verfügung stellen, die den Emissionserklärungen zu entnehmen sind.
 
 
 #### § 28 Erstmalige und wiederkehrende Messungen bei genehmigungsbedürftigen Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004006360)
 
 Die zuständige Behörde kann bei genehmigungsbedürftigen Anlagen
 
@@ -2175,6 +2217,7 @@ Ausstattung besitzt.
 
 
 #### § 29 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004105360)
 
 (1) Die zuständige Behörde kann bei genehmigungsbedürftigen Anlagen
 anordnen, dass statt durch Einzelmessungen nach § 26 oder § 28 oder
@@ -2197,6 +2240,7 @@ werden.
 
 
 #### § 29a Anordnung sicherheitstechnischer Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE008513116)
 
 (1) Die zuständige Behörde kann anordnen, dass der Betreiber einer
 genehmigungsbedürftigen Anlage oder einer Anlage innerhalb eines
@@ -2251,6 +2295,7 @@ erforderlich ist.
 
 
 #### § 29b Bekanntgabe von Stellen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012301360)
 
 (1) Die Bekanntgabe von Stellen im Sinne von § 26, von Stellen im
 Sinne einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder
@@ -2307,6 +2352,7 @@ der Rechtsverordnung nach Satz 1 können insbesondere
 
 
 #### § 30 Kosten der Messungen und sicherheitstechnischen Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004204360)
 
 Die Kosten für die Ermittlungen der Emissionen und Immissionen sowie
 für die sicherheitstechnischen Prüfungen trägt der Betreiber der
@@ -2327,6 +2373,7 @@ Ermittlungen ergeben, dass
 
 
 #### § 31 Auskunftspflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004308116)
 
 (1) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie
 hat nach Maßgabe der Nebenbestimmungen der Genehmigung oder auf Grund
@@ -2399,9 +2446,11 @@ Landesbehörden gelten die landesrechtlichen Vorschriften.
 
 
 ### Vierter Abschnitt - Sonderregelungen zur Bewältigung einer Gasmangellage
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG011301125)
 
 
 #### § 31a Abweichungen nach Artikel 30 Absatz 5 der Richtlinie 2010/75/EU
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013400116)
 
 (1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
 zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen-
@@ -2424,6 +2473,7 @@ Verbraucherschutz unterrichtet die Europäische Kommission unverzüglich
 
 
 #### § 31b Abweichungen nach Artikel 30 Absatz 6 der Richtlinie 2010/75/EU
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013500116)
 
 (1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
 zur Einhaltung der in der Verordnung über Großfeuerungs-, Gasturbinen-
@@ -2445,6 +2495,7 @@ jeden einzelnen Fall im Sinne des Absatzes 1.
 
 
 #### § 31c Abweichungen nach Artikel 6 Absatz 11 der Richtlinie (EU) 2015/2193
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013600116)
 
 (1) Die zuständige Behörde kann für eine Dauer von bis zu sechs
 Monaten eine Abweichung von der Verpflichtung zur Einhaltung der in
@@ -2469,6 +2520,7 @@ eines Monats über jede nach Absatz 1 gewährte Abweichung.
 
 
 #### § 31d Abweichungen nach Artikel 6 Absatz 12 der Richtlinie (EU) 2015/2193
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013700116)
 
 (1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung
 zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über
@@ -2489,34 +2541,42 @@ Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
 
 
 #### § 31e (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013802125)
 
 
 
 #### § 31f (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014201125)
 
 
 
 #### § 31g (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014301125)
 
 
 
 #### § 31h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014401125)
 
 
 
 #### § 31i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014501125)
 
 
 
 #### § 31j (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014601125)
 
 
 
 #### § 31k (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013903125)
 
 
 
 #### § 31l Übergangsregelungen zu den §§ 31e bis 31k
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE014000125)
 
 (1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem
 Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren
@@ -2539,14 +2599,17 @@ Verfahrensschrittes weiter.
 
 
 ## Dritter Teil - Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen; Treibhausgasminderung bei Kraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000606116)
 
 
 
 ### Erster Abschnitt - Beschaffenheit von Anlagen, Stoffen, Erzeugnissen, Brennstoffen, Treibstoffen und Schmierstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG011101360)
 
 
 
 #### § 32 Beschaffenheit von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004407360)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2584,6 +2647,7 @@ ihrer Emissionen gekennzeichnet sind.
 
 
 #### § 33 Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004504360)
 
 (1) Die Bundesregierung wird ermächtigt, zum Schutz vor schädlichen
 Umwelteinwirkungen sowie zur Vorsorge gegen schädliche
@@ -2634,6 +2698,7 @@ Emissionen der Anlage oder des Teils abhängig gemacht werden.
 
 
 #### § 34 Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004607360)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2771,6 +2836,7 @@ b)  die Lebenszyklustreibhausgasemissionen pro Energieeinheit.
 
 
 #### § 35 Beschaffenheit von Stoffen und Erzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004704360)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2804,6 +2870,7 @@ Verwendungsart schädliche Umwelteinwirkungen vermieden werden können.
 
 
 #### § 36 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004803360)
 
 In den Rechtsverordnungen nach den §§ 32 bis 35 kann vorgeschrieben
 werden, dass die Vorschriften über das Herstellen, Einführen und das
@@ -2813,6 +2880,7 @@ des Geltungsbereichs dieses Gesetzes bestimmt sind.
 
 
 #### § 37 Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE004907116)
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen
 Vereinbarungen oder von bindenden Rechtsakten der Europäischen
@@ -2833,10 +2901,12 @@ nukleare Sicherheit unterstellt werden.
 
 
 ### Zweiter Abschnitt - Treibhausgasminderung bei Kraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG011202116)
 
 
 
 #### § 37a Pflichten für Inverkehrbringer von Kraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011709130)
 
 (1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
 nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu
@@ -3211,6 +3281,7 @@ Kalenderjahres angerechnet.
 
 
 #### § 37b Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011807116)
 
 (1) Biokraftstoffe sind unbeschadet der Absätze 2 bis 6
 Energieerzeugnisse ausschließlich aus Biomasse im Sinne der
@@ -3324,6 +3395,7 @@ Sicherheit gibt den Energiegehalt der verschiedenen Kraftstoffe sowie
 
 
 #### § 37c Mitteilungs- und Abgabepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011904116)
 
 (1) Verpflichtete haben der zuständigen Stelle jeweils bis zum Ablauf
 des 15. April des auf das Verpflichtungsjahr folgenden Kalenderjahres
@@ -3453,6 +3525,7 @@ anzuhören.
 
 
 #### § 37d Zuständige Stelle, Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012007116)
 
 (1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen
 errichtet, denen die Aufgaben übertragen werden, die Erfüllung der
@@ -3722,6 +3795,7 @@ erlassen und darin insbesondere
 
 
 #### § 37e Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012105130)
 
 (1) Es werden Gebühren und Auslagen für individuell zurechenbare
 öffentliche Leistungen erhoben, die auf Grund von Rechtsverordnungen
@@ -3765,6 +3839,7 @@ werden.
 
 
 #### § 37f Berichte über Kraftstoffe und Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012202116)
 
 (1) Verpflichtete haben der zuständigen Stelle jährlich bis zum 31.
 März einen Bericht über die im vorangegangenen Verpflichtungsjahr in
@@ -3789,6 +3864,7 @@ erforderlich sind.
 
 
 #### § 37g Bericht der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012601116)
 
 Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der
 Europäischen Kommission vorgelegt wurde, übermittelt die
@@ -3835,6 +3911,7 @@ Regelwerkes.
 
 
 #### § 37h Mechanismus zur Anpassung der Treibhausgasminderungs-Quote; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE013300116)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit gibt die Summe der für ein Verpflichtungsjahr an die
@@ -3922,10 +3999,12 @@ aller Verpflichteten zu entsprechen.
 
 
 ## Vierter Teil - Beschaffenheit und Betrieb von Fahrzeugen, Bau und Änderung von Straßen und Schienenwegen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000703360)
 
 
 
 ### § 38 Beschaffenheit und Betrieb von Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005009116)
 
 (1) Kraftfahrzeuge und ihre Anhänger, Schienen-, Luft- und
 Wasserfahrzeuge sowie Schwimmkörper und schwimmende Anlagen müssen so
@@ -3953,6 +4032,7 @@ entsprechend.
 
 
 ### § 39 Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005110116)
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen
 Vereinbarungen oder von bindenden Rechtsakten der Europäischen
@@ -3967,6 +4047,7 @@ entsprechend.
 
 
 ### § 40 Verkehrsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005206360)
 
 (1) Die zuständige Straßenverkehrsbehörde beschränkt oder verbietet
 den Kraftfahrzeugverkehr nach Maßgabe der straßenverkehrsrechtlichen
@@ -4003,6 +4084,7 @@ und überwiegende Interessen des Einzelnen dies erfordern.
 
 
 ### § 41 Straßen und Schienenwege
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005304360)
 
 (1) Bei dem Bau oder der wesentlichen Änderung öffentlicher Straßen
 sowie von Eisenbahnen, Magnetschwebebahnen und Straßenbahnen ist
@@ -4015,6 +4097,7 @@ Verhältnis zu dem angestrebten Schutzzweck stehen würden.
 
 
 ### § 42 Entschädigung für Schallschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005403360)
 
 (1) Werden im Falle des § 41 die in der Rechtsverordnung nach § 43
 Absatz 1 Satz 1 Nummer 1 festgelegten Immissionsgrenzwerte
@@ -4041,6 +4124,7 @@ die Enteignungsgesetze der Länder entsprechend.
 
 
 ### § 43 Rechtsverordnung der Bundesregierung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005506360)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -4081,10 +4165,12 @@ entsprechend.
 
 
 ## Fünfter Teil - Überwachung und Verbesserung der Luftqualität, Luftreinhalteplanung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000806130)
 
 
 
 ### § 44 Überwachung der Luftqualität
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005606360)
 
 (1) Zur Überwachung der Luftqualität führen die zuständigen Behörden
 regelmäßige Untersuchungen nach den Anforderungen der
@@ -4101,6 +4187,7 @@ untersuchen sind.
 
 
 ### § 45 Verbesserung der Luftqualität
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005707360)
 
 (1) Die zuständigen Behörden ergreifen die erforderlichen Maßnahmen,
 um die Einhaltung der durch eine Rechtsverordnung nach § 48a
@@ -4125,6 +4212,7 @@ c)  dürfen keine erheblichen Beeinträchtigungen der Umwelt in anderen
 
 
 ### § 46 Emissionskataster
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005808360)
 
 Soweit es zur Erfüllung von bindenden Rechtsakten der Europäischen
 Gemeinschaften oder der Europäischen Union erforderlich ist, stellen
@@ -4132,6 +4220,7 @@ die zuständigen Behörden Emissionskataster auf.
 
 
 ### § 46a Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE010903360)
 
 Die Öffentlichkeit ist nach Maßgabe der Rechtsverordnungen nach § 48a
 Absatz 1 über die Luftqualität zu informieren. Überschreitungen von in
@@ -4142,6 +4231,7 @@ bekannt zu geben.
 
 
 ### § 47 Luftreinhaltepläne, Pläne für kurzfristig zu ergreifende Maßnahmen, Landesverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE005909116)
 
 (1) Werden die durch eine Rechtsverordnung nach § 48a Absatz 1
 festgelegten Immissionsgrenzwerte einschließlich festgelegter
@@ -4337,10 +4427,12 @@ gelten entsprechend.
 
 
 ## Sechster Teil - Lärmminderungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG011004360)
 
 
 
 ### § 47a Anwendungsbereich des Sechsten Teils
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011101360)
 
 Dieser Teil des Gesetzes gilt für den Umgebungslärm, dem Menschen
 insbesondere in bebauten Gebieten, in öffentlichen Parks oder anderen
@@ -4355,6 +4447,7 @@ zurückzuführen ist.
 
 
 ### § 47b Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011201360)
 
 Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
@@ -4390,6 +4483,7 @@ Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
 
 ### § 47c Lärmkarten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011304116)
 
 (1) Die zuständigen Behörden arbeiten bis zum 30. Juni 2007 bezogen
 auf das vorangegangene Kalenderjahr Lärmkarten für Ballungsräume mit
@@ -4444,6 +4538,7 @@ einer von ihm benannten Stelle mit.
 
 
 ### § 47d Lärmaktionspläne
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011405130)
 
 (1) Die zuständigen Behörden stellen bis zum 18. Juli 2008
 Lärmaktionspläne auf, mit denen Lärmprobleme und Lärmauswirkungen
@@ -4506,6 +4601,7 @@ Sicherheit oder einer von ihm benannten Stelle mit.
 
 
 ### § 47e Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011502360)
 
 (1) Zuständige Behörden für die Aufgaben dieses Teils des Gesetzes
 sind die Gemeinden oder die nach Landesrecht zuständigen Behörden,
@@ -4530,6 +4626,7 @@ wirkt das Eisenbahn-Bundesamt an der Lärmaktionsplanung mit.
 
 
 ### § 47f Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011602130)
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -4574,10 +4671,12 @@ weitere Regelungen zu erlassen
 
 
 ## Siebenter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG000904360)
 
 
 
 ### § 48 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006010116)
 
 (1) Die Bundesregierung erlässt nach Anhörung der beteiligten Kreise
 (§ 51) mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes
@@ -4672,6 +4771,7 @@ Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht
 
 
 ### § 48a Rechtsverordnungen über Emissionswerte und Immissionswerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE008808130)
 
 (1) Zur Erfüllung von bindenden Rechtsakten der Europäischen
 Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu
@@ -4722,6 +4822,7 @@ Europäischen Union zu übermitteln.
 
 
 ### § 48b Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE011004130)
 
 Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2, § 23 Absatz 1
 Satz 1 Nummer 2, § 43 Absatz 1 Satz 1 Nummer 1, § 48a Absatz 1 und §
@@ -4739,6 +4840,7 @@ Schlussfolgerungen nach § 7 Absatz 1a erforderlich ist.
 
 
 ### § 49 Schutz bestimmter Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006103360)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 vorzuschreiben, dass in näher zu bestimmenden Gebieten, die eines
@@ -4793,6 +4895,7 @@ Gegenstand haben, bleiben unberührt.
 
 
 ### § 50 Planung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006208116)
 
 Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine
 bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass
@@ -4812,6 +4915,7 @@ Luftqualität als Belang zu berücksichtigen.
 
 
 ### § 51 Anhörung beteiligter Kreise
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006303360)
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und
 allgemeinen Verwaltungsvorschriften die Anhörung der beteiligten
@@ -4822,6 +4926,7 @@ Immissionsschutz zuständigen obersten Landesbehörden zu hören.
 
 
 ### § 51a Kommission für Anlagensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE008912130)
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird zur Beratung der Bundesregierung oder des zuständigen
@@ -4863,6 +4968,7 @@ Sicherheit.
 
 
 ### § 51b Sicherstellung der Zustellungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009702360)
 
 Der Betreiber einer genehmigungsbedürftigen Anlage hat
 sicherzustellen, dass für ihn bestimmte Schriftstücke im
@@ -4873,6 +4979,7 @@ Bevollmächtigten der zuständigen Behörde zu benennen.
 
 
 ### § 52 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006408360)
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes
 und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen.
@@ -5031,6 +5138,7 @@ Personen handelt.
 
 
 ### § 52a Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012402130)
 
 (1) Überwachungspläne haben Folgendes zu enthalten:
 
@@ -5126,6 +5234,7 @@ Besichtigung zugänglich zu machen.
 
 
 ### § 52b Mitteilungspflichten zur Betriebsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009005116)
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ
 aus mehreren Mitgliedern oder sind bei rechtsfähigen
@@ -5148,6 +5257,7 @@ beim Betrieb beachtet werden.
 
 
 ### § 53 Bestellung eines Betriebsbeauftragten für Immissionsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006507116)
 
 (1) Betreiber genehmigungsbedürftiger Anlagen haben einen oder mehrere
 Betriebsbeauftragte für Immissionsschutz (Immissionsschutzbeauftragte)
@@ -5182,6 +5292,7 @@ den in Absatz 1 Satz 1 genannten Gesichtspunkten ergibt.
 
 
 ### § 54 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006605360)
 
 (1) Der Immissionsschutzbeauftragte berät den Betreiber und die
 Betriebsangehörigen in Angelegenheiten, die für den Immissionsschutz
@@ -5233,6 +5344,7 @@ und beabsichtigten Maßnahmen.
 
 
 ### § 55 Pflichten des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006708116)
 
 (1) Der Betreiber hat den Immissionsschutzbeauftragten schriftlich zu
 bestellen und die ihm obliegenden Aufgaben genau zu bezeichnen. Der
@@ -5278,6 +5390,7 @@ und die Teilnahme an Schulungen zu ermöglichen.
 
 
 ### § 56 Stellungnahme zu Entscheidungen des Betreibers
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006804360)
 
 (1) Der Betreiber hat vor Entscheidungen über die Einführung von
 Verfahren und Erzeugnissen sowie vor Investitionsentscheidungen eine
@@ -5291,6 +5404,7 @@ Verfahren und Erzeugnissen sowie über die Investition entscheidet.
 
 
 ### § 57 Vortragsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE006904360)
 
 Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen
 sicherzustellen, dass der Immissionsschutzbeauftragte seine Vorschläge
@@ -5305,6 +5419,7 @@ nicht einigen, so hat diese den Immissionsschutzbeauftragten umfassend
 
 
 ### § 58 Benachteiligungsverbot, Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007004360)
 
 (1) Der Immissionsschutzbeauftragte darf wegen der Erfüllung der ihm
 übertragenen Aufgaben nicht benachteiligt werden.
@@ -5321,6 +5436,7 @@ aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigen.
 
 
 ### § 58a Bestellung eines Störfallbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009104360)
 
 (1) Betreiber genehmigungsbedürftiger Anlagen haben einen oder mehrere
 Störfallbeauftragte zu bestellen, sofern dies im Hinblick auf die Art
@@ -5341,6 +5457,7 @@ Satz 1 genannten Gesichtspunkt ergibt.
 
 
 ### § 58b Aufgaben des Störfallbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009204116)
 
 (1) Der Störfallbeauftragte berät den Betreiber in Angelegenheiten,
 die für die Sicherheit der Anlage bedeutsam sein können. Er ist
@@ -5379,6 +5496,7 @@ diese Aufzeichnungen mindestens fünf Jahre aufbewahren.
 
 
 ### § 58c Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009303360)
 
 (1) Die in den §§ 55 und 57 genannten Pflichten des Betreibers gelten
 gegenüber dem Störfallbeauftragten entsprechend; in Rechtsverordnungen
@@ -5403,11 +5521,13 @@ Entscheidungsbefugnisse übertragen.
 
 
 ### § 58d Verbot der Benachteiligung des Störfallbeauftragten, Kündigungsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009403360)
 
 § 58 gilt für den Störfallbeauftragten entsprechend.
 
 
 ### § 58e Erleichterungen für auditierte Unternehmensstandorte
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE010703360)
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten
 Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit
@@ -5454,6 +5574,7 @@ vorgesehen werden zu
 
 
 ### § 59 Zuständigkeit bei Anlagen der Landesverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007103360)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass der Vollzug dieses
@@ -5462,6 +5583,7 @@ Anlagen, die der Landesverteidigung dienen, Bundesbehörden obliegt.
 
 
 ### § 60 Ausnahmen für Anlagen der Landesverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007204360)
 
 (1) Das Bundesministerium der Verteidigung kann für Anlagen nach § 3
 Absatz 5 Nummer 1 und 3, die der Landesverteidigung dienen, in
@@ -5486,6 +5608,7 @@ besonderen Aufgaben zwingend erforderlich ist.
 
 
 ### § 61 Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE012505116)
 
 (1) Die Länder übermitteln dem Bundesministerium für Umwelt,
 Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen
@@ -5515,6 +5638,7 @@ werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
 
 ### § 62 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007419116)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5690,6 +5814,7 @@ Nummer 9 bis 11 die zuständige Stelle.
 
 
 ### § 63 Rechtsbehelfe und Entfall der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007506130)
 
 (1) Widerspruch und Anfechtungsklage eines Dritten gegen die Zulassung
 einer Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50
@@ -5715,14 +5840,17 @@ Beschwerte von den Tatsachen Kenntnis erlangt.
 
 
 ### (XXXX) §§ 64 bis 65 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007505116)
 
 
 
 ## Achter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNG001004360)
 
 
 
 ### § 66 Fortgeltung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007606360)
 
 (1) (weggefallen)
 
@@ -5734,6 +5862,7 @@ vom 1. September 1970) maßgebend.
 
 
 ### § 67 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007713116)
 
 (1) Eine Genehmigung, die vor dem Inkrafttreten dieses Gesetzes nach §
 16 oder § 25 Absatz 1 der Gewerbeordnung erteilt worden ist, gilt als
@@ -5835,6 +5964,7 @@ eingeleitet worden sind.
 
 
 ### § 67a Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE009602360)
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet muss
 eine genehmigungsbedürftige Anlage, die vor dem 1. Juli 1990 errichtet
@@ -5872,12 +6002,14 @@ gilt der 1. Juli 1990.
 
 
 ### (XXXX) §§ 68 bis 72 (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE007803360)
 
 (Änderung von Rechtsvorschriften, Überleitung von Verweisungen,
 Aufhebung von Vorschriften)
 
 
 ### § 73 Bestimmungen zum Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE008206125)
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
@@ -5886,6 +6018,7 @@ abgewichen werden.
 (zu § 3 Abs. 6)
 
 ### Anlage Kriterien zur Bestimmung des Standes der Technik
+[Direktlink](https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html#BJNR007210974BJNE010804360)
 
 (Fundstelle: BGBl. I 2013, 1311)
 

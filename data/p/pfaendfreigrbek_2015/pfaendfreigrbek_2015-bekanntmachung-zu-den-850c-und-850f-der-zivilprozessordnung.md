@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2015/BJNR061800015.html#BJNR061800015BJNE000100000)
 
 Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4
 der Zivilprozessordnung, von denen § 850f Absatz 3 Satz 4 durch
@@ -86,11 +87,13 @@ wird bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2015/BJNR061800015.html#BJNR061800015BJNE000200000)
 
 Der Bundesminister der Justiz und für Verbraucherschutz
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/pf_ndfreigrbek_2015/BJNR061800015.html#BJNR061800015BJNE000300000)
 
 (Fundstelle: BGBl. I 2015, 619 - 636)
 

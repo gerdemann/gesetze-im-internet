@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000204310)
 
 Sobald einer Soldatin bekannt wird, dass sie schwanger ist, soll sie
 dies und den mutmaßlichen Tag der Entbindung der oder dem nächsten
@@ -31,6 +32,7 @@ mitteilen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000306129)
 
 (1) Soweit sich aus den §§ 3 und 4 nichts anderes ergibt, nimmt eine
 Soldatin während der Schwangerschaft bis zum Beginn der Schutzfrist (§
@@ -52,6 +54,7 @@ werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000405310)
 
 (1) Während der Schwangerschaft darf eine Soldatin nicht zu
 Dienstleistungen herangezogen werden, bei denen sie schweren
@@ -83,12 +86,14 @@ ausgesetzt ist.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE001202310)
 
 Die §§ 1 bis 5 der Verordnung zum Schutze der Mütter am Arbeitsplatz
 vom 15. April 1997 (BGBl. I S. 782) sind entsprechend anzuwenden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000503310)
 
 Eine Soldatin darf während der Schwangerschaft nicht zu
 Dienstleistungen herangezogen werden, soweit nach ärztlichem Zeugnis
@@ -97,6 +102,7 @@ Dienstleistung gefährdet ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000606129)
 
 (1) Eine Soldatin ist in den letzten sechs Wochen vor der Entbindung
 nicht zur Dienstleistung heranzuziehen, soweit sie sich nicht zur
@@ -175,6 +181,7 @@ entsprechend.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000707129)
 
 Durch die Verbote der §§ 3 bis 5 sowie des § 2 Abs. 1 Satz 2
 hinsichtlich des Dienstes zu ungünstigen Zeiten und des Dienstes zu
@@ -188,6 +195,7 @@ des Monats, in dem die Schwangerschaft eingetreten ist.
 
 
 ## § 6a
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE001109129)
 
 Soweit die in § 5 Absatz 1 bis 4 genannten Zeiten sowie der
 Entbindungstag in eine Elternzeit fallen, erhält die Soldatin einen
@@ -203,6 +211,7 @@ würden, ist der Zuschuss auf 210 Euro begrenzt.
 
 
 ## § 6b
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE001301310)
 
 (1) Während der Schwangerschaft und innerhalb von vier Monaten nach
 der Entbindung darf die Entlassung einer Soldatin auf Zeit gegen ihren
@@ -225,16 +234,19 @@ Soldatengesetzes ausgesprochen werden.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000803310)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE000903310)
 
 (Aufhebung einer anderen Vorschrift)
 
 
 ## § 9 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/muschsoldv/BJNR030150990.html#BJNR030150990BJNE001003310)
 
 -
 

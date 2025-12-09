@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000101000)
 
 
 ### § 1 Aufgabe und Anwendungsbereich der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000201000)
 
 (1) Die Soziale Entschädigung unterstützt Menschen, die durch ein
 schädigendes Ereignis, für das die staatliche Gemeinschaft eine
@@ -54,6 +56,7 @@ wiederkehrendes oder ein über längere Zeit einwirkendes Ereignis sein.
 
 
 ### § 2 Berechtigte der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000301000)
 
 (1) Berechtigte sind Geschädigte sowie deren Angehörige,
 Hinterbliebene und Nahestehende.
@@ -89,6 +92,7 @@ eine Lebensgemeinschaft führen, die der Ehe ähnlich ist.
 
 
 ### § 3 Leistungen der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000401000)
 
 Die Soziale Entschädigung umfasst:
 
@@ -134,12 +138,15 @@ Die Soziale Entschädigung umfasst:
 
 
 ## Kapitel 2 - Anspruch auf Leistungen der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000201000)
 
 
 ### Abschnitt 1 - Allgemeine Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000301000)
 
 
 #### § 4 Anspruch auf Leistungen für Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000501000)
 
 (1) Geschädigte haben Anspruch auf Leistungen der Sozialen
 Entschädigung wegen der anerkannten gesundheitlichen und der
@@ -204,6 +211,7 @@ erteilt werden.
 
 
 #### § 5 Grad der Schädigungsfolgen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000600000)
 
 (1) Der Grad der Schädigungsfolgen ist nach den allgemeinen
 Auswirkungen der körperlichen, seelischen, geistigen oder
@@ -239,6 +247,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 #### § 6 Anspruch auf Leistungen für Angehörige, Hinterbliebene und Nahestehende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000700000)
 
 (1) Angehörige, Hinterbliebene und Nahestehende erhalten Schnelle
 Hilfen nach Maßgabe der Vorschriften des Kapitels 4 sowie besondere
@@ -253,11 +262,13 @@ Förderung einer Ausbildung nach § 94.
 
 
 #### § 7 Anspruch auf Leistungen für Ausländerinnen und Ausländer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000800000)
 
 Ausländerinnen und Ausländer haben dieselben Ansprüche wie Deutsche.
 
 
 #### § 8 Konkurrenz von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE000904126)
 
 (1) Berechtigte haben wegen eines schädigenden Ereignisses nach diesem
 Buch gegen den Bund oder die Länder nur die auf diesem Buch beruhenden
@@ -290,12 +301,14 @@ derselben Ursache beruhen.
 
 
 #### § 9 Ausschluss der Pfändbarkeit von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001000000)
 
 Ansprüche auf Entschädigungszahlungen nach Kapitel 9 und die
 Geldleistung nach § 144 können nicht gepfändet werden.
 
 
 #### § 10 Antragserfordernis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001100000)
 
 (1) Leistungen der Sozialen Entschädigung werden auf Antrag erbracht,
 soweit dieses Buch nichts Abweichendes regelt.
@@ -339,6 +352,7 @@ von Straftaten (ABl. L 261 vom 6.8.2004, S. 15).
 
 
 #### § 11 Beginn der Leistungserbringung, Kostenregelung für die erste Inanspruchnahme Schneller Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001200000)
 
 (1) Leistungen, die auf Antrag erbracht werden, sind ab dem Monat zu
 erbringen, in dem die Voraussetzungen für die Inanspruchnahme
@@ -368,6 +382,7 @@ nicht im Erleichterten Verfahren nach § 115.
 
 
 #### § 12 Übernahme der Aufwendungen für Dolmetscherinnen und Dolmetscher, Übersetzerinnen und Übersetzer sowie Kommunikationshilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001302126)
 
 (1) Bei der Ausführung von Leistungen nach diesem Buch und im
 Verwaltungsverfahren werden notwendige Aufwendungen für
@@ -391,12 +406,15 @@ Kommunikationshilfenverordnung übernommen.
 
 
 ### Abschnitt 2 - Entschädigungstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000401000)
 
 
 #### Unterabschnitt 1 - Gewalttaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000501000)
 
 
 ##### § 13 Opfer von Gewalttaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001402311)
 
 (1) Als Opfer einer Gewalttat erhält bei Vorliegen der Voraussetzungen
 nach § 4 Absatz 1 Leistungen der Sozialen Entschädigung, wer im Inland
@@ -427,6 +445,7 @@ von mindestens vergleichbarer Schwere ist.
 
 
 ##### § 14 Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001501311)
 
 (1) Einer Gewalttat stehen gleich:
 
@@ -468,6 +487,7 @@ Regel mit Angehörigen und Nahestehenden.
 
 
 ##### § 15 Anspruch auf Leistungen bei Gewalttaten im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001600000)
 
 Personen, die durch ein schädigendes Ereignis nach den §§ 13 und 14 im
 Ausland eine gesundheitliche Schädigung erleiden, erhalten wegen der
@@ -492,6 +512,7 @@ Einkommensteuergesetzes dient.
 
 
 ##### § 16 Ausschluss von Ansprüchen und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001700000)
 
 (1) Von Ansprüchen nach diesem Buch ist ausgeschlossen, wer das
 schädigende Ereignis in vorwerfbarer Weise verursacht hat.
@@ -502,6 +523,7 @@ hat.
 
 
 ##### § 17 Versagung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001800000)
 
 (1) Leistungen sind zu versagen, wenn es aus in dem eigenen Verhalten
 der Antragstellerin oder des Antragstellers liegenden Gründen unbillig
@@ -514,6 +536,7 @@ Täters beizutragen.
 
 
 ##### § 18 Ansprüche bei Gebrauch eines Kraftfahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE001900000)
 
 Wird eine Gewalttat im Sinne des § 13 durch den Gebrauch eines
 Kraftfahrzeugs oder eines Anhängers verübt, werden Leistungen nach
@@ -521,6 +544,7 @@ diesem Buch erbracht.
 
 
 ##### § 19 Ausschluss von Ansprüchen und Leistungen für Angehörige, Hinterbliebene und Nahestehende, Konkurrenzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002000000)
 
 (1) Angehörige, Hinterbliebene und Nahestehende sind von Ansprüchen
 nach diesem Buch ausgeschlossen, wenn die Voraussetzungen des § 16 in
@@ -531,6 +555,7 @@ vorliegen.
 
 
 ##### § 20 Versagung von Leistungen für Angehörige, Hinterbliebene und Nahestehende
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002100000)
 
 (1) Leistungen für Angehörige, Hinterbliebene und Nahestehende sind zu
 versagen, wenn die Voraussetzungen des § 17 Absatz 1 in der eigenen
@@ -543,9 +568,11 @@ Geschädigten vorliegen.
 
 
 #### Unterabschnitt 2 - Kriegsauswirkungen beider Weltkriege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000601000)
 
 
 ##### § 21 Opfer von Kriegsauswirkungen beider Weltkriege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002201000)
 
 Wer im Inland durch Auswirkungen kriegerischer Vorgänge im
 Zusammenhang mit einem der beiden Weltkriege, die einen
@@ -556,6 +583,7 @@ Entschädigung.
 
 
 ##### § 22 Versagung, Entziehung und Minderung der Leistung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002300000)
 
 (1) Leistungen der Sozialen Entschädigung sind zu versagen, wenn
 Geschädigte während der Herrschaft des Nationalsozialismus gegen die
@@ -582,9 +610,11 @@ Ansprüchen, die sich von Geschädigten im Sinne von Absatz 1 ableiten.
 
 
 #### Unterabschnitt 3 - Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000701000)
 
 
 ##### § 23 Geschädigte durch Ereignisse im Zusammenhang mit der Ableistung des Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002401000)
 
 (1) Wer im Zusammenhang mit der Ableistung eines Zivildienstes eine
 gesundheitliche Schädigung durch eine Tätigkeit, einen Unfall, einen
@@ -631,9 +661,11 @@ Zivildienstschädigung herbeigeführt worden sind.
 
 
 #### Unterabschnitt 4 - Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000801000)
 
 
 ##### § 24 Geschädigte durch Schutzimpfungen oder andere Maßnahmen der spezifischen Prophylaxe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002503126)
 
 Wer durch eine Schutzimpfung nach § 2 Nummer 9 des
 Infektionsschutzgesetzes oder durch eine andere Maßnahme der
@@ -673,15 +705,18 @@ geimpfte Person geschädigt wurde.
 
 
 ## Kapitel 3 - Leistungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG000901000)
 
 
 ### § 25 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002601000)
 
 Leistungen der Sozialen Entschädigung werden für schädigungsbedingte
 Bedarfe erbracht.
 
 
 ### § 26 Leistungsformen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002700000)
 
 (1) Leistungen der Sozialen Entschädigung werden erbracht in Form von
 Dienstleistungen, Sachleistungen und Geldleistungen.
@@ -709,6 +744,7 @@ erbracht:
 
 
 ### § 27 Vorrang von Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002800000)
 
 Leistungen zur medizinischen Rehabilitation und zur Teilhabe am
 Arbeitsleben, die erfolgversprechend und zumutbar sind, haben Vorrang
@@ -717,6 +753,7 @@ Regelungen des § 9 des Neunten Buches.
 
 
 ### § 28 Verhältnis zu Leistungen anderer Träger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE002900000)
 
 (1) Die Leistungen nach diesem Buch wegen eines schädigenden
 Ereignisses nach § 1 Absatz 2 gehen Leistungen anderer Träger,
@@ -736,12 +773,15 @@ bestimmt.
 
 
 ## Kapitel 4 - Schnelle Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001001000)
 
 
 ### Abschnitt 1 - Leistungen der Schnellen Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001101000)
 
 
 #### § 29 Leistungen und Leistungsart
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003001000)
 
 (1) Die Leistungen der Schnellen Hilfen umfassen Leistungen des
 Fallmanagements und Leistungen in einer Traumaambulanz.
@@ -751,9 +791,11 @@ Art dar.
 
 
 ### Abschnitt 2 - Fallmanagement
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001201000)
 
 
 #### § 30 Leistungen des Fallmanagements
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003101000)
 
 (1) Beim Fallmanagement werden die Berechtigten von einer
 Fallmanagerin oder einem Fallmanager aktivierend und koordinierend
@@ -811,9 +853,11 @@ Leistungen des Fallmanagements ergänzend erbracht.
 
 
 ### Abschnitt 3 - Traumaambulanz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001301000)
 
 
 #### § 31 Leistungen in einer Traumaambulanz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003201000)
 
 (1) In einer Traumaambulanz wird psychotherapeutische Intervention
 erbracht, um den Eintritt einer psychischen Gesundheitsstörung oder
@@ -825,6 +869,7 @@ Vereinbarung nach § 37 geschlossen haben.
 
 
 #### § 32 Psychotherapeutische Frühintervention
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003300000)
 
 (1) Geschädigte sollen psychotherapeutische Frühintervention in einer
 Traumaambulanz erhalten, wenn die erste Sitzung innerhalb von zwölf
@@ -838,6 +883,7 @@ nachdem sie von dem schädigenden Ereignis Kenntnis erlangt haben.
 
 
 #### § 33 Psychotherapeutische Intervention in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003400000)
 
 Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen
 psychotherapeutische Intervention in einer Traumaambulanz erhalten,
@@ -848,6 +894,7 @@ Belastung erfolgt.
 
 
 #### § 34 Leistungsvoraussetzungen und Leistungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003500000)
 
 (1) Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende
 haben Anspruch auf insgesamt bis zu 15 Sitzungen in der Traumaambulanz
@@ -873,6 +920,7 @@ geplante Durchführung der weiteren Sitzungen vorab angezeigt hat.
 
 
 #### § 35 Weiterer Bedarf nach Betreuung in der Traumaambulanz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003601126)
 
 (1) Besteht bei Personen, die die Betreuung in der Traumaambulanz in
 Anspruch nehmen, auch nach dieser Betreuung weiterer
@@ -887,6 +935,7 @@ Informationspflicht aus Satz 1 fest.
 
 
 #### § 36 Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003700000)
 
 (1) Übernommen werden die erforderlichen Fahrkosten zur
 nächstgelegenen Traumaambulanz. Gleiches gilt für die erforderlichen
@@ -906,6 +955,7 @@ Bundesreisekostengesetzes zu Grunde gelegt.
 
 
 #### § 37 Vereinbarungen mit Traumaambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003800000)
 
 (1) Die nach Landesrecht zuständigen Behörden schließen Vereinbarungen
 mit Traumaambulanzen, die die Voraussetzungen nach diesem Abschnitt
@@ -943,6 +993,7 @@ enthält die Vereinbarung als Mindestinhalt Regelungen über
 
 
 #### § 38 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE003900000)
 
 Das Nähere zu den Vereinbarungen nach § 37 regelt eine vom
 Bundesministerium für Arbeit und Soziales mit Zustimmung des
@@ -978,9 +1029,11 @@ Kraft tritt. Mindestinhalt der Verordnung sind Bestimmungen
 
 
 ### Abschnitt 4 - Kooperationsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001401000)
 
 
 #### § 39 Kooperationsvereinbarungen für Beratungs- und Begleitangebote
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004001000)
 
 Die Träger der Sozialen Entschädigung können
 Kooperationsvereinbarungen mit Organisationen schließen, die eine
@@ -992,6 +1045,7 @@ Verfügung stellen.
 
 
 #### § 40 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004100000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die
@@ -1010,12 +1064,15 @@ Mindestinhalte der Verordnung sind:
 
 
 ## Kapitel 5 - Krankenbehandlung der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001501000)
 
 
 ### Abschnitt 1 - Leistungen und Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001601000)
 
 
 #### § 41 Anspruch auf Leistungen der Krankenbehandlung der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004201000)
 
 (1) Geschädigte haben für anerkannte Schädigungsfolgen Anspruch auf
 Leistungen der Krankenbehandlung der Sozialen Entschädigung nach den
@@ -1031,6 +1088,7 @@ Einfluss ist.
 
 
 #### § 42 Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004300000)
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen
 
@@ -1073,6 +1131,7 @@ von Leistungen eine unbillige Härte bedeuten würde.
 
 
 #### § 43 Ergänzende Leistungen der Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004400000)
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen auf Antrag
 über die Leistungen der Krankenbehandlung nach § 42 hinaus ergänzende
@@ -1148,6 +1207,7 @@ diese Leistungen
 
 
 #### § 44 Sachleistungsprinzip, Kostenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004501126)
 
 (1) Leistungen der Krankenbehandlung werden als Sachleistungen
 erbracht, soweit sich aus diesem Buch, dem Fünften Buch oder dem
@@ -1159,6 +1219,7 @@ Sachleistungen.
 
 
 #### § 45 Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004601126)
 
 Für den Nachweis der Berechtigung zur Inanspruchnahme von Leistungen
 der Krankenbehandlung der Sozialen Entschädigung nach § 42 gilt § 15
@@ -1170,6 +1231,7 @@ von Behandlungsscheinen. Diese werden den Berechtigten von der nach §
 
 
 #### § 46 Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung und Wäsche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004700000)
 
 (1) Geschädigte erhalten für anerkannte Schädigungsfolgen
 
@@ -1201,6 +1263,7 @@ gesetzlichen Unfallversicherung.
 
 
 #### § 47 Krankengeld der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004802126)
 
 (1) Geschädigte erhalten bei einer durch eine anerkannte
 Schädigungsfolge verursachten Arbeitsunfähigkeit oder bei einer wegen
@@ -1305,6 +1368,7 @@ Maßgabe, dass das Krankengeld der Sozialen Entschädigung
 
 
 #### § 48 Beihilfe bei erheblicher Beeinträchtigung der Erwerbsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE004900000)
 
 (1) Führt eine notwendige ambulante oder stationäre Behandlung einer
 anerkannten Schädigungsfolge zu einer erheblichen Beeinträchtigung der
@@ -1332,6 +1396,7 @@ Entschädigung weggefallen wäre.
 
 
 #### § 49 Zuschüsse bei Zahnersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005000000)
 
 Anstelle der Versorgung mit Zahnersatz können Geschädigte für die
 Beschaffung eines Zahnersatzes wegen anerkannter Schädigungsfolgen
@@ -1349,6 +1414,7 @@ einen Zuschuss in angemessener Höhe erhalten, wenn
 
 
 #### § 50 Erstattung von Kosten bei selbst beschaffter Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005100000)
 
 (1) Entstehen Geschädigten Kosten für eine selbst beschaffte
 notwendige Behandlung von Schädigungsfolgen, bevor ihr Anspruch auf
@@ -1394,6 +1460,7 @@ auf Krankengeld der Sozialen Entschädigung.
 
 
 #### § 51 Erstattung von Kosten für Krankenbehandlung bei vorübergehendem Auslandsaufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005200000)
 
 (1) Geschädigten werden bei einem vorübergehenden Aufenthalt im
 Ausland die Kosten der notwendigen Krankenbehandlung anerkannter
@@ -1436,6 +1503,7 @@ die Zustimmung einzuholen.
 
 
 #### § 52 Beiträge zur Arbeitsförderung, zur gesetzlichen Rentenversicherung und zur Alterssicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005301126)
 
 (1) Für Geschädigte werden für die Zeit, in der sie Krankengeld der
 Sozialen Entschädigung erhalten, folgende Beiträge entrichtet:
@@ -1507,6 +1575,7 @@ rentenversicherungspflichtig wären.
 
 
 #### § 53 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005400000)
 
 (1) Berechtigte haben Anspruch auf Übernahme von Fahrkosten und
 anderen Reisekosten, die im Zusammenhang mit einer Leistung der
@@ -1531,9 +1600,11 @@ Berechtigte der Begleitperson zur Erstattung verpflichtet ist.
 
 
 ### Abschnitt 2 - Vergütung der Leistungserbringer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001701000)
 
 
 #### § 54 Vergütung für Leistungen der Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005501000)
 
 (1) Die Leistungserbringer der Krankenbehandlung nach § 42 haben
 Anspruch auf die Vergütung, die für die Krankenbehandlung der
@@ -1544,6 +1615,7 @@ zuständigen Krankenkasse geltend zu machen.
 
 
 #### § 55 Vergütung für ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005600000)
 
 (1) Die Erbringer der in § 43 Absatz 1 genannten ergänzenden
 Leistungen haben Anspruch auf Vergütung. Der Anspruch ist bei der
@@ -1602,6 +1674,7 @@ geltenden Fassung.
 
 
 #### § 56 Vergütung für die Versorgung mit Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005700000)
 
 (1) Leistungserbringer der Versorgung mit Hilfsmitteln nach § 46 haben
 Anspruch auf die Vergütung, die für die Versorgung Versicherter der
@@ -1612,9 +1685,11 @@ geltend zu machen.
 
 
 ### Abschnitt 3 - Zuständigkeit und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001801000)
 
 
 #### § 57 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005802126)
 
 (1) Die Krankenbehandlung der Sozialen Entschädigung wird von der
 zuständigen Verwaltungsbehörde durchgeführt.
@@ -1679,6 +1754,7 @@ bleiben unberührt.
 
 
 #### § 58 Zuständigkeit zur Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE005900000)
 
 Über Widersprüche gegen Verwaltungsakte, die im Rahmen der
 Leistungserbringung von Krankenkassen nach § 57 Absatz 2, 3 und 4 und
@@ -1688,6 +1764,7 @@ Widerspruchsbehörde.
 
 
 #### § 59 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006000000)
 
 (1) Die Leistungserbringer der Krankenbehandlung sind verpflichtet,
 der zuständigen Krankenkasse oder der zuständigen Verwaltungsbehörde
@@ -1704,9 +1781,11 @@ erforderlich ist.
 
 
 ### Abschnitt 4 - Erstattungen von Aufwendungen und Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG001901000)
 
 
 #### § 60 Erstattung an Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006102126)
 
 (1) Den Krankenkassen werden von der zuständigen Verwaltungsbehörde
 halbjährlich die Aufwendungen erstattet, die ihnen nach § 57 Absatz 2,
@@ -1830,6 +1909,7 @@ Pauschalbeträge nach den Absätzen 2 und 5 erstattet.
 
 
 #### § 60a Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE016000126)
 
 (1) Die zuständige Verwaltungsbehörde übermittelt für erstmals ab dem
 1\. Januar 2024 bewilligte Leistungen nach Kapitel 5 dieses Buches an
@@ -1959,6 +2039,7 @@ Krankenkassen das strukturierte Format für die anonymisierte
 
 
 #### § 61 Erstattung an Unfallkassen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006201126)
 
 (1) Den Unfallkassen der Länder werden von der zuständigen
 Verwaltungsbehörde die Aufwendungen erstattet, die ihnen nach § 57
@@ -1979,9 +2060,11 @@ der Zustimmung des Bundesministeriums für Arbeit und Soziales.
 
 
 ## Kapitel 6 - Leistungen zur Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002001000)
 
 
 ### § 62 Leistungsumfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006302126)
 
 Leistungen zur Teilhabe sind
 
@@ -2009,6 +2092,7 @@ Krankenbehandlung nach Kapitel 5 erbracht.
 
 
 ### § 63 Leistungen zur Teilhabe am Arbeitsleben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006401126)
 
 (1) Geschädigte erhalten als Leistungen zur Teilhabe am Arbeitsleben
 
@@ -2047,6 +2131,7 @@ Tod des oder der Geschädigten gestellt wird.
 
 
 ### § 64 Unterhaltssichernde und andere ergänzende Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006501126)
 
 (1) Geschädigte und Hinterbliebene, die Leistungen zur Teilhabe am
 Arbeitsleben nach § 63 erhalten, erhalten auch die folgenden
@@ -2114,6 +2199,7 @@ Hinterbliebene entsprechend.
 
 
 ### § 65 Leistungen zur Teilhabe an Bildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006600000)
 
 Geschädigte, die auf Grund der Schädigungsfolgen zum
 leistungsberechtigten Personenkreis im Sinne von § 99 des Neunten
@@ -2122,6 +2208,7 @@ entsprechend Teil 2 Kapitel 5 des Neunten Buches.
 
 
 ### § 66 Leistungen zur Sozialen Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006700000)
 
 (1) Geschädigte, die auf Grund der Schädigungsfolgen zum
 leistungsberechtigten Personenkreis im Sinne von § 99 des Neunten
@@ -2134,6 +2221,7 @@ Betrieb, Unterhalt, Unterstellen und Abstellen eines Kraftfahrzeuges.
 
 
 ### § 67 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006800000)
 
 Werden Leistungen zur Teilhabe nach § 62 Satz 1 Nummer 1 bis 3 in
 Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches
@@ -2151,6 +2239,7 @@ der Berechtigten Rechnung zu tragen.
 
 
 ### § 68 Zusammentreffen von Teilhabeleistungen mit Pflegeleistungen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE006900000)
 
 (1) Treffen außerhalb von Einrichtungen oder Räumlichkeiten im Sinne
 des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften
@@ -2180,6 +2269,7 @@ ist.
 
 
 ### § 69 Wunsch- und Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007000000)
 
 Bei der Entscheidung über die Leistungen zur Teilhabe und bei der
 Ausführung dieser Leistungen wird den berechtigten Wünschen der
@@ -2189,18 +2279,22 @@ Gesundheitszustand und Lebensalter besonders zu berücksichtigen. Im
 
 
 ### § 70 Besonderheiten der Leistungsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007100000)
 
 Art, Ausmaß und Dauer der Leistungen zur Teilhabe richten sich nach
 der Besonderheit des Einzelfalls sowie der Art des Bedarfes.
 
 
 ## Kapitel 7 - Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002101000)
 
 
 ### Abschnitt 1 - Anspruch und Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002201000)
 
 
 #### § 71 Anspruch auf Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007201000)
 
 (1) Geschädigte haben Anspruch auf Leistungen bei Pflegebedürftigkeit,
 wenn sie auf Grund der anerkannten Schädigungsfolgen pflegebedürftig
@@ -2222,6 +2316,7 @@ sind.
 
 
 #### § 72 Pflegebedürftigkeit und Pflegegrad
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007300000)
 
 (1) Für den Begriff der Pflegebedürftigkeit, für das Verfahren zur
 Ermittlung des Pflegegrades und für die Einordnung in die Pflegegrade
@@ -2238,6 +2333,7 @@ Verantwortung. Sie kann sich dabei sachverständiger Dritter bedienen.
 
 
 #### § 73 Kostenübernahme vor Pflegebedürftigkeit im Sinne des Elften Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007400000)
 
 Für Geschädigte, bei denen auf Grund eines schädigenden Ereignisses
 voraussichtlich nur weniger als sechs Monate eine Einschränkung der
@@ -2249,9 +2345,11 @@ durch ein Arbeitgebermodell nach § 76 sichergestellt wird.
 
 
 ### Abschnitt 2 - Umfang der Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002301000)
 
 
 #### § 74 Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007501000)
 
 Geschädigte erhalten bei schädigungsbedingter Pflegebedürftigkeit im
 Sinne des Abschnitts 1
@@ -2270,6 +2368,7 @@ Sinne des Abschnitts 1
 
 
 #### § 75 Ergänzende Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007600000)
 
 (1) Werden schädigungsbedingte Bedarfe nach § 74 Nummer 1 nur
 teilweise gedeckt, werden die über die Leistungen des Vierten Kapitels
@@ -2319,6 +2418,7 @@ Kapitels des Elften Buches sowie die Leistungen nach Absatz 1. Absatz
 
 
 #### § 76 Häusliche Pflege im Arbeitgebermodell
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007700000)
 
 (1) Stellen Geschädigte die häusliche Pflege durch von ihnen
 beschäftigte besondere Pflegekräfte auf Grundlage eines
@@ -2346,9 +2446,11 @@ monatlich.
 
 
 ### Abschnitt 3 - Zuständigkeit und Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002401000)
 
 
 #### § 77 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007802126)
 
 (1) Leistungen bei Pflegebedürftigkeit nach diesem Buch werden von der
 zuständigen Verwaltungsbehörde nach Maßgabe der folgenden Absätze
@@ -2373,6 +2475,7 @@ Verwaltungsbehörde.
 
 
 #### § 78 Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE007901126)
 
 Über Widersprüche gegen Verwaltungsakte, die im Rahmen der
 Leistungserbringung von Pflegekassen nach § 77 Absatz 2 und 3 erlassen
@@ -2381,6 +2484,7 @@ Widerspruchsbehörde.
 
 
 #### § 79 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008001126)
 
 Für die Erbringer von Leistungen bei Pflegebedürftigkeit gelten die §§
 104 bis 106 des Elften Buches in entsprechender Anwendung, soweit dies
@@ -2389,9 +2493,11 @@ zuständigen Verwaltungsbehörde erforderlich ist.
 
 
 ### Abschnitt 4 - Erstattungen von Aufwendungen und Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002501000)
 
 
 #### § 80 Erstattung an Pflegekassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008101000)
 
 (1) Den Pflegekassen werden von der zuständigen Verwaltungsbehörde
 halbjährlich die Aufwendungen erstattet, die ihnen nach § 77 Absatz 2
@@ -2448,13 +2554,16 @@ Bundesministerium für Arbeit und Soziales.
 
 
 #### § 81 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008201126)
 
 
 
 ## Kapitel 8 - Leistungen bei hochgradiger Sehbehinderung, Blindheit und Taubblindheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002601000)
 
 
 ### § 82 Anspruch und Umfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008301000)
 
 (1) Ist als Schädigungsfolge hochgradige Sehbehinderung nach Teil A
 Nummer 6 Buchstabe d der Versorgungsmedizin-Verordnung eingetreten,
@@ -2480,12 +2589,15 @@ landesrechtlichen Leistungen für blindheitsbedingte Mehraufwendungen.
 
 
 ## Kapitel 9 - Entschädigungszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002701000)
 
 
 ### Abschnitt 1 - Entschädigungszahlungen an Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002801000)
 
 
 #### § 83 Monatliche Entschädigungszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008403131)
 
 (1) Geschädigte erhalten eine monatliche Entschädigungszahlung von
 
@@ -2539,6 +2651,7 @@ nach Satz 1.
 
 
 #### § 84 Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008500000)
 
 (1) Geschädigte, die einen Anspruch auf eine monatliche
 Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 bis 5 haben,
@@ -2555,9 +2668,11 @@ Entschädigungszahlungen für die Dauer von fünf Jahren abgegolten.
 
 
 ### Abschnitt 2 - Entschädigungszahlungen an Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG002901000)
 
 
 #### § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an Partner einer eheähnlichen Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008604131)
 
 (1) Eine monatliche Entschädigungszahlung in Höhe von 1 144 Euro
 erhält die Witwe oder der Witwer des oder der schädigungsbedingt
@@ -2581,6 +2696,7 @@ Gemeinschaft heiraten.
 
 
 #### § 86 Abfindung für Witwen und Witwer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008702131)
 
 (1) Witwen und Witwer erhalten auf Antrag eine Abfindung anstelle der
 monatlichen Entschädigungszahlung. Der Antrag ist innerhalb eines
@@ -2594,6 +2710,7 @@ monatlichen Entschädigungszahlungen abgegolten.
 
 
 #### § 87 Monatliche Entschädigungszahlung an Waisen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008803131)
 
 (1) Waisen eines schädigungsbedingt verstorbenen Elternteils erhalten
 jeweils eine monatliche Entschädigungszahlung in Höhe von 423 Euro.
@@ -2624,6 +2741,7 @@ monatlichen Entschädigungszahlungen gezahlt
 
 
 #### § 88 Monatliche Entschädigungszahlung an hinterbliebene Eltern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE008902131)
 
 (1) Ist die oder der Geschädigte an den Folgen einer Schädigung
 gestorben, so erhalten Eltern eine monatliche Entschädigungszahlung,
@@ -2668,9 +2786,11 @@ Kind, das an den Folgen der Schädigung gestorben ist,
 
 
 ## Kapitel 10 - Berufsschadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003001000)
 
 
 ### § 89 Voraussetzung und Höhe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009002126)
 
 (1) Hat eine Geschädigte oder ein Geschädigter infolge der
 gesundheitlichen Schädigung einen Einkommensverlust, so erhält sie
@@ -2841,6 +2961,7 @@ der Führung des gemeinsamen Haushalts.
 
 
 ### § 90 Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009100000)
 
 (1) Der Berufsschadensausgleich ist bei monatlich feststehendem
 Einkommen endgültig festzustellen. Bei monatlich nicht feststehendem
@@ -2860,6 +2981,7 @@ zu berücksichtigen, in denen sie gezahlt werden.
 
 
 ### § 91 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009201126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen durch
@@ -2894,9 +3016,11 @@ bestimmen:
 
 
 ## Kapitel 11 - Besondere Leistungen im Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003101000)
 
 
 ### § 92 Anspruch und Umfang
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009302126)
 
 (1) Geschädigte erhalten Besondere Leistungen im Einzelfall, soweit
 und solange sie nicht oder nicht ausreichend in der Lage sind, den
@@ -2950,6 +3074,7 @@ Sechsten Buches sind.
 
 
 ### § 93 Leistungen zum Lebensunterhalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009402126)
 
 (1) Geschädigte erhalten Leistungen zum Lebensunterhalt.
 Hinterbliebene erhalten Leistungen nach Satz 1 für einen Zeitraum von
@@ -2978,6 +3103,7 @@ abgetreten, übertragen, verpfändet oder gepfändet werden.
 
 
 ### § 94 Leistung zur Förderung einer Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009501126)
 
 (1) Soweit bei Geschädigten und Waisen die Förderung einer Ausbildung
 nach dem Bundesausbildungsförderungsgesetz als Darlehen
@@ -3050,6 +3176,7 @@ Monaten in einer Summe an die Kreditanstalt für Wiederaufbau zurück.
 
 
 ### § 95 Leistungen zur Weiterführung des Haushalts
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009600000)
 
 (1) Geschädigte mit eigenem Haushalt erhalten Leistungen zur
 Weiterführung des Haushalts, wenn weder sie selbst noch, falls sie mit
@@ -3091,6 +3218,7 @@ geboten ist.
 
 
 ### § 96 Leistungen in sonstigen Lebenslagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009700000)
 
 Geschädigte können Leistungen auch in sonstigen Lebenslagen erhalten,
 wenn diese den Einsatz öffentlicher Mittel unter Berücksichtigung der
@@ -3098,6 +3226,7 @@ Ziele der Sozialen Entschädigung rechtfertigen.
 
 
 ### § 97 Wunsch- und Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009800000)
 
 Bei der Entscheidung über die Besonderen Leistungen im Einzelfall und
 bei der Ausführung dieser Leistungen wird den berechtigten Wünschen
@@ -3107,15 +3236,18 @@ berücksichtigen. Im Übrigen gilt § 8 des Neunten Buches entsprechend.
 
 
 ### § 98 Besonderheiten der Leistungsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE009900000)
 
 Art, Ausmaß und Dauer der Besonderen Leistungen im Einzelfall richten
 sich nach der Besonderheit des Einzelfalls sowie der Art des Bedarfes.
 
 
 ## Kapitel 12 - Überführung und Bestattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003201000)
 
 
 ### § 99 Leistungen bei Überführung und Bestattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010001000)
 
 (1) Stirbt eine Geschädigte oder ein Geschädigter an den
 Schädigungsfolgen, so hat diejenige Person, die die Überführung
@@ -3153,9 +3285,11 @@ die Kosten veranlasst hat, vorliegen.
 
 
 ## Kapitel 13 - Härtefallregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003301000)
 
 
 ### § 100 Ausgleich in Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010101000)
 
 (1) Soweit sich im Einzelfall aus der Anwendung der Vorschriften
 dieses Buches eine besondere Härte ergibt, kann mit Zustimmung der
@@ -3172,9 +3306,11 @@ allgemein zustimmen.
 
 
 ## Kapitel 14 - Regelungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003401000)
 
 
 ### § 101 Leistungen bei Wohnsitz oder gewöhnlichem Aufenthalt im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010202126)
 
 (1) Geschädigte, ihre Angehörigen oder Hinterbliebenen sowie
 Nahestehende, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im
@@ -3254,9 +3390,11 @@ erbracht.
 
 
 ## Kapitel 15 - Besonderheiten der Leistungserbringung für einzelne Entschädigungstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003501000)
 
 
 ### § 102 Leistungen bei Gewalttaten im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010303131)
 
 (1) Berechtigte nach § 15 erhalten Leistungen nach Maßgabe der
 folgenden Absätze.
@@ -3317,6 +3455,7 @@ versagt werden.
 
 
 ### § 103 Leistungen für Zivildienstgeschädigte und Hinterbliebene
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010400000)
 
 Zivildienstgeschädigte erhalten bei Vorliegen der Voraussetzungen nach
 § 23
@@ -3333,6 +3472,7 @@ Zivildienstgeschädigte erhalten bei Vorliegen der Voraussetzungen nach
 
 
 ### § 104 Krankengeld der Sozialen Entschädigung für Zivildienstgeschädigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010500000)
 
 Zivildienstgeschädigte, die infolge einer Zivildienstschädigung
 arbeitsunfähig sind, erhalten nach Beendigung des
@@ -3360,9 +3500,11 @@ Zivildienstverhältnisses Krankengeld der Sozialen Entschädigung nach §
 
 
 ## Kapitel 16 - Einsatz von Einkommen und Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003601000)
 
 
 ### § 105 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010601000)
 
 (1) Die Vorschriften dieses Kapitels gelten für die Besonderen
 Leistungen im Einzelfall nach Kapitel 11 mit Ausnahme der Leistung zur
@@ -3385,6 +3527,7 @@ unterhaltsberechtigten Angehörigen unbillig wäre.
 
 
 ### § 106 Berücksichtigung von Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010700000)
 
 (1) Nicht als Einkommen zu berücksichtigen sind
 
@@ -3421,6 +3564,7 @@ beruhenden Zahlungen Einkommen der Berechtigten.
 
 
 ### § 107 Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010800000)
 
 (1) Einkommen der Berechtigten ist nur einzusetzen, soweit es während
 der Dauer des Bedarfs im Monat eine Einkommensgrenze übersteigt.
@@ -3460,6 +3604,7 @@ Lebensunterhalt.
 
 
 ### § 108 Berücksichtigung von Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE010901126)
 
 (1) Entschädigungszahlungen nach Kapitel 9 und die Einmalzahlungen
 nach § 102 Absatz 4 und 5 sind nicht als Vermögen einzusetzen.
@@ -3477,6 +3622,7 @@ Vollendung seines sechsten Lebensjahres betreuen.
 
 
 ### § 109 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011000000)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Finanzen, durch
@@ -3499,9 +3645,11 @@ bestimmen, welche weiteren
 
 
 ## Kapitel 17 - Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003701000)
 
 
 ### § 110 Höhe und Zeitpunkt der Anpassung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011101000)
 
 (1) Die Höhe der Entschädigungszahlungen nach Kapitel 9, der Betrag
 nach § 89 Absatz 8 Satz 1 sowie die Höhe der Einmalzahlungen nach §
@@ -3523,17 +3671,21 @@ den §§ 84 und 86.
 
 
 ## Kapitel 18 - Organisation, Durchführung und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003801000)
 
 
 ### Abschnitt 1 - Organisation und Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG003901000)
 
 
 #### § 111 Träger der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011201000)
 
 Träger der Sozialen Entschädigung sind die Länder.
 
 
 #### § 112 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011300000)
 
 Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die
 Zuständigkeit kann auf gemeinsame Behörden oder auf andere Träger
@@ -3541,6 +3693,7 @@ Zuständigkeit kann auf gemeinsame Behörden oder auf andere Träger
 
 
 #### § 113 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011403126)
 
 (1) Die örtliche Zuständigkeit der Behörden nach § 112 bestimmen die
 Länder.
@@ -3584,6 +3737,7 @@ gewöhnlichen Aufenthalt im Ausland haben, zu bestimmen.
 
 
 #### § 114 Aufgaben des Bundesministeriums für Arbeit und Soziales
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011501000)
 
 (1) Das Bundesministerium für Arbeit und Soziales wirkt auf die
 bundeseinheitliche Durchführung dieses Buches durch geeignete
@@ -3595,9 +3749,11 @@ der zentralen Kontaktstelle im Sinne des Artikels 16 der Richtlinie
 
 
 ### Abschnitt 2 - Verfahren zur Prüfung des Leistungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004001000)
 
 
 #### § 115 Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011601000)
 
 (1) Leistungen der Schnellen Hilfen werden in der Regel im
 Erleichterten Verfahren erbracht.
@@ -3615,6 +3771,7 @@ weiterer, über die Schnellen Hilfen hinausgehende Ansprüche getroffen.
 
 
 #### § 116 Weiteres Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011700000)
 
 (1) Nach der Entscheidung im Erleichterten Verfahren wird geprüft, ob
 Ansprüche auf Leistungen der Sozialen Entschädigung bestehen, es sei
@@ -3634,6 +3791,7 @@ entschieden.
 
 
 #### § 117 Beweiserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011801000)
 
 (1) Die Angaben der antragstellenden Person, die sich auf die mit der
 Schädigung im Zusammenhang stehenden Tatsachen beziehen, sind, wenn
@@ -3653,6 +3811,7 @@ verlangen.
 
 
 #### § 118 Beiziehung von Unterlagen und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE011900000)
 
 (1) Mit Einwilligung der antragstellenden Person kann die zuständige
 Verwaltungsbehörde zur Aufklärung des Sachverhalts von öffentlichen,
@@ -3685,6 +3844,7 @@ Gefahr im Verzug.
 
 
 #### § 119 Vorzeitige Leistungen und vorläufige Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012000000)
 
 (1) Bevor die Anspruchsvoraussetzungen nach § 4 festgestellt sind,
 können Geschädigte Leistungen der Krankenbehandlung sowie Leistungen
@@ -3702,9 +3862,11 @@ ist unverzüglich die endgültige Entscheidung zu treffen.
 
 
 ### Abschnitt 3 - Weitere Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004101000)
 
 
 #### § 120 Ansprüche gegen Schadensersatzpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012100000)
 
 (1) § 116 des Zehnten Buches gilt für den Übergang eines Anspruchs der
 oder des Berechtigten auf Ersatz eines Schadens auf den oder die
@@ -3731,6 +3893,7 @@ Arzneimitteln und Verbandmitteln.
 
 
 #### § 121 Erstattung von Leistungen durch öffentlich-rechtliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012200000)
 
 Hat ein Träger der Sozialen Entschädigung Leistungen erbracht und
 stellt sich nachträglich heraus, dass eine andere öffentlich-
@@ -3742,6 +3905,7 @@ für die verpflichtete Stelle gelten.
 
 
 #### § 122 Überzahlung von Geldleistungen nach dem Tod der oder des Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012300000)
 
 Hat der Träger der Sozialen Entschädigung Geldleistungen für die Zeit
 nach dem Tod der oder des Berechtigten zu Unrecht erbracht, gilt § 118
@@ -3749,6 +3913,7 @@ Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 
 #### § 122a Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE016100126)
 
 Die Leistungen nach § 3 Satz 1 Nummer 5 bis 7 sowie 11 und 12 werden
 in Monatsbeträgen zuerkannt, auf volle Eurobeträge aufgerundet und
@@ -3757,9 +3922,11 @@ zuerkannt.
 
 
 ## Kapitel 19 - Bundesstelle für Soziale Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004201000)
 
 
 ### § 123 Bundesstelle für Soziale Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012401000)
 
 Unter der Bezeichnung „Bundesstelle für Soziale Entschädigung“ führt
 das Bundesamt für Soziale Sicherung die Aufgaben nach § 124 aus. Dabei
@@ -3768,6 +3935,7 @@ Soziales.
 
 
 ### § 124 Aufgaben der Bundesstelle für Soziale Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012501126)
 
 (1) Die Bundesstelle für Soziale Entschädigung nimmt Aufgaben des
 Bundes auf dem Gebiet der Sozialen Entschädigung nach Maßgabe der
@@ -3845,6 +4013,7 @@ Bundesstelle für Soziale Entschädigung ganz oder teilweise auf Dritte
 
 
 ### § 125 Fachbeirat Soziale Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012600000)
 
 (1) Der Fachbeirat berät das Bundesministerium für Arbeit und Soziales
 und die Bundesstelle für Soziale Entschädigung in grundsätzlichen
@@ -3890,9 +4059,11 @@ Bundesstelle für Soziale Entschädigung.
 
 
 ## Kapitel 20 - Statistik und Bericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004301000)
 
 
 ### § 126 Amtliche Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012701000)
 
 (1) Die Bundesstelle für Soziale Entschädigung erstellt eine amtliche
 Statistik
@@ -3915,6 +4086,7 @@ Soziales vor und veröffentlicht sie in geeigneter Form.
 
 
 ### § 127 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012801126)
 
 (1) Zur Beurteilung der Auswirkungen dieses Buches und zu dessen
 Fortentwicklung werden folgende Merkmale erhoben:
@@ -4039,6 +4211,7 @@ folgende Merkmale erhoben:
 
 
 ### § 128 Erhebungsmerkmale zu den Ausgaben und Einnahmen der Sozialen Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE012901126)
 
 Zur Beurteilung der Auswirkungen dieses Buches und zu dessen
 Fortentwicklung wird jeweils die Gesamtsumme der Ausgaben und die
@@ -4048,6 +4221,7 @@ schädigenden Ereignisses.
 
 
 ### § 129 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013000000)
 
 Hilfsmerkmale sind:
 
@@ -4062,12 +4236,14 @@ Hilfsmerkmale sind:
 
 
 ### § 130 Stichtag für die Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013100000)
 
 Stichtag für die Erhebungen ist der letzte Kalendertag des jeweiligen
 Monats.
 
 
 ### § 131 Auskunftspflicht, Übermittlung statistischer Daten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013201126)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig
 sind die für die Durchführung der Sozialen Entschädigung sachlich
@@ -4102,6 +4278,7 @@ sind.
 
 
 ### § 132 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013300000)
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag einen Bericht
 über die Auswirkungen dieses Buches sowie über die gegebenenfalls
@@ -4113,9 +4290,11 @@ vier Jahre vorzulegen.
 
 
 ## Kapitel 21 - Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004401000)
 
 
 ### § 133 Aufteilung der Kosten zwischen Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013401000)
 
 Der Bund trägt die Ausgaben für Geldleistungen wegen schädigender
 Ereignisse im Geltungsbereich dieses Buches nach Kapitel 2 Abschnitt 2
@@ -4127,6 +4306,7 @@ den Ländern liegt, ist Kostenträger das nach § 113 zuständige Land.
 
 
 ### § 134 Kostentragung durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013500000)
 
 (1) Der Bund trägt die Ausgaben für Leistungen nach Kapitel 2
 Abschnitt 2 Unterabschnitt 1 in voller Höhe, wenn der oder die
@@ -4140,6 +4320,7 @@ Abschnitt 2 Unterabschnitt 2 und Unterabschnitt 3 in voller Höhe.
 
 
 ### § 135 Kostentragung durch die Länder
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013600000)
 
 (1) Die Länder tragen die Ausgaben für Leistungen nach Kapitel 2
 Abschnitt 2 Unterabschnitt 4 in voller Höhe.
@@ -4149,6 +4330,7 @@ Abschnitt 2 Unterabschnitt 4 in voller Höhe.
 
 
 ### § 136 Kostentragung beim Zusammentreffen von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013700000)
 
 In den Fällen des § 8 Absatz 2 sind die Kosten, die durch das
 Hinzutreten einer weiteren Schädigung verursacht werden, von dem Land
@@ -4158,9 +4340,11 @@ dieser nach allgemeinen Regeln die Kosten zu tragen hat.
 
 
 ## Kapitel 22 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004501000)
 
 
 ### § 137 Zeitlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013801000)
 
 Dieses Buch gilt für Anträge auf Leistungen der Sozialen
 Entschädigung, die ab dem 1. Januar 2024 gestellt werden, soweit die
@@ -4168,6 +4352,7 @@ Vorschriften dieses Kapitels nichts Abweichendes bestimmen.
 
 
 ### § 138 Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE013902000)
 
 (1) Personen, die in der Zeit vom 16. Mai 1976 bis 31. Dezember 2023
 geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die
@@ -4229,6 +4414,7 @@ Tatzeitpunkt geltenden Fassung erfüllt sind.
 
 
 ### § 139 Besonderer zeitlicher Geltungsbereich für Kriegsopfer beider Weltkriege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014001000)
 
 Personen, die vor dem 1. Januar 2024 geschädigt worden sind, erhalten
 Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem
@@ -4239,6 +4425,7 @@ Anspruchsvoraussetzungen weiterhin vorliegen.
 
 
 ### § 140 Besonderer zeitlicher Geltungsbereich für Zivildienstgeschädigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014100000)
 
 Personen, die vor dem 1. Januar 2024 geschädigt worden sind, erhalten
 Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem
@@ -4247,6 +4434,7 @@ erfüllt waren.
 
 
 ### § 141 Besonderer zeitlicher Geltungsbereich für Geschädigte durch Schutzimpfungen oder einer anderen Maßnahme der spezifischen Prophylaxe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014200000)
 
 Personen, die vor dem Inkrafttreten dieses Buches geschädigt worden
 sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen
@@ -4258,12 +4446,15 @@ erfüllt waren.
 
 
 ## Kapitel 23 - Vorschriften zu Besitzständen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004601000)
 
 
 ### Abschnitt 1 - Grundsätze und Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004701000)
 
 
 #### § 142 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014302126)
 
 (1) Personen, deren Ansprüche nach dem Bundesversorgungsgesetz oder
 nach einem Gesetz, das das Bundesversorgungsgesetz ganz oder teilweise
@@ -4288,6 +4479,7 @@ Leistungen nach Absatz 1 Satz 1 erbracht.
 
 
 #### § 143 Heil- und Krankenbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014401126)
 
 (1) Geschädigte, deren Anspruch auf Heilbehandlung nach dem
 Bundesversorgungsgesetz oder nach einem Gesetz, das das
@@ -4330,6 +4522,7 @@ Verwaltungsbehörden oder Krankenkassen.
 
 
 #### § 143a Wahrnehmung von Pflichten bei der Versorgung mit Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE016200126)
 
 (1) Die zuständige Verwaltungsbehörde nimmt für Hilfsmittel, die bis
 zum 31. Dezember 2023 nach dem Bundesversorgungsgesetz oder nach einem
@@ -4349,6 +4542,7 @@ nach Auftragserteilung zu erstatten sind.
 
 
 #### § 144 Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014502126)
 
 (1) Berechtigte nach § 142 Absatz 1, die im Dezember 2023
 Geldleistungen erhalten haben, erhalten einen monatlichen Betrag, der
@@ -4447,6 +4641,7 @@ Geldleistungen festgestellt wird.
 
 
 #### § 145 Befristete oder auf Zeit erbrachte Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014603126)
 
 (1) Berechtigte nach § 142 Absatz 1 oder Absatz 2, die
 
@@ -4555,6 +4750,7 @@ Berechtigten mindestens gleichwertig sind.
 
 
 #### § 146 Pflegeleistungen für Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014700000)
 
 (1) Personen, die Leistungen nach § 35 Absatz 2 und 6 des
 Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
@@ -4571,6 +4767,7 @@ entsprach.
 
 
 #### § 147 Pflegeausgleich bei langjähriger schädigungsbedingter Pflege
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014803131)
 
 Witwen und Witwer erhalten einen monatlichen Pflegeausgleich, wenn
 
@@ -4598,6 +4795,7 @@ aufgerundet.
 
 
 #### § 148 Monatliche Entschädigungszahlung für Witwen und Witwer bei nicht schädigungsbedingtem Tod
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE014903131)
 
 (1) Witwen und Witwer eines oder einer nicht schädigungsbedingt
 verstorbenen Geschädigten erhalten eine monatliche
@@ -4684,9 +4882,11 @@ nicht schädigungsbedingtem Tod abgegolten.
 
 
 ### Abschnitt 2 - Neufeststellungen und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004801000)
 
 
 #### § 149 Neufeststellungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015001000)
 
 (1) Neufeststellungen zur Anspruchsberechtigung und zum Grad der
 Schädigungsfolgen erfolgen auf Antrag und richten sich nach den
@@ -4703,6 +4903,7 @@ Verringerung des Grades der Schädigungsfolgen ergeben.
 
 
 #### § 150 Anpassung, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015100000)
 
 Der nach den §§ 144 und 145 festgestellte Geldbetrag sowie die Beträge
 aus den §§ 147 und 148 werden jeweils entsprechend dem Prozentsatz
@@ -4716,9 +4917,11 @@ gesetzlichen Rentenversicherung angepasst werden.
 
 
 ### Abschnitt 3 - Vertrauensschutz für die Absicherung gegen Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG004901000)
 
 
 #### § 151 Absicherung gegen Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015202126)
 
 (1) Personen, die bis zum 1. Januar 2024 nach § 10 des
 Bundesversorgungsgesetzes oder in entsprechender Anwendung des § 10
@@ -4741,9 +4944,11 @@ in der gesetzlichen Krankenversicherung.
 
 
 ### Abschnitt 4 - Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG005001000)
 
 
 #### § 152 Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015303126)
 
 (1) Anstelle der Leistungen nach diesem Kapitel können Berechtigte
 nach § 142 die Erbringung von Leistungen nach den Kapiteln 1 bis 4 und
@@ -4812,15 +5017,18 @@ Vollwaise nach § 46 des Bundesversorgungsgesetzes haben.
 
 
 #### § 153 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015400000)
 
 Die Geltendmachung des Wahlrechts bedarf der Schriftform und ist
 gegenüber dem Träger der Sozialen Entschädigung zu erklären.
 
 
 ### Abschnitt 5 - Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG005101000)
 
 
 #### § 154 Anrechnungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015501000)
 
 Geldleistungen nach diesem Kapitel bleiben bei anderen
 Sozialleistungen und bei Leistungen nach dem
@@ -4832,9 +5040,11 @@ seitdem vollzogenen Anpassungen nach § 150 nicht überschreiten.
 
 
 ### Abschnitt 6 - Kostentragung und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG005201000)
 
 
 #### § 155 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015602126)
 
 (1) Der Bund trägt die Kosten für Leistungen an Personen, deren nach §
 142 festgestellter Anspruch am 31. Dezember 2023
@@ -4872,6 +5082,7 @@ Abgeltung oder an Stelle einer Sachleistung gezahlt werden.
 
 
 #### § 156 Pauschaliertes Abrechnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015700000)
 
 (1) Zur Vereinfachung der Abrechnung erstattet der Bund den Ländern in
 einem pauschalierten Verfahren
@@ -4891,15 +5102,18 @@ Jahr 2024, die Voraussetzungen für die in Absatz 1 genannten Quoten.
 
 
 #### § 157 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015801126)
 
 Für die Durchführung dieses Kapitels sind die nach Landesrecht
 bestimmten Träger zuständig.
 
 
 ### Abschnitt 7 - Umsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNG005301000)
 
 
 #### § 158 Umsetzungsbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_14/BJNR265210019.html#BJNR265210019BJNE015901000)
 
 Zur Begleitung der Umsetzung der Vorschriften zu Besitzständen treffen
 sich Bund und Länder einmal jährlich, erstmalig zwei Jahre nach

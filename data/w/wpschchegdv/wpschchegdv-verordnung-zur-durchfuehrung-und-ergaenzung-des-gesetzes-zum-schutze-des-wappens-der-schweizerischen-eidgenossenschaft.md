@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpschchegdv/BJNR011550936.html#BJNR011550936BJNE000100311)
 
 Auf Grund des § 3 des Gesetzes zum Schutze des Wappens der
 Schweizerischen Eidgenossenschaft vom 27. März 1935 (Reichsgesetzbl. I
@@ -28,6 +29,7 @@ S. 501) wird folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wpschchegdv/BJNR011550936.html#BJNR011550936BJNE000200311)
 
 Ein aufrechtes, gleicharmiges, geradliniges weißes Kreuz auf grünem
 Grund gilt nicht als Nachahmung des schweizerischen Wappens, die
@@ -35,6 +37,7 @@ geeignet ist, Verwechslungen hervorzurufen (§ 1 Abs. 2 des Gesetzes).
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wpschchegdv/BJNR011550936.html#BJNR011550936BJNE000302160)
 
 (1) Das in § 1 beschriebene Zeichen wird für den allgemeinen Gebrauch
 freigegeben.
@@ -51,11 +54,13 @@ eingetragen werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wpschchegdv/BJNR011550936.html#BJNR011550936BJNE000400311)
 
 -
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wpschchegdv/BJNR011550936.html#BJNR011550936BJNE000500311)
 
 Der Reichsminister des Innern
 

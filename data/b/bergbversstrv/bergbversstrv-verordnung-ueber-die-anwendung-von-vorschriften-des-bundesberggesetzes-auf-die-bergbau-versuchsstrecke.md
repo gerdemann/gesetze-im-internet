@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## § 1 Anwendung von Vorschriften des Bundesberggesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bergbversstrv/BJNR015600982.html#BJNR015600982BJNE000101377)
 
 Für die Bergbau-Versuchsstrecke gelten die §§ 50 bis 74 und 145 Abs. 1
 Nr. 6, 9, 14 bis 16 und 18 des Bundesberggesetzes entsprechend.
 
 
 ## § 2 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bergbversstrv/BJNR015600982.html#BJNR015600982BJNE000200328)
 
 (1) Die nach § 51 des Bundesberggesetzes für die Errichtung oder
 Führung des Betriebes erforderlichen Betriebspläne sind innerhalb
@@ -61,6 +63,7 @@ Bundesberggesetzes ändert.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bergbversstrv/BJNR015600982.html#BJNR015600982BJNE000301377)
 
 (weggefallen)
 

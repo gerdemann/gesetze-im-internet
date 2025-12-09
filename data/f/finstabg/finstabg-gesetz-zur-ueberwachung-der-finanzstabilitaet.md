@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Wahrung der Finanzstabilität
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000200000)
 
 (1) Die Deutsche Bundesbank trägt im Inland zur Wahrung der Stabilität
 des Finanzsystems (Finanzstabilität) bei, indem sie insbesondere
@@ -51,6 +52,7 @@ entsprechend.
 
 
 ## § 2 Ausschuss für Finanzstabilität
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000903128)
 
 (1) Zur Stärkung der Zusammenarbeit im Bereich der Finanzstabilität
 wird beim Bundesministerium der Finanzen ein Ausschuss für
@@ -148,6 +150,7 @@ Verhinderung durch dessen Stellvertreter vertreten.
 
 
 ## § 3 Warnungen und Empfehlungen
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000400000)
 
 (1) Der Ausschuss für Finanzstabilität kann in Warnungen an einen
 bestimmten Adressaten auf Gefahren hinweisen, welche die
@@ -182,6 +185,7 @@ unterrichten und diesem Gelegenheit zur Stellungnahme zu geben.
 
 
 ## § 4 Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000500000)
 
 (1) Der Ausschuss für Finanzstabilität arbeitet eng mit dem
 Europäischen Ausschuss für Systemrisiken und, soweit notwendig, mit
@@ -203,6 +207,7 @@ Systemrisiken, bevor er die Warnung oder Empfehlung abgibt.
 
 
 ## § 5 Zusammenarbeit der Deutschen Bundesbank mit der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000604124)
 
 (1) Die Deutsche Bundesbank und die Bundesanstalt haben sich sämtliche
 Informationen, insbesondere Beobachtungen, Feststellungen und
@@ -233,6 +238,7 @@ entsprechend.
 
 
 ## § 6 Mitteilungspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000700000)
 
 (1) Finanzielle Kapitalgesellschaften im Sinne des Anhangs A Kapitel 2
 Nummer 2.32 bis 2.67 der Verordnung (EG) Nr. 2223/96 des Rates vom 25.
@@ -281,6 +287,7 @@ sind insbesondere nähere Bestimmungen zu erlassen über
 
 
 ## § 7 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/finstabg/BJNR236910012.html#BJNR236910012BJNE000800000)
 
 Die Mitglieder des Ausschusses für Finanzstabilität und Personen, die
 im Dienst der im Ausschuss für Finanzstabilität vertretenen

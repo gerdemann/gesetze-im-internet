@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/BJNR169020007.html#BJNR169020007BJNE000100000)
 
 Auf Grund des Artikels 2 des Gesetzes vom 2. Mai 1996 zu dem Beschluss
 des Obersten Rates des Europäischen Hochschulinstituts Nr. 8/93 vom 2.
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/BJNR169020007.html#BJNR169020007BJNE000200000)
 
 Das in Berlin am 24. August 2007 unterzeichnete Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Europäischen
@@ -43,6 +45,7 @@ Abkommen werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/BJNR169020007.html#BJNR169020007BJNE000300000)
 
 Soweit der Bund nach den in Artikel 1 genannten Abkommen die von der
 Deutschen Rentenversicherung Bund auf das Versorgungssystem der
@@ -53,6 +56,7 @@ Beträge an die Deutsche Rentenversicherung Bund.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/BJNR169020007.html#BJNR169020007BJNE000400000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die in Artikel
 1 genannten Abkommen nach ihrem jeweiligen Artikel 5 in Kraft treten.

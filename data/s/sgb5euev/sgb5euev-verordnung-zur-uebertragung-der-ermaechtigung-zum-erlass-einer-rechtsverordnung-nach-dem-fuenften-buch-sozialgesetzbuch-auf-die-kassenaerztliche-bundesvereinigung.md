@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5e_v/BJNR0290A0024.html#BJNR0290A0024BJNE000100000)
 
 Auf Grund des § 370a Absatz 4 Satz 4 des Fünften Buches
 Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch
@@ -26,6 +27,7 @@ eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Übertragung der Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb5e_v/BJNR0290A0024.html#BJNR0290A0024BJNE000200000)
 
 Die in § 370a Absatz 4 Satz 2 und 3 des Fünften Buches
 Sozialgesetzbuch enthaltene Ermächtigung zum Erlass einer
@@ -34,6 +36,7 @@ Rechtsverordnung wird auf die Kassenärztliche Bundesvereinigung
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgb5e_v/BJNR0290A0024.html#BJNR0290A0024BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

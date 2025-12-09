@@ -20,17 +20,20 @@ Geändert durch
 
 
 ## § 1 Art und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000100001)
 
 Zur Darstellung und Bewertung der Situation überschuldeter privater
 Personen wird eine Bundesstatistik durchgeführt.
 
 
 ## § 2 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000200001)
 
 Die Daten werden vom Statistischen Bundesamt erhoben und aufbereitet.
 
 
 ## § 3 Erhebungseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000300001)
 
 Erhebungseinheiten sind
 
@@ -58,12 +61,14 @@ Erhebungseinheiten sind
 
 
 ## § 4 Periodizität
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000400001)
 
 Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr
 (Berichtsjahr) durchgeführt, erstmals für das Berichtsjahr 2011.
 
 
 ## § 5 Erhebungsmerkmale, Berichtszeitpunkte und -zeiträume
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000501125)
 
 (1) Für die Schuldner- und Insolvenzberatungsstellen nach § 3 Nummer 1
 bis 3 werden folgende Erhebungsmerkmale erfasst:
@@ -193,6 +198,7 @@ Beratung erfasst.
 
 
 ## § 6 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000700000)
 
 Hilfsmerkmale der Erhebung sind
 
@@ -221,6 +227,7 @@ Statistischen Bundesamt abschließend aufbereitet und geprüft sind.
 
 
 ## § 7 Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000800000)
 
 (1) Die Erteilung der Auskunft nach den §§ 5 und 6 durch die
 Schuldner- oder Insolvenzberatungsstellen zur Durchführung der
@@ -237,6 +244,7 @@ elektronisch erteilt werden.
 
 
 ## § 8 Übermittlung von Tabellen und Einzelangaben an oberste Bundes- oder Landesbehörden oder an Statistikstellen der Gemeinden oder Gemeindeverbände
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE000900000)
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und
 für Zwecke der Planung dürfen den obersten Bundes- oder Landesbehörden
@@ -258,6 +266,7 @@ Gemeindeverbände, gewährleistet ist.
 
 
 ## § 9 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE001000000)
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember
 2014 einen Bericht vor, in dem sie darlegt,
@@ -276,6 +285,7 @@ Der Bericht darf keine personenbezogenen Daten enthalten.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_schuldstatg/BJNR308300011.html#BJNR308300011BJNE001100000)
 
 Dieses Gesetz tritt am 1. Januar 2012 in Kraft.
 

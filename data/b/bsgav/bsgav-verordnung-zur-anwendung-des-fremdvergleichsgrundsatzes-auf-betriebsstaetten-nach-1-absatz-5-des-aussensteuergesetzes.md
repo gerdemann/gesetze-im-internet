@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000100000)
 
 Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel
 6 Nummer 1 Buchstabe e des Gesetzes vom 26. Juni 2013 (BGBl. I S.
@@ -29,12 +30,15 @@ Finanzen:
 
 
 ## Abschnitt 1 - Allgemeiner Teil
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000200000)
 
 
 #### § 1 Zurechnung von Einkünften zu einer Betriebsstätte
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000300000)
 
 (1) Für die steuerliche Zurechnung von Einkünften zu einer
 Betriebsstätte eines Unternehmens nach § 1 Absatz 5 des
@@ -88,6 +92,7 @@ Geschäftstätigkeit der Betriebsstätte
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000400000)
 
 (1) Für die Zwecke dieser Verordnung ist ein Unternehmen inländisch,
 wenn sich der Ort der tatsächlichen Geschäftsleitung im Inland
@@ -188,6 +193,7 @@ und Vorteile. Zu den Vermögenswerten gehören insbesondere
 
 
 #### § 3 Hilfs- und Nebenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000502123)
 
 (1) Für eine Betriebsstätte ist zum Beginn eines Wirtschaftsjahres
 eine Hilfs- und Nebenrechnung aufzustellen, während des
@@ -264,9 +270,11 @@ erstellen, die eine Aufstellung der Vermögenswerte enthält.
 
 
 ### Unterabschnitt 2 - Zuordnungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000300000)
 
 
 #### § 4 Zuordnung von Personalfunktionen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000600000)
 
 (1) Eine Personalfunktion ist der Betriebsstätte zuzuordnen, in der
 die Personalfunktion ausgeübt wird. Eine Personalfunktion ist einer
@@ -293,6 +301,7 @@ widerspricht.
 
 
 #### § 5 Zuordnung von materiellen Wirtschaftsgütern
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000700000)
 
 (1) Für die Zuordnung eines materiellen Wirtschaftsguts zu einer
 Betriebsstätte ist dessen Nutzung die maßgebliche Personalfunktion.
@@ -327,6 +336,7 @@ nicht widerspricht.
 
 
 #### § 6 Zuordnung von immateriellen Werten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000800000)
 
 (1) Für die Zuordnung eines immateriellen Werts zu einer
 Betriebsstätte ist dessen Schaffung oder dessen Erwerb die maßgebliche
@@ -360,6 +370,7 @@ größten Bedeutung ausgeübt werden, auch anteilig zugeordnet werden.
 
 
 #### § 7 Zuordnung von Beteiligungen, Finanzanlagen und ähnlichen Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE000900000)
 
 (1) Für die Zuordnung einer Beteiligung, einer Finanzanlage oder eines
 ähnlichen Vermögenswerts zu einer Betriebsstätte ist die Nutzung der
@@ -395,6 +406,7 @@ die den Absätzen 1 bis 3 nicht widerspricht.
 
 
 #### § 8 Zuordnung von sonstigen Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001000000)
 
 (1) Für die Zuordnung eines nicht in den §§ 5 bis 7 genannten
 Vermögenswerts (sonstiger Vermögenswert) zu einer Betriebsstätte ist
@@ -427,6 +439,7 @@ nicht widerspricht.
 
 
 #### § 9 Zuordnung von Geschäftsvorfällen des Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001100000)
 
 (1) Für die Zuordnung eines Geschäftsvorfalls (§ 1 Absatz 4 Satz 1
 Nummer 1 des Außensteuergesetzes), den das Unternehmen mit einem
@@ -461,6 +474,7 @@ widerspricht.
 
 
 #### § 10 Zuordnung von Chancen und Risiken
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001200000)
 
 (1) Stehen Chancen und Risiken im unmittelbaren Zusammenhang mit einem
 Vermögenswert im Sinne der §§ 5 bis 8 oder mit einem Geschäftsvorfall
@@ -501,6 +515,7 @@ widerspricht.
 
 
 #### § 11 Zuordnung von Sicherungsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001300000)
 
 (1) Schließt ein Unternehmen ein Sicherungsgeschäft zu dem Zweck ab,
 
@@ -559,9 +574,11 @@ Geschäfte und der zugehörigen Vermögenswerte die §§ 5 bis 8.
 
 
 ### Unterabschnitt 3 - Dotationskapital, übrige Passivposten und Finanzierungsaufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000400000)
 
 
 #### § 12 Dotationskapital inländischer Betriebsstätten ausländischer Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001400000)
 
 (1) Einer inländischen Betriebsstätte eines nach ausländischem Recht
 buchführungspflichtigen oder tatsächlich Bücher führenden,
@@ -645,6 +662,7 @@ anzupassen.
 
 
 #### § 13 Dotationskapital ausländischer Betriebsstätten inländischer Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001500000)
 
 (1) Einer ausländischen Betriebsstätte eines nach inländischem Recht
 buchführungspflichtigen oder tatsächlich Bücher führenden,
@@ -685,6 +703,7 @@ ist das Dotationskapital entsprechend anzupassen.
 
 
 #### § 14 Zuordnung übriger Passivposten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001600000)
 
 (1) Der Betriebsstätte eines Unternehmens, das nach inländischem oder
 ausländischem Recht buchführungspflichtig ist oder tatsächlich Bücher
@@ -713,6 +732,7 @@ Unternehmens aufzufüllen (indirekte Zuordnung).
 
 
 #### § 15 Zuordnung von Finanzierungsaufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001700000)
 
 (1) Finanzierungsaufwendungen eines Unternehmens, die mit Passivposten
 zusammenhängen, die einer Betriebsstätte dieses Unternehmens nach § 14
@@ -760,9 +780,11 @@ Außenumsätzen des inländischen Unternehmens entspricht. Absatz 3 Satz
 
 
 ### Unterabschnitt 4 - Anzunehmende schuldrechtliche Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000500000)
 
 
 #### § 16 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001800000)
 
 (1) Zwischen einer Betriebsstätte und dem übrigen Unternehmen liegt
 eine anzunehmende schuldrechtliche Beziehung im Sinne des § 1 Absatz 4
@@ -822,6 +844,7 @@ Betriebsstätte und dem übrigen Unternehmen und endet spätestens
 
 
 #### § 17 Finanzierungsfunktion innerhalb eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE001900000)
 
 (1) Eine Finanzierungsfunktion innerhalb eines Unternehmens umfasst
 die Liquiditätssteuerung durch eine Betriebsstätte
@@ -892,9 +915,11 @@ im Sinne des § 7 oder § 8. Sie sind nicht zu verzinsen.
 
 
 ## Abschnitt 2 - Besonderheiten für Bankbetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000600000)
 
 
 ### § 18 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002001123)
 
 Eine Betriebsstätte,
 
@@ -928,6 +953,7 @@ diesem Abschnitt keine abweichende Regelung getroffen wird.
 
 
 ### § 19 Besondere Zuordnungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002100000)
 
 (1) Ein Vermögenswert, der Gegenstand von Bankgeschäften im Sinne des
 § 1 Absatz 1 des Kreditwesengesetzes oder von Finanzdienstleistungen
@@ -1015,6 +1041,7 @@ Zurverfügungstellung finanzieller Mittel gilt, über § 16 Absatz 3 Satz
 
 
 ### § 20 Dotationskapital inländischer Bankbetriebsstätten ausländischer Kreditinstitute, Bankenaufsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002201123)
 
 (1) Einer inländischen Bankbetriebsstätte eines ausländischen
 Kreditinstituts ist der Anteil am Eigenkapital des ausländischen
@@ -1113,6 +1140,7 @@ unterliegen.
 
 
 ### § 21 Dotationskapital ausländischer Bankbetriebsstätten inländischer Kreditinstitute, Bankenaufsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002300000)
 
 (1) Der ausländischen Bankbetriebsstätte eines inländischen
 Kreditinstituts ist ein Dotationskapital entsprechend § 13 Absatz 1
@@ -1186,6 +1214,7 @@ unterliegt.
 
 
 ### § 22 Globaler Handel mit Finanzinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002401116)
 
 (1) Finanzinstrumente im Sinne des § 1 Absatz 11 Satz 1 des
 Kreditwesengesetzes, mit denen durch Finanzinstitute auf Märkten der
@@ -1239,9 +1268,11 @@ Fremdvergleichsgrundsatz besser entspricht.
 
 
 ## Abschnitt 3 - Besonderheiten für Versicherungsbetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000700000)
 
 
 ### § 23 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002500000)
 
 Eine Betriebsstätte,
 
@@ -1260,6 +1291,7 @@ soweit in diesem Abschnitt keine abweichende Regelung getroffen wird.
 
 
 ### § 24 Besondere Zuordnungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002600000)
 
 (1) Ein Vermögenswert, der durch den Abschluss eines
 Versicherungsvertrags entsteht, ist einer Versicherungsbetriebsstätte
@@ -1380,6 +1412,7 @@ Versicherungsbetriebsstätte zuzuordnen,
 
 
 ### § 25 Dotationskapital inländischer Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002700000)
 
 (1) Zur Bestimmung des Dotationskapitals inländischer
 Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen
@@ -1433,6 +1466,7 @@ inländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt §
 
 
 ### § 26 Dotationskapital ausländischer Versicherungsbetriebsstätten inländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002800000)
 
 (1) Der ausländischen Versicherungsbetriebsstätte eines inländischen
 Versicherungsunternehmens ist ein Dotationskapital entsprechend § 13
@@ -1472,6 +1506,7 @@ ausländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt §
 
 
 ### § 27 Zuordnung von Einkünften aus Vermögenswerten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE002900000)
 
 (1) Einkünfte aus Vermögenswerten sind einer
 Versicherungsbetriebsstätte zuzuordnen, wenn diese Vermögenswerte
@@ -1498,6 +1533,7 @@ Versicherungsunternehmens zuzuordnen.
 
 
 ### § 28 Rückversicherung innerhalb eines Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003000000)
 
 Das versicherungstechnische Risiko, das einer
 Versicherungsbetriebsstätte auf Grund der zutreffenden Zuordnung eines
@@ -1509,6 +1545,7 @@ zugeordnet werden.
 
 
 ### § 29 Pensionsfonds und Versicherungs-Zweckgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003100000)
 
 Die §§ 23 bis 28 gelten sinngemäß für eine Betriebsstätte, die mit
 Versicherungsgeschäften vergleichbare Geschäfte betreibt und die
@@ -1527,9 +1564,11 @@ Versicherungsgeschäften vergleichbare Geschäfte betreibt und die
 
 
 ## Abschnitt 4 - Besonderheiten für Bau- und Montagebetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000800000)
 
 
 ### § 30 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003200000)
 
 Für eine Betriebsstätte, die Bau- oder Montagearbeiten durchführt und
 nach Abschluss der Bau- oder Montagearbeiten endet (Bau- und
@@ -1540,6 +1579,7 @@ Montageunternehmen.
 
 
 ### § 31 Besondere Zuordnungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003300000)
 
 (1) Ein materielles Wirtschaftsgut, das in einer Bau- und
 Montagebetriebsstätte genutzt wird, ist dieser nur dann gemäß § 5
@@ -1583,6 +1623,7 @@ zuzuordnen ist. Diese Zuordnung ist nur dann mit den Rechtsfolgen des
 
 
 ### § 32 Anzunehmende schuldrechtliche Beziehungen, die als Dienstleistung anzusehen sind
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003400000)
 
 (1) Die Mitwirkung einer Bau- und Montagebetriebsstätte an der
 Erfüllung des vom Bau- und Montageunternehmen abgeschlossenen Bau- und
@@ -1621,6 +1662,7 @@ Dienstleistung der Bau- und Montagebetriebsstätte stehen.
 
 
 ### § 33 Anzunehmende schuldrechtliche Beziehungen in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003500000)
 
 (1) Abweichend von § 32 ist der Verrechnungspreis für die anzunehmende
 schuldrechtliche Beziehung zwischen der Bau- und Montagebetriebsstätte
@@ -1667,6 +1709,7 @@ das dem Fremdvergleichsgrundsatz besser entspricht.
 
 
 ### § 34 Übergangsregelung für Bau- und Montagebetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003600000)
 
 (1) Das Bau- und Montageunternehmen kann die Einkünfte einer bereits
 vor dem 1. Januar 2013 begründeten Bau- und Montagebetriebsstätte bis
@@ -1691,9 +1734,11 @@ werden, anwenden, wenn es
 
 
 ## Abschnitt 5 - Besonderheiten für Förderbetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG000900000)
 
 
 ### § 35 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003700000)
 
 (1) Für eine Betriebsstätte, die zur Förderung von Bodenschätzen
 entsteht und nach Abschluss der Förderung endet
@@ -1707,6 +1752,7 @@ zu fördern.
 
 
 ### § 36 Besondere Zuordnungsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003800000)
 
 (1) Ein Explorationsrecht, das für die Ausübung von Personalfunktionen
 in einer Förderbetriebsstätte eines Bergbauunternehmens oder eines
@@ -1748,6 +1794,7 @@ Vermögenswerten zu einer Förderbetriebsstätte die §§ 5 bis 8.
 
 
 ### § 37 Anzunehmende schuldrechtliche Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE003900000)
 
 (1) Die Tätigkeit einer Förderbetriebsstätte unter Nutzung eines
 Explorationsrechts, das von einem Bergbauunternehmen oder einem Erdöl-
@@ -1797,6 +1844,7 @@ Explorationsrechts zur Förderbetriebsstätte ausgeht.
 
 
 ### § 38 Übergangsregelung für Förderbetriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE004000000)
 
 (1) Das Bergbauunternehmen oder das Erdöl- oder Erdgasunternehmen kann
 die Einkünfte einer bereits vor dem 1. Januar 2013 begründeten
@@ -1822,9 +1870,11 @@ wenn es
 
 
 ## Abschnitt 6 - Ständige Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG001000000)
 
 
 ### § 39 Ständige Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE004100000)
 
 (1) Diese Verordnung ist sinngemäß auf ständige Vertreter im Sinne des
 § 13 der Abgabenordnung anzuwenden.
@@ -1838,9 +1888,11 @@ Personalfunktionen des Vertretenen zu behandeln.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNG001100000)
 
 
 ### § 40 Erstmalige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE004201360)
 
 Diese Verordnung ist für Wirtschaftsjahre anzuwenden, die nach dem 31.
 Dezember 2014 beginnen. § 3 Absatz 3 in der Fassung des Artikels 5 der
@@ -1849,11 +1901,13 @@ Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2016 beginnen.
 
 
 ### § 41 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE004300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bsgav/BJNR160300014.html#BJNR160300014BJNE004400000)
 
 Der Bundesrat hat zugestimmt.
 

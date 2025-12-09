@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000000000)
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2, des § 42 Abs. 1 sowie des
 § 84 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510)
@@ -31,6 +32,7 @@ wird angeordnet:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000101310)
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind -
 jeweils für die ihnen unterstellten Beamtinnen/Beamten - außer der
@@ -67,6 +69,7 @@ Sicherung
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000200000)
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen nach § 33
 Abs. 3 Nr. 1 des Bundesdisziplinargesetzes wird gemäß § 33 Abs. 5 des
@@ -75,6 +78,7 @@ Dienstvorgesetzten übertragen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000300000)
 
 Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Abs. 2 Satz 1
 des Bundesdisziplinargesetzes gegen Beamtinnen/Beamte der
@@ -87,6 +91,7 @@ gerichtliche Vertretung des Dienstherrn zuständig.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000400000)
 
 Die Befugnis, Widerspruchsbescheide nach § 42 Abs. 1 Satz 1 des
 Bundesdisziplinargesetzes bei Beamtinnen/Beamten der Besoldungsgruppen
@@ -96,6 +101,7 @@ Dienstvorgesetzten übertragen.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000500000)
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde bei
 Ruhestandsbeamtinnen/Ruhestandsbeamten der Besoldungsgruppen A 1 bis A
@@ -105,12 +111,14 @@ Dienstvorgesetzten übertragen.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000600000)
 
 Ich behalte mir in Einzelfällen oder in Gruppen von Fällen
 Entscheidungen nach den Abschnitten II bis V dieser Anordnung vor.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgbmingano/BJNR154100002.html#BJNR154100002BJNE000700000)
 
 Die Bundesministerin für Gesundheit
 

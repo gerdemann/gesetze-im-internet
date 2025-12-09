@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000100000)
 
 Diese Verordnung ist anzuwenden auf die vorläufigen
 Sicherheitsuntersuchungen im Standortauswahlverfahren für die
@@ -29,6 +30,7 @@ Einhaltung der Regelungen dieser Verordnung zu gewährleisten.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000200000)
 
 Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des
 Standortauswahlgesetzes und nach § 2 der
@@ -37,6 +39,7 @@ S. 2094) in der jeweils geltenden Fassung anzuwenden.
 
 
 ## § 3 Untersuchungsraum
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000300000)
 
 (1) In den vorläufigen Sicherheitsuntersuchungen sind die
 Untersuchungsräume auszuweisen. Untersuchungsräume sind diejenigen
@@ -69,6 +72,7 @@ Sicherheitsuntersuchung durchzuführen.
 
 
 ## § 4 Allgemeine Anforderungen an die vorläufigen Sicherheitsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000400000)
 
 (1) Jede vorläufige Sicherheitsuntersuchung muss mindestens die in den
 §§ 5 bis 12 aufgeführten Inhalte umfassen. Der Umfang dieser Inhalte
@@ -114,6 +118,7 @@ darzustellen.
 
 
 ## § 5 Geosynthese
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000500000)
 
 (1) Für jede vorläufige Sicherheitsuntersuchung ist eine Geosynthese
 zu erstellen.
@@ -133,6 +138,7 @@ begründen.
 
 
 ## § 6 Vorläufiges Sicherheitskonzept; vorläufige Auslegung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000600000)
 
 (1) Für den Untersuchungsraum ist in der repräsentativen vorläufigen
 Sicherheitsuntersuchung nach § 14 Absatz 1 des Standortauswahlgesetzes
@@ -187,6 +193,7 @@ vorläufige Auslegung des Endlagers ausreichend:
 
 
 ## § 7 Analyse des Endlagersystems
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000700000)
 
 (1) Grundlage für die Analyse des geplanten Endlagersystems im
 Untersuchungsraum sind die Geosynthese nach § 5, das vorläufige
@@ -294,6 +301,7 @@ Absätzen 1 bis 3 und 5 folgendes Vorgehen zu wählen:
 
 
 ## § 8 Betriebliche Sicherheitsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000800000)
 
 (1) Die betriebliche Sicherheitsanalyse hat alle Anlagenzustände des
 Endlagers, einschließlich der übertägigen Anlagen, während der
@@ -323,6 +331,7 @@ Endlagersicherheitsanforderungsverordnung zu erfassen.
 
 
 ## § 9 Langzeitsicherheitsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE000900000)
 
 (1) Die Langzeitsicherheitsanalyse muss den gesamten
 Bewertungszeitraum von einer Million Jahren ab dem vorgesehenen
@@ -373,6 +382,7 @@ Modellierungen auf Grundlage realitätsnaher Annahmen durchzuführen.
 
 
 ## § 10 Umfassende Bewertung des Endlagersystems
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE001000000)
 
 Ausgehend von den Ergebnissen der Analyse des Endlagersystems nach § 7
 sind die Sicherheit des Endlagersystems sowie seine Robustheit zu
@@ -384,6 +394,7 @@ Endlagersicherheitsanforderungsverordnung erfüllt werden können.
 
 
 ## § 11 Bewertung von Ungewissheiten
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE001100000)
 
 (1) Die zum Zeitpunkt der Erstellung der jeweiligen vorläufigen
 Sicherheitsuntersuchung bestehenden Ungewissheiten sind systematisch
@@ -405,6 +416,7 @@ sicherheitsgerichteten Aussagen erhöht werden kann.
 
 
 ## § 12 Ableitung des Erkundungs-, Forschungs- und Entwicklungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/endlsiuntv/BJNR210300020.html#BJNR210300020BJNE001200000)
 
 (1) Anhand der Bewertung des Endlagersystems und der Ungewissheiten
 nach den §§ 10 und 11 sind

@@ -26,14 +26,17 @@ Mittelbare änderung durch
 
 
 ## Teil I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000104310)
 
 
 
 ### Abschnitt 1 - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG002100310)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002102301)
 
 (1) Dieses Gesetz gilt für die öffentlich-rechtliche
 Verwaltungstätigkeit der Behörden
@@ -72,6 +75,7 @@ geregelt ist.
 
 
 #### § 2 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002207310)
 
 (1) Dieses Gesetz gilt nicht für die Tätigkeit der Kirchen, der
 Religionsgesellschaften und Weltanschauungsgemeinschaften sowie ihrer
@@ -126,6 +130,7 @@ Verbände und Einrichtungen.
 
 
 #### § 3 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002302301)
 
 (1) Örtlich zuständig ist
 
@@ -192,6 +197,7 @@ zuständige Behörde ist unverzüglich zu unterrichten.
 
 
 #### § 3a Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013107125)
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
@@ -279,10 +285,12 @@ der Erklärung zur Verfügung zu stellen.
 
 
 ### Abschnitt 2 - Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG002000310)
 
 
 
 #### § 4 Amtshilfepflicht
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002402301)
 
 (1) Jede Behörde leistet anderen Behörden auf Ersuchen ergänzende
 Hilfe (Amtshilfe).
@@ -301,6 +309,7 @@ Hilfe (Amtshilfe).
 
 
 #### § 5 Voraussetzungen und Grenzen der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002502301)
 
 (1) Eine Behörde kann um Amtshilfe insbesondere dann ersuchen, wenn
 sie
@@ -373,6 +382,7 @@ fachlich zuständige Aufsichtsbehörde.
 
 
 #### § 6 Auswahl der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002602301)
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach
 Möglichkeit eine Behörde der untersten Verwaltungsstufe des
@@ -380,6 +390,7 @@ Verwaltungszweigs ersucht werden, dem die ersuchende Behörde angehört.
 
 
 #### § 7 Durchführung der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002702301)
 
 (1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe
 verwirklicht werden soll, richtet sich nach dem für die ersuchende
@@ -393,6 +404,7 @@ verantwortlich.
 
 
 #### § 8 Kosten der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002803301)
 
 (1) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe
 keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der ersuchten
@@ -407,10 +419,12 @@ und Auslagen) zu.
 
 
 ### Abschnitt 3 - Europäische Verwaltungszusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG002200310)
 
 
 
 #### § 8a Grundsätze der Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013300310)
 
 (1) Jede Behörde leistet Behörden anderer Mitgliedstaaten der
 Europäischen Union auf Ersuchen Hilfe, soweit dies nach Maßgabe von
@@ -427,6 +441,7 @@ Rechtsakte der Europäischen Gemeinschaft nicht entgegenstehen.
 
 
 #### § 8b Form und Behandlung der Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013400310)
 
 (1) Ersuchen sind in deutscher Sprache an Behörden anderer
 Mitgliedstaaten der Europäischen Union zu richten; soweit
@@ -451,6 +466,7 @@ Ersuchen sollen genutzt werden. Informationen sollen elektronisch
 
 
 #### § 8c Kosten der Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013500310)
 
 Ersuchende Behörden anderer Mitgliedstaaten der Europäischen Union
 haben Verwaltungsgebühren oder Auslagen nur zu erstatten, soweit dies
@@ -459,6 +475,7 @@ werden kann.
 
 
 #### § 8d Mitteilungen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013600310)
 
 (1) Die zuständige Behörde teilt den Behörden anderer Mitgliedstaaten
 der Europäischen Union und der Kommission Angaben über Sachverhalte
@@ -475,6 +492,7 @@ Angaben sowie auf die Zweckbestimmung und die Rechtsgrundlage der
 
 
 #### § 8e Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013700310)
 
 Die Regelungen dieses Abschnitts sind mit Inkrafttreten des jeweiligen
 Rechtsaktes der Europäischen Gemeinschaft, wenn dieser unmittelbare
@@ -486,14 +504,17 @@ auf diese Staaten anzuwenden sind.
 
 
 ## Teil II - Allgemeine Vorschriften über das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000202301)
 
 
 
 ### Abschnitt 1 - Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000302301)
 
 
 
 #### § 9 Begriff des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE002902301)
 
 Das Verwaltungsverfahren im Sinne dieses Gesetzes ist die nach außen
 wirkende Tätigkeit der Behörden, die auf die Prüfung der
@@ -504,6 +525,7 @@ oder den Abschluss des öffentlich-rechtlichen Vertrags ein.
 
 
 #### § 10 Nichtförmlichkeit des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003003301)
 
 Das Verwaltungsverfahren ist an bestimmte Formen nicht gebunden,
 soweit keine besonderen Rechtsvorschriften für die Form des Verfahrens
@@ -511,6 +533,7 @@ bestehen. Es ist einfach, zweckmäßig und zügig durchzuführen.
 
 
 #### § 11 Beteiligungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003102301)
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -527,6 +550,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 #### § 12 Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003204311)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -560,6 +584,7 @@ Rechts als handlungsfähig anerkannt ist.
 
 
 #### § 13 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003302301)
 
 (1) Beteiligte sind
 
@@ -593,6 +618,7 @@ vorliegen, wird dadurch nicht Beteiligter.
 
 
 #### § 14 Bevollmächtigte und Beistände
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003404310)
 
 (1) Ein Beteiligter kann sich durch einen Bevollmächtigten vertreten
 lassen. Die Vollmacht ermächtigt zu allen das Verwaltungsverfahren
@@ -638,6 +664,7 @@ vornimmt, sind unwirksam.
 
 
 #### § 15 Bestellung eines Empfangsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003505130)
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder
 Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb
@@ -651,6 +678,7 @@ Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 #### § 16 Bestellung eines Vertreters von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003605377)
 
 (1) Ist ein Vertreter nicht vorhanden, so hat das Betreuungsgericht,
 für einen minderjährigen Beteiligten das Familiengericht auf Ersuchen
@@ -698,6 +726,7 @@ Pflegschaft entsprechend.
 
 
 #### § 17 Vertreter bei gleichförmigen Eingaben
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003703301)
 
 (1) Bei Anträgen und Eingaben, die in einem Verwaltungsverfahren von
 mehr als 50 Personen auf Unterschriftslisten unterzeichnet oder in
@@ -733,6 +762,7 @@ die Behörde von Amts wegen einen gemeinsamen Vertreter bestellen.
 
 
 #### § 18 Vertreter für Beteiligte bei gleichem Interesse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003802301)
 
 (1) Sind an einem Verwaltungsverfahren mehr als 50 Personen im
 gleichen Interesse beteiligt, ohne vertreten zu sein, so kann die
@@ -752,6 +782,7 @@ Bevollmächtigten bestellt hat.
 
 
 #### § 19 Gemeinsame Vorschriften für Vertreter bei gleichförmigen Eingaben und bei gleichem Interesse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE003902301)
 
 (1) Der Vertreter hat die Interessen der Vertretenen sorgfältig
 wahrzunehmen. Er kann alle das Verwaltungsverfahren betreffenden
@@ -767,6 +798,7 @@ die Vergütung und stellt die Auslagen und Aufwendungen fest.
 
 
 #### § 20 Ausgeschlossene Personen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004005116)
 
 (1) In einem Verwaltungsverfahren darf für eine Behörde nicht tätig
 werden,
@@ -873,6 +905,7 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 
 #### § 21 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004102301)
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen eine
 unparteiische Amtsausübung zu rechtfertigen, oder wird von einem
@@ -889,6 +922,7 @@ entsprechend.
 
 
 #### § 22 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004202301)
 
 Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie
 ein Verwaltungsverfahren durchführt. Dies gilt nicht, wenn die Behörde
@@ -904,6 +938,7 @@ auf Grund von Rechtsvorschriften
 
 
 #### § 23 Amtssprache
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004304310)
 
 (1) Die Amtssprache ist deutsch.
 
@@ -939,6 +974,7 @@ Fristsetzung hinzuweisen.
 
 
 #### § 24 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004403116)
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt
 Art und Umfang der Ermittlungen; an das Vorbringen und an die
@@ -958,6 +994,7 @@ oder unbegründet hält.
 
 
 #### § 25 Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004504311)
 
 (1) Die Behörde soll die Abgabe von Erklärungen, die Stellung von
 Anträgen oder die Berichtigung von Erklärungen oder Anträgen anregen,
@@ -993,6 +1030,7 @@ Beteiligungsrechte nach anderen Rechtsvorschriften bleiben unberührt.
 
 
 #### § 26 Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004604310)
 
 (1) Die Behörde bedient sich der Beweismittel, die sie nach
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
@@ -1030,6 +1068,7 @@ oder Vergütung.
 
 
 #### § 27 Versicherung an Eides statt
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004703116)
 
 (1) Die Behörde darf bei der Ermittlung des Sachverhalts eine
 Versicherung an Eides statt nur verlangen und abnehmen, wenn die
@@ -1075,6 +1114,7 @@ von dem Schriftführer zu unterschreiben.
 
 
 #### § 27a Bekanntmachung im Internet
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013801125)
 
 (1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche
 Bekanntmachung angeordnet, so ist diese dadurch zu bewirken, dass der
@@ -1089,6 +1129,7 @@ insbesondere aus technischen Gründen, nicht möglich ist.
 
 
 #### § 27b Zugänglichmachung auszulegender Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE014000125)
 
 (1) Ist durch Rechtsvorschrift die Auslegung von Dokumenten zur
 Einsicht angeordnet, so ist sie dadurch zu bewirken, dass die
@@ -1140,6 +1181,7 @@ verpflichtet,
 
 
 #### § 27c Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE014100125)
 
 (1) Ist durch Rechtsvorschrift eine Erörterung, insbesondere ein
 Erörterungstermin, eine mündliche Verhandlung oder eine
@@ -1166,6 +1208,7 @@ Absatz 1 betreffen, bleiben unberührt.
 
 
 #### § 28 Anhörung Beteiligter
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004802301)
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
 Beteiligten eingreift, ist diesem Gelegenheit zu geben, sich zu den
@@ -1202,6 +1245,7 @@ Interesse entgegensteht.
 
 
 #### § 29 Akteneinsicht durch Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE004902301)
 
 (1) Die Behörde hat den Beteiligten Einsicht in die das Verfahren
 betreffenden Akten zu gestatten, soweit deren Kenntnis zur
@@ -1228,6 +1272,7 @@ die Behörde, die die Akten führt, gestatten.
 
 
 #### § 30 Geheimhaltung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005002301)
 
 Die Beteiligten haben Anspruch darauf, dass ihre Geheimnisse,
 insbesondere die zum persönlichen Lebensbereich gehörenden Geheimnisse
@@ -1236,10 +1281,12 @@ unbefugt offenbart werden.
 
 
 ### Abschnitt 2 - Fristen, Termine, Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000402301)
 
 
 
 #### § 31 Fristen und Termine
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005102301)
 
 (1) Für die Berechnung von Fristen und für die Bestimmung von Terminen
 gelten die §§ 187 bis 193 des Bürgerlichen Gesetzbuchs entsprechend,
@@ -1275,6 +1322,7 @@ Nebenbestimmung verbinden.
 
 
 #### § 32 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005202301)
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
@@ -1301,10 +1349,12 @@ Rechtsvorschrift ergibt, dass sie ausgeschlossen ist.
 
 
 ### Abschnitt 3 - Amtliche Beglaubigung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000502301)
 
 
 
 #### § 33 Beglaubigung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005306125)
 
 (1) Jede Behörde ist befugt, Abschriften von Urkunden, die sie selbst
 ausgestellt hat, zu beglaubigen. Darüber hinaus sind die von der
@@ -1428,6 +1478,7 @@ beglaubigen.
 
 
 #### § 34 Beglaubigung von Unterschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005402301)
 
 (1) Die von der Bundesregierung durch Rechtsverordnung bestimmten
 Behörden im Sinne des § 1 Abs. 1 Nr. 1 und die nach Landesrecht
@@ -1480,14 +1531,17 @@ Zustimmung des Bundesrates.
 
 
 ## Teil III - Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000602301)
 
 
 
 ### Abschnitt 1 - Zustandekommen des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000702301)
 
 
 
 #### § 35 Begriff des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005502301)
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere
 hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls
@@ -1500,6 +1554,7 @@ durch die Allgemeinheit betrifft.
 
 
 #### § 35a Vollständig automatisierter Erlass eines Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013900116)
 
 Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen
 erlassen werden, sofern dies durch Rechtsvorschrift zugelassen ist und
@@ -1507,6 +1562,7 @@ weder ein Ermessen noch ein Beurteilungsspielraum besteht.
 
 
 #### § 36 Nebenbestimmungen zum Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005602301)
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
 Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift
@@ -1547,6 +1603,7 @@ zuwiderlaufen.
 
 
 #### § 37 Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005706125)
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
@@ -1594,6 +1651,7 @@ und der Bescheinigung nach § 42a Absatz 3 beizufügen.
 
 
 #### § 38 Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005802301)
 
 (1) Eine von der zuständigen Behörde erteilte Zusage, einen bestimmten
 Verwaltungsakt später zu erlassen oder zu unterlassen (Zusicherung),
@@ -1618,6 +1676,7 @@ nicht mehr gebunden.
 
 
 #### § 39 Begründung des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE005903301)
 
 (1) Ein schriftlicher oder elektronischer sowie ein schriftlich oder
 elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu
@@ -1654,6 +1713,7 @@ Ausübung ihres Ermessens ausgegangen ist.
 
 
 #### § 40 Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006002301)
 
 Ist die Behörde ermächtigt, nach ihrem Ermessen zu handeln, hat sie
 ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und die
@@ -1661,6 +1721,7 @@ gesetzlichen Grenzen des Ermessens einzuhalten.
 
 
 #### § 41 Bekanntgabe des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006107130)
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben,
 für den er bestimmt ist oder der von ihm betroffen wird. Ist ein
@@ -1708,6 +1769,7 @@ Zustellung bleiben unberührt.
 
 
 #### § 42 Offenbare Unrichtigkeiten im Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006203301)
 
 Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare
 Unrichtigkeiten in einem Verwaltungsakt jederzeit berichtigen. Bei
@@ -1717,6 +1779,7 @@ werden soll.
 
 
 #### § 42a Genehmigungsfiktion
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013200310)
 
 (1) Eine beantragte Genehmigung gilt nach Ablauf einer für die
 Entscheidung festgelegten Frist als erteilt (Genehmigungsfiktion),
@@ -1738,10 +1801,12 @@ Genehmigungsfiktion schriftlich zu bescheinigen.
 
 
 ### Abschnitt 2 - Bestandskraft des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000802301)
 
 
 
 #### § 43 Wirksamkeit des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006302301)
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt
 ist oder der von ihm betroffen wird, in dem Zeitpunkt wirksam, in dem
@@ -1756,6 +1821,7 @@ Zeitablauf oder auf andere Weise erledigt ist.
 
 
 #### § 44 Nichtigkeit des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006404301)
 
 (1) Ein Verwaltungsakt ist nichtig, soweit er an einem besonders
 schwerwiegenden Fehler leidet und dies bei verständiger Würdigung
@@ -1820,6 +1886,7 @@ hieran ein berechtigtes Interesse hat.
 
 
 #### § 45 Heilung von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006504301)
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht
 den Verwaltungsakt nach § 44 nichtig macht, ist unbeachtlich, wenn
@@ -1857,6 +1924,7 @@ Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
 
 #### § 46 Folgen von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006603301)
 
 Die Aufhebung eines Verwaltungsaktes, der nicht nach § 44 nichtig ist,
 kann nicht allein deshalb beansprucht werden, weil er unter Verletzung
@@ -1866,6 +1934,7 @@ Verletzung die Entscheidung in der Sache nicht beeinflusst hat.
 
 
 #### § 47 Umdeutung eines fehlerhaften Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006702301)
 
 (1) Ein fehlerhafter Verwaltungsakt kann in einen anderen
 Verwaltungsakt umgedeutet werden, wenn er auf das gleiche Ziel
@@ -1888,6 +1957,7 @@ werden.
 
 
 #### § 48 Rücknahme eines rechtswidrigen Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006803301)
 
 (1) Ein rechtswidriger Verwaltungsakt kann, auch nachdem er
 unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die
@@ -1949,6 +2019,7 @@ erlassen worden ist.
 
 
 #### § 49 Widerruf eines rechtmäßigen Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE006903301)
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch
 nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung
@@ -2025,6 +2096,7 @@ ordentliche Rechtsweg gegeben.
 
 
 #### § 49a Erstattung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012503301)
 
 (1) Soweit ein Verwaltungsakt mit Wirkung für die Vergangenheit
 zurückgenommen oder widerrufen worden oder infolge Eintritts einer
@@ -2058,6 +2130,7 @@ wird, obwohl andere Mittel anteilig oder vorrangig einzusetzen sind. §
 
 
 #### § 50 Rücknahme und Widerruf im Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007004301)
 
 § 48 Abs. 1 Satz 2 und Abs. 2 bis 4 sowie § 49 Abs. 2 bis 4 und 6
 gelten nicht, wenn ein begünstigender Verwaltungsakt, der von einem
@@ -2067,6 +2140,7 @@ dadurch dem Widerspruch oder der Klage abgeholfen wird.
 
 
 #### § 51 Wiederaufgreifen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007102301)
 
 (1) Die Behörde hat auf Antrag des Betroffenen über die Aufhebung oder
 Änderung eines unanfechtbaren Verwaltungsaktes zu entscheiden, wenn
@@ -2103,6 +2177,7 @@ bleiben unberührt.
 
 
 #### § 52 Rückgabe von Urkunden und Sachen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007202301)
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen
 oder ist seine Wirksamkeit aus einem anderen Grund nicht oder nicht
@@ -2120,10 +2195,12 @@ ist.
 
 
 ### Abschnitt 3 - Verjährungsrechtliche Wirkungen des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG000902301)
 
 
 
 #### § 53 Hemmung der Verjährung durch Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007303301)
 
 (1) Ein Verwaltungsakt, der zur Feststellung oder Durchsetzung des
 Anspruchs eines öffentlich-rechtlichen Rechtsträgers erlassen wird,
@@ -2139,10 +2216,12 @@ Anspruch geltenden Verjährungsfrist.
 
 
 ## Teil IV - Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001002301)
 
 
 
 ### § 54 Zulässigkeit des öffentlich-rechtlichen Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007402301)
 
 Ein Rechtsverhältnis auf dem Gebiet des öffentlichen Rechts kann durch
 Vertrag begründet, geändert oder aufgehoben werden (öffentlich-
@@ -2153,6 +2232,7 @@ schließen, an den sie sonst den Verwaltungsakt richten würde.
 
 
 ### § 55 Vergleichsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007502301)
 
 Ein öffentlich-rechtlicher Vertrag im Sinne des § 54 Satz 2, durch den
 eine bei verständiger Würdigung des Sachverhalts oder der Rechtslage
@@ -2163,6 +2243,7 @@ Ermessen für zweckmäßig hält.
 
 
 ### § 56 Austauschvertrag
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007602301)
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 54 Satz 2, in
 dem sich der Vertragspartner der Behörde zu einer Gegenleistung
@@ -2178,6 +2259,7 @@ Verwaltungsaktes Inhalt einer Nebenbestimmung nach § 36 sein könnte.
 
 
 ### § 57 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007702301)
 
 Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen,
 soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben
@@ -2185,6 +2267,7 @@ ist.
 
 
 ### § 58 Zustimmung von Dritten und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007802301)
 
 (1) Ein öffentlich-rechtlicher Vertrag, der in Rechte eines Dritten
 eingreift, wird erst wirksam, wenn der Dritte schriftlich zustimmt.
@@ -2197,6 +2280,7 @@ vorgeschriebenen Form mitgewirkt hat.
 
 
 ### § 59 Nichtigkeit des öffentlich-rechtlichen Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE007902301)
 
 (1) Ein öffentlich-rechtlicher Vertrag ist nichtig, wenn sich die
 Nichtigkeit aus der entsprechenden Anwendung von Vorschriften des
@@ -2230,6 +2314,7 @@ nichtigen Teil geschlossen worden wäre.
 
 
 ### § 60 Anpassung und Kündigung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008002301)
 
 (1) Haben die Verhältnisse, die für die Festsetzung des
 Vertragsinhalts maßgebend gewesen sind, sich seit Abschluss des
@@ -2248,6 +2333,7 @@ begründet werden.
 
 
 ### § 61 Unterwerfung unter die sofortige Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008105116)
 
 (1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung
 aus einem öffentlich-rechtlichen Vertrag im Sinne des § 54 Satz 2
@@ -2268,6 +2354,7 @@ Unterlassung gegen eine Behörde im Sinne des § 1 Abs. 1 Nr. 2, so ist
 
 
 ### § 62 Ergänzende Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008202301)
 
 Soweit sich aus den §§ 54 bis 61 nichts Abweichendes ergibt, gelten
 die übrigen Vorschriften dieses Gesetzes. Ergänzend gelten die
@@ -2275,14 +2362,17 @@ Vorschriften des Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ## Teil V - Besondere Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001102301)
 
 
 
 ### Abschnitt 1 - Förmliches Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001202301)
 
 
 
 #### § 63 Anwendung der Vorschriften über das förmliche Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008302301)
 
 (1) Das förmliche Verwaltungsverfahren nach diesem Gesetz findet
 statt, wenn es durch Rechtsvorschrift angeordnet ist.
@@ -2301,12 +2391,14 @@ Entscheidung voraussichtlich auswirken wird, bekannt macht.
 
 
 #### § 64 Form des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008402301)
 
 Setzt das förmliche Verwaltungsverfahren einen Antrag voraus, so ist
 er schriftlich oder zur Niederschrift bei der Behörde zu stellen.
 
 
 #### § 65 Mitwirkung von Zeugen und Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008503116)
 
 (1) Im förmlichen Verwaltungsverfahren sind Zeugen zur Aussage und
 Sachverständige zur Erstattung von Gutachten verpflichtet. Die
@@ -2345,6 +2437,7 @@ Richteramt hat.
 
 
 #### § 66 Verpflichtung zur Anhörung von Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008603301)
 
 (1) Im förmlichen Verwaltungsverfahren ist den Beteiligten Gelegenheit
 zu geben, sich vor der Entscheidung zu äußern.
@@ -2357,6 +2450,7 @@ zugänglich gemacht werden.
 
 
 #### § 67 Erfordernis der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008703301)
 
 (1) Die Behörde entscheidet nach mündlicher Verhandlung. Hierzu sind
 die Beteiligten mit angemessener Frist schriftlich zu laden. Bei der
@@ -2400,6 +2494,7 @@ einem Verhandlungstermin erledigt werden kann.
 
 
 #### § 68 Verlauf der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008802301)
 
 (1) Die mündliche Verhandlung ist nicht öffentlich. An ihr können
 Vertreter der Aufsichtsbehörden und Personen, die bei der Behörde zur
@@ -2446,6 +2541,7 @@ Verhandlungsniederschrift hinzuweisen.
 
 
 #### § 69 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE008905310)
 
 (1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des
 Verfahrens.
@@ -2478,6 +2574,7 @@ entsprechend.
 
 
 #### § 70 Anfechtung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009002301)
 
 Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen im
 förmlichen Verwaltungsverfahren erlassenen Verwaltungsakt zum
@@ -2485,6 +2582,7 @@ Gegenstand hat, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
 
 #### § 71 Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009102301)
 
 (1) Findet das förmliche Verwaltungsverfahren vor einem Ausschuss (§
 88) statt, so hat jedes Mitglied das Recht, sachdienliche Fragen zu
@@ -2509,10 +2607,12 @@ gilt § 20 Abs. 4 Satz 2 bis 4.
 
 
 ### Abschnitt 1a - Verfahren über eine einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001903310)
 
 
 
 #### § 71a Anwendbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012603310)
 
 (1) Ist durch Rechtsvorschrift angeordnet, dass ein
 Verwaltungsverfahren über eine einheitliche Stelle abgewickelt werden
@@ -2526,6 +2626,7 @@ oder Anzeigepflichtige unmittelbar an die zuständige Behörde wendet.
 
 
 #### § 71b Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012703310)
 
 (1) Die einheitliche Stelle nimmt Anzeigen, Anträge,
 Willenserklärungen und Unterlagen entgegen und leitet sie unverzüglich
@@ -2567,6 +2668,7 @@ werden, einen Empfangsbevollmächtigten zu bestellen.
 
 
 #### § 71c Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012804310)
 
 (1) Die einheitliche Stelle erteilt auf Anfrage unverzüglich Auskunft
 über die maßgeblichen Vorschriften, die zuständigen Behörden, den
@@ -2583,6 +2685,7 @@ unverzüglich gegeben.
 
 
 #### § 71d Gegenseitige Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012903310)
 
 Die einheitliche Stelle und die zuständigen Behörden wirken gemeinsam
 auf eine ordnungsgemäße und zügige Verfahrensabwicklung hin; alle
@@ -2593,6 +2696,7 @@ Verfahrensstand zur Verfügung.
 
 
 #### § 71e Elektronisches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE013003310)
 
 Das Verfahren nach diesem Abschnitt wird auf Verlangen in
 elektronischer Form abgewickelt. § 3a Abs. 2 Satz 2 und 3 und Abs. 3
@@ -2600,10 +2704,12 @@ bleibt unberührt.
 
 
 ### Abschnitt 2 - Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001302301)
 
 
 
 #### § 72 Anwendung der Vorschriften über das Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009203301)
 
 (1) Ist ein Planfeststellungsverfahren durch Rechtsvorschrift
 angeordnet, so gelten hierfür die §§ 73 bis 78 und, soweit sich aus
@@ -2622,6 +2728,7 @@ voraussichtlich auswirken wird, bekannt macht.
 
 
 #### § 73 Anhörungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009305125)
 
 (1) Der Träger des Vorhabens hat den Plan der Anhörungsbehörde zur
 Durchführung des Anhörungsverfahrens einzureichen. Der Plan besteht
@@ -2754,6 +2861,7 @@ sowie den nicht erledigten Einwendungen zu.
 
 
 #### § 74 Planfeststellungsbeschluss, Plangenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009406125)
 
 (1) Die Planfeststellungsbehörde stellt den Plan fest
 (Planfeststellungsbeschluss). Die Vorschriften über die Entscheidung
@@ -2853,6 +2961,7 @@ unwesentlicher Bedeutung. Diese liegen vor, wenn
 
 
 #### § 75 Rechtswirkungen der Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009504311)
 
 (1) Durch die Planfeststellung wird die Zulässigkeit des Vorhabens
 einschließlich der notwendigen Folgemaßnahmen an anderen Anlagen im
@@ -2913,6 +3022,7 @@ Durchführung nicht.
 
 
 #### § 76 Planänderungen vor Fertigstellung des Vorhabens
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009602301)
 
 (1) Soll vor Fertigstellung des Vorhabens der festgestellte Plan
 geändert werden, bedarf es eines neuen Planfeststellungsverfahrens.
@@ -2930,6 +3040,7 @@ Planfeststellungsbeschlusses.
 
 
 #### § 77 Aufhebung des Planfeststellungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009702301)
 
 Wird ein Vorhaben, mit dessen Durchführung begonnen worden ist,
 endgültig aufgegeben, so hat die Planfeststellungsbehörde den
@@ -2948,6 +3059,7 @@ höhere Gewalt verursacht worden sind.
 
 
 #### § 78 Zusammentreffen mehrerer Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009802301)
 
 (1) Treffen mehrere selbständige Vorhaben, für deren Durchführung
 Planfeststellungsverfahren vorgeschrieben sind, derart zusammen, dass
@@ -2974,10 +3086,12 @@ Rechtsvorschrift anzuwenden ist.
 
 
 ## Teil VI - Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001402301)
 
 
 
 ### § 79 Rechtsbehelfe gegen Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE009902301)
 
 Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten die
 Verwaltungsgerichtsordnung und die zu ihrer Ausführung ergangenen
@@ -2986,6 +3100,7 @@ ist; im Übrigen gelten die Vorschriften dieses Gesetzes.
 
 
 ### § 80 Erstattung von Kosten im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010002301)
 
 (1) Soweit der Widerspruch erfolgreich ist, hat der Rechtsträger,
 dessen Behörde den angefochtenen Verwaltungsakt erlassen hat,
@@ -3031,26 +3146,31 @@ Richterdienstrechts.
 
 
 ## Teil VII - Ehrenamtliche Tätigkeit, Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001502301)
 
 
 
 ### Abschnitt 1 - Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001602301)
 
 
 
 #### § 81 Anwendung der Vorschriften über die ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010102301)
 
 Für die ehrenamtliche Tätigkeit im Verwaltungsverfahren gelten die §§
 82 bis 87, soweit Rechtsvorschriften nichts Abweichendes bestimmen.
 
 
 #### § 82 Pflicht zu ehrenamtlicher Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010202301)
 
 Eine Pflicht zur Übernahme ehrenamtlicher Tätigkeit besteht nur, wenn
 sie durch Rechtsvorschrift vorgesehen ist.
 
 
 #### § 83 Ausübung ehrenamtlicher Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010302301)
 
 (1) Der ehrenamtlich Tätige hat seine Tätigkeit gewissenhaft und
 unparteiisch auszuüben.
@@ -3061,6 +3181,7 @@ verpflichten. Die Verpflichtung ist aktenkundig zu machen.
 
 
 #### § 84 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010402301)
 
 (1) Der ehrenamtlich Tätige hat, auch nach Beendigung seiner
 ehrenamtlichen Tätigkeit, über die ihm dabei bekannt gewordenen
@@ -3092,12 +3213,14 @@ berufen hat.
 
 
 #### § 85 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010502301)
 
 Der ehrenamtlich Tätige hat Anspruch auf Ersatz seiner notwendigen
 Auslagen und seines Verdienstausfalls.
 
 
 #### § 86 Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010602301)
 
 Personen, die zu ehrenamtlicher Tätigkeit herangezogen worden sind,
 können von der Stelle, die sie berufen hat, abberufen werden, wenn ein
@@ -3114,6 +3237,7 @@ wenn der ehrenamtlich Tätige
 
 
 #### § 87 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010702301)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3131,10 +3255,12 @@ wenn der ehrenamtlich Tätige
 
 
 ### Abschnitt 2 - Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001702301)
 
 
 
 #### § 88 Anwendung der Vorschriften über Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010802301)
 
 Für Ausschüsse, Beiräte und andere kollegiale Einrichtungen
 (Ausschüsse) gelten, wenn sie in einem Verwaltungsverfahren tätig
@@ -3143,12 +3269,14 @@ Abweichendes bestimmen.
 
 
 #### § 89 Ordnung in den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE010902301)
 
 Der Vorsitzende eröffnet, leitet und schließt die Sitzungen; er ist
 für die Ordnung verantwortlich.
 
 
 #### § 90 Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011002301)
 
 (1) Ausschüsse sind beschlussfähig, wenn alle Mitglieder geladen und
 mehr als die Hälfte, mindestens aber drei der stimmberechtigten
@@ -3162,6 +3290,7 @@ beschlussfähig, wenn darauf in dieser Ladung hingewiesen worden ist.
 
 
 #### § 91 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011102301)
 
 Beschlüsse werden mit Stimmenmehrheit gefasst. Bei Stimmengleichheit
 entscheidet die Stimme des Vorsitzenden, wenn er stimmberechtigt ist;
@@ -3169,6 +3298,7 @@ sonst gilt Stimmengleichheit als Ablehnung.
 
 
 #### § 92 Wahlen durch Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011202301)
 
 (1) Gewählt wird, wenn kein Mitglied des Ausschusses widerspricht,
 durch Zuruf oder Zeichen, sonst durch Stimmzettel. Auf Verlangen eines
@@ -3186,6 +3316,7 @@ zu ziehende Los.
 
 
 #### § 93 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011302301)
 
 Über die Sitzung ist eine Niederschrift zu fertigen. Die Niederschrift
 muss Angaben enthalten über
@@ -3212,10 +3343,12 @@ unterzeichnen.
 
 
 ## Teil VIII - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNG001802301)
 
 
 
 ### § 94 Übertragung gemeindlicher Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011402301)
 
 Die Landesregierungen können durch Rechtsverordnung die nach den §§ 73
 und 74 dieses Gesetzes den Gemeinden obliegenden Aufgaben auf eine
@@ -3225,6 +3358,7 @@ Regelungen bereits enthalten, bleiben unberührt.
 
 
 ### § 95 Sonderregelung für Verteidigungsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011503301)
 
 Nach Feststellung des Verteidigungsfalles oder des Spannungsfalles
 kann in Verteidigungsangelegenheiten von der Anhörung Beteiligter (§
@@ -3237,6 +3371,7 @@ des Grundgesetzes anzuwendenden Rechtsvorschriften.
 
 
 ### § 96 Überleitung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011602301)
 
 (1) Bereits begonnene Verfahren sind nach den Vorschriften dieses
 Gesetzes zu Ende zu führen.
@@ -3254,21 +3389,25 @@ dieses Gesetzes noch nicht abgeschlossen worden ist.
 
 
 ### § 97
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011703301)
 
 (weggefallen)
 
 
 ### § 98
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011803301)
 
 (weggefallen)
 
 
 ### § 99
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE011903301)
 
 (weggefallen)
 
 
 ### § 100 Landesgesetzliche Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012002301)
 
 Die Länder können durch Gesetz
 
@@ -3285,6 +3424,7 @@ Die Länder können durch Gesetz
 
 
 ### § 101 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012103301)
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die örtliche Zuständigkeit abweichend von § 3 dem besonderen
@@ -3292,6 +3432,7 @@ Verwaltungsaufbau ihrer Länder entsprechend zu regeln.
 
 
 ### § 102 Übergangsvorschrift zu § 53
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012204301)
 
 Artikel 229 § 6 Abs. 1 bis 4 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche gilt entsprechend bei der Anwendung des § 53 in der seit
@@ -3299,6 +3440,7 @@ dem 1. Januar 2002 geltenden Fassung.
 
 
 ### § 102a Übergangsregelung für die Durchführung von Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE014200125)
 
 Auf alle vor dem 1. Januar 2024 begonnenen, aber nicht abgeschlossenen
 Verwaltungsverfahren sind dieses Gesetz in der bis zum 31. Dezember
@@ -3307,6 +3449,7 @@ anzuwenden. Dies gilt nicht für § 3a.
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/vwvfg/BJNR012530976.html#BJNR012530976BJNE012302301)
 
 (Inkrafttreten)
 

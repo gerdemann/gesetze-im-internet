@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/besitzbek/BJNR228400999.html#BJNR228400999BJNE000100310)
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen gibt gemäß §
 9 Nr. 3 und § 7 Abs. 2 des Berlin/Bonn-Gesetzes vom 26. April 1994

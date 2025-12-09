@@ -22,6 +22,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano/BJNR214300999.html#BJNR214300999BJNE000100310)
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
@@ -37,6 +38,7 @@ oder zur Ablehnung des Anspruches zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano/BJNR214300999.html#BJNR214300999BJNE000200310)
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich
@@ -46,6 +48,7 @@ dieser Anordnung zur Entscheidung über Widersprüche zuständig ist.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano/BJNR214300999.html#BJNR214300999BJNE000300310)
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 1999 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
@@ -54,6 +57,7 @@ sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bminuwidano/BJNR214300999.html#BJNR214300999BJNE000400310)
 
 Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit
 

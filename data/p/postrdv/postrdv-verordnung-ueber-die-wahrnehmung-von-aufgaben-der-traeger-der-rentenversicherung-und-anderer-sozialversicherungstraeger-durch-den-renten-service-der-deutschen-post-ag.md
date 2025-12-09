@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE000800320)
 
 Auf Grund
 
@@ -55,10 +56,12 @@ verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000100320)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001002301)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Aufgaben, die
 die Deutsche Post AG nach § 119 Abs. 1 Satz 1 und Abs. 2 und 3 des
@@ -91,6 +94,7 @@ Stellen abweichen.
 
 
 ### § 2 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001101308)
 
 (1) Die Deutsche Post AG erfüllt ihre Aufgaben im Rahmen dieser
 Verordnung durch den Renten Service.
@@ -103,6 +107,7 @@ Rentenversicherung betreffen, unmittelbar mit diesen vorklären.
 
 
 ### § 3 Grundlagen der Beziehungen zwischen den Trägern der Rentenversicherung und dem Renten Service
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001206124)
 
 (1) Der Renten Service wird für die Träger der Rentenversicherung
 
@@ -185,6 +190,7 @@ Spannungs- und Verteidigungsfall zu gewährleisten.
 
 
 ### § 4 Verantwortungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001301308)
 
 (1) Die Träger der Rentenversicherung und der Renten Service sind im
 Verhältnis zueinander für die ordnungsgemäße Wahrnehmung der ihnen im
@@ -198,6 +204,7 @@ gesetzlich vorgesehen ist.
 
 
 ### § 5 Ergänzende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001406124)
 
 (1) Die Deutsche Rentenversicherung Bund und der Renten Service
 treffen zur näheren Ausgestaltung der ihnen obliegenden Aufgaben
@@ -233,10 +240,12 @@ kann von dem Dritten eine Erstattung seiner Auslagen verlangen.
 
 
 ## Zweites Kapitel - Auszahlung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000200320)
 
 
 
 ### § 6 Zahlungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001501308)
 
 (1) Die Auszahlung von Geldleistungen durch den Renten Service setzt
 einen entsprechenden Auftrag des zuständigen Trägers der
@@ -261,6 +270,7 @@ vereinbart ist.
 
 
 ### § 7 Zahlung ohne Zahlungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001602308)
 
 (1) Der Renten Service soll an Witwen oder Witwer oder an überlebende
 Lebenspartner verstorbener Berechtigter eine Rente wegen Alters oder
@@ -289,6 +299,7 @@ der Rentenversicherung.
 
 
 ### § 8 Zahlungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001701124)
 
 Zahlungen erfolgen an die Berechtigten, soweit nicht Dritte vom
 Berechtigten als Zahlungsempfänger benannt wurden oder auf Grund
@@ -310,6 +321,7 @@ einen Anspruch auf die Auszahlung haben.
 
 
 ### § 9 Zahlweise
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001804124)
 
 (1) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
 Inland (Inlandszahlungen) sollen auf ein Konto der Zahlungsempfänger
@@ -351,6 +363,7 @@ Deutsche Bundesbank.
 
 
 ### § 10 Nicht ausführbare Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE001901308)
 
 (1) Zahlungen, die
 
@@ -393,6 +406,7 @@ Verfügung gestellt wird.
 
 
 ### § 11 Nicht zugegangene Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002001308)
 
 (1) Der Renten Service unterstützt die Zahlungsempfänger bei
 Nachforschungen nach dem Verbleib von Zahlungen, die vom Renten
@@ -407,6 +421,7 @@ Buches Sozialgesetzbuch gilt entsprechend.
 
 
 ### § 12 Änderungen von Zahlungsaufträgen durch die Träger der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002101308)
 
 (1) Die Träger der Rentenversicherung können jederzeit beim Renten
 Service eine Einstellung der Zahlung und sonstige Änderungen des
@@ -434,6 +449,7 @@ Unterrichtung der Betroffenen veranlassen. Dies gilt nicht, wenn
 
 
 ### § 13 Änderungen von Zahlungsdaten oder der Zahlweise durch die Berechtigten oder Zahlungsempfänger
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002201308)
 
 Die Berechtigten oder Zahlungsempfänger sollen
 
@@ -451,6 +467,7 @@ nachgewiesen werden.
 
 
 ### § 14 Änderungen von Zahlungsdaten durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002302308)
 
 (1) Geldinstitute können unmittelbar beim Renten Service beantragen,
 dass neue Bankverbindungsdaten der Zahlungsempfänger berücksichtigt
@@ -482,6 +499,7 @@ der Rentenversicherung weiter.
 
 
 ### § 15 Zahlungseinstellung durch den Renten Service
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002402308)
 
 (1) Der Renten Service stellt die Zahlung laufender Geldleistungen
 auch ohne Auftrag des zuständigen Trägers der Rentenversicherung ein,
@@ -529,6 +547,7 @@ unverzüglich unterrichtet werden.
 
 
 ### § 16 Rückforderung zu Unrecht erbrachter Geldleistungen beim Tod von Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002501308)
 
 (1) Der Renten Service fordert laufende Geldleistungen, die er für die
 Zeit nach dem Tod von Berechtigten durch Überweisung auf ein Konto bei
@@ -561,10 +580,12 @@ aufzunehmen.
 
 
 ## Drittes Kapitel - Durchführung der Anpassung von Geldleistungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000300320)
 
 
 
 ### § 17 Anpassungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002601308)
 
 (1) Die Durchführung der Anpassung von Geldleistungen durch den Renten
 Service setzt einen entsprechenden Auftrag der Träger der
@@ -577,6 +598,7 @@ sind.
 
 
 ### § 18 Art und Weise der Anpassung, Anpassungsmitteilung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002702124)
 
 (1) Soweit der Renten Service die Anpassung von Geldleistungen
 berechnet, erstellt er die Anpassungsmitteilungen im Namen des
@@ -615,6 +637,7 @@ Service an den zuständigen Träger der Rentenversicherung weiter.
 
 
 ### § 19 Unterrichtung der Träger der Rentenversicherung und anderer Stellen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002801308)
 
 (1) Der Renten Service unterrichtet die Träger der Rentenversicherung
 über die sich aus der Durchführung der Anpassung ergebenden neue
@@ -626,10 +649,12 @@ neuen Beträge.
 
 
 ## Viertes Kapitel - Mit der Auszahlung und der Durchführung der Anpassung von Geldleistungen zusammenhängende Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000400320)
 
 
 
 ### § 20 Aufgaben im Rahmen der sozialen Sicherung der Rentner
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE002901308)
 
 (1) Der Renten Service übernimmt für die Träger der Rentenversicherung
 auf Verlangen
@@ -657,6 +682,7 @@ das Nähere durch Vereinbarung.
 
 
 ### § 21 Ausstellung von Ausweisen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003003124)
 
 (1) Der Renten Service stellt den Berechtigten einen Ausweis aus, mit
 dem die Rentenberechtigung nachgewiesen werden kann, soweit dies nicht
@@ -685,6 +711,7 @@ der Anpassungsmitteilung verbunden werden.
 
 
 ### § 22 Erteilung von Auskünften für die Träger der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003101308)
 
 (1) Der Renten Service erteilt für die Träger der Rentenversicherung
 Auskünfte über die Höhe der ausgezahlten Geldleistungen und andere ihm
@@ -714,6 +741,7 @@ gutzubringen.
 
 
 ### § 23 Einholung von Auskünften für die Träger der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003201308)
 
 (1) Die Träger der Rentenversicherung können verlangen, daß der Renten
 Service für sie im Rahmen der datenschutzrechtlichen Vorschriften
@@ -727,6 +755,7 @@ von Auskünften tritt die Einholung von Auskünften.
 
 
 ### § 24 Überwachung der Zahlungsvoraussetzungen bei Inlandszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003304124)
 
 (1) Der Renten Service wertet die ihm nach § 101a des Zehnten Buches
 Sozialgesetzbuch übermittelten Daten im Rahmen der Zweckbestimmung der
@@ -746,6 +775,7 @@ Satz 2 bis 5 gilt entsprechend.
 
 
 ### § 25 Überwachung der Zahlungsvoraussetzungen bei Auslandszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003403124)
 
 (1) Der Renten Service übernimmt bei laufenden Auslandszahlungen die
 Einholung von Lebensbescheinigungen der Berechtigten bei den
@@ -759,6 +789,7 @@ anderer, mindestens ebenso zuverlässiger Weise überwacht werden.
 
 
 ### § 26 Aufgaben im Rahmen der Statistik
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003503308)
 
 Der Renten Service erstellt aus den bei ihm anfallenden Daten der
 Träger der Rentenversicherung auf Anforderung statistisches Material
@@ -768,6 +799,7 @@ Rentenversicherung Bund.
 
 
 ### § 26a Aktualisierung des Rentenbestandes zur Umsetzung von Rechtsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004900124)
 
 Der Renten Service führt die Umrechnung des Rentenbestandes zur
 Umsetzung von Rechtsänderungen außerhalb der Rentenanpassung durch,
@@ -778,6 +810,7 @@ der Rentenversicherung. Die §§ 17 und 19 gelten entsprechend.
 
 
 ### § 27 Sonstige Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003601308)
 
 Die Deutsche Rentenversicherung Bund und der Renten Service können
 vereinbaren, daß dieser für die Träger der Rentenversicherung sonstige
@@ -786,10 +819,12 @@ Anpassung von Geldleistungen im Zusammenhang stehen.
 
 
 ## Fünftes Kapitel - Vorschüsse zur Auszahlung von Geldleistungen und Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000500320)
 
 
 
 ### § 28 Pflicht zur Zahlung monatlicher Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003705126)
 
 Der Renten Service erhält von den Trägern der Rentenversicherung zur
 Auszahlung der Geldleistungen rechtzeitig monatliche Vorschüsse. Er
@@ -800,6 +835,7 @@ Auszahlung von Geldleistungen durch die Vorschüsse nicht gedeckt ist.
 
 
 ### § 29 Höhe der Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003802308)
 
 (1) Die Vorschüsse sollen den zu erwartenden Ausgaben für die
 Auszahlung der Geldleistungen entsprechen. Sie sind auf Grund der
@@ -812,6 +848,7 @@ Deutsche Rentenversicherung Bund festgesetzt.
 
 
 ### § 30 Zahlung der Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE003906126)
 
 (1) Der Renten Service erhält die Vorschüsse
 
@@ -870,6 +907,7 @@ Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
 
 ### § 31 Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004006124)
 
 (1) Der Renten Service stellt die Vorschüsse, die ausgeführten
 Zahlungen und sonstige für die Festsetzung der weiteren Vorschüsse
@@ -910,10 +948,12 @@ Vorschüsse verrechnet werden.
 
 
 ## Sechstes Kapitel - Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000600320)
 
 
 
 ### § 32 Anspruch auf angemessene Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004102301)
 
 (1) Der Renten Service hat Anspruch auf eine angemessene Vergütung.
 
@@ -948,6 +988,7 @@ Deutschen Post AG ermöglicht.
 
 
 ### § 33 Entgelt für die Dienstleistung des Renten Service
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004204124)
 
 (1) Das Entgelt für die Dienstleistung des Renten Service für jede
 Zahlung wird durch Vereinbarung zwischen der Deutschen
@@ -1000,6 +1041,7 @@ Monat.
 
 
 ### § 34 Erstattung von Auslagen für die Inanspruchnahme von Dienstleistungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004304126)
 
 (1) Die Sozialversicherungsträger erstatten dem Renten Service als
 Auslagen für die Inanspruchnahme von Dienstleistungen Dritter im
@@ -1047,6 +1089,7 @@ gehalten werden.
 
 
 ### § 35 Fälligkeit, Vorschüsse und Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004401308)
 
 (1) Der Anspruch auf Vergütung wird zum Ende eines jeden
 Kalenderjahres fällig.
@@ -1062,25 +1105,30 @@ Vorschüssen zur Auszahlung der Geldleistungen fällig.
 
 
 ### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004506308)
 
 -
 
 
 ## Siebtes Kapitel - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNG000700320)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004601308)
 
 -
 
 
 ### § 38 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004700320)
 
 Diese Verordnung tritt am 1. September 1994 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/postrdv/BJNR186700994.html#BJNR186700994BJNE004800320)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000100000)
 
 Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 4 und Abs. 2 des
 Adoptionsvermittlungsgesetzes in der Fassung der Bekanntmachung vom
@@ -31,10 +32,12 @@ Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 
 
 ## Abschnitt 1 - Anerkennung und Überprüfung von Adoptionsvermittlungsstellen in freier Trägerschaft
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNG000100000)
 
 
 
 ### § 1 Anerkennung als Adoptionsvermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000201360)
 
 (1) Der Antrag auf Anerkennung als Adoptionsvermittlungsstelle nach §
 2 Absatz 3 des Adoptionsvermittlungsgesetzes muss insbesondere
@@ -102,6 +105,7 @@ Satz 1 und 2 des Adoptionsvermittlungsgesetzes zuständig.
 
 
 ### § 2 Zulassung als anerkannte Auslandsvermittlungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000301360)
 
 (1) Der Antrag auf Zulassung als anerkannte Auslandsvermittlungsstelle
 nach § 2a Absatz 4 Nummer 2 des Adoptionsvermittlungsgesetzes muss
@@ -166,6 +170,7 @@ werden.
 
 
 ### § 3 Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000400000)
 
 Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der
 zentralen Adoptionsstelle des Landesjugendamtes, die die Anerkennung
@@ -214,6 +219,7 @@ sind insbesondere:
 
 
 ### § 4 Bericht an die zentrale Adoptionsstelle des Landesjugendamtes
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000500000)
 
 (1) Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der
 zentralen Adoptionsstelle des Landesjugendamtes, die die Anerkennung
@@ -258,10 +264,12 @@ nach Absatz 1 in begründeten Fällen verlängern.
 
 
 ## Abschnitt 2 - Kosten, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNG000200000)
 
 
 
 ### § 5 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000601360)
 
 Führen staatliche Adoptionsvermittlungsstellen das
 Adoptionsvermittlungsverfahren durch, sind folgende Gebühren zu
@@ -281,6 +289,7 @@ erheben:
 
 
 ### § 6 Erstattung von Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000700000)
 
 Bei internationalen Adoptionsvermittlungsverfahren erhebt die
 staatliche Adoptionsvermittlungsstelle folgende Auslagen:
@@ -298,11 +307,13 @@ staatliche Adoptionsvermittlungsstelle folgende Auslagen:
 
 
 ### § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/advermistankov/BJNR126600005.html#BJNR126600005BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

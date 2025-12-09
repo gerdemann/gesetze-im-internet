@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1 Errichtung und Sitz des Bundesamts
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000100000)
 
 (1) Zum 1. Januar 2021 wird das Bundesamt für Auswärtige
 Angelegenheiten (Bundesamt) errichtet.
@@ -30,6 +31,7 @@ Angelegenheiten (Bundesamt) errichtet.
 
 
 ## § 2 Aufgaben des Bundesamts
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000200000)
 
 (1) Das Bundesamt nimmt die Aufgaben des Bundes auf dem Gebiet der
 Auswärtigen Angelegenheiten wahr, die ihm durch dieses Gesetz oder
@@ -48,6 +50,7 @@ beauftragt wird.
 
 
 ## § 3 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000300000)
 
 Das Bundesamt untersteht der Aufsicht des Auswärtigen Amts, soweit im
 Rahmen der Übertragung von Aufgaben nach § 2 Absatz 3 keine
@@ -55,6 +58,7 @@ anderweitige Regelung getroffen wird.
 
 
 ## § 4 Entsprechende Anwendung von Vorschriften des Gesetzes über den Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000400000)
 
 § 13 Absatz 2 und 3, die §§ 19, 21 Absatz 1, § 24 Absatz 1 und § 30
 des Gesetzes über den Auswärtigen Dienst vom 30. August 1990 (BGBl. I
@@ -63,12 +67,14 @@ S. 1842), das zuletzt durch Artikel 14 des Gesetzes vom 12. Dezember
 
 
 ## § 5 Wahl des Personalrats
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000500000)
 
 Der Personalrat beim Bundesamt ist bis zum 31. Dezember 2021 erstmals
 zu wählen.
 
 
 ## § 6 Wahl der Jugend- und Auszubildendenvertretung sowie der Vertrauensperson der schwerbehinderten Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000600000)
 
 Die Jugend- und Auszubildendenvertretung sowie die Vertrauensperson
 der schwerbehinderten Menschen beim Bundesamt sind bis zum 31.
@@ -76,12 +82,14 @@ Dezember 2021 erstmals zu wählen.
 
 
 ## § 7 Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000700000)
 
 Die Gleichstellungsbeauftragte und ihre Stellvertreterin beim
 Bundesamt sind bis zum 31. Dezember 2021 erstmals zu wählen.
 
 
 ## § 8 Übergangsregelungen für die Personalvertretungen und die Gleichstellungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000800000)
 
 (1) Bis zur Wahl des Personalrats des Bundesamts werden dessen
 Aufgaben vom Personalrat des Auswärtigen Amts als Übergangspersonalrat
@@ -101,6 +109,7 @@ Stellvertreterinnen wahrgenommen.
 
 
 ## § 9 Fortgeltung der Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE000900000)
 
 Die im Auswärtigen Amt geltenden Dienstvereinbarungen gelten ab dem 1.
 Januar 2021 auch für das Bundesamt, solange sie nicht durch andere
@@ -108,6 +117,7 @@ Regelungen im Bundesamt ersetzt werden.
 
 
 ## § 10 Aufbauzulage
+[Direktlink](https://www.gesetze-im-internet.de/bfaag/BJNR124110020.html#BJNR124110020BJNE001001126)
 
 (1) Beamtinnen und Beamte, die beim Bundesamt für Auswärtige
 Angelegenheiten verwendet werden, erhalten bis zum 31. Dezember 2026

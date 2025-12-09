@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE003402360)
 
 
 *    *   § 1
@@ -161,6 +162,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000200319)
 
 Auf Grund
 
@@ -191,6 +193,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000300319)
 
 (1) Diese Verordnung gilt für Arbeiten in Druckluft, soweit diese von
 einem Arbeitgeber gewerbsmäßig ausgeführt werden.
@@ -200,6 +203,7 @@ Schleusen und für Taucherarbeiten.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000401308)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -232,6 +236,7 @@ atmosphärischen Druck hinausgehende Überdruck.
 
 
 ## § 3 Anzeige
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000502118)
 
 (1) Will ein Arbeitgeber Arbeiten in Druckluft ausführen, so hat er
 dies spätestens 2 Wochen vorher der zuständigen Behörde anzuzeigen.
@@ -302,6 +307,7 @@ beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
 
 ## § 4 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000601308)
 
 (1) Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen
 müssen den Nummern 1 und 2 des Anhangs 1 zu dieser Verordnung und im
@@ -354,6 +360,7 @@ unberührt.
 
 
 ## § 5 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000701308)
 
 Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen
 müssen den über die Vorschriften des § 4 Abs. 1 hinausgehenden
@@ -363,6 +370,7 @@ gestellt werden.
 
 
 ## § 6 Ausnahmebewilligung
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000804118)
 
 Die zuständige Behörde kann von den Vorschriften des § 4 Abs. 1, § 9
 Abs. 1, § 21 Abs. 4 und von dem Beschäftigungsverbot für Arbeitnehmer,
@@ -386,6 +394,7 @@ untersagt.
 
 
 ## § 7 Prüfung durch Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE000901308)
 
 (1) Die Arbeitskammern dürfen nur betrieben werden, wenn
 
@@ -476,10 +485,12 @@ weniger als 0,5 bar.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001002377)
 
 
 
 ## § 9 Beschäftigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001102308)
 
 (1) In Druckluft von mehr als 3,6 bar Überdruck dürfen Arbeitnehmer
 nicht beschäftigt werden.
@@ -489,6 +500,7 @@ nicht beschäftigt werden.
 
 
 ## § 10 Ärztliche Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001202360)
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer in Druckluft nur
 beschäftigen, wenn der Arbeitnehmer
@@ -519,6 +531,7 @@ Weiterbeschäftigung bestehen.
 
 
 ## § 11 Weitere ärztliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001302360)
 
 (1) Arbeitnehmer, die
 
@@ -546,6 +559,7 @@ zuständige Behörde.
 
 
 ## § 12 Allgemeine Aufgaben und Erreichbarkeit des ermächtigten Arztes
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001402377)
 
 (1) Der Arbeitgeber hat einem nach § 13 ermächtigten Arzt, der
 drucklufttauglich ist, die Aufgabe zu übertragen, die notwendigen
@@ -579,6 +593,7 @@ gut lesbarem Zustand zu erhalten.
 
 
 ## § 13 Ermächtigte Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001501308)
 
 Ärzte, die nach dieser Verordnung tätig werden, müssen die
 erforderliche arbeitsmedizinische Fachkunde sowie Fachkenntnisse
@@ -587,6 +602,7 @@ Behörde ermächtigt sein.
 
 
 ## § 14 Veranlassung der ärztlichen Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001602377)
 
 (1) Der Arbeitgeber hat die ärztlichen Maßnahmen nach den §§ 11 und 12
 Abs. 1 auf seine Kosten zu veranlassen.
@@ -597,10 +613,12 @@ hat.
 
 
 ## (XXXX) §§ 15 und 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001701377)
 
 
 
 ## § 17 Krankendruckluftkammern, Erholungsräume und sanitäre Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE001902377)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß dort, wo die
 Arbeitskammer betrieben wird, die nachstehenden Einrichtungen
@@ -663,6 +681,7 @@ anzuwenden.
 
 
 ## § 18 Bestellung von Fachkräften
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002001308)
 
 (1) Der Arbeitgeber hat zu bestellen
 
@@ -759,6 +778,7 @@ der §§ 9 bis 11 entsprechend.
 
 
 ## § 19 Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002101377)
 
 Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
@@ -782,6 +802,7 @@ Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
 
 ## § 20 Belehrung der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002201308)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß der Fachkundige, der die
 Arbeiten in Druckluft leitet (§ 18 Abs. 1 Nr. 1) und der nach § 12
@@ -799,6 +820,7 @@ Merkblatt muß in der Sprache des Beschäftigten abgefaßt sein.
 
 
 ## § 21 Ausschleusungs- und Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002301308)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß die Vorschriften des
 Anhanges 2 eingehalten werden.
@@ -825,6 +847,7 @@ mindestens einer halben Stunde zu gewähren.
 
 
 ## § 22 Straftaten und Ordnungswidrigkeiten nach dem Arbeitsschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002404118)
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -902,6 +925,7 @@ Arbeitsschutzgesetzes strafbar.
 
 
 ## § 22a Ordnungswidrigkeit nach dem Jugendarbeitsschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002501308)
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 26 Buchstabe a des
 Jugendarbeitsschutzgesetzes handelt, wer als Arbeitgeber vorsätzlich
@@ -910,6 +934,7 @@ Lebensjahr noch nicht vollendet hat, in Druckluft beschäftigt.
 
 
 ## § 23 Ordnungswidrigkeiten nach dem Arbeitszeitgesetz
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002601308)
 
 Ordnungswidrig im Sinne des § 22 Abs. 1 Nr. 4 des Arbeitszeitgesetzes
 handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
@@ -925,14 +950,17 @@ handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
 
 ## § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002701308)
 
 
 
 ## § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002801308)
 
 
 
 ## § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE002900319)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden 6. Kalendermonats in Kraft.
@@ -941,11 +969,13 @@ folgenden 6. Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE003000319)
 
 Der Bundesminister für Arbeit und Sozialordnung
 
 
 ## Anhang 1 (§§ 4 und 17 Abs. 2 der Verordnung über Arbeiten in Druckluft)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE003101308)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 1915 - 1918;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1481,6 +1511,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 (§ 21 Abs. 1)
 
 ## Anhang 2 Ausschleusungs- und Wartezeiten
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE003201308)
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
 
@@ -1579,6 +1610,7 @@ Fundstelle: BGBl. I 1997, 1397 - 1401) \*)
 
 
 ## Anhang 3 (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)
+[Direktlink](https://www.gesetze-im-internet.de/drucklv/BJNR019090972.html#BJNR019090972BJNE003301308)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 1927 - 1928;
 bzgl. der einzelnen Änderungen vgl. Fußnote

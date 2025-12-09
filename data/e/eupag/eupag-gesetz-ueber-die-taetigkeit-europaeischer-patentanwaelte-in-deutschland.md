@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNG000100000)
 
 
 ### § 1 Feststellungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000200000)
 
 (1) Eine Person, die im Besitz eines Ausbildungs- oder
 Befähigungsnachweises im Sinne der Absätze 2 und 3 ist, kann zum Zweck
@@ -115,6 +117,7 @@ Dokumente sind in deutscher Sprache abzufassen.
 
 
 ### § 2 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000300000)
 
 (1) Das Deutsche Patent- und Markenamt bestätigt den Eingang des
 Antrags nach § 1 innerhalb eines Monats. Innerhalb dieser Frist teilt
@@ -173,6 +176,7 @@ die Bezeichnung „Patentassessor“ oder „Patentassessorin“ zu führen.
 
 
 ### § 3 Zweck der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000400000)
 
 Die Eignungsprüfung ist eine ausschließlich die beruflichen Kenntnisse
 und Kompetenzen der antragstellenden Person betreffende staatliche
@@ -184,6 +188,7 @@ Qualifikation für patentanwaltliche Tätigkeiten verfügt.
 
 
 ### § 4 Zuständige Stelle für die Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000500000)
 
 Die Eignungsprüfung wird vor der für die Patentanwaltsprüfung
 zuständigen Kommission beim Deutschen Patent- und Markenamt abgelegt.
@@ -193,6 +198,7 @@ ermöglichen.
 
 
 ### § 5 Prüfungsfächer
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000600000)
 
 Die Eignungsprüfung erstreckt sich auf folgende Fächer:
 
@@ -227,6 +233,7 @@ Die Eignungsprüfung erstreckt sich auf folgende Fächer:
 
 
 ### § 6 Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000701360)
 
 (1) Die Eignungsprüfung besteht aus einem schriftlichen und einem
 mündlichen Teil. Sie wird in deutscher Sprache abgelegt.
@@ -255,6 +262,7 @@ genügend im Sinne des Satzes 1 zu werten.
 
 
 ### § 7 Prüfungsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000800000)
 
 Die Prüfungskommission entscheidet aufgrund des Gesamteindrucks der in
 der schriftlichen und der mündlichen Prüfung erbrachten Leistungen mit
@@ -263,17 +271,20 @@ Kenntnisse und Kompetenzen verfügt.
 
 
 ### § 8 Wiederholung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE000900000)
 
 Die Eignungsprüfung kann wiederholt werden.
 
 
 ### § 9 Prüfungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001000000)
 
 Wer die Eignungsprüfung ablegen will, hat an das Deutsche Patent- und
 Markenamt eine Prüfungsgebühr zu entrichten.
 
 
 ### § 10 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001100000)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -307,6 +318,7 @@ Einzelheiten der Eignungsprüfung zu regeln, insbesondere
 
 
 ### § 11 Bescheinigungen des Heimat- oder Herkunftsstaates
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001200000)
 
 Sofern für eine Entscheidung über die Zulassung zur Patentanwaltschaft
 nach § 2 Absatz 5 dieses Gesetzes in Verbindung mit § 5 Absatz 1 Satz
@@ -339,6 +351,7 @@ Verbindung mit Anhang VII Nummer 1 Buchstabe d bis f der Richtlinie
 
 
 ### § 12 Partieller Zugang zum Beruf des Patentanwalts
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001301360)
 
 (1) Personen, deren Berechtigung zur Ausübung des Berufs des
 Patentanwalts in ihrem Herkunftsstaat auf einen Teil der Rechtsgebiete
@@ -384,9 +397,11 @@ Mandatierung über den Umfang ihres Tätigkeitsbereichs aufzuklären.
 
 
 ## Teil 2 - Vorübergehende Dienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNG000200000)
 
 
 ### § 13 Dienstleistender europäischer Patentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001400000)
 
 (1) Natürliche Personen, die in einem anderen Mitgliedstaat zur
 Ausübung des Berufs des Patentanwalts rechtmäßig niedergelassen sind,
@@ -406,6 +421,7 @@ Werbung nicht verwendet werden.
 
 
 ### § 14 Berufserfahrung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001500000)
 
 Ist im Niederlassungsstaat weder der Beruf des Patentanwalts noch die
 Ausbildung zum Beruf des Patentanwalts reglementiert, darf die
@@ -416,6 +432,7 @@ ausgeübt hat.
 
 
 ### § 15 Meldung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001601360)
 
 (1) Der dienstleistende europäische Patentanwalt ist verpflichtet, vor
 der ersten Erbringung seiner Dienstleistungen der Patentanwaltskammer
@@ -486,6 +503,7 @@ gelöscht.
 
 
 ### § 16 Rechte und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001702360)
 
 Der dienstleistende europäische Patentanwalt hat die Stellung eines
 inländischen Patentanwalts, insbesondere dessen Rechte und Pflichten,
@@ -499,6 +517,7 @@ Absatz 1 der Patentanwaltsordnung näher ausgestalten.
 
 
 ### § 17 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001800000)
 
 Der dienstleistende europäische Patentanwalt ist verpflichtet, eine
 Berufshaftpflichtversicherung zur Deckung der sich aus seiner
@@ -513,6 +532,7 @@ Syndikuspatentanwalts ausgeübt wird.
 
 
 ### § 18 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE001900000)
 
 (1) Dienstleistende europäische Patentanwälte werden durch die
 Patentanwaltskammer beaufsichtigt. Dem Vorstand der
@@ -551,6 +571,7 @@ Informationen einholen.
 
 
 ### § 19 Berufsgerichtsbarkeit und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002001360)
 
 (1) Der dienstleistende europäische Patentanwalt untersteht
 hinsichtlich der Erfüllung seiner Berufspflichten der
@@ -588,9 +609,11 @@ der Patentanwaltsordnung entsprechend.
 
 
 ## Teil 3 - Berufsausübung als niedergelassener europäischer Patentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNG000300000)
 
 
 ### § 20 Niedergelassener europäischer Patentanwalt
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002101360)
 
 Ein europäischer Patentanwalt, der in einem anderen Mitgliedstaat, in
 dem der Beruf des Patentanwalts reglementiert ist, zugelassen ist und
@@ -602,6 +625,7 @@ niederzulassen (niedergelassener europäischer Patentanwalt).
 
 
 ### § 21 Aufnahme in die Patentanwaltskammer und berufliche Stellung
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002203360)
 
 (1) Dem Antrag auf Aufnahme in die Patentanwaltskammer ist eine
 Bescheinigung der im Herkunftsstaat der antragstellenden Person
@@ -639,9 +663,11 @@ Berufsbezeichnung und in der Werbung nicht verwendet werden.
 
 
 ## Teil 4 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNG000400000)
 
 
 ### § 22 Ergänzende Anwendung des Verwaltungsverfahrensgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002300000)
 
 (1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer
 aufgrund dieses Gesetzes erlassenen Rechtsverordnung gilt, soweit
@@ -656,6 +682,7 @@ einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis
 
 
 ### § 23 Rechtsweg in verwaltungsrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002400000)
 
 Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz oder nach
 einer nach ihm erlassenen Rechtsverordnung gelten die Bestimmungen der
@@ -665,6 +692,7 @@ sind oder einem anderen Gericht ausdrücklich zugewiesen sind.
 
 
 ### § 24 Europäische Verwaltungszusammenarbeit und Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002501360)
 
 (1) Für die Verwaltungszusammenarbeit mit Behörden anderer
 Mitgliedstaaten der Europäischen Union, anderer Vertragsstaaten des
@@ -681,6 +709,7 @@ Patentanwaltskammer diese innerhalb eines Monats aus.
 
 
 ### § 25 Mitteilungspflichten gegenüber anderen Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002600000)
 
 (1) Ist ein Patentanwalt auch in einem anderen Mitgliedstaat tätig, so
 teilt die Patentanwaltskammer der zuständigen Stelle dieses Staates
@@ -728,6 +757,7 @@ getroffenen Maßnahmen.
 
 
 ### § 26 Gleichgestellte Staaten
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002700000)
 
 Im Anwendungsbereich dieses Gesetzes stehen die anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
@@ -735,6 +765,7 @@ und die Schweiz den Mitgliedstaaten der Europäischen Union gleich.
 
 
 ### § 27 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002801123)
 
 Über Verfahren nach den §§ 1, 12 und 15 wird eine Bundesstatistik
 geführt. § 17 des Berufsqualifikationsfeststellungsgesetzes ist
@@ -742,6 +773,7 @@ anzuwenden.
 
 
 ### § 28 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE002900000)
 
 Auf die Erhebung und Beitreibung von Gebühren und Auslagen für
 Amtshandlungen nach diesem Gesetz sind die Vorschriften der
@@ -749,6 +781,7 @@ Patentanwaltsordnung entsprechend anzuwenden.
 
 
 ### § 29 Anwendung von Vorschriften des Strafgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE003001123)
 
 Für die Anwendung der Vorschriften des Strafgesetzbuches über die
 Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3
@@ -759,6 +792,7 @@ Patentanwälten und Anwälten gleich.
 
 
 ### § 30 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eupag/BJNR113700017.html#BJNR113700017BJNE003102125)
 
 (1) Teil 1 gilt auch für Staatsangehörige eines Mitgliedstaates, die
 im Besitz eines Ausbildungs- und Befähigungsnachweises sind, der im

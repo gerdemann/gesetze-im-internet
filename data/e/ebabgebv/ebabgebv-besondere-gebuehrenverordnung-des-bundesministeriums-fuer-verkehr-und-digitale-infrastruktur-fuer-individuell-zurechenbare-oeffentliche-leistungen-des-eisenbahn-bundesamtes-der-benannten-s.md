@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000100000)
 
 Für individuell zurechenbare öffentliche Leistungen (gebührenfähige
 Leistungen) des Eisenbahn-Bundesamtes, der benannten Stelle und der
@@ -48,6 +49,7 @@ werden, werden Gebühren und Auslagen erhoben:
 
 
 ## § 2 Höhe der Gebühren und Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000200000)
 
 (1) Die gebührenfähigen Leistungen und die jeweilige Gebührenhöhe
 ergeben sich aus dem Gebührenverzeichnis der Anlage.
@@ -67,6 +69,7 @@ Antragstellung vorzulegen.
 
 
 ## § 3 Höhe der Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000300000)
 
 (1) Kosten für Dienstreisen, externe Prüfer und Sachverständige sind
 in der Gebühr enthalten, es sei denn, dass im Gebührenverzeichnis
@@ -79,6 +82,7 @@ Umweltverträglichkeitsprüfung durchzuführen ist.
 
 
 ## § 4 Stundung, Niederschlagung und Erlass
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000400000)
 
 Das Eisenbahn-Bundesamt ist befugt, festgesetzte Gebühren gemäß § 59
 der Bundeshaushaltsordnung zu stunden, niederzuschlagen oder zu
@@ -86,6 +90,7 @@ erlassen.
 
 
 ## § 4a Alt-Sachverhalte
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000900116)
 
 Die Nummern 6.3 und 6.5 der Anlage Teil I Abschnitt 6 gelten für die
 Erhebung von Gebühren für gebührenfähige Leistungen, die nach dem 7.
@@ -96,6 +101,7 @@ berücksichtigt wird.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000500000)
 
 Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige
 Leistung, die vor dem 31. Juli 2021 beantragt oder begonnen, aber noch
@@ -105,6 +111,7 @@ geltende Recht weiter anzuwenden.
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000705130)
 
 (Fundstelle: BGBl. I 2021, 3183 - 3194;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1857,6 +1864,7 @@ Stelle
 
 
 ## Anhang Anhang zum Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/ebabgebv/BJNR318210021.html#BJNR318210021BJNE000801130)
 
 (Fundstelle: BGBl. I 2021, 3195 - 3204;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

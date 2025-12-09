@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000100328)
 
 Auf Grund des § 16b Abs. 2 des Tierschutzgesetzes in der Fassung der
 Bekanntmachung vom 18. August 1986 (BGBl. I S. 1319) wird verordnet:
 
 
 ## § 1 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000204301)
 
 Die Tierschutzkommission berät das Bundesministerium für Ernährung und
 Landwirtschaft (Bundesministerium) in Fragen des Tierschutzes,
@@ -38,6 +40,7 @@ Versuchstierverordnung Stellung.
 
 
 ## § 2 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000300328)
 
 Die Tierschutzkommission besteht aus zwölf Mitgliedern. Ihr gehören
 an:
@@ -63,6 +66,7 @@ je ein Wissenschaftler aus dem Bereich
 
 
 ## § 3 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000401377)
 
 (1) Die Mitglieder werden vom Bundesministerium für vier Jahre
 berufen. Wiederberufung ist zulässig.
@@ -74,12 +78,14 @@ geendet hätte.
 
 
 ## § 4 Wahl des Vorsitzenden
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000500328)
 
 Die Mitglieder wählen aus ihrer Mitte mit einfacher Mehrheit den
 Vorsitzenden und dessen Vertreter.
 
 
 ## § 5 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000601377)
 
 Das Bundesministerium führt die Geschäfte der Tierschutzkommission und
 lädt im Benehmen mit dem Vorsitzenden mindestens einmal jährlich zu
@@ -88,6 +94,7 @@ er in die Tagesordnung aufzunehmen.
 
 
 ## § 6 Beteiligung des Bundesministers und anderer Beauftragter
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000706301)
 
 Das Bundesministerium und seine Beauftragten und - soweit ihre Belange
 berührt sind - je ein Beauftragter der Bundesministerien für
@@ -97,6 +104,7 @@ jederzeit an den Sitzungen der Tierschutzkommission teilnehmen.
 
 
 ## § 7 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000800328)
 
 Die Tierschutzkommission kann zu ihren Beratungen weitere
 Sachverständige heranziehen.
@@ -104,6 +112,7 @@ Sachverständige heranziehen.
 Ehrenamtliche Tätigkeit
 
 ## § 8 Verfahrensbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE000900328)
 
 (1) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.
 
@@ -112,16 +121,19 @@ gelten entsprechend.
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE001001377)
 
 -
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE001100328)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/tierschkomv/BJNR015570987.html#BJNR015570987BJNE001200328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 

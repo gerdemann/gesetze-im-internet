@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Gliederung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001100311)
 
 
 *    *   Abschnitt I
@@ -665,10 +666,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Allgemeine Grundzüge des Bereinigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000100311)
 
 
 
 ### § 1 Auslandsbonds, Begebungsland
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001200311)
 
 (1) Auslandsbonds im Sinne dieses Gesetzes sind Wertpapiere der im
 anliegenden Verzeichnis (Verzeichnis der Auslandsbonds) aufgeführten
@@ -679,6 +682,7 @@ in dem Verzeichnis angegebene Staat.
 
 
 ### § 2 Bereinigung der Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001300311)
 
 Auslandsbonds bleiben nur gültig, wenn sie nach diesem Gesetz
 anerkannt werden. Für Auslandsbonds, die nicht anerkannt worden sind,
@@ -686,6 +690,7 @@ gelten die §§ 50, 52 bis 54.
 
 
 ### § 3 Voraussetzungen der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001400311)
 
 (1) Ein Auslandsbond wird vorbehaltlich des § 6 im Prüfungsverfahren
 anerkannt, wenn er nach §§ 7, 10 zur Prüfung angemeldet und nach
@@ -721,6 +726,7 @@ Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
 
 
 ### § 4 Feststellungsbescheide
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001500311)
 
 Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen
 Grunde von keinem Anmeldeberechtigten zur Anerkennung vorgelegt werden
@@ -733,6 +739,7 @@ Entschädigungsansprüche.
 
 
 ### § 5 Nebenurkunden
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001600311)
 
 (1) Rechtsfolgen, die sich nach diesem Gesetz oder den auf Grund
 dieses Gesetzes ergehenden Vorschriften für einen Auslandsbond
@@ -764,6 +771,7 @@ sich nicht erstreckt.
 
 
 ### § 6 Tilgungsstücke
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001700311)
 
 (1) Auslandsbonds, die
 
@@ -802,6 +810,7 @@ zur Tilgung zu verwenden.
 
 
 ### § 7 Anmeldung beim Auslandsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001800311)
 
 (1) Auslandsbonds, deren Anerkennung nach § 3 Abs. 1 Nr. 1
 (Auslandsstücke) beansprucht wird, sind bei dem zuständigen
@@ -813,6 +822,7 @@ Auslandsbevollmächtigten für die Bereinigung deutscher Auslandsbonds
 
 
 ### § 8 Auslandsbevollmächtigte
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE001904301)
 
 (1) Das Bundesministerium der Finanzen und das Auswärtige Amt
 bestellen im Einvernehmen mit dem Bundesministerium für Wirtschaft und
@@ -860,6 +870,7 @@ sinngemäß.
 
 
 ### § 9 Auslandsspruchstellen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002000311)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung die Aufgaben des
 Auslandsbevollmächtigten ganz oder teilweise einer
@@ -897,6 +908,7 @@ entspricht.
 
 
 ### § 10 Anmeldung bei der Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002100311)
 
 (1) Auslandsbonds, deren Anerkennung nach § 3 Abs. 1 Nr. 2 (rechtmäßig
 erworbene Stücke) oder nach § 3 Abs. 1 Nr. 3 (Rückerstattungsstücke)
@@ -909,6 +921,7 @@ beansprucht wird.
 
 
 ### § 11 Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002200311)
 
 (1) Die Aussteller von Auslandsbonds haben der Bankaufsichtsbehörde,
 in deren Bezirk sie ihren Sitz haben, innerhalb dreier Monate nach dem
@@ -930,6 +943,7 @@ sinngemäß.
 
 
 ### § 12 Amtliche Liste der anerkannten Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002300311)
 
 (1) Auslandsbonds, die nach diesem Gesetz anerkannt worden sind,
 werden unter genauer Bezeichnung ihrer Merkmale, insbesondere der
@@ -951,6 +965,7 @@ deren Anerkennung sonst kenntlich gemacht worden ist.
 
 
 ### § 13 Sammelanerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002402301)
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium der Justiz und für Verbraucherschutz nach näherer
@@ -961,6 +976,7 @@ zuständigen Stellen.
 
 
 ### § 14 Leistungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002500311)
 
 Aussteller, Treuhänder und Zahlungsagenten dürfen auf Grund nicht
 anerkannter Auslandsbonds nur die Leistungen gewähren, zu denen sie
@@ -968,6 +984,7 @@ nach diesem Gesetz verpflichtet sind.
 
 
 ### § 15 Ersatzurkunden
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002600311)
 
 (1) Bestimmungen, nach denen ein Auslandsbond für kraftlos erklärt
 oder die Ausstellung einer Ersatzurkunde verlangt werden kann, bleiben
@@ -992,6 +1009,7 @@ Liste ist auf die schon erfolgte Anerkennung zu verweisen.
 
 
 ### § 16 Entzogene Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002700311)
 
 (1) Wer Ansprüche auf Rückgewähr wegen eines im Inland oder Ausland
 bis zum 8. Mai 1945 einschließlich entzogenen Auslandsbonds bei einer
@@ -1018,6 +1036,7 @@ Prüfungsverfahren bindend.
 
 
 ### § 17 Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002801140)
 
 (1) Die nach diesem Gesetz zuständigen Behörden und anderen Stellen
 haben sich Amtshilfe zu leisten. Gebühren und Auslagen für die
@@ -1042,6 +1061,7 @@ vorgenommen werden soll.
 
 
 ### § 18 Entgegennahme von Anmeldungen und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE002900311)
 
 (1) Wenn sich ein Anmelder außerhalb des Geltungsbereichs dieses
 Gesetzes aufhält, kann er die Anmeldung oder andere Erklärungen, die
@@ -1080,6 +1100,7 @@ anderen Rechtsbehelfen und für erneute Anmeldungen nach § 21 Abs. 3,
 
 
 ### § 19 Stichtag
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003000311)
 
 (1) Als Stichtag im Sinne dieses Gesetzes gilt für die im Verzeichnis
 der Auslandsbonds aufgeführten Arten von Auslandsbonds der
@@ -1090,6 +1111,7 @@ Gesetzes.
 
 
 ### § 20 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003101377)
 
 Das Bundesministerium der Finanzen ergreift die erforderlichen
 Maßnahmen, um die Öffentlichkeit, insbesondere in Deutschland und den
@@ -1100,10 +1122,12 @@ Gesetzes hinzuweisen.
 
 
 ## Abschnitt II - Anmeldung bei dem Auslandsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000200311)
 
 
 
 ### § 21 Anmeldung, Anmeldefristen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003200311)
 
 (1) Ein Auslandsbond, dessen Anerkennung mit der Begründung
 beansprucht wird, daß er ein Auslandsstück (§ 3 Abs. 1 Nr. 1) sei, ist
@@ -1137,6 +1161,7 @@ erneuten Anmeldung unverzüglich zu benachrichtigen.
 
 
 ### § 22 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003300311)
 
 (1) In der Anmeldung sind der Name und Vorname (die Firma) sowie die
 Anschrift des Anmelders anzugeben.
@@ -1160,6 +1185,7 @@ erforderlichen Abschriften beifügen.
 
 
 ### § 23 Vorlage des angemeldeten Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003400311)
 
 (1) Der Auslandsbond ist mit der Anmeldung dem
 Auslandsbevollmächtigten vorzulegen, der ihn in Verwahrung nimmt.
@@ -1192,6 +1218,7 @@ Hinterlegung nach Absatz 2 nur bei bestimmten Stellen zulässig ist.
 
 
 ### § 24 Beweisführung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003500311)
 
 (1) Der Anmelder hat zu beweisen, daß die Voraussetzungen für die
 Anerkennung des angemeldeten Auslandsbonds durch den
@@ -1222,6 +1249,7 @@ bewiesen werden können.
 
 
 ### § 25 Unzuständigkeit des Auslandsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003600311)
 
 (1) Ist der Auslandsbevollmächtigte für eine bei ihm vorgenommene
 Anmeldung nicht zuständig, so gibt er die Anmeldung an den zuständigen
@@ -1242,6 +1270,7 @@ gewahrt war, der sich für unzuständig erklärt hat.
 
 
 ### § 26 Zurücknahme der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003700311)
 
 (1) Der Anmelder kann die Anmeldung nur zurücknehmen, solange der
 Auslandsbevollmächtigte noch nicht über sie entschieden hat.
@@ -1253,6 +1282,7 @@ veranlaßt seine Freigabe.
 
 
 ### § 27 Anerkennung des Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003800311)
 
 (1) Der Auslandsbevollmächtigte erkennt den angemeldeten Auslandsbond
 an, wenn er die Anmeldung nach den sich aus § 3 Abs. 1 Nr. 1
@@ -1269,6 +1299,7 @@ Liste (§ 12) und gibt den Bond zurück oder veranlaßt seine Freigabe.
 
 
 ### § 28 Ablehnung der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE003900311)
 
 (1) Der Auslandsbevollmächtigte lehnt vorbehaltlich des § 25 die
 Anerkennung des angemeldeten Auslandsbonds ab, wenn er die
@@ -1288,6 +1319,7 @@ benachrichtigen.
 
 
 ### § 29 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004000311)
 
 (1) Die Entscheidung, durch die der Auslandsbevollmächtigte einen
 angemeldeten Auslandsbond anerkennt, ist unanfechtbar.
@@ -1301,6 +1333,7 @@ bleiben unberührt.
 
 
 ### § 30 Antrag auf Überprüfung der Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004100311)
 
 Der Anmelder kann, wenn er neue Tatsachen oder Beweismittel vorbringt,
 innerhalb zweier Monate nach Eingang des ablehnenden Bescheids,
@@ -1316,6 +1349,7 @@ Antrag auf Überprüfung kann jedoch nicht wiederholt werden.
 
 
 ### § 31 Antrag auf gerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004200311)
 
 (1) Der Anmelder kann eine ablehnende Entscheidung des
 Auslandsbevollmächtigten bei der Kammer für Wertpapierbereinigung, in
@@ -1382,6 +1416,7 @@ Eine weitere Beschwerde findet nicht statt.
 
 
 ### § 32 Wirkung und Durchführung der gerichtlichen Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004300311)
 
 (1) Wird in der Entscheidung über einen nach § 31 Abs. 1 gestellten
 Antrag festgestellt, daß die in diesem Gesetz geforderten
@@ -1398,6 +1433,7 @@ unberührt.
 
 
 ### § 33 Anrufung eines Gerichts des Begebungslands
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004400311)
 
 (1) Kann der Anmelder nach dem anzuwendenden ausländischen Recht ein
 Gericht des Begebungslandes zur Entscheidung darüber anrufen, ob die
@@ -1436,12 +1472,14 @@ Begebungslands widersprechen.
 
 
 ### § 34 Vereinbarte Schiedsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004500311)
 
 Für ein schiedsrichterliches Verfahren, dem der Anmelder und der
 Aussteller sich unterworfen haben, gilt § 33 sinngemäß.
 
 
 ### § 35 Gesetzliche Schiedsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004600311)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen der
 Auslandsbevollmächtigten werden Schiedsgerichte errichtet.
@@ -1462,6 +1500,7 @@ sind unanfechtbar; § 32 ist auf sie anzuwenden.
 
 
 ### § 36 Maßnahmen bei endgültiger Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004700311)
 
 (1) Der Auslandsbevollmächtigte hat, wenn seine ablehnende
 Entscheidung verbindlich geworden ist, vorbehaltlich des Absatzes 6
@@ -1524,10 +1563,12 @@ worden ist, für die Maßnahmen nach Absatz 1 zuständig.
 
 
 ## Abschnitt III - Anmeldung bei der Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000300311)
 
 
 
 ### § 37 Anmeldung, Anmeldefristen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004800311)
 
 (1) Ein Auslandsbond,
 
@@ -1560,6 +1601,7 @@ Anmeldung abgelehnt worden war.
 
 
 ### § 38 Rechtmäßiger Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE004900311)
 
 (1) Rechtmäßiger Erwerber eines Auslandsbonds, dessen Anerkennung nach
 § 3 Abs. 1 Nr. 2 beansprucht wird, ist der Eigentümer oder
@@ -1607,6 +1649,7 @@ die übrigen Miteigentümer die Anmeldung vornehmen.
 
 
 ### § 39 Inhalt der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005000311)
 
 (1) In der Anmeldung sind der Name und Vorname (die Firma), die
 Anschrift sowie der Beruf des Anmelders anzugeben. Sind diese Angaben
@@ -1636,6 +1679,7 @@ Anmeldung die erforderlichen Abschriften beifügen.
 
 
 ### § 40 Vorlage des angemeldeten Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005100311)
 
 (1) Der Auslandsbond ist mit der Anmeldung der Prüfstelle vorzulegen,
 es sei denn, daß der Anmelder nach § 4 einen Feststellungsbescheid
@@ -1668,6 +1712,7 @@ Auflagen abhängig machen.
 
 
 ### § 41 Beweisführung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005200311)
 
 Der Anmelder hat zu beweisen, daß die Voraussetzungen für die
 Anerkennung des angemeldeten Auslandsbonds oder für die Erteilung
@@ -1680,6 +1725,7 @@ werden kann. Im übrigen gilt § 24 sinngemäß.
 
 
 ### § 42 Unzuständigkeit der Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005300311)
 
 (1) Ist die Prüfstelle für eine bei ihr eingegangene Anmeldung nicht
 zuständig, so gibt sie die Anmeldung an die zuständige Prüfstelle oder
@@ -1701,6 +1747,7 @@ erklärt hat.
 
 
 ### § 43 Zurücknahme der Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005400311)
 
 (1) Der Anmelder kann die Anmeldung nur zurücknehmen, solange weder
 die Prüfstelle den Auslandsbond anerkannt (§ 44) noch die Kammer für
@@ -1716,6 +1763,7 @@ ihr die Zurücknahme der Anmeldung unverzüglich zuzuleiten.
 
 
 ### § 44 Anerkennung durch die Prüfstelle
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005500311)
 
 (1) Die Prüfstelle kann vorbehaltlich des § 45 einen nach § 37 Abs. 1
 Nr. 1 angemeldeten Auslandsbond anerkennen, wenn sie die Anmeldung
@@ -1744,6 +1792,7 @@ benachrichtigen.
 
 
 ### § 45 Vorlage an die Kammer für Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005600311)
 
 Die Prüfstelle legt die Anmeldung nach Vornahme der erforderlichen
 Ermittlungen mit ihrer Stellungnahme der für den Sitz des Ausstellers
@@ -1775,6 +1824,7 @@ zuständigen Kammer für Wertpapierbereinigung vor,
 
 
 ### § 46 Einspruch des Ausstellers
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005700311)
 
 (1) Hat die Prüfstelle einen Auslandsbond anerkannt, so steht dem
 Aussteller gegen diese Entscheidung der Einspruch zu. Der Einspruch
@@ -1795,6 +1845,7 @@ Satz 2 gelten sinngemäß.
 
 
 ### § 47 Verfahren und Entscheidung der Kammer für Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005800311)
 
 (1) Die Kammer für Wertpapierbereinigung entscheidet über die
 Anmeldungen und Einsprüche, die ihr von der Prüfstelle vorgelegt
@@ -1848,6 +1899,7 @@ Wertpapierbereinigung gilt § 31 Abs. 6 sinngemäß.
 
 
 ### § 48 Durchführung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE005900311)
 
 (1) Ist ein Auslandsbond durch eine nicht mehr anfechtbare
 Entscheidung anerkannt worden, so veranlaßt die Prüfstelle die
@@ -1866,10 +1918,12 @@ die Prüfstelle den Auslandsbond zurück oder veranlaßt seine Freigabe.
 
 
 ## Abschnitt IV - Doppelanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000400311)
 
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006000311)
 
 (1) Werden für denselben Auslandsbond sowohl die Anerkennung als auch
 die Erteilung eines Feststellungsbescheides beansprucht, so gilt
@@ -1925,10 +1979,12 @@ werden.
 
 
 ## Abschnitt V - Nicht anerkannte Auslandsbonds, Entschädigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000500311)
 
 
 
 ### § 50 Kraftlosigkeit nicht anerkannter Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006100311)
 
 (1) Auslandsbonds, die bis zum Ablauf der für sie geltenden
 Anmeldefristen (§ 21 Abs. 1 Satz 2, Abs. 2, § 37 Abs. 2) nicht zur
@@ -1950,6 +2006,7 @@ Ablauf der für sie geltenden Anmeldefristen (Absatz 1).
 
 
 ### § 51 Nachträgliche Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006200311)
 
 (1) Auslandsbonds, die nach § 50 Abs. 1 oder nach § 50 Abs. 2 Satz 2
 kraftlos geworden sind, können nach näherer Vorschrift des Absatzes 2
@@ -1979,6 +2036,7 @@ Rechtsfolgen für diesen Auslandsbond als nicht eingetreten.
 
 
 ### § 52 Entschädigungsansprüche für kraftlos gewordene Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006300311)
 
 (1) Dem zur Verfügung berechtigten Inhaber eines nach § 50 Abs. 1 oder
 nach § 50 Abs. 2 Satz 2 kraftlos gewordenen Auslandsbonds steht gegen
@@ -2013,6 +2071,7 @@ Absatz 1 verpflichtet.
 
 
 ### § 53 Entschädigungsansprüche aus Feststellungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006400311)
 
 (1) Auf Grund eines Feststellungsbescheides (§§ 4, 47 Abs. 5) steht
 dem Anmelder gegen den Aussteller und solche Dritte, die als Schuldner
@@ -2049,6 +2108,7 @@ Feststellungsbescheide nicht verpflichtet.
 
 
 ### § 54 Entschädigungsansprüche für Tilgungsstücke
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006500311)
 
 (1) Den in § 6 Abs. 1 Nr. 2, 3 bezeichneten Personen, deren
 Auslandsbonds als kraftlos gelten, stehen gegen den Aussteller und
@@ -2075,10 +2135,12 @@ vorbehalten. § 53 Abs. 4 Satz 2 gilt sinngemäß.
 
 
 ## Abschnitt VI - Sammelanerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000600311)
 
 
 
 ### § 55 Antrag auf Sammelanerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006601377)
 
 (1) Die Sammelanerkennung (§ 13) ist nur zulässig, wenn der Aussteller
 sie beantragt. Der Antrag ist innerhalb dreier Monate nach dem
@@ -2102,6 +2164,7 @@ Feststellungsbescheide für sie nicht erteilt werden.
 
 
 ### § 56 Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006701377)
 
 (1) Das Bundesministerium der Finanzen kann zur Vorbereitung der
 Entscheidung über den Antrag auf Sammelanerkennung nach seinem
@@ -2124,6 +2187,7 @@ Entscheidung beauftragen.
 
 
 ### § 57 Entscheidung über die Sammelanerkennung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006802301)
 
 (1) Das Bundesministerium der Finanzen entscheidet im Einvernehmen mit
 dem Bundesministerium der Justiz und für Verbraucherschutz über den
@@ -2145,16 +2209,19 @@ veranlaßt die Veröffentlichung.
 
 
 ### § 58 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE006900311)
 
 Die Bundesregierung kann das in den Fällen der §§ 55 bis 57 zu
 beobachtende Verfahren durch Rechtsverordnung näher regeln.
 
 
 ## Abschnitt VII - Freigabe von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000700311)
 
 
 
 ### § 59 Voraussetzungen der Freigabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007000311)
 
 (1) Kann nach den Bedingungen, die für Auslandsbonds einer bestimmten
 Art gelten, bei Zahlung oder Hinterlegung des vom Aussteller
@@ -2193,6 +2260,7 @@ Umstände war.
 
 
 ### § 60 Gerichtliche Geltendmachung des Freigabeverlangens
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007100311)
 
 (1) Wird einem unter den Voraussetzungen des § 59 gestellten
 Freigabeverlangen nicht entsprochen, so kann der Aussteller bei der
@@ -2240,6 +2308,7 @@ und 3 sinngemäß. Eine weitere Beschwerde findet nicht statt.
 
 
 ### § 61 Wirkung der Freigabeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007200311)
 
 Wenn einem Antrag nach § 60 ganz oder teilweise stattgegeben worden
 ist, ersetzt die rechtskräftige Entscheidung die Willenserklärung der
@@ -2249,10 +2318,12 @@ Verpflichtungen erforderlich ist.
 
 
 ## Abschnitt VIII - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000800311)
 
 
 
 ### § 62 Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007301301)
 
 (1) Im Verfahren vor dem Auslandsbevollmächtigten und der Prüfstelle
 werden keine Kosten erhoben.
@@ -2316,6 +2387,7 @@ Verfahren nach § 60 anzuwenden.
 
 
 ### § 63 Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007400311)
 
 (1) Der Aussteller hat die Kosten für die Bekanntmachung nach § 11
 Abs. 3 sowie für die Veröffentlichungen nach § 12 Abs. 2 zu erstatten.
@@ -2380,6 +2452,7 @@ entstanden sind.
 
 
 ### § 64 Verwaltungsabgabe
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007501377)
 
 (1) Die Aussteller haben als Beitrag zu den Kosten, die durch die
 Durchführung dieses Gesetzes entstehen, eine angemessene
@@ -2400,6 +2473,7 @@ Abgabenordnung und ihrer Durchführungsbestimmungen beigetrieben.
 
 
 ### § 65 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007600311)
 
 Die Bundesregierung kann durch Rechtsverordnung Vorschriften zur
 Durchführung der §§ 63, 64 erlassen, insbesondere Richtsätze für die
@@ -2409,10 +2483,12 @@ Erhebung der Verwaltungsabgabe im einzelnen regeln.
 
 
 ## Abschnitt IX - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG000900311)
 
 
 
 ### § 66 Bindende Wirkung der Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007700311)
 
 Die nach diesem Gesetz ergangenen, einer Anfechtung nicht mehr
 unterliegenden Entscheidungen über die Anerkennung eines Auslandsbonds
@@ -2422,11 +2498,13 @@ nicht etwas anderes ergibt.
 
 
 ### § 67 Ausschließliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007800311)
 
 Die in diesem Gesetz begründeten Zuständigkeiten sind ausschließlich.
 
 
 ### § 68 Pfandrechte und andere Rechte Dritter an Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE007900311)
 
 (1) Pfandgläubiger und andere dinglich Berechtigte können einen
 Auslandsbond für den rechtmäßigen Erwerber (§ 38) anmelden oder sich
@@ -2438,6 +2516,7 @@ an den Entschädigungsansprüchen nach §§ 52 bis 54 fort.
 
 
 ### § 69 Sinngemäß anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008001140)
 
 (1) Soweit in diesem Gesetz nicht etwas anderes bestimmt ist, sind auf
 das Verfahren vor den Gerichten die Vorschriften des Gesetzes über das
@@ -2474,6 +2553,7 @@ Wertpapierbereinigungsgesetzes vom 19. August 1949 (WiGBl. S. 295):
 
 
 ### § 70 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008100311)
 
 (1) Zustellungen, die nach diesem Gesetz oder den auf Grund dieses
 Gesetzes ergehenden Vorschriften auszuführen sind, können dadurch
@@ -2489,6 +2569,7 @@ auszuführen ist, damit einverstanden ist.
 
 
 ### § 71 Kammern für Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008200311)
 
 (1) Unter Kammern für Wertpapierbereinigung im Sinne dieses Gesetzes
 sind die nach § 29 des Wertpapierbereinigungsgesetzes vom 19. August
@@ -2501,6 +2582,7 @@ Entscheidungsbefugnisse auf Grund dieses Gesetzes übertragen.
 
 
 ### § 72 Entscheidungsbefugnis des Vorsitzenden der Kammer für Wertpapierbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008300311)
 
 (1) Der Vorsitzende der Kammer für Wertpapierbereinigung kann ohne
 Zuziehung von Beisitzern
@@ -2522,6 +2604,7 @@ soll, entscheidet der Vorsitzende nach pflichtmäßigem Ermessen.
 
 
 ### § 73 Mehrheit von Ausstellern
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008400311)
 
 (1) Sind Auslandsbonds von mehreren Ausstellern ausgestellt worden, so
 haben die Aussteller die Prüfstelle (§ 11) gemeinsam zu benennen.
@@ -2536,6 +2619,7 @@ Sitz der Prüfstelle.
 
 
 ### § 74 Auslandsbonds des Deutschen Reichs und des ehemaligen Landes Preußen
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008503377)
 
 (1) Als Aussteller der vom ehemaligen Lande Preußen ausgestellten
 Auslandsbonds gilt für die Zwecke dieses Gesetzes die Bundesrepublik
@@ -2551,6 +2635,7 @@ offene Vermögensfragen.
 
 
 ### § 75 Ein- und Ausfuhrvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008600311)
 
 In- und ausländische Vorschriften, nach denen Zahlungen oder die
 Einfuhr, Ausfuhr, Übertragung und Einlösung von Wertpapieren untersagt
@@ -2559,6 +2644,7 @@ sind, bleiben unberührt.
 
 
 ### § 76 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008700311)
 
 (1) Die Bundesregierung kann durch Rechtsverordnung das in diesem
 Gesetz geregelte Verfahren den Vorschriften, Gewohnheiten und
@@ -2582,6 +2668,7 @@ bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ### § 77 Mitwirkung des Begebungslands
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008800311)
 
 (1) Verordnungen nach § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, § 9 Abs. 1, 4
 und 5,
@@ -2602,10 +2689,12 @@ beabsichtigten Maßnahmen nicht widerspricht.
 
 
 ## Abschnitt X - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNG001000311)
 
 
 
 ### § 78 Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE008900311)
 
 (1) Dieses Gesetz gilt nach Maßgabe der §§ 13 und 14 des Gesetzes über
 die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
@@ -2624,6 +2713,7 @@ Ergänzung des Wertpapierbereinigungsgesetzes vom 12. Juli 1951
 
 
 ### § 79 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE009000311)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
@@ -2631,6 +2721,7 @@ Kalendermonats in Kraft.
 (§ 1 Abs. 1)
 
 ### Anlage 1 Verzeichnis der Auslandsbonds
+[Direktlink](https://www.gesetze-im-internet.de/auslwbg/BJNR005530952.html#BJNR005530952BJNE009100311)
 
 (Fundstelle: BGBl. Teil III 4139 - 2, S. 118 - 128;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

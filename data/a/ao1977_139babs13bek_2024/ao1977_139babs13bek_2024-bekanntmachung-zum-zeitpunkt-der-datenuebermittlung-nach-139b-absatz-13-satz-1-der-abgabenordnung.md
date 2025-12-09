@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_139babs13bek_2024/BJNR1610A0024.html#BJNR1610A0024BJNE000100000)
 
 Nach § 139b Absatz 13 Satz 1 der Abgabenordnung in der Fassung der
 Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61),
@@ -35,6 +36,7 @@ und https://online.portal.bzst.de.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ao1977_139babs13bek_2024/BJNR1610A0024.html#BJNR1610A0024BJNE000200000)
 
 Bundesministerium der Finanzen
 

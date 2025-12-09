@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdgbukbminasdv/BJNR158400006.html#BJNR158400006BJNE000100000)
 
 Auf Grund des § 83 Abs. 1 Satz 2 des Bundesdisziplinargesetzes vom 9.
 Juli 2001 (BGBl. I S. 1510) in Verbindung mit § 1 Abs. 1 und 2 des
@@ -33,6 +34,7 @@ Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Übertragung von Befugnissen als oberste Dienstbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bdgbukbminasdv/BJNR158400006.html#BJNR158400006BJNE000206130)
 
 Das Bundesministerium für Arbeit und Soziales überträgt seine
 Befugnisse als oberste Dienstbehörde im Sinne des
@@ -93,6 +95,7 @@ Bundesdisziplinargesetzes) der Beamtinnen und Beamten
 
 
 ## § 2 Dienstvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/bdgbukbminasdv/BJNR158400006.html#BJNR158400006BJNE000306130)
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
@@ -233,6 +236,7 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 
 ## § 3 Höhere Dienstvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/bdgbukbminasdv/BJNR158400006.html#BJNR158400006BJNE000406130)
 
 Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
@@ -366,6 +370,7 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bdgbukbminasdv/BJNR158400006.html#BJNR158400006BJNE000500000)
 
 Diese Verordnung tritt am 20. Juli 2006 in Kraft.
 

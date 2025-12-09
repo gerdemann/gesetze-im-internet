@@ -21,12 +21,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ifukk1992_ndurk1996g/BJNR039720010.html#BJNR039720010BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ifukk1992_ndurk1996g/BJNR039720010.html#BJNR039720010BJNE000200305)
 
 Den von der Konferenz der Regierungsbevollmächtigten in Antalya am 24.
 November 2006 unterzeichneten Änderungsurkunden zur Konstitution und
@@ -40,6 +42,7 @@ vom 24. November 2006 werden nachstehend mit einer amtlichen deutschen
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ifukk1992_ndurk1996g/BJNR039720010.html#BJNR039720010BJNE000301305)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -60,6 +63,7 @@ Vollzugsordnungen sowie ihrer Änderungen zu treffen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ifukk1992_ndurk1996g/BJNR039720010.html#BJNR039720010BJNE000400305)
 
 Das Bundesministerium für Wirtschaft und Technologie kann die
 Konstitution und die Konvention der Internationalen Fernmeldeunion in
@@ -68,6 +72,7 @@ der Neufassung bekannt machen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/ifukk1992_ndurk1996g/BJNR039720010.html#BJNR039720010BJNE000600305)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

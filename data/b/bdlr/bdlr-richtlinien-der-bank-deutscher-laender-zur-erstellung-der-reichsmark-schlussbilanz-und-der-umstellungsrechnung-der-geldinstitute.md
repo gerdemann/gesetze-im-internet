@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000300325)
 
 Auf Grund des § 3 Abs. 8 der Zweiten Verordnung zur Durchführung des
 Umstellungsgesetzes (Bankenverordnung) werden hiermit die folgenden
@@ -27,14 +28,17 @@ Umstellungsrechnung der Geldinstitute erlassen:
 
 
 ## I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNG000100325)
 
 
 
 ### (XXXX) 1. bis 7. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000400325)
 
 
 
 ### 7a. Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000500325)
 
 Soweit nicht in diesen Richtlinien für besondere Fälle etwas anderes
 vorgeschrieben ist, gelten für den Ansatz von Aktiven und Passiven in
@@ -206,6 +210,7 @@ Passiven
 
 
 ### 7b. Grundstücke, Inventar, Warenvorräte
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000600325)
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und
 Geschäftsausstattungen, Maschinen und maschinelle Anlagen sowie für
@@ -228,6 +233,7 @@ Umstellungsrechnung ergeben.
 
 
 ### 7c. Kriegssachschäden
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000700325)
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz
 bis zu einem Betrag angesetzt werden, der zusammen mit dem Restwert
@@ -246,6 +252,7 @@ der Reichsmarkschlußbilanz gilt Ziffer 7a Buchstabe A.
 
 
 ### 7d. Zinsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000800325)
 
 Zinsansprüche für die Zeit bis zum 20. Juni 1948 dürfen mit der sich
 aus Ziffer 7a Buchst A Nr. 5 ergebenden Einschränkung in der
@@ -268,6 +275,7 @@ Eingang gerechnet werden kann.
 
 
 ### 7e. Anleiheablösungsforderungen mit Auslosungsrechten, Reichsschatzanweisungen 1944, Folge III
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE000900325)
 
 (1) Für die Bewertung von Reichsanleiheablösungsforderungen mit
 Auslosungsrecht in der Reichsmarkschlußbilanz gelten folgende
@@ -313,6 +321,7 @@ werden.
 
 
 ### 7f. Bilanztechnische Behandlung und Auswirkungen von Änderungen bisheriger Ansätze
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001000325)
 
 (1) Soweit in der Reichsmarkschlußbilanz Abschreibungen,
 Wertberichtigungen und Rückstellungen rückgängig gemacht werden, die
@@ -367,6 +376,7 @@ Ersatzbeschaffung geschehen.
 
 
 ### 7g. Berichtigungen der Reichsmarkschlußbilanz
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001100325)
 
 (1) Entspricht ein bereits festgestellter Abschluß auf den 20. Juni
 1948 nicht den vorstehenden Grundsätzen, so muß er diesen für die
@@ -422,6 +432,7 @@ zu prüfen.
 
 
 ### 7h. Weitergeltung bisheriger Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001200325)
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen
 Richtlinien nichts Abweichendes bestimmt ist, gelten für die
@@ -432,18 +443,22 @@ Bilanzierungsrichtlinien.
 
 
 ### (XXXX) 8. bis 16. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001300325)
 
 
 
 ## II. bis V.
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNG000200325)
 
 
 
 ### (XXXX) 17. bis 64. (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001400325)
 
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bdlr/BJNR700100949.html#BJNR700100949BJNE001500325)
 
 Bank deutscher Länder
 

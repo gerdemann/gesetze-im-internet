@@ -27,14 +27,17 @@ Mittelbare änderung durch
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000303308)
 
 
 
 ### Erster Titel - Geltungsbereich und Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000403308)
 
 
 
 #### § 1 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002317126)
 
 (1) Die Vorschriften dieses Buches gelten für die gesetzliche
 Kranken-, Unfall- und Rentenversicherung einschließlich der
@@ -55,6 +58,7 @@ sie von den Vorschriften dieses Buches abweichen.
 
 
 #### § 2 Versicherter Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002411377)
 
 (1) Die Sozialversicherung umfasst Personen, die kraft Gesetzes oder
 Satzung (Versicherungspflicht) oder auf Grund freiwilligen Beitritts
@@ -118,6 +122,7 @@ Vorschriften.
 
 
 #### § 3 Persönlicher und räumlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002504308)
 
 Die Vorschriften über die Versicherungspflicht und die
 Versicherungsberechtigung gelten,
@@ -136,6 +141,7 @@ Versicherungsberechtigung gelten,
 
 
 #### § 4 Ausstrahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002603308)
 
 (1) Soweit die Vorschriften über die Versicherungspflicht und die
 Versicherungsberechtigung eine Beschäftigung voraussetzen, gelten sie
@@ -150,6 +156,7 @@ zeitlich begrenzt ist.
 
 
 #### § 5 Einstrahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002702308)
 
 (1) Soweit die Vorschriften über die Versicherungspflicht und die
 Versicherungsberechtigung eine Beschäftigung voraussetzen, gelten sie
@@ -164,15 +171,18 @@ begrenzt ist.
 
 
 #### § 6 Vorbehalt abweichender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE002803308)
 
 Regelungen des über- und zwischenstaatlichen Rechts bleiben unberührt.
 
 
 ### Zweiter Titel - Beschäftigung und selbständige Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000503308)
 
 
 
 #### § 7 Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022110126)
 
 (1) Beschäftigung ist die nichtselbständige Arbeit, insbesondere in
 einem Arbeitsverhältnis. Anhaltspunkte für eine Beschäftigung sind
@@ -243,6 +253,7 @@ gegen Arbeitsentgelt für den Zeitraum von drei Monaten bestanden hat.
 
 
 #### § 7a Feststellung des Erwerbsstatus
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE018408126)
 
 (1) Die Beteiligten können bei der Deutschen Rentenversicherung Bund
 schriftlich oder elektronisch eine Entscheidung beantragen, ob bei
@@ -365,6 +376,7 @@ und des Absatzes 6 Satz 2 vor.
 
 
 #### § 7b Wertguthabenvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE018109311)
 
 Eine Wertguthabenvereinbarung liegt vor, wenn
 
@@ -397,6 +409,7 @@ Eine Wertguthabenvereinbarung liegt vor, wenn
 
 
 #### § 7c Verwendung von Wertguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022203126)
 
 (1) Das Wertguthaben auf Grund einer Vereinbarung nach § 7b kann in
 Anspruch genommen werden
@@ -449,6 +462,7 @@ abweichend von Absatz 1 auf bestimmte Zwecke beschränken.
 
 
 #### § 7d Führung und Verwaltung von Wertguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022301308)
 
 (1) Wertguthaben sind als Arbeitsentgeltguthaben einschließlich des
 darauf entfallenden Arbeitgeberanteils am
@@ -480,6 +494,7 @@ höherer Anlageanteil in Aktien oder Aktienfonds ist zulässig, wenn
 
 
 #### § 7e Insolvenzschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022401308)
 
 (1) Die Vertragsparteien treffen im Rahmen ihrer Vereinbarung nach §
 7b durch den Arbeitgeber zu erfüllende Vorkehrungen, um das
@@ -586,6 +601,7 @@ eine Gemeinde kraft Gesetzes die Zahlungsfähigkeit sichert.
 
 
 #### § 7f Übertragung von Wertguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022502308)
 
 (1) Bei Beendigung der Beschäftigung kann der Beschäftigte durch
 schriftliche Erklärung gegenüber dem bisherigen Arbeitgeber verlangen,
@@ -632,6 +648,7 @@ gesondert auszuweisen.
 
 
 #### § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003013126)
 
 (1) Eine geringfügige Beschäftigung liegt vor, wenn
 
@@ -691,6 +708,7 @@ nicht für das Recht der Arbeitsförderung.
 
 
 #### § 8a Geringfügige Beschäftigung in Privathaushalten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020602308)
 
 Werden geringfügige Beschäftigungen ausschließlich in Privathaushalten
 ausgeübt, gilt § 8. Eine geringfügige Beschäftigung im Privathaushalt
@@ -700,6 +718,7 @@ erledigt wird.
 
 
 #### § 9 Beschäftigungsort
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003104119)
 
 (1) Beschäftigungsort ist der Ort, an dem die Beschäftigung
 tatsächlich ausgeübt wird.
@@ -750,6 +769,7 @@ gegeben, gilt der Arbeitnehmer als in Berlin beschäftigt.
 
 
 #### § 10 Beschäftigungsort für besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003206308)
 
 (1) Für Personen, die ein freiwilliges soziales Jahr oder ein
 freiwilliges ökologisches Jahr im Sinne des
@@ -768,6 +788,7 @@ nicht vorhanden, gilt als Beschäftigungsort Hamburg.
 
 
 #### § 11 Tätigkeitsort
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003302308)
 
 (1) Die Vorschriften über den Beschäftigungsort gelten für
 selbständige Tätigkeiten entsprechend, soweit sich nicht aus Absatz 2
@@ -780,6 +801,7 @@ Aufenthalts.
 
 
 #### § 12 Hausgewerbetreibende, Heimarbeiter und Zwischenmeister
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003404308)
 
 (1) Hausgewerbetreibende sind selbständig Tätige, die in eigener
 Arbeitsstätte im Auftrag und für Rechnung von Gewerbetreibenden,
@@ -808,6 +830,7 @@ Recht der Arbeitsförderung.
 
 
 #### § 13 Reeder, Seeleute und Deutsche Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003504377)
 
 (1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind alle
 abhängig beschäftigten Besatzungsmitglieder an Bord von Seeschiffen;
@@ -818,10 +841,12 @@ Schiffe, die berechtigt sind, die Bundesflagge zu führen.
 
 
 ### Dritter Titel - Arbeitsentgelt und sonstiges Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000603308)
 
 
 
 #### § 14 Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003615119)
 
 (1) Arbeitsentgelt sind alle laufenden oder einmaligen Einnahmen aus
 einer Beschäftigung, gleichgültig, ob ein Rechtsanspruch auf die
@@ -848,6 +873,7 @@ Zuwendungen unberücksichtigt, die nicht in Geld gewährt worden sind.
 
 
 #### § 15 Arbeitseinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003704126)
 
 Arbeitseinkommen ist der nach den allgemeinen
 Gewinnermittlungsvorschriften des Einkommensteuerrechts ermittelte
@@ -857,6 +883,7 @@ Einkommensteuerrecht zu bewerten ist.
 
 
 #### § 16 Gesamteinkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003802308)
 
 Gesamteinkommen ist die Summe der Einkünfte im Sinne des
 Einkommensteuerrechts; es umfasst insbesondere das Arbeitsentgelt und
@@ -864,6 +891,7 @@ das Arbeitseinkommen.
 
 
 #### § 17 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE003910308)
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates zur Wahrung der
@@ -903,6 +931,7 @@ zu bestimmen.
 
 
 #### § 17a Umrechnung von ausländischem Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013105308)
 
 (1) Ist Einkommen zu berücksichtigen, das in fremder Währung erzielt
 wird, wird es in Euro nach dem Referenzkurs umgerechnet, den die
@@ -956,6 +985,7 @@ Versicherungsfall vor dem 1. Juli 1985 eingetreten ist.
 
 
 #### § 18 Bezugsgröße
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004012119)
 
 Bezugsgröße im Sinne der Vorschriften für die Sozialversicherung ist,
 soweit in den besonderen Vorschriften für die einzelnen
@@ -966,10 +996,12 @@ vorvergangenen Kalenderjahr, aufgerundet auf den nächsthöheren, durch
 
 
 ### Vierter Titel - Einkommen beim Zusammentreffen mit Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001804308)
 
 
 
 #### § 18a Art des zu berücksichtigenden Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013248126)
 
 (1) Bei Renten wegen Todes sind als Einkommen zu berücksichtigen
 
@@ -1157,6 +1189,7 @@ Verluste aus folgenden Vermögenseinkommensarten:
 
 
 #### § 18b Höhe des zu berücksichtigenden Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013325126)
 
 (1) Maßgebend ist das für denselben Zeitraum erzielte monatliche
 Einkommen. Mehrere zu berücksichtigende Einkommen sind
@@ -1283,6 +1316,7 @@ auch für einen anderen Versicherungsträger bindend.
 
 
 #### § 18c Erstmalige Ermittlung des Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013404308)
 
 (1) Der Berechtigte hat das zu berücksichtigende Einkommen
 nachzuweisen.
@@ -1310,6 +1344,7 @@ gezahlten Erträge ausstellt.
 
 
 #### § 18d Einkommensänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013508126)
 
 (1) Einkommensänderungen sind erst vom nächstfolgenden 1. Juli an zu
 berücksichtigen; einmalig gezahltes Vermögenseinkommen ist vom Beginn
@@ -1332,6 +1367,7 @@ bleibt unberührt.
 
 
 #### § 18e Ermittlung von Einkommensänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013607119)
 
 (1) Für Bezieher von Arbeitsentgelt und diesem vergleichbaren
 Einkommen hat der Arbeitgeber auf Verlangen des Versicherungsträgers
@@ -1374,10 +1410,12 @@ erneuten Verwaltungsaktes nicht erforderlich.
 
 
 ### Fünfter Titel - Verarbeitung der Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001905126)
 
 
 
 #### § 18f Zulässigkeit der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013715126)
 
 (1) Die Sozialversicherungsträger, ihre Verbände, ihre
 Arbeitsgemeinschaften, die Bundesagentur für Arbeit, die Deutsche Post
@@ -1469,6 +1507,7 @@ ordnen oder für den Zugriff zu erschließen.
 
 
 #### § 18g Angabe der Versicherungsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE013804126)
 
 Vertragsbestimmungen, durch die der einzelne zur Angabe der
 Versicherungsnummer für eine nicht nach § 18f zugelassene Verarbeitung
@@ -1478,18 +1517,22 @@ in anderen als den in § 18f genannten Fällen zu speichern.
 
 
 ### Sechster Titel - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002804126)
 
 
 
 #### § 18h (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021808126)
 
 
 
 ### Siebter Titel - Betriebsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG003900119)
 
 
 
 #### § 18i Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025302126)
 
 (1) Der Arbeitgeber hat zur Teilnahme an den Meldeverfahren zur
 Sozialversicherung bei der Bundesagentur für Arbeit eine
@@ -1535,6 +1578,7 @@ Dateisystem der Beschäftigungsbetriebe gespeichert.
 
 
 #### § 18k Betriebsnummer für Beschäftigungsbetriebe weiterer Meldepflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025401124)
 
 (1) Arbeitgeber haben für knappschaftliche Beschäftigungsbetriebe und
 für Beschäftigungsbetriebe der Seefahrt abweichend von § 18i Absatz 1
@@ -1560,6 +1604,7 @@ Beschäftigungsbetriebe speichert; § 18i Absatz 6 gilt entsprechend.
 
 
 #### § 18l Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025500119)
 
 (1) Beauftragt der Arbeitgeber einen Dritten mit der Durchführung der
 Meldeverfahren nach diesem Gesetzbuch, hat diese Stelle unverzüglich
@@ -1576,6 +1621,7 @@ Verfahrensbeteiligten. § 18i Absatz 2 bis 6 gilt entsprechend.
 
 
 #### § 18m Verarbeitung der Betriebsnummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025602126)
 
 (1) Die Bundesagentur für Arbeit übermittelt die Betriebsnummern und
 die Angaben nach § 18i Absatz 2 und 4 aus dem Dateisystem der
@@ -1604,6 +1650,7 @@ genannten Stellen erforderlich ist.
 
 
 #### § 18n Absendernummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025700119)
 
 (1) Eine meldende Stelle erhält auf elektronischen Antrag bei der
 Vergabe eines Zertifikates zur Sicherung der Datenübertragung von der
@@ -1622,6 +1669,7 @@ Gemeinsamen Grundsätze nach § 28b Absatz 1 Satz 1 Nummer 4.
 
 
 #### § 18o Verarbeitung der Unternehmernummer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026200124)
 
 Die Sozialversicherungsträger, ihre Verbände, ihre
 Arbeitsgemeinschaften, die Bundesagentur für Arbeit, die
@@ -1633,14 +1681,17 @@ Gesetzbuch und dem Künstlersozialversicherungsgesetz erforderlich ist.
 
 
 ## Zweiter Abschnitt - Leistungen und Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000703308)
 
 
 
 ### Erster Titel - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000803308)
 
 
 
 #### § 19 Leistungen auf Antrag oder von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004106308)
 
 Leistungen in der gesetzlichen Kranken- und Rentenversicherung, nach
 dem Recht der Arbeitsförderung sowie in der sozialen
@@ -1652,6 +1703,7 @@ gesetzliche Unfallversicherung nichts Abweichendes ergibt.
 
 
 #### § 19a Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021101308)
 
 Bei der Inanspruchnahme von Leistungen, die den Zugang zu allen Formen
 und allen Ebenen der Berufsberatung, der Berufsbildung, der
@@ -1666,10 +1718,12 @@ dieses Gesetzbuchs im Einzelnen bestimmt sind.
 
 
 ### Zweiter Titel - Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG000903308)
 
 
 
 #### § 20 Aufbringung der Mittel, Übergangsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004213126)
 
 (1) Die Mittel der Sozialversicherung einschließlich der
 Arbeitsförderung werden nach Maßgabe der besonderen Vorschriften für
@@ -1748,6 +1802,7 @@ allein vom Arbeitnehmer zu tragen ist, reduzierten Beitrag.
 
 
 #### § 21 Bemessung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004302308)
 
 Die Versicherungsträger haben die Beiträge, soweit diese von ihnen
 festzusetzen sind, so zu bemessen, dass die Beiträge zusammen mit den
@@ -1765,6 +1820,7 @@ anderen Einnahmen
 
 
 #### § 22 Entstehen der Beitragsansprüche, Zusammentreffen mehrerer Versicherungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004414124)
 
 (1) Die Beitragsansprüche der Versicherungsträger entstehen, sobald
 ihre im Gesetz oder auf Grund eines Gesetzes bestimmten
@@ -1795,6 +1851,7 @@ Absatz 1 Nummer 1c des Sechsten Buches).
 
 
 #### § 23 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004528126)
 
 (1) Laufende Beiträge, die geschuldet werden, werden entsprechend den
 Regelungen der Satzung der Krankenkasse und den Entscheidungen des
@@ -1877,6 +1934,7 @@ bleiben unberührt.
 
 
 #### § 23a Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017507124)
 
 (1) Einmalig gezahltes Arbeitsentgelt sind Zuwendungen, die dem
 Arbeitsentgelt zuzurechnen sind und nicht für die Arbeit in einem
@@ -1940,6 +1998,7 @@ maßgebend.
 
 
 #### § 23b Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE018210124)
 
 (1) Bei Vereinbarungen nach § 7b ist für Zeiten der tatsächlichen
 Arbeitsleistung und für Zeiten der Inanspruchnahme des Wertguthabens
@@ -2077,6 +2136,7 @@ erbringt.
 
 
 #### § 23c Sonstige nicht beitragspflichtige Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020822126)
 
 (1) Zuschüsse des Arbeitgebers zum Krankengeld, Verletztengeld,
 Übergangsgeld, Pflegeunterstützungsgeld oder Krankentagegeld und
@@ -2121,6 +2181,7 @@ diesem Buch.
 
 
 #### § 23d Abgeltung von abgeleiteten Entgeltguthaben bei Beendigung oder Ruhen des Beschäftigungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028900126)
 
 Für die Abgeltung von Entgeltguthaben, die aus Arbeitszeitguthaben
 abgeleitet sind, findet § 23a mit der Maßgabe Anwendung, dass nach
@@ -2130,6 +2191,7 @@ zuzuordnen sind, wenn dieser nicht im laufenden Kalenderjahr liegt.
 
 
 #### § 24 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004610126)
 
 (1) Für Beiträge und Beitragsvorschüsse, die der Zahlungspflichtige
 nicht bis zum Ablauf des Fälligkeitstages gezahlt hat, ist für jeden
@@ -2162,6 +2224,7 @@ erhoben werden, zu behandeln.
 
 
 #### § 25 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004709124)
 
 (1) Ansprüche auf Beiträge verjähren in vier Jahren nach Ablauf des
 Kalenderjahrs, in dem sie fällig geworden sind. Ansprüche auf
@@ -2193,6 +2256,7 @@ Fünften Buches.
 
 
 #### § 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004806119)
 
 (1) Sind Pflichtbeiträge in der Rentenversicherung für Zeiten nach dem
 31\. Dezember 1972 trotz Fehlens der Versicherungspflicht nicht
@@ -2232,6 +2296,7 @@ Absatz 1.
 
 
 #### § 27 Verzinsung und Verjährung des Erstattungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE004906126)
 
 (1) Der Erstattungsanspruch ist nach Ablauf eines Kalendermonats nach
 Eingang des vollständigen Erstattungsantrags, beim Fehlen eines
@@ -2254,6 +2319,7 @@ Widerspruch.
 
 
 #### § 28 Verrechnung und Aufrechnung des Erstattungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005003308)
 
 Der für die Erstattung zuständige Leistungsträger kann
 
@@ -2269,14 +2335,17 @@ Der für die Erstattung zuständige Leistungsträger kann
 
 
 ## Dritter Abschnitt - Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002003308)
 
 
 
 ### Erster Titel - Meldungen des Arbeitgebers und ihre Weiterleitung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002103308)
 
 
 
 #### § 28a Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022940126)
 
 (1) Der Arbeitgeber oder ein anderer Meldepflichtiger hat der
 Einzugsstelle für jeden in der Kranken-, Pflege-, Rentenversicherung
@@ -2864,6 +2933,7 @@ anzuhören.
 
 
 #### § 28b Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE021513126)
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
@@ -2921,6 +2991,7 @@ berufsständischer Versorgungseinrichtungen e. V. zu beteiligen ist.
 
 
 #### § 28c Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014113126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
@@ -2958,10 +3029,12 @@ Melde- und Beitragsverfahren zu bestimmen, insbesondere
 
 
 ### Zweiter Titel - Verfahren und Haftung bei der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002203308)
 
 
 
 #### § 28d Gesamtsozialversicherungsbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014206308)
 
 Die Beiträge in der Kranken- oder Rentenversicherung für einen kraft
 Gesetzes versicherten Beschäftigten oder Hausgewerbetreibenden sowie
@@ -2978,6 +3051,7 @@ Gesamtsozialversicherungsbeitrag.
 
 
 #### § 28e Zahlungspflicht, Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014321126)
 
 (1) Den Gesamtsozialversicherungsbeitrag hat der Arbeitgeber und in
 den Fällen der nach § 7f Absatz 1 Satz 1 Nummer 2 auf die Deutsche
@@ -3127,6 +3201,7 @@ Gesamtsozialversicherungsbeitrag verlangt werden können.
 
 
 #### § 28f Aufzeichnungspflicht, Nachweise der Beitragsabrechnung und der Beitragszahlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014438126)
 
 (1) Der Arbeitgeber hat für jeden Beschäftigten, getrennt nach
 Kalenderjahren, Entgeltunterlagen im Geltungsbereich dieses Gesetzes
@@ -3201,6 +3276,7 @@ geringfügig Beschäftigte enthält.
 
 
 #### § 28g Beitragsabzug
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014506308)
 
 Der Arbeitgeber und in den Fällen der nach § 7f Absatz 1 Satz 1 Nummer
 2 auf die Deutsche Rentenversicherung Bund übertragenen Wertguthaben
@@ -3218,6 +3294,7 @@ Beschäftigte nur Sachbezüge erhält.
 
 
 #### § 28h Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014619126)
 
 (1) Der Gesamtsozialversicherungsbeitrag ist an die Krankenkassen
 (Einzugsstellen) zu zahlen. Die Einzugsstelle überwacht die
@@ -3271,6 +3348,7 @@ Einzugsstelle dem Arbeitgeber zum Jahresende
 
 
 #### § 28i Zuständige Einzugsstelle
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014716126)
 
 Zuständige Einzugsstelle für den Gesamtsozialversicherungsbeitrag ist
 die Krankenkasse, von der die Krankenversicherung durchgeführt wird.
@@ -3288,6 +3366,7 @@ Rentenversicherung.
 
 
 #### § 28k Weiterleitung von Beiträgen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014825308)
 
 (1) Die Einzugsstelle leitet dem zuständigen Träger der
 Pflegeversicherung, der Rentenversicherung und der Bundesagentur für
@@ -3344,6 +3423,7 @@ der Sozialversicherung.
 
 
 #### § 28l Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE014919126)
 
 (1) Die Einzugsstellen, die Träger der Rentenversicherung und die
 Bundesagentur für Arbeit erhalten für
@@ -3400,6 +3480,7 @@ Rentenversicherung Bund sowie der Bundesagentur für Arbeit geregelt.
 
 
 #### § 28m Sonderregelungen für bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015003308)
 
 (1) Der Beschäftigte hat den Gesamtsozialversicherungsbeitrag zu
 zahlen, wenn sein Arbeitgeber ein ausländischer Staat, eine über- oder
@@ -3425,6 +3506,7 @@ des Gesamtsozialversicherungsbeitrags.
 
 
 #### § 28n Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015117126)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
@@ -3454,10 +3536,12 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
 
 ### Dritter Titel - Auskunfts- und Vorlagepflicht, Prüfung, Schadensersatzpflicht und Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002303308)
 
 
 
 #### § 28o Auskunfts- und Vorlagepflicht des Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015209308)
 
 (1) Der Beschäftigte hat dem Arbeitgeber die zur Durchführung des
 Meldeverfahrens und der Beitragszahlung erforderlichen Angaben zu
@@ -3477,6 +3561,7 @@ Gesamtsozialversicherungsbeitrag zahlt, entsprechend.
 
 
 #### § 28p Prüfung bei den Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028404126)
 
 (1) Die Träger der Rentenversicherung prüfen bei den Arbeitgebern, ob
 diese ihre Meldepflichten und ihre sonstigen Pflichten nach diesem
@@ -3776,6 +3861,7 @@ Beamtenversorgungsgesetzes gilt sinngemäß.
 
 
 #### § 28q Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE015420126)
 
 (1) Die Träger der Rentenversicherung und die Bundesagentur für Arbeit
 prüfen bei den Einzugsstellen die Durchführung der Aufgaben, für die
@@ -3848,6 +3934,7 @@ werden.
 
 
 #### § 28r Schadensersatzpflicht, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022001308)
 
 (1) Verletzt ein Organ oder ein Bediensteter der Einzugsstelle
 schuldhaft eine diesem nach diesem Abschnitt auferlegte Pflicht,
@@ -3874,14 +3961,17 @@ Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu zahlen.
 
 
 ## Vierter Abschnitt - Träger der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001004308)
 
 
 
 ### Erster Titel - Verfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001104308)
 
 
 
 #### § 29 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005104308)
 
 (1) Die Träger der Sozialversicherung (Versicherungsträger) sind
 rechtsfähige Körperschaften des öffentlichen Rechts mit
@@ -3896,6 +3986,7 @@ Verantwortung.
 
 
 #### § 30 Eigene und übertragene Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005203308)
 
 (1) Die Versicherungsträger dürfen nur Geschäfte zur Erfüllung ihrer
 gesetzlich vorgeschriebenen oder zugelassenen Aufgaben führen und ihre
@@ -3916,6 +4007,7 @@ festgelegt.
 
 
 #### § 31 Organe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005306308)
 
 (1) Bei jedem Versicherungsträger werden als Selbstverwaltungsorgane
 eine Vertreterversammlung und ein Vorstand gebildet. Jeder
@@ -3950,10 +4042,12 @@ der Organe der Hauptverwaltung ab.
 
 
 #### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005405308)
 
 
 
 #### § 33 Vertreterversammlung, Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005505308)
 
 (1) Die Vertreterversammlung beschließt die Satzung und sonstiges
 autonomes Recht des Versicherungsträgers sowie in den übrigen durch
@@ -3988,6 +4082,7 @@ Für den Beschluss über die Satzung gilt Absatz 1 Satz 2 und 3.
 
 
 #### § 34 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005602308)
 
 (1) Jeder Versicherungsträger gibt sich eine Satzung. Sie bedarf der
 Genehmigung der nach den besonderen Vorschriften für die einzelnen
@@ -4000,6 +4095,7 @@ wird durch die Satzung geregelt.
 
 
 #### § 35 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005704308)
 
 (1) Der Vorstand verwaltet den Versicherungsträger und vertritt ihn
 gerichtlich und außergerichtlich, soweit Gesetz oder sonstiges für den
@@ -4023,6 +4119,7 @@ Vorsitzenden entsprechend.
 
 
 #### § 35a Vorstand bei Orts-, Betriebs- und Innungskrankenkassen sowie Ersatzkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017309126)
 
 (1) Bei den Orts-, Betriebs- und Innungskrankenkassen sowie den
 Ersatzkassen verwaltet der Vorstand die Krankenkasse und vertritt die
@@ -4119,6 +4216,7 @@ Wirkung.
 
 
 #### § 36 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005820311)
 
 (1) Der Geschäftsführer führt hauptamtlich die laufenden
 Verwaltungsgeschäfte, soweit Gesetz oder sonstiges für den
@@ -4192,6 +4290,7 @@ Berufserfahrung erworben hat.
 
 
 #### § 36a Besondere Ausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE005907126)
 
 (1) Durch Satzung können
 
@@ -4246,6 +4345,7 @@ widerspricht.
 
 
 #### § 37 Verhinderung von Organen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006002308)
 
 (1) Solange und soweit die Wahl zu Selbstverwaltungsorganen nicht
 zustande kommt oder Selbstverwaltungsorgane sich weigern, ihre
@@ -4266,6 +4366,7 @@ anzuzeigen.
 
 
 #### § 38 Beanstandung von Rechtsverstößen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006102308)
 
 (1) Verstößt der Beschluss eines Selbstverwaltungsorgans gegen Gesetz
 oder sonstiges für den Versicherungsträger maßgebendes Recht, hat der
@@ -4282,6 +4383,7 @@ Unterrichtung, bestehen.
 
 
 #### § 39 Versichertenälteste und Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006207308)
 
 (1) Bei den Trägern der Rentenversicherung wählt die
 Vertreterversammlung Versichertenälteste.
@@ -4310,6 +4412,7 @@ betreuen. Die Satzung bestimmt das Nähere.
 
 
 #### § 40 Ehrenämter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006304126)
 
 (1) Die Mitglieder der Selbstverwaltungsorgane sowie die
 Versichertenältesten und die Vertrauenspersonen üben ihre Tätigkeit
@@ -4350,6 +4453,7 @@ Absatz 1 genannten Krankenkassen entfällt der Vorschlag des Vorstands.
 
 
 #### § 41 Entschädigung der ehrenamtlich Tätigen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006404308)
 
 (1) Der Versicherungsträger erstattet den Mitgliedern der
 Selbstverwaltungsorgane sowie den Versichertenältesten und den
@@ -4394,6 +4498,7 @@ Aufsichtsbehörde.
 
 
 #### § 42 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006505308)
 
 (1) Die Haftung der Mitglieder der Selbstverwaltungsorgane richtet
 sich bei Verletzung einer ihnen einem Dritten gegenüber obliegenden
@@ -4414,10 +4519,12 @@ verzichten.
 
 
 ### Zweiter Titel - Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versichertenältesten und Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001205308)
 
 
 
 #### § 43 Mitglieder der Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006608308)
 
 (1) Die Zahl der Mitglieder der Selbstverwaltungsorgane wird durch die
 Satzung entsprechend der Größe des Versicherungsträgers bestimmt und
@@ -4453,6 +4560,7 @@ Selbstverwaltungsorganen mehrerer Krankenkassen ist ausgeschlossen.
 
 
 #### § 44 Zusammensetzung der Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006730124)
 
 (1) Die Selbstverwaltungsorgane setzen sich zusammen
 
@@ -4605,6 +4713,7 @@ Das Nähere regelt die Satzung.
 
 
 #### § 45 Sozialversicherungswahlen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006803124)
 
 (1) Die Wahlen sind entweder allgemeine Wahlen oder Wahlen in
 besonderen Fällen. Allgemeine Wahlen sind die im gesamten Wahlgebiet
@@ -4621,6 +4730,7 @@ abgegebenen gültigen Stimmen erhalten haben.
 
 
 #### § 46 Wahl der Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE006905308)
 
 (1) Die Versicherten und die Arbeitgeber wählen die Vertreter ihrer
 Gruppen in die Vertreterversammlung getrennt auf Grund von
@@ -4642,6 +4752,7 @@ Versicherungsträgern trifft die Anzeigepflicht den Wahlausschuss.
 
 
 #### § 47 Gruppenzugehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007009119)
 
 (1) Zur Gruppe der Versicherten gehören
 
@@ -4713,6 +4824,7 @@ Versicherungsträger bezieht.
 
 
 #### § 48 Vorschlagslisten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007109126)
 
 (1) Das Recht, Vorschlagslisten einzureichen, haben
 
@@ -4875,6 +4987,7 @@ Absatz 8 Satz 3 gilt entsprechend.
 
 
 #### § 48a Vorschlagsrecht der Arbeitnehmervereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE012703126)
 
 (1) Arbeitnehmervereinigungen haben nur dann das Recht,
 Vorschlagslisten einzureichen, wenn sie die arbeitsrechtlichen
@@ -4939,6 +5052,7 @@ enthalten über
 
 
 #### § 48b Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE012803308)
 
 (1) Ob eine Vereinigung als Arbeitnehmervereinigung
 vorschlagsberechtigt ist, wird bei Vereinigungen, bei denen nicht eine
@@ -4959,6 +5073,7 @@ einlegen. Für das Beschwerdeverfahren gilt Absatz 2 entsprechend.
 
 
 #### § 48c Feststellung der allgemeinen Vorschlagsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE012902308)
 
 (1) Arbeitnehmervereinigungen, die bei allen Versicherungsträgern die
 Voraussetzungen der Vorschlagsberechtigung erfüllen und glaubhaft
@@ -4991,6 +5106,7 @@ unanfechtbar.
 
 
 #### § 49 Stimmenzahl
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007204308)
 
 (1) Jeder Versicherte hat eine Stimme.
 
@@ -5030,6 +5146,7 @@ Absätzen 2 und 3 Abweichendes bestimmen.
 
 
 #### § 50 Wahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007307308)
 
 (1) Wahlberechtigt ist, wer an dem in der Wahlausschreibung bestimmten
 Tag (Stichtag für das Wahlrecht)
@@ -5072,6 +5189,7 @@ entsprechend.
 
 
 #### § 51 Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007414119)
 
 (1) Wählbar ist, wer am Tag der Wahlausschreibung (Stichtag für die
 Wählbarkeit)
@@ -5199,6 +5317,7 @@ ist.
 
 
 #### § 52 Wahl des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007506126)
 
 (1) Die Vertreter der Versicherten und der Arbeitgeber in der
 Vertreterversammlung wählen auf Grund von Vorschlagslisten getrennt
@@ -5226,6 +5345,7 @@ Rentenversicherung Bund werden gemäß § 64 Absatz 4 gewählt.
 
 
 #### § 53 Wahlorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007606126)
 
 (1) Zur Durchführung der Wahlen werden als Wahlorgane Wahlbeauftragte,
 Wahlausschüsse und Wahlleitungen bestellt. Die Mitglieder der
@@ -5260,6 +5380,7 @@ verfahren wird.
 
 
 #### § 54 Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007708126)
 
 (1) Die Wahlberechtigten wählen durch briefliche Stimmabgabe.
 
@@ -5288,6 +5409,7 @@ amtlichen Wahlbriefumschlägen befinden.
 
 
 #### § 55 Wahlunterlagen und Mitwirkung der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE007905308)
 
 (1) Die Wahlberechtigten wählen mit den ihnen ausgehändigten
 Wahlunterlagen.
@@ -5307,6 +5429,7 @@ notwendigen Angaben zu machen.
 
 
 #### § 56 Wahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008007126)
 
 Das Bundesministerium für Arbeit und Soziales erlässt durch
 Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung
@@ -5375,6 +5498,7 @@ Vorschriften über
 
 
 #### § 57 Rechtsbehelfe im Wahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008104308)
 
 (1) Gegen Entscheidungen und Maßnahmen, die sich unmittelbar auf das
 Wahlverfahren beziehen, sind nur die in dieser Vorschrift, in § 48b
@@ -5413,6 +5537,7 @@ getroffen hat, bleiben wirksam.
 
 
 #### § 58 Amtsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008203308)
 
 (1) Die gewählten Bewerber werden Mitglieder des
 Selbstverwaltungsorgans an dem Tage, an dem die erste Sitzung des
@@ -5426,6 +5551,7 @@ Selbstverwaltungsorgane. Wiederwahl ist zulässig.
 
 
 #### § 59 Verlust der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008303119)
 
 (1) Die Mitgliedschaft in einem Selbstverwaltungsorgan endet vorzeitig
 
@@ -5473,6 +5599,7 @@ Mitglieds ein Stellvertreter.
 
 
 #### § 60 Ergänzung der Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008406126)
 
 (1) Scheiden Mitglieder oder stellvertretende Mitglieder eines
 Selbstverwaltungsorgans vorzeitig aus, fordert der Vorsitzende des
@@ -5537,6 +5664,7 @@ tritt der Zeitpunkt der Aufforderung nach Absatz 1 Satz 1.
 
 
 #### § 61 Wahl der Versichertenältesten und der Vertrauenspersonen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008504308)
 
 (1) Für die Wahl der Versichertenältesten und der Vertrauenspersonen
 gelten die §§ 52, 56 bis 60 und 62 Absatz 4 entsprechend, soweit die
@@ -5552,6 +5680,7 @@ Vertrauenspersonen abweichend von § 60 regeln.
 
 
 #### § 62 Vorsitzende der Selbstverwaltungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008606308)
 
 (1) Die Selbstverwaltungsorgane wählen aus ihrer Mitte einen
 Vorsitzenden und einen stellvertretenden Vorsitzenden, bei der
@@ -5602,6 +5731,7 @@ Selbstverwaltungsorgans gewählt.
 
 
 #### § 63 Beratung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008703308)
 
 (1) Jedes Selbstverwaltungsorgan gibt sich eine Geschäftsordnung.
 
@@ -5653,6 +5783,7 @@ einschlägig erfahrenen Arzt mit beratender Stimme hinzuziehen.
 
 
 #### § 64 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008814126)
 
 (1) Soweit Gesetz oder sonstiges für den Versicherungsträger
 maßgebendes Recht nichts Abweichendes bestimmt, sind die
@@ -5696,6 +5827,7 @@ Nähere zur Stimmengewichtung nach Satz 1 bis 4 regelt die Satzung.
 
 
 #### § 64a Hybride und digitale Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE030100126)
 
 (1) Mitglieder der Selbstverwaltungsorgane können mit ihrer Zustimmung
 an den Sitzungen der Selbstverwaltungsorgane durch Zuschaltung mittels
@@ -5744,6 +5876,7 @@ unberührt.
 
 
 #### § 65 Getrennte Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE008905308)
 
 (1) In den Selbstverwaltungsorganen der Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau ist zur Beschlussfassung eine
@@ -5780,6 +5913,7 @@ innerhalb von drei Wochen nochmals abzustimmen.
 
 
 #### § 66 Erledigungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009003126)
 
 (1) Die Selbstverwaltungsorgane können die Erledigung einzelner
 Aufgaben, mit Ausnahme der Rechtsetzung, Ausschüssen übertragen. Zu
@@ -5796,10 +5930,12 @@ Mitglied widerspricht.
 
 
 ### Dritter Titel - Haushalts- und Rechnungswesen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001304308)
 
 
 
 #### § 67 Aufstellung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009102308)
 
 (1) Die Versicherungsträger stellen für jedes Kalenderjahr
 (Haushaltsjahr) einen Haushaltsplan auf, der alle im Haushaltsjahr
@@ -5815,6 +5951,7 @@ Lohngruppen zu erläutern.
 
 
 #### § 68 Bedeutung und Wirkung des Haushaltsplans
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009202308)
 
 (1) Der Haushaltsplan dient der Feststellung der Mittel, die zur
 Erfüllung der Aufgaben des Versicherungsträgers im Haushaltsjahr
@@ -5828,6 +5965,7 @@ weder begründet noch aufgehoben.
 
 
 #### § 69 Ausgleich, Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung, Personalbedarfsermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009310308)
 
 (1) Der Haushalt ist in Einnahme und Ausgabe auszugleichen.
 
@@ -5855,6 +5993,7 @@ Stellen ist bei gegebenem Anlass, im Übrigen regelmäßig zu überprüfen.
 
 
 #### § 70 Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009418377)
 
 (1) Der Haushaltsplan wird vom Vorstand aufgestellt. Die
 Vertreterversammlung stellt ihn fest.
@@ -5920,6 +6059,7 @@ Verpflichtungen gefährdet wird.
 
 
 #### § 71 Haushaltsplan der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009507308)
 
 (1) Der Haushaltsplan der Deutschen Rentenversicherung Knappschaft-
 Bahn-See ist getrennt nach knappschaftlicher Krankenversicherung,
@@ -5950,6 +6090,7 @@ oder Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind.
 
 
 #### § 71a Haushaltsplan der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017607308)
 
 (1) Der Haushaltsplan der Bundesagentur für Arbeit wird vom Vorstand
 aufgestellt. Der Verwaltungsrat stellt den Haushaltsplan fest.
@@ -5974,6 +6115,7 @@ der durch die Bundesregierung genehmigten Fassung selbst feststellen.
 
 
 #### § 71b Veranschlagung der Arbeitsmarktmittel der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017713140)
 
 (1) Die für Ermessensleistungen der aktiven Arbeitsförderung
 veranschlagten Mittel mit Ausnahme der Mittel für
@@ -6039,6 +6181,7 @@ Verhältnis anzuheben.
 
 
 #### § 71c Eingliederungsrücklage der Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017804308)
 
 Die bis zum Ende des Haushaltsjahres nicht verausgabten Mittel des
 Eingliederungstitels der Bundesagentur für Arbeit werden einer
@@ -6050,6 +6193,7 @@ der nach § 71b Absatz 5 gebildeten Ausgabereste.
 
 
 #### § 71d Haushaltsplan und Kostenverteilungsverfahren der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE019007119)
 
 (1) Der Haushaltsplan der Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau ist getrennt für die Versicherungszweige
@@ -6082,6 +6226,7 @@ berücksichtigen.
 
 
 #### § 71e Ausweisung der Schiffssicherheitsabteilung im Haushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024403126)
 
 Im Haushaltsplan der gewerblichen Berufsgenossenschaft, der die
 Durchführung von Aufgaben nach § 6 des Seeaufgabengesetzes übertragen
@@ -6094,6 +6239,7 @@ Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 #### § 71f Haushaltsplan der Unfallversicherung Bund und Bahn
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024804126)
 
 (1) Der Haushaltsplan der Unfallversicherung Bund und Bahn wird in
 Teilhaushalten aufgestellt, in denen die im Zuständigkeitsbereich nach
@@ -6145,6 +6291,7 @@ erfolgen in dem Teilhaushalt, in dem diese Ausgaben geleistet werden.
 
 
 #### § 72 Vorläufige Haushaltsführung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009613119)
 
 (1) Soweit der Haushaltsplan zu Beginn des Haushaltsjahrs noch nicht
 in Kraft getreten ist, ist der Vorstand ermächtigt zuzulassen, dass
@@ -6174,6 +6321,7 @@ Ernährung und Landwirtschaft erfolgt.
 
 
 #### § 73 Überplanmäßige und außerplanmäßige Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009723126)
 
 (1) Überplanmäßige und außerplanmäßige Ausgaben sowie Maßnahmen, durch
 die Verpflichtungen entstehen können, für die Ausgaben im
@@ -6222,6 +6370,7 @@ diese unaufschiebbar sind, sind sie unverzüglich nachzuholen.
 
 
 #### § 74 Nachtragshaushalt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009803308)
 
 Willigt der Vorstand, bei der Bundesagentur für Arbeit der
 Verwaltungsrat, in überplanmäßige oder außerplanmäßige Ausgaben nach §
@@ -6231,6 +6380,7 @@ und die vorläufige Haushaltsführung entsprechende Anwendung.
 
 
 #### § 75 Verpflichtungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE009903308)
 
 (1) Maßnahmen, die den Versicherungsträger zur Leistung von Ausgaben
 in künftigen Haushaltsjahren verpflichten können
@@ -6247,6 +6397,7 @@ folgenden Haushaltsjahr zu Ausgaben führen.
 
 
 #### § 76 Erhebung der Einnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010008308)
 
 (1) Einnahmen sind rechtzeitig und vollständig zu erheben.
 
@@ -6327,6 +6478,7 @@ wenn dies wirtschaftlich und zweckmäßig ist.
 
 
 #### § 77 Rechnungsabschluss, Jahresrechnung und Entlastung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010114308)
 
 (1) Die Versicherungsträger schließen für jedes Kalenderjahr zur
 Rechnungslegung die Rechnungsbücher ab und stellen auf der Grundlage
@@ -6418,6 +6570,7 @@ gesondert nachzuweisen.
 
 
 #### § 77a Geltung von Haushaltsvorschriften des Bundes für die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017903308)
 
 Für die Aufstellung und Ausführung des Haushaltsplans sowie für die
 sonstige Haushaltswirtschaft der Bundesagentur für Arbeit gelten die
@@ -6428,6 +6581,7 @@ vereinbart werden.
 
 
 #### § 78 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010207308)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates für die Sozialversicherungsträger mit
@@ -6441,6 +6595,7 @@ Versicherungszweige zu berücksichtigen.
 
 
 #### § 79 Geschäftsübersichten und Statistiken der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010313119)
 
 (1) Die Versicherungsträger haben Übersichten über ihre Geschäfts- und
 Rechnungsergebnisse sowie sonstiges statistisches Material aus ihrem
@@ -6510,10 +6665,12 @@ Anwendung.
 
 
 ### Vierter Titel - Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001404308)
 
 
 
 #### § 80 Verwaltung der Mittel, Anlagegrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010403126)
 
 (1) Die Mittel der Versicherungsträger umfassen die Betriebsmittel,
 die Rücklage und das Verwaltungsvermögen. Sie sind so anzulegen und zu
@@ -6533,6 +6690,7 @@ Anlagerichtlinien.
 
 
 #### § 81 Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010502308)
 
 Die Versicherungsträger haben nach Maßgabe der besonderen Vorschriften
 für die einzelnen Versicherungszweige kurzfristig verfügbare Mittel
@@ -6541,6 +6699,7 @@ Einnahme- und Ausgabeschwankungen (Betriebsmittel) bereitzuhalten.
 
 
 #### § 82 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010602308)
 
 Die Versicherungsträger haben nach Maßgabe der besonderen Vorschriften
 für die einzelnen Versicherungszweige zur Sicherstellung ihrer
@@ -6550,6 +6709,7 @@ ausgeglichen werden können, eine Rücklage bereitzuhalten.
 
 
 #### § 82a Verwaltungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029000126)
 
 Das Verwaltungsvermögen umfasst alle Vermögensgegenstände der
 Versicherungsträger nach Maßgabe der besonderen Vorschriften für die
@@ -6576,6 +6736,7 @@ der Rücklage zuzuordnen sind. Es umfasst insbesondere
 
 
 #### § 83 Anlegung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010706126)
 
 (1) Die Mittel können, soweit in den besonderen Vorschriften für die
 einzelnen Versicherungszweige nichts Abweichendes bestimmt ist, die
@@ -6744,6 +6905,7 @@ Staaten zulässig ist.
 
 
 #### § 84 Beleihung von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010802308)
 
 Eine Hypothek, Grundschuld oder Rentenschuld ist als sicher anzusehen,
 wenn die Beleihung die ersten zwei Drittel des Wertes des Grundstücks,
@@ -6751,6 +6913,7 @@ Wohnungseigentums oder Erbbaurechts nicht übersteigt.
 
 
 #### § 85 Genehmigungs- und anzeigepflichtige Vermögensanlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE010914126)
 
 (1) Der Genehmigung der Aufsichtsbehörde bedürfen
 
@@ -6826,6 +6989,7 @@ den Absätzen 1 bis 3b genehmigungs- oder anzeigepflichtig wären.
 
 
 #### § 86 Ausnahmegenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011003126)
 
 Die Versicherungsträger können mit Genehmigung der Aufsichtsbehörde
 ihre Mittel abweichend von § 83 anlegen, wenn wichtige Gründe eine im
@@ -6836,10 +7000,12 @@ bestimmt sein.
 
 
 ### Fünfter Titel - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001504308)
 
 
 
 #### § 87 Umfang der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011105126)
 
 (1) Die Versicherungsträger unterliegen staatlicher Aufsicht. Sie
 erstreckt sich auf die Beachtung von Gesetz und sonstigem Recht, das
@@ -6860,6 +7026,7 @@ dem Bundesamt für Soziale Sicherung übertragen.
 
 
 #### § 88 Prüfung und Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011209126)
 
 (1) Die Aufsichtsbehörde kann die Geschäfts- und Rechnungsführung des
 Versicherungsträgers prüfen.
@@ -6875,6 +7042,7 @@ Daten sowie deren automatisierten Abruf durch die Aufsichtsbehörde.
 
 
 #### § 89 Aufsichtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011304308)
 
 (1) Wird durch das Handeln oder Unterlassen eines Versicherungsträgers
 das Recht verletzt, soll die Aufsichtsbehörde zunächst beratend darauf
@@ -6897,6 +7065,7 @@ und die Verhandlungen leiten.
 
 
 #### § 90 Aufsichtsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011419124)
 
 (1) Die Aufsicht über die Versicherungsträger, deren
 Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus
@@ -6956,6 +7125,7 @@ unterrichtet sie die anderen Aufsichtsbehörden.
 
 
 #### § 90a Zuständigkeitsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017404126)
 
 (1) Der Zuständigkeitsbereich im Sinne des § 90 wird bestimmt:
 
@@ -6986,10 +7156,12 @@ ihrer Satzung nach zuständig ist.
 
 
 ## Fünfter Abschnitt - Versicherungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG001604308)
 
 
 
 ### § 91 Arten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011504126)
 
 (1) Versicherungsbehörden sind die Versicherungsämter und das
 Bundesamt für Soziale Sicherung. Durch Landesrecht können weitere
@@ -7003,6 +7175,7 @@ Ermächtigung auf die obersten Landesbehörden weiter übertragen.
 
 
 ### § 92 Versicherungsämter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011602308)
 
 Versicherungsamt ist die untere Verwaltungsbehörde. Die
 Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
@@ -7019,6 +7192,7 @@ werden.
 
 
 ### § 93 Aufgaben der Versicherungsämter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011703308)
 
 (1) Die Versicherungsämter haben in allen Angelegenheiten der
 Sozialversicherung Auskunft zu erteilen und die sonstigen ihnen durch
@@ -7044,6 +7218,7 @@ Ort, in dem zuletzt die Voraussetzungen des Satzes 1 erfüllt waren.
 
 
 ### § 94 Bundesamt für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE011809126)
 
 (1) Das Bundesamt für Soziale Sicherung ist eine selbständige
 Bundesoberbehörde. Es hat seinen Sitz in Bonn.
@@ -7067,14 +7242,17 @@ nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet.
 
 
 ## Sechster Abschnitt - Verarbeitung von elektronischen Daten in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG003701126)
 
 
 
 ### Erster Titel - Übermittlung von Daten zur und innerhalb der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG003102119)
 
 
 
 #### § 95 Gemeinsame Grundsätze Technik
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024904126)
 
 (1) Meldungen nach diesem Buch erfolgen, soweit nichts Abweichendes
 geregelt ist, durch elektronische Datenübermittlung
@@ -7131,6 +7309,7 @@ Bundesministeriums für Arbeit und Soziales.
 
 
 #### § 95a Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026301126)
 
 (1) Zum elektronischen Datenaustausch nach diesem Buch und zu dem
 Aufwendungsausgleichsgesetz, insbesondere für Meldungen,
@@ -7199,6 +7378,7 @@ Rahmen ihrer Selbstverwaltung.
 
 
 #### § 95b Systemprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026402126)
 
 (1) Meldepflichtige haben Meldungen und Beitragsnachweise durch
 Datenübertragung aus systemgeprüften Programmen oder systemgeprüften
@@ -7241,6 +7421,7 @@ Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
 
 
 #### § 95c Datenaustausch zwischen den Sozialversicherungsträgern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026501124)
 
 (1) Haben Sozialversicherungsträger zur Erfüllung einer gesetzlichen
 Aufgabe nach diesem Gesetzbuch Daten an einen
@@ -7292,10 +7473,12 @@ Datenübertragung zu erfolgen, wenn
 
 
 ### Zweiter Titel - Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002604126)
 
 
 
 #### § 96 Kommunikationsserver
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023305126)
 
 (1) Zur Bündelung der Datenübermittlung vom Arbeitgeber an die
 Sozialversicherungsträger, zwischen Sozialversicherungsträgern und mit
@@ -7327,6 +7510,7 @@ Nähere zum Abrufverfahren wird in Gemeinsamen Grundsätzen entsprechend
 
 
 #### § 97 Annahmestellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023407126)
 
 (1) Zur Annahme der Daten vom oder zur Meldung zum Arbeitgeber, zu
 ihrer technischen Prüfung und zur Weiterleitung innerhalb eines
@@ -7410,6 +7594,7 @@ verarbeiten.
 
 
 #### § 98 Weiterleitung der Daten durch die Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023505126)
 
 Die Einzugsstellen nehmen, soweit durch dieses Gesetzbuch nichts
 anderes bestimmt ist, die für die gesetzliche Kranken-, Pflege- und
@@ -7425,6 +7610,7 @@ oder andere öffentliche Stellen an eine Annahmestelle übertragen.
 
 
 #### § 98a Datei der Stammdaten der an den Meldeverfahren beteiligten Träger der sozialen Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029100126)
 
 (1) Der Spitzenverband Bund der Krankenkassen führt eine
 automatisierte Datei, die den an den Meldeverfahren beteiligten
@@ -7448,10 +7634,12 @@ anzuhören.
 
 
 ### Dritter Titel - Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG003800119)
 
 
 
 #### § 99 Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023604126)
 
 (1) Hat ein Unternehmer nach § 165 Absatz 1 Satz 1 des Siebten Buches
 für das Kalenderjahr, in dem Beitragspflicht bestand, einen
@@ -7487,6 +7675,7 @@ abzugeben. Das Nähere regeln die Gemeinsamen Grundsätze nach § 103.
 
 
 #### § 100 Inhalt des elektronischen Lohnnachweises
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023704124)
 
 (1) Die Meldung des elektronischen Lohnnachweises enthält insbesondere
 folgende Angaben:
@@ -7516,6 +7705,7 @@ Schlüsselzahlen, regeln die Gemeinsamen Grundsätze nach § 103.
 
 
 #### § 101 Stammdatendatei
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023805124)
 
 (1) Die Deutsche Gesetzliche Unfallversicherung e. V. errichtet eine
 Stammdatendatei, in der der zuständige Unfallversicherungsträger, die
@@ -7546,6 +7736,7 @@ Datensätzen, wird in den Gemeinsamen Grundsätzen nach § 103 geregelt.
 
 
 #### § 102 Annahme, Prüfung und Weiterleitung der Daten zum Lohnnachweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023905126)
 
 (1) Für die Annahme, Prüfung und Weiterleitung der Meldung nach § 99
 gilt für die Annahmestelle der Unfallversicherungsträger § 97 Absatz 3
@@ -7568,6 +7759,7 @@ innerhalb eines Arbeitstages weiter. § 97 Absatz 3 gilt entsprechend.
 
 
 #### § 103 Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024002119)
 
 Die Deutsche Rentenversicherung Bund, die Deutsche Gesetzliche
 Unfallversicherung e. V. und der Spitzenverband Bund der Krankenkassen
@@ -7579,10 +7771,12 @@ Arbeitgeberverbände anzuhören hat.
 
 
 ## Siebter Abschnitt - Informationsangebote in den Meldeverfahren der sozialen Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG004000119)
 
 
 
 ### § 104 Informations- und Beratungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024102119)
 
 Arbeitgeber und Beschäftigte haben einen Anspruch, von den an den
 Meldeverfahren nach diesem Buch beteiligten Sozialversicherungsträgern
@@ -7599,6 +7793,7 @@ Auskunftspflicht nachzukommen.
 
 
 ### § 105 Informationsportal
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016404119)
 
 (1) Zur Erfüllung der Auskunftspflicht der Sozialversicherungsträger
 nach § 104 Satz 3 wird beim Spitzenverband Bund der Krankenkassen ein
@@ -7651,10 +7846,12 @@ Informationsportals vorzulegen.
 
 
 ## Achter Abschnitt - Elektronisches Antrags- und Bescheinigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG004100119)
 
 
 
 ### § 106 Elektronischer Antrag des Arbeitgebers auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Beschäftigung in einem oder mehreren Mitgliedsstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016510126)
 
 (1) Gelten für vorübergehend in einem anderen Mitgliedstaat der
 Europäischen Union, in einem Vertragsstaat des Abkommens über den
@@ -7733,6 +7930,7 @@ die A1-Bescheinigung an die betroffene Person zu übermitteln ist.
 
 
 ### § 106a Elektronischer Antrag durch Selbständige und Mehrfacherwerbstätige auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Erwerbstätigkeit in einem oder mehreren Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026601126)
 
 (1) Gelten für vorübergehend in einem anderen Mitgliedstaat der
 Europäischen Union, in einem Vertragsstaat des Abkommens über den
@@ -7836,6 +8034,7 @@ entsprechend.
 
 
 ### § 106b Elektronischer Antrag auf Freistellung von der Anwendung der Rechtsvorschriften des Wohnmitgliedstaates nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 883/2004
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029200126)
 
 In Deutschland wohnende Personen können bei der zuständigen Stelle
 einen Antrag auf Freistellung von der Anwendung der deutschen
@@ -7845,6 +8044,7 @@ Bescheid ist dem Antragsteller elektronisch zugänglich zu machen.
 
 
 ### § 106c Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Tätigkeit in einem Vertragsstaat, mit dem die Bundesrepublik Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über die anzuwendenden Rechtsvorschriften geschlossen hat
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029300126)
 
 (1) Gelten für Personen, die vorübergehend in einem anderen Staat
 beschäftigt sind, mit dem die Bundesrepublik Deutschland ein Abkommen
@@ -7908,6 +8108,7 @@ Selbständige Absatz 3 entsprechend.
 
 
 ### § 106d Gemeinsame Grundsätze zu den Inhalten der Anträge und den zu übermittelnden Datensätzen nach den §§ 106 bis 106c
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029400126)
 
 Das Nähere zu den Verfahren, zu den Inhalten der Anträge und den zu
 übermittelnden Datensätzen nach den §§ 106 bis 106c regeln der
@@ -7921,6 +8122,7 @@ der Deutschen Arbeitgeberverbände vorher anzuhören.
 
 
 ### § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016618126)
 
 (1) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld,
 Pflegeunterstützungsgeld oder Mutterschaftsgeld Angaben über das
@@ -7977,6 +8179,7 @@ Krankentagegeld Meldungen an den Arbeitgeber nach den Sätzen 1 und 2
 
 
 ### § 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE016709126)
 
 (1) Arbeitgeber, die Bescheinigungen nach den §§ 312, 312a und 313 des
 Dritten Buches elektronisch nach § 313a des Dritten Buches übermitteln
@@ -8036,6 +8239,7 @@ Deutschen Arbeitgeberverbände ist vorher anzuhören.
 
 
 ### § 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE027700126)
 
 (1) Die Datenstelle der Rentenversicherung fragt im Auftrag der nach §
 12 Absatz 1 des Bundeselterngeld- und Elternzeitgesetzes zuständigen
@@ -8080,6 +8284,7 @@ sicherstellt.
 
 
 ### § 108b Unbedenklichkeitsbescheinigungen der Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029500126)
 
 Arbeitgeber, insbesondere Nachunternehmer oder die beauftragten
 Verleiher nach § 28e Absatz 3f Satz 1 haben die
@@ -8097,6 +8302,7 @@ vorher anzuhören.
 
 
 ### § 109 Meldung der Arbeitsunfähigkeitszeiten an den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026008126)
 
 (1) Die Krankenkasse hat nach Eingang der Arbeitsunfähigkeitsdaten
 nach § 295 Absatz 1 Satz 1 Nummer 1 des Fünften Buches eine Meldung
@@ -8168,6 +8374,7 @@ Genehmigung anzuhören.
 
 
 ### § 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026701126)
 
 (1) Die Krankenkasse hat nach Eingang der Daten nach § 295 Absatz 1
 Satz 1 Nummer 1 des Fünften Buches für Personen, für die nach den
@@ -8213,6 +8420,7 @@ Buches an die Krankenkassen übermittelt werden.
 
 
 ### § 110 Meldungen der Arbeitgeber an gemeinsame Einrichtungen im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE023210126)
 
 (1) Arbeitgeber, die von einem Tarifvertrag über eine gemeinsame
 Einrichtung im Sinne von § 4 Absatz 2 des Tarifvertragsgesetzes
@@ -8288,10 +8496,12 @@ Sozialversicherung abzustimmen sind.
 
 
 ## Neunter Abschnitt - Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG003005119)
 
 
 
 ### § 110a Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020203119)
 
 (1) Die Behörde bewahrt Unterlagen, die für ihre öffentlich-rechtliche
 Verwaltungstätigkeit, insbesondere für die Durchführung eines
@@ -8354,6 +8564,7 @@ Bildträger aufbewahrt werden, wenn diese Wiedergabe vor dem 1. Februar
 
 
 ### § 110b Rückgabe, Vernichtung und Archivierung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020302308)
 
 (1) Unterlagen, die für eine öffentlich-rechtliche
 Verwaltungstätigkeit einer Behörde nicht mehr erforderlich sind,
@@ -8390,6 +8601,7 @@ schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
 
 
 ### § 110c Verwaltungsvereinbarungen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020405119)
 
 (1) Die Spitzenverbände der Träger der Sozialversicherung und die
 Bundesagentur für Arbeit vereinbaren gemeinsam unter besonderer
@@ -8426,10 +8638,12 @@ Interessen der Betroffenen
 
 
 ## Zehnter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002706119)
 
 
 
 ### § 111 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017036126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -8565,6 +8779,7 @@ Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ### § 112 Allgemeines über Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017121126)
 
 (1) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten sind
@@ -8633,6 +8848,7 @@ Ordnungswidrigkeiten.
 
 
 ### § 113 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE017207308)
 
 Zur Verfolgung und Ahndung der Ordnungswidrigkeiten nach § 111
 arbeiten die Behörden der Zollverwaltung, die Einzugsstellen und die
@@ -8650,10 +8866,12 @@ Asylbewerberleistungsgesetzes zuständigen Behörden.
 
 
 ## Elfter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNG002907119)
 
 
 
 ### § 114 Einkommen beim Zusammentreffen mit Renten wegen Todes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE018807311)
 
 (1) Wenn der versicherte Ehegatte vor dem 1. Januar 2002 verstorben
 ist oder die Ehe vor diesem Tag geschlossen wurde und mindestens ein
@@ -8737,10 +8955,12 @@ Satz 1 Nummer 2.
 
 
 ### § 115 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE018912126)
 
 
 
 ### § 116 Übergangsregelungen für bestehende Wertguthaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE022701308)
 
 [^f772675_18_BJNR138450976BJNE022701308]
 (1)
@@ -8779,10 +8999,12 @@ ist.“
 
 
 ### § 116a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024501126)
 
 
 
 ### § 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020707308)
 
 Soweit die Ausgaben der knappschaftlichen Krankenversicherung der
 Rentner für Versorgungsleistungen der Knappschaftsärzte und
@@ -8792,6 +9014,7 @@ Rentenversicherung nicht zu erstatten.
 
 
 ### § 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE020906301)
 
 § 23c Absatz 2 gilt nicht für Einnahmen aus einer vor dem 11. April
 2017 vereinbarten Tätigkeit als Notärztin oder Notarzt im
@@ -8799,6 +9022,7 @@ Rettungsdienst.
 
 
 ### § 119 Berücksichtigung von Versorgungskrankengeld
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024702126)
 
 Bei der Anwendung von § 7 Absatz 3 Satz 3, § 18a Absatz 3 Satz 1
 Nummer 1 und § 23c Absatz 1 Satz 1 gilt das Versorgungskrankengeld als
@@ -8806,10 +9030,12 @@ Krankengeld der Sozialen Entschädigung.
 
 
 ### § 120 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE024204126)
 
 
 
 ### § 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE025800124)
 
 § 35a Absatz 6a Satz 4 und 5 gilt nicht für die Verträge, denen die
 Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat. Die zur
@@ -8821,10 +9047,12 @@ Vertrag vereinbarten Durchführungsweg und Umfang fortgeführt werden.
 
 
 ### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026101126)
 
 
 
 ### § 123 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026801126)
 
 (1) § 85 Absatz 3c Satz 2 findet nur Anwendung, soweit
 Versicherungsträger nach dem 30. Juni 2020 eine Einrichtung gründen
@@ -8850,6 +9078,7 @@ Verwaltungsvermögen zugewiesen werden.
 
 
 ### § 124 Bestandsabfrage zur Erhebung der Elterneigenschaft und der Anzahl der berücksichtigungsfähigen Kinder nach § 55 Absatz 3 des Elften Buches
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE027802126)
 
 Arbeitgeber müssen ab dem 1. Juli 2025 für die in der sozialen
 Pflegeversicherung versicherungspflichtigen Beschäftigten eine Meldung
@@ -8870,6 +9099,7 @@ nach § 28a Absatz 13 Satz 5 geregelt.
 
 
 ### § 125 Übergangsregelung zum Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften Buches und zur Verzinsung dieses Erstattungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE026909126)
 
 (1) Der Erstattungsanspruch nach § 55 Absatz 3d Satz 1 des Elften
 Buches ist nach Ablauf des Kalendermonats der Beitragszahlung bis zum
@@ -8884,6 +9114,7 @@ Zustimmung des Berechtigten.
 
 
 ### § 126 Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE027000124)
 
 Auf Antrag des Arbeitgebers bei dem für die Prüfung nach § 28p Absatz
 1 Satz 1 zuständigen Rentenversicherungsträger kann für Zeiträume bis
@@ -8892,6 +9123,7 @@ gespeicherten Daten nach § 28p Absatz 6a verzichtet werden.
 
 
 ### § 127 Übergangsregelung für Lehrtätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE027102126)
 
 (1) Stellt ein Versicherungsträger in einem Verfahren zur Feststellung
 des Erwerbsstatus nach § 7a oder im Rahmen der Feststellung der
@@ -8943,6 +9175,7 @@ Beginn der Beschäftigung bis zum 31. Dezember 2026 entsprechend.
 
 
 ### § 128 Außerordentliche Hemmung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE027900126)
 
 In den Fällen, in denen eine Prüfung nach § 28p bei einem Arbeitgeber
 in der Zeit vom 1. Januar 2020 bis zum Ablauf des 31. Dezember 2021
@@ -8957,6 +9190,7 @@ Ablauf des 31. Dezember 2017 fällig geworden sind, bis zum Ablauf des
 
 
 ### § 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028000126)
 
 Für die Sozialversicherungswahlen im Jahr 2023 gilt § 48a Absatz 4 in
 Verbindung mit § 48 Absatz 2 jeweils in der bis zum Ablauf des 17.
@@ -8964,6 +9198,7 @@ Februar 2021 geltenden Fassung.
 
 
 ### § 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028103311)
 
 Einnahmen aus Tätigkeiten als Ärztin oder Arzt, Zahnärztin oder
 Zahnarzt, Tierärztin oder Tierarzt oder Apothekerin oder Apotheker in
@@ -8975,6 +9210,7 @@ Buch.
 
 
 ### § 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028200126)
 
 Einnahmen aus Tätigkeiten als Ärztin oder Arzt in einem Testzentrum im
 Sinne der Coronavirus-Testverordnung oder einem dort angegliederten
@@ -8986,10 +9222,12 @@ einer vor dem 4. März 2021 vereinbarten Tätigkeit.
 
 
 ### § 132 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028301126)
 
 
 
 ### § 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028700126)
 
 Ämter, die am 11. August 2021 bestehen, können entgegen § 35a Absatz 4
 Satz 2 und entgegen § 36 Absatz 4 Satz 2 bis zu ihrem vorgesehenen
@@ -9000,10 +9238,12 @@ entgegen § 35a Absatz 4 Satz 2 zulässig.
 
 
 ### § 134 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE028801126)
 
 
 
 ### § 135 Bericht zur Einführung eines Betriebsstättenverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE029600126)
 
 Die Deutsche Gesetzliche Unfallversicherung e. V. hat dem
 Bundesministerium für Arbeit und Soziales bis zum 31. Dezember 2023
@@ -9018,6 +9258,7 @@ Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
 (BGBl. II 1990, 889, 1046)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/sgb_4/BJNR138450976.html#BJNR138450976BJNE888800301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

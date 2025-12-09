@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zeitpunkt der Wahl, Wahlleiter und Wahlausschuß
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000101308)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001003377)
 
 Der Vorstand der Handwerkskammer bestimmt den Tag der Wahl. Er
 bestellt einen Wahlleiter sowie einen Stellvertreter, die nicht zu den
@@ -36,6 +38,7 @@ gehören und nicht Mitarbeiter der Handwerkskammer sein dürfen.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001103377)
 
 (1) Der Wahlleiter beruft aus der Zahl der Wahlberechtigten vier
 Beisitzer und die erforderliche Zahl von Stellvertretern, die je zur
@@ -88,19 +91,23 @@ Abs. 4 Satz 3 freizustellen.
 
 
 ## Zweiter Abschnitt - Wahlbezirk
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000201308)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001201308)
 
 Der Handwerkskammerbezirk bildet einen Wahlbezirk.
 
 
 ## Dritter Abschnitt - Stimmbezirke
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000301308)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001302377)
 
 Zur Aufteilung der Mitglieder der Vollversammlung können die
 Handwerkskammern in ihrer Satzung gemäß § 93 Abs. 2 der
@@ -108,18 +115,22 @@ Handwerksordnung Gruppen bilden.
 
 
 ## Vierter Abschnitt - Abstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000401308)
 
 
 
 ### (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001403377)
 
 
 
 ## Fünfter Abschnitt - Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000501308)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001601308)
 
 Der Wahlleiter hat spätestens drei Monate vor dem Wahltag in den für
 die Bekanntmachungen der Handwerkskammer bestimmten Organen zur
@@ -128,6 +139,7 @@ Erfordernisse dieser Wahlvorschläge (§§ 8 bis 10) bekanntzugeben.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001703377)
 
 (1) Die Wahlvorschläge gelten für den Wahlbezirk (§ 3); sie sind
 getrennt für die Wahl der Vertreter des Handwerks und des
@@ -168,12 +180,14 @@ leserlich sein.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001801308)
 
 Die Wahlvorschläge müssen spätestens am fünfunddreißigsten Tag vor dem
 Wahltag bei dem Wahlleiter eingereicht sein.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE001903377)
 
 (1) Mit jedem Wahlvorschlag sind einzureichen
 
@@ -218,6 +232,7 @@ Wahltag bei dem Wahlleiter eingereicht sein.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002002308)
 
 (1) Weisen die Wahlvorschläge Mängel auf, so fordert der Wahlleiter
 die Vertrauenspersonen unter Setzung einer angemessenen Frist zu deren
@@ -244,10 +259,12 @@ das ihn von allen anderen Wahlvorschlägen deutlich unterscheidet.
 
 
 ## Sechster Abschnitt - Wahl
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000601308)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002103377)
 
 (1) Für die Wahl der Vertreter des Handwerks und des
 handwerksähnlichen Gewerbes dient als Wahlunterlage ein von der
@@ -292,6 +309,7 @@ bezeichnen. Ergänzungen sind als Nachtrag aufzunehmen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002204377)
 
 (1) Die ihr Wahlrecht wahrnehmenden Gesellen und Arbeitnehmer mit
 abgeschlossener Berufsausbildung weisen dem Wahlleiter ihre
@@ -307,6 +325,7 @@ Vorlage einer Bescheinigung der Agentur für Arbeit nachzuweisen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002301308)
 
 (1) Bei der Wahl sind nur solche Stimmen gültig, die unverändert auf
 einen der vom Wahlausschuß zugelassenen und vom Wahlleiter
@@ -318,6 +337,7 @@ Kennwort bezeichnet.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002403377)
 
 Bei der Wahl dürfen nur von der Handwerkskammer amtlich hergestellte
 Stimmzettel und die zugehörigen amtlich hergestellten Umschläge
@@ -330,6 +350,7 @@ Kennwort der nach § 11 zugelassenen Wahlvorschläge.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002503377)
 
 (1) Die Kammer übermittelt den nach § 96 der Handwerksordnung
 Wahlberechtigten folgende Unterlagen:
@@ -371,6 +392,7 @@ Wahlberechtigung unverzüglich ungeöffnet in die Wahlurne gelegt.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002603377)
 
 (1) Nach Schluss der Abstimmung beruft der Wahlleiter den
 Wahlausschuss ein. Der Wahlausschuss hat unverzüglich das Ergebnis der
@@ -426,6 +448,7 @@ der Aufsichtsbehörde auf Anforderung vorzulegen.
 
 
 ### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE003401308)
 
 (1) Das Wählerverzeichnis, die Wahlberechtigungsscheine und sonstigen
 Wahlunterlagen sind so zu verwahren, daß sie gegen Einsichtnahme durch
@@ -444,6 +467,7 @@ beziehen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002702377)
 
 (1) Nach Übergabe der Unterlagen an den Wahlleiter stellt der
 Wahlausschuss das Gesamtergebnis der Wahl fest, das durch den
@@ -457,19 +481,23 @@ Mehrheit der abgegebenen Stimmen erhalten hat.
 
 
 ## Siebenter Abschnitt - Engere Wahl
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000701308)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002802377)
 
 (weggefallen)
 
 
 ## Achter Abschnitt - Wegfall der Wahlhandlung
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000801308)
 
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE002901308)
 
 Wird für den Wahlbezirk nur ein Wahlvorschlag zugelassen, so gelten
 die darauf bezeichneten Bewerber als gewählt, ohne daß es einer
@@ -477,21 +505,25 @@ Wahlhandlung bedarf.
 
 
 ## Neunter Abschnitt - Beschwerdeverfahren, Kosten
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNG000901308)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE003002377)
 
 Beschwerden über die Ernennung der Beisitzer des Wahlausschusses
 entscheidet die höhere Verwaltungsbehörde.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE003101308)
 
 Die Kosten der Wahl trägt die Handwerkskammer.
 
 
 ### Anlage zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern
+[Direktlink](https://www.gesetze-im-internet.de/hwwahlo/BJNR014320953.html#BJNR014320953BJNE003203377)
 
 (Fundstelle: BGBl. I 1998, 3109;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

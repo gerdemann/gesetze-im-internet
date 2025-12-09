@@ -32,6 +32,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002810119)
 
 
 *    *   Erster Teil
@@ -1136,14 +1137,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Auf der gesamten internationalen Moselstrecke anwendbare Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000100328)
 
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG002800328)
 
 
 
 #### § 1.01 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002908119)
 
 In dieser Verordnung gelten als:
 
@@ -1397,6 +1401,7 @@ ak) „ES-RIS“ der Europäische Standard für
 
 
 #### § 1.02 Schiffsführer
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003003305)
 
 
 1.  Jedes Fahrzeug sowie jeder Schwimmkörper muß unter der Führung einer
@@ -1461,6 +1466,7 @@ ak) „ES-RIS“ der Europäische Standard für
 
 
 #### § 1.03 Pflichten der Besatzung und sonstiger Personen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003103119)
 
 
 1.  Die Besatzung hat den Anweisungen des Schiffsführers Folge zu leisten,
@@ -1499,6 +1505,7 @@ ak) „ES-RIS“ der Europäische Standard für
 
 
 #### § 1.04 Allgemeine Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003201310)
 
 Über diese Verordnung hinaus hat der Schiffsführer alle
 Vorsichtsmaßnahmen zu treffen, welche die allgemeine Sorgfaltspflicht
@@ -1525,6 +1532,7 @@ d)  jede vermeidbare Beeinträchtigung der Umwelt zu verhindern.
 
 
 #### § 1.05 Verhalten unter besonderen Umständen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003300328)
 
 Bei unmittelbar drohender Gefahr müssen die Schiffsführer alle
 Maßnahmen treffen, die die Umstände gebieten, auch wenn sie dadurch
@@ -1532,6 +1540,7 @@ gezwungen sind, von dieser Verordnung abzuweichen.
 
 
 #### § 1.06 Benutzung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003401310)
 
 Unbeschadet der §§ 8.01 und 8.01a dieser Verordnung müssen Länge,
 Breite, Höhe, Tiefgang, Beladung und Geschwindigkeit der Fahrzeuge und
@@ -1540,6 +1549,7 @@ sein.
 
 
 #### § 1.07 Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003504124)
 
 
 1.  Fahrzeuge dürfen nicht tiefer als bis zur Unterkante der
@@ -1616,6 +1626,7 @@ sein.
 
 
 #### § 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003605124)
 
 
 1.  Fahrzeuge müssen so gebaut und ausgerüstet sein, daß die Sicherheit
@@ -1717,6 +1728,7 @@ zu erwarten ist.
 
 
 #### § 1.09 Besetzung des Ruders
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003701308)
 
 
 1.  Auf jedem in Fahrt befindlichen Fahrzeug muß das Ruder mit einer
@@ -1743,6 +1755,7 @@ zu erwarten ist.
 
 
 #### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003809119)
 
 
 1.  Urkunden und sonstige Unterlagen nach Anlage 13 dieser Verordnung
@@ -1761,6 +1774,7 @@ zu erwarten ist.
 
 
 #### § 1.10a Ausnahmen für bestimmte Fahrzeuge in Bezug auf Urkunden und sonstige Unterlagen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014900119)
 
 
 1.  Abweichend von § 1.10 müssen die Schiffspapiere nach Anlage 13 Nummer
@@ -1809,6 +1823,7 @@ zu erwarten ist.
 
 
 #### § 1.11 Mitführen der Moselschifffahrtspolizeiverordnung und des Handbuchs Binnenschifffahrtsfunk an Bord
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003903119)
 
 
 1.  An Bord eines jeden Fahrzeugs, ausgenommen Kleinfahrzeuge und
@@ -1829,6 +1844,7 @@ zu erwarten ist.
 
 
 #### § 1.12 Gefährdung durch Gegenstände an Bord, Verlust von Gegenständen, Schiffahrtshindernisse
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004000328)
 
 
 1.  Gegenstände, die eine Beeinträchtigung nach § 1.04 verursachen können,
@@ -1857,6 +1873,7 @@ zu erwarten ist.
 
 
 #### § 1.13 Schutz der Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004101305)
 
 
 1.  Es ist verboten, Schiffahrtszeichen (z.B. Tonnen, Schwimmstangen,
@@ -1882,6 +1899,7 @@ zu erwarten ist.
 
 
 #### § 1.14 Beschädigung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004200328)
 
 Hat ein Fahrzeug oder ein Schwimmkörper eine Anlage (z.B. Schleuse,
 Brücke, Buhne) beschädigt, muß der Schiffsführer dies unverzüglich der
@@ -1889,6 +1907,7 @@ nächsten zuständigen Behörde mitteilen.
 
 
 #### § 1.15 Verbot des Einbringens von Gegenständen und anderen Stoffen in die Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004301310)
 
 
 1.  Es ist verboten, feste Gegenstände oder andere Stoffe, die geeignet
@@ -1908,6 +1927,7 @@ nächsten zuständigen Behörde mitteilen.
 
 
 #### § 1.16 Rettung und Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004400328)
 
 
 1.  Der Schiffsführer muß bei Unfällen, die Menschen an Bord gefährden, zu
@@ -1932,6 +1952,7 @@ nächsten zuständigen Behörde mitteilen.
 
 
 #### § 1.17 Anzeige von Unfällen, festgefahrene oder gesunkene Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004501119)
 
 
 1.  Unfälle und sonstige Beeinträchtigungen der Verkehrssicherheit sind
@@ -1959,6 +1980,7 @@ nächsten zuständigen Behörde mitteilen.
 
 
 #### § 1.18 Freimachen des Fahrwassers
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004600328)
 
 
 1.  Wenn ein festgefahrenes oder gesunkenes Fahrzeug, ein festgefahrener
@@ -1986,6 +2008,7 @@ nächsten zuständigen Behörde mitteilen.
 
 
 #### § 1.19 Besondere Anweisungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004701305)
 
 Der Schiffsführer hat die Anweisungen zu befolgen, die ihm von den
 Bediensteten der zuständigen Behörden für die Sicherheit und
@@ -1994,6 +2017,7 @@ der grenzüberschreitenden Nacheile
 
 
 #### § 1.20 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004800328)
 
 Der Schiffsführer hat den Bediensteten der zuständigen Behörden die
 erforderliche Unterstützung zu geben, insbesondere ihr sofortiges
@@ -2002,6 +2026,7 @@ Verordnung überwachen können.
 
 
 #### § 1.21 Sondertransporte, Amphibienfahrzeuge, Militärfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004901308)
 
 
 1.  Als Sondertransport gilt die Fortbewegung von
@@ -2050,6 +2075,7 @@ Verordnung überwachen können.
 
 
 #### § 1.22 Anordnungen vorübergehender Art der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005001124)
 
 
 1.  Der Schiffsführer muß die von der zuständigen Behörde erlassenen
@@ -2074,6 +2100,7 @@ Verordnung überwachen können.
 
 
 #### § 1.22a Anordnungen vorübergehender Art der Moselkommission
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014800124)
 
 Die Moselkommission kann Anordnungen vorübergehender Art mit einer
 Gültigkeit von höchstens drei Jahren beschließen, wenn es notwendig
@@ -2092,6 +2119,7 @@ b)  um Versuche, durch die die Sicherheit und Leichtigkeit des
 
 
 #### § 1.23 Erlaubnis besonderer Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005100328)
 
 Sportliche Veranstaltungen, Wasserfestlichkeiten und sonstige
 Veranstaltungen, die die Sicherheit und Leichtigkeit des Verkehrs
@@ -2102,6 +2130,7 @@ können.
 
 
 #### § 1.24 Anwendbarkeit der Verordnung auf Häfen, Lade- und Löschplätze
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005200328)
 
 Diese Verordnung gilt auch auf den Wasserflächen, die Teile von Häfen,
 Lade- und Löschplätzen sind, unbeschadet der für diese erlassenen,
@@ -2110,12 +2139,14 @@ besonderen schiffahrtspolizeilichen Vorschriften.
 
 
 #### § 1.25 Laden, Löschen und Leichtern
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005300328)
 
 Das Laden, Löschen und Leichtern außerhalb der Häfen und der
 behördlich zugelassenen Stellen ist verboten.
 
 
 #### § 1.26 Sonderrechte der Fahrzeuge der Überwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005400328)
 
 Bei der Erfüllung ihrer Aufgaben sind die Fahrzeuge der
 Überwachungsbehörden, die die Bezeichnung nach § 3.27 führen, von der
@@ -2124,16 +2155,19 @@ Schiffahrt nicht beeinträchtigt wird.
 
 
 #### § 1.27 Anordnungen, Erlaubnisse und Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014100305)
 
 Anordnungen, Erlaubnisse und Genehmigungen können von der zuständigen
 Behörde mit Auflagen und Bedingungen versehen werden.
 
 
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000200328)
 
 
 
 #### § 2.01 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge und Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005503119)
 
 
 1.  An jedem Fahrzeug - mit Ausnahme der Kleinfahrzeuge und der Seeschiffe
@@ -2212,6 +2246,7 @@ Behörde mit Auflagen und Bedingungen versehen werden.
 
 
 #### § 2.02 Kennzeichen der Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005600328)
 
 
 1.  Kleinfahrzeuge müssen mit einem amtlichen Kennzeichen versehen sein.
@@ -2252,12 +2287,14 @@ Behörde mit Auflagen und Bedingungen versehen werden.
 
 
 #### § 2.03 Schiffseichung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005700328)
 
 Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen
 Kleinfahrzeuge, muß geeicht sein.
 
 
 #### § 2.04 Einsenkungsmarken und Tiefgangsanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005802124)
 
 
 1.  An allen Fahrzeugen – mit Ausnahme der Kleinfahrzeuge – müssen Marken
@@ -2284,6 +2321,7 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 #### § 2.05 Kennzeichen der Anker
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005901119)
 
 
 1.  Schiffsanker müssen dauerhafte Kennzeichen tragen. Diese müssen
@@ -2311,6 +2349,7 @@ Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff
 nutzen
 
 #### § 2.06 (Anlage 3: Bild 66)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014500305)
 
 
 1.  Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen, müssen ein
@@ -2339,15 +2378,18 @@ nutzen
 
 
 ### Kapitel 3 - Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000300328)
 
 
 
 #### Abschnitt I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000400328)
 
 
 Begriffsbestimmungen und Anwendungen
 
 ##### § 3.01 (Anlage 3  Bild 1)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006002308)
 
 
 1.  In diesem Kapitel gelten als
@@ -2414,6 +2456,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.02 Lichter
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006102119)
 
 
 1.  Soweit nichts anderes bestimmt ist, müssen die Lichter von allen
@@ -2439,6 +2482,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.03 Flaggen, Tafeln und Wimpel
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006200328)
 
 
 1.  Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung
@@ -2467,6 +2511,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.04 Zylinder, Bälle und Kegel
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006300328)
 
 
 1.  Die in dieser Verordnung vorgeschriebenen Zylinder, Bälle und Kegel
@@ -2506,6 +2551,7 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.05 Verbotene oder ausnahmsweise zugelassene Lichter und Sichtzeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006400328)
 
 
 1.  Es ist verboten, andere als die in dieser Verordnung vorgesehenen
@@ -2523,11 +2569,13 @@ Begriffsbestimmungen und Anwendungen
 
 
 ##### § 3.06
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006500328)
 
 (ohne Inhalt)
 
 
 ##### § 3.07 Verbotener Gebrauch von Lichtern, Scheinwerfern, Flaggen, Tafeln und Wimpeln usw.
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006601308)
 
 
 1.  Es ist verboten, Lichter oder Scheinwerfer sowie Flaggen, Tafeln,
@@ -2546,15 +2594,18 @@ Begriffsbestimmungen und Anwendungen
 
 
 #### Abschnitt II. - Nacht- und Tagbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000500328)
 
 
 
 ##### Titel A. - Bezeichnung während der Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000600328)
 
 
 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
 ###### § 3.08 (Anlage 3  Bild 2, 3)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006700328)
 
 
 1.  Einzeln fahrende Fahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -2600,6 +2651,7 @@ Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 Bezeichnung der Schleppverbände in Fahrt
 
 ###### § 3.09 (Anlage 3  Bild 4, 5, 6, 7, 8, 9, 10)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006801308)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
@@ -2749,6 +2801,7 @@ Bezeichnung der Schleppverbände in Fahrt
 Bezeichnung der Schubverbände in Fahrt
 
 ###### § 3.10 (Anlage 3  Bild 11, 12, 13, 14)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006900328)
 
 
 1.  Schubverbände in Fahrt müssen bei Nacht führen:
@@ -2848,6 +2901,7 @@ Bezeichnung der Schubverbände in Fahrt
 Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
 ###### § 3.11 (Anlage 3  Bild 15, 16)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002100310)
 
 
 1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
@@ -2888,6 +2942,7 @@ Bezeichnung gekuppelter Fahrzeuge in Fahrt
 Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
 ###### § 3.12 (Anlage 3  Bild 17)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002200310)
 
 
 1.  Fahrzeuge unter Segel in Fahrt müssen bei Nacht führen:
@@ -2915,6 +2970,7 @@ Bezeichnung der Fahrzeuge unter Segel in Fahrt
 Bezeichnung der Kleinfahrzeuge in Fahrt
 
 ###### § 3.13 (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002301305)
 
 
 1.  Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -3022,6 +3078,7 @@ Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
 bestimmter gefährlicher Güter
 
 ###### § 3.14 (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002403126)
 
 
 1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADN
@@ -3140,6 +3197,7 @@ Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als
 von weniger als 20,00 m aufweist
 
 ###### § 3.15 (Anlage 3  Bild 33)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002500310)
 
 Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
 sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m
@@ -3152,6 +3210,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 28
 Bezeichnung der Fähren in Fahrt
 
 ###### § 3.16 (Anlage 3  Bild 34, 35, 36)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002600310)
 
 
 1.  Nicht frei fahrende Fähren in Fahrt müssen bei Nacht führen:
@@ -3200,6 +3259,7 @@ Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang
 besitzen
 
 ###### § 3.17 (Anlage 3: Bild 37)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002701308)
 
 Fahrzeuge, denen die zuständige Behörde zur Durchfahrt durch Stellen,
 an denen eine bestimmte Reihenfolge gilt, einen Vorrang eingeräumt
@@ -3213,6 +3273,7 @@ Fundstelle: Anlageband zum BGB. II Nr. 38 v. 16.9.1997, S. 29
 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
 ###### § 3.18 (Anlage 3: Bild 38)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002801308)
 
 Ein manövrierunfähiges Fahrzeug in Fahrt muss erforderlichenfalls
 außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
@@ -3249,6 +3310,7 @@ Die Flagge kann durch eine Tafel gleicher Farbe ersetzt werden.
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
 ###### § 3.19 (Anlage 3  Bild 39)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE002900310)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen in Fahrt
@@ -3260,11 +3322,13 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 30
 
 
 ##### Titel B. - Bezeichnung beim Stilliegen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000100310)
 
 
 Bezeichnung der Fahrzeuge beim Stilliegen
 
 ###### § 3.20 (Anlage 3  Bild 40, 41)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003000310)
 
 
 1.  Mit Ausnahme der Kleinfahrzeuge und der in den §§ 3.22 und 3.25
@@ -3325,6 +3389,7 @@ Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung
 bestimmter gefährlicher Güter
 
 ###### § 3.21 (Anlage 3  Bild 42, 43, 44)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003100310)
 
 § 3.14 gilt für die dort genannten Fahrzeuge, Schubverbände und
 gekuppelten Fahrzeuge auch beim Stilliegen.
@@ -3334,6 +3399,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 31
 Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
 ###### § 3.22 (Anlage 3 Bild 45, 46)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003202305)
 
 
 1.  Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
@@ -3363,6 +3429,7 @@ Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen
 
 ###### § 3.23 (Anlage 3 Bild 47)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003301305)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen beim
@@ -3381,6 +3448,7 @@ Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze
 oder Ausleger
 
 ###### § 3.24 (Anlage 3  Bild 48)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003400310)
 
 Fischereifahrzeuge, Kleinfahrzeuge eingeschlossen, die ihre Netze oder
 Ausleger im Fahrwasser oder in dessen Nähe ausgelegt haben, müssen
@@ -3412,6 +3480,7 @@ Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener
 oder gesunkener Fahrzeuge
 
 ###### § 3.25 (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013801119)
 
 
 1.  Schwimmende Geräte bei der Arbeit und Fahrzeuge, die im Fahrwasser
@@ -3538,6 +3607,7 @@ Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden
 Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
 ###### § 3.26 (Anlage 3  Bild 53, 54, 55)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003600310)
 
 
 1.  Stilliegende Fahrzeuge, deren Anker so ausgeworfen sind, daß die
@@ -3598,11 +3668,13 @@ Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
 
 #### Abschnitt III. - Sonstige Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000201308)
 
 
 Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
 ##### § 3.27 (Anlage 3 Bild 56)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003702305)
 
 Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
 blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
@@ -3616,6 +3688,7 @@ Zusätzliche Bezeichnung der Sondertransporte sowie der Fahrzeuge und
 schwimmenden Geräte, die Arbeiten im Fahrwasser ausführen
 
 ##### § 3.28 (Anlage 3: Bild 57)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013901119)
 
 Sondertransporte sowie Fahrzeuge und schwimmende Geräte, die im
 Fahrwasser Arbeiten, Peilungen oder Messungen ausführen, können, um
@@ -3628,6 +3701,7 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 Schutz gegen Wellenschlag
 
 ##### § 3.29 (Anlage 3  Bild 58)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE003900310)
 
 
 1.  In Fahrt befindliche oder stilliegende Fahrzeuge, Schwimmkörper und
@@ -3682,6 +3756,7 @@ Schutz gegen Wellenschlag
 Notzeichen
 
 ##### § 3.30 (Anlage 3  Bild 59)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004000310)
 
 
 1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
@@ -3715,6 +3790,7 @@ Notzeichen
 Hinweis auf das Verbot, das Fahrzeug zu betreten
 
 ##### § 3.31 (Anlage 3: Bild 60)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004102305)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
@@ -3750,6 +3826,7 @@ Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu
 verwenden
 
 ##### § 3.32 (Anlage 3: Bild 61)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004202305)
 
 
 1.  Sofern es durch andere Vorschriften verboten ist, an Bord
@@ -3791,6 +3868,7 @@ verwenden
 Hinweis auf das Verbot des Stilliegens nebeneinander
 
 ##### § 3.33 (Anlage 3  Bild 62)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004300310)
 
 
 1.  Sofern das seitliche Stilliegen in der Nähe eines Fahrzeugs zum
@@ -3823,6 +3901,7 @@ Hinweis auf das Verbot des Stilliegens nebeneinander
 
 
 ##### § 3.34 Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern (Anlage 3: Bild 65)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014200305)
 
 Fahrzeuge, die für den Einsatz von Tauchern verwendet werden, müssen
 zusätzlich zu ihrer Bezeichnung auf Grund anderer Bestimmungen dieser
@@ -3833,15 +3912,18 @@ dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
 
 
 ### Kapitel 4 - Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000301305)
 
 
 Schallzeichen
 
 #### Abschnitt I. - (Anlage 6)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000400310)
 
 
 
 ##### § 4.01 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004401308)
 
 
 1.  Soweit in dieser Verordnung Schallzeichen vorgesehen sind und nicht
@@ -3882,6 +3964,7 @@ Schallzeichen
 
 
 ##### § 4.02 Gebrauch der Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004500310)
 
 
 1.  Vorbehaltlich anderer Bestimmungen dieser Verordnung muß jedes
@@ -3897,6 +3980,7 @@ Schallzeichen
 
 
 ##### § 4.03 Verbotene Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004600310)
 
 
 1.  Es ist verboten, andere als die in dieser Verordnung vorgesehenen
@@ -3915,6 +3999,7 @@ Schallzeichen
 
 
 ##### § 4.04 Notzeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004700310)
 
 
 1.  Ein Fahrzeug, das Hilfe durch Schallzeichen herbeirufen will (Fahrzeug
@@ -3930,10 +4015,12 @@ Schallzeichen
 
 
 #### Abschnitt II. - Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000500310)
 
 
 
 ##### § 4.05 Sprechfunk
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE004803126)
 
 
 1.  Jede Schiffsfunkstelle an Bord eines Fahrzeugs oder einer schwimmenden
@@ -3983,10 +4070,12 @@ Schallzeichen
 
 
 #### Abschnitt III. - Informations- und Navigationsgeräte
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000601305)
 
 
 
 ##### § 4.06 Radar
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014002124)
 
 
 1.  Fahrzeuge dürfen nur dann Radar benutzen, wenn
@@ -4027,6 +4116,7 @@ Schallzeichen
 
 
 ##### § 4.07 Inland AIS und Inland ECDIS
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014308119)
 
 
 1.  Fahrzeuge müssen mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3
@@ -4207,10 +4297,12 @@ Schallzeichen
 
 
 ### Kapitel 5 - Schiffahrtszeichen und Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000700310)
 
 
 
 #### § 5.01 Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005000310)
 
 
 1.  Anlage 7 bestimmt die Schiffahrtszeichen für Verbote, Gebote,
@@ -4230,6 +4322,7 @@ Schallzeichen
 
 
 #### § 5.02 Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005100310)
 
 
 1.  Anlage 8 enthält die Schiffahrtszeichen, die ausgelegt oder
@@ -4246,20 +4339,24 @@ Schallzeichen
 
 
 ### Kapitel 6 - Fahrregeln
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000800310)
 
 
 
 #### Abschnitt I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG000900310)
 
 
 
 ##### § 6.01 Fahrt unter Segel
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005200310)
 
 Fahrzeuge unter Segel - ausgenommen Kleinfahrzeuge - dürfen nur bei
 Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 ##### § 6.02 Gegenseitiges Verhalten von Kleinfahrzeugen und anderen Fahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005300310)
 
 
 1.  Einzeln fahrende Kleinfahrzeuge sowie Schleppverbände und gekuppelte
@@ -4282,6 +4379,7 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 ##### § 6.02a Besondere Fahrregeln für Kleinfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005402305)
 
 
 1.  Kleinfahrzeuge mit Maschinenantrieb müssen Kleinfahrzeugen ohne
@@ -4387,10 +4485,12 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 #### Abschnitt II. - Begegnen und Überholen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001000310)
 
 
 
 ##### § 6.03 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005501308)
 
 
 1.  Das Begegnen oder Überholen ist nur gestattet, wenn das Fahrwasser
@@ -4416,6 +4516,7 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 Begegnen  Grundregeln
 
 ##### § 6.04 (Anlage 3  Bild 63)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005600310)
 
 
 1.  Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
@@ -4478,6 +4579,7 @@ Begegnen  Grundregeln
 
 
 ##### § 6.05 Begegnen  Ausnahmen von den Grundregeln
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005700310)
 
 
 1.  Abweichend von § 6.04 können
@@ -4527,11 +4629,13 @@ Begegnen  Grundregeln
 
 
 ##### § 6.06
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005800310)
 
 (ohne Inhalt)
 
 
 ##### § 6.07 Begegnen im engen Fahrwasser
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE005900310)
 
 
 1.  Um nach Möglichkeit ein Begegnen auf Strecken oder an Stellen zu
@@ -4573,6 +4677,7 @@ Begegnen  Grundregeln
 
 
 ##### § 6.08 Durch Schiffahrtszeichen verbotenes Begegnen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006003305)
 
 
 1.  Auf Strecken, deren Grenzen durch das Tafelzeichen A.4 (Anlage 7)
@@ -4618,6 +4723,7 @@ Begegnen  Grundregeln
 
 
 ##### § 6.09 Überholen  Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006100310)
 
 
 1.  Das Überholen ist nur gestattet, nachdem sich der Überholende
@@ -4635,6 +4741,7 @@ Begegnen  Grundregeln
 
 
 ##### § 6.10 Überholen  Verhalten und Zeichengebung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006200310)
 
 
 1.  Der Überholende darf an Backbord oder an Steuerbord des
@@ -4701,6 +4808,7 @@ Begegnen  Grundregeln
 
 
 ##### § 6.11 Überholverbot durch Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006300310)
 
 Unbeschadet des § 6.08 Nr. 1 besteht
 
@@ -4724,10 +4832,12 @@ b)  auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
 
 
 #### Abschnitt III. - Weitere Regeln für die Fahrt
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001100310)
 
 
 
 ##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006400310)
 
 
 1.  Auf Strecken, die mit einem der Tafelzeichen B.1, B.2a, B.2b, B.3a,
@@ -4750,6 +4860,7 @@ b)  auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
 
 
 ##### § 6.13 Wenden
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006500310)
 
 
 1.  Fahrzeuge dürfen nur wenden, nachdem sie sich vergewissert haben, daß
@@ -4797,6 +4908,7 @@ b)  auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
 
 
 ##### § 6.14 Verhalten bei der Abfahrt
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006600310)
 
 § 6.13 gilt entsprechend für Fahrzeuge, ausgenommen Fähren, die ihren
 Liege- oder Ankerplatz verlassen, ohne zu wenden; statt der
@@ -4807,12 +4919,14 @@ geben:
 
 
 ##### § 6.15 Verbot des Hineinfahrens in die Abstände zwischen Teilen eines Schleppverbandes
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006700310)
 
 Es ist verboten, in die Abstände zwischen den Teilen eines
 Schleppverbandes hineinzufahren.
 
 
 ##### § 6.16 Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006800310)
 
 
 1.  Fahrzeuge dürfen aus einem Hafen oder einer Nebenwasserstraße nur
@@ -4887,6 +5001,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.17 Fahrt auf gleicher Höhe, Verbot der Annäherung an Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE006901308)
 
 
 1.  Fahrzeuge dürfen auf gleicher Höhe nur fahren, wo es der verfügbare
@@ -4913,6 +5028,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.18 Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007000310)
 
 
 1.  Es ist verboten, Anker, Trossen oder Ketten schleifen zu lassen.
@@ -4933,6 +5049,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.19 Schiffahrt durch Treibenlassen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007100310)
 
 
 1.  Schiffahrt durch Treibenlassen ist ohne Erlaubnis der zuständigen
@@ -4952,6 +5069,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.20 Vermeidung von Wellenschlag
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007203119)
 
 
 1.  Fahrzeuge müssen ihre Geschwindigkeit so einrichten, daß Wellenschlag
@@ -4998,6 +5116,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.21 Zusammenstellung der Verbände
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007300310)
 
 
 1.  Fahrzeuge mit Maschinenantrieb, die einen Verband fortbewegen, müssen
@@ -5034,6 +5153,7 @@ Schleppverbandes hineinzufahren.
 
 
 ##### § 6.22 Sperrung der Schifffahrt und gesperrte Wasserflächen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007402308)
 
 
 1.  Wenn die zuständige Behörde durch ein allgemeines Zeichen A.1 (Anlage
@@ -5075,6 +5195,7 @@ Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an
 festgefahrenen oder gesunkenen Fahrzeugen
 
 ##### § 6.22a (Anlage 3  Bilder 50a, 50b, 52)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007500310)
 
 Es ist verboten, an den in § 3.25 genannten Fahrzeugen an der Seite
 vorbeizufahren, an der sie das rote Licht oder die roten Lichter nach
@@ -5088,10 +5209,12 @@ zeigen.
 
 
 #### Abschnitt IV. - Fähren
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001200310)
 
 
 
 ##### § 6.23 Verhalten der Fähren
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007601305)
 
 
 1.  Fähren dürfen die Wasserstraßen nur überqueren, wenn sie sich
@@ -5127,10 +5250,12 @@ zeigen.
 
 
 #### Abschnitt V. - Durchfahren von Brücken, Wehren und Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001300310)
 
 
 
 ##### § 6.24 Durchfahren von Brücken und Wehren  Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007700310)
 
 
 1.  In einer Brücken- oder Wehröffnung gilt § 6.07, es sei denn, das
@@ -5163,6 +5288,7 @@ zeigen.
 
 
 ##### § 6.25 Durchfahrt unter festen Brücken
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007800310)
 
 
 1.  Sind bestimmte Öffnungen fester Brücken durch ein allgemeines Zeichen
@@ -5209,6 +5335,7 @@ zeigen.
 
 
 ##### § 6.26 Durchfahrt der Bootsschleusen und Bootsgassen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE007900310)
 
 
 1.  Alle Fahrzeuge mit einer Länge von weniger als 18,00 m, einer Breite
@@ -5253,11 +5380,13 @@ zeigen.
 
 
 ##### § 6.27 Durchfahren der Wehre
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008000310)
 
 Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.28 Durchfahren der Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008104305)
 
 
 1.
@@ -5423,6 +5552,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008200310)
 
 
 1.  Die Einfahrt in die Schleuse wird bei Tag und bei Nacht durch
@@ -5488,6 +5618,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.29 Vorrecht auf Schleusung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008305119)
 
 
 1.
@@ -5593,10 +5724,12 @@ Das Durchfahren der Wehre ist verboten.
 
 
 #### Abschnitt VI. - Unsichtiges Wetter, Benutzung von Radar
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001400310)
 
 
 
 ##### § 6.30 Alle fahrenden Fahrzeuge bei unsichtigem Wetter
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008403308)
 
 
 1.  Bei unsichtigem Wetter müssen alle Fahrzeuge Radar benutzen.
@@ -5625,6 +5758,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.31 Stillliegende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008502305)
 
 
 1.  Fahrzeuge, die in der Fahrrinne oder deren Nähe stillliegen, müssen
@@ -5653,6 +5787,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.32 Mit Radar fahrende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008601308)
 
 
 1.  Fahrzeuge dürfen nur mit Radar fahren, wenn sich eine Person, die
@@ -5722,6 +5857,7 @@ Das Durchfahren der Wehre ist verboten.
 
 
 ##### § 6.33 Nicht mit Radar fahrende Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008701308)
 
 Fahrzeuge und Verbände, die kein Radar benutzen können und einen
 Liegeplatz aufsuchen müssen, müssen während der Fahrt zu dieser Stelle
@@ -5767,15 +5903,18 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 ##### § 6.34
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008802308)
 
 (weggefallen)
 
 
 ### Kapitel 7 - Regeln für das Stilliegen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001500310)
 
 
 
 #### § 7.01 Allgemeine Grundsätze für das Stilliegen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE008902124)
 
 
 1.  Unbeschadet anderer Bestimmungen dieser Verordnung müssen Fahrzeuge
@@ -5819,6 +5958,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.02 Liegeverbot
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009001305)
 
 
 1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
@@ -5909,6 +6049,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.03 Ankern und Benutzung von Stelzen oder Ankerpfählen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009101305)
 
 
 1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
@@ -5946,6 +6087,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.04 Festmachen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009201305)
 
 
 1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen am Ufer
@@ -5984,6 +6126,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.05 Liegestellen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009300310)
 
 
 1.  Auf Liegestellen, bei denen das Tafelzeichen E.5 (Anlage 7)
@@ -6026,6 +6169,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.06 Besondere Liegestellen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009401126)
 
 
 1.  Auf Liegestellen, bei denen eines der Tafelzeichen E.5.4 bis E.5.15
@@ -6062,6 +6206,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.07 Mindestabstände bei Beförderung bestimmter gefährlicher Güter beim Stillliegen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009503126)
 
 
 1.  Zu einem Fahrzeug, Schubverband oder zu gekuppelten Fahrzeugen müssen
@@ -6105,6 +6250,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 7.08 Wache und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009603305)
 
 
 1.  Eine einsatzfähige Wache muss sich ständig an Bord aufhalten
@@ -6186,10 +6332,12 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 ### Kapitel 8 - Zusatzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001600310)
 
 
 
 #### § 8.01 Höchstabmessungen der Fahrzeuge und Verbände
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009703124)
 
 
 1.  Unbeschadet des § 9.04 dürfen Fahrzeuge und Verbände folgende
@@ -6316,6 +6464,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 #### § 8.01a Fahrgeschwindigkeit
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009800310)
 
 Unbeschadet der §§ 1.04 und 1.06 beträgt die zulässige
 Höchstgeschwindigkeit gegenüber dem Ufer allgemein 30 km/h
@@ -6351,6 +6500,7 @@ e)  für bestimmte Strecken, auf denen die zuständige Behörde befristet
 
 
 #### § 8.02 Geschleppte und schleppende Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE009900310)
 
 
 1.  Ein Schubverband darf nicht geschleppt werden.
@@ -6369,6 +6519,7 @@ e)  für bestimmte Strecken, auf denen die zuständige Behörde befristet
 
 
 #### § 8.03 Schubverbände, die andere Fahrzeuge als Schubleichter mitführen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010000310)
 
 Ein Schubverband darf andere Fahrzeuge als Schubleichter mitführen,
 wenn dies im Schiffsattest des schiebenden und des geschobenen
@@ -6381,6 +6532,7 @@ sie geeignet sind, im Schubverband zu fahren.
 
 
 #### § 8.04 Schubverbände, die Trägerschiffsleichter mitführen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010100310)
 
 Trägerschiffsleichter dürfen nicht an die Spitze eines Schubverbandes
 gesetzt werden. Die für die jeweiligen Flußabschnitte zuständigen
@@ -6388,6 +6540,7 @@ Behörden können jedoch Ausnahmen hiervon zulassen.
 
 
 #### § 8.05 Fortbewegung von Schubleichtern außerhalb eines Schubverbandes
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010200310)
 
 Schubleichter dürfen außerhalb eines Schubverbandes nur unter
 Beachtung der von der zuständigen Behörde erlassenen Vorschriften oder
@@ -6395,6 +6548,7 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
 
 
 #### § 8.06 Kupplungen der Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010301305)
 
 
 1.  Die Kupplungen eines Schubverbandes müssen die starre Verbindung aller
@@ -6420,6 +6574,7 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
 
 
 #### § 8.07 Sprechverbindung auf Verbänden sowie Fahrzeugen, deren Länge 110,00 m überschreitet
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010402305)
 
 
 1.  (ohne Inhalt)
@@ -6530,6 +6685,7 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
 
 
 #### § 8.08 Begehbarkeit der Schubverbände
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010500310)
 
 Der Schubverband muß leicht und gefahrlos begehbar sein. Etwaige
 Zwischenräume zwischen den Fahrzeugen müssen durch geeignete
@@ -6537,11 +6693,13 @@ Schutzvorrichtungen gesichert sein.
 
 
 #### § 8.09
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010601310)
 
 (ohne Inhalt)
 
 
 #### § 8.10 Bleib-weg-Signal
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010701308)
 
 
 1.  Bei Zwischenfällen oder Unfällen, die ein Freiwerden der beförderten
@@ -6642,6 +6800,7 @@ Schutzvorrichtungen gesichert sein.
 
 
 #### § 8.11 Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als 12 Fahrgästen zugelassen sind
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010801305)
 
 Für Fahrzeuge, die für die Beförderung und Übernachtung von mehr als
 12 Fahrgästen zugelassen sind, gelten:
@@ -6677,6 +6836,7 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 
 
 #### § 8.12 Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014600305)
 
 
 1.  Vor Beginn des Bunkerns von Flüssigerdgas (LNG) muss der Schiffsführer
@@ -6733,6 +6893,7 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 
 
 #### § 8.13 Anlegestellen für Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE010902305)
 
 
 1.  Fahrgastschiffe dürfen nur an Anlegestellen anlegen, die von der
@@ -6750,10 +6911,12 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 
 
 ### Kapitel 9 - Besondere Regeln für die Fahrt und das Stilliegen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001700310)
 
 
 
 #### § 9.01 Fahrbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011000310)
 
 Beim Durchfahren der Flußkrümmung in Höhe der Eisenbahnbrücke südlich
 von Diedenhofen/Thionville sind folgende Bestimmungen zu beachten:
@@ -6768,6 +6931,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 #### § 9.02 Durchfahrt durch die Schleuse Metz außerhalb der Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011101305)
 
 
 1.  Außerhalb der der Schiffahrt bekanntgegebenen Betriebszeiten ist für
@@ -6810,6 +6974,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 #### § 9.03 Verkehrsregelung im Unterkanal der Koblenzer Schleusen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011201305)
 
 
 1.  Die Fahrrinnentiefe der Mosel beträgt von der Moselmündung (Mosel-km
@@ -6846,6 +7011,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 #### § 9.04 Fahrt von Schubverbänden in der Moselmündung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011301310)
 
 
 1.  Von der Mündung der Mosel in den Rhein bis Mosel-km 1,0 dürfen
@@ -6866,6 +7032,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 #### § 9.05 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011405119)
 
 
 1.  Die Schiffsführer der Verbände und der nachfolgend aufgeführten
@@ -7116,10 +7283,12 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 ### Kapitel 10 - Beschränkung der Schiffahrt bei Hochwasser
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001800310)
 
 
 
 #### § 10.01 Hochwassermarken
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011500310)
 
 
 1.  Die Hochwassermarken werden durch folgende Wasserstände bestimmt:
@@ -7321,6 +7490,7 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 #### § 10.02 Regeln für die Fahrt, wenn die Hochwassermarken erreicht oder überschritten sind
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011601308)
 
 
 1.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke I, so
@@ -7379,14 +7549,17 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 ## Zweiter Teil - Umweltbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG001900310)
 
 
 
 ### Kapitel 11 - Gewässerschutz und Entsorgung von Schiffsabfällen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNG002001305)
 
 
 
 #### § 11.01 Begriffsbestimmungen und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011702305)
 
 Im Sinne dieses Kapitels bedeuten:
 
@@ -7404,6 +7577,7 @@ Im Sinne dieses Kapitels bedeuten:
 
 
 #### § 11.02 Allgemeine Sorgfaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011801305)
 
 Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord,
 müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine
@@ -7414,6 +7588,7 @@ möglich zu vermeiden.
 
 
 #### § 11.03 Verbot der Einbringung und Einleitung
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE011901305)
 
 
 1.  Es ist verboten, von Fahrzeugen aus öl- und fetthaltigen
@@ -7437,6 +7612,7 @@ möglich zu vermeiden.
 
 
 #### § 11.04 Sammlung und Behandlung der Abfälle an Bord
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012001305)
 
 
 1.  Der Schiffsführer hat sicherzustellen, dass die in § 11.03 Nr. 1
@@ -7468,6 +7644,7 @@ möglich zu vermeiden.
 
 
 #### § 11.05 Ölkontrollbuch, Abgabe an Annahmestellen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012101305)
 
 
 1.  Jedes motorgetriebene Fahrzeug muss, soweit es Gasöl verwendet, ein
@@ -7503,6 +7680,7 @@ möglich zu vermeiden.
 
 
 #### § 11.06 Sorgfaltspflicht beim Bunkern
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012205124)
 
 
 1.  Der Schiffsführer hat beim Bunkern von Brenn- und Schmierstoffen dafür
@@ -7563,6 +7741,7 @@ möglich zu vermeiden.
 Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 #### § 11.07 (Anlage 3: Bild 62)
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014700305)
 
 
 1.  Die in § 11.06 Nummer 1 Buchstabe a und Buchstabe b und Nummer 2
@@ -7691,6 +7870,7 @@ Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
 #### § 11.08 Sammlung, Abgabe und Annahme von Abfällen aus dem Ladungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012302305)
 
 
 1.  Bei der Restentladung sowie bei der Abgabe und Annahme von Abfällen
@@ -7709,12 +7889,14 @@ Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
 #### § 11.09 Anstrich und Außenreinigung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012502305)
 
 Es ist verboten, die Außenhaut der Fahrzeuge mit Öl anzustreichen oder
 mit Mitteln zu reinigen, die nicht in das Gewässer gelangen dürfen.
 
 
 #### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012602305)
 
 (Fundstelle des Originaltextes: BGBl. II 2011, 1329)
 
@@ -7870,6 +8052,7 @@ mit Mitteln zu reinigen, die nicht in das Gewässer gelangen dürfen.
 
 
 #### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012700310)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 74
@@ -7877,6 +8060,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 
 #### Anlage 3 Bezeichnung der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012805305)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 75 - 92;
@@ -8721,6 +8905,7 @@ Brennstoff nutzen
 
 
 #### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE012900310)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 92
@@ -8729,6 +8914,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 
 #### Anlage 5
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013000310)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 92
@@ -8737,6 +8923,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 
 #### Anlage 6 Schallzeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013101308)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 93 - 95;
@@ -9127,6 +9314,7 @@ werden.
 
 
 #### Anlage 7 Schiffahrtszeichen
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013210119)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 96 - 114;
@@ -9973,6 +10161,7 @@ Schilder, Pfeile oder Aufschriften ergänzt werden.
 
 
 #### Anlage 8 Bezeichnung der Wasserstraße
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013304119)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 115 - 123;
@@ -10325,6 +10514,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 #### Anlage 9
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013400310)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 16\.9.1997, S. 124
@@ -10332,6 +10522,7 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 
 #### Anlage 10
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013503119)
 
 (Fundstelle: BGBl. II 2014, 367 — 371)
 
@@ -10794,6 +10985,7 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 
 #### Anlage 11 Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE014401119)
 
 (Fundstelle: BGBl. II 2015, 1020)
 
@@ -10968,6 +11160,7 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 
 #### Anlage 12 Verzeichnis der Fahrzeug- und Verbandsarten
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE013702124)
 
 (Fundstelle: BGBl. II Nr. 8, S. 356 - 357)
 
@@ -11078,6 +11271,7 @@ Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 
 #### Anlage 13 VERZEICHNIS DER MITZUFÜHRENDEN URKUNDEN UND SONSTIGEN UNTERLAGEN NACH § 1.10 MoselSchPV
+[Direktlink](https://www.gesetze-im-internet.de/moselschpv_1997/BJNR167030997.html#BJNR167030997BJNE015000119)
 
 (Fundstelle: BGBl. 2023 II Nr. 141, S. 18 - 22)
 

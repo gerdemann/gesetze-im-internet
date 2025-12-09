@@ -20,16 +20,19 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002000308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Allgemeine Vorschriften für den Verband
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000100308)
 
 
 
 ### § 1 Zweck und Rechtsform
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002200308)
 
 (1) Zur Erfüllung der in § 2 genannten Aufgaben kann ein Wasser- und
 Bodenverband (Verband) als Körperschaft des öffentlichen Rechts
@@ -42,6 +45,7 @@ Beamtenrechtsrahmengesetzes haben.
 
 
 ### § 2 Zulässige Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002300308)
 
 Vorbehaltlich abweichender Regelung durch Landesrecht können Aufgaben
 des Verbands sein:
@@ -104,6 +108,7 @@ des Verbands sein:
 
 
 ### § 3 Name
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002400308)
 
 (1) Der Name des Verbands soll seine Eigenschaft als Wasser- und
 Bodenverband, seine Hauptaufgabe und seinen räumlichen Wirkungsbereich
@@ -114,6 +119,7 @@ Verbände können beibehalten werden.
 
 
 ### § 4 Mögliche Verbandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002500308)
 
 (1) Verbandsmitglieder können sein:
 
@@ -146,6 +152,7 @@ erloschen sind, gleich.
 
 
 ### § 5 Unternehmen, Plan, Lagerbuch
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002600308)
 
 (1) Unternehmen des Verbands im Sinne dieses Gesetzes sind die der
 Erfüllung seiner Aufgabe dienenden baulichen und sonstigen Anlagen,
@@ -162,6 +169,7 @@ ersichtlich sind.
 
 
 ### § 6 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002700308)
 
 (1) Die Rechtsverhältnisse des Verbands und die Rechtsbeziehungen zu
 den Verbandsmitgliedern werden durch eine Satzung geregelt, soweit
@@ -212,14 +220,17 @@ Stelle, enthalten.
 
 
 ## Zweiter Teil - Errichtung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000200308)
 
 
 
 ### Erster Abschnitt - Errichtungsarten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000300308)
 
 
 
 #### § 7 Arten der Errichtung, Entstehung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002800308)
 
 (1) Ein Verband wird errichtet
 
@@ -251,6 +262,7 @@ sind von der Aufsichtsbehörde öffentlich bekanntzumachen.
 
 
 #### § 8 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE002900308)
 
 (1) Beteiligte im Sinne dieses Gesetzes sind die nach § 4 als
 Verbandsmitglieder in Betracht kommenden Personen,
@@ -277,6 +289,7 @@ Verbands zweckmäßig oder wirtschaftlich auszunutzen.
 
 
 #### § 9 Heranziehung zur Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003000308)
 
 Beteiligte, die der Errichtung des Verbands nicht zugestimmt haben,
 sind - auch gegen ihren Willen - als Verbandsmitglieder heranzuziehen.
@@ -286,6 +299,7 @@ der Verbandsaufgaben nicht beeinträchtigt wird.
 
 
 #### § 10 Zulässigkeit der Errichtung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003100308)
 
 (1) Ein Verband kann von Amts wegen errichtet werden, wenn es im
 öffentlichen Interesse geboten ist.
@@ -315,10 +329,12 @@ der Verbandsaufgaben nicht beeinträchtigt wird.
 
 
 ### Zweiter Abschnitt - Errichtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000400308)
 
 
 
 #### § 11 Einleitung des Errichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003200308)
 
 (1) Das Verfahren zur Errichtung des Verbands wird durch einen Antrag
 eines oder mehrerer der festzustellenden Beteiligten bei der
@@ -347,6 +363,7 @@ selbst entwerfen.
 
 
 #### § 12 Vorarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003300308)
 
 (1) Eigentümer und Besitzer von Grundstücken haben zu dulden, daß
 Beauftragte der Aufsichtsbehörde zur Vorbereitung der von ihr nach
@@ -363,6 +380,7 @@ Aufsichtsbehörde eine angemessene Entschädigung in Geld zu leisten.
 
 
 #### § 13 Feststellung der Beteiligten, Stimmenzahl
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003400308)
 
 (1) Für das Errichtungsverfahren hat die Aufsichtsbehörde die
 Beteiligten festzustellen. Sie hat ferner die auf jeden Beteiligten
@@ -386,6 +404,7 @@ Einfluß.
 
 
 #### § 14 Bekanntmachung des Vorhabens, Verhandlungstermin
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003500308)
 
 (1) Die Aufsichtsbehörde hat das Errichtungsvorhaben sowie Zeit und
 Ort der Auslegung der Errichtungsunterlagen öffentlich
@@ -429,6 +448,7 @@ abgeben.
 
 
 #### § 15 Beschlußfassung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003600308)
 
 (1) Beschlußfähigkeit besteht, wenn die anwesenden Beteiligten
 mindestens die Hälfte der nach § 13 Abs. 1 Satz 2 festgelegten
@@ -464,6 +484,7 @@ genehmigt; hierauf ist der Beteiligte hinzuweisen.
 
 
 #### § 16 Errichtung von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003700308)
 
 (1) Soll ein Verband von Amts wegen errichtet werden, hat die
 Aufsichtsbehörde mindestens die in § 11 Abs. 2 genannten Unterlagen zu
@@ -477,6 +498,7 @@ Gelegenheit zur Stellungnahme zu geben. § 14 Abs. 1 und 4 bis 6 und §
 
 
 #### § 17 Überleitung eines Errichtungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003800308)
 
 Lehnt in einem Errichtungsverfahren nach § 7 Abs. 1 Nr. 1 oder 2 die
 Mehrheit der Beteiligten die Errichtung eines Verbands ab, kann die
@@ -488,6 +510,7 @@ nicht wiederholt zu werden.
 
 
 #### § 18 Entscheidung über Anträge und Einwendungen eines Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE003900308)
 
 (1) Über Anträge und Einwendungen eines Beteiligten im Sinne des § 14
 Abs. 4, die von der Mehrheit im Verhandlungstermin abgelehnt worden
@@ -503,6 +526,7 @@ durch besonderen Bescheid.
 
 
 #### § 19 Änderung der Errichtungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004000308)
 
 (1) Wird einem Antrag nach § 18 Abs. 1 durch eine nicht mehr
 anfechtbare Entscheidung stattgegeben und ist infolgedessen eine
@@ -523,12 +547,14 @@ Aufsichtsbehörde öffentlich bekanntzumachen.
 
 
 #### § 20 Erste Berufung der Organe
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004100308)
 
 Nach der Entstehung des Verbands sorgt die Aufsichtsbehörde für die
 erste Berufung der Organe des Verbands.
 
 
 #### § 21 Verfahrenskosten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004200308)
 
 (1) Bare Auslagen, die einem antragstellenden Beteiligten (§ 11 Abs.
 1) für die Beschaffung oder Erstellung von Errichtungsunterlagen
@@ -548,14 +574,17 @@ aus der Wahrnehmung seiner Interessen erwachsen.
 
 
 ## Dritter Teil - Rechtsverhältnisse des Verbands zu seinen Mitgliedern und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000500308)
 
 
 
 ### Erster Abschnitt - Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000600308)
 
 
 
 #### § 22 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004300308)
 
 Verbandsmitglieder sind - vorbehaltlich der Regelungen in den §§ 23
 und 24 - die Beteiligten, die der Errichtung des Verbands zugestimmt
@@ -565,6 +594,7 @@ Erbbauberechtigte gelten als ein Mitglied.
 
 
 #### § 23 Begründung und Erweiterung der Mitgliedschaft bei bestehenden Verbänden
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004400308)
 
 (1) Wer einen Vorteil aus der Durchführung der Verbandsaufgabe zu
 erwarten oder wer Maßnahmen des Verbands zu dulden hat, hat Anspruch
@@ -579,6 +609,7 @@ oder eine bestehende Mitgliedschaft erweitern.
 
 
 #### § 24 Aufhebung der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004500308)
 
 (1) Verbandsmitglieder, deren Vorteil aus der Durchführung der
 Verbandsaufgabe oder deren Last entfallen ist, sind berechtigt, die
@@ -602,6 +633,7 @@ Aufhebung der Mitgliedschaft zu verhüten.
 
 
 #### § 25 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004600308)
 
 (1) Vor einer Entscheidung nach den §§ 23 und 24 sind im Fall des
 
@@ -624,6 +656,7 @@ dies ist öffentlich bekanntzumachen.
 
 
 #### § 26 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004700308)
 
 (1) Die Verbandsmitglieder sind verpflichtet, dem Verband auf
 Verlangen Auskunft über solche Tatsachen und Rechtsverhältnisse zu
@@ -646,6 +679,7 @@ sind, als dies für die Festlegung ihrer Beiträge erforderlich ist.
 
 
 #### § 27 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004800308)
 
 Vorstandsmitglieder, Mitglieder des Verbandsausschusses,
 Geschäftsführer sowie Personen im Sinne des § 26 Abs. 2 sind
@@ -657,10 +691,12 @@ Verschwiegenheitspflicht unberührt.
 
 
 ### Zweiter Abschnitt - Verbandsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000700308)
 
 
 
 #### § 28 Verbandsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE004900308)
 
 (1) Die Verbandsmitglieder sind verpflichtet, dem Verband Beiträge
 (Verbandsbeiträge) zu leisten, soweit dies zur Erfüllung seiner
@@ -693,6 +729,7 @@ teilweise Befreiung von der Verbandsbeitragszahlung vorsehen.
 
 
 #### § 29 Öffentliche Last
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005000308)
 
 Verbandsbeiträge sind öffentliche Abgaben. Die Beitragspflicht der
 dinglichen Verbandsmitglieder ruht als öffentliche Last auf den
@@ -701,6 +738,7 @@ Verbandsmitglieder an dem Verband teilnehmen.
 
 
 #### § 30 Maßstab für Verbandsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005100308)
 
 (1) Der Beitrag der Verbandsmitglieder und der Nutznießer bemißt sich
 nach dem Vorteil, den sie von der Aufgabe des Verbands haben, sowie
@@ -716,6 +754,7 @@ abweichenden Beitragsmaßstab festlegen.
 
 
 #### § 31 Erhebung der Verbandsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005200308)
 
 (1) Der Verband erhebt die Verbandsbeiträge auf der Grundlage des für
 ihn geltenden Beitragsmaßstabs durch Beitragsbescheid.
@@ -734,6 +773,7 @@ betreffenden Beitragsunterlagen zu gewähren.
 
 
 #### § 32 Vorausleistungen auf Verbandsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005300308)
 
 Soweit es für die Durchführung des Unternehmens und die Verwaltung des
 Verbands erforderlich ist, kann der Vorstand nach einem sich aus der
@@ -742,10 +782,12 @@ festsetzen.
 
 
 ### Dritter Abschnitt - Benutzung von Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000800308)
 
 
 
 #### § 33 Benutzung der Grundstücke dinglicher Verbandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005400308)
 
 (1) Der Verband ist berechtigt, Grundstücke, welche die dingliche
 Mitgliedschaft bei ihm oder einem seiner Unterverbände begründen, zu
@@ -761,6 +803,7 @@ im Verbandsgebiet belegenen Grundstücken entnommen werden.
 
 
 #### § 34 Deichvorland
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005500308)
 
 Hat der Verband Grundstücke vor Hochwasser oder Sturmflut zu schützen,
 hat er die Befugnisse nach § 33 auch an dem nicht zu ihm gehörenden
@@ -771,6 +814,7 @@ Genehmigungen - auch aus diesem Deichvorland entnehmen.
 
 
 #### § 35 Grundstücke mit öffentlichen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005600308)
 
 Die Benutzung von Grundstücken, die öffentlichen Zwecken dienen,
 bedarf der Zustimmung der zuständigen Verwaltungsbehörde, soweit sie
@@ -780,6 +824,7 @@ nicht durch entsprechende Maßnahmen ausgeglichen werden kann.
 
 
 #### § 36 Ausgleich für Nachteile
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005700308)
 
 (1) Entstehen durch die Benutzung von Grundstücken nach den §§ 33 bis
 35 dem Betroffenen unmittelbare Vermögensnachteile, kann er einen
@@ -795,12 +840,14 @@ Verbandsbeitrags unberücksichtigt bleibt.
 
 
 #### § 37 Ausgleichsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005800308)
 
 Kommt eine Einigung über den Ausgleich nicht zustande, entscheidet der
 Vorstand darüber durch schriftlichen Bescheid.
 
 
 #### § 38 Anspruch auf Grundstückserwerb
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE005900308)
 
 Sind Vermögensnachteile im Sinne des § 36 so wesentlich, daß das
 benutzte Grundstück für den Betroffenen nur noch einen verhältnismäßig
@@ -811,6 +858,7 @@ Grundstücks durch den Verband maßgeblich.
 
 
 #### § 39 Rechtsverhältnisse bei abgeleiteten Grundstücksnutzungen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006000308)
 
 (1) Wird ein zum Verband gehörendes Grundstück zu der Zeit, zu der es
 von dem Unternehmen betroffen wird, auf Grund eines vom Eigentümer
@@ -836,10 +884,12 @@ eines Jahres
 
 
 ### Vierter Abschnitt - Enteignung für das Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG000900308)
 
 
 
 #### § 40 Zweck und Gegenstand der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006100308)
 
 (1) Zur Erfüllung der Verbandsaufgaben kann enteignet werden.
 
@@ -870,6 +920,7 @@ Grundstücksteile gelten als Grundstücke.
 
 
 #### § 41 Zulässigkeit und Umfang der Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006200308)
 
 (1) Die Enteignung ist im einzelnen Fall nur zulässig, wenn das Wohl
 der Allgemeinheit sie erfordert und der Enteignungszweck auf andere
@@ -893,12 +944,14 @@ wirtschaftlich genutzt werden kann.
 
 
 #### § 42 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006300308)
 
 Für die Enteignung ist Entschädigung zu leisten. Hierfür gelten die §§
 93 bis 103 des Baugesetzbuchs entsprechend.
 
 
 #### § 43 Anwendung von Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006400308)
 
 Soweit dieses Gesetz keine Regelung trifft, gilt das Enteignungsrecht
 des Landes, in dem die von der Enteignung betroffenen Gegenstände
@@ -906,10 +959,12 @@ belegen sind.
 
 
 ### Fünfter Abschnitt - Verbandsschau
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001000308)
 
 
 
 #### § 44 Verbandsschau, Schaubeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006500308)
 
 (1) Zur Feststellung des Zustands der von dem Verband zu betreuenden
 Anlagen, Gewässer und Grundstücke im Rahmen der Aufgaben des Verbands
@@ -925,6 +980,7 @@ Abweichungen hiervon vorsehen.
 
 
 #### § 45 Durchführung der Verbandsschau
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006600308)
 
 (1) Der Vorstand bestimmt Ort und Zeit der Verbandsschau. Er hat die
 Schaubeauftragten, die Aufsichtsbehörde und sonstige Beteiligte,
@@ -939,10 +995,12 @@ unterzeichnen.
 
 
 ## Vierter Teil - Verbandsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001100308)
 
 
 
 ### § 46 Organe
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006700308)
 
 (1) Organe des Verbands sind die Versammlung der Verbandsmitglieder
 (Verbandsversammlung) und der Vorstand. Die Satzung kann bestimmen,
@@ -953,6 +1011,7 @@ Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 
 
 ### § 47 Verbandsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006800308)
 
 (1) Die Verbandsversammlung hat folgende Aufgaben:
 
@@ -998,6 +1057,7 @@ Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 
 
 ### § 48 Sitzungen der Verbandsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE006900308)
 
 (1) Der Verbandsvorsteher beruft die Verbandsversammlung nach Bedarf,
 mindestens einmal im Jahr, ein; die Sitzungen der Verbandsversammlung
@@ -1022,6 +1082,7 @@ hat er Stimmrecht.
 
 
 ### § 49 Verbandsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007000308)
 
 (1) Hat der Verband keine Verbandsversammlung, obliegen deren Aufgaben
 einem Verbandsausschuß. Die Vorschriften dieses Gesetzes über die
@@ -1037,6 +1098,7 @@ Vertreter zulassen.
 
 
 ### § 50 Sitzungen des Verbandsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007100308)
 
 (1) Im Verbandsausschuß hat jedes Mitglied eine Stimme. Eine andere
 Regelung durch die Satzung ist zulässig.
@@ -1046,6 +1108,7 @@ ohne Stimmrecht.
 
 
 ### § 51 Unterrichtung der Verbandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007200308)
 
 In Verbänden, die einen Verbandsausschuß haben, unterrichtet der
 Verbandsvorsteher die Verbandsmitglieder in angemessenen Zeitabständen
@@ -1053,6 +1116,7 @@ Verbandsvorsteher die Verbandsmitglieder in angemessenen Zeitabständen
 
 
 ### § 52 Vorstand, Verbandsvorsteher
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007300308)
 
 (1) Der Vorstand kann aus einer Person oder aus mehreren Personen
 bestehen. Besteht der Vorstand aus einer Person, so ist diese
@@ -1069,6 +1133,7 @@ die Wahrnehmung ihres Amtes eine Entschädigung erhalten.
 
 
 ### § 53 Wahl und Abberufung der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007400308)
 
 (1) Die Verbandsversammlung wählt den Vorstand für die in der Satzung
 vorgeschriebene Zeit. Werden mehrere Personen zu Vorstandsmitgliedern
@@ -1092,6 +1157,7 @@ Behebung des Mangels bestellen.
 
 
 ### § 54 Geschäfte des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007500308)
 
 (1) Der Vorstand leitet den Verband nach Maßgabe dieses Gesetzes und
 der Satzung in Übereinstimmung mit den von der Verbandsversammlung
@@ -1110,6 +1176,7 @@ Schaden und der Person des Ersatzpflichtigen Kenntnis erlangt.
 
 
 ### § 55 Gesetzliche Vertretung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007600308)
 
 (1) Der Vorstand vertritt den Verband gerichtlich und
 außergerichtlich. Die Satzung kann bestimmen, daß der
@@ -1130,6 +1197,7 @@ vertretungsbefugten Geschäftsführer gegenüber abgegeben wird.
 
 
 ### § 56 Sitzungen des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007700308)
 
 (1) Der Verbandsvorsteher beruft den Vorstand nach Bedarf, mindestens
 jedoch einmal jährlich, zu Sitzungen ein.
@@ -1140,20 +1208,24 @@ gelten die Vorschriften der Verwaltungsverfahrensgesetze der Länder
 
 
 ### § 57 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007800308)
 
 Der Verband kann einen oder mehrere Geschäftsführer bestellen. Das
 Nähere regelt die Satzung.
 
 
 ## Fünfter Teil - Satzungsänderung sowie Umgestaltung und Auflösung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001200308)
 
 
 
 ### Erster Abschnitt - Satzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001300308)
 
 
 
 #### § 58 Änderung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE007901377)
 
 (1) Für Beschlüsse zur Änderung der Satzung genügt die Mehrheit der
 anwesenden Stimmen, soweit in der Satzung nichts anderes bestimmt ist.
@@ -1167,6 +1239,7 @@ ein anderer Zeitpunkt festgelegt ist.
 
 
 #### § 59 Satzungsänderung durch die Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008000308)
 
 (1) Die Aufsichtsbehörde kann eine Änderung der Satzung aus Gründen
 des öffentlichen Interesses fordern.
@@ -1177,10 +1250,12 @@ Satz 2 gilt auch für diesen Fall.
 
 
 ### Zweiter Abschnitt - Umgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001400308)
 
 
 
 #### § 60 Zusammenschluß
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008100308)
 
 (1) Verbände können sich zu einem neuen Verband zusammenschließen,
 wenn der Umfang der Verbandsaufgaben den Bestand mehrerer Verbände
@@ -1213,6 +1288,7 @@ die nicht mehr weiterbestehen sollen, als aufgelöst.
 
 
 #### § 61 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008200308)
 
 (1) Ein Verband kann einzelne Aufgaben und Unternehmen sowie das
 diesen dienende Vermögen und die auf sie bezogenen Mitgliedschaften
@@ -1225,10 +1301,12 @@ Landesrecht vorgenommen werden.
 
 
 ### Dritter Abschnitt - Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001500308)
 
 
 
 #### § 62 Auflösung des Verbands
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008300308)
 
 (1) Die Verbandsversammlung kann mit einer Mehrheit von zwei Dritteln
 der vertretenen Stimmen die Auflösung des Verbands beschließen, wenn
@@ -1248,6 +1326,7 @@ Gläubiger zur Anmeldung ihrer Ansprüche öffentlich bekanntzumachen.
 
 
 #### § 63 Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008400308)
 
 (1) Nach der Auflösung des Verbands wickeln der Vorstand oder die
 durch Beschluß der Verbandsversammlung dazu berufenen Liquidatoren die
@@ -1270,6 +1349,7 @@ Mehrheit. Der Beschluß bedarf der Genehmigung der Aufsichtsbehörde.
 
 
 #### § 64 Aufbewahrung der Bücher, Einsicht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008500308)
 
 (1) Nach Beendigung der Abwicklung werden die Bücher und Schriften des
 aufgelösten Verbands bei der Aufsichtsbehörde aufbewahrt.
@@ -1280,16 +1360,19 @@ Schriften einzusehen und zu benutzen.
 
 
 ## Sechster Teil - Rechnungswesen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001600308)
 
 
 
 ### § 65 Haushalt, Rechnungslegung, Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008600308)
 
 Für den Haushalt, die Rechnungslegung sowie deren Prüfung gelten die
 landesrechtlichen Vorschriften.
 
 
 ### § 66 Schuldübernahme
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008700308)
 
 (1) Die Aufsichtsbehörde kann anordnen, daß der Verband eine Schuld
 übernimmt, die eine öffentlich-rechtliche Körperschaft in der vorher
@@ -1301,10 +1384,12 @@ erforderlichen Erklärung des Verbands.
 
 
 ## Siebter Teil - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001700308)
 
 
 
 ### § 67 Öffentliche Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008800308)
 
 Die in diesem Gesetz vorgeschriebenen öffentlichen Bekanntmachungen
 erfolgen in den Gemeinden, auf die sich der Verband erstreckt, nach
@@ -1314,6 +1399,7 @@ Durch Landesrecht kann eine andere Regelung getroffen werden.
 
 
 ### § 68 Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE008900308)
 
 (1) Die Verbandsmitglieder, die Eigentümer des Deichvorlands und die
 auf Grund eines vom Eigentümer abgeleiteten Rechts
@@ -1327,6 +1413,7 @@ wahrgenommen werden können.
 
 
 ### § 69 Freiheit von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009000308)
 
 (1) Geschäfte und Verhandlungen, die der Durchführung dieses Gesetzes
 dienen, sind frei von Kosten der Gerichte und der Verwaltungsbehörden;
@@ -1339,6 +1426,7 @@ Durchführung dieses Gesetzes dient.
 
 
 ### § 70 Geltung von Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009100308)
 
 Erstreckt sich das Verbandsgebiet auf mehr als ein Land, gilt für die
 Rechtsverhältnisse des Verbands das Recht des Landes, in dem der
@@ -1346,6 +1434,7 @@ Verband seinen Sitz hat.
 
 
 ### § 71 Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009200308)
 
 Die Satzung kann die Schaffung eines Schiedsgerichts vorsehen, das bei
 Streitigkeiten über Verbandsangelegenheiten, insbesondere über
@@ -1356,10 +1445,12 @@ entsprechend Anwendung.
 
 
 ## Achter Teil - Aufsicht, Oberverband, Unterverband
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001800308)
 
 
 
 ### § 72 Aufsicht, Oberverband, Unterverband
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009300308)
 
 (1) Der Verband unterliegt der Rechtsaufsicht durch die
 Aufsichtsbehörde. § 43 des Flurbereinigungsgesetzes bleibt unberührt.
@@ -1372,6 +1463,7 @@ Behörde führt auch die Aufsicht über den Unterverband.
 
 
 ### § 73 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009400308)
 
 Bei einem Verband, dessen Verbandsgebiet sich auf mehr als ein Land
 erstreckt oder erstrecken soll, bestimmen die beteiligten Länder die
@@ -1379,6 +1471,7 @@ Aufsichtsbehörde in gegenseitigem Einvernehmen.
 
 
 ### § 74 Informationsrecht der Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009500308)
 
 (1) Die Aufsichtsbehörde kann sich, auch durch Beauftragte, über die
 Angelegenheiten des Verbands unterrichten. Sie kann mündliche und
@@ -1391,6 +1484,7 @@ Verlangen das Wort zu erteilen.
 
 
 ### § 75 Zustimmung zu Geschäften
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009600308)
 
 (1) Der Verband bedarf der Zustimmung der Aufsichtsbehörde
 
@@ -1428,6 +1522,7 @@ Zwischenbescheid um einen Monat verlängern.
 
 
 ### § 76 Ersatzvornahme
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009700308)
 
 Kommt der Verband einer Anweisung der Aufsichtsbehörde, die diese auf
 Grund ihrer Aufsichtsbefugnis erläßt, nicht innerhalb der gesetzen
@@ -1438,6 +1533,7 @@ finden entsprechende Anwendung.
 
 
 ### § 77 Bestellung eines Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009800308)
 
 Wenn und solange die ordnungsgemäße Verwaltung des Verbands es
 erfordert, kann die Aufsichtsbehörde einen Beauftragten bestellen, der
@@ -1447,10 +1543,12 @@ entsprechend.
 
 
 ## Neunter Teil - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNG001900308)
 
 
 
 ### § 78 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE009900308)
 
 (1)
 Soweit nachfolgend nichts anderes bestimmt ist, treten mit dem
@@ -1480,6 +1578,7 @@ bisher geltende Recht weiter.
 
 
 ### § 79 Bestehende Verbände
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE010000308)
 
 (1) Die Rechtsstellung der bei Inkrafttreten dieses Gesetzes
 bestehenden Verbände (Altverbände) wird durch § 78 Abs. 1 nicht
@@ -1499,6 +1598,7 @@ Amts wegen zugelassen werden.
 
 
 ### § 80 Verbände auf besonderer gesetzlicher Grundlage
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE010100308)
 
 Auf Verbände, die durch besonderes Gesetz errichtet worden sind oder
 errichtet werden, findet dieses Gesetz nur Anwendung, wenn dies durch
@@ -1506,11 +1606,13 @@ Rechtsvorschriften ausdrücklich angeordnet oder zugelassen worden ist.
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE010200308)
 
 -
 
 
 ### § 82 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wvg/BJNR004050991.html#BJNR004050991BJNE010300308)
 
 Dieses Gesetz tritt am ersten Tage des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000100303)
 
 (1) Verletzt ein
 Reichsbeamter in Ausübung der ihm anvertrauten öffentlichen Gewalt
@@ -43,11 +44,13 @@ Reichsbeamten gleich.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000200303)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000300303)
 
 (1) Für die Ansprüche, welche auf Grund dieses Gesetzes gegen das
 Reich erhoben werden, sind die Landgerichte ohne Rücksicht auf den
@@ -61,11 +64,13 @@ Bundesgerichtshof zugewiesen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000400303)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000500303)
 
 Die Vorschriften dieses Gesetzes finden keine Anwendung:
 
@@ -85,6 +90,7 @@ Die Vorschriften dieses Gesetzes finden keine Anwendung:
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000600303)
 
 Unberührt bleiben die Vorschriften anderer
 Reichsgesetze, soweit sie für bestimmte Fälle die Haftung des
@@ -92,6 +98,7 @@ Reichs über einen gewissen Umfang hinaus ausschließen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rhbg/BJNR007980910.html#BJNR007980910BJNE000701314)
 
 (1) Die Bundesregierung kann zur Herstellung der Gegenseitigkeit durch
 Rechtsverordnung bestimmen, daß einem ausländischen Staat und seinen

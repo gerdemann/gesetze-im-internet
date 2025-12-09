@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung, Betrieb und Zweck des Registers über Unternehmensbasisdaten
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000100000)
 
 (1) Beim Statistischen Bundesamt (Registerbehörde) wird ein Register
 über Unternehmensbasisdaten (Basisregister) errichtet und betrieben.
@@ -51,6 +52,7 @@ Identifikationsnummern und Metadaten.
 
 
 ## § 2 Bundeseinheitliche Wirtschaftsnummer für Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000200000)
 
 (1) Einem Unternehmen nach § 3 Absatz 1 wird im Basisregister eine
 bundeseinheitliche Wirtschaftsnummer für Unternehmen zugeordnet. Als
@@ -72,6 +74,7 @@ wurde.
 
 
 ## § 3 Inhalt des Basisregisters
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000302128)
 
 (1) Folgende in den Registern oder sonstigen Datenbeständen der
 öffentlichen Stellen nach § 4 Absatz 1 und der Global Legal Entity
@@ -231,6 +234,7 @@ geführt wird, die Unternehmensbasisdaten zu löschen.
 
 
 ## § 4 Datenübermittlung an die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000402128)
 
 (1) Zum Zweck des Aufbaus und zur Führung des Basisregisters werden
 der Registerbehörde von folgenden öffentlichen Stellen folgende Daten
@@ -271,6 +275,7 @@ gespeichert sind.
 
 
 ## § 5 Datenübermittlung durch die Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000503126)
 
 (1) Die Registerbehörde darf an folgende öffentliche Stellen zu
 folgenden Zwecken für die Anlässe nach Absatz 2 Unternehmensbasisdaten
@@ -425,6 +430,7 @@ des Unternehmens übermittelt und abgerufen werden.
 
 
 ## § 6 Datenschutzrechtliche Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000600000)
 
 Die Registerbehörde ist ab dem Zeitpunkt der Datenübermittlung nach
 § 4 Verantwortliche im Sinne des Artikels 4 Nummer 7 der Verordnung
@@ -436,6 +442,7 @@ Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
 
 
 ## § 7 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000701126)
 
 (1) Die Datenübermittlungen durch die Registerbehörde werden bei der
 Registerbehörde protokolliert.
@@ -457,6 +464,7 @@ Regelungen bleiben unberührt.
 
 
 ## § 8 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000800000)
 
 (1) Die Registerbehörde ist für die Qualitätssicherung der
 Unternehmensbasisdaten hinsichtlich ihrer Vollständigkeit,
@@ -476,6 +484,7 @@ Stellen nach § 4 Absatz 1.
 
 
 ## § 9 Informationssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE000900000)
 
 (1) Es sind geeignete technische und organisatorische Maßnahmen der
 Datensicherheit für den Betrieb des Basisregisters, die
@@ -487,6 +496,7 @@ nach § 10 Satz 1 Nummer 2 festzulegen.
 
 
 ## § 10 Rechtsverordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE001001126)
 
 Das Bundesministerium der Finanzen, das Bundesministerium für
 Wirtschaft und Energie und das Bundesministerium der Justiz und für
@@ -529,6 +539,7 @@ Bundesamt für Sicherheit in der Informationstechnik zu erarbeiten.
 
 
 ## § 11 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/ubregg/BJNR250610021.html#BJNR250610021BJNE001101126)
 
 Das Bundesministerium für Wirtschaft und Energie berichtet dem
 Deutschen Bundestag im fünften Kalenderjahr nach Inkrafttreten dieses

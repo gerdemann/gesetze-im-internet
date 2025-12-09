@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -34,6 +35,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000200000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die im
 Rahmen der beruflichen Fortbildung zum Geprüften Berufspädagogen/zur
@@ -86,6 +88,7 @@ Berufspädagogin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -127,6 +130,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000400000)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -181,6 +185,7 @@ erfolgreichen Abschluss begonnen werden.
 
 
 ## § 4 Durchführung der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000500000)
 
 (1) Es ist schriftlich anhand jeweils einer Situationsaufgabe je
 Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich
@@ -197,6 +202,7 @@ Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000601128)
 
 (1) Die Prüfung im Prüfungsteil „Berufspädagogisches Handeln in
 Bereichen der beruflichen Bildung“ ist erst nach Ablegen der Prüfung
@@ -228,6 +234,7 @@ gewichtet.
 
 
 ## § 6 Durchführung der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000701128)
 
 (1) In einer Projektarbeit soll eine komplexe berufspädagogische
 Problemstellung in einer speziellen berufspädagogischen Funktion
@@ -253,6 +260,7 @@ Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
 
 
 ## § 7 Inhalte der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000800000)
 
 (1) Im Handlungsbereich „Lernprozesse und Lernbegleitung“ soll die
 Fähigkeit nachgewiesen werden, Prozesse individuellen und
@@ -355,6 +363,7 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 8 Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE000900000)
 
 (1) Im Handlungsbereich „Berufsausbildung“ soll die Fähigkeit
 nachgewiesen werden, Prozesse beruflicher Ausbildung ganzheitlich zu
@@ -472,6 +481,7 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 9 Inhalte der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001000000)
 
 (1) Im Prüfungsteil „Spezielle berufspädagogische Funktionen“ soll die
 Fähigkeit nachgewiesen werden, den Prozess einer spezialisierten
@@ -515,6 +525,7 @@ Satz 2 genannten Aufgaben liegen.
 
 
 ## § 10 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001101128)
 
 (1) Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
@@ -534,6 +545,7 @@ sowie Absatz 3 Nummer 1 erlassen.
 
 
 ## § 11 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001202128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -576,6 +588,7 @@ Prüfungsteil das arithmetische Mittel zu berechnen.
 
 
 ## § 12 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001800128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -642,6 +655,7 @@ ist die Gesamtnote.
 
 
 ## § 13 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001900128)
 
 (1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -668,6 +682,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 14 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001301128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -687,6 +702,7 @@ wiederholt werden.
 
 
 ## § 15 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001401128)
 
 Die Prüfungen zu den Abschlüssen Berufspädagoge/Berufspädagogin und
 Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember
@@ -694,12 +710,14 @@ Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE001501128)
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 (zu den §§ 11 und 12)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE002000128)
 
 (Fundstelle: BGBl. I 2019, 2323 – 2324)
 
@@ -1001,6 +1019,7 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 (zu § 13)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/bp_dfortbv/BJNR292700009.html#BJNR292700009BJNE002100128)
 
 (Fundstelle: BGBl. I 2019, 2324 – 2325)
 

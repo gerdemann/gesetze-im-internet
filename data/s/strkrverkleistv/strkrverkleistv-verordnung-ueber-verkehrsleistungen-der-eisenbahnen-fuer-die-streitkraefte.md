@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000100326)
 
 Auf Grund des § 10 Abs. 7 des Verkehrssicherstellungsgesetzes in der
 Fassung der Bekanntmachung vom 8. Oktober 1968 (Bundesgesetzbl. I S.
@@ -29,6 +30,7 @@ Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Umfang der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000205305)
 
 (1) Die öffentlichen Eisenbahnen erbringen Verkehrsleistungen für die
 Streitkräfte nach § 10 Abs. 1 des Verkehrssicherstellungsgesetzes im
@@ -63,6 +65,7 @@ der Eisenbahnen für den öffentlichen Verkehr.
 
 
 ## § 2 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000301311)
 
 (1) Verkehrsleistungen der öffentlichen Eisenbahnen für die
 Streitkräfte nach § 1 werden nach den allgemein geltenden Vorschriften
@@ -76,6 +79,7 @@ Eisenbahnen.
 
 
 ## § 3 Anmeldung von Verkehrsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000401311)
 
 Die öffentlichen Eisenbahnen können für Verkehrsleistungen nach § 1
 besondere Anmeldungen fordern. Art und Umfang der Verkehrsleistungen
@@ -84,6 +88,7 @@ Streitkräften.
 
 
 ## § 4 Vorrang
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000503305)
 
 Verkehrsleistungen im Sinne des § 1 haben die öffentlichen Eisenbahnen
 mit betrieblichem Vorrang abzuwickeln, wenn und soweit die
@@ -95,6 +100,7 @@ sich die Forderungen erstrecken können.
 
 
 ## § 5 Besondere Vorschriften für die Erbringung von Verkehrsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000601311)
 
 (1) Die öffentlichen Eisenbahnen haben auf Verlangen der Streitkräfte
 
@@ -138,11 +144,13 @@ bleiben unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000701311)
 
 (weggefallen)
 
 
 ## § 7 Duldungspflicht der Eisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000801311)
 
 (1) Die öffentlichen Eisenbahnen haben zu dulden, daß die Angehörigen
 der Streitkräfte Bahnanlagen, die nicht dem allgemeinen
@@ -156,6 +164,7 @@ verbundene Betreten oder Benutzen der Bahnanlagen zu dulden.
 
 
 ## § 8 Sicherheit und Ordnung auf Bahnanlagen
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE000903308)
 
 (1) Die Angehörigen der Streitkräfte unterliegen während des
 Aufenthalts auf dem Gebiet der Bahnanlagen den bahnpolizeilichen
@@ -174,6 +183,7 @@ gegenseitig.
 
 
 ## § 9 Verwertungsverbot für das Gut der Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE001001311)
 
 Gegenstände, die als Gut der Streitkräfte erkennbar sind, dürfen weder
 verkauft noch versteigert werden. Für die Auslieferung der Gegenstände
@@ -183,6 +193,7 @@ Streitkräften.
 
 
 ## § 10 Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE001101311)
 
 (1) Schäden, die dadurch entstehen, daß
 
@@ -210,6 +221,7 @@ Schadensausgleich nach Absatz 1 in Betracht kommt.
 
 
 ## § 11 Zuständigkeiten der Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE001201311)
 
 Das Bundesministerium der Verteidigung bestimmt, welche Stellen der
 Streitkräfte die ihnen nach dieser Verordnung obliegenden
@@ -217,11 +229,13 @@ Zuständigkeiten wahrnehmen.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE001300326)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/strkrverkleistv/BJNR021280976.html#BJNR021280976BJNE001400326)
 
 Der Bundesminister für Verkehr
 Der Bundesminister der Verteidigung

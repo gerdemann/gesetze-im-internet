@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000100000)
 
 Ist für die Errichtung eines Wochenendhauses oder eines anderen
 persönlichen Zwecken, jedoch nicht Wohn- oder betrieblichen Zwecken
@@ -32,6 +33,7 @@ Erbbaurechts nach Maßgabe dieses Gesetzes geltend machen.
 
 
 ## § 2 Anspruch auf Bestellung eines Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000200000)
 
 Grundstückseigentümer und Nutzer können von dem jeweils anderen Teil
 die Annahme eines Angebots auf Bestellung eines Erbbaurechts
@@ -40,6 +42,7 @@ verlangen, wenn der Inhalt des Angebots den Bestimmungen der §§ 3 bis
 
 
 ## § 3 Erbbauzins
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000300000)
 
 (1) Der Zinssatz beträgt jährlich vier vom Hundert des ungeteilten
 Bodenwerts eines entsprechenden unbebauten Grundstücks. Jeder
@@ -69,6 +72,7 @@ entsprechend anzuwenden.
 
 
 ## § 4 Zinsanpassungen
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000400000)
 
 Nutzer und Grundstückseigentümer sind verpflichtet, in den
 Erbbaurechtsvertrag eine Bestimmung aufzunehmen, die eine Anpassung
@@ -77,6 +81,7 @@ Sachenrechtsbereinigungsgesetzes ist entsprechend anzuwenden.
 
 
 ## § 5 Ermäßigung des Erbbauzinses
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000500000)
 
 Der vom Nutzer zu entrichtende Erbbauzins ermäßigt sich
 
@@ -96,11 +101,13 @@ Gesetz, spätestens am 1. Juli 1995.
 
 
 ## § 6 Dauer des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000600000)
 
 Die Dauer des Erbbaurechts beträgt vom Vertragsabschluß an 30 Jahre.
 
 
 ## § 7 Zulässige Nutzung, Heimfallanspruch
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000700000)
 
 (1) Der Grundstückseigentümer kann eine Vereinbarung im
 Erbbaurechtsvertrag verlangen, nach der der Nutzer das Gebäude nur zu
@@ -117,6 +124,7 @@ Abmahnung fortsetzt.
 
 
 ## § 8 Anwendbarkeit des Sachenrechtsbereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erholnutzg/BJNR254800994.html#BJNR254800994BJNE000800000)
 
 Auf die nach diesem Gesetz zu bestellenden Erbbaurechte finden im
 übrigen die für den Eigenheimbau geltenden Bestimmungen des

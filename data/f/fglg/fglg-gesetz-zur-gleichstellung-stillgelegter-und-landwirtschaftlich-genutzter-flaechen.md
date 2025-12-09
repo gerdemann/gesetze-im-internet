@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fglg/BJNR091000995.html#BJNR091000995BJNE000103118)
 
 (1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen
 Gemeinschaften oder der Europäischen Union über Direktzahlungen im
@@ -59,6 +60,7 @@ Zeitpunkt vor der Stilllegung nutzen zu können, unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fglg/BJNR091000995.html#BJNR091000995BJNE000200307)
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1994 in Kraft.
 

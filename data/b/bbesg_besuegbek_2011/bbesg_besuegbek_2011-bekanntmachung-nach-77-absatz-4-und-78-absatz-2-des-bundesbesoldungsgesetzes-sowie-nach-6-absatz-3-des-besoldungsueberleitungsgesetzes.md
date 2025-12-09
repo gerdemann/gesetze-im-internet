@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2011/BJNR302300011.html#BJNR302300011BJNE000100000)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
 der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
@@ -44,11 +45,13 @@ Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2011/BJNR302300011.html#BJNR302300011BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2011/BJNR302300011.html#BJNR302300011BJNE000300000)
 
 (Fundstelle: BGBl. I 2011, 3024)
 
@@ -369,6 +372,7 @@ Amtszulagen, Stellenzulagen, Zulagen
 [^f775984_01_BJNR302300011BJNE000300000]: 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2011/BJNR302300011.html#BJNR302300011BJNE000400000)
 
 (Fundstelle: BGBl. I 2011, 3025 - 3029)
 
@@ -2073,6 +2077,7 @@ Gültig ab 1. Januar 2012 für Postnachfolgeunternehmen
 [^f775984_01_BJNR302300011BJNE000400000]: 
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_gbek_2011/BJNR302300011.html#BJNR302300011BJNE000500000)
 
 (Fundstelle: BGBl. I 2011, 3030)
 

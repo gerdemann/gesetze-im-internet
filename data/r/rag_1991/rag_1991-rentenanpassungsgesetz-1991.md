@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNG000100308)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000400308)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1990 auf das Jahr 1991 werden die Renten der gesetzlichen
@@ -30,6 +32,7 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000500308)
 
 (1) Renten, die
 
@@ -56,6 +59,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000600308)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1991 ergebende
@@ -63,6 +67,7 @@ anpassungsfähige Rentenbetrag um 4,7 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000700308)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -83,6 +88,7 @@ zulässig.
 
 
 ### § 5 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000800308)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1991 beträgt
 
@@ -104,26 +110,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1991 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNG000200308)
 
 
 
 ### § 6 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE000900308)
 
 Der Anpassungsfaktor für die vom 1. Juli 1991 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0504.
 
 
 ### § 7 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE001000308)
 
 Das Pflegegeld beträgt vom 1. Juli 1991 an zwischen 473 Deutsche Mark
 und 1.893 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNG000300308)
 
 
 
 ### § 8 Einschränkung des Geltungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/rag_1991/BJNR110650991.html#BJNR110650991BJNE001100308)
 
 Dieses Gesetz gilt nicht für die Rentenversicherung und die
 Unfallversicherung in dem in Artikel 3 des Einigungsvertrages

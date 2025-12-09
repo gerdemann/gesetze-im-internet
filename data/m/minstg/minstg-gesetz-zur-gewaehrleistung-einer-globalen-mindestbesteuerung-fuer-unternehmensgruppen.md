@@ -20,12 +20,15 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000100000)
 
 
 ### Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000200000)
 
 
 #### § 1 Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000200000)
 
 (1) Im Inland belegene Geschäftseinheiten, die zu einer
 Unternehmensgruppe gehören, welche in den Konzernabschlüssen der
@@ -50,6 +53,7 @@ Umsatzerlöse dieser Einheiten jedoch zu berücksichtigen.
 
 
 #### § 2 Umfang der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000300000)
 
 Die Mindeststeuer umfasst den Primärergänzungssteuerbetrag nach den §§
 8 bis 10, den Sekundärergänzungssteuerbetrag nach den §§ 11 bis 14
@@ -57,6 +61,7 @@ sowie den nationalen Ergänzungssteuerbetrag nach den §§ 90 bis 93.
 
 
 #### § 3 Mindeststeuergruppe
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000401123)
 
 (1) Die nach § 1 steuerpflichtigen Geschäftseinheiten einer
 Unternehmensgruppe bilden eine Mindeststeuergruppe. Die
@@ -122,6 +127,7 @@ Körperschaftsteuergesetz nicht.
 
 
 #### § 4 Umfang der Unternehmensgruppe und ihre Bestandteile
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000500000)
 
 (1) Eine Unternehmensgruppe umfasst alle Einheiten, die durch Eigentum
 oder Beherrschung miteinander verbunden sind, sodass die
@@ -255,6 +261,7 @@ Jahresabschluss erfasst.
 
 
 #### § 5 Ausgeschlossene Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000600000)
 
 (1) Ausgeschlossene Einheiten sind
 
@@ -326,6 +333,7 @@ Absatz 2.
 
 
 #### § 6 Belegenheit von Einheiten und Betriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000700000)
 
 (1) Belegenheitsstaat einer nichttransparenten Einheit ist das
 Steuerhoheitsgebiet, in dem sie aufgrund des Orts ihrer
@@ -415,9 +423,11 @@ sie zu Beginn des Geschäftsjahres belegen war.
 
 
 ### Abschnitt 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000300000)
 
 
 #### § 7 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000800000)
 
 (1) Für Zwecke dieses Gesetzes gelten, soweit nicht an anderer Stelle
 in diesem Gesetz erfolgt, die in den nachstehenden Absätzen
@@ -998,12 +1008,15 @@ oder zu genehmigen.
 
 
 ## Teil 2 - Ergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000400000)
 
 
 ### Abschnitt 1 - Primärergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000500000)
 
 
 #### § 8 Umfang der Besteuerung der Muttergesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE000900000)
 
 (1) Für eine nach § 1 steuerpflichtige oberste Muttergesellschaft, die
 selbst niedrig besteuert ist oder die zu einem Zeitpunkt während des
@@ -1048,6 +1061,7 @@ unmittelbar oder mittelbar alle Eigenkapitalanteile hält.
 
 
 #### § 9 Anteil der Muttergesellschaft am Steuererhöhungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001000000)
 
 (1) Der einer Muttergesellschaft zuzurechnende Anteil am
 Steuererhöhungsbetrag einer niedrig besteuerten Geschäftseinheit
@@ -1098,6 +1112,7 @@ der nicht der Unternehmensgruppe angehört.
 
 
 #### § 10 Minderung des Primärergänzungssteuerbetrags
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001100000)
 
 Bei einer im Inland belegenen Muttergesellschaft, die mittelbar eine
 Eigenkapitalbeteiligung an einer niedrig besteuerten Geschäftseinheit
@@ -1115,9 +1130,11 @@ Steuererhöhungsbetrag der niedrig besteuerten Geschäftseinheit nach §
 
 
 ### Abschnitt 2 - Sekundärergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000600000)
 
 
 #### § 11 Umfang der Besteuerung der Geschäftseinheit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001200000)
 
 (1) Für jede nach § 1 steuerpflichtige Geschäftseinheit, ausgenommen
 Investmenteinheiten, entsteht in Höhe des ihr für das Geschäftsjahr
@@ -1147,6 +1164,7 @@ Primärergänzungssteuerregelung unterliegen.
 
 
 #### § 12 Anteil der Bundesrepublik Deutschland am Gesamtbetrag der Steuererhöhungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001300000)
 
 (1) Der auf die Bundesrepublik Deutschland entfallende Anteil am
 Gesamtbetrag der Steuererhöhungsbeträge entspricht vorbehaltlich des §
@@ -1215,6 +1233,7 @@ Wertminderungen.
 
 
 #### § 13 Besonderheiten bei transparenten Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001400000)
 
 (1) Für die Zuordnung der Beschäftigten im Sinne des § 12 Absatz 2 und
 der materiellen Vermögenswerte im Sinne des § 12 Absatz 3 zu den
@@ -1232,6 +1251,7 @@ Inlandsquote im Sinne des § 12 Absatz 1 Satz 2 unberücksichtigt.
 
 
 #### § 14 Besonderheiten bei Steuerhoheitsgebieten mit anerkannter Sekundärergänzungssteuerregelung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001500000)
 
 Bei der Ermittlung der Inlandsquote nach § 12 Absatz 1 Satz 2 der
 Unternehmensgruppe für das betreffende Geschäftsjahr bleibt ein
@@ -1245,12 +1265,15 @@ unberücksichtigt blieben.
 
 
 ## Teil 3 - Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000700000)
 
 
 ### Abschnitt 1 - Grundlagen der Mindeststeuer-Gewinnermittlung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000800000)
 
 
 #### § 15 Mindeststeuer-Gewinn oder Mindeststeuer-Verlust
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001600000)
 
 (1) Der Mindeststeuer-Gewinn oder Mindeststeuer-Verlust ist der für
 Konsolidierungszwecke aus den Rechnungslegungsdaten der jeweiligen
@@ -1301,6 +1324,7 @@ Rechnungslegungsstandard ermittelt werden, vorausgesetzt, dass
 
 
 #### § 16 Betragsmäßige und fremdvergleichskonforme Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001700000)
 
 (1) Geschäftsvorfälle zwischen in verschiedenen Steuerhoheitsgebieten
 belegenen Geschäftseinheiten, die in den Jahresabschlüssen der
@@ -1339,6 +1363,7 @@ und 2 entsprechend.
 
 
 #### § 17 Korrespondierende Einstufung von Finanzinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001800000)
 
 Die Einstufung eines Finanzinstruments als Eigenkapital oder
 Fremdkapital hat für den Emittenten und den Inhaber einheitlich zu
@@ -1349,12 +1374,15 @@ den Inhaber bindend.
 
 
 ### Abschnitt 2 - Ermittlungsgrundsätze und Anpassungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG000900000)
 
 
 #### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001000000)
 
 
 ##### § 18 Hinzurechnungen und Kürzungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE001900000)
 
 Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag
 wird
@@ -1433,6 +1461,7 @@ wird
 
 
 ##### § 19 Gesamtsteueraufwand
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002000000)
 
 Gesamtsteueraufwand ist der positive oder negative Saldo aus
 
@@ -1453,6 +1482,7 @@ Gesamtsteueraufwand ist der positive oder negative Saldo aus
 
 
 ##### § 20 Dividendenkürzungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002100000)
 
 (1) Der Dividendenkürzungsbetrag setzt sich zusammen aus Dividenden
 oder anderen Gewinnausschüttungen aus Eigenkapitalbeteiligungen, wenn
@@ -1480,6 +1510,7 @@ Eigenkapitalkomponente des Instruments entfällt.
 
 
 ##### § 21 Gewinne oder Verluste aus Eigenkapitalbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002200000)
 
 Ausgenommene Gewinne oder Verluste aus Eigenkapitalbeteiligungen sind
 im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag
@@ -1498,6 +1529,7 @@ enthaltene
 
 
 ##### § 22 Gewinne oder Verluste aus der Anwendung der Neubewertungsmethode auf Sachanlagen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002300000)
 
 Gewinne oder Verluste aus der Anwendung der Neubewertungsmethode auf
 Sachanlagen entsprechen den Nettogewinnen oder Nettoverlusten,
@@ -1511,6 +1543,7 @@ erfolgswirksam erfasst werden.
 
 
 ##### § 23 Asymmetrische Fremdwährungsgewinne oder Fremdwährungsverluste
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002400000)
 
 (1) Asymmetrische Fremdwährungsgewinne oder Fremdwährungsverluste
 entstehen aufgrund von abweichenden funktionalen Währungen,
@@ -1565,6 +1598,7 @@ entstehen aufgrund von abweichenden funktionalen Währungen,
 
 
 ##### § 24 Bilanzierungs- und Bewertungsfehler eines vorangegangenen Geschäftsjahres; Änderungen der Bilanzierungsvorschriften und Bewertungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002500000)
 
 (1) Änderungen des Eigenkapitals in der Bilanz der Geschäftseinheit zu
 Beginn des Geschäftsjahres, die zurückzuführen sind auf
@@ -1593,6 +1627,7 @@ geschuldeten erfassten Steuern führt.
 
 
 ##### § 25 Korrekturposten Pensionsaufwand
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002600000)
 
 Korrekturposten Pensionsaufwand ist der Unterschiedsbetrag zwischen
 dem Betrag der im Mindeststeuer-Jahresüberschuss oder Mindeststeuer-
@@ -1603,6 +1638,7 @@ Pensionseinheit ausgelagert sind.
 
 
 ##### § 26 Gruppeninterne Finanzierungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002700000)
 
 (1) Aufwendungen aus gruppeninternen Finanzierungsvereinbarungen
 werden für Zwecke der Ermittlung des Mindeststeuer-Gewinns oder
@@ -1626,6 +1662,7 @@ Steuersatzes dieses Steuerhoheitsgebiets außer Acht zu lassen.
 
 
 ##### § 27 Steuerliche Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002800000)
 
 (1) Anerkannte steuerliche Zulagen sind im Geschäftsjahr der Erfüllung
 der Anspruchsvoraussetzung für deren Gewährung als Erträge zu
@@ -1653,6 +1690,7 @@ aber ganz oder teilweise auszahlbar sind.
 
 
 ##### § 28 Marktfähige und übertragbare steuerliche Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE002900000)
 
 (1) Soweit eine nicht anerkannte steuerliche Zulage vorliegt, gilt §
 27 Absatz 1 Satz 1 und 2 entsprechend, wenn es sich um eine
@@ -1745,6 +1783,7 @@ eine Kontrollbeteiligung ist von einer Verbundenheit auszugehen.
 
 
 ##### § 29 Behandlung steuerlicher Vorteile bei Beteiligungen an bestimmten steuertransparenten Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003000000)
 
 (1) Bei Ausübung des Wahlrechts nach § 39 sind anerkannte
 Steuervorteile, die dem Inhaber aus einer anerkannten Beteiligung
@@ -1811,9 +1850,11 @@ anerkannte Beteiligung vorrangig.
 
 
 #### Unterabschnitt 2 - Sektorspezifische Gewinnermittlung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001100000)
 
 
 ##### § 30 Ausnahme für Gewinne oder Verluste aus dem internationalen Seeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003100000)
 
 (1) Gewinne oder Verluste aus dem internationalen Seeverkehr,
 einschließlich anerkannter Neben- und Hilfsgeschäfte, werden bei der
@@ -1905,6 +1946,7 @@ Geschäftseinheiten in demselben Steuerhoheitsgebiet übersteigen.
 
 
 ##### § 31 Behandlung von Vergütungen auf besondere Instrumente bei Kreditinstituten und Versicherern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003200000)
 
 Aufwendungen und Erträge auf Instrumente des zusätzlichen Kernkapitals
 von Kreditinstituten sind bei der Berechnung des Mindeststeuer-Gewinns
@@ -1926,6 +1968,7 @@ die Verlustabsorption erleichtern sollen.
 
 
 ##### § 32 Behandlung bestimmter Versicherungserträge
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003300000)
 
 (1) Erträge einer Versicherungseinheit, die diese aus der
 Weiterbelastung von Steuern erzielt und die vertraglich vom
@@ -1944,6 +1987,7 @@ Mindeststeuer-Jahresfehlbetrag der Versicherungseinheit erfasst wird.
 
 
 ##### § 33 Ausschluss von Aufwendungen bei fondsgebundenen Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003400000)
 
 (1) Zuführungen einer Versicherungseinheit zu versicherungstechnischen
 Rückstellungen für fondsgebundene Versicherungen sind nicht abziehbar,
@@ -1959,9 +2003,11 @@ stehen, die nach § 18 Nummer 3 in Verbindung mit § 21 zu kürzen sind.
 
 
 ### Abschnitt 3 - Wahlrechte bei der Gewinnermittlung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001200000)
 
 
 #### § 34 Aktienbasierte Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003500000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit können die von
 einer Geschäftseinheit für ein Geschäftsjahr im Mindeststeuer-
@@ -1998,6 +2044,7 @@ Aufwendungen für aktienbasierte Vergütungen berücksichtigen.
 
 
 #### § 35 Anwendung der Realisationsmethode
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003600000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit können
 Vermögenswerte und Schulden, die im Konzernabschluss zum beizulegenden
@@ -2033,6 +2080,7 @@ dem maßgeblichen Buchwert im Sinne des Absatzes 2 zu berücksichtigen.
 
 
 #### § 36 Gewinne aus der Veräußerung von unbeweglichem Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003700000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit kann der
 Nettogewinn aus der Veräußerung von unbeweglichem Vermögen des
@@ -2073,6 +2121,7 @@ Steuern auszunehmen.
 
 
 #### § 37 Konsolidierung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003800000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit können
 Erträge, Aufwendungen, Gewinne oder Verluste aus Geschäftsvorfällen
@@ -2089,6 +2138,7 @@ Nichterfassung vorzunehmen.
 
 
 #### § 38 Steuerpflicht von Portfoliodividenden
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE003900000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit ist § 20
 Absatz 1 Nummer 2 für die Ermittlung des Dividendenkürzungsbetrags
@@ -2099,6 +2149,7 @@ alle Beteiligungen einer Geschäftseinheit einheitlich auszuüben.
 
 
 #### § 39 Steuerpflicht von Gewinnen oder Verlusten bei Eigenkapitalbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004000000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit ist § 21 für
 qualifizierte Gewinne oder Verluste aus Eigenkapitalbeteiligungen
@@ -2134,6 +2185,7 @@ Widerrufs fort.
 
 
 #### § 40 Symmetrische Behandlung qualifizierter Währungsgewinne oder qualifizierter Währungsverluste bei Nettoinvestitionen in einen Geschäftsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004100000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit sind im
 Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag
@@ -2173,6 +2225,7 @@ Absicherung von Währungsrisiken in Schachtelbeteiligungen (§ 20 Absatz
 
 
 #### § 41 Qualifizierte Sanierungserträge
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004200000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit sind im
 Mindeststeuer-Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag
@@ -2237,9 +2290,11 @@ Fall des
 
 
 ### Abschnitt 4 - Aufteilung von Gewinnen und Verlusten bei Betriebsstätten und transparenten Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001300000)
 
 
 #### § 42 Zuordnung von Gewinnen und Verlusten zwischen Betriebsstätte und Stammhaus
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004300000)
 
 (1) Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-
 Jahresfehlbetrag einer Betriebsstätte im Sinne des § 4 Absatz 8 Nummer
@@ -2294,6 +2349,7 @@ Gewinn oder Mindeststeuer-Verlust des Stammhauses zuzurechnen.
 
 
 #### § 43 Zuordnung von Gewinnen und Verlusten bei transparenten Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004400000)
 
 (1) Der Mindeststeuer-Jahresüberschuss oder Mindeststeuer-
 Jahresfehlbetrag einer transparenten Einheit ist um den Teil zu
@@ -2330,12 +2386,15 @@ Jahresüberschuss oder Mindeststeuer-Jahresfehlbetrag ist
 
 
 ## Teil 4 - Ermittlung der angepassten erfassten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001400000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001500000)
 
 
 #### § 44 Betrag der angepassten erfassten Steuern einer Geschäftseinheit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004500000)
 
 (1) Der Betrag der angepassten erfassten Steuern einer
 Geschäftseinheit entspricht den im Mindeststeuer-Jahresüberschuss oder
@@ -2369,6 +2428,7 @@ erfasster Steuern mehrfach berücksichtigt werden.
 
 
 #### § 45 Erfasste Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004600000)
 
 (1) Vorbehaltlich des Absatzes 2 sind erfasste Steuern im Sinne dieses
 Gesetzes
@@ -2417,6 +2477,7 @@ Gesetzes
 
 
 #### § 46 Zusätzlicher Steuererhöhungsbetrag bei Mindeststeuer-Gesamtverlust
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004700000)
 
 (1) Ergibt sich für ein Geschäftsjahr für ein Steuerhoheitsgebiet ein
 Mindeststeuer-Gesamtverlust und beläuft sich der Gesamtbetrag der
@@ -2453,9 +2514,11 @@ erfassen ist.
 
 
 ### Abschnitt 2 - Anpassungen der erfassten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001600000)
 
 
 #### § 47 Hinzurechnungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004800000)
 
 Den bei einer Geschäftseinheit im Mindeststeuer-Jahresüberschuss oder
 Mindeststeuer-Jahresfehlbetrag für das Geschäftsjahr erfassten Steuern
@@ -2485,6 +2548,7 @@ werden folgende Beträge hinzugerechnet:
 
 
 #### § 48 Kürzungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE004900000)
 
 Die bei einer Geschäftseinheit im Mindeststeuer-Jahresüberschuss oder
 Mindeststeuer-Jahresfehlbetrag für das Geschäftsjahr erfassten Steuern
@@ -2532,6 +2596,7 @@ werden gekürzt um
 
 
 #### § 49 Zurechnung erfasster Steuern zu anderen Geschäftseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005000000)
 
 (1) Die erfassten Steuern einer Geschäftseinheit im Zusammenhang mit
 Betriebsstätten, steuertransparenten Einheiten, hybriden Einheiten
@@ -2603,6 +2668,7 @@ für reguläre Einkünfte im Belegenheitsstaat des Stammhauses, nicht
 
 
 #### § 50 Gesamtbetrag der angepassten latenten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005100000)
 
 (1) Der Gesamtbetrag der angepassten latenten Steuern für eine
 Geschäftseinheit für ein Geschäftsjahr entspricht den im
@@ -2794,6 +2860,7 @@ einbezogen wird.
 
 
 #### § 51 Mindeststeuer-Verlustwahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005200000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit kann mit
 Abgabe des ersten Mindeststeuer-Berichts für ein Steuerhoheitsgebiet
@@ -2827,6 +2894,7 @@ Verlustwahlrechts entsprechend.
 
 
 #### § 52 Nachträgliche Anpassungen und Änderungen der erfassten Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005300000)
 
 (1) Eine im Jahresabschluss der Geschäftseinheit ausgewiesene Erhöhung
 der Steuerschuld vorangegangener Geschäftsjahre wird als Änderung der
@@ -2891,15 +2959,19 @@ angepassten erfassten Steuern herausgerechnet werden.
 
 
 ## Teil 5 - Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001700000)
 
 
 ### Abschnitt 1 - Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001800000)
 
 
 #### Unterabschnitt 1 - Grundsätze und Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG001900000)
 
 
 ##### § 53 Effektiver Steuersatz der Unternehmensgruppe für ein Steuerhoheitsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005400000)
 
 (1) Für die Unternehmensgruppe ist der effektive Steuersatz für ein
 Steuerhoheitsgebiet für das Geschäftsjahr wie folgt zu ermitteln:
@@ -2922,6 +2994,7 @@ der Ermittlung des effektiven Steuersatzes nach Absatz 1 auszunehmen.
 
 
 ##### § 54 Mindeststeuersatz und Ermittlung des Steuererhöhungsbetrags
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005500000)
 
 (1) Der Mindeststeuersatz beträgt 15 Prozent.
 
@@ -2962,6 +3035,7 @@ für die die Neuberechnungen nach § 57 Absatz 1 vorgenommen wurden.
 
 
 ##### § 55 Behandlung von in Minderheitseigentum stehenden Geschäftseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005600000)
 
 (1) Die Ermittlung des effektiven Steuersatzes nach § 53 und des
 Steuererhöhungsbetrags nach § 54 ist bei in Minderheitseigentum
@@ -2994,6 +3068,7 @@ Kontrollbeteiligung hält.
 
 
 ##### § 56 Wesentlichkeitsgrenze
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005700000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit kann der
 Steuererhöhungsbetrag jährlich abweichend von § 54 für in demselben
@@ -3033,9 +3108,11 @@ Anpassungen.
 
 
 #### Unterabschnitt 2 - Zusätzlicher laufender Steuererhöhungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002000000)
 
 
 ##### § 57 Zusätzlicher Steuererhöhungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005800000)
 
 (1) Führen § 36 Absatz 1, § 50 Absatz 4, § 52 Absatz 1, 2, 4 und 6
 sowie § 71 zu einer Änderung des effektiven Steuersatzes und des
@@ -3087,9 +3164,11 @@ Teils 2 als niedrig besteuerte Geschäftseinheit behandelt.
 
 
 ### Abschnitt 2 - Substanzbasierter Freibetrag
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002100000)
 
 
 #### § 58 Ermittlung des substanzbasierten Freibetrags
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE005900000)
 
 (1) Der substanzbasierte Freibetrag für alle in einem
 Steuerhoheitsgebiet belegenen Geschäftseinheiten, ausgenommen von
@@ -3110,6 +3189,7 @@ Freibetrags nach Absatz 1 verzichtet werden.
 
 
 #### § 59 Berücksichtigungsfähige Beschäftigte und berücksichtigungsfähige Lohnkosten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006001123)
 
 (1) Berücksichtigungsfähige Beschäftigte sind
 
@@ -3153,6 +3233,7 @@ Geschäftseinheit ausübt.
 
 
 #### § 60 Berücksichtigungsfähige materielle Vermögenswerte
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006100000)
 
 (1) Berücksichtigungsfähige materielle Vermögenswerte entsprechen dem
 Buchwert folgender im Steuerhoheitsgebiet der Geschäftseinheit
@@ -3223,6 +3304,7 @@ Beginn und Ende des Geschäftsjahres abzustellen.
 
 
 #### § 61 Anwendung des substanzbasierten Freibetrags in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006200000)
 
 (1) Die §§ 59 und 60 sind auf Betriebsstätten entsprechend anzuwenden.
 Dabei richten sich die maßgeblichen Werte nach der Rechnungslegung der
@@ -3265,6 +3347,7 @@ nicht zu berücksichtigen.
 
 
 #### § 62 Ermittlung des substanzbasierten Freibetrags in einem Übergangszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006300000)
 
 (1) Für die Zwecke der Anwendung der §§ 58 und 59 gilt anstelle des
 Werts von 5 Prozent für jedes Geschäftsjahr, das in einem der
@@ -3390,12 +3473,15 @@ folgenden Kalenderjahre beginnt, folgender Wert:
 
 
 ## Teil 6 - Unternehmensumstrukturierungen und Beteiligungsstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002200000)
 
 
 ### Abschnitt 1 - Ermittlung der Umsatzgrenze in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002300000)
 
 
 #### § 63 Anwendung der Umsatzgrenze bei Zusammenschluss oder Teilung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006400000)
 
 (1) Haben sich zwei oder mehr Unternehmensgruppen zu einer
 Unternehmensgruppe zusammengeschlossen, gilt für Geschäftsjahre vor
@@ -3451,9 +3537,11 @@ einbezogen werden.
 
 
 ### Abschnitt 2 - Veränderungen der Unternehmensgruppe
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002400000)
 
 
 #### § 64 Austritt und Beitritt von Geschäftseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006500000)
 
 (1) Die beitretende oder austretende Geschäftseinheit gilt im
 Geschäftsjahr des Beitritts oder Austritts als zu der
@@ -3538,6 +3626,7 @@ dieser Geschäftseinheit nicht mehr einer Unternehmensgruppe angehört.
 
 
 #### § 65 Erwerb und Veräußerung von Anteilen, die als Übertragung oder Erwerb von Vermögenswerten und Schulden gelten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006600000)
 
 Die Veräußerung oder der Erwerb einer Kontrollbeteiligung an einer
 beitretenden oder austretenden Geschäftseinheit gilt als Übertragung
@@ -3554,6 +3643,7 @@ einer erfassten Steuer belegt.
 
 
 #### § 66 Übertragung von Vermögenswerten oder Schulden
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006700000)
 
 (1) Eine Geschäftseinheit, die Vermögenswerte oder Schulden überträgt
 (übertragende Geschäftseinheit), bezieht die Gewinne oder Verluste der
@@ -3695,9 +3785,11 @@ Verlust zu berücksichtigen.
 
 
 ### Abschnitt 3 - Besondere Beteiligungsstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002500000)
 
 
 #### § 67 Joint Venture
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006800000)
 
 (1) Die Berechnung des Steuererhöhungsbetrags des Joint Venture und
 seiner Tochtergesellschaften erfolgt entsprechend den Teilen 3 bis 7
@@ -3783,6 +3875,7 @@ Joint-Venture-Tochtergesellschaft behandelt.
 
 
 #### § 68 Unternehmensgruppen mit mehreren Muttergesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE006900000)
 
 (1) Geschäftseinheiten und ausgeschlossene Einheiten von zwei oder
 mehr Unternehmensgruppen, die zu einer Unternehmensgruppe mit mehreren
@@ -3891,12 +3984,15 @@ selbstständiger Unternehmensgruppen, in deren Rahmen
 
 
 ## Teil 7 - Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002600000)
 
 
 ### Abschnitt 1 - Besonderheiten bei obersten Muttergesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002700000)
 
 
 #### § 69 Transparente oberste Muttergesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007000000)
 
 (1) Der für das Geschäftsjahr ermittelte Mindeststeuer-Gewinn einer
 transparenten Einheit, die oberste Muttergesellschaft der
@@ -3973,6 +4069,7 @@ Gewinnermittlung nutzen können.
 
 
 #### § 70 Oberste Muttergesellschaft mit Dividendenabzugssystem
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007100000)
 
 (1) Der ermittelte Mindeststeuer-Gewinn einer obersten
 Muttergesellschaft, die einem Dividendenabzugsregime unterliegt, wird
@@ -4073,9 +4170,11 @@ Geschäftseinheit, die einem Dividendenabzugsregime unterliegt,
 
 
 ### Abschnitt 2 - Ausschüttungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002800000)
 
 
 #### § 71 Zulässige Ausschüttungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007200000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit kann bei
 Geschäftseinheiten, die einem zulässigen Ausschüttungssteuersystem
@@ -4186,9 +4285,11 @@ Steuerhoheitsgebiet beziehen.
 
 
 ### Abschnitt 3 - Besonderheiten bei Investmenteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG002900000)
 
 
 #### § 72 Berechnung des effektiven Steuersatzes für Investmenteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007300000)
 
 (1) Abweichend von § 53 und vorbehaltlich des § 73 oder des § 74 wird
 der effektive Steuersatz einer Investmenteinheit, die keine
@@ -4241,6 +4342,7 @@ Investmenteinheit gekürzt werden.
 
 
 #### § 73 Steuertransparenzwahlrecht für Investmenteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007400000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit kann eine
 Investmenteinheit als steuertransparente Gesellschaft behandelt
@@ -4282,6 +4384,7 @@ Schuld zum ersten Tag des Jahres des Widerrufs bestimmt.
 
 
 #### § 74 Wahlrecht für steuerpflichtige Ausschüttungen von Investmenteinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007500000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit können
 gruppenzugehörige Gesellschafter, die keine Investmenteinheiten sind,
@@ -4400,12 +4503,15 @@ die Zwecke des Teils 2 behandelt.
 
 
 ## Teil 8 - Administration
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003000000)
 
 
 ### Abschnitt 1 - Mindeststeuer-Bericht
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003100000)
 
 
 #### § 75 Abgabeverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007600000)
 
 (1) Jede nach § 1 Absatz 1 Satz 1 oder Absatz 2 steuerpflichtige
 Geschäftseinheit hat den Mindeststeuer-Bericht für das Geschäftsjahr
@@ -4467,6 +4573,7 @@ folgt. § 88a der Abgabenordnung ist zu beachten.
 
 
 #### § 76 Inhalt des Mindeststeuer-Berichts
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007700000)
 
 In dem Mindeststeuer-Bericht sind anzugeben:
 
@@ -4506,9 +4613,11 @@ In dem Mindeststeuer-Bericht sind anzugeben:
 
 
 ### Abschnitt 2 - Wahlrechte
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003200000)
 
 
 #### § 77 Wahlrechte
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007800000)
 
 (1) Die Ausübung der in § 36 Absatz 1, § 50 Absatz 7, § 52 Absatz 4, §
 56 Absatz 1, § 58 Absatz 2 und § 71 Absatz 1 genannten Wahlrechte
@@ -4536,12 +4645,15 @@ die berichtspflichtige Geschäftseinheit belegen ist.
 
 
 ### Abschnitt 3 - Safe-Harbour-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003300000)
 
 
 #### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003400000)
 
 
 ##### § 78 Überprüfung der Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE007900000)
 
 (1) Die Safe-Harbour-Regelungen, die nach den §§ 79 bis 81, 84 bis 87
 und 89 für ein Steuerhoheitsgebiet (Safe-Harbour-Steuerhoheitsgebiet)
@@ -4573,9 +4685,11 @@ die Frist nach Absatz 1 Nummer 2 erst ab diesem Zeitpunkt zu laufen.
 
 
 #### Unterabschnitt 2 - Safe Harbour für vereinfachte Berechnungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003500000)
 
 
 ##### § 79 Vereinfachte Berechnungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008000000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird der
 Steuererhöhungsbetrag für Zwecke des § 54, ausgenommen soweit
@@ -4612,6 +4726,7 @@ angepassten erfassten Steuern.
 
 
 ##### § 80 Wahlrecht für vereinfachte Ausgangsgrößen bei unwesentlichen Geschäftseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008100000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit können für die
 Anwendung des § 79 bei unwesentlichen Geschäftseinheiten vereinfachte
@@ -4651,9 +4766,11 @@ aufgestellt worden ist.
 
 
 #### Unterabschnitt 3 - Safe-Harbour-Regelung bei anerkannter nationaler Ergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003600000)
 
 
 ##### § 81 Safe-Harbour bei anerkannter nationaler Ergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008200000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird der
 Steuererhöhungsbetrag bezogen auf einen Teil der Unternehmensgruppe
@@ -4795,12 +4912,15 @@ der Grundlage eines mit § 76 vergleichbaren Berichtsstandards erfolgt.
 
 
 ## Teil 9 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003700000)
 
 
 ### Abschnitt 1 - Erstmalige Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003800000)
 
 
 #### § 82 Steuerattribute des Übergangsjahres
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008300000)
 
 (1) Bei der Bestimmung des effektiven Steuersatzes eines
 Steuerhoheitsgebiets in einem Übergangsjahr und den darauffolgenden
@@ -4885,9 +5005,11 @@ auf ein Steuerhoheitsgebiet tatsächlich anwendet, verschiebt sich das
 
 
 ### Abschnitt 2 - Untergeordnete internationale Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG003900000)
 
 
 #### § 83 Übergangsregelung bei untergeordneter internationaler Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008400000)
 
 (1) Unternehmensgruppen werden in den ersten fünf Jahren bei
 untergeordneter internationaler Tätigkeit von der Mindeststeuer (§ 2)
@@ -4930,9 +5052,11 @@ mit diesem Zeitpunkt.
 
 
 ### Abschnitt 3 - Zeitlich befristete Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004000000)
 
 
 #### § 84 Verwendung länderbezogener Berichte multinationaler Unternehmensgruppen (CbCR-Safe-Harbour)
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008500000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird der
 Steuererhöhungsbetrag (§ 54), einschließlich des zusätzlichen
@@ -4980,6 +5104,7 @@ für dieses sowie die folgenden Geschäftsjahre rückwirkend.
 
 
 #### § 85 Besonderheiten bei bestimmten Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008600000)
 
 (1) Für § 84 sind Joint Ventures und Joint-Venture-
 Tochtergesellschaften (§ 67) als Geschäftseinheiten einer
@@ -5019,6 +5144,7 @@ Investmenteinheit.
 
 
 #### § 86 Ausschluss von bestimmten Geschäftseinheiten, Unternehmensgruppen oder Steuerhoheitsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008700000)
 
 Die folgenden Geschäftseinheiten, Unternehmensgruppen oder
 Steuerhoheitsgebiete sind von der Anwendung des CbCR-Safe-Harbour
@@ -5040,6 +5166,7 @@ ausgeschlossen:
 
 
 #### § 87 Definitionen für den CbCR-Safe-Harbour
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008800000)
 
 Soweit nichts anderes bestimmt ist, gelten für die Anwendung der §§ 84
 bis 86 die folgenden Definitionen:
@@ -5120,6 +5247,7 @@ bis 86 die folgenden Definitionen:
 
 
 #### § 88 Übergangsregelungen bei gemischter Hinzurechnungsbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE008900000)
 
 (1) Für Geschäftsjahre, die am oder vor dem 31. Dezember 2025
 beginnen, nicht mehr aber für Geschäftsjahre, die nach dem 30. Juni
@@ -5160,6 +5288,7 @@ Zurechnung zu diesen Einheiten vorzunehmen.
 
 
 #### § 89 Sekundärergänzungssteuerbetrag-Safe-Harbour
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009000000)
 
 (1) Auf Antrag der berichtspflichtigen Geschäftseinheit wird für die
 Berechnung der Sekundärergänzungssteuer der Steuererhöhungsbetrag für
@@ -5178,12 +5307,15 @@ des Absatzes 1 Satz 2 folgenden Geschäftsjahren von der Anwendung des
 
 
 ## Teil 10 - Nationale Ergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004100000)
 
 
 ### Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004200000)
 
 
 #### § 90 Umfang der Besteuerung der Geschäftseinheit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009100000)
 
 (1) Für jede nach § 1 steuerpflichtige Geschäftseinheit entsteht in
 Höhe des für die Bundesrepublik Deutschland ermittelten und ihr nach §
@@ -5205,9 +5337,11 @@ Gesetzes entsprechend.
 
 
 ### Abschnitt 2 - Besonderheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004300000)
 
 
 #### § 91 Steuererhöhungsbeträge staatenloser Geschäftseinheiten
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009200000)
 
 Für Zwecke der nationalen Ergänzungssteuerregelung sind staatenlose
 Geschäftseinheiten, Joint Ventures und Joint-Venture-
@@ -5221,6 +5355,7 @@ entsprechend anzuwenden.
 
 
 #### § 92 Grenzüberschreitende Zurechnung erfasster Steuern
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009300000)
 
 § 49 ist mit der Maßgabe anzuwenden, dass erfasste ausländische
 Steuern keinem nach § 1 Steuerpflichtigen zugerechnet werden dürfen,
@@ -5228,6 +5363,7 @@ der der nationalen Ergänzungssteuerregelung unterliegt.
 
 
 #### § 93 Nichtberücksichtigung der nationalen Ergänzungssteuer
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009400000)
 
 § 54 ist mit der Maßgabe anzuwenden, dass die nationale
 Ergänzungssteuerregelung für Zwecke der Ermittlung des
@@ -5235,12 +5371,15 @@ Steuererhöhungsbetrags unberücksichtigt bleibt.
 
 
 ## Teil 11 - Besteuerungsverfahren und sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004400000)
 
 
 ### Abschnitt 1 - Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004500000)
 
 
 #### § 94 Entstehung der Mindeststeuer und Besteuerungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009500000)
 
 Die Mindeststeuer (§ 2) für ein Geschäftsjahr entsteht mit Ablauf des
 Kalenderjahres, in dem das Geschäftsjahr endet. Besteuerungszeitraum
@@ -5248,6 +5387,7 @@ ist das Kalenderjahr.
 
 
 #### § 95 Steuererklärungspflicht, Steuerentrichtungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009600000)
 
 (1) Die nach § 1 Steuerpflichtigen haben für das Kalenderjahr eine
 Steuererklärung abzugeben und darin die Steuer selbst zu berechnen.
@@ -5274,6 +5414,7 @@ Kalenderjahr, ist das letzte dieser Geschäftsjahre maßgebend.
 
 
 #### § 96 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009700000)
 
 (1) Für die Besteuerung nach diesem Gesetz ist das Finanzamt
 zuständig, das für die Besteuerung nach dem Einkommen zuständig ist.
@@ -5288,6 +5429,7 @@ Absatz 2 Satz 3 des Finanzverwaltungsgesetzes bleiben unberührt.
 
 
 #### § 97 Währungsumrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009800000)
 
 (1) Wird der Konzernabschluss nicht in Euro aufgestellt, sind die auf
 Euro lautenden Beträge in § 1 Absatz 1, § 7 Absatz 10, § 15 Absatz 2
@@ -5304,9 +5446,11 @@ endet, in Euro umzurechnen.
 
 
 ### Abschnitt 2 - Bußgeldvorschriften, Ermächtigungen und Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNG004600000)
 
 
 #### § 98 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE009900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 75 Absatz 1 Satz 1 oder Satz 3 in Verbindung mit § 75 Absatz 3 Satz
@@ -5326,6 +5470,7 @@ Abgabenordnung entsprechend.
 
 
 #### § 99 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE010000000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
@@ -5356,6 +5501,7 @@ Artikels 32 der Richtlinie (EU) 2022/2523 erfüllen, zu erlassen.
 
 
 #### § 100 Auswirkung auf die Abkommensberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE010100000)
 
 Die Besteuerung nach diesem Gesetz oder nach einer ausländischen
 Vorschrift, die den Vorschriften der Richtlinie (EU) 2022/2523
@@ -5364,6 +5510,7 @@ zur Vermeidung der Doppelbesteuerung.
 
 
 #### § 101 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/minstg/BJNR18D0B0023.html#BJNR18D0B0023BJNE010200000)
 
 (1) Diese Fassung des Gesetzes gilt, sofern im Folgenden nichts
 anderes bestimmt ist, erstmals für Geschäftsjahre, die nach dem 30.

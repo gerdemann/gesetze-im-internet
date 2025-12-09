@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Gegenstände der Sachenrechtsbereinigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000100000)
 
 
 
 ### § 1 Betroffene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000300000)
 
 (1) Dieses Gesetz regelt Rechtsverhältnisse an Grundstücken in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet),
@@ -96,6 +98,7 @@ wenn das Eigentum am Grundstück
 
 
 ### § 2 Nicht einbezogene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000400000)
 
 (1) Dieses Gesetz ist nicht anzuwenden, wenn der Nutzer das Grundstück
 
@@ -173,18 +176,22 @@ vor.
 
 
 ## Kapitel 2 - Nutzung fremder Grundstücke durch den Bau oder den Erwerb von Gebäuden
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000200000)
 
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000300000)
 
 
 
 #### Unterabschnitt 1 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000400000)
 
 
 
 ##### § 3 Regelungsinstrumente und Regelungsziele
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000600000)
 
 (1) In den in § 1 Abs. 1 Nr. 1 bezeichneten Fällen können
 Grundstückseigentümer und Nutzer (Beteiligte) zur Bereinigung der
@@ -245,10 +252,12 @@ wenn der Vertrag
 
 
 #### Unterabschnitt 2 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000500000)
 
 
 
 ##### § 4 Bauliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000700000)
 
 Die Bestimmungen dieses Kapitels sind anzuwenden auf
 
@@ -273,6 +282,7 @@ Die Bestimmungen dieses Kapitels sind anzuwenden auf
 
 
 ##### § 5 Erwerb oder Bau von Eigenheimen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000801307)
 
 (1) Auf den Erwerb oder den Bau von Eigenheimen ist dieses Gesetz
 anzuwenden, wenn
@@ -357,6 +367,7 @@ gewohnt, dort jedoch nicht seinen Lebensmittelpunkt hatte.
 
 
 ##### § 6 Staatlicher oder genossenschaftlicher Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE000900000)
 
 Auf den staatlichen oder genossenschaftlichen Wohnungsbau findet
 dieses Kapitel Anwendung, wenn
@@ -377,6 +388,7 @@ dieses Kapitel Anwendung, wenn
 
 
 ##### § 7 Andere bauliche Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001000000)
 
 (1) Dieses Kapitel regelt auch die bauliche Nutzung fremder
 Grundstücke für land-, forstwirtschaftlich, gewerblich (einschließlich
@@ -456,6 +468,7 @@ b)
 
 
 ##### § 8 Zeitliche Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001100000)
 
 Die Bestimmungen dieses Kapitels sind nur anzuwenden, wenn der Bau
 oder Erwerb des Gebäudes oder der baulichen Anlage nach dem 8. Mai
@@ -480,10 +493,12 @@ oder Erwerb des Gebäudes oder der baulichen Anlage nach dem 8. Mai
 
 
 #### Unterabschnitt 3 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000600000)
 
 
 
 ##### § 9 Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001200000)
 
 (1) Nutzer im Sinne dieses Gesetzes sind natürliche oder juristische
 Personen des privaten und des öffentlichen Rechts in nachstehender
@@ -580,6 +595,7 @@ erfolgte.
 
 
 ##### § 10 Billigung staatlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001300000)
 
 (1) Billigung staatlicher Stellen ist jede Handlung, insbesondere von
 Verwaltungsstellen, Vorständen landwirtschaftlicher
@@ -599,6 +615,7 @@ eine behördliche Verfügung zum Abriß nicht ergangen ist.
 
 
 ##### § 11 Komplexer Wohnungsbau oder Siedlungsbau
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001400000)
 
 (1) Komplexer Wohnungsbau im Sinne dieses Gesetzes sind Wohngebiete
 für den staatlichen oder genossenschaftlichen Wohnungsbau, die
@@ -622,6 +639,7 @@ und neu bebaut worden sind.
 
 
 ##### § 12 Bebauung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001501377)
 
 (1) Bebauungen im Sinne dieses Kapitels sind die Errichtung von
 Gebäuden sowie bauliche Maßnahmen an bestehenden Gebäuden, wenn
@@ -711,6 +729,7 @@ nicht Gebäude sind, wenn
 
 
 ##### § 13 Abtrennbare, selbständig nutzbare Teilfläche
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001600000)
 
 (1) Eine Teilfläche ist abtrennbar, wenn sie nach Vermessung vom
 Stammgrundstück abgeschrieben werden kann.
@@ -727,10 +746,12 @@ wenn eine Teilungsgenehmigung nach § 120 erteilt worden ist.
 
 
 #### Unterabschnitt 4 - Erbbaurecht und Ankauf
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000700000)
 
 
 
 ##### § 14 Berechtigte und Verpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001700000)
 
 (1) Durch die in diesem Kapitel begründeten Ansprüche werden der
 jeweilige Nutzer und Grundstückseigentümer berechtigt und
@@ -771,6 +792,7 @@ wenn
 
 
 ##### § 15 Verhältnis der Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001800000)
 
 (1) Der Nutzer kann wählen, ob er die Bestellung eines Erbbaurechts
 verlangen oder das Grundstück ankaufen will.
@@ -800,6 +822,7 @@ die in Absatz 1 bezeichneten Ansprüche des Nutzers ausgeschlossen.
 
 
 ##### § 16 Ausübung des Wahlrechts
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE001900000)
 
 (1) Die Wahl erfolgt durch schriftliche Erklärung gegenüber dem
 anderen Teil. Mit der Erklärung erlischt das Wahlrecht.
@@ -816,6 +839,7 @@ nicht der Nutzer rechtzeitig die Wahl vornimmt.
 
 
 ##### § 17 Pfleger für Grundstückseigentümer und Inhaber dinglicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002002125)
 
 (1) Zur Verfolgung der Ansprüche des Nutzers ist auf dessen Antrag für
 den Grundstückseigentümer oder den Inhaber eines eingetragenen
@@ -885,6 +909,7 @@ Betreuungsgerichts das Familiengericht.
 
 
 ##### § 18 Aufgebotsverfahren gegen den Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002101140)
 
 (1) Liegen die in § 17 Abs. 1 Nr. 1, 2 oder 3 (erste Alternative)
 bezeichneten Umstände in der Person des Nutzers vor, ist der
@@ -912,10 +937,12 @@ Gesetzbuchs eine Vergütung in Geld für den Rechtsverlust verlangen.
 
 
 #### Unterabschnitt 5 - Bodenwertermittlung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000800000)
 
 
 
 ##### § 19 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002200000)
 
 (1) Erbbauzins und Ankaufspreis sind nach dem Bodenwert in dem
 Zeitpunkt zu bestimmen, in dem ein Angebot zum Vertragsschluß nach
@@ -987,6 +1014,7 @@ abweichende Bestimmung verlangen, wenn
 
 
 ##### § 20 Bodenwertermittlung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002300000)
 
 (1) Bei der Bemessung des Bodenwerts eines Grundstücks, das vor dem
 Ablauf des 2. Oktober 1990 im staatlichen oder genossenschaftlichen
@@ -1055,10 +1083,12 @@ Baugesetzbuchs unberührt.
 
 
 #### Unterabschnitt 6 - Erfaßte Flächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG000900000)
 
 
 
 ##### § 21 Vermessene Flächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002400000)
 
 Die Ansprüche auf Bestellung eines Erbbaurechts oder den Ankauf
 erstrecken sich auf das Grundstück insgesamt, wenn dessen Grenzen im
@@ -1069,6 +1099,7 @@ bis 27 anzuwenden.
 
 
 ##### § 22 Genossenschaftlich genutzte Flächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002500000)
 
 (1) Soweit ein Nutzungsrecht für den Eigenheimbau zugewiesen worden
 ist oder ein Eigenheim von oder mit Billigung der landwirtschaftlichen
@@ -1108,6 +1139,7 @@ des Gebäudes im Betrieb des Nutzers notwendig sind.
 
 
 ##### § 23 Unvermessene volkseigene Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002600000)
 
 Soweit Nutzungsrechte auf unvermessenen, vormals volkseigenen
 Grundstücken verliehen wurden, sind die Grenzen in folgender
@@ -1128,6 +1160,7 @@ Reihenfolge zu bestimmen nach
 
 
 ##### § 24 Wohn-, Gewerbe- und Industriebauten ohne Klärung der Eigentumsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002700000)
 
 (1) Soweit im komplexen Wohnungsbau oder Siedlungsbau oder durch
 gewerbliche (einschließlich industrielle) Vorhaben Bebauungen ohne
@@ -1163,6 +1196,7 @@ oder Bodenneuordnung bleibt unberührt.
 
 
 ##### § 25 Andere Flächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002800000)
 
 Ergibt sich der Umfang der Flächen, auf die sich die Ansprüche des
 Nutzers erstrecken, nicht aus den vorstehenden Bestimmungen, so ist
@@ -1171,6 +1205,7 @@ Gesetzbuche entsprechend anzuwenden.
 
 
 ##### § 26 Übergroße Flächen für den Eigenheimbau
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE002900000)
 
 (1) Ist dem Nutzer ein Nutzungsrecht verliehen oder zugewiesen worden,
 das die für den Eigenheimbau vorgesehene Regelgröße von 500
@@ -1241,6 +1276,7 @@ Befugnis des Nutzers auf einem Vertrag beruht.
 
 
 ##### § 27 Restflächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003000000)
 
 (1) Die Ansprüche nach den §§ 32 und 61 erfassen auch Restflächen.
 Restflächen sind Grundstücksteile, auf die sich der Anspruch des
@@ -1280,10 +1316,12 @@ besonderen Regelungen.
 
 
 #### Unterabschnitt 7 - Einwendungen und Einreden
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001000000)
 
 
 
 ##### § 28 Anderweitige Verfahren und Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003100000)
 
 Die Beteiligten können Ansprüche nach diesem Kapitel nicht verfolgen,
 wenn
@@ -1307,6 +1345,7 @@ und Neuordnung der Eigentumsverhältnisse beendet worden ist.
 
 
 ##### § 29 Nicht mehr nutzbare Gebäude und nicht ausgeübte Nutzungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003201307)
 
 (1) Der Grundstückseigentümer kann die Bestellung des Erbbaurechts
 oder den Verkauf des Grundstücks an den Nutzer verweigern, wenn das
@@ -1394,6 +1433,7 @@ vorzunehmen.
 
 
 ##### § 30 Unredlicher Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003300000)
 
 (1) Der Grundstückseigentümer kann die Bestellung eines Erbbaurechts
 oder den Verkauf verweigern, wenn der Nutzer bei der Bestellung des
@@ -1420,6 +1460,7 @@ Bodenwert zu bestimmen. § 51 ist nicht anzuwenden.
 
 
 ##### § 31 Geringe Restnutzungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003402377)
 
 (1) Der Grundstückseigentümer kann den Abschluß eines
 Erbbaurechtsvertrages oder eines Grundstückskaufvertrages verweigern,
@@ -1471,14 +1512,17 @@ Grundstückseigentümers gegen den Nutzer nach § 82.
 
 
 ### Abschnitt 2 - Bestellung von Erbbaurechten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001100000)
 
 
 
 #### Unterabschnitt 1 - Gesetzliche Ansprüche auf Erbbaurechtsbestellung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001200000)
 
 
 
 ##### § 32 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003500000)
 
 Der Nutzer kann vom Grundstückseigentümer die Annahme eines Angebots
 auf Bestellung eines Erbbaurechts verlangen, wenn der Inhalt des
@@ -1489,10 +1533,12 @@ Grundstückseigentümer übergegangen ist.
 
 
 #### Unterabschnitt 2 - Gesetzliche Ansprüche wegen dinglicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001300000)
 
 
 
 ##### § 33 Verpflichtung zum Rangrücktritt
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003600000)
 
 Die Inhaber dinglicher Rechte am Grundstück sind nach Maßgabe der
 nachfolgenden Bestimmungen auf Verlangen des Nutzers verpflichtet, im
@@ -1500,6 +1546,7 @@ Rang hinter das Erbbaurecht zurückzutreten.
 
 
 ##### § 34 Regelungen bei bestehendem Gebäudeeigentum
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003700000)
 
 (1) Soweit selbständiges Gebäudeeigentum besteht, können die Inhaber
 dinglicher Rechte am Grundstück eine Belastung des Erbbaurechts nicht
@@ -1519,6 +1566,7 @@ anzuwenden.
 
 
 ##### § 35 Dienstbarkeit, Nießbrauch, Wohnungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003801377)
 
 Soweit selbständiges Gebäudeeigentum nicht besteht, können die Inhaber
 solcher dinglichen Rechte, die einen Anspruch auf Zahlung oder
@@ -1532,6 +1580,7 @@ am Grundstück betreiben.
 
 
 ##### § 36 Hypothek, Grundschuld, Rentenschuld, Reallast
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE003900000)
 
 (1) Soweit selbständiges Gebäudeeigentum nicht besteht, können die
 Inhaber solcher dinglichen Rechte, die Ansprüche auf Zahlung oder
@@ -1570,6 +1619,7 @@ Gläubigers zum nächstmöglichen Kündigungstermin abzulösen.
 
 
 ##### § 37 Anspruch auf Befreiung von dinglicher Haftung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004000000)
 
 Der Nutzer kann vom Grundstückseigentümer Befreiung von einer
 dinglichen Haftung verlangen, die er nach § 36 Abs. 1 zu übernehmen
@@ -1579,10 +1629,12 @@ Befreiung auf Verlangen Sicherheit zu leisten.
 
 
 #### Unterabschnitt 3 - Überlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001400000)
 
 
 
 ##### § 38 Bestellung eines Erbbaurechts für einen Überlassungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004102308)
 
 (1) Ist dem Nutzer das Grundstück aufgrund eines Überlassungsvertrages
 übergeben worden, so kann der Grundstückseigentümer vom Nutzer
@@ -1618,10 +1670,12 @@ verlangen.
 
 
 #### Unterabschnitt 4 - Besondere Gestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001500000)
 
 
 
 ##### § 39 Mehrere Erbbaurechte auf einem Grundstück, Gesamterbbaurechte, Nachbarerbbaurechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004200000)
 
 (1) An einem Grundstück können mehrere Erbbaurechte bestellt werden,
 wenn jedes von ihnen nach seinem Inhalt nur an einer jeweils anderen
@@ -1678,6 +1732,7 @@ Grundstücks als Bestandteil einzutragen.
 
 
 ##### § 40 Wohnungserbbaurecht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004300000)
 
 (1) Der Anspruch ist auf die Erbbaurechtsbestellung und Begründung von
 Erbbaurechten nach § 30 des Wohnungseigentumsgesetzes zu richten, wenn
@@ -1724,6 +1779,7 @@ Wohnungserbbaurechte nach dem Verhältnis ihrer Anteile zu tragen.
 
 
 ##### § 41 Bestimmung des Bauwerks
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004400000)
 
 Ein Erbbaurechtsvertrag nach diesem Kapitel kann mit dem Inhalt
 abgeschlossen werden, daß der Erbbauberechtigte jede baurechtlich
@@ -1731,10 +1787,12 @@ zulässige Zahl und Art von Gebäuden oder Bauwerken errichten darf.
 
 
 #### Unterabschnitt 5 - Gesetzlicher und vertragsmäßiger Inhalt des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001600000)
 
 
 
 ##### § 42 Bestimmungen zum Inhalt des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004500000)
 
 (1) Zum Inhalt eines nach diesem Kapitel begründeten Erbbaurechts
 gehören die Vereinbarungen im Erbbaurechtsvertrag über
@@ -1776,10 +1834,12 @@ als Inhalt des Erbbaurechts bestimmt werden.
 
 
 #### Unterabschnitt 6 - Bestimmungen zum Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001700000)
 
 
 
 ##### § 43 Regelmäßiger Zins
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004600000)
 
 (1) Der regelmäßige Zins beträgt die Hälfte des für die entsprechende
 Nutzung üblichen Zinses.
@@ -1820,6 +1880,7 @@ sieben vom Hundert jährlich beträgt.
 
 
 ##### § 44 Fälligkeit des Anspruchs auf den Erbbauzins
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004700000)
 
 (1) Der Erbbauzins ist vierteljährlich nachträglich am 31. März, 30.
 Juni, 30. September und 31. Dezember eines Jahres zu zahlen.
@@ -1846,6 +1907,7 @@ Erbbauzinses zu zahlen.
 
 
 ##### § 45 Verzinsung bei Überlassungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004800000)
 
 (1) Ist dem Nutzer aufgrund eines mit dem staatlichen Verwalter
 geschlossenen Vertrages ein Grundstück mit aufstehendem Gebäude
@@ -1867,6 +1929,7 @@ hat.
 
 
 ##### § 46 Zinsanpassung an veränderte Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE004902377)
 
 (1) Nutzer und Grundstückseigentümer sind verpflichtet, in den
 Erbbaurechtsvertrag eine Bestimmung aufzunehmen, die eine Anpassung
@@ -1908,6 +1971,7 @@ zwischen dem Grundstückseigentümer und dem Nutzer vereinbart wird.
 
 
 ##### § 47 Zinsanpassung an Nutzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005000000)
 
 (1) Nutzungsänderungen, zu denen der Erbbauberechtigte nach § 54 Abs.
 2 und 3 berechtigt ist, rechtfertigen keine Anpassung des
@@ -1962,6 +2026,7 @@ Nutzer das Geschäft seines Rechtsvorgängers fortführt.
 
 
 ##### § 48 Zinserhöhung nach Veräußerung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005100000)
 
 (1) Der Grundstückseigentümer kann verlangen, daß in den
 Erbbaurechtsvertrag eine Bestimmung aufgenommen wird, in der sich der
@@ -2010,6 +2075,7 @@ Nutzungsänderungen übernimmt.
 
 
 ##### § 49 Zustimmungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005201377)
 
 Der Grundstückseigentümer kann verlangen, daß die Veräußerung nach § 5
 Abs. 1 des Erbbaurechtsgesetzes seiner Zustimmung bedarf. Der
@@ -2018,6 +2084,7 @@ Grundstückseigentümer hat diese zu erteilen, wenn die in § 47 Abs. 1,
 
 
 ##### § 50 Zinsanpassung wegen abweichender Grundstücksgröße
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005300000)
 
 Jeder Beteiligte kann verlangen, daß sich der andere Teil zu einer
 Zinsanpassung verpflichtet, wenn sich nach dem Ergebnis einer noch
@@ -2027,6 +2094,7 @@ geringfügig abweicht. § 72 Abs. 2 und 3 ist entsprechend anzuwenden.
 
 
 ##### § 51 Eingangsphase
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005400000)
 
 (1) Der Erbbauberechtigte kann vom Grundstückseigentümer eine
 Ermäßigung des Erbbauzinses in den ersten Jahren verlangen
@@ -2075,6 +2143,7 @@ zahlenden Betrag verlangen.
 
 
 ##### § 52 Sicherung des Erbbauzinses
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005503140)
 
 (1) Der Grundstückseigentümer kann die Absicherung des regelmäßigen
 Erbbauzinses durch Eintragung einer Reallast an rangbereiter Stelle
@@ -2092,6 +2161,7 @@ wird.
 
 
 ##### § 53 Dauer des Erbbaurechts
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005600000)
 
 (1) Die regelmäßige Dauer des Erbbaurechts ist entsprechend der nach
 dem Inhalt des Nutzungsrechts zulässigen Bebauung zu bestimmen. Ist
@@ -2142,6 +2212,7 @@ anzuwenden.
 
 
 ##### § 54 Vertraglich zulässige bauliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005700000)
 
 (1) Die vertraglich zulässige bauliche Nutzung ist nach dem Inhalt des
 Nutzungsrechts oder, falls ein solches Recht nicht bestellt wurde,
@@ -2177,6 +2248,7 @@ aufzunehmen.
 
 
 ##### § 55 Nutzungsbefugnis des Erbbauberechtigten, Grundstücksteilung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005800000)
 
 (1) Die Befugnis des Erbbauberechtigten, über die Grundfläche des
 Gebäudes hinausgehende Teile des Grundstücks zu nutzen, ist nach den
@@ -2192,6 +2264,7 @@ durchgeführt werden kann. Die Kosten der Vermessung sind zu teilen.
 
 
 ##### § 56 Errichtung und Unterhaltung des Gebäudes, Heimfall
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE005900000)
 
 (1) Der Grundstückseigentümer, der mit der Ausgabe von Erbbaurechten
 besondere öffentliche, soziale oder vergleichbare Zwecke in bezug auf
@@ -2238,6 +2311,7 @@ deckenden Versicherung verpflichtet.
 
 
 ##### § 57 Ankaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006000000)
 
 (1) Der Nutzer kann verlangen, daß in den Erbbaurechtsvertrag eine
 Verpflichtung des Grundstückseigentümers aufgenommen wird, das
@@ -2257,6 +2331,7 @@ ist § 71 entsprechend anzuwenden.
 
 
 ##### § 58 Öffentliche Lasten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006100000)
 
 Der Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte
 vom Tage der Bestellung des Erbbaurechts an die auf dem Grundstück
@@ -2268,10 +2343,12 @@ Erbbaurechts unberührt.
 
 
 #### Unterabschnitt 7 - Folgen der Erbbaurechtsbestellung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001800000)
 
 
 
 ##### § 59 Erlöschen des Gebäudeeigentums und des Nutzungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006200000)
 
 (1) Das Gebäude wird Bestandteil des Erbbaurechts. Das selbständige
 Gebäudeeigentum erlischt mit dessen Entstehung.
@@ -2282,6 +2359,7 @@ oder gesetzliche Besitzrechte des Nutzers.
 
 
 ##### § 60 Anwendbarkeit des Erbbaurechtsgesetzes, Kosten und Gewährleistung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006301377)
 
 (1) Auf die nach den Bestimmungen dieses Kapitels bestellten
 Erbbaurechte findet, soweit nicht Abweichendes gesetzlich angeordnet
@@ -2295,14 +2373,17 @@ Grundstücks.
 
 
 ### Abschnitt 3 - Gesetzliches Ankaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG001900000)
 
 
 
 #### Unterabschnitt 1 - Gesetzliche Ansprüche auf Vertragsschluß
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002000000)
 
 
 
 ##### § 61 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006400000)
 
 (1) Der Nutzer kann vom Grundstückseigentümer die Annahme eines
 Angebots für einen Grundstückskaufvertrag verlangen, wenn der Inhalt
@@ -2326,10 +2407,12 @@ Grundstücks verlangen, wenn
 
 
 #### Unterabschnitt 2 - Gesetzliche Ansprüche wegen dinglicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002100000)
 
 
 
 ##### § 62 Dienstbarkeit, Nießbrauch, Wohnungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006500000)
 
 (1) Dingliche Rechte am Grundstück, die einen Anspruch auf Zahlung
 oder Befriedigung aus dem Grundstück nicht gewähren, erlöschen auf den
@@ -2345,6 +2428,7 @@ Grundstücks ist § 63 Abs. 1 entsprechend anzuwenden.
 
 
 ##### § 63 Hypothek, Grundschuld, Rentenschuld, Reallast
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006600000)
 
 (1) Der Nutzer kann von den Inhabern dinglicher Rechte, die einen
 Anspruch auf Zahlung oder Befriedigung aus dem Grundstück gewähren,
@@ -2380,6 +2464,7 @@ entsprechende Anwendung.
 
 
 ##### § 64 Ansprüche gegen den Grundstückseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006700000)
 
 (1) Der Grundstückseigentümer ist vorbehaltlich der nachfolgenden
 Bestimmungen verpflichtet, dem Nutzer das Grundstück frei von Rechten
@@ -2429,10 +2514,12 @@ Rechts kann vom Nutzer die Hinterlegung des Kaufpreises verlangen.
 
 
 #### Unterabschnitt 3 - Bestimmungen zum Inhalt des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002200000)
 
 
 
 ##### § 65 Kaufgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006800000)
 
 (1) Kaufgegenstand ist das mit dem Nutzungsrecht belastete oder
 bebaute Grundstück oder eine abzuschreibende Teilfläche.
@@ -2445,6 +2532,7 @@ Räumen eines Gebäudes zu bestimmen.
 
 
 ##### § 66 Teilflächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE006900000)
 
 (1) Die Bestimmung abzuschreibender Teilflächen ist nach den §§ 22 bis
 27 vorzunehmen. Die Grenzen dieser Flächen sind in dem Vertrag zu
@@ -2475,6 +2563,7 @@ Vertragsparteien einen außerordentlichen Aufwand verursachen würden. §
 
 
 ##### § 67 Begründung von Wohnungs- oder Teileigentum
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007000000)
 
 (1) In den Fällen des § 66 Abs. 2 kann jeder Beteiligte verlangen, daß
 anstelle einer Grundstücksteilung und Veräußerung einer Teilfläche
@@ -2520,6 +2609,7 @@ entsprechend anzuwenden.
 
 
 ##### § 68 Regelmäßiger Preis
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007100000)
 
 (1) Der Kaufpreis beträgt die Hälfte des Bodenwerts, soweit nicht im
 folgenden etwas anderes bestimmt ist.
@@ -2542,6 +2632,7 @@ erheblich verzögert.
 
 
 ##### § 69 Preisanhebung bei kurzer Restnutzungsdauer des Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007200000)
 
 (1) Der nach § 68 zu bestimmende Kaufpreis ist auf Verlangen des
 Grundstückseigentümers wegen kurzer Restnutzungsdauer des Gebäudes zu
@@ -2572,6 +2663,7 @@ Nutzers vom Bodenwert.
 
 
 ##### § 70 Preisbemessung nach dem ungeteilten Bodenwert
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007300000)
 
 (1) Der Kaufpreis ist nach dem ungeteilten Bodenwert zu bemessen, wenn
 die Nutzung des Grundstücks geändert wird. Eine Nutzungsänderung im
@@ -2623,6 +2715,7 @@ fortführt.
 
 
 ##### § 71 Nachzahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007400000)
 
 (1) Der Grundstückseigentümer kann im Falle des Verkaufs zum
 regelmäßigen Preis (§ 68) verlangen, daß sich der Nutzer ihm gegenüber
@@ -2664,6 +2757,7 @@ gleich.
 
 
 ##### § 72 Ausgleich wegen abweichender Grundstücksgröße
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007501377)
 
 (1) Jeder Beteiligte kann verlangen, daß sich der andere Teil ihm
 gegenüber verpflichtet, eine Ausgleichszahlung zu leisten, wenn der
@@ -2694,6 +2788,7 @@ Vermessung.
 
 
 ##### § 73 Preisbemessung im Wohnungsbau
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007601377)
 
 (1) Für die im staatlichen oder genossenschaftlichen Wohnungsbau
 verwendeten Grundstücke ist der Kaufpreis unter Zugrundelegung des
@@ -2776,6 +2871,7 @@ beanspruchen.
 
 
 ##### § 74 Preisbemessung bei Überlassungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007700000)
 
 (1) Der Grundstückseigentümer kann eine Anhebung des Kaufpreises durch
 Anrechnung des Restwerts des überlassenen Gebäudes und der
@@ -2810,10 +2906,12 @@ dem Verwalter anzuzeigen.
 
 
 #### Unterabschnitt 4 - Folgen des Ankaufs
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002300000)
 
 
 
 ##### § 75 Gefahr, Lasten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007800000)
 
 (1) Der Nutzer trägt die Gefahr für ein von ihm errichtetes Gebäude.
 Er hat vom Kaufvertragsschluß an die auf dem Grundstück ruhenden
@@ -2826,17 +2924,20 @@ bestehen nicht.
 
 
 ##### § 76 Gewährleistung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE007900000)
 
 Der Verkäufer haftet nicht für Sachmängel des Grundstücks.
 
 
 ##### § 77 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008000000)
 
 Die Kosten des Vertrages und seiner Durchführung sind zwischen den
 Vertragsparteien zu teilen.
 
 
 ##### § 78 Rechtsfolgen des Erwerbs des Grundstückseigentums durch den Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008100000)
 
 (1) Vereinigen sich Grundstücks- und Gebäudeeigentum in einer Person,
 so ist eine Veräußerung oder Belastung allein des Gebäudes oder des
@@ -2882,10 +2983,12 @@ Erwerber aus einer Nutzungsänderung.
 
 
 #### Unterabschnitt 5 - Leistungsstörungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002400000)
 
 
 
 ##### § 79 Durchsetzung des Erfüllungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008200000)
 
 (1) Der Grundstückseigentümer kann wegen seiner Ansprüche aus dem
 Kaufvertrag die Zwangsversteigerung des Gebäudes oder der baulichen
@@ -2924,6 +3027,7 @@ des Grundstückseigentümers verbleibenden Resterlöses.
 
 
 ##### § 80 Ansprüche wegen Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008301377)
 
 Dem Grundstückseigentümer stehen nach fruchtlosem Ablauf einer zur
 Leistung gesetzten Frist statt der in den §§ 281 und 323 des
@@ -2949,10 +3053,12 @@ des Grundstückseigentümers ein Erbbaurechtsvertrag geschlossen wird.
 
 
 #### Unterabschnitt 6 - Besondere Bestimmungen für den Hinzuerwerb des Gebäudes durch den Grundstückseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002500000)
 
 
 
 ##### § 81 Voraussetzungen, Kaufgegenstand, Preisbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008400000)
 
 (1) Der Grundstückseigentümer ist berechtigt, ein vom Nutzer
 errichtetes oder erworbenes Wirtschaftsgebäude oder dessen bauliche
@@ -3032,6 +3138,7 @@ ist § 78 entsprechend anzuwenden.
 
 
 ##### § 82 Übernahmeverlangen des Grundstückseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008502377)
 
 (1) Ist das vom Nutzer errichtete oder erworbene Gebäude oder die
 bauliche Anlage nicht mehr nutzbar und beruht die Erforderlichkeit
@@ -3092,6 +3199,7 @@ Vermögensgesetzes zu erlassenden Gesetz.
 
 
 ##### § 83 Ende des Besitzrechts, Härteklausel
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008601377)
 
 (1) Der Nutzer gilt gegenüber dem Grundstückseigentümer bis zum Ablauf
 eines Jahres nach dem Abschluß des Kaufvertrages als zum Besitz
@@ -3106,6 +3214,7 @@ durch den Grundstückseigentümer zu verlangen.
 
 
 ##### § 84 Rechte des Nutzers bei Zahlungsverzug
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008701377)
 
 (1) Der Nutzer darf wegen seiner Ansprüche aus dem Kaufvertrag die
 Zwangsversteigerung in das Grundstück nur unter gleichzeitiger
@@ -3133,14 +3242,17 @@ Ansprüche zu.
 
 
 ### Abschnitt 4 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002600000)
 
 
 
 #### Unterabschnitt 1 - Feststellung von Nutzungs- und Grundstücksgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002700000)
 
 
 
 ##### § 85 Unvermessene Flächen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008800000)
 
 (1) Sind die Grenzen der Flächen, auf die sich das Nutzungsrecht
 erstreckt, nicht im Liegenschaftskataster nachgewiesen (unvermessene
@@ -3156,6 +3268,7 @@ Nutzungsrechtsgrenzen und des Grundstücks sind zulässig.
 
 
 ##### § 86 Bodenordnungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE008900000)
 
 Die Neuregelung der Grundstücksgrenzen in Verfahren zur
 Flurbereinigung nach dem Flurbereinigungsgesetz, zur Feststellung und
@@ -3166,10 +3279,12 @@ des Bodensonderungsgesetzes bleibt unberührt.
 
 
 #### Unterabschnitt 2 - Notarielles Vermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002800000)
 
 
 
 ##### § 87 Antragsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009000000)
 
 (1) Auf Antrag ist der Abschluß von Verträgen zur Bestellung von
 Erbbaurechten oder zum Kauf des Grundstücks oder des Gebäudes oder,
@@ -3183,6 +3298,7 @@ machen kann.
 
 
 ##### § 88 Sachliche und örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009100000)
 
 (1) Für die Vermittlung ist jeder Notar zuständig, dessen Amtsbezirk
 sich in dem Land befindet, in dem das zu belastende oder zu
@@ -3201,6 +3317,7 @@ der Geschäftsstelle.
 
 
 ##### § 89 Verfahrensart
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009201140)
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind auf das
 notarielle Vermittlungsverfahren die Vorschriften des Buchs 4 des
@@ -3214,6 +3331,7 @@ oder zum größten Teil belegen ist.
 
 
 ##### § 90 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009300000)
 
 (1) In dem Antrag sind anzugeben
 
@@ -3305,6 +3423,7 @@ Antrag vervollständigt hat.
 
 
 ##### § 91 Akteneinsicht und Anforderung von Abschriften durch den Notar
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009401377)
 
 Der Notar ist berechtigt, die Akten der betroffenen Grundstücke und
 Gebäude bei allen Gerichten und Behörden einzusehen und Abschriften
@@ -3319,6 +3438,7 @@ Auskünfte und Abschriften werden keine Gebühren erhoben.
 
 
 ##### § 92 Ladung zum Termin
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009500000)
 
 (1) Der Notar hat den Nutzer und den Grundstückseigentümer unter
 Mitteilung des Antrages für den anderen Teil zu einem
@@ -3381,6 +3501,7 @@ des notariellen Vermittlungsverfahrens zu vermerken.
 
 
 ##### § 93 Erörterung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009600000)
 
 (1) Der Notar erörtert mit den Beteiligten den Sachverhalt in
 tatsächlicher und rechtlicher Hinsicht. Er hat vor einer Verhandlung
@@ -3432,6 +3553,7 @@ der gestellten Anträge erheben.
 
 
 ##### § 94 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009700000)
 
 (1) Der Notar hat die Vermittlung auszusetzen, wenn
 
@@ -3477,6 +3599,7 @@ Gebühren anzurechnen.
 
 
 ##### § 95 Einstellung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009800000)
 
 (1) Der Notar hat die Vermittlung einzustellen, wenn
 
@@ -3499,6 +3622,7 @@ Absatz 1 zu verfahren.
 
 
 ##### § 96 Verfahren bei Säumnis eines Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE009901140)
 
 (1) Erscheint ein Beteiligter (Grundstückseigentümer oder Nutzer)
 nicht, hat der Notar auf Antrag des anderen Beteiligten einen
@@ -3548,6 +3672,7 @@ Gerichtsbarkeit ist entsprechend anzuwenden.
 
 
 ##### § 97 Ermittlungen des Notars
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010001377)
 
 (1) Der Notar kann auf Antrag eines Beteiligten Ermittlungen
 durchführen. Er kann insbesondere
@@ -3599,6 +3724,7 @@ Vergütung in entsprechender Anwendung des Justizvergütungs- und
 
 
 ##### § 98 Vermittlungsvorschlag des Notars
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010100000)
 
 (1) Nach Durchführung der Erhebungen macht der Notar einen Vorschlag
 in Form eines Vertragsentwurfs, der den gesetzlichen Bestimmungen zu
@@ -3618,6 +3744,7 @@ keine Entscheidung ergangen ist.
 
 
 ##### § 99 Abschlußprotokoll über Streitpunkte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010200000)
 
 Kommt es nicht zu einer Einigung, so hält der Notar das Ergebnis des
 Verfahrens unter Protokollierung der unstreitigen und der streitig
@@ -3629,6 +3756,7 @@ Rechtsstreit bindend.
 
 
 ##### § 100 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010301301)
 
 (1) Für das notarielle Vermittlungsverfahren erhält der Notar eine
 Gebühr mit einem Gebührensatz von 4,0 nach der Tabelle B des § 34
@@ -3666,6 +3794,7 @@ Vorschriften mithaftet.
 
 
 ##### § 101 Kostenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010400000)
 
 (1) Für die Kosten des Vermittlungsverfahrens haften
 Grundstückseigentümer und Nutzer als Gesamtschuldner. Sie haben die
@@ -3691,6 +3820,7 @@ Einstellung nach § 95 entstandenen Kosten sind
 
 
 ##### § 102 Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010501140)
 
 (1) Für das notarielle Vermittlungsverfahren finden die §§ 76, 77 und
 78 Abs. 4 und 5 des Gesetzes über das Verfahren in Familiensachen und
@@ -3710,10 +3840,12 @@ oder des Ankaufsrechts zu entscheiden hat.
 
 
 #### Unterabschnitt 3 - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG002900000)
 
 
 
 ##### § 103 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010600000)
 
 (1) Die gerichtlichen Verfahren, die die Bestellung von Erbbaurechten
 oder den Ankauf des Grundstücks oder des Gebäudes oder der baulichen
@@ -3726,6 +3858,7 @@ Sachenrechtsbereinigung gebildet werden.
 
 
 ##### § 104 Verfahrensvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010700000)
 
 Der Kläger hat für eine Klage auf Feststellung über den Inhalt eines
 Erbbaurechts oder eines Ankaufsrechts nach Maßgabe der §§ 32, 61, 81
@@ -3738,6 +3871,7 @@ Beschluß ergehen.
 
 
 ##### § 105 Inhalt der Klageschrift
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010800000)
 
 In der Klageschrift hat sich der Kläger auf den notariellen
 Vermittlungsvorschlag zu beziehen und darzulegen, ob und in welchen
@@ -3745,6 +3879,7 @@ Punkten er eine hiervon abweichende Feststellung begehrt.
 
 
 ##### § 106 Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE010900000)
 
 (1) Das Gericht kann bei einer Entscheidung über eine Klage nach § 104
 im Urteil auch vom Klageantrag abweichende Rechte und Pflichten der
@@ -3782,6 +3917,7 @@ den Inhalt der Entscheidung mit. Der Notar hat entsprechend § 98 Abs.
 
 
 ##### § 107 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011000000)
 
 Über die Kosten entscheidet das Gericht unter Berücksichtigung des
 Sach- und Streitstands nach billigem Ermessen. Es kann hierbei
@@ -3792,6 +3928,7 @@ Veranlassung gegeben hat.
 
 
 ##### § 108 Feststellung der Anspruchsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011100000)
 
 (1) Nutzer und Grundstückseigentümer können Klage auf Feststellung des
 Bestehens oder Nichtbestehens der Anspruchsberechtigung nach diesem
@@ -3812,10 +3949,12 @@ Streit verkünden.
 
 
 #### Abschnitt 5 - Nutzungstausch
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003000000)
 
 
 
 ##### § 109 Tauschvertrag über Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011200000)
 
 (1) Jeder Grundstückseigentümer, dessen Grundstück von einem nach § 20
 des LPG-Gesetzes vom 2. Juli 1982 sowie nach § 12 des LPG-Gesetzes vom
@@ -3846,10 +3985,12 @@ Ankauf in den §§ 65 bis 74 entsprechende Anwendung.
 
 
 #### Abschnitt 6 - Nutzungsrechte für ausländische Staaten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003100000)
 
 
 
 ##### § 110 Vorrang völkerrechtlicher Abreden
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011300000)
 
 Die von der Deutschen Demokratischen Republik an andere Staaten
 verliehenen Nutzungsrechte sind nach den Regelungen in diesem Kapitel
@@ -3858,10 +3999,12 @@ entgegenstehen. Artikel 12 des Einigungsvertrages bleibt unberührt.
 
 
 #### Abschnitt 7 - Rechtsfolgen nach Wiederherstellung des öffentlichen Glaubens des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003200000)
 
 
 
 ##### § 111 Gutgläubiger lastenfreier Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011402308)
 
 (1) Ansprüche nach Maßgabe dieses Kapitels können gegenüber
 demjenigen, der durch ein nach Ablauf des 31. Dezember 2000
@@ -3910,10 +4053,12 @@ entsprechend anzuwenden.
 
 
 ## Kapitel 3 - Alte Erbbaurechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003300000)
 
 
 
 ### § 112 Umwandlung alter Erbbaurechte
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011601377)
 
 (1) War das Grundstück am 1. Januar 1976 mit einem Erbbaurecht
 belastet, so endet das Erbbaurecht zu dem im Erbbaurechtsvertrag
@@ -3967,10 +4112,12 @@ Gesetzes an nicht mehr anzuwenden.
 
 
 ## Kapitel 4 - Rechte aus Miteigentum nach § 459 des Zivilgesetzbuchs der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003400000)
 
 
 
 ### § 113 Berichtigungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011802308)
 
 (1) Haben vormals volkseigene Betriebe, staatliche Organe und
 Einrichtungen oder Genossenschaften auf vertraglich genutzten, vormals
@@ -4022,6 +4169,7 @@ Der Vermerk hat die Wirkung eines Widerspruchs.
 
 
 ### § 114 Aufgebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE011901140)
 
 (1) Der Eigentümer eines nach § 459 des Zivilgesetzbuchs der Deutschen
 Demokratischen Republik entstandenen Miteigentumsanteils kann von den
@@ -4048,6 +4196,7 @@ Gesetzbuchs Ausgleich für den Eigentumsverlust verlangen.
 
 
 ### § 115 Ankaufsrecht bei Auflösung der Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012000000)
 
 Das Rechtsverhältnis der Miteigentümer bestimmt sich nach den
 Vorschriften über das Miteigentum und über die Gemeinschaft im
@@ -4059,10 +4208,12 @@ besteht.
 
 
 ## Kapitel 5 - Ansprüche auf Bestellung von Dienstbarkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003500000)
 
 
 
 ### § 116 Bestellung einer Dienstbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012203140)
 
 (1) Derjenige, der ein Grundstück in einzelnen Beziehungen nutzt oder
 auf diesem Grundstück eine Anlage unterhält (Mitbenutzer), kann von
@@ -4089,6 +4240,7 @@ Vermerks über die Klageerhebung erfolgt entsprechend § 113 Abs. 3.
 
 
 ### § 117 Einwendungen des Grundstückseigentümers
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012300000)
 
 (1) Der Grundstückseigentümer kann die Bestellung einer Dienstbarkeit
 verweigern, wenn
@@ -4121,6 +4273,7 @@ Parteien.
 
 
 ### § 118 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012400000)
 
 (1) Der Eigentümer des belasteten Grundstücks kann die Zustimmung zur
 Bestellung einer Dienstbarkeit von der Zahlung eines einmaligen oder
@@ -4156,6 +4309,7 @@ wenn
 
 
 ### § 119 Fortbestehende Rechte, andere Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012500000)
 
 Die Vorschriften dieses Kapitels finden keine Anwendung, wenn die
 Mitbenutzung des Grundstücks
@@ -4172,14 +4326,17 @@ gestattet ist.
 
 
 ## Kapitel 6 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003600000)
 
 
 
 ### Abschnitt 1 - Behördliche Prüfung der Teilung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003700000)
 
 
 
 #### § 120 Genehmigungen nach dem Baugesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012700000)
 
 (1) Die Teilung eines Grundstücks nach diesem Gesetz bedarf der
 Teilungsgenehmigung nach den Vorschriften des Baugesetzbuchs. Dabei
@@ -4238,10 +4395,12 @@ Abs. 1 Nr. 1 des Baugesetzbuchs.
 
 
 ### Abschnitt 2 - Rückübertragung von Grundstücken und dinglichen Rechten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003800000)
 
 
 
 #### § 121 Ansprüche nach Abschluß eines Kaufvertrags
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012801377)
 
 (1) Dem Nutzer, der bis zum Ablauf des 18. Oktober 1989 mit einer
 staatlichen Stelle der Deutschen Demokratischen Republik einen
@@ -4314,6 +4473,7 @@ Nichterfüllung sind ausgeschlossen.
 
 
 #### § 122 Entsprechende Anwendung des Sachenrechtsbereinigungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE012900000)
 
 Hat das Amt zur Regelung offener Vermögensfragen nach dem 2. Oktober
 1990 für ein entzogenes Nutzungsrecht nach § 287 Abs. 1 und § 291 des
@@ -4323,10 +4483,12 @@ Bestimmungen in Kapitel 2 entsprechend anzuwenden.
 
 
 ### Abschnitt 3 - Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNG003900000)
 
 
 
 #### § 123 Härteklausel bei niedrigen Grundstückswerten
+[Direktlink](https://www.gesetze-im-internet.de/sachenrberg/BJNR245710994.html#BJNR245710994BJNE013000000)
 
 (1) Der Nutzer eines Grundstücks, dessen Verkehrswert die in § 15 Abs.
 2 bezeichneten Beträge nicht übersteigt, kann einem Ankaufsverlangen

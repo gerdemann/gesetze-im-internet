@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Zweck des Gesetzes, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG000201310)
 
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000302310)
 
 Zweck dieses Gesetzes ist es, nach Maßgabe der nachfolgenden
 Vorschriften zur Gewinnung von Blut und Blutbestandteilen von Menschen
@@ -38,6 +40,7 @@ und unentgeltlichen Blutspende zu fördern.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000402310)
 
 Im Sinne dieses Gesetzes
 
@@ -63,10 +66,12 @@ Im Sinne dieses Gesetzes
 
 
 ## Zweiter Abschnitt - Gewinnung von Blut und Blutbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG000501310)
 
 
 
 ### § 3 Versorgungsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000602310)
 
 (1) Die Spendeeinrichtungen haben die Aufgabe, Blut und
 Blutbestandteile zur Versorgung der Bevölkerung mit Blutprodukten zu
@@ -89,6 +94,7 @@ Blut- und Plasmaspende fördern.
 
 
 ### § 4 Anforderungen an die Spendeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000704130)
 
 Eine Spendeeinrichtung darf nur betrieben werden, wenn
 
@@ -115,6 +121,7 @@ Versorgung der spendenden Personen sind sicherzustellen.
 
 
 ### § 5 Auswahl der spendenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000804130)
 
 (1) Es dürfen nur Personen zur Spendeentnahme zugelassen werden, die
 unter der Verantwortung einer ärztlichen Person nach dem Stand der
@@ -141,6 +148,7 @@ Bundesoberbehörde bleiben unberührt.
 
 
 ### § 6 Aufklärung, Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE000902116)
 
 (1) Eine Spendeentnahme darf nur durchgeführt werden, wenn die
 spendende Person vorher in einer für sie verständlichen Form über
@@ -159,6 +167,7 @@ zu bestätigen.
 
 
 ### § 7 Anforderungen zur Entnahme der Spende
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001003130)
 
 (1) Die anlässlich der Spendeentnahme vorzunehmende Feststellung der
 Identität der spendenden Person, die durchzuführenden
@@ -172,6 +181,7 @@ ist zulässig.
 
 
 ### § 8 Spenderimmunisierung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001103116)
 
 (1) Eine für die Gewinnung von Plasma zur Herstellung von speziellen
 Immunglobulinen erforderliche Spenderimmunisierung darf nur
@@ -240,6 +250,7 @@ werden das Geburtsdatum und die Angabe des Geschlechtes übermittelt.
 
 
 ### § 9 Hämatopoetische Stammzellen aus dem peripheren Blut und andere Blutbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001207116)
 
 Die für die Separation von hämatopoetischen Stammzellen aus dem
 peripheren Blut und von anderen Blutbestandteilen erforderliche
@@ -249,6 +260,7 @@ entsprechend.
 
 
 ### § 10 Aufwandsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001302310)
 
 (1) Die Spendeentnahme soll unentgeltlich erfolgen. Der spendenden
 Person kann eine Aufwandsentschädigung gewährt werden, die sich an dem
@@ -256,6 +268,7 @@ unmittelbaren Aufwand je nach Spendeart orientieren soll.
 
 
 ### § 11 Spenderdokumentation, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001406116)
 
 (1) Jede Spendeentnahme und die damit verbundenen Maßnahmen sind
 unbeschadet ärztlicher Dokumentationspflichten für die in diesem
@@ -292,6 +305,7 @@ spendenden Person anzugeben.
 
 
 ### § 11a Blutdepots
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004802310)
 
 Für Blutdepots der Einrichtungen der Krankenversorgung, die
 ausschließlich für interne Zwecke, einschließlich der Anwendung,
@@ -303,6 +317,7 @@ entsprechend.
 
 
 ### § 12 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001504130)
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates nach Anhörung der Bundesärztekammer und
@@ -340,6 +355,7 @@ Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
 
 ### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen und zahnmedizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004904130)
 
 (1) Die Bundesärztekammer kann den allgemein anerkannten Stand der
 Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung
@@ -396,10 +412,12 @@ Blutproduktesicherheit und das Blutspendeaufkommen bis zum 1. Oktober
 
 
 ## Dritter Abschnitt - Anwendung von Blutprodukten
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG001601310)
 
 
 
 ### § 13 Anforderungen an die Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001701310)
 
 (1) Blutprodukte sind nach dem Stand der medizinischen Wissenschaft
 und Technik anzuwenden. Es müssen die Anforderungen an die
@@ -419,6 +437,7 @@ anwenden, müssen ausreichende Erfahrung in dieser Tätigkeit besitzen.
 
 
 ### § 14 Dokumentation, Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001806116)
 
 (1) Die behandelnde ärztliche Person hat jede Anwendung von
 Blutprodukten und von Arzneimitteln zur spezifischen Therapie von
@@ -516,6 +535,7 @@ das Geschlecht der zu behandelnden Person anzugeben.
 
 
 ### § 15 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE001906116)
 
 (1) Einrichtungen der Krankenversorgung, die Blutprodukte anwenden,
 haben ein System der Qualitätssicherung für die Anwendung von
@@ -549,6 +569,7 @@ festzulegen.
 
 
 ### § 16 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002005116)
 
 (1) Treten im Zusammenhang mit der Anwendung von Blutprodukten und
 Arzneimitteln zur spezifischen Therapie von Gerinnungsstörungen bei
@@ -577,6 +598,7 @@ sind das Geburtsdatum und das Geschlecht anzugeben.
 
 
 ### § 17 Nicht angewendete Blutprodukte
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002102116)
 
 (1) Nicht angewendete Blutprodukte sind innerhalb der Einrichtungen
 der Krankenversorgung sachgerecht zu lagern, zu transportieren,
@@ -594,6 +616,7 @@ dürfen nicht an anderen Personen angewendet werden.
 
 
 ### § 18 Stand der medizinischen und zahnmedizinischen Wissenschaft und Technik zur Anwendung von Blutprodukten
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002204116)
 
 (1) Die Bundesärztekammer stellt im Einvernehmen mit der zuständigen
 Bundesoberbehörde und nach Anhörung von Sachverständigen unter
@@ -643,10 +666,12 @@ Bereich der Zahnheilkunde entsprechend.
 
 
 ## Vierter Abschnitt - Rückverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG002301310)
 
 
 
 ### § 19 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002401310)
 
 (1) Wird von einer Spendeeinrichtung festgestellt oder hat sie
 begründeten Verdacht, dass eine spendende Person mit HIV, mit
@@ -724,6 +749,7 @@ Arzneimittelgesetz zu dokumentieren.
 
 
 ### § 20 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002503310)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, nach Anhörung
 von Sachverständigen eine Rechtsverordnung mit Zustimmung des
@@ -738,10 +764,12 @@ Lagerung von Blutprodukten erlassen werden.
 
 
 ## Fünfter Abschnitt - Meldewesen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG002601310)
 
 
 
 ### § 21 Koordiniertes Meldewesen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002705116)
 
 (1) Die Träger der Spendeeinrichtungen und die pharmazeutischen
 Unternehmer haben der zuständigen Bundesoberbehörde jährlich nach Satz
@@ -816,6 +844,7 @@ Bundesoberbehörde zur Verfügung.
 
 
 ### § 21a Deutsches Hämophilieregister, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE005002116)
 
 (1) Das Paul-Ehrlich-Institut führt in Zusammenarbeit mit der
 Gesellschaft für Thrombose- und Hämostaseforschung e. V., der
@@ -1042,6 +1071,7 @@ Anforderungen an
 
 
 ### § 22 Epidemiologische Daten
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002803310)
 
 (1) Die Träger der Spendeeinrichtungen erstellen getrennt nach den
 einzelnen Spendeeinrichtungen vierteljährlich und jährlich unter
@@ -1070,6 +1100,7 @@ bekannt. Melderbezogene Daten sind streng vertraulich zu behandeln.
 
 
 ### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE002903310)
 
 Das Bundesministerium für Gesundheit wird ermächtigt, nach Anhörung
 von Sachverständigen eine Rechtsverordnung mit Zustimmung des
@@ -1078,10 +1109,12 @@ Angaben nach diesem Abschnitt zu erlassen.
 
 
 ## Sechster Abschnitt - Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG003001310)
 
 
 
 ### § 24 Arbeitskreis Blut
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003103310)
 
 Das Bundesministerium für Gesundheit richtet einen Arbeitskreis von
 Sachverständigen für Blutprodukte und das Blutspende- und
@@ -1105,10 +1138,12 @@ beauftragen.
 
 
 ## Siebter Abschnitt - Pflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG003201310)
 
 
 
 ### § 25 Mitteilungspflichten der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003302310)
 
 Die für die Durchführung des Gesetzes zuständigen Behörden des Bundes
 und der Länder teilen sich für die in diesem Gesetz geregelten Zwecke
@@ -1118,10 +1153,12 @@ unverzüglich mit. § 16 Abs. 2 Satz 3 gilt entsprechend.
 
 
 ## Achter Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG003401310)
 
 
 
 ### § 26 Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003503310)
 
 (1) Die Vorschriften dieses Gesetzes finden auf Einrichtungen der
 Bundeswehr entsprechende Anwendung.
@@ -1139,10 +1176,12 @@ der Gesundheit gewahrt bleibt.
 
 
 ## Neunter Abschnitt - Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG003601310)
 
 
 
 ### § 27 Zuständige Bundesoberbehörden
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003703116)
 
 (1) Zuständige Bundesoberbehörde ist das Paul-Ehrlich-Institut.
 
@@ -1157,6 +1196,7 @@ Aufklärung.
 
 
 ### § 28 Ausnahmen vom Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003805116)
 
 Dieses Gesetz findet keine Anwendung auf die Entnahme einer
 geringfügigen Menge Blut zu diagnostischen Zwecken, auf homöopathische
@@ -1171,6 +1211,7 @@ Wissenschaft und Technik hergestellt und angewendet werden.
 
 
 ### § 29 Verhältnis zu anderen Rechtsbereichen
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE003901310)
 
 Die Vorschriften des Arzneimittelrechts, des Medizinprodukterechts und
 des Seuchenrechts bleiben unberührt, soweit in diesem Gesetz nicht
@@ -1179,6 +1220,7 @@ keine Anwendung.
 
 
 ### § 30 Angleichung an Gemeinschaftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004001310)
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
 Angleichung der Rechtsvorschriften der Mitgliedstaaten der
@@ -1196,10 +1238,12 @@ Bundesrates.
 
 
 ## Zehnter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG004101310)
 
 
 
 ### § 31 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004201310)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 5 Abs. 3 Satz 1 nicht dafür sorgt, dass die
@@ -1208,6 +1252,7 @@ Infektionsmarker untersucht wird.
 
 
 ### § 32 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004306116)
 
 (1) Ordnungswidrig handelt, wer eine in § 31 bezeichnete Handlung
 fahrlässig begeht.
@@ -1245,10 +1290,12 @@ Nummer 4 das Paul-Ehrlich-Institut.
 
 
 ## Elfter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG004401310)
 
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004501310)
 
 Wer bei Inkrafttreten dieses Gesetzes die Tätigkeit der Anwendung von
 Blutprodukten ausübt und die Voraussetzungen der in diesem Zeitpunkt
@@ -1256,16 +1303,19 @@ geltenden Vorschriften erfüllt, darf diese Tätigkeit weiter ausüben.
 
 
 ## Zwölfter Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNG004601310)
 
 
 
 ### § 34 Übergangsregelung aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE005100116)
 
 § 21 Absatz 1a und § 21a Absatz 1 bis 5 sind ab dem 1. August 2019
 anzuwenden.
 
 
 ### § 35 Übergangsregelung aus Anlass des Terminservice- und Versorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE005200116)
 
 Bis zur Bekanntmachung des nach § 12a Absatz 3 und § 18 Absatz 3 von
 der Bundeszahnärztekammer festgestellten allgemein anerkannten Standes
@@ -1276,11 +1326,13 @@ Fassung weiter anzuwenden.
 
 
 ### (XXXX) §§ 36 und 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004704116)
 
 -
 
 
 ### § 38 Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004401310)
 
 Die auf den §§ 35 bis 37 beruhenden Teile der dort geänderten
 Rechtsverordnungen können aufgrund der jeweils einschlägigen
@@ -1288,6 +1340,7 @@ Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ### § 39 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/tfg/BJNR175200998.html#BJNR175200998BJNE004601310)
 
 -
 

@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -40,6 +41,7 @@ Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000200000)
 
 Der Ausbildungsberuf Fotomedienfachmann/Fotomedienfachfrau wird
 
@@ -55,11 +57,13 @@ staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten
@@ -202,6 +206,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -223,6 +228,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -301,6 +307,7 @@ folgende Vorgaben:
 
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000700000)
 
 (1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob
 der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
@@ -521,12 +528,14 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE000800000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 3 Abs. 1 Satz 1)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Sachliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE001000000)
 
 (Fundstelle: BGBl. I 2008, 460 - 464)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1289,6 +1298,7 @@ Fähigkeiten**
 (zu § 3 Abs. 1 Satz 2)
 
 ## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Zeitliche Gliederung –
+[Direktlink](https://www.gesetze-im-internet.de/fotomedfachausbv/BJNR045700008.html#BJNR045700008BJNE001100000)
 
 (Fundstelle: BGBl. I 2008, 465 - 466)
 Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen

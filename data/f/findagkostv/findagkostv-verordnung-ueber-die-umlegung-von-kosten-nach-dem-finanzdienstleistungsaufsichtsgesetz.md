@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE000000000)
 
 Auf Grund
 
@@ -37,26 +38,32 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNG000102301)
 
 
 
 ### (XXXX) §§ 1 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE000106301)
 
 
 
 ## Abschnitt 2 - Umlage
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNG000200000)
 
 
 
 ### (XXXX) §§ 5 bis 12b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE000506360)
 
 
 
 ## Abschnitt 3 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNG000401112)
 
 
 
 ### § 13 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE001314360)
 
 (1) In den Fällen, in denen aufgrund der Übergangsvorschriften der §§
 345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin
@@ -71,10 +78,12 @@ Verwaltungsverfahren Anwendung.
 
 
 ### § 13a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE002101308)
 
 
 
 ### § 14 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE001401377)
 
 Die Umlage-Verordnung Kredit- und Finanzdienstleistungswesen vom 8.
 März 1999 (BGBl. I S. 314), zuletzt geändert durch die Verordnung vom
@@ -90,10 +99,12 @@ weiter anzuwenden.
 
 
 ### § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE001500000)
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
 
 ### Anlage (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findagkostv/BJNR150400002.html#BJNR150400002BJNE001734301)
 
 

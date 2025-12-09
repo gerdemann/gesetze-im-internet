@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Beschränkung des ordentlichen Holzeinschlags
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000108118)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -85,6 +86,7 @@ diese zu einer wirtschaftlich unbilligen Härte führen würde.
 
 
 ## § 2 Beschränkung der Holzeinfuhr
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000202309)
 
 Die Einfuhr von Holz und Holzerzeugnissen der ersten Bearbeitungsstufe
 kann, soweit es mit dem Recht der Europäischen Wirtschaftsgemeinschaft
@@ -99,6 +101,7 @@ wäre.
 
 
 ## § 3 Steuerfreie Rücklage für die Bildung eines betrieblichen Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000302309)
 
 (1) Steuerpflichtige, die Einkünfte aus dem Betrieb von
 Forstwirtschaft im Sinne des § 13 des Einkommensteuergesetzes beziehen
@@ -163,6 +166,7 @@ berücksichtigen.
 
 
 ## § 4 Pauschsatz für Betriebsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000402377)
 
 (1) Steuerpflichtige, die für ihren Betrieb nicht zur Buchführung
 verpflichtet sind und ihren Gewinn nicht nach § 4 Absatz 1, § 5 des
@@ -179,6 +183,7 @@ Einschlagsbeschränkung befolgen.
 
 
 ## § 4a Bewertung von Holzvorräten aus Kalamitätsnutzungen bei der Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001502377)
 
 Steuerpflichtige mit Einkünften aus Forstwirtschaft, bei denen der
 nach § 4 Absatz 1, § 5 des Einkommensteuergesetzes ermittelte Gewinn
@@ -189,6 +194,7 @@ absehen.
 
 
 ## § 5 Sonstige steuerliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000505377)
 
 (1) Im Wirtschaftsjahr einer Einschlagsbeschränkung nach § 1 gilt für
 jegliche Kalamitätsnutzung einheitlich der Steuersatz nach § 34b
@@ -203,11 +209,13 @@ angefallen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000602309)
 
 (weggefallen)
 
 
 ## § 7 Übervorräte bei der Holzwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000703308)
 
 (1) Steuerpflichtige, die den Gewinn nach § 5 des
 Einkommensteuergesetzes ermitteln, können den Mehrbestand an
@@ -249,11 +257,13 @@ dem Wiederbeschaffungspreis am Bilanzstichtag zu bewerten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000802309)
 
 (weggefallen)
 
 
 ## § 9 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE000903377)
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes
 und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu
@@ -279,11 +289,13 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001001309)
 
 (weggefallen)
 
 
 ## § 11 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001103377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -307,6 +319,7 @@ geahndet werden.
 
 
 ## § 11a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001202309)
 
 Die §§ 3 bis 7 sind in ihrer vom 1. September 1985 an geltenden
 Fassung erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31.
@@ -314,11 +327,13 @@ Dezember 1984 enden.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001302377)
 
 (weggefallen)
 
 
 ## § 13 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/forstschausglg/BJNR015330969.html#BJNR015330969BJNE001401309)
 
 -
 

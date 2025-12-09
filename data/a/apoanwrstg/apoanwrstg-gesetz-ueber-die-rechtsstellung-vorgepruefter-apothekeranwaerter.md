@@ -20,12 +20,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000100312)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000200312)
 
 (1) Personen, die die pharmazeutische Vorprüfung nach der
 Prüfungsordnung für Apotheker vom 18. Mai 1904 (Zentralblatt für das
@@ -41,6 +43,7 @@ Verantwortung eines Apothekers auszuüben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000301320)
 
 (1) Die Befugnis zur Führung der in § 1 Abs. 1 genannten
 Berufsbezeichnung und zur Ausübung pharmazeutischer Tätigkeiten in der
@@ -62,6 +65,7 @@ Voraussetzungen nicht mehr vorliegen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000400312)
 
 (1) Ordnungswidrig handelt, wer ohne Befugnis (§ 1 Abs. 1) oder nach
 vollziehbarer Untersagung (§ 2) die Berufsbezeichnung
@@ -72,6 +76,7 @@ Deutsche Mark geahndet werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000500312)
 
 Erlaubnisse zur Beschäftigung in der Apotheke, die vorgeprüften
 Apothekeranwärtern vor Inkrafttreten dieses Gesetzes erteilt worden
@@ -79,6 +84,7 @@ sind, erlöschen mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000600312)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -86,6 +92,7 @@ im Land Berlin.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/apoanwrstg/BJNR018130973.html#BJNR018130973BJNE000700312)
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

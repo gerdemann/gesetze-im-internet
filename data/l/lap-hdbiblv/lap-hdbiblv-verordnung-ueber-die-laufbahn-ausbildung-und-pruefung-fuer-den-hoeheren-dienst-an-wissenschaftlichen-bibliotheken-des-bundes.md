@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002700000)
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
@@ -32,10 +33,12 @@ Innern:
 
 
 ## Kapitel 1 - Laufbahn und Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNG000500000)
 
 
 
 ### § 1 Laufbahnämter
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000100000)
 
 (1) Die Laufbahn des höheren Dienstes an wissenschaftlichen
 Bibliotheken des Bundes umfasst den Vorbereitungsdienst, die Probezeit
@@ -102,6 +105,7 @@ und Amtsbezeichnungen:
 
 
 ### § 2 Ziel des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000200000)
 
 Der Vorbereitungsdienst soll die Beamtinnen und Beamten befähigen, die
 Aufgaben der Laufbahn des höheren Dienstes an wissenschaftlichen
@@ -114,6 +118,7 @@ Fragen.
 
 
 ### § 3 Einstellungsbehörden, Ausbildungsbibliotheken
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000300000)
 
 (1) Einstellungsbehörden sind die obersten Bundesbehörden, die
 Bundesanstalt Die Deutsche Bibliothek und die Stiftung Preußischer
@@ -139,6 +144,7 @@ Ausbildungsbibliotheken anerkennen.
 
 
 ### § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000401310)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -162,6 +168,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 ### § 5 Ausschreibung, Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000500000)
 
 (1) Die Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
@@ -208,6 +215,7 @@ beizufügen:
 
 
 ### § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000600000)
 
 (1) Vor der Entscheidung über die Einstellung in den
 Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob
@@ -257,6 +265,7 @@ Wiederbestellung ist zulässig.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000702116)
 
 (1) Die Einstellungsbehörden entscheiden unter Berücksichtigung des
 Ergebnisses des Auswahlverfahrens über die Einstellung von
@@ -301,6 +310,7 @@ Einstellungsbehörde.
 
 
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000800000)
 
 (1) Mit der Einstellung in den Vorbereitungsdienst werden - unter
 Berufung in das Beamtenverhältnis auf Widerruf - die Bewerberinnen zu
@@ -313,6 +323,7 @@ Behörden unterstehen sie zusätzlich auch deren Dienstaufsicht.
 
 
 ### § 9 Dauer, Inhalt, Gliederung und Abschluss des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE000900000)
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre. Er umfasst die
 praktische Ausbildung in bibliothekarischen Schwerpunktbereichen und
@@ -340,6 +351,7 @@ ermöglichen.
 
 
 ### § 10 Verlängerung und Verkürzung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001001310)
 
 (1) Der Vorbereitungsdienst ist im Einzelfall zu verlängern, wenn die
 Ausbildung
@@ -382,6 +394,7 @@ darf sechs Monate nicht überschreiten.
 
 
 ### § 11 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001100000)
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
 die Erbringung von Leistungsnachweisen die ihrer Behinderung
@@ -399,11 +412,13 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 
 ### § 12 Urlaub während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001200000)
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 
 ### § 13 Ausbildungsakte
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001300000)
 
 Für die Referendarinnen und Referendare sind Personalteilakten
 "Ausbildung" zu führen, in die der Ausbildungsplan, die
@@ -412,6 +427,7 @@ sind.
 
 
 ### § 14 Ziel der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001400000)
 
 (1) In den Praktika erwerben die Referendarinnen und Referendare
 berufliche Kenntnisse und Erfahrungen sowie Fähigkeiten und
@@ -436,6 +452,7 @@ Ausbildung.
 
 
 ### § 15 Durchführung der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001500000)
 
 (1) Die Praktika werden bei folgenden Stellen durchgeführt:
 
@@ -494,6 +511,7 @@ zu besprechen.
 
 
 ### § 16 Ausbildungsleitung, Ausbilderinnen und Ausbilder
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001600000)
 
 (1) Jede Ausbildungsbibliothek bestellt eine Beamtin oder einen
 Beamten des höheren Dienstes als Ausbildungsleitung, die für die
@@ -517,6 +535,7 @@ Ausbildungsstand.
 
 
 ### § 17 Bewertung während der praktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001701116)
 
 (1) Jede Ausbildungsbibliothek gibt über die Leistungen und den
 Befähigungsstand der Referendarinnen und Referendare unter
@@ -578,6 +597,7 @@ elektronisch Stellung nehmen.
 
 
 ### § 18 Durchführung der theoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001800000)
 
 (1) Die Referendarinnen und Referendare werden für die theoretische
 Ausbildung einer geeigneten Hochschule zugewiesen.
@@ -624,10 +644,12 @@ Gebiete erstrecken:
 
 
 ## Kapitel 2 - Erwerb der Laufbahnbefähigung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNG000200000)
 
 
 
 ### § 19 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE001900000)
 
 (1) Zum Abschluss der theoretischen Ausbildung legen die
 Referendarinnen und Referendare die Prüfung für die Laufbahn des
@@ -640,6 +662,7 @@ höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes.
 
 
 ### § 20 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002000000)
 
 Referendarinnen und Referendare, die die Prüfung im Sinne des § 19
 Abs. 1 nicht bestanden haben oder deren Prüfung als nicht bestanden
@@ -654,6 +677,7 @@ Wiederholungsfrist verlängert.
 
 
 ### § 21 Ende des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002100000)
 
 (1) Mit dem Bestehen oder endgültigen Nichtbestehen der in § 19 Abs. 1
 genannten Prüfung endet der Vorbereitungsdienst. Maßgebend ist der Tag
@@ -664,10 +688,12 @@ Anspruch auf Übernahme in das Beamtenverhältnis auf Probe.
 
 
 ## Kapitel 3 - Aufstieg
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNG000300000)
 
 
 
 ### § 22 Aufstieg, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002201310)
 
 (1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an
 wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß
@@ -684,6 +710,7 @@ Dienstbehörde auf Grund des Ergebnisses des Auswahlverfahrens.
 
 
 ### § 23 Einführung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002300000)
 
 (1) Die Aufstiegsbeamtinnen und -beamten nehmen zur Einführung in die
 neue Laufbahn gemeinsam mit den Referendarinnen und Referendaren an
@@ -696,6 +723,7 @@ entsprechend.
 
 
 ### § 24 Rechtsstellung nach bestandener Aufstiegsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002400000)
 
 Nach bestandener Aufstiegsprüfung bleiben die Beamtinnen und Beamten
 bis zur Verleihung des Eingangsamtes der neuen Laufbahn in ihrer
@@ -703,10 +731,12 @@ bisherigen Rechtsstellung.
 
 
 ## Kapitel 4 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNG000400000)
 
 
 
 ### § 25 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002500000)
 
 Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in den
 Vorbereitungsdienst eingestellten Referendarinnen und Referendare
@@ -715,6 +745,7 @@ Aufstiegsbeamtinnen und Aufstiegsbeamte entsprechend.
 
 
 ### § 26 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lap-hdbiblv/BJNR277900001.html#BJNR277900001BJNE002600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

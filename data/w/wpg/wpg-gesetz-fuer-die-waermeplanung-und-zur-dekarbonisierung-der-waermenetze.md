@@ -20,9 +20,11 @@ Geändert durch
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000100000)
 
 
 ### § 1 Ziel des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000200000)
 
 Ziel dieses Gesetzes ist es, einen wesentlichen Beitrag zur Umstellung
 der Erzeugung von sowie der Versorgung mit Raumwärme, Warmwasser und
@@ -36,6 +38,7 @@ Umsetzung dieses Gesetzes zu Grunde zu legen ist.
 
 
 ### § 2 Ziele für die leitungsgebundene Wärmeversorgung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000300000)
 
 (1) Der Anteil von Wärme aus erneuerbaren Energien, aus unvermeidbarer
 Abwärme oder einer Kombination hieraus an der jährlichen
@@ -65,6 +68,7 @@ vorschlagen.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000400000)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -431,12 +435,15 @@ dieses Gesetzes unvermeidbarer Abwärme im Sinne des Absatzes 1 Nummer
 
 
 ## Teil 2 - Wärmeplanung und Wärmepläne
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000200000)
 
 
 ### Abschnitt 1 - Pflicht zur Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000300000)
 
 
 #### § 4 Pflicht zur Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000500000)
 
 (1) Die Länder sind verpflichtet sicherzustellen, dass auf ihrem
 Hoheitsgebiet Wärmepläne nach Maßgabe dieses Gesetzes spätestens bis
@@ -475,6 +482,7 @@ den geltenden Abkommen erfolgen.
 
 
 #### § 5 Bestehender Wärmeplan
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000600000)
 
 (1) Die Pflicht zur Durchführung einer Wärmeplanung nach § 4 Absatz 1
 ist nicht für ein beplantes Gebiet anzuwenden, für das spätestens zum
@@ -516,9 +524,11 @@ insbesondere anzunehmen, wenn die Erstellung des Wärmeplans
 
 
 ### Abschnitt 2 - Allgemeine Anforderungen an die Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000400000)
 
 
 #### § 6 Aufgabe der planungsverantwortlichen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000700000)
 
 Die planungsverantwortliche Stelle führt die Wärmeplanung nach Maßgabe
 der folgenden Bestimmungen für das beplante Gebiet durch. Sie kann zur
@@ -526,6 +536,7 @@ Unterstützung bei der Erfüllung dieser Aufgabe Dritte beauftragen.
 
 
 #### § 7 Beteiligung der Öffentlichkeit, von Trägern öffentlicher Belange, der Netzbetreiber sowie weiterer natürlicher oder juristischer Personen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000800000)
 
 (1) Die planungsverantwortliche Stelle beteiligt im Rahmen der
 Wärmeplanung nach Maßgabe des § 13 die Öffentlichkeit sowie alle
@@ -647,6 +658,7 @@ informell beteiligen.
 
 
 #### § 8 Energieinfrastrukturplanungen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE000900000)
 
 (1) Im Rahmen der Mitwirkung nach § 7 Absatz 4 und 5 teilen die in § 7
 Absatz 2 Satz 1 Nummer 1 und 2 genannten Beteiligten der
@@ -663,6 +675,7 @@ Darstellungen des Wärmeplans hierbei zu berücksichtigen.
 
 
 #### § 9 Berücksichtigung des Bundes-Klimaschutzgesetzes; Berücksichtigung von Transformationsplänen; Beachtung allgemeiner Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001000000)
 
 (1) Die planungsverantwortliche Stelle hat nach § 13 Absatz 1 Satz 1
 des Bundes-Klimaschutzgesetzes vom 12. Dezember 2019 (BGBl. I S. 2513)
@@ -686,9 +699,11 @@ Energieträgerverfügbarkeit.
 
 
 ### Abschnitt 3 - Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000500000)
 
 
 #### § 10 Datenverarbeitung zur Aufgabenerfüllung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001100000)
 
 (1) Die planungsverantwortliche Stelle ist befugt, zur Erfüllung der
 ihr nach den Abschnitten 4 bis 6 obliegenden Aufgaben für die
@@ -750,6 +765,7 @@ insbesondere zur
 
 
 #### § 11 Auskunftspflicht und Form der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001201128)
 
 (1) Auskunftspflichtig für Erhebungen nach § 10 Absatz 1 durch die
 planungsverantwortliche Stelle ist oder sind
@@ -844,6 +860,7 @@ Maßnahmen anzuordnen.
 
 
 #### § 12 Anforderungen an die Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001300000)
 
 (1) Die planungsverantwortliche Stelle muss bei der Datenverarbeitung
 
@@ -905,9 +922,11 @@ Informationen ortsüblich bekanntzumachen.
 
 
 ### Abschnitt 4 - Durchführung der Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000600000)
 
 
 #### § 13 Ablauf der Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001400000)
 
 (1) Die Wärmeplanung nach diesem Gesetz umfasst
 
@@ -981,6 +1000,7 @@ anschließend im Internet veröffentlicht.
 
 
 #### § 14 Eignungsprüfung und verkürzte Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001500000)
 
 (1) Die planungsverantwortliche Stelle untersucht das beplante Gebiet
 im Rahmen einer Eignungsprüfung auf Teilgebiete, die sich mit hoher
@@ -1060,6 +1080,7 @@ Energieinfrastrukturen und zu Bedarfsabschätzungen erfolgen.
 
 
 #### § 15 Bestandsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001600000)
 
 (1) Im Rahmen der Bestandsanalyse ermittelt die
 planungsverantwortliche Stelle als Grundlage für das Zielszenario nach
@@ -1090,6 +1111,7 @@ Abschnitt 3 berechtigt, die in Anlage 1 genannten Daten zu erheben.
 
 
 #### § 16 Potenzialanalyse
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001700000)
 
 (1) Im Rahmen der Potenzialanalyse ermittelt die
 planungsverantwortliche Stelle quantitativ und räumlich differenziert
@@ -1105,6 +1127,7 @@ industriellen oder gewerblichen Prozessen ab.
 
 
 #### § 17 Zielszenario
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001800000)
 
 (1) Im Zielszenario beschreibt die planungsverantwortliche Stelle für
 das beplante Gebiet als Ganzes anhand der Indikatoren nach Anlage 2
@@ -1132,6 +1155,7 @@ Gebiets maßgebliche Zielszenario unter Darlegung der Gründe.
 
 
 #### § 18 Einteilung des beplanten Gebiets in voraussichtliche Wärmeversorgungsgebiete
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE001900000)
 
 (1) Die planungsverantwortliche Stelle teilt das beplante Gebiet,
 sofern es nicht der verkürzten Wärmeplanung nach § 14 Absatz 4
@@ -1209,6 +1233,7 @@ als
 
 
 #### § 19 Darstellung der Wärmeversorgungsarten für das Zieljahr
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002000000)
 
 (1) Die planungsverantwortliche Stelle stellt auf Grundlage der
 Eignungsprüfung nach § 14, der Bestandsanalyse nach § 15, der
@@ -1244,6 +1269,7 @@ die Eignungsstufe. Eignungsstufen sind:
 
 
 #### § 20 Umsetzungsstrategie
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002100000)
 
 (1) Auf Grundlage der Bestandsanalyse nach § 15 sowie der
 Potenzialanalyse nach § 16 und im Einklang mit dem Zielszenario
@@ -1265,6 +1291,7 @@ Teils 1 des Gesetzes gegen Wettbewerbsbeschränkungen sowie die Artikel
 
 
 #### § 21 Anforderungen an einen Wärmeplan für ein Gemeindegebiet mit mehr als 45 000 Einwohnern
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002200000)
 
 Ein Wärmeplan für ein Gemeindegebiet, in dem zum 1. Januar 2024 mehr
 als 45 000 Einwohner gemeldet sind, soll
@@ -1303,6 +1330,7 @@ als 45 000 Einwohner gemeldet sind, soll
 
 
 #### § 22 Vereinfachtes Verfahren für die Wärmeplanung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002300000)
 
 Sofern ein Land nach Maßgabe des § 4 Absatz 3 ein vereinfachtes
 Verfahren für die Wärmeplanung vorsieht, kann es hierzu insbesondere
@@ -1323,9 +1351,11 @@ Verfahren für die Wärmeplanung vorsieht, kann es hierzu insbesondere
 
 
 ### Abschnitt 5 - Wärmeplan
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000700000)
 
 
 #### § 23 Wärmeplan
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002400000)
 
 (1) Die planungsverantwortliche Stelle fasst die wesentlichen
 Ergebnisse der Wärmeplanung im Wärmeplan zusammen. Sie dokumentiert
@@ -1347,6 +1377,7 @@ keine einklagbaren Rechte oder Pflichten.
 
 
 #### § 24 Anzeige des Wärmeplans
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002500000)
 
 Durch Landesrecht kann bestimmt werden, dass die
 planungsverantwortliche Stelle den Wärmeplan einer durch Landesrecht
@@ -1354,6 +1385,7 @@ bestimmten Stelle anzeigen muss.
 
 
 #### § 25 Fortschreibung des Wärmeplans
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002600000)
 
 (1) Die planungsverantwortliche Stelle ist verpflichtet, den Wärmeplan
 spätestens alle fünf Jahre zu überprüfen und die Fortschritte bei der
@@ -1379,9 +1411,11 @@ begonnen wurde.
 
 
 ### Abschnitt 6 - Entscheidung über die Ausweisung von Gebieten im Sinne des Gebäudeenergiegesetzes; Transformation von Gasnetzen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000800000)
 
 
 #### § 26 Entscheidung über die Ausweisung als Gebiet zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002700000)
 
 (1) Unter Berücksichtigung der Ergebnisse der Wärmeplanung nach § 23
 und unter Abwägung der berührten öffentlichen und privaten Belange
@@ -1419,6 +1453,7 @@ bei Bedarf ergänzende Ermittlungen heranziehen.
 
 
 #### § 27 Rechtswirkung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002800000)
 
 (1) Bei der Entscheidung über die Ausweisung als Gebiet zum Neu- oder
 Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet nach § 26
@@ -1453,6 +1488,7 @@ jeweilige Vorhaben geltenden rechtlichen Grundlagen.
 
 
 #### § 28 Transformation von Gasverteilernetzen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE002900000)
 
 (1) Zum Zweck der Information eines Gebäudeeigentümers, der nach § 71f
 des Gebäudeenergiegesetzes eine Heizungsanlage mit grünem Methan, das
@@ -1521,9 +1557,11 @@ ihres jeweiligen Wärmeplans berücksichtigen.
 
 
 ## Teil 3 - Anforderungen an Betreiber von Wärmenetzen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG000900000)
 
 
 ### § 29 Anteil erneuerbarer Energien in Wärmenetzen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003000000)
 
 (1) Die jährliche Nettowärmeerzeugung muss für jedes Wärmenetz ab den
 genannten Zeitpunkten aus den folgenden Wärmequellen gespeist werden:
@@ -1656,6 +1694,7 @@ Zeitpunkte festlegen.
 
 
 ### § 30 Anteil erneuerbarer Energien in neuen Wärmenetzen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003100000)
 
 (1) Jedes neue Wärmenetz muss abweichend von § 29 Absatz 1 Nummer 1 ab
 dem 1. März 2025 zu einem Anteil von mindestens 65 Prozent der
@@ -1676,6 +1715,7 @@ Biomasseanteils nach Satz 1 nicht zu berücksichtigen.
 
 
 ### § 31 Vollständige Klimaneutralität in Wärmenetzen bis zum Jahr 2045
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003200000)
 
 (1) Jedes Wärmenetz muss spätestens bis zum Ablauf des 31. Dezember
 2044 vollständig mit Wärme aus erneuerbaren Energien, aus
@@ -1688,6 +1728,7 @@ Januar 2045 auf maximal 15 Prozent begrenzt. § 30 Absatz 2 Satz 2 und
 
 
 ### § 32 Verpflichtung zur Erstellung von Wärmenetzausbau- und -dekarbonisierungsfahrplänen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003300000)
 
 (1) Jeder Betreiber eines Wärmenetzes, das nicht bereits vollständig
 mit Wärme aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder
@@ -1761,9 +1802,11 @@ zu einem Wärmeversorgungsgebiet im Sinne von § 3 Absatz 1 Nummer 14.
 
 
 ## Teil 4 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNG001000000)
 
 
 ### § 33 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003400000)
 
 (1) Die Landesregierungen werden ermächtigt, die Pflicht zur
 Erstellung eines Wärmeplans nach § 4 Absatz 1 und zur Erfüllung der
@@ -1794,6 +1837,7 @@ zuständige Behörde zu bestimmen.
 
 
 ### § 34 Zentrale Veröffentlichung von Wärmeplänen im Internet
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003500000)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird erstellte
 Wärmepläne auf einer Internetseite zentral zugänglich machen. Die
@@ -1808,6 +1852,7 @@ Anforderung die erforderlichen Informationen mitzuteilen.
 
 
 ### § 35 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003600000)
 
 (1) Die Bundesregierung wird die Wirkung der Regelungen zur
 Wärmeplanung und die Erreichung des Ziels nach § 2 Absatz 1, der
@@ -1893,6 +1938,7 @@ genutzt.
 (zu § 15)
 
 ### Anlage 1 Daten und Informationen für die Bestandsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003700000)
 
 (Fundstelle: BGBl. 2023 I Nr. 394, S. 21 - 22)
 
@@ -2126,6 +2172,7 @@ die folgenden Daten zu erheben:
 (zu § 23)
 
 ### Anlage 2 Darstellungen im Wärmeplan
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003800000)
 
 (Fundstelle: BGBl. 2023 I Nr. 394, S. 23 - 25)
 
@@ -2417,6 +2464,7 @@ sollen die Umsetzungsmaßnahmen dahingehend dargestellt werden,
 (zu § 32)
 
 ### Anlage 3 Anforderungen an Wärmenetzausbau- und -dekarbonisierungsfahrpläne nach § 32
+[Direktlink](https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html#BJNR18A0B0023BJNE003900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 394, S. 26 - 27)
 

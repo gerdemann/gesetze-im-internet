@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbagzustv/BJNR005300994.html#BJNR005300994BJNE000100307)
 
 Auf Grund des § 12 Abs. 6 und des § 23 des Deutsche Bahn
 Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386)
@@ -29,6 +30,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Übertragung beamtenrechtlicher Befugnisse zur Ausübung
+[Direktlink](https://www.gesetze-im-internet.de/dbagzustv/BJNR005300994.html#BJNR005300994BJNE000208305)
 
 Der Deutsche Bahn Aktiengesellschaft werden die folgenden aufgeführten
 beamtenrechtlichen Entscheidungen sowie sonstige Entscheidungen und
@@ -212,6 +214,7 @@ Deutsche Bahn Gründungsgesetzes zugewiesen sind:
 
 
 ## § 2 Anwendung auf ausgegliederte Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/dbagzustv/BJNR005300994.html#BJNR005300994BJNE000300307)
 
 § 1 gilt sinngemäß für Gesellschaften, die im Wege der Ausgliederung
 nach § 2 Abs. 1 des Deutsche Bahn Gründungsgesetzes errichtet werden.
@@ -222,6 +225,7 @@ Gesetzes ausübt.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dbagzustv/BJNR005300994.html#BJNR005300994BJNE000400307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

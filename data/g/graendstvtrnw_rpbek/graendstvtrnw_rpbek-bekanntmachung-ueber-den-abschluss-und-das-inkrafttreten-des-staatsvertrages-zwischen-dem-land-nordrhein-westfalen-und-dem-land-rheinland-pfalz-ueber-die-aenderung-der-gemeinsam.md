@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtrnw_rpbek/BJNR000150992.html#BJNR000150992BJNE000100314)
 
 Zwischen dem Land Nordrhein-Westfalen und dem Land Rheinland-Pfalz
 wurde am 30. Januar 1991 ein Staatsvertrag über eine Änderung der

@@ -42,10 +42,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000101124)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000102124)
 
 Diese Verordnung dient der Regelung von Fragen des Herstellens,
 Behandelns und Inverkehrbringens bestimmter Lebensmittel tierischen
@@ -55,6 +57,7 @@ der Lebensmittelhygiene bei Lebensmitteln tierischen Ursprungs.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000202124)
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -108,9 +111,11 @@ der Lebensmittelhygiene bei Lebensmitteln tierischen Ursprungs.
 
 
 ## Abschnitt 1a - Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000701124)
 
 
 ### § 2a Hausschlachtungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003402124)
 
 (1) Wer als Haustiere oder Farmwild gehaltene Huftiere außerhalb eines
 zugelassenen Schlachthofes für den eigenen häuslichen Verbrauch
@@ -154,6 +159,7 @@ genommenen Zeitpunktes der Schlachtung oder Tötung zu erfolgen.
 
 
 ### § 2b Verwendung von erlegtem Großwild für den eigenen häuslichen Verbrauch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003502124)
 
 (1) Wer von ihm selbst erlegtes Großwild für den eigenen häuslichen
 Verbrauch in Eigenbesitz genommen hat, hat das Wild vor der weiteren
@@ -199,6 +205,7 @@ Wildursprungsscheins elektronisch übermitteln.
 
 
 ### § 2c Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003603128)
 
 (1) Es ist verboten, Fleisch von nach § 2a Absatz 1 geschlachteten
 Tieren vor Abschluss einer nach § 2a Absatz 1 erforderlichen amtlichen
@@ -224,10 +231,12 @@ ausgeschlossen ist.
 
 
 ## Abschnitt 2 - Abgabe kleiner Mengen von Primärerzeugnissen und anderen Lebensmitteln tierischen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000201124)
 
 
 
 ### § 3 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse und Lebensmittel tierischen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000301124)
 
 (1) Wer kleine Mengen der in Absatz 2 genannten Primärerzeugnisse oder
 Lebensmittel tierischen Ursprungs direkt an Verbraucher oder an
@@ -296,6 +305,7 @@ Wohnort des Jägers oder den Erlegeort des Wildes gelegen sind.
 
 
 ### § 4 Zusätzliche Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000403119)
 
 (1) Kleine Mengen von erlegtem Wild oder von Fleisch von erlegtem Wild
 dürfen nur von Personen abgegeben werden, die auf den Gebieten des
@@ -375,6 +385,7 @@ Wildursprungsscheins elektronisch übermitteln.
 
 
 ### § 4a Inverkehrbringen von erlegten Wildschweinen und Dachsen, bei denen die Probenahme zur Untersuchung auf Trichinen durch den Jäger erfolgt ist
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE004402119)
 
 (1) Ein Tierkörper eines Wildschweins oder Dachses, bei dem die
 Entnahme von Proben zur Untersuchung auf Trichinen durch einen Jäger
@@ -405,6 +416,7 @@ Maschinen, in durch Menschen optisch lesbarer Form erfolgen.
 
 
 ### § 5 Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000503119)
 
 (1) Kleine Mengen von Fischereierzeugnissen, die zu den Arten der
 Schlangenmakrelen, Ölfische oder Rhizinusfische (Gempylidae) gehören,
@@ -456,10 +468,12 @@ an Verbraucher abzugeben.
 
 
 ## Abschnitt 3 - Anforderungen an den Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000301124)
 
 
 
 ### § 6 Nebensächliche Tätigkeiten des Einzelhandels im Sinne des Artikels 1 Absatz 5 Buchstabe b Nummer ii der Verordnung (EG) Nr. 853/2004
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000601124)
 
 Die Abgabe von Lebensmitteln tierischen Ursprungs von einem Betrieb
 des Einzelhandels an andere Betriebe des Einzelhandels stellt eine
@@ -479,6 +493,7 @@ beschränkt ist.
 
 
 ### § 7 Anforderungen an das Herstellen oder Behandeln von Lebensmitteln tierischen Ursprungs im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000702124)
 
 Wer Lebensmittel tierischen Ursprungs in einem Betrieb des
 Einzelhandels, für den die Anforderungen der Verordnung (EG) Nr.
@@ -503,6 +518,7 @@ Nummer 2.1 gelten nicht für
 
 
 ### § 8 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000801124)
 
 Es ist verboten, in einem Betrieb des Einzelhandels, für den die
 Anforderungen der Verordnung (EG) Nr. 853/2004 nach deren Artikel 1
@@ -542,10 +558,12 @@ Verordnung, nicht gelten,
 
 
 ## Abschnitt 4 - Anforderungen an das Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln im Anwendungsbereich der Verordnung (EG) Nr. 853/2004
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000401124)
 
 
 
 ### § 9 Zulassung von Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE000904119)
 
 (1) Die Zulassung von Betrieben, die ihre Tätigkeit nach Artikel 4
 Absatz 2 der Verordnung (EG) Nr. 853/2004 erst nach Zulassung
@@ -597,6 +615,7 @@ Zuverlässigkeit für die Führung eines Betriebes nach Artikel 4 Absatz
 
 
 ### § 10 Informationen zur Lebensmittelkette
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001002124)
 
 (1) Halter von Schlachttieren haben die nach Anhang II Abschnitt III
 Nummer 3 der Verordnung (EG) Nr. 853/2004 relevanten Informationen zur
@@ -642,10 +661,12 @@ zuständigen Behörde auszudrucken.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001102124)
 
 
 
 ### § 12 Schlachtungen außerhalb eines Schlachthofes
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001204128)
 
 Tierkörper von als Haustiere gehaltenen Huftieren, die nach Anhang III
 Abschnitt I Kapitel VI der Verordnung (EG) Nr. 853/2004 außerhalb
@@ -655,6 +676,7 @@ und Inhalt des Musters der Anlage 8 beigefügt ist.
 
 
 ### § 13 Abgabe von Wild an Wildbearbeitungsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001302128)
 
 Wer als Jäger Wildkörper an einen Wildbearbeitungsbetrieb abgibt, hat
 auf Anweisung der zuständigen Behörde abweichend von Anhang III
@@ -666,6 +688,7 @@ erforderlich ist.
 
 
 ### § 13a Ausnahmen für das Inverkehrbringen von Hackfleisch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003701124)
 
 Abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III
 Abschnitt V Kapitel III Nummer 1 Satz 2 Buchstabe a der Verordnung
@@ -698,6 +721,7 @@ ist, soweit das Hackfleisch
 
 
 ### § 14 Untersuchung von Rohmilch nach Anhang III Abschnitt IX Kapitel I Teil III Nummer 2 Satz 2 Buchstabe d der Verordnung (EG) Nr. 853/2004
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001402119)
 
 Als Kontrollen von Rohmilch aus Milcherzeugungsbetrieben im Sinne
 einer nationalen Kontrollregelung nach Anhang III Abschnitt IX Kapitel
@@ -709,6 +733,7 @@ Rohmilchgüteverordnung durchgeführt werden.
 
 
 ### § 15 Gebote, Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001502124)
 
 (1) Als Haustiere gehaltene Huftiere dürfen nur zur Schlachtung an
 einen Schlachthof abgeben werden, wenn die Tiere so gekennzeichnet
@@ -782,10 +807,12 @@ Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
 ## Abschnitt 5 - Gemeinsame Anforderungen an die Abgabe kleiner Mengen von Lebensmitteln, den Einzelhandel und das Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln im Anwendungsbereich der Verordnung (EG) Nr. 853/2004
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000501124)
 
 
 
 ### § 16 Warnhinweis bei Hackfleisch und Fleischzubereitungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001602124)
 
 
 1.  Hackfleisch, das aus oder unter Verwendung von Fleisch von Geflügel
@@ -805,6 +832,7 @@ der Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
 ### § 16a Inverkehrbringen bestimmter aufgetauter Lebensmittel tierischen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003801124)
 
 Fleisch, Hackfleisch und Fleischzubereitungen, die nach der
 Herstellung gefroren oder tiefgefroren worden sind, dürfen in
@@ -814,6 +842,7 @@ Angabe „aufgetaut“ auf diesen Zustand hingewiesen wird.
 
 
 ### § 17 Abgabe von Rohmilch oder Rohrahm an Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001702124)
 
 (1) Es ist verboten, Rohmilch oder Rohrahm an Verbraucher abzugeben.
 
@@ -884,6 +913,7 @@ bis 5 genehmigen.
 
 
 ### § 18 Anforderungen an das Gewinnen, Behandeln und Inverkehrbringen von Vorzugsmilch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001801124)
 
 (1) Wer Rohmilch zum Zweck der Abgabe nach § 17 Absatz 2 oder 3
 gewinnen will, bedarf hierfür der Genehmigung der zuständigen Behörde.
@@ -913,6 +943,7 @@ Ergebnis durchgeführt worden ist.
 
 
 ### § 19 Herstellung von Käse mit einer Reifezeit von mindestens 60 Tagen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE001901124)
 
 Die zuständige Behörde kann genehmigen, dass zur Herstellung von Käse
 mit einer Reifezeit von mindestens 60 Tagen Rohmilch verwendet wird,
@@ -922,6 +953,7 @@ III Nummer 3 oder Kapitel II Teil III Nummer 1 der Verordnung (EG) Nr.
 
 
 ### § 19a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003901124)
 
 Abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III
 Abschnitt IX Kapitel I Teil III Nummer 2 Satz 1 der Verordnung (EG)
@@ -961,10 +993,12 @@ verwendet werden, wenn sichergestellt ist, dass die Rohmilch
 
 
 ### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002002124)
 
 
 
 ### § 20a Besondere Anforderungen bei Abgabe roheihaltiger Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE004004124)
 
 (1) In Einrichtungen von Anbietern von Gemeinschaftsverpflegung dürfen
 Lebensmittel, die dort unter Verwendung roher Bestandteile von Eiern
@@ -1012,6 +1046,7 @@ sicherstellt oder ein Verfahren gleicher Wirkung.
 
 
 ### § 21 Betriebseigene Kontrollen und Nachweise
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002102124)
 
 (1) Wer Primärerzeugnisse tierischen Ursprungs be- oder verarbeitet,
 hat zu überprüfen, ob
@@ -1067,6 +1102,7 @@ sind, auf Verlangen der zuständigen Behörde auszudrucken.
 
 
 ### § 22 Verbote und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002204128)
 
 (1) Es ist verboten,
 
@@ -1093,10 +1129,12 @@ Verbraucher abzugeben.
 
 
 ## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000601124)
 
 
 
 ### § 23 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002306128)
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
@@ -1174,6 +1212,7 @@ Futtermittelgesetzbuches wird bestraft, wer
 
 
 ### § 24 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002405128)
 
 (1) Wer eine in § 23 Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 60 Absatz 1 des Lebensmittel- und
@@ -1355,14 +1394,17 @@ vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNG000801124)
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE004102124)
 
 
 (zu § 3 Absatz 1 Satz 1 Nummer 1 und 2)
 
 ### Anlage 1 Anforderungen an die Abgabe kleiner Mengen von Fischereierzeugnissen oder von lebenden Muscheln
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002501124)
 
 (Fundstelle: BGBl. I 2018, 491)
 
@@ -1475,6 +1517,7 @@ vorsätzlich oder fahrlässig
 (zu § 3 Absatz 1 Satz 1 Nummer 3)
 
 ### Anlage 2 Anforderungen an die Abgabe kleiner Mengen von Eiern
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002601124)
 
 (Fundstelle: BGBl. I 2018, 492)
 
@@ -1495,6 +1538,7 @@ Beim Umgang mit Eiern sind folgende Anforderungen einzuhalten:
 (zu § 3 Absatz 1 Satz 1 Nummer 4)
 
 ### Anlage 3 Anforderungen an die Abgabe kleiner Mengen von Fleisch von Geflügel oder Hasentieren
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002702124)
 
 (Fundstelle: BGBl. I 2018, 493)
 
@@ -1533,6 +1577,7 @@ diese Einrichtungen vorhanden sind.
 Absatz 2 Satz 1)
 
 ### Anlage 4 Anforderungen an die Abgabe kleiner Mengen von erlegtem Wild oder Fleisch von erlegtem Wild
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002802124)
 
 (Fundstelle: BGBl. I 2018, 494)
 
@@ -1668,6 +1713,7 @@ Absatz 2 Satz 1)
 (zu § 7 Satz 1)
 
 ### Anlage 5 Anforderungen an die Herstellung oder Behandlung von Lebensmitteln tierischen Ursprungs im Einzelhandel
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE002905119)
 
 (Fundstelle: BGBl. I 2018, 495 - 499)
 
@@ -2264,6 +2310,7 @@ Verfahrenspraxis anwenden und dies dokumentieren.
 
 
 ### Anlage 6 (zu § 9 Absatz 1 Satz 2 Nummer 1)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003002124)
 
 (Fundstelle: BGBl. I 2018, 500 - 501)
 
@@ -4492,6 +4539,7 @@ Portionen)**
 (zu § 10 Absatz 2)
 
 ### Anlage 7 Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nummer 1 in Verbindung mit Nummer 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003102124)
 
 (Fundstelle: BGBl. I 2018, 516)
 
@@ -4670,6 +4718,7 @@ II. Standarderklärung
 (zu § 12)
 
 ### Anlage 8 Muster
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003202128)
 
 (Fundstelle: BGBl. I 2018, 517 - 518
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4760,6 +4809,7 @@ der Verordnung (EG) Nr. 853/2004**
 (zu § 2b Absatz 2, § 4 Absatz 3 und § 4a)
 
 ### Anlage 8a Wildursprungsschein für Untersuchung auf Trichinen im Falle der Trichinenprobenahme durch den Jäger (§ 6 Absatz 2 der Tierische Lebensmittel-Überwachungsverordnung)
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE004202119)
 
 (Fundstelle: BGBl. I 2018, 519)
 
@@ -4886,6 +4936,7 @@ der Verordnung (EG) Nr. 853/2004**
 (zu § 13a)
 
 ### Anlage 8b Gebiet, in dem abweichend von Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt V Kapitel III Nummer 1 Satz 2 Buchstabe a der Verordnung (EG) Nr. 853/2004 Hackfleisch aus nicht gekühltem Fleisch hergestellt und in den Verkehr gebracht werden darf
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE004301124)
 
 (Fundstelle: BGBl. I 2018, 520)
 
@@ -4921,6 +4972,7 @@ der Verordnung (EG) Nr. 853/2004**
 Absatz 3 Nummer 4)
 
 ### Anlage 9 Anforderungen an Vorzugsmilch
+[Direktlink](https://www.gesetze-im-internet.de/tier-lmhv/BJNR182800007.html#BJNR182800007BJNE003301124)
 
 (Fundstelle: BGBl. I 2018, 521 - 523)
 

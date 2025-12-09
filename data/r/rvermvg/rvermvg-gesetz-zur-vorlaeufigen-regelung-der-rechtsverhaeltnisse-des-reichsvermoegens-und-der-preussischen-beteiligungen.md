@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000100314)
 
 (1) Soweit nach dem 19. April 1949 Eigentum oder sonstige
 Vermögensrechte, die dem Deutschen Reich zustanden, auf Grund
@@ -48,6 +49,7 @@ Vermögensrechte,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000200314)
 
 Soweit Eigentum und sonstige Vermögensrechte eines Unternehmens mit
 eigener Rechtspersönlichkeit, an dem das Deutsche Reich oder das
@@ -63,6 +65,7 @@ sind, gilt die Verwaltungsbefugnis als beendet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000300314)
 
 (1) Hat ein Unternehmen mit eigener Rechtspersönlichkeit, an dem das
 Deutsche Reich oder das ehemalige Land Preußen am 8. Mai 1945
@@ -96,6 +99,7 @@ notwendig ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000400314)
 
 (1) Die Wirksamkeit rechtsgeschäftlicher Verfügungen über Eigentum und
 sonstige Vermögensrechte, die unter die Bestimmungen des § 1 Abs. 1
@@ -110,6 +114,7 @@ wirksam, wenn sie der Bundesminister der Finanzen genehmigt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000500314)
 
 Die endgültige Auseinandersetzung über die unter die Bestimmungen des
 § 1 Abs. 1 fallenden Eigentums- und sonstigen Vermögensrechte sowie
@@ -120,6 +125,7 @@ Deutschland zu erlassenden Bundesgesetze.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000600314)
 
 (1) Bis zum Erlaß der gemäß Artikel 134 Abs. 4 und 135 Abs. 5 und 6
 des Grundgesetzes für die Bundesrepublik Deutschland zu erlassenden
@@ -164,11 +170,13 @@ Gemeinden (Gemeindeverbände) anzuwenden.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000700314)
 
 Der bayerische Kreis Lindau gilt als Land im Sinne des Gesetzes.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/rvermvg/BJNR004670951.html#BJNR004670951BJNE000800314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv_1994/BJNR296300994.html#BJNR296300994BJNE000100320)
 
 Auf Grund des § 1 Abs. 2 Satz 3 des Versicherungsaufsichtsgesetzes in
 der Fassung der Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S.
@@ -26,6 +27,7 @@ der Fassung der Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv_1994/BJNR296300994.html#BJNR296300994BJNE000200320)
 
 Der Niedersächsische Sparkassen- und Giroverband wird, soweit er
 Träger der Emder Zusatzversorgungskasse für Sparkassen ist, von der
@@ -33,6 +35,7 @@ Aufsicht nach dem Versicherungsaufsichtsgesetz freigestellt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vafreistv_1994/BJNR296300994.html#BJNR296300994BJNE000300320)
 
 Diese Verordnung tritt am 1. November 1994 in Kraft.
 

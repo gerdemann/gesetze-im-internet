@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE000900301)
 
 Die Hohen Vertragschließenden Seiten -
 dank der Tatsache, daß in der Deutschen Demokratischen Republik im
@@ -56,10 +57,12 @@ Bestimmungen zu schließen:
 
 
 ## Kapitel I - Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000100301)
 
 
 
 ### Art 1 Gegenstand des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001000301)
 
 (1) Die Vertragsparteien errichten eine Währungs-, Wirtschafts- und
 Sozialunion.
@@ -91,6 +94,7 @@ beruhendes umfassendes System der sozialen Sicherung.
 
 
 ### Art 2 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001100301)
 
 (1) Die Vertragsparteien bekennen sich zur freiheitlichen,
 demokratischen, föderativen, rechtsstaatlichen und sozialen
@@ -110,6 +114,7 @@ angewendet.
 
 
 ### Art 3 Rechtsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001200301)
 
 Für die Errichtung der Währungsunion und die Währungsumstellung gelten
 die in der Anlage I aufgeführten vereinbarten Bestimmungen. Bis zur
@@ -127,6 +132,7 @@ aus.
 
 
 ### Art 4 Rechtsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001300301)
 
 (1) Für die mit der Errichtung der Währungs-, Wirtschafts- und
 Sozialunion erforderliche Rechtsanpassung in der Deutschen
@@ -149,6 +155,7 @@ der Anlage VII enthaltenen Grundsätze.
 
 
 ### Art 5 Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001400301)
 
 Die Behörden der Vertragsparteien leisten sich nach Maßgabe des
 innerstaatlichen Rechts bei der Durchführung dieses Vertrags
@@ -156,6 +163,7 @@ Amtshilfe. Artikel 32 bleibt unberührt.
 
 
 ### Art 6 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001500301)
 
 (1) Wird jemand durch die öffentliche Gewalt in seinen durch diesen
 Vertrag oder in Ausführung dieses Vertrags gewährleisteten Rechten
@@ -183,6 +191,7 @@ Schiedsgerichtsbarkeit auf dem Gebiet des Privatrechts zu.
 
 
 ### Art 7 Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001600301)
 
 (1) Streitigkeiten über die Auslegung oder Anwendung dieses Vertrags
 einschließlich des Gemeinsamen Protokolls und der Anlagen werden durch
@@ -219,6 +228,7 @@ Schiedsgerichts sind in der Anlage VIII geregelt.
 
 
 ### Art 8 Gemeinsamer Regierungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001700301)
 
 Die Vertragsparteien bilden einen Gemeinsamen Regierungsausschuß. Sie
 werden in diesem Ausschuß Fragen der Durchführung des Vertrags
@@ -228,6 +238,7 @@ von Streitigkeiten gemäß Artikel 7 Absatz 1.
 
 
 ### Art 9 Vertragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001800301)
 
 Erscheinen Änderungen oder Ergänzungen dieses Vertrags erforderlich,
 um eines seiner Ziele zu verwirklichen, so werden sie zwischen den
@@ -235,10 +246,12 @@ Regierungen der Vertragsparteien vereinbart.
 
 
 ## Kapitel II - Bestimmungen über die Währungsunion
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000200301)
 
 
 
 ### Art 10 Voraussetzungen und Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE001900301)
 
 (1) Durch die Errichtung einer Währungsunion zwischen den
 Vertragsparteien ist die Deutsche Mark Zahlungsmittel,
@@ -332,10 +345,12 @@ Staatsbank der Deutschen Demokratischen Republik genutzt werden.
 
 
 ## Kapitel III - Bestimmungen über die Wirtschaftsunion
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000300301)
 
 
 
 ### Art 11 Wirtschaftspolitische Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002000301)
 
 (1) Die Deutsche Demokratische Republik stellt sicher, daß ihre
 wirtschafts- und finanzpolitischen Maßnahmen mit der Sozialen
@@ -369,6 +384,7 @@ Regierungsausschusses nach Artikel 8 herstellen.
 
 
 ### Art 12 Innerdeutscher Handel
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002100301)
 
 (1) Das zwischen den Vertragsparteien vereinbarte Berliner Abkommen
 vom 20. September 1951 wird im Hinblick auf die Währungs- und
@@ -387,6 +403,7 @@ innerdeutschen Grenze zu schaffen.
 
 
 ### Art 13 Außenwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002200301)
 
 (1) Bei der Gestaltung des freien Außenwirtschaftsverkehrs trägt die
 Deutsche Demokratische Republik den Grundsätzen eines freien
@@ -413,6 +430,7 @@ Gemeinschaften eng zusammen.
 
 
 ### Art 14 Strukturanpassung der Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002300301)
 
 Um die notwendige Strukturanpassung der Unternehmen in der Deutschen
 Demokratischen Republik zu fördern, wird die Regierung der Deutschen
@@ -430,6 +448,7 @@ für mehr Wachstum und zukunftssichere Arbeitsplätze zu schaffen.
 
 
 ### Art 15 Agrar- und Ernährungswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002400301)
 
 (1) Wegen der zentralen Bedeutung der Regelungen der Europäischen
 Gemeinschaften für die Agrar- und Ernährungswirtschaft führt die
@@ -463,6 +482,7 @@ Vertragsparteien.
 
 
 ### Art 16 Umweltschutz
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002500301)
 
 (1) Der Schutz von Menschen, Tieren und Pflanzen, Boden, Wasser, Luft,
 Klima und Landschaft sowie von Kultur- und sonstigen Sachgütern vor
@@ -496,10 +516,12 @@ Bundesrepublik Deutschland.
 
 
 ## Kapitel IV - Bestimmungen über die Sozialunion
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000400301)
 
 
 
 ### Art 17 Grundsätze der Arbeitsrechtsordnung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002600301)
 
 In der Deutschen Demokratischen Republik gelten Koalitionsfreiheit,
 Tarifautonomie, Arbeitskampfrecht, Betriebsverfassung,
@@ -509,6 +531,7 @@ Gemeinsamen Protokoll über die Leitsätze und den Anlagen II und III.
 
 
 ### Art 18 Grundsätze der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002700301)
 
 (1) Die Deutsche Demokratische Republik führt ein gegliedertes System
 der Sozialversicherung ein, für das folgende Grundsätze gelten:
@@ -578,6 +601,7 @@ Deutschland festgelegt.
 
 
 ### Art 19 Arbeitslosenversicherung und Arbeitsförderung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002800301)
 
 Die Deutsche Demokratische Republik führt ein System der
 Arbeitslosenversicherung einschließlich Arbeitsförderung ein, das den
@@ -592,6 +616,7 @@ einschließlich Arbeitsförderung eng zusammenarbeiten.
 
 
 ### Art 20 Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE002900301)
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen
 Maßnahmen ein, um ihr Rentenrecht an das auf dem Grundsatz der Lohn-
@@ -649,6 +674,7 @@ Zeiten.
 
 
 ### Art 21 Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003000301)
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen
 Maßnahmen ein, um ihr Krankenversicherungsrecht an das der
@@ -680,6 +706,7 @@ Mitteln des Staatshaushalts und nicht aus Beitragsmitteln finanziert.
 
 
 ### Art 22 Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003100301)
 
 (1) Die medizinische Betreuung und der Schutz der Gesundheit der
 Menschen sind besonderes Anliegen der Vertragsparteien.
@@ -702,6 +729,7 @@ Rahmenbedingungen schaffen.
 
 
 ### Art 23 Renten der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003200301)
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen
 Maßnahmen ein, um ihr Unfallversicherungsrecht an das der
@@ -721,6 +749,7 @@ Unfall festgesetzt.
 
 
 ### Art 24 Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003300301)
 
 Die Deutsche Demokratische Republik führt ein System der Sozialhilfe
 ein, das dem Sozialhilfegesetz der Bundesrepublik Deutschland
@@ -728,6 +757,7 @@ entspricht.
 
 
 ### Art 25 Anschubfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003400301)
 
 Soweit in einer Übergangszeit in der Arbeitslosenversicherung der
 Deutschen Demokratischen Republik die Beiträge und in der
@@ -739,14 +769,17 @@ Rahmen der nach Artikel 28 zugesagten Haushaltshilfe.
 
 
 ## Kapitel V - Bestimmungen über den Staatshaushalt und die Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000500301)
 
 
 
 ### 1. Abschnitt - Staatshaushalt
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000600301)
 
 
 
 #### Art 26 Grundsätze für die Finanzpolitik der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003500301)
 
 (1) Die öffentlichen Haushalte in der Deutschen Demokratischen
 Republik werden von der jeweiligen Gebietskörperschaft grundsätzlich
@@ -820,6 +853,7 @@ Staatshaushalts in der Deutschen Demokratischen Republik zu nutzen.
 
 
 #### Art 27 Kreditaufnahme und Schulden
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003600301)
 
 (1) Die Kreditermächtigungen in den Haushalten der
 Gebietskörperschaften der Deutschen Demokratischen Republik werden für
@@ -852,6 +886,7 @@ aufgenommene Kredite verbleiben bei diesen.
 
 
 #### Art 28 Finanzzuweisungen der Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003700301)
 
 (1) Die Bundesrepublik Deutschland gewährt der Deutschen
 Demokratischen Republik zweckgebundene Finanzzuweisungen zum
@@ -881,6 +916,7 @@ getroffen.
 
 
 #### Art 29 Übergangsregelung im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003800301)
 
 Die Regierung der Deutschen Demokratischen Republik gewährleistet
 unter Beachtung von Artikel 2 Absatz 1 Satz 1, daß in Tarifverträgen
@@ -893,10 +929,12 @@ Bundespersonalvertretungsgesetz findet sinngemäß Anwendung.
 
 
 ### 2. Abschnitt - Finanzen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000700301)
 
 
 
 #### Art 30 Zölle und besondere Verbrauchsteuern
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE003900301)
 
 (1) Die Deutsche Demokratische Republik übernimmt schrittweise im
 Einklang mit dem Grundsatz in Artikel 11 Absatz 3 das Zollrecht der
@@ -922,6 +960,7 @@ Erhebungsgebiete gewährt.
 
 
 #### Art 31 Besitz- und Verkehrsteuern
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004000301)
 
 (1) Die Deutsche Demokratische Republik regelt die Besitz- und
 Verkehrsteuern nach Maßgabe der Anlage IV.
@@ -973,6 +1012,7 @@ anderen Vertragspartei.
 
 
 #### Art 32 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004100301)
 
 (1) Die Vertragsparteien tauschen die Informationen aus, die zur
 Durchführung ihres Abgaben- und Monopolrechts erforderlich sind.
@@ -1010,6 +1050,7 @@ Gerichtsentscheidung offenlegen.
 
 
 #### Art 33 Konsultationsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004200301)
 
 (1) Die Vertragsparteien werden sich bemühen, bei den Besitz- und
 Verkehrsteuern eine Doppelbesteuerung durch Verständigung über eine
@@ -1026,6 +1067,7 @@ Republik unmittelbar miteinander verkehren.
 
 
 #### Art 34 Aufbau der Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004300301)
 
 (1) Die Deutsche Demokratische Republik schafft die Rechtsgrundlagen
 für eine dreistufige Finanzverwaltung entsprechend dem Gesetz über die
@@ -1039,10 +1081,12 @@ aufgebaut.
 
 
 ## Kapitel VI - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNG000800301)
 
 
 
 ### Art 35 Völkerrechtliche Verträge
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004400301)
 
 Dieser Vertrag berührt nicht die von der Bundesrepublik Deutschland
 oder der Deutschen Demokratischen Republik mit dritten Staaten
@@ -1050,12 +1094,14 @@ abgeschlossenen völkerrechtlichen Verträge.
 
 
 ### Art 36 Überprüfung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004500301)
 
 Die Bestimmungen dieses Vertrags werden bei grundlegender Änderung der
 gegebenen Umstände überprüft.
 
 
 ### Art 37 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004600301)
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser
 Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
@@ -1063,6 +1109,7 @@ Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
 
 
 ### Art 38 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004700301)
 
 Dieser Vertrag einschließlich des Gemeinsamen Protokolls sowie der
 Anlagen I-IX tritt an dem Tag in Kraft, an dem die Regierungen der
@@ -1072,6 +1119,7 @@ für das Inkrafttreten erfüllt sind.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004800301)
 
 
 *    *
@@ -1094,6 +1142,7 @@ für das Inkrafttreten erfüllt sind.
 
 
 ### (XXXX) Gemeinsames Protokoll über Leitsätze
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE004900301)
 
 In Ergänzung des Vertrags über die Schaffung einer Währungs-,
 Wirtschafts- und Sozialunion haben die Hohen Vertragschließenden
@@ -1461,6 +1510,7 @@ B. Leitsätze für einzelne Rechtsgebiete
 
 
 ### Anlagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005000301)
 
 
 *
@@ -1513,11 +1563,13 @@ B. Leitsätze für einzelne Rechtsgebiete
 
 
 ### Anlage I Bestimmungen über die Währungsunion und über die Währungsumstellung
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005100301)
 
 -
 
 
 ### Anlage II Von der Deutschen Demokratischen Republik in Kraft zu setzende Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005200301)
 
 
 **I.** **Allgemeines**
@@ -1793,6 +1845,7 @@ B. Leitsätze für einzelne Rechtsgebiete
 
 
 ### Anlage III Von der Deutschen Demokratischen Republik aufzuhebende oder zu ändernde Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005300301)
 
 Die Deutsche Demokratische Republik gewährleistet, daß nachfolgende
 Rechtsvorschriften nach Maßgabe dieser Anlage bis zum Inkrafttreten
@@ -2456,6 +2509,7 @@ des Vertrags aufgehoben oder geändert werden.
 
 
 ### Anlage IV Von der Deutschen Demokratischen Republik neu zu erlassende Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005400301)
 
 Die Deutsche Demokratische Republik wird zur Durchführung der
 Währungs-, Wirtschafts- und Sozialunion bis zum Inkrafttreten des
@@ -2746,6 +2800,7 @@ erlassen:
 
 
 ### Anlage V Von der Bundesrepublik Deutschland zu ändernde Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005500301)
 
 Die Bundesrepublik Deutschland wird zur Durchführung der Währungs-,
 Wirtschafts- und Sozialunion bis zum Inkrafttreten des Vertrags eine
@@ -3232,6 +3287,7 @@ aufgeführten Gesetzen, erlassen:
 
 
 ### Anlage VI Regelungen, die in der Deutschen Demokratischen Republik im weiteren Verlauf anzustreben sind
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005600301)
 
 Im Verlauf der Errichtung der Währungs-, Wirtschafts- und Sozialunion
 sind folgende weitere Regelungen in der Deutschen Demokratischen
@@ -3292,6 +3348,7 @@ Republik anzustreben:
 
 
 ### Anlage VII Grundsätze für die Übermittlung personenbezogener Informationen zur Durchführung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005700301)
 
 Bei der Übermittlung personenbezogener Informationen zur Durchführung
 des Vertrags werden die Vertragsparteien entsprechend Artikel 4 Abs. 3
@@ -3347,11 +3404,13 @@ personenbezogener Daten vom 28. Januar 1981 beachtet.
 
 
 ### Anlage VIII Allgemeine Verfahrensvorschriften für das Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005800301)
 
 -
 
 
 ### Anlage IX Möglichkeiten des Eigentumserwerbs privater Investoren an Grund und Boden sowie an Produktionsmitteln zur Förderung gewerblicher arbeitsplatzschaffender Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE005900301)
 
 Die Gewährleistung des Eigentums privater Investoren an Grund und
 Boden sowie an Produktionsmitteln gemäß Artikel 2 des Vertrags
@@ -3417,6 +3476,7 @@ Schritte unternommen:
 
 
 ### (XXXX) Protokollerklärungen
+[Direktlink](https://www.gesetze-im-internet.de/wwsuvtr/BJNR205370990.html#BJNR205370990BJNE006000301)
 
 Bei Unterzeichnung des Vertrags über die Schaffung einer Währungs-,
 Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland

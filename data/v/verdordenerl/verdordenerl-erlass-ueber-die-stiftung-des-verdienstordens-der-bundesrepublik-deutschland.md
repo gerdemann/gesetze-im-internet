@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/verdordenerl/BJNR008310951.html#BJNR008310951BJNE000100304)
 
 (1) In dem Wunsche, verdienten Männern und Frauen des deutschen Volkes
 und des Auslandes Anerkennung und Dank sichtbar zum Ausdruck zu
@@ -35,6 +36,7 @@ des Verdienstordens werden in einem Statut festgelegt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/verdordenerl/BJNR008310951.html#BJNR008310951BJNE000200304)
 
 Der Bundespräsident
 Der Bundeskanzler

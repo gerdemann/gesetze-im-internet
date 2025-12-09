@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
@@ -32,6 +33,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000200000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die
 durch die berufliche Fortbildung zum Geprüften Tierpflegemeister/zur
@@ -89,6 +91,7 @@ tragen und folgende Aufgaben wahrzunehmen:
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000300000)
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist
 zuzulassen, wer Folgendes nachweist:
@@ -137,6 +140,7 @@ erworben wurden, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Inhalt und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000400000)
 
 (1) Die Qualifikation zum Geprüften Tierpflegemeister/zur Geprüften
 Tierpflegemeisterin umfasst:
@@ -179,6 +183,7 @@ zu erbringen.
 
 
 ## § 4 Grundlegende Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000500000)
 
 (1) Der Prüfungsteil „Grundlegende Qualifikationen“ ist in folgenden
 Prüfungsbereichen zu prüfen:
@@ -325,6 +330,7 @@ gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000601128)
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ ist in
 folgenden Handlungsfeldern zu prüfen:
@@ -753,6 +759,7 @@ prüfende Person.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbereiche des
@@ -767,6 +774,7 @@ den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten von Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -801,6 +809,7 @@ arithmetische Mittel zu berechnen.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -867,6 +876,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -892,6 +902,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -907,6 +918,7 @@ Ergebnis der letzten Prüfung.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001001128)
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2011
 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag
@@ -918,6 +930,7 @@ beantragt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001101128)
 
 Diese Verordnung tritt am 1. April 2009 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -928,6 +941,7 @@ Oktober 2007 (BGBl. I S. 2461) geändert worden ist, außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2316 – 2317)
 
@@ -1229,6 +1243,7 @@ Oktober 2007 (BGBl. I S. 2461) geändert worden ist, außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tierpflmstrv_2009/BJNR051300009.html#BJNR051300009BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2317 – 2318)
 

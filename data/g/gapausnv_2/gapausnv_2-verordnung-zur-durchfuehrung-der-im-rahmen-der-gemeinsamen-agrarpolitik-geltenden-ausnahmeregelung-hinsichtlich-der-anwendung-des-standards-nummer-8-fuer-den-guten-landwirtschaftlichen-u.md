@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet, in
 Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom
@@ -71,6 +72,7 @@ Dezember 2021 (BGBl. I S. 5176), auf Grund des
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000200000)
 
 Diese Verordnung dient der Durchführung der Durchführungsverordnung
 (EU) 2024/587 der Kommission vom 12. Februar 2024 zur Ermöglichung
@@ -85,6 +87,7 @@ geltenden Fassung.
 
 
 ## § 2 Zusätzliche Anrechnungsmöglichkeit für Flächen mit stickstoffbindenden Pflanzen oder Zwischenfrüchten
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000300000)
 
 Zur Erfüllung der Verpflichtung nach § 11 des GAP-Konditionalitäten-
 Gesetzes in Verbindung mit § 19 der GAP-Konditionalitäten-Verordnung
@@ -107,6 +110,7 @@ sein.
 
 
 ## § 3 Berücksichtigung bei Öko-Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000400000)
 
 Flächen, die von einem Betriebsinhaber zur Erfüllung der in § 2 Satz 1
 Nummer 1 genannten Verpflichtung herangezogen werden und die
@@ -119,6 +123,7 @@ das Antragsjahr 2024 die Bestimmungen für brachliegendes Ackerland.
 
 
 ## § 4 Ergänzende Angaben im Sammelantrag
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000500000)
 
 Sofern ein Betriebsinhaber im Sammelantrag für das Jahr 2024 Flächen
 nach § 2 Satz 1 zur Erfüllung der dort genannten Verpflichtung angibt,
@@ -127,11 +132,13 @@ GAPInVeKoS-Verordnung bezeichneten Einzelheiten zu übermitteln.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv_2/BJNR0850A0024.html#BJNR0850A0024BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

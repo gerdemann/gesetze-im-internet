@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Anlage I Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000102123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -307,6 +308,7 @@ wiederum vertreten durch seinen Präsidenten
 
 
 ## § 1 Gegenstand der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000201123)
 
    (1) Diese Prüfvereinbarung („Vereinbarung“) regelt auf der Grundlage
 von § 10 des Mautsystemgesetzes (MautSysG) und § 4d des
@@ -335,6 +337,7 @@ enthaltenen Definitionen.
 
 
 ## § 2 Vertragsbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000302123)
 
 (1) Bestandteile dieses Vertrags sind
 
@@ -392,6 +395,7 @@ enthaltenen Definitionen.
 
 
 ## § 3 Ablauf des Prüfverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000401123)
 
 Der Ablauf des Prüfverfahrens für das EETS-Gebiet BFStrMG ist im
 BFStrMG und in der Verordnung über die Zulassung von Anbietern
@@ -400,6 +404,7 @@ Bundesfernstraßenmautgesetz (EEMD-ZV) festgelegt.
 
 
 ## § 4 Zeit- und Projektplan
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000501123)
 
 (1) Nach Abschluss dieser Vereinbarung werden Anbieter und Mauterheber
 für das Verfahren zur Feststellung der Gebrauchstauglichkeit und für
@@ -426,6 +431,7 @@ obliegenden Verpflichtungen erfüllt hat.
 
 
 ## § 5 Austausch von Daten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000602123)
 
 (1) Nach Abschluss dieser Vereinbarung tauschen die Parteien nach
 Maßgabe des Zeit- und Projektplans die zum Nachweis der Erfüllung der
@@ -488,6 +494,7 @@ gestellt hat.
 
 
 ## § 6 Mauterhebung und Mautauskehr
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000701123)
 
 (1) Der Anbieter ist im Rahmen des Prüfverfahrens nur nach
 schriftlicher Erlaubnis des Mauterhebers und nur in dem in der
@@ -506,6 +513,7 @@ Mauteinnahmen nicht gefährdet ist.
 
 
 ## § 7 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000802123)
 
 (1) Der Anbieter wird dem Mauterheber unverzüglich nach Abschluss
 dieser Vereinbarung die Garantieerklärung einer Bank oder den Nachweis
@@ -564,6 +572,7 @@ vorgelegt hat.
 
 
 ## § 8 Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE000902123)
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieser
 Vereinbarung ausgeführten Tätigkeiten auf eigene Kosten eine
@@ -624,6 +633,7 @@ nur mit vorheriger Zustimmung des Mauterhebers zulässig.
 
 
 ## § 9 Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001001123)
 
 Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche
 Zustimmung des Mauterhebers Rechte aus dieser Vereinbarung an Dritte
@@ -635,12 +645,14 @@ Zustimmung steht im freien Ermessen des Mauterhebers.
 
 
 ## § 10 Entgeltpflicht
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001101123)
 
 Der Anbieter trägt die Kosten für die Durchführung des Prüfverfahrens.
 Das Entgelt bestimmt sich nach der Entgeltordnung (Anlage 5).
 
 
 ## § 11 Sicherstellung der Rückwirkungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001201123)
 
 (1) Der Anbieter ist verpflichtet, die Rückwirkungsfreiheit der
 verwendeten Systeme und eingebrachten Komponenten im Hinblick auf die
@@ -662,6 +674,7 @@ ausgeschlossen ist.
 
 
 ## § 12 Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001301123)
 
 (1) Anbieter und Mauterheber sowie die von diesen hinzugezogenen
 Personen und Unternehmen, insbesondere der nationale Betreiber, der
@@ -681,6 +694,7 @@ dass nicht unerhebliche Störungen ausgeschlossen sind.
 
 
 ## § 13 Finanzielle Ausstattung des Anbieters
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001401123)
 
 Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm
 diejenigen Unterlagen zur Information vorzulegen, die er zum Nachweis
@@ -695,6 +709,7 @@ einer amtlich beglaubigten Übersetzung vorzulegen.
 
 
 ## § 14 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001501123)
 
 (1) Der Anbieter stellt sicher, dass er bei der Durchführung des
 Prüfverfahrens jederzeit alle Anforderungen des Datenschutzes erfüllt.
@@ -736,6 +751,7 @@ Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
 
 ## § 15 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001602123)
 
 (1) Der Anbieter wird seine Datensysteme und Schnittstellen so
 ausgestalten, dass während des Prüfverfahrens zu jeder Zeit und
@@ -807,6 +823,7 @@ Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
 
 ## § 16 Aufbewahrung von vertraulichen Daten
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001702123)
 
 (1) Vertrauliche Daten sind bis zu ihrer Vernichtung, Löschung oder
 Rückgabe sicher aufzubewahren bzw. zu speichern und vor dem Ein- und
@@ -851,6 +868,7 @@ entsprechend.
 
 
 ## § 17 Geheimhaltung und Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001802123)
 
 (1) Die Parteien werden alle Daten, die ihnen vor Beginn oder während
 der Durchführung des Prüfverfahrens zur Verfügung gestellt werden oder
@@ -949,6 +967,7 @@ Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
 
 ## § 18 Gewerbliche Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE001901123)
 
 (1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche
 Schutzrechte und Urheberrechte (gemeinsam: „Schutzrechte“) des
@@ -981,6 +1000,7 @@ Pflicht gemäß Satz 2 ein.
 
 
 ## § 19 Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002001123)
 
 (1) Jede Partei bleibt unabhängig von Art und Umfang des
 Zusammenwirkens von Einrichtungen und Gegenständen der Parteien
@@ -997,6 +1017,7 @@ Bundes- oder Landesverwaltungen zu treffen bzw. abzuschließen.
 
 
 ## § 20 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002102123)
 
 (1) Der Anbieter haftet bei Verletzung gesetzlicher oder vertraglicher
 Verpflichtungen nach den allgemeinen gesetzlichen Bestimmungen für
@@ -1077,6 +1098,7 @@ Regelung dieses Paragraphen unberührt.
 
 
 ## § 21 Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002201123)
 
 (1) Der Anbieter stellt den Mauterheber, die beim Mauterheber
 beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im
@@ -1103,6 +1125,7 @@ erfolgen auf erstes Anfordern.
 
 
 ## § 22 Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002301123)
 
 (1) Für jeden schuldhaften Verstoß gegen die Regelungen zum
 Datenschutz gemäß § 14, zur Datensicherheit gemäß § 15 und zur
@@ -1123,6 +1146,7 @@ angerechnet, wenn und soweit sie auf demselben Sachverhalt beruhen.
 
 
 ## § 23 Beginn und Beendigung der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002402123)
 
 (1) Diese Vereinbarung tritt am Tag ihrer Unterzeichnung durch beide
 Parteien in Kraft.
@@ -1214,6 +1238,7 @@ Einschreiben/Rückschein zuzustellen.
 
 
 ## § 24 Anpassungen der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002501123)
 
 (1) Der Anbieter ist verpflichtet, mit dem Mauterheber diejenigen
 Änderungen und/oder Ergänzungen zu dieser Vereinbarung zu vereinbaren,
@@ -1231,6 +1256,7 @@ Rechte und Pflichten der Parteien für den entsprechenden Zeitraum.
 
 
 ## § 25 Streitbeilegung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002601123)
 
 (1) Den Parteien steht es frei, im Falle von Streitigkeiten über den
 Inhalt oder die Auslegung dieser Vereinbarung die Vermittlungsstelle
@@ -1242,6 +1268,7 @@ Deutschland oder auf Ebene der Europäischen Union.
 
 
 ## § 26 Anwendbares Recht und Gerichtsstand
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002701123)
 
 (1) Diese Vereinbarung und ihre Auslegung unterliegen deutschem Recht.
 
@@ -1249,6 +1276,7 @@ Deutschland oder auf Ebene der Europäischen Union.
 
 
 ## § 27 Schriftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002802123)
 
 (1) Sämtliche Mitteilungen gemäß oder im Zusammenhang mit dieser
 Vereinbarung sind in Textform und in deutscher Sprache abzufassen und
@@ -1280,6 +1308,7 @@ unverzüglich mitteilen.
 
 
 ## § 28 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE002901123)
 
 Änderungen und Ergänzungen dieser Vereinbarung bedürfen der
 Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich
@@ -1290,6 +1319,7 @@ Sprache abzufassen.
 
 
 ## § 29 Salvatorische Klausel
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003001123)
 
 Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam oder
 undurchführbar sein, so berührt dies nicht die Wirksamkeit der übrigen
@@ -1303,10 +1333,12 @@ Unterschriften
 
 
 ## (XXXX) Anlagen:
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003101123)
 
 
 
 ## Anlage 1 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003201123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -1316,6 +1348,7 @@ Unterschriften
 
 
 ## Anlage 2 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003304123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -2676,6 +2709,7 @@ anfallenden Prüfdokumente und Prüfdaten fünf Jahre archivieren.
 
 
 ## Anlage 3 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003405123)
 
 (Fundstelle: BAnz AT 29.10.2021 V2)
 
@@ -11420,6 +11454,7 @@ Prüfspezifikation „Probebetrieb“ detailliert und konkretisiert.
 [^bjne60862001bjne003403123_03_BJNR608620018BJNE003405123]: 
 
 ## Anlage 4 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003501123)
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 
@@ -11429,6 +11464,7 @@ Prüfspezifikation „Probebetrieb“ detailliert und konkretisiert.
 
 
 ## Anlage 5 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003602123)
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 
@@ -11562,6 +11598,7 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 
 ## Anlage 6 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003702123)
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 
@@ -11828,6 +11865,7 @@ Ermessen des Mauterhebers anteilig zu entrichten.
 
 
 ## Anlage 7 zur Prüfvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/eemd-zvanl_i/BJNR608620018.html#BJNR608620018BJNE003801123)
 
 (Fundstelle: BAnz AT 29.10.2021 V 2)
 

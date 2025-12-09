@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet aufgrund des § 12 des
 Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955,
@@ -26,6 +27,7 @@ Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955,
 
 
 ## § 1 Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2018
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000200000)
 
 Für das Ausgleichsjahr 2018 werden als Länderanteile an der
 Umsatzsteuer festgestellt:
@@ -114,6 +116,7 @@ Umsatzsteuer festgestellt:
 
 
 ## § 2 Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2018
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000300000)
 
 Für das Ausgleichsjahr 2018 wird der Finanzausgleich unter den Ländern
 wie folgt festgestellt:
@@ -212,6 +215,7 @@ wie folgt festgestellt:
 
 
 ## § 3 Abschlusszahlungen für 2018
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000400000)
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und
 den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach
@@ -314,6 +318,7 @@ Verordnung fällig:
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000500000)
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Erste Verordnung zur Durchführung des
@@ -322,6 +327,7 @@ Finanzausgleichsgesetzes im Ausgleichsjahr 2018 vom 26. März 2018
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2018dv_2/BJNR0DF0A0025.html#BJNR0DF0A0025BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000100319)
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (Bundesgesetzbl. I S. 1112), geändert durch das Gesetz zur
@@ -27,6 +28,7 @@ Sozialordnung verordnet:
 
 
 ## § 1 Aufhebung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000200319)
 
 Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
@@ -328,6 +330,7 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 
 ## § 2 Besitzstandswahrung
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000300319)
 
 Personen, die vor Inkrafttreten der Verordnung in einem der in § 1
 genannten Ausbildungsberufe ausgebildet worden sind oder im Zeitpunkt
@@ -337,6 +340,7 @@ fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000400319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 112 des
@@ -344,17 +348,20 @@ Berufsbildungsgesetzes auch im Land Berlin.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000500319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE000600319)
 
 Der Bundesminister für Wirtschaft und Finanzen
 
 Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 889, 1135)
+[Direktlink](https://www.gesetze-im-internet.de/ausbberaufhv/BJNR014590972.html#BJNR014590972BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

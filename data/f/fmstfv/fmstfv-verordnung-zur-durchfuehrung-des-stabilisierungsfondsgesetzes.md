@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000100000)
 
 Auf Grund des § 4 Abs. 2 Satz 1 in Verbindung mit § 3a Abs. 5 Satz 1,
 des § 4 Abs. 4 Satz 1, des § 6 Abs. 4, des § 7 Abs. 3, des § 8 Abs. 2
@@ -28,6 +29,7 @@ und des § 10 Abs. 2 des Finanzmarktstabilisierungsfondsgesetzes vom
 
 
 ## § 1 Verwaltung des Finanzmarktstabilisierungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000204123)
 
 (1) Der Bundesrepublik Deutschland – Finanzagentur GmbH
 (Finanzagentur) wird mit Inkrafttreten dieser Verordnung die
@@ -117,6 +119,7 @@ nach Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 
 ## § 2 Garantieübernahme
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000304123)
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors
 oder einer Zweckgesellschaft, die Risikopositionen eines solchen
@@ -188,6 +191,7 @@ Hierbei gelten folgende Maßgaben:
 
 
 ## § 3 Rekapitalisierung
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000402140)
 
 (1) Der Fonds kann sich auf Antrag eines Unternehmens des
 Finanzsektors in jeder geeigneten Form an dessen Rekapitalisierung
@@ -226,6 +230,7 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
 
 ## § 4 Risikoübernahme
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000503116)
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors
 oder einer Zweckgesellschaft, die Risikopositionen eines solchen
@@ -294,6 +299,7 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
 
 ## § 5 Bedingungen für Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000606123)
 
 (1) An Unternehmen des Finanzsektors, die Stabilisierungsmaßnahmen des
 Fonds in Anspruch nehmen, sollen Anforderungen gestellt werden, um
@@ -445,6 +451,7 @@ Berücksichtigung des Andauerns der Finanzmarktkrise gestaltet werden.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fmstfv/BJNR612300008.html#BJNR612300008BJNE000700000)
 
 Diese Verordnung tritt unmittelbar mit ihrer Verkündung in Kraft.
 

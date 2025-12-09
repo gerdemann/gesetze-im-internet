@@ -22,22 +22,26 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000100327)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000200327)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000301308)
 
 (weggefallen)
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000400327)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -71,6 +75,7 @@ Regelungen getroffen werden:
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000500327)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -79,6 +84,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkmarg/BJNR205500986.html#BJNR205500986BJNE000600327)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

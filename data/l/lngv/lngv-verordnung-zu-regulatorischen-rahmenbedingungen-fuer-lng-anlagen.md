@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 24 Satz 2 dieser V mit Ablauf des 31.12.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000100000)
 
 Auf Grund des § 118a Satz 1 des Energiewirtschaftsgesetzes vom 7. Juli
 2005 (BGBl. I S. 1970, 3621) in Verbindung mit § 1 der § 118a EnWG-
@@ -29,9 +30,11 @@ Gas, Telekommunikation, Post und Eisenbahnen:
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000300000)
 
 Diese Verordnung bestimmt die regulatorischen Rahmenbedingungen für
 den Zugang einschließlich der Entgelte zu sowohl ortsfesten als auch
@@ -45,6 +48,7 @@ Energiewirtschaftsgesetzes befristet ausgenommen sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -76,12 +80,15 @@ Im Sinne dieser Verordnung ist
 
 
 ## Teil 2 - Zugang, Kapazitätsvergabe und Kapazitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen zur Vergabe von Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000300000)
 
 
 #### § 3 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000500000)
 
 (1) Der Betreiber einer LNG-Anlage kann von potentiellen Nutzern
 seiner Anlage verlangen, dass sich diese vor der Abgabe einer
@@ -98,14 +105,17 @@ zur Vergabe ungenutzter Kapazitäten machen.
 
 
 #### § 4 Buchungsjahr
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000600000)
 
 Das Buchungsjahr entspricht dem Kalenderjahr.
 
 
 ### Abschnitt 2 - Langfristige Vergabe von Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000400000)
 
 
 #### § 5 Buchungsauflagen für langfristig Buchende
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000700000)
 
 (1) Dem Betreiber einer LNG-Anlage steht es frei, für die langfristige
 Vergabe von Kapazitäten unterschiedliche Produkte anzubieten. Alle
@@ -128,6 +138,7 @@ betragen.
 
 
 #### § 6 Verfahren der erstmaligen langfristigen Vergabe von Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000800000)
 
 (1) Der Betreiber einer LNG-Anlage hat
 
@@ -160,6 +171,7 @@ größeres Buchungsvolumen vorrangig berücksichtigt werden.
 
 
 #### § 7 Langfristige Vergabe der nach der erstmaligen langfristigen Vergabe noch freien Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE000900000)
 
 (1) Kapazitäten von LNG-Anlagen, die im Rahmen der erstmaligen
 langfristigen Vergabe nicht vergeben worden sind, muss der Betreiber
@@ -180,9 +192,11 @@ Zuweisungsmechanismus durchzuführen.
 
 
 ### Abschnitt 3 - Reservierungsquote und kurzfristige Vergabe von Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000500000)
 
 
 #### § 8 Reservierungsquote
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001000000)
 
 (1) Der Betreiber einer LNG-Anlage muss eine Reservierungsquote in
 Höhe von mindestens zehn Prozent der Jahresdurchsatzkapazität für eine
@@ -199,6 +213,7 @@ diskriminierungsfrei auszugestalten.
 
 
 #### § 9 Verfahren für die kurzfristige Vergabe von zurückgehaltenen Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001100000)
 
 (1) Die kurzfristige Vergabe von Kapazitäten hat in Form von Slots zu
 erfolgen, die möglichst gleichmäßig über das Buchungsjahr verteilt
@@ -317,9 +332,11 @@ kurzfristige Vergabe von zurückgehaltenen Kapazitäten anzugeben.
 
 
 ### Abschnitt 4 - Sekundärvermarktung von Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000600000)
 
 
 #### § 10 Recht des Nutzers zum Handel auf dem Sekundärmarkt
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001200000)
 
 Jeder Nutzer hat das Recht, seine kontrahierten Kapazitäten von LNG-
 Anlagen nach Maßgabe der folgenden Regelungen auf dem Sekundärmarkt zu
@@ -327,6 +344,7 @@ handeln.
 
 
 #### § 11 Verfahren der Sekundärvermarktung
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001300000)
 
 (1) Ein Nutzer kann seine Kapazitäten ganz oder teilweise an andere
 Nutzer übertragen. Für die Dauer des Verfahrens zur Vergabe
@@ -357,9 +375,11 @@ dem Datum der Entladung des verflüssigten Erdgases ausgeübt werden.
 
 
 ### Abschnitt 5 - Verfahren zur Vergabe ungenutzter Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000700000)
 
 
 #### § 12 Pflicht zur Anwendung eines Verfahrens zur Vergabe ungenutzter Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001400000)
 
 Der Betreiber einer LNG-Anlage ist verpflichtet, ungenutzte
 Kapazitäten von LNG-Anlagen nach Maßgabe des § 13 auf dem Markt
@@ -368,6 +388,7 @@ vorzusehen, die ihm dieses Recht einräumen.
 
 
 #### § 13 Vorgaben für das Verfahren zur Vergabe ungenutzter Kapazitäten von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001500000)
 
 (1) Das Verfahren zur Vergabe ungenutzter Kapazitäten von LNG-Anlagen
 ist anzuwenden, wenn ein Nutzer spätestens 20 Tage vor dem Datum einer
@@ -403,9 +424,11 @@ Nutzer zurückzugeben.
 
 
 ## Teil 3 - Ermittlung von Entgelten und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000800000)
 
 
 ### § 14 Grundsätze zur Bestimmung der Entgelte für den Zugang zu LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001600000)
 
 (1) Für die Genehmigung der Entgelte für den Zugang zu LNG-Anlagen
 nach § 23a Absatz 1 des Energiewirtschaftsgesetzes sind die
@@ -440,6 +463,7 @@ anzuwenden.
 
 
 ### § 15 Grundsätze der Kostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001700000)
 
 (1) Bilanzielle und kalkulatorische Kosten der LNG-Anlage sind nur
 insoweit anzusetzen, als sie den Kosten eines effizienten und
@@ -515,6 +539,7 @@ die erforderlichen Nachweise zu führen.
 
 
 ### § 16 Aufwandsgleiche Kostenpositionen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001800000)
 
 (1) Aufwandsgleiche Kostenpositionen müssen den nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes erstellten Gewinn- und Verlustrechnungen
@@ -527,6 +552,7 @@ vergleichbare Kreditaufnahmen.
 
 
 ### § 17 Kalkulatorische Abschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE001900000)
 
 (1) Zur Gewährleistung eines langfristig angelegten leistungsfähigen
 und zuverlässigen Anlagenbetriebs muss die Wertminderung der
@@ -586,6 +612,7 @@ Schuldverhältnissen anzuwenden.
 
 
 ### § 18 Kalkulatorische Eigenkapitalverzinsung
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002000000)
 
 (1) Die Verzinsung des vom Betreiber einer LNG-Anlage eingesetzten
 Eigenkapitals erfolgt im Wege einer kalkulatorischen
@@ -662,6 +689,7 @@ Weitere Zuschläge sind unzulässig.
 
 
 ### § 19 Kalkulatorische Steuern
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002100000)
 
 Im Rahmen der Ermittlung der Kosten der LNG-Anlage kann die der LNG-
 Anlage sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
@@ -669,6 +697,7 @@ Kostenposition in Ansatz gebracht werden.
 
 
 ### § 20 Kostenmindernde Erlöse und Erträge
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002200000)
 
 Sonstige Erlöse und Erträge müssen, soweit sie sachlich dem
 Anlagenbetrieb zuzurechnen und der Gewinn- und Verlustrechnung der
@@ -691,6 +720,7 @@ betrifft insbesondere:
 
 
 ### § 21 Plan-Ist-Kosten-Abgleich
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002300000)
 
 (1) Der Betreiber einer LNG-Anlage muss nach Abschluss eines
 Kalenderjahres (Kalkulationsperiode) die Differenz ermitteln zwischen
@@ -781,9 +811,11 @@ oder nicht vollständig vorgelegt wurden.
 
 
 ## Teil 4 - Dokumentations- und Berichtspflichten der Betreiber von LNG-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG000900000)
 
 
 ### § 22 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002400000)
 
 (1) Der Betreiber einer LNG-Anlage muss unverzüglich einen
 schriftlichen oder elektronischen Bericht über die Ermittlung der
@@ -831,6 +863,7 @@ Anhang muss enthalten:
 
 
 ### § 23 Berichtspflicht hinsichtlich der angelandeten Gasarten
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002500000)
 
 Der Betreiber einer LNG-Anlage ist verpflichtet, der Bundesnetzagentur
 auf Verlangen einmal jährlich darüber Bericht zu erstatten, welche
@@ -839,9 +872,11 @@ angelandet wurden.
 
 
 ## Teil 5 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNG001000000)
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lngv/BJNR632100022.html#BJNR632100022BJNE002600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 mit Ablauf des 31. Dezember 2027 außer Kraft.

@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkalbg/BJNR075520016.html#BJNR075520016BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkalbg/BJNR075520016.html#BJNR075520016BJNE000200000)
 
 Dem in Tirana am 23. September 2015 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Albanien über Soziale
@@ -32,6 +34,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkalbg/BJNR075520016.html#BJNR075520016BJNE000300000)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
@@ -60,6 +63,7 @@ werden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkalbg/BJNR075520016.html#BJNR075520016BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

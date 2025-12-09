@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000203119)
 
 (1) Diese Verordnung gilt ergänzend zu der Verordnung (EG) Nr.
 1005/2009 des Europäischen Parlaments und des Rates vom 16. September
@@ -52,6 +53,7 @@ Zuletzt geändert durch
 
 
 ## § 2 Anzeige der Verwendung von Halonen
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000303308)
 
 Wer nach Maßgabe des Artikels 13 Absatz 1 der Verordnung (EG) Nr.
 1005/2009 für die in Anhang VI der Verordnung aufgeführten kritischen
@@ -68,6 +70,7 @@ sind.
 
 
 ## § 3 Rückgewinnung und Rücknahme verwendeter Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000406124)
 
 (1) Für die Rückgewinnung von geregelten Stoffen im Sinne von Artikel
 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1
@@ -131,6 +134,7 @@ nukleare Sicherheit bekannt gegeben werden.
 
 
 ## § 4 Verhinderung des Austritts in die Atmosphäre; Dichtheitsprüfungen; Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000502308)
 
 (1) Wer Einrichtungen oder Produkte, die geregelte Stoffe im Sinne von
 Artikel 3 Nummer 4 der Verordnung (EG) Nr. 1005/2009 als Kältemittel,
@@ -180,6 +184,7 @@ Juli 2009 (BGBl. I S. 2512) geändert worden ist, gelten sinngemäß.
 
 
 ## § 5 Persönliche Voraussetzungen für bestimmte Arbeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000604308)
 
 (1) Die Rückgewinnung von geregelten Stoffen im Sinne von Artikel 3
 Nummer 4 der Verordnung (EG) Nr. 1005/2009 nach Artikel 22 Absatz 1
@@ -311,6 +316,7 @@ werden.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE000706377)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -362,5 +368,6 @@ rechtzeitig vorlegt.
 
 
 ## § 7 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/chemozonschichtv/BJNR263800006.html#BJNR263800006BJNE001002308)
 
 

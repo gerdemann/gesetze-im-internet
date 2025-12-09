@@ -18,27 +18,33 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNE000400305)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1 - Gesetz über den Bundesgrenzschutz (Bundesgrenzschutzgesetz - BGSG)
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNG000100305)
 
 
 
 ## Art 2 - Folgeänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNG000200305)
 
 
 
 ## (XXXX) §§ 1 bis 12 (Änderungsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNE000600305)
 
 
 
 ## § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNE000701377)
 
 
 
 ## Art 3 - Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgsneuregg/BJNR297809994.html#BJNR297809994BJNG000300305)
 
 (1) Dieses Gesetz tritt am 1. November 1994 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000100000)
 
 Auf Grund des § 93 Absatz 5 des Bundesbeamtengesetzes, der durch
 Artikel 11 Nummer 2 Buchstabe a des Gesetzes vom 19. November 2010
@@ -29,6 +30,7 @@ der Finanzen:
 
 
 ## § 1 Festlegung der Restrukturierungs- und Stellenabbaubereiche
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000200000)
 
 Restrukturierungs- und Stellenabbaubereiche nach § 93 Absatz 3 Satz 1
 Nummer 4 des Bundesbeamtengesetzes legt die oberste Dienstbehörde im
@@ -37,6 +39,7 @@ Haushaltsausschuss des Deutschen Bundestages fest.
 
 
 ## § 2 Ermittlung der Quote
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000300000)
 
 (1) Die Quote für die Altersteilzeit nach § 93 Absatz 4 des
 Bundesbeamtengesetzes wird jährlich für das laufende Kalenderjahr auf
@@ -67,6 +70,7 @@ wird auf ganze Zahlen abgerundet.
 
 
 ## § 3 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000400000)
 
 Altersteilzeit kann frühestens ein Jahr vor Erfüllung der
 Voraussetzungen nach § 93 Absatz 3 oder Absatz 4 des
@@ -76,6 +80,7 @@ im Teilzeitmodell bis zum Eintritt in den Ruhestand beantragt werden.
 
 
 ## § 4 Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000502116)
 
 (1) Über den Antrag auf Altersteilzeit entscheidet die Dienstbehörde
 unter Berücksichtigung der dienstlichen Belange. Beamtinnen und
@@ -98,6 +103,7 @@ Reihenfolge des Eingangs der Anträge.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000600000)
 
 Soweit vor dem Inkrafttreten dieser Verordnung Stellenabbaubereiche
 auf Grund des § 93 Absatz 1 Nummer 1 Buchstabe c des
@@ -106,6 +112,7 @@ Festlegungen fort.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/batzv/BJNR000200011.html#BJNR000200011BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

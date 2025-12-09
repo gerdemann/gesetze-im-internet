@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/BJNR002220922.html#BJNR002220922BJNE000100308)
 
 Der Reichstag hat bei der Beschlußfassung über das Gesetz über den
 Staatsvertrag, betreffend den Übergang der Wasserstraßen von den
@@ -30,6 +31,7 @@ werden.
 
 
 ## Anlage Zusatzvertrag mit Preußen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/BJNR002220922.html#BJNR002220922BJNE000200308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 50 - 51
 Die Reichsregierung und die Regierung des Landes
@@ -202,6 +204,7 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 
 ## Anlage Zusatzvertrag mit Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/BJNR002220922.html#BJNR002220922BJNE000300308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 51 - 52
 Die Reichsregierung und der Senat der Freien und Hansestadt
@@ -342,6 +345,7 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 
 ## Anlage Zusatzvertrag mit Bremen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/BJNR002220922.html#BJNR002220922BJNE000400308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 52 - 53
 Die Reichsregierung und der Senat der Freien Hansestadt
@@ -449,6 +453,7 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 
 ## Anlage Zusatzvertrag mit Lübeck
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/BJNR002220922.html#BJNR002220922BJNE000500308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 53
 Die Reichsregierung und der Senat der Freien und Hansestadt

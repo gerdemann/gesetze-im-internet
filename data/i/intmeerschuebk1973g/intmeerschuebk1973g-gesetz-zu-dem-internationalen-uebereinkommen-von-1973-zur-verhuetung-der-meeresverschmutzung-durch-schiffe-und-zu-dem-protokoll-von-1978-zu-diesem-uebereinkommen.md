@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000101307)
 
 (1) Dem in London am 4. März 1974 von der Bundesrepublik Deutschland
 unterzeichneten Internationalen Übereinkommen vom 2. November 1973 zur
@@ -40,6 +41,7 @@ zugestimmt.
 
 
 ## Art 1a
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000701307)
 
 Hoheitsbereich im Sinne des Artikels 4 Abs. 2 des Übereinkommens ist
 hinsichtlich der in Artikel 56 Abs. 1 Buchstabe b des
@@ -49,6 +51,7 @@ Wirtschaftszone.
 
 
 ## Art 1b
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000901307)
 
 Unbeschadet der Verantwortlichkeit des Eigentümers und Betreibers
 eines Seeschiffes für die Betriebssicherheitsorganisation hat der
@@ -59,6 +62,7 @@ des Übereinkommens begangen wird.
 
 
 ## Art 1c
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE001001307)
 
 Für den Anspruch, der in Artikel 7 Abs. 2 des Übereinkommens sowie in
 der in Artikel 1 Abs. 2 genannten Regelung erwähnt ist, schließt der
@@ -66,6 +70,7 @@ Ausdruck "Schiff" den Eigentümer und den Betreiber des Schiffes ein.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000208377)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird,
 vorbehaltlich der in den §§ 9 bis 9c des Seeaufgabengesetzes
@@ -81,24 +86,29 @@ eigene Angelegenheit auszuführen sind.
 
 
 ## Art 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000803310)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000301307)
 
 (Änderung des Seeaufgabengesetzes)
 
 
 ## Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000404377)
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000502307)
 
 (weggefallen)
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/intmeersch_bk1973g/BJNR200020982.html#BJNR200020982BJNE000601307)
 
 (Inkrafttreten)
 

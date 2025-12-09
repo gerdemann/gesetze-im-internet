@@ -27,10 +27,12 @@ Mittelbare änderung durch
 Stand: Berichtigung der Bek. vom 16.4.2025 I Nr. 117 ist berücksichtigt
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000102123)
 
 
 
 ### § 1 Ziele und Begriffe der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000204123)
 
 (1) Berufsbildung im Sinne dieses Gesetzes sind die
 Berufsausbildungsvorbereitung, die Berufsausbildung, die berufliche
@@ -75,6 +77,7 @@ vergleichbar, wird dies bescheinigt.
 
 
 ### § 2 Lernorte der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000302123)
 
 (1) Berufsbildung wird durchgeführt
 
@@ -103,6 +106,7 @@ der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000404123)
 
 (1) Dieses Gesetz gilt für die Berufsbildung, soweit sie nicht in
 berufsbildenden Schulen durchgeführt wird, die den Schulgesetzen der
@@ -136,18 +140,22 @@ nicht; insoweit gilt die Handwerksordnung.
 
 
 ## Teil 2 - Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000202123)
 
 
 
 ### Kapitel 1 - Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000302123)
 
 
 
 #### Abschnitt 1 - Ordnung der Berufsausbildung; Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000402123)
 
 
 
 ##### § 4 Anerkennung von Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000506123)
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung
 kann das Bundesministerium für Wirtschaft und Klimaschutz oder das
@@ -187,6 +195,7 @@ sieht eine abweichende Regelung vor.
 
 
 ##### § 5 Ausbildungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000605123)
 
 (1) Die Ausbildungsordnung hat festzulegen
 
@@ -279,6 +288,7 @@ und Bereiche festlegen.
 
 
 ##### § 6 Erprobung neuer Ausbildungs- und Prüfungsformen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000706123)
 
 Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen
 kann das Bundesministerium für Wirtschaft und Klimaschutz oder das
@@ -292,6 +302,7 @@ beschränkt werden können.
 
 
 ##### § 7 Anrechnung beruflicher Vorbildung auf die Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000804123)
 
 (1) Die Landesregierungen können nach Anhörung des Landesausschusses
 für Berufsbildung durch Rechtsverordnung bestimmen, dass der Besuch
@@ -316,6 +327,7 @@ sein.
 
 
 ##### § 7a Teilzeitberufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE000904123)
 
 (1) Die Berufsausbildung kann in Teilzeit durchgeführt werden. Im
 Berufsausbildungsvertrag ist für die gesamte Ausbildungszeit oder für
@@ -341,6 +353,7 @@ Ausbildungsdauer nach § 8 Absatz 1 verbunden werden.
 
 
 ##### § 8 Verkürzung oder Verlängerung der Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010903123)
 
 (1) Auf gemeinsamen Antrag der Auszubildenden und der Ausbildenden hat
 die zuständige Stelle die Ausbildungsdauer zu kürzen, wenn zu erwarten
@@ -365,20 +378,24 @@ Berufsbildung Empfehlungen beschließen.
 
 
 ##### § 9 Regelungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001002123)
 
 Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die
 Durchführung der Berufsausbildung im Rahmen dieses Gesetzes.
 
 
 #### Abschnitt 2 - Berufsausbildungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000502123)
 
 
 
 ##### Unterabschnitt 1 - Begründung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000602123)
 
 
 
 ###### § 10 Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001102123)
 
 (1) Wer andere Personen zur Berufsausbildung einstellt (Ausbildende),
 hat mit den Auszubildenden einen Berufsausbildungsvertrag zu
@@ -405,6 +422,7 @@ insgesamt sichergestellt ist (Verbundausbildung).
 
 
 ###### § 11 Vertragsabfassung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001205123)
 
 (1) Ausbildende haben unverzüglich nach Abschluss des
 Berufsausbildungsvertrages, spätestens vor Beginn der
@@ -477,6 +495,7 @@ und 2 entsprechend.
 
 
 ###### § 12 Nichtige Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001302123)
 
 (1) Eine Vereinbarung, die Auszubildende für die Zeit nach Beendigung
 des Berufsausbildungsverhältnisses in der Ausübung ihrer beruflichen
@@ -504,10 +523,12 @@ Beendigung mit den Ausbildenden ein Arbeitsverhältnis einzugehen.
 
 
 ##### Unterabschnitt 2 - Pflichten der Auszubildenden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000702123)
 
 
 
 ###### § 13 Verhalten während der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001404123)
 
 Auszubildende haben sich zu bemühen, die berufliche Handlungsfähigkeit
 zu erwerben, die zum Erreichen des Ausbildungsziels erforderlich ist.
@@ -545,10 +566,12 @@ Sie sind insbesondere verpflichtet,
 
 
 ##### Unterabschnitt 3 - Pflichten der Ausbildenden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000802123)
 
 
 
 ###### § 14 Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001505123)
 
 (1) Ausbildende haben
 
@@ -594,6 +617,7 @@ sind.
 
 
 ###### § 15 Freistellung, Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001604123)
 
 (1) Ausbildende dürfen Auszubildende vor einem vor 9 Uhr beginnenden
 Berufsschulunterricht nicht beschäftigen. Sie haben Auszubildende
@@ -654,6 +678,7 @@ Jugendarbeitsschutzgesetz.
 
 
 ###### § 16 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001703123)
 
 (1) Ausbildende haben den Auszubildenden bei Beendigung des
 Berufsausbildungsverhältnisses ein schriftliches Zeugnis auszustellen.
@@ -670,10 +695,12 @@ aufzunehmen.
 
 
 ##### Unterabschnitt 4 - Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG000902123)
 
 
 
 ###### § 17 Vergütungsanspruch und Mindestvergütung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001805123)
 
 (1) Ausbildende haben Auszubildenden eine angemessene Vergütung zu
 gewähren. Die Vergütung steigt mit fortschreitender Berufsausbildung,
@@ -774,6 +801,7 @@ Gewährung entsprechender Freizeit auszugleichen.
 
 
 ###### § 18 Bemessung und Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE001904123)
 
 (1) Die Vergütung bemisst sich nach Monaten. Bei Berechnung der
 Vergütung für einzelne Tage wird der Monat zu 30 Tagen gerechnet.
@@ -794,6 +822,7 @@ muss.
 
 
 ###### § 19 Fortzahlung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002003123)
 
 (1) Auszubildenden ist die Vergütung auch zu zahlen
 
@@ -822,16 +851,19 @@ abzugelten.
 
 
 ##### Unterabschnitt 5 - Beginn und Beendigung des Ausbildungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001002123)
 
 
 
 ###### § 20 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002102123)
 
 Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss
 mindestens einen Monat und darf höchstens vier Monate betragen.
 
 
 ###### § 21 Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002204123)
 
 (1) Das Berufsausbildungsverhältnis endet mit dem Ablauf der
 Ausbildungsdauer.
@@ -846,6 +878,7 @@ nächstmöglichen Wiederholungsprüfung, höchstens um ein Jahr.
 
 
 ###### § 22 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002303123)
 
 (1) Während der Probezeit kann das Berufsausbildungsverhältnis
 jederzeit ohne Einhalten einer Kündigungsfrist gekündigt werden.
@@ -875,6 +908,7 @@ Beendigung der Lauf dieser Frist gehemmt.
 
 
 ###### § 23 Schadensersatz bei vorzeitiger Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002402123)
 
 (1) Wird das Berufsausbildungsverhältnis nach der Probezeit vorzeitig
 gelöst, so können Ausbildende oder Auszubildende Ersatz des Schadens
@@ -887,10 +921,12 @@ wird.
 
 
 ##### Unterabschnitt 6 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001102123)
 
 
 
 ###### § 24 Weiterarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002502123)
 
 Werden Auszubildende im Anschluss an das Berufsausbildungsverhältnis
 beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden
@@ -898,12 +934,14 @@ ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
 
 ###### § 25 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002602123)
 
 Eine Vereinbarung, die zuungunsten Auszubildender von den Vorschriften
 dieses Teils des Gesetzes abweicht, ist nichtig.
 
 
 ###### § 26 Andere Vertragsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002704123)
 
 Soweit nicht ein Arbeitsverhältnis vereinbart ist, gelten für
 Personen, die eingestellt werden, um berufliche Fertigkeiten,
@@ -917,10 +955,12 @@ Absatz 1 Satz 1 Schadensersatz nicht verlangt werden kann.
 
 
 #### Abschnitt 3 - Eignung von Ausbildungsstätte und Ausbildungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001202123)
 
 
 
 ##### § 27 Eignung der Ausbildungsstätte
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002805123)
 
 (1) Auszubildende dürfen nur eingestellt und ausgebildet werden, wenn
 
@@ -966,6 +1006,7 @@ festsetzen.
 
 
 ##### § 28 Eignung von Ausbildenden und Ausbildern oder Ausbilderinnen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE002903123)
 
 (1) Auszubildende darf nur einstellen, wer persönlich geeignet ist.
 Auszubildende darf nur ausbilden, wer persönlich und fachlich geeignet
@@ -1012,6 +1053,7 @@ besitzt und persönlich geeignet ist.
 
 
 ##### § 29 Persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003002123)
 
 Persönlich nicht geeignet ist insbesondere, wer
 
@@ -1026,6 +1068,7 @@ Persönlich nicht geeignet ist insbesondere, wer
 
 
 ##### § 30 Fachliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003106123)
 
 (1) Fachlich geeignet ist, wer die beruflichen sowie die berufs- und
 arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt,
@@ -1109,6 +1152,7 @@ Eignung nach Anhörung der zuständigen Stelle widerruflich zuerkennen.
 
 
 ##### § 31 Europaklausel
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003203123)
 
 (1) In den Fällen des § 30 Absatz 2 und 4 besitzt die für die
 fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse
@@ -1131,6 +1175,7 @@ Eignungsprüfungen regeln.
 
 
 ##### § 31a Sonstige ausländische Vorqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010702123)
 
 In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche
 Eignung erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten, wer
@@ -1144,6 +1189,7 @@ Zeit in seinem Beruf praktisch tätig gewesen ist. § 30 Absatz 4 Nummer
 
 
 ##### § 32 Überwachung der Eignung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003302123)
 
 (1) Die zuständige Stelle hat darüber zu wachen, dass die Eignung der
 Ausbildungsstätte sowie die persönliche und fachliche Eignung
@@ -1160,6 +1206,7 @@ zuständigen Behörde mitzuteilen.
 
 
 ##### § 33 Untersagung des Einstellens und Ausbildens
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003402123)
 
 (1) Die nach Landesrecht zuständige Behörde kann für eine bestimmte
 Ausbildungsstätte das Einstellen und Ausbilden untersagen, wenn die
@@ -1174,10 +1221,12 @@ zu hören. Dies gilt nicht im Falle des § 29 Nummer 1.
 
 
 #### Abschnitt 4 - Verzeichnis der Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001302123)
 
 
 
 ##### § 34 Einrichten, Führen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003508123)
 
 (1) Die zuständige Stelle hat zur Regelung, Überwachung, Förderung und
 zum Nachweis der Berufsausbildung für anerkannte Ausbildungsberufe ein
@@ -1283,6 +1332,7 @@ der Berufsausbildung erforderlich ist, höchstens jedoch für 60 Jahre.
 
 
 ##### § 35 Eintragen, Ändern, Löschen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003607123)
 
 (1) Ein Berufsausbildungsvertrag und Änderungen seines wesentlichen
 Inhalts sind in das Verzeichnis einzutragen, wenn
@@ -1376,6 +1426,7 @@ gewährleisten.
 
 
 ##### § 36 Antrag und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003707123)
 
 (1) Ausbildende haben unverzüglich nach Abschluss des
 Berufsausbildungsvertrages die Eintragung in das Verzeichnis nach
@@ -1402,10 +1453,12 @@ auf Verlangen mitzuteilen.
 
 
 #### Abschnitt 5 - Prüfungswesen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001402123)
 
 
 
 ##### § 37 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003804123)
 
 (1) In den anerkannten Ausbildungsberufen sind Abschlussprüfungen
 durchzuführen. Die Abschlussprüfung kann im Falle des Nichtbestehens
@@ -1435,6 +1488,7 @@ zuständige Stelle die berufsschulische Leistungsfeststellung nach der
 
 
 ##### § 38 Prüfungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE003902123)
 
 Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In ihr soll der Prüfling
@@ -1446,6 +1500,7 @@ Ausbildungsordnung ist zugrunde zu legen.
 
 
 ##### § 39 Prüfungsausschüsse, Prüferdelegationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004003123)
 
 (1) Für die Durchführung der Abschlussprüfung errichtet die zuständige
 Stelle Prüfungsausschüsse. Mehrere zuständige Stellen können bei einer
@@ -1463,6 +1518,7 @@ erheblichen Tatsachen festzuhalten.
 
 
 ##### § 40 Zusammensetzung, Berufung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004103123)
 
 (1) Der Prüfungsausschuss besteht aus mindestens drei Mitgliedern. Die
 Mitglieder müssen für die Prüfungsgebiete sachkundig und für die
@@ -1531,6 +1587,7 @@ berufen werden kann.
 
 
 ##### § 41 Vorsitz, Beschlussfähigkeit, Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004202123)
 
 (1) Der Prüfungsausschuss wählt ein Mitglied, das den Vorsitz führt,
 und ein weiteres Mitglied, das den Vorsitz stellvertretend übernimmt.
@@ -1544,6 +1601,7 @@ vorsitzenden Mitglieds den Ausschlag.
 
 
 ##### § 42 Beschlussfassung, Bewertung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004304123)
 
 (1) Der Prüfungsausschuss fasst die Beschlüsse über
 
@@ -1608,6 +1666,7 @@ drei- oder dreieinhalbjährigen Ausbildungsberufs zu übernehmen.
 
 
 ##### § 42a Virtuelle Teilnahme von Prüfenden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011701123)
 
 (1) Die zuständige Stelle kann bestimmen, dass bei der Abnahme und
 Bewertung von Prüfungsleistungen, deren Bewertung die Anwesenheit der
@@ -1666,6 +1725,7 @@ ausüben können.
 
 
 ##### § 43 Zulassung zur Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004406123)
 
 (1) Zur Abschlussprüfung ist zuzulassen,
 
@@ -1709,6 +1769,7 @@ wenn er
 
 
 ##### § 44 Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004504123)
 
 (1) Sofern die Abschlussprüfung in zwei zeitlich auseinanderfallenden
 Teilen durchgeführt wird, ist über die Zulassung jeweils gesondert zu
@@ -1739,6 +1800,7 @@ zusammen mit dem zweiten Teil abzulegen.
 
 
 ##### § 45 Zulassung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004604123)
 
 (1) Auszubildende können nach Anhörung der Ausbildenden und der
 Berufsschule vor Ablauf ihrer Ausbildungszeit zur Abschlussprüfung
@@ -1772,6 +1834,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ##### § 46 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004702123)
 
 (1) Über die Zulassung zur Abschlussprüfung entscheidet die zuständige
 Stelle. Hält sie die Zulassungsvoraussetzungen nicht für gegeben, so
@@ -1783,6 +1846,7 @@ erwachsen.
 
 
 ##### § 47 Prüfungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004804123)
 
 (1) Die zuständige Stelle hat eine Prüfungsordnung für die
 Abschlussprüfung zu erlassen. Die Prüfungsordnung bedarf der
@@ -1821,6 +1885,7 @@ für die Prüfungsordnung Richtlinien.
 
 
 ##### § 48 Zwischenprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE004903123)
 
 (1) Während der Berufsausbildung ist zur Ermittlung des
 Ausbildungsstandes eine Zwischenprüfung entsprechend der
@@ -1847,6 +1912,7 @@ zuzulassen.
 
 
 ##### § 49 Zusatzqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005003123)
 
 (1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
 nach § 5 Absatz 2 Satz 1 Nummer 6 werden gesondert geprüft und
@@ -1857,6 +1923,7 @@ entsprechend.
 
 
 ##### § 50 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005105123)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz oder das
 sonst zuständige Fachministerium kann im Einvernehmen mit dem
@@ -1879,6 +1946,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 
 ##### § 50a Gleichwertigkeit ausländischer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010802123)
 
 Ausländische Berufsqualifikationen stehen einer bestandenen Aus- oder
 Fortbildungsprüfung nach diesem Gesetz gleich, wenn die
@@ -1888,10 +1956,12 @@ festgestellt wurde.
 
 
 #### Abschnitt 6 - Feststellung und Bescheinigung der individuellen beruflichen Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003501123)
 
 
 
 ##### § 50b Antragstellung und Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011801123)
 
 (1) Die zuständige Stelle stellt auf Antrag die individuelle
 berufliche Handlungsfähigkeit des Antragstellers oder der
@@ -1973,6 +2043,7 @@ bescheinigt die zuständige Stelle die vollständige Vergleichbarkeit.
 
 
 ##### § 50c Durchführung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011901123)
 
 (1) Für die Durchführung des Feststellungsverfahrens oder des
 Ergänzungsverfahrens bestimmt die zuständige Stelle aus dem Kreis der
@@ -2066,6 +2137,7 @@ müssen umfassen:
 
 
 ##### § 50d Besondere Regelungen für Menschen mit Behinderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE012001123)
 
 (1) Für Menschen mit Behinderungen nach § 2 Absatz 1 Satz 1 des
 Neunten Buches Sozialgesetzbuch, für die auf Grund von Art und Schwere
@@ -2139,6 +2211,7 @@ der Antragstellerin ist der Verfahrensbegleitung Gelegenheit zu geben,
 
 
 ##### § 50e Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE012101123)
 
 Als Grundlage für ein geordnetes und einheitliches Verfahren wird das
 Bundesministerium für Bildung und Forschung ermächtigt, im
@@ -2171,10 +2244,12 @@ zu regeln.
 
 
 #### Abschnitt 7 - Interessenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001503123)
 
 
 
 ##### § 51 Interessenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005203123)
 
 (1) Auszubildende, deren praktische Berufsbildung in einer sonstigen
 Berufsbildungseinrichtung außerhalb der schulischen und betrieblichen
@@ -2193,6 +2268,7 @@ Regelungen getroffen haben.
 
 
 ##### § 52 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005302123)
 
 Das Bundesministerium für Bildung und Forschung kann durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
@@ -2204,14 +2280,17 @@ Beteiligung.
 
 
 ### Kapitel 2 - Berufliche Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001603123)
 
 
 
 #### Abschnitt 1 - Fortbildungsordnungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003202123)
 
 
 
 ##### § 53 Fortbildungsordnungen der höherqualifizierenden Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005406123)
 
 (1) Als Grundlage für eine einheitliche höherqualifizierende
 Berufsbildung kann das Bundesministerium für Bildung und Forschung im
@@ -2260,6 +2339,7 @@ hierfür Prüfungsregelungen erlassen (Fortbildungsordnungen).
 
 
 ##### § 53a Fortbildungsstufen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011002123)
 
 (1) Die Fortbildungsstufen der höherqualifizierenden Berufsbildung
 sind
@@ -2282,6 +2362,7 @@ Abschluss der zweiten Fortbildungsstufe hinführen.
 
 
 ##### § 53b Geprüfter Berufsspezialist und Geprüfte Berufsspezialistin
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011103123)
 
 (1) Den Fortbildungsabschluss des Geprüften Berufsspezialisten oder
 der Geprüften Berufsspezialistin erlangt, wer eine Prüfung der ersten
@@ -2338,6 +2419,7 @@ führen, wer
 
 
 ##### § 53c Bachelor Professional
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011203123)
 
 (1) Den Fortbildungsabschluss Bachelor Professional erlangt, wer eine
 Prüfung der zweiten beruflichen Fortbildungsstufe erfolgreich besteht.
@@ -2388,6 +2470,7 @@ Fortbildungsstufe darf nur führen, wer
 
 
 ##### § 53d Master Professional
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011302123)
 
 (1) Den Fortbildungsabschluss Master Professional erlangt, wer die
 Prüfung der dritten beruflichen Fortbildungsstufe besteht.
@@ -2434,6 +2517,7 @@ Fortbildungsstufe darf nur führen, wer
 
 
 ##### § 53e Anpassungsfortbildungsordnungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011403123)
 
 (1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das
 Bundesministerium für Bildung und Forschung im Einvernehmen mit dem
@@ -2479,10 +2563,12 @@ anerkennen und hierfür Prüfungsregelungen erlassen
 
 
 #### Abschnitt 2 - Fortbildungsprüfungsregelungen der zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003302123)
 
 
 
 ##### § 54 Fortbildungsprüfungsregelungen der zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005504123)
 
 (1) Sofern für einen Fortbildungsabschluss weder eine
 Fortbildungsordnung noch eine Anpassungsfortbildungsordnung erlassen
@@ -2544,10 +2630,12 @@ enthalten ist, darf nur führen, wer die Prüfung bestanden hat.
 
 
 #### Abschnitt 3 - Ausländische Vorqualifikationen, Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003402123)
 
 
 
 ##### § 55 Berücksichtigung ausländischer Vorqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005603123)
 
 Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder
 Fortbildungsprüfungsregelungen nach § 54 Zulassungsvoraussetzungen zu
@@ -2556,6 +2644,7 @@ der Berufstätigkeit im Ausland zu berücksichtigen.
 
 
 ##### § 56 Fortbildungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005704123)
 
 (1) Für die Durchführung von Prüfungen im Bereich der beruflichen
 Fortbildung errichtet die zuständige Stelle Prüfungsausschüsse. § 37
@@ -2579,6 +2668,7 @@ Prüfungsbestandteile durch die zuständige Stelle zu befreien, wenn
 
 
 ##### § 57 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005806123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz oder das sonst
 zuständige Fachministerium kann im Einvernehmen mit dem
@@ -2593,10 +2683,12 @@ Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 
 ### Kapitel 3 - Berufliche Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001702123)
 
 
 
 #### § 58 Umschulungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE005905123)
 
 Als Grundlage für eine geordnete und einheitliche berufliche
 Umschulung kann das Bundesministerium für Bildung und Forschung im
@@ -2625,6 +2717,7 @@ und § 5 Absatz 3 gelten entsprechend.
 
 
 #### § 59 Umschulungsprüfungsregelungen der zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006004123)
 
 Soweit Rechtsverordnungen nach § 58 nicht erlassen sind, kann die
 zuständige Stelle nach § 71 oder § 72 Umschulungsprüfungsregelungen
@@ -2640,6 +2733,7 @@ beruflicher Erwachsenenbildung.
 
 
 #### § 60 Umschulung für einen anerkannten Ausbildungsberuf
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006103123)
 
 Sofern sich die Umschulungsordnung (§ 58) oder eine Regelung der
 zuständigen Stelle (§ 59) auf die Umschulung für einen anerkannten
@@ -2650,6 +2744,7 @@ zugrunde zu legen. Die §§ 27 bis 33 gelten entsprechend.
 
 
 #### § 61 Berücksichtigung ausländischer Vorqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006202123)
 
 Sofern die Umschulungsordnung (§ 58) oder eine Regelung der
 zuständigen Stelle (§ 59) Zulassungsvoraussetzungen vorsieht, sind
@@ -2658,6 +2753,7 @@ Ausland zu berücksichtigen.
 
 
 #### § 62 Umschulungsmaßnahmen; Umschulungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006304123)
 
 (1) Maßnahmen der beruflichen Umschulung müssen nach Inhalt, Art, Ziel
 und Dauer den besonderen Erfordernissen der beruflichen
@@ -2685,6 +2781,7 @@ Bestehens der anderen Prüfung erfolgt.
 
 
 #### § 63 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006405123)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz oder das sonst
 zuständige Fachministerium kann im Einvernehmen mit dem
@@ -2699,14 +2796,17 @@ sind.
 
 
 ### Kapitel 4 - Berufsbildung für besondere Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001802123)
 
 
 
 #### Abschnitt 1 - Berufsbildung behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG001902123)
 
 
 
 ##### § 64 Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006502123)
 
 Behinderte Menschen (§ 2 Absatz 1 Satz 1 des Neunten Buches
 Sozialgesetzbuch) sollen in anerkannten Ausbildungsberufen ausgebildet
@@ -2714,6 +2814,7 @@ werden.
 
 
 ##### § 65 Berufsausbildung in anerkannten Ausbildungsberufen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006602123)
 
 (1) Regelungen nach den §§ 9 und 47 sollen die besonderen Verhältnisse
 behinderter Menschen berücksichtigen. Dies gilt insbesondere für die
@@ -2729,6 +2830,7 @@ die Voraussetzungen des § 43 Absatz 1 Nummer 2 und 3 nicht vorliegen.
 
 
 ##### § 66 Ausbildungsregelungen der zuständigen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006702123)
 
 (1) Für behinderte Menschen, für die wegen Art und Schwere ihrer
 Behinderung eine Ausbildung in einem anerkannten Ausbildungsberuf
@@ -2746,6 +2848,7 @@ nachzuweisen.
 
 
 ##### § 67 Berufliche Fortbildung, berufliche Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006802123)
 
 Für die berufliche Fortbildung und die berufliche Umschulung
 behinderter Menschen gelten die §§ 64 bis 66 entsprechend, soweit es
@@ -2753,10 +2856,12 @@ Art und Schwere der Behinderung erfordern.
 
 
 #### Abschnitt 2 - Berufsausbildungsvorbereitung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002002123)
 
 
 
 ##### § 68 Personenkreis und Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE006902123)
 
 (1) Die Berufsausbildungsvorbereitung richtet sich an
 lernbeeinträchtigte oder sozial benachteiligte Personen, deren
@@ -2773,6 +2878,7 @@ bis 33 entsprechend.
 
 
 ##### § 69 Qualifizierungsbausteine, Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007002123)
 
 (1) Die Vermittlung von Grundlagen für den Erwerb beruflicher
 Handlungsfähigkeit (§ 1 Absatz 2) kann insbesondere durch inhaltlich
@@ -2791,6 +2897,7 @@ Bundesrates bedarf.
 
 
 ##### § 70 Überwachung, Beratung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007106123)
 
 (1) Die nach Landesrecht zuständige Behörde hat die
 Berufsausbildungsvorbereitung zu untersagen, wenn die Voraussetzungen
@@ -2809,18 +2916,22 @@ Maßnahmen durchgeführt wird.
 
 
 ## Teil 3 - Organisation der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002102123)
 
 
 
 ### Kapitel 1 - Zuständige Stellen; zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002202123)
 
 
 
 #### Abschnitt 1 - Bestimmung der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002302123)
 
 
 
 ##### § 71 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007203123)
 
 (1) Für die Berufsbildung in Berufen der Handwerksordnung ist die
 Handwerkskammer zuständige Stelle im Sinne dieses Gesetzes.
@@ -2865,6 +2976,7 @@ Bundes- oder Landesbehörden.
 
 
 ##### § 72 Bestimmung durch Rechtsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007302123)
 
 Das zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit
@@ -2873,6 +2985,7 @@ geregelt sind, die zuständige Stelle bestimmen.
 
 
 ##### § 73 Zuständige Stellen im Bereich des öffentlichen Dienstes
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007403123)
 
 (1) Im öffentlichen Dienst bestimmt für den Bund die oberste
 Bundesbehörde für ihren Geschäftsbereich die zuständige Stelle
@@ -2900,6 +3013,7 @@ unterstehenden Körperschaften, Anstalten und Stiftungen des
 
 
 ##### § 74 Erweiterte Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007502123)
 
 § 73 gilt entsprechend für Ausbildungsberufe, in denen im Bereich der
 Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts
@@ -2908,6 +3022,7 @@ oder außerhalb des öffentlichen Dienstes nach Ausbildungsordnungen des
 
 
 ##### § 75 Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007602123)
 
 Die Kirchen und sonstigen Religionsgemeinschaften des öffentlichen
 Rechts bestimmen für ihren Bereich die zuständige Stelle für die
@@ -2916,6 +3031,7 @@ Berufsbereichen. Die §§ 77 bis 80 finden keine Anwendung.
 
 
 ##### § 75a Zuständige Stellen bei mehreren betroffenen Berufsbereichen und Bereichen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE012201123)
 
 Erfolgt in den Fällen des § 4 Absatz 2 die Festlegung einer
 gemeinsamen zuständigen Stelle nach § 5 Absatz 3 Satz 2, geht § 71
@@ -2934,6 +3050,7 @@ zuständigen Stellen, die die jeweilige Fortbildungsprüfung anbieten.
 
 
 ##### § 75b Zuständige Stelle bei der Feststellung nach § 1 Absatz 6
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE012301123)
 
 Die Vorschriften dieses Abschnitts gelten bei der Feststellung der
 individuellen beruflichen Handlungsfähigkeit am Maßstab eines
@@ -2941,10 +3058,12 @@ anerkannten Ausbildungsberufs nach § 1 Absatz 6 entsprechend.
 
 
 #### Abschnitt 2 - Überwachung der Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002402123)
 
 
 
 ##### § 76 Überwachung, Beratung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007704123)
 
 (1) Die zuständige Stelle überwacht die Durchführung
 
@@ -2990,10 +3109,12 @@ des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
 
 #### Abschnitt 3 - Berufsbildungsausschuss der zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002502123)
 
 
 
 ##### § 77 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007802123)
 
 (1) Die zuständige Stelle errichtet einen Berufsbildungsausschuss. Ihm
 gehören sechs Beauftragte der Arbeitgeber, sechs Beauftragte der
@@ -3028,6 +3149,7 @@ derselben Mitgliedergruppe angehören.
 
 
 ##### § 78 Beschlussfähigkeit, Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE007902123)
 
 (1) Der Berufsbildungsausschuss ist beschlussfähig, wenn mehr als die
 Hälfte seiner stimmberechtigten Mitglieder anwesend ist. Er beschließt
@@ -3040,6 +3162,7 @@ Mitglieder nachträglich auf die Tagesordnung gesetzt wird.
 
 
 ##### § 79 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008003123)
 
 (1) Der Berufsbildungsausschuss ist in allen wichtigen Angelegenheiten
 der beruflichen Bildung zu unterrichten und zu hören. Er hat im Rahmen
@@ -3133,6 +3256,7 @@ Organisation der schulischen Berufsbildung auswirken.
 
 
 ##### § 80 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008102123)
 
 Der Berufsbildungsausschuss gibt sich eine Geschäftsordnung. Sie kann
 die Bildung von Unterausschüssen vorsehen und bestimmen, dass ihnen
@@ -3141,10 +3265,12 @@ Unterausschüsse gelten § 77 Absatz 2 bis 6 und § 78 entsprechend.
 
 
 #### Abschnitt 4 - Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002602123)
 
 
 
 ##### § 81 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008204123)
 
 (1) Im Bereich des Bundes ist die oberste Bundesbehörde oder die von
 ihr bestimmte Behörde die zuständige Behörde im Sinne des § 30 Absatz
@@ -3158,10 +3284,12 @@ Genehmigung.
 
 
 ### Kapitel 2 - Landesausschüsse für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002702123)
 
 
 
 #### § 82 Errichtung, Geschäftsordnung, Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008303123)
 
 (1) Bei der Landesregierung wird ein Landesausschuss für Berufsbildung
 errichtet. Er setzt sich zusammen aus einer gleichen Zahl von
@@ -3208,6 +3336,7 @@ abgegebenen Stimmen.
 
 
 #### § 83 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008402123)
 
 (1) Der Landesausschuss hat die Landesregierung in den Fragen der
 Berufsbildung zu beraten, die sich für das Land ergeben. Er hat im
@@ -3225,10 +3354,12 @@ Ausbildungsangebote aussprechen.
 
 
 ## Teil 4 - Berufsbildungsforschung, Planung und Statistik
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002802123)
 
 
 
 ### § 84 Ziele der Berufsbildungsforschung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008502123)
 
 Die Berufsbildungsforschung soll
 
@@ -3255,6 +3386,7 @@ Die Berufsbildungsforschung soll
 
 
 ### § 85 Ziele der Berufsbildungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008602123)
 
 (1) Durch die Berufsbildungsplanung sind Grundlagen für eine
 abgestimmte und den technischen, wirtschaftlichen und
@@ -3270,6 +3402,7 @@ Bedarfs an Ausbildungsplätzen möglichst günstig genutzt werden.
 
 
 ### § 86 Berufsbildungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008703123)
 
 (1) Das Bundesministerium für Bildung und Forschung hat Entwicklungen
 in der beruflichen Bildung ständig zu beobachten und darüber bis zum
@@ -3319,6 +3452,7 @@ Vorschläge für die Behebung aufgenommen werden.
 
 
 ### § 87 Zweck und Durchführung der Berufsbildungsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008802123)
 
 (1) Für Zwecke der Planung und Ordnung der Berufsbildung wird eine
 Bundesstatistik durchgeführt.
@@ -3334,6 +3468,7 @@ der jeweiligen Zuständigkeiten Verwendung finden können.
 
 
 ### § 88 Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE008905123)
 
 (1) Die jährliche Bundesstatistik erfasst
 
@@ -3452,10 +3587,12 @@ regelt das Bundesministerium für Bildung und Forschung durch Erlass.
 
 
 ## Teil 5 - Bundesinstitut für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG002902123)
 
 
 
 ### § 89 Bundesinstitut für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009002123)
 
 Das Bundesinstitut für Berufsbildung ist eine bundesunmittelbare
 rechtsfähige Anstalt des öffentlichen Rechts. Es hat seinen Sitz in
@@ -3463,6 +3600,7 @@ Bonn.
 
 
 ### § 90 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009106129)
 
 (1) Das Bundesinstitut für Berufsbildung führt seine Aufgaben im
 Rahmen der Bildungspolitik der Bundesregierung durch.
@@ -3554,6 +3692,7 @@ Bildung und Forschung nicht bedarf.
 
 
 ### § 91 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009202123)
 
 Die Organe des Bundesinstituts für Berufsbildung sind:
 
@@ -3567,6 +3706,7 @@ Die Organe des Bundesinstituts für Berufsbildung sind:
 
 
 ### § 92 Hauptausschuss
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009303123)
 
 (1) Der Hauptausschuss hat neben den ihm durch sonstige Vorschriften
 dieses Gesetzes zugewiesenen Aufgaben folgende weitere Aufgaben:
@@ -3659,6 +3799,7 @@ keinen Weisungen.
 
 
 ### § 93 Präsident oder Präsidentin
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009402123)
 
 (1) Der Präsident oder die Präsidentin vertritt das Bundesinstitut für
 Berufsbildung gerichtlich und außergerichtlich. Er oder sie verwaltet
@@ -3678,6 +3819,7 @@ ernannt.
 
 
 ### § 94 Wissenschaftlicher Beirat
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009503123)
 
 (1) Der wissenschaftliche Beirat berät die Organe des Bundesinstituts
 für Berufsbildung durch Stellungnahmen und Empfehlungen
@@ -3719,6 +3861,7 @@ geben.
 
 
 ### § 95 Ausschuss für Fragen behinderter Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009603123)
 
 (1) Zur Beratung des Bundesinstituts für Berufsbildung bei seinen
 Aufgaben auf dem Gebiet der beruflichen Bildung behinderter Menschen
@@ -3755,6 +3898,7 @@ fortgebildet oder umgeschult werden, zu den Beratungen hinzuziehen.
 
 
 ### § 96 Finanzierung des Bundesinstituts für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009703123)
 
 (1) Die Ausgaben für die Errichtung und Verwaltung des Bundesinstituts
 für Berufsbildung werden durch Zuschüsse des Bundes gedeckt. Die Höhe
@@ -3770,6 +3914,7 @@ Vertragspartner zu decken.
 
 
 ### § 97 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009802123)
 
 (1) Der Haushaltsplan wird von dem Präsidenten oder der Präsidentin
 aufgestellt. Der Hauptausschuss stellt den Haushaltsplan fest.
@@ -3798,6 +3943,7 @@ dem Hauptausschuss. Sie bedarf nicht der Genehmigung nach § 109 Absatz
 
 
 ### § 98 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE009902123)
 
 (1) Durch die Satzung des Bundesinstituts für Berufsbildung sind
 
@@ -3819,6 +3965,7 @@ Bundesanzeiger bekannt zu geben.
 
 
 ### § 99 Personal
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010005123)
 
 (1) Die Aufgaben des Bundesinstituts für Berufsbildung werden von
 Beamten, Beamtinnen und Dienstkräften, die als Angestellte, Arbeiter
@@ -3850,6 +3997,7 @@ Bundesministerium der Finanzen.
 
 
 ### § 100 Aufsicht über das Bundesinstitut für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010102123)
 
 Das Bundesinstitut für Berufsbildung unterliegt, soweit in diesem
 Gesetz nicht weitergehende Aufsichtsbefugnisse vorgesehen sind, der
@@ -3857,10 +4005,12 @@ Rechtsaufsicht des Bundesministeriums für Bildung und Forschung.
 
 
 ## Teil 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003003123)
 
 
 
 ### § 101 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010306123)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3927,10 +4077,12 @@ geahndet werden.
 
 
 ## Teil 7 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNG003103123)
 
 
 
 ### § 102 Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010403123)
 
 Prüfungszeugnisse nach der Systematik der Ausbildungsberufe und der
 Systematik der Facharbeiterberufe und Prüfungszeugnisse nach § 37
@@ -3938,6 +4090,7 @@ Absatz 2 stehen einander gleich.
 
 
 ### § 103 Fortgeltung bestehender Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010504123)
 
 (1) Die vor dem 1. September 1969 anerkannten Lehrberufe und
 Anlernberufe oder vergleichbar geregelten Ausbildungsberufe gelten als
@@ -3960,6 +4113,7 @@ weiter anzuwenden.
 
 
 ### § 104 Übertragung von Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE010603123)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
 nach diesem Gesetz den nach Landesrecht zuständigen Behörden
@@ -3968,6 +4122,7 @@ zuständige Stellen zu übertragen.
 
 
 ### § 105 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011503123)
 
 (1) Die Regelungen zur Mindestvergütung, zu Prüferdelegationen und die
 Regelung des § 5 Absatz 2 Satz 1 Nummer 2 werden vom Bundesinstitut
@@ -3984,6 +4139,7 @@ wissenschaftlich evaluiert.
 
 
 ### § 106 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/bbig_2005/BJNR093110005.html#BJNR093110005BJNE011603123)
 
 (1) Auf Berufsausbildungsverträge, die bis zum Ablauf des 31. Dezember
 2019 abgeschlossen werden, ist § 17 in der bis dahin geltenden Fassung

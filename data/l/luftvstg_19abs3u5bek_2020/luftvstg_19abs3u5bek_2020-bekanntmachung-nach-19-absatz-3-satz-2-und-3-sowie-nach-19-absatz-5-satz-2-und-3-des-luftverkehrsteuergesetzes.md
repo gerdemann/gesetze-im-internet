@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg_19abs3u5bek_2020/BJNR103710020.html#BJNR103710020BJNE000100000)
 
 Nach § 19 Absatz 3 Satz 2 und 3 sowie nach § 19 Absatz 5 Satz 2 und 3
 des Luftverkehrsteuergesetzes, das zuletzt durch Artikel 1 des
@@ -34,6 +35,7 @@ anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstg_19abs3u5bek_2020/BJNR103710020.html#BJNR103710020BJNE000200000)
 
 Bundesministerium der Finanzen
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bzkjbgebv/BJNR520600021.html#BJNR520600021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -27,6 +28,7 @@ Jugend:
 
 
 ## § 1 Erhebung von Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bzkjbgebv/BJNR520600021.html#BJNR520600021BJNE000200000)
 
 Die Bundeszentrale für Kinder- und Jugendmedienschutz erhebt Gebühren
 für individuell zurechenbare öffentliche Leistungen (gebührenfähige
@@ -34,6 +36,7 @@ Leistung), die sie auf Grund des Jugendschutzgesetzes erbringt.
 
 
 ## § 2 Höhe der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/bzkjbgebv/BJNR520600021.html#BJNR520600021BJNE000300000)
 
 (1) Die Höhe der Gebühren richtet sich nach dem abschließenden
 Gebührenverzeichnis in der Anlage.
@@ -43,12 +46,14 @@ jeweils auch die Kosten für die Festsetzung der Gebühren.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bzkjbgebv/BJNR520600021.html#BJNR520600021BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bzkjbgebv/BJNR520600021.html#BJNR520600021BJNE000500000)
 
 (Fundstelle: BGBl. I 2021, 5207)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2026/BJNR0EB0A0025.html#BJNR0EB0A0025BJNE000100000)
 
 Aufgrund des § 17 Absatz 2 Satz 5 des Berufsbildungsgesetzes in der
 Fassung der Bekanntmachung vom 16. April 2025 (BGBl. 2025 I Nr. 117;
@@ -59,6 +60,7 @@ Zeitraum vom 1. Januar 2026 bis zum 31. Dezember 2026 begonnen wird,
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbimindvergfbek_2026/BJNR0EB0A0025.html#BJNR0EB0A0025BJNE000200000)
 
 Bundesministerium für Forschung, Technologie und Raumfahrt
 

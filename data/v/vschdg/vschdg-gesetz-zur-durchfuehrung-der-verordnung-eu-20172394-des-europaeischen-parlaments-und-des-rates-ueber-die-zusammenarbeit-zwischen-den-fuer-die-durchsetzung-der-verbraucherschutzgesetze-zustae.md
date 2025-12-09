@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000104360)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/2394
 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über
@@ -60,6 +62,7 @@ vorgesehen sind.
 
 
 ### § 2 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE260312360)
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen
 innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten
@@ -184,6 +187,7 @@ Verstößen mit Unions-Dimension zuständig
 
 
 ### § 3 Zentrale Verbindungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000304360)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit
 und Verbraucherschutz ist zentrale Verbindungsstelle im Sinne des
@@ -219,16 +223,20 @@ Artikel 27 Absatz 1 der Verordnung (EU) 2017/2394 vorzunehmen.
 
 
 ## Abschnitt 2 - Durchsetzung der Gesetze zum Schutz der Verbraucherinteressen
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNG000200000)
 
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000401360)
 
 
 ### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000503360)
 
 
 ### § 6 Ergänzende Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000601360)
 
 (1) Für das Verwaltungsverfahren der Bundesbehörden gelten ergänzend
 die Vorschriften des Verwaltungsverfahrensgesetzes. Der zur Erteilung
@@ -293,6 +301,7 @@ Aufgaben erforderlich ist.
 
 
 ### § 7 Beauftragung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000705360)
 
 (1) Die nach § 2 Nummer 1, 2 oder 2a zuständige Behörde soll bei
 Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der
@@ -325,6 +334,7 @@ des Landes zu übertragen.
 
 
 ### § 8 Außenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000802360)
 
 Die Befugnis zum Verkehr mit der Europäischen Kommission und den mit
 der Durchführung der Verordnung (EU) 2017/2394 befassten Behörden
@@ -333,10 +343,12 @@ Verbindungsstelle übertragen.
 
 
 ## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Umlagen und Kostenerstattung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNG000305360)
 
 
 
 ### § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE000903360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach Artikel 9 Absatz 3 Buchstabe a, b oder c
@@ -350,6 +362,7 @@ Euro geahndet werden.
 
 
 ### § 10 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001001360)
 
 Die zuständige Behörde kann ihre Anordnungen nach den für die
 Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
@@ -359,6 +372,7 @@ für jeden Einzelfall höchstens zweihundertfünfzigtausend Euro.
 
 
 ### § 11 Umlagen und Kostenerstattung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002905360)
 
 (1) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht
 durch Gebühren und Auslagen, gesonderte Erstattung nach Satz 2 oder
@@ -398,10 +412,12 @@ dieses Gesetzes erbringt.
 
 
 ## Abschnitt 4 - Anpassung an geändertes Gemeinschaftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNG000400000)
 
 
 
 ### § 12 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE003002360)
 
 (1) Soweit weitere Rechtsakte der Europäischen Union in den
 Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden
@@ -431,10 +447,12 @@ ohne Zustimmung des Bundesrates
 
 
 ## Abschnitt 5 - Rechtsschutz bei bestimmten Verwaltungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNG000501140)
 
 
 
 ### § 13 Zulässigkeit, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001302360)
 
 (1) Gegen eine Entscheidung nach
 
@@ -469,6 +487,7 @@ Zivilprozessordnung gilt entsprechend.
 
 
 ### § 14 Aufschiebende Wirkung, Anordnung der sofortigen Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001400000)
 
 (1) Die Beschwerde hat aufschiebende Wirkung.
 
@@ -521,6 +540,7 @@ Abs. 1 der Verwaltungsgerichtsordnung entsprechend.
 
 
 ### § 15 Frist und Form
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001500000)
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei der
 zuständigen Behörde schriftlich einzureichen. Die Frist beginnt mit
@@ -556,6 +576,7 @@ sein.
 
 
 ### § 16 Beteiligte am Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001600000)
 
 An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
@@ -579,6 +600,7 @@ An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
 
 ### § 17 Anwaltszwang
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001700000)
 
 Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei
 einem deutschen Gericht zugelassenen Rechtsanwalt oder Rechtslehrer an
@@ -590,6 +612,7 @@ vertreten lassen.
 
 
 ### § 18 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001800000)
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund
 mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne
@@ -601,6 +624,7 @@ gleichwohl in der Sache verhandelt und entschieden werden.
 
 
 ### § 19 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE001900000)
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen;
 die Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und
@@ -624,6 +648,7 @@ der nicht beigebrachten Unterlagen entschieden werden.
 
 
 ### § 20 Beschwerdeentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002000000)
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner
 freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung.
@@ -645,6 +670,7 @@ den Beteiligten zuzustellen.
 
 
 ### § 21 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002100000)
 
 (1) Die in § 16 Nr. 1 und 2 bezeichneten Beteiligten können die Akten
 des Beschwerdegerichts einsehen und sich durch die Geschäftsstelle auf
@@ -676,6 +702,7 @@ Akteneinsicht in gleichem Umfang gewähren.
 
 
 ### § 22 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002201140)
 
 Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts
 anderes bestimmt ist,
@@ -702,6 +729,7 @@ Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
 
 ### § 23 Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002300000)
 
 (1) Auf Antrag kann das Beschwerdegericht, auch schon vor
 Beschwerdeerhebung, eine einstweilige Anordnung in Bezug auf den
@@ -725,6 +753,7 @@ entsprechend.
 
 
 ### § 24 Rechtsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002400000)
 
 (1) Gegen die in der Hauptsache erlassenen Beschlüsse der Landgerichte
 findet die Rechtsbeschwerde an den Bundesgerichtshof statt, wenn das
@@ -777,6 +806,7 @@ folgenden Mängel des Verfahrens vorliegt und gerügt wird:
 
 
 ### § 25 Nichtzulassungsbeschwerde
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002500000)
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann selbständig durch
 Nichtzulassungsbeschwerde angefochten werden.
@@ -802,6 +832,7 @@ Bundesgerichtshofes der Lauf der Beschwerdefrist.
 
 
 ### § 26 Beschwerdeberechtigte, Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002600000)
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
 zu.
@@ -825,6 +856,7 @@ entsprechend.
 
 
 ### § 27 Kostentragung und -festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002700000)
 
 Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das
 Gericht anordnen, dass die Kosten, die zur zweckentsprechenden
@@ -838,6 +870,7 @@ Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 ### § 28 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE002801360)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -888,6 +921,7 @@ entsprechend anzuwenden.
 
 
 ### § 29 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/vschdg/BJNR336710006.html#BJNR336710006BJNE260401360)
 
 Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und
 Verbraucherschutz berichtet dem Deutschen Bundestag bis zum 31. Januar

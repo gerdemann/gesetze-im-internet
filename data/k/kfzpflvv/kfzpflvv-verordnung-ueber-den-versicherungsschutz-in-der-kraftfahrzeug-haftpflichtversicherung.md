@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000100320)
 
 Auf Grund des § 4 Abs. 1 des Pflichtversicherungsgesetzes vom 5. April
 1965 (BGBl. I S. 213), der durch Artikel 5 Nr. 1 des Gesetzes vom 21.
@@ -29,6 +30,7 @@ der Finanzen und dem Bundesministerium für Verkehr:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000201123)
 
 (1) Die Kraftfahrzeug-Haftpflichtversicherung hat Versicherungsschutz
 in Europa sowie in den außereuropäischen Gebieten, die zum
@@ -44,6 +46,7 @@ vereinbart, gilt Satz 1 entsprechend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000301123)
 
 Die Versicherung hat die Befriedigung begründeter und die Abwehr
 unbegründeter Schadensersatzansprüche zu umfassen, die auf Grund
@@ -67,6 +70,7 @@ wenn durch den Gebrauch des versicherten Fahrzeugs
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000401301)
 
 (1) Die Versicherung eines Kraftfahrzeugs hat auch die Haftung für
 Schäden zu umfassen, die durch einen Anhänger oder Auflieger
@@ -80,6 +84,7 @@ Haftpflichtversicherungsschutz besteht.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000501123)
 
 Von der Versicherung kann die Haftung nur ausgeschlossen werden
 
@@ -127,6 +132,7 @@ Von der Versicherung kann die Haftung nur ausgeschlossen werden
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000604123)
 
 (1) Als Obliegenheiten vor Eintritt des Versicherungsfalls können nur
 vereinbart werden die Verpflichtung,
@@ -198,6 +204,7 @@ erlangt hat.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000702308)
 
 (1) Wegen einer nach Eintritt des Versicherungsfalls vorsätzlich oder
 grob fahrlässig begangenen Obliegenheitsverletzung ist die
@@ -218,6 +225,7 @@ beschränkt.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000800320)
 
 Wird eine Obliegenheitsverletzung in der Absicht begangen, sich oder
 einem Dritten dadurch einen rechtswidrigen Vermögensvorteil zu
@@ -231,6 +239,7 @@ oder bei einem Rechtsstreit dem Versicherer nicht dessen Führung
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE000901301)
 
 (1) Hat der Versicherungsnehmer an den Geschädigten Rentenzahlungen zu
 leisten und übersteigt der Kapitalwert der Rente die
@@ -268,6 +277,7 @@ Versicherungssumme abgesetzt werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE001000320)
 
 Sagt der Versicherer durch Aushändigung der zur behördlichen Zulassung
 notwendigen Versicherungsbestätigung vorläufigen Deckungsschutz zu, so
@@ -285,6 +295,7 @@ vertreten hat.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE001100320)
 
 Änderungen dieser Verordnung und Änderungen der Mindesthöhe der
 Versicherungssumme finden auf bestehende Versicherungsverhältnisse von
@@ -292,6 +303,7 @@ dem Zeitpunkt an Anwendung, zu dem die Änderungen in Kraft treten.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/kfzpflvv/BJNR183700994.html#BJNR183700994BJNE001200320)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

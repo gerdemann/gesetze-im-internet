@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE000800307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000100307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE000901310)
 
 (1) Wer eine der Berufsbezeichnungen
 
@@ -58,6 +61,7 @@ Gemeinschaften eine Gleichstellung ergibt.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001006116)
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -293,6 +297,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002800310)
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Masseurs
 und medizinischen Bademeisters oder der Beruf des Physiotherapeuten
@@ -331,6 +336,7 @@ Weiterleitung an die Kommission.
 
 
 ### § 2b
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE003200116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -430,10 +436,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## Abschnitt 2 - Ausbildung als Masseur und medizinischer Bademeister
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000200307)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001100307)
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs
 insbesondere dazu befähigen, durch Anwenden geeigneter Verfahren der
@@ -445,6 +453,7 @@ zu gesundheitsförderndem Verhalten und zum Kurerfolg zu geben
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001200307)
 
 (1) Die Ausbildung besteht aus einem Lehrgang, der theoretischen und
 praktischen Unterricht und eine praktische Ausbildung umfaßt, sowie
@@ -458,6 +467,7 @@ Er dauert zwei Jahre und schließt mit der staatlichen Prüfung ab.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001301310)
 
 Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
@@ -472,6 +482,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001400307)
 
 (1) Auf die Dauer des Lehrgangs werden angerechnet
 
@@ -496,6 +507,7 @@ dadurch nicht gefährdet werden.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001500307)
 
 (1) Die praktische Tätigkeit ist nach bestandener staatlicher Prüfung
 in zur Annahme von Praktikanten ermächtigten Krankenhäusern oder
@@ -536,10 +548,12 @@ Tätigkeit nach Absatz 1 angerechnet werden.
 
 
 ## Abschnitt 3 - Ausbildung als Physiotherapeut
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000300307)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001600307)
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs
 insbesondere dazu befähigen, durch Anwenden geeigneter Verfahren der
@@ -551,6 +565,7 @@ schulen (Ausbildungsziel).
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001708116)
 
 Die Ausbildung dauert drei Jahre und besteht aus theoretischem und
 praktischem Unterricht und einer praktischen Ausbildung. Sie wird
@@ -564,6 +579,7 @@ Einrichtungen sicherzustellen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001801310)
 
 Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
 
@@ -581,6 +597,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE001900307)
 
 Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
@@ -598,6 +615,7 @@ Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002000307)
 
 (1) Bei Personen, die die staatliche Prüfung nach § 4 Abs. 2 bestanden
 haben, wird auf Antrag die Ausbildung nach § 9 Satz 1 auf 18 Monate
@@ -640,10 +658,12 @@ Ausbildungsziels dadurch nicht gefährdet werden.
 
 
 ## Abschnitt 4 - Ausbildungs- und Prüfungsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000400307)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002109116)
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Bildung und Forschung durch
@@ -705,9 +725,11 @@ Fristenregelungen vorsehen.
 
 
 ## Abschnitt 4a - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000800310)
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002902116)
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die zur Ausübung des Berufs des Masseurs und
@@ -821,6 +843,7 @@ Bescheinigungen darüber auszustellen, dass
 
 
 ### § 13b
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE003001116)
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
 berechtigt, für jede Dienstleistungserbringung von den zuständigen
@@ -838,6 +861,7 @@ disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
 
 
 ### § 13c
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE003100310)
 
 Masseurinnen und medizinische Bademeisterinnen oder Masseure und
 medizinische Bademeister oder Physiotherapeutinnen oder
@@ -850,10 +874,12 @@ Dienstleistungserbringers hierüber zu unterrichten.
 
 
 ## Abschnitt 5 - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000500307)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002201310)
 
 (1) Die Entscheidungen nach § 2 Abs. 1 und § 7 Abs. 4 trifft die
 zuständige Behörde des Landes, in dem der Antragsteller die staatliche
@@ -880,10 +906,12 @@ ausübt.
 
 
 ## Abschnitt 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000600307)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002301320)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -912,10 +940,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## Abschnitt 7 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNG000700307)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002400307)
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis als
 "Masseurin und medizinische Bademeisterin" oder als "Masseur und
@@ -965,6 +995,7 @@ führen. Außer im Falle des Satzes 1 darf die Berufsbezeichnung
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002500307)
 
 (1) Findet die Ausbildung als Physiotherapeut (§ 9) an einer Schule
 statt, die nicht an einem Krankenhaus eingerichtet ist, kann
@@ -995,6 +1026,7 @@ erhalten haben, gelten weiterhin als staatlich anerkannt nach § 4 Abs.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002600307)
 
 Für Umschüler mit einer abgeschlossenen Ausbildung in einem
 medizinischen Fachberuf kann auf Antrag der Lehrgang nach § 4 Abs. 2
@@ -1013,6 +1045,7 @@ Umschulungen, die bis zum 31. Dezember 2000 begonnen werden. § 6 Abs.
 
 
 ### § 18a
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE003300360)
 
 (1) Die Länder können bestimmen, dass die Ausbildung abweichend von §
 9 Absatz 1 Satz 2 an Hochschulen durchgeführt wird. Sie legen Ziele,
@@ -1042,6 +1075,7 @@ nicht gefährdet werden.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/mphg/BJNR108400994.html#BJNR108400994BJNE002703116)
 
 § 9 Absatz 2 bis 4 tritt am 31. Dezember 2024 außer Kraft.
 Ausbildungen nach § 9 Absatz 2, die vor dem 31. Dezember 2024 begonnen

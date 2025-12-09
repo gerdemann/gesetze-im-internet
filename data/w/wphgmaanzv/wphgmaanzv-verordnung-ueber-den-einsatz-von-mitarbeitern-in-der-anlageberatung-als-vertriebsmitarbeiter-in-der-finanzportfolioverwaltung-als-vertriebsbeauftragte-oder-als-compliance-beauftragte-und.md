@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000100000)
 
 Auf Grund des § 34d Absatz 6 Satz 1 und 2 des
 Wertpapierhandelsgesetzes, der durch Artikel 1 Nummer 9 des Gesetzes
@@ -34,9 +35,11 @@ Bundesanstalt für Finanzdienstleistungsaufsicht:
 
 
 ## Abschnitt 1 - Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNG000100000)
 
 
 ### § 1 Sachkunde des Mitarbeiters in der Anlageberatung
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000302123)
 
 (1) Mitarbeiter in der Anlageberatung im Sinne des § 87 Absatz 1 des
 Wertpapierhandelsgesetzes müssen die für die Erbringung der
@@ -180,6 +183,7 @@ Mitarbeiter strukturierte Einlagen an Kunden verkaufen oder Kunden
 
 
 ### § 1a Sachkunde des Vertriebsmitarbeiters
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001500123)
 
 (1) Vertriebsmitarbeiter im Sinne des § 87 Absatz 2 des
 Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche
@@ -282,6 +286,7 @@ oder in anderer geeigneter Weise nachgewiesen sein.
 
 
 ### § 1b Sachkunde des Mitarbeiters in der Finanzportfolioverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001600123)
 
 (1) Mitarbeiter in der Finanzportfolioverwaltung im Sinne des § 87
 Absatz 3 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit
@@ -366,6 +371,7 @@ oder in anderer geeigneter Weise nachgewiesen sein.
 
 
 ### § 2 Sachkunde des Vertriebsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000401123)
 
 (1) Vertriebsbeauftragte im Sinne des § 87 Absatz 4 des
 Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche
@@ -395,6 +401,7 @@ oder in anderer geeigneter Weise nachgewiesen sein.
 
 
 ### § 3 Sachkunde des Compliance-Beauftragten
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000502123)
 
 (1) Der Compliance-Beauftragte im Sinne des § 87 Absatz 5 des
 Wertpapierhandelsgesetzes muss die für seine Tätigkeit erforderliche
@@ -482,6 +489,7 @@ oder in anderer geeigneter Weise nachgewiesen sein.
 
 
 ### § 4 Berufsqualifikationen als Sachkundenachweis
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000601123)
 
 Die erforderliche Sachkunde gilt insbesondere durch die folgenden
 Berufsqualifikationen und deren Vorläufer- oder Nachfolgeberufe als
@@ -557,6 +565,7 @@ nachgewiesen:
 
 
 ### § 5 Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000701123)
 
 (1) Als Nachweis der erforderlichen Sachkunde nach den § 1 Absatz 2,
 auch in Verbindung mit § 1 Absatz 7, § 1a Absatz 2, § 1b Absatz 2, § 2
@@ -592,6 +601,7 @@ Stellenbeschreibungen, nachgewiesen werden.
 
 
 ### § 6 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000801123)
 
 Die erforderliche Zuverlässigkeit nach § 87 Absatz 1 Satz 1, Absatz 2,
 3, 4 Satz 1, jeweils auch in Verbindung mit § 96, oder § 87 Absatz 5
@@ -606,9 +616,11 @@ Fassung rechtskräftig verurteilt worden ist.
 
 
 ## Abschnitt 2 - Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNG000200000)
 
 
 ### § 7 Einreichung der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE000901123)
 
 Die Anzeigen nach § 87 Absatz 1 Satz 2 bis 4, Absatz 4 Satz 2 und 3
 sowie Absatz 5 Satz 2 und 3 des Wertpapierhandelsgesetzes sind im Wege
@@ -629,6 +641,7 @@ eine Bestätigung über deren Eingang bei der Bundesanstalt.
 
 
 ### § 8 Inhalt der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001002123)
 
 (1) Die Erstanzeigen nach § 87 Absatz 1 Satz 2, Absatz 4 Satz 2 und
 Absatz 5 Satz 2 des Wertpapierhandelsgesetzes müssen enthalten:
@@ -693,9 +706,11 @@ chronologischer Reihenfolge zu einer Anzeige zusammengefasst werden.
 
 
 ## Abschnitt 3 - Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNG000300000)
 
 
 ### § 9 Inhalt der Datenbank
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001101123)
 
 (1) Die Angaben aus den Anzeigen nach § 8 werden automatisiert in der
 Datenbank nach § 87 Absatz 7 des Wertpapierhandelsgesetzes
@@ -761,6 +776,7 @@ gespeichert.
 
 
 ### § 10 Verantwortlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001200000)
 
 Das Wertpapierdienstleistungsunternehmen trägt die Verantwortung für
 die Vollständigkeit, die Richtigkeit und die Aktualität der von ihm
@@ -770,6 +786,7 @@ Anzeigeverfahrens vorzunehmen.
 
 
 ### § 11 Dauer der Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001300000)
 
 Eintragungen nach § 8 Absatz 4 und § 9 Absatz 2 Nummer 7 sind fünf
 Jahre nach Ablauf des Jahres, in dem die Beschwerde gegenüber der
@@ -782,9 +799,11 @@ durch die Bundesanstalt aus der Datenbank zu löschen.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNG000400000)
 
 
 ### § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001700123)
 
 Für Personen, die am 3. Januar 2018 als Mitarbeiter in der
 Anlageberatung, als Vertriebsmitarbeiter, als Mitarbeiter in der
@@ -801,6 +820,7 @@ angezeigten Tätigkeit betraut sind.
 
 
 ### § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wphgmaanzv/BJNR311600011.html#BJNR311600011BJNE001401123)
 
 Diese Verordnung tritt am 1. November 2012 in Kraft.
 

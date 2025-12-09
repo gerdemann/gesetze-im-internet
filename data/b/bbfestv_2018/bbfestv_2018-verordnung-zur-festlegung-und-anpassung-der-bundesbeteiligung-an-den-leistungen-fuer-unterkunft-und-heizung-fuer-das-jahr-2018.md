@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000100000)
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
 Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
@@ -30,6 +31,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000200000)
 
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für das
@@ -54,6 +56,7 @@ Hamburg,
 
 
 ## § 2 Festlegung und Anpassung der Werte nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000301126)
 
 Der landesspezifische Wert nach § 46 Absatz 9 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für die
@@ -78,6 +81,7 @@ Hamburg,
 
 
 ## § 3 Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000401126)
 
 (1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2017
@@ -138,11 +142,13 @@ Hamburg,
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbfestv_2018/BJNR138300018.html#BJNR138300018BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

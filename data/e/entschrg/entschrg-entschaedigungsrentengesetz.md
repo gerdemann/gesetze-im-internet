@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000100314)
 
 Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung
 über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte
@@ -32,6 +33,7 @@ Entschädigungsrenten weitergezahlt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000201320)
 
 (1) Personen, die bis zum 30. April 1992 eine Ehrenpension bezogen
 haben, erhalten eine Entschädigungsrente in Höhe von 717,50 Euro
@@ -97,6 +99,7 @@ Entlassung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000302116)
 
 (1) Personen, die die Voraussetzungen für den Bezug einer
 Entschädigungsrente nur deshalb nicht erfüllen, weil sie eine
@@ -144,6 +147,7 @@ Verfolgtenorganisation zu hören.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000401310)
 
 Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu
 erlassenden Richtlinien bleiben als Einkommen bei Sozialleistungen,
@@ -154,6 +158,7 @@ der nach § 8 zu erlassenden Richtlinien zur Hälfte angerechnet.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000503116)
 
 (1) Entschädigungsrenten sind nicht zu bewilligen, zu kürzen oder
 abzuerkennen, wenn der Berechtigte oder derjenige, von dem sich die
@@ -183,6 +188,7 @@ dies der Deutschen Rentenversicherung Bund und dem Berechtigten mit.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000603116)
 
 (1) Die Deutsche Rentenversicherung Bund ist für die Erfüllung der
 Aufgaben nach diesem Gesetz zuständig, soweit nicht die Zuständigkeit
@@ -212,11 +218,13 @@ entsprechend.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000702310)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/entschrg/BJNR109060992.html#BJNR109060992BJNE000800314)
 
 (1) Die Bundesregierung erläßt Richtlinien für die Entschädigung von
 Personen, die Verfolgte im Sinne des § 1 des

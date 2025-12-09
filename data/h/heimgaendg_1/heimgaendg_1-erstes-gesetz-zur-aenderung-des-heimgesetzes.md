@@ -18,22 +18,26 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000200308)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000300308)
 
 -
 
 
 ## Art 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000400308)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
@@ -42,6 +46,7 @@ des Dritten Überleitungsgesetzes.
 
 
 ## Art 4 Anwendung auf bestehende Heimverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000500308)
 
 (1) Heimverhältnisse auf Grund von Verträgen, die vor dem
 Inkrafttreten des Gesetzes geschlossen worden sind, richten sich von
@@ -58,6 +63,7 @@ vereinbart worden ist.
 
 
 ## Art 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heimg_ndg_1/BJNR007580990.html#BJNR007580990BJNE000600308)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 vierten Kalendermonats in Kraft.

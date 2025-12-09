@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/libiurhfrverlg/BJNR007580940.html#BJNR007580940BJNE000100304)
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hierdurch
 verkündet wird:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/libiurhfrverlg/BJNR007580940.html#BJNR007580940BJNE000200304)
 
 (1) Die Schutzfristen für das Urheberrecht an Lichtbildern werden von
 zehn Jahren auf fünfundzwanzig Jahre verlängert.
@@ -32,6 +34,7 @@ zehn Jahren auf fünfundzwanzig Jahre verlängert.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/libiurhfrverlg/BJNR007580940.html#BJNR007580940BJNE000300304)
 
 (1) Die Verlängerung der Schutzdauer tritt auch für die bereits
 geschaffenen Lichtbilder ein, die beim Inkrafttreten dieses Gesetzes
@@ -60,6 +63,7 @@ Weiterveräußerung unbillig belasten würde.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/libiurhfrverlg/BJNR007580940.html#BJNR007580940BJNE000400304)
 
 Dieses Gesetz tritt am siebenten Tage nach seiner Verkündung in Kraft.
 

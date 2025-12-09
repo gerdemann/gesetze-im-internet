@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmptbeamtrano/BJNR013360990.html#BJNR013360990BJNE000100328)
 
 Hiermit übertrage ich die Befugnis,
 
@@ -66,11 +67,13 @@ angehört haben.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmptbeamtrano/BJNR013360990.html#BJNR013360990BJNE000200328)
 
 Für besondere Fälle behalte ich mir die Ausübung der Befugnisse vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmptbeamtrano/BJNR013360990.html#BJNR013360990BJNE000300328)
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft. Gleichzeitig treten die Anordnungen über
@@ -83,6 +86,7 @@ soweit sie denselben Bereich betreffen, außer Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmptbeamtrano/BJNR013360990.html#BJNR013360990BJNE000400328)
 
 Der Bundesminister für Post und Telekommunikation
 

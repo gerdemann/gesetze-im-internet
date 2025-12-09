@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1 Zustimmung zum Wiener Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/schrzabkg/BJNR203820981.html#BJNR203820981BJNE000100303)
 
 (1) Dem in Wien am 12. Juni 1973 von der Bundesrepublik Deutschland
 unterzeichneten Wiener Abkommen über den Schutz typographischer
@@ -35,11 +36,13 @@ Abkommens sind im Bundesgesetzblatt bekanntzumachen.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/schrzabkg/BJNR203820981.html#BJNR203820981BJNE000205377)
 
 ...
 
 
 ## Art 3 Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schrzabkg/BJNR203820981.html#BJNR203820981BJNE000301377)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 Jedoch tritt Artikel 2 an dem Tage in Kraft, an dem das in Artikel 1

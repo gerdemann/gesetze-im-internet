@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Bevorratung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000200000)
 
 Zur Sicherung der Energieversorgung werden nach Maßgabe dieses
 Gesetzes Vorräte an Erdöl und Erdölerzeugnissen durch den
@@ -27,9 +28,11 @@ Erdölbevorratungsverband als zentrale Bevorratungsstelle gehalten.
 
 
 ## Erster Abschnitt - Aufgaben des Erdölbevorratungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000100000)
 
 
 ### § 2 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000301118)
 
 (1) Der Erdölbevorratungsverband ist eine bundesunmittelbare
 rechtsfähige Körperschaft des öffentlichen Rechts mit Sitz in Hamburg.
@@ -53,6 +56,7 @@ Bundesministerium der Finanzen voraus.
 
 
 ### § 3 Bevorratungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000402128)
 
 (1) Der Erdölbevorratungsverband hat vom 1. Juli eines jeden Jahres
 bis zum Ablauf des 30. Juni des folgenden Jahres
@@ -114,6 +118,7 @@ mineralölstämmige Anteil des Erzeugnisses heranzuziehen.
 
 
 ### § 4 Erfüllung der Bevorratungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000501118)
 
 (1) Der Erdölbevorratungsverband kann seine Bevorratungspflicht
 erfüllen durch das Halten von Vorräten an
@@ -254,6 +259,7 @@ werden.
 
 
 ### § 5 Spezifische Vorräte
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000603128)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann den
 Erdölbevorratungsverband schriftlich oder elektronisch verpflichten,
@@ -327,6 +333,7 @@ noch sonstigen Maßnahmen der Zwangsvollstreckung.
 
 
 ### § 6 Vorratshaltung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000701118)
 
 (1) Der Erdölbevorratungsverband erwirbt die zur Erfüllung der
 Bevorratungspflicht erforderlichen Vorräte und schließt zum Zweck der
@@ -386,6 +393,7 @@ Sinne von § 5 nicht anzuwenden.
 
 
 ### § 7 Delegationen
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000802124)
 
 (1) Der Erdölbevorratungsverband kann zur Erfüllung seiner
 Bevorratungspflicht auch Verträge abschließen, mit denen Mitglieder
@@ -417,6 +425,7 @@ des Vorstandes Richtlinien fest.
 
 
 ### § 8 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE000901118)
 
 (1) Der Erdölbevorratungsverband kann für einen bestimmten Zeitraum
 Aufgaben, die die Verwaltung seiner Vorräte einschließlich der
@@ -456,6 +465,7 @@ folgende Angaben zu enthalten:
 
 
 ### § 9 Vorratshaltung für sonstige Vorratspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001001124)
 
 (1) Der Erdölbevorratungsverband veröffentlicht fortlaufend
 vollständige Informationen, aufgeschlüsselt nach Erdöl und den
@@ -474,6 +484,7 @@ transparenten und nicht diskriminierenden Bedingungen an.
 
 
 ### § 10 Vorratshaltung durch Unternehmen für sonstige Vorratspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001101124)
 
 (1) Unternehmen, die im Geltungsbereich dieses Gesetzes Vorräte
 halten, können Vorräte einschließlich spezifischer Vorräte im Auftrag
@@ -499,6 +510,7 @@ gelten.
 
 
 ### § 11 Anpassung an die Bevorratungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001203128)
 
 (1) Der Erdölbevorratungsverband hat im Fall von § 3 Absatz 2 seine
 Vorräte innerhalb von drei Monaten nach Beginn des
@@ -513,9 +525,11 @@ vorher seine Vorräte erhöhen.
 
 
 ## Zweiter Abschnitt - Freigabe von Vorräten
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000200000)
 
 
 ### § 12 Freigabe von Vorräten, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001303128)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 zur
@@ -611,9 +625,11 @@ Europäischen Union auf deren Anfrage.
 
 
 ## Dritter Abschnitt - Mitglieder, Organe und Satzung des Erdölbevorratungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000300000)
 
 
 ### § 13 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001402128)
 
 (1) Mitglied des Erdölbevorratungsverbandes ist, wer in der
 Europäischen Union, der Schweizerischen Eidgenossenschaft oder im
@@ -685,6 +701,7 @@ Mitgliedschaft begründender Tatbestand nicht mehr erfüllt wurde.
 
 
 ### § 14 Organe
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001500000)
 
 Organe des Erdölbevorratungsverbandes sind
 
@@ -701,6 +718,7 @@ Organe des Erdölbevorratungsverbandes sind
 
 
 ### § 15 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001602124)
 
 (1) Der Erdölbevorratungsverband gibt sich eine Satzung. Die Satzung
 und ihre Änderungen werden durch die Mitgliederversammlung beschlossen
@@ -715,6 +733,7 @@ machen.
 
 
 ### § 16 Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001703118)
 
 (1) Die Mitgliederversammlung besteht aus den Mitgliedern des
 Erdölbevorratungsverbandes. Die Mitglieder sind spätestens vier Wochen
@@ -759,6 +778,7 @@ Beschlüsse der Mitgliederversammlung mit.
 
 
 ### § 17 Stimmrecht, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001801118)
 
 (1) Jedes Mitglied erhält grundsätzlich eine Stimme. Mitgliedern, die
 eine bestimmte Mindestmenge der in § 13 Absatz 1 genannten
@@ -780,6 +800,7 @@ festzulegen.
 
 
 ### § 18 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE001902124)
 
 (1) Der Beirat besteht aus mindestens neun Mitgliedern.
 
@@ -832,6 +853,7 @@ Mitglieder bekannt werden.
 
 
 ### § 19 Aufgaben des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002001124)
 
 (1) Der Beirat
 
@@ -889,6 +911,7 @@ außergerichtlich.
 
 
 ### § 20 Ausschüsse des Beirats
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002100000)
 
 (1) Der Beirat kann einen Wirtschaftsausschuss und einen
 Bevorratungsausschuss einrichten, die den Beirat und den Vorstand
@@ -911,6 +934,7 @@ Bestandsauf- und -abbaus.
 
 
 ### § 21 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002200000)
 
 (1) Der Vorstand besteht aus zwei Personen, die vom Beirat bestellt
 werden und nicht zugleich dem Beirat angehören können. Die Amtszeit
@@ -936,6 +960,7 @@ Entscheidung trifft.
 
 
 ### § 22 Aufgaben des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002300000)
 
 (1) Der Vorstand
 
@@ -957,9 +982,11 @@ außergerichtlich, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
 
 ## Vierter Abschnitt - Beiträge, Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000400000)
 
 
 ### § 23 Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002402124)
 
 (1) Die zur Erfüllung der Aufgaben des Erdölbevorratungsverbandes
 erforderlichen Mittel werden durch Beiträge seiner Mitglieder
@@ -1073,6 +1100,7 @@ Ausgaben auf die im Geschäftsjahr zu erwartenden Mengen nach Absatz 2.
 
 
 ### § 24 Fälligkeit, Verzinsung und Beitreibung der Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002501124)
 
 (1) Die Beitragshöhe ist vom Beitragspflichtigen für jeden Monat zu
 ermitteln. Der Beitrag ist für jeden Monat unaufgefordert bis zum Ende
@@ -1104,6 +1132,7 @@ anzuwenden.
 
 
 ### § 25 Grundsätze der Wirtschaftsführung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002602124)
 
 (1) Der Erdölbevorratungsverband ist in seiner Wirtschaftsführung
 selbstständig, soweit dieses Gesetz nichts anderes bestimmt. Die in §
@@ -1135,6 +1164,7 @@ Gesetz übertragenen Aufgaben erforderlich ist.
 
 
 ### § 26 Abschluss von Verträgen, Veränderung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002703124)
 
 (1) Die Beschaffung von Leistungen und Veräußerungen erfolgen in einem
 wettbewerblichen, transparenten und nichtdiskriminierenden Verfahren.
@@ -1191,6 +1221,7 @@ unberührt.
 
 
 ### § 27 Aufstellung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002801118)
 
 (1) Der Wirtschaftsplan des Erdölbevorratungsverbandes dient der
 Planung und Deckung des Bedarfs an Ressourcen, die zur Erfüllung der
@@ -1243,6 +1274,7 @@ entsprechend.
 
 
 ### § 28 Ausführung des Wirtschaftsplans
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE002900000)
 
 (1) Der Wirtschaftsplan wird nach den Grundsätzen der
 Wirtschaftlichkeit und Sparsamkeit ausgeführt.
@@ -1272,6 +1304,7 @@ Gesamtausgaben des Finanzplans den jeweiligen Gesamtansatz um mehr als
 
 
 ### § 29 Jahresabschluss
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003001118)
 
 (1) Der Erdölbevorratungsverband hat zum Ende eines jeden
 Geschäftsjahres einen Jahresabschluss unter Beachtung der Grundsätze
@@ -1308,6 +1341,7 @@ Vorschlag zur Feststellung des Jahresabschlusses vor.
 
 
 ### § 30 Verwendung von Veräußerungserlösen
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003101124)
 
 (1) Die Nettoerlöse aus Veräußerungen von Vorräten, ausgenommen die
 Veräußerungen im Rahmen einer Freigabe von Vorräten nach § 12 Absatz
@@ -1354,9 +1388,11 @@ Schulden übersteigt.
 
 
 ## Fünfter Abschnitt - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000500000)
 
 
 ### § 31 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003201118)
 
 (1) Der Erdölbevorratungsverband untersteht der Aufsicht des
 Bundesministeriums für Wirtschaft und Energie (Aufsichtsbehörde). Die
@@ -1398,9 +1434,11 @@ Mitglieder der Organe wahrnehmen.
 
 
 ## Sechster Abschnitt - Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000600000)
 
 
 ### § 32 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003300000)
 
 (1) Die Auflösung des Erdölbevorratungsverbandes erfolgt durch Gesetz.
 Das Gesetz regelt auch die Verwendung des dann vorhandenen Vermögens.
@@ -1412,9 +1450,11 @@ Insolvenzverfahren statt.
 
 
 ## Siebter Abschnitt - Melde- und Auskunftspflichten; Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNG000700000)
 
 
 ### § 33 Meldepflichten der Mitglieder des Erdölbevorratungsverbandes und von Lagerhaltern
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003402128)
 
 (1) Die Mitglieder des Erdölbevorratungsverbandes haben diesem für
 jeden Kalendermonat bis zum Ende des folgenden Monats die Angaben zu
@@ -1432,6 +1472,7 @@ Erdölerzeugnisse zu machen.
 
 
 ### § 34 Verzeichnis der Vorräte, Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003501124)
 
 (1) Der Erdölbevorratungsverband erstellt ein fortlaufend
 aktualisiertes Verzeichnis seiner Vorräte einschließlich der von ihm
@@ -1466,6 +1507,7 @@ für jeweils fünf Jahre auf.
 
 
 ### § 35 Monatliche Meldungen der Vorräte
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003601128)
 
 (1) Der Erdölbevorratungsverband meldet dem Bundesamt für Wirtschaft
 und Ausfuhrkontrolle für jeden abgelaufenen Monat seine am Monatsende
@@ -1504,6 +1546,7 @@ Statistiken und die diesen zugrunde liegenden Daten fünf Jahre auf.
 
 
 ### § 36 Meldungen der spezifischen Vorräte
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003701118)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle übermittelt der
 Kommission der Europäischen Union bis zum Ende des Folgemonats des
@@ -1561,6 +1604,7 @@ Bericht enthält
 
 
 ### § 37 Übrige Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003801128)
 
 (1) Der Erdölbevorratungsverband übermittelt dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle monatlich die Angaben, die er zur
@@ -1578,6 +1622,7 @@ Namen von Eigentümern an.
 
 
 ### § 38 Auskunftspflichten, Prüfungspflichten und -rechte
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE003902124)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle prüft die
 Einhaltung der Bevorratungspflicht durch den Erdölbevorratungsverband.
@@ -1702,6 +1747,7 @@ Bücher und die Schriften der Beteiligungsgesellschaften unterrichten.
 
 
 ### § 39 Mitwirkung der Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE004001128)
 
 Die Bundesfinanzbehörden sind berechtigt, die nach § 30 der
 Abgabenordnung geschützten Verhältnisse der Betroffenen dem Bundesamt
@@ -1713,6 +1759,7 @@ Auskunfts- und Nachweispflichten der Mitglieder und Nichtmitglieder zu
 
 
 ### § 40 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE004101124)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1753,6 +1800,7 @@ und Ausfuhrkontrolle.
 
 
 ### § 41 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html#BJNR007410012BJNE004202128)
 
 Vom 1. Januar 2020 bis zum Ablauf des 30. Juni 2020 bemisst sich die
 Höhe der zu bevorratenden Mengen nach den ab dem 1. Januar 2020

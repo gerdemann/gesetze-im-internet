@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung der Deutschen Rentenversicherung Bund
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNG000100000)
 
 
 
 ### § 1 Fortführung der Bundesversicherungsanstalt für Angestellte (BfA)
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000100000)
 
 Die durch das Gesetz über die Errichtung der
 Bundesversicherungsanstalt für Angestellte vom 7. August 1953 (BGBl. I
@@ -35,6 +37,7 @@ Verwaltungsstellen in Gera, Stralsund und Brandenburg/Havel.
 
 
 ### § 2 Eingliederung des Verbandes Deutscher Rentenversicherungsträger e. V. (VDR)
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000200000)
 
 (1) Der Verband Deutscher Rentenversicherungsträger e. V. wird am 1.
 Oktober 2005 in die Deutsche Rentenversicherung Bund eingegliedert.
@@ -51,12 +54,14 @@ Haushaltsplan 2005 der Deutschen Rentenversicherung Bund.
 
 
 ### § 3 Genehmigung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000301308)
 
 Die Satzung der Deutschen Rentenversicherung Bund wird vom
 Bundesministerium für Arbeit und Soziales genehmigt.
 
 
 ### § 3a Dienstleistungen für Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000600308)
 
 Die Deutsche Rentenversicherung Bund darf im Rahmen der Festlegungen
 des Rates der IT-Beauftragten für Bundesbehörden Dienstleistungen in
@@ -68,10 +73,12 @@ Verwaltungsvereinbarungen zu regeln.
 
 
 ## Abschnitt 2 - Errichtung der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNG000200000)
 
 
 
 ### § 4 Fortführung der Bundesknappschaft
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000400000)
 
 Die durch das Gesetz zur Errichtung der Bundesknappschaft vom 28. Juli
 1969 (BGBl. I S. 974) errichtete Bundesknappschaft wird unter dem
@@ -80,6 +87,7 @@ Sitz der Deutschen Rentenversicherung Knappschaft-Bahn-See ist Bochum.
 
 
 ### § 5 Eingliederung der Bahnversicherungsanstalt und der Seekasse
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000500000)
 
 (1) Die Bahnversicherungsanstalt und die Seekasse werden aufgelöst und
 gehen in der Deutschen Rentenversicherung Knappschaft-Bahn-See auf.
@@ -90,6 +98,7 @@ Deutsche Rentenversicherung Knappschaft-Bahn-See über.
 
 
 ### § 6 Stellenbörse
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000700119)
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der
 knappschaftlichen Rentenversicherung kann eine internetbasierte
@@ -99,6 +108,7 @@ mit dem Bundesministerium für Arbeit und Soziales.
 
 
 ### § 7 Beauftragung im Zusammenhang mit der Administration und Prüfung von Förderprogrammen und Förderprojekten
+[Direktlink](https://www.gesetze-im-internet.de/rvbund_knerg/BJNR329200004.html#BJNR329200004BJNE000701126)
 
 (1) Bundesministerien können der Deutschen Rentenversicherung
 Knappschaft-Bahn-See Aufgaben der Administration und Prüfung von

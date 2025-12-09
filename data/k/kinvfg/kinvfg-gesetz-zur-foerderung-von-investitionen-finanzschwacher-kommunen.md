@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Finanzhilfen zur Stärkung der Investitionstätigkeit finanzschwacher Kommunen nach Artikel 104b des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNG000100360)
 
 
 
 ### § 1 Förderziel und Fördervolumen
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000100000)
 
 Zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet
 unterstützt der Bund die Länder bei der Stärkung der
@@ -36,6 +38,7 @@ Artikel 104b Absatz 1 Nummer 2 des Grundgesetzes in Höhe von insgesamt
 
 
 ### § 2 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000200000)
 
 Der in § 1 Satz 2 festgelegte Betrag wird nach folgenden Prozentsätzen
 auf die Länder aufgeteilt:
@@ -124,6 +127,7 @@ auf die Länder aufgeteilt:
 
 
 ### § 3 Förderbereiche
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000300000)
 
 Die Finanzhilfen werden trägerneutral für Maßnahmen in folgenden
 Bereichen gewährt:
@@ -182,6 +186,7 @@ können nicht gefördert werden.
 
 
 ### § 4 Doppelförderung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000400000)
 
 (1) Für Investitionen, die nach anderen Gesetzen und
 Verwaltungsvereinbarungen als Anteilsfinanzierung nach Artikel 104b
@@ -197,6 +202,7 @@ demografischen Veränderungen auch längerfristig nutzbar sein.
 
 
 ### § 5 Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000503123)
 
 (1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni
 2015 begonnen werden. Vor dem 1. Juli 2015 begonnene Investitionen,
@@ -221,6 +227,7 @@ Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
 
 
 ### § 6 Förderquote und Bewirtschaftung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000600000)
 
 (1) Der Bund beteiligt sich mit bis zu 90 Prozent, die Länder
 einschließlich der Gemeinden und Gemeindeverbände beteiligen sich mit
@@ -246,6 +253,7 @@ Finanzen die Kriterien mit, anhand derer die Auswahl getroffen wurde.
 
 
 ### § 7 Prüfung der Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000701360)
 
 (1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem
 Bundesministerium der Finanzen die zur Durchführung dieses Gesetzes
@@ -261,6 +269,7 @@ regelt die Verwaltungsvereinbarung.
 
 
 ### § 8 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000804123)
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte
 einzelne Maßnahmen nicht die Voraussetzungen der §§ 3 bis 6 erfüllen
@@ -292,6 +301,7 @@ Erhebungsbefugnisse.
 
 
 ### § 9 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE000900000)
 
 Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes
 werden durch Verwaltungsvereinbarung geregelt. Die Inanspruchnahme der
@@ -300,10 +310,12 @@ gebunden.
 
 
 ## Kapitel 2 - Finanzhilfen zur Verbesserung der Schulinfrastruktur finanzschwacher Kommunen nach Artikel 104c des Grundgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNG000200360)
 
 
 
 ### § 10 Förderziel und Fördervolumen
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001000360)
 
 Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und
 berufsbildender Schulen unterstützt der Bund die Länder bei der
@@ -316,6 +328,7 @@ Euro.
 
 
 ### § 11 Verteilung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001100360)
 
 (1) Der in § 10 Satz 2 festgelegte Betrag wird nach folgenden
 Prozentsätzen auf die Länder aufgeteilt:
@@ -409,6 +422,7 @@ Auswahl der förderfähigen Gebiete fest.
 
 
 ### § 12 Förderbereich und Fördervoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001200360)
 
 (1) Die Finanzhilfen werden trägerneutral für Maßnahmen zur
 Verbesserung der Schulinfrastruktur allgemeinbildender und
@@ -438,6 +452,7 @@ sie in Zusammenhang mit den Maßnahmen nach Absatz 2 stehen.
 
 
 ### § 13 Förderzeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001302123)
 
 (1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni
 2017 begonnen werden. Vor dem 1. Juli 2017 begonnene, aber noch nicht
@@ -461,12 +476,14 @@ die Abnahme und Abrechnung des Investitionsvorhabens erfolgen.
 
 
 ### § 14 Förderquote, Bewirtschaftung und Prüfung der Mittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001400360)
 
 § 4 Absatz 1 und 3, § 6 Absatz 1 und 2 sowie § 7 gelten auch für
 Finanzhilfen gemäß § 10 Satz 2.
 
 
 ### § 15 Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001503123)
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte
 einzelne Maßnahmen nicht die Voraussetzungen des § 4 Absatz 1 und 2,
@@ -500,6 +517,7 @@ Erhebungsbefugnisse.
 
 
 ### § 16 Verwaltungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kinvfg/BJNR097500015.html#BJNR097500015BJNE001600360)
 
 Die Einzelheiten des Verfahrens zur Durchführung des Kapitels 2 dieses
 Gesetzes werden durch Verwaltungsvereinbarung geregelt. Die

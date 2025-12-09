@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000100000)
 
 Auf Grund des § 5 Abs. 7 des Ölschadengesetzes vom 30. September 1988
 (BGBl. I S. 1770, 1995 I S. 2084) sowie auf Grund des Artikels 7 Abs.
@@ -34,6 +35,7 @@ Bundesministerium der Justiz:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000200000)
 
 Im Sinne dieser Verordnung ist
 
@@ -54,6 +56,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 2 Inhalt der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000301320)
 
 (1) Der Meldepflichtige hat bis spätestens zum 28. Februar eines
 Jahres folgende Angaben zu machen:
@@ -93,12 +96,14 @@ Ausfuhrkontrolle (BAFA) herausgegebenen Vordrucken zu erfolgen.
 
 
 ## § 3 Assoziierungsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000400000)
 
 Der Meldepflichtige hat auf Verlangen Auskunft darüber zu erteilen, ob
 die Voraussetzungen des § 5 Abs. 5 des Ölschadengesetzes vorliegen.
 
 
 ## § 4 Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000500000)
 
 Im Fall der Schätzung des Ölerhalts einer beitragspflichtigen Person
 nach § 5 Abs. 3 des Ölschadengesetzes soll die Dauer der Nachfrist
@@ -106,6 +111,7 @@ zwei Wochen nicht überschreiten.
 
 
 ## § 5 Änderungen der Vertragszugehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000601320)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) teilt den im
 Vorjahr beitragspflichtigen sowie den sonst für eine Beitragspflicht
@@ -114,6 +120,7 @@ eines Staates mit.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_lmeldv/BJNR081200996.html#BJNR081200996BJNE000700000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000100000)
 
 Dieses Gesetz gilt für die
 
@@ -40,6 +41,7 @@ angehören.
 
 
 ## § 2 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000203116)
 
 (1) Empfängerinnen und Empfänger von Dienstbezügen nach einer
 Besoldungsgruppe der Bundesbesoldungsordnung A im Sinne des § 1 Nr. 1
@@ -170,6 +172,7 @@ bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
 
 
 ## § 3 Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000303116)
 
 (1) Mit der Zuordnung zu einer Stufe des Grundgehaltes der Anlage 1 in
 der ab 1. Juli 2009 gültigen Fassung beginnt die für den Aufstieg
@@ -224,6 +227,7 @@ geltenden Fassung berücksichtigt wurden.
 
 
 ## § 4 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000401310)
 
 Empfängerinnen und Empfänger von Dienstbezügen nach der
 Besoldungsgruppe R 1 oder R 2 im Sinne des § 1 Nr. 1 und 2 werden auf
@@ -238,6 +242,7 @@ Wirksamwerden der Ernennung ist die der Stufe zugewiesene
 
 
 ## § 5 Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000501310)
 
 (1) Bei einer Zuordnung zu einer Stufe des Grundgehaltes der Anlage 2
 in der ab 1. Juli 2009 gültigen Fassung wird die nächsthöhere Stufe zu
@@ -279,6 +284,7 @@ Satz 2 gilt entsprechend.
 
 
 ## § 5a Teilnahme der Grundgehaltssätze an Besoldungsanpassungen
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000901116)
 
 (1) Die Monatsbeträge der Anlagen nehmen an allgemeinen Anpassungen
 der Besoldung nach § 14 des Bundesbesoldungsgesetzes teil.
@@ -289,6 +295,7 @@ Bundesgesetzblatt bekannt.
 
 
 ## § 6 Regelungen für Beamtinnen und Beamte bei den Postnachfolgeunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000602116)
 
 (1) Beamtinnen und Beamte in den Besoldungsgruppen der
 Bundesbesoldungsordnung A, die bei den Postnachfolgeunternehmen
@@ -309,6 +316,7 @@ bekannt.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000708310)
 
 (Fundstelle: BGBl. I 2012, 1700)
 
@@ -855,6 +863,7 @@ gehobenen Dienstes sowie für Offiziere um 8,58 Euro.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/bes_g/BJNR022100009.html#BJNR022100009BJNE000808310)
 
 (Fundstelle: BGBl. I 2012, 1701)
 

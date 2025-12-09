@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Name, Sitz
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000304301)
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung und
 Landwirtschaft (Bundesministerium) wird eine bundesunmittelbare
@@ -31,6 +32,7 @@ Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung"
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000403377)
 
 (1) Die Bundesanstalt übernimmt die Aufgaben, die bisher der
 Bundesanstalt für landwirtschaftliche Marktordnung und dem Bundesamt
@@ -88,6 +90,7 @@ soll sich die Bundesanstalt der Einrichtungen der Wirtschaft bedienen.
 
 
 ## § 3 Organe
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000500320)
 
 (1) Organe der Bundesanstalt sind der Präsident und der
 Verwaltungsrat.
@@ -97,6 +100,7 @@ sie nicht durch dieses Gesetz geregelt sind.
 
 
 ## § 4 Präsident
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000600320)
 
 (1) Der Präsident führt die Geschäfte und verwaltet das Vermögen der
 Bundesanstalt in eigener Verantwortung nach Maßgabe dieses Gesetzes,
@@ -107,6 +111,7 @@ Bundesanstalt gerichtlich und außergerichtlich.
 
 
 ## § 5 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000704301)
 
 (1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar aus
 höchstens
@@ -169,6 +174,7 @@ Verwaltungsrat.
 
 
 ## § 6 Rechte und Aufgaben des Verwaltungsrats
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000801377)
 
 (1) Der Verwaltungsrat
 
@@ -204,6 +210,7 @@ Genehmigung des Bundesministeriums bedarf.
 
 
 ## § 7 Fachbeiräte
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE000900320)
 
 (1) Für die fachlichen Bereiche können Fachbeiräte gebildet werden.
 Sie setzen sich zusammen aus sachverständigen Vertretern der Erzeuger,
@@ -223,6 +230,7 @@ auf Auskunftserteilung und auf Anhörung zu.
 
 
 ## § 8 Satzungsgebung und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001100320)
 
 (1) Das Bundesministerium wird ermächtigt, hinsichtlich des Satzes 2
 Nr. 5 und 6 im Einvernehmen mit dem Bundesministerium der Finanzen,
@@ -267,6 +275,7 @@ oder durch einen besonderen Beauftragten durchführen zu lassen.
 
 
 ## § 9 Verwaltungshaushaltsplan
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001301308)
 
 (1) Die Bundesanstalt weist die im Verwaltungsbereich zu erwartenden
 Einnahmen und voraussichtlich zu leistenden Ausgaben in einem
@@ -289,6 +298,7 @@ Entlastung.
 
 
 ## § 10 Wirtschaftsplan, Kreditermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001401377)
 
 (1) Die Bundesanstalt stellt die außerhalb des Verwaltungsbereichs bei
 den Aufgaben nach § 2 Abs. 1 voraussichtlich anfallenden Aufwendungen
@@ -327,6 +337,7 @@ sind.
 
 
 ## § 11 Beamte
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001501377)
 
 (1) Die Bundesanstalt hat Dienstherrenfähigkeit. Ihre Beamten sind
 Bundesbeamte.
@@ -341,6 +352,7 @@ ist oberste Dienstbehörde der Präsident der Bundesanstalt.
 
 
 ## § 12 Angestellte, Arbeiter
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001600320)
 
 Auf die Angestellten und Arbeiter der Bundesanstalt sind die für
 Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen
@@ -348,10 +360,12 @@ Bestimmungen anzuwenden.
 
 
 ## (XXXX) §§ 13 bis 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE001701377)
 
 
 
 ## § 16 Berichtigung von Bezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/bleg/BJNR201900994.html#BJNR201900994BJNE002000320)
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, in Gesetzen und

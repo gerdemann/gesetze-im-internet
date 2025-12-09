@@ -22,10 +22,12 @@ Neugefasst durch
 
 
 ## Abschnitt 1 - Vorschriften über die Bescheinigung für die Beförderung von Arbeitnehmern des eigenen Betriebs durch den Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNG000101306)
 
 
 
 ### § 1 Einreichung der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE000701306)
 
 (1) Der Unternehmer hat die ordnungsgemäß ausgefüllte und
 unterschriebene Bescheinigung nach Artikel 1 der Verordnung (EWG) Nr.
@@ -40,6 +42,7 @@ oder von ihm auf Abzahlung gekauft worden ist.
 
 
 ### § 2 Festsetzung der Gültigkeitsdauer der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE000801306)
 
 Die Genehmigungsbehörde hat die Gültigkeitsdauer der Bescheinigung
 festzusetzen. Die Gültigkeitsdauer beträgt höchstens ein Jahr; sie ist
@@ -47,18 +50,21 @@ in der Bescheinigung zu vermerken.
 
 
 ### § 3 Aushändigung der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE000901306)
 
 Das Original der Bescheinigung ist dem Unternehmer auszuhändigen; die
 Durchschrift der Bescheinigung verbleibt bei der Genehmigungsbehörde.
 
 
 ### § 4 Mitführen der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001001306)
 
 Der Fahrer hat das Original der Bescheinigung während der ganzen Dauer
 der Fahrten, für die sie gilt, mitzuführen.
 
 
 ### § 5 Aufbewahrung der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001101306)
 
 (1) Die Originale der Bescheinigungen sind ein Jahr lang
 aufzubewahren.
@@ -68,6 +74,7 @@ Bescheinigung.
 
 
 ### § 6 Maßnahmen der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001201306)
 
 (1) Bei Beförderungen im Sinne des Artikels 6 der Verordnung Nr.
 117/66/EWG des Rates vom 28. Juli 1966 (Amtsblatt der Europäischen
@@ -83,16 +90,19 @@ Beanstandungen anbringen.
 
 
 ## Abschnitt 2 - Vorschriften über das Fahrtenheft und die Fahrtenblätter
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNG000201306)
 
 
 
 ### § 7 Gültigkeitsdauer des Fahrtenhefts
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001302306)
 
 Das Fahrtenheft gilt bis zum Aufbrauch, längstens jedoch fünf Jahre
 gerechnet ab dem Tag der Ausgabe.
 
 
 ### § 8 Aufbewahrung der Kontrolldokumente
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001402306)
 
 (1) Die Originale und die Durchschriften der Fahrtenblätter sind
 zusammen mit dem Fahrtenheft ein Jahr lang aufzubewahren.
@@ -107,6 +117,7 @@ verschriebene oder sonst unbrauchbar gewordene Fahrtenblätter.
 
 
 ### § 9 Maßnahmen der Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001502306)
 
 (1) Bei Gelegenheitsverkehrsdiensten nach Artikel 3 der Verordnung Nr.
 117/66/EWG und nach Artikel 2 des Übereinkommens vom 26. Mai 1982 über
@@ -130,10 +141,12 @@ Beanstandungen anbringen.
 
 
 ## Abschnitt 3 - Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNG000301306)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001602306)
 
 Der Unternehmer unterliegt hinsichtlich der Erfüllung der Vorschriften
 dieser Verordnung, der Verordnung Nr. 117/66/EWG, des ASOR-
@@ -145,10 +158,12 @@ Personenbeförderungsgesetzes.
 
 
 ## Abschnitt 4 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNG000401306)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001702306)
 
 Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des
 Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -226,10 +241,12 @@ Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 5 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNG000501306)
 
 
 
 ### § 12 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001801306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 66 des Personenbeförderungsgesetzes auch im Land
@@ -237,6 +254,7 @@ Berlin.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/ewgv1016_68dv/BJNR030850975.html#BJNR030850975BJNE001901306)
 
 (Inkrafttreten)
 

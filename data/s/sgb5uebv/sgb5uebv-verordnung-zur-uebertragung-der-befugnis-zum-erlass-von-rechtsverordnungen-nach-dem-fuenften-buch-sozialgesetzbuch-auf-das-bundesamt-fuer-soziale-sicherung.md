@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_bv/BJNR008800010.html#BJNR008800010BJNE000100000)
 
 Auf Grund des § 171e Absatz 3 Satz 2 und Absatz 5 Satz 5 in Verbindung
 mit § 171f des Fünften Buches Sozialgesetzbuch – Gesetzliche
@@ -30,6 +31,7 @@ das Bundesministerium für Gesundheit:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_bv/BJNR008800010.html#BJNR008800010BJNE000202126)
 
 Die in § 170 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch in
 Verbindung mit § 162 des Fünften Buches Sozialgesetzbuch enthaltenen
@@ -38,11 +40,13 @@ Ermächtigungen werden auf das Bundesamt für Soziale Sicherung
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_bv/BJNR008800010.html#BJNR008800010BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb5_bv/BJNR008800010.html#BJNR008800010BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

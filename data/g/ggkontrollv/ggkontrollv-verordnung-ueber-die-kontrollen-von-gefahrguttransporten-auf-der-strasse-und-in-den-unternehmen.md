@@ -29,6 +29,7 @@ Kontrolle von Gefahrguttransporten auf der Straße
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000202123)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Kontrollen von
 Gefahrguttransporten durch die nach § 9 Abs. 1 des Gesetzes über die
@@ -46,6 +47,7 @@ entsprechend an.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000301308)
 
 Im Sinne dieser Verordnung bezeichnet der Begriff
 
@@ -92,6 +94,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 
 ## § 3 Kontrollen auf der Straße
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000403123)
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte oder nach
 Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet ein
@@ -150,6 +153,7 @@ auf einem hierfür geeigneten Platz.
 
 
 ## § 4 Kontrollen in den Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000502305)
 
 (1) Die nach § 9 Abs. 1 des Gesetzes über die Beförderung gefährlicher
 Güter für die Überwachung in den Unternehmen zuständigen Behörden
@@ -170,6 +174,7 @@ andere geeignete Maßnahmen ergreifen.
 
 
 ## § 5 Berichtswesen
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000605123)
 
 (1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte
 Stelle und das Bundesamt für Logistik und Mobilität übermitteln dem
@@ -202,6 +207,7 @@ zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 (zu § 3 Abs. 3 Satz 1)
 
 ## Anlage 1 Prüfliste
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE000903308)
 
 (Fundstelle: BGBl. I 2005, 3107)
 1\. Ort der Kontrolle                   2. Datum             3. Zeit
@@ -329,12 +335,14 @@ die/der die Kontrolle
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE001002308)
 
 (weggefallen)
 
 (zu § 3 Abs. 7)
 
 ## Anlage 3 Verstöße
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE001103308)
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 
@@ -539,12 +547,14 @@ dieser Verordnung angegeben) angewandt.
 
 
 ## Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE001202308)
 
 (weggefallen)
 
 (zu § 5 Abs. 1)
 
 ## Anlage 5 Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ggkontrollv/BJNR130600997.html#BJNR130600997BJNE001302308)
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 

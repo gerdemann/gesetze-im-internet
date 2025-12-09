@@ -21,24 +21,29 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Einführung der Selbstverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNG000100319)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE000600319)
 
 -
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE000701308)
 
 (weggefallen)
 
 
 ## Zweiter Abschnitt - Rechtsangleichung
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNG000200319)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE000800319)
 
 Die Vorschriften des Ersten und des Zweiten Buchs der
 Reichsversicherungsordnung in der Fassung der Ersten Verordnung zur
@@ -48,11 +53,13 @@ im Land Berlin, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE000901308)
 
 -
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001000319)
 
 Die Verwaltungsaufgaben und -befugnisse, die dem Versicherungsamt
 zustehen, gehen auf die nach Landesrecht zu bestimmende Behörde und,
@@ -62,10 +69,12 @@ Landes Berlin über.
 
 
 ## Dritter Abschnitt - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNG000300319)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001100319)
 
 Die Krankenversicherungsanstalt Berlin ist eine Ortskrankenkasse im
 Sinne des § 225 der Reichsversicherungsordnung. Sie erhält die
@@ -73,6 +82,7 @@ Bezeichnung "Allgemeine Ortskrankenkasse Berlin".
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001200319)
 
 (1) Die Allgemeine Ortskrankenkasse und die besonderen
 Ortskrankenkassen im Land Berlin sowie der Verband Berliner
@@ -108,6 +118,7 @@ Krankenkassen, die ihre Tätigkeit wieder aufnehmen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001300319)
 
 Die Bundespostbetriebskrankenkasse kann ihren Bereich auf das Land
 Berlin erstrecken, wenn die Mehrheit der für die
@@ -118,11 +129,13 @@ gilt insoweit die Bundesrepublik Deutschland.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001400319)
 
 -
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001500319)
 
 (1) Das Vermögen (Eigentum und alle sonstigen Vermögensrechte) der
 nach den Vorschriften dieses Gesetzes aufgelösten Krankenkassen und
@@ -148,6 +161,7 @@ nicht statt.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001600319)
 
 (1) Die Verbindlichkeiten der nach den Vorschriften dieses Gesetzes
 aufgelösten Krankenkassen und des Verbands Berliner Ortskrankenkassen
@@ -162,6 +176,7 @@ des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001700319)
 
 Das im Land Berlin belegene Vermögen (§ 10 Abs. 1) und die
 Verbindlichkeiten der Lichterfelder Ersatzkasse gehen mit dem Tag des
@@ -171,6 +186,7 @@ gelten entsprechend.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001800319)
 
 Soweit das Eigentum an einem Grundstück nach den §§ 10 und 12
 übergeht, genügt zum Nachweis des Übergangs des Eigentums gegenüber
@@ -179,6 +195,7 @@ für sonstige im Grundbuch eingetragene Rechte entsprechend.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE001900319)
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 10 bis 12 entstehen, werden nicht erhoben;
@@ -186,6 +203,7 @@ bare Auslagen bleiben außer Ansatz.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002000319)
 
 (1) Die Treuhandschaft des Bundes und des Landes Berlin an dem
 Vermögen der nach dem 8. Mai 1945 im Land Berlin stillgelegten und
@@ -205,6 +223,7 @@ dem Tag des Inkrafttretens dieses Gesetzes im Land Berlin.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002100319)
 
 (1) Innungskrankenkassen mit Sitz im Land Berlin, die Versicherte von
 der Allgemeinen Ortskrankenkasse Berlin übernehmen, und Ersatzkassen,
@@ -234,28 +253,34 @@ Berlin erstreckt wird.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002200319)
 
 -
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002301308)
 
 -
 
 
 ## Vierter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNG000400319)
 
 
 
 ### (XXXX) §§ 19 u. 20
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002400319)
 
 
 
 ## Fünfter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNG000500319)
 
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002500319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -265,6 +290,7 @@ Dritten Überleitungsgesetzes.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/skageg/BJNR018830957.html#BJNR018830957BJNE002600319)
 
 Dieses Gesetz tritt am 1. Januar 1958 in Kraft.
 

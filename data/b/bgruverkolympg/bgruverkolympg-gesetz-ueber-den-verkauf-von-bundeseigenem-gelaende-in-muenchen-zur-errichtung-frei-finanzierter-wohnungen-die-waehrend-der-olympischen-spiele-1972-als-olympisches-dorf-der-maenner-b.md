@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bgruverkolympg/BJNR015370969.html#BJNR015370969BJNE000100314)
 
 (1) Die Bundesregierung wird ermächtigt, eine Teilfläche des
 bundeseigenen Grundstücks Flur-Nr. 404/23 der Gemarkung München-
@@ -36,6 +37,7 @@ baulichen Nutzbarkeit zugrunde gelegt ist, erhöht wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bgruverkolympg/BJNR015370969.html#BJNR015370969BJNE000200314)
 
 Dieses Gesetz tritt mit dem Tag der Verkündung in Kraft.
 

@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000200000)
 
 (1) Diese Verordnung gilt für Anlagen des Bundes zur Endlagerung
 radioaktiver Abfälle nach § 9a Absatz 3 Satz 1 des Atomgesetzes in der
@@ -47,6 +49,7 @@ Endlagerung dieser weiteren radioaktiven Abfälle die Bestimmungen des
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000300000)
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -114,9 +117,11 @@ Standortauswahlgesetzes anzuwenden.
 
 
 ## Abschnitt 2 - Langzeitsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000200000)
 
 
 ### § 3 Bewertungszeitraum; Entwicklungen des Endlagersystems
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000400000)
 
 (1) Der Bewertungszeitraum beträgt eine Million Jahre ab dem
 vorgesehenen Verschluss des Endlagers.
@@ -168,6 +173,7 @@ derzeit übliche menschliche Aktivitäten ausgelöst werden können.
 
 
 ### § 4 Sicherer Einschluss der radioaktiven Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000500000)
 
 (1) Die einzulagernden radioaktiven Abfälle sind im Endlagersystem mit
 dem Ziel zu konzentrieren und sicher einzuschließen, die darin
@@ -222,6 +228,7 @@ Absätzen 1 bis 4 beibehält.
 
 
 ### § 5 Integrität und Robustheit des einschlusswirksamen Gebirgsbereichs als wesentlicher Barriere
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000600000)
 
 (1) Im Fall des § 4 Absatz 3 Nummer 1 ist für die zu erwartenden
 Entwicklungen im Bewertungszeitraum die Integrität des
@@ -289,6 +296,7 @@ eine Erprobung erlauben.
 
 
 ### § 6 Integrität und Robustheit der technischen und geotechnischen Barrieren als wesentliche Barrieren
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000700000)
 
 (1) Im Fall des § 4 Absatz 3 Nummer 2 ist für die zu erwartenden
 Entwicklungen im Bewertungszeitraum die Integrität des Systems der
@@ -339,6 +347,7 @@ darzustellen.
 
 
 ### § 7 Dosiswerte im Bewertungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000800000)
 
 (1) Es ist zu prüfen und darzustellen, dass Expositionen auf Grund von
 Austragungen von Radionukliden aus den eingelagerten radioaktiven
@@ -372,6 +381,7 @@ wenn
 
 
 ### § 8 Ausschluss sich selbst tragender Kettenreaktionen
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE000900000)
 
 (1) Es ist zu prüfen und darzustellen, dass sich selbst tragende
 Kettenreaktionen während des Betriebs und der Stilllegung des
@@ -394,9 +404,11 @@ Die Berechnung erfolgt nach der Anlage.
 
 
 ## Abschnitt 3 - Erkundung des Endlagerstandortes und Planung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000300000)
 
 
 ### § 9 Erkundung des Endlagerstandortes
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001000000)
 
 (1) Bei der Erkundung des Endlagerstandortes sind die Daten über die
 Eigenschaften des Standortes, die für die Sicherheit des Endlagers
@@ -424,6 +436,7 @@ Gewährleistung der erforderlichen Sicherheit möglich ist.
 
 
 ### § 10 Sicherheitskonzept
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001100000)
 
 (1) In einem Sicherheitskonzept ist darzulegen, wie das Ziel der
 Konzentration und des sicheren Einschlusses der radioaktiven Abfälle
@@ -488,6 +501,7 @@ zum Abschluss der Stilllegung erforderlich sind
 
 
 ### § 11 Auslegung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001200000)
 
 (1) Die technische Auslegung des Endlagers ist aus dem
 Sicherheitskonzept abzuleiten und zu optimieren. Sie hat insbesondere
@@ -566,6 +580,7 @@ begründen und bei der Auslegung des Endlagers zu berücksichtigen.
 
 
 ### § 12 Optimierung des Endlagersystems
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001300000)
 
 (1) Das Sicherheitskonzept und die technische Auslegung des Endlagers
 sind unter Berücksichtigung aller Umstände des Einzelfalls und unter
@@ -619,9 +634,11 @@ Fassung bleibt unberührt.
 
 
 ## Abschnitt 4 - Rückholbarkeit und Ermöglichung einer Bergung
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000400000)
 
 
 ### § 13 Rückholbarkeit eingelagerter Endlagergebinde
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001400000)
 
 (1) Endlagergebinde, die in das Endlager eingelagert wurden, müssen
 bis zum Beginn der Stilllegung des Endlagers rückholbar sein.
@@ -637,6 +654,7 @@ dürfen die Langzeitsicherheit des Endlagers nicht gefährden.
 
 
 ### § 14 Ermöglichung einer Bergung eingelagerter Endlagergebinde
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001500000)
 
 (1) Es sind ausreichende Vorkehrungen dafür zu treffen, dass eine
 Bergung der eingelagerten Endlagergebinde während der Stilllegung und
@@ -689,9 +707,11 @@ Langzeitsicherheit des Endlagers nicht gefährden.
 
 
 ## Abschnitt 5 - Errichtung, Betrieb und Stilllegung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000500000)
 
 
 ### § 15 Errichtung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001600000)
 
 (1) Die Errichtung des Endlagers umfasst alle Auffahrungen sowie die
 weiteren über- und untertägigen baulichen und technischen Maßnahmen,
@@ -730,6 +750,7 @@ Einlagerung von radioaktiven Abfällen erfolgen kann.
 
 
 ### § 16 Probebetrieb des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001700000)
 
 (1) Vor der erstmaligen Annahme von radioaktiven Abfällen zum Zweck
 der Endlagerung muss der Betrieb des Endlagers erfolgreich erprobt
@@ -762,6 +783,7 @@ worden sein.
 
 
 ### § 17 Sicherheit während der Errichtung, des Betriebs und der Stilllegung des Endlagers; Anlagenzustände
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001800000)
 
 (1) Die für die Sicherheit des Endlagers relevanten Anlagenzustände
 während der Errichtung, des Betriebs und der Stilllegung sind
@@ -817,6 +839,7 @@ nicht erheblich und nicht mehr als unvermeidlich beeinträchtigen.
 
 
 ### § 18 Einlagerung von radioaktiven Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE001900000)
 
 (1) Es dürfen nur solche Endlagergebinde in das Endlagerbergwerk
 eingebracht werden, deren Endlagerfähigkeit nach § 3 Absatz 1 Satz 2
@@ -840,6 +863,7 @@ technischen Einrichtungen sind vorzuhalten.
 
 
 ### § 19 Stilllegung des Endlagers
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE002000000)
 
 (1) Nach Abschluss der Einlagerung von radioaktiven Abfällen ist das
 Endlager so stillzulegen, dass das Endlagersystem den sicheren
@@ -855,9 +879,11 @@ beeinträchtigenden technischen Einrichtungen.
 
 
 ## Abschnitt 6 - Weitere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNG000600000)
 
 
 ### § 20 Überwachung des Endlagers und seiner Umgebung
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE002100000)
 
 (1) Das Endlager und seine Umgebung sind im Rahmen eines Monitorings
 kontinuierlich zu überwachen. Das Monitoring hat insbesondere solche
@@ -891,6 +917,7 @@ sicherheitsrelevanten Beeinträchtigung des Endlagersystems führen.
 
 
 ### § 21 Endlagerung von schwach- und mittelradioaktiven Abfällen am selben Standort
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE002200000)
 
 (1) Durch eine zusätzliche Endlagerung von schwach- und
 mittelradioaktiven Abfällen am selben Standort
@@ -933,6 +960,7 @@ beeinflussen.
 (zu § 8 Absatz 2)
 
 ### Anlage Berechnung des Neutronenmultiplikationsfaktors
+[Direktlink](https://www.gesetze-im-internet.de/endlsianfv/BJNR209410020.html#BJNR209410020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 2102)
 

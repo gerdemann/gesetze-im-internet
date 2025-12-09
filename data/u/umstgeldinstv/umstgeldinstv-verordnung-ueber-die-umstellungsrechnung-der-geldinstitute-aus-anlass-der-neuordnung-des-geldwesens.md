@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE000600326)
 
 Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen
 auf dem Gebiet der Neuordnung des Geldwesens und über die
@@ -31,10 +32,12 @@ von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S.
 
 
 ## Abschnitt I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNG000100326)
 
 
 
 ### § 1 Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE000700326)
 
 (1) Für die Umstellungsrechnung von Geldinstituten, die eine
 Ausgleichsforderung in Anspruch nehmen, sind die für die Aktiven
@@ -75,6 +78,7 @@ Ausgleichsforderungen, die nicht auf § 11 des Umstellungsgesetzes und
 
 
 ### § 2 Rückbezüglichkeit später eintretender Umstände
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE000800326)
 
 Waren die für die Bewertung von Aktiven oder Passiven maßgebenden
 Verhältnisse am 21. Juni 1948 nicht oder nicht zuverlässig übersehbar,
@@ -85,10 +89,12 @@ sind.
 
 
 ## Abschnitt II - Aktiven
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNG000200326)
 
 
 
 ### § 3 Gebietsmäßige Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE000900326)
 
 (1) Hängt die Verpflichtung, einen Vermögensgegenstand in die
 Umstellungsrechnung einzustellen, davon ab, ob dieser am 21. Juni 1948
@@ -118,6 +124,7 @@ Vermögenswerten etwas anderes ergibt.
 
 
 ### § 4 Nichtbewertungsfähige Vermögensgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001000326)
 
 Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist
 er mit dem Betrag anzusetzen, bis zu dem eine zuverlässige Bewertung
@@ -128,6 +135,7 @@ einer Deutschen Mark zusammengefaßt werden.
 
 
 ### § 5 Verfügungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001100326)
 
 (1) Ist ein Geldinstitut in der Verfügung über einen
 Vermögensgegenstand in der Weise beschränkt, daß es über ihn nur mit
@@ -145,6 +153,7 @@ entsprechend.
 
 
 ### § 6 Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001200326)
 
 (1) Wertpapiere, für die ein Steuerkurswert auf den 31. Dezember 1948
 festgesetzt worden ist, sind,
@@ -245,6 +254,7 @@ die Anteilsrechte ein entsprechender Zuschlag zu machen.
 
 
 ### § 7 Anteile an rechtsfähigen Personengesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001301311)
 
 (1) Ist ein Geldinstitut an einer rechtsfähigen Personengesellschaft
 in der Weise beteiligt, daß es im Sinne des Vermögensteuerrechts als
@@ -261,6 +271,7 @@ Umstände einen höheren oder geringeren Wert begründen.
 
 
 ### § 8 Eigene Aktien und eigene Schuldverschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001400326)
 
 (1) Der Bestand an eigenen Aktien ist nicht anzusetzen.
 
@@ -287,6 +298,7 @@ sind. Der Bestand an eigenen Schuldverschreibungen ist
 
 
 ### § 9 Konsortialkredite
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001500326)
 
 (1) Ist ein Geldinstitut an einem Konsortialkredit beteiligt, so hat
 es mindestens seinen Anteil an dem von dem Kreditnehmer am 21. Juni
@@ -308,6 +320,7 @@ Unterbeteiligung anderer Geldinstitute gewährt, so gelten die Absätze
 
 
 ### § 10 Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001600326)
 
 Grundstücke im Bundesgebiet und in Berlin (West) sind mit einer
 Deutschen Mark für je eine Reichsmark des zuletzt vor dem 21. Juni
@@ -318,6 +331,7 @@ werden, die am 21. Juni 1948 bestanden haben.
 
 
 ### § 11 Einrichtungsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001700326)
 
 (1) Einrichtungsgegenstände sind
 
@@ -348,6 +362,7 @@ sind, sind sie nach Absatz 1 anzusetzen.
 
 
 ### § 12 Warenvorräte
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001800326)
 
 Warenvorräte sind mit den am 31. August 1948 geltenden gewöhnlichen
 Wiederbeschaffungs- oder Herstellungskosten für Waren dieser Art
@@ -357,6 +372,7 @@ handelsüblichen Verdienstspanne anzusetzen.
 
 
 ### § 13 Unterverzinsliche Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE001900326)
 
 (1) Ist eine befristete Forderung unterverzinslich, so braucht sie nur
 mit einem unter dem Nennbetrag liegenden Wert angesetzt zu werden.
@@ -403,10 +419,12 @@ vereinbart oder festgesetzt worden war.
 
 
 ## Abschnitt III - Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNG000300326)
 
 
 
 ### § 14 Unklagbare und einredebehaftete Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002000326)
 
 Unklagbare Verbindlichkeiten und Verbindlichkeiten mit einem dauernden
 Leistungsverweigerungsrecht dürfen in die Umstellungsrechnung nicht
@@ -414,6 +432,7 @@ eingestellt werden.
 
 
 ### § 15 Überverzinsliche Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002100326)
 
 (1) Ist eine Verbindlichkeit aus nicht im Eigenbesitz befindlichen
 Schuldverschreibungen oder aus Darlehen im Sinne des § 22 Abs. 1 des
@@ -444,6 +463,7 @@ Bankenverordnung.
 
 
 ### § 16 Ausstehende Kapitaleinlagen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002200326)
 
 Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder
 von Nachschüssen darf nur insoweit berücksichtigt werden, als sie am
@@ -452,6 +472,7 @@ eingezogene Anteile bestand.
 
 
 ### § 17 Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002300326)
 
 (1) Rückstellungen dürfen gebildet werden, soweit der Grund für eine
 Verbindlichkeit, deren Höhe am 21. Juni 1948 noch nicht feststand,
@@ -467,6 +488,7 @@ Vermögenswertes, der in die Umstellungsrechnung einzustellen wäre.
 
 
 ### § 18 Pensionsrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002400326)
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung gebildet
 werden, wenn der Begünstigte am 21. Juni 1948 einen Rechtsanspruch auf
@@ -674,6 +696,7 @@ März 1963.
 
 
 ### § 19 Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002500326)
 
 (1) Für Verpflichtungen
 
@@ -754,6 +777,7 @@ versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April
 
 
 ### § 20 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002600326)
 
 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten dürfen erst
 berücksichtigt werden, wenn ihr Umfang durch Entscheidung oder
@@ -761,10 +785,12 @@ Vergleich festgestellt ist.
 
 
 ## Abschnitt IV - Gemeinsame Vorschriften für Aktiven und Passiven
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNG000400326)
 
 
 
 ### § 21 Forderungen und Verbindlichkeiten in ausländischer Währung
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002700326)
 
 (1) Für die Umrechnung des Nennbetrages von Forderungen und
 Verbindlichkeiten in ausländischer Währung in Deutsche Mark gilt die
@@ -778,6 +804,7 @@ lautende Forderung oder Verbindlichkeit gleich.
 
 
 ### § 22 Geldwertschuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002800326)
 
 (1) Für Forderungen und Verbindlichkeiten, die nicht auf einen
 bestimmten Geldbetrag lauten, sondern nach dem Inhalt des
@@ -795,6 +822,7 @@ ein Kilogramm Feingold bestimmten Reichsmarkbetrag ergibt.
 
 
 ### § 23 Durchlaufende Kredite
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE002900326)
 
 Durchlaufende Kredite aus Treuhandgeschäften sind auf der Aktivseite
 und auf der Passivseite mit dem gleichen Betrag anzusetzen und
@@ -812,6 +840,7 @@ abzusetzen.
 
 
 ### § 24 Wertberichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003000326)
 
 Falls eine Forderung mit einem unter dem Nennbetrag liegenden Wert
 eingestellt werden darf, kann dies auch in der Weise geschehen, daß
@@ -824,6 +853,7 @@ Aktivposten; der Wertberichtigungsposten gilt nicht als Passivposten.
 
 
 ### § 25 Abgrenzungsposten
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003100326)
 
 (1) Als Abgrenzungsposten sind anzusetzen:
 
@@ -891,6 +921,7 @@ Verbindlichkeiten.
 
 
 ### § 26 Berichtigung der Umstellungsrechnung
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003200326)
 
 (1) Die Umstellungsrechnung unterliegt der Berichtigung (§ 3 Abs. 6
 der Bankenverordnung), soweit
@@ -925,15 +956,18 @@ Bankenverordnung abzuführenden Überschusses zur Folge hat.
 
 
 ## Abschnitt V - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNG000500326)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003300326)
 
 -
 
 
 ### § 28 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003400326)
 
 Diese Verordnung gilt im Land Berlin für die Altbankenrechnungen der
 Berliner Altbanken nach § 14 des Dritten Überleitungsgesetzes vom 4.
@@ -1056,11 +1090,13 @@ April 1953 (Bundesgesetzbl. I S. 127) mit folgenden Maßgaben:
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003500326)
 
 -
 
 
 ### Anlage (zu § 21)
+[Direktlink](https://www.gesetze-im-internet.de/umstgeldinstv/BJNR005890958.html#BJNR005890958BJNE003600326)
 
 Fundstelle des Originaltextes: BGBl. I 1958, 598 - 599
 

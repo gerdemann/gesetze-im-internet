@@ -31,9 +31,11 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000201130)
 
 Dieses Gesetz dient der Gewährleistung einer umweltverträglichen
 dauerhaften Speicherung von Kohlendioxid in unterirdischen
@@ -43,6 +45,7 @@ Gesetz die Genehmigung und den Betrieb von Kohlendioxidleitungen.
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000301130)
 
 (1) Dieses Gesetz gilt für
 
@@ -116,6 +119,7 @@ hinsichtlich
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000401130)
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -264,9 +268,11 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
 
 ## Kapitel 2 - Transport
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000200000)
 
 
 ### § 4 Planfeststellung und Plangenehmigung für Kohlendioxidleitungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000504130)
 
 (1) Die Errichtung, der Betrieb sowie die Änderung einer
 Kohlendioxidleitung bedürfen der vorherigen Planfeststellung durch die
@@ -330,6 +336,7 @@ Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
 
 ### § 4a Planfeststellungsverfahren und Plangenehmigungsverfahren für Kohlendioxidleitungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE005100130)
 
 (1) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des
 Verwaltungsverfahrensgesetzes. Dabei sind die folgenden Maßgaben und
@@ -434,6 +441,7 @@ zu beachten.
 
 
 ### § 4b Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE005200130)
 
 Dienen die Errichtung und der Betrieb sowie die Änderung einer
 Kohlendioxidleitung dem Wohl der Allgemeinheit, so ist die Entziehung
@@ -458,6 +466,7 @@ Behörde im Planfeststellungsbeschluss. § 15 Absatz 2 und 3 Satz 2 und
 
 
 ### § 4c Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE005300130)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz,
@@ -549,12 +558,15 @@ Zustimmung des Bundesrates
 
 
 ## Kapitel 3 - Dauerhafte Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000300000)
 
 
 ### Abschnitt 1 - Bundesweite Bewertung und Register
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000400000)
 
 
 #### § 5 Analyse und Bewertung der Potenziale für die dauerhafte Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000603130)
 
 (1) Das Bundesministerium für Wirtschaft und Energie erstellt und
 aktualisiert im Einvernehmen mit dem Bundesministerium für Umwelt,
@@ -667,6 +679,7 @@ Bereitstellungspflichten nach dem Geologiedatengesetz vom 19. Juni
 
 
 #### § 6 Register; Verordnungsermächtigung; Bericht an die Kommission
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000703130)
 
 (1) Die Bundesanstalt für Geowissenschaften und Rohstoffe
 (Registerbehörde) erstellt und führt im Einvernehmen mit dem
@@ -750,12 +763,15 @@ Anwendung der Richtlinie 2009/31/EG und über Informationen nach Absatz
 
 
 ### Abschnitt 2 - Genehmigung und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000500000)
 
 
 #### Unterabschnitt 1 - Untersuchung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000600000)
 
 
 ##### § 7 Untersuchungsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000802130)
 
 (1) Die Untersuchung des Untergrundes auf seine Eignung zur Errichtung
 von Kohlendioxidspeichern bedarf der Genehmigung. Die Genehmigung ist
@@ -895,6 +911,7 @@ Gesteinsschichten nicht zugelassen werden.
 
 
 ##### § 8 Verfahrens- und Formvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE000901130)
 
 (1) Der Antrag auf Untersuchungsgenehmigung kann schriftlich oder
 elektronisch übermittelt werden. Es sind die Angaben zu machen und die
@@ -987,6 +1004,7 @@ als zugestellt; in der Bekanntmachung ist hierauf hinzuweisen.
 
 
 ##### § 9 Nebenbestimmungen und Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001001130)
 
 (1) Die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen
 ist zulässig, wenn dies erforderlich ist, um die Einhaltung der
@@ -1011,6 +1029,7 @@ einmalig verlängert werden.
 
 
 ##### § 10 Benutzung fremder Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001100000)
 
 (1) Wer für notwendige Messungen, Untersuchungen des Bodens, des
 Untergrundes und des Grundwassers oder ähnliche Arbeiten zum Zweck der
@@ -1069,9 +1088,11 @@ begonnen oder fortgesetzt werden.
 
 
 #### Unterabschnitt 2 - Errichtung und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000700000)
 
 
 ##### § 11 Planfeststellung für Errichtung und Betrieb eines Kohlendioxidspeichers
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001201130)
 
 (1) Die Errichtung, der Betrieb sowie die wesentliche Änderung eines
 Kohlendioxidspeichers bedürfen der vorherigen Planfeststellung durch
@@ -1123,6 +1144,7 @@ Wassersäule ist unzulässig.
 
 
 ##### § 12 Antrag auf Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001301116)
 
 (1) Der Antrag auf Planfeststellung oder Plangenehmigung muss
 enthalten:
@@ -1201,6 +1223,7 @@ denselben Gesteinsschichten.
 
 
 ##### § 13 Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001402130)
 
 (1) Der Plan darf nur festgestellt oder die Plangenehmigung nur
 erteilt werden, wenn
@@ -1401,6 +1424,7 @@ Länder abzustimmen.
 
 
 ##### § 14 Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001500000)
 
 Der Grundstückseigentümer und sonstige Nutzungsberechtigte haben nach
 Maßgabe des § 75 Absatz 2 Satz 1 des Verwaltungsverfahrensgesetzes die
@@ -1413,6 +1437,7 @@ eine von ihnen nach Satz 1 zu duldende Speicherung verursacht werden.
 
 
 ##### § 15 Enteignungsrechtliche Vorwirkung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001601130)
 
 (1) Dienen die Errichtung und der Betrieb des Kohlendioxidspeichers
 dem Wohl der Allgemeinheit, ist die Enteignung zulässig, soweit sie
@@ -1444,6 +1469,7 @@ die Enteignungsgesetze der Länder.
 
 
 ##### § 16 Widerruf der Planfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001700000)
 
 (1) Planfeststellung und Plangenehmigung können widerrufen werden,
 wenn eine für die Entscheidung maßgebliche Voraussetzung später
@@ -1473,9 +1499,11 @@ Kosten werden vom früheren Betreiber getragen.
 
 
 #### Unterabschnitt 3 - Stilllegung und Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000800000)
 
 
 ##### § 17 Stilllegung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001800000)
 
 (1) Die Stilllegung bedarf der Genehmigung.
 
@@ -1529,6 +1557,7 @@ Stilllegung auf Antrag fest.
 
 
 ##### § 18 Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE001900000)
 
 Nach Abschluss der Stilllegung des Kohlendioxidspeichers ist der
 Betreiber insbesondere nach Maßgabe des Stilllegungs- und
@@ -1538,9 +1567,11 @@ Pflichten nach den §§ 22 und 23 gelten entsprechend.
 
 
 #### Unterabschnitt 4 - Nachweise und Programme
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG000900000)
 
 
 ##### § 19 Sicherheitsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002001130)
 
 Der Betreiber ist verpflichtet, den Sicherheitsnachweis auf Grundlage
 der Charakterisierung und Bewertung nach § 7 Absatz 3 Satz 1 zu
@@ -1558,6 +1589,7 @@ abzugeben. § 39 Absatz 2 Satz 5 und 6 ist entsprechend anzuwenden.
 
 
 ##### § 20 Überwachungskonzept
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002101130)
 
 (1) Der Betreiber ist verpflichtet, für den Zeitraum ab Errichtung des
 Kohlendioxidspeichers bis zur Übertragung der Verantwortung nach § 31
@@ -1578,9 +1610,11 @@ bedarf der Genehmigung durch die zuständige Behörde, soweit die
 
 
 #### Unterabschnitt 5 - Betreiberpflichten
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001000000)
 
 
 ##### § 21 Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002201130)
 
 (1) Der Betreiber ist verpflichtet, alle Tätigkeiten und Anlagen für
 die dauerhafte Speicherung nach § 2 Absatz 1 Nummer 2 auf einem Stand
@@ -1600,6 +1634,7 @@ der Verantwortung nach § 31 zu gewährleisten.
 
 
 ##### § 22 Eigenüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002300000)
 
 (1) Der Betreiber hat auf Grundlage des Überwachungskonzepts nach § 20
 den Kohlendioxidspeicher und den Speicherkomplex, insbesondere die
@@ -1653,6 +1688,7 @@ Behörde, mindestens jedoch einmal im Jahr, folgende Angaben zu
 
 
 ##### § 23 Maßnahmen bei Leckagen oder erheblichen Unregelmäßigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002400000)
 
 (1) Bei Leckagen oder erheblichen Unregelmäßigkeiten hat der Betreiber
 unverzüglich
@@ -1685,6 +1721,7 @@ untersagt.
 
 
 ##### § 24 Anforderungen an Kohlendioxidströme
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002501130)
 
 (1) Ein Kohlendioxidstrom darf nur dann angenommen und in einen
 Kohlendioxidspeicher injiziert werden, wenn
@@ -1734,9 +1771,11 @@ enthält.
 
 
 #### Unterabschnitt 6 - Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001100000)
 
 
 ##### § 25 Regelung von Anforderungen an Kohlendioxidspeicher; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002603130)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz,
@@ -1866,6 +1905,7 @@ Artikels 1 Nummer 3 der Richtlinie 94/22/EG sind oder waren,
 
 
 ##### § 26 Regelung von Anforderungen an das Verfahren; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002703130)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz,
@@ -1892,9 +1932,11 @@ näher zu bestimmen.
 
 
 ### Abschnitt 3 - Überprüfung durch die zuständige Behörde; Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001200000)
 
 
 #### § 27 Überprüfung durch die zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002800000)
 
 Die zuständige Behörde hat zu prüfen, ob die Aufnahme, Änderung oder
 Ergänzung von Auflagen oder ein Widerruf erforderlich ist,
@@ -1920,6 +1962,7 @@ Abstand von fünf Jahren zu erfolgen.
 
 
 #### § 28 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE002901116)
 
 (1) Die zuständige Behörde hat die Errichtung, den Betrieb, die
 Stilllegung und die Nachsorge von Kohlendioxidspeichern sowie
@@ -2046,9 +2089,11 @@ unberührt.
 
 
 ## Kapitel 4 - Haftung und Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001300000)
 
 
 ### § 29 Haftung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003000000)
 
 (1) Wird infolge der Ausübung einer in diesem Gesetz geregelten
 Tätigkeit oder durch eine nach diesem Gesetz zugelassene Anlage oder
@@ -2092,6 +2137,7 @@ entsprechend.
 
 
 ### § 30 Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003102130)
 
 (1) Der Betreiber eines Kohlendioxidspeichers ist verpflichtet, zur
 Erfüllung
@@ -2164,6 +2210,7 @@ zu ersetzen, soweit es in Anspruch genommen wird.
 
 
 ### § 31 Übertragung der Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003200000)
 
 (1) Der Betreiber kann frühestens nach Ablauf von 40 Jahren nach dem
 Abschluss der Stilllegung des Kohlendioxidspeichers bei der
@@ -2250,6 +2297,7 @@ ihm zurückgefordert werden.
 
 
 ### § 32 Verordnungsermächtigung für die Deckungsvorsorge und die Übertragung der Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003303130)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz,
@@ -2292,9 +2340,11 @@ Absatz 3 näher zu bestimmen.
 
 
 ## Kapitel 5 - Anschluss und Zugang Dritter
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001400000)
 
 
 ### § 33 Anschluss und Zugang; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003402130)
 
 (1) Die Betreiber von Kohlendioxidleitungsnetzen und
 Kohlendioxidspeichern haben anderen Unternehmen diskriminierungsfrei
@@ -2385,6 +2435,7 @@ ohne Zustimmung des Bundesrates folgende Einzelheiten zu regeln:
 
 
 ### § 34 Befugnisse der Bundesnetzagentur; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003501116)
 
 (1) Die Bundesnetzagentur kann Betreiber von
 Kohlendioxidleitungsnetzen und Kohlendioxidspeichern verpflichten, ein
@@ -2447,6 +2498,7 @@ zur Festlegung oder Genehmigung nach Absatz 2 sowie das Verfahren zur
 
 
 ### § 35 Behördliches und gerichtliches Verfahren für den Anschluss und den Zugang Dritter; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003602130)
 
 (1) Die Bundesnetzagentur leitet ein behördliches Verfahren für den
 Anschluss und den Zugang Dritter von Amts wegen oder auf Antrag ein.
@@ -2510,9 +2562,11 @@ unberührt.
 
 
 ## Kapitel 6 - Forschungsspeicher
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001500000)
 
 
 ### § 36 Geltung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003700000)
 
 Für Forschungsspeicher und die Untersuchung des Untergrundes auf seine
 Eignung zur Errichtung von Forschungsspeichern gelten die Vorschriften
@@ -2521,6 +2575,7 @@ in den §§ 37 und 38 nichts anderes bestimmt ist.
 
 
 ### § 37 Genehmigung von Forschungsspeichern
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003800000)
 
 (1) Errichtung, Betrieb und wesentliche Änderung eines
 Forschungsspeichers oder die Änderung des Forschungszwecks bedürfen
@@ -2550,6 +2605,7 @@ hervorgerufen werden können.
 
 
 ### § 38 Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE003901130)
 
 (1) § 11 Absatz 1 und 2, die §§ 14, 15, 19 Satz 4, § 20 Absatz 1 Satz
 2 sowie § 30 Absatz 1 Nummer 3 finden für Forschungsspeicher und die
@@ -2568,9 +2624,11 @@ Verfügung zu stellen.
 
 
 ## Kapitel 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNG001600000)
 
 
 ### § 39 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004001130)
 
 (1) Die für den Vollzug dieses Gesetzes zuständige Behörde richtet
 sich nach Landesrecht, soweit in diesem Gesetz nichts anderes bestimmt
@@ -2631,6 +2689,7 @@ entsprechend anzuwenden.
 
 
 ### § 39a Zuständigkeit des Oberverwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE005000130)
 
 (1) Das Oberverwaltungsgericht entscheidet im ersten Rechtszug über
 sämtliche Streitigkeiten über
@@ -2663,6 +2722,7 @@ Bezirk die zuständige Behörde ihren Sitz hat.
 
 
 ### § 40 Wissensaustausch; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004103130)
 
 (1) Betreiber von Anlagen zur Abscheidung von Kohlendioxid und von
 Kohlendioxidleitungen sowie von Kohlendioxidspeichern führen mit
@@ -2716,6 +2776,7 @@ Absatz 1 erforderlichen Daten zur Verfügung gestellt werden.
 
 
 ### § 41 Gebühren und Auslagen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004203130)
 
 (1) Für Amtshandlungen nach diesem Gesetz können Gebühren und Auslagen
 nach Maßgabe des Landesrechts erhoben werden. Die nach § 39 Absatz 1
@@ -2732,12 +2793,14 @@ Gebühreneinnahmen der Länder festzulegen.
 
 
 ### § 42 Landesrechtliche Speicherabgaben
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004300000)
 
 Die Entscheidung über die Einführung landesrechtlicher Abgaben im
 Zusammenhang mit der dauerhaften Speicherung liegt bei den Ländern.
 
 
 ### § 43 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004401130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2918,6 +2981,7 @@ zwanzigtausend Euro geahndet werden.
 
 
 ### § 44 Evaluierungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004501130)
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31.
 Dezember 2027 und danach im Abstand von jeweils vier Jahren über die
@@ -3007,6 +3071,7 @@ Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 
 
 ### § 45 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004601130)
 
 (1) Bereits begonnene Verfahren auf Erteilung einer Erlaubnis nach § 7
 des Bundesberggesetzes, die sich auf die Aufsuchung von Bodenschätzen,
@@ -3049,6 +3114,7 @@ sind.
 
 
 ### § 46 Ausschluss abweichenden Landesrechts
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004701130)
 
 Soweit in § 4 Absatz 2 Satz 3 und § 11 Absatz 1a Satz 3 nichts anderes
 bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses
@@ -3060,6 +3126,7 @@ Landesrecht nicht abgewichen werden.
 Kriterien für die Charakterisierung und Bewertung
 
 ### Anlage 1 der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004801130)
 
 (Fundstelle: BGBl. I 2012, 1746 - 1748)
 
@@ -3489,6 +3556,7 @@ Naturschutz insbesondere auf folgende Punkte ein:
 (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1)
 
 ### Anlage 2 Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
+[Direktlink](https://www.gesetze-im-internet.de/kspg/BJNR172610012.html#BJNR172610012BJNE004900000)
 
 (Fundstelle: BGBl. I 2012, 1749 - 1750)
 

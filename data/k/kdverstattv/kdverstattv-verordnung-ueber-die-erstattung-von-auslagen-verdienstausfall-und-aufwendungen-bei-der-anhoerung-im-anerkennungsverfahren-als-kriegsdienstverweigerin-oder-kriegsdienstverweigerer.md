@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kdverstattv/BJNR216200003.html#BJNR216200003BJNE000100000)
 
 Auf Grund des § 6 Abs. 6 des Kriegsdienstverweigerungsgesetzes vom 9.
 August 2003 (BGBl. I S. 1593) verordnet das Bundesministerium für
@@ -26,6 +27,7 @@ Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Fahrkosten, Wegstreckenentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/kdverstattv/BJNR216200003.html#BJNR216200003BJNE000200000)
 
 (1) Der Antragstellerin oder dem Antragsteller werden auf Antrag die
 notwendigen Fahrkosten erstattet. Notwendig sind die Fahrkosten, die
@@ -51,12 +53,14 @@ entfällt die Kostenerstattung für Fahrten mit der Deutschen Bahn AG.
 
 
 ## § 2 Tagegeld, Übernachtungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/kdverstattv/BJNR216200003.html#BJNR216200003BJNE000300000)
 
 Für das Tage- und Übernachtungsgeld gelten die Bestimmungen des
 Bundesreisekostengesetzes in der jeweils geltenden Fassung.
 
 
 ## § 3 Verdienstausfall, notwendige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/kdverstattv/BJNR216200003.html#BJNR216200003BJNE000400000)
 
 (1) Soweit eine Arbeitnehmerin oder ein Arbeitnehmer keinen Anspruch
 auf Weiterzahlung des Arbeitsentgelts nach § 6 Abs. 5 Satz 2 des
@@ -78,6 +82,7 @@ gelagerten Fällen übliche Vergütung.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kdverstattv/BJNR216200003.html#BJNR216200003BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/beamtzust_ano/BJNR005220987.html#BJNR005220987BJNE000100325)
 
 Hiermit übertrage ich auf den Generaldirektor der Deutschen
 Bibliothek, soweit er nicht selbst betroffen ist,
@@ -41,17 +42,20 @@ Bibliothek, soweit er nicht selbst betroffen ist,
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/beamtzust_ano/BJNR005220987.html#BJNR005220987BJNE000200325)
 
 Der Vorsitzende des Verwaltungsrats kann sich im Einzelfall die
 Ausübung seiner Befugnisse als oberste Dienstbehörde vorbehalten.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/beamtzust_ano/BJNR005220987.html#BJNR005220987BJNE000300325)
 
 Die Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/beamtzust_ano/BJNR005220987.html#BJNR005220987BJNE000400325)
 
 Der Vorsitzende des Verwaltungsrats der Deutschen Bibliothek
 

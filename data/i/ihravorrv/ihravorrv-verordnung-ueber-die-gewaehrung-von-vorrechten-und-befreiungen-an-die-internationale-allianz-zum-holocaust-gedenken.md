@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000100000)
 
 Auf Grund des § 27 Absatz 2 des Gaststaatgesetzes vom 30. November
 2019 (BGBl. I S. 1929) verordnet die Bundesregierung:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000200000)
 
 Der Ansiedlung der Internationalen Allianz zum Holocaust-Gedenken
 (International Holocaust Remembrance Alliance – IHRA) in der
@@ -33,6 +35,7 @@ Institution gemäß Teil 3 Kapitel 1 des Gaststaatgesetzes wird gemäß §
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000300000)
 
 (1) Die IHRA besitzt in Deutschland Rechtspersönlichkeit und kann
 
@@ -53,6 +56,7 @@ Geschäftsordnung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000400000)
 
 (1) Die IHRA genießt die in den §§ 6 bis 9 und 15 des
 Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und
@@ -66,6 +70,7 @@ genannten Voraussetzungen erfüllt sind und solange sich die IHRA
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000500000)
 
 Die Bediensteten der IHRA genießen die in den §§ 16 bis 18, 20 bis 21
 sowie §§ 23 und 24 des Gaststaatgesetzes vorgesehenen Vorrechte,
@@ -77,6 +82,7 @@ Mitgliedstaaten finanziert.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000600000)
 
 Die IHRA genießt die in § 10 des Gaststaatgesetzes vorgesehenen
 Vorrechte, Immunitäten, Befreiungen und Erleichterungen, sobald die
@@ -88,11 +94,13 @@ und der IHRA geregelt worden sind.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ihravorrv/BJNR076500021.html#BJNR076500021BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

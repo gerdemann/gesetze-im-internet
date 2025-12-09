@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000101308)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001415126)
 
 Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund
 des § 18i Absatz 4, §§ 28a, 99 und 106 bis 109 des Vierten Buches
@@ -41,6 +43,7 @@ beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten.
 
 
 ### § 2 Meldepflichtige
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001503119)
 
 Meldungen sind zu erstatten von
 
@@ -68,6 +71,7 @@ Meldungen sind zu erstatten von
 
 
 ### § 3 Zu meldender Personenkreis
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001603126)
 
 Meldungen sind zu erstatten für
 
@@ -98,10 +102,12 @@ Arbeitgeber Beiträge auf Grund gesetzlicher Vorschriften zahlt.
 
 
 ### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001702308)
 
 
 
 ### § 5 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001814126)
 
 (1) Meldungen sind nach den Verhältnissen des Zeitpunktes zu
 erstatten, auf den sich die Meldung bezieht. Dies gilt insbesondere
@@ -158,14 +164,17 @@ erstattenden Meldung erfolgen.
 
 
 ## Zweiter Abschnitt - Allgemeine Vorschriften für Meldungen der Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000201308)
 
 
 
 ### Erster Unterabschnitt - Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000301308)
 
 
 
 #### § 6 Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE001904308)
 
 Der Beginn einer versicherungspflichtigen Beschäftigung ist mit der
 ersten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von
@@ -173,6 +182,7 @@ sechs Wochen nach ihrem Beginn, zu melden.
 
 
 #### § 7 Sofortmeldung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002004119)
 
 Der Tag des Beginns eines Beschäftigungsverhältnisses ist in den in §
 28a Abs. 4 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch genannten
@@ -182,6 +192,7 @@ melden.
 
 
 #### § 8 Abmeldung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002104119)
 
 (1) Das Ende einer versicherungspflichtigen Beschäftigung ist mit der
 nächsten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb
@@ -198,6 +209,7 @@ erstatten.
 
 
 #### § 8a Meldung bei Eintritt eines Insolvenzereignisses
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005600308)
 
 Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person
 hat für freigestellte Beschäftigte für den Zeitraum bis zum Tag vor
@@ -207,6 +219,7 @@ spätestens aber nach sechs Wochen abzugeben.
 
 
 #### § 9 Unterbrechungsmeldung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002205308)
 
 (1) Wird eine versicherungspflichtige Beschäftigung durch Wegfall des
 Anspruchs auf Arbeitsentgelt für mindestens einen Kalendermonat
@@ -226,6 +239,7 @@ Beschäftigung ist nach § 8 zu melden.
 
 
 #### § 10 Jahresmeldung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002305124)
 
 (1) Eine Jahresmeldung ist für jeden am 31. Dezember eines Jahres
 versicherungspflichtig Beschäftigten mit der ersten folgenden Lohn-
@@ -241,6 +255,7 @@ anfordern.
 
 
 #### § 11 Meldung von einmalig gezahltem Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002406119)
 
 (1) Der Arbeitgeber hat beitragspflichtiges einmalig gezahltes
 Arbeitsentgelt zusammen mit dem beitragspflichtigen laufend gezahlten
@@ -278,6 +293,7 @@ Bezuges einer nach § 38 gemeldeten Entgeltersatzleistung erfolgt.
 
 
 #### § 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005506119)
 
 Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches
 Sozialgesetzbuch ist mit der ersten folgenden Lohn- und
@@ -286,6 +302,7 @@ Gehaltsabrechnung gesondert zu melden, wenn es nicht nach § 7c oder §
 
 
 #### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005902119)
 
 Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten
 folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von sechs
@@ -295,6 +312,7 @@ Einzugsstelle zu melden.
 
 
 #### § 12 Sonstige Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002507126)
 
 (1) Eine Ab- und eine Anmeldung sind zu erstatten, wenn die bisher
 gemeldete Beitragsgruppe, der Personengruppenschlüssel oder die
@@ -335,6 +353,7 @@ abzugeben.
 
 
 #### § 13 Meldungen für geringfügig Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002607126)
 
 (1) Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des
 Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die
@@ -350,10 +369,12 @@ Kalenderjahr bestanden haben.
 
 
 ### Zweiter Unterabschnitt - Korrektur von Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000401308)
 
 
 
 #### § 14 Stornierung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002704124)
 
 (1) Meldungen sind unverzüglich zu stornieren, wenn sie nicht zu
 erstatten waren, bei einer unzuständigen Einzugsstelle erstattet
@@ -373,18 +394,22 @@ Versicherungsnummer notwendigen Angaben zu enthalten.
 
 
 #### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002804308)
 
 
 
 ## Dritter Abschnitt - Meldungen der Arbeitgeber durch Datenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000502308)
 
 
 
 ### Erster Unterabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000601308)
 
 
 
 #### § 16 Technische Standards für die Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE002905126)
 
 (1) Für die Meldeverfahren zwischen Meldepflichtigen und den
 Sozialversicherungsträgern ist der Zeichencode UTF-8 zu verwenden.
@@ -397,6 +422,7 @@ vereinbarenden Gemeinsamen Grundsätze.
 
 
 #### § 17 Datenübertragungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003009126)
 
 (1) Die Daten sind durch https in dem Standard zu übertragen, der in
 den Gemeinsamen Grundsätzen nach § 95 des Vierten Buches
@@ -410,14 +436,17 @@ Grundsätzen festgelegt ist.
 
 
 ### Zweiter Unterabschnitt - Systemprüfung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000702308)
 
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003106124)
 
 
 
 #### § 19 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003206124)
 
 Wer ein Programm oder eine Ausfüllhilfe zur Übermittlung, zur Annahme
 oder zum Abruf von Daten nach dem Sozialgesetzbuch durch einen
@@ -431,6 +460,7 @@ Das Nähere zum Antragsverfahren regeln die Gemeinsamen Grundsätze nach
 
 
 #### § 20 Systemprüfung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003307126)
 
 (1) Inhaltliche Grundlagen für eine Systemprüfung nach § 95b des
 Vierten Buches Sozialgesetzbuch sind die Vorschriften nach dem
@@ -468,6 +498,7 @@ Datenübertragung durch die Einzugsstellen an die Meldepflichtigen.
 
 
 #### § 21 Zulassungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003404119)
 
 Der Antragsteller erhält das Prüfprotokoll und einen
 Zulassungsbescheid vom Spitzenverband Bund der Krankenkassen. Diese
@@ -478,6 +509,7 @@ nach § 22.
 
 
 #### § 22 Gemeinsame Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003509126)
 
 Der Spitzenverband Bund der Krankenkassen, die Deutsche
 Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
@@ -497,6 +529,7 @@ die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
 
 #### § 22a Testverfahren
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE006101119)
 
 Der Spitzenverband Bund der Krankenkassen richtet ein Testverfahren
 zur ständigen Überprüfung der Qualität der in den Melde- und
@@ -509,10 +542,12 @@ bundeseinheitlichen Grundsätzen.
 
 
 ### Dritter Unterabschnitt - Durchführung der Datenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000802308)
 
 
 
 #### § 23 Annahmestelle, Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003604119)
 
 (1) Die Meldungen sind an die zuständige Annahmestelle zu erstatten.
 
@@ -528,10 +563,12 @@ Meldungen erneut zu erstatten.
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003702308)
 
 
 
 #### § 25 Unterrichtung des Arbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003803308)
 
 (1) Der Arbeitgeber hat dem Beschäftigten mindestens einmal jährlich
 bis zum 30. April eines Jahres für alle im Vorjahr durch
@@ -550,10 +587,12 @@ folgenden Kalenderjahres aufzubewahren.
 
 
 ## Vierter Abschnitt - Beitragsnachweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG000903308)
 
 
 
 ### § 26 Beitragsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE003906124)
 
 Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches
 Sozialgesetzbuch ist rechtzeitig einzureichen. Die §§ 2, 3, 5 Abs. 1,
@@ -562,18 +601,22 @@ Abs. 1, 2 und 4 und § 40 Abs. 1 bis 3 gelten entsprechend.
 
 
 ### (XXXX) §§ 27 und 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004003308)
 
 
 
 ## Fünfter Abschnitt - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001001308)
 
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004202308)
 
 
 
 ### § 31 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004411119)
 
 (1) Für die Meldungen der Versicherten der knappschaftlichen
 Rentenversicherung sowie für Meldungen der nach § 129 Abs. 1 Nr. 5 des
@@ -596,14 +639,17 @@ vergeben.
 
 
 ## Sechster Abschnitt - Übernahme und Weiterleitung der Meldungen durch die Sozialversicherungsträger
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001101308)
 
 
 
 ### § 32 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004509124)
 
 
 
 ### § 33 Übernahme und Prüfung der Daten durch die Einzugsstellen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004610119)
 
 (1) Die Annahmestelle prüft die Meldungen auf Vollständigkeit und
 Richtigkeit, insbesondere darauf, dass die Meldungen nur die
@@ -640,14 +686,17 @@ Grundsätze nach § 22.
 
 
 ### § 34 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004704119)
 
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004803308)
 
 
 
 ### § 36 Aufgaben der Datenstelle der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE004908126)
 
 (1) Die Datenstelle der Rentenversicherung führt eine maschinelle
 Stammsatzdatei.
@@ -689,14 +738,17 @@ Rentenversicherung in einer Vereinbarung.
 
 
 ### § 37 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005005308)
 
 
 
 ## Siebter Abschnitt - Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes und Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001202308)
 
 
 
 ### § 38 Entgeltersatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005111124)
 
 (1) Die Leistungsträger und die privaten
 Pflegeversicherungsunternehmen haben Zeiträume, in denen Personen nach
@@ -730,6 +782,7 @@ benötigt.
 
 
 ### § 39 Anrechnungszeiten, Sperrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005209124)
 
 (1) Die Krankenkassen melden dem zuständigen Rentenversicherungsträger
 Anrechnungszeiten ihrer Mitglieder nach § 58 Abs. 1 Satz 1 Nr. 1 und 2
@@ -770,6 +823,7 @@ grundsätzlicher Bedeutung gebunden.
 
 
 ### § 40 Zeiten des Wehr- und Zivildienstes
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005308126)
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmten
 Stellen und das Bundesamt für Familie und zivilgesellschaftliche
@@ -799,6 +853,7 @@ der Rentenversicherung weiterzuleiten.
 
 
 ### § 40a Zeiten einer besonderen Auslandsverwendung
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE006000308)
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle meldet die Zeiträume, für die die Voraussetzungen für Zuschläge
@@ -809,6 +864,7 @@ an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung nach
 
 
 ### § 40b Zeiten des Bezuges von Übergangsgebührnissen
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE006200126)
 
 Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle hat die Zeiträume, in denen Personen nach § 3 Satz 1 Nummer 2
@@ -830,10 +886,12 @@ entsprechend.
 
 
 ## Achter Abschnitt - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001301308)
 
 
 
 ### § 41 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005406124)
 
 Ordnungswidrig im Sinne des § 111 Absatz 1 Satz 1 Nummer 8 des Vierten
 Buches Sozialgesetzbuch handelt, wer vorsätzlich oder leichtfertig
@@ -856,10 +914,12 @@ Buches Sozialgesetzbuch handelt, wer vorsätzlich oder leichtfertig
 
 
 ## Neunter Abschnitt - Beitragsnachweisverfahren für sonstige Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNG001400308)
 
 
 
 ### § 42 Beitragsnachweisverfahren für sonstige Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/de_v/BJNR034310998.html#BJNR034310998BJNE005800308)
 
 § 26 gilt entsprechend für Beitragszahlungen und
 Beitragsweiterleitungen nach § 252 Abs. 2 des Fünften Buches

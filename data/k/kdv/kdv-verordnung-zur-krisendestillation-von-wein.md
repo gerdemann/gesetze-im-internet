@@ -24,6 +24,7 @@ Die geltung dieser v ist durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000101130)
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet, in
 Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom
@@ -55,6 +56,7 @@ Dezember 2021 (BGBl. I S. 5176), auf Grund
 
 
 ## § 1 Anwendungsbereich und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000201130)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung von
 Maßnahmen nach Artikel 2 der Delegierten Verordnung (EU) 2023/1225 der
@@ -71,6 +73,7 @@ dieser Verordnung nichts anderes bestimmt ist.
 
 
 ## § 2 Krisendestillation nach Artikel 2 der Delegierten Verordnung (EU) 2023/1225
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000301130)
 
 (1) Aus den nach Artikel 3 Absatz 1 Buchstabe d der
 Durchführungsverordnung (EU) 2023/1465 der Kommission vom 14. Juli
@@ -95,6 +98,7 @@ festgesetzt.
 
 
 ## § 3 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000401130)
 
 (1) Die Unterstützung für die Destillation von Wein kann
 ausschließlich beantragt werden
@@ -119,6 +123,7 @@ destillierenden Weines zu enthalten.
 
 
 ## § 4 Bewilligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000501130)
 
 (1) Die Unterstützung wird durch Bescheid festgesetzt.
 
@@ -179,6 +184,7 @@ Nachweises der erfolgten Destillation erfolgt.
 
 
 ## § 5 Nachweis der Destillation und Auszahlung der Unterstützung
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000601130)
 
 (1) Nach Abschluss der Destillation hat der Begünstigte der
 zuständigen Landesstelle bis zum 8. Januar 2024 vorzulegen:
@@ -231,6 +237,7 @@ Januar 2024 auszuzahlen.
 
 
 ## § 6 Überwachungsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000701130)
 
 Die zuständigen Landesstellen haben im Rahmen der Durchführung der
 Gewährung der Unterstützung Kontrollen bei den Antragstellern und
@@ -238,6 +245,7 @@ Begünstigten durchzuführen.
 
 
 ## § 7 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000801130)
 
 Zum Zwecke der Bewilligung eines Antrags auf Krisendestillation sowie
 zur Durchführung von Kontrollen dürfen die zuständigen Landesstellen
@@ -246,6 +254,7 @@ Anlage des Marktorganisationsgesetzes verarbeiten und übermitteln.
 
 
 ## § 8 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE000901130)
 
 (1) Zum Zwecke der Überwachung hat der Begünstigte den Bediensteten
 der zuständigen Landesstelle, auch in Begleitung von Prüfungsorganen
@@ -286,6 +295,7 @@ Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kdv/BJNR10B0A0023.html#BJNR10B0A0023BJNE001001130)
 
 (1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sflaggenano/BJNR004470956.html#BJNR004470956BJNE000100304)
 
 (1) Als Dienstflagge der Seestreitkräfte der Bundeswehr bestimme ich
 die Bundesdienstflagge in der Form eines Doppelstanders.

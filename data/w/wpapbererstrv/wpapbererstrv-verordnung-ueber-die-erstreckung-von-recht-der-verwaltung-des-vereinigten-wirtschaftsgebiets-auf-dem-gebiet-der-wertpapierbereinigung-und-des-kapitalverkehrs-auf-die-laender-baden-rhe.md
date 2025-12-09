@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpapbererstrv/BJNR001800950.html#BJNR001800950BJNE000100304)
 
 Auf Grund des Artikels 127 des Grundgesetzes für die Bundesrepublik
 Deutschland verordnet die Bundesregierung mit Zustimmung der
@@ -28,6 +29,7 @@ Hohenzollern und des Kreispräsidenten von Lindau:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wpapbererstrv/BJNR001800950.html#BJNR001800950BJNE000200304)
 
 Das Gesetz der Verwaltung des Vereinigten Wirtschaftsgebiets zur
 Bereinigung des Wertpapierwesens (Wertpapierbereinigungsgesetz) vom
@@ -59,11 +61,13 @@ ausgestellt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wpapbererstrv/BJNR001800950.html#BJNR001800950BJNE000300304)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wpapbererstrv/BJNR001800950.html#BJNR001800950BJNE000400304)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 

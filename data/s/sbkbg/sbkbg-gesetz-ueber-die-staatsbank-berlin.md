@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000100307)
 
 (1) Die Staatsbank Berlin (nachfolgend Bank genannt) ist Körperschaft
 des öffentlichen Rechts und juristische Person.
@@ -46,6 +47,7 @@ Republik gegenüber Dritten ein.
 
 
 ## § 1a
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001700307)
 
 (1) Forderungen der Staatsbank der Deutschen Demokratischen Republik,
 die nach dem Beschluß des Ministerrates Nr. 17/15/90 vom 8. März 1990
@@ -88,6 +90,7 @@ geschlossen worden ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000200307)
 
 (1) Der Bank obliegt insbesondere:
 
@@ -143,12 +146,14 @@ ist zur Anlage von Mündelgeld geeignet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000300307)
 
 Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen.
 Die Erzielung von Gewinn ist nicht Hauptzweck des Geschäftsbetriebes.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000400307)
 
 (1) Organe der Bank sind der Vorstand und der Verwaltungsrat.
 
@@ -157,6 +162,7 @@ nichts anderes bestimmt, die Satzung.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000500307)
 
 (1) Der Vorstand führt die Geschäfte der Bank.
 
@@ -172,6 +178,7 @@ vorzeitige Abberufung ist zulässig.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000600307)
 
 (1) Der Verwaltungsrat beschließt die Richtlinien für die
 Geschäftspolitik der Bank und überwacht ihre Geschäftsführung.
@@ -209,11 +216,13 @@ eine andere geeignete Art und Weise zulassen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000700307)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000800307)
 
 (1) Die Satzung der Bank wird vom Vorstand aufgestellt, vom
 Verwaltungsrat beschlossen und bedarf der Bestätigung durch den
@@ -226,6 +235,7 @@ Bestätigung durch den Ministerrat.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE000900307)
 
 (1) Das Geschäftsjahr ist das Kalenderjahr.
 
@@ -241,6 +251,7 @@ Geschäftsjahres.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001000307)
 
 (1) Über die Bildung von Rückstellungen entscheidet der Verwaltungsrat
 auf Vorschlag des Vorstandes.
@@ -251,12 +262,14 @@ Vorschlag des Verwaltungsrates.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001100307)
 
 Die Vorschriften über die Eintragung in das Handelsregister gelten
 nicht für die Bank.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001200307)
 
 Der Minister der Finanzen nimmt die Staatsaufsicht über die Bank bei
 der Durchführung der ihr mit diesem Gesetz übertragenen Aufgaben in
@@ -267,6 +280,7 @@ wahr.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001300307)
 
 (1) Der Minister der Finanzen kann zur Ausführung des Artikels 23 Abs.
 7 des Einigungsvertrages durch Rechtsverordnung, die der Zustimmung
@@ -297,6 +311,7 @@ erhoben.
 
 
 ## § 13a
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001400307)
 
 Nach Herstellung der Einheit Deutschlands tritt § 13 außer Kraft; die
 Zuständigkeiten gemäß § 6 Abs. 2 Nr. 1, 2 und 3, §§ 8, 10 Abs. 2 und §
@@ -304,11 +319,13 @@ Zuständigkeiten gemäß § 6 Abs. 2 Nr. 1, 2 und 3, §§ 8, 10 Abs. 2 und §
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001500307)
 
 Dieses Gesetz tritt am 1. Juli 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/sbkbg/DDNR005040990.html#DDNR005040990BJNE001600307)
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen
 Republik am neunundzwanzigsten Juni neunzehnhundertneunzig

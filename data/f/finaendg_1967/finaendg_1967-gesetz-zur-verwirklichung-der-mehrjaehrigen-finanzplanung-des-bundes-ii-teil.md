@@ -20,18 +20,22 @@ Zuletzt geändert durch
 
 
 ## Art 1 - Reichsversicherungsordnung, Angestelltenversicherungsgesetz, Reichsknappschaftsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000100306)
 
 
 
 ## Art 2 - Arbeiterrentenversicherungs-Neuregelungsgesetz, Angestelltenversicherungs-Neuregelungsgesetz, Knappschaftsrentenversicherungs-Neuregelungsgesetz, Unfallversicherungs-Neuregelungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000200306)
 
 
 
 ## Art 3 - Übergangsvorschriften zu Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000300306)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002300306)
 
 Leistungen im Falle der Mutterschaft werden nach dem bisherigen Recht
 gewährt, wenn die Schutzfrist nach § 3 Abs. 2 in Verbindung mit § 5
@@ -41,6 +45,7 @@ Bundes nach bisherigem Recht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002400306)
 
 Für die in § 165 Abs. 1 Nr. 3 der Reichsversicherungsordnung
 bezeichneten Personen, die bei Inkrafttreten dieses Gesetzes eine
@@ -55,6 +60,7 @@ dieses Gesetzes noch nicht endgültig entschieden ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002500306)
 
 Wer bei Inkrafttreten dieses Gesetzes einen Betrag nach § 381 Abs. 4
 der Reichsversicherungsordnung erhält, weil er bei einem
@@ -67,6 +73,7 @@ folgenden Monats.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002600306)
 
 (1) Sind seit dem 1. August 1956 bis zum Inkrafttreten dieses Gesetzes
 Land- oder Innungskrankenkassen neu errichtet worden, können die in §
@@ -85,39 +92,48 @@ der Kasse anzuzeigen, bei der die Mitgliedschaft erlischt.
 
 
 ## (XXXX) §§ 5 bis 14
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002700306)
 
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002800306)
 
 -
 
 
 ## Art 4 - Betriebsverfassungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000400306)
 
 
 
 ## Art 5 - Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000500306)
 
 
 
 ## Art 6 - Bundessozialhilfegesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000600306)
 
 
 
 ## Art 7 - Bundesversorgungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000700306)
 
 
 
 ## Art 8 - Gesetz über eine Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000800306)
 
 
 
 ## Art 9 - Leistungsförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG000900306)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE002900306)
 
 Das Gesetz über Bildung und Verwaltung eines Sondervermögens für
 berufliche Leistungsförderung in der Wirtschaft
@@ -127,36 +143,43 @@ berufliche Leistungsförderung in der Wirtschaft
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003000306)
 
 Das Sondervermögen für berufliche Leistungsförderung wird aufgelöst.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003100306)
 
 Ausgabereste sowie Rückflüsse aus gewährten Zuwendungen fließen dem
 Bundeshaushalt zu.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003200306)
 
 Die Rechte und Pflichten aus dem Sondervermögen gehen auf den Bund
 über.
 
 
 ## Art 10 - Kindergeldrecht
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001000306)
 
 
 
 ## Art 11 - Bundesbesoldungsgesetz, Soldatenversorgungsgesetz, Unterhaltssicherungsgesetz, Wehrpflichtgesetz, Schutzbereichgesetz, Bundespolizeibeamtengesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001100306)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003300306)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003400306)
 
 (1)
 
@@ -171,10 +194,12 @@ weiterhin anzuwenden.
 
 
 ## (XXXX) §§ 3 bis 5
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003500306)
 
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNE003600306)
 
 (1)
 
@@ -197,6 +222,7 @@ Widerruf nach § 8 Abs. 1 oder 3 des Bundespolizeibeamtengesetzes
 
 
 ## Art 12 - Bundesrückerstattungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001200306)
 
 Das Bundesgesetz zur Regelung der rückerstattungsrechtlichen
 Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter
@@ -231,31 +257,38 @@ folgender Maßgabe:
 
 
 ## Art 13 - EWG-Anpassungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001300306)
 
 
 
 ## Art 14 - Bundesvertriebenengesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001400306)
 
 
 
 ## Art 15 - -
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001501309)
 
 -
 
 
 ## Art 16 - Straßenbaufinanzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001600306)
 
 
 
 ## Art 17 - Selbstschutzgesetz, Schutzbaugesetz, Haushaltssicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001700306)
 
 
 
 ## Art 18 - Zweites Wohnungsbaugesetz
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001800306)
 
 
 
 ## Art 19 - Wohnungsbaugesetz für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG001900306)
 
 
 1.  Das Wohnungsbaugesetz für das Saarland in der Fassung vom 26. Oktober
@@ -317,6 +350,7 @@ folgender Maßgabe:
 
 
 ## Art 20
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG002000306)
 
 Soweit in anderen Vorschriften auf Bestimmungen verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
@@ -325,6 +359,7 @@ Bezeichnungen dieses Gesetzes.
 
 
 ## Art 21 - Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG002100306)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -334,6 +369,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 22 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fin_ndg_1967/BJNR012599967.html#BJNR012599967BJNG002200306)
 
 Dieses Gesetz tritt am 1. Januar 1968 in Kraft.
 

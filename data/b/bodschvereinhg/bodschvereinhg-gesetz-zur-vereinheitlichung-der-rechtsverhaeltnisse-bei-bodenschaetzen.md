@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bodschvereinhg/BJNR060200996.html#BJNR060200996BJNE000100310)
 
 Die in Anlage I Kapitel V Sachgebiet D Abschnitt III Nr. 1 Buchstabe a
 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885,
@@ -25,6 +26,7 @@ des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885,
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bodschvereinhg/BJNR060200996.html#BJNR060200996BJNE000200310)
 
 (1) Die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet bestehenden Bergbauberechtigungen
@@ -53,6 +55,7 @@ beträgt, sofern die Frist nicht bereits vorher abläuft.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bodschvereinhg/BJNR060200996.html#BJNR060200996BJNE000300310)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

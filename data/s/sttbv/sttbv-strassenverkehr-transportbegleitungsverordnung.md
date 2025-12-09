@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000100000)
 
 Im Sinne dieser Verordnung ist
 
@@ -59,6 +60,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 2 Übertragung der Anordnungsbefugnis bei der Transportbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000200000)
 
 (1) Die nach Landesrecht zuständige Behörde kann einem Unternehmen für
 die Transportbegleitung die Anordnungsbefugnis übertragen.
@@ -85,6 +87,7 @@ das Transportbegleitungsunternehmen zu gewährleisten.
 
 
 ## § 3 Ausübung der Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000300000)
 
 (1) Ein Transportbegleitungsunternehmen hat zur Gewährleistung der
 sicheren und geordneten Durchführung eines Großraum- oder
@@ -129,6 +132,7 @@ unberührt.
 
 
 ## § 4 Voraussetzungen für die Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000400000)
 
 (1) Die Übertragung darf nur erfolgen, wenn das Unternehmen, dem die
 Anordnungsbefugnis übertragen werden soll,
@@ -292,6 +296,7 @@ Millionen Euro für die Dauer der Übertragung nachzuweisen.
 
 
 ## § 5 Fachliche Eignung der Transportbegleiter, Rechtsverordnungen der Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000500000)
 
 (1) Die fachliche Eignung im Sinne des § 4 Absatz 1 Nummer 2 Buchstabe
 b setzt für Transportbegleiter voraus:
@@ -406,6 +411,7 @@ Bundesgebiet gilt.
 
 
 ## § 6 Dauer der Übertragung und Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000600000)
 
 (1) Eine Übertragung gilt längstens für einen Zeitraum von fünf
 Jahren. Sie kann auf Antrag jeweils um längstens fünf Jahre verlängert
@@ -417,6 +423,7 @@ gesamten Bundesgebiet Großraum- oder Schwertransporte zu begleiten.
 
 
 ## § 7 Begleitfahrzeug und Bekleidung, Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000700000)
 
 (1) Für die Transportbegleitung einzusetzende Begleitfahrzeuge des
 Transportbegleitungsunternehmens müssen ausgestattet sein nach
@@ -468,6 +475,7 @@ bekannt gibt.
 
 
 ## § 8 Einsatz von weiteren Helfern
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000800000)
 
 (1) Das Transportbegleitungsunternehmen kann sich zum Sichtbarmachen
 verkehrsrechtlicher Anordnungen zur Gewährleistung eines sicheren und
@@ -480,6 +488,7 @@ bleibt unberührt.
 
 
 ## § 9 Länderübergreifende Information
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE000900000)
 
 (1) Soweit eine nach Landesrecht zuständige Behörde Anhaltspunkte für
 Zweifel an dem Erfüllen der Voraussetzungen für die Übertragung durch
@@ -498,6 +507,7 @@ entsprechend.
 
 
 ## § 10 Überprüfung, Rechtsverordnungen der Landesregierungen
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE001000000)
 
 (1) Die nach Landesrecht zuständige Behörde überprüft und
 beaufsichtigt die Transportbegleitungsunternehmen sowie die
@@ -526,6 +536,7 @@ Prüfung nach Absatz 1 und 2 Satz 1 durch Rechtsverordnung regeln.
 
 
 ## § 11 Rücknahme einer Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE001100000)
 
 Eine Übertragung ist durch die nach Landesrecht zuständige Behörde
 zurückzunehmen, wenn das Transportbegleitungsunternehmen die
@@ -545,6 +556,7 @@ Verwaltungsakten unberührt.
 
 
 ## § 12 Widerruf einer Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE001200000)
 
 Eine Übertragung soll durch die nach Landesrecht zuständige Behörde
 widerrufen werden, wenn das Unternehmen wiederholt Verpflichtungen
@@ -556,6 +568,7 @@ Widerruf von Verwaltungsakten unberührt.
 
 
 ## § 13 Verfahren der zuständigen Behörden bei der Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE001300000)
 
 (1) Die nach Landesrecht zuständigen Polizeibehörden sowie die für die
 Übertragung oder für die Überprüfung und Beaufsichtigung der
@@ -601,6 +614,7 @@ Behörden unverzüglich
 
 
 ## § 14 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/sttbv/BJNR0EC0B0023.html#BJNR0EC0B0023BJNE001400000)
 
 Das Bundesministerium für Digitales und Verkehr evaluiert die
 Regelungen dieser Verordnung bis zum 31. Dezember 2028.

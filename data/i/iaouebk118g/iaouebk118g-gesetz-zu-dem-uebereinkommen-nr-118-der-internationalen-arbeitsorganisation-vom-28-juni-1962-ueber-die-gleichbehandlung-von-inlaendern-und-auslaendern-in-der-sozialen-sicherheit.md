@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk118g/BJNR208020970.html#BJNR208020970BJNE000100314)
 
 Dem in Genf am 28. Juni 1962 von der Allgemeinen Konferenz der
 Internationalen Arbeitsorganisation angenommenen Übereinkommen über
@@ -48,6 +49,7 @@ Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk118g/BJNR208020970.html#BJNR208020970BJNE000200314)
 
 Nach Maßgabe von Artikel 5 Abs. 1 des Übereinkommens sind von dem Tag
 an, an dem das Übereinkommen für die Bundesrepublik Deutschland in
@@ -72,12 +74,14 @@ Kraft tritt, nicht mehr anzuwenden:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk118g/BJNR208020970.html#BJNR208020970BJNE000300314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/iao_bk118g/BJNR208020970.html#BJNR208020970BJNE000400314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

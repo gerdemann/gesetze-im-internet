@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Die Bundesversammlung
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNG000100314)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000400314)
 
 Der Präsident des Bundestages bestimmt Ort und Zeit des
 Zusammentrittes der Bundesversammlung.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000502377)
 
 (1) Die Bundesregierung stellt rechtzeitig fest, wieviel Mitglieder
 die einzelnen Landtage zur Bundesversammlung zu wählen haben. Dabei
@@ -55,11 +58,13 @@ unbesetzt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000600314)
 
 Zur Bundesversammlung ist wählbar, wer zum Bundestag wählbar ist.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000700314)
 
 (1) Der Landtag wählt die auf das Land entfallenden Mitglieder nach
 Vorschlagslisten. Bei der Wahl sind die Bestimmungen der
@@ -96,6 +101,7 @@ Präsidenten des Bundestages.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000800314)
 
 Jedes Mitglied des Landtages und jeder in eine Vorschlagsliste
 aufgenommene Bewerber kann binnen zwei Tagen nach Verkündung des
@@ -108,12 +114,14 @@ Bundestages bereitet die Entscheidung der Bundesversammlung vor.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE000900314)
 
 Wird die Wahl nach § 2 Abs. 2 Satz 3 von einem Landtagsausschuß
 vorgenommen, so gelten §§ 4 und 5 entsprechend.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001001377)
 
 Artikel 46, 47, 48 Abs. 2 des Grundgesetzes finden auf die Mitglieder
 der Bundesversammlung entsprechende Anwendung. Für
@@ -124,10 +132,12 @@ Aufträge und Weisungen nicht gebunden.
 
 
 ## Zweiter Abschnitt - Wahl des Bundespräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNG000200314)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001100314)
 
 Der Präsident des Bundestages leitet die Sitzungen und Geschäfte der
 Bundesversammlung. Auf ihren Geschäftsgang findet die Geschäftsordnung
@@ -136,6 +146,7 @@ Bundesversammlung eine eigene Geschäftsordnung gibt.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001200314)
 
 (1) Wahlvorschläge für die Wahl des Bundespräsidenten kann jedes
 Mitglied der Bundesversammlung beim Präsidenten des Bundestages
@@ -163,6 +174,7 @@ beendet, nachdem der Gewählte die Wahl angenommen hat.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001300314)
 
 Das Amt des Bundespräsidenten beginnt mit dem Ablauf der Amtszeit
 seines Vorgängers, jedoch nicht vor Eingang der Annahmeerklärung beim
@@ -170,16 +182,19 @@ Präsidenten des Bundestages.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001400314)
 
 Der Präsident des Bundestages veranlaßt die Eidesleistung des
 Bundespräsidenten.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNG000300314)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001500314)
 
 Die Mitglieder der Bundesversammlung erhalten eine Entschädigung,
 deren Höhe der Präsident des Bundestages in sinngemäßer Anwendung der
@@ -187,11 +202,13 @@ für die Mitglieder des Bundestages geltenden Bestimmungen festsetzt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001601377)
 
 (weggefallen)
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/bpr_swahlg/BJNR002300959.html#BJNR002300959BJNE001700314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

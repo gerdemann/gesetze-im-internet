@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/glaufrg_1957/BJNR005690957.html#BJNR005690957BJNE000100314)
 
 (1) Zur Beschleunigung der Abwicklung der I.G. Farbenindustrie
 Aktiengesellschaft in Abwicklung haben die Abwickler der Gesellschaft
@@ -42,11 +43,13 @@ bekannt sind oder waren.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/glaufrg_1957/BJNR005690957.html#BJNR005690957BJNE000200314)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/glaufrg_1957/BJNR005690957.html#BJNR005690957BJNE000300314)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -54,6 +57,7 @@ im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/glaufrg_1957/BJNR005690957.html#BJNR005690957BJNE000400314)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

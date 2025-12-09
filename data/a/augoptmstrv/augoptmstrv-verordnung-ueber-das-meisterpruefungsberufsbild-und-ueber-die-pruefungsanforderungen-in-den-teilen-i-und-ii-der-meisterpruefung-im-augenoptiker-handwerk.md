@@ -28,6 +28,7 @@ Ersetzt durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000100000)
 
 Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
@@ -38,6 +39,7 @@ Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000200000)
 
 Die Meisterprüfung im zulassungspflichtigen Augenoptiker-Handwerk
 umfasst folgende selbständige Prüfungsteile:
@@ -61,6 +63,7 @@ umfasst folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, dass der Prüfling
 befähigt ist, einen Betrieb selbständig zu führen, technische,
@@ -156,12 +159,14 @@ zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein
 Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen
@@ -200,6 +205,7 @@ gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber ein
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -211,6 +217,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 
 ## § 6 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000700000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 zwei Arbeitstage und das Fachgespräch nicht länger als 30 Minuten
@@ -228,6 +235,7 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000801360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 genannten Handlungsfeldern seine Handlungskompetenz dadurch
@@ -458,6 +466,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE000902128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -468,6 +477,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE001001360)
 
 Die Regelungen des § 7 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -475,11 +485,13 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 9a Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE001101128)
 
 Diese Verordnung tritt mit Ablauf des 30. Juni 2026 außer Kraft.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/augoptmstrv/BJNR261000005.html#BJNR261000005BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 

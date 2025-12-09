@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbigzustbek/BJNR015990971.html#BJNR015990971BJNE000100308)
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (Bundesgesetzbl. I S. 1112), geändert durch das Gesetz zur

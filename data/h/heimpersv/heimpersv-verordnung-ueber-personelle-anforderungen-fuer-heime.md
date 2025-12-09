@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000100307)
 
 Auf Grund des § 3 des Heimgesetzes in der Fassung der Bekanntmachung
 vom 23. April 1990 (BGBl. I S. 763) in Verbindung mit II. des
@@ -30,6 +31,7 @@ Bundesministerium für Raumordnung, Bauwesen und Städtebau:
 
 
 ## § 1 Mindestanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000300307)
 
 Der Träger eines Heims im Sinne des § 1 Abs. 1 des Heimgesetzes darf
 nur Personen beschäftigen, die die Mindestanforderungen der §§ 2 bis 7
@@ -37,6 +39,7 @@ erfüllen, soweit nicht in den §§ 10 und 11 etwas anderes bestimmt ist.
 
 
 ## § 2 Eignung des Heimleiters
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000400307)
 
 (1) Wer ein Heim leitet, muß hierzu persönlich und fachlich geeignet
 sein. Er muß nach seiner Persönlichkeit, seiner Ausbildung und seinem
@@ -65,6 +68,7 @@ Personen die Anforderungen des Absatzes 1 erfüllen.
 
 
 ## § 3 Persönliche Ausschlußgründe
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000500307)
 
 (1) In der Person des Heimleiters dürfen keine Tatsachen vorliegen,
 die die Annahme rechtfertigen, daß er für die Leitung eines Heims
@@ -110,6 +114,7 @@ worden sind. Absatz 1 Satz 1 bleibt unberührt.
 
 
 ## § 4 Eignung der Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000600307)
 
 (1) Beschäftigte in Heimen müssen die erforderliche persönliche und
 fachliche Eignung für die von ihnen ausgeübte Funktion und Tätigkeit
@@ -122,6 +127,7 @@ Satz 2 Nr. 1 gelten entsprechend.
 
 
 ## § 5 Beschäftigte für betreuende Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000700307)
 
 (1) Betreuende Tätigkeiten dürfen nur durch Fachkräfte oder unter
 angemessener Beteiligung von Fachkräften wahrgenommen werden. Hierbei
@@ -142,6 +148,7 @@ vorübergehend bedarf.
 
 
 ## § 6 Fachkräfte
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000800307)
 
 Fachkräfte im Sinne dieser Verordnung müssen eine Berufsausbildung
 abgeschlossen haben, die Kenntnisse und Fähigkeiten zur selbständigen
@@ -153,6 +160,7 @@ Verordnung.
 
 
 ## § 7 Heime für behinderte Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE000900307)
 
 In Heimen für behinderte Volljährige sind bei der Festlegung der
 Mindestanforderungen nach den §§ 2 bis 6 auch die Aufgaben bei der
@@ -162,6 +170,7 @@ Schwere der Behinderung ergeben, zu berücksichtigen.
 
 
 ## § 8 Fort- und Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001000307)
 
 (1) Der Träger des Heims ist verpflichtet, dem Leiter des Heims und
 den Beschäftigten Gelegenheit zur Teilnahme an Veranstaltungen
@@ -217,6 +226,7 @@ Tätigkeitsfelder erstrecken:
 
 
 ## § 9 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001100307)
 
 Ordnungswidrig im Sinne des § 17 Abs. 2 Nr. 1 des Heimgesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -242,6 +252,7 @@ Personen beschäftigt oder
 
 
 ## § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001201320)
 
 (1) Sind bei Inkrafttreten dieser Verordnung die in § 2 Abs. 2 Nr. 2,
 §§ 4 bis 7 genannten Mindestanforderungen nicht erfüllt, so kann die
@@ -270,6 +281,7 @@ dieser Verordnung seit mindestens fünf Jahren ununterbrochen leiten.
 
 
 ## § 11 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001300307)
 
 (1) Die zuständige Behörde kann dem Träger eines Heims aus wichtigem
 Grund Befreiung von den in den § 2 Abs. 2 Nr. 1, § 4 Abs. 1 und Abs. 2
@@ -287,17 +299,20 @@ Angleichung vorläufig befreit.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001400307)
 
 -
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001500307)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 dritten Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/heimpersv/BJNR120500993.html#BJNR120500993BJNE001600307)
 
 Der Bundesrat hat zugestimmt.
 

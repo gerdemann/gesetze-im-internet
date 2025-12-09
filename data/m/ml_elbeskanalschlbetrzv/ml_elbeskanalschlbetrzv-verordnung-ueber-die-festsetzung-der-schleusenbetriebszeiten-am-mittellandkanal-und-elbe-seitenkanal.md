@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/BJNR707382991.html#BJNR707382991BJNE000100000)
 
 Aufgrund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der Fassung
 der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) in Verbindung
@@ -28,6 +29,7 @@ wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/BJNR707382991.html#BJNR707382991BJNE000200000)
 
 Die Betriebszeiten der Schleusen am Mittellandkanal, seinen
 Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
@@ -342,6 +344,7 @@ Zweigkanälen und am Elbe-Seitenkanal werden wie folgt festgesetzt:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/BJNR707382991.html#BJNR707382991BJNE000300000)
 
 Von den in § 1 festgesetzten Betriebszeiten kann aus Gründen des
 Verkehrsbedarfs oder wegen betrieblicher Erfordernisse abgewichen
@@ -349,6 +352,7 @@ werden. Diese Änderungen werden bekannt gegeben.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/BJNR707382991.html#BJNR707382991BJNE000400000)
 
 Die Verordnung tritt am 1. Dezember 1991 in Kraft. Gleichzeitig treten
 die Verordnung über die Festsetzung der Schleusenbetriebszeiten am
@@ -359,6 +363,7 @@ Abstiegsbauwerke am Elbe-Seitenkanal vom 7. Oktober 1980 (VkBl 1980 S.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/BJNR707382991.html#BJNR707382991BJNE000500000)
 
 Wasser- und Schiffahrtsdirektion Mitte
 

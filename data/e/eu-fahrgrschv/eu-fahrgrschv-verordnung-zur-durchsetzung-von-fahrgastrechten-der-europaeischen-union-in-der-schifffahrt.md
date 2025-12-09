@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000100000)
 
 Auf Grund des § 8 Satz 1 Nummer 2 und 4 und des § 9 Absatz 4 des EU-
 Fahrgastrechte-Schifffahrt-Gesetzes vom 5. Dezember 2012 (BGBl. I S.
@@ -29,6 +30,7 @@ Stadtentwicklung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000200000)
 
 Diese Verordnung dient der Durchführung der Verordnung (EU) Nr.
 1177/2010 des Europäischen Parlaments und des Rates vom 24. November
@@ -39,12 +41,14 @@ vom 5. Dezember 2012 (BGBl. I S. 2454).
 
 
 ## § 2 Subsidiäre Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000300000)
 
 Beschwerden nach Artikel 24 Absatz 2 der Verordnung (EU) Nr. 1177/2010
 sind zunächst unmittelbar beim Beförderer einzureichen.
 
 
 ## § 3 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000401360)
 
 (1) Die zuständige Behörde nach § 3 Absatz 1 des EU-Fahrgastrechte-
 Schifffahrt-Gesetzes veröffentlicht jeweils für den Zeitraum von zwei
@@ -76,6 +80,7 @@ danach jeweils im Zweijahresrhythmus.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000500000)
 
 (1) Ordnungswidrig im Sinne des § 9 Absatz 1 des EU-Fahrgastrechte-
 Schifffahrt-Gesetzes handelt, wer gegen die Verordnung (EU) Nr.
@@ -164,6 +169,7 @@ Gesetzes über Ordnungswidrigkeiten ist das Eisenbahn-Bundesamt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrschv/BJNR257100012.html#BJNR257100012BJNE000600000)
 
 Diese Verordnung tritt am 17. Dezember 2012 in Kraft.
 

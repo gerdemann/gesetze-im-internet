@@ -20,6 +20,7 @@ Ano für strom u. gas aufgeh. durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000100326)
 
 Auf Grund des § 2 des Gesetzes zur Durchführung des Vierjahresplans -
 Bestellung eines Reichskommissars für die Preisbildung - vom 29.
@@ -32,6 +33,7 @@ Zustimmung des Beauftragten für den Vierjahresplan angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000200326)
 
 (1) Konzessionsabgaben im Sinne der Konzessionsabgabenanordnung sind
 alle Entgelte, die ein Versorgungsunternehmen an eine Gemeinde, einen
@@ -55,6 +57,7 @@ I S. 1451) sind oder andere mit Wasser versorgen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000300326)
 
 (1) Abgrenzungsentschädigungen fallen nicht unter den Begriff der
 Konzessionsabgaben. Sie dürfen aber nicht erhöht, in
@@ -71,11 +74,13 @@ untereinander.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000400326)
 
 -
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000500326)
 
 (1) Für Gemeinden, die durch die Volkszählung vom 17. Mai 1939 nicht
 erfaßt worden sind, wird die Einwohnerzahl nach der Zahl der Personen
@@ -88,6 +93,7 @@ dergleichen verpflegten Personen sowie der Selbstversorger.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000600326)
 
 (1) Als Wasserlieferungen, die nicht zu den allgemeinen Bedingungen
 und allgemeinen Tarifpreisen abgegeben werden (§ 2 Abs. 3 KAE), sind
@@ -138,16 +144,19 @@ bleiben.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000700326)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000800326)
 
 -
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE000900326)
 
 Nach dem 1. April 1941 werden Gewinnausschüttungen von
 Versorgungsunternehmen an Gemeinden, Gemeindeverbände oder
@@ -159,11 +168,13 @@ KAE.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001000326)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001100326)
 
 Als sonstige Leistungen im Sinne des § 6 KAE sind nicht anzusehen
 
@@ -185,6 +196,7 @@ b)  monatliche oder vierteljährliche Abschlagszahlungen in Höhe eines
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001200326)
 
 Der Eigenverbrauch der Gemeinden, Gemeindeverbände und Zweckverbände
 ist für alle räumlich getrennt liegenden Abnahmestellen gesondert
@@ -192,6 +204,7 @@ abzurechnen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001300326)
 
 (1) Als verbilligte Sachleistungen gelten nicht unentgeltliche oder
 verbilligte Wasserlieferungen für Feuerlösch-, Feuerlöschübungszwecke,
@@ -221,6 +234,7 @@ c)  von dem nach allgemeinen Tarifpreisen ermittelten Rechnungsbetrag
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001400326)
 
 Als verbilligte Sachleistungen gelten auch Heimfallverpflichtungen.
 Über das Verfahren ihrer Ablösung im Einzelfall entscheidet der
@@ -228,6 +242,7 @@ Reichskommissar für die Preisbildung.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001500326)
 
 Vom 1. April 1943 ab ist der Elektrizitäts-, Gas- und Wasserverbrauch
 von Kirchen, mildtätigen Anstalten und ähnlichen Stellen, denen in
@@ -239,11 +254,13 @@ werden.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001600326)
 
 -
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001700326)
 
 Pacht- oder Kaufverträge über gemeindliche Versorgungsunternehmen, die
 nach dem 1. April 1943 abgeschlossen werden, müssen eindeutig erkennen
@@ -255,11 +272,13 @@ Hundertsätzen des Restkaufgelds bemessen werden.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001800326)
 
 -
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE001900326)
 
 (1) Ist die Umrechnung von verbilligten Sachleistungen,
 Gewinnausschüttungen gemäß § 8 dieser Anordnung oder eine
@@ -282,22 +301,26 @@ Anwendung.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE002000326)
 
 -
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE002100326)
 
 -
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE002200326)
 
 Durchführungsbestimmungen zur Konzessionsabgabenanordnung und zu
 dieser Anordnung werden im Bundesanzeiger verkündet.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE002300326)
 
 (1) Die Vorschriften der §§ 14 und 16 treten mit der Verkündung, die
 übrigen Vorschriften dieser Anordnung mit Wirkung vom 8. März 1941 in
@@ -307,6 +330,7 @@ Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/k_aano/BJNR507500943.html#BJNR507500943BJNE002400326)
 
 Der Reichskommissar für die Preisbildung
 

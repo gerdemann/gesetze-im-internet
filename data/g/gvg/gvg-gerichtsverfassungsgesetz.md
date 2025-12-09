@@ -23,20 +23,24 @@ Zuletzt geändert durch
 
 
 ## Erster Titel - Gerichtsbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000100666)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002000666)
 
 Die richterliche Gewalt wird durch unabhängige, nur dem Gesetz
 unterworfene Gerichte ausgeübt.
 
 
 ### (XXXX) §§ 2 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002100666)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002200666)
 
 Unter Aufsicht des Richters können Referendare Rechtshilfeersuchen
 erledigen und außer in Strafsachen Verfahrensbeteiligte anhören,
@@ -45,10 +49,12 @@ nicht befugt, eine Beeidigung anzuordnen oder einen Eid abzunehmen.
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002300666)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002401160)
 
 Die ordentliche Gerichtsbarkeit wird durch Amtsgerichte, Landgerichte,
 Oberlandesgerichte und durch den Bundesgerichtshof (den obersten
@@ -57,6 +63,7 @@ Gerichtsbarkeit) ausgeübt.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002501160)
 
 Vor die ordentlichen Gerichte gehören die bürgerlichen
 Rechtsstreitigkeiten, die Familiensachen und die Angelegenheiten der
@@ -67,6 +74,7 @@ Bundesrechts besondere Gerichte bestellt oder zugelassen sind.
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002602125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 einem Gericht für die Bezirke mehrerer Gerichte Sachen aller Art ganz
@@ -84,22 +92,26 @@ Sachgebiete, vereinbaren.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002700666)
 
 Als besondere Gerichte werden Gerichte der Schiffahrt für die in den
 Staatsverträgen bezeichneten Angelegenheiten zugelassen.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002800666)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE002900666)
 
 Ausnahmegerichte sind unstatthaft. Niemand darf seinem gesetzlichen
 Richter entzogen werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003001309)
 
 (1) Die Zulässigkeit des beschrittenen Rechtsweges wird durch eine
 nach Rechtshängigkeit eintretende Veränderung der sie begründenden
@@ -113,6 +125,7 @@ Grundgesetzes bleiben unberührt.
 
 
 ### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003102160)
 
 (1) Hat ein Gericht den zu ihm beschrittenen Rechtsweg rechtskräftig
 für zulässig erklärt, sind andere Gerichte an diese Entscheidung
@@ -154,6 +167,7 @@ Verhältnis zueinander entsprechend.
 
 
 ### § 17b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE025601160)
 
 (1) Nach Eintritt der Rechtskraft des Verweisungsbeschlusses wird der
 Rechtsstreit mit Eingang der Akten bei dem im Beschluß bezeichneten
@@ -170,6 +184,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 
 ### § 17c
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027000311)
 
 (1) Werden Zuständigkeitskonzentrationen oder Änderungen der
 Gerichtsbezirksgrenzen aufgrund dieses Gesetzes, aufgrund anderer
@@ -190,6 +205,7 @@ begonnen hat.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003200666)
 
 Die Mitglieder der im Geltungsbereich dieses Gesetzes errichteten
 diplomatischen Missionen, ihre Familienmitglieder und ihre privaten
@@ -203,6 +219,7 @@ Beziehungen (Bundesgesetzbl. 1964 II S. 957) entsprechende Anwendung.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003300666)
 
 (1) Die Mitglieder der im Geltungsbereich dieses Gesetzes errichteten
 konsularischen Vertretungen einschließlich der Wahlkonsularbeamten
@@ -220,6 +237,7 @@ bleiben unberührt.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003402360)
 
 (1) Die deutsche Gerichtsbarkeit erstreckt sich auch nicht auf
 Repräsentanten anderer Staaten und deren Begleitung, die sich auf
@@ -236,6 +254,7 @@ Verfolgung von Verbrechen nach dem Völkerstrafgesetzbuch.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE025800310)
 
 Die §§ 18 bis 20 stehen der Erledigung eines Ersuchens um Überstellung
 und Rechtshilfe eines internationalen Strafgerichtshofes, der durch
@@ -244,10 +263,12 @@ errichtet wurde, nicht entgegen.
 
 
 ## Zweiter Titel - Allgemeine Vorschriften über das Präsidium und die Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000200666)
 
 
 
 ### § 21a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003601301)
 
 (1) Bei jedem Gericht wird ein Präsidium gebildet.
 
@@ -278,6 +299,7 @@ Richter als Vorsitzenden und
 
 
 ### § 21b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003702160)
 
 (1) Wahlberechtigt sind die Richter auf Lebenszeit und die Richter auf
 Zeit, denen bei dem Gericht ein Richteramt übertragen ist, sowie die
@@ -322,6 +344,7 @@ anzuwenden.
 
 
 ### § 21c
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003802301)
 
 (1) Bei einer Verhinderung des Präsidenten oder aufsichtführenden
 Richters tritt sein Vertreter (§ 21 h) an seine Stelle. Ist der
@@ -339,6 +362,7 @@ Nächstberufene.
 
 
 ### § 21d
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE003901301)
 
 (1) Für die Größe des Präsidiums ist die Zahl der Richterplanstellen
 am Ablauf des Tages maßgebend, der dem Tage, an dem das Geschäftsjahr
@@ -389,6 +413,7 @@ wird, nach zwei Jahren aus.
 
 
 ### § 21e
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004001301)
 
 (1) Das Präsidium bestimmt die Besetzung der Spruchkörper, bestellt
 die Ermittlungsrichter, regelt die Vertretung und verteilt die
@@ -433,6 +458,7 @@ bedarf es nicht.
 
 
 ### § 21f
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004100666)
 
 (1) Den Vorsitz in den Spruchkörpern bei den Landgerichten, bei den
 Oberlandesgerichten sowie bei dem Bundesgerichtshof führen der
@@ -445,6 +471,7 @@ Dienstalter das lebensälteste Mitglied des Spruchkörpers den Vorsitz.
 
 
 ### § 21g
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004202301)
 
 (1) Innerhalb des mit mehreren Richtern besetzten Spruchkörpers werden
 die Geschäfte durch Beschluss aller dem Spruchkörper angehörenden
@@ -476,6 +503,7 @@ Beschluss betroffen werden, Gelegenheit zur Äußerung zu geben.
 
 
 ### § 21h
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004300666)
 
 Der Präsident oder aufsichtführende Richter wird in seinen durch
 dieses Gesetz bestimmten Geschäften, die nicht durch das Präsidium zu
@@ -488,6 +516,7 @@ gleichem Dienstalter durch den lebensältesten Richter vertreten.
 
 
 ### § 21i
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004400666)
 
 (1) Das Präsidium ist beschlußfähig, wenn mindestens die Hälfte seiner
 gewählten Mitglieder anwesend ist.
@@ -501,6 +530,7 @@ Kraft, solange das Präsidium nicht anderweit beschließt.
 
 
 ### § 21j
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026200301)
 
 (1) Wird ein Gericht errichtet und ist das Präsidium nach § 21a  Abs.
 2 Nr. 1 bis 4 zu bilden, so werden die in § 21e bezeichneten
@@ -527,10 +557,12 @@ Absatz 2 Satz 1 genannten Frist.
 
 
 ## Dritter Titel - Amtsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000300666)
 
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004505125)
 
 (1) Den Amtsgerichten stehen Einzelrichter vor.
 
@@ -568,6 +600,7 @@ wenn der Erwerb der Kenntnisse alsbald zu erwarten ist.
 
 
 ### § 22a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004601301)
 
 Bei Amtsgerichten mit einem aus allen wählbaren Richtern bestehenden
 Präsidium (§ 21a Abs. 2 Nr. 5) gehört der Präsident des übergeordneten
@@ -577,6 +610,7 @@ an.
 
 
 ### § 22b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004700666)
 
 (1) Ist ein Amtsgericht nur mit einem Richter besetzt, so beauftragt
 das Präsidium des Landgerichts einen Richter seines Bezirks mit der
@@ -598,6 +632,7 @@ Absatzes 3 dessen Präsident zuständig.
 
 
 ### § 22c
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004803125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass für mehrere Amtsgerichte im Bezirk eines Landgerichts
@@ -621,6 +656,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 22d
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE004900666)
 
 Die Gültigkeit der Handlung eines Richters beim Amtsgericht wird nicht
 dadurch berührt, daß die Handlung nach der Geschäftsverteilung von
@@ -628,6 +664,7 @@ einem anderen Richter wahrzunehmen gewesen wäre.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005009125)
 
 Die Zuständigkeit der Amtsgerichte umfaßt in bürgerlichen
 Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des
@@ -677,6 +714,7 @@ Streitgegenstandes den Landgerichten zugewiesen sind:
 
 
 ### § 23a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005106311)
 
 (1) Die Amtsgerichte sind ferner zuständig für
 
@@ -745,6 +783,7 @@ Gerichtsbarkeit anstelle der Amtsgerichte die Notare zuständig.
 
 
 ### § 23b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005215125)
 
 (1) Bei den Amtsgerichten werden Abteilungen für Familiensachen
 (Familiengerichte) gebildet.
@@ -786,6 +825,7 @@ zumutbarer Betrieb des Bereitschaftsdiensts nicht gewährleistet wäre.
 
 
 ### § 23c
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005303160)
 
 (1) Bei den Amtsgerichten werden Abteilungen für Betreuungssachen,
 Unterbringungssachen und betreuungsgerichtliche Zuweisungssachen
@@ -797,6 +837,7 @@ des Betreuungsrichters nicht wahrnehmen.
 
 
 ### § 23d
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026301125)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem
 Amtsgericht für die Bezirke mehrerer Amtsgerichte die Familiensachen
@@ -811,6 +852,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005408311)
 
 (1) In Strafsachen sind die Amtsgerichte zuständig, wenn nicht
 
@@ -845,6 +887,7 @@ der Sicherungsverwahrung erkennen.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005501305)
 
 Der Richter beim Amtsgericht entscheidet als Strafrichter bei
 Vergehen,
@@ -860,6 +903,7 @@ Vergehen,
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005601311)
 
 (1) Für Straftaten Erwachsener, durch die ein Kind oder ein
 Jugendlicher verletzt oder unmittelbar gefährdet wird, sowie für
@@ -881,10 +925,12 @@ gerichtlicher Untersuchungshandlungen im Ermittlungsverfahren.
 
 
 ### § 26a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005700666)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005800666)
 
 Im übrigen wird die Zuständigkeit und der Geschäftskreis der
 Amtsgerichte durch die Vorschriften dieses Gesetzes und der
@@ -892,10 +938,12 @@ Prozeßordnungen bestimmt.
 
 
 ## Vierter Titel - Schöffengerichte
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000400666)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE005900666)
 
 Für die Verhandlung und Entscheidung der zur Zuständigkeit der
 Amtsgerichte gehörenden Strafsachen werden, soweit nicht der
@@ -904,6 +952,7 @@ gebildet.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006000666)
 
 (1) Das Schöffengericht besteht aus dem Richter beim Amtsgericht als
 Vorsitzenden und zwei Schöffen. Ein Richter auf Probe darf im ersten
@@ -918,6 +967,7 @@ vor dem Schöffengericht eröffnet.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006100666)
 
 (1) Insoweit das Gesetz nicht Ausnahmen bestimmt, üben die Schöffen
 während der Hauptverhandlung das Richteramt in vollem Umfang und mit
@@ -931,12 +981,14 @@ werden von dem Richter beim Amtsgericht erlassen.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006200666)
 
 Das Amt eines Schöffen ist ein Ehrenamt. Es kann nur von Deutschen
 versehen werden.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006301307)
 
 Unfähig zu dem Amt eines Schöffen sind:
 
@@ -957,6 +1009,7 @@ Unfähig zu dem Amt eines Schöffen sind:
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006404140)
 
 Zu dem Amt eines Schöffen sollen nicht berufen werden:
 
@@ -987,6 +1040,7 @@ Zu dem Amt eines Schöffen sollen nicht berufen werden:
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006502311)
 
 (1) Zu dem Amt eines Schöffen sollen ferner nicht berufen werden:
 
@@ -1019,6 +1073,7 @@ berufen werden sollen.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006602311)
 
 Die Berufung zum Amt eines Schöffen dürfen ablehnen:
 
@@ -1071,6 +1126,7 @@ Die Berufung zum Amt eines Schöffen dürfen ablehnen:
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006703125)
 
 (1) Die Gemeinde stellt in jedem fünften Jahr eine Vorschlagsliste für
 Schöffen auf. Für die Aufnahme in die Liste ist die Zustimmung von
@@ -1100,6 +1156,7 @@ Anlehnung an die Einwohnerzahl der Gemeinden.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006800666)
 
 Gegen die Vorschlagsliste kann binnen einer Woche, gerechnet vom Ende
 der Auflegungsfrist, schriftlich oder zu Protokoll mit der Begründung
@@ -1109,6 +1166,7 @@ nach den §§ 33, 34 nicht aufgenommen werden sollten.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE006900666)
 
 (1) Der Gemeindevorsteher sendet die Vorschlagsliste nebst den
 Einsprüchen an den Richter beim Amtsgericht des Bezirks.
@@ -1119,6 +1177,7 @@ Amtsgericht Anzeige zu machen.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007000666)
 
 Der Richter beim Amtsgericht stellt die Vorschlagslisten der Gemeinden
 zur Liste des Bezirks zusammen und bereitet den Beschluß über die
@@ -1127,6 +1186,7 @@ zu prüfen und die Abstellung etwaiger Mängel zu veranlassen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007101301)
 
 (1) Bei dem Amtsgericht tritt jedes fünfte Jahr ein Ausschuß zusammen.
 
@@ -1154,6 +1214,7 @@ der Verwaltungsbeamte und drei Vertrauenspersonen anwesend sind.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007200666)
 
 Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die
 Vorschlagsliste erhobenen Einsprüche. Bei Stimmengleichheit
@@ -1162,6 +1223,7 @@ Protokoll zu vermerken. Sie sind nicht anfechtbar.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007302125)
 
 (1) Aus der berichtigten Vorschlagsliste wählt der Ausschuß mit einer
 Mehrheit von zwei Dritteln der Stimmen für die nächsten fünf
@@ -1184,6 +1246,7 @@ angemessen berücksichtigt werden.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007401125)
 
 (1) Die für jedes Amtsgericht erforderliche Zahl von Haupt- und
 Ersatzschöffen wird durch den Präsidenten des Landgerichts
@@ -1195,6 +1258,7 @@ herangezogen wird.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007501125)
 
 Die Namen der gewählten Hauptschöffen und Ersatzschöffen werden bei
 jedem Amtsgericht in gesonderte Verzeichnisse aufgenommen
@@ -1202,6 +1266,7 @@ jedem Amtsgericht in gesonderte Verzeichnisse aufgenommen
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007601125)
 
 (1) Die Tage der ordentlichen Sitzungen des Schöffengerichts werden
 für das ganze Jahr im voraus festgestellt.
@@ -1232,6 +1297,7 @@ benachrichtigen.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007701125)
 
 Wird bei einem Amtsgericht während des Geschäftsjahres ein weiteres
 Schöffengericht gebildet, so werden für dessen ordentliche Sitzungen
@@ -1241,6 +1307,7 @@ in der Ersatzschöffenliste gestrichen.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007801125)
 
 Wenn die Geschäfte die Anberaumung außerordentlicher Sitzungen
 erforderlich machen oder wenn zu einzelnen Sitzungen die Zuziehung
@@ -1250,6 +1317,7 @@ herangezogen.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE007901125)
 
 (1) Ergänzungsschöffen (§ 192 Abs. 2, 3) werden aus der
 Ersatzschöffenliste zugewiesen.
@@ -1260,6 +1328,7 @@ Verhinderung vor Beginn der Sitzung bekannt wird.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008001125)
 
 (1) Wird die Heranziehung von Ersatzschöffen zu einzelnen Sitzungen
 erforderlich (§§ 47, 48 Abs. 1), so werden sie aus der
@@ -1295,6 +1364,7 @@ erreichbar gewesen ist.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008100666)
 
 Erstreckt sich die Dauer einer Sitzung über die Zeit hinaus, für die
 der Schöffe zunächst einberufen ist, so hat er bis zur Beendigung der
@@ -1302,6 +1372,7 @@ Sitzung seine Amtstätigkeit fortzusetzen.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008201160)
 
 (1) Ein Schöffe ist seines Amtes zu entheben, wenn er seine
 Amtspflichten gröblich verletzt hat.
@@ -1317,6 +1388,7 @@ heranzuziehen ist. Die Anordnung ist nicht anfechtbar.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008302125)
 
 (1) Ein Schöffe ist von der Schöffenliste zu streichen, wenn
 
@@ -1375,6 +1447,7 @@ Ersatzschöffenliste stehenden Schöffen ausgelost werden.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008400666)
 
 (1) Ablehnungsgründe sind nur zu berücksichtigen, wenn sie innerhalb
 einer Woche, nachdem der beteiligte Schöffe von seiner Einberufung in
@@ -1388,6 +1461,7 @@ anfechtbar.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008501125)
 
 (1) Der Richter beim Amtsgericht kann einen Schöffen auf dessen Antrag
 wegen eingetretener Hinderungsgründe von der Dienstleistung an
@@ -1412,12 +1486,14 @@ und die Entscheidung sind aktenkundig zu machen.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008601301)
 
 Die Schöffen und Vertrauenspersonen des Ausschusses erhalten eine
 Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008700666)
 
 (1) Gegen Schöffen und Vertrauenspersonen des Ausschusses, die sich
 ohne genügende Entschuldigung zu den Sitzungen nicht rechtzeitig
@@ -1433,6 +1509,7 @@ der Strafprozeßordnung zulässig.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008800666)
 
 Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter
 beim Amtsgericht einzureichen sind, der Ausschuß zu berufen und die
@@ -1441,6 +1518,7 @@ Landesjustizverwaltung bestimmt.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE008902125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 einem Amtsgericht für die Bezirke mehrerer Amtsgerichte die
@@ -1470,10 +1548,12 @@ anzuwenden.
 
 
 ## Fünfter Titel - Landgerichte
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000500666)
 
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009000666)
 
 (1) Die Landgerichte werden mit einem Präsidenten sowie mit
 Vorsitzenden Richtern und weiteren Richtern besetzt.
@@ -1486,6 +1566,7 @@ werden.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009101125)
 
 (1) Bei jedem Landgericht werden, soweit nichts anders bestimmt ist,
 sowohl Zivil- als auch Strafkammern gebildet.
@@ -1499,10 +1580,12 @@ Landesjustizverwaltungen übertragen.
 
 
 ### (XXXX) §§ 61 bis 69 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009200666)
 
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009300666)
 
 (1) Soweit die Vertretung eines Mitgliedes nicht durch ein Mitglied
 desselben Gerichts möglich ist, wird sie auf den Antrag des Präsidiums
@@ -1519,6 +1602,7 @@ Lebenszeit ernannte Richter regeln.
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009408125)
 
 (1) Vor die Zivilkammern, einschließlich der Kammern für
 Handelssachen, gehören alle bürgerlichen Rechtsstreitigkeiten, die
@@ -1599,6 +1683,7 @@ Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009509125)
 
 (1) Die Zivilkammern, einschließlich der Kammern für Handelssachen und
 der in § 72a genannten Kammern, sind die Berufungs- und
@@ -1619,6 +1704,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 72a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026802125)
 
 (1) Bei den Landgerichten werden eine oder mehrere Zivilkammern für
 folgende Sachgebiete gebildet:
@@ -1662,6 +1748,7 @@ Streitigkeiten nach den §§ 71 und 72 zugewiesen werden.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009601160)
 
 (1) Die Strafkammern entscheiden über Beschwerden gegen Verfügungen
 des Richters beim Amtsgericht sowie gegen Entscheidungen des Richters
@@ -1672,10 +1759,12 @@ den Landgerichten zugewiesenen Geschäfte.
 
 
 ### § 73a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009700666)
 
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009812125)
 
 (1) Die Strafkammern sind als erkennende Gerichte des ersten
 Rechtszuges zuständig für alle Verbrechen, die nicht zur Zuständigkeit
@@ -1813,6 +1902,7 @@ Strafrichters und des Schöffengerichts.
 
 
 ### § 74a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE009908360)
 
 (1) Bei den Landgerichten, in deren Bezirk ein Oberlandesgericht
 seinen Sitz hat, ist eine Strafkammer für den Bezirk dieses
@@ -1870,6 +1960,7 @@ Landgerichts auf den Bezirk des Oberlandesgerichts.
 
 
 ### § 74b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010000666)
 
 In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für
 allgemeine Strafsachen zuständigen Strafkammer auch die Jugendkammer
@@ -1878,6 +1969,7 @@ und §§ 73 und 74 gelten entsprechend.
 
 
 ### § 74c
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010126125)
 
 (1) Für Straftaten
 
@@ -1967,6 +2059,7 @@ bestimmten Landgerichts auf die Bezirke der anderen Landgerichte.
 
 
 ### § 74d
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010200666)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 einem Landgericht für die Bezirke mehrerer Landgerichte die in § 74
@@ -1978,6 +2071,7 @@ Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 74e
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010300666)
 
 Unter verschiedenen nach den Vorschriften der §§ 74 bis 74 d
 zuständigen Strafkammern kommt
@@ -1996,6 +2090,7 @@ der Vorrang zu.
 
 
 ### § 74f
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE025903308)
 
 (1) Hat im ersten Rechtszug eine Strafkammer die Anordnung der
 Sicherungsverwahrung vorbehalten oder im Fall des § 66b des
@@ -2021,6 +2116,7 @@ der Hauptverhandlung wirken die Schöffen nicht mit.
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010400666)
 
 Die Zivilkammern sind, soweit nicht nach den Vorschriften der
 Prozeßgesetze an Stelle der Kammer der Einzelrichter zu entscheiden
@@ -2028,6 +2124,7 @@ hat, mit drei Mitgliedern einschließlich des Vorsitzenden besetzt.
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE025707308)
 
 (1) Die Strafkammern sind mit drei Richtern einschließlich des
 Vorsitzenden und zwei Schöffen (große Strafkammer), in Verfahren über
@@ -2082,6 +2179,7 @@ Außerhalb der Hauptverhandlung entscheidet der Vorsitzende allein.
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010603125)
 
 (1) Für die Schöffen der Strafkammern gelten entsprechend die
 Vorschriften über die Schöffen des Schöffengerichts mit folgender
@@ -2129,6 +2227,7 @@ diesen Ämtern bestimmt worden, so hat der Einberufene das Amt zu
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010701125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 wegen großer Entfernung zu dem Sitz eines Landgerichts bei einem
@@ -2154,10 +2253,12 @@ zugewiesenen Geschäfte nimmt der Vorsitzende der Strafkammer wahr.
 
 
 ## 5a. Titel - Strafvollstreckungskammern
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000600666)
 
 
 
 ### § 78a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010807360)
 
 (1) Bei den Landgerichten werden, soweit in ihrem Bezirk für
 Erwachsene Anstalten unterhalten werden, in denen Freiheitsstrafe oder
@@ -2208,6 +2309,7 @@ zuständige Aufsichtsbehörde ihren Sitz hat.
 
 
 ### § 78b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE010906360)
 
 (1) Die Strafvollstreckungskammern sind besetzt
 
@@ -2233,18 +2335,22 @@ in seinem Bezirk angestellten Richter beim Amtsgericht bestellt.
 
 
 ## Sechster Titel - Schwurgerichte (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000700666)
 
 
 
 ### (XXXX) §§ 79 bis 92 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011000666)
 
 
 
 ## Siebenter Titel - Kammern für Handelssachen
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000800666)
 
 
 
 ### § 93
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011101301)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 bei den Landgerichten für deren Bezirke oder für örtlich abgegrenzte
@@ -2257,6 +2363,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 94
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011200666)
 
 Ist bei einem Landgericht eine Kammer für Handelssachen gebildet, so
 tritt für Handelssachen diese Kammer an die Stelle der Zivilkammern
@@ -2264,6 +2371,7 @@ nach Maßgabe der folgenden Vorschriften.
 
 
 ### § 95
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011322125)
 
 (1) Handelssachen im Sinne dieses Gesetzes sind die bürgerlichen
 Rechtsstreitigkeiten, in denen durch die Klage ein Anspruch geltend
@@ -2356,6 +2464,7 @@ gemacht wird:
 
 
 ### § 96
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011401309)
 
 (1) Der Rechtsstreit wird vor der Kammer für Handelssachen verhandelt,
 wenn der Kläger dies in der Klageschrift beantragt hat.
@@ -2367,6 +2476,7 @@ Handelssachen vor dem Amtsgericht zu stellen.
 
 
 ### § 97
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011500666)
 
 (1) Wird vor der Kammer für Handelssachen eine nicht vor sie gehörige
 Klage zur Verhandlung gebracht, so ist der Rechtsstreit auf Antrag des
@@ -2382,6 +2492,7 @@ daß der Beklagte nicht Kaufmann ist.
 
 
 ### § 98
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011601309)
 
 (1) Wird vor der Zivilkammer eine vor die Kammer für Handelssachen
 gehörige Klage zur Verhandlung gebracht, so ist der Rechtsstreit auf
@@ -2402,6 +2513,7 @@ wenn der Kläger ihm zugestimmt hat.
 
 
 ### § 99
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011700666)
 
 (1) Wird in einem bei der Kammer für Handelssachen anhängigen
 Rechtsstreit die Klage nach § 256 Abs. 2 der Zivilprozeßordnung durch
@@ -2418,12 +2530,14 @@ der nicht vor die Kammer für Handelssachen gehört.
 
 
 ### § 100
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011800666)
 
 Die §§ 96 bis 99 sind auf das Verfahren im zweiten Rechtszuge vor den
 Kammern für Handelssachen entsprechend anzuwenden.
 
 
 ### § 101
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE011901309)
 
 (1) Der Antrag auf Verweisung des Rechtsstreits an eine andere Kammer
 ist nur vor der Verhandlung des Antragstellers zur Sache zulässig. Ist
@@ -2438,6 +2552,7 @@ ohne mündliche Verhandlung ergehen.
 
 
 ### § 102
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012000666)
 
 Die Entscheidung über Verweisung eines Rechtsstreits an die
 Zivilkammer oder an die Kammer für Handelssachen ist nicht anfechtbar.
@@ -2448,6 +2563,7 @@ wegen bestimmt und den Parteien bekanntgemacht.
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012100666)
 
 Bei der Kammer für Handelssachen kann ein Anspruch nach § 64 der
 Zivilprozeßordnung nur dann geltend gemacht werden, wenn der
@@ -2456,6 +2572,7 @@ Handelssachen gehört.
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012200666)
 
 (1) Wird die Kammer für Handelssachen als Beschwerdegericht mit einer
 vor sie nicht gehörenden Beschwerde befaßt, so ist die Beschwerde von
@@ -2472,6 +2589,7 @@ der Hauptsache erlassen hat.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012301310)
 
 (1) Die Kammern für Handelssachen entscheiden in der Besetzung mit
 einem Mitglied des Landgerichts als Vorsitzenden und zwei
@@ -2485,12 +2603,14 @@ Stimmrecht.
 
 
 ### § 106
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012401301)
 
 Im Falle des § 93 Abs. 1 Satz 2 kann ein Richter beim Amtsgericht
 Vorsitzender der Kammer für Handelssachen sein.
 
 
 ### § 107
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012502301)
 
 (1) Die
 ehrenamtlichen Richter, die weder ihren Wohnsitz noch ihre gewerbliche
@@ -2505,6 +2625,7 @@ ersetzt.
 
 
 ### § 108
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012602301)
 
 Die
 ehrenamtlichen Richter werden auf gutachtlichen Vorschlag der
@@ -2513,6 +2634,7 @@ eine wiederholte Ernennung ist nicht ausgeschlossen.
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012705140)
 
 (1) Zum ehrenamtlichen Richter kann ernannt werden, wer
 
@@ -2568,6 +2690,7 @@ nicht berufen werden soll.
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012800666)
 
 An Seeplätzen können
 ehrenamtliche Richter auch aus dem Kreis der Schiffahrtskundigen
@@ -2575,10 +2698,12 @@ ernannt werden.
 
 
 ### § 111 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE012900666)
 
 
 
 ### § 112
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013000666)
 
 Die
 ehrenamtlichen Richter haben während der Dauer ihres Amts in Beziehung
@@ -2586,6 +2711,7 @@ auf dasselbe alle Rechte und Pflichten eines Richters.
 
 
 ### § 113
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013102307)
 
 (1) Ein
 ehrenamtlicher Richter ist seines Amtes zu entheben, wenn er
@@ -2613,6 +2739,7 @@ seinem Amt, so trifft die Entscheidung die Landesjustizverwaltung.
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013200666)
 
 Über Gegenstände, zu deren Beurteilung eine kaufmännische Begutachtung
 genügt, sowie über das Bestehen von Handelsgebräuchen kann die Kammer
@@ -2621,20 +2748,24 @@ entscheiden.
 
 
 ## Achter Titel - Oberlandesgerichte
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG000900666)
 
 
 
 ### § 115
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013300666)
 
 Die Oberlandesgerichte werden mit einem Präsidenten sowie mit
 Vorsitzenden Richtern und weiteren Richtern besetzt.
 
 
 ### § 115a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013400666)
 
 
 
 ### § 116
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013502301)
 
 (1) Bei den Oberlandesgerichten werden Zivil- und Strafsenate
 gebildet. Bei den nach § 120 zuständigen Oberlandesgerichten werden
@@ -2655,11 +2786,13 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 117
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013600666)
 
 Die Vorschrift des § 70 Abs. 1 ist entsprechend anzuwenden.
 
 
 ### § 118
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013703311)
 
 Die Oberlandesgerichte sind in bürgerlichen Rechtsstreitigkeiten im
 ersten Rechtszug zuständig für die Verhandlung und Entscheidung über
@@ -2667,6 +2800,7 @@ Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz.
 
 
 ### § 119
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013809360)
 
 (1) Die Oberlandesgerichte sind in Zivilsachen zuständig für die
 Verhandlung und Entscheidung über die Rechtsmittel:
@@ -2693,6 +2827,7 @@ Verhandlung und Entscheidung über die Rechtsmittel:
 
 
 ### § 119a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026902125)
 
 (1) Bei den Oberlandesgerichten werden ein oder mehrere Zivilsenate
 für folgende Sachgebiete gebildet:
@@ -2736,6 +2871,7 @@ Streitigkeiten nach § 119 Absatz 1 zugewiesen werden.
 
 
 ### § 119b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027200125)
 
 (1) Die Landesregierungen werden ermächtigt, jeweils durch
 Rechtsverordnung einen oder mehrere Senate bei einem Oberlandesgericht
@@ -2814,6 +2950,7 @@ Vereinbarung nach Absatz 2 Satz 1.
 
 
 ### § 120
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE013919125)
 
 (1) In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die
 Landesregierungen ihren Sitz haben, für das Gebiet des Landes
@@ -2973,6 +3110,7 @@ Erstattung verlangen.
 
 
 ### § 120a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026102160)
 
 (1) Hat im ersten Rechtszug ein Strafsenat die Anordnung der
 Sicherungsverwahrung vorbehalten oder im Fall des § 66b des
@@ -2986,6 +3124,7 @@ und 3 der Strafprozessordnung entsprechend.
 
 
 ### § 120b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026701125)
 
 In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die
 Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und
@@ -2996,6 +3135,7 @@ und 5 gilt entsprechend.
 
 
 ### § 121
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014005125)
 
 (1) Die Oberlandesgerichte sind in Strafsachen ferner zuständig für
 die Verhandlung und Entscheidung über die Rechtsmittel:
@@ -3069,6 +3209,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 122
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014102311)
 
 (1) Die Senate der Oberlandesgerichte entscheiden, soweit nicht nach
 den Vorschriften der Prozeßgesetze an Stelle des Senats der
@@ -3090,21 +3231,25 @@ beschließen.
 
 
 ## Neunter Titel - Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001000666)
 
 
 
 ### § 123
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014200666)
 
 Sitz des Bundesgerichtshofes ist Karlsruhe.
 
 
 ### § 124
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014300666)
 
 Der Bundesgerichtshof wird mit einem Präsidenten sowie mit
 Vorsitzenden Richtern und weiteren Richtern besetzt.
 
 
 ### § 125
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014401311)
 
 (1) Die Mitglieder des Bundesgerichtshofes werden durch den
 Bundesminister der Justiz und für Verbraucherschutz gemeinsam mit dem
@@ -3116,10 +3261,12 @@ das fünfunddreißigste Lebensjahr vollendet hat.
 
 
 ### (XXXX) §§ 126 bis 129 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014500666)
 
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014601311)
 
 (1) Bei dem Bundesgerichtshof werden Zivil- und Strafsenate gebildet
 und Ermittlungsrichter bestellt. Ihre Zahl bestimmt der Bundesminister
@@ -3132,14 +3279,17 @@ Ermittlungsrichter des Bundesgerichtshofes zu bestimmen.
 
 
 ### § 131 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014700666)
 
 
 
 ### § 131a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014800666)
 
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE014901309)
 
 (1) Beim Bundesgerichtshof werden ein Großer Senat für Zivilsachen und
 ein Großer Senat für Strafsachen gebildet. Die Großen Senate bilden
@@ -3191,6 +3341,7 @@ Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 
 ### § 133
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015002160)
 
 In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung
 und Entscheidung über die Rechtsmittel der Revision, der
@@ -3198,14 +3349,17 @@ Sprungrevision, der Rechtsbeschwerde und der Sprungrechtsbeschwerde.
 
 
 ### § 134 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015100666)
 
 
 
 ### § 134a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015200666)
 
 
 
 ### § 135
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015302125)
 
 (1) In Strafsachen ist der Bundesgerichtshof zuständig zur Verhandlung
 und Entscheidung über das Rechtsmittel der Revision gegen die Urteile
@@ -3234,14 +3388,17 @@ Oberlandesgerichte begründet ist.
 
 
 ### § 136 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015401309)
 
 
 
 ### § 137 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015501309)
 
 
 
 ### § 138
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015603320)
 
 (1) Die Großen Senate und die Vereinigten Großen Senate entscheiden
 nur über die Rechtsfrage. Sie können ohne mündliche Verhandlung
@@ -3261,6 +3418,7 @@ Verhandlung zu laden.
 
 
 ### § 139
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015701160)
 
 (1) Die Senate des Bundesgerichtshofes entscheiden in der Besetzung
 von fünf Mitgliedern einschließlich des Vorsitzenden.
@@ -3273,16 +3431,19 @@ Verfahrenshindernisses eingestellt wird.
 
 
 ### § 140
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015801160)
 
 Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das
 Plenum beschließt.
 
 
 ## 9a. Titel - Zuständigkeit für Wiederaufnahmeverfahren in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001100666)
 
 
 
 ### § 140a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE015900666)
 
 (1) Im Wiederaufnahmeverfahren entscheidet ein anderes Gericht mit
 gleicher sachlicher Zuständigkeit als das Gericht, gegen dessen
@@ -3331,15 +3492,18 @@ Wiederaufnahmeverfahrens gelten die Absätze 1 bis 6 entsprechend.
 
 
 ## Zehnter Titel - Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001200666)
 
 
 
 ### § 141
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016000666)
 
 Bei jedem Gericht soll eine Staatsanwaltschaft bestehen.
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016100666)
 
 (1) Das Amt der Staatsanwaltschaft wird ausgeübt:
 
@@ -3368,6 +3532,7 @@ unter dessen Aufsicht übertragen werden.
 
 
 ### § 142a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016207311)
 
 (1) Der Generalbundesanwalt übt in den zur Zuständigkeit von
 Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen gemäß §
@@ -3434,6 +3599,7 @@ nicht mehr vorliegt.
 
 
 ### § 142b Europäische Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027100125)
 
 (1) In Verfahren, in denen die Europäische Staatsanwaltschaft nach den
 Artikeln 22 und 23 der Verordnung (EU) 2017/1939 des Rates vom 12.
@@ -3460,6 +3626,7 @@ beim Bundesgerichtshof erheben.
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016304125)
 
 (1) Die örtliche Zuständigkeit der Staatsanwaltschaft bestimmt sich
 nach der örtlichen Zuständigkeit des Gerichts, bei dem die
@@ -3517,6 +3684,7 @@ Staatsanwalt, der gemäß Artikel 28 Absatz 4 der Verordnung (EU)
 
 
 ### § 144
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016400666)
 
 Besteht die Staatsanwaltschaft eines Gerichts aus mehreren Beamten, so
 handeln die dem ersten Beamten beigeordneten Personen als dessen
@@ -3526,6 +3694,7 @@ Auftrags berechtigt.
 
 
 ### § 145
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016500666)
 
 (1) Die ersten Beamten der Staatsanwaltschaft bei den
 Oberlandesgerichten und den Landgerichten sind befugt, bei allen
@@ -3538,16 +3707,19 @@ Amtsgerichten versehen.
 
 
 ### § 145a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016600666)
 
 
 
 ### § 146
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016700666)
 
 Die Beamten der Staatsanwaltschaft haben den dienstlichen Anweisungen
 ihres Vorgesetzten nachzukommen.
 
 
 ### § 147
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016801311)
 
 Das Recht der Aufsicht und Leitung steht zu:
 
@@ -3568,11 +3740,13 @@ Das Recht der Aufsicht und Leitung steht zu:
 
 
 ### § 148
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE016900666)
 
 Der Generalbundesanwalt und die Bundesanwälte sind Beamte.
 
 
 ### § 149
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017001311)
 
 Der Generalbundesanwalt und die Bundesanwälte werden auf Vorschlag des
 Bundesministers der Justiz und für Verbraucherschutz, der der
@@ -3580,12 +3754,14 @@ Zustimmung des Bundesrates bedarf, vom Bundespräsidenten ernannt.
 
 
 ### § 150
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017100666)
 
 Die Staatsanwaltschaft ist in ihren amtlichen Verrichtungen von den
 Gerichten unabhängig.
 
 
 ### § 151
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017200666)
 
 Die Staatsanwälte dürfen richterliche Geschäfte nicht wahrnehmen. Auch
 darf ihnen eine Dienstaufsicht über die Richter nicht übertragen
@@ -3593,6 +3769,7 @@ werden.
 
 
 ### § 152
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017301301)
 
 (1) Die Ermittlungspersonen der Staatsanwaltschaft sind in dieser
 Eigenschaft verpflichtet, den Anordnungen der Staatsanwaltschaft ihres
@@ -3609,10 +3786,12 @@ Landesjustizverwaltungen übertragen.
 
 
 ## Elfter Titel - Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001300666)
 
 
 
 ### § 153
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017403160)
 
 (1) Bei jedem Gericht und jeder Staatsanwaltschaft wird eine
 Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von
@@ -3662,10 +3841,12 @@ mit diesen Aufgaben betraut worden sind.
 
 
 ## Zwölfter Titel - Zustellungs- u. Vollstreckungsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001400666)
 
 
 
 ### § 154
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017501311)
 
 Die Dienst- und Geschäftsverhältnisse der mit den Zustellungen,
 Ladungen und Vollstreckungen zu betrauenden Beamten
@@ -3675,6 +3856,7 @@ Landesgerichten durch die Landesjustizverwaltung bestimmt.
 
 
 ### § 155
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017601320)
 
 Der Gerichtsvollzieher ist von der Ausübung seines Amts kraft Gesetzes
 ausgeschlossen:
@@ -3719,16 +3901,19 @@ II. in Strafsachen:
 
 
 ## Dreizehnter Titel - Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001500666)
 
 
 
 ### § 156
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017701160)
 
 Die Gerichte haben sich in Zivilsachen und in Strafsachen Rechtshilfe
 zu leisten.
 
 
 ### § 157
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017800666)
 
 (1) Das Ersuchen um Rechtshilfe ist an das Amtsgericht zu richten, in
 dessen Bezirk die Amtshandlung vorgenommen werden soll.
@@ -3742,6 +3927,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 158
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE017900666)
 
 (1) Das Ersuchen darf nicht abgelehnt werden.
 
@@ -3752,6 +3938,7 @@ nicht zuständig, so gibt es das Ersuchen an das zuständige Gericht ab.
 
 
 ### § 159
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018000666)
 
 (1) Wird das Ersuchen abgelehnt oder wird der Vorschrift des § 158 Abs
 2 zuwider dem Ersuchen stattgegeben, so entscheidet das
@@ -3766,6 +3953,7 @@ ersuchenden Gerichts ohne mündliche Verhandlung.
 
 
 ### § 160
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018100666)
 
 Vollstreckungen, Ladungen und Zustellungen werden nach Vorschrift der
 Prozeßordnungen bewirkt ohne Rücksicht darauf, ob sie in dem Land, dem
@@ -3774,6 +3962,7 @@ vorzunehmen sind.
 
 
 ### § 161
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018200666)
 
 Gerichte, Staatsanwaltschaften und Geschäftsstellen der Gerichte
 können wegen Erteilung eines Auftrags an einen Gerichtsvollzieher die
@@ -3784,6 +3973,7 @@ beauftragt.
 
 
 ### § 162
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018300666)
 
 Hält sich ein zu einer Freiheitsstrafe Verurteilter außerhalb des
 Bezirks der Strafvollstreckungsbehörde auf, so kann diese Behörde die
@@ -3792,6 +3982,7 @@ Verurteilte befindet, um die Vollstreckung der Strafe ersuchen.
 
 
 ### § 163
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018400666)
 
 Soll eine Freiheitsstrafe in dem Bezirk eines anderen Gerichts
 vollstreckt oder ein in dem Bezirk eines anderen Gerichts befindlicher
@@ -3801,6 +3992,7 @@ um die Ausführung zu ersuchen.
 
 
 ### § 164
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018500666)
 
 (1) Kosten und Auslagen der Rechtshilfe werden von der ersuchenden
 Behörde nicht erstattet.
@@ -3812,16 +4004,19 @@ Ansatz.
 
 
 ### § 165 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018600666)
 
 
 
 ### § 166
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018701309)
 
 Ein Gericht darf Amtshandlungen im Geltungsbereich dieses Gesetzes
 auch außerhalb seines Bezirks vornehmen.
 
 
 ### § 167
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018800666)
 
 (1) Die Polizeibeamten eines deutschen Landes sind ermächtigt, die
 Verfolgung eines Flüchtigen auf das Gebiet eines anderen deutschen
@@ -3833,6 +4028,7 @@ abzuführen.
 
 
 ### § 168
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE018900666)
 
 Die in einem deutschen Land bestehenden Vorschriften über die
 Mitteilung von Akten einer öffentlichen Behörde an ein Gericht dieses
@@ -3841,10 +4037,12 @@ anderen deutschen Land angehört.
 
 
 ## Vierzehnter Titel - Öffentlichkeit und Sitzungspolizei
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001600666)
 
 
 
 ### § 169
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019002360)
 
 (1) Die Verhandlung vor dem erkennenden Gericht einschließlich der
 Verkündung der Urteile und Beschlüsse ist öffentlich. Ton- und
@@ -3889,6 +4087,7 @@ unanfechtbar.
 
 
 ### § 170
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019102160)
 
 (1) Verhandlungen, Erörterungen und Anhörungen in Familiensachen sowie
 in Angelegenheiten der freiwilligen Gerichtsbarkeit sind nicht
@@ -3903,10 +4102,12 @@ Erörterung überwiegt.
 
 
 ### § 171 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019201309)
 
 
 
 ### § 171a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019302306)
 
 Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil
 davon ausgeschlossen werden, wenn das Verfahren die Unterbringung des
@@ -3916,6 +4117,7 @@ hat.
 
 
 ### § 171b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE025505125)
 
 (1) Die Öffentlichkeit kann ausgeschlossen werden, soweit Umstände aus
 dem persönlichen Lebensbereich eines Prozessbeteiligten, eines Zeugen
@@ -3954,6 +4156,7 @@ betroffen sind, dem Ausschluss der Öffentlichkeit widersprechen.
 
 
 ### § 172
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019404125)
 
 Das Gericht kann für die Verhandlung oder für einen Teil davon die
 Öffentlichkeit ausschließen, wenn
@@ -3982,6 +4185,7 @@ Das Gericht kann für die Verhandlung oder für einen Teil davon die
 
 
 ### § 173
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019502308)
 
 (1) Die Verkündung des Urteils sowie der Endentscheidung in Ehesachen
 und Familienstreitsachen erfolgt in jedem Falle öffentlich.
@@ -3993,6 +4197,7 @@ ausgeschlossen werden.
 
 
 ### § 174
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019601309)
 
 (1) Über die Ausschließung der Öffentlichkeit ist in nicht
 öffentlicher Sitzung zu verhandeln, wenn ein Beteiligter es beantragt
@@ -4020,6 +4225,7 @@ keine aufschiebende Wirkung.
 
 
 ### § 175
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019701309)
 
 (1) Der Zutritt zu öffentlichen Verhandlungen kann unerwachsenen und
 solchen Personen versagt werden, die in einer der Würde des Gerichts
@@ -4036,6 +4242,7 @@ Verhandlungen vor dem erkennenden Gericht nicht entgegen.
 
 
 ### § 176
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019801125)
 
 (1) Die Aufrechterhaltung der Ordnung in der Sitzung obliegt dem
 Vorsitzenden.
@@ -4048,6 +4255,7 @@ ist.
 
 
 ### § 177
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE019900666)
 
 Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der
 Verhandlung nicht beteiligte Personen, die den zur Aufrechterhaltung
@@ -4060,6 +4268,7 @@ beteiligt sind, der Vorsitzende, in den übrigen Fällen das Gericht.
 
 
 ### § 178
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020001310)
 
 (1) Gegen Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der
 Verhandlung nicht beteiligte Personen, die sich in der Sitzung einer
@@ -4079,12 +4288,14 @@ Ordnungsgeld oder die Ordnungshaft auf die Strafe anzurechnen.
 
 
 ### § 179
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020100666)
 
 Die Vollstreckung der vorstehend bezeichneten Ordnungsmittel hat der
 Vorsitzende unmittelbar zu veranlassen.
 
 
 ### § 180
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020200666)
 
 Die in den §§ 176 bis 179 bezeichneten Befugnisse stehen auch einem
 einzelnen Richter bei der Vornahme von Amtshandlungen außerhalb der
@@ -4092,6 +4303,7 @@ Sitzung zu.
 
 
 ### § 181
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020300666)
 
 (1) Ist in den Fällen der §§ 178, 180 ein Ordnungsmittel festgesetzt,
 so kann gegen die Entscheidung binnen der Frist von einer Woche nach
@@ -4105,6 +4317,7 @@ Wirkung, in dem Falle des § 180 aufschiebende Wirkung.
 
 
 ### § 182
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020400666)
 
 Ist ein Ordnungsmittel wegen Ungebühr festgesetzt oder eine Person zur
 Ordnungshaft abgeführt oder eine bei der Verhandlung beteiligte Person
@@ -4113,6 +4326,7 @@ Veranlassung in das Protokoll aufzunehmen.
 
 
 ### § 183
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020500666)
 
 Wird eine Straftat in der Sitzung begangen, so hat das Gericht den
 Tatbestand festzustellen und der zuständigen Behörde das darüber
@@ -4121,10 +4335,12 @@ vorläufige Festnahme des Täters zu verfügen.
 
 
 ## Fünfzehnter Titel - Gerichtssprache
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001702301)
 
 
 
 ### § 184
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020601301)
 
 Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den
 Heimatkreisen der sorbischen Bevölkerung vor Gericht sorbisch zu
@@ -4132,6 +4348,7 @@ sprechen, ist gewährleistet.
 
 
 ### § 184a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027300125)
 
 (1) Die Landesregierungen werden ermächtigt, jeweils durch
 Rechtsverordnung zu bestimmen, dass Verfahren, die ausgewählte
@@ -4205,6 +4422,7 @@ anschließenden Instanzenzug in deutscher Sprache geführt.
 
 
 ### § 184b
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE027400125)
 
 (1) Die Zivilsenate des Bundesgerichtshofs führen das Verfahren in
 englischer Sprache, wenn
@@ -4232,6 +4450,7 @@ Verfahrensakte in die deutsche Sprache übersetzt werden.
 
 
 ### § 185
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020704360)
 
 (1) Wird unter Beteiligung von Personen verhandelt, die der deutschen
 Sprache nicht mächtig sind, so ist ein Dolmetscher zuzuziehen. Ein
@@ -4265,6 +4484,7 @@ zulassen. § 176 Absatz 1 bleibt unberührt.
 
 
 ### § 186
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020802311)
 
 (1) Die Verständigung mit einer hör- oder sprachbehinderten Person
 erfolgt nach ihrer Wahl mündlich, schriftlich oder mit Hilfe einer die
@@ -4303,6 +4523,7 @@ bedarf,
 
 
 ### § 187
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE020904311)
 
 (1) Das Gericht zieht für den Beschuldigten oder Verurteilten, der der
 deutschen Sprache nicht mächtig ist, einen Dolmetscher oder Übersetzer
@@ -4339,12 +4560,14 @@ der Nebenklage anzuschließen.
 
 
 ### § 188
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021000666)
 
 Personen, die der deutschen Sprache nicht mächtig sind, leisten Eide
 in der ihnen geläufigen Sprache.
 
 
 ### § 189
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021106125)
 
 (1) Der Dolmetscher hat einen Eid dahin zu leisten, daß er treu und
 gewissenhaft übertragen werde. Gibt der Dolmetscher an, daß er aus
@@ -4367,6 +4590,7 @@ Hierauf weist ihn das Gericht hin.
 
 
 ### § 190
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021200666)
 
 Der Dienst des Dolmetschers kann von dem Urkundsbeamten der
 Geschäftsstelle wahrgenommen werden. Einer besonderen Beeidigung
@@ -4374,6 +4598,7 @@ bedarf es nicht.
 
 
 ### § 191
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021300666)
 
 Auf den Dolmetscher sind die Vorschriften über Ausschließung und
 Ablehnung der Sachverständigen entsprechend anzuwenden. Es entscheidet
@@ -4381,6 +4606,7 @@ das Gericht oder der Richter, von dem der Dolmetscher zugezogen ist.
 
 
 ### § 191a
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026007125)
 
 (1) Eine blinde oder sehbehinderte Person kann Schriftsätze und andere
 Dokumente in einer für sie wahrnehmbaren Form bei Gericht einreichen.
@@ -4426,10 +4652,12 @@ gilt entsprechend.
 
 
 ## Sechzehnter Titel - Beratung und Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001800666)
 
 
 
 ### § 192
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021400666)
 
 (1) Bei Entscheidungen dürfen Richter nur in der gesetzlich bestimmten
 Anzahl mitwirken.
@@ -4443,6 +4671,7 @@ einzutreten haben.
 
 
 ### § 193
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021503125)
 
 (1) Die Beratung und die Abstimmung können mit Einverständnis aller
 zur Entscheidung berufenen Richter ganz oder teilweise per Bild- und
@@ -4488,6 +4717,7 @@ antragsberechtigt.
 
 
 ### § 194
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021600666)
 
 (1) Der Vorsitzende leitet die Beratung, stellt die Fragen und sammelt
 die Stimmen.
@@ -4498,6 +4728,7 @@ entscheidet das Gericht.
 
 
 ### § 195
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021700666)
 
 Kein Richter oder Schöffe darf die Abstimmung über eine Frage
 verweigern, weil er bei der Abstimmung über eine vorhergegangene Frage
@@ -4505,6 +4736,7 @@ in der Minderheit geblieben ist.
 
 
 ### § 196
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021801305)
 
 (1) Das Gericht entscheidet, soweit das Gesetz nicht ein anderes
 bestimmt, mit der absoluten Mehrheit der Stimmen.
@@ -4530,6 +4762,7 @@ Ausschlag.
 
 
 ### § 197
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021900666)
 
 Die Richter stimmen nach dem Dienstalter, bei gleichem Dienstalter
 nach dem Lebensalter, ehrenamtliche Richter und Schöffen nach dem
@@ -4539,10 +4772,12 @@ zuerst. Zuletzt stimmt der Vorsitzende.
 
 
 ## Siebzehnter Titel - Rechtsschutz bei überlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNG001801308)
 
 
 
 ### § 198
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE021901308)
 
 (1) Wer infolge unangemessener Dauer eines Gerichtsverfahrens als
 Verfahrensbeteiligter einen Nachteil erleidet, wird angemessen
@@ -4611,6 +4846,7 @@ rechtskräftigen Entscheidung über die Klage ist der Anspruch nicht
 
 
 ### § 199
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026401308)
 
 (1) Für das Strafverfahren einschließlich des Verfahrens auf
 Vorbereitung der öffentlichen Klage ist § 198 nach Maßgabe der Absätze
@@ -4636,6 +4872,7 @@ Entscheidung des Strafgerichts gebunden.
 
 
 ### § 200
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026500308)
 
 Für Nachteile, die auf Grund von Verzögerungen bei Gerichten eines
 Landes eingetreten sind, haftet das Land. Für Nachteile, die auf Grund
@@ -4645,6 +4882,7 @@ der Bund. Für Staatsanwaltschaften und Finanzbehörden in Fällen des §
 
 
 ### § 201
+[Direktlink](https://www.gesetze-im-internet.de/gvg/BJNR005130950.html#BJNR005130950BJNE026601308)
 
 (1) Zuständig für die Klage auf Entschädigung gegen ein Land ist das
 Oberlandesgericht, in dessen Bezirk das streitgegenständliche

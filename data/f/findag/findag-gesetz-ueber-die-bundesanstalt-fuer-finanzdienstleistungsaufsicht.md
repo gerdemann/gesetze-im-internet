@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000200000)
 
 
 
 ### § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000101377)
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird durch
 Zusammenlegung des Bundesaufsichtsamtes für das Kreditwesen, des
@@ -46,17 +48,20 @@ von der Zahlung der Gerichtskosten befreit.
 
 
 ### § 2 Rechts- und Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000200000)
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums der Finanzen (Bundesministerium).
 
 
 ### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000301360)
 
 —
 
 
 ### § 4 Aufgaben und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000410128)
 
 (1) Die Bundesanstalt übernimmt die dem Bundesaufsichtsamt für das
 Kreditwesen, dem Bundesaufsichtsamt für das Versicherungswesen und dem
@@ -157,6 +162,7 @@ anderer Personen und Einrichtungen bedienen.
 
 
 ### § 4a Meinungsverschiedenheiten bei der laufenden Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002800360)
 
 Meinungsverschiedenheiten von erheblicher Bedeutung zwischen der
 Bundesanstalt und der Deutschen Bundesbank im Rahmen der laufenden
@@ -167,6 +173,7 @@ Bundesministerium im Benehmen mit der Deutschen Bundesbank.
 
 
 ### § 4b Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002901123)
 
 (1) Kunden von solchen Instituten und Unternehmen, die der Aufsicht
 der Bundesanstalt unterliegen, und Stellen nach § 3 Absatz 1 Satz 1
@@ -194,6 +201,7 @@ Beschwerdeführer einverstanden ist.
 
 
 ### § 4c Aktenvorlage und Auskunftspflicht in verwaltungsgerichtlichen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003000360)
 
 Für die Vorlage von Urkunden oder Akten, die Übermittlung
 elektronischer Dokumente oder die Erteilung von Auskünften durch die
@@ -203,6 +211,7 @@ Stelle der obersten Aufsichtsbehörde die Bundesanstalt tritt.
 
 
 ### § 4d Meldung von Verstößen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005404128)
 
 (1) Die Bundesanstalt errichtet ein System zur Annahme von Meldungen
 über potentielle oder tatsächliche Verstöße gegen Gesetze,
@@ -226,6 +235,7 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 
 ### § 4e Vorschriften über die Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005701123)
 
 (1) Die Bundesanstalt ist befugt, personenbezogene Daten zu
 verarbeiteten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben
@@ -302,6 +312,7 @@ Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU)
 
 
 ### § 4f Elektronische Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005900123)
 
 (1) Die Bundesanstalt kann abweichend von § 41 des
 Verwaltungsverfahrensgesetzes einen Verwaltungsakt auch dadurch
@@ -326,6 +337,7 @@ oder Beweissicherungsinteresse besteht.
 
 
 ### § 4g Elektronische Zustellung durch Bereitstellung zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006000123)
 
 (1) Die Bundesanstalt kann abweichend von § 5 des
 Verwaltungszustellungsgesetzes an Empfänger, die durch
@@ -351,6 +363,7 @@ entsprechend.
 
 
 ### § 4h Bekanntgabe und Zustellung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006700128)
 
 (1) Die Bundesanstalt kann abweichend von § 41 des
 Verwaltungsverfahrensgesetzes Verwaltungsakte, die gegenüber einer
@@ -372,6 +385,7 @@ Bundesanzeiger vornehmen. Absatz 1 Satz 2 gilt entsprechend.
 
 
 ### § 4i Absehen von einer Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006800125)
 
 Die Bundesanstalt kann innerhalb ihrer gesetzlichen Befugnisse die
 Erteilung von Auskünften und die Vorlage von Unterlagen verlangen,
@@ -381,6 +395,7 @@ den für die Entscheidung erheblichen Tatsachen zu äußern.
 
 
 ### § 4j Anträge und Informationen in englischer Sprache
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006900128)
 
 (1) Anträge an die Bundesanstalt können auch ganz oder teilweise in
 englischer Sprache gestellt werden. Die Bundesanstalt kann jederzeit
@@ -429,10 +444,12 @@ allein die deutschsprachige Fassung.
 
 
 ## Zweiter Abschnitt - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000300000)
 
 
 
 ### § 5 Organe, Satzung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000503360)
 
 (1) Organe der Bundesanstalt sind das Direktorium, der Präsident oder
 die Präsidentin und der Verwaltungsrat.
@@ -468,6 +485,7 @@ Bestimmungen aufzunehmen über
 
 
 ### § 6 Leitung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000605128)
 
 (1) Die Bundesanstalt wird durch das Direktorium gesamtverantwortlich
 geleitet. Das Direktorium besteht aus einem Präsidenten oder einer
@@ -501,6 +519,7 @@ gerichtlich und außergerichtlich.
 
 
 ### § 7 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000711128)
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Der
 Verwaltungsrat überwacht die Geschäftsführung der Bundesanstalt und
@@ -587,6 +606,7 @@ die stellvertretenden Mitglieder entsprechende Anwendung.
 
 
 ### § 8 Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000801128)
 
 (1) Bei der Bundesanstalt wird ein Fachbeirat gebildet. Er berät die
 Bundesanstalt bei der Erfüllung ihrer Aufgaben. Er kann auch
@@ -605,6 +625,7 @@ Fachbeirat gibt sich eine Geschäftsordnung.
 
 
 ### § 8a Verbraucherbeirat
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003104128)
 
 (1) Bei der Bundesanstalt wird ein Verbraucherbeirat gebildet. Er
 berät die Bundesanstalt aus Verbrauchersicht bei der Erfüllung ihrer
@@ -624,10 +645,12 @@ Der Verbraucherbeirat gibt sich eine Geschäftsordnung.
 
 
 ## Dritter Abschnitt - Personal
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000400000)
 
 
 
 ### § 9 Rechtsstellung der Mitglieder des Direktoriums
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002701123)
 
 (1) Die Mitglieder des Direktoriums stehen in einem öffentlich-
 rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere fachliche
@@ -713,6 +736,7 @@ Berufssoldaten oder Berufssoldatinnen entsprechend.
 
 
 ### § 9a Beamte
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE000904128)
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamte zu haben.
 
@@ -742,6 +766,7 @@ sechs Monate nach Entlassung aus dem Beamtenverhältnis.
 
 
 ### § 10 Angestellte, Arbeiter und Auszubildende
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001001128)
 
 (1) Auf die Angestellten, Arbeiter und Auszubildenden der
 Bundesanstalt sind die für Arbeitnehmer und Auszubildende des Bundes
@@ -774,6 +799,7 @@ Satz 2 endet sechs Monate nach Beendigung des Arbeitsverhältnisses.
 
 
 ### § 10a Stellenzulage
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003203128)
 
 (1) Die bei der Bundesanstalt verwendeten Beamten erhalten eine nicht
 ruhegehaltfähige Stellenzulage in Höhe von 80 Prozent der Zulage nach
@@ -787,6 +813,7 @@ gewähren.
 
 
 ### § 10b Personalgewinnungs- und Personalbindungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003301123)
 
 Die Bundesanstalt kann auf Anordnung des Präsidenten oder der
 Präsidentin mit Zustimmung des Verwaltungsrats von § 43 Absatz 8 des
@@ -794,6 +821,7 @@ Bundesbesoldungsgesetzes abweichen.
 
 
 ### § 11 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001100000)
 
 Die Verschwiegenheitspflicht der Beschäftigten der Bundesanstalt in
 Bezug auf Tatsachen, die ihnen bei ihrer Tätigkeit bekannt geworden
@@ -805,6 +833,7 @@ entsprechend.
 
 
 ### § 11a Regelungen zur Integrität; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006201128)
 
 (1) Beschäftigte der Bundesanstalt dürfen weder für eigene oder fremde
 Rechnung noch für einen anderen private Finanzgeschäfte in
@@ -986,10 +1015,12 @@ Vorteil geleistet wird.
 
 
 ## Vierter Abschnitt - Haushaltsplan, Rechnungslegung, Deckung des Verwaltungsaufwands
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000500000)
 
 
 
 ### § 12 Haushaltsplan, Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001204123)
 
 (1) Die Bundesanstalt weist die in ihrem Verwaltungsbereich
 voraussichtlich zu erwartenden Einnahmen und zu leistenden Ausgaben in
@@ -1033,6 +1064,7 @@ Bundesrechnungshof zuzuleiten.
 
 
 ### § 13 Deckung der Kosten der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001306128)
 
 (1) Die Bundesanstalt deckt ihre Kosten, einschließlich der Kosten,
 mit denen die Deutsche Bundesbank die Bundesanstalt nach § 15 Abs. 2
@@ -1067,14 +1099,17 @@ Rechtsverpflichtungen zu erfüllen sind.
 
 
 ## Fünfter Abschnitt - Gebühren und Umlage, Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000600000)
 
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001406301)
 
 
 
 ### § 15 Gesonderte Erstattung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006603128)
 
 (1) Die Kosten, die der Bundesanstalt entstehen
 
@@ -1304,6 +1339,7 @@ unterscheiden.
 
 
 ### § 16 Umlage
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001618123)
 
 Soweit die Kosten der Bundesanstalt nicht durch Gebühren, gesonderte
 Erstattungen nach § 15 oder sonstige Einnahmen gedeckt werden, sind
@@ -1321,6 +1357,7 @@ der §§ 16a bis 16s umzulegen.
 
 
 ### § 16a Umlagefähige Kosten; Umlagejahr
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003400360)
 
 (1) Die Bundesanstalt hat als Kosten im Sinne des § 16 die Ausgaben
 eines Haushaltsjahres zu ermitteln. Zu den Kosten gehören auch die
@@ -1338,6 +1375,7 @@ unberücksichtigt.
 
 
 ### § 16b Kostenermittlung nach Aufgabenbereichen und Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003506128)
 
 (1) Die Kosten sind für die folgenden Aufgabenbereiche, die jeweils
 nach den maßgeblichen Aufsichtsgesetzen in die Zuständigkeit der
@@ -1395,6 +1433,7 @@ vor Verteilung der Gemeinkosten nach Absatz 3 von diesen abzuziehen.
 
 
 ### § 16c Fehlbeträge, nicht eingegangene Beträge und Überschüsse der Vorjahre
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003601118)
 
 (1) Nach Ermittlung und Verteilung der Kosten für das Umlagejahr nach
 Maßgabe des § 16b sind die zu berücksichtigenden Fehlbeträge, nicht
@@ -1432,6 +1471,7 @@ Verteilung der Gemeinkosten zu diesen hinzuzurechnen.
 
 
 ### § 16d Umlagebetrag, Umlagepflicht und Verteilungsschlüssel
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003702123)
 
 Umlagebetrag ist der Anteil an den umlagefähigen Kosten, der innerhalb
 eines Aufgabenbereichs oder einer Gruppe für einen Umlagepflichtigen
@@ -1442,6 +1482,7 @@ Aufgabenbereichs bestimmen sich nach Maßgabe der §§ 16e bis 16l.
 
 
 ### § 16e Kostenermittlung und Umlagepflicht im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003815128)
 
 (1) Innerhalb des Aufgabenbereichs Banken und sonstige
 Finanzdienstleistungen hat eine gesonderte Ermittlung der Kosten nach
@@ -1577,6 +1618,7 @@ Beaufsichtigung durch die Bundesanstalt.
 
 
 ### § 16f Bemessungsgrundlagen der Umlage im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE003912128)
 
 (1) Der Umlagebetrag für die Umlagepflichtigen im Aufgabenbereich
 Banken und sonstige Finanzdienstleistungen ist zu bemessen:
@@ -1746,6 +1788,7 @@ Gruppe zu erfolgen.
 
 
 ### § 16g Mindestumlagebeträge im Aufgabenbereich Banken und sonstige Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004012128)
 
 (1) Der von jedem Umlagepflichtigen des Aufgabenbereichs Banken und
 sonstige Finanzdienstleistungen zu entrichtende Umlagebetrag beträgt
@@ -1911,6 +1954,7 @@ erhöhen sich
 
 
 ### § 16h Aufgabenbereich Versicherungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004102128)
 
 (1) Umlagepflichtig im Aufgabenbereich Versicherungen ist die
 Gesamtheit der inländischen Versicherungsunternehmen und Pensionsfonds
@@ -1943,6 +1987,7 @@ Euro.
 
 
 ### § 16i Kostenermittlung und Umlagepflicht im Aufgabenbereich Wertpapierhandel
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004202118)
 
 (1) Innerhalb des Aufgabenbereichs Wertpapierhandel hat eine
 gesonderte Ermittlung der Kosten nach folgenden Gruppen zu erfolgen:
@@ -2003,6 +2048,7 @@ Wertpapierdienstleistungsunternehmen und Anlageverwalter.
 
 
 ### § 16j Bemessungsgrundlagen der Umlage im Aufgabenbereich Wertpapierhandel
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004306128)
 
 (1) Für die Umlagepflichtigen in der Gruppe
 Wertpapierdienstleistungsunternehmen und Anlageverwalter ist der
@@ -2234,6 +2280,7 @@ Rechtsverordnung nach Satz 1 auf die Bundesanstalt übertragen.
 
 
 ### § 16k Aufgabenbereich Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005502128)
 
 (1) Die Umlagepflicht besteht für Institute im Sinne des § 2 des
 Restrukturierungsfondsgesetzes ab dem Zeitpunkt der Erteilung oder der
@@ -2273,6 +2320,7 @@ Umlagebetrag für jedes umlagepflichtige Institut beträgt mindestens
 
 
 ### § 16l Aufgabenbereich Bilanzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006302128)
 
 (1) Umlagepflichtig für den Aufgabenbereich Bilanzkontrolle als
 Bilanzkontrollemittenten sind Emittenten von am 1. Juli des
@@ -2309,6 +2357,7 @@ Bundesanstalt binnen drei Monaten vorzulegen.
 
 
 ### § 16m Entstehung der Umlageforderung; Festsetzung des Umlagebetrages und Fälligkeit; Verpflichtung zur elektronischen Kommunikation; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004405128)
 
 (1) Die Umlageforderung entsteht mit Ablauf des Umlagejahres, für das
 die Umlagepflicht besteht.
@@ -2370,6 +2419,7 @@ vorgegebenen Form zu übermitteln und bei Änderungen zu aktualisieren.
 
 
 ### § 16n Festsetzung und Fälligkeit von Umlagevorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004505128)
 
 (1) Die Bundesanstalt hat innerhalb eines Jahres eine Vorauszahlung
 auf den Umlagebetrag eines Umlagejahres festzusetzen, nachdem der für
@@ -2424,6 +2474,7 @@ sind.
 
 
 ### § 16o Differenz zwischen Umlagebetrag und Vorauszahlung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004603128)
 
 (1) Entsteht nach der Anrechnung der gezahlten
 Umlagevorauszahlungsbeträge auf den festgesetzten Umlagebetrag ein
@@ -2445,6 +2496,7 @@ Vorauszahlungsbescheides unanfechtbar geworden ist.
 
 
 ### § 16p Stundung; Erlass
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE007000128)
 
 (1) Die Bundesanstalt kann anordnen, dass Anträge der
 Umlagepflichtigen auf Stundung oder Erlass von Gebühren-, Umlage- oder
@@ -2462,6 +2514,7 @@ werden.
 
 
 ### § 16q Säumniszuschläge; Beitreibung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004703128)
 
 (1) Werden die Umlagebeträge und Umlagevorauszahlungsbeträge nicht bis
 zum Ablauf des Fälligkeitstages entrichtet, ist für jeden angefangenen
@@ -2507,6 +2560,7 @@ Niederlassung des Vollstreckungsschuldners zuständige Hauptzollamt.
 
 
 ### § 16r Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004803128)
 
 (1) Die Festsetzung des Umlagebetrages ist nicht mehr zulässig, wenn
 die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung). Die
@@ -2527,6 +2581,7 @@ gestellte Anträge auf Aufhebung oder Änderung der Festsetzung.
 
 
 ### § 16s Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE004903128)
 
 (1) Der Anspruch auf Zahlung des festgesetzten Umlagebetrages verjährt
 nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist beginnt
@@ -2623,6 +2678,7 @@ verjährungsunterbrechende Maßnahmen nach Absatz 3 unterbrochen werden.
 
 
 ### § 16t Erstattung überzahlter Umlagebeträge
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005003128)
 
 (1) Zu Unrecht erhobene Umlagebeträge und sonstige Überzahlungen auf
 Umlagebeträge, die nicht auf der Erhebung einer Vorauszahlung beruhen,
@@ -2641,6 +2697,7 @@ Anspruchs folgt.
 
 
 ### § 17 Zwangsmittel; Bekanntgabe von Allgemeinverfügungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001702118)
 
 (1) Die Bundesanstalt kann ihre Verfügungen, die sie innerhalb ihrer
 gesetzlichen Befugnisse trifft, mit Zwangsmitteln nach den
@@ -2698,10 +2755,12 @@ Stelle; Absatz 2 Satz 3 bis 6 gilt entsprechend.
 
 
 ## Sechster Abschnitt - Finanzierung gesonderter Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000800377)
 
 
 
 ### § 17a Finanzierung gesonderter Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002301118)
 
 Die Bundesanstalt weist die in ihrem Verwaltungsbereich
 voraussichtlich zu erwartenden Einnahmen und zu leistenden Ausgaben
@@ -2719,10 +2778,12 @@ Abs. 1, 3 bis 5 und § 13 Abs. 2 Satz 1 und 2 entsprechend anzuwenden.
 
 
 ### § 17b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002405301)
 
 
 
 ### § 17c Gesonderte Erstattung bei gesonderten Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002501118)
 
 Die Kosten, die der Bundesanstalt durch die Wahrnehmung der Aufgaben
 nach § 108 Absatz 1 Satz 2 Nummer 1 des Wertpapierhandelsgesetzes
@@ -2745,6 +2806,7 @@ Bundesanstalt übertragen.
 
 
 ### § 17d Gesonderte Umlage
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002608128)
 
 (1) Soweit die nach § 17a Satz 4 gesondert erfassten Kosten und die
 Kosten, die zur Erfüllung der Aufgaben der Prüfstelle nach § 342b des
@@ -2802,10 +2864,12 @@ Handelsgesetzbuchs entstanden sind.
 
 
 ## Siebenter Abschnitt - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNG000701377)
 
 
 
 ### § 18 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001802360)
 
 (1) Bei dem Bundesaufsichtsamt für das Kreditwesen, dem
 Bundesaufsichtsamt für das Versicherungswesen und dem
@@ -2852,6 +2916,7 @@ Fassung bis zur Übertragung eines anderen Amtes anzuwenden.
 
 
 ### § 18a Teilintegration der Bundesanstalt für Finanzmarktstabilisierung; Rechtsnachfolge; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005603128)
 
 (1) Die Bundesanstalt übernimmt zum 1. Januar 2018 alle Rechte und
 Pflichten, Verträge und sonstigen Rechtsverhältnisse der Bundesanstalt
@@ -2946,6 +3011,7 @@ erlassen.
 
 
 ### § 18b Übernahme der Beschäftigten des Deutsche Prüfstelle für Rechnungslegung DPR e. V.
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006402128)
 
 (1) Die Bundesanstalt tritt zum 1. Januar 2022 und nach Maßgabe der
 folgenden Absätze in die Rechte und Pflichten aus den
@@ -3053,6 +3119,7 @@ in Berlin anmieten und einrichten.
 
 
 ### § 19 Überleitung/Übernahme von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE001903360)
 
 (1) Die Beamten der Bundesaufsichtsämter für das Kreditwesen, für das
 Versicherungswesen und für den Wertpapierhandel sind mit Wirkung zum
@@ -3074,6 +3141,7 @@ Ausbildungsverhältnisse ein.
 
 
 ### § 20 Verteilung der Versorgungskosten
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002000000)
 
 (1) Die Bundesanstalt trägt die Versorgungsbezüge für die bei ihr
 zurückgelegten Dienstzeiten der übernommenen Beamten der
@@ -3092,6 +3160,7 @@ Wertpapierhandel werden die Versorgungsbezüge vom Bund getragen.
 
 
 ### § 21 Übergang von Rechten und Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002100000)
 
 (1) Rechte und Pflichten, die die Bundesaufsichtsämter für das
 Kreditwesen, für das Versicherungswesen und für den Wertpapierhandel
@@ -3105,6 +3174,7 @@ Nutzung überlassen.
 
 
 ### § 22 Übergangsvorschriften zum Gesetz zur Stärkung der deutschen Finanzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE002201360)
 
 (1) § 4c gilt nicht in Verwaltungsgerichtsverfahren, die vor dem 1.
 Januar 2013 anhängig geworden sind oder für die die Klagefrist vor
@@ -3123,6 +3193,7 @@ Zahlungszeitraum gezahlt werden.
 
 
 ### § 23 Übergangsbestimmungen zur Umlageerhebung
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE005116128)
 
 (1) Die §§ 16 bis 16k und 16m bis 16q in der ab dem 1. Januar 2013
 geltenden Fassung sind erstmals auf die Umlageerhebung für das
@@ -3372,6 +3443,7 @@ geltenden Fassung erstmals auf das Umlagejahr 2024 anzuwenden.
 
 
 ### § 24 Übergangsbestimmungen zu Kosten, Haushalt und Umlageerhebung für den Aufgabenbereich Bilanzkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/findag/BJNR131010002.html#BJNR131010002BJNE006500123)
 
 (1) § 17a und § 17d sowie die Vorschriften der Bilanzkontrollkosten-
 Umlageverordnung sind letztmals auf die Umlageerhebung und

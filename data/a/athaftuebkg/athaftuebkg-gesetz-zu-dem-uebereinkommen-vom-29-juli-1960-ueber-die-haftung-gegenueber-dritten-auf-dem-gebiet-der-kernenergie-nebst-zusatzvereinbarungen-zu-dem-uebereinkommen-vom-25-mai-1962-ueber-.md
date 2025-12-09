@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/athaft_bkg/BJNR209570975.html#BJNR209570975BJNE000100303)
 
 Den folgenden Übereinkommen wird zugestimmt:
 
@@ -66,6 +67,7 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 
 ## Art 1a
+[Direktlink](https://www.gesetze-im-internet.de/athaft_bkg/BJNR209570975.html#BJNR209570975BJNE000201377)
 
 Die Umrechnung der in Artikel III Abs. 4 Satz 1 des Übereinkommens vom
 25\. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen
@@ -79,6 +81,7 @@ seine Operationen und Transaktionen anwendet.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/athaft_bkg/BJNR209570975.html#BJNR209570975BJNE000301377)
 
 Die Bundesregierung wird ermächtigt, zur Förderung der
 Reaktorschiffahrt durch Rechtsverordnung internationale Vereinbarungen
@@ -114,6 +117,7 @@ die folgende Voraussetzungen erfüllen:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/athaft_bkg/BJNR209570975.html#BJNR209570975BJNE000400303)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -123,6 +127,7 @@ S. 1).
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/athaft_bkg/BJNR209570975.html#BJNR209570975BJNE000500303)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

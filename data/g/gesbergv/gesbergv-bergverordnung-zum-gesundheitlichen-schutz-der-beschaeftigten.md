@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE000900307)
 
 Auf Grund des § 65 Nr. 3, des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und
 e, Nr. 5 und 6, des § 67 Nr. 1 und 8 sowie des § 68 Abs. 2 Nr. 1 und 3
@@ -32,10 +33,12 @@ Küstengewässer im Einvernehmen mit dem Bundesminister für Verkehr:
 
 
 ## 1. Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000100307)
 
 
 
 ### § 1 Räumliche und sachliche Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001002124)
 
 Diese Verordnung ist anzuwenden für gesundheitliche
 Eignungsuntersuchungen sowie Vorsorge- und Schutzmaßnahmen
@@ -64,10 +67,12 @@ Eignungsuntersuchungen sowie Vorsorge- und Schutzmaßnahmen
 
 
 ## 2. Abschnitt - Eignungsuntersuchungen und arbeitsmedizinische Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000201124)
 
 
 
 ### § 2 Eignungsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001104124)
 
 (1) Der Unternehmer hat sicherzustellen, dass folgende Personen bei
 Tätigkeiten in Betrieben nach § 1 nur beschäftigt werden, soweit nach
@@ -150,6 +155,7 @@ Eignungsuntersuchungen im Sinne des Absatzes 1 gleich.
 
 
 ### § 3 Fristen für die Erst- und Nachuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001201124)
 
 (1) Die Erstuntersuchungen müssen vor Beginn der Tätigkeit vorgenommen
 werden. Sie dürfen nicht länger als drei Monate, vom Beginn der
@@ -176,6 +182,7 @@ Nachuntersuchungen an einem Termin vorgenommen werden.
 
 
 ### § 4 Arbeitsmedizinische Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE004101116)
 
 (1) Der Unternehmer hat Personen, die nach vorherigen Tätigkeiten nach
 § 2 Absatz 1 Satz 1 Nummer 1 im Steinkohlenbergbau mit anderen
@@ -215,6 +222,7 @@ unberührt.
 
 
 ### § 5 Durchführung der Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE004200124)
 
 (1) Der Unternehmer hat die Eignungsuntersuchungen zu veranlassen
 sowie die nachgehende Vorsorge nach § 4 Absatz 1 anzubieten, soweit
@@ -277,6 +285,7 @@ Unternehmer ist auf der Grundlage von Anlage 4 auszustellen.
 
 
 ### § 6 Mitteilung, Aufzeichnung, Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE004300124)
 
 (1) Der Unternehmer und im Falle des § 4 Absatz 1 Satz 2 der Träger
 der gesetzlichen Unfallversicherung hat fortlaufend dafür zu sorgen,
@@ -324,14 +333,17 @@ zu vernichten.
 
 
 ## 3. Abschnitt - Besondere Vorschriften für Gefahrstoffe einschließlich fibrogener Grubenstäube
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000301124)
 
 
 
 ### 1. Unterabschnitt - Allgemeine Bestimmungen für Tätigkeiten mit Gefahrstoffen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000401124)
 
 
 
 #### § 7 Tätigkeiten mit Gefahrstoffen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001304124)
 
 (1) Bei Tätigkeiten mit Gefahrstoffen im Sinne der
 Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643, 1644) in
@@ -373,10 +385,12 @@ nach den Vorgaben der Gefahrstoffverordnung bleiben unberührt.
 
 
 ### 2. Unterabschnitt - Besondere Bestimmungen für den untertägigen Steinkohlenbergbau
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000501124)
 
 
 
 #### § 8 Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001401124)
 
 (1) Für jede Person, die in untertägigen Betrieben beschäftigt wird,
 hat der Unternehmer auf Grund von Staubmessungen die persönliche
@@ -394,6 +408,7 @@ erhöht.
 
 
 #### § 9 Zulässige persönliche Staubbelastungswerte
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001501124)
 
 (1) Der Unternehmer hat sicherzustellen, daß innerhalb eines
 Beurteilungszeitraumes von zwei Jahren für Personen
@@ -435,6 +450,7 @@ Schutzniveau ergibt.
 
 
 #### § 10 Einstufung der Betriebspunkte
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001601124)
 
 (1) Der Unternehmer hat die Betriebspunkte den in Anlage 7
 festgelegten Staubbelastungsstufen zuzuordnen.
@@ -450,6 +466,7 @@ anzuzeigen.
 
 
 #### § 11 Staubmessungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001703124)
 
 (1) Der Unternehmer hat in den Betriebspunkten regelmäßig
 arbeitsschichtbezogene Staubmessungen auf der Grundlage eines von ihm
@@ -516,6 +533,7 @@ anzuzeigen.
 
 
 #### § 12 Überwachung der staubexponierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001801124)
 
 (1) Für jede beschäftigte Person hat der Unternehmer
 
@@ -548,10 +566,12 @@ ist unzulässig.
 
 
 ### 3. Unterabschnitt - Besondere Bestimmungen für den untertägigen Nichtsteinkohlenbergbau
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000601124)
 
 
 
 #### § 13 Maßnahmen bei Belastung durch fibrogene Grubenstäube
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE001902124)
 
 Bei Belastung durch fibrogene Grubenstäube sind die Vorgaben der
 Gefahrstoffverordnung zu beachten. Zur Ermittlung von Art und Ausmaß
@@ -567,10 +587,12 @@ der Pläne nach den Sätzen 1 und 2 ist § 11 Absatz 1 Satz 2 und Absatz
 
 
 ## 4. Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNG000701124)
 
 
 
 ### § 14 Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002301124)
 
 Der Unternehmer hat allen in seinem Betrieb tätigen Personen die
 Vorschriften dieser Verordnung zur Kenntnis zu bringen, soweit sie
@@ -578,6 +600,7 @@ davon betroffen sind.
 
 
 ### § 15 Übertragung von Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002401124)
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser
 Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen
@@ -588,6 +611,7 @@ verantwortliche Person übertragen werden.
 
 
 ### § 16 Behördliche Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002501124)
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag des Unternehmers Ausnahmen von den Vorschriften der §§ 7 bis 13
@@ -616,6 +640,7 @@ zuständigen Behörde im Antrag darzulegen:
 
 
 ### § 17 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002603124)
 
 (1) Ordnungswidrig im Sinne des § 145 Absatz 3 Nummer 1 des
 Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -670,6 +695,7 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002702124)
 
 (1) Bescheinigungen über Eignungsuntersuchungen, die bis zum 23.
 Oktober 2017 auf Grund der bis zu diesem Tage geltenden Fassung der
@@ -693,12 +719,14 @@ Zulassung nicht vorher abläuft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE002901124)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 2 Absatz 1)
 
 ### Anlage 1 Einteilung der Eignungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003002124)
 
 (Fundstelle: BGBl. I 2017, 3589)
 
@@ -858,6 +886,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 3 Absatz 2)
 
 ### Anlage 2 Fristen für Nachuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003101124)
 
 (Fundstelle: BGBl. I 2017, 3590)
 
@@ -1002,6 +1031,7 @@ Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen
 (zu § 5 Absatz 3)
 
 ### Anlage 3 Untersuchungsrahmen für Eignungsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003201124)
 
 (Fundstelle: BGBl. I 2017, 3591)
 
@@ -1162,6 +1192,7 @@ Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen
 (zu § 5 Absatz 4)
 
 ### Anlage 4 Ärztliche Bescheinigung über Erst- und Nachuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003302124)
 
 (Fundstelle: BGBl. I 2017, 3592)
 
@@ -1251,10 +1282,12 @@ Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen
 
 
 ### Anlage 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003402124)
 
 (zu § 5)
 
 ### Anlage 6 Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003500307)
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1764)
 
@@ -1447,6 +1480,7 @@ Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen
 (zu § 7)
 
 ### Anlage 7 Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003600307)
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765
 
@@ -1500,6 +1534,7 @@ umzurechnen.
 (zu § 8)
 
 ### Anlage 8 Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003701377)
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1584,6 +1619,7 @@ Die Wiederholungsmessungen sind längstens durchzuführen:
 (zu § 9)
 
 ### Anlage 9 Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
+[Direktlink](https://www.gesetze-im-internet.de/gesbergv/BJNR017510991.html#BJNR017510991BJNE003800307)
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1766
 

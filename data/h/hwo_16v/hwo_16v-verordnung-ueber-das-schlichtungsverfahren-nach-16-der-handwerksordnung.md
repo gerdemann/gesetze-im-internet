@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000102360)
 
 (1) Haben sich die Handwerkskammer und die Industrie- und
 Handelskammer im Falle des § 16 Abs. 3 Satz 2 der Handwerksordnung
@@ -46,6 +47,7 @@ vorliegenden Akten einzureichen.
 
 
 ## § 2 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000200000)
 
 (1) Im Falle des § 16 Abs. 3 der Handwerksordnung hat die zuständige
 Behörde die Akten auf Anforderung des Vorsitzenden der
@@ -69,6 +71,7 @@ der Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 ## § 3 Verhandlung der Schlichtungskommission
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000300000)
 
 (1) Die Schlichtungskommission entscheidet in einer gemeinsamen
 Sitzung ohne mündliche Verhandlung.
@@ -108,6 +111,7 @@ vom Vorsitzenden und den Beisitzern zu unterzeichnen.
 
 
 ## § 4 Beschlüsse der Schlichtungskommission
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000400000)
 
 (1) Die Beschlüsse der Schlichtungskommission werden mit
 Stimmenmehrheit gefasst. Stimmenthaltung ist unzulässig.
@@ -117,6 +121,7 @@ Schweigepflicht nach § 43 des Deutschen Richtergesetzes entsprechend.
 
 
 ## § 5 Entscheidung der Schlichtungskommission
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000500000)
 
 (1) Die Schlichtungskommission hat innerhalb von zwei Monaten nach
 Eingang des Anrufungsbegehrens zu entscheiden. Die Frist nach Satz 1
@@ -141,6 +146,7 @@ Verhandlungsniederschrift beizufügen.
 
 
 ## § 6 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/hwo_16v/BJNR131410004.html#BJNR131410004BJNE000600000)
 
 (1) Sitz der Schlichtungskommission und ihrer Geschäftsstelle ist
 Berlin.

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gtnsitzabkg/BJNR136220012.html#BJNR136220012BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gtnsitzabkg/BJNR136220012.html#BJNR136220012BJNE000200116)
 
 Dem in Berlin am 29. Juni 2012 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Globalen Treuhandfonds für
@@ -34,6 +36,7 @@ Notenwechsels abgegebenen Erklärungen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gtnsitzabkg/BJNR136220012.html#BJNR136220012BJNE000300116)
 
 Eine Befreiung der in Artikel 18 des Abkommens genannten Personen von
 den Gesetzen der Bundesrepublik Deutschland über Pflichtbeiträge in
@@ -44,6 +47,7 @@ Berücksichtigungszeiten ausschließt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gtnsitzabkg/BJNR136220012.html#BJNR136220012BJNE000400116)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

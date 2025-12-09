@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001200306)
 
 Auf Grund von § 4 Abs. 1, § 13 Abs. 2 des Rennwett- und
 Lotteriegesetzes vom 8. April 1922 (Reichsgesetzbl. Teil I S. 393)
@@ -27,33 +28,40 @@ wird folgendes bestimmt:
 
 
 ## 1. - \*Ku Zulassung zum Abrechnungsverfahren \*KE
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001300306)
 
 -
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001400306)
 
 -
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001500306)
 
 -
 
 
 ## 2. - Steuervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000200306)
 
 
 
 ### a) - Ausstellung der Wettscheine
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000300306)
 
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001600306)
 
 Über jede abgeschlossene Wette haben die
 zum Abrechnungsverfahren zugelassenen Buchmacher und
@@ -65,10 +73,12 @@ Ausführungsbestimmungen Anwendung.
 
 
 ### b) - Feststellung der steuerpflichtigen Wettabschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000400306)
 
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001700306)
 
 Die Buchmacher haben auf den Durchschriften der Wettscheine die
 Wetteinsätze zusammenzurechnen, diese Summen auf die folgenden
@@ -77,32 +87,39 @@ dem Blocke beigehefteten Vordrucke (Muster B) einzutragen.
 
 
 ### c) - \*Ku Aufstellung der Nachweisung. Festsetzung der Steuer \*KE
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000500306)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001801306)
 
 -
 
 
 ### d) - \*Ku Steuererhebung \*KE
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000600306)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE001901306)
 
 -
 
 
 ## 3. - Herstellung der Vordrucke
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000700306)
 
 
 
 ### a) - Wettscheine
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000800306)
 
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002000306)
 
 (1) Die Wettscheinvordrucke werden in Blocks zu je 300 Stück mit
 entsprechender Zahl von Durchschriften von der
@@ -124,19 +141,23 @@ drei auf einer Seite hergestellt.
 
 
 ### b) - \*Ku Anschreibung des Wettscheinblocks \*KE
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG000900306)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002100306)
 
 -
 
 
 ## 4. - Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG001000306)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002200306)
 
 (1) ...
 
@@ -154,10 +175,12 @@ eingezogenen Wettscheinblocks hat der Buchmacher keinen Anspruch.
 
 
 ## 5. - Inkrafttreten. Anwendbarkeit der Ausführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNG001100306)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002300306)
 
 (1) Diese Verordnung tritt mit dem Tage ihrer Verkündung in Kraft.
 
@@ -166,11 +189,13 @@ Ausführungsbestimmungen zum Rennwett- und Lotteriegesetze.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002400306)
 
 Der Reichsminister der Finanzen
 
 
 ### Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/wettschverstv/BJNR700680923.html#BJNR700680923BJNE002500306)
 
 Muster A
 und Muster C **RMBl. 1923 S. 70/71\***

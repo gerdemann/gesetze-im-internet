@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE000700000)
 
 Auf Grund des § 78 Satz 1 des Vierten Buches Sozialgesetzbuch -
 Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des
@@ -41,10 +42,12 @@ Alterssicherung der Landwirte (Artikel 1 des Gesetzes vom 29. Juli
 
 
 ## Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE000802377)
 
 (1) Diese Verordnung gilt für die Träger der gesetzlichen Kranken-,
 Unfall- und Rentenversicherung einschließlich der Alterssicherung der
@@ -65,10 +68,12 @@ der §§ 2 bis 17, 19 und 20 zulassen.
 
 
 ## Zweiter Abschnitt - Zahlungsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000200000)
 
 
 
 ### § 2 Abwicklung des Zahlungsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE000900000)
 
 (1) Der Zahlungsverkehr ist ordnungsgemäß, sicher und wirtschaftlich
 durchzuführen.
@@ -95,6 +100,7 @@ mit der Buchführung befaßt ist.
 
 
 ### § 3 Kassenordnung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001000000)
 
 Der Vorstand des Versicherungsträgers hat zur Sicherheit des
 Zahlungsverkehrs und der Buchführung eine Kassenordnung aufzustellen.
@@ -108,6 +114,7 @@ bestimmten Stellen aufgestellt hat.
 
 
 ### § 4 Prüfungen der Kasse und der Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001100000)
 
 (1) Die Kasse und die Buchführung sind, soweit sie Barmittel und
 Girokonten betreffen, mehrmals im Jahr unvermutet zu prüfen. In die
@@ -129,10 +136,12 @@ Aufsichtsbehörde zu unterrichten.
 
 
 ## Dritter Abschnitt - Belege
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000300000)
 
 
 
 ### § 5 Belegpflicht
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001200000)
 
 Alle Buchungen müssen belegt sein; bei Eröffnungs- und
 Abschlußbuchungen kann von diesem Grundsatz abgewichen werden. Es ist
@@ -141,6 +150,7 @@ ausgeschlossen ist.
 
 
 ### § 6 Belege für Einzahlungen, Auszahlungen und Buchungen ohne Zahlungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001300000)
 
 (1) Belege für Einzahlungen und für Auszahlungen bestehen aus
 
@@ -171,6 +181,7 @@ erzeugte Dateien oder Datensätze sein.
 
 
 ### § 7 Zahlungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001405126)
 
 (1) Die Zahlungsanordnung kann erteilt werden als
 
@@ -204,6 +215,7 @@ regeln.
 
 
 ### § 8 Quittung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001500000)
 
 (1) Über jede Einzahlung, die durch Übergabe von Zahlungsmitteln
 geleistet wird, ist eine Quittung mit Durchschrift auszustellen. Auf
@@ -219,6 +231,7 @@ geleistet wird, ist eine Quittung zu verlangen.
 
 
 ### § 9 Feststellung der Belege
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001600000)
 
 (1) Belege bedürfen der sachlichen und rechnerischen Feststellung.
 
@@ -232,10 +245,12 @@ allgemeiner Verwaltungsvorschriften vorgenommen werden.
 
 
 ## Vierter Abschnitt - Buchführung und Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000400000)
 
 
 
 ### § 10 Grundsätze der Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001700000)
 
 (1) Die Grundsätze ordnungsmäßiger Buchführung sind zu beachten;
 Buchungen und Aufzeichnungen sind vollständig, richtig, zeitgerecht,
@@ -251,6 +266,7 @@ legenden Kontenrahmens nichts anderes vorschreiben.
 
 
 ### § 11 Aktivierung und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001805126)
 
 (1) Geldanlagen, Beteiligungen, Grundstücke, Gebäude, technische
 Anlagen sowie Gegenstände der beweglichen Einrichtung, die ohne
@@ -302,6 +318,7 @@ bringen.
 
 
 ### § 12 Rückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE001904126)
 
 (1) Für eine Verpflichtung aus einer Altersvorsorgezusage für
 Bedienstete ist eine Rückstellung zu bilden. Soweit sich aus anderen
@@ -339,6 +356,7 @@ gebildet werden.
 
 
 ### § 13 Führung der Bücher
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002000000)
 
 (1) Die gleichzeitige Eintragung in verschiedene Bücher ist zulässig,
 wenn die Bücher im Durchschreibeverfahren geführt oder andere
@@ -351,6 +369,7 @@ gemacht und ausgedruckt werden können.
 
 
 ### § 14 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002100000)
 
 (1) Die Bücher und die sonst erforderlichen Aufzeichnungen sind durch
 geeignete Maßnahmen gegen Verlust, Wegnahme und Veränderung während
@@ -368,6 +387,7 @@ gemacht und ausgedruckt werden können.
 
 
 ### § 15 Tages- und Monatsabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002200000)
 
 (1) Für jeden Tag, an dem Zahlungen angenommen oder geleistet worden
 sind, ist der buchmäßige Bestand der Barmittel und Girokonten mit dem
@@ -380,6 +400,7 @@ abzustimmen.
 
 
 ### § 16 Bestandsverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002403126)
 
 (1) Über Grundstücke, Gebäude sowie technische Anlagen nach § 11 Abs.
 5 und Gegenstände der beweglichen Einrichtung, die Eigentum des
@@ -397,6 +418,7 @@ werden.
 
 
 ### § 17 Einsatz der automatisierten Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002500000)
 
 Der hauptamtliche Vertreter des Versicherungsträgers hat bei Einsatz
 der automatisierten Datenverarbeitung zur Sicherheit des Verfahrens
@@ -405,6 +427,7 @@ Datenverarbeitung sind zu beachten.
 
 
 ### § 18 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002602308)
 
 (1) Für jedes Geschäftsjahr sind die Bücher abzuschließen.
 
@@ -420,10 +443,12 @@ Haushaltswesen in der Sozialversicherung beizufügen.
 
 
 ## Fünfter Abschnitt - Durchführung von Aufgaben durch Verbände und Dritte
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000501308)
 
 
 
 ### § 19 Durchführung von Aufgaben durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002702308)
 
 Soweit sich der Versicherungsträger bei der Erfüllung seiner
 gesetzlich vorgeschriebenen Aufgaben zulässigerweise eines Dritten
@@ -439,14 +464,17 @@ anzuzeigen.
 
 
 ### § 19a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE003201308)
 
 
 
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNG000600000)
 
 
 
 ### § 20 Ausnahmeregelungen zur Aktivierung und Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002802126)
 
 (1) Die gesonderte Aktivierung und Bewertung technischer Anlagen (§
 11) ist erstmals für solche Anlagen vorzunehmen, die nach dem 31.
@@ -463,6 +491,7 @@ Anschaffungskosten liegt.
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE002900000)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft; § 16
 Abs. 1 Satz 2 tritt am 1. Januar 2002 in Kraft.
@@ -471,6 +500,7 @@ Abs. 1 Satz 2 tritt am 1. Januar 2002 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/svrv_1999/BJNR162700999.html#BJNR162700999BJNE003000000)
 
 Der Bundesrat hat zugestimmt.
 

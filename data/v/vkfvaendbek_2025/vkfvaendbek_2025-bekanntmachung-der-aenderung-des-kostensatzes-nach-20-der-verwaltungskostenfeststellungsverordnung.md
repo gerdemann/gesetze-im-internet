@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2025/BJNR631300024.html#BJNR631300024BJNE000100000)
 
 Der Kostensatz nach § 20 Satz 1 der
 Verwaltungskostenfeststellungsverordnung beträgt ab dem 1. Januar 2025
@@ -25,6 +26,7 @@ monatlich 250,88 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2025/BJNR631300024.html#BJNR631300024BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

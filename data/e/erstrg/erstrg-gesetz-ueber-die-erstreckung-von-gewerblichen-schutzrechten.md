@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Erstreckung
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000100314)
 
 
 
 ### Abschnitt 1 - Erstreckung auf das in Artikel 3 des Einigungsvertrages genannte Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000200314)
 
 
 
 #### § 1 Erstreckung von gewerblichen Schutzrechten und Schutzrechtsanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE001601377)
 
 (1) Die am 1. Mai 1992 in der Bundesrepublik Deutschland mit Ausnahme
 des in Artikel 3 des Einigungsvertrages genannten Gebiets bestehenden
@@ -44,6 +47,7 @@ und eingetragenen oder erteilten Schutzrechte.
 
 
 #### § 2 Löschung von eingetragenen Warenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE001700314)
 
 (1) Die Löschung eines nach § 1 erstreckten Warenzeichens, das auf
 Grund einer in der Zeit vom 1. Juli bis zum Ablauf des 2. Oktober 1990
@@ -64,6 +68,7 @@ Handelsmarken entsprechend anzuwenden.
 
 
 #### § 3 Widerspruch gegen angemeldete Warenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE001800314)
 
 (1) Gegen die Eintragung eines in der Zeit vom 1. Juli bis zum Ablauf
 des 2. Oktober 1990 beim Deutschen Patentamt angemeldeten Zeichens,
@@ -92,14 +97,17 @@ erhoben werden, entsprechend anzuwenden.
 
 
 ### Abschnitt 2 - Erstreckung der in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestehenden gewerblichen Schutzrechte auf das übrige Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000300314)
 
 
 
 #### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000400314)
 
 
 
 ##### § 4 Erstreckung von gewerblichen Schutzrechten und Schutzrechtsanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE001901377)
 
 (1) Die am 1. Mai 1992 in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet bestehenden gewerblichen Schutzrechte
@@ -118,6 +126,7 @@ gelten die §§ 33 bis 38.
 
 
 ##### § 5 Anzuwendendes Recht
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002000314)
 
 Unbeschadet der nachfolgenden Bestimmungen sind auf die nach § 4
 erstreckten gewerblichen Schutzrechte und Schutzrechtsanmeldungen die
@@ -130,10 +139,12 @@ Einigungsvertrag übergeleiteten Vorschriften des Bundesrechts.
 
 
 #### Unterabschnitt 2 - Besondere Vorschriften für Patente
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000500314)
 
 
 
 ##### § 6 Wirkung erteilter Patente
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002100314)
 
 Die Erteilung eines Patents nach den Rechtsvorschriften der Deutschen
 Demokratischen Republik steht der Veröffentlichung der Erteilung des
@@ -141,6 +152,7 @@ Patents nach § 58 Abs. 1 des Patentgesetzes gleich.
 
 
 ##### § 6a Patentdauer
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE007000307)
 
 Die Dauer der nach § 4 erstreckten Patente, die am 31. Dezember 1995
 noch nicht abgelaufen sind, beträgt 20 Jahre, die mit dem auf die
@@ -148,6 +160,7 @@ Anmeldung folgenden Tag beginnen.
 
 
 ##### § 7 Wirtschaftspatente
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002201377)
 
 (1) Nach § 4 erstreckte Wirtschaftspatente gelten als Patente, für die
 eine Lizenzbereitschaftserklärung nach § 23 Abs. 1 Satz 1 des
@@ -179,6 +192,7 @@ Weise berechtigt.
 
 
 ##### § 8 Nicht in deutscher Sprache vorliegende Patente
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002301377)
 
 (1) Ist ein nach § 4 erstrecktes Patent nicht in deutscher Sprache
 veröffentlicht worden, so kann der Patentinhaber die Rechte aus dem
@@ -207,6 +221,7 @@ würde.
 
 
 ##### § 9 Benutzungsrechte an Ausschließungspatenten
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002400314)
 
 Das in Artikel 3 Abs. 4 Satz 1 des Gesetzes zur Änderung des
 Patentgesetzes und des Gesetzes über Warenkennzeichen der Deutschen
@@ -218,6 +233,7 @@ Patentinhaber hat Anspruch auf eine angemessene Vergütung.
 
 
 ##### § 10 Patentanmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002502123)
 
 (1) Ist für eine nach § 4 erstreckte Patentanmeldung eine der
 Offensichtlichkeitsprüfung nach § 42 des Patentgesetzes entsprechende
@@ -244,6 +260,7 @@ und 2 des Patentgesetzes stellt.
 
 
 ##### § 11 Recherche
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002601377)
 
 Auf Antrag des Patentinhabers oder eines Dritten ermittelt das
 Deutsche Patentamt zu einem nach § 4 erstreckten Patent die
@@ -254,6 +271,7 @@ anzuwenden.
 
 
 ##### § 12 Prüfung erteilter Patente
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002701377)
 
 (1) Ein nach § 4 erstrecktes Patent, das nicht auf das Vorliegen aller
 Schutzvoraussetzungen geprüft ist, wird auf Antrag von der
@@ -282,6 +300,7 @@ Absätzen 1 und 2 entsprechend anzuwenden.
 
 
 ##### § 13 Einspruchsverfahren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002800314)
 
 Ist vom Deutschen Patentamt ein nach § 4 erstrecktes Patent nach § 18
 Abs. 1 oder 2 des Patentgesetzes der Deutschen Demokratischen Republik
@@ -291,6 +310,7 @@ bis 62 des Patentgesetzes sind anzuwenden.
 
 
 ##### § 14 Überleitung von Berichtigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE002900314)
 
 Berichtigungsverfahren nach § 19 des Patentgesetzes der Deutschen
 Demokratischen Republik, die am 1. Mai 1992 beim Deutschen Patentamt
@@ -299,6 +319,7 @@ Beschränkungsverfahren nach § 64 des Patentgesetzes weitergeführt.
 
 
 ##### § 15 Abzweigung
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003000314)
 
 (1) Die Erklärung nach § 5 Abs. 1 Satz 1 des Gebrauchsmustergesetzes
 kann auch in bezug auf nach § 4 erstreckte Patente oder
@@ -320,18 +341,22 @@ Absatz 1 abgezweigten Gebrauchsmuster.
 
 
 #### Unterabschnitt 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000601377)
 
 
 
 ##### (XXXX) §§ 16 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003102377)
 
 
 
 #### Unterabschnitt 4 - Besondere Vorschriften für Marken
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000700314)
 
 
 
 ##### § 20 Löschung eingetragener Marken nach § 10 Abs. 2 des Warenzeichengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003500314)
 
 (1) Die Löschung einer nach § 4 erstreckten Marke erfolgt von Amts
 wegen oder auf Antrag nach § 10 Abs. 2 Nr. 2 des Warenzeichengesetzes
@@ -346,6 +371,7 @@ Handelsmarken entsprechend anzuwenden.
 
 
 ##### § 21 Löschung eingetragener Marken nach § 11 des Warenzeichengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003600314)
 
 (1) Die Löschung einer nach § 4 erstreckten Marke, die auf Grund einer
 in der Zeit vom 1. Juli bis zum Ablauf des 2. Oktober 1990
@@ -364,6 +390,7 @@ Handelsmarken entsprechend anzuwenden.
 
 
 ##### § 22 Prüfung angemeldeter Marken
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003700314)
 
 (1) Auf nach § 4 erstreckte Markenanmeldungen sind die Vorschriften
 des Warenzeichengesetzes anzuwenden, soweit nachfolgend nichts anderes
@@ -379,6 +406,7 @@ Registrierung von Marken entsprechend anzuwenden.
 
 
 ##### § 23 Bekanntmachung angemeldeter Marken, Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003800314)
 
 (1) Nach § 4 erstreckte Markenanmeldungen werden, auch soweit eine
 Prüfung nach den bisher anzuwendenden Rechtsvorschriften bereits
@@ -417,12 +445,14 @@ erhoben werden, entsprechend anzuwenden.
 
 
 ##### § 24 Schutzdauer
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE003900314)
 
 Auf die Berechnung der Dauer des Schutzes von nach § 4 erstreckten
 Marken ist § 9 Abs. 1 des Warenzeichengesetzes anzuwenden.
 
 
 ##### § 25 Übertragung einer Marke, Warenzeichenverbände
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004000314)
 
 (1) Eine vor dem 1. Mai 1992 vorgenommene Übertragung der sich aus
 einer Marke oder Markenanmeldung, die nach § 4 erstreckt worden ist,
@@ -448,14 +478,17 @@ insoweit nicht anzuwenden.
 
 
 ### Abschnitt 3 - Übereinstimmende Rechte, Vorbenutzungs- und Weiterbenutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000800314)
 
 
 
 #### Unterabschnitt 1 - Erfindungen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG000901377)
 
 
 
 ##### § 26 Zusammentreffen von Rechten
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004101377)
 
 (1) Soweit Patente, Patentanmeldungen oder Gebrauchsmuster, die nach
 diesem Gesetz auf das in Artikel 3 des Einigungsvertrages genannte
@@ -483,6 +516,7 @@ berechtigten Interessen der Beteiligten unbillig wäre.
 
 
 ##### § 27 Vorbenutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004200314)
 
 (1) Ist die Wirkung eines nach § 1 oder § 4 erstreckten Patents oder
 Gebrauchsmusters durch ein Vorbenutzungsrecht eingeschränkt (§ 12 des
@@ -497,6 +531,7 @@ dem das Schutzrecht bisher nicht galt.
 
 
 ##### § 28 Weiterbenutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004301377)
 
 (1) Die Wirkung eines nach § 1 oder § 4 erstreckten Patents oder
 Gebrauchsmusters tritt gegen denjenigen nicht ein, der die Erfindung
@@ -522,6 +557,7 @@ Falles für den Benutzer eine unbillige Härte darstellen würde.
 
 
 ##### § 29 Zusammentreffen mit Benutzungsrechten nach § 23 des Patentgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004400314)
 
 Soweit Patente oder Patentanmeldungen, für die eine
 Lizenzbereitschaftserklärung nach § 23 des Patentgesetzes abgegeben
@@ -537,10 +573,12 @@ bleibt unberührt.
 
 
 #### Unterabschnitt 2 - Warenzeichen, Marken und sonstige Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG001000314)
 
 
 
 ##### § 30 Warenzeichen und Marken
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004500314)
 
 (1) Trifft ein Warenzeichen, das nach § 1 auf das in Artikel 3 des
 Einigungsvertrages genannte Gebiet erstreckt wird, infolge der
@@ -587,6 +625,7 @@ benutzt worden ist.
 
 
 ##### § 31 Sonstige Kennzeichenrechte
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004600314)
 
 Treffen Warenzeichen oder Marken, die nach diesem Gesetz auf das in
 Artikel 3 des Einigungsvertrages genannte Gebiet oder auf das übrige
@@ -597,6 +636,7 @@ zusammen, so ist § 30 entsprechend anzuwenden.
 
 
 ##### § 32 Weiterbenutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004700314)
 
 Die Wirkung einer nach § 4 auf das übrige Bundesgebiet erstreckten
 eingetragenen Marke oder Markenanmeldung, die nach § 1 oder § 4 Abs. 1
@@ -614,10 +654,12 @@ wäre.
 
 
 ## Teil 2 - Umwandlung von Herkunftsangaben in Verbandszeichen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG001100314)
 
 
 
 ### § 33 Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004800314)
 
 (1) Die in das Register für Herkunftsangaben eingetragenen
 Herkunftsangaben und die zur Eintragung in dieses Register
@@ -631,6 +673,7 @@ Einigungsvertrages genannten Gebiet.
 
 
 ### § 34 Antrag auf Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE004900314)
 
 (1) Der Antrag auf Umwandlung kann nur von den in § 17 des
 Warenzeichengesetzes aufgeführten rechtsfähigen Verbänden oder
@@ -652,6 +695,7 @@ den allgemeinen Vorschriften geltend zu machen.
 
 
 ### § 35 Anwendung des Warenzeichengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE005000314)
 
 Der Antrag auf Umwandlung wird, soweit nachfolgend nichts anders
 bestimmt ist, als Anmeldung eines Verbandszeichens nach den §§ 17 bis
@@ -659,6 +703,7 @@ bestimmt ist, als Anmeldung eines Verbandszeichens nach den §§ 17 bis
 
 
 ### § 36 Zusammentreffen von umgewandelten Herkunftsangaben und Warenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE005100314)
 
 Die §§ 2 und 3, 20 bis 24 und 30 bis 32 sind auf Anträge auf
 Umwandlung von Herkunftsangaben in Verbandszeichen und als
@@ -667,6 +712,7 @@ entsprechend anzuwenden.
 
 
 ### § 37 Schutzfähigkeit umgewandelter Herkunftsangaben
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE005200314)
 
 Liegen die Voraussetzungen für die Eintragung eines Verbandszeichens
 im übrigen vor, so kann die Umwandlung einer eingetragenen oder
@@ -680,6 +726,7 @@ aufgefaßt wird.
 
 
 ### § 38 Weiterbenutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE005300314)
 
 (1) Trifft eine in ein Verbandszeichen umgewandelte Herkunftsangabe im
 übrigen Bundesgebiet auf eine übereinstimmende Bezeichnung, die dort
@@ -705,26 +752,32 @@ Weiterbenutzung nach Satz 1 zehn Jahre beträgt.
 
 
 ## Teil 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG001201307)
 
 
 
 ### (XXXX) §§ 39 bis 46 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE005401307)
 
 
 
 ## Teil 4 - Änderung von Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG001300314)
 
 
 
 ### (XXXX) §§ 47 und 48
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006200314)
 
 
 
 ## Teil 5 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNG001400314)
 
 
 
 ### § 49 Arbeitnehmererfindungen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006300314)
 
 Auf Erfindungen, die vor dem 3. Oktober 1990 in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet gemacht worden sind, sind die
@@ -740,6 +793,7 @@ S. 885, 962).
 
 
 ### § 50 Überleitung von Schlichtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006400314)
 
 Verfahren, die am 1. Mai 1992 bei der Schlichtungsstelle für
 Vergütungsstreitigkeiten des Deutschen Patentamts noch anhängig sind,
@@ -749,6 +803,7 @@ Schiedsstelle über.
 
 
 ### § 51 Überleitung von Beschwerde- und Nichtigkeitsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006500314)
 
 (1) Verfahren, die am 1. Mai 1992 bei einer Beschwerdespruchstelle
 oder einer Spruchstelle für Nichtigerklärung des Deutschen Patentamts
@@ -762,6 +817,7 @@ fortgeführt.
 
 
 ### § 52 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006600314)
 
 Ist Gegenstand des Verfahrens ein nach § 4 erstrecktes Schutzrecht
 oder eine nach § 4 erstreckte Schutzrechtsanmeldung, so richtet sich
@@ -770,6 +826,7 @@ begonnen hat, nach den bisher anzuwendenden Rechtsvorschriften.
 
 
 ### § 53 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006700314)
 
 (1) Gebühren für nach § 4 erstreckte Schutzrechte und
 Schutzrechtsanmeldungen, die vor dem 1. Mai 1992 fällig geworden sind,
@@ -781,6 +838,7 @@ worden, so gilt die Gebührenschuld als getilgt.
 
 
 ### § 54 Anwendung des Gesetzes gegen den unlauteren Wettbewerb und sonstiger Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006800314)
 
 Die Anwendung des Gesetzes gegen den unlauteren Wettbewerb und der
 allgemeinen Vorschriften über den Erwerb oder die Ausübung von
@@ -789,6 +847,7 @@ Bestimmungen dieses Gesetzes nicht berührt.
 
 
 ### § 55 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erstrg/BJNR009380992.html#BJNR009380992BJNE006900314)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.

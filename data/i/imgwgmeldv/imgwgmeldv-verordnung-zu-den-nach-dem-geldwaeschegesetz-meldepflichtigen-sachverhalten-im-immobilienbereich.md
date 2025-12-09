@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000100000)
 
 Auf Grund des § 43 Absatz 6 des Geldwäschegesetzes, der durch Artikel
 1 Nummer 33 Buchstabe d des Gesetzes vom 12. Dezember 2019 (BGBl. I S.
@@ -30,6 +31,7 @@ Verbraucherschutz:
 
 
 ## § 1 Regelungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000200000)
 
 Diese Verordnung bestimmt in den §§ 3 bis 6 Sachverhalte bei
 Erwerbsvorgängen nach § 1 des Grunderwerbsteuergesetzes, die von
@@ -41,6 +43,7 @@ Meldepflicht begründen können.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000300000)
 
 Im Sinne dieser Rechtsverordnung sind
 
@@ -72,6 +75,7 @@ Im Sinne dieser Rechtsverordnung sind
 
 
 ## § 3 Meldepflichten wegen eines Bezugs zu Risikostaaten oder Sanktionslisten
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000400000)
 
 (1) Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang
 Beteiligter oder ein wirtschaftlich Berechtigter ansässig ist in oder
@@ -138,6 +142,7 @@ ihre Internetseite zur Verfügung.
 [^F812944_01_BJNR196500020BJNE000400000]: 
 
 ## § 4 Meldepflichten wegen Auffälligkeiten im Zusammenhang mit den beteiligten Personen oder dem wirtschaftlich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000501128)
 
 (1) Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang
 Beteiligter seine Mitwirkungspflicht nach § 11 Absatz 6 Satz 1 des
@@ -214,6 +219,7 @@ Abgabenordnung aufweist, und der Verpflichtete als Intermediär nach §
 
 
 ## § 5 Meldepflichten wegen Auffälligkeiten im Zusammenhang mit Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000601128)
 
 Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang
 Beteiligter
@@ -239,6 +245,7 @@ Beteiligter
 
 
 ## § 6 Meldepflichten wegen Auffälligkeiten im Zusammenhang mit dem Preis oder einer Kauf- oder Zahlungsmodalität
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000701128)
 
 (1) Der Verpflichtete hat zu melden, wenn die Gegenleistung
 
@@ -415,6 +422,7 @@ erfüllt hat.
 
 
 ## § 7 Ausnahme von der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000801128)
 
 Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten
 Sachverhalten vorhandenen Anzeichen entkräften, dass ein
@@ -428,6 +436,7 @@ der aufsichtlichen Prüfung aufzubewahren.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html#BJNR196500020BJNE000900000)
 
 Diese Verordnung tritt am 1. Oktober 2020 in Kraft.
 

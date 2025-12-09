@@ -17,12 +17,14 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000100000)
 
 Dieses Gesetz gilt für Maschinen, dazugehörige Produkte und
 unvollständige Maschinen nach Artikel 2 der Verordnung (EU) 2023/1230.
 
 
 ## § 2 Sprache der Anleitungen, der Informationen, der EU-Konformitätserklärung und der EU-Einbauerklärung
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000200000)
 
 (1) Für Maschinen und dazugehörige Produkte sind folgende Unterlagen
 nach der Verordnung (EU) 2023/1230 in der Fassung vom 9. Oktober 2024
@@ -68,6 +70,7 @@ werden kann, ebenfalls in deutscher Sprache abzufassen.
 
 
 ## § 3 Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000300000)
 
 Die Notifizierung von Konformitätsbewertungsstellen nach Kapitel V der
 Verordnung (EU) 2023/1230 ist von der Befugnis erteilenden Behörde
@@ -80,6 +83,7 @@ anwendbar.
 
 
 ## § 4 Stichproben bei der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000400000)
 
 (1) Die Marktüberwachungsbehörden haben anhand angemessener
 Stichproben auf geeignete Art und Weise und in angemessenem Umfang zu
@@ -92,6 +96,7 @@ nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
 
 
 ## § 5 Unterrichtung bei Nichtkonformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000500000)
 
 Die Unterrichtung bei Nichtkonformität nach Artikel 43 Absatz 2 und 4
 Satz 2 der Verordnung (EU) 2023/1230 hinsichtlich einer Maschine,
@@ -101,6 +106,7 @@ Arbeitsschutz und Arbeitsmedizin vorzunehmen.
 
 
 ## § 6 Maßnahmen bei Nichtkonformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000600000)
 
 (1) Erhält die Marktüberwachungsbehörde nach Artikel 43 Absatz 4 Satz
 2 der Verordnung (EU) 2023/1230 Informationen darüber, dass in einem
@@ -140,6 +146,7 @@ Maßnahmen zu unterrichten.
 
 
 ## § 7 Unterrichtung bei Risiken trotz Konformität einer Maschine, eines dazugehörigen Produktes oder einer unvollständigen Maschine
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000700000)
 
 Die Unterrichtung bei Risiken trotz Konformität nach Artikel 45 Absatz
 3 der Verordnung (EU) 2023/1230 hinsichtlich einer Maschine, eines
@@ -149,6 +156,7 @@ Arbeitsschutz und Arbeitsmedizin vorzunehmen.
 
 
 ## § 8 Notfallverfahren
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000800000)
 
 (1) Sofern die Marktüberwachungsbehörde das Inverkehrbringen oder die
 Inbetriebnahme von bestimmten Maschinen oder dazugehörigen Produkten
@@ -180,6 +188,7 @@ eine Genehmigung nach Artikel 25c Absatz 1, 2 und 4 der Verordnung
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2023/1230 in
 der Fassung vom 9. Oktober 2024 verstößt, indem er vorsätzlich oder
@@ -345,6 +354,7 @@ werden.
 
 
 ## § 10 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE001000000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 9 Absatz 1 Nummer 7, 16 oder 17 bezeichnete
@@ -354,6 +364,7 @@ Sachen von bedeutendem Wert gefährdet.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE001100000)
 
 Maschinen, die die Anforderungen der Maschinenverordnung vom 12. Mai
 1993 (BGBl. I S. 704), die zuletzt durch Artikel 23 des Gesetzes vom
@@ -363,6 +374,7 @@ bereitgestellt werden.
 
 
 ## § 12 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/maschinendg/BJNR12E0B0025.html#BJNR12E0B0025BJNE001200000)
 
 Die §§ 1, 2 und 4 sowie 8 bis 11 sind ab dem 20. Januar 2027
 anzuwenden.

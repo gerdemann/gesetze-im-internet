@@ -32,6 +32,7 @@ S. 17).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000100305)
 
 Auf Grund
 
@@ -52,6 +53,7 @@ Verkehr, Bau- und Wohnungswesen:
 
 
 ## § 1 Persönliche Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000302123)
 
 (1) Der Unternehmer und die zur Führung der Geschäfte bestellten
 Personen gelten als zuverlässig im Sinne des § 13 Abs. 1 Nr. 2 des
@@ -186,6 +188,7 @@ anfordern.
 
 
 ## § 2 Finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000403119)
 
 (1) Die finanzielle Leistungsfähigkeit im Sinne des § 13 Abs. 1 Nr. 1
 des Personenbeförderungsgesetzes ist als gewährleistet anzusehen, wenn
@@ -282,6 +285,7 @@ erfüllt.
 
 
 ## § 3 Fachliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000501305)
 
 (1) Beim Verkehr mit Kraftomnibussen ist fachlich geeignet im Sinne
 des Artikels 3 Absatz 1 Buchstabe d der Verordnung (EG) Nr. 1071/2009,
@@ -298,6 +302,7 @@ Kenntnisse aus Anlage 3.
 
 
 ## § 4 Fachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000602305)
 
 (1) Die fachliche Eignung im Sinne des § 3 wird durch eine Prüfung
 nachgewiesen, die sich aus zwei schriftlichen und gegebenenfalls einem
@@ -361,6 +366,7 @@ versehen.
 
 
 ## § 5 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000701305)
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer
 abgelegt, die einen Prüfungsausschuss errichtet.
@@ -394,6 +400,7 @@ Bewerber andernfalls wirtschaftliche Nachteile entstehen.
 
 
 ## § 6 Gleichwertige Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000803305)
 
 (1) Die nach Landesrecht zuständige Behörde kann nach Anhörung der
 übrigen nach Landesrecht zuständigen Behörden und des Deutschen
@@ -422,6 +429,7 @@ Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus. §
 
 
 ## § 7 Anerkennung leitender Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE000901305)
 
 (1) Die fachliche Eignung kann auch durch eine mindestens fünfjährige
 leitende Tätigkeit in einem inländischen Unternehmen nachgewiesen
@@ -464,10 +472,12 @@ entsprechend.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001001305)
 
 
 
 ## § 9 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001101305)
 
 (1) Die zuständigen Behörden vergewissern sich regelmäßig und
 mindestens alle fünf Jahre, dass das Unternehmen die
@@ -505,6 +515,7 @@ Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
 
 ## § 10 Anerkennung von ausländischen Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001203119)
 
 (1) Berufsqualifikationen, die in anderen Mitgliedstaaten der
 Europäischen Union oder des Europäischen Wirtschaftsraumes erworben
@@ -537,6 +548,7 @@ begründen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001300305)
 
 (1) Die §§ 3 bis 8 treten am 1. Januar 2001 in Kraft. Im Übrigen tritt
 diese Verordnung am 1. Juli 2000 in Kraft.
@@ -545,11 +557,13 @@ diese Verordnung am 1. Juli 2000 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001400305)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1 (zu § 2 Abs. 2 Nr. 2)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001501119)
 
 (Fundstelle: BGBl. I 2000, 855;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -591,6 +605,7 @@ oder eines Kreditinstituts)
 
 
 ## Anlage 2 (zu § 2 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001601119)
 
 (Fundstelle: BGBl. I 2000, 856 - 858;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -698,6 +713,7 @@ oder eines Kreditinstituts)
 
 
 ## Anlage 3 (zu § 3 und § 7)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001700305)
 
 
 *
@@ -854,10 +870,12 @@ oder eines Kreditinstituts)
 
 
 ## Anlage 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001801305)
 
 
 
 ## Anlage 5 (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE001900305)
 
 (Fundstelle: BGBl. I 2000, 861)
 **Bundesrepublik Deutschland**
@@ -895,5 +913,6 @@ zuständigen IHK)
 
 
 ## Anlage 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pbzugv/BJNR085100000.html#BJNR085100000BJNE002001305)
 
 

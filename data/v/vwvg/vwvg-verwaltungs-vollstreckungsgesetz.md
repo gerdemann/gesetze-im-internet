@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckung wegen Geldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNG000100319)
 
 
 
 ### § 1 Vollstreckbare Geldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE000501116)
 
 (1) Die öffentlich-rechtlichen Geldforderungen des Bundes und der
 bundesunmittelbaren juristischen Personen des öffentlichen Rechts
@@ -41,6 +43,7 @@ Justizbeitreibungsgesetzes bleiben unberührt.
 
 
 ### § 2 Vollstreckungsschuldner
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE000600319)
 
 (1) Als Vollstreckungsschuldner kann in Anspruch genommen werden,
 
@@ -58,6 +61,7 @@ reicht.
 
 
 ### § 3 Vollstreckungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE000700319)
 
 (1) Die Vollstreckung wird gegen den Vollstreckungsschuldner durch
 Vollstreckungsanordnung eingeleitet; eines vollstreckbaren Titels
@@ -87,6 +91,7 @@ Anspruch geltend machen darf.
 
 
 ### § 4 Vollstreckungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE000801116)
 
 Vollstreckungsbehörden sind:
 
@@ -103,6 +108,7 @@ b)  die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine
 
 
 ### § 5 Anzuwendende Vollstreckungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE000900319)
 
 (1) Das Verwaltungszwangsverfahren und der Vollstreckungsschutz
 richten sich im Falle des § 4 nach den Vorschriften der Abgabenordnung
@@ -115,6 +121,7 @@ durchzuführen.
 
 
 ### § 5a Ermittlung des Aufenthaltsorts des Vollstreckungsschuldners
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002802116)
 
 (1) Ist der Wohnsitz oder der gewöhnliche Aufenthaltsort des
 Vollstreckungsschuldners nicht durch Anfrage bei der Meldebehörde zu
@@ -178,6 +185,7 @@ berufsständischen Versorgungseinrichtung ist.
 
 
 ### § 5b Auskunftsrechte der Vollstreckungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002901125)
 
 (1) Die Vollstreckungsbehörde darf vorbehaltlich der Sätze 2 und 3
 folgende Maßnahmen durchführen:
@@ -244,10 +252,12 @@ auch bei der weiteren Vollstreckungsbehörde vorliegen.
 
 
 ## Zweiter Abschnitt - Erzwingung von Handlungen, Duldungen oder Unterlassungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNG000200319)
 
 
 
 ### § 6 Zulässigkeit des Verwaltungszwanges
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001000319)
 
 (1) Der Verwaltungsakt, der auf die Herausgabe einer Sache oder auf
 die Vornahme einer Handlung oder auf Duldung oder Unterlassung
@@ -265,6 +275,7 @@ handelt.
 
 
 ### § 7 Vollzugsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001100319)
 
 (1) Ein Verwaltungsakt wird von der Behörde vollzogen, die ihn
 erlassen hat; sie vollzieht auch Beschwerdeentscheidungen.
@@ -274,6 +285,7 @@ oder allgemein mit dem Vollzug beauftragt werden.
 
 
 ### § 8 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001200319)
 
 Muß eine Zwangsmaßnahme außerhalb des Bezirks der Vollzugsbehörde
 ausgeführt werden, so hat die entsprechende Bundesbehörde des Bezirks,
@@ -282,6 +294,7 @@ den Verwaltungszwang durchzuführen.
 
 
 ### § 9 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001300319)
 
 (1) Zwangsmittel sind:
 
@@ -303,6 +316,7 @@ werden.
 
 
 ### § 10 Ersatzvornahme
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001400319)
 
 Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme
 durch einen anderen möglich ist (vertretbare Handlung), nicht erfüllt,
@@ -311,6 +325,7 @@ Handlung auf Kosten des Pflichtigen beauftragen.
 
 
 ### § 11 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001501116)
 
 (1) Kann eine Handlung durch einen anderen nicht vorgenommen werden
 und hängt sie nur vom Willen des Pflichtigen ab, so kann der
@@ -328,6 +343,7 @@ unterlassen.
 
 
 ### § 12 Unmittelbarer Zwang
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001600319)
 
 Führt die Ersatzvornahme oder das Zwangsgeld nicht zum Ziel oder sind
 sie untunlich, so kann die Vollzugsbehörde den Pflichtigen zur
@@ -336,6 +352,7 @@ vornehmen.
 
 
 ### § 13 Androhung der Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001700319)
 
 (1) Die Zwangsmittel müssen, wenn sie nicht sofort angewendet werden
 können (§ 6 Abs. 2), schriftlich angedroht werden. Hierbei ist für die
@@ -371,6 +388,7 @@ Zustellung vorgeschrieben ist.
 
 
 ### § 14 Festsetzung der Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001800319)
 
 Wird die Verpflichtung innerhalb der Frist, die in der Androhung
 bestimmt ist, nicht erfüllt, so setzt die Vollzugsbehörde das
@@ -379,6 +397,7 @@ Festsetzung weg.
 
 
 ### § 15 Anwendung der Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE001900319)
 
 (1) Das Zwangsmittel wird der Festsetzung gemäß angewendet.
 
@@ -391,6 +410,7 @@ leisten.
 
 
 ### § 16 Ersatzzwangshaft
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002002310)
 
 (1) Ist das Zwangsgeld uneinbringlich, so kann das Verwaltungsgericht
 auf Antrag der Vollzugsbehörde nach Anhörung des Pflichtigen durch
@@ -408,12 +428,14 @@ Justizverwaltung nach den Bestimmungen der §§ 802g, 802h und 802j Abs.
 
 
 ### § 17 Vollzug gegen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002100319)
 
 Gegen Behörden und juristische Personen des öffentlichen Rechts sind
 Zwangsmittel unzulässig, soweit nicht etwas anderes bestimmt ist.
 
 
 ### § 18 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002200319)
 
 (1) Gegen die Androhung eines Zwangsmittels sind die Rechtsmittel
 gegeben, die gegen den Verwaltungsakt zulässig sind, dessen
@@ -432,10 +454,12 @@ die gegen Verwaltungsakte allgemein gegeben sind.
 
 
 ## Dritter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNG000300319)
 
 
 
 ### § 19 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002302116)
 
 (1) Für Amtshandlungen nach diesem Gesetz werden Kosten (Gebühren und
 Auslagen) gemäß § 337 Abs. 1, §§ 338 bis 346 der Abgabenordnung
@@ -453,6 +477,7 @@ Gebühren und Auslagen nach dem Bundesgebührengesetz erhoben.
 
 
 ### § 19a Vollstreckungspauschale, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002700116)
 
 (1) Bundesunmittelbare Körperschaften und Anstalten des öffentlichen
 Rechts, die den Vollstreckungsbehörden der Bundesfinanzverwaltung nach
@@ -492,10 +517,12 @@ Vollstreckungsschuldner mit der Vollstreckungspauschale zu belasten.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNG000400319)
 
 
 
 ### § 20 Außerkrafttreten früherer Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002400319)
 
 Soweit die Vollstreckung in Bundesgesetzen abweichend von diesem
 Gesetz geregelt ist, sind für Bundesbehörden und bundesunmittelbare
@@ -504,10 +531,12 @@ Gesetzes anzuwenden; § 1 Abs. 3 bleibt unberührt.
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002501116)
 
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vwvg/BJNR001570953.html#BJNR001570953BJNE002600319)
 
 Dieses Gesetz tritt am 1. Mai 1953 in Kraft.
 

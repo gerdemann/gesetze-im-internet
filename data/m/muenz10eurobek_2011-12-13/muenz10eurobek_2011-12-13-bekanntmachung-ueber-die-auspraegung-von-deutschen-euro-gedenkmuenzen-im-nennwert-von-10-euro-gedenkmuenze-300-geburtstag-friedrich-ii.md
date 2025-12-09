@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-12-13/BJNR279700011.html#BJNR279700011BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2404) hat die Bundesregierung beschlossen, zum Thema „300.
@@ -57,11 +58,13 @@ Der Entwurf der Münze stammt von dem Künstler Erich Ott aus München.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-12-13/BJNR279700011.html#BJNR279700011BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2011-12-13/BJNR279700011.html#BJNR279700011BJNE000300000)
 
 
 *    *        ![bgbl1_2011_j2797-1_0010.jpg](bgbl1_2011_j2797-1_0010.jpg)

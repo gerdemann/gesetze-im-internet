@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000100320)
 
 Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und
 Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842)
@@ -31,6 +32,7 @@ Kreditanstalt für Wiederaufbau:
 
 
 ## § 1 Jahresbeitrag
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000205118)
 
 (1) Institute, die der Entschädigungseinrichtung nach § 6 Absatz 1
 Satz 1 des Anlegerentschädigungsgesetzes bei der Kreditanstalt für
@@ -77,6 +79,7 @@ Entschädigungseinrichtung bestimmt einen späteren Fälligkeitstermin.
 
 
 ## § 2 Berechnung des Jahresbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000309128)
 
 (1) Der Jahresbeitrag berechnet sich aus den beitragsrelevanten
 Erträgen nach Absatz 2, multipliziert mit dem jeweiligen Beitragssatz
@@ -251,6 +254,7 @@ Maßgeblich ist der höchste zu erhebende Zuschlag.
 
 
 ## § 2a Höhe des Beitragssatzes
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001007128)
 
 (1) Der Beitragssatz beträgt
 
@@ -385,6 +389,7 @@ höheren Jahresbeitrag begründen.
 
 
 ## § 2b Abweichende Zuordnung zu Beitragsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001104128)
 
 Auf Antrag kann die Entschädigungseinrichtung in folgenden Fällen eine
 abweichende Zuordnung zu den Beitragsgruppen nach § 2a Absatz 1
@@ -421,6 +426,7 @@ Jahresbeitrags. Die in Satz 2 genannte Frist ist eine Ausschlussfrist.
 
 
 ## § 2c Erhöhung des Jahresbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001204118)
 
 (1) Der Jahresbeitrag erhöht sich um einen Zuschlag von 20 Prozent,
 wenn das Institut während des letzten maßgeblichen Geschäftsjahres
@@ -456,6 +462,7 @@ Ausschlussfristen.
 
 
 ## § 2d Ermäßigung des Jahresbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001302377)
 
 (1) Der Jahresbeitrag ermäßigt sich vorbehaltlich des Absatzes 3 um
 einen Abschlag von 15 Prozent für eine bestehende
@@ -579,6 +586,7 @@ ist auf 10 Prozent der vereinbarten Versicherungssumme begrenzt.
 
 
 ## § 3 Einmalige Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000802118)
 
 (1) Institute, die der Entschädigungseinrichtung nach dem 18. Juli
 2013 neu zugeordnet werden, haben zusätzlich zum Jahresbeitrag eine
@@ -601,6 +609,7 @@ Zahlung fällig.
 
 
 ## § 4 Mindestbeitrag der einmaligen Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000904128)
 
 (1) Der Mindestbeitrag der einmaligen Zahlung beträgt
 
@@ -632,6 +641,7 @@ Bescheides über den Mindestbeitrag der einmaligen Zahlung fällig.
 
 
 ## § 5 Sonderbeiträge, Sonderzahlungen und Belastungsobergrenze
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000406118)
 
 (1) Die Höhe eines Sonderbeitrags oder einer Sonderzahlung nach § 8
 Absatz 3 bis 7 des Anlegerentschädigungsgesetzes beträgt für jedes
@@ -748,6 +758,7 @@ Beitragserhebung nach den Sätzen 1 und 2 kann in Teilbeträgen gemäß §
 
 
 ## § 5a Erhebung von Sonderbeiträgen in Teilbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001401118)
 
 (1) Bei der Entscheidung über die Erhebung von Sonderbeiträgen in
 Teilbeträgen nach § 8 Absatz 3 Satz 2 des
@@ -781,6 +792,7 @@ umfassen.
 
 
 ## § 5b Befreiung von der Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001504128)
 
 (1) Eine vollständige oder teilweise Befreiung von der Pflicht zur
 Leistung eines Sonderbeitrags oder einer Sonderzahlung nach § 8 Absatz
@@ -806,6 +818,7 @@ Sonderbeiträgen und Sonderzahlungen befreit werden.
 
 
 ## § 5c Verzugszinsen
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001600360)
 
 Ist bis zum Ablauf von 30 Tagen nach dem Fälligkeitstermin der
 Jahresbeitrag, der Sonderbeitrag, die Sonderzahlung, die einmalige
@@ -816,6 +829,7 @@ Bürgerlichen Gesetzbuchs zum Schuldnerverzug entsprechend anzuwenden.
 
 
 ## § 6 Bestätigung durch Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000505128)
 
 Bei Instituten, deren Bilanzsumme im letzten Geschäftsjahr 150
 Millionen Euro nicht übersteigt, können die Bestätigungen nach § 2
@@ -839,6 +853,7 @@ können auch von einem Steuerberater erteilt werden, wenn
 
 
 ## § 7 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000604377)
 
 (1) In den Jahren 1999 und 2000 können 90 Prozent der Bruttoerträge
 aus Finanzgeschäften bei der Ermittlung gemäß § 2 Abs. 2 ohne Nachweis
@@ -928,6 +943,7 @@ geltenden Fassung erhoben.
 
 
 ## § 7a Übergangsvorschriften zur Fünften Verordnung zur Änderung der EdW-Beitragsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001700360)
 
 (1) Auf Institute, die der Entschädigungseinrichtung vor Ablauf des
 18\. Juli 2013 zugeordnet worden sind, sind die §§ 3 und 4 in der bis
@@ -950,10 +966,12 @@ ersetzt.
 
 
 ## § 7b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001802128)
 
 
 
 ## § 7c Übergangsvorschriften zur sechsten Verordnung zur Änderung der EdW-Beitragsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE001900377)
 
 (1) Institute, die vor dem 22. Juli 2014 Zuführungen zu Sonderposten
 gemäß den §§ 340g und 340e Absatz 4 des Handelsgesetzbuchs vorgenommen
@@ -990,6 +1008,7 @@ Abrechnungsjahr anzuwenden.
 
 
 ## § 7d Übergangsvorschriften zur Siebten Verordnung zur Änderung der EdW-Beitragsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE002000118)
 
 Die §§ 1, 2a, 2c, 4, 5 und 6 in der ab dem 8. Dezember 2016 geltenden
 Fassung sind erstmals auf das am 30. September 2017 endende
@@ -997,6 +1016,7 @@ Abrechnungsjahr anzuwenden.
 
 
 ## § 7e Übergangsvorschriften zur Achten Verordnung zur Änderung der EdW-Beitragsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE002100118)
 
 Die §§ 1, 2 und 2a in der ab dem 31. August 2018 geltenden Fassung
 sind erstmals auf das am 30. September 2018 endende Abrechnungsjahr
@@ -1004,6 +1024,7 @@ anzuwenden.
 
 
 ## § 7f Übergangsvorschriften zur Neunten Verordnung zur Änderung der EdW-Beitragsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE002200128)
 
 Die §§ 2a und 2b in der ab dem 1. Juli 2024 geltenden Fassung sind
 erstmals auf das am 30. September 2024 endende Abrechnungsjahr
@@ -1011,6 +1032,7 @@ anzuwenden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiawphev/BJNR189100999.html#BJNR189100999BJNE000701377)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

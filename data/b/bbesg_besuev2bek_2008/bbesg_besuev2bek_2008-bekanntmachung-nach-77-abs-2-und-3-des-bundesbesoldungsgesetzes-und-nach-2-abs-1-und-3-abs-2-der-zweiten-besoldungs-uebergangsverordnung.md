@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek_2008/BJNR161200008.html#BJNR161200008BJNE000100000)
 
 Auf Grund des § 77 Abs. 5 des Bundesbesoldungsgesetzes in der Fassung
 der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), der durch
@@ -44,11 +45,13 @@ I S. 1798), werden bekannt gemacht:
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek_2008/BJNR161200008.html#BJNR161200008BJNE000200000)
 
 Der Bundesminister des Innern
 
 
 ## Anlage 1 Bundesbesoldungsordnung C
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek_2008/BJNR161200008.html#BJNR161200008BJNE000300000)
 
 ( Fundstelle: BGBl. I 2008, 1613 - 1614 )
 Gültig ab 1. Januar 2008
@@ -673,6 +676,7 @@ Gültig ab 1. Januar 2008
 (Anlage IV des BBesG)
 
 ## Anlage 2 (Zweite Besoldungs-Übergangsverordnung)
+[Direktlink](https://www.gesetze-im-internet.de/bbesg_bes_v2bek_2008/BJNR161200008.html#BJNR161200008BJNE000400000)
 
 ( Fundstelle: BGBl. I 2008, 1615 - 1622 )
 Gültig ab 1. Januar 2008 bis 31. März 2008

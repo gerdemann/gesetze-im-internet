@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2023/BJNR632800022.html#BJNR632800022BJNE000100000)
 
 Auf Grund des § 17b Absatz 7 Satz 1 Nummer 1 des
 Krankenhausfinanzierungsgesetzes, der durch Artikel 2 Nummer 3
@@ -26,6 +27,7 @@ Bundesministerium für Gesundheit:
 
 
 ## § 1 Entgeltkataloge für DRG-Krankenhäuser für das Jahr 2023
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2023/BJNR632800022.html#BJNR632800022BJNE000200000)
 
 Der Fallpauschalen-Katalog nach § 9 Absatz 1 Nummer 1 des
 Krankenhausentgeltgesetzes, der Katalog ergänzender Zusatzentgelte
@@ -37,11 +39,13 @@ vorgegeben.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2023/BJNR632800022.html#BJNR632800022BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/drg-ekv_2023/BJNR632800022.html#BJNR632800022BJNE000400000)
 
 (Fundstelle: BAnz AT 24.11.2022 V1)
 

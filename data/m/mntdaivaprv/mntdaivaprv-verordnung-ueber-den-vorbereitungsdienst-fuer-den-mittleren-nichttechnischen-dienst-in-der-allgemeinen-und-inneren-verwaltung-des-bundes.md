@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000100000)
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der
@@ -29,9 +30,11 @@ verordnet das Bundesministerium des Innern:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000300000)
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der
 fachspezifische Vorbereitungsdienst für den mittleren nichttechnischen
@@ -40,6 +43,7 @@ Vorbereitungsdienst dauert in der Regel 24 Monate.
 
 
 ### § 2 Ziele der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000400000)
 
 Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis
 die Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten,
@@ -52,6 +56,7 @@ Raum.
 
 
 ### § 3 Dienstbehörden, Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000500000)
 
 (1) Das Bundesverwaltungsamt ist Ausbildungsbehörde.
 
@@ -63,6 +68,7 @@ Behörden.
 
 
 ### § 4 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000605311)
 
 (1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der
 Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die
@@ -125,6 +131,7 @@ gleichen Auswahlmaßstäbe anlegen.
 
 
 ### § 5 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000701116)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden, soweit in
 dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
@@ -239,6 +246,7 @@ zwei Nachkommastellen ohne Rundung berechnet.
 
 
 ### § 6 Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000800000)
 
 Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§
 10) gewährt werden. Die Zeiten des Erholungsurlaubs bestimmt das
@@ -246,9 +254,11 @@ Bundesverwaltungsamt.
 
 
 ## Abschnitt 2 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNG000200000)
 
 
 ### § 7 Aufbau und Dauer der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE000903311)
 
 (1) Die Ausbildung gliedert sich in eng verzahnte fachtheoretische
 Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei
@@ -329,6 +339,7 @@ abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.
 
 
 ### § 8 Inhalt der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001003311)
 
 (1) Die fachtheoretische Ausbildung umfasst mindestens 1 090
 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den
@@ -420,6 +431,7 @@ nach Intensitätsstufen zu beschreiben.
 
 
 ### § 9 Leistungstests
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001103311)
 
 (1) Während der fachtheoretischen Ausbildung sind folgende
 Leistungstests zu erbringen:
@@ -457,6 +469,7 @@ Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§
 
 
 ### § 10 Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001200000)
 
 (1) Das Bundesverwaltungsamt bestimmt und überwacht die Gestaltung und
 Organisation der berufspraktischen Ausbildung. Es erstellt für jede
@@ -483,6 +496,7 @@ regelmäßig über den erreichten Ausbildungsstand.
 
 
 ### § 11 Inhalt der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001301311)
 
 (1) Während des Praktikums I werden die Anwärterinnen und Anwärter
 vertraut gemacht mit
@@ -516,6 +530,7 @@ Praktikums III fachbezogen ausgebildet werden.
 
 
 ### § 12 Bewertungen während der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001400000)
 
 (1) Am Ende jedes Praktikums oder Praktikumteils erstellt der oder die
 zuständige Ausbildende unter Beteiligung der oder des
@@ -531,6 +546,7 @@ geben und mit ihr oder ihm zu besprechen.
 
 
 ### § 13 Zusammenfassendes Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001500000)
 
 (1) Über den Erfolg der Ausbildung erstellt das Bundesverwaltungsamt
 ein zusammenfassendes Zeugnis, in dem die Leistungen der Anwärterinnen
@@ -548,9 +564,11 @@ zusammenfassenden Zeugnisses.
 
 
 ## Abschnitt 3 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNG000300000)
 
 
 ### § 14 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001601311)
 
 Für die Organisation und Durchführung der Zwischenprüfung und der
 Abschlussprüfung richtet das Bundesverwaltungsamt ein Prüfungsamt ein,
@@ -591,6 +609,7 @@ das insbesondere
 
 
 ### § 15 Prüfungskommission, Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001700000)
 
 (1) Eine Prüfungskommission besteht aus:
 
@@ -624,6 +643,7 @@ entscheidet die Prüfungskommission mit Stimmenmehrheit.
 
 
 ### § 16 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001800000)
 
 Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der
 Anwärterinnen und Anwärter für den mittleren nichttechnischen
@@ -646,6 +666,7 @@ besteht aus:
 
 
 ### § 17 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE001900000)
 
 (1) Zum Abschluss des Zwischenlehrgangs haben die Anwärterinnen und
 Anwärter in einer Zwischenprüfung nachzuweisen, dass sie einen
@@ -678,6 +699,7 @@ und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
 
 ### § 18 Schriftliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002001311)
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer die
 Zwischenprüfung bestanden und die Ausbildungsabschnitte durchlaufen
@@ -701,6 +723,7 @@ rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 
 
 ### § 19 Mündliche Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002106311)
 
 (1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und
 Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen
@@ -749,6 +772,7 @@ Vorbereitungsdienstes abgeschlossen sein.
 
 
 ### § 20 Fernbleiben, Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002200000)
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
 Prüfungsteil der Zwischen- oder Abschlussprüfung ohne Genehmigung des
@@ -770,6 +794,7 @@ Klausuren gewertet werden.
 
 
 ### § 21 Täuschung, Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002300000)
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem
 Prüfungsteil täuschen, eine Täuschung versuchen oder daran mitwirken
@@ -804,6 +829,7 @@ für nicht bestanden erklären.
 
 
 ### § 22 Wiederholung von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002400000)
 
 (1) Eine nicht bestandene Zwischenprüfung und eine nicht bestandene
 Abschlussprüfung können jeweils einmal wiederholt werden.
@@ -829,6 +855,7 @@ verlängert.
 
 
 ### § 23 Bestehen der Laufbahnprüfung, Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002502311)
 
 (1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen
 Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und
@@ -902,6 +929,7 @@ erläutert die Bewertungen auf Wunsch kurz mündlich.
 
 
 ### § 24 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002600000)
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein
 Abschlusszeugnis.
@@ -924,6 +952,7 @@ und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
 
 ### § 25 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002700000)
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -955,9 +984,11 @@ Beamtenverhältnis erfolgt ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNG000400000)
 
 
 ### § 26 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002800000)
 
 Für Anwärterinnen und Anwärter, die vor dem 1. August 2012 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über die
@@ -969,6 +1000,7 @@ ist, weiter anzuwenden.
 
 
 ### § 27 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mntdaivaprv/BJNR155400012.html#BJNR155400012BJNE002900000)
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Laufbahn, Ausbildung und Prüfung für den

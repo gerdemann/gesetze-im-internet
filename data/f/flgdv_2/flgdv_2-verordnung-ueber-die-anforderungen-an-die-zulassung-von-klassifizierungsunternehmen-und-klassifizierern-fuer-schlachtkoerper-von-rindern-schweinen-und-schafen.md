@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Antrag auf Zulassung als Klassifizierungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000103124)
 
 (1) Der Antrag auf Zulassung als Klassifizierungsunternehmen ist bei
 der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
@@ -41,6 +42,7 @@ rechtzeitig mitzuteilen.
 
 
 ## § 2 Antragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000201119)
 
 (1) Der Zulassungsantrag nach § 1 muss enthalten:
 
@@ -100,6 +102,7 @@ zur Entscheidung über den Antrag erforderlich ist.
 
 
 ## § 3 Unabhängigkeit von Klassifizierungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000300000)
 
 (1) Ein Klassifizierungsunternehmen ist insbesondere dann nicht
 unabhängig im Sinne des § 3 Abs. 1 Nr. 2 Buchstabe a des
@@ -137,6 +140,7 @@ haben.
 
 
 ## § 4 Beschränkungen der Zulassung von Klassifizierungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000400000)
 
 (1) Die Zulassung wird für das gesamte Bundesgebiet erteilt.
 Abweichend von Satz 1 wird die Zulassung für
@@ -154,6 +158,7 @@ werden.
 
 
 ## § 5 Zulassung von Klassifizierern
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000501360)
 
 (1) Die Zulassung als Klassifizierer nach § 4 des Fleischgesetzes wird
 für die Klassifizierung von Schlachtkörpern der Tierarten erteilt, für
@@ -189,6 +194,7 @@ gesonderte Sachkundeprüfung erforderlich.
 
 
 ## § 6 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000603119)
 
 (1) Der Antrag auf Zulassung als Klassifizierer ist bei der
 zuständigen Behörde schriftlich oder elektronisch einzureichen.
@@ -236,6 +242,7 @@ dem Antrag nach Absatz 1 beizufügen.
 
 
 ## § 7 Ausbildung und Sachkundeprüfung der Klassifizierer
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000700000)
 
 (1) Die Sachkundeprüfung nach § 4 Abs. 2 des Fleischgesetzes besteht
 aus einem theoretischen und einem praktischen Teil. Die Prüfung
@@ -246,6 +253,7 @@ mindestens die in Anlage 2 aufgeführten Inhalte.
 
 
 ## § 8 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000800000)
 
 Die Sachkundeprüfung wird durch eine von der zuständigen Behörde
 eingerichtete Prüfungskommission abgenommen. Die Prüfungskommission
@@ -258,6 +266,7 @@ Schlachtkörpern verfügt.
 
 
 ## § 9 Prüfungstermine und Anmeldung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE000900000)
 
 Die zuständige Behörde bestimmt die Termine für die Durchführung der
 Sachkundeprüfung nach Bedarf. Die zuständige Behörde gibt die Termine
@@ -266,6 +275,7 @@ bekannt.
 
 
 ## § 10 Durchführung der Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001000000)
 
 (1) Die Prüfungsteilnehmer haben sich auf Verlangen der
 Prüfungskommission oder der Aufsicht führenden Person über ihre Person
@@ -297,6 +307,7 @@ der zuständigen Behörde entworfen.
 
 
 ## § 11 Rücktritt, Nichtteilnahme
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001100000)
 
 Tritt der Prüfungsbewerber von der Prüfung zurück oder nimmt er an der
 Prüfung nicht teil, ohne dass ein wichtiger Grund vorliegt, so gilt
@@ -304,6 +315,7 @@ die Prüfung als nicht bestanden.
 
 
 ## § 12 Prüfungsergebnis und Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001200000)
 
 (1) Die theoretische Prüfung ist bestanden, wenn der
 Prüfungsteilnehmer mindestens 60 Prozent der zu erzielenden Punkte
@@ -317,6 +329,7 @@ die Wiederholungsprüfung nach § 13 hinzuweisen.
 
 
 ## § 13 Wiederholung der Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001300000)
 
 Eine nicht bestandene Sachkundeprüfung kann höchstens zweimal
 wiederholt werden. Die Sachkundeprüfung kann frühestens zum nächsten
@@ -324,6 +337,7 @@ Prüfungstermin wiederholt werden.
 
 
 ## § 14 Zulassungsurkunde, Klassifiziererausweis, personenbezogener Stempel, Belehrung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001400000)
 
 (1) Über die Zulassung wird dem zugelassenen Klassifizierer von der
 zuständigen Behörde eine Zulassungsurkunde, ein Klassifiziererausweis
@@ -363,6 +377,7 @@ aufzubewahren. § 12 Abs. 5 des Fleischgesetzes ist anzuwenden.
 
 
 ## § 15 Fortbildungskurs, Fortbildungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001500000)
 
 (1) Der Fortbildungskurs nach § 4 Abs. 4 des Fleischgesetzes bezieht
 sich auf den Inhalt der Anlage 2. Auf die Fortbildungsprüfung sind die
@@ -389,6 +404,7 @@ eine erneute Sachkundeprüfung bestanden hat.
 (zu § 7 Abs. 1 und § 12 Abs. 1)
 
 ## Anlage 1 Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001703125)
 
 (Fundstelle: BGBl. I 2008, 2193 - 2194;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -655,6 +671,7 @@ B.  Verwiegung/Schnittführung
 (zu § 7 Abs. 2 und § 15 Abs. 1)
 
 ## Anlage 2 Inhalt des Ausbildungskurses
+[Direktlink](https://www.gesetze-im-internet.de/flgdv_2/BJNR218900008.html#BJNR218900008BJNE001800000)
 
 (Fundstelle: BGBl. I 2008, 2195)
 Der Ausbildungskurs setzt sich aus einem praktischen und einem

@@ -29,6 +29,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000100000)
 
 Auf Grund des § 84 Absatz 2 in Verbindung mit Absatz 5 des
 Strahlenschutzgesetzes vom 27. Juni 2017 (BGBl. I S. 1966) in
@@ -39,6 +40,7 @@ Naturschutz und nukleare Sicherheit:
 
 
 ## § 1 Zulässigkeit von Untersuchungen zur Früherkennung von Brustkrebs
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000201128)
 
 (1) Röntgenuntersuchungen zur Früherkennung von Brustkrebs sind
 zulässig bei Frauen,
@@ -79,6 +81,7 @@ wenn die Einschlusskriterien nach Absatz 1 erfüllt sind.
 
 
 ## § 2 Anforderungen an das Personal
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000301128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass im
 Rahmen der Früherkennung von Brustkrebs bei Frauen jede Person, die
@@ -110,6 +113,7 @@ Eine Abweichung gemäß Absatz 2 Satz 1 Nummer 2 gilt nur für ein Jahr.
 
 
 ## § 3 Medizinphysik-Experte; Aufgaben des Medizinphysik-Experten
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000400000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei
 Untersuchungen mit Röntgenstrahlung im Rahmen der Früherkennung von
@@ -153,6 +157,7 @@ dass der Medizinphysik-Experte
 
 
 ## § 4 Aufklärung der zu untersuchenden Frau
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000500000)
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die zu
 untersuchende Frau vor der Früherkennungsuntersuchung
@@ -173,6 +178,7 @@ ein Gespräch nach Satz 1 Nummer 2 ermöglicht wird.
 
 
 ## § 5 Anforderungen an die Durchführung der Röntgenuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000600000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass vor
 Erstellung der Röntgenaufnahmen
@@ -207,6 +213,7 @@ erstellt wird:
 
 
 ## § 6 Anforderungen an die Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000700000)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für
 Röntgenuntersuchungen zur Früherkennung von Brustkrebs
@@ -255,6 +262,7 @@ werden.
 
 
 ## § 7 Befundung der Röntgenuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000801128)
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass
 
@@ -300,6 +308,7 @@ Beurteilung hinzuzuziehen.
 
 
 ## § 8 Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE000900000)
 
 (1) Der Strahlenschutzverantwortliche hat ein umfassendes
 Qualitätssicherungssystem einzurichten und zu betreiben. Das
@@ -359,6 +368,7 @@ standardisierte elektronische Dokumentation aufgezeichnet werden.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE001000000)
 
 Die Anforderung nach § 6 Absatz 1 Satz 1 Nummer 1 und 4 gilt erst ab
 dem 1. Januar 2021. Dies gilt auch für Röntgeneinrichtungen, die für
@@ -366,6 +376,7 @@ die Abklärungsdiagnostik eingesetzt werden.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/brkrfr_herkv/BJNR266000018.html#BJNR266000018BJNE001100000)
 
 Diese Verordnung tritt am 31. Dezember 2018 in Kraft.
 

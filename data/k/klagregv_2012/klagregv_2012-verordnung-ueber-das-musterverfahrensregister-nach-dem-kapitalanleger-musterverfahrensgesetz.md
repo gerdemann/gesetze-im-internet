@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000100000)
 
 Auf Grund des § 4 Absatz 5 des Kapitalanleger-Musterverfahrensgesetzes
 vom 19. Oktober 2012 (BGBl. I S. 2182) verordnet das Bundesministerium
@@ -27,6 +28,7 @@ der Justiz:
 
 
 ## § 1 Inhalt und Aufbau des Musterverfahrensregisters
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000205125)
 
 (1) Bekanntmachungen nach dem Kapitalanleger-Musterverfahrensgesetz
 sind in den folgenden Rubriken vorzunehmen:
@@ -227,6 +229,7 @@ ermöglicht:
 
 
 ## § 2 Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000301125)
 
 (1) Der Betreiber des Musterverfahrensregisters hat durch
 organisatorische und technische Vorkehrungen sicherzustellen, dass die
@@ -258,6 +261,7 @@ Musterverfahrensregisters.
 
 
 ## § 3 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000401125)
 
 (1) Die Einsichtnahme in das Musterverfahrensregister erfolgt
 ausschließlich auf elektronischem Weg; sie ist kostenfrei.
@@ -270,6 +274,7 @@ Informationstechnik-Verordnung anzuwenden.
 
 
 ## § 4 Auftragsverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000501125)
 
 (1) Die Datenverarbeitung im Musterverfahrensregister erfolgt im
 Auftrag und nach Weisung des Gerichts, das die jeweilige
@@ -307,6 +312,7 @@ Auftragsverarbeiter bedienen.
 
 
 ## § 5 Berichtigung und Löschung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000601125)
 
 (1) Der Betreiber des Musterverfahrensregisters hat durch
 organisatorische und technische Vorkehrungen sicherzustellen, dass im
@@ -335,6 +341,7 @@ unverzüglich vor.
 
 
 ## § 6 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000701125)
 
 (1) Der Betreiber des Musterverfahrensregisters hat durch
 organisatorische und technische Vorkehrungen sicherzustellen, dass
@@ -361,6 +368,7 @@ Sicherheit der Datenverarbeitung vorzusehen.
 
 
 ## § 7 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/klagregv_2012/BJNR269400012.html#BJNR269400012BJNE000802125)
 
 (1) Vor dem Inkrafttreten dieser Verordnung vorgenommene Eintragungen
 im Klageregister bleiben bestehen. Das Gericht, das eine Eintragung

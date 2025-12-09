@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000100000)
 
 Auf Grund des § 24 Abs. 4 des Gesetzes über das Kreditwesen, der durch
 Artikel 1 Nr. 36 des Gesetzes vom 22. Oktober 1997 (BGBl. I S. 2518)
@@ -31,6 +32,7 @@ Spitzenverbände der Institute:
 
 
 ## § 1 Allgemeine Angaben
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000200000)
 
 Ergänzungsanzeigen nach § 64e Abs. 2 Satz 4 des Gesetzes über das
 Kreditwesen (KWG) sind dem Bundesaufsichtsamt für das Kreditwesen
@@ -82,6 +84,7 @@ Ausfertigung einzureichen. Sie müssen folgende Angaben enthalten:
 
 
 ## § 2 Allgemeine Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000300000)
 
 Der Ergänzungsanzeige nach § 1 sind in der ihr entsprechenden Zahl der
 Ausfertigungen folgende Unterlagen beizufügen:
@@ -130,6 +133,7 @@ Satz 2 Nr. 1 und 2 der Anzeigenverordnung entsprechend.
 
 
 ## § 3 Finanzkommissionsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000400000)
 
 Anzeigepflichtige, die das Finanzkommissionsgeschäft (§ 1 Abs. 1 Satz
 2 Nr. 4 KWG) betreiben, haben zusätzlich zu den Angaben und Unterlagen
@@ -154,6 +158,7 @@ nach den §§ 1 und 2 einzureichen:
 
 
 ## § 4 Emissionsgeschäft
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000500000)
 
 Anzeigepflichtige, die das Emissionsgeschäft (§ 1 Abs. 1 Satz 2 Nr. 10
 KWG) betreiben, haben zusätzlich zu den Angaben und Unterlagen nach
@@ -178,6 +183,7 @@ den §§ 1 und 2 einzureichen:
 
 
 ## § 5 Anlage- oder Abschlußvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000600000)
 
 Anzeigepflichtige, die die Anlage- oder Abschlußvermittlung (§ 1 Abs.
 1a Satz 2 Nr. 1 oder 2 KWG) betreiben, haben zusätzlich zu den Angaben
@@ -208,6 +214,7 @@ haben außerdem die in § 7 Nr. 1 geforderten Angaben zu machen.
 
 
 ## § 6 Finanzportfolioverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000700000)
 
 Anzeigepflichtige, welche die Finanzportfolioverwaltung (§ 1 Abs. 1a
 Satz 2 Nr. 3 KWG) anbieten, haben zusätzlich zu den Angaben und
@@ -235,6 +242,7 @@ außerdem die in § 7 Nr. 1 geforderten Angaben zu machen.
 
 
 ## § 7 Eigenhandel
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000800000)
 
 Anzeigepflichtige, die den Eigenhandel (§ 1 Abs. 1a Satz 2 Nr. 4 KWG)
 betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
@@ -258,6 +266,7 @@ betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
 
 
 ## § 8 Drittstaateneinlagenvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE000900000)
 
 Anzeigepflichtige, die Einlagen in Drittstaaten vermitteln (§ 1 Abs.
 1a Satz 2 Nr. 5 KWG), haben zusätzlich zu den Angaben und Unterlagen
@@ -282,6 +291,7 @@ nach den §§ 1 und 2 einzureichen:
 
 
 ## § 9 Finanztransfergeschäft
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE001000000)
 
 Anzeigepflichtige, die das Finanztransfergeschäft (§ 1 Abs. 1a Satz 2
 Nr. 6 KWG) betreiben, haben zusätzlich zu den Angaben und Unterlagen
@@ -314,6 +324,7 @@ nach den §§ 1 und 2 einzureichen:
 
 
 ## § 10 Sortenhandel
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE001100000)
 
 Anzeigepflichtige, die den Sortenhandel (§ 1 Abs. 1a Satz 2 Nr. 7 KWG)
 betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
@@ -335,6 +346,7 @@ betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/erganzv/BJNR341500997.html#BJNR341500997BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 

@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000100000)
 
 Auf Grund
 
@@ -45,6 +46,7 @@ verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Informationspflichten bei nicht verfügbaren Werken
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000200000)
 
 (1) Informationen zu nicht verfügbaren Werken (§ 52b des
 Verwertungsgesellschaftengesetzes), die die Verwertungsgesellschaft
@@ -94,6 +96,7 @@ soweit möglich, folgende Informationen anzugeben:
 
 
 ## § 2 Nichtverfügbarkeit von nicht für den Handel bestimmten Werken
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000300000)
 
 Die Voraussetzungen von § 52b Absatz 1 des
 Verwertungsgesellschaftengesetzes sind auch dann erfüllt, wenn ein
@@ -103,6 +106,7 @@ anderweitige Verfügbarkeit für die Allgemeinheit bestehen.
 
 
 ## § 3 Wahrung des Urheberpersönlichkeitsrechts bei nicht veröffentlichten Werken
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000400000)
 
 (1) Bei nicht veröffentlichten Werken ist im Wege der
 Einzelfallabwägung zu prüfen, ob das Informationsinteresse der
@@ -122,6 +126,7 @@ Veröffentlichung des Werkes absehen wollte.
 
 
 ## § 4 Rechtsfolgen eines Widerspruchs nach § 52 Absatz 2 des Verwertungsgesellschaftengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000500000)
 
 (1) Informiert das Amt der Europäischen Union für geistiges Eigentum
 die Verwertungsgesellschaft über einen Widerspruch nach § 52 Absatz 2
@@ -147,6 +152,7 @@ Absatz 1 Satz 1 vorläufig einzustellen.
 
 
 ## § 5 Rechtsfolgen eines Widerspruchs nach § 61d Absatz 2 des Urheberrechtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000600000)
 
 (1) Informiert das Amt der Europäischen Union für geistiges Eigentum
 die Kulturerbe-Einrichtung über einen Widerspruch nach § 61d Absatz 2
@@ -170,12 +176,14 @@ nach Absatz 1 Satz 1 vorläufig ein.
 
 
 ## § 6 Entsprechende Anwendung auf verwandte Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000700000)
 
 Diese Verordnung ist auf verwandte Schutzrechte im Sinne des
 Urheberrechtsgesetzes und ihre Inhaber entsprechend anzuwenden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nvwv/BJNR0410A0023.html#BJNR0410A0023BJNE000800000)
 
 Diese Verordnung tritt am 1. Juni 2023 in Kraft.
 

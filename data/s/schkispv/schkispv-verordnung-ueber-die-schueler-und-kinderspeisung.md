@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000400307)
 
 Zur Erhöhung der Qualität der Schüler- und Kinderspeisung als eine
 wesentliche Maßnahme im Rahmen des sozialpolitischen Programms wird
@@ -25,6 +26,7 @@ folgendes verordnet:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000500307)
 
 (1) Die Bestimmungen dieser Verordnung gelten für die Versorgung der
 
@@ -49,10 +51,12 @@ die Esseneinnahmebedingungen.
 
 
 ## - - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNG000100307)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000600307)
 
 (1) Für Schüler der allgemeinbildenden Schulen, für Lehrlinge der
 kommunalen Berufsschulen und für Kinder in Kindergärten ist an
@@ -68,6 +72,7 @@ teilnehmen können.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000700307)
 
 (1) Auf der Grundlage der Zielstellung der Volkswirtschaftspläne sind
 in die planmäßige Versorgung mit Schülerspeisung bevorzugt
@@ -96,6 +101,7 @@ e)  Schüler und Lehrlinge, deren Teilnahme aus anderen dringenden Gründen
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000800307)
 
 (1) Zur Sicherung eines dem Alter der Schüler, Lehrlinge und Kinder
 entsprechenden vollwertigen und abwechslungsreichen Mittagessens sind
@@ -123,6 +129,7 @@ versorgen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE000900307)
 
 (1) Die Normative für den wertmäßigen Naturaleinsatz je Essenportion
 werden wie folgt erhöht:
@@ -158,6 +165,7 @@ vorgefertigte Rohstoffe sind den Zubereitungskosten zuzuordnen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001000307)
 
 Für die Herstellung und den Transport bzw. für die Herstellung und die
 Ausgabe, einschließlich der Naturaleinsatzkosten, gelten je Portion
@@ -188,6 +196,7 @@ Schüler- und Kinderspeisung folgende Richtpreise:
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001100307)
 
 (1) Die erhöhten Aufwendungen für die Schüler- und Kinderspeisung
 werden aus dem Staatshaushalt finanziert. Die Kostenanteile der Eltern
@@ -233,6 +242,7 @@ gewähren, deren Einkommen diese staatliche Unterstützung rechtfertigt.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001200307)
 
 (1) Die Mahlzeiten für die Schüler- und Kinderspeisung sind auf der
 Grundlage der Lebensmittelnormen, der ernährungsphysiologischen
@@ -251,6 +261,7 @@ die Bereitstellung eines qualitativ vollwertigen Essens zu schaffen.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001300307)
 
 (1) Während der Ferien ist die Versorgung der Schüler mit einem warmen
 Mittagessen und mit Trinkmilch zu gewährleisten.
@@ -263,6 +274,7 @@ der Feriengestaltung teilnehmen, erfolgt gemäß § 7.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001400307)
 
 Am Unterrichtstag in der Produktion und bei der wissenschaftlich-
 praktischen Arbeit in den Betrieben ist den Schülern die Teilnahme am
@@ -275,6 +287,7 @@ berücksichtigen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001500307)
 
 (1) Durch die zuständigen staatlichen und wirtschaftsleitenden Organe
 sind die notwendigen Kapazitäten für die Speisenproduktion und die
@@ -297,10 +310,12 @@ vorrangig zu decken.
 
 
 ## - - Leitung, Planung und Organisation der Schüler- und Kinderspeisung
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNG000200307)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001600307)
 
 (1) Die Durchführung der Schüler- und Kinderspeisung wird durch die
 örtlichen Räte geleitet. Sie sichern die Durchführung durch staatliche
@@ -324,6 +339,7 @@ Esseneinnahmebedingungen weiter zu verbessern.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001700307)
 
 Der Minister für Handel und Versorgung ist verantwortlich für die
 zentrale Leitung und Koordinierung der Schüler- und Kinderspeisung
@@ -375,6 +391,7 @@ h)  die planmäßige Durchführung von Erfahrungsaustauschen und
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001800307)
 
 (1) Der Minister für Volksbildung ist verantwortlich für die
 Durchsetzung der von den Einrichtungen der Volksbildung
@@ -417,6 +434,7 @@ d)  Anleitung und Kontrolle für eine kontinuierliche Zusammenarbeit bei
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE001900307)
 
 (1) Der Staatssekretär für Berufsbildung ist verantwortlich für die
 Durchsetzung der von den kommunalen Berufsschulen wahrzunehmenden
@@ -432,6 +450,7 @@ Arbeit in den kommunalen Berufsschulen verwirklichen.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002000307)
 
 Der Vorsitzende der Staatlichen Plankommission gewährleistet im Rahmen
 der Volkswirtschaftsplanung die Einordnung der personellen,
@@ -444,6 +463,7 @@ komplexen Wohnungsbau.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002100307)
 
 Der Minister der Finanzen sichert die planmäßige Bereitstellung der
 Mittel aus dem Staatshaushalt, die für die Finanzierung der Schüler-
@@ -456,6 +476,7 @@ sowie die Durchführung von Finanzrevisionen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002200307)
 
 Der Minister und Leiter des Amtes für Preise gewährleistet durch
 Preiskontrollen in den an der Schüler- und Kinderspeisung beteiligten
@@ -464,6 +485,7 @@ Preisregelungen.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002300307)
 
 Der Minister für Gesundheitswesen sichert die Erarbeitung
 differenzierter Lebensmittelnormen und ernährungsphysiologischer
@@ -474,6 +496,7 @@ Hygiene durch die zuständigen Hygieneinspektionen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002400307)
 
 Der Minister für Bauwesen sichert die Entwicklung typisierter
 Gesellschaftsbauten, insbesondere von Mehrzweckeinrichtungen für die
@@ -483,6 +506,7 @@ Einrichtungen.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002500307)
 
 Der Leiter der Staatlichen Zentralverwaltung für Statistik sichert die
 Abrechnung der geplanten Kennziffern für die Schüler- und
@@ -491,6 +515,7 @@ Schwerpunkten der Entwicklung der Schüler- und Kinderspeisung.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002600307)
 
 Die Leiter der zentralen Staatsorgane und wirtschaftsleitenden Organe
 gewährleisten, daß die Entscheidungen der örtlichen Räte zur Nutzung
@@ -502,6 +527,7 @@ Kinderspeisung.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002700307)
 
 (1) Die Räte der Bezirke und Kreise sind für die planmäßige
 Entwicklung der Schüler- und Kinderspeisung sowie der
@@ -575,6 +601,7 @@ zentralen Staatsorgane.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002800307)
 
 (1) Die Räte der Städte und Gemeinden sind für die Schüler- und
 Kinderspeisung in ihrem Territorium verantwortlich. Sie ordnen diese
@@ -603,6 +630,7 @@ Kinderspeisung von den Eltern erhoben werden.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE002900307)
 
 (1) Die Leiter der Betriebe und Einrichtungen, für die § 24 Abs. 1
 nicht zutrifft, sind verantwortlich dafür, daß die materiellen und
@@ -619,6 +647,7 @@ Speisen unter Einbeziehung gesellschaftlicher Kräfte.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE003000307)
 
 (1) Die Direktoren der Schulen und Leiter der Kindergärten sind
 verantwortlich für die Kontrolle der Qualität und für die Kontrolle
@@ -643,10 +672,12 @@ Essenportionen und die Anlieferungszeiten.
 
 
 ## - - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNG000300307)
 
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE003100307)
 
 Durchführungsbestimmungen zu dieser Verordnung erläßt der Minister für
 Handel und Versorgung in Übereinstimmung mit den Leitern der
@@ -654,6 +685,7 @@ zuständigen zentralen Staatsorgane.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE003200307)
 
 (1) Diese Verordnung tritt am 1. Januar 1976 in Kraft.
 
@@ -692,6 +724,7 @@ Gleichzeitig treten außer Kraft:
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/schkispv/DDNR007130975.html#DDNR007130975BJNE003300307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 

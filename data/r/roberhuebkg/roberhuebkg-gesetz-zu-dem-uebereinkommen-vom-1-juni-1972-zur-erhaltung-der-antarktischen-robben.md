@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000100325)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000200325)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 London vom 1. Juni 1972 zur Erhaltung der antarktischen Robben wird
@@ -33,6 +35,7 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000305119)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
@@ -60,6 +63,7 @@ Bundesministerium für Bildung und Forschung
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000401307)
 
 (1) In den Meeren südlich des sechzigsten Grades südlicher Breite sind
 Tötung und Fang von Robben im Sinne von Artikel 1 Abs. 2 des
@@ -73,6 +77,7 @@ zu erteilen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000501377)
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 3 Abs. 1 Robben tötet
 oder fängt.
@@ -85,6 +90,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000600325)
 
 Das Bundesamt soll vor Entscheidungen nach Artikel 3 Abs. 2 und
 Artikel 4 Abs. 2 das Alfred-Wegener-Institut für Polarforschung
@@ -92,6 +98,7 @@ anhören.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/roberh_bkg/BJNR200900987.html#BJNR200900987BJNE000701307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

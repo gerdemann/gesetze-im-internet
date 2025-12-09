@@ -28,6 +28,7 @@ Ersetzt durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000100000)
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -41,10 +42,12 @@ Technologie:
 
 
 ## 1. Abschnitt - Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNG000200000)
 
 
 
 ### § 1 Berufsbild
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000300000)
 
 (1) Dem Estrichleger-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -209,10 +212,12 @@ Fertigkeiten zuzurechnen:
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNG000400000)
 
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000500000)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine
 Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
@@ -229,6 +234,7 @@ Arbeitsprobe.
 
 
 ### § 3 Meisterprüfungsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000600000)
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten
 Arbeiten anzufertigen:
@@ -271,6 +277,7 @@ sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000700000)
 
 (1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten
 auszuführen:
@@ -310,6 +317,7 @@ unzureichend nachgewiesen werden konnten.
 
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE000800000)
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern
 nachzuweisen:
@@ -391,10 +399,12 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNG000900000)
 
 
 
 ### § 6 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE001001116)
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
 worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
@@ -403,6 +413,7 @@ Meisterprüfungsausschuss fortzuführen.
 
 
 ### § 7 Weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE001102128)
 
 (1) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
@@ -413,6 +424,7 @@ unberührt.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/estrmstrv/BJNR021400995.html#BJNR021400995BJNE001200000)
 
 Diese Verordnung tritt am 1. Mai 1995 in Kraft.
 

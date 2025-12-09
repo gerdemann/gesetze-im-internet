@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html#BJNR005470974BJNE000100306)
 
 (1) Auf die gewissenhafte Erfüllung seiner Obliegenheiten soll
 verpflichtet werden, wer, ohne Amtsträger (§ 11 Abs. 1 Nr. 2 des
@@ -65,6 +66,7 @@ ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html#BJNR005470974BJNE000200306)
 
 (1) Wer, ohne Amtsträger zu sein, auf Grund des § 1 der Verordnung
 gegen Bestechung und Geheimnisverrat nichtbeamteter Personen in der
@@ -88,6 +90,7 @@ Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html#BJNR005470974BJNE000300306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -95,6 +98,7 @@ im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/verpflg/BJNR005470974.html#BJNR005470974BJNE000400306)
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft. § 1 Abs. 4 tritt am
 Tage nach der Verkündung in Kraft.

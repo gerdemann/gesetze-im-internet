@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000200000)
 
 (1) Diese Verordnung regelt die Ausschreibung der Zuschlagszahlungen
 und die Ausschreibung der Höhe der Zuschlagszahlungen für KWK-Strom
@@ -45,6 +46,7 @@ teilnehmen.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000303123)
 
 Im Sinn dieser Verordnung ist
 
@@ -195,6 +197,7 @@ Im Sinn dieser Verordnung ist
 
 
 ## § 3 Gebotstermine und Ausschreibungsvolumen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000404119)
 
 (1) Das Ausschreibungsvolumen der jährlichen Gebotstermine am 1. Juni
 und am 1. Dezember beträgt jeweils 100 Megawatt elektrische KWK-
@@ -301,6 +304,7 @@ auszulösen.
 
 
 ## § 4 Elektronisches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000501128)
 
 Die Ausschreibungen können von der ausschreibenden Stelle ganz oder
 teilweise auf ein elektronisches Verfahren umgestellt werden; dabei
@@ -313,6 +317,7 @@ Ausschreibung auf das elektronische Verfahren hinweisen.
 
 
 ## § 5 Höchstwert
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000600000)
 
 Der Höchstwert in den Ausschreibungen beträgt für
 
@@ -326,6 +331,7 @@ Der Höchstwert in den Ausschreibungen beträgt für
 
 
 ## § 6 Ausschreibende Stelle und ausländische Stelle
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000700000)
 
 (1) Die ausschreibende Stelle ist
 
@@ -351,6 +357,7 @@ Aufgaben, die nach dieser Verordnung von der ausländischen Stelle
 
 
 ## § 7 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000800000)
 
 (1) Die ausschreibende Stelle macht die Ausschreibungen für KWK-
 Anlagen und für innovative KWK-Systeme frühestens acht Wochen und
@@ -422,6 +429,7 @@ ist.
 
 
 ## § 8 Anforderungen an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE000904128)
 
 (1) Gebote müssen folgende Angaben enthalten:
 
@@ -611,6 +619,7 @@ nach Absatz 1 Nummer 12 abzugebenden Eigenerklärungen.
 
 
 ## § 9 Rücknahme und Bindungswirkung von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001001128)
 
 (1) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin
 zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der
@@ -625,6 +634,7 @@ Zuschlag erhalten hat.
 
 
 ## § 10 Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001103128)
 
 (1) Bieter müssen bei der ausschreibenden Stelle für ihre Gebote bis
 zum jeweiligen Gebotstermin eine Sicherheit leisten. Durch die
@@ -700,6 +710,7 @@ Pönalzahlungen benötigt werden, an den Bieter zurück, wenn
 
 
 ## § 11 Zuschlagsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001200000)
 
 (1) Die ausschreibende Stelle führt bei jeder Ausschreibung das
 Zuschlagsverfahren nach den Absätzen 2 bis 4 durch.
@@ -760,6 +771,7 @@ diesem Zweck muss die ausschreibende Stelle Gebote ausschließen,
 
 
 ## § 12 Ausschluss von Geboten
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001303119)
 
 (1) Die ausschreibende Stelle schließt Gebote von dem
 Zuschlagsverfahren aus, wenn
@@ -856,6 +868,7 @@ soll und hierfür Gebote abgegeben werden.
 
 
 ## § 13 Ausschluss von Bietern
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001401119)
 
 (1) Die ausschreibende Stelle muss Bieter und deren Gebote von dem
 Zuschlagsverfahren ausschließen, wenn
@@ -910,6 +923,7 @@ Unterlagen zu seiner Beteiligungsstruktur und seinen Geschäftsfeldern.
 
 
 ## § 14 Zuordnung der Zuschläge und Sicherheiten bei gemeinsamen grenzüberschreitenden Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001500000)
 
 (1) Bei einer gemeinsamen grenzüberschreitenden Ausschreibung ordnet
 die ausschreibende Stelle jedes bezuschlagte Gebot entweder der
@@ -938,6 +952,7 @@ gemeinsamen grenzüberschreitenden Ausschreibung nach Absatz 1 Satz 1
 
 
 ## § 15 Bekanntgabe der Zuschläge
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001600000)
 
 (1) Die ausschreibende Stelle gibt die Zuschläge mit den folgenden
 Angaben auf ihrer Internetseite getrennt für die Ausschreibungen für
@@ -992,6 +1007,7 @@ nach § 8 Absatz 1 Nummer 12 Buchstabe c.
 
 
 ## § 16 Entwertung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001702119)
 
 (1) Die ausschreibende Stelle entwertet einen Zuschlag,
 
@@ -1047,6 +1063,7 @@ Kopplungsgesetzes eine erneute Zulassung erteilt wird.
 
 
 ## § 17 Zuordnung und Übertragung von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001800000)
 
 (1) Zuschläge sind dem Bieter und der im Gebot angegebenen KWK-Anlage
 oder dem im Gebot angegebenen innovativen KWK-System an dem im Gebot
@@ -1071,6 +1088,7 @@ Systeme und andere Standorte ist nicht zulässig.
 
 
 ## § 18 Erlöschen und Rückgabe von Zuschlägen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE001901119)
 
 (1) Zuschläge erlöschen 54 Monate nach ihrer Bekanntgabe nach § 15
 Absatz 2, soweit nicht die KWK-Anlage oder das innovative KWK-System
@@ -1109,6 +1127,7 @@ zurückgegeben, ist
 
 
 ## § 19 Höhe, Dauer und Voraussetzungen des Anspruchs auf Zuschlagszahlung
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002007128)
 
 (1) Die Zuschlagszahlung wird für KWK-Strom in Höhe des
 Zuschlagswertes gezahlt.
@@ -1242,6 +1261,7 @@ Zuschlagszahlung nach Absatz 2 gezahlt.
 
 
 ## § 20 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002103128)
 
 (1) Bieter, die einen Zuschlag nach § 11 erhalten haben, der nicht
 vollständig entwertet worden ist, sind bis zur Zulassung der KWK-
@@ -1360,6 +1380,7 @@ und den Netzbetreiber über entsprechende Änderungen informieren.
 
 
 ## § 21 Pönalen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002203128)
 
 (1) Bieter müssen an den Übertragungsnetzbetreiber eine Pönale
 leisten, wenn
@@ -1462,6 +1483,7 @@ Stelle unverzüglich mitteilen.
 
 
 ## § 22 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002300000)
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine
 Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten,
@@ -1482,6 +1504,7 @@ eines Zuschlags durch Dritte ist nicht zulässig.
 
 
 ## § 23 Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002400000)
 
 Die ausschreibende Stelle darf Festlegungen nach § 29 Absatz 1 des
 Energiewirtschaftsgesetzes zu den Ausschreibungen für KWK-Anlagen und
@@ -1528,6 +1551,7 @@ zu den Ausschreibungen für innovative KWK-Systeme treffen:
 
 
 ## § 24 Zulassung von innovativen KWK-Systemen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002501123)
 
 (1) Voraussetzung für den Anspruch auf Zuschlagszahlung eines
 innovativen KWK-Systems ist die Zulassung durch das Bundesamt für
@@ -1627,6 +1651,7 @@ entsprechend anzuwenden.
 
 
 ## § 25 Geöffnete ausländische Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002600000)
 
 Für Strom aus KWK-Anlagen im Bundesgebiet darf eine Zahlung nach dem
 geöffneten Fördersystem eines Kooperationsstaats nur in Anspruch
@@ -1638,6 +1663,7 @@ nur nach Maßgabe der völkerrechtlichen Vereinbarung erfolgen.
 
 
 ## § 26 Anwendung des Kraft-Wärme-Kopplungsgesetzes im Kooperationsstaat
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002703119)
 
 (1) Die Bestimmungen des Kraft-Wärme-Kopplungsgesetzes und dieser
 Verordnung sind auf Anlagen im Staatsgebiet eines Kooperationsstaats
@@ -1671,6 +1697,7 @@ direkten Anschluss an ein Netz im Bundesgebiet verfügen, gegenüber dem
 
 
 ## § 27 Völkerrechtliche Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002805119)
 
 (1) Eine Zuschlagszahlung für KWK-Anlagen im Staatsgebiet eines
 anderen Mitgliedstaats der Europäischen Union darf nur mit der
@@ -1883,6 +1910,7 @@ zulassen, wenn
 
 
 ## § 28 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE002902119)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz stellt im
 Jahr 2022 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-
@@ -1900,6 +1928,7 @@ Umfang, höchstens um 100 Megawatt pro Kalenderjahr, erhöhen.
 
 
 ## § 29 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html#BJNR316710017BJNE003001119)
 
 Für nicht erloschene Zuschläge, die in den Ausschreibungen vor dem 1.
 März 2020 erteilt wurden, verlängern sich die Fristen in § 18 Absatz 1

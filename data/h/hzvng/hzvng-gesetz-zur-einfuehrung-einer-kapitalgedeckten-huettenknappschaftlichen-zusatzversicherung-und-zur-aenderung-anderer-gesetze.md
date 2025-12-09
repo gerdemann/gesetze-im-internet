@@ -19,17 +19,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000100305)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000300305)
 
 -
 
 
 ## Art 2 Anpassung der Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland zum 1. Juli 2002
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000400305)
 
 Zum 1. Juli 2002 werden die Zusatzrenten der Hüttenknappschaftlichen
 Zusatzversicherung im Saarland um den Vomhundertsatz angepasst, um den
@@ -40,10 +43,12 @@ bekannt.
 
 
 ## (XXXX) Art 3 bis 23
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000500305)
 
 
 
 ## Art 24 Neubekanntmachung des Vierten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000600305)
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Vierten Buches Sozialgesetzbuch in der vom 1. Juli 2002 an
@@ -51,6 +56,7 @@ geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 25 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hzvng/BJNR216700002.html#BJNR216700002BJNE000700305)
 
 (1) Dieses Gesetz tritt am 1. Juli 2002 in Kraft, soweit in den
 folgenden Absätzen nicht etwas anderes bestimmt ist.

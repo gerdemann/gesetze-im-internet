@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kvarbn_bkg/BJNR208870927.html#BJNR208870927BJNE000100314)
 
 Für die Durchführung der Übereinkommen sind die
 Reichsversicherungsordnung und das Reichsknappschaftsgesetz maßgebend.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kvarbn_bkg/BJNR208870927.html#BJNR208870927BJNE000200314)
 
 Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tag in Kraft.
 

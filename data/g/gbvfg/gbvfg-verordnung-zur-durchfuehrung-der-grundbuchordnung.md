@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt I - Das Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000102307)
 
 
 
 ### Unterabschnitt 1 - Grundbuchbezirke
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000202307)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE001802307)
 
 (1) Grundbuchbezirke sind die Gemeindebezirke. Soweit mehrere
 Gemeinden zu einem Verwaltungsbezirk zusammengefaßt sind
@@ -46,10 +49,12 @@ zerlegt, so können die bisherigen Grundbuchbezirke beibehalten werden.
 
 
 ### Unterabschnitt 2 - Die äußere Form des Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000302307)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE001901307)
 
 Die Grundbücher werden in festen Bänden oder nach näherer Anordnung
 der Landesjustizverwaltungen in Bänden oder Einzelheften mit
@@ -61,6 +66,7 @@ die Vorschriften, die Grundbuchbände voraussetzen, nicht anzuwenden.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002001307)
 
 (1) Sämtliche Grundbuchblätter desselben Grundbuchbezirks erhalten
 fortlaufende Nummern. Besteht das Grundbuch aus mehreren Bänden, so
@@ -82,16 +88,19 @@ Nummer begonnen werden.
 
 
 ## Abschnitt II - Das Grundbuchblatt
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000402307)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002101307)
 
 Jedes Grundbuchblatt besteht aus der Aufschrift, dem
 Bestandsverzeichnis und drei Abteilungen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002201307)
 
 In der Aufschrift sind das Amtsgericht, der Grundbuchbezirk und die
 Nummer des Bandes und des Blattes anzugeben. In den Fällen des § 1
@@ -100,6 +109,7 @@ Bezirks hinzuweisen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002304311)
 
 (1) In dem Bestandsverzeichnis ist die Spalte 1 für die Angabe der
 laufenden Nummer des Grundstücks bestimmt.
@@ -230,6 +240,7 @@ zu verweisen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002401307)
 
 (1) Vermerke über Rechte, die dem jeweiligen Eigentümer eines auf dem
 Blatt verzeichneten Grundstücks zustehen, sind in den Spalten 1, 3 und
@@ -256,6 +267,7 @@ verweisen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002502307)
 
 Für die Eintragung eines Miteigentumsanteils nach § 3 Abs. 5 der
 Grundbuchordnung gilt folgendes:
@@ -278,6 +290,7 @@ c)  für die Ausfüllung der Spalten 5 bis 8 gilt § 6 Abs. 6 bis 8
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002604311)
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -320,6 +333,7 @@ vorzunehmen.
 [^F782768_01_BJNR706370935BJNE002604311]: 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002703307)
 
 (1) In der zweiten Abteilung werden eingetragen:
 
@@ -369,6 +383,7 @@ der Spalte 1 vermerkt ist.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002802307)
 
 (1) In der dritten Abteilung werden Hypotheken, Grundschulden und
 Rentenschulden einschließlich der sich auf diese Rechte beziehenden
@@ -402,6 +417,7 @@ Veränderung oder Löschung betroffene Betrag des Rechts anzugeben.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE002901307)
 
 (1) Eine Vormerkung wird eingetragen:
 
@@ -427,10 +443,12 @@ entsprechend anzuwenden.
 
 
 ## Abschnitt III - Die Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000502307)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003004311)
 
 (1) Bei der Vereinigung und der Zuschreibung von Grundstücken (§ 6
 Abs. 6 Buchstabe c) sind die sich auf die beteiligen Grundstücke
@@ -489,6 +507,7 @@ Ausscheidens eines Grundstücks oder Grundstücksteils aus dem Grundbuch
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003101307)
 
 (1) Wird ein Vermerk über eine Veränderung eines Rechts, das dem
 jeweiligen Eigentümer eines auf dem Blatt verzeichneten Grundstücks
@@ -504,6 +523,7 @@ dieses Recht beziehen, rot zu unterstreichen.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003206125)
 
 (1) Zur Bezeichnung des Berechtigten sind im Grundbuch anzugeben:
 
@@ -537,6 +557,7 @@ werden, durch welche Behörde der Fiskus vertreten wird.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003301307)
 
 Bei der Eintragung eines neuen Eigentümers sind die Vermerke in den
 Spalten 1 bis 4 der ersten Abteilung, die sich auf den bisher
@@ -544,6 +565,7 @@ eingetragenen Eigentümer beziehen, rot zu unterstreichen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003404311)
 
 (1) Bei Reallasten, Hypotheken, Grundschulden und Rentenschulden sind
 die in das Grundbuch einzutragenden Geldbeträge (§ 1107, § 1115 Abs.
@@ -592,18 +614,21 @@ einen Teilbetrag (Absatz 4), so ist der gelöschte Teil auch in Spalte
 [^F782768_02_BJNR706370935BJNE003404311]: 
 
 ### § 17a
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014101307)
 
 § 17 Abs. 2 Satz 3 ist auch bei Löschungen in dem Bestandsverzeichnis
 oder in der ersten Abteilung sinngemäß anzuwenden.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003501307)
 
 Angaben über den Rang eines eingetragenen Rechts sind bei allen
 beteiligten Rechten zu vermerken.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003601307)
 
 (1) In den Fällen des § 12 Abs. 1 Buchstabe b und c ist bei Eintragung
 der Vormerkung die rechte Hälfte der Spalte für die endgültige
@@ -619,6 +644,7 @@ entsprechend anzuwenden.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003701307)
 
 Sind bei einer Eintragung mehrere Spalten desselben Abschnitts oder
 derselben Abteilung auszufüllen, so gelten die sämtlichen Vermerke im
@@ -626,6 +652,7 @@ Sinne des § 44 der Grundbuchordnung nur als eine Eintragung.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003803307)
 
 (1) Eintragungen sind deutlich und ohne Abkürzungen herzustellen. In
 dem Grundbuch darf nichts radiert und nichts unleserlich gemacht
@@ -667,6 +694,7 @@ jeweils gesondert vorzunehmen.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE003901307)
 
 Die nähere Einrichtung und die Ausfüllung des Grundbuchblatts ergibt
 sich aus dem in Anlage 1 beigefügten Muster. Die darin befindlichen
@@ -674,15 +702,18 @@ Probeeintragungen sind als Beispiele nicht Teil dieser Verfügung.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004002311)
 
 -
 
 
 ## Abschnitt IV - Die Grundakten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000602307)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004101307)
 
 (1) Die Urkunden und Abschriften, die nach § 10 der Grundbuchordnung
 von dem Grundbuchamt aufzubewahren sind, werden zu den Grundakten
@@ -709,6 +740,7 @@ dem Grundbuchblatt zu sorgen.
 
 
 ### § 24a
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014303125)
 
 Urkunden oder Abschriften, die nach § 10 der Grundbuchordnung bei den
 Grundakten aufzubewahren sind, sollen tunlichst doppelseitig
@@ -721,10 +753,12 @@ heraus.
 
 
 ## Abschnitt V - Der Zuständigkeitswechsel
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000702307)
 
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004202311)
 
 (1) Geht die Zuständigkeit für die Führung eines Grundbuchblatts auf
 ein anderes Grundbuchamt über, so ist das bisherige Blatt zu
@@ -779,6 +813,7 @@ Mitteilung nachgetragen.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004302160)
 
 (1) Geht bei einer Bezirksänderung die Führung des Grundbuchs in
 Ansehung aller Blätter eines Grundbuchbandes auf ein anderes
@@ -818,6 +853,7 @@ Vermerk zurückzubehalten.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004401307)
 
 Die Vorschriften des § 25 und des § 26 Abs. 1, 2 und 3 sind
 entsprechend anzuwenden, wenn ein Grundstück in einen anderen
@@ -825,6 +861,7 @@ Grundbuchbezirk desselben Grundbuchamts übergeht.
 
 
 ### § 27a
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004501307)
 
 (1) Geht die Zuständigkeit für die Führung eines oder mehrerer
 Grundbuchblätter auf ein anderes Grundbuchamt über und wird bei beiden
@@ -843,10 +880,12 @@ Abs. 3, 4, 6 und 7 zu verfahren. Im Falle des § 27 ist nach § 25 Abs.
 
 
 ## Abschnitt VI. - Die Umschreibung von Grundbüchern
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000802307)
 
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004602311)
 
 Ein Grundbuchblatt ist umzuschreiben, wenn es unübersichtlich geworden
 ist. Es kann umgeschrieben werden, wenn es durch Umschreibung
@@ -854,6 +893,7 @@ wesentlich vereinfacht wird.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004703311)
 
 Vor der Umschreibung hat die für die Führung des Grundbuchs zuständige
 Person Eintragungen, die von Amts wegen vorzunehmen sind, zu bewirken
@@ -867,6 +907,7 @@ die Vereinigung oder Zuschreibung von Grundstücken zu belehren.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004804311)
 
 (1) Für das neue Blatt gelten die folgenden Bestimmungen:
 
@@ -945,6 +986,7 @@ Blattes anzugeben.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE004901307)
 
 Die Durchführung der Umschreibung im einzelnen ergibt sich aus den in
 den Anlagen 2a und 2b beigefügten Mustern. § 22 Satz 2 gilt
@@ -952,6 +994,7 @@ entsprechend.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005002307)
 
 (1) Die für das geschlossene Grundbuchblatt gehaltenen Grundakten
 werden unter entsprechender Änderung ihrer Bezeichnung für das neue
@@ -971,6 +1014,7 @@ vermerken.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005102307)
 
 (1) Sind nur das Bestandsverzeichnis oder einzelne Abteilungen des
 Grundbuchblatts unübersichtlich geworden, so können sie für sich
@@ -1010,10 +1054,12 @@ unverändert.
 
 
 ## Abschnitt VII - Die Schließung des Grundbuchblatts
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG000902307)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005202307)
 
 Außer den Fällen des § 25 Abs. 1, § 26 Abs. 2, § 27, § 27a Abs. 2 und
 § 30 Abs. 2 wird das Grundbuchblatt geschlossen, wenn:
@@ -1034,6 +1080,7 @@ c)  das Grundstück untergegangen ist.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005301307)
 
 (1) Das Grundbuchblatt wird ferner geschlossen, wenn das Grundstück
 sich in der Örtlichkeit nicht nachweisen läßt.
@@ -1052,6 +1099,7 @@ Art der Bekanntmachung bestimmt das Grundbuchamt.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005401307)
 
 Das Grundbuchblatt wird geschlossen, indem
 
@@ -1067,16 +1115,19 @@ b)  ein Schließungsvermerk, in dem der Grund der Schließung anzugeben ist,
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005502311)
 
 Die Nummern geschlossener Grundbuchblätter dürfen für neue Blätter
 desselben Grundbuchbezirks nicht wieder verwendet werden.
 
 
 ## Abschnitt VIII - Die Beseitigung einer Doppelbuchung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001002307)
 
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005603307)
 
 (1) Ist ein Grundstück für sich allein auf mehreren Grundbuchblättern
 eingetragen, so gilt folgendes:
@@ -1132,10 +1183,12 @@ Blättern abgeschrieben.
 
 
 ## Abschnitt IX - Die Bekanntmachung der Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001102307)
 
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005703311)
 
 Die Umschreibung eines Grundbuchblatts ist dem Eigentümer, den
 eingetragenen dinglich Berechtigten und der Katasterbehörde
@@ -1155,6 +1208,7 @@ Grundbuchamt alsbald einzureichen.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005802311)
 
 (1) Geht die Zuständigkeit für die Führung des Grundbuchblatts infolge
 einer Bezirksänderung oder auf sonstige Weise auf ein anderes
@@ -1173,11 +1227,13 @@ Grundbuchbezirk desselben Grundbuchamts übergeht (§ 27).
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE005902307)
 
 (weggefallen)
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006003160)
 
 Erforderliche maschinell erstellte Zwischenverfügungen und die nach
 den §§ 55 bis 55b der Grundbuchordnung vorzunehmenden Mitteilungen
@@ -1187,10 +1243,12 @@ auch ohne Unterschrift wirksam" angebracht sein.
 
 
 ## Abschnitt X - Grundbucheinsicht und -abschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001202307)
 
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006102307)
 
 (1) Beauftragte inländischer öffentlicher Behörden sind befugt, das
 Grundbuch einzusehen und eine Abschrift zu verlangen, ohne daß es der
@@ -1206,6 +1264,7 @@ Zustimmung des eingetragenen Eigentümers dargelegt wird.
 
 
 ### § 43a Grundbucheinsicht für Windenergieanlagen und Solaranlagen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016800125)
 
 (1) Bei Unternehmen, die Windenergieanlagen an Land oder Solaranlagen
 im Sinne des § 3 Nummer 41a des Erneuerbare-Energien-Gesetzes mit
@@ -1240,6 +1299,7 @@ Grundstück belegen ist
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006202311)
 
 (1) Grundbuchabschriften sind auf Antrag zu beglaubigen.
 
@@ -1248,6 +1308,7 @@ gefertigt sind. Der Vermerk ist jedoch nicht zu unterzeichnen.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006302311)
 
 (1) Die Erteilung einer beglaubigten Abschrift eines Teils des
 Grundbuchblatts ist zulässig.
@@ -1264,6 +1325,7 @@ verpflichtet.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006402311)
 
 (1) Die Einsicht von Grundakten ist jedem gestattet, der ein
 berechtigtes Interesse darlegt, auch soweit es sich nicht um die in §
@@ -1278,6 +1340,7 @@ Antragsteller auch elektronisch übermittelt werden.
 
 
 ### § 46a
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016204125)
 
 (1) Das Protokoll, das nach § 12 Absatz 4 der Grundbuchordnung über
 Einsichten in das Grundbuch zu führen ist, muss enthalten:
@@ -1365,10 +1428,12 @@ personenbezogene Daten bekanntgegeben werden.
 
 
 ## Abschnitt XI - Hypotheken-, Grundschuld- und Rentenschuldbriefe
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001302307)
 
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006503307)
 
 Die Hypothekenbriefe sind mit einer Überschrift zu versehen, welche
 die Worte "Deutscher Hypothekenbrief" und die Bezeichnung der Hypothek
@@ -1379,6 +1444,7 @@ wiederholen.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006601307)
 
 (1) Wird eine Hypothek im Grundbuch teilweise gelöscht, so ist auf dem
 Brief der Betrag, für den die Hypothek noch besteht, neben der in der
@@ -1392,6 +1458,7 @@ zu machen, auf den sich der Brief noch bezieht.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006701307)
 
 Vermerke über Eintragungen, die nachträglich bei der Hypothek
 erfolgen, sowie Vermerke über Änderungen der im § 57 der
@@ -1402,6 +1469,7 @@ besonderen Bogen gesetzt.
 
 
 ### § 49a
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010501307)
 
 Wird der Grundpfandrechtsbrief nicht ausgehändigt, soll er durch die
 Post mit Zustellungsurkunde oder durch Einschreiben versandt werden.
@@ -1411,6 +1479,7 @@ Anweisungen oder Erlasse bleiben unberührt.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006801307)
 
 Die in § 58 Abs. 1 und § 59 Abs. 2 der Grundbuchordnung sowie in § 49
 dieser Verfügung vorgeschriebene Verbindung erfolgt durch Schnur und
@@ -1418,6 +1487,7 @@ Siegel.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE006901307)
 
 Die Vorschriften der §§ 47 bis 50 sind auf Grundschuld- und
 Rentenschuldbriefe entsprechend anzuwenden. In der Überschrift eines
@@ -1426,6 +1496,7 @@ der Betrag der Ablösungssumme, anzugeben.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007002307)
 
 (1) Für die Hypotheken-, Grundschuld- und Rentenschuldbriefe dienen
 die Anlagen 3 bis 8 als Muster.
@@ -1437,6 +1508,7 @@ Landesjustizverwaltung zu verwenden.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007101307)
 
 (1) Ist nach dem Gesetz ein Hypotheken-, Grundschuld- oder
 Rentenschuldbrief unbrauchbar zu machen, so wird, nachdem die bei dem
@@ -1455,10 +1527,12 @@ aufzubewahren ist.
 
 
 ## Abschnitt XII - Das Erbbaugrundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001402307)
 
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007202160)
 
 Auf das für ein Erbbaurecht anzulegende besondere Grundbuchblatt (§ 14
 Abs. 1 des Erbbaurechtsgesetzes sind die vorstehenden Vorschriften
@@ -1467,6 +1541,7 @@ Abweichendes ergibt.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007301307)
 
 (1) Das Erbbaugrundbuchblatt erhält die nächste fortlaufende Nummer
 des Grundbuchs, in dem das belastete Grundstück verzeichnet ist.
@@ -1476,6 +1551,7 @@ des Grundbuchs, in dem das belastete Grundstück verzeichnet ist.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007402160)
 
 (1) Im Bestandsverzeichnis sind in dem durch die Spalten 2 bis 4
 gebildeten Raum einzutragen:
@@ -1521,6 +1597,7 @@ teilweise seine Bedeutung, so ist er insoweit rot zu unterstreichen.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007502307)
 
 (1) Die erste Abteilung dient zur Eintragung des Erbbauberechtigten.
 
@@ -1530,6 +1607,7 @@ geltenden Vorschriften (Abschnitte II, III) entsprechend anzuwenden.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007601307)
 
 Die nähere Einrichtung und die Ausfüllung des für ein Erbbaurecht
 anzulegenden besonderen Grundbuchblatts ergibt sich aus dem in der
@@ -1537,6 +1615,7 @@ Anlage 9 beigefügten Muster. § 22 Satz 2 ist entsprechend anzuwenden.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007701307)
 
 Bei der Bildung von Hypotheken-, Grundschuld- und Rentenschuldbriefen
 ist kenntlich zu machen, daß der belastete Gegenstand ein Erbbaurecht
@@ -1544,6 +1623,7 @@ ist.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE007801307)
 
 Die vorstehenden Vorschriften sind auf die nach
 § 8 der Grundbuchordnung anzulegenden Grundbuchblätter mit folgenden
@@ -1561,14 +1641,17 @@ b)  bei der Eintragung des Inhalts des Erbbaurechts ist die Bezugnahme auf
 
 
 ## Abschnitt XIII - Vorschriften über das maschinell geführte Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001705307)
 
 
 
 ### Unterabschnitt 1 - Das maschinell geführte Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001804307)
 
 
 
 #### § 61 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010603307)
 
 Für das maschinell geführte Grundbuch und das maschinell geführte
 Erbbaugrundbuch gelten die Bestimmungen dieser Verordnung und, wenn es
@@ -1579,6 +1662,7 @@ bestimmt wird.
 
 
 #### § 62 Begriff des maschinell geführten Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010705311)
 
 (1) Bei dem maschinell geführten Grundbuch ist der in den dafür
 bestimmten Datenspeicher aufgenommene und auf Dauer unverändert in
@@ -1604,6 +1688,7 @@ Grundbucheintragungen auch nach der Übertragung erhalten bleiben. §
 
 
 #### § 63 Gestaltung des maschinell geführten Grundbuchs; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010804311)
 
 Der Inhalt des maschinell geführten Grundbuchs muß auf dem Bildschirm
 und in Ausdrucken so sichtbar gemacht werden können, wie es den durch
@@ -1619,6 +1704,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 #### § 64 Anforderungen an Anlagen und Programme
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010904307)
 
 (1) Für das maschinell geführte Grundbuch dürfen nur Anlagen und
 Programme verwendet werden, die den bestehenden inländischen oder
@@ -1674,6 +1760,7 @@ Papierform unterstützen.
 
 
 #### § 65 Sicherung der Anlagen und Programme
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011004307)
 
 (1) Die Datenverarbeitungsanlage ist so aufzustellen, daß sie keinen
 schädlichen Witterungseinwirkungen ausgesetzt ist, kein Unbefugter
@@ -1691,6 +1778,7 @@ Eindringen unbefugter Personen oder Stellen in das Verarbeitungssystem
 
 
 #### § 66 Sicherung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011103307)
 
 (1) Das Datenverarbeitungssystem soll so angelegt werden, daß die
 eingegebenen Eintragungen auch dann gesichert sind, wenn sie noch
@@ -1710,10 +1798,12 @@ Abs. 1 sinngemäß.
 
 
 ### Unterabschnitt 2 - Anlegung des maschinell geführten Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001905307)
 
 
 
 #### § 67 Festlegung der Anlegungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011203307)
 
 Das Grundbuchamt entscheidet nach pflichtgemäßen Ermessen, ob es das
 maschinell geführte Grundbuch durch Umschreibung nach § 68, durch
@@ -1731,6 +1821,7 @@ Abschreibevermerk nach § 71 ersetzt.
 
 
 #### § 68 Anlegung des maschinell geführten Grundbuchs durch Umschreibung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011306311)
 
 (1) Ein bisher in Papierform geführtes Grundbuchblatt kann auch
 umgeschrieben werden, wenn es maschinell geführt werden soll. Die
@@ -1750,6 +1841,7 @@ und 3 und § 33 finden keine Anwendung.
 
 
 #### § 69 Anlegung des maschinell geführten Grundbuchs durch Neufassung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011406311)
 
 (1) Das maschinell geführte Grundbuch kann durch Neufassung angelegt
 werden. Für die Neufassung gilt § 68, soweit hier nicht etwas
@@ -1789,6 +1881,7 @@ Probeeintragungen sind als Beispiele nicht Teil dieser Verordnung.
 
 
 #### § 70 Anlegung des maschinell geführten Grundbuchs durch Umstellung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011510311)
 
 (1) Die Anlegung eines maschinell geführten Grundbuchs kann auch durch
 Umstellung erfolgen. Dazu ist der Inhalt des bisherigen Blattes
@@ -1817,6 +1910,7 @@ Schließung hingewiesen wird.
 
 
 #### § 71 Freigabe des maschinell geführten Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011605307)
 
 Das nach den §§ 68 bis 70 angelegte maschinell geführte Grundbuch
 tritt mit seiner Freigabe an die Stelle des bisherigen
@@ -1994,6 +2088,7 @@ einzutragen:
 
 
 #### § 71a Anlegung des Datenbankgrundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016300311)
 
 (1) Die Anlegung des Datenbankgrundbuchs erfolgt durch Neufassung. Die
 §§ 69 und 71 gelten sinngemäß, soweit nachfolgend nichts Abweichendes
@@ -2055,6 +2150,7 @@ gefasst, ist dies bei den betroffenen Eintragungen zu vermerken.
 
 
 #### § 72 Umschreibung, Neufassung und Schließung des maschinell geführten Grundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011706311)
 
 (1) Für die Umschreibung, Neufassung und Schließung des maschinell
 geführten Grundbuchs gelten die Vorschriften der Abschnitte VI und VII
@@ -2081,6 +2177,7 @@ soll weiterhin wiedergabefähig oder lesbar bleiben.
 
 
 #### § 73 Grundakten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011804307)
 
 Auch nach Anlegung des maschinell geführten Grundbuchs sind die
 Grundakten gemäß § 24 Abs. 1 bis 3 zu führen. Das bisher geführte
@@ -2091,10 +2188,12 @@ entsprechend.
 
 
 ### Unterabschnitt 3 - Eintragungen in das maschinell geführte Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002004307)
 
 
 
 #### § 74 Veranlassung der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE011904311)
 
 (1) Die Eintragung in das maschinell geführte Grundbuch wird,
 vorbehaltlich der Fälle des § 127 Absatz 1 Satz 1 Nummer 1 der
@@ -2115,6 +2214,7 @@ Absatz 1) ist zu verifizieren.
 
 
 #### § 75 Elektronische Unterschrift
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012005307)
 
 Bei dem maschinell geführten Grundbuch soll eine Eintragung nur
 möglich sein, wenn die für die Führung des Grundbuchs zuständige
@@ -2130,12 +2230,14 @@ durch die zuständige Stelle überprüft werden können.
 
 
 #### § 76 Äußere Form der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012105311)
 
 Die äußere Form der Wiedergabe einer Eintragung bestimmt sich nach dem
 Abschnitt III. § 63 Satz 3 bleibt unberührt.
 
 
 #### § 76a Eintragungen in das Datenbankgrundbuch; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016400311)
 
 (1) Wird das Grundbuch als Datenbankgrundbuch geführt, gelten bei
 Eintragungen in das Grundbuch folgende Besonderheiten:
@@ -2182,10 +2284,12 @@ Vermerk zugrunde liegt.
 
 
 ### Unterabschnitt 4 - Einsicht in das maschinell geführte Grundbuch und Abschriften hieraus
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002104307)
 
 
 
 #### § 77 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012204307)
 
 Für die Einsicht in das maschinell geführte Grundbuch und die
 Erteilung von Abschriften hieraus gelten die Vorschriften des
@@ -2194,6 +2298,7 @@ bestimmt ist.
 
 
 #### § 78 Ausdrucke aus dem maschinell geführten Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012306125)
 
 (1) Der Ausdruck aus dem maschinell geführten Grundbuch ist mit der
 Aufschrift "Ausdruck" und dem Hinweis auf das Datum des Abrufs der
@@ -2217,6 +2322,7 @@ werden, welchen Eintragungsstand er wiedergibt.
 
 
 #### § 79 Einsicht
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012405307)
 
 (1) Die Einsicht erfolgt durch Wiedergabe des betreffenden
 Grundbuchblatts auf einem Bildschirm. Der Einsicht nehmenden Person
@@ -2244,10 +2350,12 @@ mit ein.
 
 
 ### Unterabschnitt 5 - Automatisierter Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002204307)
 
 
 
 #### § 80 Abruf von Daten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012509125)
 
 (1) Die Gewährung des Abrufs von Daten im automatisierten Verfahren
 nach § 133 der Grundbuchordnung berechtigt insbesondere zur
@@ -2271,6 +2379,7 @@ Grundbuchblatt bereitgestellt werden.
 
 
 #### § 81 Genehmigungsverfahren, Einrichtungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012603307)
 
 (1) Die Einrichtung eines automatisierten Abrufverfahrens bedarf bei
 Gerichten, Behörden und der Staatsbank Berlin einer
@@ -2300,6 +2409,7 @@ sind den übrigen Landesjustizverwaltungen unverzüglich mitzuteilen.
 
 
 #### § 82 Einrichtung der Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012705307)
 
 (1) Wird ein Abrufverfahren eingerichtet, so ist systemtechnisch
 sicherzustellen, daß Abrufe nur unter Verwendung eines geeigneten
@@ -2322,6 +2432,7 @@ die Abrufberechtigung verbunden werden.
 
 
 #### § 83 Abrufprotokollierung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012810125)
 
 (1) Die Rechtmäßigkeit der Abrufe durch einzelne Abrufberechtigte
 prüft das Grundbuchamt nur, wenn es dazu nach den konkreten Umständen
@@ -2388,6 +2499,7 @@ für weitere bereits eingeleitete Prüfungen benötigt werden.
 
 
 #### § 84 Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE012903307)
 
 Die berechtigte Person oder Stelle, die einer allgemeinen Aufsicht
 nicht unterliegt oder die zum eingeschränkten Abrufverfahren
@@ -2398,6 +2510,7 @@ der Grundbuchordnung bleibt unberührt.
 
 
 #### § 85 Erteilung von Grundbuchabdrucken durch Notare
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013008311)
 
 Der von dem Notar erteilte Grundbuchabdruck (§ 133a Absatz 1 Satz 2
 der Grundbuchordnung) ist mit der Aufschrift „Abdruck“ und dem Hinweis
@@ -2410,6 +2523,7 @@ elektronisch übermittelt werden.
 
 
 #### § 85a Protokollierung der Mitteilung des Grundbuchinhalts durch den Notar
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016100311)
 
 (1) Das Protokoll, das nach § 133a Absatz 3 Satz 1 der
 Grundbuchordnung über die Mitteilung des Grundbuchinhalts durch den
@@ -2439,10 +2553,12 @@ und Absatz 3 gilt entsprechend.
 
 
 ### Unterabschnitt 6 - Zusammenarbeit mit den katasterführenden Stellen und Versorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002305307)
 
 
 
 #### § 86 Zusammenarbeit mit den katasterführenden Stellen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013106311)
 
 (1) Soweit das amtliche Verzeichnis (§ 2 Abs. 2 der Grundbuchordnung)
 maschinell geführt wird und durch Rechtsverordnung nach § 127 Absatz 1
@@ -2474,6 +2590,7 @@ Absätze auch im automatisierten Verfahren erfolgen.
 
 
 #### § 86a Zusammenarbeit mit Versorgungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014602125)
 
 (1) Unternehmen, die Anlagen zur Fortleitung von Elektrizität, Gas,
 Fernwärme, Wasser oder Abwasser, Telekommunikationsnetze oder
@@ -2509,10 +2626,12 @@ Verfahren erfolgen. Die Einzelheiten dieses Verfahrens legt die in §
 
 
 ### Unterabschnitt 7 - Hypotheken-, Grundschuld- und Rentenschuldbriefe
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002404307)
 
 
 
 #### § 87 Erteilung von Briefen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013206311)
 
 Hypotheken-, Grundschuld- und Rentenschuldbriefe für Rechte, die im
 maschinell geführten Grundbuch eingetragen werden, sollen mit Hilfe
@@ -2532,6 +2651,7 @@ geeigneter Weise sichtbar zu machen.
 
 
 #### § 88 Verfahren bei Schuldurkunden
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013304307)
 
 Abweichend von § 58 und § 61 Abs. 2 Satz 3 der Grundbuchordnung muß
 ein Brief nicht mit einer für die Forderung ausgestellten Urkunde,
@@ -2541,6 +2661,7 @@ ohne Vorlage der Urkunde für die Forderung gültig" enthalten.
 
 
 #### § 89 Ergänzungen des Briefes
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013403307)
 
 Bei einem maschinell hergestellten Brief für ein im maschinell
 geführten Grundbuch eingetragenes Recht können die in den §§ 48 und 49
@@ -2553,10 +2674,12 @@ ist, ist diese zu lösen und dem Antragsteller zurückzugeben.
 
 
 ### Unterabschnitt 8 - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002504307)
 
 
 
 #### § 90 Datenverarbeitung im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013504307)
 
 Die Bestimmungen dieser Verordnung gelten für die Verarbeitung von
 Grundbuchdaten durch eine andere Stelle im Auftrag des Grundbuchamts
@@ -2567,6 +2690,7 @@ Grundbuchordnung und den Unterabschnitten 5 und 6 zulässig ist.
 
 
 #### § 91 Behandlung von Verweisungen, Löschungen
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013606307)
 
 Sonderregelungen in den §§ 54 bis 60 dieser Verordnung, in der
 Wohnungsgrundbuchverfügung und in der Gebäudegrundbuchverfügung gehen
@@ -2578,6 +2702,7 @@ geführten Grundbuch schwarz dargestellt werden.
 
 
 #### § 92 Ersetzung von Grundbuchdaten, Ersatzgrundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013706311)
 
 (1) Kann das maschinell geführte Grundbuch ganz oder teilweise auf
 Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist es
@@ -2600,6 +2725,7 @@ sowie Gebäudegrundbücher entsprechend.
 
 
 #### § 92a Zuständigkeitswechsel
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016500311)
 
 (1) Geht die Zuständigkeit für die Führung eines Grundbuchblatts auf
 ein anderes Grundbuchamt desselben Landes über, ist das betroffene
@@ -2624,6 +2750,7 @@ Verordnung.
 
 
 #### § 93 Ausführungsvorschriften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013806311)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 
@@ -2644,10 +2771,12 @@ Satz 1 Nummer 2 gilt nicht für die Freigabe eines Datenbankgrundbuchs.
 
 
 ## Abschnitt XIV - Vermerke über öffentliche Lasten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002600307)
 
 
 
 ### § 93a Eintragung öffentlicher Lasten
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015000307)
 
 Öffentliche Lasten auf einem Grundstück, die im Grundbuch einzutragen
 sind oder eingetragen werden können, werden nach Maßgabe des § 10 in
@@ -2655,6 +2784,7 @@ der zweiten Abteilung eingetragen.
 
 
 ### § 93b Eintragung des Bodenschutzlastvermerks
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015100307)
 
 (1) Auf den Ausgleichsbetrag nach § 25 des Bundes-Bodenschutzgesetzes
 wird durch einen Vermerk über die Bodenschutzlast hingewiesen. Der
@@ -2674,10 +2804,12 @@ Eintragung und die Löschung des Vermerks nicht erforderlich.
 
 
 ## Abschnitt XV - Vorschriften über den elektronischen Rechtsverkehr und die elektronische Grundakte
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG002700160)
 
 
 
 ### § 94 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015300160)
 
 Die Vorschriften dieser Verordnung über die Grundakten gelten auch für
 die elektronischen Grundakten, soweit nachfolgend nichts anderes
@@ -2685,6 +2817,7 @@ bestimmt ist.
 
 
 ### § 95 Allgemeine technische und organisatorische Maßgaben
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015401311)
 
 Für die Bestimmung des Datenspeichers für die elektronischen
 Grundakten, die Anforderungen an technische Anlagen und Programme, die
@@ -2694,6 +2827,7 @@ im Auftrag gelten § 62 Absatz 1 Satz 2 und 3, § 64 Absatz 1 und 2 Satz
 
 
 ### § 96 Anlegung und Führung der elektronischen Grundakte
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015500160)
 
 (1) Die Grundakte kann vollständig oder teilweise elektronisch geführt
 werden. Bei teilweiser elektronischer Führung sind in die beiden Teile
@@ -2741,6 +2875,7 @@ wurden.
 
 
 ### § 97 Übertragung von Papierdokumenten in die elektronische Form
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015701311)
 
 (1) Wird ein in Papierform vorliegendes Schriftstück in ein
 elektronisches Dokument übertragen und in dieser Form anstelle der
@@ -2765,6 +2900,7 @@ elektronischen Dokument eindeutig ersichtlich sind.
 
 
 ### § 98 Übertragung elektronischer Dokumente in die Papierform oder in andere Dateiformate
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015800160)
 
 (1) Wird ein elektronisches Dokument zur Übernahme in die Grundakte in
 die Papierform übertragen, ist durch geeignete Vorkehrungen
@@ -2792,6 +2928,7 @@ Beschwerdeverfahrens aufzubewahren.
 
 
 ### § 99 Aktenausdruck, Akteneinsicht und Datenabruf
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015900160)
 
 (1) Für die Erteilung von Ausdrucken aus der elektronischen Grundakte
 gilt § 78 Absatz 1 und 2 entsprechend. In den amtlichen Ausdruck sind
@@ -2807,6 +2944,7 @@ gelten die §§ 80 bis 84 entsprechend.
 
 
 ### § 100 Wiederherstellung des Grundakteninhalts
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE015600160)
 
 Kann der Inhalt der elektronischen Grundakte ganz oder teilweise auf
 Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist er
@@ -2815,6 +2953,7 @@ wiederherzustellen. Für die Wiederherstellung gilt § 92 Absatz 1 Satz
 
 
 ### § 100a Zuständigkeitswechsel
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016601125)
 
 (1) Für die Abgabe elektronischer Akten an ein anderes Grundbuchamt
 gilt § 92a sinngemäß.
@@ -2828,6 +2967,7 @@ Form zu übermitteln.
 
 
 ### § 101 Ausführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE016000160)
 
 Die Landesregierungen werden ermächtigt, in der Grundbuchordnung oder
 in dieser Verordnung nicht geregelte weitere Einzelheiten der
@@ -2837,10 +2977,12 @@ Landesjustizverwaltungen übertragen.
 
 
 ## Abschnitt XVI - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNG001605160)
 
 
 
 ### § 102
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008304160)
 
 Soweit die Grundbücher bisher für andere Bezirke als die in § 1 Abs. 1
 Satz 1 und 2 genannten angelegt sind, behält es bis zur Auflösung
@@ -2850,6 +2992,7 @@ Landesjustizverwaltung.
 
 
 ### § 103
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008404160)
 
 Soweit bisher jedes Grundbuchblatt in einem besonderen Grundbuchheft
 geführt worden ist, bedarf es der Zusammenfassung zu festen, mehrere
@@ -2858,6 +3001,7 @@ fortgeführt werden (§§ 104 bis 106).
 
 
 ### § 104
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008504160)
 
 (1) Vom Zeitpunkt des Inkrafttretens dieser Verfügung an sind neue
 Grundbuchblätter nur unter Verwendung des hier vorgeschriebenen
@@ -2872,6 +3016,7 @@ wird.
 
 
 ### § 105
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008604160)
 
 Die bestehenden Vorschriften über die Nummernbezeichnung und die
 Eintragung im Grundbuch bleiben unberührt, solange die alten Vordrucke
@@ -2882,6 +3027,7 @@ Verwendung des neuen Vordrucks umzuschreiben.
 
 
 ### § 106
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008703160)
 
 Bei der Umschreibung der bereits angelegten Grundbuchblätter auf den
 neuen Vordruck sind die §§ 29, 30 sinngemäß anzuwenden. Weitere
@@ -2890,6 +3036,7 @@ bleiben vorbehalten.
 
 
 ### § 107
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008804160)
 
 (1) Die bisher für jedes Grundbuchblatt geführten Grundakten können
 weitergeführt werden.
@@ -2905,6 +3052,7 @@ eingegangen sind. Das gleiche gilt für das Handblatt (§ 24 Absatz 4).
 
 
 ### § 108
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010303160)
 
 (1) Grundbuchblätter in festen Bänden können nach näherer Anordnung
 der Landesjustizverwaltung durch die Verwendung von Ablichtungen der
@@ -2948,6 +3096,7 @@ Berechtigten und der Katasterbehörde nicht mitgeteilt zu werden.
 
 
 ### § 109
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE008904160)
 
 Die noch vorhandenen Vordrucke für Hypotheken-, Grundschuld- und
 Rentenschuldbriefe können nach näherer Anordnung der
@@ -2959,6 +3108,7 @@ durchstreichen und durch die Überschrift "Deutscher Hypothekenbrief"
 
 
 ### § 110
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009003160)
 
 In den Fällen des § 143 der Grundbuchordnung behält es bei den
 landesrechtlichen Vorschriften über Einrichtung und Führung von
@@ -2966,6 +3116,7 @@ Grundbüchern sein Bewenden.
 
 
 ### § 111
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009105160)
 
 Soweit auf die in den Artikeln 63 und 68 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuch bezeichneten Rechte nach den Landesgesetzen
@@ -2976,6 +3127,7 @@ anzuwenden.
 
 
 ### § 112
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014202160)
 
 Zum Nachweis der Rechtsinhaberschaft ausländischer staatlicher oder
 öffentlicher Stellen genügt gegenüber dem Grundbuchamt eine mit dem
@@ -2985,6 +3137,7 @@ diesem Fall keine Anwendung.
 
 
 ### § 113
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE013908125)
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt
 diese Verordnung mit folgenden Maßgaben:
@@ -3129,6 +3282,7 @@ Dezember 2030 außer Kraft.
 
 
 ### § 114
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014902311)
 
 Die §§ 6, 9, 13, 15 und 17 in der seit dem 9. Oktober 2013 geltenden
 Fassung sind auch auf Eintragungen anzuwenden, die vor diesem
@@ -3138,6 +3292,7 @@ worden sind.
 (zu § 22)
 
 ### Anlage 1 (Grundbuchblatt)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009302307)
 
 (Inhalt: nicht darstellbares Muster eines Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
@@ -3145,6 +3300,7 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 5 - 15)
 (zu § 31)
 
 ### Anlage 2a (Unübersichtliches Grundbuchblatt)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009403160)
 
 (Inhalt: nicht darstellbares Muster eines unübersichtlichen
 Grundbuchblatts,
@@ -3154,6 +3310,7 @@ einzelnen Änderungen vgl. Fußnote)
 (zu § 31)
 
 ### Anlage 2b (Neues Grundbuchblatt)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009501307)
 
 (Inhalt: nicht darstellbares Muster eines neuen Grundbuchblatts,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 28 - 36)
@@ -3161,6 +3318,7 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 28 - 36)
 (zu § 52 Abs. 1)
 
 ### Anlage 3 (Hypothekenbrief)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009601307)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 37)
@@ -3168,6 +3326,7 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 37)
 (zu § 52 Abs. 1)
 
 ### Anlage 4 (Teilhypothekenbrief)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009701307)
 
 (Inhalt: nicht darstellbares Muster eines Teilhypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
@@ -3175,6 +3334,7 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 38)
 (zu § 52 Abs. 1)
 
 ### Anlage 5 (Hypothekenbrief über eine Gesamthypothek)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009801307)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes über eine
 Gesamthypothek,
@@ -3183,6 +3343,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 39)
 (zu § 52 Abs. 1)
 
 ### Anlage 6 (Gemeinschaftlicher Hypothekenbrief)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE009901307)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 40)
@@ -3190,6 +3351,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 40)
 (zu § 52 Abs. 1)
 
 ### Anlage 7 (Grundschuldbrief)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010001307)
 
 (Inhalt: nicht darstellbares Muster eines Grundschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 41)
@@ -3197,6 +3359,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 41)
 (zu § 52 Abs. 1)
 
 ### Anlage 8 (Rentenschuldbrief)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010101307)
 
 (Inhalt: nicht darstellbares Muster eines Rentenschuldbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 42)
@@ -3204,6 +3367,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 42)
 (zu § 58)
 
 ### Anlage 9 (Erbbaugrundbuch)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE010201307)
 
 (Inhalt: nicht darstellbares Muster eines Erbbaugrundbuchs,
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 44)
@@ -3211,6 +3375,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 44)
 (zu § 69 Abs. 4)
 
 ### Anlage 10a (In Papierform geführtes Grundbuch)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014401307)
 
 (Inhalt: nicht darstellbares Muster eines in Papierform geführtes
 Grundbuchblatts
@@ -3219,6 +3384,7 @@ Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 54 - 62)
 (zu § 69 Abs. 4)
 
 ### Anlage 10b (Maschinell geführtes Grundbuchblatt)
+[Direktlink](https://www.gesetze-im-internet.de/gbvfg/BJNR706370935.html#BJNR706370935BJNE014501307)
 
 (Inhalt: nicht darstellbares Muster eines maschinell geführtes
 Grundbuchblatts

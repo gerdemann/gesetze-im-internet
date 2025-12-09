@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-257 v. 11.5.1998 I 909 (SchuhfAusbV 1998)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -34,20 +35,24 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000300000)
 
 Der Ausbildungsberuf des Schuhfertigers und der Schuhfertigerin wird
 nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -65,6 +70,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -140,6 +146,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -147,6 +154,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -157,9 +165,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE000900000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -171,6 +181,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001000000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -187,6 +198,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001100000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Herstellen
 von Schaftteilen statt.
@@ -240,6 +252,7 @@ auf die schriftliche Bearbeitung der Aufgaben 90 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf:
 
@@ -261,6 +274,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001300000)
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen
 statt:
@@ -278,6 +292,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich Herstellen von Schuhen
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001400000)
 
 (1) Im Prüfungsbereich Herstellen von Schuhen soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -333,6 +348,7 @@ Minuten.
 
 
 ### § 13 Prüfungsbereich Schuhtechnik
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001500000)
 
 (1) Im Prüfungsbereich Schuhtechnik soll der Prüfling nachweisen, dass
 er in der Lage ist,
@@ -382,6 +398,7 @@ er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -395,6 +412,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -474,9 +492,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNG000300000)
 
 
 ### § 16 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001800000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Lederverarbeitung kann im Umfang von zwei Jahren auf die Dauer der
@@ -484,9 +504,11 @@ Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNG000400000)
 
 
 ### § 17 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE001900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -496,6 +518,7 @@ Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE002000000)
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Schuhfertiger/zur
@@ -506,6 +529,7 @@ ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin
+[Direktlink](https://www.gesetze-im-internet.de/schuhfausbv_2017/BJNR030900017.html#BJNR030900017BJNE002100000)
 
 (Fundstelle: BGBl. I 2017, 313 - 317)
 

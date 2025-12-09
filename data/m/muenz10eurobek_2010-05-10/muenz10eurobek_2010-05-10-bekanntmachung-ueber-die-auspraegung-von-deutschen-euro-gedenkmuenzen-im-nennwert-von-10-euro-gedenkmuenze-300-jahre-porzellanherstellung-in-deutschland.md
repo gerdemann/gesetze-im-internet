@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-05-10/BJNR065300010.html#BJNR065300010BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „300 Jahre
@@ -56,11 +57,13 @@ Der Entwurf stammt von dem Künstler Ulrich Böhme aus Stuttgart.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-05-10/BJNR065300010.html#BJNR065300010BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-05-10/BJNR065300010.html#BJNR065300010BJNE000300000)
 
 (Fundstelle: BGBl. 2010, 653)
 

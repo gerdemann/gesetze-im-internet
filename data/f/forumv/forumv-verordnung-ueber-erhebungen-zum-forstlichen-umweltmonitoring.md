@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000100000)
 
 Auf Grund des § 41a Absatz 6 des Bundeswaldgesetzes, der durch Artikel
 1 Nummer 7 des Gesetzes vom 31. Juli 2010 (BGBl. I S. 1050) eingefügt
@@ -27,6 +28,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Grunddaten
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000200000)
 
 Nachstehende Grunddaten zur Vitalität der Wälder und zu
 Wirkungszusammenhängen in Waldökosystemen werden nach Maßgabe dieser
@@ -69,6 +71,7 @@ Verordnung erhoben:
 
 
 ## § 2 Stichprobenverfahren
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000300000)
 
 (1) Grunddaten nach § 1 Nummer 1 werden nach einem terrestrischen
 Stichprobenverfahren mit systematischer Stichprobenverteilung über das
@@ -81,6 +84,7 @@ Juli und Ende August durchgeführt.
 
 
 ## § 3 Intensivmonitoring
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000400000)
 
 (1) Die Beobachtungsflächen für Erhebungen im Rahmen eines
 Intensivmonitorings sollen so verteilt sein, dass sie wichtige
@@ -95,6 +99,7 @@ Grunddaten nach § 1 Nummer 1 bis 11 erhoben.
 
 
 ## § 4 Erhebungsstandards
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000500000)
 
 Hinsichtlich der Grunddaten nach § 1 sowie der Anforderungen an
 Methoden, Analysen, Datenqualität und Qualitätssicherung bei den
@@ -103,11 +108,13 @@ zu berücksichtigen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000600000)
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/forumv/BJNR438400013.html#BJNR438400013BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt V 806-21-7-75 v. 18.5.2004 I 1004 (ÜDolmPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 zuletzt durch Artikel 436
@@ -33,12 +34,14 @@ Wirtschaft und Energie:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000200000)
 
 Diese Verordnung regelt die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin.
 
 
 ## § 2 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000300000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
 Übersetzer und Geprüfte Übersetzerin soll die auf einen beruflichen
@@ -93,6 +96,7 @@ Fortbildungsabschluss Geprüfter Übersetzer oder Geprüfte Übersetzerin.
 
 
 ## § 3 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000400000)
 
 (1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen
 nachweist:
@@ -130,6 +134,7 @@ Prüfung rechtfertigen.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000500000)
 
 (1) Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -184,6 +189,7 @@ grundlegend.
 
 
 ## § 5 Handlungsbereich „Übersetzen aus der und in die Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000601128)
 
 (1) Im Handlungsbereich „Übersetzen aus der und in die Fremdsprache“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
@@ -223,6 +229,7 @@ geprüft werden:
 
 
 ## § 6 Handlungsbereich „Texte verfassen und bearbeiten“
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000701128)
 
 (1) Im Handlungsbereich „Texte verfassen und bearbeiten“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist, inhaltlich und
@@ -256,6 +263,7 @@ geprüft werden:
 
 
 ## § 7 Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000801128)
 
 (1) Im Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist, in
@@ -283,6 +291,7 @@ in der Fremdsprache geprüft werden:
 
 
 ## § 8 Handlungsbereich „Aufträge selbstständig planen und abwickeln“
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE000901128)
 
 (1) Im Handlungsbereich „Aufträge selbstständig planen und abwickeln“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
@@ -312,6 +321,7 @@ geprüft werden:
 
 
 ## § 9 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001000000)
 
 (1) Die Prüfung besteht aus der schriftlichen Prüfung nach § 10 und
 dem Übersetzungsprojekt mit anschließendem Fachgespräch nach § 11.
@@ -323,6 +333,7 @@ abzulegen.
 
 
 ## § 10 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001101128)
 
 (1) Die schriftliche Prüfung besteht aus drei Aufgabenstellungen. Die
 zu prüfende Person soll
@@ -358,6 +369,7 @@ abgedeckt werden.
 
 
 ## § 11 Übersetzungsprojekt mit anschließendem Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001201128)
 
 (1) Das Übersetzungsprojekt ist nach erfolgreichem Abschluss der
 schriftlichen Prüfung durchzuführen.
@@ -401,6 +413,7 @@ Fachgespräch soll nicht länger als 45 Minuten dauern.
 
 
 ## § 12 Deutsch als Fremdsprache
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001301128)
 
 Die zu prüfende Person, deren Hauptsprache nicht Deutsch ist, ist in
 Deutsch als Fremdsprache zu prüfen. Die Vorgaben des § 10 und des § 11
@@ -408,6 +421,7 @@ sind entsprechend anzuwenden.
 
 
 ## § 13 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001401128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -419,6 +433,7 @@ Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 14 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001501128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -447,6 +462,7 @@ bewerten.
 
 
 ## § 15 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001601128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -497,6 +513,7 @@ Note ist die Gesamtnote.
 
 
 ## § 16 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE002000128)
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -523,6 +540,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 17 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001701128)
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -545,6 +563,7 @@ In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001801128)
 
 (1) Vor Ablauf des 31. Dezember 2017 angemeldete Prüfungen nach der
 Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter
@@ -559,6 +578,7 @@ zu führen. § 16 Absatz 4 ist in diesem Fall nicht anzuwenden.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE001901128)
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfungen zu den anerkannten Abschlüssen
@@ -568,6 +588,7 @@ Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) außer Kraft.
 (zu den §§ 14 und 15)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE002100128)
 
 (Fundstelle: BGBl. I 2019, 2432 – 2433)
 
@@ -869,6 +890,7 @@ Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) außer Kraft.
 (zu § 16)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/_bprv/BJNR115900017.html#BJNR115900017BJNE002200128)
 
 (Fundstelle: BGBl. I 2019, 2433 - 2434)
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000100000)
 
 Auf Grund des § 3 Abs. 3 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
 vom 14. September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch
@@ -32,6 +33,7 @@ der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
 
 
 ## § 1 Anwendung der Arbeitszeitverordnung
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000201124)
 
 Für die bei der DB Privat- und Firmenkundenbank AG beschäftigten
 Beamtinnen und Beamten gelten die Vorschriften der
@@ -40,6 +42,7 @@ bestimmt ist.
 
 
 ## § 2 Regelmäßige Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000300000)
 
 (1) Die regelmäßige Arbeitszeit beträgt im Durchschnitt 38,5 Stunden
 in der Woche.
@@ -53,6 +56,7 @@ und Feiertagen erreicht werden.
 
 
 ## § 3 Gleitende Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000401124)
 
 (1) Der Vorstand der DB Privat- und Firmenkundenbank AG oder die von
 ihm hierzu bestimmte Organisationseinheit mit den Befugnissen einer
@@ -100,6 +104,7 @@ leisten und die ausfallende Zeit vor- oder nachzuarbeiten ist.
 
 
 ## § 4 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000500000)
 
 (1) Die Arbeit ist spätestens nach Überschreiten einer Arbeitszeit von
 sechs Stunden durch eine Ruhepause von mindestens 30 Minuten zu
@@ -112,6 +117,7 @@ werden.
 
 
 ## § 5 Ort und Zeit der Dienstleistung
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000600000)
 
 Der Dienst ist grundsätzlich an der Dienststelle und innerhalb der
 betriebsüblichen Arbeitszeit zu leisten, soweit nicht eine andere
@@ -121,6 +127,7 @@ abgewichen werden, soweit betriebliche Belange nicht entgegenstehen.
 
 
 ## § 6 Erprobung neuer Arbeitszeitmodelle
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000701124)
 
 (1) Zur weiteren Flexibilisierung der Arbeitszeit kann der Vorstand
 der DB Privat- und Firmenkundenbank AG neue Arbeitszeitmodelle zur
@@ -141,6 +148,7 @@ dem Zeitpunkt des Ausgleichs beginnt der nächste Ausgleichszeitraum.
 
 
 ## § 7 Arbeitszeit bei einem anderen Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000802124)
 
 Der Vorstand der DB Privat- und Firmenkundenbank AG kann die
 durchschnittliche regelmäßige wöchentliche Arbeitszeit von Beamtinnen
@@ -158,6 +166,7 @@ entsprechend für die Festlegung dienstfreier Tage.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbazv/BJNR172500005.html#BJNR172500005BJNE000900000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 2004 in Kraft.
 

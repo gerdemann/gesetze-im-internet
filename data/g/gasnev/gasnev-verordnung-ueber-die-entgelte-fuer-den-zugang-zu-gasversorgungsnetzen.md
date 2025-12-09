@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000100000)
 
 Auf Grund des § 24 Satz 1 Nr. 1, 2 und 4  in Verbindung mit Satz 2 Nr.
 1, 2, 4, 5, 6 und 7 sowie Satz 3 und 5 und des § 29 Abs. 3 des
@@ -29,16 +30,19 @@ verordnet die Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000301377)
 
 Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der
 Entgelte für den Zugang zu den Gasversorgungsnetzen (Netzentgelte).
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000400000)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -79,6 +83,7 @@ Gasnetzzugangsverordnung entsprechende Anwendung.
 
 
 ### § 3 Grundsätze der Entgeltbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000503377)
 
 (1) Für die Ermittlung der Netzentgelte sind die Netzkosten nach den
 §§ 4 bis 10 zusammenzustellen. Die ermittelten Netzkosten sind
@@ -133,14 +138,17 @@ Satz 1 gebildet werden.
 
 
 ## Teil 2 - Methode zur Ermittlung der Netzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000200000)
 
 
 
 ### Abschnitt 1 - Kostenartenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000300000)
 
 
 
 #### § 4 Grundsätze der Netzkostenermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000603377)
 
 (1) Bilanzielle und kalkulatorische Kosten des Netzbetriebs sind nur
 insoweit anzusetzen, als sie den Kosten eines effizienten und
@@ -235,6 +243,7 @@ Regulierungsbehörde unverzüglich anzuzeigen.
 
 
 #### § 5 Aufwandsgleiche Kostenpositionen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000701377)
 
 (1) Aufwandsgleiche Kostenpositionen sind den nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes erstellten Gewinn- und Verlustrechnungen
@@ -247,6 +256,7 @@ vergleichbare Kreditaufnahmen.
 
 
 #### § 6 Kalkulatorische Abschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000802301)
 
 (1) Zur Gewährleistung eines langfristig angelegten leistungsfähigen
 und zuverlässigen Netzbetriebs ist die Wertminderung der
@@ -333,6 +343,7 @@ Schuldverhältnissen.
 
 
 #### § 6a Preisindizes zur Ermittlung der Tagesneuwerte
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE004100301)
 
 [^F782159_02_BJNR219700005BJNE004100301]
 (1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind
@@ -469,6 +480,7 @@ vier Nachkommastellen zu runden.
 [^F782159_02_BJNR219700005BJNE004100301]: 
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE000903377)
 
 (1) Die Verzinsung des von Betreibern von Gasversorgungsnetzen
 eingesetzten Eigenkapitals erfolgt im Wege einer kalkulatorischen
@@ -604,6 +616,7 @@ gewichtet. Weitere Zuschläge sind unzulässig.
 
 
 #### § 8 Kalkulatorische Steuern
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001001301)
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
 sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
@@ -611,6 +624,7 @@ Kostenposition in Ansatz gebracht werden.
 
 
 #### § 9 Kostenmindernde Erlöse und Erträge
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001102311)
 
 (1) Sonstige Erlöse und Erträge sind, soweit sie sachlich dem
 Netzbetrieb zuzurechnen und insbesondere den Positionen
@@ -644,6 +658,7 @@ anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.
 
 
 #### § 10 Periodenübergreifende Saldierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001201377)
 
 Soweit die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a
 des Energiewirtschaftsgesetzes bestimmt werden, sind die Betreiber von
@@ -675,10 +690,12 @@ Erlösen.
 
 
 ### Abschnitt 2 - Kostenstellenrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000400000)
 
 
 
 #### § 11 Grundsätze der Kostenverteilung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001300000)
 
 Die nach § 4 ermittelten Netzkosten sind soweit möglich direkt den
 Hauptkostenstellen nach § 12 zuzuordnen. Soweit eine direkte Zuordnung
@@ -699,6 +716,7 @@ auf Verlangen zu übermitteln.
 
 
 #### § 12 Kostenstellen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001400000)
 
 Für die Ermittlung der Netzentgelte haben Betreiber von
 Gasversorgungsnetzen als Maßgrößen der Kostenverursachung Haupt- und
@@ -711,10 +729,12 @@ Hilfskostenstellen ist zulässig.
 
 
 ### Abschnitt 3 - Kostenträgerrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000500000)
 
 
 
 #### § 13 Grundsätze der Entgeltermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001503310)
 
 (1) Grundlage des Systems der Entgeltbildung für den Netzzugang ist
 das Netzzugangsmodell nach § 20 Abs. 1b des
@@ -750,6 +770,7 @@ auf Verlangen der Regulierungsbehörde vorzulegen.
 
 
 #### § 14 Teilnetze
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001600000)
 
 (1) Soweit ein Betreiber von Gasversorgungsnetzen nach § 6 Abs. 5 der
 Gasnetzzugangsverordnung Teilnetze gebildet hat, hat er die nach § 4
@@ -765,6 +786,7 @@ eines Netzbetreibers nicht mehrfach berechnet werden.
 
 
 #### § 15 Ermittlung der Netzentgelte
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001701308)
 
 (1) Die Netzkosten sind möglichst verursachungsgerecht zunächst in die
 Beträge aufzuteilen, die durch Einspeiseentgelte einerseits und
@@ -849,6 +871,7 @@ zulässig.
 
 
 #### § 16 Verprobung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001800000)
 
 (1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte
 sicherzustellen, dass ein zur Veröffentlichung stehendes Entgeltsystem
@@ -863,10 +886,12 @@ dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
 
 #### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE001901377)
 
 
 
 #### § 18 Besondere Regeln für örtliche Verteilernetze
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002001377)
 
 (1) Grundlage des Systems der Entgeltbildung für den Netzzugang zu
 örtlichen Verteilernetzen ist abweichend von den §§ 14 bis 16 ein
@@ -920,6 +945,7 @@ Verlangen der Regulierungsbehörde vorzulegen.
 
 
 #### § 19 Besondere Regeln für Fernleitungsnetze
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002101310)
 
 (1) Bei Fernleitungsnetzen im Sinne des § 2 Nr. 3 erfolgt die Bildung
 der Ein- und Ausspeiseentgelte auf der Grundlage eines von der
@@ -943,6 +969,7 @@ anzupassen.
 
 
 #### § 20 Sonderformen der Netznutzung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002201377)
 
 (1) Netzbetreiber können für bestimmte Ein- und Ausspeisepunkte neben
 den Ein- und Ausspeiseentgelten separate Kurzstreckenentgelte
@@ -966,6 +993,7 @@ aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
 
 
 #### § 20a
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003902118)
 
 Transportkunden von Biogas erhalten vom Netzbetreiber, in dessen Netz
 sie unmittelbar Biogas einspeisen, ein pauschales Entgelt in Höhe von
@@ -978,6 +1006,7 @@ pauschalierten Entgelts wird im Zuge des Monitorings nach § 35 Absatz
 
 
 #### § 20b
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE004002301)
 
 Die Kosten
 
@@ -1004,6 +1033,7 @@ werden bundesweit umgelegt.
 
 
 #### § 21 Netzentgeltbildung bei Anreizregulierung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002302377)
 
 (1) Soweit die Kosten einer Regulierung nach der
 Anreizregulierungsverordnung unterliegen, werden die Entgelte für den
@@ -1027,22 +1057,27 @@ rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
 
 ## Teil 3 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000601377)
 
 
 
 ### (XXXX) §§ 22 bis 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002401377)
 
 
 
 ## Teil 4 - Pflichten der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG000900000)
 
 
 
 ### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE002902377)
 
 
 
 ### § 28 Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003001310)
 
 (1) Betreiber von Gasversorgungsnetzen haben unverzüglich einen
 Bericht über die Ermittlung der Netzentgelte nach den Sätzen 2 und 3
@@ -1103,6 +1138,7 @@ Kalkulationsperiode und Nummer 2.
 
 
 ### § 29 Mitteilungen gegenüber der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003100000)
 
 Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch
 Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes
@@ -1112,10 +1148,12 @@ Datenträgern und Übertragungswegen.
 
 
 ## Teil 5 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNG001000000)
 
 
 
 ### § 30 Festlegungen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003203377)
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die
@@ -1187,6 +1225,7 @@ Gewährleistung
 
 
 ### § 31 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003302377)
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des
 Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1207,6 +1246,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 32 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003404377)
 
 (1) Zur erstmaligen Ermittlung der Netzentgelte nach Absatz 2 sind die
 kalkulatorischen Restwerte des Sachanlagevermögens für den
@@ -1247,17 +1287,20 @@ Juli 2021 geltenden Fassung.
 
 
 ### § 33 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003500000)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 6 Abs. 5 Satz 1)
 
 ### Anlage 1 Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003700000)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2207 - 2208)
 
@@ -1607,6 +1650,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 12 Satz 1)
 
 ### Anlage 2 Haupt- und Nebenkostenstellen
+[Direktlink](https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html#BJNR219700005BJNE003801308)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2209
 

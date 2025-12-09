@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000200000)
 
 (1) Rechtshandlungen eines Schuldners, die seine Gläubiger
 benachteiligen, können außerhalb des Insolvenzverfahrens nach Maßgabe
@@ -31,6 +32,7 @@ der folgenden Bestimmungen angefochten werden.
 
 
 ## § 2 Anfechtungsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000300000)
 
 Zur Anfechtung ist jeder Gläubiger berechtigt, der einen
 vollstreckbaren Schuldtitel erlangt hat und dessen Forderung fällig
@@ -40,6 +42,7 @@ wenn anzunehmen ist, daß sie nicht dazu führen würde.
 
 
 ## § 3 Vorsätzliche Benachteiligung
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000401311)
 
 (1) Anfechtbar ist eine Rechtshandlung, die der Schuldner in den
 letzten zehn Jahren vor der Anfechtung mit dem Vorsatz, seine
@@ -72,6 +75,7 @@ benachteiligen, nicht bekannt war.
 
 
 ## § 4 Unentgeltliche Leistung
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000500000)
 
 (1) Anfechtbar ist eine unentgeltliche Leistung des Schuldners, es sei
 denn, sie ist früher als vier Jahre vor der Anfechtung vorgenommen
@@ -82,6 +86,7 @@ Gelegenheitsgeschenk geringen Werts, so ist sie nicht anfechtbar.
 
 
 ## § 5 Rechtshandlungen des Erben
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000600000)
 
 Hat der Erbe aus dem Nachlaß Pflichtteilsansprüche, Vermächtnisse oder
 Auflagen erfüllt, so kann ein Nachlaßgläubiger, der im
@@ -91,6 +96,7 @@ anfechten wie eine unentgeltliche Leistung des Erben.
 
 
 ## § 6 Gesellschafterdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000701160)
 
 (1) Anfechtbar ist eine Rechtshandlung, die für die Forderung eines
 Gesellschafters auf Rückgewähr eines Darlehens im Sinne des § 39 Abs.
@@ -121,6 +127,7 @@ Jahres ausgeschlossen, in dem die Handlung vorgenommen worden ist.
 
 
 ## § 6a Gesicherte Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE002200160)
 
 Anfechtbar ist eine Rechtshandlung, mit der eine Gesellschaft einem
 Dritten für eine Forderung auf Rückgewähr eines Darlehens innerhalb
@@ -133,6 +140,7 @@ wirtschaftlich entsprechen. § 39 Abs. 4 und 5 der Insolvenzordnung und
 
 
 ## § 7 Berechnung der Fristen
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000802160)
 
 (1) Die in den §§ 3 und 4 bestimmten Fristen sind von dem Zeitpunkt
 zurückzurechnen, in dem die Anfechtbarkeit gerichtlich geltend gemacht
@@ -153,6 +161,7 @@ Kreditwesengesetzes angeordnet waren.
 
 
 ## § 8 Zeitpunkt der Vornahme einer Rechtshandlung
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE000900000)
 
 (1) Eine Rechtshandlung gilt als in dem Zeitpunkt vorgenommen, in dem
 ihre rechtlichen Wirkungen eintreten.
@@ -174,6 +183,7 @@ Eintritt der Bedingung oder des Termins außer Betracht.
 
 
 ## § 9 Anfechtung durch Einrede
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001000000)
 
 Die Anfechtbarkeit kann im Wege der Einrede geltend gemacht werden,
 bevor ein vollstreckbarer Schuldtitel für die Forderung erlangt ist;
@@ -182,6 +192,7 @@ Gericht zu bestimmenden Frist beizubringen.
 
 
 ## § 10 Vollstreckbarer Titel
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001100000)
 
 Die Anfechtung wird nicht dadurch ausgeschlossen, daß für die
 Rechtshandlung ein vollstreckbarer Schuldtitel erlangt oder daß die
@@ -189,6 +200,7 @@ Handlung durch Zwangsvollstreckung erwirkt worden ist.
 
 
 ## § 11 Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001202311)
 
 (1) Was durch die anfechtbare Rechtshandlung aus dem Vermögen des
 Schuldners veräußert, weggegeben oder aufgegeben ist, muß dem
@@ -218,6 +230,7 @@ Gläubiger zur Verfügung stellt.
 
 
 ## § 12 Ansprüche des Anfechtungsgegners
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001300000)
 
 Wegen der Erstattung einer Gegenleistung oder wegen eines Anspruchs,
 der infolge der Anfechtung wiederauflebt, kann sich der
@@ -225,6 +238,7 @@ Anfechtungsgegner nur an den Schuldner halten.
 
 
 ## § 13 Bestimmter Klageantrag
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001400000)
 
 Wird der Anfechtungsanspruch im Wege der Klage geltend gemacht, so hat
 der Klageantrag bestimmt zu bezeichnen, in welchem Umfang und in
@@ -233,6 +247,7 @@ soll.
 
 
 ## § 14 Vorläufig vollstreckbarer Schuldtitel. Vorbehaltsurteil
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001500000)
 
 Liegt ein nur vorläufig vollstreckbarer Schuldtitel des Gläubigers
 oder ein unter Vorbehalt ergangenes Urteil vor, so ist in dem Urteil,
@@ -242,6 +257,7 @@ Entscheidung rechtskräftig oder vorbehaltlos wird.
 
 
 ## § 15 Anfechtung gegen Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001600000)
 
 (1) Die Anfechtbarkeit kann gegen den Erben oder einen anderen
 Gesamtrechtsnachfolger des Anfechtungsgegners geltend gemacht werden.
@@ -272,6 +288,7 @@ Anfechtung erfolgen soll.
 
 
 ## § 16 Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001700000)
 
 (1) Wird über das Vermögen des Schuldners das Insolvenzverfahren
 eröffnet, so ist der Insolvenzverwalter berechtigt, die von den
@@ -286,6 +303,7 @@ entsprechend.
 
 
 ## § 17 Unterbrechung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001800000)
 
 (1) Ist das Verfahren über den Anfechtungsanspruch im Zeitpunkt der
 Eröffnung des Insolvenzverfahrens noch rechtshängig, so wird es
@@ -304,6 +322,7 @@ Anfechtungsanspruch geltend zu machen, nicht ausgeschlossen.
 
 
 ## § 18 Beendigung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE001901160)
 
 (1) Nach der Beendigung des Insolvenzverfahrens können
 Anfechtungsansprüche, die der Insolvenzverwalter geltend machen
@@ -323,6 +342,7 @@ tritt.
 
 
 ## § 19 Internationales Anfechtungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE002000000)
 
 Bei Sachverhalten mit Auslandsberührung ist für die Anfechtbarkeit
 einer Rechtshandlung das Recht maßgeblich, dem die Wirkungen der
@@ -330,6 +350,7 @@ Rechtshandlung unterliegen.
 
 
 ## § 20 Übergangsregeln
+[Direktlink](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html#BJNR291110994BJNE002102311)
 
 (1) Dieses Gesetz ist auf die vor dem 1. Januar 1999 vorgenommenen
 Rechtshandlungen nur anzuwenden, soweit diese nicht nach dem

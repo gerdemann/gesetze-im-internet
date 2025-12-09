@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftvstfestv_2015/BJNR182200014.html#BJNR182200014BJNE000100000)
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der durch
 Artikel 3 Nummer 4 Buchstabe b des Gesetzes vom 5. Dezember 2012
@@ -31,6 +32,7 @@ Infrastruktur und dem Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Steuersätze 2015
+[Direktlink](https://www.gesetze-im-internet.de/luftvstfestv_2015/BJNR182200014.html#BJNR182200014BJNE000200000)
 
 Unter Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten bleiben die Steuersätze des § 11
@@ -68,6 +70,7 @@ Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftvstfestv_2015/BJNR182200014.html#BJNR182200014BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 

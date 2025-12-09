@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2005/BJNR157800005.html#BJNR157800005BJNE000100000)
 
 Auf Grund
 
@@ -47,6 +48,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2005/BJNR157800005.html#BJNR157800005BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2005 an 26,13 Euro.
 
@@ -55,6 +57,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2005/BJNR157800005.html#BJNR157800005BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt vom 1. Juli 2005 an 12,06 Euro.
@@ -64,11 +67,13 @@ Landwirte beträgt vom 1. Juli 2005 an 10,60 Euro.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2005/BJNR157800005.html#BJNR157800005BJNE000400000)
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2005/BJNR157800005.html#BJNR157800005BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

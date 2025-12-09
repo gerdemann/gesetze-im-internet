@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek_1994-12/BJNR392000994.html#BJNR392000994BJNE000100000)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -32,6 +33,7 @@ September 1994 (BGBl. I S. 3013).
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4trbek_1994-12/BJNR392000994.html#BJNR392000994BJNE000200000)
 
 Bundesministerium der Justiz
 

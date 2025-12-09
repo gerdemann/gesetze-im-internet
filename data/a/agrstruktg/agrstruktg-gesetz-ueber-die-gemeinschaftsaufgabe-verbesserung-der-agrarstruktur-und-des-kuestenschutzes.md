@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gemeinschaftsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000204123)
 
 (1) Zur Verbesserung der Agrarstruktur und des Küstenschutzes werden
 als Gemeinschaftsaufgabe im Sinne des Artikels 91a Abs. 1 des
@@ -117,6 +118,7 @@ Bestandteil der Gemeinschaftsaufgabe.
 
 
 ## § 2 Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000303123)
 
 (1) Die Erfüllung der Gemeinschaftsaufgabe dient dazu,
 
@@ -151,12 +153,14 @@ Daseinsvorsorge erforderlich sind.
 
 
 ## § 3 Förderungsarten
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000401328)
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen, Zinszuschüssen und Bürgschaften bestehen.
 
 
 ## § 4 Gemeinsamer Rahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000501328)
 
 (1) Für die Erfüllung der Gemeinschaftsaufgabe wird ein gemeinsamer
 Rahmenplan aufgestellt.
@@ -168,6 +172,7 @@ und der Länder ist zu berücksichtigen.
 
 
 ## § 5 Inhalt des Rahmenplans
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000602123)
 
 (1) Der Rahmenplan bezeichnet
 
@@ -193,6 +198,7 @@ Förderung näher bestimmt werden.
 
 
 ## § 6 Planungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000705301)
 
 (1) Für die Rahmenplanung bilden die Bundesregierung und die
 Landesregierungen einen Planungsausschuß. Ihm gehören der
@@ -210,6 +216,7 @@ Mehrheit der Stimmen der Länder.
 
 
 ## § 7 Anmeldung zum Rahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000805123)
 
 (1) Bis zum 1. März jedes Jahres können die Länder dem
 Bundesministerium für Ernährung und Landwirtschaft die
@@ -243,10 +250,12 @@ bis 3 sinngemäß.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE000902123)
 
 
 
 ## § 9 Durchführung des Rahmenplans
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE001001328)
 
 (1) Die Durchführung des Rahmenplans ist Aufgabe der Länder.
 
@@ -256,6 +265,7 @@ allgemeinen Stand der Gemeinschaftsaufgabe.
 
 
 ## § 10 Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE001208123)
 
 (1) Der Bund erstattet vorbehaltlich des Artikels 91a Absatz 3 Satz 4
 des Grundgesetzes jedem Land die ihm in Durchführung des Rahmenplans
@@ -281,6 +291,7 @@ Entwicklung der Maßnahmen mit.
 
 
 ## § 11 Rückzahlung und Verzinsung der Bundesmittel
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE001304123)
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung
 erhaltener Darlehen oder zum Ausgleich der auf Grund übernommener
@@ -306,6 +317,7 @@ zugrunde zu legen.
 
 
 ## § 12 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/agrstruktg/BJNR015730969.html#BJNR015730969BJNE001602308)
 
 -
 

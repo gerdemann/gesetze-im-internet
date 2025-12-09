@@ -21,10 +21,12 @@ Geändert durch
 
 
 ## Teil I - Kosten des Aufgabenvollzugs
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNG000100319)
 
 
 
 ### Art 1 Verwaltungsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE000500319)
 
 (1) Der Bund und die Länder tragen gesondert die Verwaltungsausgaben,
 die sich aus der Wahrnehmung der ihnen obliegenden Verwaltungsaufgaben
@@ -38,31 +40,38 @@ getroffenen Vereinbarungen.
 
 
 ### (XXXX) Art 2 bis 4
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE000600319)
 
 
 
 ## Teil II - Neuordnung der Finanzverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNG000200319)
 
 
 
 ### (XXXX) Art 5 bis 11
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE000700319)
 
 
 
 ## Teil III - Anpassung des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNG000300319)
 
 
 
 ### Art 12
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE000800319)
 
 -
 
 
 ## Teil IV - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNG000400319)
 
 
 
 ### Art 13 Überleitung bestimmter Beamter und Versorgungsberechtigter
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE000900319)
 
 (1) Bleibt das nach § 9 Abs. 2 Satz 3 des Gesetzes über die
 Finanzverwaltung in der Fassung des Artikels 5 einem
@@ -99,6 +108,7 @@ Neuordnung des Bundesdisziplinarrechts vom 20. Juli 1967
 
 
 ### Art 14 Überleitung von Ausgaben
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE001000319)
 
 (1) Soweit auf Grund dieses Gesetzes Ausgaben vom Bund auf die Länder
 übergehen, ist Stichtag der 1. Januar 1972. Alle bis zum 31. Dezember
@@ -121,6 +131,7 @@ Bund über, so gelten die Absätze 1 und 2 sinngemäß.
 
 
 ### Art 15 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE001100319)
 
 Die zuständigen Bundesbehörden und Landesbehörden sind verpflichtet,
 sich gegenseitig die nach diesem Gesetz für die Überleitung von
@@ -130,6 +141,7 @@ bestätigen zu lassen.
 
 
 ### Art 16 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE001200319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
@@ -139,6 +151,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### Art 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fanpg/BJNR014260971.html#BJNR014260971BJNE001300319)
 
 (1) Artikel 1, Artikel 2 mit Ausnahme der Absätze 2 und 3, Artikel 3
 sowie § 5 Abs. 1 Nr. 2 bis 7 des Gesetzes über die Finanzverwaltung in

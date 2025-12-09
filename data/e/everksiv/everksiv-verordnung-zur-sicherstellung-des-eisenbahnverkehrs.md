@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000100326)
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 sowie Abs. 2 Nr. 3, des § 5 Abs.
 1, des § 19 Abs. 8 und des § 29 Nr. 2 des
@@ -31,6 +32,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000200326)
 
 Zweck dieser Verordnung ist es sicherzustellen, daß in einem
 Verteidigungsfall sowie in einer Zeit, in der die
@@ -42,6 +44,7 @@ Eisenbahnen erbracht werden können.
 
 
 ## § 2 Sicherstellung von Beförderungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000301311)
 
 (1) Um die für Zwecke des § 1 erforderlichen Beförderungsmittel
 sicherzustellen, können die Eisenbahnen den öffentlichen Verkehr
@@ -65,6 +68,7 @@ im Sinne von Absatz 1 zu treffen, bleibt unberührt.
 
 
 ## § 3 Beschleunigung der Ver- und Entladung
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000401311)
 
 Die Eisenbahnen können die Ver- und Entladung ihrer Beförderungsmittel
 auf Kosten des Absenders oder Empfängers vornehmen oder durch Dritte
@@ -73,21 +77,25 @@ vereinbarten Ver- und Entladefristen ver- oder entladen werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000501311)
 
 (weggefallen)
 
 
 ## § 5 Ruhen der Lieferfristen
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000601311)
 
 Die vereinbarten Lieferfristen ruhen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000702311)
 
 (weggefallen)
 
 
 ## § 7 Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000801314)
 
 (1) Wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 2 die Fristen
 für die Be- und Entladung von Beförderungsmitteln überschreitet,
@@ -102,6 +110,7 @@ Verwaltungsbehörde des Landes.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/everksiv/BJNR027300976.html#BJNR027300976BJNE000903305)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

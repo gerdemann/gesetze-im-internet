@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000100000)
 
 Auf Grund des § 64e Absatz 12 des Fünften Buches Sozialgesetzbuch, der
 durch Artikel 3 Nummer 3 Buchstabe i des Gesetzes vom 22. März 2024
@@ -27,6 +28,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000200000)
 
 Diese Verordnung findet Anwendung auf das Modellvorhaben zur
 umfassenden Diagnostik und Therapiefindung mittels Genomsequenzierung
@@ -35,6 +37,7 @@ Buches Sozialgesetzbuch.
 
 
 ## § 2 Art und Umfang der von den Leistungserbringern zu übermittelnden Daten
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000300000)
 
 (1) Jeder Leistungserbringer, der Vertragspartner eines in § 64e
 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch genannten Vertrags
@@ -134,6 +137,7 @@ Teil der Krankenversichertennummer, soweit ihnen dieser vorliegt.
 
 
 ## § 3 Konkretisierung und Aktualisierung der zu übermittelnden Daten
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000400000)
 
 (1) Der Plattformträger erstellt regelmäßig Empfehlungen zur
 Aktualisierung und Konkretisierung der in der Anlage genannten
@@ -175,6 +179,7 @@ Aufstellung von Daten aus den entsprechenden Bereichen betroffen ist,
 
 
 ## § 4 Datenverarbeitung durch die Leistungserbringer; Fristen der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000500000)
 
 (1) Jeder Leistungserbringer hat den Plattformträger spätestens einen
 Monat, nachdem der Leistungserbringer Vertragspartner des in § 64e
@@ -230,6 +235,7 @@ Bundesinstituts für Arzneimittel und Medizinprodukte.
 
 
 ## § 5 Berichtigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000600000)
 
 (1) Entstehen bei einem Genomrechenzentrum oder bei einem klinischen
 Datenknoten im Rahmen der in § 64e Absatz 10a Satz 4 Nummer 1 und
@@ -267,6 +273,7 @@ Vervollständigung oder Korrektur.
 
 
 ## § 6 Qualitätsprüfung durch Genomrechenzentren und klinische Datenknoten; Meldebestätigung durch den Plattformträger
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000700000)
 
 (1) Der Plattformträger vergibt für jedes nach § 64e Absatz 10a Satz 2
 des Fünften Buches Sozialgesetzbuch zugelassene Genomrechenzentrum und
@@ -374,6 +381,7 @@ Plattformträger zu löschen.
 
 
 ## § 7 Verfahren der Pseudonymisierung; Aufgabenwahrnehmung durch die Vertrauensstelle
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000800000)
 
 (1) Das Robert Koch-Institut führt die Aufgaben der Vertrauensstelle
 eigenständig und getrennt von seinen übrigen Aufgaben aus. Die
@@ -412,16 +420,19 @@ klinischen Datenknoten fehlerfrei verlaufen ist.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage Art und Umfang der Daten
+[Direktlink](https://www.gesetze-im-internet.de/gendv/BJNR0E60A0024.html#BJNR0E60A0024BJNE001100000)
 
 (Fundstelle: BGBl. 2024 I Nr. 230, S. 6 - 10)
 

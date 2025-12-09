@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000100000)
 
 Auf Grund des § 56 Absatz 1 und 2 des Pflegeberufegesetzes vom 17.
 Juli 2017 (BGBl. I S. 2581) verordnen das Bundesministerium für
@@ -42,12 +43,15 @@ des Bundestages vom 28. Juni 2018:
 
 
 ## Teil 1 - Berufliche Pflegeausbildung zur Pflegefachfrau oder zum Pflegefachmann
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000100000)
 
 
 ### Abschnitt 1 - Ausbildung und Leistungsbewertung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000200000)
 
 
 #### § 1 Inhalt und Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000301125)
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann befähigt
 die Auszubildenden in Erfüllung des Ausbildungsziels nach § 5 des
@@ -105,6 +109,7 @@ Satz 1 des Pflegeberufegesetzes ausüben kann.
 
 
 #### § 2 Theoretischer und praktischer Unterricht
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000401125)
 
 (1) Im Unterricht nach § 1 Absatz 2 Nummer 1 sind die Kompetenzen zu
 vermitteln, die zur Erreichung des Ausbildungsziels nach § 5 des
@@ -134,6 +139,7 @@ regeln die Länder.
 
 
 #### § 3 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000502125)
 
 (1) Während der praktischen Ausbildung nach § 1 Absatz 2 Nummer 2 sind
 die Kompetenzen zu vermitteln, die zur Erreichung des Ausbildungsziels
@@ -210,6 +216,7 @@ darf durch die Anrechnung nicht gefährdet werden.
 
 
 #### § 4 Praxisanleitung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000601125)
 
 (1) Die Einrichtungen der praktischen Ausbildung stellen die
 Praxisanleitung sicher. Aufgabe der Praxisanleitung ist es, die
@@ -258,6 +265,7 @@ Qualifikationsmaßnahme festzustellen. Das Nähere regeln die Länder.
 
 
 #### § 5 Praxisbegleitung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000700000)
 
 Die Pflegeschule stellt durch ihre Lehrkräfte für die Zeit der
 praktischen Ausbildung die Praxisbegleitung in den Einrichtungen der
@@ -273,6 +281,7 @@ Vertiefungseinsatz in der jeweiligen Einrichtung erfolgen.
 
 
 #### § 6 Jahreszeugnisse und Leistungseinschätzungen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000800000)
 
 (1) Für jedes Ausbildungsjahr erteilt die Pflegeschule den
 Auszubildenden ein Zeugnis über die im Unterricht und in der
@@ -296,6 +305,7 @@ Leistungseinschätzungen nach Absatz 2 festgelegt.
 
 
 #### § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE000900000)
 
 Gegenstand der Zwischenprüfung nach § 6 Absatz 5 des
 Pflegeberufegesetzes ist die Ermittlung des Ausbildungsstandes zum
@@ -312,6 +322,7 @@ diese. Das Nähere zur Zwischenprüfung regeln die Länder.
 
 
 #### § 8 Kooperationsverträge
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001001130)
 
 (1) Um die erforderliche enge Zusammenarbeit der Pflegeschule, des
 Trägers der praktischen Ausbildung sowie der weiteren an der
@@ -329,9 +340,11 @@ Praxisanleiterinnen und Praxisanleitern eine regelmäßige Abstimmung.
 
 
 ### Abschnitt 2 - Bestimmungen für die staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000300000)
 
 
 #### § 9 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001100000)
 
 (1) Die staatliche Prüfung für die Ausbildung umfasst jeweils einen
 schriftlichen, einen mündlichen und einen praktischen Teil. Gegenstand
@@ -360,6 +373,7 @@ wurde.
 
 
 #### § 10 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001201125)
 
 (1) An jeder Pflegeschule wird ein Prüfungsausschuss gebildet, der für
 die ordnungsgemäße Durchführung der Prüfung zuständig ist. Er besteht
@@ -414,6 +428,7 @@ zu pflegenden Menschen zulässig.
 
 
 #### § 11 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001301125)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf
 Antrag der zu prüfenden Person über die Zulassung zur Prüfung und
@@ -449,6 +464,7 @@ Prüfungsbeginn schriftlich oder elektronisch mitgeteilt.
 
 
 #### § 12 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001400000)
 
 (1) Die besonderen Belange von zu prüfenden Personen mit Behinderung
 oder Beeinträchtigung sind zur Wahrung ihrer Chancengleichheit bei
@@ -478,6 +494,7 @@ Person in geeigneter Weise bekannt gegeben.
 
 
 #### § 13 Vornoten
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001500000)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt auf
 Vorschlag der Pflegeschule jeweils eine Vornote für den schriftlichen,
@@ -502,6 +519,7 @@ vor Beginn des ersten Prüfungsteils mitgeteilt.
 
 
 #### § 14 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001601125)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Prüfungsbereiche aus den Kompetenzbereichen I bis V der Anlage 2:
@@ -585,6 +603,7 @@ Note nach § 17 zuzuordnen.
 
 
 #### § 15 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001701125)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf die folgenden
 Kompetenzbereiche der Anlage 2:
@@ -648,6 +667,7 @@ berechtigtes Interesse besteht.
 
 
 #### § 16 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001801125)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die
 Kompetenzbereiche I bis V der Anlage 2.
@@ -709,6 +729,7 @@ Note nach § 17 zuzuordnen.
 
 
 #### § 17 Benotung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE001900000)
 
 Für die Vornoten und für die staatliche Prüfung gelten folgende Noten:
 
@@ -782,6 +803,7 @@ Für die Vornoten und für die staatliche Prüfung gelten folgende Noten:
 
 
 #### § 18 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002000000)
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -789,6 +811,7 @@ Unregelmäßigkeiten hervorgehen.
 
 
 #### § 19 Bestehen und Wiederholung der staatlichen Prüfung, Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002100000)
 
 (1) Die staatliche Prüfung ist bestanden, wenn die Gesamtnote des
 schriftlichen Teils nach § 14 Absatz 7, des mündlichen Teils nach § 15
@@ -826,6 +849,7 @@ zusätzliche Ausbildung beizufügen.
 
 
 #### § 20 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002201125)
 
 (1) Tritt eine zu prüfende Person nach ihrer Zulassung von der Prüfung
 oder einem Teil der Prüfung zurück, so hat sie der oder dem
@@ -845,6 +869,7 @@ gilt entsprechend.
 
 
 #### § 21 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002300000)
 
 (1) Versäumt eine zu prüfende Person einen Prüfungstermin, gibt sie
 eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht
@@ -860,6 +885,7 @@ Absatz 2 Satz 3 gilt entsprechend.
 
 
 #### § 22 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002400000)
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei zu prüfenden
 Personen, die die ordnungsgemäße Durchführung der Prüfung in
@@ -872,6 +898,7 @@ Jahren nach Abschluss der Prüfung zulässig.
 
 
 #### § 23 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002500000)
 
 Auf Antrag ist der zu prüfenden Person nach Abschluss der Prüfung
 Einsicht in ihre Prüfungsunterlagen zu gewähren. Schriftliche
@@ -880,6 +907,7 @@ Prüfungsniederschriften zehn Jahre aufzubewahren.
 
 
 #### § 24 Prüfung bei Modellvorhaben nach § 14 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002601125)
 
 (1) § 10 Absatz 1 gilt bei Ausbildungen nach § 14 des
 Pflegeberufegesetzes mit der Maßgabe, dass dem Prüfungsausschuss
@@ -949,12 +977,15 @@ staatlichen Prüfung.
 
 
 ## Teil 2 - Besondere Vorschriften zur beruflichen Pflegeausbildung nach Teil 5 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000400000)
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000500000)
 
 
 #### § 25 Anwendbarkeit der Vorschriften nach Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002700000)
 
 Auf die berufliche Pflegeausbildung nach Teil 5 des
 Pflegeberufegesetzes finden die Vorschriften des Teils 1 Anwendung,
@@ -963,9 +994,11 @@ etwas anderes ergibt.
 
 
 ### Abschnitt 2 - Berufliche Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000600000)
 
 
 #### § 26 Inhalt und Durchführung der Ausbildung, staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002800000)
 
 (1) Die Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder
 zum Gesundheits- und Kinderkrankenpfleger nach § 58 Absatz 1 des
@@ -990,6 +1023,7 @@ und Jugendlichen tätig sein.
 
 
 #### § 27 Gegenstände des schriftlichen, mündlichen und praktischen Teils der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE002900000)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Prüfungsbereiche aus den Kompetenzbereichen I bis V der Anlage 3:
@@ -1055,9 +1089,11 @@ der Pflege von Kindern und Jugendlichen zu entnehmen.
 
 
 ### Abschnitt 3 - Berufliche Ausbildung zur Altenpflegerin oder zum Altenpfleger
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000700000)
 
 
 #### § 28 Inhalt und Durchführung der Ausbildung, staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003000000)
 
 (1) Die Ausbildung zur Altenpflegerin oder zum Altenpfleger nach § 58
 Absatz 2 des Pflegeberufegesetzes befähigt die Auszubildenden in
@@ -1080,6 +1116,7 @@ Menschen tätig sein.
 
 
 #### § 29 Gegenstände des schriftlichen, mündlichen und praktischen Teils der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003100000)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Prüfungsbereiche aus den Kompetenzbereichen I bis V der Anlage 4:
@@ -1145,9 +1182,11 @@ der Pflege von alten Menschen zu entnehmen.
 
 
 ## Teil 3 - Hochschulische Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000800000)
 
 
 ### § 30 Inhalt und Gliederung der hochschulischen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003202125)
 
 (1) Die hochschulische Pflegeausbildung nach Teil 3 des
 Pflegeberufegesetzes befähigt dazu, Menschen aller Altersstufen in den
@@ -1202,6 +1241,7 @@ Hochschule.
 
 
 ### § 31 Durchführung der hochschulischen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003303130)
 
 (1) Die Hochschule schließt für die Durchführung der Praxiseinsätze
 einen Kooperationsvertrag in Textform mit einer Einrichtung nach § 7
@@ -1234,6 +1274,7 @@ psychischen Kräften der Studierenden angemessen sein.
 
 
 ### § 32 Modulprüfungen und staatliche Prüfung zur Erlangung der Berufszulassung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003401125)
 
 (1) Die Prüfung umfasst jeweils einen schriftlichen, einen mündlichen
 und einen praktischen Teil. Gegenstand der staatlichen Prüfung zur
@@ -1264,6 +1305,7 @@ Prüfungen nach den §§ 35 bis 37 sollen zum Ende des Studiums erfolgen.
 
 
 ### § 33 Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003502125)
 
 (1) An jeder Hochschule, die die hochschulische Pflegeausbildung
 anbietet, wird ein Prüfungsausschuss gebildet, der für die
@@ -1330,6 +1372,7 @@ Vertreter der Pflegeschule in den Prüfungsausschuss berufen.
 
 
 ### § 34 Zulassung zur Prüfung, Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003600000)
 
 (1) Die Vorsitzenden des Prüfungsausschusses entscheiden auf Antrag
 der oder des Studierenden und auf Grundlage der im Studiengangskonzept
@@ -1339,6 +1382,7 @@ geregelten Voraussetzungen über die Zulassung zur staatlichen Prüfung.
 
 
 ### § 35 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003702125)
 
 (1) Der schriftliche Teil der Prüfung umfasst vier Aufsichtsarbeiten.
 
@@ -1451,6 +1495,7 @@ nach Absatz 6 zu berücksichtigen.
 
 
 ### § 36 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003802125)
 
 (1) Für den mündlichen Teil der Prüfung ist ein Modul oder sind Module
 zu folgenden Prüfungsbereichen aus den Kompetenzbereichen III bis V
@@ -1534,6 +1579,7 @@ Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
 
 ### § 37 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE003903125)
 
 (1) Der praktische Teil der Prüfung besteht aus
 
@@ -1646,11 +1692,13 @@ Prüfungsleistung mindestens mit „ausreichend“ benotet wird.
 
 
 ### § 38 Niederschrift, Rücktritt von der Prüfung, Versäumnisfolgen, Ordnungsverstöße und Täuschungsversuche, Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004000000)
 
 Die §§ 18, 20 bis 23 sind entsprechend anzuwenden.
 
 
 ### § 39 Bestehen und Wiederholung des staatlichen Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004100000)
 
 (1) Die Beurteilung der Prüfungsleistungen erfolgt durch Noten. Die
 Benotung basiert auf einer Bewertung der Prüfungsleistung in Bezug auf
@@ -1669,6 +1717,7 @@ entsprechend anzuwenden.
 
 
 ### § 40 Erfolgreicher Abschluss der hochschulischen Pflegeausbildung, Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004201125)
 
 (1) Die hochschulische Pflegeausbildung ist erfolgreich abgeschlossen,
 wenn sowohl der hochschulische als auch der staatliche Prüfungsteil
@@ -1683,6 +1732,7 @@ getrennt ausgewiesen und von der zuständigen Behörde unterzeichnet.
 
 
 ### § 41 Prüfung bei Modellvorhaben nach § 14 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004300000)
 
 Die Prüfung bei Ausbildungen nach § 14 des Pflegeberufegesetzes, die
 im Rahmen der hochschulischen Pflegeausbildung stattfinden, ist an
@@ -1693,12 +1743,15 @@ entsprechend anzuwenden sind.
 
 
 ## Teil 4 - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG000900000)
 
 
 ### Abschnitt 1 - Erlaubniserteilung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001000000)
 
 
 #### § 42 Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004402125)
 
 Sind die Voraussetzungen nach § 2 des Pflegeberufegesetzes für die
 Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Satz
@@ -1713,9 +1766,11 @@ Pflegeberufegesetzes nach dem Muster der Anlage 14.
 
 
 ### Abschnitt 2 - Anerkennung von ausländischen Berufsabschlüssen, erforderliche Anpassungsmaßnahmen und Erbringung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001100000)
 
 
 #### § 43 Allgemeines Verfahren, Bescheide, Fristen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004502125)
 
 (1) Eine Person, die außerhalb des Geltungsbereiches des
 Pflegeberufegesetzes eine Ausbildung absolviert hat, kann bei der
@@ -1795,6 +1850,7 @@ erworbene abgeschlossene Ausbildung verfügt, kann die Behörde von Satz
 
 
 #### § 43a Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE009100125)
 
 (1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach
 § 1 des Pflegeberufegesetzes auf Grund einer außerhalb des
@@ -1902,6 +1958,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 44 Inhalt und Durchführung des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004601125)
 
 (1) Ziel des Anpassungslehrgangs nach § 40 Absatz 3 Satz 2 des
 Pflegeberufegesetzes ist es, festzustellen, dass die Teilnehmerin oder
@@ -1973,6 +2030,7 @@ Anpassungslehrgang einmal wiederholen.
 
 
 #### § 45 Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004702130)
 
 (1) In der Kenntnisprüfung hat die zu prüfende Person nachzuweisen,
 dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der
@@ -2072,6 +2130,7 @@ dem Muster der Anlage 10 erteilt.
 
 
 #### § 45a Inhalt und Durchführung der Kenntnisprüfung nach § 40 Absatz 3 Satz 2 des Pflegeberufegesetzes als anwendungsorientierte Parcoursprüfung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008400125)
 
 (1) Die Kenntnisprüfung kann abweichend von § 45 als
 anwendungsorientierte Parcoursprüfung durchgeführt werden. In der
@@ -2215,6 +2274,7 @@ Vereinbarung der Länder einer gemeinsamen Einrichtung bedienen.
 
 
 #### § 46 Inhalt und Durchführung des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004800000)
 
 (1) Ziel des Anpassungslehrgangs nach § 41 Absatz 2 Satz 4 oder Absatz
 3 Satz 2 des Pflegeberufegesetzes ist es, die von der zuständigen
@@ -2238,6 +2298,7 @@ Bescheinigung nach dem Muster der Anlage 11 nachzuweisen.
 
 
 #### § 47 Inhalt und Durchführung der Eignungsprüfung nach § 41 Absatz 2 Satz 4 oder Absatz 3 Satz 2 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE004901125)
 
 (1) In der Eignungsprüfung hat die zu prüfende Person nachzuweisen,
 dass sie über die zum Ausgleich der von der zuständigen Behörde
@@ -2313,6 +2374,7 @@ Eignungsprüfung entsprechend.
 
 
 #### § 48 Nachweis der Zuverlässigkeit und der gesundheitlichen Eignung durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005001125)
 
 (1) Eine Person, die über einen Ausbildungsnachweis aus einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -2375,6 +2437,7 @@ Recht der Europäischen Union eine Gleichstellung ergibt.
 
 
 #### § 49 Verfahren bei Erbringung von Dienstleistungen durch Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005101125)
 
 (1) Die zuständige Behörde hat die Person, die beabsichtigt, eine
 Dienstleistung im Sinne des § 44 Absatz 1 oder 2 des
@@ -2406,9 +2469,11 @@ Recht der Europäischen Union eine Gleichstellung ergibt.
 
 
 ### Abschnitt 2a - Verfahren zur Erteilung der Erlaubnis zur partiellen Berufsausübung nach § 48a des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001400125)
 
 
 #### § 49a Frist der Behörde für die Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008500125)
 
 Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung
 nach § 48a des Pflegeberufegesetzes, so bestätigt die zuständige
@@ -2418,6 +2483,7 @@ fehlen, um die erforderlichen Voraussetzungen nachzuweisen.
 
 
 #### § 49b Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008600125)
 
 (1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach
 § 48a Absatz 1 des Pflegeberufegesetzes auf Grund einer außerhalb des
@@ -2518,6 +2584,7 @@ Gründe gegen eine entsprechende Absicht sprechen.
 
 
 #### § 49c Frist der Behörde für die Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008700125)
 
 Die zuständige Behörde entscheidet kurzfristig über den Antrag,
 spätestens jedoch drei Monate nach Vorlage der vollständigen
@@ -2525,6 +2592,7 @@ Unterlagen durch die antragstellende Person.
 
 
 #### § 49d Erlaubnisurkunde
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008801130)
 
 Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach §
 48a des Pflegeberufegesetzes ist das Muster nach Anlage 12a zu
@@ -2532,9 +2600,11 @@ verwenden.
 
 
 ### Abschnitt 2b - Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001500125)
 
 
 #### § 49e Erforderliche Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE008900125)
 
 (1) Personen, die eine Genehmigung nach § 48b Absatz 1 des
 Pflegeberufegesetzes auf Grund einer außerhalb des Geltungsbereichs
@@ -2606,9 +2676,11 @@ Form für die vorzulegenden Dokumente zulassen. Sie kann auf die
 
 
 ### Abschnitt 3 - Fachkommission und Bundesinstitut für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001200000)
 
 
 #### § 50 Aufgaben der Fachkommission
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005200000)
 
 Die Fachkommission übernimmt die ihr nach dem Pflegeberufegesetz
 zugewiesenen Aufgaben. Sie
@@ -2634,6 +2706,7 @@ zugewiesenen Aufgaben. Sie
 
 
 #### § 51 Erarbeitung und Inhalte der Rahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005300000)
 
 (1) Die Fachkommission erarbeitet die Rahmenpläne auf der Grundlage
 der in den Anlagen 1 bis 4 dieser Verordnung beschriebenen
@@ -2655,6 +2728,7 @@ Pflegealltag berücksichtigen.
 
 
 #### § 52 Überprüfung und Anpassung der Rahmenpläne
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005400000)
 
 (1) Die Fachkommission überprüft die Rahmenpläne mindestens alle fünf
 Jahre. Das Bundesministerium für Familie, Senioren, Frauen und Jugend
@@ -2678,6 +2752,7 @@ Monaten.
 
 
 #### § 53 Mitgliedschaft in der Fachkommission
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005500000)
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und
 das Bundesministerium für Gesundheit berufen gemeinsam im Benehmen mit
@@ -2720,6 +2795,7 @@ sie ein neues Mitglied berufen.
 
 
 #### § 54 Vorsitz, Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005600000)
 
 (1) Die Mitglieder der Fachkommission wählen aus ihrer Mitte ein
 Mitglied, das den Vorsitz übernimmt, und ein Mitglied, das die
@@ -2733,6 +2809,7 @@ ist zulässig. In diesem Fall ist Absatz 1 anzuwenden.
 
 
 #### § 55 Sachverständige, Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005700000)
 
 (1) Die Fachkommission kann im Rahmen der verfügbaren Haushaltsmittel
 schriftlich beschließen, zu einzelnen Beratungsthemen Sachverständige
@@ -2757,6 +2834,7 @@ für die Fachkommission in geeigneter Form hinzuweisen.
 
 
 #### § 56 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005800000)
 
 (1) Die Fachkommission übermittelt innerhalb von vier Wochen ab der
 Berufung aller Mitglieder der Fachkommission nach § 53 Absatz 1 den
@@ -2779,6 +2857,7 @@ gemeinsam genehmigen.
 
 
 #### § 57 Aufgaben der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE005900000)
 
 Die beim Bundesinstitut für Berufsbildung angesiedelte Geschäftsstelle
 unterstützt die Fachkommission bei ihrer Arbeit. Sie übernimmt die
@@ -2786,6 +2865,7 @@ administrativen Aufgaben für die Fachkommission.
 
 
 #### § 58 Sitzungen der Fachkommission
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006000000)
 
 (1) Die Beratungen der Fachkommission sind nicht öffentlich.
 
@@ -2798,6 +2878,7 @@ Länder können beratend an den Sitzungen der Fachkommission teilnehmen.
 
 
 #### § 59 Reisen und Aufwandsentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006101116)
 
 Die Erstattung von Reisekosten für Mitglieder richtet sich nach den
 Richtlinien für die Abfindung der Mitglieder von Beiräten,
@@ -2811,6 +2892,7 @@ festgelegt.
 
 
 #### § 60 Aufgaben des Bundesinstituts für Berufsbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006202130)
 
 (1) Das Bundesinstitut für Berufsbildung berät und informiert über die
 berufliche Ausbildung und die hochschulische Ausbildung, insbesondere
@@ -2861,9 +2943,11 @@ Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
 
 ### Abschnitt 4 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNG001300000)
 
 
 #### § 61 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006302125)
 
 (1) Für Ausbildungen, die nach dem Krankenpflegegesetz vor Ablauf des
 31\. Dezember 2019 begonnen wurden, ist bis zum 31. Dezember 2024 die
@@ -3064,6 +3148,7 @@ Dezember 2024 geltenden Fassung anzuwenden.
 
 
 #### § 62 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006400000)
 
 (1) Die §§ 50 bis 60 treten am Tag nach der Verkündung in Kraft. Im
 Übrigen tritt diese Verordnung am 1. Januar 2020 in Kraft.
@@ -3078,12 +3163,14 @@ geändert worden ist, treten am 31. Dezember 2019 außer Kraft.
 
 
 #### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006500000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 7 Satz 2)
 
 #### Anlage 1 Kompetenzen für die Zwischenprüfung nach § 7
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006601125)
 
 (Fundstelle: BGBl. I 2018, 1592 - 1595;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -3636,6 +3723,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 (zu § 9 Absatz 1 Satz 2)
 
 #### Anlage 2 Kompetenzen für die staatliche Prüfung nach § 9 zur Pflegefachfrau oder zum Pflegefachmann
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006701125)
 
 (Fundstelle: BGBl. I 2018, 1596 - 1600;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -4272,6 +4360,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 (zu § 26 Absatz 3 Satz 1)
 
 #### Anlage 3 Kompetenzen für die staatliche Prüfung nach § 26 zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006801125)
 
 (Fundstelle: BGBl. I 2018, 1601 - 1605;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -4909,6 +4998,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 (zu § 28 Absatz 3 Satz 1)
 
 #### Anlage 4 Kompetenzen für die staatliche Prüfung nach § 28 zur Altenpflegerin oder zum Altenpfleger
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE006901125)
 
 (Fundstelle: BGBl. I 2018, 1606 - 1610;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -5528,6 +5618,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 Absatz 1 Nummer 1 und 2)
 
 #### Anlage 5 Kompetenzen für die Prüfung der hochschulischen Pflegeausbildung nach § 32
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007002125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 32 – 36)
 
@@ -6018,6 +6109,7 @@ B.  Kompetenzen nach § 35 Absatz 2 Satz 2, § 36 Absatz 1 Satz 2, § 37
 (zu § 1 Absatz 2 Nummer 1, § 25)
 
 #### Anlage 6 Stundenverteilung im Rahmen des theoretischen und praktischen Unterrichts der beruflichen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007100000)
 
 (Fundstelle: BGBl. I 2018, 1613)
 
@@ -6124,6 +6216,7 @@ Kindern und Jugendlichen sowie von alten Menschen.
 (zu § 1 Absatz 2 Nummer 2, § 26 Absatz 2 Satz 1, § 28 Absatz 2 Satz 1)
 
 #### Anlage 7 Stundenverteilung im Rahmen der praktischen Ausbildung der beruflichen Pflegeausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007201130)
 
 (Fundstelle: BGBl. I 2018, 1614)
 
@@ -6309,6 +6402,7 @@ Kindern und Jugendlichen sowie von alten Menschen.
 [^F804365_02_BJNR157200018BJNE007201130]: 
 
 #### Anlage 8 (zu § 19 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007301125)
 
 (Fundstelle: BGBl. I 2018, 1615;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6383,6 +6477,7 @@ Pflegeausbildung
 
 
 #### Anlage 9 (zu § 44 Absatz 3 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007401125)
 
    (Fundstelle: BGBl. I 2018, 1616;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6428,6 +6523,7 @@ Bezeichnung der Einrichtung
 [^F804365_04_BJNR157200018BJNE007401125]: 
 
 #### Anlage 10 (zu § 45 Absatz 9, § 45a Absatz 9)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007501125)
 
 (Fundstelle: BGBl. I 2018, 1617;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6475,6 +6571,7 @@ des Prüfungsausschusses
 [^F804365_05_BJNR157200018BJNE007501125]: 
 
 #### Anlage 11 (zu § 46 Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007601125)
 
 (Fundstelle: BGBl. I 2018, 1618;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6515,6 +6612,7 @@ Bezeichnung der Einrichtung
 
 
 #### Anlage 12 (zu § 47 Absatz 5 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007701125)
 
    (Fundstelle: BGBl. I 2018, 1619;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6560,6 +6658,7 @@ des Prüfungsausschusses
 [^F804365_06_BJNR157200018BJNE007701125]: 
 
 #### Anlage 12a (zu § 49d)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE009000125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 29)
 
@@ -6632,6 +6731,7 @@ Absatz 5 Satz 3 der Richtlinie 2005/36/EG).
 
 
 #### Anlage 13 (zu § 42 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007801125)
 
 (Fundstelle: BGBl. I 2018, 1620;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
@@ -6673,6 +6773,7 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
    (zu § 42 Satz 2)
 
 #### Anlage 14 Anlage zur Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/pflaprv/BJNR157200018.html#BJNR157200018BJNE007902125)
 
 (Fundstelle: BGBl. 2023 I Nr. 359, S. 36 )
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bvwaaufg_ano_1992/BJNR508500992.html#BJNR508500992BJNE000100314)
 
 Gemäß § 1 Abs. 3 des Gesetzes über die Errichtung des
 Bundesverwaltungsamtes vom 28. Dezember 1959 (BGBl. I S. 829)
@@ -36,6 +37,7 @@ Ausübung diplomatischen Schutzes.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bvwaaufg_ano_1992/BJNR508500992.html#BJNR508500992BJNE000200314)
 
 Das Bundesverwaltungsamt untersteht in dieser übertragenen
 Angelegenheit gemäß § 8 des Gesetzes über die Errichtung des
@@ -43,12 +45,14 @@ Bundesverwaltungsamtes den fachlichen Weisungen des Auswärtigen Amtes.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bvwaaufg_ano_1992/BJNR508500992.html#BJNR508500992BJNE000300314)
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern und tritt am Tag der Unterzeichnung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bvwaaufg_ano_1992/BJNR508500992.html#BJNR508500992BJNE000400314)
 
 Bonn, den 3. April 1992
 512-520.30 KUW

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000100305)
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung
@@ -34,6 +35,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000201377)
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
 Prüfungsteilnehmer die notwendigen Fähigkeiten und Erfahrungen
@@ -91,6 +93,7 @@ Winzermeister/Winzermeisterin.
 
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE001200308)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -122,6 +125,7 @@ rechtfertigen.
 
 
 ## § 2 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000300305)
 
 (1) Die Meisterprüfung umfasst die Teile
 
@@ -139,6 +143,7 @@ rechtfertigen.
 
 
 ## § 3 Prüfungsanforderungen im Teil "Produktion, Verfahrenstechnik und Vermarktung"
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000400305)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, dass er die weinbauliche
 Produktion, die Kellerwirtschaft und damit verbundene
@@ -225,6 +230,7 @@ zu 120 Minuten zur Verfügung.
 
 
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000500305)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, dass er wirtschaftliche,
 rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren
@@ -308,6 +314,7 @@ als 60 Minuten dauern.
 
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000601377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -558,6 +565,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 6 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000702377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -570,6 +578,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 7 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000801377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Produktion, Verfahrenstechnik und Vermarktung" ist eine Note als
@@ -608,6 +617,7 @@ und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Wiederholung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE000900305)
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
 wiederholt werden.
@@ -622,6 +632,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE001001377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.
@@ -634,6 +645,7 @@ Vorschriften ablegen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/winzmeistprv/BJNR225500001.html#BJNR225500001BJNE001100305)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

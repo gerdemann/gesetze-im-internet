@@ -28,6 +28,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000100000)
 
 Auf Grund des § 20 Absatz 1 und 2 Nummer 1 und 3 bis 6 des
 Vertrauensdienstegesetzes vom 18. Juli 2017 (BGBl. I S. 2745)
@@ -35,6 +36,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Anforderungen an die Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000200000)
 
 Barrierefreie Vertrauensdienste gemäß § 7 Absatz 1 des
 Vertrauensdienstegesetzes sind, soweit technisch möglich, für Menschen
@@ -46,6 +48,7 @@ Technik zu orientieren.
 
 
 ## § 2 Ausgestaltung der Deckungsvorsorge für qualifizierte Vertrauensdiensteanbieter
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000300000)
 
 (1) Die Deckungsvorsorge nach Artikel 24 Absatz 2 Buchstabe c zweite
 Alternative der Verordnung (EU) Nr. 910/2014 in Verbindung mit § 10
@@ -110,6 +113,7 @@ Nummer 1 erbracht wird, gelten die folgenden Bestimmungen:
 
 
 ## § 3 Dokumentation der Ausgabe qualifizierter Zertifikate für Vertrauensdienste
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000400000)
 
 (1) Soweit der Vertrauensdiensteanbieter bei der Ausgabe
 qualifizierter Zertifikate die Identität oder Attribute an Hand
@@ -126,6 +130,7 @@ unterschrieben sein.
 
 
 ## § 4 Vorsorge für die dauerhafte Prüfbarkeit qualifizierter Zertifikate
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000500000)
 
 (1) Qualifizierte Vertrauensdiensteanbieter haben Vorsorge zu treffen,
 dass die Zertifikate im Fall einer Betriebseinstellung im Sinne des §
@@ -152,6 +157,7 @@ Widerrufslisten und Statusinformationen aufzunehmen.
 
 
 ## § 5 Anzeigen zu Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr. 910/2014
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000600000)
 
 Benannte Stellen nach Artikel 30 Absatz 1 der Verordnung (EU) Nr.
 910/2014 sind verpflichtet, der Bundesnetzagentur neue
@@ -162,6 +168,7 @@ Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vdv/BJNR011400019.html#BJNR011400019BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -27,6 +27,7 @@ deutsches Recht umgesetzt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000100000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet auf Grund
@@ -49,6 +50,7 @@ Landwirtschaft verordnet auf Grund
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000200000)
 
 Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
@@ -56,6 +58,7 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 
 
 ## § 2 Anforderungen an die Beschaffenheit
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000301116)
 
 (1) Honig muss hinsichtlich seiner Beschaffenheit den Anforderungen
 nach Anlage 2 entsprechen.
@@ -76,6 +79,7 @@ vom 30.1.2014, S. 7) geändert worden ist.
 
 
 ## § 3 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000403116)
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort
 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der
@@ -149,6 +153,7 @@ gleich.
 
 
 ## § 4 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000500000)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
@@ -170,6 +175,7 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000702116)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Nr. 1 oder 2
@@ -186,6 +192,7 @@ bringt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE000802116)
 
 Bis zum 23. Juni 2015 dürfen Erzeugnisse nach den bis zum 8. Juli 2015
 geltenden Vorschriften hergestellt und gekennzeichnet werden. Nach
@@ -194,6 +201,7 @@ Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE001001116)
 
 (1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -201,12 +209,14 @@ Abbau der Vorräte in den Verkehr gebracht werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE001101116)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 1, 3 und 4)
 
 ## Anlage 1 Begriffsbestimmungen, Bezeichnungen der Lebensmittel
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE001201116)
 
 Abschnitt I
 Allgemeines
@@ -312,6 +322,7 @@ folgende Honigarten unterschieden:
 (zu den §§ 2 und 4)
 
 ## Anlage 2 Anforderungen an die Beschaffenheit
+[Direktlink](https://www.gesetze-im-internet.de/honigv_2004/BJNR009200004.html#BJNR009200004BJNE001301116)
 
 Abschnitt I
 Allgemeine Anforderungen

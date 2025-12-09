@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Gegenstand der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000107123)
 
 (1) Der Steuer unterliegt die Zahlung des Versicherungsentgelts auf
 Grund eines durch Vertrag oder auf sonstige Weise entstandenen
@@ -135,6 +136,7 @@ ausschließliche Wirtschaftszone.
 
 
 ## § 2 Versicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000202123)
 
 (1) Als Versicherungsvertrag im Sinne dieses Gesetzes gilt auch eine
 Vereinbarung zwischen mehreren Personen oder Personenvereinigungen,
@@ -147,6 +149,7 @@ oder sonstige Sicherheit zu leisten.
 
 
 ## § 3 Versicherungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000303123)
 
 (1) Versicherungsentgelt im Sinne dieses Gesetzes ist jede Leistung,
 die für die Begründung und zur Durchführung des
@@ -191,6 +194,7 @@ Versicherungsnehmer mit der Prämienrechnung vorgelegt wird.
 
 
 ## § 4 Ausnahmen von der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000421123)
 
 (1) Von der Besteuerung ausgenommen ist die Zahlung des
 Versicherungsentgelts
@@ -334,6 +338,7 @@ Steuerbefreiung führt.
 
 
 ## § 5 Steuerberechnung, Steuerentstehung, Steuerausweis
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000509123)
 
 (1) Die Steuer wird für die einzelnen Versicherungen berechnet, und
 zwar
@@ -396,6 +401,7 @@ Versicherungsverhältnis begründenden Unterlagen ergeben.
 
 
 ## § 6 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000615123)
 
 (1) Die Steuer beträgt vorbehaltlich des folgenden Absatzes 19 Prozent
 des Versicherungsentgelts ohne Versicherungsteuer.
@@ -439,6 +445,7 @@ des Versicherungsentgelts ohne Versicherungsteuer.
 
 
 ## § 7 Steuerschuldner, Steuerentrichtungsschuldner, Haftende
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000706123)
 
 (1) Steuerschuldner ist der Versicherungsnehmer.
 
@@ -512,11 +519,13 @@ dessen Einziehung und Geltendmachung im Rechtsweg handelt.
 
 
 ## § 7a Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001408123)
 
 Zuständig ist das Bundeszentralamt für Steuern.
 
 
 ## § 8 Anmeldung, Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000810123)
 
 (1) Der Steuerentrichtungsschuldner nach § 7 Absatz 2, 3, 4 oder
 Absatz 5 hat innerhalb von 15 Tagen nach Ablauf eines jeden
@@ -556,6 +565,7 @@ setzt das Bundeszentralamt für Steuern die Steuer fest.
 
 
 ## § 9 Erstattung, Nachentrichtung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE000905123)
 
 (1) Ist das Versicherungsentgelt ganz oder zum Teil zurückgezahlt
 worden, weil die Versicherung vorzeitig endete oder weil das
@@ -602,6 +612,7 @@ Leistungsfall die Versicherungsleistung entsprechend zu kürzen.
 
 
 ## § 10 Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001009123)
 
 (1) Alle Gesamtschuldner im Sinne des § 7 Absatz 8 Satz 1, die nach
 der Abgabenordnung oder anderen Gesetzen aufzeichnungspflichtig sind,
@@ -680,6 +691,7 @@ einen Monat nach Bekanntgabe der Festsetzung fällig.
 
 
 ## § 10a Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001203123)
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten
 Behörden teilen dem Bundeszentralamt für Steuern die zu ihrer Kenntnis
@@ -693,6 +705,7 @@ Unterstützungen ohne Rechtsanspruch bezeichnen.
 
 
 ## § 10b Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001308123)
 
 Wird ein Steuersatz geändert oder die Zahlung des
 Versicherungsentgelts von der Steuer ausgenommen, ist der neue
@@ -713,6 +726,7 @@ wird.
 
 
 ## § 10c Geschäftstätigkeit von Lloyd´s
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001801123)
 
 (1) Der Hauptbevollmächtigte von Lloyd´s hat für alle der bei Lloyd´s
 vereinigten Einzelversicherer die nach diesem Gesetz entstandene
@@ -733,6 +747,7 @@ verwaltet werden.
 
 
 ## § 11 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001106123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt,
 Rechtsverordnungen, die nicht der Zustimmung des Bundesrates bedürfen,
@@ -792,6 +807,7 @@ Bundesgesetzblatt bekanntmachen.
 
 
 ## § 12 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/versstg/BJNR004000922.html#BJNR004000922BJNE001703123)
 
 (1) § 1 Absatz 4 ist anzuwenden für Versicherungsentgelte, die sich
 auf Versicherungszeiträume ab dem 1. Januar 2014 beziehen.

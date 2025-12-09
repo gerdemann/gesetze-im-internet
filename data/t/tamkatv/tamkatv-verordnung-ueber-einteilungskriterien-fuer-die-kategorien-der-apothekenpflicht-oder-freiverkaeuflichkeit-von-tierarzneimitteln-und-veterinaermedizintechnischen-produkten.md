@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Kriterien für die Apothekenpflicht von Tierarzneimitteln und veterinärmedizintechnischen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/tamkatv/BJNR0420B0023.html#BJNR0420B0023BJNE000100000)
 
 Ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt im
 Sinne des § 3 Absatz 3 Nummer 1 des Tierarzneimittelgesetzes ist als
@@ -91,6 +92,7 @@ Vorbeuge von Vitamin- und Mineralstoffmangelkrankheiten.
 
 
 ## § 2 Kriterien für die Freiverkäuflichkeit von Tierarzneimitteln und veterinärmedizintechnischen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/tamkatv/BJNR0420B0023.html#BJNR0420B0023BJNE000200000)
 
 (1) Ein Tierarzneimittel oder ein veterinärmedizintechnisches Produkt
 ist nach § 40 Absatz 2 Satz 2 des Tierarzneimittelgesetzes frei

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000100306)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000100301)
 
 (1) Das Handelsgesetzbuch tritt gleichzeitig mit dem Bürgerlichen
 Gesetzbuch in Kraft.
@@ -35,6 +37,7 @@ tritt mit Ausnahme des § 65 am 1. Januar 1898 in Kraft.
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000201360)
 
 (1) In Handelssachen kommen die Vorschriften des Bürgerlichen
 Gesetzbuchs nur insoweit zur Anwendung, als nicht im Handelsgesetzbuch
@@ -44,15 +47,18 @@ oder in diesem Gesetz ein anderes bestimmt ist.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000300301)
 
 -
 
 
 ### Art 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000402125)
 
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000501307)
 
 Auf Bergwerksgesellschaften, die nach den Vorschriften der
 Landesgesetze nicht die Rechte einer juristischen Person besitzen,
@@ -60,6 +66,7 @@ findet § 1 des Handelsgesetzbuchs keine Anwendung.
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000602377)
 
 (1) Ist ein Konnossement in einem Vertragsstaat des Internationalen
 Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über
@@ -109,6 +116,7 @@ Regeln ist.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000706377)
 
 (1) Folgende Vorschriften des Handelsgesetzbuchs sind auch anzuwenden,
 wenn das Schiff nicht zum Erwerb durch Seefahrt betrieben wird:
@@ -146,6 +154,7 @@ beschränkt werden.
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004302377)
 
 (1) Die §§ 574 bis 580, 582 bis 584, 587 und 606 Nummer 3, dieser in
 Verbindung mit § 607 Absatz 7 sowie den §§ 608 und 610 des
@@ -170,10 +179,12 @@ in dem sich die Behörde befindet.
 
 
 ### (XXXX) Art 9 bis 14
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000801308)
 
 
 
 ### Art 15
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE000900301)
 
 (1) Die privatrechtlichen Vorschriften der Landesgesetze bleiben
 insoweit unberührt, als es in diesem Gesetz bestimmt oder als im
@@ -184,16 +195,19 @@ landesgesetzliche Vorschriften erlassen werden.
 
 
 ### Art 16
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001000301)
 
 -
 
 
 ### Art 17
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001100301)
 
 -
 
 
 ### Art 18
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001200301)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den Vertrag
 zwischen dem Brauer und dem Wirt über die Lieferung von Bier, soweit
@@ -202,9 +216,11 @@ regeln, daß nicht besondere Vereinbarungen getroffen werden.
 
 
 ### (XXXX) Art 19 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001300301)
 
 
 ### Art 22
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001400301)
 
 (1) Die zur Zeit des Inkrafttretens des Handelsgesetzbuchs im
 Handelsregister eingetragenen Firmen können weitergeführt werden,
@@ -214,10 +230,12 @@ soweit sie nach den bisherigen Vorschriften geführt werden durften.
 
 
 ## Zweiter Abschnitt - Übergangsvorschriften zum Bilanzrichtlinien-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000200306)
 
 
 
 ### Art 23
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001501306)
 
 (1) Die vom Inkrafttreten der Artikel 1 bis 10 des Bilanzrichtlinien-
 Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355) an geltende Fassung
@@ -275,6 +293,7 @@ anzuwenden.
 
 
 ### Art 24
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001601377)
 
 (1) Waren Vermögensgegenstände des Anlagevermögens im Jahresabschluß
 für das am 31. Dezember 1986 endende oder laufende Geschäftsjahr mit
@@ -318,6 +337,7 @@ im Anhang angeben.
 
 
 ### Art 25
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001707360)
 
 (1) Auf die Prüfung des Jahresabschlusses
 
@@ -380,6 +400,7 @@ Konzernabschlusses.
 
 
 ### Art 26
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001801377)
 
 (1) Abschlußprüfer nach § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs
 kann auch eine nach § 131f Abs. 2 der Wirtschaftsprüferordnung
@@ -398,6 +419,7 @@ Inkrafttreten des Bilanzrichtlinien-Gesetzes stattfindet, endet.
 
 
 ### Art 27
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE001900306)
 
 (1) Hat ein Mutterunternehmen ein Tochterunternehmen schon vor der
 erstmaligen Anwendung des § 301 des Handelsgesetzbuchs in seinen
@@ -431,6 +453,7 @@ nicht Bestandteil des Jahresergebnisses.
 
 
 ### Art 28
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002000306)
 
 (1) Für eine laufende Pension oder eine Anwartschaft auf eine Pension
 auf Grund einer unmittelbaren Zusage braucht eine Rückstellung nach §
@@ -450,10 +473,12 @@ Anhang und im Konzernanhang in einem Betrag angeben.
 
 
 ## Dritter Abschnitt - Übergangsvorschrift zum Gesetz zur Durchführung der EG-Richtlinie zur Koordinierung des Rechts der Handelsvertreter vom 23. Oktober 1989 (BGBl. I S. 1910)
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000300309)
 
 
 
 ### Art 29
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002100309)
 
 Auf Handelsvertretervertragsverhältnisse, die vor dem 1. Januar 1990
 begründet sind und an diesem Tag noch bestehen, sind die §§ 86, 86a,
@@ -463,6 +488,7 @@ weiterhin anzuwenden.
 
 
 ### Art 29a
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002102307)
 
 § 90a Abs. 2 und 3 des Handelsgesetzbuches in der ab dem 1. Juli 1998
 geltenden Fassung ist auch auf Ansprüche aus vor dem 1. Juli 1998
@@ -471,10 +497,12 @@ noch nicht rechtskräftig entschieden worden ist.
 
 
 ## Vierter Abschnitt - Übergangsvorschriften zum Bankbilanzrichtlinie-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000400309)
 
 
 
 ### Art 30
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002200309)
 
 (1) Die vom Inkrafttreten der Artikel 1 bis 10 des
 Bankbilanzrichtlinie-Gesetzes vom 30. November 1990 (BGBl. I S. 2570)
@@ -516,6 +544,7 @@ anzuwenden, ist Absatz 3 entsprechend anzuwenden.
 
 
 ### Art 31
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002301377)
 
 (1) Waren wie Anlagevermögen behandelte Vermögensgegenstände im
 Jahresabschluß für das am 31. Dezember 1992 endende oder laufende
@@ -562,10 +591,12 @@ ist im Anhang anzugeben.
 
 
 ## Fünfter Abschnitt - Übergangsvorschriften zum Versicherungsbilanzrichtlinie-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000700307)
 
 
 
 ### Art 32
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002801377)
 
 (1) Die vom Inkrafttreten der Artikel 1 bis 5 des
 Versicherungsbilanzrichtlinie-Gesetzes vom 24. Juni 1994 an geltende
@@ -616,6 +647,7 @@ Geschäftsjahr anzuwenden.
 
 
 ### Art 33
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002901377)
 
 (1) Waren wie Anlagevermögen behandelte Vermögensgegenstände im
 Abschluß für das am 31. Dezember 1994 endende oder laufende
@@ -645,10 +677,12 @@ worden ist.
 
 
 ## Sechster Abschnitt - Übergangsvorschriften zum Gesetz zur Durchführung der Elften gesellschaftsrechtlichen Richtlinie vom 22. Juli 1993
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000500307)
 
 
 
 ### Art 34
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002400307)
 
 (1) Bei inländischen Zweigniederlassungen von Aktiengesellschaften,
 Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter
@@ -675,10 +709,12 @@ Dezember 1992 beginnende Geschäftsjahr anzuwenden.
 
 
 ## Siebenter Abschnitt - Übergangsvorschriften zum Nachhaftungsbegrenzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000600307)
 
 
 
 ### Art 35
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002500307)
 
 § 160 des Handelsgesetzbuches in der ab dem 26. März 1994 geltenden
 Fassung ist auf vor diesem Datum entstandene Verbindlichkeiten
@@ -700,6 +736,7 @@ Verjährungsfrist ein Jahr beträgt.
 
 
 ### Art 36
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002601307)
 
 (1) Abweichend von Artikel 35 gilt § 160 Abs. 3 Satz 2 des
 Handelsgesetzbuches auch für Verbindlichkeiten im Sinne des Artikels
@@ -716,6 +753,7 @@ bei dem bisher anwendbaren Recht.
 
 
 ### Art 37
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE002701307)
 
 (1) Die §§ 26 und 28 Abs. 3 des Handelsgesetzbuches in der ab dem 26.
 März 1994 geltenden Fassung sind auf vor diesem Datum entstandene
@@ -748,9 +786,11 @@ bei dem bisher anwendbaren Recht.
 
 
 ## Achter Abschnitt - Übergangsvorschrift zum Handelsrechtsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001002377)
 
 
 ### Art 38
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003502377)
 
 Hat die Änderung der Firma eines Einzelkaufmanns oder einer
 Personenhandelsgesellschaft ausschließlich die Aufnahme der nach § 19
@@ -760,14 +800,17 @@ Fassung vorgeschriebenen Bezeichnung zum Gegenstand, bedarf diese
 
 
 ### (XXXX) Art 39 bis 41 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005600377)
 
 
 
 ## Neunter Abschnitt - Übergangsvorschriften zur Einführung des Euro
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000900307)
 
 
 
 ### Art 42
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003100307)
 
 (1) Die §§ 244, 284 Abs. 2 Nr. 2, § 292a Abs. 1 Satz 1, § 313 Abs. 1
 Nr. 2 und § 340h Abs. 1 Satz 1 und 2 des Handelsgesetzbuchs in der ab
@@ -808,6 +851,7 @@ angegeben werden.
 
 
 ### Art 43
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003200307)
 
 (1) Ausleihungen, Forderungen und Verbindlichkeiten, die auf
 Währungseinheiten der an der Wirtschafts- und Währungsunion
@@ -834,6 +878,7 @@ Wechselkurse ergeben. Absatz 1 Satz 3 gilt entsprechend.
 
 
 ### Art 44
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003300307)
 
 (1) Die Aufwendungen für die Währungsumstellung auf den Euro dürfen
 als Bilanzierungshilfe aktiviert werden, soweit es sich um
@@ -856,6 +901,7 @@ Geschäftsjahr anzuwenden.
 
 
 ### Art 45
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003402301)
 
 (1) Anmeldungen zur Eintragung in das Handelsregister, die nur die
 Ersetzung von auf Deutsche Mark lautenden Beträgen durch den zu dem
@@ -877,10 +923,12 @@ Geschäftswert zugrunde zu legen.
 
 
 ## Zehnter Abschnitt - Übergangsvorschriften zum Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG000800307)
 
 
 
 ### Art 46
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003000307)
 
 (1) Die §§ 285, 289, 297, 315, 317, 321, 322, 340a und 341k des
 Handelsgesetzbuchs in der Fassung des Gesetzes zur Kontrolle und
@@ -902,10 +950,12 @@ geänderten Vorschriften anzuwenden.
 
 
 ## Elfter Abschnitt - Übergangsvorschriften zum Gesetz zur Verlängerung der steuerlichen und handelsrechtlichen Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001100307)
 
 
 
 ### Art 47
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE003900307)
 
 § 257 Abs. 4 des Handelsgesetzbuchs in der Fassung des Artikels 4 des
 Gesetzes vom 19. Dezember 1998 (BGBl. I S 3816) gilt erstmals für
@@ -915,10 +965,12 @@ noch nicht abgelaufen ist.
 
 
 ## Zwölfter Abschnitt - Übergangsvorschriften zum Kapitalgesellschaften- und Co-Richtlinie-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001110305)
 
 
 
 ### Art 48
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004000305)
 
 (1) Die Bestimmungen des zweiten Abschnitts des Dritten Buchs des
 Handelsgesetzbuchs in der vom 9. März 2000 an geltenden Fassung sind
@@ -989,10 +1041,12 @@ Artikel 28 Abs. 2 vorgeschriebenen Angaben erstmals für das nach dem
 
 
 ## Dreizehnter Abschnitt - Übergangsvorschrift zur Anpassung der Abgrenzungsmerkmale für größenabhängige Befreiungen bei der Aufteilung des Konzernabschlusses nach den §§ 290 bis 293 des Handelsgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001120305)
 
 
 
 ### Art 49
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004100305)
 
 § 293 Abs. 1 des Handelsgesetzbuchs ist für Geschäftsjahre, die nach
 dem 31. Dezember 1998 beginnen und die spätestens am 31. Dezember 1999
@@ -1036,10 +1090,12 @@ enden, mit folgenden Maßgaben anzuwenden:
 
 
 ## Vierzehnter Abschnitt - Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften über die Tätigkeit der Wirtschaftsprüfer
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001400311)
 
 
 
 ### Art 50
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004202377)
 
 § 319 Abs. 2 Satz 2 Nr. 2 und Abs. 3 Nr. 7 des Handelsgesetzbuchs in
 der am 1. Januar 2001 geltenden Fassung sind für die Prüfung einer
@@ -1049,10 +1105,12 @@ erstmals auf die Prüfung des Abschlusses für das nach dem 31. Dezember
 
 
 ## Fünfzehnter Abschnitt - Übergangsvorschriften zum Euro-Bilanzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001500377)
 
 
 
 ### Art 51
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004400377)
 
 (1) § 323 Abs. 2 und § 340k Abs. 4 des Handelsgesetzbuchs in der vom
 1\. Januar 2002 an geltenden Fassung sind erstmals auf die Prüfung des
@@ -1081,10 +1139,12 @@ Vorschriften des Satzes 1 angewendet werden.
 
 
 ## Sechzehnter Abschnitt - Übergangsvorschrift zum Gesetz über elektronische Register und Justizkosten für Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001600377)
 
 
 
 ### Art 52
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004500377)
 
 Bei nach § 33 des Handelsgesetzbuchs eingetragenen juristischen
 Personen, Offenen Handelsgesellschaften und Kommanditgesellschaften
@@ -1100,10 +1160,12 @@ Vertretungsmacht auch von Amts wegen vornehmen.
 
 
 ## Siebzehnter Abschnitt - Übergangsvorschriften zum Altfahrzeug-Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001700377)
 
 
 
 ### Art 53
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004600377)
 
 (1) Für Verpflichtungen zur Rücknahme und Verwertung von Altfahrzeugen
 nach den §§ 3 bis 5 der Altfahrzeug-Verordnung in der Fassung der
@@ -1127,10 +1189,12 @@ und 5 gilt entsprechend.
 
 
 ## Achtzehnter Abschnitt - Übergangsvorschriften zum Transparenz- und Publizitätsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001800377)
 
 
 
 ### Art 54
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004601377)
 
 (1) Die vom Inkrafttreten des Artikels 2 des Transparenz- und
 Publizitätsgesetzes an geltende Fassung des § 285 Nr. 9, § 286 Abs. 3,
@@ -1154,10 +1218,12 @@ nicht Bestandteil des Jahresergebnisses.
 
 
 ## Neunzehnter Abschnitt - Übergangsvorschriften zum Wirtschaftsprüfungsexamens-Reformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG001900377)
 
 
 
 ### Art 55
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004700377)
 
 (1) Die regelmäßige Verjährungsfrist nach § 195 des Bürgerlichen
 Gesetzbuchs findet auf die am 1. Januar 2004 bestehenden und noch
@@ -1174,10 +1240,12 @@ der in § 323 Abs. 5 des Handelsgesetzbuchs in der bis zum 31. Dezember
 
 
 ## Zwanzigster Abschnitt - Übergangsvorschriften zum Bilanzkontrollgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002100377)
 
 
 
 ### Art 56
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005000377)
 
 (1) Die Bestimmungen des Sechsten Abschnitts des Dritten Buchs des
 Handelsgesetzbuchs in der Fassung des Bilanzkontrollgesetzes vom 15.
@@ -1194,10 +1262,12 @@ Prüfstelle entstanden sind.
 
 
 ## Einundzwanzigster Abschnitt - Übergangsvorschriften zur Verordnung (EG) Nr. 1606/2002 sowie zum Bilanzrechtsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002000377)
 
 
 
 ### Art 57
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004800377)
 
 Auf Gesellschaften, von denen
 
@@ -1229,6 +1299,7 @@ ist.
 
 
 ### Art 58
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE004900377)
 
 (1) § 267 Abs. 1 und 2, § 293 Abs. 1 des Handelsgesetzbuchs in der
 Fassung des Bilanzrechtsreformgesetzes vom 4. Dezember 2004 (BGBl. I
@@ -1315,10 +1386,12 @@ weiter anzuwenden.
 
 
 ## Zweiundzwanzigster Abschnitt - Übergangsvorschriften zum Vorstandsvergütungs-Offenlegungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002200310)
 
 
 
 ### Art 59
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005101377)
 
 § 285 Satz 1 Nr. 9 Buchstabe a, § 286 Abs. 4, 5, § 289 Abs. 2 Nr. 5, §
 314 Abs. 1 Nr. 6 Buchstabe a, Abs. 2 Satz 2, § 315 Abs. 2 Nr. 4, § 334
@@ -1333,10 +1406,12 @@ Artikels 57 Satz 1 Nr. 2 anzuwenden.
 
 
 ## Dreiundzwanzigster Abschnitt - Übergangsvorschriften zum Übernahmerichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002300377)
 
 
 
 ### Art 60
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005200377)
 
 § 289 Abs. 4, § 315 Abs. 4, § 334 Abs. 1 Nr. 3 und 4, § 340n Abs. 1
 Nr. 3 und 4 sowie § 341n Abs. 1 Nr. 3 und 4 in der Fassung des
@@ -1346,10 +1421,12 @@ Geschäftsjahr anzuwenden.
 
 
 ## Vierundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz  über elektronische Handelsregister und Genossenschaftsregister sowie das  Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002400377)
 
 
 
 ### Art 61
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005303123)
 
 (1) (weggefallen)
 
@@ -1396,10 +1473,12 @@ Bundesanzeiger bekannt gemacht.
 
 
 ## Fünfundzwanzigster Abschnitt - Übergangsvorschriften zum Transparenzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002500377)
 
 
 
 ### Art 62
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005400377)
 
 § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5, § 297 Abs. 2 Satz 4, § 315
 Abs. 1 Satz 6, § 315a Abs. 1, § 325 Abs. 2a Satz 3, § 331 Nr. 3 und
@@ -1413,10 +1492,12 @@ beginnende Geschäftsjahr anzuwenden.
 
 
 ## Sechsundzwanzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Reform des Versicherungsvertragsrechts
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002600377)
 
 
 
 ### Art 63
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005500377)
 
 Der Zehnte Abschnitt des Fünften Buchs und § 905 des
 Handelsgesetzbuchs sind auf Versicherungsverhältnisse, die bis zum
@@ -1426,10 +1507,12 @@ Dezember 2008 anzuwenden.
 
 
 ## Siebenundzwanzigster Abschnitt - Übergangsvorschrift zum Risikobegrenzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002601140)
 
 
 
 ### Art 64
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005501140)
 
 § 354a des Handelsgesetzbuchs ist in seiner seit dem 19. August 2008
 geltenden Fassung nur auf Vereinbarungen anzuwenden, die nach 18.
@@ -1437,10 +1520,12 @@ August 2008 geschlossen werden.
 
 
 ## Achtundzwanzigster Abschnitt - Übergangsvorschriften zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002701140)
 
 
 
 ### Art 65
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005701140)
 
 Die Pflicht, die inländische Geschäftsanschrift bei dem Gericht nach
 den §§ 13, 13d, 13e, 29 und 106 des Handelsgesetzbuchs in der ab dem
@@ -1479,10 +1564,12 @@ abweichend von § 10 des Handelsgesetzbuchs nicht bekannt gemacht.
 
 
 ## Neunundzwanzigster Abschnitt - Übergangsvorschriften zum Bilanzrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002800140)
 
 
 
 ### Art 66
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005802377)
 
 (1) Die §§ 241a, 242 Abs. 4, § 267 Abs. 1 und 2 sowie § 293 Abs. 1 des
 Handelsgesetzbuchs in der Fassung des
@@ -1588,6 +1675,7 @@ Dezember 2009 beginnen.
 
 
 ### Art 67
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE005902360)
 
 (1) Soweit auf Grund der geänderten Bewertung der laufenden Pensionen
 oder Anwartschaften auf Pensionen eine Zuführung zu den Rückstellungen
@@ -1681,10 +1769,12 @@ hinzuweisen.
 
 
 ## Dreißigster Abschnitt - Übergangsvorschriften zum Gesetz zur Angemessenheit der Vorstandsvergütung
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG002900140)
 
 
 
 ### Art 68
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006000140)
 
 § 285 Nummer 9, § 286 Absatz 5 Satz 1, § 289 Absatz 2 Nummer 5, § 314
 Absatz 1 Nummer 6, Absatz 2 und § 315 Absatz 2 Nummer 4 des
@@ -1700,9 +1790,11 @@ Geschäftsjahr anzuwenden.
 
 
 ## Einunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der geänderten Bankenrichtlinie und der geänderten Kapitaladäquanzrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003000360)
 
 
 ### Art 69
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006100360)
 
 (1) § 341c des Handelsgesetzbuchs in der Fassung des Gesetzes zur
 Umsetzung der geänderten Bankenrichtlinie und der geänderten
@@ -1716,10 +1808,12 @@ vor dem 1. Januar 2011 beginnende Geschäftsjahre anzuwenden.
 
 
 ## Zweiunddreißigster Abschnitt - Übergangsvorschrift zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003100377)
 
 
 
 ### Art 70
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006201360)
 
 (1) Die Erleichterungen für Kleinstkapitalgesellschaften bei der
 Rechnungslegung nach § 264 Absatz 1, § 266 Absatz 1, den §§ 267a, 275
@@ -1752,10 +1846,12 @@ die nach dem 31. Dezember 2013 eingeleitet werden.
 
 
 ## Dreiunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz zur Reform des Seehandelsrechts
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003200377)
 
 
 
 ### Art 71
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006300377)
 
 (1) Für Partenreedereien und Baureedereien, die vor dem 25. April 2013
 entstanden sind, bleiben die §§ 489 bis 509 des Handelsgesetzbuchs in
@@ -1769,10 +1865,12 @@ April 2013 entstandenen Ansprüche.
 
 
 ## Vierunddreißigster Abschnitt - Übergangsvorschriften zum AIFM-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003400116)
 
 
 
 ### Art 72
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006401116)
 
 (1) Die in § 8b Absatz 2 Nummer 8, § 285 Nummer 26, § 290 Absatz 2
 Nummer 4 Satz 2 und § 314 Absatz 1 Nummer 18 des Handelsgesetzbuchs
@@ -1790,10 +1888,12 @@ weiterhin anwendbar.
 
 
 ## Fünfunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003500360)
 
 
 
 ### Art 73
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006601360)
 
 § 289a Absatz 2 Nummer 4, auch in Verbindung mit Absatz 3, und § 289a
 Absatz 4, auch in Verbindung mit § 336 Absatz 2 Satz 1, des
@@ -1812,10 +1912,12 @@ nach dem 31. Dezember 2015 liegenden Abschlussstichtag beziehen.
 
 
 ## Sechsunddreißigster Abschnitt - Übergangsvorschriften zum Kleinanlegerschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003600360)
 
 
 
 ### Art 74
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006700360)
 
 § 335 Absatz 1 Satz 4 des Handelsgesetzbuchs in der Fassung des
 Kleinanlegerschutzgesetzes vom 3. Juli 2015 (BGBl. I S. 1114) ist
@@ -1824,10 +1926,12 @@ anzuwenden, die nach dem 31. Dezember 2014 beginnen.
 
 
 ## Siebenunddreißigster Abschnitt - Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003700360)
 
 
 
 ### Art 75
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006803123)
 
 (1) Die §§ 255, 264, 264b, 265, 267a Absatz 3, die §§ 268, 271, 272,
 274a, 275, 276, 277 Absatz 3, die §§ 284, 285, 286, 288, 289, 291,
@@ -1908,10 +2012,12 @@ des Wahlrechts Angaben im Anhang zu machen.
 
 
 ## Achtunddreißigster Abschnitt - Übergangsvorschrift zum Bürokratieentlastungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003800360)
 
 
 
 ### Art 76
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE006900360)
 
 § 241a Satz 1 des Handelsgesetzbuchs in der Fassung des
 Bürokratieentlastungsgesetzes vom 28. Juli 2015 (BGBl. I S. 1400) ist
@@ -1922,20 +2028,24 @@ Januar 2016 beginnende Geschäftsjahr anzuwenden.
 
 
 ## Neununddreißigster Abschnitt - Übergangsvorschriften zum Transparenzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG003900119)
 
 
 
 ### Art 77
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007000119)
 
 § 342b des Handelsgesetzbuchs in der vom 26. November 2015 geltenden
 Fassung findet ab dem 1. Januar 2016 Anwendung.
 
 
 ## Vierzigster Abschnitt - Übergangsvorschrift zum Abschlussprüferaufsichtsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004000123)
 
 
 
 ### Art 78
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007101123)
 
 Für die Anwendung des § 319 Absatz 1 Satz 3 des Handelsgesetzbuchs in
 der ab dem 17. Juni 2016 geltenden Fassung gilt eine für den
@@ -1949,10 +2059,12 @@ Wirtschaftsprüferordnung noch nicht erteilt worden ist.
 
 
 ## Einundvierzigster Abschnitt - Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004100123)
 
 
 
 ### Art 79
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007200123)
 
 (1) § 319a Absatz 1, 2 und 3 sowie die §§ 321 und 322 des
 Handelsgesetzbuchs jeweils in der Fassung des
@@ -1985,10 +2097,12 @@ beginnende Geschäftsjahr erfolgt.
 
 
 ## Zweiundvierzigster Abschnitt - Übergangsvorschriften zum CSR-Richtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004201123)
 
 
 
 ### Art 80
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007300123)
 
 Die §§ 264, 285, 289 bis 289f, 291, 292, 294, 314 bis 315e, 317, 320,
 325, 331, 334, 335, 336, 340a, 340i, 340n, 341a, 341j, 341n und 342
@@ -2003,6 +2117,7 @@ Geschäftsjahr.
 
 
 ### Art 81
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007400123)
 
 § 289b Absatz 4 und § 315b Absatz 4 des Handelsgesetzbuchs in der ab
 dem 1. Januar 2019 geltenden Fassung sind erstmals auf Jahres- und
@@ -2011,10 +2126,12 @@ Dezember 2018 beginnende Geschäftsjahr anzuwenden.
 
 
 ## Dreiundvierzigster Abschnitt - Übergangsvorschriften zum Gesetz zum Bürokratieabbau und zur Förderung der Transparenz bei Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004300123)
 
 
 
 ### Art 82
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007500123)
 
 § 339 Absatz 3 des Handelsgesetzbuchs in der Fassung des Gesetzes zum
 Bürokratieabbau und zur Förderung der Transparenz bei Genossenschaften
@@ -2026,10 +2143,12 @@ begonnene Geschäftsjahre stellen.
 
 
 ## Vierundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004400360)
 
 
 
 ### Art 83
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007601360)
 
 (1) Die §§ 285, 286, 289a, 289f, 314, 315a, 324 und 325 Absatz 2a des
 Handelsgesetzbuchs in der ab dem 1. Januar 2020 geltenden Fassung sind
@@ -2055,10 +2174,12 @@ Geschäftsjahre angewendet werden.
 
 
 ## Fünfundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004500360)
 
 
 
 ### Art 84
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007700360)
 
 Die §§ 264, 289, 297, 315, 316, 317, 320, 322, 325, 328, 334, 336,
 339, 340n, 341n, 341w und 342b des Handelsgesetzbuchs in der ab dem
@@ -2076,10 +2197,12 @@ Januar 2020 beginnende Geschäftsjahr.
 
 
 ## Sechsundvierzigster Abschnitt - Übergangsvorschrift zum Fondsstandortgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004600360)
 
 
 
 ### Art 85
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007800360)
 
 § 285 Nummer 26, § 290 Absatz 2 Nummer 4 Satz 2 und § 314 Absatz 1
 Nummer 18 des Handelsgesetzbuchs in der ab dem 2. August 2021
@@ -2092,10 +2215,12 @@ Geschäftsjahr.
 
 
 ## Siebenundvierzigster Abschnitt - Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004700360)
 
 
 
 ### Art 86
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE007900360)
 
 (1) Artikel 25 dieses Gesetzes und § 318 Absatz 3, die §§ 319b, 323
 Absatz 2, § 334 Absatz 2 bis 3a, § 340k Absatz 1 Satz 1, Absatz 2 Satz
@@ -2156,10 +2281,12 @@ nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden.
 
 
 ## Achtundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004800360)
 
 
 
 ### Art 87
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008000360)
 
 Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des
 Handelsgesetzbuchs in der ab dem 12. August 2021 geltenden Fassung
@@ -2170,10 +2297,12 @@ anzuwenden.
 
 
 ## Neunundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG004900360)
 
 
 
 ### Art 88
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008100360)
 
 (1) § 9c Absatz 1 bis 5 des Handelsgesetzbuchs in der ab dem 1. August
 2022 geltenden Fassung ist erst ab dem 1. August 2023 anzuwenden.
@@ -2191,10 +2320,12 @@ Rechnungslegungsunterlagen sowie Unternehmensberichte für das vor dem
 
 
 ## Fünfzigster Abschnitt - Übergangsvorschriften zum Personengesellschaftsrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005000360)
 
 
 
 ### Art 89
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008200360)
 
 (1) Ist eine Gesellschaft bürgerlichen Rechts nach § 162 Absatz 1 Satz
 2 des Handelsgesetzbuchs in der bis einschließlich 1. Januar 2024
@@ -2239,10 +2370,12 @@ Fassung bereits im Handelsregister eingetragen worden sind.
 
 
 ## Einundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005100360)
 
 
 
 ### Art 90
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008300360)
 
 (1) § 271 Absatz 2, die §§ 325a, 334 Absatz 1 und 3b, § 335 Absatz 1
 und 1b, § 340n Absatz 3b sowie die §§ 340o, 341n Absatz 3b und § 341o
@@ -2275,10 +2408,12 @@ vorigen Stand, die vor dem 22. Juni 2023 gewährt werden.
 
 
 ## Zweiundfünfzigster Abschnitt - Übergangsvorschrift zum Mindestbesteuerungsrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005200360)
 
 
 
 ### Art 91
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008400360)
 
 (1) § 285 Nummer 30a, § 288 Absatz 1 Nummer 1 und § 314 Absatz 1
 Nummer 22a des Handelsgesetzbuchs in der ab dem 28. Dezember 2023
@@ -2300,10 +2435,12 @@ gemacht werden.
 
 
 ## Dreiundfünfzigster Abschnitt - Übergangsvorschrift zum Wachstumschancengesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005300125)
 
 
 
 ### Art 92
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008500125)
 
 § 241a Satz 1 des Handelsgesetzbuchs in der ab dem 28. März 2024
 geltenden Fassung ist erstmals auf das nach dem 31. Dezember 2023
@@ -2314,10 +2451,12 @@ anzuwenden.
 
 
 ## Vierundfünfzigster Abschnitt - Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005400360)
 
 
 
 ### Art 93
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008600360)
 
 (1) § 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1
 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden
@@ -2342,10 +2481,12 @@ Geschäftsjahr anzuwenden.
 
 
 ## Fünfundfünfzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005500360)
 
 
 
 ### Art 94
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008700360)
 
 Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des
 Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
@@ -2362,10 +2503,12 @@ Geheimschutzvorschriften bleiben unberührt.
 
 
 ## Sechsundfünfzigster Abschnitt - Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNG005600125)
 
 
 
 ### Art 95
+[Direktlink](https://www.gesetze-im-internet.de/hgbeg/BJNR004370897.html#BJNR004370897BJNE008800125)
 
 § 257 Absatz 4 des Handelsgesetzbuchs in der ab dem 1. Januar 2025
 geltenden Fassung ist vorbehaltlich des Satzes 2 erstmals auf

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2010/BJNR006900010.html#BJNR006900010BJNE000100000)
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes wird der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -33,6 +34,7 @@ Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2010/BJNR006900010.html#BJNR006900010BJNE000200000)
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes wird der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
@@ -44,6 +46,7 @@ Bundesministerium für Wirtschaft und Technologie vorbehalten.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2010/BJNR006900010.html#BJNR006900010BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 5. Februar 2009 anzuwenden. Die
 Nummern I und II sind auch anzuwenden auf bereits laufende Verfahren
@@ -51,6 +54,7 @@ der Beschäftigten des Bundeskartellamtes.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmwitwidano_2010/BJNR006900010.html#BJNR006900010BJNE000400000)
 
 Der Bundesminister für Wirtschaft und Technologie
 

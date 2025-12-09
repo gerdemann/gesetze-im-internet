@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNE000400310)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
 verordnet
@@ -40,14 +41,17 @@ verordnet
 
 
 ## Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNG000100310)
 
 
 
 ## Art 3 - Verordnung über das Aufheben marktrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNG000200310)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNE000500310)
 
 Es werden aufgehoben:
 
@@ -69,17 +73,20 @@ Es werden aufgehoben:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNE000600310)
 
 Auf Sachverhalte, die vor dem 28. November 1997 entstanden sind, sind
 die in § 1 genannten Verordnungen weiter anzuwenden.
 
 
 ## Art 4 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNG000300310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/morvorschr_ndg/BJNR274509997.html#BJNR274509997BJNE000700310)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000100317)
 
 Auf Grund des § 604 Satz 3 und des § 616 Abs. 1 Satz 2 der
 Reichsversicherungsordnung verordnet die Bundesregierung mit
@@ -28,6 +29,7 @@ Zustimmung des Bundesrates:
 
 
 ## § 1 Abfindung nach § 76 Abs. 1 des Siebten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000201308)
 
 (1) Wird ein Verletzter, der Anspruch auf eine Rente auf unbestimmte
 Zeit nach § 62 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch wegen
@@ -47,11 +49,13 @@ Anlage 2 vervielfältigte Jahresrente.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000301308)
 
 (weggefallen)
 
 
 ## § 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000400317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
@@ -60,12 +64,14 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000500317)
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
 Monats in Kraft.
 
 
 ## Anlage 1 Kapitalwerte bei Abfindung von Renten auf unbestimmte Zeit nach § 62 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch wegen einer Minderung der Erwerbsfähigkeit um weniger als 40 vom Hundert innerhalb von 15 Jahren nach dem Unfall
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000601308)
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1965, 896;
@@ -73,6 +79,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2 Kapitalwerte bei Abfindung von Renten auf unbestimmte Zeit nach § 62 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch wegen einer Minderung der Erwerbsfähigkeit um weniger als 40 vom Hundert nach Ablauf von 15 Jahren nach dem Unfall
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000701308)
 
 Fundstelle des Originaltextes: BGBl. I 1965, 896,
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -166,5 +173,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ## (XXXX) Anlage 3 bis 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/uvkapwertv/BJNR008940965.html#BJNR008940965BJNE000801308)
 
 

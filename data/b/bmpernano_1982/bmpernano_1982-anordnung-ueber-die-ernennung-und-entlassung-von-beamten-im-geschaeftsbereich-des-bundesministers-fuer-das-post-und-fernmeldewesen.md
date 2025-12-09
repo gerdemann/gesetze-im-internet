@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmpernano_1982/BJNR109590982.html#BJNR109590982BJNE000100328)
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
@@ -60,17 +61,20 @@ den Rektoren
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmpernano_1982/BJNR109590982.html#BJNR109590982BJNE000200328)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bmpernano_1982/BJNR109590982.html#BJNR109590982BJNE000300328)
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 1982 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bmpernano_1982/BJNR109590982.html#BJNR109590982BJNE000400328)
 
 Der Bundesminister für das Post- und Fernmeldewesen
 

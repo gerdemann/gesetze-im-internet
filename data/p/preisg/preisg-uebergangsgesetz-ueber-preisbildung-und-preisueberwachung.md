@@ -20,11 +20,13 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000100326)
 
 Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000200326)
 
 Der
 Wirtschaftsrat ist zuständig für die allgemeinen Grundsätze der
@@ -40,6 +42,7 @@ beeinflußt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000300326)
 
 (1) Die für die Preisbildung zuständigen Stellen (Absatz 2) können
 Anordnungen und Verfügungen erlassen, durch die Preise, Mieten,
@@ -64,6 +67,7 @@ b)  die obersten Landesbehörden, soweit nicht
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000400326)
 
 (1) Anordnungen nach § 2 Abs. 2a erläßt
 der Direktor für Wirtschaft. Ist
@@ -77,6 +81,7 @@ Zuständigkeit die Entscheidung trifft.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000500326)
 
 Der Direktor für Wirtschaft kann Anordnungen oder Verfügungen
 aufheben, die eine oberste Landesbehörde nach § 2 Abs. 2b erlassen
@@ -85,6 +90,7 @@ hat. Er kann der obersten Landesbehörde bindende Weisungen erteilen. §
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000600326)
 
 (1) § 3 gilt auch für den Erlaß von Ausführungsanordnungen.
 
@@ -94,6 +100,7 @@ den obersten Landesbehörden übertragen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000700326)
 
 (1) Anordnungen
 des Direktors für Wirtschaft werden im
@@ -130,6 +137,7 @@ Kraft, soweit nichts anderes bestimmt wird.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000800326)
 
 (1) Anordnungen
 des Direktors für Wirtschaft werden durch die obersten Landesbehörden
@@ -145,6 +153,7 @@ der Direktor für Wirtschaft.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE000900326)
 
 (1) Die Preisüberwachung üben die obersten Landesbehörden aus.
 Der Direktor für Wirtschaft kann hierzu allgemeine Anordnungen
@@ -158,11 +167,13 @@ Verwaltung des Vereinigten Wirtschaftsgebietes überwacht.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001000326)
 
 -
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001100326)
 
 Die obersten Landesbehörden können die Ausführung ihrer Befugnisse auf
 nachgeordnete Behörden übertragen. Entsprechendes gilt für die
@@ -172,6 +183,7 @@ worden ist, bleibt unberührt.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001200326)
 
 Die
 Direktoren der sachlich zuständigen
@@ -181,12 +193,14 @@ Verordnung über Auskunftspflicht vom 13. Juli 1923 (RGBl. I S. 723).
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001300326)
 
 Die Behörden und Gerichte leisten den in § 11 bezeichneten
 Direktoren und Behörden Amts- und Rechtshilfe.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001400326)
 
 Zuwiderhandlungen gegen die auf Grund dieses Gesetzes erlassenen
 Vorschriften und Verfügungen sowie gegen die bisherigen
@@ -198,6 +212,7 @@ Gefängnisstrafen findet nicht statt.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001500326)
 
 Die Durchführungsbestimmungen zu diesem Gesetz erläßt
 der Direktor für Wirtschaft mit Zustimmung
@@ -205,6 +220,7 @@ des Verwaltungsrates.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001600326)
 
 (1) Dieses Gesetz tritt am 1. April 1948 in Kraft.
 
@@ -217,6 +233,7 @@ gelten als von Anfang an rechtswirksam erlassen.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/preisg/BJNR700270948.html#BJNR700270948BJNE001700326)
 
 Dieses Gesetz tritt am 31. Dezember 1948 außer Kraft.
 

@@ -20,36 +20,44 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen –
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000300000)
 
 
 
 ## (XXXX) Art 2 bis 12 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000404126)
 
 
 
 ## Art 13 Änderungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000405126)
 
 
 
 ## (XXXX) Art 14 bis 18 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000406126)
 
 
 
 ## Art 19 Änderungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000402119)
 
 
 
 ## (XXXX) Art 20 bis 24 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000403119)
 
 
 
 ## Art 25 Bekanntmachungserlaubnis und Umsetzungsunterstützung
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000504377)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann den Wortlaut
 des Zwölften Buches Sozialgesetzbuch in der vom 1. Januar 2020 an
@@ -156,10 +164,12 @@ Stand und zu den Ergebnissen der Maßnahmen nach den Absätzen 2 bis 4.
 
 
 ## Art 25a Änderungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000600000)
 
 
 
 ## Art 26 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bthg/BJNR323400016.html#BJNR323400016BJNE000701119)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 4 am 1. Januar
 2018 in Kraft.

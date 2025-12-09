@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000100000)
 
 Auf Grund des § 494 Abs. 4 der Strafprozessordnung in der Fassung der
 Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), der zuletzt
@@ -28,6 +29,7 @@ durch Artikel 2 Nr. 6 des Gesetzes vom 10. September 2004 (BGBl. I S.
 
 
 ## § 1 Register
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000201301)
 
 (1) Das Register nach den §§ 492 bis 495 der Strafprozessordnung wird
 bei dem Bundesamt für Justiz (Registerbehörde) unter der Bezeichnung
@@ -38,6 +40,7 @@ durch andere Stellen ist unzulässig.
 
 
 ## § 2 Inhalt und Zweck des Registers
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000301125)
 
 In dem Register werden die in § 4 bezeichneten Daten zu in der
 Bundesrepublik Deutschland geführten Strafverfahren einschließlich
@@ -51,6 +54,7 @@ zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
 
 
 ## § 3 Übermittlung von Daten an das Register
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000401125)
 
 (1) Die Staatsanwaltschaften, die diesen in steuerstrafrechtlichen
 Angelegenheiten nach § 386 Abs. 2 und § 399 der Abgabenordnung
@@ -77,6 +81,7 @@ Zurückstellung der Übermittlung sind zu dokumentieren.
 
 
 ## § 4 Zu speichernde Daten
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000500000)
 
 (1) Es werden die folgenden Identifizierungsdaten der beschuldigten
 Person gespeichert:
@@ -198,6 +203,7 @@ dem Register nicht gespeichert.
 
 
 ## § 5 Berichtigung, Löschung und Einschränkung der Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000601125)
 
 Die Berichtigung, Löschung und Einschränkung der Verarbeitung der
 gespeicherten Daten bestimmen sich nach § 494 Absatz 1 bis 3 der
@@ -205,6 +211,7 @@ Strafprozessordnung.
 
 
 ## § 6 Auskunft an Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000707125)
 
 (1) Auf Ersuchen erhalten Auskunft über die in § 4 genannten Daten
 
@@ -299,6 +306,7 @@ entgegensteht.
 
 
 ## § 7 Automatisiertes Anfrage- und Auskunftsverfahren; automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000800000)
 
 (1) Auskunftsersuchen und Auskünfte werden im Wege eines
 automatisierten Anfrage- und Auskunftsverfahrens übermittelt. Die
@@ -313,6 +321,7 @@ dass die Mitteilung der Auskunft an die ersuchende Stelle erfolgt.
 
 
 ## § 8 Auskunft bei Anfragen mit ähnlichen oder unvollständigen Angaben
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE000900000)
 
 (1) Auf Ersuchen mit nicht eindeutig zuordenbaren oder unvollständigen
 Identifizierungsdatensätzen übermittelt die Registerbehörde an die
@@ -349,6 +358,7 @@ unter ähnlichen Identifizierungsdaten gespeicherten Personen
 
 
 ## § 9 Auskunft an betroffene Personen
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE001001125)
 
 (1) Für den Auskunftsanspruch betroffener Personen gilt § 57 des
 Bundesdatenschutzgesetzes.
@@ -366,6 +376,7 @@ werden, auf diese Regelung und auf die Rechtsschutzmöglichkeit des §
 
 
 ## § 10 Organisatorische und technische Leitlinien und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE001100000)
 
 (1) Die Registerbehörde regelt die organisatorischen und technischen
 Einzelheiten im Einvernehmen mit den obersten Justiz-, Innen- und
@@ -390,6 +401,7 @@ Aufgabenerfüllung Erforderliche entspricht.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE001200000)
 
 Diese Verordnung tritt am ersten Tag des neunten auf die Verkündung
 folgenden Kalendermonats in Kraft. Gleichzeitig tritt die Allgemeine
@@ -399,6 +411,7 @@ August 1995 (BAnz. S. 9761) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zstvbetrv/BJNR288500005.html#BJNR288500005BJNE001300000)
 
 Der Bundesrat hat zugestimmt.
 

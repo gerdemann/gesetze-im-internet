@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000200000)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem in London am 5.
 Oktober 2001 von der Internationalen Konferenz über die Beschränkung
@@ -38,6 +40,7 @@ amtlichen deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000301116)
 
 (1) Der Hersteller eines zugelassenen, registrierten oder
 freigegebenen Bewuchsschutzsystems hat die Angaben nach Artikel 9 Abs.
@@ -57,6 +60,7 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000401116)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -68,16 +72,19 @@ eigene Angelegenheit auszuführen sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000500000)
 
 - - -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000600000)
 
 - - -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/afsg/BJNR052020008.html#BJNR052020008BJNE000700000)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

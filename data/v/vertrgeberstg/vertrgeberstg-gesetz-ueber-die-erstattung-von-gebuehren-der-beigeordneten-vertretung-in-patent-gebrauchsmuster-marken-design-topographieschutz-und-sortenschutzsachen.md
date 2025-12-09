@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Gegenstand des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000100000)
 
 Im Fall der Bewilligung von Verfahrenskostenhilfe werden der
 beigeordneten Vertretung in den folgenden Sachen die Gebühren und
@@ -45,6 +46,7 @@ Auslagen nach Maßgabe dieses Gesetzes erstattet:
 
 
 ## § 2 Gebührensatz
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000200000)
 
 In Verfahren vor dem Deutschen Patent- und Markenamt und dem
 Bundespatentgericht beträgt der Gebührensatz 360 Euro. Dieser steht
@@ -53,6 +55,7 @@ Verfahrensgebühr zu.
 
 
 ## § 3 Patentsachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000300000)
 
 In Patentsachen steht der Gebührensatz wie folgt zu:
 
@@ -80,6 +83,7 @@ In Patentsachen steht der Gebührensatz wie folgt zu:
 
 
 ## § 4 Gebrauchsmustersachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000400000)
 
 In Gebrauchsmustersachen steht der Gebührensatz wie folgt zu:
 
@@ -103,6 +107,7 @@ In Gebrauchsmustersachen steht der Gebührensatz wie folgt zu:
 
 
 ## § 5 Markensachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000500000)
 
 In Markensachen steht der Gebührensatz wie folgt zu:
 
@@ -120,6 +125,7 @@ In Markensachen steht der Gebührensatz wie folgt zu:
 
 
 ## § 6 Designsachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000600000)
 
 In Designsachen steht der Gebührensatz wie folgt zu:
 
@@ -143,6 +149,7 @@ In Designsachen steht der Gebührensatz wie folgt zu:
 
 
 ## § 7 Topographieschutzsachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000700000)
 
 In Topographieschutzsachen steht der Gebührensatz wie folgt zu:
 
@@ -166,12 +173,14 @@ In Topographieschutzsachen steht der Gebührensatz wie folgt zu:
 
 
 ## § 8 Sortenschutzsachen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000800000)
 
 In Sortenschutzsachen steht der Gebührensatz im Beschwerdeverfahren zu
 13/10 zu.
 
 
 ## § 9 Gegenstand der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE000900000)
 
 Die in den §§ 3 bis 8 genannten Gebühren umfassen die gesamte
 Tätigkeit der Vertretung von der Beiordnung bis zur Beendigung des
@@ -180,6 +189,7 @@ nur einmal beanspruchen.
 
 
 ## § 10 Erledigung der Beiordnung
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE001000000)
 
 Wenn sich die Beiordnung erledigt, ohne dass die Vertretung eine
 Anmeldung oder einen die Sache betreffenden Schriftsatz eingereicht
@@ -188,6 +198,7 @@ dem die Erledigung eingetreten ist, zur Hälfte.
 
 
 ## § 11 Vertretung bei bestimmten Terminen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE001100000)
 
 Die Vertretung, deren Tätigkeit sich auf die Vertretung in einem nur
 zur Beweisaufnahme bestimmten Termin oder auf die Wahrnehmung eines
@@ -197,6 +208,7 @@ Wahrnehmung des Termins erfolgte, zur Hälfte.
 
 
 ## § 12 Geltung des Rechtsanwaltsvergütungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE001200000)
 
 Auf die Erstattung der Gebühren und Auslagen der Vertretung in
 Verfahren vor dem Deutschen Patent- und Markenamt und dem
@@ -219,6 +231,7 @@ anzuwenden:
 
 
 ## § 13 Verfahren über die Erklärung der Nichtigkeit von Patenten und über Zwangslizenzen
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE001300000)
 
 Abweichend von den §§ 2 bis 12 werden der beigeordneten Vertretung in
 Verfahren vor dem Deutschen Patent- und Markenamt und dem
@@ -229,6 +242,7 @@ für die Vergütung bei Prozesskostenhilfe gelten, erstattet.
 
 
 ## § 14 Verfahren vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/vertrgeberstg/BJNR243200021.html#BJNR243200021BJNE001400000)
 
 In Verfahren vor dem Bundesgerichtshof werden der beigeordneten
 Vertretung Gebühren und Auslagen in entsprechender Anwendung der

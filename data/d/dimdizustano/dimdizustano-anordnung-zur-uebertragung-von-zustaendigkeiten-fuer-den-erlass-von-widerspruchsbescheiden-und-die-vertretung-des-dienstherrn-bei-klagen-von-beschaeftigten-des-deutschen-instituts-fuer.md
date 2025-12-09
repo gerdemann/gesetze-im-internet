@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dimdizustano/BJNR095700008.html#BJNR095700008BJNE000100000)
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
 Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
@@ -32,6 +33,7 @@ Trennungsgeldverordnung zu entscheiden.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dimdizustano/BJNR095700008.html#BJNR095700008BJNE000200000)
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
 Bundesverwaltungsamt für Beschäftigte des Deutschen Instituts für
@@ -45,11 +47,13 @@ wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dimdizustano/BJNR095700008.html#BJNR095700008BJNE000300000)
 
 Diese Anordnung ist mit Wirkung vom 1. Januar 2008 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dimdizustano/BJNR095700008.html#BJNR095700008BJNE000400000)
 
 Die Bundesministerin für Gesundheit
 

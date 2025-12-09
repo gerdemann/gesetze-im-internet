@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000102126)
 
 
 *    *   Teil 1
@@ -1674,18 +1675,22 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000100000)
 
 
 
 ### Kapitel 1 - Einleitung der Wahl, Abstimmung über die Art der Wahl, Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000200000)
 
 
 
 #### Abschnitt 1 - Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000300000)
 
 
 
 ##### § 1 Bekanntmachung der Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000201119)
 
 (1) Das herrschende Unternehmen teilt spätestens 25 Wochen vor dem
 voraussichtlichen Beginn der Amtszeit der zu wählenden
@@ -1764,6 +1769,7 @@ unverzüglich nach der Bekanntmachung nach Absatz 2 den in Satz 1 Nr.
 
 
 ##### § 2 Wahlvorstände
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000300000)
 
 (1) Die rechtzeitige Einleitung und die Durchführung der Wahl sowie
 die Feststellung des Wahlergebnisses obliegen dem Hauptwahlvorstand.
@@ -1778,6 +1784,7 @@ zahlenmäßigen Verhältnis vertreten sein.
 
 
 ##### § 3 Zusammensetzung des Hauptwahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000400000)
 
 (1) Der Hauptwahlvorstand besteht aus drei Mitgliedern. Die
 Arbeitnehmervertretungen, die nach Absatz 3 Mitglieder des
@@ -1819,6 +1826,7 @@ Bestellung gemeinsam mit dieser Vertretung.
 
 
 ##### § 4 Zusammensetzung des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000500000)
 
 (1) Der Betriebswahlvorstand besteht aus drei Mitgliedern. Der
 Betriebsrat kann die Zahl der Mitglieder erhöhen, wenn dies zur
@@ -1860,6 +1868,7 @@ Ausschreiben sind um folgende Angaben zu ergänzen:
 
 
 ##### § 5 Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000600000)
 
 (1) Der Hauptwahlvorstand teilt unverzüglich nach seiner Bildung den
 Konzernunternehmen, den Betriebswahlvorständen und den im Unternehmen
@@ -1875,6 +1884,7 @@ Absatz 1 nicht erhalten haben.
 
 
 ##### § 6 Geschäftsführung der Wahlvorstände
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000700000)
 
 (1) Jeder Wahlvorstand wählt aus seiner Mitte einen Vorsitzenden und
 mindestens einen Stellvertreter.
@@ -1917,6 +1927,7 @@ werden.
 
 
 ##### § 7 Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000800000)
 
 (1) Der Betriebswahlvorstand stellt unverzüglich nach seiner Bildung
 eine Liste der Wahlberechtigten des Betriebs (Wählerliste) auf. Die
@@ -1949,6 +1960,7 @@ in der Wählerliste eingetragen sind.
 
 
 ##### § 8 Bekanntmachung über die Bildung der Wahlvorstände und die Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE000900000)
 
 (1) Die Einsichtnahme in die Wählerliste, das Gesetz und diese
 Verordnung ist unverzüglich bis zum Abschluss der Wahl der
@@ -1994,6 +2006,7 @@ anzugeben:
 
 
 ##### § 9 Übersendung der Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001000000)
 
 (1) Der Betriebswahlvorstand übersendet dem Hauptwahlvorstand
 unverzüglich eine Kopie der Wählerliste und teilt ihm die Zahl der in
@@ -2004,6 +2017,7 @@ Wählerliste dem Hauptwahlvorstand unverzüglich mit.
 
 
 ##### § 10 Einsprüche gegen die Richtigkeit der Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001100000)
 
 (1) Gegen die Richtigkeit der Wählerliste kann Einspruch eingelegt
 werden. Einsprüche gegen die Richtigkeit der Wählerliste können nur
@@ -2020,10 +2034,12 @@ Einspruch eingelegt hat, unverzüglich schriftlich mit.
 
 
 #### Abschnitt 2 - Abstimmung über die Art der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000400000)
 
 
 
 ##### § 11 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001200000)
 
 (1) Sind in den Konzernunternehmen in der Regel insgesamt nicht mehr
 als 8.000 Arbeitnehmer beschäftigt, so erlässt der Hauptwahlvorstand
@@ -2122,6 +2138,7 @@ vertretenen Gewerkschaften.
 
 
 ##### § 12 Antrag auf Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001300000)
 
 (1) Sind in den Konzernunternehmen in der Regel insgesamt nicht mehr
 als 8.000 Arbeitnehmer beschäftigt, so kann ein Antrag auf Abstimmung
@@ -2152,6 +2169,7 @@ erster Stelle Unterzeichnenden schriftlich mit.
 
 
 ##### § 13 Abstimmungsausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001400000)
 
 (1) Liegt ein gültiger Antrag nach § 12 vor, so erlässt der
 Hauptwahlvorstand unverzüglich ein Abstimmungsausschreiben. Die
@@ -2214,6 +2232,7 @@ Bekanntmachung. § 11 Abs. 4 ist entsprechend anzuwenden.
 
 
 ##### § 14 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001500000)
 
 (1) Die Stimmzettel für die Abstimmung dürfen nur den Antrag und die
 Frage an die Abstimmungsberechtigten enthalten, ob sie für oder gegen
@@ -2232,6 +2251,7 @@ die in Absatz 1 bezeichneten Angaben, einen Zusatz oder sonstige
 
 
 ##### § 15 Abstimmungsvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001600000)
 
 (1) Der Betriebswahlvorstand hat geeignete Vorkehrungen für die
 unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und
@@ -2274,10 +2294,12 @@ dass der Verschluss unversehrt ist.
 
 
 ##### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001701119)
 
 
 
 ##### § 17 Voraussetzungen der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001800000)
 
 (1) Abstimmungsberechtigten, die im Zeitpunkt der Abstimmung wegen
 Abwesenheit vom Betrieb verhindert sind, ihre Stimme persönlich
@@ -2337,6 +2359,7 @@ schriftliche Stimmabgabe.
 
 
 ##### § 18 Verfahren bei der schriftlichen Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE001900000)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass die abstimmende Person
 
@@ -2375,6 +2398,7 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### § 19 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002001119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -2392,6 +2416,7 @@ wenn sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ##### § 20 Abstimmungsniederschrift des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002101119)
 
 (1) Nach der Stimmauszählung stellt der Betriebswahlvorstand in einer
 Niederschrift fest:
@@ -2423,6 +2448,7 @@ Abstimmungsniederschrift.
 
 
 ##### § 21 Feststellung des Abstimmungsergebnisses, Abstimmungsniederschrift des Hauptwahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002201119)
 
 Der Hauptwahlvorstand ermittelt anhand der Abstimmungsniederschriften
 der Betriebswahlvorstände das Abstimmungsergebnis und stellt in einer
@@ -2454,6 +2480,7 @@ Niederschrift fest:
 
 
 ##### § 22 Bekanntmachung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002300000)
 
 Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den
 Betriebswahlvorständen. Jeder Betriebswahlvorstand macht das
@@ -2462,14 +2489,17 @@ wie das Abstimmungsausschreiben bekannt.
 
 
 #### Abschnitt 3 - Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000500000)
 
 
 
 ##### Unterabschnitt 1 - Wahlvorschläge, Prüfung, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000600000)
 
 
 
 ###### § 23 Bekanntmachung über die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002401119)
 
 (1) Der Hauptwahlvorstand erlässt gleichzeitig mit der Bekanntmachung
 nach § 11 eine Bekanntmachung über die Einreichung von Wahlvorschlägen
@@ -2592,6 +2622,7 @@ vertretenen Gewerkschaften.
 
 
 ###### § 24 Wahlvorschläge der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002500000)
 
 (1) Zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer können die
 Wahlberechtigten Wahlvorschläge machen. Jeder Wahlvorschlag muss von
@@ -2654,6 +2685,7 @@ streichen.
 
 
 ###### § 25 Wahlvorschläge der Gewerkschaften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002600000)
 
 (1) Zur Wahl von Aufsichtsratsmitgliedern, die Vertreter von
 Gewerkschaften sind, können die Gewerkschaften Wahlvorschläge machen,
@@ -2673,6 +2705,7 @@ Beauftragten als Vorschlagsvertreter benennen.
 
 
 ###### § 26 Wahlvorschläge für Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002700000)
 
 (1) In jedem Wahlvorschlag kann für jeden Bewerber ein Ersatzmitglied
 des Aufsichtsrats vorgeschlagen werden. Für jeden Bewerber kann nur
@@ -2690,10 +2723,12 @@ Ersatzmitglied des Aufsichtsrats vorgeschlagen wird. § 24 Abs. 5 Satz
 
 
 ##### Unterabschnitt 2 - Prüfung und Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000700000)
 
 
 
 ###### § 27 Prüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002800000)
 
 (1) Der Hauptwahlvorstand bestätigt dem Vorschlagsvertreter
 schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
@@ -2707,6 +2742,7 @@ unterrichten.
 
 
 ###### § 28 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE002901119)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -2753,6 +2789,7 @@ worden sind.
 
 
 ###### § 29 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003000000)
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen
 bestimmten Frist für einen Wahlgang kein gültiger Wahlvorschlag
@@ -2794,6 +2831,7 @@ bekannt, dass der Wahlgang nicht stattfindet.
 
 
 ###### § 30 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003100000)
 
 (1) Sind für einen Wahlgang, in dem mehrere Aufsichtsratsmitglieder
 der Arbeitnehmer zu wählen sind, mehrere Wahlvorschläge eingereicht,
@@ -2812,10 +2850,12 @@ getrennt, bekannt; § 23 Abs. 4 und 5 ist entsprechend anzuwenden.
 
 
 #### Abschnitt 4 - Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000800000)
 
 
 
 ##### § 31 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003200000)
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer
 Wahl zu wählen, so richtet sich das weitere Wahlverfahren nach den
@@ -2827,14 +2867,17 @@ Vorschriften des Kapitels 3.
 
 
 ### Kapitel 2 - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG000900000)
 
 
 
 #### Abschnitt 1 - Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001000000)
 
 
 
 ##### § 32 Wahlausschreiben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003301119)
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer in
 unmittelbarer Wahl zu wählen sind, so erlässt der Hauptwahlvorstand
@@ -2924,14 +2967,17 @@ entsprechend anzuwenden.
 
 
 #### Abschnitt 2 - Durchführung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001100000)
 
 
 
 ##### Unterabschnitt 1 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001200000)
 
 
 
 ###### § 33 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003401119)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige
@@ -2980,6 +3026,7 @@ der Wählerliste für jeden Wahlgang gesondert zu vermerken.
 
 
 ###### § 34 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003501119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -2997,6 +3044,7 @@ wenn sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ###### § 35 Wahlniederschrift des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003601119)
 
 (1) Nachdem die Stimmen ausgezählt sind, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
@@ -3029,6 +3077,7 @@ bekannt.
 
 
 ###### § 36 Verteilung der Stimmenzahlen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003701119)
 
 (1) Der Hauptwahlvorstand verteilt anhand der Wahlniederschriften der
 Betriebswahlvorstände die Stimmenzahlen nach folgendem Verfahren: Die
@@ -3055,10 +3104,12 @@ Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer Benennung.
 
 
 ##### Unterabschnitt 2 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001300000)
 
 
 
 ###### § 37 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003800000)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger
@@ -3103,6 +3154,7 @@ entsprechend anzuwenden.
 
 
 ###### § 38 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE003901119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -3117,6 +3169,7 @@ Bewerber mehrfach angekreuzt, so zählt dies als eine Stimme.
 
 
 ###### § 39 Wahlniederschrift des Betriebswahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004001119)
 
 Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand
 in einer Niederschrift für jeden Wahlgang gesondert fest:
@@ -3142,6 +3195,7 @@ in einer Niederschrift für jeden Wahlgang gesondert fest:
 
 
 ###### § 40 Verteilung der Stimmen auf die Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004101119)
 
 Der Hauptwahlvorstand ermittelt anhand der Wahlniederschriften der
 Betriebswahlvorstände die Zahlen der auf die einzelnen Bewerber
@@ -3152,10 +3206,12 @@ entscheidet das Los.
 
 
 ##### Unterabschnitt 3 - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001400000)
 
 
 
 ###### § 41 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004200000)
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen
 Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich
@@ -3222,6 +3278,7 @@ schriftliche Stimmabgabe.
 
 
 ###### § 42 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004300000)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -3261,10 +3318,12 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### Unterabschnitt 4 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001501119)
 
 
 
 ###### § 42a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010800119)
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
 33 und in einem Wahlgang nach § 37 so viele Bewerber gewählt, wie
@@ -3276,6 +3335,7 @@ gewählt.
 
 
 ###### § 42b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010900119)
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
 einem Wahlgang nach § 33 und in einem Wahlgang nach § 37 so viele
@@ -3288,6 +3348,7 @@ gewählt.
 
 
 ###### § 42c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011000119)
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
 die Höchstzahlen nach § 36 der Größe nach auf die Bewerber verteilt
@@ -3313,6 +3374,7 @@ gewählt.
 
 
 ###### § 43 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004401119)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Hauptwahlvorstand in einer Niederschrift für jeden Wahlgang gesondert
@@ -3367,6 +3429,7 @@ Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
 
 
 ###### § 44 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004501119)
 
 (1) Der Hauptwahlvorstand übermittelt das Wahlergebnis und die Namen
 der Gewählten den Betriebswahlvorständen. Jeder Betriebswahlvorstand
@@ -3400,6 +3463,7 @@ Absätze 1 und 2 zusätzlich
 
 
 ###### § 45 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004600000)
 
 Der Hauptwahlvorstand und jeder Betriebswahlvorstand übergeben die
 Wahlakten dem Unternehmen, in dessen Aufsichtsrat die
@@ -3409,18 +3473,22 @@ Jahren auf.
 
 
 ### Kapitel 3 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001600000)
 
 
 
 #### Abschnitt 1 - Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001700000)
 
 
 
 ##### Unterabschnitt 1 - Delegierte mit Mehrfachmandat
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001800000)
 
 
 
 ###### § 46 Delegierte, die für die Wahl von Aufsichtsratsmitgliedern mehrerer Unternehmen gewählt werden
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004700000)
 
 Nehmen die Arbeitnehmer eines abhängigen Konzernunternehmens nach
 dieser Verordnung durch Delegierte an der Wahl von Mitgliedern der
@@ -3436,6 +3504,7 @@ Wahlausschreibens für die Wahl der Delegierten gefasst werden.
 
 
 ###### § 47 Keine Wahl von Delegierten, soweit im Rahmen eines anderen Wahlverfahrens bereits Delegierte mit Mehrfachmandat gewählt werden
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004800000)
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
 zu wählen, so findet eine Wahl von Delegierten nicht statt, soweit
@@ -3451,10 +3520,12 @@ Betriebswahlvorständen. § 23 Abs. 4 und 5 ist anzuwenden.
 
 
 ##### Unterabschnitt 2 - Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG001900000)
 
 
 
 ###### § 48 Errechnung der Zahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE004900000)
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer
 durch Delegierte zu wählen sind, so teilt der Hauptwahlvorstand dies
@@ -3510,6 +3581,7 @@ vollen Zahl betragen.
 
 
 ###### § 49 Zuordnung von Arbeitnehmern zu anderen Betrieben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005000000)
 
 (1) Entfällt nach § 48 auf die Arbeitnehmer eines Betriebs kein
 Delegierter, so streicht der Hauptwahlvorstand diese Arbeitnehmer in
@@ -3528,6 +3600,7 @@ errechnen (§ 48).
 
 
 ###### § 50 Mitteilungen des Hauptwahlvorstands
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005100000)
 
 (1) Der Hauptwahlvorstand teilt jedem Betriebswahlvorstand
 unverzüglich nach der Errechnung der Zahl der Delegierten (§ 48) oder,
@@ -3577,6 +3650,7 @@ Delegierten (§ 51).
 
 
 ###### § 51 Wahlausschreiben für die Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005200000)
 
 Unverzüglich nach Eingang der in § 50 bezeichneten Mitteilung erlässt
 der Betriebswahlvorstand ein Wahlausschreiben für die Wahl der
@@ -3658,10 +3732,12 @@ entsprechend anzuwenden.
 
 
 ##### Unterabschnitt 3 - Wahlvorschläge für Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002000000)
 
 
 
 ###### § 52 Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005300000)
 
 (1) Zur Wahl der Delegierten können die Wahlberechtigten des Betriebs
 Wahlvorschläge machen. Jeder Wahlvorschlag für Delegierte muss von
@@ -3709,6 +3785,7 @@ Wahlvorschlägen zu streichen.
 
 
 ###### § 53 Prüfung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005400000)
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter
 schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
@@ -3722,6 +3799,7 @@ unterrichten.
 
 
 ###### § 54 Ungültige Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005500000)
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -3759,6 +3837,7 @@ beseitigt worden sind.
 
 
 ###### § 55 Nachfrist für Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005600000)
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen
 bestimmten Frist kein gültiger Wahlvorschlag eingereicht, so erlässt
@@ -3789,6 +3868,7 @@ stattfindet.
 
 
 ###### § 56 Bekanntmachung der Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005700000)
 
 (1) Sind mehrere Wahlvorschläge eingereicht, so ermittelt der
 Betriebswahlvorstand durch das Los nach Ablauf der in § 52 Abs. 1 Satz
@@ -3807,10 +3887,12 @@ Delegierte zu wählen sind.
 
 
 ##### Unterabschnitt 4 - Wahl von Delegierten auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002100000)
 
 
 
 ###### § 57 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005801119)
 
 (1) Liegen mehrere gültige Wahlvorschläge vor, so kann der Wähler
 seine Stimme nur für einen dieser Wahlvorschläge abgeben. Die
@@ -3850,6 +3932,7 @@ der Wählerliste zu vermerken.
 
 
 ###### § 58 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE005901119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Betriebswahlvorstand öffentlich die Stimmen aus.
@@ -3867,6 +3950,7 @@ wenn sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
 
 ###### § 59 Ermittlung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006000000)
 
 (1) Die den einzelnen Wahlvorschlägen zugefallenen Stimmenzahlen
 werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2,
@@ -3890,10 +3974,12 @@ Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer Benennung.
 
 
 ##### Unterabschnitt 5 - Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002200000)
 
 
 
 ###### § 60 Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006100000)
 
 (1) Liegt nur ein gültiger Wahlvorschlag vor, so gelten so viele der
 darin aufgeführten Bewerber in der im Wahlvorschlag angegebenen
@@ -3905,10 +3991,12 @@ gewählt gelten.
 
 
 ##### Unterabschnitt 6 - Schriftliche Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002300000)
 
 
 
 ###### § 61 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006200000)
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen
 Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich
@@ -3963,6 +4051,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 
 ###### § 62 Verfahren bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006300000)
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -4001,10 +4090,12 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
 ##### Unterabschnitt 7 - Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002400000)
 
 
 
 ###### § 63 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006401119)
 
 (1) Nachdem ermittelt ist, wer als Delegierter gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift fest:
@@ -4051,6 +4142,7 @@ oder durch Boten.
 
 
 ###### § 64 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006500000)
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der
 Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
@@ -4061,10 +4153,12 @@ Mehrfachmandat, so ist dies in der Benachrichtigung anzugeben.
 
 
 ##### Unterabschnitt 8 - Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002500000)
 
 
 
 ###### § 65 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006600000)
 
 Die Vorschriften der Unterabschnitte 1 bis 7 sind nicht anzuwenden auf
 Betriebe, in denen nach den Vorschriften dieser Verordnung Delegierte
@@ -4074,14 +4168,17 @@ ist (§ 10a des Gesetzes).
 
 
 #### Abschnitt 2 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002600000)
 
 
 
 ##### Unterabschnitt 1 - Delegiertenversammlung, Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002700000)
 
 
 
 ###### § 66 Delegiertenversammlung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006700000)
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder der
 Arbeitnehmer in einer Versammlung (Delegiertenversammlung). Sie wird
@@ -4099,6 +4196,7 @@ stattfinden.
 
 
 ###### § 67 Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006800000)
 
 (1) Der Hauptwahlvorstand stellt eine Liste der Delegierten
 (Delegiertenliste) auf. § 7 Abs. 1 Satz 2 und 3 sowie Abs. 4 ist
@@ -4117,6 +4215,7 @@ ermöglicht werden.
 
 
 ###### § 68 Einsprüche gegen die Richtigkeit der Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE006900000)
 
 (1) Einsprüche gegen die Richtigkeit der Delegiertenliste können vor
 Beginn der Stimmabgabe beim Hauptwahlvorstand eingelegt werden.
@@ -4135,10 +4234,12 @@ bis vor Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
 
 ##### Unterabschnitt 2 - Mitteilung an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002800000)
 
 
 
 ###### § 69 Mitteilung an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007001119)
 
 (1) Der Hauptwahlvorstand teilt jedem Delegierten spätestens zwei
 Wochen vor dem Tag der Delegiertenversammlung mit:
@@ -4231,10 +4332,12 @@ er verhindert ist, so teilt er dies dem Hauptwahlvorstand mit.
 
 
 ##### Unterabschnitt 3 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund mehrerer Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG002900000)
 
 
 
 ###### § 70 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007101119)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige
@@ -4289,6 +4392,7 @@ Stimmauszählung ungefaltete Stimmzettel erfordert.
 
 
 ###### § 71 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007201119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Hauptwahlvorstand öffentlich die Stimmen aus.
@@ -4307,6 +4411,7 @@ ungültig.
 
 
 ###### § 72 Verteilung der Stimmenzahlen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007301119)
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -4333,10 +4438,12 @@ Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer Benennung.
 
 
 ##### Unterabschnitt 4 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003000000)
 
 
 
 ###### § 73 Stimmabgabe, Wahlvorgang
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007400000)
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der
 Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger
@@ -4384,6 +4491,7 @@ wählen sind. § 70 Abs. 3 Satz 2 ist entsprechend anzuwenden.
 
 
 ###### § 74 Öffentliche Stimmauszählung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007501119)
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
 Hauptwahlvorstand öffentlich die Stimmen aus.
@@ -4398,6 +4506,7 @@ dies als eine Stimme.
 
 
 ###### § 75 Verteilung der Stimmen auf die Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007601119)
 
 Der Hauptwahlvorstand bestimmt so viele Bewerber, wie in dem Wahlgang
 Aufsichtsratsmitglieder zu wählen sind, nach der Reihenfolge der auf
@@ -4406,10 +4515,12 @@ Los.
 
 
 ##### Unterabschnitt 5 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003101119)
 
 
 
 ###### § 75a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011100119)
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
 70 und in einem Wahlgang nach § 73 so viele Bewerber gewählt, wie
@@ -4421,6 +4532,7 @@ gewählt.
 
 
 ###### § 75b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011200119)
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
 einem Wahlgang nach § 70 und in einem Wahlgang nach § 73 so viele
@@ -4433,6 +4545,7 @@ gewählt.
 
 
 ###### § 75c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011300119)
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
 die Höchstzahlen nach § 72 der Größe nach auf die Bewerber verteilt
@@ -4458,6 +4571,7 @@ gewählt.
 
 
 ###### § 76 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007701119)
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Hauptwahlvorstand in einer Niederschrift für jeden Wahlgang gesondert
@@ -4512,6 +4626,7 @@ Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
 
 
 ###### § 77 Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007801119)
 
 (1) Der Hauptwahlvorstand gibt das Wahlergebnis und die Namen der
 Gewählten in der Delegiertenversammlung bekannt.
@@ -4546,6 +4661,7 @@ Hauptwahlvorstand die Adressaten der Absätze 1 bis 3 zusätzlich
 
 
 ###### § 78 Aufbewahrung der Wahlakten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE007900000)
 
 Der Hauptwahlvorstand und jeder Betriebswahlvorstand übergeben die
 Wahlakten dem herrschenden Unternehmen. Dieses Unternehmen bewahrt die
@@ -4553,14 +4669,17 @@ Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
 
 ## Teil 2 - Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003200000)
 
 
 
 ### Kapitel 1 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003300000)
 
 
 
 #### § 79 Einleitung des Abberufungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008001119)
 
 (1) Ein Antrag auf Abberufung eines Aufsichtsratsmitglieds der
 Arbeitnehmer nach § 10n Absatz 1 des Gesetzes ist schriftlich beim
@@ -4587,6 +4706,7 @@ beantragt wird, entstandenen Wahlakten zu übergeben.
 
 
 #### § 80 Liste der antragsberechtigten Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008101119)
 
 Wird die Abberufung eines unternehmensangehörigen
 Aufsichtsratsmitglieds der Arbeitnehmer beantragt, so wird in jedem
@@ -4599,6 +4719,7 @@ auf Abberufung enthalten.
 
 
 #### § 81 Prüfung des Antrags auf Abberufung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008200000)
 
 (1) Der Hauptwahlvorstand prüft unverzüglich nach Übersendung der
 Listen der antragsberechtigten Arbeitnehmer die Gültigkeit des Antrags
@@ -4612,6 +4733,7 @@ die Dauer von zwei Wochen bekannt.
 
 
 #### § 82 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008300000)
 
 (1) Liegt ein gültiger Antrag vor, so stellt der Hauptwahlvorstand
 fest, ob das Aufsichtsratsmitglied, dessen Abberufung beantragt ist,
@@ -4627,10 +4749,12 @@ Abberufungsverfahren nach den Vorschriften des Kapitels 3.
 
 
 ### Kapitel 2 - Abstimmung über die Abberufung eines in unmittelbarer Wahl gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003400000)
 
 
 
 #### § 83 Abberufungsausschreiben, Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008400000)
 
 (1) Der Hauptwahlvorstand erlässt unverzüglich ein
 Abberufungsausschreiben. Die Abstimmung soll innerhalb von vier Wochen
@@ -4672,6 +4796,7 @@ Die §§ 7 bis 10 sind entsprechend anzuwenden.
 
 
 #### § 84 Abstimmung, Abstimmungsergebnis, Akten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008501119)
 
 (1) Für die Abstimmung sind die §§ 14 bis 21 anzuwenden.
 
@@ -4700,10 +4825,12 @@ entstandenen Akten ist § 45 entsprechend anzuwenden.
 
 
 ### Kapitel 3 - Abstimmung über die Abberufung eines durch Delegierte gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003500000)
 
 
 
 #### § 85 Delegiertenliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008600000)
 
 Der Hauptwahlvorstand stellt für die Abberufung unverzüglich eine
 Liste der Delegierten (Delegiertenliste) auf. § 7 Abs. 1 Satz 2 und 3,
@@ -4711,6 +4838,7 @@ Abs. 2 und 4, § 67 Abs. 2 und 3 und § 68 sind entsprechend anzuwenden.
 
 
 #### § 86 Delegiertenversammlung, Mitteilung des Hauptwahlvorstands an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008700000)
 
 (1) Die Delegierten stimmen über den Antrag auf Abberufung in einer
 Versammlung (Delegiertenversammlung) ab. Die Delegiertenversammlung
@@ -4765,6 +4893,7 @@ zwei Wochen vor der Delegiertenversammlung übersandt werden.
 
 
 #### § 87 Abstimmung, Abstimmungsergebnis, Akten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008801119)
 
 Für die Abstimmung, das Abstimmungsergebnis und die Aufbewahrung der
 Akten sind § 14 Abs. 1 und 3, die §§ 15, 19, 21 und 70 Absatz 1 Satz 3
@@ -4773,24 +4902,29 @@ und 3 entsprechend anzuwenden.
 
 
 ### Kapitel 4 - Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003600000)
 
 
 
 #### § 88 Ersatzmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE008901119)
 
 Für die Abberufung von Ersatzmitgliedern (§ 10n Absatz 4 des Gesetzes)
 sind die Vorschriften der Kapitel 1 bis 3 entsprechend anzuwenden.
 
 
 ## Teil 3 - Besondere Vorschriften für die Wahl und die Abberufung der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arbeitnehmern von Seebetrieben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003700000)
 
 
 
 ### Kapitel 1 - Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003800000)
 
 
 
 #### § 89 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009001119)
 
 Nehmen an der Wahl oder an der Abberufung auch Arbeitnehmer eines in §
 10i Absatz 1 des Gesetzes bezeichneten Betriebs (Seebetrieb) teil, so
@@ -4799,14 +4933,17 @@ Vorschriften dieses Teils anzuwenden.
 
 
 ### Kapitel 2 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG003900000)
 
 
 
 #### Abschnitt 1 - Einleitung der Wahl, Abstimmung über die Art der Wahl, Wahlvorschläge
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004000000)
 
 
 
 ##### § 90 Einleitung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009101119)
 
 (1) Die in § 1 Abs. 1 Satz 1 bezeichnete Frist wird auf 50 Wochen
 verlängert.
@@ -4891,6 +5028,7 @@ Wählerliste eine Bekanntmachung. Sie muss folgende Angaben enthalten:
 
 
 ##### § 91 Abstimmung über die Art der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009201119)
 
 Die Arbeitnehmer der Seebetriebe nehmen an einer Abstimmung darüber,
 ob die Wahl durch Delegierte oder unmittelbar erfolgen soll, nicht
@@ -4902,6 +5040,7 @@ hinzuweisen. Die §§ 11 bis 22 sind auf Seebetriebe nicht anzuwenden.
 
 
 ##### § 92 Bekanntmachung über die Einreichung von Wahlvorschlägen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009301119)
 
 (1) Die Bekanntmachung nach § 23 Abs. 1 muss in Seebetrieben auch
 folgende Angaben enthalten:
@@ -4945,10 +5084,12 @@ und § 90 Abs. 4 ist anzuwenden.
 
 
 #### Abschnitt 2 - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004100000)
 
 
 
 ##### § 93 Wahlausschreiben im Seebetrieb
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009400000)
 
 (1) Das Wahlausschreiben nach § 32 Abs. 1 muss in Seebetrieben auch
 folgende Angaben enthalten:
@@ -4968,6 +5109,7 @@ sind anzuwenden.
 
 
 ##### § 94 Stimmabgabe bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009500000)
 
 (1) Die Arbeitnehmer von Seebetrieben stimmen bei der Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab.
@@ -4995,10 +5137,12 @@ abgesandt werden.
 
 
 #### Abschnitt 3 - Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004200000)
 
 
 
 ##### § 95 Wahl der Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009600000)
 
 (1) In Seebetrieben werden Delegierte nicht gewählt. Die §§ 46 bis 65
 sind auf Seebetriebe nicht anzuwenden.
@@ -5008,6 +5152,7 @@ Aufsichtsratsmitglieder der Arbeitnehmer unmittelbar teil.
 
 
 ##### § 96 Wahlausschreiben in Seebetrieben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009700000)
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer
 durch Delegierte zu wählen sind, so erlässt der Hauptwahlvorstand ein
@@ -5061,6 +5206,7 @@ anzuwenden.
 
 
 ##### § 97 Stimmabgabe der Arbeitnehmer von Seebetrieben
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009800000)
 
 (1) Die Arbeitnehmer von Seebetrieben stimmen bei der Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab. Die §§ 41
@@ -5117,6 +5263,7 @@ entsprechend anzuwenden:
 
 
 ##### § 98 Wahlniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE009901119)
 
 (1) Für die Wahlniederschrift ist § 76 nicht anzuwenden. Nachdem
 ermittelt ist, wer gewählt ist, stellt der Hauptwahlvorstand in einer
@@ -5217,14 +5364,17 @@ Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
 
 
 ### Kapitel 3 - Abberufung der Aufsichtsratsmitglieder der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004300000)
 
 
 
 #### Abschnitt 1 - Gemeinsame Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004400000)
 
 
 
 ##### § 99 Gemeinsame Vorschrift
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010000000)
 
 (1) Für einen Seebetrieb wird ein Betriebswahlvorstand nicht gebildet.
 Der Hauptwahlvorstand nimmt im Seebetrieb die sich aus dieser
@@ -5238,10 +5388,12 @@ ist § 90 Abs. 4 anzuwenden.
 
 
 #### Abschnitt 2 - Abstimmung über die Abberufung eines in unmittelbarer Wahl gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004500000)
 
 
 
 ##### § 100 Abberufungsausschreiben für Seebetriebe, Wählerliste
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010100000)
 
 (1) Die in § 83 Abs. 1 Satz 2 bezeichnete Frist wird auf sechs Wochen
 verlängert.
@@ -5253,16 +5405,19 @@ die in § 93 Abs. 1 bezeichneten Angaben enthalten.
 
 
 ##### § 101 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010200000)
 
 Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2
 ist entsprechend anzuwenden.
 
 
 #### Abschnitt 3 - Abstimmung über die Abberufung eines durch Delegierte gewählten Aufsichtsratsmitglieds der Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004600000)
 
 
 
 ##### § 102 Unmittelbare Abstimmung, Wählerliste, Mitteilung an die Delegierten
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010300000)
 
 (1) Die Arbeitnehmer von Seebetrieben nehmen an der Abstimmung über
 einen Antrag auf Abberufung unmittelbar teil.
@@ -5278,6 +5433,7 @@ verlängern kann.
 
 
 ##### § 103 Abberufungsausschreiben für Seebetriebe
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010400000)
 
 Spätestens zehn Wochen vor der Delegiertenversammlung erlässt der
 Hauptwahlvorstand ein Abberufungsausschreiben für Seebetriebe. § 83
@@ -5286,6 +5442,7 @@ sind entsprechend anzuwenden.
 
 
 ##### § 104 Abstimmung, Mitteilung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010500000)
 
 Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2
 ist entsprechend anzuwenden. § 14 Abs. 2 und die §§ 17, 18 und 87 sind
@@ -5318,10 +5475,12 @@ entsprechend anzuwenden:
 
 
 ## Teil 4 - Unternehmen mit Mehrheitsbeteiligung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004800126)
 
 
 
 ### § 104a Geschlechteranteil in nicht börsennotierten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011500126)
 
 Für nicht börsennotierte Unternehmen mit Mehrheitsbeteiligung des
 Bundes im Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a
@@ -5331,10 +5490,12 @@ Geschlechteranteil bei börsennotierten Unternehmen entsprechend.
 
 
 ## Teil 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNG004702126)
 
 
 
 ### § 105 Erstmalige Anwendung des Gesetzes auf ein Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010601119)
 
 (1) Bei der erstmaligen Anwendung des Gesetzes auf ein Unternehmen hat
 das Unternehmen die in § 1 bezeichnete Bekanntmachung unverzüglich
@@ -5356,6 +5517,7 @@ bezeichnete Frist auf 46 Wochen.
 
 
 ### § 106 Berechnung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE010700000)
 
 Für die Berechnung der in dieser Verordnung bestimmten Fristen sind
 die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechend
@@ -5364,6 +5526,7 @@ Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
 
 ### § 107 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/montanmitbestgerggwo_2005/BJNR293200005.html#BJNR293200005BJNE011401126)
 
 Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
 einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung

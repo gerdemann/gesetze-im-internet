@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000200000)
 
 Diese Verordnung gilt für Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamte des gehobenen Polizeivollzugsdienstes, die sich
@@ -30,6 +32,7 @@ beworben haben.
 
 
 ### § 2 Ziele der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000300000)
 
 Die Ausbildung hat folgende Ziele:
 
@@ -51,6 +54,7 @@ Die Ausbildung hat folgende Ziele:
 
 
 ### § 3 Bewertung der Leistungen in der Ausbildung und in der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000400000)
 
 (1) Die Leistungen der Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten in der Ausbildung und in der Abschlussprüfung
@@ -236,27 +240,32 @@ berechnet.
 
 
 ### § 4 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000500000)
 
 Die Zeiten des Erholungsurlaubs werden von der Bundespolizeiakademie
 bestimmt.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNG000200000)
 
 
 ### § 5 Durchführende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000600000)
 
 Das Auswahlverfahren wird von der Bundespolizeiakademie im Auftrag des
 Bundespolizeipräsidiums durchgeführt.
 
 
 ### § 6 Zweck des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000700000)
 
 Im Auswahlverfahren wird festgestellt, ob die Bewerberinnen und
 Bewerber für die Aufstiegsausbildung geeignet und befähigt sind.
 
 
 ### § 7 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000800000)
 
 (1) Zum Auswahlverfahren wird zugelassen, wer neben den in § 17 Absatz
 1 der Bundespolizei-Laufbahnverordnung genannten Voraussetzungen die
@@ -275,6 +284,7 @@ schriftlichen oder elektronischen Bescheid.
 
 
 ### § 8 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE000900000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet abweichend von
 § 36 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das
@@ -316,6 +326,7 @@ Vorsitzenden den Ausschlag.
 
 
 ### § 9 Bestandteile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001000000)
 
 Das Auswahlverfahren besteht aus
 
@@ -329,6 +340,7 @@ Das Auswahlverfahren besteht aus
 
 
 ### § 10 Verwaltungsvorschriften zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001100000)
 
 Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 
@@ -351,6 +363,7 @@ Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 
 
 ### § 11 Bestehen des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001200000)
 
 Wer mindestens die Mindestpunktzahl, die für das Bestehen erforderlich
 ist, erreicht hat, hat das Auswahlverfahren bestanden. Die
@@ -358,6 +371,7 @@ Mindestpunktzahl ist die Hälfte der insgesamt vergebenen Punkte.
 
 
 ### § 12 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001300000)
 
 (1) Für jede Bewerberin und jeden Bewerber, die oder der am
 Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das
@@ -377,9 +391,11 @@ schriftlichen oder elektronischen Bescheid.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNG000300000)
 
 
 ### § 13 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001400000)
 
 Während der Ausbildung führt die Bundespolizeiakademie die
 Dienstaufsicht über die Polizeivollzugsbeamtinnen und
@@ -387,6 +403,7 @@ Polizeivollzugsbeamten, die an der Ausbildung teilnehmen.
 
 
 ### § 14 Gliederung der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001500000)
 
 Die Ausbildung gliedert sich in
 
@@ -406,6 +423,7 @@ Die Ausbildung gliedert sich in
 
 
 ### § 15 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001600000)
 
 (1) Für die Ausbildung erstellt die Bundespolizeiakademie im
 Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
@@ -428,6 +446,7 @@ Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
 
 
 ### § 16 Fächer der theoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001700000)
 
 (1) Die Ausbildung erfolgt in den Fächern
 
@@ -452,6 +471,7 @@ Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
 
 
 ### § 17 Klausuren in der theoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001800000)
 
 (1) In der theoretischen Ausbildung schreibt jede
 Polizeivollzugsbeamtin und jeder Polizeivollzugsbeamte zwei Klausuren,
@@ -477,12 +497,14 @@ schriftliche oder elektronische Bescheinigung aus.
 
 
 ### § 18 Bestehen der Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE001900000)
 
 Eine Klausur hat bestanden, wer in der Klausur mindestens fünf
 Rangpunkte erreicht hat.
 
 
 ### § 19 Wiederholung von Klausuren
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002000000)
 
 (1) Wer eine Klausur nicht bestanden hat, kann sie wiederholen.
 
@@ -497,6 +519,7 @@ erreichten.
 
 
 ### § 20 Seminararbeit
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002100000)
 
 (1) Während der Ausbildung fertigt jede Polizeivollzugsbeamtin und
 jeder Polizeivollzugsbeamte eine Seminararbeit an.
@@ -518,12 +541,14 @@ Bescheinigung aus.
 
 
 ### § 21 Bestehen der Seminararbeit
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002200000)
 
 Die Seminararbeit hat bestanden, wer in der Seminararbeit mindestens
 fünf Rangpunkte erreicht hat.
 
 
 ### § 22 Wiederholung der Seminararbeit
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002300000)
 
 (1) Wer die Seminararbeit nicht bestanden hat, kann sie einmal
 wiederholen.
@@ -538,6 +563,7 @@ erreichten.
 
 
 ### § 23 Praktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002400000)
 
 (1) Die praktische Ausbildung dauert in der Regel 30 Wochen.
 
@@ -547,6 +573,7 @@ erreichten.
 
 
 ### § 24 Repetitorium
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002500000)
 
 (1) Das Repetitorium dauert zwei Wochen.
 
@@ -554,9 +581,11 @@ erreichten.
 
 
 ## Abschnitt 4 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNG000400000)
 
 
 ### § 25 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002600000)
 
 (1) Für die Durchführung der Abschlussprüfung richtet das Prüfungsamt
 der Bundespolizeiakademie eine Prüfungskommission ein. Bei Bedarf
@@ -596,6 +625,7 @@ ist nicht zulässig.
 
 
 ### § 26 Zulassung zur Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002700000)
 
 Zur Abschlussprüfung wird zugelassen, wer
 
@@ -610,12 +640,14 @@ Zur Abschlussprüfung wird zugelassen, wer
 
 
 ### § 27 Zeitpunkt der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002800000)
 
 Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums
 statt.
 
 
 ### § 28 Zweck und Gegenstand der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE002900000)
 
 (1) In der Abschlussprüfung wird festgestellt,
 
@@ -634,6 +666,7 @@ Ausbildung.
 
 
 ### § 29 Durchführung und Dauer der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003000000)
 
 (1) Die Abschlussprüfung wird in Form eines fächerübergreifenden
 Prüfungsgesprächs durchgeführt.
@@ -645,6 +678,7 @@ durchgeführt. Eine Gruppe darf aus höchstens vier Prüflingen bestehen.
 
 
 ### § 30 Bewertung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003100000)
 
 (1) Die vom Prüfling in der Abschlussprüfung erbrachten Leistungen
 werden als Ganzes bewertet.
@@ -658,6 +692,7 @@ mit und erläutert das Ergebnis der Abschlussprüfung mündlich.
 
 
 ### § 31 Prüfungsprotokoll
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003200000)
 
 (1) Über die Abschlussprüfung wird ein Prüfungsprotokoll angefertigt.
 
@@ -672,6 +707,7 @@ Prüfungskommission zu unterschreiben.
 
 
 ### § 32 Nichtöffentlichkeit der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003300000)
 
 (1) Die Abschlussprüfung ist nicht öffentlich.
 
@@ -702,12 +738,14 @@ die Person, die das Prüfungsprotokoll anfertigt, anwesend sein.
 
 
 ### § 33 Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003400000)
 
 Die Abschlussprüfung hat bestanden, wer in der Abschlussprüfung
 mindestens fünf Rangpunkte erreicht hat.
 
 
 ### § 34 Wiederholung der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003500000)
 
 (1) Wer die Abschlussprüfung nicht bestanden hat, kann sie einmal
 wiederholen. In Ausnahmefällen kann das Bundespolizeipräsidium im
@@ -727,6 +765,7 @@ nicht bestanden.
 
 
 ### § 35 Rangpunktzahl der Ausbildung und Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003600000)
 
 (1) Für jede Person, die die Abschlussprüfung bestanden hat, berechnet
 das Prüfungsamt die Rangpunktzahl der Ausbildung.
@@ -753,6 +792,7 @@ Gesamtnote zugeordnet.
 
 
 ### § 36 Abschlusszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003700000)
 
 (1) Jeder Person, die die Abschlussprüfung bestanden hat, stellt das
 Prüfungsamt ein Abschlusszeugnis aus.
@@ -778,6 +818,7 @@ erklärt, so ist das Abschlusszeugnis zurückzugeben.
 
 
 ### § 37 Bescheid über die nicht bestandene Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003800000)
 
 Wer die Abschlussprüfung nicht bestanden hat, erhält einen
 schriftlichen oder elektronischen Bescheid über die nicht bestandene
@@ -785,6 +826,7 @@ Abschlussprüfung.
 
 
 ### § 38 Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE003900000)
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von der
 Abschlussprüfung gilt sie als nicht bestanden.
@@ -800,6 +842,7 @@ unverzüglich ein ärztliches Attest vorgelegt wird.
 
 
 ### § 39 Ordnungsverstoß
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE004000000)
 
 (1) Wenn ein Prüfling bei der Abschlussprüfung täuscht, eine Täuschung
 versucht oder an einer Täuschung oder einem Täuschungsversuch mitwirkt
@@ -832,6 +875,7 @@ anzuhören.
 
 
 ### § 40 Prüfungsakten und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE004100000)
 
 (1) Zu jedem Prüfling führt die Bundespolizeiakademie eine
 Prüfungsakte.
@@ -866,6 +910,7 @@ nehmen. Die Einsichtnahme wird in den Prüfungsakten vermerkt.
 
 
 ### § 41 Zuständigkeit für die Entscheidung über Widersprüche
+[Direktlink](https://www.gesetze-im-internet.de/hbpolvdaufstv/BJNR072710021.html#BJNR072710021BJNE004200000)
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf
 Grund dieser Verordnung getroffen werden, entscheidet das Prüfungsamt

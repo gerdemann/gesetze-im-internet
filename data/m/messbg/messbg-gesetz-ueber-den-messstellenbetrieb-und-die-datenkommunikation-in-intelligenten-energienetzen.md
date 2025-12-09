@@ -32,9 +32,11 @@ Stand: Das G ist gem. Art. 16 G v. 29.8.2016 I 2034 am 2.9.2016 in Kraft getrete
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000100000)
 
 
 ### § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000202377)
 
 Zweck dieses Gesetzes ist die beschleunigte Digitalisierung der
 Energiewende im Interesse einer nachhaltigen, verbrauchergerechten und
@@ -72,6 +74,7 @@ datengestützten Netzplanung. Dazu trifft es Regelungen
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000304377)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -260,12 +263,15 @@ Energiewirtschaftsgesetzes anzuwenden.
 
 
 ## Teil 2 - Messstellenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000200000)
 
 
 ### Kapitel 1 - Rechte und Pflichten im Zusammenhang mit dem Messstellenbetrieb und dessen Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000300000)
 
 
 #### § 3 Messstellenbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000404311)
 
 (1) Der Messstellenbetrieb ist Aufgabe des grundzuständigen
 Messstellenbetreibers, soweit nicht eine anderweitige Vereinbarung
@@ -363,6 +369,7 @@ Dritter im Sinne der §§ 5 und 6 tätig.
 
 
 #### § 4 Genehmigung des grundzuständigen Messstellenbetriebs
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000500000)
 
 (1) Die Aufnahme der Grundzuständigkeit für den Messstellenbetrieb
 bedarf der Genehmigung durch die Bundesnetzagentur für Elektrizität,
@@ -390,6 +397,7 @@ Versagungsgrund im Sinne des Absatzes 3 darstellen würde.
 
 
 #### § 5 Auswahlrecht des Anschlussnutzers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000600000)
 
 (1) Auf Wunsch des betroffenen Anschlussnutzers kann der
 Messstellenbetrieb anstelle des nach § 3 Absatz 1 Verpflichteten von
@@ -406,6 +414,7 @@ Aufbewahrungsvorschriften bestimmen etwas anderes.
 
 
 #### § 6 Auswahlrecht des Anschlussnehmers; Folgen für das Auswahlrecht des Anschlussnutzers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000702377)
 
 (1) Statt des Anschlussnutzers kann ab dem 1. Januar 2021 der
 Anschlussnehmer einen Messstellenbetreiber auswählen, wenn dieser
@@ -487,6 +496,7 @@ weitere Sparten nach Absatz 1 bleibt unberührt.
 
 
 #### § 7 Entgelt für den grundzuständigen Messstellenbetrieb; besondere Kostenregulierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000803311)
 
 (1) Grundzuständige Messstellenbetreiber haben für die Erfüllung ihrer
 Aufgaben ein Entgelt festzulegen, das die Preisobergrenzen dieses
@@ -527,6 +537,7 @@ entsprechend anzuwenden.
 
 
 #### § 8 Messstelle
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE000904311)
 
 (1) Der Messstellenbetreiber bestimmt im Rahmen der Anforderungen
 dieses Gesetzes nach Konsultation mit dem Anschlussnehmer oder
@@ -553,6 +564,7 @@ unberührt.
 
 
 #### § 9 Messstellenverträge
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001002377)
 
 (1) Die Durchführung des Messstellenbetriebs bedarf folgender Verträge
 des Messstellenbetreibers (Messstellenverträge):
@@ -600,6 +612,7 @@ anzuwenden.
 
 
 #### § 10 Inhalt von Messstellenverträgen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001101377)
 
 (1) Messstellenverträge regeln die Durchführung des
 Messstellenbetriebs in Bezug auf die Messstelle, die in dem Vertrag
@@ -644,6 +657,7 @@ behindern.
 
 
 #### § 11 Dokumentationspflicht; Auffangzuständigkeit für den grundzuständigen Messstellenbetrieb; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001203311)
 
 (1) Messstellenbetreiber sind verpflichtet, dem Netzbetreiber jährlich
 eine Übersicht zur Ausstattung der Messstellen im Netzgebiet zur
@@ -730,6 +744,7 @@ berücksichtigen.
 
 
 #### § 12 Rechte des Netzbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001300000)
 
 Der Netzbetreiber ist zur Erfüllung gesetzlicher Verpflichtungen
 berechtigt, vom Messstellenbetreiber, insbesondere zur Durchführung
@@ -741,6 +756,7 @@ der Messstelle zu verlangen.
 
 
 #### § 13 Nutzung des Verteilernetzes zur Datenübertragung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001400000)
 
 Der Messstellenbetreiber ist berechtigt, zur Messdatenübertragung
 gegen ein angemessenes und diskriminierungsfreies Entgelt im Rahmen
@@ -749,9 +765,11 @@ des Netzbetreibers zu erhalten.
 
 
 ### Kapitel 2 - Wechsel des Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000400000)
 
 
 #### § 14 Wechsel des Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001500000)
 
 (1) Ein Anschlussnutzer hat seinem Messstellenbetreiber in Textform zu
 erklären, dass er beabsichtigt, nach § 5 Absatz 1 einen anderen
@@ -789,6 +807,7 @@ Entgelt erhoben werden.
 
 
 #### § 15 Mitteilungspflichten beim Übergang
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001600000)
 
 Der neue Messstellenbetreiber ist verpflichtet, den nach § 49
 berechtigten Stellen, bezogen auf die betroffene Messstelle,
@@ -809,6 +828,7 @@ den Energielieferanten und den Netzbetreiber.
 
 
 #### § 16 Übergang technischer Einrichtungen; Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001701377)
 
 (1) Vor dem Übergang des Messstellenbetriebs muss der bisherige
 Messstellenbetreiber dem neuen Messstellenbetreiber nach dessen Wahl
@@ -838,6 +858,7 @@ ersetzen.
 
 
 #### § 17 Wechsel des Anschlussnutzers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001800000)
 
 Im Falle des Wechsels des bisherigen Anschlussnutzers ist der Dritte,
 der den Messstellenbetrieb durchführt, auf Verlangen des
@@ -850,6 +871,7 @@ angemessenes Entgelt.
 
 
 #### § 18 Ausfall des Dritten als Messstellenbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE001901377)
 
 (1) Endet der Messstellenbetrieb eines Dritten oder fällt der Dritte
 als Messstellenbetreiber aus, ohne dass zum Zeitpunkt der Beendigung
@@ -865,9 +887,11 @@ diesen Zeitraum nach Maßgabe des § 71 Absatz 3 zu bestimmen.
 
 
 ### Kapitel 3 - Technische Vorgaben zur Gewährleistung von Datenschutz und Datensicherheit beim Einsatz von Smart-Meter-Gateways
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000500000)
 
 
 #### § 19 Allgemeine Anforderungen an Messsysteme; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002006311)
 
 (1) Zur Gewährleistung von Datenschutz, Datensicherheit und
 Interoperabilität haben Messsysteme den Anforderungen der Absätze 2
@@ -947,6 +971,7 @@ anzuwenden.
 
 
 #### § 20 Anbindbarkeit von Messeinrichtungen für Gas an das Smart-Meter-Gateway
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002100000)
 
 (1) Neue Messeinrichtungen für Gas dürfen nur verbaut werden, wenn sie
 sicher mit einem Smart-Meter-Gateway verbunden werden können. Die
@@ -964,6 +989,7 @@ ist.
 
 
 #### § 21 Mindestanforderungen an intelligente Messsysteme
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002203377)
 
 (1) Ein intelligentes Messsystem muss nach dem Stand der Technik nach
 Maßgabe des § 22
@@ -1108,6 +1134,7 @@ erfolgen.
 
 
 #### § 22 Mindestanforderungen an das Smart-Meter-Gateway durch Schutzprofile und Technische Richtlinien
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002303377)
 
 (1) Das Smart-Meter-Gateway eines intelligenten Messsystems hat zur
 Gewährleistung von Datenschutz, Datensicherheit und Interoperabilität
@@ -1228,6 +1255,7 @@ Absatz 6 zu beachten.
 [^f794956_02_BJNR203410016BJNE002303377]: 
 
 #### § 23 Sichere Anbindung an das Smart-Meter-Gateway
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002401377)
 
 (1) Das Smart-Meter-Gateway eines intelligenten Messsystems muss zur
 Gewährleistung von Datenschutz, Datensicherheit und Interoperabilität
@@ -1260,6 +1288,7 @@ Absatz 6 zu beachten.
 
 
 #### § 24 Zertifizierung des Smart-Meter-Gateway
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002503123)
 
 (1) Zum Nachweis der Erfüllung der sicherheitstechnischen
 Anforderungen nach § 22 Absatz 1 und 2 müssen Smart-Meter-Gateways im
@@ -1296,6 +1325,7 @@ werden können, dabei ist § 19 Absatz 6 zu beachten.
 
 
 #### § 25 Smart-Meter-Gateway-Administrator; Zertifizierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002602377)
 
 (1) Der Smart-Meter-Gateway-Administrator muss einen zuverlässigen
 technischen Betrieb des intelligenten Messsystems und die
@@ -1416,6 +1446,7 @@ Meter-Gateway-Administrators entsprechend anzuwenden.
 [^f794956_03_BJNR203410016BJNE002602377]: 
 
 #### § 26 Aufrechterhaltung eines einheitlichen Sicherheitsniveaus
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002701377)
 
 (1) Zur Sicherstellung und Aufrechterhaltung eines bundesweit
 einheitlichen Sicherheitsniveaus für den Betrieb von zertifizierten
@@ -1456,6 +1487,7 @@ nachträglich zu informieren.
 [^f794956_04_BJNR203410016BJNE002701377]: 
 
 #### § 27 Weiterentwicklung von Schutzprofilen und Technischen Richtlinien; Ausschuss Gateway-Standardisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002801377)
 
 (1) Weitere Schutzprofile und Technische Richtlinien sowie neuere
 Versionen Technischer Richtlinien und von Schutzprofilen nach § 22
@@ -1529,6 +1561,7 @@ Sicherheit in der Informationstechnik.
 
 
 #### § 28 Inhaber der Wurzelzertifikate
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE002900000)
 
 Das Bundesamt für Sicherheit in der Informationstechnik ist Inhaber
 der Wurzelzertifikate für die Smart-Metering-Public-Key-Infrastruktur;
@@ -1538,9 +1571,11 @@ für Sicherheit in der Informationstechnik.
 
 
 ### Kapitel 4 - Ergänzende Rechte und Pflichten im Zusammenhang mit dem Messstellenbetrieb mit modernen Messeinrichtungen und intelligenten Messsystemen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000600000)
 
 
 #### § 29 Ausstattung von Messstellen mit intelligenten Messsystemen, Steuerungseinrichtungen und modernen Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003003311)
 
 (1) Der grundzuständige Messstellenbetreiber hat, soweit dies nach §
 30 wirtschaftlich vertretbar ist, Messstellen an ortsfesten
@@ -1624,6 +1659,7 @@ Letztverbrauchers betrieben werden.
 
 
 #### § 30 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit intelligenten Messsystemen und Steuerungseinrichtungen; Preisobergrenzen; Festlegungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003103311)
 
 (1) Die Ausstattung einer Messstelle mit einem intelligenten
 Messsystem nach § 29 Absatz 1 Nummer 1 ist für die Zeit ab dem 1.
@@ -1779,6 +1815,7 @@ dort festgesetzten Preisobergrenzen anstelle der in den Absätzen 1 bis
 
 
 #### § 31 Agiler Rollout, Anwendungsupdate
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003203311)
 
 (1) Messstellenbetreiber können den Rollout nach § 30 Absatz 1 bis 3
 im Bereich der Niederspannung bei Messstellen an Zählpunkten mit einem
@@ -1810,6 +1847,7 @@ Messsystem nach Absatz 1 finden die §§ 30 und 35 Anwendung.
 
 
 #### § 32 Wirtschaftliche Vertretbarkeit der Ausstattung von Messstellen mit modernen Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003302311)
 
 (1) Die Ausstattung einer Messstelle mit einer modernen
 Messeinrichtung nach § 29 Absatz 3 ist wirtschaftlich vertretbar, wenn
@@ -1823,6 +1861,7 @@ Absatz 1 Satz 1 geregelten Preisobergrenze anzuwenden.
 
 
 #### § 33 Anpassungen, Aufhebungen oder Neufestlegungen bei Preisobergrenzen und Vermutungstatbeständen; Festlegungskompetenzen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003403311)
 
 (1) Die Bundesnetzagentur wird ermächtigt, durch Festlegung nach § 29
 Absatz 1 des Energiewirtschaftsgesetzes
@@ -1865,6 +1904,7 @@ unberührt.
 
 
 #### § 34 Standard- und Zusatzleistungen des Messstellenbetreibers; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003503311)
 
 (1) Beim Messstellenbetrieb nach § 3 mit intelligenten Messsystemen
 und, soweit gesetzlich vorgesehen, mit intelligenten Messsystemen und
@@ -2107,6 +2147,7 @@ anzubietende Zusatzleistungen vorgeben.
 
 
 #### § 35 Angemessenes Entgelt für Zusatzleistungen des grundzuständigen Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003605311)
 
 (1) Der grundzuständige Messstellenbetreiber darf für seine
 Zusatzleistungen nach § 34 Absatz 2 und 3 zuzüglich zu den in § 30
@@ -2144,6 +2185,7 @@ geregelten Vermutungsregelungen anzuwenden.
 
 
 #### § 36 Ausstattungspflichten und freie Wahl des Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003704311)
 
 (1) Die Verpflichtungen des grundzuständigen Messstellenbetreibers aus
 den §§ 29, 30, 32 und 34 gelten nicht, wenn ein nach den §§ 5 oder 6
@@ -2185,6 +2227,7 @@ entsprechend.
 
 
 #### § 37 Informationspflichten des grundzuständigen Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003801377)
 
 (1) Grundzuständige Messstellenbetreiber haben mindestens zum 31.
 Oktober eines jeden Jahres Informationen zu veröffentlichen über
@@ -2209,6 +2252,7 @@ Wahl eines Messstellenbetreibers nach den §§ 5 und 6 hinzuweisen.
 
 
 #### § 38 Zutrittsrecht
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE003902377)
 
 Anlagenbetreiber, Anschlussnutzer und Anschlussnehmer haben nach
 vorheriger schriftlicher Benachrichtigung dem grundzuständigen
@@ -2226,9 +2270,11 @@ Messstelle zugänglich ist.
 
 
 ### Kapitel 5 - Liegenschaftsmodernisierung; Anbindungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000700000)
 
 
 #### § 39 Liegenschaftsmodernisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004000000)
 
 (1) Für den Wechsel des Messstellenbetreibers auf Veranlassung des
 Anschlussnehmers nach § 6 zur Liegenschaftsmodernisierung gelten die
@@ -2240,6 +2286,7 @@ geschlossen.
 
 
 #### § 40 Anbindungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004101377)
 
 (1) Wird oder ist mindestens ein Zählpunkt eines Anschlussnutzers mit
 einem Smart-Meter-Gateway ausgestattet, haben grundzuständige
@@ -2259,9 +2306,11 @@ Anbindung dem jeweiligen Anschlussnutzer keine Mehrkosten entstehen.
 
 
 ### Kapitel 6 - Übertragung der Grundzuständigkeit für moderne Messeinrichtungen und intelligente Messsysteme
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000800000)
 
 
 #### § 41 Möglichkeit zur Übertragung der Grundzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004201377)
 
 (1) Grundzuständige Messstellenbetreiber können die Grundzuständigkeit
 für den Messstellenbetrieb von modernen Messeinrichtungen und
@@ -2284,6 +2333,7 @@ modernen Messeinrichtungen und intelligenten Messsystemen.
 
 
 #### § 42 Fristen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004301377)
 
 Anstehende Verfahren zur Übertragung der Grundzuständigkeit nach § 41
 Absatz 1 können jederzeit eingeleitet werden und sind spätestens nach
@@ -2291,6 +2341,7 @@ sechs Monaten durch einen Zuschlag abzuschließen.
 
 
 #### § 43 Folgen einer erfolgreichen Übertragung der Grundzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004401377)
 
 (1) Das Unternehmen, das den Zuschlag erhält, übernimmt die
 Grundzuständigkeit für den Messstellenbetrieb für moderne
@@ -2317,6 +2368,7 @@ sowie der Bundesnetzagentur anzuzeigen.
 
 
 #### § 44 Scheitern einer Übertragung der Grundzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004501377)
 
 Wurde kein Angebot abgegeben, das den Voraussetzungen nach den §§ 41
 und 42 entspricht oder scheitert ein Übertragungsverfahren aus anderem
@@ -2326,6 +2378,7 @@ anzuwenden.
 
 
 #### § 45 Ausstattungsverpflichtungen des grundzuständigen Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004603311)
 
 (1) Der grundzuständige Messstellenbetreiber erfüllt seine
 Ausstattungsverpflichtungen nach § 29 Absatz 1, wenn er
@@ -2484,9 +2537,11 @@ Veröffentlichung nach Satz 1 erhobenen Daten auch für den Bericht nach
 
 
 ### Kapitel 7 - Verordnungsermächtigungen; Festlegungskompetenzen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG000901377)
 
 
 #### § 46 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004701377)
 
 Soweit es für das Funktionieren der Marktkommunikation mit
 intelligenten Messsystemen oder zur wettbewerblichen Stärkung der
@@ -2521,6 +2576,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 #### § 47 Festlegungen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004803377)
 
 (1) Die Bundesnetzagentur kann unter Beachtung der mess-, eich- und
 datenschutzrechtlichen Vorgaben und der Schutzprofile und Technischen
@@ -2638,6 +2694,7 @@ Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes treffen
 
 
 #### § 48 Analysen und Berichte des Bundesministeriums für Wirtschaft und Klimaschutz
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE004901377)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz legt
 spätestens zum 30. Juni 2024 und sodann mindestens alle vier Jahre
@@ -2672,12 +2729,15 @@ Veröffentlichung ganz oder teilweise abgesehen werden.
 
 
 ## Teil 3 - Regelungen zur Datenkommunikation in intelligenten Energienetzen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001000000)
 
 
 ### Kapitel 1 - Berechtigte; Allgemeine Anforderungen an die Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001101377)
 
 
 #### § 49 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005001377)
 
 (1) Personenbezogene Daten dürfen ausschließlich von den in Absatz 2
 genannten Stellen verarbeitet werden (berechtigte Stellen). Eine
@@ -2732,6 +2792,7 @@ hierfür nicht erforderlich sind.
 
 
 #### § 50 Zulässigkeit und Umfang der Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005103377)
 
 (1) Die Verarbeitung von Daten aus einer Messeinrichtung, einer
 modernen Messeinrichtung, einem Messsystem, einem intelligenten
@@ -2814,6 +2875,7 @@ Anschlussnutzers erfolgen oder soweit dies erforderlich ist
 
 
 #### § 51 Anforderungen an die Verarbeitung von Daten beim Smart-Meter-Gateway; Rolle des Smart-Meter-Gateway-Administrators
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005201377)
 
 (1) Um eine Verarbeitung von Daten aus dem intelligenten Messsystem
 oder mit Hilfe des intelligenten Messsystems zu ermöglichen, müssen
@@ -2831,6 +2893,7 @@ Anwendungen ist zu beachten.
 
 
 #### § 52 Allgemeine Anforderungen an die Datenkommunikation; Anonymisierung und Pseudonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005303311)
 
 (1) Die nach § 49 Absatz 2 berechtigten Stellen haben eine
 verschlüsselte elektronische Kommunikation von personenbezogenen
@@ -2904,6 +2967,7 @@ gelten die Anforderungen aus § 51 Absatz 1.
 
 
 #### § 53 Auskunftsrechte des Anschlussnutzers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005401377)
 
 Unbeschadet des Artikels 15 in Verbindung mit Artikel 12 Absatz 5 der
 Verordnung (EU) 2016/679 hat der Messstellenbetreiber dem
@@ -2913,6 +2977,7 @@ gewähren, soweit diese Daten nicht personenbezogen sind.
 
 
 #### § 54 Transparenzvorgaben für Verträge
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005501377)
 
 (1) Bestandteil vertraglicher Regelungen, die eine Datenkommunikation
 durch das oder mit Hilfe des Smart-Meter-Gateways auslösen, muss ein
@@ -2931,9 +2996,11 @@ Formblätter in Kopie.
 
 
 ### Kapitel 2 - Zulässiger Umfang der Datenerhebung; Besondere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001200000)
 
 
 #### § 55 Messwerterhebung Strom
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005603377)
 
 (1) Die Messung entnommener Elektrizität erfolgt
 
@@ -3001,6 +3068,7 @@ Geräte-ID sowie die Zählwerkskennzeichnung verwendet werden.
 
 
 #### § 56 Erhebung von Netzzustandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005703377)
 
 (1) Netzzustandsdaten dürfen vom Messstellenbetreiber nur im Auftrag
 des Netzbetreibers und nur in begründeten Fällen erhoben werden.
@@ -3033,6 +3101,7 @@ dokumentieren.
 
 
 #### § 57 Erhebung von Stammdaten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005800000)
 
 Soweit dieses Gesetz, eine Rechtsverordnung nach den §§ 46 und 74 oder
 Festlegungen der Bundesnetzagentur nach § 75 es erfordern, können vom
@@ -3050,6 +3119,7 @@ erforderlichen Zeitpunkt erhoben werden, insbesondere
 
 
 #### § 58 Messwerterhebung Gas
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE005901377)
 
 (1) Die Messung entnommenen Gases erfolgt
 
@@ -3093,6 +3163,7 @@ nach § 9 verpflichtet.
 
 
 #### § 59 Weitere Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006001377)
 
 Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der
 Verordnung (EU) 2016/679 ist eine Datenerhebung über die §§ 55 bis 58
@@ -3103,12 +3174,15 @@ werden.
 
 
 ### Kapitel 3 - Besondere Anforderungen an die Datenverarbeitung; Übermittlungs- und Archivierungspflicht; Löschung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001301377)
 
 
 #### Abschnitt 1 - Pflichten des Messstellenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001400000)
 
 
 ##### § 60 Datenübermittlung; sternförmige Kommunikation; Löschung oder Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006105311)
 
 (1) Der Messstellenbetreiber ist verpflichtet, die nach den §§ 55 bis
 59 erhobenen Daten aufzubereiten und im erforderlichen Umfang an die
@@ -3304,6 +3378,7 @@ Absatz 2 Nummer 13 oder nach § 75 nicht etwas anderes bestimmt ist.
 
 
 ##### § 61 Verbrauchsinformationen für den Anschlussnutzer bei intelligenten Messsystemen und modernen Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006202377)
 
 (1) Bei Vorhandensein eines intelligenten Messsystems hat der
 Messstellenbetreiber dafür Sorge zu tragen, dass der Anschlussnutzer
@@ -3353,6 +3428,7 @@ kann.
 
 
 ##### § 62 Messwertverarbeitung zu Zwecken des Anlagenbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006302377)
 
 (1) Bei Vorhandensein eines intelligenten Messsystems hat der
 Messstellenbetreiber dem Anlagenbetreiber standardmäßig zumindest
@@ -3394,6 +3470,7 @@ kann.
 
 
 ##### § 63 Übermittlung von Stammdaten; Löschung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006400000)
 
 Bei Vorhandensein eines intelligenten Messsystems hat der
 Messstellenbetreiber für die in § 50 Absatz 2 Nummer 7 genannten
@@ -3405,12 +3482,14 @@ der jeweiligen Anlage zu löschen.
 
 
 ##### § 64 Löschung von übermittelten Netzzustandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006501377)
 
 Messstellenbetreiber haben personenbezogene Netzzustandsdaten nach
 erfolgreicher Übermittlung unverzüglich zu löschen.
 
 
 ##### § 65 Weitere Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006601377)
 
 Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der
 Verordnung (EU) 2016/679 ist eine Datenübermittlung über die §§ 60 bis
@@ -3419,9 +3498,11 @@ Verordnung (EU) 2016/679 ist eine Datenübermittlung über die §§ 60 bis
 
 
 #### Abschnitt 2 - Zulässiger Datenaustausch: Pflichten der übrigen an der Datenkommunikation Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001500000)
 
 
 ##### § 66 Messwertnutzung zu Zwecken des Netzbetreibers; Übermittlungspflicht; Löschung oder Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006705311)
 
 (1) Der Netzbetreiber darf erhaltene Messwerte ausschließlich
 verarbeiten, soweit dies für folgende Zwecke zwingend erforderlich
@@ -3519,6 +3600,7 @@ als nicht mehr erforderlich
 
 
 ##### § 67 Messwertverarbeitung zu Zwecken des Übertragungsnetzbetriebs und der Bilanzkoordination; Übermittlungspflicht; Löschung oder Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006805377)
 
 (1) Der Betreiber von Übertragungsnetzen darf erhaltene Messwerte
 neben den in § 66 Absatz 1 genannten Zwecken auch verarbeiten, soweit
@@ -3610,6 +3692,7 @@ als nicht mehr erforderlich
 
 
 ##### § 68 Messwertverarbeitung zu Zwecken des Bilanzkreisverantwortlichen; Übermittlungspflicht; Löschung oder Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE006902377)
 
 (1) Der Bilanzkreisverantwortliche darf erhaltene Messwerte
 ausschließlich verarbeiten, soweit dies zu folgenden Zwecken zwingend
@@ -3657,6 +3740,7 @@ als nicht mehr erforderlich
 
 
 ##### § 69 Messwertverarbeitung zu Zwecken des Energielieferanten; Übermittlungspflicht; Löschung oder Anonymisierung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007003377)
 
 (1) Der Energielieferant darf erhaltene Messwerte ausschließlich
 verarbeiten, soweit dies zu folgenden Zwecken zwingend erforderlich
@@ -3731,6 +3815,7 @@ als nicht mehr erforderlich
 
 
 ##### § 70 Messwertverarbeitung auf Veranlassung des Anschlussnutzers; weiterer Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007101377)
 
 Unbeschadet des Artikels 6 Absatz 1 Unterabsatz 1 Buchstabe a der
 Verordnung (EU) 2016/679 ist eine Messwertverarbeitung oder ein
@@ -3739,9 +3824,11 @@ personenbezogenen Daten verarbeitet werden.
 
 
 #### Abschnitt 3 - Besondere Fallgruppen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001600000)
 
 
 ##### § 71 Nachprüfung der Messeinrichtung; Haftung bei Beschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007200000)
 
 (1) Der Anschlussnutzer, der Bilanzkoordinator, der Energielieferant
 oder der Netzbetreiber kann jederzeit eine Nachprüfung der
@@ -3773,6 +3860,7 @@ vorhandene Messwerte keine ausreichende Verlässlichkeit bieten.
 
 
 ##### § 72 Öffentliche Verbrauchseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007300000)
 
 Bei öffentlichen Verbrauchseinrichtungen kann die abgenommene
 Strommenge auch rechnerisch ermittelt oder geschätzt werden, wenn die
@@ -3783,6 +3871,7 @@ sind und der Lastverlauf berechenbar ist.
 
 
 ##### § 73 Verfahren bei rechtswidriger Inanspruchnahme
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007401377)
 
 (1) Wenn tatsächliche Anhaltspunkte für die rechtswidrige
 Inanspruchnahme von Messsystemen, intelligenten Messsystemen oder
@@ -3818,9 +3907,11 @@ unverzüglich in Kenntnis zu setzen.
 
 
 ### Kapitel 4 - Verordnungsermächtigung; Festlegungen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001700000)
 
 
 #### § 74 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007501377)
 
 Soweit es für das Funktionieren einer sicheren Marktkommunikation mit
 intelligenten Messsystemen erforderlich ist, wird die Bundesregierung
@@ -3834,6 +3925,7 @@ zu tragen.
 
 
 #### § 75 Festlegungen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007603377)
 
 Zur bundesweiten Vereinheitlichung der Bedingungen für den
 Messstellenbetrieb und der Datenverarbeitung kann die
@@ -3899,9 +3991,11 @@ Bundesnetzagentur mit ihr oder ihm ins Benehmen setzen.
 
 
 ## Teil 4 - Besondere Aufgaben der Regulierungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNG001800000)
 
 
 ### § 76 Aufsichtsmaßnahmen der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007701377)
 
 (1) Die Bundesnetzagentur kann Unternehmen oder Vereinigungen von
 Unternehmen verpflichten, ein Verhalten abzustellen, das den
@@ -3943,6 +4037,7 @@ Bekanntmachung förmlich zustellt.
 
 
 ### § 77 Monitoring-Bericht der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007803377)
 
 In den Monitoring-Bericht der Bundesnetzagentur nach § 35 des
 Energiewirtschaftsgesetzes sind besondere Aspekte des
@@ -3971,6 +4066,7 @@ Messstellenbetriebs aufzunehmen. Der Bericht soll Angaben enthalten
 (zu § 22 Absatz 2 Satz 1)
 
 ### Anlage Übersicht über die Schutzprofile und Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/messbg/BJNR203410016.html#BJNR203410016BJNE007900000)
 
 
 1.  BSI: Protection Profile for the Gateway of a Smart-Metering-System

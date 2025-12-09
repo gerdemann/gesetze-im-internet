@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Elektronische Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000101125)
 
 Das Deutsche Patent- und Markenamt, das Patentgericht und der
 Bundesgerichtshof, soweit er für die Verhandlung und Entscheidung über
@@ -29,6 +30,7 @@ können Verfahrensakten ganz oder teilweise auch elektronisch führen.
 
 
 ## § 2 Verfahrensrecht für das Deutsche Patent- und Markenamt
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000201125)
 
 Für das Verfahren vor dem Deutschen Patent- und Markenamt gelten die
 Regelungen der Zivilprozessordnung über die elektronische Aktenführung
@@ -36,6 +38,7 @@ entsprechend.
 
 
 ## § 3 Übertragung und Vernichtung von Schriftstücken
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000301125)
 
 (1) Soweit das Deutsche Patent- und Markenamt Akten elektronisch
 führt, soll es an Stelle von Papierdokumenten deren elektronische
@@ -55,6 +58,7 @@ sind.
 
 
 ## § 4 Überblick über Aktenbestandteile
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000400000)
 
 (1) Enthält eine Akte sowohl elektronische als auch papiergebundene
 Bestandteile, so muss beim Zugriff auf jeden der Teile ein Hinweis auf
@@ -66,6 +70,7 @@ Aktenbestandteile sichtbar sein.
 
 
 ## § 5 Herkunftsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000503123)
 
 (1) Ist eine handschriftliche Unterzeichnung nicht erforderlich, so
 kann in elektronischen Bestandteilen der Akte statt der elektronischen
@@ -104,6 +109,7 @@ Markenamts wird unterzeichnet, indem
 
 
 ## § 6 Form der Ausfertigungen und Abschriften
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000602123)
 
 (1) Wird die Abschrift eines elektronischen Dokuments gefertigt, das
 mit einem Herkunftsnachweis nach § 5 Absatz 1 oder Absatz 2 versehen
@@ -130,10 +136,12 @@ worden ist und daher nicht unterschrieben ist.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000701360)
 
 
 
 ## § 8 Vorlegen von Akten
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000800000)
 
 (1) Sind Akten einem Gericht oder einer Behörde vorzulegen, werden
 alle elektronischen Aktenbestandteile übersandt oder der unbeschränkte
@@ -150,6 +158,7 @@ anderen, geeigneten Form zu übersenden.
 
 
 ## § 9 Aufbewahrung
+[Direktlink](https://www.gesetze-im-internet.de/eapatv/BJNR008310010.html#BJNR008310010BJNE000900000)
 
 Aktenbestandteile in elektronischer Form sind ebenso lange
 aufzubewahren wie Aktenbestandteile in Papierform.

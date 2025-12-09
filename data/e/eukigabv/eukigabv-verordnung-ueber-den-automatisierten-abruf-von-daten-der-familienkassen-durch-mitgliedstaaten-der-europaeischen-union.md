@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000100000)
 
 Auf Grund des § 68 Absatz 6 Satz 2 des Einkommensteuergesetzes, der
 durch Artikel 9 Nummer 8 des Gesetzes vom 11. Juli 2019 (BGBl. I S.
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000200000)
 
 (1) Diese Verordnung gilt für den automatisierten Abruf von Daten
 durch die für Familienleistungen zuständigen öffentlichen Stellen
@@ -59,6 +61,7 @@ jeweils geltenden Fassung, bleibt von dieser Verordnung unberührt.
 
 
 ## § 2 Abrufberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000300000)
 
 (1) Der automatisierte Abruf von Daten nach § 1 bedarf einer
 Abrufberechtigung. Die Abrufberechtigung erteilt die Familienkasse-BA.
@@ -85,6 +88,7 @@ verpflichtet.
 
 
 ## § 3 Verfahren des Datenabrufs
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000400000)
 
 (1) Beschäftigte, denen eine Abrufberechtigung nach § 2 Absatz 1
 erteilt worden ist, haben sich bei einem Datenabruf gegenüber der
@@ -281,6 +285,7 @@ jeweiligen Stand der Technik entsprechen muss.
 
 
 ## § 4 Prüfungs- und Dokumentationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000500000)
 
 Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von
 Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1
@@ -289,6 +294,7 @@ anzuwenden.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eukigabv/BJNR137800022.html#BJNR137800022BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2022 in Kraft.
 

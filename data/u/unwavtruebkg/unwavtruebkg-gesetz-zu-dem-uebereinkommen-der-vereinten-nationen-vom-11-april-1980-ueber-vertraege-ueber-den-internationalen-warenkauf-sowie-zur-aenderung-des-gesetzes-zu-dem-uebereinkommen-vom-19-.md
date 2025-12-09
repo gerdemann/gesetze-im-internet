@@ -24,10 +24,12 @@ Geändert durch
 Stand: Art. 2, 3 und 5 treten zukünftig in Kraft gem. Art. 7 Abs. 1 Satz 2 dieses G; iVm Art. 7 Abs. 2 dieses G u. Bek v. 23.10.1990 II 1477 in Kraft mWv 1.1.1991
 
 ## Erster Teil - Zustimmung zu dem Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf sowie Vorschriften zur Ausführung des Übereinkommens
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNG000100326)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000400326)
 
 Dem in New York am 26. Mai 1981 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen der Vereinten Nationen vom 11. April
@@ -37,6 +39,7 @@ Das Übereinkommen wird nachstehend mit einer amtlichen deutschen
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000500326)
 
 Führen die Regeln des internationalen Privatrechts zur Anwendung des
 Rechts eines Staates, der eine Erklärung nach Artikel 95 des
@@ -45,6 +48,7 @@ Buchstabe b des Übereinkommens außer Betracht.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000601377)
 
 Auf die Verjährung der dem Käufer nach Artikel 45 des Übereinkommens
 von 1980 zustehenden Ansprüche wegen Vertragswidrigkeit der Ware ist §
@@ -55,19 +59,23 @@ nicht offenbart hat.
 
 
 ## Zweiter Teil - Änderung des Gesetzes zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNG000200326)
 
 
 
 ### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000700326)
 
 -
 
 
 ## Dritter Teil - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNG000300326)
 
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000800326)
 
 (1) Das Einheitliche Gesetz über den internationalen Kauf beweglicher
 Sachen vom 17. Juli 1973 (BGBl. I S. 856) und das Einheitliche Gesetz
@@ -87,12 +95,14 @@ Kraft tritt.
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE000900326)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/unwavtr_bkg/BJNR205860989.html#BJNR205860989BJNE001000326)
 
 (1) Mit Ausnahme der Artikel 2, 3 und 5 tritt dieses Gesetz am Tage
 nach seiner Verkündung in Kraft. Die Artikel 2, 3 und 5 treten an dem

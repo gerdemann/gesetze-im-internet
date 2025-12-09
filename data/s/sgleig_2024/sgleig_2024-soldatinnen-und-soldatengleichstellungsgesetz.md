@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt G 51-7 v. 27.12.2004 I 3822 (SGleiG)
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000100000)
 
 
 ### § 1 Ziele des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000200000)
 
 (1) Ziel des Gesetzes ist es,
 
@@ -49,6 +51,7 @@ bestehende Benachteiligungen abzubauen.
 
 
 ### § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000300000)
 
 (1) Dieses Gesetz gilt für die Dienststellen nach § 3 Absatz 1.
 
@@ -98,6 +101,7 @@ Ausnahme von § 17 nicht anwendbar.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000400000)
 
 (1) Dienststellen im Sinne dieses Gesetzes sind das Bundesministerium
 der Verteidigung sowie die militärischen und zivilen Dienststellen der
@@ -162,6 +166,7 @@ pflegebedürftig ist.
 
 
 ### § 4 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000500000)
 
 (1) Das militärische Personal, insbesondere Personen mit Vorgesetzten-
 und Führungsaufgaben, ist in seinem Aufgabenbereich verpflichtet, das
@@ -210,6 +215,7 @@ sicherzustellen.
 
 
 ### § 5 Verbot der Benachteiligung auf Grund des Geschlechts; Entschädigung und Schadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000600000)
 
 (1) Eine Benachteiligung auf Grund des Geschlechts ist verboten. Die
 Regelungen für Bereiche, in denen Soldatinnen unterrepräsentiert sind,
@@ -221,9 +227,11 @@ Anspruch kann auch in elektronischer Form geltend gemacht werden.
 
 
 ## Teil 2 - Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000200000)
 
 
 ### § 6 Personalwerbung, externe Stellenausschreibungen, Dienstpostenbekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000700000)
 
 (1) Die Personalwerbung, die externen Stellenausschreibungen und die
 Bekanntgabe zu besetzender Dienstposten für militärisches Personal
@@ -253,6 +261,7 @@ Teilzeitbeschäftigung grundsätzlich nicht möglich ist.
 
 
 ### § 7 Annahmeverfahren, Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000800000)
 
 (1) In den Bereichen, in denen Frauen unterrepräsentiert sind, sind in
 die Annahmeverfahren mindestens ebenso viele Frauen wie Männer
@@ -320,6 +329,7 @@ Frauen und Männern besetzt sein.
 
 
 ### § 8 Qualifikation
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE000900000)
 
 (1) Die Qualifikation wird anhand der Anforderungen der in Betracht
 kommenden Verwendungen ermittelt, insbesondere anhand der
@@ -332,6 +342,7 @@ sie für die Ausübung der jeweiligen Tätigkeit von Bedeutung sind.
 
 
 ### § 9 Dienstliche Benachteiligungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001000000)
 
 (1) Auf die Berufung in ein Dienstverhältnis, die Umwandlung des
 Dienstverhältnisses, die Beförderung, den Laufbahnwechsel, die
@@ -391,6 +402,7 @@ Pflegeaufgaben steht einer Beförderung nicht entgegen.
 
 
 ### § 10 Aus-, Fort- und Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001100000)
 
 (1) Zu den Aus-, Fort- und Weiterbildungen ist ein gleichberechtigter
 Zugang sicherzustellen. Die Teilnahme von Soldatinnen an Maßnahmen der
@@ -433,9 +445,11 @@ Themen anbieten.
 
 
 ## Teil 3 - Vereinbarkeit von Familie, Pflege und Dienst
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000300000)
 
 
 ### § 11 Dienstliche Rahmenbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001200000)
 
 Bei der Gestaltung des Dienstes sollen, soweit zwingende dienstliche
 Gründe dem nicht entgegenstehen,
@@ -459,6 +473,7 @@ Gründe dem nicht entgegenstehen,
 
 
 ### § 12 Teilzeitbeschäftigung, familien- oder pflegebedingte Beurlaubung, Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001300000)
 
 (1) Die Dienststellen sollen die tatsächlichen Voraussetzungen dafür
 schaffen, jeder Person Folgendes zu ermöglichen:
@@ -505,6 +520,7 @@ Beurlaubung oder der Elternzeit hinzuweisen.
 
 
 ### § 13 Aufstockung der Arbeitszeit bei Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001400000)
 
 Beantragt eine in Teilzeit beschäftigte Person, die Familienaufgaben
 oder Pflegeaufgaben wahrnimmt, die Erhöhung ihrer wöchentlichen
@@ -515,6 +531,7 @@ Interessen in der Person eines Mitbewerbers überwiegen.
 
 
 ### § 14 Aufrechterhaltung der Verbindung zum Beruf bei familien- oder pflegebedingter Beurlaubung oder Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001500000)
 
 (1) Jeder Person, die Urlaub zur Wahrnehmung von Familien- oder
 Pflegeaufgaben oder die Elternzeit genommen hat, sind durch die
@@ -546,6 +563,7 @@ der Fort- oder Weiterbildung.
 
 
 ### § 15 Beruflicher Wiedereinstieg nach familien- oder pflegebedingter Beurlaubung oder Elternzeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001600000)
 
 (1) Beantragt eine Person, die Urlaub zur Wahrnehmung von Familien-
 oder Pflegeaufgaben oder die Elternzeit genommen hat, den beruflichen
@@ -560,6 +578,7 @@ berücksichtigen.
 
 
 ### § 16 Angebote von Betreuungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001700000)
 
 Es sollen Angebote zur Betreuung von Kindern und pflegebedürftigen
 Angehörigen gemacht werden. Dies umfasst auch Beratungs- und
@@ -567,6 +586,7 @@ Vermittlungsleistungen.
 
 
 ### § 17 Erstattung von Kosten für die Betreuung von Kindern oder von pflegebedürftigen Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001801377)
 
 (1) Kosten für die Betreuung von Kindern oder von pflegebedürftigen
 Angehörigen können auf Antrag im Einzelfall erstattet werden, wenn
@@ -625,9 +645,11 @@ Angehörigen können auf Antrag im Einzelfall erstattet werden, wenn
 
 
 ## Teil 4 - Gleichstellungsplan
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000400000)
 
 
 ### § 18 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE001900000)
 
 Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes
 und ist ein wesentliches Instrument zur Durchsetzung der
@@ -639,6 +661,7 @@ Verpflichtung.
 
 
 ### § 19 Erstellung, Inkrafttreten, Geltungszeitraum, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002000000)
 
 (1) Jede Dienststelle, in der eine Gleichstellungsbeauftragte zu
 wählen ist, erstellt einen Gleichstellungsplan für die Dienststelle
@@ -675,6 +698,7 @@ festlegen.
 
 
 ### § 20 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002100000)
 
 (1) Der Gleichstellungsplan enthält
 
@@ -733,6 +757,7 @@ der Festlegung neuer oder weiterer Zielvorgaben zu berücksichtigen.
 
 
 ### § 21 Zwischenbilanz
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002200000)
 
 (1) Zum 31. Dezember des zweiten Jahres des Geltungszeitraums des
 Gleichstellungsplans hat die Dienststelle unter frühzeitiger
@@ -758,6 +783,7 @@ Zwischenbilanz
 
 
 ### § 22 Gleichstellungsplan für die personalbearbeitenden Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002300000)
 
 (1) Jede personalbearbeitende Stelle erstellt neben dem
 Gleichstellungsplan der Dienststelle zusätzlich einen
@@ -858,15 +884,19 @@ für Führungsverwendungen mit Disziplinarbefugnis.
 
 
 ## Teil 5 - Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000500000)
 
 
 ### Abschnitt 1 - Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000600000)
 
 
 #### Unterabschnitt 1 - Wahlbereich und Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000700000)
 
 
 ##### § 23 Wahl und Wahlberechtigung im Bundesministerium der Verteidigung und in den unmittelbar nachgeordneten Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002400000)
 
 (1) Im Bundesministerium der Verteidigung werden eine
 Gleichstellungsbeauftragte und eine oder mehrere Stellvertreterinnen
@@ -900,6 +930,7 @@ sind. Wahlberechtigt und wählbar sind
 
 
 ##### § 24 Wahl und Wahlberechtigung in den Dienststellen der Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002500000)
 
 (1) In den Streitkräften sind in jeder Dienststelle der Divisionsebene
 eine Gleichstellungsbeauftragte und eine oder mehrere
@@ -946,6 +977,7 @@ gewählt werden. Wahlberechtigt und wählbar sind
 
 
 ##### § 25 Wahl und Wahlberechtigung in den Dienststellen der Bundeswehrverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002600000)
 
 (1) In den Dienststellen der Bundeswehrverwaltung sind in jeder
 Bundesoberbehörde eine Gleichstellungsbeauftragte und eine oder
@@ -966,6 +998,7 @@ und wählbar sind die Soldatinnen der Bundesunterbehörde.
 
 
 ##### § 26 Anordnungsermächtigung zur Wahl in weiteren Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002700000)
 
 Das Bundesministerium der Verteidigung kann anordnen, dass in weiteren
 Dienststellen eine Gleichstellungsbeauftragte und eine oder mehrere
@@ -982,6 +1015,7 @@ Stellvertreterinnen zu wählen sind. Wahlberechtigt und wählbar sind
 
 
 ##### § 27 Wahl und Wahlberechtigung in den personalbearbeitenden Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002800000)
 
 In den personalbearbeitenden Stellen sind wahlberechtigt und wählbar:
 
@@ -996,6 +1030,7 @@ In den personalbearbeitenden Stellen sind wahlberechtigt und wählbar:
 
 
 ##### § 28 Ausschluss doppelter Wahlberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE002900000)
 
 Soldatinnen, die in ihrer Dienststelle zur Wahl einer
 Gleichstellungsbeauftragten und einer oder mehrerer
@@ -1006,9 +1041,11 @@ Absatz 1 Nummer 2 oder des § 27 Nummer 2 vor.
 
 
 #### Unterabschnitt 2 - Wahlgrundsätze, Amtszeit, Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000800000)
 
 
 ##### § 29 Wahlgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003000000)
 
 Die Gleichstellungsbeauftragte und eine oder mehrere
 Stellvertreterinnen werden in unmittelbarer, freier, gleicher und
@@ -1016,6 +1053,7 @@ geheimer Wahl gewählt.
 
 
 ##### § 30 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003100000)
 
 (1) Die Amtszeit beträgt vier Jahre. Die Wiederwahl ist zulässig.
 
@@ -1027,6 +1065,7 @@ Verlängerung darf jedoch drei Monate nicht überschreiten.
 
 
 ##### § 31 Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003200000)
 
 (1) Jede Bestellung bedarf der Zustimmung der Soldatin.
 
@@ -1047,6 +1086,7 @@ Vorschlagsrecht. Ihrem Vorschlag soll die Dienststelle folgen.
 
 
 ##### § 32 Bestellung bei vorzeitigem Ausscheiden oder bei Verhinderung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003300000)
 
 (1) Eine Neuwahl ist durchzuführen, wenn die
 Gleichstellungsbeauftragte und alle ihre Stellvertreterinnen
@@ -1078,6 +1118,7 @@ für die restliche Amtszeit.
 
 
 ##### § 33 Anzahl der Stellvertreterinnen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003400000)
 
 (1) Für die Gleichstellungsbeauftragte ist mindestens eine
 Stellvertreterin zu wählen. Es können maximal drei Stellvertreterinnen
@@ -1110,6 +1151,7 @@ Verteidigung zustimmt. Absatz 1 Satz 2 bleibt unberührt.
 
 
 ##### § 34 Bestellung einer Stellvertreterin bei Abwesenheit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003500000)
 
 (1) Hat eine Gleichstellungsbeauftragte nur eine Stellvertreterin und
 sind beide gleichzeitig abwesend, soll die Gleichstellungsbeauftragte
@@ -1125,9 +1167,11 @@ abwesend sind.
 
 
 #### Unterabschnitt 3 - Anfechtung und Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG000900000)
 
 
 ##### § 35 Anfechtung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003600000)
 
 (1) Ist gegen wesentliche Vorschriften des Wahlrechts oder gegen das
 Wahlverfahren verstoßen worden, kann die Wahl angefochten werden. Eine
@@ -1167,6 +1211,7 @@ Anfechtung noch nicht entschieden worden ist.
 
 
 ##### § 36 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003700000)
 
 Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren
 für die Durchführung der Wahl durch Rechtsverordnung, die nicht der
@@ -1174,9 +1219,11 @@ Zustimmung des Bundesrates bedarf, zu regeln.
 
 
 #### Unterabschnitt 4 - Verfahren bei Umstrukturierung von Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001000000)
 
 
 ##### § 37 Aufstellung einer Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003800000)
 
 (1) Bei Aufstellung einer Dienststelle im Sinne des § 23 Absatz 2, des
 § 24 Absatz 1 bis 3 oder des § 25 Absatz 1 ist bei endgültiger
@@ -1209,6 +1256,7 @@ vier Monaten nach Aufstellung der Dienststelle eingeleitet werden.
 
 
 ##### § 38 Auflösung und Zusammenlegung von Dienststellen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE003900000)
 
 (1) Bei der Auflösung einer oder mehrerer Dienststellen und der
 Zusammenlegung zu einer neuen Dienststelle endet die Amtszeit der
@@ -1221,6 +1269,7 @@ entsprechend.
 
 
 ##### § 39 Eingliederung einer Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004000000)
 
 (1) Wird eine Dienststelle in eine andere Dienststelle eingegliedert,
 endet die Amtszeit der Gleichstellungsbeauftragten der eingegliederten
@@ -1237,6 +1286,7 @@ anzuwenden.
 
 
 ##### § 40 Aufspaltung einer Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004100000)
 
 (1) Entstehen im Falle der Aufspaltung einer Dienststelle in zwei oder
 mehrere Teile neue Dienststellen im Sinne des § 23 Absatz 2, § 24
@@ -1251,18 +1301,22 @@ einer Dienststelle findet § 41 Anwendung.
 
 
 ##### § 41 Umbenennung einer Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004200000)
 
 Bei Umbenennung einer Dienststelle bleiben die
 Gleichstellungsbeauftragte und ihre Stellvertreterinnen im Amt.
 
 
 ### Abschnitt 2 - Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001100000)
 
 
 #### Unterabschnitt 1 - Gleichstellungsbeauftragte
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001200000)
 
 
 ##### § 42 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004300000)
 
 (1) Die Gleichstellungsbeauftragte ist Teil der Dienststelle und
 unmittelbar deren Leitung zugeordnet. Ihr Zuständigkeitsbereich ergibt
@@ -1302,6 +1356,7 @@ Amtszeit.
 
 
 ##### § 43 Nichtvereinbarkeit des Amtes mit anderen Ämtern
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004400000)
 
 (1) Mit dem Amt der Gleichstellungsbeauftragten nicht vereinbar sind
 Ämter
@@ -1323,6 +1378,7 @@ Gleichstellungsbeauftragte befasst sein.
 
 
 ##### § 44 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004500000)
 
 (1) Die Gleichstellungsbeauftragte unterliegt der
 Verschwiegenheitspflicht, insbesondere hinsichtlich
@@ -1341,6 +1397,7 @@ entsprechend.
 
 
 ##### § 45 Ausstattung, Verfügungsfonds, Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004600000)
 
 (1) Der Gleichstellungsbeauftragten ist die notwendige personelle,
 räumliche und sachliche Ausstattung zur Verfügung zu stellen.
@@ -1358,9 +1415,11 @@ Bildungseinrichtungen der Bundeswehr vorzuhalten.
 
 
 #### Unterabschnitt 2 - Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001300000)
 
 
 ##### § 46 Grundlagen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004700000)
 
 (1) Jede Stellvertreterin richtet ihre Tätigkeit an den Zielen der
 Gleichstellungsbeauftragten aus.
@@ -1373,6 +1432,7 @@ der Gleichstellungsbeauftragten.
 
 
 ##### § 47 Stellvertreterin im Vertretungsfall
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004800000)
 
 (1) Im Vertretungsfall hat die Stellvertreterin dieselben Rechte und
 Pflichten wie die Gleichstellungsbeauftragte. § 42 Absatz 3 gilt
@@ -1384,6 +1444,7 @@ dienstlicher Aufgaben.
 
 
 ##### § 48 Entlastung der Stellvertreterin, Übertragung eigener Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE004900000)
 
 (1) Die Dienststelle entscheidet vor Einleitung des Wahlverfahrens, ob
 eine Entlastung der Stellvertreterin von anderen dienstlichen
@@ -1423,9 +1484,11 @@ entsprechend.
 
 
 ### Abschnitt 3 - Aufgaben und Einbindung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001400000)
 
 
 #### § 49 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005000000)
 
 (1) Die Gleichstellungsbeauftragte
 
@@ -1492,6 +1555,7 @@ ihrem Zuständigkeitsbereich bestellt sind.
 
 
 #### § 50 Zusammenarbeit in der Dienststelle
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005100000)
 
 (1) Die Dienststellenleitung und die Gleichstellungsbeauftragte
 arbeiten zur Erfüllung der in § 1 genannten Ziele eng zusammen.
@@ -1516,6 +1580,7 @@ Mitwirkungsrechte.
 
 
 #### § 51 Grundlagen der Einbindung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005200000)
 
 (1) Die Dienststelle hat die Gleichstellungsbeauftragte frühzeitig –
 insbesondere bei allen personellen, organisatorischen und sozialen
@@ -1547,6 +1612,7 @@ Beteiligungsverfahren zeitlich vorausgehen.
 
 
 #### § 52 Informationsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005300000)
 
 (1) Die Dienststelle informiert die Gleichstellungsbeauftragte
 unaufgefordert über alle Angelegenheiten und Maßnahmen, die den
@@ -1569,6 +1635,7 @@ werden.
 
 
 #### § 53 Informationsanspruch bei Wehrdisziplinar- und Wehrbeschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005400000)
 
 (1) Soweit in einem Wehrdisziplinar- oder Wehrbeschwerdeverfahren der
 Sachverhalt, der dem Verfahren zugrunde liegt, den Aufgabenbereich der
@@ -1643,6 +1710,7 @@ Wehrdisziplinar- und Wehrbeschwerdeverfahrens.
 
 
 #### § 54 Informationsanspruch bei Würdigung besonderer Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005500000)
 
 (1) Bei der Würdigung besonderer Leistungen ist der
 Gleichstellungsbeauftragten unverzüglich von dem zuständigen
@@ -1654,6 +1722,7 @@ Anerkennung.
 
 
 #### § 55 Mitwirkungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005600000)
 
 (1) Bei den Maßnahmen der Dienststelle, die den Aufgabenbereich der
 Gleichstellungsbeauftragten betreffen, wirkt die
@@ -1693,6 +1762,7 @@ Votums oder des Begründungsverlangens zu erfolgen.
 
 
 #### § 56 Einbindung bei Einzelpersonalentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005700000)
 
 (1) Nur auf Antrag erfolgt die Einbindung der
 Gleichstellungsbeauftragten bei Entscheidungen über
@@ -1721,6 +1791,7 @@ unberührt.
 
 
 #### § 57 Einbindung durch Stufenbeteiligung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005800000)
 
 (1) Soweit eine Dienststelle eine andere Dienststelle einbezieht, hat
 jede beteiligte Dienststelle die für sie zuständige
@@ -1739,6 +1810,7 @@ Gleichstellungsbeauftragten der Dienststelle, die die Entscheidung
 
 
 #### § 58 Einbindung in Verfahren zur Besetzung von Gremien
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE005900000)
 
 Das Bundesministerium der Verteidigung hat die
 Gleichstellungsbeauftragte in Verfahren zur Besetzung von Gremien nach
@@ -1746,6 +1818,7 @@ Maßgabe des Bundesgremienbesetzungsgesetzes einzubinden.
 
 
 #### § 59 Soldatinnenversammlung, sonstige Informationsveranstaltungen, Sprechstunden
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006000000)
 
 (1) Die Gleichstellungsbeauftragte kann in den Dienststellen ihres
 Zuständigkeitsbereiches jährlich eine Versammlung der Soldatinnen
@@ -1766,12 +1839,15 @@ ein Rederecht, auch wenn sie nicht Angehörige dieser Dienststelle ist.
 
 
 ## Teil 6 - Gleichstellungsvertrauensfrauen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001500000)
 
 
 ### Abschnitt 1 - Bestellung und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001600000)
 
 
 #### § 60 Bestellung in den Dienststellen der Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006100000)
 
 (1) In den Dienststellen der Streitkräfte oberhalb der Einheitsebene,
 in denen keine eigene Gleichstellungsbeauftragte gewählt wird, hat die
@@ -1787,6 +1863,7 @@ soll die Dienststelle folgen.
 
 
 #### § 61 Bestellung in den Dienststellen der Bundeswehrverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006200000)
 
 (1) In den Dienststellen der Bundeswehrverwaltung auf der Ebene der
 Bundesunterbehörde, in denen keine eigene Gleichstellungsbeauftragte
@@ -1797,6 +1874,7 @@ Gleichstellungsvertrauensfrau bestellen.
 
 
 #### § 62 Bestellung einer Abwesenheitsvertreterin
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006300000)
 
 (1) Die Dienststellenleitung kann eine Vertreterin für die Abwesenheit
 der Gleichstellungsvertrauensfrau bestellen. Für das Vorschlagsrecht
@@ -1807,6 +1885,7 @@ Absatz 1, 2 und 4 bis 7 sowie die §§ 65 und 66 entsprechend.
 
 
 #### § 63 Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006400000)
 
 (1) Die Bestellung der Gleichstellungsvertrauensfrau und ihrer
 Abwesenheitsvertreterin erfolgt bis zum Ablauf der regulären Amtszeit
@@ -1826,9 +1905,11 @@ Gleichstellungsvertrauensfrau und von deren Abwesenheitsvertreterin.
 
 
 ### Abschnitt 2 - Rechtsstellung und Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001700000)
 
 
 #### § 64 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006500000)
 
 (1) Die Gleichstellungsvertrauensfrau ist von ihren anderen
 dienstlichen Tätigkeiten unter Belassung ihrer Geld- und Sachbezüge in
@@ -1861,12 +1942,14 @@ wenn dies aus zwingenden dienstlichen Gründen unvermeidbar ist.
 
 
 #### § 65 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006600000)
 
 Die Gleichstellungsvertrauensfrau und ihr Personal sind entsprechend §
 44 zur Verschwiegenheit verpflichtet.
 
 
 #### § 66 Vertrauensverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006700000)
 
 (1) Die Gleichstellungsvertrauensfrau arbeitet vertrauensvoll mit der
 zuständigen Gleichstellungsbeauftragten zusammen. Bei allen
@@ -1881,6 +1964,7 @@ Gleichstellungsvertrauensfrau.
 
 
 #### § 67 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006800000)
 
 (1) Die Gleichstellungsvertrauensfrau
 
@@ -1911,9 +1995,11 @@ Gleichstellungsvertrauensfrau mit deren Einverständnis eigene Aufgaben
 
 
 ## Teil 7 - Einspruchs- und Klagerecht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001800000)
 
 
 ### § 68 Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE006900000)
 
 (1) Die Gleichstellungsbeauftragte hat gegenüber der Leitung der
 Dienststelle das Recht auf Einspruch, wenn sie geltend macht, die
@@ -1972,6 +2058,7 @@ Gleichstellungsbeauftragten gesondert zu begründen.
 
 
 ### § 69 Entscheidung über den Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007000000)
 
 (1) Die Leitung der Dienststelle soll innerhalb einer Frist von einem
 Monat nach Zugang des Einspruchs darüber entscheiden, ob sie den
@@ -2013,6 +2100,7 @@ Gleichstellungsbeauftragten unverzüglich zu übermitteln.
 
 
 ### § 70 Versuch einer außergerichtlichen Einigung
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007100000)
 
 (1) Bleibt der Einspruch nach § 69 erfolglos und strebt die
 Gleichstellungsbeauftragte ein gerichtliches Verfahren an, sollen sie
@@ -2035,6 +2123,7 @@ Versuch einer außergerichtlichen Einigung unternehmen.
 
 
 ### § 71 Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007200000)
 
 (1) Kommt eine außergerichtliche Einigung nicht zustande, kann die
 Gleichstellungsbeauftragte das zuständige Gericht anrufen.
@@ -2079,15 +2168,18 @@ zu erklären.
 
 
 ### § 72 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007300000)
 
 Die Dienststelle trägt die Kosten, die der Gleichstellungsbeauftragten
 auf Grund von Rechtsbehelfen nach diesem Gesetz entstehen.
 
 
 ## Teil 8 - Statistik, Bericht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG001900000)
 
 
 ### § 73 Statistik
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007400000)
 
 (1) Das Bundesministerium der Verteidigung erstellt eine Statistik zur
 Überprüfung der Umsetzung dieses Gesetzes. Dazu erhebt es
@@ -2170,6 +2262,7 @@ Daten erlangen.
 
 
 ### § 74 Bericht
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007500000)
 
 (1) Alle vier Jahre legt die Bundesregierung dem Deutschen Bundestag
 einen Gleichstellungsbericht vor.
@@ -2199,9 +2292,11 @@ enthalten.
 
 
 ## Teil 9 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNG002000000)
 
 
 ### § 75 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgleig_2024/BJNR0110B0024.html#BJNR0110B0024BJNE007600000)
 
 (1) Anträge nach § 17 auf die Erstattung von Kosten für die Betreuung
 von Kindern oder von pflegebedürftigen Angehörigen können für die

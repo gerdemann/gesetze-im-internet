@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/stsozsbes/DDNR115520990.html#DDNR115520990BJNE000100307)
 
 Die Bestimmungen des Beschlusses über Regelungen zur sozialen
 Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8.
@@ -27,12 +28,14 @@ diejenigen anzuwenden, die durch den Ministerpräsidenten berufen sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stsozsbes/DDNR115520990.html#DDNR115520990BJNE000200307)
 
 **Minister im Amt des Ministerpräsidenten**
 
 Auszug aus EinigVtrVbg Art 3
 
 ## Anhang EV (BGBl. II 1990, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/stsozsbes/DDNR115520990.html#DDNR115520990BJNE888800301)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

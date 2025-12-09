@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/miloaufzv/BJNR182400014.html#BJNR182400014BJNE000100000)
 
 Auf Grund des § 17 Absatz 4 des Mindestlohngesetzes vom 11. August
 2014 (BGBl. I S. 1348) und des § 19 Absatz 4 des Arbeitnehmer-
@@ -28,6 +29,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Vereinfachung und Abwandlung der Pflicht zur Arbeitszeitaufzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/miloaufzv/BJNR182400014.html#BJNR182400014BJNE000200000)
 
 (1) Abweichend von § 17 Absatz 1 Satz 1 des Mindestlohngesetzes und §
 19 Absatz 1 Satz 1 des Arbeitnehmer-Entsendegesetzes genügt ein
@@ -69,6 +71,7 @@ Verantwortung der Arbeitnehmerinnen und Arbeitnehmer liegen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/miloaufzv/BJNR182400014.html#BJNR182400014BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 

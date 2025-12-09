@@ -26,10 +26,12 @@ Mittelbare änderung durch
 
 
 ## Erster Teil - Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000101306)
 
 
 
 ### § 1 Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001505125)
 
 (1) Für den Geltungsbereich dieses Gesetzes führt das Bundesamt für
 Justiz ein Zentralregister und ein Erziehungsregister
@@ -42,19 +44,23 @@ mit Zustimmung des Bundesrates erlassen.
 
 
 ### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001604301)
 
 -
 
 
 ## Zweiter Teil - Das Zentralregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000201306)
 
 
 
 ### Erster Abschnitt - Inhalt und Führung des Registers
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000301306)
 
 
 
 #### § 3 Inhalt des Registers
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001705311)
 
 In das Register werden eingetragen
 
@@ -83,6 +89,7 @@ In das Register werden eingetragen
 
 
 #### § 4 Verurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001801306)
 
 In das Register sind die rechtskräftigen Entscheidungen einzutragen,
 durch die ein deutsches Gericht im Geltungsbereich dieses Gesetzes
@@ -107,6 +114,7 @@ hat.
 
 
 #### § 5 Inhalt der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE001909125)
 
 (1) Einzutragen sind
 
@@ -176,6 +184,7 @@ einzutragen.
 
 
 #### § 6 Gesamtstrafe und Einheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002101306)
 
 Wird aus mehreren Einzelstrafen nachträglich eine Gesamtstrafe
 gebildet oder eine einheitliche Jugendstrafe festgesetzt, so ist auch
@@ -183,6 +192,7 @@ diese in das Register einzutragen.
 
 
 #### § 7 Aussetzung zur Bewährung; Vorbehalt der Entscheidung über die Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002203311)
 
 (1) Wird die Vollstreckung einer Strafe oder eine Maßregel der
 Besserung und Sicherung zur Bewährung ausgesetzt oder wird die
@@ -206,14 +216,17 @@ einzutragen.
 
 
 #### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002302311)
 
 
 
 #### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002402309)
 
 
 
 #### § 10 Entscheidungen von Verwaltungsbehörden und Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002507311)
 
 (1) In das Register sind die vollziehbaren und die nicht mehr
 anfechtbaren Entscheidungen einer Verwaltungsbehörde einzutragen,
@@ -289,6 +302,7 @@ Entscheidung unanfechtbar, so ist dies in das Register einzutragen.
 
 
 #### § 11 Schuldunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011300125)
 
 (1) In das Register sind einzutragen
 
@@ -327,6 +341,7 @@ festgestellt wird oder nicht ausgeschlossen werden kann.
 
 
 #### § 12 Nachträgliche Entscheidungen nach allgemeinem Strafrecht
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002805301)
 
 (1) In das Register sind einzutragen
 
@@ -382,6 +397,7 @@ Register entfernt.
 
 
 #### § 13 Nachträgliche Entscheidungen nach Jugendstrafrecht
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE002907311)
 
 (1) In das Register sind einzutragen
 
@@ -435,6 +451,7 @@ Erziehungsregister einzutragen ist.
 
 
 #### § 14 Gnadenerweise und Amnestien
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003002306)
 
 In das Register sind einzutragen
 
@@ -463,6 +480,7 @@ In das Register sind einzutragen
 
 
 #### § 15 Eintragung der Vollstreckung und des Freiheitsentzugs
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003104311)
 
 Ist eine Freiheitsstrafe, ein Strafarrest, eine Jugendstrafe oder eine
 Maßregel der Besserung und Sicherung zu vollstrecken, sind in das
@@ -491,6 +509,7 @@ Register das Datum einzutragen,
 
 
 #### § 16 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003201306)
 
 (1) In das Register ist der rechtskräftige Beschluß einzutragen, durch
 den das Gericht wegen einer registerpflichtigen Verurteilung die
@@ -508,6 +527,7 @@ Eintragung wird aus dem Register entfernt.
 
 
 #### § 17 Sonstige Entscheidungen und gerichtliche Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE008803125)
 
 (1) Wird die Vollstreckung einer Strafe, eines Strafrestes oder der
 Unterbringung in einer Entziehungsanstalt nach § 35 des
@@ -532,12 +552,14 @@ Straftaten auf Grund einer Betäubungsmittelabhängigkeit begangen hat.
 
 
 #### § 18 Straftaten im Zusammenhang mit der Ausübung eines Gewerbes
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE008901306)
 
 Ist eine Verurteilung im Falle des § 32 Abs. 4 in ein Führungszeugnis
 aufzunehmen, so ist dies in das Register einzutragen.
 
 
 #### § 19 Aufhebung von Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003303311)
 
 (1) Wird eine nach § 10 eingetragene Entscheidung aufgehoben oder
 durch eine neue Entscheidung gegenstandslos, so wird die Eintragung
@@ -564,6 +586,7 @@ aus dem Register entfernt.
 
 
 #### § 20 Mitteilungen, Berichtigungen, Sperrvermerke
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003405125)
 
 (1) Gerichte und Behörden teilen der Registerbehörde die in den §§ 4
 bis 19 bezeichneten Entscheidungen, Feststellungen und Tatsachen mit.
@@ -608,6 +631,7 @@ Im Übrigen wird nur auf den Sperrvermerk hingewiesen.
 
 
 #### § 20a Änderung von Personendaten
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009705125)
 
 (1) Die Meldebehörden haben der Registerbehörde bei Änderung des
 Geburtsnamens, Familiennamens, Vornamens oder Geburtsdatums einer
@@ -660,6 +684,7 @@ Registerbehörde unverzüglich zu vernichten.
 
 
 #### § 20b Identifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011400125)
 
 Soweit dies zur Durchführung der Aufgaben der Registerbehörde,
 insbesondere nach diesem Gesetz erforderlich ist, darf die
@@ -688,6 +713,7 @@ unverzüglich zu löschen.
 
 
 #### § 21 Automatisiertes Auskunftsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009005125)
 
 Die Einrichtung eines automatisierten Anfrage- und Auskunftsverfahrens
 für die Übermittlung personenbezogener Daten ist zulässig, soweit
@@ -705,6 +731,7 @@ Zentralen Staatsanwaltschaftlichen Verfahrensregisters entsprechend.
 
 
 #### § 21a Protokollierungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009906125)
 
 (1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften,
 Mitteilungen und Hinweisen Protokolle, die folgende Daten enthalten:
@@ -757,6 +784,7 @@ beantragt, gilt § 42 Satz 2 bis 5 entsprechend.
 
 
 #### § 22 Hinweispflicht der Registerbehörde
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003504308)
 
 (1) Erhält das Register eine Mitteilung über
 
@@ -800,6 +828,7 @@ Führungsaufsicht mitgeteilt hat, über die neue Eintragung.
 
 
 #### § 23 Hinweis auf Gesamtstrafenbildung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009101306)
 
 Ist bei Eintragung einer Verurteilung in das Register ersichtlich, daß
 im Register eine weitere Verurteilung eingetragen ist, bei der die
@@ -810,6 +839,7 @@ Gesamtstrafenbildung hin.
 
 
 #### § 24 Entfernung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003604311)
 
 (1) Eintragungen über Personen, deren Tod der Registerbehörde amtlich
 mitgeteilt worden ist, werden drei Jahre nach dem Eingang der
@@ -836,6 +866,7 @@ Auskunft erteilt werden.
 
 
 #### § 25 Anordnung der Entfernung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003707125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen im
 Benehmen mit der Stelle, welche die Entscheidung getroffen hat,
@@ -854,6 +885,7 @@ Bundesministerium der Justiz.
 
 
 #### § 26 Zu Unrecht entfernte Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003803311)
 
 Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu
 Unrecht aus dem Register entfernte Eintragung wieder in das Register
@@ -862,10 +894,12 @@ zu geben.
 
 
 ### Zweiter Abschnitt - Suchvermerke
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000402310)
 
 
 
 #### § 27 Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE003906311)
 
 Auf Grund einer Ausschreibung zur Festnahme oder zur Feststellung des
 Aufenthalts einer Person wird auf Ersuchen einer Behörde ein
@@ -881,6 +915,7 @@ unbekannt ist.
 
 
 #### § 28 Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004002311)
 
 (1) Enthält das Register eine Eintragung oder erhält es eine
 Mitteilung über die gesuchte Person, gibt die Registerbehörde der
@@ -906,6 +941,7 @@ derselben Behörde unter verschiedenen Geschäftsnummern vorliegen.
 
 
 #### § 29 Erledigung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004102311)
 
 (1) Erledigt sich ein Suchvermerk vor Ablauf von drei Jahren seit der
 Speicherung, so ist dies der Registerbehörde mitzuteilen.
@@ -916,14 +952,17 @@ Speicherung.
 
 
 ### Dritter Abschnitt - Auskunft aus dem Register
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000502308)
 
 
 
 #### 1. - Führungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000601306)
 
 
 
 ##### § 30 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004205311)
 
 (1) Jeder Person, die das 14. Lebensjahr vollendet hat, wird auf
 Antrag ein Zeugnis über den sie betreffenden Inhalt des Registers
@@ -970,6 +1009,7 @@ der Bundesrepublik Deutschland entsprechend.
 
 
 ##### § 30a Antrag auf ein erweitertes Führungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011201125)
 
 (1) Einer Person wird auf Antrag ein erweitertes Führungszeugnis
 erteilt,
@@ -1012,6 +1052,7 @@ Tätigkeit zu löschen.
 
 
 ##### § 30b Europäisches Führungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010504125)
 
 (1) Sofern der Mitgliedstaat eine Übermittlung nach seinem Recht
 vorsieht, wird in das Führungszeugnis nach § 30 oder § 30a Absatz 1
@@ -1065,6 +1106,7 @@ Strafregister erteilt, ist hierauf im Führungszeugnis hinzuweisen.
 
 
 ##### § 30c Elektronische Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011105125)
 
 (1) Erfolgt die Antragstellung abweichend von § 30 Absatz 2 oder
 Absatz 3 elektronisch, ist der Antrag unter Nutzung des im Internet
@@ -1121,6 +1163,7 @@ Registerbehörde. Im Übrigen gilt § 30 entsprechend.
 
 
 ##### § 31 Erteilung des Führungszeugnisses und des erweiterten Führungszeugnisses an Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004303311)
 
 (1) Behörden erhalten über eine bestimmte Person ein Führungszeugnis,
 soweit sie es zur Erledigung ihrer hoheitlichen Aufgaben benötigen und
@@ -1135,6 +1178,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 
 ##### § 32 Inhalt des Führungszeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004417125)
 
 (1) In das Führungszeugnis werden die in den §§ 4 bis 16 bezeichneten
 Eintragungen aufgenommen. Soweit in Absatz 2 Nr. 3 bis 9 hiervon
@@ -1290,6 +1334,7 @@ nach § 30a oder § 31 Absatz 2 erteilt wird.
 
 
 ##### § 33 Nichtaufnahme von Verurteilungen nach Fristablauf
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004503125)
 
 (1) Nach Ablauf einer bestimmten Frist werden Verurteilungen nicht
 mehr in das Führungszeugnis aufgenommen.
@@ -1329,6 +1374,7 @@ mehr in das Führungszeugnis aufgenommen.
 
 
 ##### § 34 Länge der Frist
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004714125)
 
 (1) Die Frist, nach deren Ablauf eine Verurteilung nicht mehr in das
 Führungszeugnis aufgenommen wird, beträgt
@@ -1415,6 +1461,7 @@ Zeitraum, mindestens jedoch um zwanzig Jahre.
 
 
 ##### § 35 Gesamtstrafe, Einheitsstrafe und Nebenentscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004802311)
 
 (1) Ist eine Gesamtstrafe oder eine einheitliche Jugendstrafe gebildet
 oder ist nach § 30 Abs. 1 des Jugendgerichtsgesetzes auf Jugendstrafe
@@ -1428,6 +1475,7 @@ unberücksichtigt.
 
 
 ##### § 36 Beginn der Frist
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE004901306)
 
 Die Frist beginnt mit dem Tag des ersten Urteils (§ 5 Abs. 1 Nr. 4).
 Dieser Tag bleibt auch maßgebend, wenn
@@ -1447,6 +1495,7 @@ Dieser Tag bleibt auch maßgebend, wenn
 
 
 ##### § 37 Ablaufhemmung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005003311)
 
 (1) Haben Verurteilte infolge der Verurteilung die Fähigkeit,
 öffentliche Ämter zu bekleiden und Rechte aus öffentlichen Wahlen zu
@@ -1462,6 +1511,7 @@ nicht erledigt oder die Strafe noch nicht erlassen ist.
 
 
 ##### § 38 Mehrere Verurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005102306)
 
 (1) Sind im Register mehrere Verurteilungen eingetragen, so sind sie
 alle in das Führungszeugnis aufzunehmen, solange eine von ihnen in das
@@ -1485,6 +1535,7 @@ Zeugnis aufzunehmen ist.
 
 
 ##### § 39 Anordnung der Nichtaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005206125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen,
 daß Verurteilungen und Eintragungen nach § 11 entgegen diesem Gesetz
@@ -1516,6 +1567,7 @@ Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 
 ##### § 40 Nachträgliche Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005303311)
 
 Wird eine weitere Verurteilung im Register eingetragen oder erfolgt
 eine weitere Eintragung nach § 11, so kommt der betroffenen Person
@@ -1524,10 +1576,12 @@ in das Führungszeugnis aufzunehmen ist. § 38 Abs. 2 gilt entsprechend.
 
 
 #### 2. - Unbeschränkte Auskunft aus dem Register
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000702308)
 
 
 
 ##### § 41 Umfang der Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005432125)
 
 (1) Eintragungen, die in ein Führungszeugnis nicht aufgenommen werden,
 sowie Suchvermerke dürfen, unbeschadet der §§ 42 und 57, nur zur
@@ -1619,6 +1673,7 @@ Zweck verwertet werden.
 
 
 ##### § 42 Auskunft an die betroffene Person
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005508125)
 
 Das Auskunftsrecht nach Artikel 15 Absatz 1 der Verordnung (EU)
 2016/679 wird dadurch gewährleistet, dass der betroffenen Person
@@ -1640,6 +1695,7 @@ einer Kopie unzulässig.
 
 
 ##### § 42a Auskunft für wissenschaftliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010005125)
 
 (1) Die Übermittlung personenbezogener Daten aus dem Register an
 Hochschulen, andere Einrichtungen, die wissenschaftliche Forschung
@@ -1739,6 +1795,7 @@ sie mit den Registerdaten vorbereitende Analysen durchführen.
 
 
 ##### § 42b Auskünfte zur Vorbereitung von Rechtsvorschriften und allgemeinen Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010100310)
 
 Die Registerbehörde kann öffentlichen Stellen zur Vorbereitung und
 Überprüfung von Rechtsvorschriften und allgemeinen
@@ -1747,6 +1804,7 @@ Verwaltungsvorschriften Auskünfte in anonymisierter Form erteilen. §
 
 
 ##### § 43 Weiterleitung von Auskünften
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005601306)
 
 Oberste Bundes- oder Landesbehörden dürfen Eintragungen, die in ein
 Führungszeugnis nicht aufgenommen werden, einer nachgeordneten oder
@@ -1757,10 +1815,12 @@ gefährdet oder erschwert würde.
 
 
 #### 3. - Auskünfte an Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000802311)
 
 
 
 ##### § 43a Verfahrensübergreifende Mitteilungen von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010600308)
 
 (1) In Verfahren nach den §§ 25, 39, 49, 55 Absatz 2 und § 63 Absatz 3
 ist die Übermittlung personenbezogener Daten zulässig, wenn die
@@ -1792,6 +1852,7 @@ Gerichtsverfassungsgesetz gelten entsprechend.
 
 
 ##### § 44 Vertrauliche Behandlung der Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005702308)
 
 Auskünfte aus dem Register an Behörden (§ 30 Abs. 5, §§ 31, 41, 43)
 dürfen nur den mit der Entgegennahme oder Bearbeitung betrauten
@@ -1799,10 +1860,12 @@ Bediensteten zur Kenntnis gebracht werden.
 
 
 #### 4. - Versagung der Auskunft zu Zwecken des Zeugenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001600310)
 
 
 
 ##### § 44a Versagung der Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010402311)
 
 (1) Die Registerbehörde sperrt den Datensatz einer im Register
 eingetragenen Person für die Auskunftserteilung, wenn eine
@@ -1832,10 +1895,12 @@ Zeugenschutzstelle bestimmten Daten eingeht.
 
 
 ### Vierter Abschnitt - Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG000901306)
 
 
 
 #### § 45 Tilgung nach Fristablauf
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE005804125)
 
 (1) Eintragungen über Verurteilungen (§ 4) werden nach Ablauf einer
 bestimmten Frist getilgt.
@@ -1871,6 +1936,7 @@ die Eintragung nur der betroffenen Person Auskunft erteilt werden.
 
 
 #### § 46 Länge der Tilgungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006011125)
 
 (1) Die Tilgungsfrist beträgt
 
@@ -1982,6 +2048,7 @@ Dauer der Jugendstrafe.
 
 
 #### § 47 Feststellung der Frist und Ablaufhemmung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006102310)
 
 (1) Für die Feststellung und Berechnung der Frist gelten die §§ 35, 36
 entsprechend.
@@ -2003,6 +2070,7 @@ abgelaufen wäre.
 
 
 #### § 48 Anordnung der Tilgung wegen Gesetzesänderung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006204125)
 
 Ist die Verurteilung ausschließlich wegen einer Handlung eingetragen,
 für die das nach der Verurteilung geltende Gesetz keine Strafe mehr
@@ -2016,6 +2084,7 @@ Rechtsänderungen bleiben unberührt.
 
 
 #### § 49 Anordnung der Tilgung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006305125)
 
 (1) Die Registerbehörde kann auf Antrag oder von Amts wegen anordnen,
 daß Eintragungen entgegen den §§ 45, 46 zu tilgen sind, falls die
@@ -2041,6 +2110,7 @@ Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 
 #### § 50 Zu Unrecht getilgte Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006403311)
 
 Die Registerbehörde hat vor ihrer Entscheidung darüber, ob eine zu
 Unrecht im Register getilgte Eintragung wieder in das Register
@@ -2049,10 +2119,12 @@ zu geben.
 
 
 ### Fünfter Abschnitt - Rechtswirkungen der Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001001306)
 
 
 
 #### § 51 Verwertungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006502311)
 
 (1) Ist die Eintragung über eine Verurteilung im Register getilgt
 worden oder ist sie zu tilgen, so dürfen die Tat und die Verurteilung
@@ -2067,6 +2139,7 @@ unberührt.
 
 
 #### § 52 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006606311)
 
 (1) Die frühere Tat darf abweichend von § 51 Abs. 1 nur berücksichtigt
 werden, wenn
@@ -2121,10 +2194,12 @@ Strafgesetzbuches verwertet werden.
 
 
 ### Sechster Abschnitt - Begrenzung von Offenbarungspflichten des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001101306)
 
 
 
 #### § 53 Offenbarungspflicht bei Verurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006702311)
 
 (1) Verurteilte dürfen sich als unbestraft bezeichnen und brauchen den
 der Verurteilung zugrunde liegenden Sachverhalt nicht zu offenbaren,
@@ -2145,10 +2220,12 @@ Nr. 1 herleiten, falls sie hierüber belehrt werden.
 
 
 ### Siebter Abschnitt - Internationaler Austausch von Registerinformationen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001203308)
 
 
 
 #### § 53a Grenzen der internationalen Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010700308)
 
 Die Eintragung einer Verurteilung, die nicht durch ein deutsches
 Gericht im Geltungsbereich dieses Gesetzes ergangen ist, in das
@@ -2164,6 +2241,7 @@ Charta der Grundrechte der Europäischen Union steht.
 
 
 #### § 54 Eintragungen in das Register
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006804311)
 
 (1) Strafrechtliche Verurteilungen, die nicht durch deutsche Gerichte
 im Geltungsbereich dieses Gesetzes ergangen sind, werden in das
@@ -2226,6 +2304,7 @@ Folgemaßnahme ergänzt, ist § 55 Absatz 2 nicht anzuwenden.
 
 
 #### § 55 Verfahren bei der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009205125)
 
 (1) Die Registerbehörde trägt eine Verurteilung, die nicht durch ein
 deutsches Gericht im Geltungsbereich dieses Gesetzes ergangen ist,
@@ -2245,6 +2324,7 @@ Beschwerde nicht ab, so entscheidet das Bundesministerium der Justiz.
 
 
 #### § 56 Behandlung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009303125)
 
 (1) Eintragungen nach § 54 werden bei der Anwendung dieses Gesetzes
 wie Eintragungen von Verurteilungen durch deutsche Gerichte im
@@ -2263,10 +2343,12 @@ Verurteilung im Geltungsbereich dieses Gesetzes vollstreckt wird.
 
 
 #### § 56a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010801311)
 
 
 
 #### § 56b Speicherung zum Zweck der Auskunftserteilung an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE010900308)
 
 (1) Übermittelt eine Zentralbehörde eines anderen Mitgliedstaates eine
 strafrechtliche Verurteilung über eine Person, die die deutsche
@@ -2294,6 +2376,7 @@ Grund eines Ersuchens übermittelt werden.
 
 
 #### § 57 Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE006908125)
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und
 zwischenstaatlichen Stellen um Erteilung einer unbeschränkten Auskunft
@@ -2340,6 +2423,7 @@ den Absätzen 1 bis 5 voraussichtlich beantwortet werden würde.
 
 
 #### § 57a Austausch von Registerinformationen mit Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011003125)
 
 (1) Strafnachrichten über Personen, die die Staatsangehörigkeit eines
 anderen Mitgliedstaates der Europäischen Union besitzen, werden
@@ -2410,6 +2494,7 @@ Mitgliedstaates gerichtet.
 
 
 #### § 57b Speicherung und Austausch von Registerinformationen im Zusammenhang mit einem Partnerstaat
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011800125)
 
 Die §§ 56b und 57a Absatz 1 bis 3 und 5 bis 7 gelten entsprechend für
 die Speicherung und den Austausch von Registerinformationen im
@@ -2417,6 +2502,7 @@ Zusammenhang mit einem Partnerstaat.
 
 
 #### § 58 Berücksichtigung von Verurteilungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007003311)
 
 Eine strafrechtliche Verurteilung gilt, auch wenn sie nicht nach § 54
 in das Register eingetragen ist, als tilgungsreif, sobald eine ihr
@@ -2426,10 +2512,12 @@ Geltungsbereichs dieses Gesetzes Verurteilten.
 
 
 ### Achter Abschnitt - Verarbeitung personenbezogener Daten zu den Zwecken der Verordnung (EU) 2019/816 und der Verordnung (EU) 2019/818
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001700125)
 
 
 
 #### § 58a Ersuchen um Übermittlung personenbezogener Daten von ECRIS-TCN
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011500125)
 
 Die Registerbehörde darf das zentralisierte System zur Ermittlung der
 Mitgliedstaaten, in denen Informationen zu Verurteilungen von
@@ -2449,6 +2537,7 @@ den Zwecken der Verordnung (EU) 2019/816 erforderlich ist
 
 
 #### § 58b Austausch von personenbezogenen Daten zwischen der Registerbehörde und dem Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011600125)
 
 (1) Die Registerbehörde darf das Bundeskriminalamt zu Zwecken der
 Verordnung (EU) 2019/816 um Übermittlung der nach § 81b oder § 163b
@@ -2490,12 +2579,14 @@ Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816 (ABl. L
 
 
 #### § 58c Ablauf der Speicherfrist in ECRIS-TCN
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011700125)
 
 Die Speicherfrist nach Artikel 8 der Verordnung (EU) 2019/816 endet
 mit dem Eintritt der Tilgungsreife.
 
 
 #### § 58d Kennzeichnung eines Datensatzes
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE011900125)
 
 (1) Zur Kennzeichnung eines Datensatzes in ECRIS-TCN nach Artikel 5
 Absatz 1 Buchstabe c der Verordnung (EU) 2019/816 unterrichtet die für
@@ -2529,16 +2620,19 @@ personenbezogenen Daten unverzüglich zu löschen.
 
 
 ## Dritter Teil - Das Erziehungsregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001301306)
 
 
 
 ### § 59 Führung des Erziehungsregisters
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007102308)
 
 Für das Erziehungsregister gelten die Vorschriften des Zweiten Teils,
 soweit die §§ 60 bis 64 nicht etwas anderes bestimmen.
 
 
 ### § 60 Eintragungen in das Erziehungsregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007213125)
 
 (1) In das Erziehungsregister werden die folgenden Entscheidungen und
 Anordnungen eingetragen, soweit sie nicht nach § 5 Abs. 2 in das
@@ -2602,6 +2696,7 @@ vollständige Nichtvollstreckung eingetragen.
 
 
 ### § 61 Auskunft aus dem Erziehungsregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007309125)
 
 (1) Eintragungen im Erziehungsregister dürfen - unbeschadet der §§
 21a, 42a - nur mitgeteilt werden
@@ -2649,6 +2744,7 @@ die in Absatz 1 genannten Behörden weitergeleitet werden.
 
 
 ### § 62 Suchvermerke
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007403311)
 
 Im Erziehungsregister können Suchvermerke unter den Voraussetzungen
 des § 27 nur von den Behörden gespeichert werden, denen Auskunft aus
@@ -2656,6 +2752,7 @@ dem Erziehungsregister erteilt wird.
 
 
 ### § 63 Entfernung von Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007503311)
 
 (1) Eintragungen im Erziehungsregister werden entfernt, sobald die
 betroffene Person das 24. Lebensjahr vollendet hat.
@@ -2674,6 +2771,7 @@ nicht entgegensteht. § 49 Abs. 3 ist anzuwenden.
 
 
 ### § 64 Begrenzung von Offenbarungspflichten der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007703125)
 
 (1) Eintragungen in das Erziehungsregister und die ihnen zugrunde
 liegenden Sachverhalte braucht die betroffene Person nicht zu
@@ -2685,10 +2783,12 @@ keine Rechte aus Absatz 1 herleiten, falls sie hierüber belehrt wird.
 
 
 ## Vierter Teil - Übernahme des Strafregisters beim Generalstaatsanwalt der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001500309)
 
 
 
 ### § 64a Strafregister der Deutschen Demokratischen Republik
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009403308)
 
 (1) Die Registerbehörde ist für das Speichern, Verändern, Übermitteln,
 Sperren und Löschen der Eintragungen und der zugrunde liegenden
@@ -2742,6 +2842,7 @@ Berechnung der Tilgungsfrist die Vorschriften dieses Gesetzes.
 
 
 ### § 64b Eintragungen und Eintragungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE009512360)
 
 (1)Die nach § 64a Absatz 1 gespeicherten Eintragungen und
 Eintragungsunterlagen aus dem ehemaligen Strafregister der Deutschen
@@ -2763,10 +2864,12 @@ Eintragungsmerkmale erfüllen.
 
 
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNG001402309)
 
 
 
 ### § 65 Übernahme von Eintragungen in das Zentralregister
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007802311)
 
 (1) Eintragungen, die vor dem Inkrafttreten dieses Gesetzes in das
 Strafregister aufgenommen worden sind, werden in das Zentralregister
@@ -2821,6 +2924,7 @@ nach den Vorschriften dieses Gesetzes behandelt.
 
 
 ### § 66 Bei Inkrafttreten dieses Gesetzes getilgte oder tilgungsreife Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE007901306)
 
 Für die Verurteilungen, die bei dem Inkrafttreten dieses Gesetzes im
 Strafregister getilgt oder tilgungsreif sind oder die nach § 65 Abs. 2
@@ -2829,6 +2933,7 @@ nicht in das Zentralregister übernommen werden, gelten die §§ 51 bis
 
 
 ### § 67 Eintragungen in der Erziehungskartei
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE008101306)
 
 Die bei dem Inkrafttreten dieses Gesetzes vorhandenen Eintragungen in
 der gerichtlichen Erziehungskartei sind in das Erziehungsregister zu
@@ -2836,6 +2941,7 @@ der gerichtlichen Erziehungskartei sind in das Erziehungsregister zu
 
 
 ### § 68 Bestimmungen und Bezeichnungen in anderen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE008501306)
 
 Soweit in anderen Vorschriften auf das Gesetz über beschränkte
 Auskunft aus dem Strafregister und die Tilgung von Strafvermerken oder
@@ -2847,6 +2953,7 @@ entsprechenden Bestimmungen und Bezeichnungen dieses Gesetzes.
 
 
 ### § 69 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bzrg/BJNR002430971.html#BJNR002430971BJNE008612125)
 
 (1) Sind strafrechtliche Verurteilungen, die nicht durch deutsche
 Gerichte im Geltungsbereich dieses Gesetzes ergangen sind, vor dem 1.

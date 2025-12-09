@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000100000)
 
 Auf Grund des § 15 Absatz 2a des Arbeitszeitgesetzes, der durch
 Artikel 3 Absatz 6 Nummer 2 des Gesetzes vom 20. April 2013 (BGBl. I
@@ -28,9 +29,11 @@ und Stadtentwicklung:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNG000100000)
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000200000)
 
 Diese Verordnung gilt im Küstenmeer sowie in der ausschließlichen
 Wirtschaftszone der Bundesrepublik Deutschland sowie auf Schiffen, von
@@ -49,9 +52,11 @@ Seearbeitsgesetzes durchgeführt werden für
 
 
 ## Abschnitt 2 - Vorschriften für Arbeitnehmerinnen und Arbeitnehmer, die Offshore-Tätigkeiten durchführen
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNG000200000)
 
 
 ### § 2 Anwendung des Arbeitszeitgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000300000)
 
 Für die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern im Sinne
 von § 1 Nummer 1 ist das Arbeitszeitgesetz anzuwenden, soweit im
@@ -59,6 +64,7 @@ Folgenden nichts anderes geregelt ist.
 
 
 ### § 3 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000400000)
 
 (1) Die tägliche Arbeitszeit darf abweichend von den §§ 3, 6 Absatz 2
 und § 11 Absatz 2 des Arbeitszeitgesetzes auf bis zu zwölf Stunden
@@ -71,6 +77,7 @@ Gesamtarbeitszeit die nach Absatz 1 zulässige Höchstarbeitszeit nicht
 
 
 ### § 4 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000500000)
 
 Unbeschadet des § 4 Satz 1 des Arbeitszeitgesetzes muss die Ruhepause
 bei einer Arbeitszeit von mehr als zehn Stunden mindestens 60 Minuten
@@ -78,12 +85,14 @@ betragen.
 
 
 ### § 5 Sonntags- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000600000)
 
 Abweichend von § 9 des Arbeitszeitgesetzes dürfen Arbeitnehmerinnen
 und Arbeitnehmer an Sonntagen und Feiertagen beschäftigt werden.
 
 
 ### § 6 Zeitraum der Offshore-Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000700000)
 
 (1) Arbeitgeber haben dafür zu sorgen, dass Arbeitnehmerinnen und
 Arbeitnehmer nicht mehr als 21 unmittelbar aufeinander folgende Tage
@@ -103,6 +112,7 @@ Tätigkeiten beschäftigt werden.
 
 
 ### § 7 Ausgleich von Mehrarbeit und für Sonntags- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000800000)
 
 (1) Jede Arbeitszeitverlängerung bei Offshore-Tätigkeiten über acht
 Stunden täglich hinaus (Mehrarbeit) ist durch freie Tage
@@ -136,6 +146,7 @@ Durchschnitt von zwölf Kalendermonaten nicht überschreiten.
 
 
 ### § 8 Arbeitszeitnachweise
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE000900000)
 
 Der Arbeitgeber ist abweichend von § 16 Absatz 2 Satz 1 des
 Arbeitszeitgesetzes verpflichtet, die gesamte Arbeitszeit sowie den
@@ -144,6 +155,7 @@ Sonntags- und Feiertagsbeschäftigung täglich aufzuzeichnen.
 
 
 ### § 9 Transportzeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001000000)
 
 (1) Werden Arbeitnehmerinnen oder Arbeitnehmer von Land zu ihrem
 Einsatzort transportiert, beginnt die Transportzeit an dem vom
@@ -173,6 +185,7 @@ Schlafkabine zur Verfügung stehen.
 
 
 ### § 10 Weitere Arbeitsschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001100000)
 
 (1) Arbeitnehmerinnen und Arbeitnehmer, die an mindestens 48 Tagen im
 Kalenderjahr mit Offshore-Tätigkeiten beschäftigt werden, sind
@@ -203,9 +216,11 @@ Arbeitsbedingungen bei Offshore-Tätigkeiten zu berücksichtigen.
 
 
 ## Abschnitt 3 - Vorschriften für Besatzungsmitglieder von Schiffen, von denen aus Offshore-Tätigkeiten durchgeführt werden
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNG000300000)
 
 
 ### § 11 Anwendung des Seearbeitsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001200000)
 
 Für die Beschäftigung von Besatzungsmitgliedern im Sinne des § 1
 Nummer 2 sind die Arbeitszeitvorschriften des Seearbeitsgesetzes
@@ -213,6 +228,7 @@ anzuwenden, soweit im Folgenden nichts anderes geregelt ist.
 
 
 ### § 12 Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001300000)
 
 (1) Die Arbeitszeit darf abweichend von den §§ 43 und 48 Absatz 1
 Nummer 1 des Seearbeitsgesetzes auf bis zu zwölf Stunden täglich und
@@ -226,6 +242,7 @@ Fahrt mehr als 48 Stunden beträgt.
 
 
 ### § 13 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001400000)
 
 Unbeschadet des § 45 Absatz 2 Satz 2 des Seearbeitsgesetzes muss die
 Ruhepause bei einer Arbeitszeit von mehr als zehn Stunden mindestens
@@ -233,6 +250,7 @@ Ruhepause bei einer Arbeitszeit von mehr als zehn Stunden mindestens
 
 
 ### § 14 Ausgleich von Mehrarbeit und für Sonntags- und Feiertagsbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001500000)
 
 (1) Soweit Mehrarbeit nicht auf Grund des § 47 des Seearbeitsgesetzes
 erfolgt, ist die nach § 12 Absatz 1 über die zulässigen Arbeitszeiten
@@ -248,6 +266,7 @@ Seearbeitsgesetzes anzuwenden.
 
 
 ### § 15 Weitere Arbeitsschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001600000)
 
 Diese Verordnung lässt sonstige Arbeitsschutzvorschriften unberührt.
 Bei der Gefährdungsbeurteilung nach § 114 des Seearbeitsgesetzes in
@@ -258,9 +277,11 @@ Tätigkeiten zu berücksichtigen.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNG000400000)
 
 
 ### § 16 Bewilligung durch die Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001700000)
 
 Die Aufsichtsbehörde kann auf Antrag im Einzelfall weitergehende
 Ausnahmen zulassen, soweit sie auf Grund besonderer Umstände
@@ -269,6 +290,7 @@ Gesundheit der Beschäftigten erforderlichen Maßnahmen bestimmen.
 
 
 ### § 17 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001800000)
 
 Diese Verordnung wird nach Ablauf von drei Jahren evaluiert, um zu
 prüfen, ob die Ausgleichsmaßnahmen für die vorgenommenen
@@ -278,6 +300,7 @@ Arbeitszeitgesetz garantieren soll, auch tatsächlich eingehalten wird.
 
 
 ### § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE001900000)
 
 Ordnungswidrig im Sinne des § 22 Absatz 1 Nummer 4 des
 Arbeitszeitgesetzes handelt, wer als Arbeitgeber vorsätzlich oder
@@ -317,6 +340,7 @@ fahrlässig
 
 
 ### § 19 Hinweis auf Straf- und Bußgeldvorschriften des Seearbeitsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE002000000)
 
 Zuwiderhandlungen gegen § 48 Absatz 1 des Seearbeitsgesetzes in
 Verbindung mit § 14 Absatz 1 Satz 2, 3 oder Satz 4 dieser Verordnung
@@ -325,11 +349,13 @@ Nummer 2 des Seearbeitsgesetzes geahndet.
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/offshore-arbzv/BJNR222800013.html#BJNR222800013BJNE002200000)
 
 Der Bundesrat hat zugestimmt.
 

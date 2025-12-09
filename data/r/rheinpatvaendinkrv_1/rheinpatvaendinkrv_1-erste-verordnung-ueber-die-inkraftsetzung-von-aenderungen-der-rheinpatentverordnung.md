@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/BJNR056820000.html#BJNR056820000BJNE000100310)
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
 auf Grund
@@ -45,6 +46,7 @@ auf Grund
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/BJNR056820000.html#BJNR056820000BJNE000200310)
 
 Die mit Beschluss vom 20. Mai 1999 der Zentralkommission für die
 Rheinschifffahrt in Straßburg angenommenen Änderungen der
@@ -54,6 +56,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/BJNR056820000.html#BJNR056820000BJNE000300310)
 
 Die Kosten nach § 3.07 der Rheinpatentverordnung sind auf der
 Grundlage des § 4 Abs. 2 Satz 2 des Binnenschifffahrtsaufgabengesetzes
@@ -64,6 +67,7 @@ geltenden Fassung zu erheben.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/BJNR056820000.html#BJNR056820000BJNE000400310)
 
 (1) Diese Verordnung tritt am 1. April 2000 in Kraft.
 
@@ -72,5 +76,6 @@ Kraft.
 
 
 ## (XXXX) Protokoll 18 Änderung der Rheinpatentverordnung (§§ 3.06, 3.07 neu, Anlagen A1 und B1) Beschluss
+[Direktlink](https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/BJNR056820000.html#BJNR056820000BJNE000500310)
 
 

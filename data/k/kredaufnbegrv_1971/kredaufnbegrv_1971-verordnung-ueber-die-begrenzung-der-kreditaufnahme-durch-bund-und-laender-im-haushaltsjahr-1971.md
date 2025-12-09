@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kredaufnbegrv_1971/BJNR006930971.html#BJNR006930971BJNE000100317)
 
 Auf Grund des § 19 des Gesetzes zur Förderung der Stabilität und des
 Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I S. 582)
@@ -27,6 +28,7 @@ verordnet die Bundesregierung nach Anhörung des Konjunkturrats für die
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredaufnbegrv_1971/BJNR006930971.html#BJNR006930971BJNE000200317)
 
 (1) Bund und Länder begrenzen die Beschaffung von Geldmitteln im Wege
 des Kredits im Haushaltsjahr 1971 auf einen Höchstbetrag. Der Bund
@@ -113,6 +115,7 @@ Gesetzes bleiben außer Betracht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredaufnbegrv_1971/BJNR006930971.html#BJNR006930971BJNE000300317)
 
 Im Rahmen der sich aus § 1 ergebenden Höchstbeträge dürfen Anleihen
 und Schuldscheindarlehen nur nach Maßgabe eines vom Konjunkturrat für
@@ -124,6 +127,7 @@ Bundes und der Länder, soweit sie im Einzelfall 20 Mill. DM nicht
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredaufnbegrv_1971/BJNR006930971.html#BJNR006930971BJNE000400317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 32 des
@@ -132,6 +136,7 @@ auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredaufnbegrv_1971/BJNR006930971.html#BJNR006930971BJNE000500317)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

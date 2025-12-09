@@ -23,10 +23,12 @@ Geändert durch
 
 
 ## I. - Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000102377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001302377)
 
 Im Sinne dieser Verordnung sind Deckinfektionen des Rindes die durch
 den Deckakt oder die künstliche Besamung übertragbaren
@@ -34,18 +36,22 @@ Geschlechtskrankheiten des Rindes.
 
 
 ## II. - Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000201377)
 
 
 
 ### A. - Schutzmaßregeln gegen Trichomonadenseuche und Vibrionenseuche
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000301377)
 
 
 
 #### 1. - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000401377)
 
 
 
 ##### § 2
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001402377)
 
 (1) Die Vorschriften des § 2 Abs. 2 bis § 10 gelten nur für
 
@@ -120,10 +126,12 @@ Geschlechtskrankheiten des Rindes.
 
 
 #### 2. - Schutzmaßregeln vor amtlicher Feststellung einer Deckinfektion
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000502377)
 
 
 
 ##### § 3
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001502377)
 
 Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter
 
@@ -173,10 +181,12 @@ Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter
 
 
 #### 3. - Schutzmaßregeln nach amtlicher Feststellung einer Deckinfektion
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG001201377)
 
 
 
 ##### § 4
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001603377)
 
 Ist der Ausbruch einer Deckinfektion amtlich festgestellt, gilt § 3
 Nr. 1 bis 3 Buchstabe a bis d entsprechend. Über Satz 1 hinaus hat der
@@ -187,10 +197,12 @@ beseitigt wird.
 
 
 ##### (XXXX) §§ 5 und 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001702377)
 
 
 
 ##### § 7
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE001902377)
 
 Die zuständige Behörde kann anordnen, dass der Tierhalter eines
 Rinderbestandes, in dem eine Deckinfektion oder der Verdacht einer
@@ -199,10 +211,12 @@ einen Tierarzt behandeln zu lassen hat.
 
 
 #### 4. - Schutzmaßregeln bei Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000602377)
 
 
 
 ##### § 8
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002001377)
 
 Ansteckungsverdächtige Rinder, die sich in nicht gesperrten Gehöften
 oder sonstigen Standorten befinden, unterliegen bis zur amtlichen
@@ -214,10 +228,12 @@ verwendet werden.
 
 
 #### 5. - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000701377)
 
 
 
 ##### § 9
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002101377)
 
 Nach näherer Anweisung des beamteten Tierarztes sind
 
@@ -238,10 +254,12 @@ zu reinigen und zu desinfizieren.
 
 
 #### 6. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000801377)
 
 
 
 ##### § 10
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002202377)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die
 Deckinfektion erloschen ist oder der Verdacht auf eine Deckinfektion
@@ -310,10 +328,12 @@ Rinder unverdächtig sind.
 
 
 ### B. - Schutzmaßregeln gegen andere Deckinfektionen
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG000901377)
 
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002302377)
 
 Werden bei Rindern durch klinische, bakteriologische, virologische
 oder serologische Untersuchungsverfahren andere als in § 2 Abs. 1
@@ -324,15 +344,18 @@ ausgebreitet haben.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002402377)
 
 (weggefallen)
 
 
 ## III. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNG001001377)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002504301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -359,6 +382,7 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/rdeckinfv/BJNR013070975.html#BJNR013070975BJNE002802377)
 
 (Inkrafttreten)
 

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Rechtsgeschäfte und Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNG000100000)
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000200000)
 
 (1) Der Güter-, Dienstleistungs-, Kapital-, Zahlungs- und sonstige
 Wirtschaftsverkehr mit dem Ausland sowie der Verkehr mit
@@ -48,6 +50,7 @@ Gesetzes vorgeschrieben werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000304128)
 
 (1) Für dieses Gesetz und die auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen gelten die Begriffsbestimmungen der Absätze 2 bis
@@ -352,6 +355,7 @@ Europäischen Union gilt.
 
 
 ### § 3 Zweigniederlassungen und Betriebsstätten
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000402128)
 
 (1) Inländische Zweigniederlassungen und Betriebsstätten von
 Ausländern und ausländische Zweigniederlassungen und Betriebsstätten
@@ -390,6 +394,7 @@ vollziehbare Anordnung gemäß § 6 kann vorgesehen werden, dass
 
 
 ### § 4 Beschränkungen und Handlungspflichten zum Schutz der öffentlichen Sicherheit und der auswärtigen Interessen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000501119)
 
 (1) Im Außenwirtschaftsverkehr können durch Rechtsverordnung
 Rechtsgeschäfte und Handlungen beschränkt oder Handlungspflichten
@@ -468,6 +473,7 @@ vorliegen.
 
 
 ### § 5 Gegenstand von Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000601119)
 
 (1) Beschränkungen oder Handlungspflichten nach § 4 Absatz 1 können
 insbesondere angeordnet werden für Rechtsgeschäfte oder Handlungen in
@@ -537,6 +543,7 @@ einschließlich ihrer Entwicklung und Herstellung beziehen.
 
 
 ### § 5a Vorläufige Beschränkungen zur Umsetzung von Resolutionen des Sicherheitsrates der Vereinten Nationen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE004001128)
 
 [^f824634_01_BJNR148210013BJNE004001128]
 (1) Werden vom Sicherheitsrat der Vereinten Nationen nach Kapitel VII
@@ -595,6 +602,7 @@ finden.
 [^f824634_02_BJNR148210013BJNE004001128]: 
 
 ### § 6 Einzeleingriff
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000702128)
 
 (1) Im Außenwirtschaftsverkehr können auch durch Verwaltungsakt
 Rechtsgeschäfte oder Handlungen beschränkt oder Handlungspflichten
@@ -628,6 +636,7 @@ eine abweichende Geltungsdauer bestimmt ist.
 
 
 ### § 7 Einzeleingriff im Seeverkehr außerhalb des deutschen Küstenmeeres
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000800000)
 
 (1) Um eine im Einzelfall bestehende Gefahr für die in § 4 Absatz 1
 genannten Rechtsgüter abzuwenden, welche seewärts der Grenze des
@@ -672,6 +681,7 @@ entsprechend.
 
 
 ### § 8 Erteilung von Genehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE000900000)
 
 (1) Bedürfen Rechtsgeschäfte oder Handlungen nach einer Vorschrift
 dieses Gesetzes oder einer Rechtsverordnung auf Grund dieses Gesetzes
@@ -704,6 +714,7 @@ vollständige und richtige Angaben zu machen oder zu benutzen.
 
 
 ### § 9 Erteilung von Zertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001001000)
 
 Durch Rechtsverordnung auf Grund dieses Gesetzes kann die Erteilung
 von Zertifikaten vorgesehen werden, soweit dies zur Zertifizierung
@@ -715,9 +726,11 @@ entsprechend.
 
 
 ## Teil 2 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNG000200000)
 
 
 ### § 10 Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001100000)
 
 Beschränkungen nach einer Vorschrift dieses Gesetzes oder nach einer
 auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder
@@ -727,6 +740,7 @@ vornimmt oder welche ihr gegenüber vorgenommen werden.
 
 
 ### § 11 Verfahrens- und Meldevorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001200000)
 
 (1) Durch Rechtsverordnung können Verfahrensvorschriften erlassen
 werden
@@ -800,6 +814,7 @@ der Absätze 2 und 3 entsprechend anzuwenden.
 
 
 ### § 12 Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001302119)
 
 (1) Rechtsverordnungen nach diesem Gesetz erlässt die Bundesregierung.
 Rechtsverordnungen nach § 4 Absatz 2 und § 30 Absatz 2 erlässt
@@ -828,6 +843,7 @@ auf Rechtsverordnungen gemäß § 30 Absatz 2.
 
 
 ### § 13 Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001407128)
 
 (1) Für den Erlass von Verwaltungsakten und die Entgegennahme von
 Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz
@@ -938,6 +954,7 @@ und der Deutschen Bundesbank herzustellen.
 
 
 ### § 14 Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001500000)
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können mit
@@ -949,6 +966,7 @@ Wirkung.
 
 
 ### § 14a Fristen für Beschränkungen und Handlungspflichten beim Erwerb inländischer Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE003001119)
 
 (1) Beschränkungen oder Handlungspflichten in Bezug auf den Erwerb
 inländischer Unternehmen nach § 4 Absatz 1 Nummer 4 oder 4a in
@@ -1054,6 +1072,7 @@ werden.
 
 
 ### § 15 Rechtsunwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001604125)
 
 (1) Ein Rechtsgeschäft, das ohne die erforderliche Genehmigung
 vorgenommen wird, ist unwirksam. Es wird vom Zeitpunkt seiner Vornahme
@@ -1198,6 +1217,7 @@ der Kosten und der Vergütung des Treuhänders, geregelt werden.
 
 
 ### § 16 Urteil und Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001700000)
 
 (1) Ist zu einer Leistung des Schuldners eine Genehmigung
 erforderlich, so kann ein Urteil vor Erteilung der Genehmigung nur
@@ -1217,9 +1237,11 @@ den Erwerb und die Veräußerung im Wege der Zwangsvollstreckung.
 
 
 ## Teil 3 - Straf-, Bußgeld- und Überwachungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNG000300000)
 
 
 ### § 17 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001800000)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer einer Rechtsverordnung nach § 4 Absatz 1, die der
@@ -1274,6 +1296,7 @@ ist.
 
 
 ### § 18 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE001909128)
 
 (1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird
 bestraft, wer
@@ -1600,6 +1623,7 @@ musste.
 
 
 ### § 19 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002005125)
 
 (1) Ordnungswidrig handelt, wer eine in
 
@@ -1713,6 +1737,7 @@ Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ### § 20 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002101118)
 
 (1) Ist eine Straftat nach § 17 oder § 18 oder eine Ordnungswidrigkeit
 nach § 19 begangen worden, so können folgende Gegenstände eingezogen
@@ -1735,6 +1760,7 @@ Ordnungswidrigkeiten sind anzuwenden.
 
 
 ### § 21 Aufgaben und Befugnisse der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002203128)
 
 (1) Die Staatsanwaltschaft kann bei Straftaten und
 Ordnungswidrigkeiten nach den §§ 17 und 18, mit Ausnahme von § 18
@@ -1779,6 +1805,7 @@ anordnen.
 
 
 ### § 22 Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002301119)
 
 (1) Soweit für Straftaten nach den §§ 17 und 18 das Amtsgericht
 sachlich zuständig ist, liegt die örtliche Zuständigkeit bei dem
@@ -1818,6 +1845,7 @@ hinsichtlich des Verstoßes noch keine Ermittlungen aufgenommen hat. Im
 
 
 ### § 23 Allgemeine Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002405125)
 
 (1) Das Hauptzollamt, die Deutsche Bundesbank, das Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) und die Bundesanstalt für
@@ -1906,6 +1934,7 @@ Rahmen einer Verwaltungsvereinbarung näher regeln.
 
 
 ### § 24 Übermittlung von Informationen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002502125)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz und das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) dürfen jeweils
@@ -1995,6 +2024,7 @@ Sanktionsdurchsetzungsgesetzes ergibt, abgegeben worden ist.
 
 
 ### § 25 Automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002602119)
 
 (1) Das Zollkriminalamt ist berechtigt, Informationen, einschließlich
 personenbezogener Daten, die nach § 24 Absatz 1 und 2 übermittelt
@@ -2029,6 +2059,7 @@ kann.
 
 
 ### § 26 Übermittlung personenbezogener Daten aus Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002700000)
 
 (1) In Strafverfahren wegen Verstoßes gegen dieses Gesetz oder gegen
 eine Rechtsverordnung auf Grund dieses Gesetzes oder gegen das Gesetz
@@ -2054,6 +2085,7 @@ Zwecken verwendet werden.
 
 
 ### § 27 Überwachung des Fracht-, Post- und Reiseverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002802119)
 
 (1) Waren, die ausgeführt, verbracht, eingeführt oder durchgeführt
 werden, sind auf Verlangen vorzuzeigen. Sie können einer Beschau und
@@ -2095,6 +2127,7 @@ Sprengstoff zuständig sind; Satz 1 bleibt unberührt.
 
 
 ### § 28 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE002902119)
 
 (1) Die Zollbehörden können bei der Durchführung der Vorschriften
 dieses Gesetzes oder der zu diesem Gesetz erlassenen
@@ -2128,13 +2161,16 @@ Januar 2023 zu regeln.
 
 
 ## Teil 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNG000400119)
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE003101125)
 
 
 
 ### § 30 Anwendung unmittelbar geltender Vorschriften der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE003400119)
 
 (1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer auf
 Grund dieses Gesetzes erlassenen Rechtsverordnung (innerstaatliche
@@ -2164,6 +2200,7 @@ der Verweis auf eine Vorschrift in einem Rechtsakt
 
 
 ### § 31 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE003201119)
 
 § 14a ist erstmals auf Unternehmenserwerbe anzuwenden, von denen das
 Bundesministerium für Wirtschaft und Energie nach dem 17. Juli 2020
@@ -2174,6 +2211,7 @@ Fassung weiter anzuwenden.
 
 
 ### § 32 Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/awg_2013/BJNR148210013.html#BJNR148210013BJNE003301119)
 
 Das Bundesministerium für Wirtschaft und Energie bewertet unter
 Beteiligung des Auswärtigen Amts, des Bundesministeriums der

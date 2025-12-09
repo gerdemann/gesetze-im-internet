@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt V 7842-1-7 v. 9.7.1980 I 878, 1081 (MilchGüV)
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNG000100000)
 
 
 ### § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000200000)
 
 Zur Förderung der Güte von Rohmilch regelt diese Verordnung die
 Güteprüfung der Rohmilch und die Berechnung des Kaufpreises für die
@@ -31,6 +33,7 @@ Rohmilch gemäß dem Ergebnis der Güteprüfung.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000300000)
 
 (1) Diese Verordnung ist auf Rohmilch anzuwenden, die
 
@@ -68,6 +71,7 @@ Rohmilch für das laufende Jahr zu schätzen.
 
 
 ### § 3 Begriffsbestimmungen; Zugänglichkeit von amtlichen Untersuchungsverfahren und DIN-Normen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000400000)
 
 (1) Im Sinne dieser Verordnung bedeuten:
 
@@ -182,6 +186,7 @@ Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 
 ### § 4 Grundsätzliche Pflichten des Abnehmers
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000500000)
 
 (1) Der Abnehmer hat jede von ihm übernommene Rohmilch einer
 Güteprüfung nach den Abschnitten 2 und 3 zu unterziehen und das
@@ -203,6 +208,7 @@ berücksichtigen.
 
 
 ### § 5 Örtliche Zuständigkeit der Landesstellen für die Abnehmer
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000600000)
 
 (1) Die örtliche Zuständigkeit der Landesstelle richtet sich nach dem
 Hauptsitz des Abnehmers.
@@ -226,9 +232,11 @@ bestimmen.
 
 
 ## Abschnitt 2 - Probenahme und Transport der Proben
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNG000200000)
 
 
 ### § 6 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000700000)
 
 (1) Der Abnehmer hat bei jeder Rohmilchübernahme eine Probenahme unter
 Beachtung der Absätze 2, 3 und 4 Satz 1 durchzuführen.
@@ -264,6 +272,7 @@ Probenahme
 
 
 ### § 7 Sachkunde der Probenehmer
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000800000)
 
 (1) Der Abnehmer darf die Probenahme nur von Probenehmern vornehmen
 lassen, die über die Sachkunde für eine solche Probenahme verfügen.
@@ -276,6 +285,7 @@ festgelegt sind.
 
 
 ### § 8 Lehrgänge und Bescheinigungen über die Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE000900000)
 
 (1) Probenehmer, die die Probenahme unter Verwendung von
 Milchsammelwagen vornehmen, haben ihre Sachkunde durch eine
@@ -309,6 +319,7 @@ nähere Vorschriften erlassen.
 
 
 ### § 9 Nachweise über die Einführung in die ordnungsgemäße Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001000000)
 
 (1) Probenehmer, die die Probenahme unter Verwendung von
 Milchsammelwagen vornehmen, dürfen die Probenahme ohne eine
@@ -342,6 +353,7 @@ Probenahme durch den Probenehmer unverzüglich zu beenden.
 
 
 ### § 10 Pflicht zum Mitführen von Bescheinigungen und Nachweisen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001100000)
 
 (1) Probenehmer, die die Probenahme unter Verwendung von
 Milchsammelwagen vornehmen, haben während der Probenahme und des von
@@ -355,6 +367,7 @@ untersagen.
 
 
 ### § 11 Belegung der Sachkunde durch den Abnehmer
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001200000)
 
 (1) Der Abnehmer hat der Landesstelle auf Verlangen die Sachkunde der
 Probenehmer zu belegen. Dies kann durch Vorlage einer Bescheinigung
@@ -367,6 +380,7 @@ untersagen.
 
 
 ### § 12 Anforderungen an Anlagen zur Probenahme für Milchsammelwagen; Prüfberichte
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001300000)
 
 (1) Eine Anlage zur Probenahme für Milchsammelwagen darf nur verwendet
 werden, wenn
@@ -413,6 +427,7 @@ ist.
 
 
 ### § 13 Verwendungsverbot von Anlagen zur Probenahme für Milchsammelwagen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001400000)
 
 (1) Ist für den Abnehmer erkennbar, dass eine Anlage zur Probenahme
 für Milchsammelwagen den in § 12 Absatz 2 genannten Anforderungen
@@ -451,6 +466,7 @@ für Milchsammelwagen untersagen, wenn der Abnehmer
 
 
 ### § 14 Zulassung der Prüfstellen durch die Landesstellen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001500000)
 
 (1) Die Prüfstelle bedarf der Zulassung durch die Landesstelle, falls
 sie kein organisatorischer Bestandteil der Landesstelle ist. Die
@@ -470,6 +486,7 @@ keine Anlagen zur Probenahme nach dieser Verordnung prüfen.
 
 
 ### § 15 Entzug und Ruhenlassen der Zulassung von Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001600000)
 
 (1) Genügt eine zugelassene Prüfstelle den in § 12 Absatz 3 Satz 2
 genannten Anforderungen nicht mehr, hat sie die Hauptprüfungen und die
@@ -504,6 +521,7 @@ Landesstelle bestätigt das Fortbestehen der Zulassung durch Bescheid.
 
 
 ### § 16 Transport der Proben
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001700000)
 
 (1) Der Abnehmer hat die Proben zur Untersuchungsstelle zu
 transportieren und dabei insbesondere durch Einhaltung der
@@ -524,9 +542,11 @@ vereinbaren, an dem sich der Transport auszurichten hat.
 
 
 ## Abschnitt 3 - Güteuntersuchung und Mittelwertbildung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNG000300000)
 
 
 ### § 17 Durchführung der Güteuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001800000)
 
 Der Abnehmer hat sicherzustellen, dass die Güteuntersuchung durch eine
 Untersuchungsstelle gemäß den Anforderungen der Anlagen 2 und 3
@@ -534,6 +554,7 @@ vorgenommen wird.
 
 
 ### § 18 Mitteilung von Untersuchungsergebnissen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE001900000)
 
 (1) Die Untersuchungsstelle hat die Untersuchungszeitpunkte und die
 Untersuchungsergebnisse für alle Proben eines Kalendermonats bis
@@ -557,6 +578,7 @@ vorgesehen werden.
 
 
 ### § 19 Zulassung der Untersuchungsstellen durch die Landesstellen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002000000)
 
 (1) Die Untersuchungsstelle bedarf der Zulassung durch die
 Landesstelle. Die Zulassung setzt voraus, dass die Untersuchungsstelle
@@ -611,6 +633,7 @@ Güteuntersuchungen nach dieser Verordnung vornehmen.
 
 
 ### § 20 Entzug, Ruhenlassen und Erlöschen der Zulassung von Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002100000)
 
 (1) Erfüllt eine Untersuchungsstelle die Voraussetzungen nach § 19
 Absatz 1 Satz 2 nicht mehr, hat sie die Güteuntersuchungen
@@ -644,6 +667,7 @@ Fortbestehen der Zulassung durch Bescheid.
 
 
 ### § 21 Untersuchungsverfahren zur Güteuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002200000)
 
 (1) Die Untersuchungsstelle hat sicherzustellen, dass die
 Güteuntersuchung gemäß den in Anlage 3 bestimmten
@@ -676,6 +700,7 @@ eines Untersuchungsverfahrens nach Absatz 2 Satz 3.
 
 
 ### § 22 Mittelwertbildung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002300000)
 
 (1) Der Abnehmer hat bezogen auf alle Gütemerkmale mit Ausnahme der
 Gütemerkmale Hemmstoffe und Gefrierpunkt für jeden Kalendermonat einen
@@ -695,6 +720,7 @@ stammen, mitzuteilen.
 
 
 ### § 23 Überschreiten oder Unterschreiten der Mindestanzahl an Güteuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002400000)
 
 (1) Überschreitet der Abnehmer bezüglich eines Gütemerkmals die
 Mindestanzahl an Güteuntersuchungen, die Anlage 2 Abschnitt A bis F
@@ -730,6 +756,7 @@ folgenden Fällen darf er die Mindestanzahl unterschreiten:
 
 
 ### § 24 Unterrichtung bei Unterschreitung der Mindestanzahl an Güteuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002500000)
 
 (1) Wenn die Untersuchungsstelle bei einem Erzeuger nicht die
 Mindestanzahl an Güteuntersuchungen, die Anlage 2 Abschnitt A bis F
@@ -750,6 +777,7 @@ zu erfolgen.
 
 
 ### § 25 Anderweitige Gütemerkmale; Identifizierung von Hemmstoffen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002600000)
 
 (1) Der Abnehmer darf ein anderes als in § 3 Absatz 1 Nummer 5
 genanntes Gütemerkmal nur zu einem Bestandteil der Güteprüfung machen,
@@ -781,6 +809,7 @@ Untersuchung dem betreffenden Erzeuger mitzuteilen.
 
 
 ### § 26 Unterrichtung über das verwendete Hemmstofftestsystem
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002700000)
 
 (1) Die Untersuchungsstelle hat den Abnehmer über das verwendete
 Hemmstofftestsystem sieben Tage vor dessen erstmaliger Verwendung oder
@@ -795,6 +824,7 @@ Hemmstofftestsystem verwendet wird.
 
 
 ### § 27 Schnelltest auf Hemmstoffe
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002800000)
 
 (1) Der Abnehmer hat jegliche Rohmilch, die in seinem Betrieb oder in
 einem von ihm bestimmten Betrieb ankommt, vor deren Umfüllung durch
@@ -829,6 +859,7 @@ angerechnet.
 
 
 ### § 28 Voruntersuchung auf Hemmstoffe
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE002900000)
 
 (1) Werden durch einen Schnelltest Hemmstoffe nachgewiesen, hat der
 Abnehmer die in § 27 Absatz 3 Satz 1 genannten Proben nach den
@@ -874,6 +905,7 @@ Anwendung.
 
 
 ### § 29 Untersuchungen im Rahmen der Durchführungsverordnung (EU) 2019/627
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003000000)
 
 (1) Wird Rohmilch, die in den Anwendungsbereich dieser Verordnung
 fällt und die vom Erzeuger zwecks Übernahme durch einen Abnehmer
@@ -918,9 +950,11 @@ fehlendes Ergebnis der Güteuntersuchung.
 
 
 ## Abschnitt 4 - Berechnung des Kaufpreises für die Rohmilch
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNG000400000)
 
 
 ### § 30 Berechnung nach Güte und Gewicht; Umrechnungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003100000)
 
 (1) Der Abnehmer hat die übernommene Rohmilch nach der festgestellten
 Güte und dem Gewicht in Kilogramm zu bezahlen.
@@ -931,6 +965,7 @@ ein Umrechnungsfaktor von 1,03 zu verwenden.
 
 
 ### § 31 Milchgeldabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003200000)
 
 (1) Der Abnehmer hat für jeden Kalendermonat und für jeden Erzeuger
 eine Milchgeldabrechnung zu erstellen, die folgende Angaben enthalten
@@ -1011,6 +1046,7 @@ Kalendermonats zu übermitteln.
 
 
 ### § 32 Abschläge auf den Kaufpreis
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003300000)
 
 (1) Übersteigt ausweislich der Güteprüfung die Gesamtkeimzahl der
 Rohmilch eine Anzahl von 100 000 Kolonie bildenden Einheiten je
@@ -1036,6 +1072,7 @@ Kalendermonat zu mindern.
 
 
 ### § 33 Zusätzliche Abschläge sowie Zuschläge auf den Kaufpreis
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003400000)
 
 (1) Auf der Grundlage der Güteprüfung können neben den in § 32
 aufgeführten Abschlägen weitere Abschläge auf den Kaufpreis
@@ -1053,6 +1090,7 @@ Güteprüfung beruhen.
 
 
 ### § 34 Abrechnung im Falle einer Rohmilchübernahme ohne Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003500000)
 
 (1) Bei einer Rohmilchübernahme ohne Entgelt hat der Abnehmer für
 jeden Erzeuger eine Abrechnung über die übernommene Rohmilch
@@ -1068,9 +1106,11 @@ darzustellen. § 30 Absatz 1, § 31 Absatz 2 und 3 sowie die §§ 32 und
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNG000500000)
 
 
 ### § 35 Aufzeichnungspflichten der Abnehmer
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003600000)
 
 (1) Der Abnehmer hat zu jeder Einführung in die ordnungsgemäße
 Probenahme innerhalb eines Monats nach der Einführung Folgendes
@@ -1170,6 +1210,7 @@ Untersuchung Folgendes aufzuzeichnen:
 
 
 ### § 36 Aufzeichnungspflichten der Veranstalter von Sachkundelehrgängen und der Untersuchungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003700000)
 
 (1) Der Veranstalter von Sachkundelehrgängen hat zu jeder Durchführung
 eines Lehrgangs innerhalb eines Monats nach dem Lehrgang Folgendes
@@ -1226,6 +1267,7 @@ nach der Güteuntersuchung der Probe Folgendes aufzuzeichnen:
 
 
 ### § 37 Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003800000)
 
 (1) Der Abnehmer hat
 
@@ -1260,6 +1302,7 @@ vorzulegen.
 
 
 ### § 38 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE003900000)
 
 Ordnungswidrig im Sinne des § 30 Absatz 1 Nummer 9 des Milch- und
 Fettgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1353,6 +1396,7 @@ Fettgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 39 Anwendungs- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE004000000)
 
 (1) Die §§ 7 bis 11 sind erst ab dem 1. Juli 2023 anzuwenden. Bis zu
 diesem Zeitpunkt richten sich die Anforderungen an die Sachkunde und
@@ -1372,6 +1416,7 @@ Güteuntersuchungen unverzüglich einzustellen. § 20 Absatz 1 Satz 2 und
 (zu § 7 Absatz 2)
 
 ### Anlage 1 Anforderungen an die Sachkunde der Probenehmer
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE004100000)
 
 (Fundstelle: BGBl. I 2021, 58 - 59)
 
@@ -1548,6 +1593,7 @@ B.  Besondere Anforderungen bei der Verwendung von Milchsammelwagen (§ 7
 Absatz 2 Satz 2)
 
 ### Anlage 2 Güteuntersuchung der Proben und Mittelwertbildung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE004200000)
 
 (Fundstelle: BGBl. I 2021, 60 - 61)
 
@@ -1773,6 +1819,7 @@ und 4,
 Anlage 2)
 
 ### Anlage 3 Untersuchungsverfahren zur Güteuntersuchung
+[Direktlink](https://www.gesetze-im-internet.de/rohmilchg_tv/BJNR004710021.html#BJNR004710021BJNE004300000)
 
 (Fundstelle: BGBl. I 2021, 62 - 65)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35usabek/BJNR003680952.html#BJNR003680952BJNE000100306)
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes vom 5. Mai
 1936 (Reichsgesetzbl. II S. 134) wird gemäß einer Mitteilung des
@@ -31,6 +32,7 @@ haben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_35usabek/BJNR003680952.html#BJNR003680952BJNE000200306)
 
 Der Bundesminister der Justiz
 

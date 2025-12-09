@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3
@@ -33,6 +34,7 @@ und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum „Geprüften Industriemeister –
@@ -124,6 +126,7 @@ oder „Geprüfte Industriemeisterin – Fachrichtung Glas“.
 
 
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000300000)
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung
 Glas“ und zur „Geprüften Industriemeisterin – Fachrichtung Glas“
@@ -169,6 +172,7 @@ Form eines situationsbezogenen Fachgesprächs nach § 5 zu prüfen.
 
 
 ## § 3 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000400000)
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
 Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
@@ -214,6 +218,7 @@ haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000501128)
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
 ist in folgenden Prüfungsbereichen zu prüfen:
@@ -432,6 +437,7 @@ gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000601128)
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst
 die Handlungsbereiche „Technik“, „Organisation“ sowie „Führung und
@@ -809,6 +815,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -821,6 +828,7 @@ zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -836,6 +844,7 @@ situationsbezogene Fachgespräch einzeln zu bewerten.
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001400128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils 50 Punkte erreicht worden sind:
@@ -873,6 +882,7 @@ zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001500128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
@@ -898,6 +908,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE000901128)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -913,6 +924,7 @@ Prüfung.
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001001128)
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2016 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -921,6 +933,7 @@ durchführen; § 8 Absatz 2 findet in diesem Fall keine Anwendung.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001101128)
 
 Diese Verordnung tritt am 1. Dezember 2013 in Kraft. Gleichzeitig
 tritt die Verordnung über die Prüfung zum anerkannten Abschluss
@@ -931,6 +944,7 @@ Juli 2010 (BGBl. I S. 1010) geändert worden ist, außer Kraft.
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001202128)
 
 (Fundstelle: BGBl. I 2019, 2391 – 2392)
 
@@ -1232,6 +1246,7 @@ Juli 2010 (BGBl. I S. 1010) geändert worden ist, außer Kraft.
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/glasindmstrfortbv/BJNR360800013.html#BJNR360800013BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2392 – 2393)
 

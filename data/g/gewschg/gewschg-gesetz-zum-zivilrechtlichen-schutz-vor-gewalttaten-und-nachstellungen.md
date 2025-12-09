@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
+[Direktlink](https://www.gesetze-im-internet.de/gewschg/BJNR351310001.html#BJNR351310001BJNE000101360)
 
 (1) Hat eine Person vorsätzlich den Körper, die Gesundheit, die
 Freiheit oder die sexuelle Selbstbestimmung einer anderen Person
@@ -87,6 +88,7 @@ versetzt hat.
 
 
 ## § 2 Überlassung einer gemeinsam genutzten Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/gewschg/BJNR351310001.html#BJNR351310001BJNE000200000)
 
 (1) Hat die verletzte Person zum Zeitpunkt einer Tat nach § 1 Abs. 1
 Satz 1, auch in Verbindung mit Abs. 3, mit dem Täter einen auf Dauer
@@ -146,6 +148,7 @@ bis 5 entsprechend.
 
 
 ## § 3 Geltungsbereich, Konkurrenzen
+[Direktlink](https://www.gesetze-im-internet.de/gewschg/BJNR351310001.html#BJNR351310001BJNE000301125)
 
 (1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat
 nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge,
@@ -159,6 +162,7 @@ Gesetz nicht berührt.
 
 
 ## § 4 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gewschg/BJNR351310001.html#BJNR351310001BJNE000402360)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer einer bestimmten vollstreckbaren

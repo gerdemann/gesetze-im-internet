@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ffvav/BJNR459110021.html#BJNR459110021BJNE000100000)
 
 (1) Bei einem Vertrag über die Versorgung mit Fernwärme oder über die
 Versorgung mit Fernkälte hat ein Unternehmen, das einen Kunden mit
@@ -34,6 +35,7 @@ rechtlich gestaltete Versorgungsverhältnisse anzuwenden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ffvav/BJNR459110021.html#BJNR459110021BJNE000200000)
 
 (1) Fernablesbar ist eine Messeinrichtung, wenn sie ohne Zugang zu den
 einzelnen Nutzeinheiten abgelesen werden kann.
@@ -49,6 +51,7 @@ Fernwärme oder Fernkälte versorgt.
 
 
 ## § 3 Messung des Verbrauchs von Fernwärme und Fernkälte
+[Direktlink](https://www.gesetze-im-internet.de/ffvav/BJNR459110021.html#BJNR459110021BJNE000300000)
 
 (1) Zur Ermittlung des verbrauchsabhängigen Entgelts hat ein
 Versorgungsunternehmen Messeinrichtungen zu verwenden, die den mess-
@@ -117,6 +120,7 @@ Einsparungen transparent und verständlich darzulegen.
 
 
 ## § 4 Abrechnung, Abrechnungsinformationen, Verbrauchsinformationen
+[Direktlink](https://www.gesetze-im-internet.de/ffvav/BJNR459110021.html#BJNR459110021BJNE000400000)
 
 (1) Ein Versorgungsunternehmen hat dem Kunden Abrechnungen und
 Abrechnungsinformationen einschließlich Verbrauchsinformationen
@@ -163,6 +167,7 @@ zu gewährleisten.
 
 
 ## § 5 Inhalt und Transparenz der Abrechnungen
+[Direktlink](https://www.gesetze-im-internet.de/ffvav/BJNR459110021.html#BJNR459110021BJNE000501130)
 
 (1) Das Versorgungsunternehmen muss dem Kunden mit den Abrechnungen
 folgende Informationen unentgeltlich sowie auf klare und verständliche

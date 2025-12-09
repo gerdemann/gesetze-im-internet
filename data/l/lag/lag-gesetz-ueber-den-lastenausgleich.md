@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Präambel
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022700301)
 
 In Anerkennung des Anspruchs der durch den Krieg und seine Folgen
 besonders betroffenen Bevölkerungsteile auf einen die Grundsätze der
@@ -42,14 +43,17 @@ Gesetz beschlossen:
 
 
 ## Erster Teil - Grundsätze und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000101301)
 
 
 
 ### Erster Abschnitt - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000201301)
 
 
 
 #### § 1 Ziel des Lastenausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE003701301)
 
 Die Abgeltung von Schäden und Verlusten, die sich infolge der
 Vertreibungen und Zerstörungen der Kriegs- und Nachkriegszeit oder
@@ -63,12 +67,14 @@ Mittel werden nach Maßgabe dieses Gesetzes aufgebracht
 
 
 #### § 2 Durchführung des Lastenausgleichs
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE003801301)
 
 Zur Durchführung des Lastenausgleichs werden Ausgleichsabgaben erhoben
 und Ausgleichsleistungen gewährt.
 
 
 #### § 3 Ausgleichsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE003901301)
 
 Als Ausgleichsabgaben werden erhoben:
 
@@ -87,6 +93,7 @@ Als Ausgleichsabgaben werden erhoben:
 
 
 #### § 4 Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004002301)
 
 Als Ausgleichsleistungen werden gewährt:
 
@@ -127,6 +134,7 @@ Als Ausgleichsleistungen werden gewährt:
 
 
 #### § 5 Haushaltsmäßige Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004103301)
 
 Rechte und Pflichten des bisherigen Sondervermögens Ausgleichsfonds
 gehen auf den Bund über. Einnahmen nach diesem Gesetz und sonstige
@@ -136,6 +144,7 @@ zugeführt.
 
 
 #### § 6 Beitrag der Länder zum Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004202301)
 
 Die Länder mit Ausnahme der Länder Brandenburg, Mecklenburg-
 Vorpommern, Thüringen, Sachsen und Sachsen-Anhalt leisten an den Bund
@@ -146,6 +155,7 @@ jeweils vorhergehenden Rechnungsjahr.
 
 
 #### § 7 Kredite
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004302301)
 
 Zins- und Tilgungsleistungen für Kredite, die vom Ausgleichsfonds nach
 § 7 dieses Gesetzes in der bis zum 1. Januar 2005 geltenden Fassung
@@ -153,10 +163,12 @@ aufgenommen worden sind, trägt der Bund.
 
 
 ### Zweiter Abschnitt - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000301301)
 
 
 
 #### § 8 Bezeichnung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004401301)
 
 (1) In diesem Gesetz werden bezeichnet
 
@@ -328,6 +340,7 @@ Besatzungszone und im bayerischen Kreise Lindau sowie in Berlin
 
 
 #### § 9 Sitz in Berlin (West)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004501301)
 
 Als Sitz in Berlin (West) im Sinne dieses Gesetzes gilt ein Sitz in
 Berlin. Ein Unternehmen, das zwar seinen Sitz in Berlin, aber seine
@@ -337,6 +350,7 @@ Unternehmen mit Sitz in Berlin (West) im Sinne dieses Gesetzes.
 
 
 #### § 10 Deutsche Mark und Euro
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004602308)
 
 (1) Deutsche Mark im Sinne dieses Gesetzes ist die Deutsche Mark der
 Deutschen Bundesbank.
@@ -347,6 +361,7 @@ der Bundesrepublik Deutschland eingeführte Währung.
 
 
 #### § 11 Vertriebener
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004702301)
 
 (1) Vertriebener ist, wer als deutscher Staatsangehöriger oder
 deutscher Volkszugehöriger seinen Wohnsitz in den zur Zeit unter
@@ -424,6 +439,7 @@ diesen Gebieten ständig niederlassen wollte.
 
 
 #### § 12 Vertreibungsschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004801301)
 
 (1) Ein Vertreibungsschaden im Sinne dieses Gesetzes ist unter den
 Voraussetzungen des Absatzes 2 ein Schaden, der einem Vertriebenen im
@@ -645,6 +661,7 @@ nur zu berücksichtigen
 
 
 #### § 13 Kriegssachschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE004901301)
 
 (1) Ein Kriegssachschaden im Sinne dieses Gesetzes ist ein Schaden,
 der in der Zeit vom 26. August 1939 bis zum 31. Juli 1945 unmittelbar
@@ -701,6 +718,7 @@ sind.
 
 
 #### § 14 Ostschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005001301)
 
 (1) Ein Ostschaden im Sinne dieses Gesetzes ist ein Schaden, der in
 den zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebieten
@@ -739,6 +757,7 @@ entstanden.
 
 
 #### § 15 Sparerschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005101301)
 
 (1) Ein Sparerschaden ist die Minderung des Nennbetrags von
 Sparanlagen, die dadurch eingetreten ist, daß die Sparanlagen bei der
@@ -802,6 +821,7 @@ Kapitalanlage oder der Versorgung dienten.
 
 
 #### § 15a Zonenschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005201301)
 
 (1) Ein Zonenschaden im Sinne dieses Gesetzes ist ein
 Vermögensschaden, der im Schadensgebiet (§ 3 Abs. 1 des
@@ -896,18 +916,22 @@ entstanden ist, gilt,
 
 
 ## Zweiter Teil - Ausgleichsabgaben
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000401301)
 
 -
 
 
 ### (XXXX) §§ 16 bis 227 (nicht abgedruckt)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022401301)
 
 
 ### Achter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003500308)
 
 
 
 #### § 227a Anwendung des Zweiten Teils für den Zeitraum nach dem 31. Dezember 2001
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022900308)
 
 Für die Berechnung der Ausgleichsabgaben nach diesem Gesetz gilt die
 Deutsche Mark nach dem 31. Dezember 2001 als Berechnungsgröße fort.
@@ -919,14 +943,17 @@ den Euro einführen, in Euro anzusetzen.
 
 
 ## Dritter Teil - Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000501301)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000601301)
 
 
 
 #### § 228 Schadenstatbestände
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005301301)
 
 (1) Ausgleichsleistungen nach dem Dritten Teil dieses Gesetzes werden
 gewährt auf Grund von
@@ -966,6 +993,7 @@ Maßgabe der §§ 301, 301a gewährt werden.
 
 
 #### § 229 Geschädigte
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005402301)
 
 (1) Ausgleichsleistungen werden nach näherer Maßgabe dieses Gesetzes
 an Geschädigte, an Erben von Geschädigten oder zugunsten von
@@ -1002,6 +1030,7 @@ Geschädigter.
 
 
 #### § 230 Stichtag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005503301)
 
 (1) Vertreibungsschäden kann der Geschädigte nur geltend machen, wenn
 er am 31. Dezember 1952 seinen ständigen Aufenthalt im Geltungsbereich
@@ -1160,6 +1189,7 @@ Anwendung.
 
 
 #### § 230a Besondere persönliche Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005601301)
 
 (1) Schäden außerhalb des Geltungsbereichs dieses Gesetzes müssen
 einer Person entstanden sein, die im Zeitpunkt der Schädigung
@@ -1220,6 +1250,7 @@ II S. 1041) bleibt unberührt.
 
 
 #### § 231 Rechtsnatur der Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005701301)
 
 Es werden gewährt
 
@@ -1233,6 +1264,7 @@ Es werden gewährt
 
 
 #### § 232 Ausgleichsleistungen mit Rechtsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005802301)
 
 (1) Als Ausgleichsleistungen mit Rechtsanspruch werden gewährt
 
@@ -1261,6 +1293,7 @@ Währungsausgleichsgesetzes und des Altsparergesetzes.
 
 
 #### § 233 Ausgleichsleistungen ohne Rechtsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE005902301)
 
 (1) Als Ausgleichsleistungen ohne Rechtsanspruch werden nach Maßgabe
 der verfügbaren Mittel gewährt
@@ -1284,6 +1317,7 @@ Geschädigten gewährt werden.
 
 
 #### § 233a Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022502301)
 
 (1) Ansprüche auf Erfüllung oder Auszahlung von Ausgleichsleistungen
 verjähren in vier Jahren. Die Ansprüche erlöschen durch die
@@ -1312,6 +1346,7 @@ entsprechend.
 
 
 #### § 234 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006003301)
 
 (1) Ausgleichsleistungen werden nur auf Antrag gewährt.
 
@@ -1364,20 +1399,24 @@ unberührt.
 
 
 ### Zweiter Abschnitt - Feststellung von Schäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000701301)
 
 
 
 #### Erster Titel - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000801301)
 
 
 
 ##### § 235 Schadensfeststellung als Voraussetzung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006101301)
 
 Ausgleichsleistungen, auf die nach diesem Gesetz ein Rechtsanspruch
 besteht, werden nur gewährt, wenn der Schaden festgestellt ist.
 
 
 ##### § 236 Schadensfeststellung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006201301)
 
 Bei Schäden im Sinne der §§ 3 bis 5 des Feststellungsgesetzes und bei
 Schäden im Sinne des Zweiten Abschnitts des Beweissicherungs- und
@@ -1387,6 +1426,7 @@ Rechtsanspruch. Diese Schadensfeststellung ist bindend.
 
 
 ##### § 237 Schadensfeststellung außerhalb des Feststellungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006301301)
 
 (1) Der Feststellung nach den besonderen Vorschriften dieses Gesetzes
 unterliegen
@@ -1412,10 +1452,12 @@ Schadens ist in diesen Fällen ausgeschlossen.
 
 
 #### Zweiter Titel - Schadensberechnung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG000901301)
 
 
 
 ##### § 238 Schadensberechnung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006401301)
 
 Für die Berechnung von Schäden, die nach dem Feststellungsgesetz oder
 nach dem Beweissicherungs- und Feststellungsgesetz festzustellen sind,
@@ -1423,6 +1465,7 @@ gelten die Vorschriften dieser Gesetze.
 
 
 ##### § 239 Schadensberechnung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006501301)
 
 (1) Bei Feststellung des einem Vertriebenen, Kriegssachgeschädigten
 oder Ostgeschädigten durch den Verlust der beruflichen oder sonstigen
@@ -1459,6 +1502,7 @@ Einkommensrichtsätze für die einzelnen Berufsgruppen anzunehmen sind.
 
 
 ##### § 240 Schadensberechnung bei Sparerschäden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006601301)
 
 (1) Sparerschäden sind mit dem Reichsmarknennbetrag des durch die
 Umstellung betroffenen Anspruchs abzüglich des Umstellungsbetrags
@@ -1472,11 +1516,13 @@ Reichsmarknennbetrag nicht ohne weiteres festliegt.
 
 
 ##### § 241
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006701301)
 
 (weggefallen)
 
 
 ##### § 242 Zusammenfassung der Einzelfeststellungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006801301)
 
 Zum Zwecke der Gewährung von Ausgleichsleistungen werden die für die
 Gewährung einer Ausgleichsleistung jeweils zu berücksichtigenden
@@ -1485,10 +1531,12 @@ zusammengefaßt.
 
 
 ### Dritter Abschnitt - Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001001301)
 
 
 
 #### § 243 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE006901301)
 
 Hauptentschädigung wird gewährt zur Abgeltung von
 
@@ -1521,6 +1569,7 @@ Hauptentschädigung wird gewährt zur Abgeltung von
 
 
 #### § 244 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007001301)
 
 Der Anspruch auf Hauptentschädigung ist, vorbehaltlich der §§ 258,
 278a, 283 und 283a, vererblich und übertragbar; er unterliegt jedoch
@@ -1539,6 +1588,7 @@ Nachlaßverbindlichkeiten nicht befriedigt werden könnten.
 
 
 #### § 245 Schadensbetrag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007101301)
 
 Für die Bemessung der Hauptentschädigung werden die festgestellten
 Schäden des unmittelbar Geschädigten (§ 243), vorbehaltlich des §
@@ -1601,6 +1651,7 @@ Reichsmark angesetzt.
 
 
 #### § 246 Schadensgruppen und Grundbeträge
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007202308)
 
 (1) Auf Grund der Schadensfeststellung wird der unmittelbar
 Geschädigte in eine der nachfolgenden Schadensgruppen eingestuft. Die
@@ -1997,6 +2048,7 @@ Grundbeträge festgesetzt:
 
 
 #### § 247 Teilung des Grundbetrags
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007301301)
 
    Der Grundbetrag, der auf den für den unmittelbar Geschädigten
 errechneten Schadensbetrag entfällt, wird, wenn der unmittelbar
@@ -2009,6 +2061,7 @@ Aufteilung des Grundbetrags auf die Erben des Geschädigten.
 
 
 #### § 248 Zuschlag zum Grundbetrag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007401301)
 
 Der für den Geschädigten nach den §§ 246, 247 sich ergebende
 Grundbetrag erhöht sich um 10 vom Hundert für
@@ -2035,6 +2088,7 @@ Grundbetrag erhöht sich um 10 vom Hundert für
 
 
 #### § 249 Kürzung des Grundbetrags
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007502308)
 
 (1) Der Grundbetrag ist zu kürzen, soweit sich durch seine Zurechnung
 zum Endvermögen eine Summe ergeben würde, die 50 vom Hundert des
@@ -2180,6 +2234,7 @@ jeweils mit dem Divisor 1,95583 in Euro anzusetzen.
 
 
 #### § 249a Sparerzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007602308)
 
 (1) Soweit die Hauptentschädigung zur Abgeltung von Verlusten an
 Ansprüchen gewährt wird, die Sparanlagen im Sinne des
@@ -2293,6 +2348,7 @@ Euro anzusetzen.
 
 
 #### § 249b Besonderheiten der Grundbetragsberechnung beim Zusammentreffen von Zonenschäden mit Schäden im Sinne des Reparationsschädengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007701301)
 
 Sind einem unmittelbar Geschädigten sowohl Zonenschäden als auch
 Schäden im Sinne des Reparationsschädengesetzes entstanden, gilt
@@ -2333,6 +2389,7 @@ folgendes:
 
 
 #### § 250 Zuerkennung des Anspruchs und Zinszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007802308)
 
 (1) Der Anspruch auf Hauptentschädigung wird dem Geschädigten mit dem
 sich ergebenden Grundbetrag zuerkannt; dabei ist anzugeben, wie der
@@ -2855,6 +2912,7 @@ Divisor 1,95583 in Euro anzusetzen.
 
 
 #### § 251 Erfüllung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE007903301)
 
 (1) Der Anspruch auf Hauptentschädigung wird, vorbehaltlich der §§
 278a, 283 und 283a, in Höhe des Betrags erfüllt, der sich durch
@@ -2889,6 +2947,7 @@ ist.
 
 
 #### § 252 Reihenfolge und Zeitpunkt der Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE008002301)
 
 (1) Die Ansprüche auf Hauptentschädigung werden vorbehaltlich der
 Absätze 5 und 6 vom 1. April 1957 ab nach Maßgabe der verfügbaren
@@ -2937,22 +2996,27 @@ berücksichtigen.
 
 
 ### Vierter Abschnitt - Eingliederungsdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001101301)
 
 
 
 #### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001201301)
 
 
 
 ##### (XXXX) §§ 253 bis 257 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE008102301)
 
 
 
 #### Zweiter Titel - Eingliederungsdarlehen an einzelne Geschädigte (Aufbaudarlehen)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001301301)
 
 
 
 ##### § 258 Verhältnis zur Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE008602301)
 
 (1) Soweit der Empfänger eines Aufbaudarlehens Anspruch auf
 Hauptentschädigung hat, wird der Darlehensbetrag auf den Anspruch auf
@@ -3043,22 +3107,27 @@ Hauptentschädigung vor.
 
 
 #### Dritter Titel - Eingliederungsdarlehen zur Schaffung von Dauerarbeitsplätzen (Arbeitsplatzdarlehen)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001401301)
 
 
 
 ##### (XXXX) §§ 259 und 260 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE008702301)
 
 
 
 ### Fünfter Abschnitt - Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001501301)
 
 
 
 #### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001601301)
 
 
 
 ##### § 261 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE008902301)
 
 (1) Kriegsschadenrente wird zur Abgeltung von Vertreibungsschäden,
 Kriegssachschäden, Ostschäden und, soweit sich aus den Vorschriften
@@ -3118,6 +3187,7 @@ bis zum 30. Juni 2000 gestellt ist.
 
 
 ##### § 262 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009001301)
 
 Der Anspruch auf Kriegsschadenrente kann, soweit in diesem Abschnitt
 nichts anderes bestimmt ist, nicht übertragen, nicht gepfändet und
@@ -3127,6 +3197,7 @@ Zeitraum rechtskräftig bewilligt worden sind.
 
 
 ##### § 263 Formen der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009103301)
 
 (1) Kriegsschadenrente wird gewährt als
 
@@ -3154,6 +3225,7 @@ oder sonstigen Existenzgrundlage geltend machen.
 
 
 ##### § 264 Lebensalter
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009202301)
 
 (1) Wegen vorgeschrittenen Lebensalters wird Kriegsschadenrente nur
 gewährt, wenn der Geschädigte bei Antragstellung das 65. (eine Frau
@@ -3192,6 +3264,7 @@ ausschließen.
 
 
 ##### § 265 Erwerbsunfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009306160)
 
 (1) Wegen Erwerbsunfähigkeit wird Kriegsschadenrente nur gewährt, wenn
 der Geschädigte dauernd außerstande ist, durch eine Tätigkeit, die
@@ -3272,6 +3345,7 @@ unentgeltlichen Mitwirkung verpflichtet sind.
 
 
 ##### § 266 Ermittlung des Schadens und des Grundbetrags
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009401301)
 
 (1) Soweit für Zwecke der Kriegsschadenrente die Ermittlung eines
 Schadensbetrags erforderlich ist, werden die festgestellten Schäden
@@ -3314,10 +3388,12 @@ Grundbeträge insoweit außer Ansatz, als sie auf Zonenschäden beruhen
 
 
 #### Zweiter Titel - Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001701301)
 
 
 
 ##### § 267 Einkommenshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009517301)
 
 (1) Unterhaltshilfe wird gewährt, wenn die Einkünfte des Berechtigten
 (§ 261) insgesamt 745 Deutsche Mark <angepasst auf 451 Euro> \*)
@@ -3536,11 +3612,13 @@ angemessenem Umfang zu einer privaten Krankenversicherung zu regeln.
 
 
 ##### § 268
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009601301)
 
 (weggefallen)
 
 
 ##### § 269 Höhe der Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009710301)
 
 (1) Die Unterhaltshilfe beträgt für den Berechtigten monatlich 745
 Deutsche Mark <angepasst auf 451 Euro> \*).
@@ -3554,6 +3632,7 @@ Satz 3 bis 6 erhöht sich die Unterhaltshilfe um die Pflegezulage.
 
 
 ##### § 269a Selbständigenzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009812301)
 
 (1) Die nach § 269 sich ergebende Unterhaltshilfe erhöht sich für
 ehemals Selbständige im Sinne des § 273 Abs. 5 Nr. 1 und 2 um einen
@@ -3698,6 +3777,7 @@ den Selbständigenzuschlag nicht übersteigen.
 
 
 ##### § 269b Sozialzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE009908301)
 
 (1) Die nach den §§ 269, 269a sich ergebende Unterhaltshilfe erhöht
 sich um einen Sozialzuschlag.
@@ -3722,6 +3802,7 @@ Selbständigenzuschlag nach § 269a übersteigt.
 
 
 ##### § 270 Anrechnung von Einkünften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010003308)
 
 (1) Rentenleistungen und sonstige Einkünfte werden auf die
 Unterhaltshilfe insoweit angerechnet, als sie nach § 267 Abs. 2 als
@@ -3753,11 +3834,13 @@ würde.
 
 
 ##### § 271 Dauer der Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010201301)
 
 Die Unterhaltshilfe wird auf Lebenszeit oder auf Zeit gewährt.
 
 
 ##### § 272 Unterhaltshilfe auf Lebenszeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010302308)
 
 (1) Unterhaltshilfe auf Lebenszeit wird gewährt, wenn durch die
 Schädigung die Existenzgrundlage des Berechtigten auf die Dauer
@@ -3808,6 +3891,7 @@ entsprechend.
 
 
 ##### § 273 Unterhaltshilfe auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010402308)
 
 (1) Unterhaltshilfe auf Zeit wird gewährt, wenn die besonderen
 Voraussetzungen für die Gewährung auf Lebenszeit nach § 272 nicht
@@ -3962,6 +4046,7 @@ berücksichtigt.
 
 
 ##### § 274 Sonderregelung bei Wegfall öffentlicher Renten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010511301)
 
 (1) Beruht der Anspruch des Berechtigten auf einem Sparerschaden, der
 durch Nichtumstellung von Ansprüchen auf Bezug oder Wiederbezug von
@@ -3999,6 +4084,7 @@ Absätzen 1 und 2 in Anspruch nehmen will.
 
 
 ##### § 275 Unterhaltshilfe für Vollwaisen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010610301)
 
 (1) Unmittelbar geschädigte Vollwaisen im Sinne des § 265 Abs. 2
 erhalten Unterhaltshilfe auf Zeit nach den Vorschriften dieses
@@ -4016,6 +4102,7 @@ ergibt.
 
 
 ##### § 276 Krankenversorgung, Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010719123)
 
 (1) Empfänger von Unterhaltshilfe erhalten als zusätzliche Leistung
 Krankenbehandlung, die nach Art, Form und Maß der Krankenbehandlung
@@ -4103,11 +4190,13 @@ werden.
 
 
 ##### § 276a
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010803301)
 
 (weggefallen)
 
 
 ##### § 277 Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE010905301)
 
 (1) Empfänger von Unterhaltshilfe können beantragen, daß ihnen im
 Falle ihres Todes oder des Todes ihres Ehegatten ein Sterbegeld von je
@@ -4152,11 +4241,13 @@ Leistungen.
 
 
 ##### § 277a
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011005301)
 
 (weggefallen)
 
 
 ##### § 278 Verhältnis zur Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011102308)
 
 (1) Der nach § 266 Abs. 2 ermittelte Grundbetrag gilt durch die
 Gewährung von Unterhaltshilfe auf Lebenszeit in folgender Höhe als in
@@ -4313,6 +4404,7 @@ Anspruch genommen (Sperrbetrag):
 
 
 ##### § 278a Verhältnis zur Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011204301)
 
 (1) Auf den Grundbetrag der Hauptentschädigung werden die dem
 Berechtigten und den an seine Stelle tretenden Personen geleistete
@@ -4583,10 +4675,12 @@ Rückzahlung von Erfüllungsbeträgen geregelt werden.
 
 
 #### Dritter Titel - Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001801301)
 
 
 
 ##### § 279 Einkommenshöchstbetrag
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011310301)
 
 (1) Entschädigungsrente wird gewährt, wenn die Einkünfte des
 Berechtigten insgesamt 1.133 Deutsche Mark <angepasst auf 659 Euro>
@@ -4634,6 +4728,7 @@ Anpassung nach § 277a verändern.
 
 
 ##### § 280 Höhe der Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011403308)
 
 (1) Die Entschädigungsrente beträgt jährlich vier vom Hundert des
 Grundbetrags nach § 266 Abs. 2, in den Fällen des § 279 Abs. 1 Satz 4,
@@ -4694,6 +4789,7 @@ monatlich ergeben würde.
 
 
 ##### § 281 Vorauszahlungen auf die Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011502308)
 
 Liegen die Voraussetzungen für die Gewährung der Entschädigungsrente
 vor und macht der Berechtigte glaubhaft, daß ihm ein Vermögensschaden
@@ -4703,6 +4799,7 @@ die Entschädigungsrente in Höhe von 11 Euro monatlich gewährt werden.
 
 
 ##### § 282 Besondere Voraussetzungen der Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011602308)
 
 (1) Die Entschädigungsrente wird, wenn der Grundbetrag des
 Berechtigten den in § 280 Abs. 1 Satz 2 bezeichneten Betrag
@@ -4774,6 +4871,7 @@ ruhender Unterhaltshilfe nach § 273 Abs. 7 gewährt.
 
 
 ##### § 283 Verhältnis zur Hauptentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011703301)
 
 (1) Wird Entschädigungsrente allein gewährt, gilt im Verhältnis zur
 Hauptentschädigung folgendes:
@@ -4885,6 +4983,7 @@ auszugehen.
 
 
 ##### § 283a Verhältnis zur Hauptentschädigung bei gleichzeitigem Bezug von Unterhaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011802301)
 
 (1) Wird Entschädigungsrente neben Unterhaltshilfe gewährt, gilt im
 Verhältnis zur Hauptentschädigung § 283 mit folgender Maßgabe:
@@ -4957,6 +5056,7 @@ nach § 263 Abs. 3.
 
 
 ##### § 284 Sonderregelung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE011902308)
 
 (1) Ist ein Schaden durch Verlust der beruflichen oder sonstigen
 Existenzgrundlage festgestellt und wirkt sich dieser Verlust noch aus,
@@ -5025,6 +5125,7 @@ Unterhaltshilfe abgegolten.
 
 
 ##### § 285 Dauer der Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012001301)
 
 (1) Die Entschädigungsrente wird auf Lebenszeit, an Vollwaisen
 längstens bis zu dem in § 275 Abs. 2 bestimmten Zeitpunkt gewährt. Die
@@ -5049,21 +5150,25 @@ wird, gestellt werden muß.
 
 
 ##### § 285a
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022601301)
 
 Bei Bezug von Entschädigungsrente und besonderer laufender Beihilfe
 gilt § 276 Abs. 3a und 3b entsprechend.
 
 
 #### Vierter Titel - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG001901301)
 
 
 
 ##### § 286 Zuerkennung des Anspruchs auf Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012101301)
 
 Der Anspruch wird dem Berechtigten nach Höhe und Dauer zuerkannt.
 
 
 ##### § 287 Erfüllung des Anspruchs auf Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012204301)
 
 (1) Kriegsschadenrente wird bei Vorliegen der sonstigen
 Voraussetzungen mit Wirkung vom 1. April 1952 ab gewährt, wenn der
@@ -5101,6 +5206,7 @@ wegen Bezugs von Einkünften im Sinne des § 267 Abs. 2 Nr. 3 ruht.
 
 
 ##### § 288 Wirkung von Veränderungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012301301)
 
 (1) Nachträglich eingetretene, nach den Vorschriften dieses Abschnitts
 bedeutsame Umstände werden, soweit sie sich zugunsten des Berechtigten
@@ -5118,6 +5224,7 @@ abweicht.
 
 
 ##### § 289 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012401301)
 
 (1) Treten nachträglich Umstände ein, die für den Anspruch auf
 Kriegsschadenrente oder für seine Höhe von Bedeutung sind, so ist der
@@ -5135,6 +5242,7 @@ deren gesetzliche Vertreter, verpflichtet.
 
 
 ##### § 290 Erstattungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012506301)
 
 (1) Berechtigte sind verpflichtet, zuviel erhaltene Beträge an
 Kriegsschadenrente sowie an Unterhaltshilfe nach dem Soforthilfegesetz
@@ -5188,6 +5296,7 @@ auf unmittelbare Bewirkung von Leistungen an den Bund nach den Sätzen
 
 
 ##### § 291 Verhältnis zu Aufbaudarlehen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012601301)
 
 (1) Personen, die Vertreibungsschäden, Kriegssachschäden oder
 Ostschäden geltend machen können, kann, wenn sie die Voraussetzungen
@@ -5259,6 +5368,7 @@ sind.
 
 
 ##### § 292 Verhältnis zur Sozialhilfe, zur Sozialen Entschädigung sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012719123)
 
 (1) Für Berechtigte, bei denen trotz Bezugs von Kriegsschadenrente die
 Voraussetzungen für die Gewährung von Leistungen zur Sicherung des
@@ -5373,10 +5483,12 @@ Rentenleistung im Sinne dieses Abschnitts.
 
 
 #### Fünfter Titel - Vorschriften für die Zahlung der Kriegsschadenrente nach dem 31. Dezember 2005
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003600301)
 
 
 
 ##### § 292a Bestimmungen zur Unterhaltshilfe und Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE023002160)
 
 (1) Nach den §§ 261 bis 292 zuerkannte Ansprüche auf
 Kriegsschadenrente werden nach dem 31. Dezember 2005 nach folgenden
@@ -5426,6 +5538,7 @@ Buches Sozialgesetzbuch entsprechend.
 
 
 ##### § 292b Sterbegeld
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE023100301)
 
 (1) Für Empfänger von Kriegsschadenrente und deren Ehegatten, die am
 1\. Januar 2006 an der Sterbevorsorge nach § 277 teilnehmen, wird im
@@ -5438,6 +5551,7 @@ Kriegsschadenrente einbehalten.
 
 
 ##### § 292c Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE023200301)
 
 In den Fällen des § 292 Abs. 4 Satz 1 kann die Kriegsschadenrente
 übergeleitet werden
@@ -5462,10 +5576,12 @@ In den Fällen des § 292 Abs. 4 Satz 1 kann die Kriegsschadenrente
 
 
 ### Sechster Abschnitt - Hausratentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002001301)
 
 
 
 #### § 293 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012801301)
 
 (1) Hausratentschädigung wird gewährt zur Abgeltung von
 Vertreibungsschäden, Kriegssachschäden und Ostschäden im Sinne des §
@@ -5485,6 +5601,7 @@ Hausrats war.
 
 
 #### § 294 Übertragbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE012901301)
 
 Der Anspruch auf Hausratentschädigung kann vererbt, übertragen und
 verpfändet, jedoch nicht gepfändet werden; § 244 Sätze 2 und 3 findet
@@ -5492,6 +5609,7 @@ entsprechende Anwendung.
 
 
 #### § 295 Zuerkennung und Höhe des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013002308)
 
 (1) Der Anspruch wird dem Geschädigten nach Maßgabe der
 Schadensberechnung nach § 16 des Feststellungsgesetzes zuerkannt; die
@@ -5546,6 +5664,7 @@ Hausratentschädigung hat.
 
 
 #### § 296 Anrechnung früherer Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013102308)
 
 (1) Der Anspruch auf Hausratentschädigung wird um diejenigen
 Entschädigungszahlungen gekürzt, die für den Verlust von Hausrat auf
@@ -5567,16 +5686,19 @@ Euro anzusetzen.
 
 
 #### § 297 Erfüllung des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013201301)
 
 Die Reihenfolge der Erfüllung der Ansprüche bestimmt sich unter
 Berücksichtigung sozialer Gesichtspunkte nach der Dringlichkeit.
 
 
 ### Siebenter Abschnitt - Wohnraumhilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002101301)
 
 
 
 #### § 298 Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013301301)
 
 (1) Wohnraumhilfe kann Vertriebenen und Kriegssachgeschädigten gewährt
 werden, wenn sie nachweisen,
@@ -5609,6 +5731,7 @@ als sie vor dem 1. Februar 1953 aufgenommen worden sind.
 
 
 #### § 299 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013401301)
 
 (1) Wohnraumhilfe wird in der Weise gewährt, daß dem Geschädigten
 Gelegenheit zum Bezug einer Wohnung beschafft wird, deren
@@ -5621,6 +5744,7 @@ der im Zweiten Wohnungsbaugesetz bestimmten Rangfolgen gewährt werden.
 
 
 #### § 300 Einsatz der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013501301)
 
 Die Mittel sind so einzusetzen, daß der Bau einer möglichst großen
 Zahl von Wohnungen für Geschädigte, welche die Voraussetzungen des §
@@ -5637,10 +5761,12 @@ können.
 
 
 ### Achter Abschnitt - Härteleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002202301)
 
 
 
 #### § 301 Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013602301)
 
 (1) Zur Milderung von Härten kann für Gruppen von Personen bestimmt
 werden, daß diese Personen Leistungen erhalten, wenn ihnen Schäden
@@ -5720,6 +5846,7 @@ Arbeitnehmer berücksichtigt werden.
 
 
 #### § 301a Leistungen an Sowjetzonenflüchtlinge
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013702301)
 
 (1) Härteleistungen nach § 301 sollen insbesondere auch
 Sowjetzonenflüchtlinge im Sinne des § 3 des Bundesvertriebenengesetzes
@@ -5761,6 +5888,7 @@ Hauptentschädigung für Zonenschäden gelten.
 
 
 #### § 301b Leistungen in außergewöhnlichen Härtefällen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013804123)
 
 (1) Sofern sich aus den Vorschriften dieses Gesetzes, des
 Reparationsschädengesetzes oder des Flüchtlingshilfegesetzes
@@ -5786,10 +5914,12 @@ nur hierdurch die Härte beseitigt werden kann.
 
 
 ### Neunter Abschnitt - Sonstige Förderungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002301301)
 
 
 
 #### § 302 Bereitstellung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE013901301)
 
 Zur weiteren wirtschaftlichen und sozialen Förderung im Wege der
 Berufsausbildung Jugendlicher, der Umschulung für einen geeigneten
@@ -5803,24 +5933,29 @@ genannten Personen zugute kommen.
 
 
 #### § 303
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014002301)
 
 (weggefallen)
 
 
 ### Zehnter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002401301)
 
 
 
 #### § 304
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014102301)
 
 (weggefallen)
 
 
 ### Elfter Abschnitt - Organisation und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002502301)
 
 
 
 #### § 305 Auftragsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014201301)
 
 (1) Die Vorschriften des Dritten Teils dieses Gesetzes und der anderen
 Gesetze, die der Durchführung des Lastenausgleichs dienen, werden
@@ -5833,6 +5968,7 @@ Durchführung beauftragen.
 
 
 #### § 306 Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014302301)
 
 Im Bereich der Länder werden von der nach Landesrecht zuständigen oder
 bei Fehlen einer entsprechenden landesrechtlichen Regelung von der
@@ -5841,12 +5977,14 @@ Behörden Ausgleichsämter und Landesausgleichsämter errichtet.
 
 
 #### § 307 Bundesoberbehörde
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014401301)
 
 Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige
 Bundesoberbehörde errichtet.
 
 
 #### § 308 Ausgleichsämter
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014504308)
 
 (1) Für jeden Landkreis und jeden Stadtkreis wird innerhalb der
 allgemeinen Verwaltung oder einer anderen bestehenden Behörde ein
@@ -5882,11 +6020,13 @@ bestellt.
 
 
 #### § 309
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014602301)
 
 (weggefallen)
 
 
 #### § 310 Beschwerdeausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014703301)
 
 (1) Für den Bereich eines Stadt- oder Landkreises oder mehrerer Kreise
 wird ein Beschwerdeausschuß gebildet; bei Bedarf können mehrere
@@ -5913,6 +6053,7 @@ und 2 keine Anwendung.
 
 
 #### § 311 Landesausgleichsämter
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014802301)
 
 (1) Für jedes Land wird ein Landesausgleichsamt eingerichtet;
 erforderlichenfalls sind Außenstellen dieses Amtes einzurichten. Das
@@ -5932,6 +6073,7 @@ Ausgleichsämter seines Bereichs aus.
 
 
 #### § 312 Bundesausgleichsamt
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE014906123)
 
 (1) Das Bundesausgleichsamt wird von einem Präsidenten geleitet. Der
 Präsident des Bundesausgleichsamtes wird auf Vorschlag der
@@ -5963,6 +6105,7 @@ davon unberührt.
 
 
 #### § 313 Zuständigkeitsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015003377)
 
 (1) Die Zuständigkeit eines Landes für die Durchführung der in § 305
 Absatz 1 genannten Vorschriften kann durch Vereinbarung der nach § 306
@@ -5980,11 +6123,13 @@ mehr anzuwenden.
 
 
 #### § 314
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015102301)
 
 (weggefallen)
 
 
 #### § 315 Allgemeine Verwaltungsgerichte
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015202301)
 
 Die zur Durchführung der Vorschriften des Dritten Teils dieses
 Gesetzes erforderliche rechtsprechende Tätigkeit wird außer in den
@@ -5994,11 +6139,13 @@ Bundesverwaltungsgericht ausgeübt.
 
 
 #### § 316
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015303301)
 
 (weggefallen)
 
 
 #### § 317 Amts- und Rechtshilfe sowie Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015406116)
 
 (1) Alle Behörden und Gerichte haben den in diesem Abschnitt genannten
 Behörden unentgeltlich Amts- und Rechtshilfe zu leisten, Auskünfte zu
@@ -6050,15 +6197,18 @@ Entschädigung weggenommener Wirtschaftsgüter dienen.
 
 
 ### Zwölfter Abschnitt - Verwaltung der Mittel für den Lastenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002602301)
 
 
 
 #### § 318
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015502301)
 
 (weggefallen)
 
 
 #### § 319 Aufgaben des Präsidenten des Bundesausgleichsamtes
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015602301)
 
 (1) Der Präsident des Bundesausgleichsamtes nimmt für den Bund die
 sich aus § 5 ergebenden Aufgaben wahr.
@@ -6076,21 +6226,25 @@ Grundgesetzes aus.
 
 
 #### § 320
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015702301)
 
 (weggefallen)
 
 
 #### § 321
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015802301)
 
 (weggefallen)
 
 
 #### § 322
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE015904301)
 
 (weggefallen)
 
 
 #### § 323 Sondervorschriften über die Verwendung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016003301)
 
 (1) Für die Gewährung von Aufbaudarlehen sind im Rechnungsjahr 1957
 höchstens 650 Millionen Deutsche Mark bereitzustellen. Dieser
@@ -6207,19 +6361,23 @@ Beihilfe und der Beihilfe zur Beschaffung von Hausrat nach §§ 301,
 
 
 #### § 324
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016105301)
 
 (weggefallen)
 
 
 ### Dreizehnter Abschnitt - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002701301)
 
 
 
 #### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002801301)
 
 
 
 ##### § 325 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016201301)
 
 (1) Anträge auf Gewährung von Ausgleichsleistungen sind, soweit nichts
 anderes bestimmt wird, an das für den ständigen Aufenthalt des
@@ -6260,6 +6418,7 @@ einzureichen.
 
 
 ##### § 326 Weiterbehandlung der Anträge
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016303301)
 
 (1) Das nach § 325 zuständige Ausgleichsamt oder in den Fällen des §
 308 Abs. 1 Satz 3 und 4 das zuständig gewordene Ausgleichsamt oder
@@ -6280,6 +6439,7 @@ zugestellt worden ist.
 
 
 ##### § 327 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016403308)
 
 (1) Der Antragsteller kann sich im Verfahren vor den
 Ausgleichsbehörden und den Beschwerdeausschüssen vertreten lassen;
@@ -6354,6 +6514,7 @@ Dritten Teil dieses Gesetzes fallenden Angelegenheiten befugt.
 
 
 ##### § 328 Ausschließung von der Mitwirkung am Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016502301)
 
 Die Angehörigen der Ausgleichsbehörden, der Beschwerdeausschüsse, der
 Heimatauskunftstellen, Auskunftstellen und der bei diesen gebildeten
@@ -6365,6 +6526,7 @@ entsprechende Anwendung.
 
 
 ##### § 329 Verbindung von Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016602301)
 
 (1) Das Verfahren über die Gewährung von Ausgleichsleistungen, deren
 Gewährung von der Feststellung eines Schadens nach dem
@@ -6378,6 +6540,7 @@ Zuständigkeit für beide Verfahren bei demselben Land liegt.
 
 
 ##### § 330 Beweiserhebung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016702301)
 
 (1) Die Ausgleichsbehörden und die Beschwerdeausschüsse erheben von
 Amts wegen alle Beweise, die für die Gewährung von
@@ -6396,6 +6559,7 @@ anzuwenden.
 
 
 ##### § 330a Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022102308)
 
 (1) Antragsteller und Leistungsempfänger sowie ihre Angehörigen, Erben
 und weiteren Erben, deren persönliche und sachliche Verhältnisse für
@@ -6437,6 +6601,7 @@ innerhalb einer ihnen gesetzten angemessenen Frist nachgekommen sind.
 
 
 ##### § 331 Beweiswürdigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016802301)
 
 (1) Die Ausgleichsbehörden und die Beschwerdeausschüsse entscheiden in
 freier Beweiswürdigung darüber, welche für die Entscheidung
@@ -6450,6 +6615,7 @@ nicht berücksichtigt.
 
 
 ##### § 332 Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE016907123)
 
 (1) Entscheidungen der Ausgleichsbehörden und der Beschwerdeausschüsse
 ergehen schriftlich und sind zu begründen. Sie müssen eine Belehrung
@@ -6483,6 +6649,7 @@ Ermessen für zweckmäßig hält.
 
 
 ##### § 332a Aufgebotsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022203301)
 
 (1) Kann über einen Antrag nicht entschieden werden, weil die Person,
 der die Entscheidung zuzustellen wäre, oder ihr Aufenthalt nicht
@@ -6530,12 +6697,14 @@ Ansprüche.
 
 
 ##### § 333 Verfahren vor den Verwaltungsgerichten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017001301)
 
 Im Verfahren vor den Verwaltungsgerichten gelten die für diese
 Gerichte maßgebenden Vorschriften.
 
 
 ##### § 334 Gebühren und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017102301)
 
 (1) Das Verfahren vor den Ausgleichsbehörden und den
 Beschwerdeausschüssen ist gebührenfrei.
@@ -6557,15 +6726,18 @@ gelten die für diese Gerichte maßgebenden Vorschriften.
 
 
 ##### § 334a
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017202301)
 
 (weggefallen)
 
 
 #### Zweiter Titel - Verfahren bei Hauptentschädigung, Kriegsschadenrente und Hausratentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG002901301)
 
 
 
 ##### § 335 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017303301)
 
 (1) Über die Gewährung und Rückforderung von Ausgleichsleistungen
 entscheidet das Ausgleichsamt durch Bescheid.
@@ -6578,6 +6750,7 @@ Gesamtbescheid zu erlassen.
 
 
 ##### § 335a Bescheid unter Vorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017401301)
 
 (1) Der Bescheid oder der Teilbescheid kann in vollem Umfang oder
 hinsichtlich bestimmter Teile unter dem ausdrücklichen Vorbehalt der
@@ -6600,6 +6773,7 @@ aufgehoben werden können.
 
 
 ##### § 335b Verfahren bei Schadensausgleich an Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022800301)
 
 (1) In Fällen des § 349 Abs. 3 Satz 3 erteilt das nach § 31 Abs. 2 des
 Feststellungsgesetzes und § 33 Abs. 2 des Beweissicherungs- und
@@ -6615,6 +6789,7 @@ für die nicht ermittelten Beteiligten an die Stelle des Bescheides.
 
 
 ##### § 336 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017503301)
 
 (1) Gegen den Bescheid des Ausgleichsamtes kann der Antragsteller
 binnen eines Monats nach Zustellung Beschwerde einlegen. Über die
@@ -6637,6 +6812,7 @@ Landesausgleichsamtes eingelegt werden können.
 
 
 ##### § 337 Beschluß des Beschwerdeausschusses
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017601301)
 
 (1) Der Beschwerdeausschuß entscheidet durch Beschluß. Er kann, statt
 selbst zu entscheiden, die Sache an das Ausgleichsamt zurückverweisen.
@@ -6646,6 +6822,7 @@ der die Beschwerde eingelegt hat, ändern.
 
 
 ##### § 338 Anfechtungsklage beim Verwaltungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017803301)
 
 Gegen den Beschluß des Beschwerdeausschusses sowie den Bescheid des
 Landesausgleichsamtes, sofern hiergegen keine Beschwerde zugelassen
@@ -6655,6 +6832,7 @@ Verwaltungsgericht erheben.
 
 
 ##### § 339 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE017903301)
 
 (1) Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere
 Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt
@@ -6673,6 +6851,7 @@ Rechtsträgern Anwendung.
 
 
 ##### § 340 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018003301)
 
 (1) Die Beschwerde, die Anfechtungsklage und die Revision haben
 aufschiebende Wirkung.
@@ -6687,6 +6866,7 @@ Abs. 6 der Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 ##### § 341 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018102301)
 
 Wenn jemand ohne Verschulden verhindert war, im Verfahren vor den
 Ausgleichsbehörden und den Beschwerdeausschüssen eine Frist zur
@@ -6696,6 +6876,7 @@ der Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 ##### § 342 Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018205301)
 
 (1) Ist eine Entscheidung unanfechtbar oder rechtskräftig geworden,
 kann das Verfahren innerhalb von fünf Jahren aus den gleichen Gründen,
@@ -6730,6 +6911,7 @@ Maßgabe des § 349 zu berücksichtigen.
 
 
 ##### § 343 Erlöschen, Einstellung und Rückforderung der Kriegsschadenrente
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018304301)
 
 (1) Ändern sich die Voraussetzungen für die Gewährung von
 Kriegsschadenrente nachträglich (§ 288), so verfügt das Ausgleichsamt
@@ -6753,6 +6935,7 @@ worden sind oder hätten geleistet werden können.
 
 
 ##### § 344 Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018401301)
 
 Im Verfahren nach dem Feststellungsgesetz und im
 Feststellungsverfahren nach dem Beweissicherungs- und
@@ -6763,10 +6946,12 @@ gewährt werden können.
 
 
 #### Dritter Titel - Verfahren bei Erfüllung von Ansprüchen auf Hauptentschädigung und Hausratentschädigung sowie bei Eingliederungsdarlehen, Härteleistungen und auf Grund sonstiger Förderungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003002301)
 
 
 
 ##### § 345 Grundsatzregelung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018504301)
 
 (1) Über die Erfüllung von Ansprüchen auf Hauptentschädigung (§ 252)
 und Hausratentschädigung (§ 297) sowie über den Antrag auf Gewährung
@@ -6793,6 +6978,7 @@ gegeben, so gelten die §§ 338ff. entsprechend.
 
 
 ##### § 346 Besondere Regelung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018601301)
 
 (1) Der Präsident des Bundesausgleichsamtes kann nach Maßgabe des §
 319 Abs. 2 Satz 1 das Verfahren abweichend von den Vorschriften des §
@@ -6813,10 +6999,12 @@ allgemein festgelegten objektiven Maßstäben ergibt.
 
 
 #### Vierter Titel - Verfahren bei der Wohnraumhilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003101301)
 
 
 
 ##### § 347 Entscheidung des Ausgleichsausschusses
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018701301)
 
 Auf den Antrag auf Wohnraumhilfe entscheidet der Leiter des
 Ausgleichsamtes, ob der Antragsteller als bevorzugter Anwärter auf
@@ -6830,6 +7018,7 @@ entsprechend.
 
 
 ##### § 348 Zuteilung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018801301)
 
 (1) Die für die Wohnraumhilfe bereitgestellten Mittel sind zur
 Finanzierung des Wohnungsbaus für Geschädigte als öffentliche Mittel
@@ -6872,10 +7061,12 @@ Bundesvertriebenengesetzes gewährt worden sind.
 
 
 ### Vierzehnter Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003201301)
 
 
 
 #### § 349 Rückforderung bei Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE018913123)
 
 (1) In den Fällen des § 342 Abs. 3 sind die zuviel gewährten
 Ausgleichsleistungen nach Maßgabe der Absätze 2 bis 5 zurückzufordern.
@@ -7015,6 +7206,7 @@ schriftliche Mitteilung an den Verpflichteten unterbrochen werden.
 
 
 #### § 349a Mindestbetrag für Rückforderungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE023300301)
 
 Ausgleichsleistungen werden nicht zurückgefordert, solange der auf den
 jeweiligen Rückzahlungspflichtigen entfallende Rückforderungsbetrag 50
@@ -7022,10 +7214,12 @@ Euro unterschreitet.
 
 
 ### Fünfzehnter Abschnitt - Sonstige und Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003301301)
 
 
 
 #### § 350 Ehrenamtliche Mitarbeit
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019002301)
 
 (1) Im Geltungsbereich des Grundgesetzes und in Berlin (West) wohnende
 Personen, die zur ehrenamtlichen Mitarbeit bei der Durchführung der
@@ -7043,6 +7237,7 @@ geltenden Vorschriften.
 
 
 #### § 350a Erstattung und Verrechnung von Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019105301)
 
 (1) Empfänger von Ausgleichsleistungen, deren Erben oder weitere Erben
 sind verpflichtet, zuviel erhaltene Beträge zurückzuerstatten, soweit
@@ -7071,6 +7266,7 @@ der nach § 266 Abs. 2 ermittelte Grundbetrag entsprechend zu kürzen. §
 
 
 #### § 350b Fälligkeit, Stundung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019203301)
 
 (1) Der Rückforderungsanspruch wird einen Monat nach Zustellung des
 Leistungsbescheides fällig. Für Zwecke der Verrechnung tritt die
@@ -7098,6 +7294,7 @@ Verwaltungszwangsverfahren Anwendung finden.
 
 
 #### § 350c Verzinsung, Säumniszuschläge und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019303301)
 
 (1) Die Vorschriften des § 234 Abs. 1 und 2 und der §§ 237, 238 und
 240 der Abgabenordnung sind entsprechend anzuwenden.
@@ -7108,6 +7305,7 @@ entstehenden Auslagen trägt der Rückzahlungsverpflichtete.
 
 
 #### § 350d Abgabe und Entgegennahme von Erklärungen für den Bund
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019402301)
 
 (1) Hat der Präsident des Bundesausgleichsamtes Ausgleichsbehörden,
 Geldinstitute oder sonstige Stellen für zuständig bestimmt, Darlehen
@@ -7137,6 +7335,7 @@ erforderlich.
 
 
 #### § 350e Überleitung von Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE022301301)
 
 Wird auf Grund einer Entscheidung, die vor dem 31. Juli 1992 ergangen
 ist, die Entscheidung des Ausgleichsausschusses angerufen, so gilt
@@ -7146,16 +7345,19 @@ diese Anrufung als Beschwerde. Für das Verfahren gelten die §§ 336 bis
 
 
 #### § 351 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019502301)
 
 Die Kosten des Bundesausgleichsamtes trägt der Bund.
 
 
 #### (XXXX) §§ 352 bis 357
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE019601301)
 
 (Die Vorschriften sind überholt.)
 
 
 #### § 358 Sondervorschriften für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020201301)
 
 Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin
 (West) mit folgender Maßgabe:
@@ -7257,10 +7459,12 @@ Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin
 
 
 ## Vierter Teil - Gemeinsame Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNG003401301)
 
 
 
 ### § 359 Nichtberücksichtigung von Schäden und Verlusten, Rückerstattungsfälle
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020301301)
 
 (1) Schäden und Verluste an Vermögensgegenständen, die in Ausnutzung
 von Maßnahmen der nationalsozialistischen Gewaltherrschaft erworben
@@ -7309,6 +7513,7 @@ der Vermögensabgabe bleiben ferner unberücksichtigt
 
 
 ### § 360 Ausschließung von Ausgleichsleistungen und Vergünstigungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020404301)
 
 (1) Von Ausgleichsleistungen sowie von den Vergünstigungen bei der
 Vermögensabgabe kann unbeschadet einer strafrechtlichen oder
@@ -7363,6 +7568,7 @@ Entscheidungen gelten die Vorschriften der Reichsabgabenordnung.
 
 
 ### § 361 Vertragshilfe
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020501301)
 
 Soweit in einem Verfahren der richterlichen Vertragshilfe oder in
 einem diesem entsprechenden, der Schuldenregelung dienenden
@@ -7372,6 +7578,7 @@ auf Grund dieses Gesetzes zustehen, außer Betracht zu lassen.
 
 
 ### § 362 Vollstreckungsschutz wegen alter Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020601301)
 
 (1) Vollstreckungsmaßnahmen wegen Verbindlichkeiten, die vor dem 8.
 Mai 1945 eingegangen worden sind, hat das Vollstreckungsgericht auf
@@ -7386,6 +7593,7 @@ Antrag auf Einleitung des Vertragshilfeverfahrens stellen.
 
 
 ### § 363 Schutz gegen Inanspruchnahme aus Leistungen der Sozialhilfe oder Grundsicherung für Arbeitsuchende
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020704301)
 
 Ist der Unterhaltsanspruch eines Unterhaltsberechtigten, dem
 Sozialhilfe nach dem Zwölften Buch Sozialgesetzbuch gewährt worden ist
@@ -7400,6 +7608,7 @@ gefährdet würde.
 
 
 ### § 364 Ergänzende Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020801301)
 
 (1) Durch die in diesem Gesetz vorgesehenen Leistungen werden
 Förderungsmaßnahmen, welche der Bund, die Länder, Gemeinden und
@@ -7414,6 +7623,7 @@ durch Rechtsverordnung bestimmt werden.
 
 
 ### § 365 Altsparerregelung
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE020902301)
 
 Über die in diesem Gesetz vorgesehenen Maßnahmen zum Ausgleich von
 Sparerschäden hinaus wird bis zum 31. März 1953 eine weitergehende
@@ -7425,11 +7635,13 @@ gestellt werden.
 
 
 ### § 366
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021001301)
 
 (weggefallen)
 
 
 ### § 367 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021101301)
 
 (1) Die in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt die
 Bundesregierung mit Zustimmung des Bundesrates.
@@ -7442,11 +7654,13 @@ nicht der Zustimmung des Bundesrates.
 
 
 ### (XXXX) §§ 368 bis 372
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021201301)
 
 (Die Vorschriften sind überholt.)
 
 
 ### § 373 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung und Bereinigung des Lastenausgleichsrechts
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021702301)
 
 Die mit den Artikeln 2 und 4 bis 8 des Gesetzes zur Änderung und
 Bereinigung des Lastenausgleichsrechts vom 21. Juni 2006 (BGBl. I S.
@@ -7461,6 +7675,7 @@ insbesondere infolge Schadensausgleichs. Vergleiche, wie in § 332 Abs.
 
 
 ### § 374 Anwendung des Gesetzes in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021801301)
 
 Dieses Gesetz und die auf Grund dieses Gesetzes ergehenden
 Rechtsverordnungen, allgemeinen Verwaltungsanordnungen und Weisungen
@@ -7469,6 +7684,7 @@ dieses Gesetzes gemäß Artikel 87 Abs. 2 seiner Verfassung beschließt.
 
 
 ### § 375
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE021901301)
 
 (Inkrafttreten) \*)
 -----
@@ -7506,6 +7722,7 @@ Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III
 (BGBl. II 1990, 889, 920)
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/lag/BJNR004460952.html#BJNR004460952BJNE888801301)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -30,6 +30,7 @@ Mittelbare änderung durch
 Stand: Berichtigung vom 21.12.2021 I 5261 (Nr. 86) ist berücksichtigt
 
 ## § 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000205116)
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt
 nicht für Arzneimittel, bei deren Herstellung Elektronen-, Gamma- oder
@@ -161,6 +162,7 @@ worden sind.
 
 
 ## § 2 Verkehrsfähigkeit radioaktiver Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000302310)
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt
 nicht für radioaktive Arzneimittel, die
@@ -230,6 +232,7 @@ findet keine Anwendung auf Arzneimittel nach Absatz 1 Satz 2 und 3.
 
 
 ## § 3 Kennzeichnung, Packungsbeilage, Fachinformation
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000407116)
 
 (1) Radioaktive Arzneimittel im Sinne des § 4 Absatz 8 des
 Arzneimittelgesetzes dürfen im Geltungsbereich dieser Verordnung nur
@@ -289,12 +292,14 @@ geltenden Fassung beachtet werden.
 
 
 ## § 4 Verhältnis zum Strahlenschutzgesetz
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000502116)
 
 Die Vorschriften des Strahlenschutzgesetzes und der darauf gestützten
 Rechtsverordnungen bleiben unberührt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000604116)
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -303,6 +308,7 @@ in den Verkehr bringt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000702310)
 
 Arzneimittel, die sich am 30. Dezember 2006 im Verkehr befinden und
 den Vorschriften des § 3 unterliegen, müssen zwei Jahre nach der
@@ -318,11 +324,13 @@ Vorschriften entspricht.
 
 
 ## § 6a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE001102310)
 
 -
 
 
 ## § 7 Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000804116)
 
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem
 Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist
@@ -355,6 +363,7 @@ weiter anzuwenden.
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/amradv/BJNR005020987.html#BJNR005020987BJNE000901310)
 
 -
 

@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bmgsernano_2003/BJNR067800003.html#BJNR067800003BJNE000101116)
 
 Nach Artikel 1 Abs. 1 Satz 2 der Anordnung des Bundespräsidenten über
 die Ernennung und Entlassung der Bundesbeamten und Richter im
@@ -58,6 +59,7 @@ jeweils für ihren oder seinen Geschäftsbereich übertragen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bmgsernano_2003/BJNR067800003.html#BJNR067800003BJNE000200311)
 
 Abschnitt I dieser Anordnung ist ab dem Tag nach der Verkündung
 anzuwenden. Von diesem Zeitpunkt an ist Abschnitt I der Anordnung über
@@ -73,6 +75,7 @@ Bundessozialgerichts und des Bundesversicherungsamtes enthält.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bmgsernano_2003/BJNR067800003.html#BJNR067800003BJNE000300311)
 
 Die Bundesministerin für Gesundheit und Soziale Sicherung
 

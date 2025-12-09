@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bdo_35deutschepostagano_1999/BJNR172700999.html#BJNR172700999BJNE000100305)
 
 Auf Grund des § 1 Abs. 5 Satz 2 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353) in Verbindung mit Abschnitt II
@@ -36,11 +37,13 @@ Einzelfall wieder an uns zu ziehen.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bdo_35deutschepostagano_1999/BJNR172700999.html#BJNR172700999BJNE000200305)
 
 Diese Anordnung tritt am 1. Juli 1999 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bdo_35deutschepostagano_1999/BJNR172700999.html#BJNR172700999BJNE000300305)
 
 Deutsche Post AG
 

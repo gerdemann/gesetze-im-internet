@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordne ich
@@ -27,6 +28,7 @@ an:
 
 
 ## § 1 Zuständigkeit im Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000200000)
 
 Dem Bundesamt für Bauwesen und Raumordnung wird die Zuständigkeit für
 den Erlass von Widerspruchsbescheiden widerruflich übertragen, soweit
@@ -41,6 +43,7 @@ nur dann, soweit ihm die Befugnis zur Ernennung und Entlassung
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000300000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem
 Beamtenverhältnis wird dem Bundesamt für Bauwesen und Raumordnung
@@ -49,6 +52,7 @@ zuständig war.
 
 
 ## § 3 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000400000)
 
 Für besondere Fälle bleibt die Entscheidung im Einzelfall oder eine
 abweichende Regelung zu der Vertretung vorbehalten. Fälle von
@@ -57,11 +61,13 @@ Stadtentwicklung und Bauwesen zur Entscheidung vorzulegen.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000500000)
 
 Diese Anordnung tritt mit Wirkung vom 8. Dezember 2021 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bbrwidvertrano/BJNR0550A0025.html#BJNR0550A0025BJNE000600000)
 
 Die Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen
 

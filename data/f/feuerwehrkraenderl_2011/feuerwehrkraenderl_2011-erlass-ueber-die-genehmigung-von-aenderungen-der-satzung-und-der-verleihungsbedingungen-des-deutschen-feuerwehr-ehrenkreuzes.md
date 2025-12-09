@@ -18,11 +18,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl_2011/BJNR183200011.html#BJNR183200011BJNE000100000)
 
 (Änderungsvorschrift)
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl_2011/BJNR183200011.html#BJNR183200011BJNE000200000)
 
 Der Präsidialrat des Deutschen Feuerwehrverbandes hat am 1. Juli 2011
 die Änderung der Satzung des Deutschen Feuerwehr-Ehrenkreuzes vom 26.
@@ -41,6 +43,7 @@ Satzungsänderungen sowie die Änderungen der Verleihungsbedingungen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl_2011/BJNR183200011.html#BJNR183200011BJNE000300000)
 
 Das Bundesministerium des Innern veröffentlicht die Neufassungen der
 Satzung und der Verleihungsbedingungen sowie die Abbildung der neuen
@@ -48,6 +51,7 @@ Stufe des Deutschen Feuerwehr-Ehrenkreuzes im Bundesanzeiger.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fe_rwehrkr_nderl_2011/BJNR183200011.html#BJNR183200011BJNE000400000)
 
 Der Bundespräsident
 Der Bundesminister des Innern

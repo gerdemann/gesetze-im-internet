@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000709116)
 
 (1) Diese Verordnung findet Anwendung auf den Betrieb und die
 Einrichtung von öffentlichen Apotheken einschließlich der
@@ -52,6 +54,7 @@ S. 833), jeweils in der geltenden Fassung, bleiben unberührt.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005202116)
 
 (1) Krankenhausversorgende Apotheken sind öffentliche Apotheken, die
 gemäß § 14 Absatz 4 des Gesetzes über das Apothekenwesen ein
@@ -229,10 +232,12 @@ CoV-2.
 
 
 ## Zweiter Abschnitt - Der Betrieb von öffentlichen Apotheken
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000201307)
 
 
 
 ### § 2 Apothekenleiter
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000808116)
 
 (1) Apothekenleiter ist
 
@@ -351,6 +356,7 @@ Vertretung die Pflichten eines Apothekenleiters.
 
 
 ### § 2a Qualitätsmanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005300310)
 
 (1) Der Apothekenleiter muss ein Qualitätsmanagementsystem
 entsprechend Art und Umfang der pharmazeutischen Tätigkeiten
@@ -375,6 +381,7 @@ werden.
 
 
 ### § 3 Apothekenpersonal
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE000906116)
 
 (1) Das Apothekenpersonal darf nur entsprechend seiner Ausbildung und
 seinen Kenntnissen eingesetzt werden und ist über die bei den
@@ -519,6 +526,7 @@ Apothekengesetzes.
 
 
 ### § 4 Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001006116)
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl, Lage und
 Einrichtung geeignet sein, einen ordnungsgemäßen Apothekenbetrieb,
@@ -685,6 +693,7 @@ den anerkannten pharmazeutischen Regeln vorhanden sein.
 
 
 ### § 4a Hygienemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005400310)
 
 Der Apothekenleiter muss für das Personal und die Betriebsräume, die
 zur Arzneimittelherstellung genutzt werden, geeignete Hygienemaßnahmen
@@ -712,6 +721,7 @@ getroffen werden.
 
 
 ### § 5 Wissenschaftliche und sonstige Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001104310)
 
 In der Apotheke müssen vorhanden sein
 
@@ -740,6 +750,7 @@ vorhanden sein.
 
 
 ### § 6 Allgemeine Vorschriften über die Herstellung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001204360)
 
 (1) Arzneimittel, die in der Apotheke hergestellt werden, müssen die
 nach der pharmazeutischen Wissenschaft erforderliche Qualität
@@ -806,6 +817,7 @@ unberührt.
 
 
 ### § 7 Rezepturarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001303116)
 
 (1) Wird ein Arzneimittel auf Grund einer Verschreibung von Personen,
 die zur Ausübung der Heilkunde, Zahnheilkunde oder Tierheilkunde
@@ -925,6 +937,7 @@ Ergebnisse der Inprozesskontrollen gewährleistet ist.
 
 
 ### § 8 Defekturarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001403116)
 
 (1) Ein Defekturarzneimittel ist nach einer vorher erstellten
 schriftlichen Herstellungsanweisung herzustellen, die von einem
@@ -1024,11 +1037,13 @@ enthalten:
 
 
 ### (XXXX) §§ 9 und 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001502310)
 
 -
 
 
 ### § 11 Ausgangsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001704116)
 
 (1) Zur Herstellung von Arzneimitteln dürfen nur Ausgangsstoffe
 verwendet werden, deren ordnungsgemäße Qualität festgestellt ist. Auf
@@ -1050,6 +1065,7 @@ entsprechend.
 
 
 ### § 11a Tätigkeiten im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005500310)
 
 (1) Soweit die Apotheke die Herstellung von Arzneimitteln gemäß § 21
 Absatz 2 Nummer 1b des Arzneimittelgesetzes oder § 11 Absatz 3 oder 4
@@ -1073,6 +1089,7 @@ der Apotheke als Auftraggeber.
 
 
 ### § 12 Prüfung der nicht in der Apotheke hergestellten Fertigarzneimittel und apothekenpflichtigen Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001803116)
 
 (1) Fertigarzneimittel, die nicht in der Apotheke hergestellt worden
 sind, sind stichprobenweise zu prüfen. Dabei darf von einer über die
@@ -1106,6 +1123,7 @@ apothekenpflichtige Medizinprodukte entsprechend.
 
 
 ### § 13 Behältnisse
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE001903310)
 
 Zur Herstellung von Arzneimitteln dürfen nur primäre
 Verpackungsmaterialien verwendet werden, die gewährleisten, dass die
@@ -1115,6 +1133,7 @@ Zwecke geeignet sind.
 
 
 ### § 14 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002018126)
 
 (1) Rezepturarzneimittel müssen auf den Behältnissen und, soweit
 verwendet, den äußeren Umhüllungen, mindestens folgende Angaben
@@ -1218,6 +1237,7 @@ Arzneimittelgesetzes versehen sind.
 
 
 ### § 15 Vorratshaltung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002105130)
 
 (1) Der Apothekenleiter hat die Arzneimittel und apothekenpflichtigen
 Medizinprodukte, die zur Sicherstellung einer ordnungsgemäßen
@@ -1344,6 +1364,7 @@ Medizinprodukte sind aufzulisten.
 
 
 ### § 16 Lagerung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002204360)
 
 (1) Arzneimittel, Ausgangsstoffe, Medizinprodukte und apothekenübliche
 Waren und Prüfmittel sind übersichtlich und so zu lagern, daß ihre
@@ -1373,6 +1394,7 @@ gegebenenfalls ein Nachprüfdatum anzugeben.
 
 
 ### § 17 Erwerb und Abgabe von Arzneimitteln und Medizinprodukten
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002325360)
 
 (1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln
 berechtigten Betrieben erworben werden.
@@ -1755,6 +1777,7 @@ begründetem Verdacht auf Mißbrauch ist die Abgabe zu verweigern.
 
 
 ### § 18 Einfuhr von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002403116)
 
 (1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des
 Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
@@ -1806,6 +1829,7 @@ und dem Prüfprotokoll entsprechende Unterlagen vorliegen.
 
 
 ### § 19 Erwerb und Abgabe von verschreibungspflichtigen Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002502310)
 
 (1) Über den Erwerb und die Abgabe von verschreibungspflichtigen
 Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, sind
@@ -1872,6 +1896,7 @@ dieser Arzneimittel aufzurechnen und Abweichungen festzustellen.
 
 
 ### § 20 Information und Beratung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002603116)
 
 (1) Der Apothekenleiter muss im Rahmen des Qualitätsmanagementsystems
 sicherstellen, dass Patienten und andere Kunden sowie die zur Ausübung
@@ -1927,6 +1952,7 @@ Krankenhauses.
 
 
 ### § 21 Arzneimittelrisiken, Behandlung nicht verkehrsfähiger Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002705116)
 
 (1) Der Apothekenleiter hat dafür zu sorgen, dass bei
 Arzneimittelrisiken und nicht verkehrsfähigen Arzneimitteln die
@@ -1997,6 +2023,7 @@ Untersuchung nach Artikel 37 Buchstabe d der Delegierten Verordnung
 
 
 ### § 22 Allgemeine Dokumentation
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002809116)
 
 (1) Alle Aufzeichnungen über die Herstellung, Prüfung, Überprüfung der
 Arzneimittel im Krankenhaus und in zu versorgenden Einrichtungen im
@@ -2036,6 +2063,7 @@ dreißig Jahre aufbewahrt oder gespeichert, sind sie zu anonymisieren.
 
 
 ### § 23 Dienstbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE002905310)
 
 (1) Apotheken sind zur ständigen Dienstbereitschaft verpflichtet. Die
 zuständige Behörde befreit einen Teil der Apotheken ganz oder
@@ -2089,6 +2117,7 @@ Apotheker der Apotheke gewährleistet.
 
 
 ### § 24 Rezeptsammelstellen
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003002310)
 
 (1) Einrichtungen zum Sammeln von Verschreibungen
 (Rezeptsammelstellen) dürfen nur mit Erlaubnis der zuständigen Behörde
@@ -2122,11 +2151,13 @@ auszuliefern.
 
 
 ### § 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003104310)
 
 -
 
 
 ### § 25a Abwehr von bedrohlichen übertragbaren Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005101310)
 
 Im Falle einer bedrohlichen übertragbaren Krankheit, deren Ausbreitung
 eine sofortige und das übliche Maß erheblich überschreitende
@@ -2166,10 +2197,12 @@ Länder zur Verfügung gestellt werden.
 
 
 ## Dritter Abschnitt - Der Betrieb von Krankenhausapotheken
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000301307)
 
 
 
 ### § 26 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003203310)
 
 (1) Die Krankenhausapotheke ist die Funktionseinheit eines
 Krankenhauses, der die Sicherstellung der ordnungsgemäßen Versorgung
@@ -2185,6 +2218,7 @@ entsprechend.
 
 
 ### § 27 Leiter der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003302310)
 
 (1) Apothekenleiter ist der vom Träger des Krankenhauses angestellte
 und mit der Leitung beauftragte Apotheker.
@@ -2232,6 +2266,7 @@ Pflichten des Apothekenleiters.
 
 
 ### § 28 Personal der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003403116)
 
 (1) Das für einen ordnungsgemäßen Betrieb der Krankenhausapotheke
 notwendige Personal, insbesondere auch das pharmazeutische Personal,
@@ -2251,6 +2286,7 @@ entsprechend.
 
 
 ### § 29 Räume und Einrichtung der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003502310)
 
 (1) Die für einen ordnungsgemäßen Betrieb der Krankenhausapotheke
 notwendigen Räume müssen vorhanden sein. Dabei sind Art,
@@ -2276,6 +2312,7 @@ finden Anwendung.
 
 
 ### § 30 Vorratshaltung in der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003604130)
 
 Die zur Sicherstellung einer ordnungsgemäßen Versorgung der Patienten
 des Krankenhauses notwendigen Arzneimittel und apothekenpflichtigen
@@ -2300,6 +2337,7 @@ gehaltenen Arzneimittel und Medizinprodukte sind aufzulisten.
 
 
 ### § 31 Abgabe in der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003706116)
 
 (1) Arzneimittel und apothekenpflichtige Medizinprodukte dürfen an
 Stationen oder andere Teileinheiten des Krankenhauses nur auf Grund
@@ -2330,6 +2368,7 @@ bis 3 und Satz 2 bis 4 sowie Absatz 6a bis 6c gelten entsprechend.
 
 
 ### § 32 Überprüfung der Arzneimittelvorräte und der apothekenpflichtigen Medizinprodukte auf den Stationen
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003803310)
 
 (1) Die Verpflichtung des Leiters der Krankenhausapotheke oder eines
 von ihm beauftragten Apothekers der Apotheke zur Überprüfung der
@@ -2408,6 +2447,7 @@ aufzubewahren.
 
 
 ### § 33 Dienstbereitschaft der Krankenhausapotheke
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE003902310)
 
 Eine die ordnungsgemäße Arzneimittelversorgung des Krankenhauses
 gewährleistende Dienstbereitschaft ist durch den Inhaber der Erlaubnis
@@ -2416,10 +2456,12 @@ Apotheker der Apotheke gewährleistet ist.
 
 
 ## Vierter Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000402310)
 
 
 
 ### § 34 Patientenindividuelles Stellen oder Verblistern von Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005600310)
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind insbesondere folgende
 Festlegungen zu treffen:
@@ -2524,6 +2566,7 @@ Arzneimittelgesetzes beizufügen.
 
 
 ### § 35 Herstellung von Arzneimitteln zur parenteralen Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005701116)
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind insbesondere
 Festlegungen zu treffen
@@ -2648,6 +2691,7 @@ Behältnisses vorsehen.
 
 
 ### § 35a Vorbereitung und Durchführung von Schutzimpfungen durch öffentliche Apotheken
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE004905116)
 
 (1) Im Qualitätsmanagementsystem nach § 2a sind zur Vorbereitung und
 Durchführung von Schutzimpfungen insbesondere Festlegungen zu treffen:
@@ -2771,15 +2815,18 @@ Person und des Apothekenpersonals zu treffen.
 
 
 ### § 35b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005900116)
 
 -
 
 
 ## Fünfter Abschnitt - Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNG000500310)
 
 
 
 ### § 36 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE004010116)
 
 Ordnungswidrig im Sinne des § 25 Abs. 2 des Gesetzes über das
 Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
@@ -2977,6 +3024,7 @@ Apothekenwesen handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 37 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE004105116)
 
 (1) Auf Apotheken, für die vor dem 11. Juni 2012 eine Erlaubnis nach §
 1 Absatz 2, auch in Verbindung mit § 2 Absatz 4, des Apothekengesetzes
@@ -3008,6 +3056,7 @@ vorgesehenen Räumlichkeiten bis zum 1. Februar 2023 anzuzeigen.
 
 
 ### § 38 Übergangsvorschriften aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/apobetro_1987/BJNR005470987.html#BJNR005470987BJNE005801116)
 
 (1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem
 Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist

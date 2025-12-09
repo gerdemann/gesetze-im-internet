@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstv/BJNR271100004.html#BJNR271100004BJNE000100000)
 
 Auf Grund des § 4 Satz 3 des Alkopopsteuergesetzes vom 23. Juli 2004
 (BGBl. I S. 1857) verordnet die Bundesregierung:
 
 
 ## § 1 Berechnung des Netto-Mehraufkommens der Alkopopsteuer
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstv/BJNR271100004.html#BJNR271100004BJNE000201377)
 
 (1) Das Netto-Mehraufkommen der Alkopopsteuer ist jeweils nach Ablauf
 eines Haushaltsjahres zu ermitteln. Es ergibt sich aus der Differenz
@@ -52,6 +54,7 @@ ist der im abgelaufenen Haushaltsjahr geltende Alkoholsteuersatz nach
 
 
 ## § 2 Verrechnung der Differenz zwischen Soll- und Ist-Netto-Mehraufkommen sowie zwischen Soll- und Ist-Ausgaben für Suchtpräventionsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstv/BJNR271100004.html#BJNR271100004BJNE000300000)
 
 (1) Bei der Aufstellung des Haushaltsplans wird der Sollansatz für das
 Netto-Mehraufkommen der Alkopopsteuer entsprechend dem
@@ -69,6 +72,7 @@ gesundheitliche Aufklärung für Maßnahmen der Suchtprävention (§ 4 Satz
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/alkopopstv/BJNR271100004.html#BJNR271100004BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

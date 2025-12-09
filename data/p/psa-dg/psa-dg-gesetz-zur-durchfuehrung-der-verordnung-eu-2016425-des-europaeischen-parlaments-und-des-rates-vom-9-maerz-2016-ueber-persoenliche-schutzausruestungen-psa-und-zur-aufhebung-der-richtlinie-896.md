@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000100000)
 
 Die Notifizierungen von Konformitätsbewertungsstellen entsprechend
 Kapitel V der Verordnung (EU)
@@ -35,6 +36,7 @@ August 2015 (BGBl. I S. 1474) geändert worden ist, durchgeführt.
 
 
 ## § 2 Richtwert für Stichproben bei der Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000201126)
 
 Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob
@@ -44,6 +46,7 @@ Richtwerts nach § 25 Absatz 2 des Produktsicherheitsgesetzes.
 
 
 ## § 3 Unterrichtung bei Nichtkonformität einer PSA
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000300000)
 
 Unterrichtungen nach Artikel 38 Absatz 2 und 4 Unterabsatz 2 der
 Verordnung (EU) 2016/425 bei Nichtkonformität einer persönlichen
@@ -54,6 +57,7 @@ Europäischen Union.
 
 
 ## § 4 Nichtkonformität einer PSA in einem anderen Mitgliedstaat der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000400000)
 
 (1) Erhält die Marktüberwachungsbehörde Informationen nach Artikel 38
 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2016/425 darüber, dass in
@@ -94,6 +98,7 @@ Maßnahmen zu unterrichten.
 
 
 ## § 5 Unterrichtung bei Risiken trotz Konformität einer PSA
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000500000)
 
 Die Unterrichtung über die Feststellung, dass konforme PSA ein Risiko
 für die Gesundheit von Personen, für Haus- oder Nutztiere oder für
@@ -105,10 +110,12 @@ Kommission und an die übrigen Mitgliedstaaten der Europäischen Union.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000601126)
 
 
 
 ## § 7 Sprache der Anleitungen, der Informationen und der EU-Konformitätserklärungen
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000700000)
 
 (1) Bei PSA sind folgende Unterlagen in deutscher Sprache abzufassen:
 
@@ -133,6 +140,7 @@ abgefasst sind.
 
 
 ## § 8 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000800000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/425 des
 Europäischen Parlaments und des Rates vom 9. März 2016 über
@@ -246,6 +254,7 @@ werden.
 
 
 ## § 9 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE000900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 8 Absatz 1 Nummer 6, 11, 13, 17 oder 18
@@ -255,6 +264,7 @@ oder fremde Sachen von bedeutendem Wert gefährdet.
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/psa-dg/BJNR047500019.html#BJNR047500019BJNE001000000)
 
 PSA, die die Anforderungen der Verordnung über die Bereitstellung von
 persönlichen Schutzausrüstungen auf dem Markt in der Fassung der

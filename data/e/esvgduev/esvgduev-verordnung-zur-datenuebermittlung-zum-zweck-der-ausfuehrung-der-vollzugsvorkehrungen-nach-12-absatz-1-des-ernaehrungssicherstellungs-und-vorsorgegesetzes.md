@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000100000)
 
 Auf Grund des § 13 Absatz 3 in Verbindung mit Absatz 1 des
 Ernährungssicherstellungs- und -vorsorgegesetzes vom 4. April 2017
@@ -27,6 +28,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Zweck und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000200000)
 
 (1) Diese Verordnung dient der näheren Bestimmung der Daten, deren
 Übermittlung nach § 13 Absatz 1 Satz 1 des Ernährungssicherstellungs-
@@ -40,6 +42,7 @@ Daten übermittelt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000300000)
 
 Im Sinne dieser Verordnung ist Lebensmittelunternehmer ein
 Lebensmittelunternehmer im Sinne des Artikels 3 Nummer 3 der
@@ -53,6 +56,7 @@ S. 1) geändert worden ist.
 
 
 ## § 3 Zur Datenübermittlung verpflichtete Behörden
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000400000)
 
 (1) Zur Übermittlung der in den §§ 5 bis 9 dieser Verordnung genannten
 Daten sind die nach Absatz 2 jeweils datenerhebenden und
@@ -91,6 +95,7 @@ beziehen.
 
 
 ## § 4 Zur Datenanforderung berechtigte Behörden
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000500000)
 
 (1) Zur Datenanforderung sind diejenigen Behörden berechtigt, die für
 die Ausführung des Ernährungssicherstellungs- und -vorsorgegesetzes
@@ -107,6 +112,7 @@ sowie der Einzelangaben befugt.
 
 
 ## § 5 Übermittlung von nach der Tierische Lebensmittel-Hygieneverordnung erhobenen und gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000600000)
 
 Die in § 3 Absatz 2 Nummer 1 genannten Behörden haben folgende Daten
 der zugelassenen Betriebe nach § 9 Absatz 1 Satz 1 und Satz 2 Nummer 1
@@ -156,6 +162,7 @@ geändert worden ist, zu übermitteln:
 
 
 ## § 6 Übermittlung von nach der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene erhobenen und gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000700000)
 
 Die in § 3 Absatz 2 Nummer 1 genannten Behörden haben folgende Daten
 der registrierten Lebensmittelbetriebe nach Artikel 6 Absatz 2 der
@@ -181,6 +188,7 @@ L 74 vom 4.3.2021, S. 3) geändert worden ist, zu übermitteln:
 
 
 ## § 7 Übermittlung von nach der Viehverkehrsverordnung erhobenen und gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000800000)
 
 Die in § 3 Absatz 2 Nummer 2 genannten Behörden haben folgende Daten
 von Tierhaltungen oder Betrieben, die Rinder, Schweine, Schafe,
@@ -208,6 +216,7 @@ Tiergesundheit (ABl. L 84 vom 31.3.2016, S. 1; L 57 vom 3.3.2017, S.
 
 
 ## § 8 Übermittlung von nach der Marktordnungswaren-Meldeverordnung erhobenen und gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE000900000)
 
 Die Bundesanstalt hat folgende der erhobenen und gespeicherten Daten
 nach § 6 der Marktordnungswaren-Meldeverordnung vom 24. November 1999
@@ -236,6 +245,7 @@ bis 5 der Marktordnungswaren-Meldeverordnung zu übermitteln:
 
 
 ## § 9 Übermittlung von nach der InVeKoS-Verordnung erhobenen und gespeicherten Daten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE001000000)
 
 Die in § 3 Absatz 2 Nummer 4 genannten Behörden haben folgende der
 erhobenen und gespeicherten Daten nach den §§ 8, 10 und 16 der
@@ -270,6 +280,7 @@ V2) geändert worden ist, zu übermitteln:
 
 
 ## § 10 Art und Form der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE001100000)
 
 Die Daten sind in einem maschinenlesbaren Format an die zur
 Datenanforderung berechtigten Behörden zu übermitteln oder den zur
@@ -282,6 +293,7 @@ verfügt.
 
 
 ## § 11 Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE001200000)
 
 Bei der Verarbeitung personenbezogener Daten haben die zur
 Datenübermittlung verpflichteten Behörden zu gewährleisten, dass die
@@ -291,11 +303,13 @@ getroffen werden.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE001300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/esvgd_v/BJNR04C0A0023.html#BJNR04C0A0023BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000100000)
 
 Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und §
 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S.
@@ -28,6 +29,7 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und §
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000207130)
 
 Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33
 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes in der bis zum 31.
@@ -129,6 +131,7 @@ Fassung wird für den jeweiligen Kommando- oder Geschäftsbereich
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000301130)
 
 (1) Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2
 Satz 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024
@@ -143,6 +146,7 @@ Disziplinarverfahren den in § 1 genannten Dienstvorgesetzten
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000400000)
 
 Die Zuständigkeit zum Erlass des Widerspruchsbescheids nach § 42
 Absatz 1 des Bundesdisziplinargesetzes wird der nächsthöheren Behörde
@@ -152,6 +156,7 @@ erlassen hat, den Widerspruchsbescheid.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000501130)
 
 Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und
 Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes
@@ -164,6 +169,7 @@ disziplinarrechtlich zuständig gewesen ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbdgano/BJNR159600013.html#BJNR159600013BJNE000600000)
 
 Diese Anordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die
 Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und

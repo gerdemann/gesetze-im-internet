@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -34,6 +35,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000200000)
 
 Der Ausbildungsberuf Fahrzeuglackierer/Fahrzeuglackiererin wird
 
@@ -49,6 +51,7 @@ staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000300000)
 
 (1) Die Ausbildung dauert drei Jahre.
 
@@ -61,6 +64,7 @@ Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000400000)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -77,6 +81,7 @@ ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000500000)
 
 Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan
 (Anlage) während einer Dauer von acht Wochen wie folgt in
@@ -102,6 +107,7 @@ sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
 
 ## § 5 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000600000)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -158,6 +164,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 6 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000700000)
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
 der Anlage für die berufliche Grundbildung und für die berufliche
@@ -171,6 +178,7 @@ Abweichung erfordern.
 
 
 ## § 7 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000800000)
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
@@ -178,6 +186,7 @@ zu erstellen.
 
 
 ## § 8 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE000900000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -186,6 +195,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 9 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE001000000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -220,6 +230,7 @@ Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
 
 ## § 10 Abschlussprüfung, Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE001100000)
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der
 Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -366,6 +377,7 @@ ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE001200000)
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -387,12 +399,14 @@ Berufsgrundbildungsjahres vorgesehen ist.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 6)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+[Direktlink](https://www.gesetze-im-internet.de/fzglackausbv/BJNR108300003.html#BJNR108300003BJNE001400000)
 
 (Fundstelle: BGBl. I 2003, 1086 - 1092)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000102128)
 
 Dieses Gesetz findet Anwendung auf
 
@@ -52,6 +53,7 @@ Dieses Gesetz findet Anwendung auf
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000202128)
 
 Im Sinne dieses Gesetzes sind
 
@@ -176,6 +178,7 @@ Im Sinne dieses Gesetzes sind
 [^F789197_02_BJNR148310010BJNE000202128]: 
 
 ## § 3 Energieeinsparziele
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000303119)
 
 (1) Ziel der Maßnahmen nach diesem Gesetz ist es, die Effizienz der
 Energienutzung durch Endkunden in Deutschland mit
@@ -233,6 +236,7 @@ Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und
 
 
 ## § 4 Information und Beratung der Endkunden; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000400000)
 
 (1) Energielieferanten unterrichten ihre Endkunden mindestens jährlich
 in geeigneter Form über die Wirksamkeit von Energieeffizienzmaßnahmen
@@ -274,6 +278,7 @@ zu stellen sind.
 
 
 ## § 5 Verbot der Behinderung oder Beeinträchtigung durch Energieunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000501118)
 
 Energieunternehmen haben alle Handlungen zu unterlassen, die
 
@@ -293,6 +298,7 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 
 ## § 6 Information der Marktteilnehmer
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000602128)
 
 (1) Die Bundesstelle für Energieeffizienz sorgt dafür, dass die
 Informationen über Energieeffizienzmechanismen und die zur Erreichung
@@ -312,6 +318,7 @@ Verfügung gestellten Informationen wird nicht gehaftet.
 
 
 ## § 7 Anbieterliste und Energieauditorenliste; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000701118)
 
 (1) Anbieter von Energiedienstleistungen, Energieaudits oder
 Energieeffizienzmaßnahmen können sich vorbehaltlich der Absätze 2 und
@@ -359,6 +366,7 @@ festzulegen,
 
 
 ## § 8 Verpflichtung zur Durchführung von Energieaudits; Verpflichtungsbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000802128)
 
 (1) Alle Unternehmen im Sinne des § 1 Nummer 4 sind verpflichtet, ein
 Energieaudit nach Maßgabe dieses Gesetzes durchzuführen. Gerechnet vom
@@ -407,6 +415,7 @@ ein Energieaudit durchgeführt werden müsste, vorausgeht.
 
 
 ## § 8a Anforderungen an Energieaudits; Verfügbarkeit von Energieaudits
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001402128)
 
 (1) Das Energieaudit nach § 8 Absatz 1 muss
 
@@ -467,6 +476,7 @@ zu entwickeln und zu fördern.
 [^F827720_13_BJNR148310010BJNE001402128]: 
 
 ## § 8b Anforderungen an die das Energieaudit durchführenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001502128)
 
 (1) Das Energieaudit ist von einer Person durchzuführen, die auf Grund
 ihrer Ausbildung oder beruflichen Qualifizierung, ihrer praktischen
@@ -541,6 +551,7 @@ als Energieauditoren nicht benachteiligt werden.
 
 
 ## § 8c Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001601128)
 
 (1) Unternehmen sind verpflichtet, spätestens zwei Monate nach der
 Durchführung eines Energieaudits gemäß § 8 Absatz 1 und 2 dieses
@@ -715,6 +726,7 @@ Freistellung nach § 8 Absatz 4 erfolgt durch geeignete Belege.
 
 
 ## § 8d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001702128)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
@@ -741,6 +753,7 @@ Einzelheiten zu regeln
 
 
 ## § 9 Bundesstelle für Energieeffizienz
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE000904128)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle nimmt die
 Aufgaben der Bundesstelle für Energieeffizienz wahr.
@@ -857,6 +870,7 @@ Fachaufsicht des Bundesministeriums für Wirtschaft und Energie.
 
 
 ## § 10 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001002128)
 
 (1) Bei der Bundesstelle für Energieeffizienz wird ein Beirat für
 Fragen der Energieeffizienz gebildet, in dem Energiedienstleister,
@@ -879,6 +893,7 @@ Bundesministeriums für Wirtschaft und Energie bedarf.
 
 
 ## § 11 Datenerhebung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001101118)
 
 (1) Zur Erfüllung ihrer Aufgaben kann die Bundesstelle für
 Energieeffizienz von Energieunternehmen die Übermittlung
@@ -911,6 +926,7 @@ des Bundesrates
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001202128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -951,6 +967,7 @@ und Ausfuhrkontrolle.
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html#BJNR148310010BJNE001302128)
 
 (1) Der erstmalige Nachweis über die Erfüllung der Anforderung im
 Sinne von § 8b Absatz 1 Satz 2 Nummer 3 ist von allen Personen, die

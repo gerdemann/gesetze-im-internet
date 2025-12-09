@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000100000)
 
 Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -31,6 +32,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000200000)
 
 Die Meisterprüfung im zulassungsfreien Sattler- und Feintäschner-
 Handwerk umfasst folgende selbständige Prüfungsteile:
@@ -53,6 +55,7 @@ Handwerk umfasst folgende selbständige Prüfungsteile:
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000300000)
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling
 befähigt ist,
@@ -153,12 +156,14 @@ Qualifikationen zu berücksichtigen:
 
 
 ## § 3 Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000400000)
 
 Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein
 Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Vorschläge des Prüflings für den
@@ -218,6 +223,7 @@ Prozent, die durchgeführten Arbeiten einschließlich Dokumentation mit
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000600000)
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
 Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er
@@ -239,6 +245,7 @@ befähigt ist,
 
 
 ## § 6 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000700000)
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als
 sechs Arbeitstage, das Fachgespräch nicht länger als 30 Minuten
@@ -256,6 +263,7 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 
 ## § 7 Gliederung, Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000801360)
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2
 Nr. 1 bis 3 genannten Handlungsfeldern seine Handlungskompetenz
@@ -445,6 +453,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE000902128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -455,6 +464,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 9 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE001001360)
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
@@ -462,6 +472,7 @@ bisherigen Vorschriften zu Ende geführt.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sattlfeintmstrv/BJNR173300008.html#BJNR173300008BJNE001100000)
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2023-08-11/BJNR0F20A0023.html#BJNR0F20A0023BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-
@@ -67,11 +68,13 @@ gestaltet.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2023-08-11/BJNR0F20A0023.html#BJNR0F20A0023BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2023-08-11/BJNR0F20A0023.html#BJNR0F20A0023BJNE000300000)
 
 (Fundstelle: BGBl. 2023 I Nr. 242, S. 2)
 

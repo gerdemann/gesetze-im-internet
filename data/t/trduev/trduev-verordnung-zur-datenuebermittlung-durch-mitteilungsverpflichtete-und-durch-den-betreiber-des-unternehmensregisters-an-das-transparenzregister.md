@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 des Geldwäschegesetzes vom 23. Juni 2017
 (BGBl. I S. 1822) verordnet das Bundesministerium der Finanzen im
@@ -29,6 +30,7 @@ Verbraucherschutz:
 
 
 ## § 1 Registrierung im Transparenzregister und Übermittlung der Mindestangaben
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000200000)
 
 (1) Für die Übermittlung der Mitteilung einer Vereinigung nach § 20
 Absatz 1 Satz 1 des Geldwäschegesetzes und einer Rechtsgestaltung nach
@@ -90,6 +92,7 @@ Registrierungsaufwand gewährleisten.
 
 
 ## § 2 Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000300000)
 
 Kommt es zu einer Änderung bei den Mindestangaben nach § 1 Absatz 3
 Nummer 1 bis 5, so ist der Registrierende verpflichtet, im
@@ -98,6 +101,7 @@ beauftragte Person unverzüglich zu ändern.
 
 
 ## § 3 Übermittlung der Angaben zu wirtschaftlich Berechtigten
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000401311)
 
 (1) Die Übermittlung der Angaben zu wirtschaftlich Berechtigten nach §
 20 Absatz 1 Satz 1 und § 21 Absatz 1 Satz 1 des Geldwäschegesetzes ist
@@ -121,6 +125,7 @@ vergleichbarem Aufwand gewährleisten.
 
 
 ## § 4 Übermittlung der Indexdaten durch den Betreiber des Unternehmensregisters
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000500000)
 
 (1) Zur Ermöglichung des Zugangs zu Bekanntmachungen nach § 22 Absatz
 1 Satz 1 Nummer 2 des Geldwäschegesetzes und Stimmrechtsmitteilungen
@@ -174,6 +179,7 @@ Transparenzregisters die Indexdaten aufbereiten oder verändern muss.
 
 
 ## § 5 Änderung und Aktualisierung der Indexdaten
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000600000)
 
 (1) Der Betreiber des Unternehmensregisters übermittelt Änderungen der
 Indexdaten nach § 4 unverzüglich der registerführenden Stelle.
@@ -187,6 +193,7 @@ Transparenzregisters nicht beeinträchtigt wird.
 
 
 ## § 6 Störungen bei der Indexdatenübermittlung, Sicherheitskonzept für das Transparenzregister
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000700000)
 
 (1) Kommt es während einer Übermittlung der Indexdaten nach § 4 zu
 Störungen oder Unterbrechungen, soll dies demjenigen, der die Daten
@@ -199,6 +206,7 @@ Sicherheitskonzept für das Transparenzregister.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/trd_v/BJNR209000017.html#BJNR209000017BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

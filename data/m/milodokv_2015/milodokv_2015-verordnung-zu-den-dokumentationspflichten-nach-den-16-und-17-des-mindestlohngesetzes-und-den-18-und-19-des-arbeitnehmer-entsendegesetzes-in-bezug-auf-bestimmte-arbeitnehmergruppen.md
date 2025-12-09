@@ -22,6 +22,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 802-5-4 v. 18.12.2014 BAnz AT 29.12.2014 V1 (MiLoDokV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/milodokv_2015/BJNR621200015.html#BJNR621200015BJNE000100000)
 
 Auf Grund des § 17 Absatz 3 des Mindestlohngesetzes vom 11. August
 2014 (BGBl. I S. 1348) und des § 19 Absatz 3 des Arbeitnehmer-
@@ -32,6 +33,7 @@ für Arbeit und Soziales:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/milodokv_2015/BJNR621200015.html#BJNR621200015BJNE000204126)
 
 (1) Die Pflicht zur Abgabe einer schriftlichen Anmeldung nach § 16
 Absatz 1 oder 3 des Mindestlohngesetzes, sowie die Pflicht zum
@@ -71,6 +73,7 @@ Erfüllung der in Absatz 1 oder 2 genannten Voraussetzungen ergibt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/milodokv_2015/BJNR621200015.html#BJNR621200015BJNE000300000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Mindestlohndokumentationspflichten-Verordnung vom 18. Dezember

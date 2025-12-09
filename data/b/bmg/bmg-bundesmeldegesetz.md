@@ -22,14 +22,17 @@ Stand: Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 Stand: Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000101116)
 
 
 ### § 1 Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000201116)
 
 Meldebehörden sind die durch Landesrecht dazu bestimmten Behörden.
 
 
 ### § 2 Aufgaben und Befugnisse der Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000302116)
 
 (1) Die Meldebehörden haben die in ihrem Zuständigkeitsbereich
 wohnhaften Personen (Einwohner) zu registrieren, um deren Identität
@@ -53,6 +56,7 @@ betroffene Person in die Datenverarbeitung eingewilligt hat.
 
 
 ### § 3 Speicherung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000418130)
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 Absatz 1 und 3 speichern die
 Meldebehörden folgende Daten sowie die zum Nachweis ihrer Richtigkeit
@@ -337,6 +341,7 @@ erforderlichen Hinweise im Melderegister:
 
 
 ### § 4 Ordnungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000502116)
 
 (1) Die Meldebehörden dürfen ihre Register mit Hilfe von
 Ordnungsmerkmalen führen. Die Ordnungsmerkmale können aus den in § 3
@@ -370,6 +375,7 @@ Meldebehörde angehört.
 
 
 ### § 5 Zweckbindung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000604116)
 
 (1) Die Meldebehörde darf die Daten, die nach § 3 Absatz 1 Nummer 17a
 gespeichert sind, nur noch im Verkehr mit der Registerbehörde für das
@@ -405,6 +411,7 @@ die Meldebehörden übermittelt werden.
 
 
 ### § 6 Richtigkeit und Vollständigkeit des Melderegisters
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000703360)
 
 (1) Ist das Melderegister unrichtig oder unvollständig, hat es die
 Meldebehörde nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU)
@@ -437,6 +444,7 @@ Satz 2 und Absatz 2 entsprechend anzuwenden.
 
 
 ### § 7 Meldegeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000802116)
 
 (1) Personen, die bei Meldebehörden oder anderen Stellen, die im
 Auftrag der Meldebehörden handeln, beschäftigt sind, ist es verboten,
@@ -450,9 +458,11 @@ Tätigkeit fort.
 
 
 ## Abschnitt 2 - Schutzrechte
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000201116)
 
 
 ### § 8 Schutzwürdige Interessen der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE000902116)
 
 Schutzwürdige Interessen der betroffenen Person dürfen durch die
 Verarbeitung personenbezogener Daten nicht beeinträchtigt werden.
@@ -465,10 +475,12 @@ Rechtsvorschrift vorgeschrieben ist.
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001002116)
 
 
 
 ### § 10 Auskunftsrecht der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001107360)
 
 (1) Vor der Erteilung der Auskunft an die betroffene Person nach
 Artikel 15 der Verordnung (EU) 2016/679 hat die Meldebehörde die
@@ -488,6 +500,7 @@ durch Rechtsverordnung nach § 56 Absatz 1 Nummer 6 festgelegt.
 
 
 ### § 11 Auskunftsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001204360)
 
 (1) Das Recht auf Auskunft der betroffenen Person über die Kategorien
 der übermittelten Daten und über die Empfänger der Daten nach Artikel
@@ -613,6 +626,7 @@ Datenschutz persönlich Auskunft.
 
 
 ### § 12 Recht auf Berichtigung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001302116)
 
 Hat die Meldebehörde die Daten auf Antrag der betroffenen Person nach
 Artikel 16 der Verordnung (EU) 2016/679 berichtigt oder
@@ -623,6 +637,7 @@ eingeschränkt.
 
 
 ### § 13 Aufbewahrung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001409130)
 
 (1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebehörde
 für die Erfüllung ihrer Aufgaben weiterhin die in § 3 Absatz 1 Nummer
@@ -680,6 +695,7 @@ Staat. Satz 2 gilt nicht, wenn
 
 
 ### § 14 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001507116)
 
 (1) Die Meldebehörde hat gespeicherte Daten zu löschen, wenn sie zur
 Erfüllung ihrer Aufgaben nicht mehr erforderlich sind. Das Gleiche
@@ -708,12 +724,14 @@ Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU)
 
 
 ### § 15 Aufbewahrung und Löschung von Hinweisen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001601116)
 
 Die §§ 13 und 14 gelten entsprechend für Hinweise, die gespeichert
 werden, um die Richtigkeit der jeweiligen Daten nachzuweisen.
 
 
 ### § 16 Anbieten von Daten an Archive
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001702116)
 
 (1) Nach Ablauf der in § 13 Absatz 2 Satz 1 für die Aufbewahrung
 bestimmten Frist hat die Meldebehörde die Daten und die zum Nachweis
@@ -731,9 +749,11 @@ das Archiv die übernommenen Daten und Hinweise nur nach Maßgabe des §
 
 
 ## Abschnitt 3 - Allgemeine Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000301116)
 
 
 ### § 17 Anmeldung, Abmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001802360)
 
 (1) Wer eine Wohnung bezieht, hat sich innerhalb von zwei Wochen nach
 dem Einzug bei der Meldebehörde anzumelden.
@@ -760,6 +780,7 @@ nach § 139b der Abgabenordnung mit.
 
 
 ### § 18 Meldebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE001904360)
 
 (1) Die Meldebehörde erteilt der betroffenen Person auf deren Antrag
 eine schriftliche oder elektronische Meldebescheinigung. Die
@@ -798,6 +819,7 @@ bis 3 entsprechend.
 
 
 ### § 18a Meldedatensatz zum Abruf
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE006201116)
 
 (1) Die Meldebehörde stellt der betroffenen Person auf deren Antrag
 die Meldedaten nach § 18 Absatz 1 und 2 zum Zweck der Weiterleitung in
@@ -815,6 +837,7 @@ bis 3 entsprechend.
 
 
 ### § 19 Mitwirkung des Wohnungsgebers
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002003116)
 
 (1) Der Wohnungsgeber ist verpflichtet, bei der Anmeldung mitzuwirken.
 Hierzu hat der Wohnungsgeber oder eine von ihm beauftragte Person der
@@ -869,6 +892,7 @@ stattfindet noch beabsichtigt ist.
 
 
 ### § 20 Begriff der Wohnung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002101116)
 
 Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum
 Wohnen oder Schlafen benutzt wird. Als Wohnung gilt auch die
@@ -878,6 +902,7 @@ nur gelegentlich fortbewegt werden.
 
 
 ### § 21 Mehrere Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002202360)
 
 (1) Hat ein Einwohner mehrere Wohnungen im Inland, so ist eine dieser
 Wohnungen seine Hauptwohnung.
@@ -898,6 +923,7 @@ alleinige Wohnung oder die Hauptwohnung zuständig ist, mitzuteilen.
 
 
 ### § 22 Bestimmung der Hauptwohnung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002301116)
 
 (1) Hauptwohnung eines verheirateten oder eine Lebenspartnerschaft
 führenden Einwohners, der nicht dauernd getrennt von seiner Familie
@@ -923,6 +949,7 @@ Jahre alt ist, seine Hauptwohnung.
 
 
 ### § 23 Erfüllung der allgemeinen Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002405360)
 
 (1) Soweit nachstehend nicht etwas anderes bestimmt ist, hat die
 meldepflichtige Person einen Meldeschein auszufüllen, zu
@@ -985,6 +1012,7 @@ des zuletzt im Melderegister gespeicherten Ausweises oder Passes nach
 
 
 ### § 23a Elektronische Anmeldung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE006102116)
 
 (1) Die meldepflichtige Person darf bei der Wegzugsmeldebehörde die
 nach § 3 Absatz 1 Nummer 1 bis 18 und Absatz 2 Nummer 4 gespeicherten
@@ -1012,6 +1040,7 @@ versendet und von dieser bestätigt wird, ersetzt werden.
 
 
 ### § 24 Datenerhebung, Meldebestätigung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002505130)
 
 (1) Bei der An- oder Abmeldung oder der Änderung der Hauptwohnung
 dürfen bei der meldepflichtigen Person die in § 3 Absatz 1 Nummer 1
@@ -1052,6 +1081,7 @@ Meldebestätigung). Diese darf nur folgende Daten enthalten:
 
 
 ### § 25 Mitwirkungspflichten der meldepflichtigen Person
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002601116)
 
 Die meldepflichtige Person hat auf Verlangen der Meldebehörde
 
@@ -1069,6 +1099,7 @@ Die meldepflichtige Person hat auf Verlangen der Meldebehörde
 
 
 ### § 26 Befreiung von der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002701116)
 
 Von der Meldepflicht nach § 17 Absatz 1 und 2 sind befreit
 
@@ -1090,6 +1121,7 @@ wenn Gegenseitigkeit besteht.
 
 
 ### § 27 Ausnahmen von der Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002804360)
 
 (1) Eine Meldepflicht nach § 17 Absatz 1 und 2 wird nicht begründet,
 wenn eine Person, die für eine Wohnung im Inland gemeldet ist, eine
@@ -1174,9 +1206,11 @@ nach § 23 Absatz 1.
 
 
 ## Abschnitt 4 - Besondere Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000401116)
 
 
 ### § 28 Besondere Meldepflichten für Binnenschiffer und Seeleute
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE002901116)
 
 (1) Wer auf ein Binnenschiff zieht, das in einem Schiffsregister im
 Inland eingetragen ist, hat sich bei der Meldebehörde des Ortes
@@ -1205,6 +1239,7 @@ haben.
 
 
 ### § 29 Besondere Meldepflicht in Beherbergungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003004130)
 
 (1) Wer in Einrichtungen, die der gewerbs- oder geschäftsmäßigen
 Aufnahme von Personen dienen (Beherbergungsstätten), für länger als
@@ -1306,6 +1341,7 @@ zur Erfüllung der Meldepflicht anbietet.
 
 
 ### § 30 Besondere Meldescheine für Beherbergungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003103130)
 
 (1) Die Leiter der Beherbergungsstätten oder der Einrichtungen nach §
 29 Absatz 4 haben besondere Meldescheine bereitzuhalten. Sie können
@@ -1393,6 +1429,7 @@ verarbeitet werden.
 
 
 ### § 31 Verarbeitungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003203116)
 
 Die nach § 30 Absatz 2 erhobenen Daten dürfen von den nach Landesrecht
 bestimmten Behörden und den in § 34 Absatz 4 Satz 1 Nummer 1 bis 5 und
@@ -1405,6 +1442,7 @@ Fremdenverkehrsstatistik verarbeitet werden.
 
 
 ### § 32 Besondere Meldepflicht in Krankenhäusern, Heimen und ähnlichen Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003301116)
 
 (1) Wer in Krankenhäusern, Pflegeheimen oder sonstigen Einrichtungen,
 die der Betreuung pflegebedürftiger oder behinderter Menschen oder der
@@ -1448,12 +1486,15 @@ Auskunft umfasst folgende Daten:
 
 
 ## Abschnitt 5 - Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000501116)
 
 
 ### Unterabschnitt 1 - Datenübermittlungen zwischen öffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000601116)
 
 
 #### § 33 Datenübermittlungen zwischen den Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003405130)
 
 (1) Hat sich eine Person bei einer Meldebehörde angemeldet, so hat
 diese die Wegzugsmeldebehörde und die für weitere Wohnungen
@@ -1506,6 +1547,7 @@ gebührenfrei.
 
 
 #### § 34 Datenübermittlungen an andere öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003512130)
 
 (1) Die Meldebehörde darf einer anderen öffentlichen Stelle im Sinne
 von § 2 Absatz 1 bis 3 und 4 Satz 2 des Bundesdatenschutzgesetzes im
@@ -1808,6 +1850,7 @@ Meldebeständen oder Portalen auf Landesebene bleiben unberührt.
 
 
 #### § 34a Personensuche und freie Suche im automatisierten Abruf
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE006304130)
 
 (1) Ein Abruf ist nur zulässig, soweit die Daten der abrufenden Stelle
 zur Erfüllung ihrer Aufgaben bekannt sein müssen.
@@ -1851,6 +1894,7 @@ Bedienstete die Daten erhält oder erhalten.
 
 
 #### § 35 Datenübermittlungen an ausländische Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003601116)
 
 Im Rahmen von Tätigkeiten, die ganz oder teilweise in den
 Anwendungsbereich des Rechts der Europäischen Union fallen, gilt § 34
@@ -1874,6 +1918,7 @@ Vereinbarungen, wenn Daten übermittelt werden an
 
 
 #### § 36 Regelmäßige Datenübermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003702116)
 
 (1) Datenübermittlungen an andere öffentliche Stellen, die ohne
 Ersuchen in allgemein bestimmten Fällen regelmäßig wiederkehrend
@@ -1892,6 +1937,7 @@ jeden Jahres durch ortsübliche Bekanntmachung hinzuweisen.
 
 
 #### § 37 Datenweitergabe
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003803360)
 
 (1) Innerhalb der Verwaltungseinheit, der die Meldebehörde angehört,
 dürfen unter den in § 34 Absatz 1 genannten Voraussetzungen sämtliche
@@ -1911,6 +1957,7 @@ ihrer Aufgaben erforderlich ist. § 34a Absatz 5 gilt entsprechend.
 
 
 #### § 38 Auswahldaten für automatisierte Abrufe und für Datenübermittlungen über Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE003909116)
 
 (1) Für automatisierte Abrufe von Daten mittels Personensuche sind aus
 dem Datenkatalog nach § 34 Absatz 1 Satz 1 folgende Auswahldaten zu
@@ -2011,6 +2058,7 @@ unberührt.
 
 
 #### § 39 Verfahren des automatisierten Abrufs
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004003360)
 
 (1) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die
 abrufberechtigte Stelle durch geeignete technische und
@@ -2041,6 +2089,7 @@ automatisierten Abrufs trägt die abrufende Stelle. Die Meldebehörde
 
 
 #### § 39a Datenbestätigung für öffentliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE006400360)
 
 (1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
 die sie von einer anderen öffentlichen Stelle im Wege einer
@@ -2066,6 +2115,7 @@ anzuwenden.
 
 
 #### § 40 Protokollierungspflicht bei automatisiertem Abruf und bei Datenbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004103360)
 
 (1) Die Meldebehörde hat bei einer Personensuche im automatisierten
 Abruf und bei einer Datenbestätigung Folgendes zu protokollieren:
@@ -2140,6 +2190,7 @@ Auskunftserteilung an die betroffene Person verarbeitet werden.
 
 
 #### § 41 Zweckbindung übermittelter Daten und Hinweise
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004202116)
 
 Die Empfänger dürfen die Daten und Hinweise, soweit gesetzlich nichts
 anderes bestimmt ist, nur für die Zwecke verarbeiten, zu deren
@@ -2151,6 +2202,7 @@ ausgeschlossen werden kann.
 
 
 #### § 42 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004306360)
 
 (1) Die Meldebehörde darf einer öffentlich-rechtlichen
 Religionsgesellschaft unter den in § 34 Absatz 1 Satz 1 genannten
@@ -2310,13 +2362,16 @@ durch Landesrecht zu bestimmende Behörde.
 
 
 #### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004403116)
 
 
 
 ### Unterabschnitt 2 - Melderegisterauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000701116)
 
 
 #### § 44 Einfache Melderegisterauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004503116)
 
 (1) Wenn eine Person zu einer anderen Person oder wenn eine andere als
 die in § 34 Absatz 1 Satz 1 oder § 35 bezeichnete Stelle Auskunft
@@ -2389,6 +2444,7 @@ angegeben wurde.
 
 
 #### § 45 Erweiterte Melderegisterauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004602116)
 
 (1) Soweit ein berechtigtes Interesse glaubhaft gemacht wird, darf zu
 den in § 44 Absatz 1 genannten Daten einzelner bestimmter Personen
@@ -2438,6 +2494,7 @@ an der Erfüllung der Informationspflicht überwiegt.
 
 
 #### § 46 Gruppenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004701116)
 
 (1) Eine Melderegisterauskunft über eine Vielzahl nicht namentlich
 bezeichneter Personen (Gruppenauskunft) darf nur erteilt werden, wenn
@@ -2497,6 +2554,7 @@ Daten mitgeteilt werden:
 
 
 #### § 47 Zweckbindung der Melderegisterauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004801116)
 
 (1) Bei Melderegisterauskünften nach § 44 zu gewerblichen Zwecken und
 bei Melderegisterauskünften nach den §§ 45 und 46 sowie bei Vorliegen
@@ -2509,12 +2567,14 @@ für Dritte erhoben werden, dürfen diese nicht wiederverwendet werden.
 
 
 #### § 48 Melderegisterauskunft für öffentlich-rechtliche Rundfunkanstalten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE004902116)
 
 Soweit öffentlich-rechtliche Rundfunkanstalten publizistisch tätig
 sind, sind sie keine öffentlichen Stellen im Sinne dieses Gesetzes.
 
 
 #### § 49 Automatisierte Melderegisterauskunft
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005005360)
 
 (1) Einfache Melderegisterauskünfte können auch auf Datenträgern
 erteilt werden, die sich automatisiert verarbeiten lassen. Die der
@@ -2627,6 +2687,7 @@ veranlassenden Stelle nach § 51 Absatz 3 bleibt unberührt.
 
 
 #### § 49a Datenbestätigung
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE006500360)
 
 (1) Die Meldebehörde darf Daten einer namentlich bestimmten Person,
 die sie im Wege einer maschinellen Anfrage erhält, automatisiert auf
@@ -2651,6 +2712,7 @@ und 5 gilt entsprechend.
 
 
 #### § 50 Melderegisterauskünfte in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005102116)
 
 (1) Die Meldebehörde darf Parteien, Wählergruppen und anderen Trägern
 von Wahlvorschlägen im Zusammenhang mit Wahlen und Abstimmungen auf
@@ -2727,6 +2789,7 @@ bedingter Sperrvermerk nach § 52 eingetragen ist.
 
 
 #### § 51 Auskunftssperren
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005207360)
 
 (1) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass der
 betroffenen oder einer anderen Person durch eine Melderegisterauskunft
@@ -2779,6 +2842,7 @@ unterrichten, wenn die betroffene Person nicht erreichbar ist.
 
 
 #### § 52 Bedingter Sperrvermerk
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005304360)
 
 (1) Die Meldebehörde richtet unentgeltlich einen bedingten
 Sperrvermerk für derzeitige Anschriften der Personen ein, die nach
@@ -2807,9 +2871,11 @@ aktuelle Anschrift beauskunften.
 
 
 ### Unterabschnitt 3 - Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000801116)
 
 
 #### § 53 Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005402360)
 
 Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11.
 Dezember 2001 (BGBl. I S. 3510), das durch Artikel 2 Absatz 12 des
@@ -2820,9 +2886,11 @@ und 49 unberührt.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG000901116)
 
 
 ### § 54 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005503116)
 
 (1) Ordnungswidrig handelt, wer entgegen § 19 Absatz 6 eine
 Wohnanschrift anbietet oder zur Verfügung stellt.
@@ -2885,9 +2953,11 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
 
 
 ## Abschnitt 7 - Sonstige Vorschriften, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNG001001116)
 
 
 ### § 55 Regelungsbefugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005604116)
 
 (1) Durch Landesrecht kann bestimmt werden, dass für die Erfüllung von
 Aufgaben der Länder weitere als die in § 3 aufgeführten Daten und
@@ -2937,6 +3007,7 @@ Landesrecht nicht abgewichen werden.
 
 
 ### § 56 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005707116)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -3002,6 +3073,7 @@ der Rechtsverordnung ist darauf hinzuweisen.
 
 
 ### § 57 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005801116)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
@@ -3009,5 +3081,6 @@ Grund dieses Gesetzes erlassenen Rechtsverordnungen erlassen.
 
 
 ### § 58 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bmg/BJNR108410013.html#BJNR108410013BJNE005902116)
 
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Rechtsform der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000100000)
 
 Unter dem Namen „Bundeskanzler-Helmut-Kohl-Stiftung“ wird mit Sitz in
 Berlin eine rechtsfähige Stiftung des öffentlichen Rechts errichtet.
@@ -24,6 +25,7 @@ Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000200000)
 
 (1) Zweck der Stiftung ist es, das Andenken an das politische Wirken
 Dr. Helmut Kohls für Freiheit und Einheit des deutschen Volkes, für
@@ -74,6 +76,7 @@ Maßnahmen:
 
 
 ## § 3 Stiftungsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000300000)
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
 beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland
@@ -92,6 +95,7 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
@@ -100,6 +104,7 @@ Bundesbehörde bedarf. Das gleiche gilt für die Änderung der Satzung.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -113,6 +118,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000600000)
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die von der
 Bundespräsidentin oder vom Bundespräsidenten für die Dauer von fünf
@@ -142,6 +148,7 @@ des Vorstands. Das Nähere regelt die Satzung.
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000700000)
 
 (1) Der Vorstand besteht aus drei Mitgliedern; sie werden vom
 Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder
@@ -169,6 +176,7 @@ außergerichtlich.
 
 
 ## § 8 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000800000)
 
 (1) Zur Beratung des Kuratoriums und des Vorstands bei der Erfüllung
 des Stiftungszwecks kann ein Beirat berufen werden. Die Mitglieder des
@@ -186,12 +194,14 @@ Vorsitzenden des Kuratoriums ein und leitet sie.
 
 
 ## § 9 Neben- und ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE000900000)
 
 Die Mitglieder des Kuratoriums und des Vorstands sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 
 ## § 10 Unterstützung durch und Kooperation mit Einrichtungen des Bundes, Aufsicht, Haushalt, Rechtsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE001000000)
 
 (1) Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch
 Einrichtungen des Bundes unterstützt. Die Stiftung kooperiert
@@ -208,6 +218,7 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## § 11 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE001100000)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
 (Angestellte und Arbeiter) wahrgenommen.
@@ -221,6 +232,7 @@ haben, verliehen werden.
 
 
 ## § 12 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE001200000)
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
@@ -228,6 +240,7 @@ Stiftungseinrichtungen erheben.
 
 
 ## § 13 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/hkohlstiftg/BJNR130610021.html#BJNR130610021BJNE001300000)
 
 Die Stiftung führt ein Dienstsiegel.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000100000)
 
 Auf Grund des § 15a Absatz 2, auch in Verbindung mit § 212 Absatz 1
 und § 237 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes, von
@@ -31,6 +32,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Sachkunde der mit der Kreditvergabe befassten Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000200000)
 
 (1) Die mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten
 internen und externen Mitarbeiter der Versicherungsunternehmen und
@@ -66,6 +68,7 @@ geeigneter Weise belegt sein.
 
 
 ## § 2 Berufsqualifikation als Sachkundenachweis
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000300000)
 
 (1) Die erforderliche Sachkunde gilt insbesondere durch einen der
 folgenden Berufsabschlüsse oder durch eine der nachfolgenden
@@ -140,6 +143,7 @@ Anforderungen genügt.
 
 
 ## § 3 Anerkennung ausländischer Befähigungsnachweise im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000400000)
 
 (1) Als Nachweis der erforderlichen Sachkunde nach den §§ 1 und 2
 werden gleichwertige Berufsqualifikationen anerkannt, wenn
@@ -165,6 +169,7 @@ erworben wurden.
 
 
 ## § 4 Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000501118)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Verordnungen nach Maßgabe des § 15a Absatz 2 Satz 1, auch in
@@ -173,11 +178,13 @@ Versicherungsaufsichtsgesetzes, zu erlassen.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/versimmodarlsachkv/BJNR276500016.html#BJNR276500016BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

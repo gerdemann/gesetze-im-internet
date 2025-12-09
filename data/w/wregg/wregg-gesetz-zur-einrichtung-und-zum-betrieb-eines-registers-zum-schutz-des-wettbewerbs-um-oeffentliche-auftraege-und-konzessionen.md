@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Einrichtung des Wettbewerbsregisters
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000100000)
 
 (1) Beim Bundeskartellamt (Registerbehörde) wird ein Register zum
 Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen
@@ -36,6 +37,7 @@ Datenbank geführt.
 
 
 ## § 2 Eintragungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000203125)
 
 (1) In das Wettbewerbsregister sind einzutragen:
 
@@ -147,6 +149,7 @@ entgegen.
 
 
 ## § 3 Inhalt der Eintragung in das Wettbewerbsregister
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000303125)
 
 (1) Die Registerbehörde speichert folgende Daten, die ihr von einer
 nach § 4 zur Mitteilung verpflichteten Behörde übermittelt wurden, in
@@ -245,6 +248,7 @@ Umsatzsteuergesetzes bleibt unberührt.
 
 
 ## § 4 Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000400000)
 
 (1) Die Strafverfolgungsbehörden und die Behörden, die zur Verfolgung
 von Ordnungswidrigkeiten berufen sind, teilen bei Entscheidungen nach
@@ -268,6 +272,7 @@ unverzüglich zu unterrichten.
 
 
 ## § 5 Gelegenheit zur Stellungnahme vor Eintragung in das Wettbewerbsregister; Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000501125)
 
 (1) Vor der Eintragung in das Wettbewerbsregister informiert die
 Registerbehörde das betroffene Unternehmen in Textform über den Inhalt
@@ -319,6 +324,7 @@ Richtlinie 95/46/EG gelten die Absätze 3 und 4 entsprechend.
 
 
 ## § 6 Abfragepflicht für Auftraggeber; Entscheidung über einen Ausschluss vom Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000601125)
 
 (1) Ein öffentlicher Auftraggeber nach § 99 des Gesetzes gegen
 Wettbewerbsbeschränkungen ist verpflichtet, vor der Erteilung des
@@ -394,6 +400,7 @@ der rechtlich vorgesehenen Aufbewahrungsfristen zu löschen.
 
 
 ## § 7 Löschung der Eintragung aus dem Wettbewerbsregister nach Fristablauf; Rechtswirkung der Löschung
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000700000)
 
 (1) Eintragungen über Straftaten nach § 2 Absatz 1 Nummer 1 Buchstabe
 a, c und d werden spätestens nach Ablauf von fünf Jahren ab dem Tag
@@ -418,6 +425,7 @@ den Auftraggeber nicht bindend.
 
 
 ## § 8 Vorzeitige Löschung der Eintragung aus dem Wettbewerbsregister wegen Selbstreinigung; Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000801125)
 
 (1) Ist ein Unternehmen in das Wettbewerbsregister eingetragen worden,
 so kann es bei der Registerbehörde beantragen, dass die Eintragung
@@ -480,6 +488,7 @@ Wettbewerbsbeschränkungen.
 
 
 ## § 9 Elektronische Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE000900000)
 
 (1) Die Kommunikation zwischen der Registerbehörde und den
 Strafverfolgungsbehörden, den zur Verfolgung von Ordnungswidrigkeiten
@@ -497,6 +506,7 @@ erlassene Rechtsverordnung keine besondere Regelung enthält.
 
 
 ## § 10 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE001001125)
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates eine
 Rechtsverordnung, um Folgendes zu regeln:
@@ -557,6 +567,7 @@ Rechtsverordnung, um Folgendes zu regeln:
 
 
 ## § 11 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE001101125)
 
 (1) Gegen Entscheidungen der Registerbehörde ist die Beschwerde
 zulässig. § 63 Absatz 1 Nummer 1 und 2, die §§ 64, 69, 70 Absatz 1 und
@@ -589,6 +600,7 @@ Wettbewerbsbeschränkungen ist entsprechend anzuwenden.
 
 
 ## § 12 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wregg/BJNR273910017.html#BJNR273910017BJNE001202125)
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 

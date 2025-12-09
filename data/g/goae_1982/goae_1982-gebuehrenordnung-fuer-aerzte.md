@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000303308)
 
 (1) Die Vergütungen für die beruflichen Leistungen der Ärzte bestimmen
 sich nach dieser Verordnung, soweit nicht durch Bundesgesetz etwas
@@ -37,6 +38,7 @@ erbracht worden sind.
 
 
 ## § 2 Abweichende Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000405308)
 
 (1) Durch Vereinbarung kann eine von dieser Verordnung abweichende
 Gebührenhöhe festgelegt werden. Für Leistungen nach § 5a ist eine
@@ -64,12 +66,14 @@ für vom Wahlarzt höchstpersönlich erbrachte Leistungen zulässig.
 
 
 ## § 3 Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000502308)
 
 Als Vergütungen stehen dem Arzt Gebühren, Entschädigungen und Ersatz
 von Auslagen zu.
 
 
 ## § 4 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000604308)
 
 (1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage)
 genannten ärztlichen Leistungen.
@@ -141,6 +145,7 @@ zu unterrichten.
 
 
 ## § 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000705320)
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich, soweit in den Absätzen
 3 bis 5 nichts anderes bestimmt ist, nach dem Einfachen bis
@@ -187,6 +192,7 @@ Zweieinhalbfachen des Gebührensatzes nach § 5 Abs. 3 Satz 1 das
 
 
 ## § 5a Bemessung der Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE002001308)
 
 Im Falle eines unter den Voraussetzungen des § 218a Abs. 1 des
 Strafgesetzbuches vorgenommenen Abbruchs einer Schwangerschaft dürfen
@@ -196,6 +202,7 @@ Abs. 1 Satz 2 berechnet werden.
 
 
 ## § 5b Bemessung der Gebühren bei Versicherten des Standardtarifes der privaten Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE003000320)
 
 Für Leistungen, die in einem brancheneinheitlichen Standardtarif nach
 § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch versichert sind,
@@ -210,6 +217,7 @@ das 1,1fache des Gebührensatzes tritt.
 
 
 ## § 6 Gebühren für andere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000803308)
 
 (1) Erbringen Mund-Kiefer-Gesichtschirurgen, Hals-Nasen-Ohrenärzte
 oder Chirurgen Leistungen, die im Gebührenverzeichnis für
@@ -226,6 +234,7 @@ berechnet werden.
 
 
 ## § 6a Gebühren bei stationärer Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001907130)
 
 (1) Bei vollstationären, stationsäquivalenten, tagesstationären,
 teilstationären sowie vor- und nachstationären privatärztlichen
@@ -241,6 +250,7 @@ nicht berechnen; die §§ 7 bis 10 bleiben unberührt.
 
 
 ## § 7 Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE000902308)
 
 Als Entschädigungen für Besuche erhält der Arzt Wegegeld und
 Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den
@@ -248,6 +258,7 @@ Besuch bedingten Mehrkosten abgegolten.
 
 
 ## § 8 Wegegeld
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001003308)
 
 (1) Der Arzt kann für jeden Besuch ein Wegegeld berechnen. Das
 Wegegeld beträgt für einen Besuch innerhalb eines Radius um die
@@ -283,6 +294,7 @@ anteilig berechnen.
 
 
 ## § 9 Reiseentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001103308)
 
 (1) Bei Besuchen über eine Entfernung von mehr als 25 Kilometern
 zwischen Praxisstelle des Arztes und Besuchsstelle tritt an die Stelle
@@ -308,6 +320,7 @@ des Wegegeldes eine Reiseentschädigung.
 
 
 ## § 10 Ersatz von Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001204308)
 
 (1) Neben den für die einzelnen ärztlichen Leistungen vorgesehenen
 Gebühren können als Auslagen nur berechnet werden
@@ -377,6 +390,7 @@ und Portokosten nicht berechnet werden.
 
 
 ## § 11 Zahlung durch öffentliche Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001302308)
 
 (1) Wenn ein Leistungsträger im Sinne des § 12 des Ersten Buches
 Sozialgesetzbuch oder ein sonstiger öffentlich-rechtlicher
@@ -391,6 +405,7 @@ Bescheinigung auch nachgereicht werden.
 
 
 ## § 12 Fälligkeit und Abrechnung der Vergütung, Rechnung
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001405308)
 
 (1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine
 dieser Verordnung entsprechende Rechnung erteilt worden ist.
@@ -451,16 +466,19 @@ abweichende Regelung getroffen werden.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001502308)
 
 (weggefallen)
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001602308)
 
 (Inkrafttreten und Übergangsvorschrift)
 
 
 ## Anlage Gebührenverzeichnis für ärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/go__1982/BJNR015220982.html#BJNR015220982BJNE001706116)
 
 (Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 157)
 

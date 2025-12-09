@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000100325)
 
 Auf Grund des § 87a Abs. 5 Satz 3 des Zweiten Wohnungsbaugesetzes in
 der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1284),
@@ -28,6 +29,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000200325)
 
 (1) Diese Verordnung ist auf nach dem 31. Dezember 1969 bewilligte
 Darlehen aus Wohnungsfürsorgemitteln anzuwenden, die für Angehörige
@@ -43,6 +45,7 @@ Hundert ermäßigter Zinssatz vertraglich vereinbart worden ist.
 
 
 ## § 2 Zinserhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000300325)
 
 (1) Die Darlehen sind vorbehaltlich des § 3 mit einem Zinssatz von 4,5
 vom Hundert jährlich zu verzinsen.
@@ -53,12 +56,14 @@ Wohnungsbindungsgesetzes).
 
 
 ## § 3 Begrenzung der Zinserhöhung
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000400325)
 
 Die Zinserhöhung nach § 2 Abs. 1 ist so begrenzt, daß die monatliche
 Mehrbelastung 100 Deutsche Mark je Wohnung nicht übersteigt.
 
 
 ## § 4 Ausschlußfrist
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000500325)
 
 Einwendungen gegen die Auswirkungen der Zinserhöhung nach dieser
 Verordnung können vom Darlehnsschuldner nur innerhalb von sechs
@@ -69,6 +74,7 @@ Ausschlußfrist hinzuweisen.
 
 
 ## § 5 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000600325)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes auch im Land
@@ -76,11 +82,13 @@ Berlin.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000700325)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wozerhv_2/BJNR000740989.html#BJNR000740989BJNE000800325)
 
 Der Bundesrat hat zugestimmt.
 

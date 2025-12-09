@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Anwendungsbereich, Zuständigkeiten, Begriffsbestimmungen und Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000100000)
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung
 
@@ -128,6 +130,7 @@ Stützungsregelung ist nur § 17 Absatz 2 anzuwenden.
 
 
 ### § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000202119)
 
 (1) Soweit in dieser Verordnung oder den in § 1 Absatz 1 Nummer 4 bis
 6 genannten Vorschriften nichts anderes bestimmt ist, sind für die
@@ -200,6 +203,7 @@ bezieht auf
 
 
 ### § 3 Referenzflächensysteme
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000300000)
 
 (1) Die Landesregierungen bestimmen durch Rechtsverordnung nach § 6
 Absatz 1 Nummer 2 in Verbindung mit Absatz 5 Satz 1 des
@@ -253,6 +257,7 @@ Flächenidentifikator zu verwenden.
 
 
 ### § 4 Begriff der landwirtschaftlichen Parzelle
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000401124)
 
 (1) Landwirtschaftliche Parzelle ist ein Schlag.
 
@@ -291,6 +296,7 @@ angegeben werden müssen, als eine landwirtschaftliche Parzelle gelten.
 
 
 ### § 5 Muster, Vordrucke und Formulare
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000500000)
 
 Soweit die Landesstellen oder die Bundesanstalt für Anträge, Verträge,
 Erklärungen oder Meldungen Muster bekannt geben oder Vordrucke oder
@@ -298,6 +304,7 @@ Formulare auch elektronisch bereithalten, sind diese zu verwenden.
 
 
 ### § 6 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000602119)
 
 (1) Eine nach dieser Verordnung angeordnete Schriftform kann durch die
 elektronische Form ersetzt werden. Der elektronischen Form genügt ein
@@ -348,12 +355,15 @@ beachten.
 
 
 ## Abschnitt 2 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000200000)
 
 
 ### Unterabschnitt 1 - Sammelantrag
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000300000)
 
 
 #### § 7 Form und Frist
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000706119)
 
 (1) Die in § 1 Absatz 1 Nummer 2 genannten Direktzahlungen werden auf
 Antrag gewährt. Der Antrag ist als Sammelantrag nach Artikel 11 der
@@ -383,6 +393,7 @@ beantragt werden, mitzuteilen.
 
 
 #### § 8 Betriebsbezogene Angaben
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000801118)
 
 (1) Der Betriebsinhaber hat in Bezug auf seinen Betrieb im Antrag
 anzugeben:
@@ -425,10 +436,12 @@ Telefonnummer, Faxnummer oder E-Mail-Adresse angeben.
 
 
 #### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE000903124)
 
 
 
 #### § 10 Flächenbezogene Angaben
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003903124)
 
 (1) In Bezug auf die im Sammelantrag anzugebenden Flächen hat der
 Betriebsinhaber
@@ -568,6 +581,7 @@ Betriebsinhabers, wenn die Erzeugnisse oder Betriebsmittel
 
 
 #### § 10a Zusätzliche Angaben für bestimmte Flächen im Antragsjahr 2018
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE004200124)
 
 (1) Der Betriebsinhaber kann den Nachweis, dass eine Fläche, für die
 im Jahr 2017 die Voraussetzungen für die Bewertung als Dauergrünland
@@ -607,6 +621,7 @@ ergeben, werden von der Landesstelle von Amts wegen berücksichtigt.
 
 
 #### § 11 Besondere Angaben für die Zwecke der Überprüfung der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001105119)
 
 (1) In Bezug auf die Flächennutzung im Umweltinteresse im Sinne des
 Artikels 46 der Verordnung (EU) Nr. 1307/2013 hat der Betriebsinhaber,
@@ -706,6 +721,7 @@ der ökologischen Produktion dienend auszuweisen.
 
 
 #### § 11a Änderung bei Flächennutzungen im Umweltinteresse
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003703119)
 
 (1) Der Betriebsinhaber kann eine Änderung im Sinne des Artikels 15
 Absatz 2 Unterabsatz 3 Satz 1 der Durchführungsverordnung (EU) Nr.
@@ -795,6 +811,7 @@ Verordnung (EU) Nr. 1307/2013 ist ausgeschlossen.
 
 
 #### § 12 Angaben bei Anbau von Nutzhanf
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001201124)
 
 Werden im Sammelantrag Direktzahlungen für Flächen, auf denen Hanf
 angebaut werden soll, beantragt, hat der Betriebsinhaber das amtliche
@@ -810,6 +827,7 @@ des Saatguts vorzulegen.
 
 
 #### § 13 Angaben beim Anbau von Hopfen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001300000)
 
 Soweit der Betriebsinhaber Hopfenerzeuger ist, hat er im Sammelantrag
 zusätzlich anzugeben,
@@ -824,6 +842,7 @@ zusätzlich anzugeben,
 
 
 #### § 13a Angaben bei Niederwald mit Kurzumtrieb
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003800118)
 
 Soweit der Betriebsinhaber Flächen mit Niederwald mit Kurzumtrieb im
 Sinne des § 3 der Direktzahlungen-Durchführungsverordnung im
@@ -839,6 +858,7 @@ Sammelantrag angibt, hat er zusätzlich anzugeben:
 
 
 #### § 14 Erklärung bei Beantragung der Umverteilungsprämie
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001400000)
 
 Soweit der Betriebsinhaber die Umverteilungsprämie beantragt, hat er
 im Sammelantrag für den Fall, dass er seinen Betrieb nach dem 18.
@@ -849,6 +869,7 @@ Umverteilungsprämie zu kommen.
 
 
 #### § 15 Angaben bei Beantragung der Zahlung für Junglandwirte
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001501118)
 
 (1) Ein Betriebsinhaber, der eine natürliche Person ist, hat bei
 erstmaliger Beantragung der Zahlung für Junglandwirte im Sammelantrag
@@ -890,6 +911,7 @@ Beantragung der Zahlung für Junglandwirte im Sammelantrag
 
 
 #### § 16 Angaben hinsichtlich der Einhaltung grundlegender Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001601118)
 
 (1) Der zur Einhaltung grundlegender Anforderungen verpflichtete
 Betriebsinhaber hat im Sammelantrag Folgendes anzugeben:
@@ -953,9 +975,11 @@ durchzuführen.
 
 
 ### Unterabschnitt 2 - Sonstige gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000400000)
 
 
 #### § 17 Betriebsnummer
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001701118)
 
 (1) Die Landesstelle teilt jedem Betriebsinhaber zu Zwecken der
 Identifizierung eine Nummer für alle in § 1 Absatz 1 Nummer 1 bis
@@ -971,6 +995,7 @@ Erzeuger ist und nicht bereits über eine Betriebsnummer verfügt.
 
 
 #### § 18 Mindestgröße einer landwirtschaftlichen Parzelle
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001800000)
 
 (1) Die Mindestgröße einer landwirtschaftlichen Parzelle im Sinne des
 Artikels 72 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1306/2013,
@@ -984,6 +1009,7 @@ Gegebenheiten Rechnung zu tragen.
 
 
 #### § 19 Landschaftselemente
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE001901118)
 
 (1) Es gelten
 
@@ -1045,6 +1071,7 @@ und Dauergrünland liegen.
 
 
 #### § 20 Gewährung von Zahlungen bei Übertragung des Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002000000)
 
 Wird ein Betrieb nach dem Einreichen eines Antrags auf Gewährung von
 Zahlungen und vor Erfüllung aller Voraussetzungen für die Gewährung
@@ -1056,9 +1083,11 @@ sind.
 
 
 ## Abschnitt 3 - Verfahren bei Zahlungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000500000)
 
 
 ### § 21 Antrag auf Zuweisung der Zahlungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002102124)
 
 (1) Die Zuweisung von Zahlungsansprüchen für die Basisprämie ist
 
@@ -1118,6 +1147,7 @@ mitteilt.
 
 
 ### § 22 Höhere Gewalt und außergewöhnliche Umstände
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002200000)
 
 Sofern der Betriebsinhaber auf Grund höherer Gewalt oder
 außergewöhnlicher Umstände nicht in der Lage ist, den Antrag auf
@@ -1130,6 +1160,7 @@ schriftlich mitzuteilen.
 
 
 ### § 23 Übertragung von Zahlungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002302124)
 
 (1) Die Übertragung von Zahlungsansprüchen haben der Übertragende
 sowie der Übernehmer der Landesstelle innerhalb eines Monats nach der
@@ -1188,9 +1219,11 @@ nach der Verordnung (EU) Nr. 1307/2013.
 
 
 ## Abschnitt 4 - Verfahren bei der Kleinerzeugerregelung
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000600000)
 
 
 ### § 24 Teilnahme an der Kleinerzeugerregelung
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002400000)
 
 (1) Der Betriebsinhaber hat die Teilnahme an der Kleinerzeugerregelung
 nach Titel V der Verordnung (EU) Nr. 1307/2013 bis zum 15. Mai 2015
@@ -1219,9 +1252,11 @@ zu beantragen.
 
 
 ## Abschnitt 5 - Verfahren bei der Genehmigung der Umwandlung von Dauergrünland im Rahmen der Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000700000)
 
 
 ### § 25 Antrag auf Genehmigung der Umwandlung von Dauergrünland
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002502124)
 
 (1) Der Betriebsinhaber hat eine Genehmigung für die Umwandlung von
 Dauergrünland nach § 16 Absatz 3 des Direktzahlungen-
@@ -1291,6 +1326,7 @@ diese zu verwenden.
 
 
 ### § 25a Antrag auf Aufhebung der Bestimmung von Dauergrünland als umweltsensibel
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE004001124)
 
 (1) Der Antrag auf Aufhebung der Bestimmung von Dauergrünland als
 umweltsensibel nach § 15 Absatz 2a des Direktzahlungen-
@@ -1332,6 +1368,7 @@ keine solche Entscheidung zu treffen.
 
 
 ### § 25b Mitteilungspflichten nach § 15 Absatz 2b Satz 2 und § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE004100124)
 
 (1) Die Mitteilung nach § 15 Absatz 2b Satz 2 und die Mitteilung nach
 § 16 Absatz 6 Satz 2 des Direktzahlungen-Durchführungsgesetzes sind
@@ -1374,9 +1411,11 @@ Direktzahlungen-Durchführungsgesetzes als gemacht.
 
 
 ## Abschnitt 6 - Zahlungen an anerkannte Erzeugerorganisationen im Hopfensektor
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000800000)
 
 
 ### § 26 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002600000)
 
 (1) Zahlungen im Sinne des § 1 Absatz 1 Nummer 3 Buchstabe a werden
 anerkannten Erzeugerorganisationen im Hopfensektor auf Antrag gewährt.
@@ -1386,6 +1425,7 @@ für das jeweilige Erntejahr zu stellen.
 
 
 ### § 27 Meldung über Hopfenflächen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002700000)
 
 Die Bundesanstalt übermittelt den anerkannten Erzeugerorganisationen
 im Hopfensektor vor dem in § 26 Absatz 2 genannten Termin die nach §
@@ -1403,9 +1443,11 @@ Zahlungen nach Artikel 58 der Verordnung (EU) Nr. 1308/2013.
 
 
 ## Abschnitt 7 - Hanf
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG000900000)
 
 
 ### § 28 Erntetermin, Kontrollen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002801124)
 
 (1) Hanf darf, ausgenommen auf den nach Satz 2 festgelegten
 Parzellenteilen, ab Beginn der Blüte auch vor Ablauf von zehn Tagen
@@ -1435,6 +1477,7 @@ nach Abschluss der Vegetationsperiode geerntet werden.
 
 
 ### § 29 Nicht beihilfefähige Hanfsorten, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE002901124)
 
 Die Bundesanstalt macht die Hanfsorten, für die nach Artikel 9 Absatz
 5 Satz 3 der Delegierten Verordnung (EU) Nr. 639/2014 keine
@@ -1444,9 +1487,11 @@ geleistet werden, im Bundesanzeiger bekannt.
 
 
 ## Abschnitt 8 - Duldungs-, Mitwirkungs-, Nachweis- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG001000000)
 
 
 ### § 30 Nachweis- und Meldepflichten des Betriebsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003002124)
 
 (1) Der Betriebsinhaber hat von ihm in Kopie vorgelegte Unterlagen im
 Original vorzuhalten.
@@ -1546,6 +1591,7 @@ vergleichbare Maßnahme der Bodenbearbeitung.
 
 
 ### § 30a Anzeige des Umpflügens von bestimmten Flächen mit Gras oder anderen Grünfutterpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE004300124)
 
 (1) Der Betriebsinhaber ist verpflichtet, das Umpflügen einer Fläche,
 die mit Gras oder anderen Grünfutterpflanzen bewachsen ist, aber weder
@@ -1567,6 +1613,7 @@ März 2018 erfolgtes Umpflügen gemäß § 10a Absatz 3 nachgewiesen wird.
 
 
 ### § 31 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003100000)
 
 (1) Zum Zwecke der Überwachung haben
 
@@ -1614,6 +1661,7 @@ Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
 
 ### § 32 Mitteilungspflichten der Länder und der Bundesstellen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003201124)
 
 (1) Die Länder teilen dem Bundesministerium für Ernährung und
 Landwirtschaft die zur Erfüllung der der Bundesrepublik Deutschland
@@ -1673,9 +1721,11 @@ Sammelantrag nach § 10 Absatz 1 Satz 2 Nummer 3 erhobenen Angaben.
 
 
 ## Abschnitt 9 - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG001100000)
 
 
 ### § 33 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003300000)
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des
 Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
@@ -1684,6 +1734,7 @@ vollständig macht.
 
 
 ### § 34 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003400000)
 
 Verwaltungsbehörde im Sinne des Marktorganisationsgesetzes und des §
 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist bei
@@ -1704,9 +1755,11 @@ zuständige oberste Landesbehörde.
 
 
 ## Abschnitt 10 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNG001200000)
 
 
 ### § 35 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003503124)
 
 (1) Auf Anträge für Kalenderjahre vor dem Kalenderjahr 2015 ist die
 InVeKoS-Verordnung vom 3. Dezember 2004 (BGBl. I S. 3194), die durch
@@ -1754,6 +1807,7 @@ Absatz 1 Satz 2 Nummer 5 nicht erforderlich.
 
 
 ### Anlage (zu § 3 Absatz 3 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/invekosv_2015/BJNR016610015.html#BJNR016610015BJNE003600000)
 
 (Fundstelle: BGBl. I 2015, 178)
 

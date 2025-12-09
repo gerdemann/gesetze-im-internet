@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE000500306)
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel 1, 5ff., 14 Abs. 2, Artikel 15 Satz 1 des Vertrages),
@@ -42,6 +44,7 @@ die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE000602310)
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten
 Schuldtitel gelten § 1063 Abs. 1 und § 1064 Abs. 2 der
@@ -63,6 +66,7 @@ der Zivilprozessordnung. Die §§ 707, 717, 1065 gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE000702310)
 
 (1) Ist eine noch nicht rechtskräftige Entscheidung eines
 österreichischen Gerichts, hinsichtlich deren die Exekution zur
@@ -87,6 +91,7 @@ entsprechend.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE000800306)
 
 Hängt die Vollstreckung nach dem Inhalt der gerichtlichen
 Entscheidung, des gerichtlichen Vergleichs oder der öffentlichen
@@ -107,6 +112,7 @@ anzuordnen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE000901307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer gerichtlichen
 Entscheidung kann der Schuldner auch Einwendungen gegen den Anspruch
@@ -137,6 +143,7 @@ entstanden sind.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001000306)
 
 (1) Aus den für vollstreckbar erklärten Schuldtiteln findet die
 Zwangsvollstreckung statt, sofern die Entscheidung über die
@@ -157,10 +164,12 @@ Luftfahrzeugen eingetragen werden soll.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNG000200306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001101310)
 
 (1) Wird eine gerichtliche Entscheidung, ein gerichtlicher Vergleich
 oder eine öffentliche Urkunde nach der Vollstreckbarerklärung in
@@ -185,6 +194,7 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001200306)
 
 Wird die Vollstreckbarerklärung einer noch nicht rechtskräftigen
 Entscheidung eines österreichischen Gerichts, hinsichtlich deren die
@@ -196,10 +206,12 @@ zur Abwendung der Vollstreckung gemachte Leistung entstanden ist.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNG000300306)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001300306)
 
 Vollstreckungsbescheide und einstweilige Verfügungen, auf Grund deren
 ein Gläubiger die Bewilligung der Exekution in Österreich beantragen
@@ -210,15 +222,18 @@ der Zivilprozeßordnung nicht erforderlich wäre.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNG000400306)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001400306)
 
 -
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001500306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -226,6 +241,7 @@ im Land Berlin.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zpvtrautag/BJNR001690960.html#BJNR001690960BJNE001600306)
 
 Dieses Gesetz tritt gleichzeitig mit dem Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni

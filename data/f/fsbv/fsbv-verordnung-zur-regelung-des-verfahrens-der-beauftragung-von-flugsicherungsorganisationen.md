@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000100000)
 
 Auf Grund des § 31f Absatz 3a des Luftverkehrsgesetzes, der durch
 Artikel 1 Nummer 4 Buchstabe d des Gesetzes vom 5. Juli 2021 (BGBl. I
@@ -28,6 +29,7 @@ verordnet das Bundesaufsichtsamt für Flugsicherung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000200000)
 
 Diese Verordnung regelt das Verfahren, durch das im Fall des § 27d
 Absatz 1a des Luftverkehrsgesetzes eine Flugsicherungsorganisation
@@ -42,6 +44,7 @@ Bundesaufsichtsamt für Flugsicherung anerkannt werden, überschreiten.
 
 
 ## § 2 Auswahlwahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000300000)
 
 Im Verfahren zur Beauftragung einer Flugsicherungsorganisation gemäß §
 31f Absatz 2a des Luftverkehrsgesetzes haben die
@@ -118,6 +121,7 @@ digitale Infrastruktur folgende Nachweise vorzulegen:
 
 
 ## § 3 Wirtschaftlichkeit eines Angebotes zur Erbringung von Flugsicherungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000400000)
 
 (1) Flugsicherungsorganisationen haben zum Nachweis der
 Wirtschaftlichkeit ihrer Leistung im Rahmen eines Antrags nach § 27d
@@ -159,6 +163,7 @@ Ergebnis seiner Prüfung mit.
 
 
 ## § 4 Berücksichtigungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000500000)
 
 (1) Für die Prüfung der Wirtschaftlichkeit werden die notwendigen
 Kosten der Art des Flugsicherungsdienstes zugrunde gelegt, die in der
@@ -273,6 +278,7 @@ erstattungsfähiger Steuern und Zölle.
 
 
 ## § 5 Anreizregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000600000)
 
 (1) Kosten nach § 4 Absatz 3 Nummer 1 bis 4, die sich auf
 Abschreibungen von Investitionen in innovative Flugsicherungstechnik
@@ -324,6 +330,7 @@ Ansatz gebracht werden.
 
 
 ## § 6 Feststellung der Differenz zwischen geplanten Einnahmen aus Gebühren und geplanten Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000700000)
 
 (1) Das Bundesaufsichtsamt für Flugsicherung stellt auf Antrag der
 Flugsicherungsorganisation die Differenz zwischen den erwarteten
@@ -389,6 +396,7 @@ Jahres keine Aktualisierung des Antrags nach Absatz 4 erfolgt ist.
 
 
 ## § 7 Feststellung der Differenz zwischen tatsächlichen Einnahmen aus Gebühren und tatsächlichen Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000800000)
 
 (1) Das Bundesaufsichtsamt für Flugsicherung stellt jährlich die
 Differenz aus den tatsächlichen Einnahmen aus Gebühren und Auslagen
@@ -413,6 +421,7 @@ Differenz an den Bundeshaushalt auszukehren.
 
 
 ## § 8 Erstattung der Differenz zwischen tatsächlichen Einnahmen aus Gebühren; Erstattungen für Gebührenbefreiungen und tatsächlichen Kosten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE000900000)
 
 (1) Der Bund erstattet auf Antrag die Differenz zwischen den
 tatsächlichen Einnahmen aus Gebühren und den tatsächlichen Kosten; die
@@ -467,6 +476,7 @@ mindestens enthalten:
 
 
 ## § 9 Entrichtung der Gebühr; Mitwirkung der Flugplatzunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001000000)
 
 (1) Die Flugsicherungsgebühr ist sofort nach der Landung in bar oder
 mittels eines unbaren Zahlungssystems bei jenen Stellen zu entrichten,
@@ -571,6 +581,7 @@ Gebühren in geringer Höhe ganz oder teilweise verzichten.
 
 
 ## § 10 Auskunfts- und Herausgabepflichten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001100000)
 
 Flugsicherungsorganisationen, die eine Beauftragung nach § 27d Absatz
 1a des Luftverkehrsgesetzes anstreben, sowie solche, die nach § 27d
@@ -582,6 +593,7 @@ Verordnung übertragenen Aufgaben benötigt.
 
 
 ## § 11 Jahresbericht
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001200000)
 
 Das Bundesaufsichtsamt für Flugsicherung berichtet jährlich über die
 Ergebnisse der Auswahlverfahren, die Wirtschaftlichkeit der
@@ -593,6 +605,7 @@ Bestimmungen dieser Verordnung ergeben haben.
 
 
 ## § 12 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001300000)
 
 (1) Für den Zeitraum vom 1. September 2021 bis zum 31. Dezember 2021
 gilt § 4 mit der Maßgabe, dass die zwischen dem jeweiligen
@@ -615,6 +628,7 @@ stellen sind.
 
 
 ## § 13 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001400000)
 
 Das Bundesaufsichtsamt für Flugsicherung berichtet dem
 Bundesministerium für Verkehr und digitale Infrastruktur bis zum 31.
@@ -624,6 +638,7 @@ Bundesrepublik Deutschland.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fsbv/BJNR471100021.html#BJNR471100021BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

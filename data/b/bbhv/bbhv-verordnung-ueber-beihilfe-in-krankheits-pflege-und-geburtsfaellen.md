@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000100000)
 
 Auf Grund des § 80 Abs. 4 des Bundesbeamtengesetzes vom 5. Februar
 2009 (BGBl. I S. 160) verordnet das Bundesministerium des Innern im
@@ -29,15 +30,18 @@ Bundesministerium für Gesundheit:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000100000)
 
 
 ### § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000301116)
 
 Diese Verordnung regelt die Einzelheiten der Gewährung von Beihilfe
 nach § 80 Absatz 6 des Bundesbeamtengesetzes.
 
 
 ### § 2 Beihilfeberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000406311)
 
 (1) Soweit nicht die Absätze 2 bis 5 etwas Anderes bestimmen, ist
 beihilfeberechtigt, wer im Zeitpunkt der Leistungserbringung
@@ -102,6 +106,7 @@ Höchstbetrag begrenzt sind.
 
 
 ### § 3 Beamtinnen und Beamte im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000500000)
 
 Beihilfeberechtigt nach § 2 Abs. 1 Nr. 1 sind auch diejenigen
 Beamtinnen und Beamten, die ihren dienstlichen Wohnsitz im Ausland
@@ -109,6 +114,7 @@ haben oder in das Ausland abgeordnet sind.
 
 
 ### § 4 Berücksichtigungsfähige Personen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000604311)
 
 (1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner
 beihilfeberechtigter Personen sind berücksichtigungsfähig.
@@ -146,6 +152,7 @@ berücksichtigungsfähig.
 
 
 ### § 5 Konkurrenzen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000706311)
 
 (1) Die Beihilfeberechtigung aus einem Dienstverhältnis oder ein
 Anspruch auf Leistungen der Krankenfürsorge in entsprechender
@@ -225,6 +232,7 @@ Versorgung haben.
 
 
 ### § 6 Beihilfefähigkeit von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000808311)
 
 (1) Aufwendungen sind beihilfefähig, wenn zum Zeitpunkt des Entstehens
 der Aufwendungen
@@ -350,6 +358,7 @@ begründen und zu dokumentieren.
 
 
 ### § 7 Verweisungen auf das Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE000900000)
 
 Soweit sich Inhalt und Ausgestaltung von Leistungen, zu denen Beihilfe
 gewährt wird, an Vorschriften des Fünften Buches Sozialgesetzbuch
@@ -378,6 +387,7 @@ nicht ausschließen.
 
 
 ### § 8 Ausschluss der Beihilfefähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001011311)
 
 (1) Nicht beihilfefähig sind Aufwendungen
 
@@ -491,6 +501,7 @@ Buch Sozialgesetzbuch, wenn Ansprüche auf den Sozialhilfeträger
 
 
 ### § 9 Anrechnung von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001111311)
 
 (1) Soweit Aufwendungen auf Grund von Rechtsvorschriften oder
 arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder
@@ -546,6 +557,7 @@ waren.
 
 
 ### § 10 Beihilfeanspruch
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001202116)
 
 (1) Auf Beihilfe besteht ein Rechtsanspruch. Der Anspruch kann nicht
 abgetreten und grundsätzlich nicht verpfändet oder gepfändet werden.
@@ -572,6 +584,7 @@ befreiender Wirkung auf folgende Konten gezahlt werden:
 
 
 ### § 11 Aufwendungen im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001305311)
 
 (1) Aufwendungen für Leistungen in einem Mitgliedstaat der
 Europäischen Union sind wie im Inland entstandene Aufwendungen zu
@@ -624,12 +637,15 @@ beihilfefähig wären. Dies gilt nicht in den Fällen des § 31 Absatz 6.
 
 
 ## Kapitel 2 - Aufwendungen in Krankheitsfällen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000200000)
 
 
 ### Abschnitt 1 - Ambulante Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000300000)
 
 
 #### § 12 Ärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001402311)
 
 Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen
 sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich
@@ -639,6 +655,7 @@ der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
 
 #### § 13 Leistungen von Heilpraktikerinnen und Heilpraktikern
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001503311)
 
 Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern
 sind nach Maßgabe des § 6 Absatz 5 Satz 4 und nach § 22 Absatz 6
@@ -646,6 +663,7 @@ beihilfefähig.
 
 
 #### § 14 Zahnärztliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001604311)
 
 Aufwendungen für ambulante zahnärztliche und kieferorthopädische
 Untersuchungen und Behandlungen sind nach Maßgabe des § 6
@@ -658,6 +676,7 @@ beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
 
 #### § 15 Implantologische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001705116)
 
 (1) Aufwendungen für implantologische Leistungen nach Abschnitt K der
 Anlage 1 zur Gebührenordnung für Zahnärzte und alle damit in
@@ -727,6 +746,7 @@ Rahmen des § 16 stets beihilfefähig.
 
 
 #### § 15a Kieferorthopädische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007902311)
 
 (1) Aufwendungen für kieferorthopädische Leistungen sind
 beihilfefähig, wenn
@@ -857,6 +877,7 @@ beihilfefähig.
 
 
 #### § 15b Funktionsanalytische und funktionstherapeutische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008000116)
 
 (1) Aufwendungen für funktionsanalytische und funktionstherapeutische
 Leistungen sind nur beihilfefähig, wenn eine der folgenden
@@ -893,6 +914,7 @@ zur Gebührenordnung für Zahnärzte vorzulegen.
 
 
 #### § 16 Auslagen, Material- und Laborkosten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001805311)
 
 (1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und
 Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte,
@@ -908,6 +930,7 @@ Gesamtrechnungsbetrages anzusetzen.
 
 
 #### § 17 Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE001901116)
 
 (1) Aufwendungen für zahnärztliche Leistungen für Beamtinnen und
 Beamte auf Widerruf und Personen, die bei ihnen berücksichtigungsfähig
@@ -937,6 +960,7 @@ ununterbrochen im öffentlichen Dienst beschäftigt gewesen ist.
 
 
 #### § 18 Psychotherapeutische Behandlungs- und Anwendungsformen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002007311)
 
 (1) Aufwendungen für die folgenden psychotherapeutischen Behandlungs-
 und Anwendungsformen sind nach Maßgabe der Absätze 2 bis 6 sowie der
@@ -1011,6 +1035,7 @@ Abklärung spätestens nach den probatorischen Sitzungen erfolgen.
 
 
 #### § 18a Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007704311)
 
 (1) Aufwendungen für Leistungen der Psychotherapie sind beihilfefähig
 bei
@@ -1147,6 +1172,7 @@ Psychotherapie beihilfefähig.
 
 
 #### § 19 Psychoanalytisch begründete Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002106311)
 
 (1) Aufwendungen für psychoanalytisch begründete Verfahren mit ihren
 beiden Behandlungsformen, der tiefenpsychologisch fundierten
@@ -1317,6 +1343,7 @@ werden.
 
 
 #### § 20 Verhaltenstherapie
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002206311)
 
 (1) Aufwendungen für eine Verhaltenstherapie sind je Krankheitsfall in
 folgendem Umfang beihilfefähig:
@@ -1355,6 +1382,7 @@ beihilfefähig.
 
 
 #### § 20a Systemische Therapie
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009800311)
 
 (1) Aufwendungen für eine Systemische Therapie sind je Krankheitsfall
 für Personen, die das 18. Lebensjahr vollendet haben, in folgendem
@@ -1386,6 +1414,7 @@ Umfang, auch im Mehrpersonensetting, beihilfefähig:
 
 
 #### § 21 Psychosomatische Grundversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002307311)
 
 (1) Die psychosomatische Grundversorgung im Sinne dieser Verordnung
 umfasst
@@ -1433,9 +1462,11 @@ tragen ist, beihilfefähig.
 
 
 ### Abschnitt 2 - Sonstige Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000400000)
 
 
 #### § 22 Arznei- und Verbandmittel, Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002411311)
 
 (1) Beihilfefähig sind Aufwendungen für ärztlich oder zahnärztlich
 nach Art und Umfang verordnete oder während einer Behandlung
@@ -1666,6 +1697,7 @@ verbraucht hat.
 
 
 #### § 23 Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002505311)
 
 (1) Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel
 und bei der Anwendung der Heilmittel verbrauchte Stoffe sind nach
@@ -1691,6 +1723,7 @@ jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das
 
 
 #### § 24 Komplextherapie, integrierte Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002605311)
 
 (1) Aufwendungen für Leistungen, die in Form von ambulanten, voll-
 oder teilstationären Komplextherapien erbracht werden, sind abweichend
@@ -1757,6 +1790,7 @@ Nachsorgemaßnahmen beihilfefähig, wenn die Maßnahmen
 
 
 #### § 25 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002706311)
 
 (1) Aufwendungen für ärztlich verordnete Hilfsmittel, Geräte zur
 Selbstbehandlung und Selbstkontrolle sowie Körperersatzstücke sind
@@ -1838,6 +1872,7 @@ besteht oder angenommen werden kann.
 
 
 #### § 25a Digitale Gesundheitsanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE010100311)
 
 (1) Aufwendungen für digitale Gesundheitsanwendungen nach § 33a Absatz
 1 Satz 1 des Fünften Buches Sozialgesetzbuch sind beihilfefähig, wenn
@@ -1889,6 +1924,7 @@ digitalen Gesundheitsanwendung zwingend erforderlich ist.
 
 
 #### § 26 Behandlung in zugelassenen Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002807311)
 
 (1) Aufwendungen für Behandlungen in zugelassenen Krankenhäusern nach
 § 108 des Fünften Buches Sozialgesetzbuch sind beihilfefähig, soweit
@@ -1949,6 +1985,7 @@ beihilfefähig.
 
 
 #### § 26a Behandlung in nicht zugelassenen Krankenhäusern
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008103311)
 
 (1) Aufwendungen für Behandlungen in Krankenhäusern, die die
 Voraussetzungen des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch
@@ -2070,6 +2107,7 @@ tätig werden.
 
 
 #### § 26b Übergangspflege im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE010200311)
 
 Aufwendungen für die in § 39e Absatz 1 Satz 1 und 2 des Fünften Buches
 Sozialgesetzbuch genannten Leistungen der Übergangspflege im
@@ -2079,6 +2117,7 @@ Wahlleistungen für Unterkunft.
 
 
 #### § 27 Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE002908311)
 
 (1) Beihilfefähig sind Aufwendungen für häusliche Krankenpflege,
 soweit sie angemessen sind und wenn sie nach Bescheinigung durch eine
@@ -2247,6 +2286,7 @@ Einrichtungen.
 
 
 #### § 27a Außerklinische Intensivpflege
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE010300311)
 
 (1) Aufwendungen für eine außerklinische Intensivpflege nach § 37c des
 Fünften Buches Sozialgesetzbuch sind beihilfefähig, wenn ein besonders
@@ -2305,6 +2345,7 @@ den in den Absätzen 1 und 2 genannten Aufwendungen beihilfefähig.
 
 
 #### § 28 Familien- und Haushaltshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003006311)
 
 (1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind pro
 Stunde bis zur Höhe des 1,17-fachen Betrages des sich aus § 1 Absatz 2
@@ -2366,6 +2407,7 @@ Bundesreisekostengesetzes beihilfefähig.
 
 
 #### § 29 Familien- und Haushaltshilfe im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003103116)
 
 (1) Aufwendungen beihilfeberechtigter Personen nach § 3 für eine
 Familien- und Haushaltshilfe sind auch dann beihilfefähig, wenn
@@ -2404,6 +2446,7 @@ beihilfefähig.
 
 
 #### § 30 Soziotherapie
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003201116)
 
 Aufwendungen für Soziotherapie sind beihilfefähig, wenn die
 beihilfeberechtigte oder berücksichtigungsfähige Person wegen einer
@@ -2417,6 +2460,7 @@ Sozialgesetzbuch.
 
 
 #### § 30a Neuropsychologische Therapie
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007603311)
 
 (1) Aufwendungen für ambulante neuropsychologische Therapie sind
 beihilfefähig, wenn sie
@@ -2552,6 +2596,7 @@ gesamte Behandlung nach Satz 1 Nummer 2 beihilfefähig.
 
 
 #### § 31 Fahrtkosten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003307311)
 
 (1) Beihilfefähig sind Aufwendungen für ärztlich verordnete Fahrten
 
@@ -2708,6 +2753,7 @@ Die Hin- und Rückfahrt gelten als eine Fahrt.
 
 
 #### § 32 Unterkunftskosten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003402116)
 
 (1) Aufwendungen für die Unterkunft anlässlich notwendiger auswärtiger
 ambulanter ärztlicher, zahnärztlicher oder psychotherapeutischer
@@ -2731,6 +2777,7 @@ Auslandsreisekostenverordnung) beihilfefähig.
 
 
 #### § 33 Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003503311)
 
 Beihilfefähig sind Aufwendungen für medizinische Leistungen anlässlich
 einer lebensbedrohlichen Erkrankung, anlässlich einer im Regelfall
@@ -2754,9 +2801,11 @@ des Innern und für Heimat herzustellen.
 
 
 ### Abschnitt 3 - Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000500000)
 
 
 #### § 34 Anschlussheil- und Suchtbehandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003608311)
 
 (1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen,
 die als medizinische Rehabilitationsmaßnahmen in
@@ -2832,6 +2881,7 @@ beihilfefähig.
 
 
 #### § 35 Rehabilitationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003708311)
 
 (1) Beihilfefähig sind Aufwendungen für
 
@@ -2973,6 +3023,7 @@ der Kosten nach Absatz 2 Satz 2 Nummer 5 Buchstabe b beihilfefähig.
 
 
 #### § 36 Voraussetzungen für Rehabilitationsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003807311)
 
 (1) Aufwendungen für Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz
 1 Nummer 1, 2 und 4 sind nur beihilfefähig, wenn die
@@ -3055,9 +3106,11 @@ Grunde nach anerkannt hat.
 
 
 ## Kapitel 3 - Aufwendungen in Pflegefällen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000600000)
 
 
 ### § 37 Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE003908311)
 
 (1) Der Bund beteiligt sich an den personenbezogenen Kosten der Träger
 für eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch,
@@ -3091,6 +3144,7 @@ Elften Buches Sozialgesetzbuch sind.
 
 
 ### § 38 Anspruchsberechtigte bei Pflegeleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004008116)
 
 Aufwendungen für Pflegeleistungen sind nur beihilfefähig bei
 beihilfeberechtigten oder berücksichtigungsfähigen Personen
@@ -3105,6 +3159,7 @@ beihilfeberechtigten oder berücksichtigungsfähigen Personen
 
 
 ### § 38a Häusliche Pflege
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008504311)
 
 (1) Aufwendungen für häusliche Pflege entsprechend § 36 Absatz 1 und 2
 des Elften Buches Sozialgesetzbuch in Form von körperbezogenen
@@ -3181,6 +3236,7 @@ Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
 
 ### § 38b Kombinationsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008601311)
 
 (1) Erfolgt die häusliche Pflegehilfe nach § 38a Absatz 1 nur
 teilweise durch eine geeignete Pflegekraft, die die Voraussetzungen
@@ -3212,6 +3268,7 @@ befinden.
 
 
 ### § 38c Verhinderungspflege, Versorgung der pflegebedürftigen Person bei Inanspruchnahme von Vorsorge- oder Rehabilitationsleistungen durch die Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008702311)
 
 (1) Ist eine Pflegeperson wegen Erholungsurlaubs oder Krankheit oder
 aus anderen Gründen an der häuslichen Pflege gehindert, so sind
@@ -3240,6 +3297,7 @@ diese Pflegeeinrichtung geltenden Gesamtheimentgelts beihilfefähig.
 
 
 ### § 38d Teilstationäre Pflege
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008800116)
 
 (1) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages-
 oder Nachtpflege sind entsprechend § 41 Absatz 2 des Elften Buches
@@ -3265,6 +3323,7 @@ beihilfefähig.
 
 
 ### § 38e Kurzzeitpflege
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008901311)
 
 Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im
 erforderlichen Umfang erbracht werden und reicht auch teilstationäre
@@ -3273,6 +3332,7 @@ den §§ 42 und 42a des Elften Buches Sozialgesetzbuch beihilfefähig.
 
 
 ### § 38f Ambulant betreute Wohngruppen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009000116)
 
 Entstehen Aufwendungen nach § 38a Absatz 1, 2 oder 3 oder nach § 38b
 in ambulant betreuten Wohngruppen und sind auch die Voraussetzungen
@@ -3285,6 +3345,7 @@ Sozialgesetzbuch beihilfefähig.
 
 
 ### § 38g Pflegehilfsmittel, Maßnahmen zur Verbesserung des Wohnumfeldes, digitale Pflegeanwendungen und ergänzende Unterstützungsleistungen bei der Nutzung digitaler Pflegeanwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009101311)
 
 (1) Beihilfefähig sind Aufwendungen für
 
@@ -3324,6 +3385,7 @@ beihilfefähig.
 
 
 ### § 38h Leistungen zur sozialen Sicherung der Pflegeperson
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009200116)
 
 (1) Auf Antrag der Pflegeperson sind beihilfefähig
 
@@ -3358,6 +3420,7 @@ berücksichtigungsfähigen Person entspricht.
 
 
 ### § 39 Vollstationäre Pflege
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004113311)
 
 (1) Aufwendungen für vollstationäre Pflege in einer zugelassenen
 Pflegeeinrichtung im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches
@@ -3502,6 +3565,7 @@ Buches Sozialgesetzbuch.
 
 
 ### § 39a Einrichtungen der Behindertenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009301311)
 
 Aufwendungen für Pflege, Betreuung und für Leistungen der
 medizinischen Behandlungspflege in einer vollstationären Einrichtung
@@ -3518,6 +3582,7 @@ Sozialgesetzbuch erbracht werden.
 
 
 ### § 39b Aufwendungen bei Pflegegrad 1
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009402311)
 
 Für pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige
 Personen des Pflegegrades 1 sind Aufwendungen beihilfefähig für:
@@ -3561,6 +3626,7 @@ Pflegepersonen nach § 38h Absatz 1 und Absatz 2 Nummer 2.
 
 
 ### § 40 Palliativversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004205311)
 
 (1) Aufwendungen für spezialisierte ambulante Palliativversorgung sind
 beihilfefähig, wenn wegen einer nicht heilbaren, fortschreitenden und
@@ -3587,6 +3653,7 @@ Innern und für Heimat bekanntgegeben.
 
 
 ### § 40a Gesundheitliche Versorgungsplanung für die letzte Lebensphase
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009900311)
 
 (1) Beihilfefähig sind entsprechend § 132g des Fünften Buches
 Sozialgesetzbuch Aufwendungen für eine gesundheitliche
@@ -3611,9 +3678,11 @@ Verbänden der Ersatzkassen.
 [^F814092_01_BJNR032600009BJNE009900311]: 
 
 ## Kapitel 4 - Aufwendungen in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000700000)
 
 
 ### § 41 Früherkennungsuntersuchungen und Vorsorgemaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004307311)
 
 (1) Aufwendungen für Leistungen zur ärztlichen Früherkennung und
 Vorsorge im ärztlichen Bereich sind beihilfefähig. Die §§ 20i, 25, 25a
@@ -3706,6 +3775,7 @@ entsprechend.
 
 
 ### § 42 Schwangerschaft und Geburt
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004407311)
 
 (1) Bei einer Schwangerschaft und in Geburtsfällen sind neben den
 Leistungen nach Kapitel 2 beihilfefähig Aufwendungen für
@@ -3739,6 +3809,7 @@ Kinder der Schwangeren.
 
 
 ### § 43 Künstliche Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004505311)
 
 (1) Aufwendungen für eine künstliche Befruchtung einschließlich der
 Arzneimittel, die im Zusammenhang damit verordnet werden, sind
@@ -3995,6 +4066,7 @@ anerkannt werden.
 
 
 ### § 43a Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE010000311)
 
 (1) Aufwendungen für eine durch eine Ärztin oder einen Arzt
 vorgenommene Sterilisation sind beihilfefähig, wenn die Sterilisation
@@ -4020,6 +4092,7 @@ rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
 
 
 ### § 44 Überführungskosten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004603116)
 
 (1) Ist eine beihilfeberechtigte Person während einer Dienstreise,
 Abordnung, Zuweisung oder vor einem dienstlich bedingten Umzug
@@ -4036,6 +4109,7 @@ Aufwendungen bis zur Höhe der Überführungskosten, die für eine
 
 
 ### § 45 Erste Hilfe, Entseuchung, Kommunikationshilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004705116)
 
 (1) Beihilfefähig sind die Aufwendungen für Erste Hilfe und für eine
 behördlich angeordnete Entseuchung sowie für die dabei verbrauchten
@@ -4062,6 +4136,7 @@ Zahnersatzversorgung oder Pflegeleistungen beihilfefähig, wenn
 
 
 ### § 45a Organspende und andere Spenden
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008203311)
 
 (1) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für
 die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung
@@ -4114,6 +4189,7 @@ beihilfefähig.
 
 
 ### § 45b Klinisches Krebsregister
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008302311)
 
 (1) Der Bund beteiligt sich an den personenbezogenen Kosten der
 Krebsregistrierung beihilfeberechtigter und berücksichtigungsfähiger
@@ -4139,9 +4215,11 @@ bekanntgegeben.
 
 
 ## Kapitel 5 - Umfang der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000800000)
 
 
 ### § 46 Bemessung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004806311)
 
 (1) Beihilfe wird als prozentualer Anteil (Bemessungssatz) der
 beihilfefähigen Aufwendungen gewährt. Maßgeblich ist der
@@ -4189,6 +4267,7 @@ Aufwendungen 50 Prozent.
 
 
 ### § 47 Abweichender Bemessungssatz
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE004911311)
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann
 im Hinblick auf die Fürsorgepflicht nach § 78 des
@@ -4281,6 +4360,7 @@ Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
 
 
 ### § 48 Begrenzung der Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005006311)
 
 (1) Die Beihilfe darf zusammen mit den Leistungen, die aus demselben
 Anlass aus einer Krankenversicherung, aus einer Pflegeversicherung,
@@ -4317,6 +4397,7 @@ Pflegeversicherung nach einem Prozentsatz.
 
 
 ### § 49 Eigenbehalte
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005110311)
 
 (1) Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der
 Kosten, mindestens um 5 und höchstens um 10 Euro, jedoch jeweils nicht
@@ -4438,6 +4519,7 @@ Inanspruchnahme im Kalenderjahr und um 10 Euro je Verordnung.
 
 
 ### § 50 Belastungsgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005208311)
 
 (1) Auf Antrag sind nach Überschreiten der Belastungsgrenze nach Satz
 5
@@ -4528,9 +4610,11 @@ zu ermittelnde Regelsatz anzuwenden.
 
 
 ## Kapitel 6 - Verfahren und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG000900000)
 
 
 ### § 51 Bewilligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005308311)
 
 (1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von
 Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die
@@ -4633,6 +4717,7 @@ Person Abschlagszahlungen leisten.
 
 
 ### § 51a Zahlung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009501311)
 
 (1) Die Festsetzungsstelle kann die Beihilfe auf Antrag der
 beihilfeberechtigten Person an Dritte auszahlen.
@@ -4666,6 +4751,7 @@ der Schweigepflicht der Leistungserbringer erteilt hat. Absatz 2 Satz
 
 
 ### § 52 Zuordnung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005403116)
 
 Beihilfefähige Aufwendungen werden zugeordnet:
 
@@ -4688,11 +4774,13 @@ Beihilfefähige Aufwendungen werden zugeordnet:
 
 
 ### § 53 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005501310)
 
 -
 
 
 ### § 54 Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005603311)
 
 (1) Beihilfe wird nur gewährt, wenn sie innerhalb von drei Jahren nach
 Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei
@@ -4713,12 +4801,14 @@ wird.
 
 
 ### § 55 Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005702311)
 
 Die bei der Bearbeitung von Beihilfeangelegenheiten bekannt gewordenen
 personenbezogenen Daten sind geheim zu halten.
 
 
 ### § 56 Festsetzungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005804311)
 
 (1) Festsetzungsstellen sind
 
@@ -4745,13 +4835,16 @@ dem Gesetz über Rabatte für Arzneimittel geltend zu machen.
 
 
 ### § 57 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE005901116)
 
 
 
 ## Kapitel 7 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNG001000000)
 
 
 ### § 58 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006014311)
 
 (1) Die Anpassung des Betrages nach § 6 Absatz 2 Satz 1 auf Grund der
 Sätze 6 und 7 des § 6 Absatz 2 erfolgt erstmals für die Beantragung
@@ -4794,12 +4887,14 @@ Buches Sozialgesetzbuch für das Kalenderjahr 2025 angerechnet.
 
 
 ### § 59 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 6 Absatz 4 Satz 2)
 
 ### Anlage 1 Ausgeschlossene und teilweise ausgeschlossene Untersuchungen und Behandlungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006307311)
 
 (Fundstelle: BGBl. I 2012, 1944 - 1946;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5184,6 +5279,7 @@ Abschnitt 2
 (zu § 6 Absatz 5 Satz 4)
 
 ### Anlage 2 Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006405311)
 
 (Fundstelle: BGBl. I 2012, 1947 - 1952;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6320,6 +6416,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu den §§ 18 bis 21)
 
 ### Anlage 3 Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006505311)
 
 (Fundstelle: BGBl. I 2020, 2726 - 2728)
 
@@ -6758,20 +6855,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006607311)
 
 
 ### Anlage 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006708311)
 
 
 ### Anlage 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006805311)
 
 
 ### Anlage 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE006905311)
 
 
 (zu § 22 Absatz 4)
 
 ### Anlage 8 Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007004311)
 
 (Fundstelle: BGBl. I 2012, 1991 - 1992;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6952,6 +7054,7 @@ Voraussetzungen beihilfefähig:
 (zu § 23 Absatz 1)
 
 ### Anlage 9 Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007103311)
 
 (Fundstelle: BGBl. I 2018, 1247 - 1254;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8749,6 +8852,7 @@ Abschnitt 4
 (zu § 23 Absatz 1 und § 24 Absatz 1)
 
 ### Anlage 10 Leistungserbringerinnen und Leistungserbringer für Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007203311)
 
 (Fundstelle: BGBl. I 2018, 1255;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8869,6 +8973,7 @@ des Leistungserbringers entspricht:
 (zu § 25 Absatz 1 und 4)
 
 ### Anlage 11 Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007307311)
 
 (Fundstelle: BGBl. I 2012, 2001 - 2009;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10371,6 +10476,7 @@ Unterabschnitt 5
 (zu § 25 Absatz 1, 2 und 4)
 
 ### Anlage 12 Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007405311)
 
 (Fundstelle: BGBl. I 2012, 2010 - 2012;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10732,6 +10838,7 @@ Gegenstände:
 (zu § 41 Absatz 1 Satz 3)
 
 ### Anlage 13 Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007504311)
 
 (Fundstelle: BGBl. I 2015, 885;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10791,6 +10898,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 41 Absatz 3)
 
 ### Anlage 14 Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE007804311)
 
 (Fundstelle: BGBl. 2024 I Nr. 92, S. 23 – 24)
 
@@ -11034,10 +11142,12 @@ Früherkennungsprogrammes in Höhe der nachstehenden Pauschalen:
 
 
 ### Anlage 14a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009602311)
 
 (zu § 41 Absatz 4)
 
 ### Anlage 15 Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE008403311)
 
 (Fundstelle: BGBl. 2024 I Nr. 92, S. 25 – 26)
 
@@ -11214,6 +11324,7 @@ Früherkennungsprogrammes in Höhe der nachstehenden Pauschalen:
 
 
 ### Anlage 16 (zu § 51a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bbhv/BJNR032600009.html#BJNR032600009BJNE009701311)
 
 (Fundstelle: BGBl. I 2018, 1261 — 1262;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

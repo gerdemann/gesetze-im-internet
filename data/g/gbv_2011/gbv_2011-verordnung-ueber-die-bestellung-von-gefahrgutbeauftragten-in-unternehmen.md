@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000202123)
 
 (1) Die nachfolgenden Vorschriften gelten für jedes Unternehmen,
 dessen Tätigkeit die Beförderung gefährlicher Güter auf der Straße,
@@ -42,6 +43,7 @@ gefährlicher Güter mit Seeschiffen anzuwenden.
 
 
 ## § 2 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000306123)
 
 (1) Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
 
@@ -94,6 +96,7 @@ in Anspruch genommen werden.
 
 
 ## § 3 Bestellung von Gefahrgutbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000402123)
 
 (1) Sobald ein Unternehmen an der Beförderung gefährlicher Güter
 beteiligt ist und ihm Pflichten als Beteiligter in der
@@ -133,6 +136,7 @@ Gefahrgutbeauftragten verlangen.
 
 
 ## § 4 Schulungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000501124)
 
 Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt
 1\.8.3.18 ADR/RID/ADN erteilt, wenn der Betroffene an einer Schulung
@@ -143,6 +147,7 @@ Prüfung nach § 6 Absatz 4 mit Erfolg abgelegt hat.
 
 
 ## § 5 Schulungsanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000602123)
 
 (1) Die Schulung erfolgt in einem nach § 7 Absatz 1 Nummer 2
 anerkannten Lehrgang. Anerkannt werden können Präsenzlehrgänge sowie
@@ -173,6 +178,7 @@ Voraussetzungen nach Absatz 1 bis 5 durchführen.
 
 
 ## § 6 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000705123)
 
 (1) Die Prüfung besteht aus einer schriftlichen Prüfung, die ganz oder
 teilweise auch als elektronische Prüfung durchgeführt werden kann. Die
@@ -208,6 +214,7 @@ Absatz 1 bis 5 durchgeführt werden.
 
 
 ## § 7 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000803123)
 
 (1) Die Industrie- und Handelskammern sind zuständig für
 
@@ -248,6 +255,7 @@ des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 
 
 ## § 8 Pflichten des Gefahrgutbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE000903123)
 
 (1) Der Gefahrgutbeauftragte hat die Aufgaben nach Unterabschnitt
 1\.8.3.3 ADR/RID/ADN wahrzunehmen.
@@ -314,6 +322,7 @@ dass dieser Schulungsnachweis rechtzeitig verlängert wird.
 
 
 ## § 9 Pflichten der Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE001002123)
 
 (1) Der Unternehmer darf den Gefahrgutbeauftragten wegen der Erfüllung
 der ihm übertragenen Aufgaben nicht benachteiligen.
@@ -360,6 +369,7 @@ Unfallberichte nach Unterabschnitt 1.8.3.6 ADR/RID/ADN vorzulegen.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE001102123)
 
 Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des
 Gesetzes über die Beförderung gefährlicher Güter handelt, wer
@@ -436,13 +446,16 @@ vorsätzlich oder fahrlässig
 
 
 ## § 11 (Übergangsbestimmungen)
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE001201124)
 
 
 
 ## § 12 (Aufheben von Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE001301124)
 
 
 
 ## § 13 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/gbv_2011/BJNR034100011.html#BJNR034100011BJNE001401124)
 
 

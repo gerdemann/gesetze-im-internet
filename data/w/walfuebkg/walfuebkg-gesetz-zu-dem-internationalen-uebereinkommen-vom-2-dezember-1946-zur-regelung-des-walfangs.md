@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000100328)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000200328)
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Internationalen
 Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs und dem
@@ -34,6 +36,7 @@ zugestimmt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000304301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung Änderungen der Anlage des
@@ -42,6 +45,7 @@ ermächtigt, durch Rechtsverordnung Änderungen der Anlage des
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000401308)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist für die
 Durchführung von Vorschriften zur Erhaltung und Nutzung der
@@ -49,6 +53,7 @@ Walbestände zuständig.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000504301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft kann den
 Wortlaut des Übereinkommens in der am Tage seines Inkrafttretens für
@@ -57,6 +62,7 @@ bekanntgeben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/walf_bkg/BJNR205580982.html#BJNR205580982BJNE000701308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNG000100307)
 
 
 
 ### § 1 Zweck der Altschuldenhilfen
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE000500307)
 
 Den in diesem Gesetz bezeichneten Wohnungsunternehmen und privaten
 Vermietern mit Wohnraum in dem in Artikel 3 des Einigungsvertrages
@@ -37,6 +39,7 @@ verbessert.
 
 
 ### § 2 Antragberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE000600307)
 
 (1) Antragberechtigte sind:
 
@@ -84,6 +87,7 @@ Herausgabe einer ungerechtfertigten Bereicherung ausgeschlossen.
 
 
 ### § 3 Altverbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE000701377)
 
 (1) Altverbindlichkeiten sind die Verpflichtungen der in § 2 Abs. 1
 bezeichneten Wohnungsunternehmen und privaten Vermieter aus Krediten
@@ -117,10 +121,12 @@ Bürgschaftsgebühren.
 
 
 ## Zweiter Teil - Teilentlastung durch Schuldübernahme
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNG000200307)
 
 
 
 ### § 4 Teilentlastung
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE000802377)
 
 (1) Auf Antrag des Wohnungsunternehmens übernimmt der
 Erblastentilgungsfonds ab dem 1. Juli 1995 eine Schuld in Höhe eines
@@ -264,6 +270,7 @@ Beeinträchtigung der Wirtschaftlichkeit des Hausbesitzes führen würde.
 
 
 ### § 5 Privatisierungs- und Veräußerungspflicht, Abführung von Erlösen
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE000902311)
 
 (1) Das Wohnungsunternehmen hat mindestens 15 vom Hundert seines
 zahlenmäßigen Wohnungsbestandes mit mindestens 15 vom Hundert seiner
@@ -379,6 +386,7 @@ Einigungsvertrages bleibt unberührt.
 
 
 ### § 6 Steuern vom Einkommen und Ertrag
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001002377)
 
 Erhöhungen des Betriebsvermögens, die durch eine Teilentlastung im
 Sinne des § 4 oder durch eine zusätzliche Entlastung im Sinne des § 6a
@@ -391,6 +399,7 @@ Gewerbesteuer außer Ansatz.
 
 
 ### § 6a Ermächtigung zum Erlass von Vorschriften über zusätzliche Entlastung (Härtefallregelung)
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001700311)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 näheren Voraussetzungen für eine zusätzliche Entlastung von
@@ -406,10 +415,12 @@ mindestens der Höhe der Entlastung durch den Bund beteiligt.
 
 
 ## Dritter Teil - Gewährung einer Zinshilfe
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNG000300307)
 
 
 
 ### § 7 Zinshilfe
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001100307)
 
 (1) Auf Antrag wird dem Wohnungsunternehmen oder dem privaten
 Vermieter für die auf Altverbindlichkeiten für die Zeit vom 1. Januar
@@ -428,6 +439,7 @@ auf den Zeitraum, in dem ihre Verfügungsbefugnis besteht.
 
 
 ### § 8 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001200307)
 
 Der Bund und die in Artikel 1 Abs. 1 des Einigungsvertrages genannten
 Länder sowie das Land Berlin tragen jeweils die Hälfte der Kosten der
@@ -435,10 +447,12 @@ Zinshilfe.
 
 
 ## Vierter Teil - Verfahrens- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNG000400307)
 
 
 
 ### § 9 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001300307)
 
 Die Anträge auf Teilentlastung nach § 4 und auf Zahlung einer
 Zinshilfe nach § 7 sind bei der kreditgebenden Bank spätestens bis zum
@@ -446,6 +460,7 @@ Zinshilfe nach § 7 sind bei der kreditgebenden Bank spätestens bis zum
 
 
 ### § 10 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001400307)
 
 Wenn und soweit die Durchführung dieses Gesetzes es erfordert, sind
 Wohnungsunternehmen, private Vermieter oder deren Beauftragte sowie
@@ -457,6 +472,7 @@ Besichtigung von Grundstücken, Gebäuden und Wohnungen zu gestatten.
 
 
 ### § 11 Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001501311)
 
 (1) Der Bund entscheidet über Anträge auf Leistungen sowie über
 Erstattungsansprüche und die Abführung von Erlösen nach den §§ 4, 5
@@ -476,6 +492,7 @@ Bund und den Ländern im Einvernehmen bestellt.
 
 
 ### § 12 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001605311)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
@@ -520,6 +537,7 @@ rückübertragenen Wohnungen.
 
 
 ### § 13 Überleitungsvorschrift zum Wohnraumförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/altschg/BJNR098610993.html#BJNR098610993BJNE001800377)
 
 Die Länder werden ermächtigt, ihre auf Grund des § 12 Abs. 2 Satz 1
 und 2 Nr. 3 und 4 erlassenen Vorschriften an § 3 Abs. 2 Satz 3 und die

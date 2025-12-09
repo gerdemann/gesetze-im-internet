@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Angleichung der Reichsversicherungsordnung und des Reichsknappschaftsgesetzes sowie Änderung des Saarknappschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000100319)
 
 
 
 ### Erster Titel - Angleichung der Reichsversicherungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000200319)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001201308)
 
 Das Fünfte Buch Sozialgesetzbuch, das Zweite und Fünfte Buch der
 Reichsversicherungsordnung sowie die zu ihrer Änderung, Ergänzung und
@@ -37,10 +40,12 @@ Durchführung erlassenen Vorschriften gelten im Saarland in der im
 
 
 ### Zweiter Titel - Angleichung des Reichsknappschaftsgesetzes und Änderung des Saarknappschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000300319)
 
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001300319)
 
 Der Vierte Abschnitt des Reichsknappschaftsgesetzes mit Ausnahme der
 §§ 17 und 18, der II. Unterabschnitt des Achten Abschnitts des
@@ -51,6 +56,7 @@ in der im übrigen Bundesgebiet geltenden Fassung in Kraft.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001400319)
 
 Das Saarknappschaftsgesetz vom 11. Juli 1951 (Amtsblatt des Saarlandes
 S. 1099, 1379), zuletzt geändert durch das Gesetz Nr. 749 vom 19.
@@ -92,15 +98,18 @@ geändert und ergänzt:
 
 
 ### Dritter Titel - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000400319)
 
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001501308)
 
 -
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001600319)
 
 Rentenbezieher, die bei Inkrafttreten dieses Abschnitts nach der
 Verordnung über die Durchführung der Krankenversicherung der Rentner
@@ -118,6 +127,7 @@ versichert sind.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001700319)
 
 (1) Personen, die bei Inkrafttreten dieses Abschnitts wegen eines
 Antrags auf Rente aus der Rentenversicherung der Arbeiter oder der
@@ -142,6 +152,7 @@ binnen drei Wochen nach dem Ende der Versicherungspflicht anzuzeigen.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001800319)
 
 (1) Personen, die bei Inkrafttreten dieses Abschnitts nur wegen des
 Bezugs einer Rente aus der hüttenknappschaftlichen
@@ -164,6 +175,7 @@ nach Inkrafttreten dieses Abschnitts anzuzeigen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE001900319)
 
 § 7 gilt entsprechend für Personen, die bei Inkrafttreten dieses
 Abschnitts nur eine Leistung nach § 5 des Gesetzes Nr. 345 über eine
@@ -181,6 +193,7 @@ oder nach § 16 Abs. 1 des Saarknappschaftsgesetzes versichert sind.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002000319)
 
 Eine bei Inkrafttreten dieses Abschnitts nach der Verordnung über die
 Durchführung der Krankenversicherung der Rentner im Saarland
@@ -188,6 +201,7 @@ bestehende freiwillige Versicherung bleibt unberührt.
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002100319)
 
 (1) Personen, die auch nach Inkrafttreten dieses Abschnitts als
 Rentner oder Rentenantragsteller versichert sind oder ihre
@@ -222,6 +236,7 @@ des auf den Antrag folgenden Kalendervierteljahres.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002200319)
 
 (1) Ist eine Sterbegeldzusatzversicherung nach § 2 Nr. 5 des Gesetzes
 Nr. 332 über weitere Änderungen in der Krankenversicherung der Rentner
@@ -248,11 +263,13 @@ Sterbegeldzusatzversicherung zu zahlen gewesen wäre.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002300319)
 
 -
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002400319)
 
 Der Bundesminister für Arbeit und Sozialordnung kann mit Zustimmung
 des Bundesrates Verwaltungsvorschriften zur Durchführung der §§ 5 bis
@@ -260,6 +277,7 @@ des Bundesrates Verwaltungsvorschriften zur Durchführung der §§ 5 bis
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002500319)
 
 (1) Personen, die mit dem Inkrafttreten dieses Abschnitts aus der
 Versicherungspflicht in der Krankenversicherung ausscheiden und für
@@ -276,6 +294,7 @@ Ortskrankenkasse für das Saarland gelten.
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002600319)
 
 Personen, die mit dem Inkrafttreten dieses Abschnitts in der
 Krankenversicherung versicherungspflichtig werden und auf Grund eines
@@ -285,11 +304,13 @@ Beginn der Pflichtversicherung nachweisen.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002700319)
 
 -
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002800319)
 
 (1) Eine Leistung, auf die bei Inkrafttreten dieses Abschnitts nach
 dem bis zu diesem Zeitpunkt im Saarland geltenden Recht ein Anspruch
@@ -307,14 +328,17 @@ Inkrafttreten dieses Abschnitts auf 22 Deutsche Mark festgesetzt.
 
 
 ## Zweiter Abschnitt - Angleichung des Fremdrenten- und Auslandsrentenrechts
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000500319)
 
 
 
 ### Erster Titel - Einführung des Fremdrentengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000600319)
 
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE002900319)
 
 Das Fremdrentengesetz in der Fassung des Artikels 1 des Fremdrenten-
 und Auslandsrenten- Neuregelungsgesetzes vom 25. Februar 1960
@@ -325,10 +349,12 @@ Saarlandes" eingefügt werden.
 
 
 ### Zweiter Titel - Einführung der Art 2 bis 6 des Fremdrenten- und Auslandsrenten-Neuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000700319)
 
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003000319)
 
 Artikel 2 bis 6 des Fremdrenten- und Auslandsrenten-
 Neuregelungsgesetzes werden im Saarland mit folgenden Abweichungen und
@@ -585,10 +611,12 @@ Ergänzungen eingeführt:
 
 
 ### Dritter Titel - Einführung und Änderung weiterer sozialversicherungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000800319)
 
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003100319)
 
 Im Saarland werden folgende Vorschriften eingeführt:
 
@@ -644,6 +672,7 @@ Im Saarland werden folgende Vorschriften eingeführt:
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003200319)
 
 In Artikel 2 des Arbeiterrentenversicherungs-Neuregelungsgesetzes in
 der Fassung des Gesetzes Nr. 591 erhalten § 56 die Bezeichnung § 54a
@@ -651,26 +680,31 @@ der Fassung des Gesetzes Nr. 591 erhalten § 56 die Bezeichnung § 54a
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003300319)
 
 In Artikel 2 des Angestelltenversicherungs-Neuregelungsgesetzes in der
 Fassung des Gesetzes Nr. 590 erhält § 55 die Bezeichnung § 53a.
 
 
 #### (XXXX) §§ 23 bis 25 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003400319)
 
 
 
 ### Vierter Titel - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG000900319)
 
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003500319)
 
 §§ 18 bis 20 gelten nicht für die hüttenknappschaftliche
 Pensionsversicherung.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003600319)
 
 (1) Eine Leistung, auf die im Zeitpunkt der Verkündung dieses Gesetzes
 nach dem Gesetz Nr. 345 ein Anspruch besteht und auf welche §§ 18 und
@@ -687,6 +721,7 @@ Vorschriften.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003700319)
 
 (1) Bei Versicherungsfällen nach Verkündung dieses Gesetzes gewährt
 der unter Berücksichtigung des Absatzes 3 zuständige deutsche
@@ -714,6 +749,7 @@ zurückgelegt worden wären.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003800319)
 
 (1) Für Versicherungszeiten, die während einer Beschäftigung in
 knappschaftlich versicherten Betrieben in der deutschen gesetzlichen
@@ -754,6 +790,7 @@ Träger mit dem Sitz im Geltungsbereich dieses Gesetzes gewährt wird.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE003902308)
 
 (1) Die Leistungen nach §§ 27 bis 29 gelten nicht als Leistungen der
 Sozialen Sicherheit.
@@ -771,6 +808,7 @@ Bundesbeteiligung in der knappschaftlichen Rentenversicherung
 
 
 #### § 30a
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004001308)
 
 (1) Die Anpassung der Leistungen nach § 27, soweit sie von einem
 Träger der gesetzlichen Rentenversicherung zu erbringen sind, und der
@@ -791,6 +829,7 @@ Rente der gesetzlichen Rentenversicherung.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004100319)
 
 (1) Soweit in den durch §§ 18 bis 20 eingeführten Gesetzen und
 Verordnungen auf den Zeitpunkt ihrer Verkündung Bezug genommen ist,
@@ -803,6 +842,7 @@ Fassung gelten, sind diese in der saarländischen Fassung anzuwenden.
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004200319)
 
 Bis zur Neuregelung des Rechts der gesetzlichen Krankenversicherung
 gilt § 10 des Fremdrenten- und Auslandsrentengesetzes vom 7. August
@@ -810,15 +850,18 @@ gilt § 10 des Fremdrenten- und Auslandsrentengesetzes vom 7. August
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004300319)
 
 -
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNG001000319)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004400319)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -828,6 +871,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/svsaaranglg/BJNR004020963.html#BJNR004020963BJNE004500319)
 
 (1) Es treten in Kraft
 

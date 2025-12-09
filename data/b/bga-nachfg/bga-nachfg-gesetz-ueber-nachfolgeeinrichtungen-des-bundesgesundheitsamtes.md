@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## - - Errichtung von Bundesinstituten, Aufgabenstellung, Kostenerhebung, Dienstverhältnisse von Beamten und Arbeitnehmern
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNG000100307)
 
 
 
 ### § 1 Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000203130)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Gesundheit wird ein
 "Bundesinstitut für Arzneimittel und Medizinprodukte" als selbständige
@@ -73,6 +75,7 @@ Gebieten:
 
 
 ### § 2 Robert Koch-Institut - Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten -
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000301310)
 
 (1) Im Geschäftsbereich des Bundesministeriums für Gesundheit wird
 unter dem Namen "Robert Koch-Institut" ein Bundesinstitut für
@@ -116,11 +119,13 @@ Gebieten:
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000402320)
 
 (weggefallen)
 
 
 ### § 4 Aufgabendurchführung
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000502320)
 
 (1) Die Bundesinstitute erledigen im Rahmen der ihnen jeweils durch
 die §§ 1 und 2 zugewiesenen Tätigkeitsgebiete die Verwaltungsaufgaben
@@ -144,6 +149,7 @@ Forschung und wirken bei der Entwicklung von Standards und Normen mit.
 
 
 ### § 5 Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000601320)
 
 Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich
 als dem des Bundesministeriums, zu dessen Geschäftsbereich sie
@@ -152,10 +158,12 @@ sachlich zuständigen obersten Bundesbehörde.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000705116)
 
 
 
 ### § 7 Übernahme der Beamten und Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bga-nachfg/BJNR141610994.html#BJNR141610994BJNE000801320)
 
 Beamte und Arbeitnehmer des Bundesgesundheitsamtes, die zum Zeitpunkt
 der Errichtung der in den §§ 1 und 2 genannten Bundesinstitute

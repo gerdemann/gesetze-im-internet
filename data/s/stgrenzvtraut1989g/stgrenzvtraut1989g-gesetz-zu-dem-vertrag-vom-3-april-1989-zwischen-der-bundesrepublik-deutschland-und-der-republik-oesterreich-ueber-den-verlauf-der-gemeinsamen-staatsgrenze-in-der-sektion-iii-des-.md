@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtraut1989g/BJNR070720993.html#BJNR070720993BJNE000100314)
 
 (1) Dem in Wien am 3. April 1989 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Republik Österreich über den
@@ -39,6 +40,7 @@ Vermessungsämtern zur Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtraut1989g/BJNR070720993.html#BJNR070720993BJNE000200314)
 
 In den Gebietsteilen, die nach den Artikel 2 und 3 des Vertrages der
 Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
@@ -49,6 +51,7 @@ Gebietsteilen außer Kraft.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtraut1989g/BJNR070720993.html#BJNR070720993BJNE000300314)
 
 (1) Die Regierung des Freistaates Bayern wird ermächtigt, für die nach
 dem Vertrag der Bundesrepublik Deutschland zufallenden Gebietsteile
@@ -71,6 +74,7 @@ Landesjustizverwaltung übertragen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/stgrenzvtraut1989g/BJNR070720993.html#BJNR070720993BJNE000400314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

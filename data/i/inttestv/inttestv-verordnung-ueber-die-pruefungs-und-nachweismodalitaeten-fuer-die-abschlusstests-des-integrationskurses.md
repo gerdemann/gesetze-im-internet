@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000100000)
 
 Auf Grund des § 43 Absatz 4 Satz 2 des Aufenthaltsgesetzes, der durch
 Artikel 2 des Gesetzes vom 21. Januar 2013 (BGBl. I S. 86) eingefügt
@@ -28,6 +29,7 @@ Bundesministerium des Innern:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000200000)
 
 Die Verordnung gilt für die skalierten Tests „Deutsch-Test für
 Zuwanderer“ und „Leben in Deutschland“ nach § 17 Absatz 1 der
@@ -35,12 +37,14 @@ Integrationskursverordnung.
 
 
 ## § 2 Anmeldung und Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000300000)
 
 Anmeldung und Teilnahme erfolgen bei den nach § 20a der
 Integrationskursverordnung zugelassenen Prüfungsstellen.
 
 
 ## § 3 Prüfungsumfang und Prüfungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000400000)
 
 (1) Der „Deutsch-Test für Zuwanderer“ setzt sich aus einer
 schriftlichen Prüfung von 100 Minuten und einer mündlichen Paarprüfung
@@ -55,6 +59,7 @@ der Einbürgerungstestverordnung in Verbindung mit deren Anlage 1.
 
 
 ## § 4 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000500000)
 
 Die Prüfungsunterlagen werden den Prüfungsstellen durch das Bundesamt
 für Migration und Flüchtlinge (Bundesamt) oder durch das nach § 17
@@ -63,11 +68,13 @@ Testinstitut zur Verfügung gestellt.
 
 
 ## § 5 Ausschluss der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000600000)
 
 Die Prüfungen sind nicht öffentlich.
 
 
 ## § 6 Überprüfung der Identität
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000700000)
 
 (1) Die Prüfungsstelle ist verpflichtet, vor Beginn des Tests die
 Identität jedes Prüflings anhand eines gültigen amtlichen
@@ -81,6 +88,7 @@ im Ausweisdokument übereinstimmen.
 
 
 ## § 7 Aufsicht und Protokoll
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000800000)
 
 (1) Die Prüfungsstelle stellt sicher, dass mindestens zwei
 Aufsichtspersonen die ordnungsgemäße Durchführung der schriftlichen
@@ -117,6 +125,7 @@ dem die Daten zur Prüfung festgehalten werden, insbesondere
 
 
 ## § 8 Ausschluss von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE000900000)
 
 (1) Von der Prüfung wird ausgeschlossen, wer vor oder während der
 Prüfung
@@ -141,6 +150,7 @@ Testinstitut rückwirkend von der Prüfung ausgeschlossen.
 
 
 ## § 9 Rücktritt, Abbruch und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001000000)
 
 (1) Vor Beginn der Prüfung kann der Prüfling jederzeit von der Prüfung
 zurücktreten.
@@ -153,6 +163,7 @@ Prüfungsteile werden nicht gewertet.
 
 
 ## § 10 Bewertung der Prüfungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001100000)
 
 (1) Die Bedingungen für das Bestehen des „Deutsch-Tests für
 Zuwanderer“ richten sich nach § 17 Absatz 2 der
@@ -176,12 +187,14 @@ beantwortet wurden.
 
 
 ## § 11 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001200000)
 
 Die Prüfungsunterlagen können innerhalb von drei Monaten nach
 Mitteilung des Ergebnisses vom Prüfling eingesehen werden.
 
 
 ## § 12 Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001300000)
 
 Alle mit der Testdurchführung und -auswertung beauftragten Personen
 haben über Prüfungsvorgänge und Prüfungsergebnisse Verschwiegenheit
@@ -190,6 +203,7 @@ Geheimhaltung und sind unter Verschluss zu halten.
 
 
 ## § 13 Archivierung
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001400000)
 
 (1) Die Prüfungsunterlagen werden, nach Ablauf des Tages, an dem das
 Prüfungsergebnis mitgeteilt worden ist, ein Jahr lang aufbewahrt.
@@ -203,6 +217,7 @@ worden ist, gelöscht.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/inttestv/BJNR080100013.html#BJNR080100013BJNE001500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_54/BJNR365100998.html#BJNR365100998BJNE000100310)
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a, in Verbindung mit Absatz 3
 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -35,6 +36,7 @@ Landesbehörden:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_54/BJNR365100998.html#BJNR365100998BJNE000200310)
 
 (1) Abweichend von § 22 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung
 braucht der Inhaber einer Allgemeinen Betriebserlaubnis bei einem
@@ -76,6 +78,7 @@ Zulassungs-Ordnung erteilt worden ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stvzoausnv_54/BJNR365100998.html#BJNR365100998BJNE000300310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

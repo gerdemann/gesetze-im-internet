@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000100000)
 
 
 
 ### § 1 Zielsetzung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000200000)
 
 (1) Das Gesetz regelt die Beteiligung der Arbeitnehmer in einer
 Europäischen Gesellschaft (SE), die Gegenstand der Verordnung (EG) Nr.
@@ -53,6 +55,7 @@ betroffenen Gesellschaften und ihre Arbeitnehmer.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000300000)
 
 (1) Der Begriff des Arbeitnehmers richtet sich nach den
 Rechtsvorschriften und Gepflogenheiten der jeweiligen Mitgliedstaaten.
@@ -149,6 +152,7 @@ Angelegenheiten einer Gesellschaft durch
 
 
 ### § 3 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000400000)
 
 (1) Dieses Gesetz gilt für eine SE mit Sitz im Inland. Es gilt
 unabhängig vom Sitz der SE auch für Arbeitnehmer der SE, die im Inland
@@ -161,14 +165,17 @@ der Europäischen Union und die anderen Vertragsstaaten des Abkommens
 
 
 ## Teil 2 - Besonderes Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000200000)
 
 
 
 ### Kapitel 1 - Bildung und Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000300000)
 
 
 
 #### § 4 Information der Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000500000)
 
 (1) Das besondere Verhandlungsgremium ist auf Grund einer
 schriftlichen Aufforderung der Leitungen zu bilden. Es hat die
@@ -212,6 +219,7 @@ Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 2.
 
 
 #### § 5 Zusammensetzung des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000600000)
 
 (1) Für die in jedem Mitgliedstaat beschäftigten Arbeitnehmer der
 beteiligten Gesellschaften, betroffenen Tochtergesellschaften und
@@ -257,6 +265,7 @@ informieren. § 4 Abs. 2 bis 4 gilt entsprechend.
 
 
 #### § 6 Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000700000)
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen
 Verhandlungsgremiums richten sich nach den jeweiligen Bestimmungen der
@@ -279,6 +288,7 @@ leitender Angestellter.
 
 
 #### § 7 Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000800000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums nach § 5 erfolgt nach den jeweiligen Bestimmungen
@@ -309,10 +319,12 @@ Gesellschaften betroffen, gelten die Absätze 2 bis 4 entsprechend.
 
 
 ### Kapitel 2 - Wahlgremium
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000400000)
 
 
 
 #### § 8 Zusammensetzung des Wahlgremiums; Urwahl
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE000900000)
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen
 Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der
@@ -392,6 +404,7 @@ Wahlberechtigte. § 8 Abs. 1 Satz 2 bis 6 gilt entsprechend.
 
 
 #### § 9 Einberufung des Wahlgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001000000)
 
 (1) Auf der Grundlage der von den Leitungen erhaltenen Informationen
 hat der Vorsitzende der Arbeitnehmervertretung auf Konzernebene oder,
@@ -416,6 +429,7 @@ Arbeitnehmervertretung, die die meisten Arbeitnehmer vertritt.
 
 
 #### § 10 Wahl der Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001100000)
 
 (1) Bei der Wahl müssen mindestens zwei Drittel der Mitglieder des
 Wahlgremiums, die mindestens zwei Drittel der Arbeitnehmer vertreten,
@@ -438,10 +452,12 @@ Mitglieder des Wahlgremiums.
 
 
 ### Kapitel 3 - Verhandlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000500000)
 
 
 
 #### § 11 Information über die Mitglieder des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001200000)
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen
 Verhandlungsgremiums soll innerhalb von zehn Wochen nach der in § 4
@@ -462,6 +478,7 @@ Verhandlungsverfahren beteiligen.
 
 
 #### § 12 Sitzungen; Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001300000)
 
 (1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder
 oder im Fall des § 11 nach Ablauf der in § 11 Abs. 1 Satz 1 genannten
@@ -475,6 +492,7 @@ schriftliche Geschäftsordnung geben.
 
 
 #### § 13 Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001400000)
 
 (1) Das besondere Verhandlungsgremium schließt mit den Leitungen eine
 schriftliche Vereinbarung über die Beteiligung der Arbeitnehmer in der
@@ -491,6 +509,7 @@ dem besonderen Verhandlungsgremium einvernehmlich festgelegt.
 
 
 #### § 14 Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001500000)
 
 (1) Das besondere Verhandlungsgremium kann bei den Verhandlungen
 Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen
@@ -506,6 +525,7 @@ Verhandlungen zu unterrichten.
 
 
 #### § 15 Beschlussfassung im besonderen Verhandlungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001600000)
 
 (1) Die Mitglieder des besonderen Verhandlungsgremiums, die in einem
 Mitgliedstaat gewählt oder bestellt werden, vertreten alle in dem
@@ -561,6 +581,7 @@ Absatz 3 nicht gefasst werden.
 
 
 #### § 16 Nichtaufnahme oder Abbruch der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001700000)
 
 (1) Das besondere Verhandlungsgremium kann beschließen, keine
 Verhandlungen aufzunehmen oder bereits aufgenommene Verhandlungen
@@ -583,6 +604,7 @@ umzuwandelnden Gesellschaft Mitbestimmungsrechte zustehen.
 
 
 #### § 17 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001800000)
 
 In eine Niederschrift, die vom Vorsitzenden und einem weiteren
 Mitglied des besonderen Verhandlungsgremiums zu unterzeichnen ist, ist
@@ -604,6 +626,7 @@ Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
 
 
 #### § 18 Wiederaufnahme der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE001900000)
 
 (1) Frühestens zwei Jahre nach dem Beschluss nach § 16 Abs. 1 wird auf
 schriftlichen Antrag von mindestens 10 Prozent der Arbeitnehmer der
@@ -639,6 +662,7 @@ der SE tritt.
 
 
 #### § 19 Kosten des besonderen Verhandlungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002000000)
 
 Die durch die Bildung und Tätigkeit des besonderen
 Verhandlungsgremiums entstehenden erforderlichen Kosten tragen die
@@ -651,6 +675,7 @@ zu tragen.
 
 
 #### § 20 Dauer der Verhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002100000)
 
 (1) Die Verhandlungen beginnen mit der Einsetzung des besonderen
 Verhandlungsgremiums und können bis zu sechs Monate dauern. Einsetzung
@@ -664,14 +689,17 @@ fortzusetzen.
 
 
 ## Teil 3 - Beteiligung der Arbeitnehmer in der SE
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000600000)
 
 
 
 ### Kapitel 1 - Beteiligung der Arbeitnehmer kraft Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000700000)
 
 
 
 #### § 21 Inhalt der Vereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002200000)
 
 (1) In der schriftlichen Vereinbarung zwischen den Leitungen und dem
 besonderen Verhandlungsgremium wird, unbeschadet der Autonomie der
@@ -747,18 +775,22 @@ Organisationsstruktur und umgekehrt.
 
 
 ### Kapitel 2 - Beteiligung der Arbeitnehmer kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000800000)
 
 
 
 #### Abschnitt 1 - SE-Betriebsrat kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG000900000)
 
 
 
 ##### Unterabschnitt 1 - Bildung und Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001000000)
 
 
 
 ###### § 22 Voraussetzung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002300000)
 
 (1) Die Regelungen der §§ 23 bis 33 über den SE-Betriebsrat kraft
 Gesetzes finden ab dem Zeitpunkt der Eintragung der SE Anwendung, wenn
@@ -777,6 +809,7 @@ Gesetzes finden ab dem Zeitpunkt der Eintragung der SE Anwendung, wenn
 
 
 ###### § 23 Errichtung des SE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002400000)
 
 (1) Zur Sicherung des Rechts auf Unterrichtung und Anhörung in der SE
 ist ein SE-Betriebsrat zu errichten. Dieser setzt sich aus
@@ -815,6 +848,7 @@ SE-Betriebsrats (geschäftsführender Ausschuss).
 
 
 ###### § 24 Sitzungen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002500000)
 
 (1) Der SE-Betriebsrat soll sich eine schriftliche Geschäftsordnung
 geben, die er mit der Mehrheit seiner Mitglieder beschließt.
@@ -833,6 +867,7 @@ Mehrheit der anwesenden Mitglieder gefasst.
 
 
 ###### § 25 Prüfung der Zusammensetzung des SE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002600000)
 
 Alle zwei Jahre, vom Tage der konstituierenden Sitzung des SE-
 Betriebsrats an gerechnet, hat die Leitung der SE zu prüfen, ob
@@ -849,6 +884,7 @@ Mitgliedstaaten.
 
 
 ###### § 26 Beschluss zur Aufnahme von Neuverhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002700000)
 
 (1) Vier Jahre nach seiner Einsetzung hat der SE-Betriebsrat mit der
 Mehrheit seiner Mitglieder einen Beschluss darüber zu fassen, ob über
@@ -863,10 +899,12 @@ die bisherige Regelung weiter Anwendung.
 
 
 ##### Unterabschnitt 2 - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001100000)
 
 
 
 ###### § 27 Zuständigkeiten des SE-Betriebsrats
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002800000)
 
 Der SE-Betriebsrat ist zuständig für die Angelegenheiten, die die SE
 selbst, eine ihrer Tochtergesellschaften oder einen ihrer Betriebe in
@@ -876,6 +914,7 @@ hinausgehen.
 
 
 ###### § 28 Jährliche Unterrichtung und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE002900000)
 
 (1) Die Leitung der SE hat den SE-Betriebsrat mindestens einmal im
 Kalenderjahr in einer gemeinsamen Sitzung über die Entwicklung der
@@ -939,6 +978,7 @@ Sitzung.
 
 
 ###### § 29 Unterrichtung und Anhörung über außergewöhnliche Umstände
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003000000)
 
 (1) Über außergewöhnliche Umstände, die erhebliche Auswirkungen auf
 die Interessen der Arbeitnehmer haben, hat die Leitung der SE den SE-
@@ -978,6 +1018,7 @@ Einigung herbeizuführen.
 
 
 ###### § 30 Information durch den SE-Betriebsrat
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003100000)
 
 Der SE-Betriebsrat informiert die Arbeitnehmervertreter der SE, ihrer
 Tochtergesellschaften und Betriebe über den Inhalt und die Ergebnisse
@@ -986,10 +1027,12 @@ Arbeitnehmervertreter vorhanden, sind die Arbeitnehmer zu informieren.
 
 
 ##### Unterabschnitt 3 - Freistellung und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001200000)
 
 
 
 ###### § 31 Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003200000)
 
 Der SE-Betriebsrat kann Mitglieder zur Teilnahme an Schulungs- und
 Bildungsveranstaltungen bestimmen, soweit diese Kenntnisse vermitteln,
@@ -1000,6 +1043,7 @@ sind die betrieblichen Notwendigkeiten zu berücksichtigen.
 
 
 ###### § 32 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003300000)
 
 Der SE-Betriebsrat oder der geschäftsführende Ausschuss können sich
 durch Sachverständige ihrer Wahl unterstützen lassen, soweit dies zur
@@ -1008,6 +1052,7 @@ Sachverständige können auch Vertreter von Gewerkschaften sein.
 
 
 ###### § 33 Kosten und Sachaufwand
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003400000)
 
 Die durch die Bildung und Tätigkeit des SE-Betriebsrats und des
 geschäftsführenden Ausschusses entstehenden erforderlichen Kosten
@@ -1015,10 +1060,12 @@ trägt die SE. Im Übrigen gilt § 19 Satz 2 entsprechend.
 
 
 #### Abschnitt 2 - Mitbestimmung kraft Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001300000)
 
 
 
 ##### § 34 Besondere Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003500000)
 
 (1) Liegen die Voraussetzungen des § 22 vor, finden die Regelungen
 über die Mitbestimmung der Arbeitnehmer kraft Gesetzes nach den §§ 35
@@ -1091,6 +1138,7 @@ Buchstabe b und Absatz 2 Satz 1 gefasst hat.
 
 
 ##### § 35 Umfang der Mitbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003600000)
 
 (1) Liegen die Voraussetzungen des § 34 Abs. 1 Nr. 1 (Gründung einer
 SE durch Umwandlung) vor, bleibt die Regelung zur Mitbestimmung
@@ -1109,6 +1157,7 @@ Gesellschaften vor der Eintragung der SE bestanden hat.
 
 
 ##### § 36 Sitzverteilung und Bestellung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003700000)
 
 (1) Der SE-Betriebsrat verteilt die Zahl der Sitze im Aufsichts- oder
 Verwaltungsorgan auf die Mitgliedstaaten, in denen Mitglieder zu
@@ -1147,6 +1196,7 @@ Hauptversammlung ist an diese Vorschläge gebunden.
 
 
 ##### § 37 Abberufung und Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003800000)
 
 (1) Ein Mitglied oder ein Ersatzmitglied der Arbeitnehmer aus dem
 Inland im Aufsichts- oder Verwaltungsorgan kann vor Ablauf der
@@ -1188,6 +1238,7 @@ Hauptversammlung erhoben werden.
 
 
 ##### § 38 Rechtsstellung; Innere Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE003900000)
 
 (1) Die Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der
 SE haben die gleichen Rechte und Pflichten wie die Mitglieder, die die
@@ -1206,10 +1257,12 @@ Vorschlag der Anteilseigner- und der Arbeitnehmervertreter zu wählen.
 
 
 #### Abschnitt 3 - Tendenzschutz
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001400000)
 
 
 
 ##### § 39 Tendenzunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004000000)
 
 (1) Auf eine SE, die unmittelbar und überwiegend
 
@@ -1233,10 +1286,12 @@ entstehen.
 
 
 ## Teil 4 - Grundsätze der Zusammenarbeit und Schutzbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001500000)
 
 
 
 ### § 40 Vertrauensvolle Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004100000)
 
 Die Leitung der SE und der SE-Betriebsrat oder die
 Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und
@@ -1245,6 +1300,7 @@ der Unternehmensgruppe vertrauensvoll zusammen.
 
 
 ### § 41 Geheimhaltung; Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004200000)
 
 (1) Informationspflichten der Leitungen und der Leitung der SE nach
 diesem Gesetz bestehen nur, soweit bei Zugrundelegung objektiver
@@ -1324,6 +1380,7 @@ Die Pflicht zur Vertraulichkeit gilt ferner nicht für
 
 
 ### § 42 Schutz der Arbeitnehmervertreter
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004300000)
 
 Bei der Wahrnehmung ihrer Aufgaben genießen die
 
@@ -1362,6 +1419,7 @@ beschäftigt sind. Dies gilt insbesondere für
 
 
 ### § 43 Missbrauchsverbot
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004400000)
 
 Eine SE darf nicht dazu missbraucht werden, den Arbeitnehmern
 Beteiligungsrechte zu entziehen oder vorzuenthalten. Missbrauch wird
@@ -1372,6 +1430,7 @@ vorenthalten oder entzogen werden.
 
 
 ### § 44 Errichtungs- und Tätigkeitsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004500000)
 
 Niemand darf
 
@@ -1400,10 +1459,12 @@ Niemand darf
 
 
 ## Teil 5 - Straf- und Bußgeldvorschriften; Schlussbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNG001600000)
 
 
 
 ### § 45 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004600000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1450,6 +1511,7 @@ antragsberechtigt.
 
 
 ### § 46 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004700000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1470,6 +1532,7 @@ zwanzigtausend Euro geahndet werden.
 
 
 ### § 47 Geltung nationalen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004800000)
 
 (1) Dieses Gesetz berührt nicht die den Arbeitnehmern nach
 inländischen Rechtsvorschriften und Regelungen zustehenden
@@ -1492,6 +1555,7 @@ Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
 
 
 ### § 48 Sonderregelung aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/sebg/BJNR368600004.html#BJNR368600004BJNE004905126)
 
 Bis zum Ablauf des 7. April 2023 können im Rahmen der Unterrichtung
 und Anhörung die Teilnahme an Sitzungen eines SE-Betriebsrats oder

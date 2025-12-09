@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anspruchsberechtigter, Fördergebiet
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000103377)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
 Körperschaftsteuergesetzes, die im Fördergebiet begünstigte
@@ -42,6 +43,7 @@ das Grundgesetz vor dem 3. Oktober 1990 gegolten hat.
 
 
 ## § 2 Betriebliche Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000205377)
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
 von neuen abnutzbaren beweglichen Wirtschaftsgütern des
@@ -290,6 +292,7 @@ Wirtschaftsgütern, die einem der folgenden Vorgänge dienen:
 
 
 ## § 3 Modernisierungsmaßnahmen an Mietwohngebäuden sowie Mietwohnungsneubau im innerörtlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000310377)
 
 (1) Begünstigte Investitionen sind:
 
@@ -426,6 +429,7 @@ sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
 
 
 ## § 3a Erhöhte Investitionszulage für Modernisierungsmaßnahmen an Mietwohngebäuden im innerörtlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001602377)
 
 (1) Begünstigte Investitionen sind:
 
@@ -509,6 +513,7 @@ Bemessungsgrundlage.
 
 
 ## § 4 Modernisierungsmaßnahmen an einer eigenen Wohnzwecken dienenden Wohnung im eigenen Haus
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000605377)
 
 (1) Begünstigt sind Herstellungs- und Erhaltungsarbeiten an einer
 Wohnung im eigenen Haus oder an einer eigenen Eigentumswohnung, wenn
@@ -558,6 +563,7 @@ Bemessungsgrundlage.
 
 
 ## § 5 Antrag auf Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001700377)
 
 (1) Ehegatten, die gemeinsam Eigentümer einer Wohnung sind, können die
 Investitionszulage nach § 4 gemeinsam beantragen, wenn in dem Jahr,
@@ -579,6 +585,7 @@ Nachprüfung möglich ist.
 
 
 ## § 5a Gesonderte Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001302377)
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
 § 180 Abs. 1 Nr. 2b der Abgabenordnung gesondert festgestellt, sind
@@ -590,6 +597,7 @@ Angaben sind in den Antrag nach § 5 Abs. 3 aufzunehmen.
 
 
 ## § 6 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001804377)
 
 (1) Die für Steuervergütungen geltenden Vorschriften der
 Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163
@@ -654,6 +662,7 @@ Körperschaftsteuer auszuzahlen.
 
 
 ## § 7 Verzinsung des Rückforderungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000702377)
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
 zuungunsten des Anspruchsberechtigten geändert worden, so ist der
@@ -666,6 +675,7 @@ ist.
 
 
 ## § 8 Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000803377)
 
 Für die Verfolgung einer Straftat nach §§ 263 und 264 des
 Strafgesetzbuchs, die sich auf die Investitionszulage bezieht, sowie
@@ -675,6 +685,7 @@ Steuerstraftaten entsprechend.
 
 
 ## § 9 Ertragsteuerliche Behandlung der Investitionszulage
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE000902377)
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
@@ -683,6 +694,7 @@ Erhaltungsaufwendungen.
 
 
 ## § 10 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001409377)
 
 (1) (weggefallen)
 
@@ -756,6 +768,7 @@ anzuwenden, die nach dem 30. Juni 2001 begonnen worden sind.
 
 
 ## § 11 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001003377)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
@@ -763,6 +776,7 @@ bekannt zu machen.
 
 
 ## Anlage 1 (zu § 2 Abs. 2 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001208377)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3328
 
@@ -813,6 +827,7 @@ Sensible Sektoren sind:
 
 
 ## Anlage 2 (zu § 2 Abs. 6 Nr. 3 und Abs. 7 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001900377)
 
 Fundstelle des Originaltexte: BGBl. I 2002, 4041;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -855,6 +870,7 @@ Landkreis Saale-Orla-Kreis, Landkreis Greiz.
 
 
 ## Anlage 3 (zu § 10 Abs. 3 und 4)
+[Direktlink](https://www.gesetze-im-internet.de/invzulg_1999/BJNR207010997.html#BJNR207010997BJNE001503377)
 
 Fundstelle des Originaltextes: BGBl. I 4042 - 4043;
 bzgl. der einzelnen Änderungen vgl. Fußnote

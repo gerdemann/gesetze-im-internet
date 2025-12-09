@@ -25,6 +25,7 @@ Tätigkeit von E-Geld-Instituten (ABl. EG Nr. L 275 S. 39).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000100000)
 
 Auf Grund des § 11 Abs. 1 Satz 2 des Kreditwesengesetzes, der durch
 Artikel 1 Nr. 16 des Gesetzes vom 17. November 2006 (BGBl. I S. 2606)
@@ -34,6 +35,7 @@ Spitzenverbände der Institute:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000203128)
 
 Diese Verordnung ist anzuwenden auf diejenigen Kreditinstitute, auf
 die die Vorschriften des Teils 6 der Verordnung (EU) Nr. 575/2013 des
@@ -48,6 +50,7 @@ S. 4) geändert worden ist, nicht anzuwenden sind.
 
 
 ## § 2 Ausreichende Liquidität
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000300000)
 
 (1) Die Liquidität eines Instituts gilt als ausreichend, wenn die zu
 ermittelnde Liquiditätskennzahl den Wert eins nicht unterschreitet.
@@ -84,6 +87,7 @@ berücksichtigen.
 
 
 ## § 3 Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000403124)
 
 (1) Als Zahlungsmittel sind im Laufzeitband 1 vorbehaltlich Absatz 3
 zu erfassen
@@ -226,6 +230,7 @@ und 2 sind
 
 
 ## § 4 Zahlungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000502124)
 
 (1) Als Zahlungsverpflichtungen sind im Laufzeitband 1 zu erfassen
 
@@ -336,6 +341,7 @@ nach Baufortschritt ausgezahlt werden, sind zu erfassen in Höhe von
 
 
 ## § 5 Wertpapierpensions- und Wertpapierleihgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000600000)
 
 (1) Im Rahmen echter Pensionsgeschäfte verpensionierte Wertpapiere
 sind dem Bestand des Pensionsnehmers zuzurechnen, der eine daraus
@@ -376,6 +382,7 @@ entsprechender Höhe gegenübersteht.
 
 
 ## § 6 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000701360)
 
 (1) Bemessungsgrundlage sind bei
 
@@ -471,6 +478,7 @@ haben.
 
 
 ## § 7 Restlaufzeiten
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000800000)
 
 Als Restlaufzeit gilt
 
@@ -519,15 +527,18 @@ Festgelder mit eintägiger Laufzeit behandelt.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE000901124)
 
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001001360)
 
 -
 
 
 ## § 10 Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001102124)
 
 (1) Zur Beurteilung der ausreichenden Liquidität darf das Institut
 nach dauerhafter Wahl mit Zustimmung der Bundesanstalt anstelle der §§
@@ -609,6 +620,7 @@ schriftlich bestätigt hat. Die Absätze 1 bis 3 gelten entsprechend.
 
 
 ## § 11 Meldungen der Kennzahlen
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001200000)
 
 (1) Die Institute haben der Deutschen Bundesbank zu den Anforderungen
 nach § 2 nach dem Stand zum Meldestichtag Ende des Monats Meldungen
@@ -638,22 +650,26 @@ vorangegangenen Kalenderjahre aufzubewahren.
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001301360)
 
 -
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001400000)
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001501360)
 
 -
 
 (zu § 11 Abs. 1 Satz 1)
 
 ## Anlage 2 Meldevordruck LV 1
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001602124)
 
 (Fundstelle: BGBl. I 2017, 4035 — 4040)
 
@@ -666,6 +682,7 @@ Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 (zu § 11 Abs. 1 Satz 1)
 
 ## Anlage 3 Meldevordruck LV 2
+[Direktlink](https://www.gesetze-im-internet.de/liqv/BJNR311700006.html#BJNR311700006BJNE001701124)
 
 (Fundstelle: BGBl. I 2017, 4041)
 

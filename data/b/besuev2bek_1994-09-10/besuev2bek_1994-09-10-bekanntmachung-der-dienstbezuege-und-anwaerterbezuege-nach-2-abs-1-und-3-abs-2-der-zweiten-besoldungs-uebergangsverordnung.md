@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000100320)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
 Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035),
@@ -37,6 +38,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage IA Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000200320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2578 - 2580)
@@ -44,6 +46,7 @@ Fundstelle: BGBl. I 1994, 2578 - 2580)
 (Anlage V des BBesG)
 
 ## Anlage IB Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000300320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2580)
@@ -51,6 +54,7 @@ Fundstelle: BGBl. I 1994, 2580)
 (Anlage IX des BBesG)
 
 ## Anlage IC Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000400320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2581 - 2583)
@@ -58,6 +62,7 @@ Fundstelle: BGBl. I 1994, 2581 - 2583)
 (Anlage IV des BBesG)
 
 ## Anlage IIA Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000500320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2584 - 2586)
@@ -65,6 +70,7 @@ Fundstelle: BGBl. I 1994, 2584 - 2586)
 (Anlage V des BBesG)
 
 ## Anlage IIB Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000600320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2586)
@@ -72,6 +78,7 @@ Fundstelle: BGBl. I 1994, 2586)
 (Anlage IX des BBesG)
 
 ## Anlage IIC Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000700320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2587 - 2589)
@@ -79,6 +86,7 @@ Fundstelle: BGBl. I 1994, 2587 - 2589)
 (Anlage VIII des BBesG)
 
 ## Anlage III Gültig ab 1. Oktober 1994
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1994-09-10/BJNR257700994.html#BJNR257700994BJNE000800320)
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2590)

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000100000)
 
 Auf Grund des § 13 Abs. 2 des Zweiten Buches Sozialgesetzbuch –
 Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24.
@@ -30,6 +31,7 @@ worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000200000)
 
 Hilfebedürftige sind nach Vollendung des 63. Lebensjahres nicht
 verpflichtet, eine Rente wegen Alters vorzeitig in Anspruch zu nehmen,
@@ -37,18 +39,21 @@ wenn die Inanspruchnahme unbillig wäre.
 
 
 ## § 2 Verlust eines Anspruchs auf Arbeitslosengeld
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000300000)
 
 Unbillig ist die Inanspruchnahme, wenn und solange sie zum Verlust
 eines Anspruchs auf Arbeitslosengeld führen würde.
 
 
 ## § 3 Bevorstehende abschlagsfreie Altersrente
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000400000)
 
 Unbillig ist die Inanspruchnahme, wenn Hilfebedürftige in nächster
 Zukunft die Altersrente abschlagsfrei in Anspruch nehmen können.
 
 
 ## § 4 Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000500000)
 
 Unbillig ist die Inanspruchnahme, solange Hilfebedürftige
 sozialversicherungspflichtig beschäftigt sind oder aus sonstiger
@@ -58,6 +63,7 @@ nur, wenn die Beschäftigung oder sonstige Erwerbstätigkeit den
 
 
 ## § 5 Bevorstehende Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000600000)
 
 (1) Unbillig ist die Inanspruchnahme, wenn Hilfebedürftige durch die
 Vorlage eines Arbeitsvertrages oder anderer ebenso verbindlicher,
@@ -75,6 +81,7 @@ Stande kommen wird, entfällt die Unbilligkeit.
 
 
 ## § 6 Hilfebedürftigkeit im Alter
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000800119)
 
 Unbillig ist die Inanspruchnahme, wenn Leistungsberechtigte dadurch
 hilfebedürftig im Sinne der Grundsicherung im Alter und bei
@@ -88,6 +95,7 @@ Person nach dem Zweiten Buch Sozialgesetzbuch.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/unbilligkeitsv/BJNR073400008.html#BJNR073400008BJNE000701119)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2008 in Kraft.
 

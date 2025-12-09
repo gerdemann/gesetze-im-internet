@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000100000)
 
 Auf Grund des § 31 Absatz 4 des Gesetzes über die Deutsche Bundesbank,
 der durch Artikel 12 Nummer 1 Buchstabe b des Gesetzes vom 5. Februar
@@ -33,6 +34,7 @@ Innern und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Genehmigungspflicht von Nebentätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000200000)
 
 Abweichend von § 99 Absatz 1 Satz 2 Nummer 3 und § 100 Absatz 1 Nummer
 2 des Bundesbeamtengesetzes dürfen Beamtinnen und Beamte sowie
@@ -49,6 +51,7 @@ Angestellte der Deutschen Bundesbank nur mit vorheriger Genehmigung
 
 
 ## § 2 Bankzulage
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000301360)
 
 (1) Die Beamtinnen und Beamten sowie die Angestellten erhalten
 
@@ -118,6 +121,7 @@ Absatz 4 gilt für die Ausgleichszulage entsprechend.
 
 
 ## § 3 Leistungszulagen und Leistungsprämien
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000400000)
 
 (1) Einer Beamtin, einem Beamten, einer Angestellten, einem
 Angestellten, einer Arbeiterin oder einem Arbeiter kann für besondere
@@ -144,6 +148,7 @@ und 2 gelten entsprechend bei Höhergruppierungen.
 
 
 ## § 4 Ausschuss zur Feststellung der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000501360)
 
 (1) Die nach § 19 des Bundesbeamtengesetzes vorzunehmende Feststellung
 der Befähigung von Bewerberinnen und Bewerbern erfolgt durch einen
@@ -164,6 +169,7 @@ Bundesbeamtengesetzes zulassen.
 
 
 ## § 5 Versetzung ohne Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000600000)
 
 Abweichend von § 28 Absatz 2 des Bundesbeamtengesetzes können
 Beamtinnen und Beamte auch ohne ihre Zustimmung versetzt werden, wenn
@@ -171,6 +177,7 @@ ein wichtiger Grund in ihrer Person vorliegt.
 
 
 ## § 6 Hinausschieben einer Entlassung auf Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000700000)
 
 Die von einer Beamtin oder einem Beamten beantragte Entlassung kann
 bis zu sechs Monate über den beantragten Zeitpunkt hinaus aufgeschoben
@@ -179,6 +186,7 @@ Bundesbeamtengesetzes nicht vorliegen.
 
 
 ## § 7 Berücksichtigung von Zeiten außerhalb des Beamtenverhältnisses für die ruhegehaltfähige Dienstzeit
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000800000)
 
 Abweichend von § 11 des Beamtenversorgungsgesetzes kann die Zeit,
 während derer eine Beamtin oder ein Beamter nach Vollendung des 17.
@@ -189,6 +197,7 @@ bilden, voll als ruhegehaltfähige Dienstzeit berücksichtigt werden.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bbankpersv/BJNR385600009.html#BJNR385600009BJNE000900000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.

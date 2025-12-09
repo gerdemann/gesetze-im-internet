@@ -18,9 +18,11 @@ Fundstelle
 Stand: Ersetzt V 2030-7-6-6 v. 28.7.2004 I 1939 (LAP-mDAAV 2004)
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNG000100000)
 
 
 ### § 1 Vorbereitungsdienst für den mittleren Auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000200000)
 
 Der Vorbereitungsdienst für den mittleren Auswärtigen Dienst dauert
 zwei Jahre. Er besteht aus einer fachtheoretischen und einer
@@ -28,6 +30,7 @@ berufspraktischen Ausbildung.
 
 
 ### § 2 Ziele und Inhalte der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000300000)
 
 (1) Die Anwärterinnen und Anwärter werden auf ihre beruflichen
 Aufgaben im mittleren Auswärtigen Dienst und die damit einhergehende
@@ -75,6 +78,7 @@ weiterzubilden.
 
 
 ### § 3 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000400000)
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -112,6 +116,7 @@ Nummer 5 ebenfalls erfüllen.
 
 
 ### § 4 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000500000)
 
 (1) Menschen mit Schwerbehinderung, diesen gleichgestellten Menschen
 mit Behinderung und Menschen mit Beeinträchtigungen, die die Umsetzung
@@ -153,9 +158,11 @@ Ausbildungsleiter mit.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNG000200000)
 
 
 ### § 5 Ziele des Auswahlverfahrens, allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000600000)
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das
 Auswärtige Amt auf Grundlage eines Auswahlverfahrens.
@@ -192,6 +199,7 @@ Auswahlverfahren ausgeschlossen.
 
 
 ### § 6 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000700000)
 
 (1) Zum Auswahlverfahren wird zugelassen, wer nach den Angaben in der
 Bewerbung die Voraussetzungen, die in der Ausschreibung für die
@@ -213,6 +221,7 @@ elektronische Mitteilung über die Ablehnung.
 
 
 ### § 7 Teile des Auswahlverfahrens, Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000800000)
 
 (1) Das Auswahlverfahren umfasst einen schriftlichen und einen
 mündlichen Teil, die jeweils aus mehreren Abschnitten bestehen.
@@ -258,6 +267,7 @@ Auswahlverfahrens über die Dauer und den Ablauf des jeweiligen Teils.
 
 
 ### § 8 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE000900000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere
 die kognitiven Fähigkeiten geprüft.
@@ -293,6 +303,7 @@ schriftlichen Teil des Auswahlverfahrens bestanden haben.
 
 
 ### § 9 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001000000)
 
 (1) Wer den schriftlichen Teil des Auswahlverfahrens bestanden hat,
 wird zum mündlichen Teil des Auswahlverfahrens zugelassen. Die
@@ -321,6 +332,7 @@ zum mündlichen Teil zugelassen.
 
 
 ### § 10 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001100000)
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere die
 sozialen Kompetenzen, die für die Tätigkeiten im mittleren Auswärtigen
@@ -348,6 +360,7 @@ Auswahlinstrumente ergänzt werden.
 
 
 ### § 11 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001200000)
 
 (1) Für die Durchführung eines Auswahlverfahrens richtet das
 Auswärtige Amt jeweils eine Auswahlkommission ein. Bei Bedarf können
@@ -448,6 +461,7 @@ zulässig.
 
 
 ### § 12 Ergebnis des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001300000)
 
 (1) Die Auswahlkommission nimmt am Ende eines Auswahltages für jede
 Bewerberin und jeden Bewerber, die oder der an diesem Auswahltag den
@@ -476,6 +490,7 @@ erscheint.
 
 
 ### § 13 Wiederholte Teilnahme am Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001400000)
 
 (1) Bewerberinnen und Bewerber, die im mündlichen Teil des
 Auswahlverfahrens eine festgelegte Mindestpunktzahl für eine
@@ -501,9 +516,11 @@ erneut zu durchlaufen.
 
 
 ## Abschnitt 3 - Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNG000300000)
 
 
 ### § 14 Aufbau und Dauer der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001500000)
 
 (1) Der Vorbereitungsdienst dauert 24 Monate und besteht aus
 
@@ -527,6 +544,7 @@ Auswärtige Amt.
 
 
 ### § 15 Fachtheoretische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001600000)
 
 (1) Die fachtheoretische Ausbildung erfolgt im Einführungslehrgang und
 im Abschlusslehrgang. Sie vermittelt den Anwärterinnen und Anwärtern
@@ -586,6 +604,7 @@ ist möglich.
 
 
 ### § 16 Einführungslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001700000)
 
 (1) Der Einführungslehrgang vermittelt den Anwärterinnen und Anwärtern
 die für den mittleren Auswärtigen Dienst erforderlichen
@@ -596,6 +615,7 @@ ab.
 
 
 ### § 17 Inlandspraktikum
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001800000)
 
 (1) Das Inlandspraktikum wird in der Zentrale durchgeführt.
 
@@ -605,6 +625,7 @@ Dokumentation und Aktenführung.
 
 
 ### § 18 Auslandspraktikum
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE001900000)
 
 (1) Das Auslandspraktikum wird an einer Auslandsvertretung
 durchgeführt.
@@ -631,6 +652,7 @@ englischen Sprache oder der Wahlpflichtsprache zu nehmen.
 
 
 ### § 19 Berufspraktische Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002000000)
 
 (1) Die berufspraktische Ausbildung besteht aus dem Inlandspraktikum
 und dem Auslandspraktikum. Die Anwärterinnen und Anwärter sollen die
@@ -668,6 +690,7 @@ Amts.
 
 
 ### § 20 Vermittlung von Fremdsprachen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002100000)
 
 (1) Im Rahmen der fachtheoretischen Ausbildung nach § 15 erhalten die
 Anwärterinnen und Anwärter Unterricht in der englischen Sprache als
@@ -685,6 +708,7 @@ der Wahlpflichtsprache im Schlusslehrgang bleibt hiervon unberührt.
 
 
 ### § 21 Abschlusslehrgang
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002200000)
 
 (1) Der Abschlusslehrgang baut auf dem Einführungslehrgang und der
 berufspraktischen Ausbildung auf und vertieft die dort erworbenen
@@ -694,6 +718,7 @@ Kenntnisse und Fähigkeiten.
 
 
 ### § 22 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002300000)
 
 Die Zeiten des Erholungsurlaubs werden während des Auslandspraktikums
 auf Antrag durch die jeweilige Auslandsvertretung gewährt. In allen
@@ -702,9 +727,11 @@ Ausbildungsleiterin oder den Ausbildungsleiter bestimmt.
 
 
 ## Abschnitt 4 - Prüfungen und Bewertungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNG000400000)
 
 
 ### § 23 Bewertung der Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002400000)
 
 (1) Die Leistungen der Anwärterinnen und Anwärter im Rahmen der
 fachtheoretischen und berufspraktischen Ausbildung sowie der
@@ -885,6 +912,7 @@ Durchschnittsrangpunkte kaufmännisch auf volle Rangpunkte gerundet.
 
 
 ### § 24 Leistungstests während der fachtheoretischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002500000)
 
 (1) Im Einführungslehrgang sind drei schriftliche Leistungstests in
 den in § 15 Absatz 1 genannten Fachgebieten, ein Leistungstest in den
@@ -921,6 +949,7 @@ Absätzen 1 und 2 zu absolvierenden Leistungstests reduziert wird.
 
 
 ### § 25 Bewertung während der berufspraktischen Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002600000)
 
 (1) Am Ende jedes Abschnitts der berufspraktischen Ausbildung von
 mindestens zwei Wochen Dauer erstellt die Ausbildungskoordinatorin
@@ -937,6 +966,7 @@ eine Ausfertigung.
 
 
 ### § 26 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002700000)
 
 (1) In der Laufbahnprüfung weisen die Anwärterinnen und Anwärter nach,
 dass ihre Kenntnisse und Fähigkeiten den Anforderungen an Beamtinnen
@@ -960,6 +990,7 @@ und Beamte des mittleren Auswärtigen Dienstes genügen.
 
 
 ### § 27 Prüferinnen und Prüfer für die schriftlichen Sprach- und Fachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002800000)
 
 (1) Prüferinnen und Prüfer für die schriftlichen Fachprüfungen sind
 zum einen die Dozentinnen und Dozenten der Akademie Auswärtiger
@@ -986,6 +1017,7 @@ Rangpunkte abgerundet.
 
 
 ### § 28 Prüfungskommission für die mündlichen Sprach- und Fachprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE002900000)
 
 (1) Die mündliche Laufbahnprüfung wird durch eine Prüfungskommission
 abgenommen, welche die Leistungen in den mündlichen Prüfungen
@@ -1065,6 +1097,7 @@ Fachprüfung aus § 30 Absatz 5 Satz 1.
 
 
 ### § 29 Sprachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003000000)
 
 (1) In der Sprachprüfung wird in einem schriftlichen und einem
 mündlichen Teil die Kenntnis der englischen Sprache entsprechend den
@@ -1101,6 +1134,7 @@ Zeugnis über das Ergebnis der Sprachprüfung.
 
 
 ### § 30 Fachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003100000)
 
 (1) In der schriftlichen Fachprüfung sind vier Prüfungsarbeiten mit
 einer Bearbeitungszeit von je 180 Minuten anzufertigen. In Absprache
@@ -1152,6 +1186,7 @@ Protokoll gefertigt.
 
 
 ### § 31 Ermittlung der Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003200000)
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter berechnet die
 abschließenden Rangpunkte unter Berücksichtigung aller
@@ -1214,6 +1249,7 @@ Bildung von Noten unberücksichtigt.
 
 
 ### § 32 Verhinderung, Säumnis, Rücktritt, Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003300000)
 
 (1) Wer aus wichtigem Grund verhindert ist, eine Prüfungsleistung
 rechtzeitig zu erbringen, hat dies unverzüglich und eindeutig
@@ -1272,6 +1308,7 @@ und 2 gelten entsprechend.
 
 
 ### § 33 Störungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003400000)
 
 Sieht sich die Anwärterin oder der Anwärter während einer Prüfung
 durch äußere Einwirkungen erheblich gestört, so hat sie oder er dies
@@ -1280,6 +1317,7 @@ Prüfung können Störungen nicht mehr geltend gemacht werden.
 
 
 ### § 34 Verstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003500000)
 
 (1) Verstöße bei Prüfungen können sein:
 
@@ -1328,12 +1366,14 @@ das Prüfungszeugnis zurückzugeben.
 
 
 ### § 35 Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003600000)
 
 Die bestandene Laufbahnprüfung berechtigt dazu, die Berufsbezeichnung
 „Verwaltungswirtin“ oder „Verwaltungswirt“ zu führen.
 
 
 ### § 36 Prüfungszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003700000)
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter erstellt für
 die Anwärterinnen und Anwärter, die die Laufbahnprüfung bestanden
@@ -1361,6 +1401,7 @@ Prüfungszeugnisse sind zurückzugeben.
 
 
 ### § 37 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003800000)
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -1395,6 +1436,7 @@ in die sie betreffenden Teile der Prüfungsakten nehmen.
 
 
 ### § 38 Wiederholung von Prüfungen und Ausbildungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE003900000)
 
 (1) Eine nicht bestandene Laufbahnprüfung kann einmal wiederholt
 werden. Das Auswärtige Amt kann in begründeten Ausnahmefällen eine
@@ -1425,9 +1467,11 @@ die bisher erreichten.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNG000500000)
 
 
 ### § 39 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/madvdv/BJNR05C0C0025.html#BJNR05C0C0025BJNE004000000)
 
 (1) Für Anwärterinnen und Anwärter, die vor dem 25. März 2025 mit dem
 Vorbereitungsdienst begonnen haben, ist die Verordnung über die

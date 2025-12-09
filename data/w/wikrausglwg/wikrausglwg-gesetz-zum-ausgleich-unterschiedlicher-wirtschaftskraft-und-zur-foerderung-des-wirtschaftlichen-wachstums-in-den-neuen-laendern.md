@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000102377)
 
 Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des
 wirtschaftlichen Wachstums gewährt der Bund den Ländern Berlin,
@@ -33,6 +34,7 @@ Abs. 1 Satz 2 abgesenkt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000204377)
 
 (1) Von dem Jahresbetrag der Finanzhilfen erhalten die Länder
 
@@ -88,6 +90,7 @@ jährlich 10 Millionen Deutsche Mark zur Verfügung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000300307)
 
 Durch die Finanzhilfen werden zum Ausgleich unterschiedlicher
 Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums
@@ -145,6 +148,7 @@ folgende strukturverbessernde Investitionen gefördert:
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000400307)
 
 (1) Für Investitionen, die nach anderen Gesetzen und
 Verwaltungsvereinbarungen als Anteilsfinanzierung nach Artikel 104a
@@ -158,6 +162,7 @@ sie unmittelbar in ursächlichem Zusammenhang mit den Maßnahmen nach §
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000500307)
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der
 öffentlichen Finanzierung. Die Länder können abweichend von Satz 1
@@ -180,6 +185,7 @@ gilt entsprechend.
 
 
 ## § 5a
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000700377)
 
 (1) Für den Zeitraum, in dem Mittel dieses Gesetzes nicht für die in §
 3 festgelegten Zwecke oder abweichend von § 5 Abs. 2 Satz 2 und 3
@@ -193,6 +199,7 @@ unberührt.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wikrausglwg/BJNR098200993.html#BJNR098200993BJNE000600307)
 
 Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes
 werden durch Verwaltungsvereinbarung geregelt.

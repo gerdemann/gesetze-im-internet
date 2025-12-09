@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000100000)
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
@@ -49,6 +50,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
 
 ## § 1 Befahrensverbot
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000200000)
 
 (1) Das Befahren der als Promenadenweg ausgebauten Berme auf der
 Uferschutzmauer der Insel Borkum vom nördlichen Anfang (Buhne 1) bis
@@ -62,6 +64,7 @@ Verordnung, durch Zäune oder durch Schranken kenntlich gemacht.
 
 
 ## § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000300000)
 
 (1) Ausnahmen von dem Verbot des § 1 Absatz 1 können durch
 Einzelgenehmigung zugelassen werden.
@@ -79,6 +82,7 @@ werden.
 
 
 ## § 3 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000400000)
 
 Von dem Befahrensverbot des § 1 Absatz 1 sind die Bediensteten oder
 Beauftragten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
@@ -88,12 +92,14 @@ das Befahren zur Erfüllung der dienstlichen Aufgaben erforderlich ist.
 
 
 ## § 4 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000500000)
 
 Ausnahmegenehmigungen nach § 2 erlässt das örtlich zuständige
 Wasserstraßen- und Schifffahrtsamt.
 
 
 ## § 5 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000601124)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -114,6 +120,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 6 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000701124)
 
 Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach
 dieser Verordnung aufgestellten Schildern bis zum 31. Dezember 2021
@@ -124,6 +131,7 @@ Strandschutzwerken auf der Nordseeinsel Borkum vom 22. Februar 1973
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000800000)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -134,6 +142,7 @@ Strandschutzwerken auf der Nordseeinsel Borkum vom 22. Februar 1973
 (zu § 1 Absatz 2)
 
 ## Anlage Schild zur Kennzeichnung der Verbote
+[Direktlink](https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/BJNR704380016.html#BJNR704380016BJNE000900000)
 
 (Fundstelle: VkBl. 2016, 439)
 

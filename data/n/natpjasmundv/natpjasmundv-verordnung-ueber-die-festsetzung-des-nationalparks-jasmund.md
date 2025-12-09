@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000100307)
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des
@@ -27,6 +28,7 @@ Bundesnaturschutzgesetzes wird verordnet:
 
 
 ## § 1 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000200307)
 
 (1) Die in § 2 näher bezeichnete Wald- und Küstenlandschaft der
 Stubnitz auf der Halbinsel Jasmund (Rügen) wird als Naturpark
@@ -36,6 +38,7 @@ festgesetzt.
 
 
 ## § 2 Flächenbeschreibung und Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000300307)
 
 (1) Der Nationalpark Jasmund umfaßt mit dem von Buchenwäldern
 bedeckten reliefierten Kreidehorst der Halbinsel Jasmund
@@ -119,6 +122,7 @@ zugänglich.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000400307)
 
 (1) Mit der Festsetzung zum Nationalpark wird bezweckt:
 
@@ -161,6 +165,7 @@ Gebiete dienen.
 
 
 ## § 4 Schutzzonen
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000500307)
 
 (1) Das Gebiet des Nationalparkes Jasmund wird in die Schutzzonen I,
 II und III gegliedert.
@@ -217,6 +222,7 @@ Karte M 1:10.000 eingetragen.
 
 
 ## § 5 Gebote
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000600307)
 
 (1) Im Nationalpark ist es geboten,
 
@@ -271,6 +277,7 @@ angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
 
 ## § 6 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000701307)
 
 (1) Alle Handlungen, die zu einer Zerstörung, Beschädigung oder
 Veränderung des Nationalparkes oder seiner Bestandteile oder zu einer
@@ -387,6 +394,7 @@ Absatz 1 verboten sind.
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000800307)
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -432,6 +440,7 @@ rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE000901307)
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
 gewährt werden, wenn
@@ -460,6 +469,7 @@ ganz oder teilweise delegieren.
 
 
 ## § 9 Einvernehmen
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001000307)
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
@@ -473,6 +483,7 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
 
 ## § 10 Entschädigung für Nutzungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001100307)
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
 Verordnung oder durch Maßnahmen auf Grund dieser Verordnung
@@ -484,6 +495,7 @@ angemessen ausgleichen.
 
 
 ## § 11 Vorrang dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001200307)
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
@@ -491,16 +503,19 @@ Anordnungen für dieses Gebiet vor.
 
 
 ## § 12 Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001300307)
 
 Diese Verordnung tritt am 1. Oktober 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001400307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE001500307)
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1467)
@@ -509,6 +524,7 @@ Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
 des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
 ## Anhang EV (BGBl. II 1990, 885, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/natpjasmundv/DDNR514670990.html#DDNR514670990BJNE888800301)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

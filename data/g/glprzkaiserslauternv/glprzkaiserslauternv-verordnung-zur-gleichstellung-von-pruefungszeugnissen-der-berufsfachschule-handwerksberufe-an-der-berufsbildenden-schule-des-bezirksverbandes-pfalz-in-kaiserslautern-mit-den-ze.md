@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzkaiserslauternv/BJNR148900007.html#BJNR148900007BJNE000101119)
 
 Auf Grund des § 50 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
 (BGBl. I S. 931), der durch Artikel 232 Nr. 1 der Verordnung vom 31.
@@ -41,6 +42,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzkaiserslauternv/BJNR148900007.html#BJNR148900007BJNE000202119)
 
 Die vom 1. Oktober 2006 bis zum 30. September 2026 von der
 Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des
@@ -160,6 +162,7 @@ Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
 
 ## § 2 Fortgeltung von Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/glprzkaiserslauternv/BJNR148900007.html#BJNR148900007BJNE000301119)
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
 Prüfungszeugnissen der Berufsfachschule - Handwerksberufe - an der
@@ -170,6 +173,7 @@ gelten fort.
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzkaiserslauternv/BJNR148900007.html#BJNR148900007BJNE000402119)
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
 und am 1. Oktober 2026 außer Kraft.
@@ -178,6 +182,7 @@ und am 1. Oktober 2026 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzkaiserslauternv/BJNR148900007.html#BJNR148900007BJNE000501119)
 
 Der Bundesrat hat zugestimmt.
 

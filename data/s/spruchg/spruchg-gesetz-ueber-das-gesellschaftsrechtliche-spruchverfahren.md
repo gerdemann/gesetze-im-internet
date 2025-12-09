@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000105125)
 
 Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die
 Bestimmung
@@ -64,6 +65,7 @@ Bestimmung
 
 
 ## § 2 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000202125)
 
 (1) Zuständig ist das Landgericht, in dessen Bezirk der Rechtsträger,
 dessen Anteilsinhaber antragsberechtigt sind, seinen Sitz hat oder
@@ -118,6 +120,7 @@ an Stelle der Kammer entscheiden.
 
 
 ## § 3 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000304125)
 
 Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
@@ -153,6 +156,7 @@ Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 
 
 ## § 4 Antragsfrist und Antragsbegründung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000406125)
 
 (1) Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach §
 1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in
@@ -215,6 +219,7 @@ Antragsteller gehaltenen Anteile ergeben.
 
 
 ## § 5 Antragsgegner
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000504125)
 
 Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1
 ist in den Fällen
@@ -251,6 +256,7 @@ Rechtsträger gerichtet werden.
 
 
 ## § 5a Vertretung durch einen Rechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE002100125)
 
 Vor den Landgerichten, den Oberlandesgerichten und einem Obersten
 Landesgericht müssen sich die Beteiligten durch einen Rechtsanwalt
@@ -261,6 +267,7 @@ Vertreter nicht anzuwenden.
 
 
 ## § 6 Gemeinsamer Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000604125)
 
 (1) Das Gericht hat den Antragsberechtigten, die nicht selbst
 Antragsteller sind, zur Wahrung ihrer Rechte frühzeitig einen
@@ -300,6 +307,7 @@ gleich.
 
 
 ## § 6a Gemeinsamer Vertreter bei Gründung einer SE
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001802125)
 
 Wird bei der Gründung einer SE durch Verschmelzung oder bei der
 Gründung einer Holding-SE nach dem Verfahren der Verordnung (EG) Nr.
@@ -316,6 +324,7 @@ Abs. 2 gilt entsprechend.
 
 
 ## § 6b Gemeinsamer Vertreter bei Gründung einer Europäischen Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001901125)
 
 Wird bei der Gründung einer Europäischen Genossenschaft durch
 Verschmelzung nach dem Verfahren der Verordnung (EG) Nr. 1435/2003 des
@@ -330,6 +339,7 @@ beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
 
 ## § 6c Grenzüberschreitende Umwandlungen
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE002200125)
 
 (1) Wird bei einer grenzüberschreitenden Umwandlung (§§ 305, 320 und
 333 des Umwandlungsgesetzes) ein Antrag auf Bestimmung einer
@@ -363,6 +373,7 @@ nach Satz 1 eingeleitet worden, so kann das Gericht insbesondere
 
 
 ## § 7 Vorbereitung der mündlichen Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000701160)
 
 (1) Das Gericht stellt dem Antragsgegner und dem gemeinsamen Vertreter
 die Anträge der Antragsteller unverzüglich zu.
@@ -427,6 +438,7 @@ Gerichtsbarkeit entsprechend anzuwenden.
 
 
 ## § 8 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000800000)
 
 (1) Das Gericht soll aufgrund mündlicher Verhandlung entscheiden. Sie
 soll so früh wie möglich stattfinden.
@@ -448,6 +460,7 @@ gelten entsprechend.
 
 
 ## § 9 Verfahrensförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE000900000)
 
 (1) Jeder Beteiligte hat in der mündlichen Verhandlung und bei deren
 schriftlicher Vorbereitung seine Anträge sowie sein weiteres
@@ -468,6 +481,7 @@ geltend zu machen.
 
 
 ## § 10 Verletzung der Verfahrensförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001001160)
 
 (1) Stellungnahmen oder Einwendungen, die erst nach Ablauf einer
 hierfür gesetzten Frist (§ 7 Abs. 2 Satz 3, Abs. 4) vorgebracht
@@ -490,6 +504,7 @@ wenn der Beteiligte die Verspätung genügend entschuldigt.
 
 
 ## § 10a Gewährung zusätzlicher Aktien
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE002301125)
 
 (1) Soweit gemäß § 72a des Umwandlungsgesetzes oder § 255a des
 Aktiengesetzes zusätzliche Aktien zu gewähren sind, bestimmt das
@@ -542,6 +557,7 @@ gemäß § 248a des Umwandlungsgesetzes entsprechend.
 
 
 ## § 11 Gerichtliche Entscheidung; Gütliche Einigung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001101125)
 
 (1) Das Gericht entscheidet durch einen mit Gründen versehenen
 Beschluss.
@@ -577,6 +593,7 @@ Beteiligten zuzustellen.
 
 
 ## § 11a Ermittlung der Kompensation durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE002400125)
 
 Einigen sich der Antragsgegner, die gemeinsamen Vertreter und eine
 Mehrheit von Antragstellern, die mindestens 90 Prozent des von
@@ -586,6 +603,7 @@ Höhe im Rahmen seiner Schätzung berücksichtigen.
 
 
 ## § 12 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001202125)
 
 (1) Gegen die Entscheidungen nach § 11 findet die Beschwerde statt.
 Sie ist durch Einreichung einer Beschwerdeschrift bei dem
@@ -603,6 +621,7 @@ Landesjustizverwaltung übertragen.
 
 
 ## § 13 Wirkung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001301125)
 
 Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für
 und gegen alle, einschließlich derjenigen Anteilsinhaber, die bereits
@@ -613,6 +632,7 @@ wurde.
 
 
 ## § 14 Bekanntmachung der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001403125)
 
 Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne
 Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
@@ -649,6 +669,7 @@ bekannt zu machen.
 
 
 ## § 15 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001502311)
 
 (1) Die Gerichtskosten können ganz oder zum Teil den Antragstellern
 auferlegt werden, wenn dies der Billigkeit entspricht.
@@ -661,6 +682,7 @@ entspricht.
 
 
 ## § 16 Zuständigkeit bei Leistungsklage
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001601125)
 
 Für Klagen auf Leistung des Ausgleichs, der Zuzahlung, zusätzlich zu
 gewährenden Aktien oder der Abfindung, die im Spruchverfahren bestimmt
@@ -670,6 +692,7 @@ zuletzt inhaltlich befasst war.
 
 
 ## § 17 Allgemeine Bestimmungen; Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/spruchg/BJNR083810003.html#BJNR083810003BJNE001702125)
 
 (1) Sofern in diesem Gesetz nichts anderes bestimmt ist, finden auf
 das Verfahren die Vorschriften des Gesetzes über das Verfahren in

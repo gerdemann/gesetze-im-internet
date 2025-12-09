@@ -27,6 +27,7 @@ Stand: Ersetzt V 806-21-1-233 v. 28.5.1997 I 1260 (GießVerfMAusbV 1997)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt
 durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
@@ -36,9 +37,11 @@ Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000300000)
 
 Der Ausbildungsberuf des Verfahrenstechnologen Metall und der
 Verfahrenstechnologin Metall wird nach § 4 Absatz 1 des
@@ -46,11 +49,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -68,6 +73,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -219,6 +225,7 @@ sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -226,12 +233,15 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000300000)
 
 
 #### § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000800000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -243,9 +253,11 @@ der Berufsausbildung.
 
 
 ### Unterabschnitt 2 - Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000400000)
 
 
 #### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -262,6 +274,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 #### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich
 Metalltechnik statt.
@@ -341,9 +354,11 @@ Aufgaben 90 Minuten.
 
 
 ### Unterabschnitt 3 - Teil 2 der Abschlussprüfung in der Fachrichtung Eisen- und Stahlmetallurgie
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000500000)
 
 
 #### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Eisen- und Stahlmetallurgie auf
@@ -366,6 +381,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und
 Stahlmetallurgie in den folgenden Prüfungsbereichen statt:
@@ -386,6 +402,7 @@ Stahlmetallurgie in den folgenden Prüfungsbereichen statt:
 
 
 #### § 11 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001300000)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -440,6 +457,7 @@ Fachgespräch dauert höchstens 30 Minuten.
 
 
 #### § 12 Prüfungsbereich Auftrags- und Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001400000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -478,6 +496,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 13 Prüfungsbereich Eisen- und stahlmetallurgische Prozesse
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001500000)
 
 (1) Im Prüfungsbereich Eisen- und stahlmetallurgische Prozesse soll
 der Prüfling nachweisen, dass er in der Lage ist,
@@ -510,6 +529,7 @@ der Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -523,6 +543,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Eisen- und Stahlmetallurgie wie folgt zu gewichten:
@@ -616,9 +637,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschlussprüfung in der Fachrichtung Stahlumformung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000600000)
 
 
 #### § 16 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Stahlumformung auf
@@ -641,6 +664,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 17 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE001900000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung
 in den folgenden Prüfungsbereichen statt:
@@ -661,6 +685,7 @@ in den folgenden Prüfungsbereichen statt:
 
 
 #### § 18 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002000000)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -715,6 +740,7 @@ Fachgespräch dauert höchstens 30 Minuten.
 
 
 #### § 19 Prüfungsbereich Auftrags- und Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002100000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -753,6 +779,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 20 Prüfungsbereich Stahlumformprozesse
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002200000)
 
 (1) Im Prüfungsbereich Stahlumformprozesse soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -790,6 +817,7 @@ nachweisen, dass er in der Lage ist,
 
 
 #### § 21 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002300000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -803,6 +831,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 22 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002400000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Stahlumformung wie folgt zu gewichten:
@@ -895,9 +924,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 5 - Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallurgie
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000700000)
 
 
 #### § 23 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002500000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Nichteisenmetallurgie auf
@@ -920,6 +951,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 24 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002600000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung
 Nichteisenmetallurgie in den folgenden Prüfungsbereichen statt:
@@ -940,6 +972,7 @@ Nichteisenmetallurgie in den folgenden Prüfungsbereichen statt:
 
 
 #### § 25 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002700000)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -994,6 +1027,7 @@ Fachgespräch dauert höchstens 30 Minuten.
 
 
 #### § 26 Prüfungsbereich Auftrags- und Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002800000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -1032,6 +1066,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 27 Prüfungsbereich Nichteisenmetallurgische Prozesse
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE002900000)
 
 (1) Im Prüfungsbereich Nichteisenmetallurgische Prozesse soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -1068,6 +1103,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 28 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003000000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1081,6 +1117,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 29 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Nichteisenmetallurgie wie folgt zu gewichten:
@@ -1175,9 +1212,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ### Unterabschnitt 6 - Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallumformung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000800000)
 
 
 #### § 30 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003200000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung
 Nichteisenmetallumformung auf
@@ -1200,6 +1239,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 #### § 31 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003300000)
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung
 Nichteisenmetallumformung in den folgenden Prüfungsbereichen statt:
@@ -1220,6 +1260,7 @@ Nichteisenmetallumformung in den folgenden Prüfungsbereichen statt:
 
 
 #### § 32 Prüfungsbereich Arbeitsauftrag
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003400000)
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen,
 dass er in der Lage ist,
@@ -1274,6 +1315,7 @@ Fachgespräch dauert höchstens 30 Minuten.
 
 
 #### § 33 Prüfungsbereich Auftrags- und Fertigungsplanung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003500000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -1312,6 +1354,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 34 Prüfungsbereich Nichteisenmetallumformprozesse
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003600000)
 
 (1) Im Prüfungsbereich Nichteisenmetallumformprozesse soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -1349,6 +1392,7 @@ Prüfling nachweisen, dass er in der Lage ist,
 
 
 #### § 35 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -1362,6 +1406,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 #### § 36 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Nichteisenmetallumformung wie folgt zu gewichten:
@@ -1455,9 +1500,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG000900000)
 
 
 ### § 37 Anrechnung von Ausbildungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE003900000)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Metalltechnik kann im Umfang von 18 Monaten auf die Dauer der
@@ -1470,9 +1517,11 @@ Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNG001000000)
 
 
 ### § 38 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE004000000)
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur
@@ -1483,6 +1532,7 @@ Juli 2015 (BGBl. I S. 1134) geändert worden ist, außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall
+[Direktlink](https://www.gesetze-im-internet.de/mvtausbv/BJNR383400017.html#BJNR383400017BJNE004100000)
 
 (Fundstelle: BGBl. I 2017, 3843 - 3852)
 

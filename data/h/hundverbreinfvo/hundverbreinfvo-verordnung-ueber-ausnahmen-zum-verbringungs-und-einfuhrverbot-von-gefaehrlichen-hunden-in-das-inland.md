@@ -28,6 +28,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000000000)
 
 Auf Grund des § 2 Abs. 2 Nr. 2 und 3 des Hundeverbringungs- und
 -einfuhrbeschränkungsgesetzes vom 12. April 2001 (BGBl. I S. 530)
@@ -35,6 +36,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000100000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -56,6 +58,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 2 Ausnahmen vom Verbringungs- und Einfuhrverbot
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000201377)
 
 (1) Gefährliche Hunde, die als Diensthunde des Bundes, insbesondere
 der Bundeswehr, der Bundespolizei oder der Zollverwaltung, als
@@ -85,6 +88,7 @@ berechtigt in einem Land gehalten werden dürfen.
 
 
 ## § 3 Pflichten der Begleitperson
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000300000)
 
 (1) Die Begleitperson eines gefährlichen Hundes muss über die zur
 Feststellung der Nämlichkeit des Hundes erforderlichen geeigneten
@@ -130,6 +134,7 @@ fremden Sprache müssen mit einer amtlich beglaubigten deutschen
 
 
 ## § 4 Befugnisse der zuständigen Behörde
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000400000)
 
 Stellt die zuständige Behörde einen Verstoß gegen die Bestimmungen des
 Gesetzes oder dieser Verordnung über das Verbringen in das Inland oder
@@ -153,11 +158,13 @@ Rechtsvorschriften bleiben unberührt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000500000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hundverbreinfvo/BJNR124800002.html#BJNR124800002BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

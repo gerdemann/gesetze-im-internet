@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000100000)
 
 Auf Grund des § 6 Absatz 2 des Finanzstabilitätsgesetzes vom 28.
 November 2012 (BGBl. I S. 2369) verordnet das Bundesministerium der
@@ -25,6 +26,7 @@ Finanzen im Einvernehmen mit der Deutschen Bundesbank:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000200000)
 
 Diese Verordnung gilt für die Anforderung von Daten von finanziellen
 Kapitalgesellschaften im Sinne von Anhang A Kapitel 2 Nummer 2.32 bis
@@ -44,6 +46,7 @@ Finanzstabilitätsgesetzes aufgeführten Aufgaben.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000300000)
 
 (1) Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
 
@@ -350,6 +353,7 @@ mitzuteilenden Daten bezeichnet der Ausdruck
 
 
 ## § 3 Datenanforderung durch die Deutsche Bundesbank
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000400000)
 
 (1) Die Deutsche Bundesbank kann nach Maßgabe des § 6 des
 Finanzstabilitätsgesetzes in Verbindung mit dieser Verordnung Daten
@@ -391,6 +395,7 @@ Meldestichtag erforderlich.
 
 
 ## § 4 Daten über Wohnimmobilienfinanzierungen
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000500000)
 
 (1) Zur Wahrung der Finanzstabilität sowie zur Identifizierung und
 Analyse möglicher Risiken für die Finanzstabilität aus
@@ -523,6 +528,7 @@ Meldevorgaben vorsehen.
 
 
 ## § 5 Form und Format der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000600000)
 
 (1) Die Mitteilungspflichtigen haben die Daten gemäß der Anforderung
 der Deutschen Bundesbank zu übermitteln. Sind von der Deutschen
@@ -548,6 +554,7 @@ Deutsche Bundesbank Richtlinien und Rundschreiben veröffentlichen.
 
 
 ## § 6 Zeitliche Vorgaben
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000700000)
 
 (1) Die Mitteilungspflichtigen übermitteln Daten entsprechend der
 angeforderten Meldefrequenz zu den folgenden Meldestichtagen:
@@ -597,6 +604,7 @@ entsprechenden Anforderung vorgesehen werden.
 
 
 ## § 7 Befugnis zur Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000800000)
 
 (1) Die Deutsche Bundesbank ist befugt, auch ohne besonderen Anlass,
 die Richtigkeit und Qualität der übermittelten Daten zu überprüfen.
@@ -637,6 +645,7 @@ einer Überprüfung hin.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finstabdev/BJNR011000021.html#BJNR011000021BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

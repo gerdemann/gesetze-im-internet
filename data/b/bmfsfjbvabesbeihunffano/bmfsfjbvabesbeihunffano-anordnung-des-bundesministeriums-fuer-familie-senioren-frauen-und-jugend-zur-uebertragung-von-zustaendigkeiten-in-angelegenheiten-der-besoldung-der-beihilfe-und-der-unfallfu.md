@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000100000)
 
 Nach
 
@@ -41,6 +42,7 @@ an:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000200000)
 
 Die Zuständigkeit für den Erlass des Widerspruchsbescheids nach § 126
 Absatz 3 Satz 1 des Bundesbeamtengesetzes in Angelegenheiten der
@@ -53,6 +55,7 @@ Maßnahme nicht selbst getroffen hat.
 
 
 ## § 2 Vertretung bei Klagen
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000300000)
 
 Die Vertretung der Bundesrepublik Deutschland bei Klagen in
 Angelegenheiten der Besoldung und der Beihilfe wird dem
@@ -61,6 +64,7 @@ Widerspruchsbescheids zuständig ist.
 
 
 ## § 3 Absehen von der Rückforderung zu viel gezahlter Bezüge aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000400000)
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, ohne Einholen
 der Zustimmung des Bundesministeriums von der Rückforderung zu viel
@@ -72,6 +76,7 @@ Behörde des Bundesministeriums betroffen sind.
 
 
 ## § 4 Übertragung von Zuständigkeiten der Unfallfürsorge
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000501000)
 
 (1) Dem Bundesverwaltungsamt werden, soweit Beamtinnen und Beamte des
 Bundesministeriums oder der Bundeszentrale für Kinder- und
@@ -96,6 +101,7 @@ Bundesbeamtengesetzes übertragen.
 
 
 ## § 5 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000600000)
 
 (1) Das Bundesministerium behält sich vor, im Einzelfall die
 Befugnisse nach den §§ 1 bis 4 selbst auszuüben.
@@ -105,6 +111,7 @@ Bundesministerium zur Entscheidung vorzulegen.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/BJNR07B0A0024.html#BJNR07B0A0024BJNE000700000)
 
 Diese Anordnung tritt mit Wirkung vom 1. März 2022 in Kraft mit
 Ausnahme von § 4, der mit Wirkung vom 18. April 2023 in Kraft tritt.

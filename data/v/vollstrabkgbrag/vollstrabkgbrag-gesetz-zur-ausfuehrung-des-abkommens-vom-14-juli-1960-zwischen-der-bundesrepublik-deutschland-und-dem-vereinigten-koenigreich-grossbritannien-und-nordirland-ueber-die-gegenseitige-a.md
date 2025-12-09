@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung gerichtlicher Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNG000100306)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE000500306)
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel I Abs. 3, Artikel II Abs. 1, Artikel V, VII bis IX des
@@ -38,6 +40,7 @@ Schuldners befindet.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE000602310)
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten
 gerichtlichen Entscheidungen gelten § 1063 Abs. 1 und § 1064 Abs. 2
@@ -58,6 +61,7 @@ gelten entsprechend.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE000700306)
 
 Hängt die Vollstreckung nach dem Inhalt der gerichtlichen Entscheidung
 von einer dem Gläubiger obliegenden Sicherheitsleistung, von dem
@@ -76,6 +80,7 @@ anzuordnen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE000801307)
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer gerichtlichen
 Entscheidung kann der Schuldner auch Einwendungen gegen den Anspruch
@@ -100,6 +105,7 @@ entstanden sind.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE000900306)
 
 (1) Macht der Schuldner gegenüber dem Antrag auf
 Vollstreckbarerklärung geltend, daß er gegen die gerichtliche
@@ -121,6 +127,7 @@ kann aber auch das Verfahren sogleich aussetzen oder fortsetzen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001000306)
 
 Aus den für vollstreckbar erklärten gerichtlichen Entscheidungen
 findet die Zwangsvollstreckung statt, sofern die Entscheidung über die
@@ -129,10 +136,12 @@ erklärt ist.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNG000200306)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001101310)
 
 (1) Wird eine gerichtliche Entscheidung nach der
 Vollstreckbarerklärung in dem Vereinigten Königreich Großbritannien
@@ -157,10 +166,12 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNG000300306)
 
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001200306)
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in dem
 Vereinigten Königreich Großbritannien und Nordirland geltend gemacht
@@ -169,6 +180,7 @@ Zivilprozeßordnung) hergestellt werden.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001300306)
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
@@ -195,15 +207,18 @@ nicht erhoben.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNG000400306)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001400306)
 
 -
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001500306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -211,6 +226,7 @@ im Land Berlin.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkgbrag/BJNR003010961.html#BJNR003010961BJNE001600306)
 
 Dieses Gesetz tritt gleichzeitig mit dem Abkommen vom 14. Juli 1960
 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich

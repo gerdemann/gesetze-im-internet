@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000100000)
 
 Auf Grund des § 95 Absatz 5 des Kapitalanlagegesetzbuchs vom 4. Juli
 2013 (BGBl. I S. 1981), der durch Artikel 10 Nummer 2 Buchstabe d des
@@ -34,6 +35,7 @@ Finanzen und das Bundesministerium der Justiz:
 
 
 ## § 1 Kryptofondsanteile
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000200000)
 
 Anteile an Sondervermögen oder an einzelnen Anteilklassen eines
 Sondervermögens können vollständig oder teilweise auch als
@@ -43,6 +45,7 @@ eingetragen sind.
 
 
 ## § 2 Anwendbare Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000300000)
 
 Auf Kryptofondsanteile sind § 4 Absatz 11, § 8 Absatz 2, die §§ 16 bis
 23 mit Ausnahme von § 17 Absatz 1 Nummer 2 und 3, sowie die §§ 30 und
@@ -63,6 +66,7 @@ Wertpapiere entsprechend anzuwenden mit der Maßgabe, dass
 
 
 ## § 3 Registerführende Stelle
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000400000)
 
 Abweichend von § 16 Absatz 2 des Gesetzes über elektronische
 Wertpapiere ist registerführende Stelle bei Kryptofondsanteilen die
@@ -77,6 +81,7 @@ Kapitalanlagegesetzbuchs nachkommen kann.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kryptofav/BJNR086800022.html#BJNR086800022BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

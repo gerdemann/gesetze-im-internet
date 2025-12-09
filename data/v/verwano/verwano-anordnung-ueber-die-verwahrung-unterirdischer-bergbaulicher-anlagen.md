@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000100307)
 
 Zur Vermeidung oder Verminderung von Bergschäden und von anderen
 nachteiligen Einwirkungen durch stillgelegte unterirdische
@@ -30,6 +31,7 @@ angeordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000200307)
 
 (1) Diese Anordnung gilt für die Verwahrung von stillgelegten und
 stillzulegenden unterirdischen Anlagen, die durch Untersuchungs-,
@@ -61,6 +63,7 @@ genutzt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000300307)
 
 (1) "Grubenbaue" im Sinne dieser Anordnung sind die im § 1 genannten
 unterirdischen Anlagen, Hohlräume und Bauwerke. Hierzu gehören
@@ -154,6 +157,7 @@ können oder bereits eingetreten sind.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000400307)
 
 (1) Grubenbaue, die von Bergbaubetrieben für ihre eigene bergbauliche
 Nutzung nicht mehr benötigt werden, sollen entsprechend den
@@ -184,6 +188,7 @@ b)  im Zeitraum der Ausarbeitung des Fünfjahrplanes, in dem die Stillegung
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000500307)
 
 (1) Die Bergbaubetriebe haben die territoriale Einordnung der künftig
 stillzulegenden Grubenbaue und die Möglichkeiten einer weiteren
@@ -198,6 +203,7 @@ Fünfjahrplanes, in dem die Stillegung der Grubenbaue beabsichtigt ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000600307)
 
 (1) Über die weitere bergbauliche Nutzung oder Nachnutzung von
 stillzulegenden Grubenbauen haben die beteiligten Bergbaubetriebe bzw.
@@ -216,6 +222,7 @@ Nachnutzer tragen die Kosten dieser zusätzlichen Maßnahmen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000700307)
 
 (1) Die Bergbaubetriebe haben für nicht mehr benötigte Grubenbaue eine
 bergschadenkundliche Analyse rechtzeitig vor der Beendigung der
@@ -295,6 +302,7 @@ die mit der Bergbehörde abzustimmen ist, anzufertigen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000800307)
 
 (1) Die Bergbaubetriebe sind zur Verwahrung der von ihnen
 hergestellten oder genutzten und der als Folgeerscheinung
@@ -317,6 +325,7 @@ Kosten.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE000900307)
 
 (1) Auf Grund der bergschadenkundlichen Analyse gemäß § 6 haben die
 Bergbaubetriebe zur territorialen Einordnung der stillzulegenden und
@@ -334,6 +343,7 @@ unverzüglich nach der bergbaulichen Nutzung verwahrt werden.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001000307)
 
 (1) Die Bergbaubetriebe haben auf der Grundlage der
 bergschadenkundlichen Analyse und der Abstimmung mit dem Rat des
@@ -351,6 +361,7 @@ durchzuführen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001100307)
 
 (1) Nach der Durchführung der Verwahrungsarbeiten haben die
 Bergbaubetriebe in Ergänzung der bergschadenkundlichen Analyse die
@@ -391,6 +402,7 @@ werden.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001200307)
 
 (1) Die Verwahrung ist beendet, wenn der Bergbaubetrieb das mit dem
 Rat des Bezirkes abgestimmte Ziel der Verwahrung erreicht hat sowie
@@ -406,6 +418,7 @@ Organe, Bürger usw. in geeigneter Weise davon zu unterrichten.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001300307)
 
 (1) Anstelle eines aufgelösten Bergbaubetriebes ist der
 Rechtsnachfolger des Bergbaubetriebes verpflichtet, stillgelegte und
@@ -437,6 +450,7 @@ Verfahren der Gründung und Zusammenlegung von volkseigenen Betrieben
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001400307)
 
 (1) Nachgenutzte Grubenbaue sind nach Beendigung der Nachnutzung
 endgültig zu verwahren. Die §§ 6 bis 11 gelten für die endgültige
@@ -471,6 +485,7 @@ d)  Bergschäden, die aus der endgültigen Verwahrung der stillgelegten
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001500307)
 
 (1) Zur Anfertigung und laufenden Vervollständigung der von den
 Bergbehörden gemäß § 29 Abs. 5 der Ersten Durchführungsverordnung vom
@@ -514,6 +529,7 @@ d)  Anschrift des Anzeigenden.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001600307)
 
 (1) Die Bergbehörden werten das gemäß § 14 angezeigte und erfaßte
 Schriftgut über stillgelegte Grubenbaue aus und fertigen die
@@ -533,6 +549,7 @@ Bergschäden wird dadurch nicht erweitert.
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001700307)
 
 (1) Die Bergbehörden übergeben den Räten der Bezirke zur Ausarbeitung
 der territorialen Entwicklungskonzeptionen die Übersichten über
@@ -554,6 +571,7 @@ Verwahrung von Grubenbauen alten Bergbaus.
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001800307)
 
 (1) Der Rat des Bezirkes zeigt Grubenbaue alten Bergbaus, deren
 Verwahrung vorgesehen ist, dem bilanzbeauftragten Organ gemäß § 3 Abs.
@@ -593,6 +611,7 @@ Verwahrung von Grubenbauen alten Bergbaus ein.
 
 
 ## § 18
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE001900307)
 
 (1) Der Rat des Bezirkes plant die Maßnahmen der Verwahrung von
 Grubenbauen alten Bergbaus im Rahmen der Fünfjahrpläne und der
@@ -635,6 +654,7 @@ Ausfertigung der bergschadenkundlichen Analysen der Bergbehörde.
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002000307)
 
 (1) Die vom Rat des Bezirkes in Abstimmung mit den Räten der Kreise
 mit der Durchführung der Verwahrung stillgelegter Grubenbaue alten
@@ -660,6 +680,7 @@ gemäß den Festlegungen der Bergbehörde zu veranlassen.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002100307)
 
 An die Stelle des Rates des Bezirkes tritt in den Fällen des § 17
 Absätze 2 bis 4, des § 18 Absätze 3 und 4 und des § 19 Absätze 1 und 3
@@ -668,6 +689,7 @@ mit der Durchführung der Aufgaben beauftragt.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002200307)
 
 (1) Rechtsträger bzw. Eigentümer und Nutzer von Grundstücken haben
 eingetretene Bergschäden oder andere nachteilige Einwirkungen, die
@@ -714,6 +736,7 @@ Demokratischen Republik vom 12. Mai 1969.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002300307)
 
 Die Bergbehörden sind berechtigt, auf begründeten Antrag Ausnahmen zu
 § 6 Absätze 2 und 3 sowie zu § 10 Absätze 2 und 3 als Sonderregelungen
@@ -721,11 +744,13 @@ zu genehmigen.
 
 
 ## § 23
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002400307)
 
 Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE002500307)
 
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
@@ -733,6 +758,7 @@ Demokratischen Republik**
 Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 885, 1202)
+[Direktlink](https://www.gesetze-im-internet.de/verwano/DDNR206210971.html#DDNR206210971BJNE888800301)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

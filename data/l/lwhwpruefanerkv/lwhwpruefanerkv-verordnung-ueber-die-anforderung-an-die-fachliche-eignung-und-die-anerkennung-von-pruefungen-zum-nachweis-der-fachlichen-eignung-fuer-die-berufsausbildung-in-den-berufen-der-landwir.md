@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000100000)
 
 Auf Grund des § 30 Abs. 3 und 4 Nr. 1 des Berufsbildungsgesetzes vom
 23\. März 2005 (BGBl. I S. 931) verordnen das Bundesministerium für
@@ -33,6 +34,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Anforderungen an die fachliche Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000200000)
 
 Ausbilder und Ausbilderinnen in den Berufen der Landwirtschaft und der
 Hauswirtschaft besitzen abweichend von § 30 Abs. 2 des
@@ -54,6 +56,7 @@ und eine angemessene Zeit in ihrem Beruf praktisch tätig gewesen sind.
 
 
 ## § 2 Anerkennungen von Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000300000)
 
 (1) Als Prüfung gemäß § 1 Nr. 1 werden anerkannt:
 
@@ -75,6 +78,7 @@ Berufsbildungsgesetzes bleibt unberührt.
 
 
 ## § 3 Anforderungen an die Fachschulen und Bildungsgänge
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000400000)
 
 (1) Errichtung, Betrieb und Einrichtung der Schulen müssen den für sie
 geltenden Vorschriften des Landesrechts entsprechen. Sie müssen der
@@ -95,12 +99,14 @@ entsprechend.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 2 Abs. 1 Nr. 1)
 
 ## Anlage 1 Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000601308)
 
 (Fundstelle: BGBl. I 2005, 2285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -182,6 +188,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 2 Abs. 1 Nr. 2)
 
 ## Anlage 2 Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
+[Direktlink](https://www.gesetze-im-internet.de/lwhwpr_fanerkv/BJNR228400005.html#BJNR228400005BJNE000701308)
 
 (Fundstelle: BGBl. I 2005, 2286;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

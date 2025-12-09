@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-72 v. 21.4.1999 I 789 (OrthSchAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -36,9 +37,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000300000)
 
 Der Ausbildungsberuf des Orthopädieschuhmachers und der
 Orthopädieschuhmacherin wird nach § 25 der Handwerksordnung zur
@@ -47,11 +50,13 @@ Orthopädieschuhmacher der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000400000)
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -161,6 +167,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -168,6 +175,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -178,9 +186,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNG000200000)
 
 
 ### § 7 Ziel, Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE000900000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -192,6 +202,7 @@ werden, Teil 2 am Ende der Berufsausbildung.
 
 
 ### § 8 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001000000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -208,6 +219,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001100000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich Planung und
 Anfertigung von orthopädischen Schuhzurichtungen statt.
@@ -267,6 +279,7 @@ schriftliche Bearbeitung der Aufgaben dauert 90 Minuten.
 
 
 ### § 10 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001200000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -288,6 +301,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001300000)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -308,6 +322,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich Anfertigung von orthopädieschuhtechnischen Hilfsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001400000)
 
 (1) Im Prüfungsbereich Anfertigung von orthopädieschuhtechnischen
 Hilfsmitteln soll der Prüfling nachweisen, dass er in der Lage ist,
@@ -391,6 +406,7 @@ Leistungen mit 30 Prozent zu gewichten.
 
 
 ### § 13 Prüfungsbereich Beratung
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001500000)
 
 (1) Im Prüfungsbereich Beratung soll der Prüfling nachweisen, dass er
 in der Lage ist,
@@ -435,6 +451,7 @@ gewichten.
 
 
 ### § 14 Prüfungsbereich Orthopädieschuhtechnik
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001600000)
 
 (1) Im Prüfungsbereich Orthopädieschuhtechnik soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -480,6 +497,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 15 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001700000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -493,6 +511,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -588,9 +607,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNG000300000)
 
 
 ### § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE001900000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Orthopädieschuhmacher/zur
@@ -600,6 +621,7 @@ Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Orthopädieschuhmacher und zur Orthopädieschuhmacherin
+[Direktlink](https://www.gesetze-im-internet.de/orthopschuhmausbv/BJNR129800015.html#BJNR129800015BJNE002000000)
 
 (Fundstelle: BGBl. I 2015, 1302 - 1307)
 

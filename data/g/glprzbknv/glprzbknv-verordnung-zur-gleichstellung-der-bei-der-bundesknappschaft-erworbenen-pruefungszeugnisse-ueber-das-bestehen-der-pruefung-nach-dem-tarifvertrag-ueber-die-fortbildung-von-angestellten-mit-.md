@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzbknv/BJNR136300011.html#BJNR136300011BJNE000100000)
 
 Auf Grund des § 57 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
 I S. 931), der durch Artikel 232 Nummer 1 der Verordnung vom 31.
@@ -30,6 +31,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/glprzbknv/BJNR136300011.html#BJNR136300011BJNE000200000)
 
 Die auf der Grundlage der vom 1. März 1981 bis 31. Mai 2004 geltenden
 Fortbildungstarifverträge der Bundesknappschaft erteilten Zeugnisse
@@ -41,11 +43,13 @@ Fachrichtung knappschaftliche Sozialversicherung gleichgestellt.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glprzbknv/BJNR136300011.html#BJNR136300011BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glprzbknv/BJNR136300011.html#BJNR136300011BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/patg_41abs2bek_96/BJNR079100996.html#BJNR079100996BJNE000100310)
 
 Auf Grund des § 41 Abs. 2 des Patentgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der durch

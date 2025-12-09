@@ -28,6 +28,7 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000100000)
 
 Auf Grund des § 6 Abs. 4, § 7 Abs. 2, § 15 Abs. 7 Satz 2, § 22 Abs. 2,
 § 25 Abs. 1, § 27 Abs. 7 Satz 2, § 34 Abs. 6, § 36 Abs. 5 und § 47 des
@@ -38,10 +39,12 @@ des Innern:
 
 
 ## Abschnitt 1 - Nachweis der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000100000)
 
 
 
 ### § 1 Umfang der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000300000)
 
 (1) Die in der Prüfung nach § 7 Abs. 1 des Waffengesetzes
 nachzuweisende Sachkunde umfasst ausreichende Kenntnisse
@@ -75,6 +78,7 @@ Kenntnissen auch Werkstoff-, Fertigungs- und Ballistikkenntnisse.
 
 
 ### § 2 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000400000)
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung
 Prüfungsausschüsse.
@@ -101,6 +105,7 @@ nach Ablauf einer bestimmten Frist wiederholt werden darf.
 
 
 ### § 3 Anderweitiger Nachweis der Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000501377)
 
 (1) Die Sachkunde gilt insbesondere als nachgewiesen, wenn der
 Antragsteller
@@ -223,10 +228,12 @@ Vereine eigene Prüfungsausschüsse.
 
 
 ## Abschnitt 2 - Nachweis der persönlichen Eignung
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000200000)
 
 
 
 ### § 4 Gutachten über die persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000600000)
 
 (1) Derjenige,
 
@@ -340,10 +347,12 @@ sie uneingeschränkt zum Umgang mit Dienstwaffen berechtigt sind.
 
 
 ## Abschnitt 3 - Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000300000)
 
 
 
 ### § 5 Schießsportordnungen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000700000)
 
 (1) Die Genehmigung einer Sportordnung für das Schießen mit
 Schusswaffen setzt insbesondere voraus, dass das Schießen nur auf
@@ -404,6 +413,7 @@ von den in ihr festgelegten Schießdisziplinen zulassen.
 
 
 ### § 6 Vom Schießsport ausgeschlossene Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000802128)
 
 (1) Vom sportlichen Schießen sind ausgeschlossen:
 
@@ -449,6 +459,7 @@ Absatz 1 ist das Bundeskriminalamt.
 
 
 ### § 7 Unzulässige Schießübungen im Schießsport
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE000901128)
 
 (1) Im Schießsport sind die Durchführung von Schießübungen in der
 Verteidigung mit Schusswaffen (§ 22) und solche Schießübungen und
@@ -504,6 +515,7 @@ vorstehenden Regelungen nicht beschränkt.
 
 
 ### § 8 Beirat für schießsportliche Fragen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001002128)
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat wird ein
 Beirat für schießsportliche Fragen (Fachbeirat) gebildet. Den Vorsitz
@@ -558,10 +570,12 @@ aus, sofern sie keine Behörde vertreten.
 
 
 ## Abschnitt 4 - Benutzung von Schießstätten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000400000)
 
 
 
 ### § 9 Zulässige Schießübungen auf Schießstätten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001100000)
 
 (1) Auf einer Schießstätte ist unter Beachtung des Verbots des
 kampfmäßigen Schießens (§ 27 Abs. 7 Satz 1 des Waffengesetzes) das
@@ -615,6 +629,7 @@ sind.
 
 
 ### § 10 Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugend
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001201118)
 
 (1) Der Inhaber der Erlaubnis für die Schießstätte (Erlaubnisinhaber)
 hat unter Berücksichtigung der Erfordernisse eines sicheren
@@ -697,6 +712,7 @@ Schießstätten im Sinne von § 27 Abs. 6 des Waffengesetzes.
 
 
 ### § 11 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001300000)
 
 (1) Die verantwortlichen Aufsichtspersonen haben das Schießen in der
 Schießstätte ständig zu beaufsichtigen, insbesondere dafür zu sorgen,
@@ -716,13 +732,16 @@ allein auf dem Schießstand befindet.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001404360)
 
 
 ## Abschnitt 5 - Aufbewahrung von Waffen und Munition
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000500000)
 
 
 
 ### § 13 Aufbewahrung von Waffen oder Munition
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001503128)
 
 (1) Schusswaffen, deren Erwerb und Besitz erlaubnispflichtig sind,
 verbotene Waffen und verbotene Munition sind ungeladen und in einem
@@ -956,6 +975,7 @@ Als nationale Akkreditierungsstellen gelten
 [^F798889_05_BJNR212300003BJNE001503128]: 
 
 ### § 14 Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001602118)
 
 Die zuständige Behörde kann auf Antrag eines Betreibers eines
 Schützenhauses, einer Schießstätte oder eines Waffengewerbes
@@ -969,14 +989,17 @@ Aufbewahrungsstätte besonders zu berücksichtigen.
 
 
 ## Abschnitt 6 - Vorschriften für das Waffengewerbe
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000600000)
 
 
 
 ### Unterabschnitt 1 - Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000700000)
 
 
 
 #### § 15 Umfang der Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001701377)
 
 (1) Die in der Prüfung nach § 22 Abs. 1 Satz 1 des Waffengesetzes
 nachzuweisende Fachkunde umfasst ausreichende Kenntnisse
@@ -1012,6 +1035,7 @@ nachzuweisen über
 
 
 #### § 16 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001800000)
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung
 staatliche Prüfungsausschüsse. Die Geschäftsführung kann auf die
@@ -1035,10 +1059,12 @@ und Abs. 4 und 5 entsprechend.
 
 
 ### Unterabschnitt 2 - Ersatzdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000801128)
 
 
 
 #### § 17 Grundsätze für das Führen der Ersatzdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE001901128)
 
 (1) Die Ersatzdokumentation ist in gebundener Form oder in Karteiform
 oder mit Hilfe der elektronischen Datenverarbeitung im Betrieb oder in
@@ -1063,6 +1089,7 @@ des Datums abzuschließen.
 
 
 #### § 17a Vorlage und Aufbewahrung der Ersatzdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE004100128)
 
 (1) Die Ersatzdokumentation ist auf Verlangen der zuständigen Behörde
 auch in deren Diensträumen oder den Beauftragten der Behörde
@@ -1088,6 +1115,7 @@ Eintragung 30 Jahre vergangen sind.
 
 
 #### § 18 Führung der Ersatzdokumentation in gebundener Form
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002001128)
 
 (1) Wird die Ersatzdokumentation in gebundener Form geführt, so sind
 die Seiten laufend zu nummerieren; die Zahl der Seiten ist auf dem
@@ -1142,6 +1170,7 @@ vorzunehmen.
 
 
 #### § 19 Führung der Ersatzdokumentation in Karteiform
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002101128)
 
 (1) Wird die Ersatzdokumentation in Karteiform geführt, so können die
 Eintragungen für mehrere Waffen desselben Typs (Waffenposten) nach
@@ -1212,6 +1241,7 @@ enthalten:
 
 
 #### § 20 Führung der Ersatzdokumentation in elektronischer Form
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002201128)
 
 (1) Wird die Ersatzdokumentation in elektronischer Form geführt, so
 müssen die gespeicherten Datensätze die nach § 19 Absatz 2 geforderten
@@ -1242,10 +1272,12 @@ Klarschrift ausgedruckt werden können.
 
 
 ### Unterabschnitt 3 - Kennzeichnung von Waffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG000900000)
 
 
 
 #### § 21 Kennzeichnung von Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002302119)
 
 (1) Wer Schusswaffen im Geltungsbereich des Waffengesetzes herstellt
 oder in diesen verbringt, hat folgende in § 24 Absatz 1 bis 3 des
@@ -1342,10 +1374,12 @@ Entfernung ein Teil des Gehäuses zerstört würde.
 
 
 ## Abschnitt 7 - Ausbildung in der Verteidigung mit Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001000000)
 
 
 
 ### § 22 Lehrgänge und Schießübungen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002401118)
 
 (1) In Lehrgängen zur Ausbildung in der Verteidigung mit Schusswaffen
 oder bei Schießübungen dieser Art sind unter Beachtung des Verbots des
@@ -1386,6 +1420,7 @@ entsprechend anzuwenden.
 
 
 ### § 23 Zulassung zum Lehrgang
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002500000)
 
 (1) Zur Teilnahme an den Lehrgängen oder Schießübungen im Sinne des §
 22 dürfen nur Personen zugelassen werden,
@@ -1414,6 +1449,7 @@ gestatten.
 
 
 ### § 24 Verzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002600000)
 
 (1) Der Veranstalter hat ein Verzeichnis der verantwortlichen
 Aufsichtspersonen, der Ausbilder und der Teilnehmer gemäß Absatz 2 zu
@@ -1450,6 +1486,7 @@ auszuhändigen.
 
 
 ### § 25 Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002700000)
 
 (1) Die zuständige Behörde kann Veranstaltungen im Sinne des § 22
 untersagen, wenn Tatsachen die Annahme rechtfertigen, dass der
@@ -1480,10 +1517,12 @@ solange der Veranstalter
 
 
 ## Abschnitt 7a - Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001500128)
 
 
 
 ### § 25a Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE004200128)
 
 (1) Der Besitzer einer unbrauchbar gemachten Schusswaffe ist
 verpflichtet, die Deaktivierungsbescheinigung nach § 8a Absatz 2 Satz
@@ -1526,6 +1565,7 @@ zuletzt durch die Durchführungsverordnung (EU) 2018/337 (ABl. L 65 vom
 
 
 ### § 25b Vernichtung unbrauchbar gemachter Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE004300128)
 
 Wer eine unbrauchbar gemachte Schusswaffe vernichtet, hat die
 Deaktivierungsbescheinigung und alle beglaubigten Abschriften,
@@ -1535,6 +1575,7 @@ zuständigen Behörde abzugeben.
 
 
 ### § 25c Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE004400128)
 
 (1) Für Schusswaffen, die
 
@@ -1580,14 +1621,17 @@ Bedürfnisses gemäß § 8 des Waffengesetzes erforderlich.
 
 
 ## Abschnitt 8 - Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001100000)
 
 
 
 ### Unterabschnitt 1 - Anwendung des Gesetzes auf Bürger der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001200000)
 
 
 
 #### § 26 Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002801118)
 
 (1) Auf Staatsangehörige eines Mitgliedstaates ist § 21 Abs. 4 Nr. 1
 des Waffengesetzes nicht anzuwenden.
@@ -1634,6 +1678,7 @@ erfordert.
 
 
 #### § 27 Besondere Bestimmungen zur Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE002900000)
 
 (1) Der Nachweis der Fachkunde für den Waffenhandel im Sinne des § 22
 des Waffengesetzes ist für einen Staatsangehörigen eines
@@ -1696,10 +1741,12 @@ Stelle des Herkunftslandes zu erbringen.
 
 
 ### Unterabschnitt 2 - Erwerb von Waffen und Munition in anderen Mitgliedstaaten; Verbringen und Mitnahme
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001300000)
 
 
 
 #### § 28 Erlaubnisse für den Erwerb von Waffen und Munition in einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003000000)
 
 Eine Erlaubnis nach § 11 Abs. 2 des Waffengesetzes wird als Zustimmung
 durch einen Erlaubnisschein der zuständigen Behörde erteilt. Für die
@@ -1728,6 +1775,7 @@ Erteilung hat der Antragsteller folgende Angaben zu machen:
 
 
 #### § 29 Erlaubnisse zum Verbringen von Waffen und Munition
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003104128)
 
 (1) Eine Erlaubnis nach § 29 oder § 30 des Waffengesetzes wird durch
 einen Erlaubnisschein der zuständigen Behörde erteilt.
@@ -1849,6 +1897,7 @@ Empfängermitgliedstaat und Art der Waffen und Munition zu machen.
 
 
 #### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach, durch oder aus Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003203118)
 
 (1) Eine Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a Satz 1 des
 Waffengesetzes wird durch einen Erlaubnisschein der zuständigen
@@ -1916,6 +1965,7 @@ und 3, soweit die Behörde hierauf nicht verzichtet hat.
 
 
 #### § 31 Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003304128)
 
 (1) Eine Anzeige nach § 30 Satz 3 des Waffengesetzes an das
 Bundesverwaltungsamt muss folgende Angaben enthalten:
@@ -2124,6 +2174,7 @@ Eingang auf dem Doppel der Anzeige.
 
 
 #### § 32 Mitteilungen der Behörden
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003406128)
 
 (1) Die zuständige Behörde teilt dem Bundesverwaltungsamt alle ihr
 vorliegenden erteilten Erlaubnisse zum Verbringen von Waffen oder
@@ -2198,6 +2249,7 @@ Ablichtung des Erlaubnisscheins ist der Mitteilung beizufügen.
 
 
 #### § 33 Europäischer Feuerwaffenpass
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003500000)
 
 (1) Die Geltungsdauer des Europäischen Feuerwaffenpasses nach § 32
 Abs. 6 des Waffengesetzes beträgt fünf Jahre; soweit bei Jägern oder
@@ -2215,10 +2267,12 @@ lassen. Der Hintergrund muss heller sein als die Gesichtspartie.
 
 
 ## Abschnitt 9 - Ordnungswidrigkeiten und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNG001400000)
 
 
 
 ### § 34 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003602128)
 
 Ordnungswidrig im Sinne des § 53 Abs. 1 Nr. 23 des Waffengesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -2326,11 +2380,13 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003701377)
 
 -
 
 
 ### § 36 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003800000)
 
 Diese Verordnung tritt am 1. Dezember 2003 in Kraft. Gleichzeitig
 treten die Erste Verordnung zum Waffengesetz in der Fassung der
@@ -2341,12 +2397,14 @@ sowie die Zweite Verordnung zum Waffengesetz vom 13. Dezember 1976
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE003900000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 15 Abs. 2 Nr. 2)
 
 ### Anlage Waffen- und Munitionsarten
+[Direktlink](https://www.gesetze-im-internet.de/awaffv/BJNR212300003.html#BJNR212300003BJNE004000377)
 
 ( Fundstelle: BGBl. I 2008, 438 - 439 )
 

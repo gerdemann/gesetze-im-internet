@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Zustellungsanträge und Rechtshilfeersuchen - (Art 1 bis 16 des Übereinkommens)
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNG000100306)
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE000500306)
 
 Für die Entgegennahme von Zustellungsanträgen (Artikel 1 Abs. 1 des
 Übereinkommens) oder von Rechtshilfeersuchen (Artikel 8, Artikel 9
@@ -37,6 +39,7 @@ untersteht.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE000600306)
 
 (1) Für die Erledigung von Zustellungsanträgen oder von
 Rechtshilfeersuchen ist das Amtsgericht zuständig, in dessen Bezirk
@@ -48,15 +51,18 @@ Artikel 5 des Übereinkommens) zu erteilen.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE000701311)
 
 (weggefallen)
 
 
 ## Vollstreckbarerklärung von Kostenentscheidungen - (Art 18 und 19 des Übereinkommens)
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNG000200306)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE000800306)
 
 (1) Kostenentscheidungen, die gegen einen Kläger ergangen sind
 (Artikel 18 des Übereinkommens), werden ohne mündliche Verhandlung
@@ -69,6 +75,7 @@ befindet oder die Zwangsvollstreckung durchgeführt werden soll.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE000900306)
 
 (1) Ist der Antrag, die Kostenentscheidung für vollstreckbar zu
 erklären, auf diplomatischem Wege gestellt (Artikel 18 Abs. 1 und 2
@@ -85,6 +92,7 @@ Kostenschuldner von Amts wegen zuzustellen.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001001310)
 
 (1) Gegen den Beschluss, durch den die Kostenentscheidung für
 vollstreckbar erklärt wird, steht dem Kostenschuldner die Beschwerde
@@ -99,6 +107,7 @@ gestellt, so ist er berechtigt, die Beschwerde einzulegen.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001100306)
 
 Aus der für vollstreckbar erklärten Kostenentscheidung findet die
 Zwangsvollstreckung nach der Zivilprozeßordnung statt; § 798 der
@@ -106,6 +115,7 @@ Zivilprozeßordnung ist entsprechend anzuwenden.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001202310)
 
 (1) Sollen von einem Kläger, gegen den eine Kostenentscheidung
 ergangen ist (Artikel 18 des Übereinkommens), in einem Vertragsstaat
@@ -123,10 +133,12 @@ Rechtsanwalts eingelegt werden.
 
 
 ## Armenrecht - (Art 20 bis 24 des Übereinkommens)
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNG000300306)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001300306)
 
 Für die Entgegennahme von Anträgen auf Bewilligung des Armenrechts,
 die von einem ausländischen Konsul innerhalb der Bundesrepublik
@@ -136,6 +148,7 @@ ist der Präsident des Landgerichts oder des Amtsgerichts zuständig. §
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001400306)
 
 (1) Ein Angehöriger eines Vertragsstaates, der im Ausland das
 Armenrecht für eine Klage vor einem Gericht eines anderen
@@ -152,10 +165,12 @@ Bundesrepublik Deutschland werden Gebühren und Auslagen nicht erhoben.
 
 
 ## Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNG000400306)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001500306)
 
 Die Landesregierungen werden ermächtigt, zum Zwecke der Erleichterung
 und Beschleunigung des Rechtshilfeverkehrs durch Rechtsverordnung die
@@ -167,6 +182,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001600306)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -174,6 +190,7 @@ im Land Berlin.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zp_bkhaagg/BJNR009390958.html#BJNR009390958BJNE001700306)
 
 Dieses Gesetz tritt gleichzeitig mit dem Haager Übereinkommen über den
 Zivilprozeß vom 1. März 1954 in Kraft.

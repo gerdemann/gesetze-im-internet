@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Flaggenrecht der Seeschiffe
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000102308)
 
 
 
 ### 1. - Recht zur Führung der Bundesflagge
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000202308)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001006360)
 
 (1) Die Bundesflagge haben alle Kauffahrteischiffe und sonstigen zur
 Seefahrt bestimmten Schiffe (Seeschiffe) zu führen, deren Eigentümer
@@ -62,6 +65,7 @@ Schiffszertifikates der Schiffsbrief tritt.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001107308)
 
 (1) Die Bundesflagge dürfen alle Seeschiffe führen, die nicht nach § 1
 zur Führung der Bundesflagge berechtigt sind,
@@ -112,10 +116,12 @@ unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ### 2. - Ausweis über die Berechtigung zur Führung der Bundesflagge
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000303308)
 
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001203308)
 
 Die Berechtigung zur Führung der Bundesflagge wird
 
@@ -142,6 +148,7 @@ nachgewiesen.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001303308)
 
 (1) Vor der Erteilung der in § 3 genannten Ausweise darf die
 Berechtigung nicht ausgeübt werden; dies gilt nicht in den Fällen des
@@ -154,6 +161,7 @@ während der Reise stets an Bord des Schiffes mitzuführen.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001403308)
 
 (1) Entsteht die Berechtigung zur Führung der Bundesflagge bei einem
 Seeschiff, das sich im Ausland befindet, so kann anstelle des
@@ -168,10 +176,12 @@ dem Tage der Ausstellung Gültigkeit.
 
 
 ### 3. - Verbot anderer Nationalflaggen, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000402308)
 
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001503308)
 
 (1) Seeschiffe, welche die Bundesflagge nach § 1 zu führen haben,
 dürfen als Nationalflagge andere Flaggen nicht führen. Das gleiche
@@ -194,6 +204,7 @@ Dienst.
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001608305)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in den
 Fällen
@@ -307,6 +318,7 @@ Förderzweck nach Absatz 3 verwendet worden sind.
 
 
 #### § 7a
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003900308)
 
 (1) Bei Seeschiffen, für die ein Schiffszertifikat oder ein
 Schiffsvorzertifikat erteilt ist, wird die Ausflaggungsgenehmigung
@@ -322,10 +334,12 @@ zur Führung der Bundesflagge nicht ausgeübt werden.
 
 
 ### 4. - Flaggenführung, Schiffsname und IMO-Schiffsidentifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000503308)
 
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001703308)
 
 (1) Die Bundesflagge darf auf Seeschiffen nur geführt werden, wenn
 diese hierzu nach § 1, 2, 10 oder § 11 berechtigt sind. Eine
@@ -344,6 +358,7 @@ Auslaufen zu zeigen.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001807305)
 
 (1) Ein Seeschiff, für das ein Schiffszertifikat, Schiffsvorzertifikat
 oder Flaggenschein erteilt ist, muß seinen Namen an jeder Seite des
@@ -367,6 +382,7 @@ gilt auch für die Änderung des Namens.
 
 
 #### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003800308)
 
 (1) Der Eigentümer hat dafür zu sorgen, dass an einem Seeschiff im
 Sinne des § 9 neben dem Namen entweder am Heck oder auf beiden Seiten
@@ -389,10 +405,12 @@ hergestellt sind, muss von der Flaggenbehörde genehmigt werden.
 
 
 ### 5. - Verleihung der Befugnis zur Führung der Bundesflagge
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000602308)
 
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE001907305)
 
 Seeschiffen, die im Geltungsbereich des Grundgesetzes erbaut worden
 sind und die nicht bereits nach den Vorschriften der §§ 1 und 2 zur
@@ -403,6 +421,7 @@ hierfür erforderlichen vorausgehenden Fahrten verleihen.
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002008305)
 
 (1) Für Seeschiffe, die nicht nach den Vorschriften der §§ 1, 2 und 10
 zur Führung der Bundesflagge berechtigt sind, kann das
@@ -437,10 +456,12 @@ Infrastruktur anzuzeigen.
 
 
 ### 6. - Internationales Seeschiffahrtsregister
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG001002308)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003507305)
 
 (1) Zur Führung der Bundesflagge berechtigte Kauffahrteischiffe, die
 im Sinne des Einkommensteuergesetzes im internationalen Verkehr
@@ -453,10 +474,12 @@ und geführt.
 
 
 ### 7. - Stammdatendokumentation
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG001100308)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002204308)
 
 (1) Für jedes Seeschiff im Sinne von Kapitel XI-1 Regel 5 Absatz 1 der
 Anlage des Internationalen Übereinkommens von 1974 zum Schutz des
@@ -473,10 +496,12 @@ Seeschiffes mitzuführen.
 
 
 ## Zweiter Abschnitt - Flaggenführung der Binnenschiffe
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000702308)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002303308)
 
 (1) Binnenschiffe dürfen als deutsche Nationalflagge nur die
 Bundesflagge führen. Flaggen deutscher Länder oder andere deutsche
@@ -486,10 +511,12 @@ Heimatflaggen dürfen nur neben der Bundesflagge gesetzt werden.
 
 
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000802308)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002403308)
 
 (1) Wer als Führer eines Seeschiffes oder sonst für das Seeschiff
 Verantwortlicher vorsätzlich oder fahrlässig einer Vorschrift des § 6
@@ -505,6 +532,7 @@ Dienstflagge führt.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002507308)
 
 (1) Ordnungswidrig handelt, wer als Führer eines Seeschiffes oder
 sonst für das Seeschiff Verantwortlicher vorsätzlich oder fahrlässig
@@ -563,6 +591,7 @@ Euro geahndet werden.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002604308)
 
 § 15 Abs. 2 gilt, unabhängig vom Recht des Tatorts, auch für die
 Taten, die außerhalb des Geltungsbereichs dieses Gesetzes begangen
@@ -570,6 +599,7 @@ werden.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002703308)
 
 Bei Verstößen gegen Strafvorschriften zur Verhütung von
 Meeresverschmutzungen durch Schiffe übermitteln im Falle der Erhebung
@@ -588,10 +618,12 @@ anzugeben.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNG000902308)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003603308)
 
 § 1 Abs. 3 gilt nicht für Seeschiffe, die am 31. Dezember 1988 eine
 andere Nationalflagge als die Bundesflagge geführt haben, solange sie
@@ -599,11 +631,13 @@ diese Flagge weiterführen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE002902308)
 
 (Aufhebung anderer Vorschriften)
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003009305)
 
 (1) Soweit in anderen Rechtsvorschriften auf die in § 20 bezeichneten
 Vorschriften verwiesen ist, treten die entsprechenden Vorschriften
@@ -685,6 +719,7 @@ Sozialversicherungsrechts bleiben unberührt.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003111124)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt,
@@ -776,9 +811,11 @@ Bundesministerium für Ernährung und Landwirtschaft zu erlassen.
 
 
 ### § 22a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003211123)
 
 
 ### § 22b
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003302308)
 
 Außerhalb des Geltungsbereichs des Grundgesetzes haben die
 Konsularbeamten die Einhaltung der über das Flaggenrecht der
@@ -787,11 +824,13 @@ Vorschriften zu überwachen.
 
 
 ### § 22c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003701311)
 
 -
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE003404308)
 
 Bei Anwendung dieses Gesetzes und der auf Grund des § 22 erlassenen
 Verordnungen auf Kauffahrteischiffe werden
@@ -812,6 +851,7 @@ gleichbehandelt.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE004000308)
 
 Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31.
 Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur
@@ -820,6 +860,7 @@ Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur
 
 
 ### Anlage (zu § 7 Absatz 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE004200308)
 
 (Fundstelle: BGBl. I 2012, 2794)
 
@@ -893,6 +934,7 @@ Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur
 Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 889, 1107)
+[Direktlink](https://www.gesetze-im-internet.de/flaggrg/BJNR000790951.html#BJNR000790951BJNE888800308)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

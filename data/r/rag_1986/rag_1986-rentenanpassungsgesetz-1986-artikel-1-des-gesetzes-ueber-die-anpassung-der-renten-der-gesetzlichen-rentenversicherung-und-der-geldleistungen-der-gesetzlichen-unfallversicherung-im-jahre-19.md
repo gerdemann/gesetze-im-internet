@@ -20,16 +20,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000400326)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Abschnitt - Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNG000100326)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000500326)
 
 Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 1985 auf das Jahr 1986 werden die Renten der gesetzlichen
@@ -38,6 +41,7 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 
 ### § 2 Formelrenten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000600326)
 
 (1) Renten, die
 
@@ -64,6 +68,7 @@ wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000700326)
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
 angepaßt, daß der sich für den Monat Juli 1986 ergebende
@@ -71,6 +76,7 @@ anpassungsfähige Rentenbetrag um 2,9 vom Hundert erhöht wird.
 
 
 ### § 4 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000800326)
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
 das Zusammentreffen und Ruhen von Renten anzuwenden. Dabei sind für
@@ -89,6 +95,7 @@ zulässig.
 
 
 ### § 5 Allgemeine Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE000900326)
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1986 beträgt
 
@@ -110,26 +117,31 @@ Die allgemeine Bemessungsgrundlage für das Jahr 1986 beträgt
 
 
 ## Zweiter Abschnitt - Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNG000200326)
 
 
 
 ### § 6 Anpassungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE001000326)
 
 Der Anpassungsfaktor für die vom 1. Juli 1986 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung beträgt 1,0215.
 
 
 ### § 7 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE001100326)
 
 Das Pflegegeld beträgt vom 1. Juli 1986 an zwischen 402 Deutsche Mark
 und 1.607 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNG000300326)
 
 
 
 ### § 8 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/rag_1986/BJNR106970986.html#BJNR106970986BJNE001200326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.

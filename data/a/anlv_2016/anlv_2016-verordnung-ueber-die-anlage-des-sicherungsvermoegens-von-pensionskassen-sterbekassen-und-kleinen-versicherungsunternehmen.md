@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000100000)
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -38,6 +39,7 @@ Das Bundesministerium der Finanzen verordnet auf Grund
 
 
 ## § 1 Anwendungsbereich, Anlagegrundsätze und Anlagemanagement
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000201118)
 
 (1) Diese Verordnung gilt für die Anlage des Sicherungsvermögens von
 
@@ -91,6 +93,7 @@ Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
 
 
 ## § 2 Anlageformen
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000303129)
 
 (1) Das Sicherungsvermögen kann angelegt werden in
 
@@ -561,6 +564,7 @@ beeinträchtigt werden.
 
 
 ## § 3 Mischung
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000401129)
 
 (1) Direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe
 a und Nummer 8 sowie Anlagen bei Schuldnern mit Sitz in Staaten
@@ -637,6 +641,7 @@ Bewirtschaften von Infrastruktur dienen.
 
 
 ## § 4 Streuung
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000500000)
 
 (1) Vorbehaltlich des Absatzes 2 dürfen alle auf ein und denselben
 Schuldner entfallenden Anlagen 5 Prozent des Sicherungsvermögens nicht
@@ -720,6 +725,7 @@ Unternehmen getragen, sind Anlagen in diesen Unternehmen auf insgesamt
 
 
 ## § 5 Kongruenz
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000600000)
 
 Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in der
 Anlage zu dieser Verordnung in Vermögenswerten anzulegen, die auf
@@ -743,6 +749,7 @@ müssen. Dabei gelten
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000701128)
 
 (1) Anlagen, die bis zum 30. Juni 2010 getätigt worden sind und
 seitdem auf Grund des § 6 Absatz 1 der Anlageverordnung vom 20.
@@ -775,11 +782,13 @@ Absatz 1 zugeordnet werden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 5 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/anlv_2016/BJNR076900016.html#BJNR076900016BJNE000900000)
 
 ## Kongruenzregeln
 

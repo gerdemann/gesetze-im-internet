@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag_2/BJNR200010929.html#BJNR200010929BJNE000100308)
 
 Die in den Anlagen 1 und 2 beigefügten Nachträge zu den
 Zusatzverträgen mit Preußen und Hamburg zum Staatsvertrag, betreffend
@@ -29,6 +30,7 @@ Reichsgesetz vom 29. Juli 1921 (Reichsgesetzbl. S. 961 und 1922 I S.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag_2/BJNR200010929.html#BJNR200010929BJNE000200308)
 
 Der Tag des Inkrafttretens dieses Gesetzes wird vom
 Reichsverkehrsminister nach Benehmen mit den Regierungen von Preußen
@@ -36,6 +38,7 @@ und Hamburg festgesetzt.
 
 
 ## Anlage 1 Nachtrag zum Zusatzvertrag mit Preußen
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag_2/BJNR200010929.html#BJNR200010929BJNE000300308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 54
 Die Reichsregierung und die Regierung des Freistaats Preußen
@@ -112,6 +115,7 @@ entsprechende Anwendung.
 
 
 ## Anlage 2 Nachtrag zum Zusatzvertrag mit Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/wastr_bgvtrgntrag_2/BJNR200010929.html#BJNR200010929BJNE000400308)
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 55
 Die Reichsregierung und der Senat der Freien und Hansestadt Hamburg

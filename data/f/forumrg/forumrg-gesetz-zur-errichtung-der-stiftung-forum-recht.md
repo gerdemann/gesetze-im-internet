@@ -17,11 +17,13 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Name, Sitz und Rechtsform der Stiftung; Siegel; Standort
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000200000)
 
 (1) Unter dem Namen „Stiftung Forum Recht“ wird eine rechtsfähige
 bundesunmittelbare Stiftung des öffentlichen Rechts mit Sitz in
@@ -35,6 +37,7 @@ der Umschrift „Stiftung Forum Recht“.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000300000)
 
 (1) Zweck der Stiftung ist, in einem auf Bürgerbeteiligung angelegten
 Kommunikations-, Informations- und Dokumentationsforum aktuelle Fragen
@@ -79,6 +82,7 @@ Abgabenordnung.
 
 
 ## § 3 Unterstützung durch Einrichtungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000400000)
 
 Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch
 Einrichtungen des Bundes, insbesondere durch das Haus der Geschichte
@@ -87,6 +91,7 @@ das Bundesarchiv, unterstützt.
 
 
 ## § 4 Stiftungsvermögen; Errichtungsort
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000500000)
 
 (1) Die Stiftung verfügt über eigenes Vermögen.
 
@@ -110,12 +115,14 @@ Rahmen des einheitlichen Liegenschaftsmanagements.
 
 
 ## § 5 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000600000)
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium beschlossen
 wird.
 
 
 ## § 6 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000700000)
 
 Organe der Stiftung sind
 
@@ -132,6 +139,7 @@ Organe der Stiftung sind
 
 
 ## § 7 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000800000)
 
 (1) In das Kuratorium werden für jeweils fünf Jahre entsandt, wobei
 eine wiederholte Entsendung zulässig ist:
@@ -240,6 +248,7 @@ einzuberufen.
 
 
 ## § 8 Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE000900000)
 
 (1) Das Direktorium besteht aus einem Direktor oder einer Direktorin
 sowie einem stellvertretenden Direktor oder einer stellvertretenden
@@ -263,6 +272,7 @@ Vorsitzenden des Kuratoriums. Dies sind insbesondere Entscheidungen
 
 
 ## § 9 Stiftungsbeirat
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001000000)
 
 (1) Der Stiftungsbeirat besteht aus mindestens 20 und höchstens 30
 Mitgliedern. Als Mitglieder des Stiftungsbeirats sind sie sowohl
@@ -296,6 +306,7 @@ Direktorium.
 
 
 ## § 10 Ehrenamtliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001100000)
 
 Die Mitglieder des Kuratoriums und des Stiftungsbeirats üben ihre
 Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten und
@@ -304,6 +315,7 @@ Bundesverwaltung geltenden Bestimmungen.
 
 
 ## § 11 Aufsicht; Haushalt; Rechnungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001200000)
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
 der Justiz und für Verbraucherschutz.
@@ -317,12 +329,14 @@ Verbraucherschutz prüft die Rechnung.
 
 
 ## § 12 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001300000)
 
 Das Kuratorium legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über Tätigkeit und Vorhaben der Stiftung vor.
 
 
 ## § 13 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001400000)
 
 (1) Die Stiftung beschäftigt in der Regel Arbeitnehmer und
 Arbeitnehmerinnen. Auf deren Arbeitsverhältnisse sind die für die
@@ -338,6 +352,7 @@ Verbraucherschutz.
 
 
 ## § 14 Freier Eintritt; Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001500000)
 
 (1) Der Eintritt in das Forum Recht ist frei.
 
@@ -348,6 +363,7 @@ Stiftungseinrichtungen und für besondere Veranstaltungen erheben.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/forumrg/BJNR073100019.html#BJNR073100019BJNE001600000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

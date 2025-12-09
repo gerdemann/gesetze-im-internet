@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000100000)
 
 Auf Grund des § 57c Satz 1 und 2 erster Halbsatz des
 Luftverkehrsgesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom
@@ -31,9 +32,11 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## Abschnitt 1 - Privatrechtlich organisierte Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNG000100000)
 
 
 ### § 1 Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000301305)
 
 (1) Privatrechtlich organisierte Einrichtungen können als
 Schlichtungsstellen nach § 57 Absatz 1 des Luftverkehrsgesetzes
@@ -65,12 +68,14 @@ Verbraucherschutz mindestens zwei Monate vor Inkrafttreten der
 
 
 ### § 2 Sitz
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000400000)
 
 Die Schlichtungsstelle hat ihren Sitz in der Bundesrepublik
 Deutschland zu nehmen.
 
 
 ### § 3 Besetzung und Geschäftsverteilung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000500000)
 
 (1) Die Schlichtungsstelle ist mit mindestens zwei Schlichtern zu
 besetzen. Die Schlichter vertreten sich gegenseitig.
@@ -81,6 +86,7 @@ nur aus wichtigem Grund zulässig.
 
 
 ### § 4 Schlichter
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000601305)
 
 (1) Die Schlichtung erfolgt durch einen Schlichter.
 
@@ -141,6 +147,7 @@ informieren.
 
 
 ### § 5 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000701305)
 
 (1) Ein Schlichter darf nicht bei einer Streitigkeit tätig werden,
 wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen seine
@@ -153,6 +160,7 @@ der Fortführung seiner Tätigkeit ausdrücklich zustimmen.
 
 
 ### § 6 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000801305)
 
 (1) Die Schlichtungsstelle unterhält einen Beirat, in dem die
 Interessen der Unternehmen und Verbraucher repräsentiert werden. Dazu
@@ -195,6 +203,7 @@ Wiederbestellung ist zulässig.
 
 
 ### § 7 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE000901305)
 
 Die Schlichtungsstelle richtet eine Geschäftsstelle ein. Für die in
 der Geschäftsstelle tätigen Personen gilt § 4 Absatz 5 Satz 1 und 2
@@ -202,6 +211,7 @@ entsprechend.
 
 
 ### § 8 Verfahrensordnung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001001305)
 
 (1) Die Schlichtungsstelle hat sich eine Verfahrensordnung zu geben,
 die die Anforderungen an die Schlichtungsstelle und das
@@ -228,6 +238,7 @@ Schlichtungsverfahren nach den folgenden Vorschriften näher bestimmt:
 
 
 ### § 9 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001101305)
 
 Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu
 erstellen und zu veröffentlichen. Dem Bundesministerium der Justiz und
@@ -236,9 +247,11 @@ Kopie des Tätigkeitsberichts zu übersenden.
 
 
 ## Abschnitt 2 - Verfahren für die privatrechtlich organisierte und die behördliche Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNG000200000)
 
 
 ### § 10 Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001201305)
 
 (1) Verfahrenssprache ist deutsch, sofern sich nicht
 Schlichtungsstelle, Fluggast und Luftfahrtunternehmen im Einzelfall
@@ -262,6 +275,7 @@ vertreten zu lassen.
 
 
 ### § 11 Anrufung der Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001301305)
 
 (1) Die Anrufung der Schlichtungsstelle erfolgt unter Angabe des
 Sachverhalts und der Forderung sowie unter Beifügung erforderlicher
@@ -290,6 +304,7 @@ wird.
 
 
 ### § 12 Unzulässigkeit der Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001400000)
 
 (1) Wird eine Schlichtungsstelle wegen einer Streitigkeit angerufen,
 die der Schlichtung nach den §§ 57 bis 57b des Luftverkehrsgesetzes
@@ -312,6 +327,7 @@ sie von dem Ablehnungsgrund Kenntnis erlangt hat, mit.
 
 
 ### § 13 Schlichtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001501305)
 
 (1) Wird eine Schlichtung nicht nach § 12 abgelehnt, leitet die
 Schlichtungsstelle das Schlichtungsbegehren dem Luftfahrtunternehmen
@@ -353,6 +369,7 @@ Schlichtungsstelle die Beteiligten.
 
 
 ### § 14 Schlichtungsvorschlag
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001601305)
 
 (1) Der Schlichter unterbreitet auf der Grundlage der Darlegungen der
 Beteiligten unter Berücksichtigung der vorgelegten Belege einen
@@ -386,6 +403,7 @@ berechtigt ist, die Gerichte anzurufen.
 
 
 ### § 15 Beendigung der Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001700000)
 
 (1) Der Schlichtungsvorschlag kann innerhalb von vier Wochen ab Zugang
 bei den Beteiligten angenommen werden.
@@ -402,9 +420,11 @@ anzugeben.
 
 
 ## Abschnitt 3 - Weitere Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNG000300000)
 
 
 ### § 16 Vereinfachtes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001800000)
 
 (1) Die privatrechtlich organisierte Schlichtungsstelle kann in ihrer
 Verfahrensordnung vorsehen, dass die Schlichtungsstelle dem
@@ -433,6 +453,7 @@ Andernfalls wird das Schlichtungsverfahren fortgesetzt.
 
 
 ### § 17 Nachweisverfahren
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE001900000)
 
 (1) Zum Nachweis der Voraussetzungen für ein Entgelt nach § 57 Absatz
 5 des Luftverkehrsgesetzes erstellt die Schlichtungsstelle für den
@@ -458,6 +479,7 @@ Unterlagen auf.
 
 
 ### § 17a Verhältnis zum Verbraucherstreitbeilegungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE002200305)
 
 Für das Verhältnis der Vorschriften dieser Rechtsverordnung zu den
 Vorschriften des Verbraucherstreitbeilegungsgesetzes und der auf Grund
@@ -466,9 +488,11 @@ des § 42 Absatz 1 dieses Gesetzes erlassenen Rechtsverordnungen gilt §
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNG000400000)
 
 
 ### § 18 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE002001305)
 
 (1) § 6 Absatz 1 Satz 2, Absatz 2 und 3 ist auf privatrechtlich
 organisierte Einrichtungen, die bereits vor dem 1. November 2013 von
@@ -484,6 +508,7 @@ nicht für Ansprüche, die vor dem 1. April 2016 entstanden sind.
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftschlichtv/BJNR382000013.html#BJNR382000013BJNE002100000)
 
 Diese Verordnung tritt am 1. November 2013 in Kraft.
 

@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000100000)
 
 
 
 ### § 1 Gegenstand und Zweck des Gesetzes, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000101360)
 
 (1) Dieses Gesetz regelt den Umgang mit Waffen oder Munition unter
 Berücksichtigung der Belange der öffentlichen Sicherheit und Ordnung.
@@ -63,6 +65,7 @@ der Anlage 1 (Begriffsbestimmungen) zu diesem Gesetz näher geregelt.
 
 
 ### § 2 Grundsätze des Umgangs mit Waffen oder Munition, Waffenliste
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000200000)
 
 (1) Der Umgang mit Waffen oder Munition ist nur Personen gestattet,
 die das 18. Lebensjahr vollendet haben.
@@ -100,6 +103,7 @@ allgemein verbindlich. Sie ist im Bundesanzeiger bekannt zu machen.
 
 
 ### § 3 Umgang mit Waffen oder Munition durch Kinder und Jugendliche
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000301377)
 
 (1) Jugendliche dürfen im Rahmen eines Ausbildungs- oder
 Arbeitsverhältnisses abweichend von § 2 Abs. 1 unter Aufsicht eines
@@ -115,14 +119,17 @@ entgegenstehen.
 
 
 ## Abschnitt 2 - Umgang mit Waffen oder Munition
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000300000)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Voraussetzungen für Waffen- und Munitionserlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000400000)
 
 
 
 #### § 4 Voraussetzungen für eine Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000403123)
 
 (1) Eine Erlaubnis setzt voraus, dass der Antragsteller
 
@@ -177,6 +184,7 @@ einfließen zu lassen.
 
 
 #### § 5 Zuverlässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000507123)
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen nicht,
 
@@ -364,6 +372,7 @@ werden.
 
 
 #### § 6 Persönliche Eignung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000603123)
 
 (1) Die erforderliche persönliche Eignung besitzen Personen nicht,
 wenn Tatsachen die Annahme rechtfertigen, dass sie
@@ -431,6 +440,7 @@ den zuständigen Behörden zu erlassen.
 
 
 #### § 6a Nachbericht
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE010000123)
 
 (1) Erlangt die für die Auskunft nach § 5 Absatz 5 Satz 1 Nummer 4
 zuständige Verfassungsschutzbehörde im Nachhinein für die Beurteilung
@@ -467,6 +477,7 @@ durch die zuständige Behörde, zu löschen.
 
 
 #### § 6b Mitteilungspflichten der Waffenbehörden an die Jagdbehörden
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE010100123)
 
 Stellt die Waffenbehörde fest, dass eine Person mit besonders
 anzuerkennenden persönlichen oder wirtschaftlichen Interessen als
@@ -476,6 +487,7 @@ Waffenbehörde die zuständige Jagdbehörde hierüber unverzüglich.
 
 
 #### § 7 Sachkunde
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000701128)
 
 (1) Den Nachweis der Sachkunde hat erbracht, wer eine Prüfung vor der
 dafür bestimmten Stelle bestanden hat oder seine Sachkunde durch eine
@@ -491,6 +503,7 @@ Sachkunde zu erlassen.
 
 
 #### § 8 Bedürfnis, allgemeine Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000801377)
 
 Der Nachweis eines Bedürfnisses ist erbracht, wenn gegenüber den
 Belangen der öffentlichen Sicherheit oder Ordnung
@@ -511,6 +524,7 @@ glaubhaft gemacht sind.
 
 
 #### § 9 Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE000900000)
 
 (1) Eine Erlaubnis nach diesem Gesetz kann zur Abwehr von Gefahren für
 die öffentliche Sicherheit oder Ordnung inhaltlich beschränkt werden,
@@ -530,10 +544,12 @@ getroffen werden.
 
 
 ### Unterabschnitt 2 - Erlaubnisse für einzelne Arten des Umgangs mit Waffen oder Munition, Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000500000)
 
 
 
 #### § 10 Erteilung von Erlaubnissen zum Erwerb, Besitz, Führen und Schießen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001004360)
 
 (1) Die Erlaubnis zum Erwerb und Besitz von Waffen wird durch eine
 Waffenbesitzkarte oder durch Eintragung in eine bereits vorhandene
@@ -590,6 +606,7 @@ Erlaubnisschein erteilt.
 
 
 #### § 11 Erwerb und Besitz von Schusswaffen oder Munition mit Bezug zu einem anderen Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001102118)
 
 (1) Eine Erlaubnis zum Erwerb und Besitz einer Schusswaffe nach Anlage
 1 Abschnitt 3 Nr. 1 bis 3 (Kategorien A bis C) oder von Munition für
@@ -620,6 +637,7 @@ vorliegen.
 
 
 #### § 12 Ausnahmen von den Erlaubnispflichten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001202118)
 
 (1) Einer Erlaubnis zum Erwerb und Besitz einer Waffe bedarf nicht,
 wer diese
@@ -797,10 +815,12 @@ Belange der öffentlichen Sicherheit und Ordnung nicht entgegenstehen.
 
 
 ### Unterabschnitt 3 - Besondere Erlaubnistatbestände für bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000600000)
 
 
 
 #### § 13 Erwerb und Besitz von Schusswaffen und Munition durch Jäger, Führen und Schießen zu Jagdzwecken
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001304360)
 
 (1) Ein Bedürfnis für den Erwerb und Besitz von Schusswaffen und der
 dafür bestimmten Munition wird bei Personen anerkannt, die Inhaber
@@ -878,6 +898,7 @@ mit Zentralfeuerzündung im Rahmen der Jagd und des jagdlichen
 
 
 #### § 14 Erwerb und Besitz von Schusswaffen und Munition durch Sportschützen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001404116)
 
 (1) Die Erlaubnis zum Erwerb und Besitz von Schusswaffen und Munition
 zum Zweck des sportlichen Schießens wird abweichend von § 4 Abs. 1 Nr.
@@ -979,6 +1000,7 @@ mehrschüssigen Kurz- und Langwaffen mit Zündhütchenzündung
 
 
 #### § 15 Schießsportverbände, schießsportliche Vereine
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001503116)
 
 (1) Als Schießsportverband im Sinne dieses Gesetzes wird ein
 überörtlicher Zusammenschluss schießsportlicher Vereine anerkannt, der
@@ -1084,6 +1106,7 @@ die aus ihrem Verein ausgeschieden sind, unverzüglich zu benennen.
 
 
 #### § 15a Sportordnungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006202128)
 
 (1) Sportliches Schießen liegt dann vor, wenn nach festen Regeln einer
 genehmigten Sportordnung geschossen wird. Schießübungen des
@@ -1121,6 +1144,7 @@ sind.
 
 
 #### § 15b Fachbeirat Schießsport
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006301128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates einen Ausschuss
@@ -1133,6 +1157,7 @@ berät.
 
 
 #### § 16 Erwerb und Besitz von Schusswaffen und Munition durch Brauchtumsschützen, Führen von Waffen und Schießen zur Brauchtumspflege
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001600000)
 
 (1) Ein Bedürfnis für den Erwerb und Besitz von Einzellader-Langwaffen
 und bis zu drei Repetier-Langwaffen sowie der dafür bestimmten
@@ -1186,6 +1211,7 @@ Abs. 2 erteilt wurde, ohne Erlaubnis führen.
 
 
 #### § 17 Erwerb und Besitz von Schusswaffen oder Munition durch Waffen- oder Munitionssammler
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001700000)
 
 (1) Ein Bedürfnis zum Erwerb und Besitz von Schusswaffen oder Munition
 wird bei Personen anerkannt, die glaubhaft machen, dass sie
@@ -1205,6 +1231,7 @@ vorhandene Sammlung des Erblassers im Sinne des Absatzes 1 fortführt.
 
 
 #### § 18 Erwerb und Besitz von Schusswaffen oder Munition durch Waffen- oder Munitionssachverständige
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001802360)
 
 (1) Ein Bedürfnis zum Erwerb und Besitz von Schusswaffen oder Munition
 wird bei Personen anerkannt, die glaubhaft machen, dass sie
@@ -1228,6 +1255,7 @@ Schusswaffen vorzulegen.
 
 
 #### § 19 Erwerb und Besitz von Schusswaffen und Munition, Führen von Schusswaffen durch gefährdete Personen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE001900000)
 
 (1) Ein Bedürfnis zum Erwerb und Besitz einer Schusswaffe und der
 dafür bestimmten Munition wird bei einer Person anerkannt, die
@@ -1250,6 +1278,7 @@ befriedeten Besitztums vorliegen.
 
 
 #### § 20 Erwerb und Besitz von Schusswaffen durch Erwerber infolge eines Erbfalls
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009500128)
 
 (1) Der Erbe hat binnen eines Monats nach der Annahme der Erbschaft
 oder dem Ablauf der für die Ausschlagung der Erbschaft
@@ -1306,10 +1335,12 @@ bedeutsamen Sammlung gemäß § 17 sind oder werden sollen.
 
 
 ### Unterabschnitt 4 - Besondere Erlaubnistatbestände für Waffenherstellung, Waffenhandel, Schießstätten, Bewachungsunternehmer
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000700000)
 
 
 
 #### § 21 Gewerbsmäßige Waffenherstellung, Waffenhandel
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002102360)
 
 (1) Die Erlaubnis zur gewerbsmäßig oder selbstständig im Rahmen einer
 wirtschaftlichen Unternehmung betriebenen Herstellung, Bearbeitung
@@ -1375,6 +1406,7 @@ Widerruf einer Erlaubnis nach Absatz 1.
 
 
 #### § 21a Stellvertretungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006400377)
 
 Wer ein erlaubnisbedürftiges Waffengewerbe durch einen Stellvertreter
 betreiben will, bedarf einer Stellvertretererlaubnis; sie wird dem
@@ -1385,6 +1417,7 @@ Zweigstelle. Die Vorschriften des § 21 gelten entsprechend.
 
 
 #### § 22 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002203128)
 
 (1) Die Fachkunde ist durch eine Prüfung vor der zuständigen Behörde
 nachzuweisen. Die Fachkunde braucht nicht nachzuweisen, wer die
@@ -1413,10 +1446,12 @@ zu erlassen.
 
 
 #### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002303360)
 
 
 
 #### § 24 Kennzeichnungspflicht, Markenanzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002404360)
 
 (1) Wer Schusswaffen im Geltungsbereich dieses Gesetzes herstellt oder
 in diesen verbringt, hat unverzüglich auf den in einer
@@ -1532,6 +1567,7 @@ bestimmt ist.
 [^F810324_02_BJNR397010002BJNE002404360]: 
 
 #### § 25 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002502360)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung
@@ -1561,6 +1597,7 @@ des § 24
 
 
 #### § 25a Anordnungen zur Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008100360)
 
 Sofern eine kennzeichnungspflichtige Schusswaffe nicht mit einer
 fortlaufenden Nummer (§ 24 Absatz 1 Satz 1 Nummer 5) gekennzeichnet
@@ -1569,6 +1606,7 @@ Besitzer an ihr ein bestimmtes Kennzeichen anbringen lässt.
 
 
 #### § 26 Nichtgewerbsmäßige Waffenherstellung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002600000)
 
 (1) Die Erlaubnis zur nichtgewerbsmäßigen Herstellung, Bearbeitung
 oder Instandsetzung von Schusswaffen wird durch einen Erlaubnisschein
@@ -1587,6 +1625,7 @@ Teilen erteilt werden.
 
 
 #### § 27 Schießstätten, Schießen durch Minderjährige auf Schießstätten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009600128)
 
 (1) Wer
 
@@ -1734,6 +1773,7 @@ Allgemeinheit
 
 
 #### § 27a Sicherheitstechnische Prüfung von Schießstätten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008200360)
 
 (1) Schießstätten sind vor ihrer ersten Inbetriebnahme und bei
 wesentlichen Änderungen in der Beschaffenheit hinsichtlich der
@@ -1787,6 +1827,7 @@ genannten Schießstandrichtlinien nachgewiesen hat.
 
 
 #### § 28 Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmer und ihr Bewachungspersonal
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002801116)
 
 (1) Ein Bedürfnis zum Erwerb, Besitz und Führen von Schusswaffen wird
 bei einem Bewachungsunternehmer (§ 34a der Gewerbeordnung) anerkannt,
@@ -1823,6 +1864,7 @@ dürfen.
 
 
 #### § 28a Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE007101360)
 
 (1) Für den Erwerb, Besitz und das Führen von Schusswaffen und
 Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für
@@ -1903,10 +1945,12 @@ Erlaubnis entsprechend.
 
 
 ### Unterabschnitt 5 - Verbringen und Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000800000)
 
 
 
 #### § 29 Verbringen von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE002905360)
 
 (1) Eine Erlaubnis zum Verbringen von Waffen oder Munition in den,
 durch den oder aus dem Geltungsbereich dieses Gesetzes kann erteilt
@@ -1928,6 +1972,7 @@ Geltungsbereich dieses Gesetzes in einen anderen Mitgliedstaat.
 
 
 #### § 30 Allgemeine Erlaubnis zum Verbringen von Waffen oder Munition aus dem Geltungsbereich dieses Gesetzes in andere Mitgliedstaaten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003005360)
 
 Gewerbsmäßigen Waffenherstellern oder Waffenhändlern nach § 21 kann
 abweichend von § 29 allgemein die Erlaubnis zum Verbringen von Waffen
@@ -1942,9 +1987,11 @@ anzuzeigen.
 
 
 #### § 31 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003107360)
 
 
 #### § 32 Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes, Europäischer Feuerwaffenpass
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003205360)
 
 (1) Die Erlaubnis zur Mitnahme von Waffen oder Munition in den oder
 durch den Geltungsbereich des Gesetzes kann erteilt werden, wenn die
@@ -2045,6 +2092,7 @@ Feuerwaffenpass ausgestellt.
 
 
 #### § 33 Anmelde- und Nachweispflichten, Befugnisse der Überwachungsbehörden beim Verbringen oder der Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009700128)
 
 (1) Wer beabsichtigt, Waffen oder Munition, deren Verbringen oder
 Mitnahme einer Erlaubnis bedarf, aus einem Drittstaat in den oder
@@ -2091,10 +2139,12 @@ der Überwachung mit.
 
 
 ### Unterabschnitt 6 - Obhutspflichten, Anzeige-, Hinweis- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG000900000)
 
 
 
 #### § 34 Überlassen von Waffen oder Munition, Prüfung der Erwerbsberechtigung, Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009800128)
 
 (1) Waffen oder Munition dürfen nur berechtigten Personen überlassen
 werden. Die Berechtigung muss offensichtlich sein oder nachgewiesen
@@ -2163,6 +2213,7 @@ Unterlagen beizufügen sind.
 
 
 #### § 35 Werbung, Hinweispflichten, Handelsverbote
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003500000)
 
 (1) Wer Waffen oder Munition zum Kauf oder Tausch in Anzeigen oder
 Werbeschriften anbietet, hat bei den nachstehenden Waffenarten auf das
@@ -2230,6 +2281,7 @@ Bezirk zulassen, wenn öffentliche Interessen nicht entgegenstehen.
 
 
 #### § 36 Aufbewahrung von Waffen oder Munition
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003603128)
 
 (1) Wer Waffen oder Munition besitzt, hat die erforderlichen
 Vorkehrungen zu treffen, um zu verhindern, dass diese Gegenstände
@@ -2318,6 +2370,7 @@ Umsetzung eine angemessene Frist zu setzen.
 
 
 #### § 37 Anzeigepflichten der gewerblichen Waffenhersteller und Waffenhändler
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003703360)
 
 (1) Der Inhaber einer Waffenherstellungserlaubnis oder
 Waffenhandelserlaubnis nach § 21 Absatz 1 Satz 1 hat der zuständigen
@@ -2354,6 +2407,7 @@ Waffenregistergesetzes.
 
 
 #### § 37a Anzeigepflichten der Inhaber einer Waffenbesitzkarte oder einer gleichgestellten anderen Erlaubnis zum Erwerb und Besitz und der Inhaber einer nichtgewerbsmäßigen Waffenherstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008300360)
 
 Der Inhaber einer Erlaubnis zum Erwerb und Besitz von Waffen nach § 10
 Absatz 1 Satz 1 oder einer gleichgestellten anderen Erlaubnis zum
@@ -2390,6 +2444,7 @@ auch dann, wenn ein Blockiersystem eingebaut oder entsperrt wird.
 
 
 #### § 37b Anzeige der Vernichtung,der Unbrauchbarmachung und des Abhandenkommens
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008400360)
 
 (1) Der Besitzer einer Schusswaffe, deren Erwerb oder Besitz einer
 Erlaubnis bedarf, hat der zuständigen Behörde nach Satz 2 oder Satz 3
@@ -2428,6 +2483,7 @@ Abhandenkommen.
 
 
 #### § 37c Anzeigepflichten bei Inbesitznahme
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008500360)
 
 (1) Wer Waffen oder Munition, deren Erwerb der Erlaubnis bedarf, in
 Besitz nimmt
@@ -2469,6 +2525,7 @@ nach bürgerlichem Recht bisher Berechtigten zu.
 
 
 #### § 37d Anzeige von unbrauchbar gemachten Schusswaffen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008600360)
 
 (1) Wer eine nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.4
 unbrauchbar gemachte Schusswaffe
@@ -2509,6 +2566,7 @@ sie die örtliche Polizeidienststelle über das Abhandenkommen.
 
 
 #### § 37e Ausnahmen von der Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008700360)
 
 (1) Die Pflicht zur Anzeige einer Überlassung oder eines Erwerbs nach
 § 37 Absatz 1 Satz 1 Nummer 2 und 3 besteht nicht bei
@@ -2636,6 +2694,7 @@ Erlaubnis nach § 21 Absatz 1 Satz 1 sind, entsprechend.
 
 
 #### § 37f Inhalt der Anzeigen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008800360)
 
 (1) Für die Anzeige nach den §§ 37 bis 37d hat der Anzeigende folgende
 Daten anzugeben:
@@ -2838,6 +2897,7 @@ einer der in § 37 Absatz 1 bezeichneten Umgangshandlungen ergeben.
 
 
 #### § 37g Eintragungen in die Waffenbesitzkarte
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE008900360)
 
 (1) Der Inhaber einer Erlaubnis zum Erwerb und Besitz von Waffen nach
 § 10 Absatz 1 Satz 1 oder einer gleichgestellten anderen Erlaubnis zum
@@ -2855,6 +2915,7 @@ Waffenbesitzkarte oder den Europäischen Feuerwaffenpass ein.
 
 
 #### § 37h Ausstellung einer Anzeigebescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009000360)
 
 (1) Über die Anzeige
 
@@ -2894,6 +2955,7 @@ Erlaubnis nach § 21 Absatz 1 Satz 1 ist.
 
 
 #### § 37i Mitteilungspflicht bei Umzug ins Ausland und bei Umzug im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009100360)
 
 Zieht der Inhaber einer waffenrechtlichen Erlaubnis oder Bescheinigung
 ins Ausland, so ist er verpflichtet, seine Anschrift im Ausland der
@@ -2904,6 +2966,7 @@ Bundesverwaltungsamt seine neue Anschrift im Ausland mitzuteilen.
 
 
 #### § 38 Ausweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003805360)
 
 (1) Wer eine Waffe führt, muss folgende Dokumente mit sich führen:
 
@@ -2980,6 +3043,7 @@ zur Prüfung auszuhändigen.
 
 
 #### § 39 Auskunfts- und Vorzeigepflicht, Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE003900000)
 
 (1) Wer Waffenherstellung, Waffenhandel oder eine Schießstätte
 betreibt, eine Schießstätte benutzt oder in ihr die Aufsicht führt,
@@ -3025,6 +3089,7 @@ angemessener, von ihr zu bestimmender Frist zur Prüfung vorlegt.
 
 
 #### § 39a Verordnungsermächtigung für die Ersatzdokumentation
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009200360)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung
@@ -3034,10 +3099,12 @@ erlassen.
 
 
 ### Unterabschnitt 6a - Besondere Regelungen zum Umgang mit Salutwaffen und unbrauchbar gemachten Schusswaffen, zur Unbrauchbarmachung von Schusswaffen und zur Aufbewahrung von Salutwaffen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001501360)
 
 
 
 #### § 39b Erwerb, Besitz und Aufbewahrung von Salutwaffen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009300360)
 
 (1) Ein Bedürfnis für den Erwerb und Besitz von Salutwaffen nach
 Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.5 ist insbesondere
@@ -3066,6 +3133,7 @@ Erlaubnispflicht freigestellte Waffen zu behandeln.
 
 
 #### § 39c Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE007703128)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -3104,10 +3172,12 @@ werden.
 
 
 ### Unterabschnitt 7 - Verbote
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001000000)
 
 
 
 #### § 40 Verbotene Waffen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004002360)
 
 (1) Das Verbot des Umgangs umfasst auch das Verbot, zur Herstellung
 der in Anlage 2 Abschnitt 1 Nr. 1.3.4 bezeichneten Gegenstände
@@ -3165,6 +3235,7 @@ bekannt gegeben worden ist.
 
 
 #### § 41 Waffenverbote für den Einzelfall
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004102123)
 
 (1) Die zuständige Behörde kann jemandem den Besitz von Waffen oder
 Munition, deren Erwerb nicht der Erlaubnis bedarf, und den Erwerb
@@ -3224,6 +3295,7 @@ Polizeidienststelle über den Erlass eines Waffenbesitzverbotes.
 
 
 #### § 42 Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen; Verordnungsermächtigungen für Verbotszonen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004205123)
 
 (1) Wer an öffentlichen Vergnügungen, Volksfesten,
 Sportveranstaltungen, Messen, Ausstellungen, Märkten oder ähnlichen
@@ -3404,6 +3476,7 @@ Rechtsverordnung weiter übertragen.
 
 
 #### § 42a Verbot des Führens von Anscheinswaffen und bestimmten tragbaren Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006601118)
 
 (1) Es ist verboten
 
@@ -3444,6 +3517,7 @@ allgemein anerkannten Zweck dient.
 
 
 #### § 42b Verbot des Führens von Waffen und Messern im öffentlichen Personenfernverkehr; Verordnungsermächtigung für Verbotszonen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE010200123)
 
 (1) Es ist verboten,
 
@@ -3489,6 +3563,7 @@ Allgemeinverfügung zu regeln, bleibt unberührt.
 
 
 #### § 42c Kontrollbefugnis zum Verbot des Führens von Waffen und Messern bei öffentlichen Veranstaltungen, im öffentlichen Personenfernverkehr und in Verbotszonen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE010300123)
 
 Die zuständige Behörde kann zur Durchsetzung gesetzlicher Waffen- und
 Messerverbote nach § 42 Absatz 1 Satz 1, Absatz 4a Satz 1 und § 42b
@@ -3503,10 +3578,12 @@ Zweck der Maßnahme gerechtfertigten Grund ist unzulässig.
 
 
 ## Abschnitt 3 - Sonstige waffenrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001100000)
 
 
 
 ### § 43 Erhebung und Übermittlung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004302123)
 
 (1) Die für die Ausführung dieses Gesetzes zuständigen Behörden dürfen
 personenbezogene Daten auch ohne Mitwirkung der betroffenen Person in
@@ -3524,6 +3601,7 @@ Abgabenordnung steht der Übermittlung nicht entgegen.
 
 
 ### § 44 Übermittlung an und von Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004404123)
 
 (1) Die zuständige Behörde teilt der Meldebehörde mit:
 
@@ -3551,6 +3629,7 @@ Verfassungsschutzbehörden.
 
 
 ### § 44a Behördliche Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006702360)
 
 Die für die Ausführung dieses Gesetzes zuständigen Behörden haben alle
 Unterlagen, die für die Feststellung der gegenwärtigen und früheren
@@ -3574,6 +3653,7 @@ einschließlich der Gründe hierfür, ergibt.
 
 
 ### § 45 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004502116)
 
 (1) Eine Erlaubnis nach diesem Gesetz ist zurückzunehmen, wenn
 nachträglich bekannt wird, dass die Erlaubnis hätte versagt werden
@@ -3606,6 +3686,7 @@ wird.
 
 
 ### § 46 Weitere Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004604123)
 
 (1) Werden Erlaubnisse nach diesem Gesetz zurückgenommen oder
 widerrufen, so hat der Inhaber alle Ausfertigungen der
@@ -3700,6 +3781,7 @@ und Verwertung dem nach bürgerlichem Recht bisher Berechtigten zu.
 
 
 ### § 47 Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004701128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 mit Zustimmung des Bundesrates zur Erfüllung von Verpflichtungen aus
@@ -3724,6 +3806,7 @@ Rechtsverordnungen zu erlassen, die insbesondere
 
 
 ### § 48 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004805118)
 
 (1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen können durch Rechtsverordnung die für die
@@ -3792,6 +3875,7 @@ der Verwaltungsverfahrensgesetze abgewickelt werden.
 
 
 ### § 49 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE004901377)
 
 (1) Die Vorschriften der Verwaltungsverfahrensgesetze über die
 örtliche Zuständigkeit gelten mit der Maßgabe, dass örtlich zuständig
@@ -3863,14 +3947,17 @@ ist
 
 
 ### § 50 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005007301)
 
 
 
 ## Abschnitt 4 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001200000)
 
 
 
 ### § 51 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005102360)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren wird
 bestraft, wer entgegen § 2 Absatz 3 in Verbindung mit Anlage 2
@@ -3895,6 +3982,7 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 52 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005206360)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird
 bestraft, wer
@@ -4038,10 +4126,12 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ### § 52a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE007001118)
 
 
 
 ### § 53 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005311123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4206,6 +4296,7 @@ Gesetzes über Ordnungswidrigkeiten sind
 
 
 ### § 54 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005401118)
 
 (1) Ist eine Straftat nach den §§ 51, 52 Abs. 1, 2 oder 3 Nr. 1, 2
 oder 3 oder Abs. 5 begangen worden, so werden Gegenstände,
@@ -4235,10 +4326,12 @@ einem Berechtigten zu überlassen.
 
 
 ## Abschnitt 5 - Ausnahmen von der Anwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001300000)
 
 
 
 ### § 55 Ausnahmen für oberste Bundes- und Landesbehörden, Bundeswehr, Polizei und Zollverwaltung, erheblich gefährdete Hoheitsträger sowie Bedienstete anderer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009900128)
 
 (1) Dieses Gesetz ist, wenn es nicht ausdrücklich etwas anderes
 bestimmt, nicht anzuwenden auf
@@ -4304,6 +4397,7 @@ Befugnis nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden
 
 
 ### § 56 Sondervorschriften für Staatsgäste und andere Besucher
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005602116)
 
 Auf
 
@@ -4338,6 +4432,7 @@ die nach § 48 Abs. 1 zuständige Behörde. Das Bundesverwaltungsamt ist
 
 
 ### § 57 Kriegswaffen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005701118)
 
 (1) Dieses Gesetz gilt nicht für Kriegswaffen im Sinne des Gesetzes
 über die Kontrolle von Kriegswaffen. Auf tragbare Schusswaffen, für
@@ -4393,10 +4488,12 @@ ausgeübt werden. § 46 Abs. 2 findet entsprechend Anwendung.
 
 
 ## Abschnitt 6 - Übergangsvorschriften, Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNG001400000)
 
 
 
 ### § 58 Altbesitz; Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005807123)
 
 (1) Soweit nicht nachfolgend Abweichendes bestimmt wird, gelten
 Erlaubnisse im Sinne des Waffengesetzes in der Fassung der
@@ -4622,6 +4719,7 @@ sanktionslos.
 
 
 ### § 59 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE005901128)
 
 Das Bundesministerium des Innern, für Bau und Heimat erlässt
 allgemeine Verwaltungsvorschriften über den Erwerb und das Führen von
@@ -4634,10 +4732,12 @@ dem Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### § 60 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE007204301)
 
 
 
 ### § 60a Übergangsvorschrift zu den Waffenbüchern
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE009400360)
 
 (1) Die Pflicht zur Führung von Waffenbüchern nach § 23 Absatz 1 oder
 Absatz 2 in der bis zum 19. Februar 2020 geltenden Fassung besteht bis
@@ -4670,6 +4770,7 @@ Anschließend haben sie die Waffenbücher zu vernichten.
 (zu § 1 Abs. 4)
 
 ### Anlage 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006004123)
 
 ( Fundstelle: BGBl. I 2002, 3994 - 3998;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -5353,6 +5454,7 @@ die am oder nach dem 14. September 2018 in Verkehr gebracht wurden.
 (zu § 2 Abs. 2 bis 4)
 
 ### Anlage 2 Waffenliste
+[Direktlink](https://www.gesetze-im-internet.de/waffg_2002/BJNR397010002.html#BJNR397010002BJNE006107123)
 
 (Fundstelle: BGBl. I 2002, 3999 - 4002;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

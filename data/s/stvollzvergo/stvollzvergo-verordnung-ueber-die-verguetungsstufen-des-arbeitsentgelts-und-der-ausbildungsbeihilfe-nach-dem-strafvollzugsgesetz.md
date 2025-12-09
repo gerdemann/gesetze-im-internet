@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000100312)
 
 Auf Grund des § 48 des Gesetzes über den Vollzug der Freiheitsstrafe
 und der freiheitsentziehenden Maßregeln der Besserung und Sicherung -
@@ -31,6 +32,7 @@ Sozialordnung und mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Grundlohn
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000201301)
 
 (1) Der Grundlohn des Arbeitsentgelts (§ 43 Abs. 2 des
 Strafvollzugsgesetzes) wird nach folgenden Vergütungsstufen
@@ -118,6 +120,7 @@ Satz 2 des Strafvollzugsgesetzes bleibt unberührt.
 
 
 ## § 2 Zulagen
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000300312)
 
 (1) Zum Grundlohn können Zulagen gewährt werden
 
@@ -154,6 +157,7 @@ Bemessung der Leistungszulage können berücksichtigt werden:
 
 
 ## § 3 Arbeitsentgelt für arbeitstherapeutische Beschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000401301)
 
 Soweit ein Arbeitsentgelt nach § 43 Abs. 4 des Strafvollzugsgesetzes
 zu zahlen ist, beträgt es in der Regel 75 vom Hundert des Grundlohnes
@@ -161,6 +165,7 @@ der Vergütungsstufe I.
 
 
 ## § 4 Ausbildungsbeihilfe
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000500312)
 
 (1) Die Ausbildungsbeihilfe (§ 44 Abs. 1 des Strafvollzugsgesetzes)
 wird vorbehaltlich der Absätze 2 und 3 nach der Vergütungsstufe III
@@ -179,11 +184,13 @@ dies wegen der Kürze oder des Ziels der Maßnahmen gerechtfertigt ist.
 
 
 ## § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000601301)
 
 -
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stvollzvergo/BJNR000570977.html#BJNR000570977BJNE000700312)
 
 Diese Verordnung tritt am 1. Februar 1977 in Kraft.
 

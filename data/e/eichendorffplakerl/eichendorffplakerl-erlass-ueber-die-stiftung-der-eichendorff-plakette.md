@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/eichendorffplakerl/BJNR109350983.html#BJNR109350983BJNE000100307)
 
 Als Auszeichnung für Gebirgs- und Wandervereine, die sich in
 langjährigem Wirken besondere Verdienste um die Pflege und Förderung

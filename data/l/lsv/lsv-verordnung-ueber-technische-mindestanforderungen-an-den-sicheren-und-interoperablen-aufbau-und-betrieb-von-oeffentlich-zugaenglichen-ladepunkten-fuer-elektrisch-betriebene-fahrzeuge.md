@@ -33,6 +33,7 @@ Mittelbare änderung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000100000)
 
 Auf Grund des § 49 Absatz 4 Satz 1 Nummer 1 bis 4 des
 Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621),
@@ -42,6 +43,7 @@ Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000202377)
 
 Diese Verordnung regelt die technischen Mindestanforderungen an den
 sicheren und interoperablen Aufbau und Betrieb von öffentlich
@@ -62,6 +64,7 @@ S. 1).
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000302377)
 
 Im Sinne dieser Verordnung ist
 
@@ -127,6 +130,7 @@ Im Sinne dieser Verordnung ist
 
 
 ## § 3 Technische Sicherheit und Interoperabilität
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000403377)
 
 (1) Beim Aufbau von Normalladepunkten, an denen das Wechselstromladen
 möglich ist, muss aus Gründen der Interoperabilität jeder Ladepunkt
@@ -166,6 +170,7 @@ Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 
 ## § 4 Punktuelles Aufladen
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE001004311)
 
 Der Betreiber eines Ladepunkts hat den Nutzern von elektrisch
 betriebenen Fahrzeugen das punktuelle Aufladen zu ermöglichen. Dies
@@ -208,6 +213,7 @@ ermöglicht wird. § 270a des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
 
 ## § 5 Anzeige- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000502377)
 
 (1) Betreiber von Ladepunkten haben der Regulierungsbehörde die
 Inbetriebnahme und die Außerbetriebnahme von Ladepunkten elektronisch
@@ -251,6 +257,7 @@ anzuwenden.
 
 
 ## § 6 Kompetenzen der Regulierungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000602377)
 
 (1) Die Regulierungsbehörde kann die Einhaltung der technischen
 Anforderungen nach § 3 Absatz 1 bis 5 und der Anforderungen nach § 4
@@ -268,12 +275,14 @@ nachgewiesen wird.
 
 
 ## § 7 Ladepunkte mit geringer Ladeleistung
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000701118)
 
 Ladepunkte mit einer Ladeleistung von höchstens 3,7 Kilowatt sind von
 den Anforderungen der §§ 3 bis 6 ausgenommen.
 
 
 ## § 8 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000805311)
 
 (1) Ladepunkte, die vor dem 17. Juni 2016 in Betrieb genommen worden
 sind, sind von den Anforderungen nach § 3 Absatz 1 bis 4 und § 4
@@ -300,12 +309,14 @@ anzuwenden.
 
 
 ## § 9 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE001100311)
 
 Bis zum Ablauf des 30. Juni 2024 sind § 4 und § 8 Absatz 3 und 4 in
 der am 23. Juni 2023 geltenden Fassung weiter anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/lsv/BJNR045700016.html#BJNR045700016BJNE000902311)
 
 Der Bundesrat hat zugestimmt.
 

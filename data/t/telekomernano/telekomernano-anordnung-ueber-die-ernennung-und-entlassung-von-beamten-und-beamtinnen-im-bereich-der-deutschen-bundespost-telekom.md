@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernano/BJNR004370990.html#BJNR004370990BJNE000100308)
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
 Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
@@ -53,17 +54,20 @@ sowie den Rektoren/den Rektorinnen
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernano/BJNR004370990.html#BJNR004370990BJNE000200308)
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten und Beamtinnen vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/telekomernano/BJNR004370990.html#BJNR004370990BJNE000300308)
 
 Diese Anordnung tritt mit Wirkung vom 1. März 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/telekomernano/BJNR004370990.html#BJNR004370990BJNE000400308)
 
 Deutsche Bundespost TELEKOM
 Der Vorstand

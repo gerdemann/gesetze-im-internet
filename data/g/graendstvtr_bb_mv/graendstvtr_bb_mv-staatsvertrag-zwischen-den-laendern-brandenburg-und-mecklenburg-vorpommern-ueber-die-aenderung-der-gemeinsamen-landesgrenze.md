@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000100333)
 
 Um dem Willen von Bürgerinnen und Bürgern Rechnung zu tragen, die auf
 Grund historischer und kultureller Verbindungen ihrer Gemeinde zum
@@ -47,6 +48,7 @@ folgenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000200333)
 
 (1) Die Gemeinden Besandten, Eldenburg, Lanz, Lenzen, Mellen und Wootz
 werden in den bestehenden Gemeinde- und Gemarkungsgrenzen aus dem Land
@@ -73,6 +75,7 @@ gemeinsame Grenzkommission der vertragschließenden Länder.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000300333)
 
 (1) Mit Inkrafttreten des Staatsvertrages tritt in den aufgenommenen
 Gebietsteilen das Landesrecht des aufnehmenden Landes und das
@@ -96,6 +99,7 @@ u. dgl.).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000400333)
 
 Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
 Körperschaften des öffentlichen Rechts mit Ausnahme des Vermögens der
@@ -111,6 +115,7 @@ der beteiligten Gebietskörperschaften geregelt werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000500333)
 
 (1) Das aufnehmende Land erklärt sich bereit, in bestehende Arbeits-
 und Dienstverhältnisse derjenigen einzutreten, die zum Zeitpunkt der
@@ -127,6 +132,7 @@ niedergelegten Grundsätzen entsprechen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000600333)
 
 (1) Die gemäß § 23 des Gesetzes zur Regelung offener Vermögensfragen
 (BGBl. 1990 II S. 1159) in dem abgebenden Land errichteten
@@ -144,6 +150,7 @@ Verwaltungsvereinbarung geregelt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000700333)
 
 (1) Mit Inkrafttreten des Staatsvertrages übernimmt das Land
 Brandenburg die Verantwortung für den Hochwasserschutz an der Elbe bis
@@ -160,6 +167,7 @@ Länder unverzüglich das Erforderliche veranlassen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000800333)
 
 (1) Die Regierungen der vertragschließenden Länder werden dafür Sorge
 tragen, daß die mit dem Übergang der Gebiete zusammenhängenden Fragen
@@ -192,6 +200,7 @@ Abschriften erteilt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE000900333)
 
 (1) Dieser Vertrag bedarf der Zustimmung der verfassungsmäßig
 zuständigen Organe der vertragschließenden Länder. Die
@@ -202,6 +211,7 @@ Ratifikationsurkunden folgenden Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001000333)
 
 
 *    *   für das Land Brandenburg
@@ -223,24 +233,28 @@ Ratifikationsurkunden folgenden Kalendermonats in Kraft.
 
 
 ## Anlage 1a zum Staatsvertrag über die Umgliederung von Gemeinden aus dem Landkreis Ludwigslust
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001100333)
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 208 - 209)
 
 
 ## Anlage 1b zum Staatsvertrag über die Umgliederung von Gemeinden und Ortsteilen aus dem Landkreis Perleberg
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001200333)
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 210)
 
 
 ## Anlage 1c zum Staatsvertrag über die Umgliederung von Gemeinden aus den Landkreisen Strasburg und Pasewalk
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001300333)
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 211)
 
 
 ## Anlage 1d zum Staatsvertrag über die Umgliederung von Gemeinden aus dem Landkreis Pasewalk
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001400333)
 
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 212)
@@ -250,6 +264,7 @@ Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
 vom 9. Mai 1992
 
 ## (XXXX) Zu Artikel 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001500333)
 
 
 1.  Die vertragschließenden Seiten sind sich einig darüber, daß die
@@ -286,6 +301,7 @@ Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
 vom 9. Mai 1992
 
 ## (XXXX) Zu Artikel 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001600333)
 
 Die vertragschließenden Parteien sind sich einig darüber, daß die
 Worte "gegen Entschädigung" ausschließlich die vom Lande Mecklenburg-
@@ -298,6 +314,7 @@ Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
 vom 9. Mai 1992
 
 ## (XXXX) Zu Artikel 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001700333)
 
 Die vertragschließenden Parteien sind sich einig, daß die
 Eintrittspflicht in die bestehenden Arbeitsverhältnisse gemäß Artikel
@@ -311,6 +328,7 @@ Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
 vom 9. Mai 1992
 
 ## (XXXX) Zu Artikel 7 Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_bb_mv/BJNR020600993.html#BJNR020600993BJNE001800333)
 
 Die vertragschließenden Parteien sind sich darüber einig, daß
 weiterhin die Beschulung über die Ländergrenzen hinaus auf Wunsch der

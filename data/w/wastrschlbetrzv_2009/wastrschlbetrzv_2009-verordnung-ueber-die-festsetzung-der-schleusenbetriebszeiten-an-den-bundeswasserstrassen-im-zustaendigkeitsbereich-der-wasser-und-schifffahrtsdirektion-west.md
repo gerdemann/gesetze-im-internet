@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000100000)
 
 Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962), zuletzt
@@ -29,6 +30,7 @@ die Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S.
 
 
 ## § 1 Festsetzung der Schleusenbetriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000200000)
 
 Die Betriebszeiten der Schleusen an den Bundeswasserstraßen im
 Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West
@@ -36,6 +38,7 @@ werden gemäß dem Anhang festgesetzt.
 
 
 ## § 2 Schleusungen außerhalb der Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000300000)
 
 1\. Schleusungen außerhalb der im Anhang bestimmten Betriebszeiten
 können auf Antrag von dem zuständigen Wasser- und Schifffahrtsamt
@@ -66,6 +69,7 @@ benachrichtigen.
 
 
 ## § 3 Abweichungen von Schleusenbetriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000400000)
 
 Von den im Anhang festgesetzten Schleusenbetriebszeiten kann aus
 verkehrlichen und betrieblichen Gründen vorübergehend abgewichen
@@ -73,16 +77,19 @@ werden. Diese Änderungen werden bekannt gegeben.
 
 
 ## § 4 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000500000)
 
 -
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000600000)
 
 Die Verordnung tritt am 1. Januar 2009 in Kraft.
 
 
 ## Anhang Anhang zur Schleusenbetriebzeitenverordnung mit den ab 1. Januar 2009 geltenden Schleusenbetriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2009/BJNR706730008.html#BJNR706730008BJNE000700000)
 
 (Fundstelle: VkBl 2008, S. 673)
 

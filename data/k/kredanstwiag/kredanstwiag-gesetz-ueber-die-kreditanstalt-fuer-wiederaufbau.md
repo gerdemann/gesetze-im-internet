@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Rechtsform, Bezeichnung, Sitz und Kapital
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000104360)
 
 (1) Die Kreditanstalt für Wiederaufbau (Anstalt) ist eine Anstalt des
 öffentlichen Rechts. Sie hat ihren Sitz in Frankfurt am Main und kann
@@ -62,6 +63,7 @@ den Beteiligten abgetreten werden.
 
 
 ## § 1a Haftung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001500308)
 
 Der Bund haftet für die von der Bank aufgenommenen Darlehen und
 begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten
@@ -71,6 +73,7 @@ ausdrücklich gewährleistet werden.
 
 
 ## § 2 Aufgaben und Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000202360)
 
 (1) Die Anstalt hat die Aufgabe,
 
@@ -196,6 +199,7 @@ von der Bundesregierung zugewiesen wird.
 
 
 ## § 3 Durchführung der Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000301320)
 
 (1) Bei der Gewährung von Finanzierungen nach § 2 Abs. 1 Nr. 1
 Buchstabe a bis f sind Kreditinstitute oder andere
@@ -227,6 +231,7 @@ des Verwaltungsrates nach Absatz 1 oder 2.
 
 
 ## § 4 Mittelbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000401320)
 
 (1) Zur Beschaffung der erforderlichen Mittel kann die Anstalt
 insbesondere Schuldverschreibungen ausgeben und Darlehen aufnehmen.
@@ -241,6 +246,7 @@ geeignet.
 
 
 ## § 5 Organe
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000500328)
 
 (1) Organe der Anstalt sind der Vorstand und der Verwaltungsrat.
 
@@ -249,6 +255,7 @@ nichts anderes bestimmt, die Satzung.
 
 
 ## § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000601360)
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
 Vorstandsmitglieder werden vom Verwaltungsrat bestellt und abberufen.
@@ -277,6 +284,7 @@ gerichtlich und außergerichtlich.
 
 
 ## § 7 Verwaltungsrat
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000708128)
 
 (1) Der Verwaltungsrat der Anstalt besteht aus
 
@@ -346,6 +354,7 @@ Ausschüsse übertragen. Das Nähere bestimmt die Satzung.
 
 
 ## § 7a Mittelstandsrat
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001604128)
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird ein Mittelstandsrat
 gebildet. Er besteht aus dem Bundesminister für Wirtschaft und Energie
@@ -364,6 +373,7 @@ Gesamtgeschäftsplanung der Anstalt.
 
 
 ## § 8 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000802360)
 
 (1) Die Satzung der Anstalt wird vom Vorstand aufgestellt und vom
 Verwaltungsrat beschlossen. Sie bedarf der Genehmigung der
@@ -379,6 +389,7 @@ Bundesanzeiger zu veröffentlichen.
 
 
 ## § 9 Jahres- und Konzernabschluss
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE000902360)
 
 (1) Auf den Jahresabschluß und den Lagebericht, den Konzernabschluß
 und den Konzernlagebericht sowie deren Prüfung und Offenlegung sind
@@ -399,6 +410,7 @@ Bundeshaushaltsordnung aufgeführten Rechte zu.
 
 
 ## § 10 Reingewinn
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001002360)
 
 (1) Eine Gewinnausschüttung findet nicht statt.
 
@@ -414,6 +426,7 @@ zuzuweisen.
 
 
 ## § 11 Rechtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001102320)
 
 (1) Der Anstalt stehen in bezug auf Besteuerung, Errichtung von
 Bauten, Unterbringung und Mietverhältnisse über Gebäude die gleichen
@@ -425,6 +438,7 @@ Handelsregister sind auf die Anstalt nicht anzuwenden.
 
 
 ## § 12 Rechtsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001205118)
 
 Das Bundesministerium der Finanzen übt die Rechtsaufsicht über die
 Anstalt im Benehmen mit dem Bundesministerium für Wirtschaft und
@@ -438,6 +452,7 @@ Finanzen geführt.
 
 
 ## § 12a Verordnungsermächtigung; Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001801118)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen
 mit dem Bundesministerium für Wirtschaft und Energie durch
@@ -568,6 +583,7 @@ beseitigen, treffen gegenüber
 
 
 ## § 12b Finanzierungen durch ein rechtlich selbständiges Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001701360)
 
 Finanzierungen gemäß § 2 Abs. 1 Nr. 4 Satz 3 sind spätestens ab dem 1.
 Januar 2008 von einem rechtlich selbstständigen Unternehmen ohne
@@ -577,6 +593,7 @@ werden.
 
 
 ## § 13 Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001302360)
 
 (1) Die Anstalt kann nur durch Gesetz aufgelöst werden.
 
@@ -596,6 +613,7 @@ Grundkapital zu verteilen.
 
 
 ## § 14 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwiag/BJNR701230948.html#BJNR701230948BJNE001400328)
 
 Dieses Gesetz tritt mit seiner Verkündung in Kraft.
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000101377)
 
 
 
 ### § 1 Unterlassungs- und Widerrufsanspruch bei Allgemeinen Geschäftsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000101377)
 
 Wer in Allgemeinen Geschäftsbedingungen Bestimmungen, die nach den §§
 307 bis 309 des Bürgerlichen Gesetzbuchs unwirksam sind, verwendet
@@ -36,6 +38,7 @@ genommen werden.
 
 
 ### § 1a Unterlassungsanspruch wegen der Beschränkung der Haftung bei Zahlungsverzug
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002100144)
 
 Wer in anderer Weise als durch Verwendung oder Empfehlung von
 Allgemeinen Geschäftsbedingungen den Vorschriften des § 271a Absatz 1
@@ -45,6 +48,7 @@ werden.
 
 
 ### § 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002508360)
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von
 Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem
@@ -483,6 +487,7 @@ insbesondere
 
 
 ### § 2a Unterlassungsanspruch bei Verstößen innerhalb der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE003000360)
 
 Wer einen Verstoß im Sinne des Artikels 3 Nummer 5 der Verordnung (EU)
 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember
@@ -496,12 +501,14 @@ werden.
 
 
 ### § 2b Unterlassungsanspruch nach dem Urheberrechtsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001803360)
 
 Wer gegen § 95b Absatz 1 Satz 1 des Urheberrechtsgesetzes verstößt,
 kann auf Unterlassung in Anspruch genommen werden.
 
 
 ### § 2c Missbräuchliche Geltendmachung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002203360)
 
 Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2b ist
 unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände
@@ -534,10 +541,12 @@ Weitergehende Ersatzansprüche bleiben unberührt.
 
 
 ## Abschnitt 2 - Anspruchsberechtigte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG001100360)
 
 
 
 ### § 3 Anspruchsberechtigte Stellen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000308360)
 
 (1) Die in den §§ 1 bis 2a bezeichneten Ansprüche auf Unterlassung,
 auf Widerruf und auf Beseitigung stehen zu:
@@ -601,6 +610,7 @@ folgenden Ansprüche nicht geltend machen:
 
 
 ### § 3a Anspruchsberechtigte Verbände nach § 2b
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001902360)
 
 Der in § 2b bezeichnete Anspruch auf Unterlassung steht rechtsfähigen
 Verbänden zur nicht gewerbsmäßigen und nicht nur vorübergehenden
@@ -610,6 +620,7 @@ Verbände im Sinne des Satzes 1 abgetreten werden.
 
 
 ### § 4 Liste der qualifizierten Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000405360)
 
 (1) Das Bundesamt für Justiz führt eine Liste der qualifizierten
 Verbraucherverbände und veröffentlicht sie in der jeweils aktuellen
@@ -666,6 +677,7 @@ Bescheinigung über ihre Eintragung.
 
 
 ### § 4a Überprüfung der Eintragung in der Liste nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002601360)
 
 (1) Das Bundesamt für Justiz überprüft von Amts wegen, ob ein
 qualifizierter Verbraucherverband, der in der Liste nach § 4
@@ -697,6 +709,7 @@ Festsetzung eines Zwangsgelds anhalten.
 
 
 ### § 4b Berichtspflichten und Mitteilungspflichten der qualifizierten Verbraucherverbände
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002701360)
 
 (1) Die qualifizierten Verbraucherverbände, die in der Liste nach § 4
 eingetragen sind, sind verpflichtet, dem Bundesamt für Justiz bis zum
@@ -738,6 +751,7 @@ Anspruch missbräuchlich geltend gemacht hat.
 
 
 ### § 4c Aufhebung der Eintragung in der Liste nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002801360)
 
 (1) Die Eintragung eines qualifizierten Verbraucherverbands in der
 Liste nach § 4 ist mit Wirkung für die Zukunft aufzuheben, wenn
@@ -769,6 +783,7 @@ aufgehoben worden ist.
 
 
 ### § 4d Liste der qualifizierten Einrichtungen für grenzüberschreitende Verbandsklagen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002901360)
 
 (1) Das Bundesamt für Justiz führt eine Liste der qualifizierten
 Einrichtungen, die grenzüberschreitende Verbandsklagen nach Artikel 3
@@ -879,6 +894,7 @@ Liste anzugeben. § 4 Absatz 4 ist entsprechend anzuwenden.
 
 
 ### § 4e Überprüfung und Aufhebung einer Eintragung in der Liste nach § 4d
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002005360)
 
 (1) Für die Überprüfung, ob eine qualifizierte Einrichtung, die in die
 Liste nach § 4d eingetragen ist, die Eintragungsvoraussetzungen nach §
@@ -906,6 +922,7 @@ ersucht.
 
 
 ### § 4f Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE003100360)
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten zu
@@ -941,14 +958,17 @@ regeln zu
 
 
 ## Abschnitt 3 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000202360)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000302360)
 
 
 
 #### § 5 Anwendung der Zivilprozessordnung und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000504360)
 
 Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und §
 12 Absatz 1, 3 und 4, § 13 Absatz 1 bis 3 und 5 sowie § 13a des
@@ -957,6 +977,7 @@ diesem Gesetz nicht etwas anderes ergibt.
 
 
 #### § 5a Informationspflichten der qualifizierten Verbraucherverbände und qualifizierten Einrichtungen zu gerichtlichen Verfahren im Inland
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE003200360)
 
 (1) Anspruchsberechtigte Stellen nach § 3 Absatz 1 Satz 1 Nummer 1,
 die Unterlassungsansprüche nach den §§ 1, 2 oder § 2a im Inland
@@ -1009,6 +1030,7 @@ Absätzen 1 und 2 sind Kosten des Rechtsstreits.
 
 
 #### § 6 Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000605360)
 
 (1) Für Klagen nach diesem Gesetz ist das Oberlandesgericht
 ausschließlich zuständig, in dessen Bezirk der Beklagte seine
@@ -1040,6 +1062,7 @@ Anspruch der in § 13 bezeichneten Art zum Gegenstand haben.
 
 
 #### § 6a Bekanntmachungen im Verbandsklageregister zu einstweiligen Verfügungen und Klagen zur Durchsetzung von Unterlassungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE003300360)
 
 (1) Das Gericht macht zu einem Antrag auf Erlass einer einstweiligen
 Verfügung, der durch eine anspruchsberechtigte Stelle nach § 3 Absatz
@@ -1116,6 +1139,7 @@ bekannt zu machen.
 
 
 #### § 7 Veröffentlichungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000701377)
 
 Wird der Klage stattgegeben, so kann dem Kläger auf Antrag die
 Befugnis zugesprochen werden, die Urteilsformel mit der Bezeichnung
@@ -1125,10 +1149,12 @@ Befugnis zeitlich begrenzen.
 
 
 ### Unterabschnitt 2 - Besondere Vorschriften für Klagen nach § 1
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000402360)
 
 
 
 #### § 8 Klageantrag und Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000805123)
 
 (1) Der Klageantrag muss bei Klagen nach § 1 auch enthalten:
 
@@ -1158,6 +1184,7 @@ Gegenstand der Klage
 
 
 #### § 9 Besonderheiten der Urteilsformel
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE000902377)
 
 Erachtet das Gericht die Klage nach § 1 für begründet, so enthält die
 Urteilsformel auch:
@@ -1183,6 +1210,7 @@ Urteilsformel auch:
 
 
 #### § 10 Einwendung wegen abweichender Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001001377)
 
 Der Verwender, dem die Verwendung einer Bestimmung untersagt worden
 ist, kann im Wege der Klage nach § 767 der Zivilprozessordnung
@@ -1195,6 +1223,7 @@ beeinträchtigen würde.
 
 
 #### § 11 Wirkungen des Urteils
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001101377)
 
 Handelt der verurteilte Verwender einem auf § 1 beruhenden
 Unterlassungsgebot zuwider, so ist die Bestimmung in den Allgemeinen
@@ -1206,10 +1235,12 @@ Klage nach § 10 erheben könnte.
 
 
 ### Unterabschnitt 3 - Besondere Vorschriften für Klagen nach § 2
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000502360)
 
 
 
 #### § 12 Einigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001202377)
 
 Für Klagen nach § 2 gelten § 15 des Gesetzes gegen den unlauteren
 Wettbewerb und die darin enthaltene Verordnungsermächtigung
@@ -1217,6 +1248,7 @@ entsprechend.
 
 
 #### § 12a Anhörung der Datenschutzbehörden in Verfahren über Ansprüche nach § 2
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002301360)
 
 Das Gericht hat vor einer Entscheidung in einem Verfahren über einen
 Anspruch nach § 2, das eine Zuwiderhandlung gegen ein
@@ -1228,10 +1260,12 @@ wird.
 
 
 ## Abschnitt 4 - Auskunft zur Durchsetzung von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000903360)
 
 
 
 ### § 13 Auskunftsanspruch der anspruchsberechtigten Stellen
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001307360)
 
 (1) Wer geschäftsmäßig Post-, Telekommunikations- oder digitale
 Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes
@@ -1258,6 +1292,7 @@ hat.
 
 
 ### § 13a Auskunftsanspruch sonstiger Betroffener
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001707360)
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen,
 der Erbringung unbestellter sonstiger Leistungen, der Zusendung oder
@@ -1268,10 +1303,12 @@ allgemeinen Vorschriften tritt.
 
 
 ## Abschnitt 5 - Außergerichtliche Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000604360)
 
 
 
 ### § 14 Schlichtungsverfahren und Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001416360)
 
 (1) Bei Streitigkeiten aus der Anwendung
 
@@ -1424,19 +1461,23 @@ alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur
 
 
 ## Abschnitt 6 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000703360)
 
 
 
 ### § 15 Ausnahme für das Arbeitsrecht
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001501377)
 
 Dieses Gesetz findet auf das Arbeitsrecht keine Anwendung.
 
 
 ## Abschnitt 7 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG000804360)
 
 
 
 ### § 16 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE001605360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1474,10 +1515,12 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ## Abschnitt 8 - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNG001001360)
 
 
 
 ### § 17 Überleitungsvorschriften zu dem Gesetz zur Stärkung des fairen Wettbewerbs
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE002401360)
 
 (1) Abweichend von § 4a Absatz 1 Nummer 1 sind die
 Eintragungsvoraussetzungen bei qualifizierten Einrichtungen, die vor
@@ -1491,6 +1534,7 @@ Kalenderjahr 2021 zu erfüllen.
 
 
 ### § 18 Überleitungsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2020/1820 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG
+[Direktlink](https://www.gesetze-im-internet.de/uklag/BJNR317300001.html#BJNR317300001BJNE003400360)
 
 (1) Die Liste der qualifizierten Einrichtungen nach § 4 wird in "Liste
 der qualifizierten Verbraucherverbände nach § 4" umbenannt. Die in

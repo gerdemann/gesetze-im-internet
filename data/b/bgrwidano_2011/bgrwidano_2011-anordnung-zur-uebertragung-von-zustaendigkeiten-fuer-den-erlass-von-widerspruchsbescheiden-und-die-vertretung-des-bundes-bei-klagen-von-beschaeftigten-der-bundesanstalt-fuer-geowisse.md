@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bgrwidano_2011/BJNR209200011.html#BJNR209200011BJNE000100000)
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
 (BGBl. I S. 160) wird der Bundesnetzagentur für Elektrizität, Gas,
@@ -33,6 +34,7 @@ Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bgrwidano_2011/BJNR209200011.html#BJNR209200011BJNE000200000)
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
 (BGBl. I S. 160) wird der Bundesnetzagentur die Vertretung des
@@ -47,6 +49,7 @@ selbst wahrzunehmen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bgrwidano_2011/BJNR209200011.html#BJNR209200011BJNE000300000)
 
 Diese Anordnung ist hinsichtlich der besoldungsrechtlichen
 Angelegenheiten mit Wirkung vom 1. Oktober 2011, hinsichtlich der
@@ -60,6 +63,7 @@ besoldungsrechtlichen Bestimmungen des Bundes vom 24. Februar 2010
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bgrwidano_2011/BJNR209200011.html#BJNR209200011BJNE000400000)
 
 Der Bundesminister für Wirtschaft und Technologie
 

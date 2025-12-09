@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000103128)
 
 Über den Antrag auf Erteilung einer Unbedenklichkeitsbescheinigung für
 ein anderes Spiel im Sinne des § 33d Abs. 1 der Gewerbeordnung
@@ -38,6 +39,7 @@ Fachinstitut beauftragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000201308)
 
 Der Antragsteller hat dem Antrag eine Spielbeschreibung, die
 Spielregeln und, soweit nach Art des Spieles erforderlich, eine
@@ -50,6 +52,7 @@ einzelner Teile zu überlassen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000302308)
 
 (1) Die Unbedenklichkeitsbescheinigung wird erteilt
 
@@ -69,6 +72,7 @@ Unbedenklichkeitsbescheinigung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000402308)
 
 Die Unbedenklichkeitsbescheinigung enthält
 
@@ -106,6 +110,7 @@ Die Unbedenklichkeitsbescheinigung enthält
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000502308)
 
 Spiele, für die das Bundeskriminalamt eine
 Unbedenklichkeitsbescheinigung erteilt hat, werden im Gemeinsamen
@@ -115,15 +120,18 @@ oder abgelaufen ist und nicht mehr erteilt wird.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000607301)
 
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000702308)
 
 (weggefallen)
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/spielubeschv/BJNR001520962.html#BJNR001520962BJNE000801308)
 
 (Inkrafttreten)
 

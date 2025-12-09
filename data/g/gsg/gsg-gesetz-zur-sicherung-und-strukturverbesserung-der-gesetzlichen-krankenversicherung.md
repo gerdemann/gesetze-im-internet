@@ -20,16 +20,19 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE000200333)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 11
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000300333)
 
 
 
 ## Art 12 - Änderung der Bundespflegesatzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000400333)
 
 (1)
 
@@ -43,10 +46,12 @@ der Kalenderjahre 1993 und 1994.
 
 
 ## Art 13 - Regelung über Maßstäbe und Grundsätze für den Personalbedarf in der stationären Krankenpflege (PflPersRgl)
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000500333)
 
 
 
 ## Art 14 - Krankenhausinvestitionsprogramm für das in Artikel 3 des Einigungsvertrages genannte Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000607308)
 
 (1) Zur zügigen und nachhaltigen Verbesserung des Niveaus der
 stationären Versorgung der Bevölkerung in dem in Artikel 3 des
@@ -93,10 +98,12 @@ und 2 zustehenden Finanzhilfen des Bundes können die Länder bis zum
 
 
 ## Art 15 bis 22
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000700333)
 
 
 
 ## Art 23 - Budgetierung der Verwaltungsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000801308)
 
 (1) Die jährlichen Verwaltungsausgaben der Krankenkasse je Mitglied im
 Bundesgebiet außerhalb des Beitrittsgebiets dürfen sich in den Jahren
@@ -144,6 +151,7 @@ Verwaltungsausgaben nach den Absätzen 1 bis 3 gestatten.
 
 
 ## Art 24 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG000900333)
 
 Die auf den Artikeln 9, 10, 12, 20 und 21 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
@@ -158,10 +166,12 @@ werden.
 
 
 ## Art 25
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001000333)
 
 
 
 ## Art 26 - Unwirksamkeit gesetzeswidriger Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001100333)
 
 Vertragliche Vereinbarungen sind in den Teilen unwirksam, in denen sie
 mit den Regelungen dieses Gesetzes nicht vereinbar sind. Dies gilt
@@ -172,6 +182,7 @@ Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
 
 ## Art 27 - Rechtsverordnungen zur Erfüllung der gesetzlichen Verpflichtungen der Selbstverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001201308)
 
 Kommen Regelungen nach § 106 Abs. 3, § 115 Abs. 1 bis 4, § 135 Abs. 3
 und 4, § 136 Abs. 1, § 296 Abs. 4, § 300 Abs. 3, § 301 Abs. 3, § 302
@@ -183,6 +194,7 @@ durch Rechtsverordnung treffen.
 
 
 ## Art 28 - Erweiterung der Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001300333)
 
 (1) Vom 1. Januar 1997 an werden Personen, die laufende Hilfe zum
 Lebensunterhalt nach dem Bundessozialhilfegesetz erhalten, mit
@@ -196,6 +208,7 @@ wird in einem besonderen Gesetz geregelt.
 
 
 ## Art 29 - Arznei- und Heilmittelbudget für 1993
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001400333)
 
 (1) Als Budget nach § 84 Abs. 1 des Fünften Buches Sozialgesetzbuch
 für das Jahr 1993 gelten die Ausgaben der beteiligten Krankenkassen
@@ -312,6 +325,7 @@ genannten Vorgaben zugrunde zu legen. Absatz 7 gilt entsprechend.
 
 
 ## Art 30 - Preismoratorium für Arzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001500333)
 
 (1) Die Herstellerabgabepreise apothekenpflichtiger
 Fertigarzneimittel, für die die §§ 2 und 3 der
@@ -363,10 +377,12 @@ Fünften Buches Sozialgesetzbuch ausgeschlossen sind.
 
 
 ## Art 31 - Institut "Arzneimittel in der Krankenversicherung"
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001601308)
 
 
 
 ## Art 32 - Sonderkündigungsrecht für versicherungsfreie Personen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG001900333)
 
 Versicherungsfreie Personen, die keinen Anspruch auf einen
 Beitragszuschuß nach § 257 des Fünften Buches Sozialgesetzbuch haben
@@ -385,10 +401,12 @@ in Satz 1 genannten Voraussetzungen betreibt.
 
 
 ## Art 33 - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG002000333)
 
 
 
 ## § 1 Altersgrenze für Vertragsärzte und Vertragszahnärzte
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002100333)
 
 Bei Vertragsärzten und Vertragszahnärzten, die am 1. Januar 1999 das
 68\. Lebensjahr bereits vollendet haben, endet die Zulassung am 1.
@@ -408,6 +426,7 @@ Zeitpunkt
 
 
 ## § 2 Eintragung in das Arztregister
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002200333)
 
 Bis zum 31. Dezember 1993 erfolgte Eintragungen in das Arztregister
 bleiben unberührt. Wird ein Antrag auf Zulassung als Vertragsarzt nach
@@ -417,6 +436,7 @@ erfüllen.
 
 
 ## § 3 Entscheidung über die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002300333)
 
 (1) Einem Antrag auf Zulassung als Vertragsarzt, der bis zum 31.
 Januar 1993 gestellt wird, ist auch dann zu entsprechen, wenn
@@ -447,6 +467,7 @@ Sozialgesetzbuch getroffen hat.
 
 
 ## § 3a Umwandlung der Kassenärzte in Vertragsärzte
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002400333)
 
 (1) Die Ärzte und Zahnärzte, die am 31. Dezember 1992 sowohl als
 Kassenärzte oder Kassenzahnärzte zugelassen waren als auch
@@ -459,6 +480,7 @@ Vertragszahnärzte der Ersatzkassen bleibt unberührt.
 
 
 ## § 4 Freiwillige Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002500333)
 
 Für Personen, die bis zum 31. Dezember 1992 aus der
 Versicherungspflicht ausscheiden, gelten § 9 Abs. 1 Nr. 1 des Fünften
@@ -469,6 +491,7 @@ geltenden Fassung auch dann, wenn der Beitritt nach dem 31. Dezember
 
 
 ## § 5 Versorgung mit kieferorthopädischen Leistungen bei Erwachsenen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002600333)
 
 Versicherte, die das achtzehnte Lebensjahr vollendet haben und deren
 kieferorthopädische Behandlung vor dem 1. Januar 1993 begonnen hat,
@@ -480,6 +503,7 @@ schriftlich entschieden hat.
 
 
 ## § 6 Versorgung mit Zahnersatz
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002700333)
 
 Versicherte, deren zahnärztliche Behandlung zur Versorgung mit
 Zahnersatz oder Zahnkronen vor dem 1. Januar 1993 begonnen hat, haben
@@ -491,6 +515,7 @@ hat.
 
 
 ## § 7 Weitergeltung bestehender Verträge
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002800333)
 
 (1) Verträge zur Regelung der vertragsärztlichen und
 vertragszahnärztlichen Versorgung, die am 31. Dezember 1992 auslaufen,
@@ -510,16 +535,19 @@ Landesverbandes ausüben, in die Verträge ein.
 
 
 ## § 8 Wirkung der Beanstandung von Vergütungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE002900333)
 
 -
 
 
 ## § 9 Wirkung der Beanstandung von Entscheidungen der Schiedsämter
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003000333)
 
 -
 
 
 ## § 10 Wahl der Mitglieder des Verwaltungsrates
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003100333)
 
 (1) Die Vertreterversammlung der in § 35a des Vierten Buches
 Sozialgesetzbuch in der ab 1. Januar 1996 geltenden Fassung genannten
@@ -540,6 +568,7 @@ Ablauf der achten Amtsperiode der Selbstverwaltungsorgane.
 
 
 ## § 11 Wahl des Vorstands der Krankenkasse
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003200333)
 
 Der Verwaltungsrat nach § 10 wählt bis zum 31. Dezember 1995 den
 Vorstand sowie aus dessen Mitte den Vorstandsvorsitzenden und dessen
@@ -548,12 +577,14 @@ der ab 1. Januar 1996 geltenden Fassung anzuwenden.
 
 
 ## § 12 Überleitungsvorschrift für die Verbände der Krankenkassen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003300333)
 
 Die §§ 10 und 11 gelten für die Landes- und Bundesverbände
 entsprechend.
 
 
 ## § 13 Überleitungsvorschrift für die Vereinigung von Ersatzkassen
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003400333)
 
 (1)
 
@@ -564,6 +595,7 @@ aufgenommen werden dürfen.
 
 
 ## § 14 Versicherungspflicht von Rentnern
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003500333)
 
 Wer am 31. Dezember 1992 auf Grund des Bezugs einer Rente aus der
 gesetzlichen Rentenversicherung versicherungspflichtig war oder wegen
@@ -577,10 +609,12 @@ Reformgesetzes nicht erfüllt.
 
 
 ## Art 34 - Übergangsregelungen zum Risikostrukturausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG003600333)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003700333)
 
 (1) Für das Geschäftsjahr 1994 bleiben außer Betracht:
 
@@ -610,6 +644,7 @@ Sozialgesetzbuch.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003800333)
 
 Die §§ 268 bis 273 des Fünften Buches Sozialgesetzbuch treten außer
 Kraft, wenn die auf der Grundlage der Geschäfts- und
@@ -624,6 +659,7 @@ Sozialgesetzbuch.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE003900333)
 
 (1) Die Satzungen der Spitzenverbände können für das Geschäftsjahr
 1993 Bestimmungen über finanzielle Hilfen in besonderen Notlagen einer
@@ -652,6 +688,7 @@ des Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNE004000333)
 
 Bedarfssatz nach § 145 Abs. 3 des Fünften Buches Sozialgesetzbuch ist
 für das Geschäftsjahr 1993 das Verhältnis der Ausgaben für Leistungen
@@ -667,6 +704,7 @@ Sozialgesetzbuch.
 
 
 ## Art 35 - Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gsg/BJNR022669992.html#BJNR022669992BJNG004101308)
 
 (1) Dieses Gesetz tritt am 1. Januar 1993 in Kraft, soweit in den
 folgenden Absätzen nichts Abweichendes bestimmt ist.

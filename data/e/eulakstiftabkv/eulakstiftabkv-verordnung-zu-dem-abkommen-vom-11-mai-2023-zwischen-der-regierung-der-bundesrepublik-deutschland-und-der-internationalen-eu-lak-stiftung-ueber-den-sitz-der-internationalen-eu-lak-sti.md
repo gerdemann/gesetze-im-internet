@@ -21,12 +21,14 @@ Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkomm
 Stand: Die V ist gem. Art. 2 Abs. 1 iVm Bek. v. 10.1.2025 II Nr. 23 am 16.12.2024 in Kraft getreten
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eulakstiftabkv/BJNR15F0O0023.html#BJNR15F0O0023BJNE000100000)
 
 Auf Grund des § 5 des Gaststaatgesetzes vom 30. November 2019 (BGBl. I
 S. 1929) verordnet die Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eulakstiftabkv/BJNR15F0O0023.html#BJNR15F0O0023BJNE000200000)
 
 Das in Berlin am 11. Mai 2023 unterzeichnete Abkommen zwischen der
 Regierung der Bundesrepublik Deutschland und der Internationalen EU-
@@ -38,6 +40,7 @@ gewährt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eulakstiftabkv/BJNR15F0O0023.html#BJNR15F0O0023BJNE000300000)
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das Abkommen
 zwischen der Regierung der Bundesrepublik Deutschland und der
@@ -52,6 +55,7 @@ im Bundesgesetzblatt bekannt zu geben.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/eulakstiftabkv/BJNR15F0O0023.html#BJNR15F0O0023BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

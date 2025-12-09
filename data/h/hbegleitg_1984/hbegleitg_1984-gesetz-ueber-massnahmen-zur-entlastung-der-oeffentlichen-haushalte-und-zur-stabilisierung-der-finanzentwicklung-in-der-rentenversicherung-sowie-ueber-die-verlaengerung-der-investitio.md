@@ -22,146 +22,175 @@ Geändert durch
 
 
 ## Art 1 Änderung der Reichsversicherungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000100314)
 
 -
 
 
 ## Art 2 Änderung des Angestelltenversicherungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000200314)
 
 -
 
 
 ## Art 3 Änderung des Reichsknappschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000300314)
 
 -
 
 
 ## Art 4 Änderung des Arbeiterrentenversicherungs-Neuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000400314)
 
 -
 
 
 ## Art 5 Änderung des Angestelltenversicherungs-Neuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000500314)
 
 -
 
 
 ## Art 6 Änderung des Knappschaftsrentenversicherungs-Neuregelungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000600314)
 
 -
 
 
 ## Art 7 Änderung des Gesetzes über die Sozialversicherung Behinderter
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000700314)
 
 -
 
 
 ## Art 8 Änderung des Ersten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000800314)
 
 -
 
 
 ## Art 9 Änderung des Vierten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE000900314)
 
 -
 
 
 ## Art 10 Änderung des Zehnten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001000314)
 
 -
 
 
 ## Art 11 Änderung des Fremdrentengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001100314)
 
 -
 
 
 ## Art 12 Änderung des Gesetzes über eine Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001200314)
 
 -
 
 
 ## Art 13 Änderung des Gesetzes zur Neuregelung der Altershilfe für Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001300314)
 
 -
 
 
 ## Art 14 Änderung des Gesetzes über die Krankenversicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001400314)
 
 -
 
 
 ## Art 15 Änderung des Handwerkerversicherungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001500314)
 
 -
 
 
 ## Art 16 Änderung des Bundesversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001600314)
 
 -
 
 
 ## Art 17 Änderung des Arbeitsförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001700314)
 
 -
 
 
 ## Art 18 Änderung des Mutterschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001800314)
 
 -
 
 
 ## Art 19 Änderung des Gesetzes über die Angleichung der Leistungen zur Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE001900314)
 
 -
 
 
 ## Art 20 Änderung des Schwerbehindertengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002000314)
 
 -
 
 
 ## Art 21 Änderung des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002100314)
 
 -
 
 
 ## Art 22 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002200314)
 
 -
 
 
 ## Art 23 Änderung des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002300314)
 
 -
 
 
 ## Art 24 Änderung des Krankenversicherungs-Kostendämpfungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002400314)
 
 -
 
 
 ## Art 25 Änderung des Arbeitsplatzschutzgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002501160)
 
 -
 
 
 ## Art 26 Änderung des Bundessozialhilfegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002600314)
 
 -
 
 
 ## Art 27 Änderung des Gesetzes für Jugendwohlfahrt (JWG)
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002700314)
 
 -
 
 
 ## Art 28 Änderung des Bundeskindergeldgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002800314)
 
 -
 
 
 ## Art 29 Aufhebung des Graduiertenförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE002900314)
 
 (1) Das Graduiertenförderungsgesetz in der Fassung der Bekanntmachung
 vom 22. Januar 1976 (BGBl. I S. 207), geändert durch Gesetz vom 28.
@@ -186,6 +215,7 @@ Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
 
 ## Art 30 Gesetz zur Änderung besoldungsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003000314)
 
 1\.
 2\.
@@ -207,11 +237,13 @@ Vorbereitungsdienst hinsichtlich Nummer 3.
 
 
 ## Art 31 Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003100314)
 
 -
 
 
 ## Art 32 Änderung des Beamtenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003200314)
 
 (1)
 
@@ -224,6 +256,7 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
 
 ## Art 33 Änderung des Gesetzes über das Bundesverfassungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003300314)
 
 (1)
 
@@ -233,6 +266,7 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
 
 ## Art 34 Änderung des Soldatenversorgungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003400314)
 
 (1)
 
@@ -247,26 +281,31 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
 
 ## Art 35 Änderung des 2. Haushaltsstrukturgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003500314)
 
 -
 
 
 ## Art 36 Änderung des Investitionshilfegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003600314)
 
 -
 
 
 ## Art 37 Änderung des Städtebauförderungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003700314)
 
 -
 
 
 ## Art 38 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003801160)
 
 -
 
 
 ## Art 39 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hbegleitg_1984/BJNR015320983.html#BJNR015320983BJNE003900314)
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 9 am 1. Januar
 1984 in Kraft.

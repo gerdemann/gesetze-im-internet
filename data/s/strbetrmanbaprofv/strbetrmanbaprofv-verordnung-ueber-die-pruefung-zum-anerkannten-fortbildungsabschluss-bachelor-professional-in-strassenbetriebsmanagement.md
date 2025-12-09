@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2, mit § 53a
 Absatz 1 Nummer 2 und mit § 53c des Berufsbildungsgesetzes in der
@@ -31,6 +32,7 @@ Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000200000)
 
 (1) Mit der erfolgreich abgelegten Prüfung nach dieser Verordnung wird
 die auf einen beruflichen Aufstieg abzielende Erweiterung der
@@ -148,6 +150,7 @@ Straßenbetriebsmanagement“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -191,6 +194,7 @@ Zulassungsvoraussetzungen nach Absatz 1 vergleichbar ist.
 
 
 ## § 3 Inhalt und Prüfungsteile
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000400000)
 
 Die Prüfung umfasst folgende Prüfungsteile:
 
@@ -204,6 +208,7 @@ Die Prüfung umfasst folgende Prüfungsteile:
 
 
 ## § 4 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000500000)
 
 (1) Der Prüfungsteil „Grundlegende Qualifikationen“ umfasst folgende
 Prüfungsbereiche:
@@ -239,6 +244,7 @@ folgende Prüfungsbereiche:
 
 
 ## § 5 Prüfungsbereich „Rechtsbewusstes Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000600000)
 
 Im Prüfungsbereich „Rechtsbewusstes Handeln“ hat die zu prüfende
 Person die Fähigkeit nachzuweisen, einschlägige Rechtsvorschriften
@@ -286,6 +292,7 @@ aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 6 Prüfungsbereich „Betriebswirtschaftliches Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000700000)
 
 Im Prüfungsbereich „Betriebswirtschaftliches Handeln“ hat die zu
 prüfende Person die Fähigkeit nachzuweisen, betriebswirtschaftliche
@@ -321,6 +328,7 @@ diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 7 Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000800000)
 
 Im Prüfungsbereich „Anwenden von Methoden der Information,
 Kommunikation und Planung“ hat die zu prüfende Person die Fähigkeit
@@ -359,6 +367,7 @@ Qualifikationsinhalten geprüft:
 
 
 ## § 8 Prüfungsbereich „Zusammenarbeit im Betrieb“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE000900000)
 
 Im Prüfungsbereich „Zusammenarbeit im Betrieb“ hat die zu prüfende
 Person die Fähigkeit nachzuweisen, Zusammenhänge des Sozialverhaltens
@@ -406,6 +415,7 @@ In diesem Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 9 Prüfungsbereich „Technik“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001000000)
 
 (1) Der Prüfungsbereich „Technik“ besteht aus den
 Qualifikationsschwerpunkten
@@ -515,6 +525,7 @@ Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 10 Prüfungsbereich „Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001100000)
 
 (1) Der Prüfungsbereich „Organisation“ besteht aus den
 Qualifikationsschwerpunkten
@@ -660,6 +671,7 @@ Rahmen wird aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 11 Prüfungsbereich „Führung und Personal“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001200000)
 
 (1) Der Prüfungsbereich „Führung und Personal“ besteht aus den
 Qualifikationsschwerpunkten
@@ -782,6 +794,7 @@ aus folgenden Qualifikationsinhalten geprüft:
 
 
 ## § 12 Form und Ablauf der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001300000)
 
 (1) Die Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ nach §
 3 Nummer 1 besteht aus einer schriftlichen Prüfung nach § 13.
@@ -811,6 +824,7 @@ vertreten ist.
 
 
 ## § 13 Schriftliche Prüfung im Prüfungsteil „Grundlegende Qualifikationen“; mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001400000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -843,6 +857,7 @@ doppelt gewichtet.
 
 
 ## § 14 Schriftliche Prüfung im Prüfungsteil „Handlungsspezifische Qualifikationen“; mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001500000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage der Beschreibung
 einer betrieblichen Situation, aus der die Aufgabenstellungen
@@ -879,6 +894,7 @@ doppelt gewichtet.
 
 
 ## § 15 Projektarbeit im Prüfungsteil „Handlungsspezifische Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001600000)
 
 (1) Die Projektarbeit besteht aus den folgenden drei
 Prüfungsleistungen:
@@ -928,6 +944,7 @@ dauern.
 
 
 ## § 16 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001700000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -977,6 +994,7 @@ zu gewichten:
 
 
 ## § 17 Bestehen der Prüfung; Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001800000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50
 Punkte erreicht worden sind in
@@ -1034,6 +1052,7 @@ ist die Gesamtnote.
 
 
 ## § 18 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE001900000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -1046,6 +1065,7 @@ zugrunde zu legen.
 
 
 ## § 19 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002000000)
 
 (1) Wer die Prüfung nach § 17 Absatz 1 bestanden hat, erhält von der
 nach dem Berufsbildungsgesetz zuständigen Stelle zwei Zeugnisse nach
@@ -1074,6 +1094,7 @@ Information enthalten, insbesondere
 
 
 ## § 20 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002100000)
 
 (1) Wer die Prüfung nicht bestanden hat, kann sie wiederholen.
 
@@ -1118,6 +1139,7 @@ wiederholen. Die Frist beginnt an dem Tag, an dem
 
 
 ## § 21 Nachweis der Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002200000)
 
 (1) Für den Erwerb des Fortbildungsabschlusses nach dieser Verordnung
 hat die zu prüfende Person ihre berufs- und arbeitspädagogischen
@@ -1141,6 +1163,7 @@ Prüfungsteil „Handlungsspezifische Qualifikationen“ nach den §§ 14 und
 
 
 ## § 22 Wechsel zu einer Prüfung nach dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002300000)
 
 (1) Diese Verordnung ist nicht anzuwenden auf Prüfungen nach
 Fortbildungsprüfungsregelungen im Sinne des § 54 Absatz 1 des
@@ -1164,12 +1187,14 @@ dieser Verordnung durchzuführen. Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu den §§ 16 und 17)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 187, S. 12 - 13)
 
@@ -1472,6 +1497,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 19)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/strbetrmanbaprofv/BJNR0BB0A0023.html#BJNR0BB0A0023BJNE002600000)
 
 (Fundstelle: BGBl. 2023 I Nr. 187, S. 14)
 

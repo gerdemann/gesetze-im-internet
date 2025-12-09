@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 2129-8-31 v. 21.8.2001 I 2180 (BImSchV 31)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000100000)
 
 Auf Grund
 
@@ -56,9 +57,11 @@ Auf Grund
 
 
 ## Teil 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000300000)
 
 (1) Diese Verordnung gilt für die Errichtung und den Betrieb der in
 Anhang I genannten Anlagen, in denen unter Verwendung organischer
@@ -79,6 +82,7 @@ Hektopascal bis zu 423 Kelvin enthalten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000400000)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -463,9 +467,11 @@ Im Sinne dieser Verordnung ist oder sind
 
 
 ## Teil 2 - Begrenzung der Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNG000200000)
 
 
 ### § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000500000)
 
 (1) Anlagen sind so zu errichten und zu betreiben, dass die
 Anforderungen nach
@@ -584,6 +590,7 @@ in Anhang VII wird verwiesen.
 
 
 ### § 4 Besondere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000600000)
 
 (1) Der Betreiber hat eine Anlage so zu errichten und zu betreiben,
 dass
@@ -624,9 +631,11 @@ angewendet. Hieraus können sich Anforderungen ergeben, die über Absatz
 
 
 ## Teil 3 - Messungen und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNG000300000)
 
 
 ### § 5 Nicht genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000700000)
 
 (1) Die Anforderungen nach den Absätzen 4 bis 9 gelten, soweit in
 Anhang III für die jeweilige nicht genehmigungsbedürftige Anlage
@@ -746,6 +755,7 @@ sicherzustellen.
 
 
 ### § 6 Genehmigungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000800000)
 
 (1) Für die Messung und Überwachung der Emissionen von
 genehmigungsbedürftigen Anlagen finden die Anforderungen der Nummer
@@ -825,9 +835,11 @@ Anleitung zur Reinhaltung der Luft in der Fassung 18. August 2021
 
 
 ## Teil 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNG000400000)
 
 
 ### § 7 Ableitbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE000900000)
 
 (1) Der Betreiber einer nicht genehmigungsbedürftigen Anlage hat die
 gefassten Abgase der Anlage so abzuleiten, dass ein ungestörter
@@ -841,6 +853,7 @@ vom 18. August 2021 (GMBl., 2021, Nummer 48-54, 1050) abzuleiten.
 
 
 ### § 8 Berichterstattung an die Europäische Kommission
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001000000)
 
 (1) Der Betreiber einer Anlage hat die für die Berichterstattung an
 die Europäische Kommission nach Absatz 2 benötigten Informationen der
@@ -858,6 +871,7 @@ einen Bericht über die Durchführung dieser Verordnung.
 
 
 ### § 9 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001100000)
 
 Die zuständige Behörde hat der Öffentlichkeit Folgendes zugänglich zu
 machen:
@@ -876,6 +890,7 @@ Betriebs- oder Geschäftsgeheimnisse gezogen werden können.
 
 
 ### § 10 Andere oder weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001200000)
 
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
@@ -884,6 +899,7 @@ treffen, bleibt unberührt, soweit die Anforderungen der Richtlinie
 
 
 ### § 11 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001300000)
 
 Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von
 den Anforderungen dieser Verordnung zulassen, soweit unter
@@ -903,6 +919,7 @@ Berücksichtigung der besonderen Umstände des Einzelfalls
 
 
 ### § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001400000)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -990,9 +1007,11 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNG000500000)
 
 
 ### § 13 Übergangsvorschriften, Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001500000)
 
 (1) Die Vorschriften gelten
 
@@ -1029,12 +1048,14 @@ Lösemittel in bestimmten Anlagen vom 21. August 2001 (BGBl. I S.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ### Anhang I Liste der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001700000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 12 - 13)
 
@@ -1500,6 +1521,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 1)
 
 ### Anhang II Liste der Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001800000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 14 - 16)
 
@@ -1811,6 +1833,7 @@ Der Bundesrat hat zugestimmt.
 (zu den §§ 3 und 4)
 
 ### Anhang III Besondere Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE001900000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 17 - 30)
 
@@ -4315,6 +4338,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 4)
 
 ### Anhang IV Reduzierungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE002000000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 31 - 33)
 
@@ -4820,6 +4844,7 @@ Abschnitt A Satz 1 nicht erforderlich:
 (zu den §§ 5 und 6)
 
 ### Anhang V Lösungsmittelbilanz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE002100000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 34 - 36)
 
@@ -5124,6 +5149,7 @@ Abschnitt A Satz 1 nicht erforderlich:
 (zu den §§ 5 und 6)
 
 ### Anhang VI Anforderungen an die Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE002200000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 37)
 
@@ -5253,6 +5279,7 @@ Abschnitt A Satz 1 nicht erforderlich:
 (zu § 3)
 
 ### Anhang VII Beste verfügbare Techniken
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_31_2024/BJNR0070A0024.html#BJNR0070A0024BJNE002300000)
 
 (Fundstelle: BGBl. 2024 I Nr. 7, S. 38)
 

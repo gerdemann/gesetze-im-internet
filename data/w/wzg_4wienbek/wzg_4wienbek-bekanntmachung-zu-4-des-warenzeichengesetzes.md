@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wienbek/BJNR010660974.html#BJNR010660974BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -32,11 +33,13 @@ ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wienbek/BJNR010660974.html#BJNR010660974BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage Gemeinsames Prüfzeichen nach dem Wiener Übereinkommen vom 15. November 1972 über die Prüfung und Kennzeichnung von Gegenständen aus Edelmetallen
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4wienbek/BJNR010660974.html#BJNR010660974BJNE000200303)
 
 Das gemeinsame Prüfzeichen besteht aus der Darstellung einer Waage und
 einer Zahl aus arabischen Ziffern, die den Feingehalt des Gegenstandes

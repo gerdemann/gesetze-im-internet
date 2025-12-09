@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000100326)
 
 
 
 ### § 1 Zweckbestimmung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE000702377)
 
 Zweck dieses Gesetzes ist,
 
@@ -56,6 +58,7 @@ Zweck dieses Gesetzes ist,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010302118)
 
 (1) Radioaktive Stoffe (Kernbrennstoffe und sonstige radioaktive
 Stoffe) im Sinne dieses Gesetzes sind alle Stoffe, die ein Radionuklid
@@ -230,6 +233,7 @@ jeweils geltenden Fassung.
 
 
 ### § 2a Umweltverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008304118)
 
 (1) Besteht nach dem Gesetz über die Umweltverträglichkeitsprüfung
 eine Verpflichtung zur Durchführung einer
@@ -269,6 +273,7 @@ einem Vorverfahren.
 
 
 ### § 2b Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008900377)
 
 (1) Die Vorschriften des Verwaltungsverfahrensgesetzes über die
 elektronische Kommunikation finden Anwendung, soweit nicht durch
@@ -286,6 +291,7 @@ Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
 
 ### § 2c Nationales Entsorgungsprogramm
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011000118)
 
 (1) Die Bundesregierung legt in einem Nationalen Entsorgungsprogramm
 dar, wie die nationale Strategie für eine verantwortungsvolle und
@@ -400,6 +406,7 @@ Bundesministerium erfolgt über die zuständigen Behörden der Länder.
 
 
 ### § 2d Grundsätze der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011101124)
 
 Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende
 Grundsätze:
@@ -439,10 +446,12 @@ Grundsätze:
 
 
 ## Zweiter Abschnitt - Überwachungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000200326)
 
 
 
 ### § 3 Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE000901118)
 
 (1) Wer Kernbrennstoffe einführt oder ausführt, bedarf der
 Genehmigung.
@@ -499,6 +508,7 @@ Grundlage einer Genehmigung nach § 6 im Inland zwischengelagert sind.
 
 
 ### § 4 Beförderung von Kernbrennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011700118)
 
 (1) Die Beförderung von Kernbrennstoffen außerhalb eines
 abgeschlossenen Geländes, auf dem Kernbrennstoffe staatlich verwahrt
@@ -575,6 +585,7 @@ Beförderung gefährlicher Güter unberührt.
 
 
 ### § 4a Deckungsvorsorge bei grenzüberschreitender Beförderung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001104118)
 
 (1) Die nach § 4 Abs. 2 Nr. 4 erforderliche Vorsorge für die Erfüllung
 gesetzlicher Schadensersatzverpflichtungen ist vorbehaltlich der
@@ -639,6 +650,7 @@ angemessen ist.
 
 
 ### § 4b Beförderung von Kernmaterialien in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001201377)
 
 (1) Wer Kernmaterialien befördert, ohne einer Genehmigung nach § 4 zu
 bedürfen, hat vor Beginn der Beförderung der zuständigen Behörde die
@@ -652,6 +664,7 @@ festzusetzen. § 4 Abs. 5 Satz 2 und 3 und § 4a sind anzuwenden.
 
 
 ### § 5 Berechtigung zum Besitz von Kernbrennstoffen; staatliche Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001301377)
 
 (1) Zum Besitz von Kernbrennstoffen ist berechtigt, wer auf Grund
 einer nach diesem Gesetz oder einer auf Grund dieses Gesetzes
@@ -730,6 +743,7 @@ radioaktiven Abfällen enthalten sind.
 
 
 ### § 6 Genehmigung zur Aufbewahrung von Kernbrennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001406360)
 
 (1) Wer Kernbrennstoffe außerhalb der staatlichen Verwahrung
 aufbewahrt, bedarf der Genehmigung. Einer Genehmigung bedarf ferner,
@@ -783,6 +797,7 @@ erfolgen.
 
 
 ### § 7 Genehmigung von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012901119)
 
 (1) Wer eine ortsfeste Anlage zur Erzeugung oder zur Bearbeitung oder
 Verarbeitung oder zur Spaltung von Kernbrennstoffen oder zur
@@ -1005,6 +1020,7 @@ Grundstück ausgehen.
 
 
 ### § 7a Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001600326)
 
 (1) Auf Antrag kann zu einzelnen Fragen, von denen die Erteilung der
 Genehmigung einer Anlage nach § 7 abhängt, insbesondere zur Wahl des
@@ -1018,6 +1034,7 @@ werden.
 
 
 ### § 7b Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001700326)
 
 Soweit in einer Teilgenehmigung oder in einem Vorbescheid über einen
 Antrag nach § 7 oder § 7a entschieden worden und diese Entscheidung
@@ -1029,6 +1046,7 @@ hätten vorgebracht werden können.
 
 
 ### § 7c Pflichten des Genehmigungsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010401118)
 
 (1) Die Verantwortung für die nukleare Sicherheit obliegt dem Inhaber
 der Genehmigung für die kerntechnische Anlage. Diese Verantwortung
@@ -1106,6 +1124,7 @@ und Maßnahmen des anlagenexternen Notfallschutzes zu berücksichtigen.
 
 
 ### § 7d Weitere Vorsorge gegen Risiken
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009800360)
 
 Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung
 von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität hat
@@ -1118,6 +1137,7 @@ Allgemeinheit zu leisten.
 
 
 ### § 7e Finanzieller Ausgleich
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE013000123)
 
 (1) Als Ausgleich für Investitionen, die im berechtigten Vertrauen auf
 die durch das Elfte Gesetz zur Änderung des Atomgesetzes vom 8.
@@ -1187,6 +1207,7 @@ die Anwendung von Artikel 93 des EG-Vertrags (ABl. L 140 vom
 
 
 ### § 7f Zahlung an den Bund
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE013100123)
 
 Werden Elektrizitätsmengen auf Grund von § 7 Absatz 1b Satz 1 und 4
 vom Kernkraftwerk Krümmel auf das Kernkraftwerk Neckarwestheim 2
@@ -1196,6 +1217,7 @@ Euro zuzüglich Umsatzsteuer zu zahlen.
 
 
 ### § 7g Ermächtigung zum Abschluss eines öffentlich-rechtlichen Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE013200123)
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
 das Bundesministerium der Finanzen und das Bundesministerium für
@@ -1276,6 +1298,7 @@ getroffen werden
 
 
 ### § 8 Verhältnis zum Bundes-Immissionsschutzgesetz und zum Gesetz über überwachungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001806119)
 
 (1) Die Vorschriften des Bundes-Immissionsschutzgesetzes über
 genehmigungsbedürftige Anlagen sowie über die Untersagung der ferneren
@@ -1303,6 +1326,7 @@ besondere technische Eigenart der Anlagen nach § 7 bedingt ist.
 
 
 ### § 9 Bearbeitung, Verarbeitung und sonstige Verwendung von Kernbrennstoffen außerhalb genehmigungspflichtiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE001902377)
 
 (1) Wer Kernbrennstoffe außerhalb von Anlagen der in § 7 bezeichneten
 Art bearbeitet, verarbeitet oder sonst verwendet, bedarf der
@@ -1349,6 +1373,7 @@ wesentlich verändert.
 
 
 ### § 9a Verwertung radioaktiver Reststoffe und Beseitigung radioaktiver Abfälle
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002012119)
 
 (1) Wer Anlagen, in denen mit Kernbrennstoffen umgegangen wird,
 errichtet, betreibt, sonst innehat, wesentlich verändert, stillegt
@@ -1520,6 +1545,7 @@ Aufsichtsbehörde.
 
 
 ### § 9b Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002107123)
 
 (1) Die Errichtung, der Betrieb und die Stilllegung der in § 9a Abs. 3
 genannten Anlagen des Bundes sowie die wesentliche Veränderung solcher
@@ -1638,6 +1664,7 @@ Planfeststellungsbeschluss ist zu versagen, wenn
 
 
 ### § 9c Landessammelstellen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002202118)
 
 Für das Lagern oder Bearbeiten radioaktiver Abfälle in
 Landessammelstellen nach § 9a Abs. 3 Satz 1 erster Halbsatz sind die
@@ -1648,6 +1675,7 @@ anwendbar.
 
 
 ### § 9d Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009902118)
 
 (1) Für Zwecke der Errichtung und des Betriebs von Anlagen zur
 Endlagerung radioaktiver Abfälle sowie für Zwecke der Vornahme
@@ -1673,6 +1701,7 @@ unberührt.
 
 
 ### § 9e Gegenstand und Zulässigkeit der Enteignung; Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010000360)
 
 (1) Durch die Enteignung nach § 9d können
 
@@ -1747,6 +1776,7 @@ hinzuweisen.
 
 
 ### § 9f Vorarbeiten an Grundstücken
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010100360)
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zu dulden, dass
 zur Vorbereitung der Planfeststellung nach § 9b sowie zur obertägigen
@@ -1770,6 +1800,7 @@ angemessene Entschädigung in Geld zu leisten. § 21b bleibt unberührt.
 
 
 ### § 9g Veränderungssperre
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008002119)
 
 (1) Zur Sicherung von Planungen für Vorhaben nach § 9b oder zur
 Sicherung oder Fortsetzung einer Standorterkundung für Anlagen zur
@@ -1819,6 +1850,7 @@ ist vom Vorhabensträger zu leisten. § 21b bleibt unberührt.
 
 
 ### § 9h Pflichten des Zulassungsinhabers
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011200118)
 
 Die §§ 7c und 19a Absatz 3 und 4 gelten entsprechend für:
 
@@ -1837,6 +1869,7 @@ Die §§ 7c und 19a Absatz 3 und 4 gelten entsprechend für:
 
 
 ### § 9i Bestandsaufnahme und Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011300118)
 
 (1) Das für die kerntechnische Sicherheit und den Strahlenschutz
 zuständige Bundesministerium erstellt erstmals bis spätestens 23.
@@ -1870,6 +1903,7 @@ zuständigen Behörden der Länder.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002301308)
 
 Durch Rechtsverordnung können Ausnahmen von den Vorschriften der §§ 3
 bis 7 und 9 zugelassen werden, soweit wegen der Menge oder
@@ -1883,6 +1917,7 @@ Vorschriften des § 3 getroffen werden.
 
 
 ### § 10a Erstreckung auf strahlenschutzrechtliche Genehmigungen; Ausnahmen vom Erfordernis der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011900118)
 
 (1) Eine Genehmigung nach § 3 Absatz 1 kann sich auch auf eine
 genehmigungsbedürftige Verbringung nach der auf Grund des § 30 des
@@ -1905,6 +1940,7 @@ Genehmigung nach diesem Gesetz.
 
 
 ### § 11 Ermächtigungsvorschriften (Genehmigung, Anzeige, allgemeine Zulassung)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002409128)
 
 (1) Soweit nicht durch dieses Gesetz für Kernbrennstoffe und für
 Anlagen im Sinne des § 7 eine besondere Regelung getroffen ist, kann
@@ -1977,6 +2013,7 @@ wieder verwendet oder verwertet werden.
 
 
 ### § 12 Ermächtigungsvorschriften (Schutzmaßnahmen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002506118)
 
 Durch Rechtsverordnung kann zur Erreichung der in § 1 bezeichneten
 Zwecke bestimmt werden,
@@ -2085,6 +2122,7 @@ genannten Zwecke und um Regelungen über die Deckungsvorsorge handelt.
 
 
 ### § 12a Ermächtigungsvorschrift (Entscheidung des Direktionsausschusses)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002601377)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 Entscheidungen des Direktionsausschusses nach Artikel 1 Abs. a Ziffer
@@ -2094,6 +2132,7 @@ Rechtsverordnung in Kraft zu setzen, sofern dies zur Erfüllung der in
 
 
 ### § 12b Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE007209118)
 
 (1) Zum Schutz gegen unbefugte Handlungen, die zu einer Entwendung
 oder Freisetzung radioaktiver Stoffe führen können, führen die nach
@@ -2243,10 +2282,12 @@ einer Rechtsverordnung geregelt.
 
 
 ### (XXXX) §§ 12c und 12d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE007301118)
 
 
 
 ### § 13 Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE011800118)
 
 (1) Die Verwaltungsbehörde hat im Genehmigungsverfahren Art, Umfang
 und Höhe der Vorsorge für die Erfüllung gesetzlicher
@@ -2314,6 +2355,7 @@ Beeinträchtigung durch Unfall entstanden ist.
 
 
 ### § 14 Haftpflichtversicherung und sonstige Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002803377)
 
 (1) Wird die Deckungsvorsorge bei Anlagen und Tätigkeiten, bei denen
 eine Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25
@@ -2337,6 +2379,7 @@ erbracht, gilt Absatz 1 entsprechend.
 
 
 ### § 15 Rangfolge der Befriedigung aus der Deckungsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE002903124)
 
 (1) Sind der zur Deckungsvorsorge verpflichtete Inhaber einer
 Kernanlage und ein Geschädigter im Zeitpunkt des Eintritts des
@@ -2364,11 +2407,13 @@ Ersatzansprüche sind untereinander gleichrangig.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003000326)
 
 (weggefallen)
 
 
 ### § 17 Inhaltliche Beschränkungen, Auflagen, Widerruf, Bezeichnung als Inhaber einer Kernanlage
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003102377)
 
 (1) Genehmigungen und allgemeine Zulassungen nach diesem Gesetz oder
 nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung sind
@@ -2436,6 +2481,7 @@ bezeichnen.
 
 
 ### § 18 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003200326)
 
 (1) Im Falle der Rücknahme oder des Widerrufs einer nach diesem Gesetz
 oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung
@@ -2491,6 +2537,7 @@ eine Entschädigung zu leisten hat.
 
 
 ### § 19 Staatliche Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003312119)
 
 (1) Der Umgang und Verkehr mit radioaktiven Stoffen, die Errichtung,
 der Betrieb und der Besitz von Anlagen der in § 7 bezeichneten Art und
@@ -2563,6 +2610,7 @@ nach § 9a Absatz 3 Satz 1 und für die Schachtanlage Asse II.
 
 
 ### § 19a Überprüfung, Bewertung und kontinuierliche Verbesserung kerntechnischer Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008601360)
 
 (1) Wer eine Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen
 Erzeugung von Elektrizität betreibt, hat eine Sicherheitsüberprüfung
@@ -2603,6 +2651,7 @@ den Genehmigungsinhaber treffen.
 
 
 ### § 20 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003404119)
 
 Im Genehmigungs- und Aufsichtsverfahren nach diesem Gesetz und den auf
 Grund dieses Gesetzes ergangenen Rechtsverordnungen können von den
@@ -2612,6 +2661,7 @@ entsprechende Anwendung.
 
 
 ### § 21 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003513128)
 
 (1) Kosten (Gebühren und Auslagen) werden erhoben
 
@@ -2737,6 +2787,7 @@ Kostenvorschriften.
 
 
 ### § 21a Kosten (Gebühren und Auslagen) oder Entgelte für die Benutzung von Anlagen nach § 9a Abs. 3
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003602360)
 
 (1) Für die Benutzung von Anlagen nach § 9a Abs. 3 werden von den
 Ablieferungspflichtigen Kosten (Gebühren und Auslagen) erhoben. Als
@@ -2779,6 +2830,7 @@ Bemessungsgrundsätze zu berücksichtigen.
 
 
 ### § 21b Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003705118)
 
 (1) Zur Deckung des notwendigen Aufwandes für die Planung, den Erwerb
 von Grundstücken und Rechten, die anlagenbezogene Forschung und
@@ -2820,6 +2872,7 @@ wahrnimmt.
 
 
 ### § 21c Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012300119)
 
 Zur Ablösung der nach den §§ 21a und 21b zu erhebenden Kosten,
 Entgelte und Beiträge können im Einzelfall unter Berücksichtigung der
@@ -2829,10 +2882,12 @@ werden.
 
 
 ## Dritter Abschnitt - Verwaltungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000300326)
 
 
 
 ### § 22 Zuständigkeit für grenzüberschreitende Verbringungen und deren Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003811128)
 
 (1) Über Anträge auf Erteilung einer Genehmigung nach § 3 sowie über
 die Rücknahme oder den Widerruf einer erteilten Genehmigung
@@ -2876,6 +2931,7 @@ Bundesministeriums gebunden.
 
 
 ### § 23 Ausstattung der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE003910119)
 
 Die für die Ausführung dieses Gesetzes zuständigen Behörden verfügen
 über eine zur Erfüllung ihrer gesetzlichen Aufgaben angemessene
@@ -2883,20 +2939,24 @@ Ausstattung an Finanzmitteln und eine angemessene Personalausstattung.
 
 
 ### § 23a Zuständigkeit des Bundesverwaltungsamtes
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008102360)
 
 Das Bundesverwaltungsamt ist für Entscheidungen nach den §§ 9d bis 9g
 zuständig.
 
 
 ### § 23b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008201118)
 
 
 
 ### § 23c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010501118)
 
 
 
 ### § 23d Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010603119)
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist
 zuständig für
@@ -2953,6 +3013,7 @@ Entscheidung über den Standort.
 
 
 ### § 24 Zuständigkeit der Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004006123)
 
 (1) Die übrigen Verwaltungsaufgaben nach diesem Gesetz und den hierzu
 ergehenden Rechtsverordnungen werden im Auftrage des Bundes durch die
@@ -2985,6 +3046,7 @@ zivilen Gefolgen.
 
 
 ### § 24a Information der Öffentlichkeit; Informationsübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE007402118)
 
 (1) Die zuständigen Behörden unterrichten die Öffentlichkeit für den
 Bereich der nuklearen Sicherheit mindestens über Folgendes:
@@ -3015,6 +3077,7 @@ anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie
 
 
 ### § 24b Selbstbewertung und internationale Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010202118)
 
 (1) Mit dem Ziel der kontinuierlichen Verbesserung der nuklearen
 Sicherheit und der Sicherheit der Entsorgung abgebrannter
@@ -3085,10 +3148,12 @@ ein.
 
 
 ## Vierter Abschnitt - Haftungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000400326)
 
 
 
 ### § 25 Haftung für Kernanlagen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004103377)
 
 (1) Beruht ein nuklearer Schaden auf einem von einer Kernanlage
 ausgehenden nuklearen Ereignis, so gelten für die Haftung des Inhabers
@@ -3140,6 +3205,7 @@ einer Rechtsverordnung nach § 12a bezeichnet sind.
 
 
 ### § 25a Haftung für Reaktorschiffe
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004201377)
 
 (1) Auf die Haftung des Inhabers eines Reaktorschiffes finden die
 Vorschriften dieses Abschnitts mit folgender Maßgabe entsprechende
@@ -3194,6 +3260,7 @@ den Bestimmungen dieses Gesetzes.
 
 
 ### § 26 Haftung in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012400128)
 
 (1) Wird in anderen als den in dem Pariser Übereinkommen in Verbindung
 mit den in § 25 Abs. 1 bis 4 bezeichneten Fällen durch die Wirkung
@@ -3284,6 +3351,7 @@ anderer für den Schaden verantwortlich ist.
 
 
 ### § 27 Mitwirkendes Verschulden des Verletzten
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004401377)
 
 Hat bei Entstehung des nuklearen Schadens Vorsatz oder grobe
 Fahrlässigkeit des Verletzten mitgewirkt, so gilt § 254 des
@@ -3294,6 +3362,7 @@ Fahrlässigkeit des Verletzten gleich.
 
 
 ### § 28 Umfang des Schadensersatzes bei Tötung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004501124)
 
 (1) Im Falle der Tötung ist der Schadensersatz durch Ersatz der Kosten
 einer versuchten Heilung sowie des Vermögensnachteils zu leisten, den
@@ -3323,6 +3392,7 @@ Getöteten war.
 
 
 ### § 29 Umfang des Schadensersatzes bei Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004602377)
 
 (1) Im Falle der Verletzung des Körpers oder der Gesundheit ist der
 Schadensersatz durch Ersatz der Kosten der Heilung sowie des
@@ -3336,6 +3406,7 @@ billige Entschädigung in Geld gefordert werden.
 
 
 ### § 30 Geldrente
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004700326)
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
 Erwerbsfähigkeit, wegen Vermehrung der Bedürfnisse oder wegen
@@ -3355,6 +3426,7 @@ dem Urteil bestimmten Sicherheit verlangen.
 
 
 ### § 31 Haftungshöchstgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004803377)
 
 (1) Die Haftung des Inhabers einer Kernanlage nach dem Pariser
 Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem
@@ -3405,6 +3477,7 @@ liegt.
 
 
 ### § 32 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE004901377)
 
 (1) Die nach diesem Abschnitt begründeten Ansprüche auf Schadensersatz
 verjähren in drei Jahren von dem Zeitpunkt an, in welchem der
@@ -3429,6 +3502,7 @@ erhoben werden.
 
 
 ### § 33 Mehrere Verursacher
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005000326)
 
 (1) Sind für einen Schaden, der durch ein nukleares Ereignis oder in
 sonstiger Weise durch die Wirkung eines Kernspaltungsvorgangs oder der
@@ -3450,6 +3524,7 @@ leisten.
 
 
 ### § 34 Freistellungsverpflichtung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009700360)
 
 (1) Haben sich infolge von Wirkungen eines nuklearen Ereignisses
 gesetzliche Schadensersatzverpflichtungen des Inhabers einer im Inland
@@ -3507,6 +3582,7 @@ Versicherungsvertragsgesetzes begründet wird.
 
 
 ### § 35 Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005200326)
 
 (1) Ist damit zu rechnen, daß die gesetzlichen
 Schadensersatzverpflichtungen aus einem Schadensereignis die zur
@@ -3525,11 +3601,13 @@ Geschädigter unangemessen beeinträchtigt wird.
 
 
 ### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005303360)
 
 -
 
 
 ### § 37 Rückgriff bei der Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005401306)
 
 (1) Ist der Inhaber einer Kernanlage oder der Besitzer eines
 radioaktiven Stoffes nach § 34 von Schadensersatzverpflichtungen
@@ -3568,6 +3646,7 @@ die Haftung für nukleare Schäden ist.
 
 
 ### § 38 Ausgleich durch den Bund
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005502377)
 
 (1) Hat ein durch ein nukleares Ereignis Geschädigter seinen Schaden
 im Inland erlitten und gewähren ihm das auf den Schadensfall
@@ -3599,6 +3678,7 @@ erkennbar wird, dass die Rechtsverfolgung im Sinne des Absatzes 1 Satz
 
 
 ### § 39 Ausnahmen von den Leistungen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005602124)
 
 (1) Bei der Freistellungsverpflichtung nach § 34 und dem Ausgleich
 nach § 38 sind die nach § 15 Abs. 1 bis 3 nachrangig zu befriedigenden
@@ -3612,6 +3692,7 @@ Unbilligkeit erforderlich ist.
 
 
 ### § 40 Klagen gegen den Inhaber einer Kernanlage, die in einem anderen Vertragsstaat gelegen ist
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005701377)
 
 (1) Ist nach den Bestimmungen des Pariser Übereinkommens ein Gericht
 der Bundesrepublik Deutschland für die Entscheidung über die
@@ -3652,6 +3733,7 @@ Vertragsstaates, in dem die Kernanlage gelegen ist,
 
 
 ### § 40a Gerichtsstand für Schadensersatzklagen gegen den Inhaber einer Kernanlage
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009100377)
 
 (1) Für Schadensersatzklagen auf Grund des Pariser Übereinkommens oder
 auf Grund des Pariser Übereinkommens in Verbindung mit dem Gemeinsamen
@@ -3675,6 +3757,7 @@ Landgerichts für das gesamte Gebiet mehrerer Länder begründet werden.
 
 
 ### § 40b Gerichtsstand bei Klagen auf Freistellung nach § 34
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009200377)
 
 Für Klagen des Inhabers einer Kernanlage oder des Besitzers eines
 radioaktiven Stoffes gegen den Bund und das zuständige Land auf
@@ -3683,6 +3766,7 @@ ausschließlich zuständig.
 
 
 ### § 40c Staatenklagerecht
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009300377)
 
 Ein anderer Vertragsstaat des Pariser Übereinkommens oder ein
 Vertragsstaat des Wiener Übereinkommens in Verbindung mit dem
@@ -3695,10 +3779,12 @@ Hoheitsgebiet haben und ihr Einverständnis dazu erklärt haben.
 
 
 ## Fünfter Abschnitt - Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000700123)
 
 
 
 ### § 41 Integriertes Sicherungs- und Schutzkonzept
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012500123)
 
 Das integrierte Sicherungs-und Schutzkonzept besteht aus
 Sicherungsmaßnahmen des Genehmigungsinhabers der kerntechnischen
@@ -3708,6 +3794,7 @@ Maßnahmen werden aufeinander abgestimmt.
 
 
 ### § 42 Schutzziele
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012600123)
 
 Ziele der Maßnahmen nach § 41 für den Schutz von kerntechnischen
 Anlagen und Tätigkeiten sind die Verhinderung
@@ -3732,6 +3819,7 @@ Anlagen und Tätigkeiten sind die Verhinderung
 
 
 ### § 43 Umfang des erforderlichen Schutzes gegen Störmaßnahmen oder sonstige Einwirkungen Dritter
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012700123)
 
 (1) Der Genehmigungsinhaber stellt den erforderlichen Schutz gegen
 Störmaßnahmen oder sonstige Einwirkungen Dritter nach § 4 Absatz 2
@@ -3750,6 +3838,7 @@ aufeinander abzustimmen.
 
 
 ### § 44 Funktionsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE012800123)
 
 (1) Die zu unterstellenden Störmaßnahmen oder sonstigen Einwirkungen
 Dritter werden nach dem Stand der Erkenntnisse durch die zuständigen
@@ -3787,6 +3876,7 @@ Dritter sichergestellt ist.
 
 
 ### § 44b Meldewesen für die Sicherheit in der Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010802128)
 
 Genehmigungsinhaber nach den §§ 6, 7 und 9 haben Beeinträchtigungen
 ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die
@@ -3806,14 +3896,17 @@ bestimmten Sachverständigen nach § 20 weiter.
 
 
 ## Sechster Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000502123)
 
 
 
 ### § 45 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE010900118)
 
 
 
 ### § 46 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE005912119)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3911,10 +4004,12 @@ eintausend Euro geahndet werden.
 
 
 ### (XXXX) §§ 47 und 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006000326)
 
 
 
 ### § 49 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006102118)
 
 Ist eine vorsätzliche Ordnungswidrigkeit nach § 46 Absatz 1 Nummer 1a,
 2, 3 oder 4 begangen worden, so können Gegenstände,
@@ -3931,14 +4026,17 @@ eingezogen werden.
 
 
 ### (XXXX) §§ 50 bis 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006200326)
 
 
 
 ## Siebter Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNG000601123)
 
 
 
 ### § 53 Erfassung von Schäden aus ungeklärter Ursache
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006301377)
 
 Schäden, die nach dem Stand der wissenschaftlichen Erkenntnis aus der
 Einwirkung von Strahlen radioaktiver Stoffe herrühren und deren
@@ -3948,6 +4046,7 @@ Bundesministerium zu registrieren und zu untersuchen.
 
 
 ### § 54 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006406118)
 
 (1) Rechtsverordnungen auf Grund der §§ 2, 9g, 11, 12, 12b, 13, 21
 Abs. 3, § 21a Abs. 2 und § 21b Abs. 3 erläßt die Bundesregierung. Das
@@ -3970,16 +4069,19 @@ Bundesministerium übertragen.
 
 
 ### § 55 (Aufhebung von Rechtsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006500326)
 
 -
 
 
 ### § 56 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006601377)
 
 -
 
 
 ### § 57 Abgrenzungen
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006701377)
 
 Auf den Umgang mit Kernbrennstoffen finden das Sprengstoffgesetz und
 die auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie
@@ -3988,6 +4090,7 @@ keine Anwendung.
 
 
 ### § 57a Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE007505128)
 
 Für bis zum 30. Juni 1990 in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet erteilte Genehmigungen, Erlaubnisse und Zulassungen
@@ -4031,6 +4134,7 @@ gilt folgendes:
 
 
 ### § 57b Betrieb und Stilllegung der Schachtanlage Asse II
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE009505119)
 
 (1) Für den Betrieb und die Stilllegung der Schachtanlage Asse II
 gelten die für die Anlagen des Bundes nach § 9a Absatz 3 geltenden
@@ -4148,6 +4252,7 @@ geltenden Fassung gilt für die Schachtanlage Asse II fort; § 23d Satz
 
 
 ### § 58 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006810118)
 
 (1) § 21 Abs. 1a ist auch auf die am 11. Mai 2000 anhängigen
 Verwaltungsverfahren anzuwenden, soweit zu diesem Zeitpunkt die Kosten
@@ -4185,20 +4290,24 @@ Absatz 2 des Standortauswahlgesetzes offenzuhaltende Bergwerk.
 
 
 ### § 58a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008401118)
 
 
 
 ### § 59 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE006900326)
 
 -
 
 
 ### (XXXX) Anlage 1 und 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE007002377)
 
 
 (zu § 7 Absatz 1a)
 
 ### Anlage 3 Elektrizitätsmengen nach § 7 Absatz 1a
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008702310)
 
 (Fundstelle: BGBl. I 2010, 1815; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -4371,6 +4480,7 @@ Fußnote)
 
 
 ### Anlage 4 Sicherheitsüberprüfung nach § 19a Abs. 1
+[Direktlink](https://www.gesetze-im-internet.de/atg/BJNR008140959.html#BJNR008140959BJNE008800377)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1357
 

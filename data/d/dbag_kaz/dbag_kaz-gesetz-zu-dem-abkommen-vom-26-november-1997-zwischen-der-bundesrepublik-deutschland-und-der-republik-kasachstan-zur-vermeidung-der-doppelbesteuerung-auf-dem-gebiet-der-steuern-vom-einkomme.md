@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbag_kaz/BJNR159220998.html#BJNR159220998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbag_kaz/BJNR159220998.html#BJNR159220998BJNE000200311)
 
 Dem in Bonn am 26. November 1997 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung
@@ -35,6 +37,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbag_kaz/BJNR159220998.html#BJNR159220998BJNE000300311)
 
 Soweit das Abkommen auf Grund seines Artikels 31 Abs. 2 für die Zeit
 vor seinem Inkrafttreten anzuwenden ist, sind bereit ergangene
@@ -51,6 +54,7 @@ der Steuermehrbetrag nicht festgesetzt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbag_kaz/BJNR159220998.html#BJNR159220998BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

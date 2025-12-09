@@ -33,9 +33,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNG000100000)
 
 
 ### § 1 Aufgabe und Leitvorstellung der Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000201360)
 
 (1) Der Gesamtraum der Bundesrepublik Deutschland und seine Teilräume
 sind durch Raumordnungspläne, durch raumordnerische Zusammenarbeit und
@@ -72,6 +74,7 @@ Wirtschaftszone statt.
 
 
 ### § 2 Grundsätze der Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000302125)
 
 (1) Die Grundsätze der Raumordnung sind im Sinne der Leitvorstellung
 einer nachhaltigen Raumentwicklung nach § 1 Abs. 2 anzuwenden und
@@ -231,6 +234,7 @@ dies erforderlich ist.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000402125)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -302,6 +306,7 @@ auszulegen.
 
 
 ### § 4 Bindungswirkung der Erfordernisse der Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000501360)
 
 (1) Bei
 
@@ -344,6 +349,7 @@ berücksichtigen.
 
 
 ### § 5 Beschränkung der Bindungswirkung nach § 4
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000601360)
 
 (1) Bei raumbedeutsamen Planungen und Maßnahmen von öffentlichen
 Stellen des Bundes, von anderen öffentlichen Stellen, die im Auftrag
@@ -386,6 +392,7 @@ Raumordnung in Raumordnungsplänen des Bundes nach § 17 Absatz 2.
 
 
 ### § 6 Ausnahmen und Zielabweichung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000702125)
 
 (1) Von Zielen der Raumordnung können im Raumordnungsplan Ausnahmen
 festgelegt werden.
@@ -406,6 +413,7 @@ den Sätzen 1 bis 3 auf die kommunale Planungshoheit haben.
 
 
 ### § 7 Allgemeine Vorschriften über Raumordnungspläne
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE000803130)
 
 (1) In Raumordnungsplänen sind für einen bestimmten Planungsraum und
 einen regelmäßig mittelfristigen Zeitraum Festlegungen als Ziele und
@@ -484,6 +492,7 @@ Aufhebung.
 
 
 ### § 8 Umweltprüfung bei der Aufstellung von Raumordnungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001002116)
 
 (1) Bei der Aufstellung von Raumordnungsplänen ist von der für den
 Raumordnungsplan zuständigen Stelle eine Umweltprüfung durchzuführen,
@@ -562,6 +571,7 @@ Klimaschutz zu erlassen.
 
 
 ### § 9 Beteiligung bei der Aufstellung von Raumordnungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001104125)
 
 (1) Die Öffentlichkeit sowie die in ihren Belangen berührten
 öffentlichen Stellen sind von der Aufstellung des Raumordnungsplans zu
@@ -659,6 +669,7 @@ Sätze 1 und 2 finden die Absätze 1 und 4 keine Anwendung.
 
 
 ### § 10 Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001202125)
 
 (1) Soweit der Raumordnungsplan nicht als Gesetz oder Rechtsverordnung
 verkündet wird, ist er oder seine Genehmigung oder der Beschluss über
@@ -693,6 +704,7 @@ zuständigen Behörde übermittelt.
 
 
 ### § 11 Planerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001302125)
 
 (1) Eine Verletzung von Verfahrens- und Formvorschriften dieses
 Gesetzes ist für die Rechtswirksamkeit eines Raumordnungsplans nur
@@ -777,6 +789,7 @@ Behebung von Fehlern auch rückwirkend in Kraft gesetzt werden.
 
 
 ### § 12 Untersagung raumbedeutsamer Planungen und Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003300360)
 
 (1) Die Raumordnungsbehörde kann raumbedeutsame Planungen und
 Maßnahmen sowie die Entscheidung über deren Zulässigkeit gegenüber den
@@ -797,9 +810,11 @@ Wirkung.
 
 
 ## Abschnitt 2 - Raumordnung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNG000500360)
 
 
 ### § 13 Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003401125)
 
 (1) In den Ländern sind aufzustellen:
 
@@ -933,6 +948,7 @@ Die Absätze 2 bis 5 finden insoweit keine Anwendung.
 
 
 ### § 14 Raumordnerische Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001401360)
 
 (1) Zur Vorbereitung oder Verwirklichung von Raumordnungsplänen oder
 von sonstigen raumbedeutsamen Planungen und Maßnahmen sollen die
@@ -973,6 +989,7 @@ entstehen.
 
 
 ### § 15 Raumverträglichkeitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001603125)
 
 (1) Die nach Landesrecht zuständige Raumordnungsbehörde (zuständige
 Raumordnungsbehörde) prüft nach Maßgabe dieser Vorschrift in einem
@@ -1126,6 +1143,7 @@ Zulassungsentscheidung überprüft werden.
 
 
 ### § 16 Beschleunigte Raumverträglichkeitsprüfung; Absehen von Raumverträglichkeitsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001702125)
 
 (1) Bei der Prüfung der Raumverträglichkeit raumbedeutsamer Planungen
 und Maßnahmen kann, soweit keine anderen Rechtsvorschriften
@@ -1147,9 +1165,11 @@ erübrigen.
 
 
 ## Abschnitt 3 - Raumordnung im Bund
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNG000300000)
 
 
 ### § 17 Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001804125)
 
 (1) Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen
 stellt im Einvernehmen mit den fachlich betroffenen Bundesministerien
@@ -1225,6 +1245,7 @@ Verwirklichung von Raumordnungsplänen entstehen.
 
 
 ### § 18 Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes; Bekanntmachung von Raumordnungsplänen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE001903125)
 
 (1) Bei der Aufstellung der Raumordnungspläne nach § 17 Absatz 1 und 2
 findet § 9 Absatz 2 Satz 3 mit der Maßgabe Anwendung, dass die
@@ -1243,6 +1264,7 @@ und 4 findet auf diese Pläne keine Anwendung.
 
 
 ### § 19 Zielabweichung bei Raumordnungsplänen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002204125)
 
 Hinsichtlich der Zielabweichung bei Raumordnungsplänen des Bundes gilt
 § 6 Abs. 2 mit der Maßgabe, dass über den Antrag auf Zielabweichung
@@ -1256,6 +1278,7 @@ Stadtentwicklung und Bauwesen erforderlich.
 
 
 ### § 20 Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002304125)
 
 Für die Untersagung raumbedeutsamer Planungen und Maßnahmen bei
 Raumordnungsplänen des Bundes gilt § 12 Abs. 2 und 3 mit der Maßgabe,
@@ -1264,6 +1287,7 @@ Stadtentwicklung und Bauwesen zuständig ist.
 
 
 ### § 21 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002404125)
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Planungen und Maßnahmen zu bestimmen, für
@@ -1280,6 +1304,7 @@ der Länder notwendig sind.
 
 
 ### § 22 Zuständigkeiten des Bundesamtes für Bauwesen und Raumordnung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003502125)
 
 (1) Das Bundesamt für Bauwesen und Raumordnung führt ein
 Informationssystem zur räumlichen Entwicklung im Bundesgebiet und in
@@ -1315,6 +1340,7 @@ beschränken.
 
 
 ### § 23 Beirat für Raumentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002504125)
 
 (1) Der Beirat für Raumentwicklung hat die Aufgabe, das
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen in
@@ -1327,9 +1353,11 @@ Bundesgebietes.
 
 
 ## Abschnitt 4 - Ergänzende Vorschriften und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNG000401360)
 
 
 ### § 24 Zusammenarbeit von Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002704125)
 
 (1) Grundsätzliche Angelegenheiten der Raumordnung sollen vom
 Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen und den
@@ -1353,6 +1381,7 @@ notwendig sind.
 
 
 ### § 25 Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003602125)
 
 (1) Wird die Durchführung eines in einem Nachbarstaat vorgesehenen
 Raumordnungsplans voraussichtlich erhebliche Auswirkungen auf das
@@ -1385,10 +1414,12 @@ Bauwesen.
 
 
 ### § 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002803360)
 
 
 
 ### § 27 Anwendungsvorschrift für die Raumordnung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE002904130)
 
 (1) Verfahren zur Aufstellung von Raumordnungsplänen nach § 13 sowie
 Raumordnungsverfahren, die nach § 15 in der bis zum 27. September 2023
@@ -1414,6 +1445,7 @@ ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
 
 
 ### § 28 Sonderregelung für die Windenergie an Land
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003700130)
 
 (1) Auf Windenergiegebiete nach § 2 Nummer 1 des
 Windenergieflächenbedarfsgesetzes sind vorrangig die §§ 245e und 249
@@ -1502,6 +1534,7 @@ Absätze 2 bis 6 entsprechend.
 
 
 ### Anlage 1 (zu § 8 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003101360)
 
 (Fundstelle: BGBl. I 2008, 2996;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1571,6 +1604,7 @@ Der Umweltbericht nach § 8 Abs. 1 besteht aus
 
 
 ### Anlage 2 (zu § 8 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003204116)
 
 (Fundstelle: BGBl. I 2008, 2997;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1675,6 +1709,7 @@ genommen wird:
 (zu § 28 Absatz 4 Satz 3)
 
 ### Anlage 3 Regeln für Minderungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/rog_2008/BJNR298610008.html#BJNR298610008BJNE003800130)
 
 (Fundstelle: BGBl. 2025 I Nr. 189, S. 14 – 15
 

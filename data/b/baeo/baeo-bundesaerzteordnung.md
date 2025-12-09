@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Der ärztliche Beruf
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000101307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE000901307)
 
 (1) Der Arzt dient der Gesundheit des einzelnen Menschen und des
 gesamten Volkes.
@@ -36,6 +38,7 @@ freier Beruf.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001005301)
 
 (1) Wer im Geltungsbereich dieses Gesetzes den ärztlichen Beruf
 ausüben will, bedarf der Approbation als Arzt.
@@ -66,6 +69,7 @@ unter der Berufsbezeichnung "Arzt" oder "Ärztin".
 
 
 ### § 2a
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001102308)
 
 Die Berufsbezeichnung "Arzt" oder "Ärztin" darf nur führen, wer als
 Arzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur Ausübung des
@@ -73,10 +77,12 @@ Arzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur Ausübung des
 
 
 ## II. - Die Approbation
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000201307)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001217116)
 
 (1) Die Approbation als Arzt ist auf Antrag zu erteilen, wenn der
 Antragsteller
@@ -389,6 +395,7 @@ drei Jahren dem Deutschen Bundestag.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001314116)
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
 mit Zustimmung des Bundesrates in einer Approbationsordnung für Ärzte
@@ -463,6 +470,7 @@ Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001409310)
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung eine
 der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 4 nicht vorgelegen hat
@@ -495,6 +503,7 @@ Satz 1 Nr. 3 weggefallen ist.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001604116)
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -538,11 +547,13 @@ durch einen anderen Arzt weitergeführt werden kann.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001702307)
 
 (weggefallen)
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001801307)
 
 (1) Bei einer Person, deren Approbation oder Bestallung wegen Fehlens
 oder späteren Wegfalls einer der Voraussetzungen des § 3 Abs. 1 Satz 1
@@ -560,6 +571,7 @@ werden. Personen, denen die Erlaubnis erteilt worden ist, haben im
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE001901307)
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
@@ -567,6 +579,7 @@ Bedingung erklärt wird, ist unwirksam.
 
 
 ### § 9a
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE003300116)
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
 Behörden der anderen Mitgliedstaaten der Europäischen Union, der
@@ -669,10 +682,12 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 
 ## III. - Die Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000301307)
 
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002010116)
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs
 kann auf Antrag Personen erteilt werden, die eine abgeschlossene
@@ -744,6 +759,7 @@ nach den vorstehenden Vorschriften erteilt worden ist, haben im
 
 
 ### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE003200308)
 
 (1) Approbierte Zahnärzte, die eine gültige staatliche Anerkennung als
 Fachzahnarzt für Kieferchirurgie nach der Anordnung Nr. 1 über die
@@ -794,10 +810,12 @@ entsprechend.
 
 
 ## IV. - Erbringen von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000402308)
 
 
 
 ### § 10b
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002107116)
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
 eines anderen Vertragsstaates des Abkommens über den Europäischen
@@ -926,10 +944,12 @@ Bescheinigungen darüber auszustellen, daß
 
 
 ## V. - Gebührenordnung
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000501307)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002201307)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Entgelte für ärztliche Tätigkeit in
@@ -940,10 +960,12 @@ der Entgelte Verpflichteten Rechnung zu tragen.
 
 
 ## VI. - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000601307)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002312116)
 
 (1) Die Approbation erteilt in den Fällen des § 3 Abs. 1 Satz 1 die
 zuständige Behörde des Landes, in dem der Antragsteller die ärztliche
@@ -1016,10 +1038,12 @@ hat dies binnen zwei Monaten zu erfolgen.
 
 
 ## VII. - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000701307)
 
 
 
 ### § 13 VII Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002402307)
 
 Wer die Heilkunde ausübt, solange durch vollziehbare Verfügung das
 Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis zu
@@ -1027,6 +1051,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 13a
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE003101320)
 
 (1) Ordnungswidrig handelt, wer entgegen § 14 Abs. 4 Satz 1 die
 Berufsbezeichnung "Arzt" oder "Ärztin" ohne Zusatz führt.
@@ -1036,10 +1061,12 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ## VIII. - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNG000801307)
 
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002507310)
 
 (1) Eine Approbation oder Bestallung, die bei Wirksamwerden des
 Beitritts im bisherigen Geltungsbereich dieses Gesetzes zur Ausübung
@@ -1118,6 +1145,7 @@ Abs. 1 dieses Gesetzes.
 
 
 ### § 14a
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002604310)
 
 (1) Antragsteller, die das Studium der Medizin im Jahre 1970 oder im
 Sommersemester 1971 aufgenommen haben, weisen an Stelle eines
@@ -1169,6 +1197,7 @@ Satz 5 und 6 genannten Studierenden getroffen werden.
 
 
 ### § 14b
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002708116)
 
 (1) Antragstellern, die die Voraussetzungen des § 3 Absatz 1 Satz 1
 Nummer 2, 3 und 5 erfüllen und eine Approbation als Arzt auf Grund der
@@ -1229,16 +1258,19 @@ entsprechend.
 
 
 ### § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002802301)
 
 -
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE002901307)
 
 (Inkrafttreten, Außerkrafttreten)
 
 
 ### Anlage (zu § 3 Absatz 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/b_o/BJNR018570961.html#BJNR018570961BJNE003009130)
 
 (Fundstelle: BGBl. 2024 I Nr. 99, S. 1 - 4)
 

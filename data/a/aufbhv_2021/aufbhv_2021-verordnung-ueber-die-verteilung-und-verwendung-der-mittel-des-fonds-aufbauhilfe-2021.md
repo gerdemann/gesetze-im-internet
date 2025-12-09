@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000100000)
 
 Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes
 2021 vom 10. September 2021 (BGBl. I S. 4147) verordnet die
@@ -28,6 +29,7 @@ Bundesregierung:
 
 
 ## § 1 Mittel und Mittelverteilung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000201123)
 
 (1) Dem Fonds „Aufbauhilfe 2021“ werden Mittel in Höhe von bis zu 30
 Milliarden Euro zur Verfügung gestellt.
@@ -81,6 +83,7 @@ Anlage zum Bundeshaushaltsplan veröffentlicht.
 
 
 ## § 2 Ermittlung der Gesamtschäden
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000300000)
 
 (1) Die Ermittlungen der Gesamtschäden in den vom Starkregen und
 Hochwasser betroffenen Ländern erfolgt nach Maßgabe der in den
@@ -194,6 +197,7 @@ genannten Ländern können konkretere Regelungen getroffen werden.
 
 
 ## § 3 Mittelverwendung und Fördergrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000400000)
 
 (1) Nach der Verteilung der Mittel des Fonds entsprechend dem jeweils
 geltenden Wirtschaftsplan obliegt die Entscheidung über die Verwendung
@@ -287,6 +291,7 @@ Zeitraum sind förderfähig.
 
 
 ## § 4 Zweckentsprechende Mittelverwendung, Prüfungen, Rückforderung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000500000)
 
 (1) Die Länder sind für die zweckentsprechende Verwendung der Mittel
 des Fonds verantwortlich, soweit nicht der Bund für seine eigenen aus
@@ -359,6 +364,7 @@ in Höhe der Überkompensation ebenfalls zurückzufordern.
 
 
 ## § 5 Inanspruchnahme und Rückzahlung von Mitteln
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000600000)
 
 (1) Die Länder nehmen die ihnen zugeteilten Mittel für sich und ihre
 beauftragten Stellen im Rahmen der Ansätze des Wirtschaftsplans des
@@ -378,17 +384,20 @@ jeweiligen Ausgabetiteln des Wirtschaftsplans des Fonds zu.
 
 
 ## § 6 Liquidität des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000700000)
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten
 sicherzustellen.
 
 
 ## § 7 Fondsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000800000)
 
 Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen.
 
 
 ## § 8 Staatliche Beihilfen
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE000900000)
 
 Soweit einzelne Hilfsmaßnahmen, die nach den Regelungen des
 Aufbauhilfefonds-Errichtungsgesetzes 2021 und dieser Rechtsverordnung
@@ -406,17 +415,20 @@ einzuholen.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 Absatz 5 Satz 2)
 
 ## Anlage Wirtschaftsplan des Sondervermögens „Aufbauhilfe 2021“
+[Direktlink](https://www.gesetze-im-internet.de/aufbhv_2021/BJNR421400021.html#BJNR421400021BJNE001200000)
 
 (Fundstelle: BGBl. I 2021, 4218 - 4221)
 

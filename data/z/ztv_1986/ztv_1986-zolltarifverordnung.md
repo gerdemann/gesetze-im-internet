@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ztv_1986/BJNR208960986.html#BJNR208960986BJNE000100307)
 
 Auf Grund des § 77 Abs. 1 Nr. 2 Buchst. c des Zollgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), der
@@ -30,6 +31,7 @@ Ernährung, Landwirtschaft und Forsten, auf Grund des § 77 Abs. 2 Nr.
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ztv_1986/BJNR208960986.html#BJNR208960986BJNE000201301)
 
 Zolltarifverordnung im Sinne des § 6 Abs. 1 des
 Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125) ist
@@ -38,16 +40,19 @@ Fassung.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ztv_1986/BJNR208960986.html#BJNR208960986BJNE000301301)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ztv_1986/BJNR208960986.html#BJNR208960986BJNE000400307)
 
 Diese Verordnung tritt am 1. Oktober 1986 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ztv_1986/BJNR208960986.html#BJNR208960986BJNE000500307)
 
 Der Bundesminister der Finanzen
 

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000100000)
 
 Die Bundesregierung verordnet auf Grund des § 23 Absatz 1 Satz 1 des
 Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
@@ -24,9 +25,11 @@ Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000300000)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb folgender Anlagen, in denen Wasser verrieselt oder
@@ -97,6 +100,7 @@ kann:
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000400000)
 
 Im Sinne dieser Verordnung ist
 
@@ -275,9 +279,11 @@ Im Sinne dieser Verordnung ist
 
 
 ## Abschnitt 2 - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000200000)
 
 
 ### § 3 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000500000)
 
 (1) Anlagen im Anwendungsbereich dieser Verordnung sind so auszulegen,
 zu errichten und zu betreiben, dass Verunreinigungen des Nutzwassers
@@ -384,9 +390,11 @@ Aerosole in die Umgebungsluft weitgehend vermieden wird.
 
 
 ## Abschnitt 3 - Anforderungen an den Betrieb von Verdunstungs- kühlanlagen und Nassabscheidern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000300000)
 
 
 ### § 4 Ermittlung des Referenzwertes, betriebsinterne Überprüfungen und Laboruntersuchungen in Verdunstungskühlanlagen und Nassabscheidern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000600000)
 
 (1) Nach der Inbetriebnahme oder der Wiederinbetriebnahme einer
 Verdunstungskühlanlage oder eines Nassabscheiders ist der Referenzwert
@@ -459,6 +467,7 @@ als Anlage zum Betriebstagebuch zu nehmen.
 
 
 ### § 5 Maßnahmen bei einem Anstieg der Konzentration der allgemeinen Koloniezahl
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000700000)
 
 (1) Ist aufgrund einer Laboruntersuchung nach § 4 Absatz 2 Nummer 2
 ein Anstieg der Konzentration der allgemeinen Koloniezahl um den
@@ -481,6 +490,7 @@ Betriebstagebuch zu dokumentieren.
 
 
 ### § 6 Maßnahmen bei einer Überschreitung der Prüfwerte in Verdunstungskühlanlagen und Nassabscheidern
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000800000)
 
 (1) Wird bei einer Laboruntersuchung nach § 4 Absatz 3 eine
 Überschreitung der in Anlage 1 genannten Prüfwerte 1 oder 2
@@ -536,9 +546,11 @@ wieder die Prüfintervalle nach § 4 Absatz 2 und 3.
 
 
 ## Abschnitt 4 - Anforderungen an den Betrieb von Kühltürmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000400000)
 
 
 ### § 7 Betriebsinterne Überprüfungen und Laboruntersuchungen in Kühltürmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE000900000)
 
 (1) Der Betreiber hat durch regelmäßige mindestens zweiwöchentliche
 betriebsinterne Überprüfungen chemischer, physikalischer oder
@@ -564,6 +576,7 @@ Untersuchungsbefund als Anlage zum Betriebstagebuch zu nehmen.
 
 
 ### § 8 Maßnahmen bei einer Überschreitung der Prüfwerte in Kühltürmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001000000)
 
 (1) Wird bei einer Laboruntersuchung nach § 7 Absatz 2 eine
 Überschreitung des in Anlage 1 genannten Prüfwertes 2 festgestellt,
@@ -597,9 +610,11 @@ deren Durchführung unverzüglich im Betriebstagebuch zu dokumentieren.
 
 
 ## Abschnitt 5 - Anforderungen bei Überschreitung der Maßnahmen- werte oder bei Störung des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000500000)
 
 
 ### § 9 Maßnahmen bei einer Überschreitung der Maßnahmenwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001100000)
 
 (1) Wird bei einer Laboruntersuchung nach § 4 Absatz 3 oder § 7 Absatz
 2 eine Überschreitung der in Anlage 1 genannten Maßnahmenwerte
@@ -648,6 +663,7 @@ dokumentieren.
 
 
 ### § 10 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001200000)
 
 Wird bei einer Laboruntersuchung eine Überschreitung der in Anlage 1
 genannten Maßnahmenwerte festgestellt, hat der Betreiber die
@@ -666,6 +682,7 @@ unberührt.
 
 
 ### § 11 Störungen des Betriebs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001300000)
 
 Können Anforderungen an den Betrieb einer Anlage im Anwendungsbereich
 dieser Verordnung aufgrund oder infolge eines technischen Defekts
@@ -687,9 +704,11 @@ Betriebstagebuch zu dokumentieren.
 
 
 ## Abschnitt 6 - Anforderungen an die Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000600000)
 
 
 ### § 12 Betriebstagebuch
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001400000)
 
 (1) Der Betreiber einer Anlage hat zur Überprüfung des ordnungsgemäßen
 Anlagenbetriebs ein Betriebstagebuch zu führen, in das unverzüglich
@@ -709,6 +728,7 @@ fünf Jahre aufzubewahren.
 
 
 ### § 13 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001501000)
 
 (1) Der Betreiber einer Neuanlage hat diese spätestens einen Monat
 nach der Erstbefüllung mit Nutzwasser der zuständigen Behörde gemäß
@@ -736,6 +756,7 @@ Behörde anzuzeigen.
 
 
 ### § 14 Überprüfung der Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001600000)
 
 (1) Der Betreiber hat nach der Inbetriebnahme regelmäßig alle fünf
 Jahre von
@@ -794,9 +815,11 @@ Genehmigung festlegen.
 
 
 ## Abschnitt 7 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000700000)
 
 
 ### § 15 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001700000)
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen
 von den Anforderungen dieser Verordnung, ausgenommen die in Anlage 1
@@ -830,6 +853,7 @@ ausgeschlossen werden kann.
 
 
 ### § 16 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001800000)
 
 (1) Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
@@ -843,6 +867,7 @@ Verordnung hinausgehen, sind diese weiterhin maßgeblich.
 
 
 ### § 17 Informationsformate und Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE001900000)
 
 Die zuständige oberste Landesbehörde oder die nach Landesrecht
 bestimmte Behörde kann vorschreiben, dass der Betreiber für
@@ -852,9 +877,11 @@ Format und den elektronischen Weg zu nutzen hat.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNG000800000)
 
 
 ### § 18 Zugänglichkeit und Gleichwertigkeit von Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002000000)
 
 Die in § 2 genannten ISO-, DIN-Normen und VDI-Richtlinien sind in der
 Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt und
@@ -862,6 +889,7 @@ bei der Beuth Verlag GmbH, Berlin, zu beziehen.
 
 
 ### § 19 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002100000)
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -938,6 +966,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 20 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002200000)
 
 Diese Verordnung tritt einen Monat nach der Verkündung in Kraft.
 Abweichend von Satz 1 tritt § 13 zwölf Monate nach Verkündung der
@@ -945,12 +974,14 @@ Verordnung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu den §§ 3, 4, 6, 8 bis 10, zu Anlage 3 und Anlage 4)
 
 ### Anlage 1 Prüfwerte und Maßnahmenwerte für die Konzentration von Legionellen im Nutzwasser
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002400000)
 
 (Fundstelle: BGBl. I 2017, 2387)
 
@@ -998,6 +1029,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 3 Absatz 6)
 
 ### Anlage 2 Maßnahmen vor Inbetriebnahme/Wiederinbetriebnahme
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002500000)
 
 (Fundstelle: BGBl. I 2017, 2388)
 
@@ -1272,6 +1304,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 3 (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002600000)
 
 (Fundstelle: BGBl. I 2017, 2389)
 
@@ -1362,6 +1395,7 @@ Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 4 (zu § 12 und § 13)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_42/BJNR237900017.html#BJNR237900017BJNE002701000)
 
 (Fundstelle: BGBl. I 2017, 2390)
 

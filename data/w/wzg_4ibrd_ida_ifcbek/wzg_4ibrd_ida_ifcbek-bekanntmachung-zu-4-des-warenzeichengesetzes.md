@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ibrd_ida_ifcbek/BJNR023520980.html#BJNR023520980BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird
@@ -35,11 +36,13 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ibrd_ida_ifcbek/BJNR023520980.html#BJNR023520980BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ibrd_ida_ifcbek/BJNR023520980.html#BJNR023520980BJNE000200303)
 
 Ergänzung der Bezeichnungen, Abkürzungen und Kennzeichen der
 Internationalen Bank für Wiederaufbau und Entwicklung
@@ -51,6 +54,7 @@ Fundstelle: BGBl. I 1980, 2352)
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ibrd_ida_ifcbek/BJNR023520980.html#BJNR023520980BJNE000300303)
 
 Fundstelle: BGBl. I 1980, 2353)
 Ergänzung der Bezeichnungen, Abkürzungen und Kennzeichen der
@@ -60,6 +64,7 @@ vom 12. September 1963, BGBl. I S. 781):
 ![bgbl1_1980_j2353_0010.jpg](bgbl1_1980_j2353_0010.jpg)
 
 ## Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4ibrd_ida_ifcbek/BJNR023520980.html#BJNR023520980BJNE000400303)
 
 Fundstelle: BGBl. I 1980, 2353)
 Ergänzung der Bezeichnungen, Abkürzungen und Kennzeichen der

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000100000)
 
 Auf Grund des § 79 Absatz 2 Satz 1 in Verbindung mit Absatz 1 des
 Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
@@ -24,6 +25,7 @@ Soldatenentschädigungsgesetzes vom 20. August 2021 (BGBl. I S. 3932,
 
 
 ## § 1 Amtliche Statistik
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000300000)
 
 (1) Das Bundesamt für das Personalmanagement der Bundeswehr erstellt
 eine amtliche Statistik über
@@ -47,6 +49,7 @@ veröffentlicht die amtliche Statistik in geeigneter Form.
 
 
 ## § 2 Zu erhebende Daten
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000400000)
 
 Zur Erstellung der amtlichen Statistik werden folgende Daten erhoben:
 
@@ -74,6 +77,7 @@ Zur Erstellung der amtlichen Statistik werden folgende Daten erhoben:
 
 
 ## § 3 Erhebung, Übermittlung und Nutzung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000500000)
 
 (1) Die Daten werden von den nach § 70 des
 Soldatenentschädigungsgesetzes für die Durchführung der
@@ -88,12 +92,14 @@ Bundeswehr ausschließlich für statistische Zwecke genutzt werden.
 
 
 ## § 4 Stichtag für die Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000600000)
 
 Stichtag für die Erhebungen ist der 1. Januar jeden Jahres, beginnend
 mit dem 1. Januar 2025.
 
 
 ## § 5 Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000700000)
 
 Die nach § 3 Absatz 2 übermittelten Daten werden beim Bundesamt für
 das Personalmanagement der Bundeswehr zwei Jahre nach Ablauf des
@@ -101,6 +107,7 @@ Kalenderjahres, indem sie übermittelt wurden, gelöscht.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/segstatv/BJNR0C50A0024.html#BJNR0C50A0024BJNE000800000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 

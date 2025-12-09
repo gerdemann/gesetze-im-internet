@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Gegenstand und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000100000)
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr.
 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar
@@ -38,12 +39,14 @@ Februar 2018 nicht anzuwenden.
 
 
 ## § 2 Aufgaben des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000200000)
 
 Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet
 des Kraftomnibusverkehrs.
 
 
 ## § 3 Zuständige Behörde, Einlegung der Beschwerde beim Beförderer
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000300000)
 
 (1) Zuständige Behörde für die Durchsetzung der Verordnung (EU) Nr.
 181/2011 ist das Eisenbahn-Bundesamt.
@@ -55,6 +58,7 @@ Unterabsatz 2 der Verordnung (EU) Nr. 181/2011.
 
 
 ## § 4 Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000400000)
 
 (1) Soweit es zur Durchführung der Verordnung (EU) Nr. 181/2011
 erforderlich ist, kann die zuständige Behörde die notwendigen
@@ -124,6 +128,7 @@ durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu
 
 
 ## § 5 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000500000)
 
 Beförderer, ausführende Beförderer, Fahrscheinverkäufer,
 Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber, die nach
@@ -147,6 +152,7 @@ Personen die in Betracht kommenden Räume zu öffnen.
 
 
 ## § 6 Schlichtungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000602124)
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im
 Kraftomnibusverkehr kann der Fahrgast eine geeignete
@@ -202,6 +208,7 @@ nach dem Verbraucherstreitbeilegungsgesetz erfüllen.
 
 
 ## § 7 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000701305)
 
 Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine
 individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz,
@@ -209,6 +216,7 @@ auf Grund dieses Gesetzes oder nach der Verordnung (EU) Nr. 181/2011.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000801305)
 
 (1) Zur Durchsetzung der Fahrgastrechte im Kraftomnibusverkehr nach
 der Verordnung (EU) Nr. 181/2011 wird das Bundesministerium für
@@ -241,6 +249,7 @@ Rahmensätze vorzusehen.
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/eu-fahrgrbusg/BJNR254710013.html#BJNR254710013BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union

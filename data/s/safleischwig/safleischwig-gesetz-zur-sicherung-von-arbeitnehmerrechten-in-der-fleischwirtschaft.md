@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000101126)
 
 Ziele des Gesetzes sind die Sicherung von Rechten und Ansprüchen der
 Arbeitnehmerinnen und Arbeitnehmer, der Arbeits- und Gesundheitsschutz
@@ -29,6 +30,7 @@ Nachunternehmern in der Fleischwirtschaft.
 
 
 ## § 2 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000202126)
 
 (1) Dieses Gesetz gilt für die Fleischwirtschaft. Zur
 Fleischwirtschaft im Sinne dieses Gesetzes gehören Betriebe im Sinne
@@ -64,6 +66,7 @@ Fleischwirtschaft.
 
 
 ## § 3 Haftung für Sozialversicherungsbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000301126)
 
 (1) § 28e Absatz 3a, Absatz 3b Satz 1, Absatz 3c Satz 1, Absatz 3e,
 Absatz 3f Satz 1 und 2 und Absatz 4 des Vierten Buches
@@ -85,6 +88,7 @@ der Fleischwirtschaft.
 
 
 ## § 4 Arbeitsmittel, Schutzkleidung und persönliche Schutzausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000401126)
 
 (1) Der Arbeitgeber hat Arbeitnehmerinnen und Arbeitnehmern
 Arbeitsmittel, die aus Hygienegründen oder Gründen der
@@ -99,6 +103,7 @@ halten, ist unwirksam.
 
 
 ## § 5 Berechnung und Zahlung des Arbeitsentgelts, Aufrechnungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000500000)
 
 (1) Das Arbeitsentgelt ist in Euro zu berechnen und auszuzahlen.
 
@@ -107,6 +112,7 @@ Arbeitsentgelts ist unzulässig.
 
 
 ## § 6 Erstellen von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000601126)
 
 (1) Die Pflichten zum Erstellen von Dokumenten nach § 17 Absatz 1 des
 Mindestlohngesetzes, § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes
@@ -148,6 +154,7 @@ hierfür erforderlichen innerbetrieblichen Wegezeiten benötigt für
 
 
 ## § 6a Einschränkungen des Einsatzes von Fremdpersonal
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000802126)
 
 (1) Ein Unternehmer muss einen Betrieb oder, im Fall des Absatzes 3
 Satz 2, eine übergreifende Organisation, in dem oder in der
@@ -181,6 +188,7 @@ Fleischverarbeitung inhaltlich oder zeitlich im Wesentlichen vorgibt.
 
 
 ## § 6b Prüfung und Befugnisse der Behörden der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000902126)
 
 (1) Die Prüfung der Einhaltung der Vorgaben des § 6a obliegt den
 Behörden der Zollverwaltung.
@@ -211,6 +219,7 @@ Maßgabe, dass
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE000703126)
 
 (1) Ordnungswidrig handelt, wer einem anderen die Nutzung eines
 Betriebes oder einer übergreifenden Organisation, in dem oder in der
@@ -288,6 +297,7 @@ Gesetzes über Ordnungswidrigkeiten sind
 
 
 ## § 8 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/safleischwig/BJNR257200017.html#BJNR257200017BJNE001000126)
 
 Das Bundesministerium für Arbeit und Soziales wird die Regelung zur
 Einschränkung des Einsatzes von Fremdpersonal in der Fleischwirtschaft

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000101307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001010311)
 
 (1) Die Grundbücher, die auch als Loseblattgrundbuch geführt werden
 können, werden von den Amtsgerichten geführt (Grundbuchämter). Diese
@@ -59,6 +61,7 @@ sind.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001103311)
 
 (1) Die Grundbücher sind für Bezirke einzurichten.
 
@@ -79,6 +82,7 @@ benachbarten Grundstück oder einem Teil davon zusammengefasst wird.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001202307)
 
 (1) Jedes Grundstück erhält im Grundbuch eine besondere Stelle
 (Grundbuchblatt). Das Grundbuchblatt ist für das Grundstück als das
@@ -135,6 +139,7 @@ auf die übrigen Eintragungen zu verweisen.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001304160)
 
 (1) Über mehrere Grundstücke desselben Eigentümers, deren Grundbücher
 von demselben Grundbuchamt geführt werden, kann ein gemeinschaftliches
@@ -153,6 +158,7 @@ Gerichtsbarkeit zu bestimmen.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001404311)
 
 (1) Ein Grundstück soll nur dann mit einem anderen Grundstück
 vereinigt werden, wenn hiervon Verwirrung nicht zu besorgen ist. Eine
@@ -185,6 +191,7 @@ Bedürfnis ist glaubhaft zu machen; § 29 gilt hierfür nicht.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001503311)
 
 (1) Ein Grundstück soll nur dann einem anderen Grundstück als
 Bestandteil zugeschrieben werden, wenn hiervon Verwirrung nicht zu
@@ -198,6 +205,7 @@ Grundbuch über das Hauptgrundstück führt.
 
 
 ### § 6a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013701307)
 
 (1) Dem Antrag auf Eintragung eines Erbbaurechts an mehreren
 Grundstücken oder Erbbaurechten soll unbeschadet des Satzes 2 nur
@@ -218,6 +226,7 @@ als auch an einem anderen Erbbaurecht bestellt werden soll.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001602311)
 
 (1) Soll ein Grundstücksteil mit einem Recht belastet werden, so ist
 er von dem Grundstück abzuschreiben und als selbständiges Grundstück
@@ -244,11 +253,13 @@ durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001702307)
 
 (weggefallen)
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001801307)
 
 (1) Rechte, die dem jeweiligen Eigentümer eines Grundstücks zustehen,
 sind auf Antrag auch auf dem Blatt dieses Grundstücks zu vermerken.
@@ -264,6 +275,7 @@ belasteten Grundstücks von Amts wegen ersichtlich zu machen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE001905311)
 
 (1) Grundbücher und Urkunden, auf die eine Eintragung sich gründet
 oder Bezug nimmt, hat das Grundbuchamt dauernd aufzubewahren. Eine
@@ -283,6 +295,7 @@ führenden Amtsgerichts enthalten ist.
 
 
 ### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013803311)
 
 (1) Geschlossene Grundbücher können als Wiedergabe auf einem
 Bildträger oder auf anderen Datenträgern aufbewahrt werden, wenn
@@ -309,6 +322,7 @@ bestimmen.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002002307)
 
 Eine Eintragung in das Grundbuch ist nicht aus dem Grunde unwirksam,
 weil derjenige, der sie bewirkt hat, von der Mitwirkung kraft Gesetzes
@@ -316,6 +330,7 @@ ausgeschlossen ist.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002107125)
 
 (1) Die Einsicht des Grundbuchs ist jedem gestattet, der ein
 berechtigtes Interesse darlegt. Das gleiche gilt von Urkunden, auf die
@@ -358,6 +373,7 @@ nach Satz 2 gewährt wird.
 
 
 ### § 12a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013902311)
 
 (1) Die Grundbuchämter dürfen auch ein Verzeichnis der Eigentümer und
 der Grundstücke sowie mit Genehmigung der Landesjustizverwaltung
@@ -389,6 +405,7 @@ Daten bekanntgegeben werden, ist ein Protokoll zu führen. § 12 Absatz
 
 
 ### § 12b
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014002160)
 
 (1) Nach der Übertragung von geschlossenen Grundbüchern und Grundakten
 auf einen Bild- oder sonstigen Datenträger in einem Verfahren nach §
@@ -404,6 +421,7 @@ grundbuchführenden Stellen aufbewahrt werden, gilt § 12 entsprechend.
 
 
 ### § 12c
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014105311)
 
 (1) Der Urkundsbeamte der Geschäftsstelle entscheidet über:
 
@@ -485,6 +503,7 @@ Sitz hat.
 
 
 ### § 12d Anwendung der Verordnung (EU) 2016/679
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017900125)
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
 Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
@@ -528,10 +547,12 @@ enthaltenen personenbezogenen Daten keine Anwendung.
 
 
 ## Zweiter Abschnitt - Eintragungen in das Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000201307)
 
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002204125)
 
 (1) Eine Eintragung soll, soweit nicht das Gesetz etwas anderes
 vorschreibt, nur auf Antrag erfolgen. Antragsberechtigt ist jeder,
@@ -559,6 +580,7 @@ der nach Satz 1 in Betracht kommt.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002301307)
 
 Die Berichtigung des Grundbuchs durch Eintragung eines Berechtigten
 darf auch von demjenigen beantragt werden, welcher auf Grund eines
@@ -568,6 +590,7 @@ von der vorgängigen Berichtigung des Grundbuchs abhängt.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002403311)
 
 (1) Für die Eintragungsbewilligung und die sonstigen Erklärungen, die
 zu der Eintragung erforderlich sind und in öffentlicher oder
@@ -589,6 +612,7 @@ von einer öffentlichen Behörde abgegeben wird.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002501307)
 
 (1) Einem Eintragungsantrag, dessen Erledigung an einen Vorbehalt
 geknüpft wird, soll nicht stattgegeben werden.
@@ -599,6 +623,7 @@ andere erfolgen soll.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002601307)
 
 Werden mehrere Eintragungen beantragt, durch die dasselbe Recht
 betroffen wird, so darf die später beantragte Eintragung nicht vor der
@@ -606,6 +631,7 @@ Erledigung des früher gestellten Antrags erfolgen.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002701307)
 
 (1) Steht einer beantragten Eintragung ein Hindernis entgegen, so hat
 das Grundbuchamt entweder den Antrag unter Angabe der Gründe
@@ -624,12 +650,14 @@ zurückgewiesen wird.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002801307)
 
 Eine Eintragung erfolgt, wenn derjenige sie bewilligt, dessen Recht
 von ihr betroffen wird.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE002901307)
 
 Im Falle der Auflassung eines Grundstücks sowie im Falle der
 Bestellung, Änderung des Inhalts oder Übertragung eines Erbbaurechts
@@ -638,6 +666,7 @@ Berechtigten und des anderen Teils erklärt ist.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003001307)
 
 Steht ein Recht, das durch die Eintragung betroffen wird, dem
 jeweiligen Eigentümer eines Grundstücks zu, so bedarf es der
@@ -647,6 +676,7 @@ nur dann, wenn das Recht auf dem Blatt des Grundstücks vermerkt ist.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003101307)
 
 (1) Zur Berichtigung des Grundbuchs bedarf es der Bewilligung nach §
 19 nicht, wenn die Unrichtigkeit nachgewiesen wird. Dies gilt
@@ -660,6 +690,7 @@ des Eigentümers oder des Erbbauberechtigten erfolgen.
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003201307)
 
 (1) Ein Recht, das auf die Lebenszeit des Berechtigten beschränkt ist,
 darf nach dessen Tod, falls Rückstände von Leistungen nicht
@@ -677,6 +708,7 @@ des Rechtes der Nachweis des Todes des Berechtigten genügen soll.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003301307)
 
 Die Vorschriften des § 23 sind entsprechend anzuwenden, wenn das Recht
 mit der Erreichung eines bestimmten Lebensalters des Berechtigten oder
@@ -685,6 +717,7 @@ Ereignisses erlischt.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003402307)
 
 Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen
 Verfügung eingetragen, so bedarf es zur Löschung nicht der Bewilligung
@@ -697,6 +730,7 @@ Vormerkung oder ein Widerspruch eingetragen ist.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003501307)
 
 (1) Soll die Übertragung einer Hypothek, Grundschuld oder
 Rentenschuld, über die ein Brief erteilt ist, eingetragen werden, so
@@ -710,6 +744,7 @@ haftet, eingetragen werden soll.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003601307)
 
 Eine Hypothek, eine Grundschuld oder eine Rentenschuld darf nur mit
 Zustimmung des Eigentümers des Grundstücks gelöscht werden. Für eine
@@ -718,6 +753,7 @@ erforderlich, wenn die Unrichtigkeit nachgewiesen wird.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003703311)
 
 In der Eintragungsbewilligung oder, wenn eine solche nicht
 erforderlich ist, in dem Eintragungsantrag ist das Grundstück
@@ -735,6 +771,7 @@ bestehen, wieder eingeschränkt werden.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003802311)
 
 (1) Eine Eintragung soll nur vorgenommen werden, wenn die
 Eintragungsbewilligung oder die sonstigen zu der Eintragung
@@ -753,12 +790,14 @@ werden.
 
 
 ### § 29a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE003901307)
 
 Die Voraussetzungen des § 1179 Nr. 2 des Bürgerlichen Gesetzbuchs sind
 glaubhaft zu machen; § 29 gilt hierfür nicht.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004001307)
 
 Für den Eintragungsantrag sowie für die Vollmacht zur Stellung eines
 solchen gelten die Vorschriften des § 29 nur, wenn durch den Antrag
@@ -767,6 +806,7 @@ soll.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004102307)
 
 Eine Erklärung, durch die ein Eintragungsantrag zurückgenommen wird,
 bedarf der in § 29 Abs. 1 Satz 1 und Abs. 3 vorgeschriebenen Form.
@@ -777,6 +817,7 @@ wird, entsprechend.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004204125)
 
 (1) Die im Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts-
 oder Vereinsregister eingetragenen Vertretungsberechtigungen,
@@ -796,10 +837,12 @@ Registerblatt anzugeben.
 
 
 ### § 33 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004304125)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004403311)
 
 Eine durch Rechtsgeschäft erteilte Vertretungsmacht kann auch durch
 eine Bescheinigung nach § 21 Absatz 3 der Bundesnotarordnung
@@ -807,6 +850,7 @@ nachgewiesen werden.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004504311)
 
 (1) Der Nachweis der Erbfolge kann nur durch einen Erbschein oder ein
 Europäisches Nachlasszeugnis geführt werden. Beruht jedoch die
@@ -839,6 +883,7 @@ Statt zugelassen werden.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004605311)
 
 (1) Soll bei einem zum Nachlass oder zu dem Gesamtgut einer
 Gütergemeinschaft gehörenden Grundstück oder Erbbaurecht einer der
@@ -888,6 +933,7 @@ Auflassung bleiben unberührt.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004702311)
 
 Die Vorschriften des § 36 sind entsprechend anzuwenden, wenn bei einer
 Hypothek, Grundschuld oder Rentenschuld, die zu einem Nachlaß oder zu
@@ -896,6 +942,7 @@ als neuer Gläubiger eingetragen werden soll.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004801307)
 
 In den Fällen, in denen nach gesetzlicher Vorschrift eine Behörde
 befugt ist, das Grundbuchamt um eine Eintragung zu ersuchen, erfolgt
@@ -903,6 +950,7 @@ die Eintragung auf Grund des Ersuchens der Behörde.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE004901307)
 
 (1) Eine Eintragung soll nur erfolgen, wenn die Person, deren Recht
 durch sie betroffen wird, als der Berechtigte eingetragen ist.
@@ -914,6 +962,7 @@ nach § 1155 des Bürgerlichen Gesetzbuchs nachweist.
 
 
 ### § 40
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005001307)
 
 (1) Ist die Person, deren Recht durch eine Eintragung betroffen wird,
 Erbe des eingetragenen Berechtigten, so ist die Vorschrift des § 39
@@ -930,6 +979,7 @@ den Erben wirksam ist.
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005102160)
 
 (1) Bei einer Hypothek, über die ein Brief erteilt ist, soll eine
 Eintragung nur erfolgen, wenn der Brief vorgelegt wird. Für die
@@ -950,6 +1000,7 @@ Vorlegung des Ausschlußurteils.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005201307)
 
 Die Vorschriften des § 41 sind auf die Grundschuld und die
 Rentenschuld entsprechend anzuwenden. Ist jedoch das Recht für den
@@ -961,6 +1012,7 @@ Entscheidung begründet wird.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005301307)
 
 (1) Bei einer Hypothek für die Forderung aus einer Schuldverschreibung
 auf den Inhaber, aus einem Wechsel oder einem anderen Papier, das
@@ -975,6 +1027,7 @@ gerichtlichen Entscheidung bewirkt werden soll.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005403311)
 
 (1) Jede Eintragung soll den Tag, an welchem sie erfolgt ist, angeben.
 Die Eintragung soll, sofern nicht nach § 12c Abs. 2 Nr. 2 bis 4 der
@@ -1015,6 +1068,7 @@ von dem ursprünglichen Text der Eintragung abgewichen werden.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005501307)
 
 (1) Sind in einer Abteilung des Grundbuchs mehrere Eintragungen zu
 bewirken, so erhalten sie die Reihenfolge, welche der Zeitfolge der
@@ -1032,6 +1086,7 @@ Antragstellern abweichend bestimmt ist.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005601307)
 
 (1) Die Löschung eines Rechtes oder einer Verfügungsbeschränkung
 erfolgt durch Eintragung eines Löschungsvermerks.
@@ -1043,6 +1098,7 @@ als gelöscht.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005703125)
 
 (1) Soll ein Recht für mehrere gemeinschaftlich eingetragen werden, so
 soll die Eintragung in der Weise erfolgen, daß entweder die Anteile
@@ -1054,6 +1110,7 @@ eingetragen werden, wenn sie im Gesellschaftsregister eingetragen ist.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005801307)
 
 (1) Werden mehrere Grundstücke mit einem Recht belastet, so ist auf
 dem Blatt jedes Grundstücks die Mitbelastung der übrigen von Amts
@@ -1067,6 +1124,7 @@ vermerken.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE005901307)
 
 Werden Dienstbarkeiten und Reallasten als Leibgedinge, Leibzucht,
 Altenteil oder Auszug eingetragen, so bedarf es nicht der Bezeichnung
@@ -1075,6 +1133,7 @@ genommen wird.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006001307)
 
 (1) Bei der Eintragung einer Hypothek für Teilschuldverschreibungen
 auf den Inhaber genügt es, wenn der Gesamtbetrag der Hypothek unter
@@ -1087,6 +1146,7 @@ eingetragen und das Recht in Teile zerlegt werden soll.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006101307)
 
 Bei der Eintragung eines Vorerben ist zugleich das Recht des Nacherben
 und, soweit der Vorerbe von den Beschränkungen seines Verfügungsrechts
@@ -1094,6 +1154,7 @@ befreit ist, auch die Befreiung von Amts wegen einzutragen.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006201307)
 
 Ist ein Testamentsvollstrecker ernannt, so ist dies bei der Eintragung
 des Erben von Amts wegen miteinzutragen, es sei denn, daß der
@@ -1102,6 +1163,7 @@ unterliegt.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006301307)
 
 (1) Ergibt sich, daß das Grundbuchamt unter Verletzung gesetzlicher
 Vorschriften eine Eintragung vorgenommen hat, durch die das Grundbuch
@@ -1117,6 +1179,7 @@ Grundschuld- oder Rentenschuldbrief auf den Inhaber ausgestellt ist.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006401307)
 
 Die auf einem Grundstück ruhenden öffentlichen Lasten als solche sind
 von der Eintragung in das Grundbuch ausgeschlossen, es sei denn, daß
@@ -1124,6 +1187,7 @@ ihre Eintragung gesetzlich besonders zugelassen oder angeordnet ist.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006503307)
 
 (1) Jede Eintragung soll dem den Antrag einreichenden Notar, dem
 Antragsteller und dem eingetragenen Eigentümer sowie allen aus dem
@@ -1175,6 +1239,7 @@ das Grundbuch bleiben unberührt.
 
 
 ### § 55a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014201307)
 
 (1) Enthält ein beim Grundbuchamt eingegangenes Schriftstück Anträge
 oder Ersuchen, für deren Erledigung neben dem angegangenen
@@ -1191,6 +1256,7 @@ bekanntzugeben.
 
 
 ### § 55b
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014301307)
 
 Soweit das Grundbuchamt auf Grund von Rechtsvorschriften im
 Zusammenhang mit Grundbucheintragungen Mitteilungen an Gerichte oder
@@ -1199,10 +1265,12 @@ unterrichtet werden. Das gleiche gilt im Falle des § 55a.
 
 
 ## Dritter Abschnitt - Hypotheken-, Grundschuld-, Rentenschuldbrief
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000301307)
 
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006602307)
 
 (1) Der Hypothekenbrief wird von dem Grundbuchamt erteilt. Er muß die
 Bezeichnung als Hypothekenbrief enthalten, den Geldbetrag der Hypothek
@@ -1217,6 +1285,7 @@ Justizangestellter unterschreiben.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006701307)
 
 (1) Der Hypothekenbrief soll die Nummer des Grundbuchblatts und den
 Inhalt der die Hypothek betreffenden Eintragungen enthalten. Das
@@ -1232,6 +1301,7 @@ Ergänzung schon nach anderen Vorschriften vorzunehmen ist.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006801307)
 
 (1) Ist eine Urkunde über die Forderung, für welche eine Hypothek
 besteht, ausgestellt, so soll die Urkunde mit dem Hypothekenbrief
@@ -1246,6 +1316,7 @@ eine darauf gerichtete Erklärung des Eigentümers.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE006902307)
 
 (1) Über eine Gesamthypothek soll nur ein Hypothekenbrief erteilt
 werden. Er ist nur von einer für die Führung des Grundbuchs
@@ -1261,6 +1332,7 @@ erteilen; die Briefe sind miteinander zu verbinden.
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007001307)
 
 (1) Der Hypothekenbrief ist dem Eigentümer des Grundstücks, im Falle
 der nachträglichen Erteilung dem Gläubiger auszuhändigen.
@@ -1271,6 +1343,7 @@ anzuwenden.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007102307)
 
 (1) Ein Teilhypothekenbrief kann von dem Grundbuchamt oder einem Notar
 hergestellt werden.
@@ -1293,6 +1366,7 @@ Brief vermerkt werden.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007202307)
 
 (1) Eintragungen, die bei der Hypothek erfolgen, sind von dem
 Grundbuchamt auf dem Hypothekenbrief zu vermerken; der Vermerk ist mit
@@ -1310,6 +1384,7 @@ dem Brief zu vermerken.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007301307)
 
 Wird nach der Erteilung eines Hypothekenbriefs mit der Hypothek noch
 ein anderes, bei demselben Grundbuchamt gebuchtes Grundstück belastet,
@@ -1320,12 +1395,14 @@ anderen Grundstücks nach § 57 zu ergänzen.
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007401307)
 
 Im Falle der Verteilung einer Gesamthypothek auf die einzelnen
 Grundstücke ist für jedes Grundstück ein neuer Brief zu erteilen.
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007501307)
 
 (1) Tritt nach § 1177 Abs. 1 oder nach § 1198 des Bürgerlichen
 Gesetzbuchs eine Grundschuld oder eine Rentenschuld an die Stelle der
@@ -1340,6 +1417,7 @@ andere Forderung gesetzt wird.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007601307)
 
 Stehen einem Gläubiger mehrere Hypotheken zu, die gleichen Rang haben
 oder im Rang unmittelbar aufeinanderfolgen, so ist ihm auf seinen
@@ -1349,6 +1427,7 @@ Hypotheken umfaßt.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007702160)
 
 Einem Antrag des Berechtigten auf Erteilung eines neuen Briefes ist
 stattzugeben, wenn der bisherige Brief oder in den Fällen der §§ 1162,
@@ -1357,6 +1436,7 @@ vorgelegt wird.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007801307)
 
 (1) Wird ein neuer Brief erteilt, so hat er die Angabe zu enthalten,
 daß er an die Stelle des bisherigen Briefes tritt.
@@ -1369,6 +1449,7 @@ Gläubiger in Betracht kommen, sind auf den neuen Brief zu übertragen.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE007901307)
 
 Wird eine Hypothek gelöscht, so ist der Brief unbrauchbar zu machen;
 das gleiche gilt, wenn die Erteilung des Briefes über eine Hypothek
@@ -1380,6 +1461,7 @@ verbinden ist, zurückzugeben.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008001307)
 
 (1) Die Vorschriften der §§ 56 bis 69 sind auf den Grundschuldbrief
 und den Rentenschuldbrief entsprechend anzuwenden. Der
@@ -1391,10 +1473,12 @@ Brief herzustellen.
 
 
 ## Vierter Abschnitt - Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000401307)
 
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008101307)
 
 (1) Gegen die Entscheidungen des Grundbuchamts findet das Rechtsmittel
 der Beschwerde statt.
@@ -1406,12 +1490,14 @@ Löschung vorzunehmen.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008202160)
 
 Über die Beschwerde entscheidet das Oberlandesgericht, in dessen
 Bezirk das Grundbuchamt seinen Sitz hat.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008304160)
 
 (1) Die Beschwerde kann bei dem Grundbuchamt oder bei dem
 Beschwerdegericht eingelegt werden.
@@ -1427,17 +1513,20 @@ freiwilligen Gerichtsbarkeit.
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008401307)
 
 Die Beschwerde kann auf neue Tatsachen und Beweise gestützt werden.
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008501307)
 
 Erachtet das Grundbuchamt die Beschwerde für begründet, so hat es ihr
 abzuhelfen.
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008601307)
 
 (1) Das Beschwerdegericht kann vor der Entscheidung eine einstweilige
 Anordnung erlassen, insbesondere dem Grundbuchamt aufgeben, eine
@@ -1453,12 +1542,14 @@ wird.
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008701307)
 
 Die Entscheidung des Beschwerdegerichts ist mit Gründen zu versehen
 und dem Beschwerdeführer mitzuteilen.
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008805160)
 
 (1) Gegen einen Beschluss des Beschwerdegerichts ist die
 Rechtsbeschwerde statthaft, wenn sie das Beschwerdegericht in dem
@@ -1484,16 +1575,19 @@ Gerichtsbarkeit entsprechende Anwendung.
 
 
 ### § 79
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE008903160)
 
 (weggefallen)
 
 
 ### § 80
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009002160)
 
 (weggefallen)
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009107311)
 
 (1) Über Beschwerden entscheidet bei den Oberlandesgerichten und dem
 Bundesgerichtshof ein Zivilsenat.
@@ -1520,14 +1614,17 @@ Verfahren beschränkt werden.
 
 
 ## Fünfter Abschnitt - Verfahren des Grundbuchamts in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000501307)
 
 
 
 ### I. - Grundbuchberichtigungszwang
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000601307)
 
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009203125)
 
 Ist das Grundbuch hinsichtlich der Eintragung des Eigentümers durch
 Rechtsübergang außerhalb des Grundbuchs unrichtig geworden, so soll
@@ -1540,6 +1637,7 @@ Gründe vorliegen.
 
 
 #### § 82a
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009301307)
 
 Liegen die Voraussetzungen des § 82 vor, ist jedoch das
 Berichtigungszwangsverfahren nicht durchführbar oder bietet es keine
@@ -1549,6 +1647,7 @@ Nachlaßgericht um Ermittlung des Erben des Eigentümers ersuchen.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009402311)
 
 Das Nachlaßgericht, das einen Erbschein oder ein Europäisches
 Nachlasszeugnis erteilt oder sonst die Erben ermittelt hat, soll, wenn
@@ -1564,10 +1663,12 @@ für eine Grundbuchberichtigung bestehen.
 
 
 ### II. - Löschung gegenstandsloser Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000701307)
 
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009502301)
 
 (1) Das Grundbuchamt kann eine Eintragung über ein Recht nach Maßgabe
 der folgenden Vorschriften von Amts wegen als gegenstandslos löschen.
@@ -1593,6 +1694,7 @@ Enteignungsvermerke und ähnliches.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009601307)
 
 (1) Das Grundbuchamt soll das Verfahren zur Löschung gegenstandsloser
 Eintragungen grundsätzlich nur einleiten, wenn besondere äußere
@@ -1608,6 +1710,7 @@ Entscheidung ist unanfechtbar.
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009701307)
 
 Hat ein Beteiligter die Einleitung des Löschungsverfahrens angeregt,
 so soll das Grundbuchamt die Entscheidung, durch die es die Einleitung
@@ -1616,6 +1719,7 @@ Gründen versehen.
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009801307)
 
 Die Eintragung ist zu löschen:
 
@@ -1637,6 +1741,7 @@ c)  wenn durch einen mit Gründen zu versehenden Beschluß rechtskräftig
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE009904160)
 
 (1) Das Grundbuchamt kann den Besitzer von Hypotheken-, Grundschuld-
 oder Rentenschuldbriefen sowie von Urkunden der in den §§ 1154, 1155
@@ -1665,6 +1770,7 @@ c)  der Feststellungsbeschluß (§ 87 Buchstabe c) kann auch dann, wenn die
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010001307)
 
 (1) Die Beschwerde (§ 71) gegen den Feststellungsbeschluß ist binnen
 einer Frist von zwei Wochen seit Zustellung des angefochtenen
@@ -1679,10 +1785,12 @@ Frist es einzulegen ist.
 
 
 ### III. - Klarstellung der Rangverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000801307)
 
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010101307)
 
 Das Grundbuchamt kann aus besonderem Anlaß, insbesondere bei
 Umschreibung unübersichtlicher Grundbücher, Unklarheiten und
@@ -1691,6 +1799,7 @@ Antrag eines Beteiligten beseitigen.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010201307)
 
 (1) Vor der Umschreibung eines unübersichtlichen Grundbuchblatts hat
 das Grundbuchamt zu prüfen, ob die Rangverhältnisse unklar oder
@@ -1708,6 +1817,7 @@ abgelehnt wird, ist nur dem Antragsteller bekanntzumachen.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010301307)
 
 (1) In dem Verfahren gelten als Beteiligte:
 
@@ -1735,6 +1845,7 @@ berührt wird.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010401307)
 
 Ist der im Grundbuch als Eigentümer oder Berechtigter Eingetragene
 nicht der Berechtigte, so hat er dies unverzüglich nach Zustellung des
@@ -1745,6 +1856,7 @@ zuzustellen.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010501307)
 
 (1) Das Grundbuchamt kann von Amts wegen Ermittlungen darüber
 anstellen, ob das Eigentum oder ein eingetragenes Recht dem als
@@ -1760,6 +1872,7 @@ Berechtigte ist, so gelten sämtliche Personen als Berechtigte.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010601307)
 
 (1) Wechselt im Laufe des Verfahrens die Person eines Berechtigten, so
 gilt der neue Berechtigte von dem Zeitpunkt ab, zu dem seine Person
@@ -1771,6 +1884,7 @@ wird, das von dem Verfahren berührt wird.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010702160)
 
 Ist die Person oder der Aufenthalt eines Beteiligten oder seines
 Vertreters unbekannt, so kann das Grundbuchamt dem Beteiligten für das
@@ -1779,6 +1893,7 @@ tritt an die Stelle des Betreuungsgerichts das Grundbuchamt.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010802307)
 
 (1) Wohnt ein Beteiligter nicht im Inland und hat er einen hier
 wohnenden Bevollmächtigten nicht bestellt, so kann das Grundbuchamt
@@ -1797,11 +1912,13 @@ Sendung als unbestellbar zurückkommt.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE010901307)
 
 Die öffentliche Zustellung ist unzulässig.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011001307)
 
 Das Grundbuchamt kann den Besitzer von Hypotheken-, Grundschuld- oder
 Rentenschuldbriefen sowie von Urkunden der in den §§ 1154, 1155 des
@@ -1810,6 +1927,7 @@ Urkunden anhalten.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011101307)
 
 Das Grundbuchamt hat die Beteiligten zu einem Verhandlungstermin über
 die Klarstellung der Rangverhältnisse zu laden. Die Ladung soll den
@@ -1818,6 +1936,7 @@ Hinweis enthalten, daß ungeachtet des Ausbleibens eines Beteiligten
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011201307)
 
 (1) Die Frist zwischen der Ladung und dem Termin soll mindestens zwei
 Wochen betragen.
@@ -1829,6 +1948,7 @@ zu werden, wenn dieser verkündet ist.
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011301307)
 
 (1) In dem Termin hat das Grundbuchamt zu versuchen, eine Einigung der
 Beteiligten auf eine klare Rangordnung herbeizuführen. Einigen sich
@@ -1842,6 +1962,7 @@ Vereinbarung gemäß umzuschreiben.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011401307)
 
 Einigen sich die Beteiligten nicht, so macht das Grundbuchamt ihnen
 einen Vorschlag für eine neue Rangordnung. Es kann hierbei eine
@@ -1850,6 +1971,7 @@ Herbeiführung einer klaren Rangordnung erforderlich ist, vorschlagen.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011501307)
 
 (1) Der Vorschlag ist den Beteiligten mit dem Hinweis zuzustellen, daß
 sie gegen ihn binnen einer Frist von einem Monat von der Zustellung ab
@@ -1863,6 +1985,7 @@ gewahrt, wenn die Erklärung innerhalb der Frist abgegeben ist.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011603160)
 
 (1) Einem Beteiligten, der ohne sein Verschulden verhindert war, die
 Frist (§ 104) einzuhalten, hat das Grundbuchamt auf seinen Antrag
@@ -1884,6 +2007,7 @@ Frist ein Jahr verstrichen ist.
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011701307)
 
 (1) Ist ein Rechtsstreit anhängig, der die Rangverhältnisse des
 Grundstücks zum Gegenstand hat, so ist das Verfahren auf Antrag eines
@@ -1898,6 +2022,7 @@ abhängt.
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011801307)
 
 Ist der Rechtsstreit erledigt, so setzt das Grundbuchamt das Verfahren
 insoweit fort, als es noch erforderlich ist, um eine klare Rangordnung
@@ -1905,6 +2030,7 @@ herbeizuführen.
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE011901307)
 
 (1) Nach dem Ablauf der Widerspruchsfrist stellt das Grundbuchamt
 durch Beschluß die neue Rangordnung fest, sofern nicht Anlaß besteht,
@@ -1917,6 +2043,7 @@ Beteiligten zuzustellen.
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012001307)
 
 Das Grundbuchamt kann jederzeit das Verfahren einstellen, wenn es sich
 von seiner Fortsetzung keinen Erfolg verspricht. Der
@@ -1924,6 +2051,7 @@ Einstellungsbeschluß ist unanfechtbar.
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012103160)
 
 (1) Hat das Grundbuchamt in dem Beschluß, durch den die neue
 Rangordnung festgestellt wird, über einen Widerspruch entschieden, so
@@ -1935,6 +2063,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit zulässig.
 
 
 #### § 111
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012201307)
 
 Ist die neue Rangordnung rechtskräftig festgestellt, so hat das
 Grundbuchamt das Grundbuch nach Maßgabe dieser Rangordnung
@@ -1942,12 +2071,14 @@ umzuschreiben.
 
 
 #### § 112
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012301307)
 
 Ist die neue Rangordnung (§ 102 Abs. 2, § 111) eingetragen, so tritt
 sie an die Stelle der bisherigen Rangordnung.
 
 
 #### § 113
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012401307)
 
 Wird die neue Rangordnung eingetragen (§ 102 Abs. 2, § 111) oder wird
 das Verfahren eingestellt (§ 109), so ist der Einleitungsvermerk zu
@@ -1955,12 +2086,14 @@ löschen.
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012501307)
 
 Die Kosten des Verfahrens erster Instanz verteilt das Grundbuchamt auf
 die Beteiligten nach billigem Ermessen.
 
 
 #### § 115
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012601307)
 
 Wird durch das Verfahren ein anhängiger Rechtsstreit erledigt, so
 trägt jede Partei die ihr entstandenen außergerichtlichen Kosten. Die
@@ -1968,10 +2101,12 @@ Gerichtskosten werden niedergeschlagen.
 
 
 ## Sechster Abschnitt - Anlegung von Grundbuchblättern
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG001001307)
 
 
 
 ### § 116
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014402311)
 
 (1) Für ein Grundstück, das ein Grundbuchblatt bei der Anlegung des
 Grundbuchs nicht erhalten hat, wird das Blatt unbeschadet des § 3 Abs.
@@ -1982,11 +2117,13 @@ nach den Vorschriften der §§ 118 bis 125.
 
 
 ### § 117 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014502311)
 
 -
 
 
 ### § 118
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014601307)
 
 Zur Feststellung des Eigentums an dem Grundstück hat das Grundbuchamt
 von Amts wegen die erforderlichen Ermittlungen anzustellen und die
@@ -1994,12 +2131,14 @@ geeigneten Beweise zu erheben.
 
 
 ### § 119
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014701307)
 
 Das Grundbuchamt kann zur Ermittlung des Berechtigten ein Aufgebot
 nach Maßgabe der §§ 120 und 121 erlassen.
 
 
 ### § 120
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014801307)
 
 In das Aufgebot sind aufzunehmen:
 
@@ -2026,6 +2165,7 @@ In das Aufgebot sind aufzunehmen:
 
 
 ### § 121
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE014902311)
 
 (1) Das Aufgebot ist an die für den Aushang von Bekanntmachungen des
 Grundbuchamts bestimmte Stelle anzuheften und einmal in dem für die
@@ -2049,6 +2189,7 @@ werden.
 
 
 ### § 122
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015001307)
 
 Das Grundbuchblatt darf, wenn ein Aufgebotsverfahren (§§ 120, 121)
 nicht stattgefunden hat, erst angelegt werden, nachdem in der
@@ -2059,6 +2200,7 @@ die Art der Bekanntmachung bestimmt das Grundbuchamt.
 
 
 ### § 123
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015101307)
 
 Als Eigentümer ist in das Grundbuch einzutragen:
 
@@ -2077,6 +2219,7 @@ Als Eigentümer ist in das Grundbuch einzutragen:
 
 
 ### § 124
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015201307)
 
 (1) Beschränkte dingliche Rechte am Grundstück oder sonstige
 Eigentumsbeschränkungen werden bei der Anlegung des Grundbuchblatts
@@ -2095,6 +2238,7 @@ werden kann, nach der Reihenfolge ihrer Anmeldung einzutragen.
 
 
 ### § 125
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015301307)
 
 Die Beschwerde gegen die Anlegung des Grundbuchblatts ist unzulässig.
 Im Wege der Beschwerde kann jedoch verlangt werden, daß das
@@ -2103,10 +2247,12 @@ oder eine Löschung vorzunehmen.
 
 
 ## Siebenter Abschnitt - Das maschinell geführte Grundbuch
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG001101307)
 
 
 
 ### § 126
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015403125)
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen, daß
 und in welchem Umfang das Grundbuch in maschineller Form als
@@ -2153,6 +2299,7 @@ Grundbuchsachen sichergestellt ist.
 
 
 ### § 127
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015502311)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, dass
@@ -2208,6 +2355,7 @@ die sie Bezug nimmt.
 
 
 ### § 128
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015602160)
 
 (1) Das maschinell geführte Grundbuch tritt für ein Grundbuchblatt an
 die Stelle des bisherigen Grundbuchs, sobald es freigegeben worden
@@ -2228,6 +2376,7 @@ bisherigen Grundbuchblättern übereinstimmt.
 
 
 ### § 129
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015702311)
 
 (1) Eine Eintragung wird wirksam, sobald sie in den für die
 Grundbucheintragungen bestimmten Datenspeicher aufgenommen ist und auf
@@ -2242,6 +2391,7 @@ Tages der Eintragung im Grundbuch nicht.
 
 
 ### § 130
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015801307)
 
 § 44 Abs. 1 Satz 1, 2 Halbsatz 2 und Satz 3 ist für die maschinelle
 Grundbuchführung nicht anzuwenden; § 44 Abs. 1 Satz 2 erster Halbsatz
@@ -2253,6 +2403,7 @@ machen.
 
 
 ### § 131
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE015903125)
 
 (1) Wird das Grundbuch in maschineller Form als automatisiertes
 Dateisystem geführt, so tritt an die Stelle der Abschrift der Ausdruck
@@ -2277,6 +2428,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 132
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016002160)
 
 Die Einsicht in das maschinell geführte Grundbuch kann auch bei einem
 anderen als dem Grundbuchamt gewährt werden, das dieses Grundbuch
@@ -2285,6 +2437,7 @@ bei dem die Einsicht begehrt wird.
 
 
 ### § 133
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016108125)
 
 (1) Die Einrichtung eines automatisierten Verfahrens, das die
 Übermittlung der Daten aus dem maschinell geführten Grundbuch durch
@@ -2370,6 +2523,7 @@ gelten entsprechend.
 
 
 ### § 133a Erteilung von Grundbuchabdrucken durch Notare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017700311)
 
 (1) Notare dürfen demjenigen, der ihnen ein berechtigtes Interesse im
 Sinne des § 12 darlegt, den Inhalt des Grundbuchs mitteilen. Die
@@ -2408,6 +2562,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 134
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016204311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2438,6 +2593,7 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen können.
 
 
 ### § 134a Datenübermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017606125)
 
 (1) Die Landesjustizverwaltungen können dem Entwickler eines
 automatisierten optischen Zeichen- und Inhaltserkennungsverfahrens
@@ -2496,10 +2652,12 @@ entsprechend.
 
 
 ## Achter Abschnitt - Elektronischer Rechtsverkehr und elektronische Grundakte
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG001200160)
 
 
 
 ### § 135 Elektronischer Rechtsverkehr und elektronische Grundakte; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016900160)
 
 (1) Anträge, sonstige Erklärungen sowie Nachweise über andere
 Eintragungsvoraussetzungen können dem Grundbuchamt nach Maßgabe der
@@ -2566,6 +2724,7 @@ bleiben unberührt.
 
 
 ### § 136 Eingang elektronischer Dokumente beim Grundbuchamt
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017000160)
 
 (1) Ein mittels Datenfernübertragung als elektronisches Dokument
 übermittelter Eintragungsantrag ist beim Grundbuchamt eingegangen,
@@ -2594,6 +2753,7 @@ Rahmenbedingungen unverzüglich mitzuteilen.
 
 
 ### § 137 Form elektronischer Dokumente
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017102311)
 
 (1) Ist eine zur Eintragung erforderliche Erklärung oder eine andere
 Voraussetzung der Eintragung durch eine öffentliche oder öffentlich
@@ -2652,6 +2812,7 @@ können.
 
 
 ### § 138 Übertragung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017200160)
 
 (1) In Papierform vorliegende Schriftstücke können in elektronische
 Dokumente übertragen und in dieser Form anstelle der Schriftstücke in
@@ -2672,6 +2833,7 @@ der Übernahme können die Ausdrucke vernichtet werden.
 
 
 ### § 139 Aktenausdruck, Akteneinsicht und Datenabruf
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017300160)
 
 (1) An die Stelle der Abschrift aus der Grundakte tritt der Ausdruck
 und an die Stelle der beglaubigten Abschrift der amtliche Ausdruck.
@@ -2691,6 +2853,7 @@ Satz 2 genannten Urkunden beschränkt ist.
 
 
 ### § 140 Entscheidungen, Verfügungen und Mitteilungen
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017403125)
 
 (1) Wird die Grundakte vollständig oder teilweise elektronisch
 geführt, können Entscheidungen und Verfügungen in elektronischer Form
@@ -2725,6 +2888,7 @@ Absatz 1 gilt nicht für den Vollzug von Grundbucheintragungen.
 
 
 ### § 141 Ermächtigung des Bundesministeriums der Justiz und für Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017502311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -2764,10 +2928,12 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen können.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNG000903160)
 
 
 
 ### § 142
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012704160)
 
 (1) (Inkrafttreten)
 
@@ -2776,6 +2942,7 @@ zum Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
 
 
 ### § 143
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012805311)
 
 (1) Soweit im Einführungsgesetz zum Bürgerlichen Gesetzbuche zugunsten
 der Landesgesetze Vorbehalte gemacht sind, gelten sie auch für die
@@ -2798,6 +2965,7 @@ Beurkundungsgesetzes nach Landesrecht zuständigen Person oder Stelle
 
 
 ### § 144
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE012904160)
 
 (1) Die Vorschriften des § 20 und des § 22 Abs. 2 über das Erbbaurecht
 sowie die Vorschrift des § 49 sind auf die in den Artikeln
@@ -2817,12 +2985,14 @@ entsprechend anzuwenden sind.
 
 
 ### § 145
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013003160)
 
 Die Bücher, die nach den bisherigen Bestimmungen als Grundbücher
 geführt wurden, gelten als Grundbücher im Sinne dieses Gesetzes.
 
 
 ### § 146
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013103160)
 
 Werden nach § 145 mehrere Bücher geführt, so muß jedes Grundstück in
 einem der Bücher eine besondere Stelle haben. An dieser Stelle ist auf
@@ -2832,6 +3002,7 @@ gelten zusammen als das Grundbuchblatt.
 
 
 ### § 147
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013203160)
 
 Sind in einem Buch, das nach § 145 als Grundbuch gilt, die Grundstücke
 nicht nach Maßgabe des § 2 Abs. 2 bezeichnet, so ist diese Bezeichnung
@@ -2839,6 +3010,7 @@ von Amts wegen zu bewirken.
 
 
 ### § 148
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE013405311)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
@@ -2899,6 +3071,7 @@ Achten Abschnitt bleiben unberührt.
 
 
 ### § 149
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016306311)
 
 In Baden-Württemberg können die Gewährung von Einsicht in das
 maschinell geführte Grundbuch und in die elektronische Grundakte sowie
@@ -2912,6 +3085,7 @@ wird durch Landesgesetz geregelt.
 
 
 ### § 150
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE016508125)
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt
 dieses Gesetz mit folgenden Maßgaben:
@@ -3045,6 +3219,7 @@ bedarf.
 
 
 ### § 151
+[Direktlink](https://www.gesetze-im-internet.de/gbo/BJNR001390897.html#BJNR001390897BJNE017800311)
 
 Für Erklärungen, die bis einschließlich 8. Juni 2017 beurkundet oder
 beglaubigt wurden, findet § 15 Absatz 3 keine Anwendung.

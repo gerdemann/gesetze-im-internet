@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/einigbeitrbesbek/BJNR020570990.html#BJNR020570990BJNE000100308)
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
 hat dem Bundespräsidenten, der Präsidentin des Deutschen Bundestages
@@ -35,6 +36,7 @@ Der Bundesminister des Innern
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/einigbeitrbesbek/BJNR020570990.html#BJNR020570990BJNE000200308)
 
 
 *    *   Berlin, den 25. August 1990

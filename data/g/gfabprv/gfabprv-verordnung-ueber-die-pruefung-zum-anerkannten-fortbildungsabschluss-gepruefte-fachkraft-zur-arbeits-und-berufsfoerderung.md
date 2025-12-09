@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000100000)
 
 Es verordnet auf Grund
 
@@ -42,6 +43,7 @@ Es verordnet auf Grund
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000200000)
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfte
 Fachkraft zur Arbeits- und Berufsförderung soll die auf einen
@@ -139,6 +141,7 @@ Berufsförderung“.
 
 
 ## § 2 Voraussetzungen für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -186,6 +189,7 @@ zur Prüfung rechtfertigen.
 
 
 ## § 3 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000400000)
 
 In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
@@ -209,6 +213,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 
 ## § 4 Handlungsbereich „Eingliederung und Teilhabe am Arbeitsleben personenzentriert gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000501128)
 
 (1) Im Handlungsbereich „Eingliederung und Teilhabe am Arbeitsleben
 personenzentriert gestalten“ soll die zu prüfende Person nachweisen,
@@ -275,6 +280,7 @@ geprüft werden:
 
 
 ## § 5 Handlungsbereich „Berufliche Bildungsprozesse personenzentriert planen, steuern und gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000601128)
 
 (1) Im Handlungsbereich „Berufliche Bildungsprozesse personenzentriert
 planen, steuern und gestalten“ soll die zu prüfende Person nachweisen,
@@ -335,6 +341,7 @@ geprüft werden:
 
 
 ## § 6 Handlungsbereich „Arbeits- und Beschäftigungsprozesse personenzentriert planen und steuern sowie Arbeitsplätze personenzentriert gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000701128)
 
 (1) Im Handlungsbereich „Arbeits- und Beschäftigungsprozesse
 personenzentriert planen und steuern sowie Arbeitsplätze
@@ -395,6 +402,7 @@ geprüft werden:
 
 
 ## § 7 Handlungsbereich „Kommunikation und Zusammenarbeit personenzentriert planen, steuern und gestalten“
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000801128)
 
 (1) Im Handlungsbereich „Kommunikation und Zusammenarbeit
 personenzentriert planen, steuern und gestalten“ soll die zu prüfende
@@ -454,6 +462,7 @@ geprüft werden:
 
 
 ## § 8 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE000900000)
 
 Die Prüfung gliedert sich in
 
@@ -469,6 +478,7 @@ Die Prüfung gliedert sich in
 
 
 ## § 9 Schriftliche Prüfungsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001000000)
 
 (1) Die schriftliche Prüfungsaufgabe bezieht sich auf alle in § 3
 genannten Handlungsbereiche.
@@ -481,6 +491,7 @@ Die Bearbeitungszeit beträgt 240 Minuten.
 
 
 ## § 10 Projektarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001101128)
 
 (1) In der Projektarbeit soll die zu prüfende Person nachweisen, dass
 sie eine komplexe praxisbezogene Aufgabe erfassen, darstellen,
@@ -509,6 +520,7 @@ der Regel auf die Präsentation 20 Minuten.
 
 
 ## § 11 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001201128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -520,6 +532,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 12 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001301128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -540,6 +553,7 @@ bewerten.
 
 
 ## § 13 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001900128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundungen in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -568,6 +582,7 @@ Note ist die Gesamtnote.
 
 
 ## § 14 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001401128)
 
 Mit dem Bestehen der Prüfung wird die Ausbildereignung im Sinne des §
 30 Absatz 5 des Berufsbildungsgesetzes erworben. Im Falle des Satzes 1
@@ -576,6 +591,7 @@ Eignungsverordnung auszustellen.
 
 
 ## § 15 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001501128)
 
 (1) Wer die Prüfung nach § 13 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -602,6 +618,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 16 Wiederholung von Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001601128)
 
 (1) Wurde die schriftliche Prüfungsaufgabe, die schriftliche
 Abschlussarbeit oder die Projektpräsentation einschließlich
@@ -618,6 +635,7 @@ diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 17 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001701128)
 
 (1) Für Prüfungsverfahren zum anerkannten Abschluss „Geprüfte
 Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für
@@ -647,6 +665,7 @@ diesem Fall unberücksichtigt.
 
 
 ## § 18 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE001801128)
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfte
@@ -656,6 +675,7 @@ behinderte Menschen vom 25. Juni 2001 (BGBl. I S. 1239) außer Kraft.
 (zu den §§ 12 und 13)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE002000128)
 
 (Fundstelle: BGBl. I 2019, 2421 – 2422)
 
@@ -957,6 +977,7 @@ behinderte Menschen vom 25. Juni 2001 (BGBl. I S. 1239) außer Kraft.
 (zu § 15)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/gfabprv/BJNR290900016.html#BJNR290900016BJNE002100128)
 
 (Fundstelle: BGBl. I 2019, 2422)
 

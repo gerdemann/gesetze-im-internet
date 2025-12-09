@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000100000)
 
 Auf Grund des § 6 Absatz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1
 und des § 31 Absatz 2 Satz 1 Nummer 1 des Marktorganisationsgesetzes
@@ -33,6 +34,7 @@ und dem Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000200000)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Erstattung der Mittel, die die Kommission in einem
@@ -46,6 +48,7 @@ für die Erstattung an die begünstigten Betriebsinhaber zuweist.
 
 
 ## § 2 Auszahlungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000300000)
 
 Der nach einem Durchführungsrechtsakt nach Artikel 17 Absatz 3
 Unterabsatz 2 der Verordnung (EU) 2021/2116 der Bundesrepublik
@@ -64,6 +67,7 @@ worden sind.
 
 
 ## § 3 Erstattungsfaktor
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000400000)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 hat im Falle eines Durchführungsrechtsakts nach Artikel 17 Absatz 3
@@ -100,6 +104,7 @@ Unterabsatz 2 der Verordnung (EU) 2021/2116 hinzuweisen.
 
 
 ## § 4 Mitteilungen der Länder
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000500000)
 
 Für den Zweck der Ermittlung des Erstattungsfaktors nach § 3 haben die
 zuständigen Behörden der Länder in den Agrar-Haushaltsjahren nach
@@ -112,6 +117,7 @@ mitzuteilen.
 
 
 ## § 5 Erstattungsbetrag
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000600000)
 
 (1) Der Erstattungsbetrag für die begünstigten Betriebsinhaber ist zu
 berechnen, indem die dem jeweiligen Betriebsinhaber für das
@@ -133,6 +139,7 @@ worden sind.
 
 
 ## § 6 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000700000)
 
 (1) Abweichend von § 4 haben die zuständigen Behörden der Länder der
 Bundesanstalt im Agrar-Haushaltsjahr 2023 den Betrag der in ihrem
@@ -153,6 +160,7 @@ ein entsprechender Betrag zugewiesen worden ist.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000800000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -163,6 +171,7 @@ zum Ablauf des 15. Oktober 2022 außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/findiszerstv/BJNR0020A0023.html#BJNR0020A0023BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

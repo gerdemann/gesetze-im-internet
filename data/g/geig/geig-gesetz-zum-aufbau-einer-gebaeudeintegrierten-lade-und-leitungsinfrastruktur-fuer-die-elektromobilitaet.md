@@ -24,14 +24,17 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000200000)
 
 (1) Dieses Gesetz regelt die Errichtung von und die Ausstattung mit
 der vorbereitenden Leitungsinfrastruktur und der Ladeinfrastruktur für
@@ -43,6 +46,7 @@ im Eigentum von kleinen und mittleren Unternehmen befinden und
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000300000)
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -137,9 +141,11 @@ Im Sinne dieses Gesetzes ist oder sind
 [^F815397_02_BJNR035400021BJNE000300000]: 
 
 ## Abschnitt 2 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000200000)
 
 
 ### § 3 An das Gebäude angrenzende Stellplätze
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000400000)
 
 An das Gebäude angrenzende Stellplätze liegen vor, wenn der Parkplatz,
 auf dem sich die Stellplätze befinden,
@@ -159,6 +165,7 @@ auf dem sich die Stellplätze befinden,
 
 
 ### § 4 Leitungsinfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000500000)
 
 Die erforderliche Leitungsinfrastruktur umfasst eine geeignete
 Leitungsführung für Elektro- und Datenleitungen. Die verwendete
@@ -173,6 +180,7 @@ erforderlichen Schutzelemente.
 
 
 ### § 5 Errichtung eines Ladepunktes
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000600000)
 
 (1) Bei der Errichtung eines Ladepunktes sind die gesetzlichen
 Mindestanforderungen an den Aufbau und den Betrieb von Ladepunkten zu
@@ -185,9 +193,11 @@ Niederspannungsanschlussverordnung vom 1. November 2006 (BGBl. I S.
 
 
 ## Abschnitt 3 - Zu errichtende Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000300000)
 
 
 ### § 6 Zu errichtende Wohngebäude mit mehr als fünf Stellplätzen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000700000)
 
 Wer ein Wohngebäude errichtet, das über mehr als fünf Stellplätze
 innerhalb des Gebäudes oder über mehr als fünf an das Gebäude
@@ -197,6 +207,7 @@ ausgestattet wird.
 
 
 ### § 7 Zu errichtende Nichtwohngebäude mit mehr als sechs Stellplätzen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000800000)
 
 Wer ein Nichtwohngebäude errichtet, das über mehr als sechs
 Stellplätze innerhalb des Gebäudes oder über mehr als sechs an das
@@ -213,9 +224,11 @@ Gebäude angrenzende Stellplätze verfügt, hat dafür zu sorgen, dass
 
 
 ## Abschnitt 4 - Bestehende Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000400000)
 
 
 ### § 8 Größere Renovierung bestehender Wohngebäude mit mehr als zehn Stellplätzen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE000900000)
 
 (1) Wird ein Wohngebäude, das über mehr als zehn Stellplätze innerhalb
 des Gebäudes verfügt, einer größeren Renovierung unterzogen, welche
@@ -232,6 +245,7 @@ Elektromobilität ausgestattet wird.
 
 
 ### § 9 Größere Renovierung bestehender Nichtwohngebäude mit mehr als zehn Stellplätzen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001000000)
 
 (1) Wird ein Nichtwohngebäude, das über mehr als zehn Stellplätze
 innerhalb des Gebäudes verfügt, einer größeren Renovierung unterzogen,
@@ -263,6 +277,7 @@ des Parkplatzes umfasst, so hat der Eigentümer dafür zu sorgen, dass
 
 
 ### § 10 Bestehende Nichtwohngebäude mit mehr als 20 Stellplätzen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001100000)
 
 (1) Für jedes Nichtwohngebäude, das über mehr als 20 Stellplätze
 innerhalb des Gebäudes oder über mehr als 20 an das Gebäude
@@ -284,9 +299,11 @@ zuständigen Behörde auf Verlangen vorzulegen ist.
 
 
 ## Abschnitt 5 - Gemischt genutzte Gebäude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererklärung und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000500000)
 
 
 ### § 11 Gemischt genutzte Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001200000)
 
 (1) Teile eines Wohngebäudes, die sich hinsichtlich der Art ihrer
 Nutzung und der gebäudetechnischen Ausstattung wesentlich von der
@@ -328,6 +345,7 @@ Art der Nutzung des Gebäudes.
 
 
 ### § 12 Lade- und Leitungsinfrastruktur im Quartier
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001300000)
 
 (1) Bauherren oder Eigentümer, deren Gebäude in räumlichem
 Zusammenhang stehen, können Vereinbarungen über eine gemeinsame
@@ -365,6 +383,7 @@ zuständigen Behörde auf Verlangen vorzulegen ist.
 
 
 ### § 13 Unternehmererklärung
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001400000)
 
 (1) Wer geschäftsmäßig an oder in einem zu errichtenden oder
 bestehenden Gebäude Arbeiten im Anwendungsbereich dieses Gesetzes
@@ -378,6 +397,7 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 
 ### § 14 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001500000)
 
 (1) Sofern bei einer größeren Renovierung eines bestehenden Gebäudes
 die Kosten für die Lade- und Leitungsinfrastruktur 7 Prozent der
@@ -394,9 +414,11 @@ der Anwendung der §§ 6 bis 10 ausgenommen.
 
 
 ## Abschnitt 6 - Bußgeld- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNG000600000)
 
 
 ### § 15 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001600000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -424,6 +446,7 @@ Euro geahndet werden.
 
 
 ### § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001700000)
 
 Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Vorhaben,
 für welche die Bauantragstellung oder der Antrag auf bauaufsichtliche
@@ -439,6 +462,7 @@ Bauausführung abzustellen.
 
 
 ### § 17 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geig/BJNR035400021.html#BJNR035400021BJNE001800000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

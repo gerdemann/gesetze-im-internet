@@ -25,6 +25,7 @@ S. 74).
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000103360)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -89,10 +90,12 @@ S. 74).
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000205360)
 
 
 
 ## § 3 Maßnahmen im Falle des Seuchenverdachts
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000302360)
 
 (1) Im Falle des Verdachts auf Blauzungenkrankheit in einem Betrieb
 ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb
@@ -141,12 +144,14 @@ Betrieb verbracht werden.
 
 
 ## § 4 Bekanntmachung des Seuchenausbruches
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000401360)
 
 Nach amtlicher Feststellung macht die zuständige Behörde den Ausbruch
 der Blauzungenkrankheit öffentlich bekannt.
 
 
 ## § 5 Maßnahmen im Falle der amtlichen Feststellung der Seuche
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000503360)
 
 (1) Ist die Blauzungenkrankheit in einem Betrieb amtlich festgestellt,
 so ergreift die zuständige Behörde die in den Absätzen 2 bis 5
@@ -210,6 +215,7 @@ Nachforschungen im Sperrgebiet und im Beobachtungsgebiet an.
 
 
 ## § 6 Vorschriften für Sperrgebiet und Beobachtungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000602360)
 
 Wer in einem Sperrgebiet oder einem Beobachtungsgebiet empfängliche
 Tiere hält, hat dies und den Standort der Tiere unverzüglich nach
@@ -218,6 +224,7 @@ anzuzeigen.
 
 
 ## § 6a Seuchenausbruch in einem benachbarten Mitgliedstaat
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE001201360)
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder eines
 Drittlandes der Ausbruch der Blauzungenkrankheit innerhalb einer
@@ -230,6 +237,7 @@ gelten entsprechend.
 
 
 ## § 7 Aufhebung angeordneter Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000703360)
 
 (1) Die zuständige Behörde hebt die wegen einer amtlichen Feststellung
 der Blauzungenkrankheit angeordneten Maßnahmen auf, wenn die
@@ -257,6 +265,7 @@ den Seuchenverdacht nicht bestätigt haben.
 
 
 ## § 8 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000805360)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -277,5 +286,6 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 9 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/blauzungenv/BJNR124100002.html#BJNR124100002BJNE000901360)
 
 

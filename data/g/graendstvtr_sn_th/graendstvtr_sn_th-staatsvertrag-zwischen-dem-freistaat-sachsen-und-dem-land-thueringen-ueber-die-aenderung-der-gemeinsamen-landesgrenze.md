@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000100333)
 
 Um den historischen und kulturellen Verflechtungen von Gemeinden zum
 Freistaat Sachsen zu entsprechen, schließen der Freistaat Sachsen und
@@ -35,6 +36,7 @@ ist, folgenden Staatsvertrag:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000200333)
 
 (1) Die nachfolgend aufgeführten Gemeinden werden aus dem Land
 Thüringen ausgegliedert und in den Freistaat Sachsen eingegliedert:
@@ -80,6 +82,7 @@ sind aus der Anlage 1 zu diesem Vertrag ersichtlich.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000300333)
 
 (1) Die in Artikel 1 Abs. 1 genannten Gemeinden werden im Freistaat
 Sachsen zunächst in den Landkreis Plauen aufgenommen.
@@ -130,6 +133,7 @@ Landeszugehörigkeit geregelt werden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000400333)
 
 (1) Das in den in Artikel 1 Abs. 1 genannten Gemeinden gelegene
 gemeindliche Verwaltungsvermögen geht mit allen Rechten, Lasten und
@@ -156,6 +160,7 @@ nachträglich geregelt werden.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000500333)
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst
 innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit
@@ -169,6 +174,7 @@ trifft auch sämtliche Landesbehörden einschließlich der Gerichte.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000600333)
 
 Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage
 1 (Artikel 1 Abs. 3) werden bei dem Landesvermessungsamt Sachsen, bei
@@ -178,6 +184,7 @@ aufbewahrt und können von jedermann eingesehen werden.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000700333)
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
 werden unverzüglich ausgetauscht, sobald der Sächsische Landtag und
@@ -192,6 +199,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000800333)
 
 
 *    *   Für den Freistaat Sachsen
@@ -208,11 +216,13 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE000900333)
 
 (Fundstelle: BGBl. I 1993, 218 - 219)
 ![bgbl1_1993_j0218_0010.jpg](bgbl1_1993_j0218_0010.jpg)
 
 ## Anlage 2 Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE001000333)
 
 
 1.  Der Freistaat Sachsen verpflichtet sich, entsprechend den im Auftrag
@@ -258,6 +268,7 @@ Ratifikationsurkunden in Kraft.
 
 
 ## Anlage 3 Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE001100333)
 
 Bereich Landwirtschaft
 Fördermaßnahmen, für die Haushaltsmittel bereits bewilligt wurden,
@@ -278,6 +289,7 @@ gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
 
 
 ## Anlage 4 Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Umweltministeriums
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE001200333)
 
 
 1.  Die Bereitstellung von Fördermitteln für wasserwirtschaftliche
@@ -331,6 +343,7 @@ gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
 
 
 ## Anlage 5 Geschäftsbereich des Sächsischen Staatsministeriums für Soziales, Gesundheit und Familie und des Thüringer Ministeriums für Soziales und Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE001300333)
 
 Der Freistaat Sachsen verpflichtet sich, die Arbeitskräfte des
 Kinderkurheims in Pausa zu übernehmen, sofern sie bei Inkrafttreten
@@ -342,6 +355,7 @@ vorbehalten.
 
 
 ## (XXXX) Protokollnotiz zum Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
+[Direktlink](https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/BJNR021600993.html#BJNR021600993BJNE001400333)
 
 Die hohen vertragschließenden Parteien stimmen darin überein, daß
 Cunsdorf nur dann Gegenstand dieses Vertrages wird, wenn die

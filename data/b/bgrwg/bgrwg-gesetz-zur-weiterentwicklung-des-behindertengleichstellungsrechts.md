@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## (XXXX) Art 1 bis 5 Änderungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgrwg/BJNR175700016.html#BJNR175700016BJNE000100000)
 
 
 ## Art 6 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/bgrwg/BJNR175700016.html#BJNR175700016BJNE000200000)
 
 Die Bundesregierung berichtet dem Deutschen Bundestag innerhalb von
 sechs Jahren nach Verkündung dieses Gesetzes über die Wirkungen der §§
@@ -42,6 +44,7 @@ Barrieren erarbeiten.
 
 
 ## Art 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgrwg/BJNR175700016.html#BJNR175700016BJNE000300000)
 
 (1) Vorbehaltlich der Absätze 2 und 3 tritt dieses Gesetz am Tag nach
 der Verkündung in Kraft.

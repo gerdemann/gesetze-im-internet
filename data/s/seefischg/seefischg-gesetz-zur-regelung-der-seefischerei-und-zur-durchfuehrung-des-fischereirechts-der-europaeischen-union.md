@@ -27,6 +27,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000205377)
 
 (1) Dieses Gesetz dient
 
@@ -88,6 +89,7 @@ Behörden des Bundes obliegt.
 
 
 ## § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001601377)
 
 (1) Seefischerei übt aus, wer auf See erwerbsmäßig Fische fängt, zu
 fangen versucht, an Bord nimmt, aus Meeresaquakultur oder in anderer
@@ -147,6 +149,7 @@ Begrenzung festgelegtes Fangverbot.
 
 
 ## § 2 Zuständigkeiten des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000309119)
 
 (1) Die Bundesanstalt ist für die in der Anlage aufgeführten Aufgaben
 zuständig.
@@ -217,6 +220,7 @@ Bundesanstalt bleiben unberührt.
 
 
 ## § 3 Fangerlaubnisse
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000410311)
 
 (1) Wenn die Ausübung der Seefischerei auf Grund des Fischereirechts
 der Europäischen Union oder auf Grund einer Verordnung nach § 15
@@ -300,6 +304,7 @@ Verwaltungsgericht Hamburg örtlich zuständig.
 
 
 ## § 4 Ausübung der Seefischerei durch Fahrzeuge, die nicht berechtigt sind, die Bundesflagge zu führen
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000606377)
 
 Die Seefischerei bedarf einer besonderen Genehmigung, wenn sie
 
@@ -324,6 +329,7 @@ entsprechend.
 
 
 ## § 5 Überwachung der Fischerei auf See
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000707377)
 
 (1) Auf Grund des Fischereirechts der Europäischen Union oder einer
 zwischenstaatlichen Vereinbarung kann auch der
@@ -350,6 +356,7 @@ Fischereiaufsichtsdienst eines anderen Staates die Fischerei auf See
 
 
 ## § 6 Fischereiüberwachungszentrum
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000803377)
 
 (1) Die Bundesanstalt führt die im Fischereirecht der Europäischen
 Union vorgesehenen Aufgaben des Fischereiüberwachungszentrums aus.
@@ -362,6 +369,7 @@ Wirtschaftszone durch Kontrollbeamte dieses Mitgliedstaats.
 
 
 ## § 7 Automatisches Schiffsidentifizierungssystem
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002901311)
 
 Soweit den Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
 Bundes Schiffsverkehrsdaten, insbesondere Daten aus dem Automatischen
@@ -371,12 +379,14 @@ auf Anfrage diese Daten übermitteln zu lassen.
 
 
 ## § 8 Unionsinspektoren
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE000902377)
 
 Die Bundesanstalt und die Länder können ihre Kontrollbeamten zu
 Gemeinschaftsinspektoren oder Unionsinspektoren vorschlagen.
 
 
 ## § 9 Mitwirkung der Zollbehörden bei der Überwachung der Einfuhr, Ausfuhr und Durchfuhr von Fischereierzeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001009377)
 
 (1) Die Zollbehörden wirken mit bei der Überwachung der Einfuhr,
 Ausfuhr und Durchfuhr von Fischereierzeugnissen, die einer Ein- oder
@@ -417,6 +427,7 @@ unterliegen.
 
 
 ## § 9a Datenverarbeitung durch Zollverwaltung und Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE003400377)
 
 (1) Soweit das Bundesministerium der Zollverwaltung oder der
 Bundespolizei durch Rechtsverordnung die Überwachung der Seefischerei
@@ -447,6 +458,7 @@ unberührt.
 
 
 ## § 10 Datenbanken und Validierungssystem
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001107377)
 
 (1) Die Bundesanstalt ist befugt,
 
@@ -508,6 +520,7 @@ genannten Prüfaufgaben unverzüglich zu löschen.
 
 
 ## § 11 Datenaustausch
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001700377)
 
 Die Bundesanstalt ist befugt, nach Maßgabe des Artikels 111 der
 Verordnung (EG) Nr. 1224/2009 die dort genannten Informationen anderen
@@ -516,6 +529,7 @@ Fischereiaufsichtsagentur zur Verfügung zu stellen.
 
 
 ## § 12 Internetseite
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001800377)
 
 Die Bundesanstalt richtet eine Internetseite nach Maßgabe der Artikel
 114 bis 116 in Verbindung mit Artikel 110 der Verordnung (EG) Nr.
@@ -531,6 +545,7 @@ löschen.
 
 
 ## § 13 Punktesystem für schwere Verstöße
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001902311)
 
 (1) Zur Sicherstellung eines wirkungsvollen Vollzuges der Vorschriften
 der Gemeinsamen Fischereipolitik sind im Falle schwerer Verstöße gegen
@@ -744,6 +759,7 @@ keine aufschiebende Wirkung.
 
 
 ## § 14 Nationale Verstoßdatei
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002003377)
 
 (1) Die Bundesanstalt richtet eine nationale Verstoßdatei nach Maßgabe
 des Artikels 93 der Verordnung (EG) Nr. 1224/2009 ein. In der
@@ -873,6 +889,7 @@ folgenden Daten zu erheben und zu speichern:
 
 
 ## § 14a Antrag auf schriftliche Auskunft über Inhalte der nationalen Verstoßdatei
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE003100311)
 
 (1) Die Bundesanstalt erteilt jeder Person auf Antrag eine
 schriftliche Auskunft über den sie betreffenden Inhalt der nationalen
@@ -921,6 +938,7 @@ verwenden.
 
 
 ## § 14b Elektronische Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE003201119)
 
 (1) Abweichend von § 14a Absatz 2 Satz 1 und 2 kann der Antrag nach
 Maßgabe der Absätze 2 bis 4 auch in elektronischer Form unter Nutzung
@@ -965,6 +983,7 @@ Bundesanzeiger zu veröffentlichen.
 
 
 ## § 15 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002102377)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird zur
 Durchführung dieses Gesetzes, zur Durchführung des Fischereirechts der
@@ -1294,6 +1313,7 @@ technische Beschreibung des jeweiligen Fanggeräts gilt, zu bezeichnen.
 
 
 ## § 16 Eingriffsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002201311)
 
 (1) Die zuständigen Behörden des Bundes und der Länder können, soweit
 sie die in § 1 Absatz 1 Nummer 2 bezeichneten Rechtsakte, dieses
@@ -1353,6 +1373,7 @@ Vorschriften zu überwachen.
 
 
 ## § 17 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002300377)
 
 (1) Der Kapitän eines Drittlandfischereifahrzeugs darf nicht
 
@@ -1389,6 +1410,7 @@ Fischereifahrzeugs mitzuführen oder zum Fischfang einzusetzen.
 
 
 ## § 18 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002403377)
 
 (1) Ordnungswidrig handelt, wer wissentlich einen Fischbestand, für
 den ein Fangverbot im Sinne des § 1a Absatz 6 oder ein Moratorium im
@@ -1612,6 +1634,7 @@ gebraucht worden oder bestimmt gewesen sind, können eingezogen werden.
 
 
 ## § 19 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002500377)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1634,6 +1657,7 @@ bezeichnete Handlung beharrlich wiederholt.
 
 
 ## § 20 Außenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002602119)
 
 (1) Die Bundesanstalt kann zur wirksamen Anwendung und Durchführung
 der Vorschriften des Fischereirechts der Europäischen Union gegenüber
@@ -1659,6 +1683,7 @@ unverzüglich.
 
 
 ## § 21 Regelungsbefugnisse der Länder
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002701118)
 
 Die Länder können zur Regelung der Seefischerei oder zur Durchführung
 des Fischereirechts der Europäischen Union weitere Vorschriften
@@ -1673,19 +1698,23 @@ Union zu halten.
 
 
 ## § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE002801377)
 
 
 
 ## § 22a Übergangs- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE003300311)
 
 § 14b ist ab dem 1. Juli 2018 anzuwenden.
 
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE001403377)
 
 
 
 ## Anlage (zu § 2 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/seefischg/BJNR008760984.html#BJNR008760984BJNE003001311)
 
 (Fundstelle: BGBl. I 2011, 3080 — 3081)
 

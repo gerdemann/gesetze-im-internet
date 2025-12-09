@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000100314)
 
 Die Umstellung der Agrar- und Ernährungswirtschaft der Deutschen
 Demokratischen Republik auf die Bedingungen der sozialen
@@ -34,6 +35,7 @@ Dazu hat die Volkskammer folgendes Gesetz beschlossen:
 
 
 ## § 1 Förderungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000301308)
 
 (1) Im Sinne des Artikels 15 des Vertrages über die Schaffung einer
 Währungs-, Wirtschafts- und Sozialunion zwischen der Deutschen
@@ -78,6 +80,7 @@ mehr als 53,846 vom Hundert ergänzt werden.
 
 
 ## § 2 Förderungsarten
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000400314)
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen und Zinszuschüssen bestehen. Sie erfolgt im Rahmen der dafür
@@ -85,6 +88,7 @@ verfügbaren Haushaltsmittel.
 
 
 ## § 3 Rücknahme, Widerruf, Erstattung und Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000500314)
 
 (1) Werden Förderungsmittel aufgrund unrichtiger Angaben gewährt oder
 werden die gewährten Förderungsmittel entgegen ihrem Zweck verwendet
@@ -101,6 +105,7 @@ Förderungsmittel innerhalb der ihm gesetzten Frist zurückzahlt.
 
 
 ## § 4 Prüfungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000600314)
 
 Der Minister für Ernährung, Land- und Forstwirtschaft hat das Recht,
 die Verwendung der Förderungsmittel durch Besichtigung an Ort und
@@ -111,6 +116,7 @@ allen weiteren Empfängern bis zu den Letztempfängern vorzubehalten.
 
 
 ## § 5 Zusammenarbeit mit den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000700314)
 
 Nach der Bildung der Länder wird die Zusammenarbeit mit den Ländern
 bei der Planung, Finanzierung und Durchführung der Anpassungsmaßnahmen
@@ -118,11 +124,13 @@ geregelt.
 
 
 ## § 6 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000800314)
 
 Der Geltungsbereich wird in den einzelnen Anordnungen geregelt.
 
 
 ## § 7 Inkraftsetzung
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE000900314)
 
 (1) Dieses Gesetz tritt am 6. Juli 1990 in Kraft.
 
@@ -153,6 +161,7 @@ Gleichzeitig treten außer Kraft:
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE001000314)
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
@@ -160,6 +169,7 @@ Republik**
 Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III
 
 ## Anhang EV (BGBl. II 1990, 885, 1204)
+[Direktlink](https://www.gesetze-im-internet.de/aslwapfg/DDNR006330990.html#DDNR006330990BJNE888800301)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000100000)
 
 
 ### § 1 Sicherungspflicht der Institute
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000200000)
 
 Die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des
 Kreditwesengesetzes sind verpflichtet, ihre Einlagen nach Maßgabe
@@ -35,6 +37,7 @@ unterhalten werden und zumindest das Einlagengeschäft nach § 1 Absatz
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000301118)
 
 (1) Einlagensicherungssysteme im Sinne dieses Gesetzes sind
 
@@ -103,6 +106,7 @@ Deckungssumme gemäß § 8 nicht übersteigen.
 
 
 ### § 3 Informationen für den Einleger über die Einlagensicherung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000400000)
 
 (1) Die Internetseiten der Einlagensicherungssysteme müssen alle
 erforderlichen Informationen für die Gläubiger eines CRR-
@@ -116,6 +120,7 @@ Verweis auf eine unbegrenzte Deckung von Einlagen enthalten.
 
 
 ### § 4 Information für den Einleger und Kündigungsrecht bei Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000500000)
 
 (1) Ein CRR-Kreditinstitut hat die Einleger im Falle einer Umwandlung,
 die zu einem Wechsel des Einlagensicherungssystems führt, mindestens
@@ -138,12 +143,15 @@ abzuheben oder auf ein anderes CRR-Kreditinstitut zu übertragen.
 
 
 ## Teil 2 - Entschädigung der Einleger
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000200000)
 
 
 ### Kapitel 1 - Entschädigungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000300000)
 
 
 #### § 5 Rechtsanspruch auf Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000600000)
 
 (1) Der Einleger hat im Entschädigungsfall gegen das
 Einlagensicherungssystem, dem das CRR-Kreditinstitut angehört, einen
@@ -165,6 +173,7 @@ Kreditinstituts, die vor dem Wegfall begründet wurden.
 
 
 #### § 6 Nicht entschädigungsfähige Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000701119)
 
 Nicht nach § 5 werden folgende Einlagen entschädigt:
 
@@ -239,6 +248,7 @@ Nicht nach § 5 werden folgende Einlagen entschädigt:
 
 
 #### § 7 Umfang und Berechnung des Entschädigungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000801119)
 
 (1) Der Entschädigungsanspruch des Einlegers richtet sich nach dem
 Umfang seiner entschädigungsfähigen Einlagen und ist der Höhe nach auf
@@ -300,6 +310,7 @@ Verfügung zu stellen.
 
 
 #### § 8 Deckungssumme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE000900000)
 
 (1) Der Entschädigungsanspruch ist der Höhe nach begrenzt auf den
 Gegenwert von 100 000 Euro (Deckungssumme).
@@ -434,6 +445,7 @@ anspruchsbegründenden Tatsachen glaubhaft zu machen.
 
 
 #### § 9 Verjährung des Entschädigungsanspruchs; Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001000000)
 
 (1) Der Entschädigungsanspruch gegen das Einlagensicherungssystem
 verjährt in fünf Jahren nach Unterrichtung des Einlegers über den
@@ -444,9 +456,11 @@ ist der Zivilrechtsweg gegeben.
 
 
 ### Kapitel 2 - Eintritt des Entschädigungsfalls
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000400000)
 
 
 #### § 10 Eintritt und Feststellung des Entschädigungsfalls
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001100000)
 
 (1) Ein Entschädigungsfall im Sinne dieses Gesetzes tritt ein, wenn
 die Bundesanstalt feststellt, dass
@@ -476,6 +490,7 @@ Entschädigungsfalls haben keine aufschiebende Wirkung.
 
 
 #### § 11 Bekanntgabe der Feststellung des Entschädigungsfalls; Unterrichtung des Einlagensicherungssystems
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001200000)
 
 (1) Die Bundesanstalt hat die Feststellung des Entschädigungsfalls
 unverzüglich im Bundesanzeiger bekannt zu geben.
@@ -486,9 +501,11 @@ des Entschädigungsfalls.
 
 
 ### Kapitel 3 - Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000500000)
 
 
 #### § 12 Unterrichtung der Einleger über den Eintritt des Entschädigungsfalls
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001300000)
 
 Das Einlagensicherungssystem hat die Einleger des CRR-Kreditinstituts
 unverzüglich über den Eintritt des Entschädigungsfalls zu unterrichten
@@ -498,6 +515,7 @@ müssen. Die Unterrichtung kann mit der Entschädigung erfolgen.
 
 
 #### § 13 Im Entschädigungsverfahren zu verwendende Sprachen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001400000)
 
 (1) Jeder Schriftwechsel zwischen dem Einlagensicherungssystem und dem
 Einleger ist in einer der folgenden Sprachen abzufassen:
@@ -519,6 +537,7 @@ Sprache zu verwenden, die der Einleger bei Kontoeröffnung gewählt hat.
 
 
 #### § 14 Prüfung und Erfüllung der Entschädigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001500000)
 
 (1) Das Einlagensicherungssystem hat die Entschädigungsansprüche der
 Einleger unverzüglich zu prüfen und geeignete Maßnahmen zu treffen, um
@@ -542,6 +561,7 @@ entschädigen.
 
 
 #### § 15 Ausschluss, Aufschub und Aussetzung der Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001600000)
 
 (1) Eine Entschädigung ist ausgeschlossen, wenn in den letzten 24
 Monaten keine Transaktion in Verbindung mit der Einlage stattgefunden
@@ -597,6 +617,7 @@ wenn
 
 
 #### § 16 Forderungsübergang bei Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001700000)
 
 Soweit das Einlagensicherungssystem den Entschädigungsanspruch eines
 Berechtigten erfüllt, gehen dessen Forderungen gegen das CRR-
@@ -604,12 +625,15 @@ Kreditinstitut auf das Einlagensicherungssystem über.
 
 
 ## Teil 3 - Einlagensicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000600000)
 
 
 ### Kapitel 1 - Finanzierung und Zielausstattung der Einlagensicherungssysteme und Verwendung ihrer Mittel
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000700000)
 
 
 #### § 17 Finanzierung und Zielausstattung der Einlagensicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001802119)
 
 (1) Einlagensicherungssysteme müssen über angemessene Finanzmittel im
 Verhältnis zu ihren bestehenden und potentiellen Verbindlichkeiten
@@ -662,6 +686,7 @@ Dezember des Vorjahres mit.
 
 
 #### § 18 Verfügbare Finanzmittel
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE001900000)
 
 (1) Als verfügbare Finanzmittel im Sinne dieses Gesetzes sind Bargeld
 sowie Einlagen und risikoarme Schuldtitel, die innerhalb des in § 14
@@ -711,6 +736,7 @@ verwendet werden.
 
 
 #### § 19 Beitragsberechnung; Methoden der Beitragsbemessung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002000000)
 
 (1) Die verfügbaren Finanzmittel werden durch Beiträge der dem
 Einlagensicherungssystem angehörenden CRR-Kreditinstitute nach Maßgabe
@@ -744,6 +770,7 @@ Absatz 3 unterrichtet, denen die Bundesanstalt zugestimmt hat.
 
 
 #### § 20 Verwendung der verfügbaren Finanzmittel
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002101119)
 
 (1) Die verfügbaren Finanzmittel der Einlagensicherungssysteme sind
 für folgende Zwecke zu verwenden:
@@ -765,6 +792,7 @@ verwenden.
 
 
 #### § 21 Verschwiegenheitspflicht und Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002201126)
 
 (1) Personen, die bei einem Einlagensicherungssystem beschäftigt oder
 für dieses tätig sind, dürfen fremde Geheimnisse, insbesondere
@@ -850,12 +878,15 @@ Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU)
 
 
 ### Kapitel 2 - Gesetzliche Entschädigungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000800000)
 
 
 #### Abschnitt 1 - Errichtung gesetzlicher Entschädigungseinrichtungen; Zuordnung der CRR-Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG000900000)
 
 
 ##### § 22 Gesetzliche Entschädigungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002300000)
 
 (1) Die gesetzlichen Entschädigungseinrichtungen haben die Aufgaben
 und Befugnisse nach diesem Gesetz, insbesondere haben sie die Beiträge
@@ -889,6 +920,7 @@ getrennt von ihrem sonstigen Vermögen zu halten und zu verwalten.
 
 
 ##### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002401119)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -929,6 +961,7 @@ Entschädigungseinrichtung aufgelöst oder abgewickelt wird.
 
 
 ##### § 24 Zuordnung der CRR-Kreditinstitute zu einer gesetzlichen Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002501119)
 
 (1) Den gesetzlichen Entschädigungseinrichtungen wird jeweils eine der
 folgenden Institutsgruppen zugeordnet:
@@ -991,6 +1024,7 @@ institutsbezogenen Sicherungssystem angehört.
 
 
 ##### § 25 Rechtsfolgen bei Wechsel der gesetzlichen Entschädigungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002601119)
 
 (1) Während der Antragsfrist nach § 24 Absatz 6 bleibt ein CRR-
 Kreditinstitut weiterhin verpflichtet, Beiträge und Zahlungen an seine
@@ -1011,6 +1045,7 @@ diesen Wechsel zu informieren.
 
 
 ##### § 25a Verordnungsermächtigung zur Aufhebung der Beleihung und zur Rückgängigmachung der Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006500119)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf,
@@ -1087,9 +1122,11 @@ erforderlichen Anordnungen treffen.
 
 
 #### Abschnitt 2 - Beitragspflicht; Deckung des Mittelbedarfs durch Beiträge und Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001000000)
 
 
 ##### § 26 Pflicht zur Leistung von Jahresbeiträgen und einmaligen Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002700000)
 
 (1) Die CRR-Kreditinstitute sind bis zur Erreichung der
 Zielausstattung der gesetzlichen Entschädigungseinrichtung, der sie
@@ -1113,6 +1150,7 @@ einmalige Zahlung zu leisten.
 
 
 ##### § 27 Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002801119)
 
 (1) Reichen die verfügbaren Finanzmittel einer gesetzlichen
 Entschädigungseinrichtung nicht aus, um die Einleger eines der
@@ -1182,6 +1220,7 @@ zurückgestellten Beträge werden mit Ablauf der Zurückstellung fällig.
 
 
 ##### § 28 Feststellung des Mittelbedarfs im Entschädigungsfall
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE002900000)
 
 (1) Die Entschädigungseinrichtung hat unverzüglich nach der
 Unterrichtung durch die Bundesanstalt über einen Entschädigungsfall
@@ -1213,6 +1252,7 @@ insbesondere auf Grund folgender Daten zu schätzen:
 
 
 ##### § 29 Deckung des Mittelbedarfs durch Sonderbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003000000)
 
 (1) Übersteigt der für einen Entschädigungsfall festgestellte
 Mittelbedarf zum Zeitpunkt der Feststellung die verfügbaren
@@ -1233,6 +1273,7 @@ Sonderbeitragsbescheide fällig.
 
 
 ##### § 30 Deckung des Mittelbedarfs durch Kredit; Sonderzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003100000)
 
 (1) Kann die Entschädigungseinrichtung den festgestellten Mittelbedarf
 im Entschädigungsfall nicht rechtzeitig zur Erfüllung ihrer Pflicht
@@ -1256,6 +1297,7 @@ wird.
 
 
 ##### § 31 Berichtspflicht; Erstattung von Sonderbeiträgen und Sonderzahlungen; Rückflüsse aus Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003201119)
 
 (1) Nach Abschluss eines Entschädigungsverfahrens hat die gesetzliche
 Entschädigungseinrichtung den ihr zugeordneten CRR-Kreditinstituten
@@ -1275,6 +1317,7 @@ gesetzlichen Entschädigungseinrichtung gemäß § 20 zuzurechnen.
 
 
 ##### § 32 Sofortige Vollziehbarkeit; Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003300000)
 
 (1) Widerspruch und Anfechtungsklage gegen Beitragsbescheide haben
 keine aufschiebende Wirkung.
@@ -1285,6 +1328,7 @@ Verwaltungsvollstreckungsgesetzes statt.
 
 
 ##### § 32a Inanspruchnahme einer gesetzlichen Entschädigungseinrichtung im Rahmen einer Abwicklung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006600119)
 
 Die §§ 27 bis 32 sind im Falle der Inanspruchnahme einer gesetzlichen
 Entschädigungseinrichtung im Rahmen einer Abwicklung gemäß § 145 des
@@ -1295,6 +1339,7 @@ erfüllen.
 
 
 ##### § 33 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003400000)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
@@ -1336,9 +1381,11 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### Abschnitt 3 - Prüfung der CRR-Kreditinstitute durch gesetzliche Entschädigungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001100000)
 
 
 ##### § 34 Informationspflichten der CRR-Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003500000)
 
 (1) Die CRR-Kreditinstitute sind verpflichtet, der gesetzlichen
 Entschädigungseinrichtung, der sie zugeordnet sind, unverzüglich den
@@ -1356,6 +1403,7 @@ erhöhen können.
 
 
 ##### § 35 Prüfung der CRR-Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003601128)
 
 (1) Die gesetzliche Entschädigungseinrichtung hat zur Einschätzung der
 Gefahr des Eintritts eines Entschädigungsfalls und zur Überprüfung der
@@ -1378,6 +1426,7 @@ keine aufschiebende Wirkung.
 
 
 ##### § 36 Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003700000)
 
 (1) Gesetzliche Entschädigungseinrichtungen haben die Prüfungen nach §
 35 durch eigene sachkundige Prüfer durchzuführen oder geeignete Dritte
@@ -1423,6 +1472,7 @@ Unternehmen entsprechend.
 
 
 ##### § 37 Bericht über das Ergebnis der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003800000)
 
 (1) Über das Ergebnis der Prüfungen nach § 35 ist ein Bericht zu
 erstellen.
@@ -1438,6 +1488,7 @@ diese Feststellungen.
 
 
 ##### § 38 Kosten der Prüfung; Kosten des Entschädigungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE003900000)
 
 (1) Die für Prüfungen nach § 35 entstehenden Kosten haben die
 geprüften CRR-Kreditinstitute der gesetzlichen
@@ -1454,6 +1505,7 @@ Durchführung oder Vorbereitung eines Entschädigungsverfahrens nach den
 
 
 ##### § 39 Pflicht der CRR-Kreditinstitute zur Berichterstattung über Mängelbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004000000)
 
 (1) Stellt die gesetzliche Entschädigungseinrichtung im Rahmen einer
 Prüfung nach § 35 einen Mangel hinsichtlich der rechtlichen,
@@ -1470,6 +1522,7 @@ Umsetzung zu berichten.
 
 
 ##### § 40 Unterrichtung der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004100000)
 
 Erhält die gesetzliche Entschädigungseinrichtung im Rahmen einer
 Prüfung nach § 35 oder in sonstiger Weise Kenntnis von Umständen,
@@ -1479,9 +1532,11 @@ der Bundesanstalt mitzuteilen.
 
 
 #### Abschnitt 4 - Ausschluss aus der gesetzlichen Entschädigungseinrichtung und Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001200000)
 
 
 ##### § 41 Ausschluss aus der gesetzlichen Entschädigungseinrichtung; Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004200000)
 
 (1) Erfüllt ein CRR-Kreditinstitut die Beitrags-, Zahlungs- oder
 Mitwirkungspflichten nach § 7 Absatz 8, den §§ 26, 27, 35, 36, 38 und
@@ -1513,6 +1568,7 @@ Entschädigungseinrichtung und dessen Rechtsfolgen zu informieren.
 
 
 ##### § 42 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004300000)
 
 (1) Die Befolgung der Verfügungen, die die gesetzliche
 Entschädigungseinrichtung innerhalb ihrer gesetzlichen Befugnisse
@@ -1526,12 +1582,15 @@ bis zu 100 000 Euro.
 
 
 ### Kapitel 3 - Als Einlagensicherungssystem anerkannte institutsbezogene Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001300000)
 
 
 #### Abschnitt 1 - Anerkennung institutsbezogener Sicherungssysteme und laufende Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001400000)
 
 
 ##### § 43 Voraussetzungen für die Anerkennung institutsbezogener Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004400000)
 
 (1) Ein institutsbezogenes Sicherungssystem kann auf Antrag von der
 Bundesanstalt als Einlagensicherungssystem anerkannt werden, wenn das
@@ -1587,6 +1646,7 @@ wenn
 
 
 ##### § 44 Anerkennungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004500000)
 
 (1) Der Anerkennungsantrag muss insbesondere folgende Unterlagen und
 Angaben enthalten:
@@ -1651,6 +1711,7 @@ des § 18 Absatz 2 zu machen.
 
 
 ##### § 45 Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004600000)
 
 (1) Die anerkannten institutsbezogenen Sicherungssysteme haben der
 Bundesanstalt unverzüglich anzuzeigen:
@@ -1688,6 +1749,7 @@ und der Bundesanstalt zum 10. Februar jeden Jahres vorzulegen.
 
 
 ##### § 46 Widerruf der Anerkennung; Rechtsfolgen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004701119)
 
 (1) Liegen die Voraussetzungen für eine Anerkennung nach § 43 nicht
 mehr vor, kann die Anerkennung durch die Bundesanstalt widerrufen
@@ -1715,9 +1777,11 @@ Einlagen nach § 8 Absatz 2 werden dabei nicht berücksichtigt.
 
 
 #### Abschnitt 2 - Mindestanforderungen an die Satzung; Ausscheiden eines CRR-Kreditinstituts aus einem anerkannten institutsbezogenen Sicherungssystem
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001500000)
 
 
 ##### § 47 Anforderungen an die Satzung und Satzungsänderung; Ausscheiden eines CRR-Kreditinstituts aus einem anerkannten institutsbezogenen Sicherungssystem
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004801119)
 
 (1) Die Satzung eines anerkannten institutsbezogenen Sicherungssystems
 muss mindestens Folgendes regeln:
@@ -1784,6 +1848,7 @@ nach Maßgabe des Absatzes 3 erfolgten Ausschlusses.
 
 
 ##### § 48 Beitragserhebung anerkannter institutsbezogener Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE004901119)
 
 (1) Die Beitragserhebung eines anerkannten institutsbezogenen
 Sicherungssystems wird durch seine Satzung bestimmt.
@@ -1836,9 +1901,11 @@ zur Beitragserhebung.
 
 
 #### Abschnitt 3 - Stützungsmaßnahmen durch anerkannte institutsbezogene Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001600000)
 
 
 ##### § 49 Stützungsmaßnahmen anerkannter institutsbezogener Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005000000)
 
 (1) Ein anerkanntes institutsbezogenes Sicherungssystem ist, um die
 Bestandsgefährdung eines ihm angehörenden CRR-Kreditinstituts zu
@@ -1907,9 +1974,11 @@ falls
 
 
 ### Kapitel 4 - Aufsicht und Prüfungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001700000)
 
 
 #### § 50 Aufsicht über Einlagensicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005100000)
 
 (1) Einlagensicherungssysteme unterliegen der Aufsicht der
 Bundesanstalt.
@@ -1940,6 +2009,7 @@ hiervon zu unterrichten.
 
 
 #### § 51 Prüfung durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005200000)
 
 Erhält die Bundesanstalt von einem Einlagensicherungssystem Kenntnis
 von Umständen, welche die Gefahr des Eintritts eines
@@ -1950,6 +2020,7 @@ treffen sind.
 
 
 #### § 52 Prüfung der Einlagensicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005300000)
 
 (1) Die Einlagensicherungssysteme haben nach Ablauf eines
 Kalenderjahres einen Geschäftsbericht aufzustellen und der
@@ -1977,6 +2048,7 @@ einzureichen.
 
 
 #### § 53 Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005400000)
 
 (1) Die Einlagensicherungssysteme haben einen Wirtschaftsprüfer oder
 eine Wirtschaftsprüfungsgesellschaft zur Prüfung der Vollständigkeit
@@ -1999,6 +2071,7 @@ Kreditwesengesetzes ist entsprechend anzuwenden.
 
 
 #### § 54 Prüfung der Systeme durch Stresstests
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005500000)
 
 (1) Die Einlagensicherungssysteme haben in regelmäßigen Abständen,
 jedoch mindestens alle drei Jahre, ihre Systeme durch Stresstests auf
@@ -2016,6 +2089,7 @@ Europäische Bankenaufsichtsbehörde weiter.
 
 
 #### § 55 Prüfung durch den Bundesrechnungshof
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005600000)
 
 (1) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung
 der Einlagensicherungssysteme. Die §§ 89, 90, 92 bis 100 der
@@ -2033,9 +2107,11 @@ Bundesrechnungshof ist vor dem Erlass dieser Vorschriften zu hören.
 
 
 ### Kapitel 5 - Zusammenarbeit mit anderen Einlagensicherungssystemen
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001800000)
 
 
 #### § 56 Zweigniederlassungen von inländischen CRR-Kreditinstituten in einem anderen Staat des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005701119)
 
 (1) Ein Einlagensicherungssystem schützt die Einlagen einer
 Zweigniederlassung eines ihm angehörenden CRR-Kreditinstituts in einem
@@ -2070,6 +2146,7 @@ Europäische Bankenaufsichtsbehörde.
 
 
 #### § 57 Zweigniederlassungen von CRR-Kreditinstituten mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005801119)
 
 (1) Ein inländisches Einlagensicherungssystem nach diesem Gesetz hat
 die Aufgabe, die Erstattung von Einlagen der Zweigniederlassungen
@@ -2103,6 +2180,7 @@ entsprechend.
 
 
 #### § 58 Beitragszahlung bei Übertragung von Tätigkeiten eines CRR-Kreditinstituts
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE005900000)
 
 Wenn ein Teil der Tätigkeiten eines CRR-Kreditinstituts auf ein
 anderes CRR-Kreditinstitut in einem anderen Staat des Europäischen
@@ -2117,6 +2195,7 @@ Absatz 1 Nummer 1 und 2.
 
 
 #### § 59 Zweigstellen von CRR-Kreditinstituten mit Sitz in einem Drittland
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006001119)
 
 (1) Verfügen niedergelassene Zweigstellen eines CRR-Kreditinstituts,
 das seinen Sitz außerhalb des Europäischen Wirtschaftsraums hat, über
@@ -2138,9 +2217,11 @@ in deutscher Sprache vorliegen sowie klar und verständlich sein.
 
 
 ### Kapitel 6 - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG001900000)
 
 
 #### § 60 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006100000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 § 34 Absatz 1 einen Jahresabschluss mit dem dazugehörigen
@@ -2168,9 +2249,11 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ## Teil 4 - Institutsbezogene Sicherungssysteme und Einlagensicherungssysteme ohne Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG002000000)
 
 
 ### § 61 Anforderungen an nicht anerkannte Systeme
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006200000)
 
 (1) Für vertragliche Systeme zum Schutz von Einlagen und
 institutsbezogene Sicherungssysteme, die nicht als
@@ -2189,15 +2272,18 @@ Absatz 1 des Kreditwesengesetzes gilt entsprechend.
 
 
 ## Teil 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNG002100000)
 
 
 ### § 62 Nichtanwendung des Versicherungsaufsichtsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006300000)
 
 Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für
 Einlagensicherungssysteme.
 
 
 ### § 63 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/einsig/BJNR078610015.html#BJNR078610015BJNE006401119)
 
 (1) Auf Entschädigungsfälle, die bis zum Inkrafttreten des
 Einlagensicherungsgesetzes vom 28. Mai 2015 (BGBl. I S. 786)

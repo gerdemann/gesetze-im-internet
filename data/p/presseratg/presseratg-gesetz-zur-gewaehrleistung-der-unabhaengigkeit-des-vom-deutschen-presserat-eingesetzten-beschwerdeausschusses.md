@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/presseratg/BJNR022150976.html#BJNR022150976BJNE000100303)
 
 (1) Der Deutsche Presserat erhält zur Gewährleistung seiner
 Unabhängigkeit bei der Wahrnehmung seiner satzungsgemäßen Aufgabe zur
@@ -32,12 +33,14 @@ am 1. April 1976. Er beträgt 80.000 DM.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/presseratg/BJNR022150976.html#BJNR022150976BJNE000200303)
 
 Das Prüfungsrecht des Bundesrechnungshofs bestimmt sich nach § 104 der
 Bundeshaushaltsordnung.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/presseratg/BJNR022150976.html#BJNR022150976BJNE000300303)
 
 Der in § 1 Abs. 2 Satz 2 festgesetzte Betrag ist im Haushaltsplan
 veränderten allgemeinen wirtschaftlichen Verhältnissen anzupassen.
@@ -46,6 +49,7 @@ Betrages.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/presseratg/BJNR022150976.html#BJNR022150976BJNE000400303)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -53,6 +57,7 @@ im Land Berlin.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/presseratg/BJNR022150976.html#BJNR022150976BJNE000500303)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

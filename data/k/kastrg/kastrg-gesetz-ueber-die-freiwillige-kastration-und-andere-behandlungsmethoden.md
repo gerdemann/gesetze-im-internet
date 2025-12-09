@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000100303)
 
 Kastration im Sinne dieses Gesetzes ist eine gegen die Auswirkungen
 eines abnormen Geschlechtstriebes gerichtete Behandlung, durch welche
@@ -28,6 +29,7 @@ funktionsunfähig gemacht werden.
 
 
 ## § 2 Voraussetzungen der Kastration
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000204123)
 
 (1) Die Kastration durch einen Arzt ist nicht als Körperverletzung
 strafbar, wenn
@@ -68,6 +70,7 @@ Betroffenen bei seiner künftigen Lebensführung zu helfen.
 
 
 ## § 3 Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000301309)
 
 (1) Die Einwilligung ist unwirksam, wenn der Betroffene nicht vorher
 über Grund, Bedeutung und Nachwirkungen der Kastration, über andere in
@@ -105,6 +108,7 @@ anzuwenden.
 
 
 ## § 4 Andere Behandlungsmethoden
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000400303)
 
 (1) Die §§ 2 und 3 Abs. 1 bis 3 gelten entsprechend für eine gegen die
 Auswirkungen eines abnormen Geschlechtstriebes gerichtete ärztliche
@@ -132,6 +136,7 @@ Einwilligung ist unwirksam, wenn der Einwilligende nicht im Sinne des
 
 
 ## § 5 Gutachterstelle
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000500303)
 
 (1) Die Kastration darf erst vorgenommen werden, nachdem eine
 Gutachterstelle bestätigt hat, daß
@@ -157,6 +162,7 @@ dem Landesrecht.
 
 
 ## § 6 Genehmigung des Betreuungsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000601140)
 
 In den Fällen des § 3 Abs. 3, 4 sowie des § 4 Abs. 2 bedarf die
 Einwilligung der Genehmigung des Betreuungsgerichts. Das
@@ -166,6 +172,7 @@ Rechtskraft wirksam.
 
 
 ## § 7 Strafvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000701140)
 
 Wer als Arzt unter den Voraussetzungen der §§ 2 und 3 einen anderen
 kastriert oder im Sinne des § 4 behandelt, ohne daß
@@ -182,15 +189,18 @@ Geldstrafe bestraft.
 
 
 ## (XXXX) §§ 8 und 9
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000800303)
 
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE000900303)
 
 -
 
 
 ## § 11 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE001000303)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -198,6 +208,7 @@ im Land Berlin.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kastrg/BJNR011430969.html#BJNR011430969BJNE001100303)
 
 Dieses Gesetz tritt sechs Monate nach seiner Verkündung in Kraft.
 

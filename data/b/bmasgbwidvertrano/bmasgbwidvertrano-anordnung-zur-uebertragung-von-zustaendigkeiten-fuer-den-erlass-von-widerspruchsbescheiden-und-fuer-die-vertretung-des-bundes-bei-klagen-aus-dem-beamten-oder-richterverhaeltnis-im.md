@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000100000)
 
 Das Bundesministerium für Arbeit und Soziales erlässt
 
@@ -48,6 +49,7 @@ die folgende Anordnung:
 
 
 ## § 1 Erlass von Widerspruchsbescheiden in allgemeinen dienstrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000201000)
 
 (1) Die Zuständigkeit für den Erlass von Widerspruchsbescheiden nach §
 126 Absatz 3 Satz 1 des Bundesbeamtengesetzes wird den folgenden
@@ -88,6 +90,7 @@ den Widerspruch zu entscheiden.
 
 
 ## § 2 Erlass von Widerspruchsbescheiden in Prüfungsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000301000)
 
 In Prüfungsangelegenheiten von Regierungsinspektoranwärterinnen und
 -anwärtern beim Bundesamt für Soziale Sicherung wird die Zuständigkeit
@@ -99,6 +102,7 @@ die Maßnahme getroffen hat.
 
 
 ## § 3 Vertretung des Bundes bei Klagen in allgemeinen dienstrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000400000)
 
 (1) Soweit die Zuständigkeit für den Erlass von Widerspruchsbescheiden
 den in § 1 genannten Behörden übertragen ist, wird deren Leiterinnen
@@ -111,6 +115,7 @@ Vertretung im Einzelfall selbst zu übernehmen.
 
 
 ## § 4 Vertretung des Bundes bei Klagen in Prüfungsangelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000501000)
 
 Bei Klagen von Regierungsinspektoranwärterinnen und -anwärtern beim
 Bundesamt für Soziale Sicherung in Prüfungsangelegenheiten wird die
@@ -123,6 +128,7 @@ Widerspruchsbescheids zuständig war.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000601000)
 
 Bis zum Abschluss von Rechtsbehelfsverfahren von Beschäftigten der
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und des
@@ -148,6 +154,7 @@ der bis dahin geltenden Fassung weiter anzuwenden:
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmasgbwidvertrano/BJNR107300022.html#BJNR107300022BJNE000700000)
 
 (1) Diese Anordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der
 Verkündung in Kraft. Gleichzeitig treten außer Kraft:

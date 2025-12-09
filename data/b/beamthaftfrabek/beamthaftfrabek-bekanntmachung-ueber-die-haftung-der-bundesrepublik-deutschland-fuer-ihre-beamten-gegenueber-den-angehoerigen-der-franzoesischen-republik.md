@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/beamthaftfrabek/BJNR018550961.html#BJNR018550961BJNE000100303)
 
 Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine
 Beamten vom 22. Mai 1910 (Reichsgesetzbl. S. 798) wird bekanntgemacht,

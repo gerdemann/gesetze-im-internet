@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000100000)
 
 Auf Grund des § 30a Abs. 5 und des § 93 Abs. 2 Nr. 5 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
@@ -29,6 +30,7 @@ Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 
 
 ## § 1 Zulässigkeit von Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000203126)
 
 (1) Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
@@ -64,6 +66,7 @@ entgegenstehen.
 
 
 ## § 2 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000301377)
 
 (1) Die Teilzeitbeschäftigung ist grundsätzlich spätestens drei Monate
 vor ihrem beabsichtigten Beginn bei der oder dem nächsten
@@ -107,6 +110,7 @@ Heranziehung zum Wehrdienst zu entscheiden.
 
 
 ## § 3 Antrag auf familienbedingte Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000401377)
 
 (1) Im Antrag auf familienbedingte Teilzeitbeschäftigung (§ 30a Absatz
 1 Satz 2 des Soldatengesetzes) ist darzulegen, dass mindestens ein
@@ -154,6 +158,7 @@ Lebenspartners.
 
 
 ## § 4 Zuständigkeit für die Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000501377)
 
 (1) Über einen Antrag auf Bewilligung einer Teilzeitbeschäftigung
 entscheidet das Bundesministerium der Verteidigung für alle
@@ -182,6 +187,7 @@ einer Teilzeitbeschäftigung.
 
 
 ## § 5 Ausgestaltung der Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000601126)
 
 (1) Die Teilzeitbeschäftigung kann auf bis zu vier, zur Vermeidung
 unbilliger Härten auch auf mehr Zeitabschnitte verteilt werden.
@@ -192,6 +198,7 @@ soweit wichtige dienstliche Gründe nicht entgegenstehen.
 
 
 ## § 6 Ausschlüsse und Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000702377)
 
 (1) Teilzeitbeschäftigung ist grundsätzlich nicht möglich
 
@@ -250,6 +257,7 @@ der Verteidigung.
 
 
 ## § 7 Bewilligung oder Ablehnung des Antrages
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000802377)
 
 (1) Die Bewilligung einer Teilzeitbeschäftigung oder ihrer
 Verlängerung außerhalb eines Dienstpostens bedarf der vorherigen
@@ -277,6 +285,7 @@ Stelle, hat sie diese zu unterrichten.
 
 
 ## § 8 Widerruf und Änderung der Bewilligung sowie vorzeitige Beendigung der Teilzeitbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE000900000)
 
 (1) Bei Entscheidungen nach § 4 Abs. 3 Nr. 2 bis 4 hat die
 Entlassungsdienststelle, die nicht zugleich personalbearbeitende
@@ -297,6 +306,7 @@ Abs. 2 Satz 1 genannten Disziplinarvorgesetzten festgelegt werden.
 
 
 ## § 9 Zusammenfassung der Freistellung von der Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE001001377)
 
 Bei einer Teilzeitbeschäftigung können Freistellungszeiten zu
 Freistellungsphasen von bis zu drei Monaten zusammengefasst werden
@@ -310,6 +320,7 @@ Soldatengesetzes) fallen würde.
 
 
 ## § 10 Soldatinnen und Soldaten in zivilen Dienststellen der Bundeswehrverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/stzv/BJNR315700005.html#BJNR315700005BJNE001100377)
 
 Für Soldatinnen und Soldaten, die in zivilen Dienststellen der
 Bundeswehrverwaltung im Geschäftsbereich des Bundesministeriums der

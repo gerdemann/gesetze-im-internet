@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000100000)
 
 Auf Grund des § 32 Nr. 1 des Neunten Buches Sozialgesetzbuch -
 Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des
@@ -32,6 +33,7 @@ und Soziale Sicherung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000201119)
 
 Die Abgrenzung der durch interdisziplinäre Frühförderstellen und
 sozialpädiatrische Zentren ausgeführten Leistungen nach § 46 Abs. 1
@@ -43,6 +45,7 @@ Entgelte richtet sich nach den folgenden Vorschriften.
 
 
 ## § 2 Früherkennung und Frühförderung
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000301119)
 
 Leistungen nach § 1 umfassen
 
@@ -65,6 +68,7 @@ der Kinder ausgeführt.
 
 
 ## § 3 Interdisziplinäre Frühförderstellen
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000401119)
 
 Interdisziplinäre Frühförderstellen oder nach Landesrecht zugelassene
 Einrichtungen mit vergleichbarem interdisziplinärem Förder-,
@@ -83,6 +87,7 @@ einschließlich mobiler Form erbracht.
 
 
 ## § 4 Sozialpädiatrische Zentren
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000501119)
 
 Sozialpädiatrische Zentren im Sinne dieser Verordnung sind die nach §
 119 Abs. 1 des Fünften Buches Sozialgesetzbuch zur ambulanten
@@ -100,6 +105,7 @@ Frühförderstellen erbracht.
 
 
 ## § 5 Leistungen zur medizinischen Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000601119)
 
 (1) Die im Rahmen von Leistungen zur medizinischen Rehabilitation nach
 § 46 des Neunten Buches Sozialgesetzbuch zur Früherkennung und
@@ -168,6 +174,7 @@ Erziehungsberechtigten, insbesondere
 
 
 ## § 6 Heilpädagogische Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000701119)
 
 Heilpädagogische Leistungen nach § 79 des Neunten Buches
 Sozialgesetzbuch umfassen alle Maßnahmen, die die Entwicklung des
@@ -179,6 +186,7 @@ entsprechend.
 
 
 ## § 6a Weitere Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE001300119)
 
 Weitere Leistungen der Komplexleistung Frühförderung sind insbesondere
 
@@ -229,6 +237,7 @@ Frühförderung.
 
 
 ## § 7 Förder- und Behandlungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000801119)
 
 (1) Die interdisziplinären Frühförderstellen, nach Landesrecht
 zugelassene Einrichtungen mit vergleichbarem interdisziplinärem
@@ -260,6 +269,7 @@ die Erbringung von Heilmitteln empfehlen.
 
 
 ## § 8 Erbringung der Komplexleistung
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE000901119)
 
 (1) Die zur Förderung und Behandlung nach §§ 5 und 6 erforderlichen
 Leistungen werden von den beteiligten Rehabilitationsträgern auf der
@@ -300,6 +310,7 @@ beteiligten Stellen beteiligt werden.
 
 
 ## § 9 Teilung der Kosten der Komplexleistung
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE001001119)
 
 Die Übernahme oder Teilung der Kosten zwischen den beteiligten
 Rehabilitationsträgern für die nach den §§ 5, 6 und 6a zu erbringenden
@@ -308,12 +319,14 @@ Sozialgesetzbuch geregelt.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE001100000)
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html#BJNR099800003BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

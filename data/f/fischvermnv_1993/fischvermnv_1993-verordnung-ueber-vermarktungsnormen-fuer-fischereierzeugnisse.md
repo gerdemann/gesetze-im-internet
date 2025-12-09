@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischvermnv_1993/BJNR150710993.html#BJNR150710993BJNE000101308)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Verordnungen des Rates und der Kommission der Europäischen
@@ -32,6 +33,7 @@ Aquakultur erlassen worden sind.
 
 
 ## § 2 Marktnotierungen
+[Direktlink](https://www.gesetze-im-internet.de/fischvermnv_1993/BJNR150710993.html#BJNR150710993BJNE000202308)
 
 Börsen, Verwaltungen, öffentliche Märkte und sonstige Stellen, die
 über das erste Anbieten und den ersten Verkauf von
@@ -46,6 +48,7 @@ Fassung festgelegt sind.
 
 
 ## § 3 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/fischvermnv_1993/BJNR150710993.html#BJNR150710993BJNE000303308)
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist außerhalb der
 verbindlichen Anlandeorte nach Anlage 3 der Seefischereiverordnung
@@ -63,6 +66,7 @@ Inland, solange die Fischereierzeugnisse Nichtgemeinschaftswaren sind.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fischvermnv_1993/BJNR150710993.html#BJNR150710993BJNE000403377)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -178,6 +182,7 @@ geahndet werden.
 
 
 ## § 5 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fischvermnv_1993/BJNR150710993.html#BJNR150710993BJNE000502308)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes

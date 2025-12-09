@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Sicherungsmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNG000100317)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE000402310)
 
 (1) Der Empfänger von Baugeld ist verpflichtet, das Baugeld zur
 Befriedigung solcher Personen, die an der Herstellung oder dem Umbau
@@ -68,6 +70,7 @@ streitig, so trifft die Beweislast den Empfänger.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE000802310)
 
 Baugeldempfänger, welche ihre Zahlungen eingestellt haben oder über
 deren Vermögen das Insolvenzverfahren eröffnet worden ist und deren in
@@ -79,29 +82,35 @@ zuwidergehandelt haben.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE000700317)
 
 -
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE001000317)
 
 -
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE001100317)
 
 -
 
 
 ## Zweiter Abschnitt - Dingliche Sicherung der Bauforderungen
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNG000200317)
 
 
 
 ### Erster bis siebenter Titel
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNG000300317)
 
 
 
 #### (XXXX) §§ 9 bis 67 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/baufordsig/BJNR004490909.html#BJNR004490909BJNE001200317)
 
 -
 

@@ -30,10 +30,12 @@ Zuletzt geändert durch
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000102305)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE000604116)
 
 (1) Zweck dieses Gesetzes ist die wirtschaftliche Sicherung der
 Krankenhäuser, um eine qualitativ hochwertige, patienten- und
@@ -53,6 +55,7 @@ wirtschaftlichen Betriebsführung hinaus beeinträchtigt werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005603116)
 
 Im Sinne dieses Gesetzes sind
 
@@ -191,6 +194,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ### § 2a Krankenhausstandort
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005001130)
 
 (1) Ein Krankenhausstandort ist ein Gebäude oder ein zusammenhängender
 Gebäudekomplex eines Krankenhausträgers, in dem Patienten in
@@ -264,6 +268,7 @@ Krankenhauses zu schließen, bleibt bestehen.
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE000807116)
 
 Dieses Gesetz findet keine Anwendung auf
 
@@ -292,6 +297,7 @@ trägt.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE000903314)
 
 Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
 
@@ -309,6 +315,7 @@ Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
 
 
 ### § 5 Nicht förderungsfähige Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001006310)
 
 (1) Nach diesem Gesetz werden nicht gefördert
 
@@ -387,6 +394,7 @@ Krankenhäusern und Einrichtungen gewährt wird.
 
 
 ### § 6 Krankenhausplanung und Investitionsprogramme
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001106130)
 
 (1) Die Länder stellen zur Verwirklichung der in § 1 genannten Ziele
 Krankenhauspläne und Investitionsprogramme auf; Folgekosten,
@@ -410,6 +418,7 @@ Pflegeeinrichtungen umzuwidmen.
 
 
 ### § 6a Zuweisung von Leistungsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001203130)
 
 (1) Die für die Krankenhausplanung zuständige Landesbehörde kann einem
 nach § 108 Nummer 1 oder Nummer 2 des Fünften Buches Sozialgesetzbuch
@@ -669,6 +678,7 @@ Daten zu übermitteln:
 
 
 ### § 6b Zuweisung von Koordinierungs- und Vernetzungsaufgaben
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007000130)
 
 Die für die Krankenhausplanung zuständige Landesbehörde kann einem
 Krankenhaus unter der in Satz 3 genannten Voraussetzung im Benehmen
@@ -725,6 +735,7 @@ Nähere zur Datenübermittlung.
 
 
 ### § 6c Bestimmung als sektorenübergreifende Versorgungseinrichtung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007100130)
 
 (1) Die für die Krankenhausplanung zuständige Landesbehörde kann
 Standorte von Krankenhäusern im Benehmen mit den Landesverbänden der
@@ -743,6 +754,7 @@ mitzuteilen.
 
 
 ### § 7 Mitwirkung der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001302305)
 
 (1) Bei der Durchführung dieses Gesetzes arbeiten die Landesbehörden
 mit den an der Krankenhausversorgung im Lande Beteiligten eng
@@ -755,10 +767,12 @@ anzustreben.
 
 
 ## 2. Abschnitt - Grundsätze der Investitionsförderung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000202305)
 
 
 
 ### § 8 Voraussetzungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001407130)
 
 (1) Die Krankenhäuser haben nach Maßgabe dieses Gesetzes Anspruch auf
 Förderung, soweit und solange sie in den Krankenhausplan eines Landes
@@ -787,6 +801,7 @@ Vorschriften dieses Abschnitts entsprechend.
 
 
 ### § 9 Fördertatbestände
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001507130)
 
 (1) Die Länder fördern auf Antrag des Krankenhausträgers
 Investitionskosten, die entstehen insbesondere
@@ -865,6 +880,7 @@ notwendigen Investitionskosten decken.
 
 
 ### § 10 Entwicklungsauftrag zur Reform der Investitionsfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001610116)
 
 (1) Für in den Krankenhausplan eines Landes aufgenommene
 Krankenhäuser, die Entgelte nach § 17b erhalten, sowie für in den
@@ -902,6 +918,7 @@ Absatz 2 Satz 8 entsprechend.
 
 
 ### § 11 Landesrechtliche Vorschriften über die Förderung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001702305)
 
 Das Nähere zur Förderung wird durch Landesrecht bestimmt. Dabei kann
 auch geregelt werden, daß Krankenhäuser bei der Ausbildung von Ärzten
@@ -911,6 +928,7 @@ Personalkosten entstehen, ist ihre Finanzierung zu gewährleisten.
 
 
 ### § 12 Förderung von Vorhaben zur Verbesserung von Versorgungsstrukturen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001807116)
 
 (1) Zur Förderung von Vorhaben der Länder zur Verbesserung der
 Strukturen in der Krankenhausversorgung wird beim Bundesamt für
@@ -1017,6 +1035,7 @@ Nähere
 
 
 ### § 12a Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005103130)
 
 (1) Zur Fortführung der Förderung von Vorhaben der Länder zur
 Verbesserung der Strukturen in der Krankenhausversorgung werden dem
@@ -1154,6 +1173,7 @@ geregelt werden
 
 
 ### § 12b Transformationsfonds, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007201130)
 
 (1) Zur Förderung von Vorhaben der Länder zur Anpassung der Strukturen
 in der Krankenhausversorgung an die durch das
@@ -1432,6 +1452,7 @@ Sozialgesetzbuch beinhaltet.
 
 
 ### § 13 Entscheidung zu den förderungsfähigen Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004701116)
 
 Im Einvernehmen mit den Landesverbänden der Krankenkassen und den
 Ersatzkassen treffen die Länder die Entscheidung, welche Vorhaben
@@ -1443,6 +1464,7 @@ zweckentsprechende Verwendung der Fördermittel.
 
 
 ### § 14 Auswertung der Wirkungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004803130)
 
 Das Bundesamt für Soziale Sicherung gibt in Abstimmung mit dem
 Bundesministerium für Gesundheit und dem Bundesministerium der
@@ -1469,6 +1491,7 @@ Bundesministerium für Gesundheit dem Deutschen Bundestag einen Bericht
 
 
 ### § 14a Krankenhauszukunftsfonds
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005703130)
 
 (1) Beim Bundesamt für Soziale Sicherung wird aus Mitteln der
 Liquiditätsreserve des Gesundheitsfonds ein Krankenhauszukunftsfonds
@@ -1626,6 +1649,7 @@ Rechtsverordnung nach § 12 Absatz 3 auch das Nähere zu
 
 
 ### § 14b Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung und Begleitforschung für die digitale Transformation im Rahmen des Krankenhauszukunftsfonds
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005802130)
 
 Das Bundesministerium für Gesundheit führt zur Evaluation des
 Krankenhauszukunftsfonds eine Auswertung hinsichtlich der
@@ -1658,6 +1682,7 @@ die Teilnahme gegenüber dem Bundesamt für Soziale Sicherung.
 
 
 ### § 15 Beteiligung an Schließungskosten
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004900116)
 
 Die Vertragsparteien nach § 18 können vereinbaren, dass sich die in §
 18 Absatz 2 genannten Sozialleistungsträger an den Kosten der
@@ -1672,10 +1697,12 @@ Krankenhaus gewährt worden sind.
 
 
 ## 3. Abschnitt - Vorschriften über Krankenhauspflegesätze
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000302305)
 
 
 
 ### § 16 Verordnung zur Regelung der Pflegesätze
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE001904320)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zu erlassen über
@@ -1728,6 +1755,7 @@ Landesbehörden weiter übertragen können.
 
 
 ### § 17 Grundsätze für die Pflegesatzregelung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002116360)
 
 (1) Die Pflegesätze und die Vergütung für vor- und nachstationäre
 Behandlung nach § 115a des Fünften Buches Sozialgesetzbuch sind für
@@ -1837,6 +1865,7 @@ Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
 
 
 ### § 17a Finanzierung von Ausbildungskosten
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004220116)
 
 (1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis n
 genannten mit den Krankenhäusern notwendigerweise verbundenen
@@ -2072,6 +2101,7 @@ sind.
 
 
 ### § 17b Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004336130)
 
 (1) Für die Vergütung der allgemeinen Krankenhausleistungen gilt ein
 durchgängiges, leistungsorientiertes und pauschalierendes
@@ -2674,6 +2704,7 @@ die Vertragsparteien nach Absatz 2 zu vereinbaren.
 
 
 ### § 17c Prüfung der Abrechnung von Pflegesätzen, Statistik
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004415130)
 
 (1) Der Krankenhausträger wirkt durch geeignete Maßnahmen darauf hin,
 dass
@@ -2916,6 +2947,7 @@ Sachverständige zu beauftragen.
 
 
 ### § 17d Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004507116)
 
 (1) Für die Vergütung der allgemeinen Krankenhausleistungen von
 Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten
@@ -3085,6 +3117,7 @@ Absatz 2 Nr. 1 Buchstabe a und e und Nr. 2 Buchstabe a bis h zu
 
 
 ### § 18 Pflegesatzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002311116)
 
 (1) Die nach Maßgabe dieses Gesetzes für das einzelne Krankenhaus zu
 verhandelnden Pflegesätze werden zwischen dem Krankenhausträger und
@@ -3143,6 +3176,7 @@ Klage hat keine aufschiebende Wirkung.
 
 
 ### § 18a Schiedsstelle, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002408116)
 
 (1) Die Landeskrankenhausgesellschaften und die Landesverbände der
 Krankenkassen bilden für jedes Land oder jeweils für Teile des Landes
@@ -3230,11 +3264,13 @@ Klage hat keine aufschiebende Wirkung.
 
 
 ### § 18b
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002505320)
 
 (aufgehoben)
 
 
 ### § 19 Schlichtungsausschuss auf Bundesebene zur Klärung strittiger Kodier- und Abrechnungsfragen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002607116)
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der
 Privaten Krankenversicherung gemeinsam bilden mit der Deutschen
@@ -3311,6 +3347,7 @@ angerufen haben, mit Ausnahme des Bundesministeriums für Gesundheit.
 
 
 ### § 20 Nichtanwendung von Pflegesatzvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002703314)
 
 Die Vorschriften des Dritten Abschnitts mit Ausnahme des § 17 Abs. 5
 finden keine Anwendung auf Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4
@@ -3322,10 +3359,12 @@ vergleichbarer öffentlicher Krankenhäuser treten.
 
 
 ## 4. Abschnitt - Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000405116)
 
 
 
 ### § 21 Ausgleichszahlungen an Krankenhäuser aufgrund von Sonderbelastungen durch das neuartige Coronavirus SARS-CoV-2
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005206125)
 
 (1) Soweit zugelassene Krankenhäuser zur Erhöhung der
 Bettenkapazitäten für die Versorgung von Patientinnen und Patienten,
@@ -3728,6 +3767,7 @@ Bundespflegesatzverordnung für das Jahr 2020 ausgeschlossen.
 
 
 ### § 21a Versorgungsaufschlag an Krankenhäuser auf Grund von Sonderbelastungen durch das Coronavirus SARS-CoV-2
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006600125)
 
 (1) Zugelassene Krankenhäuser erhalten für jede Patientin und jeden
 Patienten, die oder der zwischen dem 1. November 2021 und dem 19. März
@@ -3828,6 +3868,7 @@ worden sind.
 
 
 ### § 22 Behandlung in Vorsorge- und Rehabilitationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005302125)
 
 (1) Die Länder können Vorsorge- und Rehabilitationseinrichtungen
 bestimmen, in denen Patientinnen und Patienten, die einer nicht
@@ -3874,6 +3915,7 @@ vier Wochen fest.
 
 
 ### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005407116)
 
 (1) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
 im Einvernehmen mit dem Bundesministerium der Finanzen mit Zustimmung
@@ -3982,6 +4024,7 @@ des Bundesrates
 
 
 ### § 24 Überprüfung der Auswirkungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005504125)
 
 Das Bundesministerium für Gesundheit überprüft die Auswirkungen der
 Reglungen in den §§ 21 bis 23 auf die wirtschaftliche Lage der
@@ -3994,6 +4037,7 @@ Erfahrung verfügen.
 
 
 ### § 25 Ausnahmen von Prüfungen bei Krankenhausbehandlung und von der Prüfung von Strukturmerkmalen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003710130)
 
 (1) Behandelt ein Krankenhaus zwischen dem 1. April 2020 und
 einschließlich dem 30. Juni 2020, zwischen dem 1. November 2020 und
@@ -4044,6 +4088,7 @@ prüfen, ob das Krankenhaus dieses Strukturmerkmal erfüllt.
 
 
 ### § 26 Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE004103116)
 
 (1) Kosten, die den Krankenhäusern für Testungen auf eine Infektion
 mit dem Coronavirus SARS-CoV-2 bei Patientinnen und Patienten
@@ -4062,6 +4107,7 @@ Antrag einer Vertragspartei innerhalb einer weiteren Woche fest.
 
 
 ### § 26a Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE005900116)
 
 (1) Zugelassene Krankenhäuser, die im Zeitraum vom 1. Januar 2020 bis
 zum 31. Mai 2020 durch die voll- oder teilstationäre Behandlung von
@@ -4155,6 +4201,7 @@ privaten Krankenversicherungsunternehmen zurück.
 
 
 ### § 26b Kostentragung für durch den Bund beschaffte Arzneimittel mit dem Wirkstoff Remdesivir
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006000116)
 
 (1) Die Beschaffung von Arzneimitteln mit dem Wirkstoff Remdesivir für
 den Zeitraum Oktober 2020 bis März 2021 erfolgt zentral über den Bund
@@ -4239,6 +4286,7 @@ bestimmt das Nähere zu den Erstattungen nach den Sätzen 6 und 7.
 
 
 ### § 26c Kostenerstattung für durch den Bund beschaffte Produkte
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006100116)
 
 (1) Für nicht anderweitig finanzierte Kosten, die den Krankenhäusern
 für Produkte entstehen, die während einer vom Deutschen Bundestag nach
@@ -4264,6 +4312,7 @@ weiteren Wochen fest.
 
 
 ### § 26d Erweiterte Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006200116)
 
 (1) Zugelassene Krankenhäuser, die ihre Leistungen nach dem
 Krankenhausentgeltgesetz abrechnen und die im Zeitraum vom 1. Januar
@@ -4367,6 +4416,7 @@ für Gesundheit vorlegt.
 
 
 ### § 26e Erneute Sonderleistung an Pflegefachkräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006701360)
 
 (1) Ist ein zugelassenes Krankenhaus, das seine Leistungen nach dem
 Krankenhausentgeltgesetz abrechnet, im Zeitraum vom 1. Januar 2021 bis
@@ -4577,6 +4627,7 @@ den Bund.
 
 
 ### § 26f Ausgleich für Steigerungen der Kosten für den Bezug von Erdgas, Wärme und Strom
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006802360)
 
 (1) Zugelassene Krankenhäuser erhalten für den Zeitraum vom
 1\. Oktober 2022 bis zum 30. April 2024 aus der Liquiditätsreserve des
@@ -4900,14 +4951,17 @@ und der Erstattung der Kosten der Energieberatung nach Absatz 8.
 
 
 ## 5. Abschnitt - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000502130)
 
 
 
 ### Unterabschnitt 1 - Zuständigkeiten, Statistik, Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000600130)
 
 
 
 #### § 27 Zuständigkeitsregelung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE002906310)
 
 Die in diesem Gesetz den Landesverbänden der Krankenkassen
 zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
@@ -4919,6 +4973,7 @@ Landwirtschaft, Forsten und Gartenbau wahr.
 
 
 #### § 28 Auskunftspflicht und Statistik
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003014130)
 
 (1) Die Träger der nach § 108 des Fünften Buches Sozialgesetzbuch zur
 Krankenhausbehandlung zugelassenen Krankenhäuser und die
@@ -5030,11 +5085,13 @@ Auswertung als Bundesstatistik zu folgenden Sachverhalten durch:
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003104320)
 
 (aufgehoben)
 
 
 #### § 30 Darlehen aus Bundesmitteln
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003202305)
 
 Lasten aus Darlehen, die vor der Aufnahme des Krankenhauses in den
 Krankenhausplan für förderungsfähige Investitionskosten aus
@@ -5047,10 +5104,12 @@ entsprechend.
 
 
 ### Unterabschnitt 2 - Institut für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000700130)
 
 
 
 #### § 31 Beleihung des Instituts für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003303116)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus nimmt die
 Aufgaben als Beliehener wahr, die ihm
@@ -5079,6 +5138,7 @@ Beliehenen haben keine aufschiebende Wirkung.
 
 
 #### § 32 Eignung zur Aufgabenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE003403116)
 
 (1) Der Gegenstand der Gesellschaft des Beliehenen darf vorbehaltlich
 des Absatzes 2 nur auf die Erfüllung der ihm übertragenen Aufgaben und
@@ -5120,6 +5180,7 @@ auflösen.
 
 
 #### § 33 Aufsicht über den Beliehenen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006300116)
 
 (1) Der Beliehene unterliegt bei der Wahrnehmung der ihm übertragenen
 Aufgaben der Rechtsaufsicht des Bundesministeriums für Gesundheit.
@@ -5141,6 +5202,7 @@ anwendbar.
 
 
 #### § 34 Rückgriff
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006400116)
 
 Wird der Bund wegen eines Schadens in Anspruch genommen, den der
 Beliehene bei der Erfüllung der ihm übertragenen Aufgaben oder von
@@ -5150,12 +5212,14 @@ kann der Bund gegenüber dem Beliehenen Rückgriff nehmen.
 
 
 #### § 35 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006500116)
 
 Die Aufwendungen des Beliehenen werden durch den DRG-Systemzuschlag
 nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
 
 
 #### § 36 Unterstützung und Beratung durch das Institut für das Entgeltsystem im Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE006900130)
 
 Das Institut für das Entgeltsystem im Krankenhaus unterstützt und
 berät das Bundesministerium für Gesundheit nach dessen Weisung bei der
@@ -5171,6 +5235,7 @@ Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 ausgeglichen.
 
 
 #### § 37 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit der Ermittlung der Vergütung eines Vorhaltebudgets
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007301130)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus ermittelt
 Vorhaltevolumina als Summe von Vorhaltebewertungsrelationen nach den
@@ -5423,6 +5488,7 @@ aufgeteilten Förderbeträge barrierefrei auf seiner Internetseite.
 
 
 #### § 38 Aufgaben des Instituts für das Entgeltsystem im Krankenhaus im Zusammenhang mit Zuschlägenzur Förderung von Koordinierungs- und Vernetzungsaufgaben und zur Finanzierung der speziellen Vorhaltung von Hochschulkliniken
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007400130)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus teilt jährlich,
 erstmals für das Kalenderjahr 2027, zur Ermittlung der Beträge der
@@ -5479,10 +5545,12 @@ jeweils vorhergehenden Kalenderjahres, erstmals bis zum 10. Dezember
 
 
 ### Unterabschnitt 3 - Förderbeträge und Förderung der Spezialisierung
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNG000800130)
 
 
 
 #### § 39 Förderbeträge für die Bereiche Pädiatrie, Geburtshilfe, Stroke Unit, Spezielle Traumatologie und Intensivmedizin
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007500130)
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus teilt bis zum
 10\. Dezember eines jeden Kalenderjahres für das jeweils folgende
@@ -5599,6 +5667,7 @@ ermittelten Produkte gebildet wird.
 
 
 #### § 40 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte und des Instituts für das Entgeltsystem im Krankenhaus hinsichtlich der Förderung der Spezialisierung bei der Erbringung von onkochirurgischen Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/khg/BJNR010090972.html#BJNR010090972BJNE007600130)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
 identifiziert in dem in § 301 Absatz 2 des Fünften Buches

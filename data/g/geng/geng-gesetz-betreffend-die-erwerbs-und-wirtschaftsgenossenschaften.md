@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Errichtung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG000103377)
 
 
 
 ### § 1 Wesen der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000203377)
 
 (1) Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck
 darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder
@@ -51,12 +53,14 @@ zu dienen bestimmt ist.
 
 
 ### § 2 Haftung für Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000303377)
 
 Für die Verbindlichkeiten der Genossenschaft haftet den Gläubigern nur
 das Vermögen der Genossenschaft.
 
 
 ### § 3 Firma der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000404377)
 
 Die Firma der Genossenschaft muss, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
@@ -66,16 +70,19 @@ entsprechend.
 
 
 ### § 4 Mindestzahl der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000503377)
 
 Die Zahl der Mitglieder muss mindestens drei betragen.
 
 
 ### § 5 Form der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000604125)
 
 Die Satzung der Genossenschaft bedarf der Textform.
 
 
 ### § 6 Mindestinhalt der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000705123)
 
 Die Satzung muss enthalten:
 
@@ -113,6 +120,7 @@ Die Satzung muss enthalten:
 
 
 ### § 7 Weiterer zwingender Satzungsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000803377)
 
 Die Satzung muss ferner bestimmen:
 
@@ -134,6 +142,7 @@ Die Satzung muss ferner bestimmen:
 
 
 ### § 7a Mehrere Geschäftsanteile; Sacheinlagen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE000903377)
 
 (1) Die Satzung kann bestimmen, dass sich ein Mitglied mit mehr als
 einem Geschäftsanteil beteiligen darf. Die Satzung kann eine
@@ -152,6 +161,7 @@ Geschäftsanteil zulassen.
 
 
 ### § 8 Satzungsvorbehalt für einzelne Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001004123)
 
 (1) Der Aufnahme in die Satzung bedürfen Bestimmungen, nach welchen:
 
@@ -196,6 +206,7 @@ Aufsichtsratsmitglieder nicht überschreiten.
 
 
 ### § 8a Mindestkapital
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023301377)
 
 (1) In der Satzung kann ein Mindestkapital der Genossenschaft bestimmt
 werden, das durch die Auszahlung des Auseinandersetzungsguthabens von
@@ -209,6 +220,7 @@ Satzung.
 
 
 ### § 9 Vorstand; Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001105360)
 
 (1) Die Genossenschaft muss einen Vorstand und einen Aufsichtsrat
 haben. Bei Genossenschaften mit nicht mehr als 20 Mitgliedern kann
@@ -256,6 +268,7 @@ nicht länger als fünf Jahre sein.
 
 
 ### § 10 Genossenschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001205140)
 
 (1) Die Satzung sowie die Mitglieder des Vorstands sind in das
 Genossenschaftsregister bei dem Gericht einzutragen, in dessen Bezirk
@@ -267,6 +280,7 @@ gebracht werden.
 
 
 ### § 11 Anmeldung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001307125)
 
 (1) Der Vorstand hat die Genossenschaft bei dem Gericht zur Eintragung
 in das Genossenschaftsregister anzumelden.
@@ -312,6 +326,7 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 
 ### § 11a Prüfung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001404377)
 
 (1) Das Gericht hat zu prüfen, ob die Genossenschaft ordnungsmäßig
 errichtet und angemeldet ist. Ist dies nicht der Fall, so hat es die
@@ -345,17 +360,20 @@ soweit diese Bestimmung, ihr Fehlen oder ihre Nichtigkeit
 
 
 ### § 12 Veröffentlichung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001504360)
 
 Die eingetragene Satzung ist von dem Gericht zu veröffentlichen.
 
 
 ### § 13 Rechtszustand vor der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001603377)
 
 Vor der Eintragung in das Genossenschaftsregister ihres Sitzes hat die
 Genossenschaft die Rechte einer eingetragenen Genossenschaft nicht.
 
 
 ### § 14 Errichtung einer Zweigniederlassung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001705377)
 
 (1) Die Errichtung einer Zweigniederlassung ist vom Vorstand beim
 Gericht des Sitzes der Genossenschaft unter Angabe des Ortes der
@@ -376,11 +394,13 @@ einer Zweigniederlassung.
 
 
 ### § 14a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001804377)
 
 -
 
 
 ### § 15 Erwerb der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE001906125)
 
 (1) Die Mitgliedschaft wird durch eine unbedingte Beitrittserklärung
 in Textform und die Zulassung des Beitritts durch die Genossenschaft
@@ -405,6 +425,7 @@ nach Satz 2 zu löschen.
 
 
 ### § 15a Inhalt der Beitrittserklärung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002005125)
 
 Die Beitrittserklärung muss die ausdrückliche Verpflichtung des
 Mitglieds enthalten, die nach Gesetz und Satzung geschuldeten
@@ -422,6 +443,7 @@ Satz 3 genannten Umstände optisch hervorgehoben werden.
 
 
 ### § 15b Beteiligung mit weiteren Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002105125)
 
 (1) Zur Beteiligung mit weiteren Geschäftsanteilen bedarf es einer
 unbedingten Beitrittserklärung in Textform; die Satzung kann in diesem
@@ -439,6 +461,7 @@ Genossenschaft wirksam. § 15 Abs. 2 gilt entsprechend.
 
 
 ### § 16 Änderung der Satzung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002206360)
 
 (1) Eine Änderung der Satzung oder die Fortsetzung einer auf bestimmte
 Zeit beschränkten Genossenschaft kann nur durch die Generalversammlung
@@ -525,10 +548,12 @@ Genossenschaftsregister des Sitzes der Genossenschaft eingetragen ist.
 
 
 ## Abschnitt 2 - Rechtsverhältnisse der Genossenschaft und ihrer Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG002303377)
 
 
 
 ### § 17 Juristische Person; Formkaufmann
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002403377)
 
 (1) Die eingetragene Genossenschaft als solche hat selbständig ihre
 Rechte und Pflichten; sie kann Eigentum und andere dingliche Rechte an
@@ -539,6 +564,7 @@ Handelsgesetzbuchs.
 
 
 ### § 18 Rechtsverhältnis zwischen Genossenschaft und Mitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002503377)
 
 Das Rechtsverhältnis der Genossenschaft und ihrer Mitglieder richtet
 sich zunächst nach der Satzung. Diese darf von den Bestimmungen dieses
@@ -547,6 +573,7 @@ erklärt ist.
 
 
 ### § 19 Gewinn- und Verlustverteilung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002603377)
 
 (1) Der bei Feststellung des Jahresabschlusses für die Mitglieder sich
 ergebende Gewinn oder Verlust des Geschäftsjahres ist auf diese zu
@@ -566,6 +593,7 @@ eine Auszahlung des Gewinns nicht statt.
 
 
 ### § 20 Ausschluss der Gewinnverteilung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002704140)
 
 Die Satzung kann bestimmen, dass der Gewinn nicht verteilt, sondern
 der gesetzlichen Rücklage und anderen Ergebnisrücklagen zugeschrieben
@@ -575,6 +603,7 @@ Ergebnisrücklagen einstellen kann.
 
 
 ### § 21 Verbot der Verzinsung der Geschäftsguthaben
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002803377)
 
 (1) Für das Geschäftsguthaben werden vorbehaltlich des § 21a Zinsen
 von bestimmter Höhe nicht vergütet, auch wenn das Mitglied
@@ -587,6 +616,7 @@ nur diese Einzahlungen geleistet sind.
 
 
 ### § 21a Ausnahmen vom Verbot der Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE002903377)
 
 (1) Die Satzung kann bestimmen, dass die Geschäftsguthaben verzinst
 werden. Bestimmt die Satzung keinen festen Zinssatz, muss sie einen
@@ -604,6 +634,7 @@ werden.
 
 
 ### § 21b Mitgliederdarlehen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024701125)
 
 (1) Zum Zweck der Finanzierung oder Modernisierung von zu ihrem
 Anlagevermögen gehörenden Gegenständen kann eine Genossenschaft, auch
@@ -670,6 +701,7 @@ Genossenschaft den vereinbarten Sollzinssatz zu zahlen.
 
 
 ### § 22 Herabsetzung des Geschäftsanteils; Verbot der Auszahlung des Geschäftsguthabens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003006360)
 
 (1) Werden der Geschäftsanteil oder die auf ihn zu leistenden
 Einzahlungen herabgesetzt oder die für die Einzahlungen festgesetzten
@@ -710,6 +742,7 @@ ab dem Zeitpunkt der Eröffnung ein.
 
 
 ### § 22a Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003104377)
 
 (1) Wird die Verpflichtung der Mitglieder, Nachschüsse zur
 Insolvenzmasse zu leisten, auf eine Haftsumme beschränkt oder
@@ -722,6 +755,7 @@ waren.
 
 
 ### § 22b Zerlegung des Geschäftsanteils
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003204377)
 
 (1) Der Geschäftsanteil kann in mehrere Geschäftsanteile zerlegt
 werden. Die Zerlegung und eine ihr entsprechende Herabsetzung der
@@ -736,6 +770,7 @@ berichtigen.
 
 
 ### § 23 Haftung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003303377)
 
 (1) Für die Verbindlichkeiten der Genossenschaft haften die Mitglieder
 nach Maßgabe dieses Gesetzes.
@@ -748,10 +783,12 @@ unwirksam.
 
 
 ## Abschnitt 3 - Verfassung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG003403377)
 
 
 
 ### § 24 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003504140)
 
 (1) Die Genossenschaft wird durch den Vorstand gerichtlich und
 außergerichtlich vertreten. Hat eine Genossenschaft keinen Vorstand
@@ -771,6 +808,7 @@ Entschädigungsansprüche aus bestehenden Verträgen.
 
 
 ### § 25 Vertretung, Zeichnung durch Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003604140)
 
 (1) Die Mitglieder des Vorstands sind nur gemeinschaftlich zur
 Vertretung der Genossenschaft befugt. Die Satzung kann Abweichendes
@@ -793,6 +831,7 @@ der Genossenschaft befugt ist.
 
 
 ### § 25a Angaben auf Geschäftsbriefen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003704377)
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen
 bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der
@@ -814,6 +853,7 @@ Absatz 2 ist auf sie nicht anzuwenden.
 
 
 ### § 26 Vertretungsbefugnis des Vorstands
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003804140)
 
 (1) Die Genossenschaft wird durch die von dem Vorstand in ihrem Namen
 geschlossenen Rechtsgeschäfte berechtigt und verpflichtet; es ist
@@ -829,6 +869,7 @@ eingetragen sind.
 
 
 ### § 27 Beschränkung der Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE003904123)
 
 (1) Der Vorstand hat die Genossenschaft unter eigener Verantwortung zu
 leiten. Er hat dabei die Beschränkungen zu beachten, die durch die
@@ -847,6 +888,7 @@ Genossenschaft für einzelne Geschäfte erforderlich ist.
 
 
 ### § 28 Änderung des Vorstands und der Vertretungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE004005360)
 
 Jede Änderung des Vorstands oder der Vertretungsbefugnis eines
 Vorstandsmitglieds hat der Vorstand zur Eintragung in das
@@ -855,6 +897,7 @@ Genossenschaftsregister anzumelden. Der Anmeldung sind die Urkunden
 
 
 ### § 29 Publizität des Genossenschaftsregisters
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE004105360)
 
 (1) Solange eine Änderung des Vorstands oder der Vertretungsbefugnis
 eines Vorstandsmitglieds nicht in das Genossenschaftsregister
@@ -876,6 +919,7 @@ Unrichtigkeit kannte.
 
 
 ### § 30 Mitgliederliste
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE004205123)
 
 (1) Der Vorstand ist verpflichtet, die Mitgliederliste zu führen.
 
@@ -910,6 +954,7 @@ des Handelsgesetzbuchs.
 
 
 ### § 31 Einsicht in die Mitgliederliste
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022404123)
 
 (1) Die Mitgliederliste kann von jedem Mitglied sowie von einem
 Dritten, der ein berechtigtes Interesse darlegt, bei der
@@ -927,12 +972,14 @@ bedarf in diesem Fall der Zustimmung der Genossenschaft.
 
 
 ### § 32 Vorlage der Mitgliederliste beim Gericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022504140)
 
 Der Vorstand hat dem Registergericht auf dessen Verlangen eine
 Abschrift der Mitgliederliste unverzüglich einzureichen.
 
 
 ### § 33 Buchführung; Jahresabschluss und Lagebericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021503377)
 
 (1) Der Vorstand hat dafür zu sorgen, dass die erforderlichen Bücher
 der Genossenschaft ordnungsgemäß geführt werden. Der Jahresabschluss
@@ -955,9 +1002,11 @@ anzuzeigen.
 
 
 ### (XXXX) §§ 33a bis 33i (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE004602377)
 
 
 ### § 34 Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE005505123)
 
 (1) Die Vorstandsmitglieder haben bei ihrer Geschäftsführung die
 Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters einer
@@ -1019,12 +1068,14 @@ gegen die Vorstandsmitglieder aus.
 
 
 ### § 35 Stellvertreter von Vorstandsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE005603377)
 
 Die für Mitglieder des Vorstands gegebenen Vorschriften gelten auch
 für Stellvertreter von Mitgliedern.
 
 
 ### § 36 Aufsichtsrat
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE005707360)
 
 (1) Der Aufsichtsrat besteht, sofern nicht die Satzung eine höhere
 Zahl festsetzt, aus drei von der Generalversammlung zu wählenden
@@ -1055,6 +1106,7 @@ Aufsichtsrat ein Drittel der Aufsichtsratsmitglieder nicht
 
 
 ### § 37 Unvereinbarkeit von Ämtern
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE005803377)
 
 (1) Die Mitglieder des Aufsichtsrats dürfen nicht zugleich
 Vorstandsmitglieder, dauernde Stellvertreter der Vorstandsmitglieder,
@@ -1071,6 +1123,7 @@ nicht vor erteilter Entlastung in den Aufsichtsrat gewählt werden.
 
 
 ### § 38 Aufgaben des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE005907360)
 
 (1) Der Aufsichtsrat hat den Vorstand bei dessen Geschäftsführung zu
 überwachen. Er kann zu diesem Zweck von dem Vorstand jederzeit
@@ -1122,6 +1175,7 @@ andere Personen wahrnehmen lassen.
 
 
 ### § 39 Vertretungsbefugnis des Aufsichtsrats
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006003377)
 
 (1) Der Aufsichtsrat vertritt die Genossenschaft gegenüber den
 Vorstandsmitgliedern gerichtlich und außergerichtlich. Ist nach der
@@ -1142,6 +1196,7 @@ Generalversammlung gewählt werden.
 
 
 ### § 40 Vorläufige Amtsenthebung von Vorstandsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006103377)
 
 Der Aufsichtsrat ist befugt, nach seinem Ermessen von der
 Generalversammlung abzuberufende Mitglieder des Vorstands vorläufig,
@@ -1151,6 +1206,7 @@ einstweiliger Fortführung derselben das Erforderliche zu veranlassen.
 
 
 ### § 41 Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006203377)
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der
 Aufsichtsratsmitglieder gilt § 34 über die Verantwortlichkeit der
@@ -1158,6 +1214,7 @@ Vorstandsmitglieder sinngemäß.
 
 
 ### § 42 Prokura; Handlungsvollmacht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006305360)
 
 (1) Die Genossenschaft kann Prokura nach Maßgabe der §§ 48 bis 53 des
 Handelsgesetzbuchs erteilen. An die Stelle der Eintragung in das
@@ -1169,6 +1226,7 @@ Handelsgesetzbuchs ist anzuwenden.
 
 
 ### § 43 Generalversammlung; Stimmrecht der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006407125)
 
 (1) Die Mitglieder üben ihre Rechte in den Angelegenheiten der
 Genossenschaft in der Generalversammlung aus, soweit das Gesetz nichts
@@ -1241,6 +1299,7 @@ Mitglied einen Anspruch geltend machen soll.
 
 
 ### § 43a Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006505123)
 
 (1) Bei Genossenschaften mit mehr als 1.500 Mitgliedern kann die
 Satzung bestimmen, dass die Generalversammlung aus Vertretern der
@@ -1312,6 +1371,7 @@ Satzung hierfür bestimmten geringeren Teil in Textform beantragt wird.
 
 
 ### § 43b Formen der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025401125)
 
 (1) Die Generalversammlung muss in einer der folgenden Formen
 abgehalten werden:
@@ -1452,6 +1512,7 @@ haben, gelten als erschienen.
 
 
 ### § 44 Einberufung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006603377)
 
 (1) Die Generalversammlung wird durch den Vorstand einberufen, soweit
 nicht nach der Satzung oder diesem Gesetz auch andere Personen dazu
@@ -1463,6 +1524,7 @@ im Interesse der Genossenschaft erforderlich erscheint.
 
 
 ### § 45 Einberufung auf Verlangen einer Minderheit
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006704140)
 
 (1) Die Generalversammlung muss unverzüglich einberufen werden, wenn
 mindestens ein Zehntel der Mitglieder oder der in der Satzung hierfür
@@ -1490,6 +1552,7 @@ bekannt zu machen.
 
 
 ### § 46 Form und Frist der Einberufung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006805125)
 
 (1) Die Generalversammlung muss in der durch die Satzung bestimmten
 Weise mit einer Frist von mindestens zwei Wochen einberufen werden.
@@ -1528,6 +1591,7 @@ Beschlussfassung bedarf es der Ankündigung nicht.
 
 
 ### § 47 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE006906125)
 
 (1) Über die Beschlüsse der Generalversammlung ist eine Niederschrift
 anzufertigen. Sie soll den Ort und den Tag der Versammlung, die Form
@@ -1563,6 +1627,7 @@ stellen. Die Niederschrift ist von der Genossenschaft aufzubewahren.
 
 
 ### § 48 Zuständigkeit der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021606123)
 
 (1) Die Generalversammlung stellt den Jahresabschluss fest. Sie
 beschließt über die Verwendung des Jahresüberschusses oder die Deckung
@@ -1600,12 +1665,14 @@ Aufsichtsrat offen gelegt werden.
 
 
 ### § 49 Beschränkungen für Kredite
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007103377)
 
 Die Generalversammlung hat die Beschränkungen festzusetzen, die bei
 Gewährung von Kredit an denselben Schuldner eingehalten werden sollen.
 
 
 ### § 50 Bestimmung der Einzahlungen auf den Geschäftsanteil
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007203377)
 
 Soweit die Satzung die Mitglieder zu Einzahlungen auf den
 Geschäftsanteil verpflichtet, ohne dieselben nach Betrag und Zeit
@@ -1614,6 +1681,7 @@ die Generalversammlung.
 
 
 ### § 51 Anfechtung von Beschlüssen der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007307125)
 
 (1) Ein Beschluss der Generalversammlung kann wegen Verletzung des
 Gesetzes oder der Satzung im Wege der Klage angefochten werden. Die
@@ -1661,15 +1729,18 @@ beantragen.
 
 
 ### § 52 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007403377)
 
 -
 
 
 ## Abschnitt 4 - Prüfung und Prüfungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG007503377)
 
 
 
 ### § 53 Pflichtprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021712360)
 
 (1) Zwecks Feststellung der wirtschaftlichen Verhältnisse und der
 Ordnungsmäßigkeit der Geschäftsführung sind die Einrichtungen, die
@@ -1704,6 +1775,7 @@ Handelsgesetzbuchs entsprechend anzuwenden.
 
 
 ### § 53a Vereinfachte Prüfung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024801360)
 
 (1) Bei Kleinstgenossenschaften (§ 336 Absatz 2 Satz 3 des
 Handelsgesetzbuchs), deren Satzung keine Nachschusspflicht der
@@ -1774,6 +1846,7 @@ Genossenschaft unterschieden werden.
 
 
 ### § 54 Pflichtmitgliedschaft im Prüfungsverband
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007704123)
 
 Die Genossenschaft muss einem Verband angehören, dem das Prüfungsrecht
 verliehen ist (Prüfungsverband). Die Genossenschaft hat den Namen und
@@ -1782,6 +1855,7 @@ Ermangelung einer solchen auf den Geschäftsbriefen anzugeben.
 
 
 ### § 54a Wechsel des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE007805123)
 
 (1) Scheidet eine Genossenschaft aus dem Verband aus, so hat der
 Verband das Registergericht unverzüglich zu benachrichtigen. Das
@@ -1798,6 +1872,7 @@ Anwendung.
 
 
 ### § 55 Prüfung durch den Verband
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021808360)
 
 (1) Die Genossenschaft wird durch den Verband geprüft, dem sie
 angehört. Der Verband bedient sich zum Prüfen der von ihm angestellten
@@ -1887,6 +1962,7 @@ Prüfung durchführt.
 
 
 ### § 56 Ruhen des Prüfungsrechts des Verbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021906123)
 
 (1) Die Aufsichtsbehörde kann das Ruhen des Prüfungsrechts des
 Verbandes anordnen, wenn dieser sich einer angeordneten Untersuchung
@@ -1917,6 +1993,7 @@ Prüfungsberichts vorzulegen.
 
 
 ### § 57 Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008105360)
 
 (1) Der Vorstand der Genossenschaft hat dem Prüfer die Einsicht der
 Bücher und Schriften der Genossenschaft sowie die Untersuchung des
@@ -1963,6 +2040,7 @@ Bevollmächtigten wahrgenommen.
 
 
 ### § 57a Prüfungsbegleitende Qualitätssicherung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024200123)
 
 Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des
 § 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im
@@ -1976,6 +2054,7 @@ Durchführung der Prüfung nicht beteiligt sind.
 
 
 ### § 58 Prüfungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022008360)
 
 (1) Der Verband hat über das Ergebnis der Prüfung schriftlich zu
 berichten. Auf den Prüfungsbericht ist, soweit er den Jahresabschluss
@@ -2013,6 +2092,7 @@ Verband von der Sitzung in Kenntnis zu setzen.
 
 
 ### § 59 Befassung der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008304123)
 
 (1) Der Vorstand hat den Prüfungsbericht bei der Einberufung der
 nächsten Generalversammlung als Gegenstand der Beratung und möglichen
@@ -2030,6 +2110,7 @@ verlesen.
 
 
 ### § 60 Einberufungsrecht des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008404123)
 
 (1) Gewinnt der Verband die Überzeugung, dass die Beratung und
 mögliche Beschlussfassung über den Prüfungsbericht ungebührlich
@@ -2046,12 +2127,14 @@ vom Verband bestimmte Person den Vorsitz.
 
 
 ### § 61 Vergütung des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008503377)
 
 Der Verband hat gegen die Genossenschaft Anspruch auf Erstattung
 angemessener barer Auslagen und auf Vergütung für seine Leistung.
 
 
 ### § 62 Verantwortlichkeit der Prüfungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008607123)
 
 (1) Verbände, Prüfer und Prüfungsgesellschaften sind zur
 gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit
@@ -2096,6 +2179,7 @@ Prüfung bedient.
 
 
 ### § 63 Zuständigkeit für Verleihung des Prüfungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008704140)
 
 Das Prüfungsrecht wird dem Verband durch die zuständige oberste
 Landesbehörde (Aufsichtsbehörde) verliehen, in deren Gebiet der
@@ -2107,6 +2191,7 @@ Zuständigkeit einer Behörde über die Landesgrenzen hinaus vereinbaren.
 
 
 ### § 63a Verleihung des Prüfungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008804140)
 
 (1) Dem Antrag auf Verleihung des Prüfungsrechts darf nur stattgegeben
 werden, wenn der Verband die Gewähr für die Erfüllung der von ihm zu
@@ -2120,6 +2205,7 @@ führt, dass eine andere ausreichende Sicherstellung erfolgt ist.
 
 
 ### § 63b Rechtsform, Mitglieder und Zweck des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE008906123)
 
 (1) Der Verband soll die Rechtsform des eingetragenen Vereins haben.
 Eine andere Rechtsform ist nur zulässig, wenn sichergestellt ist, dass
@@ -2162,6 +2248,7 @@ Verbandsbezirkes abgehalten werden.
 
 
 ### § 63c Satzung des Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE009005123)
 
 (1) Die Satzung des Verbandes muss enthalten:
 
@@ -2200,6 +2287,7 @@ unverzüglich anzuzeigen.
 
 
 ### § 63d Einreichungen bei Gericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE009105123)
 
 Der Verband hat den Registergerichten, in deren Bezirk die ihm
 angehörenden Genossenschaften ihren Sitz haben, die Satzung mit einer
@@ -2215,6 +2303,7 @@ durchführt, ist der Name dieses anderen Verbandes anzugeben.
 
 
 ### § 63e Qualitätskontrolle für Prüfungsverbände
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022907360)
 
 (1) Die Prüfungsverbände sind verpflichtet, sich im Abstand von
 jeweils sechs Jahren einer Qualitätskontrolle nach Maßgabe der §§ 63f
@@ -2249,6 +2338,7 @@ Beginn einer Qualitätskontrolle zu unterziehen.
 
 
 ### § 63f Prüfer für Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023003123)
 
 (1) Die Qualitätskontrolle wird durch Prüfungsverbände nach Maßgabe
 des Absatzes 2 oder durch Wirtschaftsprüfer oder
@@ -2283,6 +2373,7 @@ ist entsprechend anzuwenden.
 
 
 ### § 63g Durchführung der Qualitätskontrolle
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023106123)
 
 (1) Der Prüfungsverband muss Mitglied der Wirtschaftsprüferkammer nach
 Maßgabe des § 58 Abs. 2 Satz 2 der Wirtschaftsprüferordnung sein. Er
@@ -2308,6 +2399,7 @@ Wirtschaftsprüferordnung gelöscht werden soll.
 
 
 ### § 63h Inspektionen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023701123)
 
 Führt ein Prüfungsverband die gesetzlich vorgeschriebene
 Abschlussprüfung bei einem Unternehmen durch, das
@@ -2322,6 +2414,7 @@ findet Artikel 26 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
 
 ### § 64 Staatsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE009705123)
 
 (1) Die genossenschaftlichen Prüfungsverbände unterliegen der Aufsicht
 durch die zuständige Aufsichtsbehörde.
@@ -2373,6 +2466,7 @@ und auf Verlangen vorzuschießen.
 
 
 ### § 64a Entziehung des Prüfungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE009804140)
 
 Die Aufsichtsbehörde kann dem Verband das Prüfungsrecht entziehen,
 wenn der Verband nicht mehr die Gewähr für die Erfüllung seiner
@@ -2382,6 +2476,7 @@ mitzuteilen.
 
 
 ### § 64b Bestellung eines Prüfungsverbandes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE009904140)
 
 Gehört eine Genossenschaft keinem Prüfungsverband an, so kann das
 Gericht einen Prüfungsverband zur Wahrnehmung der im Gesetz den
@@ -2391,16 +2486,19 @@ werden.
 
 
 ### § 64c Prüfung aufgelöster Genossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010003377)
 
 Auch aufgelöste Genossenschaften unterliegen den Vorschriften dieses
 Abschnitts.
 
 
 ## Abschnitt 5 - Beendigung der Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG010103377)
 
 
 
 ### § 65 Kündigung des Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010205125)
 
 (1) Jedes Mitglied hat das Recht, seine Mitgliedschaft durch Kündigung
 zu beenden.
@@ -2440,6 +2538,7 @@ unwirksam.
 
 
 ### § 66 Kündigung durch Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010303377)
 
 (1) Der Gläubiger eines Mitglieds, der die Pfändung und Überweisung
 eines dem Mitglied bei der Auseinandersetzung mit der Genossenschaft
@@ -2457,6 +2556,7 @@ beigefügt werden.
 
 
 ### § 66a Kündigung im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023900360)
 
 Wird das Insolvenzverfahren über das Vermögen eines Mitglieds eröffnet
 und ein Insolvenzverwalter bestellt, so kann der Insolvenzverwalter
@@ -2464,6 +2564,7 @@ das Kündigungsrecht des Mitglieds an dessen Stelle ausüben.
 
 
 ### § 67 Beendigung der Mitgliedschaft wegen Aufgabe des Wohnsitzes
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010404125)
 
 Ist nach der Satzung die Mitgliedschaft an den Wohnsitz innerhalb
 eines bestimmten Bezirks geknüpft, kann ein Mitglied, das seinen
@@ -2475,6 +2576,7 @@ Wohnsitzes ist die Bescheinigung einer Behörde vorzulegen.
 
 
 ### § 67a Außerordentliches Kündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010504125)
 
 (1) Wird eine Änderung der Satzung beschlossen, die einen der in § 16
 Abs. 2 Satz 1 Nr. 2 bis 5, 9 bis 11 oder Abs. 3 aufgeführten
@@ -2509,6 +2611,7 @@ gegen das Mitglied.
 
 
 ### § 67b Kündigung einzelner Geschäftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010605125)
 
 (1) Ein Mitglied, das mit mehreren Geschäftsanteilen beteiligt ist,
 kann die Beteiligung mit einem oder mehreren seiner weiteren
@@ -2524,6 +2627,7 @@ Kündigung die Schriftform vorschreiben.
 
 
 ### § 67c Kündigungsausschluss bei Wohnungsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024000360)
 
 (1) Die Kündigung der Mitgliedschaft in einer Wohnungsgenossenschaft
 durch den Gläubiger (§ 66) oder den Insolvenzverwalter (§ 66a) ist
@@ -2549,6 +2653,7 @@ zulässigen Betrag vermindert werden kann.
 
 
 ### § 68 Ausschluss eines Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010703377)
 
 (1) Die Gründe, aus denen ein Mitglied aus der Genossenschaft
 ausgeschlossen werden kann, müssen in der Satzung bestimmt sein. Ein
@@ -2563,6 +2668,7 @@ Aufsichtsrat.
 
 
 ### § 69 Eintragung in die Mitgliederliste
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010804377)
 
 In den Fällen der §§ 65 bis 67a und 68 ist der Zeitpunkt der
 Beendigung der Mitgliedschaft, im Falle des § 67b sind der Zeitpunkt
@@ -2573,10 +2679,12 @@ benachrichtigen.
 
 
 ### (XXXX) §§ 70 bis 72 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE010903377)
 
 
 
 ### § 73 Auseinandersetzung mit ausgeschiedenem Mitglied
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011204377)
 
 (1) Nach Beendigung der Mitgliedschaft erfolgt eine Auseinandersetzung
 der Genossenschaft mit dem ausgeschiedenen Mitglied. Sie bestimmt sich
@@ -2613,11 +2721,13 @@ Vorstand zu entscheiden hat, ist unwirksam.
 
 
 ### § 74 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011303377)
 
 -
 
 
 ### § 75 Fortdauer der Mitgliedschaft bei Auflösung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011403377)
 
 Wird die Genossenschaft binnen sechs Monaten nach Beendigung der
 Mitgliedschaft eines Mitglieds aufgelöst, gilt die Beendigung der
@@ -2629,6 +2739,7 @@ eingetragen ist.
 
 
 ### § 76 Übertragung des Geschäftsguthabens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011506125)
 
 (1) Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch
 Vereinbarung in Textform einem anderen ganz oder teilweise übertragen
@@ -2672,6 +2783,7 @@ beteiligt, nicht übersteigt.
 
 
 ### § 77 Tod des Mitglieds
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011605377)
 
 (1) Mit dem Tod eines Mitglieds geht die Mitgliedschaft auf den Erben
 über. Sie endet mit dem Schluss des Geschäftsjahres, in dem der
@@ -2700,6 +2812,7 @@ entsprechend.
 
 
 ### § 77a Auflösung oder Erlöschen einer juristischen Person oder Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011704377)
 
 Wird eine juristische Person oder eine Personengesellschaft aufgelöst
 oder erlischt sie, so endet die Mitgliedschaft mit dem Abschluss des
@@ -2713,10 +2826,12 @@ benachrichtigen.
 
 
 ## Abschnitt 6 - Auflösung und Nichtigkeit der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG011803377)
 
 
 
 ### § 78 Auflösung durch Beschluss der Generalversammlung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE011903377)
 
 (1) Die Genossenschaft kann durch Beschluss der Generalversammlung
 jederzeit aufgelöst werden; der Beschluss bedarf einer Mehrheit, die
@@ -2728,9 +2843,11 @@ in das Genossenschaftsregister anzumelden.
 
 
 ### (XXXX) §§ 78a und 78b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022202377)
 
 
 ### § 79 Auflösung durch Zeitablauf
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012003377)
 
 (1) Ist die Genossenschaft nach der Satzung auf eine bestimmte Zeit
 beschränkt, ist sie mit dem Ablauf der bestimmten Zeit aufgelöst.
@@ -2739,6 +2856,7 @@ beschränkt, ist sie mit dem Ablauf der bestimmten Zeit aufgelöst.
 
 
 ### § 79a Fortsetzung der aufgelösten Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012103377)
 
 (1) Ist die Genossenschaft durch Beschluss der Generalversammlung oder
 durch Zeitablauf aufgelöst worden, kann die Generalversammlung,
@@ -2775,6 +2893,7 @@ begonnen worden war.
 
 
 ### § 80 Auflösung durch das Gericht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012204140)
 
 (1) Hat die Genossenschaft weniger als drei Mitglieder, hat das
 Registergericht auf Antrag des Vorstands und, wenn der Antrag nicht
@@ -2790,6 +2909,7 @@ ist die Genossenschaft aufgelöst.
 
 
 ### § 81 Auflösung auf Antrag der obersten Landesbehörde
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012304140)
 
 (1) Gefährdet eine Genossenschaft durch gesetzwidriges Verhalten ihrer
 Verwaltungsträger das Gemeinwohl und sorgen die Generalversammlung und
@@ -2815,6 +2935,7 @@ Rechtsverhältnisse betroffen sind, in das Genossenschaftsregister ein.
 
 
 ### § 81a Auflösung bei Insolvenz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022703140)
 
 Die Genossenschaft wird aufgelöst
 
@@ -2831,6 +2952,7 @@ Die Genossenschaft wird aufgelöst
 
 
 ### § 82 Eintragung der Auflösung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012404377)
 
 (1) Die Auflösung der Genossenschaft ist von dem Gericht unverzüglich
 in das Genossenschaftsregister einzutragen.
@@ -2845,6 +2967,7 @@ sind die Absätze 1 und 2 nicht anzuwenden.
 
 
 ### § 83 Bestellung und Abberufung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012505140)
 
 (1) Die Liquidation erfolgt durch den Vorstand, wenn sie nicht durch
 die Satzung oder durch Beschluss der Generalversammlung anderen
@@ -2870,6 +2993,7 @@ das Gericht zu ernennen.
 
 
 ### § 84 Anmeldung durch Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012604377)
 
 (1) Die ersten Liquidatoren sowie ihre Vertretungsbefugnis hat der
 Vorstand, jede Änderung in den Personen der Liquidatoren und jede
@@ -2885,6 +3009,7 @@ Liquidatoren geschieht von Amts wegen.
 
 
 ### § 85 Zeichnung der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012703377)
 
 (1) Die Liquidatoren haben in der bei ihrer Bestellung bestimmten Form
 ihre Willenserklärung kundzugeben und für die Genossenschaft zu
@@ -2900,12 +3025,14 @@ Namensunterschrift hinzufügen.
 
 
 ### § 86 Publizität des Genossenschaftsregisters
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012803377)
 
 Die Vorschriften in § 29 über das Verhältnis zu dritten Personen
 finden bezüglich der Liquidatoren Anwendung.
 
 
 ### § 87 Rechtsverhältnisse im Liquidationsstadium
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE012903377)
 
 (1) Bis zur Beendigung der Liquidation sind ungeachtet der Auflösung
 der Genossenschaft in Bezug auf die Rechtsverhältnisse der
@@ -2919,6 +3046,7 @@ bestehen.
 
 
 ### § 87a Zahlungspflichten bei Überschuldung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013004377)
 
 (1) Ergibt sich bei Aufstellung der Liquidationseröffnungsbilanz,
 einer späteren Jahresbilanz oder einer Zwischenbilanz oder ist bei
@@ -2956,12 +3084,14 @@ nicht mehr deckt.
 
 
 ### § 87b Verbot der Erhöhung von Geschäftsanteil oder Haftsumme
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013103377)
 
 Nach Auflösung der Genossenschaft können weder der Geschäftsanteil
 noch die Haftsumme erhöht werden.
 
 
 ### § 88 Aufgaben der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013203377)
 
 Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die
 Verpflichtungen der aufgelösten Genossenschaft zu erfüllen, die
@@ -2972,6 +3102,7 @@ können die Liquidatoren auch neue Geschäfte eingehen.
 
 
 ### § 88a Abtretbarkeit der Ansprüche auf rückständige Einzahlungen und anteilige Fehlbeträge
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013303377)
 
 (1) Die Liquidatoren können den Anspruch der Genossenschaft auf
 rückständige Einzahlungen auf den Geschäftsanteil und den Anspruch auf
@@ -2985,6 +3116,7 @@ Belange der Mitglieder nicht entgegenstehen.
 
 
 ### § 89 Rechte und Pflichten der Liquidatoren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013404360)
 
 Die Liquidatoren haben die aus den §§ 26, 27, 33 Abs. 1 Satz 1, §§ 34,
 44 bis 47, 48 Abs. 3, §§ 51, 57 bis 59 sich ergebenden Rechte und
@@ -2997,6 +3129,7 @@ Handelsgesetzbuchs offenzulegen.
 
 
 ### § 90 Voraussetzung für Vermögensverteilung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013503377)
 
 (1) Eine Verteilung des Vermögens unter die Mitglieder darf nicht vor
 Tilgung oder Deckung der Schulden und nicht vor Ablauf eines Jahres
@@ -3012,6 +3145,7 @@ Sicherheit geleistet ist.
 
 
 ### § 91 Verteilung des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013603377)
 
 (1) Die Verteilung des Vermögens unter die einzelnen Mitglieder
 erfolgt bis zum Gesamtbetrag ihrer auf Grund der Eröffnungsbilanz
@@ -3034,6 +3168,7 @@ oder ein anderes Verhältnis für die Verteilung bestimmt werden.
 
 
 ### § 92 Unverteilbares Reinvermögen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013703377)
 
 Ein bei der Auflösung der Genossenschaft verbleibendes unverteilbares
 Reinvermögen fällt, sofern dasselbe nicht durch die Satzung einer
@@ -3044,6 +3179,7 @@ gemeinnützigen Zwecken zu verwenden.
 
 
 ### § 93 Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013804140)
 
 Nach Beendigung der Liquidation sind die Bücher und Schriften der
 aufgelösten Genossenschaft für zehn Jahre einem ihrer ehemaligen
@@ -3055,9 +3191,11 @@ der Genossenschaft ermächtigen, die Bücher und Schriften einzusehen.
 
 
 ### (XXXX) §§ 93a bis 93s (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE013903377)
 
 
 ### § 94 Klage auf Nichtigerklärung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE015703377)
 
 Enthält die Satzung nicht die für sie wesentlichen Bestimmungen oder
 ist eine dieser Bestimmungen nichtig, so kann jedes Mitglied der
@@ -3067,6 +3205,7 @@ werde.
 
 
 ### § 95 Nichtigkeitsgründe; Heilung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE015805123)
 
 (1) Als wesentlich im Sinne des § 94 gelten die in den §§ 6, 7 und 119
 bezeichneten Bestimmungen der Satzung mit Ausnahme derjenigen über die
@@ -3091,6 +3230,7 @@ nicht vermindert werden.
 
 
 ### § 96 Verfahren bei Nichtigkeitsklage
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE015903377)
 
 Das Verfahren über die Klage auf Nichtigkeitserklärung und die
 Wirkungen des Urteils bestimmen sich nach den Vorschriften des § 51
@@ -3098,6 +3238,7 @@ Abs. 3 bis 5.
 
 
 ### § 97 Wirkung der Eintragung der Nichtigkeit
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016003377)
 
 (1) Ist die Nichtigkeit einer Genossenschaft in das
 Genossenschaftsregister eingetragen, so finden zum Zweck der
@@ -3115,10 +3256,12 @@ Vorschriften des Abschnitts 7 zu leisten.
 
 
 ## Abschnitt 7 - Insolvenzverfahren; Nachschusspflicht der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG016104377)
 
 
 
 ### § 98 Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016204377)
 
 Abweichend von § 19 Abs. 1 der Insolvenzordnung ist bei einer
 Genossenschaft die Überschuldung nur dann Grund für die Eröffnung des
@@ -3139,21 +3282,25 @@ Insolvenzverfahrens, wenn
 
 
 ### § 99 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016306360)
 
 
 
 ### § 100 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016403377)
 
 -
 
 
 ### § 101 Wirkung der Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016504377)
 
 Durch die Eröffnung des Insolvenzverfahrens wird die Genossenschaft
 aufgelöst.
 
 
 ### § 102 Eintragung der Eröffnung des Insolvenzverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016606360)
 
 Die Eröffnung des Insolvenzverfahrens ist von Amts wegen in das
 Genossenschaftsregister einzutragen. Das Gleiche gilt für
@@ -3184,10 +3331,12 @@ Genossenschaftsregister einzutragen. Das Gleiche gilt für
 
 
 ### (XXXX) §§ 103 und 104 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016703377)
 
 
 
 ### § 105 Nachschusspflicht der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE016904377)
 
 (1) Soweit die Ansprüche der Massegläubiger oder die bei der
 Schlussverteilung nach § 196 der Insolvenzordnung berücksichtigten
@@ -3218,6 +3367,7 @@ den Nachschüssen zu beanspruchen hat.
 
 
 ### § 106 Vorschussberechnung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017005377)
 
 (1) Der Insolvenzverwalter hat unverzüglich, nachdem die
 Vermögensübersicht nach § 153 der Insolvenzordnung auf der
@@ -3242,6 +3392,7 @@ eine beglaubigte Abschrift der Satzung beizufügen.
 
 
 ### § 107 Gerichtliche Erklärung über die Vorschussberechnung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017103377)
 
 (1) Zur Erklärung über die Berechnung bestimmt das Gericht einen
 Termin, welcher nicht über zwei Wochen hinaus anberaumt werden darf.
@@ -3254,6 +3405,7 @@ ist in der Bekanntmachung und den Ladungen hinzuweisen.
 
 
 ### § 108 Erklärungstermin
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017204377)
 
 (1) In dem Termin sind Vorstand und Aufsichtsrat der Genossenschaft
 sowie der Insolvenzverwalter und der Gläubigerausschuss und, soweit
@@ -3272,6 +3424,7 @@ niederzulegen.
 
 
 ### § 108a Abtretbarkeit von Ansprüchen der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017304377)
 
 (1) Der Insolvenzverwalter kann die Ansprüche der Genossenschaft auf
 rückständige Einzahlungen auf den Geschäftsanteil, auf anteilige
@@ -3285,6 +3438,7 @@ unterstehende Stelle abgetreten wird.
 
 
 ### § 109 Einziehung der Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017404377)
 
 (1) Nachdem die Berechnung für vollstreckbar erklärt ist, hat der
 Insolvenzverwalter unverzüglich die Beiträge von den Mitgliedern
@@ -3303,12 +3457,14 @@ gehört.
 
 
 ### § 110 Hinterlegung oder Anlage der Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017504377)
 
 Die eingezogenen Beträge sind nach Maßgabe des § 149 der
 Insolvenzordnung zu hinterlegen oder anzulegen.
 
 
 ### § 111 Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017604377)
 
 (1) Jedes Mitglied ist befugt, die für vollstreckbar erklärte
 Berechnung im Wege der Klage anzufechten. Die Klage ist gegen den
@@ -3323,6 +3479,7 @@ beitragspflichtigen Mitglieder.
 
 
 ### § 112 Verfahren bei Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017703377)
 
 (1) Die Klage ist ausschließlich bei dem Amtsgericht zu erheben,
 welches die Berechnung für vollstreckbar erklärt hat. Die mündliche
@@ -3350,6 +3507,7 @@ finden entsprechende Anwendung.
 
 
 ### § 112a Vergleich über Nachschüsse
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017804377)
 
 (1) Der Insolvenzverwalter kann über den von dem Mitglied zu
 leistenden Nachschuss einen Vergleich abschließen. Der Vergleich
@@ -3362,6 +3520,7 @@ Erfüllung in Verzug gerät.
 
 
 ### § 113 Zusatzberechnung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE017904377)
 
 (1) Soweit infolge des Unvermögens einzelner Mitglieder zur Leistung
 von Beiträgen der zu deckende Gesamtbetrag nicht erreicht wird oder
@@ -3375,6 +3534,7 @@ wiederholen.
 
 
 ### § 114 Nachschussberechnung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018004377)
 
 (1) Sobald mit dem Vollzug der Schlussverteilung nach § 196 der
 Insolvenzordnung begonnen wird oder sobald nach einer Anzeige der
@@ -3399,6 +3559,7 @@ herausgestellt hat, Beiträge nicht verteilt werden.
 
 
 ### § 115 Nachtragsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018104377)
 
 (1) Der Insolvenzverwalter hat, nachdem die Nachschussberechnung für
 vollstreckbar erklärt ist, unverzüglich den gemäß § 110 vorhandenen
@@ -3424,6 +3585,7 @@ zurückzuzahlen.
 
 
 ### § 115a Abschlagsverteilung der Nachschüsse
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018204377)
 
 (1) Nimmt die Abwicklung des Insolvenzverfahrens voraussichtlich
 längere Zeit in Anspruch, so kann der Insolvenzverwalter mit
@@ -3442,6 +3604,7 @@ den Mitgliedern aus dem Überschuss zu erstatten.
 
 
 ### § 115b Nachschusspflicht ausgeschiedener Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018305377)
 
 Sobald mit Sicherheit anzunehmen ist, dass die in § 105 Abs. 1
 bezeichneten Insolvenzgläubiger auch nicht durch Einziehung der
@@ -3455,6 +3618,7 @@ Insolvenzmasse zu leisten.
 
 
 ### § 115c Beitragspflicht ausgeschiedener Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018404377)
 
 (1) Der Insolvenzverwalter hat unverzüglich eine Berechnung über die
 Beitragspflicht der ausgeschiedenen Mitglieder aufzustellen.
@@ -3468,6 +3632,7 @@ Unvermögen einzelner zur Leistung von Beiträgen vorauszusehen ist.
 
 
 ### § 115d Einziehung und Erstattung von Nachschüssen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018504377)
 
 (1) Durch die Vorschriften der §§ 115b, 115c wird die Einziehung der
 Nachschüsse von den in der Genossenschaft verbliebenen Mitgliedern
@@ -3480,6 +3645,7 @@ vollständig befriedigt oder sichergestellt sind.
 
 
 ### § 115e Eigenverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018604377)
 
 Ist gemäß § 270 oder § 271 der Insolvenzordnung die Eigenverwaltung
 unter Aufsicht eines Sachwalters angeordnet, so gelten die §§ 105 bis
@@ -3488,6 +3654,7 @@ Sachwalter tritt.
 
 
 ### § 116 Insolvenzplan
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018704377)
 
 Die Vorschriften der Insolvenzordnung über den Insolvenzplan sind mit
 folgenden Abweichungen anzuwenden:
@@ -3516,6 +3683,7 @@ folgenden Abweichungen anzuwenden:
 
 
 ### § 117 Fortsetzung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018804377)
 
 (1) Ist das Insolvenzverfahren auf Antrag des Schuldners eingestellt
 oder nach der Bestätigung eines Insolvenzplans, der den Fortbestand
@@ -3539,6 +3707,7 @@ unverzüglich zur Eintragung in das Genossenschaftsregister anzumelden.
 
 
 ### § 118 Kündigung bei Fortsetzung der Genossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE018906125)
 
 (1) Wird die Fortsetzung der Genossenschaft nach § 117 beschlossen,
 kann kündigen
@@ -3584,10 +3753,12 @@ vorbehaltlich des § 73 Abs. 3 keinen Anspruch.
 
 
 ## Abschnitt 8 - Haftsumme
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG019003377)
 
 
 
 ### § 119 Bestimmung der Haftsumme
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019104377)
 
 Bestimmt die Satzung, dass die Mitglieder beschränkt auf eine
 Haftsumme Nachschüsse zur Insolvenzmasse zu leisten haben, so darf die
@@ -3596,6 +3767,7 @@ festgesetzt werden.
 
 
 ### § 120 Herabsetzung der Haftsumme
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019204360)
 
 (1) Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3
 sinngemäß. Das Recht nach § 22 Absatz 2 Satz 1 steht den Gläubigern
@@ -3615,6 +3787,7 @@ der Herabsetzung der Haftsumme begründet waren.
 
 
 ### § 121 Haftsumme bei mehreren Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019303377)
 
 Ist ein Mitglied mit mehr als einem Geschäftsanteil beteiligt, so
 erhöht sich die Haftsumme, wenn sie niedriger als der Gesamtbetrag der
@@ -3625,19 +3798,23 @@ Haftsumme nicht eintritt.
 
 
 ### (XXXX) §§ 122 bis 145 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019402377)
 
 
 
 ## Abschnitt 9 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG019603377)
 
 
 
 ### § 146 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019702377)
 
 -
 
 
 ### § 147 Falsche Angaben oder unrichtige Darstellung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019806377)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Mitglied des Vorstands oder als Liquidator in einer
@@ -3668,6 +3845,7 @@ Aufsichtsrats oder als Liquidator
 
 
 ### § 148 Pflichtverletzung bei Verlust
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE019905140)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 33 Abs. 3 die Generalversammlung nicht oder
@@ -3679,11 +3857,13 @@ zu einem Jahr oder Geldstrafe.
 
 
 ### § 149 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020002377)
 
 -
 
 
 ### § 150 Verletzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020104360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das
@@ -3706,6 +3886,7 @@ oder Geldstrafe.
 
 
 ### § 151 Verletzung der Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020204377)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis der Genossenschaft, namentlich ein
@@ -3737,6 +3918,7 @@ so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
 
 ### § 151a Verletzung der Pflichten bei Abschlussprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024301360)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines
@@ -3755,6 +3937,7 @@ Handelsgesetzbuchs ist,
 
 
 ### § 152 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020306360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3799,6 +3982,7 @@ des Absatzes 1a das Bundesamt für Justiz.
 
 
 ### § 153 Mitteilungen an die Abschlussprüferaufsichtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020403123)
 
 (1) Die nach § 152 Absatz 3 zuständige Verwaltungsbehörde übermittelt
 der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
@@ -3813,14 +3997,17 @@ das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### § 154 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024400123)
 
 
 
 ## Abschnitt 10 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNG020603377)
 
 
 
 ### § 155 Altregister im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020705140)
 
 Register, in die landwirtschaftliche Produktionsgenossenschaften,
 Produktionsgenossenschaften des Handwerks oder andere Genossenschaften
@@ -3837,12 +4024,14 @@ worden sind.
 
 
 ### § 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen, Registerbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020808360)
 
 § 8 Absatz 1 sowie die §§ 8a, 9, 10, 10a und 11 des Handelsgesetzbuchs
 finden auf das Genossenschaftsregister Anwendung.
 
 
 ### § 157 Anmeldungen zum Genossenschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE020905360)
 
 Die in § 11 Abs. 1 geregelte Anmeldung zum Genossenschaftsregister ist
 von sämtlichen Mitgliedern des Vorstands, die anderen nach diesem
@@ -3853,6 +4042,7 @@ gemäß § 40a des Beurkundungsgesetzes ist zulässig.
 
 
 ### § 158 Ersatzweise Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023402123)
 
 Bestimmt die Satzung einer Genossenschaft für deren Bekanntmachungen
 ein öffentliches Blatt, das nicht mehr zur Verfügung steht, müssen bis
@@ -3861,11 +4051,13 @@ Bundesanzeiger erfolgen.
 
 
 ### § 159 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021003377)
 
 -
 
 
 ### § 160 Zwangsgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022109123)
 
 (1) Die Mitglieder des Vorstands sind von dem Registergericht zur
 Befolgung der in den §§ 14, 25a, 28, 30, 32, 54 Satz 2, § 57 Absatz 1,
@@ -3888,10 +4080,12 @@ Handelsregister gelten.
 
 
 ### § 161 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE021309123)
 
 
 
 ### § 162 Übergangsvorschrift für Wohnungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022303377)
 
 Am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als
 Organe der staatlichen Wohnungspolitik anerkannte Unternehmen, die
@@ -3900,11 +4094,13 @@ Prüfungsverbandes, dem sie zu diesem Zeitpunkt angehören.
 
 
 ### § 163 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022603377)
 
 -
 
 
 ### § 164 Übergangsregelung zur Beschränkung der Jahresabschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE022803123)
 
 § 53 Abs. 2 Satz 1 in der vom 22. Juli 2017 an geltenden Fassung ist
 erstmals auf die Prüfung des Jahresabschlusses für ein frühestens am
@@ -3912,10 +4108,12 @@ erstmals auf die Prüfung des Jahresabschlusses für ein frühestens am
 
 
 ### § 165 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023203123)
 
 
 
 ### § 166 Übergangsregelung zum Berufsaufsichtsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023601123)
 
 (1) Ein Prüfungsverband, dem vor dem 6. September 2007 eine
 Bescheinigung über die Teilnahme an der Qualitätskontrolle erteilt
@@ -3937,6 +4135,7 @@ lassen.
 
 
 ### § 167 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE023800140)
 
 (1) § 36 Abs. 4 und § 38 Abs. 1a Satz 2 in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
@@ -3949,6 +4148,7 @@ anzuwenden.
 
 
 ### § 168 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024101360)
 
 Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1
 und 3 in der am 1. Mai 2015 geltenden Fassung haben erstmals bis
@@ -3959,6 +4159,7 @@ dauern.
 
 
 ### § 169 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024500123)
 
 § 36 Absatz 4 und § 38 Absatz 1a Satz 3 jeweils in der Fassung des
 Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
@@ -3968,6 +4169,7 @@ bestellt worden sind.
 
 
 ### § 170 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024600123)
 
 § 38 in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11.
 April 2017 (BGBl. I S. 802) ist erstmals auf Lageberichte und
@@ -3979,12 +4181,14 @@ geltenden Fassung anwendbar.
 
 
 ### § 171 Übergangsvorschrift zur Einführung der vereinfachten Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE024900123)
 
 § 53a ist erstmals auf die Prüfung für ein frühestens am 31. Dezember
 2017 endendes Geschäftsjahr anzuwenden.
 
 
 ### § 172 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025000360)
 
 § 53 in der ab dem 19. August 2020 geltenden Fassung ist erstmals auf
 Jahresabschlüsse und Lageberichte für das nach dem 31. Dezember 2019
@@ -3992,6 +4196,7 @@ beginnende Geschäftsjahr anzuwenden.
 
 
 ### § 173 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025100360)
 
 (1) Die §§ 55, 151a und 152 in der ab dem 1. Juli 2021 geltenden
 Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Prüfungen
@@ -4006,6 +4211,7 @@ erstmals ab dem 1. Januar 2022 anzuwenden.
 
 
 ### § 174 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025200360)
 
 § 9 Absatz 3 und 4 in der vom 12. August 2021 an geltenden Fassung
 findet erstmals auf die Festlegung von Zielgrößen ab dem 12. August
@@ -4013,6 +4219,7 @@ findet erstmals auf die Festlegung von Zielgrößen ab dem 12. August
 
 
 ### § 175 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025300360)
 
 § 53a Absatz 2 Satz 1 Nummer 3 und § 89 Satz 3 in der ab dem 1. August
 2022 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen
@@ -4024,6 +4231,7 @@ anzuwenden auf Rechnungslegungsunterlagen für das vor dem 1. Januar
 
 
 ### § 176 Übergangsvorschrift zum Zweiten Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025500360)
 
 Die Größenmerkmale des § 267a Absatz 1 Satz 1 des Handelsgesetzbuchs
 in der ab dem 17. April 2024 geltenden Fassung sind für die Einstufung
@@ -4033,6 +4241,7 @@ Geschäftsjahr.
 
 
 ### § 177 Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/geng/BJNR000550889.html#BJNR000550889BJNE025600125)
 
 (1) Der Vorstand kann mit Zustimmung des Aufsichtsrats oder, wenn die
 Genossenschaft keinen Aufsichtsrat hat, mit Zustimmung eines von der

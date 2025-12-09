@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000100000)
 
 Inhaltsübersicht
 
@@ -63,6 +64,7 @@ Inhaltsübersicht
 
 
 ## § 1 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000200000)
 
 (1) Der Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 (Ausschuss) besteht aus den nach Maßgabe des § 108 Absatz 3 in
@@ -102,6 +104,7 @@ fachlichen Meinung unabhängig und weisungsfrei.
 
 
 ## § 2 Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000300000)
 
 Den Vorsitz führt ein Vertreter des Bundesministeriums, der kein
 Stimmrecht hat. Der Vorsitzende kann an den Sitzungen aller
@@ -109,6 +112,7 @@ Unterausschüsse nach § 8 teilnehmen.
 
 
 ## § 3 Leitung der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000400000)
 
 Der Vorsitzende kann zeitweise die Leitung einer Sitzung des
 Ausschusses an den Vertreter des seeärztlichen Dienstes der
@@ -118,6 +122,7 @@ Abstimmungen.
 
 
 ## § 4 Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000500000)
 
 (1) Die Geschäfte des Ausschusses und der Unterausschüsse führt die
 Berufsgenossenschaft (Geschäftsführer). Der Geschäftsführer untersteht
@@ -139,6 +144,7 @@ administrativen Angelegenheiten jederzeit zu hören.
 
 
 ## § 5 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000600000)
 
 (1) Der Vorsitzende lädt den Ausschuss nach Bedarf, mindestens jedoch
 einmal im Jahr, oder auf Verlangen der Hälfte der stimmberechtigten
@@ -182,6 +188,7 @@ Ausschusses werden nicht erstattet.
 
 
 ## § 6 Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000700000)
 
 (1) Der Ausschuss ist beschlussfähig, wenn mehr als die Hälfte der
 stimmberechtigten Mitglieder anwesend sind.
@@ -213,6 +220,7 @@ kann die Stimmabgabe auch elektronisch erfolgen.
 
 
 ## § 7 Ausschussangelegenheiten, Ergebnisniederschriften
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000800000)
 
 (1) Über jede Sitzung und jede schriftliche Beschlussfassung des
 Ausschusses ist von dem Geschäftsführer eine Ergebnisniederschrift
@@ -249,6 +257,7 @@ ihrer Internetseite oder mit geeigneten Mitteln die Öffentlichkeit
 
 
 ## § 8 Unterausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/go-medas/BJNR257900013.html#BJNR257900013BJNE000900000)
 
 (1) Der Ausschuss kann mit zwei Dritteln seiner anwesenden
 stimmberechtigten Mitglieder Unterausschüsse einrichten und deren

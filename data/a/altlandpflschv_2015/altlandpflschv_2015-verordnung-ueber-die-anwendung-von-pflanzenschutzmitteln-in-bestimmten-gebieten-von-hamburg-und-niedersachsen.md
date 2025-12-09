@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000100000)
 
 Auf Grund des § 36 Absatz 6 des Pflanzenschutzgesetzes vom 6. Februar
 2012 (BGBl. I S. 148, 1281) in Verbindung mit § 1 Absatz 2 des
@@ -33,12 +34,14 @@ und Niedersachsen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000200000)
 
 Diese Verordnung gilt für die Anwendung von Pflanzenschutzmitteln in
 den in Anlage 1 bezeichneten Gebieten.
 
 
 ## § 2 Allgemeine Bestimmungen für die Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000300000)
 
 Ein Pflanzenschutzmittel, das nach einer in der jeweiligen Zulassung
 festgelegten Anwendungsbestimmung nur mit einem Abstand zu Gewässern
@@ -49,6 +52,7 @@ festgelegten Bedingungen angewandt werden.
 
 
 ## § 3 Besondere Bestimmungen für die Anwendung von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000400000)
 
 (1) Auf der gesamten Anbaufläche sind bei der Anwendung eines
 Pflanzenschutzmittels im Sinne des § 2 Pflanzenschutzgeräte zu
@@ -105,6 +109,7 @@ die Anwendung von Pflanzenschutzmitteln zu beachten.
 
 
 ## § 4 Aufzeichnungs- und Fortbildungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000500000)
 
 (1) Der Leiter eines landwirtschaftlichen oder gärtnerischen Betriebs
 mit Flächen in einem der in Anlage 1 bezeichneten Gebiete, der
@@ -165,6 +170,7 @@ AT 02.05.2013 V1) sind zu berücksichtigen.
 
 
 ## § 5 Einteilung der Gewässer in Expositionsklassen
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000600000)
 
 (1) Die zuständige Behörde teilt die in dem in Anlage 1 bezeichneten
 Gebiet gelegenen ständig oder periodisch wasserführenden Gewässer
@@ -202,6 +208,7 @@ des § 6 Absatz 1.
 
 
 ## § 6 Ergänzende Maßnahmen zur Risikominderung
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000700000)
 
 (1) Ergänzend zu den §§ 3 und 4 ist ein Verfügungsberechtigter oder
 Besitzer einer landwirtschaftlich oder gärtnerisch genutzten Fläche,
@@ -266,6 +273,7 @@ gilt bis zum Eingang der Mitteilung bei der zuständigen Behörde Absatz
 
 
 ## § 7 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000801118)
 
 (1) Die zuständigen Behörden überwachen die Anwendung von
 Pflanzenschutzmitteln nach § 3 und die Einhaltung der Pflichten der §§
@@ -302,12 +310,14 @@ Jahr, erstmals 2018 in die Berichte nach Absatz 1 einzubeziehen.
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu den §§ 1 und 5 Absatz 1)
 
 ## Anlage 1 Obstanbaugebiet in gewässerreichen Niederungsgebieten Hamburgs und Niedersachsens
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE001100000)
 
 (Fundstelle: BAnz AT 16.03.2015 V2)
 
@@ -395,6 +405,7 @@ In Niedersachsen die Gebiete der
 (zu § 5 Absatz 1)
 
 ## Anlage 2 Muster für die Aufzeichnungen zu Anwendungen von Pflanzenschutzmitteln
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE001200000)
 
 (Fundstelle: BAnz AT 16.03.2015 V2)
 
@@ -444,6 +455,7 @@ In Niedersachsen die Gebiete der
    (zu § 5 Absatz 1, § 6)
 
 ## Anlage 3 Berechnung des Risikofaktors und Einteilung in Expositionsklassen für Gewässer im Alten Land
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE001300000)
 
 (Fundstelle: BAnz AT 16.03.2015 V2)
 
@@ -588,6 +600,7 @@ eingeordnet:
 (zu § 5 Absatz 2, § 6)
 
 ## Anlage 4 Maßnahmen zur Verbesserung der Expositionsklasse eines Gewässers
+[Direktlink](https://www.gesetze-im-internet.de/altlandpflschv_2015/BJNR607510015.html#BJNR607510015BJNE001400000)
 
 (Fundstelle: BAnz AT 16.03.2015 V2)
 

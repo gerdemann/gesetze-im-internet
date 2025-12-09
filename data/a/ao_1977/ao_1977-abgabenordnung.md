@@ -20,14 +20,17 @@ Neugefasst durch
 
 
 ## Erster Teil - Einleitende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000102123)
 
 
 
 ### Erster Abschnitt - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000202123)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009406123)
 
 (1) Dieses Gesetz gilt für alle Steuern einschließlich der
 Steuervergütungen, die durch Bundesrecht oder Recht der Europäischen
@@ -78,6 +81,7 @@ jedoch nur, soweit dies besonders bestimmt wird.
 
 
 #### § 2 Vorrang völkerrechtlicher Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009504123)
 
 (1) Verträge mit anderen Staaten im Sinne des Artikels 59 Absatz 2
 Satz 1 des Grundgesetzes über die Besteuerung gehen, soweit sie
@@ -117,6 +121,7 @@ erlassen, die
 
 
 #### § 2a Anwendungsbereich der Vorschriften über die Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056103123)
 
 (1) Die Vorschriften dieses Gesetzes und der Steuergesetze über die
 Verarbeitung personenbezogener Daten im Anwendungsbereich dieses
@@ -167,10 +172,12 @@ oder identifizierbare
 
 
 ### Zweiter Abschnitt - Steuerliche Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000302123)
 
 
 
 #### § 3 Steuern, steuerliche Nebenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009613123)
 
 (1) Steuern sind Geldleistungen, die nicht eine Gegenleistung für eine
 besondere Leistung darstellen und von einem öffentlich-rechtlichen
@@ -244,11 +251,13 @@ Körperschaften zu.
 
 
 #### § 4 Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009702123)
 
 Gesetz ist jede Rechtsnorm.
 
 
 #### § 5 Ermessen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009802123)
 
 Ist die Finanzbehörde ermächtigt, nach ihrem Ermessen zu handeln, hat
 sie ihr Ermessen entsprechend dem Zweck der Ermächtigung auszuüben und
@@ -256,6 +265,7 @@ die gesetzlichen Grenzen des Ermessens einzuhalten.
 
 
 #### § 6 Behörden, öffentliche und nicht-öffentliche Stellen, Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE009922123)
 
 (1) Behörde ist jede öffentliche Stelle, die Aufgaben der öffentlichen
 Verwaltung wahrnimmt.
@@ -344,6 +354,7 @@ Landesfinanzbehörden:
 
 
 #### § 7 Amtsträger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010003123)
 
 Amtsträger ist, wer nach deutschem Recht
 
@@ -363,6 +374,7 @@ Amtsträger ist, wer nach deutschem Recht
 
 
 #### § 8 Wohnsitz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010102123)
 
 Einen Wohnsitz hat jemand dort, wo er eine Wohnung unter Umständen
 innehat, die darauf schließen lassen, dass er die Wohnung beibehalten
@@ -370,6 +382,7 @@ und benutzen wird.
 
 
 #### § 9 Gewöhnlicher Aufenthalt
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010202123)
 
 Den gewöhnlichen Aufenthalt hat jemand dort, wo er sich unter
 Umständen aufhält, die erkennen lassen, dass er an diesem Ort oder in
@@ -383,11 +396,13 @@ Zwecken genommen wird und nicht länger als ein Jahr dauert.
 
 
 #### § 10 Geschäftsleitung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010302123)
 
 Geschäftsleitung ist der Mittelpunkt der geschäftlichen Oberleitung.
 
 
 #### § 11 Sitz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010402123)
 
 Den Sitz hat eine Körperschaft, Personenvereinigung oder
 Vermögensmasse an dem Ort, der durch Gesetz, Gesellschaftsvertrag,
@@ -395,6 +410,7 @@ Satzung, Stiftungsgeschäft oder dergleichen bestimmt ist.
 
 
 #### § 12 Betriebstätte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010502123)
 
 Betriebstätte ist jede feste Geschäftseinrichtung oder Anlage, die der
 Tätigkeit eines Unternehmens dient. Als Betriebstätten sind
@@ -444,6 +460,7 @@ insbesondere anzusehen:
 
 
 #### § 13 Ständiger Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010602123)
 
 Ständiger Vertreter ist eine Person, die nachhaltig die Geschäfte
 eines Unternehmens besorgt und dabei dessen Sachweisungen unterliegt.
@@ -461,6 +478,7 @@ Unternehmen nachhaltig
 
 
 #### § 14 Wirtschaftlicher Geschäftsbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010702123)
 
 Ein wirtschaftlicher Geschäftsbetrieb ist eine selbständige
 nachhaltige Tätigkeit, durch die Einnahmen oder andere wirtschaftliche
@@ -472,6 +490,7 @@ angelegt oder unbewegliches Vermögen vermietet oder verpachtet wird.
 
 
 #### § 14a Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060301123)
 
 (1) Personenvereinigungen im Sinne dieses Gesetzes und der
 Steuergesetze sind Personenzusammenschlüsse ohne Rechtspersönlichkeit
@@ -514,6 +533,7 @@ sinngemäß anzuwenden.
 
 
 #### § 14b Körperschaften mit Sitz im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060402123)
 
 (1) Ist eine Körperschaft mit Sitz (§ 11) im Ausland und Ort der
 Geschäftsleitung (§ 10) im Geltungsbereich dieses Gesetzes nach dem
@@ -537,6 +557,7 @@ Steuerschuldverhältnis unbeschränkt.
 
 
 #### § 15 Angehörige
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010804123)
 
 (1) Angehörige sind:
 
@@ -589,10 +610,12 @@ wenn
 
 
 ### Dritter Abschnitt - Zuständigkeit der Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000402123)
 
 
 
 #### § 16 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE010902123)
 
 Die sachliche Zuständigkeit der Finanzbehörden richtet sich, soweit
 nichts anderes bestimmt ist, nach dem Gesetz über die
@@ -600,12 +623,14 @@ Finanzverwaltung.
 
 
 #### § 17 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011002123)
 
 Die örtliche Zuständigkeit richtet sich, soweit nichts anderes
 bestimmt ist, nach den folgenden Vorschriften.
 
 
 #### § 18 Gesonderte Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011105123)
 
 (1) Für die gesonderten Feststellungen nach § 180 ist örtlich
 zuständig:
@@ -671,6 +696,7 @@ zuständige Finanzamt.
 
 
 #### § 19 Steuern vom Einkommen und Vermögen natürlicher Personen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011208123)
 
 (1) Für die Besteuerung natürlicher Personen nach dem Einkommen und
 Vermögen ist das Finanzamt örtlich zuständig, in dessen Bezirk der
@@ -739,6 +765,7 @@ Antrag nach § 1 Absatz 3 des Einkommensteuergesetzes gestellt wird.
 
 
 #### § 20 Steuern vom Einkommen und Vermögen der Körperschaften, Personenvereinigungen, Vermögensmassen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011302123)
 
 (1) Für die Besteuerung von Körperschaften, Personenvereinigungen und
 Vermögensmassen nach dem Einkommen und Vermögen ist das Finanzamt
@@ -764,6 +791,7 @@ oder worden ist.
 
 
 #### § 20a Steuern vom Einkommen bei Bauleistungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052103123)
 
 (1) Abweichend von den §§ 19 und 20 ist für die Besteuerung von
 Unternehmen, die Bauleistungen im Sinne von § 48 Absatz 1 Satz 3 des
@@ -790,6 +818,7 @@ für den Geltungsbereich des Gesetzes übertragen.
 
 
 #### § 21 Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011408123)
 
 (1) Für die Umsatzsteuer mit Ausnahme der Einfuhrumsatzsteuer ist das
 Finanzamt zuständig, von dessen Bezirk aus der Unternehmer sein
@@ -810,6 +839,7 @@ Feststellung zuständig ist.
 
 
 #### § 22 Realsteuern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011503123)
 
 (1) Für die Festsetzung und Zerlegung der Steuermessbeträge ist bei
 der Grundsteuer das Lagefinanzamt (§ 18 Absatz 1 Nummer 1) und bei der
@@ -837,6 +867,7 @@ vorhanden wären.
 
 
 #### § 22a Zuständigkeit auf dem Festlandsockel oder an der ausschließlichen Wirtschaftszone
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053901123)
 
 Die Zuständigkeit der Finanzbehörden der Länder nach den §§ 18 bis 22
 oder nach den Steuergesetzen im Bereich des der Bundesrepublik
@@ -846,6 +877,7 @@ ausschließlichen Wirtschaftszone richtet sich nach dem
 
 
 #### § 23 Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011606123)
 
 (1) Für die Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und
 21 des Zollkodex der Union und Verbrauchsteuern ist das Hauptzollamt
@@ -867,6 +899,7 @@ die Bußgeldsache zuständig ist.
 
 
 #### § 24 Ersatzzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011702123)
 
 Ergibt sich die örtliche Zuständigkeit nicht aus anderen Vorschriften,
 so ist die Finanzbehörde zuständig, in deren Bezirk der Anlass für die
@@ -874,6 +907,7 @@ Amtshandlung hervortritt.
 
 
 #### § 25 Mehrfache örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011802123)
 
 Sind mehrere Finanzbehörden zuständig, so entscheidet die
 Finanzbehörde, die zuerst mit der Sache befasst worden ist, es sei
@@ -886,6 +920,7 @@ Aufsichtsbehörden die Entscheidung gemeinsam.
 
 
 #### § 26 Zuständigkeitswechsel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE011903123)
 
 Geht die örtliche Zuständigkeit durch eine Veränderung der sie
 begründenden Umstände von einer Finanzbehörde auf eine andere
@@ -911,6 +946,7 @@ nach Satz 1 tritt so lange nicht ein, wie
 
 
 #### § 27 Zuständigkeitsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012005123)
 
 Im Einvernehmen mit der Finanzbehörde, die nach den Vorschriften der
 Steuergesetze örtlich zuständig ist, kann eine andere Finanzbehörde
@@ -923,6 +959,7 @@ Wirkung ihres Schweigens ausdrücklich hinzuweisen.
 
 
 #### § 28 Zuständigkeitsstreit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012102123)
 
 (1) Die gemeinsame fachlich zuständige Aufsichtsbehörde entscheidet
 über die örtliche Zuständigkeit, wenn sich mehrere Finanzbehörden für
@@ -934,6 +971,7 @@ bleibt unberührt.
 
 
 #### § 29 Gefahr im Verzug
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012202123)
 
 Bei Gefahr im Verzug ist für unaufschiebbare Maßnahmen jede
 Finanzbehörde örtlich zuständig, in deren Bezirk der Anlass für die
@@ -942,6 +980,7 @@ unverzüglich zu unterrichten.
 
 
 #### § 29a Unterstützung des örtlich zuständigen Finanzamts auf Anweisung der vorgesetzten Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054001123)
 
 Die oberste Landesfinanzbehörde oder die von ihr beauftragte
 Landesfinanzbehörde kann zur Gewährleistung eines zeitnahen und
@@ -955,10 +994,12 @@ zuzurechnen.
 
 
 ### Vierter Abschnitt - Verarbeitung geschützter Daten und Steuergeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000503123)
 
 
 
 #### § 29b Verarbeitung personenbezogener Daten durch Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056201123)
 
 (1) Die Verarbeitung personenbezogener Daten durch eine Finanzbehörde
 ist zulässig, wenn sie zur Erfüllung der ihr obliegenden Aufgabe oder
@@ -978,6 +1019,7 @@ Bundesdatenschutzgesetzes ist entsprechend anzuwenden.
 
 
 #### § 29c Verarbeitung personenbezogener Daten durch Finanzbehörden zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056301123)
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck
 als zu demjenigen, zu dem die Daten von einer Finanzbehörde erhoben
@@ -1055,6 +1097,7 @@ Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU)
 
 
 #### § 30 Steuergeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012315123)
 
 (1) Amtsträger haben das Steuergeheimnis zu wahren.
 
@@ -1281,6 +1324,7 @@ Wahrung des Steuergeheimnisses bleibt unberührt.
 
 
 #### § 31 Mitteilung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012409123)
 
 (1) Die Finanzbehörden sind verpflichtet, Besteuerungsgrundlagen,
 Steuermessbeträge und Steuerbeträge an Körperschaften des öffentlichen
@@ -1320,6 +1364,7 @@ entgegenstehen.
 
 
 #### § 31a Mitteilungen zur Bekämpfung der illegalen Beschäftigung und des Leistungsmissbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051111123)
 
 (1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen
 Person ist zulässig, soweit sie erforderlich sind
@@ -1379,6 +1424,7 @@ Erfüllung mit einem unverhältnismäßigen Aufwand verbunden wäre.
 
 
 #### § 31b Mitteilungen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052312123)
 
 (1) Die Offenbarung der nach § 30 geschützten Daten der betroffenen
 Person an die jeweils zuständige Stelle ist auch ohne Ersuchen
@@ -1495,6 +1541,7 @@ werden.
 
 
 #### § 31c Verarbeitung besonderer Kategorien personenbezogener Daten durch Finanzbehörden zu statistischen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056401123)
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist
 die Verarbeitung besonderer Kategorien personenbezogener Daten im
@@ -1528,10 +1575,12 @@ zusammengeführt werden, soweit der Statistikzweck dies erfordert.
 
 
 ### Fünfter Abschnitt - Haftungsbeschränkung für Amtsträger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000602123)
 
 
 
 #### § 32 Haftungsbeschränkung für Amtsträger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012502123)
 
 Wird infolge der Amts- oder Dienstpflichtverletzung eines Amtsträgers
 
@@ -1552,10 +1601,12 @@ Dienstpflichtverletzung mit einer Strafe bedroht ist.
 
 
 ### Sechster Abschnitt - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009401123)
 
 
 
 #### § 32a Informationspflicht der Finanzbehörde bei Erhebung personenbezogener Daten bei betroffenen Personen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056502123)
 
 (1) Die Pflicht der Finanzbehörde zur Information der betroffenen
 Person gemäß Artikel 13 Absatz 3 der Verordnung (EU) 2016/679 besteht
@@ -1642,6 +1693,7 @@ ist sie nur mit Zustimmung dieser Stellen zulässig.
 
 
 #### § 32b Informationspflicht der Finanzbehörde, wenn personenbezogene Daten nicht bei der betroffenen Person erhoben wurden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056602123)
 
 (1) Die Pflicht der Finanzbehörde zur Information der betroffenen
 Person gemäß Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679
@@ -1705,6 +1757,7 @@ zum Schutz der berechtigten Interessen der betroffenen Person.
 [^F832391_2_BJNR006130976BJNE056602123]: 
 
 #### § 32c Auskunftsrecht der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056702123)
 
 (1) Das Recht auf Auskunft der betroffenen Person gegenüber einer
 Finanzbehörde gemäß Artikel 15 der Verordnung (EU) 2016/679 besteht
@@ -1776,6 +1829,7 @@ weitergehenden Auskunft zustimmt.
 
 
 #### § 32d Form der Information oder Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056801123)
 
 (1) Soweit Artikel 12 bis 15 der Verordnung (EU) 2016/679 keine
 Regelungen enthalten, bestimmt die Finanzbehörde das Verfahren,
@@ -1797,6 +1851,7 @@ Artikel 15 der Verordnung (EU) 2016/679 elektronisch, ist § 87a Absatz
 
 
 #### § 32e Verhältnis zu anderen Auskunfts- und Informationszugangsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE056901123)
 
 Soweit die betroffene Person oder ein Dritter nach dem
 Informationsfreiheitsgesetz vom 5. September 2005 (BGBl. I S. 2722) in
@@ -1809,6 +1864,7 @@ ausgeschlossen. § 30 Absatz 4 Nummer 2 ist insoweit nicht anzuwenden.
 
 
 #### § 32f Recht auf Berichtigung und Löschung, Widerspruchsrecht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057002123)
 
 (1) Wird die Richtigkeit personenbezogener Daten von der betroffenen
 Person bestritten und lässt sich weder die Richtigkeit noch die
@@ -1856,10 +1912,12 @@ Rechtsvorschrift zur Verarbeitung verpflichtet.
 
 
 ### Siebter Abschnitt - Datenschutzaufsicht, Gerichtlicher Rechtsschutz in datenschutzrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009501123)
 
 
 
 #### § 32g Datenschutzbeauftragte der Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057101123)
 
 Für die von Finanzbehörden gemäß Artikel 37 der Verordnung (EU)
 2016/679 zu benennenden Datenschutzbeauftragten gelten § 5 Absatz 2
@@ -1867,6 +1925,7 @@ bis 5 sowie die §§ 6 und 7 des Bundesdatenschutzgesetzes entsprechend.
 
 
 #### § 32h Datenschutzrechtliche Aufsicht, Datenschutz-Folgenabschätzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057201123)
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit nach § 8 des Bundesdatenschutzgesetzes ist
@@ -1896,6 +1955,7 @@ und die Informationsfreiheit vom jeweiligen Land getragen werden.
 
 
 #### § 32i Gerichtlicher Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057303123)
 
 (1) Für Streitigkeiten über Rechte gemäß Artikel 78 Absatz 1 und 2 der
 Verordnung (EU) 2016/679 hinsichtlich der Verarbeitung nach § 30
@@ -2005,6 +2065,7 @@ Auftragsverarbeiter nicht die sofortige Vollziehung anordnen.
 
 
 #### § 32j Antrag auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057401123)
 
 Hält der oder die Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit oder eine nach Landesrecht für die Kontrolle des
@@ -2016,14 +2077,17 @@ gilt § 21 des Bundesdatenschutzgesetzes.
 
 
 ## Zweiter Teil - Steuerschuldrecht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000702123)
 
 
 
 ### Erster Abschnitt - Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000802123)
 
 
 
 #### § 33 Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012602123)
 
 (1) Steuerpflichtiger ist, wer eine Steuer schuldet, für eine Steuer
 haftet, eine Steuer für Rechnung eines Dritten einzubehalten und
@@ -2038,6 +2102,7 @@ Grundstücken, Geschäfts- und Betriebsräumen zu gestatten hat.
 
 
 #### § 34 Pflichten der gesetzlichen Vertreter und der Vermögensverwalter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012704123)
 
 (1) Die gesetzlichen Vertreter natürlicher und juristischer Personen
 sowie rechtsfähiger Personenvereinigungen und die Geschäftsführer von
@@ -2060,6 +2125,7 @@ soweit ihre Verwaltung reicht.
 
 
 #### § 35 Pflichten des Verfügungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012802123)
 
 Wer als Verfügungsberechtigter im eigenen oder fremden Namen auftritt,
 hat die Pflichten eines gesetzlichen Vertreters (§ 34 Absatz 1),
@@ -2067,6 +2133,7 @@ soweit er sie rechtlich und tatsächlich erfüllen kann.
 
 
 #### § 36 Erlöschen der Vertretungsmacht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE012902123)
 
 Das Erlöschen der Vertretungsmacht oder der Verfügungsmacht lässt die
 nach den §§ 34 und 35 entstandenen Pflichten unberührt, soweit diese
@@ -2076,10 +2143,12 @@ erfüllen kann.
 
 
 ### Zweiter Abschnitt - Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG000902123)
 
 
 
 #### § 37 Ansprüche aus dem Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013003123)
 
 (1) Ansprüche aus dem Steuerschuldverhältnis sind der Steueranspruch,
 der Steuervergütungsanspruch, der Haftungsanspruch, der Anspruch auf
@@ -2099,6 +2168,7 @@ Pfändungsschuldner.
 
 
 #### § 38 Entstehung der Ansprüche aus dem Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013102123)
 
 Die Ansprüche aus dem Steuerschuldverhältnis entstehen, sobald der
 Tatbestand verwirklicht ist, an den das Gesetz die Leistungspflicht
@@ -2106,6 +2176,7 @@ knüpft.
 
 
 #### § 39 Zurechnung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013203123)
 
 (1) Wirtschaftsgüter sind dem Eigentümer zuzurechnen.
 
@@ -2132,6 +2203,7 @@ knüpft.
 
 
 #### § 40 Gesetz- oder sittenwidriges Handeln
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013302123)
 
 Für die Besteuerung ist es unerheblich, ob ein Verhalten, das den
 Tatbestand eines Steuergesetzes ganz oder zum Teil erfüllt, gegen ein
@@ -2139,6 +2211,7 @@ gesetzliches Gebot oder Verbot oder gegen die guten Sitten verstößt.
 
 
 #### § 41 Unwirksame Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013402123)
 
 (1) Ist ein Rechtsgeschäft unwirksam oder wird es unwirksam, so ist
 dies für die Besteuerung unerheblich, soweit und solange die
@@ -2153,6 +2226,7 @@ maßgebend.
 
 
 #### § 42 Missbrauch von rechtlichen Gestaltungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013504123)
 
 (1) Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts kann das
 Steuergesetz nicht umgangen werden. Ist der Tatbestand einer Regelung
@@ -2172,6 +2246,7 @@ nachweist, die nach dem Gesamtbild der Verhältnisse beachtlich sind.
 
 
 #### § 43 Steuerschuldner, Steuervergütungsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013602123)
 
 Die Steuergesetze bestimmen, wer Steuerschuldner oder Gläubiger einer
 Steuervergütung ist. Sie bestimmen auch, ob ein Dritter die Steuer für
@@ -2179,6 +2254,7 @@ Rechnung des Steuerschuldners zu entrichten hat.
 
 
 #### § 44 Gesamtschuldner
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013702123)
 
 (1) Personen, die nebeneinander dieselbe Leistung aus dem
 Steuerschuldverhältnis schulden oder für sie haften oder die zusammen
@@ -2195,6 +2271,7 @@ der Zusammenveranlagung bleiben unberührt.
 
 
 #### § 45 Gesamtrechtsnachfolge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013802123)
 
 (1) Bei Gesamtrechtsnachfolge gehen die Forderungen und Schulden aus
 dem Steuerschuldverhältnis auf den Rechtsnachfolger über. Dies gilt
@@ -2208,6 +2285,7 @@ unberührt.
 
 
 #### § 46 Abtretung, Verpfändung, Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE013902123)
 
 (1) Ansprüche auf Erstattung von Steuern, Haftungsbeträgen,
 steuerlichen Nebenleistungen und auf Steuervergütungen können
@@ -2251,6 +2329,7 @@ Zivilprozessordnung.
 
 
 #### § 47 Erlöschen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014003123)
 
 Ansprüche aus dem Steuerschuldverhältnis erlöschen insbesondere durch
 Zahlung (§§ 224, 224a, 225), Aufrechnung (§ 226), Erlass (§§ 163,
@@ -2259,6 +2338,7 @@ Eintritt der Bedingung bei auflösend bedingten Ansprüchen.
 
 
 #### § 48 Leistung durch Dritte, Haftung Dritter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014102123)
 
 (1) Leistungen aus dem Steuerschuldverhältnis gegenüber der
 Finanzbehörde können auch durch Dritte bewirkt werden.
@@ -2268,6 +2348,7 @@ Sinne des Absatzes 1 einzustehen.
 
 
 #### § 49 Verschollenheit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014202123)
 
 Bei Verschollenheit gilt für die Besteuerung der Tag als Todestag, mit
 dessen Ablauf der Beschluss über die Todeserklärung des Verschollenen
@@ -2275,6 +2356,7 @@ rechtskräftig wird.
 
 
 #### § 50 Erlöschen und Unbedingtwerden der Verbrauchsteuer, Übergang der bedingten Verbrauchsteuerschuld
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014302123)
 
 (1) Werden nach den Verbrauchsteuergesetzen Steuervergünstigungen
 unter der Bedingung gewährt, dass verbrauchsteuerpflichtige Waren
@@ -2304,10 +2386,12 @@ weitergegeben werden.
 
 
 ### Dritter Abschnitt - Steuerbegünstigte Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001002123)
 
 
 
 #### § 51 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014404123)
 
 (1) Gewährt das Gesetz eine Steuervergünstigung, weil eine
 Körperschaft ausschließlich und unmittelbar gemeinnützige, mildtätige
@@ -2341,6 +2425,7 @@ Verfassungsschutzbehörde mit.
 
 
 #### § 52 Gemeinnützige Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014508123)
 
 (1) Eine Körperschaft verfolgt gemeinnützige Zwecke, wenn ihre
 Tätigkeit darauf gerichtet ist, die Allgemeinheit auf materiellem,
@@ -2486,6 +2571,7 @@ Satz 2 zuständig ist.
 
 
 #### § 53 Mildtätige Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014607123)
 
 Eine Körperschaft verfolgt mildtätige Zwecke, wenn ihre Tätigkeit
 darauf gerichtet ist, Personen selbstlos zu unterstützen,
@@ -2540,6 +2626,7 @@ darauf gerichtet ist, Personen selbstlos zu unterstützen,
 
 
 #### § 54 Kirchliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014702123)
 
 (1) Eine Körperschaft verfolgt kirchliche Zwecke, wenn ihre Tätigkeit
 darauf gerichtet ist, eine Religionsgemeinschaft, die Körperschaft des
@@ -2556,6 +2643,7 @@ Personen und die Versorgung ihrer Witwen und Waisen.
 
 
 #### § 55 Selbstlosigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014811123)
 
 (1) Eine Förderung oder Unterstützung geschieht selbstlos, wenn
 dadurch nicht in erster Linie eigenwirtschaftliche Zwecke – zum
@@ -2622,12 +2710,14 @@ gemeinen Werts der Buchwert der Entnahme tritt.
 
 
 #### § 56 Ausschließlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE014902123)
 
 Ausschließlichkeit liegt vor, wenn eine Körperschaft nur ihre
 steuerbegünstigten satzungsmäßigen Zwecke verfolgt.
 
 
 #### § 57 Unmittelbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015003123)
 
 (1) Eine Körperschaft verfolgt unmittelbar ihre steuerbegünstigten
 satzungsmäßigen Zwecke, wenn sie selbst diese Zwecke verwirklicht. Das
@@ -2658,6 +2748,7 @@ hält und verwaltet.
 
 
 #### § 58 Steuerlich unschädliche Betätigungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015113123)
 
 Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 
@@ -2731,6 +2822,7 @@ Die Steuervergünstigung wird nicht dadurch ausgeschlossen, dass
 
 
 #### § 58a Vertrauensschutz bei Mittelweitergaben
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058901123)
 
 (1) Wendet eine steuerbegünstigte Körperschaft Mittel einer anderen
 Körperschaft zu, darf sie unter den Voraussetzungen des Absatzes 2
@@ -2784,6 +2876,7 @@ lassen durch eine Ausfertigung
 
 
 #### § 59 Voraussetzung der Steuervergünstigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015202123)
 
 Die Steuervergünstigung wird gewährt, wenn sich aus der Satzung, dem
 Stiftungsgeschäft oder der sonstigen Verfassung (Satzung im Sinne
@@ -2794,6 +2887,7 @@ Geschäftsführung muss diesen Satzungsbestimmungen entsprechen.
 
 
 #### § 60 Anforderungen an die Satzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015303123)
 
 (1) Die Satzungszwecke und die Art ihrer Verwirklichung müssen so
 genau bestimmt sein, dass auf Grund der Satzung geprüft werden kann,
@@ -2808,6 +2902,7 @@ Zeitpunkt der Entstehung der Steuer entsprechen.
 
 
 #### § 60a Feststellung der satzungsmäßigen Voraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053703123)
 
 (1) Die Einhaltung der satzungsmäßigen Voraussetzungen nach den §§ 51,
 59, 60 und 61 wird gesondert festgestellt. Die Feststellung der
@@ -2861,6 +2956,7 @@ Absatz 1 Satz 3 des Geldwäschegesetzes vorliegt.
 
 
 #### § 60b Zuwendungsempfängerregister
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059102123)
 
 (1) Das Bundeszentralamt für Steuern führt ein Register, in dem
 Körperschaften und juristische Personen des öffentlichen Rechts
@@ -2923,6 +3019,7 @@ bewirken.
 
 
 #### § 61 Satzungsmäßige Vermögensbindung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015405123)
 
 (1) Eine steuerlich ausreichende Vermögensbindung (§ 55 Absatz 1
 Nummer 4) liegt vor, wenn der Zweck, für den das Vermögen bei
@@ -2944,6 +3041,7 @@ Vermögensbindung entstanden sind.
 
 
 #### § 62 Rücklagen und Vermögensbildung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015506123)
 
 (1) Körperschaften können ihre Mittel ganz oder teilweise
 
@@ -3011,6 +3109,7 @@ oder teilweise ihrem Vermögen zuführen.
 
 
 #### § 63 Anforderungen an die tatsächliche Geschäftsführung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015605123)
 
 (1) Die tatsächliche Geschäftsführung der Körperschaft muss auf die
 ausschließliche und unmittelbare Erfüllung der steuerbegünstigten
@@ -3052,6 +3151,7 @@ Die Frist ist taggenau zu berechnen.
 
 
 #### § 64 Steuerpflichtige wirtschaftliche Geschäftsbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015709123)
 
 (1) Schließt das Gesetz die Steuervergünstigung insoweit aus, als ein
 wirtschaftlicher Geschäftsbetrieb (§ 14) unterhalten wird, so verliert
@@ -3100,6 +3200,7 @@ Einnahmen zugrunde gelegt werden:
 
 
 #### § 65 Zweckbetrieb
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015802123)
 
 Ein Zweckbetrieb ist gegeben, wenn
 
@@ -3122,6 +3223,7 @@ Ein Zweckbetrieb ist gegeben, wenn
 
 
 #### § 66 Wohlfahrtspflege
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE015902123)
 
 (1) Eine Einrichtung der Wohlfahrtspflege ist ein Zweckbetrieb, wenn
 sie in besonderem Maß den in § 53 genannten Personen dient.
@@ -3138,6 +3240,7 @@ Leistungen zugute kommen. Für Krankenhäuser gilt § 67.
 
 
 #### § 67 Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016006123)
 
 (1) Ein Krankenhaus, das in den Anwendungsbereich des
 Krankenhausentgeltgesetzes oder der Bundespflegesatzverordnung fällt,
@@ -3156,6 +3259,7 @@ berechnet wird.
 
 
 #### § 67a Sportliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051207123)
 
 (1) Sportliche Veranstaltungen eines Sportvereins sind ein
 Zweckbetrieb, wenn die Einnahmen einschließlich Umsatzsteuer insgesamt
@@ -3200,6 +3304,7 @@ des Satzes 1. Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 68 Einzelne Zweckbetriebe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016114123)
 
 Zweckbetriebe sind auch:
 
@@ -3306,10 +3411,12 @@ Zweckbetriebe sind auch:
 
 
 ### Vierter Abschnitt - Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001102123)
 
 
 
 #### § 69 Haftung der Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016203123)
 
 Die in den §§ 34 und 35 bezeichneten Personen haften, soweit Ansprüche
 aus dem Steuerschuldverhältnis (§ 37) infolge vorsätzlicher oder grob
@@ -3321,6 +3428,7 @@ Pflichtverletzung zu zahlenden Säumniszuschläge.
 
 
 #### § 70 Haftung des Vertretenen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016302123)
 
 (1) Wenn die in den §§ 34 und 35 bezeichneten Personen bei Ausübung
 ihrer Obliegenheiten eine Steuerhinterziehung oder eine leichtfertige
@@ -3338,6 +3446,7 @@ haben.
 
 
 #### § 71 Haftung des Steuerhinterziehers und des Steuerhehlers
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016403123)
 
 Wer eine Steuerhinterziehung oder eine Steuerhehlerei begeht oder an
 einer solchen Tat teilnimmt, haftet für die verkürzten Steuern und die
@@ -3347,6 +3456,7 @@ Hinterziehungszinsen angerechnet werden.
 
 
 #### § 72 Haftung bei Verletzung der Pflicht zur Kontenwahrheit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016502123)
 
 Wer vorsätzlich oder grob fahrlässig der Vorschrift des § 154 Absatz 3
 zuwiderhandelt, haftet, soweit dadurch die Verwirklichung von
@@ -3354,6 +3464,7 @@ Ansprüchen aus dem Steuerschuldverhältnis beeinträchtigt wird.
 
 
 #### § 72a Haftung Dritter bei Datenübermittlungen an Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054102123)
 
 (1) Der Hersteller von Programmen im Sinne des § 87c haftet, soweit
 die Daten infolge einer Verletzung seiner Pflichten nach § 87c
@@ -3397,6 +3508,7 @@ haftet für die entgangene Steuer.
 
 
 #### § 73 Haftung bei Organschaft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016603123)
 
 Eine Organgesellschaft haftet für solche Steuern des Organträgers, für
 welche die Organschaft zwischen ihnen steuerlich von Bedeutung ist.
@@ -3407,6 +3519,7 @@ gleich.
 
 
 #### § 74 Haftung des Eigentümers von Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016702123)
 
 (1) Gehören Gegenstände, die einem Unternehmen dienen, nicht dem
 Unternehmer, sondern einer an dem Unternehmen wesentlich beteiligten
@@ -3427,6 +3540,7 @@ werden.
 
 
 #### § 75 Haftung des Betriebsübernehmers
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016803123)
 
 (1) Wird ein Unternehmen oder ein in der Gliederung eines Unternehmens
 gesondert geführter Betrieb im Ganzen übereignet, so haftet der
@@ -3444,6 +3558,7 @@ Erwerbe im Vollstreckungsverfahren.
 
 
 #### § 76 Sachhaftung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE016904123)
 
 (1) Verbrauchsteuerpflichtige Waren und einfuhr- und
 ausfuhrabgabenpflichtige Waren dienen ohne Rücksicht auf die Rechte
@@ -3472,6 +3587,7 @@ zollrechtliche Bestimmung erhalten.
 
 
 #### § 77 Duldungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017002123)
 
 (1) Wer kraft Gesetzes verpflichtet ist, eine Steuer aus Mitteln, die
 seiner Verwaltung unterliegen, zu entrichten, ist insoweit
@@ -3486,18 +3602,22 @@ zustehenden Einwendungen geltend zu machen, bleibt unberührt.
 
 
 ## Dritter Teil - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001202123)
 
 
 
 ### Erster Abschnitt - Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001302123)
 
 
 
 #### 1. Unterabschnitt - Beteiligung am Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001402123)
 
 
 
 ##### § 78 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017102123)
 
 Beteiligte sind
 
@@ -3516,6 +3636,7 @@ Beteiligte sind
 
 
 ##### § 79 Handlungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017205123)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind:
 
@@ -3550,6 +3671,7 @@ Rechts als handlungsfähig anerkannt ist.
 
 
 ##### § 80 Bevollmächtigte und Beistände
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017307123)
 
 (1) Ein Beteiligter kann sich durch einen Bevollmächtigten vertreten
 lassen. Die Vollmacht ermächtigt zu allen das Verwaltungsverfahren
@@ -3621,6 +3743,7 @@ sind unwirksam.
 
 
 ##### § 80a Elektronische Übermittlung von Vollmachtsdaten an Landesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054201123)
 
 (1) Daten aus einer Vollmacht zur Vertretung in steuerlichen
 Verfahren, die nach amtlich bestimmtem Formular erteilt worden sind,
@@ -3655,6 +3778,7 @@ Zulassung zur Hilfe in Steuersachen bestätigt.
 
 
 ##### § 81 Bestellung eines Vertreters von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017505123)
 
 (1) Ist ein Vertreter nicht vorhanden, so hat das Betreuungsgericht,
 für einen minderjährigen Beteiligten das Familiengericht auf Ersuchen
@@ -3718,10 +3842,12 @@ Pflegschaft entsprechend.
 
 
 #### 2. Unterabschnitt - Ausschließung und Ablehnung von Amtsträgern und anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001502123)
 
 
 
 ##### § 82 Ausgeschlossene Personen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017603123)
 
 (1) In einem Verwaltungsverfahren darf für eine Finanzbehörde nicht
 tätig werden,
@@ -3769,6 +3895,7 @@ der weiteren Beratung und Beschlussfassung nicht zugegen sein.
 
 
 ##### § 83 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017702123)
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen die
 Unparteilichkeit des Amtsträgers zu rechtfertigen oder wird von einem
@@ -3784,6 +3911,7 @@ zu verfahren.
 
 
 ##### § 84 Ablehnung von Mitgliedern eines Ausschusses
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017802123)
 
 Jeder Beteiligte kann ein Mitglied eines in einem Verwaltungsverfahren
 tätigen Ausschusses ablehnen, das in diesem Verwaltungsverfahren nicht
@@ -3799,14 +3927,17 @@ Verfahren vor dem Ausschuss abschließt.
 
 
 #### 3. Unterabschnitt - Besteuerungsgrundsätze, Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001602123)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001702123)
 
 
 
 ###### § 85 Besteuerungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE017902123)
 
 Die Finanzbehörden haben die Steuern nach Maßgabe der Gesetze
 gleichmäßig festzusetzen und zu erheben. Insbesondere haben sie
@@ -3816,6 +3947,7 @@ versagt werden.
 
 
 ###### § 86 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018002123)
 
 Die Finanzbehörde entscheidet nach pflichtgemäßem Ermessen, ob und
 wann sie ein Verwaltungsverfahren durchführt. Dies gilt nicht, wenn
@@ -3831,6 +3963,7 @@ die Finanzbehörde auf Grund von Rechtsvorschriften
 
 
 ###### § 87 Amtssprache
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018104123)
 
 (1) Die Amtssprache ist Deutsch.
 
@@ -3868,6 +4001,7 @@ Rechtsfolge ist bei der Fristsetzung hinzuweisen.
 
 
 ###### § 87a Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052513123)
 
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet. Die Übermittlung
@@ -3997,6 +4131,7 @@ Absatz 6 Satz 2 gilt entsprechend.
 
 
 ###### § 87b Bedingungen für die elektronische Übermittlung von Daten an Finanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054301123)
 
 (1) Das Bundesministerium der Finanzen kann in Abstimmung mit den
 obersten Finanzbehörden der Länder die Datensätze und weitere
@@ -4048,6 +4183,7 @@ niedergelegt ist.
 
 
 ###### § 87c Nicht amtliche Datenverarbeitungsprogramme für das Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054402123)
 
 (1) Sind nicht amtliche Programme dazu bestimmt, für das
 Besteuerungsverfahren erforderliche Daten zu verarbeiten, so müssen
@@ -4095,6 +4231,7 @@ Bestimmungen sind ausschließlich öffentlich-rechtlicher Art.
 
 
 ###### § 87d Datenübermittlungen an Finanzbehörden im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054501123)
 
 (1) Mit der Übermittlung von Daten, die nach amtlich vorgeschriebenem
 Datensatz durch Datenfernübertragung über die amtlich bestimmten
@@ -4125,6 +4262,7 @@ auf Vollständigkeit und Richtigkeit zu überprüfen.
 
 
 ###### § 87e Ausnahmeregelung für Einfuhr- und Ausfuhrabgaben, Verbrauchsteuern und die Luftverkehrsteuer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054601123)
 
 Die §§ 72a und 87b bis 87d gelten nicht für Einfuhr- und
 Ausfuhrabgaben, Verbrauchsteuern und die Luftverkehrsteuer, soweit
@@ -4132,6 +4270,7 @@ nichts anderes bestimmt ist.
 
 
 ###### § 88 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018206123)
 
 (1) Die Finanzbehörde ermittelt den Sachverhalt von Amts wegen. Dabei
 hat sie alle für den Einzelfall bedeutsamen, auch die für die
@@ -4212,6 +4351,7 @@ der Finanzen fest.
 
 
 ###### § 88a Sammlung von geschützten Daten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051703123)
 
 Soweit es zur Sicherstellung einer gleichmäßigen Festsetzung und
 Erhebung der Steuern erforderlich ist, dürfen die Finanzbehörden nach
@@ -4223,6 +4363,7 @@ und b zulässig.
 
 
 ###### § 88b Länderübergreifender Abruf und Verwendung von Daten zur Verhütung, Ermittlung und Verfolgung von Steuerverkürzungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054701123)
 
 (1) Für Zwecke eines Verwaltungsverfahrens in Steuersachen, eines
 Strafverfahrens wegen einer Steuerstraftat oder eines
@@ -4257,6 +4398,7 @@ die für die Finanzverwaltung zuständige oberste Landesbehörde
 
 
 ###### § 88c Informationsaustausch über kapitalmarktbezogene Gestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059401123)
 
 (1) Finanzbehörden haben Tatsachen, die sie dienstlich erfahren haben
 und aus denen sich nach Würdigung der Gesamtumstände Anhaltspunkte für
@@ -4295,6 +4437,7 @@ Steuersachen im Sinne dieses Gesetzes.
 
 
 ###### § 89 Beratung, Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018308123)
 
 (1) Die Finanzbehörde soll die Abgabe von Erklärungen, die Stellung
 von Anträgen oder die Berichtigung von Erklärungen oder Anträgen
@@ -4372,6 +4515,7 @@ Finanzbehörde zurückgenommen wird.
 
 
 ###### § 89a Vorabverständigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059502123)
 
 (1) Bei Anwendbarkeit eines Abkommens zur Vermeidung der
 Doppelbesteuerung, welches ein Verständigungsverfahren zur Vermeidung
@@ -4587,6 +4731,7 @@ Scheiterns des Vorabverständigungsverfahrens.
 
 
 ###### § 89b Internationale Risikobewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060602123)
 
 (1) Soweit in einem internationalen Risikobewertungsverfahren nach
 Absatz 2 das Risiko eines Steuerausfalls unter Beibehaltung der
@@ -4785,6 +4930,7 @@ und in Abstimmung mit dem Bundeszentralamt für Steuern.
 
 
 ###### § 90 Mitwirkungspflichten der Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018410123)
 
 (1) Die Beteiligten sind zur Mitwirkung bei der Ermittlung des
 Sachverhalts verpflichtet. Sie kommen der Mitwirkungspflicht
@@ -4859,6 +5005,7 @@ Absätzen 3 und 4 zu erstellenden Aufzeichnungen zu bestimmen.
 
 
 ###### § 91 Anhörung Beteiligter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018502123)
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
 Beteiligten eingreift, soll diesem Gelegenheit gegeben werden, sich zu
@@ -4898,6 +5045,7 @@ Interesse entgegensteht.
 
 
 ###### § 92 Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018602123)
 
 Die Finanzbehörde bedient sich der Beweismittel, die sie nach
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
@@ -4919,10 +5067,12 @@ erforderlich hält. Sie kann insbesondere
 
 
 ##### II. - Beweis durch Auskünfte und Sachverständigengutachten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001802123)
 
 
 
 ###### § 93 Auskunftspflicht der Beteiligten und anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018724123)
 
 (1) Die Beteiligten und andere Personen haben der Finanzbehörde die
 zur Feststellung eines für die Besteuerung erheblichen Sachverhalts
@@ -5171,6 +5321,7 @@ sind vom Ersuchenden zu dokumentieren.
 
 
 ###### § 93a Allgemeine Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051309123)
 
 (1) Zur Sicherung der Besteuerung nach § 85 kann die Bundesregierung
 durch Rechtsverordnung mit Zustimmung des Bundesrates Behörden und
@@ -5277,6 +5428,7 @@ Daten entsprechen.
 
 
 ###### § 93b Automatisierter Abruf von Kontoinformationen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053005123)
 
 (1) Kreditinstitute haben das nach § 24c Absatz 1 des
 Kreditwesengesetzes zu führende Dateisystem auch für Abrufe nach § 93
@@ -5306,6 +5458,7 @@ Kreditwesengesetzes gilt entsprechend.
 
 
 ###### § 93c Datenübermittlung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054802123)
 
 (1) Sind steuerliche Daten eines Steuerpflichtigen auf Grund
 gesetzlicher Vorschriften von einem Dritten (mitteilungspflichtige
@@ -5451,6 +5604,7 @@ nur für diesen Zweck verwenden.
 
 
 ###### § 93d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE054901123)
 
 Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates bestimmen, dass Daten im Sinne des § 93c
@@ -5462,6 +5616,7 @@ innerhalb eines Jahres nach Beendigung der Erprobung gelöscht werden.
 
 
 ###### § 94 Eidliche Vernehmung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018802123)
 
 (1) Hält die Finanzbehörde mit Rücksicht auf die Bedeutung der
 Auskunft oder zur Herbeiführung einer wahrheitsgemäßen Auskunft die
@@ -5485,6 +5640,7 @@ des Zeugnisses oder der Eidesleistung.
 
 
 ###### § 95 Versicherung an Eides statt
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE018903123)
 
 (1) Die Finanzbehörde kann den Beteiligten auffordern, dass er die
 Richtigkeit von Tatsachen, die er behauptet, an Eides statt
@@ -5531,6 +5687,7 @@ werden.
 
 
 ###### § 96 Hinzuziehung von Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019002123)
 
 (1) Die Finanzbehörde bestimmt, ob ein Sachverständiger zuzuziehen
 ist. Soweit nicht Gefahr im Verzug vorliegt, hat sie die Person, die
@@ -5583,10 +5740,12 @@ sinngemäß.
 
 
 ##### III. - Beweis durch Urkunden und Augenschein
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG001902123)
 
 
 
 ###### § 97 Vorlage von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019103123)
 
 (1) Die Beteiligten und andere Personen haben der Finanzbehörde auf
 Verlangen Bücher, Aufzeichnungen, Geschäftspapiere und andere Urkunden
@@ -5603,6 +5762,7 @@ entsprechend.
 
 
 ###### § 98 Einnahme des Augenscheins
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019202123)
 
 (1) Führt die Finanzbehörde einen Augenschein durch, so ist das
 Ergebnis aktenkundig zu machen.
@@ -5612,6 +5772,7 @@ werden.
 
 
 ###### § 99 Betreten von Grundstücken und Räumen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019302123)
 
 (1) Die von der Finanzbehörde mit der Einnahme des Augenscheins
 betrauten Amtsträger und die nach den §§ 96 und 98 zugezogenen
@@ -5629,6 +5790,7 @@ werden, nach unbekannten Gegenständen zu forschen.
 
 
 ###### § 100 Vorlage von Wertsachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019402123)
 
 (1) Der Beteiligte und andere Personen haben der Finanzbehörde auf
 Verlangen Wertsachen (Geld, Wertpapiere, Kostbarkeiten) vorzulegen,
@@ -5641,10 +5803,12 @@ unbekannten Gegenständen zu forschen.
 
 
 ##### IV. - Auskunfts- und Vorlageverweigerungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002002123)
 
 
 
 ###### § 101 Auskunfts- und Eidesverweigerungsrecht der Angehörigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019502123)
 
 (1) Die Angehörigen (§ 15) eines Beteiligten können die Auskunft
 verweigern, soweit sie nicht selbst als Beteiligte über ihre eigenen
@@ -5659,6 +5823,7 @@ entsprechend.
 
 
 ###### § 102 Auskunftsverweigerungsrecht zum Schutz bestimmter Berufsgeheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057801123)
 
 (1) Die Auskunft können ferner verweigern:
 
@@ -5727,6 +5892,7 @@ betroffene Nutzer identifizierbar sein sollten.
 
 
 ###### § 103 Auskunftsverweigerungsrecht bei Gefahr der Verfolgung wegen einer Straftat oder einer Ordnungswidrigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019703123)
 
 Personen, die nicht Beteiligte und nicht für einen Beteiligten
 auskunftspflichtig sind, können die Auskunft auf solche Fragen
@@ -5738,6 +5904,7 @@ machen.
 
 
 ###### § 104 Verweigerung der Erstattung eines Gutachtens und der Vorlage von Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019802123)
 
 (1) Soweit die Auskunft verweigert werden darf, kann auch die
 Erstattung eines Gutachtens und die Vorlage von Urkunden oder
@@ -5751,6 +5918,7 @@ Geschäftsbücher und sonstigen Aufzeichnungen.
 
 
 ###### § 105 Verhältnis der Auskunfts- und Vorlagepflicht zur Schweigepflicht öffentlicher Stellen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE019904123)
 
 (1) Die Verpflichtung der Behörden oder sonstiger öffentlicher Stellen
 einschließlich der Deutschen Bundesbank, der Staatsbanken und der
@@ -5764,6 +5932,7 @@ verpflichtet sind, das Brief-, Post- und Fernmeldegeheimnis zu wahren.
 
 
 ###### § 106 Beschränkung der Auskunfts- und Vorlagepflicht bei Beeinträchtigung des staatlichen Wohls
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020002123)
 
 Eine Auskunft oder die Vorlage von Urkunden darf nicht gefordert
 werden, wenn die zuständige oberste Bundes- oder Landesbehörde
@@ -5772,10 +5941,12 @@ Landes erhebliche Nachteile bereiten würde.
 
 
 ##### V. - Entschädigung der Auskunftspflichtigen und der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002102123)
 
 
 
 ###### § 107 Entschädigung der Auskunftspflichtigen und der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020104123)
 
 Auskunftspflichtige, Vorlagepflichtige und Sachverständige, die die
 Finanzbehörde zu Beweiszwecken herangezogen hat, erhalten auf Antrag
@@ -5786,10 +5957,12 @@ Auskunfts- oder Vorlagepflicht zu erfüllen haben.
 
 
 #### 4. Unterabschnitt - Fristen, Termine, Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002202123)
 
 
 
 ##### § 108 Fristen und Termine
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020203123)
 
 (1) Für die Berechnung von Fristen und für die Bestimmung von Terminen
 gelten die §§ 187 bis 193 des Bürgerlichen Gesetzbuchs entsprechend,
@@ -5816,6 +5989,7 @@ gesetzliche Feiertage oder Sonnabende mitgerechnet.
 
 
 ##### § 109 Verlängerung von Fristen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020304123)
 
 (1) Fristen zur Einreichung von Steuererklärungen und Fristen, die von
 einer Finanzbehörde gesetzt sind, können vorbehaltlich des Absatzes 2
@@ -5858,6 +6032,7 @@ Einzelfall durch Amtsträger zu bearbeiten.
 
 
 ##### § 110 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020402123)
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
@@ -5881,10 +6056,12 @@ Finanzbehörde, die über die versäumte Handlung zu befinden hat.
 
 
 #### 5. Unterabschnitt - Rechts- und Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002302123)
 
 
 
 ##### § 111 Amtshilfepflicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020505123)
 
 (1) Alle Gerichte und Behörden haben die zur Durchführung der
 Besteuerung erforderliche Amtshilfe zu leisten. § 102 bleibt
@@ -5916,6 +6093,7 @@ hat, und auf die Bediensteten dieser Unternehmen.
 
 
 ##### § 112 Voraussetzungen und Grenzen der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020602123)
 
 (1) Eine Finanzbehörde kann um Amtshilfe insbesondere dann ersuchen,
 wenn sie
@@ -5976,6 +6154,7 @@ fachlich zuständige Aufsichtsbehörde.
 
 
 ##### § 113 Auswahl der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020702123)
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, so soll nach
 Möglichkeit eine Behörde der untersten Verwaltungsstufe des
@@ -5984,6 +6163,7 @@ angehört.
 
 
 ##### § 114 Durchführung der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020802123)
 
 (1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe
 verwirklicht werden soll, richtet sich nach dem für die ersuchende
@@ -5997,6 +6177,7 @@ verantwortlich.
 
 
 ##### § 115 Kosten der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE020903123)
 
 (1) Die ersuchende Finanzbehörde hat der ersuchten Behörde für die
 Amtshilfe keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der
@@ -6011,6 +6192,7 @@ und Auslagen) zu.
 
 
 ##### § 116 Anzeige von Steuerstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021005123)
 
 (1) Gerichte und die Behörden von Bund, Ländern und kommunalen Trägern
 der öffentlichen Verwaltung, die nicht Finanzbehörden sind, haben
@@ -6029,6 +6211,7 @@ bereits erkennbar unmittelbar in Kenntnis gesetzt worden ist.
 
 
 ##### § 117 Zwischenstaatliche Rechts- und Amtshilfe in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021108123)
 
 (1) Die Finanzbehörden können zwischenstaatliche Rechts- und Amtshilfe
 nach Maßgabe des deutschen Rechts in Anspruch nehmen.
@@ -6102,6 +6285,7 @@ unberührt.
 
 
 ##### § 117a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053501123)
 
 (1) Auf ein Ersuchen einer für die Verhütung und Verfolgung von
 Straftaten zuständigen öffentlichen Stelle eines Mitgliedstaates der
@@ -6227,6 +6411,7 @@ internationale Rechtshilfe in Strafsachen.
 
 
 ##### § 117b Verwendung von den nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053601123)
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die mit der
 Steuerfahndung betrauten Dienststellen der Finanzbehörden übermittelt
@@ -6245,6 +6430,7 @@ zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 
 
 ##### § 117c Umsetzung innerstaatlich anwendbarer völkerrechtlicher Vereinbarungen zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053807123)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Erfüllung
 der Verpflichtungen aus innerstaatlich anwendbaren völkerrechtlichen
@@ -6310,6 +6496,7 @@ der Beteiligten statt.
 
 
 ##### § 117d Statistiken über die zwischenstaatliche Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057701123)
 
 Informationen, die im Zuge der zwischenstaatlichen Amts- und
 Rechtshilfe verarbeitet werden, dürfen statistisch pseudonymisiert
@@ -6318,6 +6505,7 @@ oder anonymisiert aufbereitet werden. Diese statistischen Daten dürfen
 
 
 ##### § 117e Besondere Formen der Amtshilfe mit Drittstaaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060701123)
 
 (1) Die Finanzbehörden können im Verhältnis zu Staaten und
 Hoheitsgebieten, die nicht Mitgliedstaaten der Europäischen Union sind
@@ -6379,10 +6567,12 @@ wahrnimmt oder eine abweichende Zuweisung vorsieht.
 
 
 ### Zweiter Abschnitt - Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002402123)
 
 
 
 #### § 118 Begriff des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021202123)
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere
 hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalls
@@ -6395,6 +6585,7 @@ durch die Allgemeinheit betrifft.
 
 
 #### § 119 Bestimmtheit und Form des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021306123)
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
@@ -6427,6 +6618,7 @@ gespeichert wird.
 
 
 #### § 120 Nebenbestimmungen zum Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021402123)
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
 Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift
@@ -6467,6 +6659,7 @@ zuwiderlaufen.
 
 
 #### § 121 Begründung des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021503123)
 
 (1) Ein schriftlicher, elektronischer sowie ein schriftlich oder
 elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu
@@ -6499,6 +6692,7 @@ versehen, soweit dies zu seinem Verständnis erforderlich ist.
 
 
 #### § 122 Bekanntgabe des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021609123)
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben,
 für den er bestimmt ist oder der von ihm betroffen wird. § 34 Absatz 2
@@ -6582,6 +6776,7 @@ bestehen.
 
 
 #### § 122a Bekanntgabe von Verwaltungsakten durch Bereitstellung zum Datenabruf
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055004123)
 
 (1) Verwaltungsakte können mit Einwilligung des Beteiligten oder der
 von ihm bevollmächtigten Person bekannt gegeben werden, indem sie zum
@@ -6659,6 +6854,7 @@ Onlinezugangsgesetz zum Abruf bereitstellen will.“
 
 
 #### § 123 Bestellung eines Empfangsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021706123)
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder
 Geschäftsleitung im Inland, in einem anderen Mitgliedstaat der
@@ -6675,6 +6871,7 @@ Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 #### § 124 Wirksamkeit des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021802123)
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt
 ist oder der von ihm betroffen wird, in dem Zeitpunkt wirksam, in dem
@@ -6689,6 +6886,7 @@ Zeitablauf oder auf andere Weise erledigt ist.
 
 
 #### § 125 Nichtigkeit des Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE021903123)
 
 (1) Ein Verwaltungsakt ist nichtig, soweit er an einem besonders
 schwerwiegenden Fehler leidet und dies bei verständiger Würdigung
@@ -6745,6 +6943,7 @@ hieran ein berechtigtes Interesse hat.
 
 
 #### § 126 Heilung von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022004123)
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht
 den Verwaltungsakt nach § 125 nichtig macht, ist unbeachtlich, wenn
@@ -6782,6 +6981,7 @@ im Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
 
 #### § 127 Folgen von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022102123)
 
 Die Aufhebung eines Verwaltungsakts, der nicht nach § 125 nichtig ist,
 kann nicht allein deshalb beansprucht werden, weil er unter Verletzung
@@ -6791,6 +6991,7 @@ der Sache hätte getroffen werden können.
 
 
 #### § 128 Umdeutung eines fehlerhaften Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022203123)
 
 (1) Ein fehlerhafter Verwaltungsakt kann in einen anderen
 Verwaltungsakt umgedeutet werden, wenn er auf das gleiche Ziel
@@ -6813,6 +7014,7 @@ werden.
 
 
 #### § 129 Offenbare Unrichtigkeiten beim Erlass eines Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022303123)
 
 Die Finanzbehörde kann Schreibfehler, Rechenfehler und ähnliche
 offenbare Unrichtigkeiten, die beim Erlass eines Verwaltungsakts
@@ -6824,6 +7026,7 @@ das berichtigt werden soll.
 
 
 #### § 130 Rücknahme eines rechtswidrigen Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022402123)
 
 (1) Ein rechtswidriger Verwaltungsakt kann, auch nachdem er
 unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die
@@ -6864,6 +7067,7 @@ erlassen worden ist; § 26 Satz 2 bleibt unberührt.
 
 
 #### § 131 Widerruf eines rechtmäßigen Verwaltungsakts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022502123)
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch
 nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung
@@ -6904,6 +7108,7 @@ erlassen worden ist.
 
 
 #### § 132 Rücknahme, Widerruf, Aufhebung und Änderung im Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022603123)
 
 Die Vorschriften über Rücknahme, Widerruf, Aufhebung und Änderung von
 Verwaltungsakten gelten auch während eines Einspruchsverfahrens und
@@ -6915,6 +7120,7 @@ entgegen, soweit dadurch dem Einspruch oder der Klage abgeholfen wird.
 
 
 #### § 133 Rückgabe von Urkunden und Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022702123)
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen
 oder ist seine Wirksamkeit aus einem anderen Grund nicht oder nicht
@@ -6932,26 +7138,32 @@ ist.
 
 
 ## Vierter Teil - Durchführung der Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002502123)
 
 
 
 ### Erster Abschnitt - Erfassung der Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002602123)
 
 
 
 #### 1. Unterabschnitt - Personenstands- und Betriebsaufnahme
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002702123)
 
 
 
 ##### (XXXX) §§ 134 bis 136 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE022804123)
 
 
 
 #### 2. Unterabschnitt - Anzeigepflichten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002802123)
 
 
 
 ##### § 137 Steuerliche Erfassung von Körperschaften, Vereinigungen und Vermögensmassen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023102123)
 
 (1) Steuerpflichtige, die nicht natürliche Personen sind, haben dem
 nach § 20 zuständigen Finanzamt und den für die Erhebung der
@@ -6965,6 +7177,7 @@ meldepflichtigen Ereignis zu erstatten.
 
 
 ##### § 138 Anzeigen über die Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023216123)
 
 (1) Wer einen Betrieb der Land- und Forstwirtschaft, einen
 gewerblichen Betrieb oder eine Betriebstätte eröffnet, hat dies nach
@@ -7099,6 +7312,7 @@ ist.
 
 
 ##### § 138a Länderbezogener Bericht multinationaler Unternehmensgruppen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055505123)
 
 (1) Ein Unternehmen mit Sitz oder Geschäftsleitung im Inland
 (inländisches Unternehmen), das einen Konzernabschluss aufstellt oder
@@ -7269,6 +7483,7 @@ dem Jahr der Übermittlung folgt.
 
 
 ##### § 138b Mitteilungspflicht Dritter über Beziehungen inländischer Steuerpflichtiger zu Drittstaat-Gesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055802123)
 
 (1) Verpflichtete im Sinne des § 2 Absatz 1 Nummer 1 bis 3 und 6 des
 Geldwäschegesetzes (mitteilungspflichtige Stelle) haben dem für sie
@@ -7347,6 +7562,7 @@ Stelle
 
 
 ##### § 138c Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055901123)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates bestimmen, dass Mitteilungen gemäß § 138b
@@ -7377,6 +7593,7 @@ des Bundesrates bestimmen.
 
 
 ##### § 138d Pflicht zur Mitteilung grenzüberschreitender Steuergestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057902123)
 
 (1) Wer eine grenzüberschreitende Steuergestaltung im Sinne des
 Absatzes 2 vermarktet, für Dritte konzipiert, organisiert oder zur
@@ -7506,6 +7723,7 @@ Tätigkeiten aus, so gilt er nicht als an der Gestaltung Beteiligter.
 
 
 ##### § 138e Kennzeichen grenzüberschreitender Steuergestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058003123)
 
 (1) Kennzeichen im Sinne des § 138d Absatz 2 Satz 1 Nummer 3 Buchstabe
 a sind:
@@ -7803,6 +8021,7 @@ oder Vermögensmasse.
 
 
 ##### § 138f Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Intermediäre
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058103123)
 
 (1) Die grenzüberschreitende Steuergestaltung im Sinne des § 138d
 Absatz 2 ist dem Bundeszentralamt für Steuern nach amtlich
@@ -8075,6 +8294,7 @@ Rechtsvorschriften mitgeteilt wurden.
 
 
 ##### § 138g Verfahren zur Mitteilung grenzüberschreitender Steuergestaltungen durch Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058201123)
 
 (1) Erfüllt bei einer grenzüberschreitenden Steuergestaltung im Sinne
 des § 138d Absatz 2 kein Intermediär die Voraussetzungen des § 138f
@@ -8140,6 +8360,7 @@ ihren gewöhnlichen Aufenthalt, ihre Geschäftsleitung oder ihren Sitz
 
 
 ##### § 138h Mitteilungen bei marktfähigen grenzüberschreitenden Steuergestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058302123)
 
 (1) Eine grenzüberschreitende Steuergestaltung ist marktfähig, wenn
 sie konzipiert wird, vermarktet wird, umsetzungsbereit ist oder zur
@@ -8160,6 +8381,7 @@ Fällen des § 138g entsprechend.
 
 
 ##### § 138i Information der Landesfinanzbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058401123)
 
 Soweit von nach den §§ 138f bis 138h mitgeteilten
 grenzüberschreitenden Steuergestaltungen im Sinne des § 138d Absatz 2
@@ -8172,6 +8394,7 @@ Steuergestaltungen vorliegen.
 
 
 ##### § 138j Auswertung der Mitteilungen grenzüberschreitender Steuergestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058501123)
 
 (1) Das Bundeszentralamt für Steuern wertet die ihm nach den §§ 138f
 bis 138h zugegangenen Mitteilungen aus. Soweit von mitgeteilten
@@ -8210,6 +8433,7 @@ ein Verwaltungsverfahren in Steuersachen im Sinne des Gesetzes.
 
 
 ##### § 138k Angabe der grenzüberschreitenden Steuergestaltung in der Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE058601123)
 
 Hat ein Nutzer eine grenzüberschreitende Steuergestaltung im Sinne des
 § 138d Absatz 2 oder der entsprechenden Regelung eines anderen
@@ -8232,6 +8456,7 @@ anzugeben. Hierzu genügt die Angabe
 
 
 ##### § 139 Anmeldung von Betrieben in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023304123)
 
 (1) Wer Waren gewinnen oder herstellen will, an deren Gewinnung,
 Herstellung, Entfernung aus dem Herstellungsbetrieb oder Verbrauch
@@ -8250,10 +8475,12 @@ nur, soweit sie die Biersteuer betrifft.
 
 
 #### 3. Unterabschnitt - Identifikationsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009301123)
 
 
 
 ##### § 139a Identifikationsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052604123)
 
 (1) Das Bundeszentralamt für Steuern teilt jedem Steuerpflichtigen und
 jeder sonstigen natürlichen Person, die bei einer öffentlichen Stelle
@@ -8289,6 +8516,7 @@ nach einem Steuergesetz steuerpflichtig ist.
 
 
 ##### § 139b Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052726123)
 
 (1) Eine natürliche Person darf nicht mehr als eine
 Identifikationsnummer erhalten. Jede Identifikationsnummer darf nur
@@ -8609,6 +8837,7 @@ ausgezahlt, gilt Satz 2 entsprechend.
 
 
 ##### § 139c Wirtschafts-Identifikationsnummer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052809123)
 
 (1) Die Wirtschafts-Identifikationsnummer wird auf Anforderung der
 zuständigen Finanzbehörde vergeben. Sie beginnt mit den Buchstaben
@@ -8905,6 +9134,7 @@ Rechtsvorschrift sieht eine andere Verarbeitung ausdrücklich vor.
 
 
 ##### § 139d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052902123)
 
 Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates:
@@ -8930,6 +9160,7 @@ Bundesrates:
 
 
 ##### § 139e Direktauszahlungsmechanismus
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE061001123)
 
 (1) Der Direktauszahlungsmechanismus ist die Direktauszahlung
 öffentlicher Mittel an natürliche Personen unter Verwendung der nach §
@@ -8971,14 +9202,17 @@ das Gerichtsverfahren.
 
 
 ### Zweiter Abschnitt - Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG002902123)
 
 
 
 #### 1. Unterabschnitt - Führung von Büchern und Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003002123)
 
 
 
 ##### § 140 Buchführungs- und Aufzeichnungspflichten nach anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023402123)
 
 Wer nach anderen Gesetzen als den Steuergesetzen Bücher und
 Aufzeichnungen zu führen hat, die für die Besteuerung von Bedeutung
@@ -8987,6 +9221,7 @@ obliegen, auch für die Besteuerung zu erfüllen.
 
 
 ##### § 141 Buchführungspflicht bestimmter Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059303123)
 
 (1) Gewerbliche Unternehmer sowie Land- und Forstwirte, die nach den
 Feststellungen der Finanzbehörde für den einzelnen Betrieb
@@ -9032,6 +9267,7 @@ Buchführungspflicht ist nicht erforderlich.
 
 
 ##### § 142 Ergänzende Vorschriften für Land- und Forstwirte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023603123)
 
 Land- und Forstwirte, die nach § 141 Absatz 1 Nummer 1 oder 5 zur
 Buchführung verpflichtet sind, haben neben den jährlichen
@@ -9042,6 +9278,7 @@ Wirtschaftsjahr bestellt waren.
 
 
 ##### § 143 Aufzeichnung des Wareneingangs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023702123)
 
 (1) Gewerbliche Unternehmer müssen den Wareneingang gesondert
 aufzeichnen.
@@ -9078,6 +9315,7 @@ werden.
 
 
 ##### § 144 Aufzeichnung des Warenausgangs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023805123)
 
 (1) Gewerbliche Unternehmer, die nach der Art ihres Geschäftsbetriebs
 Waren regelmäßig an andere gewerbliche Unternehmer zur
@@ -9132,6 +9370,7 @@ Leistungsempfänger eine Gutschrift erteilt wird oder auf Grund des §
 
 
 ##### § 145 Allgemeine Anforderungen an die Buchführung und Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE023904123)
 
 (1) Die Buchführung muss so beschaffen sein, dass sie einem
 sachverständigen Dritten innerhalb angemessener Zeit einen Überblick
@@ -9144,6 +9383,7 @@ die Besteuerung erfüllen sollen, erreicht wird.
 
 
 ##### § 146 Ordnungsvorschriften für die Buchführung und für Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024009123)
 
 (1) Die Buchungen und die sonst erforderlichen Aufzeichnungen sind
 einzeln, vollständig, richtig, zeitgerecht und geordnet vorzunehmen.
@@ -9251,6 +9491,7 @@ führt, ohne hierzu verpflichtet zu sein.
 
 
 ##### § 146a Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055603123)
 
 (1) Wer aufzeichnungspflichtige Geschäftsvorfälle oder andere Vorgänge
 mit Hilfe eines elektronischen Aufzeichnungssystems erfasst, hat ein
@@ -9378,6 +9619,7 @@ erstatten.
 
 
 ##### § 146b Kassen-Nachschau
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055701123)
 
 (1) Zur Prüfung der Ordnungsmäßigkeit der Aufzeichnungen und Buchungen
 von Kasseneinnahmen und Kassenausgaben können die damit betrauten
@@ -9414,6 +9656,7 @@ Außenprüfung wird schriftlich hingewiesen.
 
 
 ##### § 147 Ordnungsvorschriften für die Aufbewahrung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060801123)
 
 (1) Die folgenden Unterlagen sind geordnet aufzubewahren:
 
@@ -9549,6 +9792,7 @@ aufbewahren.
 
 
 ##### § 147a Vorschriften für die Aufbewahrung von Aufzeichnungen und Unterlagen bestimmter Steuerpflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053307123)
 
 [^F832391_4_BJNR006130976BJNE053307123]
 (1) Steuerpflichtige, bei denen die Summe der positiven Einkünfte nach
@@ -9593,6 +9837,7 @@ sowie § 147 Absatz 2, 3 Satz 5 und Absatz 5 bis 7 gelten entsprechend.
 [^F832391_4_BJNR006130976BJNE053307123]: 
 
 ##### § 147b Verordnungsermächtigung zur Vereinheitlichung von digitalen Schnittstellen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060001123)
 
 Das Bundesministerium der Finanzen kann durch Rechtsverordnung mit
 Zustimmung des Bundesrates einheitliche digitale Schnittstellen und
@@ -9605,6 +9850,7 @@ für den standardisierten Export von Daten bestimmt werden.
 
 
 ##### § 148 Bewilligung von Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024202123)
 
 Die Finanzbehörden können für einzelne Fälle oder für bestimmte
 Gruppen von Fällen Erleichterungen bewilligen, wenn die Einhaltung der
@@ -9616,10 +9862,12 @@ widerrufen werden.
 
 
 #### 2. Unterabschnitt - Steuererklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003102123)
 
 
 
 ##### § 149 Abgabe der Steuererklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024307123)
 
 (1) Die Steuergesetze bestimmen, wer zur Abgabe einer Steuererklärung
 verpflichtet ist. Zur Abgabe einer Steuererklärung ist auch
@@ -9763,6 +10011,7 @@ Ermessen der obersten Landesfinanzbehörden und ist nicht einklagbar.
 
 
 ##### § 150 Form und Inhalt der Steuererklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024412123)
 
 (1) Eine Steuererklärung ist nach amtlich vorgeschriebenem Vordruck
 abzugeben, wenn
@@ -9857,6 +10106,7 @@ Datenfernübertragung zu nutzen.
 
 
 ##### § 151 Aufnahme der Steuererklärung an Amtsstelle
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024503123)
 
 Eine Steuererklärung, die schriftlich oder elektronisch abzugeben ist,
 kann bei der zuständigen Finanzbehörde zur Niederschrift erklärt
@@ -9868,6 +10118,7 @@ vorzunehmen oder durch einen Dritten vornehmen zu lassen.
 
 
 ##### § 152 Verspätungszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024617123)
 
 (1) Gegen denjenigen, der seiner Verpflichtung zur Abgabe einer
 Steuererklärung nicht oder nicht fristgemäß nachkommt, kann ein
@@ -10041,6 +10292,7 @@ Absatz 8 Satz 2 entsprechend.
 
 
 ##### § 153 Berichtigung von Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024703123)
 
 (1) Erkennt ein Steuerpflichtiger nachträglich vor Ablauf der
 Festsetzungsfrist,
@@ -10080,10 +10332,12 @@ Außenprüfung war, zu einer Änderung der Besteuerungsgrundlagen führt.
 
 
 #### 3. Unterabschnitt - Kontenwahrheit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003202123)
 
 
 
 ##### § 154 Kontenwahrheit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024806123)
 
 (1) Niemand darf auf einen falschen oder erdichteten Namen für sich
 oder einen Dritten ein Konto errichten oder Buchungen vornehmen
@@ -10176,18 +10430,22 @@ zuständigen Finanzamts herausgegeben werden.
 
 
 ### Dritter Abschnitt - Festsetzungs- und Feststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003302123)
 
 
 
 #### 1. Unterabschnitt - Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003402123)
 
 
 
 ##### I. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003502123)
 
 
 
 ###### § 155 Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE024905123)
 
 (1) Die Steuern werden, soweit nichts anderes vorgeschrieben ist, von
 der Finanzbehörde durch Steuerbescheid festgesetzt. Steuerbescheid ist
@@ -10243,6 +10501,7 @@ Festsetzung einer Steuervergütung sinngemäß anzuwenden.
 
 
 ###### § 156 Absehen von der Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025008123)
 
 (1) Das Bundesministerium der Finanzen kann zur Vereinfachung der
 Verwaltung durch Rechtsverordnung bestimmen, dass eine Steuer nicht
@@ -10282,6 +10541,7 @@ Bundesministerium der Finanzen fest.
 
 
 ###### § 157 Form und Inhalt der Steuerbescheide
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025103123)
 
 (1) Steuerbescheide sind schriftlich oder elektronisch zu erteilen,
 soweit nichts anderes bestimmt ist. Sie müssen die festgesetzte Steuer
@@ -10297,6 +10557,7 @@ festgestellt werden.
 
 
 ###### § 158 Beweiskraft der Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025203123)
 
 (1) Die Buchführung und die Aufzeichnungen des Steuerpflichtigen, die
 den Vorschriften der §§ 140 bis 148 entsprechen, sind der Besteuerung
@@ -10320,6 +10581,7 @@ zugrunde zu legen.
 
 
 ###### § 159 Nachweis der Treuhänderschaft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025302123)
 
 (1) Wer behauptet, dass er Rechte, die auf seinen Namen lauten, oder
 Sachen, die er besitzt, nur als Treuhänder, Vertreter eines anderen
@@ -10332,6 +10594,7 @@ Sachverhalt zu ermitteln, wird dadurch nicht eingeschränkt.
 
 
 ###### § 160 Benennung von Gläubigern und Zahlungsempfängern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025403123)
 
 (1) Schulden und andere Lasten, Betriebsausgaben, Werbungskosten und
 andere Ausgaben sind steuerlich regelmäßig nicht zu berücksichtigen,
@@ -10344,6 +10607,7 @@ unberührt.
 
 
 ###### § 161 Fehlmengen bei Bestandsaufnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025502123)
 
 Ergeben sich bei einer vorgeschriebenen oder amtlich durchgeführten
 Bestandsaufnahme Fehlmengen an verbrauchsteuerpflichtigen Waren, so
@@ -10357,6 +10621,7 @@ unbedingt geworden.
 
 
 ###### § 162 Schätzung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025612123)
 
 (1) Soweit die Finanzbehörde die Besteuerungsgrundlagen nicht
 ermitteln oder berechnen kann, hat sie sie zu schätzen. Dabei sind
@@ -10451,6 +10716,7 @@ werden.
 
 
 ###### § 163 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025704123)
 
 (1) Steuern können niedriger festgesetzt werden und einzelne
 Besteuerungsgrundlagen, die die Steuern erhöhen, können bei der
@@ -10499,6 +10765,7 @@ diesem Fall nicht.
 
 
 ###### § 164 Steuerfestsetzung unter Vorbehalt der Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025803123)
 
 (1) Die Steuern können, solange der Steuerfall nicht abschließend
 geprüft ist, allgemein oder im Einzelfall unter dem Vorbehalt der
@@ -10526,6 +10793,7 @@ und 10 sind nicht anzuwenden.
 
 
 ###### § 165 Vorläufige Steuerfestsetzung, Aussetzung der Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE025907123)
 
 (1) Soweit ungewiss ist, ob die Voraussetzungen für die Entstehung
 einer Steuer eingetreten sind, kann sie vorläufig festgesetzt werden.
@@ -10577,6 +10845,7 @@ unter Vorbehalt der Nachprüfung verbunden werden.
 
 
 ###### § 166 Drittwirkung der Steuerfestsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026002123)
 
 Ist die Steuer dem Steuerpflichtigen gegenüber unanfechtbar
 festgesetzt, so hat dies neben einem Gesamtrechtsnachfolger auch gegen
@@ -10586,6 +10855,7 @@ Bevollmächtigter oder kraft eigenen Rechts anzufechten.
 
 
 ###### § 167 Steueranmeldung, Verwendung von Steuerzeichen oder Steuerstemplern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026107123)
 
 (1) Ist eine Steuer auf Grund gesetzlicher Verpflichtung anzumelden (§
 150 Absatz 1 Satz 3), so ist eine Festsetzung der Steuer nach § 155
@@ -10604,6 +10874,7 @@ für Einfuhr- und Ausfuhrabgaben und Verbrauchsteuern.
 
 
 ###### § 168 Wirkung einer Steueranmeldung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026202123)
 
 Eine Steueranmeldung steht einer Steuerfestsetzung unter Vorbehalt der
 Nachprüfung gleich. Führt die Steueranmeldung zu einer Herabsetzung
@@ -10613,10 +10884,12 @@ bedarf keiner Form.
 
 
 ##### II. - Festsetzungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003602123)
 
 
 
 ###### § 169 Festsetzungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026307123)
 
 (1) Eine Steuerfestsetzung sowie ihre Aufhebung oder Änderung sind
 nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist. Dies
@@ -10680,6 +10953,7 @@ unterlassen hat.
 
 
 ###### § 170 Beginn der Festsetzungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026408123)
 
 (1) Die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahrs, in dem
 die Steuer entstanden ist oder eine bedingt entstandene Steuer
@@ -10767,6 +11041,7 @@ Kalenderjahres, in dem die Steuer entstanden ist.
 
 
 ###### § 171 Ablaufhemmung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059701123)
 
 (1) Die Festsetzungsfrist läuft nicht ab, solange die
 Steuerfestsetzung wegen höherer Gewalt innerhalb der letzten sechs
@@ -10922,10 +11197,12 @@ Steuerentrichtungspflichtigen geltenden Festsetzungsfrist.
 
 
 ##### III. - Bestandskraft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003702123)
 
 
 
 ###### § 172 Aufhebung und Änderung von Steuerbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026609123)
 
 (1) Ein Steuerbescheid darf, soweit er nicht vorläufig oder unter dem
 Vorbehalt der Nachprüfung ergangen ist, nur aufgehoben oder geändert
@@ -10984,6 +11261,7 @@ Satz 2 bis 6 gilt entsprechend.
 
 
 ###### § 173 Aufhebung oder Änderung von Steuerbescheiden wegen neuer Tatsachen oder Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026704123)
 
 (1) Steuerbescheide sind aufzuheben oder zu ändern,
 
@@ -11010,6 +11288,7 @@ Mitteilung nach § 202 Absatz 1 Satz 3 ergangen ist.
 
 
 ###### § 173a Schreib- oder Rechenfehler bei Erstellung einer Steuererklärung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055101123)
 
 Steuerbescheide sind aufzuheben oder zu ändern, soweit dem
 Steuerpflichtigen bei Erstellung seiner Steuererklärung Schreib- oder
@@ -11020,6 +11299,7 @@ hat.
 
 
 ###### § 174 Widerstreitende Steuerfestsetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026803123)
 
 (1) Ist ein bestimmter Sachverhalt in mehreren Steuerbescheiden
 zuungunsten eines oder mehrerer Steuerpflichtiger berücksichtigt
@@ -11069,6 +11349,7 @@ Verfahren ist zulässig.
 
 
 ###### § 175 Änderung von Steuerbescheiden auf Grund von Grundlagenbescheiden und bei rückwirkenden Ereignissen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE026905123)
 
 (1) Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern,
 
@@ -11095,6 +11376,7 @@ Bestätigung gilt nicht als rückwirkendes Ereignis.
 
 
 ###### § 175a Umsetzung von Verständigungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051804123)
 
 Ein Steuerbescheid ist zu erlassen, aufzuheben oder zu ändern, soweit
 dies zur Umsetzung einer Vorabverständigungsvereinbarung nach § 89a,
@@ -11110,6 +11392,7 @@ Vorabverständigungsvereinbarung.
 
 
 ###### § 175b Änderung von Steuerbescheiden bei Datenübermittlung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055203123)
 
 (1) Ein Steuerbescheid ist aufzuheben oder zu ändern, soweit von der
 mitteilungspflichtigen Stelle an die Finanzbehörden übermittelte Daten
@@ -11132,6 +11415,7 @@ oder Absatz 3 nicht rechtserheblich sind.
 
 
 ###### § 176 Vertrauensschutz bei der Aufhebung und Änderung von Steuerbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027003123)
 
 (1) Bei der Aufhebung oder Änderung eines Steuerbescheids darf nicht
 zuungunsten des Steuerpflichtigen berücksichtigt werden, dass
@@ -11166,6 +11450,7 @@ worden ist.
 
 
 ###### § 177 Berichtigung von materiellen Fehlern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027103123)
 
 (1) Liegen die Voraussetzungen für die Aufhebung oder Änderung eines
 Steuerbescheids zuungunsten des Steuerpflichtigen vor, so sind, soweit
@@ -11188,10 +11473,12 @@ entstandenen Steuer abweicht.
 
 
 ##### IV. - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003802123)
 
 
 
 ###### § 178 Kosten bei besonderer Inanspruchnahme der Zollbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027208123)
 
 (1) Die Behörden der Bundeszollverwaltung sowie die Behörden, denen
 die Wahrnehmung von Aufgaben der Bundeszollverwaltung übertragen
@@ -11272,14 +11559,17 @@ Anwendung.
 
 
 #### 2. Unterabschnitt - Gesonderte Feststellung von Besteuerungsgrundlagen, Festsetzung von Steuermessbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG003902123)
 
 
 
 ##### I. - Gesonderte Feststellungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004002123)
 
 
 
 ###### § 179 Feststellung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027303123)
 
 (1) Abweichend von § 157 Absatz 2 werden die Besteuerungsgrundlagen
 durch Feststellungsbescheid gesondert festgestellt, soweit dies in
@@ -11299,6 +11589,7 @@ unterblieben ist, ist sie in einem Ergänzungsbescheid nachzuholen.
 
 
 ###### § 180 Gesonderte Feststellung von Besteuerungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059801123)
 
 (1) Gesondert festgestellt werden insbesondere:
 
@@ -11426,6 +11717,7 @@ entsprechend anzuwenden, soweit
 
 
 ###### § 181 Verfahrensvorschriften für die gesonderte Feststellung, Feststellungsfrist, Erklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059902123)
 
 (1) Für die gesonderte Feststellung gelten die Vorschriften über die
 Durchführung der Besteuerung sinngemäß. Steuererklärung im Sinne des §
@@ -11514,6 +11806,7 @@ sinngemäß.
 
 
 ###### § 182 Wirkungen der gesonderten Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027608123)
 
 (1) Feststellungsbescheide sind, auch wenn sie noch nicht unanfechtbar
 sind, für andere Feststellungsbescheide, für Steuermessbescheide, für
@@ -11548,6 +11841,7 @@ gegenüber dem Rechtsnachfolger berichtigt werden.
 
 
 ###### § 183 Bekanntgabe bei der gesonderten und einheitlichen Feststellung gegenüber rechtsfähigen Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027711123)
 
 (1) Sind mehrere Personen am Gegenstand der gesonderten und
 einheitlichen Feststellung als Gesellschafter oder Gemeinschafter
@@ -11605,6 +11899,7 @@ mitzuteilen.
 
 
 ###### § 183a Empfangsbevollmächtigte bei der gesonderten und einheitlichen Feststellung bei nicht rechtsfähigen Personenvereinigungen und in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060502123)
 
 (1) Bilden die Feststellungsbeteiligten keine rechtsfähige
 Personenvereinigung, so sollen sie einen gemeinsamen
@@ -11665,10 +11960,12 @@ zusammengefasste Bescheide in § 122 Absatz 7 entsprechend.
 
 
 ##### II. - Festsetzung von Steuermessbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004102123)
 
 
 
 ###### § 184 Festsetzung von Steuermessbeträgen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027807123)
 
 (1) Steuermessbeträge, die nach den Steuergesetzen zu ermitteln sind,
 werden durch Steuermessbescheid festgesetzt. Mit der Festsetzung der
@@ -11696,10 +11993,12 @@ Mitteilungen an die Gemeinden erfolgen durch Bereitstellung zum Abruf;
 
 
 #### 3. Unterabschnitt - Zerlegung und Zuteilung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004202123)
 
 
 
 ##### § 185 Geltung der allgemeinen Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE027903123)
 
 Auf die in den Steuergesetzen vorgesehene Zerlegung von
 Steuermessbeträgen sind die für die Steuermessbeträge geltenden
@@ -11708,6 +12007,7 @@ anderes bestimmt ist.
 
 
 ##### § 186 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028002123)
 
 Am Zerlegungsverfahren sind beteiligt:
 
@@ -11724,6 +12024,7 @@ Am Zerlegungsverfahren sind beteiligt:
 
 
 ##### § 187 Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028102123)
 
 Die beteiligten Steuerberechtigten können von der zuständigen
 Finanzbehörde Auskunft über die Zerlegungsgrundlagen verlangen und
@@ -11731,6 +12032,7 @@ durch ihre Amtsträger Einsicht in die Zerlegungsunterlagen nehmen.
 
 
 ##### § 188 Zerlegungsbescheid
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028203123)
 
 (1) Über die Zerlegung ergeht ein schriftlicher oder elektronischer
 Bescheid (Zerlegungsbescheid), der den Beteiligten bekannt zu geben
@@ -11745,6 +12047,7 @@ Zerlegungsgrundlagen angeben.
 
 
 ##### § 189 Änderung der Zerlegung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028302123)
 
 Ist der Anspruch eines Steuerberechtigten auf einen Anteil am
 Steuermessbetrag nicht berücksichtigt und auch nicht zurückgewiesen
@@ -11762,6 +12065,7 @@ Zerlegung vor Ablauf des Jahres beantragt hatte.
 
 
 ##### § 190 Zuteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028402123)
 
 Ist ein Steuermessbetrag in voller Höhe einem Steuerberechtigten
 zuzuteilen, besteht aber Streit darüber, welchem Steuerberechtigten
@@ -11772,10 +12076,12 @@ anzuwenden.
 
 
 #### 4. Unterabschnitt - Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004302123)
 
 
 
 ##### § 191 Haftungsbescheide, Duldungsbescheide
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028505123)
 
 (1) Wer kraft Gesetzes für eine Steuer haftet (Haftungsschuldner),
 kann durch Haftungsbescheid, wer kraft Gesetzes verpflichtet ist, die
@@ -11833,6 +12139,7 @@ hat.
 
 
 ##### § 192 Vertragliche Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028602123)
 
 Wer sich auf Grund eines Vertrags verpflichtet hat, für die Steuer
 eines anderen einzustehen, kann nur nach den Vorschriften des
@@ -11840,14 +12147,17 @@ bürgerlichen Rechts in Anspruch genommen werden.
 
 
 ### Vierter Abschnitt - Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004402123)
 
 
 
 #### 1. Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004502123)
 
 
 
 ##### § 193 Zulässigkeit einer Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028704123)
 
 (1) Eine Außenprüfung ist zulässig bei Steuerpflichtigen, die einen
 gewerblichen oder land- und forstwirtschaftlichen Betrieb unterhalten,
@@ -11876,6 +12186,7 @@ eine Außenprüfung zulässig,
 
 
 ##### § 194 Sachlicher Umfang einer Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028803123)
 
 (1) Die Außenprüfung dient der Ermittlung der steuerlichen
 Verhältnisse des Steuerpflichtigen. Sie kann eine oder mehrere
@@ -11912,6 +12223,7 @@ betreffen.
 
 
 ##### § 195 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE028902123)
 
 Außenprüfungen werden von den für die Besteuerung zuständigen
 Finanzbehörden durchgeführt. Sie können andere Finanzbehörden mit der
@@ -11921,6 +12233,7 @@ verbindliche Zusagen (§§ 204 bis 207) erteilen.
 
 
 ##### § 196 Prüfungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029004123)
 
 Die Finanzbehörde bestimmt den Umfang der Außenprüfung in einer
 schriftlich oder elektronisch zu erteilenden Prüfungsanordnung mit
@@ -11928,6 +12241,7 @@ Rechtsbehelfsbelehrung nach § 356.
 
 
 ##### § 197 Bekanntgabe der Prüfungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029103123)
 
 (1) Die Prüfungsanordnung sowie der voraussichtliche Prüfungsbeginn
 und die Namen der Prüfer sind dem Steuerpflichtigen, bei dem die
@@ -11972,6 +12286,7 @@ Steuerbescheids einheitlich maßgeblich ist.
 
 
 ##### § 198 Ausweispflicht, Beginn der Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029202123)
 
 Die Prüfer haben sich bei Erscheinen unverzüglich auszuweisen. Der
 Beginn der Außenprüfung ist unter Angabe von Datum und Uhrzeit
@@ -11979,6 +12294,7 @@ aktenkundig zu machen.
 
 
 ##### § 199 Prüfungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029303123)
 
 (1) Der Außenprüfer hat die tatsächlichen und rechtlichen
 Verhältnisse, die für die Steuerpflicht und für die Bemessung der
@@ -11998,6 +12314,7 @@ unterbleibt ein qualifiziertes Mitwirkungsverlangen nach § 200a.
 
 
 ##### § 200 Mitwirkungspflichten des Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029406123)
 
 (1) Der Steuerpflichtige hat bei der Feststellung der Sachverhalte,
 die für die Besteuerung erheblich sein können, mitzuwirken. Er hat
@@ -12031,6 +12348,7 @@ hinzugezogen werden.
 
 
 ##### § 200a Qualifiziertes Mitwirkungsverlangen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE060101123)
 
 (1) Nach Ablauf von sechs Monaten seit Bekanntgabe der
 Prüfungsanordnung kann der Steuerpflichtige zur Mitwirkung nach § 200
@@ -12124,6 +12442,7 @@ evaluieren.
 
 
 ##### § 201 Schlussbesprechung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029503123)
 
 (1) Über das Ergebnis der Außenprüfung ist eine Besprechung abzuhalten
 (Schlussbesprechung), es sei denn, dass sich nach dem Ergebnis der
@@ -12143,6 +12462,7 @@ bleibt.
 
 
 ##### § 202 Inhalt und Bekanntgabe des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029603123)
 
 (1) Über das Ergebnis der Außenprüfung ergeht ein schriftlicher oder
 elektronischer Bericht (Prüfungsbericht). Im Prüfungsbericht sind die
@@ -12167,6 +12487,7 @@ entsprechend.
 
 
 ##### § 203 Abgekürzte Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029703123)
 
 (1) Bei Steuerpflichtigen, bei denen die Finanzbehörde eine
 Außenprüfung in regelmäßigen Zeitabständen nach den Umständen des
@@ -12183,6 +12504,7 @@ Absatz 1 und § 202 Absatz 2 gelten nicht.
 
 
 ##### § 203a Außenprüfung bei Datenübermittlung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055301123)
 
 (1) Bei einer mitteilungspflichtigen Stelle im Sinne des § 93c Absatz
 1 ist eine Außenprüfung zulässig, um zu ermitteln, ob die
@@ -12205,10 +12527,12 @@ Satz 1 zuständigen Finanzbehörde durchgeführt.
 
 
 #### 2. Unterabschnitt - Verbindliche Zusagen auf Grund einer Außenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004602123)
 
 
 
 ##### § 204 Voraussetzung der verbindlichen Zusage
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029804123)
 
 (1) Im Anschluss an eine Außenprüfung soll die Finanzbehörde dem
 Steuerpflichtigen auf Antrag verbindlich zusagen, wie ein für die
@@ -12236,6 +12560,7 @@ Sachverhalt in Zukunft steuerlich behandelt wird, wenn
 
 
 ##### § 205 Form der verbindlichen Zusage
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE029902123)
 
 (1) Die verbindliche Zusage wird schriftlich erteilt und als
 verbindlich gekennzeichnet.
@@ -12257,6 +12582,7 @@ verbindlich gekennzeichnet.
 
 
 ##### § 206 Bindungswirkung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030002123)
 
 (1) Die verbindliche Zusage ist für die Besteuerung bindend, wenn sich
 der später verwirklichte Sachverhalt mit dem der verbindlichen Zusage
@@ -12267,6 +12593,7 @@ Antragstellers dem geltenden Recht widerspricht.
 
 
 ##### § 207 Außerkrafttreten, Aufhebung und Änderung der verbindlichen Zusage
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030103123)
 
 (1) Die verbindliche Zusage tritt außer Kraft, wenn die
 Rechtsvorschriften, auf denen die Entscheidung beruht, geändert
@@ -12281,10 +12608,12 @@ Voraussetzungen des § 130 Absatz 2 Nummer 1 oder 2 vorliegen.
 
 
 ### Fünfter Abschnitt - Steuerfahndung (Zollfahndung)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004702123)
 
 
 
 #### § 208 Steuerfahndung (Zollfahndung)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030205123)
 
 (1) Aufgabe der Steuerfahndung (Zollfahndung) ist
 
@@ -12327,6 +12656,7 @@ bleiben unberührt.
 
 
 #### § 208a Steuerfahndung des Bundeszentralamts für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059001123)
 
 (1) Dem Bundeszentralamt für Steuern obliegt, soweit Aufgaben der
 Steuerverwaltung übertragen wurden, die Aufgabe nach § 208 Absatz 1
@@ -12343,10 +12673,12 @@ Satz 1 und 2, Absatz 2 und 3 Satz 1 und 2 gilt sinngemäß, § 393 Absatz
 
 
 ### Sechster Abschnitt - Steueraufsicht in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004802123)
 
 
 
 #### § 209 Gegenstand der Steueraufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030304123)
 
 (1) Der Warenverkehr über die Grenze und in den Freizonen und
 Freilagern sowie die Gewinnung und Herstellung, Lagerung, Beförderung
@@ -12372,6 +12704,7 @@ gesetzlich bestimmt ist.
 
 
 #### § 210 Befugnisse der Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030404123)
 
 (1) Die von der Finanzbehörde mit der Steueraufsicht betrauten
 Amtsträger sind berechtigt, Grundstücke und Räume von Personen, die
@@ -12422,6 +12755,7 @@ Soldaten bewohnt werden.
 
 
 #### § 211 Pflichten der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030505123)
 
 (1) Wer von einer Maßnahme der Steueraufsicht betroffen wird, hat den
 Amtsträgern auf Verlangen Aufzeichnungen, Bücher, Geschäftspapiere und
@@ -12443,6 +12777,7 @@ erschweren, sind unzulässig.
 
 
 #### § 212 Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030604123)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung zur
 näheren Bestimmung der im Rahmen der Steueraufsicht zu erfüllenden
@@ -12496,6 +12831,7 @@ betrifft, nicht der Zustimmung des Bundesrates.
 
 
 #### § 213 Besondere Aufsichtsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030702123)
 
 Betriebe oder Unternehmen, deren Inhaber oder deren leitende
 Angehörige wegen Steuerhinterziehung, versuchter Steuerhinterziehung
@@ -12509,6 +12845,7 @@ werden.
 
 
 #### § 214 Beauftragte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030804123)
 
 Wer sich zur Erfüllung steuerlicher Pflichten, die ihm auf Grund eines
 der Steueraufsicht unterliegenden Sachverhalts obliegen, durch einen
@@ -12518,6 +12855,7 @@ Finanzbehörde.
 
 
 #### § 215 Sicherstellung im Aufsichtsweg
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE030903123)
 
 (1) Die Finanzbehörde kann durch Wegnahme, Anbringen von Siegeln oder
 durch Verfügungsverbot sicherstellen:
@@ -12560,6 +12898,7 @@ mitzuteilen, soweit sie bekannt sind.
 
 
 #### § 216 Überführung in das Eigentum des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031004123)
 
 (1) Nach § 215 sichergestellte Sachen sind in das Eigentum des Bundes
 überzuführen, sofern sie nicht nach § 375 Absatz 2 eingezogen werden.
@@ -12606,6 +12945,7 @@ es eine unbillige Härte wäre, sie zu versagen.
 
 
 #### § 217 Steuerhilfspersonen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031102123)
 
 Zur Feststellung von Tatsachen, die zoll- oder
 verbrauchsteuerrechtlich erheblich sind, kann die Finanzbehörde
@@ -12614,18 +12954,22 @@ werden, als Steuerhilfspersonen bestellen.
 
 
 ## Fünfter Teil - Erhebungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG004902123)
 
 
 
 ### Erster Abschnitt - Verwirklichung, Fälligkeit und Erlöschen von Ansprüchen aus dem Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005002123)
 
 
 
 #### 1. Unterabschnitt - Verwirklichung und Fälligkeit von Ansprüchen aus dem Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005102123)
 
 
 
 ##### § 218 Verwirklichung von Ansprüchen aus dem Steuerschuldverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031203123)
 
 (1) Grundlage für die Verwirklichung von Ansprüchen aus dem
 Steuerschuldverhältnis (§ 37) sind die Steuerbescheide, die
@@ -12650,6 +12994,7 @@ entsprechend.
 
 
 ##### § 219 Zahlungsaufforderung bei Haftungsbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031303123)
 
 Wenn nichts anderes bestimmt ist, darf ein Haftungsschuldner auf
 Zahlung nur in Anspruch genommen werden, soweit die Vollstreckung in
@@ -12662,6 +13007,7 @@ abzuführen oder zu Lasten eines anderen zu entrichten.
 
 
 ##### § 220 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031403123)
 
 (1) Die Fälligkeit von Ansprüchen aus dem Steuerschuldverhältnis
 richtet sich nach den Vorschriften der Steuergesetze.
@@ -12676,6 +13022,7 @@ der Festsetzung ein.
 
 
 ##### § 221 Abweichende Fälligkeitsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031502123)
 
 Hat ein Steuerpflichtiger eine Verbrauchsteuer oder die Umsatzsteuer
 mehrfach nicht rechtzeitig entrichtet, so kann die Finanzbehörde
@@ -12691,6 +13038,7 @@ Entrichtung angekündigt worden ist.
 
 
 ##### § 222 Stundung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031603123)
 
 Die Finanzbehörden können Ansprüche aus dem Steuerschuldverhältnis
 ganz oder teilweise stunden, wenn die Einziehung bei Fälligkeit eine
@@ -12707,14 +13055,17 @@ enthalten, eingenommen hat.
 
 
 ##### § 223 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031704123)
 
 
 
 #### 2. Unterabschnitt - Zahlung, Aufrechnung, Erlass
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005202123)
 
 
 
 ##### § 224 Leistungsort, Tag der Zahlung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031807123)
 
 (1) Zahlungen an Finanzbehörden sind an die zuständige Kasse zu
 entrichten. Außerhalb des Kassenraums können Zahlungsmittel nur einem
@@ -12757,6 +13108,7 @@ Quittung anzunehmen.
 
 
 ##### § 224a Hingabe von Kunstgegenständen an Zahlungs statt
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051603123)
 
 (1) Schuldet ein Steuerpflichtiger Erbschaft- oder Vermögensteuer,
 kann durch öffentlich-rechtlichen Vertrag zugelassen werden, dass an
@@ -12788,6 +13140,7 @@ Stundungszinsen zu verzichten.
 
 
 ##### § 225 Reihenfolge der Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE031902123)
 
 (1) Schuldet ein Steuerpflichtiger mehrere Beträge und reicht bei
 freiwilliger Zahlung der gezahlte Betrag nicht zur Tilgung sämtlicher
@@ -12812,6 +13165,7 @@ Tilgung.
 
 
 ##### § 226 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032003123)
 
 (1) Für die Aufrechnung mit Ansprüchen aus dem Steuerschuldverhältnis
 sowie für die Aufrechnung gegen diese Ansprüche gelten sinngemäß die
@@ -12832,6 +13186,7 @@ die Steuer verwaltet.
 
 
 ##### § 227 Erlass
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032103123)
 
 Die Finanzbehörden können Ansprüche aus dem Steuerschuldverhältnis
 ganz oder zum Teil erlassen, wenn deren Einziehung nach Lage des
@@ -12840,10 +13195,12 @@ können bereits entrichtete Beträge erstattet oder angerechnet werden.
 
 
 #### 3. Unterabschnitt - Zahlungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005302123)
 
 
 
 ##### § 228 Gegenstand der Verjährung, Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032203123)
 
 Ansprüche aus dem Steuerschuldverhältnis unterliegen einer besonderen
 Zahlungsverjährung. Die Verjährungsfrist beträgt fünf Jahre, in Fällen
@@ -12851,6 +13208,7 @@ der §§ 370, 373 oder 374 zehn Jahre.
 
 
 ##### § 229 Beginn der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032304123)
 
 (1) Die Verjährung beginnt mit Ablauf des Kalenderjahrs, in dem der
 Anspruch erstmals fällig geworden ist. Sie beginnt jedoch nicht vor
@@ -12872,6 +13230,7 @@ geworden ist.
 
 
 ##### § 230 Hemmung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032404123)
 
 (1) Die Verjährung ist gehemmt, solange der Anspruch wegen höherer
 Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht
@@ -12883,6 +13242,7 @@ nicht anzuwenden.
 
 
 ##### § 231 Unterbrechung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032507123)
 
 (1) Die Verjährung eines Anspruchs wird unterbrochen durch
 
@@ -12960,20 +13320,24 @@ sich die Unterbrechungshandlung bezieht.
 
 
 ##### § 232 Wirkung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032602123)
 
 Durch die Verjährung erlöschen der Anspruch aus dem
 Steuerschuldverhältnis und die von ihm abhängenden Zinsen.
 
 
 ### Zweiter Abschnitt - Verzinsung, Säumniszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005402123)
 
 
 
 #### 1. Unterabschnitt - Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005502123)
 
 
 
 ##### § 233 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032705123)
 
 Ansprüche aus dem Steuerschuldverhältnis (§ 37) werden nur verzinst,
 soweit dies durch Bundesrecht oder Recht der Europäischen Union
@@ -12983,6 +13347,7 @@ verzinst.
 
 
 ##### § 233a Verzinsung von Steuernachforderungen und Steuererstattungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051509123)
 
 (1) Führt die Festsetzung der Einkommen-, Körperschaft-, Vermögen-,
 Umsatz- oder Gewerbesteuer zu einem Unterschiedsbetrag im Sinne des
@@ -13068,6 +13433,7 @@ unberührt.
 
 
 ##### § 234 Stundungszinsen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032804123)
 
 (1) Für die Dauer einer gewährten Stundung von Ansprüchen aus dem
 Steuerschuldverhältnis werden Zinsen erhoben; für Haftungsansprüche
@@ -13085,6 +13451,7 @@ sind anzurechnen.
 
 
 ##### § 235 Verzinsung von hinterzogenen Steuern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE032905123)
 
 (1) Hinterzogene Steuern sind zu verzinsen. Zinsschuldner ist
 derjenige, zu dessen Vorteil die Steuern hinterzogen worden sind. Wird
@@ -13142,6 +13509,7 @@ folgenden Maßgaben anzuwenden:
 
 
 ##### § 236 Prozesszinsen auf Erstattungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033006123)
 
 (1) Wird durch eine rechtskräftige gerichtliche Entscheidung oder auf
 Grund einer solchen Entscheidung eine festgesetzte Steuer herabgesetzt
@@ -13191,6 +13559,7 @@ Steuervergütungen erstreckt.
 
 
 ##### § 237 Zinsen bei Aussetzung der Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033108123)
 
 (1) Soweit ein Einspruch oder eine Anfechtungsklage gegen einen
 Steuerbescheid, eine Steueranmeldung oder einen Verwaltungsakt, der
@@ -13230,6 +13599,7 @@ Steuervergütungen erstreckt.
 
 
 ##### § 238 Höhe und Berechnung der Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033206123)
 
 (1) Die Zinsen betragen für jeden Monat einhalb Prozent. Sie sind von
 dem Tag an, an dem der Zinslauf beginnt, nur für volle Monate zu
@@ -13258,6 +13628,7 @@ Steuerart auf den nächsten durch 50 Euro teilbaren Betrag abgerundet.
 
 
 ##### § 239 Festsetzung der Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033309123)
 
 (1) Auf die Zinsen sind die für die Steuern geltenden Vorschriften
 entsprechend anzuwenden, jedoch beträgt die Festsetzungsfrist zwei
@@ -13326,10 +13697,12 @@ Zinsen nach § 233a festgesetzte Zinsen anzurechnen sind.
 
 
 #### 2. Unterabschnitt - Säumniszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005602123)
 
 
 
 ##### § 240 Säumniszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033409123)
 
 (1) Wird eine Steuer nicht bis zum Ablauf des Fälligkeitstages
 entrichtet, so ist für jeden angefangenen Monat der Säumnis ein
@@ -13359,10 +13732,12 @@ die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
 
 ### Dritter Abschnitt - Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005702123)
 
 
 
 #### § 241 Art der Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033504123)
 
 (1) Wer nach den Steuergesetzen Sicherheit zu leisten hat, kann diese
 erbringen
@@ -13456,6 +13831,7 @@ Waren gilt als ausreichende Sicherheit für die darauf lastende Steuer.
 
 
 #### § 242 Wirkung der Hinterlegung von Zahlungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033602123)
 
 Zahlungsmittel, die nach § 241 Absatz 1 Nummer 1 hinterlegt werden,
 gehen in das Eigentum der Körperschaft über, der die Finanzbehörde
@@ -13467,6 +13843,7 @@ hinterlegten Zahlungsmittel.
 
 
 #### § 243 Verpfändung von Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033702123)
 
 Die Sicherheitsleistung durch Verpfändung von Wertpapieren nach § 241
 Absatz 1 Nummer 2 ist nur zulässig, wenn der Verwahrer die Gewähr für
@@ -13493,6 +13870,7 @@ Haftung dafür,
 
 
 #### § 244 Taugliche Steuerbürgen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033808123)
 
 (1) Schuldversprechen und Bürgschaften nach dem Bürgerlichen
 Gesetzbuch sowie Wechselverpflichtungen aus Artikel 28 oder 78 des
@@ -13548,6 +13926,7 @@ Hauptzollämter zu übertragen.
 
 
 #### § 245 Sicherheitsleistung durch andere Werte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE033902123)
 
 Andere als die in § 241 bezeichneten Sicherheiten kann die
 Finanzbehörde nach ihrem Ermessen annehmen. Vorzuziehen sind
@@ -13557,6 +13936,7 @@ innerhalb angemessener Frist verwertet werden können.
 
 
 #### § 246 Annahmewerte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034002123)
 
 Die Finanzbehörde bestimmt nach ihrem Ermessen, zu welchen Werten
 Gegenstände als Sicherheit anzunehmen sind. Der Annahmewert darf
@@ -13569,6 +13949,7 @@ Gesetzbuchs genannten Werten liegen.
 
 
 #### § 247 Austausch von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034102123)
 
 Wer nach den §§ 241 bis 245 Sicherheit geleistet hat, ist berechtigt,
 die Sicherheit oder einen Teil davon durch eine andere nach den §§ 241
@@ -13576,20 +13957,24 @@ bis 244 geeignete Sicherheit zu ersetzen.
 
 
 #### § 248 Nachschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034202123)
 
 Wird eine Sicherheit unzureichend, so ist sie zu ergänzen oder es ist
 anderweitige Sicherheit zu leisten.
 
 
 ## Sechster Teil - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005802123)
 
 
 
 ### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG005902123)
 
 
 
 #### § 249 Vollstreckungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034306123)
 
 (1) Die Finanzbehörden können Verwaltungsakte, mit denen eine
 Geldleistung, eine sonstige Handlung, eine Duldung oder Unterlassung
@@ -13617,6 +14002,7 @@ Zivilprozessordnung ist dabei nicht anzuwenden.
 
 
 #### § 250 Vollstreckungsersuchen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034402123)
 
 (1) Soweit eine Vollstreckungsbehörde auf Ersuchen einer anderen
 Vollstreckungsbehörde Vollstreckungsmaßnahmen ausführt, tritt sie an
@@ -13633,6 +14019,7 @@ Aufsichtsbehörde der ersuchten Vollstreckungsbehörde.
 
 
 #### § 251 Vollstreckbare Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034508123)
 
 (1) Verwaltungsakte können vollstreckt werden, soweit nicht ihre
 Vollziehung ausgesetzt oder die Vollziehung durch Einlegung eines
@@ -13656,18 +14043,21 @@ oder elektronischen Verwaltungsakt fest.
 
 
 #### § 252 Vollstreckungsgläubiger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034602123)
 
 Im Vollstreckungsverfahren gilt die Körperschaft als Gläubigerin der
 zu vollstreckenden Ansprüche, der die Vollstreckungsbehörde angehört.
 
 
 #### § 253 Vollstreckungsschuldner
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034702123)
 
 Vollstreckungsschuldner ist derjenige, gegen den sich ein
 Vollstreckungsverfahren nach § 249 richtet.
 
 
 #### § 254 Voraussetzungen für den Beginn der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034803123)
 
 (1) Soweit nichts anderes bestimmt ist, darf die Vollstreckung erst
 beginnen, wenn die Leistung fällig ist und der Vollstreckungsschuldner
@@ -13689,6 +14079,7 @@ Säumniszuschlägen kann ausschließlich automationsgestützt erfolgen.
 
 
 #### § 255 Vollstreckung gegen juristische Personen des öffentlichen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE034902123)
 
 (1) Gegen den Bund oder ein Land ist die Vollstreckung nicht zulässig.
 Im Übrigen ist die Vollstreckung gegen juristische Personen des
@@ -13702,6 +14093,7 @@ Beschränkungen des Absatzes 1 nicht.
 
 
 #### § 256 Einwendungen gegen die Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035002123)
 
 Einwendungen gegen den zu vollstreckenden Verwaltungsakt sind
 außerhalb des Vollstreckungsverfahrens mit den hierfür zugelassenen
@@ -13709,6 +14101,7 @@ Rechtsbehelfen zu verfolgen.
 
 
 #### § 257 Einstellung und Beschränkung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035102123)
 
 (1) Die Vollstreckung ist einzustellen oder zu beschränken, sobald
 
@@ -13737,6 +14130,7 @@ ihre Aufhebung ausdrücklich angeordnet worden ist.
 
 
 #### § 258 Einstweilige Einstellung oder Beschränkung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035202123)
 
 Soweit im Einzelfall die Vollstreckung unbillig ist, kann die
 Vollstreckungsbehörde sie einstweilen einstellen oder beschränken oder
@@ -13744,14 +14138,17 @@ eine Vollstreckungsmaßnahme aufheben.
 
 
 ### Zweiter Abschnitt - Vollstreckung wegen Geldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006002123)
 
 
 
 #### 1. Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006102123)
 
 
 
 ##### § 259 Mahnung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035303123)
 
 Der Vollstreckungsschuldner soll in der Regel vor Beginn der
 Vollstreckung mit einer Zahlungsfrist von einer Woche gemahnt werden.
@@ -13761,12 +14158,14 @@ kann auch durch öffentliche Bekanntmachung allgemein erinnert werden.
 
 
 ##### § 260 Angabe des Schuldgrundes
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035402123)
 
 Im Vollstreckungsauftrag oder in der Pfändungsverfügung ist für die
 beizutreibenden Geldbeträge der Schuldgrund anzugeben.
 
 
 ##### § 261 Niederschlagung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035503123)
 
 Ansprüche aus dem Steuerschuldverhältnis dürfen niedergeschlagen
 werden, wenn zu erwarten ist, dass
@@ -13782,6 +14181,7 @@ werden, wenn zu erwarten ist, dass
 
 
 ##### § 262 Rechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035602123)
 
 (1) Behauptet ein Dritter, dass ihm am Gegenstand der Vollstreckung
 ein die Veräußerung hinderndes Recht zustehe oder werden Einwendungen
@@ -13804,6 +14204,7 @@ Vollstreckungsschuldner gerichtet, so sind sie Streitgenossen.
 
 
 ##### § 263 Vollstreckung gegen Ehegatten oder Lebenspartner
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035704123)
 
 Für die Vollstreckung gegen Ehegatten oder Lebenspartner sind die
 Vorschriften der §§ 739, 740, 741, 743, 744a und 745 der
@@ -13811,6 +14212,7 @@ Zivilprozessordnung entsprechend anzuwenden.
 
 
 ##### § 264 Vollstreckung gegen Nießbraucher
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035802123)
 
 Für die Vollstreckung in Gegenstände, die dem Nießbrauch an einem
 Vermögen unterliegen, ist die Vorschrift des § 737 der
@@ -13818,6 +14220,7 @@ Zivilprozessordnung entsprechend anzuwenden.
 
 
 ##### § 265 Vollstreckung gegen Erben
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE035902123)
 
 Für die Vollstreckung gegen Erben sind die Vorschriften der §§ 1958,
 1960 Absatz 3, § 1961 des Bürgerlichen Gesetzbuchs sowie der §§ 747,
@@ -13826,6 +14229,7 @@ anzuwenden.
 
 
 ##### § 266 Sonstige Fälle beschränkter Haftung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036003123)
 
 Die Vorschriften der §§ 781 bis 784 der Zivilprozessordnung sind auf
 die nach § 1489 des Bürgerlichen Gesetzbuchs eintretende beschränkte
@@ -13835,6 +14239,7 @@ eintretende beschränkte Haftung entsprechend anzuwenden.
 
 
 ##### § 267 Vollstreckungsverfahren gegen Personenvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036103123)
 
 (1) Bei nicht rechtsfähigen Personenvereinigungen, die als solche
 steuerpflichtig sind, genügt für die Vollstreckung in deren Vermögen
@@ -13848,10 +14253,12 @@ vollstreckt werden, der vor diesem Zeitpunkt wirksam geworden ist.
 
 
 #### 2. Unterabschnitt - Aufteilung einer Gesamtschuld
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006202123)
 
 
 
 ##### § 268 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036202123)
 
 Sind Personen Gesamtschuldner, weil sie zusammen zu einer Steuer vom
 Einkommen oder zur Vermögensteuer veranlagt worden sind, so kann jeder
@@ -13861,6 +14268,7 @@ jeweils auf den Betrag beschränkt wird, der sich nach Maßgabe der §§
 
 
 ##### § 269 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036303123)
 
 (1) Der Antrag ist bei dem im Zeitpunkt der Antragstellung für die
 Besteuerung nach dem Einkommen oder dem Vermögen zuständigen Finanzamt
@@ -13875,6 +14283,7 @@ sich diese Angaben nicht aus der Steuererklärung ergeben.
 
 
 ##### § 270 Allgemeiner Aufteilungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036403123)
 
 Die rückständige Steuer ist nach dem Verhältnis der Beträge
 aufzuteilen, die sich bei Einzelveranlagung nach Maßgabe des § 26a des
@@ -13886,6 +14295,7 @@ Einzelveranlagung zu Abweichungen führt.
 
 
 ##### § 271 Aufteilungsmaßstab für die Vermögensteuer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036503123)
 
 Die Vermögensteuer ist wie folgt aufzuteilen:
 
@@ -13915,6 +14325,7 @@ Die Vermögensteuer ist wie folgt aufzuteilen:
 
 
 ##### § 272 Aufteilungsmaßstab für Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036602123)
 
 (1) Die rückständigen Vorauszahlungen sind im Verhältnis der Beträge
 aufzuteilen, die sich bei einer getrennten Festsetzung der
@@ -13936,6 +14347,7 @@ angewendet.
 
 
 ##### § 273 Aufteilungsmaßstab für Steuernachforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036704123)
 
 (1) Führt die Änderung einer Steuerfestsetzung oder ihre Berichtigung
 nach § 129 zu einer Steuernachforderung, so ist die aus der
@@ -13948,6 +14360,7 @@ wenn die bisher festgesetzte Steuer noch nicht getilgt ist.
 
 
 ##### § 274 Besonderer Aufteilungsmaßstab
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036802123)
 
 Abweichend von den §§ 270 bis 273 kann die rückständige Steuer nach
 einem von den Gesamtschuldnern gemeinschaftlich vorgeschlagenen
@@ -13958,10 +14371,12 @@ unterschreiben.
 
 
 ##### § 275 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE036904123)
 
 
 
 ##### § 276 Rückständige Steuer, Einleitung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037002123)
 
 (1) Wird der Antrag vor Einleitung der Vollstreckung bei der
 Finanzbehörde gestellt, so ist die im Zeitpunkt des Eingangs des
@@ -13991,6 +14406,7 @@ der überzahlte Betrag zu erstatten.
 
 
 ##### § 277 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037102123)
 
 Solange nicht über den Antrag auf Beschränkung der Vollstreckung
 unanfechtbar entschieden ist, dürfen Vollstreckungsmaßnahmen nur
@@ -13999,6 +14415,7 @@ erforderlich ist.
 
 
 ##### § 278 Beschränkung der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037203123)
 
 (1) Nach der Aufteilung darf die Vollstreckung nur nach Maßgabe der
 auf die einzelnen Schuldner entfallenden Beträge durchgeführt werden.
@@ -14015,6 +14432,7 @@ Gelegenheitsgeschenke.
 
 
 ##### § 279 Form und Inhalt des Aufteilungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037304123)
 
 (1) Über den Antrag auf Beschränkung der Vollstreckung ist nach
 Einleitung der Vollstreckung durch schriftlich oder elektronisch zu
@@ -14051,6 +14469,7 @@ und bei welcher Behörde er einzulegen ist. Er soll ferner enthalten:
 
 
 ##### § 280 Änderung des Aufteilungsbescheids
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037403123)
 
 (1) Der Aufteilungsbescheid kann außer in den Fällen des § 129 nur
 geändert werden, wenn
@@ -14073,14 +14492,17 @@ zulässig.
 
 
 #### 3. Unterabschnitt - Vollstreckung in das bewegliche Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006302123)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006402123)
 
 
 
 ###### § 281 Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037502123)
 
 (1) Die Vollstreckung in das bewegliche Vermögen erfolgt durch
 Pfändung.
@@ -14095,6 +14517,7 @@ erwarten lässt.
 
 
 ###### § 282 Wirkung der Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037603123)
 
 (1) Durch die Pfändung erwirbt die Körperschaft, der die
 Vollstreckungsbehörde angehört, ein Pfandrecht an dem gepfändeten
@@ -14110,6 +14533,7 @@ demjenigen vor, das durch eine spätere Pfändung begründet wird.
 
 
 ###### § 283 Ausschluss von Gewährleistungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037702123)
 
 Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem
 Erwerber wegen eines Mangels im Recht oder wegen eines Mangels der
@@ -14117,6 +14541,7 @@ veräußerten Sache ein Anspruch auf Gewährleistung nicht zu.
 
 
 ###### § 284 Vermögensauskunft des Vollstreckungsschuldners
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037814123)
 
 (1) Der Vollstreckungsschuldner muss der Vollstreckungsbehörde auf
 deren Verlangen für die Vollstreckung einer Forderung Auskunft über
@@ -14283,10 +14708,12 @@ Absatz 3 der Zivilprozessordnung zu entsprechen.
 
 
 ##### II. - Vollstreckung in Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006502123)
 
 
 
 ###### § 285 Vollziehungsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE037903123)
 
 (1) Die Vollstreckungsbehörde führt die Vollstreckung in bewegliche
 Sachen durch Vollziehungsbeamte aus.
@@ -14298,6 +14725,7 @@ Auftrag ist auf Verlangen vorzuzeigen.
 
 
 ###### § 286 Vollstreckung in Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038002123)
 
 (1) Sachen, die im Gewahrsam des Vollstreckungsschuldners sind,
 pfändet der Vollziehungsbeamte dadurch, dass er sie in Besitz nimmt.
@@ -14317,6 +14745,7 @@ Gewahrsam eines Dritten, der zu ihrer Herausgabe bereit ist.
 
 
 ###### § 287 Befugnisse des Vollziehungsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038103123)
 
 (1) Der Vollziehungsbeamte ist befugt, die Wohn- und Geschäftsräume
 sowie die Behältnisse des Vollstreckungsschuldners zu durchsuchen,
@@ -14346,6 +14775,7 @@ Mitgewahrsaminhabern sind zu vermeiden.
 
 
 ###### § 288 Zuziehung von Zeugen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038203123)
 
 Wird bei einer Vollstreckungshandlung Widerstand geleistet oder ist
 bei einer Vollstreckungshandlung in den Wohn- oder Geschäftsräumen des
@@ -14357,6 +14787,7 @@ Gemeinde- oder Polizeibeamten als Zeugen zuzuziehen.
 
 
 ###### § 289 Zeit der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038305123)
 
 (1) Zur Nachtzeit (§ 758a Absatz 4 Satz 2 der Zivilprozessordnung)
 sowie an Sonntagen und staatlich anerkannten allgemeinen Feiertagen
@@ -14368,6 +14799,7 @@ vorzuzeigen.
 
 
 ###### § 290 Aufforderungen und Mitteilungen des Vollziehungsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038402123)
 
 Die Aufforderungen und die sonstigen Mitteilungen, die zu den
 Vollstreckungshandlungen gehören, sind vom Vollziehungsbeamten
@@ -14378,6 +14810,7 @@ Mitteilung zu richten ist, eine Abschrift der Niederschrift zu senden.
 
 
 ###### § 291 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038503123)
 
 (1) Der Vollziehungsbeamte hat über jede Vollstreckungshandlung eine
 Niederschrift aufzunehmen.
@@ -14411,6 +14844,7 @@ Nummer 4 und 5 sowie § 87a Absatz 4 Satz 2 gelten nicht.
 
 
 ###### § 292 Abwendung der Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038602123)
 
 (1) Der Vollstreckungsschuldner kann die Pfändung nur abwenden, wenn
 er den geschuldeten Betrag an den Vollziehungsbeamten zahlt oder
@@ -14425,6 +14859,7 @@ Betrag eingezahlt hat.
 
 
 ###### § 293 Pfand- und Vorzugsrechte Dritter
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038702123)
 
 (1) Der Pfändung einer Sache kann ein Dritter, der sich nicht im
 Besitz der Sache befindet, auf Grund eines Pfand- oder Vorzugsrechts
@@ -14440,6 +14875,7 @@ gerichtet, so sind sie Streitgenossen.
 
 
 ###### § 294 Ungetrennte Früchte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038802123)
 
 (1) Früchte, die vom Boden noch nicht getrennt sind, können gepfändet
 werden, solange sie nicht durch Vollstreckung in das unbewegliche
@@ -14453,6 +14889,7 @@ vorgeht.
 
 
 ###### § 295 Unpfändbarkeit von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE038904123)
 
 Die §§ 811 bis 811c, 813 Absatz 1 bis 3 und § 882a Absatz 4 der
 Zivilprozessordnung sowie die Beschränkungen und Verbote, die nach
@@ -14462,6 +14899,7 @@ Vollstreckungsgerichts tritt die Vollstreckungsbehörde.
 
 
 ###### § 296 Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039003123)
 
 (1) Die gepfändeten Sachen sind auf schriftliche Anordnung der
 Vollstreckungsbehörde öffentlich zu versteigern. Eine öffentliche
@@ -14483,6 +14921,7 @@ Vollstreckungsschuldners.
 
 
 ###### § 297 Aussetzung der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039102123)
 
 Die Vollstreckungsbehörde kann die Verwertung gepfändeter Sachen unter
 Anordnung von Zahlungsfristen zeitweilig aussetzen, wenn die
@@ -14490,6 +14929,7 @@ alsbaldige Verwertung unbillig wäre.
 
 
 ###### § 298 Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039203123)
 
 (1) Die gepfändeten Sachen dürfen nicht vor Ablauf einer Woche seit
 dem Tag der Pfändung versteigert werden, sofern sich nicht der
@@ -14512,6 +14952,7 @@ entsprechend anzuwenden.
 
 
 ###### § 299 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039304123)
 
 (1) Bei der Versteigerung vor Ort (§ 296 Absatz 1 Satz 2 Nummer 1)
 soll dem Zuschlag an den Meistbietenden ein dreimaliger Aufruf
@@ -14545,6 +14986,7 @@ gezahlt.
 
 
 ###### § 300 Mindestgebot
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039402123)
 
 (1) Der Zuschlag darf nur auf ein Gebot erteilt werden, das mindestens
 die Hälfte des gewöhnlichen Verkaufswerts der Sache erreicht
@@ -14567,6 +15009,7 @@ gewöhnlichen Verkaufswerts nicht unterschreiten.
 
 
 ###### § 301 Einstellung der Versteigerung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039503123)
 
 (1) Die Versteigerung wird eingestellt, sobald der Erlös zur Deckung
 der beizutreibenden Beträge einschließlich der Kosten der
@@ -14580,6 +15023,7 @@ dem Konto der Finanzbehörde.
 
 
 ###### § 302 Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039602123)
 
 Gepfändete Wertpapiere, die einen Börsen- oder Marktpreis haben, sind
 aus freier Hand zum Tageskurs zu verkaufen; andere Wertpapiere sind
@@ -14587,6 +15031,7 @@ nach den allgemeinen Vorschriften zu versteigern.
 
 
 ###### § 303 Namenspapiere
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039702123)
 
 Lautet ein gepfändetes Wertpapier auf einen Namen, so ist die
 Vollstreckungsbehörde berechtigt, die Umschreibung auf den Namen des
@@ -14597,6 +15042,7 @@ Vollstreckungsschuldners abzugeben.
 
 
 ###### § 304 Versteigerung ungetrennter Früchte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039802123)
 
 Gepfändete Früchte, die vom Boden noch nicht getrennt sind, dürfen
 erst nach der Reife versteigert werden. Der Vollziehungsbeamte hat sie
@@ -14604,6 +15050,7 @@ abernten zu lassen, wenn er sie nicht vor der Trennung versteigert.
 
 
 ###### § 305 Besondere Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE039902123)
 
 Auf Antrag des Vollstreckungsschuldners oder aus besonderen
 Zweckmäßigkeitsgründen kann die Vollstreckungsbehörde anordnen, dass
@@ -14613,6 +15060,7 @@ eine andere Person als den Vollziehungsbeamten zu versteigern sei.
 
 
 ###### § 306 Vollstreckung in Ersatzteile von Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040002123)
 
 (1) Für die Vollstreckung in Ersatzteile, auf die sich ein
 Registerpfandrecht an einem Luftfahrzeug nach § 71 des Gesetzes über
@@ -14627,6 +15075,7 @@ Maßgabe, dass die Vorschriften des § 106 Absatz 1 Nummer 2 und Absatz
 
 
 ###### § 307 Anschlusspfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040102123)
 
 (1) Zur Pfändung bereits gepfändeter Sachen genügt die in die
 Niederschrift aufzunehmende Erklärung des Vollziehungsbeamten, dass er
@@ -14642,6 +15091,7 @@ einer Vollstreckungsbehörde gepfändet ist.
 
 
 ###### § 308 Verwertung bei mehrfacher Pfändung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040202123)
 
 (1) Wird dieselbe Sache mehrfach durch Vollziehungsbeamte oder durch
 Vollziehungsbeamte und Gerichtsvollzieher gepfändet, so begründet
@@ -14669,10 +15119,12 @@ der Erlös nach dem Verhältnis der Forderungen verteilt wird.
 
 
 ##### III. - Vollstreckung in Forderungen und andere Vermögensrechte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006602123)
 
 
 
 ###### § 309 Pfändung einer Geldforderung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040307123)
 
 (1) Soll eine Geldforderung gepfändet werden, so hat die
 Vollstreckungsbehörde dem Drittschuldner schriftlich zu verbieten, an
@@ -14694,6 +15146,7 @@ und 907 der Zivilprozessordnung entsprechend.
 
 
 ###### § 310 Pfändung einer durch Hypothek gesicherten Forderung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040402123)
 
 (1) Zur Pfändung einer Forderung, für die eine Hypothek besteht, ist
 außer der Pfändungsverfügung die Aushändigung des Hypothekenbriefs an
@@ -14715,6 +15168,7 @@ Hauptforderung.
 
 
 ###### § 311 Pfändung einer durch Schiffshypothek oder Registerpfandrecht an einem Luftfahrzeug gesicherten Forderung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040502123)
 
 (1) Die Pfändung einer Forderung, für die eine Schiffshypothek
 besteht, bedarf der Eintragung in das Schiffsregister oder das
@@ -14743,6 +15197,7 @@ Absatz 5 des Gesetzes über Rechte an Luftfahrzeugen.
 
 
 ###### § 312 Pfändung einer Forderung aus indossablen Papieren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040603123)
 
 Forderungen aus Wechseln und anderen Papieren, die durch Indossament
 übertragen werden können, werden dadurch gepfändet, dass der
@@ -14750,6 +15205,7 @@ Vollziehungsbeamte die Papiere in Besitz nimmt.
 
 
 ###### § 313 Pfändung fortlaufender Bezüge
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040703123)
 
 (1) Das Pfandrecht, das durch die Pfändung einer Gehaltsforderung oder
 einer ähnlichen in fortlaufenden Bezügen bestehenden Forderung
@@ -14768,6 +15224,7 @@ dem neuen Arbeits- oder Dienstverhältnis.
 
 
 ###### § 314 Einziehungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040805123)
 
 (1) Die Vollstreckungsbehörde ordnet die Einziehung der gepfändeten
 Forderung an. § 309 Absatz 2 gilt entsprechend.
@@ -14788,6 +15245,7 @@ gilt § 835 Absatz 4 der Zivilprozessordnung entsprechend.
 
 
 ###### § 315 Wirkung der Einziehungsverfügung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE040904123)
 
 (1) Die Einziehungsverfügung ersetzt die förmlichen Erklärungen des
 Vollstreckungsschuldners, von denen nach bürgerlichem Recht die
@@ -14822,6 +15280,7 @@ machen.
 
 
 ###### § 316 Erklärungspflicht des Drittschuldners
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041005123)
 
 (1) Auf Verlangen der Vollstreckungsbehörde hat ihr der Drittschuldner
 binnen zwei Wochen, von der Zustellung der Pfändungsverfügung an
@@ -14866,6 +15325,7 @@ ein Zwangsgeld angehalten werden; § 334 ist nicht anzuwenden.
 
 
 ###### § 317 Andere Art der Verwertung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041102123)
 
 Ist die gepfändete Forderung bedingt oder betagt oder ihre Einziehung
 schwierig, so kann die Vollstreckungsbehörde anordnen, dass sie in
@@ -14876,6 +15336,7 @@ Bekanntgabe außerhalb des Geltungsbereichs des Gesetzes oder eine
 
 
 ###### § 318 Ansprüche auf Herausgabe oder Leistung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041204123)
 
 (1) Für die Vollstreckung in Ansprüche auf Herausgabe oder Leistung
 von Sachen gelten außer den §§ 309 bis 317 die nachstehenden
@@ -14913,6 +15374,7 @@ festzusetzende Vergütung nicht übersteigen.
 
 
 ###### § 319 Unpfändbarkeit von Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041303123)
 
 Beschränkungen und Verbote, die nach den §§ 850 bis 852 und 899 bis
 907 der Zivilprozessordnung und anderen gesetzlichen Bestimmungen für
@@ -14921,6 +15383,7 @@ sinngemäß.
 
 
 ###### § 320 Mehrfache Pfändung einer Forderung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041402123)
 
 (1) Ist eine Forderung durch mehrere Vollstreckungsbehörden oder durch
 eine Vollstreckungsbehörde und ein Gericht gepfändet, so sind die §§
@@ -14935,6 +15398,7 @@ worden ist.
 
 
 ###### § 321 Vollstreckung in andere Vermögensrechte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041502123)
 
 (1) Für die Vollstreckung in andere Vermögensrechte, die nicht
 Gegenstand der Vollstreckung in das unbewegliche Vermögen sind, gelten
@@ -14967,10 +15431,12 @@ Forderung, für die eine Hypothek besteht.
 
 
 #### 4. Unterabschnitt - Vollstreckung in das unbewegliche Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006702123)
 
 
 
 ##### § 322 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041602123)
 
 (1) Der Vollstreckung in das unbewegliche Vermögen unterliegen außer
 den Grundstücken die Berechtigungen, für welche die sich auf
@@ -15021,6 +15487,7 @@ werden, dass das Vorrecht wegfällt.
 
 
 ##### § 323 Vollstreckung gegen den Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041702123)
 
 Ist nach § 322 eine Sicherungshypothek, eine Schiffshypothek oder ein
 Registerpfandrecht an einem Luftfahrzeug eingetragen worden, so bedarf
@@ -15032,10 +15499,12 @@ Sicherungshypothek.
 
 
 #### 5. Unterabschnitt - Arrest
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006802123)
 
 
 
 ##### § 324 Dinglicher Arrest
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041803123)
 
 (1) Zur Sicherung der Vollstreckung von Geldforderungen nach den §§
 249 bis 323 kann die für die Steuerfestsetzung zuständige
@@ -15069,6 +15538,7 @@ Vorschriften dieses Gesetzes anzuwenden.
 
 
 ##### § 325 Aufhebung des dinglichen Arrestes
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE041902123)
 
 Die Arrestanordnung ist aufzuheben, wenn nach ihrem Erlass Umstände
 bekannt werden, die die Arrestanordnung nicht mehr gerechtfertigt
@@ -15076,6 +15546,7 @@ erscheinen lassen.
 
 
 ##### § 326 Persönlicher Sicherheitsarrest
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042004123)
 
 (1) Auf Antrag der für die Steuerfestsetzung zuständigen Finanzbehörde
 kann das Amtsgericht einen persönlichen Sicherheitsarrest anordnen,
@@ -15097,10 +15568,12 @@ Sicherheitsarrestes gelten § 128 Absatz 4 und die §§ 922 bis 925, 927,
 
 
 #### 6. Unterabschnitt - Verwertung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG006902123)
 
 
 
 ##### § 327 Verwertung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042102123)
 
 Werden Geldforderungen, die im Verwaltungsverfahren vollstreckbar sind
 (§ 251), bei Fälligkeit nicht erfüllt, kann sich die
@@ -15113,14 +15586,17 @@ verstrichen ist.
 
 
 ### Dritter Abschnitt - Vollstreckung wegen anderer Leistungen als Geldforderungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007002123)
 
 
 
 #### 1. Unterabschnitt - Vollstreckung wegen Handlungen, Duldungen oder Unterlassungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007102123)
 
 
 
 ##### § 328 Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042202123)
 
 (1) Ein Verwaltungsakt, der auf Vornahme einer Handlung oder auf
 Duldung oder Unterlassung gerichtet ist, kann mit Zwangsmitteln
@@ -15135,11 +15611,13 @@ stehen.
 
 
 ##### § 329 Zwangsgeld
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042304123)
 
 Das einzelne Zwangsgeld darf 25.000 Euro nicht übersteigen.
 
 
 ##### § 330 Ersatzvornahme
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042402123)
 
 Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme
 durch einen anderen möglich ist (vertretbare Handlung), nicht erfüllt,
@@ -15148,6 +15626,7 @@ Handlung auf Kosten des Pflichtigen beauftragen.
 
 
 ##### § 331 Unmittelbarer Zwang
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042502123)
 
 Führen das Zwangsgeld oder die Ersatzvornahme nicht zum Ziel oder sind
 sie untunlich, so kann die Finanzbehörde den Pflichtigen zur Handlung,
@@ -15155,6 +15634,7 @@ Duldung oder Unterlassung zwingen oder die Handlung selbst vornehmen.
 
 
 ##### § 332 Androhung der Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042603123)
 
 (1) Die Zwangsmittel müssen schriftlich angedroht werden. Wenn zu
 besorgen ist, dass dadurch der Vollzug des durchzusetzenden
@@ -15178,6 +15658,7 @@ in der Androhung der Kostenbetrag vorläufig zu veranschlagen.
 
 
 ##### § 333 Festsetzung der Zwangsmittel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042702123)
 
 Wird die Verpflichtung innerhalb der Frist, die in der Androhung
 bestimmt ist, nicht erfüllt oder handelt der Pflichtige der
@@ -15186,6 +15667,7 @@ fest.
 
 
 ##### § 334 Ersatzzwangshaft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042807123)
 
 (1) Ist ein gegen eine natürliche Person festgesetztes Zwangsgeld
 uneinbringlich, so kann das Amtsgericht auf Antrag der Finanzbehörde
@@ -15211,16 +15693,19 @@ nicht mehr vollstreckt werden.
 
 
 ##### § 335 Beendigung des Zwangsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE042902123)
 
 Wird die Verpflichtung nach Festsetzung des Zwangsmittels erfüllt, so
 ist der Vollzug einzustellen.
 
 
 #### 2. Unterabschnitt - Erzwingung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007202123)
 
 
 
 ##### § 336 Erzwingung von Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043002123)
 
 (1) Wird die Verpflichtung zur Leistung von Sicherheiten nicht
 erfüllt, so kann die Finanzbehörde geeignete Sicherheiten pfänden.
@@ -15230,10 +15715,12 @@ vorausgehen. Die §§ 262 bis 323 sind entsprechend anzuwenden.
 
 
 ### Vierter Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007302123)
 
 
 
 #### § 337 Kosten der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043104123)
 
 (1) Im Vollstreckungsverfahren werden Kosten (Gebühren und Auslagen)
 erhoben. Schuldner dieser Kosten ist der Vollstreckungsschuldner.
@@ -15242,12 +15729,14 @@ erhoben. Schuldner dieser Kosten ist der Vollstreckungsschuldner.
 
 
 #### § 338 Gebührenarten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043202123)
 
 Im Vollstreckungsverfahren werden Pfändungsgebühren (§ 339),
 Wegnahmegebühren (§ 340) und Verwertungsgebühren (§ 341) erhoben.
 
 
 #### § 339 Pfändungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE059601123)
 
 (1) Die Pfändungsgebühr wird erhoben für die Pfändung von beweglichen
 Sachen, von Tieren, von Früchten, die vom Boden noch nicht getrennt
@@ -15291,6 +15780,7 @@ erhoben.
 
 
 #### § 340 Wegnahmegebühr
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043408123)
 
 (1) Die Wegnahmegebühr wird für die Wegnahme beweglicher Sachen
 einschließlich Urkunden in den Fällen der §§ 310, 315 Absatz 2 Satz 5,
@@ -15306,6 +15796,7 @@ aufzufinden sind.
 
 
 #### § 341 Verwertungsgebühr
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043507123)
 
 (1) Die Verwertungsgebühr wird für die Versteigerung und andere
 Verwertung von Gegenständen erhoben.
@@ -15321,6 +15812,7 @@ Gebühr von 28,60 Euro zu erheben.
 
 
 #### § 342 Mehrheit von Schuldnern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043603123)
 
 (1) Wird gegen mehrere Schuldner vollstreckt, so sind die Gebühren,
 auch wenn der Vollziehungsbeamte bei derselben Gelegenheit mehrere
@@ -15334,9 +15826,11 @@ Personen schulden die Gebühren als Gesamtschuldner.
 
 
 #### § 343 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043705123)
 
 
 #### § 344 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043806123)
 
 (1) Als Auslagen werden erhoben:
 
@@ -15425,6 +15919,7 @@ Gegenstände, zu berücksichtigen.
 
 
 #### § 345 Reisekosten und Aufwandsentschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE043902123)
 
 Im Vollstreckungsverfahren sind die Reisekosten des
 Vollziehungsbeamten und Auslagen, die durch Aufwandsentschädigungen
@@ -15432,6 +15927,7 @@ abgegolten werden, von dem Vollstreckungsschuldner nicht zu erstatten.
 
 
 #### § 346 Unrichtige Sachbehandlung, Festsetzungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044002123)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, sind nicht zu erheben.
@@ -15444,14 +15940,17 @@ Ablauf der Frist entsprochen werden.
 
 
 ## Siebenter Teil - Außergerichtliches Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007402123)
 
 
 
 ### Erster Abschnitt - Zulässigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007503123)
 
 
 
 #### § 347 Statthaftigkeit des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044104123)
 
 (1) Gegen Verwaltungsakte
 
@@ -15495,6 +15994,7 @@ Bußgeldverfahren keine Anwendung.
 
 
 #### § 348 Ausschluss des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044206123)
 
 Der Einspruch ist nicht statthaft
 
@@ -15522,16 +16022,19 @@ Der Einspruch ist nicht statthaft
 
 
 #### § 349 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044305123)
 
 
 
 #### § 350 Beschwer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044403123)
 
 Befugt, Einspruch einzulegen, ist nur, wer geltend macht, durch einen
 Verwaltungsakt oder dessen Unterlassung beschwert zu sein.
 
 
 #### § 351 Bindungswirkung anderer Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044502123)
 
 (1) Verwaltungsakte, die unanfechtbare Verwaltungsakte ändern, können
 nur insoweit angegriffen werden, als die Änderung reicht, es sei denn,
@@ -15544,6 +16047,7 @@ Anfechtung des Folgebescheids, angegriffen werden.
 
 
 #### § 352 Einspruchsbefugnis bei der gesonderten und einheitlichen Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044604123)
 
 (1) Gegen Bescheide über die gesonderte und einheitliche Feststellung
 von Besteuerungsgrundlagen können Einspruch einlegen:
@@ -15610,6 +16114,7 @@ Empfangsbevollmächtigten belehrt worden sind.
 
 
 #### § 353 Einspruchsbefugnis des Rechtsnachfolgers
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044704123)
 
 Wirkt ein Feststellungsbescheid, ein Grundsteuermessbescheid oder ein
 Zerlegungs- oder Zuteilungsbescheid über einen Grundsteuermessbetrag
@@ -15620,6 +16125,7 @@ maßgebenden Einspruchsfrist Einspruch einlegen.
 
 
 #### § 354 Einspruchsverzicht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044805123)
 
 (1) Auf Einlegung eines Einspruchs kann nach Erlass des
 Verwaltungsakts verzichtet werden. Der Verzicht kann auch bei Abgabe
@@ -15646,10 +16152,12 @@ Verzichts geltend gemacht, so gilt § 110 Absatz 3 sinngemäß.
 
 
 ### Zweiter Abschnitt - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007603123)
 
 
 
 #### § 355 Einspruchsfrist
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE044903123)
 
 (1) Der Einspruch nach § 347 Absatz 1 Satz 1 ist innerhalb eines
 Monats nach Bekanntgabe des Verwaltungsakts einzulegen. Ein Einspruch
@@ -15661,6 +16169,7 @@ innerhalb eines Monats nach Bekanntwerden der Zustimmung, einzulegen.
 
 
 #### § 356 Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045004123)
 
 (1) Ergeht ein Verwaltungsakt schriftlich oder elektronisch, so
 beginnt die Frist für die Einlegung des Einspruchs nur, wenn der
@@ -15678,6 +16187,7 @@ sinngemäß.
 
 
 #### § 357 Einlegung des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045105123)
 
 (1) Der Einspruch ist schriftlich oder elektronisch einzureichen oder
 zur Niederschrift zu erklären. Es genügt, wenn aus dem Einspruch
@@ -15707,6 +16217,7 @@ Beweismittel angeführt werden.
 
 
 #### § 358 Prüfung der Zulässigkeitsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045203123)
 
 Die zur Entscheidung über den Einspruch berufene Finanzbehörde hat zu
 prüfen, ob der Einspruch zulässig, insbesondere in der
@@ -15716,6 +16227,7 @@ verwerfen.
 
 
 #### § 359 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045303123)
 
 Beteiligte am Verfahren sind:
 
@@ -15729,6 +16241,7 @@ Beteiligte am Verfahren sind:
 
 
 #### § 360 Hinzuziehung zum Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045405123)
 
 (1) Die zur Entscheidung über den Einspruch berufene Finanzbehörde
 kann von Amts wegen oder auf Antrag andere hinzuziehen, deren
@@ -15767,6 +16280,7 @@ auch ohne Antrag hinzuziehen.
 
 
 #### § 361 Aussetzung der Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045507123)
 
 (1) Durch Einlegung des Einspruchs wird die Vollziehung des
 angefochtenen Verwaltungsakts vorbehaltlich des Absatzes 4 nicht
@@ -15812,6 +16326,7 @@ angerufen werden.
 
 
 #### § 362 Rücknahme des Einspruchs
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045604123)
 
 (1) Der Einspruch kann bis zur Bekanntgabe der Entscheidung über den
 Einspruch zurückgenommen werden. § 357 Absatz 1 und 2 gilt sinngemäß.
@@ -15827,6 +16342,7 @@ gemacht, so gilt § 110 Absatz 3 sinngemäß.
 
 
 #### § 363 Aussetzung und Ruhen des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045705123)
 
 (1) Hängt die Entscheidung ganz oder zum Teil von dem Bestehen oder
 Nichtbestehen eines Rechtsverhältnisses ab, das den Gegenstand eines
@@ -15858,6 +16374,7 @@ gegen die Einspruchsentscheidung geltend gemacht werden.
 
 
 #### § 364 Offenlegung der Besteuerungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045804123)
 
 Den Beteiligten sind, soweit es noch nicht geschehen ist, die
 Unterlagen der Besteuerung auf Antrag oder, wenn die Begründung des
@@ -15865,6 +16382,7 @@ Einspruchs dazu Anlass gibt, von Amts wegen offenzulegen.
 
 
 #### § 364a Erörterung des Sach- und Rechtsstands
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051902123)
 
 (1) Auf Antrag eines Einspruchsführers soll die Finanzbehörde vor
 Erlass einer Einspruchsentscheidung den Sach- und Rechtsstand
@@ -15886,6 +16404,7 @@ die Finanzbehörde dies für sachdienlich hält.
 
 
 #### § 364b Fristsetzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE052002123)
 
 (1) Die Finanzbehörde kann dem Einspruchsführer eine Frist setzen
 
@@ -15912,6 +16431,7 @@ Rechtsfolgen nach Absatz 2 zu belehren.
 
 
 #### § 365 Anwendung von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE045904123)
 
 (1) Für das Verfahren über den Einspruch gelten im Übrigen die
 Vorschriften sinngemäß, die für den Erlass des angefochtenen oder des
@@ -15937,6 +16457,7 @@ wird der neue Verwaltungsakt Gegenstand des Einspruchsverfahrens. Satz
 
 
 #### § 366 Form, Inhalt und Erteilung der Einspruchsentscheidung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046007123)
 
 Die Einspruchsentscheidung ist zu begründen, mit einer
 Rechtsbehelfsbelehrung zu versehen und den Beteiligten schriftlich
@@ -15952,6 +16473,7 @@ wird.
 
 
 #### § 367 Entscheidung über den Einspruch
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046105123)
 
 (1) Über den Einspruch entscheidet die Finanzbehörde, die den
 Verwaltungsakt erlassen hat, durch Einspruchsentscheidung. Ist für den
@@ -15996,18 +16518,22 @@ abzuhelfen.
 
 
 #### § 368 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046203123)
 
 
 
 ## Achter Teil - Straf- und Bußgeldvorschriften, Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007802123)
 
 
 
 ### Erster Abschnitt - Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG007902123)
 
 
 
 #### § 369 Steuerstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046302123)
 
 (1) Steuerstraftaten (Zollstraftaten) sind:
 
@@ -16033,6 +16559,7 @@ anderes bestimmen.
 
 
 #### § 370 Steuerhinterziehung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046412123)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -16126,6 +16653,7 @@ begangen werden.
 
 
 #### § 371 Selbstanzeige bei Steuerhinterziehung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046506123)
 
 (1) Wer gegenüber der Finanzbehörde zu allen Steuerstraftaten einer
 Steuerart in vollem Umfang die unrichtigen Angaben berichtigt, die
@@ -16228,6 +16756,7 @@ entsprechend.
 
 
 #### § 372 Bannbruch
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046603123)
 
 (1) Bannbruch begeht, wer Gegenstände entgegen einem Verbot einführt,
 ausführt oder durchführt.
@@ -16239,6 +16768,7 @@ ist.
 
 
 #### § 373 Gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046704123)
 
 (1) Wer gewerbsmäßig Einfuhr- oder Ausfuhrabgaben hinterzieht oder
 gewerbsmäßig durch Zuwiderhandlungen gegen Monopolvorschriften
@@ -16273,6 +16803,7 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 #### § 374 Steuerhehlerei
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046807123)
 
 (1) Wer Erzeugnisse oder Waren, hinsichtlich deren Verbrauchsteuern
 oder Einfuhr- und Ausfuhrabgaben nach Artikel 5 Nummer 20 und 21 des
@@ -16294,6 +16825,7 @@ zu fünf Jahren oder Geldstrafe.
 
 
 #### § 375 Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE046904123)
 
 (1) Neben einer Freiheitsstrafe von mindestens einem Jahr wegen
 
@@ -16332,6 +16864,7 @@ eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 
 
 #### § 376 Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047006123)
 
 (1) In den in § 370 Absatz 3 Satz 2 Nummer 1 bis 6 genannten Fällen
 besonders schwerer Steuerhinterziehung beträgt die Verjährungsfrist 15
@@ -16351,10 +16884,12 @@ verstrichen ist.
 
 
 ### Zweiter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008002123)
 
 
 
 #### § 377 Steuerordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047103123)
 
 (1) Steuerordnungswidrigkeiten (Zollordnungswidrigkeiten) sind
 Zuwiderhandlungen, die nach diesem Gesetz oder den Steuergesetzen mit
@@ -16367,6 +16902,7 @@ anderes bestimmen.
 
 
 #### § 378 Leichtfertige Steuerverkürzung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047206123)
 
 (1) Ordnungswidrig handelt, wer als Steuerpflichtiger oder bei
 Wahrnehmung der Angelegenheiten eines Steuerpflichtigen eine der in §
@@ -16388,6 +16924,7 @@ angemessenen Frist entrichtet. § 371 Absatz 4 gilt entsprechend.
 
 
 #### § 379 Steuergefährdung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047320123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -16537,6 +17074,7 @@ nach § 378 geahndet werden kann.
 [^F832391_7_BJNR006130976BJNE047320123]: 
 
 #### § 380 Gefährdung der Abzugsteuern
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047405123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig seiner
 Verpflichtung, Steuerabzugsbeträge einzubehalten und abzuführen,
@@ -16548,6 +17086,7 @@ nach § 378 geahndet werden kann.
 
 
 #### § 381 Verbrauchsteuergefährdung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047503123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 Vorschriften der Verbrauchsteuergesetze oder der dazu erlassenen
@@ -16577,6 +17116,7 @@ werden kann.
 
 
 #### § 382 Gefährdung der Einfuhr- und Ausfuhrabgaben
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047610123)
 
 (1) Ordnungswidrig handelt, wer als Pflichtiger oder bei der
 Wahrnehmung der Angelegenheiten eines Pflichtigen vorsätzlich oder
@@ -16623,6 +17163,7 @@ betreffen.
 
 
 #### § 383 Unzulässiger Erwerb von Steuererstattungs- und Vergütungsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047703123)
 
 (1) Ordnungswidrig handelt, wer entgegen § 46 Absatz 4 Satz 1
 Erstattungs- oder Vergütungsansprüche erwirbt.
@@ -16632,10 +17173,12 @@ fünfzigtausend Euro geahndet werden.
 
 
 #### § 383a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053102123)
 
 
 
 #### § 383b Pflichtverletzung bei Übermittlung von Vollmachtsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE055401123)
 
 (1) Ordnungswidrig handelt, wer den Finanzbehörden vorsätzlich oder
 leichtfertig
@@ -16656,12 +17199,14 @@ Euro geahndet werden.
 
 
 #### § 384 Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047802123)
 
 Die Verfolgung von Steuerordnungswidrigkeiten nach den §§ 378 bis 380
 verjährt in fünf Jahren.
 
 
 #### § 384a Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE057501123)
 
 (1) Vorschriften dieses Gesetzes und der Steuergesetze über
 Steuerordnungswidrigkeiten finden keine Anwendung, soweit für eine
@@ -16685,14 +17230,17 @@ Absatz 4 bis 6 der Verordnung (EU) 2016/679 verhängt.
 
 
 ### Dritter Abschnitt - Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008102123)
 
 
 
 #### 1. Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008202123)
 
 
 
 ##### § 385 Geltung von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE047902123)
 
 (1) Für das Strafverfahren wegen Steuerstraftaten gelten, soweit die
 folgenden Vorschriften nichts anderes bestimmen, die allgemeinen
@@ -16708,6 +17256,7 @@ und kein Steuerstrafgesetz verletzt, entsprechend anzuwenden.
 
 
 ##### § 386 Zuständigkeit der Finanzbehörde bei Steuerstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048004123)
 
 (1) Bei dem Verdacht einer Steuerstraftat ermittelt die Finanzbehörde
 den Sachverhalt. Finanzbehörde im Sinne dieses Abschnitts sind das
@@ -16739,6 +17288,7 @@ Finanzbehörde abgeben.
 
 
 ##### § 387 Sachlich zuständige Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048104123)
 
 (1) Sachlich zuständig ist die Finanzbehörde, welche die betroffene
 Steuer verwaltet.
@@ -16759,6 +17309,7 @@ Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 
 
 ##### § 388 Örtlich zuständige Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048202123)
 
 (1) Örtlich zuständig ist die Finanzbehörde,
 
@@ -16787,6 +17338,7 @@ Aufenthaltsort bestimmt.
 
 
 ##### § 389 Zusammenhängende Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048302123)
 
 Für zusammenhängende Strafsachen, die einzeln nach § 388 zur
 Zuständigkeit verschiedener Finanzbehörden gehören würden, ist jede
@@ -16795,6 +17347,7 @@ entsprechend.
 
 
 ##### § 390 Mehrfache Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048402123)
 
 (1) Sind nach den §§ 387 bis 389 mehrere Finanzbehörden zuständig, so
 gebührt der Vorzug der Finanzbehörde, die wegen der Tat zuerst ein
@@ -16807,6 +17360,7 @@ Behörde, der die ersuchte Finanzbehörde untersteht.
 
 
 ##### § 391 Zuständiges Gericht
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048503123)
 
 (1) Ist das Amtsgericht sachlich zuständig, so ist örtlich zuständig
 das Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Im
@@ -16833,6 +17387,7 @@ Kraftfahrzeugsteuer betreffen.
 
 
 ##### § 392 Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048603123)
 
 (1) Abweichend von § 138 Absatz 1 der Strafprozessordnung können auch
 Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte
@@ -16846,6 +17401,7 @@ Hochschulrahmengesetzes mit Befähigung zum Richteramt führen.
 
 
 ##### § 393 Verhältnis des Strafverfahrens zum Besteuerungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048703123)
 
 (1) Die Rechte und Pflichten der Steuerpflichtigen und der
 Finanzbehörde im Besteuerungsverfahren und im Strafverfahren richten
@@ -16879,6 +17435,7 @@ Finanzbehörden erteilt werden darf.
 
 
 ##### § 394 Übergang des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048803123)
 
 Hat ein Unbekannter, der bei einer Steuerstraftat auf frischer Tat
 betroffen wurde, aber entkommen ist, Sachen zurückgelassen und sind
@@ -16894,6 +17451,7 @@ Aushang der Bekanntmachung.
 
 
 ##### § 395 Akteneinsicht der Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE048902123)
 
 Die Finanzbehörde ist befugt, die Akten, die dem Gericht vorliegen
 oder im Fall der Erhebung der Anklage vorzulegen wären, einzusehen
@@ -16903,6 +17461,7 @@ Einsichtnahme übersandt.
 
 
 ##### § 396 Aussetzung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049002123)
 
 (1) Hängt die Beurteilung der Tat als Steuerhinterziehung davon ab, ob
 ein Steueranspruch besteht, ob Steuern verkürzt oder ob nicht
@@ -16918,14 +17477,17 @@ das Gericht, das mit der Sache befasst ist.
 
 
 #### 2. Unterabschnitt - Ermittlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008302123)
 
 
 
 ##### I. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008402123)
 
 
 
 ###### § 397 Einleitung des Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049103123)
 
 (1) Das Strafverfahren ist eingeleitet, sobald die Finanzbehörde, die
 Polizei, die Staatsanwaltschaft, eine ihrer Ermittlungspersonen oder
@@ -16942,6 +17504,7 @@ Straftat stehen, derer er verdächtig ist.
 
 
 ###### § 398 Einstellung wegen Geringfügigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049202123)
 
 Die Staatsanwaltschaft kann von der Verfolgung einer
 Steuerhinterziehung, bei der nur eine geringwertige Steuerverkürzung
@@ -16955,6 +17518,7 @@ besteht. Dies gilt für das Verfahren wegen einer Steuerhehlerei nach §
 
 
 ###### § 398a Absehen von Verfolgung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE053403123)
 
 (1) In Fällen, in denen Straffreiheit nur wegen § 371 Absatz 2 Satz 1
 Nummer 3 oder 4 nicht eintritt, wird von der Verfolgung einer
@@ -17001,10 +17565,12 @@ verhängte Geldstrafe anrechnen.
 
 
 ##### II. - Verfahren der Finanzbehörde bei Steuerstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008502123)
 
 
 
 ###### § 399 Rechte und Pflichten der Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049303123)
 
 (1) Führt die Finanzbehörde das Ermittlungsverfahren auf Grund des §
 386 Absatz 2 selbständig durch, so nimmt sie die Rechte und Pflichten
@@ -17022,6 +17588,7 @@ Strafprozessordnung anordnen.
 
 
 ###### § 400 Antrag auf Erlass eines Strafbefehls
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049402123)
 
 Bieten die Ermittlungen genügenden Anlass zur Erhebung der
 öffentlichen Klage, so beantragt die Finanzbehörde beim Richter den
@@ -17031,6 +17598,7 @@ legt die Finanzbehörde die Akten der Staatsanwaltschaft vor.
 
 
 ###### § 401 Antrag auf Anordnung von Nebenfolgen im selbständigen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049503123)
 
 Die Finanzbehörde kann den Antrag stellen, die Einziehung selbständig
 anzuordnen oder eine Geldbuße gegen eine juristische Person oder eine
@@ -17039,10 +17607,12 @@ Strafprozessordnung).
 
 
 ##### III. - Stellung der Finanzbehörde im Verfahren der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008602123)
 
 
 
 ###### § 402 Allgemeine Rechte und Pflichten der Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049602123)
 
 (1) Führt die Staatsanwaltschaft das Ermittlungsverfahren durch, so
 hat die sonst zuständige Finanzbehörde dieselben Rechte und Pflichten
@@ -17055,6 +17625,7 @@ jede dieser Finanzbehörden.
 
 
 ###### § 403 Beteiligung der Finanzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049702123)
 
 (1) Führt die Staatsanwaltschaft oder die Polizei Ermittlungen durch,
 die Steuerstraftaten betreffen, so ist die sonst zuständige
@@ -17074,10 +17645,12 @@ sie die sonst zuständige Finanzbehörde zu hören.
 
 
 ##### IV. - Steuer- und Zollfahndung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008702123)
 
 
 
 ###### § 404 Steuer- und Zollfahndung
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049805123)
 
 (1) Die Behörden des Zollfahndungsdienstes und die mit der
 Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden sowie
@@ -17094,10 +17667,12 @@ Strafprozessordnung gilt entsprechend.
 
 
 ##### V. - Entschädigung der Zeugen und der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008802123)
 
 
 
 ###### § 405 Entschädigung der Zeugen und der Sachverständigen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE049903123)
 
 Werden Zeugen und Sachverständige von der Finanzbehörde zu
 Beweiszwecken herangezogen, so erhalten sie eine Entschädigung oder
@@ -17106,10 +17681,12 @@ gilt auch in den Fällen des § 404.
 
 
 #### 3. Unterabschnitt - Gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG008902123)
 
 
 
 ##### § 406 Mitwirkung der Finanzbehörde im Strafbefehlsverfahren und im selbständigen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050004123)
 
 (1) Hat die Finanzbehörde den Erlass eines Strafbefehls beantragt, so
 nimmt sie die Rechte und Pflichten der Staatsanwaltschaft wahr,
@@ -17126,6 +17703,7 @@ angeordnet wird.
 
 
 ##### § 407 Beteiligung der Finanzbehörde in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050102123)
 
 (1) Das Gericht gibt der Finanzbehörde Gelegenheit, die Gesichtspunkte
 vorzubringen, die von ihrem Standpunkt für die Entscheidung von
@@ -17142,10 +17720,12 @@ sind der Finanzbehörde mitzuteilen.
 
 
 #### 4. Unterabschnitt - Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009002123)
 
 
 
 ##### § 408 Kosten des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050202123)
 
 Notwendige Auslagen eines Beteiligten im Sinne des § 464a Absatz 2
 Nummer 2 der Strafprozessordnung sind im Strafverfahren wegen einer
@@ -17157,10 +17737,12 @@ Auslagen eines Rechtsanwalts erstattet werden.
 
 
 ### Vierter Abschnitt - Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009102123)
 
 
 
 #### § 409 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050302123)
 
 Bei Steuerordnungswidrigkeiten ist zuständige Verwaltungsbehörde im
 Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über
@@ -17169,6 +17751,7 @@ Finanzbehörde. § 387 Absatz 2 gilt entsprechend.
 
 
 #### § 410 Ergänzende Vorschriften für das Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050403123)
 
 (1) Für das Bußgeldverfahren gelten außer den verfahrensrechtlichen
 Vorschriften des Gesetzes über Ordnungswidrigkeiten entsprechend:
@@ -17221,6 +17804,7 @@ erstrecken.
 
 
 #### § 411 Bußgeldverfahren gegen Rechtsanwälte, Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer oder vereidigte Buchprüfer
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050502123)
 
 Bevor gegen einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten,
 Wirtschaftsprüfer oder vereidigten Buchprüfer wegen einer
@@ -17232,6 +17816,7 @@ Entscheidung von Bedeutung sind.
 
 
 #### § 412 Zustellung, Vollstreckung, Kosten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050603123)
 
 (1) Für das Zustellungsverfahren gelten abweichend von § 51 Absatz 1
 Satz 1 des Gesetzes über Ordnungswidrigkeiten die Vorschriften des
@@ -17255,10 +17840,12 @@ geltenden Fassung gelten § 227 und § 261 dieses Gesetzes.
 
 
 ## Neunter Teil - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNG009202123)
 
 
 
 ### § 413 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050702123)
 
 Die Grundrechte auf körperliche Unversehrtheit und Freiheit der Person
 (Artikel 2 Absatz 2 des Grundgesetzes), des Briefgeheimnisses sowie
@@ -17268,11 +17855,13 @@ werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 414
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050802123)
 
 (gegenstandslos)
 
 
 ### § 415
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE050903123)
 
 (Inkrafttreten)
 
@@ -17282,6 +17871,7 @@ juristischen Personen des öffentlichen Rechts, geistliche
 Genossenschaften und Kapitalgesellschaften
 
 ### Anlage 1 (nur aus steuerlichen Gründen notwendige Bestimmungen)
+[Direktlink](https://www.gesetze-im-internet.de/ao_1977/BJNR006130976.html#BJNR006130976BJNE051006123)
 
 ## § 1
 

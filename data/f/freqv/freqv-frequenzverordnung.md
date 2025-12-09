@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 des Telekommunikationsgesetzes vom 22.
 Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes
@@ -38,6 +39,7 @@ Kreise:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000200000)
 
 Diese Verordnung regelt die Zuweisung von Frequenzbereichen an
 einzelne Funkdienste und an andere Anwendungen elektromagnetischer
@@ -45,6 +47,7 @@ Wellen für die Bundesrepublik Deutschland.
 
 
 ## § 2 Inhalt der Frequenzzuweisungstabelle
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000300000)
 
 (1) Die Frequenzzuweisungen für die Bundesrepublik Deutschland werden
 in einer Frequenzzuweisungstabelle (Teil A der Anlage) dargestellt.
@@ -78,6 +81,7 @@ enthalten:
 
 
 ## § 3 Aufbau der Frequenzzuweisungstabelle
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000400000)
 
 (1) Die Frequenzzuweisungstabelle besteht aus den folgenden Teilen:
 
@@ -156,6 +160,7 @@ Frequenz früher zugeteilt wurde.
 
 
 ## § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000501305)
 
 In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -494,6 +499,7 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Frequenzbereichszuweisungsplanverordnung vom
@@ -503,11 +509,13 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage Frequenzzuweisungstabelle für die Bundesrepublik Deutschland
+[Direktlink](https://www.gesetze-im-internet.de/freqv/BJNR332600013.html#BJNR332600013BJNE000804119)
 
 (BGBl. I 2013, 3330 – 3382; bzgl. der einzelnen Änderungen vgl.
 Fußnote)

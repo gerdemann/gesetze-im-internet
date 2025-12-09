@@ -23,15 +23,18 @@ Zuletzt geändert durch
 
 
 ## 1. - Beiträge an Bausparkassen zur Erlangung von Baudarlehen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000102310)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE000705310)
 
 (weggefallen)
 
 
 ### § 1a Aufzeichnungs- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002904310)
 
 (1) Die Bausparkasse hat Aufzeichnungen zu führen über
 
@@ -83,6 +86,7 @@ erforderlichen Unterlagen auszuhändigen.
 
 
 ### § 1b Übertragung von Bausparverträgen auf eine andere Bausparkasse
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE000803310)
 
 Werden Bausparverträge auf eine andere Bausparkasse übertragen und
 verpflichtet sich diese gegenüber dem Bausparer und der Bausparkasse,
@@ -94,6 +98,7 @@ werden.
 
 
 ### § 2 Wegfall des Prämienanspruchs und Rückzahlung der Prämien
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE000906310)
 
 (1) Der Prämienanspruch entfällt, soweit bei Bausparverträgen
 
@@ -126,10 +131,12 @@ Abtretungsempfängers über die Verwendungsabsicht beibringt.
 
 
 ## 2. - Bau- und Wohnungsgenossenschaften
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000202310)
 
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001003116)
 
 Bau- und Wohnungsgenossenschaften im Sinne des § 2 Absatz 1 Nummer 2
 des Gesetzes sind Genossenschaften, die nach dem in ihrer Satzung
@@ -163,10 +170,12 @@ Bausparkasse hat diese Unterlagen zu den Aufzeichnungen zu nehmen.
 
 
 ## 3. - Wohnbau-Sparverträge
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000302310)
 
 
 
 ### § 4 Allgemeine Sparverträge
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001104310)
 
 (1) Allgemeine Sparverträge im Sinne des § 2 Abs. 1 Nr. 3 des Gesetzes
 sind Verträge mit
@@ -196,6 +205,7 @@ Festlegungsfrist zu treffen.
 
 
 ### § 5 Rückzahlungsfrist bei allgemeinen Sparverträgen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001202310)
 
 Die Sparbeiträge dürfen erst nach Ablauf der vereinbarten
 Festlegungsfrist (§ 4) zurückgezahlt werden. Die Festlegungsfrist
@@ -205,6 +215,7 @@ Kalenderjahrs abgeschlossen worden ist.
 
 
 ### § 6 Sparverträge mit festgelegten Sparraten
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001304310)
 
 (1) Sparverträge mit festgelegten Sparraten im Sinne des § 2 Abs. 1
 Nr. 3 des Gesetzes sind Verträge mit einem der in § 4 Abs. 1
@@ -238,6 +249,7 @@ Einzahlung zu treffen.
 
 
 ### § 7 Rückzahlungsfrist bei Sparverträgen mit festgelegten Sparraten
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001402310)
 
 Die auf Grund eines Sparvertrags mit festgelegten Sparraten
 eingezahlten Sparbeiträge dürfen ein Jahr nach dem Tag der letzten
@@ -246,6 +258,7 @@ regelmäßigen Fälligkeitstag, zurückgezahlt werden.
 
 
 ### § 8 Unterbrechung von Sparverträgen mit festgelegten Sparraten
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001502310)
 
 (1) Sparraten, die nicht rechtzeitig geleistet worden sind, können
 innerhalb eines halben Jahres nach ihrer Fälligkeit, spätestens bis
@@ -274,6 +287,7 @@ die nach § 6 Abs. 3 Nr. 1 erbracht werden können.
 
 
 ### § 9 Vorzeitige Rückzahlung
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001603310)
 
 Soweit vor Ablauf der in den §§ 5 und 7 bezeichneten Fristen, außer in
 den Fällen des § 12, Sparbeiträge im Sinne des § 4 oder des § 6
@@ -285,6 +299,7 @@ wird.
 
 
 ### § 10 Verwendung der Sparbeiträge
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001704320)
 
 (1) Die auf Grund eines allgemeinen Sparvertrags (§ 4) oder eines
 Sparvertrags mit festgelegten Sparraten (§ 6) eingezahlten Beträge
@@ -314,6 +329,7 @@ verwendet werden
 
 
 ### § 11 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001804310)
 
 Die in § 4 Abs. 1 bezeichneten Unternehmen haben, außer im Fall des
 Todes des Prämienberechtigten oder der in dem Vertrag bezeichneten
@@ -342,6 +358,7 @@ befindet.
 
 
 ### § 12 Übertragung und Umwandlung von Sparverträgen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE001905310)
 
 (1) Prämien werden auch ausgezahlt und bereits ausgezahlte Prämien
 werden nicht zurückgefordert, wenn
@@ -375,10 +392,12 @@ behandelt werden.
 
 
 ## 4. - Verträge mit Wohnungs- und Siedlungsunternehmen und Organen der staatlichen Wohnungspolitik (Baufinanzierungsverträge)
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000402310)
 
 
 
 ### § 13 Inhalt der Verträge
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002004310)
 
 (1) Verträge im Sinne des § 2 Abs. 1 Nr. 4 des Gesetzes sind Verträge
 mit einem Wohnungs- oder Siedlungsunternehmen (§ 14) oder einem am 31.
@@ -420,6 +439,7 @@ dritter Personen abgeschlossen werden.
 
 
 ### § 14 Wohnungs- und Siedlungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002103310)
 
 Wohnungs- und Siedlungsunternehmen im Sinne des § 13 sind
 
@@ -462,6 +482,7 @@ Wohnungs- und Siedlungsunternehmen im Sinne des § 13 sind
 
 
 ### § 15 Unterbrechung und Rückzahlung der Einzahlungen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002203310)
 
 (1) Sparraten, die nicht rechtzeitig geleistet worden sind, können
 innerhalb eines halben Jahres nach ihrer Fälligkeit, spätestens bis
@@ -497,6 +518,7 @@ wird.
 
 
 ### § 16 Verwendung der angesammelten Beträge
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002304320)
 
 (1) Der angesammelte Betrag ist zusammen mit den Prämien innerhalb von
 fünf Jahren nach dem Zeitpunkt, in dem nach dem Vertrag die letzte
@@ -534,6 +556,7 @@ zahlenden Teils des Kaufpreises verwendet werden.
 
 
 ### § 17 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002403310)
 
 Das Wohnungs- oder Siedlungsunternehmen oder das am 31. Dezember 1989
 anerkannte Organ der staatlichen Wohnungspolitik hat, außer im Fall
@@ -564,6 +587,7 @@ werden, in dessen Bezirk sich die Niederlassung befindet.
 
 
 ### § 18 Übertragung und Umwandlung von Verträgen mit Wohnungs- und Siedlungsunternehmen und Organen der staatlichen Wohnungspolitik
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002504310)
 
 (1) Prämien werden auch ausgezahlt und bereits ausgezahlte Prämien
 werden nicht zurückgefordert, wenn Verträge mit Wohnungs- und
@@ -588,10 +612,12 @@ staatlichen Wohnungspolitik (§ 13) während ihrer Laufzeit unter
 
 
 ## 5. - Änderung der Voraussetzungen für den Prämienanspruch in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000502310)
 
 
 
 ### § 19 Änderung des zu versteuernden Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002605310)
 
 (1) Wird im Besteuerungsverfahren die Entscheidung über die Höhe des
 zu versteuernden Einkommens nachträglich in der Weise geändert, daß
@@ -627,10 +653,12 @@ Leistungen darstellen,
 
 
 ## 6. - Anwendungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNG000603310)
 
 
 
 ### § 20 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/wopdv/BJNR005850955.html#BJNR005850955BJNE002706116)
 
 Diese Verordnung in der Fassung des Artikels 6 des Gesetzes vom 29.
 Juli 2008 (BGBl. I S. 1509) ist erstmals für das Sparjahr 2009

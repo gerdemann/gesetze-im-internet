@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000100000)
 
 Auf Grund des § 140g in Verbindung mit § 140f Abs. 2 Satz 3 des
 Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung -
@@ -31,6 +32,7 @@ Gesundheit und Soziale Sicherung:
 
 
 ## § 1 Anforderungen an maßgebliche Organisationen auf Bundesebene
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000200000)
 
 Maßgebliche Organisationen für die Wahrnehmung der Interessen der
 Patientinnen und Patienten und der Selbsthilfe chronisch kranker und
@@ -69,6 +71,7 @@ Buches Sozialgesetzbuch sind Organisationen, die
 
 
 ## § 2 Anerkannte Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000301308)
 
 (1) Als maßgebliche Organisationen für die Wahrnehmung der Interessen
 der Patientinnen und Patienten und der Selbsthilfe chronisch kranker
@@ -107,6 +110,7 @@ bis 7 genannten Kriterien noch erfüllt.
 
 
 ## § 3 Anerkennung weiterer Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000401308)
 
 Das Bundesministerium für Gesundheit kann auf Antrag weitere
 Organisationen, die nicht Mitglied der in § 2 Abs. 1 genannten
@@ -117,6 +121,7 @@ erfolgt durch Verwaltungsakt.
 
 
 ## § 4 Verfahren der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000501308)
 
 (1) Die in § 2 Abs. 1 genannten und die nach § 3 anerkannten
 Organisationen benennen zur Wahrnehmung der in § 140f Abs. 2 und 3 des
@@ -143,11 +148,13 @@ eingeräumt.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/patbeteiligungsv/BJNR275300003.html#BJNR275300003BJNE000700000)
 
 Der Bundesrat hat zugestimmt.
 

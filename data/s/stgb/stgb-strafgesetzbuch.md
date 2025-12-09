@@ -23,24 +23,29 @@ Zuletzt geändert durch
 
 
 ## Allgemeiner Teil - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000102307)
 
 
 
 ### Erster Abschnitt - Das Strafgesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000202307)
 
 
 
 #### Erster Titel - Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000302307)
 
 
 
 ##### § 1 Keine Strafe ohne Gesetz
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE006802307)
 
 Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich
 bestimmt war, bevor die Tat begangen wurde.
 
 
 ##### § 2 Zeitliche Geltung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE006903123)
 
 (1) Die Strafe und ihre Nebenfolgen bestimmen sich nach dem Gesetz,
 das zur Zeit der Tat gilt.
@@ -65,11 +70,13 @@ Zeit der Entscheidung gilt.
 
 
 ##### § 3 Geltung für Inlandstaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007002307)
 
 Das deutsche Strafrecht gilt für Taten, die im Inland begangen werden.
 
 
 ##### § 4 Geltung für Taten auf deutschen Schiffen und Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007104307)
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 Taten, die auf einem Schiff oder in einem Luftfahrzeug begangen
@@ -78,6 +85,7 @@ Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
 
 
 ##### § 5 Auslandstaten mit besonderem Inlandsbezug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007222125)
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 folgende Taten, die im Ausland begangen werden:
@@ -302,6 +310,7 @@ folgende Taten, die im Ausland begangen werden:
 
 
 ##### § 6 Auslandstaten gegen international geschützte Rechtsgüter
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007316360)
 
 Das deutsche Strafrecht gilt weiter, unabhängig vom Recht des Tatorts,
 für folgende Taten, die im Ausland begangen werden:
@@ -343,6 +352,7 @@ für folgende Taten, die im Ausland begangen werden:
 
 
 ##### § 7 Geltung für Auslandstaten in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007403377)
 
 (1) Das deutsche Strafrecht gilt für Taten, die im Ausland gegen einen
 Deutschen begangen werden, wenn die Tat am Tatort mit Strafe bedroht
@@ -366,6 +376,7 @@ oder der Tatort keiner Strafgewalt unterliegt und wenn der Täter
 
 
 ##### § 8 Zeit der Tat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007502307)
 
 Eine Tat ist zu der Zeit begangen, zu welcher der Täter oder der
 Teilnehmer gehandelt hat oder im Falle des Unterlassens hätte handeln
@@ -373,6 +384,7 @@ müssen. Wann der Erfolg eintritt, ist nicht maßgebend.
 
 
 ##### § 9 Ort der Tat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007602307)
 
 (1) Eine Tat ist an jedem Ort begangen, an dem der Täter gehandelt hat
 oder im Falle des Unterlassens hätte handeln müssen oder an dem der
@@ -389,16 +401,19 @@ des Tatorts nicht mit Strafe bedroht ist.
 
 
 ##### § 10 Sondervorschriften für Jugendliche und Heranwachsende
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007702307)
 
 Für Taten von Jugendlichen und Heranwachsenden gilt dieses Gesetz nur,
 soweit im Jugendgerichtsgesetz nichts anderes bestimmt ist.
 
 
 #### Zweiter Titel - Sprachgebrauch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000402307)
 
 
 
 ##### § 11 Personen- und Sachbegriffe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007811360)
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -527,6 +542,7 @@ oder Kommunikationstechnik übertragen werden.
 
 
 ##### § 12 Verbrechen und Vergehen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE007902307)
 
 (1) Verbrechen sind rechtswidrige Taten, die im Mindestmaß mit
 Freiheitsstrafe von einem Jahr oder darüber bedroht sind.
@@ -540,14 +556,17 @@ vorgesehen sind, bleiben für die Einteilung außer Betracht.
 
 
 ### Zweiter Abschnitt - Die Tat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000502307)
 
 
 
 #### Erster Titel - Grundlagen der Strafbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000602307)
 
 
 
 ##### § 13 Begehen durch Unterlassen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008002307)
 
 (1) Wer es unterläßt, einen Erfolg abzuwenden, der zum Tatbestand
 eines Strafgesetzes gehört, ist nach diesem Gesetz nur dann strafbar,
@@ -559,6 +578,7 @@ Tatbestandes durch ein Tun entspricht.
 
 
 ##### § 14 Handeln für einen anderen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008104377)
 
 (1) Handelt jemand
 
@@ -604,12 +624,14 @@ Auftragsverhältnis begründen sollte, unwirksam ist.
 
 
 ##### § 15 Vorsätzliches und fahrlässiges Handeln
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008202307)
 
 Strafbar ist nur vorsätzliches Handeln, wenn nicht das Gesetz
 fahrlässiges Handeln ausdrücklich mit Strafe bedroht.
 
 
 ##### § 16 Irrtum über Tatumstände
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008302307)
 
 (1) Wer bei Begehung der Tat einen Umstand nicht kennt, der zum
 gesetzlichen Tatbestand gehört, handelt nicht vorsätzlich. Die
@@ -621,6 +643,7 @@ vorsätzlicher Begehung nur nach dem milderen Gesetz bestraft werden.
 
 
 ##### § 17 Verbotsirrtum
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008402307)
 
 Fehlt dem Täter bei Begehung der Tat die Einsicht, Unrecht zu tun, so
 handelt er ohne Schuld, wenn er diesen Irrtum nicht vermeiden konnte.
@@ -629,6 +652,7 @@ Abs. 1 gemildert werden.
 
 
 ##### § 18 Schwerere Strafe bei besonderen Tatfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008502307)
 
 Knüpft das Gesetz an eine besondere Folge der Tat eine schwerere
 Strafe, so trifft sie den Täter oder den Teilnehmer nur, wenn ihm
@@ -636,12 +660,14 @@ hinsichtlich dieser Folge wenigstens Fahrlässigkeit zur Last fällt.
 
 
 ##### § 19 Schuldunfähigkeit des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008602307)
 
 Schuldunfähig ist, wer bei Begehung der Tat noch nicht vierzehn Jahre
 alt ist.
 
 
 ##### § 20 Schuldunfähigkeit wegen seelischer Störungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008703360)
 
 Ohne Schuld handelt, wer bei Begehung der Tat wegen einer krankhaften
 seelischen Störung, wegen einer tiefgreifenden Bewußtseinsstörung oder
@@ -651,6 +677,7 @@ nach dieser Einsicht zu handeln.
 
 
 ##### § 21 Verminderte Schuldfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008802307)
 
 Ist die Fähigkeit des Täters, das Unrecht der Tat einzusehen oder nach
 dieser Einsicht zu handeln, aus einem der in § 20 bezeichneten Gründe
@@ -659,16 +686,19 @@ bei Begehung der Tat erheblich vermindert, so kann die Strafe nach §
 
 
 #### Zweiter Titel - Versuch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000702307)
 
 
 
 ##### § 22 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE008902307)
 
 Eine Straftat versucht, wer nach seiner Vorstellung von der Tat zur
 Verwirklichung des Tatbestandes unmittelbar ansetzt.
 
 
 ##### § 23 Strafbarkeit des Versuchs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009002307)
 
 (1) Der Versuch eines Verbrechens ist stets strafbar, der Versuch
 eines Vergehens nur dann, wenn das Gesetz es ausdrücklich bestimmt.
@@ -684,6 +714,7 @@ Ermessen mildern (§ 49 Abs. 2).
 
 
 ##### § 24 Rücktritt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009102307)
 
 (1) Wegen Versuchs wird nicht bestraft, wer freiwillig die weitere
 Ausführung der Tat aufgibt oder deren Vollendung verhindert. Wird die
@@ -700,10 +731,12 @@ wird.
 
 
 #### Dritter Titel - Täterschaft und Teilnahme
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000802307)
 
 
 
 ##### § 25 Täterschaft
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009202307)
 
 (1) Als Täter wird bestraft, wer die Straftat selbst oder durch einen
 anderen begeht.
@@ -713,6 +746,7 @@ Täter bestraft (Mittäter).
 
 
 ##### § 26 Anstiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009302307)
 
 Als Anstifter wird gleich einem Täter bestraft, wer vorsätzlich einen
 anderen zu dessen vorsätzlich begangener rechtswidriger Tat bestimmt
@@ -720,6 +754,7 @@ hat.
 
 
 ##### § 27 Beihilfe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009402307)
 
 (1) Als Gehilfe wird bestraft, wer vorsätzlich einem anderen zu dessen
 vorsätzlich begangener rechtswidriger Tat Hilfe geleistet hat.
@@ -729,6 +764,7 @@ den Täter. Sie ist nach § 49 Abs. 1 zu mildern.
 
 
 ##### § 28 Besondere persönliche Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009502307)
 
 (1) Fehlen besondere persönliche Merkmale (§ 14 Abs. 1), welche die
 Strafbarkeit des Täters begründen, beim Teilnehmer (Anstifter oder
@@ -740,12 +776,14 @@ Beteiligten (Täter oder Teilnehmer), bei dem sie vorliegen.
 
 
 ##### § 29 Selbständige Strafbarkeit des Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009602307)
 
 Jeder Beteiligte wird ohne Rücksicht auf die Schuld des anderen nach
 seiner Schuld bestraft.
 
 
 ##### § 30 Versuch der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009702307)
 
 (1) Wer einen anderen zu bestimmen versucht, ein Verbrechen zu begehen
 oder zu ihm anzustiften, wird nach den Vorschriften über den Versuch
@@ -758,6 +796,7 @@ Verbrechen zu begehen oder zu ihm anzustiften.
 
 
 ##### § 31 Rücktritt vom Versuch der Beteiligung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009802307)
 
 (1) Nach § 30 wird nicht bestraft, wer freiwillig
 
@@ -783,10 +822,12 @@ verhindern.
 
 
 #### Vierter Titel - Notwehr und Notstand
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG000902307)
 
 
 
 ##### § 32 Notwehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE009902307)
 
 (1) Wer eine Tat begeht, die durch Notwehr geboten ist, handelt nicht
 rechtswidrig.
@@ -797,12 +838,14 @@ abzuwenden.
 
 
 ##### § 33 Überschreitung der Notwehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010002307)
 
 Überschreitet der Täter die Grenzen der Notwehr aus Verwirrung, Furcht
 oder Schrecken, so wird er nicht bestraft.
 
 
 ##### § 34 Rechtfertigender Notstand
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010102307)
 
 Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben,
 Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine Tat
@@ -815,6 +858,7 @@ angemessenes Mittel ist, die Gefahr abzuwenden.
 
 
 ##### § 35 Entschuldigender Notstand
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010202307)
 
 (1) Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für
 Leben, Leib oder Freiheit eine rechtswidrige Tat begeht, um die Gefahr
@@ -834,10 +878,12 @@ mildern.
 
 
 #### Fünfter Titel - Straflosigkeit parlamentarischer Äußerungen und Berichte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001002307)
 
 
 
 ##### § 36 Parlamentarische Äußerungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010302307)
 
 Mitglieder des Bundestages, der Bundesversammlung oder eines
 Gesetzgebungsorgans eines Landes dürfen zu keiner Zeit wegen ihrer
@@ -848,6 +894,7 @@ Beleidigungen.
 
 
 ##### § 37 Parlamentarische Berichte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010402307)
 
 Wahrheitsgetreue Berichte über die öffentlichen Sitzungen der in § 36
 bezeichneten Körperschaften oder ihrer Ausschüsse bleiben von jeder
@@ -855,18 +902,22 @@ Verantwortlichkeit frei.
 
 
 ### Dritter Abschnitt - Rechtsfolgen der Tat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001102307)
 
 
 
 #### Erster Titel - Strafen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001202307)
 
 
 
 ##### Freiheitsstrafe - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001302307)
 
 
 
 ###### § 38 Dauer der Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010502307)
 
 (1) Die Freiheitsstrafe ist zeitig, wenn das Gesetz nicht lebenslange
 Freiheitsstrafe androht.
@@ -876,6 +927,7 @@ Mindestmaß ein Monat.
 
 
 ###### § 39 Bemessung der Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010602307)
 
 Freiheitsstrafe unter einem Jahr wird nach vollen Wochen und Monaten,
 Freiheitsstrafe von längerer Dauer nach vollen Monaten und Jahren
@@ -883,10 +935,12 @@ bemessen.
 
 
 ##### Geldstrafe - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001402307)
 
 
 
 ###### § 40 Verhängung in Tagessätzen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010705360)
 
 (1) Die Geldstrafe wird in Tagessätzen verhängt. Sie beträgt
 mindestens fünf und, wenn das Gesetz nichts anderes bestimmt,
@@ -907,6 +961,7 @@ die Bemessung eines Tagessatzes können geschätzt werden.
 
 
 ###### § 41 Geldstrafe neben Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010804123)
 
 Hat der Täter sich durch die Tat bereichert oder zu bereichern
 versucht, so kann neben einer Freiheitsstrafe eine sonst nicht oder
@@ -916,6 +971,7 @@ Verhältnisse des Täters angebracht ist.
 
 
 ###### § 42 Zahlungserleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE010903377)
 
 Ist dem Verurteilten nach seinen persönlichen oder wirtschaftlichen
 Verhältnissen nicht zuzumuten, die Geldstrafe sofort zu zahlen, so
@@ -931,6 +987,7 @@ der Nachweis der Wiedergutmachung auferlegt werden.
 
 
 ###### § 43 Ersatzfreiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011005125)
 
 An die Stelle einer uneinbringlichen Geldstrafe tritt
 Ersatzfreiheitsstrafe. Zwei Tagessätzen entspricht ein Tag
@@ -939,10 +996,12 @@ ein Tag.
 
 
 ##### Nebenstrafe - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001502307)
 
 
 
 ###### § 44 Fahrverbot
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011105123)
 
 (1) Wird jemand wegen einer Straftat zu einer Freiheitsstrafe oder
 einer Geldstrafe verurteilt, so kann ihm das Gericht für die Dauer von
@@ -985,10 +1044,12 @@ Anordnung ist die frühere Tat maßgebend.
 
 
 ##### Nebenfolgen - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001602307)
 
 
 
 ###### § 45 Verlust der Amtsfähigkeit, der Wählbarkeit und des Stimmrechts
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011202307)
 
 (1) Wer wegen eines Verbrechens zu Freiheitsstrafe von mindestens
 einem Jahr verurteilt wird, verliert für die Dauer von fünf Jahren die
@@ -1014,6 +1075,7 @@ zu stimmen, aberkennen, soweit das Gesetz es besonders vorsieht.
 
 
 ###### § 45a Eintritt und Berechnung des Verlustes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011302307)
 
 (1) Der Verlust der Fähigkeiten, Rechtsstellungen und Rechte wird mit
 der Rechtskraft des Urteils wirksam.
@@ -1033,6 +1095,7 @@ ist.
 
 
 ###### § 45b Wiederverleihung von Fähigkeiten und Rechten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011402307)
 
 (1) Das Gericht kann nach § 45 Abs. 1 und 2 verlorene Fähigkeiten und
 nach § 45 Abs. 5 verlorene Rechte wiederverleihen, wenn
@@ -1053,10 +1116,12 @@ ist.
 
 
 #### Zweiter Titel - Strafbemessung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001702307)
 
 
 
 ##### § 46 Grundsätze der Strafzumessung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011507360)
 
 (1) Die Schuld des Täters ist Grundlage für die Zumessung der Strafe.
 Die Wirkungen, die von der Strafe für das künftige Leben des Täters in
@@ -1092,6 +1157,7 @@ dürfen nicht berücksichtigt werden.
 
 
 ##### § 46a Täter-Opfer-Ausgleich, Schadenswiedergutmachung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060601307)
 
 Hat der Täter
 
@@ -1113,6 +1179,7 @@ Strafe absehen.
 
 
 ##### § 46b Hilfe zur Aufklärung oder Verhinderung von schweren Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066201360)
 
 (1) Wenn der Täter einer Straftat, die mit einer im Mindestmaß
 erhöhten Freiheitsstrafe oder mit lebenslanger Freiheitsstrafe bedroht
@@ -1166,6 +1233,7 @@ ihn beschlossen worden ist.
 
 
 ##### § 47 Kurze Freiheitsstrafe nur in Ausnahmefällen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011602307)
 
 (1) Eine Freiheitsstrafe unter sechs Monaten verhängt das Gericht nur,
 wenn besondere Umstände, die in der Tat oder der Persönlichkeit des
@@ -1183,11 +1251,13 @@ Tagessätze einem Monat Freiheitsstrafe.
 
 
 ##### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011703307)
 
 -
 
 
 ##### § 49 Besondere gesetzliche Milderungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011802307)
 
 (1) Ist eine Milderung nach dieser Vorschrift vorgeschrieben oder
 zugelassen, so gilt für die Milderung folgendes:
@@ -1222,6 +1292,7 @@ auf Freiheitsstrafe auf Geldstrafe erkennen.
 
 
 ##### § 50 Zusammentreffen von Milderungsgründen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE011902307)
 
 Ein Umstand, der allein oder mit anderen Umständen die Annahme eines
 minder schweren Falles begründet und der zugleich ein besonderer
@@ -1230,6 +1301,7 @@ berücksichtigt werden.
 
 
 ##### § 51 Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012003307)
 
 (1) Hat der Verurteilte aus Anlaß einer Tat, die Gegenstand des
 Verfahrens ist oder gewesen ist, Untersuchungshaft oder eine andere
@@ -1262,10 +1334,12 @@ Beschlagnahme des Führerscheins (§ 94 der Strafprozeßordnung) gleich.
 
 
 #### Dritter Titel - Strafbemessung bei mehreren Gesetzesverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001802307)
 
 
 
 ##### § 52 Tateinheit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012104123)
 
 (1) Verletzt dieselbe Handlung mehrere Strafgesetze oder dasselbe
 Strafgesetz mehrmals, so wird nur auf eine Strafe erkannt.
@@ -1283,6 +1357,7 @@ dies vorschreibt oder zulässt.
 
 
 ##### § 53 Tatmehrheit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012205123)
 
 (1) Hat jemand mehrere Straftaten begangen, die gleichzeitig
 abgeurteilt werden, und dadurch mehrere Freiheitsstrafen oder mehrere
@@ -1298,6 +1373,7 @@ erkannt.
 
 
 ##### § 54 Bildung der Gesamtstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012305123)
 
 (1) Ist eine der Einzelstrafen eine lebenslange Freiheitsstrafe, so
 wird als Gesamtstrafe auf lebenslange Freiheitsstrafe erkannt. In
@@ -1317,6 +1393,7 @@ Tagessatz einem Tag Freiheitsstrafe.
 
 
 ##### § 55 Nachträgliche Bildung der Gesamtstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012404123)
 
 (1) Die §§ 53 und 54 sind auch anzuwenden, wenn ein rechtskräftig
 Verurteilter, bevor die gegen ihn erkannte Strafe vollstreckt,
@@ -1332,10 +1409,12 @@ soweit sie nicht durch die neue Entscheidung gegenstandslos werden.
 
 
 #### Vierter Titel - Strafaussetzung zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG001902307)
 
 
 
 ##### § 56 Strafaussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012504307)
 
 (1) Bei der Verurteilung zu Freiheitsstrafe von nicht mehr als einem
 Jahr setzt das Gericht die Vollstreckung der Strafe zur Bewährung aus,
@@ -1366,6 +1445,7 @@ ausgeschlossen.
 
 
 ##### § 56a Bewährungszeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012602307)
 
 (1) Das Gericht bestimmt die Dauer der Bewährungszeit. Sie darf fünf
 Jahre nicht überschreiten und zwei Jahre nicht unterschreiten.
@@ -1377,6 +1457,7 @@ werden.
 
 
 ##### § 56b Auflagen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012703307)
 
 (1) Das Gericht kann dem Verurteilten Auflagen erteilen, die der
 Genugtuung für das begangene Unrecht dienen. Dabei dürfen an den
@@ -1410,6 +1491,7 @@ Anerbietens zu erwarten ist.
 
 
 ##### § 56c Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012805360)
 
 (1) Das Gericht erteilt dem Verurteilten für die Dauer der
 Bewährungszeit Weisungen, wenn er dieser Hilfe bedarf, um keine
@@ -1467,6 +1549,7 @@ vorläufig ab, wenn die Einhaltung der Zusagen zu erwarten ist.
 
 
 ##### § 56d Bewährungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE012904377)
 
 (1) Das Gericht unterstellt die verurteilte Person für die Dauer oder
 einen Teil der Bewährungszeit der Aufsicht und Leitung einer
@@ -1495,12 +1578,14 @@ wird haupt- oder ehrenamtlich ausgeübt.
 
 
 ##### § 56e Nachträgliche Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013002307)
 
 Das Gericht kann Entscheidungen nach den §§ 56b bis 56d auch
 nachträglich treffen, ändern oder aufheben.
 
 
 ##### § 56f Widerruf der Strafaussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013106377)
 
 (1) Das Gericht widerruft die Strafaussetzung, wenn die verurteilte
 Person
@@ -1550,6 +1635,7 @@ Anerbieten nach § 56b Abs. 3 erbracht hat, auf die Strafe anrechnen.
 
 
 ##### § 56g Straferlaß
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013204140)
 
 (1) Widerruft das Gericht die Strafaussetzung nicht, so erläßt es die
 Strafe nach Ablauf der Bewährungszeit. § 56f Abs. 3 Satz 1 ist
@@ -1564,6 +1650,7 @@ zulässig. § 56f Abs. 1 Satz 2 und Abs. 3 gilt entsprechend.
 
 
 ##### § 57 Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013307123)
 
 (1) Das Gericht setzt die Vollstreckung des Restes einer zeitigen
 Freiheitsstrafe zur Bewährung aus, wenn
@@ -1636,6 +1723,7 @@ Bewährung auszusetzen, unzulässig ist.
 
 
 ##### § 57a Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013404377)
 
 (1) Das Gericht setzt die Vollstreckung des Restes einer lebenslangen
 Freiheitsstrafe zur Bewährung aus, wenn
@@ -1667,6 +1755,7 @@ auszusetzen, unzulässig ist.
 
 
 ##### § 57b Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe als Gesamtstrafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058902307)
 
 Ist auf lebenslange Freiheitsstrafe als Gesamtstrafe erkannt, so
 werden bei der Feststellung der besonderen Schwere der Schuld (§ 57a
@@ -1675,6 +1764,7 @@ gewürdigt.
 
 
 ##### § 58 Gesamtstrafe und Strafaussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013502307)
 
 (1) Hat jemand mehrere Straftaten begangen, so ist für die
 Strafaussetzung nach § 56 die Höhe der Gesamtstrafe maßgebend.
@@ -1690,10 +1780,12 @@ ausgesetzt, so gilt § 56f Abs. 3 entsprechend.
 Verwarnung mit Strafvorbehalt
 
 #### Fünfter Titel - Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002002307)
 
 
 
 ##### § 59 Voraussetzungen der Verwarnung mit Strafvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013605123)
 
 (1) Hat jemand Geldstrafe bis zu einhundertachtzig Tagessätzen
 verwirkt, so kann das Gericht ihn neben dem Schuldspruch verwarnen,
@@ -1722,6 +1814,7 @@ Verwarnung mit Strafvorbehalt nicht zulässig.
 
 
 ##### § 59a Bewährungszeit, Auflagen und Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013707360)
 
 (1) Das Gericht bestimmt die Dauer der Bewährungszeit. Sie darf zwei
 Jahre nicht überschreiten und ein Jahr nicht unterschreiten.
@@ -1765,6 +1858,7 @@ und 4 und § 56e gelten entsprechend.
 
 
 ##### § 59b Verurteilung zu der vorbehaltenen Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013802307)
 
 (1) Für die Verurteilung zu der vorbehaltenen Strafe gilt § 56f
 entsprechend.
@@ -1775,6 +1869,7 @@ der Verwarnung sein Bewenden hat.
 
 
 ##### § 59c Gesamtstrafe und Verwarnung mit Strafvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE013902307)
 
 (1) Hat jemand mehrere Straftaten begangen, so sind bei der Verwarnung
 mit Strafvorbehalt für die Bestimmung der Strafe die §§ 53 bis 55
@@ -1788,6 +1883,7 @@ einer erkannten Strafe gleichsteht.
 
 
 ##### § 60 Absehen von Strafe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014002307)
 
 Das Gericht sieht von Strafe ab, wenn die Folgen der Tat, die den
 Täter getroffen haben, so schwer sind, daß die Verhängung einer Strafe
@@ -1796,10 +1892,12 @@ Tat eine Freiheitsstrafe von mehr als einem Jahr verwirkt hat.
 
 
 #### Sechster Titel - Maßregeln der Besserung und Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002102307)
 
 
 
 ##### § 61 Übersicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014102307)
 
 Maßregeln der Besserung und Sicherung sind
 
@@ -1825,6 +1923,7 @@ Maßregeln der Besserung und Sicherung sind
 
 
 ##### § 62 Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014202307)
 
 Eine Maßregel der Besserung und Sicherung darf nicht angeordnet
 werden, wenn sie zur Bedeutung der vom Täter begangenen und zu
@@ -1833,10 +1932,12 @@ außer Verhältnis steht.
 
 
 ##### Freiheitsentziehende Maßregeln - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002202307)
 
 
 
 ###### § 63 Unterbringung in einem psychiatrischen Krankenhaus
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014303123)
 
 Hat jemand eine rechtswidrige Tat im Zustand der Schuldunfähigkeit (§
 20) oder der verminderten Schuldfähigkeit (§ 21) begangen, so ordnet
@@ -1854,6 +1955,7 @@ erhebliche rechtswidrige Taten begehen wird.
 
 
 ###### § 64 Unterbringung in einer Entziehungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014405360)
 
 Hat eine Person den Hang, alkoholische Getränke oder andere
 berauschende Mittel im Übermaß zu sich zu nehmen, und wird sie wegen
@@ -1875,11 +1977,13 @@ abzuhalten, die auf ihren Hang zurückgehen.
 
 
 ###### § 65 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014502307)
 
 -
 
 
 ###### § 66 Unterbringung in der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014611360)
 
 (1) Das Gericht ordnet neben der Strafe die Sicherungsverwahrung an,
 wenn
@@ -1979,6 +2083,7 @@ der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
 
 ###### § 66a Vorbehalt der Unterbringung in der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064301360)
 
 (1) Das Gericht kann im Urteil die Anordnung der Sicherungsverwahrung
 vorbehalten, wenn
@@ -2031,6 +2136,7 @@ schwer geschädigt werden.
 
 
 ###### § 66b Nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065002360)
 
 Ist die Unterbringung in einem psychiatrischen Krankenhaus nach § 67d
 Abs. 6 für erledigt erklärt worden, weil der die Schuldfähigkeit
@@ -2060,6 +2166,7 @@ vollstrecken ist.
 
 
 ###### § 66c Ausgestaltung der Unterbringung in der Sicherungsverwahrung und des vorhergehenden Strafvollzugs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066800377)
 
 (1) Die Unterbringung in der Sicherungsverwahrung erfolgt in
 Einrichtungen, die
@@ -2128,6 +2235,7 @@ deren Anordnung (§ 66a Absatz 3) möglichst entbehrlich zu machen.
 
 
 ###### § 67 Reihenfolge der Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014706360)
 
 (1) Wird die Unterbringung in einer Anstalt nach den §§ 63 und 64
 neben einer Freiheitsstrafe angeordnet, so wird die Maßregel vor der
@@ -2184,6 +2292,7 @@ Maßregel begangen worden ist. Absatz 5 Satz 2 gilt entsprechend.
 
 
 ###### § 67a Überweisung in den Vollzug einer anderen Maßregel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014804377)
 
 (1) Ist die Unterbringung in einem psychiatrischen Krankenhaus oder
 einer Entziehungsanstalt angeordnet worden, so kann das Gericht die
@@ -2217,6 +2326,7 @@ Entscheidung nach Absatz 3 Satz 2 vorliegen.
 
 
 ###### § 67b Aussetzung zugleich mit der Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE014902307)
 
 (1) Ordnet das Gericht die Unterbringung in einem psychiatrischen
 Krankenhaus oder einer Entziehungsanstalt an, so setzt es zugleich
@@ -2230,6 +2340,7 @@ verhängt und nicht zur Bewährung ausgesetzt wird.
 
 
 ###### § 67c Späterer Beginn der Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015003377)
 
 (1) Wird eine Freiheitsstrafe vor einer wegen derselben Tat oder Taten
 angeordneten Unterbringung vollzogen und ergibt die vor dem Ende des
@@ -2266,6 +2377,7 @@ Maßregel erreicht, so erklärt das Gericht sie für erledigt.
 
 
 ###### § 67d Dauer der Unterbringung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015110123)
 
 (1) Die Unterbringung in einer Entziehungsanstalt darf zwei Jahre
 nicht übersteigen. Die Frist läuft vom Beginn der Unterbringung an.
@@ -2324,6 +2436,7 @@ Straftaten mehr begehen wird.
 
 
 ###### § 67e Überprüfung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015204377)
 
 (1) Das Gericht kann jederzeit prüfen, ob die weitere Vollstreckung
 der Unterbringung zur Bewährung auszusetzen oder für erledigt zu
@@ -2345,12 +2458,14 @@ Fristen mit der Entscheidung von neuem.
 
 
 ###### § 67f Mehrfache Anordnung der Maßregel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015302307)
 
 Ordnet das Gericht die Unterbringung in einer Entziehungsanstalt an,
 so ist eine frühere Anordnung der Maßregel erledigt.
 
 
 ###### § 67g Widerruf der Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015403377)
 
 (1) Das Gericht widerruft die Aussetzung einer Unterbringung, wenn die
 verurteilte Person
@@ -2393,6 +2508,7 @@ erbracht hat, werden nicht erstattet.
 
 
 ###### § 67h Befristete Wiederinvollzugsetzung; Krisenintervention
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065700377)
 
 (1) Während der Dauer der Führungsaufsicht kann das Gericht die
 ausgesetzte Unterbringung nach § 63 oder § 64 für eine Dauer von
@@ -2410,10 +2526,12 @@ gesetzten Frist auf, wenn ihr Zweck erreicht ist.
 
 
 ##### Führungsaufsicht - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002302307)
 
 
 
 ###### § 68 Voraussetzungen der Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015506377)
 
 (1) Hat jemand wegen einer Straftat, bei der das Gesetz
 Führungsaufsicht besonders vorsieht, zeitige Freiheitsstrafe von
@@ -2426,6 +2544,7 @@ weitere Straftaten begehen wird.
 
 
 ###### § 68a Aufsichtsstelle, Bewährungshilfe, forensische Ambulanz
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015604123)
 
 (1) Die verurteilte Person untersteht einer Aufsichtsstelle; das
 Gericht bestellt ihr für die Dauer der Führungsaufsicht eine
@@ -2493,6 +2612,7 @@ Zwecken verwendet werden.
 
 
 ###### § 68b Weisungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015706123)
 
 (1) Das Gericht kann die verurteilte Person für die Dauer der
 Führungsaufsicht oder für eine kürzere Zeit anweisen,
@@ -2624,6 +2744,7 @@ entsprechend.
 
 
 ###### § 68c Dauer der Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015806377)
 
 (1) Die Führungsaufsicht dauert mindestens zwei und höchstens fünf
 Jahre. Das Gericht kann die Höchstdauer abkürzen.
@@ -2694,6 +2815,7 @@ verwahrt wird.
 
 
 ###### § 68d Nachträgliche Entscheidungen; Überprüfungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE015905360)
 
 (1) Das Gericht kann Entscheidungen nach § 68a Abs. 1 und 5, den §§
 68b und 68c Abs. 1 Satz 2 und Abs. 2 und 3 auch nachträglich treffen,
@@ -2705,6 +2827,7 @@ Gericht spätestens vor Ablauf von zwei Jahren, ob sie aufzuheben ist.
 
 
 ###### § 68e Beendigung oder Ruhen der Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016006377)
 
 (1) Soweit sie nicht unbefristet oder nach Aussetzung einer
 freiheitsentziehenden Maßregel (§ 67b Absatz 2, § 67c Absatz 1 Satz 1,
@@ -2757,6 +2880,7 @@ entscheiden.
 
 
 ###### § 68f Führungsaufsicht bei Nichtaussetzung des Strafrestes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016104377)
 
 (1) Ist eine Freiheitsstrafe oder Gesamtfreiheitsstrafe von mindestens
 zwei Jahren wegen vorsätzlicher Straftaten oder eine Freiheitsstrafe
@@ -2773,6 +2897,7 @@ Gericht an, dass die Maßregel entfällt.
 
 
 ###### § 68g Führungsaufsicht und Aussetzung zur Bewährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016203377)
 
 (1) Ist die Strafaussetzung oder Aussetzung des Strafrestes angeordnet
 oder das Berufsverbot zur Bewährung ausgesetzt und steht der
@@ -2795,10 +2920,12 @@ oder Abs. 3).
 
 
 ##### Entziehung der Fahrerlaubnis - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002402307)
 
 
 
 ###### § 69 Entziehung der Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016304123)
 
 (1) Wird jemand wegen einer rechtswidrigen Tat, die er bei oder im
 Zusammenhang mit dem Führen eines Kraftfahrzeuges oder unter
@@ -2841,6 +2968,7 @@ eingezogen.
 
 
 ###### § 69a Sperre für die Erteilung einer Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016403307)
 
 (1) Entzieht das Gericht die Fahrerlaubnis, so bestimmt es zugleich,
 daß für die Dauer von sechs Monaten bis zu fünf Jahren keine neue
@@ -2882,6 +3010,7 @@ hat; Absatz 5 Satz 2 und Absatz 6 gelten entsprechend.
 
 
 ###### § 69b Wirkung der Entziehung bei einer ausländischen Fahrerlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016504307)
 
 (1) Darf der Täter auf Grund einer im Ausland erteilten Fahrerlaubnis
 im Inland Kraftfahrzeuge führen, ohne daß ihm von einer deutschen
@@ -2904,10 +3033,12 @@ Führerscheinen vermerkt.
 
 
 ##### Berufsverbot - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002502307)
 
 
 
 ###### § 70 Anordnung des Berufsverbots
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016602307)
 
 (1) Wird jemand wegen einer rechtswidrigen Tat, die er unter Mißbrauch
 seines Berufs oder Gewerbes oder unter grober Verletzung der mit ihnen
@@ -2944,6 +3075,7 @@ verwahrt worden ist, wird nicht eingerechnet.
 
 
 ###### § 70a Aussetzung des Berufsverbots
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016702307)
 
 (1) Ergibt sich nach Anordnung des Berufsverbots Grund zu der Annahme,
 daß die Gefahr, der Täter werde erhebliche rechtswidrige Taten der in
@@ -2964,6 +3096,7 @@ Verurteilten wegen der Tat verhängt oder angeordnet worden ist.
 
 
 ###### § 70b Widerruf der Aussetzung und Erledigung des Berufsverbots
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016803377)
 
 (1) Das Gericht widerruft die Aussetzung eines Berufsverbots, wenn die
 verurteilte Person
@@ -3000,10 +3133,12 @@ Berufsverbot für erledigt.
 
 
 ##### Gemeinsame Vorschriften - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002602307)
 
 
 
 ###### § 71 Selbständige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE016902307)
 
 (1) Die Unterbringung in einem psychiatrischen Krankenhaus oder in
 einer Entziehungsanstalt kann das Gericht auch selbständig anordnen,
@@ -3015,6 +3150,7 @@ Berufsverbot.
 
 
 ###### § 72 Verbindung von Maßregeln
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017002307)
 
 (1) Sind die Voraussetzungen für mehrere Maßregeln erfüllt, ist aber
 der erstrebte Zweck durch einzelne von ihnen zu erreichen, so werden
@@ -3032,10 +3168,12 @@ Abs. 2 Satz 4 und 5 ist anzuwenden.
 
 
 #### Siebenter Titel - Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002703123)
 
 
 
 ##### § 73 Einziehung von Taterträgen bei Tätern und Teilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017104123)
 
 (1) Hat der Täter oder Teilnehmer durch eine rechtswidrige Tat oder
 für sie etwas erlangt, so ordnet das Gericht dessen Einziehung an.
@@ -3057,6 +3195,7 @@ der Täter oder Teilnehmer erworben hat
 
 
 ##### § 73a Erweiterte Einziehung von Taterträgen bei Tätern und Teilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017203123)
 
 (1) Ist eine rechtswidrige Tat begangen worden, so ordnet das Gericht
 die Einziehung von Gegenständen des Täters oder Teilnehmers auch dann
@@ -3070,6 +3209,7 @@ berücksichtigt das Gericht hierbei die bereits ergangene Anordnung.
 
 
 ##### § 73b Einziehung von Taterträgen bei anderen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017304123)
 
 (1) Die Anordnung der Einziehung nach den §§ 73 und 73a richtet sich
 gegen einen anderen, der nicht Täter oder Teilnehmer ist, wenn
@@ -3128,6 +3268,7 @@ erworben wurde
 
 
 ##### § 73c Einziehung des Wertes von Taterträgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017403123)
 
 Ist die Einziehung eines Gegenstandes wegen der Beschaffenheit des
 Erlangten oder aus einem anderen Grund nicht möglich oder wird von der
@@ -3140,6 +3281,7 @@ Erlangten zurückbleibt.
 
 
 ##### § 73d Bestimmung des Wertes des Erlangten; Schätzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058404123)
 
 (1) Bei der Bestimmung des Wertes des Erlangten sind die Aufwendungen
 des Täters, Teilnehmers oder des anderen abzuziehen. Außer Betracht
@@ -3153,6 +3295,7 @@ Aufwendungen können geschätzt werden.
 
 
 ##### § 73e Ausschluss der Einziehung des Tatertrages oder des Wertersatzes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017505360)
 
 (1) Die Einziehung nach den §§ 73 bis 73c ist ausgeschlossen, soweit
 der Anspruch, der dem Verletzten aus der Tat auf Rückgewähr des
@@ -3170,6 +3313,7 @@ Bereicherung bekannt oder infolge von Leichtfertigkeit unbekannt.
 
 
 ##### § 74 Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017603123)
 
 (1) Gegenstände, die durch eine vorsätzliche Tat hervorgebracht
 (Tatprodukte) oder zu ihrer Begehung oder Vorbereitung gebraucht
@@ -3186,6 +3330,7 @@ Absatz 1 hinaus vorgeschrieben oder zugelassen ist.
 
 
 ##### § 74a Einziehung von Tatprodukten, Tatmitteln und Tatobjekten bei anderen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017703123)
 
 Verweist ein Gesetz auf diese Vorschrift, können Gegenstände
 abweichend von § 74 Absatz 3 auch dann eingezogen werden, wenn
@@ -3203,6 +3348,7 @@ derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
 
 
 ##### § 74b Sicherungseinziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017803123)
 
 (1) Gefährden Gegenstände nach ihrer Art und nach den Umständen die
 Allgemeinheit oder besteht die Gefahr, dass sie der Begehung
@@ -3252,6 +3398,7 @@ wenn es eine unbillige Härte wäre, sie zu versagen.
 
 
 ##### § 74c Einziehung des Wertes von Tatprodukten, Tatmitteln und Tatobjekten bei Tätern und Teilnehmern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE017903123)
 
 (1) Ist die Einziehung eines bestimmten Gegenstandes nicht möglich,
 weil der Täter oder Teilnehmer diesen veräußert, verbraucht oder die
@@ -3272,6 +3419,7 @@ Gegenstandes.
 
 
 ##### § 74d Einziehung von Verkörperungen eines Inhalts und Unbrauchbarmachung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018005360)
 
 (1) Verkörperungen eines Inhalts (§ 11 Absatz 3), dessen vorsätzliche
 Verbreitung den Tatbestand eines Strafgesetzes verwirklichen würde,
@@ -3317,6 +3465,7 @@ Berücksichtigung des Verkehrswertes angemessen in Geld entschädigt. §
 
 
 ##### § 74e Sondervorschrift für Organe und Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018104123)
 
 Hat jemand
 
@@ -3353,6 +3502,7 @@ dem Vertretenen zugerechnet. § 14 Absatz 3 gilt entsprechend.
 
 
 ##### § 74f Grundsatz der Verhältnismäßigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018203123)
 
 (1) Ist die Einziehung nicht vorgeschrieben, so darf sie in den Fällen
 der §§ 74 und 74a nicht angeordnet werden, wenn sie zur begangenen Tat
@@ -3383,6 +3533,7 @@ und Absatz 3 gilt Absatz 1 Satz 2 und 3 entsprechend.
 
 
 ##### § 75 Wirkung der Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018305123)
 
 (1) Wird die Einziehung eines Gegenstandes angeordnet, so geht das
 Eigentum an der Sache oder das Recht mit der Rechtskraft der
@@ -3428,6 +3579,7 @@ findet § 91 der Insolvenzordnung keine Anwendung.
 
 
 ##### § 76 Nachträgliche Anordnung der Einziehung des Wertersatzes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018404123)
 
 Ist die Anordnung der Einziehung eines Gegenstandes unzureichend oder
 nicht ausführbar, weil nach der Anordnung eine der in den §§ 73c oder
@@ -3437,6 +3589,7 @@ anordnen.
 
 
 ##### § 76a Selbständige Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018507125)
 
 (1) Kann wegen der Straftat keine bestimmte Person verfolgt oder
 verurteilt werden, so ordnet das Gericht die Einziehung oder die
@@ -3611,6 +3764,7 @@ entsprechend. Straftaten im Sinne des Satzes 1 sind
 
 
 ##### § 76b Verjährung der Einziehung von Taterträgen und des Wertes von Taterträgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068300123)
 
 (1) Die erweiterte und die selbständige Einziehung des Tatertrages
 oder des Wertes des Tatertrages nach den §§ 73a und 76a verjähren in
@@ -3626,10 +3780,12 @@ Einziehung des Tatertrages oder des Wertes des Tatertrages nach den §§
 
 
 ### Vierter Abschnitt - Strafantrag, Ermächtigung, Strafverlangen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG002902307)
 
 
 
 #### § 77 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018604320)
 
 (1) Ist die Tat nur auf Antrag verfolgbar, so kann, soweit das Gesetz
 nichts anderes bestimmt, der Verletzte den Antrag stellen.
@@ -3655,6 +3811,7 @@ selbständig stellen.
 
 
 #### § 77a Antrag des Dienstvorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018702307)
 
 (1) Ist die Tat von einem Amtsträger, einem für den öffentlichen
 Dienst besonders Verpflichteten oder einem Soldaten der Bundeswehr
@@ -3679,6 +3836,7 @@ antragsberechtigt.
 
 
 #### § 77b Antragsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018805308)
 
 (1) Eine Tat, die nur auf Antrag verfolgbar ist, wird nicht verfolgt,
 wenn der Antragsberechtigte es unterläßt, den Antrag bis zum Ablauf
@@ -3705,6 +3863,7 @@ Vergleichsbehörde eingeht, bis zur Ausstellung der Bescheinigung nach
 
 
 #### § 77c Wechselseitig begangene Taten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE018902307)
 
 Hat bei wechselseitig begangenen Taten, die miteinander zusammenhängen
 und nur auf Antrag verfolgbar sind, ein Berechtigter die
@@ -3715,6 +3874,7 @@ wenn für ihn die Antragsfrist schon verstrichen ist.
 
 
 #### § 77d Zurücknahme des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019003320)
 
 (1) Der Antrag kann zurückgenommen werden. Die Zurücknahme kann bis
 zum rechtskräftigen Abschluß des Strafverfahrens erklärt werden. Ein
@@ -3730,20 +3890,24 @@ nicht zurücknehmen.
 
 
 #### § 77e Ermächtigung und Strafverlangen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019102307)
 
 Ist eine Tat nur mit Ermächtigung oder auf Strafverlangen verfolgbar,
 so gelten die §§ 77 und 77d entsprechend.
 
 
 ### Fünfter Abschnitt - Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003002307)
 
 
 
 #### Erster Titel - Verfolgungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003102307)
 
 
 
 ##### § 78 Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019205123)
 
 (1) Die Verjährung schließt die Ahndung der Tat und die Anordnung von
 Maßnahmen (§ 11 Abs. 1 Nr. 8) aus. § 76a Absatz 2 bleibt unberührt.
@@ -3780,6 +3944,7 @@ besonders schwere oder minder schwere Fälle vorgesehen sind.
 
 
 ##### § 78a Beginn
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019302307)
 
 Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum
 Tatbestand gehörender Erfolg erst später ein, so beginnt die
@@ -3787,6 +3952,7 @@ Verjährung mit diesem Zeitpunkt.
 
 
 ##### § 78b Ruhen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019415360)
 
 (1) Die Verjährung ruht
 
@@ -3871,6 +4037,7 @@ Strafgerichtshof oder den Vollstreckungsstaat.
 
 
 ##### § 78c Unterbrechung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019505360)
 
 (1) Die Verjährung wird unterbrochen durch
 
@@ -3958,10 +4125,12 @@ Recht bereits verjährt gewesen wäre.
 
 
 #### Zweiter Titel - Vollstreckungsverjährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003202307)
 
 
 
 ##### § 79 Verjährungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019605123)
 
 (1) Eine rechtskräftig verhängte Strafe oder Maßnahme (§ 11 Abs. 1 Nr.
 8) darf nach Ablauf der Verjährungsfrist nicht mehr vollstreckt
@@ -4016,6 +4185,7 @@ der Vollstreckung von Strafen oder anderen Maßnahmen nicht.
 
 
 ##### § 79a Ruhen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019703123)
 
 Die Verjährung ruht,
 
@@ -4048,6 +4218,7 @@ Die Verjährung ruht,
 
 
 ##### § 79b Verlängerung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019802307)
 
 Das Gericht kann die Verjährungsfrist vor ihrem Ablauf auf Antrag der
 Vollstreckungsbehörde einmal um die Hälfte der gesetzlichen
@@ -4057,22 +4228,27 @@ werden kann.
 
 
 ## Besonderer Teil - 
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003302307)
 
 
 
 ### Erster Abschnitt - Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003402307)
 
 
 
 #### Erster Titel - Friedensverrat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003502307)
 
 
 
 ##### § 80 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE019903123)
 
 
 
 ##### § 80a Aufstacheln zum Verbrechen der Aggression
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020004360)
 
 Wer im räumlichen Geltungsbereich dieses Gesetzes öffentlich, in einer
 Versammlung oder durch Verbreiten eines Inhalts (§ 11 Absatz 3) zum
@@ -4082,10 +4258,12 @@ Jahren bestraft.
 
 
 #### Zweiter Titel - Hochverrat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003602307)
 
 
 
 ##### § 81 Hochverrat gegen den Bund
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020102307)
 
 (1) Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt
 
@@ -4105,6 +4283,7 @@ Jahr bis zu zehn Jahren.
 
 
 ##### § 82 Hochverrat gegen ein Land
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020202307)
 
 (1) Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt
 
@@ -4125,6 +4304,7 @@ Monaten bis zu fünf Jahren.
 
 
 ##### § 83 Vorbereitung eines hochverräterischen Unternehmens
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020302307)
 
 (1) Wer ein bestimmtes hochverräterisches Unternehmen gegen den Bund
 vorbereitet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn
@@ -4137,6 +4317,7 @@ Jahren bestraft.
 
 
 ##### § 83a Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020402307)
 
 (1) In den Fällen der §§ 81 und 82 kann das Gericht die Strafe nach
 seinem Ermessen mildern (§ 49 Abs. 2) oder von einer Bestrafung nach
@@ -4157,10 +4338,12 @@ sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 #### Dritter Titel - Gefährdung des demokratischen Rechtsstaates
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003702307)
 
 
 
 ##### § 84 Fortführung einer für verfassungswidrig erklärten Partei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020503123)
 
 (1) Wer als Rädelsführer oder Hintermann im räumlichen Geltungsbereich
 dieses Gesetzes den organisatorischen Zusammenhalt
@@ -4206,6 +4389,7 @@ erreicht, so wird der Täter nicht bestraft.
 
 
 ##### § 85 Verstoß gegen ein Vereinigungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020603123)
 
 (1) Wer als Rädelsführer oder Hintermann im räumlichen Geltungsbereich
 dieses Gesetzes den organisatorischen Zusammenhalt
@@ -4236,6 +4420,7 @@ Geldstrafe bestraft.
 
 
 ##### § 86 Verbreiten von Propagandamitteln verfassungswidriger und terroristischer Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020706360)
 
 (1) Wer Propagandamittel
 
@@ -4297,6 +4482,7 @@ nach dieser Vorschrift absehen.
 
 
 ##### § 86a Verwenden von Kennzeichen verfassungswidriger und terroristischer Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020806360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -4324,6 +4510,7 @@ genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln
 
 
 ##### § 87 Agententätigkeit zu Sabotagezwecken
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE020903307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer einen Auftrag einer Regierung, Vereinigung oder
@@ -4384,6 +4571,7 @@ können.
 
 
 ##### § 88 Verfassungsfeindliche Sabotage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021003307)
 
 (1) Wer als Rädelsführer oder Hintermann einer Gruppe oder, ohne mit
 einer Gruppe oder für eine solche zu handeln, als einzelner
@@ -4417,6 +4605,7 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 ##### § 89 Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021103360)
 
 (1) Wer auf Angehörige der Bundeswehr oder eines öffentlichen
 Sicherheitsorgans planmäßig einwirkt, um deren pflichtmäßige
@@ -4433,6 +4622,7 @@ bestraft.
 
 
 ##### § 89a Vorbereitung einer schweren staatsgefährdenden Gewalttat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066503123)
 
 (1) Wer eine schwere staatsgefährdende Gewalttat vorbereitet, wird mit
 Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Eine
@@ -4512,6 +4702,7 @@ erreichen.
 
 
 ##### § 89b Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066601301)
 
 (1) Wer in der Absicht, sich in der Begehung einer schweren
 staatsgefährdenden Gewalttat gemäß § 89a Abs. 2 Nr. 1 unterweisen zu
@@ -4546,6 +4737,7 @@ nach dieser Vorschrift absehen.
 
 
 ##### § 89c Terrorismusfinanzierung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067100144)
 
 (1) Wer Vermögenswerte sammelt, entgegennimmt oder zur Verfügung
 stellt mit dem Wissen oder in der Absicht, dass diese von einer
@@ -4644,6 +4836,7 @@ sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 ##### § 90 Verunglimpfung des Bundespräsidenten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021204360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) den Bundespräsidenten verunglimpft, wird mit
@@ -4662,6 +4855,7 @@ Bundesrepublik Deutschland oder gegen Verfassungsgrundsätze einsetzt.
 
 
 ##### § 90a Verunglimpfung des Staates und seiner Symbole
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021303360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3)
@@ -4693,6 +4887,7 @@ Verfassungsgrundsätze einsetzt.
 
 
 ##### § 90b Verfassungsfeindliche Verunglimpfung von Verfassungsorganen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021403360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) ein Gesetzgebungsorgan, die Regierung oder das
@@ -4708,6 +4903,7 @@ Verfassungsorgans oder Mitglieds verfolgt.
 
 
 ##### § 90c Verunglimpfung von Symbolen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068901360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) die Flagge oder die Hymne der Europäischen
@@ -4721,6 +4917,7 @@ ist strafbar.
 
 
 ##### § 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066701360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -4757,6 +4954,7 @@ nach dieser Vorschrift absehen.
 
 
 ##### § 91a Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021503310)
 
 Die §§ 84, 85 und 87 gelten nur für Taten, die durch eine im
 räumlichen Geltungsbereich dieses Gesetzes ausgeübte Tätigkeit
@@ -4764,10 +4962,12 @@ begangen werden.
 
 
 #### Vierter Titel - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003802307)
 
 
 
 ##### § 92 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021602307)
 
 (1) Im Sinne dieses Gesetzes beeinträchtigt den Bestand der
 Bundesrepublik Deutschland, wer ihre Freiheit von fremder Botmäßigkeit
@@ -4824,6 +5024,7 @@ Gebiet abtrennt.
 
 
 ##### § 92a Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021702307)
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
 Straftat nach diesem Abschnitt kann das Gericht die Fähigkeit,
@@ -4833,6 +5034,7 @@ wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und 5).
 
 
 ##### § 92b Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021803310)
 
 Ist eine Straftat nach diesem Abschnitt begangen worden, so können
 
@@ -4849,10 +5051,12 @@ eingezogen werden. § 74a ist anzuwenden.
 
 
 ### Zweiter Abschnitt - Landesverrat und Gefährdung der äußeren Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG003902307)
 
 
 
 #### § 93 Begriff des Staatsgeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE021902307)
 
 (1) Staatsgeheimnisse sind Tatsachen, Gegenstände oder Erkenntnisse,
 die nur einem begrenzten Personenkreis zugänglich sind und vor einer
@@ -4867,6 +5071,7 @@ Rüstungsbeschränkungen verstoßen, sind keine Staatsgeheimnisse.
 
 
 #### § 94 Landesverrat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022002307)
 
 (1) Wer ein Staatsgeheimnis
 
@@ -4899,6 +5104,7 @@ besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 #### § 95 Offenbaren von Staatsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022102307)
 
 (1) Wer ein Staatsgeheimnis, das von einer amtlichen Stelle oder auf
 deren Veranlassung geheimgehalten wird, an einen Unbefugten gelangen
@@ -4915,6 +5121,7 @@ einem Jahr bis zu zehn Jahren. § 94 Abs. 2 Satz 2 ist anzuwenden.
 
 
 #### § 96 Landesverräterische Ausspähung; Auskundschaften von Staatsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022202307)
 
 (1) Wer sich ein Staatsgeheimnis verschafft, um es zu verraten (§ 94),
 wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
@@ -4926,6 +5133,7 @@ fünf Jahren bestraft. Der Versuch ist strafbar.
 
 
 #### § 97 Preisgabe von Staatsgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022302307)
 
 (1) Wer ein Staatsgeheimnis, das von einer amtlichen Stelle oder auf
 deren Veranlassung geheimgehalten wird, an einen Unbefugten gelangen
@@ -4946,6 +5154,7 @@ mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 97a Verrat illegaler Geheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022402307)
 
 Wer ein Geheimnis, das wegen eines der in § 93 Abs. 2 bezeichneten
 Verstöße kein Staatsgeheimnis ist, einer fremden Macht oder einem
@@ -4957,6 +5166,7 @@ bezeichneten Art entsprechend anzuwenden.
 
 
 #### § 97b Verrat in irriger Annahme eines illegalen Geheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022502307)
 
 (1) Handelt der Täter in den Fällen der §§ 94 bis 97 in der irrigen
 Annahme, das Staatsgeheimnis sei ein Geheimnis der in § 97a
@@ -4988,6 +5198,7 @@ Abs. 2 verpflichtet worden sind, sinngemäß.
 
 
 #### § 98 Landesverräterische Agententätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022602307)
 
 (1) Wer
 
@@ -5017,6 +5228,7 @@ unverzüglich einer Dienststelle offenbart.
 
 
 #### § 99 Geheimdienstliche Agententätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022702307)
 
 (1) Wer
 
@@ -5056,6 +5268,7 @@ Veranlassung geheimgehalten werden, mitteilt oder liefert und wenn er
 
 
 #### § 100 Friedensgefährdende Beziehungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022802307)
 
 (1) Wer als Deutscher, der seine Lebensgrundlage im räumlichen
 Geltungsbereich dieses Gesetzes hat, in der Absicht, einen Krieg oder
@@ -5076,6 +5289,7 @@ Jahr bis zu fünf Jahren.
 
 
 #### § 100a Landesverräterische Fälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE022902307)
 
 (1) Wer wider besseres Wissen gefälschte oder verfälschte Gegenstände,
 Nachrichten darüber oder unwahre Behauptungen tatsächlicher Art, die
@@ -5107,6 +5321,7 @@ zu einer fremden Macht herbeiführt.
 
 
 #### § 101 Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023002307)
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
 vorsätzlichen Straftat nach diesem Abschnitt kann das Gericht die
@@ -5117,6 +5332,7 @@ Angelegenheiten zu wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und
 
 
 #### § 101a Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023103123)
 
 Ist eine Straftat nach diesem Abschnitt begangen worden, so können
 
@@ -5138,10 +5354,12 @@ Täter ohne Schuld gehandelt hat.
 
 
 ### Dritter Abschnitt - Straftaten gegen ausländische Staaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004002307)
 
 
 
 #### § 102 Angriff gegen Organe und Vertreter ausländischer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023202307)
 
 (1) Wer einen Angriff auf Leib oder Leben eines ausländischen
 Staatsoberhaupts, eines Mitglieds einer ausländischen Regierung oder
@@ -5159,9 +5377,11 @@ Rechte aus öffentlichen Wahlen zu erlangen, und das Recht, in
 
 
 #### § 103 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023303123)
 
 
 #### § 104 Verletzung von Flaggen und Hoheitszeichen ausländischer Staaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023403360)
 
 (1) Wer eine auf Grund von Rechtsvorschriften oder nach anerkanntem
 Brauch öffentlich gezeigte Flagge eines ausländischen Staates oder wer
@@ -5178,6 +5398,7 @@ gleich, die ihnen zum Verwechseln ähnlich sind.
 
 
 #### § 104a Voraussetzungen der Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023503360)
 
 Straftaten nach diesem Abschnitt werden nur verfolgt, wenn die
 Bundesrepublik Deutschland zu dem anderen Staat diplomatische
@@ -5186,10 +5407,12 @@ Regierung vorliegt.
 
 
 ### Vierter Abschnitt - Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004102307)
 
 
 
 #### § 105 Nötigung von Verfassungsorganen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023602307)
 
 (1) Wer
 
@@ -5213,6 +5436,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 106 Nötigung des Bundespräsidenten und von Mitgliedern eines Verfassungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023702307)
 
 (1) Wer
 
@@ -5247,11 +5471,13 @@ einem Jahr bis zu zehn Jahren.
 
 
 #### § 106a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023803308)
 
 -
 
 
 #### § 106b Störung der Tätigkeit eines Gesetzgebungsorgans
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE023902307)
 
 (1) Wer gegen Anordnungen verstößt, die ein Gesetzgebungsorgan des
 Bundes oder eines Landes oder sein Präsident über die Sicherheit und
@@ -5270,6 +5496,7 @@ Mitglieder der Landesregierung und ihre Beauftragten.
 
 
 #### § 107 Wahlbehinderung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024002307)
 
 (1) Wer mit Gewalt oder durch Drohung mit Gewalt eine Wahl oder die
 Feststellung ihres Ergebnisses verhindert oder stört, wird mit
@@ -5280,6 +5507,7 @@ schweren Fällen mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
 
 #### § 107a Wahlfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024103360)
 
 (1) Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
 herbeiführt oder das Ergebnis verfälscht, wird mit Freiheitsstrafe bis
@@ -5295,6 +5523,7 @@ verkündet oder verkünden läßt.
 
 
 #### § 107b Fälschung von Wahlunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024202307)
 
 (1) Wer
 
@@ -5325,6 +5554,7 @@ Sozialversicherung.
 
 
 #### § 107c Verletzung des Wahlgeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024302307)
 
 Wer einer dem Schutz des Wahlgeheimnisses dienenden Vorschrift in der
 Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu
@@ -5333,6 +5563,7 @@ zwei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 108 Wählernötigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024402307)
 
 (1) Wer rechtswidrig mit Gewalt, durch Drohung mit einem empfindlichen
 Übel, durch Mißbrauch eines beruflichen oder wirtschaftlichen
@@ -5346,6 +5577,7 @@ Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
 
 #### § 108a Wählertäuschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024502307)
 
 (1) Wer durch Täuschung bewirkt, daß jemand bei der Stimmabgabe über
 den Inhalt seiner Erklärung irrt oder gegen seinen Willen nicht oder
@@ -5356,6 +5588,7 @@ Geldstrafe bestraft.
 
 
 #### § 108b Wählerbestechung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024602307)
 
 (1) Wer einem anderen dafür, daß er nicht oder in einem bestimmten
 Sinne wähle, Geschenke oder andere Vorteile anbietet, verspricht oder
@@ -5368,6 +5601,7 @@ versprechen läßt oder annimmt.
 
 
 #### § 108c Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024702307)
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
 Straftat nach den §§ 107, 107a, 108 und 108b kann das Gericht die
@@ -5377,6 +5611,7 @@ in öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen
 
 
 #### § 108d Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024803301)
 
 Die §§ 107 bis 108c gelten für Wahlen zu den Volksvertretungen, für
 die Wahl der Abgeordneten des Europäischen Parlaments, für sonstige
@@ -5389,6 +5624,7 @@ Unterschreiben für ein Volksbegehren gleich.
 
 
 #### § 108e Bestechlichkeit und Bestechung von Mandatsträgern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060303116)
 
 (1) Wer als Mitglied einer Volksvertretung des Bundes oder der Länder
 einen ungerechtfertigten Vorteil für sich oder einen Dritten als
@@ -5451,6 +5687,7 @@ aberkennen.
 
 
 #### § 108f Unzulässige Interessenwahrnehmung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069800125)
 
 (1) Wer einen ungerechtfertigten Vermögensvorteil für sich oder einen
 Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder
@@ -5488,10 +5725,12 @@ des Mandatsträgers maßgeblichen Vorschriften verletzen würde.
 
 
 ### Fünfter Abschnitt - Straftaten gegen die Landesverteidigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004202307)
 
 
 
 #### § 109 Wehrpflichtentziehung durch Verstümmelung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE024902307)
 
 (1) Wer sich oder einen anderen mit dessen Einwilligung durch
 Verstümmelung oder auf andere Weise zur Erfüllung der Wehrpflicht
@@ -5506,6 +5745,7 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 #### § 109a Wehrpflichtentziehung durch Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025002307)
 
 (1) Wer sich oder einen anderen durch arglistige, auf Täuschung
 berechnete Machenschaften der Erfüllung der Wehrpflicht dauernd oder
@@ -5517,9 +5757,11 @@ Geldstrafe bestraft.
 
 
 #### (XXXX) §§ 109b und 109c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025102307)
 
 
 #### § 109d Störpropaganda gegen die Bundeswehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025302307)
 
 (1) Wer unwahre oder gröblich entstellte Behauptungen tatsächlicher
 Art, deren Verbreitung geeignet ist, die Tätigkeit der Bundeswehr zu
@@ -5533,6 +5775,7 @@ Geldstrafe bestraft.
 
 
 #### § 109e Sabotagehandlungen an Verteidigungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025402307)
 
 (1) Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ganz
 oder vorwiegend der Landesverteidigung oder dem Schutz der
@@ -5560,6 +5803,7 @@ Vorschriften mit schwererer Strafe bedroht ist.
 
 
 #### § 109f Sicherheitsgefährdender Nachrichtendienst
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025502307)
 
 (1) Wer für eine Dienststelle, eine Partei oder eine andere
 Vereinigung außerhalb des räumlichen Geltungsbereichs dieses Gesetzes,
@@ -5588,6 +5832,7 @@ Funkberichterstattung ausgeübte Tätigkeit.
 
 
 #### § 109g Sicherheitsgefährdendes Abbilden
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025602307)
 
 (1) Wer von einem Wehrmittel, einer militärischen Einrichtung oder
 Anlage oder einem militärischen Vorgang eine Abbildung oder
@@ -5617,6 +5862,7 @@ zuständigen Dienststelle gehandelt hat.
 
 
 #### § 109h Anwerben für fremden Wehrdienst
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025702307)
 
 (1) Wer zugunsten einer ausländischen Macht einen Deutschen zum
 Wehrdienst in einer militärischen oder militärähnlichen Einrichtung
@@ -5628,6 +5874,7 @@ fünf Jahren bestraft.
 
 
 #### § 109i Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025802307)
 
 Neben einer Freiheitsstrafe von mindestens einem Jahr wegen einer
 Straftat nach den §§ 109e und 109f kann das Gericht die Fähigkeit,
@@ -5637,6 +5884,7 @@ wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und 5).
 
 
 #### § 109k Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE025903123)
 
 Ist eine Straftat nach den §§ 109d bis 109g begangen worden, so können
 
@@ -5657,15 +5905,18 @@ ohne Schuld gehandelt hat.
 
 
 ### Sechster Abschnitt - Widerstand gegen die Staatsgewalt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004302307)
 
 
 
 #### § 110 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026002307)
 
 -
 
 
 #### § 111 Öffentliche Aufforderung zu Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026103360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) zu einer rechtswidrigen Tat auffordert, wird
@@ -5678,11 +5929,13 @@ Aufforderung Erfolg hat (Absatz 1); § 49 Abs. 1 Nr. 2 ist anzuwenden.
 
 
 #### § 112 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026202307)
 
 -
 
 
 #### § 113 Widerstand gegen Vollstreckungsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026305123)
 
 (1) Wer einem Amtsträger oder Soldaten der Bundeswehr, der zur
 Vollstreckung von Gesetzen, Rechtsverordnungen, Urteilen,
@@ -5725,6 +5978,7 @@ so kann das Gericht die Strafe nach seinem Ermessen mildern (§ 49 Abs.
 
 
 #### § 114 Tätlicher Angriff auf Vollstreckungsbeamte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068500123)
 
 (1) Wer einen Amtsträger oder Soldaten der Bundeswehr, der zur
 Vollstreckung von Gesetzen, Rechtsverordnungen, Urteilen,
@@ -5739,6 +5993,7 @@ eine Vollstreckungshandlung im Sinne des § 113 Absatz 1 ist.
 
 
 #### § 115 Widerstand gegen oder tätlicher Angriff auf Personen, die Vollstreckungsbeamten gleichstehen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026407360)
 
 (1) Zum Schutz von Personen, die die Rechte und Pflichten eines
 Polizeibeamten haben oder Ermittlungspersonen der Staatsanwaltschaft
@@ -5757,10 +6012,12 @@ diesen Situationen tätlich angreift.
 
 
 #### (XXXX) §§ 116 bis 119 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE026503123)
 
 
 
 #### § 120 Gefangenenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027002307)
 
 (1) Wer einen Gefangenen befreit, ihn zum Entweichen verleitet oder
 dabei fördert, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
@@ -5778,6 +6035,7 @@ sonst auf behördliche Anordnung in einer Anstalt verwahrt wird.
 
 
 #### § 121 Gefangenenmeuterei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027104360)
 
 (1) Gefangene, die sich zusammenrotten und mit vereinten Kräften
 
@@ -5822,15 +6080,18 @@ Sicherungsverwahrung untergebracht ist.
 
 
 #### § 122 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027202307)
 
 -
 
 
 ### Siebenter Abschnitt - Straftaten gegen die öffentliche Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004402307)
 
 
 
 #### § 123 Hausfriedensbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027302307)
 
 (1) Wer in die Wohnung, in die Geschäftsräume oder in das befriedete
 Besitztum eines anderen oder in abgeschlossene Räume, welche zum
@@ -5843,6 +6104,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 124 Schwerer Hausfriedensbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027402307)
 
 Wenn sich eine Menschenmenge öffentlich zusammenrottet und in der
 Absicht, Gewalttätigkeiten gegen Personen oder Sachen mit vereinten
@@ -5854,6 +6116,7 @@ Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 125 Landfriedensbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027505123)
 
 (1) Wer sich an
 
@@ -5877,6 +6140,7 @@ Vollstreckungshandlung im Sinne des § 113 Absatz 1 ist.
 
 
 #### § 125a Besonders schwerer Fall des Landfriedensbruchs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027606123)
 
 In besonders schweren Fällen des § 125 Abs. 1 ist die Strafe
 Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders
@@ -5900,6 +6164,7 @@ schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 #### § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027710130)
 
 (1) Wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu
 stören,
@@ -5952,6 +6217,7 @@ stehe bevor.
 
 
 #### § 126a Gefährdendes Verbreiten personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069500360)
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) personenbezogene Daten einer anderen Person in
@@ -5978,6 +6244,7 @@ Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 127 Betreiben krimineller Handelsplattformen im Internet
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027904130)
 
 (1) Wer eine Handelsplattform im Internet betreibt, deren Zweck darauf
 ausgerichtet ist, die Begehung von rechtswidrigen Taten zu
@@ -6060,6 +6327,7 @@ Verbrechen zu ermöglichen oder zu fördern.
 
 
 #### § 128 Bildung bewaffneter Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE027804360)
 
 Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche
 Werkzeuge verfügt, bildet oder befehligt oder wer sich einer solchen
@@ -6069,6 +6337,7 @@ Geldstrafe bestraft.
 
 
 #### § 129 Bildung krimineller Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028008360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine Vereinigung gründet oder sich an einer Vereinigung
@@ -6139,6 +6408,7 @@ bestraft.
 
 
 #### § 129a Bildung terroristischer Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028110123)
 
 (1) Wer eine Vereinigung (§ 129 Absatz 2) gründet, deren Zwecke oder
 deren Tätigkeit darauf gerichtet sind,
@@ -6234,6 +6504,7 @@ Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 
 #### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064402123)
 
 (1) Die §§ 129 und 129a gelten auch für Vereinigungen im Ausland.
 Bezieht sich die Tat auf eine Vereinigung außerhalb der
@@ -6256,6 +6527,7 @@ Absatz 1, ist § 74a anzuwenden.
 
 
 #### § 130 Volksverhetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028211360)
 
 (1) Wer in einer Weise, die geeignet ist, den öffentlichen Frieden zu
 stören,
@@ -6346,6 +6618,7 @@ entsprechend.
 
 
 #### § 130a Anleitung zu Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE059005360)
 
 (1) Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, als Anleitung
 zu einer in § 126 Abs. 1 genannten rechtswidrigen Tat zu dienen, und
@@ -6373,6 +6646,7 @@ zu begehen.
 
 
 #### § 131 Gewaltdarstellung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028306360)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -6413,6 +6687,7 @@ Zugänglichmachen seine Erziehungspflicht gröblich verletzt.
 
 
 #### § 132 Amtsanmaßung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028402307)
 
 Wer unbefugt sich mit der Ausübung eines öffentlichen Amtes befaßt
 oder eine Handlung vornimmt, welche nur kraft eines öffentlichen Amtes
@@ -6421,6 +6696,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 132a Mißbrauch von Titeln, Berufsbezeichnungen und Abzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028503307)
 
 (1) Wer unbefugt
 
@@ -6459,6 +6735,7 @@ eingezogen werden.
 
 
 #### § 133 Verwahrungsbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028602307)
 
 (1) Wer Schriftstücke oder andere bewegliche Sachen, die sich in
 dienstlicher Verwahrung befinden oder ihm oder einem anderen
@@ -6479,6 +6756,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 134 Verletzung amtlicher Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028702307)
 
 Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung
 öffentlich angeschlagen oder ausgelegt ist, zerstört, beseitigt,
@@ -6487,11 +6765,13 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 135 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028802307)
 
 -
 
 
 #### § 136 Verstrickungsbruch; Siegelbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE028902307)
 
 (1) Wer eine Sache, die gepfändet oder sonst dienstlich in Beschlag
 genommen ist, zerstört, beschädigt, unbrauchbar macht oder in anderer
@@ -6513,11 +6793,13 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 
 #### § 137 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029002307)
 
 -
 
 
 #### § 138 Nichtanzeige geplanter Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029114130)
 
 (1) Wer von dem Vorhaben oder der Ausführung
 
@@ -6588,6 +6870,7 @@ bestraft.
 
 
 #### § 139 Straflosigkeit der Nichtanzeige geplanter Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029207360)
 
 (1) Ist in den Fällen des § 138 die Tat nicht versucht worden, so kann
 von Strafe abgesehen werden.
@@ -6633,6 +6916,7 @@ Straflosigkeit sein ernsthaftes Bemühen, den Erfolg abzuwenden.
 
 
 #### § 140 Belohnung und Billigung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029311360)
 
 Wer eine der in § 138 Absatz 1 Nummer 2 bis 4 und 5 letzte Alternative
 oder in § 126 Absatz 1 genannten rechtswidrigen Taten oder eine
@@ -6653,11 +6937,13 @@ bestraft.
 
 
 #### § 141 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029402307)
 
 -
 
 
 #### § 142 Unerlaubtes Entfernen vom Unfallort
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029503307)
 
 (1) Ein Unfallbeteiligter, der sich nach einem Unfall im
 Straßenverkehr vom Unfallort entfernt, bevor er
@@ -6709,16 +6995,19 @@ zur Verursachung des Unfalls beigetragen haben kann.
 
 
 #### § 143 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029604377)
 
 -
 
 
 #### § 144 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029703307)
 
 -
 
 
 #### § 145 Mißbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029802307)
 
 (1) Wer absichtlich oder wissentlich
 
@@ -6753,6 +7042,7 @@ ist.
 
 
 #### § 145a Verstoß gegen Weisungen während der Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE029903377)
 
 Wer während der Führungsaufsicht gegen eine bestimmte Weisung der in §
 68b Abs. 1 bezeichneten Art verstößt und dadurch den Zweck der
@@ -6762,11 +7052,13 @@ Aufsichtsstelle (§ 68a) verfolgt.
 
 
 #### § 145b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030002307)
 
 -
 
 
 #### § 145c Verstoß gegen das Berufsverbot
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030102307)
 
 Wer einen Beruf, einen Berufszweig, ein Gewerbe oder einen
 Gewerbezweig für sich oder einen anderen ausübt oder durch einen
@@ -6776,6 +7068,7 @@ Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 145d Vortäuschen einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030205125)
 
 (1) Wer wider besseres Wissen einer Behörde oder einer zur
 Entgegennahme von Anzeigen zuständigen Stelle vortäuscht,
@@ -6834,10 +7127,12 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ### Achter Abschnitt - Geld- und Wertzeichenfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004502307)
 
 
 
 #### § 146 Geldfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030304377)
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -6868,6 +7163,7 @@ erkennen.
 
 
 #### § 147 Inverkehrbringen von Falschgeld
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030402307)
 
 (1) Wer, abgesehen von den Fällen des § 146, falsches Geld als echt in
 Verkehr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
@@ -6877,6 +7173,7 @@ Geldstrafe bestraft.
 
 
 #### § 148 Wertzeichenfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030502307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -6906,6 +7203,7 @@ Geldstrafe bestraft.
 
 
 #### § 149 Vorbereitung der Fälschung von Geld und Wertzeichen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030603377)
 
 (1) Wer eine Fälschung von Geld oder Wertzeichen vorbereitet, indem er
 
@@ -6951,6 +7249,7 @@ erreichen.
 
 
 #### § 150 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030705123)
 
 Ist eine Straftat nach diesem Abschnitt begangen worden, so werden das
 falsche Geld, die falschen oder entwerteten Wertzeichen und die in §
@@ -6958,6 +7257,7 @@ falsche Geld, die falschen oder entwerteten Wertzeichen und die in §
 
 
 #### § 151 Wertpapiere
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030804360)
 
 Dem Geld im Sinne der §§ 146, 147, 149 und 150 stehen folgende
 Wertpapiere gleich, wenn sie durch Druck und Papierart gegen
@@ -6986,12 +7286,14 @@ Nachahmung besonders gesichert sind:
 
 
 #### § 152 Geld, Wertzeichen und Wertpapiere eines fremden Währungsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE030902307)
 
 Die §§ 146 bis 151 sind auch auf Geld, Wertzeichen und Wertpapiere
 eines fremden Währungsgebiets anzuwenden.
 
 
 #### § 152a Fälschung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056007360)
 
 (1) Wer zur Täuschung im Rechtsverkehr oder, um eine solche Täuschung
 zu ermöglichen,
@@ -7026,6 +7328,7 @@ und § 150 gelten entsprechend.
 
 
 #### § 152b Fälschung von Zahlungskarten mit Garantiefunktion
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064602360)
 
 (1) Wer eine der in § 152a Abs. 1 bezeichneten Handlungen in Bezug auf
 Zahlungskarten mit Garantiefunktion begeht, wird mit Freiheitsstrafe
@@ -7058,6 +7361,7 @@ Kreditkarten und sonstige Karten,
 
 
 #### § 152c Vorbereitung des Diebstahls und der Unterschlagung von Zahlungskarten, Schecks, Wechseln und anderen körperlichen unbaren Zahlungsinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069100360)
 
 (1) Wer eine Straftat nach § 242 oder § 246, die auf die Erlangung
 inländischer oder ausländischer Zahlungskarten, Schecks, Wechsel oder
@@ -7083,10 +7387,12 @@ anwendbar.
 
 
 ### Neunter Abschnitt - Falsche uneidliche Aussage und Meineid
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004602307)
 
 
 
 #### § 153 Falsche uneidliche Aussage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031004140)
 
 Wer vor Gericht oder vor einer anderen zur eidlichen Vernehmung von
 Zeugen oder Sachverständigen zuständigen Stelle als Zeuge oder
@@ -7095,6 +7401,7 @@ von drei Monaten bis zu fünf Jahren bestraft.
 
 
 #### § 154 Meineid
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031102307)
 
 (1) Wer vor Gericht oder vor einer anderen zur Abnahme von Eiden
 zuständigen Stelle falsch schwört, wird mit Freiheitsstrafe nicht
@@ -7105,6 +7412,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 155 Eidesgleiche Bekräftigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031202307)
 
 Dem Eid stehen gleich
 
@@ -7119,6 +7427,7 @@ Dem Eid stehen gleich
 
 
 #### § 156 Falsche Versicherung an Eides Statt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031302307)
 
 Wer vor einer zur Abnahme einer Versicherung an Eides Statt
 zuständigen Behörde eine solche Versicherung falsch abgibt oder unter
@@ -7127,6 +7436,7 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 157 Aussagenotstand
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031402307)
 
 (1) Hat ein Zeuge oder Sachverständiger sich eines Meineids oder einer
 falschen uneidlichen Aussage schuldig gemacht, so kann das Gericht die
@@ -7142,6 +7452,7 @@ Eidesmündiger uneidlich falsch ausgesagt hat.
 
 
 #### § 158 Berichtigung einer falschen Angabe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031502307)
 
 (1) Das Gericht kann die Strafe wegen Meineids, falscher Versicherung
 an Eides Statt oder falscher uneidlicher Aussage nach seinem Ermessen
@@ -7159,6 +7470,7 @@ einem Gericht, einem Staatsanwalt oder einer Polizeibehörde erfolgen.
 
 
 #### § 159 Versuch der Anstiftung zur Falschaussage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031602307)
 
 Für den Versuch der Anstiftung zu einer falschen uneidlichen Aussage
 (§ 153) und einer falschen Versicherung an Eides Statt (§ 156) gelten
@@ -7166,6 +7478,7 @@ Für den Versuch der Anstiftung zu einer falschen uneidlichen Aussage
 
 
 #### § 160 Verleitung zur Falschaussage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031702307)
 
 (1) Wer einen anderen zur Ableistung eines falschen Eides verleitet,
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
@@ -7178,6 +7491,7 @@ einhundertachtzig Tagessätzen bestraft.
 
 
 #### § 161 Fahrlässiger Falscheid; fahrlässige falsche Versicherung an Eides Statt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE031803140)
 
 (1) Wenn eine der in den §§ 154 bis 156 bezeichneten Handlungen aus
 Fahrlässigkeit begangen worden ist, so tritt Freiheitsstrafe bis zu
@@ -7189,6 +7503,7 @@ entsprechend.
 
 
 #### § 162 Internationale Gerichte; nationale Untersuchungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066000140)
 
 (1) Die §§ 153 bis 161 sind auch auf falsche Angaben in einem
 Verfahren vor einem internationalen Gericht, das durch einen für die
@@ -7202,15 +7517,18 @@ Landes anzuwenden.
 
 
 #### § 163 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032003140)
 
 -
 
 
 ### Zehnter Abschnitt - Falsche Verdächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004702307)
 
 
 
 #### § 164 Falsche Verdächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032105125)
 
 (1) Wer einen anderen bei einer Behörde oder einem zur Entgegennahme
 von Anzeigen zuständigen Amtsträger oder militärischen Vorgesetzten
@@ -7236,6 +7554,7 @@ drei Monaten bis zu fünf Jahren.
 
 
 #### § 165 Bekanntgabe der Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032203360)
 
 (1) Ist die Tat nach § 164 öffentlich oder durch Verbreiten eines
 Inhalts (§ 11 Absatz 3) begangen und wird ihretwegen auf Strafe
@@ -7249,10 +7568,12 @@ auf die in § 77 Abs. 2 bezeichneten Angehörigen über. § 77 Abs. 2 bis
 
 
 ### Elfter Abschnitt - Straftaten, welche sich auf Religion und Weltanschauung beziehen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004802307)
 
 
 
 #### § 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032303360)
 
 (1) Wer öffentlich oder durch Verbreiten eines Inhalts (§ 11 Absatz 3)
 den Inhalt des religiösen oder weltanschaulichen Bekenntnisses anderer
@@ -7268,6 +7589,7 @@ ist, den öffentlichen Frieden zu stören.
 
 
 #### § 167 Störung der Religionsausübung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032402307)
 
 (1) Wer
 
@@ -7289,12 +7611,14 @@ bestehenden Weltanschauungsvereinigung gleich.
 
 
 #### § 167a Störung einer Bestattungsfeier
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032502307)
 
 Wer eine Bestattungsfeier absichtlich oder wissentlich stört, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 168 Störung der Totenruhe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032604307)
 
 (1) Wer unbefugt aus dem Gewahrsam des Berechtigten den Körper oder
 Teile des Körpers eines verstorbenen Menschen, eine tote Leibesfrucht,
@@ -7310,10 +7634,12 @@ beschädigt oder wer dort beschimpfenden Unfug verübt.
 
 
 ### Zwölfter Abschnitt - Straftaten gegen den Personenstand, die Ehe und die Familie
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG004902307)
 
 
 
 #### § 169 Personenstandsfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE032703377)
 
 (1) Wer ein Kind unterschiebt oder den Personenstand eines anderen
 gegenüber einer zur Führung von Personenstandsregistern oder zur
@@ -7325,6 +7651,7 @@ Geldstrafe bestraft.
 
 
 #### § 170 Verletzung der Unterhaltspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062501307)
 
 (1) Wer sich einer gesetzlichen Unterhaltspflicht entzieht, so daß der
 Lebensbedarf des Unterhaltsberechtigten gefährdet ist oder ohne die
@@ -7338,6 +7665,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 171 Verletzung der Fürsorge- oder Erziehungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062601307)
 
 Wer seine Fürsorge- oder Erziehungspflicht gegenüber einer Person
 unter sechzehn Jahren gröblich verletzt und dadurch den
@@ -7349,6 +7677,7 @@ bestraft.
 
 
 #### § 172 Doppelehe; doppelte Lebenspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033304308)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer verheiratet ist oder eine Lebenspartnerschaft führt und
@@ -7370,6 +7699,7 @@ dieser dritten Person eine Lebenspartnerschaft führen zu wollen.
 
 
 #### § 173 Beischlaf zwischen Verwandten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033502307)
 
 (1) Wer mit einem leiblichen Abkömmling den Beischlaf vollzieht, wird
 mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
@@ -7386,10 +7716,12 @@ waren.
 
 
 ### Dreizehnter Abschnitt - Straftaten gegen die sexuelle Selbstbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005002307)
 
 
 
 #### § 174 Sexueller Mißbrauch von Schutzbefohlenen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033605360)
 
 (1) Wer sexuelle Handlungen
 
@@ -7464,6 +7796,7 @@ gering ist.
 
 
 #### § 174a Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033705360)
 
 (1) Wer sexuelle Handlungen an einer gefangenen oder auf behördliche
 Anordnung verwahrten Person, die ihm zur Erziehung, Ausbildung,
@@ -7486,6 +7819,7 @@ Handlungen an oder von einer dritten Person bestimmt.
 
 
 #### § 174b Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033804360)
 
 (1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren
 oder an einem Verfahren zur Anordnung einer freiheitsentziehenden
@@ -7501,6 +7835,7 @@ Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 
 
 #### § 174c Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062103360)
 
 (1) Wer sexuelle Handlungen an einer Person, die ihm wegen einer
 geistigen oder seelischen Krankheit oder Behinderung einschließlich
@@ -7522,11 +7857,13 @@ Handlungen an oder von einer dritten Person bestimmt.
 
 
 #### § 175 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE033903307)
 
 -
 
 
 #### § 176 Sexueller Missbrauch von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034009360)
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -7553,6 +7890,7 @@ Selbstbestimmung aus.
 
 
 #### § 176a Sexueller Missbrauch von Kindern ohne Körperkontakt mit dem Kind
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062206360)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer
@@ -7584,6 +7922,7 @@ auf ein Kind.
 
 
 #### § 176b Vorbereitung des sexuellen Missbrauchs von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062302360)
 
 (1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird
 bestraft, wer auf ein Kind durch einen Inhalt (§ 11 Absatz 3)
@@ -7610,6 +7949,7 @@ irrig annimmt, sein Einwirken beziehe sich auf ein Kind.
 
 
 #### § 176c Schwerer sexueller Missbrauch von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069200360)
 
 (1) Der sexuelle Missbrauch von Kindern wird in den Fällen des § 176
 Absatz 1 Nummer 1 und 2 mit Freiheitsstrafe nicht unter zwei Jahren
@@ -7666,6 +8006,7 @@ eine solche nach § 176 Absatz 1 Nummer 1 oder Nummer 2 wäre.
 
 
 #### § 176d Sexueller Missbrauch von Kindern mit Todesfolge
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069300360)
 
 Verursacht der Täter durch den sexuellen Missbrauch (§§ 176 bis 176c)
 mindestens leichtfertig den Tod eines Kindes, so ist die Strafe
@@ -7674,6 +8015,7 @@ Jahren.
 
 
 #### § 176e Verbreitung und Besitz von Anleitungen zu sexuellem Missbrauch von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069600360)
 
 (1) Wer einen Inhalt (§ 11 Absatz 3) verbreitet oder der
 Öffentlichkeit zugänglich macht, der geeignet ist, als Anleitung zu
@@ -7739,6 +8081,7 @@ werden eingezogen. § 74a ist anzuwenden.
 
 
 #### § 177 Sexueller Übergriff; sexuelle Nötigung; Vergewaltigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034105123)
 
 (1) Wer gegen den erkennbaren Willen einer anderen Person sexuelle
 Handlungen an dieser Person vornimmt oder von ihr vornehmen lässt oder
@@ -7856,6 +8199,7 @@ erkennen.
 
 
 #### § 178 Sexueller Übergriff, sexuelle Nötigung und Vergewaltigung mit Todesfolge
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062402123)
 
 Verursacht der Täter durch den sexuellen Übergriff, die sexuelle
 Nötigung oder Vergewaltigung (§ 177) wenigstens leichtfertig den Tod
@@ -7864,10 +8208,12 @@ Freiheitsstrafe nicht unter zehn Jahren.
 
 
 #### § 179 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034306123)
 
 
 
 #### § 180 Förderung sexueller Handlungen Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034403360)
 
 (1) Wer sexuellen Handlungen einer Person unter sechzehn Jahren an
 oder vor einem Dritten oder sexuellen Handlungen eines Dritten an
@@ -7896,6 +8242,7 @@ Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 180a Ausbeutung von Prostituierten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034505377)
 
 (1) Wer gewerbsmäßig einen Betrieb unterhält oder leitet, in dem
 Personen der Prostitution nachgehen und in dem diese in persönlicher
@@ -7917,9 +8264,11 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 
 #### (XXXX) §§ 180b und 181 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060102377)
 
 
 #### § 181a Zuhälterei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034706308)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird
 bestraft, wer
@@ -7950,12 +8299,14 @@ Förderung gegenüber seinem Ehegatten oder Lebenspartner vornimmt.
 
 
 #### § 181b Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034809360)
 
 In den Fällen der §§ 174 bis 174c, 176 bis 180, 181a, 182 und 184b
 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
 
 
 #### § 182 Sexueller Mißbrauch von Jugendlichen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE034905360)
 
 (1) Wer eine Person unter achtzehn Jahren dadurch missbraucht, dass er
 unter Ausnutzung einer Zwangslage
@@ -8007,6 +8358,7 @@ ist.
 
 
 #### § 183 Exhibitionistische Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035006360)
 
 (1) Ein Mann, der eine andere Person durch eine exhibitionistische
 Handlung belästigt, wird mit Freiheitsstrafe bis zu einem Jahr oder
@@ -8037,6 +8389,7 @@ bestraft wird.
 
 
 #### § 183a Erregung öffentlichen Ärgernisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035102307)
 
 Wer öffentlich sexuelle Handlungen vornimmt und dadurch absichtlich
 oder wissentlich ein Ärgernis erregt, wird mit Freiheitsstrafe bis zu
@@ -8045,6 +8398,7 @@ mit Strafe bedroht ist.
 
 
 #### § 184 Verbreitung pornographischer Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035209360)
 
 (1) Wer einen pornographischen Inhalt (§ 11 Absatz 3)
 
@@ -8110,6 +8464,7 @@ erfolgt.
 
 
 #### § 184a Verbreitung gewalt- oder tierpornographischer Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064702360)
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer einen pornographischen Inhalt (§ 11 Absatz 3), der
@@ -8130,6 +8485,7 @@ In den Fällen des Satzes 1 Nummer 1 ist der Versuch strafbar.
 
 
 #### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064807130)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer
@@ -8230,6 +8586,7 @@ anzuwenden.
 
 
 #### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Inhalte
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066103360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -8299,10 +8656,12 @@ Nummer 2 und 4 sowie Absatz 3.
 
 
 #### § 184d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064904360)
 
 
 
 #### § 184e Veranstaltung und Besuch kinder- und jugendpornographischer Darbietungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067000360)
 
 (1) Nach § 184b Absatz 1 wird auch bestraft, wer eine
 kinderpornographische Darbietung veranstaltet. Nach § 184c Absatz 1
@@ -8316,6 +8675,7 @@ auch bestraft, wer eine jugendpornographische Darbietung besucht. §
 
 
 #### § 184f Ausübung der verbotenen Prostitution
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035305360)
 
 Wer einem durch Rechtsverordnung erlassenen Verbot, der Prostitution
 an bestimmten Orten überhaupt oder zu bestimmten Tageszeiten
@@ -8325,6 +8685,7 @@ Tagessätzen bestraft.
 
 
 #### § 184g Jugendgefährdende Prostitution
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035405360)
 
 Wer der Prostitution
 
@@ -8341,6 +8702,7 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 184h Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035505360)
 
 Im Sinne dieses Gesetzes sind
 
@@ -8360,6 +8722,7 @@ Im Sinne dieses Gesetzes sind
 
 
 #### § 184i Sexuelle Belästigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067801360)
 
 (1) Wer eine andere Person in sexuell bestimmter Weise körperlich
 berührt und dadurch belästigt, wird mit Freiheitsstrafe bis zu zwei
@@ -8377,6 +8740,7 @@ hält.
 
 
 #### § 184j Straftaten aus Gruppen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067900123)
 
 Wer eine Straftat dadurch fördert, dass er sich an einer
 Personengruppe beteiligt, die eine andere Person zur Begehung einer
@@ -8387,6 +8751,7 @@ nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.
 
 
 #### § 184k Verletzung des Intimbereichs durch Bildaufnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069000360)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -8424,6 +8789,7 @@ werden. § 74a ist anzuwenden.
 
 
 #### § 184l Inverkehrbringen, Erwerb und Besitz von Sexpuppen mit kindlichem Erscheinungsbild
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069400360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird
 bestraft, wer
@@ -8470,10 +8836,12 @@ oder dienstlicher oder beruflicher Pflichten dienen.
 [^F816419_01_BJNR001270871BJNE069400360]: 
 
 ### Vierzehnter Abschnitt - Beleidigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005102307)
 
 
 
 #### § 185 Beleidigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035604360)
 
 Die Beleidigung wird mit Freiheitsstrafe bis zu einem Jahr oder mit
 Geldstrafe und, wenn die Beleidigung öffentlich, in einer Versammlung,
@@ -8483,6 +8851,7 @@ mit Geldstrafe bestraft.
 
 
 #### § 186 Üble Nachrede
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035705360)
 
 Wer in Beziehung auf einen anderen eine Tatsache behauptet oder
 verbreitet, welche denselben verächtlich zu machen oder in der
@@ -8495,6 +8864,7 @@ Geldstrafe bestraft.
 
 
 #### § 187 Verleumdung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE035803360)
 
 Wer wider besseres Wissen in Beziehung auf einen anderen eine unwahre
 Tatsache behauptet oder verbreitet, welche denselben verächtlich zu
@@ -8507,6 +8877,7 @@ Geldstrafe bestraft.
 
 
 #### § 188 Gegen Personen des politischen Lebens gerichtete Beleidigung, üble Nachrede und Verleumdung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062704360)
 
 (1) Wird gegen eine im politischen Leben des Volkes stehende Person
 öffentlich, in einer Versammlung oder durch Verbreiten eines Inhalts
@@ -8524,12 +8895,14 @@ Jahren bestraft.
 
 
 #### § 189 Verunglimpfung des Andenkens Verstorbener
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036102307)
 
 Wer das Andenken eines Verstorbenen verunglimpft, wird mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 190 Wahrheitsbeweis durch Strafurteil
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036202307)
 
 Ist die behauptete oder verbreitete Tatsache eine Straftat, so ist der
 Beweis der Wahrheit als erbracht anzusehen, wenn der Beleidigte wegen
@@ -8539,11 +8912,13 @@ Behauptung oder Verbreitung rechtskräftig freigesprochen worden ist.
 
 
 #### § 191 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036302307)
 
 -
 
 
 #### § 192 Beleidigung trotz Wahrheitsbeweises
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036402307)
 
 Der Beweis der Wahrheit der behaupteten oder verbreiteten Tatsache
 schließt die Bestrafung nach § 185 nicht aus, wenn das Vorhandensein
@@ -8552,6 +8927,7 @@ aus den Umständen, unter welchen sie geschah, hervorgeht.
 
 
 #### § 192a Verhetzende Beleidigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069701360)
 
 Wer einen Inhalt (§ 11 Absatz 3), der geeignet ist, die Menschenwürde
 anderer dadurch anzugreifen, dass er eine durch ihre nationale,
@@ -8566,6 +8942,7 @@ bestraft.
 
 
 #### § 193 Wahrnehmung berechtigter Interessen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036503360)
 
 Tadelnde Urteile über wissenschaftliche, künstlerische oder
 gewerbliche Leistungen, desgleichen Äußerungen oder Tathandlungen nach
@@ -8579,6 +8956,7 @@ welchen sie geschah, hervorgeht.
 
 
 #### § 194 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036608360)
 
 (1) Die Beleidigung wird nur auf Antrag verfolgt. Ist die Tat in einer
 Versammlung oder dadurch begangen, dass ein Inhalt (§ 11 Absatz 3)
@@ -8625,16 +9003,19 @@ betroffenen Körperschaft verfolgt.
 
 
 #### (XXXX) §§ 195 bis 198 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE036702307)
 
 
 
 #### § 199 Wechselseitig begangene Beleidigungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037102307)
 
 Wenn eine Beleidigung auf der Stelle erwidert wird, so kann der
 Richter beide Beleidiger oder einen derselben für straffrei erklären.
 
 
 #### § 200 Bekanntgabe der Verurteilung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037203360)
 
 (1) Ist die Beleidigung öffentlich oder durch Verbreiten eines Inhalts
 (§ 11 Absatz 3) begangen und wird ihretwegen auf Strafe erkannt, so
@@ -8648,10 +9029,12 @@ so soll die Bekanntmachung, wenn möglich, auf dieselbe Art erfolgen.
 
 
 ### Fünfzehnter Abschnitt - Verletzung des persönlichen Lebens- und Geheimbereichs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005202307)
 
 
 
 #### § 201 Verletzung der Vertraulichkeit des Wortes
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037303307)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer unbefugt
@@ -8696,6 +9079,7 @@ verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
 
 
 #### § 201a Verletzung des höchstpersönlichen Lebensbereichs und von Persönlichkeitsrechten durch Bildaufnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065103360)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -8759,6 +9143,7 @@ werden. § 74a ist anzuwenden.
 
 
 #### § 202 Verletzung des Briefgeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037404307)
 
 (1) Wer unbefugt
 
@@ -8784,6 +9169,7 @@ Abbildung gleich.
 
 
 #### § 202a Ausspähen von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056103377)
 
 (1) Wer unbefugt sich oder einem anderen Zugang zu Daten, die nicht
 für ihn bestimmt und die gegen unberechtigten Zugang besonders
@@ -8797,6 +9183,7 @@ oder übermittelt werden.
 
 
 #### § 202b Abfangen von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065800377)
 
 Wer unbefugt sich oder einem anderen unter Anwendung von technischen
 Mitteln nicht für ihn bestimmte Daten (§ 202a Abs. 2) aus einer
@@ -8808,6 +9195,7 @@ ist.
 
 
 #### § 202c Vorbereiten des Ausspähens und Abfangens von Daten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065901308)
 
 (1) Wer eine Straftat nach § 202a oder § 202b vorbereitet, indem er
 
@@ -8827,6 +9215,7 @@ Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 202d Datenhehlerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067300123)
 
 (1) Wer Daten (§ 202a Absatz 2), die nicht allgemein zugänglich sind
 und die ein anderer durch eine rechtswidrige Tat erlangt hat, sich
@@ -8857,6 +9246,7 @@ Dazu gehören insbesondere
 
 
 #### § 203 Verletzung von Privatgeheimnissen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037517130)
 
 (1) Wer unbefugt ein fremdes Geheimnis, namentlich ein zum
 persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs-
@@ -9006,6 +9396,7 @@ die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 
 #### § 204 Verwertung fremder Geheimnisse
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037603123)
 
 (1) Wer unbefugt ein fremdes Geheimnis, namentlich ein Betriebs- oder
 Geschäftsgeheimnis, zu dessen Geheimhaltung er nach § 203 verpflichtet
@@ -9016,6 +9407,7 @@ Geldstrafe bestraft.
 
 
 #### § 205 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037708360)
 
 (1) In den Fällen des § 201 Abs. 1 und 2 und der §§ 202, 203 und 204
 wird die Tat nur auf Antrag verfolgt. Dies gilt auch in den Fällen der
@@ -9036,6 +9428,7 @@ Antragsrecht den in § 77 Absatz 2 bezeichneten Angehörigen zu.
 
 
 #### § 206 Verletzung des Post- oder Fernmeldegeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062001307)
 
 (1) Wer unbefugt einer anderen Person eine Mitteilung über Tatsachen
 macht, die dem Post- oder Fernmeldegeheimnis unterliegen und die ihm
@@ -9095,14 +9488,17 @@ erfolgloser Verbindungsversuche.
 
 
 #### (XXXX) §§ 207 bis 210 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE037803307)
 
 
 
 ### Sechzehnter Abschnitt - Straftaten gegen das Leben
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005302307)
 
 
 
 #### § 211 Mord
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038302307)
 
 (1) Der Mörder wird mit lebenslanger Freiheitsstrafe bestraft.
 
@@ -9115,6 +9511,7 @@ einen Menschen tötet.
 
 
 #### § 212 Totschlag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038402307)
 
 (1) Wer einen Menschen tötet, ohne Mörder zu sein, wird als
 Totschläger mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
@@ -9124,6 +9521,7 @@ zu erkennen.
 
 
 #### § 213 Minder schwerer Fall des Totschlags
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038503307)
 
 War der Totschläger ohne eigene Schuld durch eine ihm oder einem
 Angehörigen zugefügte Mißhandlung oder schwere Beleidigung von dem
@@ -9133,10 +9531,12 @@ so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
 
 #### (XXXX) §§ 214 und 215 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038602307)
 
 
 
 #### § 216 Tötung auf Verlangen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038802307)
 
 (1) Ist jemand durch das ausdrückliche und ernstliche Verlangen des
 Getöteten zur Tötung bestimmt worden, so ist auf Freiheitsstrafe von
@@ -9146,6 +9546,7 @@ sechs Monaten bis zu fünf Jahren zu erkennen.
 
 
 #### § 217 Geschäftsmäßige Förderung der Selbsttötung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE038904123)
 
 (1) Wer in der Absicht, die Selbsttötung eines anderen zu fördern,
 diesem hierzu geschäftsmäßig die Gelegenheit gewährt, verschafft oder
@@ -9158,6 +9559,7 @@ oder diesem nahesteht.
 
 
 #### § 218 Schwangerschaftsabbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039004307)
 
 (1) Wer eine Schwangerschaft abbricht, wird mit Freiheitsstrafe bis zu
 drei Jahren oder mit Geldstrafe bestraft. Handlungen, deren Wirkung
@@ -9186,6 +9588,7 @@ bestraft.
 
 
 #### § 218a Straflosigkeit des Schwangerschaftsabbruchs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039105123)
 
 (1) Der Tatbestand des § 218 ist nicht verwirklicht, wenn
 
@@ -9229,6 +9632,7 @@ besonderer Bedrängnis befunden hat.
 
 
 #### § 218b Schwangerschaftsabbruch ohne ärztliche Feststellung; unrichtige ärztliche Feststellung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039205116)
 
 (1) Wer in den Fällen des § 218a Abs. 2 oder 3 eine Schwangerschaft
 abbricht, ohne daß ihm die schriftliche Feststellung eines Arztes, der
@@ -9254,6 +9658,7 @@ rechtswidrigen Taten das Hauptverfahren eröffnet worden ist.
 
 
 #### § 218c Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060801307)
 
 (1) Wer eine Schwangerschaft abbricht,
 
@@ -9283,6 +9688,7 @@ bestraft, wenn die Tat nicht in § 218 mit Strafe bedroht ist.
 
 
 #### § 219 Beratung der Schwangeren in einer Not- und Konfliktlage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039304307)
 
 (1) Die Beratung dient dem Schutz des ungeborenen Lebens. Sie hat sich
 von dem Bemühen leiten zu lassen, die Frau zur Fortsetzung der
@@ -9309,9 +9715,11 @@ Abbruch der Schwangerschaft vornimmt, ist als Berater ausgeschlossen.
 
 
 #### § 219a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039406116)
 
 
 #### § 219b Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039503307)
 
 (1) Wer in der Absicht, rechtswidrige Taten nach § 218 zu fördern,
 Mittel oder Gegenstände, die zum Schwangerschaftsabbruch geeignet
@@ -9326,26 +9734,31 @@ eingezogen werden.
 
 
 #### § 219c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039603307)
 
 -
 
 
 #### § 219d (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039703307)
 
 -
 
 
 #### § 220 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039802307)
 
 -
 
 
 #### § 220a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE039904377)
 
 -
 
 
 #### § 221 Aussetzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040003307)
 
 (1) Wer einen Menschen
 
@@ -9384,16 +9797,19 @@ erkennen.
 
 
 #### § 222 Fahrlässige Tötung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040102307)
 
 Wer durch Fahrlässigkeit den Tod eines Menschen verursacht, wird mit
 Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 ### Siebzehnter Abschnitt - Straftaten gegen die körperliche Unversehrtheit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005403307)
 
 
 
 #### § 223 Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040204307)
 
 (1) Wer eine andere Person körperlich mißhandelt oder an der
 Gesundheit schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder
@@ -9403,6 +9819,7 @@ mit Geldstrafe bestraft.
 
 
 #### § 224 Gefährliche Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040504307)
 
 (1) Wer die Körperverletzung
 
@@ -9431,6 +9848,7 @@ fünf Jahren bestraft.
 
 
 #### § 225 Mißhandlung von Schutzbefohlenen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040604307)
 
 (1) Wer eine Person unter achtzehn Jahren oder eine wegen
 Gebrechlichkeit oder Krankheit wehrlose Person, die
@@ -9476,6 +9894,7 @@ erkennen.
 
 
 #### § 226 Schwere Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040703307)
 
 (1) Hat die Körperverletzung zur Folge, daß die verletzte Person
 
@@ -9505,6 +9924,7 @@ erkennen.
 
 
 #### § 226a Verstümmelung weiblicher Genitalien
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066900360)
 
 (1) Wer die äußeren Genitalien einer weiblichen Person verstümmelt,
 wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
@@ -9514,6 +9934,7 @@ Monaten bis zu fünf Jahren zu erkennen.
 
 
 #### § 227 Körperverletzung mit Todesfolge
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE040904360)
 
 (1) Verursacht der Täter durch die Körperverletzung (§§ 223 bis 226a)
 den Tod der verletzten Person, so ist die Strafe Freiheitsstrafe nicht
@@ -9524,6 +9945,7 @@ bis zu zehn Jahren zu erkennen.
 
 
 #### § 228 Einwilligung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041004307)
 
 Wer eine Körperverletzung mit Einwilligung der verletzten Person
 vornimmt, handelt nur dann rechtswidrig, wenn die Tat trotz der
@@ -9531,6 +9953,7 @@ Einwilligung gegen die guten Sitten verstößt.
 
 
 #### § 229 Fahrlässige Körperverletzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041103307)
 
 Wer durch Fahrlässigkeit die Körperverletzung einer anderen Person
 verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
@@ -9538,6 +9961,7 @@ Geldstrafe bestraft.
 
 
 #### § 230 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041203307)
 
 (1) Die vorsätzliche Körperverletzung nach § 223 und die fahrlässige
 Körperverletzung nach § 229 werden nur auf Antrag verfolgt, es sei
@@ -9556,6 +9980,7 @@ Religionsgesellschaften des öffentlichen Rechts.
 
 
 #### § 231 Beteiligung an einer Schlägerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041303307)
 
 (1) Wer sich an einer Schlägerei oder an einem von mehreren verübten
 Angriff beteiligt, wird schon wegen dieser Beteiligung mit
@@ -9568,10 +9993,12 @@ Angriff beteiligt war, ohne daß ihm dies vorzuwerfen ist.
 
 
 ### Achtzehnter Abschnitt - Straftaten gegen die persönliche Freiheit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005503377)
 
 
 
 #### § 232 Menschenhandel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065201123)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren wird
 bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen
@@ -9657,6 +10084,7 @@ strafbar.
 
 
 #### § 232a Zwangsprostitution
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067601360)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen
@@ -9721,6 +10149,7 @@ verständiger Würdigung der Sachlage damit rechnen musste.
 
 
 #### § 232b Zwangsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067700123)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen
@@ -9766,6 +10195,7 @@ empfindlichen Übel oder durch List veranlasst,
 
 
 #### § 233 Ausbeutung der Arbeitskraft
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065301123)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer eine andere Person unter Ausnutzung ihrer persönlichen
@@ -9836,6 +10266,7 @@ schwererer Strafe bedroht ist.
 
 
 #### § 233a Ausbeutung unter Ausnutzung einer Freiheitsberaubung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065401123)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer eine andere Person einsperrt oder auf andere Weise der
@@ -9869,6 +10300,7 @@ erkennen.
 
 
 #### § 233b Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065502123)
 
 In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz
 1 bis 4 und des § 233a kann das Gericht Führungsaufsicht anordnen (§
@@ -9876,6 +10308,7 @@ In den Fällen der §§ 232, 232a Absatz 1 bis 5, der §§ 232b, 233 Absatz
 
 
 #### § 234 Menschenraub
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041604377)
 
 (1) Wer sich einer anderen Person mit Gewalt, durch Drohung mit einem
 empfindlichen Übel oder durch List bemächtigt, um sie in hilfloser
@@ -9888,6 +10321,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 234a Verschleppung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041702307)
 
 (1) Wer einen anderen durch List, Drohung oder Gewalt in ein Gebiet
 außerhalb des räumlichen Geltungsbereichs dieses Gesetzes verbringt
@@ -9908,6 +10342,7 @@ fünf Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 234b Verschwindenlassen von Personen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE069900130)
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer als
 Amtsträger oder im Auftrag oder mit Billigung eines Staates
@@ -9931,6 +10366,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 235 Entziehung Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041803307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -9991,6 +10427,7 @@ hält.
 
 
 #### § 236 Kinderhandel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE041905140)
 
 (1) Wer sein noch nicht achtzehn Jahre altes Kind oder seinen noch
 nicht achtzehn Jahre alten Mündel oder Pflegling unter grober
@@ -10047,6 +10484,7 @@ Ermessen mildern (§ 49 Abs. 2) oder von Strafe nach den Absätzen 1 bis
 
 
 #### § 237 Zwangsheirat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042004360)
 
 (1) Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit
 einem empfindlichen Übel zur Eingehung der Ehe nötigt, wird mit
@@ -10068,6 +10506,7 @@ drei Jahren oder Geldstrafe.
 
 
 #### § 238 Nachstellung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE065602360)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer einer anderen Person in einer Weise unbefugt nachstellt,
@@ -10163,6 +10602,7 @@ Jahren.
 
 
 #### § 239 Freiheitsberaubung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042203307)
 
 (1) Wer einen Menschen einsperrt oder auf andere Weise der Freiheit
 beraubt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
@@ -10193,6 +10633,7 @@ erkennen.
 
 
 #### § 239a Erpresserischer Menschenraub
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042304307)
 
 (1) Wer einen Menschen entführt oder sich eines Menschen bemächtigt,
 um die Sorge des Opfers um sein Wohl oder die Sorge eines Dritten um
@@ -10216,6 +10657,7 @@ erreichen.
 
 
 #### § 239b Geiselnahme
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042404307)
 
 (1) Wer einen Menschen entführt oder sich eines Menschen bemächtigt,
 um ihn oder einen Dritten durch die Drohung mit dem Tod oder einer
@@ -10230,12 +10672,14 @@ bestraft.
 
 
 #### § 239c Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042503307)
 
 In den Fällen der §§ 239a und 239b kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
 
 
 #### § 240 Nötigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042607123)
 
 (1) Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit
 einem empfindlichen Übel zu einer Handlung, Duldung oder Unterlassung
@@ -10262,6 +10706,7 @@ der Regel vor, wenn der Täter
 
 
 #### § 241 Bedrohung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042705360)
 
 (1) Wer einen Menschen mit der Begehung einer gegen ihn oder eine ihm
 nahestehende Person gerichteten rechtswidrigen Tat gegen die sexuelle
@@ -10288,6 +10733,7 @@ Strafantrag sind entsprechend anzuwenden.
 
 
 #### § 241a Politische Verdächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042802307)
 
 (1) Wer einen anderen durch eine Anzeige oder eine Verdächtigung der
 Gefahr aussetzt, aus politischen Gründen verfolgt zu werden und
@@ -10312,10 +10758,12 @@ werden.
 
 
 ### Neunzehnter Abschnitt - Diebstahl und Unterschlagung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005602307)
 
 
 
 #### § 242 Diebstahl
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE042903307)
 
 (1) Wer eine fremde bewegliche Sache einem anderen in der Absicht
 wegnimmt, die Sache sich oder einem Dritten rechtswidrig zuzueignen,
@@ -10326,6 +10774,7 @@ bestraft.
 
 
 #### § 243 Besonders schwerer Fall des Diebstahls
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043004307)
 
 (1) In besonders schweren Fällen wird der Diebstahl mit
 Freiheitsstrafe von drei Monaten bis zu zehn Jahren bestraft. Ein
@@ -10374,6 +10823,7 @@ Sache bezieht.
 
 
 #### § 244 Diebstahl mit Waffen; Bandendiebstahl; Wohnungseinbruchdiebstahl
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043107123)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer
@@ -10415,6 +10865,7 @@ von einem Jahr bis zu zehn Jahren.
 
 
 #### § 244a Schwerer Bandendiebstahl
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064101123)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer den Diebstahl unter den in § 243 Abs. 1 Satz 2 genannten
@@ -10430,12 +10881,14 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 245 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043204307)
 
 In den Fällen der §§ 242 bis 244a kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
 
 
 #### § 246 Unterschlagung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043303307)
 
 (1) Wer eine fremde bewegliche Sache sich oder einem Dritten
 rechtswidrig zueignet, wird mit Freiheitsstrafe bis zu drei Jahren
@@ -10449,6 +10902,7 @@ so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
 #### § 247 Haus- und Familiendiebstahl
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043403307)
 
 Ist durch einen Diebstahl oder eine Unterschlagung ein Angehöriger,
 der Vormund oder der Betreuer verletzt oder lebt der Verletzte mit dem
@@ -10457,11 +10911,13 @@ verfolgt.
 
 
 #### § 248 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043502307)
 
 -
 
 
 #### § 248a Diebstahl und Unterschlagung geringwertiger Sachen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043602307)
 
 Der Diebstahl und die Unterschlagung geringwertiger Sachen werden in
 den Fällen der §§ 242 und 246 nur auf Antrag verfolgt, es sei denn,
@@ -10471,6 +10927,7 @@ geboten hält.
 
 
 #### § 248b Unbefugter Gebrauch eines Fahrzeugs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043702307)
 
 (1) Wer ein Kraftfahrzeug oder ein Fahrrad gegen den Willen des
 Berechtigten in Gebrauch nimmt, wird mit Freiheitsstrafe bis zu drei
@@ -10487,6 +10944,7 @@ als sie nicht an Bahngleise gebunden sind.
 
 
 #### § 248c Entziehung elektrischer Energie
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043803307)
 
 (1) Wer einer elektrischen Anlage oder Einrichtung fremde elektrische
 Energie mittels eines Leiters entzieht, der zur ordnungsmäßigen
@@ -10506,10 +10964,12 @@ auf Antrag verfolgt.
 
 
 ### Zwanzigster Abschnitt - Raub und Erpressung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005702307)
 
 
 
 #### § 249 Raub
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE043903307)
 
 (1) Wer mit Gewalt gegen eine Person oder unter Anwendung von
 Drohungen mit gegenwärtiger Gefahr für Leib oder Leben eine fremde
@@ -10522,6 +10982,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 250 Schwerer Raub
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044003307)
 
 (1) Auf Freiheitsstrafe nicht unter drei Jahren ist zu erkennen, wenn
 
@@ -10577,6 +11038,7 @@ Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
 
 #### § 251 Raub mit Todesfolge
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044103307)
 
 Verursacht der Täter durch den Raub (§§ 249 und 250) wenigstens
 leichtfertig den Tod eines anderen Menschen, so ist die Strafe
@@ -10585,6 +11047,7 @@ Jahren.
 
 
 #### § 252 Räuberischer Diebstahl
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044202307)
 
 Wer, bei einem Diebstahl auf frischer Tat betroffen, gegen eine Person
 Gewalt verübt oder Drohungen mit gegenwärtiger Gefahr für Leib oder
@@ -10593,6 +11056,7 @@ ist gleich einem Räuber zu bestrafen.
 
 
 #### § 253 Erpressung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044304307)
 
 (1) Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit
 einem empfindlichen Übel zu einer Handlung, Duldung oder Unterlassung
@@ -10614,11 +11078,13 @@ sich zur fortgesetzten Begehung einer Erpressung verbunden hat.
 
 
 #### § 254 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044402307)
 
 -
 
 
 #### § 255 Räuberische Erpressung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044502307)
 
 Wird die Erpressung durch Gewalt gegen eine Person oder unter
 Anwendung von Drohungen mit gegenwärtiger Gefahr für Leib oder Leben
@@ -10626,16 +11092,19 @@ begangen, so ist der Täter gleich einem Räuber zu bestrafen.
 
 
 #### § 256 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044605123)
 
 In den Fällen der §§ 249 bis 255 kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
 
 
 ### Einundzwanzigster Abschnitt - Begünstigung und Hehlerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005802307)
 
 
 
 #### § 257 Begünstigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044702307)
 
 (1) Wer einem anderen, der eine rechtswidrige Tat begangen hat, in der
 Absicht Hilfe leistet, ihm die Vorteile der Tat zu sichern, wird mit
@@ -10655,6 +11124,7 @@ Strafverlangen verfolgt werden könnte. § 248a gilt sinngemäß.
 
 
 #### § 258 Strafvereitelung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044802307)
 
 (1) Wer absichtlich oder wissentlich ganz oder zum Teil vereitelt, daß
 ein anderer dem Strafgesetz gemäß wegen einer rechtswidrigen Tat
@@ -10680,6 +11150,7 @@ Strafe oder Maßnahme vollstreckt wird.
 
 
 #### § 258a Strafvereitelung im Amt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE044902307)
 
 (1) Ist in den Fällen des § 258 Abs. 1 der Täter als Amtsträger zur
 Mitwirkung bei dem Strafverfahren oder dem Verfahren zur Anordnung der
@@ -10695,6 +11166,7 @@ drei Jahren oder Geldstrafe.
 
 
 #### § 259 Hehlerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045002307)
 
 (1) Wer eine Sache, die ein anderer gestohlen oder sonst durch eine
 gegen fremdes Vermögen gerichtete rechtswidrige Tat erlangt hat,
@@ -10708,6 +11180,7 @@ mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 260 Gewerbsmäßige Hehlerei; Bandenhehlerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045104123)
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
 bestraft, wer die Hehlerei
@@ -10728,6 +11201,7 @@ begeht.
 
 
 #### § 260a Gewerbsmäßige Bandenhehlerei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058702123)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer die Hehlerei als Mitglied einer Bande, die sich zur
@@ -10741,6 +11215,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 261 Geldwäsche
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE066412360)
 
 (1) Wer einen Gegenstand, der aus einer rechtswidrigen Tat herrührt,
 
@@ -10885,16 +11360,19 @@ gehen einer Einziehung nach § 74 Absatz 2, auch in Verbindung mit den
 
 
 #### § 262 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045304307)
 
 In den Fällen der §§ 259 bis 261 kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
 
 
 ### Zweiundzwanzigster Abschnitt - Betrug und Untreue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG005902307)
 
 
 
 #### § 263 Betrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045406123)
 
 (1) Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen
 Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch
@@ -10949,6 +11427,7 @@ oder 267 bis 269 verbunden hat, gewerbsmäßig begeht.
 
 
 #### § 263a Computerbetrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056206360)
 
 (1) Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen
 Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch
@@ -10980,6 +11459,7 @@ bestraft.
 
 
 #### § 264 Subventionsbetrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045506360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -11088,6 +11568,7 @@ Betrieb oder Unternehmen im Sinne des Satzes 1 Nr. 1 ist auch das
 
 
 #### § 264a Kapitalanlagebetrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056302307)
 
 (1) Wer im Zusammenhang mit
 
@@ -11120,6 +11601,7 @@ verhindern.
 
 
 #### § 265 Versicherungsmißbrauch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045603307)
 
 (1) Wer eine gegen Untergang, Beschädigung, Beeinträchtigung der
 Brauchbarkeit, Verlust oder Diebstahl versicherte Sache beschädigt,
@@ -11133,6 +11615,7 @@ Strafe bedroht ist.
 
 
 #### § 265a Erschleichen von Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045703307)
 
 (1) Wer die Leistung eines Automaten oder eines öffentlichen Zwecken
 dienenden Telekommunikationsnetzes, die Beförderung durch ein
@@ -11148,6 +11631,7 @@ schwererer Strafe bedroht ist.
 
 
 #### § 265b Kreditbetrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045802307)
 
 (1) Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem
 Antrag auf Gewährung, Belassung oder Veränderung der Bedingungen eines
@@ -11203,6 +11687,7 @@ der Leistung zu verhindern.
 
 
 #### § 265c Sportwettbetrug
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068000123)
 
 (1) Wer als Sportler oder Trainer einen Vorteil für sich oder einen
 Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder
@@ -11259,6 +11744,7 @@ den Einsatz oder die Anleitung von Sportlern nehmen können.
 
 
 #### § 265d Manipulation von berufssportlichen Wettbewerben
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068100123)
 
 (1) Wer als Sportler oder Trainer einen Vorteil für sich oder einen
 Dritten als Gegenleistung dafür fordert, sich versprechen lässt oder
@@ -11310,6 +11796,7 @@ jede Sportveranstaltung im Inland oder im Ausland,
 
 
 #### § 265e Besonders schwere Fälle des Sportwettbetrugs und der Manipulation von berufssportlichen Wettbewerben
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068200123)
 
 In besonders schweren Fällen wird eine Tat nach den §§ 265c und 265d
 mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft. Ein
@@ -11326,6 +11813,7 @@ besonders schwerer Fall liegt in der Regel vor, wenn
 
 
 #### § 266 Untreue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE045903307)
 
 (1) Wer die ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft
 eingeräumte Befugnis, über fremdes Vermögen zu verfügen oder einen
@@ -11341,6 +11829,7 @@ entsprechend.
 
 
 #### § 266a Vorenthalten und Veruntreuen von Arbeitsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056405123)
 
 (1) Wer als Arbeitgeber der Einzugsstelle Beiträge des Arbeitnehmers
 zur Sozialversicherung einschließlich der Arbeitsförderung, unabhängig
@@ -11426,6 +11915,7 @@ In den Fällen des Absatzes 3 gelten die Sätze 1 und 2 entsprechend.
 
 
 #### § 266b Mißbrauch von Scheck- und Kreditkarten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056502307)
 
 (1) Wer die ihm durch die Überlassung einer Scheckkarte oder einer
 Kreditkarte eingeräumte Möglichkeit, den Aussteller zu einer Zahlung
@@ -11436,10 +11926,12 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 
 ### Dreiundzwanzigster Abschnitt - Urkundenfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006002307)
 
 
 
 #### § 267 Urkundenfälschung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046004308)
 
 (1) Wer zur Täuschung im Rechtsverkehr eine unechte Urkunde herstellt,
 eine echte Urkunde verfälscht oder eine unechte oder verfälschte
@@ -11478,6 +11970,7 @@ Bande, die sich zur fortgesetzten Begehung von Straftaten nach den §§
 
 
 #### § 268 Fälschung technischer Aufzeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046103307)
 
 (1) Wer zur Täuschung im Rechtsverkehr
 
@@ -11510,6 +12003,7 @@ Aufzeichnungsvorgang das Ergebnis der Aufzeichnung beeinflußt.
 
 
 #### § 269 Fälschung beweiserheblicher Daten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046204307)
 
 (1) Wer zur Täuschung im Rechtsverkehr beweiserhebliche Daten so
 speichert oder verändert, daß bei ihrer Wahrnehmung eine unechte oder
@@ -11523,12 +12017,14 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 270 Täuschung im Rechtsverkehr bei Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046303307)
 
 Der Täuschung im Rechtsverkehr steht die fälschliche Beeinflussung
 einer Datenverarbeitung im Rechtsverkehr gleich.
 
 
 #### § 271 Mittelbare Falschbeurkundung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046404307)
 
 (1) Wer bewirkt, daß Erklärungen, Verhandlungen oder Tatsachen, welche
 für Rechte oder Rechtsverhältnisse von Erheblichkeit sind, in
@@ -11551,11 +12047,13 @@ ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 
 #### § 272 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046503307)
 
 -
 
 
 #### § 273 Verändern von amtlichen Ausweisen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046604307)
 
 (1) Wer zur Täuschung im Rechtsverkehr
 
@@ -11576,6 +12074,7 @@ ist.
 
 
 #### § 274 Urkundenunterdrückung; Veränderung einer Grenzbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046703307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -11603,6 +12102,7 @@ bestraft, wer
 
 
 #### § 275 Vorbereitung der Fälschung von amtlichen Ausweisen; Vorbereitung der Herstellung von unrichtigen Impfausweisen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046805360)
 
 (1) Wer eine Fälschung von amtlichen Ausweisen vorbereitet, indem er
 
@@ -11642,6 +12142,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 276 Verschaffen von falschen amtlichen Ausweisen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE046904307)
 
 (1) Wer einen unechten oder verfälschten amtlichen Ausweis oder einen
 amtlichen Ausweis, der eine falsche Beurkundung der in den §§ 271 und
@@ -11666,6 +12167,7 @@ Jahren.
 
 
 #### § 276a Aufenthaltsrechtliche Papiere; Fahrzeugpapiere
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060703377)
 
 Die §§ 275 und 276 gelten auch für aufenthaltsrechtliche Papiere,
 namentlich Aufenthaltstitel und Duldungen, sowie für Fahrzeugpapiere,
@@ -11673,6 +12175,7 @@ namentlich Fahrzeugscheine und Fahrzeugbriefe.
 
 
 #### § 277 Unbefugtes Ausstellen von Gesundheitszeugnissen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047003360)
 
 (1) Wer zur Täuschung im Rechtsverkehr unter der ihm nicht zustehenden
 Bezeichnung als Arzt oder als eine andere approbierte Medizinalperson
@@ -11691,6 +12194,7 @@ ausstellt.
 
 
 #### § 278 Ausstellen unrichtiger Gesundheitszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047103360)
 
 (1) Wer zur Täuschung im Rechtsverkehr als Arzt oder andere
 approbierte Medizinalperson ein unrichtiges Zeugnis über den
@@ -11707,6 +12211,7 @@ ausstellt.
 
 
 #### § 279 Gebrauch unrichtiger Gesundheitszeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047203360)
 
 Wer zur Täuschung im Rechtsverkehr von einem Gesundheitszeugnis der in
 den §§ 277 und 278 bezeichneten Art Gebrauch macht, wird mit
@@ -11716,11 +12221,13 @@ Strafe bedroht ist.
 
 
 #### § 280 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047302307)
 
 -
 
 
 #### § 281 Mißbrauch von Ausweispapieren
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047403360)
 
 (1) Wer ein Ausweispapier, das für einen anderen ausgestellt ist, zur
 Täuschung im Rechtsverkehr gebraucht, oder wer zur Täuschung im
@@ -11734,6 +12241,7 @@ verwendet werden.
 
 
 #### § 282 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047505123)
 
 Gegenstände, auf die sich eine Straftat nach § 267, § 268, § 271 Abs.
 2 und 3, § 273 oder § 276, dieser auch in Verbindung mit § 276a, oder
@@ -11743,10 +12251,12 @@ Fälschungsmittel eingezogen.
 
 
 ### Vierundzwanzigster Abschnitt - Insolvenzstraftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006103307)
 
 
 
 #### § 283 Bankrott
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047603307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer bei Überschuldung oder bei drohender oder eingetretener
@@ -11850,6 +12360,7 @@ ist.
 
 
 #### § 283a Besonders schwerer Fall des Bankrotts
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047702307)
 
 In besonders schweren Fällen des § 283 Abs. 1 bis 3 wird der Bankrott
 mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft. Ein
@@ -11866,6 +12377,7 @@ besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 #### § 283b Verletzung der Buchführungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047802307)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -11905,6 +12417,7 @@ bestraft.
 
 
 #### § 283c Gläubigerbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE047902307)
 
 (1) Wer in Kenntnis seiner Zahlungsunfähigkeit einem Gläubiger eine
 Sicherheit oder Befriedigung gewährt, die dieser nicht oder nicht in
@@ -11919,6 +12432,7 @@ bestraft.
 
 
 #### § 283d Schuldnerbegünstigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE048003307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -11961,10 +12475,12 @@ ist.
 
 
 ### Fünfundzwanzigster Abschnitt - Strafbarer Eigennutz
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006202307)
 
 
 
 #### § 284 Unerlaubte Veranstaltung eines Glücksspiels
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE048104307)
 
 (1) Wer ohne behördliche Erlaubnis öffentlich ein Glücksspiel
 veranstaltet oder hält oder die Einrichtungen hierzu bereitstellt,
@@ -11992,6 +12508,7 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 285 Beteiligung am unerlaubten Glücksspiel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062801307)
 
 Wer sich an einem öffentlichen Glücksspiel (§ 284) beteiligt, wird mit
 Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu
@@ -11999,6 +12516,7 @@ einhundertachtzig Tagessätzen bestraft.
 
 
 #### § 286 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE062902123)
 
 In den Fällen der §§ 284 und 285 werden die Spieleinrichtungen und das
 auf dem Spieltisch oder in der Bank vorgefundene Geld eingezogen, wenn
@@ -12008,6 +12526,7 @@ anzuwenden.
 
 
 #### § 287 Unerlaubte Veranstaltung einer Lotterie oder einer Ausspielung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE048603307)
 
 (1) Wer ohne behördliche Erlaubnis öffentliche Lotterien oder
 Ausspielungen beweglicher oder unbeweglicher Sachen veranstaltet,
@@ -12022,6 +12541,7 @@ bestraft.
 
 
 #### § 288 Vereiteln der Zwangsvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE048802307)
 
 (1) Wer bei einer ihm drohenden Zwangsvollstreckung in der Absicht,
 die Befriedigung des Gläubigers zu vereiteln, Bestandteile seines
@@ -12032,6 +12552,7 @@ bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 289 Pfandkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE048902307)
 
 (1) Wer seine eigene bewegliche Sache oder eine fremde bewegliche
 Sache zugunsten des Eigentümers derselben dem Nutznießer,
@@ -12046,6 +12567,7 @@ Geldstrafe bestraft.
 
 
 #### § 290 Unbefugter Gebrauch von Pfandsachen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049002307)
 
 Öffentliche Pfandleiher, welche die von ihnen in Pfand genommenen
 Gegenstände unbefugt in Gebrauch nehmen, werden mit Freiheitsstrafe
@@ -12053,6 +12575,7 @@ bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 291 Wucher
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060901307)
 
 (1) Wer die Zwangslage, die Unerfahrenheit, den Mangel an
 Urteilsvermögen oder die erhebliche Willensschwäche eines anderen
@@ -12099,6 +12622,7 @@ der Regel vor, wenn der Täter
 
 
 #### § 292 Jagdwilderei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049204360)
 
 (1) Wer unter Verletzung fremden Jagdrechts oder Jagdausübungsrechts
 
@@ -12139,6 +12663,7 @@ für befriedet erklärten Grundflächen.
 
 
 #### § 293 Fischwilderei
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049303307)
 
 Wer unter Verletzung fremden Fischereirechts oder
 Fischereiausübungsrechts
@@ -12156,6 +12681,7 @@ bestraft.
 
 
 #### § 294 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049403307)
 
 In den Fällen des § 292 Abs. 1 und des § 293 wird die Tat nur auf
 Antrag des Verletzten verfolgt, wenn sie von einem Angehörigen oder an
@@ -12164,6 +12690,7 @@ Fischerei in beschränktem Umfang ausüben durfte.
 
 
 #### § 295 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049502307)
 
 Jagd- und Fischereigeräte, Hunde und andere Tiere, die der Täter oder
 Teilnehmer bei der Tat mit sich geführt oder verwendet hat, können
@@ -12171,11 +12698,13 @@ eingezogen werden. § 74a ist anzuwenden.
 
 
 #### § 296 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049602307)
 
 -
 
 
 #### § 297 Gefährdung von Schiffen, Kraft- und Luftfahrzeugen durch Bannware
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE049804123)
 
 (1) Wer ohne Wissen des Reeders oder des Schiffsführers oder als
 Schiffsführer ohne Wissen des Reeders eine Sache an Bord eines
@@ -12207,10 +12736,12 @@ des Kraft- oder Luftfahrzeuges.
 
 
 ### Sechsundzwanzigster Abschnitt - Straftaten gegen den Wettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006801307)
 
 
 
 #### § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061002308)
 
 (1) Wer bei einer Ausschreibung über Waren oder Dienstleistungen ein
 Angebot abgibt, das auf einer rechtswidrigen Absprache beruht, die
@@ -12232,6 +12763,7 @@ Erbringen der Leistung zu verhindern.
 
 
 #### § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061103308)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird
 bestraft, wer im geschäftlichen Verkehr als Angestellter oder
@@ -12272,6 +12804,7 @@ Angestellten oder Beauftragten eines Unternehmens
 
 
 #### § 299a Bestechlichkeit im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067400123)
 
 Wer als Angehöriger eines Heilberufs, der für die Berufsausübung oder
 die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung
@@ -12299,6 +12832,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 299b Bestechung im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067500123)
 
 Wer einem Angehörigen eines Heilberufs im Sinne des § 299a im
 Zusammenhang mit dessen Berufsausübung einen Vorteil für diesen oder
@@ -12325,6 +12859,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 300 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr und im Gesundheitswesen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061202123)
 
 In besonders schweren Fällen wird eine Tat nach den §§ 299, 299a und
 299b mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
@@ -12341,6 +12876,7 @@ Ein besonders schwerer Fall liegt in der Regel vor, wenn
 
 
 #### § 301 Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061303308)
 
 (1) Die Bestechlichkeit und Bestechung im geschäftlichen Verkehr nach
 § 299 wird nur auf Antrag verfolgt, es sei denn, daß die
@@ -12355,13 +12891,16 @@ den unlauteren Wettbewerb bezeichneten Verbände und Kammern.
 
 
 #### § 302 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061404123)
 
 
 ### Siebenundzwanzigster Abschnitt - Sachbeschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006303307)
 
 
 
 #### § 303 Sachbeschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE050505377)
 
 (1) Wer rechtswidrig eine fremde Sache beschädigt oder zerstört, wird
 mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
@@ -12374,6 +12913,7 @@ verändert.
 
 
 #### § 303a Datenveränderung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056603377)
 
 (1) Wer rechtswidrig Daten (§ 202a Abs. 2) löscht, unterdrückt,
 unbrauchbar macht oder verändert, wird mit Freiheitsstrafe bis zu zwei
@@ -12386,6 +12926,7 @@ entsprechend.
 
 
 #### § 303b Computersabotage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056703377)
 
 (1) Wer eine Datenverarbeitung, die für einen anderen von wesentlicher
 Bedeutung ist, dadurch erheblich stört, dass er
@@ -12435,6 +12976,7 @@ entsprechend.
 
 
 #### § 303c Strafantrag
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056803377)
 
 In den Fällen der §§ 303, 303a Abs. 1 und 2 sowie § 303b Abs. 1 bis 3
 wird die Tat nur auf Antrag verfolgt, es sei denn, daß die
@@ -12444,6 +12986,7 @@ hält.
 
 
 #### § 304 Gemeinschädliche Sachbeschädigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE050603377)
 
 (1) Wer rechtswidrig Gegenstände der Verehrung einer im Staat
 bestehenden Religionsgesellschaft oder Sachen, die dem Gottesdienst
@@ -12463,6 +13006,7 @@ nicht nur unerheblich und nicht nur vorübergehend verändert.
 
 
 #### § 305 Zerstörung von Bauwerken
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE050702307)
 
 (1) Wer rechtswidrig ein Gebäude, ein Schiff, eine Brücke, einen Damm,
 eine gebaute Straße, eine Eisenbahn oder ein anderes Bauwerk, welche
@@ -12473,6 +13017,7 @@ Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 305a Zerstörung wichtiger Arbeitsmittel
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE059103360)
 
 (1) Wer rechtswidrig
 
@@ -12500,10 +13045,12 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 ### Achtundzwanzigster Abschnitt - Gemeingefährliche Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006403307)
 
 
 
 #### § 306 Brandstiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE050803307)
 
 (1) Wer fremde
 
@@ -12535,6 +13082,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 306a Schwere Brandstiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063001307)
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -12564,6 +13112,7 @@ Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
 
 #### § 306b Besonders schwere Brandstiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063101307)
 
 (1) Wer durch eine Brandstiftung nach § 306 oder § 306a eine schwere
 Gesundheitsschädigung eines anderen Menschen oder eine
@@ -12587,6 +13136,7 @@ der Täter in den Fällen des § 306a
 
 
 #### § 306c Brandstiftung mit Todesfolge
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063201307)
 
 Verursacht der Täter durch eine Brandstiftung nach den §§ 306 bis 306b
 wenigstens leichtfertig den Tod eines anderen Menschen, so ist die
@@ -12595,6 +13145,7 @@ zehn Jahren.
 
 
 #### § 306d Fahrlässige Brandstiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063301307)
 
 (1) Wer in den Fällen des § 306 Abs. 1 oder des § 306a Abs. 1
 fahrlässig handelt oder in den Fällen des § 306a Abs. 2 die Gefahr
@@ -12607,6 +13158,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 306e Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063401307)
 
 (1) Das Gericht kann in den Fällen der §§ 306, 306a und 306b die
 Strafe nach seinem Ermessen mildern (§ 49 Abs. 2) oder von Strafe nach
@@ -12622,6 +13174,7 @@ ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 #### § 306f Herbeiführen einer Brandgefahr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063501307)
 
 (1) Wer fremde
 
@@ -12655,6 +13208,7 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 307 Herbeiführen einer Explosion durch Kernenergie
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE050903307)
 
 (1) Wer es unternimmt, durch Freisetzen von Kernenergie eine Explosion
 herbeizuführen und dadurch Leib oder Leben eines anderen Menschen oder
@@ -12684,6 +13238,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 308 Herbeiführen einer Sprengstoffexplosion
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051003307)
 
 (1) Wer anders als durch Freisetzen von Kernenergie, namentlich durch
 Sprengstoff, eine Explosion herbeiführt und dadurch Leib oder Leben
@@ -12714,6 +13269,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 309 Mißbrauch ionisierender Strahlen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051105123)
 
 (1) Wer in der Absicht, die Gesundheit eines anderen Menschen zu
 schädigen, es unternimmt, ihn einer ionisierenden Strahlung
@@ -12761,6 +13317,7 @@ Versuch ist strafbar.
 
 
 #### § 310 Vorbereitung eines Explosions- oder Strahlungsverbrechens
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051204377)
 
 (1) Wer zur Vorbereitung
 
@@ -12795,6 +13352,7 @@ Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
 
 #### § 311 Freisetzen ionisierender Strahlen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE051504360)
 
 (1) Wer unter Verletzung verwaltungsrechtlicher Pflichten (§ 330d
 Absatz 1 Nummer 4, 5, Absatz 2)
@@ -12832,6 +13390,7 @@ bestraft.
 
 
 #### § 312 Fehlerhafte Herstellung einer kerntechnischen Anlage
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052103307)
 
 (1) Wer eine kerntechnische Anlage (§ 330d Nr. 2) oder Gegenstände,
 die zur Errichtung oder zum Betrieb einer solchen Anlage bestimmt
@@ -12871,6 +13430,7 @@ bestraft.
 
 
 #### § 313 Herbeiführen einer Überschwemmung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052203307)
 
 (1) Wer eine Überschwemmung herbeiführt und dadurch Leib oder Leben
 eines anderen Menschen oder fremde Sachen von bedeutendem Wert
@@ -12881,6 +13441,7 @@ bestraft.
 
 
 #### § 314 Gemeingefährliche Vergiftung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052303307)
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
 bestraft, wer
@@ -12903,6 +13464,7 @@ Verkehr bringt.
 
 
 #### § 314a Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063601307)
 
 (1) Das Gericht kann die Strafe in den Fällen des § 307 Abs. 1 und des
 § 309 Abs. 2 nach seinem Ermessen mildern (§ 49 Abs. 2), wenn der
@@ -12981,6 +13543,7 @@ freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 #### § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052403307)
 
 (1) Wer die Sicherheit des Schienenbahn-, Schwebebahn-, Schiffs- oder
 Luftverkehrs dadurch beeinträchtigt, daß er
@@ -13040,6 +13603,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 315a Gefährdung des Bahn-, Schiffs- und Luftverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052503307)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -13077,6 +13641,7 @@ bestraft.
 
 
 #### § 315b Gefährliche Eingriffe in den Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052603307)
 
 (1) Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß
 er
@@ -13112,6 +13677,7 @@ oder mit Geldstrafe bestraft.
 
 
 #### § 315c Gefährdung des Straßenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052704307)
 
 (1) Wer im Straßenverkehr
 
@@ -13181,6 +13747,7 @@ bestraft.
 
 
 #### § 315d Verbotene Kraftfahrzeugrennen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068700123)
 
 (1) Wer im Straßenverkehr
 
@@ -13220,6 +13787,7 @@ Jahren.
 
 
 #### § 315e Schienenbahnen im Straßenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052803123)
 
 Soweit Schienenbahnen am Straßenverkehr teilnehmen, sind nur die
 Vorschriften zum Schutz des Straßenverkehrs (§§ 315b und 315c)
@@ -13227,6 +13795,7 @@ anzuwenden.
 
 
 #### § 315f Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE068800123)
 
 Kraftfahrzeuge, auf die sich eine Tat nach § 315d Absatz 1 Nummer 2
 oder Nummer 3, Absatz 2, 4 oder 5 bezieht, können eingezogen werden. §
@@ -13234,6 +13803,7 @@ oder Nummer 3, Absatz 2, 4 oder 5 bezieht, können eingezogen werden. §
 
 
 #### § 316 Trunkenheit im Verkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE052903123)
 
 (1) Wer im Verkehr (§§ 315 bis 315e) ein Fahrzeug führt, obwohl er
 infolge des Genusses alkoholischer Getränke oder anderer berauschender
@@ -13245,6 +13815,7 @@ die Tat nicht in § 315a oder § 315c mit Strafe bedroht ist.
 
 
 #### § 316a Räuberischer Angriff auf Kraftfahrer
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053003307)
 
 (1) Wer zur Begehung eines Raubes (§§ 249 oder 250), eines
 räuberischen Diebstahls (§ 252) oder einer räuberischen Erpressung (§
@@ -13262,6 +13833,7 @@ oder Freiheitsstrafe nicht unter zehn Jahren.
 
 
 #### § 316b Störung öffentlicher Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053104307)
 
 (1) Wer den Betrieb
 
@@ -13294,6 +13866,7 @@ Licht, Wärme oder Kraft, beeinträchtigt.
 
 
 #### § 316c Angriffe auf den Luft- und Seeverkehr
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053204307)
 
 (1) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer
 
@@ -13340,6 +13913,7 @@ Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
 
 #### § 317 Störung von Telekommunikationsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053303307)
 
 (1) Wer den Betrieb einer öffentlichen Zwecken dienenden
 Telekommunikationsanlage dadurch verhindert oder gefährdet, daß er
@@ -13355,6 +13929,7 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 318 Beschädigung wichtiger Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053403307)
 
 (1) Wer Wasserleitungen, Schleusen, Wehre, Deiche, Dämme oder andere
 Wasserbauten oder Brücken, Fähren, Wege oder Schutzwehre oder dem
@@ -13393,6 +13968,7 @@ bestraft.
 
 
 #### § 319 Baugefährdung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063701307)
 
 (1) Wer bei der Planung, Leitung oder Ausführung eines Baues oder des
 Abbruchs eines Bauwerks gegen die allgemein anerkannten Regeln der
@@ -13416,6 +13992,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 320 Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053603307)
 
 (1) Das Gericht kann die Strafe in den Fällen des § 316c Abs. 1 nach
 seinem Ermessen mildern (§ 49 Abs. 2), wenn der Täter freiwillig die
@@ -13476,6 +14053,7 @@ erreichen.
 
 
 #### § 321 Führungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053704307)
 
 In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs.
 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs.
@@ -13483,6 +14061,7 @@ In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs.
 
 
 #### § 322 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053804307)
 
 Ist eine Straftat nach den §§ 306 bis 306c, 307 bis 314 oder 316c
 begangen worden, so können
@@ -13500,11 +14079,13 @@ eingezogen werden.
 
 
 #### § 323 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE053903307)
 
 -
 
 
 #### § 323a Vollrausch
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054002307)
 
 (1) Wer sich vorsätzlich oder fahrlässig durch alkoholische Getränke
 oder andere berauschende Mittel in einen Rausch versetzt, wird mit
@@ -13522,6 +14103,7 @@ Ermächtigung oder auf Strafverlangen verfolgt werden könnte.
 
 
 #### § 323b Gefährdung einer Entziehungskur
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054102307)
 
 Wer wissentlich einem anderen, der auf Grund behördlicher Anordnung
 oder ohne seine Einwilligung zu einer Entziehungskur in einer Anstalt
@@ -13533,6 +14115,7 @@ bestraft.
 
 
 #### § 323c Unterlassene Hilfeleistung; Behinderung von hilfeleistenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054203123)
 
 (1) Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe
 leistet, obwohl dies erforderlich und ihm den Umständen nach
@@ -13545,10 +14128,12 @@ behindert, die einem Dritten Hilfe leistet oder leisten will.
 
 
 ### Neunundzwanzigster Abschnitt - Straftaten gegen die Umwelt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006503307)
 
 
 
 #### § 324 Gewässerverunreinigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054303307)
 
 (1) Wer unbefugt ein Gewässer verunreinigt oder sonst dessen
 Eigenschaften nachteilig verändert, wird mit Freiheitsstrafe bis zu
@@ -13561,6 +14146,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 324a Bodenverunreinigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060401307)
 
 (1) Wer unter Verletzung verwaltungsrechtlicher Pflichten Stoffe in
 den Boden einbringt, eindringen läßt oder freisetzt und diesen dadurch
@@ -13584,6 +14170,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 325 Luftverunreinigung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054404360)
 
 (1) Wer beim Betrieb einer Anlage, insbesondere einer Betriebsstätte
 oder Maschine, unter Verletzung verwaltungsrechtlicher Pflichten
@@ -13628,6 +14215,7 @@ Kraftfahrzeuge, Schienen-, Luft- oder Wasserfahrzeuge.
 
 
 #### § 325a Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060501307)
 
 (1) Wer beim Betrieb einer Anlage, insbesondere einer Betriebsstätte
 oder Maschine, unter Verletzung verwaltungsrechtlicher Pflichten Lärm
@@ -13659,6 +14247,7 @@ Luft- oder Wasserfahrzeuge.
 
 
 #### § 326 Unerlaubter Umgang mit Abfällen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE063904123)
 
 (1) Wer unbefugt Abfälle, die
 
@@ -13722,6 +14311,7 @@ offensichtlich ausgeschlossen sind.
 
 
 #### § 327 Unerlaubtes Betreiben von Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054609377)
 
 (1) Wer ohne die erforderliche Genehmigung oder entgegen einer
 vollziehbaren Untersagung
@@ -13788,6 +14378,7 @@ Gewässern, der Luft oder dem Boden herbeizuführen.
 
 
 #### § 328 Unerlaubter Umgang mit radioaktiven Stoffen und anderen gefährlichen Stoffen und Gütern
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054705360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft,
@@ -13860,6 +14451,7 @@ bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 329 Gefährdung schutzbedürftiger Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE054805308)
 
 (1) Wer entgegen einer auf Grund des Bundes-Immissionsschutzgesetzes
 erlassenen Rechtsverordnung über ein Gebiet, das eines besonderen
@@ -13974,6 +14566,7 @@ ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 #### § 330 Besonders schwerer Fall einer Umweltstraftat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064002360)
 
 (1) In besonders schweren Fällen wird eine vorsätzliche Tat nach den
 §§ 324 bis 329 mit Freiheitsstrafe von sechs Monaten bis zu zehn
@@ -14021,6 +14614,7 @@ Jahr bis zu zehn Jahren zu erkennen.
 
 
 #### § 330a Schwere Gefährdung durch Freisetzen von Giften
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055004307)
 
 (1) Wer Stoffe, die Gifte enthalten oder hervorbringen können,
 verbreitet oder freisetzt und dadurch die Gefahr des Todes oder einer
@@ -14046,6 +14640,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 330b Tätige Reue
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055105307)
 
 (1) Das Gericht kann in den Fällen des § 325a Abs. 2, des § 326 Abs. 1
 bis 3, des § 328 Abs. 1 bis 3 und des § 330a Abs. 1, 3 und 4 die
@@ -14062,6 +14657,7 @@ freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
 
 #### § 330c Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE064201360)
 
 Ist eine Straftat nach den §§ 326, 327 Abs. 1 oder 2, §§ 328, 329
 Absatz 1, 2 oder Absatz 3, dieser auch in Verbindung mit Absatz 5,
@@ -14080,6 +14676,7 @@ eingezogen werden. § 74a ist anzuwenden.
 
 
 #### § 330d Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055304360)
 
 (1) Im Sinne dieses Abschnitts ist
 
@@ -14179,10 +14776,12 @@ dient.
 
 
 ### Dreißigster Abschnitt - Straftaten im Amt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNG006603307)
 
 
 
 #### § 331 Vorteilsannahme
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055404308)
 
 (1) Ein Amtsträger, ein Europäischer Amtsträger oder ein für den
 öffentlichen Dienst besonders Verpflichteter, der für die
@@ -14205,6 +14804,7 @@ Anzeige erstattet und sie die Annahme genehmigt.
 
 
 #### § 332 Bestechlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055504308)
 
 (1) Ein Amtsträger, ein Europäischer Amtsträger oder ein für den
 öffentlichen Dienst besonders Verpflichteter, der einen Vorteil für
@@ -14241,6 +14841,7 @@ gegenüber bereit gezeigt hat,
 
 
 #### § 333 Vorteilsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055604308)
 
 (1) Wer einem Amtsträger, einem Europäischen Amtsträger, einem für den
 öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der
@@ -14261,6 +14862,7 @@ Anzeige des Empfängers genehmigt.
 
 
 #### § 334 Bestechung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE055704308)
 
 (1) Wer einem Amtsträger, einem Europäischen Amtsträger, einem für den
 öffentlichen Dienst besonders Verpflichteten oder einem Soldaten der
@@ -14306,6 +14908,7 @@ daß dieser
 
 
 #### § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061501307)
 
 (1) In besonders schweren Fällen wird
 
@@ -14347,6 +14950,7 @@ Regel vor, wenn
 
 
 #### § 335a Ausländische und internationale Bedienstete
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE067201360)
 
 (1) Für die Anwendung des § 331 Absatz 2 und des § 333 Absatz 2 sowie
 der §§ 332 und 334, diese jeweils auch in Verbindung mit § 335, auf
@@ -14422,12 +15026,14 @@ auf eine künftige Diensthandlung bezieht, stehen gleich:
 
 
 #### § 336 Unterlassen der Diensthandlung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061602308)
 
 Der Vornahme einer Diensthandlung oder einer richterlichen Handlung im
 Sinne der §§ 331 bis 335a steht das Unterlassen der Handlung gleich.
 
 
 #### § 337 Schiedsrichtervergütung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061701307)
 
 Die Vergütung eines Schiedsrichters ist nur dann ein Vorteil im Sinne
 der §§ 331 bis 335, wenn der Schiedsrichter sie von einer Partei
@@ -14437,9 +15043,11 @@ anbietet, verspricht oder gewährt.
 
 
 #### § 338 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061803123)
 
 
 #### § 339 Rechtsbeugung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE061901307)
 
 Ein Richter, ein anderer Amtsträger oder ein Schiedsrichter, welcher
 sich bei der Leitung oder Entscheidung einer Rechtssache zugunsten
@@ -14449,6 +15057,7 @@ bestraft.
 
 
 #### § 340 Körperverletzung im Amt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE059604307)
 
 (1) Ein Amtsträger, der während der Ausübung seines Dienstes oder in
 Beziehung auf seinen Dienst eine Körperverletzung begeht oder begehen
@@ -14463,10 +15072,12 @@ entsprechend.
 
 
 #### (XXXX) §§ 341 und 342 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE059702307)
 
 
 
 #### § 343 Aussageerpressung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE059802307)
 
 (1) Wer als Amtsträger, der zur Mitwirkung an
 
@@ -14493,6 +15104,7 @@ Monaten bis zu fünf Jahren.
 
 
 #### § 344 Verfolgung Unschuldiger
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE060002307)
 
 (1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren,
 abgesehen von dem Verfahren zur Anordnung einer nicht
@@ -14526,6 +15138,7 @@ berufen ist. Der Versuch ist strafbar.
 
 
 #### § 345 Vollstreckung gegen Unschuldige
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE056902307)
 
 (1) Wer als Amtsträger, der zur Mitwirkung bei der Vollstreckung einer
 Freiheitsstrafe, einer freiheitsentziehenden Maßregel der Besserung
@@ -14565,10 +15178,12 @@ Gesetz nicht vollstreckt werden darf. Der Versuch ist strafbar.
 
 
 #### (XXXX) §§ 346 und 347 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057002307)
 
 
 
 #### § 348 Falschbeurkundung im Amt
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057203307)
 
 (1) Ein Amtsträger, der, zur Aufnahme öffentlicher Urkunden befugt,
 innerhalb seiner Zuständigkeit eine rechtlich erhebliche Tatsache
@@ -14580,10 +15195,12 @@ Jahren oder mit Geldstrafe bestraft.
 
 
 #### (XXXX) §§ 349 bis 351 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057302307)
 
 
 
 #### § 352 Gebührenüberhebung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057602307)
 
 (1) Ein Amtsträger, Anwalt oder sonstiger Rechtsbeistand, welcher
 Gebühren oder andere Vergütungen für amtliche Verrichtungen zu seinem
@@ -14596,6 +15213,7 @@ Jahr oder mit Geldstrafe bestraft.
 
 
 #### § 353 Abgabenüberhebung; Leistungskürzung
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057702307)
 
 (1) Ein Amtsträger, der Steuern, Gebühren oder andere Abgaben für eine
 öffentliche Kasse zu erheben hat, wird, wenn er Abgaben, von denen er
@@ -14610,6 +15228,7 @@ Ausgaben als vollständig geleistet in Rechnung stellt.
 
 
 #### § 353a Vertrauensbruch im auswärtigen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057802307)
 
 (1) Wer bei der Vertretung der Bundesrepublik Deutschland gegenüber
 einer fremden Regierung, einer Staatengemeinschaft oder einer
@@ -14622,6 +15241,7 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 
 #### § 353b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE057904125)
 
 (1) Wer ein Geheimnis, das ihm als
 
@@ -14717,11 +15337,13 @@ zudem ein Strafverlangen der Dienststelle vorliegt.
 
 
 #### § 353c (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058002307)
 
 -
 
 
 #### § 353d Verbotene Mitteilungen über Gerichtsverhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058103123)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -14749,11 +15371,13 @@ bestraft, wer
 
 
 #### § 354 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058204307)
 
 -
 
 
 #### § 355 Verletzung des Steuergeheimnisses
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058305360)
 
 (1) Wer unbefugt
 
@@ -14815,6 +15439,7 @@ Verletzten antragsberechtigt.
 
 
 #### § 356 Parteiverrat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058402307)
 
 (1) Ein Anwalt oder ein anderer Rechtsbeistand, welcher bei den ihm in
 dieser Eigenschaft anvertrauten Angelegenheiten in derselben
@@ -14828,6 +15453,7 @@ fünf Jahren ein.
 
 
 #### § 357 Verleitung eines Untergebenen zu einer Straftat
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058502307)
 
 (1) Ein Vorgesetzter, welcher seine Untergebenen zu einer
 rechtswidrigen Tat im Amt verleitet oder zu verleiten unternimmt oder
@@ -14842,6 +15468,7 @@ Geschäfte betrifft.
 
 
 #### § 358 Nebenfolgen
+[Direktlink](https://www.gesetze-im-internet.de/stgb/BJNR001270871.html#BJNR001270871BJNE058604307)
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
 Straftat nach den §§ 332, 335, 339, 340, 343, 344, 345 Abs. 1 und 3,

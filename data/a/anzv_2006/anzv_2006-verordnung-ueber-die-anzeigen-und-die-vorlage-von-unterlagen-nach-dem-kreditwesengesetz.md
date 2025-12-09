@@ -28,6 +28,7 @@ Kreditinstituten (Neufassung) (ABl. EU Nr. L 177 S. 201).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000100000)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet
 
@@ -55,6 +56,7 @@ S. 3187) geändert worden ist:
 
 
 ## § 1 Einreichungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000205128)
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Kreditwesengesetz zu
 erstatten oder vorzulegen sind und durch diese Verordnung näher
@@ -101,6 +103,7 @@ auf ihrer jeweiligen Internetseite.
 
 
 ## § 2 Rechtsträgerkennung
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000303118)
 
 (1) Zur Identifizierung im Meldewesen benötigen die folgenden
 Unternehmen eine Rechtsträgerkennung:
@@ -157,6 +160,7 @@ Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
 
 ## § 3 Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes (Wesentliche Auslagerungen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000403130)
 
 (1) Anzeigen nach § 24 Absatz 1 Nummer 19 des Kreditwesengesetzes über
 die Absicht und den Vollzug einer wesentlichen Auslagerung müssen
@@ -413,6 +417,7 @@ einzureichen bei
 
 
 ## § 4 Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000501118)
 
 (1) Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des
 Kreditwesengesetzes müssen enthalten:
@@ -448,6 +453,7 @@ Kreditwesengesetzes anzuzeigen, wenn
 
 
 ## § 5 Anzeigen nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes (Bestellung von Personen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000602118)
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 1 des Kreditwesengesetzes
 über die Absicht, einen Geschäftsleiter zu bestellen und eine Person
@@ -503,6 +509,7 @@ Unterlagen nach seinem Kenntnisstand richtig sind.
 
 
 ## § 5a Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002701128)
 
 (1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach §
 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des
@@ -554,6 +561,7 @@ ausgeübt wurden, beizufügen.
 
 
 ## § 5b Erklärungen der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Personen und des anzeigenden Instituts
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002801118)
 
 (1) Ein Institut, bei dem die Bundesanstalt Aufsichtsbehörde ist, hat
 den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24
@@ -681,6 +689,7 @@ Person auszufüllen“ nach Anlage 11 beizufügen.
 
 
 ## § 5c Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002901128)
 
 (1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
 nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer
@@ -722,6 +731,7 @@ Unterlagen in englischer Sprache verzichten.
 
 
 ## § 5d Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003001128)
 
 (1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung
 nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer
@@ -740,6 +750,7 @@ Registerauszuges.
 
 
 ## § 5e Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003101118)
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 2 des Kreditwesengesetzes
 haben
@@ -777,6 +788,7 @@ Ausscheiden anzugeben.
 
 
 ## § 5f Geschäftsleiter-Vertreter im Verhinderungsfall
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003200118)
 
 Die Bestimmungen nach den §§ 5 bis 5e gelten auch für die Bestellung
 und das Ausscheiden eines Geschäftsleiter-Vertreters, der im Fall der
@@ -784,6 +796,7 @@ Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll.
 
 
 ## § 6 Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000700000)
 
 Die Anzeige nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes muss
 enthalten:
@@ -809,6 +822,7 @@ erhalten bleibt.
 
 
 ## § 7 Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000804118)
 
 (1) Einzelanzeigen von Instituten über aktivische
 Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3, § 24 Absatz 1
@@ -895,6 +909,7 @@ gilt § 1.
 
 
 ## § 8 Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen an dem eigenen Institut und passivische enge Verbindungen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE000902118)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 24
 Abs. 1 Nr. 10 und 12 des Kreditwesengesetzes sind mit dem Formular
@@ -936,6 +951,7 @@ darstellt.
 
 
 ## § 9 Sammelanzeigen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes (Anzahl inländischer Zweigstellen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001001118)
 
 (1) Die Anzeige der Anzahl inländischer Zweigstellen nach § 24 Abs. 1a
 Nr. 4 des Kreditwesengesetzes ist jährlich bis zum 31. Januar des
@@ -963,6 +979,7 @@ zu berücksichtigen sind Zweigstellen, die
 
 
 ## § 9a Anzeigen nach § 24 Absatz 1a Nummer 5 und 6, Absatz 1c und 1d des Kreditwesengesetzes (Angaben zur Vergütung in CRR-Kreditinstituten)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE004001128)
 
 (1) Anzeigen nach § 24 Absatz 1a Nummer 5 des Kreditwesengesetzes sind
 von CRR-Kreditinstituten, die als bedeutend im Sinne des § 1 Absatz 3c
@@ -1071,6 +1088,7 @@ erfolgt.
 
 
 ## § 10 Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001100000)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den
 beteiligten Instituten nach § 24 Abs. 2 des Kreditwesengesetzes
@@ -1082,6 +1100,7 @@ Vereinigung.
 
 
 ## § 10a Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes (Weitere Tätigkeiten der Mitglieder eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts von erheblicher Bedeutung)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003302119)
 
 Für Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes haben die
 Mitglieder von Verwaltungs- oder Aufsichtsorganen von CRR-Instituten,
@@ -1104,6 +1123,7 @@ zu verwenden.
 
 
 ## § 11 Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001203118)
 
 (1) Für Anzeigen nach § 24 Absatz 3 Satz 1 Nummer 1 des
 Kreditwesengesetzes haben die Geschäftsleiter und die Personen, die
@@ -1138,6 +1158,7 @@ Abs. 5 und 6 gilt entsprechend.
 
 
 ## § 12 Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes (Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001302118)
 
 (1) Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes sind
 für jeden Staat des Europäischen Wirtschaftsraums gesondert
@@ -1220,12 +1241,14 @@ Zweigniederlassungen entsprechend.
 
 
 ## § 13 Vorlage von Unterlagen nach § 26 des Kreditwesengesetzes (Jahresabschlüsse, Lage- und Prüfungsberichte)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001400000)
 
 Bei der Einreichung des festgestellten Jahresabschlusses ist der Tag
 der Feststellung anzugeben.
 
 
 ## § 14 Anzeigen und Vorlage von Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes (Anträge auf Erlaubnis)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001508128)
 
 (1) Anträge und Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes
 sind der Bundesanstalt in dreifacher Ausfertigung einzureichen.
@@ -1349,6 +1372,7 @@ Erlaubnis bestehen.
 
 
 ## § 15 Anzeigen nach § 53a Satz 2 und 5 des Kreditwesengesetzes (Repräsentanzen von Instituten mit Sitz im Ausland)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001602118)
 
 (1) Anzeigen über die Errichtung einer Repräsentanz nach § 53a Satz 2
 des Kreditwesengesetzes müssen die folgenden Angaben enthalten:
@@ -1463,6 +1487,7 @@ Repräsentanz gegenüber den Angaben in der Errichtungsanzeige nach §
 
 
 ## § 16 Anzeigen nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a des Kreditwesengesetzes (Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001702118)
 
 (1) Für Einzelanzeigen einer Finanzholding-Gesellschaft oder einer
 gemischten Finanzholding-Gesellschaft nach § 12a Absatz 1 Satz 3 und
@@ -1485,6 +1510,7 @@ Aufsichtsorgans gelten die §§ 5 bis 5f entsprechend.
 
 
 ## § 16a Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002601118)
 
 Unternehmen im Sinne des § 2 Absatz 1, für die das international von
 Aufsichtsbehörden anerkannte System zur Identifizierung von
@@ -1494,11 +1520,13 @@ Unternehmen zugelassen ist.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001800000)
 
 Diese Verordnung tritt am 31. Dezember 2006 in Kraft.
 
 
 ## Anlage 1 (zu § 5 Abs. 1 Nr. 1, § 5e Abs. 1 Satz 1 Nr. 1 AnzV)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE001904118)
 
 (Fundstelle: BGBl. I 2018, 1728 — 1729)
 
@@ -1954,6 +1982,7 @@ Gesellschaft**
 (zu § 5 Abs. 2 Nr. 1, § 5e Abs. 2 Satz 1 Nr. 1 AnzV)
 
 ## Anlage 2 PVVALSI
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002002118)
 
 (Fundstelle: BGBl. I 2018, 1730 — 1731)
 
@@ -2252,6 +2281,7 @@ Gesellschaft**
 (zu § 5b Abs. 3 AnzV)
 
 ## Anlage 2a PVZLSI
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003401118)
 
 (Fundstelle: BGBl. I 2018, 1732 — 1734)
 
@@ -2648,6 +2678,7 @@ Selbstauskunft die persönliche Zuverlässigkeit berühren können.
 
 
 ## Anlage 3 (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002105130)
 
 (Fundstelle: BGBl. I 2016, 2809 - 2811;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3210,6 +3241,7 @@ Diese Seite ist nicht mit einzureichen.
 [^F796418_F21_BJNR324500006BJNE002105130]: 
 
 ## Anlage 4 (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1 AnzV)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002203118)
 
 (Fundstelle: BGBl. I 2016, 2812 — 2813)
 
@@ -3551,6 +3583,7 @@ Fall zu machen.
 [^F796418_A4_06_BJNR324500006BJNE002203118]: 
 
 ## Anlage 5 (zu § 8 Abs. 1 und 2 AnzV)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002305130)
 
 (Fundstelle: BGBl. I 2016, 2814 - 2816;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4114,6 +4147,7 @@ Diese Seite ist nicht mit einzureichen.
 (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)
 
 ## Anlage 6 NTLSI
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002402118)
 
 (Fundstelle: BGBl. I 2018, 1735 — 1736)
 
@@ -4541,6 +4575,7 @@ Blatt ausführen)**
 [^f804292_01_10_BJNR324500006BJNE002402118]: 
 
 ## Anlage 7 (zu § 11 Abs. 2 AnzV)
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE002503130)
 
 (Fundstelle: BGBl. I 2016, 2819 - 2820;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4966,6 +5001,7 @@ Diese Seite ist nicht mit einzureichen.
 PVGSI
 
 ## Anlage 8 ECB-CONFIDENTIAL
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003501130)
 
 (Fundstelle: BGBl. I 2018, 1737 - 1738;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5454,6 +5490,7 @@ Gesellschaft**
 PVVASI
 
 ## Anlage 9 ECB-CONFIDENTIAL
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003601130)
 
 (Fundstelle: BGBl. I 2018, 1739 - 1740;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5790,6 +5827,7 @@ Gesellschaft**
 PVFU
 
 ## Anlage 10 ECB-CONFIDENTIAL
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003701130)
 
 (Fundstelle: BGBl. I 2018, 1741 - 1744;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6143,6 +6181,7 @@ Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit
 PVFP
 
 ## Anlage 11 ECB-CONFIDENTIAL
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003801130)
 
 (Fundstelle: BGBl. I 2018, 1745 - 1754;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7400,6 +7439,7 @@ Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit
 NTSI
 
 ## Anlage 12 ECB-CONFIDENTIAL
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE003901130)
 
 (Fundstelle: BGBl. I 2018, 1755 - 1757;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7912,90 +7952,105 @@ Mandatsbeschränkungen**
 [^f804292_04_05_BJNR324500006BJNE003901130]: 
 
 ## Anlage 13
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE004700128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 68)
 
 ![bgbl1_2023_j04110_0010.jpg](bgbl1_2023_j04110_0010.jpg)
 
 ## Anlage 14
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE004800128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 69)
 
 ![bgbl1_2023_j04110_0020.jpg](bgbl1_2023_j04110_0020.jpg)
 
 ## Anlage 15
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE004900128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 70)
 
 ![bgbl1_2023_j04110_0030.jpg](bgbl1_2023_j04110_0030.jpg)
 
 ## Anlage 16
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005000128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 71)
 
 ![bgbl1_2023_j04110_0040.jpg](bgbl1_2023_j04110_0040.jpg)
 
 ## Anlage 17
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005100128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 72)
 
 ![bgbl1_2023_j04110_0050.jpg](bgbl1_2023_j04110_0050.jpg)
 
 ## Anlage 18
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005200128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 73)
 
 ![bgbl1_2023_j04110_0060.jpg](bgbl1_2023_j04110_0060.jpg)
 
 ## Anlage 19
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005300128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 74)
 
 ![bgbl1_2023_j04110_0070.jpg](bgbl1_2023_j04110_0070.jpg)
 
 ## Anlage 20
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005400128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 75)
 
 ![bgbl1_2023_j04110_0080.jpg](bgbl1_2023_j04110_0080.jpg)
 
 ## Anlage 21
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005500128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 76)
 
 ![bgbl1_2023_j04110_0090.jpg](bgbl1_2023_j04110_0090.jpg)
 
 ## Anlage 22
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005600128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 77)
 
 ![bgbl1_2023_j04110_0100.jpg](bgbl1_2023_j04110_0100.jpg)
 
 ## Anlage 23
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005700128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 78)
 
 ![bgbl1_2023_j04110_0110.jpg](bgbl1_2023_j04110_0110.jpg)
 
 ## Anlage 24
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005800128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 79)
 
 ![bgbl1_2023_j04110_0120.jpg](bgbl1_2023_j04110_0120.jpg)
 
 ## Anlage 25
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE005900128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 80)
 
 ![bgbl1_2023_j04110_0130.jpg](bgbl1_2023_j04110_0130.jpg)
 
 ## Anlage 26
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE006000128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 81)
 
 ![bgbl1_2023_j04110_0140.jpg](bgbl1_2023_j04110_0140.jpg)
 
 ## Anlage 27
+[Direktlink](https://www.gesetze-im-internet.de/anzv_2006/BJNR324500006.html#BJNR324500006BJNE006100128)
 
 (Fundstelle: BGBl 2023 I Nr. 411, S. 82)
 

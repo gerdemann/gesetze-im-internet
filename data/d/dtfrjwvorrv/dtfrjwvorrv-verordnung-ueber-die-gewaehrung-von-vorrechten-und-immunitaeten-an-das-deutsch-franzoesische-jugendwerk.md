@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwvorrv/BJNR212130979.html#BJNR212130979BJNE000100317)
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -31,6 +32,7 @@ des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwvorrv/BJNR212130979.html#BJNR212130979BJNE000200317)
 
 Für die Gewährung von Vorrechten und Immunitäten an das Deutsch-
 Französische Jugendwerk gilt das Abkommen vom 22. Juni 1973 zur
@@ -41,6 +43,7 @@ Republik über die Errichtung des Deutsch-Französischen Jugendwerks
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwvorrv/BJNR212130979.html#BJNR212130979BJNE000300317)
 
 Unbeschadet der in dem Abkommen vom 22. Juni 1973 vorgesehenen
 Vorrechte und Immunitäten sind die Bediensteten des Deutsch-
@@ -50,6 +53,7 @@ Erfordernis der Aufenthaltserlaubnis befreit.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwvorrv/BJNR212130979.html#BJNR212130979BJNE000400317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 auch im Land
@@ -57,6 +61,7 @@ Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/dtfrjwvorrv/BJNR212130979.html#BJNR212130979BJNE000500317)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

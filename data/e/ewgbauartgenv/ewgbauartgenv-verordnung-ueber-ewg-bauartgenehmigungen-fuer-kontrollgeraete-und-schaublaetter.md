@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgbauartgenv/BJNR020230971.html#BJNR020230971BJNE000100317)
 
 Auf Grund des § 6 Abs. 1 Satz 1 Nr. 3 Buchstabe b und Satz 2 des
 Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 19.
@@ -28,6 +29,7 @@ Landesbehörden verordnet:
 
 
 ## § 1 EWG-Bauartgenehmigungen
+[Direktlink](https://www.gesetze-im-internet.de/ewgbauartgenv/BJNR020230971.html#BJNR020230971BJNE000200317)
 
 Über EWG-Bauartgenehmigungen für Kontrollgeräte und Schaublätter nach
 der Verordnung (EWG) Nr. 1463/70 vom 20. Juli 1970 (Amtsblatt der
@@ -43,6 +45,7 @@ die Verordnung (EWG) Nr. 1463/70 nichts anderes bestimmt.
 
 
 ## § 2 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/ewgbauartgenv/BJNR020230971.html#BJNR020230971BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 33
@@ -51,11 +54,13 @@ Abs. 2 des Kostenermächtigungs-Änderungsgesetzes vom 23. Juni 1970
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ewgbauartgenv/BJNR020230971.html#BJNR020230971BJNE000400317)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ewgbauartgenv/BJNR020230971.html#BJNR020230971BJNE000500317)
 
 Der Bundesminister für Verkehr
 

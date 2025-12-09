@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000100000)
 
 Auf Grund des § 27 Absatz 6 Satz 8 des Tiergesundheitsgesetzes vom 22.
 Mai 2013 (BGBl. I S. 1324) in Verbindung mit § 1 Absatz 2 des
@@ -26,6 +27,7 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Aufgaben der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000200000)
 
 Die Ständige Impfkommission Veterinärmedizin beim Friedrich-Loeffler-
 Institut (Kommission)
@@ -73,6 +75,7 @@ Empfehlungen auf diesem Stand.
 
 
 ## § 2 Berufung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000300000)
 
 (1) Das Friedrich-Loeffler-Institut beruft acht Mitglieder und für
 jedes dieser Mitglieder jeweils ein stellvertretendes Mitglied aus dem
@@ -95,6 +98,7 @@ veröffentlichen.
 
 
 ## § 3 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000400000)
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Für
 die Ausübung der ehrenamtlichen Tätigkeit und die
@@ -124,6 +128,7 @@ durch das Friedrich-Loeffler-Institut abberufen werden.
 
 
 ## § 4 Vorsitz, Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000500000)
 
 (1) Die Mitglieder der Kommission wählen aus ihrer Mitte ein Mitglied,
 das den Vorsitz übernimmt, und ein Mitglied, das die Vertretung des
@@ -138,6 +143,7 @@ ist jederzeit zulässig. In diesem Fall ist Absatz 1 anzuwenden.
 
 
 ## § 5 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000600000)
 
 (1) Zur Vorbereitung von Beschlüssen der Kommission können
 Berichterstatter aus dem Kreis der Mitglieder benannt werden. Sie
@@ -149,6 +155,7 @@ oder Einholung von Gutachten nach § 6 Absatz 1 Satz 1 machen.
 
 
 ## § 6 Sachverständige, Gutachten
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000700000)
 
 (1) Die Kommission kann schriftlich beschließen, zur Erfüllung ihrer
 Aufgaben Sachverständige zu hören oder für die Mitarbeit in
@@ -170,6 +177,7 @@ hinzuweisen.
 
 
 ## § 7 Arbeitskreise
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000800000)
 
 (1) Die Kommission kann für bestimmte Aufgaben Arbeitskreise bilden,
 in denen mindestens ein Mitglied vertreten sein muss. Auch Personen,
@@ -189,6 +197,7 @@ Absatz 1 und § 13 Absatz 1 sind entsprechend anzuwenden.
 
 
 ## § 8 Beteiligung anderer Personen
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE000900000)
 
 Auf Einladung der Kommission können nicht der Kommission angehörende
 Personen, auch Vertreter privater oder öffentlich-rechtlicher
@@ -201,6 +210,7 @@ Sitzung schriftlich zur Verschwiegenheit zu verpflichten.
 
 
 ## § 9 Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001000000)
 
 (1) Die Kommission hat eine in Angelegenheiten
 der Kommission fachlich unabhängige Geschäftsstelle beim Friedrich-
@@ -214,6 +224,7 @@ Wahrnehmung ihren Aufgaben.
 
 
 ## § 10 Sitzungen der Kommission
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001100000)
 
 (1) Die Sitzungen der Kommission finden in regelmäßigen Abständen
 statt. Die Sitzungen sollen in der Regel als Präsenzsitzungen
@@ -242,6 +253,7 @@ Mitglied und die Geschäftsstelle.
 
 
 ## § 11 Durchführung von Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001200000)
 
 (1) Die Sitzungen sind nicht öffentlich. Soweit ein stellvertretendes
 Mitglied kein Mitglied vertritt, kann es an den Sitzungen teilnehmen.
@@ -261,6 +273,7 @@ Vertraulichkeit gewahrt ist.
 
 
 ## § 12 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001300000)
 
 (1) Die Kommission ist beschlussfähig, wenn alle stimmberechtigten
 Mitglieder geladen und mindestens sechs stimmberechtigte Mitglieder
@@ -303,6 +316,7 @@ anzuwenden.
 
 
 ## § 13 Sitzungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001400000)
 
 (1) Die Geschäftsstelle fertigt für jede Sitzung eine
 Sitzungsniederschrift, die Ort und Tag der Sitzung, die
@@ -324,6 +338,7 @@ auf seiner Internetseite veröffentlicht.
 
 
 ## § 14 Reisen, Abfindung
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001500000)
 
 Die Erstattung von Reisekosten und sonstigen Abfindungen für
 Mitglieder, und, soweit stellvertretende Mitglieder an den Sitzungen
@@ -337,12 +352,14 @@ werden, bedürfen der Zustimmung des Friedrich-Loeffler-Instituts.
 
 
 ## § 15 Tätigkeitsbericht
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001600000)
 
 Die Kommission erstellt alle drei Jahre einen Tätigkeitsbericht, der
 vom Bundesministerium veröffentlicht wird.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stikovetv/BJNR068700015.html#BJNR068700015BJNE001700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

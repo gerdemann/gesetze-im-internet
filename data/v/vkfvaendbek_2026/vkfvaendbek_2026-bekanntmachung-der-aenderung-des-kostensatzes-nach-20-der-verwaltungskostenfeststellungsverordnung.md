@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2026/BJNR626510025.html#BJNR626510025BJNE000100000)
 
 Der Kostensatz nach § 20 Satz 1 der
 Verwaltungskostenfeststellungsverordnung beträgt ab 1. Januar 2026 je
@@ -25,6 +26,7 @@ Mitarbeiterin und Mitarbeiter der gemeinsamen Einrichtungen monatlich
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vkfv_ndbek_2026/BJNR626510025.html#BJNR626510025BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

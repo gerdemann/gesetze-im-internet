@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000100308)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Kapitel 1 - Maßnahmen zur Sicherung der Energieversorgung im Krisenfall
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000100000)
 
 
 ### § 1 Sicherung der Energieversorgung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000205123)
 
 (1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall
 zu sichern, daß die Energieversorgung unmittelbar gefährdet oder
@@ -179,6 +182,7 @@ Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
 
 ### § 2 Internationale Verpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000300308)
 
 (1) Soweit es zur Erfüllung der Verpflichtungen aus dem Übereinkommen
 vom 18. November 1974 über ein Internationales Energieprogramm
@@ -208,6 +212,7 @@ oder gestört wird.
 
 
 ### § 2a Europäische Verpflichtungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002200128)
 
 (1) Zur Erfüllung der Verpflichtung zu Solidaritätsmaßnahmen nach
 Artikel 13 der Verordnung (EU) 2017/1938 des Europäischen Parlaments
@@ -240,6 +245,7 @@ der Finanzen ist zu beteiligen.
 
 
 ### § 2b Digitale Plattform für Erdgas; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002300128)
 
 (1) Der Marktgebietsverantwortliche errichtet und betreibt zur
 Vorbereitung und Umsetzung von Maßnahmen, der aufgrund von § 1 Absatz
@@ -270,6 +276,7 @@ werden:
 
 
 ### § 3 Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000407130)
 
 (1) Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und § 2b Absatz 2
 erläßt die Bundesregierung. Sie kann diese Befugnis durch
@@ -363,6 +370,7 @@ werden, wenn:
 
 
 ### § 4 Ausführung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000503128)
 
 (1) Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten und
 nach § 2 Abs. 1 über die Beschränkung der Einfuhren, die Verpflichtung
@@ -419,6 +427,7 @@ bestimmten Stellen ausgeführt.
 
 
 ### § 5 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000601128)
 
 Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder
 auf Grund von Rechtsverordnungen nach den §§ 1, 2, 2a Absatz 1 und §
@@ -431,6 +440,7 @@ Ausnahme der §§ 91 und 93 entsprechend anzuwenden.
 
 
 ### § 6 Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000707128)
 
 (1) Das Bundesministerium für Wirtschaft und Klimaschutz erläßt mit
 Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf
@@ -445,6 +455,7 @@ sind.
 
 
 ### § 7 Einzelweisungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000805128)
 
 Das Bundesministerium für Wirtschaft und Klimaschutz kann, soweit die
 Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
@@ -455,6 +466,7 @@ erstrecken.
 
 
 ### § 8 Mitwirkung von Vereinigungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE000900308)
 
 (1) In Rechtsverordnungen auf Grund dieses Gesetzes kann bestimmt
 werden, daß Verbände und Zusammenschlüsse sowie Körperschaften und
@@ -471,6 +483,7 @@ Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
 
 ### § 9 Vorbereitung des Vollzugs
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001001128)
 
 Der Bund und die Länder einschließlich der Gemeinden und
 Gemeindeverbände haben die personellen, materiellen und
@@ -480,6 +493,7 @@ Zwecke erforderlich sind.
 
 
 ### § 10 Auskünfte, Datenerhebung und -übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002002128)
 
 (1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes
 und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben
@@ -533,6 +547,7 @@ der für ihn tätigen Personen handelt.
 
 
 ### § 11 Entschädigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001203130)
 
 (1) Wenn dies zur Sicherung der Deckung des lebenswichtigen Bedarfs an
 Energie oder zur Erfüllung der Verpflichtungen zu
@@ -612,6 +627,7 @@ Anforderungsbehörden die in Absatz 6 bezeichneten Stellen.
 
 
 ### § 11a Entschädigung für enteignete Gasspeichermengen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003300123)
 
 (1) Für eine Enteignung aufgrund einer nach Kapitel 1 dieses Gesetzes
 erlassenen Rechtsverordnung oder einer Maßnahme aufgrund einer nach
@@ -655,6 +671,7 @@ Energiesicherungsgesetz entsprechend anzuwenden.
 
 
 ### § 12 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001301130)
 
 (1) Wird durch eine Rechtsverordnung oder Maßnahme im Sinne des § 11
 Abs. 1 Satz 1 dem Betroffenen ein Vermögensnachteil zugefügt, der
@@ -677,10 +694,12 @@ zu leisten, das die Maßnahme angeordnet hat.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001406130)
 
 
 
 ### § 14 Bekanntgabe und Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001502128)
 
 (1) Mit der Feststellung nach § 3 Absatz 3 Satz 2 oder der Mitteilung
 gemäß § 3 Absatz 6 Satz 1 gelten für den Vollzug dieses Gesetzes und
@@ -727,6 +746,7 @@ Verwaltungszustellungsgesetzes mit der Maßgabe, dass
 
 
 ### § 15 Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001604123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -798,6 +818,7 @@ ist nach pflichtgemäßem Ermessen zu ermitteln.
 
 
 ### § 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001705123)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist
@@ -835,12 +856,15 @@ Ordnungswidrigkeiten ist
 
 
 ## Kapitel 2 - Besondere Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000200128)
 
 
 ### Abschnitt 1 - Treuhandverwaltung und Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000300128)
 
 
 #### § 17 Treuhandverwaltung von Unternehmen der Kritischen Infrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002401128)
 
 (1) Ein Unternehmen, das selbst oder durch verbundene Unternehmen im
 Sinne von § 15 des Aktiengesetzes kritische Anlagen im Sinne von § 2
@@ -932,6 +956,7 @@ Europäischen Wirtschaftsraums gleich.
 
 
 #### § 17a Kapitalmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003401123)
 
 (1) Bei einem als Kapitalgesellschaft verfassten Unternehmen, das
 durch Anordnung nach § 17 Absatz 3 Satz 1 unter Treuhandverwaltung
@@ -1023,6 +1048,7 @@ Entschädigung.
 
 
 #### § 17b Übertragung von Vermögensgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE004300119)
 
 (1) Bei einem Unternehmen, das durch Anordnung nach § 17 Absatz 3 Satz
 1 unter Treuhandverwaltung gestellt ist, kann die in § 17 Absatz 4
@@ -1103,6 +1129,7 @@ Entschädigung.
 
 
 #### § 18 Enteignung zur Sicherung der Energieversorgung im Bereich der Kritischen Infrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002502128)
 
 (1) Zur Sicherung der Energieversorgung können Enteignungen nach
 Maßgabe dieses Gesetzes vorgenommen werden.
@@ -1154,6 +1181,7 @@ geeignet ist, diesen Zweck zu erfüllen.
 
 
 #### § 19 Enteignungsakt; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002600128)
 
 (1) Die Enteignung erfolgt durch Rechtsverordnung des
 Bundesministeriums für Wirtschaft und Klimaschutz im Einvernehmen mit
@@ -1194,6 +1222,7 @@ Amts wegen unverzüglich in das Handelsregister einzutragen.
 
 
 #### § 20 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002700128)
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das
 Bundesministerium für Wirtschaft und Klimaschutz als
@@ -1218,6 +1247,7 @@ Privatisierung nach Satz 1 vor.
 
 
 #### § 21 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002800128)
 
 (1) Für die Enteignung ist eine Entschädigung zu leisten. Eine
 Entschädigung kann verlangen, wer sich auf das Grundrecht aus Artikel
@@ -1254,6 +1284,7 @@ Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem
 
 
 #### § 22 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE002900128)
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug auf Antrag über die Gültigkeit von Rechtsverordnungen nach §
@@ -1308,6 +1339,7 @@ Entschädigung.
 
 
 #### § 23 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003000128)
 
 Die Bundesregierung kann durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
@@ -1332,6 +1364,7 @@ als erteilt.
 
 
 #### § 23a Enteignung von beweglichen Sachen und Zugang zu Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE004200130)
 
 (1) Zur Sicherung der Energieversorgung im Sinne des § 18 Absatz 1
 können durch Verwaltungsakt Anordnungen getroffen werden über
@@ -1432,9 +1465,11 @@ Verwaltungsakt nach Absatz 1 hat keine aufschiebende Wirkung.
 
 
 ### Abschnitt 2 - Preisanpassungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000400128)
 
 
 #### § 24 Preisanpassungsrechte bei verminderten Gasimporten
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003101123)
 
 (1) Nach der Ausrufung der Alarmstufe oder der Notfallstufe durch das
 Bundesministerium für Wirtschaft und Klimaschutz nach Artikel 8 Absatz
@@ -1545,6 +1580,7 @@ Angemessenheit dieses höheren Preises nachvollziehbar darlegen.
 
 
 #### § 25 Preisanpassungsmonitoring
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003200128)
 
 (1) Die Bundesnetzagentur und das Bundesministerium für Wirtschaft und
 Klimaschutz führen ein Monitoring über Preisanpassungen in dem
@@ -1567,6 +1603,7 @@ veröffentlichen.
 
 
 #### § 26 Saldierte Preisanpassung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003500123)
 
 (1) Die Bundesregierung wird ermächtigt, ohne Zustimmung des
 Bundesrates eine Rechtsverordnung zu erlassen, in der abweichend von §
@@ -1644,15 +1681,19 @@ Führung eines saldierten Preisanpassungskontos.
 
 
 #### § 27 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003601123)
 
 
 #### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003701123)
 
 
 ### Abschnitt 3 - Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000600123)
 
 
 #### § 29 Erleichterungen zur Durchführung von Stabilisierungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003802128)
 
 (1) Beantragt ein Unternehmen, das selbst oder durch verbundene
 Unternehmen im Sinne von § 15 des Aktiengesetzes kritische Anlagen im
@@ -1952,9 +1993,11 @@ mehr anzuwenden.
 
 
 ### Abschnitt 4 - Präventive Maßnahmen zur Vermeidung eines Krisenfalls in der Energieversorgung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000700123)
 
 
 #### § 30 Präventive Maßnahmen zur Vermeidung eines Krisenfalls; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE003902130)
 
 (1) Zur Vermeidung einer unmittelbaren Gefährdung oder Störung der
 Energieversorgung im Sinne des § 1 Absatz 1 Satz 1, insbesondere im
@@ -2111,6 +2154,7 @@ entsprechend anzuwenden.
 
 
 #### § 30a Inbetriebnahme von überwachungsbedürftigen Anlagen zur Bewältigung einer Gasmangellage
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE004000123)
 
 (1) Eine überwachungsbedürftige Anlage im Sinne des § 2 Absatz 13 der
 Betriebssicherheitsverordnung, die wegen einer ernsten oder
@@ -2145,9 +2189,11 @@ anzuwenden.
 
 
 ## Kapitel 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNG000501123)
 
 
 ### § 31 Besteuerung
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE004100130)
 
 § 14 Absatz 3 Satz 1 und Absatz 4 des Stabilisierungsfondsgesetzes
 finden auf Maßnahmen des Bundes nach Kapitel 1 und 2 dieses Gesetzes
@@ -2156,6 +2202,7 @@ der Bund tritt.Satz 1 findet auf alle noch offenen Fälle Anwendung.
 
 
 ### § 32 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html#BJNR036810974BJNE001903130)
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft.
 

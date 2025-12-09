@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/pflschmanwluftfzgv/BJNR197000013.html#BJNR197000013BJNE000100000)
 
 (1) Der Antrag auf Genehmigung der Anwendung eines
 Pflanzenschutzmittels mit einem Luftfahrzeug nach § 18 Absatz 2 des
@@ -94,6 +95,7 @@ angeordnet hat.
 
 
 ## § 2 Genehmigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/pflschmanwluftfzgv/BJNR197000013.html#BJNR197000013BJNE000200000)
 
 (1) Die zuständige Behörde entscheidet im Rahmen der Genehmigung nach
 § 18 Absatz 2 des Pflanzenschutzgesetzes über
@@ -134,6 +136,7 @@ der nachträglichen Aufnahme, Änderung oder Ergänzung von Auflagen.
 
 
 ## § 3 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/pflschmanwluftfzgv/BJNR197000013.html#BJNR197000013BJNE000300000)
 
 Die zuständige Behörde stellt sicher, dass die Öffentlichkeit in
 geeigneter Weise und rechtzeitig über die genehmigten Anwendungen von
@@ -145,6 +148,7 @@ wird.
 
 
 ## § 4 Verfahren für die Genehmigung eines Pflanzenschutzmittels für die Anwendung mit Luftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/pflschmanwluftfzgv/BJNR197000013.html#BJNR197000013BJNE000400000)
 
 (1) Dem Antrag auf Genehmigung nach § 18 Absatz 3 Nummer 2 in
 Verbindung mit Absatz 4 des Pflanzenschutzgesetzes sind, soweit beim

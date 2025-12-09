@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000100307)
 
 Auf Grund § 82 Abs. 1 des Gesetzes vom 20. Juli 1990 über die
 Bauordnung (BauO) (GBl. I Nr. 50 S. 929) in Verbindung mit § 2 Abs. 2
@@ -28,6 +29,7 @@ folgendes angeordnet:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000200307)
 
 
 *
@@ -66,6 +68,7 @@ folgendes angeordnet:
 
 
 ## § 1 Geltungsbereich, Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000300307)
 
 (1) Diese Anordnung gilt für
 
@@ -119,6 +122,7 @@ der Gruppe IV im Sinne der Verordnung über Dampfkesselanlagen
 
 
 ## § 2 Feuerstätten, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000400307)
 
 (1) Feuerstätten sind mit Verbindungsstücken und Schornsteinen oder
 anderen Abgasanlagen so aufeinander abzustimmen, daß Gefahren und
@@ -212,6 +216,7 @@ Warmwasserversorgungsanlage eindringen können.
 
 
 ## § 3 Verbindungsstücke
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000500307)
 
 (1) Abgasrohre und Abgaskanäle (Verbindungsstücke) müssen aus form-
 und hitzebeständigen, nichtbrennbaren Baustoffen bestehen,
@@ -237,6 +242,7 @@ Vorkehrungen zu schützen.
 
 
 ## § 4 Schornsteine und andere Abgasanlagen
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000600307)
 
 (1) Lichter Querschnitt, Höhe, Wärmedurchlaßwiderstand, Dichtheit,
 innere Oberfläche und Anordnung der Schornsteine sowie der Anschluß
@@ -341,6 +347,7 @@ und des Brandschutzes Bedenken nicht bestehen.
 
 
 ## § 5 Ableitung der Abgase
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000700307)
 
 (1) Die Ableitung der Abgase der Feuerstätten über Dach muß so
 erfolgen, daß ihr Abtransport mit der Luftströmung gewährleistet ist.
@@ -388,6 +395,7 @@ unzumutbare Belästigungen, auch für Nachbarn, nicht entstehen.
 
 
 ## § 6 Rohrleitungen
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000800307)
 
 Rohrleitungen in Gebäuden einschließlich der Formstücke und Armaturen
 sowie der Steuer-, Regel-, Sicherheits- und Meßeinrichtungen müssen
@@ -399,6 +407,7 @@ Brandeinwirkung nicht zu einer Explosionsgefahr führen.
 
 
 ## § 7 Aufstellräume von Feuerstätten
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE000900307)
 
 (1) Aufstellräume müssen so bemessen sein, daß Feuerstätten
 ordnungsgemäß errichtet, betrieben und unterhalten werden können.
@@ -513,6 +522,7 @@ Stunde bemessen und ständig wirksam sein.
 
 
 ## § 8 Feuerungsanlagen besonderer Art
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE001000307)
 
 (1) Andere Anforderungen als nach den §§ 2 bis 7 können an
 Feuerstätten besonderer Art, an ihre Verbindungsstücke und
@@ -542,12 +552,14 @@ deren Ergebnis.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE001100307)
 
 Diese Anordnung tritt am 1. März 1991 in Kraft. § 7 Abs. 3 tritt am
 Tage nach der Veröffentlichung im Gesetzblatt in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/feuao/DDNR115570990.html#DDNR115570990BJNE001200307)
 
 **Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft**
 

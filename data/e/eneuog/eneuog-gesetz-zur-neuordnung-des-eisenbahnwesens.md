@@ -24,48 +24,59 @@ Eisenbahnunternehmen der Gemeinschaft (ABl. EG Nr. L 237 S. 25).
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE001200303)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000100303)
 
 
 
 ## Art 2 - Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft (Deutsche Bahn Gründungsgesetz - DBGrG)
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000200303)
 
 
 
 ## Art 3 - Gesetz über die Eisenbahnverkehrsverwaltung des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000300303)
 
 
 
 ## Art 4 - Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs (Regionalisierungsgesetz)
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000400303)
 
 
 
 ## Art 5 - Allgemeines Eisenbahngesetz (AEG)
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000500303)
 
 
 
 ## Art 6 - 
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000600303)
 
 
 
 ## Art 7 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000701305)
 
 
 
 ## (XXXX) §§ 1 bis § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE001303305)
 
 
 
 ## Art 8 - Außerkrafttreten bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000800303)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE001700303)
 
 Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 
@@ -86,11 +97,13 @@ Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE001801123)
 
 (weggefallen)
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE001900303)
 
 Bis zur Eintragung der gemäß § 1 Abs. 1 des Deutsche Bahn
 Gründungsgesetzes gegründeten Deutsche Bahn Aktiengesellschaft in das
@@ -108,6 +121,7 @@ sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNE002001308)
 
 (1) Die Mitglieder der gesetzgebenden Körperschaften des Bundes und
 der Länder sowie die Mitglieder des Europäischen Parlaments aus der
@@ -126,15 +140,18 @@ entsprechend.
 
 
 ## Art 9 - Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Unternehmen der Deutschen Bundespost
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG000900303)
 
 
 
 ## Art 10 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG001001123)
 
 (weggefallen)
 
 
 ## Art 11 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eneuog/BJNR237809993.html#BJNR237809993BJNG001100303)
 
 (1) Mit Ausnahme des Artikels 4, des Artikels 5 § 5 Abs. 3 Satz 2, §
 12 Abs. 3 Satz 2 und § 15 Abs. 1 Satz 2, soweit diese Bestimmungen den

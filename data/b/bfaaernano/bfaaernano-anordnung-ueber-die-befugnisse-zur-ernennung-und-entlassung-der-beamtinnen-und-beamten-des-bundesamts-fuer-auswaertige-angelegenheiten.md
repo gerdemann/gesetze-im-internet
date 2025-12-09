@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfa_rnano/BJNR0600A0024.html#BJNR0600A0024BJNE000100000)
 
 Das Auswärtige Amt erlässt nach Artikel 1 Absatz 1 der Anordnung des
 Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen,
@@ -26,6 +27,7 @@ I S. 1286) die folgende Anordnung:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bfa_rnano/BJNR0600A0024.html#BJNR0600A0024BJNE000200000)
 
 Auf die Präsidentin oder den Präsidenten des Bundesamts für Auswärtige
 Angelegenheiten wird für ihren oder seinen Geschäftsbereich die
@@ -35,6 +37,7 @@ Bundesbeamten der Besoldungsgruppen bis einschließlich A 15
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bfa_rnano/BJNR0600A0024.html#BJNR0600A0024BJNE000300000)
 
 Für besondere Fälle behält sich das Auswärtige Amt die Ernennung und
 Entlassung der unter Abschnitt I genannten Bundesbeamtinnen und
@@ -42,6 +45,7 @@ Bundesbeamten vor.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bfa_rnano/BJNR0600A0024.html#BJNR0600A0024BJNE000400000)
 
 Diese Anordnung tritt am 7. März 2024 in Kraft.
 

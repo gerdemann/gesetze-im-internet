@@ -24,6 +24,7 @@ Das g tritt gem. art. 5 abs. 2 g v. 22.12.2006 i 3409 mit ablauf des 30.12.2017 
 
 
 ## § 1 Antiterrordatei
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000103311)
 
 (1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Abs.
 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die
@@ -55,6 +56,7 @@ Behörden zur Teilnahme an der Antiterrordatei berechtigen, soweit
 
 
 ## § 2 Inhalt der Antiterrordatei und Speicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000201377)
 
 Die beteiligten Behörden sind verpflichtet, bereits erhobene Daten
 nach § 3 Abs. 1 in der Antiterrordatei zu speichern, wenn sie gemäß
@@ -116,6 +118,7 @@ verarbeiten dürfen.
 
 
 ## § 3 Zu speichernde Datenarten
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000302377)
 
 (1) In der Antiterrordatei werden, soweit vorhanden, folgende
 Datenarten gespeichert:
@@ -267,6 +270,7 @@ des Absatzes 1 in derselben Verwaltungsvorschrift vorsehen.
 
 
 ## § 4 Beschränkte und verdeckte Speicherung
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000405377)
 
 (1) Soweit besondere Geheimhaltungsinteressen oder besonders
 schutzwürdige Interessen des Betroffenen dies ausnahmsweise erfordern,
@@ -340,6 +344,7 @@ Satz 1 absehen (beschränkte Speicherung).
 
 
 ## § 5 Zugriff auf die Daten
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000502377)
 
 (1) Die beteiligten Behörden dürfen die in der Antiterrordatei
 gespeicherten Daten im automatisierten Verfahren nutzen, soweit dies
@@ -404,6 +409,7 @@ und dokumentiert werden und erkennbar sein.
 
 
 ## § 6 Weitere Verwendung der Daten
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000601377)
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff
 erhalten hat, nur zur Prüfung, ob der Treffer der gesuchten Person
@@ -444,6 +450,7 @@ verwenden. § 487 Abs. 3 der Strafprozessordnung gilt entsprechend.
 
 
 ## § 6a Erweiterte projektbezogene Datennutzung
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE001400377)
 
 (1) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
 gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
@@ -572,6 +579,7 @@ nach § 1 Absatz 2 zur Teilnahme an der Datei berechtigt werden.
 
 
 ## § 7 Übermittlung von Erkenntnissen
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000701377)
 
 Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6
 Abs. 1 Satz 1 zwischen den beteiligten Behörden richtet sich nach den
@@ -579,6 +587,7 @@ jeweils geltenden Übermittlungsvorschriften.
 
 
 ## § 8 Datenschutzrechtliche Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000802377)
 
 (1) Die datenschutzrechtliche Verantwortung für die in der
 Antiterrordatei gespeicherten Daten, namentlich für die Rechtmäßigkeit
@@ -599,6 +608,7 @@ berichtigt.
 
 
 ## § 9 Protokollierung, technische und organisatorische Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE000902377)
 
 (1) Das Bundeskriminalamt hat bei jedem Zugriff für Zwecke der
 Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung
@@ -623,6 +633,7 @@ Bundeskriminalamts zu veröffentlichen.
 
 
 ## § 10 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE001002377)
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 9
 Absatz 1 des Bundesdatenschutzgesetzes der oder dem Bundesbeauftragten
@@ -650,6 +661,7 @@ Rechtsvorschriften.
 
 
 ## § 11 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE001102377)
 
 (1) Unrichtige Daten sind zu berichtigen.
 
@@ -676,6 +688,7 @@ personenbezogene Daten zu berichtigen oder zu löschen sind.
 
 
 ## § 12 Festlegungen für die gemeinsame Datei
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE001203311)
 
 Das Bundeskriminalamt hat für die gemeinsame Datei im Einvernehmen mit
 den beteiligten Behörden Einzelheiten festzulegen zu:
@@ -714,6 +727,7 @@ anzuhören.
 
 
 ## § 13 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/atdg/BJNR340910006.html#BJNR340910006BJNE001301377)
 
 Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel
 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel

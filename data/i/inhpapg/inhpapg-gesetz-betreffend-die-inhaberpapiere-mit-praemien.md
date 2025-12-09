@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000101360)
 
 Auf den Inhaber lautende Schuldverschreibungen, in welchen allen
 Gläubigern oder einem Teil derselben außer der Zahlung der
@@ -33,6 +34,7 @@ werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000200306)
 
 Inhaberpapiere mit Prämien, welche nach Verkündigung des gegenwärtigen
 Gesetzes, der Bestimmung in § 1 zuwider, im Inland ausgegeben sein
@@ -44,6 +46,7 @@ Geschäftsvermittlung gemacht werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000300306)
 
 Dasselbe gilt vom 15. Juli 1871 ab von ausländischen Inhaberpapieren
 mit Prämien, deren Ausgabe vor dem 1. Mai 1871 erfolgt ist, sofern
@@ -51,16 +54,19 @@ dieselben nicht abgestempelt sind. ...
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000400306)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000500306)
 
 -
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/inhpapg/BJNR002100871.html#BJNR002100871BJNE000600306)
 
 -
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html#BJNR097200016BJNE000100000)
 
 Auf Grund des § 18a Absatz 11 Satz 2 des Kreditwesengesetzes, der
 durch Artikel 12 Nummer 3 des Gesetzes vom 11. März 2016 (BGBl. I S.
@@ -31,6 +32,7 @@ für Finanzdienstleistungsaufsicht:
 
 
 ## § 1 Sachkunde der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten Mitarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html#BJNR097200016BJNE000200000)
 
 (1) Die mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten
 internen und externen Mitarbeiter der Kreditinstitute müssen über die
@@ -64,6 +66,7 @@ geeigneter Weise belegt sein.
 
 
 ## § 2 Berufsqualifikation als Sachkundenachweis
+[Direktlink](https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html#BJNR097200016BJNE000300000)
 
 (1) Die erforderliche Sachkunde gilt insbesondere durch eine der
 folgenden Berufsabschlüsse oder Berufsqualifikationen als
@@ -137,6 +140,7 @@ Anforderungen genügt.
 
 
 ## § 3 Anerkennung ausländischer Befähigungsnachweise im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html#BJNR097200016BJNE000400000)
 
 (1) Als Nachweis der erforderlichen Sachkunde nach den §§ 1 und 2
 werden gleichwertige Berufsqualifikationen anerkannt, die von einer
@@ -155,6 +159,7 @@ Drittstaaten erworben wurden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/immodarlsachkv/BJNR097200016.html#BJNR097200016BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

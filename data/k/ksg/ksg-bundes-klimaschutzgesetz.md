@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000201116)
 
 Zweck dieses Gesetzes ist es, zum Schutz vor den Auswirkungen des
 weltweiten Klimawandels die Erfüllung der nationalen Klimaschutzziele
@@ -38,6 +40,7 @@ gering wie möglich zu halten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000301130)
 
 Im Sinne dieses Gesetz ist oder sind:
 
@@ -131,9 +134,11 @@ Im Sinne dieses Gesetz ist oder sind:
 
 
 ## Abschnitt 2 - Klimaschutzziele und Jahresemissionsmengen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNG000200000)
 
 
 ### § 3 Nationale Klimaschutzziele
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000401116)
 
 (1) Die Treibhausgasemissionen werden im Vergleich zum Jahr 1990
 schrittweise wie folgt gemindert:
@@ -162,6 +167,7 @@ erhöht, aber nicht abgesenkt werden.
 
 
 ### § 3a Beitrag des Sektors Landnutzung, Landnutzungsänderung und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001901130)
 
 (1) Der Beitrag des Sektors Landnutzung, Landnutzungsänderung und
 Forstwirtschaft zum Klimaschutz soll gestärkt werden. Dem Beitrag
@@ -222,6 +228,7 @@ nicht der Zustimmung des Bundesrates bedarf,
 
 
 ### § 3b Beitrag technischer Senken, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE002100130)
 
 Zur Erreichung der nationalen Klimaschutzziele nach § 3 Absatz 2
 werden Ziele für technische Senken für die Jahre 2035, 2040 und 2045
@@ -240,6 +247,7 @@ Klimaschutzziele nach § 3 Absatz 1 bleiben unberührt.
 
 
 ### § 4 Jahresemissionsgesamtmengen, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000502130)
 
 (1) Zur Einhaltung der nationalen Klimaschutzziele nach § 3 Absatz 1
 wird eine sektorübergreifende und mehrjährige Gesamtrechnung
@@ -305,6 +313,7 @@ Brennstoffemissionshandel vorzulegen.
 
 
 ### § 5 Monitoring, Jahresemissionsmengen, Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000601130)
 
 (1) Das Umweltbundesamt erstellt die Daten der Treibhausgasemissionen
 insgesamt und in den Sektoren nach Anlage 1 (Emissionsdaten) für das
@@ -429,6 +438,7 @@ als erteilt.
 
 
 ### § 5a Projektionsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE002200130)
 
 Das Umweltbundesamt erstellt jährlich auf Grundlage aktuell
 verfügbarer Emissionsdaten und entsprechend der Vorgaben der
@@ -459,6 +469,7 @@ bleibt unberührt.
 
 
 ### § 6 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000701130)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 Rechtsverordnung nach § 5 Absatz 7 Nummer 1 bis 4 oder einer
@@ -471,6 +482,7 @@ fünfzigtausend Euro geahndet werden.
 
 
 ### § 7 Durchführungsvorschriften zur Europäischen Klimaschutzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000801130)
 
 (1) Der Ankauf von Emissionszuweisungen zur Erfüllung der Pflichten
 nach der Europäischen Klimaschutzverordnung wird zentral durch das für
@@ -540,6 +552,7 @@ unverzüglich folgende Unterlagen zu:
 
 
 ### § 8 Vorgehen bei Überschreitung der Jahresemissionsgesamtmengen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE000901130)
 
 (1) Weisen die Projektionsdaten nach § 5a nach Feststellung des
 Expertenrats für Klimafragen nach § 12 Absatz 1 in zwei
@@ -590,9 +603,11 @@ Absatz 1 Satz 2 sowie die Absätze 2 und 3 gelten entsprechend.
 
 
 ## Abschnitt 3 - Klimaschutzplanung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNG000300000)
 
 
 ### § 9 Klimaschutzprogramme
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001002130)
 
 (1) Die Bundesregierung beschließt spätestens zwölf Kalendermonate
 nach Beginn einer Legislaturperiode ein Klimaschutzprogramm; zudem
@@ -636,6 +651,7 @@ wissenschaftliche Begleitgremien der Bundesregierung ein.
 
 
 ### § 10 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001102130)
 
 Die Bundesregierung erstellt jährlich einen Klimaschutzbericht, der
 die Entwicklung der Treibhausgasemissionen insgesamt und in den
@@ -656,9 +672,11 @@ Deutschen Bundestag zu.
 
 
 ## Abschnitt 4 - Expertenrat für Klimafragen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNG000400000)
 
 
 ### § 11 Unabhängiger Expertenrat für Klimafragen, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001201130)
 
 (1) Es wird ein Expertenrat für Klimafragen aus fünf sachverständigen
 Personen verschiedener Disziplinen eingerichtet. Die Bundesregierung
@@ -694,6 +712,7 @@ organisatorischen Angelegenheiten zu bestimmen.
 
 
 ### § 12 Aufgaben des Expertenrats für Klimafragen
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001302130)
 
 (1) Der Expertenrat für Klimafragen prüft die Emissionsdaten nach § 5
 Absatz 1 und 2 sowie die Projektionsdaten nach § 5a und legt der
@@ -778,9 +797,11 @@ Stellung.
 
 
 ## Abschnitt 5 - Vorbildfunktion der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNG000500000)
 
 
 ### § 13 Berücksichtigungsgebot
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001402130)
 
 (1) Die Träger öffentlicher Aufgaben haben bei ihren Planungen und
 Entscheidungen den Zweck dieses Gesetzes und die zu seiner Erfüllung
@@ -813,6 +834,7 @@ oder Beschaffung zugrunde zu legen.
 
 
 ### § 14 Bund-Länder-Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001500000)
 
 (1) Unbeschadet der Vereinbarkeit mit Bundesrecht können die Länder
 eigene Klimaschutzgesetze erlassen. Die bestehenden Klimaschutzgesetze
@@ -823,6 +845,7 @@ die Ziele dieses Gesetzes zu erreichen.
 
 
 ### § 15 Klimaneutrale Bundesverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001601130)
 
 (1) Der Bund setzt sich zum Ziel, die Bundesverwaltung bis zum Jahr
 2030 klimaneutral zu organisieren. Zur Verwirklichung dieses Zieles
@@ -859,6 +882,7 @@ unterstützen.
 
 
 ### § 16 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE002300130)
 
 (1) Die bestehenden Sofortprogramme nach § 8 in der Fassung des
 Gesetzes vom 18. August 2021 gelten fort.
@@ -872,6 +896,7 @@ Satz 4.
 (zu § 5)
 
 ### Anlage 1 Sektoren
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001701130)
 
 (Fundstelle: BGBl. I 2019, 2519;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1010,6 +1035,7 @@ Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.
 (zu § 4 Absatz 1 Satz 2 und 3)
 
 ### Anlage 2 Jahresemissionsgesamtmengen für die Jahre 2020 bis 2030
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE002400130)
 
 (Fundstelle: BGBl. 2024 I Nr. 235, S. 7)
 
@@ -1069,6 +1095,7 @@ Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.
 (zu § 5 Absatz 1 Satz 2)
 
 ### Anlage 2a Jahresemissionsmengen für die Jahre 2020 bis 2030
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE001802130)
 
 (Fundstelle: BGBl. I 2021, 3907;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1247,6 +1274,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 4 Absatz 1 Satz 4)
 
 ### Anlage 3 Jährliche Minderungsziele für die Jahre 2031 bis 2040
+[Direktlink](https://www.gesetze-im-internet.de/ksg/BJNR251310019.html#BJNR251310019BJNE002001130)
 
 (Fundstelle: BGBl. I 2021, 3907;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

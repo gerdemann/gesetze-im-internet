@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000100311)
 
 Auf Grund des § 9 Abs. 4 des Seefischereigesetzes vom 12. Juli 1984
 (BGBl. I S. 876), der durch Artikel 23 Nr. 5 des Gesetzes vom 2.
@@ -32,6 +33,7 @@ Landwirtschaft und Forsten:
 
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 3440/84
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000211308)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EWG) Nr.
@@ -98,6 +100,7 @@ verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 
 ## § 2 Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1899/85
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000314308)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder
@@ -112,6 +115,7 @@ Maschenöffnung von weniger als 16 Millimeter verwendet.
 
 
 ## § 3 Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1638/87
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000403308)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder
@@ -127,6 +131,7 @@ Maschenöffnung von weniger als 35 Millimeter verwendet.
 
 
 ## § 4 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 414/96
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000502308)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 414/96
@@ -146,6 +151,7 @@ fahrlässig
 
 
 ## § 5 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1035/2001
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000604377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -157,6 +163,7 @@ geändert worden ist, Dissostichus spp. einführt oder ausführt.
 
 
 ## § 6 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2056/2001
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000704377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -186,6 +193,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 494/2002
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE000906377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -222,6 +230,7 @@ indem er vorsätzlich oder fahrlässig
 
 
 ## § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1185/2003
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE001003377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -243,6 +252,7 @@ fahrlässig
 
 
 ## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1984/2003
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE001104377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -267,6 +277,7 @@ worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 10 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 600/2004
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE001215377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -345,6 +356,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 601/2004
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE001506377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -420,6 +432,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 734/2008
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE001606377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -454,6 +467,7 @@ nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 ## § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1005/2008
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002615377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -535,6 +549,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 14 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1010/2009
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002706377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -561,6 +576,7 @@ als Kapitän
 
 
 ## § 15 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1224/2009
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002811377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
@@ -747,6 +763,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 16 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 201/2010
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002906377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
@@ -799,6 +816,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
 
 
 ## § 17 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1236/2010
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003106377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
@@ -905,6 +923,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
 
 
 ## § 18 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 404/2011
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003403377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die
@@ -1193,6 +1212,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
 
 
 ## § 19 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1380/2013
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002303377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr.
@@ -1223,6 +1243,7 @@ nicht vor Anlandung aufzeichnet.
 
 
 ## § 20 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2015/98
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002404377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU)
@@ -1286,6 +1307,7 @@ die Delegierte Verordnung (EU) 2022/824 (ABl. L 147 vom 30.5.2022, S.
 
 
 ## § 21 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1139
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE002504377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1139
@@ -1313,6 +1335,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 22 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2336
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003603377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -1378,6 +1401,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 23 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/117
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003803377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU)
@@ -1398,6 +1422,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 24 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/118
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003903377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung
@@ -1446,6 +1471,7 @@ oder nicht rechtzeitig vornimmt.
 
 
 ## § 25 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1004
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004503377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -1461,6 +1487,7 @@ den Aufenthalt an Bord verweigert.
 
 
 ## § 26 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/2403
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004603377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -1536,6 +1563,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 27 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2019/833
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004004377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -1851,6 +1879,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 28 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2019/1241
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004104377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2045,6 +2074,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 29 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2020/967
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004702377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -2059,6 +2089,7 @@ Abschreckvorrichtung funktionsfähig ist.
 
 
 ## § 30 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2021/56
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004902377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2295,6 +2326,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 31 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2022/2056
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005002377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2575,6 +2607,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 32 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2023/194
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005301377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2023/194
@@ -2599,6 +2632,7 @@ er vorsätzlich oder fahrlässig
 
 
 ## § 33 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2023/675
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005401377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2661,6 +2695,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 34 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2023/2053
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004803377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2786,6 +2821,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
 
 
 ## § 35 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2023/2459
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005502377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU)
@@ -2808,6 +2844,7 @@ Fischereien in der Nordsee im Zeitraum 2024-2027 (ABl. L, 2023/2459,
 
 
 ## § 36 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2023/2623
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005602377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung
@@ -2838,6 +2875,7 @@ Entnahme der Probe vornimmt.
 
 
 ## § 37 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2023/2638
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE004305377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -2851,6 +2889,7 @@ betreffend bestimmte Fangmöglichkeiten in anderen Gewässern (ABl. L,
 
 
 ## § 38 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2023/2833
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005702377)
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a
 des Seefischereigesetzes handelt, wer gegen die Verordnung (EU)
@@ -2895,6 +2934,7 @@ des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr.
 
 
 ## § 39 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2024/257
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE005802377)
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des
 Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2024/257
@@ -3168,6 +3208,7 @@ vorsätzlich oder fahrlässig
 
 
 ## § 40 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/fischrdv_1998/BJNR135500998.html#BJNR135500998BJNE003003377)
 
 Soweit die Ausführung des Seefischereigesetzes Bundesbehörden
 übertragen ist, wird die Zuständigkeit für die Verfolgung und Ahndung

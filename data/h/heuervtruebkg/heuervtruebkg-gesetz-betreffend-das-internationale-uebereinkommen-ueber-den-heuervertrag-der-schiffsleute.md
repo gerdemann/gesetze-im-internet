@@ -19,17 +19,20 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/he_rvtr_bkg/BJNR209870930.html#BJNR209870930BJNE000100326)
 
 -
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/he_rvtr_bkg/BJNR209870930.html#BJNR209870930BJNE000200326)
 
 ... Für die Durchführung des Übereinkommens ist die
 Seemannsordnung maßgebend. ...
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/he_rvtr_bkg/BJNR209870930.html#BJNR209870930BJNE000300326)
 
 (1) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in
 Kraft.

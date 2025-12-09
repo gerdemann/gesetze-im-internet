@@ -20,6 +20,7 @@ Stand: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2006/BJNR170200006.html#BJNR170200006BJNE000100000)
 
 Nach § 20 Abs. 4 Satz 3 des Zweiten Buches Sozialgesetzbuch (Artikel 1
 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954, 2955, das zuletzt
@@ -32,6 +33,7 @@ Partner minderjährig ist, 345 Euro.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/sgb2_20abs2bek_2006/BJNR170200006.html#BJNR170200006BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

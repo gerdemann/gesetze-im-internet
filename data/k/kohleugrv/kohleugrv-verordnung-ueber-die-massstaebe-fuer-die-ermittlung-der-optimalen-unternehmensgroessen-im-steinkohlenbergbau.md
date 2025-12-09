@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000100328)
 
 Auf Grund des § 20 des Gesetzes zur Anpassung und Gesundung des
 deutschen Steinkohlenbergbaus und der deutschen
@@ -27,6 +28,7 @@ wird verordnet:
 
 
 ## § 1 Optimale Unternehmensgröße, Steinkohlenbergbaubereich
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000200328)
 
 (1) Für die Ermittlung der nach dem 1. Januar 1969 maßgebenden
 optimalen Unternehmensgröße im Sinne des
@@ -45,6 +47,7 @@ erforderlichen technischen und kaufmännischen Verwaltung.
 
 
 ## § 2 Abbauplanung, Rationalisierung
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000300328)
 
 Das Unternehmen muß gewährleisten, daß es
 
@@ -65,6 +68,7 @@ Das Unternehmen muß gewährleisten, daß es
 
 
 ## § 3 Investitionsplanung
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000400328)
 
 Für Investitionen, die nach ihrer Art und ihrem Umfang für die
 Wirtschaftlichkeit des Steinkohlenbergbaus in einem
@@ -75,6 +79,7 @@ Steinkohlenbergbaubereich in dem vorgesehenen Umfang vornehmen kann.
 
 
 ## § 4 Konzentration und Anpassung
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000500328)
 
 (1) Das Unternehmen muß gewährleisten, daß die Konzentrations- und
 Anpassungsmaßnahmen, die zur Erreichung der in
@@ -96,6 +101,7 @@ beschränkt bleiben.
 
 
 ## § 5 Belegschaftswesen
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000600328)
 
 Das Unternehmen muß die Durchführung einer einheitlichen Planung des
 Belegschaftswesens für die im Steinkohlenbergbau eines
@@ -119,6 +125,7 @@ werden.
 
 
 ## § 6 Anwendung im Land Berlin
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000700328)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 43 Satz
@@ -126,11 +133,13 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000800328)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/kohleugrv/BJNR000160969.html#BJNR000160969BJNE000900328)
 
 Der Bundesminister für Wirtschaft
 

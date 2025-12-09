@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/rvbeitrsbek_2026/BJNR1230A0025.html#BJNR1230A0025BJNE000100000)
 
 Aufgrund des § 158 Absatz 4 des Sechsten Buches Sozialgesetzbuch, der
 zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober 2006
@@ -29,6 +30,7 @@ knappschaftlichen Rentenversicherung 24,7 Prozent.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rvbeitrsbek_2026/BJNR1230A0025.html#BJNR1230A0025BJNE000200000)
 
 Bundesministerium für Arbeit und Soziales
 

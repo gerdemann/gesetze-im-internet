@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000103126)
 
 Dieses Gesetz gilt für alle Arbeitnehmer. Praktikanten, die gemäß § 22
 Absatz 1 des Mindestlohngesetzes als Arbeitnehmer gelten, sind
@@ -28,6 +29,7 @@ Arbeitnehmer im Sinne dieses Gesetzes.
 
 
 ## § 2 Nachweispflicht
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000207126)
 
 (1) Der Arbeitgeber hat die wesentlichen Vertragsbedingungen des
 Arbeitsverhältnisses innerhalb der Fristen des Satzes 9 schriftlich
@@ -281,6 +283,7 @@ Satz 2 gilt nicht in den Fällen des Absatzes 1 Satz 6.
 
 
 ## § 3 Änderung der Angaben
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000302126)
 
 (1) Eine Änderung der wesentlichen Vertragsbedingungen oder der in § 2
 Absatz 2 und 3 genannten Angaben ist dem Arbeitnehmer spätestens an
@@ -311,6 +314,7 @@ nicht in den Fällen des § 2 Absatz 1 Satz 6.
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000601126)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -343,6 +347,7 @@ Euro geahndet werden.
 
 
 ## § 5 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000402126)
 
 Hat das Arbeitsverhältnis bereits vor dem 1. August 2022 bestanden, so
 ist dem Arbeitnehmer auf sein Verlangen spätestens am siebten Tag nach
@@ -356,6 +361,7 @@ entfällt diese Verpflichtung.
 
 
 ## § 6 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html#BJNR094610995BJNE000501126)
 
 Von den Vorschriften dieses Gesetzes kann nicht zuungunsten des
 Arbeitnehmers abgewichen werden.

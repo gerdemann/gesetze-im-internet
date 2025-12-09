@@ -19,16 +19,19 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kontrger_tbeglg/BJNR095400004.html#BJNR095400004BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## (XXXX) Art 1 u. 2
+[Direktlink](https://www.gesetze-im-internet.de/kontrger_tbeglg/BJNR095400004.html#BJNR095400004BJNE000200000)
 
 
 
 ## Art 3 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/kontrger_tbeglg/BJNR095400004.html#BJNR095400004BJNE000300000)
 
 Solange die §§ 8 bis 11 der Fahrpersonalverordnung vom 22. August 1969
 (BGBl. I S. 1307, 1791), die zuletzt durch Artikel 5 der Verordnung
@@ -40,6 +43,7 @@ weiter anzuwenden.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kontrger_tbeglg/BJNR095400004.html#BJNR095400004BJNE000400000)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

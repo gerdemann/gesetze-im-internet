@@ -20,6 +20,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000100308)
 
 
 *
@@ -57,6 +58,7 @@ mit den nachfolgenden Bestimmungen zu schließen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000200308)
 
 (1) Für die erste gesamtdeutsche Wahl wird der Geltungsbereich des
 Bundeswahlgesetzes der Bundesrepublik Deutschland in der Fassung der
@@ -85,6 +87,7 @@ gleichgestellt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000300308)
 
 Die zur Durchführung des Bundeswahlgesetzes erlassene
 Bundeswahlordnung in der Fassung der Bekanntmachung vom 7. Dezember
@@ -103,12 +106,14 @@ für Berlin (Ost).
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000400308)
 
 Für die Vorbereitung und Durchführung der Wahl wird Berlin als ein
 Land behandelt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000500308)
 
 Die Zuständigkeit des Bundeswahlleiters und des Bundeswahlausschusses
 nach den Vorschriften des Bundeswahlgesetzes und der Bundeswahlordnung
@@ -120,6 +125,7 @@ Bundeswahlausschuß.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000600308)
 
 Die Parteien genießen bei der Wahlvorbereitung volle
 Betätigungsfreiheit im Rahmen der Gesetze, soweit sie nicht vom
@@ -133,6 +139,7 @@ im Gebiet der Deutschen Demokratischen Republik verboten worden sind.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000700308)
 
 Die im bisherigen Geltungsbereich des Bundeswahlgesetzes bereits
 vorgenommenen Wahlvorbereitungshandlungen, insbesondere die
@@ -141,6 +148,7 @@ des Artikels 3 eine Neuvornahme erfordert.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000800308)
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser
 Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
@@ -148,6 +156,7 @@ Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE000900308)
 
 Dieser Vertrag einschließlich der Anlage tritt an dem Tag in Kraft, an
 dem die Regierungen der Vertragsparteien einander mitgeteilt haben,
@@ -156,6 +165,7 @@ innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE001000308)
 
 Geschehen in Berlin am 3. August 1990 in zwei Urschriften in deutscher
 Sprache.
@@ -179,6 +189,7 @@ Sprache.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE001100308)
 
 Fundstelle des Originaltextes: BGBl. II 1990, 824 - 825
 
@@ -478,6 +489,7 @@ gelten folgende Maßgaben:
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtr/BJNR208220990.html#BJNR208220990BJNE001200308)
 
 Fundstelle des Originaltextes: BGBl. II 1990, 826 - 830
 

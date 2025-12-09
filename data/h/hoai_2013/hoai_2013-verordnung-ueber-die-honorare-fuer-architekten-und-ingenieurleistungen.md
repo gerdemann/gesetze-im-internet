@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000100000)
 
 Auf Grund der §§ 1 und 2 des Gesetzes zur Regelung von Ingenieur- und
 Architektenleistungen vom 4. November 1971 (BGBl. I S. 1745, 1749),
@@ -28,9 +29,11 @@ die durch Artikel 1 des Gesetzes vom 12. November 1984 (BGBl. I S.
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000301360)
 
 Diese Verordnung gilt für Honorare für Ingenieur- und
 Architektenleistungen, soweit diese Leistungen durch diese Verordnung
@@ -39,6 +42,7 @@ Honorarberechnung einer Honorarvereinbarung zugrunde gelegt werden.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000400000)
 
 (1) Objekte sind Gebäude, Innenräume, Freianlagen, Ingenieurbauwerke,
 Verkehrsanlagen. Objekte sind auch Tragwerke und Anlagen der
@@ -118,6 +122,7 @@ werden.
 
 
 ### § 2a Honorartafeln und Basishonorarsatz
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007700360)
 
 (1) Die Honorartafeln dieser Verordnung weisen Orientierungswerte aus,
 die an der Art und dem Umfang der Aufgabe sowie an der Leistung
@@ -132,6 +137,7 @@ dieser Verordnung enthaltene Honorarsatz.
 
 
 ### § 3 Leistungen und Leistungsbilder
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000501360)
 
 (1) Grundleistungen sind Leistungen, die regelmäßig im Rahmen von
 Flächen-, Objekt- oder Fachplanungen auszuführen sind. Sie sind zur
@@ -151,6 +157,7 @@ soweit sie dort keine Grundleistungen darstellen.
 
 
 ### § 4 Anrechenbare Kosten
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000601360)
 
 (1) Anrechenbare Kosten sind Teil der Kosten für die Herstellung, den
 Umbau, die Modernisierung, Instandhaltung oder Instandsetzung von
@@ -191,6 +198,7 @@ objektbezogen zu ermitteln und in Textform zu vereinbaren.
 
 
 ### § 5 Honorarzonen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000701360)
 
 (1) Die Grundleistungen der Flächen-, Objekt- oder Fachplanungen
 werden zur Berechnung der Honorare nach den jeweiligen
@@ -207,6 +215,7 @@ vorzunehmen.
 
 
 ### § 6 Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000801360)
 
 (1) Bei der Ermittlung des Honorars für Grundleistungen im Sinne des §
 3 Absatz 1 sind zugrunde zu legen
@@ -271,6 +280,7 @@ Schwierigkeitsgrad als vereinbart.
 
 
 ### § 7 Honorarvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE000901360)
 
 (1) Das Honorar richtet sich nach der Vereinbarung, die die
 Vertragsparteien in Textform treffen. Sofern keine Vereinbarung über
@@ -290,6 +300,7 @@ Basishonorarsatzes als vereinbart.
 
 
 ### § 8 Berechnung des Honorars in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001001360)
 
 (1) Werden dem Auftragnehmer nicht alle Leistungsphasen eines
 Leistungsbildes übertragen, so dürfen nur die für die übertragenen
@@ -309,6 +320,7 @@ Einarbeitungsaufwands ist in Textform zu vereinbaren.
 
 
 ### § 9 Berechnung des Honorars bei Beauftragung von Einzelleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001101360)
 
 (1) Wird die Vorplanung oder Entwurfsplanung bei Gebäuden und
 Innenräumen, Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, der
@@ -343,6 +355,7 @@ werden. Die Vereinbarung hat in Textform zu erfolgen.
 
 
 ### § 10 Berechnung des Honorars bei vertraglichen Änderungen des Leistungsumfangs
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001201360)
 
 (1) Einigen sich Auftraggeber und Auftragnehmer während der Laufzeit
 des Vertrags darauf, dass der Umfang der beauftragten Leistung
@@ -360,6 +373,7 @@ Leistungsphase in Textform zu vereinbaren.
 
 
 ### § 11 Auftrag für mehrere Objekte
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001300000)
 
 (1) Umfasst ein Auftrag mehrere Objekte, so sind die Honorare
 vorbehaltlich der folgenden Absätze für jedes Objekt getrennt zu
@@ -390,6 +404,7 @@ zeitlichen oder örtlichen Zusammenhang erbracht werden sollen.
 
 
 ### § 12 Instandsetzungen und Instandhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001401360)
 
 (1) Honorare für Grundleistungen bei Instandsetzungen und
 Instandhaltungen von Objekten sind nach den anrechenbaren Kosten, der
@@ -404,6 +419,7 @@ Bewertung dieser Leistungsphase erhöht wird.
 
 
 ### § 13 Interpolation
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001501360)
 
 Zwischenstufen der in den Honorartafeln angegebenen anrechenbaren
 Kosten und Flächen oder Verrechnungseinheiten sind durch lineare
@@ -411,6 +427,7 @@ Interpolation zu ermitteln.
 
 
 ### § 14 Nebenkosten
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001601360)
 
 (1) Der Auftragnehmer kann neben den Honoraren dieser Verordnung auch
 die für die Ausführung des Auftrags erforderlichen Nebenkosten in
@@ -462,6 +479,7 @@ pauschale Abrechnung in Textform vereinbart worden ist.
 
 
 ### § 15 Fälligkeit des Honorars, Abschlagszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001701360)
 
 Für die Fälligkeit der Honorare für die von dieser Verordnung
 erfassten Leistungen gilt § 650g Absatz 4 des Bürgerlichen Gesetzbuchs
@@ -470,6 +488,7 @@ entsprechend. Für das Recht, Abschlagszahlungen zu verlangen, gilt §
 
 
 ### § 16 Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001800000)
 
 (1) Der Auftragnehmer hat Anspruch auf Ersatz der gesetzlich
 geschuldeten Umsatzsteuer für nach dieser Verordnung abrechenbare
@@ -486,12 +505,15 @@ enthaltenen Umsatzsteuer weiter zu berechnen.
 
 
 ## Teil 2 - Flächenplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000200000)
 
 
 ### Abschnitt 1 - Bauleitplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000300000)
 
 
 #### § 17 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE001901360)
 
 (1) Leistungen der Bauleitplanung umfassen die Vorbereitung der
 Aufstellung von Flächennutzungs- und Bebauungsplänen im Sinne des § 1
@@ -503,6 +525,7 @@ beim Verfahren.
 
 
 #### § 18 Leistungsbild Flächennutzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002000000)
 
 (1) Die Grundleistungen bei Flächennutzungsplänen sind in drei
 Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
@@ -535,6 +558,7 @@ umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 19 Leistungsbild Bebauungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002100000)
 
 (1) Die Grundleistungen bei Bebauungsplänen sind in drei
 Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
@@ -567,6 +591,7 @@ umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
 
 #### § 20 Honorare für Grundleistungen bei Flächennutzungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002201360)
 
 (1) Für die in § 18 und Anlage 2 genannten Grundleistungen bei
 Flächennutzungsplänen sind die in der nachstehenden Honorartafel
@@ -972,6 +997,7 @@ abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
 
 #### § 21 Honorare für Grundleistungen bei Bebauungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002301360)
 
 (1) Für die in § 19 und Anlage 3 genannten Grundleistungen bei
 Bebauungsplänen sind die in der nachstehenden Honorartafel
@@ -1349,9 +1375,11 @@ der geänderten Größe des Plangebiets zu berechnen.
 
 
 ### Abschnitt 2 - Landschaftsplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000400000)
 
 
 #### § 22 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002400000)
 
 (1) Landschaftsplanerische Leistungen umfassen das Vorbereiten und das
 Erstellen der für die Pläne nach Absatz 2 erforderlichen
@@ -1379,6 +1407,7 @@ anzuwenden:
 
 
 #### § 23 Leistungsbild Landschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002500000)
 
 (1) Die Grundleistungen bei Landschaftsplänen sind in vier
 Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
@@ -1405,6 +1434,7 @@ enthält Beispiele für Besondere Leistungen.
 
 
 #### § 24 Leistungsbild Grünordnungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002600000)
 
 (1) Die Grundleistungen bei Grünordnungsplänen und
 Landschaftsplanerischen Fachbeiträgen sind in vier Leistungsphasen
@@ -1432,6 +1462,7 @@ enthält Beispiele für Besondere Leistungen.
 
 
 #### § 25 Leistungsbild Landschaftsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002700000)
 
 (1) Die Grundleistungen bei Landschaftsrahmenplänen sind in vier
 Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der
@@ -1458,6 +1489,7 @@ enthält Beispiele für Besondere Leistungen.
 
 
 #### § 26 Leistungsbild Landschaftspflegerischer Begleitplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002800000)
 
 (1) Die Grundleistungen bei Landschaftspflegerischen Begleitplänen
 sind in vier Leistungsphasen unterteilt und werden wie folgt in
@@ -1484,6 +1516,7 @@ enthält Beispiele für Besondere Leistungen.
 
 
 #### § 27 Leistungsbild Pflege- und Entwicklungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE002900000)
 
 (1) Die Grundleistungen bei Pflege- und Entwicklungsplänen sind in
 vier Leistungsphasen zusammengefasst und werden wie folgt in
@@ -1510,6 +1543,7 @@ enthält Beispiele für Besondere Leistungen.
 
 
 #### § 28 Honorare für Grundleistungen bei Landschaftsplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003001360)
 
 (1) Für die in § 23 und Anlage 4 genannten Grundleistungen bei
 Landschaftsplänen sind die in der nachstehenden Honorartafel
@@ -1914,6 +1948,7 @@ abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
 
 #### § 29 Honorare für Grundleistungen bei Grünordnungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003101360)
 
 (1) Für die in § 24 und Anlage 5 genannten Grundleistungen bei
 Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind die
@@ -2320,6 +2355,7 @@ Planungsgebiets zu berechnen.
 
 
 #### § 30 Honorare für Grundleistungen bei Landschaftsrahmenplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003201360)
 
 (1) Für die in § 25 und Anlage 6 genannten Grundleistungen bei
 Landschaftsrahmenplänen sind die in der nachstehenden Honorartafel
@@ -2725,6 +2761,7 @@ Planungsgebiets zu berechnen.
 
 
 #### § 31 Honorare für Grundleistungen bei Landschaftspflegerischen Begleitplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003301360)
 
 (1) Für die in § 26 und Anlage 7 genannten Grundleistungen bei
 Landschaftspflegerischen Begleitplänen sind die in der nachstehenden
@@ -3131,6 +3168,7 @@ Planungsgebiets zu berechnen.
 
 
 #### § 32 Honorare für Grundleistungen bei Pflege- und Entwicklungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003401360)
 
 (1) Für die in § 27 und Anlage 8 genannten Grundleistungen bei Pflege-
 und Entwicklungsplänen sind die in der nachstehenden Honorartafel
@@ -3539,12 +3577,15 @@ Planungsgebiets zu berechnen.
 
 
 ## Teil 3 - Objektplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000500000)
 
 
 ### Abschnitt 1 - Gebäude und Innenräume
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000600000)
 
 
 #### § 33 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003500000)
 
 (1) Für Grundleistungen bei Gebäuden und Innenräumen sind die Kosten
 der Baukonstruktion anrechenbar.
@@ -3571,6 +3612,7 @@ Ausführung oder ihren Einbau fachlich überwacht.
 
 
 #### § 34 Leistungsbild Gebäude und Innenräume
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003600000)
 
 (1) Das Leistungsbild Gebäude und Innenräume umfasst Leistungen für
 Neubauten, Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten,
@@ -3625,6 +3667,7 @@ Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 35 Honorare für Grundleistungen bei Gebäuden und Innenräumen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003701360)
 
 (1) Für die in § 34 und der Anlage 10 Nummer 10.1 genannten
 Grundleistungen für Gebäude und Innenräume sind die in der
@@ -4253,6 +4296,7 @@ Anlage 10 Nummer 10.2 und Nummer 10.3 zu berücksichtigen.
 
 
 #### § 36 Umbauten und Modernisierungen von Gebäuden und Innenräumen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003801360)
 
 (1) Für Umbauten und Modernisierungen von Gebäuden kann bei einem
 durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2
@@ -4266,6 +4310,7 @@ vereinbart werden.
 
 
 #### § 37 Aufträge für Gebäude und Freianlagen oder für Gebäude und Innenräume
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE003901360)
 
 (1) § 11 Absatz 1 ist nicht anzuwenden, wenn die getrennte Berechnung
 der Honorare für Freianlagen weniger als 7 500 Euro anrechenbare
@@ -4281,9 +4326,11 @@ die Grundleistungen für Innenräume nicht berechnet werden.
 
 
 ### Abschnitt 2 - Freianlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000700000)
 
 
 #### § 38 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004000000)
 
 (1) Für Grundleistungen bei Freianlagen sind die Kosten für
 Außenanlagen anrechenbar, insbesondere für folgende Bauwerke und
@@ -4339,6 +4386,7 @@ Kosten für
 
 
 #### § 39 Leistungsbild Freianlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004100000)
 
 (1) Freianlagen sind planerisch gestaltete Freiflächen und Freiräume
 sowie entsprechend gestaltete Anlagen in Verbindung mit Bauwerken oder
@@ -4386,6 +4434,7 @@ Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 40 Honorare für Grundleistungen bei Freianlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004201360)
 
 (1) Für die in § 39 und der Anlage 11 Nummer 11.1 genannten
 Grundleistungen für Freianlagen sind die in der nachstehenden
@@ -4974,9 +5023,11 @@ Anlage 11 Nummer 11.2 zu berücksichtigen.
 
 
 ### Abschnitt 3 - Ingenieurbauwerke
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000800000)
 
 
 #### § 41 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004300000)
 
 Ingenieurbauwerke umfassen:
 
@@ -5008,6 +5059,7 @@ Ingenieurbauwerke umfassen:
 
 
 #### § 42 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004400000)
 
 (1) Für Grundleistungen bei Ingenieurbauwerken sind die Kosten der
 Baukonstruktion anrechenbar. Die Kosten für die Anlagen der
@@ -5049,6 +5101,7 @@ plant noch ihre Ausführung überwacht, die Kosten für
 
 
 #### § 43 Leistungsbild Ingenieurbauwerke
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004501360)
 
 (1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für
 Ingenieurbauwerke sind in neun Leistungsphasen unterteilt und werden
@@ -5106,6 +5159,7 @@ Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 44 Honorare für Grundleistungen bei Ingenieurbauwerken
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004601360)
 
 (1) Für die in § 43 und der Anlage 12 Nummer 12.1 genannten
 Grundleistungen bei Ingenieurbauwerken sind die in der nachstehenden
@@ -5700,9 +5754,11 @@ Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 
 ### Abschnitt 4 - Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG000900000)
 
 
 #### § 45 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004700000)
 
 Verkehrsanlagen sind
 
@@ -5720,6 +5776,7 @@ Verkehrsanlagen sind
 
 
 #### § 46 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004801360)
 
 (1) Für Grundleistungen bei Verkehrsanlagen sind die Kosten der
 Baukonstruktion anrechenbar. Soweit der Auftragnehmer die Ausstattung
@@ -5805,6 +5862,7 @@ Grundleistungen des § 47 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
 
 
 #### § 47 Leistungsbild Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE004900000)
 
 (1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für
 Verkehrsanlagen sind in neun Leistungsphasen unterteilt und werden wie
@@ -5844,6 +5902,7 @@ Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 48 Honorare für Grundleistungen bei Verkehrsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005001360)
 
 (1) Für die in § 47 und der Anlage 13 Nummer 13.1 genannten
 Grundleistungen bei Verkehrsanlagen sind die in der nachstehenden
@@ -6439,12 +6498,15 @@ Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
 
 ## Teil 4 - Fachplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG001000000)
 
 
 ### Abschnitt 1 - Tragwerksplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG001100000)
 
 
 #### § 49 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005100000)
 
 (1) Leistungen der Tragwerksplanung sind die statische Fachplanung für
 die Objektplanung Gebäude und Ingenieurbauwerke.
@@ -6456,6 +6518,7 @@ Ingenieurbauwerken maßgeblich sind.
 
 
 #### § 50 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005201360)
 
 (1) Bei Gebäuden und zugehörigen baulichen Anlagen sind 55 Prozent der
 Baukonstruktionskosten und 10 Prozent der Kosten der Technischen
@@ -6481,6 +6544,7 @@ Mehrleistungen für das Tragwerk nach § 51 erbringt.
 
 
 #### § 51 Leistungsbild Tragwerksplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005300000)
 
 (1) Die Grundleistungen der Tragwerksplanung sind für Gebäude und
 zugehörige bauliche Anlagen sowie für Ingenieurbauwerke nach § 41
@@ -6535,6 +6599,7 @@ Ingenieurbauwerke gemäß § 43 enthalten.
 
 
 #### § 52 Honorare für Grundleistungen bei Tragwerksplanungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005401360)
 
 (1) Für die in § 51 und der Anlage 14 Nummer 14.1 genannten
 Grundleistungen der Tragwerksplanungen sind die in der nachstehenden
@@ -7077,9 +7142,11 @@ Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 
 ### Abschnitt 2 - Technische Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG001200000)
 
 
 #### § 53 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005500000)
 
 (1) Die Leistungen der Technischen Ausrüstung umfassen die
 Fachplanungen für Objekte.
@@ -7114,6 +7181,7 @@ Fachplanungen für Objekte.
 
 
 #### § 54 Besondere Grundlagen des Honorars
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005601360)
 
 (1) Das Honorar für Grundleistungen bei der Technischen Ausrüstung
 richtet sich für das jeweilige Objekt im Sinne des § 2 Absatz 1 Satz 1
@@ -7150,6 +7218,7 @@ die Leistung der Technischen Ausrüstung wesentlich beeinflusst wird.
 
 
 #### § 55 Leistungsbild Technische Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005700000)
 
 (1) Das Leistungsbild Technische Ausrüstung umfasst Grundleistungen
 für Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten,
@@ -7198,6 +7267,7 @@ Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
 
 #### § 56 Honorare für Grundleistungen der Technischen Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005801360)
 
 (1) Für die in § 55 und der Anlage 15 Nummer 15.1 genannten
 Grundleistungen bei einzelnen Anlagen sind die in der nachstehenden
@@ -7581,9 +7651,11 @@ Satz 3 bis 50 Prozent in Textform vereinbart werden.
 
 
 ## Teil 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNG001300000)
 
 
 ### § 57 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE005901360)
 
 (1) Diese Verordnung ist nicht auf Grundleistungen anzuwenden, die vor
 dem 17. Juli 2013 vertraglich vereinbart wurden; insoweit bleiben die
@@ -7597,6 +7669,7 @@ sind.
 
 
 ### § 58 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Honorarordnung für Architekten und Ingenieure
@@ -7604,12 +7677,14 @@ vom 11. August 2009 (BGBl. I S. 2732) außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3 Absatz 1)
 
 ### Anlage 1 Weitere Fachplanungs- und Beratungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006201360)
 
 (Fundstelle: BGBl. I 2013, 2306 - 2323)
 
@@ -13377,6 +13452,7 @@ Der Bundesrat hat zugestimmt.
 (zu § 18 Absatz 2)
 
 ### Anlage 2 Grundleistungen im Leistungsbild Flächennutzungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006300000)
 
 (Fundstelle: BGBl. I 2013, 2324)
 
@@ -13484,6 +13560,7 @@ Grundleistungen je Leistungsphase zusammen:
 (zu § 19 Absatz 2)
 
 ### Anlage 3 Grundleistungen im Leistungsbild Bebauungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006400000)
 
 (Fundstelle: BGBl. I 2013, 2325)
 
@@ -13591,6 +13668,7 @@ Grundleistungen je Leistungsphase zusammen:
 (zu § 23 Absatz 2)
 
 ### Anlage 4 Grundleistungen im Leistungsbild Landschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006500000)
 
 (Fundstelle: BGBl. I 2013, 2326)
 
@@ -13695,6 +13773,7 @@ Grundleistungen je Leistungsphase zusammen:
 (zu § 24 Absatz 2)
 
 ### Anlage 5 Grundleistungen im Leistungsbild Grünordnungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006600000)
 
 (Fundstelle: BGBl. I 2013, 2327)
 
@@ -13814,6 +13893,7 @@ Grundleistungen je Leistungsphase zusammen:
 (zu § 25 Absatz 2)
 
 ### Anlage 6 Grundleistungen im Leistungsbild Landschaftsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006700000)
 
 (Fundstelle: BGBl. I 2013, 2328)
 
@@ -13919,6 +13999,7 @@ Grundleistungen je Leistungsphase zusammen:
 (zu § 26 Absatz 2)
 
 ### Anlage 7 Grundleistungen im Leistungsbild Landschaftspflegerischer Begleitplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006800000)
 
 (Fundstelle: BGBl. I 2013, 2329)
 
@@ -14049,6 +14130,7 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 (zu § 27 Absatz 2)
 
 ### Anlage 8 Grundleistungen im Leistungsbild Pflege- und Entwicklungsplan
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE006900000)
 
 (Fundstelle: BGBl. I 2013, 2330)
 
@@ -14163,6 +14245,7 @@ folgenden Grundleistungen je Leistungsphase zusammen:
 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)
 
 ### Anlage 9 Besondere Leistungen zur Flächenplanung
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007000000)
 
 (Fundstelle: BGBl. I 2013, 2331 - 2332)
 
@@ -14446,6 +14529,7 @@ folgende Besondere Leistungen vereinbart werden:
 (zu § 34 Absatz 4, § 35 Absatz 7)
 
 ### Anlage 10 Grundleistungen im Leistungsbild Gebäude und Innenräume, Besondere Leistungen, Objektlisten
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007100000)
 
 (Fundstelle: BGBl. I 2013, 2333 - 2340)
 
@@ -16266,6 +16350,7 @@ zugerechnet:
 (zu § 39 Absatz 4, § 40 Absatz 5)
 
 ### Anlage 11 Grundleistungen im Leistungsbild Freianlagen, Besondere Leistungen, Objektliste
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007200000)
 
 (Fundstelle: BGBl. I 2013, 2341 - 2346)
 
@@ -17264,6 +17349,7 @@ zugeordnet:
 (zu § 43 Absatz 4, § 48 Absatz 5)
 
 ### Anlage 12 Grundleistungen im Leistungsbild Ingenieurbauwerke, Besondere Leistungen, Objektliste
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007300000)
 
 (Fundstelle: BGBl. I 2013, 2347 - 2356)
 
@@ -19547,6 +19633,7 @@ zugerechnet:
 (zu § 47 Absatz 2, § 48 Absatz 5)
 
 ### Anlage 13 Grundleistungen im Leistungsbild Verkehrsanlagen, Besondere Leistungen, Objektliste
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007401360)
 
 (Fundstelle: BGBl. I 2013, 2357 - 2362)
 
@@ -20467,6 +20554,7 @@ Honorarzonen zugeordnet:
    (zu § 51 Absatz 5, § 52 Absatz 2)
 
 ### Anlage 14 Grundleistungen im Leistungsbild Tragwerksplanung, Besondere Leistungen, Objektliste
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007500000)
 
 (Fundstelle: BGBl. I 2013, 2363 - 2367)
 
@@ -21424,6 +21512,7 @@ zugeordnet werden:
 (zu § 55 Absatz 3, § 56 Absatz 3)
 
 ### Anlage 15 Grundleistungen im Leistungsbild Technische Ausrüstung, Besondere Leistungen, Objektliste
+[Direktlink](https://www.gesetze-im-internet.de/hoai_2013/BJNR227600013.html#BJNR227600013BJNE007600000)
 
 (Fundstelle: BGBl. I 2013, 2368 - 2374)
 

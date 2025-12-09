@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000100310)
 
 Auf Grund des § 30 Abs. 2 Nr. 16 des Gentechnikgesetzes in der Fassung
 der Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066), der durch
@@ -29,6 +30,7 @@ geändert worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000200310)
 
 Diese Verordnung gilt für gentechnische Anlagen, in denen
 gentechnische Arbeiten der Sicherheitsstufe 2, 3 oder 4 im Sinne des §
@@ -38,6 +40,7 @@ Arbeiten der Sicherheitsstufe 2 durchgeführt werden.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000300310)
 
 (1) Unfall im Sinne dieser Verordnung ist jedes Vorkommnis, das ein
 vom Betreiber nicht beabsichtigtes Entweichen gentechnisch veränderter
@@ -54,6 +57,7 @@ wird, zu schützen.
 
 
 ## § 3 Erstellung von außerbetrieblichen Notfallplänen
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000401310)
 
 (1) Die zuständige Behörde hat vor Beginn einer gentechnischen Arbeit
 der Sicherheitsstufe 3 oder 4 auf der Grundlage der vom Betreiber zu
@@ -94,6 +98,7 @@ ihnen ab.
 
 
 ## § 4 Informationen über außerbetriebliche Notfallpläne
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000500310)
 
 Die zuständige Behörde hat anderen Behörden, deren Zuständigkeit im
 Falle eines Unfalls nach § 3 Abs. 1 Satz 1 ebenfalls betroffen sein
@@ -108,6 +113,7 @@ Notfallplans vorliegen. Die zuständige Behörde hat die Informationen
 
 
 ## § 5 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000601310)
 
 (1) Der Betreiber hat bei einem Unfall die zuständige Behörde
 unverzüglich zu unterrichten und dabei folgendes anzugeben:
@@ -136,6 +142,7 @@ betroffen sein kann.
 
 
 ## § 6 Erforderliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000700310)
 
 Die zuständige Behörde hat im Zusammenwirken mit dem Betreiber und mit
 anderen Behörden, deren Zuständigkeit betroffen ist, sicherzustellen,
@@ -143,6 +150,7 @@ daß bei einem Unfall alle erforderlichen Maßnahmen getroffen werden.
 
 
 ## § 7 Analyse des Unfalls
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000800310)
 
 (1) Die zuständige Behörde hat eine Analyse des Unfalls zu erstellen
 und gegebenenfalls Empfehlungen zur Vermeidung ähnlicher Unfälle in
@@ -153,6 +161,7 @@ genannten Behörden.
 
 
 ## § 8 Unterrichtungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE000901310)
 
 (1) Sind bei einem Unfall grenzüberschreitende Auswirkungen nicht
 auszuschließen, hat die zuständige Behörde die von den übrigen
@@ -171,6 +180,7 @@ Zukunft zu übermitteln.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE001000310)
 
 Die zuständige Behörde hat in den Fällen des § 3 Abs. 1 Satz 1 für die
 vor dem Zeitpunkt des Inkrafttretens dieser Verordnung bereits
@@ -182,11 +192,13 @@ beendet ist.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE001100310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gentnotfv/BJNR288200997.html#BJNR288200997BJNE001200310)
 
 Der Bundesrat hat zugestimmt.
 

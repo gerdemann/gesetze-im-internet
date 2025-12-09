@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
@@ -37,6 +38,7 @@ für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000200000)
 
 Der Ausbildungsberuf des Textilgestalters und der Textilgestalterin im
 Handwerk wird nach § 25 der Handwerksordnung zur Ausbildung für das
@@ -45,11 +47,13 @@ Anlage B 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und in die Ausbildung in einer der Fachrichtungen:
@@ -76,6 +80,7 @@ und in die Ausbildung in einer der Fachrichtungen:
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
@@ -227,6 +232,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -248,6 +254,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000701360)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -317,6 +324,7 @@ statt.
 
 
 ## § 7 Gesellenprüfung in der Fachrichtung Filzen
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000800000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -492,6 +500,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gesellenprüfung in der Fachrichtung Klöppeln
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE000900000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -668,6 +677,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gesellenprüfung in der Fachrichtung Posamentieren
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001000000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -849,6 +859,7 @@ folgende Vorgaben:
 
 
 ## § 10 Gesellenprüfung in der Fachrichtung Sticken
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001100000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -1023,6 +1034,7 @@ folgende Vorgaben:
 
 
 ## § 11 Gesellenprüfung in der Fachrichtung Stricken
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001200000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -1199,6 +1211,7 @@ folgende Vorgaben:
 
 
 ## § 12 Gesellenprüfung in der Fachrichtung Weben
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001300000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -1377,6 +1390,7 @@ folgende Vorgaben:
 
 
 ## § 13 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001400000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1435,6 +1449,7 @@ Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 14 Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001500000)
 
 (1) Über das in § 4 Absatz 2 beschriebene Berufsbild hinaus kann die
 Zusatzqualifikation „Paramentik“ vermittelt werden.
@@ -1444,6 +1459,7 @@ aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ## § 15 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001600000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des Auszubildenden im
 Zusammenhang mit der Gesellenprüfung gesondert geprüft, wenn glaubhaft
@@ -1499,6 +1515,7 @@ ist durch eine gesonderte Bescheinigung zu dokumentieren.
 
 
 ## § 16 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001700000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -1507,6 +1524,7 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001800000)
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig treten
 die Sticker-Ausbildungsverordnung vom 29. Dezember 1983 (BGBl. 1984 I
@@ -1517,6 +1535,7 @@ Weberin im Handwerk vom 19. Juli 2001 (BGBl. I S. 1675) außer Kraft.
 (zu § 4)
 
 ## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Textilgestalter und zur Textilgestalterin im Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE001900000)
 
 (Fundstelle: BGBl. I 2011, 1187 - 1195)
 
@@ -2952,6 +2971,7 @@ und Fähigkeiten in der Fachrichtung Weben**
 (zu § 14)
 
 ## Anlage 2 Fertigkeiten, Kenntnisse und Fähigkeiten in der Zusatzqualifikation Paramentik
+[Direktlink](https://www.gesetze-im-internet.de/textilgestausbv/BJNR117800011.html#BJNR117800011BJNE002000000)
 
 (Fundstelle: BGBl. I 2011, 1196)
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000100000)
 
 Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch
 Artikel 2 Nummer 2 des Gesetzes vom 13. Februar 2013 (BGBl. I S. 174)
@@ -38,6 +39,7 @@ Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000202360)
 
 (1) Diese Verordnung regelt
 
@@ -75,6 +77,7 @@ des Handelsgesetzbuchs, die jeweils
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000300000)
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung
 von den gesetzlichen Anforderungen.
@@ -87,6 +90,7 @@ ergebenden Anforderungen sicherzustellen.
 
 
 ## § 3 Gegenstand der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000403360)
 
 (1) Wenn die prüfpflichtige nichtfinanzielle Gegenpartei im
 prüfpflichtigen Zeitraum clearingpflichtig war oder geworden ist, hat
@@ -214,6 +218,7 @@ Verordnung (EU) 2016/1033 geändert worden ist, sicherzustellen.
 
 
 ## § 4 Prüfpflichtiger Zeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000500000)
 
 Der prüfpflichtige Zeitraum, auf den sich die Prüfung erstreckt, ist
 vorbehaltlich des § 10 das am Stichtag des Jahresabschlusses endende
@@ -221,6 +226,7 @@ Geschäftsjahr.
 
 
 ## § 5 Umfang der Prüfung und Schwerpunktbildung durch den Prüfer
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000600000)
 
 (1) Bei seinen Feststellungen ist der Prüfer an die Auslegung der
 Bundesanstalt gebunden, die diese in ihren Leitlinien, Richtlinien,
@@ -247,6 +253,7 @@ Mängel handelt.
 
 
 ## § 6 Prüfungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000700000)
 
 (1) Der Prüfer bestimmt den Zeitpunkt des Prüfungsbeginns. Der
 Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit dem Tag
@@ -257,6 +264,7 @@ des prüfpflichtigen Zeitraums abzuschließen.
 
 
 ## § 7 Unterrichtungspflichten des Prüfers bei Behinderung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000800000)
 
 Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die
 prüfpflichtige nichtfinanzielle Gegenpartei weigert, die Prüfung
@@ -265,6 +273,7 @@ behindert.
 
 
 ## § 8 Aufzeichnungen des Prüfers und ihre Aufbewahrungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE000900000)
 
 (1) Der Prüfer ist berechtigt, über die Prüfung Aufzeichnungen in
 Papierform oder auf Datenträgern anzufertigen.
@@ -283,6 +292,7 @@ die Prüfung beendet worden ist.
 
 
 ## § 9 Inhalt der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE001000000)
 
 (1) Der Prüfer hat in seiner Bescheinigung auf die in § 3 genannten
 Prüfungsbereiche einzugehen und darzustellen, inwieweit die
@@ -316,6 +326,7 @@ zu erläutern.
 
 
 ## § 10 Erstmalige Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE001101360)
 
 (1) Abweichend von § 4 beginnt der erstmalig prüfpflichtige Zeitraum
 am 1. April 2014.
@@ -350,6 +361,7 @@ erstmalig prüfpflichtige Zeitraum am 3. Januar 2018.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gpr_fbv/BJNR026600014.html#BJNR026600014BJNE001200000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

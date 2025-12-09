@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000100000)
 
 Auf Grund des § 11 Absatz 1 Satz 2 des
 Behindertengleichstellungsgesetzes, das zuletzt durch Artikel 12 des
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000202126)
 
 (1) Die Barrierefreie-Informationstechnik-Verordnung dient dem Ziel,
 eine umfassend und grundsätzlich uneingeschränkt barrierefreie
@@ -43,6 +45,7 @@ Behinderungen zugänglich und nutzbar zu gestalten.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000302126)
 
 (1) Die Verordnung gilt unter Berücksichtigung der Umsetzungsfristen
 der §§ 12a bis 12c des Behindertengleichstellungsgesetzes für folgende
@@ -110,6 +113,7 @@ von dieser Verordnung festlegen.
 
 
 ## § 2a Begriffsdefinitionen
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001000126)
 
 (1) Websites im Sinne dieser Verordnung sind Auftritte, die
 
@@ -192,6 +196,7 @@ webbasierte und nicht webbasierte Anwendungen einschließlich der
 
 
 ## § 3 Anzuwendende Standards
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000403126)
 
 (1) Die in § 2 genannten Angebote, Anwendungen und Dienste der
 Informationstechnik sind barrierefrei zu gestalten. Dies erfordert,
@@ -243,6 +248,7 @@ Informationen in deutscher Sprache, insbesondere
 
 
 ## § 4 Erläuterungen in Deutscher Gebärdensprache und Leichter Sprache
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001100126)
 
 Auf der Startseite einer Website einer öffentlichen Stelle sind nach
 Anlage 2 folgende Erläuterungen in Deutscher Gebärdensprache und in
@@ -266,6 +272,7 @@ Leichter Sprache bereitzustellen:
 
 
 ## § 5 Ausschuss für barrierefreie Informationstechnik
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001201126)
 
 (1) Bei der nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes
 einzurichtenden Überwachungsstelle des Bundes für Barrierefreiheit von
@@ -318,6 +325,7 @@ unterstützt.
 
 
 ## § 6 Beratung und Unterstützung durch die Bundesfachstelle für Barrierefreiheit und die Informationstechnik-Dienstleister des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001300126)
 
 Die Bundesfachstelle für Barrierefreiheit als zentrale Anlaufstelle zu
 Fragen der Barrierefreiheit berät die öffentlichen Stellen des Bundes
@@ -330,6 +338,7 @@ Umsetzung der IT-Barrierefreiheit.
 
 
 ## § 7 Erklärung zur Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001400126)
 
 (1) Die Erklärung zur Barrierefreiheit nach § 12b des
 Behindertengleichstellungsgesetzes ist in einem barrierefreien und
@@ -387,6 +396,7 @@ aktualisieren.
 
 
 ## § 8 Überwachungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001500126)
 
 (1) Das Überwachungsverfahren nach § 13 Absatz 3 Satz 2 Nummer 1 des
 Behindertengleichstellungsgesetzes ist durch die Überwachungsstelle
@@ -420,6 +430,7 @@ Websites und mobilen Anwendungen.
 
 
 ## § 9 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE001600126)
 
 (1) Der Bericht an die Europäische Kommission wird durch die
 Überwachungsstelle nach § 13 Absatz 3 des
@@ -451,16 +462,19 @@ auch Angaben über:
 
 
 ## § 10 Folgenabschätzung
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000602126)
 
 Die Verordnung ist unter Berücksichtigung der technischen Entwicklung
 regelmäßig zu überprüfen.
 
 
 ## Anlage 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000802126)
 
 
 
 ## Anlage 2 (zu § 3 Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html#BJNR184300011BJNE000901119)
 
 (Fundstelle: BGBl. I 2011, 1859;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000100000)
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 7 in Verbindung mit Satz 2
 und 4 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S.
@@ -25,6 +26,7 @@ Versicherungsbeirats:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000200000)
 
 Die Regelungen dieser Verordnung gelten für
 
@@ -50,6 +52,7 @@ Die Regelungen dieser Verordnung gelten für
 
 
 ## § 2 Art und Weise der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000300000)
 
 (1) Die in § 1 Nummer 1 genannten Unternehmen müssen die Daten nach
 Artikel 304 Absatz 1 und Artikel 314 der Delegierten Verordnung (EU)
@@ -84,6 +87,7 @@ Hinweise sicherzustellen.
 
 
 ## § 3 Datenformate
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000400000)
 
 (1) Die Bundesanstalt veröffentlicht auf ihrer Internetseite die für
 eine elektronische Dateneinreichung jeweils zu verwendenden
@@ -100,6 +104,7 @@ XBRL-Taxonomie einzureichen.
 
 
 ## § 4 Datenqualität und Vollständigkeit der Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000500000)
 
 (1) Quantitative Vorlagen müssen der Bundesanstalt in Form eines
 vollständigen Datensatzes übermittelt werden. Dies gilt auch, wenn
@@ -155,6 +160,7 @@ zusammen übermittelt werden.
 
 
 ## § 5 Unternehmenskennung
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000600000)
 
 (1) Bei der Übermittlung quantitativer Informationen haben sich die
 Unternehmen gegenüber der Bundesanstalt durch eine Kennziffer für die
@@ -174,6 +180,7 @@ verfügen und sie auf Dauer verwenden dürfen.
 
 
 ## § 6 Zurückweisung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000700000)
 
 Die Bundesanstalt weist Datensätze zurück, die
 
@@ -195,6 +202,7 @@ Nummer 2 und 3 sind beim MVP-Portal abrufbar.
 
 
 ## § 7 Berichtspflichten nach der Verordnung (EU) 1374/2014
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000800000)
 
 (1) Benutzen Unternehmen den Meldeweg über die Bundesanstalt zur
 Erfüllung ihrer Berichtspflichten nach der Verordnung (EU) Nr.
@@ -209,6 +217,7 @@ Bundesanstalt einzureichen.
 
 
 ## § 8 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE000900000)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für die
 Berichterstattung über das Geschäftsjahr anzuwenden, das nach dem 31.
@@ -222,6 +231,7 @@ Versicherungsaufsichtsgesetzes.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/versmeldev/BJNR079300016.html#BJNR079300016BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

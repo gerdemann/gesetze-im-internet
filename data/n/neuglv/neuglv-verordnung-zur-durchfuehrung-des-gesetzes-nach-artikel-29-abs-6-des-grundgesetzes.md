@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002100314)
 
 Auf Grund des § 40 des Gesetzes über das Verfahren bei Volksentscheid,
 Volksbegehren und Volksbefragung nach Artikel 29 Abs. 6 des
@@ -28,14 +29,17 @@ Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1317) wird verordnet:
 
 
 ## Erster Abschnitt - Volksentscheid
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000100314)
 
 
 
 ### Erster Unterabschnitt - Abstimmungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000200314)
 
 
 
 #### § 1 Abstimmungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002200314)
 
 (1) Der Gesamtabstimmungsleiter, die Landesabstimmungsleiter, die
 Kreisabstimmungsleiter und ihre Stellvertreter werden vor jeder
@@ -61,6 +65,7 @@ angeordnet wird.
 
 
 #### § 2 Aufforderung zu Vorschlägen für die Berufung der Beisitzer in den Abstimmungsausschüssen und Abstimmungsvorständen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002300314)
 
 (1) In den Bekanntmachungen nach § 1 Abs. 1 Satz 2 ist zugleich unter
 Fristsetzung auf die Möglichkeit hinzuweisen, dem jeweiligen
@@ -76,6 +81,7 @@ richten sind.
 
 
 #### § 3 Bildung der Abstimmungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002400314)
 
 (1) Die Abstimmungsleiter berufen unverzüglich nach Ablauf der nach §
 2 Abs. 1 bestimmten Frist die Beisitzer der Abstimmungsausschüsse und
@@ -98,6 +104,7 @@ Stellvertreter endet.
 
 
 #### § 4 Tätigkeit der Abstimmungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002500314)
 
 (1) Die Abstimmungsausschüsse sind ohne Rücksicht auf die Zahl der
 erschienenen Beisitzer beschlußfähig.
@@ -129,6 +136,7 @@ Schriftführer zu unterzeichnen.
 
 
 #### § 5 Abstimmungsvorsteher und Abstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002600314)
 
 (1) Vor jeder Abstimmung sind für jeden Stimmbezirk, gegebenenfalls
 für jeden von mehreren Abstimmungsräumen oder Abstimmungstischen eines
@@ -195,6 +203,7 @@ erforderlichen Hilfskräfte zur Verfügung.
 
 
 #### § 6 Briefabstimmungsvorsteher und Briefabstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002700314)
 
 Für den Briefabstimmungsvorsteher und den Briefabstimmungsvorstand
 gilt § 5 entsprechend mit folgenden Maßgaben:
@@ -249,6 +258,7 @@ gilt § 5 entsprechend mit folgenden Maßgaben:
 
 
 #### § 7 Beweglicher Abstimmungsvorstand
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002800314)
 
 Für die Stimmabgabe in kleineren Krankenhäusern, kleineren Alten- oder
 Pflegeheimen, Klöstern, sozialtherapeutischen Anstalten und
@@ -263,6 +273,7 @@ Entgegennahme der Stimmzettel beauftragen.
 
 
 #### § 8 Ehrenämter, Auslagenersatz, Erfrischungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE002900314)
 
 Die Vorschriften der Bundeswahlordnung über Ehrenämter, den
 Auslagenersatz für Inhaber von Wahlämtern und über das
@@ -270,14 +281,17 @@ Erfrischungsgeld sind anzuwenden.
 
 
 ### Zweiter Unterabschnitt - Vorbereitung des Volksentscheids
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000300314)
 
 
 
 #### 1. - Stimmbezirke
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000400314)
 
 
 
 ##### § 9 Allgemeine Stimmbezirke und Sonderstimmbezirke
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003000314)
 
 (1) Die Gemeinden werden in Stimmbezirke eingeteilt. Die Stimmbezirke
 dürfen die Grenzen der Abstimmungsbereiche nicht überschreiten.
@@ -287,10 +301,12 @@ Bildung der Wahlbezirke anzuwenden.
 
 
 #### 2. - Stimmrecht, Stimmscheine
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000500314)
 
 
 
 ##### § 10 Stimmrecht, Stimmberechtigtenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003100314)
 
 (1) Stimmberechtigt nach § 4 des Gesetzes sind auch
 
@@ -326,6 +342,7 @@ Stimmberechtigtenverzeichnis entfällt.
 
 
 ##### § 11 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003200314)
 
 Der Stimmschein wird von der Gemeindebehörde erteilt, in deren
 Stimmberechtigtenverzeichnis der Stimmberechtigte eingetragen ist oder
@@ -333,6 +350,7 @@ hätte eingetragen werden müssen.
 
 
 ##### § 12 Stimmscheinanträge
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003300314)
 
 (1) Die Erteilung eines Stimmscheins kann schriftlich oder mündlich
 bei der Gemeindebehörde beantragt werden; eine fernmündliche
@@ -363,6 +381,7 @@ abstimmen.
 
 
 ##### § 13 Entscheidung über die Stimmscheinanträge
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003400314)
 
 (1) Die Gemeindebehörde hat über den Antrag auf Erteilung eines
 Stimmscheins unverzüglich zu entscheiden. In einer ablehnenden
@@ -380,6 +399,7 @@ anzuwenden.
 
 
 ##### § 14 Erteilung von Stimmscheinen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003500314)
 
 (1) Der Stimmschein muß von dem mit der Erteilung beauftragten
 Bediensteten eigenhändig unterschrieben werden und mit dem
@@ -428,6 +448,7 @@ Luftpost sonst geboten erscheint.
 
 
 ##### § 15 Stimmscheinverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003600314)
 
 (1) Über die erteilten Stimmscheine führt die Gemeindebehörde ein
 Stimmscheinverzeichnis, in dem die beiden Fälle des § 5 Abs. 2 des
@@ -456,6 +477,7 @@ Satz 1 der beauftragten Gemeinde zuzuleiten; Satz 2 gilt entsprechend.
 
 
 ##### § 16 Ungültigkeitserklärung von Stimmscheinen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003700314)
 
 (1) Wird ein Stimmberechtigter, der bereits einen Stimmschein erhalten
 hat, im Stimmberechtigtenverzeichnis gestrichen, so ist der
@@ -473,6 +495,7 @@ nicht ungültig ist.
 
 
 ##### § 17 Verlorene Stimmscheine
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003800314)
 
 Verlorene Stimmscheine werden nicht ersetzt. Versichert ein
 Stimmberechtigter glaubhaft, daß ihm der beantragte Stimmschein nicht
@@ -482,6 +505,7 @@ ein neuer Stimmschein erteilt werden; § 15 Abs. 3 Satz 2 und 3 und §
 
 
 ##### § 18 Erteilung von Stimmscheinen an bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE003900314)
 
 (1) Die Gemeindebehörde fordert spätestens am achten Tag vor der
 Abstimmung von den Leitungen
@@ -527,6 +551,7 @@ verständigen.
 
 
 ##### § 19 Vermerk im Stimmberechtigtenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004000314)
 
 Hat ein Stimmberechtigter einen Stimmschein erhalten, so wird im
 Stimmberechtigtenverzeichnis in der Spalte für den Vermerk über die
@@ -534,16 +559,19 @@ Stimmabgabe "Stimmschein" oder "S" eingetragen.
 
 
 #### 3. - Abstimmungsräume, Abstimmungsbekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000600314)
 
 
 
 ##### § 20 Abstimmungsräume
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004100314)
 
 Auf die Abstimmungsräume sind die Vorschriften der Bundeswahlordnung
 über die Wahlräume entsprechend anzuwenden.
 
 
 ##### § 21 Abstimmungsbekanntmachung der Gemeindebehörde
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004200314)
 
 (1) Die Gemeindebehörde macht spätestens am sechsten Tag vor der
 Abstimmung Beginn und Ende der Abstimmungszeit sowie die Stimmbezirke
@@ -588,10 +616,12 @@ als Muster beizufügen.
 
 
 ### Dritter Unterabschnitt - Abstimmungshandlung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000700314)
 
 
 
 #### § 22 Ausstattung des Abstimmungsvorstands
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004300314)
 
 Die Gemeindebehörde übergibt dem Abstimmungsvorsteher eines jeden
 Stimmbezirks vor Beginn der Abstimmungshandlung
@@ -634,12 +664,14 @@ Stimmbezirks vor Beginn der Abstimmungshandlung
 
 
 #### § 23 Anwendbarkeit der Bundeswahlordnung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004400314)
 
 Auf die Abstimmungshandlung sind die Vorschriften der
 Bundeswahlordnung über die Wahlhandlung entsprechend anzuwenden.
 
 
 #### § 24 Briefabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004500314)
 
 (1) Der Stimmbrief muß beim Kreisabstimmungsleiter eingehen. Im Falle
 der Bildung mehrerer Briefabstimmungsvorstände innerhalb eines Kreises
@@ -652,10 +684,12 @@ Bundeswahlordnung über die Briefwahl entsprechend anzuwenden.
 
 
 ### Vierter Unterabschnitt - Ermittlung und Feststellung der Abstimmungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000800314)
 
 
 
 #### § 25 Ermittlung der zum Bundestag Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004600314)
 
 Am Tag der Abstimmung ermittelt die Gemeindebehörde
 
@@ -673,6 +707,7 @@ dem Kreisabstimmungsleiter eingegangen sein.
 
 
 #### § 26 Ermittlung und Feststellung des Abstimmungsergebnisses im Stimmbezirk
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004700314)
 
 Im Anschluß an die Abstimmungshandlung ermittelt der
 Abstimmungsvorstand unverzüglich das Abstimmungsergebnis im
@@ -702,6 +737,7 @@ Stimmbezirk und stellt fest
 
 
 #### § 27 Zählung der Abstimmenden
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004800314)
 
 Vor dem Öffnen der Stimmurne werden alle nicht benutzten
 Stimmumschläge und Stimmzettel vom Stimmtisch entfernt. Sodann werden
@@ -714,6 +750,7 @@ Abstimmungsniederschrift zu vermerken und möglichst zu erläutern.
 
 
 #### § 28 Zählung der Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE004900314)
 
 (1) Nachdem die Stimmumschläge sowie die Stimmabgabevermerke und die
 Stimmscheine gezählt worden sind, öffnen mehrere Beisitzer unter
@@ -800,6 +837,7 @@ je für sich und behalten sie unter Aufsicht.
 
 
 #### § 29 Bekanntgabe des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005000314)
 
 Im Anschluß an die Feststellungen nach § 26 gibt der
 Abstimmungsvorsteher das Abstimmungsergebnis im Stimmbezirk mit den in
@@ -810,6 +848,7 @@ nicht mitgeteilt werden.
 
 
 #### § 30 Schnellmeldungen, vorläufige Abstimmungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005101311)
 
 (1) Sobald das Abstimmungsergebnis im Stimmbezirk festgestellt ist,
 meldet es der Abstimmungsvorsteher dem Kreisabstimmungsleiter.
@@ -847,6 +886,7 @@ bekannt.
 
 
 #### § 31 Abstimmungsniederschrift
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005200314)
 
 (1) Über die Abstimmungshandlung sowie die Ermittlung und Feststellung
 des Abstimmungsergebnisses ist vom Schriftführer eine Niederschrift zu
@@ -880,6 +920,7 @@ Unbefugten nicht zugänglich sind.
 
 
 #### § 32 Übergabe und Verwahrung der Abstimmungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005300314)
 
 (1) Hat der Abstimmungsvorstand seine Aufgaben erledigt, so verpackt
 der Abstimmungsvorsteher je für sich
@@ -922,6 +963,7 @@ ist.
 
 
 #### § 33 Behandlung der rechtzeitig eingegangenen Stimmbriefe
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005400314)
 
 (1) Die für den Eingang der Stimmbriefe zuständige Stelle (§ 24 Abs.
 1) sammelt die Stimmbriefe ungeöffnet und hält sie unter Verschluß.
@@ -938,6 +980,7 @@ werden.
 
 
 #### § 34 Vorbereitung der Ermittlung und Feststellung des Briefabstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005500314)
 
 (1) Sind bis zum Abstimmungstag, 13.00 Uhr, bei der für den Eingang
 der Stimmbriefe zuständigen Stelle, in den Fällen des § 6 Nr. 1 bei
@@ -970,6 +1013,7 @@ Verfügung.
 
 
 #### § 35 Behandlung der verspätet eingegangenen Stimmbriefe
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005600314)
 
 (1) Die für den Eingang der Stimmbriefe zuständige Stelle nimmt die
 verspätet eingegangenen Stimmbriefe an. Sie vermerkt auf jedem am
@@ -985,6 +1029,7 @@ das Paket Unbefugten nicht zugänglich ist.
 
 
 #### § 36 Zulassung der Stimmbriefe
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005700314)
 
 (1) Ein vom Briefabstimmungsvorsteher bestimmtes Mitglied des
 Briefabstimmungsvorstands öffnet die Stimmbriefe nacheinander und
@@ -1010,6 +1055,7 @@ abgegeben (§ 12 Abs. 3 Satz 2 des Gesetzes).
 
 
 #### § 37 Ermittlung und Feststellung des Briefabstimmungsergebnisses in den Kreisen und kreisfreien Städten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005800314)
 
 (1) Nachdem die Stimmumschläge den Stimmbriefen entnommen und in die
 Stimmurne gelegt worden sind, jedoch nicht vor Schluß der allgemeinen
@@ -1059,6 +1105,7 @@ Kreises oder der kreisfreien Stadt nach § 40 übernommen.
 
 
 #### § 38 Ermittlung und Feststellung des Briefabstimmungsergebnisses bei weniger als 50 rechtzeitig eingegangenen Stimmbriefen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE005900314)
 
 (1) Im Falle des § 34 Abs. 1 verfährt der Briefabstimmungsvorstand
 nach den Vorschriften des § 36 und ermittelt sodann nur die Zahl der
@@ -1102,6 +1149,7 @@ Briefabstimmungsvorstands beizufügen.
 
 
 #### § 39 Nachträgliche Ermittlung und Feststellung des Briefabstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006000314)
 
 Stellt der Gesamtabstimmungsleiter fest, daß im Bundesgebiet infolge
 von Naturkatastrophen oder ähnlichen Ereignissen höherer Gewalt die
@@ -1116,6 +1164,7 @@ Feststellung des Briefabstimmungsergebnisses überwiesen.
 
 
 #### § 40 Ermittlung und Feststellung des Abstimmungsergebnisses in den Kreisen und kreisfreien Städten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006100314)
 
 (1) Der Kreisabstimmungsleiter prüft die Abstimmungsniederschriften
 der Abstimmungsvorstände auf Vollständigkeit und Ordnungsmäßigkeit. Er
@@ -1194,6 +1243,7 @@ dazugehörigen Zusammenstellung.
 
 
 #### § 41 Ermittlung und Feststellung des Abstimmungsergebnisses im Land
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006200314)
 
 (1) Der Landesabstimmungsleiter prüft die Abstimmungsniederschriften
 der Kreisabstimmungsausschüsse und stellt danach die endgültigen
@@ -1219,6 +1269,7 @@ mit der dazugehörigen Zusammenstellung.
 
 
 #### § 42 Abschließende Ermittlung und Feststellung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006301311)
 
 (1) Der Gesamtabstimmungsleiter prüft die Abstimmungsniederschriften
 der Landesabstimmungsausschüsse. Er stellt nach den Niederschriften
@@ -1266,6 +1317,7 @@ Gesamtabstimmungsausschusses mit der dazugehörigen Zusammenstellung.
 
 
 #### § 43 Niederschriften der Abstimmungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006400314)
 
 In den Fällen der §§ 40 bis 42 sind die Niederschrift über die Sitzung
 des jeweiligen Abstimmungsausschusses (§ 4 Abs. 7) und die ihr
@@ -1275,6 +1327,7 @@ teilgenommen haben, zu unterschreiben.
 
 
 #### § 44 Bekanntgabe der endgültigen Abstimmungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006500314)
 
 Im Anschluß an die Feststellungen des jeweiligen
 Abstimmungsausschusses gibt der Abstimmungsleiter das
@@ -1284,6 +1337,7 @@ Feststellung mündlich bekannt.
 
 
 #### § 45 Überprüfung der Abstimmung durch die Landesabstimmungsleiter und den Gesamtabstimmungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006600314)
 
 (1) Die Landesabstimmungsleiter und der Gesamtabstimmungsleiter
 prüfen, ob die Abstimmung nach den Vorschriften des Gesetzes über das
@@ -1303,14 +1357,17 @@ Abstimmungsunterlagen übersenden.
 
 
 ## Zweiter Abschnitt - Volksbegehren
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG000900314)
 
 
 
 ### Erster Unterabschnitt - Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001000314)
 
 
 
 #### § 46 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006701311)
 
 Der Antrag auf Zulassung eines Volksbegehrens ist nach Formblatt (§
 47) an den Bundesminister des Innern, für Bau und Heimat zu richten.
@@ -1320,6 +1377,7 @@ bestätigt den Eingang des Antrags.
 
 
 #### § 47 Form des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006800314)
 
 (1) Die für den Zulassungsantrag erforderlichen Unterschriften sind
 auf Formblättern nach dem Muster der Anlage abzugeben. Jedes Blatt hat
@@ -1336,6 +1394,7 @@ werden.
 
 
 #### § 48 Unterzeichnung des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE006900314)
 
 (1) Die Unterzeichner des Zulassungsantrags müssen sich in die
 Unterschriftsblätter persönlich und handschriftlich mit Vor- und
@@ -1351,6 +1410,7 @@ zweifelsfrei erkennen lassen, sind ungültig.
 
 
 #### § 49 Bescheinigung der Unterschriftsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007000314)
 
 (1) Die Unterschriftsberechtigung der Unterzeichner des
 Zulassungsantrags ist durch eine Bescheinigung nachzuweisen, die von
@@ -1363,6 +1423,7 @@ festgestellt, so hat die Gemeinde dies zu vermerken.
 
 
 #### § 50 Ordnung, Zusammenstellung und Einreichen der Unterschriftsblätter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007100314)
 
 (1) Die Unterschriftsblätter sind von den Antragstellern zunächst nach
 Regierungsbezirken, sodann nach kreisfreien Städten, Kreisen und
@@ -1377,6 +1438,7 @@ dieser Unterschriften muß aufgerechnet sein.
 
 
 #### § 51 Zurücknahme und Änderung des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007200314)
 
 (1) Für die Zurücknahme und die Änderung des Zulassungsantrags gelten
 die §§ 47 bis 50 entsprechend.
@@ -1387,16 +1449,19 @@ durch Erklärung des Vertrauensmanns oder seines Stellvertreters.
 
 
 #### § 52 Kostentragung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007300314)
 
 Die Kosten des Zulassungsantrags sowie die Kosten der Zurücknahme und
 der Änderung des Zulassungsantrags werden nicht erstattet.
 
 
 ### Zweiter Unterabschnitt - Eintragungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001100314)
 
 
 
 #### § 53 Eintragungsleiter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007400314)
 
 Der Gesamteintragungsleiter, die Landeseintragungsleiter, die
 Kreiseintragungsleiter und ihre Stellvertreter werden für jedes
@@ -1405,6 +1470,7 @@ ernannt. § 1 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
 
 #### § 54 Aufforderung zu Vorschlägen für die Berufung der Eintragungsausschußbeisitzer
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007500314)
 
 In den öffentlichen Bekanntmachungen (§ 53 Satz 2, § 1 Abs. 1 Satz 2)
 ist zugleich unter Fristsetzung auf die Möglichkeit hinzuweisen,
@@ -1413,6 +1479,7 @@ als stellvertretende Beisitzer vorzuschlagen.
 
 
 #### § 55 Bildung und Tätigkeit der Eintragungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007600314)
 
 (1) Die Eintragungsleiter berufen unverzüglich nach Ablauf der im § 54
 bezeichneten Frist die Beisitzer der Eintragungsausschüsse und für
@@ -1438,6 +1505,7 @@ der Eintragungsausschüsse und auf deren Tätigkeit sind § 3 Abs. 2 und
 
 
 #### § 56 Ehrenämter, Auslagenersatz, Erfrischungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007700314)
 
 Die Vorschriften der Bundeswahlordnung über Ehrenämter, den
 Auslagenersatz für Inhaber von Wahlämtern und über das
@@ -1445,14 +1513,17 @@ Erfrischungsgeld sind anzuwenden.
 
 
 ### Dritter Unterabschnitt - Vorbereitung des Volksbegehrens
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001200314)
 
 
 
 #### 1. - Eintragungsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001300314)
 
 
 
 ##### § 57 Allgemeine Eintragungsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007800314)
 
 (1) Die Gemeinden werden in Eintragungsbezirke eingeteilt. Die
 Gemeindebehörde bestimmt, welche Eintragungsbezirke zu bilden sind.
@@ -1478,6 +1549,7 @@ Gesamteintragungsbezirk soll nicht mehr als 5.000 Einwohner umfassen.
 
 
 ##### § 58 Sondereintragungsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE007900314)
 
 (1) Für Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime,
 Erholungsheime und gleichartige Einrichtungen einschließlich kleinerer
@@ -1495,10 +1567,12 @@ Eintragungsraum nicht aufsuchen sollen oder dürfen.
 
 
 #### 2. - Eintragungsberechtigung, Eintragungsscheine
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001400314)
 
 
 
 ##### § 59 Eintragungsberechtigung, Eintragungsberechtigtenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008000314)
 
 (1) Eintragungsberechtigt nach § 27 des Gesetzes sind auch die im § 10
 Abs. 1 bezeichneten Personen, wenn für ihre Aufnahme in das
@@ -1521,6 +1595,7 @@ berichtigen.
 
 
 ##### § 60 Beantragung von Eintragungsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008100314)
 
 (1) Eintragungsscheine können für jedes Volksbegehren von der
 Bekanntmachung der Eintragungsfrist bis zu deren Ablauf beantragt
@@ -1540,6 +1615,7 @@ auf die Frist des Einspruchs hinzuweisen.
 
 
 ##### § 61 Erteilung von Eintragungsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008200314)
 
 Auf die Erteilung der Eintragungsscheine sind die Vorschriften des §
 14 Abs. 1, 2 und 4 entsprechend anzuwenden. Im Falle des § 14 Abs. 2
@@ -1548,6 +1624,7 @@ Satz 2 wird auf dem Eintragungsschein vermerkt, daß er nach § 29 Abs.
 
 
 ##### § 62 Verzeichnisse der Eintragungsscheine
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008300314)
 
 Die Vorschriften des § 15 Abs. 1 und 2 sind mit der Maßgabe
 entsprechend anzuwenden, daß in den Verzeichnissen über die erteilten
@@ -1556,6 +1633,7 @@ Gesetzes getrennt gehalten werden.
 
 
 ##### § 63 Ungültigkeitserklärung von Eintragungsscheinen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008400314)
 
 Wird ein Eintragungsberechtigter, der bereits einen Eintragungsschein
 erhalten hat, im Eintragungsberechtigtenverzeichnis gestrichen, so ist
@@ -1572,6 +1650,7 @@ berichtigen.
 
 
 ##### § 64 Verlorene Eintragungsscheine
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008500314)
 
 Verlorene Eintragungsscheine werden nicht ersetzt. Versichert ein
 Eintragungsberechtigter glaubhaft, daß ihm der beantragte
@@ -1581,6 +1660,7 @@ Eintragungsschein erteilt werden. § 63 gilt entsprechend.
 
 
 ##### § 65 Erteilung von Eintragungsscheinen an bestimmte Personengruppen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008600314)
 
 (1) Die Gemeindebehörde fordert spätestens am achten Tag vor Beginn
 der Eintragungsfrist von den Leitungen der Einrichtungen, für die ein
@@ -1613,6 +1693,7 @@ entsprechend Absatz 3 zu verständigen.
 
 
 ##### § 66 Vermerk im Eintragungsberechtigtenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008700314)
 
 Hat ein Eintragungsberechtigter einen Eintragungsschein erhalten, so
 wird im Eintragungsberechtigtenverzeichnis in der Spalte für den
@@ -1621,6 +1702,7 @@ oder "E" eingetragen.
 
 
 ##### § 67 Einspruch und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008800314)
 
 (1) Der Einspruch gegen die Versagung des Eintragungsscheins wird bei
 der Gemeindebehörde schriftlich oder durch Erklärung zur Niederschrift
@@ -1638,10 +1720,12 @@ Gemeindebehörde bekanntzugeben.
 
 
 #### 3. - Eintragungsblätter, Eintragungsräume, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001500314)
 
 
 
 ##### § 68 Eintragungsblätter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE008900314)
 
 Die Eintragungsblätter werden amtlich hergestellt und durch den
 Kreiseintragungsleiter den Gemeinden in der erforderlichen Anzahl
@@ -1649,6 +1733,7 @@ zugewiesen.
 
 
 ##### § 69 Eintragungsräume
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009000314)
 
 (1) Die Gemeindebehörde bestimmt für jeden allgemeinen
 Eintragungsbezirk, jeden Gesamteintragungsbezirk und jeden
@@ -1672,6 +1757,7 @@ Eintragungsräume in den Teileintragungsbezirken geöffnet sind.
 
 
 ##### § 70 Bekanntmachung zum Volksbegehren
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009100314)
 
 (1) Die Gemeindebehörde macht spätestens am sechsten Tag vor Beginn
 der Eintragungsfrist unter Hinweis auf Eintragungsfrist und
@@ -1711,10 +1797,12 @@ anzubringen und dort bis zum Ablauf der Eintragungsfrist zu belassen.
 
 
 ### Vierter Unterabschnitt - Eintragungshandlung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001600314)
 
 
 
 #### § 71 Auslegung der Eintragungsblätter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009200314)
 
 (1) Die Gemeindebehörde legt die Eintragungsblätter in den
 Eintragungsräumen während der Eintragungsfrist zu den festgesetzten
@@ -1733,6 +1821,7 @@ in ihrem Teileintragungsbezirk an dem Volksbegehren zu beteiligen.
 
 
 #### § 72 Aufsichtsführender
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009300314)
 
 (1) Die Gemeindebehörde bestimmt, wer während der Eintragungsstunden
 in den Eintragungsräumen die amtliche Aufsicht führt und die sonstigen
@@ -1744,6 +1833,7 @@ auf mehrere verteilen.
 
 
 #### § 73 Ausstattung des Aufsichtsführenden
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009400314)
 
 Die Gemeindebehörde übergibt dem Aufsichtsführenden eines jeden
 Eintragungsraums vor Beginn der Eintragungshandlung
@@ -1782,6 +1872,7 @@ Eintragungsraums vor Beginn der Eintragungshandlung
 
 
 #### § 74 Berichtigung des Eintragungsberechtigtenverzeichnisses
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009500314)
 
 (1) Vor Beginn der Eintragungshandlung berichtigt der
 Aufsichtsführende das Eintragungsberechtigtenverzeichnis nach dem
@@ -1801,18 +1892,21 @@ Absatz 1 Satz 2.
 
 
 #### § 75 Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009600314)
 
 Während der Eintragungsstunden hat jedermann zum Eintragungsraum
 Zutritt, soweit das ohne Störung der Eintragungshandlung möglich ist.
 
 
 #### § 76 Ordnung im Eintragungsraum
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009700314)
 
 Der Aufsichtsführende sorgt für Ruhe und Ordnung im Eintragungsraum.
 Er ordnet bei Andrang den Zutritt zum Eintragungsraum.
 
 
 #### § 77 Prüfung der Eintragungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009800314)
 
 (1) Vor der Eintragung ist die Eintragungsberechtigung zu prüfen. Wer
 sich in die Eintragungsblätter eintragen will, gibt dem
@@ -1850,6 +1944,7 @@ die Bestimmung des § 64 hinzuweisen.
 
 
 #### § 78 Eintragung in die Eintragungsblätter
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE009900314)
 
 (1) Die Unterschriften dürfen nur auf den amtlichen
 Eintragungsblättern und nur in den Eintragungsräumen während der
@@ -1867,6 +1962,7 @@ eintragen.
 
 
 #### § 79 Vermerk über die Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010000314)
 
 Die Ausübung des Eintragungsrechts wird neben dem Namen des
 Eintragungsberechtigten im Eintragungsberechtigtenverzeichnis in der
@@ -1875,6 +1971,7 @@ dieselbe Spalte benutzt werden.
 
 
 #### § 80 Eintragung von Inhabern eines Eintragungsscheins
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010100314)
 
 Der Inhaber eines Eintragungsscheins nennt seinen Namen, weist sich
 aus und übergibt den Eintragungsschein dem Aufsichtsführenden. Dieser
@@ -1886,6 +1983,7 @@ Eintragungsschein fügt er der Anlage bei.
 
 
 #### § 81 Schluß der Eintragungshandlung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010200314)
 
 (1) Sobald die Eintragungsstunden abgelaufen sind, gibt der
 Aufsichtsführende dies bekannt, sperrt den Zutritt zum Eintragungsraum
@@ -1902,6 +2000,7 @@ unter Verschluß.
 
 
 #### § 82 Eintragung in Sondereintragungsbezirken
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010300314)
 
 (1) Zur Eintragung in Sondereintragungsbezirken (§ 58 Abs. 1) wird
 jeder in der Einrichtung anwesende Eintragungsberechtigte zugelassen,
@@ -1939,6 +2038,7 @@ verantwortlich, die ansteckende Krankheiten haben.
 
 
 #### § 83 Eintragung in gesperrten Wohnstätten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010400314)
 
 (1) Zur Eintragung in gesperrten Wohnstätten sind deren Bewohner
 zugelassen, die einen Eintragungsschein haben.
@@ -1968,16 +2068,19 @@ der Erklärung ersetzt. § 78 Abs. 2 Satz 2 gilt entsprechend.
 
 
 ### Fünfter Unterabschnitt - Ermittlung und Feststellung der Eintragungsergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001700314)
 
 
 
 #### § 84 Ermittlung der zum Bundestag Wahlberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010500314)
 
 Am letzten Tag der Eintragungsfrist ermittelt die Gemeindebehörde die
 Zahl der an diesem Tag in der Gemeinde zum Bundestag Wahlberechtigten.
 
 
 #### § 85 Abschluß der Eintragungsblätter in den Eintragungsbezirken
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010600314)
 
 (1) Am letzten Tag der Eintragungsfrist ermittelt der
 Aufsichtsführende im Anschluß an die Eintragungshandlung ohne
@@ -2046,6 +2149,7 @@ Ergebnis Dritten nicht mitteilen.
 
 
 #### § 86 Vorläufige Eintragungsergebnisse, Schnellmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010701311)
 
 (1) Die Gemeindebehörde stellt unverzüglich nach den Schnellmeldungen
 der Aufsichtsführenden das vorläufige Eintragungsergebnis in der
@@ -2089,6 +2193,7 @@ Form bekannt.
 
 
 #### § 87 Abschluß der Eintragungsblätter durch die Gemeinde
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010800314)
 
 (1) Die Gemeindebehörde schließt unverzüglich nach dem Ablauf der
 Eintragungsfrist die Eintragungsblätter ab und bestätigt
@@ -2146,6 +2251,7 @@ Kreiseintragungsleiter vorzulegen.
 
 
 #### § 88 Ermittlung und Feststellung des Eintragungsergebnisses in den Kreisen und kreisfreien Städten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE010900314)
 
 (1) Der Kreiseintragungsleiter prüft die ihm von der Gemeindebehörde
 übersandten Unterlagen auf Vollständigkeit und Ordnungsmäßigkeit und
@@ -2206,6 +2312,7 @@ bezeichneten Vom-Hundert-Sätze nicht ausgewiesen zu werden.
 
 
 #### § 89 Ermittlung und Feststellung des Eintragungsergebnisses im Land
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011000314)
 
 (1) Der Landeseintragungsleiter prüft die Niederschriften der
 Kreiseintragungsausschüsse, stellt danach die endgültigen
@@ -2221,6 +2328,7 @@ anzuwenden.
 
 
 #### § 90 Ermittlung und Feststellung des Eintragungsergebnisses im Raum des zugelassenen Volksbegehrens
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011100314)
 
 (1) Der Gesamteintragungsleiter prüft die Niederschriften der
 Landeseintragungsausschüsse, stellt nach den Niederschriften der
@@ -2245,6 +2353,7 @@ dem Raum des zugelassenen Volksbegehrens und stellt fest
 
 
 #### § 91 Sitzungsniederschriften und Bekanntgabe der Ergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011200314)
 
 In den Fällen der §§ 88 bis 90 sind die §§ 43 und 44 Satz 1
 entsprechend anzuwenden. Der Gesamteintragungsleiter gibt auch die im
@@ -2252,6 +2361,7 @@ entsprechend anzuwenden. Der Gesamteintragungsleiter gibt auch die im
 
 
 #### § 92 Überprüfung des Volksbegehrens
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011300314)
 
 Die Landeseintragungsleiter und der Gesamteintragungsleiter prüfen, ob
 das Volksbegehren nach den Vorschriften des Gesetzes über das
@@ -2262,10 +2372,12 @@ und Abs. 2 gilt entsprechend.
 
 
 ## Dritter Abschnitt - Volksbefragung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001800314)
 
 
 
 ### § 93 Abstimmungsbereiche, Geltung der Vorschriften des Ersten Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011400314)
 
 (1) Stellt das Gesetz, das Gegenstand der Volksbefragung ist, zwei
 Änderungsvorschläge zur Wahl, so bilden Gebiete oder Gebietsteile
@@ -2286,10 +2398,12 @@ dem Abstimmungsvorsteher zur Prüfung zu übergeben sind.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNG001900314)
 
 
 
 ### § 94 Öffentliche Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011501311)
 
 (1) Die nach dem Gesetz über das Verfahren bei Volksentscheid,
 Volksbegehren und Volksbefragung nach Artikel 29 Abs. 6 des
@@ -2311,11 +2425,13 @@ Zutritt zu der Sitzung hat.
 
 
 ### § 95 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011600314)
 
 Für Zustellungen gilt das Verwaltungszustellungsgesetz des Bundes.
 
 
 ### § 96 Beschaffung von Abstimmungs- und Eintragungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011700314)
 
 (1) Der Kreisabstimmungsleiter beschafft
 
@@ -2361,6 +2477,7 @@ soweit nicht Gesamt-, Landes- oder Kreisabstimmungs- oder
 
 
 ### § 97 Sicherung der Stimmberechtigten- und Eintragungsberechtigtenverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011800314)
 
 Die Vorschriften der Bundeswahlordnung über die Sicherung der
 Wählerverzeichnisse sind auf die Stimmberechtigten- und
@@ -2368,6 +2485,7 @@ Eintragungsberechtigtenverzeichnisse entsprechend anzuwenden.
 
 
 ### § 98 Vernichtung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE011901311)
 
 (1) Die Unterlagen über den Volksentscheid, das Volksbegehren oder die
 Volksbefragung sind sechs Monate nach der Veröffentlichung des
@@ -2383,6 +2501,7 @@ Eintragungsberechtigtenverzeichnisse etwas anderes anordnen.
 
 
 ### § 99 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE012000314)
 
 (1) Soweit ein Land nicht in Kreise oder in Kreise und kreisfreie
 Städte gegliedert ist, gelten die für das Land im Bundeswahlgesetz
@@ -2396,16 +2515,19 @@ Verordnung der Gemeindebehörde und der Verwaltungsbehörde des Kreises
 
 
 ### § 100 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE012100314)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE012200314)
 
 Der Bundesminister des Innern
 
 
 ### Anlage (zu den §§ 47 und 49)
+[Direktlink](https://www.gesetze-im-internet.de/neuglv/BJNR013420984.html#BJNR013420984BJNE012301311)
 
 (Fundstelle des Originaltextes: BGBl. I 1984, 1364 - 1365;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -30,6 +30,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000100000)
 
 Auf Grund des § 21a Absatz 1 Satz 1 und 3 des Sanierungs- und
 Abwicklungsgesetzes, der durch Artikel 1 Nummer 7 des Gesetzes vom 2.
@@ -43,9 +44,11 @@ mit der Deutschen Bundesbank und nach Anhörung der Abwicklungsbehörde:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000300000)
 
 (1) Diese Verordnung gilt vorbehaltlich der Absätze 2 und 3 für alle
 Institute nach § 2 Absatz 1 des Sanierungs- und Abwicklungsgesetzes
@@ -63,6 +66,7 @@ sind, sowie für institutsbezogene Sicherungssysteme.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000400000)
 
 (1) Mit Ausnahme der in Absatz 2 genannten Begriffe werden die
 Begriffe in der in den §§ 2 und 3 des Sanierungs- und
@@ -108,6 +112,7 @@ folgt bestimmt:
 
 
 ### § 3 Ausgestaltung von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000500000)
 
 § 13 Absatz 1 des Sanierungs- und Abwicklungsgesetzes gilt auch für
 die Ausgestaltung von Sanierungsplänen, die nach Maßgabe des
@@ -115,9 +120,11 @@ Abschnitts 3 oder des Abschnitts 4 erstellt werden.
 
 
 ## Abschnitt 2 - Allgemeine Anforderungen an die Ausgestaltung von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNG000200000)
 
 
 ### § 4 Vom Sanierungsplan erfasste Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000600000)
 
 Hat gemäß § 12 Absatz 2 des Sanierungs- und Abwicklungsgesetzes nicht
 das Institut, sondern allein das übergeordnete Unternehmen einen
@@ -128,6 +135,7 @@ gruppenangehörigen Unternehmen und Zweigstellen einbeziehen. § 5 Satz
 
 
 ### § 5 Beschreibung der für den Sanierungsplan relevanten Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000700000)
 
 Bei der strategischen Analyse des Instituts oder der Gruppe nach § 13
 Absatz 2 Nummer 2 des Sanierungs- und Abwicklungsgesetzes sowie bei
@@ -142,6 +150,7 @@ Ergebnisabführungsverträge zu beschreiben.
 
 
 ### § 6 Interner Prozess
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000801123)
 
 (1) Die in § 13 Absatz 2 Nummer 6 des Sanierungs- und
 Abwicklungsgesetzes und in Artikel 5 Absatz 3 Buchstabe a der
@@ -165,6 +174,7 @@ Berichtssystem richtig, vollständig und aktuell sind.
 
 
 ### § 7 Allgemeine Vorgaben zu Indikatoren
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE000901123)
 
 (1) Das Institut hat im Sanierungsplan quantitative und qualitative
 Indikatoren sowie für die jeweiligen quantitativen Indikatoren
@@ -282,6 +292,7 @@ hat.
 
 
 ### § 8 Kategorien von Indikatoren
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001001123)
 
 (1) Kapitalindikatoren nach Nummer 1 Buchstabe a bis c der Anlage 1
 haben jede eingetretene und jede drohende Verschlechterung der
@@ -375,6 +386,7 @@ Märkten zu erfassen.
 
 
 ### § 9 Belastungsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001101123)
 
 (1) Wie in Artikel 12 Absatz 2 Buchstabe d der Delegierten Verordnung
 (EU) 2016/1075 beschrieben, ist die Wirksamkeit der Handlungsoptionen
@@ -521,9 +533,11 @@ die relevanten Indikatorenwerte nachvollziehbar darzustellen.
 
 
 ## Abschnitt 3 - Vereinfachte Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNG000300000)
 
 
 ### § 10 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001201123)
 
 Hat die Aufsichtsbehörde nach § 19 Absatz 1 Nummer 1 und 2 des
 Sanierungs- und Abwicklungsgesetzes vereinfachte Anforderungen
@@ -535,6 +549,7 @@ keine Anwendung finden.
 
 
 ### § 11 Widerruf von vereinfachten Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001301123)
 
 Die Aufsichtsbehörde kann in Abstimmung mit der Deutschen Bundesbank
 die Festlegung vereinfachter Anforderungen ganz oder teilweise unter
@@ -549,6 +564,7 @@ eines überarbeiteten Sanierungsplans auf.
 
 
 ### § 12 Zusammenfassung des Sanierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001400000)
 
 Die Zusammenfassung des Sanierungsplans nach Artikel 4 der Delegierten
 Verordnung (EU) 2016/1075 hat sich im Falle der Festlegung
@@ -557,6 +573,7 @@ Inhalte des Sanierungsplans zu beziehen.
 
 
 ### § 13 Beschreibung des Instituts und der anderen von dem Sanierungsplan erfassten gruppenangehörigen Unternehmen und Zweigstellen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001500000)
 
 (1) Die Identifikation von kritischen Funktionen und die Beschreibung
 des Prozesses und der Kriterien zu deren Identifikation im Sinne des
@@ -589,6 +606,7 @@ jeweiligen Gesamtvolumen der Aktiv- und Passivseite ist anzugeben.
 
 
 ### § 14 Indikatoren
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001601123)
 
 (1) Für jede der in § 7 Absatz 3 Satz 1 genannten Kategorien hat das
 Institut mindestens einen Indikator festzulegen. Zunächst sind
@@ -619,6 +637,7 @@ und erforderlichenfalls angepasst werden.
 
 
 ### § 15 Handlungsoptionen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001700000)
 
 (1) Die Institute sind nicht verpflichtet, Handlungsoptionen nach
 Artikel 9 Absatz 1 Buchstabe a der Delegierten Verordnung (EU)
@@ -637,17 +656,20 @@ beurteilt werden.
 
 
 ### § 16 Belastungsanalyse
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001800000)
 
 Eine Belastungsanalyse nach § 9 ist nicht erforderlich.
 
 
 ### § 16a Kommunikations- und Informationsplan
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003500123)
 
 Ein Kommunikations- und Informationsplan im Sinne des Artikels 14 der
 Delegierten Verordnung (EU) 2016/1075 ist nicht erforderlich.
 
 
 ### § 17 Frist zur Einreichung und Aktualisierung von Sanierungsplänen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE001901123)
 
 (1) Wenn die Aufsichtsbehörde die Geltung von vereinfachten
 Anforderungen festgelegt hat, beträgt die Frist für die erstmalige
@@ -661,9 +683,11 @@ dass der Sanierungsplan nicht mindestens jährlich zu übermitteln ist.
 
 
 ## Abschnitt 4 - Anforderungen an die Erstellung von Sanierungsplänen durch institutsbezogene Sicherungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNG000400000)
 
 
 ### § 18 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002000000)
 
 (1) Sowohl ein Institut, das einem institutsbezogenen Sicherungssystem
 angehört, als auch ein institutsbezogenes Sicherungssystem können
@@ -737,6 +761,7 @@ zurücknehmen. Absatz 8 Satz 2 gilt entsprechend.
 
 
 ### § 19 Voraussetzungen für die Befreiung von der Sanierungsplanung und den Widerruf der Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002101123)
 
 (1) Voraussetzung für die Befreiung eines Instituts von der
 Sanierungsplanung ist neben der Stellung des Befreiungsantrags nach §
@@ -785,6 +810,7 @@ das institutsbezogene Sicherungssystem vorher anzuhören.
 
 
 ### § 20 Fristen für die Erstellung des Sanierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002200000)
 
 (1) Für die erstmalige Erstellung eines Sanierungsplans durch das
 institutsbezogene Sicherungssystem gilt die Frist nach § 17 Absatz 1
@@ -810,6 +836,7 @@ Absatz 1 findet Anwendung.
 
 
 ### § 21 Sanierungsplanung durch das institutsbezogene Sicherungssystem
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002302123)
 
 (1) Das institutsbezogene Sicherungssystem hat für die befreiten
 Institute einen Sanierungsplan zu erstellen. Die Anforderungen nach
@@ -845,6 +872,7 @@ Verordnung (EU) 2016/1075.
 
 
 ### § 22 Beschreibung des institutsbezogenen Sicherungssystems und der befreiten Institute
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002400000)
 
 (1) Das institutsbezogene Sicherungssystem hat die allgemeine
 Beschreibung des Instituts und der Gruppe nach Artikel 6 Absatz 2
@@ -873,6 +901,7 @@ Zweigstellen sind nicht erforderlich.
 
 
 ### § 23 Interner Prozess
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002501123)
 
 (1) Die Zuständigkeiten für die Erstellung, die in Absatz 2
 beschriebene Einbeziehung der Inhalte des Sanierungsplans, die
@@ -928,6 +957,7 @@ werden.
 
 
 ### § 24 Indikatoren
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002601123)
 
 (1) Im Sanierungsplan ist dazustellen, wie die Anforderungen des § 7
 Absatz 1 und 3 bis 5, 6 Satz 1 und Absatz 7 zu den Indikatoren in
@@ -960,6 +990,7 @@ gilt Satz 1 entsprechend.
 
 
 ### § 25 Handlungsoptionen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002700000)
 
 (1) Auf die Erstellung eines Sanierungsplans durch das
 institutsbezogene Sicherungssystem finden die Anforderungen zu den
@@ -1000,6 +1031,7 @@ Sicherungssystem darzustellen.
 
 
 ### § 26 Vorbereitungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE002901123)
 
 Die Beschreibung der Umsetzung des identifizierten Handlungsbedarfs
 gemäß Artikel 15 der Delegierten Verordnung (EU) 2016/1075 hat mit
@@ -1008,6 +1040,7 @@ Institute zu erfolgen.
 
 
 ### § 27 Informationsaustausch
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003001123)
 
 (1) Der Sanierungsplan hat zu beschreiben, wie das institutsbezogene
 Sicherungssystem und die von der Befreiung erfassten Institute sich
@@ -1024,6 +1057,7 @@ rechtzeitig zur Verfügung gestellt werden.
 
 
 ### § 28 Aktualisierung
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003101123)
 
 Der vom institutsbezogenen Sicherungssystem erstellte Sanierungsplan
 ist nach jeder Änderung, die sich wesentlich auf den Sanierungsplan
@@ -1035,17 +1069,21 @@ Bundesbank zu übermitteln.
 
 
 ### § 29 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003201123)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNG000500000)
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003600123)
 
 
 ### Anlage 1 Liste der Indikatoren des Sanierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003301123)
 
 (Fundstelle: BGBl. I 2020, 653)
 
@@ -1137,6 +1175,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Anlage 2 Liste zusätzlicher Indikatoren des Sanierungsplans
+[Direktlink](https://www.gesetze-im-internet.de/masanv/BJNR064400020.html#BJNR064400020BJNE003401123)
 
 (Fundstelle: BGBl. I 2020, 654)
 

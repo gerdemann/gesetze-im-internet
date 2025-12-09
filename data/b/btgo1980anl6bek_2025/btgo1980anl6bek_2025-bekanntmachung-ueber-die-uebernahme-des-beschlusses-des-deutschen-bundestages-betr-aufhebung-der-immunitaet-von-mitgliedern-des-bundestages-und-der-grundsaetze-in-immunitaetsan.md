@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl6bek_2025/BJNR0EA0A0025.html#BJNR0EA0A0025BJNE000100000)
 
 Der Beschluss des Deutschen Bundestages betr. Aufhebung der Immunität
 von Mitgliedern des Bundestages (Anlage 6 GO-BT), zuletzt geändert
@@ -42,6 +43,7 @@ Schuldners (§ 802g ZPO).”
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl6bek_2025/BJNR0EA0A0025.html#BJNR0EA0A0025BJNE000200000)
 
 Der Direktor beim Deutschen Bundestag
 

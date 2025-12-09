@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000100000)
 
 Auf Grund des § 42 Absatz 2 des Verbraucherstreitbeilegungsgesetzes,
 der durch Artikel 1 Nummer 14 Buchstabe b des Gesetzes vom 30.
@@ -26,6 +27,7 @@ Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Bestellung von Streitmittlern
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000200000)
 
 (1) Die Universalschlichtungsstelle des Bundes ist mit mindestens zwei
 Streitmittlern zu besetzen, die sich untereinander vertreten.
@@ -41,6 +43,7 @@ Person mit, kann diese zum Streitmittler bestellt werden.
 
 
 ## § 2 Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000300000)
 
 Die Streitmittler bestimmen vor jedem Kalenderjahr gemeinsam die
 Verteilung der Geschäfte und regeln die Vertretung. Diese
@@ -49,6 +52,7 @@ Grund geändert werden.
 
 
 ## § 3 Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000400000)
 
 (1) Erklärungen im Streitbeilegungsverfahren, insbesondere
 Schlichtungsbegehren und sonstige Mitteilungen der Beteiligten oder
@@ -73,6 +77,7 @@ Universalschlichtungsstelle des Bundes.
 
 
 ## § 4 Durchführung des Streitbeilegungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000500000)
 
 (1) Der Streitmittler kann die Streitigkeit mit den Beteiligten
 mündlich erörtern. Als mündliche Erörterung ist auch eine Erörterung
@@ -96,6 +101,7 @@ Einzelgespräche führen, wenn er dies für zweckdienlich erachtet.
 
 
 ## § 5 Ablehnung der Durchführung des Streitbeilegungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000600000)
 
 (1) Die Universalschlichtungsstelle des Bundes lehnt die Durchführung
 des Streitbeilegungsverfahrens ab, wenn
@@ -136,6 +142,7 @@ ernsthaft beeinträchtigen würde, insbesondere
 
 
 ## § 6 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000700000)
 
 (1) Die Universalschlichtungsstelle des Bundes erhebt für die
 Durchführung des Streitbeilegungsverfahrens vom Unternehmer, der zur
@@ -240,6 +247,7 @@ Bundeskasse abzuführen.
 
 
 ## § 7 Vorzeitige Beendigung der Beleihung
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000800000)
 
 (1) Ist eine geeignete anerkannte Verbraucherschlichtungsstelle mit
 der Aufgabe der Universalschlichtungsstelle einschließlich der
@@ -273,6 +281,7 @@ ihr übertragenen Aufgaben verpflichtet.
 
 
 ## § 8 Vorzeitige Beendigung der Beauftragung
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE000900000)
 
 Für die vorzeitige Beendigung der Beauftragung einer geeigneten
 anerkannten Verbraucherschlichtungsstelle mit der Aufgabe der
@@ -280,6 +289,7 @@ Universalschlichtungsstelle ist § 7 entsprechend anzuwenden.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/univschlichtv/BJNR281700019.html#BJNR281700019BJNE001000000)
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 

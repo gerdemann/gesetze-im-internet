@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenth_v/BJNR606700022.html#BJNR606700022BJNE000106311)
 
 Auf Grund des § 99 Absatz 1 Nummer 1 und 2 in Verbindung mit Absatz 4
 Satz 1 und 2 des Aufenthaltsgesetzes, von denen § 99 Absatz 4 Satz 1
@@ -36,6 +37,7 @@ Heimat:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenth_v/BJNR606700022.html#BJNR606700022BJNE000206311)
 
 Diese Verordnung regelt anlässlich des Krieges in der Ukraine infolge
 des Überfalls der Russischen Föderation vom 24. Februar 2022 die
@@ -46,6 +48,7 @@ Aufenthaltstitels im Bundesgebiet.
 
 
 ## § 2 Befreiung vom Erfordernis eines Aufenthaltstitels
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenth_v/BJNR606700022.html#BJNR606700022BJNE000309311)
 
 (1) Ausländer, die sich am 24. Februar 2022 in der Ukraine aufgehalten
 haben und die bis zum 4. Dezember 2026 in das Bundesgebiet eingereist
@@ -100,6 +103,7 @@ bleiben unberührt.
 
 
 ## § 3 Titeleinholung im Bundesgebiet
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenth_v/BJNR606700022.html#BJNR606700022BJNE000406311)
 
 Ein erforderlicher Aufenthaltstitel kann von den in § 2 Absatz 1 und 2
 genannten Ausländern im Bundesgebiet eingeholt werden. Die Befreiung
@@ -107,6 +111,7 @@ nach § 2 steht der Erteilung eines Aufenthaltstitels nicht entgegen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ukraineaufenth_v/BJNR606700022.html#BJNR606700022BJNE000507311)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

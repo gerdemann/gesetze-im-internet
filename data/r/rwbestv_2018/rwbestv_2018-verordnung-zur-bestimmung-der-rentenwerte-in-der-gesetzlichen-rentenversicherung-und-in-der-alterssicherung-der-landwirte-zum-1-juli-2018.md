@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000100000)
 
 Auf Grund
 
@@ -65,6 +66,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000200000)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2018 32,03 Euro.
 
@@ -73,6 +75,7 @@ Euro.
 
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000300000)
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
 beträgt ab dem 1. Juli 2018 14,79 Euro.
@@ -82,11 +85,13 @@ Landwirte beträgt ab dem 1. Juli 2018 14,15 Euro.
 
 
 ## § 3 Ausgleichsbedarf
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000400000)
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2018 1,0000.
 
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000500000)
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2018 anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
@@ -101,6 +106,7 @@ angepasst. Der Anpassungsfaktor beträgt 1,0337.
 
 
 ## § 5 Pflegegeld in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000600000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2018 an
@@ -118,11 +124,13 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2018 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/rwbestv_2018/BJNR083800018.html#BJNR083800018BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

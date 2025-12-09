@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000100314)
 
 Der Bund und das Land Niedersachsen sind übereingekommen, die zwischen
 ihnen in bezug auf die Eigentumsverhältnisse an der Volkswagenwerk
@@ -33,11 +34,13 @@ den Niedersächsischen Minister der Finanzen, folgenden Vertrag:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000200314)
 
 Die Volkswagenwerk GmbH wird in eine Aktiengesellschaft umgewandelt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000300314)
 
 Der Bund und das Land Niedersachsen erhalten je 20 vom Hundert des
 Grundkapitals der Volkswagenwerk Aktiengesellschaft und je zur Hälfte
@@ -50,6 +53,7 @@ Aktien vom Bund im Benehmen mit dem Land Niedersachsen verwaltet.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000400314)
 
 Der Bund und das Land Niedersachsen werden gemeinsam eine "Stiftung
 Volkswagenwerk" mit dem Sitz in Niedersachsen errichten, deren Zweck
@@ -74,6 +78,7 @@ c)  diejenigen Gewinne, die auf die vom Bund gemäß § 2 Abs. 2 zu
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000500314)
 
 Die Satzung der Stiftung soll Bestimmungen darüber enthalten, nach
 welchen Grundsätzen die Stiftungsorgane zu besetzen und die der
@@ -103,6 +108,7 @@ Vertrages zu verwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000600314)
 
 Die Höhe des Grundkapitals der Volkswagenwerk Aktiengesellschaft wird
 vom Bund im Benehmen mit dem Land Niedersachsen festgesetzt werden.
@@ -120,6 +126,7 @@ unterstützen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000700314)
 
 Der Bund und das Land Niedersachsen verpflichten sich, alle Maßnahmen
 zu treffen, die notwendig und geeignet sind, das mit diesem Vertrag
@@ -127,12 +134,14 @@ angestrebte Ziel zu erreichen.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000800314)
 
 Der Vertrag tritt nach Billigung durch die gesetzgebenden
 Körperschaften des Bundes und des Landes Niedersachsen in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vwgmbhvtr/BJNR003020960.html#BJNR003020960BJNE000900314)
 
 Hannover, den 11. November 1959
 Für den Niedersächsischen Ministerpräsidenten

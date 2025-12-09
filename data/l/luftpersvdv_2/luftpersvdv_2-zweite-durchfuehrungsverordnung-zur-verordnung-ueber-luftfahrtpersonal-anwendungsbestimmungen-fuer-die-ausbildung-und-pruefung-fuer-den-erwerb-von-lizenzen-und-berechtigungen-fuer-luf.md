@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000100000)
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 4 und 5 des Luftverkehrsgesetzes
 in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550),
@@ -36,6 +37,7 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000200000)
 
 
 *    *   **Erster Abschnitt**
@@ -547,10 +549,12 @@ neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNG000100000)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000300000)
 
 Diese Verordnung regelt die Einzelheiten der in der Verordnung über
 Luftfahrtpersonal (LuftPersV) enthaltenen Anforderungen nach § 32 Abs.
@@ -559,10 +563,12 @@ Erwerb von Berechtigungen.
 
 
 ## Zweiter Abschnitt - Ausbildung und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNG000200000)
 
 
 
 ### § 2 Zweck der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000400000)
 
 Die Ausbildung dient dem Zweck, dem Luftfahrtpersonal die aus Gründen
 der Sicherheit des Luftverkehrs und der öffentlichen Sicherheit oder
@@ -572,6 +578,7 @@ oder Berechtigung geforderte Einweisung.
 
 
 ### § 3 Täuschungsversuch, Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000500000)
 
 (1) Unternimmt der Bewerber einen Täuschungsversuch, ist er mit
 sofortiger Wirkung von der weiteren Teilnahme an der Prüfung
@@ -586,11 +593,13 @@ eines ärztlichen Attestes oder einer Bescheinigung nachzuweisen.
 
 
 ## Dritter Abschnitt - Lizenzen und Berechtigungen für Luftfahrer
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNG000300000)
 
 
 Privatflugzeugführer
 
 ### § 4 (zu § 1 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000600000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 1A zu vermitteln.
@@ -607,6 +616,7 @@ Fähigkeiten besitzt.
 Klassenberechtigung für Reisemotorsegler
 
 ### § 5 (zu § 3a LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000700000)
 
 (1) In der Einweisung sind die in Anlage 2A festgelegten Übungen
 durchzuführen.
@@ -619,6 +629,7 @@ Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
 mit einer Höchstabflugmasse von mehr als 750 Kilogramm
 
 ### § 6 (zu § 3b LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000800000)
 
 (1) in der Einweisung sind die in Anlage 3A festgelegten Übungen
 durchzuführen.
@@ -631,6 +642,7 @@ Kilogramm notwendigen Fähigkeiten besitzt.
 Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch
 
 ### § 7 (zu § 5 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE000900000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 4A zu vermitteln.
@@ -647,6 +659,7 @@ deutsch abzulegen.
 Segelflugzeugführer
 
 ### § 8 (zu § 36 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001000000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 5A zu vermitteln.
@@ -664,6 +677,7 @@ Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
 Segelflugzeugführer
 
 ### § 9 (zu § 40a LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001100000)
 
 (1) In der theoretischen Ausbildung sind Kenntnisse gemäß Anlage 6A zu
 vermitteln.
@@ -680,6 +694,7 @@ notwendigen Fähigkeiten besitzt.
 Freiballonführer
 
 ### § 10 (zu § 46 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001200000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 7A zu vermitteln.
@@ -696,6 +711,7 @@ Fähigkeiten besitzt.
 Luftschiffführer
 
 ### § 11 (zu § 50 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001300000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 8A zu vermitteln.
@@ -718,6 +734,7 @@ Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
 Länder
 
 ### § 12 (zu § 62 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001400000)
 
 (1) Die Ausbildung zum Flugtechniker auf Hubschraubern bei den
 Polizeien des Bundes und der Länder erfolgt bei einem vom Luftfahrt-
@@ -740,6 +757,7 @@ besitzt.
 Kunstflugberechtigung
 
 ### § 13 (zu § 81 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001500000)
 
 (1) In der Flugausbildung sind die in Anlage 10A festgelegten Übungen
 durchzuführen.
@@ -751,6 +769,7 @@ Durchführung von Kunstflügen notwendigen Fähigkeiten besitzt.
 Schleppberechtigung
 
 ### § 14 (zu § 84 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001600000)
 
 Die gemäß § 84 Abs. 2 und Abs. 3 LuftPersV vorgeschriebenen Flüge sind
 in Übereinstimmung mit der Anlage 11 durchzuführen.
@@ -758,6 +777,7 @@ in Übereinstimmung mit der Anlage 11 durchzuführen.
 Wolkenflugberechtigung für Segelflugzeugführer
 
 ### § 15 (zu § 85 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001700000)
 
 (1) Für den Erwerb der Wolkenflugberechtigung für Segelflugzeugführer
 sind die in Anlage 12A enthaltenen Instrumentenflugübungen
@@ -770,6 +790,7 @@ notwendigen Fähigkeiten besitzt.
 Streu- und Sprühberechtigung
 
 ### § 16 (zu § 86 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001800000)
 
 (1) In der theoretischen Ausbildung sind die Kenntnisse gemäß Anlage
 13A zu vermitteln.
@@ -788,6 +809,7 @@ Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach
 § 1 LuftPersV
 
 ### § 17 (zu § 88a LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE001900000)
 
 (1) Die Auswahlprüfung nach § 88a Abs. 1 Nr. 3 LuftPersV besteht aus
 einer theoretischen Prüfung gemäß Anlage 14A und einer praktischen
@@ -809,6 +831,7 @@ Fähigkeiten besitzt.
 Berechtigung zur praktischen Ausbildung von Segelflugzeugführern
 
 ### § 18 (zu § 89 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002000000)
 
 (1) Die Auswahlprüfung nach § 89 Abs. 1 Nr. 3 LuftPersV besteht aus
 einer theoretischen Prüfung gemäß Anlage 15A und einer praktischen
@@ -830,6 +853,7 @@ notwendigen Fähigkeiten besitzt.
 Berechtigung zur praktischen Ausbildung von Freiballonführern
 
 ### § 19 (zu § 94 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002100000)
 
 (1) Die Auswahlprüfung nach § 94 Abs. 1 Nr. 3 LuftPersV besteht aus
 einer theoretischen Prüfung gemäß Anlage 16A und einer praktischen
@@ -851,6 +875,7 @@ notwendigen Fähigkeiten besitzt.
 Berechtigung zur praktischen Ausbildung von Luftschiffführern
 
 ### § 20 (zu § 95 LuftPersV)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002200000)
 
 (1) Die Auswahlprüfung nach § 95 Abs. 1 Nr. 3 LuftPersV besteht aus
 einer theoretischen Prüfung gemäß Anlage 17A und einer praktischen
@@ -871,6 +896,7 @@ notwendigen Fähigkeiten besitzt.
 
 
 ### § 21 Unterschiedsschulung, Vertrautmachen
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002300000)
 
 (1) Für den Wechsel auf eine andere Flugzeug- oder
 Reisemotorseglerbaureihe oder ein anderes Flugzeug- oder
@@ -888,6 +914,7 @@ mit dessen Eigenschaften eigenständig vertraut zu machen.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -895,6 +922,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
 Privatflugzeugführer
 
 ### Anlage 1A (zu § 4)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002501305)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9
 - 26
@@ -3187,6 +3215,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
 Privatflugzeugführer
 
 ### Anlage 1B (zu § 4)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 27
 - 33
@@ -3973,6 +4002,7 @@ Flugauftrag erteilt hat und am Flugplatz anwesend ist.
 Theoretische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 
 ### Anlage 1C (zu § 4)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
 
@@ -4066,6 +4096,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 34
 Praktische Prüfung zum Erwerb der Lizenz für Privatflugzeugführer
 
 ### Anlage 1D (zu § 4)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 35
 - 39
@@ -4340,6 +4371,7 @@ Lehrplan für die praktische Einweisung zum Erwerb der
 Klassenberechtigung für Reisemotorsegler
 
 ### Anlage 2A (zu § 5)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE002900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 40
 - 45
@@ -4934,6 +4966,7 @@ Praktische Prüfung zum Erwerb der Klassenberechtigung für
 Reisemotorsegler
 
 ### Anlage 2B (zu §§ 5 und 9)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 46
 - 50
@@ -5206,6 +5239,7 @@ Klassenberechtigung für einmotorige Landflugzeuge mit Kolbentriebwerk
 mit  einer Höchstabflugmasse von mehr als 750 Kilogramm
 
 ### Anlage 3A (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 51
 - 56
@@ -5792,6 +5826,7 @@ Landflugzeuge mit Kolbentriebwerk mit einer Höchstabflugmasse von mehr
 als 750  Kilogramm
 
 ### Anlage 3B (zu § 6)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003200000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 57
 - 60
@@ -6040,6 +6075,7 @@ Lehrplan für die ergänzende theoretische Ausbildung zum Erwerb der
 Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
 
 ### Anlage 4A (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 61
 - 63
@@ -6390,6 +6426,7 @@ Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der
 Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
 
 ### Anlage 4B (zu § 7)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 64
 
@@ -6451,6 +6488,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
 Segelflugzeugführer
 
 ### Anlage 5A (zu § 8)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003501305)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65
 - 79
@@ -8330,6 +8368,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
 Segelflugzeugführer
 
 ### Anlage 5B (zu § 8)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 80
 - 84
@@ -8826,6 +8865,7 @@ erforderlich.
 Theoretische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer
 
 ### Anlage 5C (zu § 8)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
 
@@ -8919,6 +8959,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 85
 Praktische Prüfung zum Erwerb der Lizenz für Segelflugzeugführer
 
 ### Anlage 5D (zu § 8)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 86
 - 88
@@ -9065,6 +9106,7 @@ Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
 Segelflugzeugführer
 
 ### Anlage 6A (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE003900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 89
 - 94
@@ -9830,6 +9872,7 @@ Klassenberechtigung für Reisemotorsegler für Inhaber der Lizenz für
 Segelflugzeugführer
 
 ### Anlage 6B (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 95
 - 100
@@ -10463,6 +10506,7 @@ Theoretische Prüfung zum Erwerb der Klassenberechtigung für
 Reisemotorsegler für Inhaber der Lizenz für Segelflugzeugführer
 
 ### Anlage 6C (zu § 9)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 101
@@ -10538,6 +10582,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
 Freiballonführer
 
 ### Anlage 7A (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004201305)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 102 - 116
@@ -12346,6 +12391,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
 Freiballonführer
 
 ### Anlage 7B (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 117 - 124
@@ -13226,6 +13272,7 @@ durchstarten!
 Theoretische Prüfung zum Erwerb der Lizenz für Freiballonführer
 
 ### Anlage 7C (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 125
@@ -13320,6 +13367,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 Praktische Prüfung zum Erwerb der Lizenz für Freiballonführer
 
 ### Anlage 7D (zu § 10)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004500000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 126 - 127
@@ -13478,6 +13526,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Lizenz für
 Luftschiffführer
 
 ### Anlage 8A (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 128 - 141
@@ -15020,6 +15069,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Lizenz für
 Luftschiffführer
 
 ### Anlage 8B (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 142 - 143
@@ -15176,6 +15226,7 @@ genehmigt.
 Theoretische Prüfung zum Erwerb der Lizenz für Luftschiffführer
 
 ### Anlage 8C (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 144
@@ -15348,6 +15399,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 Praktische Prüfung zum Erwerb der Lizenz für Luftschiffführer
 
 ### Anlage 8D (zu § 11)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE004900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 145 - 149
@@ -15637,6 +15689,7 @@ Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
 Länder
 
 ### Anlage 9A (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 150 - 152
@@ -16033,6 +16086,7 @@ Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der
 Länder
 
 ### Anlage 9B (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 153 - 155
@@ -16323,6 +16377,7 @@ Theoretische Prüfung zum Erwerb der Lizenz für  Flugtechniker auf
 Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9C (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005200000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 156
@@ -16405,6 +16460,7 @@ Praktische Prüfung zum Erwerb der Lizenz für Flugtechniker auf
 Hubschraubern bei den Polizeien des Bundes und der Länder
 
 ### Anlage 9D (zu § 12)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 157 - 161
@@ -16802,6 +16858,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der
 Kunstflugberechtigung
 
 ### Anlage 10A (zu § 13)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 162 - 164
@@ -17064,6 +17121,7 @@ Normalfluglage
 Praktische Prüfung zum Erwerb der Kunstflugberechtigung
 
 ### Anlage 10B (zu § 13)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005500000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 165 - 168
@@ -17272,6 +17330,7 @@ Lehrplan für die praktische Einweisung zum Erwerb der
 Schleppberechtigung
 
 ### Anlage 11 (zu § 14)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 169 - 171
@@ -17518,6 +17577,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der
 Wolkenflugberechtigung für Segelflugzeugführer
 
 ### Anlage 12A (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 172
@@ -17622,6 +17682,7 @@ Praktische Prüfung zum Erwerb der  Wolkenflugberechtigung für
 Segelflugzeugführer
 
 ### Anlage 12B (zu § 15)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 173 - 174
@@ -17824,6 +17885,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der  Streu- und
 Sprühberechtigung
 
 ### Anlage 13A (zu § 16)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE005900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 175 - 176
@@ -17969,6 +18031,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der  Streu- und
 Sprühberechtigung
 
 ### Anlage 13B (zu § 16)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 177
@@ -18053,6 +18116,7 @@ Ausbildung geeignet sein.
 Theoretische Prüfung zum Erwerb der Streu- und Sprühberechtigung
 
 ### Anlage 13C (zu § 16)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 178
@@ -18123,6 +18187,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 Praktische Prüfung zum Erwerb der Streu- und Sprühberechtigung
 
 ### Anlage 13D (zu § 16)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006200000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 179 - 182
@@ -18329,6 +18394,7 @@ Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
 praktischen  Ausbildung von Privatflugzeugführern
 
 ### Anlage 14A (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 183
@@ -18418,6 +18484,7 @@ Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Privatflugzeugführern
 
 ### Anlage 14B (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 184 - 188
@@ -18703,6 +18770,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
 zur  praktischen Ausbildung von Privatflugzeugführern
 
 ### Anlage 14C (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006500000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 189 - 192
@@ -19102,6 +19170,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
 praktischen Ausbildung von Privatflugzeugführern
 
 ### Anlage 14D (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 193 - 197
@@ -19641,6 +19710,7 @@ Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Privatflugzeugführern
 
 ### Anlage 14E (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 198
@@ -19697,6 +19767,7 @@ Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Privatflugzeugführern
 
 ### Anlage 14F (zu § 17)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 199 - 201
@@ -19923,6 +19994,7 @@ Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
 praktischen  Ausbildung von Segelflugzeugführern
 
 ### Anlage 15A (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE006900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 202
@@ -20012,6 +20084,7 @@ Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Segelflugzeugführern
 
 ### Anlage 15B (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 203 - 205
@@ -20133,6 +20206,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
 zur  praktischen Ausbildung von Segelflugzeugführern
 
 ### Anlage 15C (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 206 - 208
@@ -20408,6 +20482,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
 praktischen Ausbildung von Segelflugzeugführern
 
 ### Anlage 15D (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007200000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 209 - 212
@@ -20837,6 +20912,7 @@ Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Segelflugzeugführern
 
 ### Anlage 15E (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 213
@@ -20893,6 +20969,7 @@ Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Segelflugzeugführern
 
 ### Anlage 15F (zu § 18)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 214 - 216
@@ -21051,6 +21128,7 @@ Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
 praktischen  Ausbildung von Freiballonführern
 
 ### Anlage 16A (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007500000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 217
@@ -21139,6 +21217,7 @@ Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Freiballonführern
 
 ### Anlage 16B (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 218 - 219
@@ -21279,6 +21358,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
 zur  praktischen Ausbildung von Freiballonführern
 
 ### Anlage 16C (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007700000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 220 - 224
@@ -21777,6 +21857,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
 praktischen Ausbildung von Freiballonführern
 
 ### Anlage 16D (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007800000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 225 - 226
@@ -21919,6 +22000,7 @@ Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Freiballonführern
 
 ### Anlage 16E (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE007900000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 227
@@ -21975,6 +22057,7 @@ Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Freiballonführern
 
 ### Anlage 16F (zu § 19)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008000000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 228 - 230
@@ -22116,6 +22199,7 @@ Theoretische Auswahlprüfung zum Erwerb der Berechtigung zur
 praktischen  Ausbildung von Luftschiffführern
 
 ### Anlage 17A (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008100000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 231
@@ -22234,6 +22318,7 @@ Praktische Auswahlprüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Luftschiffführern
 
 ### Anlage 17B (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008200000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 232 - 235
@@ -22472,6 +22557,7 @@ Lehrplan für die theoretische Ausbildung zum Erwerb der Berechtigung
 zur  praktischen Ausbildung von Luftschiffführern
 
 ### Anlage 17C (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008300000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 236 - 238
@@ -22805,6 +22891,7 @@ Lehrplan für die praktische Ausbildung zum Erwerb der Berechtigung zur
 praktischen Ausbildung von Luftschiffführern
 
 ### Anlage 17D (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008400000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 239
@@ -22861,6 +22948,7 @@ Theoretische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Luftschiffführern
 
 ### Anlage 17E (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008500000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 240
@@ -22916,6 +23004,7 @@ Praktische Prüfung zum Erwerb der Berechtigung zur praktischen
 Ausbildung von Luftschiffführern
 
 ### Anlage 17F (zu § 20)
+[Direktlink](https://www.gesetze-im-internet.de/luftpersvdv_2/BJNR506000006.html#BJNR506000006BJNE008600000)
 
 Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 241 - 243

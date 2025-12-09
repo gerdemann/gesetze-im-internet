@@ -23,6 +23,7 @@ Geändert durch
 Stand: Ersetzt V 2032-11-2-2 v. 12.10.2004 I 2617 (EinstufHöGrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/uvogrv/BJNR265800016.html#BJNR265800016BJNE000100000)
 
 Auf Grund des Artikels VIII § 1 Absatz 6 Satz 1 des Zweiten Gesetzes
 zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und
@@ -33,6 +34,7 @@ Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
 
 ## § 1 Stellenobergrenzen
+[Direktlink](https://www.gesetze-im-internet.de/uvogrv/BJNR265800016.html#BJNR265800016BJNE000201116)
 
 (1) Die Anteile der Beförderungsämter bei den bundesunmittelbaren
 gewerblichen Berufsgenossenschaften und der Sozialversicherung für
@@ -61,6 +63,7 @@ bleiben unberücksichtigt:
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uvogrv/BJNR265800016.html#BJNR265800016BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Unfallversicherungsobergrenzenverordnung vom
@@ -70,6 +73,7 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/uvogrv/BJNR265800016.html#BJNR265800016BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

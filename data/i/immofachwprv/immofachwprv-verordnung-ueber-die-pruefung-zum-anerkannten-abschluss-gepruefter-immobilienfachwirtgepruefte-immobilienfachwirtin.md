@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000100000)
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Immobilienfachwirt/zur Geprüften Immobilienfachwirtin nach
@@ -74,6 +76,7 @@ Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -110,6 +113,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000401128)
 
 (1) Die Prüfung gliedert sich in folgende Handlungsbereiche:
 
@@ -189,6 +193,7 @@ Leistungen erbracht wurden.
 
 
 ## § 4 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000500000)
 
 (1) Im Handlungsbereich „Rahmenbedingungen der Immobilienwirtschaft“
 soll die Fähigkeit nachgewiesen werden, für die Immobilienwirtschaft
@@ -397,6 +402,7 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -410,6 +416,7 @@ Absatz 7 bis 11 ist nicht zulässig.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -446,6 +453,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -471,6 +479,7 @@ zugeordnete Note ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001600128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -497,6 +506,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000801128)
 
 (1) Ist eine Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
@@ -512,6 +522,7 @@ in diesem Fall das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE000901128)
 
 Wer die Prüfung zum Geprüften Immobilienfachwirt/zur Geprüften
 Immobilienfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -520,6 +531,7 @@ erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 11 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001001128)
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. Dezember 2011 nach
 den bisherigen Vorschriften zu Ende geführt werden.
@@ -533,6 +545,7 @@ beantragt werden.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001101128)
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -542,6 +555,7 @@ Immobilienfachwirt/ Geprüfte Immobilienfachwirtin vom 23. Dezember
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2299 – 2300)
 
@@ -843,6 +857,7 @@ Immobilienfachwirt/ Geprüfte Immobilienfachwirtin vom 23. Dezember
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/immofachwprv/BJNR011700008.html#BJNR011700008BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2301)
 

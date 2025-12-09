@@ -24,12 +24,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Finanzhilfen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000101307)
 
 Der Bund gewährt den Ländern Finanzhilfen für Investitionen zur
 Verbesserung der Verkehrsverhältnisse der Gemeinden.
 
 
 ## § 2 Förderungsfähige Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000210126)
 
 (1) Die Länder können folgende Vorhaben durch Zuwendungen aus den
 Finanzhilfen fördern, soweit sie dem öffentlichen Personennahverkehr
@@ -103,6 +105,7 @@ vollumfänglich und ordnungsgemäß durchgeführt wurden:
 
 
 ## § 3 Voraussetzungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000304126)
 
 Voraussetzung für die Förderung nach § 2 ist, daß
 
@@ -148,6 +151,7 @@ Voraussetzung für die Förderung nach § 2 ist, daß
 
 
 ## § 4 Höhe und Umfang der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000412126)
 
 (1) Aus den Finanzhilfen des Bundes ist die Förderung zulässig für
 
@@ -208,6 +212,7 @@ dem Vorhaben zusammen gefördert werden.
 
 
 ## § 5 Programme
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000501307)
 
 (1) Für Vorhaben, die aus den Finanzhilfen gefördert werden sollen,
 sind Programme für den Zeitraum der jeweiligen Finanzplanung
@@ -227,6 +232,7 @@ aufgenommen werden.
 
 
 ## § 6 Aufstellung der Programme
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000612126)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 stellt auf Grund von Vorschlägen der Länder und im Benehmen mit ihnen
@@ -262,16 +268,19 @@ auf der Grundlage der Programme den Ländern die Finanzhilfen zu.
 
 
 ## § 7 Wirkung der Programme
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000701307)
 
 Die Finanzhilfen dürfen nur für Vorhaben verwendet werden, die in die
 Programme aufgenommen sind.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000807126)
 
 
 
 ## § 9 Vereinfachter Verwendungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE000905126)
 
 (1) Die Länder weisen dem Bundesministerium für Verkehr und digitale
 Infrastruktur jeweils für ein Haushaltsjahr die zweckentsprechende
@@ -298,6 +307,7 @@ Verwendung der Finanzhilfen nach durch Mitteilung
 
 
 ## § 10 Zweckbindung und Verteilung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001014126)
 
 (1) Für Vorhaben zur Verbesserung der Verkehrsverhältnisse der
 Gemeinden nach Maßgabe dieses Gesetzes stehen folgende Beträge zur
@@ -328,6 +338,7 @@ jährlich erhöht werden.
 
 
 ## § 11 Vorhaben der Eisenbahnen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001106126)
 
 (1) Führen die Eisenbahnen des Bundes oder andere Unternehmen, die
 sich überwiegend in der Hand des Bundes oder eines mehrheitlich dem
@@ -357,6 +368,7 @@ Zustimmung des beteiligten Landes.
 
 
 ## § 12 Öffentliche Schutzräume
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001204124)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann den
 Träger einer unterirdischen Verkehrsanlage, die in das Programm nach §
@@ -381,11 +393,13 @@ Anwendung.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001302307)
 
 (weggefallen)
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001404126)
 
 (1) Nach diesem Gesetz werden Vorhaben nicht gefördert, für die der
 Träger des Vorhabens seine Verpflichtungen vor dem 1. Januar des
@@ -415,15 +429,18 @@ Regelungen anzuwenden.
 
 
 ## § 15 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001502126)
 
 
 
 ## § 16
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001602308)
 
 (weggefallen)
 
 
 ## § 17
+[Direktlink](https://www.gesetze-im-internet.de/gvfg/BJNR002390971.html#BJNR002390971BJNE001701307)
 
 (Inkrafttreten)
 

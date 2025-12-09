@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000000000)
 
 Auf Grund des § 9 Abs. 2 des Behindertengleichstellungsgesetzes vom
 27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des
@@ -29,6 +30,7 @@ Sozialordnung:
 
 
 ## § 1 Anwendungsbereich und Anlass
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000101119)
 
 (1) Die Verordnung gilt für alle Menschen mit Hör- oder
 Sprachbehinderungen nach Maßgabe des § 3 des
@@ -45,6 +47,7 @@ Behindertengleichstellungsgesetzes geltend machen.
 
 
 ## § 2 Umfang des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000201119)
 
 (1) Der Anspruch auf Bereitstellung einer geeigneten
 Kommunikationshilfe besteht zur Wahrnehmung eigener Rechte in einem
@@ -75,6 +78,7 @@ Kommunikationshilfe abgesehen werden.
 
 
 ## § 3 Kommunikationshilfen
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000301119)
 
 (1) Eine Kommunikationshilfe ist als geeignet anzusehen, wenn sie im
 konkreten Fall eine für die Wahrnehmung eigener Rechte im
@@ -135,6 +139,7 @@ Kommunikationsmittel nach Satz 1 Nummer 4 sind insbesondere
 
 
 ## § 4 Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000401119)
 
 (1) Geeignete Kommunikationshilfen werden von dem Träger öffentlicher
 Gewalt kostenfrei bereitgestellt, es sei denn, die Berechtigten machen
@@ -146,6 +151,7 @@ Behindertengleichstellungsgesetzes berät und unterstützt den Träger
 
 
 ## § 5 Grundsätze für eine angemessene Vergütung oder Erstattung
+[Direktlink](https://www.gesetze-im-internet.de/khv/BJNR265000002.html#BJNR265000002BJNE000503126)
 
 (1) Der Träger öffentlicher Gewalt richtet sich bei der Entschädigung
 von Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetschern

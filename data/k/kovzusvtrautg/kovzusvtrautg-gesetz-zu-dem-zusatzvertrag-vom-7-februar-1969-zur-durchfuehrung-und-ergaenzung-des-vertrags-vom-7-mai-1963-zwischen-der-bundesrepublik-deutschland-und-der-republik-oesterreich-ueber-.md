@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000200314)
 
 Dem in Wien am 7. Februar 1969 unterzeichneten Zusatzvertrag zur
 Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der
@@ -39,6 +41,7 @@ Der Zusatzvertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000301126)
 
 Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs.
 3 Satz 3 des Zusatzvertrags die Ausfertigung der Bescheide der
@@ -47,11 +50,13 @@ versehen haben, werden die Träger der Sozialen Entschädigung bestimmt.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000400314)
 
 -
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000502126)
 
 Personen, die einen Anspruch auf Versorgung nach dem
 Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden Fassung,
@@ -64,12 +69,14 @@ oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000600314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/kovzusvtrautg/BJNR201970970.html#BJNR201970970BJNE000700314)
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. September 1964, Artikel 2
 dieses Gesetzes jedoch mit dem ersten Tag des auf den Austausch der

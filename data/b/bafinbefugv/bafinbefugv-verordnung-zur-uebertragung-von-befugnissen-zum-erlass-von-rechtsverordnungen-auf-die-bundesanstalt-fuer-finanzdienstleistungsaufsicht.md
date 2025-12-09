@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000100000)
 
 Auf Grund folgender Bestimmungen des Wertpapierhandelsgesetzes in der
 Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2708):
@@ -173,6 +174,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000905128)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
@@ -287,6 +289,7 @@ zu erlassen.
 
 
 ## § 1a
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000408128)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen auf der Grundlage des
@@ -326,6 +329,7 @@ Versicherungsaufsichtsgesetzes zu erlassen
 
 
 ## § 1b
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000500360)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen nach Maßgabe des § 22 Absatz 1 des
@@ -337,6 +341,7 @@ erlassen.
 
 
 ## § 1c
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000802130)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen auf der Grundlage des Sanierungs- und
@@ -361,6 +366,7 @@ Abwicklungsgesetzes zu erlassen
 
 
 ## § 1d
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE001000119)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen auf der Grundlage des Wertpapierinstitutsgesetzes
@@ -393,6 +399,7 @@ zu erlassen
 
 
 ## § 1e
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE001101128)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen nach Maßgabe des § 4a Absatz 2 Satz 1 des
@@ -403,6 +410,7 @@ Institute.
 
 
 ## § 1f
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE001200119)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird nach § 19
 Absatz 5 des Zahlungskontengesetzes ermächtigt, eine Rechtsverordnung
@@ -413,6 +421,7 @@ Naturschutz, nukleare Sicherheit und Verbraucherschutz zu erlassen.
 
 
 ## § 1g
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE001201128)
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 Rechtsverordnungen auf Grundlage des Kryptomärkteaufsichtsgesetzes zu
@@ -438,6 +447,7 @@ erlassen:
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bafinbefugv/BJNR000300003.html#BJNR000300003BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

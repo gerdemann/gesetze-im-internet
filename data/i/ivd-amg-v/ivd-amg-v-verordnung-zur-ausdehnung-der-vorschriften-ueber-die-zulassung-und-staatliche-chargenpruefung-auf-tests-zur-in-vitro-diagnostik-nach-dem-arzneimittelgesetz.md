@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000100310)
 
 Auf Grund des § 35 Abs. 1 Nr. 2 und 3 und Abs. 2 sowie des § 77 Abs. 4
 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11.
@@ -30,6 +31,7 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000200310)
 
 Die §§ 21 und 22 sowie die §§ 24 bis 34 des Arzneimittelgesetzes über
 die Zulassung und staatliche Chargenprüfung werden ausgedehnt auf
@@ -104,12 +106,14 @@ die Zulassung und staatliche Chargenprüfung werden ausgedehnt auf
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000300310)
 
 Für die Zulassung und staatliche Chargenprüfung von Tests zur In-
 vitro-Diagnostik nach § 1 ist das Paul-Ehrlich-Institut zuständig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000400310)
 
 Für Tests zur In-vitro-Diagnostik nach § 1 Nr. 1 Buchstabe b und Nr.
 4, soweit solche nicht den bisherigen Vorschriften über die Zulassung
@@ -136,11 +140,13 @@ nicht fristgerechter Antragstellung, untersagt wird.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000500310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ivd-amg-v/BJNR074600000.html#BJNR074600000BJNE000600310)
 
 Der Bundesrat hat zugestimmt.
 

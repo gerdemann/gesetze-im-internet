@@ -24,10 +24,12 @@ Geändert durch
 Stand: Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006)
 
 ## Erster Teil - Allgemeine Vorschriften zu dem zweiten bis siebten Teil
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG000201301)
 
 
 
 ### § 1 Anwendungsbereich des zweiten bis siebten Teils
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000302301)
 
 (1)
 1Der zweite bis siebte Teil gilt nur für Umwandlungen im Sinne des § 1
@@ -61,6 +63,7 @@ des Körperschaftsteuergesetzes unbeschränkt steuerpflichtig sind.
 
 
 ### § 2 Steuerliche Rückwirkung
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000402301)
 
 (1)
 1Das Einkommen und das Vermögen der übertragenden Körperschaft sowie
@@ -76,10 +79,12 @@ Satz 1 für das Einkommen und das Vermögen der Gesellschafter.
 
 
 ## Zweiter Teil - Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG000501301)
 
 
 
 ### § 3 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000601301)
 
 1Wird das Vermögen der übertragenden Körperschaft Betriebsvermögen der
 übernehmenden Personengesellschaft oder der übernehmenden natürlichen
@@ -96,6 +101,7 @@ Vorschriften über die Gewinnermittlung ergibt.
 
 
 ### § 4 Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000706301)
 
 (1) Die Personengesellschaft hat die auf sie übergegangenen
 Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der
@@ -156,6 +162,7 @@ Mitunternehmerin der Personengesellschaft entfällt.
 
 
 ### § 5 Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft in Sonderfällen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000803301)
 
 (1) Hat die übernehmende Personengesellschaft Anteile an der
 übertragenden Körperschaft nach dem steuerlichen Übertragungsstichtag
@@ -201,6 +208,7 @@ eingelegt.
 
 
 ### § 6 Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE000902301)
 
 (1)
 1Erhöht sich der Gewinn der übernehmenden Personengesellschaft
@@ -239,6 +247,7 @@ Personengesellschaft beteiligt sind.
 
 
 ### § 7 Ermittlung der Einkünfte bei Anteilseignern, die nicht im Sinne des § 17 des Einkommensteuergesetzes beteiligt sind
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001005301)
 
 1Haben Anteile an der übertragenden Körperschaft zum Zeitpunkt des
 Vermögensübergangs zum Privatvermögen eines Gesellschafters der
@@ -257,6 +266,7 @@ wäre, gilt Satz 1 entsprechend.
 
 
 ### § 8 Vermögensübergang auf eine Personengesellschaft ohne Betriebsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001103301)
 
 (1)
 1Wird das übergehende Vermögen nicht Betriebsvermögen der
@@ -270,6 +280,7 @@ Abs. 1 und 3 des Einkommensteuergesetzes nicht anzuwenden.
 
 
 ### § 9 Entsprechende Anwendung von Vorschriften beim Vermögensübergang auf eine natürliche Person
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001203301)
 
 (1) Wird das Vermögen der übertragenden Körperschaft Betriebsvermögen
 einer natürlichen Person, so sind die §§ 4 bis 7 entsprechend
@@ -281,6 +292,7 @@ sowie § 5 Abs. 1, § 7 und § 8 Abs. 2 sinngemäß anzuwenden.
 
 
 ### § 10 Körperschaftsteuerminderung und Körperschaftsteuererhöhung
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001305301)
 
 1Die Körperschaftsteuerschuld der übertragenden Körperschaft mindert
 oder erhöht sich für den Veranlagungszeitraum der Umwandlung um den
@@ -297,10 +309,12 @@ anzuwenden.
 
 
 ## Dritter Teil - Verschmelzung oder Vermögensübertragung (Vollübertragung) auf eine andere Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG001401301)
 
 
 
 ### § 11 Auswirkungen auf den Gewinn der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001501301)
 
 (1)
 1In der steuerlichen Schlussbilanz für das letzte Wirtschaftsjahr der
@@ -332,6 +346,7 @@ dem Teilwert anzusetzen.
 
 
 ### § 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001608301)
 
 (1)
 1Für die Übernahme der übergegangenen Wirtschaftsgüter gilt § 4 Abs. 1
@@ -388,6 +403,7 @@ Einkommensteuergesetzes.
 
 
 ### § 13 Besteuerung der Gesellschafter der übertragenden Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001703301)
 
 (1) Die Anteile an der übertragenden Körperschaft, die zu einem
 Betriebsvermögen gehören, gelten als zum Buchwert veräußert und die an
@@ -416,10 +432,12 @@ sich auf die Anteile an der übernehmenden Körperschaft.
 
 
 ## Vierter Teil - Formwechsel einer Kapitalgesellschaft und einer Genossenschaft in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG001801301)
 
 
 
 ### § 14 Entsprechende Anwendung von Vorschriften, Eröffnungsbilanz
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE001901301)
 
 1Im Falle des Formwechsels einer Kapitalgesellschaft in eine
 Personengesellschaft sind die §§ 3 bis 8 und 10 entsprechend
@@ -436,10 +454,12 @@ Landwirtschaftsanpassungsgesetzes.
 
 
 ## Fünfter Teil - Aufspaltung, Abspaltung und Vermögensübertragung (Teilübertragung)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG002001301)
 
 
 
 ### § 15 Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE004003301)
 
 (1)
 1Geht Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung
@@ -495,6 +515,7 @@ erworben werden.
 
 
 ### § 16 Aufspaltung oder Abspaltung auf eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002103301)
 
 1Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung
 auf eine Personengesellschaft übergeht, gelten die §§ 3 bis 8, 10 und
@@ -508,19 +529,23 @@ Vermögen auf eine Personengesellschaft übergeht.
 
 
 ## Sechster Teil - Barabfindung des Minderheitsgesellschafters
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG002201301)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002302301)
 
 (weggefallen)
 
 
 ## Siebter Teil - Gewerbesteuer
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG002401301)
 
 
 
 ### § 18 Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002506301)
 
 (1)
 1Die §§ 3 bis 9, 14 und 16 gelten bei Vermögensübergang auf eine
@@ -550,6 +575,7 @@ berücksichtigen.
 
 
 ### § 19 Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002603301)
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere
 Körperschaft über, so gelten die §§ 11 bis 13 und 15 auch für die
@@ -561,10 +587,12 @@ sowie Abs. 5 Satz 3, § 15 Abs. 4 und § 16 Satz 3 entsprechend.
 
 
 ## Achter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Kapitalgesellschaft gegen Gewährung von Gesellschaftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG002701301)
 
 
 
 ### § 20 Bewertung des eingebrachten Betriebsvermögens und der Gesellschaftsanteile
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002803301)
 
 (1)
 1Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in
@@ -676,6 +704,7 @@ die Kapitalgesellschaft übergeht.
 
 
 ### § 21 Besteuerung des Anteilseigners
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE002907301)
 
 (1)
 1Werden Anteile an einer Kapitalgesellschaft veräußert, die der
@@ -756,6 +785,7 @@ abzusetzen.
 
 
 ### § 22 Auswirkungen bei der übernehmenden Kapitalgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003004301)
 
 (1) Setzt die Kapitalgesellschaft das eingebrachte Betriebsvermögen
 mit dem Buchwert (§ 20 Abs. 2 Satz 2) an, so gelten § 4 Abs. 2 Satz 3
@@ -797,6 +827,7 @@ Sinne des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
 
 ### § 23 Einbringung in der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003101301)
 
 (1)
 1Bringt eine unbeschränkt körperschaftsteuerpflichtige
@@ -860,10 +891,12 @@ Abs. 4 Satz 2 entsprechend anzuwenden.
 
 
 ## Neunter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG003201301)
 
 
 
 ### § 24 Einbringung von Betriebsvermögen in eine Personengesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003304301)
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in
 eine Personengesellschaft eingebracht und wird der Einbringende
@@ -904,10 +937,12 @@ Gesamtrechtsnachfolge gilt auch § 20 Abs. 7 und 8 entsprechend.
 
 
 ## Zehnter Teil - Formwechsel einer Personengesellschaft in eine Kapitalgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG003402301)
 
 
 
 ### § 25 Entsprechende Anwendung des achten Teils
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003502301)
 
 1Der achte Teil gilt in den Fällen des Formwechsels einer
 Personengesellschaft in eine Kapitalgesellschaft im Sinne des § 190
@@ -917,10 +952,12 @@ steuerlichen Übertragungsstichtag aufzustellen.
 
 
 ## Elfter Teil - Verhinderung von Missbräuchen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG003601301)
 
 
 
 ### § 26 Wegfall von Steuererleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003702301)
 
 (1)
 1Die Anwendbarkeit des § 6 entfällt rückwirkend, wenn die Übernehmerin
@@ -955,10 +992,12 @@ Bundesrepublik Deutschland nicht besteuert werden können.
 
 
 ## Zwölfter Teil - Übergangs-, Schluss- und Ermächtigungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNG003802301)
 
 
 
 ### § 27 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE003910301)
 
 (1) Dieses Gesetz ist erstmals auf den Übergang von Vermögen
 anzuwenden, der auf Rechtsakten beruht, die nach dem 31. Dezember 1994
@@ -1070,6 +1109,7 @@ Dezember 2001 (BGBl. I S. 3858) ist erstmals auf Veräußerungen oder
 
 
 ### § 28 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE004301301)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen
@@ -1079,6 +1119,7 @@ Unstimmigkeiten im Wortlaut zu beseitigen.
 
 
 ### Anlage (zu § 23)
+[Direktlink](https://www.gesetze-im-internet.de/umwstg_1995/BJNR326710994.html#BJNR326710994BJNE004102301)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4143 u. 4144)
 

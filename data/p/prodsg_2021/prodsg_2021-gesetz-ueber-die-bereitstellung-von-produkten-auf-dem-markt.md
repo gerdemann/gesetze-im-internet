@@ -103,9 +103,11 @@ Stand: Ersetzt V 8053-8 v. 8.11.2011 I 2178, 2179; 2012 I 131 (ProdSG 2011)
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000201126)
 
 (1) Dieses Gesetz ist anzuwenden, wenn im Rahmen einer
 Geschäftstätigkeit Produkte auf dem Markt bereitgestellt, ausgestellt
@@ -187,6 +189,7 @@ Anwendung.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000300000)
 
 Im Sinne dieses Gesetzes bedeutet
 
@@ -422,9 +425,11 @@ Im Sinne dieses Gesetzes bedeutet
 
 
 ## Abschnitt 2 - Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000200000)
 
 
 ### § 3 Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000400000)
 
 (1) Sofern ein Produkt einer oder mehreren Rechtsverordnungen nach § 8
 Absatz 1 unterliegt, darf es nur auf dem Markt bereitgestellt werden,
@@ -493,6 +498,7 @@ von Personen zu treffen.
 
 
 ### § 4 Harmonisierte Normen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000500000)
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3
 Absatz 1 oder Absatz 2 entspricht, können harmonisierte Normen
@@ -517,6 +523,7 @@ Bundesministerium zur Weitergabe an die Europäische Kommission zu.
 
 
 ### § 5 Normen und andere technische Spezifikationen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000600000)
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3
 Absatz 2 entspricht, können Normen und andere technische
@@ -544,6 +551,7 @@ technischen Spezifikation eingeschränkt oder rückgängig gemacht.
 
 
 ### § 6 Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000700000)
 
 (1) Der Hersteller, sein Bevollmächtigter und der Einführer haben
 jeweils im Rahmen ihrer Geschäftstätigkeit bei der Bereitstellung
@@ -640,6 +648,7 @@ entspricht. Absatz 4 gilt für Fulfilment-Dienstleister entsprechend.
 
 
 ### § 7 CE-Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000800000)
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze nach
 Artikel 30 der Verordnung (EG)
@@ -687,6 +696,7 @@ besondere Verwendung hinweist.
 
 
 ### § 8 Ermächtigung zum Erlass von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE000900000)
 
 (1) Die Bundesministerien des Innern, für Bau und Heimat, für
 Wirtschaft und Energie, für Arbeit und Soziales, der Verteidigung, für
@@ -769,9 +779,11 @@ kann nur mit Zustimmung des Bundesrates verlängert werden.
 
 
 ## Abschnitt 3 - Bestimmungen über die Befugnis erteilende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000300000)
 
 
 ### § 9 Aufgaben der Befugnis erteilenden Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001000000)
 
 (1) Die Befugnis erteilende Behörde erteilt
 Konformitätsbewertungsstellen auf Antrag die Befugnis, bestimmte
@@ -802,6 +814,7 @@ haben.
 
 
 ### § 10 Anforderungen an die Befugnis erteilende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001100000)
 
 (1) Die Länder haben die Befugnis erteilende Behörde so einzurichten,
 dass es zu keinerlei Interessenkonflikt mit den
@@ -822,6 +835,7 @@ ordnungsgemäß wahrnehmen kann.
 
 
 ### § 11 Befugnisse der Befugnis erteilenden Behörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001200000)
 
 (1) Die Befugnis erteilende Behörde kann von den
 Konformitätsbewertungsstellen, denen sie die Befugnis zur Durchführung
@@ -880,9 +894,11 @@ Auskunftsverweigerung zu belehren.
 
 
 ## Abschnitt 4 - Notifizierung von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000400000)
 
 
 ### § 12 Anträge auf Notifizierung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001300000)
 
 (1) Eine Konformitätsbewertungsstelle kann bei der Befugnis
 erteilenden Behörde die Befugnis beantragen, als notifizierte Stelle
@@ -912,6 +928,7 @@ erfüllt.
 
 
 ### § 13 Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001400000)
 
 (1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit
 besitzen. Sie muss selbstständig Verträge abschließen, unbewegliches
@@ -1048,6 +1065,7 @@ unberührt.
 
 
 ### § 14 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001500000)
 
 (1) Weist eine Konformitätsbewertungsstelle durch eine Akkreditierung
 nach, dass sie die Kriterien der einschlägigen harmonisierten Normen,
@@ -1068,6 +1086,7 @@ Europäische Kommission zu.
 
 
 ### § 15 Erteilung der Befugnis, Notifizierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001600000)
 
 (1) Hat die Befugnis erteilende Behörde festgestellt, dass eine
 Konformitätsbewertungsstelle die Anforderungen nach § 13 erfüllt, so
@@ -1116,6 +1135,7 @@ betreffenden Stelle.
 
 
 ### § 16 Verpflichtungen der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001700000)
 
 (1) Die notifizierte Stelle führt die Konformitätsbewertung im
 Einklang mit den Konformitätsbewertungsverfahren gemäß den
@@ -1151,6 +1171,7 @@ als allgemeine Leitlinie anzuwenden.
 
 
 ### § 17 Meldepflichten der notifizierten Stelle
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001800000)
 
 (1) Die notifizierte Stelle meldet der Befugnis erteilenden Behörde
 
@@ -1184,6 +1205,7 @@ Konformitätsbewertungen.
 
 
 ### § 18 Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE001900000)
 
 (1) Vergibt die notifizierte Stelle bestimmte mit der
 Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder
@@ -1208,6 +1230,7 @@ Behörde bereit.
 
 
 ### § 19 Widerruf der erteilten Befugnis
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002000000)
 
 (1) Wenn die Befugnis erteilende Behörde feststellt oder darüber
 unterrichtet wird, dass eine notifizierte Stelle die in § 13 genannten
@@ -1225,9 +1248,11 @@ Marktüberwachungsbehörden auf deren Verlangen bereitgehalten werden.
 
 
 ## Abschnitt 5 - GS-Zeichen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000500000)
 
 
 ### § 20 Zuerkennung des GS-Zeichens
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002100000)
 
 (1) Ein verwendungsfertiges und geeignetes Produkt darf mit dem GS-
 Zeichen gemäß der Anlage versehen werden, wenn das GS-Zeichen von
@@ -1283,6 +1308,7 @@ beschränken.
 
 
 ### § 21 Befugnis für die Tätigkeit als GS-Stelle
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002200000)
 
 (1) Eine Konformitätsbewertungsstelle, die im Geltungsbereich dieses
 Gesetzes ansässig ist, kann bei der Befugnis erteilenden Behörde
@@ -1348,6 +1374,7 @@ In dem Verwaltungsabkommen nach Satz 2 Nummer 1 müssen geregelt sein:
 
 
 ### § 22 Pflichten der GS-Stellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002300000)
 
 (1) Die GS-Stelle hat eine Liste aller ausgestellten Bescheinigungen
 über die Zuerkennung des GS-
@@ -1402,6 +1429,7 @@ sorgen, dass diese Beschlüsse und Dokumente angewendet werden.
 
 
 ### § 23 Einbeziehung von externen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002400000)
 
 (1) Die GS-Stelle kann bestimmte, mit der Zuerkennung des GS-Zeichens
 verbundene Aufgaben an externe Stellen vergeben. Diese Stellen müssen
@@ -1450,6 +1478,7 @@ bereit.
 
 
 ### § 24 Pflichten des Herstellers und des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002500000)
 
 (1) Der Hersteller hat dafür Sorge zu tragen, dass die von ihm
 hergestellten verwendungsfertigen Produkte mit dem geprüften Baumuster
@@ -1490,9 +1519,11 @@ enthalten:
 
 
 ## Abschnitt 6 - Marktüberwachung, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und Ausschuss für Produktsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000600000)
 
 
 ### § 25 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002600000)
 
 (1) Vorbehaltlich der Sätze 2 und 3 obliegt die Marktüberwachung den
 nach Landesrecht zuständigen Behörden (Marktüberwachungsbehörden).
@@ -1562,6 +1593,7 @@ unterrichten.
 
 
 ### § 26 Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002700000)
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
@@ -1603,6 +1635,7 @@ wissenschaftlichen Forschung bleiben unberührt.
 
 
 ### § 27 Ausschuss für Produktsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002800000)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Produktsicherheit eingesetzt.
@@ -1654,9 +1687,11 @@ Arbeitsschutz und Arbeitsmedizin.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNG000700000)
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE002900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1759,6 +1794,7 @@ nach Absatz 1 Nummer 12 und 13 geahndet werden können.
 
 
 ### § 29 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE003000000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 28 Absatz 1 Nummer 7 Buchstabe a, Nummer 9
@@ -1769,6 +1805,7 @@ Wert gefährdet.
 
 
 ### Anlage Gestaltung des GS-Zeichens
+[Direktlink](https://www.gesetze-im-internet.de/prodsg_2021/BJNR314700021.html#BJNR314700021BJNE003200000)
 
 (Fundstelle: BGBl. I 2021, 3161)
 

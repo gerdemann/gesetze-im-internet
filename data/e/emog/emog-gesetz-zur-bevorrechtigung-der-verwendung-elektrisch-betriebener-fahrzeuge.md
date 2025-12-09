@@ -29,6 +29,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000100000)
 
 Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung der Teilnahme
 elektrisch betriebener Fahrzeuge
@@ -60,6 +61,7 @@ Fahrerlaubnis der Klasse B geführt werden darf.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -115,6 +117,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Bevorrechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000302123)
 
 (1) Wer ein Fahrzeug im Sinne des § 2 führt, kann nach Maßgabe der
 folgenden Vorschriften Bevorrechtigungen bei der Teilnahme am
@@ -191,6 +194,7 @@ Gebührenpflicht vorgesehen werden.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000402123)
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt
 werden, die mit einer deutlich sichtbaren Kennzeichnung versehen sind.
@@ -226,6 +230,7 @@ Straßenverkehrsgesetzes gilt entsprechend.
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000500000)
 
 (1) Bis zum 1. Januar 2016 tritt an die Stelle des Artikels 38 der
 Verordnung (EU) Nr. 168/2013 der Artikel 7 der Richtlinie 2002/24/EG
@@ -245,9 +250,11 @@ die Fahrzeugen nach § 3 Absatz 2 gewährt werden können.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000601123)
 
 
 ## § 7 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000701124)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur und das
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
@@ -262,6 +269,7 @@ Umweltkriterien nach § 3 Absatz 2 Nummer 2, zu gewinnen.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/emog/BJNR089800015.html#BJNR089800015BJNE000800000)
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

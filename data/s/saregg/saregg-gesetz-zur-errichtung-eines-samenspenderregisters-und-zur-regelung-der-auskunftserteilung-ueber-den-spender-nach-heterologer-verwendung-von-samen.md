@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Samenspenderregister
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000101116)
 
 (1) Beim Bundesinstitut für Arzneimittel und Medizinprodukte wird ein
 Samenspenderregister errichtet und geführt.
@@ -35,6 +36,7 @@ geschaffen.
 
 
 ## § 2 Pflichten der Entnahmeeinrichtung bei der Gewinnung von Samen zur heterologen Verwendung für eine künstliche Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000201116)
 
 (1) Eine Einrichtung, in der Samen zur heterologen Verwendung für eine
 ärztlich unterstützte künstliche Befruchtung gewonnen wird
@@ -151,6 +153,7 @@ Absatz 3 Satz 2 widerrufen hat.
 
 
 ## § 3 Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000300000)
 
 (1) Die Entnahmeeinrichtung darf Samen zur heterologen Verwendung nur
 an eine Einrichtung der medizinischen Versorgung im Sinne des § 1a
@@ -166,6 +169,7 @@ Spendenkennungssequenz oder die eindeutige Spendennummer zu
 
 
 ## § 4 Pflicht der Einrichtung der medizinischen Versorgung vor der heterologen Verwendung von Samen zur künstlichen Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000401116)
 
 Eine Einrichtung der medizinischen Versorgung hat vor einer
 heterologen Verwendung von Samen für eine ärztlich unterstützte
@@ -224,6 +228,7 @@ wird.
 
 
 ## § 5 Pflichten der Einrichtung der medizinischen Versorgung bei heterologer Verwendung von Samen zur künstlichen Befruchtung
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000501116)
 
 (1) Die Einrichtung der medizinischen Versorgung darf Samen für eine
 ärztlich unterstützte künstliche Befruchtung nur heterolog verwenden,
@@ -298,6 +303,7 @@ Bundesinstitut für Arzneimittel und Medizinprodukte oder im Fall von §
 
 
 ## § 6 Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000601116)
 
 (1) Sobald die Einrichtung der medizinischen Versorgung nach
 heterologer Verwendung von Samen für eine von ihr ärztlich
@@ -350,6 +356,7 @@ Verfügung gestellt und genutzt werden.
 
 
 ## § 7 Aufgaben des Bundesinstituts für Arzneimittel und Medizinprodukte im Zusammenhang mit dem Samenspenderregister
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000701116)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
 erforderlichen räumlichen, technischen und organisatorischen Maßnahmen
@@ -395,6 +402,7 @@ Bundesanzeiger bekanntgemachten Fassung.
 
 
 ## § 8 Speicherung und Löschung der Samenspenderregisterdaten
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000801116)
 
 Die nach § 6 zu übermittelnden Daten werden in dem
 Samenspenderregister für die Dauer von 110 Jahren gespeichert. Nach
@@ -411,6 +419,7 @@ dem Samenspenderregister zu löschen.
 
 
 ## § 9 Zweckbindung bei personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE000901116)
 
 (1) Es dürfen
 
@@ -432,6 +441,7 @@ Versorgung gilt § 7 Absatz 1 und 5 entsprechend.
 
 
 ## § 10 Voraussetzungen und Verfahren der Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE001001116)
 
 (1) Eine Person, die vermutet, durch heterologe Verwendung von Samen
 bei einer ärztlich unterstützten künstlichen Befruchtung gezeugt
@@ -487,6 +497,7 @@ verlangen.
 
 
 ## § 11 Auskunfts- und Berichtigungsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE001101116)
 
 (1) Dem Samenspender steht ein Auskunfts- und Berichtigungsanspruch
 gegenüber dem Bundesinstitut für Arzneimittel und Medizinprodukte nur
@@ -505,6 +516,7 @@ und 3 gespeicherten Daten.
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE001200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -542,6 +554,7 @@ mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 
 ## § 13 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/saregg/BJNR251310017.html#BJNR251310017BJNE001300000)
 
 (1) Entnahmeeinrichtungen, die Samen vor Inkrafttreten dieses Gesetzes
 gewonnen haben, dürfen diesen nur dann an eine Einrichtung der

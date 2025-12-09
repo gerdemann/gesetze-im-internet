@@ -18,12 +18,14 @@ Fundstelle
 Stand: Zuletzt geändert Art. 321 V v. 19.6.2020 I 1328
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000204305)
 
 (1) Den folgenden in Seoul am 14. September 1994 von der
 Bundesrepublik Deutschland unterzeichneten Verträgen des
@@ -64,6 +66,7 @@ geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000304305)
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -75,6 +78,7 @@ setzen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000405124)
 
 (1) Für die Bundesrepublik Deutschland nimmt die Deutsche Post AG die
 Rechte und Pflichten wahr, die sich für eine Postverwaltung im
@@ -114,6 +118,7 @@ nach Maßgabe des Artikels 25 des Weltpostvertrages zu erlassen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000500310)
 
 Für die Bundesrepublik Deutschland nimmt die Deutsche Postbank AG die
 Rechte und Pflichten wahr, die sich für eine Postverwaltung im
@@ -124,6 +129,7 @@ Artikels 3 Abs. 2 Satz 1, 3 bis 6 gelten entsprechend.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000604305)
 
 (1) Das Bundesministerium für Wirtschaft und Energie überwacht bei
 Unternehmen, die nach den Artikeln 3 und 4 für die Bundesrepublik
@@ -147,6 +153,7 @@ Verstöße zu verhindern und die Folgen begangener Verstöße zu beheben.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000701301)
 
 (1) Die Umrechnung des in den Verträgen des Weltpostvereins genannten
 Sonderziehungsrechts des Internationalen Währungsfonds in Euro wird
@@ -163,6 +170,7 @@ festgesetzte Durchschnittswert ist im Bundesanzeiger bekanntzugeben.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/wpostvtr1994g/BJNR208220998.html#BJNR208220998BJNE000800310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

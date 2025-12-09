@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000100000)
 
 Auf Grund des § 15 Absatz 2 des Entsorgungsfondsgesetzes vom 27.
 Januar 2017 (BGBl. I S. 114) verordnet das Bundesministerium für
@@ -25,9 +26,11 @@ Finanzen:
 
 
 ## Abschnitt 1 - Abwicklung von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNG000100000)
 
 
 ### § 1 Mitteilung des Kontos
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000200000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie teilt dem
 Einzahlenden nach § 2 Absatz 1 des Entsorgungsfondsgesetzes
@@ -40,6 +43,7 @@ die Mitteilung des Kontos benutzt werden sollen.
 
 
 ### § 2 Vornahme von Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000300000)
 
 (1) Der Einzahlende leistet Einzahlungen nach dem
 Entsorgungsfondsgesetz ausschließlich auf das mitgeteilte Konto.
@@ -60,6 +64,7 @@ Entsorgungsfondsgesetz ausschließlich auf das mitgeteilte Konto.
 
 
 ### § 3 Leistungszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000400000)
 
 (1) Der Einzahlende ist nicht berechtigt, den Grundbetrag nach § 7
 Absatz 2 Satz 1 des Entsorgungsfondsgesetzes (Grundbetrag) und den
@@ -74,6 +79,7 @@ Entsorgungsfondsgesetzes so behandelt wie eine Zahlung zum 1. Juli
 
 
 ### § 4 Schriftliche Zahlungsaufforderung
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000500000)
 
 Für Zahlungen nach § 8 Absatz 1 und 2 des Entsorgungsfondsgesetzes
 schickt das Bundesamt für Wirtschaft und Ausfuhrkontrolle dem
@@ -93,6 +99,7 @@ Zahlungsaufforderung sind anzugeben:
 
 
 ### § 5 Bestätigung von Zahlungseingängen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000600000)
 
 (1) Die Stiftung „Fonds zur Finanzierung der kerntechnischen
 Entsorgung“ (Fonds) bestätigt schriftlich gegenüber dem Einzahlenden
@@ -152,9 +159,11 @@ unverzüglich nach Verstreichen des Zahlungszeitpunktes Folgendes mit:
 
 
 ## Abschnitt 2 - Höhe der verzinsten Einzahlungsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNG000200000)
 
 
 ### § 6 Höhe der Zinsen
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000700000)
 
 Die Höhe der Zinsen nach § 7 Absatz 2 Satz 2 und 4 und Absatz 3 Satz 1
 des Entsorgungsfondsgesetzes wird nach der Deutschen Zinsmethode
@@ -162,6 +171,7 @@ des Entsorgungsfondsgesetzes wird nach der Deutschen Zinsmethode
 
 
 ### § 7 Abzug von nachgewiesenen Ausgaben für Entsorgungskosten
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000800000)
 
 (1) Kann der Einzahlende die Ausgaben für Entsorgungskosten nach § 2
 Absatz 2 des Entsorgungsfondsgesetzes (Entsorgungskosten), die von dem
@@ -177,9 +187,11 @@ Nachweises an den Einzahlenden auszuzahlen.
 
 
 ## Abschnitt 3 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNG000300000)
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/entsorgfondsgzvereinnv/BJNR167400017.html#BJNR167400017BJNE000900000)
 
 Diese Verordnung tritt am Tag der Verkündung in Kraft.
 

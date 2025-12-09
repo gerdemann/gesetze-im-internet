@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000100319)
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000200319)
 
 (1) Grenzen zwischen Ländern können nach Maßgabe dieses Gesetzes
 geändert werden, wenn das Gebiet, dessen Landeszugehörigkeit geändert
@@ -39,6 +41,7 @@ als 10.000 Einwohnern bewohnt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000300319)
 
 (1) Die beteiligten Länder können Gebietsänderungen nach § 1 durch
 Staatsvertrag vereinbaren.
@@ -57,6 +60,7 @@ dem der Staatsvertrag in Kraft tritt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000401311)
 
 (1) Wird ein Gesetzentwurf über eine Gebietsänderung nach § 1 im
 Bundestag beraten, so muß den beteiligten Ländern spätestens vor der
@@ -71,6 +75,7 @@ Unterlagen vorzulegen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000500319)
 
 Verwaltungsvermögen von Körperschaften des öffentlichen Rechts in dem
 abzutretenden Gebiet geht, soweit der Staatsvertrag oder das
@@ -86,6 +91,7 @@ Rechts.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000600319)
 
 (1) Mit der Gebietsänderung erhalten, soweit das aufnehmende Land oder
 das Bundesgesetz nichts Abweichendes bestimmt, in dem betroffenen
@@ -100,6 +106,7 @@ Wohnsitz, Wohnung oder Aufenthalt in dem aufnehmenden Land.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs7g/BJNR013250979.html#BJNR013250979BJNE000700319)
 
 (1) Dieses Gesetz tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.

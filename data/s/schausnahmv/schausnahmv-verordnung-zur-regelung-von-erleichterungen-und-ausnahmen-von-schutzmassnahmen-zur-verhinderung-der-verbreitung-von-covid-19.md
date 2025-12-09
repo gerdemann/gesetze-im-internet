@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE000100000)
 
 Auf Grund des § 28c des Infektionsschutzgesetzes, der durch Artikel 6
 Nummer 1 des Gesetzes vom 7. Mai 2021 (BGBl. I S. 850) geändert worden
@@ -29,9 +30,11 @@ Beschlusses des Bundestages vom 6. Mai 2021:
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNG000100000)
 
 
 ### § 1 Zweck der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE000200000)
 
 (1) Zweck dieser Verordnung ist es, Erleichterungen und Ausnahmen von
 Geboten und Verboten nach dem fünften Abschnitt des
@@ -83,6 +86,7 @@ Ausnahmen gelten nicht für Personen,
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE000302116)
 
 Im Sinne dieser Verordnung ist
 
@@ -136,6 +140,7 @@ Im Sinne dieser Verordnung ist
 
 
 ### § 3 Gleichstellung von geimpften Personen und genesenen Personen mit getesteten Personen
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE000801116)
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des
 Infektionsschutzgesetzes erlassenes Landesrecht eine Ausnahme von
@@ -158,6 +163,7 @@ SARS-CoV-2 vorlegen können.
 
 
 ### § 4 Ausnahmen von der Beschränkung von Zusammenkünften
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE000902360)
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des
 Infektionsschutzgesetzes erlassenes Landesrecht die Anzahl von
@@ -194,6 +200,7 @@ vorzulegen.
 
 
 ### § 5 Ausnahmen von der Beschränkung des Aufenthalts außerhalb einer Wohnung oder einer Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE001001116)
 
 Sofern auf Grund der Vorschriften des fünften Abschnitts des
 Infektionsschutzgesetzes erlassenes Landesrecht den Aufenthalt
@@ -203,6 +210,7 @@ Beschränkung nicht für geimpfte Personen und genesene Personen.
 
 
 ### § 6 Ausnahmen von Absonderungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE001104116)
 
 (1) Sofern auf Grund der Vorschriften des fünften Abschnitts des
 Infektionsschutzgesetzes erlassenes Landesrecht eine Pflicht zur
@@ -215,9 +223,11 @@ in die Bundesrepublik Deutschland einreisen.
 
 
 ## Abschnitt 2 - Erleichterungen und Ausnahmen von auf Grund der Vorschriften im fünften Abschnitt des Infektionsschutzgesetzes erlassenen landesrechtlichen Geboten und Verboten
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNG000301116)
 
 
 ### § 7 Ermächtigung der Landesregierungen zu Erleichterungen und Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE001201116)
 
 Die Landesregierungen werden ermächtigt, Erleichterungen und Ausnahmen
 von den auf Grund der Vorschriften im fünften Abschnitt des
@@ -228,6 +238,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html#BJNR612800021BJNE001400000)
 
 Der Bundesrat hat zugestimmt.
 

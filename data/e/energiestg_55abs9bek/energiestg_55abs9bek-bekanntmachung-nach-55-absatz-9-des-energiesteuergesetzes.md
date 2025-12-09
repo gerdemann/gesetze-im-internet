@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_55abs9bek/BJNR16A0A0023.html#BJNR16A0A0023BJNE000100000)
 
 Nach § 55 Absatz 9 des Energiesteuergesetzes vom 15. Juli 2006 (BGBl.
 I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 1 des
@@ -28,6 +29,7 @@ Energiesteuergesetzes mit Ablauf des 31. Dezember 2023 ausläuft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/energiestg_55abs9bek/BJNR16A0A0023.html#BJNR16A0A0023BJNE000200000)
 
 Bundesministerium der Finanzen
 

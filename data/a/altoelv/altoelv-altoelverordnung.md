@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNG000101320)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE000504360)
 
 (1) Diese Verordnung gilt für
 
@@ -61,6 +63,7 @@ ist und nach den Vorschriften dieser Verordnung zu beseitigen ist.
 
 
 ### § 1a Definitionen
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE002202360)
 
 (1) Altöle im Sinne dieser Verordnung sind Öle, die als Abfall
 anfallen und die ganz oder teilweise aus Mineralöl, synthetischem oder
@@ -136,6 +139,7 @@ der PCB/PCT-Abfallverordnung bezeichneten Stoffe.
 
 
 ### § 2 Vorrang der Aufbereitung
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE000603360)
 
 (1) Die stoffliche Verwertung von Altölen hat Vorrang vor der
 energetischen Verwertung und der Beseitigung, soweit dies technisch
@@ -149,6 +153,7 @@ geeignet.
 
 
 ### § 3 Grenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE000703360)
 
 Altöle dürfen nicht stofflich verwertet werden, wenn sie mehr als 20
 mg PCB/kg, ermittelt nach den in Anlage 2 Abschnitt 2 festgelegten
@@ -161,6 +166,7 @@ in Satz 1 genannten Grenzwerte liegt.
 
 
 ### § 4 Getrennte Entsorgung, Vermischungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE000804360)
 
 (1) Es ist verboten, Altöle im Sinne des § 1a Absatz 1 mit anderen
 Abfällen zu vermischen.
@@ -221,6 +227,7 @@ Nachweisverordnung angeordnet ist.
 
 
 ### § 5 Entnahme, Untersuchung und Aufbewahrung von Proben
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE000903360)
 
 (1) Unternehmen der Altölsammlung haben bei der Übernahme von Altölen
 der Sammelkategorien 1 und 2 eine Probe zu entnehmen. Je eine
@@ -257,6 +264,7 @@ Verlangen zu überlassen.
 
 
 ### § 6 Ergänzende Erklärungen zur Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001004360)
 
 (1) Wer Altöle
 
@@ -303,10 +311,12 @@ Nachweisverordnung.
 
 
 ## Zweiter Abschnitt - Anforderungen an die Abgabe von Verbrennungsmotoren- oder Getriebeölen
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNG000201320)
 
 
 
 ### § 7 Kennzeichnung der Gebinde
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001102360)
 
 Verbrennungsmotoren- oder Getriebeöle dürfen in Gebinden nur in
 Verkehr gebracht werden, wenn sie durch Aufdruck oder Aufkleber
@@ -318,6 +328,7 @@ Kühlflüssigkeiten ist verboten."
 
 
 ### § 8 Altölannahmestelle bei Abgabe an Endverbraucher
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001203360)
 
 (1) Wer gewerbsmäßig Verbrennungsmotoren- oder Getriebeöl an
 Endverbraucher abgibt, hat vor einer Abgabe eine Annahmestelle nach
@@ -346,6 +357,7 @@ Endverbraucher Fernkommunikationsmittel verwendet werden.
 
 
 ### § 9 Ausnahmen für gewerbliche Endverbraucher, Schiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001301320)
 
 (1) Soweit gewerbliche oder sonstige wirtschaftliche Unternehmen oder
 öffentliche Einrichtungen Verbrennungsmotoren- oder Getriebeöle
@@ -362,10 +374,12 @@ durch den Schiffsbetrieb (MARPOL) in Anspruch nimmt.
 
 
 ## Dritter Abschnitt - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNG000301320)
 
 
 
 ### § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001504360)
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -410,21 +424,25 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001603360)
 
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001702320)
 
 -
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE001901320)
 
 (Inkrafttreten)
 
 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)
 
 ### Anlage 1 Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE002303360)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1372)
 
@@ -562,6 +580,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 5 Abs. 3)
 
 ### Anlage 2 Probenahme und Untersuchung von Altöl
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE002003360)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1373 - 1374)
 
@@ -842,6 +861,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 (zu § 6 Abs. 1 und 2)
 
 ### Anlage 3 Erklärung über die Entsorgung von Altölen
+[Direktlink](https://www.gesetze-im-internet.de/alt_lv/BJNR023350987.html#BJNR023350987BJNE002104360)
 
 (Inhalt: nicht darstellbares Formblatt,
 Fundstelle: BGBl. I 2002, 1375;

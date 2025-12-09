@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/autobbrvtrbelg/BJNR207520980.html#BJNR207520980BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/autobbrvtrbelg/BJNR207520980.html#BJNR207520980BJNE000200314)
 
 Dem in Brüssel am 5. Februar 1979 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien über den Bau und
@@ -35,6 +37,7 @@ Der Vertrag und der Briefwechsel werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/autobbrvtrbelg/BJNR207520980.html#BJNR207520980BJNE000300314)
 
 (1) Für die Anwendung des deutschen Umsatzsteuerrechts auf die in
 Artikel 11 Abs. 1 und 4 des Vertrages bezeichneten Umsätze ist die als
@@ -52,12 +55,14 @@ Bestimmungen sind mit Wirkung vom 1. Januar 1978 anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/autobbrvtrbelg/BJNR207520980.html#BJNR207520980BJNE000400314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/autobbrvtrbelg/BJNR207520980.html#BJNR207520980BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

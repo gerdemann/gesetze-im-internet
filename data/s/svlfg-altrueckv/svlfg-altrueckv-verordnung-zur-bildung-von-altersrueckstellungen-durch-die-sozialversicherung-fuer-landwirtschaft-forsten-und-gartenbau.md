@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000101126)
 
 Auf Grund des § 7 Absatz 2 des Gesetzes zur Errichtung der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der
@@ -32,6 +33,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Bildung der Altersrückstellungen
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000200000)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 bildet Altersrückstellungen für den in § 7 Absatz 1 Satz 1 und 4 des
@@ -78,6 +80,7 @@ Die Regelaltersgrenze wird nach dem Geburtsjahrgang festgelegt.
 
 
 ## § 2 Höhe und Überprüfung der Zuweisungssätze
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000300000)
 
 (1) Erforderlich ist ein Zuweisungssatz, der in jährlich
 gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals
@@ -155,12 +158,14 @@ aufzubauenden Deckungskapitals verändert.
 
 
 ## § 3 Zahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000400000)
 
 Die jährlichen Zuweisungssätze sind dem Deckungskapital bis zum 31.
 Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
 
 
 ## § 4 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000500000)
 
 (1) Für Versorgungsleistungen, die vor dem 1. Januar 2040 zu erbringen
 sind, sind keine Altersrückstellungen nach § 1 zu bilden.
@@ -174,6 +179,7 @@ wenn die Voraussetzung des § 1 Absatz 2 Satz 2 erfüllt ist.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svlfg-altr_ckv/BJNR376500017.html#BJNR376500017BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

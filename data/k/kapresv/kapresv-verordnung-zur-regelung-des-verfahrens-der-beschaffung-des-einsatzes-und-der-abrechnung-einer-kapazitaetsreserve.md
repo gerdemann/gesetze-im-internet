@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000100000)
 
 Auf Grund des § 13h des Energiewirtschaftsgesetzes vom 7. Juli 2005
 (BGBl. I S. 1970, 3621), dessen Absätze 1 und 2 zuletzt durch Artikel
@@ -30,9 +31,11 @@ Wirtschaft und Energie:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000300000)
 
 Diese Verordnung regelt die Beschaffung, die Teilnahmevoraussetzungen,
 den Einsatz und die Abrechnung der Kapazitätsreserve nach § 13e des
@@ -40,6 +43,7 @@ Energiewirtschaftsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000401123)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -198,6 +202,7 @@ Im Sinne dieser Verordnung bedeutet
 
 
 ### § 3 Verhältnis zu den Strommärkten, Anschlussverwendung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000502123)
 
 (1) In der Kapazitätsreserve gebundene Erzeugungsanlagen und Speicher
 speisen ausschließlich auf Anforderung der Übertragungsnetzbetreiber
@@ -270,6 +275,7 @@ Anlage auf deren Erwerber anzuwenden.
 
 
 ### § 4 Anzeige- und Mitteilungspflichten der Betreiber
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000600000)
 
 (1) Der Betreiber einer Anlage muss der zuständigen
 Genehmigungsbehörde und der Bundesnetzagentur anzeigen, wenn
@@ -303,6 +309,7 @@ anzuwenden.
 
 
 ### § 5 Verhältnis zur Regelenergie und zur Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000701123)
 
 (1) Die Übertragungsnetzbetreiber dürfen die vorgehaltene
 Reserveleistung der Kapazitätsreserve nicht anrechnen bei der
@@ -316,9 +323,11 @@ beschaffenden Netzreserve entsprechend.
 
 
 ## Teil 2 - Beschaffungsverfahren Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000200000)
 
 
 ### § 6 Grundsätze der Beschaffung, Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000800000)
 
 Die Übertragungsnetzbetreiber müssen die Kapazitätsreserve in einem
 wettbewerblichen, transparenten und diskriminierungsfreien
@@ -327,6 +336,7 @@ gemeinsam durch.
 
 
 ### § 7 Ausschreibungsvolumen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE000901123)
 
 (1) Das Ausschreibungsvolumen für die Bildung der Kapazitätsreserve
 für den Erbringungszeitraum vom 1. Oktober 2026 bis zum Ablauf des 30.
@@ -368,6 +378,7 @@ Internetseite.
 
 
 ### § 8 Ausschreibungs- und Erbringungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001001123)
 
 (1) Gebotstermin ist
 
@@ -389,6 +400,7 @@ und Termine nach Absatz 1 anpassen.
 
 
 ### § 9 Teilnahmevoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001104123)
 
 (1) Jede Anlage muss für die Teilnahme am Beschaffungsverfahren,
 vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4,
@@ -478,6 +490,7 @@ erforderlich erscheint.
 
 
 ### § 10 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001200000)
 
 (1) Jeder Bieter muss bis zum Gebotstermin eine Erstsicherheit
 leisten. Die Erstsicherheit beträgt 15 Prozent der für ein
@@ -519,6 +532,7 @@ sein, die
 
 
 ### § 11 Bekanntmachung der Beschaffung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001301123)
 
 (1) Die Übertragungsnetzbetreiber müssen die Beschaffung spätestens
 drei Monate vor dem Gebotstermin auf einer gemeinsamen
@@ -569,6 +583,7 @@ Internetplattform bekannt machen.
 
 
 ### § 12 Höchstwert
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001401123)
 
 (1) In jeder Ausschreibung ist ein Höchstwert vorgegeben. Der
 Gebotswert darf den Höchstwert nicht überschreiten.
@@ -588,6 +603,7 @@ Höchstwert nicht angemessen ist, um die Reserveleistung zu beschaffen.
 
 
 ### § 13 Fristen, Bindung an Gebote
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001500000)
 
 (1) Jedes Gebot muss den Übertragungsnetzbetreibern spätestens bis zum
 Gebotstermin zugegangen sein.
@@ -604,6 +620,7 @@ folgenden Kalendermonats gebunden.
 
 
 ### § 14 Gebote
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001601123)
 
 (1) Für jeden Gebotstermin führen die Übertragungsnetzbetreiber ein
 Ausschreibungsverfahren für das gesamte Ausschreibungsvolumen des
@@ -679,6 +696,7 @@ einheitlich für den gesamten Erbringungszeitraum anzugeben.
 
 
 ### § 15 Regeln für die Zusammenlegung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001700000)
 
 (1) Um die Anforderungen nach § 9 zu erfüllen, können Betreiber
 regelbarer Lasten abweichend von § 14 Absatz 6 Satz 2 und 3 ein
@@ -705,6 +723,7 @@ Meldung nach § 9 Absatz 2 Nummer 2 maßgebend.
 
 
 ### § 16 Beizufügende Nachweise und Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001802123)
 
 Dem Gebot sind in geeigneter Form beizufügen:
 
@@ -761,6 +780,7 @@ Dem Gebot sind in geeigneter Form beizufügen:
 
 
 ### § 17 Prüfung und Ausschluss von Geboten und Bietern
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE001900000)
 
 (1) Die Übertragungsnetzbetreiber dürfen die Gebote erst nach Ablauf
 des Gebotstermins öffnen.
@@ -827,6 +847,7 @@ bezieht, kein Gebot abgegeben haben.
 
 
 ### § 18 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002001123)
 
 (1) Die Übertragungsnetzbetreiber sollen den Zuschlag spätestens 60
 Tage nach dem jeweiligen Gebotstermin erteilen. Überschreiten die
@@ -897,6 +918,7 @@ Nachbeschaffung nach § 23 durchführen.
 
 
 ### § 19 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002101123)
 
 (1) Die Betreiber der Kapazitätsreserveanlagen erhalten im
 Erbringungszeitraum eine jährliche Vergütung in Höhe des Produkts aus
@@ -990,6 +1012,7 @@ Gastransportkapazität.
 
 
 ### § 20 Teilnahme von Anlagen der Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002200000)
 
 (1) Jeder Betreiber einer Anlage, die bereits als Netzreserve
 verpflichtet ist, kann für diese Anlage Gebote in der Ausschreibung
@@ -1013,6 +1036,7 @@ der Übertragungsnetzbetreiber erhalten.
 
 
 ### § 21 Rechte und Pflichten aus dem Kapazitätsreservevertrag, Änderung und Übertragung des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002300000)
 
 (1) Der Kapazitätsreservevertrag kann von den Vertragsparteien nicht
 nachträglich so geändert werden, dass die Reserveleistung durch eine
@@ -1028,6 +1052,7 @@ Kapazitätsreserve zur Verfügung stellt.
 
 
 ### § 22 Kündigung des Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002400000)
 
 (1) Der nach § 18 Absatz 2 geschlossene Vertrag kann ausschließlich
 bei Vorliegen eines Grundes nach Absatz 2 oder bei Vorliegen der
@@ -1057,6 +1082,7 @@ Vertrag kündigen, wenn
 
 
 ### § 23 Nachbeschaffung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002501123)
 
 (1) Die Übertragungsnetzbetreiber können die Kapazitätsreserve in
 Abstimmung mit der Bundesnetzagentur zusätzlich zu den nach § 8 Absatz
@@ -1091,9 +1117,11 @@ entscheidet die Bundesnetzagentur über geeignete Maßnahmen durch die
 
 
 ## Teil 3 - Einsatz der Kapazitätsreserve
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000300000)
 
 
 ### § 24 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002600000)
 
 (1) Die Übertragungsnetzbetreiber dürfen die Kapazitätsreserve
 ausschließlich als Systemdienstleistung einsetzen. Die Verbote nach §
@@ -1146,6 +1174,7 @@ Strommengen aus
 
 
 ### § 25 Aktivierung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002701123)
 
 (1) Um sicherzustellen, dass die Anlagen zum notwendigen Zeitpunkt die
 vollständige Reserveleistung einspeisen können, müssen die
@@ -1201,6 +1230,7 @@ erforderlich sind, bleiben von Absatz 1 unberührt.
 
 
 ### § 26 Abruf
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002801123)
 
 (1) Die Auswahlentscheidung für einen Abruf der Kapazitätsreserve oder
 in der Netzreserve bestimmt sich nach § 13 Absatz 1 bis 1c des
@@ -1226,6 +1256,7 @@ entsprechend den Vorgaben des jeweiligen Anschluss-
 
 
 ### § 27 Verfügbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE002900000)
 
 (1) Die Aktivierung und der Abruf von Kapazitätsreserveanlagen mit der
 vollständigen Reserveleistung müssen jederzeit während des gesamten
@@ -1266,6 +1297,7 @@ sind während zulässiger Nichtverfügbarkeiten untersagt.
 
 
 ### § 28 Funktionstest
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003001123)
 
 (1) Der Anschluss-Übertragungsnetzbetreiber führt für jede
 Kapazitätsreserveanlage einen Funktionstest durch, um zu überprüfen,
@@ -1297,6 +1329,7 @@ Monate nach dem Beginn des Erbringungszeitraums.
 
 
 ### § 29 Probeabrufe, Testfahrten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003101123)
 
 (1) Der jeweilige Anschluss-Übertragungsnetzbetreiber muss wenigstens
 einmal und darf höchstens zweimal pro Vertragsjahr Probeabrufe der
@@ -1335,6 +1368,7 @@ nach Absatz 1.
 
 
 ### § 30 Nachbesserung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003200000)
 
 (1) Erbringt die Kapazitätsreserveanlage in den Fällen der Aktivierung
 nach § 25, des Abrufs nach § 26 oder des Probeabrufs nach § 29 Absatz
@@ -1355,9 +1389,11 @@ diesen Zeitraum entfällt.
 
 
 ## Teil 4 - Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000400000)
 
 
 ### § 31 Abrechnung zwischen Übertragungsnetzbetreiber und Betreiber der Kapazitätsreserveanlage
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003300000)
 
 (1) Die Vergütung nach § 19 Absatz 1 Satz 1 muss der jeweilige
 Anschluss-Übertragungsnetzbetreiber monatlich jeweils zum zehnten
@@ -1373,6 +1409,7 @@ dargelegt und nachgewiesen hat.
 
 
 ### § 32 Abrechnung zwischen Übertragungsnetzbetreiber und Bilanzkreisverantwortlichem
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003401123)
 
 (1) Die Übertragungsnetzbetreiber rechnen Bilanzkreisunterspeisungen
 und Bilanzkreisüberspeisungen für die Fahrplanviertelstunden, in denen
@@ -1398,6 +1435,7 @@ Börsenhandel höchsten zulässigen Gebotspreises, wenn
 
 
 ### § 33 Kosten und Erlöse
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003500000)
 
 Die Übertragungsnetzbetreiber bringen die nach § 32 Absatz 2
 entstehenden Erlöse, soweit sie die Erlöse übersteigen, die bei einer
@@ -1410,9 +1448,11 @@ Vertragsstrafen gegenüber der Bundesnetzagentur gesondert aus.
 
 
 ## Teil 5 - Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000500000)
 
 
 ### § 34 Zahlungspflichten bei Nichtverfügbarkeit der Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003601123)
 
 (1) Erfüllt eine Kapazitätsreserveanlage im Rahmen der Funktionstests
 nach § 28 die Anforderungen nach § 9 oder die im Gebot nach § 14
@@ -1483,6 +1523,7 @@ nach § 19 Absatz 1 Satz 1 grundsätzlich zustehende Vergütung begrenzt.
 
 
 ### § 35 Ausschluss bei höherer Gewalt
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003700000)
 
 (1) Betreiber von Kapazitätsreserveanlagen müssen keine Vertragsstrafe
 zahlen, wenn und soweit die Kapazitätsreserveanlage die vertraglich
@@ -1536,6 +1577,7 @@ nach § 27 Absatz 3 Satz 1 angerechnet.
 
 
 ### § 36 Verstoß gegen grundlegende Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003800000)
 
 Im Falle eines Verstoßes gegen § 3 Absatz 2 bis 6 muss der Betreiber
 einer Kapazitätsreserveanlage eine Vertragsstrafe in Höhe von 100
@@ -1549,9 +1591,11 @@ den Betrieb der Anlage untersagen.
 
 
 ## Teil 6 - Aufgaben der Netzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000600000)
 
 
 ### § 37 Vorbereitung und Durchführung der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE003900000)
 
 (1) Die Übertragungsnetzbetreiber ergreifen unverzüglich in Abstimmung
 mit der Bundesnetzagentur alle erforderlichen Maßnahmen zur
@@ -1593,6 +1637,7 @@ entsprechend anzuwenden.
 
 
 ### § 38 Veröffentlichungs- und Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004001123)
 
 (1) Die Übertragungsnetzbetreiber veröffentlichen auf einer
 gemeinsamen Internetplattform innerhalb angemessener Frist
@@ -1665,6 +1710,7 @@ Zweitsicherheit nach § 10 Absatz 2 geleistet haben.
 
 
 ### § 39 Durchsetzung von Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004100000)
 
 (1) Der Betreiber einer Kapazitätsreserveanlage muss die nach den §§
 34 und 36 fälligen Geldbeträge an den Anschluss-
@@ -1692,6 +1738,7 @@ regelbarer Lasten über die Einhaltung des § 3 Absatz 3 zu verlangen.
 
 
 ### § 40 Rückgabe der Sicherheiten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004200000)
 
 (1) Der Anschluss-Übertragungsnetzbetreiber muss die Erstsicherheit
 nach § 10 Absatz 1 unverzüglich an den Bieter zurückgeben, wenn
@@ -1731,6 +1778,7 @@ aufgrund dieser Verordnung hat.
 
 
 ### § 41 Mitwirkungspflicht der Verteilernetzbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004300000)
 
 (1) Der Verteilernetzbetreiber, an dessen Netz die Anlage eines
 Bieters angeschlossen ist, ist verpflichtet eine Bestätigung nach § 16
@@ -1753,9 +1801,11 @@ Betreiber der Kapazitätsreserveanlage und den Anschluss-
 
 
 ## Teil 7 - Aufgaben der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000700000)
 
 
 ### § 42 Festlegungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004401377)
 
 Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 des
 Energiewirtschaftsgesetzes Entscheidungen treffen
@@ -1796,15 +1846,18 @@ Energiewirtschaftsgesetzes Entscheidungen treffen
 
 
 ### § 43 Betriebsuntersagung
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004500000)
 
 Die Bundesnetzagentur kann bei Verstößen gegen § 3 im Benehmen mit der
 zuständigen Aufsichtsbehörde den Betrieb der Anlage untersagen.
 
 
 ## Teil 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNG000800000)
 
 
 ### § 44 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004600000)
 
 Die Bundesnetzagentur und die Übertragungsnetzbetreiber haben dem
 Bundesministerium für Wirtschaft und Energie auf sein Verlangen
@@ -1816,6 +1869,7 @@ erforderlich ist.
 
 
 ### § 45 Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004700000)
 
 Die aufgrund dieser Verordnung von der Bundesnetzagentur und den
 Übertragungsnetzbetreibern gespeicherten Daten sind unverzüglich zu
@@ -1824,6 +1878,7 @@ Verordnung nicht mehr erforderlich sind.
 
 
 ### § 46 Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004800000)
 
 (1) Gerichtliche Rechtsbehelfe mit dem Ziel, die
 Übertragungsnetzbetreiber zur Erteilung eines Zuschlags zu
@@ -1844,12 +1899,14 @@ Kapazitätsreserve erreicht oder überschritten wird.
 
 
 ### § 47 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE004900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 14 Absatz 4 Satz 2)
 
 ### Anlage Reduktionsfaktoren
+[Direktlink](https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html#BJNR005800019BJNE005000123)
 
 (Fundstelle: BGBl. 2025 I Nr. 264, S. 5)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000200000)
 
 Dieses Gesetz regelt Ordnungswidrigkeiten nach dem unmittelbar
 geltenden Tiergesundheitsrecht der Europäischen Union und nach dem
@@ -27,6 +28,7 @@ bezieht.
 
 
 ## § 2 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 576/2013
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000300000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr. 576/2013
 in Verbindung mit Artikel 277 der Verordnung (EU) 2016/429 verstößt,
@@ -82,6 +84,7 @@ Lebensmittelsicherheit zu übertragen.
 
 
 ## § 3 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/429
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000400000)
 
 Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/429
 verstößt, indem er vorsätzlich oder fahrlässig
@@ -381,6 +384,7 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 
 ## § 4 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2019/1602
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000500000)
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 4 Buchstabe a oder Artikel 5 Absatz 1 Buchstabe d der
@@ -390,6 +394,7 @@ oder b der Verordnung (EU) 2017/625 begleitet.
 
 
 ## § 5 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2019/2035
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000600000)
 
 Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2019/2035 verstößt, indem er vorsätzlich oder fahrlässig
@@ -467,6 +472,7 @@ Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## § 6 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/686
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000700000)
 
 Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2020/686 verstößt, indem er vorsätzlich oder fahrlässig
@@ -515,6 +521,7 @@ Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## § 7 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/687
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000800000)
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 5 Buchstabe a, b, d, f, g oder h oder Artikel 70 Buchstabe a,
@@ -524,6 +531,7 @@ ergreift.
 
 
 ## § 8 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/688
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE000900000)
 
 Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2020/688 verstößt, indem er vorsätzlich oder fahrlässig
@@ -572,6 +580,7 @@ Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## § 9 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/691
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001000000)
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
 Artikel 22, Artikel 23, Artikel 24, Artikel 25, Artikel 26, Artikel
@@ -583,6 +592,7 @@ Jahre nach Erfassung aufbewahrt.
 
 
 ## § 10 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/692
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001100000)
 
 Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2020/692 verstößt, indem er vorsätzlich oder fahrlässig
@@ -706,6 +716,7 @@ Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## § 11 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2020/990
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001200000)
 
 Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2020/990 verstößt, indem er vorsätzlich oder fahrlässig
@@ -748,6 +759,7 @@ Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 
 
 ## § 12 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2021/520
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001300000)
 
 Ordnungswidrig handelt, wer gegen die Durchführungsverordnung (EU)
 2021/520 verstößt, indem er vorsätzlich oder fahrlässig
@@ -772,12 +784,14 @@ Ordnungswidrig handelt, wer gegen die Durchführungsverordnung (EU)
 
 
 ## § 13 Höhe der Geldbuße
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001400000)
 
 Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu vierzigtausend
 Euro geahndet werden.
 
 
 ## § 14 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001500000)
 
 Verweisungen in diesem Gesetz auf Vorschriften in Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
@@ -786,6 +800,7 @@ auf die in der Anlage angegebenen Fassungen.
 (zu § 14)
 
 ## Anlage Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tiergesbussg/BJNR1950B0024.html#BJNR1950B0024BJNE001600000)
 
 (Fundstelle: BGBl. 2024 I Nr. 405, S. 8 - 9)
 

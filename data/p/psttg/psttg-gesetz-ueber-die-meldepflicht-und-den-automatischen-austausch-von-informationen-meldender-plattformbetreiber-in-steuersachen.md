@@ -21,12 +21,15 @@ Geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000100000)
 
 
 ### Unterabschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000200000)
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000200000)
 
 (1) Dieses Gesetz regelt die Meldepflicht von Plattformbetreibern und
 den automatischen Informationsaustausch aufgrund der Richtlinie
@@ -42,14 +45,17 @@ Gesetz nichts anderes bestimmt.
 
 
 ### Unterabschnitt 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000300000)
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000300000)
 
 Für dieses Gesetz gelten die Begriffsbestimmungen der §§ 3 bis 7.
 
 
 #### § 3 Plattform; Plattformbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000400000)
 
 (1) Eine Plattform ist jedes auf digitalen Technologien beruhende
 System, das es Nutzern ermöglicht, über das Internet mittels einer
@@ -158,6 +164,7 @@ und der
 
 
 #### § 4 Nutzer; Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000500000)
 
 (1) Ein Nutzer ist jede natürliche Person oder jeder Rechtsträger, die
 oder der eine Plattform in Anspruch nimmt. Nutzer ist nicht der
@@ -238,6 +245,7 @@ in dem der Anbieter ansässig ist.
 
 
 #### § 5 Relevante Tätigkeit; Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000600000)
 
 (1) Eine relevante Tätigkeit ist jede der folgenden Tätigkeiten, wenn
 sie gegen eine Vergütung erbracht wird:
@@ -290,6 +298,7 @@ oder Gütern zu Land, zu Wasser oder in der Luft ermöglichen.
 
 
 #### § 6 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000701123)
 
 (1) Ein Rechtsträger ist eine juristische Person, eine
 Personenvereinigung oder eine Vermögensmasse.
@@ -381,6 +390,7 @@ nicht Mitgliedstaat der Europäischen Union ist.
 
 
 #### § 7 Qualifizierter Plattformbetreiber, qualifizierter Drittstaat, qualifizierte Vereinbarung, qualifizierte relevante Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000800000)
 
 (1) Ein qualifizierter Plattformbetreiber ist ein Plattformbetreiber,
 
@@ -443,9 +453,11 @@ automatischer Austausch von Informationen vorgeschrieben ist.
 
 
 ### Unterabschnitt 3 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000400000)
 
 
 #### § 8 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE000900000)
 
 Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium
 der Finanzen, soweit nicht die Zuständigkeit des Bundeszentralamts für
@@ -455,6 +467,7 @@ etwas anderes ergibt.
 
 
 #### § 9 Aufgaben des Bundeszentralamts für Steuern
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001001123)
 
 (1) Das Bundeszentralamt für Steuern nimmt Informationen entgegen, die
 ihm von meldenden Plattformbetreibern nach § 13 und von den
@@ -568,6 +581,7 @@ Maßnahmen zur Durchsetzung der Pflichten nach diesem Gesetz.
 
 
 #### § 10 Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001100000)
 
 (1) Das Bundeszentralamt für Steuern kann auf Antrag auf Grundlage
 eines genau bestimmten Sachverhaltes eine Auskunft erteilen über
@@ -643,6 +657,7 @@ Auskunft vor ihrer Bekanntgabe zurückgenommen wird.
 
 
 #### § 11 Verfahren zur Feststellung eines freigestellten Plattformbetreibers
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001200000)
 
 (1) Das Bundeszentralamt für Steuern stellt auf Antrag eines
 Plattformbetreibers fest, dass es sich bei ihm um einen freigestellten
@@ -740,6 +755,7 @@ nach Absatz 4 Satz 1 Nummer 1 bis 8 mitzuteilen.
 
 
 #### § 12 Registrierung
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001300000)
 
 (1) Meldende Plattformbetreiber müssen sich unverzüglich nach Eintritt
 der Voraussetzungen des § 3 Absatz 4 Nummer 2 einmalig bei einer
@@ -864,9 +880,11 @@ nächsten Meldezeitraum vollständig und richtig nachgekommen ist. Die
 
 
 ## Abschnitt 2 - Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000500000)
 
 
 ### § 13 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001400000)
 
 (1) Meldende Plattformbetreiber haben die in § 14 genannten
 Informationen in Bezug auf den Meldezeitraum gemäß den Vorgaben nach
@@ -955,6 +973,7 @@ melden, wenn
 
 
 ### § 14 Meldepflichtige Informationen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001500000)
 
 (1) Meldende Plattformbetreiber haben die folgenden Informationen über
 sich und über die von ihnen betriebene Plattform zu melden:
@@ -1102,6 +1121,7 @@ erbracht hat, zusätzlich zu den Informationen nach den Absätzen 2 und
 
 
 ### § 15 Meldeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001600000)
 
 (1) Die Meldung an das Bundeszentralamt für Steuern hat nach amtlich
 vorgeschriebenem Datensatz elektronisch im Wege der
@@ -1147,9 +1167,11 @@ Tätigkeiten für alle meldepflichtigen Anbieter einheitlich auszuüben.
 
 
 ## Abschnitt 3 - Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000600000)
 
 
 ### § 16 Anwendung der Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001700000)
 
 Es steht meldenden Plattformbetreibern frei, die Verfahren zur
 Erfüllung der Sorgfaltspflichten nach den §§ 17 bis 20 nur in Bezug
@@ -1157,6 +1179,7 @@ auf aktive Anbieter durchzuführen.
 
 
 ### § 17 Erhebung meldepflichtiger Informationen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001800000)
 
 (1) Für jeden Anbieter, der eine natürliche Person, aber kein
 freigestellter Anbieter ist, haben meldende Plattformbetreiber
@@ -1216,6 +1239,7 @@ nur zu erheben, soweit der jeweilige Anbieter über diese verfügt.
 
 
 ### § 18 Überprüfung meldepflichtiger Informationen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE001900000)
 
 (1) Meldende Plattformbetreiber haben die Plausibilität der in § 14
 Absatz 2 Nummer 1 bis 5 und Absatz 3 Nummer 1 bis 5 genannten
@@ -1268,6 +1292,7 @@ Informationen in Bezug auf einen Anbieter bestehen.
 
 
 ### § 19 Identifizierung freigestellter Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002000000)
 
 (1) Zur Feststellung, ob ein Anbieter ein freigestellter Anbieter nach
 § 4 Absatz 5 Satz 1 Nummer 1 oder 2 ist, kann sich ein meldender
@@ -1292,6 +1317,7 @@ freigestellter Anbieter betrachtet werden.
 
 
 ### § 20 Frist zur Erfüllung der Sorgfaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002100000)
 
 (1) Meldende Plattformbetreiber haben die Verfahren nach den §§ 17, 18
 Absatz 1 und 2 und § 19 bis zum 31. Dezember des Meldezeitraums
@@ -1317,6 +1343,7 @@ Meldezeiträume durchgeführt wurden, sofern
 
 
 ### § 21 Erfüllung der Sorgfaltspflichten durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002200000)
 
 (1) Meldende Plattformbetreiber können zur Erfüllung der
 Verpflichtungen nach diesem Abschnitt Fremddienstleister in Anspruch
@@ -1332,9 +1359,11 @@ den meldenden Plattformbetreibern.
 
 
 ## Abschnitt 4 - Sonstige Pflichten für meldende Plattformbetreiber
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000700000)
 
 
 ### § 22 Information der Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002300000)
 
 (1) Meldende Plattformbetreiber haben vor einer erstmaligen Meldung
 der Informationen nach § 13 Absatz 1 jedem meldepflichtigen Anbieter
@@ -1362,6 +1391,7 @@ wurde.
 
 
 ### § 23 Durchsetzung von Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002400000)
 
 Kommt ein Anbieter der Aufforderung eines meldenden
 Plattformbetreibers nicht nach, die nach den § 17 Absatz 1 Nummer 1,
@@ -1387,6 +1417,7 @@ Anbieter die ersuchten Informationen vorgelegt hat.
 
 
 ### § 24 Aufzeichnungen; Aufbewahrungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002500000)
 
 (1) Meldende Plattformbetreiber haben die folgenden Aufzeichnungen zu
 den in Absatz 2 genannten Zeitpunkten zu erstellen:
@@ -1461,9 +1492,11 @@ Aufzeichnungen erstellt worden sind.
 
 
 ## Abschnitt 5 - Bußgeldvorschriften und weitere Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000800000)
 
 
 ### § 25 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002600000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -1533,6 +1566,7 @@ Nummer 2 und 6 bis 12 der Abgabenordnung entsprechend.
 
 
 ### § 26 Weitere Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002700000)
 
 (1) Wird dem Bundeszentralamt für Steuern ein Verstoß gegen § 12
 Absatz 1 bis 3 bekannt, kann es im Rahmen der ihm gesetzlich
@@ -1559,6 +1593,7 @@ meldender Plattformbetreiber nach Maßgabe des § 13 verpflichtet ist.
 
 
 ### § 27 Koordination
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002800000)
 
 Das Bundeszentralamt für Steuern arbeitet im Rahmen der gegenseitigen
 Amtshilfe mit den zuständigen Behörden der anderen Mitgliedstaaten der
@@ -1576,9 +1611,11 @@ Mitgliedstaaten der Europäischen Union bei der Anwendung der §§ 25 und
 
 
 ## Abschnitt 6 - Rechtsweg und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNG000900000)
 
 
 ### § 28 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE002900000)
 
 (1) Gegen Maßnahmen der Finanzbehörden nach diesem Gesetz ist der
 Finanzrechtsweg gegeben.
@@ -1587,6 +1624,7 @@ Finanzrechtsweg gegeben.
 
 
 ### § 29 Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/psttg/BJNR273010022.html#BJNR273010022BJNE003001123)
 
 Die Pflichten nach den Abschnitten 2 und 3 sind erstmals für den
 Meldezeitraum zu beachten, der dem Kalenderjahr 2023 entspricht. § 6

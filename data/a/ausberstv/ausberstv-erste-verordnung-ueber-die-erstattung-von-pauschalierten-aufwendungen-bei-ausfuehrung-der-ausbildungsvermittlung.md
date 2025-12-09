@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ausberstv/BJNR332200006.html#BJNR332200006BJNE000100000)
 
 Auf Grund des § 16 Abs. 1b Satz 2 des Zweiten Buches Sozialgesetzbuch
 - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24.
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Pauschalierung
+[Direktlink](https://www.gesetze-im-internet.de/ausberstv/BJNR332200006.html#BJNR332200006BJNE000200000)
 
 Lässt die Agentur für Arbeit als Träger der Grundsicherung für
 Arbeitsuchende als Auftraggeber die Ausbildungsvermittlung durch die
@@ -37,6 +39,7 @@ notwendigen Aufwendungen in einem monatlichen Pauschalbetrag.
 
 
 ## § 2 Berechnungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/ausberstv/BJNR332200006.html#BJNR332200006BJNE000300000)
 
 (1) Der monatliche Erstattungsbetrag errechnet sich, indem
 
@@ -67,6 +70,7 @@ betreffenden Jahres.
 
 
 ## § 3 Fälligkeit des Erstattungsbetrages
+[Direktlink](https://www.gesetze-im-internet.de/ausberstv/BJNR332200006.html#BJNR332200006BJNE000400000)
 
 Die Kostenpauschale im Sinne von § 2 Abs. 3 wird erstmalig für den
 Monat fällig, in dem der zugewiesene Jugendliche Bewerberstatus hat
@@ -76,6 +80,7 @@ des Auftrags als Bewerber geführt wurden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ausberstv/BJNR332200006.html#BJNR332200006BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

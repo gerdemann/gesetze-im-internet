@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000100000)
 
 Auf Grund des § 32 Absatz 3 Satz 1 der Strafprozessordnung, der durch
 Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208)
@@ -28,6 +29,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000200000)
 
 Diese Verordnung ist anzuwenden auf die Übermittlung elektronisch
 geführter Strafverfahrensakten
@@ -46,6 +48,7 @@ geführter Strafverfahrensakten
 
 
 ## § 2 Übermittlung elektronischer Akten
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000300000)
 
 (1) Elektronische Akten sollen elektronisch übermittelt werden. Dies
 gilt auch, wenn die empfangende Stelle die Akten noch in Papierform
@@ -92,6 +95,7 @@ Schemadateien entspricht. Er soll mindestens Folgendes enthalten:
 
 
 ## § 3 Übergang der Aktenführung oder Bearbeitung
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000400000)
 
 (1) Zur Abgabe der Aktenführung oder der Bearbeitung wird die
 elektronische Akte mit einem Übernahmeersuchen übermittelt.
@@ -113,6 +117,7 @@ entsprechend gekennzeichnet sein.
 
 
 ## § 4 Übermittlungswege
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000500000)
 
 (1) Die Übermittlung elektronischer Akten zwischen aktenführenden
 Strafverfolgungsbehörden und Gerichten untereinander erfolgt über das
@@ -129,6 +134,7 @@ sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 
 ## § 5 Ersatzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000601125)
 
 (1) Ist aus technischen Gründen eine Übermittlung nach § 4
 vorübergehend nicht möglich, so ist die Übermittlung der Akte auch auf
@@ -144,6 +150,7 @@ nach § 6 Absatz 1 Nummer 2 zulässig.
 
 
 ## § 6 Bekanntmachung technischer Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000701125)
 
 (1) Die Bundesregierung macht folgende technische Anforderungen an die
 Übermittlung elektronischer Akten im Bundesanzeiger und auf der
@@ -164,11 +171,13 @@ Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/strafakt_bv/BJNR079900020.html#BJNR079900020BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000100307)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes
@@ -32,6 +33,7 @@ und Forsten:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000200307)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Kundenberater/zur Kundenberaterin
@@ -68,6 +70,7 @@ Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000300307)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -106,6 +109,7 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000400307)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile
 
@@ -125,6 +129,7 @@ und mündlich durchzuführen.
 
 
 ## § 4 Prüfungsteil Warenkunde und Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000500307)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er die für die
 Kundenberatung und den Verkauf erforderlichen Kenntnisse über
@@ -243,6 +248,7 @@ länger als 30 Minuten dauern.
 
 
 ## § 5 Prüfungsteil Kundenberatung und Verkauf
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000600307)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er gartenbauliche
 Erzeugnisse und Gartenbedarfsartikel entsprechend den
@@ -346,6 +352,7 @@ nicht länger als 30 Minuten dauern.
 
 
 ## § 6 Prüfungsteil Markt und Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000701308)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er betriebs- und
 marktwirtschaftliche Zusammenhänge in der Gartenbauwirtschaft unter
@@ -482,6 +489,7 @@ länger als 30 Minuten dauern.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000800307)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Warenkunde und Dienstleistungen" ist eine Note als arithmetisches
@@ -506,6 +514,7 @@ dieser Prüfungsleistungen mit "mangelhaft" benotet worden ist.
 
 
 ## § 8 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE000900307)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -520,6 +529,7 @@ an, zur Wiederholungsprüfung anmeldet.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gartenkundenberprv/BJNR159300994.html#BJNR159300994BJNE001000307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

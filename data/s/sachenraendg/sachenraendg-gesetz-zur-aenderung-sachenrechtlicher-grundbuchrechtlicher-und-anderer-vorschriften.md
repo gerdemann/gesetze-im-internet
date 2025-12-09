@@ -18,38 +18,47 @@ Fundstelle
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000100305)
 
 
 
 ## Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000200305)
 
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000300305)
 
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000400305)
 
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000500305)
 
 
 
 ## Art 6 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000600305)
 
 
 
 ## Art 7 - 
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000700305)
 
 
 
 ## Art 8 - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNG000800305)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNE000900305)
 
 (1) Ein Anspruch nach § 1179a oder § 1179b des Bürgerlichen
 Gesetzbuchs in der Fassung von Artikel 1 dieses Gesetzes besteht nicht
@@ -79,6 +88,7 @@ Gesetzbuchs nicht zusteht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNE001000305)
 
 Auf die Ergänzung des über eine Hypothek, Grundschuld oder
 Rentenschuld vor Inkrafttreten dieses Gesetzes erteilten Briefes ist §
@@ -89,12 +99,14 @@ Gesetzbuchs auch auf Antrag nicht auf dem Brief vermerkt werden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNE001100305)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/sachenr_ndg/BJNR009989977.html#BJNR009989977BJNE001200305)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 6 und 7 am 1. Januar
 1978 in Kraft.

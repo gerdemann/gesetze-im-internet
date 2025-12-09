@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckperlabkluxg/BJNR021520996.html#BJNR021520996BJNE000100310)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckperlabkluxg/BJNR021520996.html#BJNR021520996BJNE000200310)
 
 Dem in Luxemburg am 18. April 1994 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über
@@ -35,6 +37,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckperlabkluxg/BJNR021520996.html#BJNR021520996BJNE000300310)
 
 (1) Bis zum Zeitpunkt der Abnahme der Grenzbrücke gilt die Baustelle
 für die Anwendung des deutschen Umsatzsteuer- und
@@ -51,6 +54,7 @@ Sie ist insoweit als Inland und Steuergebiet anzusehen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grbr_ckperlabkluxg/BJNR021520996.html#BJNR021520996BJNE000400310)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

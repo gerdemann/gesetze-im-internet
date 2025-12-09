@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -34,6 +35,7 @@ Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 „Geprüften Sozialversicherungsfachwirt – Fachrichtung gesetzliche
@@ -113,6 +115,7 @@ Sozialversicherung“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -145,6 +148,7 @@ zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000401128)
 
 (1) Die Prüfung gliedert sich in folgende Prüfungsteile:
 
@@ -285,6 +289,7 @@ werden.
 
 
 ## § 4 Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000500000)
 
 (1) Im Handlungsbereich „Versicherungsverhältnisse und
 Beitragszahlungen nach dem Sozialgesetzbuch“ soll die Fähigkeit
@@ -610,6 +615,7 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 5 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000601128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -622,6 +628,7 @@ des Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 6 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000701128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -657,6 +664,7 @@ Prüfungsteils das arithmetische Mittel berechnet.
 
 
 ## § 7 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
 schriftlichen Prüfungsleistungen und in der zusammengefassten
@@ -707,6 +715,7 @@ ist die Gesamtnote.
 
 
 ## § 8 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001600128)
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -733,6 +742,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000801128)
 
 (1) Jede nicht bestandene Prüfungsleistung kann zweimal wiederholt
 werden.
@@ -749,6 +759,7 @@ werden. In diesem Falle gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 10 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE000901128)
 
 Wer den Prüfungsteil „Personalaufgaben“ bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
@@ -756,6 +767,7 @@ erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
 ## § 11 Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001001128)
 
 Die zu prüfende Person kann nach dem Erwerb des Abschlusses „Geprüfter
 Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und
@@ -769,6 +781,7 @@ ein Zeugnis entsprechend der Anlage 2 auszustellen.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001101128)
 
 (1) Begonnene Prüfungsverfahren zur Sozialversicherungsfachwirtin und
 zum Sozialversicherungsfachwirt in der Fachrichtung gesetzliche
@@ -785,12 +798,14 @@ Prüfungen nach Absatz 1 nach dieser Verordnung durchführen; § 7 Absatz
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001201128)
 
 Diese Verordnung tritt am 1. März 2013 in Kraft.
 
 (zu den §§ 6 und 7)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2373 - 2374)
 
@@ -1092,6 +1107,7 @@ Diese Verordnung tritt am 1. März 2013 in Kraft.
 (zu § 8)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/szversfachwprv/BJNR020600013.html#BJNR020600013BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2374 - 2375)
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pbav_2025/BJNR1BE0A0024.html#BJNR1BE0A0024BJNE000100000)
 
 Auf Grund des § 55 Absatz 1 Satz 2 in Verbindung mit Absatz 1a des
 Elften Buches Sozialgesetzbuch – Soziale Pflegeversicherung –, der
@@ -28,6 +29,7 @@ des Elften Buches Sozialgesetzbuch:
 
 
 ## § 1 Beitragssatz für die soziale Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pbav_2025/BJNR1BE0A0024.html#BJNR1BE0A0024BJNE000200000)
 
 (1) Der Beitragssatz nach § 55 Absatz 1 Satz 1 des Elften Buches
 Sozialgesetzbuch wird zum 1. Januar 2025 auf 3,6 Prozent der
@@ -47,11 +49,13 @@ gilt dies entsprechend.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pbav_2025/BJNR1BE0A0024.html#BJNR1BE0A0024BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pbav_2025/BJNR1BE0A0024.html#BJNR1BE0A0024BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

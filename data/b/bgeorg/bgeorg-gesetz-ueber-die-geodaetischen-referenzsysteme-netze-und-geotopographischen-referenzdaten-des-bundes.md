@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000100000)
 
 (1) Dieses Gesetz gilt für die geodätischen Referenzsysteme,
 Referenznetze sowie geotopographischen Referenzdaten des Bundes und im
@@ -40,6 +41,7 @@ breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000200000)
 
 
 1.  Geotopographische Referenzdaten sind diejenigen Geodaten, die die
@@ -69,6 +71,7 @@ breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
 
 
 ## § 3 Bundesamt für Kartographie und Geodäsie
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000301116)
 
 (1) Das Bundesamt für Kartographie und Geodäsie ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums des
@@ -126,6 +129,7 @@ Mitgliedstaaten der Europäischen Union sicherzustellen.
 
 
 ## § 4 Weitere geotopographische Referenzdaten führende Stellen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000400000)
 
 Geotopographische Referenzdaten führende Stellen des Bundes sind
 diejenigen Bundesbehörden, die geotopographische Referenzdaten des
@@ -140,6 +144,7 @@ genutzt.
 
 
 ## § 5 Austausch unter Behörden
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000500000)
 
 (1) Die geodatenhaltenden Stellen des Bundes gewähren sich
 untereinander Zugang zu den zur Erfüllung ihrer öffentlichen Aufgaben
@@ -153,6 +158,7 @@ erfolgt.
 
 
 ## § 6 Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000600000)
 
 [^F776484_01_BJNR108100012BJNE000600000]
 (1) Die geodatenhaltenden Stellen des Bundes, die geotopographische
@@ -243,6 +249,7 @@ zu veröffentlichen.
 [^F776484_01_BJNR108100012BJNE000600000]: 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgeorg/BJNR108100012.html#BJNR108100012BJNE000700000)
 
 Dieses Gesetz tritt am 1. November 2012 in Kraft.
 

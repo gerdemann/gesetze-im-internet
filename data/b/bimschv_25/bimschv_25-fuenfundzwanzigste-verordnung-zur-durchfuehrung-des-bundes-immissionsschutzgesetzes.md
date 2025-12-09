@@ -24,6 +24,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000202116)
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
 Betrieb von
@@ -39,6 +40,7 @@ Betrieb von
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000302116)
 
 Im Sinne dieser Verordnung bedeuten:
 
@@ -61,6 +63,7 @@ Im Sinne dieser Verordnung bedeuten:
 
 
 ## § 3 Anlagen nach dem Sulfatverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000402116)
 
 (1) Die Emissionen an Staub dürfen bei Anlagen nach dem
 Sulfatverfahren einen Emissionsgrenzwert von 30 Milligramm je
@@ -83,6 +86,7 @@ je Kubikmeter als Tagesmittelwert nicht überschreiten.
 
 
 ## § 4 Anlagen nach dem Chloridverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000502116)
 
 (1) Die Emissionen an Staub dürfen bei Anlagen nach dem
 Chloridverfahren einen Emissionsgrenzwert von 30 Milligramm je
@@ -94,6 +98,7 @@ Milligramm je Kubikmeter als Tagesmittelwert nicht überschreiten.
 
 
 ## § 5 Verfahren zur Messung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000602116)
 
 (1) In Ergänzung der Anforderungen der Ersten Allgemeinen
 Verwaltungsvorschrift zum Bundes-Immissionsschutzgesetz (Technische
@@ -118,6 +123,7 @@ Monate nach Bekanntgabe einer geeigneten Messeinrichtung zu erfolgen.
 
 
 ## § 6 Andere oder weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000702116)
 
 Andere oder weitergehende Anforderungen, die sich insbesondere aus
 Pflichten nach § 5 Absatz 1 Nummer 2 bis 4 des Bundes-
@@ -126,6 +132,7 @@ Reinhaltung der Luft ergeben, bleiben unberührt.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000803116)
 
 Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig als
@@ -147,5 +154,6 @@ Betreiber einer Anlage
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_25/BJNR172200996.html#BJNR172200996BJNE000901116)
 
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000100000)
 
 Auf Grund des § 11 des Beratungshilfegesetzes vom 18. Juni 1980 (BGBl.
 I S. 689), der zuletzt durch Artikel 2 Nummer 9 des Gesetzes vom 31.
@@ -31,6 +32,7 @@ Verbraucherschutz:
 
 
 ## § 1 Formulare
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000201125)
 
 Im Bereich der Beratungshilfe sind zu verwenden:
 
@@ -48,6 +50,7 @@ Im Bereich der Beratungshilfe sind zu verwenden:
 
 
 ## § 2 Vereinfachter Antrag
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000300000)
 
 Ein Rechtsuchender, der nach dem Zwölften Buch Sozialgesetzbuch
 laufende Leistungen zum Lebensunterhalt bezieht, muss die Abschnitte C
@@ -58,6 +61,7 @@ Bewilligungsbescheid des Sozialamts beifügt.
 
 
 ## § 3 Zulässige Abweichungen
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000400000)
 
 (1) In Abweichung von den Formularen nebst Hinweisblatt, die in den
 Anlagen 1 und 2 bestimmt sind, sind Ergänzungen oder Änderungen
@@ -76,6 +80,7 @@ Diese Befugnis kann durch Verwaltungsabkommen auf eine zentrale Stelle
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Beratungshilfevordruckverordnung vom 17.
@@ -85,11 +90,13 @@ außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000700000)
 
 (Fundstelle: BGBl. I 2014, 3 - 9)
 
@@ -458,6 +465,7 @@ strafrechtliche Verfolgung.**
 (zu § 1 Nummer 2)
 
 ## Anlage 2 Antrag auf Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/berhfv/BJNR000200014.html#BJNR000200014BJNE000801125)
 
 (Fundstelle: BGBl. I 2022, 2411 - 2412)
 

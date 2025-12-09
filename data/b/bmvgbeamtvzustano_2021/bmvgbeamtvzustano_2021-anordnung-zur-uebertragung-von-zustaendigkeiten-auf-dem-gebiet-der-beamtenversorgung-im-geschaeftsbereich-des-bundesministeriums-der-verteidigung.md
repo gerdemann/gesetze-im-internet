@@ -22,6 +22,7 @@ Geändert durch
 Stand: Ersetzt AnO 2030-14-193 v. 30.9.2013 I 3739 (BMVgBeamtVZustAnO)
 
 ## § 1 Übertragung von Aufgaben und Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/BJNR462610021.html#BJNR462610021BJNE000101311)
 
 (1) Dem Bundesamt für das Personalmanagement der Bundeswehr werden
 übertragen:
@@ -122,6 +123,7 @@ berücksichtigt werden:
 
 
 ## § 2 Entscheidung durch das Bundesministerium der Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/BJNR462610021.html#BJNR462610021BJNE000200000)
 
 (1) Die Entscheidung nach § 31 Absatz 5 und § 31a Absatz 3 des
 Beamtenversorgungsgesetzes und die Entscheidung über die Gewährung von
@@ -145,6 +147,7 @@ vor, in Einzelfällen
 
 
 ## § 3 Weitere Zuständigkeiten auf dem Gebiet der Beamtenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/BJNR462610021.html#BJNR462610021BJNE000300000)
 
 Die Übertragung der in dieser Anordnung nicht genannten
 Zuständigkeiten auf dem Gebiet der Beamtenversorgung einschließlich

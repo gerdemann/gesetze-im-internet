@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000100000)
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz verordnet auf Grund
@@ -41,6 +42,7 @@ Verbraucherschutz verordnet auf Grund
 Erhebung der Abgabe
 
 ## § 1 (zu § 44 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000201310)
 
 (1) Die Abgabeschuld für die Abgabe nach § 43 Abs. 1 Satz 1 Nr. 2 und
 Satz 2 des Weingesetzes (Abgabe) entsteht vorbehaltlich des Absatzes 6
@@ -98,6 +100,7 @@ des Jahres, in dem die Zahlung fällig geworden ist.
 Sammlung der Belege und Aufbewahrungsfrist
 
 ## § 2 (zu § 44 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000300000)
 
 Der Abgabeschuldner ist verpflichtet, die Verkaufs- und Abgabebelege
 vollständig zu sammeln und bis zum Ende des fünften Jahres nach Ablauf
@@ -106,6 +109,7 @@ des Jahres aufzubewahren, in dem die Zahlung fällig geworden ist.
 Mitteilungspflicht
 
 ## § 3 (zu § 44 Abs. 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000400000)
 
 Der Abgabeschuldner ist verpflichtet, dem Deutschen Weinfonds auf
 Verlangen mitzuteilen, in welcher Menge er die in § 43 Abs. 1 Satz 1
@@ -114,6 +118,7 @@ insoweit seine Bücher und Geschäftspapiere zur Einsicht vorzulegen.
 
 
 ## § 4 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000500000)
 
 Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes
 handelt, wer vorsätzlich oder fahrlässig
@@ -136,6 +141,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 5 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000600000)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 4 wird auf die Bundesanstalt für
@@ -143,6 +149,7 @@ Landwirtschaft und Ernährung übertragen.
 
 
 ## § 6 Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000700000)
 
 Die Weinfonds-Verordnung vom 9. Mai 1995 (BGBl. I S. 630, 666),
 geändert durch Artikel 2 des Gesetzes vom 25. Juni 2001 (BGBl. I S.
@@ -152,6 +159,7 @@ anzuwenden.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/weinfondsv_2008/BJNR096200008.html#BJNR096200008BJNE000800000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

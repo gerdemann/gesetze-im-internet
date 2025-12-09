@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Zuordnung des Personals
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000200000)
 
 Die Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmer der
 Bundesagentur für Außenwirtschaft sind ab dem 1. Januar 2009 solche
@@ -29,6 +30,7 @@ entsprechend.
 
 
 ## § 2 Zuweisung von Tätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000302125)
 
 (1) Den Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmern im
 Sinne des § 1 Satz 1 werden ab dem 1. Januar 2009 Tätigkeiten bei der
@@ -54,6 +56,7 @@ Tätigkeiten nach Absatz 1 nicht angewendet.
 
 
 ## § 3 Entscheidungs- und Weisungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000400000)
 
 Gegenüber den in § 2 Abs. 1 genannten Beschäftigten hat die Germany
 Trade and Invest – Gesellschaft für Außenwirtschaft und
@@ -73,6 +76,7 @@ Außenwirtschaft und Standortmarketing mbH zu regeln.
 
 
 ## § 4 Anwendbarkeit des Bundespersonalvertretungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000501125)
 
 Die in § 2 Abs. 1 genannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
@@ -82,6 +86,7 @@ Bundespersonalvertretungsgesetzes ist nicht anzuwenden.
 
 
 ## § 5 Geltung arbeitsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000600000)
 
 (1) Für die Anwendung der Vorschriften über die Vertretung der
 Arbeitnehmerinnen und Arbeitnehmer im Aufsichtsrat sowie für die
@@ -109,6 +114,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 
 ## § 6 Personalvertretungs- und betriebsverfassungsrechtliche Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000700000)
 
 (1) Der Personalrat des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle ist für diejenigen Personalangelegenheiten der in § 2
@@ -125,6 +131,7 @@ wahrgenommen.
 
 
 ## § 7 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000801124)
 
 (1) Für schwerbehinderte und diesen gleichgestellte behinderte
 Menschen, die nach § 2 Abs. 1 bei der Germany Trade and Invest –
@@ -142,6 +149,7 @@ Außenwirtschaft und Standortmarketing mbH. § 6 gilt entsprechend.
 
 
 ## § 8 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE000901124)
 
 (1) Der bei der Germany Trade and Invest – Gesellschaft für
 Außenwirtschaft und Standortmarketing mbH gebildete Betriebsrat wird
@@ -178,6 +186,7 @@ Bestimmungen entsprechend.
 
 
 ## § 9 Fortgeltung von Dienstvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE001001118)
 
 Die in der Bundesagentur für Außenwirtschaft am 31. Dezember 2008
 bestehenden Dienstvereinbarungen gelten für die Beschäftigten im Sinne
@@ -195,6 +204,7 @@ Betriebsverfassungsgesetzes ist nicht anzuwenden.
 
 
 ## § 10 Anhängige Beteiligungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE001100000)
 
 Die bis zum 31. Dezember 2008 förmlich eingeleiteten
 Beteiligungsverfahren im Bereich der Bundesagentur für
@@ -206,11 +216,13 @@ und Ausfuhrkontrolle fortgeführt.
 
 
 ## § 11 Anpassung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE001200000)
 
 -
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfaipg/BJNR237000008.html#BJNR237000008BJNE001300000)
 
 Dieses Gesetz tritt am 1. Januar 2009 in Kraft.
 

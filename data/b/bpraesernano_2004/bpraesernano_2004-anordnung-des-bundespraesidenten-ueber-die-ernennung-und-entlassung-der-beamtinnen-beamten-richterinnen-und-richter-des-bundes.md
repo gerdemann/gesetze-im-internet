@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000100000)
 
 Auf Grund des Artikels 60 des Grundgesetzes für die Bundesrepublik
 Deutschland ordne ich an:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000200000)
 
 (1) Ich übertrage die Ausübung des Rechtes zur Ernennung und
 Entlassung aller Bundesbeamtinnen und Bundesbeamten der
@@ -46,6 +48,7 @@ Vorschläge von den zuständigen obersten Bundesbehörden einzureichen.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000300000)
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Artikel 1 Abs. 1 genannten Beamtinnen, Beamten, Richterinnen und
@@ -53,17 +56,20 @@ Richter des Bundes vor.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000400000)
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen
 erlässt das Bundesministerium des Innern.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000500000)
 
 Diese Anordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bpr_sernano_2004/BJNR128600004.html#BJNR128600004BJNE000600000)
 
 Der Bundespräsident
 

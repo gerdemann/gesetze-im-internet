@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-12-17/BJNR233000010.html#BJNR233000010BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, aus Anlass der FIS
@@ -56,11 +57,13 @@ Der Entwurf stammt von dem Künstler Bodo Broschat, Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-12-17/BJNR233000010.html#BJNR233000010BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz10eurobek_2010-12-17/BJNR233000010.html#BJNR233000010BJNE000300000)
 
 (Fundstelle: BGBl. I 2010, 2330)
 

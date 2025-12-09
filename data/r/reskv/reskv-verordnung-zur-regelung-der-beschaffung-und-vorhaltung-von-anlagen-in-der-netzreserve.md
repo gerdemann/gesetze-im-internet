@@ -23,6 +23,7 @@ Die v tritt gem. § 14 abs. 2 mit ablauf des 31.12.2017 außer kraft; die geltun
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000101311)
 
 Auf Grund des § 13b Absatz 1 und 2 des Energiewirtschaftsgesetzes, der
 durch Artikel 1 Nummer 10 des Gesetzes vom 20. Dezember 2012 (BGBl. I
@@ -30,6 +31,7 @@ S. 2730) eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich, Vorrang der Netzreserve, Umgang mit bestehenden Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000201311)
 
 (1) Diese Verordnung regelt das Verfahren der Beschaffung der
 Netzreserve, den Einsatz von Anlagen in der Netzreserve nach § 13d
@@ -59,6 +61,7 @@ Verordnung nicht berührt.
 
 
 ## § 2 Zweck der Bildung einer Netzreserve, Systemsicherheit
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000301311)
 
 (1) Zweck der Bildung einer Netzreserve ist die Vorhaltung von
 Erzeugungskapazitäten zur Gewährleistung der Sicherheit und
@@ -79,6 +82,7 @@ beherrscht werden.
 
 
 ## § 3 Prüfung und Bestätigung des Bedarfs an Erzeugungskapazität für die Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000402124)
 
 (1) Die Bundesnetzagentur prüft bis spätestens zum 30. April eines
 jeden Jahres den Bedarf an Erzeugungskapazität für die Netzreserve.
@@ -139,6 +143,7 @@ Hinblick auf den Netzausbau zu berücksichtigen.
 
 
 ## § 4 Verfahren, Möglichkeit zur Interessenbekundung
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000501311)
 
 (1) Im Fall eines von der Bundesnetzagentur nach § 3 bestätigten
 zusätzlichen Bedarfs an Erzeugungskapazität für die Netzreserve
@@ -168,6 +173,7 @@ spätestens zum 15. Dezember abgeschlossen werden.
 
 
 ## § 5 Verträge mit Betreibern bestehender Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000601311)
 
 (1) Der Abschluss von Verträgen mit Betreibern von Anlagen erfolgt
 durch den Übertragungsnetzbetreiber, in dessen Regelzone die
@@ -227,6 +233,7 @@ die betreffende Anlage
 
 
 ## § 6 Erstattung von Kosten bestehender Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000702377)
 
 (1) Die Kosten, die durch die Nutzung der bestehenden Anlagen nach § 5
 in der Netzreserve entstehen, werden dem Betreiber der Anlage durch
@@ -287,6 +294,7 @@ Anlagen nach § 5 Absatz 2 weiterhin die folgenden Punkte:
 
 
 ## § 7 Art des Einsatzes der Netzreserve
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE000802118)
 
 (1) Anlagen der Netzreserve dürfen ausschließlich außerhalb der
 Strommärkte nach Maßgabe der von den Übertragungsnetzbetreibern
@@ -298,6 +306,7 @@ unter Berücksichtigung der technischen Randbedingungen ein.
 
 
 ## § 8 Anzeigepflicht und Stilllegungsverbot bei geplanten Stilllegungen
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE001101311)
 
 (1) Im Hinblick auf die Pflichten der Betreiber von Anlagen zur
 Anzeige einer Stilllegung nach § 13b Absatz 1 bis 3 des
@@ -333,6 +342,7 @@ modernisiert oder wieder in Stand gesetzt werden.
 
 
 ## § 9 Verfahren bei geplanter vorläufiger Stilllegung, Art des Einsatzes, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE001203377)
 
 (1) (weggefallen)
 
@@ -389,6 +399,7 @@ nach Maßgabe der hierfür geltenden Vorgaben oder einer Festlegung nach
 
 
 ## § 10 Verfahren bei geplanter endgültiger Stilllegung von Anlagen, Art des Einsatzes, Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE001301311)
 
 Ist einem Betreiber die endgültige Stilllegung seiner Anlage nach §
 13b Absatz 2 und 5 des Energiewirtschaftsgesetzes verboten, so sind im
@@ -400,9 +411,11 @@ die Art des Einsatzes der Netzreserve § 7 entsprechend anzuwenden.
 
 
 ## § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE001401311)
 
 
 
 ## § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/reskv/BJNR194700013.html#BJNR194700013BJNE001501311)
 
 

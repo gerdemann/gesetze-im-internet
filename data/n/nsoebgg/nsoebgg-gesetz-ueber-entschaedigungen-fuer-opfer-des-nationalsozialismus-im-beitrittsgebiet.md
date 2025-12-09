@@ -18,17 +18,20 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ns_bgg/BJNR009060992.html#BJNR009060992BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Entschädigungsrentengesetz
+[Direktlink](https://www.gesetze-im-internet.de/ns_bgg/BJNR009060992.html#BJNR009060992BJNE000200314)
 
 -
 
 
 ## Art 2 Rentenberechnung bei Bezug einer Entschädigungsrente
+[Direktlink](https://www.gesetze-im-internet.de/ns_bgg/BJNR009060992.html#BJNR009060992BJNE000300314)
 
 (1) Personen im Sinne des § 3 Abs. 1 des Entschädigungsrentengesetzes,
 die am 30. Juni 1990 aus den in dieser Vorschrift genannten Gründen
@@ -44,6 +47,7 @@ erbracht.
 
 
 ## Art 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ns_bgg/BJNR009060992.html#BJNR009060992BJNE000400314)
 
 Dieses Gesetz tritt am 1. Mai 1992 in Kraft.
 

@@ -22,12 +22,14 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000200314)
 
 (1) Dem in Bonn am 30. Oktober 1980 unterzeichneten Vertrag zwischen
 der Bundesrepublik Deutschland und dem Königreich der Niederlande über
@@ -46,6 +48,7 @@ zur Einsicht bereit.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000300314)
 
 In den Gebietsteilen, die nach den Artikeln 1 und 2 des Vertrags der
 Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
@@ -55,6 +58,7 @@ diesen Gebietsteilen außer Kraft.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000400314)
 
 Die Regierungen der Länder Niedersachsen und Nordrhein-Westfalen
 werden ermächtigt, für die nach dem Vertrag der Bundesrepublik
@@ -76,10 +80,12 @@ können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 
 ## (XXXX) Art 4 und 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000501116)
 
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/grberichtvtrnld1g/BJNR207340982.html#BJNR207340982BJNE000700314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

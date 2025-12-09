@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000400306)
 
 Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not von
 Volk und Reich vom 24. März 1933 (Reichsgesetzbl. I S. 141) wird zur
@@ -31,10 +32,12 @@ folgendes verordnet:
 
 
 ## I. - Entscheidungen und Vergleiche
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNG000100306)
 
 
 
 ### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000500306)
 
 Für die Vollstreckbarerklärung der in Artikel 1 des deutsch-
 italienischen Vollstreckungsabkommens bezeichneten gerichtlichen
@@ -46,6 +49,7 @@ befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 
 ### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000602310)
 
 (1) Auf das Verfahren sind § 1063 Abs. 1, § 1064 Abs. 2 sowie § 794
 Abs. 1 Nr. 4a der Zivilprozeßordnung entsprechend anzuwenden.
@@ -64,6 +68,7 @@ sind entsprechend anzuwenden.
 
 
 ### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000700306)
 
 Hängt die Vollstreckung der Entscheidung oder des Vergleichs nach
 deren Inhalt von dem Ablauf einer Frist oder von dem Eintritt einer
@@ -82,6 +87,7 @@ mündliche Verhandlung anzuordnen.
 
 
 ### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000801307)
 
 Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
 den Anspruch geltend machen, soweit diese nach italienischem Recht
@@ -94,20 +100,24 @@ machen.
 
 
 ### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE000900306)
 
 -
 
 
 ### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE001000306)
 
 -
 
 
 ## II. - Schiedssprüche
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNG000200306)
 
 
 
 ### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE001101307)
 
 Die in Artikel 8 Abs. 2 des Abkommens bezeichneten Bescheinigungen
 erteilt die Geschäftsstelle des Gerichts, das für die Entscheidung
@@ -116,10 +126,12 @@ zuständig ist.
 
 
 ## III. - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNG000300306)
 
 
 
 ### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE001200306)
 
 Die Verordnung tritt gleichzeitig mit dem deutsch-italienischen
 Abkommen über die Anerkennung und Vollstreckung gerichtlicher
@@ -127,6 +139,7 @@ Entscheidungen in Zivil- und Handelssachen in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkitaav/BJNR201430937.html#BJNR201430937BJNE001300306)
 
 Der Reichsminister der Justiz
 Der Reichsminister des Auswärtigen

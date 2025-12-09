@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/oszevorrv_2016/BJNR013820016.html#BJNR013820016BJNE000100000)
 
 Auf Grund des Artikels 3 Nummer 2 des Gesetzes vom 22. Juni 1954 über
 den Beitritt der Bundesrepublik Deutschland zum Abkommen über die
@@ -30,6 +31,7 @@ Bundesregierung:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/oszevorrv_2016/BJNR013820016.html#BJNR013820016BJNE000200000)
 
 Der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)
 werden nach Maßgabe der in Rom am 1. Dezember 1993 vom Rat der
@@ -42,6 +44,7 @@ veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/oszevorrv_2016/BJNR013820016.html#BJNR013820016BJNE000300000)
 
 (1) OSZE-Institutionen im Sinne der Bestimmungen sind
 
@@ -110,6 +113,7 @@ Gebiet der Bundesrepublik Deutschland haben.
 
 
 ## Art 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/oszevorrv_2016/BJNR013820016.html#BJNR013820016BJNE000400000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -121,6 +125,7 @@ Artikel 4 Absatz 1 des Gesetzes vom 22. September 2005 (BGBl. I S.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/oszevorrv_2016/BJNR013820016.html#BJNR013820016BJNE000500000)
 
 Der Bundesrat hat zugestimmt.
 

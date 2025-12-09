@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000123126)
 
 Dem Bund obliegen auf dem Gebiet der Seeschifffahrt
 
@@ -220,6 +221,7 @@ Dem Bund obliegen auf dem Gebiet der Seeschifffahrt
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000208305)
 
 (1) Die seefahrtbezogenen berufsbildenden Schulen, Fach- und
 Fachhochschulen sind Einrichtungen der Länder. Die Anerkennung der
@@ -249,6 +251,7 @@ Traditionsschiffen und Sportfahrzeugen ist Aufgabe des Bundes.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000317360)
 
 (1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
 Bundes können im Rahmen des § 1 Nummer 2 nach pflichtgemäßem Ermessen
@@ -292,6 +295,7 @@ ausgeübt werden.
 
 
 ## § 3a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000406305)
 
 (1) Hat eine Person eine Störung oder eine Gefahr verursacht, so haben
 die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
@@ -311,6 +315,7 @@ Eigentum an der Sache aufgegeben hat.
 
 
 ## § 3b
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000507305)
 
 (1) Die Behörden können selbst, auch durch Beauftragte, Störungen
 beseitigen oder Gefahren abwehren, wenn
@@ -342,6 +347,7 @@ internationale Recht dies zulässt.
 
 
 ## § 3c
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000605305)
 
 (1) Die Behörden können Maßnahmen auch gegen andere als die nach § 3a
 verantwortlichen Personen treffen, wenn
@@ -380,6 +386,7 @@ Schaden einen angemessenen Ausgleich verlangen.
 
 
 ## § 3d
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000709305)
 
 Im Rahmen der Aufgaben nach § 1 Nummer 3 Buchstabe a und b und Nummer
 10a gelten die Vorschriften des Verwaltungsverfahrensgesetzes und des
@@ -389,6 +396,7 @@ Vollzugsbeamte des Bundes entsprechend.
 
 
 ## § 3e
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003305305)
 
 Wird ein Schiff bei der Überprüfung im Sinne von § 14 des
 Schiffssicherheitsgesetzes vom 9. September 1998 (BGBl. I S. 2860) und
@@ -439,6 +447,7 @@ Verlustes oder Schadens.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000811305)
 
 (1) Bei der Verfolgung von Straftaten und Ordnungswidrigkeiten, die
 auf Grund von Vorschriften begangen worden sind, die in den Vollzug
@@ -453,6 +462,7 @@ Pflichten der Behörden und Beamten des Polizeidienstes nach dem Gesetz
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE000925360)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist eine
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
@@ -575,6 +585,7 @@ Bezugnahmen auf das Bundesamt für Seeschifffahrt und Hydrographie.
 
 
 ## § 5a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003506360)
 
 Die Aufgabe nach § 1 Nummer 14 wird durch das Bundesministerium des
 Innern und für Heimat wahrgenommen; es kann die Aufgabe auf eine ihm
@@ -584,6 +595,7 @@ Digitales und Verkehr ins Benehmen setzen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001024360)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation führt die Aufgaben des Bundes nach § 1 Nummer 4, 4d,
@@ -650,6 +662,7 @@ Verkehrswirtschaft Post-Logistik Telekommunikation.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001113360)
 
 (1) Das Bundesministerium für Digitales und Verkehr kann zur Erfüllung
 von Aufgaben nach § 1 Nummer 4 und § 2 juristischen Personen des
@@ -675,6 +688,7 @@ Fachaufsicht des Bundesministeriums für Digitales und Verkehr.
 
 
 ## § 7a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003705360)
 
 (1) Schiffsausrüstung darf nur in den Verkehr gebracht, eingebaut,
 instand gehalten oder verwendet werden, soweit sie den in einer
@@ -785,6 +799,7 @@ oder teilweise vorbehalten werden.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001214360)
 
 (1) Soweit es zur Durchführung der Aufgaben nach § 1 Nummer 1 bis 6,
 6b und 7a, 13 und 16 sowie nach § 2 erforderlich ist, können die damit
@@ -852,6 +867,7 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ## § 8a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003603305)
 
 Das Bundesamt für Seeschifffahrt und Hydrographie hat die Durchführung
 von Inspektionen im Sinne des § 1 Nummer 15 zu ermöglichen und zu
@@ -862,6 +878,7 @@ oder internationaler Organisationen zuzulassen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001327119)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des
@@ -1078,6 +1095,7 @@ für Seeschifffahrt und Hydrographie übertragen.
 
 
 ## § 9a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001410360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
 Rechtsverordnung die Anforderungen an die Vermessung der
@@ -1089,10 +1107,12 @@ andere zuständige Stelle zu übertragen.
 
 
 ## § 9b (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001510305)
 
 
 
 ## § 9c
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002908305)
 
 Rechtsverordnungen nach den § 7a oder §§ 9 und 9a können auch zur
 Durchführung oder Umsetzung von Rechtsakten der Europäischen
@@ -1101,6 +1121,7 @@ zwischenstaatlichen Vereinbarungen erlassen werden.
 
 
 ## § 9d
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003204305)
 
 Von der Internationalen Seeschifffahrts-Organisation oder einer
 anderen zuständigen zwischenstaatlichen Organisation angenommene
@@ -1111,6 +1132,7 @@ zuständigen Behörden in deutscher Sprache amtlich bekannt gemacht.
 
 
 ## § 9e
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003807360)
 
 (1) Soweit es zur Erfüllung einer Aufgabe nach diesem Gesetz
 erforderlich ist, darf die für die Durchführung dieser Aufgabe
@@ -1245,6 +1267,7 @@ gewährleistet ist.
 
 
 ## § 9f
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003408126)
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie führt mit
 Wirkung vom 1. Februar 1997 ein Verzeichnis der im Sinne von § 2
@@ -1325,6 +1348,7 @@ das Seeleute-Befähigungs-Verzeichnis.
 
 
 ## § 9g
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE004300360)
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
 Datei
@@ -1509,10 +1533,12 @@ Zwecken zu verwenden.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001608305)
 
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001710360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
 Rechtsverordnung die Übermittlung von Unterlagen, die sich auf das
@@ -1525,6 +1551,7 @@ Freiheit ihrer wirtschaftlichen Betätigung zu schützen.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001820360)
 
 Die zuständige Behörde kann für die Überprüfung eines Schiffes unter
 fremder Flagge in einem deutschen Hafen vor dem Auslaufen des Schiffes
@@ -1533,6 +1560,7 @@ entstehenden Gebühren und Auslagen entgegennehmen.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE001914360)
 
 (1) Für das Befahren des Nord-Ostsee-Kanals sowie für die
 Inanspruchnahme bundeseigener Häfen werden von demjenigen, der den
@@ -1557,6 +1585,7 @@ sowie das Erhebungsverfahren geregelt werden.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002011360)
 
 (1) Wer den Beruf eines Kanalsteurers am Nord-Ostsee-Kanal ausüben
 will, bedarf hinsichtlich der Abwehr von Gefahren für die Sicherheit
@@ -1645,6 +1674,7 @@ Vorschriften des Verwaltungsvollstreckungsgesetzes beigetrieben.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002117360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1800,14 +1830,17 @@ nach Absatz 1 Nummer 6 oder Nummer 7 geahndet werden können.
 
 
 ## § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002207305)
 
 
 
 ## § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002808305)
 
 
 
 ## § 17a
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003008305)
 
 Wird die Bundesrepublik Deutschland von einem anderen Staat um die
 Durchführung von Maßnahmen im Rahmen der in § 1 Nummer 3 Buchstabe a,
@@ -1820,10 +1853,12 @@ erbetenen Maßnahmen ergeben können.
 
 
 ## § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002307305)
 
 
 
 ## § 19
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002405305)
 
 Die Zuständigkeit des Bundes im Rahmen des § 1 Nummer 2 und des § 9
 Absatz 1 Nummer 1 und 2 besteht nicht für die im Bereich des Hamburger
@@ -1831,6 +1866,7 @@ Hafens liegenden Teile der Bundeswasserstraße Elbe.
 
 
 ## § 20
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002507305)
 
 (1) Dieses Gesetz berührt nicht
 
@@ -1880,6 +1916,7 @@ dem Bund durch frühere Rechtsvorschriften übertragen worden sind.
 
 
 ## § 21
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002606305)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2
 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2
@@ -1890,6 +1927,7 @@ Gesetzes eingeschränkt.
 
 
 ## § 22
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE003904360)
 
 Das Bundesministerium für Digitales und Verkehr kann durch allgemeine
 Verwaltungsvorschriften das Nähere zur einheitlichen Anwendung der
@@ -1899,10 +1937,12 @@ die von ihm beliehenen juristischen Personen regeln.
 
 
 ## § 22a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE004004125)
 
 
 
 ## § 22b
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE004104360)
 
 (1) § 3e Nummer 7 und Nummer 3 der Anlage sind erst ab dem Tag
 anzuwenden, an dem das Ballastwasser-Übereinkommen für die
@@ -1913,9 +1953,11 @@ Bundesrepublik Deutschland in Kraft tritt.
 
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE002706305)
 
 
 ## Anlage (zu § 15 Absatz 1 Nummer 4 und 5, Absatz 4 und 5)
+[Direktlink](https://www.gesetze-im-internet.de/bseeschg/BJNR208330965.html#BJNR208330965BJNE004207119)
 
 (Fundstelle: BGBl. I 2016, 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

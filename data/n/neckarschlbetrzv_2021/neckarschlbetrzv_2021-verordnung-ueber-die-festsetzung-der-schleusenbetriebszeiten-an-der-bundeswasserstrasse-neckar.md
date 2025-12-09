@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/neckarschlbetrzv_2021/BJNR710091021.html#BJNR710091021BJNE000100000)
 
 Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in
 der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl I S. 962, 2008 I
@@ -32,6 +33,7 @@ und Schifffahrt:
 
 
 ## § 1 Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/neckarschlbetrzv_2021/BJNR710091021.html#BJNR710091021BJNE000200000)
 
 (1) Die Betriebszeiten der Schleusen an der Bundeswasserstraße Neckar
 werden vorbehaltlich des Absatzes 2 wie folgt festgesetzt:
@@ -60,6 +62,7 @@ Uhr.
 
 
 ## § 2 Besondere Betriebsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/neckarschlbetrzv_2021/BJNR710091021.html#BJNR710091021BJNE000300000)
 
 (1) Abweichend von § 1 Absatz 1 gelten an den folgenden Tagen eines
 Kalenderjahres für die Schleusen an der Bundeswasserstraße Neckar die
@@ -84,12 +87,14 @@ folgenden besonderen Betriebsregelungen:
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/neckarschlbetrzv_2021/BJNR710091021.html#BJNR710091021BJNE000400000)
 
 Von den §§ 1 und 2 kann das Wasserstraßen- und Schifffahrtsamt Neckar
 aus verkehrlichen oder betrieblichen Gründen vorübergehend abweichen.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/neckarschlbetrzv_2021/BJNR710091021.html#BJNR710091021BJNE000500000)
 
 Diese Verordnung tritt am 1. Dezember 2021 in Kraft. Gleichzeitig
 tritt die Verordnung über die Festsetzung der Schleusenbetriebszeiten

@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000100000)
 
 Auf Grund des § 45n Absatz 1 in Verbindung mit Absatz 2 Nummer 1 bis
 4, Absatz 3 Nummer 1 bis 5, Absatz 5 und 6 Nummer 5 des
@@ -38,6 +39,7 @@ unter Wahrung der Rechte des Bundestages:
 
 
 ## § 1 Produktinformationsblatt
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000201119)
 
 (1) Anbieter anderer öffentlich zugänglicher Telekommunikationsdienste
 als für die Bereitstellung von Diensten der Maschine-Maschine-
@@ -99,6 +101,7 @@ Musterinformationsblatt ist im Amtsblatt bekannt zu geben.
 
 
 ## § 2 Art und Zeitpunkt der Zurverfügungstellung
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000300000)
 
 (1) Produktinformationsblätter für Angebote, die gegenüber
 Verbrauchern vermarktet werden, sind ab dem Beginn der Vermarktung in
@@ -115,6 +118,7 @@ Archiv zur Verfügung zu stellen.
 
 
 ## § 3 Informationsrechte der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000401119)
 
 (1) Der Bundesnetzagentur ist auf Verlangen ein Exemplar des
 Produktinformationsblattes zur Verfügung zu stellen und nachzuweisen,
@@ -131,6 +135,7 @@ nach Satz 1 festlegen und auf ihrer Internetseite veröffentlichen.
 
 
 ## § 4 Informationen zur Vertragslaufzeit, Kündigung und zum Anbieterwechsel
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000601119)
 
 Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei denen
 es sich weder um nummernunabhängige interpersonelle
@@ -160,6 +165,7 @@ einem Monat oder weniger.
 
 
 ## § 5 Informationspflicht der Anbieter von öffentlichen Telekommunikationsnetzen
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000701119)
 
 Anbieter von öffentlichen Telekommunikationsnetzen sind verpflichtet,
 Anbietern öffentlich zugänglicher Telekommunikationsdienste, die einen
@@ -169,6 +175,7 @@ Pflichten nach dieser Verordnung benötigen und nicht selbst besitzen.
 
 
 ## § 6 Überprüfbarkeit der Datenübertragungsrate
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000801119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -206,6 +213,7 @@ Verbrauchers erreicht wird, umfasst mindestens
 
 
 ## § 7 Information zur Überprüfbarkeit der Datenübertragungsrate
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE000901119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -227,6 +235,7 @@ an dem die Angebote zur Messung abgerufen werden können.
 
 
 ## § 8 Darstellung und Speicherung von anbietereigenen Messergebnissen
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001001119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -248,6 +257,7 @@ handelt, müssen im Fall einer anbietereigenen Messung nach § 6 Absatz
 
 
 ## § 9 Informationspflichten bei beschränktem Datenvolumen
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001101119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -282,6 +292,7 @@ den Verbraucher kostenlos abbestellt und wieder bestellt werden.
 
 
 ## § 10 Kostenkontrolle bei Sprachkommunikationsdiensten, Internetzugangsdiensten und öffentlich zugänglichen nummerngebundenen interpersonellen Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001201119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, bei
 denen es sich weder um nummernunabhängige interpersonelle
@@ -301,6 +312,7 @@ verhältnismäßige Kosten in Rechnung gestellt werden.
 
 
 ## § 11 Evaluation und Kontrolle durch die Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001301119)
 
 (1) Anbieter öffentlich zugänglicher Telekommunikationsdienste, die
 einen Zugang zu einem öffentlichen Telekommunikationsnetz anbieten,
@@ -326,6 +338,7 @@ Messung der Datenübertragungsrate zur Verfügung zu stellen.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001401119)
 
 Ordnungswidrig im Sinne des § 228 Absatz 2 Nummer 6 des
 Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -362,12 +375,14 @@ Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001601119)
 
 Diese Verordnung tritt am 1. Juni 2017 in Kraft.
 
 (zu § 9 Absatz 1)
 
 ## Anlage Überprüfung der Datenübertragungsrate
+[Direktlink](https://www.gesetze-im-internet.de/tktransparenzv/BJNR297700016.html#BJNR297700016BJNE001700000)
 
 (Fundstelle: BGBl. I 2016, 2981 - 2982)
 

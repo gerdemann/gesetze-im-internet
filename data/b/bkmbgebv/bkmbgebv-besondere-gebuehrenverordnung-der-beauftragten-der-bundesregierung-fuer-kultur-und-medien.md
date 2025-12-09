@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -26,6 +27,7 @@ und in Verbindung mit dem Organisationserlass vom 27. Oktober 1998
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000200000)
 
 (1) Im Zuständigkeitsbereich der Beauftragten der Bundesregierung für
 Kultur und Medien werden Gebühren und Auslagen für individuell
@@ -57,6 +59,7 @@ Durchführungskontrollen sind gebühren- und auslagenfrei.
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis in der Anlage. Das Gebühren- und
@@ -86,6 +89,7 @@ erhoben.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000400000)
 
 Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt
 ist, gelten für den Zeitaufwand die in der Anlage 1 Teil A der
@@ -95,12 +99,14 @@ Verwaltungsbeschäftigte in der Bundesverwaltung.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000500000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bkmbgebv/BJNR406600021.html#BJNR406600021BJNE000600000)
 
 (Fundstelle: BGBl. I 2021, 4067 - 4071)
 

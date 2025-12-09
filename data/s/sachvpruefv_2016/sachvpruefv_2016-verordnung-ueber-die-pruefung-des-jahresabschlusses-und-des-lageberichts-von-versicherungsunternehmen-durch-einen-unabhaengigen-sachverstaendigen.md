@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000100000)
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2,
 4 und 5 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I
@@ -30,6 +31,7 @@ Justiz und für Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich, Prüfungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000201118)
 
 (1) Versicherungsunternehmen, die der Bundesaufsicht unterliegen und
 auf die § 341k des Handelsgesetzbuchs nicht anzuwenden ist (§ 61 der
@@ -60,6 +62,7 @@ verlangen, bleibt unberührt.
 
 
 ## § 2 Gegenstand und Umfang der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000300000)
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung
 einzubeziehen. Die Prüfung des Jahresabschlusses hat sich darauf zu
@@ -82,6 +85,7 @@ Prüfung vorgenommen wurde.
 
 
 ## § 3 Unabhängiger Sachverständiger
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000400000)
 
 (1) Sachverständiger kann jede natürliche Person sein, die über die
 zur Durchführung der Prüfung erforderlichen rechtlichen,
@@ -117,6 +121,7 @@ Sachverständige von diesem bestellt und abberufen.
 
 
 ## § 4 Allgemeiner Teil des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000500000)
 
 (1) Der Sachverständige hat über das Ergebnis der Prüfung schriftlich
 zu berichten. In dem allgemeinen Teil des Prüfungsberichts ist im
@@ -165,6 +170,7 @@ hinzugezogen, so hat er diesen in dem Bericht namentlich zu nennen.
 
 
 ## § 5 Besonderer Teil des Prüfungsberichts
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000601118)
 
 (1) Die einzelnen Posten der Bilanz und Gewinn-und-Verlust-Rechnung
 sind im besonderen Teil des Prüfungsberichts zu erläutern. Die
@@ -246,6 +252,7 @@ erläutern.
 
 
 ## § 6 Prüfungsvermerk
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000700000)
 
 (1) Bestehen nach dem abschließenden Ergebnis der Prüfung keine
 Einwendungen, so hat der Sachverständige folgenden Prüfungsvermerk zu
@@ -268,6 +275,7 @@ Angabe von Ort und Tag zu unterzeichnen.
 
 
 ## § 7 Vorlagefrist
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000800000)
 
 Der Vorstand hat den Bericht des Sachverständigen unverzüglich nach
 Erhalt, spätestens acht Monate nach Schluss des letzten
@@ -276,6 +284,7 @@ Aufsichtsbehörde vorzulegen.
 
 
 ## § 8 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE000900000)
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das
 Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
@@ -292,6 +301,7 @@ Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sachvpr_fv_2016/BJNR076000016.html#BJNR076000016BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

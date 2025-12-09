@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000100310)
 
 
 
 ### § 1 Aufgaben des Zivilschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001300310)
 
 (1) Aufgabe des Zivilschutzes ist es, durch nichtmilitärische
 Maßnahmen die Bevölkerung, ihre Wohnungen und Arbeitsstätten, lebens-
@@ -59,6 +61,7 @@ Behördliche Maßnahmen ergänzen die Selbsthilfe der Bevölkerung.
 
 
 ### § 2 Auftragsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001401320)
 
 (1) Soweit die Ausführung dieses Gesetzes den Ländern einschließlich
 der Gemeinden und Gemeindeverbände obliegt, handeln sie im Auftrage
@@ -77,6 +80,7 @@ Landesregierungen können diese Ermächtigung auf oberste Landesbehörden
 
 
 ### § 3 Völkerrechtliche Stellung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001500310)
 
 (1) Einheiten, Einrichtungen und Anlagen, die für den Zivilschutz
 eingesetzt werden, haben den Voraussetzungen des Artikels 63 des IV.
@@ -93,6 +97,7 @@ Völkerrecht bleiben unberührt.
 
 
 ### § 4 Zuständigkeit des Bundes für den Schutz der Zivilbevölkerung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001602310)
 
 (1) Die Verwaltungsaufgaben des Bundes nach diesem Gesetz werden dem
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe zugewiesen. Dem
@@ -146,10 +151,12 @@ Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 
 
 ## Zweiter Abschnitt - Selbstschutz
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000200310)
 
 
 
 ### § 5 Selbstschutz
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001701310)
 
 (1) Aufbau, Förderung und Leitung des Selbstschutzes der Bevölkerung
 sowie Förderung des Selbstschutzes der Behörden und Betriebe gegen die
@@ -169,10 +176,12 @@ treffen. Die Anordnungen bedürfen keiner besonderen Form.
 
 
 ## Dritter Abschnitt - Warnung der Bevölkerung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000300310)
 
 
 
 ### § 6 Warnung der Bevölkerung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001800310)
 
 (1) Der Bund erfaßt die besonderen Gefahren, die der Bevölkerung in
 einem Verteidigungsfall drohen.
@@ -192,10 +201,12 @@ Zustimmung des Bundesrates näher zu regeln.
 
 
 ## Vierter Abschnitt - Schutzbau
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000400310)
 
 
 
 ### § 7 Öffentliche Schutzräume
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE001901116)
 
 (1) Öffentliche Schutzräume sind die mit Mitteln des Bundes
 wiederhergestellten Bunker und Stollen sowie die als Mehrzweckbauten
@@ -223,6 +234,7 @@ errichteten Schutzbauwerke.
 
 
 ### § 8 Hausschutzräume
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002000310)
 
 (1) Hausschutzräume, die mit Zuschüssen des Bundes oder steuerlich
 begünstigt gebaut wurden, sind vom Eigentümer oder
@@ -237,6 +249,7 @@ gestatten.
 
 
 ### § 9 Baulicher Betriebsschutz
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002100310)
 
 Zum Schutz lebens- oder verteidigungswichtiger Anlagen und
 Einrichtungen können die obersten Bundesbehörden jeweils für ihren
@@ -244,10 +257,12 @@ Geschäftsbereich Regelungen für bauliche Schutzmaßnahmen treffen.
 
 
 ## Fünfter Abschnitt - Aufenthaltsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000500310)
 
 
 
 ### § 10 Aufenthaltsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002200310)
 
 (1) Zum Schutze vor den besonderen Gefahren, die der Bevölkerung im
 Verteidigungsfall drohen, oder für Zwecke der Verteidigung können die
@@ -273,10 +288,12 @@ Unterstützung.
 
 
 ## Sechster Abschnitt - Katastrophenschutz im Zivilschutz und Katastrophenhilfe des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000601310)
 
 
 
 ### § 11 Einbeziehung des Katastrophenschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002301116)
 
 (1) Die nach Landesrecht im Katastrophenschutz mitwirkenden Einheiten
 und Einrichtungen nehmen auch die Aufgaben zum Schutz der Bevölkerung
@@ -292,6 +309,7 @@ der Wahrnehmung der Aufgaben nach Absatz 1.
 
 
 ### § 12 Grundsatz der Katastrophenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004000310)
 
 Die Vorhaltungen und Einrichtungen des Bundes für den Zivilschutz
 stehen den Ländern auch für ihre Aufgaben im Bereich des
@@ -299,6 +317,7 @@ Katastrophenschutzes zur Verfügung.
 
 
 ### § 13 Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002401310)
 
 (1) Der Bund ergänzt die Ausstattung des Katastrophenschutzes in den
 Aufgabenbereichen Brandschutz, ABC-Schutz, Sanitätswesen und
@@ -321,6 +340,7 @@ der Aufgaben nach § 11.
 
 
 ### § 14 Aus- und Fortbildung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004100310)
 
 Die Aus- und Fortbildungsmaßnahmen des Bundesamtes für
 Bevölkerungsschutz und Katastrophenhilfe nach § 4 Abs. 1 Satz 2 Nr. 2
@@ -334,6 +354,7 @@ Länder im Bereich des Katastrophenschutzes auf und ergänzen diese.
 
 
 ### § 15 Aufgaben der Katastrophenschutzbehörde
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002602310)
 
 Die für den Katastrophenschutz zuständige Behörde leitet und
 koordiniert alle Hilfsmaßnahmen in ihrem Bereich. Sie beaufsichtigt
@@ -350,6 +371,7 @@ Hilfe im Zivilschutz zu leisten.
 
 
 ### § 16 Koordinierungsmaßnahmen; Ressourcenmanagement
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004200310)
 
 (1) Die Einrichtungen und Vorhaltungen des Bundesamtes für
 Bevölkerungsschutz und Katastrophenhilfe, insbesondere im Bereich
@@ -373,6 +395,7 @@ eigenen Aufgaben bleibt unberührt.
 
 
 ### § 17 Datenerhebung und -verwendung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004301116)
 
 (1) Soweit es zur Erfüllung seiner Aufgaben nach § 16 erforderlich
 ist, darf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
@@ -415,6 +438,7 @@ dürfen, sowie Fristen für die Löschung der Daten zu bestimmen.
 
 
 ### § 18 Zusammenarbeit von Bund und Ländern
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004401116)
 
 (1) Der Bund erstellt im Zusammenwirken mit den Ländern eine
 bundesweite Risikoanalyse für den Zivilschutz. Das Bundesministerium
@@ -437,6 +461,7 @@ erforderlich sind.
 
 
 ### § 19 Schutzkommission
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004501116)
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat besteht eine
 Kommission zum Schutz der Zivilbevölkerung.
@@ -449,16 +474,19 @@ Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.
 
 
 ### § 20 Unterstützung des Ehrenamtes
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE004600310)
 
 Der Bund unterstützt das Ehrenamt als Grundlage des Zivil- und
 Katastrophenschutzes.
 
 
 ## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000701116)
 
 
 
 ### § 21 Planung der gesundheitlichen Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002701310)
 
 (1) Die nach Landesrecht zuständigen Behörden haben ergänzende
 Maßnahmen zur gesundheitlichen Versorgung der Bevölkerung im
@@ -499,6 +527,7 @@ aufstellen und fortschreiben.
 
 
 ### § 22 Erweiterung der Einsatzbereitschaft
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002802310)
 
 (1) Nach Freigabe durch die Bundesregierung können die nach
 Landesrecht zuständigen Behörden anordnen, daß
@@ -543,6 +572,7 @@ nach Absatz 1.
 
 
 ### § 23 Sanitätsmaterialbevorratung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE002902116)
 
 (1) Der Bund stellt den Ländern für die gesundheitliche Versorgung der
 Bevölkerung im Verteidigungsfall ergänzend Sanitätsmaterial zur
@@ -562,6 +592,7 @@ Fassung vom 31. Oktober 2006 sind entsprechend anzuwenden.
 
 
 ### § 24 Erste-Hilfe-Ausbildung und Ausbildung von Pflegehilfskräften
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003001310)
 
 Der Bund fördert die Ausbildung der Bevölkerung durch die nach § 26
 Abs. 1 mitwirkenden privaten Organisationen
@@ -576,10 +607,12 @@ Abs. 1 mitwirkenden privaten Organisationen
 
 
 ## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000801116)
 
 
 
 ### § 25 Kulturgutschutz
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003101310)
 
 Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz zu
 der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
@@ -588,10 +621,12 @@ bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 
 
 ## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG000901116)
 
 
 
 ### § 26 Mitwirkung der Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003201310)
 
 (1) Die Mitwirkung der öffentlichen und privaten Organisationen bei
 der Erfüllung der Aufgaben nach diesem Gesetz richtet sich nach den
@@ -620,6 +655,7 @@ sind zur Mitwirkung verpflichtet.
 
 
 ### § 27 Rechtsverhältnisse der Helferinnen und Helfer
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003301310)
 
 (1) Rechte und Pflichten der im Zivilschutz mitwirkenden Helferinnen
 und Helfer richten sich nach den landesrechtlichen Vorschriften für
@@ -632,6 +668,7 @@ im Zivil- und Katastrophenschutz verpflichtet.
 
 
 ### § 28 Persönliche Hilfeleistung
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003401310)
 
 (1) Die für den Katastrophenschutz zuständige Behörde kann Männer und
 Frauen vom vollendeten 18. bis zum vollendeten 60. Lebensjahr
@@ -656,10 +693,12 @@ Vierteljahr nicht überschreiten.
 
 
 ## Zehnter Abschnitt - Kosten des Zivilschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG001001116)
 
 
 
 ### § 29 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003501310)
 
 (1) Der Bund trägt die Kosten, die den Ländern, Gemeinden und
 Gemeindeverbänden durch dieses Gesetz, durch die allgemeinen
@@ -714,10 +753,12 @@ Pflichtigen zu ersetzen.
 
 
 ## Elfter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG001101116)
 
 
 
 ### § 30 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003603310)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 5 Abs. 4 Satz 1, § 10 Abs. 1, § 21 Abs.
@@ -761,10 +802,12 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
 
 
 ## Zwölfter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNG001201116)
 
 
 
 ### § 31 Einschränkungen von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003701310)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -774,6 +817,7 @@ Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 32 Stadtstaatenklausel
+[Direktlink](https://www.gesetze-im-internet.de/zsg/BJNR072610997.html#BJNR072610997BJNE003801310)
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 entsprechend dem besonderen Verwaltungsaufbau ihrer Länder die

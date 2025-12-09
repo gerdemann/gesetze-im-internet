@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1966/BJNR001430966.html#BJNR001430966BJNE000100314)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes vom
@@ -61,11 +62,13 @@ mit je einem Punkt ausgefüllt.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1966/BJNR001430966.html#BJNR001430966BJNE000200314)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
+[Direktlink](https://www.gesetze-im-internet.de/m_nz5dmbek_1966/BJNR001430966.html#BJNR001430966BJNE000300314)
 
 (Fundstelle: BGBl I 1966, 143)
 

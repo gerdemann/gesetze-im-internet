@@ -20,6 +20,7 @@ Fundstelle
 Stand: Das G tritt gem. § 5 am 31.12.2040 außer Kraft
 
 ## § 1 Rehabilitierung
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000100000)
 
 (1) Vor dem 3. Juli 2000 ergangene wehrdienstgerichtliche Urteile
 werden insoweit aufgehoben, als sie einvernehmliche homosexuelle
@@ -65,6 +66,7 @@ Rechtswirkungen.
 
 
 ## § 2 Verfahren; Rehabilitierungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000200000)
 
 (1) Das Bundesministerium der Verteidigung stellt auf Antrag fest, ob
 ein Urteil nach § 1 Absatz 1 aufgehoben worden ist oder ob eine
@@ -115,6 +117,7 @@ Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
 
 ## § 3 Entschädigung; Entschädigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000300000)
 
 (1) Die rehabilitierte Person erhält auf Antrag eine Entschädigung in
 Geld aus dem Bundeshaushalt.
@@ -146,12 +149,14 @@ Sozialleistungen angerechnet.
 
 
 ## § 4 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000400000)
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.
 
 
 ## § 5 Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/soldrehahomg/BJNR299310021.html#BJNR299310021BJNE000500000)
 
 Dieses Gesetz tritt am 31. Dezember 2040 außer Kraft.
 

@@ -21,11 +21,13 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000201377)
 
 (1) Dieses Gesetz gilt für die Interessenvertretung gegenüber den
 Organen, Gremien, Mitgliedern, Fraktionen oder Gruppen des Deutschen
@@ -58,6 +60,7 @@ nach Absatz 3 selbst betreiben oder in Auftrag geben.
 
 
 ## § 2 Registrierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000301377)
 
 (1) Interessenvertreterinnen oder Interessenvertreter nach § 1 Absatz
 4 müssen die Angaben nach § 3 Absatz 1 und 2 in einem öffentlichen
@@ -217,6 +220,7 @@ Angaben nach § 3 Absatz 1 und 2 im Lobbyregister eintragen.
 
 
 ## § 3 Registerinhalt
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000401377)
 
 (1) Interessenvertreterinnen und Interessenvertreter stellen im
 Lobbyregister die folgenden Informationen bereit:
@@ -575,6 +579,7 @@ zuständigen Archiv zur Übernahme als Archivgut anzubieten.
 
 
 ## § 4 Registereinrichtung und Registerführung
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000501377)
 
 (1) Das Lobbyregister wird elektronisch beim Deutschen Bundestag
 eingerichtet und geführt. Der Deutsche Bundestag und die
@@ -660,6 +665,7 @@ hiermit in Verbindung stehenden Informationen.
 
 
 ## § 5 Grundsätze integrer Interessenvertretung
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000601377)
 
 (1) Interessenvertretung im Sinne des Gesetzes darf nur auf Basis von
 Offenheit, Transparenz, Ehrlichkeit und Integrität stattfinden.
@@ -748,6 +754,7 @@ veröffentlicht ist.
 
 
 ## § 6 Zugang zu den Gebäuden des Deutschen Bundestages und Teilnahme an öffentlichen Anhörungen
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000701377)
 
 (1) Der Deutsche Bundestag kann sich vorbehalten,
 Zugangsberechtigungen für Interessenvertreterinnen und
@@ -772,6 +779,7 @@ Verstoßes nach § 5 Absatz 8 enthält.
 
 
 ## § 7 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000802311)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -808,6 +816,7 @@ Bundestag.
 
 
 ## § 8 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE000901377)
 
 (1) Eintragungen nach § 2 Absatz 1, die innerhalb von zwei Monaten
 nach Inkrafttreten des Gesetzes vorgenommen werden, gelten als
@@ -832,6 +841,7 @@ anonymisierter Form erfolgen.
 
 
 ## § 9 Bericht und Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE001001377)
 
 (1) Die registerführende Stelle erstellt alle zwei Jahre, erstmalig
 zum 31. März 2025, einen Bericht über die Führung des Lobbyregisters,
@@ -844,6 +854,7 @@ des Gesetzes und veröffentlichen die Ergebnisse der Überprüfung.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html#BJNR081800021BJNE001100000)
 
 Dieses Gesetz tritt am 1. Januar 2022 in Kraft.
 

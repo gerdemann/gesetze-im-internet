@@ -24,14 +24,17 @@ Zuletzt geändert durch
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000201308)
 
 
 
 ### Erster Abschnitt - Anwendungsbereich, Zuständigkeit, Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000301308)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002302308)
 
 (1) Die Vorschriften dieses Kapitels gelten für die öffentlich-
 rechtliche Verwaltungstätigkeit der Behörden, die nach diesem
@@ -51,6 +54,7 @@ der öffentlichen Verwaltung wahrnimmt.
 
 
 #### § 2 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002402308)
 
 (1) Sind mehrere Behörden örtlich zuständig, entscheidet die Behörde,
 die zuerst mit der Sache befasst worden ist, es sei denn, die
@@ -84,6 +88,7 @@ unterrichten.
 
 
 #### § 3 Amtshilfepflicht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002501308)
 
 (1) Jede Behörde leistet anderen Behörden auf Ersuchen ergänzende
 Hilfe (Amtshilfe).
@@ -102,6 +107,7 @@ Hilfe (Amtshilfe).
 
 
 #### § 4 Voraussetzungen und Grenzen der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002601308)
 
 (1) Eine Behörde kann um Amtshilfe insbesondere dann ersuchen, wenn
 sie
@@ -173,6 +179,7 @@ besteht, die für die ersuchte Behörde zuständige Aufsichtsbehörde.
 
 
 #### § 5 Auswahl der Behörde
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002701308)
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, soll nach
 Möglichkeit eine Behörde der untersten Verwaltungsstufe des
@@ -181,6 +188,7 @@ angehört.
 
 
 #### § 6 Durchführung der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002801308)
 
 (1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe
 verwirklicht werden soll, richtet sich nach dem für die ersuchende
@@ -194,6 +202,7 @@ verantwortlich.
 
 
 #### § 7 Kosten der Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE002903308)
 
 (1) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe
 keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der ersuchten
@@ -210,14 +219,17 @@ und Auslagen) zu.
 
 
 ### Zweiter Abschnitt - Allgemeine Vorschriften über das Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000401308)
 
 
 
 #### Erster Titel - Verfahrensgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000501308)
 
 
 
 ##### § 8 Begriff des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003001308)
 
 Das Verwaltungsverfahren im Sinne dieses Gesetzbuches ist die nach
 außen wirkende Tätigkeit der Behörden, die auf die Prüfung der
@@ -228,6 +240,7 @@ oder den Abschluss des öffentlich-rechtlichen Vertrags ein.
 
 
 ##### § 9 Nichtförmlichkeit des Verwaltungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003102308)
 
 Das Verwaltungsverfahren ist an bestimmte Formen nicht gebunden,
 soweit keine besonderen Rechtsvorschriften für die Form des Verfahrens
@@ -235,6 +248,7 @@ bestehen. Es ist einfach, zweckmäßig und zügig durchzuführen.
 
 
 ##### § 10 Beteiligungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003201308)
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -251,6 +265,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 ##### § 11 Vornahme von Verfahrenshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003303126)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -285,6 +300,7 @@ anerkannt ist.
 
 
 ##### § 12 Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003401308)
 
 (1) Beteiligte sind
 
@@ -318,6 +334,7 @@ vorliegen, wird dadurch nicht Beteiligter.
 
 
 ##### § 13 Bevollmächtigte und Beistände
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003503308)
 
 (1) Ein Beteiligter kann sich durch einen Bevollmächtigten vertreten
 lassen. Die Vollmacht ermächtigt zu allen das Verwaltungsverfahren
@@ -362,6 +379,7 @@ Zurückweisung vornimmt, sind unwirksam.
 
 
 ##### § 14 Bestellung eines Empfangsbevollmächtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003604126)
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder
 Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb
@@ -375,6 +393,7 @@ Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
 
 ##### § 15 Bestellung eines Vertreters von Amts wegen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003705126)
 
 (1) Ist ein Vertreter nicht vorhanden, hat das Gericht auf Ersuchen
 der Behörde einen geeigneten Vertreter zu bestellen
@@ -418,6 +437,7 @@ sonstige Pflegschaft entsprechend.
 
 
 ##### § 16 Ausgeschlossene Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003803126)
 
 (1) In einem Verwaltungsverfahren darf für eine Behörde nicht tätig
 werden,
@@ -519,6 +539,7 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 
 ##### § 17 Besorgnis der Befangenheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE003902308)
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen eine
 unparteiische Amtsausübung zu rechtfertigen, oder wird von einem
@@ -537,6 +558,7 @@ entsprechend.
 
 
 ##### § 18 Beginn des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004001308)
 
 Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie
 ein Verwaltungsverfahren durchführt. Dies gilt nicht, wenn die Behörde
@@ -552,6 +574,7 @@ auf Grund von Rechtsvorschriften
 
 
 ##### § 19 Amtssprache
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004106119)
 
 (1) Die Amtssprache ist deutsch. Menschen mit Hörbehinderungen und
 Menschen mit Sprachbehinderungen haben das Recht, in Deutscher
@@ -603,6 +626,7 @@ hinzuweisen.
 
 
 ##### § 20 Untersuchungsgrundsatz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004201308)
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt
 Art und Umfang der Ermittlungen; an das Vorbringen und an die
@@ -618,6 +642,7 @@ oder unbegründet hält.
 
 
 ##### § 21 Beweismittel
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004304377)
 
 (1) Die Behörde bedient sich der Beweismittel, die sie nach
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
@@ -675,6 +700,7 @@ Familienmitglieder zu erteilen.
 
 
 ##### § 22 Vernehmung durch das Sozial- oder Verwaltungsgericht
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004402311)
 
 (1) Verweigern Zeugen oder Sachverständige in den Fällen des § 21 Abs.
 3 ohne Vorliegen eines der in den §§ 376, 383 bis 385 und 408 der
@@ -708,6 +734,7 @@ Richteramt hat.
 
 
 ##### § 23 Glaubhaftmachung, Versicherung an Eides statt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004504311)
 
 (1) Sieht eine Rechtsvorschrift vor, dass für die Feststellung der
 erheblichen Tatsachen deren Glaubhaftmachung genügt, kann auch die
@@ -760,6 +787,7 @@ von dem Schriftführer zu unterschreiben.
 
 
 ##### § 24 Anhörung Beteiligter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004604308)
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
 Beteiligten eingreift, ist diesem Gelegenheit zu geben, sich zu den
@@ -799,6 +827,7 @@ für die Entscheidung erheblichen Tatsachen zu äußern.
 
 
 ##### § 25 Akteneinsicht durch Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004702377)
 
 (1) Die Behörde hat den Beteiligten Einsicht in die das Verfahren
 betreffenden Akten zu gestatten, soweit deren Kenntnis zur
@@ -843,10 +872,12 @@ in angemessenem Umfang verlangen.
 
 
 #### Zweiter Titel - Fristen, Termine, Wiedereinsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000601308)
 
 
 
 ##### § 26 Fristen und Termine
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004801308)
 
 (1) Für die Berechnung von Fristen und für die Bestimmung von Terminen
 gelten die §§ 187 bis 193 des Bürgerlichen Gesetzbuches entsprechend,
@@ -882,6 +913,7 @@ verbinden.
 
 
 ##### § 27 Wiedereinsetzung in den vorigen Stand
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE004901308)
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist
 einzuhalten, ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand
@@ -908,6 +940,7 @@ Rechtsvorschrift ergibt, dass sie ausgeschlossen ist.
 
 
 ##### § 28 Wiederholte Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005002124)
 
 (1) Hat ein Leistungsberechtigter von der Stellung eines Antrages auf
 eine Sozialleistung abgesehen, weil ein Anspruch auf eine andere
@@ -926,10 +959,12 @@ Leistung, wenn diese erbracht worden wäre, nachrangig gewesen wäre.
 
 
 #### Dritter Titel - Amtliche Beglaubigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000701308)
 
 
 
 ##### § 29 Beglaubigung von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005105126)
 
 (1) Jede Behörde ist befugt, Abschriften von Urkunden, die sie selbst
 ausgestellt hat, zu beglaubigen. Darüber hinaus sind die von der
@@ -1054,6 +1089,7 @@ eine elektronische Abschrift fertigen und beglaubigen.
 
 
 ##### § 30 Beglaubigung von Unterschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005201308)
 
 (1) Die von der Bundesregierung durch Rechtsverordnung bestimmten
 Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten
@@ -1107,14 +1143,17 @@ der Zustimmung des Bundesrates.
 
 
 ### Dritter Abschnitt - Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000801308)
 
 
 
 #### Erster Titel - Zustandekommen des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG000901308)
 
 
 
 ##### § 31 Begriff des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005301308)
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere
 hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalles
@@ -1127,6 +1166,7 @@ durch die Allgemeinheit betrifft.
 
 
 ##### § 31a Vollständig automatisierter Erlass eines Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017400119)
 
 Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen
 erlassen werden, sofern kein Anlass besteht, den Einzelfall durch
@@ -1137,6 +1177,7 @@ im automatischen Verfahren nicht ermittelt würden.
 
 
 ##### § 32 Nebenbestimmungen zum Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005401308)
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
 Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift
@@ -1177,6 +1218,7 @@ zuwiderlaufen.
 
 
 ##### § 33 Bestimmtheit und Form des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005504126)
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
@@ -1217,6 +1259,7 @@ eindeutig erkennen kann.
 
 
 ##### § 34 Zusicherung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005601308)
 
 (1) Eine von der zuständigen Behörde erteilte Zusage, einen bestimmten
 Verwaltungsakt später zu erlassen oder zu unterlassen (Zusicherung),
@@ -1242,6 +1285,7 @@ nicht mehr gebunden.
 
 
 ##### § 35 Begründung des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005702308)
 
 (1) Ein schriftlicher oder elektronischer sowie ein schriftlich oder
 elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu
@@ -1283,6 +1327,7 @@ Bekanntgabe verlangt.
 
 
 ##### § 36 Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005802301)
 
 Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt
 sie schriftlich einen Verwaltungsakt, ist der durch ihn beschwerte
@@ -1295,6 +1340,7 @@ elektronisch zu erfolgen.
 
 
 ##### § 37 Bekanntgabe des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE005908126)
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben,
 für den er bestimmt ist oder der von ihm betroffen wird. Ist ein
@@ -1355,6 +1401,7 @@ Zustellung bleiben unberührt.
 
 
 ##### § 38 Offenbare Unrichtigkeiten im Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006002308)
 
 Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare
 Unrichtigkeiten in einem Verwaltungsakt jederzeit berichtigen. Bei
@@ -1364,10 +1411,12 @@ berichtigt werden soll.
 
 
 #### Zweiter Titel - Bestandskraft des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001001308)
 
 
 
 ##### § 39 Wirksamkeit des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006101308)
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt
 ist oder der von ihm betroffen wird, in dem Zeitpunkt wirksam, in dem
@@ -1382,6 +1431,7 @@ Zeitablauf oder auf andere Weise erledigt ist.
 
 
 ##### § 40 Nichtigkeit des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006203308)
 
 (1) Ein Verwaltungsakt ist nichtig, soweit er an einem besonders
 schwerwiegenden Fehler leidet und dies bei verständiger Würdigung
@@ -1442,6 +1492,7 @@ hieran ein berechtigtes Interesse hat.
 
 
 ##### § 41 Heilung von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006302308)
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht
 den Verwaltungsakt nach § 40 nichtig macht, ist unbeachtlich, wenn
@@ -1482,6 +1533,7 @@ Nachholung der unterlassenen Verfahrenshandlung ein.
 
 
 ##### § 42 Folgen von Verfahrens- und Formfehlern
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006402308)
 
 Die Aufhebung eines Verwaltungsaktes, der nicht nach § 40 nichtig ist,
 kann nicht allein deshalb beansprucht werden, weil er unter Verletzung
@@ -1493,6 +1545,7 @@ wirksam nachgeholt ist.
 
 
 ##### § 43 Umdeutung eines fehlerhaften Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006501308)
 
 (1) Ein fehlerhafter Verwaltungsakt kann in einen anderen
 Verwaltungsakt umgedeutet werden, wenn er auf das gleiche Ziel
@@ -1515,6 +1568,7 @@ werden.
 
 
 ##### § 44 Rücknahme eines rechtswidrigen nicht begünstigenden Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006603308)
 
 (1) Soweit sich im Einzelfall ergibt, dass bei Erlass eines
 Verwaltungsaktes das Recht unrichtig angewandt oder von einem
@@ -1547,6 +1601,7 @@ Leistungen zu erbringen sind, anstelle der Rücknahme der Antrag.
 
 
 ##### § 45 Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006703308)
 
 (1) Soweit ein Verwaltungsakt, der ein Recht oder einen rechtlich
 erheblichen Vorteil begründet oder bestätigt hat (begünstigender
@@ -1617,6 +1672,7 @@ Verwaltungsaktes für die Vergangenheit rechtfertigen.
 
 
 ##### § 46 Widerruf eines rechtmäßigen nicht begünstigenden Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006801308)
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch
 nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung
@@ -1628,6 +1684,7 @@ Gründen ein Widerruf unzulässig ist.
 
 
 ##### § 47 Widerruf eines rechtmäßigen begünstigenden Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE006903308)
 
 (1) Ein rechtmäßiger begünstigender Verwaltungsakt darf, auch nachdem
 er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die
@@ -1676,6 +1733,7 @@ Verwaltungsaktes geführt haben. § 45 Abs. 4 Satz 2 gilt entsprechend.
 
 
 ##### § 48 Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007005308)
 
 (1) Soweit in den tatsächlichen oder rechtlichen Verhältnissen, die
 beim Erlass eines Verwaltungsaktes mit Dauerwirkung vorgelegen haben,
@@ -1729,6 +1787,7 @@ Absatzes 1 Satz 2 Nr. 1.
 
 
 ##### § 49 Rücknahme und Widerruf im Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007101308)
 
 § 45 Abs. 1 bis 4, §§ 47 und 48 gelten nicht, wenn ein begünstigender
 Verwaltungsakt, der von einem Dritten angefochten worden ist, während
@@ -1738,6 +1797,7 @@ dem Widerspruch abgeholfen oder der Klage stattgegeben wird.
 
 
 ##### § 50 Erstattung zu Unrecht erbrachter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007207308)
 
 (1) Soweit ein Verwaltungsakt aufgehoben worden ist, sind bereits
 erbrachte Leistungen zu erstatten. Sach- und Dienstleistungen sind in
@@ -1777,6 +1837,7 @@ entsprechend.
 
 
 ##### § 51 Rückgabe von Urkunden und Sachen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007301308)
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen
 oder ist seine Wirksamkeit aus einem anderen Grund nicht oder nicht
@@ -1793,10 +1854,12 @@ erforderlichen Offensichtlichkeit oder Dauerhaftigkeit möglich ist.
 
 
 #### Dritter Titel - Verjährungsrechtliche Wirkungen des Verwaltungsaktes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001101308)
 
 
 
 ##### § 52 Hemmung der Verjährung durch Verwaltungsakt
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007402308)
 
 (1) Ein Verwaltungsakt, der zur Feststellung oder Durchsetzung des
 Anspruchs eines öffentlich-rechtlichen Rechtsträgers erlassen wird,
@@ -1809,10 +1872,12 @@ geworden, beträgt die Verjährungsfrist 30 Jahre.
 
 
 ### Vierter Abschnitt - Öffentlich-rechtlicher Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001201308)
 
 
 
 #### § 53 Zulässigkeit des öffentlich-rechtlichen Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007501308)
 
 (1) Ein Rechtsverhältnis auf dem Gebiet des öffentlichen Rechts kann
 durch Vertrag begründet, geändert oder aufgehoben werden (öffentlich-
@@ -1827,6 +1892,7 @@ des Leistungsträgers steht.
 
 
 #### § 54 Vergleichsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007601308)
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 53 Abs. 1 Satz
 2, durch den eine bei verständiger Würdigung des Sachverhalts oder der
@@ -1839,6 +1905,7 @@ pflichtgemäßem Ermessen für zweckmäßig hält.
 
 
 #### § 55 Austauschvertrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007701308)
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 53 Abs. 1 Satz
 2, in dem sich der Vertragspartner der Behörde zu einer Gegenleistung
@@ -1856,6 +1923,7 @@ Verwaltungsaktes Inhalt einer Nebenbestimmung nach § 32 sein könnte.
 
 
 #### § 56 Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007801308)
 
 Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen,
 soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben
@@ -1863,6 +1931,7 @@ ist.
 
 
 #### § 57 Zustimmung von Dritten und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE007901308)
 
 (1) Ein öffentlich-rechtlicher Vertrag, der in Rechte eines Dritten
 eingreift, wird erst wirksam, wenn der Dritte schriftlich zustimmt.
@@ -1875,6 +1944,7 @@ vorgeschriebenen Form mitgewirkt hat.
 
 
 #### § 58 Nichtigkeit des öffentlich-rechtlichen Vertrages
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008001308)
 
 (1) Ein öffentlich-rechtlicher Vertrag ist nichtig, wenn sich die
 Nichtigkeit aus der entsprechenden Anwendung von Vorschriften des
@@ -1909,6 +1979,7 @@ nichtigen Teil geschlossen worden wäre.
 
 
 #### § 59 Anpassung und Kündigung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008101308)
 
 (1) Haben die Verhältnisse, die für die Festsetzung des
 Vertragsinhalts maßgebend gewesen sind, sich seit Abschluss des
@@ -1927,6 +1998,7 @@ begründet werden.
 
 
 #### § 60 Unterwerfung unter die sofortige Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008205126)
 
 (1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung
 aus einem öffentlich-rechtlichen Vertrag im Sinne des § 53 Abs. 1 Satz
@@ -1946,6 +2018,7 @@ anzuwenden.
 
 
 #### § 61 Ergänzende Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008301308)
 
 Soweit sich aus den §§ 53 bis 60 nichts Abweichendes ergibt, gelten
 die übrigen Vorschriften dieses Gesetzbuches. Ergänzend gelten die
@@ -1953,10 +2026,12 @@ Vorschriften des Bürgerlichen Gesetzbuches entsprechend.
 
 
 ### Fünfter Abschnitt - Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001301308)
 
 
 
 #### § 62 Rechtsbehelfe gegen Verwaltungsakte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008401308)
 
 Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der
 Sozialrechtsweg gegeben ist, das Sozialgerichtsgesetz, wenn der
@@ -1967,6 +2042,7 @@ Vorschriften dieses Gesetzbuches.
 
 
 #### § 63 Erstattung von Kosten im Vorverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008501308)
 
 (1) Soweit der Widerspruch erfolgreich ist, hat der Rechtsträger,
 dessen Behörde den angefochtenen Verwaltungsakt erlassen hat,
@@ -1993,10 +2069,12 @@ war.
 
 
 ### Sechster Abschnitt - Kosten, Zustellung und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001401308)
 
 
 
 #### § 64 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008615126)
 
 (1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden
 keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten
@@ -2050,6 +2128,7 @@ Sozialgerichtsgesetzes bleibt unberührt.
 
 
 #### § 65 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008705126)
 
 (1) Soweit Zustellungen durch Behörden des Bundes, der
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -2068,6 +2147,7 @@ Vorschriften über das Zustellungsverfahren.
 
 
 #### § 66 Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008806126)
 
 (1) Für die Vollstreckung zugunsten der Behörden des Bundes, der
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -2126,14 +2206,17 @@ Satz 3 an die Stelle der Aufsichtsbehörden der Vorstand.
 
 
 ## Zweites Kapitel - Schutz der Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001503119)
 
 
 
 ### Erster Abschnitt - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001603119)
 
 
 
 #### § 67 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE008908126)
 
 (1) Die nachfolgenden Begriffsbestimmungen gelten ergänzend zu Artikel
 4 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des
@@ -2186,10 +2269,12 @@ Rechts, soweit sie nicht unter § 81 Absatz 3 fallen.
 
 
 ### Zweiter Abschnitt - Verarbeitung von Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG001703119)
 
 
 
 #### § 67a Erhebung von Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015604126)
 
 (1) Die Erhebung von Sozialdaten durch die in § 35 des Ersten Buches
 genannten Stellen ist zulässig, wenn ihre Kenntnis zur Erfüllung einer
@@ -2249,6 +2334,7 @@ ihre Mitwirkung dürfen sie nur erhoben werden
 
 
 #### § 67b Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung und Löschung von Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015705126)
 
 (1) Die Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung
 der Verarbeitung und Löschung von Sozialdaten durch die in § 35 des
@@ -2289,6 +2375,7 @@ ergibt, schriftlich festzuhalten.
 
 
 #### § 67c Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE018100126)
 
 (1) Die Speicherung, Veränderung oder Nutzung von Sozialdaten durch
 die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn sie
@@ -2354,6 +2441,7 @@ Identifikationsnummerngesetzes.
 
 
 #### § 67d Übermittlungsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015904126)
 
 (1) Die Verantwortung für die Zulässigkeit der Bekanntgabe von
 Sozialdaten durch ihre Weitergabe an einen Dritten oder durch die
@@ -2387,6 +2475,7 @@ Gesetzbuch die Daten nach Satz 1 nicht aufgeführt werden, ihre
 
 
 #### § 67e Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016606119)
 
 Bei der Prüfung nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder
 nach § 28p des Vierten Buches darf bei der überprüften Person
@@ -2419,6 +2508,7 @@ durchzuführen.
 
 
 #### § 67f Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE018200126)
 
 (1) Wird ein Verwaltungsverfahren elektronisch durchgeführt, ist die
 Erhebung von Sozialdaten zulässig, wenn nach Wahl der betroffenen
@@ -2494,6 +2584,7 @@ nachweisanfordernde Stelle.
 
 
 #### § 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009012126)
 
 (1) Zur Erfüllung von Aufgaben der Polizeibehörden, der
 Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr und
@@ -2538,6 +2629,7 @@ Prüfung der Zulässigkeit der Übermittlung besteht.
 
 
 #### § 69 Übermittlung für die Erfüllung sozialer Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009110126)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist
@@ -2610,6 +2702,7 @@ auf die § 67c Absatz 3 Satz 1 Anwendung findet.
 
 
 #### § 70 Übermittlung für die Durchführung des Arbeitsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009204119)
 
 Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur
 Erfüllung der gesetzlichen Aufgaben der für den Arbeitsschutz
@@ -2621,6 +2714,7 @@ Geheimhaltungsinteresse der betroffenen Person erheblich überwiegt.
 
 
 #### § 71 Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017151126)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für die Erfüllung der gesetzlichen
@@ -2829,6 +2923,7 @@ Arbeitgeber beschränkt.
 
 
 #### § 72 Übermittlung für den Schutz der inneren und äußeren Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009404311)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie im
 Einzelfall für die rechtmäßige Erfüllung der in der Zuständigkeit der
@@ -2851,6 +2946,7 @@ oder allgemeine Stellvertreterin.
 
 
 #### § 73 Übermittlung für die Durchführung eines Strafverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009503119)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur
 Durchführung eines Strafverfahrens wegen eines Verbrechens oder wegen
@@ -2867,6 +2963,7 @@ die Richterin an.
 
 
 #### § 74 Übermittlung bei Verletzung der Unterhaltspflicht und beim Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009607119)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist
@@ -2933,6 +3030,7 @@ Auslandsunterhaltsgesetzes bezeichneten Zwecke erforderlich ist.
 
 
 #### § 74a Übermittlung zur Durchsetzung öffentlich-rechtlicher Ansprüche und im Vollstreckungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017205126)
 
 (1) Zur Durchsetzung von öffentlich-rechtlichen Ansprüchen dürfen im
 Einzelfall auf Ersuchen Name, Vorname, Geburtsdatum, Geburtsort,
@@ -3052,6 +3150,7 @@ sind elektronisch zu übermitteln.
 
 
 #### § 75 Übermittlung von Sozialdaten für die Forschung und Planung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009709126)
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für ein bestimmtes Vorhaben
@@ -3166,6 +3265,7 @@ Absatz 1 des Bundesdatenschutzgesetzes zuständigen Behörde.
 
 
 #### § 76 Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009812124)
 
 (1) Die Übermittlung von Sozialdaten, die einer in § 35 des Ersten
 Buches genannten Stelle von einem Arzt oder einer Ärztin oder einer
@@ -3204,6 +3304,7 @@ Fünften Buches, soweit die Daten durch Personen nach Absatz 1
 
 
 #### § 77 Übermittlung ins Ausland und an internationale Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE009909124)
 
 (1) Die Übermittlung von Sozialdaten an Personen oder Stellen in
 anderen Mitgliedstaaten der Europäischen Union sowie in diesen nach §
@@ -3270,6 +3371,7 @@ werden.
 
 
 #### § 77a Grenzüberschreitende Nachweisabrufe
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE018300126)
 
 (1) Die zuständige Behörde darf bei einer Behörde eines anderen
 Mitgliedstaats der Europäischen Union einen Nachweis nach Artikel 14
@@ -3294,6 +3396,7 @@ Plattformen zum Einsatz kommen.
 
 
 #### § 78 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010010124)
 
 (1) Personen oder Stellen, die nicht in § 35 des Ersten Buches genannt
 und denen Sozialdaten übermittelt worden sind, dürfen diese nur zu dem
@@ -3348,10 +3451,12 @@ in § 35 des Ersten Buches genannten Stellen verarbeiten.
 
 
 ### Dritter Abschnitt - Besondere Datenverarbeitungsarten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG012102119)
 
 
 
 #### § 79 Einrichtung automatisierter Verfahren auf Abruf
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010112119)
 
 (1) Die Einrichtung eines automatisierten Verfahrens, das die
 Übermittlung von Sozialdaten durch Abruf ermöglicht, ist zwischen den
@@ -3424,6 +3529,7 @@ offenstehen.
 
 
 #### § 80 Verarbeitung von Sozialdaten im Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010208126)
 
 (1) Die Erteilung eines Auftrags im Sinne des Artikels 28 der
 Verordnung (EU) 2016/679 zur Verarbeitung von Sozialdaten ist nur
@@ -3496,10 +3602,12 @@ Rechts- oder Fachaufsichtsbehörde mitzuteilen.
 
 
 ### Vierter Abschnitt - Rechte der betroffenen Person, Beauftragte für den Datenschutz und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG012202119)
 
 
 
 #### § 81 Recht auf Anrufung, Beauftragte für den Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010307119)
 
 (1) Ist eine betroffene Person der Ansicht, bei der Verarbeitung ihrer
 Sozialdaten in ihren Rechten verletzt worden zu sein, kann sie sich
@@ -3550,6 +3658,7 @@ entsprechend.
 
 
 #### § 81a Gerichtlicher Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017500119)
 
 (1) Für Streitigkeiten zwischen einer natürlichen oder juristischen
 Person und dem oder der Bundesbeauftragten oder der nach Landesrecht
@@ -3603,6 +3712,7 @@ Absatz 2 Nummer 5 des Sozialgerichtsgesetzes) anordnen.
 
 
 #### § 81b Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017600119)
 
 (1) Für Klagen der betroffenen Person gegen einen Verantwortlichen
 oder einen Auftragsverarbeiter wegen eines Verstoßes gegen
@@ -3625,6 +3735,7 @@ Sozialgerichtsgesetzes bleibt unberührt.
 
 
 #### § 81c Antrag auf gerichtliche Entscheidung bei angenommener Europarechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017700119)
 
 Hält der oder die Bundesbeauftragte oder eine nach Landesrecht für die
 Kontrolle des Datenschutzes zuständige Stelle einen
@@ -3636,6 +3747,7 @@ Bundesdatenschutzgesetzes.
 
 
 #### § 82 Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010404119)
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel
 13 Absatz 1 Buchstabe e der Verordnung (EU) 2016/679 über Kategorien
@@ -3713,6 +3825,7 @@ zulässig.
 
 
 #### § 82a Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017800119)
 
 (1) Die Pflicht einer in § 35 des Ersten Buches genannten Stelle zur
 Information der betroffenen Person gemäß Artikel 14 Absatz 1, 2 und 4
@@ -3769,6 +3882,7 @@ Stellen zulässig.
 
 
 #### § 83 Auskunftsrecht der betroffenen Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010504119)
 
 (1) Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der
 Verordnung (EU) 2016/679 besteht nicht, soweit
@@ -3836,6 +3950,7 @@ Stellen zulässig.
 
 
 #### § 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE017301119)
 
 Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der
 Verordnung (EU) 2016/679 meldet die in § 35 des Ersten Buches genannte
@@ -3844,6 +3959,7 @@ oder Fachaufsichtsbehörde.
 
 
 #### § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010605119)
 
 (1) Ist eine Löschung von Sozialdaten im Fall nicht automatisierter
 Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder
@@ -3893,6 +4009,7 @@ eine Rechtsvorschrift zur Verarbeitung von Sozialdaten verpflichtet.
 
 
 #### § 85 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE010706119)
 
 (1) Für Sozialdaten gelten die Strafvorschriften des § 42 Absatz 1 und
 2 des Bundesdatenschutzgesetzes entsprechend.
@@ -3912,6 +4029,7 @@ verwendet werden.
 
 
 #### § 85a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016306119)
 
 (1) Für Sozialdaten gilt § 41 des Bundesdatenschutzgesetzes
 entsprechend.
@@ -3929,18 +4047,22 @@ Geldbußen verhängt.
 
 
 ## Drittes Kapitel - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011402308)
 
 
 
 ### Erster Abschnitt - Zusammenarbeit der Leistungsträger untereinander und mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011502308)
 
 
 
 #### Erster Titel - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011602308)
 
 
 
 ##### § 86 Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012202308)
 
 Die Leistungsträger, ihre Verbände und die in diesem Gesetzbuch
 genannten öffentlich-rechtlichen Vereinigungen sind verpflichtet, bei
@@ -3949,10 +4071,12 @@ zusammenzuarbeiten.
 
 
 #### Zweiter Titel - Zusammenarbeit der Leistungsträger untereinander
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011702308)
 
 
 
 ##### § 87 Beschleunigung der Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012302308)
 
 (1) Ersucht ein Leistungsträger einen anderen Leistungsträger um
 Verrechnung mit einer Nachzahlung und kann er die Höhe des zu
@@ -3976,6 +4100,7 @@ Leistungsträger befreiende Wirkung. Absatz 1 Satz 2 gilt entsprechend.
 
 
 ##### § 88 Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012403126)
 
 (1) Ein Leistungsträger (Auftraggeber) kann ihm obliegende Aufgaben
 durch einen anderen Leistungsträger oder seinen Verband (Beauftragter)
@@ -4013,6 +4138,7 @@ bekanntzumachen.
 
 
 ##### § 89 Ausführung des Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012502308)
 
 (1) Verwaltungsakte, die der Beauftragte zur Ausführung des Auftrags
 erlässt, ergehen im Namen des Auftraggebers.
@@ -4033,6 +4159,7 @@ Auffassung zu binden.
 
 
 ##### § 90 Anträge und Widerspruch beim Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012602308)
 
 Der Beteiligte kann auch beim Beauftragten Anträge stellen. Erhebt der
 Beteiligte gegen eine Entscheidung des Beauftragten Widerspruch und
@@ -4042,6 +4169,7 @@ Widerspruchsstelle.
 
 
 ##### § 91 Erstattung von Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012702308)
 
 (1) Erbringt ein Beauftragter Sozialleistungen für einen Auftraggeber,
 ist dieser zur Erstattung verpflichtet. Sach- und Dienstleistungen
@@ -4061,6 +4189,7 @@ Erstattungen, sind zulässig.
 
 
 ##### § 92 Kündigung des Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012802308)
 
 Der Auftraggeber oder der Beauftragte kann den Auftrag kündigen. Die
 Kündigung darf nur zu einem Zeitpunkt erfolgen, der es ermöglicht,
@@ -4072,6 +4201,7 @@ gilt entsprechend.
 
 
 ##### § 93 Gesetzlicher Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE012902308)
 
 Handelt ein Leistungsträger auf Grund gesetzlichen Auftrags für einen
 anderen, gelten § 89 Abs. 3 und 5 sowie § 91 Abs. 1 und 3
@@ -4079,6 +4209,7 @@ entsprechend.
 
 
 ##### § 94 Arbeitsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013009124)
 
 (1) Die Arbeitsgemeinschaft für Krebsbekämpfung der Träger der
 gesetzlichen Kranken- und Rentenversicherung im Lande Nordrhein-
@@ -4142,6 +4273,7 @@ Haushaltsplan auf.
 
 
 ##### § 95 Zusammenarbeit bei Planung und Forschung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013102308)
 
 (1) Die in § 86 genannten Stellen sollen
 
@@ -4165,6 +4297,7 @@ gleichen Gegenstand aufeinander abstimmen.
 
 
 ##### § 96 Ärztliche Untersuchungen, psychologische Eignungsuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013204308)
 
 (1) Veranlasst ein Leistungsträger eine ärztliche
 Untersuchungsmaßnahme oder eine psychologische
@@ -4197,10 +4330,12 @@ der ärztlich untersuchten Leistungsempfänger ist nicht zulässig.
 
 
 #### Dritter Titel - Zusammenarbeit der Leistungsträger mit Dritten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011802308)
 
 
 
 ##### § 97 Durchführung von Aufgaben durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013303308)
 
 (1) Kann ein Leistungsträger, ein Verband von Leistungsträgern oder
 eine Arbeitsgemeinschaft von einem Dritten Aufgaben wahrnehmen lassen,
@@ -4227,6 +4362,7 @@ entsprechend.
 
 
 ##### § 98 Auskunftspflicht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013410308)
 
 (1) Soweit es in der Sozialversicherung einschließlich der
 Arbeitslosenversicherung im Einzelfall für die Erbringung von
@@ -4290,6 +4426,7 @@ entrichten haben.
 
 
 ##### § 99 Auskunftspflicht von Angehörigen, Unterhaltspflichtigen oder sonstigen Personen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013503119)
 
 Ist nach dem Recht der Sozialversicherung einschließlich der
 Arbeitslosenversicherung oder dem sozialen Entschädigungsrecht
@@ -4319,6 +4456,7 @@ werden.
 
 
 ##### § 100 Auskunftspflicht des Arztes oder Angehörigen eines anderen Heilberufs
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013604119)
 
 (1) Der Arzt oder Angehörige eines anderen Heilberufs ist
 verpflichtet, dem Leistungsträger im Einzelfall auf Verlangen Auskunft
@@ -4347,6 +4485,7 @@ können verweigert werden.
 
 
 ##### § 101 Auskunftspflicht der Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013702308)
 
 Die Leistungsträger haben auf Verlangen eines behandelnden Arztes
 Untersuchungsbefunde, die für die Behandlung von Bedeutung sein
@@ -4355,6 +4494,7 @@ Mitteilung eingewilligt hat. § 100 Abs. 1 Satz 2 gilt entsprechend.
 
 
 ##### § 101a Mitteilungen der Meldebehörden
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016507124)
 
 (1) Die Datenstelle der Rentenversicherung übermittelt die
 Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede
@@ -4406,10 +4546,12 @@ Post AG
 
 
 ### Zweiter Abschnitt - Erstattungsansprüche der Leistungsträger untereinander
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG011902308)
 
 
 
 #### § 102 Anspruch des vorläufig leistenden Leistungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013802308)
 
 (1) Hat ein Leistungsträger auf Grund gesetzlicher Vorschriften
 vorläufig Sozialleistungen erbracht, ist der zur Leistung
@@ -4420,6 +4562,7 @@ vorleistenden Leistungsträger geltenden Rechtsvorschriften.
 
 
 #### § 103 Anspruch des Leistungsträgers, dessen Leistungsverpflichtung nachträglich entfallen ist
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE013905126)
 
 (1) Hat ein Leistungsträger Sozialleistungen erbracht und ist der
 Anspruch auf diese nachträglich ganz oder teilweise entfallen, ist der
@@ -4441,6 +4584,7 @@ ihre Leistungspflicht vorlagen.
 
 
 #### § 104 Anspruch des nachrangig verpflichteten Leistungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014006126)
 
 (1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen
 erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen,
@@ -4478,6 +4622,7 @@ befreiender Wirkung geleistet hat.
 
 
 #### § 105 Anspruch des unzuständigen Leistungsträgers
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014106126)
 
 (1) Hat ein unzuständiger Leistungsträger Sozialleistungen erbracht,
 ohne dass die Voraussetzungen von § 102 Abs. 1 vorliegen, ist der
@@ -4499,6 +4644,7 @@ ihre Leistungspflicht vorlagen.
 
 
 #### § 106 Rangfolge bei mehreren Erstattungsberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014203308)
 
 (1) Ist ein Leistungsträger mehreren Leistungsträgern zur Erstattung
 verpflichtet, sind die Ansprüche in folgender Rangfolge zu
@@ -4533,6 +4679,7 @@ erbringen hätte.
 
 
 #### § 107 Erfüllung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014302308)
 
 (1) Soweit ein Erstattungsanspruch besteht, gilt der Anspruch des
 Berechtigten gegen den zur Leistung verpflichteten Leistungsträger als
@@ -4545,6 +4692,7 @@ unverzüglich vorzunehmen und den übrigen Leistungsträgern mitzuteilen.
 
 
 #### § 108 Erstattung in Geld, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014406126)
 
 (1) Sach- und Dienstleistungen sind in Geld zu erstatten.
 
@@ -4574,6 +4722,7 @@ Ersten Buches gilt nicht.
 
 
 #### § 109 Verwaltungskosten und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014504308)
 
 Verwaltungskosten sind nicht zu erstatten. Auslagen sind auf
 Anforderung zu erstatten, wenn sie im Einzelfall 200 Euro übersteigen.
@@ -4584,6 +4733,7 @@ anheben und dabei auf zehn Euro nach unten oder oben runden.
 
 
 #### § 110 Pauschalierung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014604308)
 
 Die Leistungsträger haben ihre Erstattungsansprüche pauschal
 abzugelten, soweit dies zweckmäßig ist. Beträgt im Einzelfall ein
@@ -4597,6 +4747,7 @@ unten oder oben runden.
 
 
 #### § 111 Ausschlussfrist
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014702308)
 
 Der Anspruch auf Erstattung ist ausgeschlossen, wenn der
 Erstattungsberechtigte ihn nicht spätestens zwölf Monate nach Ablauf
@@ -4608,12 +4759,14 @@ Kenntnis erlangt hat.
 
 
 #### § 112 Rückerstattung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014802308)
 
 Soweit eine Erstattung zu Unrecht erfolgt ist, sind die gezahlten
 Beträge zurückzuerstatten.
 
 
 #### § 113 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE014903308)
 
 (1) Erstattungsansprüche verjähren in vier Jahren nach Ablauf des
 Kalenderjahres, in dem der erstattungsberechtigte Leistungsträger von
@@ -4628,6 +4781,7 @@ sinngemäß.
 
 
 #### § 114 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015002308)
 
 Für den Erstattungsanspruch ist derselbe Rechtsweg wie für den
 Anspruch auf die Sozialleistung gegeben. Maßgebend ist im Fall des §
@@ -4637,10 +4791,12 @@ Leistungsträger.
 
 
 ### Dritter Abschnitt - Erstattungs- und Ersatzansprüche der Leistungsträger gegen Dritte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG012002308)
 
 
 
 #### § 115 Ansprüche gegen den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015103124)
 
 (1) Soweit der Arbeitgeber den Anspruch des Arbeitnehmers auf
 Arbeitsentgelt nicht erfüllt und deshalb ein Leistungsträger
@@ -4658,6 +4814,7 @@ Werten der Sachbezüge.
 
 
 #### § 116 Ansprüche gegen Schadenersatzpflichtige
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015211126)
 
 (1) Ein auf anderen gesetzlichen Vorschriften beruhender Anspruch auf
 Ersatz eines Schadens geht auf den Versicherungsträger oder Träger der
@@ -4754,6 +4911,7 @@ Versicherungsträger im Sinne dieser Vorschrift.
 
 
 #### § 117 Schadenersatzansprüche mehrerer Leistungsträger
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015302308)
 
 Haben im Einzelfall mehrere Leistungsträger Sozialleistungen erbracht
 und ist in den Fällen des § 116 Abs. 2 und 3 der übergegangene
@@ -4766,6 +4924,7 @@ Leistungsträger können ein anderes Ausgleichsverhältnis vereinbaren.
 
 
 #### § 118 Bindung der Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015402308)
 
 Hat ein Gericht über einen nach § 116 übergegangenen Anspruch zu
 entscheiden, ist es an eine unanfechtbare Entscheidung gebunden, dass
@@ -4774,6 +4933,7 @@ ist.
 
 
 #### § 119 Übergang von Beitragsansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE015503308)
 
 (1) Soweit der Schadenersatzanspruch eines Versicherten den Anspruch
 auf Ersatz von Beiträgen zur Rentenversicherung umfasst, geht dieser
@@ -4817,10 +4977,12 @@ entsprechend.
 
 
 ## Viertes Kapitel - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNG012301308)
 
 
 
 ### § 120 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/sgb_10/BJNR114690980.html#BJNR114690980BJNE016812126)
 
 (1) Die §§ 116 bis 119 sind nur auf Schadensereignisse nach dem 30.
 Juni 1983 anzuwenden; für frühere Schadensereignisse gilt das bis 30.

@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000201360)
 
 (1) Dieses Gesetz gilt für nach deutschem Recht begebene
 inhaltsgleiche Schuldverschreibungen aus Gesamtemissionen
@@ -40,6 +42,7 @@ entsprechend.
 
 
 ### § 2 Anleihebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000301360)
 
 (1) Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und
 Pflichten des Schuldners und der Gläubiger (Anleihebedingungen) müssen
@@ -60,6 +63,7 @@ worden sind.
 
 
 ### § 3 Transparenz des Leistungsversprechens
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000400000)
 
 Nach den Anleihebedingungen muss die vom Schuldner versprochene
 Leistung durch einen Anleger, der hinsichtlich der jeweiligen Art von
@@ -67,6 +71,7 @@ Schuldverschreibungen sachkundig ist, ermittelt werden können.
 
 
 ### § 4 Kollektive Bindung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000500000)
 
 Bestimmungen in Anleihebedingungen können während der Laufzeit der
 Anleihe durch Rechtsgeschäft nur durch gleichlautenden Vertrag mit
@@ -76,9 +81,11 @@ gleich behandeln.
 
 
 ## Abschnitt 2 - Beschlüsse der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNG000200000)
 
 
 ### § 5 Mehrheitsbeschlüsse der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000600000)
 
 (1) Die Anleihebedingungen können vorsehen, dass die Gläubiger
 derselben Anleihe nach Maßgabe dieses Abschnitts durch
@@ -164,6 +171,7 @@ können ausschließlich eine der beiden Möglichkeiten vorsehen.
 
 
 ### § 6 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000700000)
 
 (1) An Abstimmungen der Gläubiger nimmt jeder Gläubiger nach Maßgabe
 des Nennwerts oder des rechnerischen Anteils seiner Berechtigung an
@@ -189,6 +197,7 @@ fordern, sich versprechen lassen oder annehmen.
 
 
 ### § 7 Gemeinsamer Vertreter der Gläubiger
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000800000)
 
 (1) Zum gemeinsamen Vertreter für alle Gläubiger kann jede
 geschäftsfähige Person oder eine sachkundige juristische Person
@@ -251,6 +260,7 @@ Schuldner.
 
 
 ### § 8 Bestellung des gemeinsamen Vertreters in den Anleihebedingungen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE000900000)
 
 (1) Ein gemeinsamer Vertreter der Gläubiger kann bereits in den
 Anleihebedingungen bestellt werden. Mitglieder des Vorstands, des
@@ -283,6 +293,7 @@ gilt § 7 Absatz 2 bis 6 entsprechend.
 
 
 ### § 9 Einberufung der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001001125)
 
 (1) Die Gläubigerversammlung wird vom Schuldner oder von dem
 gemeinsamen Vertreter der Gläubiger einberufen. Sie ist einzuberufen,
@@ -312,6 +323,7 @@ dieses Verfahrens.
 
 
 ### § 10 Frist, Anmeldung, Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001101360)
 
 (1) Die Gläubigerversammlung ist mindestens 14 Tage vor dem Tag der
 Versammlung einzuberufen.
@@ -336,6 +348,7 @@ depotführenden Instituts aus.
 
 
 ### § 11 Ort der Gläubigerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001201123)
 
 Die Gläubigerversammlung soll bei einem Schuldner mit Sitz im Inland
 am Sitz des Schuldners stattfinden. Sind die Schuldverschreibungen an
@@ -349,6 +362,7 @@ Wertpapierhandelsgesetzes bleibt unberührt.
 
 
 ### § 12 Inhalt der Einberufung, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001301360)
 
 (1) In der Einberufung müssen die Firma, der Sitz des Schuldners, die
 Zeit und der Ort der Gläubigerversammlung sowie die Bedingungen
@@ -369,6 +383,7 @@ festgelegten Internetseite den Gläubigern zugänglich zu machen.
 
 
 ### § 13 Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001400000)
 
 (1) Zu jedem Gegenstand, über den die Gläubigerversammlung beschließen
 soll, hat der Einberufende in der Tagesordnung einen Vorschlag zur
@@ -394,6 +409,7 @@ festgelegten Internetseite den Gläubigern zugänglich machen.
 
 
 ### § 14 Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001500000)
 
 (1) Jeder Gläubiger kann sich in der Gläubigerversammlung durch einen
 Bevollmächtigten vertreten lassen. Hierauf ist in der Einberufung der
@@ -408,6 +424,7 @@ vom Schuldner drei Jahre nachprüfbar festzuhalten.
 
 
 ### § 15 Vorsitz, Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001601125)
 
 (1) Der Einberufende führt den Vorsitz in der Gläubigerversammlung,
 sofern nicht das Gericht einen anderen Vorsitzenden bestimmt hat.
@@ -434,6 +451,7 @@ Anforderungen an die Beschlussfähigkeit stellen.
 
 
 ### § 16 Auskunftspflicht, Abstimmung, Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001700000)
 
 (1) Der Schuldner hat jedem Gläubiger auf Verlangen in der
 Gläubigerversammlung Auskunft zu erteilen, soweit sie zur sachgemäßen
@@ -459,6 +477,7 @@ der Niederschrift und der Anlagen verlangen.
 
 
 ### § 17 Bekanntmachung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001802123)
 
 (1) Der Schuldner hat die Beschlüsse der Gläubiger auf seine Kosten in
 geeigneter Form öffentlich bekannt zu machen. Hat der Schuldner seinen
@@ -478,6 +497,7 @@ der Öffentlichkeit zugänglich zu machen.
 
 
 ### § 18 Abstimmung ohne Versammlung
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE001900000)
 
 (1) Auf die Abstimmung ohne Versammlung sind die Vorschriften über die
 Einberufung und Durchführung der Gläubigerversammlung entsprechend
@@ -524,6 +544,7 @@ stattgegeben hat, auch die Kosten des Verfahrens.
 
 
 ### § 19 Insolvenzverfahren und Restrukturierungssachen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002001360)
 
 (1) Ist über das Vermögen des Schuldners im Inland das
 Insolvenzverfahren eröffnet worden, so unterliegen die Beschlüsse der
@@ -558,6 +579,7 @@ die vorstehenden Absätze entsprechend.
 
 
 ### § 20 Anfechtung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002101360)
 
 (1) Ein Beschluss der Gläubiger kann wegen Verletzung des Gesetzes
 oder der Anleihebedingungen durch Klage angefochten werden. Wegen
@@ -605,6 +627,7 @@ Klage dem Vollzug des angefochtenen Beschlusses nicht entgegensteht; §
 
 
 ### § 21 Vollziehung von Beschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002201360)
 
 (1) Beschlüsse der Gläubigerversammlung, durch welche der Inhalt der
 Anleihebedingungen abgeändert oder ergänzt wird, sind in der Weise zu
@@ -636,6 +659,7 @@ der zugrunde liegende Beschluss noch nicht vollzogen werden darf.
 
 
 ### § 22 Geltung für Mitverpflichtete
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002301360)
 
 Die Anleihebedingungen können vorsehen, dass die §§ 5 bis 21 für
 Rechtsgeschäfte entsprechend gelten, durch welche andere Personen als
@@ -647,9 +671,11 @@ vorsehen.
 
 
 ## Abschnitt 3 - Bußgeldvorschriften; Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNG000300000)
 
 
 ### § 23 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002400000)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -679,6 +705,7 @@ hunderttausend Euro geahndet werden.
 
 
 ### § 24 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schvg/BJNR251210009.html#BJNR251210009BJNE002500000)
 
 (1) Dieses Gesetz ist nicht anzuwenden auf Schuldverschreibungen, die
 vor dem 5. August 2009 ausgegeben wurden. Auf diese

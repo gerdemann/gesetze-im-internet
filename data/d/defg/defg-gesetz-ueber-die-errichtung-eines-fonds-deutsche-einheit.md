@@ -20,12 +20,14 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004000328)
 
 Es wird ein Fonds "Deutsche Einheit" als Sondervermögen des Bundes
 errichtet.
 
 
 ## § 2 Zweck des Fonds, Neuregelung der Bund-Länder-Finanzbeziehungen ab 1995
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004104305)
 
 (1) Der Fonds dient der Erfüllung der Verpflichtungen der
 Bundesrepublik Deutschland aus Artikel 28 des Staatsvertrags mit der
@@ -54,6 +56,7 @@ Bundesergänzungszuweisungen) neu zu regeln.
 
 
 ## § 3 Stellung im Rechtsverkehr, Verwaltung, Beirat
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004200328)
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
 rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Der
@@ -64,6 +67,7 @@ Länder gleichberechtigt vertreten sind.
 
 
 ## § 4 Vermögenstrennung, Bundeshaftung
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004300328)
 
 (1) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten
 und Verbindlichkeiten getrennt zu halten.
@@ -72,6 +76,7 @@ und Verbindlichkeiten getrennt zu halten.
 
 
 ## § 5 Finanzierung, Kreditermächtigungen, Verwaltung der Kredite des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004406377)
 
 (1) Der Gesamtbetrag der Kreditermächtigungen für den Fonds im
 Zeitraum 1990 bis 1994 darf 95 Milliarden DM nicht überschreiten. Der
@@ -132,6 +137,7 @@ allgemeinen Bundesschuld jeweils geltenden Grundsätzen verwaltet.
 
 
 ## § 6 Bundeszuschüsse
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004507377)
 
 (1) Der Fonds erhält bis zum 31. Dezember 2004 Zuschüsse aus dem
 Bundeshaushalt zur Abdeckung seiner Schuldendienstverpflichtungen.
@@ -186,6 +192,7 @@ um 777.163.659,42 Euro, 2001 um 932.596.391,30 Euro, 2002 um
 
 
 ## § 6a Eingliederung der Verbindlichkeiten des Fonds in Bundesschuld
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE005000377)
 
 Der Bund übernimmt ab 1. Januar 2005 als Mitschuldner die
 Verbindlichkeiten des Fonds; im Innenverhältnis zu dem Fonds ist der
@@ -193,6 +200,7 @@ Bund alleiniger Schuldner.
 
 
 ## § 6b Abrechnung nach Ablauf des Jahres 2019
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE005100377)
 
 (1) Die Länder leisten einen Ausgleich an den Bund, wenn der nach
 Maßgabe des Absatzes 3 ermittelte Betrag für die Schulden des Fonds am
@@ -252,6 +260,7 @@ Bundesministerium der Finanzen mitgeteilt.
 
 
 ## § 7 Wirtschaftsplan
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004601305)
 
 Alle Einnahmen und Ausgaben des Fonds werden ab 1. Januar 1991 für
 jedes Rechnungsjahr in einem Wirtschaftsplan veranschlagt. Der
@@ -260,6 +269,7 @@ Aufstellung der Wirtschaftspläne wirkt der Beirat mit.
 
 
 ## § 8 Jahresrechnung
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004700328)
 
 (1) Der Bundesminister der Finanzen stellt am Schluß eines jeden
 Rechnungsjahres die Jahresrechnung für den Fonds auf und fügt sie als
@@ -271,11 +281,13 @@ erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
 
 
 ## § 9 Verwaltungskosten
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004800328)
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 
 ## § 10 Gleichstellung mit Bundesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE004900328)
 
 Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die
 Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des
@@ -284,6 +296,7 @@ Bundesbehörden geltenden Vorschriften Anwendung.
 
 
 ## § 11 Auflösung des Fonds
+[Direktlink](https://www.gesetze-im-internet.de/defg/BJNR205330990.html#BJNR205330990BJNE005200377)
 
 Mit Ablauf des Jahres 2019 wird der Fonds aufgelöst. Die
 Verbindlichkeiten und das Vermögen des Fonds gehen auf den Bund über.

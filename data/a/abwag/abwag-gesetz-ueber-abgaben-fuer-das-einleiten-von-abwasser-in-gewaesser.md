@@ -34,10 +34,12 @@ Rates
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNG000103377)
 
 
 
 ### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE000604377)
 
 Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer
 1 bis 3 des Wasserhaushaltsgesetzes ist eine Abgabe zu entrichten
@@ -45,6 +47,7 @@ Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE000703377)
 
 (1) Abwasser im Sinne dieses Gesetzes sind das durch häuslichen,
 gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch in seinen
@@ -68,6 +71,7 @@ verhindern.
 
 
 ### § 3 Bewertungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE000805377)
 
 (1) Die Abwasserabgabe richtet sich nach der Schädlichkeit des
 Abwassers, die unter Zugrundelegung der oxidierbaren Stoffe, des
@@ -99,10 +103,12 @@ Bewertung der Schädlichkeit nicht wesentlich verändert wird.
 
 
 ## Zweiter Abschnitt - Ermittlung der Schädlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNG000203377)
 
 
 
 ### § 4 Ermittlung auf Grund des Bescheides
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE000908118)
 
 (1) Die der Ermittlung der Zahl der Schadeinheiten zugrunde zu legende
 Schadstofffracht errechnet sich außer bei Niederschlagswasser (§ 7)
@@ -191,11 +197,13 @@ nicht als eingehalten gilt, finden die Absätze 1 bis 4 Anwendung.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001003377)
 
 (weggefallen)
 
 
 ### § 6 Ermittlung in sonstigen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001103377)
 
 (1) Soweit die zur Ermittlung der Schadeinheiten erforderlichen
 Festlegungen nicht in einem Bescheid nach § 4 Abs. 1 enthalten sind,
@@ -214,6 +222,7 @@ der Ermittlung der Schadeinheiten geschätzt.
 
 
 ### § 7 Pauschalierung bei Einleitung von verschmutztem Niederschlagswasser
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001203377)
 
 (1) Die Zahl der Schadeinheiten von Niederschlagswasser, das über eine
 öffentliche Kanalisation eingeleitet wird, beträgt zwölf vom Hundert
@@ -230,6 +239,7 @@ bleibt.
 
 
 ### § 8 Pauschalierung bei Kleineinleitungen von Schmutzwasser aus Haushaltungen und ähnlichem Schmutzwasser
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001303377)
 
 (1) Die Zahl der Schadeinheiten von Schmutzwasser aus Haushaltungen
 und ähnlichem Schmutzwasser, für das eine Körperschaft des
@@ -247,10 +257,12 @@ Schlammbeseitigung sichergestellt ist.
 
 
 ## Dritter Abschnitt - Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNG000303377)
 
 
 
 ### § 9 Abgabepflicht, Abgabesatz
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001409377)
 
 (1) Abgabepflichtig ist, wer Abwasser einleitet (Einleiter).
 
@@ -351,6 +363,7 @@ Voraussetzungen des Absatzes 5 erfüllt.
 
 
 ### § 10 Ausnahmen von der Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001506377)
 
 (1) Nicht abgabepflichtig ist das Einleiten von
 
@@ -413,10 +426,12 @@ Einleitungen in diesem Gebiet bis zum Veranlagungsjahr 2005 schuldet.
 
 
 ## Vierter Abschnitt - Festsetzung, Erhebung und Verwendung der Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNG000403377)
 
 
 
 ### § 11 Veranlagungszeitraum, Erklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001603377)
 
 (1) Veranlagungszeitraum ist das Kalenderjahr.
 
@@ -435,6 +450,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 
 ### § 12 Verletzung der Erklärungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001703377)
 
 (1) Kommt der Abgabepflichtige seinen Verpflichtungen nach § 11 Abs. 2
 Satz 1 und den ergänzenden Vorschriften der Länder nicht nach, so kann
@@ -449,6 +465,7 @@ Abgabepflichtige und der Einleiter als Gesamtschuldner.
 
 
 ### § 12a Rechtsbehelfe gegen die Heranziehung
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001803377)
 
 Widerspruch und Anfechtungsklage gegen die Anforderung der Abgabe
 haben keine aufschiebende Wirkung. Satz 1 ist auch auf Bescheide
@@ -456,6 +473,7 @@ anzuwenden, die vor dem 19. Dezember 1984 erlassen worden sind.
 
 
 ### § 13 Verwendung
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE001903377)
 
 (1) Das Aufkommen der Abwasserabgabe ist für Maßnahmen, die der
 Erhaltung oder Verbesserung der Gewässergüte dienen, zweckgebunden.
@@ -499,10 +517,12 @@ gedeckt wird.
 
 
 ## Fünfter Abschnitt - Gemeinsame Vorschriften; Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNG000503377)
 
 
 
 ### § 14 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002003377)
 
 Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften
 des § 370 Abs. 1, 2 und 4 und des § 371 der Abgabenordnung (AO 1977)
@@ -511,6 +531,7 @@ Bußgeldvorschrift des § 378 der Abgabenordnung (AO 1977) entsprechend.
 
 
 ### § 15 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002104377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -530,6 +551,7 @@ zweitausendfünfhundert Euro geahndet werden.
 
 
 ### § 16 Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002203377)
 
 § 1 findet auch Anwendung, wenn die Länder Berlin und Hamburg selbst
 abgabepflichtig sind. § 9 Abs. 2 Satz 1 und 2 gilt für die Länder
@@ -538,16 +560,19 @@ abgabepflichtig bestimmen können.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002304377)
 
 (weggefallen)
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002403377)
 
 (Inkrafttreten)
 
 
 ### Anlage (zu § 3)
+[Direktlink](https://www.gesetze-im-internet.de/abwag/BJNR027210976.html#BJNR027210976BJNE002509118)
 
 (Fundstelle: BGBl. I 2005, 119;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

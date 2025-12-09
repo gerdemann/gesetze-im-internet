@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000400319)
 
 Auf Grund des § 7 Abs. 2, des § 9 Abs. 2 und des § 10 Abs. 1 des
 Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957
@@ -29,10 +30,12 @@ Bundesrates verordnet:
 
 
 ## Erster Abschnitt - Nachweis der Verleihung von Orden und Ehrenzeichen
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNG000100319)
 
 
 
 ### § 1 Ausstellung eines urkundlichen Besitznachweises
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000500319)
 
 (1) Als Besitznachweis für Orden und Ehrenzeichen, die vor dem 8. Mai
 1945 verliehen worden sind, gelten auch
@@ -57,6 +60,7 @@ Antrag ausgestellt.
 
 
 ### § 2 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000601311)
 
 Für die Ausstellung einer Ersatzurkunde nach § 9 Abs. 1 des
 Ordensgesetzes ist, wenn der Berechtigte seinen Wohnsitz oder
@@ -66,6 +70,7 @@ ihm bestimmte Stelle zuständig.
 
 
 ### § 3 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000702311)
 
 (1) Der Antrag ist von dem Antragsteller schriftlich in doppelter
 Ausfertigung auf einem Formblatt nach dem Muster der Anlage 1 bei der
@@ -84,6 +89,7 @@ den Antrag bei ihrem nächsten Disziplinarvorgesetzten ein.
 
 
 ### § 4 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000800319)
 
 (1) Der Antrag muß enthalten
 
@@ -142,6 +148,7 @@ Antrag abgelehnt werden.
 
 
 ### § 5 Prüfung des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE000904311)
 
 (1) Die für die Ausstellung der Ersatzurkunde zuständige Behörde
 leitet eine Ausfertigung des Antrags wie folgt weiter:
@@ -208,6 +215,7 @@ Betracht, so ist nach § 8 Abs. 2 oder nach § 9 zu verfahren.
 
 
 ### § 6 Zweitausfertigung
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001000319)
 
 Die in § 5 genannten Stellen erledigen den Antrag durch Ausstellung
 einer Zweitausfertigung der Verleihungsurkunde oder des
@@ -222,6 +230,7 @@ Zweitausfertigung zu unterrichten.
 
 
 ### § 7 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001100319)
 
 (1) Ist aus den vorhandenen Unterlagen die Verleihung der Auszeichnung
 ersichtlich, ohne daß jedoch eine Zweitausfertigung (§ 6) ausgestellt
@@ -254,6 +263,7 @@ erledigt.
 
 
 ### § 8 Nachweis der Verleihung durch den Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001200319)
 
 (1) Sind bei der Stelle, an die eine Ausfertigung des Antrags
 weitergeleitet wurde (§ 5 Abs. 1, 2 und 3), Unterlagen über die
@@ -315,6 +325,7 @@ Frist setzen, die mindestens sechs Monate betragen muß.
 
 
 ### § 9 Verwundetenabzeichen des zweiten Weltkrieges
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001301311)
 
 (1) Sind bei der Stelle, an die eine Ausfertigung des Antrags
 weitergeleitet wurde (§ 5 Abs. 1, 2 und 3) Unterlagen über die
@@ -339,6 +350,7 @@ dieser Verordnung zu erlangen, hin. Sein Antrag ist damit erledigt.
 
 
 ### § 10 Ausstellung der Ersatzurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001400319)
 
 Hält die für die Ausstellung der Ersatzurkunde zuständige Behörde den
 Nachweis der ordnungsgemäßen Verleihung für erbracht und sind keine
@@ -350,6 +362,7 @@ Anlage 4 aus.
 
 
 ### § 11 Versagung der Ersatzurkunde
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001500319)
 
 Liegen die Voraussetzungen für die Ausstellung einer Ersatzurkunde
 nach § 10 nicht vor, so ist der Antrag abzulehnen. Wegen mangelnden
@@ -359,6 +372,7 @@ Frist gesetzt wurde und diese abgelaufen ist.
 
 
 ### § 12 Form von Bescheiden
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001600319)
 
 Ablehnende Bescheide nach § 11 und Mitteilungen nach § 9 Abs. 2 sind
 schriftlich zu erteilen, zu begründen, mit einer Rechtsmittelbelehrung
@@ -366,10 +380,12 @@ zu versehen und zuzustellen.
 
 
 ## Zweiter Abschnitt - Nachweis von Verwundungen und Beschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNG000200319)
 
 
 
 ### § 13 Berechtigungsausweis
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001700319)
 
 (1) Wer durch Kriegseinwirkungen verletzt wurde, kann auf Antrag eine
 Bescheinigung nach dem Muster der Anlage 5 (Berechtigungsausweis)
@@ -404,12 +420,14 @@ nicht ausgestellt.
 
 
 ### § 14 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001800319)
 
 Zuständig für die Ausstellung von Berechtigungsausweisen sind die von
 den Landesregierungen bestimmten Behörden.
 
 
 ### § 15 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE001902377)
 
 (1) Das Verfahren für die Ausstellung von Berechtigungsausweisen
 richtet sich nach dem Gesetz über das Verwaltungsverfahren der
@@ -423,6 +441,7 @@ Krankenbuchlager bei den Versorgungsämtern Berlin, Kassel und München.
 
 
 ### § 16 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002001377)
 
 (1) Der Antrag auf Ausstellung eines Berechtigungsausweises ist
 schriftlich bei der nach § 14 zuständigen Behörde einzureichen.
@@ -436,6 +455,7 @@ unverzüglich an die nach § 14 zuständige Behörde weiter.
 
 
 ### § 17 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002100319)
 
 (1) Der Antrag muß enthalten
 
@@ -509,6 +529,7 @@ unverzüglich an die nach § 14 zuständige Behörde weiter.
 
 
 ### § 18 Nachweis von Verwundungen und Beschädigungen durch den Antragsteller
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002200319)
 
 Verwundungen oder Beschädigungen kann der Antragsteller der
 zuständigen Behörde (§ 14) gegenüber nachweisen durch
@@ -545,6 +566,7 @@ zuständigen Behörde (§ 14) gegenüber nachweisen durch
 
 
 ### § 19 Ausstellung eines Berechtigungsausweises
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002300319)
 
 (1) Der Berechtigungsausweis (§ 13) ist von der zuständigen Behörde (§
 14) für die Stufe auszustellen, in der der Antragsteller nach § 7 Abs.
@@ -556,6 +578,7 @@ Berechtigungsausweises nicht vor, so ist der Antrag abzulehnen.
 
 
 ### § 20 Entscheidungen der nach § 14 zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002400319)
 
 Soweit in den Ausführungsbestimmungen zur Verordnung über die Stiftung
 eines Verwundetenabzeichens vom 1. September 1939 (Reichsgesetzbl. I
@@ -566,10 +589,12 @@ Behörden über die Ausstellung von Berechtigungsausweisen.
 
 
 ## Dritter Abschnitt - Gemeinsame Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNG000300319)
 
 
 
 ### § 21 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002500319)
 
 (1) Bescheinigungen nach § 1 Abs. 1, Ersatzurkunden nach § 10 und
 Berechtigungsausweise nach § 19 dieser Verordnung sind einzuziehen,
@@ -580,6 +605,7 @@ Ausstellung nicht vorgelegen haben.
 
 
 ### § 22 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002600319)
 
 (1) Die Bundesbehörden erheben für die Ausstellung von Bescheinigungen
 nach § 1 Abs. 1 Buchstabe a Gebühren. Die Gebühr beträgt für jede
@@ -591,6 +617,7 @@ erlassen werden.
 
 
 ### § 23 Geltung in Berlin
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002700319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 18 des
@@ -598,41 +625,48 @@ Ordensgesetzes auch im Land Berlin.
 
 
 ### § 24 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002800319)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE002900319)
 
 Der Bundesminister des Innern
 
 (zu § 3 Abs. 1)
 
 ### Anlage 1 Antrag auf Zustellung eines urkundlichen Besitznachweises
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE003000319)
 
 (Inhalt: nicht erfaßtes Muster eines Antrags,
 Fundstelle: BGBl. Teil III 1133-2, S. 18 - 19)
 
 
 ### Anlage 2 (zu § 7 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE003100319)
 
 (Inhalt: nicht erfaßtes Muster einer Bescheinigung,
 Fundstelle: BGBl. Teil III 1133-2, S. 20)
 
 
 ### Anlage 3 (zu § 7 Abs. 3)
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE003200319)
 
 (Inhalt: nicht erfaßtes Muster eines Formblatts,
 Fundstelle: BGBl. Teil III 1133-2, S. 20)
 
 
 ### Anlage 4
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE003300319)
 
 (Inhalt: nicht erfaßtes Muster einer Ersatzurkunde,
 Fundstelle: BGBl. Teil III 1133-2, S. 21)
 
 
 ### Anlage 5 (zu § 13 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/ordennachwv/BJNR002470959.html#BJNR002470959BJNE003400319)
 
 (Inhalt: nicht erfaßtes Muster eines Berechtigungsausweises,
 Fundstelle: BGBl. Teil III 1133-2, S. 21)

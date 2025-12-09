@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000200307)
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom
@@ -30,17 +31,20 @@ Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000300307)
 
 Der Ausbildungsberuf Figurenkeramformer/Figurenkeramformerin wird
 staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000400307)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000500307)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -92,6 +96,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000600307)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -110,12 +115,14 @@ nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000700307)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000800307)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -124,6 +131,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE000900307)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -177,6 +185,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE001000307)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -307,6 +316,7 @@ Technologie mindestens ausreichende Leistungen erbracht sind.
 
 
 ## § 9 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE001100307)
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
@@ -315,6 +325,7 @@ nicht mehr anzuwenden.
 
 
 ## § 10 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE001200307)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -323,12 +334,14 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE001300307)
 
 Diese Verordnung tritt am 1. August 1995 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Figurenkeramformer/zur Figurenkeramformerin
+[Direktlink](https://www.gesetze-im-internet.de/fkeramausbv/BJNR009800995.html#BJNR009800995BJNE001400307)
 
 (Fundstelle: BGBl. I 1995, 100 - 102)
 

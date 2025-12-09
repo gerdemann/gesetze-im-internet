@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sgbbeglv/BJNR052800003.html#BJNR052800003BJNE000100311)
 
 Auf Grund des § 29 Abs. 1 Satz 2 und Abs. 4 und des § 30 Abs. 1 Satz 1
 und Abs. 4 in Verbindung mit Abs. 5 des Zehnten Buches
@@ -29,6 +30,7 @@ Bundesregierung:
 
 
 ## § 1 Zu Beglaubigungen befugte Behörden
+[Direktlink](https://www.gesetze-im-internet.de/sgbbeglv/BJNR052800003.html#BJNR052800003BJNE000200311)
 
 Die Behörden des Bundes und der bundesunmittelbaren Körperschaften,
 Anstalten und Stiftungen des öffentlichen Rechts sind befugt,
@@ -37,6 +39,7 @@ Sozialgesetzbuch vorzunehmen.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sgbbeglv/BJNR052800003.html#BJNR052800003BJNE000300311)
 
 Diese Verordnung tritt mit Wirkung vom 1. Februar 2003 in Kraft.
 

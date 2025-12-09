@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000100000)
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
 Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
@@ -28,9 +29,11 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNG000100000)
 
 
 ### § 1 Abkommen
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000200000)
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung
@@ -40,6 +43,7 @@ jeweils geltenden Fassung.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000300000)
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
 die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
@@ -49,9 +53,11 @@ worden sind, richtet sich nach dieser Verordnung.
 
 
 ## Abschnitt 2 - Besteuerung von Abfindungszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNG000200000)
 
 
 ### § 3 Kausalitätsprinzip bei Arbeitnehmern
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000400000)
 
 Für die Anwendung des Artikels 15 Absatz 1 des Abkommens ist darauf
 abzustellen, ob die betreffenden Zahlungen als Entgelt für die im
@@ -63,6 +69,7 @@ ist oder nicht.
 
 
 ### § 4 Gehaltsfortzahlung nach vorzeitiger Beendigung des Dienstverhältnisses durch einen Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000500000)
 
 Verlegt ein in einem Vertragsstaat ansässiger Arbeitnehmer aus Anlass
 der vorzeitigen Beendigung seines Dienstverhältnisses seinen Wohnsitz
@@ -74,6 +81,7 @@ besteuerungsberechtigt war.
 
 
 ### § 5 Zahlungen für ein Konkurrenz- und Wettbewerbsverbot
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000600000)
 
 Zahlungen für ein Konkurrenz- und Wettbewerbsverbot nach Beendigung
 des Dienstverhältnisses unterliegen in dem Staat der Besteuerung, der
@@ -82,6 +90,7 @@ war.
 
 
 ### § 6 Abfindung, Urlaubsentschädigung und Qualifikationskonflikte
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000700000)
 
 (1) Eine gesetzliche oder freiwillige Abfindung aus Anlass der
 Beendigung des Arbeitsverhältnisses sowie eine Urlaubsentschädigung
@@ -106,20 +115,24 @@ vermieden.
 
 
 ## Abschnitt 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNG000300000)
 
 
 ### § 7 Anwendungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000800000)
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
 
 ### § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE000900000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/konsverautv/BJNR218500010.html#BJNR218500010BJNE001000000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000100325)
 
 
 
 ### § 1 Gegenstand von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE000701305)
 
 (1) Um die für Zwecke der Verteidigung erforderlichen lebenswichtigen
 Verkehrsleistungen, insbesondere zur Versorgung der Zivilbevölkerung
@@ -93,6 +95,7 @@ Vorschriften auch erlassen werden über
 
 
 ### § 2 Voraussetzungen und Grenzen der Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE000800325)
 
 (1) Rechtsverordnungen nach § 1 dürfen nur erlassen werden,
 
@@ -117,6 +120,7 @@ möglichst wenig beeinträchtigt wird.
 
 
 ### § 3 Rechtsverordnungen über Buchführungs- und Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE000900325)
 
 Durch Rechtsverordnung können zu den in § 1 genannten Zwecken
 Meldepflichten über Verkehrsmittel, -anlagen und -einrichtungen sowie
@@ -125,6 +129,7 @@ besondere Buchführungs- und Meldepflichten über Verkehrsleistungen und
 
 
 ### § 4 Rechtsverordnungen über Bevorratungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001000325)
 
 (1) Durch Rechtsverordnung können zu den in § 1 genannten Zwecken für
 Unternehmen, die Eigentümer oder Besitzer von Verkehrsmitteln,
@@ -166,6 +171,7 @@ Bewertungsabschlag, anzusetzen.
 
 
 ### § 5 Zuständigkeiten zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001103305)
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
 Bundesregierung. Die Bundesregierung kann diese Befugnis durch
@@ -189,6 +195,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates auf
 
 
 ### § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001203305)
 
 (1) Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
 für Verkehr und digitale Infrastruktur nach § 1 bedürfen nicht der
@@ -202,6 +209,7 @@ Bundesrates.
 
 
 ### § 7 Geltungsdauer der Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001303305)
 
 (1) Befristete Rechtsverordnungen nach den §§ 1, 3, 4 und 5 Abs. 2,
 die bei Eintritt der Voraussetzung des § 2 Abs. 3 in Kraft sind,
@@ -220,6 +228,7 @@ spätestens mit dieser Rechtsverordnung außer Kraft.
 
 
 ### § 8 Verfügungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001403305)
 
 Die Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
 für Verkehr und digitale Infrastruktur nach den §§ 1, 3 und 4 können
@@ -233,10 +242,12 @@ nicht rechtzeitig erreicht werden kann.
 
 
 ## Zweiter Abschnitt - Sicherstellung durch Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000200325)
 
 
 
 ### § 9 Leistungspflichtige
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001500325)
 
 (1) Eisenbahnen im Sinne des Allgemeinen Eisenbahngesetzes,
 öffentlich-rechtliche Träger von Bau- und Unterhaltungslasten an
@@ -251,6 +262,7 @@ Zwecke des § 1 Abs. 1 des Bundesleistungsgesetzes verpflichtet.
 
 
 ### § 10 Leistungspflicht der Eisenbahnen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001604305)
 
 (1) Öffentliche Eisenbahnen sind gegenüber den Behörden und
 Dienststellen, die zur Erfüllung ihrer Aufgaben auf Verkehrsleistungen
@@ -340,6 +352,7 @@ Bundesrates ganz oder teilweise auf Bundesbehörden übertragen.
 
 
 ### § 10a Besondere Leistungspflichten der Eisenbahnen des Bundes und der Deutschen Flugsicherung und besondere Maßnahmen für den Bereich der Bundesfernstraßen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE004305305)
 
 (1) Eisenbahnen des Bundes und die DFS Deutsche Flugsicherung GmbH
 können vom Bundesministerium für Verkehr und digitale Infrastruktur
@@ -364,6 +377,7 @@ für den Bereich der Bundesfernstraßen besondere Maßnahmen nach Absatz
 
 
 ### § 10b Vorhaltung der Eisenbahninfrastruktur
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE004403305)
 
 (1) Eisenbahnen des Bundes sind verpflichtet, dem Bundesminister für
 Verkehr und digitale Infrastruktur jede beabsichtigte
@@ -404,6 +418,7 @@ bisherigen Bundeseisenbahnen vorgehalten worden sind.
 
 
 ### § 11 Leistungspflicht der Baulastträger
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001700325)
 
 (1) Die öffentlich-rechtlichen Träger von Bau- und Unterhaltungslasten
 an Straßen und schiffbaren Gewässern einschließlich Häfen können
@@ -435,6 +450,7 @@ herzustellen.
 
 
 ### § 12 Erweiterte Leistungspflicht von Verkehrsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001800325)
 
 Verkehrsunternehmen, die einer gesetzlichen Betriebs- und
 Beförderungspflicht unterliegen, können hinsichtlich der zur
@@ -446,6 +462,7 @@ Voraussetzung des § 2 Abs. 3 vorliegt.
 
 
 ### § 13 Verwahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE001901314)
 
 (1) Die Eigentümer, Besitzer und Führer von See- und Binnenschiffen,
 Luftfahrzeugen, Straßenfahrzeugen und Schienenfahrzeugen sowie die
@@ -469,6 +486,7 @@ und über die Verwendung verbunden werden.
 
 
 ### § 14 Verkehrsräumung, Standort- und Wegeänderungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002003305)
 
 (1) Die Eigentümer, Besitzer und Führer von Verkehrsmitteln können
 verpflichtet werden, diese zu ihrem Schutz nach einem zu bezeichnenden
@@ -497,6 +515,7 @@ Artikels 80a des Grundgesetzes angewandt werden.
 
 
 ### § 15 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002101311)
 
 (1) Zur Durchführung dieses Gesetzes sowie zur Vorbereitung und
 Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes haben
@@ -533,10 +552,12 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 
 
 ## Dritter Abschnitt - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000300325)
 
 
 
 ### § 16 Interessenausgleich
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002200325)
 
 (1) Bei der Durchführung dieses Gesetzes und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen ist darauf hinzuwirken, daß die
@@ -553,6 +574,7 @@ Verkehrsanlagen nicht mehr beeinträchtigt werden, als dies im
 
 
 ### § 17 Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002300325)
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
@@ -561,6 +583,7 @@ Zwecke erforderlich sind.
 
 
 ### § 18 Zustellungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002401301)
 
 Für Zustellungen durch die Verwaltungsbehörden gelten die Vorschriften
 des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
@@ -586,6 +609,7 @@ des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
 
 
 ### § 19 Ausführung des Gesetzes für Verteidigungszwecke
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002505311)
 
 (1) Die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen obliegt für die in § 1 genannten Zwecke
@@ -673,6 +697,7 @@ Verordnungen besondere Stellen einzurichten sind.
 
 
 ### § 20 Ausführung des Gesetzes für die Zwecke nach § 9 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002601314)
 
 Die Ausführung dieses Gesetzes für die in § 9 Abs. 2 genannten Zwecke
 obliegt hinsichtlich der Eisenbahnen des Bundes dem Bund, im übrigen
@@ -680,6 +705,7 @@ den Ländern als eigene Angelegenheit.
 
 
 ### § 21 Mitwirkung von Vereinigungen und Hilfsorganen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002700325)
 
 (1) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann bestimmt werden,
 daß
@@ -715,6 +741,7 @@ bedienen.
 
 
 ### § 22 Rechtsmittelbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002800325)
 
 In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem
 Gesetz oder einer auf diesem Gesetz beruhenden Rechtsverordnung sind
@@ -726,10 +753,12 @@ des § 2 Abs. 3 verkündet oder zugestellt worden ist.
 
 
 ## Vierter Abschnitt - Entschädigungen und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000400325)
 
 
 
 ### § 23 Entschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE002900325)
 
 (1) Leistungen nach den §§ 10 bis 12 sind in sinngemäßer Anwendung der
 §§ 20 bis 32 des Bundesleistungsgesetzes abzugelten. § 25 des
@@ -772,6 +801,7 @@ Leistung nach Tarifen bemißt.
 
 
 ### § 24 Härteausgleich
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003000325)
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
 diesem Gesetz erlassenen Rechtsverordnung dem Betroffenen ein
@@ -786,6 +816,7 @@ verpflichtet.
 
 
 ### § 25 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003100325)
 
 (1) Der Bund trägt die Kosten der Maßnahmen, die den Ländern,
 Gemeinden und Gemeindeverbänden durch dieses Gesetz, durch die auf
@@ -816,10 +847,12 @@ Gemeindebehörden angewendet werden.
 
 
 ## Fünfter Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000500325)
 
 
 
 ### § 26 Zuwiderhandlungen gegen Sicherstellungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003200325)
 
 Eine Zuwiderhandlung im Sinne des Wirtschaftsstrafgesetzes 1954
 begeht, wer vorsätzlich oder fahrlässig
@@ -841,11 +874,13 @@ begeht, wer vorsätzlich oder fahrlässig
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003300325)
 
 -
 
 
 ### § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003401308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -880,6 +915,7 @@ Euro geahndet werden.
 
 
 ### § 29 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003503305)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist bei Zuwiderhandlungen gegen
@@ -916,10 +952,12 @@ Ordnungswidrigkeiten ist bei Zuwiderhandlungen gegen
 
 
 ## Sechster Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNG000600325)
 
 
 
 ### § 30 Ausnahmen und Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003610119)
 
 (1) Die Streitkräfte, die Bundespolizei, die Polizei, die
 Organisationen des Zivilschutzes und die Unternehmen, die nach Kapitel
@@ -964,11 +1002,13 @@ ist.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003700325)
 
 -
 
 
 ### § 32 Einschränkung der Grundrechte
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003800325)
 
 Die Grundrechte der Freizügigkeit (Artikel 11 des Grundgesetzes) und
 der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes)
@@ -976,6 +1016,7 @@ werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
 
 ### § 33 Hamburg-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE003900325)
 
 Die Zuständigkeiten der Freien und Hansestadt Hamburg auf Grund der
 mit Hamburg und Preußen abgeschlossenen Zusatzverträge zum
@@ -991,6 +1032,7 @@ bleiben unberührt.
 
 
 ### § 34 Stadtstaaten-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE004001308)
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 die auf Grund dieses Gesetzes erlassenen Vorschriften über die
@@ -999,11 +1041,13 @@ Länder anzupassen.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE004100325)
 
 -
 
 
 ### § 36 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verksig/BJNR009270965.html#BJNR009270965BJNE004200325)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

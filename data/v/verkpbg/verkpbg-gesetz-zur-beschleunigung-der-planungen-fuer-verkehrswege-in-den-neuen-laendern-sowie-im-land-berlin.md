@@ -21,12 +21,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## § 1 Geltungsdauer, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000208305)
 
 (1) Für die Planung des Baus und der Änderung von
 
@@ -66,6 +68,7 @@ Bundesgebietes im einzelnen.
 
 
 ## § 2 Linienbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000305305)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt die Linienführung der Verkehrswege mit Ausnahme der
@@ -86,6 +89,7 @@ Planfeststellungsverfahren stattfindet.
 
 
 ## § 3 Planfeststellungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000401314)
 
 (1) Die Einholung der Stellungnahmen der Behörden nach § 73 Abs. 2 des
 Verwaltungsverfahrensgesetzes sowie die Auslegung des Plans (§ 73 Abs.
@@ -118,11 +122,13 @@ landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000501314)
 
 -
 
 
 ## § 5 Verwaltungsgerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000600307)
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug über sämtliche Streitigkeiten, die
@@ -149,16 +155,19 @@ der Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000702314)
 
 (weggefallen)
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000801314)
 
 (weggefallen)
 
 
 ## § 8 Vertreter des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE000901314)
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
 die kommunale Aufsichtsbehörde der Gemeinde, in der das Grundstück
@@ -172,6 +181,7 @@ Verwaltungsverfahrensgesetzes findet Anwendung.
 
 
 ## § 9 Enteignungsentschädigung, Enteignungsverfahren, gerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE001002311)
 
 (1) Für die Enteignung gelten die §§ 86, 87, 90 bis 92 des
 Baugesetzbuches entsprechend, soweit keine landesrechtlichen
@@ -190,6 +200,7 @@ keine landesrechtlichen Regelungen bestehen.
 
 
 ## § 10
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE001101314)
 
 (1) Die Anlegung und der Betrieb neuer Verkehrsflughäfen bedürfen
 keiner vorherigen Genehmigung nach § 6 Abs. 1 des
@@ -203,6 +214,7 @@ Luftverkehrsgesetzes zu erteilen.
 
 
 ## § 11 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE001202305)
 
 (1) Vor Inkrafttreten dieses Gesetzes begonnene Planungsverfahren für
 Verkehrswege und Verkehrsflughäfen können nach den Vorschriften dieses
@@ -229,6 +241,7 @@ begonnen
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/verkpbg/BJNR021740991.html#BJNR021740991BJNE001300307)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

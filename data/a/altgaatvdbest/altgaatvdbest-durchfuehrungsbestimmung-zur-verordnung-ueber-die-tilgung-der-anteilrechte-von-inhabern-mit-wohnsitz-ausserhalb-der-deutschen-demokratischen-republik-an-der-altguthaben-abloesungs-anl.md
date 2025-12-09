@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000100307)
 
 Zum § 2 der Verordnung über die Tilgung der Anteilrechte von Inhabern
 mit Wohnsitz außerhalb der DDR an der Altguthaben-Ablösungs-Anleihe
@@ -28,6 +29,7 @@ geregelt:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000200307)
 
 Die Tilgung der Anteilrechte ist durch den Inhaber oder dessen Erben
 auf amtlichem Formblatt (Anlage) in zweifacher Ausfertigung zu
@@ -35,12 +37,14 @@ beantragen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000300307)
 
 Das amtliche Formblatt ist bei den Ausgleichsämtern der Bundesrepublik
 Deutschland und Berlin (West) oder der Staatsbank Berlin erhältlich.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000400307)
 
 Die Staatsbank Berlin wird gemäß Artikel 5 des Vertrages der die
 Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der
@@ -52,17 +56,20 @@ Ausfertigung des Formblattes mitzuteilen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000500307)
 
 Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in
 Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000600307)
 
 **Der Minister der Finanzen**
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/altgaatvdbest/DDNR009060990.html#DDNR009060990BJNE000700307)
 
 (Fundstelle: GBl. DDR I 1990, 906)
 

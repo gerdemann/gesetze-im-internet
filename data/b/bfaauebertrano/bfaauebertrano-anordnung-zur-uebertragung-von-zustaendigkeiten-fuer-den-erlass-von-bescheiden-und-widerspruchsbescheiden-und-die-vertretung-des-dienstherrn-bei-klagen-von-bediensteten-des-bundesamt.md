@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bfaa_bertrano/BJNR0C80A0024.html#BJNR0C80A0024BJNE000100000)
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das
@@ -27,6 +28,7 @@ und für Heimat an:
 
 
 ## § 1 Übertragung der Zuständigkeit für die Festsetzung von Leistungen sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bfaa_bertrano/BJNR0C80A0024.html#BJNR0C80A0024BJNE000200000)
 
 (1) Dem Bundesverwaltungsamt werden die Zuständigkeiten für die
 Prüfung, Festsetzung und Auszahlung von Leistungen in folgenden
@@ -69,6 +71,7 @@ selbst wahrzunehmen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bfaa_bertrano/BJNR0C80A0024.html#BJNR0C80A0024BJNE000300000)
 
 (1) Diese Anordnung tritt für die Festsetzung von Reise- und
 Umzugskosten mit Wirkung vom 1. Januar 2021 in Kraft.

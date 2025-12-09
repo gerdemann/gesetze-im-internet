@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE000600301)
 
 Auf Grund des § 7 des Gesetzes über den Beruf des pharmazeutisch-
 technischen Assistenten vom 18. März 1968 (BGBl. I S. 228), der durch
@@ -33,10 +34,12 @@ für Bildung, Wissenschaft, Forschung und Technologie:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000100301)
 
 
 
 ### § 1 Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE000702130)
 
 (1) Die Ausbildung für pharmazeutisch-technische Assistentinnen und
 pharmazeutisch-technische Assistenten umfaßt:
@@ -117,6 +120,7 @@ Auszubildende eine Bescheinigung nach dem Muster der Anlage 4.
 
 
 ### § 2 Staatliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE000801116)
 
 (1) Die staatliche Prüfung nach § 1 Abs. 1 Satz 2 besteht aus zwei
 Abschnitten. Der erste Abschnitt der Prüfung findet am Ende der
@@ -133,6 +137,7 @@ der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
 
 ### § 3 Prüfungsausschuß
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE000902116)
 
 (1) Bei jeder Schule ist ein Prüfungsausschuss zu bilden, der aus
 folgenden Mitgliedern besteht:
@@ -189,6 +194,7 @@ Teilnahme an allen Prüfungsvorgängen entsenden.
 
 
 ### § 4 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001003116)
 
 (1) Die oder der Vorsitzende entscheidet auf Antrag der zu prüfenden
 Person über die Zulassung zum ersten und zweiten Abschnitt der Prüfung
@@ -240,6 +246,7 @@ vor Prüfungsbeginn schriftlich mitgeteilt werden.
 
 
 ### § 4a Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004200116)
 
 (1) Die besonderen Belange von zu prüfenden Personen mit Behinderung
 oder Beeinträchtigung sind zur Wahrung ihrer Chancengleichheit bei
@@ -268,6 +275,7 @@ Person in geeigneter Weise bekannt gegeben.
 
 
 ### § 5 Niederschrift
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001100301)
 
 Über die Prüfung in jedem Fach ist eine Niederschrift zu fertigen, aus
 der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
@@ -275,10 +283,12 @@ Unregelmäßigkeiten hervorgehen.
 
 
 ### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001201116)
 
 
 
 ### § 7 Bestehen und Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001301116)
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1 Satz 3
 für den ersten Prüfungsabschnitt vorgeschriebenen Teile und der zweite
@@ -320,6 +330,7 @@ wurde; die Sätze 1 bis 4 finden entsprechende Anwendung.
 
 
 ### § 8 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001401116)
 
 (1) Tritt eine zu prüfende Person nach ihrer Zulassung von der Prüfung
 zurück, so hat sie die Gründe für ihren Rücktritt unverzüglich der
@@ -336,6 +347,7 @@ Abs. 4 gilt entsprechend.
 
 
 ### § 9 Versäumnisfolgen
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001501116)
 
 (1) Versäumt eine zu prüfende Person einen Prüfungstermin oder gibt
 sie eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder
@@ -350,6 +362,7 @@ entsprechend.
 
 
 ### § 10 Ordnungsverstöße und Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001601116)
 
 Der Vorsitzende des Prüfungsausschusses kann bei zu prüfenden
 Personen, die die ordnungsgemäße Durchführung der Prüfung in
@@ -362,6 +375,7 @@ Jahren nach Abschluß der Prüfung zulässig.
 
 
 ### § 11 Prüfungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001700301)
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
@@ -372,10 +386,12 @@ Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen
 Assistenten
 
 ## Abschnitt 2 - - Erster Prüfungsabschnitt -
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000200301)
 
 
 
 ### § 12 Schriftlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001802130)
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -421,6 +437,7 @@ der Prüfung zuzuordnen.
 
 
 ### § 13 Mündlicher Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE001902130)
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -460,6 +477,7 @@ für den jeweiligen mündlichen Teil der Prüfung zuzuordnen.
 
 
 ### § 14 Praktischer Teil der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002002130)
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende
 Fächer:
@@ -514,10 +532,12 @@ Prüfungsbestimmungen für die Ausbildung zu pharmazeutisch-technischen
 Assistenten
 
 ## Abschnitt 3 - - Zweiter Prüfungsabschnitt -
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000300301)
 
 
 
 ### § 15 Apothekenpraxis
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002102130)
 
 (1) Der zweite Prüfungsabschnitt erstreckt sich auf die Prüfung des
 Fachs "Apothekenpraxis", einschließlich Qualitätsmanagement und
@@ -550,10 +570,12 @@ mindestens mit "ausreichend" benotet wird.
 
 
 ## Abschnitt 4 - Grundsätze und Systematik der Notenbildung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000401116)
 
 
 
 ### § 15a Benotung
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004301130)
 
 Die im ersten und zweiten Prüfungsabschnitt der staatlichen Prüfung
 erbrachten Leistungen werden wie folgt benotet:
@@ -623,6 +645,7 @@ erbrachten Leistungen werden wie folgt benotet:
 
 
 ### § 15b Vornoten
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004400116)
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt auf
 Vorschlag der Schule jeweils eine Vornote für jedes Prüfungsfach, das
@@ -636,6 +659,7 @@ Werktage vor Beginn des ersten Prüfungsabschnitts mitgeteilt.
 
 
 ### § 15c Prüfungsnoten
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004501130)
 
 (1) Die für die Prüfungsleistungen der schriftlichen, mündlichen und
 praktischen Prüfungsfächer der staatlichen Prüfung berechneten
@@ -653,6 +677,7 @@ zuzuordnen.
 
 
 ### § 15d Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004601130)
 
 (1) Aus den Noten des ersten und zweiten Prüfungsabschnitts wird eine
 Gesamtnote für die staatliche Prüfung nach § 1 Absatz 1 Satz 2
@@ -686,14 +711,17 @@ wird ein Zeugnis nach dem Muster der Anlage 7 erteilt.
 
 
 ### (XXXX) §§ 16 und 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002202116)
 
 
 
 ## Abschnitt 5 - Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitglied staat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000601116)
 
 
 
 ### § 18 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002406116)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den
 Beruf der pharmazeutisch-technischen Assistentin und des
@@ -783,6 +811,7 @@ Gleichstellung ergibt.
 
 
 ### § 18a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003902130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den
 Beruf der pharmazeutisch-technischen Assistentin und des
@@ -862,6 +891,7 @@ Satz 2 abgelegt werden kann.
 
 
 ### § 18b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003504130)
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes über den
 Beruf der pharmazeutisch-technischen Assistentin und des
@@ -938,6 +968,7 @@ dem Muster der Anlage 9 erteilt.
 
 
 ### § 18c Fristen, Bescheide, Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003603116)
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer
 Erlaubnis zur Führung der Berufsbezeichnung „pharmazeutisch-technische
@@ -999,10 +1030,12 @@ Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## Abschnitt 6 - Übergangs- und Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNG000501116)
 
 
 
 ### § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002502130)
 
 (1) Eine vor Inkrafttreten dieser Verordnung oder vor Inkrafttreten
 von Änderungen dieser Verordnung begonnene Ausbildung zur
@@ -1187,16 +1220,19 @@ Fragerecht zu.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002600301)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002700301)
 
 Der Bundesrat hat zugestimmt.
 
 
 ### Anlage 1 (zu § 1 Absatz 2 Satz 1 und 3 und Absatz 4 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002801116)
 
 (Fundstelle: BGBl. I 2020, 86 – 90)
 
@@ -1882,6 +1918,7 @@ In der schulischen Ausbildung
 
 
 ### Anlage 2 (zu § 1 Absatz 2 Satz 4)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE002901116)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2358)
 ............................................
@@ -1916,6 +1953,7 @@ Ort, Datum
 
 
 ### Anlage 3 (zu § 1 Abs. 3 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003000301)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2359)
 Bescheinigung
@@ -1939,6 +1977,7 @@ Ort, Datum
 
 
 ### Anlage 4 (zu § 1 Abs. 4 Satz 5)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003101116)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2360)
 Bescheinigung
@@ -1978,6 +2017,7 @@ Apotheke)
 
 
 ### Anlage 5 (zu § 7 Abs. 2 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003201116)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2361)
 Der Vorsitzende
@@ -2031,6 +2071,7 @@ Ort, Datum
 
 
 ### Anlage 6 (zu § 7 Absatz 2 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003301116)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2362 )
 Der Vorsitzende
@@ -2059,6 +2100,7 @@ Ort, Datum
 
 
 ### Anlage 7 (zu § 15d Absatz 4)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003401116)
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 2363)
 Der Vorsitzende
@@ -2086,6 +2128,7 @@ Ort, Datum
 
 
 ### Anlage 7a (zu § 18a Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004000116)
 
 (Fundstelle: BGBl. I 2016, 902)
 
@@ -2119,6 +2162,7 @@ Unterschrift(en) der Einrichtung
 
 
 ### Anlage 7b (zu § 18a Absatz 3)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE004100116)
 
 (Fundstelle: BGBl. I 2016, 902)
 
@@ -2159,6 +2203,7 @@ Ort, Datum
 
 
 ### Anlage 8 (zu § 18b Absatz 2)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003701116)
 
 
 *    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2255,6 +2300,7 @@ Ort, Datum
 [^F781546_01_BJNR235200997BJNE003701116]: 
 
 ### Anlage 9 (zu § 18b Absatz 6)
+[Direktlink](https://www.gesetze-im-internet.de/pta-aprv/BJNR235200997.html#BJNR235200997BJNE003801116)
 
 
 *    *   Die/der Vorsitzende

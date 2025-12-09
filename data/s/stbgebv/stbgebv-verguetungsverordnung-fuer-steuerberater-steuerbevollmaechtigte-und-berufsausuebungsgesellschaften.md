@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE000900314)
 
 Auf Grund des § 64 des Steuerberatungsgesetzes in der Fassung der
 Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) wird nach
@@ -28,10 +29,12 @@ verordnet:
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000100314)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001002123)
 
 (1) Die Vergütung (Gebühren und Auslagenersatz) des Steuerberaters mit
 Sitz im Inland für seine im Inland selbständig ausgeübte
@@ -45,6 +48,7 @@ Vergütung der Steuerberater entsprechend.
 
 
 ### § 2 Sinngemäße Anwendung der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001100314)
 
 Ist in dieser Verordnung über die Gebühren für eine Berufstätigkeit
 des Steuerberaters nichts bestimmt, so sind die Gebühren in
@@ -52,6 +56,7 @@ sinngemäßer Anwendung der Vorschriften dieser Verordnung zu bemessen.
 
 
 ### § 3 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001206123)
 
 Mit den Gebühren werden auch die allgemeinen Geschäftskosten
 entgolten. Soweit im Dritten Abschnitt nichts anderes bestimmt ist,
@@ -60,6 +65,7 @@ Verbindung mit § 670 des Bürgerlichen Gesetzbuchs) verlangen.
 
 
 ### § 4 Vergütungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001303123)
 
 (1) Eine Vereinbarung über die Vergütung bedarf der Textform. Sie muss
 als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet
@@ -81,6 +87,7 @@ Vergütung in Textform vereinbart werden kann.
 
 
 ### § 4a Unterschreiten der gesetzlichen Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006700123)
 
 In außergerichtlichen Angelegenheiten kann eine niedrigere als die
 gesetzliche Vergütung vereinbart werden. Sie muss in einem
@@ -89,6 +96,7 @@ des Steuerberaters stehen.
 
 
 ### § 4b Fehlerhafte Vergütungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006800123)
 
 Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 4
 Absatz 1 Satz 1 und 2 entspricht, kann der Steuerberater keine höhere
@@ -98,6 +106,7 @@ unberührt.
 
 
 ### § 5 Mehrere Steuerberater
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001400314)
 
 Ist die Angelegenheit mehreren Steuerberatern zur gemeinschaftlichen
 Erledigung übertragen, so erhält jeder Steuerberater für seine
@@ -105,6 +114,7 @@ Tätigkeit die volle Vergütung.
 
 
 ### § 6 Mehrere Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001502123)
 
 (1) Wird der Steuerberater in derselben Angelegenheit für mehrere
 Auftraggeber tätig, so erhält er die Gebühren nur einmal.
@@ -117,12 +127,14 @@ insgesamt entstandenen Auslagen.
 
 
 ### § 7 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001600314)
 
 Die Vergütung des Steuerberaters wird fällig, wenn der Auftrag
 erledigt oder die Angelegenheit beendigt ist.
 
 
 ### § 8 Vorschuß
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001700314)
 
 Der Steuerberater kann von seinem Auftraggeber für die entstandenen
 und die voraussichtlich entstehenden Gebühren und Auslagen einen
@@ -130,6 +142,7 @@ angemessenen Vorschuß fordern.
 
 
 ### § 9 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001805123)
 
 (1) Der Steuerberater kann die Vergütung nur aufgrund einer von ihm
 oder auf seine Veranlassung dem Auftraggeber mitgeteilten Berechnung
@@ -152,10 +165,12 @@ fordern, solange der Steuerberater zur Aufbewahrung der Handakten nach
 
 
 ## Zweiter Abschnitt - Gebührenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000200314)
 
 
 
 ### § 10 Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE001901123)
 
 (1) Die Wertgebühren bestimmen sich nach den dieser Verordnung als
 Anlage beigefügten Tabellen A bis D. Sie werden nach dem Wert
@@ -169,6 +184,7 @@ und 37 bezeichneten Tätigkeiten.
 
 
 ### § 11 Rahmengebühren
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002001301)
 
 Ist für die Gebühren ein Rahmen vorgesehen, so bestimmt der
 Steuerberater die Gebühr im Einzelfall unter Berücksichtigung aller
@@ -184,6 +200,7 @@ unbillig ist.
 
 
 ### § 12 Abgeltungsbereich der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002101301)
 
 (1) Die Gebühren entgelten, soweit diese Verordnung nichts anderes
 bestimmt, die gesamte Tätigkeit des Steuerberaters vom Auftrag bis zur
@@ -216,6 +233,7 @@ erhalten würde.
 
 
 ### § 13 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002208123)
 
 Die Zeitgebühr ist zu berechnen
 
@@ -231,13 +249,16 @@ Sie beträgt 16,50 bis 41 Euro je angefangene viertel Stunde.
 
 
 ### § 14 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002303123)
 
 
 ## Dritter Abschnitt - Umsatzsteuer, Ersatz von Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000300314)
 
 
 
 ### § 15 Umsatzsteuer
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002400314)
 
 Der Vergütung ist die Umsatzsteuer hinzuzurechnen, die nach § 12 des
 Umsatzsteuergesetzes auf die Tätigkeit entfällt. Dies gilt nicht, wenn
@@ -246,6 +267,7 @@ bleibt.
 
 
 ### § 16 Entgelte für Post- und Telekommunikationsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002503301)
 
 Der Steuerberater hat Anspruch auf Ersatz der bei der Ausführung des
 Auftrags für Post- und Telekommunikationsdienstleistungen zu zahlenden
@@ -256,6 +278,7 @@ Angelegenheit jedoch höchstens 20 Euro.
 
 
 ### § 17 Dokumentenpauschale
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002603301)
 
 (1) Der Steuerberater erhält eine Dokumentenpauschale
 
@@ -299,6 +322,7 @@ berechnen.
 
 
 ### § 18 Geschäftsreisen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002706123)
 
 (1) Für Geschäftsreisen sind dem Steuerberater als Reisekosten die
 Fahrtkosten und die Übernachtungskosten zu erstatten; ferner erhält er
@@ -331,6 +355,7 @@ tatsächlichen Aufwendungen zu erstatten, soweit sie angemessen sind.
 
 
 ### § 19 Reisen zur Ausführung mehrerer Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002800314)
 
 Dient eine Reise der Ausführung mehrerer Geschäfte, so sind die
 entstandenen Reisekosten und Abwesenheitsgelder nach dem Verhältnis
@@ -339,6 +364,7 @@ Geschäfte entstanden wären.
 
 
 ### § 20 Verlegung der beruflichen Niederlassung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE002900314)
 
 Ein Steuerberater, der seine berufliche Niederlassung nach einem
 anderen Ort verlegt, kann bei Fortführung eines ihm vorher erteilten
@@ -348,10 +374,12 @@ entstanden wären.
 
 
 ## Vierter Abschnitt - Gebühren für die Beratung und für die Hilfeleistung bei der Erfüllung allgemeiner Steuerpflichten
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000400314)
 
 
 
 ### § 21 Rat, Auskunft, Erstberatung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003008123)
 
 (1) Für einen mündlichen oder schriftlichen Rat oder eine Auskunft,
 die nicht mit einer anderen gebührenpflichtigen Tätigkeit
@@ -373,6 +401,7 @@ zum Rechtsanwaltsvergütungsgesetz.
 
 
 ### § 22 Gutachten und Antrag auf verbindliche Auskunft
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003101123)
 
 (1) Für die Ausarbeitung eines schriftlichen Gutachtens mit
 eingehender Begründung erhält der Steuerberater eine Gebühr von 10/10
@@ -384,6 +413,7 @@ nur eine Tätigkeit maßgebend.
 
 
 ### § 23 Sonstige Einzeltätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003203123)
 
 (1) Die Gebühr beträgt für
 
@@ -481,6 +511,7 @@ Betriebsstätten abgemeldet werden.
 
 
 ### § 24 Steuererklärungen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003308123)
 
 (1) Der Steuerberater erhält für die Anfertigung
 
@@ -902,6 +933,7 @@ voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
 
 
 ### § 25 Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003403123)
 
 (1) Die Gebühr für die Ermittlung des Überschusses der
 Betriebseinnahmen über die Betriebsausgaben bei den Einkünften aus
@@ -926,6 +958,7 @@ nach Absatz 1 Satz 2.
 
 
 ### § 26 Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittsätzen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003502301)
 
 (1) Die Gebühr für die Ermittlung des Gewinns nach Durchschnittsätzen
 beträgt 5 Zehntel bis 20 Zehntel einer vollen Gebühr nach Tabelle B
@@ -939,6 +972,7 @@ jede Gewinnermittlung.
 
 
 ### § 27 Ermittlung des Überschusses der Einnahmen über die Werbungskosten
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003603140)
 
 (1) Die Gebühr für die Ermittlung des Überschusses der Einnahmen über
 die Werbungskosten bei den Einkünften aus nichtselbständiger Arbeit,
@@ -959,12 +993,14 @@ erhält der Steuerberater die Zeitgebühr.
 
 
 ### § 28 Prüfung von Steuerbescheiden
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003700314)
 
 Für die Prüfung eines Steuerbescheids erhält der Steuerberater die
 Zeitgebühr.
 
 
 ### § 29 Teilnahme an Prüfungen und Nachschauen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003803123)
 
 Der Steuerberater erhält
 
@@ -984,6 +1020,7 @@ Der Steuerberater erhält
 
 
 ### § 30 Selbstanzeige
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE003901140)
 
 (1) Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378
 Absatz 3 der Abgabenordnung) einschließlich der Ermittlungen zur
@@ -997,6 +1034,7 @@ Euro.
 
 
 ### § 31 Besprechungen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004001301)
 
 (1) Für Besprechungen mit Behörden oder mit Dritten in
 abgaberechtlichen Sachen erhält der Steuerberater 5/10 bis 10/10 einer
@@ -1011,16 +1049,19 @@ fernmündlichen Nachfrage der Behörde.
 
 
 ## Fünfter Abschnitt - Gebühren für die Hilfeleistung bei der Erfüllung steuerlicher Buchführungs- und Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000500314)
 
 
 
 ### § 32 Einrichtung einer Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004101140)
 
 Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne
 der §§ 33 und 34 erhält der Steuerberater die Zeitgebühr.
 
 
 ### § 33 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004204123)
 
 
 *    *   (1)
@@ -1124,6 +1165,7 @@ die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
 
 
 ### § 34 Lohnbuchführung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004305123)
 
 (1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der
 Stammdaten erhält der Steuerberater eine Gebühr von 6 bis 19 Euro je
@@ -1155,6 +1197,7 @@ Lohnsteueranmeldung (§ 24 Abs. 1 Nr. 15) abgegolten.
 
 
 ### § 35 Abschlußarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004405140)
 
 (1) Die Gebühr beträgt für
 
@@ -1326,6 +1369,7 @@ erhält der Steuerberater die Zeitgebühr.
 
 
 ### § 36 Steuerliches Revisionswesen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004504140)
 
 (1) Der Steuerberater erhält für die Prüfung einer Buchführung,
 einzelner Konten, einzelner Posten des Jahresabschlusses, eines
@@ -1350,6 +1394,7 @@ Zeitgebühr.
 
 
 ### § 37 Vermögensstatus, Finanzstatus für steuerliche Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004600314)
 
 Die Gebühr beträgt für
 
@@ -1382,6 +1427,7 @@ die Erstellung eines Finanzstatus die Summe der Finanzwerte.
 
 
 ### § 38 Erteilung von Bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004701309)
 
 (1) Der Steuerberater erhält für die Erteilung einer Bescheinigung
 über die Beachtung steuerrechtlicher Vorschriften in
@@ -1394,6 +1440,7 @@ Steuerbescheinigungen die Zeitgebühr.
 
 
 ### § 39 Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004803123)
 
 (1) Für Angelegenheiten, die sich auf land- und forstwirtschaftliche
 Betriebe beziehen, gelten abweichend von den §§ 32, 33, 35 und 36 die
@@ -1570,10 +1617,12 @@ Umsatzsteuervoranmeldungen (§ 24 Abs. 1 Nr. 7) abgegolten.
 
 
 ## Sechster Abschnitt - Vergütung für die Vertretung in außergerichtlichen Rechtsbehelfsverfahren, gerichtlichen und anderen Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000601123)
 
 
 
 ### § 40 Anwendung des Rechtsanwaltsvergütungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE004905123)
 
 Die Vorschriften des Rechtsanwaltsvergütungsgesetzes finden auf die
 Vergütung von Steuerberatern für die Vertretung in außergerichtlichen
@@ -1587,10 +1636,12 @@ Prozesskostenhilfe beigeordneten Steuerberaters.
 
 
 ## Siebenter Abschnitt - Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNG000701123)
 
 
 
 ### § 41 Berechnung der Vergütung bei Änderungen dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE005002123)
 
 Die Vergütung ist nach bisherigem Recht zu berechnen, wenn der Auftrag
 zur Erledigung der Angelegenheit vor dem Inkrafttreten einer Änderung
@@ -1606,12 +1657,14 @@ die diese Verordnung verweist.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE005901123)
 
 Der Bundesminister der Finanzen
 
 Tabelle A
 
 ### Anlage 1 (Beratungstabelle)
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006006123)
 
 (Fundstelle: BGBl. 2025 I Nr. 105, S. 5 – 6)
 
@@ -1894,6 +1947,7 @@ Tabelle A
 Tabelle B
 
 ### Anlage 2 (Abschlusstabelle)
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006106123)
 
 (Fundstelle: BGBl. 2025 I Nr. 105, S. 7 - 8)
 
@@ -2237,6 +2291,7 @@ Tabelle B
 Tabelle C
 
 ### Anlage 3 (Buchführungstabelle)
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006205123)
 
 (Fundstelle: BGBl. 2025 I Nr. 105, S. 9)
 
@@ -2374,6 +2429,7 @@ Tabelle C
 
 
 ### Anlage 4 Tabelle D
+[Direktlink](https://www.gesetze-im-internet.de/stbgebv/BJNR014420981.html#BJNR014420981BJNE006306123)
 
 (Fundstelle: BGBl. 2025 Nr. 105, S. 10 - 14)
 

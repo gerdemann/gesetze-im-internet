@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Teil I - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich der Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE000904310)
 
 (1) Diese Verordnung ist anzuwenden auf preisgebundene Wohnungen, die
 nach dem 20. Juni 1948 bezugsfertig geworden sind oder bezugsfertig
@@ -72,6 +74,7 @@ maßgeblichen Vorschriften
 
 
 ### § 2 Anwendung der Zweiten Berechnungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001001307)
 
 Ist zur Ermittlung der zulässigen Miete eine
 Wirtschaftlichkeitsberechnung aufzustellen oder die Wohnfläche zu
@@ -81,14 +84,17 @@ jeweils geltenden Fassung anzuwenden.
 
 
 ## Teil II - Zulässige Miete für öffentlich geförderte Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000201307)
 
 
 
 ### 1. Abschnitt - Ermittlung der Kostenmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000301307)
 
 
 
 #### § 3 Erstmalige Ermittlung der Kostenmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001101307)
 
 (1) Die Kostenmiete umfaßt als zulässige Miete für öffentlich
 geförderte Wohnungen die Einzelmiete sowie Umlagen, Zuschläge und
@@ -125,6 +131,7 @@ berechnen.
 
 
 #### § 4 Erhöhung der Kostenmiete infolge Erhöhung der laufenden Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001202307)
 
 (1) Erhöht sich nach der erstmaligen Ermittlung der Kostenmiete der
 Gesamtbetrag der laufenden Aufwendungen auf Grund von Umständen, die
@@ -211,6 +218,7 @@ zurückliegenden Zeitraum nicht zulässig.
 
 
 #### § 5 Senkung der Kostenmiete infolge Verringerung der laufenden Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001303307)
 
 (1) Verringert sich nach der erstmaligen Ermittlung der Kostenmiete
 der Gesamtbetrag der laufenden Aufwendungen oder wird durch Gesetz
@@ -245,6 +253,7 @@ entsprechend.
 
 
 #### § 5a Änderung der Kostenmiete infolge Änderung der Wirtschaftseinheit
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001401307)
 
 (1) Wird nach der erstmaligen Ermittlung der Kostenmiete eine
 Wirtschaftseinheit aufgeteilt, so hat der Vermieter unverzüglich
@@ -276,6 +285,7 @@ zu erläutern.
 
 
 #### § 6 Erhöhung der Kostenmiete wegen baulicher Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001501307)
 
 (1) Hat der Vermieter für sämtliche öffentlich geförderten Wohnungen
 bauliche Änderungen auf Grund von Umständen, die er nicht zu vertreten
@@ -306,6 +316,7 @@ Einzelmieten nach den Vorschriften des Absatzes 1.
 
 
 #### § 7 Kostenmiete nach Schaffung neuer Wohnungen durch Ausbau oder Erweiterung des Gebäudes
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001603307)
 
 (1) Werden in einem Gebäude oder einer Wirtschaftseinheit mit
 öffentlich geförderten Wohnungen durch Ausbau oder Erweiterung neue
@@ -356,6 +367,7 @@ ausgebaut worden sind, die selbständig vermietet werden.
 
 
 #### § 8 Kostenmiete nach Wohnungsvergrößerung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001701307)
 
 (1) Sind sämtliche öffentlich geförderten Wohnungen durch Ausbau oder
 Erweiterung um weitere Wohnräume vergrößert worden, so hat der
@@ -376,6 +388,7 @@ Nr. 4 zulässig.
 
 
 #### § 8a Kostenmiete in Fällen, in denen nur noch ein Teil der Wohnungen als öffentlich gefördert gilt
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001802307)
 
 Gelten nach § 15 Abs. 2 Satz 2 oder § 16 Abs. 2 oder 7 des
 Wohnungsbindungsgesetzes eine oder mehrere Wohnungen eines Gebäudes
@@ -391,6 +404,7 @@ Wirtschaftseinheit maßgeblich gewesen wären.
 
 
 #### § 9 Zusatzberechnung, Auszug aus der Wirtschaftlichkeitsberechnung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE001901307)
 
 Zur Berechnung einer Änderung der Durchschnittsmiete kann der
 Vermieter an Stelle einer neuen Wirtschaftlichkeitsberechnung eine
@@ -406,6 +420,7 @@ Berechnungsverordnung aufgestellt werden.
 
 
 #### § 10 Mieterleistungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002001307)
 
 Einmalige Leistungen des Mieters, die mit Rücksicht auf die
 Überlassung der Wohnung erbracht werden sollen, sind nur nach Maßgabe
@@ -414,10 +429,12 @@ entsprechende Leistungen eines Dritten zugunsten des Mieters.
 
 
 ### 2. Abschnitt - Ermittlung der Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000401307)
 
 
 
 #### § 11 Erstmalige Bestimmung der Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002101307)
 
 (1) Die Vergleichsmiete bestimmt sich erstmalig nach den Einzelmieten
 solcher öffentlich geförderter Mietwohnungen, die mit der Wohnung nach
@@ -455,6 +472,7 @@ den §§ 20 bis 27 zulässig sind. § 10 gilt entsprechend.
 
 
 #### § 12 Änderung der Vergleichsmiete infolge Änderung der laufenden Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002201307)
 
 (1) Hat sich der Gesamtbetrag der laufenden Aufwendungen gegenüber dem
 Betrag geändert, der im Zeitpunkt der Bewilligung der öffentlichen
@@ -487,6 +505,7 @@ bis 3 sinngemäß.
 
 
 #### § 13 Erhöhung der Vergleichsmiete wegen baulicher Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002301307)
 
 (1) Hat der Vermieter für sämtliche öffentlich geförderten Wohnungen
 bauliche Änderungen auf Grund von Umständen, die er nicht zu vertreten
@@ -511,6 +530,7 @@ vorgenommen werden, gelten die Vorschriften des § 6 Abs. 2 sinngemäß.
 
 
 #### § 14 Vergleichsmiete nach Ausbau von Zubehörräumen und Wohnungsvergrößerung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002401307)
 
 (1) Sind Zubehörräume öffentlich geförderter Wohnungen, für die die
 Vergleichsmiete die zulässige Miete ist, ohne Genehmigung der
@@ -545,6 +565,7 @@ Vergleichsmiete gelten die Vorschriften der §§ 12 und 13.
 
 
 #### § 15 Übergang von der Vergleichsmiete zur Kostenmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002501307)
 
 (1) Auf Antrag des Vermieters kann die zuständige Stelle genehmigen,
 daß an Stelle der nach den §§ 11 bis 14 zulässigen Vergleichsmiete die
@@ -594,10 +615,12 @@ die Wohnung beziehen, deren Einzelmiete zu errechnen ist.
 
 
 ## Teil III - Zulässige Miete für preisgebundene steuerbegünstigte und frei finanzierte Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000501307)
 
 
 
 ### § 16 Ermittlung der Kostenmiete für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert sind
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002603307)
 
 (1) Wird für steuerbegünstigte oder frei finanzierte Wohnungen, die
 mit Wohnungsfürsorgemitteln für Angehörige des öffentlichen Dienstes
@@ -661,6 +684,7 @@ Genehmigung bedürfen, bleiben unberührt.
 
 
 ### § 17 Ermittlung der Kostenmiete für Wohnungen, die mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert sind
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002701307)
 
 (1) Wird für steuerbegünstigte Wohnungen, die mit
 Aufwendungszuschüssen oder Aufwendungsdarlehen nach § 88 des Zweiten
@@ -709,6 +733,7 @@ bezugsfertig geworden sind.
 
 
 ### § 18 Ermittlung der Vergleichsmiete für Wohnungen, die mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert sind
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002801307)
 
 (1) Die Vergleichsmiete für steuerbegünstigte Wohnungen in Eigenheimen
 und Kleinsiedlungen, die ohne Vorlage einer
@@ -746,15 +771,18 @@ bezugsfertig geworden sind.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE002902307)
 
 (weggefallen)
 
 
 ## Teil IV - Umlagen, Zuschläge und Vergütungen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000601307)
 
 
 
 ### § 20 Umlagen neben der Einzelmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003002307)
 
 (1) Neben der Einzelmiete ist die Umlage der Betriebskosten im Sinne
 des § 27 der Zweiten Berechnungsverordnung und des
@@ -793,6 +821,7 @@ ist nicht zulässig.
 
 
 ### § 21 Umlegung der Kosten der Wasserversorgung und der Entwässerung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003103310)
 
 (1) Zu den Kosten der Wasserversorgung gehören die Kosten des
 Wasserverbrauchs, die Grundgebühren, die Kosten der Anmietung oder
@@ -823,6 +852,7 @@ Maßstab nach Absatz 2 umzulegen.
 
 
 ### § 22 Umlegung der Kosten der Versorgung mit Wärme und Warmwasser
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003202307)
 
 (1) Für die Umlegung der Kosten des Betriebs zentraler Heizungs- und
 Warmwasserversorgungsanlagen und der Kosten der eigenständig
@@ -858,6 +888,7 @@ bleibt dies weiterhin zulässig.
 
 
 ### § 22a Umlegung der Kosten der Müllbeseitigung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005501310)
 
 (1) Zu den Kosten der Müllbeseitigung gehören namentlich die für die
 Müllabfuhr zu entrichtenden Gebühren, die Kosten entsprechender nicht
@@ -872,6 +903,7 @@ trägt, oder nach dem Verhältnis der Wohnflächen umzulegen.
 
 
 ### § 23 Umlegung der Kosten des Betriebs der zentralen Brennstoffversorgungsanlage
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003301307)
 
 (1) Zu den Kosten des Betriebs der zentralen
 Brennstoffversorgungsanlage gehören die Kosten der verbrauchten
@@ -884,16 +916,19 @@ werden.
 
 
 ### § 23a
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003401307)
 
 (weggefallen)
 
 
 ### § 23b
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003502307)
 
 (weggefallen)
 
 
 ### § 24 Umlegung der Kosten des Betriebs von Aufzügen
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003602310)
 
 (1) Zu den Kosten des Betriebs eines Personen oder Lastenaufzugs
 gehören die Kosten des Betriebsstromes sowie die Kosten der
@@ -909,6 +944,7 @@ Umlegung ausgenommen werden.
 
 
 ### § 24a Umlegung der Kosten des Betriebs der mit einem Breitbandkabelnetz verbundenen privaten Verteilanlage und der Gemeinschafts-Antennenanlage
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003702310)
 
 (1) Zu den Kosten des Betriebs der mit einem Breitbandkabelnetz
 verbundenen privaten Verteilanlage gehören die Kosten des
@@ -931,6 +967,7 @@ angeschlossen worden sind.
 
 
 ### § 25 Umlegung der Betriebs- und Instandhaltungskosten der Einrichtungen für die Wäschepflege
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003802310)
 
 (1) Zu den Kosten des Betriebs der Einrichtungen für die Wäschepflege
 gehören die Kosten des Betriebsstromes, die Kosten der Überwachung,
@@ -949,6 +986,7 @@ nicht zulässig.
 
 
 ### § 25a Umlageausfallwagnis
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE003901307)
 
 Das Umlageausfallwagnis ist das Wagnis einer Einnahmenminderung, die
 durch uneinbringliche Rückstände von Betriebskosten oder nicht
@@ -962,11 +1000,13 @@ Dritten gesichert ist, darf die Umlage nicht erhöht werden.
 
 
 ### § 25b
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004002310)
 
 (weggefallen)
 
 
 ### § 26 Zuschläge neben der Einzelmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004103320)
 
 (1) Neben der Einzelmiete sind nach Maßgabe der Absätze 2 bis 7
 folgende Zuschläge zulässig:
@@ -1064,6 +1104,7 @@ sinngemäß.
 
 
 ### § 27 Vergütungen neben der Einzelmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004201307)
 
 Neben der Einzelmiete kann der Vermieter für die Überlassung einer
 Garage, eines Stellplatzes oder eines Hausgartens eine angemessene
@@ -1074,16 +1115,19 @@ dies genehmigt hat.
 
 
 ### § 28 Umlagen, Zuschläge und Vergütungen neben der Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004301307)
 
 Neben der Vergleichsmiete sind Umlagen, Zuschläge und Vergütungen
 entsprechend den Vorschriften der §§ 20 bis 27 zulässig.
 
 
 ## Teil V - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNG000701307)
 
 
 
 ### § 29 Auskunftspflicht des Vermieters
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004401307)
 
 (1) Der Vermieter hat dem Mieter auf Verlangen Auskunft über die
 Ermittlung und Zusammensetzung der zulässigen Miete zu geben und
@@ -1098,6 +1142,7 @@ Genehmigung oder einer Ablichtung davon verlangen.
 
 
 ### § 30 Entsprechende Anwendung der Mietvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004502307)
 
 Die Vorschriften dieser Verordnung über die zulässige Miete für
 Wohnungen gelten entsprechend für einzelne Wohnräume, die selbständig
@@ -1108,6 +1153,7 @@ insbesondere eines genossenschaftlichen Nutzungsverhältnisses,
 
 
 ### § 31 Zulässige Miete für Untervermietung
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004601307)
 
 (1) Wird von einer Wohnung mehr als die Hälfte der Wohnfläche
 untervermietet, so darf die Miete für den untervermieteten Teil
@@ -1138,6 +1184,7 @@ als die Hälfte der Wohnfläche vermietet.
 
 
 ### § 32 Vom Rechtsnachfolger zu vertretende Umstände
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004701307)
 
 Soweit nach dieser Verordnung die Höhe der zulässigen Miete davon
 abhängt, ob die Erhöhung von Aufwendungen auf Umständen beruht, die
@@ -1147,11 +1194,13 @@ der Bauherr, zu vertreten oder nicht zu vertreten hatte.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE004802320)
 
 (weggefallen)
 
 
 ### § 34 Überleitungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005403310)
 
 (1) § 4 Abs. 6 und § 8a sind in der mit Inkrafttreten dieser
 Verordnung geltenden Fassung anzuwenden, wenn die Darlehen nach dem
@@ -1170,6 +1219,7 @@ zum 29. August 1990 geltenden Fassung anzuwenden.
 
 
 ### § 35 Sondervorschrift für Berlin
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005002307)
 
 Im Land Berlin gilt § 1 Abs. 1 der Verordnung in folgender Fassung:
 "(1) Diese Verordnung ist anzuwenden auf preisgebundene Wohnungen, die
@@ -1178,6 +1228,7 @@ werden."
 
 
 ### § 36 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005101307)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33a des Wohnungsbindungsgesetzes und § 125 des
@@ -1185,11 +1236,13 @@ Zweiten Wohnungsbaugesetzes auch im Land Berlin.
 
 
 ### § 37 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005201307)
 
 Diese Verordnung gilt nicht im Saarland.
 
 
 ### § 38 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/nmv_1970/BJNR016600970.html#BJNR016600970BJNE005301307)
 
 -
 

@@ -18,6 +18,7 @@ Fundstelle
 Stand: § 1 Abs. 1 Satz 2 ist gem. § 8 Satz 2 dieses G am 1.1.2016 in Kraft getreten
 
 ## § 1 Rechtsstellung und Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000101000)
 
 (1) Der eingetragene Verein Deutsches Institut für Menschenrechte ist
 die unabhängige nationale Institution der Bundesrepublik Deutschland
@@ -42,6 +43,7 @@ die Rechte von Menschen mit Behinderungen (BGBl. 2008 II S. 1419,
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000200000)
 
 (1) Das Deutsche Institut für Menschenrechte e. V. soll die
 Öffentlichkeit über die Lage der Menschenrechte im In- und Ausland
@@ -110,6 +112,7 @@ der Deutsche Bundestag Stellung nehmen soll.
 
 
 ## § 3 Organe
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000300000)
 
 Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung
 folgende Organe:
@@ -128,6 +131,7 @@ folgende Organe:
 
 
 ## § 4 Mitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000400000)
 
 (1) Mitglieder des Vereins sind natürliche und juristische Personen,
 die zum Zeitpunkt des Inkrafttretens dieses Gesetzes Mitglieder des
@@ -167,6 +171,7 @@ aufgenommen werden können.
 
 
 ## § 5 Mitgliederversammlung
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000500000)
 
 Die Mitgliederversammlung berät über die Leitlinien der Arbeit des
 Deutschen Instituts für Menschenrechte e. V. und verfolgt dessen
@@ -178,6 +183,7 @@ Durchführung der Mitgliederversammlung werden in der Satzung geregelt.
 
 
 ## § 6 Kuratorium
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000600000)
 
 (1) In der Satzung muss bestimmt werden, dass das Kuratorium aus
 ehrenamtlichen Kuratoren besteht und diese entsprechend den Absätzen 2
@@ -251,6 +257,7 @@ Stimmrecht benannt werden je ein Vertreter oder eine Vertreterin
 
 
 ## § 7 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000700000)
 
 Der Vorstand besteht aus einem Vorsitz und einer Stellvertretung. Das
 Kuratorium bestellt die Vorstandsmitglieder auf Grundlage öffentlicher
@@ -259,6 +266,7 @@ Ausschreibungen für die Dauer der Zeitperiode gemäß § 6 Absatz 1 Satz
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dimrg/BJNR119400015.html#BJNR119400015BJNE000800000)
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach der
 Verkündung in Kraft. § 1 Absatz 1 Satz 2 tritt am 1. Januar 2016 in

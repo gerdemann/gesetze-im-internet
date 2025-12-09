@@ -22,17 +22,20 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000200314)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000301308)
 
 (1) Personen, die sich gewöhnlich im Hoheitsgebiet des Vereinigten
 Königreichs aufhalten und eine Rente aus den deutschen
@@ -67,6 +70,7 @@ Krankenversicherung der Rentner.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000400314)
 
 Ergeben sich aus der Durchführung des Abkommens vom 20. April 1960,
 der Vereinbarung vom 10. Dezember 1964 und des Artikels 2 dieses
@@ -82,6 +86,7 @@ Vorjahres einschließlich der Rentner aufgebracht.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000500314)
 
 Die nach Artikel 33 Nr. 6 der Vereinbarung von den deutschen Trägern
 der Unfallversicherung aufzubringenden Beträge werden auf alle Träger
@@ -91,6 +96,7 @@ Unfallversicherung durchgeführt.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000600314)
 
 Der Bundesminister für Arbeit und Sozialordnung kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung des
@@ -118,6 +124,7 @@ c)  ein Verzeichnis derjenigen Organisationen aufstellen, ändern oder
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000700314)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -127,6 +134,7 @@ Land Berlin.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabkgbrdvbgg/BJNR212730965.html#BJNR212730965BJNE000800314)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 5 am Tag nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 5 treten gleichzeitig

@@ -37,6 +37,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000100000)
 
 Auf Grund des § 37d Absatz 1 und des § 37d Absatz 2 Satz 1 Nummer 1
 Buchstabe a, Nummer 6 bis 14 des Bundes-Immissionsschutzgesetzes, von
@@ -53,9 +54,11 @@ Bundesregierung nach Anhörung der beteiligten Kreise:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000302116)
 
 Diese Verordnung regelt Modalitäten zur Erfüllung der Verpflichtung
 zur Minderung der Treibhausgasemissionen nach § 37a Absatz 1 Satz 1
@@ -65,6 +68,7 @@ Bundes-Immissionsschutzgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000403125)
 
 (1) Stromanbieter ist jedes Energieversorgungsunternehmen im Sinne des
 § 3 Nummer 18 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I
@@ -191,12 +195,15 @@ Testing and Materials gemessen.
 
 
 ## Teil 2 - Berechnung der Treibhausgasemissionen und weitere Optionen zur Erfüllung der Verpflichtung zur Minderung der Treibhausgasemissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000200000)
 
 
 ### Abschnitt 1 - Allgemeine Bestimmungen zur Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000300000)
 
 
 #### § 3 Basiswert
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000500000)
 
 Der Basiswert nach § 37a Absatz 4 Satz 4 des Bundes-
 Immissionsschutzgesetzes wird auf 94,1 Kilogramm Kohlenstoffdioxid-
@@ -204,6 +211,7 @@ Immissionsschutzgesetzes wird auf 94,1 Kilogramm Kohlenstoffdioxid-
 
 
 #### § 4 Erweiterung der Definition der Biokraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000601116)
 
 (1) Zusätzlich zu den Biokraftstoffen nach § 37b Absatz 1 Satz 1 des
 Bundes-Immissionsschutzgesetzes sind Energieerzeugnisse, die aus den
@@ -218,6 +226,7 @@ der Biokraftstoff-Nachhaltigkeitsverordnung.
 
 
 #### § 4a Regelungen für die Verpflichtungsjahre 2024 bis 2027
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002901130)
 
 (1) Abweichend von § 37a Absatz 8 des Bundes-Immissionsschutzgesetzes
 können Treibhausgasminderungsmengen, die den nach § 37a Absatz 4 des
@@ -274,9 +283,11 @@ Biokraftstoffen entsprechend.
 
 
 ### Abschnitt 2 - Straßenfahrzeuge mit Elektroantrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000400000)
 
 
 #### § 5 Anrechnung von in Straßenfahrzeugen mit Elektroantrieb genutztem elektrischem Strom
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000702125)
 
 (1) Elektrischer Strom, der im Verpflichtungsjahr von
 Letztverbrauchern nachweislich zur Verwendung in Straßenfahrzeugen mit
@@ -364,6 +375,7 @@ der Wert nach Absatz 4 verwendet.
 
 
 #### § 6 Energetische Menge des elektrischen Stroms aus öffentlich zugänglichen Ladepunkten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000802125)
 
 (1) Der Dritte führt für jedes Verpflichtungsjahr Aufzeichnungen über
 die einzelnen öffentlich zugänglichen Ladepunkte im Sinne von § 2
@@ -404,6 +416,7 @@ Post und Eisenbahnen die Zustimmung zur Veröffentlichung erteilt hat.
 
 
 #### § 7 Energetische Menge des elektrischen Stroms in anderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE000903125)
 
 (1) Die Anrechnung von Strom, der nicht über öffentlich zugängliche
 Ladepunkte entnommen wurde, auf die Erfüllung der Verpflichtung zur
@@ -463,6 +476,7 @@ aufzunehmen.
 
 
 #### § 8 Mitteilung der energetischen Menge
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001002125)
 
 (1) Der Dritte teilt der zuständigen Stelle nach § 20 Absatz 1 die
 energetischen Mengen des elektrischen Stroms mit, die
@@ -511,6 +525,7 @@ entnommen wurden.
 
 
 #### § 9 Nachweis durch den Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001101116)
 
 (1) Im Zusammenhang mit der Mitteilung nach § 37c Absatz 1 des Bundes-
 Immissionsschutzgesetzes sind vom Verpflichteten folgende Unterlagen
@@ -537,9 +552,11 @@ Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes ist nicht anzuwenden.
 
 
 ### Abschnitt 3 - Kraftstoffe fossilen Ursprungs
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000500000)
 
 
 #### § 10 Treibhausgasemissionen von fossilen Otto- und Dieselkraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001201116)
 
 (1) Die Treibhausgasemissionen fossiler Ottokraftstoffe berechnen sich
 durch Multiplikation der vom Verpflichteten in Verkehr gebrachten
@@ -553,6 +570,7 @@ Kilogramm Kohlenstoffdioxid-Äquivalent pro Gigajoule.
 
 
 #### § 11 Treibhausgasemissionen von weiteren fossilen Kraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001301116)
 
 (1) Die Verpflichtung zur Minderung der Treibhausgasemissionen kann
 bis einschließlich des Verpflichtungsjahres 2021 auch durch
@@ -598,9 +616,11 @@ Treibhausgasminderung festzustellen.
 
 
 ### Abschnitt 4 - Biokraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000600000)
 
 
 #### § 12 Biogenes Flüssiggas
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001400000)
 
 (1) Die Verpflichtung zur Minderung der Treibhausgasemissionen kann
 auch erfüllt werden durch Inverkehrbringen von nach § 2 Absatz 1
@@ -629,6 +649,7 @@ gilt in Höhe dieses Anteils als Biokraftstoff.
 
 
 #### § 12a Verflüssigtes Biomethan
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE003000116)
 
 (1) Die Verpflichtung zur Minderung der Treibhausgasemissionen kann
 auch erfüllt werden durch Inverkehrbringen von nach § 2 Absatz 1
@@ -654,9 +675,11 @@ wurde, gilt in Höhe dieses Anteils als Biokraftstoff.
 
 
 ## Teil 3 - Indirekte Landnutzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000700000)
 
 
 ### § 13 Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Nahrungs- und Futtermittelpflanzen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001502116)
 
 (1) Übersteigt in einem Verpflichtungsjahr der energetische Anteil der
 Biokraftstoffe aus Nahrungs- und Futtermittelpflanzen ab dem
@@ -688,6 +711,7 @@ des Absatzes 1 nichts anderes ergibt.
 
 
 ### § 13a Obergrenze für die Anrechenbarkeit von abfallbasierten Biokraftstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE003100116)
 
 Übersteigt in einem Verpflichtungsjahr der energetische Anteil der
 Biokraftstoffe, die aus den in Anlage 4 genannten Rohstoffen
@@ -699,6 +723,7 @@ hergestellt wurden, der Basiswert zugrunde gelegt. § 13 Absatz 1 Satz
 
 
 ### § 13b Obergrenze für die Anrechenbarkeit von Biokraftstoffen aus Rohstoffen mit hohem Risiko indirekter Landnutzungsänderung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE003200116)
 
 (1) Übersteigt in einem Verpflichtungsjahr der energetische Anteil der
 Biokraftstoffe aus Rohstoffen mit hohen Risiko indirekter
@@ -722,6 +747,7 @@ Verordnung (EU) 2019/807 zertifiziert sind.
 
 
 ### § 14 Mindestanteil fortschrittlicher Biokraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001602125)
 
 (1) Der Verpflichtete nach § 37a Absatz 1 Satz 1 und 2 in Verbindung
 mit Absatz 4 Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes hat
@@ -836,6 +862,7 @@ Satz 1 bis 3 des Bundes-Immissionsschutzgesetzes festzulegen.
 
 
 ### § 15 Nachweis der Einhaltung der Regelungen zu indirekten Landnutzungsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001702116)
 
 Als Nachweis für die Einhaltung der Voraussetzungen nach den §§ 13,
 13a, 13b und 14 gelten die Nachhaltigkeitsnachweise im Sinne der
@@ -849,9 +876,11 @@ dem Nachhaltigkeitsnachweis auszuweisen.
 
 
 ## Teil 4 - Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000800000)
 
 
 ### § 16 Berichte über in Verkehr gebrachte Kraftstoffe und Energieerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001801116)
 
 Die nach § 20 Absatz 2 zuständige Stelle übermittelt der nach § 20
 Absatz 1 zuständigen Stelle jährlich bis zum Ablauf des 1. November
@@ -871,13 +900,16 @@ Die Daten nach Satz 1 sind erstmals für das Verpflichtungsjahr 2021 zu
 
 
 ### (XXXX) §§ 17 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE001901116)
 
 
 
 ## Teil 5 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG000900000)
 
 
 ### § 20 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002202125)
 
 (1) Das Umweltbundesamt ist zuständig für
 
@@ -936,9 +968,11 @@ Die Daten nach Satz 1 sind erstmals für das Verpflichtungsjahr 2021 zu
 
 
 ## Teil 6 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNG001000000)
 
 
 ### § 21 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002300000)
 
 Diese Verordnung ist nicht anzuwenden auf elektrischen Strom, der vor
 dem 1. Januar 2018 aus dem Netz entnommen wurde, und auf Kraftstoffe,
@@ -946,12 +980,14 @@ die vor dem 1. Januar 2018 in Verkehr gebracht wurden.
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1 Absatz 2 und § 14 Absatz 1)
 
 ### Anlage 1 Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach § 14 Absatz 1
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002501116)
 
 (Fundstelle: BGBl. I 2017, 3899;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1037,6 +1073,7 @@ Rohstoffe für die Herstellung fortschrittlicher Biokraftstoffe nach §
 (zu den §§ 11 und 13)
 
 ### Anlage 2 Treibhausgasemissionen fossiler Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002600000)
 
 (Fundstelle: BGBl. I 2017, 3900)
 
@@ -1123,6 +1160,7 @@ Werte:
 (zu § 5 Absatz 3 und § 11 Absatz 2)
 
 ### Anlage 3 Anpassungsfaktoren für die Antriebseffizienz
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002701125)
 
 (Fundstelle: BGBl. I 2017, 3901)
 
@@ -1154,6 +1192,7 @@ Die Anpassungsfaktoren für die Antriebseffizienz sind:
 (zu § 13a)
 
 ### Anlage 4 Rohstoffe für die Herstellung von Biokraftstoffen nach § 13a
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_38_2017/BJNR389200017.html#BJNR389200017BJNE002801116)
 
 (Fundstelle: BGBl. I 2019, 743;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -21,6 +21,7 @@ Geändert durch
 Stand: Ersetzt V v. 27.8.1979 I 1559 (KälteAnlBMeistPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung, der zuletzt durch
 Artikel 3 Nummer 1 des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341)
@@ -32,6 +33,7 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im
@@ -40,6 +42,7 @@ selbständigen Prüfungsteilen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000300000)
 
 Im Kälteanlagenbauer-Handwerk sind zum Zwecke der Meisterprüfung
 folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen
@@ -121,6 +124,7 @@ Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000400000)
 
 (1) In Teil I der Prüfung hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -141,6 +145,7 @@ Prüfungsbereiche:
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an
@@ -209,6 +214,7 @@ gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000600000)
 
 Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -236,6 +242,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000700000)
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung
@@ -250,6 +257,7 @@ dokumentieren.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt dauert vier Arbeitstage. Das
 Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe
@@ -269,6 +277,7 @@ jeweils mit mindestens 30 Punkten bewertet worden sein müssen.
 
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE000900000)
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2
 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
@@ -444,6 +453,7 @@ auch handlungsfeldübergreifend verknüpft werden können.
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE001000000)
 
 (1) Teil II der Prüfung ist schriftlich durchzuführen. Sie dauert in
 jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden
@@ -474,6 +484,7 @@ des Teils II ist nicht bestanden, wenn
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE001101128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -484,6 +495,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 11 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE001200000)
 
 (1) Die bis zum 30. September 2015 begonnenen Prüfungsverfahren werden
 nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die
@@ -499,6 +511,7 @@ geltenden Vorschriften ablegen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/k_lteanlmstrv/BJNR127600015.html#BJNR127600015BJNE001300000)
 
 Diese Verordnung tritt am 1. Oktober 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über das Berufsbild und über die Prüfungsanforderungen

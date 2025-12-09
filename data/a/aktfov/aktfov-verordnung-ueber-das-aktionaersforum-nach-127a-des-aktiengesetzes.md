@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000100000)
 
 Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1
 Nr. 7 des Gesetzes vom 22. September 2005 (BGBl. I S. 2802) eingefügt
@@ -28,6 +29,7 @@ worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Einrichtung des Aktionärsforums
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000201360)
 
 (1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls
 über die Internetseiten
@@ -50,6 +52,7 @@ Eintragungen sind in Deutsch oder Englisch abzufassen.
 
 
 ## § 2 Inhalt und Aufbau des Aktionärsforums
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000300000)
 
 (1) Die Eintragungen sollen nach Gesellschaften in alphabetischer
 Reihenfolge geordnet sein und innerhalb der Gesellschaften in
@@ -80,6 +83,7 @@ veröffentlichte Eintragungen automatisiert unterrichtet wird.
 
 
 ## § 3 Registrierung, Aufforderungen des Aktionärs oder der Aktionärsvereinigung
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000402360)
 
 (1) Die Veröffentlichung einer Aufforderung kann zur Sicherung gegen
 Missbrauch nur vorgenommen werden, wenn der Aktionär oder die
@@ -167,6 +171,7 @@ zu befragen.
 
 
 ## § 4 Hinweise auf Stellungnahmen der Gesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000500000)
 
 (1) Gibt eine Gesellschaft zu einer sie betreffenden Aufforderung auf
 ihrer Internetseite eine Stellungnahme nach § 127a Abs. 4 des
@@ -180,6 +185,7 @@ entsprechend.
 
 
 ## § 5 Verweis auf eine andere Internetseite
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000600000)
 
 (1) Verweist eine Eintragung auf eine andere Internetseite, hat diese
 Internetseite innerhalb des Internetauftritts unmittelbar die
@@ -198,6 +204,7 @@ dass sich das Programm für elektronische Post des Nutzers unmittelbar
 
 
 ## § 6 Berichtigung, Löschung, Löschungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000700000)
 
 (1) Berichtigungen von Eintragungen im Aktionärsforum müssen vom
 Eintragenden vorgenommen werden.
@@ -217,6 +224,7 @@ durch den Betreiber unverzüglich gelöscht.
 
 
 ## § 7 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000800000)
 
 (1) Jedermann kann das Aktionärsforum jederzeit und ohne vorherige
 Registrierung kostenfrei einsehen. Die Einsichtnahme erfolgt
@@ -229,6 +237,7 @@ sinngemäß anzuwenden.
 
 
 ## § 8 Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE000900000)
 
 (1) Der Betreiber hat durch organisatorische und dem jeweiligen Stand
 der Technik entsprechende technische Maßnahmen sicherzustellen, dass
@@ -250,6 +259,7 @@ aktuellen technischen Entwicklungen zu überprüfen.
 
 
 ## § 9 Entgelte, Veröffentlichung
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE001001360)
 
 (1) Der Betreiber kann mit dem Eintragenden vertraglich ein
 angemessenes Entgelt für die Eintragung vereinbaren. Das gilt auch für
@@ -272,6 +282,7 @@ elektronischen Postadresse mitzuteilen.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/aktfov/BJNR319300005.html#BJNR319300005BJNE001100000)
 
 Diese Verordnung tritt am 1. Dezember 2005 in Kraft.
 

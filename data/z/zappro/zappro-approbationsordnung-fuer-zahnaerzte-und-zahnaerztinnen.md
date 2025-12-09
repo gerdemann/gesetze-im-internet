@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000100000)
 
 
 ### § 1 Ziele
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000201116)
 
 (1) Ziel der zahnärztlichen Ausbildung ist der Zahnarzt und die
 Zahnärztin, der oder die wissenschaftlich und praktisch in der
@@ -48,6 +50,7 @@ regelmäßig und systematisch bewertet werden.
 
 
 ### § 2 Gliederung und Dauer
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000301116)
 
 (1) Die zahnärztliche Ausbildung umfasst
 
@@ -87,6 +90,7 @@ Hochschulrahmengesetzes beträgt fünf Jahre und sechs Monate.
 
 
 ### § 3 Inhalt und Organisation des Studiums der Zahnmedizin
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000401116)
 
 (1) Die Universität bietet ein Studium der Zahnmedizin an, durch das
 das in § 1 Absatz 1 genannte Ziel erreicht wird und das es den
@@ -113,6 +117,7 @@ zuzurechnen.
 
 
 ### § 4 Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000501116)
 
 Die Universität regelt in einer Studienordnung,
 
@@ -133,6 +138,7 @@ Die Universität regelt in einer Studienordnung,
 
 
 ### § 5 Unterrichtsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000601116)
 
 (1) Im Studium der Zahnmedizin haben die Universitäten folgende
 Unterrichtsveranstaltungen anzubieten:
@@ -166,6 +172,7 @@ Evaluation öffentlich bekannt.
 
 
 ### § 6 Vorlesungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000701116)
 
 (1) Die Vorlesung ist eine zusammenhängende Darstellung und
 Vermittlung von wissenschaftlichen und methodischen Kenntnissen durch
@@ -178,6 +185,7 @@ zu begleiten.
 
 
 ### § 7 Praktische Übungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000801116)
 
 (1) Die praktischen Übungen umfassen
 
@@ -229,6 +237,7 @@ angeeignet haben und dass sie sie in der Praxis anzuwenden wissen.
 
 
 ### § 8 Seminare
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE000901116)
 
 (1) In den Seminaren wird der durch praktische Übungen und Vorlesungen
 vermittelte Lehrstoff vertiefend anwendungs- und gegenstandsbezogen
@@ -259,6 +268,7 @@ Zusammenhängen erfasst haben, und in der Lage sind, dies darzustellen.
 
 
 ### § 9 Gegenstandsbezogene Studiengruppen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001001116)
 
 (1) Gegenstandsbezogene Studiengruppen haben die Aufgabe, den in
 praktischen Übungen, Seminaren und Vorlesungen dargestellten Stoff zu
@@ -282,6 +292,7 @@ Fallbeispiele eigenständig und sachgerecht bearbeiten können.
 
 
 ### § 10 Wahlfach vor dem Ersten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001101116)
 
 (1) Die Studierenden können bis zum Ersten Abschnitt der
 Zahnärztlichen Prüfung von der Universität angebotene Wahlfächer
@@ -294,6 +305,7 @@ aufgenommen.
 
 
 ### § 11 Wahlfach vor dem Dritten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001200000)
 
 (1) Die Studierenden haben bis zum Dritten Abschnitt der
 Zahnärztlichen Prüfung ein weiteres Wahlfach abzuleisten.
@@ -307,6 +319,7 @@ wird in das Zeugnis nach dem Muster der Anlage 18 aufgenommen.
 
 
 ### § 12 Bescheinigung der regelmäßigen und erfolgreichen Teilnahme an den Unterrichtsveranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001300000)
 
 Die Universitäten bescheinigen den Studierenden ihre regelmäßige und
 erfolgreiche Teilnahme an den Unterrichtsveranstaltungen, die in § 5
@@ -315,6 +328,7 @@ Muster der Anlagen 6, 7 oder 8 (zusammenfassende Bescheinigungen).
 
 
 ### § 13 Ausbildung in erster Hilfe
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001400000)
 
 (1) Die Ausbildung in erster Hilfe soll durch theoretischen Unterricht
 und praktische Unterweisungen gründliches Wissen und praktisches
@@ -360,6 +374,7 @@ durch folgende Bescheinigungen erfolgen:
 
 
 ### § 14 Pflegedienst
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001501116)
 
 (1) Der Pflegedienst hat den Zweck, Studienanwärter und
 Studienanwärterinnen oder Studierende in den Betrieb und die
@@ -446,6 +461,7 @@ zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen.
 
 
 ### § 15 Famulatur
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001600000)
 
 (1) Die Famulatur hat den Zweck, die Studierenden mit der praktischen
 zahnärztlichen Tätigkeit auf verschiedenen zahnärztlichen Berufs- und
@@ -486,6 +502,7 @@ Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen.
 
 
 ### § 16 Fachkunde im Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001700000)
 
 (1) Mit Bestehen des Dritten Abschnitts der Zahnärztlichen Prüfung
 wird die Fachkunde im Strahlenschutz für das Anwendungsgebiet
@@ -520,18 +537,22 @@ ist.
 
 
 ## Abschnitt 2 - Zahnärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000200000)
 
 
 ### Unterabschnitt 1 - Allgemeine Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000300000)
 
 
 #### § 17 Einrichtung der für das Prüfungswesen zuständigen Stelle
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001800000)
 
 Die Länder richten zuständige Stellen ein, vor denen die Zahnärztliche
 Prüfung abgelegt wird.
 
 
 #### § 18 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE001901116)
 
 (1) Der jeweilige Abschnitt der Zahnärztlichen Prüfung wird
 vollständig vor der zuständigen Stelle desjenigen Landes abgelegt, in
@@ -570,6 +591,7 @@ kompensieren.
 
 
 #### § 19 Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002002130)
 
 (1) Der Antrag auf Zulassung zu einem Abschnitt der Zahnärztlichen
 Prüfung ist an die nach § 18 zuständige Stelle zu richten.
@@ -584,6 +606,7 @@ Januar oder bis zum 10. Juni zugegangen sein.
 
 
 #### § 20 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002102130)
 
 (1) Dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen
 Prüfung sind folgende Unterlagen beizufügen:
@@ -724,6 +747,7 @@ beizufügen.
 
 
 #### § 21 Versagung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002201116)
 
 (1) Die Zulassung zu einem Abschnitt der Zahnärztlichen Prüfung ist zu
 versagen, wenn
@@ -773,6 +797,7 @@ nicht zu versagen, wenn
 
 
 #### § 22 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002302130)
 
 (1) Einem oder einer Studierenden mit einer Behinderung oder einer
 Beeinträchtigung wird bei der Durchführung eines Abschnitts der
@@ -803,6 +828,7 @@ verändert werden.
 
 
 #### § 23 Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002401130)
 
 (1) Studienzeiten, Studienleistungen und Prüfungsleistungen, die in
 einem dem zahnmedizinischen Studiengang verwandten Studiengang an
@@ -838,6 +864,7 @@ Landes Nordrhein-Westfalen zuständig.
 
 
 #### § 24 Notenstufen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002500000)
 
 Für die Noten in den verschiedenen Abschnitten der Zahnärztlichen
 Prüfung werden folgende Notenstufen festgelegt:
@@ -861,6 +888,7 @@ Prüfung werden folgende Notenstufen festgelegt:
 
 
 #### § 25 Ordnungsverstöße, Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002601130)
 
 Die nach § 18 zuständige Stelle kann einen Prüfungsteil, die mündliche
 Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in einer
@@ -891,6 +919,7 @@ Studierende
 
 
 #### § 26 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002702130)
 
 (1) Tritt ein Studierender oder eine Studierende nach seiner oder
 ihrer Zulassung von einem Abschnitt der Zahnärztlichen Prüfung, einem
@@ -930,6 +959,7 @@ der Fächergruppe Zahnerhaltung als nicht bestanden.
 
 
 #### § 27 Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002802130)
 
 (1) Ein Studierender oder eine Studierende hat einen Prüfungsteil, die
 mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung in
@@ -980,15 +1010,18 @@ die Studierende die ärztliche Bescheinigung vorzulegen hat.
 
 
 ### Unterabschnitt 2 - Erster Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000400000)
 
 
 #### § 28 Zeitpunkt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE002901116)
 
 Der Erste Abschnitt der Zahnärztlichen Prüfung wird frühestens am Ende
 des vierten Fachsemesters des Studiums der Zahnmedizin abgelegt.
 
 
 #### § 29 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003000000)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung ist eine mündliche
 Prüfung.
@@ -1002,6 +1035,7 @@ mündliche Prüfung nur im Fach Zahnmedizinische Propädeutik ab.
 
 
 #### § 30 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003101130)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung findet in der
 vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
@@ -1012,6 +1046,7 @@ Einvernehmen mit der Universität fest.
 
 
 #### § 31 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003200000)
 
 Die nach § 18 zuständige Stelle stellt dem oder der Studierenden die
 Ladung für alle Prüfungstermine spätestens fünf Kalendertage vor dem
@@ -1020,6 +1055,7 @@ erfolgen.
 
 
 #### § 32 Inhalt des Ersten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003302130)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung umfasst:
 
@@ -1080,6 +1116,7 @@ zahnmedizinischen Zusammenhänge beziehen.
 
 
 #### § 33 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003402130)
 
 (1) Der Erste Abschnitt der Zahnärztlichen Prüfung wird vor einer
 Prüfungskommission abgelegt.
@@ -1106,6 +1143,7 @@ beizuwohnen.
 
 
 #### § 34 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003501130)
 
 (1) In einem Prüfungstermin dürfen nicht mehr als vier Studierende
 geprüft werden.
@@ -1142,6 +1180,7 @@ Person zu unterzeichnen.
 
 
 #### § 35 Anwesenheit weiterer Personen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003601116)
 
 (1) Die nach § 18 zuständige Stelle kann zu den einzelnen
 Prüfungsterminen des Ersten Abschnitts der Zahnärztlichen Prüfung
@@ -1168,6 +1207,7 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 
 #### § 36 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003701130)
 
 (1) Die prüfenden Personen bewerten die Leistungen im Ersten Abschnitt
 der Zahnärztlichen Prüfung anhand von strukturierten Bewertungsbögen
@@ -1216,6 +1256,7 @@ gemacht werden.
 
 
 #### § 37 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003801130)
 
 Der Erste Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn die
 Note in jeder Fächergruppe und in dem Fach Zahnmedizinische
@@ -1223,6 +1264,7 @@ Propädeutik mindestens „ausreichend“ lautet.
 
 
 #### § 38 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE003901130)
 
 (1) Wird die mündliche Prüfung in einer Fächergruppe oder in dem Fach
 Zahnmedizinische Propädeutik nicht bestanden, darf sie in dieser
@@ -1252,6 +1294,7 @@ auch im Rahmen eines erneuten Studiums der Zahnmedizin nicht möglich.
 
 
 #### § 39 Note für den Ersten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004001130)
 
 (1) Ist der Erste Abschnitt der Zahnärztlichen Prüfung bestanden,
 ermittelt die der Prüfungskommission vorsitzende Person die Note für
@@ -1308,6 +1351,7 @@ schriftlich oder elektronisch.
 
 
 #### § 40 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004100000)
 
 Die nach § 18 zuständige Stelle erteilt über das Bestehen des Ersten
 Abschnitts der Zahnärztlichen Prüfung ein Zeugnis nach dem Muster der
@@ -1315,6 +1359,7 @@ Anlage 16.
 
 
 #### § 41 Mitteilung bei endgültigem Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004201130)
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
 oder die Studierende und die zuständigen Stellen der anderen Länder,
@@ -1329,9 +1374,11 @@ kann.
 
 
 ### Unterabschnitt 3 - Zweiter Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000500000)
 
 
 #### § 42 Zeitpunkt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004301116)
 
 Der Zweite Abschnitt der Zahnärztlichen Prüfung wird frühestens am
 Ende des zweiten Fachsemesters des Studiums der Zahnmedizin nach
@@ -1339,6 +1386,7 @@ Bestehen des Ersten Abschnitts der Zahnärztlichen Prüfung abgelegt.
 
 
 #### § 43 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004400000)
 
 Der Zweite Abschnitt der Zahnärztlichen Prüfung ist eine mündlich-
 praktische Prüfung. Sie besteht aus einem praktischen Prüfungselement
@@ -1346,6 +1394,7 @@ und einem mündlichen Prüfungselement.
 
 
 #### § 44 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004501130)
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung findet in der
 vorlesungsfreien Zeit statt. Nachholtermine können auch zu einer
@@ -1361,6 +1410,7 @@ stattfinden.
 
 
 #### § 45 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004600000)
 
 Die nach § 18 zuständige Stelle stellt dem oder der Studierenden die
 Ladung für alle Prüfungstermine spätestens fünf Kalendertage vor dem
@@ -1369,6 +1419,7 @@ elektronisch erfolgen.
 
 
 #### § 46 Inhalt des Zweiten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004700000)
 
 (1) Im Zweiten Abschnitt der Zahnärztlichen Prüfung hat der oder die
 Studierende fächerübergreifend zu zeigen, dass er oder sie
@@ -1421,6 +1472,7 @@ Studierende fächerübergreifend zu zeigen, dass er oder sie
 
 
 #### § 47 Praktisches Prüfungselement
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004801130)
 
 (1) Im praktischen Prüfungselement wird der oder die Studierende
 anhand standardisierter Ausbildungssituationen in jedem Fach des
@@ -1527,6 +1579,7 @@ Zeit erbringen konnte.
 
 
 #### § 48 Mündliches Prüfungselement
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE004902130)
 
 (1) Im mündlichen Prüfungselement wird der oder die Studierende in
 jedem Fach und in der Fächergruppe Zahnerhaltung des Zweiten
@@ -1552,6 +1605,7 @@ Zusammenhänge beziehen.
 
 
 #### § 49 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005002130)
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung wird vor einer
 Prüfungskommission abgelegt.
@@ -1590,6 +1644,7 @@ beizuwohnen.
 
 
 #### § 50 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005102130)
 
 (1) Im praktischen Prüfungselement des Zweiten Abschnitts der
 Zahnärztlichen Prüfung dokumentiert die jeweilige prüfende Person die
@@ -1628,6 +1683,7 @@ Person zu unterzeichnen.
 
 
 #### § 51 Anwesenheit weiterer Personen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005201116)
 
 (1) Die nach § 18 zuständige Stelle kann zu den einzelnen
 Prüfungsterminen des Zweiten Abschnitts der Zahnärztlichen Prüfung
@@ -1654,6 +1710,7 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 
 #### § 52 Bewertung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005301130)
 
 (1) Die prüfenden Personen bewerten die Leistungen im Zweiten
 Abschnitt der Zahnärztlichen Prüfung anhand von strukturierten
@@ -1742,6 +1799,7 @@ gemacht werden.
 
 
 #### § 53 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005401130)
 
 (1) Der Zweite Abschnitt der Zahnärztlichen Prüfung ist bestanden,
 wenn die Note in jedem Fach und in der Fächergruppe Zahnerhaltung
@@ -1759,6 +1817,7 @@ jeweils mindestens „ausreichend“ lautet.
 
 
 #### § 54 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005501130)
 
 (1) Wird die mündlich-praktische Prüfung in einem Fach oder in der
 Fächergruppe Zahnerhaltung nicht bestanden, darf sie in diesem Fach
@@ -1788,6 +1847,7 @@ Studiums der Zahnmedizin nicht möglich.
 
 
 #### § 55 Note für den Zweiten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005601130)
 
 (1) Ist der Zweite Abschnitt der Zahnärztlichen Prüfung bestanden,
 ermittelt die der Prüfungskommission vorsitzende Person die Note für
@@ -1840,6 +1900,7 @@ schriftlich oder elektronisch.
 
 
 #### § 56 Zeugnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005700000)
 
 Die nach § 18 zuständige Stelle erteilt über das Bestehen des Zweiten
 Abschnitts der Zahnärztlichen Prüfung ein Zeugnis nach dem Muster der
@@ -1847,6 +1908,7 @@ Anlage 17.
 
 
 #### § 57 Mitteilung bei endgültigem Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005801130)
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
 oder die Studierende und die zuständigen Stellen der anderen Länder,
@@ -1861,9 +1923,11 @@ kann.
 
 
 ### Unterabschnitt 4 - Dritter Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000600000)
 
 
 #### § 58 Zeitpunkt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE005901116)
 
 Der Dritte Abschnitt der Zahnärztlichen Prüfung wird frühestens am
 Ende des vierten Fachsemesters des Studiums der Zahnmedizin nach
@@ -1871,6 +1935,7 @@ Bestehen des Zweiten Abschnitts der Zahnärztlichen Prüfung abgelegt.
 
 
 #### § 59 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006000000)
 
 (1) Der Dritte Abschnitt der Zahnärztlichen Prüfung besteht aus einem
 mündlich-praktischen Teil und einem schriftlichen Teil.
@@ -1880,6 +1945,7 @@ schriftlichen Teil nicht ab.
 
 
 #### § 60 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006101116)
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung beginnt in der vorlesungsfreien Zeit und findet
@@ -1897,6 +1963,7 @@ mit der Universität fest.
 
 
 #### § 61 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006200000)
 
 Die nach § 18 zuständige Stelle stellt dem oder der Studierenden die
 Ladung zum schriftlichen Teil des Dritten Abschnitts der
@@ -1908,6 +1975,7 @@ Ladung kann schriftlich oder elektronisch erfolgen.
 
 
 #### § 62 Inhalt des Dritten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006300000)
 
 (1) Im Dritten Abschnitt der Zahnärztlichen Prüfung hat der oder die
 Studierende fächerübergreifend zu zeigen, dass er oder sie
@@ -1933,6 +2001,7 @@ relevanten seltenen Erkrankungen.
 
 
 #### § 63 Mündlich-praktischer Teil
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006400000)
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung umfasst
@@ -1979,6 +2048,7 @@ einem mündlichen Prüfungselement.
 
 
 #### § 64 Praktisches Prüfungselement
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006502130)
 
 (1) Im praktischen Prüfungselement wird der oder die Studierende
 patientenbezogen in jedem Fach des Dritten Abschnitts der
@@ -2122,6 +2192,7 @@ in einer kürzeren Zeit erbringen konnte.
 
 
 #### § 65 Mündliches Prüfungselement
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006602130)
 
 (1) Im mündlichen Prüfungselement wird der oder die Studierende in
 jedem Fach und in der Fächergruppe Zahnerhaltung des mündlich-
@@ -2151,6 +2222,7 @@ nachzuweisen.
 
 
 #### § 66 Prüfungskommission für den mündlich-praktischen Teil
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006702130)
 
 (1) Der mündlich-praktische Teil wird vor einer Prüfungskommission
 abgelegt.
@@ -2196,6 +2268,7 @@ Prüfung in allen Fächern beizuwohnen.
 
 
 #### § 67 Durchführung des mündlich-praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006802130)
 
 (1) Im praktischen Prüfungselement des mündlich-praktischen Teils des
 Dritten Abschnitts der Zahnärztlichen Prüfung dokumentiert die
@@ -2236,6 +2309,7 @@ Person zu unterzeichnen.
 
 
 #### § 68 Anwesenheit weiterer Personen beim mündlich-praktischen Teil
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE006901116)
 
 (1) Die nach § 18 zuständige Stelle kann zu den einzelnen
 Prüfungsterminen des mündlich-praktischen Teils des Dritten Abschnitts
@@ -2271,6 +2345,7 @@ Bekanntgabe des Prüfungsergebnisses darf nicht übertragen werden.
 
 
 #### § 69 Bewertung des mündlich-praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007001130)
 
 (1) Die prüfenden Personen bewerten die Leistungen in dem mündlich-
 praktischen Teil des Dritten Abschnitts der Zahnärztlichen Prüfung
@@ -2362,6 +2437,7 @@ gemacht werden.
 
 
 #### § 70 Bestehen des mündlich-praktischen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007101130)
 
 (1) Der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung ist bestanden, wenn die Note in jedem Fach und
@@ -2382,6 +2458,7 @@ jeweils mindestens „ausreichend“ lauten.
 
 
 #### § 71 Note für den mündlich-praktischen Teil
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007202130)
 
 (1) Ist der mündlich-praktische Teil des Dritten Abschnitts der
 Zahnärztlichen Prüfung bestanden, ermittelt die der Prüfungskommission
@@ -2434,6 +2511,7 @@ schriftlich oder elektronisch.
 
 
 #### § 72 Inhalt des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007301116)
 
 (1) Der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen
 Prüfung umfasst die folgenden Fächer:
@@ -2509,6 +2587,7 @@ abdecken und können übergreifend gestellt werden.
 
 
 #### § 73 Durchführung des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007400000)
 
 (1) Allen Studierenden, die an demselben schriftlichen Teil des
 Dritten Abschnitts der Zahnärztlichen Prüfung teilnehmen, sind
@@ -2573,6 +2652,7 @@ richtig beantwortet, wenn
 
 
 #### § 74 Bestehen des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007501116)
 
 (1) Der schriftliche Teil des Dritten Abschnitts der Zahnärztlichen
 Prüfung ist bestanden, wenn die Bestehensgrenze erreicht worden ist.
@@ -2605,6 +2685,7 @@ schriftlichen Teils.
 
 
 #### § 75 Bewertung des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007600000)
 
 (1) Hat der oder die Studierende den schriftlichen Teil nach § 74
 Absatz 1 bestanden, lautet die Note
@@ -2648,6 +2729,7 @@ bis 9 aufgerundet.
 
 
 #### § 76 Mitteilung des Ergebnisses des schriftlichen Teils
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007701130)
 
 Die nach § 18 zuständige Stelle stellt das Ergebnis des schriftlichen
 Teils des Dritten Abschnitts der Zahnärztlichen Prüfung fest und teilt
@@ -2677,12 +2759,14 @@ oder elektronisch. In der Ergebnismitteilung sind anzugeben:
 
 
 #### § 77 Bestehen des Dritten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007800000)
 
 Der Dritte Abschnitt der Zahnärztlichen Prüfung ist bestanden, wenn
 der schriftliche und der mündlich-praktische Teil bestanden sind.
 
 
 #### § 78 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE007901130)
 
 (1) Wird der mündlich-praktische Teil in einem Fach oder in der
 Fächergruppe Zahnerhaltung nicht bestanden, darf er in diesem Fach
@@ -2731,6 +2815,7 @@ Zahnmedizin nicht möglich.
 
 
 #### § 79 Note für den Dritten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008000000)
 
 (1) Ist der Dritte Abschnitt der Zahnärztlichen Prüfung bestanden,
 ermittelt die nach § 18 zuständige Stelle die Note für den Dritten
@@ -2775,6 +2860,7 @@ Rundung errechnet.
 
 
 #### § 80 Mitteilung bei endgültigem Nichtbestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008101130)
 
 (1) Die zuständigen Stellen der Länder unterrichten den Studierenden
 oder die Studierende und die zuständigen Stellen der anderen Länder,
@@ -2790,6 +2876,7 @@ Zahnärztlichen Prüfung zugelassen werden kann.
 
 
 #### § 81 Zeugnis über die Zahnärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008200000)
 
 Die nach § 18 zuständige Stelle erteilt
 
@@ -2806,9 +2893,11 @@ Die nach § 18 zuständige Stelle erteilt
 
 
 ## Abschnitt 3 - Modellstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000700000)
 
 
 ### § 82 Modellstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008301116)
 
 (1) Die nach Landesrecht zuständige Stelle kann einen
 Modellstudiengang zulassen, der von den Vorgaben dieser Verordnung
@@ -2897,12 +2986,15 @@ Dritten Abschnitt der Zahnärztlichen Prüfung vorzulegen.
 
 
 ## Abschnitt 4 - Die Approbation
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000800000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG000900000)
 
 
 #### § 83 Antrag auf Approbation
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008400000)
 
 Der Antrag auf Approbation als Zahnarzt oder als Zahnärztin ist an die
 Behörde zu stellen, die nach § 16 Absatz 1 Satz 1 des Gesetzes über
@@ -2912,6 +3004,7 @@ Approbation als Zahnarzt oder als Zahnärztin zuständig ist.
 
 
 #### § 84 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008500000)
 
 (1) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -2955,6 +3048,7 @@ und Bescheinigungen beizufügen.
 
 
 #### § 85 Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008600000)
 
 Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
@@ -2966,6 +3060,7 @@ welche Unterlagen und Bescheinigungen fehlen.
 
 
 #### § 86 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008700000)
 
 (1) Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
@@ -2988,6 +3083,7 @@ Bestätigung verlangt wurde.
 
 
 #### § 87 Bescheid über die Feststellung der wesentlichen Unterschiede
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008800000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde erteilt der antragstellenden Person
@@ -3047,6 +3143,7 @@ gegebenenfalls nach § 107 Absatz 2 umfasst.
 
 
 #### § 88 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE008900000)
 
 Die nach § 16 Absatz 1 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde oder nach § 16 Absatz 2 Satz 1 des Gesetzes über die
@@ -3057,9 +3154,11 @@ Empfangsbekenntnis aus oder stellt sie ihr mit Zustellungsurkunde zu.
 
 
 ### Unterabschnitt 2 - Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001000000)
 
 
 #### § 89 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009000000)
 
 (1) Die Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die
 Ausübung der Zahnheilkunde kann aus folgenden Abschnitten bestehen,
@@ -3091,6 +3190,7 @@ bestanden wurde.
 
 
 #### § 90 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009100000)
 
 (1) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten
 werden.
@@ -3109,6 +3209,7 @@ zugegangen ist, ablegen kann.
 
 
 #### § 91 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009200000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde stellt der antragstellenden Person
@@ -3117,6 +3218,7 @@ Prüfungstermin zu.
 
 
 #### § 92 Inhalt der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009300000)
 
 (1) Die Eignungsprüfung umfasst die Fächer und Querschnittsbereiche,
 in denen die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung
@@ -3133,6 +3235,7 @@ erforderlich sind.
 
 
 #### § 93 Schriftlicher Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009400000)
 
 Im schriftlichen Abschnitt der Eignungsprüfung hat die antragstellende
 Person unter Aufsicht eine schriftliche Behandlungsplanung für eine
@@ -3144,6 +3247,7 @@ Behandlungsvorschläge schriftlich zu entwickeln und zu begründen.
 
 
 #### § 94 Mündlicher Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009500000)
 
 (1) Der mündliche Abschnitt der Eignungsprüfung wird in Form eines
 Prüfungsgesprächs durchgeführt. Das Prüfungsgespräch bezieht sich auf
@@ -3161,6 +3265,7 @@ vorgegeben ist, nicht überschreiten.
 
 
 #### § 95 Praktischer Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009601116)
 
 (1) In dem praktischen Abschnitt der Eignungsprüfung sind je nach
 Umfang der festgestellten wesentlichen Unterschiede zwischen der
@@ -3182,6 +3287,7 @@ Dauer nicht überschreiten.
 
 
 #### § 96 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009702130)
 
 (1) Der mündliche Abschnitt und der praktische Abschnitt der
 Eignungsprüfung werden vor einer Prüfungskommission abgelegt. Die
@@ -3220,6 +3326,7 @@ Stimmenmehrheit.
 
 
 #### § 97 Durchführung der Eignungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009801116)
 
 (1) In einem Prüfungsgespräch wird in der Regel nur eine
 antragstellende Person geprüft. Sofern es die zu prüfenden Fächer
@@ -3271,6 +3378,7 @@ Ausübung der Zahnheilkunde zuständigen Behörde zu.
 
 
 #### § 98 Anwesenheit weiterer Personen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE009900000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zum mündlichen Abschnitt und zum
@@ -3279,6 +3387,7 @@ entsenden.
 
 
 #### § 99 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010001116)
 
 (1) Die Eignungsprüfung ist bestanden, wenn alle geprüften Abschnitte
 der Eignungsprüfung als bestanden bewertet werden. Das Bestehen eines
@@ -3293,6 +3402,7 @@ antragstellenden Person.
 
 
 #### § 100 Ordnungsverstöße, Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010100000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann einen Abschnitt der
@@ -3309,6 +3419,7 @@ Person
 
 
 #### § 101 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010200000)
 
 (1) Tritt eine antragstellende Person nach ihrer Zulassung von
 einzelnen Abschnitten der Eignungsprüfung oder von der gesamten
@@ -3334,6 +3445,7 @@ bestanden.
 
 
 #### § 102 Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010300000)
 
 (1) Eine antragstellende Person hat einen Abschnitt der
 Eignungsprüfung nicht bestanden, wenn sie
@@ -3366,15 +3478,18 @@ antragstellende Person die ärztliche Bescheinigung vorzulegen hat.
 
 
 #### § 103 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010400000)
 
 Jeder nicht bestandene Abschnitt der Eignungsprüfung kann jeweils
 zweimal wiederholt werden.
 
 
 ### Unterabschnitt 3 - Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001100000)
 
 
 #### § 104 Art der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010500000)
 
 (1) Die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die
 Ausübung der Zahnheilkunde besteht aus folgenden Abschnitten, die
@@ -3397,6 +3512,7 @@ bestanden wurde.
 
 
 #### § 105 Prüfungstermine
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010600000)
 
 (1) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden.
@@ -3415,6 +3531,7 @@ die Ausübung der Zahnheilkunde zugegangen ist, ablegen kann.
 
 
 #### § 106 Ladung zu den Prüfungsterminen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010700000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde stellt der antragstellenden Person
@@ -3423,6 +3540,7 @@ Prüfungstermin zu.
 
 
 #### § 107 Inhalt der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010800000)
 
 (1) Die Kenntnisprüfung umfasst
 
@@ -3479,6 +3597,7 @@ zahnärztlichen Berufs erforderlich sind.
 
 
 #### § 108 Schriftlicher Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE010900000)
 
 Im schriftlichen Abschnitt der Kenntnisprüfung hat die antragstellende
 Person unter Aufsicht eine schriftliche Behandlungsplanung für eine
@@ -3490,6 +3609,7 @@ Behandlungsvorschläge schriftlich zu entwickeln und zu begründen.
 
 
 #### § 109 Mündlicher Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011000000)
 
 (1) Der mündliche Abschnitt der Kenntnisprüfung wird in Form eines
 Prüfungsgesprächs durchgeführt. Das Prüfungsgespräch bezieht sich auf
@@ -3506,6 +3626,7 @@ Minuten je antragstellender Person.
 
 
 #### § 110 Praktischer Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011100000)
 
 (1) Im praktischen Abschnitt der Kenntnisprüfung wird die
 antragstellende Person anhand standardisierter Ausbildungssituationen
@@ -3584,6 +3705,7 @@ vergleichbare zahnärztliche Leistungen zu erbringen:
 
 
 #### § 111 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011202130)
 
 (1) Der mündliche Abschnitt und der praktische Abschnitt der
 Kenntnisprüfung werden vor einer Prüfungskommission abgelegt. Die
@@ -3622,6 +3744,7 @@ Stimmenmehrheit.
 
 
 #### § 112 Durchführung der Kenntnisprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011301116)
 
 (1) In einem Prüfungsgespräch dürfen nicht mehr als vier
 antragstellende Personen gleichzeitig von derselben Prüfungskommission
@@ -3669,6 +3792,7 @@ Ausübung der Zahnheilkunde zuständigen Behörde zu.
 
 
 #### § 113 Anwesenheit weiterer Personen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011400000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann zum mündlichen Abschnitt und zum
@@ -3677,6 +3801,7 @@ entsenden.
 
 
 #### § 114 Bestehen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011500000)
 
 (1) Die Kenntnisprüfung ist bestanden, wenn alle drei Abschnitte der
 Kenntnisprüfung als bestanden bewertet werden. Das Bestehen eines
@@ -3691,6 +3816,7 @@ antragstellenden Person.
 
 
 #### § 115 Ordnungsverstöße, Täuschungsversuche
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011600000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde kann einen Abschnitt der
@@ -3707,6 +3833,7 @@ Person
 
 
 #### § 116 Rücktritt von der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011700000)
 
 (1) Tritt eine antragstellende Person nach ihrer Zulassung von
 einzelnen Abschnitten der Kenntnisprüfung oder von der gesamten
@@ -3732,6 +3859,7 @@ bestanden.
 
 
 #### § 117 Versäumnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011800000)
 
 (1) Eine antragstellende Person hat einen Abschnitt der
 Kenntnisprüfung nicht bestanden, wenn sie
@@ -3764,18 +3892,22 @@ antragstellende Person die ärztliche Bescheinigung vorzulegen hat.
 
 
 #### § 118 Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE011900000)
 
 Jeder nicht bestandene Abschnitt der Kenntnisprüfung kann jeweils
 zweimal wiederholt werden.
 
 
 ## Abschnitt 5 - Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001200000)
 
 
 ### Unterabschnitt 1 - Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001300000)
 
 
 #### § 119 Antrag auf erstmalige Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012000000)
 
 Der Antrag auf erstmalige Erteilung einer Erlaubnis zur
 vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 1 des
@@ -3785,6 +3917,7 @@ zuständige Behörde zu richten.
 
 
 #### § 120 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012101116)
 
 (1) Beantragt die antragstellende Person erstmals die Erteilung der
 Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
@@ -3897,6 +4030,7 @@ untersagt worden ist.
 
 
 #### § 121 Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012200000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
@@ -3915,6 +4049,7 @@ Zahnheilkunde zuständige Behörde dies der antragstellenden Person mit.
 
 
 #### § 122 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012300000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
@@ -3995,6 +4130,7 @@ nach dem Muster der Anlage 23 ausgestellt.
 
 
 #### § 123 Verlängerung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012400000)
 
 (1) Der Antrag auf Verlängerung der Erlaubnis zur vorübergehenden
 Ausübung der Zahnheilkunde nach § 13 Absatz 1 des Gesetzes über die
@@ -4036,9 +4172,11 @@ erforderlichen Unterlagen.
 
 
 ### Unterabschnitt 2 - Erlaubnis nach § 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001400000)
 
 
 #### § 124 Antrag auf erstmalige Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012500000)
 
 Der Antrag auf erstmalige Erteilung einer Erlaubnis zur
 vorübergehenden Ausübung der Zahnheilkunde nach § 13 Absatz 1a des
@@ -4048,6 +4186,7 @@ zuständige Behörde zu richten.
 
 
 #### § 125 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012600000)
 
 (1) Beantragt die antragstellende Person erstmals die Erteilung der
 Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
@@ -4121,6 +4260,7 @@ untersagt worden ist.
 
 
 #### § 126 Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012700000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
@@ -4141,6 +4281,7 @@ der antragstellenden Person mit.
 
 
 #### § 127 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012800000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
@@ -4229,6 +4370,7 @@ nach dem Muster der Anlage 24 ausgestellt.
 
 
 #### § 128 Verlängerung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE012900000)
 
 (1) Der Antrag auf Verlängerung der Erlaubnis zur vorübergehenden
 Ausübung der Zahnheilkunde nach § 13 Absatz 1a des Gesetzes über die
@@ -4266,9 +4408,11 @@ erforderlichen Unterlagen.
 
 
 ### Unterabschnitt 3 - Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001500000)
 
 
 #### § 129 Antrag auf Erteilung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013000000)
 
 Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung
 der Zahnheilkunde nach § 13 Absatz 4 des Gesetzes über die Ausübung
@@ -4277,6 +4421,7 @@ der Zahnheilkunde ist an die nach § 16 Absatz 2 Satz 1 des Gesetzes
 
 
 #### § 130 Antragsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013100000)
 
 (1) Die antragstellende Person hat dem Antrag auf Erteilung einer
 Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde nach § 13
@@ -4364,6 +4509,7 @@ vorübergehend untersagt worden ist.
 
 
 #### § 131 Bestätigung des Antragseingangs
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013200000)
 
 Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde bestätigt der antragstellenden Person
@@ -4375,6 +4521,7 @@ gegebenenfalls mit, welche Unterlagen fehlen.
 
 
 #### § 132 Entscheidung über den Antrag
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013300000)
 
 (1) Die nach § 16 Absatz 2 Satz 1 des Gesetzes über die Ausübung der
 Zahnheilkunde zuständige Behörde entscheidet über den Antrag auf
@@ -4428,9 +4575,11 @@ nach dem Muster der Anlage 25 ausgestellt.
 
 
 ## Abschnitt 6 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNG001600000)
 
 
 ### § 133 Anwendung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013402116)
 
 (1) Die Approbationsordnung für Zahnärzte in der am 30. September 2020
 geltenden Fassung ist vorbehaltlich des § 134 auf Studierende weiter
@@ -4452,6 +4601,7 @@ werden.
 
 
 ### § 134 Abweichende Regelungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013502116)
 
 (1) Studierende nach § 133, die bis zum 10. Februar 2025 nicht für die
 zahnärztliche Vorprüfung zugelassen sind und die
@@ -4523,6 +4673,7 @@ Dritten Abschnitts der Zahnärztlichen Prüfung teilgenommen haben.
 
 
 ### § 135 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016100130)
 
 (1) Für Studierende der Zahnmedizin, die einen Abschnitt, einen Teil,
 eine Fächergruppe oder ein Fach der Zahnärztlichen Prüfungen nach den
@@ -4559,6 +4710,7 @@ wird, gilt Absatz 3 entsprechend.
 § 20 Absatz 1 Satz 1 Nummer 4, § 82 Absatz 2 Nummer 9)
 
 ### Anlage 1 Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013601116)
 
 (Fundstelle: BGBl. I 2019, 965)
 
@@ -4605,6 +4757,7 @@ Gesamtstundenzahl von mindestens 84 Stunden.
 § 134 Absatz 1 Satz 4)
 
 ### Anlage 2 Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013701116)
 
 (Fundstelle: BGBl. I 2019, 966)
 
@@ -4628,6 +4781,7 @@ Gesamtstundenzahl von mindestens 84 Stunden.
 und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)
 
 ### Anlage 3 Unterrichtsveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013801116)
 
 (Fundstelle: BGBl. I 2019, 967)
 
@@ -4665,6 +4819,7 @@ und Absatz 2 Satz 1, § 20 Absatz 3 Satz 1 Nummer 3)
 (zu § 5 Absatz 2, § 20 Absatz 3 Satz 1 Nummer 3 und Absatz 4)
 
 ### Anlage 4 Weitere Unterrichtsveranstaltungen, für die eine erfolgreiche Teilnahme bei dem Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung nachzuweisen ist
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE013901116)
 
 (Fundstelle: BGBl. I 2019, 968)
 
@@ -4727,6 +4882,7 @@ Querschnittsbereichen:
 und Absatz 3 Satz 1 Nummer 3)
 
 ### Anlage 5 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014000000)
 
 (Fundstelle: BGBl. I 2019, 969)
 
@@ -4832,6 +4988,7 @@ _\_\__\_\__\_\__\_\_\_\_
 (zu § 12, § 20 Absatz 1 Satz 1 Nummer 4)
 
 ### Anlage 6 Bescheinigung zum Antrag auf Zulassung zum Ersten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014100000)
 
 (Fundstelle: BGBl. I 2019, 970)
 
@@ -4972,6 +5129,7 @@ _\_\__\_\__\_\__\_\_\_\_
 (zu § 12, § 20 Absatz 2 Satz 1 Nummer 3)
 
 ### Anlage 7 Bescheinigung zum Antrag auf Zulassung zum Zweiten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014200000)
 
 (Fundstelle: BGBl. I 2019, 971)
 
@@ -5063,6 +5221,7 @@ _\_\__\_\__\_\__\_\_\_\_
 (zu § 12, § 20 Absatz 3 Satz 1 Nummer 3)
 
 ### Anlage 8 Bescheinigung zum Antrag auf Zulassung zum Dritten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014301116)
 
 (Fundstelle: BGBl. I 2019, 972 - 973)
 
@@ -5361,6 +5520,7 @@ _\_\__\_\__\_\__\_\_\_\_
 (zu § 11 Absatz 2)
 
 ### Anlage 9 Wahlfächer
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014400000)
 
 (Fundstelle: BGBl. I 2019, 974)
 
@@ -5410,6 +5570,7 @@ Universität angeboten wird, insbesondere in Betracht:
 (zu § 14 Absatz 2 Satz 2)
 
 ### Anlage 10 Zeugnis über den Pflegedienst
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014501116)
 
 (Fundstelle: BGBl. I 2019, 975)
 
@@ -5494,6 +5655,7 @@ Universität angeboten wird, insbesondere in Betracht:
 (zu § 15 Absatz 2 Satz 3)
 
 ### Anlage 11 Zeugnis über die Famulatur
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014600000)
 
 (Fundstelle: BGBl. I 2019, 976)
 
@@ -5577,6 +5739,7 @@ Universität angeboten wird, insbesondere in Betracht:
 (zu § 20 Absatz 3 Satz 1 Nummer 4)
 
 ### Anlage 12 Nachweis über den Erwerb der Sachkunde im Strahlenschutz nach der Strahlenschutzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014700000)
 
 (Fundstelle: BGBl. I 2019, 977)
 
@@ -5741,6 +5904,7 @@ Universität angeboten wird, insbesondere in Betracht:
 (zu § 34 Absatz 3 Satz 1, § 82 Absatz 2 Nummer 9)
 
 ### Anlage 13 Niederschrift über die mündliche Prüfung des Ersten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014801130)
 
 (Fundstelle: BGBl. I 2019, 978;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5831,6 +5995,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 50 Absatz 4 Satz 1)
 
 ### Anlage 14 Niederschrift über das mündliche Prüfungselement des Zweiten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE014901130)
 
 (Fundstelle: BGBl. I 2019, 979;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5909,6 +6074,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 67 Absatz 4 Satz 1)
 
 ### Anlage 15 Niederschrift über das mündliche Prüfungselement des mündlich-praktischen Teils des Dritten Abschnitts der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015001130)
 
 (Fundstelle: BGBl. I 2019, 980;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5988,6 +6154,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Satz 4 und 5)
 
 ### Anlage 16 Zeugnis über den Ersten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015102130)
 
 (Fundstelle: BGBl. 2024 I Nr. 360, S. 10)
 
@@ -6125,6 +6292,7 @@ Satz 4 und 5)
 (zu § 56)
 
 ### Anlage 17 Zeugnis über den Zweiten Abschnitt der Zahnärztlichen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015202130)
 
 (Fundstelle: BGBl. 2024 I Nr. 360, S. 11)
 
@@ -6232,6 +6400,7 @@ Satz 4 und 5)
    (zu § 11 Absatz 3 Satz 2, § 81 Nummer 1)
 
 ### Anlage 18 Zeugnis über die Zahnärztliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015301130)
 
 (Fundstelle: BGBl. 2024 I Nr. 360, S. 12)
 
@@ -6412,6 +6581,7 @@ Satz 4 und 5)
 (zu § 81 Nummer 2)
 
 ### Anlage 19 Bescheinigung über die erforderliche Fachkunde im Strahlenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015400000)
 
 (Fundstelle: BGBl. I 2019, 984)
 
@@ -6490,6 +6660,7 @@ Satz 4 und 5)
    (zu § 88 Satz 1)
 
 ### Anlage 20 Approbationsurkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015500000)
 
 (Fundstelle: BGBl. I 2019, 985)
 
@@ -6545,6 +6716,7 @@ Satz 4 und 5)
    (zu § 97 Absatz 2 Satz 1)
 
 ### Anlage 21 Niederschrift über die Eignungsprüfung nach § 2 Absatz 2 Satz 7 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015600000)
 
 (Fundstelle: BGBl. I 2019, 986 - 987)
 
@@ -6736,6 +6908,7 @@ _\_\__\_\__\_\__\_\__\_\__\_\_\_\_
 (zu § 112 Absatz 2 Satz 1)
 
 ### Anlage 22 Niederschrift über die Kenntnisprüfung nach § 2 Absatz 3 Satz 3 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015700000)
 
 (Fundstelle: BGBl. I 2019, 988 - 989)
 
@@ -6918,6 +7091,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 122 Absatz 7)
 
 ### Anlage 23 Erlaubnis nach § 13 Absatz 1 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015800000)
 
 (Fundstelle: BGBl. I 2019, 990)
 
@@ -6993,6 +7167,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 127 Absatz 7)
 
 ### Anlage 24 Erlaubnis nach § 13 Absatz 1a des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE015900000)
 
 (Fundstelle: BGBl. I 2019, 991)
 
@@ -7067,6 +7242,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu § 132 Absatz 5)
 
 ### Anlage 25 Erlaubnis nach § 13 Absatz 4 des Gesetzes über die Ausübung der Zahnheilkunde
+[Direktlink](https://www.gesetze-im-internet.de/zappro/BJNR093310019.html#BJNR093310019BJNE016000000)
 
 (Fundstelle: BGBl. I 2019, 992)
 

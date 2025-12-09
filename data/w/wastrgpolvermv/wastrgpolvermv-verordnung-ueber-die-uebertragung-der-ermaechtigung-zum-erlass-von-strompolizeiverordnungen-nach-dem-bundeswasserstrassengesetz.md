@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrgpolvermv/BJNR208530969.html#BJNR208530969BJNE000100328)
 
 Auf Grund des § 27 Abs. 2 des Bundeswasserstraßengesetzes vom 2. April
 1968 (Bundesgesetzblatt II S. 173), geändert durch das
@@ -30,6 +31,7 @@ Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/wastrgpolvermv/BJNR208530969.html#BJNR208530969BJNE000201305)
 
 Der Generaldirektion Wasserstraßen und Schifffahrt wird die
 Ermächtigung übertragen, Rechtsverordnungen zur Gefahrenabwehr nach §
@@ -38,11 +40,13 @@ erlassen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/wastrgpolvermv/BJNR208530969.html#BJNR208530969BJNE000300328)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrgpolvermv/BJNR208530969.html#BJNR208530969BJNE000400328)
 
 Der Bundesminister für Verkehr
 

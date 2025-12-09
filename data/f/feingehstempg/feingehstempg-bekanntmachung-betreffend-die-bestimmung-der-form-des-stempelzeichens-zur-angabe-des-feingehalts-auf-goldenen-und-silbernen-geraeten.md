@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/feingehstempg/BJNR000010886.html#BJNR000010886BJNE000100304)
 
 Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und
 Silberwaren vom 16. Juli 1884 (Reichsgesetzbl. S. 120) hat der

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ziel und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000100000)
 
 (1) Ziel der Verordnung ist es, durch Maßnahmen der
 arbeitsmedizinischen Vorsorge arbeitsbedingte Erkrankungen
@@ -39,6 +40,7 @@ unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000201301)
 
 (1) Arbeitsmedizinische Vorsorge im Sinne dieser Verordnung
 
@@ -83,6 +85,7 @@ muss.
 
 
 ## § 3 Allgemeine Pflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000302124)
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
 für eine angemessene arbeitsmedizinische Vorsorge zu sorgen. Dabei hat
@@ -131,6 +134,7 @@ auszuhändigen; § 34 des Bundesdatenschutzgesetzes bleibt unberührt.
 
 
 ## § 4 Pflichtvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000401301)
 
 (1) Der Arbeitgeber hat nach Maßgabe des Anhangs Pflichtvorsorge für
 die Beschäftigten zu veranlassen. Pflichtvorsorge muss vor Aufnahme
@@ -144,6 +148,7 @@ oder die Beschäftigte an der Pflichtvorsorge teilgenommen hat.
 
 
 ## § 5 Angebotsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000501301)
 
 (1) Der Arbeitgeber hat den Beschäftigten Angebotsvorsorge nach
 Maßgabe des Anhangs anzubieten. Angebotsvorsorge muss vor Aufnahme der
@@ -170,6 +175,7 @@ hat.
 
 
 ## § 5a Wunschvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE001200112)
 
 Über die Vorschriften des Anhangs hinaus hat der Arbeitgeber den
 Beschäftigten auf ihren Wunsch hin regelmäßig arbeitsmedizinische
@@ -180,6 +186,7 @@ rechnen.
 
 
 ## § 6 Pflichten des Arztes oder der Ärztin
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000602124)
 
 (1) Bei der arbeitsmedizinischen Vorsorge hat der Arzt oder die Ärztin
 die Vorschriften dieser Verordnung einschließlich des Anhangs zu
@@ -239,6 +246,7 @@ der Beschäftigten.
 
 
 ## § 7 Anforderungen an den Arzt oder die Ärztin
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000701301)
 
 (1) Unbeschadet anderer Bestimmungen im Anhang für einzelne Anlässe
 arbeitsmedizinischer Vorsorge muss der Arzt oder die Ärztin berechtigt
@@ -256,6 +264,7 @@ begründeten Einzelfällen Ausnahmen von Absatz 1 Satz 1 zulassen.
 
 
 ## § 8 Maßnahmen nach der arbeitsmedizinischen Vorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000801301)
 
 (1) Im Fall von § 6 Absatz 4 Satz 2 hat der Arbeitgeber die
 Gefährdungsbeurteilung zu überprüfen und unverzüglich die
@@ -273,6 +282,7 @@ Antrag die zuständige Behörde.
 
 
 ## § 9 Ausschuss für Arbeitsmedizin
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE000901301)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Arbeitsmedizin gebildet, in dem fachkundige Vertreter der
@@ -337,6 +347,7 @@ Arbeitsschutz und Arbeitsmedizin.
 
 
 ## § 10 Ordnungswidrigkeiten und Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE001001301)
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -364,6 +375,7 @@ oder Gesundheit eines oder einer Beschäftigten gefährdet, ist nach §
 
 
 ## Anhang Arbeitsmedizinische Pflicht- und Angebotsvorsorge
+[Direktlink](https://www.gesetze-im-internet.de/arbmedvv/BJNR276810008.html#BJNR276810008BJNE001105124)
 
 (Fundstelle: BGBl. I 2008, 2771 - 2775;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

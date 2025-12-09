@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001000304)
 
 Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung
 mit § 3 Abs. 1 und 3 des Energiesicherungsgesetzes 1975 vom 20.
@@ -29,10 +30,12 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## 1. Abschnitt - Liefer- und Bezugsbeschränkungen für Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000100304)
 
 
 
 ### § 1 Liefer- und Bezugsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001100304)
 
 (1) Kraftstoffhändler dürfen Kraftstoff nur gegen Bezugscheine in der
 darin bezeichneten Menge an Abnehmer liefern. Diese dürfen Kraftstoff
@@ -54,6 +57,7 @@ Endverbrauchs bezieht.
 
 
 ### § 2 Beginn der Liefer- und Bezugsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001200304)
 
 Der Beginn der Liefer- und Bezugsbeschränkungen wird durch Verordnung
 bestimmt. Er kann für Benzin und Dieselkraftstoff unterschiedlich
@@ -61,6 +65,7 @@ sein.
 
 
 ### § 3 Geltungsdauer von Bezugscheinen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001300304)
 
 (1) Bezugscheine werden für eine Versorgungsperiode zugeteilt. Sie
 gelten nur für diese Versorgungsperiode, wenn nicht durch Verordnung
@@ -71,10 +76,12 @@ Versorgungsperiode weitergelten.
 
 
 ## 2. Abschnitt - Zuteilung von Bezugscheinen auf Antrag für bestimmten Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000200304)
 
 
 
 ### § 4 Bedarf, für den Bezugscheine zugeteilt werden
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001400304)
 
 (1) Auf Antrag werden Bezugscheine über die erforderliche
 Kraftstoffmenge zugeteilt
@@ -159,6 +166,7 @@ berücksichtigenden Bedarf können Bezugscheine nur zugeteilt werden,
 
 
 ### § 5 Zuteilungskürzungen durch Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001500304)
 
 Die sich nach § 4 ergebende Menge an Kraftstoff kann für die in § 4
 Abs. 1 genannten Zwecke durch Verordnung gekürzt oder auf andere Weise
@@ -166,6 +174,7 @@ kontingentiert werden.
 
 
 ### § 6 Antragsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001600304)
 
 (1) Antragsberechtigt nach § 4 ist der Halter des Fahrzeugs oder der
 Betreiber der Maschine oder des Motors, für die Kraftstoff benötigt
@@ -181,10 +190,12 @@ werden.
 
 
 ## 3. Abschnitt - Verfahrensvorschriften zu den §§ 4 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000300304)
 
 
 
 ### § 7 Anträge von Privatpersonen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001700304)
 
 (1) Nichtselbständig Tätige oder nicht Berufstätige haben Bezugscheine
 auf Vordrucken nach dem Muster der Anlage 1 zu beantragen. Gleiches
@@ -202,6 +213,7 @@ Voraussetzungen glaubhaft zu machen.
 
 
 ### § 8 Anträge von Gewerbetreibenden, Landwirten, freiberuflich Tätigen sowie für sonstigen beruflichen Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001800304)
 
 (1) Gewerbetreibende, Landwirte, freiberuflich oder sonst selbständig
 Tätige sowie juristische Personen oder sonstige Vereinigungen des
@@ -228,6 +240,7 @@ Berufe.
 
 
 ### § 9 Anträge der öffentlichen Hand
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE001900304)
 
 Bund, Länder, Gemeinden (Gemeindeverbände) und sonstige juristische
 Personen des öffentlichen Rechts haben Bezugscheine für den zur
@@ -236,6 +249,7 @@ auf Vordrucken nach dem Muster der Anlage 3 zu beantragen.
 
 
 ### § 10 Antragszeiträume
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002000304)
 
 (1) Ein Antrag kann für mehrere Versorgungsperioden, höchstens jedoch
 für einen Zeitraum von 12 Monaten nach Beginn der ersten
@@ -253,6 +267,7 @@ Versorgungsperioden zu berücksichtigen.
 
 
 ### § 11 Vorabausgabe von Bezugscheinen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002100304)
 
 (1) Durch Verordnung kann für die erste Versorgungsperiode bestimmt
 werden, daß für bestimmte Bedarfsträger und Verwendungszwecke
@@ -296,10 +311,12 @@ zuständigen Stelle zurückgegeben hat.
 
 
 ## 4. Abschnitt - Ausgabe von Bezugscheinen unabhängig vom Bedarf
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000400304)
 
 
 
 ### § 12 Grundmenge für Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002200304)
 
 (1) Durch Verordnung kann für Kraftfahrzeuge je Versorgungsperiode
 eine Grundmenge an Benzin und Dieselkraftstoff festgelegt werden, für
@@ -311,6 +328,7 @@ Bedarf für die in § 4 Abs. 1 bezeichneten Zwecke anzurechnen sind.
 
 
 ### § 13 Ausgabe von Bezugscheinen über die Grundmenge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002300304)
 
 Bezugscheine über die Grundmenge werden ausgegeben
 
@@ -326,10 +344,12 @@ Bezugscheine über die Grundmenge werden ausgegeben
 
 
 ## 5. Abschnitt - Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000500304)
 
 
 
 ### § 14 Zuständige Stellen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002408123)
 
 (1) Zuständige Stellen sind, soweit sich aus den Absätzen 2 und 3 und
 aus § 16 Abs. 3 nichts anderes ergibt, die nach § 4 Abs. 5 des
@@ -358,10 +378,12 @@ Bezugsscheine vom Bundesministerium für Wirtschaft und Energie. Absatz
 
 
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000600304)
 
 
 
 ### § 15 Zuteilung für außerhalb des Geltungsbereichs dieser Verordnung zugelassene Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002500304)
 
 Für außerhalb des Geltungsbereichs dieser Verordnung zugelassene oder
 beheimatete Kraftfahrzeuge können im Rahmen der verfügbaren
@@ -371,6 +393,7 @@ deren Höhe werden durch Verordnung geregelt.
 
 
 ### § 16 Bezugscheine für Vertretungen anderer Staaten, internationale Organisationen und verbündete Streitkräfte
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002602377)
 
 (1) Diplomatische Vertretungen, berufskonsularische Vertretungen und
 bevorrechtigte internationale Organisationen sowie die Mitglieder
@@ -404,10 +427,12 @@ Kraftstoffbedarf glaubhaft zu machen.
 
 
 ## 7. Abschnitt - Vorschriften für Kraftstoffhändler
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000700304)
 
 
 
 ### § 17 Lieferpflicht
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002700304)
 
 Kraftstoffhändler, die an einer Tankstelle Kraftstoff abgeben, sind
 verpflichtet, Abnehmern Kraftstoff gegen Bezugscheine zu liefern,
@@ -415,6 +440,7 @@ soweit sie über Vorräte verfügen.
 
 
 ### § 18 Ablieferung von Bezugscheinen
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002800304)
 
 (1) Kraftstoffhändler haben die Bezugscheine unter Angabe der sich
 insgesamt daraus ergebenden Kraftstoffmenge sortiert und durch
@@ -426,6 +452,7 @@ Bezugscheinen ergibt.
 
 
 ### § 19 Abgabe und Bezug von Kraftstoff zwischen Kraftstoffhändlern
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE002900304)
 
 (1) Von der zweiten Lieferung in der ersten Versorgungsperiode an
 dürfen Kraftstoffhändler Kraftstoff
@@ -460,10 +487,12 @@ deren Ablauf noch 12 Monate aufzubewahren.
 
 
 ## 8. Abschnitt - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000800304)
 
 
 
 ### § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003000304)
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
 Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder
@@ -501,15 +530,18 @@ fahrlässig
 
 
 ## 9. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNG000900304)
 
 
 
 ### § 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003101377)
 
 -
 
 
 ### § 22 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003200304)
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -528,6 +560,7 @@ fahrlässig
 
 
 ### Anlage 1
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003300304)
 
 (Fundstelle: BGBl. I 1982, 525 - 528)
 
@@ -2041,6 +2074,7 @@ fahrlässig
 
 
 ### Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003400304)
 
    (Fundstelle: BGBl. I 1982, 529 - 533)
 
@@ -4341,6 +4375,7 @@ fahrlässig
 
 
 ### Anlage 3
+[Direktlink](https://www.gesetze-im-internet.de/kraftstofflbv/BJNR005200982.html#BJNR005200982BJNE003500304)
 
    (Fundstelle: BGBl. I 1982, 534 - 535)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/versorgausglanglfaktorbek/BJNR180300002.html#BJNR180300002BJNE000100305)
 
 Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des
 Versorgungsausgleichs-Überleitungsgesetzes vom 25. Juli 1991 (BGBl. I

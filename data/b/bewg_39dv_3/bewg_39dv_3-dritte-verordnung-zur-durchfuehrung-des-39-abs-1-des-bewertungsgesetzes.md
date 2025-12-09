@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000100306)
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
@@ -25,6 +26,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000200306)
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964
 Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
@@ -45,6 +47,7 @@ und 4.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000300306)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8
@@ -53,12 +56,14 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000400306)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (zu § 1)
 
 ## Anlage 1 Hauptbewertungsstützpunkte der gärtnerischen Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000500306)
 
 (Fundstelle: BGBl. I 1967, 1199)
 
@@ -250,6 +255,7 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 (zu § 1 Nr. 1)
 
 ## Anlage 2 Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000600306)
 
 (Fundstelle: BGBl. I 1967, 1200 - 1201)
 
@@ -941,6 +947,7 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 (zu § 1 Nr. 2)
 
 ## Anlage 3 Nutzungsteil Obstbau
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000700306)
 
 (Fundstelle: BGBl. I 1967, 1202)
 
@@ -1166,6 +1173,7 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 (zu § 1 Nr. 3)
 
 ## Anlage 4 Nutzungsteil Baumschulen
+[Direktlink](https://www.gesetze-im-internet.de/bewg_39dv_3/BJNR011990967.html#BJNR011990967BJNE000800306)
 
 (Fundstelle: BGBl. I 1967, 1203)
 

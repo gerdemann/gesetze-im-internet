@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000100307)
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des
@@ -26,6 +27,7 @@ Bundesnaturschutzgesetzes wird verordnet:
 
 
 ## § 1 Festsetzung
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000200307)
 
 (1) In dem in § 2 näher bezeichneten Umfang werden im Drömling
 Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler
@@ -35,6 +37,7 @@ Bedeutung als Naturpark festgesetzt.
 
 
 ## § 2 Flächenbeschreibung und Abgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000300307)
 
 (1) Der Drömling ist die nacheiszeitlich ausgeräumte Aller-Ohre-
 Talmulde, die in der Folge mit Niedermoortorfen über fluviatilen
@@ -138,6 +141,7 @@ während der Sprechzeiten allgemein zugänglich.
 
 
 ## § 3 Schutzzweck
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000400307)
 
 Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 
@@ -186,6 +190,7 @@ Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 
 
 ## § 4 Schutzzonen
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000500307)
 
 (1) Das Gebiet des Naturparkes wird in 3 Schutzzonen gegliedert:
 
@@ -439,6 +444,7 @@ Karten eingetragen.
 
 
 ## § 5 Gebote
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000600307)
 
 (1) Im Naturpark gelten nachfolgende allgemeingültige Gebote:
 
@@ -577,6 +583,7 @@ Dazu gehören:
 
 
 ## § 6 Verbote
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000700307)
 
 (1) Allgemeingültige Verbote:
 Im Naturpark ist es verboten:
@@ -696,6 +703,7 @@ In Schutzzone II ist es grundsätzlich verboten:
 
 
 ## § 7 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000800307)
 
 (1) Ausgenommen von den Verboten des § 6 bleiben:
 
@@ -734,6 +742,7 @@ Möglichkeiten so schnell wie möglich abgebaut werden.
 
 
 ## § 8 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE000900307)
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
 gewährt werden, wenn
@@ -762,6 +771,7 @@ oder teilweise delegieren.
 
 
 ## § 9 Einvernehmen
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001000307)
 
 Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
 
@@ -779,6 +789,7 @@ Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
 
 
 ## § 10 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001100307)
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
 Verordnung oder durch Maßnahmen auf Grund dieser Verordnung
@@ -790,6 +801,7 @@ angemessen ausgleichen.
 
 
 ## § 11 Vorrang dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001200307)
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
@@ -797,16 +809,19 @@ Anordnungen für dieses Gebiet vor.
 
 
 ## § 12 Schlußbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001300307)
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001400307)
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE001500307)
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1478)
@@ -815,6 +830,7 @@ Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
 des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
 ## Anhang EV (BGBl. II 1990, 885, 1239)
+[Direktlink](https://www.gesetze-im-internet.de/natpdr_mlv/DDNR514780990.html#DDNR514780990BJNE888800301)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

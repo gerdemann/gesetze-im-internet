@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I. Pensionsfestsetzungs- und -regelungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/zoversdtag/BJNR228800997.html#BJNR228800997BJNE000100311)
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 des Gesetzes über die Versorgung
 der Beamten und Richter in Bund und Ländern in der Fassung der
@@ -309,17 +310,20 @@ Satz 2 BeamtVG) - vorbehalten sind:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/zoversdtag/BJNR228800997.html#BJNR228800997BJNE000201310)
 
 (weggefallen)
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zoversdtag/BJNR228800997.html#BJNR228800997BJNE000300311)
 
 Diese Anordnung tritt am 1. Januar 1997 in Kraft.
 
 (zu Abschnitt I Abs. 2)
 
 ## Anlage Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
+[Direktlink](https://www.gesetze-im-internet.de/zoversdtag/BJNR228800997.html#BJNR228800997BJNE000400311)
 
 (Fundstelle: BGBl. I 1997, 2291)
 ![bgbl1_1997_j2291_0010.jpg](bgbl1_1997_j2291_0010.jpg)

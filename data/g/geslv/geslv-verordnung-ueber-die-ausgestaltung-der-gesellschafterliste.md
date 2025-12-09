@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000100000)
 
 Auf Grund des § 40 Absatz 4 des Gesetzes betreffend die Gesellschaften
 mit beschränkter Haftung, der durch Artikel 14 Nummer 3 Buchstabe c
@@ -28,6 +29,7 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 
 ## § 1 Nummerierung von Geschäftsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000200000)
 
 (1) In der Gesellschafterliste sind die Geschäftsanteile fortlaufend
 und in eindeutiger Zuordnung zu den Gesellschaftern mit ganzen
@@ -59,6 +61,7 @@ werden.
 
 
 ## § 2 Veränderungsspalte
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000300000)
 
 (1) Veränderungen nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend
 die Gesellschaften mit beschränkter Haftung im Vergleich mit der
@@ -100,6 +103,7 @@ Veränderungsspalte eingetragen werden.
 
 
 ## § 3 Wegfallen der Altangaben
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000400000)
 
 Liegt eine Veränderung nach § 2 Absatz 1 vor, die zur Vergabe einer
 neuen Nummer nach § 1 führt, so fallen die bisherige Nummer und die
@@ -108,6 +112,7 @@ der bisherigen Nummer eingetragen waren, weg.
 
 
 ## § 4 Prozentangaben
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000501360)
 
 (1) Die nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die
 Gesellschaften mit beschränkter Haftung erforderlichen Angaben zur
@@ -143,6 +148,7 @@ Gesellschafterliste anschließenden separaten Zeilen aufzuführen.
 
 
 ## § 5 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000600000)
 
 Diese Verordnung findet auf vor dem Zeitpunkt des Inkrafttretens
 dieser Verordnung gegründete Gesellschaften mit beschränkter Haftung
@@ -153,11 +159,13 @@ mit beschränkter Haftung eine Gesellschafterliste einzureichen ist.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000700000)
 
 Diese Verordnung tritt am 1. Juli 2018 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/geslv/BJNR087000018.html#BJNR087000018BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

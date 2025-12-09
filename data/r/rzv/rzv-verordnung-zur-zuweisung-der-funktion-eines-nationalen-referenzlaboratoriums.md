@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Bundesinstitut für Risikobewertung als nationales Referenzlaboratorium
+[Direktlink](https://www.gesetze-im-internet.de/rzv/BJNR193910007.html#BJNR193910007BJNE000102116)
 
 Das Bundesinstitut für Risikobewertung übernimmt die Funktion eines
 nationalen Referenzlaboratoriums mit den Aufgaben nach Artikel 101
@@ -81,6 +82,7 @@ Fassung. Die Funktion des Referenzlaboratoriums erstreckt sich auf
 
 
 ## § 2 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit als nationales Referenzlaboratorium
+[Direktlink](https://www.gesetze-im-internet.de/rzv/BJNR193910007.html#BJNR193910007BJNE000201116)
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 übernimmt die Funktion eines nationalen Referenzlaboratoriums mit den
@@ -102,6 +104,7 @@ beschriebenen Aufgaben wahr.
 
 
 ## § 3 Max Rubner-Institut als nationales Referenzlaboratorium
+[Direktlink](https://www.gesetze-im-internet.de/rzv/BJNR193910007.html#BJNR193910007BJNE000401116)
 
 Das Max Rubner-Institut übernimmt die Funktion eines nationalen
 Referenzlaboratoriums mit den Aufgaben nach Artikel 101 Absatz 1 der

@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000205360)
 
 Diese Verordnung trifft nähere Bestimmungen über Art, Umfang, Inhalt
 und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
@@ -41,6 +42,7 @@ und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
 
 ## § 2 Mitteilungspflicht beim Inverkehrbringen von Gemischen und Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000307360)
 
 (1) Die Mitteilung nach § 16e Absatz 1 des Chemikaliengesetzes hat bei
 erstmaliger Mitteilung vor dem Inverkehrbringen und bei einer
@@ -67,6 +69,7 @@ gestellt hat, unverzüglich im elektronischen Bundesanzeiger bekannt.
 
 
 ## § 3 Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000404360)
 
 (1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter
 Verwendung des Formblattes nach der Anlage zu erfolgen und muß
@@ -97,6 +100,7 @@ Angaben nach Absatz 1 auch auf andere geeignete Weise zulassen.
 
 
 ## § 4 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000502360)
 
 Alle nach § 2 und auf dem Formblatt nach der Anlage übermittelten
 Daten, einschließlich der freiwilligen Angaben, sind vertraulich zu
@@ -106,16 +110,19 @@ genutzt werden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000602308)
 
 (weggefallen)
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE000701308)
 
 (Inkrafttreten)
 
 
 ## Anlage (zu § 3 Absatz 1)
+[Direktlink](https://www.gesetze-im-internet.de/chemgiftinfov/BJNR014240990.html#BJNR014240990BJNE001107360)
 
 (Fundstelle: BGBl. I 2002, 2523;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

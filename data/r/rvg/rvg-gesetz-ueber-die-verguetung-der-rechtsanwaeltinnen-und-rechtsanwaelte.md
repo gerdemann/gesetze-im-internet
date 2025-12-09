@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000101125)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000210125)
 
 (1) Die Vergütung (Gebühren und Auslagen) für anwaltliche Tätigkeiten
 der Rechtsanwältinnen und Rechtsanwälte bemisst sich nach diesem
@@ -55,6 +57,7 @@ Verfahren geltenden Verfahrensvorschriften vor.
 
 
 ### § 2 Höhe der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000301125)
 
 (1) Die Gebühren werden, soweit dieses Gesetz nichts anderes bestimmt,
 nach dem Wert berechnet, den der Gegenstand der anwaltlichen Tätigkeit
@@ -67,6 +70,7 @@ aufgerundet.
 
 
 ### § 3 Gebühren in sozialrechtlichen Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000403125)
 
 (1) In Verfahren vor den Gerichten der Sozialgerichtsbarkeit, in denen
 das Gerichtskostengesetz nicht anzuwenden ist, entstehen
@@ -83,6 +87,7 @@ gerichtlichen Verfahrens.
 
 
 ### § 3a Vergütungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006903125)
 
 (1) Eine Vereinbarung über die Vergütung bedarf der Textform. Sie muss
 als Vergütungsvereinbarung oder in vergleichbarer Weise bezeichnet
@@ -118,6 +123,7 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 
 ### § 4 Unterschreitung der gesetzlichen Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000505125)
 
 (1) In außergerichtlichen Angelegenheiten kann eine niedrigere als die
 gesetzliche Vergütung vereinbart werden. Sie muss in einem
@@ -137,6 +143,7 @@ Vergütung verzichten.
 
 
 ### § 4a Erfolgshonorar
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007003125)
 
 (1) Ein Erfolgshonorar (§ 49b Absatz 2 Satz 1 der
 Bundesrechtsanwaltsordnung) darf nur vereinbart werden, wenn
@@ -194,6 +201,7 @@ gesetzliche Vergütung vereinbart wird.
 
 
 ### § 4b Fehlerhafte Vergütungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007102125)
 
 Aus einer Vergütungsvereinbarung, die nicht den Anforderungen des § 3a
 Absatz 1 Satz 1 und 2 oder des § 4a Absatz 1 und 3 Nummer 1 und 4
@@ -203,6 +211,7 @@ ungerechtfertigte Bereicherung bleiben unberührt.
 
 
 ### § 5 Vergütung für Tätigkeiten von Vertretern des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000601125)
 
 Die Vergütung für eine Tätigkeit, die der Rechtsanwalt nicht
 persönlich vornimmt, wird nach diesem Gesetz bemessen, wenn der
@@ -212,6 +221,7 @@ zugewiesenen Referendar vertreten wird.
 
 
 ### § 6 Mehrere Rechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000701125)
 
 Ist der Auftrag mehreren Rechtsanwälten zur gemeinschaftlichen
 Erledigung übertragen, erhält jeder Rechtsanwalt für seine Tätigkeit
@@ -219,6 +229,7 @@ die volle Vergütung.
 
 
 ### § 7 Mehrere Auftraggeber
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000801125)
 
 (1) Wird der Rechtsanwalt in derselben Angelegenheit für mehrere
 Auftraggeber tätig, erhält er die Gebühren nur einmal.
@@ -233,6 +244,7 @@ berechneten Gebühren und die insgesamt entstandenen Auslagen fordern.
 
 
 ### § 8 Fälligkeit, Hemmung der Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE000902125)
 
 (1) Die Vergütung wird fällig, wenn der Auftrag erledigt oder die
 Angelegenheit beendet ist. Ist der Rechtsanwalt in einem gerichtlichen
@@ -249,6 +261,7 @@ erneut, wenn das Verfahren weiter betrieben wird.
 
 
 ### § 9 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001001125)
 
 Der Rechtsanwalt kann von seinem Auftraggeber für die entstandenen und
 die voraussichtlich entstehenden Gebühren und Auslagen einen
@@ -256,6 +269,7 @@ angemessenen Vorschuss fordern.
 
 
 ### § 10 Berechnung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001102125)
 
 (1) Der Rechtsanwalt kann die Vergütung nur aufgrund einer von ihm
 oder auf seine Veranlassung dem Auftraggeber mitgeteilten Berechnung
@@ -277,6 +291,7 @@ ist.
 
 
 ### § 11 Festsetzung der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001204125)
 
 (1) Soweit die gesetzliche Vergütung, eine nach § 42 festgestellte
 Pauschgebühr und die zu ersetzenden Aufwendungen (§ 670 des
@@ -332,6 +347,7 @@ Auftraggebers nicht mit dem Antrag vorlegt.
 
 
 ### § 12 Anwendung von Vorschriften über die Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001304125)
 
 Die Vorschriften dieses Gesetzes für im Wege der Prozesskostenhilfe
 beigeordnete Rechtsanwälte und für Verfahren über die
@@ -342,6 +358,7 @@ gleich.
 
 
 ### § 12a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006503125)
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -384,6 +401,7 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 
 ### § 12b Elektronische Akte, elektronisches Dokument
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006602125)
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
 Vorschriften über die elektronische Akte und über das elektronische
@@ -394,6 +412,7 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden.
 
 
 ### § 12c Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008101125)
 
 Jede anfechtbare Entscheidung hat eine Belehrung über den statthaften
 Rechtsbehelf sowie über das Gericht, bei dem dieser Rechtsbehelf
@@ -402,10 +421,12 @@ Frist zu enthalten.
 
 
 ## Abschnitt 2 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000201125)
 
 
 
 ### § 13 Wertgebühren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001405125)
 
 (1) Wenn sich die Gebühren nach dem Gegenstandswert richten, beträgt
 bei einem Gegenstandswert bis 500 Euro die Gebühr 51,50 Euro. Die
@@ -488,6 +509,7 @@ von Absatz 1 Satz 1 31,50 Euro.
 
 
 ### § 14 Rahmengebühren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001502125)
 
 (1) Bei Rahmengebühren bestimmt der Rechtsanwalt die Gebühr im
 Einzelfall unter Berücksichtigung aller Umstände, vor allem des
@@ -512,6 +534,7 @@ Das Gutachten ist kostenlos zu erstatten.
 
 
 ### § 15 Abgeltungsbereich der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001605125)
 
 (1) Die Gebühren entgelten, soweit dieses Gesetz nichts anderes
 bestimmt, die gesamte Tätigkeit des Rechtsanwalts vom Auftrag bis zur
@@ -552,6 +575,7 @@ erhalten würde.
 
 
 ### § 15a Anrechnung einer Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007206125)
 
 (1) Sieht dieses Gesetz die Anrechnung einer Gebühr auf eine andere
 Gebühr vor, kann der Rechtsanwalt beide Gebühren fordern, jedoch nicht
@@ -575,10 +599,12 @@ Gebühren in demselben Verfahren gegen ihn geltend gemacht werden.
 
 
 ## Abschnitt 3 - Angelegenheit
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000301125)
 
 
 
 ### § 16 Dieselbe Angelegenheit
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001707125)
 
 Dieselbe Angelegenheit sind
 
@@ -684,6 +710,7 @@ Dieselbe Angelegenheit sind
 
 
 ### § 17 Verschiedene Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE001808125)
 
 Verschiedene Angelegenheiten sind
 
@@ -807,6 +834,7 @@ Verschiedene Angelegenheiten sind
 
 
 ### § 18 Besondere Angelegenheiten
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007406125)
 
 (1) Besondere Angelegenheiten sind
 
@@ -926,6 +954,7 @@ Gerichtsbarkeit.
 
 
 ### § 19 Rechtszug; Tätigkeiten, die mit dem Verfahren zusammenhängen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002030125)
 
 (1) Zu dem Rechtszug oder dem Verfahren gehören auch alle
 Vorbereitungs-, Neben- und Abwicklungstätigkeiten und solche
@@ -1115,6 +1144,7 @@ ferner insbesondere
 
 
 ### § 20 Verweisung, Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002101125)
 
 Soweit eine Sache an ein anderes Gericht verwiesen oder abgegeben
 wird, sind die Verfahren vor dem verweisenden oder abgebenden und vor
@@ -1124,6 +1154,7 @@ weitere Verfahren vor diesem Gericht ein neuer Rechtszug.
 
 
 ### § 21 Zurückverweisung, Fortführung einer Folgesache als selbständige Familiensache
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002202125)
 
 (1) Soweit eine Sache an ein untergeordnetes Gericht zurückverwiesen
 wird, ist das weitere Verfahren vor diesem Gericht ein neuer
@@ -1142,10 +1173,12 @@ Angelegenheit.
 
 
 ## Abschnitt 4 - Gegenstandswert
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000401125)
 
 
 
 ### § 22 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002303125)
 
 (1) In derselben Angelegenheit werden die Werte mehrerer Gegenstände
 zusammengerechnet.
@@ -1158,6 +1191,7 @@ Gegenstände Auftraggeber, beträgt der Wert für jede Person höchstens
 
 
 ### § 23 Allgemeine Wertvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002403125)
 
 (1) Soweit sich die Gerichtsgebühren nach dem Wert richten, bestimmt
 sich der Gegenstandswert im gerichtlichen Verfahren nach den für die
@@ -1196,6 +1230,7 @@ nichtvermögensrechtlichen Gegenständen ist der Gegenstandswert mit
 
 
 ### § 23a Gegenstandswert im Verfahren über die Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008202125)
 
 (1) Im Verfahren über die Bewilligung der Prozesskostenhilfe oder die
 Aufhebung der Bewilligung nach § 124 Absatz 1 Nummer 1 der
@@ -1209,6 +1244,7 @@ zusammengerechnet.
 
 
 ### § 23b Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006705125)
 
 Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 bestimmt sich der Gegenstandswert nach der Höhe des von dem
@@ -1217,6 +1253,7 @@ Anspruchs, soweit dieser Gegenstand des Musterverfahrens ist.
 
 
 ### § 24 Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008902125)
 
 Der Gegenstandswert im Umsetzungsverfahren nach dem
 Verbraucherrechtedurchsetzungsgesetz ist unter Berücksichtigung des
@@ -1225,6 +1262,7 @@ verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 
 ### § 25 Gegenstandswert in der Vollstreckung und bei der Vollziehung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002605125)
 
 (1) In der Zwangsvollstreckung, in der Vollstreckung, in Verfahren des
 Verwaltungszwangs und bei der Vollziehung eines Arrests oder einer
@@ -1267,6 +1305,7 @@ Interesse des Antragstellers nach billigem Ermessen zu bestimmen.
 
 
 ### § 26 Gegenstandswert in der Zwangsversteigerung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002701125)
 
 In der Zwangsversteigerung bestimmt sich der Gegenstandswert
 
@@ -1301,6 +1340,7 @@ In der Zwangsversteigerung bestimmt sich der Gegenstandswert
 
 
 ### § 27 Gegenstandswert in der Zwangsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002801125)
 
 In der Zwangsverwaltung bestimmt sich der Gegenstandswert bei der
 Vertretung des Antragstellers nach dem Anspruch, wegen dessen das
@@ -1313,6 +1353,7 @@ eines sonstigen Beteiligten nach § 23 Absatz 3 Satz 2.
 
 
 ### § 28 Gegenstandswert im Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE002901125)
 
 (1) Die Gebühren der Nummern 3313, 3317 sowie im Fall der Beschwerde
 gegen den Beschluss über die Eröffnung des Insolvenzverfahrens der
@@ -1333,6 +1374,7 @@ im Verfahren verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 
 ### § 29 Gegenstandswert im Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003001125)
 
 Im Verfahren nach der Schifffahrtsrechtlichen Verteilungsordnung gilt
 § 28 entsprechend mit der Maßgabe, dass an die Stelle des Werts der
@@ -1340,6 +1382,7 @@ Insolvenzmasse die festgesetzte Haftungssumme tritt.
 
 
 ### § 29a Gegenstandswert in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008801125)
 
 Der Gegenstandswert in Verfahren nach dem Unternehmensstabilisierungs-
 und -restrukturierungsgesetz ist unter Berücksichtigung des
@@ -1348,6 +1391,7 @@ verfolgt, nach § 23 Absatz 3 Satz 2 zu bestimmen.
 
 
 ### § 30 Gegenstandswert in gerichtlichen Verfahren nach dem Asylgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003105125)
 
 (1) In Klageverfahren nach dem Asylgesetz beträgt der Gegenstandswert
 5 000 Euro, in den Fällen des § 77 Absatz 4 Satz 1 des Asylgesetzes 10
@@ -1362,6 +1406,7 @@ niedrigeren Wert festsetzen.
 
 
 ### § 31 Gegenstandswert in gerichtlichen Verfahren nach dem Spruchverfahrensgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003201125)
 
 (1) Vertritt der Rechtsanwalt im Verfahren nach dem
 Spruchverfahrensgesetz einen von mehreren Antragstellern, bestimmt
@@ -1382,6 +1427,7 @@ insoweit nicht anzuwenden.
 
 
 ### § 31a Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006801125)
 
 Vertritt der Rechtsanwalt im Ausschlussverfahren nach § 39b des
 Wertpapiererwerbs- und Übernahmegesetzes einen Antragsgegner, bestimmt
@@ -1391,6 +1437,7 @@ Satz 2 bis 4 und Absatz 2 gilt entsprechend.
 
 
 ### § 31b Gegenstandswert bei Zahlungsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008302125)
 
 Ist Gegenstand der Einigung eine Zahlungsvereinbarung (Gebühr 1000
 Nummer 2 des Vergütungsverzeichnisses), beträgt der Gegenstandswert 50
@@ -1398,6 +1445,7 @@ Prozent des Anspruchs.
 
 
 ### § 32 Wertfestsetzung für die Gerichtsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003301125)
 
 (1) Wird der für die Gerichtsgebühren maßgebende Wert gerichtlich
 festgesetzt, ist die Festsetzung auch für die Gebühren des
@@ -1410,6 +1458,7 @@ ist, kann er aus eigenem Recht einlegen.
 
 
 ### § 33 Wertfestsetzung für die Rechtsanwaltsgebühren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003407125)
 
 (1) Berechnen sich die Gebühren in einem gerichtlichen Verfahren nicht
 nach dem für die Gerichtsgebühren maßgebenden Wert oder fehlt es an
@@ -1486,10 +1535,12 @@ nicht erstattet; dies gilt auch im Verfahren über die Beschwerde.
 
 
 ## Abschnitt 5 - Außergerichtliche Beratung und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000502125)
 
 
 
 ### § 34 Beratung, Gutachten und Mediation
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003502125)
 
 (1) Für einen mündlichen oder schriftlichen Rat oder eine Auskunft
 (Beratung), die nicht mit einer anderen gebührenpflichtigen Tätigkeit
@@ -1510,6 +1561,7 @@ Beratung zusammenhängt, anzurechnen.
 
 
 ### § 35 Hilfeleistung in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003603125)
 
 (1) Für die Hilfeleistung bei der Erfüllung allgemeiner
 Steuerpflichten und bei der Erfüllung steuerlicher Buchführungs- und
@@ -1527,6 +1579,7 @@ legen, auf die angerechnet wird.
 
 
 ### § 36 Schiedsrichterliche Verfahren und Verfahren vor dem Schiedsgericht
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003703125)
 
 (1) Teil 3 Abschnitt 1, 2 und 4 des Vergütungsverzeichnisses ist auf
 die folgenden außergerichtlichen Verfahren entsprechend anzuwenden:
@@ -1545,10 +1598,12 @@ erlassen wird.
 
 
 ## Abschnitt 6 - Gerichtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000601125)
 
 
 
 ### § 37 Verfahren vor den Verfassungsgerichten
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003802125)
 
 (1) Die Vorschriften für die Revision in Teil 4 Abschnitt 1
 Unterabschnitt 3 des Vergütungsverzeichnisses gelten entsprechend in
@@ -1583,6 +1638,7 @@ er beträgt mindestens 5 000 Euro.
 
 
 ### § 38 Verfahren vor dem Gerichtshof der Europäischen Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE003902125)
 
 (1) In Vorabentscheidungsverfahren vor dem Gerichtshof der
 Europäischen Gemeinschaften gelten die Vorschriften in Teil 3
@@ -1606,6 +1662,7 @@ Gerichtshof der Europäischen Gemeinschaften abgegeben wird.
 
 
 ### § 38a Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008401125)
 
 In Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
 gelten die Vorschriften in Teil 3 Abschnitt 2 Unterabschnitt 2 des
@@ -1615,6 +1672,7 @@ Ermessen zu bestimmen; er beträgt mindestens 5 000 Euro.
 
 
 ### § 39 Von Amts wegen beigeordneter Rechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004003125)
 
 (1) Der Rechtsanwalt, der nach § 138 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
@@ -1631,6 +1689,7 @@ Rechtsanwalts und einen Vorschuss verlangen.
 
 
 ### § 40 Als gemeinsamer Vertreter bestellter Rechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004101125)
 
 Der Rechtsanwalt kann von den Personen, für die er nach § 67a Absatz 1
 Satz 2 der Verwaltungsgerichtsordnung bestellt ist, die Vergütung
@@ -1639,6 +1698,7 @@ bestellten Rechtsanwalts und einen Vorschuss verlangen.
 
 
 ### § 41 Besonderer Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004203125)
 
 Der Rechtsanwalt, der nach § 57 oder § 58 der Zivilprozessordnung, §
 118e der Bundesrechtsanwaltsordnung, § 103b der Patentanwaltsordnung
@@ -1650,6 +1710,7 @@ Zivilprozessordnung ist entsprechend anzuwenden.
 
 
 ### § 41a Vertreter des Musterklägers
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008002125)
 
 (1) Für das erstinstanzliche Musterverfahren nach dem Kapitalanleger-
 Musterverfahrensgesetz kann das Oberlandesgericht dem Rechtsanwalt,
@@ -1683,10 +1744,12 @@ Landeskasse zu zahlen. Ein Vorschuss kann nicht gefordert werden.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000702125)
 
 
 
 ### § 42 Feststellung einer Pauschgebühr
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004306125)
 
 (1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem
 Gesetz über die internationale Rechtshilfe in Strafsachen, in
@@ -1737,6 +1800,7 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ### § 43 Abtretung des Kostenerstattungsanspruchs
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004401125)
 
 Tritt der Beschuldigte oder der Betroffene den Anspruch gegen die
 Staatskasse auf Erstattung von Anwaltskosten als notwendige Auslagen
@@ -1750,10 +1814,12 @@ vorliegt.
 
 
 ## Abschnitt 8 - Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000801125)
 
 
 
 ### § 44 Vergütungsanspruch bei Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004502125)
 
 Für die Tätigkeit im Rahmen der Beratungshilfe erhält der Rechtsanwalt
 eine Vergütung nach diesem Gesetz aus der Landeskasse, soweit nicht
@@ -1764,6 +1830,7 @@ schuldet nur der Rechtsuchende.
 
 
 ### § 45 Vergütungsanspruch des beigeordneten oder bestellten Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004605125)
 
 (1) Der im Wege der Prozesskostenhilfe beigeordnete oder zum
 besonderen Vertreter im Sinne des § 41 bestellte Rechtsanwalt erhält,
@@ -1808,6 +1875,7 @@ Verwaltungsbehörde.
 
 
 ### § 46 Auslagen und Aufwendungen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004702125)
 
 (1) Auslagen, insbesondere Reisekosten, werden nicht vergütet, wenn
 sie zur sachgemäßen Durchführung der Angelegenheit nicht erforderlich
@@ -1834,6 +1902,7 @@ Ordnungswidrigkeiten).
 
 
 ### § 47 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004804125)
 
 (1) Wenn dem Rechtsanwalt wegen seiner Vergütung ein Anspruch gegen
 die Staatskasse zusteht, kann er für die entstandenen Gebühren und die
@@ -1854,6 +1923,7 @@ keinen Vorschuss fordern.
 
 
 ### § 48 Umfang des Anspruchs und der Beiordnung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE004906125)
 
 (1) Der Vergütungsanspruch gegen die Staatskasse ist auf die
 gesetzliche Vergütung gerichtet und bestimmt sich nach den
@@ -1959,6 +2029,7 @@ Bestellung erfolgt war.
 
 
 ### § 49 Wertgebühren aus der Staatskasse
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005004125)
 
 Bestimmen sich die Gebühren nach dem Gegenstandswert, werden bei einem
 Gegenstandswert von mehr als 4 000 Euro anstelle der Gebühr nach § 13
@@ -2082,6 +2153,7 @@ Absatz 1 die folgenden Gebühren vergütet:
 
 
 ### § 50 Weitere Vergütung bei Prozesskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005102125)
 
 (1) Nach Deckung der in § 122 Absatz 1 Nummer 1 der
 Zivilprozessordnung bezeichneten Kosten und Ansprüche hat die
@@ -2106,6 +2178,7 @@ Unterschiedsbetrag anzurechnen sind, von diesem abzuziehen.
 
 
 ### § 51 Festsetzung einer Pauschgebühr
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005206125)
 
 (1) In Strafsachen, gerichtlichen Bußgeldsachen, Verfahren nach dem
 Gesetz über die internationale Rechtshilfe in Strafsachen, in
@@ -2145,6 +2218,7 @@ die Verwaltungsbehörde gleichzeitig mit der Festsetzung der Vergütung.
 
 
 ### § 52 Anspruch gegen den Beschuldigten oder den Betroffenen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005302125)
 
 (1) Der gerichtlich bestellte Rechtsanwalt kann von dem Beschuldigten
 die Zahlung der Gebühren eines gewählten Verteidigers verlangen; er
@@ -2187,6 +2261,7 @@ Gerichts die Verwaltungsbehörde.
 
 
 ### § 53 Anspruch gegen den Auftraggeber, Anspruch des zum Beistand bestellten Rechtsanwalts gegen den Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005403125)
 
 (1) Für den Anspruch des dem Privatkläger, dem Nebenkläger, dem
 Antragsteller im Klageerzwingungsverfahren oder des sonst in
@@ -2214,6 +2289,7 @@ entsprechend.
 
 
 ### § 53a Vergütungsanspruch bei gemeinschaftlicher Nebenklagevertretung
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008601125)
 
 Stellt ein Gericht gemäß § 397b Absatz 3 der Strafprozessordnung fest,
 dass für einen nicht als Beistand bestellten oder beigeordneten
@@ -2227,6 +2303,7 @@ des Landes getroffen wird, im Übrigen aus der Bundeskasse.
 
 
 ### § 54 Verschulden eines beigeordneten oder bestellten Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005501125)
 
 Hat der beigeordnete oder bestellte Rechtsanwalt durch schuldhaftes
 Verhalten die Beiordnung oder Bestellung eines anderen Rechtsanwalts
@@ -2235,6 +2312,7 @@ entstehen, nicht fordern.
 
 
 ### § 55 Festsetzung der aus der Staatskasse zu zahlenden Vergütungen und Vorschüsse
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005603125)
 
 (1) Die aus der Staatskasse zu gewährende Vergütung und der Vorschuss
 hierauf werden auf Antrag des Rechtsanwalts von dem Urkundsbeamten der
@@ -2281,6 +2359,7 @@ Geschäftsstelle tritt die Verwaltungsbehörde.
 
 
 ### § 56 Erinnerung und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005702125)
 
 (1) Über Erinnerungen des Rechtsanwalts und der Staatskasse gegen die
 Festsetzung nach § 55 entscheidet das Gericht des Rechtszugs, bei dem
@@ -2297,6 +2376,7 @@ werden nicht erstattet.
 
 
 ### § 57 Rechtsbehelf in Bußgeldsachen vor der Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005801125)
 
 Gegen Entscheidungen der Verwaltungsbehörde im Bußgeldverfahren nach
 den Vorschriften dieses Abschnitts kann gerichtliche Entscheidung
@@ -2305,6 +2385,7 @@ Ordnungswidrigkeiten.
 
 
 ### § 58 Anrechnung von Vorschüssen und Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE005903125)
 
 (1) Zahlungen, die der Rechtsanwalt nach § 9 des
 Beratungshilfegesetzes erhalten hat, werden auf die aus der
@@ -2341,6 +2422,7 @@ Höchstgebühren übersteigende Betrag anzurechnen oder zurückzuzahlen.
 
 
 ### § 59 Übergang von Ansprüchen auf die Staatskasse
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006003125)
 
 (1) Soweit dem im Wege der Prozesskostenhilfe oder nach § 138 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -2366,6 +2448,7 @@ jeweiligen obersten Gerichtshof des Bundes angesetzt.
 
 
 ### § 59a Beiordnung und Bestellung durch Justizbehörden
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008503125)
 
 (1) Für den durch die Staatsanwaltschaft bestellten Rechtsanwalt
 gelten die Vorschriften über den gerichtlich bestellten Rechtsanwalt
@@ -2398,10 +2481,12 @@ Generalbundesanwalts entscheidet der Bundesgerichtshof.
 
 
 ## Abschnitt 9 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNG000903125)
 
 
 
 ### § 59b Bekanntmachung von Neufassungen
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007803125)
 
 Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des
 Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt
@@ -2422,6 +2507,7 @@ angeben
 
 
 ### § 60 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006104125)
 
 (1) Für die Vergütung ist das bisherige Recht anzuwenden, wenn der
 unbedingte Auftrag zur Erledigung derselben Angelegenheit vor dem
@@ -2456,6 +2542,7 @@ worden ist.
 
 
 ### § 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006201125)
 
 (1) Die Bundesgebührenordnung für Rechtsanwälte in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 368-1, veröffentlichten
@@ -2478,6 +2565,7 @@ worden sind.
 
 
 ### § 62 Verfahren nach dem Therapieunterbringungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE007901125)
 
 Die Regelungen des Therapieunterbringungsgesetzes zur
 Rechtsanwaltsvergütung bleiben unberührt.
@@ -2485,6 +2573,7 @@ Rechtsanwaltsvergütung bleiben unberührt.
 (zu § 2 Absatz 2)
 
 ### Anlage 1 Vergütungsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE008720131)
 
 (Fundstelle: BGBl. I 2022, 633 - 664;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7219,6 +7308,7 @@ Auslagen
 
 
 ### Anlage 2 (zu § 13 Absatz 1 Satz 3)
+[Direktlink](https://www.gesetze-im-internet.de/rvg/BJNR078800004.html#BJNR078800004BJNE006404125)
 
    (Fundstelle: BGBl. 2025 I Nr. 109, S. 30)
 

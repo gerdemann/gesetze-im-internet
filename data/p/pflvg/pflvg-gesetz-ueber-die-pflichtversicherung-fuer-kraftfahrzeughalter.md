@@ -23,16 +23,19 @@ Neufassung durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE000500314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Abschnitt 1 - Pflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000101123)
 
 
 
 ### § 1 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE000602123)
 
 Der Halter eines Fahrzeugs im Sinne des § 1a Absatz 1 Nummer 1, das
 seinen regelmäßigen Standort im Sinne des § 1a Absatz 1 Nummer 2 oder
@@ -46,6 +49,7 @@ Vorschriften abzuschließen und aufrechtzuerhalten.
 
 
 ### § 1a Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003200123)
 
 (1) Im Sinne dieses Gesetzes bezeichnet
 
@@ -153,6 +157,7 @@ von
 
 
 ### § 2 Ausnahmen von der Versicherungspflicht für bestimmte Halter
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE000706123)
 
 (1) § 1 gilt nicht für
 
@@ -203,6 +208,7 @@ gegenüber diesen Personen ausgeschlossen.
 
 
 ### § 2a Ausnahmen von der Versicherungspflicht für bestimmte Fahrzeuge und deren Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003300123)
 
 (1) § 1 gilt nicht für die Halter folgender Fahrzeuge:
 
@@ -249,6 +255,7 @@ Versicherungsschutz nach Maßgabe des § 5d gedeckt sind.
 
 
 ### § 3 Fortbestehen der Leistungspflicht gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE000805123)
 
 Ist der Versicherer gegenüber dem Versicherungsnehmer nicht zur
 Leistung verpflichtet, weil das Fahrzeug den Bau- und
@@ -265,6 +272,7 @@ Leistungspflicht des Versicherers.
 
 
 ### § 3a Verfahren der Schadenregulierung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002304123)
 
 (1) Macht der Dritte den Anspruch nach § 115 Absatz 1 des
 Versicherungsvertragsgesetzes geltend, so hat der Versicherer oder der
@@ -293,6 +301,7 @@ bleiben unberührt.
 
 
 ### § 4 Mindestumfang des Versicherungsschutzes; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE000910123)
 
 (1) Um einen dem Zweck dieses Gesetzes gerecht werdenden Schutz
 sicherzustellen, bestimmt das Bundesministerium der Justiz unter
@@ -371,6 +380,7 @@ Geltendmachung ihrer Ansprüche einzuräumen.
 
 
 ### § 5 Zugelassene Versicherer, Pflicht der Versicherer zum Vertragsschluss
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001005123)
 
 (1) Die Versicherung nach § 1 kann nur bei einem im Inland zum Betrieb
 der Kraftfahrzeug-Haftpflichtversicherung befugten
@@ -428,6 +438,7 @@ Versicherungsunternehmen
 
 
 ### § 5a Dauer des Versicherungsverhältnisses, Kündigungsfiktion
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003400123)
 
 (1) Das Versicherungsverhältnis endet,
 
@@ -457,6 +468,7 @@ Beginn des neuen Versicherungsverhältnisses als gekündigt.
 
 
 ### § 5b Versicherungsbestätigung; Angaben über den bestellten Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003500123)
 
 (1) Das Versicherungsunternehmen hat dem Versicherungsnehmer bei
 Beginn des Versicherungsschutzes eine Versicherungsbestätigung zu
@@ -472,6 +484,7 @@ Vertreters zu enthalten.
 
 
 ### § 5c Bescheinigung über den Schadenverlauf
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003600123)
 
 (1) Das Versicherungsunternehmen hat dem Versicherungsnehmer zu
 folgenden Zeitpunkten eine Bescheinigung über den Schadenverlauf
@@ -513,6 +526,7 @@ verlangen.
 
 
 ### § 5d Mindestumfang des Versicherungsschutzes bei Motorsportveranstaltungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003700123)
 
 (1) Der alternative Versicherungsschutz für den Gebrauch eines
 Fahrzeugs bei einer Motorsportveranstaltung oder Motorsportaktivität,
@@ -578,6 +592,7 @@ ist, um
 
 
 ### § 6 Verbot des Gebrauchs unversicherter Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001101123)
 
 (1) Es ist verboten, ein Fahrzeug zu gebrauchen, für das die nach § 1
 erforderliche Haftpflichtversicherung nicht besteht.
@@ -620,6 +635,7 @@ Gebrauch zu gestatten.
 
 
 ### § 7 Durchführungsregelungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001207123)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur
 Durchführung des Ersten Abschnitts dieses Gesetzes im Einvernehmen mit
@@ -647,10 +663,12 @@ Bundesrates Vorschriften zu erlassen über
 
 
 ## Abschnitt 2 - Pflichten der Versicherungsunternehmen, Auskunftsstelle und Statistik
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000203123)
 
 
 
 ### § 8 Pflicht der Versicherungsunternehmen zur Beitragszahlung und zur Bestellung eines Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001304123)
 
 (1) Versicherungsunternehmen, die zum Betrieb der Kraftfahrzeug-
 Haftpflichtversicherung für Fahrzeuge mit regelmäßigem oder
@@ -693,6 +711,7 @@ erteilen.
 
 
 ### § 8a Auskunftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002406123)
 
 (1) Es wird eine Auskunftsstelle eingerichtet, die Geschädigten, deren
 Versicherern, dem Deutschen Büro Grüne Karte und dem
@@ -773,6 +792,7 @@ mitzuteilen.
 
 
 ### § 8b Allgemeine Übersicht zur Berücksichtigung von Bescheinigungen über den Schadenverlauf
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003800123)
 
 Das Versicherungsunternehmen hat eine allgemeine Übersicht über seine
 Politik der Berücksichtigung von Bescheinigungen über den
@@ -792,6 +812,7 @@ dieser Information unverzüglich
 
 
 ### § 9 Gemeinschaftsstatistik über den Schadenverlauf
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001403123)
 
 (1) Es wird eine jährliche Gemeinschaftsstatistik über den
 Schadenverlauf in der Kraftfahrzeug-Haftpflichtversicherung geführt.
@@ -810,6 +831,7 @@ Finanzdienstleistungsaufsicht jährlich zu veröffentlichen.
 
 
 ### § 10 Mitteilung der Daten für die Gemeinschaftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001502123)
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die
 Kraftfahrzeug-Haftpflichtversicherung nach diesem Gesetz betreiben,
@@ -824,6 +846,7 @@ gesondert mitzuteilen.
 
 
 ### § 11 Verordnungsermächtigung zur Gemeinschaftsstatistik
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001606123)
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium der Justiz und dem Bundesministerium für
@@ -835,13 +858,16 @@ Versicherungsunternehmen einzureichenden Mitteilungen.
 
 
 ## Abschnitt 3 - Entschädigungsfonds für Schäden aus Fahrzeugunfällen, Entschädigungsstelle für Schäden aus Auslandsunfällen und Insolvenzfonds für Schäden aus Fahrzeugunfällen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000302123)
 
 
 
 ### Unterabschnitt 1 - Entschädigungsfonds für Schäden aus Fahrzeugunfällen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000500123)
 
 
 #### § 12 Leistungspflicht des Entschädigungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001712123)
 
 (1) Wird durch den Gebrauch eines Fahrzeugs im Inland ein Personen-
 oder Sachschaden verursacht, so kann derjenige, dem wegen dieser
@@ -993,6 +1019,7 @@ deutschen Staatsangehörigen im Ausland entstehen,
 
 
 #### § 13 Aufwendungsersatz; Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003900123)
 
 (1) Der Entschädigungsfonds kann von den Personen, für deren
 Schadensersatzverpflichtungen er nach § 12 Absatz 1 einzutreten hat,
@@ -1023,6 +1050,7 @@ können.
 
 
 #### § 14 Erstattungspflicht des Entschädigungsfonds, Forderungsübergang und Rückgriff
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004000123)
 
 (1) Der Entschädigungsfonds ist verpflichtet, einem
 Entschädigungsfonds im Sinne des Artikels 10 Absatz 1 der Richtlinie
@@ -1053,9 +1081,11 @@ Entschädigungsfonds getroffenen Vereinbarungen.
 
 
 ### Unterabschnitt 2 - Entschädigungsstelle für Schäden aus Auslandsunfällen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000600123)
 
 
 #### § 15 Leistungspflicht der Entschädigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002503123)
 
 (1) Wird durch den Gebrauch eines Fahrzeugs im Ausland ein Personen-
 oder Sachschaden verursacht, so kann derjenige, der seinen Wohnsitz im
@@ -1166,6 +1196,7 @@ hat, gewährleistet ist.
 
 
 #### § 16 Forderungsübergang auf die Entschädigungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002603123)
 
 Soweit die Entschädigungsstelle nach § 15 dem Ersatzberechtigten den
 Schaden ersetzt, gehen die Ansprüche des Ersatzberechtigten gegen den
@@ -1186,9 +1217,11 @@ geleistet hat.
 
 
 ### Unterabschnitt 3 - Insolvenzfonds für Schäden aus Fahrzeugunfällen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000700123)
 
 
 #### § 17 Leistungspflicht des Insolvenzfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002906123)
 
 (1) Ansprüche gegen den Versicherer auf Ersatz eines durch den
 Gebrauch eines Fahrzeugs verursachten Personen- oder Sachschadens
@@ -1287,6 +1320,7 @@ machen, wenn
 
 
 #### § 18 Umfang der Leistungspflicht des Insolvenzfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001808123)
 
 (1) Der Ersatzberechtigte kann seine Ansprüche gegen den
 Insolvenzfonds nur geltend machen, soweit er glaubhaft macht, dass er
@@ -1357,6 +1391,7 @@ Ersatzberechtigten gelten.
 
 
 #### § 19 Aufwendungsersatz; Forderungsübergang
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002702123)
 
 (1) Der Insolvenzfonds kann von den Personen, für deren
 Schadensersatzverpflichtungen er nach § 17 einzutreten hat, wie ein
@@ -1405,6 +1440,7 @@ mitversicherte Person über.
 
 
 #### § 20 Informationspflichten und Zusammenarbeit im Insolvenzfall
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE001906123)
 
 (1) Beantragt die Versicherungsaufsichtsbehörde die Eröffnung eines
 Insolvenzverfahrens über ein Versicherungsunternehmen mit Sitz im
@@ -1522,6 +1558,7 @@ Stelle.
 
 
 #### § 21 Rückgriff unter den Insolvenzfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE003101123)
 
 (1) Ist der Herkunftsstaat des Versicherers die Bundesrepublik
 Deutschland und hat eine nach Artikel 10a Absatz 1 oder Artikel 25a
@@ -1568,6 +1605,7 @@ nach den zwischen diesen Stellen getroffenen Vereinbarungen.
 
 
 #### § 22 Rückgriffsrecht des Deutschen Büros Grüne Karte
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004100123)
 
 (1) Soweit das Deutsche Büro Grüne Karte dem nationalen
 Versicherungsbüro eines anderen Staates des Europäischen
@@ -1585,9 +1623,11 @@ Buchstabe d der Richtlinie 2009/138/EG ist.
 
 
 ### Unterabschnitt 4 - Wahrnehmung der Aufgaben von Entschädigungsfonds, Entschädigungsstelle und Insolvenzfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000800123)
 
 
 #### § 23 Wahrnehmung der Aufgaben durch eine Anstalt; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004200123)
 
 (1) Die nach § 13 Absatz 1 Satz 1 und 2 in der bis zum 17. April 2024
 geltenden Fassung errichtete Anstalt nimmt die ihr nach diesem Gesetz
@@ -1652,6 +1692,7 @@ des Bundesrates.
 
 
 #### § 24 Wahrnehmung der Aufgaben durch die Verkehrsopferhilfe
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004300123)
 
 (1) Dem rechtsfähigen Verein „Verkehrsopferhilfe eingetragener Verein“
 in Berlin (Verkehrsopferhilfe) sind mit seiner Zustimmung zugewiesen:
@@ -1699,6 +1740,7 @@ Person übertragen worden sind.
 
 
 #### § 25 Aufsicht; Genehmigung der Satzung der Verkehrsopferhilfe
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004400123)
 
 (1) Die Verkehrsopferhilfe untersteht der Rechtsaufsicht des
 Bundesministeriums der Justiz, soweit sie die übertragenen Aufgaben
@@ -1735,6 +1777,7 @@ anzuwenden.
 
 
 #### § 26 Stelle zur gütlichen Einigung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004500123)
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
 dem Bundesministerium für Digitales und Verkehr, dem Bundesministerium
@@ -1766,6 +1809,7 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen,
 
 
 #### § 27 Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004600123)
 
 (1) Die Verkehrsopferhilfe hat in ihrer Satzung Leistungen durch ihre
 Mitglieder und die weiteren nach § 8 Absatz 1 und 2 verpflichteten
@@ -1793,6 +1837,7 @@ sachgerechten und nachvollziehbaren Schlüssel aufgeteilt werden.
 
 
 #### § 28 Übertragung der Wahrnehmung der Aufgaben auf eine andere juristische Person; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004700123)
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Aufgaben und
@@ -1837,6 +1882,7 @@ Absatz 2 Aufgaben und Befugnisse zugewiesen werden.
 
 
 #### § 29 Steuerbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004800123)
 
 Der Entschädigungsfonds, die Entschädigungsstelle, die
 Verhandlungsstelle und der Insolvenzfonds sind von der
@@ -1844,10 +1890,12 @@ Körperschaftsteuer, der Gewerbesteuer und der Vermögensteuer befreit.
 
 
 ## Abschnitt 4 - Strafvorschriften, Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNG000401123)
 
 
 
 ### § 30 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE004900123)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1885,6 +1933,7 @@ der Entscheidung gehören.
 
 
 ### § 31 Tarifumstellung bei Bestandsübertragung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002002123)
 
 Wird zur Vermeidung einer Insolvenz ein Bestand an Kraftfahrzeug-
 Haftpflichtversicherungsverträgen mit Genehmigung der
@@ -1899,6 +1948,7 @@ schriftlich über sein Kündigungsrecht belehrt.
 
 
 ### § 32 Anwendungsbestimmung; Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002103123)
 
 (1) Dieses Gesetz in der ab dem 17. April 2024 geltenden Fassung ist
 nicht vor dem 23. Dezember 2023 anzuwenden, soweit in den
@@ -1989,6 +2039,7 @@ Vorschriften anzuwenden.
 
 
 ### § 33 Anpassung an Änderungen der Fahrzeug-Zulassungsverordnung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE005000123)
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
 dem Bundesministerium für Digitales und Verkehr durch Rechtsverordnung
@@ -2012,6 +2063,7 @@ Vorschriften der Fahrzeug-Zulassungsverordnung anzupassen, soweit
 
 
 ### Anlage zu § 4 Abs. 2
+[Direktlink](https://www.gesetze-im-internet.de/pflvg/BJNR102130965.html#BJNR102130965BJNE002206123)
 
 (Fundstelle: BGBl. I 1965, 221;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. Abschnitt - Das Jagdrecht
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000100325)
 
 
 
 ### § 1 Inhalt des Jagdrechts
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002000325)
 
 (1) Das Jagdrecht ist die ausschließliche Befugnis, auf einem
 bestimmten Gebiet wildlebende Tiere, die dem Jagdrecht unterliegen,
@@ -57,6 +59,7 @@ der in seinem Rahmen ergangenen landesrechtlichen Vorschriften.
 
 
 ### § 2 Tierarten
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002100325)
 
 (1) Tierarten, die dem Jagdrecht unterliegen, sind:
 
@@ -175,6 +178,7 @@ Steinadler und Seeadler. Alles übrige Wild gehört zum Niederwild.
 
 
 ### § 3 Inhaber des Jagdrechts, Ausübung des Jagdrechts
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002200325)
 
 (1) Das Jagdrecht steht dem Eigentümer auf seinem Grund und Boden zu.
 Es ist untrennbar mit dem Eigentum am Grund und Boden verbunden. Als
@@ -188,20 +192,24 @@ ausgeübt werden.
 
 
 ## II. Abschnitt - Jagdbezirke und Hegegemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000200325)
 
 
 
 ### 1. - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000300325)
 
 
 
 #### § 4 Jagdbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002300325)
 
 Jagdbezirke, in denen die Jagd ausgeübt werden darf, sind entweder
 Eigenjagdbezirke (§ 7) oder gemeinschaftliche Jagdbezirke (§ 8).
 
 
 #### § 5 Gestaltung der Jagdbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002400325)
 
 (1) Jagdbezirke können durch Abtrennung, Angliederung oder Austausch
 von Grundflächen abgerundet werden, wenn dies aus Erfordernissen der
@@ -217,6 +225,7 @@ her.
 
 
 #### § 6 Befriedete Bezirke, Ruhen der Jagd
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002500325)
 
 Auf Grundflächen, die zu keinem Jagdbezirk gehören, und in befriedeten
 Bezirken ruht die Jagd. Eine beschränkte Ausübung der Jagd kann
@@ -225,6 +234,7 @@ dieses Gesetzes.
 
 
 #### § 6a Befriedung von Grundflächen aus ethischen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007700360)
 
 (1) Grundflächen, die zu einem gemeinschaftlichen Jagdbezirk gehören
 und im Eigentum einer natürlichen Person stehen, sind auf Antrag des
@@ -356,10 +366,12 @@ Entscheidung angegliedert sind, entsprechend anzuwenden.
 
 
 ### 2. - Eigenjagdbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000400325)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002601308)
 
 (1) Zusammenhängende Grundflächen mit einer land-, forst- oder
 fischereiwirtschaftlich nutzbaren Fläche von 75 Hektar an, die im
@@ -399,10 +411,12 @@ die Nutzung des ganzen Eigenjagdbezirkes zusteht.
 
 
 ### 3. - Gemeinschaftliche Jagdbezirke
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000500325)
 
 
 
 #### § 8 Zusammensetzung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002700325)
 
 (1) Alle Grundflächen einer Gemeinde oder abgesonderten Gemarkung, die
 nicht zu einem Eigenjagdbezirk gehören, bilden einen
@@ -426,6 +440,7 @@ Jagdrechts der Jagdgenossenschaft zu.
 
 
 #### § 9 Jagdgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002800325)
 
 (1) Die Eigentümer der Grundflächen, die zu einem gemeinschaftlichen
 Jagdbezirk gehören, bilden eine Jagdgenossenschaft. Eigentümer von
@@ -444,6 +459,7 @@ der Beschlußfassung vertretenen Grundfläche.
 
 
 #### § 10 Jagdnutzung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE002900325)
 
 (1) Die Jagdgenossenschaft nutzt die Jagd in der Regel durch
 Verpachtung. Sie kann die Verpachtung auf den Kreis der Jagdgenossen
@@ -465,10 +481,12 @@ gemacht wird.
 
 
 ### 4. - Hegegemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000600325)
 
 
 
 #### § 10a Bildung von Hegegemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003000325)
 
 (1) Für mehrere zusammenhängende Jagdbezirke können die
 Jagdausübungsberechtigten zum Zwecke der Hege des Wildes eine
@@ -486,10 +504,12 @@ Hegegemeinschaft zu gründen, ohne Erfolg geblieben ist.
 
 
 ## III. Abschnitt - Beteiligung Dritter an der Ausübung des Jagdrechts
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000700325)
 
 
 
 ### § 11 Jagdpacht
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003101308)
 
 (1) Die Ausübung des Jagdrechts in seiner Gesamtheit kann an Dritte
 verpachtet werden. Ein Teil des Jagdausübungsrechts kann nicht
@@ -553,6 +573,7 @@ einzutragen; das Nähere regeln die Länder.
 
 
 ### § 12 Anzeige von Jagdpachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003200325)
 
 (1) Der Jagdpachtvertrag ist der zuständigen Behörde anzuzeigen. Die
 Behörde kann den Vertrag binnen drei Wochen nach Eingang der Anzeige
@@ -585,6 +606,7 @@ beanstanden ist.
 
 
 ### § 13 Erlöschen des Jagdpachtvertrages
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003300325)
 
 Der Jagdpachtvertrag erlischt, wenn dem Pächter der Jagdschein
 unanfechtbar entzogen worden ist. Er erlischt auch dann, wenn die
@@ -597,6 +619,7 @@ Schaden zu ersetzen, wenn ihn ein Verschulden trifft.
 
 
 ### § 13a Rechtsstellung der Mitpächter
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003400325)
 
 Sind mehrere Pächter an einem Jagdpachtvertrag beteiligt (Mitpächter),
 so bleibt der Vertrag, wenn er im Verhältnis zu einem Mitpächter
@@ -612,6 +635,7 @@ erfolgen.
 
 
 ### § 14 Wechsel des Grundeigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003501377)
 
 (1) Wird ein Eigenjagdbezirk ganz oder teilweise veräußert, so finden
 die Vorschriften der §§ 566 bis 567b des Bürgerlichen Gesetzbuchs
@@ -632,10 +656,12 @@ Fall der Zwangsversteigerung eines Grundstücks.
 
 
 ## IV. Abschnitt - Jagdschein
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000800325)
 
 
 
 ### § 15 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003605118)
 
 (1) Wer die Jagd ausübt, muß einen auf seinen Namen lautenden
 Jagdschein mit sich führen und diesen auf Verlangen den Polizeibeamten
@@ -701,6 +727,7 @@ steht der Falknerprüfung im Sinne des Satzes 1 gleich.
 
 
 ### § 16 Jugendjagdschein
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003700325)
 
 (1) Personen, die das sechzehnte Lebensjahr vollendet haben, aber noch
 nicht achtzehn Jahre alt sind, darf nur ein Jugendjagdschein erteilt
@@ -718,6 +745,7 @@ Gesellschaftsjagden.
 
 
 ### § 17 Versagung des Jagdscheines
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE003907311)
 
 (1) Der Jagdschein ist zu versagen
 
@@ -851,6 +879,7 @@ körperliche Eignung aufgeben.
 
 
 ### § 18 Einziehung des Jagdscheines
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004000325)
 
 Wenn Tatsachen, welche die Versagung des Jagdscheines begründen, erst
 nach Erteilung des Jagdscheines eintreten oder der Behörde, die den
@@ -865,6 +894,7 @@ Jagdscheines festsetzen.
 
 
 ### § 18a Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007502311)
 
 Die erstmalige Erteilung oder Verlängerung einer Erlaubnis nach den §§
 15 und 16, das Ergebnis von Überprüfungen nach § 17 sowie Maßnahmen
@@ -874,10 +904,12 @@ mitzuteilen.
 
 
 ## V. Abschnitt - Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG000900325)
 
 
 
 ### § 19 Sachliche Verbote
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004104311)
 
 (1) Verboten ist
 
@@ -1008,6 +1040,7 @@ die Prüfung vorgenommen hat, sowie der Verwendungszweck anzugeben.
 
 
 ### § 19a Beunruhigen von Wild
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004200325)
 
 Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet
 oder bedroht ist, unbefugt an seinen Zuflucht-, Nist-, Brut- oder
@@ -1017,6 +1050,7 @@ zulassen.
 
 
 ### § 20 Örtliche Verbote
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004300325)
 
 (1) An Orten, an denen die Jagd nach den Umständen des einzelnen
 Falles die öffentliche Ruhe, Ordnung oder Sicherheit stören oder das
@@ -1027,6 +1061,7 @@ in National- und Wildparken wird durch die Länder geregelt.
 
 
 ### § 21 Abschußregelung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004400325)
 
 (1) Der Abschuß des Wildes ist so zu regeln, daß die berechtigten
 Ansprüche der Land-, Forst- und Fischereiwirtschaft auf Schutz gegen
@@ -1064,6 +1099,7 @@ gänzlich verboten werden.
 
 
 ### § 22 Jagd- und Schonzeiten
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004504119)
 
 (1) Nach den in § 1 Abs. 2 bestimmten Grundsätzen der Hege bestimmt
 das Bundesministerium durch Rechtsverordnung mit Zustimmung des
@@ -1110,6 +1146,7 @@ genannten Maßgaben erlauben.
 
 
 ### § 22a Verhinderung von vermeidbaren Schmerzen oder Leiden des Wildes
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004600325)
 
 (1) Um krankgeschossenes Wild vor vermeidbaren Schmerzen oder Leiden
 zu bewahren, ist dieses unverzüglich zu erlegen; das gleiche gilt für
@@ -1127,10 +1164,12 @@ Vorschriften über die Wildfolge ergänzen oder erweitern.
 
 
 ## VI. Abschnitt - Jagdschutz
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001000325)
 
 
 
 ### § 23 Inhalt des Jagdschutzes
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004700325)
 
 Der Jagdschutz umfaßt nach näherer Bestimmung durch die Länder den
 Schutz des Wildes insbesondere vor Wilderern, Futternot, Wildseuchen,
@@ -1139,6 +1178,7 @@ der zum Schutz des Wildes und der Jagd erlassenen Vorschriften.
 
 
 ### § 24 Wildseuchen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004800325)
 
 Tritt eine Wildseuche auf, so hat der Jagdausübungsberechtigte dies
 unverzüglich der zuständigen Behörde anzuzeigen; sie erläßt im
@@ -1147,6 +1187,7 @@ erforderlichen Anweisungen.
 
 
 ### § 25 Jagdschutzberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE004902377)
 
 (1) Der Jagdschutz in einem Jagdbezirk liegt neben den zuständigen
 öffentlichen Stellen dem Jagdausübungsberechtigten ob, sofern er
@@ -1165,14 +1206,17 @@ eingeräumten Befugnisse.
 
 
 ## VII. Abschnitt - Wild- und Jagdschaden
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001100325)
 
 
 
 ### 1. - Wildschadensverhütung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001200325)
 
 
 
 #### § 26 Fernhalten des Wildes
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005000325)
 
 Der Jagdausübungsberechtigte sowie der Eigentümer oder
 Nutzungsberechtigte eines Grundstückes sind berechtigt, zur Verhütung
@@ -1183,6 +1227,7 @@ Wild weder gefährden noch verletzen.
 
 
 #### § 27 Verhinderung übermäßigen Wildschadens
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005100325)
 
 (1) Die zuständige Behörde kann anordnen, daß der
 Jagdausübungsberechtigte unabhängig von den Schonzeiten innerhalb
@@ -1199,6 +1244,7 @@ dem Jagdausübungsberechtigten zu überlassen.
 
 
 #### § 28 Sonstige Beschränkungen in der Hege
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005200325)
 
 (1) Schwarzwild darf nur in solchen Einfriedungen gehegt werden, die
 ein Ausbrechen des Schwarzwildes verhüten.
@@ -1217,6 +1263,7 @@ Genehmigung abhängig machen.
 
 
 #### § 28a Invasive Arten
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007800118)
 
 (1) Dem Jagdausübungsberechtigten ist mit dessen Zustimmung für den
 Jagdbezirk, in dem er die Jagd ausüben darf, die Durchführung von
@@ -1253,10 +1300,12 @@ Bundesnaturschutzgesetzes festgelegt worden sind, nicht anzuwenden; §
 
 
 ### 2. - Wildschadensersatz
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001300325)
 
 
 
 #### § 29 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005300325)
 
 (1) Wird ein Grundstück, das zu einem gemeinschaftlichen Jagdbezirk
 gehört oder einem gemeinschaftlichen Jagdbezirk angegliedert ist (§ 5
@@ -1294,6 +1343,7 @@ eine Mehrheit von Beteiligten zu verteilen ist
 
 
 #### § 30 Wildschaden durch Wild aus Gehege
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005400325)
 
 Wird durch ein aus einem Gehege ausgetretenes und dort gehegtes Stück
 Schalenwild Wildschaden angerichtet, so ist ausschließlich derjenige
@@ -1302,6 +1352,7 @@ oder Nutznießer die Aufsicht über das Gehege obliegt.
 
 
 #### § 31 Umfang der Ersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005500325)
 
 (1) Nach den §§ 29 und 30 ist auch der Wildschaden zu ersetzen, der an
 den getrennten, aber noch nicht eingeernteten Erzeugnissen eines
@@ -1317,6 +1368,7 @@ ausgeglichen werden kann.
 
 
 #### § 32 Schutzvorrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005600325)
 
 (1) Ein Anspruch auf Ersatz von Wildschaden ist nicht gegeben, wenn
 der Geschädigte die von dem Jagdausübungsberechtigten zur Abwehr von
@@ -1335,10 +1387,12 @@ anzusehen sind.
 
 
 ### 3. - Jagdschaden
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001400325)
 
 
 
 #### § 33 Schadensersatzpflicht
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005700325)
 
 (1) Wer die Jagd ausübt, hat dabei die berechtigten Interessen der
 Grundstückseigentümer oder Nutzungsberechtigten zu beachten,
@@ -1356,10 +1410,12 @@ angerichtet wird.
 
 
 ### 4. - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001500325)
 
 
 
 #### § 34 Geltendmachung des Schadens
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005800325)
 
 Der Anspruch auf Ersatz von Wild- oder Jagdschaden erlischt, wenn der
 Berechtigte den Schadensfall nicht binnen einer Woche, nachdem er von
@@ -1373,6 +1429,7 @@ Person bezeichnen.
 
 
 #### § 35 Verfahren in Wild- und Jagdschadenssachen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE005900325)
 
 Die Länder können in Wild- und Jagdschadenssachen das Beschreiten des
 ordentlichen Rechtsweges davon abhängig machen, daß zuvor ein
@@ -1385,10 +1442,12 @@ Bestimmungen hierüber.
 
 
 ## VIII. Abschnitt - Inverkehrbringen und Schutz von Wild
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001600325)
 
 
 
 ### § 36 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006110119)
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates, soweit dies aus Gründen der Hege, zur
@@ -1492,15 +1551,18 @@ Absatz 1 Nr. 3 geregelt ist.
 
 
 ### § 36a
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006201305)
 
 -
 
 
 ## IX. Abschnitt - Jagdbeirat und Vereinigungen der Jäger
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001700325)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006300325)
 
 (1) In den Ländern sind Jagdbeiräte zu bilden, denen Vertreter der
 Landwirtschaft, der Forstwirtschaft, der Jagdgenossenschaften, der
@@ -1512,10 +1574,12 @@ der Weidgerechtigkeit verstoßen (§ 1 Abs. 3).
 
 
 ## X. Abschnitt - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001800325)
 
 
 
 ### § 38 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006402377)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1536,6 +1600,7 @@ bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 38a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007601311)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2a
@@ -1567,6 +1632,7 @@ Erhaltungszustand der Art hat.
 
 
 ### § 39 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006504311)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1653,6 +1719,7 @@ Euro geahndet werden.
 
 
 ### § 40 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006601308)
 
 (1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39
 Abs. 1 Nr. 5 oder Abs. 2 Nr. 2 bis 3a oder 5 begangen worden, so
@@ -1674,6 +1741,7 @@ Ordnungswidrigkeiten sind anzuwenden.
 
 
 ### § 41 Anordnung der Entziehung des Jagdscheines
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006702124)
 
 (1) Wird jemand wegen einer rechtswidrigen Tat
 
@@ -1712,6 +1780,7 @@ Sperre vorzeitig aufheben.
 
 
 ### § 41a Verbot der Jagdausübung
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006800325)
 
 (1) Wird gegen jemanden
 
@@ -1745,6 +1814,7 @@ Zustellung zu belehren.
 
 
 ### § 42 Landesrechtliche Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE006900325)
 
 Die Länder können Straf- und Bußgeldbestimmungen für Verstöße gegen
 die von ihnen erlassenen Vorschriften treffen, soweit solche nicht
@@ -1752,14 +1822,17 @@ schon in diesem Gesetz enthalten sind.
 
 
 ## XI. Abschnitt - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNG001900325)
 
 
 
 ### § 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007001377)
 
 
 
 ### § 44 Sonderregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007101377)
 
 Die zuständigen Landesregierungen werden ermächtigt, durch
 Rechtsverordnung im Benehmen mit dem Bundesministerium die Ausübung
@@ -1769,17 +1842,20 @@ Vorschriften dieses Gesetzes zu regeln.
 
 
 ### § 44a Unberührtheitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007400305)
 
 Vorschriften des Lebensmittelrechts, Seuchenrechts,
 Fleischhygienerechts und Tierschutzrechts bleiben unberührt.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007201308)
 
 (weggefallen)
 
 
 ### § 46 Inkrafttreten des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bjagdg/BJNR007800952.html#BJNR007800952BJNE007300325)
 
 (1) (Inkrafttreten der ursprünglichen Fassung des Gesetzes)
 

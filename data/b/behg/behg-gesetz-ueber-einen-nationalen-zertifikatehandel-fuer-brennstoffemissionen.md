@@ -21,14 +21,17 @@ Zuletzt geändert durch
 Stand: § 11 Abs. 1 u. 2 tritt gem. § 24 Abs. 2 dieses G am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Europäische Kommission die zu § 11 Abs. 1 und 2 erforderliche beihilferechtliche Genehmigung erteilt hat. Frühestens jedoch am Tag nach der Verkündung dieses G. § 11 Abs. 2 ist gem. § 24 Abs. 2 dieses G iVm Bek. v. 24.11.2022 I 2098 mWv 1.12.2022 in Kraft getreten. § 24 gem. Art. 2 Nr. 14 G v. 27.2.2025 I Nr. 70 mWv 6.3.2025 neu gefasst, dadurch ist die bedingte Inkraftsetzung des § 11 Abs. 1 aufgehoben. § 11 Abs. 1 idF d. Art. 2 Nr. 6 G v. 27.2.2025 I Nr. 70 mWv 6.3.2025 in Kraft getreten.
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000100000)
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000302130)
 
 Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit
 Emissionszertifikaten zu schaffen und für eine Bepreisung von
@@ -46,6 +49,7 @@ Treibhausgasemissionen.
 
 
 ### § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000404130)
 
 (1) Dieses Gesetz gilt für die Emission von Treibhausgasen aus den in
 Anlage 1 genannten Brennstoffen, die gemäß den Absätzen 2 und 2a in
@@ -86,6 +90,7 @@ Wettbewerbsfähigkeit sowie zum Ausgleich unzumutbarer Härten.
 
 
 ### § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000503130)
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -202,9 +207,11 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 
 ## Abschnitt 2 - Mengenplanung
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000200000)
 
 
 ### § 4 Jährliche Emissionsmengen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000600000)
 
 (1) Für jedes Kalenderjahr innerhalb einer Handelsperiode wird eine
 Menge an Brennstoffemissionen in Deutschland festgelegt, welche
@@ -245,6 +252,7 @@ bekannt.
 
 
 ### § 5 Flexibilisierungsinstrumente nach der EU-Klimaschutzverordnung
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000700000)
 
 (1) Soweit während der Einführungsphase nach § 10 Absatz 2 Satz 1 und
 2 und für die Dauer der Anwendung eines Preiskorridors die jährliche
@@ -276,9 +284,11 @@ insbesondere zur Berücksichtigung
 
 
 ## Abschnitt 3 - Grundpflichten der Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000300000)
 
 
 ### § 6 Überwachungsplan, vereinfachter Überwachungsplan
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000800000)
 
 (1) Der Verantwortliche ist verpflichtet, bei der zuständigen Behörde
 für jede Handelsperiode einen Überwachungsplan für die Ermittlung von
@@ -353,6 +363,7 @@ bestimmen, insbesondere an
 
 
 ### § 7 Ermittlung und Bericht über Brennstoffemissionen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE000902116)
 
 (1) Der Verantwortliche hat die Brennstoffemissionen für die in einem
 Kalenderjahr in Verkehr gebrachten Brennstoffe auf Grundlage des
@@ -442,6 +453,7 @@ der Einsatz dieser Brennstoffe nachgewiesen ist.
 
 
 ### § 8 Abgabe von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001000000)
 
 Der Verantwortliche hat jährlich bis zum 30. September an die
 zuständige Behörde eine Anzahl von Emissionszertifikaten abzugeben,
@@ -450,9 +462,11 @@ vorangegangenen Kalenderjahr entspricht.
 
 
 ## Abschnitt 4 - Emissionszertifikate, Veräußerung und Register
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000400000)
 
 
 ### § 9 Emissionszertifikate
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001101116)
 
 (1) Auf den Emissionszertifikaten ist die Zuordnung zu einer
 Handelsperiode sowie zu einem Kalenderjahr innerhalb dieser
@@ -485,6 +499,7 @@ Unrichtigkeit dem Empfänger von Emissionszertifikaten bei der
 
 
 ### § 10 Veräußerung von Emissionszertifikaten
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001204130)
 
 (1) Die nach § 4 Absatz 1 und 3 festgelegte Menge an
 Emissionszertifikaten sowie der zusätzliche Bedarf, der sich in der
@@ -589,6 +604,7 @@ nach § 5.
 
 
 ### § 11 Ausgleich indirekter Belastungen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE003001130)
 
 (1) Entsteht durch die Einführung des Brennstoffemissionshandels nach
 diesem Gesetz eine unzumutbare Härte für ein betroffenes Unternehmen
@@ -636,6 +652,7 @@ unveränderten Rechtsverordnung als erteilt.
 
 
 ### § 12 Nationales Emissionshandelsregister
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001401116)
 
 (1) Die zuständige Behörde führt ein nationales
 Emissionshandelsregister in der Form einer elektronischen Datenbank.
@@ -672,9 +689,11 @@ Betrieb und zur Führung des Emissionshandelsregisters zu regeln.
 
 
 ## Abschnitt 5 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000500000)
 
 
 ### § 13 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001500000)
 
 (1) Zuständige Behörde ist das Umweltbundesamt.
 
@@ -686,6 +705,7 @@ Emissionshandelsstelle im Umweltbundesamt ihren Sitz hat.
 
 
 ### § 14 Überwachung, Datenübermittlung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001602130)
 
 (1) Die zuständige Behörde hat die Durchführung dieses Gesetzes und
 der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen.
@@ -790,6 +810,7 @@ Verschlüsselungsverfahren anzuwenden.
 
 
 ### § 15 Prüfstellen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001701130)
 
 (1) Zur Prüfung von Emissionsberichten nach § 7 Absatz 1 sind
 berechtigt:
@@ -838,6 +859,7 @@ Bekanntgabe von Prüfstellen.
 
 
 ### § 16 Gebühren für individuell zurechenbare öffentliche Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001801130)
 
 (1) Für die Eröffnung eines Personen- oder Händlerkontos im nationalen
 Emissionshandelsregister erhebt die zuständige Behörde von dem
@@ -859,6 +881,7 @@ Prozent.
 
 
 ### § 17 Elektronische Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE001901130)
 
 (1) Erklärungen gegenüber der zuständigen Behörde sind auf
 elektronischem Wege und in elektronischer Form abzugeben. Die
@@ -880,6 +903,7 @@ gemacht.
 
 
 ### § 18 Änderung der Identität oder Rechtsform des Verantwortlichen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002000000)
 
 (1) Ändert sich die Identität oder die Rechtsform eines
 Verantwortlichen, so hat der neue Verantwortliche dies unverzüglich
@@ -901,6 +925,7 @@ Schuldner.
 
 
 ### § 19 Ausschluss der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002100000)
 
 Widerspruch und Anfechtungsklage gegen Entscheidungen nach § 6 Absatz
 2 Satz 3, § 20 Satz 1 oder § 21 Absatz 2 Satz 1 haben keine
@@ -908,9 +933,11 @@ aufschiebende Wirkung.
 
 
 ## Abschnitt 6 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000600000)
 
 
 ### § 20 Durchsetzung der Berichtspflicht
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002200000)
 
 Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10
 Absatz 2 Satz 1 und 2 seiner Berichtspflicht nach § 7 Absatz 1 nicht
@@ -923,6 +950,7 @@ Emissionen nach § 21 Absatz 2 Satz 1 erfolgt.
 
 
 ### § 21 Durchsetzung der Abgabepflicht
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002301130)
 
 (1) Kommt ein Verantwortlicher seiner Abgabepflicht nach § 8 nicht
 nach, so setzt die zuständige Behörde für jede Tonne
@@ -966,6 +994,7 @@ erfolgten Schätzung abzugeben.
 
 
 ### § 22 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002402130)
 
 (1) Ordnungswidrig handelt, wer entgegen § 7 Absatz 1 einen Bericht
 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
@@ -1000,9 +1029,11 @@ Geldbuße bis zu fünfhunderttausend Euro und in den Fällen der Absätze
 
 
 ## Abschnitt 7 - Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000700000)
 
 
 ### § 23 Erfahrungsbericht
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002501130)
 
 (1) Die Bundesregierung evaluiert dieses Gesetz und legt dem Bundestag
 bis zum 30. November 2022 sowie bis zum 30. November 2024 und dann
@@ -1025,9 +1056,11 @@ Erarbeitung des Erfahrungsberichts.
 
 
 ## Abschnitt 8 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNG000800000)
 
 
 ### § 24 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002601130)
 
 (1) Die Verpflichtungen nach § 7 Absatz 1 und § 8 entfallen in Bezug
 auf Brennstoffemissionen aus Brennstoffen, die nach dem 31. Dezember
@@ -1070,6 +1103,7 @@ nicht der Zustimmung des Bundesrates bedarf,
 (zu § 2 Absatz 1)
 
 ### Anlage 1 Brennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002701116)
 
 (Fundstelle: BGBl. I 2019, 2736;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1120,6 +1154,7 @@ dort genannten Anlagen eingesetzt werden.
 (zu § 7 Absatz 2)
 
 ### Anlage 2 Brennstoffe für die Emissionsberichterstattung in den Jahren 2021 und 2022
+[Direktlink](https://www.gesetze-im-internet.de/behg/BJNR272800019.html#BJNR272800019BJNE002800000)
 
 (Fundstelle: BGBl. I 2019, 2737)
 

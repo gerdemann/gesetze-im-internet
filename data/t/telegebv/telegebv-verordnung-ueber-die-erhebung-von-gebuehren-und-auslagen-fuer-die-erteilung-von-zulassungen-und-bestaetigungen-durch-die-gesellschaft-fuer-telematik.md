@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000100000)
 
 Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches
 Sozialgesetzbuch, der durch Artikel 1 Nummer 12 Buchstabe e des
@@ -29,6 +30,7 @@ ist, verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Gebührenerhebung; Entstehung der Gebührenschuld
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000201311)
 
 (1) Die Gesellschaft für Telematik erhebt für von ihr erbrachte
 individuell zurechenbare öffentliche Leistungen nach den §§ 324, 325,
@@ -47,6 +49,7 @@ der Rücknahme des Antrags.
 
 
 ## § 2 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000300000)
 
 (1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist
 derjenige verpflichtet, der
@@ -67,6 +70,7 @@ derjenige verpflichtet, der
 
 
 ## § 3 Höhe der Gebühr
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000401311)
 
 (1) Die Gebühr beträgt für
 
@@ -163,6 +167,7 @@ für Gesundheit überprüft und, soweit erforderlich, angepasst.
 
 
 ## § 4 Gebührenbefreiung und Gebührenermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000500000)
 
 (1) Auf Antrag des Gebührenschuldners kann die Gebühr ganz oder
 teilweise erlassen werden, wenn an der beantragten Zulassung oder
@@ -180,6 +185,7 @@ ermäßigen.
 
 
 ## § 5 Gebühren in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000600000)
 
 (1) Wird ein Antrag aus formalen Gründen abgelehnt, beträgt die Gebühr
 50 Euro. Wird ein Antrag aus inhaltlichen Gründen abgelehnt,
@@ -217,6 +223,7 @@ vorgesehenen Höchstsatzes erhoben werden.
 
 
 ## § 6 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000700000)
 
 Als Auslagen werden die Kosten gesondert in der tatsächlich
 entstandenen Höhe erhoben, die nicht bereits in die Gebühr einbezogen
@@ -229,6 +236,7 @@ entstehen.
 
 
 ## § 7 Anwendung des Bundesgebührengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000800000)
 
 Die §§ 14, 16 bis 19 und 21 des Bundesgebührengesetzes zur Fälligkeit,
 zum Säumniszuschlag, zur Stundung, zur Niederschlagung, zum Erlass,
@@ -236,6 +244,7 @@ zur Verjährung und zur Erstattung sind entsprechend anzuwenden.
 
 
 ## § 8 Übergangsregelung für die Bestätigung informationstechnischer Systeme nach § 373 Absatz 5 des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE000901311)
 
 Für Bestätigungen nach § 373 Absatz 5 des Fünften Buches
 Sozialgesetzbuch, die seit dem 9. Juni 2021 beantragt worden sind,
@@ -245,6 +254,7 @@ beantragt worden sind, werden keine Gebühren und Auslagen erhoben.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/telegebv/BJNR338200017.html#BJNR338200017BJNE001000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

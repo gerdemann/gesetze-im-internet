@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000100314)
 
 Auf Grund des § 55f der Gewerbeordnung in der Fassung der
 Bekanntmachung vom 1. Januar 1978 (BGBl. I S. 97), der durch Artikel 2
@@ -29,6 +30,7 @@ des Bundesrates:
 
 
 ## § 1 Versicherungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000201377)
 
 (1) Wer selbständig als Schausteller oder nach Schaustellerart eine
 nach Absatz 2 versicherungspflichtige Tätigkeit im Reisegewerbe
@@ -74,6 +76,7 @@ und für die Dauer seiner Tätigkeit aufrechtzuerhalten.
 
 
 ## § 2 Vorzeigen der Versicherungsunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000301377)
 
 (1) Der Inhaber einer Reisegewerbekarte oder einer Zweitschrift (§ 60c
 Abs. 2 der Gewerbeordnung) ist verpflichtet, während der Ausübung des
@@ -88,6 +91,7 @@ Versicherungspflicht nach § 1 unterliegen.
 
 
 ## § 3 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000400314)
 
 Ordnungswidrig im Sinne des § 145 Abs. 1 Nr. 2 der Gewerbeordnung
 handelt, wer vorsätzlich oder fahrlässig
@@ -103,12 +107,14 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 4 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000500314)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 156 der Gewerbeordnung auch im Land Berlin.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schauhv/BJNR015980984.html#BJNR015980984BJNE000600314)
 
 Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 

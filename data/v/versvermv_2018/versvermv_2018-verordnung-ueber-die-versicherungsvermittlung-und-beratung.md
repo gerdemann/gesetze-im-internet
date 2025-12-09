@@ -21,9 +21,11 @@ Geändert durch
 Stand: Ersetzt V 7100-1-9 v. 15.5.2007 I 733 (VersVermV)
 
 ## Abschnitt 1 - Erlaubnisverfahren, Sachkundenachweis, Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000100000)
 
 
 ### § 1 Zusätzliche Angaben bei der Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000200000)
 
 (1) Mit einem Antrag auf Erteilung einer Erlaubnis nach § 34d Absatz 1
 oder 2 der Gewerbeordnung hat der Antragsteller der zuständigen
@@ -55,6 +57,7 @@ und Handelskammer unverzüglich mitzuteilen.
 
 
 ### § 2 Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000300000)
 
 (1) Gegenstand der Sachkundeprüfung nach § 34d Absatz 5 Satz 1 Nummer
 4 der Gewerbeordnung sind die erforderlichen Kenntnisse und
@@ -121,6 +124,7 @@ keiner Sachkundeprüfung.
 
 
 ### § 3 Zuständige Stelle und Prüfungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000400000)
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer
 abgelegt werden.
@@ -140,6 +144,7 @@ Prüfungsausschuss, schließen.
 
 
 ### § 4 Prüfung, Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000500000)
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem
 praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt
@@ -289,6 +294,7 @@ Gewerbeordnung durch Satzung.
 
 
 ### § 5 Gleichstellung anderer Berufsqualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000601128)
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger
 sind der Sachkundeprüfung gleichgestellt:
@@ -375,6 +381,7 @@ Versicherungsberatung nachgewiesen wird.
 
 
 ### § 6 Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000700000)
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten
 Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich
@@ -388,6 +395,7 @@ umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
 
 ### § 7 Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000800000)
 
 (1) Durch die Weiterbildung erbringen die nach § 34d Absatz 9 Satz 2
 der Gewerbeordnung zur Weiterbildung Verpflichteten den Nachweis, dass
@@ -441,9 +449,11 @@ Erklärung kann elektronisch erfolgen.
 
 
 ## Abschnitt 2 - Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000200000)
 
 
 ### § 8 Angaben zur Speicherung im Vermittlerregister
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE000900000)
 
 Im Vermittlerregister nach § 11a der Gewerbeordnung werden folgende
 Angaben zu den Eintragungspflichtigen gespeichert:
@@ -533,6 +543,7 @@ Vermittlertätigkeiten zuständig sind.
 
 
 ### § 9 Mitteilungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001000000)
 
 (1) Der Eintragungspflichtige hat der Registerbehörde die nach § 8
 einzutragenden Angaben mitzuteilen. Änderungen der Angaben nach § 8
@@ -558,6 +569,7 @@ das Versicherungsunternehmen unverzüglich über eine Datenlöschung nach
 
 
 ### § 10 Zugang
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001100000)
 
 Die Angaben nach § 8 Satz 1 Nummer 2 und 8 dürfen nicht automatisiert
 abgerufen werden. Die Registerbehörde darf zu diesen Angaben nur den
@@ -566,9 +578,11 @@ erteilen.
 
 
 ## Abschnitt 3 - Anforderungen an die Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000300000)
 
 
 ### § 11 Geltungsbereich der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001200000)
 
 Die Berufshaftpflichtversicherung nach § 34d Absatz 5 Satz 1 Nummer 3
 der Gewerbeordnung muss für das gesamte Gebiet der Europäischen Union
@@ -577,6 +591,7 @@ Wirtschaftsraum gelten.
 
 
 ### § 12 Umfang der Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001300000)
 
 (1) Die Versicherung nach § 34d Absatz 5 Satz 1 Nummer 3 der
 Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb
@@ -621,6 +636,7 @@ dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
 
 ### § 13 Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001400000)
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung
 nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum
@@ -657,9 +673,11 @@ Handelskammer.
 
 
 ## Abschnitt 4 - Anforderungen an die Geschäftsorganisation, Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000400000)
 
 
 ### § 14 Anforderungen an die Geschäftsorganisation, Vergütung, Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001500000)
 
 (1) Der Gewerbetreibende muss über alle sachgerechten Informationen zu
 dem Versicherungsprodukt und dem Produktfreigabeverfahren
@@ -679,6 +697,7 @@ besser entsprechendes Versicherungsprodukt anbieten könnte.
 
 
 ### § 15 Information des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001600000)
 
 (1) Der Gewerbetreibende hat dem Versicherungsnehmer beim ersten
 Geschäftskontakt folgende Angaben nach Maßgabe des § 16 Absatz 1
@@ -786,6 +805,7 @@ Rückversicherungen und Versicherungsverträge über Großrisiken nach §
 
 
 ### § 16 Einzelheiten der Mitteilung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001700000)
 
 (1) Die Mitteilung nach § 15 Absatz 1 hat wie folgt zu erfolgen:
 
@@ -860,6 +880,7 @@ dem ersten Geschäftskontakt zu erteilen.
 
 
 ### § 17 Behandlung von Beschwerden
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001800000)
 
 (1) Der Gewerbetreibende mit einer Erlaubnis nach § 34d Absatz 1 oder
 2 der Gewerbeordnung muss über Leitlinien zur Beschwerdebearbeitung
@@ -923,9 +944,11 @@ verpflichtet, an dem Schlichtungsverfahren teilzunehmen.
 
 
 ## Abschnitt 5 - Ergänzende Vorschriften für die Vermittlung von Versicherungsanlageprodukten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000500000)
 
 
 ### § 18 Vermeidung und Offenlegung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE001900000)
 
 Gewerbetreibende, die Versicherungsanlageprodukte im Sinne des
 Artikels 2 Absatz 1 Nummer 17 der Richtlinie (EU) 2016/97 vermitteln
@@ -940,6 +963,7 @@ Versicherungsaufsichtsgesetzes ist entsprechend anzuwenden.
 
 
 ### § 19 Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002000000)
 
 Gewerbetreibende, die im Zusammenhang mit der Vermittlung eines
 Versicherungsanlageprodukts eine Zuwendung an Dritte zahlen oder eine
@@ -954,9 +978,11 @@ Versicherungsvertragsgesetzes zu handeln.
 
 
 ## Abschnitt 6 - Zahlungssicherung des Gewerbetreibenden zugunsten des Versicherungsnehmers
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000600000)
 
 
 ### § 20 Sicherheitsleistung, Versicherung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002100000)
 
 (1) Der Gewerbetreibende darf für das Versicherungsunternehmen
 bestimmte Zahlungen, die der Versicherungsnehmer im Zusammenhang mit
@@ -1026,6 +1052,7 @@ sichergestellt ist.
 
 
 ### § 21 Nachweis
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002200000)
 
 Soweit der Gewerbetreibende nach § 20 Absatz 1 Satz 1 oder Absatz 2
 Satz 1 Sicherheiten zu leisten oder Versicherungen abzuschließen hat,
@@ -1033,6 +1060,7 @@ hat er diese dem Versicherungsnehmer auf Verlangen nachzuweisen.
 
 
 ### § 22 Aufzeichnungspflicht des Gewerbetreibenden
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002300000)
 
 (1) Der Gewerbetreibende hat nach Maßgabe des Satzes 2 und des
 Absatzes 2 die Pflicht, Aufzeichnungen zu machen sowie die dort
@@ -1088,6 +1116,7 @@ ist.
 
 
 ### § 23 Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002400000)
 
 (1) Die für die Erlaubniserteilung nach § 34d Absatz 1 oder Absatz 2
 der Gewerbeordnung zuständige Industrie- und Handelskammer kann aus
@@ -1143,6 +1172,7 @@ dieser Personen.
 
 
 ### § 24 Rechte und Pflichten der an der Prüfung Beteiligten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002500000)
 
 (1) Der Gewerbetreibende hat dem Prüfer Einsicht in die Bücher,
 Aufzeichnungen und Unterlagen zu gestatten. Er hat dem Prüfer alle
@@ -1159,15 +1189,18 @@ Gesamtschuldner.
 
 
 ### § 25 Rückversicherungen
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002600000)
 
 Die §§ 20 bis 24 gelten nicht für die Vermittlung von und die Beratung
 über Rückversicherungen.
 
 
 ## Abschnitt 7 - Ordnungswidrigkeiten, Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNG000700000)
 
 
 ### § 26 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002700000)
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
@@ -1215,6 +1248,7 @@ Marktgewerbes begeht.
 
 
 ### § 27 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002800000)
 
 Ein vor dem 1. Januar 2009 erworbener Abschluss als
 Versicherungsfachmann oder Versicherungsfachfrau des
@@ -1224,6 +1258,7 @@ der erfolgreich abgelegten Sachkundeprüfung nach § 2 gleich.
 (zu § 2 Absatz 2 Satz 2)
 
 ### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE002900000)
 
 (Fundstelle: BGBl. I 2018, 2493 - 2495)
 
@@ -1619,6 +1654,7 @@ der erfolgreich abgelegten Sachkundeprüfung nach § 2 gleich.
 (zu § 4 Absatz 8)
 
 ### Anlage 2 Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Versicherungsvermittlung IHK“ und „Geprüfte Fachfrau für Versicherungsvermittlung IHK“ nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE003000000)
 
 (Fundstelle: BGBl. I 2018, 2496)
 
@@ -1702,6 +1738,7 @@ Pflichten und Befugnisse folgender Sachgebiete:
 (zu § 7 Absatz 1)
 
 ### Anlage 3 Anforderungen an die Qualität der Weiterbildungsmaßnahme
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE003100000)
 
 (Fundstelle: BGBl. I 2018, 2497)
 
@@ -1760,6 +1797,7 @@ Pflichten und Befugnisse folgender Sachgebiete:
 (zu § 7 Absatz 3)
 
 ### Anlage 4 Erklärung über die Erfüllung der Weiterbildungsverpflichtung nach § 34d Absatz 9 Satz 2 GewO i. V. m. § 7 Absatz 1 VersVermV für das Jahr … .
+[Direktlink](https://www.gesetze-im-internet.de/versvermv_2018/BJNR248310018.html#BJNR248310018BJNE003200000)
 
 (Fundstelle: BGBl. I 2018, 2498)
 

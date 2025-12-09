@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000101000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000101000)
 
 Diese Verordnung gilt für Biozid-Produkte im Sinne von § 3 Nummer 11
 des Chemikaliengesetzes in der Fassung der Bekanntmachung vom 28.
@@ -29,6 +31,7 @@ Gesetzes vom 3. Juni 2021 (BGBl. I S. 1479) geändert worden ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000200000)
 
 Im Sinne dieser Verordnung ist:
 
@@ -66,9 +69,11 @@ ergänzend.
 
 
 ## Abschnitt 2 - Meldung von Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000201000)
 
 
 ### § 3 Aufbringen und Angabe der Registriernummer
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000301000)
 
 (1) Biozid-Produkte, die der Übergangsvorschrift nach § 28 Absatz 8
 Satz 1 des Chemikaliengesetzes unterliegen, dürfen im Geltungsbereich
@@ -87,6 +92,7 @@ werden, wenn das Angebot die Registriernummer enthält.
 
 
 ### § 4 Meldung eines Biozid-Produkts
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000400000)
 
 (1) Wer als Hersteller oder Einführer eines Biozid-Produkts oder unter
 Verwendung eines eigenen Handelsnamens ein Biozid-Produkt, für das
@@ -173,6 +179,7 @@ zugleich der Antrag auf Erteilung einer Registriernummer gestellt.
 
 
 ### § 5 Erteilung der Registriernummer
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000500000)
 
 Die Bundesstelle für Chemikalien erteilt die Registriernummer
 spätestens innerhalb von 30 Tagen nach der Meldung, sofern
@@ -213,6 +220,7 @@ automatische Einrichtungen erfolgen.
 
 
 ### § 6 Aktualisierung und Bestätigung der Meldung
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000600000)
 
 (1) Meldepflichtige nach § 4 Absatz 1 Satz 1 haben die Meldung
 unverzüglich zu aktualisieren, wenn sich eine in § 4 Absatz 2 genannte
@@ -235,6 +243,7 @@ einen Vertreter mit Sitz im Inland vorgenommen werden.
 
 
 ### § 7 Elektronisches Verzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000700000)
 
 (1) Die Bundesstelle für Chemikalien stellt auf der Internetseite der
 Bundesanstalt für Arbeitsschutz und Arbeitsmedizin ein elektronisches
@@ -246,6 +255,7 @@ für die eine Registriernummer erteilt wurde.
 
 
 ### § 8 Informationsweitergabe an die Landesbehörden
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000800000)
 
 Sofern eine nach § 4 Absatz 1 zur Meldung verpflichtete Person auf
 Grund einer fehlenden Bestätigung nach § 6 Absatz 2 Satz 1 das Biozid-
@@ -255,9 +265,11 @@ mit.
 
 
 ## Abschnitt 3 - Vorschriften über die Abgabe von Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000300000)
 
 
 ### § 9 Geltung von Zulassungsbeschränkungen für die Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE000901000)
 
 Regelt die Zulassung eines Biozid-Produkts, dass das Biozid-Produkt
 nur durch bestimmte Personen verwendet werden darf, so darf das
@@ -266,6 +278,7 @@ ist die Abgabe an Wiederverkäufer.
 
 
 ### § 10 Verbot der Selbstbedienung
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001000000)
 
 (1) Folgende Biozid-Produkte dürfen nur in einer Form angeboten und
 abgegeben werden, in der der Käufer keinen freien Zugriff auf das
@@ -341,6 +354,7 @@ der beruflichen Tätigkeit des Erwerbers erfolgt.
 
 
 ### § 11 Anforderungen an die abgebende Person, Abgabegespräch
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001100000)
 
 (1) Biozid-Produkte nach § 10 Absatz 1 dürfen nur von einer im Betrieb
 beschäftigten Person abgegeben werden, die die Anforderungen an die
@@ -391,6 +405,7 @@ bleiben unberührt.
 
 
 ### § 12 Anforderungen an die Abgabe im Online- und Versandhandel
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001200000)
 
 Erfolgt die Abgabe im Online-Handel oder sonst im Versandwege, gelten
 § 10 Absatz 2 und § 11 Absatz 2 mit der Maßgabe, dass durch technische
@@ -410,6 +425,7 @@ Abschluss des Kaufvertrages über das Biozid-Produkt
 
 
 ### § 13 Sachkunde für die Abgabe
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001301000)
 
 (1) Sachkundig nach § 11 für die Abgabe von Biozid-Produkten ist, wer
 die Anforderungen erfüllt nach:
@@ -455,9 +471,11 @@ zuständige Behörde die Gleichwertigkeit festgestellt hat.
 
 
 ## Abschnitt 4 - Vorschriften über die Zulassung von Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000401000)
 
 
 ### § 14 Einschränkung der Zulassung bestimmter Arten von Biozid-Produkten
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001401000)
 
 (1) Anträge auf Zulassung für Biozid-Produkte der Produktarten 15
 (Avizide), 17 (Fischbekämpfungsmittel) und 20 (Produkte gegen sonstige
@@ -485,6 +503,7 @@ Artikel 32 der Verordnung (EU) Nr. 528/2012.
 
 
 ### § 15 Einschränkung der Zulassung von Biozid-Produkten auf Grund bestimmter Wirkstoffe
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001500000)
 
 Biozid-Produkte, die Wirkstoffe enthalten, die ein Ausschlusskriterium
 nach Artikel 5 Absatz 1 der Verordnung (EU) Nr. 528/2012 erfüllen,
@@ -496,9 +515,11 @@ erforderlich ist.
 
 
 ## Abschnitt 5 - Mitteilungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000501000)
 
 
 ### § 16 Mitteilung über auf dem Markt bereitgestellte Biozid-Produkte
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001601000)
 
 (1) Wer als Hersteller oder Einführer ein Biozid-Produkt im
 Geltungsbereich dieser Verordnung auf dem Markt bereitstellt oder ein
@@ -541,9 +562,11 @@ erfolgen.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNG000601000)
 
 
 ### § 17 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001701000)
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe b des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -591,6 +614,7 @@ Chemikaliengesetzes strafbar.
 
 
 ### § 18 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chembioziddv/BJNR370610021.html#BJNR370610021BJNE001800000)
 
 (1) Die Vorschriften des zweiten Abschnitts sind erst ab dem 1. Januar
 2022 anzuwenden.

@@ -25,6 +25,7 @@ Stand: Ersetzt V 806-21-1-106 v. 21.12.1983 I 1645 (GlasappAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
 durch Artikel 2 Nummer 1 des Gesetzes vom 9. November 2022 (BGBl. I S.
@@ -38,9 +39,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Glasapparatebauers
 und der Glasapparatebauerin wird staatlich anerkannt nach
@@ -56,11 +59,13 @@ und der Glasapparatebauerin wird staatlich anerkannt nach
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -81,6 +86,7 @@ Kontrollieren bei der Ausübung der beruflichen Aufgaben ein.
 
 
 ### § 4 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -172,6 +178,7 @@ Einsatzgebieten die Vermittlung erfolgt.
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -179,9 +186,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNG000200000)
 
 
 ### § 6 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000800000)
 
 (1) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr
 stattfinden.
@@ -190,6 +199,7 @@ stattfinden.
 
 
 ### § 7 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE000900000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -206,6 +216,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001000000)
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -219,6 +230,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 9 Prüfungsbereich „Bearbeiten von Glaserzeugnissen“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001100000)
 
 (1) Im Prüfungsbereich „Bearbeiten von Glaserzeugnissen“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -298,6 +310,7 @@ höchstens 10 Minuten.
 
 
 ### § 10 Prüfungsbereich „Glaseigenschaften“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001200000)
 
 (1) Im Prüfungsbereich „Glaseigenschaften“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -338,9 +351,11 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ## Abschnitt 3 - Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNG000300000)
 
 
 ### § 11 Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001300000)
 
 (1) Die Abschluss- oder Gesellenprüfung findet am Ende der
 Berufsausbildung statt.
@@ -349,6 +364,7 @@ Berufsausbildung statt.
 
 
 ### § 12 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001400000)
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -365,6 +381,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 
 ### § 13 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001500000)
 
 Die Abschluss- oder Gesellenprüfung findet in den folgenden
 Prüfungsbereichen statt:
@@ -388,6 +405,7 @@ Prüfungsbereichen statt:
 
 
 ### § 14 Prüfungsbereich „Herstellen von Glasapparaten“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001600000)
 
 (1) Im Prüfungsbereich „Herstellen von Glasapparaten“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -522,6 +540,7 @@ auftragsbezogene Fachgespräch beträgt höchstens 15 Minuten.
 
 
 ### § 15 Prüfungsbereich „Bearbeiten von Halbzeugen“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001700000)
 
 (1) Im Prüfungsbereich „Bearbeiten von Halbzeugen“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -619,6 +638,7 @@ insgesamt 6 Stunden.
 
 
 ### § 16 Prüfungsbereich „Technologie im Glasapparatebau“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001800000)
 
 (1) Im Prüfungsbereich „Technologie im Glasapparatebau“ hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -675,6 +695,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 17 Prüfungsbereich „Herstellungsprozesse“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE001900000)
 
 (1) Im Prüfungsbereich „Herstellungsprozesse“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -729,6 +750,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 18 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE002000000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -742,6 +764,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 19 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE002100000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -820,6 +843,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 20 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE002200000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -861,9 +885,11 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNG000400000)
 
 
 ### § 21 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE002300000)
 
 Diese Verordnung tritt am 1. August 2023 in Kraft. Gleichzeitig tritt
 die Glasapparatebauer-Ausbildungsverordnung vom 21. Dezember 1983
@@ -872,6 +898,7 @@ die Glasapparatebauer-Ausbildungsverordnung vom 21. Dezember 1983
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin
+[Direktlink](https://www.gesetze-im-internet.de/glasappausbv_2023/BJNR0810A0023.html#BJNR0810A0023BJNE002400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 129, S. 10 - 17)
 

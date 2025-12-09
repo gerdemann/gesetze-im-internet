@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE001700333)
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der
 Fassung des Gesetzes über Änderungen von Vorschriften des Zweiten
@@ -31,10 +32,12 @@ Bundesrates verordnet:
 
 
 ## Abschnitt I - Arztregister
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000100333)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE001804308)
 
 (1) Für jeden Zulassungsbezirk führt die Kassenärztliche Vereinigung
 neben dem Arztregister die Registerakten.
@@ -68,6 +71,7 @@ entsprechend.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE001901308)
 
 (1) Das Arztregister muß die Angaben über die Person und die
 berufliche Tätigkeit des Arztes enthalten, die für die Zulassung von
@@ -77,6 +81,7 @@ Bedeutung sind.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002006308)
 
 (1) Die Eintragung in das Arztregister ist bei der nach § 4
 zuständigen Kassenärztlichen Vereinigung zu beantragen.
@@ -142,6 +147,7 @@ Höchstdauer von insgesamt 18 Monaten angerechnet.
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002201308)
 
 (1) Der Arzt ist in das Arztregister des Zulassungsbezirks
 einzutragen, in dem er seinen Wohnort hat. Sofern er keinen Wohnort im
@@ -174,6 +180,7 @@ des Antragstellers allein nicht.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002302308)
 
 (1) Verzieht ein im Arztregister eingetragener nicht zugelassener Arzt
 aus dem bisherigen Zulassungsbezirk, so wird er auf seinen Antrag in
@@ -188,6 +195,7 @@ zu übersenden.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002403308)
 
 (1) Die Zulassung eines Arztes ist im Arztregister kenntlich zu
 machen.
@@ -207,6 +215,7 @@ den Registerakten zu entfernen und zu vernichten.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002500333)
 
 Der Arzt wird im Arztregister gestrichen, wenn
 
@@ -228,6 +237,7 @@ d)  die Voraussetzungen nach § 3 Abs. 2 Buchstabe b auf Grund falscher
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002600333)
 
 (1) Über Eintragungen und Streichungen im Arztregister und in den
 Registerakten beschließt der Vorstand der Kassenärztlichen Vereinigung
@@ -239,6 +249,7 @@ Eintragung oder Streichung einen schriftlichen Bescheid.
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002703308)
 
 (1) Die Kassenärztlichen Vereinigungen, die Krankenkassen und die
 Landesverbände der Krankenkassen können das Arztregister und bei
@@ -254,6 +265,7 @@ Einsicht zu überlassen.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002800333)
 
 (1) Die Kassenärztliche Bundesvereinigung führt das Bundesarztregister
 nach dem Muster der Anlage.
@@ -268,10 +280,12 @@ Vereinigung unverzüglich mit.
 
 
 ## Abschnitt II - Bildung und Abgrenzung der Zulassungsbezirke
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000200333)
 
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE002902308)
 
 (1) Die Zulassungsbezirke werden von den Kassenärztlichen
 Vereinigungen und den Landesverbänden der Krankenkassen sowie den
@@ -287,10 +301,12 @@ Blättern bekanntzugeben.
 
 
 ## Abschnitt III - Bedarfsplanung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000300333)
 
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003006308)
 
 (1) Durch die den Kassenärztlichen Vereinigungen im Einvernehmen mit
 den Landesverbänden der Krankenkassen und den Ersatzkassen obliegende
@@ -350,6 +366,7 @@ Bedarfsplänen ergebenden Versorgungsbedürfnisse Rücksicht nehmen.
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003108308)
 
 (1) Die Kassenärztlichen Vereinigungen haben andere Träger der
 Krankenversicherung und die kommunalen Verbände, soweit deren Belange
@@ -389,6 +406,7 @@ Beratungsergebnis unterrichten.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003203308)
 
 (1) Kommt das Einvernehmen bei der Aufstellung und Fortentwicklung des
 Bedarfsplans zwischen der Kassenärztlichen Vereinigung, den
@@ -418,10 +436,12 @@ Begründung für die Beanstandung oder die Ersatzvornahme zuzuleiten.
 
 
 ## Abschnitt IV - Unterversorgung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000400333)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003301308)
 
 Weist der Bedarfsplan einen Bedarf an Vertragsärzten für einen
 bestimmten Versorgungsbereich aus und werden über einen Zeitraum von
@@ -432,6 +452,7 @@ vorgesehenen Blättern auszuschreiben.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003404119)
 
 (1) Der Landesausschuss der Ärzte und Krankenkassen hat von Amts wegen
 zu prüfen, ob in einem Planungsbereich eine ärztliche Unterversorgung
@@ -486,15 +507,18 @@ vorgesehenen Blättern zu veröffentlichen.
 
 
 ## Abschnitt IV a - Überversorgung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001700333)
 
 
 
 ### § 16a
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007202308)
 
 (weggefallen)
 
 
 ### § 16b
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007303308)
 
 (1) Der Landesausschuß hat von Amts wegen zu prüfen, ob in einem
 Planungsbereich eine ärztliche Überversorgung vorliegt. Überversorgung
@@ -521,15 +545,18 @@ vorgesehenen Blättern zu veröffentlichen.
 
 
 ## Abschnitt V - Voraussetzungen für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000500333)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003502308)
 
 (weggefallen)
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003606126)
 
 (1) Der Antrag muß schriftlich gestellt werden. In dem Antrag ist
 anzugeben, für welchen Vertragsarztsitz und unter welcher
@@ -598,10 +625,12 @@ nachzuweisende Sachverhalt glaubhaft zu machen.
 
 
 ## Abschnitt VI - Zulassung und Vertragsarztsitz
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000601308)
 
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003704124)
 
 (1) Über den Antrag befindet der Zulassungsausschuß durch Beschluß.
 Wegen Zulassungsbeschränkungen kann ein Antrag nur dann abgelehnt
@@ -620,6 +649,7 @@ Zulassungsausschuss die Zulassung befristen.
 
 
 ### § 19a
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007801124)
 
 (1) Die Zulassung verpflichtet den Arzt, die vertragsärztliche
 Tätigkeit vollzeitig auszuüben. Der Arzt ist verpflichtet, im Rahmen
@@ -688,6 +718,7 @@ vollständig zu entziehen.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003805360)
 
 (1) Ein Beschäftigungsverhältnis oder eine andere nicht ehrenamtliche
 Tätigkeit steht der Eignung für die Ausübung der vertragsärztlichen
@@ -723,6 +754,7 @@ unanfechtbar geworden ist.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE003901308)
 
 Ungeeignet für die Ausübung der vertragsärztlichen Tätigkeit ist ein
 Arzt, der aus gesundheitlichen oder sonstigen in der Person liegenden
@@ -743,10 +775,12 @@ Anordnung nach Satz 3 haben keine aufschiebende Wirkung.
 
 
 ### (XXXX) §§ 22 u 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004000333)
 
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004107311)
 
 (1) Die Zulassung erfolgt für den Ort der Niederlassung als Arzt
 (Vertragsarztsitz).
@@ -833,15 +867,18 @@ sofern der Vertragsarzt seiner Verpflichtung nach § 19a Absatz 1 Satz
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004202308)
 
 (weggefallen)
 
 
 ## Abschnitt VII - Ruhen, Entziehung und Ende der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000700333)
 
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004306126)
 
 (1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung
 eines Vertragsarztes zu beschließen, wenn
@@ -874,6 +911,7 @@ Vereinigung (Registerstelle) ein besonderes Verzeichnis.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004406126)
 
 Der Zulassungsausschuß hat von Amts wegen über die vollständige
 Entziehung der Zulassung oder die Entziehung der Hälfte oder eines
@@ -888,6 +926,7 @@ Zulassungsausschuß unter Angabe der Gründe beantragen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004504308)
 
 (1) Der Verzicht auf die Zulassung wird mit dem Ende des auf den
 Zugang der Verzichtserklärung des Vertragsarztes beim
@@ -905,14 +944,17 @@ der Krankenkassen dem Zulassungsausschuß mitzuteilen.
 
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004601308)
 
 
 
 ## Abschnitt VIII - Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG000901308)
 
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004814126)
 
 (1) Die Zulassungsausschüsse können über den Kreis der zugelassenen
 Ärzte hinaus weitere Ärzte, insbesondere in Krankenhäusern, Vorsorge-
@@ -1013,6 +1055,7 @@ ermächtigt werden.
 
 
 ### § 31a
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007503308)
 
 (1) Die Zulassungsausschüsse können Ärzte, die
 
@@ -1051,10 +1094,12 @@ entsprechend.
 
 
 ## Abschnitt IX - Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001002308)
 
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE004908126)
 
 (1) Der Vertragsarzt hat die vertragsärztliche Tätigkeit persönlich in
 freier Praxis auszuüben. Bei Krankheit, Urlaub oder Teilnahme an
@@ -1126,6 +1171,7 @@ vertragsärztlichen Pflichten anzuhalten.
 
 
 ### § 32a
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007602119)
 
 Der ermächtigte Arzt hat die in dem Ermächtigungsbeschluß bestimmte
 vertragsärztliche Tätigkeit persönlich auszuüben. Bei Krankheit,
@@ -1136,6 +1182,7 @@ nach § 31 Absatz 1 Satz 1 Nummer 2.
 
 
 ### § 32b
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007705119)
 
 (1) Der Vertragsarzt kann Ärzte nach Maßgabe des § 95 Abs. 9 und 9a
 des Fünften Buches Sozialgesetzbuch anstellen. In den
@@ -1178,6 +1225,7 @@ zulässig.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005104308)
 
 (1) Die gemeinsame Nutzung von Praxisräumen und Praxiseinrichtungen
 sowie die gemeinsame Beschäftigung von Hilfspersonal durch mehrere
@@ -1233,10 +1281,12 @@ hierzu ist einheitlich in den Bundesmantelverträgen zu regeln.
 
 
 ## Abschnitt X - Zulassungs- und Berufungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001100333)
 
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005202308)
 
 (1) Der Zulassungsausschuß besteht aus sechs Mitgliedern, und zwar aus
 je drei Vertretern der Ärzte und der Krankenkassen sowie aus
@@ -1278,6 +1328,7 @@ entsprechend.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005300333)
 
 (1) Der Berufungsausschuß besteht aus einem Vorsitzenden mit der
 Befähigung zum Richteramt und aus je drei Vertretern der Ärzte und der
@@ -1291,14 +1342,17 @@ Berufungsausschuß sein.
 
 
 ## Abschnitt XI - Verfahren vor den Zulassungs- und Berufungsausschüssen
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001200333)
 
 
 
 ### 1. - Zulassungsausschuß für Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001300333)
 
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005402126)
 
 (1) Der Zulassungsausschuß beschließt in Sitzungen. Sitzungen sind im
 Regelfall als Präsenzsitzungen bei persönlicher Anwesenheit aller
@@ -1358,6 +1412,7 @@ an der Sitzung teilnehmen.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005503126)
 
 (1) Über Zulassungen und über die Entziehung von Zulassungen
 beschließt der Zulassungsausschuß nach mündlicher Verhandlung. In
@@ -1404,6 +1459,7 @@ Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005600333)
 
 Über gebührenpflichtige Anträge wird erst nach Entrichtung der nach §
 46 zu zahlenden Gebühr verhandelt. Wird die Gebühr nach Anforderung
@@ -1414,6 +1470,7 @@ Anforderung zu vermerken.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005701301)
 
 (1) Der Zulassungsausschuß erhebt die ihm erforderlich erscheinenden
 Beweise.
@@ -1424,6 +1481,7 @@ entsprechend dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005800333)
 
 Die Sitzung ist nicht öffentlich. Sie beginnt nach dem Aufruf der
 Sache mit der Darstellung des Sachverhalts durch den Vorsitzenden oder
@@ -1435,6 +1493,7 @@ Anträge stellen.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE005902126)
 
 (1) Beratung und Beschlußfassung erfolgen in Abwesenheit der am
 Verfahren Beteiligten. Die Anwesenheit eines von der Kassenärztlichen
@@ -1475,6 +1534,7 @@ erhalten, wenn sie ein berechtigtes Interesse nachweisen.
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006001308)
 
 Über jede Sitzung ist eine Niederschrift anzufertigen. Sie soll die
 Namen der Sitzungsteilnehmer, die Anträge und wesentlichen Erklärungen
@@ -1487,16 +1547,19 @@ haben.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006100333)
 
 Die Akten des Zulassungsausschusses sind fünf Jahre, Niederschriften
 und Urschriften von Beschlüssen zwanzig Jahre aufzubewahren.
 
 
 ### 2. - Berufungsausschuß für Ärzte (Widerspruchsverfahren)
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001400333)
 
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006201308)
 
 Der Widerspruch ist schriftlich oder zur Niederschrift der
 Geschäftsstelle des Berufungsausschusses beim Berufungsausschuß
@@ -1504,6 +1567,7 @@ einzulegen. Er muß den Beschluß bezeichnen, gegen den er sich richtet.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006300333)
 
 (1) Der Widerspruch gilt als zurückgenommen, wenn die Gebühr nach § 46
 nicht innerhalb der gesetzten Frist entrichtet ist. Die Zahlungsfrist
@@ -1518,10 +1582,12 @@ beschließt.
 
 
 ## Abschnitt XII - Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001500333)
 
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006406126)
 
 (1) Für das Verfahren werden nachstehende Gebühren erhoben:
 
@@ -1640,10 +1706,12 @@ nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
 
 
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNG001600333)
 
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006501308)
 
 (1) Diese Zulassungsordnung tritt am Ersten des auf die Verkündung
 folgenden Monats in Kraft.
@@ -1653,10 +1721,12 @@ Psychotherapeuten, die nach dem 31. Dezember 1998 gestellt werden.
 
 
 ### (XXXX) §§ 48 bis 52
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006600333)
 
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006700333)
 
 (1) Nach dem Inkrafttreten dieser Zulassungsordnung sind Arztregister
 nach dem in § 2 vorgeschriebenen Muster anzulegen.
@@ -1665,11 +1735,13 @@ nach dem in § 2 vorgeschriebenen Muster anzulegen.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006802308)
 
 -
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE006900333)
 
 (1) Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
@@ -1679,11 +1751,13 @@ vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007000333)
 
 Der Bundesminister für Arbeit
 
 
 ### Anlage (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte/BJNR005720957.html#BJNR005720957BJNE007101308)
 
 (Fundstelle: BGBl. I 1988, 2574)
 Muster für das Arztregister

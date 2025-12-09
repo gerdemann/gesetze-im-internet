@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Stellung, Aufgaben und Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000100000)
 
 (1) Die oder der Bundesbeauftragte für die Opfer der SED-Diktatur beim
 Deutschen Bundestag (Opferbeauftragte) nimmt ihre oder seine Aufgaben
@@ -92,6 +93,7 @@ unterstützen.
 
 
 ## § 2 Berichtspflichten
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000200000)
 
 (1) Die oder der Opferbeauftragte erstattet dem Deutschen Bundestag
 jährlich einen Gesamtbericht zur aktuellen Situation der Opfer. Sie
@@ -110,6 +112,7 @@ Bundestages teilnehmen.
 
 
 ## § 3 Anrufung der oder des Opferbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000300000)
 
 Jede Person hat das Recht, sich in Angelegenheiten der Opfer der SED-
 Diktatur und der kommunistischen Herrschaft in der Sowjetischen
@@ -119,6 +122,7 @@ Opferbeauftragten zu wenden.
 
 
 ## § 4 Zusammenarbeit mit öffentlichen und nichtöffentlichen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000400000)
 
 (1) Die oder der Opferbeauftragte arbeitet bei der Wahrnehmung der
 Aufgaben nach diesem Gesetz mit Verbänden der Opfer kommunistischer
@@ -141,6 +145,7 @@ nichtöffentlichen Stellen zusammen.
 
 
 ## § 5 Wahl der oder des Opferbeauftragten und Amtszeit
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000500000)
 
 (1) Der Deutsche Bundestag wählt die Opferbeauftragte oder den
 Opferbeauftragten ohne Aussprache in geheimer Wahl mit der Mehrheit
@@ -171,6 +176,7 @@ Artikel 56 des Grundgesetzes vorgesehenen Eid.
 
 
 ## § 6 Rechtsstellung der oder des Opferbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000600000)
 
 (1) Die oder der Opferbeauftragte steht nach Maßgabe dieses Gesetzes
 in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Die
@@ -212,6 +218,7 @@ Bundestages spricht die Entlassung aus.
 
 
 ## § 7 Verschwiegenheitspflicht, Berufsbeschränkung
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000700000)
 
 (1) Die oder der Opferbeauftragte ist, auch nach Beendigung des
 Amtsverhältnisses, verpflichtet, über die ihr oder ihm amtlich
@@ -289,6 +296,7 @@ erlassen.
 
 
 ## § 8 Sitz der oder des Opferbeauftragten, Beschäftigte, Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000800000)
 
 (1) Die oder der Opferbeauftragte hat ihren oder seinen Sitz beim
 Deutschen Bundestag.
@@ -312,6 +320,7 @@ des Deutschen Bundestages in einem eigenen Kapitel auszuweisen.
 
 
 ## § 9 Amtsbezüge, Versorgung
+[Direktlink](https://www.gesetze-im-internet.de/opfbg/BJNR075700021.html#BJNR075700021BJNE000902360)
 
 (1) Die oder der Opferbeauftragte erhält vom Beginn des Kalendermonats
 an, in dem das Amtsverhältnis beginnt, bis zum Schluss des

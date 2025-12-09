@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Geltungsbereich, Genehmigungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003205308)
 
 (1) In dem in Artikel 3 des Einigungsvertrages bezeichneten Gebiet
 bedürfen die in den nachfolgenden Bestimmungen bezeichneten
@@ -77,6 +78,7 @@ Vereinbarungen der Beteiligten bleiben unberührt.
 
 
 ## § 2 Erfordernis der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003305305)
 
 (1) Einer Genehmigung bedürfen
 
@@ -160,6 +162,7 @@ nicht wirksam ist.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003400307)
 
 Grundstücke im Sinne dieses Gesetzes sind auch Teile eines Grundstücks
 sowie Gebäude und Rechte an Gebäuden oder Gebäudeteilen, die auf Grund
@@ -178,6 +181,7 @@ eines Grundstücks stehen gleich:
 
 
 ## § 4 Inhalt der Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003500307)
 
 (1) In der Entscheidung ist das Grundstück zu bezeichnen. Die
 Versagung der Genehmigung sowie die Aussetzung des
@@ -193,6 +197,7 @@ vertreten sind, nur dem Vertreter zuzustellen.
 
 
 ## § 5 Rücknahme und Widerruf der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003601301)
 
 Für die Rücknahme und den Widerruf der Genehmigung gelten die
 Bestimmungen des Verwaltungsverfahrensgesetzes. Der Widerruf kann nur
@@ -209,6 +214,7 @@ Abs. 4 des Verwaltungsverfahrensgesetzes zu versehen.
 
 
 ## § 6 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003700307)
 
 Für Streitigkeiten über die Erteilung der
 Grundstücksverkehrsgenehmigung oder die Aussetzung des Verfahrens nach
@@ -222,6 +228,7 @@ gegen die Bestimmungen über die Zuständigkeit angefochten werden.
 
 
 ## § 7 Verfahren bei Aufhebung der Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003803308)
 
 (1) Die Rücknahme, der Widerruf oder die sonstige Aufhebung einer nach
 § 2 erforderlichen Genehmigung stehen der Wirksamkeit des
@@ -281,6 +288,7 @@ die Bestellung oder Übertragung eines Erbbaurechts entsprechend.
 
 
 ## § 8 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE003901311)
 
 Für die Erteilung der Genehmigung sind die Landkreise und die
 kreisfreien Städte zuständig. Soweit die Bundesanstalt für
@@ -300,6 +308,7 @@ mittelbar in der Hand des Bundes befinden.
 
 
 ## § 9 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE004001311)
 
 (1) Die Erteilung einer Genehmigung nach § 2 ist gebührenpflichtig.
 Gebührenschuldner ist der Antragsteller. Mehrere Gebührenschuldner
@@ -316,6 +325,7 @@ unberührt.
 
 
 ## § 10 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE004103377)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
@@ -335,6 +345,7 @@ eine von ihnen zu bestimmende Stelle übertragen.
 
 
 ## § 11 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/grdstvv/DDNR000730978.html#DDNR000730978BJNE004201301)
 
 (1) Eine Grundstücksverkehrsgenehmigung nach diesem Gesetz ist nicht
 deshalb nach Maßgabe des § 5 oder auf Grund eines Rechtsbehelfs

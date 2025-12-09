@@ -18,9 +18,11 @@ Fundstelle
 Stand: Zuletzt geändert Art. 3 G v. 14.3.2023 I Nr. 73
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000200000)
 
 (1) Dieses Gesetz regelt die Arbeits- und Lebensbedingungen von
 Seeleuten an Bord von Kauffahrteischiffen, die die Bundesflagge
@@ -51,6 +53,7 @@ und 138.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000303360)
 
 Im Sinne dieses Gesetzes und soweit nicht ausdrücklich etwas anders
 bestimmt ist, sind
@@ -120,6 +123,7 @@ bestimmt ist, sind
 
 
 ### § 3 Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000401360)
 
 (1) Seeleute im Sinne dieses Gesetzes sind alle Personen, die an Bord
 des Schiffes tätig sind, unabhängig davon, ob sie vom Reeder oder
@@ -264,6 +268,7 @@ keine Fahrgäste sind, sind unverzüglich im Seetagebuch zu vermerken.
 
 
 ### § 4 Reeder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000500000)
 
 (1) Reeder im Sinne dieses Gesetzes ist
 
@@ -320,6 +325,7 @@ zuständig.
 
 
 ### § 5 Kapitän und Stellvertreter
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000600000)
 
 (1) Kapitän ist das vom Reeder zur Führung des Schiffes bestellte
 Besatzungsmitglied.
@@ -333,6 +339,7 @@ Pflichten und Befugnisse des Kapitäns wahr.
 
 
 ### § 6 Schiffsoffiziere
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000700000)
 
 Schiffsoffiziere sind Besatzungsmitglieder des nautischen oder des
 technischen Dienstes, die eines staatlichen Befähigungszeugnisses
@@ -342,12 +349,14 @@ Schiffselektrotechniker und die Zahlmeisterinnen und Zahlmeister.
 
 
 ### § 7 Jugendliche Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000800000)
 
 Jugendliche Besatzungsmitglieder sind Besatzungsmitglieder, die das
 18\. Lebensjahr nicht vollendet haben.
 
 
 ### § 8 Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE000900000)
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass
 Heuerverträge, Heuerabrechnungen, Seediensttauglichkeitszeugnisse,
@@ -364,6 +373,7 @@ Schiffes ist zulässig.
 
 
 ### § 9 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001000000)
 
 Von den Vorschriften dieses Gesetzes kann zu Ungunsten des
 Besatzungsmitglieds nur abgewichen werden, wenn es gesetzlich bestimmt
@@ -374,12 +384,15 @@ getroffen worden ist.
 
 
 ## Abschnitt 2 - Mindestanforderungen für die Arbeit von Besatzungsmitgliedern auf Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000200000)
 
 
 ### Unterabschnitt 1 - Mindestalter
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000300000)
 
 
 #### § 10 Mindestalter des Besatzungsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001100000)
 
 (1) Der Reeder darf Personen unter 16 Jahren sowie Personen, die der
 Vollzeitschulpflicht unterliegen, als Besatzungsmitglied auf Schiffen
@@ -394,9 +407,11 @@ Rahmen eines Berufsausbildungsverhältnisses beschäftigt werden.
 
 
 ### Unterabschnitt 2 - Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000400000)
 
 
 #### § 11 Erfordernis der Seediensttauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001200000)
 
 Als Besatzungsmitglied darf nur tätig sein, wer für die von ihm zu
 verrichtende Tätigkeit auf See gesundheitlich tauglich
@@ -409,6 +424,7 @@ werden lassen, wenn dieses seediensttauglich ist.
 
 
 #### § 12 Seediensttauglichkeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001301360)
 
 (1) Das Besatzungsmitglied hat vor Aufnahme seiner Tätigkeit seine
 Seediensttauglichkeit durch eine Bescheinigung eines zugelassenen
@@ -473,6 +489,7 @@ den Anforderungen des STCW-Übereinkommens genügt.
 
 
 #### § 13 Ablehnung der Seediensttauglichkeit, Feststellungen durch die Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001400000)
 
 (1) Wird einer untersuchten Person wegen fehlender
 Seediensttauglichkeit das Seediensttauglichkeitszeugnis durch einen
@@ -512,6 +529,7 @@ aufschiebende Wirkung.
 
 
 #### § 14 Anordnungsbefugnisse der Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001501360)
 
 (1) Die Berufsgenossenschaft kann, soweit es erforderlich ist, um
 
@@ -579,6 +597,7 @@ aufschiebende Wirkung.
 
 
 #### § 15 Rechtsbehelfsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001600000)
 
 (1) Den Widerspruchsbescheid nach § 73 der Verwaltungsgerichtsordnung
 erlässt der Widerspruchsausschuss.
@@ -607,6 +626,7 @@ des Widerspruchsführers erfolglos geblieben ist.
 
 
 #### § 16 Zulassung von Ärzten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001700000)
 
 (1) Eine Ärztin oder ein Arzt wird durch die Berufsgenossenschaft zur
 Feststellung der Seediensttauglichkeit zugelassen, wenn sie oder er
@@ -654,6 +674,7 @@ rechnen ist.
 
 
 #### § 17 Überwachung der Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001801360)
 
 (1) Ein zugelassener Arzt unterliegt der Überwachung durch die
 Berufsgenossenschaft. Über die Befugnisse des § 143 hinaus können die
@@ -716,6 +737,7 @@ entsprechend.
 
 
 #### § 18 Übernahme der Untersuchungskosten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE001900000)
 
 (1) Die Berufsgenossenschaft übernimmt die Kosten der in den §§ 12 und
 13 bezeichneten Untersuchungen, wenn
@@ -746,6 +768,7 @@ erstattet der Bund der Berufsgenossenschaft.
 
 
 #### § 19 Seediensttauglichkeitsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002002360)
 
 (1) Die Berufsgenossenschaft führt ein Verzeichnis über alle
 durchgeführten Seediensttauglichkeitsuntersuchungen
@@ -898,6 +921,7 @@ Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen.
 
 
 #### § 20 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002103360)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales
@@ -963,9 +987,11 @@ Seefischerei betroffen ist.
 
 
 ### Unterabschnitt 3 - Besatzungsstärke, Besatzungsliste, Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000500000)
 
 
 #### § 21 Besatzungsstärke der Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002200000)
 
 Der Reeder und der Kapitän haben unbeschadet der Vorschriften des
 Schiffssicherheitsgesetzes für eine nach Anzahl, Qualifikation und
@@ -977,6 +1003,7 @@ geregelt werden.
 
 
 #### § 22 Besatzungsliste
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002300000)
 
 (1) Auf Schiffen in der internationalen Fahrt ist der Kapitän
 verpflichtet, eine Besatzungsliste zu erstellen und mitzuführen, die
@@ -1021,6 +1048,7 @@ unverzüglich nachzukommen.
 
 
 #### § 23 Befähigungszeugnisse und -nachweise, Sicherheitsunterweisung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002400000)
 
 Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den
 seeverkehrsrechtlichen Vorschriften erforderlichen
@@ -1032,9 +1060,11 @@ vorgeschriebenen Inhalten an Bord erhalten.
 
 
 ### Unterabschnitt 4 - Arbeitsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000600000)
 
 
 #### § 24 Verpflichtungen des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002500000)
 
 (1) Ein Reeder darf einen privaten Arbeitsvermittlungsdienst für
 Seeleute (Vermittler) mit Sitz in Deutschland nur dann für die
@@ -1069,6 +1099,7 @@ Seearbeitsübereinkommens erfüllt.
 
 
 #### § 25 Anforderungen an Vermittler
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002600000)
 
 (1) Ein Vermittler darf Personen, die an Bord eines Schiffes tätig
 werden sollen, nur vermitteln, wenn er
@@ -1117,6 +1148,7 @@ unberührt.
 
 
 #### § 26 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002700000)
 
 (1) Die Berufsgenossenschaft stellt einem Vermittler auf schriftlichen
 Antrag eine Bescheinigung über das Erfüllen der Anforderungen nach §
@@ -1144,6 +1176,7 @@ hat.
 
 
 #### § 27 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002802360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
@@ -1153,12 +1186,15 @@ Absatz 1 zu regeln.
 
 
 ## Abschnitt 3 - Beschäftigungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000700000)
 
 
 ### Unterabschnitt 1 - Heuervertrag, Dienstleistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000800000)
 
 
 #### § 28 Heuervertrag
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE002902125)
 
 (1) Der Reeder darf ein Besatzungsmitglied nur mit einem gültigen
 Heuervertrag beschäftigen. Durch den Heuervertrag wird ein
@@ -1314,6 +1350,7 @@ diese Verpflichtung.
 
 
 #### § 29 Information über Beschäftigungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003001305)
 
 (1) Der Reeder hat durch geeignete Maßnahmen sicherzustellen, dass die
 Besatzungsmitglieder auf einfache Weise klare Informationen über ihre
@@ -1346,6 +1383,7 @@ anlaufen.
 
 
 #### § 30 Dienstantritt
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003100000)
 
 (1) Der Reeder hat dem Besatzungsmitglied rechtzeitig den Zeitpunkt
 mitzuteilen, zu dem es sich an Bord einzufinden hat. Dabei ist ihm der
@@ -1357,6 +1395,7 @@ oder dem Kapitän unter Angabe der Gründe mitzuteilen.
 
 
 #### § 31 Anreisekosten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003200000)
 
 Befindet sich das Schiff, auf dem das Besatzungsmitglied seinen Dienst
 anzutreten hat, an einem anderen Ort als dem, an welchem das
@@ -1370,6 +1409,7 @@ Ort des Dienstantritts notwendig werden.
 
 
 #### § 32 Dienstleistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003300000)
 
 Das Besatzungsmitglied hat die Dienste zu verrichten, zu denen es im
 Rahmen des Heuerverhältnisses verpflichtet ist. Es hat dabei den
@@ -1377,6 +1417,7 @@ Anordnungen der zuständigen Vorgesetzten Folge zu leisten.
 
 
 #### § 32a Pflichtfortbildungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015900125)
 
 (1) Ist der Reeder durch Gesetz oder aufgrund eines Gesetzes, durch
 Tarifvertrag oder Betriebsvereinbarung verpflichtet, dem
@@ -1391,6 +1432,7 @@ gelten sie als Arbeitszeit.
 
 
 #### § 33 Dienstbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003401360)
 
 (1) Das Besatzungsmitglied hat gegen den Reeder Anspruch auf eine
 Bescheinigung über den an Bord des Schiffes geleisteten Dienst. Die
@@ -1446,9 +1488,11 @@ unverzüglich nachzukommen.
 
 
 ### Unterabschnitt 2 - Bordanwesenheit, Landgang, Gefahren für das Schiff
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG000900000)
 
 
 #### § 34 Bordanwesenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003500000)
 
 Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur
 Anwesenheit an Bord verpflichtet, soweit ihm nicht der Kapitän oder in
@@ -1459,6 +1503,7 @@ zusteht.
 
 
 #### § 35 Landgang
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003600000)
 
 (1) Das Besatzungsmitglied hat in seiner dienstfreien Zeit außerhalb
 der Hafenarbeitszeit im Hafen oder, wenn das Schiff auf Reede liegt,
@@ -1483,6 +1528,7 @@ auf die Besatzungsmitglieder verteilt wird.
 
 
 #### § 36 Abwendung von Gefahren für das Schiff
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003700000)
 
 (1) Das Besatzungsmitglied hat jede Anordnung des Kapitäns zu
 befolgen, die dazu dienen soll, drohende Gefahr für Menschen, Schiff
@@ -1508,9 +1554,11 @@ Bergung Hilfe zu leisten.
 
 
 ### Unterabschnitt 3 - Heuer
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001000000)
 
 
 #### § 37 Anspruch auf Heuer
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003801360)
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses
 Anspruch auf Zahlung der vereinbarten Heuer.
@@ -1529,6 +1577,7 @@ Fortzahlung der vereinbarten Heuer.
 
 
 #### § 38 Bemessung und Fälligkeit der Heuer
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE003900000)
 
 (1) Die Heuer bemisst sich nach Kalendermonaten. Bei Berechnung der
 Heuer für einzelne Tage wird der Kalendermonat zu 30 Tagen gerechnet.
@@ -1545,6 +1594,7 @@ der Heuer verlangen.
 
 
 #### § 39 Zahlung der Heuer
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004000000)
 
 (1) Die Heuer ist in Euro zu berechnen und auszuzahlen, es sei denn,
 dass im Heuervertrag eine andere gesetzliche Währung vereinbart ist.
@@ -1574,6 +1624,7 @@ Erlangung oder Beibehaltung einer Beschäftigung vorgenommen werden.
 
 
 #### § 40 Abrechnung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004100000)
 
 (1) Der Reeder hat dem Besatzungsmitglied bei Fälligkeit (§ 38) eine
 Abrechnung in Textform (§ 126b des Bürgerlichen Gesetzbuchs) zu
@@ -1594,6 +1645,7 @@ der Beanstandung vom Reeder auf der Abrechnung zu vermerken.
 
 
 #### § 41 Verkauf von Waren und Erbringung von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004200000)
 
 Verkauft der Reeder einem Besatzungsmitglied Waren oder erbringt er
 ihm gegenüber Dienstleistungen, sind die Preise so zu kalkulieren,
@@ -1601,9 +1653,11 @@ dass nach Deckung der Kosten keine Überschüsse entstehen.
 
 
 ### Unterabschnitt 4 - Arbeitszeiten und Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001100000)
 
 
 #### § 42 Grundsätze für die Gestaltung der Arbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004301305)
 
 (1) Vorschriften über die Seearbeitszeit sind anzuwenden ab dem
 Zeitpunkt, an dem das Schiff zum Antritt oder zur Fortsetzung der
@@ -1648,6 +1702,7 @@ Stunden wöchentlich innerhalb von zwölf Monaten nicht überschreiten.
 
 
 #### § 43 Seearbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004400000)
 
 (1) Die Seearbeitszeit der zum Wachdienst bestimmten
 Besatzungsmitglieder darf in der Regel acht Stunden täglich nicht
@@ -1682,6 +1737,7 @@ Betreuung oder Unterhaltung von Fahrgästen.
 
 
 #### § 44 Hafenarbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004500000)
 
 (1) Die Hafenarbeitszeit der Besatzungsmitglieder mit Ausnahme des
 Servicepersonals darf von Montag bis Freitag in der Regel acht Stunden
@@ -1704,6 +1760,7 @@ Uhr liegen. Im Übrigen ist § 43 Absatz 3 entsprechend anzuwenden.
 
 
 #### § 45 Ruhepausen und Ruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004600000)
 
 (1) Den Besatzungsmitgliedern sind Ruhepausen und Ruhezeiten zu
 gewähren, die von ausreichender Dauer sein müssen, um die Sicherheit
@@ -1743,6 +1800,7 @@ Ruhezeit von sechs Stunden muss gewährleistet sein.
 
 
 #### § 46 Abweichende Arbeitszeitregelungen für Zwei-Wachen-Schiffe, Bergungsfahrzeuge und Schlepper
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004700000)
 
 (1) Auf Schiffen mit einer Bruttoraumzahl von bis zu 2 500 in der
 Fahrt in der Ostsee, in der Nordsee und entlang der norwegischen Küste
@@ -1771,6 +1829,7 @@ werden.
 
 
 #### § 47 Arbeitszeitverlängerung in besonderen Ausnahmefällen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004801305)
 
 (1) Der Kapitän hat das Recht, für Besatzungsmitglieder die
 Arbeitsstunden anzuordnen, die für die unmittelbare Sicherheit des
@@ -1804,6 +1863,7 @@ Beschäftigungsbeschränkungen nicht anzuwenden.
 
 
 #### § 48 Höchstarbeitszeiten und Mindestruhezeiten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE004900000)
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass auf dem
 Schiff folgende Arbeitszeiten und Ruhezeiten der Besatzungsmitglieder
@@ -1850,6 +1910,7 @@ Ausgleich kann auch in Verbindung mit Urlaub gewährt werden.
 
 
 #### § 49 Abweichende Arbeitszeitregelungen durch Tarifvertrag
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005000000)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer
 Betriebsvereinbarung oder Bordvereinbarung kann vereinbart werden,
@@ -1925,6 +1986,7 @@ Absatz 4 Satz 2 des Flaggenrechtsgesetzes abgeschlossen werden.
 
 
 #### § 50 Übersicht über die Arbeitsorganisation, Arbeitszeitnachweise
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005100000)
 
 (1) Auf jedem Schiff ist eine Übersicht über die Arbeitsorganisation
 an Bord zu führen, die Folgendes enthalten muss:
@@ -1956,6 +2018,7 @@ Arbeitsorganisation sowie für die Arbeitszeitnachweise zu geben.
 
 
 #### § 51 Vergütung für Mehr- und Nachtarbeit sowie Sonntags- und Feiertagsarbeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005200000)
 
 (1) Werden Besatzungsmitglieder über die in den §§ 43, 44 und 53
 Absatz 2 bestimmten Grenzen der täglichen Arbeitszeit hinaus mit
@@ -1997,6 +2060,7 @@ Zweihundertstels der Grundheuer erhöht.
 
 
 #### § 52 Sonntags- und Feiertagsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005300000)
 
 (1) Jedem Besatzungsmitglied ist für jeden Sonntag und für jeden
 Feiertag, an dem es gearbeitet hat oder an dem sich das Schiff weniger
@@ -2020,6 +2084,7 @@ Satz 1 und des § 61 Absatz 1 und 2 entsprechende Anwendung.
 
 
 #### § 53 Arbeitszeitregelungen für jugendliche Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005400000)
 
 (1) Für jugendliche Besatzungsmitglieder sind die §§ 42, 48, 50 und 51
 sowie die folgenden Absätze anzuwenden. Die §§ 43 und 44 sind mit der
@@ -2111,6 +2176,7 @@ finanzielle Abgeltung freier Tage ist nicht zulässig.
 
 
 #### § 54 Abweichende Arbeitszeitregelungen für jugendliche Besatzungsmitglieder durch Tarifvertrag
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005500000)
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer
 Betriebsvereinbarung oder Bordvereinbarung kann für jugendliche
@@ -2184,6 +2250,7 @@ Absatz 4 Satz 2 des Flaggenrechtsgesetzes abgeschlossen werden.
 
 
 #### § 55 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005602360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
@@ -2215,9 +2282,11 @@ Seefischerei betroffen ist.
 
 
 ### Unterabschnitt 5 - Urlaub
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001200000)
 
 
 #### § 56 Urlaubsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005700000)
 
 (1) Ein Besatzungsmitglied hat für jedes Beschäftigungsjahr Anspruch
 auf bezahlten Erholungsurlaub. Der Anspruch auf Erholungsurlaub darf
@@ -2228,6 +2297,7 @@ Bundesurlaubsgesetz anzuwenden.
 
 
 #### § 57 Urlaubsdauer
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005800000)
 
 (1) Der Urlaub der Besatzungsmitglieder beträgt für jedes
 Beschäftigungsjahr mindestens 30 Kalendertage.
@@ -2264,6 +2334,7 @@ Beschäftigungsjahr mindestens
 
 
 #### § 58 Festlegung des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE005900000)
 
 (1) Bei der zeitlichen Festlegung des Urlaubs sind die Urlaubswünsche
 des Besatzungsmitglieds zu berücksichtigen, es sei denn, dass ihrer
@@ -2295,6 +2366,7 @@ die Reise zu diesem Ort anzutreten.
 
 
 #### § 59 Urlaubsort
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006000000)
 
 Urlaubsort ist nach Wahl des Besatzungsmitglieds
 
@@ -2314,6 +2386,7 @@ Urlaubsort ist nach Wahl des Besatzungsmitglieds
 
 
 #### § 60 Reisekosten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006100000)
 
 Der Reeder trägt die Reisekosten zum Urlaubsort und vom Urlaubsort zum
 Ort der Wiederaufnahme des Dienstes an Bord oder zu einem anderen vom
@@ -2322,6 +2395,7 @@ Reeder bestimmten Ort. Hinsichtlich des Umfangs der Reisekosten gilt §
 
 
 #### § 61 Urlaubsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006200000)
 
 (1) Als Urlaubsentgelt ist dem Besatzungsmitglied die Heuer im Sinne
 des § 37 fortzuzahlen. Für Sachbezüge ist ein angemessener
@@ -2336,6 +2410,7 @@ Urlaubsentgelts angemessen zu berücksichtigen.
 
 
 #### § 62 Erkrankung während des Urlaubs
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006300000)
 
 (1) Wird ein Besatzungsmitglied während des Urlaubs arbeitsunfähig
 krank, so werden diese Krankheitstage auf den Urlaub nicht
@@ -2353,6 +2428,7 @@ Besatzungsmitglieds zu berücksichtigen.
 
 
 #### § 63 Urlaub bei Beendigung des Heuerverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006400000)
 
 (1) Endet das Heuerverhältnis des Besatzungsmitglieds vor Ablauf des
 Beschäftigungsjahres, so hat das Besatzungsmitglied für jeden
@@ -2365,6 +2441,7 @@ gezahlte Urlaubsentgelt nicht zurückgefordert werden.
 
 
 #### § 64 Verlängerung des Heuerverhältnisses, Urlaubsabgeltung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006500000)
 
 (1) Hat das Besatzungsmitglied bei Beendigung des Heuerverhältnisses
 noch nicht den ihm zustehenden Urlaub erhalten, verlängert sich das
@@ -2396,9 +2473,11 @@ vorliegen.
 
 
 ### Unterabschnitt 6 - Kündigung und Beendigung des Heuerverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001300000)
 
 
 #### § 65 Kündigungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006600000)
 
 (1) Das Heuerverhältnis kann durch den Reeder und durch das
 Besatzungsmitglied gekündigt werden.
@@ -2416,6 +2495,7 @@ diesem Unterabschnitt nichts anderes bestimmt ist.
 
 
 #### § 66 Kündigungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006700000)
 
 (1) Das Heuerverhältnis kann während der ersten drei Monate mit einer
 Frist von einer Woche gekündigt werden. Dauert die erste Reise länger
@@ -2465,6 +2545,7 @@ und mit allgemein zugänglichen Verkehrsmitteln möglich ist.
 
 
 #### § 67 Außerordentliche Kündigung durch den Reeder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006800000)
 
 (1) Der Reeder kann das Heuerverhältnis aus wichtigem Grund ohne
 Einhaltung einer Kündigungsfrist nach § 626 des Bürgerlichen
@@ -2508,6 +2589,7 @@ Abgeltungsbetrag für nicht gewährte Verpflegung während des Urlaubs (§
 
 
 #### § 68 Außerordentliche Kündigung durch das Besatzungsmitglied
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE006900000)
 
 (1) Das Besatzungsmitglied kann das Heuerverhältnis aus wichtigem
 Grund ohne Einhaltung einer Kündigungsfrist nach § 626 des
@@ -2569,6 +2651,7 @@ unberührt.
 
 
 #### § 69 Außerordentliche Kündigung durch das Besatzungsmitglied wegen dringender Familienangelegenheit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007000000)
 
 Das Besatzungsmitglied kann das Heuerverhältnis ohne Einhaltung einer
 Frist kündigen, wenn dies wegen einer dringenden Familienangelegenheit
@@ -2590,6 +2673,7 @@ ist. Dringende Familienangelegenheiten sind insbesondere
 
 
 #### § 70 Entschädigung bei Arbeitslosigkeit wegen Schiffsverlustes oder Schiffbruchs
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007100000)
 
 Kündigt der Reeder das Heuerverhältnis wegen Schiffsverlustes oder
 Schiffbruchs, hat das Besatzungsmitglied über das Ende des
@@ -2609,6 +2693,7 @@ Besatzungsmitglied anrechnen lassen, was es
 
 
 #### § 71 Beendigung des Heuerverhältnisses bei vermutetem Verlust von Schiff und Besatzung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007200000)
 
 (1) Ist der Verbleib eines Schiffes und seiner Besatzung nicht
 feststellbar und ist den Umständen nach anzunehmen, dass das Schiff
@@ -2622,6 +2707,7 @@ festgestellt, so sind auf diese Besatzungsmitglieder die §§ 73, 75 und
 
 
 #### § 71a Verlängerung des Heuerverhältnisses während Gefangenschaft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015800360)
 
 Befindet sich das Besatzungsmitglied bei Beendigung des
 Heuerverhältnisses in Gefangenschaft infolge seeräuberischer Handlung
@@ -2631,6 +2717,7 @@ Besatzungsmitglieds.
 
 
 #### § 72 Zurücklassung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007300000)
 
 (1) Unbeschadet der Vorschrift des § 101 darf das Besatzungsmitglied
 ohne Einwilligung der Berufsgenossenschaft nicht an einem Ort im
@@ -2649,9 +2736,11 @@ auch der Einwilligung seines gesetzlichen Vertreters.
 
 
 ### Unterabschnitt 7 - Heimschaffung und Imstichlassen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001401305)
 
 
 #### § 73 Anspruch auf Heimschaffung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007401305)
 
 Das Besatzungsmitglied hat Anspruch auf Heimschaffung an den nach § 75
 maßgebenden Bestimmungsort
@@ -2683,6 +2772,7 @@ maßgebenden Bestimmungsort
 
 
 #### § 74 Heimschaffung eines jugendlichen Besatzungsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007500000)
 
 Hat ein jugendliches Besatzungsmitglied während seiner ersten
 Auslandsreise auf einem Schiff mindestens vier Monate lang Dienst
@@ -2693,6 +2783,7 @@ allgemein zugänglichen Verkehrsmitteln möglich ist.
 
 
 #### § 75 Bestimmungsort der Heimschaffung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007601305)
 
 (1) Bestimmungsort der Heimschaffung nach Wahl des Besatzungsmitglieds
 ist
@@ -2717,6 +2808,7 @@ ausschließlich der Wohnort des Besatzungsmitglieds.
 
 
 #### § 76 Durchführung und Kosten der Heimschaffung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007702360)
 
 (1) Der Reeder hat die Vorkehrungen für die Durchführung der
 Heimschaffung zu treffen. Er stellt sicher, dass das
@@ -2782,6 +2874,7 @@ oder eine sonstige finanzielle Sicherheit abgedeckt ist.
 
 
 #### § 76a Pflicht zur finanziellen Absicherung für Fälle des Imstichlassens
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015600305)
 
 (1) Der Reeder eines Schiffes, das kein Fischereifahrzeug ist, hat
 nach Maßgabe der Absätze 2 und 3 für Fälle des Imstichlassens eines
@@ -2901,6 +2994,7 @@ Buches Sozialgesetzbuch auf die Bundesagentur für Arbeit übergehen.
 
 
 #### § 77 Behördliche Durchführungsmaßnahmen bei der Heimschaffung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007801305)
 
 Erfüllt der Reeder seine Verpflichtung nach § 76 nicht und befriedigt
 im Falle eines Imstichlassens im Sinne des § 76a Absatz 1 auch der
@@ -2913,6 +3007,7 @@ insoweit auf sie über.
 
 
 #### § 78 Verfügbarkeit von Rechtsvorschriften über Heimschaffung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE007900000)
 
 Der Reeder hat sicherzustellen, dass dem Besatzungsmitglied an Bord
 eine Kopie der anwendbaren Rechtsvorschriften über die Heimschaffung
@@ -2921,9 +3016,11 @@ steht.
 
 
 ### Unterabschnitt 8 - Verfahren bei Tod von Besatzungsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001500000)
 
 
 #### § 79 Tod des Besatzungsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008000000)
 
 (1) Der Kapitän hat für die Bestattung zu sorgen, wenn ein
 Besatzungsmitglied an Bord oder während der Schiffsreise im Ausland
@@ -2941,6 +3038,7 @@ Folgen verstorben ist.
 
 
 #### § 80 Sorge für Sachen und Heuerguthaben eines verstorbenen oder vermissten Besatzungsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008100000)
 
 (1) Der Kapitän hat die Sachen eines verstorbenen oder vermissten
 Besatzungsmitglieds dem Vertreter des Reeders vor Ort zu übergeben.
@@ -2954,9 +3052,11 @@ vermissten Besatzungsmitglied an dessen Angehörige.
 
 
 ## Abschnitt 4 - Berufsausbildung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001600000)
 
 
 ### § 81 Vertrag über die Berufsausbildung für einen Beruf an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008200000)
 
 Der Reeder darf die Berufsausbildung eines Besatzungsmitglieds für
 einen Beruf an Bord nur durchführen, wenn es einen
@@ -2969,6 +3069,7 @@ sind entsprechend anzuwenden.
 
 
 ### § 82 Form und Inhalt des Vertrages über die Berufsausbildung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008301125)
 
 (1) Der Vertrag über die Berufsausbildung für einen Beruf an Bord
 bedarf der Schriftform; die elektronische Form ist ausgeschlossen. Der
@@ -3135,6 +3236,7 @@ Angaben enthält, entfällt diese Verpflichtung.
 
 
 ### § 83 Vertrag über die Berufsausbildung auf Fahrzeugen der kleinen Hochseefischerei oder der Küstenfischerei
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008400000)
 
 Erfolgt die Berufsausbildung auf einem Fahrzeug der kleinen
 Hochseefischerei oder Küstenfischerei, gelten anstelle der §§ 10 und
@@ -3146,6 +3248,7 @@ Vertrages und aus dem Berufsbildungsgesetz nichts anderes ergibt.
 
 
 ### § 84 Vergütungsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008500000)
 
 Reeder haben Auszubildenden eine angemessene Vergütung zu zahlen, die
 so zu bemessen ist, dass sie mit fortschreitender Berufsausbildung,
@@ -3153,6 +3256,7 @@ mindestens jährlich bezogen auf das Ausbildungsjahr, ansteigt.
 
 
 ### § 85 Bemessung und Fälligkeit der Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008600000)
 
 (1) Die Vergütung bemisst sich nach Kalendermonaten. Bei Berechnung
 der Vergütung für einzelne Tage wird der Kalendermonat zu 30 Tagen
@@ -3165,6 +3269,7 @@ ist entsprechend anzuwenden.
 
 
 ### § 86 Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008700000)
 
 Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss
 mindestens einen Monat und darf höchstens fünf Monate betragen. Mit
@@ -3173,6 +3278,7 @@ den in § 3 Absatz 2 Satz 3 genannten Personen kann abweichend von Satz
 
 
 ### § 87 Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008800000)
 
 (1) Das Berufsausbildungsverhältnis endet mit dem Ablauf der
 Ausbildungszeit. Bestehen Auszubildende vor Ablauf der Ausbildungszeit
@@ -3186,6 +3292,7 @@ längstens um ein Jahr.
 
 
 ### § 88 Kündigung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE008900000)
 
 (1) Während der Probezeit kann das Berufsausbildungsverhältnis mit
 einer Kündigungsfrist von einer Woche gekündigt werden. Wird die
@@ -3229,6 +3336,7 @@ zwei Wochen bekannt sind.
 
 
 ### § 89 Schadensersatz bei vorzeitiger Beendigung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009000000)
 
 (1) Wird das Berufsausbildungsverhältnis nach der Probezeit vorzeitig
 gelöst, so können Reeder oder Auszubildende Ersatz des Schadens
@@ -3245,6 +3353,7 @@ Berufsausbildungsverhältnisses geltend gemacht wird.
 
 
 ### § 90 Berufsausbildung auf Schiffen des Bundes und der Länder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009100000)
 
 Die §§ 81 bis 89 sowie die auf Grund des § 92 erlassenen
 Rechtsverordnungen sind entsprechend anzuwenden, wenn die
@@ -3254,6 +3363,7 @@ eingesetzt sind.
 
 
 ### § 91 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009200000)
 
 Für die Berufsbildung in Berufen nach § 92 ist die
 Berufsbildungsstelle Seeschifffahrt e. V., Bremen, die zuständige
@@ -3261,6 +3371,7 @@ Stelle.
 
 
 ### § 92 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009302360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Bildung
@@ -3303,12 +3414,15 @@ anzuerkennen und Bestimmungen zu erlassen über
 
 
 ## Abschnitt 5 - Unterkünfte und Freizeiteinrichtungen, Verpflegung einschließlich Bedienung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001700000)
 
 
 ### Unterabschnitt 1 - Unterkünfte und Freizeiteinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001800000)
 
 
 #### § 93 Anspruch auf Unterkunft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009400000)
 
 (1) Jedes Besatzungsmitglied hat für die Dauer des Heuerverhältnisses
 Anspruch auf sichere, gesunde und menschenwürdige Unterkunft und
@@ -3338,6 +3452,7 @@ Unterkunft oder Zahlung des dafür erforderlichen Geldbetrages.
 
 
 #### § 94 Zugang zu Kommunikationseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009500000)
 
 Der Kapitän hat den Besatzungsmitgliedern auf ihr Verlangen
 angemessenen und preisgünstigen Zugang zu Schiff-Land-
@@ -3358,6 +3473,7 @@ Reeder hat sicherzustellen, dass
 
 
 #### § 95 Besuche, mitreisende Partner
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009600000)
 
 Sofern betriebliche Belange sowie innerstaatliche oder internationale
 Rechtsvorschriften zur Gefahrenabwehr nicht entgegenstehen, hat der
@@ -3377,6 +3493,7 @@ beim Abschluss einer solchen Versicherung zu unterstützen.
 
 
 #### § 96 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009702360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
@@ -3409,9 +3526,11 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens
 
 
 ### Unterabschnitt 2 - Verpflegung einschließlich Bedienung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG001900000)
 
 
 #### § 97 Anspruch auf Verpflegung, Unterweisung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009800000)
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses
 Anspruch auf kostenfreie, angemessene und ausreichende Speisen und
@@ -3447,6 +3566,7 @@ anzuwenden.
 
 
 #### § 98 Überprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE009900000)
 
 Der Kapitän oder eine von ihm bestimmte Person hat dafür zu sorgen,
 dass Überprüfungen
@@ -3469,12 +3589,15 @@ werden.
 
 
 ## Abschnitt 6 - Sicherheit und Gesundheitsschutz bei der Arbeit, medizinische und soziale Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002000000)
 
 
 ### Unterabschnitt 1 - Anspruch auf medizinische Betreuung an Bord und an Land
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002100000)
 
 
 #### § 99 Anspruch auf medizinische Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010000000)
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses im
 Falle einer Erkrankung oder Verletzung auf Kosten des Reeders Anspruch
@@ -3531,6 +3654,7 @@ einen qualifizierten Arzt oder Zahnarzt aufzusuchen.
 
 
 #### § 100 Besonderheiten bei der medizinischen Betreuung im Inland
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010100000)
 
 (1) Liegt das Schiff in einem inländischen Hafen, so hat ein in der
 gesetzlichen Krankenversicherung oder der privaten substitutiven
@@ -3557,6 +3681,7 @@ Besatzungsmitglied an die Krankenversicherung verweisen, wenn
 
 
 #### § 101 Besonderheiten bei der medizinischen Betreuung im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010200000)
 
 (1) Hat ein Besatzungsmitglied das Schiff im Ausland wegen Krankheit
 oder Verletzung verlassen müssen, so kann das Besatzungsmitglied vom
@@ -3570,6 +3695,7 @@ ist.
 
 
 #### § 102 Ruhen des Anspruchs auf medizinische Betreuung auf Kosten des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010300000)
 
 Weigert sich ein Besatzungsmitglied ohne berechtigten Grund, die
 angebotene Heilbehandlung oder Krankenhausbehandlung anzunehmen, so
@@ -3578,6 +3704,7 @@ für die Dauer der unberechtigten Weigerung.
 
 
 #### § 103 Ende der medizinischen Betreuung auf Kosten des Reeders
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010400000)
 
 (1) Die medizinische Betreuung auf Kosten des Reeders endet, sobald
 ein Besatzungsmitglied, das in der gesetzlichen Krankenversicherung
@@ -3600,9 +3727,11 @@ ihren Leistungen beginnt.
 
 
 ### Unterabschnitt 2 - Heuerfortzahlung und sonstige Ansprüche im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002200000)
 
 
 #### § 104 Fortzahlung der Heuer im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010500000)
 
 (1) Ein infolge Krankheit oder Verletzung arbeitsunfähiges
 Besatzungsmitglied hat Anspruch auf Fortzahlung der Heuer vom Beginn
@@ -3628,6 +3757,7 @@ hat.
 
 
 #### § 105 Heimschaffung im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010600000)
 
 (1) Ein Besatzungsmitglied, das wegen Krankheit oder Verletzung im
 Ausland zurückgelassen ist, kann mit seiner Einwilligung und der des
@@ -3648,6 +3778,7 @@ notwendiger persönlicher Bedürfnisse.
 
 
 #### § 106 Sorge für Sachen und Heuerguthaben eines erkrankten oder verletzten Besatzungsmitglieds
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010700000)
 
 (1) Muss ein Besatzungsmitglied wegen Krankheit oder Verletzung an
 Land zurückgelassen werden, so hat der Kapitän, soweit das
@@ -3667,6 +3798,7 @@ zurückgelassene Besatzungsmitglied.
 
 
 #### § 106a Pflicht zur Entschädigung bei Arbeitsunfällen und Berufskrankheiten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015701360)
 
 (1) Der Reeder eines Schiffes, hat nach Maßgabe des Absatzes 2 eine
 Versicherung oder eine sonstige finanzielle Sicherheit
@@ -3751,9 +3883,11 @@ die sonstige finanzielle Sicherheit bevor, informiert
 
 
 ### Unterabschnitt 3 - Gewährleistung der medizinischen Betreuung durch den Reeder
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002300000)
 
 
 #### § 107 Medizinische Räumlichkeiten und medizinische Ausstattung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010801360)
 
 (1) Der Reeder hat dafür zu sorgen, dass das Schiff mit den für eine
 ausreichende medizinische Betreuung der Personen an Bord
@@ -3808,6 +3942,7 @@ Anforderungen des Satzes 3.
 
 
 #### § 108 Ausschuss für medizinische Ausstattung in der Seeschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE010902360)
 
 (1) Das Bundesministerium für Digitales und Verkehr errichtet einen
 Ausschuss für medizinische Ausstattung in der Seeschifffahrt
@@ -3954,6 +4089,7 @@ Berufsgenossenschaft; sie nimmt an den Sitzungen teil.
 
 
 #### § 109 Durchführung der medizinischen Betreuung und Kontrollen an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011002126)
 
 (1) Für die Durchführung der medizinischen Behandlung und Versorgung
 an Bord und die Führung, Verwaltung und vertrauliche Behandlung der
@@ -4032,6 +4168,7 @@ zum Zwecke statistischer oder wissenschaftlicher Auswertungen
 
 
 #### § 110 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011100000)
 
 Über die Befugnisse des § 143 hinaus können die Berufsgenossenschaft
 und bei ihr beschäftigte Personen insbesondere anordnen, dass
@@ -4050,6 +4187,7 @@ und bei ihr beschäftigte Personen insbesondere anordnen, dass
 
 
 #### § 111 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011202360)
 
 (1) Die Berufsgenossenschaft kann auf Antrag im Einzelfall Ausnahmen
 von den Anforderungen nach diesem Unterabschnitt und den auf Grund der
@@ -4073,6 +4211,7 @@ Internetseite der Berufsgenossenschaft veröffentlicht werden.
 
 
 #### § 112 Funk- und satellitenfunkärztliche Betreuung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011300000)
 
 Der vom Bund nach § 1 Nummer 7a des Seeaufgabengesetzes eingerichtete
 funk- oder satellitenfunkärztliche Dienst mit fachärztlicher Beratung
@@ -4082,6 +4221,7 @@ einschließlich fachärztlicher Beratung, zur Verfügung.
 
 
 #### § 113 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011402360)
 
 Das Bundesministerium für Digitales und Verkehr wird ermächtigt, zur
 Sicherstellung einer ausreichenden medizinischen Behandlung und
@@ -4139,9 +4279,11 @@ Satz 1 bedürfen des Einvernehmens
 
 
 ### Unterabschnitt 4 - Sicherheit und Gesundheitsschutz bei der Arbeit
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002400000)
 
 
 #### § 114 Allgemeiner Schutz gegen Betriebsgefahren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011500000)
 
 (1) Der Reeder ist verpflichtet, den gesamten Schiffsbetrieb und alle
 Arbeitsmittel, Geräte und Anlagen an Bord so einzurichten und zu
@@ -4163,6 +4305,7 @@ befolgen.
 
 
 #### § 115 Schiffssicherheitsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011600000)
 
 (1) Der Reeder hat auf Schiffen mit fünf oder mehr
 Besatzungsmitgliedern einen Schiffssicherheitsausschuss zu bilden.
@@ -4189,6 +4332,7 @@ zusammen.
 
 
 #### § 116 Sicherheitsbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011700000)
 
 (1) Der Reeder hat auf Schiffen mit fünf oder mehr
 Besatzungsmitgliedern einen Sicherheitsbeauftragten zu bestellen. Die
@@ -4207,6 +4351,7 @@ Gesundheitsgefahren für die Besatzungsmitglieder aufmerksam zu machen.
 
 
 #### § 117 Besonderer Schutz von jugendlichen Besatzungsmitgliedern
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011800000)
 
 (1) Die Beschäftigung oder Arbeit von jugendlichen
 Besatzungsmitgliedern mit Arbeiten, die ihre Gesundheit oder
@@ -4362,6 +4507,7 @@ Besatzungsmitglieder verbunden sind.
 
 
 #### § 118 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE011902360)
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Digitales und Verkehr durch
@@ -4375,9 +4521,11 @@ Seefischerei betroffen ist.
 
 
 ### Unterabschnitt 5 - Zugang zu Sozialeinrichtungen an Land
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002500000)
 
 
 #### § 119 Sozialeinrichtungen für Seeleute an Land; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012006360)
 
 (1) Sozialeinrichtungen für Seeleute in den Häfen haben
 sicherzustellen, dass sie für alle Seeleute ungeachtet der Flagge des
@@ -4438,12 +4586,15 @@ Antragsverfahren und die Leistungsgewährung.
 
 
 ## Abschnitt 7 - Ordnung an Bord und Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002600000)
 
 
 ### Unterabschnitt 1 - Einhaltung der Ordnung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002700000)
 
 
 #### § 120 Verhalten an Bord
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012100000)
 
 Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger
 Achtung und Rücksichtnahme zusammenzuarbeiten, um den Schiffsbetrieb
@@ -4452,6 +4603,7 @@ Zusammenhang mit dem Betrieb des Schiffes zu gewährleisten.
 
 
 #### § 121 Verantwortung des Kapitäns für die Erhaltung von Sicherheit und Ordnung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012200000)
 
 (1) Der Kapitän ist der Vorgesetzte aller Besatzungsmitglieder. Ihm
 steht die oberste Anordnungsbefugnis gegenüber den
@@ -4498,6 +4650,7 @@ Sachverhalts unverzüglich in das Seetagebuch einzutragen.
 
 
 #### § 122 Anordnungsbefugnis der Schiffsoffiziere und der anderen Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012300000)
 
 (1) Die Schiffsoffiziere und die anderen Vorgesetzten haben die
 Anordnungsbefugnis zur Erhaltung der öffentlichen Sicherheit und
@@ -4522,6 +4675,7 @@ Rahmen des Wachdienstes ergehen, in ihrem Dienstbereich durchzuführen.
 
 
 #### § 123 Pflichten der Vorgesetzten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012400000)
 
 (1) Der Kapitän und die anderen Vorgesetzten haben die ihnen
 unterstellten Personen gerecht und verständnisvoll zu behandeln und
@@ -4540,6 +4694,7 @@ der Jugendlichen im Rahmen des Schiffsbetriebs gefördert wird.
 
 
 #### § 124 Pflichten der Besatzungsmitglieder und der sonstigen an Bord befindlichen Personen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012500000)
 
 (1) Jedes Besatzungsmitglied ist verpflichtet, vollziehbare
 Anordnungen der Vorgesetzten unverzüglich zu befolgen. Insbesondere
@@ -4565,6 +4720,7 @@ Absatz 2 gilt entsprechend.
 
 
 #### § 125 Anbordbringen von Personen und Gegenständen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012600000)
 
 (1) Die Besatzungsmitglieder dürfen Personen, die nicht zur
 Schiffsbesatzung gehören, nicht ohne Erlaubnis des Kapitäns an Bord
@@ -4590,6 +4746,7 @@ Grund der Vernichtung in das Seetagebuch einzutragen.
 
 
 #### § 126 Besatzungsmitgliedern gleichgestellte Personen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012700000)
 
 Kanalsteurer auf dem Nord-Ostsee-Kanal und Sicherheitskräfte privater
 nach der Gewerbeordnung zugelassener Bewachungsunternehmen stehen
@@ -4597,9 +4754,11 @@ hinsichtlich dieses Unterabschnitts den Besatzungsmitgliedern gleich.
 
 
 ### Unterabschnitt 2 - Beschwerderecht, Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002800000)
 
 
 #### § 127 Beschwerderecht
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012800000)
 
 (1) Das Besatzungsmitglied hat das Recht, sich über einen Verstoß
 gegen dieses Gesetz und die auf Grund dieses Gesetzes erlassenen
@@ -4638,6 +4797,7 @@ zugänglichen Aushang an Bord verweist.
 
 
 #### § 128 Beschwerdeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE012901305)
 
 (1) Das Besatzungsmitglied soll seine Beschwerde zunächst an den
 unmittelbaren Vorgesetzten an Bord richten.
@@ -4702,12 +4862,15 @@ hat der Reeder zu tragen.
 
 
 ## Abschnitt 8 - Zeugnisse und Verantwortlichkeit des Flaggenstaates
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG002900000)
 
 
 ### Unterabschnitt 1 - Überprüfung der Arbeits- und Lebensbedingungen auf Schiffen und an Land
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003000000)
 
 
 #### § 129 Umfang der Flaggenstaatkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013001305)
 
 (1) Die Berufsgenossenschaft ist im Rahmen dieses Gesetzes für die
 Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen an Bord
@@ -4778,9 +4941,11 @@ Konformitätserklärung und das Fischereiarbeitszeugnis.
 
 
 ### Unterabschnitt 2 - Seearbeitszeugnis und Seearbeits-Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003100000)
 
 
 #### § 130 Pflicht zum Mitführen eines Seearbeitszeugnisses, Erteilungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013100000)
 
 (1) Der Reeder darf ein Schiff mit einer Bruttoraumzahl von 500 oder
 größer, das
@@ -4879,6 +5044,7 @@ erneuerte Seearbeitszeugnisse.
 
 
 #### § 131 Vorläufiges Seearbeitszeugnis, kurzzeitige Verlängerung der Gültigkeit des Seearbeitszeugnisses, amtlich anerkanntes Seearbeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013201124)
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders einmalig ein
 Seearbeitszeugnis vorläufig erteilen (vorläufiges Seearbeitszeugnis),
@@ -4950,6 +5116,7 @@ entsprechend.
 
 
 #### § 132 Seearbeits-Konformitätserklärung
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013300000)
 
 (1) Der Reeder hat dafür zu sorgen, dass an Bord seines Schiffes im
 Sinne des § 130 Absatz 1 eine Seearbeits-Konformitätserklärung
@@ -5008,9 +5175,11 @@ Konformitätserklärung, wenn
 
 
 ### Unterabschnitt 3 - Fischereiarbeitszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003200000)
 
 
 #### § 133 Pflicht zum Mitführen eines Fischereiarbeitszeugnisses, Erteilungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013401305)
 
 (1) Der Reeder darf ein Fischereifahrzeug, das länger als drei Tage
 auf See bleibt und
@@ -5038,9 +5207,11 @@ Absatz 6 Satz 2 gilt entsprechend.
 
 
 ### Unterabschnitt 4 - Nicht zeugnispflichtige Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003300000)
 
 
 #### § 134 Nicht zeugnispflichtige Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013500000)
 
 Der Reeder darf ein Schiff, das nicht unter § 130 Absatz 1 Satz 1
 fällt und kein Fischereifahrzeug ist, nur in Dienst stellen oder in
@@ -5052,9 +5223,11 @@ dieser an Bord mitgeführt wird.
 
 
 ### Unterabschnitt 5 - Anerkannte Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003400000)
 
 
 #### § 135 Ermächtigung anerkannter Organisationen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013600000)
 
 (1) Die Berufsgenossenschaft kann nach der Verordnung (EG) Nr.
 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009
@@ -5137,9 +5310,11 @@ nachrichtlich auf ihrer Internetseite bekannt.
 
 
 ### Unterabschnitt 6 - Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003500000)
 
 
 #### § 136 Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013703360)
 
 (1) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
 im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales
@@ -5187,12 +5362,15 @@ Verfahren zu erlassen.
 
 
 ## Abschnitt 9 - Anforderungen an Schiffe unter ausländischer Flagge und Verantwortlichkeit des Hafenstaates
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003600000)
 
 
 ### Unterabschnitt 1 - Anforderungen an Schiffe unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003700000)
 
 
 #### § 137 Anforderungen an Reeder eines Schiffes unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013801305)
 
 (1) Reeder und Kapitän eines Schiffes unter ausländischer Flagge haben
 jeweils sicherzustellen, dass die Arbeits- und Lebensbedingungen der
@@ -5208,9 +5386,11 @@ Annahme besteht, dass das Schiff den Anforderungen nicht genügt.
 
 
 ### Unterabschnitt 2 - Hafenstaatkontrolle
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003800000)
 
 
 #### § 138 Überprüfung von Schiffen unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE013901305)
 
 (1) Die Überprüfung der Einhaltung der in § 137 Absatz 1 bezeichneten
 Anforderungen auf Schiffen unter ausländischer Flagge
@@ -5285,9 +5465,11 @@ unverzüglich zu unterrichten.
 
 
 ### Unterabschnitt 3 - Besatzungsmitglieder auf Schiffen unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG003900000)
 
 
 #### § 139 Beschwerden auf Schiffen unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014000000)
 
 (1) Das Besatzungsmitglied auf einem Schiff unter ausländischer
 Flagge, das einen inländischen Hafen anläuft oder den Nord-Ostsee-
@@ -5328,6 +5510,7 @@ abgegebene Antwort ist dem Bericht beizufügen.
 
 
 #### § 140 Heimschaffung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014100000)
 
 Verzögert sich die Heimschaffung eines Besatzungsmitglieds auf einem
 Schiff unter ausländischer Flagge, das im Inland zurückgelassen worden
@@ -5344,6 +5527,7 @@ Kosten durch den Reeder erstattet worden sind.
 
 
 #### § 141 Medizinische Betreuung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014200000)
 
 Bedarf ein erkranktes oder verletztes Besatzungsmitglied auf einem
 Schiff unter ausländischer Flagge, das einen inländischen Hafen
@@ -5355,9 +5539,11 @@ sorgen.
 
 
 ## Abschnitt 10 - Durchsetzung der Arbeits- und Lebensbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004000000)
 
 
 ### § 142 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014300000)
 
 (1) Neben den Zuständigkeiten nach den §§ 129 und 138 obliegt der
 Berufsgenossenschaft die Überwachung der Sozialeinrichtungen.
@@ -5368,6 +5554,7 @@ Befähigungszeugnissen und -nachweisen bleiben unberührt.
 
 
 ### § 143 Eingriffsbefugnisse der Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014402126)
 
 (1) Zum Zweck der Überwachung der Einhaltung der Arbeits- und
 Lebensbedingungen im Rahmen der Flaggenstaatkontrolle und der
@@ -5537,6 +5724,7 @@ für die Ermittlungen der anderen Behörde erforderlich sind.
 
 
 ### § 144 Fachaufsicht über die Berufsgenossenschaft
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014503360)
 
 (1) Bei der Durchführung der Aufgaben nach den Abschnitten 1, 2
 Unterabschnitt 1 und 4, den Abschnitten 3, 5 Unterabschnitt 1,
@@ -5553,9 +5741,11 @@ Bundesministeriums für Digitales und Verkehr.
 
 
 ## Abschnitt 11 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004100000)
 
 
 ### § 145 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014602305)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -5672,6 +5862,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Berufsgenossenschaft.
 
 
 ### § 146 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014700000)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 145 Absatz 1 Nummer 16 Buchstabe b bezeichnete
@@ -5713,6 +5904,7 @@ bestraft, wer
 
 
 ### § 147 Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014800000)
 
 (1) Die Frist für den Einspruch gegen den Bußgeldbescheid gilt als
 gewahrt, wenn das betroffene Besatzungsmitglied den Einspruch
@@ -5729,12 +5921,15 @@ Bußgeldbescheid erlassen hat, zu übersenden.
 
 
 ## Abschnitt 12 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004200000)
 
 
 ### Unterabschnitt 1 - Anwendung auf Selbständige
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004300000)
 
 
 #### § 148 Selbständige
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE014901125)
 
 (1) Für Selbständige gilt in Abschnitt 3 über die
 Beschäftigungsbedingungen § 28 Absatz 1 Satz 1 mit der Maßgabe, dass
@@ -5806,9 +6001,11 @@ mit dem Selbständigen erstatten zu lassen.
 
 
 ### Unterabschnitt 2 - Gebühren, Zurverfügungstellen und Verkünden von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004400000)
 
 
 #### § 149 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015002360)
 
 (1) Für Amtshandlungen, einschließlich Abnahmen, Prüfungen,
 Überprüfungen, Untersuchungen, Begutachtungen und Auditierungen
@@ -5836,6 +6033,7 @@ nicht erhoben.
 
 
 #### § 150 Zurverfügungstellen von Gesetzen und Rechtsverordnungen, Einstellen von Kopien und Unterlagen in ein elektronisches Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015102305)
 
 (1) Die nach den Vorschriften der §§ 20, 55, 92, 96, 113 und 136
 dieses Gesetzes erlassenen Rechtsverordnungen und das Gesetz über
@@ -5853,13 +6051,16 @@ Sinne des Absatzes 1 einstellt.
 
 
 #### § 151 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015201125)
 
 
 
 ### Unterabschnitt 3 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNG004500000)
 
 
 #### § 152 Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015300000)
 
 Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10.
 Juni 1947 über ein einheitliches System der Schiffsvermessung (BGBl.
@@ -5870,6 +6071,7 @@ Bruttoraumzahl.
 
 
 #### § 153 Übergangsregelung für zugelassene Ärzte
+[Direktlink](https://www.gesetze-im-internet.de/seearbg/BJNR086810013.html#BJNR086810013BJNE015400000)
 
 Ärztinnen oder Ärzte, die am 1. August 2013 von der
 Berufsgenossenschaft mit der Durchführung der Untersuchung der

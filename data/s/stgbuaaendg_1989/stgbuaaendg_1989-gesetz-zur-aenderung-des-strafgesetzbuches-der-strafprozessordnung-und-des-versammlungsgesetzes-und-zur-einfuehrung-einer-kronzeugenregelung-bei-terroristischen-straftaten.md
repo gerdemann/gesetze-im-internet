@@ -21,20 +21,24 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000100333)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 bis 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNG000100333)
 
 
 
 ## Art 4 - Kronzeugenregelung bei terroristischen Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNG000200333)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000200333)
 
 Offenbart der Täter oder Teilnehmer einer Straftat nach § 129a des
 Strafgesetzbuches oder einer mit dieser Tat zusammenhängenden Straftat
@@ -62,6 +66,7 @@ zu der eigenen Tat rechtfertigt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000300333)
 
 In den Fällen des § 1 kann das Gericht im Urteil von Strafe absehen
 oder die Strafe nach seinem Ermessen mildern; dabei kann es bis zum
@@ -73,6 +78,7 @@ Staatsanwaltschaft vom Generalbundesanwalt zu erteilen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000400333)
 
 Die §§ 1 und 2 sind auf Straftaten nach § 220a des Strafgesetzbuches
 nicht anzuwenden. Bei Straftaten nach den §§ 211, 212 des
@@ -86,18 +92,21 @@ oder der Beihilfe keine Anwendung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000500333)
 
 Ein Dritter im Sinne des § 1 ist nicht verpflichtet anzuzeigen, was
 ihm in seiner Eigenschaft als Vermittler anvertraut worden ist.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNE000602307)
 
 Die §§ 1 bis 3 sind nur anzuwenden, wenn das Wissen über die Tatsachen
 bis zum 31. Dezember 1999 offenbart worden ist.
 
 
 ## Art 5 - Kronzeugenregelung bei organisiert begangenen Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNG000501311)
 
 Artikel 4 §§ 1 bis 5 gilt sinngemäß für die Offenbarung durch einen
 Täter oder Teilnehmer einer Straftat nach § 129 des Strafgesetzbuches
@@ -111,6 +120,7 @@ zuständig wäre.
 
 
 ## Art 6 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stgbua_ndg_1989/BJNR010599989.html#BJNR010599989BJNG000400333)
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

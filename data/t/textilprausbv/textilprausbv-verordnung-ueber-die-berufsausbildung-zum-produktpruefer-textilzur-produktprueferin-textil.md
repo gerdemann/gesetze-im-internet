@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -28,17 +29,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000200000)
 
 Der Ausbildungsberuf Produktprüfer-Textil/Produktprüferin-Textil wird
 nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000300000)
 
 Die Ausbildung dauert zwei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -96,6 +100,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -117,6 +122,7 @@ durchzusehen.
 
 
 ## § 5 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000600000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
@@ -189,6 +195,7 @@ Vorgaben:
 
 
 ## § 6 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000700000)
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
@@ -434,6 +441,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 7 Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000800000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zum Produktprüfer-
 Textil/zur Produktprüferin-Textil nach dieser Verordnung kann im
@@ -446,6 +454,7 @@ Mai 2005 (BGBl. I S. 1277), zuletzt geändert durch die Verordnung vom
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE000900000)
 
 Berufsausbildungsverhältnisse zum Textilstopfer, die bei Inkrafttreten
 dieser Verordnung bestehen, können unter Anrechnung der bisher
@@ -454,12 +463,14 @@ fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (zu § 3)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktprüfer-Texil/zur Produktprüferin-Textil
+[Direktlink](https://www.gesetze-im-internet.de/textilprausbv/BJNR068000007.html#BJNR068000007BJNE001100000)
 
 (Fundstelle: BGBl. I 2007, 683 - 685)
 

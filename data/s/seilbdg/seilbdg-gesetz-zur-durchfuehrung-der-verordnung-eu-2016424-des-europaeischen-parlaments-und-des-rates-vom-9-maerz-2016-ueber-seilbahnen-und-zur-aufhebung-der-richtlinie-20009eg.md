@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1 Notifizierende Behörde
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000100000)
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 überträgt im Wege der Organleihe einer Landesbehörde die Aufgabe der
@@ -57,6 +58,7 @@ sonstige Unterstützung verlangen.
 
 
 ## § 2 Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000201126)
 
 (1) Auf die Marktüberwachung sind die §§ 4, 6, 7, 8 Absatz 2, 3 und 4,
 die §§ 9, 18 des Marktüberwachungsgesetzes entsprechend anzuwenden.
@@ -79,6 +81,7 @@ Verkehr und digitale Infrastruktur weiter.
 
 
 ## § 3 Sprache
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000300000)
 
 Die nach Artikel 11 Absatz 6 Satz 3, Absatz 7 Satz 1 und Absatz 9 Satz
 1, Artikel 13 Absatz 3 Satz 2, Absatz 4 und Absatz 9 Satz 1, Artikel
@@ -87,6 +90,7 @@ Die nach Artikel 11 Absatz 6 Satz 3, Absatz 7 Satz 1 und Absatz 9 Satz
 
 
 ## § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000401000)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2016/424 des
 Europäischen Parlaments und des Rates vom 9. März 2016 über Seilbahnen
@@ -226,6 +230,7 @@ zehntausend Euro geahndet werden.
 
 
 ## § 5 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000500000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer eine in § 4 Absatz 1 Nummer 2, 4, 9, 14 oder Nummer 21
@@ -235,6 +240,7 @@ oder fremde Sachen von bedeutendem Wert gefährdet.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/seilbdg/BJNR215900017.html#BJNR215900017BJNE000600000)
 
 (1) Die §§ 1 bis 3 treten am Tag nach der Verkündung dieses Gesetzes
 in Kraft.

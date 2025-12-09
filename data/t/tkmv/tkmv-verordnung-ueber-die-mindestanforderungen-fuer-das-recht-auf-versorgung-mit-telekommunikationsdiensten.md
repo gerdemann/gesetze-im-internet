@@ -25,6 +25,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000100000)
 
 Auf Grund des § 157 Absatz 3 Satz 1, 3 und 4 sowie Absatz 5 Satz 1 und
 2 des Telekommunikationsgesetzes, von denen Absatz 3 Satz 1 und Absatz
@@ -40,6 +41,7 @@ Digitales des Deutschen Bundestages:
 
 
 ## § 1 Latenz
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000200000)
 
 Bei einem Internetzugangsdienst und einem Sprachkommunikationsdienst
 ist Latenz das arithmetische Mittel aus
@@ -58,6 +60,7 @@ ist Latenz das arithmetische Mittel aus
 
 
 ## § 2 Anforderungen an den Internetzugangsdienst
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000301119)
 
 Ein Internetzugangsdienst für eine angemessene soziale und
 wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des
@@ -83,6 +86,7 @@ der Dienst regelmäßig folgende Anforderungen erfüllt:
 
 
 ## § 3 Anforderungen an den Sprachkommunikationsdienst
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000400000)
 
 Ein Sprachkommunikationsdienst für eine angemessene soziale und
 wirtschaftliche Teilhabe im Sinne von § 157 Absatz 2 und 3 des
@@ -108,11 +112,13 @@ der Dienst regelmäßig folgende Anforderungen erfüllt:
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000500000)
 
 Diese Verordnung tritt am 1. Juni 2022 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/tkmv/BJNR088000022.html#BJNR088000022BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

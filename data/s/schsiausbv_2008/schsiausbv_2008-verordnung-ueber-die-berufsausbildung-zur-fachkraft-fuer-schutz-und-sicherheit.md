@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000100000)
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
@@ -34,17 +35,20 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000200000)
 
 Der Ausbildungsberuf Fachkraft für Schutz und Sicherheit wird nach § 4
 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -138,6 +142,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -159,6 +164,7 @@ durchzusehen.
 
 
 ## § 5 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000600000)
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -180,6 +186,7 @@ Prozent gewichtet.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000700000)
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -261,6 +268,7 @@ Sicherheitsdienste bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
 Abschnitt A und B aufgeführten Fertigkeiten, Kenntnisse und
@@ -362,6 +370,7 @@ bestehen folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE000900000)
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -429,6 +438,7 @@ zu gewichten.
 
 
 ## § 9 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE001000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -438,6 +448,7 @@ Zwischenprüfung abgelegt worden ist.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE001100000)
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung im
 Ausbildungsberuf „Servicekraft für Schutz und Sicherheit“ kann im
@@ -453,12 +464,14 @@ Abschlussprüfung nach § 6 dieser Verordnung.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE001200000)
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 (zu § 3)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Schutz und Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/schsiausbv_2008/BJNR093200008.html#BJNR093200008BJNE001400000)
 
 (Fundstelle: BGBl. I 2008, 935 - 939)
 

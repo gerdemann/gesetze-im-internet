@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000100000)
 
 Auf Grund des § 30 Absatz 2 in Verbindung mit § 93 Absatz 3 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
@@ -32,6 +33,7 @@ Finanzen:
 
 
 ## § 1 Anspruch auf Ausbildungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000200000)
 
 Der Anspruch auf Ausbildungsgeld nach § 30 Absatz 2 Satz 1 des
 Soldatengesetzes entsteht mit dem ersten und endet mit dem letzten Tag
@@ -39,6 +41,7 @@ der Beurlaubung.
 
 
 ## § 2 Höhe des Ausbildungsgeldes
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000300000)
 
 (1) Der Grundbetrag des Ausbildungsgeldes entspricht dem Grundgehalt
 und den Amtszulagen, die im Bundesbesoldungsgesetz für den jeweiligen
@@ -50,6 +53,7 @@ Ausbildungszeit gekürzt.
 
 
 ## § 3 Anrechnung anderer Einkünfte auf das Ausbildungsgeld
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000401377)
 
 Auf das Ausbildungsgeld angerechnet werden Geld- oder Sachleistungen,
 die eine Sanitätsoffizieranwärterin oder ein Sanitätsoffizieranwärter
@@ -58,6 +62,7 @@ Bestallungsordnung vorgeschriebene Tätigkeit erhält.
 
 
 ## § 4 Entsprechende Geltung von Vorschriften des Bundesbesoldungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000500000)
 
 § 3 Absatz 1 Satz 2 und 3, Absatz 3 bis 6, sowie die §§ 3a, 9, 9a, 10,
 11, 12, 17a, 17b und 39 bis 41 des Bundesbesoldungsgesetzes gelten
@@ -65,6 +70,7 @@ entsprechend.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/sanoaausbgv_2013/BJNR010400013.html#BJNR010400013BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über das Ausbildungsgeld für

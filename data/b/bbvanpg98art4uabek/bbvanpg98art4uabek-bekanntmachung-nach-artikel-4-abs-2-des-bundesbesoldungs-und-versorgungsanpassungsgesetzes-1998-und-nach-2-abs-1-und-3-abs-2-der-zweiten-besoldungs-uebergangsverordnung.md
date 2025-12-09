@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000100311)
 
 Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und
 -versorgungsanpassungsgesetzes 1998 vom 6. August 1998 (BGBl. I S.
@@ -47,6 +48,7 @@ Der Bundesminister des Innern
 (Anlage IV des BBesG)
 
 ## Anlage 1 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000200311)
 
 (Fundstelle: BGBl. I 1998, 2400 - 2402)
 
@@ -954,6 +956,7 @@ Der Bundesminister des Innern
    (Anlage V des BBesG)
 
 ## Anlage 2 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000300311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2403
 
@@ -1010,6 +1013,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIa des BBesG)
 
 ## Anlage 3a Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000400311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1374,6 +1378,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 (Anlage VIb des BBesG)
 
 ## Anlage 3b Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000500311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1738,6 +1743,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2404
 (Anlage VIc des BBesG)
 
 ## Anlage 3c Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000600311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2102,6 +2108,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 (Anlage VId des BBesG)
 
 ## Anlage 3d Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000700311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2467,6 +2474,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2405
 (Anlage VIe des BBesG)
 
 ## Anlage 3e Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000800311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -2832,6 +2840,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
 (Anlage VIf des BBesG)
 
 ## Anlage 3f Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE000900311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -3194,6 +3203,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2406
    (Anlage VIg des BBesG)
 
 ## Anlage 3g Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001000311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
@@ -3556,6 +3566,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2407
    (Anlage VIh des BBesG)
 
 ## Anlage 3h Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001100311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
@@ -3918,6 +3929,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2407
    (Anlage VIi des BBesG)
 
 ## Anlage 3i Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001200311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
@@ -3996,6 +4008,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2408
 (Anlage VIII des BBesG)
 
 ## Anlage 4 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001300311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
@@ -4091,6 +4104,7 @@ in DM)
 (Anlage IX des BBesG)
 
 ## Anlage 5 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001400311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2409 - 2411)
 
@@ -5431,6 +5445,7 @@ in DM)
 (Anlage IV des BBesG)
 
 ## Anlage 6 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001500311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2412 - 2414)
 
@@ -6432,6 +6447,7 @@ in DM)
 (Anlage V des BBesG)
 
 ## Anlage 7 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001600311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6492,6 +6508,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIII des BBesG)
 
 ## Anlage 8 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001700311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6589,6 +6606,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage IX des BBesG)
 
 ## Anlage 9 Gültig ab 1. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001800311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2416 - 2418)
 
@@ -7873,6 +7891,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage IV des BBesG)
 
 ## Anlage 10 Gültig ab 1. September 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE001900311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 
@@ -8872,6 +8891,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 (Anlage V des BBesG)
 
 ## Anlage 11 Gültig ab 1. September 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE002000311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -8934,6 +8954,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 (Anlage VIII des BBesG)
 
 ## Anlage 12 Gültig ab 1. September 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE002100311)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -9035,6 +9056,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2422
 (Anlage IX des BBesG)
 
 ## Anlage 13 Gültig ab 1. September 1998
+[Direktlink](https://www.gesetze-im-internet.de/bbvanpg98art4uabek/BJNR239900998.html#BJNR239900998BJNE002200311)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2423 - 2425)
 

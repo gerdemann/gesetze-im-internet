@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000200000)
 
 Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung des Carsharing
 ermöglicht, um die Verwendung von Carsharingfahrzeugen im Rahmen
@@ -35,6 +36,7 @@ des motorisierten Individualverkehrs zu fördern.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000300000)
 
 Im Sinne dieses Gesetzes ist
 
@@ -66,6 +68,7 @@ Im Sinne dieses Gesetzes ist
 
 
 ## § 3 Bevorrechtigungen
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000403123)
 
 (1) Wer ein Fahrzeug im Sinne des § 2 Nummer 1 führt, kann nach
 Maßgabe der folgenden Vorschriften Bevorrechtigungen bei der Teilnahme
@@ -122,6 +125,7 @@ Gebührenpflicht vorgesehen werden.
 
 
 ## § 4 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000503123)
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt
 werden, die mit einer deutlich sichtbaren Kennzeichnung als
@@ -155,6 +159,7 @@ Straßenverkehrsgesetzes gilt entsprechend.
 
 
 ## § 5 Sondernutzung öffentlichen Straßenraums
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000602124)
 
 (1) Unbeschadet der sonstigen straßenrechtlichen Bestimmungen zur
 Sondernutzung an Bundesfernstraßen kann die nach Landesrecht
@@ -259,6 +264,7 @@ Bundesfernstraßengesetzes gilt entsprechend.
 
 
 ## § 6 Berichterstattung
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000701124)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur, das
 Bundesministerium für Wirtschaft und Energie und das Bundesministerium
@@ -267,6 +273,7 @@ bis zum 1. Juli 2021 dieses Gesetz.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE000800000)
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. September
 2017 in Kraft.
@@ -277,6 +284,7 @@ tritt es am Tag nach der Verkündung in Kraft.
 (zu § 5 Absatz 4 Satz 3)
 
 ## Anlage Eignungskriterien
+[Direktlink](https://www.gesetze-im-internet.de/csgg/BJNR223000017.html#BJNR223000017BJNE001000000)
 
 (Fundstelle: BGBl. I 2017, 2233)
 

@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/telekombatzv/BJNR059400013.html#BJNR059400013BJNE000100000)
 
 Auf Grund des § 3 Absatz 3 Satz 1 Nummer 3 und des § 10 Absatz 1 des
 Postpersonalrechtsgesetzes, von denen § 3 Absatz 3 Satz 1 Nummer 3
@@ -34,6 +35,7 @@ Anhörung des Vorstands der Deutschen Telekom AG:
 
 
 ## § 1 Bewilligung von Altersteilzeit
+[Direktlink](https://www.gesetze-im-internet.de/telekombatzv/BJNR059400013.html#BJNR059400013BJNE000203119)
 
 (1) Abweichend von § 93 Absatz 1 bis 3 des Bundesbeamtengesetzes kann
 den bei der Deutschen Telekom AG beschäftigten Beamtinnen und Beamten,
@@ -81,6 +83,7 @@ Altersteilzeit nach Absatz 1 nicht anzuwenden.
 
 
 ## § 2 Telekom-Altersteilzeitzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/telekombatzv/BJNR059400013.html#BJNR059400013BJNE000300000)
 
 Beamtinnen und Beamten, denen Altersteilzeit nach § 1 bewilligt worden
 ist, erhalten einen nicht ruhegehaltfähigen Zuschlag zur Besoldung
@@ -90,6 +93,7 @@ Altersteilzeitzuschlagsverordnung entsprechend.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/telekombatzv/BJNR059400013.html#BJNR059400013BJNE000400000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2013 in Kraft.
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000101360)
 
 (1) Dieses Gesetz gilt
 
@@ -49,6 +50,7 @@ Zuletzt geändert durch
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000200000)
 
 In diesem Gesetz gelten als
 
@@ -73,6 +75,7 @@ In diesem Gesetz gelten als
 
 
 ## § 3 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000300000)
 
 (1) Bei der Generaldirektion Wasserstraßen und Schifffahrt wird eine
 zentrale Datenbank zur Erfassung und Auswertung von Unfällen, an denen
@@ -122,6 +125,7 @@ Zweck ferner zur Erfüllung folgender Aufgaben geführt:
 
 
 ## § 4 Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000401119)
 
 (1) Zu den in § 3 Absatz 1 und 2 genannten Zwecken werden im Falle
 eines Unfalls nachstehende Daten durch die Dienststellen der
@@ -297,6 +301,7 @@ wurden.
 
 
 ## § 5 Datenspeicherung und Datenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000502126)
 
 (1) Die datenbankführende Stelle darf die Daten nach § 4 Absatz 1 Satz
 1 zu den in § 3 Absatz 1 und 2 genannten Zwecken erheben, speichern
@@ -318,6 +323,7 @@ personenbezogene Daten handelt.
 
 
 ## § 6 Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000603126)
 
 (1) Die datenbankführende Stelle ist befugt, die Daten nach § 4 Absatz
 1 Satz 1, soweit es sich nicht um personenbezogene Daten handelt, zu
@@ -441,6 +447,7 @@ erforderlich ist.
 
 
 ## § 7 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000700000)
 
 (1) Personenbezogene Daten nach § 4 Absatz 1 Satz 1 sind im Einzelfall
 unverzüglich zu löschen, soweit sie für die Erfüllung der Zwecke nach
@@ -455,6 +462,7 @@ anzuwenden, dass die Löschungsfrist fünf Jahre beträgt.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/schunfdatg/BJNR311810013.html#BJNR311810013BJNE000801305)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Einzelheiten der Form der

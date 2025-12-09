@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 610-6-8-1 v. 12.8.2008 I 1680 (FVerlV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000100000)
 
 Auf Grund des § 1 Absatz 6 des Außensteuergesetzes vom 8. September
 1972 (BGBl. I S. 1713), der durch Artikel 5 Nummer 1 Buchstabe c des
@@ -27,9 +28,11 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000200000)
 
 (1) Eine Funktion ist eine Geschäftstätigkeit, die aus einer
 Zusammenfassung gleichartiger betrieblicher Aufgaben besteht, die von
@@ -86,9 +89,11 @@ Funktionsverdoppelung steht.
 
 
 ## Abschnitt 2 - Transferpaketberechnung
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNG000200000)
 
 
 ### § 2 Wert des Transferpakets
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000300000)
 
 Der Einigungsbereich (§ 6) ist unter Berücksichtigung aller Umstände
 des Einzelfalls auf der Grundlage einer Funktions- und Risikoanalyse
@@ -107,6 +112,7 @@ Kapitalisierungszeitraum (§ 5) zu Grunde zu legen.
 
 
 ### § 3 Bestandteile des Transferpakets
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000400000)
 
 (1) Werden für einzelne Teile des Transferpakets unterschiedliche
 Vereinbarungen getroffen oder sind solche Vereinbarungen dem
@@ -124,6 +130,7 @@ Transferpakets als Ganzem entsprechen.
 
 
 ### § 4 Kapitalisierungszinssatz
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000500000)
 
 Zur Bestimmung des jeweils angemessenen Kapitalisierungszinssatzes
 ist, unter Berücksichtigung der Äquivalenzprinzipien, vom Zins für
@@ -138,6 +145,7 @@ Umstände berücksichtigt.
 
 
 ### § 5 Kapitalisierungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000600000)
 
 Werden keine Gründe für einen bestimmten, von den Umständen der
 Funktionsausübung abhängigen Kapitalisierungszeitraum nachgewiesen,
@@ -145,6 +153,7 @@ ist ein unbegrenzter Kapitalisierungszeitraum zu Grunde zu legen.
 
 
 ### § 6 Bestimmung des Einigungsbereichs
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000700000)
 
 (1) Für ein verlagerndes Unternehmen, das aus der Funktion finanzielle
 Überschüsse zu erwarten hat, ergibt sich die Untergrenze des
@@ -187,6 +196,7 @@ Dritter bereit wäre, für die Übernahme der Funktion zu bezahlen.
 
 
 ### § 7 Schadensersatz-, Entschädigungs- und Ausgleichsansprüche
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000800000)
 
 Gesetzliche oder vertragliche Schadensersatz-, Entschädigungs- und
 Ausgleichsansprüche sowie Ansprüche, die voneinander unabhängigen
@@ -202,9 +212,11 @@ zur Nutzung überlassen worden sind, es sei denn, die Übertragung oder
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNG000300000)
 
 
 ### § 8 Anwendung auf Betriebsstättenfälle
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE000900000)
 
 Die Vorschriften dieser Verordnung sind entsprechend anzuwenden,
 soweit nach § 1 Absatz 5 des Gesetzes § 1 Absatz 3b des Gesetzes auf
@@ -213,12 +225,14 @@ Gesetzes anzuwenden ist.
 
 
 ### § 9 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE001000000)
 
 Diese Verordnung ist erstmals für Veranlagungszeiträume anzuwenden,
 die nach dem 31. Dezember 2021 beginnen.
 
 
 ### § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE001100000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Funktionsverlagerungsverordnung vom 12. August
@@ -227,6 +241,7 @@ Gleichzeitig tritt die Funktionsverlagerungsverordnung vom 12. August
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fverlv_2022/BJNR180300022.html#BJNR180300022BJNE001200000)
 
 Der Bundesrat hat zugestimmt.
 

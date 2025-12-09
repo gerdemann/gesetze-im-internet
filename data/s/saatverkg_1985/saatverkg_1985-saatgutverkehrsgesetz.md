@@ -87,14 +87,17 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Saatgutordnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000101310)
 
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000201310)
 
 
 
 #### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE001808377)
 
 (1) Dieses Gesetz gilt vorbehaltlich der §§ 56 und 57 für Saatgut und
 Vermehrungsmaterial der im Artenverzeichnis zu diesem Gesetz
@@ -113,6 +116,7 @@ nicht entgegenstehen.
 
 
 #### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE001911377)
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -285,6 +289,7 @@ denen Vermehrungsmaterial der jeweiligen Kategorie entsprechen muss.
 
 
 #### § 3 Inverkehrbringen von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002012301)
 
 (1) Saatgut darf zu gewerblichen Zwecken nur in den Verkehr gebracht
 werden, wenn
@@ -493,6 +498,7 @@ Nr. 8 festzusetzen.
 
 
 #### § 3a Inverkehrbringen von Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008407377)
 
 (1) Vermehrungsmaterial darf zu gewerblichen Zwecken nur in den
 Verkehr gebracht werden, wenn
@@ -698,6 +704,7 @@ Blatt oder auf seiner Internetseite bekannt.
 
 
 #### § 3b Abgabe von Saatgut in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE009204301)
 
 (1) Wer im Rahmen eines Vertrages Saatgut nach § 2 Nr. 12 Buchstabe b
 Doppelbuchstabe bb abgibt, hat der nach Landesrecht zuständigen
@@ -722,10 +729,12 @@ festzusetzen.
 
 
 ### Unterabschnitt 2 - Anerkanntes Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000301310)
 
 
 
 #### § 4 Voraussetzungen für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002110301)
 
 (1) Saatgut wird anerkannt, wenn
 
@@ -796,6 +805,7 @@ von höchstens einem Jahr gestattet wird.
 
 
 #### § 5 Ausführungsvorschriften für die Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002209301)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -902,6 +912,7 @@ höchstens einem Jahr
 
 
 #### § 6 Inverkehrbringen vor Abschluss der Prüfung auf Keimfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002302310)
 
 Die Anerkennungsstelle kann bereits vor Abschluss der Prüfung auf
 Keimfähigkeit das Inverkehrbringen von Saatgut zu gewerblichen Zwecken
@@ -911,6 +922,7 @@ nachgewiesen hat.
 
 
 #### § 7 Prüfung des Feldbestandes und der Beschaffenheit des Saatgutes einer nicht zugelassenen Sorte
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002403310)
 
 Die Anerkennungsstelle kann mit Wirkung für die Anerkennung von
 Saatgut einer Sorte,
@@ -932,6 +944,7 @@ Verwendung des Saatgutes zur Vermehrung untersagen.
 
 
 #### § 8 Verpflichtungen des Saatguterzeugers
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002501310)
 
 Wer Saatgut erzeugt, das anerkannt werden soll, hat Aufzeichnungen zu
 machen über
@@ -958,6 +971,7 @@ aufzubewahren.
 
 
 #### § 9 Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002605301)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum
@@ -987,6 +1001,7 @@ Vorschriften der Verwaltungsverfahrensgesetze der Länder.
 
 
 #### § 10 Im Ausland erzeugtes Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002709301)
 
 (1) Saatgut, außer von Kartoffel, das im Ausland erzeugt worden ist,
 darf ohne Prüfung des Feldbestandes im Inland anerkannt werden
@@ -1025,10 +1040,12 @@ Behörde zu bestimmen.
 
 
 ### Unterabschnitt 3 - Standardsaatgut, Handelssaatgut und Behelfssaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000401310)
 
 
 
 #### § 11 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002808301)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, wenn die Versorgung mit Zertifiziertem Saatgut in einem
@@ -1083,6 +1100,7 @@ Beschränkung auf bestimmte Formen, zu gestatten und dabei
 
 
 #### § 12 Standardsaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE002906301)
 
 (1) Standardsaatgut unterliegt der Nachkontrolle durch die
 Nachkontrollstelle. Die Nachkontrolle erstreckt sich auf die
@@ -1155,6 +1173,7 @@ Person ergibt.
 
 
 #### § 13 Handelssaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003005301)
 
 (1) Saatgut wird als Handelssaatgut zugelassen, wenn es den
 festgesetzten Anforderungen an die Beschaffenheit entspricht. Das
@@ -1175,6 +1194,7 @@ dazu gehörigen Belege drei Jahre aufzubewahren.
 
 
 #### § 14 Behelfssaatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003101310)
 
 Behelfssaatgut muss bei Arten mit einer Sommerform und einer
 Winterform sowie bei Arten, bei denen die Gestattung des
@@ -1183,10 +1203,12 @@ ist, formecht sein.
 
 
 ### Unterabschnitt 3a - Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001701310)
 
 
 
 #### § 14a Ausführungsvorschriften für Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008504301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zum Schutz des Verbrauchers erforderlich ist,
@@ -1274,6 +1296,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 #### § 14b Anerkennung von Vermehrungsmaterial von Obst
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008607377)
 
 (1) Vermehrungsmaterial von Obst wird anerkannt, wenn
 
@@ -1366,10 +1389,12 @@ entsprechend.
 
 
 ### Unterabschnitt 4 - Einfuhr und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000502310)
 
 
 
 #### § 15 Einfuhr von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003209301)
 
 (1) Saatgut darf zu gewerblichen Zwecken nur eingeführt werden
 
@@ -1452,6 +1477,7 @@ Saatgutmischungen untersagt ist.
 
 
 #### § 15a Einfuhr von Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008706377)
 
 (1) Vermehrungsmaterial darf zu gewerblichen Zwecken nur eingeführt
 werden
@@ -1555,6 +1581,7 @@ bestimmten Zeitraum von höchstens einem Jahr gestattet wird.
 
 
 #### § 16 Gleichstellungen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003309301)
 
 (1) Den im Inland erteilten Anerkennungen oder Zulassungen von Saatgut
 sowie den Anerkennungen von Vermehrungsmaterial von Obst stehen
@@ -1586,6 +1613,7 @@ gleichzustellen.
 
 
 #### § 17 Einfuhrverbot für Pflanzgut von Kartoffel
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003406301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt,
@@ -1606,6 +1634,7 @@ ermächtigt,
 
 
 #### § 18 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003506377)
 
 (1) § 15 Abs. 1 und 3 Satz 1, § 15a Abs. 1 sowie die nach § 15 Abs. 3
 Satz 2, § 15a Abs. 2 und § 17 erlassenen Rechtsverordnungen sind nicht
@@ -1675,6 +1704,7 @@ Vermehrungsmaterial, das die Voraussetzungen für die Einfuhr nach §
 
 
 #### § 19 Überwachung der Einfuhr
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003607301)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung überwacht die
 Einfuhr von Saatgut und Vermehrungsmaterial. Das Bundesministerium der
@@ -1742,6 +1772,7 @@ beschränkt wird.
 
 
 #### § 19a Ausfuhr von Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008805301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zur Durchführung von Rechtsakten der
@@ -1755,10 +1786,12 @@ Angaben und die Art der Kennzeichnung erlassen.
 
 
 ### Unterabschnitt 5 - Kennzeichnung, Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000601310)
 
 
 
 #### § 20 Angabe der Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003704377)
 
 (1) Saatgut, außer Handelssaatgut und Behelfssaatgut, darf zu
 gewerblichen Zwecken nur in den Verkehr gebracht werden, wenn hierbei
@@ -1775,6 +1808,7 @@ Dritter bleiben unberührt.
 
 
 #### § 21 Verpackung und Kennzeichnung von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003804310)
 
 (1) Saatgut darf nur in Packungen oder Behältnissen eingeführt oder zu
 gewerblichen Zwecken in den Verkehr gebracht werden, die nach Maßgabe
@@ -1806,6 +1840,7 @@ gekennzeichnet sind. Bei Rebe stehen Bündel den Packungen gleich.
 
 
 #### § 22 Ausführungsvorschriften für die Verpackung und Kennzeichnung von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE003906301)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zum Schutz des Verbrauchers oder zur Ordnung des
@@ -1862,6 +1897,7 @@ Zustimmung des Bundesrates bedürfen.
 
 
 #### § 22a Verpackung und Kennzeichnung von Vermehrungsmaterial
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008904301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zum Schutz des Verbrauchers oder zur Ordnung des
@@ -1895,10 +1931,12 @@ gebracht werden darf. Es kann dabei insbesondere
 
 
 ### Unterabschnitt 6 - Verbot der Irreführung, Gewährleistung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000701310)
 
 
 
 #### § 23 Verbot der Irreführung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004003310)
 
 (1) Saatgut oder Vermehrungsmaterial darf nicht unter einer
 Bezeichnung, Angabe oder Aufmachung zu gewerblichen Zwecken in den
@@ -1913,15 +1951,18 @@ Saatgut oder Vermehrungsmaterial verwendbar erscheinen lässt.
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004105310)
 
 (weggefallen)
 
 
 ### Unterabschnitt 7 - Sonstige Vorschriften der Saatgutordnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000801310)
 
 
 
 #### § 25 Zusätzliche Anforderungen für das Inverkehrbringen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004206301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, zur Förderung der Erzeugung und der Qualität von Saatgut,
@@ -1935,6 +1976,7 @@ entspricht.
 
 
 #### § 26 Saatgutmischungen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004307301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es mit dem Schutz des Verbrauchers vereinbar ist
@@ -1970,6 +2012,7 @@ Verkehr gebracht wird. In der Rechtsverordnung können insbesondere
 
 
 #### § 27 Anzeige- und Aufzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004406301)
 
 (1) Wer Saatgut zu gewerblichen Zwecken in den Verkehr bringt, abfüllt
 oder für andere bearbeitet, hat
@@ -2009,6 +2052,7 @@ Aufzeichnungspflichten nach Absatz 2 vorsehen.
 
 
 #### § 28 Durchführung in den Ländern
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004502310)
 
 Die Durchführung dieses Gesetzes einschließlich der Überwachung der
 Einhaltung seiner Vorschriften sowie der nach diesem Gesetz erlassenen
@@ -2018,20 +2062,24 @@ trifft.
 
 
 #### § 29 Geschlossene Anbaugebiete
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004601310)
 
 Die Länder können geschlossene Anbaugebiete für die Erzeugung von
 Saatgut errichten.
 
 
 ## Abschnitt 2 - Sortenordnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG000901310)
 
 
 
 ### Unterabschnitt 1 - Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001001310)
 
 
 
 #### § 30 Voraussetzungen für die Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004711301)
 
 (1) Eine Sorte wird vorbehaltlich der Absätze 5 und 6 zugelassen, wenn
 sie
@@ -2166,6 +2214,7 @@ Verfahren hierfür festzusetzen.
 
 
 #### § 31 Unterscheidbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004803310)
 
 Eine Sorte ist unterscheidbar, wenn sie sich in der Ausprägung
 wenigstens eines maßgebenden Merkmals von jeder anderen Sorte deutlich
@@ -2190,6 +2239,7 @@ können.
 
 
 #### § 32 Homogenität
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE004902310)
 
 Eine Sorte ist homogen, wenn sie, abgesehen von Abweichungen auf Grund
 der Besonderheiten ihrer Vermehrung, in der Ausprägung der für die
@@ -2197,6 +2247,7 @@ Unterscheidbarkeit maßgebenden Merkmale hinreichend einheitlich ist.
 
 
 #### § 33 Beständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005002310)
 
 Eine Sorte ist beständig, wenn sie in der Ausprägung der für die
 Unterscheidbarkeit maßgebenden Merkmale nach jeder Vermehrung oder, im
@@ -2205,6 +2256,7 @@ unverändert bleibt.
 
 
 #### § 34 Landeskultureller Wert
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005102310)
 
 Eine Sorte hat einen landeskulturellen Wert, wenn sie in der
 Gesamtheit ihrer wertbestimmenden Eigenschaften gegenüber den
@@ -2217,6 +2269,7 @@ werden.
 
 
 #### § 35 Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005209377)
 
 (1) Eine Sortenbezeichnung ist eintragbar, wenn kein
 Ausschließungsgrund nach Absatz 2 oder 3 vorliegt.
@@ -2292,6 +2345,7 @@ Union erforderlich ist.
 
 
 #### § 36 Dauer der Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005306301)
 
 (1) Die Sortenzulassung gilt bis zum Ende des zehnten, bei Rebe und
 Obst bis zum Ende des zwanzigsten auf die Zulassung folgenden
@@ -2337,10 +2391,12 @@ und 2 festzusetzen.
 
 
 ### Unterabschnitt 2 - Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001101310)
 
 
 
 #### § 37 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005401310)
 
 Das Bundessortenamt ist zuständig für die Sortenzulassung und die
 hiermit zusammenhängenden Angelegenheiten. Es führt die Sortenliste
@@ -2348,6 +2404,7 @@ und überwacht die Erhaltung der zugelassenen Sorten.
 
 
 #### § 38 Sortenausschüsse und Widerspruchsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005502310)
 
 (1) Im Bundessortenamt werden gebildet
 
@@ -2390,6 +2447,7 @@ die Geschäftsverteilung.
 
 
 #### § 39 Zusammensetzung der Sortenausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005601310)
 
 Die Sortenausschüsse bestehen jeweils aus dem Vorsitzenden und zwei
 Beisitzern. Der Vorsitzende und die Beisitzer sind vom Präsidenten
@@ -2397,6 +2455,7 @@ bestimmte Mitglieder des Bundessortenamtes.
 
 
 #### § 40 Zusammensetzung der Widerspruchsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005705301)
 
 (1) Die Widerspruchsausschüsse bestehen jeweils aus dem Präsidenten
 oder einem von ihm bestimmten weiteren Mitglied des Bundessortenamtes
@@ -2421,10 +2480,12 @@ dreier ehrenamtlicher Beisitzer beschlussfähig.
 
 
 ### Unterabschnitt 3 - Verfahren vor dem Bundessortenamt
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001201310)
 
 
 
 #### § 41 Förmliches Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005801310)
 
 Auf das Verfahren vor den Sortenausschüssen und den
 Widerspruchsausschüssen sind die Vorschriften der §§ 63 bis 69 und 71
@@ -2433,6 +2494,7 @@ Verwaltungsverfahren anzuwenden.
 
 
 #### § 42 Antrag auf Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE005911119)
 
 (1) Die Sortenzulassung kann beantragen, wer hierzu von der Sache und
 der Person her befugt ist.
@@ -2509,6 +2571,7 @@ Vertretung befugt.
 
 
 #### § 43 Bekanntmachung des Antrags auf Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006001310)
 
 (1) Das Bundessortenamt macht den Antrag auf Sortenzulassung unter
 Angabe der Art, der angegebenen Sortenbezeichnung oder vorläufigen
@@ -2522,6 +2585,7 @@ ebenfalls bekannt.
 
 
 #### § 44 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006103310)
 
 (1) Bei der Prüfung, ob die Sorte die Voraussetzungen für ihre
 Zulassung erfüllt, baut das Bundessortenamt die Sorte an oder stellt
@@ -2574,6 +2638,7 @@ bestimmten Frist schriftlich
 
 
 #### § 45 Säumnis
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006202310)
 
 (1) Kommt der Antragsteller einer Aufforderung des Bundessortenamtes,
 
@@ -2602,6 +2667,7 @@ Säumnis hingewiesen hat.
 
 
 #### § 46 Antrag auf Eintragung als weiterer Züchter
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006301310)
 
 Wird im Falle des § 42 Abs. 2 Nr. 3 die Sorte von weiteren Züchtern
 oder unter deren Verantwortung unter den dort genannten
@@ -2611,6 +2677,7 @@ Abs. 3 und 6, §§ 43, 44 Abs. 1 bis 3 und § 45 gelten entsprechend.
 
 
 #### § 47 Sortenliste
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006405310)
 
 (1) In die Sortenliste werden nach Eintritt der Unanfechtbarkeit der
 Sortenzulassung eingetragen
@@ -2680,6 +2747,7 @@ Züchter oder Verfahrensvertreter bleibt bis zur Eintragung der
 
 
 #### § 48 Übernahme der Erhaltungszüchtung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006501310)
 
 Hat jemand die Erhaltungszüchtung einer Sorte von einem in der
 Sortenliste eingetragenen Züchter übernommen, so wird er ohne erneute
@@ -2687,6 +2755,7 @@ Prüfung der Sorte als Züchter eingetragen.
 
 
 #### § 49 Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006601310)
 
 (1) Jedem steht die Einsicht frei in
 
@@ -2730,6 +2799,7 @@ gestellt werden.
 
 
 #### § 50 Sortenerhaltung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006702310)
 
 (1) Jeder eingetragene Züchter hat die Sorte in einem Vertragsstaat
 nach den Grundsätzen systematischer Erhaltungszüchtung zu erhalten.
@@ -2744,6 +2814,7 @@ machen. Er hat die Aufzeichnungen sechs Jahre aufzubewahren.
 
 
 #### § 50a Sortenerhaltung bei Rebsorten
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE009301310)
 
 Bei Sorten von Rebe hat jeder eingetragene Züchter jeden für ihn
 eingetragenen Klon der Sorte, der in der Beschreibenden Sortenliste
@@ -2751,6 +2822,7 @@ aufgeführt ist, nach den Bestimmungen des § 50 zu erhalten.
 
 
 #### § 51 Änderung der Sortenbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006802310)
 
 (1) Eine bei der Sortenzulassung eingetragene Sortenbezeichnung ist zu
 ändern, wenn
@@ -2797,6 +2869,7 @@ anderen Sortenbezeichnung und ihre Bekanntmachung gelten die §§ 43 und
 
 
 #### § 52 Beendigung der Sortenzulassung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE006905377)
 
 (1) Die Sortenzulassung erlischt, wenn der eingetragene Züchter oder,
 falls mehrere Züchter eingetragen sind, alle diese Züchter hierauf
@@ -2866,6 +2939,7 @@ nach der Beendigung der Sortenzulassung festsetzen.
 
 
 #### § 53 Ermächtigung zum Erlass von Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007005301)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -2889,6 +2963,7 @@ Bundesrates bedarf,
 
 
 #### § 54 Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007113301)
 
 Durch Besondere Gebührenverordnung des Bundesministeriums für
 Ernährung und Landwirtschaft nach § 22 Absatz 4 des
@@ -2898,10 +2973,12 @@ den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
 ### Unterabschnitt 4 - In anderen Vertragsstaaten eingetragene Sorten
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001302310)
 
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007208377)
 
 (1) Das Bundessortenamt macht die Sorten bekannt,
 
@@ -2962,10 +3039,12 @@ Vermehrungsmaterial von Obstsorten entsprechend.
 
 
 ## Abschnitt 3 - Andere Aufgaben des Bundessortenamtes
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001401310)
 
 
 
 ### § 56 Beschreibende Sortenliste
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007305377)
 
 (1) Das Bundessortenamt veröffentlicht eine beschreibende Liste der
 zugelassenen Sorten (Beschreibende Sortenliste). In die Beschreibende
@@ -3014,6 +3093,7 @@ gentechnischen Veränderung aufzuführen.
 
 
 ### § 57 Prüfung der Sortenechtheit in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007401310)
 
 Soweit auf Grund von Rechtsvorschriften bei anderen als den im
 Artenverzeichnis zu diesem Gesetz aufgeführten Arten die
@@ -3023,6 +3103,7 @@ für die Überwachung zuständigen Stelle die Sortenechtheit prüfen.
 
 
 ### § 57a Gesamtliste der Obstsorten, gemeinsames Sortenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE009500377)
 
 (1) Das Bundessortenamt führt und veröffentlicht eine Gesamtliste der
 Obstsorten. In die Gesamtliste der Obstsorten werden folgende Sorten
@@ -3142,16 +3223,19 @@ hierbei die Angaben nach Absatz 2.
 
 
 ## Abschnitt 4 - Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001502310)
 
 
 
 ### § 58 Ausschluss der Berufung
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007501310)
 
 Hat im Vorverfahren der Widerspruchsausschuss entschieden, so ist die
 Berufung gegen das Urteil des Verwaltungsgerichtes ausgeschlossen.
 
 
 ### § 59 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007602119)
 
 (1) Natürliche und juristische Personen und sonstige
 Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
@@ -3189,6 +3273,7 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 
 ### § 59a Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE009007377)
 
 (1) Die zuständigen Behörden können, soweit es zum Schutz des
 Verbrauchers erforderlich oder durch Rechtsakte der Europäischen
@@ -3210,6 +3295,7 @@ Landesbehörden können die Befugnis nach Satz 3 auf andere Behörden
 
 
 ### § 60 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007706377)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3400,10 +3486,12 @@ bezieht, kann eingezogen werden.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNG001601310)
 
 
 
 ### § 61 Durchführung von Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007803377)
 
 Rechtsverordnungen nach den Abschnitten 1 und 2 können auch zur
 Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
@@ -3412,6 +3500,7 @@ Vermehrungsmaterial erlassen werden.
 
 
 ### § 61a Sonderregelung für Rebenpflanzgut
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008306301)
 
 § 3 Abs. 1 Satz 1 Nr. 6 und 8 und Abs. 2 Satz 1 Nr. 1, § 4 Abs. 2 und
 3 Satz 1, § 10 Abs. 2 Nr. 1, § 15 Abs. 1 Satz 3 und § 16 Abs. 1 Satz 1
@@ -3427,6 +3516,7 @@ die genannten Vertragsstaaten anwendbar werden.
 
 
 ### § 62 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE007905301)
 
 (1) Die Sortenliste nach dem Saatgutverkehrsgesetz in der Fassung der
 Bekanntmachung vom 23. Juni 1975 (BGBl. I S. 1453) wird nach diesem
@@ -3446,11 +3536,13 @@ nach § 36 Abs. 2 verlängert werden.
 
 
 ### § 62a
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE009103377)
 
 (weggefallen)
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/saatverkg_1985/BJNR016330985.html#BJNR016330985BJNE008202310)
 
 (Inkrafttreten)
 

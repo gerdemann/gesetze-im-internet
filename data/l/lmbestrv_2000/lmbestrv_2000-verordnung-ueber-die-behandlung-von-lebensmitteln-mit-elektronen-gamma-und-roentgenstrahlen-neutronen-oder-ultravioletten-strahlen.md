@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## § 1 Zulassungen
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000203130)
 
 (1) Die Behandlung von getrockneten aromatischen Kräutern und Gewürzen
 mit den in der Nummer 1 der Anlage aufgeführten Elektronen-, Gamma-
@@ -88,6 +89,7 @@ auftretende indirekte Einwirkung auf Lebensmittel ist zugelassen.
 
 
 ## § 2 Lebensmittel aus Drittländern
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000303130)
 
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze sowie
 Lebensmittel, die bestrahlte getrocknete aromatische Kräuter und
@@ -139,6 +141,7 @@ Aufschluss geben über
 
 
 ## § 3 Kenntlichmachung
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000405130)
 
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze – auch aus
 einem Drittland – müssen von dem, der diese in den Verkehr bringt,
@@ -215,6 +218,7 @@ erfolgen:
 
 
 ## § 4 Zulassung von Einrichtungen zur Bestrahlung
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000501118)
 
 (1) Einrichtungen zur Bestrahlung im Sinne des § 1 Absatz 1
 (Bestrahlungsanlagen) dürfen nur verwendet werden, wenn sie durch die
@@ -246,6 +250,7 @@ Referenznummer.
 [^F806004_02_BJNR173000000BJNE000501118]: 
 
 ## § 5 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000602130)
 
 Der Betreiber jeder zugelassenen Bestrahlungsanlage hat für jede
 Quelle ionisierender Bestrahlung eine Aufzeichnung zu führen, die für
@@ -289,6 +294,7 @@ durchgeführt worden ist.
 
 
 ## § 6 Mitteilungen, Berichte
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000806130)
 
 (1) Die Länder teilen dem Bundesministerium für Ernährung und
 Landwirtschaft die nach § 4 für die Zulassung zuständigen Behörden
@@ -300,6 +306,7 @@ Zulassungsverfügung und jeder Änderung dieser Verfügung.
 
 
 ## § 7 Straftaten, Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE000903130)
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 1 Absatz 2 Satz
@@ -333,6 +340,7 @@ vorsätzlich oder fahrlässig
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/lmbestrv_2000/BJNR173000000.html#BJNR173000000BJNE001301118)
 
 (Fundstelle: BGBl. I 2019, 120)
 

@@ -26,6 +26,7 @@ Mittelbare änderung durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000100307)
 
 (1) Dieses Gesetz regelt die Zahlung des Arbeitsentgelts an
 gesetzlichen Feiertagen und die Fortzahlung des Arbeitsentgelts im
@@ -38,6 +39,7 @@ Angestellte sowie die zu ihrer Berufsbildung Beschäftigten.
 
 
 ## § 2 Entgeltzahlung an Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000200307)
 
 (1) Für Arbeitszeit, die infolge eines gesetzlichen Feiertages
 ausfällt, hat der Arbeitgeber dem Arbeitnehmer das Arbeitsentgelt zu
@@ -54,6 +56,7 @@ haben keinen Anspruch auf Bezahlung für diese Feiertage.
 
 
 ## § 3 Anspruch auf Entgeltfortzahlung im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000301308)
 
 (1) Wird ein Arbeitnehmer durch Arbeitsunfähigkeit infolge Krankheit
 an seiner Arbeitsleistung verhindert, ohne daß ihn ein Verschulden
@@ -89,6 +92,7 @@ ununterbrochener Dauer des Arbeitsverhältnisses.
 
 
 ## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001601119)
 
 (1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende
 von Organen oder Geweben, die nach den §§ 8 und 8a des
@@ -131,6 +135,7 @@ machen.
 
 
 ## § 4 Höhe des fortzuzahlenden Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000404308)
 
 (1) Für den in § 3 Abs. 1 oder in § 3a Absatz 1 bezeichneten Zeitraum
 ist dem Arbeitnehmer das ihm bei der für ihn maßgebenden regelmäßigen
@@ -167,6 +172,7 @@ Arbeitsentgelts im Krankheitsfalle vereinbart werden.
 
 
 ## § 4a Kürzung von Sondervergütungen
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001401308)
 
 Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber
 zusätzlich zum laufenden Arbeitsentgelt erbringt (Sondervergütungen),
@@ -177,6 +183,7 @@ auf einen Arbeitstag entfällt, nicht überschreiten.
 
 
 ## § 5 Anzeige- und Nachweispflichten
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000505126)
 
 (1) Der Arbeitnehmer ist verpflichtet, dem Arbeitgeber die
 Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich
@@ -232,6 +239,7 @@ anzuzeigen.
 
 
 ## § 6 Forderungsübergang bei Dritthaftung
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000601308)
 
 (1) Kann der Arbeitnehmer auf Grund gesetzlicher Vorschriften von
 einem Dritten Schadensersatz wegen des Verdienstausfalls beanspruchen,
@@ -252,6 +260,7 @@ Arbeitnehmers geltend gemacht werden.
 
 
 ## § 7 Leistungsverweigerungsrecht des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000700307)
 
 (1) Der Arbeitgeber ist berechtigt, die Fortzahlung des
 Arbeitsentgelts zu verweigern,
@@ -272,6 +281,7 @@ ihm obliegenden Verpflichtungen nicht zu vertreten hat.
 
 
 ## § 8 Beendigung des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000801308)
 
 (1) Der Anspruch auf Fortzahlung des Arbeitsentgelts wird nicht
 dadurch berührt, daß der Arbeitgeber das Arbeitsverhältnis aus Anlaß
@@ -288,6 +298,7 @@ Anspruch mit dem Ende des Arbeitsverhältnisses.
 
 
 ## § 9 Maßnahmen der medizinischen Vorsorge und Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE000903308)
 
 (1) Die Vorschriften der §§ 3 bis 4a und 6 bis 8 gelten entsprechend
 für die Arbeitsverhinderung infolge einer Maßnahme der medizinischen
@@ -321,6 +332,7 @@ unverzüglich vorzulegen.
 
 
 ## § 10 Wirtschaftliche Sicherung für den Krankheitsfall im Bereich der Heimarbeit
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001001308)
 
 (1) In Heimarbeit Beschäftigte (§ 1 Abs. 1 des Heimarbeitsgesetzes)
 und ihnen nach § 1 Abs. 2 Buchstabe a bis c des Heimarbeitsgesetzes
@@ -372,6 +384,7 @@ Heimarbeitsgesetzes entsprechend anzuwenden.
 
 
 ## § 11 Feiertagsbezahlung der in Heimarbeit Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001100307)
 
 (1) Die in Heimarbeit Beschäftigen (§ 1 Abs. 1 des
 Heimarbeitsgesetzes) haben gegen den Auftraggeber oder Zwischenmeister
@@ -434,6 +447,7 @@ niedriger ist als das in diesem Gesetz festgesetzte.
 
 
 ## § 12 Unabdingbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001200307)
 
 Abgesehen von § 4 Abs. 4 kann von den Vorschriften dieses Gesetzes
 nicht zuungunsten des Arbeitnehmers oder der nach § 10 berechtigten
@@ -441,6 +455,7 @@ Personen abgewichen werden.
 
 
 ## § 13 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/entgfg/BJNR106500994.html#BJNR106500994BJNE001501308)
 
 Ist der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998 bis zum
 1\. Januar 1999 oder darüber hinaus durch Arbeitsunfähigkeit infolge

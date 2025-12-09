@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000200000)
 
 (1) Die Vorschriften dieses Gesetzes sind auf natürliche Personen,
 Körperschaften, Personenvereinigungen und Vermögensmassen anzuwenden.
@@ -44,6 +46,7 @@ finden, nicht berührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000300000)
 
 (1) Ein Staat oder ein Gebiet (Steuerhoheitsgebiet) ist im Sinne
 dieses Gesetzes nicht kooperativ, wenn das Steuerhoheitsgebiet eine
@@ -67,6 +70,7 @@ in einem nicht kooperativen Steuerhoheitsgebiet haben.
 
 
 ### § 3 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000400000)
 
 (1) Zur Sicherstellung einer einheitlichen Rechtsanwendung erlassen
 das Bundesministerium der Finanzen und das Bundesministerium für
@@ -113,9 +117,11 @@ auf den Beginn des Wirtschaftsjahres abzustellen ist.
 
 
 ## Abschnitt 2 - Qualifikation eines Staates oder Gebiets
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNG000200000)
 
 
 ### § 4 Intransparenz in Steuersachen
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000500000)
 
 (1) Ein Steuerhoheitsgebiet ist nicht kooperativ, wenn dieses
 Steuerhoheitsgebiet keine hinreichende Transparenz in Steuersachen
@@ -173,6 +179,7 @@ haben wird.
 
 
 ### § 5 Unfairer Steuerwettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000600000)
 
 (1) Ein Steuerhoheitsgebiet ist nicht kooperativ, wenn es unfairen
 Steuerwettbewerb betreibt.
@@ -234,6 +241,7 @@ Steuerwettbewerb anzusehen sind.
 
 
 ### § 6 Nichterfüllung der BEPS-Mindeststandards
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000700000)
 
 (1) Ein Steuerhoheitsgebiet ist nicht kooperativ, wenn es sich nicht
 zur Umsetzung der Mindeststandards des OECD/G20 BEPS-Projekts (Base
@@ -266,9 +274,11 @@ Streitbeilegungsmechanismen“.
 
 
 ## Abschnitt 3 - Abwehrmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNG000300000)
 
 
 ### § 7 Betroffene Geschäftsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000800000)
 
 Unterhält ein Steuerpflichtiger Geschäftsbeziehungen oder
 Beteiligungsverhältnisse in oder mit Bezug zu einem nicht kooperativen
@@ -280,6 +290,7 @@ anzuwenden.
 
 
 ### § 8 Verbot des Betriebsausgaben- und Werbungskostenabzugs
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE000901123)
 
 Aufwendungen aus Geschäftsvorgängen im Sinne des § 7 dürfen den Gewinn
 oder den Überschuss der Einnahmen über die Werbungskosten nicht
@@ -316,6 +327,7 @@ mindern. Dies gilt nicht, soweit
 
 
 ### § 9 Verschärfte Hinzurechnungsbesteuerung
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE001000000)
 
 Sind unbeschränkt steuerpflichtige Personen an einer ausländischen
 Gesellschaft im Sinne des § 7 Absatz 1 des Außensteuergesetzes gemäß
@@ -336,6 +348,7 @@ Absatz 2 Satz 2 des Außensteuergesetzes ist nicht anzuwenden und Satz
 
 
 ### § 10 Quellensteuermaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE001101123)
 
 (1) Über § 49 des Einkommensteuergesetzes hinaus liegen
 steuerpflichtige Einkünfte derjenigen natürlichen Personen sowie
@@ -387,6 +400,7 @@ Steuerabzug 15 Prozent der gesamten Einnahmen beträgt.
 
 
 ### § 11 Maßnahmen bei Gewinnausschüttungen und Anteilsveräußerungen
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE001200000)
 
 (1) Auf Bezüge im Sinne des § 20 Absatz 1 Nummer 1, 2, 9 und 10
 Buchstabe a des Einkommensteuergesetzes, die von einer in einem nicht
@@ -429,9 +443,11 @@ die bereits das Abzugsverbot nach § 8 angewendet worden ist.
 
 
 ## Abschnitt 4 - Besondere Anforderungen an das Steuerverwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNG000400000)
 
 
 ### § 12 Gesteigerte Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE001301123)
 
 (1) Der Steuerpflichtige hat über die nach § 90 der Abgabenordnung
 bestehenden Mitwirkungspflichten hinaus eine gesteigerte
@@ -507,9 +523,11 @@ unberührt.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNG000500000)
 
 
 ### § 13 Anwendungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/stabwg/BJNR205610021.html#BJNR205610021BJNE001402123)
 
 (1) Die Abschnitte 3 und 4 dieses Gesetzes sind ab dem 1. Januar 2022
 anzuwenden.

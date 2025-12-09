@@ -25,6 +25,7 @@ Recht umgesetzt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000900000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet
@@ -49,6 +50,7 @@ Landwirtschaft verordnet
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000100000)
 
 (1) Die in der Anlage aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
@@ -59,6 +61,7 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 
 
 ## § 2 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000201116)
 
 (1) Für die in der Anlage aufgeführten Erzeugnisse sind die dort
 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der
@@ -147,6 +150,7 @@ die Bezeichnung des Lebensmittels anzubringen.
 
 
 ## § 3 Verkehrsverbote
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000301116)
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -172,6 +176,7 @@ Vorschrift unberücksichtigt.
 
 
 ## § 4 Analysenmethoden
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000401320)
 
 Die zur Bestimmung des freien Kohlenhydratgehaltes und des
 Gesamtkohlenhydratgehaltes von löslichen Kaffees verwendeten
@@ -183,6 +188,7 @@ aufgeführten erforderlichen Kriterien getestet sein.
 
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000501310)
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Satz 1
@@ -199,6 +205,7 @@ Satz 2, ein Erzeugnis in den Verkehr bringt.
 
 
 ## § 6 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000600000)
 
 Bis zum 31. Dezember 2001 dürfen Erzeugnisse nach den bis zum Ablauf
 des 23. November 2001 geltenden Vorschriften hergestellt und
@@ -208,6 +215,7 @@ werden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE000801116)
 
 (1) Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -215,12 +223,14 @@ werden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE001101116)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1 und § 2)
 
 ## Anlage Bezeichnungen und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/kaffeev_2001/BJNR310700001.html#BJNR310700001BJNE001000000)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3109
 

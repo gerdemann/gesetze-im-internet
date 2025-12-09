@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## I. Übertragung von beamtenversorgungsrechtlichen Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zovers-bmpt/BJNR028200995.html#BJNR028200995BJNE000100307)
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 des Gesetzes über die Versorgung
 der Beamten und Richter in Bund und Ländern (Beamtenversorgungsgesetz
@@ -50,6 +51,7 @@ November 1994 (BGBl. I S. 3854).
 
 
 ## II. Erlaß von Widerspruchsbescheiden und Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beamtenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/zovers-bmpt/BJNR028200995.html#BJNR028200995BJNE000200307)
 
 (1) Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
 Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) in Verbindung mit
@@ -77,6 +79,7 @@ vor.
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zovers-bmpt/BJNR028200995.html#BJNR028200995BJNE000300307)
 
 (1) Diese Anordnung tritt am Tage nach ihrer Veröffentlichung im
 Bundesgesetzblatt in Kraft.
@@ -85,6 +88,7 @@ Bundesgesetzblatt in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zovers-bmpt/BJNR028200995.html#BJNR028200995BJNE000400307)
 
 Bundesministerium für Post und Telekommunikation
 

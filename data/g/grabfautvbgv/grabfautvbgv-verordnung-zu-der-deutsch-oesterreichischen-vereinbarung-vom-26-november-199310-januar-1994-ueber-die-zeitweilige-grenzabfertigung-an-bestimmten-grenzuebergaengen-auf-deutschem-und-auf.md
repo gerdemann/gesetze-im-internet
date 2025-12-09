@@ -22,6 +22,7 @@ Vereinbarung vom 26. November 1993/10. Januar 1994 außer Kraft tritt.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/grabfautvbgv/BJNR012520994.html#BJNR012520994BJNE000100307)
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes vom 25. August 1960 zu
 dem Abkommen vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland
@@ -33,6 +34,7 @@ Bundesministerium des Innern:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/grabfautvbgv/BJNR012520994.html#BJNR012520994BJNE000200307)
 
 An der deutsch-österreichischen Grenze kann an den Grenzübergängen
 Lindau-Ziegelhaus/Unterhochsteg, Lindau-Rickenbach/Oberhochsteg,
@@ -47,6 +49,7 @@ vorgenommen werden. Die Vereinbarung wird nachstehend veröffentlicht.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/grabfautvbgv/BJNR012520994.html#BJNR012520994BJNE000300307)
 
 (1) Diese Verordnung tritt am 1. Februar 1994 in Kraft.
 

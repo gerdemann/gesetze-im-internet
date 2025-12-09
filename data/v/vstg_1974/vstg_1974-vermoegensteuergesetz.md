@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## I. - Steuerpflicht, Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNG000102309)
 
 
 
 ### § 1 Unbeschränkte Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE000603309)
 
 (1) Unbeschränkt vermögensteuerpflichtig sind
 
@@ -102,6 +104,7 @@ erforscht oder ausgebeutet werden.
 
 
 ### § 2 Beschränkte Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE000705301)
 
 (1) Beschränkt steuerpflichtig sind
 
@@ -134,6 +137,7 @@ Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
 
 
 ### § 3 Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE000823301)
 
 (1) Von der Vermögensteuer sind befreit
 
@@ -419,6 +423,7 @@ Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
 
 
 ### § 4 Bemessungsgrundlage
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE000902309)
 
 (1) Der Vermögensteuer unterliegt
 
@@ -437,6 +442,7 @@ volle tausend Deutsche Mark nach unten abgerundet.
 
 
 ### § 5 Stichtag für die Festsetzung der Vermögensteuer, Entstehung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001002309)
 
 (1) Die Vermögensteuer wird nach den Verhältnissen zu Beginn des
 Kalenderjahrs (Veranlagungszeitpunkt, §§ 15 bis 17) festgesetzt.
@@ -446,10 +452,12 @@ Steuer festzusetzen ist.
 
 
 ## II. - Steuerberechnung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNG000202309)
 
 
 
 ### § 6 Freibeträge für natürliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001106301)
 
 (1) Bei der Veranlagung einer unbeschränkt steuerpflichtigen
 natürlichen Person bleiben 120.000 Deutsche Mark und im Falle der
@@ -475,6 +483,7 @@ Satzes 1 vorliegen, vervielfacht.
 
 
 ### § 7 Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001202309)
 
 (1) Bei der Veranlagung der inländischen Erwerbs- und
 Wirtschaftsgenossenschaften sowie der inländischen Vereine, deren
@@ -516,6 +525,7 @@ Bewertungsgesetzes betreiben.
 
 
 ### § 8 Besteuerungsgrenze bei Körperschaften und bei beschränkt Steuerpflichtigen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001302309)
 
 (1) Von den unbeschränkt steuerpflichtigen Körperschaften,
 Personenvereinigungen und Vermögensmassen im Sinne des § 1 Abs. 1 Nr.
@@ -528,6 +538,7 @@ Mark beträgt.
 
 
 ### § 9 Steuerpflichtiges Vermögen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001402309)
 
 Steuerpflichtiges Vermögen ist
 
@@ -555,6 +566,7 @@ Steuerpflichtiges Vermögen ist
 
 
 ### § 10 Steuersatz
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001504301)
 
 Die Vermögensteuer beträgt jährlich
 
@@ -575,6 +587,7 @@ Die Vermögensteuer beträgt jährlich
 
 
 ### § 11 Anrechnung ausländischer Steuern
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001604301)
 
 (1) Bei unbeschränkt Steuerpflichtigen, die in einem ausländischen
 Staat mit ihrem in diesem Staat belegenen Vermögen (Auslandsvermögen)
@@ -622,6 +635,7 @@ Steuerpflichtige dort in einem der unbeschränkten Steuerpflicht
 
 
 ### § 12 Steuerermäßigung bei Auslandsvermögen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001707301)
 
 (1) Anstelle einer Anrechnung ausländischer Steuern nach § 11 Abs. 1
 bis 4 ist auf Antrag des Steuerpflichtigen die auf ausländisches
@@ -672,6 +686,7 @@ zweckmäßig oder die Anwendung von § 11 Abs. 1 besonders schwierig ist.
 
 
 ### § 13 Pauschbesteuerung bei beschränkter Steuerpflicht
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001805301)
 
 Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten
 Finanzbehörden können im Einvernehmen mit dem Bundesministerium der
@@ -682,10 +697,12 @@ Vermögensteuer besonders schwierig ist.
 
 
 ## III. - Veranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNG000302309)
 
 
 
 ### § 14 Zusammenveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE001904301)
 
 (1) Bei unbeschränkter Steuerpflicht aller Beteiligten werden zusammen
 veranlagt
@@ -729,6 +746,7 @@ veranlagt
 
 
 ### § 15 Hauptveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002002309)
 
 (1) Die Vermögensteuer wird für drei Kalenderjahre allgemein
 festgesetzt (Hauptveranlagung). Der Zeitraum, für den die
@@ -748,6 +766,7 @@ noch nicht abgelaufen ist.
 
 
 ### § 16 Neuveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002104301)
 
 (1) Die Vermögensteuer wird neu veranlagt, wenn dem Finanzamt bekannt
 wird,
@@ -795,6 +814,7 @@ Neuveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 
 
 ### § 17 Nachveranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002202309)
 
 (1) Die Vermögensteuer wird nachträglich festgesetzt
 (Nachveranlagung), wenn nach dem Hauptveranlagungszeitpunkt
@@ -818,6 +838,7 @@ anzuwenden.
 
 
 ### § 18 Aufhebung der Veranlagung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002302309)
 
 (1) Wird dem Finanzamt bekannt, daß
 
@@ -848,6 +869,7 @@ Der Beginn des maßgebenden Kalenderjahrs ist der Aufhebungszeitpunkt.
 
 
 ### § 19 Pflicht zur Abgabe von Vermögensteuererklärungen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002404301)
 
 (1) Vermögensteuererklärungen sind auf jeden
 Hauptveranlagungszeitpunkt abzugeben. Für andere
@@ -895,10 +917,12 @@ zu bestimmen, die mindestens einen Monat betragen soll.
 
 
 ## IV. - Steuerentrichtung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNG000402309)
 
 
 
 ### § 20 Entrichtung der Jahressteuer
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002502309)
 
 (1) Die Steuer wird zu je einem Viertel der Jahressteuer am 10.
 Februar, 10. Mai, 10. August und 10. November fällig. Eine
@@ -910,6 +934,7 @@ Jahressteuer den Betrag von 50 Deutsche Mark nicht übersteigt.
 
 
 ### § 21 Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002602309)
 
 (1) Der Steuerpflichtige hat, solange die Jahressteuer noch nicht
 bekanntgegeben worden ist, Vorauszahlungen auf die Jahressteuer zu
@@ -926,6 +951,7 @@ sich für das Kalenderjahr voraussichtlich ergeben wird.
 
 
 ### § 22 Abrechnung über die Vorauszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002702309)
 
 (1) Ist die Summe der Vorauszahlungen, die bis zur Bekanntgabe des
 Steuerbescheids zu entrichten waren (§ 21), geringer als die Steuer,
@@ -948,6 +974,7 @@ aufgehoben oder geändert wird.
 
 
 ### § 23 Nachentrichtung der Steuer
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002802309)
 
 Hatte der Steuerpflichtige bis zur Bekanntgabe der Jahressteuer keine
 Vorauszahlungen nach § 21 zu entrichten, so hat er die Steuer, die
@@ -957,10 +984,12 @@ des Steuerbescheids zu entrichten.
 
 
 ## V. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNG000502309)
 
 
 
 ### § 24 Neufassung
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE002904301)
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
@@ -970,11 +999,13 @@ beseitigen.
 
 
 ### § 24a
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE003202301)
 
 -
 
 
 ### § 24b Verzicht auf die Vermögensteuer der umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen für das zweite Halbjahr 1990
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE003300301)
 
 Bei ehemaligen volkseigenen Kombinaten, Betrieben und Einrichtungen,
 die auf Grund des Treuhandgesetzes vom 17. Juni 1990 (GBl. I Nr. 33 S.
@@ -990,6 +1021,7 @@ Festsetzung und Erhebung der Vermögensteuer für das zweite Halbjahr
 
 
 ### § 24c Zeitlich befristete Sondervorschrift für die Besteuerung nach dem Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE003403301)
 
 Für die Vermögensteuer der Kalenderjahre 1996 bis 1998 gilt in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet folgendes:
@@ -1056,6 +1088,7 @@ Artikel 3 des Einigungsvertrages genannten Gebiet folgendes:
 
 
 ### § 25 Anwendung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/vstg_1974/BJNR109490974.html#BJNR109490974BJNE003022301)
 
 (1) Die vorstehende Fassung des Gesetzes ist, soweit in den folgenden
 Absätzen nichts anderes bestimmt ist, erstmals auf die Vermögensteuer

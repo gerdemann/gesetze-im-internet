@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000100000)
 
 Auf Grund des § 63a Absatz 1 und 2 Nummer 3 des Erneuerbare-Energien-
 Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074), der durch Artikel 1
@@ -33,6 +34,7 @@ verordnet das Umweltbundesamt:
 
 
 ## § 1 Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000203119)
 
 (1) Das Umweltbundesamt erhebt für individuell zurechenbare
 öffentliche Leistungen (gebührenfähige Leistungen) im Zusammenhang mit
@@ -54,6 +56,7 @@ Verwaltungsbeschäftigte in der Bundesverwaltung anzuwenden.
 
 
 ## § 2 Gebührenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000303119)
 
 (1) Gebührenschuldner im Sinne des § 6 Absatz 1 Nummer 1 des
 Bundesgebührengesetzes ist:
@@ -93,6 +96,7 @@ Kosten übernimmt.
 
 
 ## § 3 Reduzierung der Jahresgebühren, Abrundung
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000500118)
 
 (1) Die Jahresgebühr nach Anlage 1 Nummer 3 und die Jahresgebühr nach
 Anlage 2 Nummer 3 reduzieren sich jeweils anteilig um die Gebühr für
@@ -105,6 +109,7 @@ den nächsten vollen Cent ab.
 (zu § 1 Absatz 1)
 
 ## Anlage 1 Gebührenverzeichnis zum Herkunftsnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000402119)
 
 (Fundstelle: BGBl. I 2021, 3730 – 3731)
 
@@ -304,6 +309,7 @@ den nächsten vollen Cent ab.
 (zu § 1 Absatz 2)
 
 ## Anlage 2 Gebührenverzeichnis zum Regionalnachweisregister
+[Direktlink](https://www.gesetze-im-internet.de/hkngebv/BJNR270300012.html#BJNR270300012BJNE000601119)
 
 (Fundstelle: BGBl. I 2021, 3732)
 

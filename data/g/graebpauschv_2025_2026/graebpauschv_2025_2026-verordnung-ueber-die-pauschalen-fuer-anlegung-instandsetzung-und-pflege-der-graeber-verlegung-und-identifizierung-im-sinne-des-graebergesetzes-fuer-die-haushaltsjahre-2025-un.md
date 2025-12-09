@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_bpauschv_2025_2026/BJNR1970A0024.html#BJNR1970A0024BJNE000100000)
 
 Auf Grund des § 10 Absatz 4 Satz 2 des Gräbergesetzes in der Fassung
 der Bekanntmachung vom 16. Januar 2012 (BGBl. I S. 98) verordnet das
@@ -27,6 +28,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## § 1 Pauschalen
+[Direktlink](https://www.gesetze-im-internet.de/gr_bpauschv_2025_2026/BJNR1970A0024.html#BJNR1970A0024BJNE000200000)
 
 Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10
 Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre
@@ -118,6 +120,7 @@ Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gr_bpauschv_2025_2026/BJNR1970A0024.html#BJNR1970A0024BJNE000300000)
 
 Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt
 die Gräberpauschalenverordnung 2019/2020 vom 15. Februar 2019 (BGBl. I
@@ -125,6 +128,7 @@ S. 121) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gr_bpauschv_2025_2026/BJNR1970A0024.html#BJNR1970A0024BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

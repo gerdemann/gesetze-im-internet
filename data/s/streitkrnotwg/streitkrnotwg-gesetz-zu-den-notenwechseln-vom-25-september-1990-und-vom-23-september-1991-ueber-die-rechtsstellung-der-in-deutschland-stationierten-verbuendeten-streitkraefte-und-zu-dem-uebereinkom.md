@@ -23,12 +23,14 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNE000900307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000100307)
 
 (1) Folgenden, von der Regierung der Bundesrepublik Deutschland
 unterzeichneten Übereinkünften wird zugestimmt:
@@ -74,6 +76,7 @@ d)  Übereinkommen vom 25. September 1990 zwischen der Bundesrepublik
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000201377)
 
 (1) Für Besatzungsschäden, die in der Zeit vom 5. Mai 1955 bis zum
 Ablauf des 2. Oktober 1990 im Gebiet der früheren 3 Westsektoren von
@@ -118,6 +121,7 @@ Berlin verursacht worden sind.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000301377)
 
 Die Artikel 6 bis 14 und 25 des Gesetzes zum NATO-Truppenstatut und zu
 den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S. 1183)
@@ -131,6 +135,7 @@ Sachsen, Sachsen-Anhalt oder Thüringen verursacht worden sind.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000400307)
 
 (1) Die den amerikanischen, britischen und französischen Streitkräften
 am 2. Oktober 1990 auf dem Gebiet des Landes Berlin zur Verfügung
@@ -153,6 +158,7 @@ entsprechend.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000501307)
 
 (1) Die den amerikanischen, britischen und französischen Truppen,
 ihren zivilen Gefolgen, ihren Mitgliedern und Angehörigen in Berlin
@@ -168,6 +174,7 @@ eingeräumte Rechtsstellung.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000601307)
 
 Die Artikel 3, 4b, 4c und 5 des Gesetzes zum NATO-Truppenstatut und zu
 den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S. 1183),
@@ -179,6 +186,7 @@ Thüringen.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000700307)
 
 Die in den Notenwechseln vom 25. September 1990 in Verbindung mit
 Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
@@ -188,6 +196,7 @@ auszuführen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNE001000307)
 
 Soweit die Behörden des Entsendestaates die Gerichtsbarkeit ausüben,
 sind die Strafverfolgungsbehörden auf deren Ersuchen befugt, zur
@@ -203,6 +212,7 @@ anderes bestimmt ist.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNE001100307)
 
 Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des
 NATO-Truppenstatuts erforderliche Beschlagnahme und Durchsuchung
@@ -214,6 +224,7 @@ Staatsanwaltschaft zuerst mit der Sache befaßt wurde.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNE001201377)
 
 (1) Ist nach Eingang eines Ersuchens um Festnahme und Übergabe nach
 Artikel VII Abs. 5 Buchstabe a des NATO-Truppenstatuts der
@@ -256,6 +267,7 @@ die vom Gericht angeordnete Übergabe durch.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNE001300307)
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
@@ -264,6 +276,7 @@ des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/streitkrnotwg/BJNR002629994.html#BJNR002629994BJNG000800307)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

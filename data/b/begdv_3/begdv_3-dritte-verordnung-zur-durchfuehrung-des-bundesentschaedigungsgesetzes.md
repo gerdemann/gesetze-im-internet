@@ -22,14 +22,17 @@ Zuletzt geändert durch
 Stand: Ersetzt V v. 6.4.1955 I 157
 
 ## I. - Selbständige Berufe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000100328)
 
 
 
 ### 1. - Besondere Anspruchsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000200328)
 
 
 
 #### § 1 Abgrenzung gegenüber dem Schaden in der Nutzung des Eigentums und des Vermögens
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE001800328)
 
 Der Ausfall an Einkommen aus Land- und Forstwirtschaft und aus
 Gewerbebetrieb gilt insoweit als Schaden in der Nutzung der
@@ -38,6 +41,7 @@ des Verfolgten als Betriebsinhaber handelt.
 
 
 #### § 2 Selbständige Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE001900328)
 
 Selbständige Erwerbstätigkeit ist jede berufsmäßig ausgeübte und auf
 Erzielung von Einkünften gerichtete Tätigkeit von nicht nur
@@ -46,6 +50,7 @@ Arbeitsverhältnisses ausgeübt worden ist.
 
 
 #### § 3 Verdrängung aus selbständiger Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002000328)
 
 (1) Eine Verdrängung aus selbständiger Erwerbstätigkeit liegt vor,
 wenn dem Verfolgten die Fortsetzung dieser Tätigkeit durch
@@ -71,6 +76,7 @@ Reichspachtschutzordnung gegolten hat.
 
 
 #### § 4 Beschränkung in der Ausübung der selbständigen Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002100328)
 
 (1) Beschränkung in der Ausübung der selbständigen Erwerbstätigkeit
 ist jede Behinderung dieser Tätigkeit nach Art und Umfang durch
@@ -92,6 +98,7 @@ Tätigkeit anzusehen.
 
 
 #### § 5 Mehrere selbständige Erwerbstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002200328)
 
 Hat der Verfolgte gleichzeitig mehrere selbständige Erwerbstätigkeiten
 ausgeübt und ist er nicht aus jeder dieser Erwerbstätigkeiten
@@ -100,14 +107,17 @@ selbständigen Erwerbstätigkeit vor. § 66 Abs. 3 BEG findet Anwendung.
 
 
 ### 2. - Die gesetzlichen Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000300328)
 
 
 
 #### a) - Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000400328)
 
 
 
 ##### § 6 Anderweitige Beschaffung von Geldmitteln
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002300328)
 
 Der Verfolgte kann sich die Geldmittel auch dann nicht anderweitig
 beschaffen (§ 69 Abs. 1 BEG), wenn er sie nur zu Bedingungen erhalten
@@ -115,6 +125,7 @@ kann, die für ihn wirtschaftlich nicht tragbar sind.
 
 
 ##### § 7 Tatsächliche Voraussetzungen für das Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002400328)
 
 Der Verfolgte hat Anspruch auf Darlehen, wenn es wahrscheinlich ist,
 daß ihm dadurch die erfolgreiche Wiederaufnahme oder volle Entfaltung
@@ -125,12 +136,14 @@ gleichwertigen selbständigen Erwerbstätigkeit.
 
 
 ##### § 8 Höhe des Darlehens
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002500328)
 
 Bei der Bemessung des Darlehens ist der Umfang des früheren
 Unternehmens oder der früheren Teilhaberschaft zu berücksichtigen.
 
 
 ##### § 9 Unmöglichkeit der Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002600328)
 
 Ist die Sicherung des Darlehens nicht möglich, so kann es auch ohne
 Sicherung gegeben werden, wenn nach der persönlichen und fachlichen
@@ -139,12 +152,14 @@ Darlehens nicht wesentlich gefährdet erscheint.
 
 
 ##### § 10 Zusätzliches Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002700328)
 
 Auf das zusätzliche Darlehen sind die §§ 6 bis 9 entsprechend
 anzuwenden.
 
 
 ##### § 11 Darlehen für den überlebenden Ehegatten und die Kinder
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002800328)
 
 (1) Dem Ehegatten im Sinne des § 73 Abs. 1 BEG sind gleichgestellt
 
@@ -177,10 +192,12 @@ Berechtigten günstiger ist.
 
 
 #### b) - Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000500328)
 
 
 
 ##### § 12 Zeitliche Begrenzung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE002900328)
 
 (1) Eine Wiederaufnahme der früheren oder einer gleichwertigen
 Erwerbstätigkeit in vollem Umfange gemäß § 75 Abs. 1 Satz 1 BEG ist
@@ -197,6 +214,7 @@ der nach § 75 Abs. 3 BEG zu gewährenden Zuschläge sind der als Anlage
 
 
 ##### § 13 Berechnung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003000328)
 
 Der Berechnung der Kapitalentschädigung ist die als Anlage 2
 beigefügte, nach der Einteilung der Bundesbeamten in solche des
@@ -207,6 +225,7 @@ nach Lebensaltersstufen gegliedert, ausweist.
 
 
 ##### § 14 Einreihung in eine vergleichbare Beamtengruppe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003100328)
 
 (1) Die wirtschaftliche Stellung des Verfolgten bestimmt sich nach
 seinem Durchschnittseinkommen in den letzten drei Jahren vor Beginn
@@ -241,6 +260,7 @@ gleichen Beruf Erwerbstätige in der Regel erzielt haben.
 
 
 ##### § 15 Erreichbare Dienstbezüge eines vergleichbaren Bundesbeamten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003200328)
 
 (1) Die erreichbaren Dienstbezüge eines vergleichbaren Bundesbeamten
 im Sinne des § 76 Abs. 2 Satz 2 BEG sind der als Anlage 4 beigefügten
@@ -255,11 +275,13 @@ das Lebensalter im Zeitpunkt der Entscheidung.
 
 
 ##### § 16 Alters- und Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003300328)
 
 (Entfällt)
 
 
 ##### § 17 Berücksichtigung des anderweitigen Arbeitseinkommens nach § 77 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003400328)
 
 Die Kapitalentschädigung nach § 76 Abs. 1, 3 und 4 BEG wird nur
 insoweit gekürzt, als der nach § 76 Abs. 1 BEG errechnete Betrag
@@ -272,11 +294,13 @@ Dienstbezügen eines vergleichbaren Bundesbeamten gegenüberzustellen.
 
 
 ##### § 18 Umrechnung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003500328)
 
 (Entfällt)
 
 
 ##### § 19 Weiterleistung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003600328)
 
 Der der Berechnung der Kapitalentschädigung zugrunde gelegte
 Jahresbetrag wird nach § 80 BEG in monatlichen Teilbeträgen
@@ -286,6 +310,7 @@ weitergezahlt, bis der Höchstbetrag der Kapitalentschädigung nach §
 
 
 ##### § 20 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003700328)
 
 (1) Der Verfolgte ist verpflichtet, der zuständigen
 Entschädigungsbehörde die Tatsachen unverzüglich anzuzeigen, die gemäß
@@ -297,10 +322,12 @@ die Anzeigepflicht.
 
 
 #### c) - Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000600328)
 
 
 
 ##### § 21 Voraussetzungen für das Rentenwahlrecht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003800328)
 
 (1) Voraussetzung für das Wahlrecht nach § 82 BEG ist, daß der
 Verfolgte im Zeitpunkt der Entscheidung weder seine frühere oder eine
@@ -323,6 +350,7 @@ errechnenden Rentenbeträgen entsprechen.
 
 
 ##### § 22 Berechnung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE003900328)
 
 (1) Der Berechnung der Rente ist die als Anlage 5a, b und c
 beigefügte, nach der Einteilung der Bundesbeamten in solche des
@@ -337,6 +365,7 @@ Lebensaltersstufen gegliedert, ausweist.
 Erhöhung des monatlichen Höchstbetrages der Rente
 
 ##### § 22a (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004020130)
 
 (Fundstelle: BGBl. I 1983, 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1001,6 +1030,7 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 
 ##### § 22b Zahlung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004100328)
 
    Die Rente wird in monatlich vorauszahlbaren Beträgen vom Ersten des
 Monats an gezahlt, in dem die Voraussetzungen für den Rentenanspruch
@@ -1008,6 +1038,7 @@ erfüllt sind, frühestens jedoch vom 1. November 1953 an.
 
 
 ##### § 23 Entschädigung für die Zeit vor dem 1. November 1953
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004200328)
 
 (1) Die Entschädigung für die Zeit vor dem 1. November 1953 (§ 83 Abs.
 3 BEG) wird in Deutscher Mark und auf der Grundlage des Monatsbetrages
@@ -1020,6 +1051,7 @@ und nach § 14 BEG übertragbar.
 
 
 ##### § 24 Rente für den überlebenden Ehegatten und die Kinder
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004322130)
 
 (Fundstelle zu Abs. 4: BGBl. I 1983, 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1433,6 +1465,7 @@ Anwendung.
 
 
 ##### § 24a Renten für den überlebenden Ehegatten in den Fällen des § 86 Abs. 6 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004400328)
 
 (1) Der Rentenanspruch des überlebenden Ehegatten nach § 86 Abs. 6 BEG
 besteht nach Maßgabe des § 4a BEG nur, wenn der Verfolgte vor dem 31.
@@ -1445,6 +1478,7 @@ nach § 86 Abs. 6 BEG nicht.
 
 
 ##### § 25 Beginn der Rentenzahlung für den überlebenden Ehegatten und die Kinder
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004500328)
 
 (1) Die Renten nach den §§ 85 und 85a BEG werden vom Ersten des Monats
 an gezahlt, der dem Monat folgt, in dem der Verfolgte verstorben ist.
@@ -1454,6 +1488,7 @@ des Monats an gezahlt, in dem der Verfolgte verstorben ist.
 
 
 ##### § 25a Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004600328)
 
 Die Rente erlischt
 
@@ -1477,6 +1512,7 @@ Die Rente erlischt
 
 
 ##### § 26 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004702310)
 
 (1) Der Berechtigte ist verpflichtet, der zuständigen
 Entschädigungsbehörde die Tatsachen unverzüglich anzuzeigen, die gemäß
@@ -1502,6 +1538,7 @@ vorher hingewiesen worden ist.
 
 
 ##### § 27 Änderung der Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004800328)
 
 (1) Die Rente nach den §§ 85, 85a und 86 BEG wird im Falle des § 206
 BEG mit Wirkung vom Ersten des Monats neu festgesetzt, der dem Monat
@@ -1515,18 +1552,22 @@ werden.
 
 
 ## II. - Unselbständige Berufe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000700328)
 
 
 
 ### 1. - Privater Dienst. Die gesetzlichen Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000800328)
 
 
 
 #### a) - Darlehen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG000900328)
 
 
 
 ##### § 28 Voraussetzung für die Darlehnsgewährung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE004900328)
 
 (1) Voraussetzung für die erfolgreiche Aufnahme einer selbständigen
 Erwerbstätigkeit ist insbesondere die persönliche und fachliche
@@ -1538,10 +1579,12 @@ Erwerbstätigkeit eine ausreichende Lebensgrundlage bietet.
 
 
 #### b) - Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001000328)
 
 
 
 ##### § 29 Berechnung der Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005000328)
 
 Auf die Kapitalentschädigung des im privaten Dienst geschädigten
 Verfolgten finden die §§ 5, 12, 13, 15, 19 und 20 entsprechende
@@ -1552,6 +1595,7 @@ gleichzusetzen sind.
 
 
 ##### § 30 Einreihung in eine vergleichbare Beamtengruppe
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005100328)
 
 (1) Für die Einreihung in eine vergleichbare Beamtengruppe findet § 14
 entsprechende Anwendung.
@@ -1563,21 +1607,25 @@ sonst übliche Vergütung zugrunde zu legen.
 
 
 ##### § 31 Alters- und Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005200328)
 
 (Entfällt)
 
 
 ##### § 32 Berücksichtigung anderweitigen Einkommens
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005300328)
 
 Für die Berücksichtigung des durch anderweitige Verwertung der
 Arbeitskraft erzielten Einkommens findet § 17 entsprechende Anwendung.
 
 
 #### c) - Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001100328)
 
 
 
 ##### § 33 Berechnung der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005420130)
 
 (1) Die Rente, die der Verfolgte an Stelle einer Kapitalentschädigung
 wählen kann, wird als Jahresrente durch Teilung der festgesetzten
@@ -1792,6 +1840,7 @@ jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das
 Erhöhung des monatlichen Höchstbetrages der Rente
 
 ##### § 33a (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005520130)
 
 (Fundstelle: BGBl. I 1983, 1321;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2456,6 +2505,7 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 
 ##### § 34 Mindestrente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005622130)
 
    (Fundstelle zu Abs. 3: BGBl. I 1983, 1321;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3165,6 +3215,7 @@ Bundesentschädigungsgesetzes betragen für
 
 
 ##### § 35 Grundlagen der Berechnung für die Rente des überlebenden Ehegatten und der Kinder
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005720130)
 
 (1) Auf die Rente nach den §§ 97, 97a und 98 BEG finden die §§ 24 bis
 27 entsprechende Anwendung.
@@ -4256,6 +4307,7 @@ an die Stelle der in Absatz 4 genannten Beträge folgende Beträge:
 
 
 ##### § 35a Entschädigung in Höhe der Rentenbezüge eines Jahres im Falle des § 98 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005800328)
 
 Für die Berechnung der Entschädigung in Höhe der Rentenbezüge eines
 Jahres im Falle des § 98 BEG findet § 23 entsprechende Anwendung.
@@ -4263,6 +4315,7 @@ Dabei ist § 95 BEG zu berücksichtigen.
 
 
 ##### § 35b Rente für den überlebenden Ehegatten im Falle der §§ 98, 86 Abs. 4 und 6 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE005900328)
 
 (1) Für die Berechnung der Rente nach den §§ 98, 86 Abs. 4 und 6 BEG
 findet § 33 mit der Maßgabe Anwendung, daß an die Stelle des in § 33
@@ -4278,15 +4331,18 @@ entsprechende Anwendung.
 
 
 ##### § 35c Erlöschen der Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006000328)
 
 Für das Erlöschen der Rente findet § 25a entsprechende Anwendung.
 
 
 ### 2. - Angestellte und Arbeiter im Sinne der §§ 109 und 110 BEG
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001200328)
 
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006100328)
 
 Ein vertraglicher Anspruch auf Versorgung nach beamtenrechtlichen
 Grundsätzen oder auf Ruhelohn liegt vor, wenn dem Angestellten oder
@@ -4299,10 +4355,12 @@ war.
 
 
 ## III. - Schädigung in selbständiger und unselbständiger Erwerbstätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001300328)
 
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006200328)
 
 (1) Unselbständige Erwerbstätigkeit im Sinne des § 113 BEG sind auch
 die Tätigkeit im öffentlichen Dienst und der Dienst bei
@@ -4335,10 +4393,12 @@ und in beiden Erwerbstätigkeiten geschädigt worden ist.
 
 
 ## IV. - Schaden in der Ausbildung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001400328)
 
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006300328)
 
 (1) Kinder im Sinne des § 119 Abs. 1 BEG sind die ehelichen Kinder und
 die diesen nach den Vorschriften des bürgerlichen Rechts
@@ -4353,10 +4413,12 @@ verzögert hat.
 
 
 ## V. - Verfolgte aus den Vertreibungsgebieten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001500328)
 
 
 
 ### § 38a
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006420130)
 
 (Fundstelle: BGBl. I 1983, 1322 bis 1323;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5149,10 +5211,12 @@ Bundesentschädigungsgesetzes beträgt
 
 
 ## VI. - Bewertung der im Ausland erzielten Einkünfte
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001600328)
 
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006500328)
 
    In den Fällen der §§ 12, 17, 21, 29, 32 und 37 Abs. 3 ist bei der
 Bewertung der im Ausland erzielten Einkünfte der amtliche Devisenkurs
@@ -5166,10 +5230,12 @@ Kaufkraftrichtzahlen für jedes Jahr gegenüberzustellen.
 
 
 ## VII. - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNG001700328)
 
 
 
 ### § 40 Verteilung von anzurechnenden Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006600328)
 
 Bei der Anrechnung von Leistungen auf die laufende Rente nach § 10 BEG
 soll der anzurechnende Betrag derart verteilt werden, daß dem
@@ -5178,6 +5244,7 @@ festgesetzten Rente verbleibt.
 
 
 ### § 41 Aufrundung der Entschädigungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006701320)
 
 Die errechneten und die auszuzahlenden Beträge der
 Kapitalentschädigung und der Rente sind auf volle Deutsche Mark, ab
@@ -5185,6 +5252,7 @@ dem 1. Januar 2002 auf volle Euro aufzurunden.
 
 
 ### § 41a Stichtag für Neufestsetzung der Renten
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006800328)
 
 Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
@@ -5193,6 +5261,7 @@ festgesetzt.
 
 
 ### § 41b Übergangsvorschriften für Änderungen dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE006900328)
 
 (1) Die Unanfechtbarkeit oder die Rechtskraft einer Entscheidung, die
 vor der Verkündung einer Änderungsverordnung ergangen ist, steht
@@ -5221,11 +5290,13 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007001320)
 
 (weggefallen)
 
 
 ### § 43 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007100328)
 
 (1) Es treten in Kraft
 
@@ -5255,6 +5326,7 @@ mit Wirkung vom 18. September 1965.
 zu den §§ 12 und 21 der 3.DV-BEG
 
 ### Anlage 1 Einkommensübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007200328)
 
 (Inhalt: nicht darstellbare Tabelle
 Fundstelle: BGBl. I 1983, 118 bis 119)
@@ -5262,6 +5334,7 @@ Fundstelle: BGBl. I 1983, 118 bis 119)
 zu § 13 der 3.DV-BEG
 
 ### Anlage 2 Besoldungsübersicht Kapitalentschädigung
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007300328)
 
 Fundstelle des Originaltextes: BGBl. I 1966, 309
 
@@ -5549,6 +5622,7 @@ Fundstelle des Originaltextes: BGBl. I 1966, 309
 zu § 14 der 3.DV-BEG
 
 ### Anlage 3 Besoldungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007400328)
 
 Fundstelle des Originaltextes: BGBl. I 1966, 310
 
@@ -5649,6 +5723,7 @@ Fundstelle des Originaltextes: BGBl. I 1966, 310
 
 
 ### Anlage 4 zu den §§ 15 und 17 der 3. DV-BEG Besoldungsübersicht
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007520130)
 
 (Fundstelle: BGBl. I 1983, 1323 - 1326;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8669,6 +8744,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    (zu § 22 der 3. DV-BEG)
 
 ### Anlage 5a Besoldungsübersicht Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007600328)
 
 (Fundstelle des Originaltextes: BGBl. I 1966, 313 bis 315)
 
@@ -10311,6 +10387,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 22 der 3.DV-BEG)
 
 ### Anlage 5b Besoldungsübersicht Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007700328)
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
@@ -11213,6 +11290,7 @@ Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
 
 ### Anlage 5c zu § 22 der 3. DV-BEG Besoldungsübersicht Rente
+[Direktlink](https://www.gesetze-im-internet.de/begdv_3/BJNR001570955.html#BJNR001570955BJNE007820130)
 
 (Fundstelle: BGBl. I 1983, 1326 - 1330;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

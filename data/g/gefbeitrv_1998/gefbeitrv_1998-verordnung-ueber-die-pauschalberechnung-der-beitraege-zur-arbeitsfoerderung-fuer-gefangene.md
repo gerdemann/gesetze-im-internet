@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gefbeitrv_1998/BJNR043000998.html#BJNR043000998BJNE000100310)
 
 Auf Grund des § 352 Abs. 3 des Dritten Buches Sozialgesetzbuch -
 Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
@@ -28,6 +29,7 @@ S. 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## § 1 Berechnungsgrundlagen
+[Direktlink](https://www.gesetze-im-internet.de/gefbeitrv_1998/BJNR043000998.html#BJNR043000998BJNE000200310)
 
 (1) Für die Berechnung der Beiträge für versicherungspflichtige
 Gefangene (§ 26 Abs. 1 Nr. 4 des Dritten Buches Sozialgesetzbuch) sind
@@ -68,6 +70,7 @@ BBGrdl x --- x ---.
 
 
 ## § 2 Zahlungsweise und -verfahren
+[Direktlink](https://www.gesetze-im-internet.de/gefbeitrv_1998/BJNR043000998.html#BJNR043000998BJNE000301308)
 
 Die Beiträge sind drei Monate nach Ablauf des Kalenderjahres fällig,
 in dem die Beitragsansprüche entstanden sind. Bis zum Ende eines jeden
@@ -80,11 +83,13 @@ die fälligen Beiträge und die geleisteten Zahlungen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gefbeitrv_1998/BJNR043000998.html#BJNR043000998BJNE000400310)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/gefbeitrv_1998/BJNR043000998.html#BJNR043000998BJNE000500310)
 
 Der Bundesrat hat zugestimmt.
 

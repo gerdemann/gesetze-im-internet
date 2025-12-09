@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNG000100305)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE000702116)
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Anlagen, in denen Siedlungsabfälle und Abfälle, die
@@ -72,6 +74,7 @@ Umwelteinwirkungen durch Luftverunreinigungen zu erfüllen sind.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE000800305)
 
 Im Sinne dieser Verordnung sind:
 
@@ -251,10 +254,12 @@ Im Sinne dieser Verordnung sind:
 
 
 ## Zweiter Teil - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNG000200305)
 
 
 
 ### § 3 Mindestabstand
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE000900305)
 
 Bei der Errichtung von biologischen Abfallbehandlungsanlagen soll ein
 Mindestabstand von 300 Meter zur nächsten vorhandenen oder in einem
@@ -262,6 +267,7 @@ Bebauungsplan festgesetzten Wohnbebauung nicht unterschritten werden.
 
 
 ### § 4 Emissionsbezogene Anforderungen für Anlieferung, Aufbereitung, Stofftrennung und Lagerung und Transport
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001001116)
 
 (1) Entladestellen, Aufgabe- oder Aufnahmebunker oder andere
 Einrichtungen für Anlieferung, Transport und Lagerung der
@@ -300,6 +306,7 @@ Reifenwaschanlagen oder regelmäßiges Säubern der Fahrwege.
 
 
 ### § 5 Emissionsbezogene Anforderungen für biologische Behandlung, Prozesswässer und Brüdenkondensate
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001101116)
 
 (1) Einrichtungen zur biologischen Behandlung von Einsatzstoffen oder
 von anfallenden Abfällen unter aeroben Bedingungen (Verrottung) oder
@@ -335,6 +342,7 @@ Emissionen ausgehen können.
 
 
 ### § 6 Emissionsgrenzwerte
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001201116)
 
 Der Betreiber hat die biologische Abfallbehandlungsanlage so zu
 errichten und zu betreiben, dass in den zur Ableitung in die
@@ -438,6 +446,7 @@ Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2
 
 
 ### § 7 Ableitbedingungen für Abgase
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001300305)
 
 Der Betreiber hat die Abgasströme nach § 4 Abs. 1 Satz 2 und Abs. 2
 Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2 so abzuleiten, dass ein
@@ -446,10 +455,12 @@ Ableitung über Schornsteine ist erforderlich.
 
 
 ## Dritter Teil - Messung und Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNG000300305)
 
 
 
 ### § 8 Messverfahren und Messeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001400305)
 
 (1) Für die Messungen sind nach näherer Bestimmung der zuständigen
 Behörde Messplätze einzurichten; diese sollen ausreichend groß, leicht
@@ -479,6 +490,7 @@ Berichte vorzulegen.
 
 
 ### § 9 Kontinuierliche Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001500305)
 
 Der Betreiber hat
 
@@ -502,6 +514,7 @@ Massenkonzentration der Emissionen getrocknet wird.
 
 
 ### § 10 Auswertung und Beurteilung von kontinuierlichen Messungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001600305)
 
 (1) Während des Betriebes der biologischen Abfallbehandlungsanlage ist
 aus den Messwerten nach § 9 Satz 1 für jede aufeinander folgende halbe
@@ -541,6 +554,7 @@ Emissionsgrenzwert überschreitet.
 
 
 ### § 11 Einzelmessungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001701116)
 
 (1) Der Betreiber hat nach Errichtung oder wesentlicher Änderung der
 biologischen Abfallbehandlungsanlage Messungen einer nach § 26 des
@@ -586,6 +600,7 @@ verzichtet werden.
 
 
 ### § 12 Berichte und Beurteilung von Einzelmessungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001800305)
 
 (1) Über die Ergebnisse der Messungen nach § 11 hat der Betreiber
 einen Messbericht zu erstellen und der zuständigen Behörde
@@ -600,6 +615,7 @@ Emissionsgrenzwerte überschreitet.
 
 
 ### § 13 Störungen des Betriebes
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE001900305)
 
 (1) Ergibt sich aus Messungen und sonstigen offensichtlichen
 Wahrnehmungen, dass Anforderungen an den Betrieb der Anlagen oder zur
@@ -627,10 +643,12 @@ unterrichten.
 
 
 ## Vierter Teil - Anforderungen an Altanlagen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNG000400305)
 
 
 
 ### § 14 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE002000305)
 
 (1) Für Altanlagen gelten die Anforderungen dieser Verordnung nach
 Ablauf von fünf Jahren seit Inkrafttreten dieser Verordnung.
@@ -646,10 +664,12 @@ Vorschriften des vierten Teils dieser Verordnung.
 
 
 ## Fünfter Teil - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNG000500305)
 
 
 
 ### § 15 Unterrichtung der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE002100305)
 
 Der Betreiber der biologischen Abfallbehandlungsanlage hat die
 Öffentlichkeit nach erstmaliger Kalibrierung der Messeinrichtung zur
@@ -671,6 +691,7 @@ erforderlichen Angaben enthalten sind.
 
 
 ### § 16 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE002203116)
 
 Abweichend von der in § 5 Abs. 1 Satz 1 festgelegten Kapselung von
 Einrichtungen zur biologischen Behandlung oder ihrer Ausführung in
@@ -690,6 +711,7 @@ Umwelteinwirkungen auf andere Weise Genüge getan ist.
 
 
 ### § 17 Weitergehende Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE002300305)
 
 Die Befugnis der zuständigen Behörde, andere oder weitergehende
 Anforderungen, insbesondere zur Vermeidung schädlicher
@@ -698,6 +720,7 @@ Immissionsschutzgesetzes zu treffen, bleibt unberührt.
 
 
 ### § 18 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_30/BJNR031700001.html#BJNR031700001BJNE002400305)
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig

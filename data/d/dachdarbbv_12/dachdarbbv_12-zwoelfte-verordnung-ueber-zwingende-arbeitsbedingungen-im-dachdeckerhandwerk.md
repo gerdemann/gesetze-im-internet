@@ -18,6 +18,7 @@ Fundstelle
 Stand: Die V tritt gem. § 3 dieser V mit Ablauf des 31.12.2025 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dachdarbbv_12/BJNR0380A0024.html#BJNR0380A0024BJNE000100000)
 
 Auf Grund des § 7 Absatz 1 und 2 in Verbindung mit Absatz 4 des
 Arbeitnehmer-Entsendegesetzes, dessen Absatz 1 durch Artikel 1 Nummer
@@ -36,6 +37,7 @@ festlegen, Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
 
 
 ## § 1 Zwingende Arbeitsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/dachdarbbv_12/BJNR0380A0024.html#BJNR0380A0024BJNE000200000)
 
 (1) Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen
 des Tarifvertrags zur Regelung eines Mindestlohns im
@@ -68,6 +70,7 @@ Geltungsbereich dieser Verordnung fällt.
 
 
 ## § 2 Anwendungsausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/dachdarbbv_12/BJNR0380A0024.html#BJNR0380A0024BJNE000300000)
 
 Diese Verordnung findet keine Anwendung auf Gesamtheiten von
 Arbeitnehmerinnen und Arbeitnehmern im Sinne des § 1 Nummer 2 Satz 4
@@ -85,6 +88,7 @@ der aus dem Anhang zur Anlage ersichtlichen Fassung,
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dachdarbbv_12/BJNR0380A0024.html#BJNR0380A0024BJNE000400000)
 
 Diese Verordnung tritt am 1. März 2024 in Kraft und mit Ablauf des 31.
 Dezember 2025 außer Kraft.
@@ -92,6 +96,7 @@ Dezember 2025 außer Kraft.
 (zu § 1 Absatz 1)
 
 ## Anlage Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023
+[Direktlink](https://www.gesetze-im-internet.de/dachdarbbv_12/BJNR0380A0024.html#BJNR0380A0024BJNE000500000)
 
 (Fundstelle: BGBl. 2024 I Nr. 56, S. 3 - 6)
 (Text der Anlage siehe: TVMindestlohnDachd 12)

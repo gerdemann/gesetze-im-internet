@@ -27,82 +27,100 @@ Vierter teil - bgbl 2331-8 - aufgeh. durch
 
 
 ## Vierter Teil - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000101310)
 
 
 
 ### Kapitel II - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000201310)
 
 
 
 ### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE000701310)
 
 -
 
 
 #### I. - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000301310)
 
 
 
 #### (XXXX) §§ 2 bis 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE000801310)
 
 -
 
 
 #### II. - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000401310)
 
 
 
 #### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001101310)
 
 -
 
 
 #### (XXXX) §§ 6 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001201310)
 
 -
 
 
 #### III. - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000501310)
 
 
 
 #### (XXXX) §§ 9 bis 19 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001301310)
 
 -
 
 
 #### § 20 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001401310)
 
 -
 
 
 #### IV. - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000601310)
 
 
 
 #### (XXXX) §§ 21 und 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001501310)
 
 -
 
 
 #### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001701310)
 
 -
 
 
 ## Fünfter Teil - Handels- und Wirtschaftspolitik
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000100328)
 
 
 
 ### Kapitel I - Spar- und Girokassen, kommunale Kreditinstitute und Giroverbände sowie Girozentralen
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000200328)
 
 
 
 #### Art 1
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000300328)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001200328)
 
 (1) Die Landesregierungen sind ermächtigt und verpflichtet, alle
 Maßnahmen im Verordnungswege zu treffen, die erforderlich sind, um die
@@ -117,6 +135,7 @@ Girokassen.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001300328)
 
 (1) Die Spar- und Girokassen, die unselbständige Einrichtungen von
 Gemeinden, Gemeindeverbänden oder sonstigen öffentlichen
@@ -131,10 +150,12 @@ Verpflichtungen bestehen.
 
 
 #### (XXXX) §§ 3 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001400328)
 
 
 
 #### § 7
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001500328)
 
 Einem einzelnen Kreditnehmer darf an Personalkrediten insgesamt nicht
 mehr als 1 vom Hundert der gesamten Einlagen der Spar- oder Girokasse
@@ -144,6 +165,7 @@ Deutsche Mark nicht übersteigen.
 
 
 #### § 8
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001600328)
 
 Die Girozentralen sind zu Anstalten mit eigener Rechtspersönlichkeit
 umzugestalten; sie unterliegen der Aufsicht der für ihren Hauptsitz
@@ -156,15 +178,18 @@ Spar- und Girokassen, erfordert.
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001700328)
 
 -
 
 
 #### Art 2
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000400328)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001801377)
 
 (1) Der Deutsche Sparkassen- und Giroverband, Körperschaft des
 öffentlichen Rechts, unterstützt als Träger die
@@ -216,11 +241,13 @@ Verbindlichkeit.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNE001900328)
 
 -
 
 
 #### Art 3
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000500328)
 
 Für die aus Anlaß einer Auseinandersetzung nach
 Artikel 1 § 2 Abs. 2, § 8, Artikel 2 § 1 Abs. 3 Satz 5 erforderlichen
@@ -230,14 +257,17 @@ erhoben.
 
 
 #### Art 4
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000600328)
 
 
 
 #### Art 5
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000700328)
 
 
 
 #### Art 6
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000800328)
 
 (1)
 
@@ -246,6 +276,7 @@ Ausnahmen von den Vorschriften dieser Verordnung zulassen.
 
 
 #### Art 7
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG000900328)
 
 Die
 Reichsregierung ist ermächtigt, zur Durchführung dieses Kapitels
@@ -253,6 +284,7 @@ Rechtsverordnungen und allgemeine Verwaltungsvorschriften zu erlassen.
 
 
 #### Art 8
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG001000328)
 
 (1)
 
@@ -261,6 +293,7 @@ Verkündung in Kraft.
 
 
 #### Art 9
+[Direktlink](https://www.gesetze-im-internet.de/notv_3/BJNR005379931.html#BJNR005379931BJNG001100328)
 
 Artikel 1 gilt nicht für Länder, in denen eine entsprechende
 landesrechtliche Regelung besteht

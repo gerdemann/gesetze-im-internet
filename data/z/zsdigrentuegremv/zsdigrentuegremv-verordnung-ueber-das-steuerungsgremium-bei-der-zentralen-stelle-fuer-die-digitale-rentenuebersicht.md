@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000100000)
 
 Auf Grund des § 13 Absatz 2 Nummer 5 des Rentenübersichtsgesetzes vom
 11\. Februar 2021 (BGBl. I S. 154) verordnet die Bundesregierung:
 
 
 ## § 1 Zusammensetzung des Steuerungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000200000)
 
 (1) Das Steuerungsgremium nach § 9 Absatz 1 Satz 1 des
 Rentenübersichtsgesetzes besteht aus sechs Mitgliedern.
@@ -52,6 +54,7 @@ Rentenübersichtsgesetzes besteht aus sechs Mitgliedern.
 
 
 ## § 2 Berufung der Mitglieder des Steuerungsgremiums und deren stellvertretenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000300000)
 
 (1) Das Bundesministerium für Arbeit und Soziales beruft sein Mitglied
 des Steuerungsgremiums und dessen stellvertretende Person.
@@ -63,6 +66,7 @@ werden vom Bundesministerium für Arbeit und Soziales berufen.
 
 
 ## § 3 Nachfolge von Mitgliedern und stellvertretenden Personen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000400000)
 
 (1) Das Bundesministerium für Arbeit und Soziales kann jederzeit für
 sich ein neues Mitglied des Steuerungsgremiums oder eine neue
@@ -80,6 +84,7 @@ bisherige Mitglied oder die bisherige stellvertretende Person ab.
 
 
 ## § 4 Ehrenamtlichkeit der Tätigkeit im Steuerungsgremium
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000500000)
 
 Die Mitglieder und ihre stellvertretenden Personen üben ihre Tätigkeit
 im Steuerungsgremium ehrenamtlich aus. Sie haben für diese Tätigkeit
@@ -87,6 +92,7 @@ keinen Anspruch auf Vergütung oder Aufwandsentschädigung.
 
 
 ## § 5 Vorsitzende Person des Steuerungsgremiums
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000600000)
 
 (1) Das Mitglied des Bundesministeriums für Arbeit und Soziales ist
 die vorsitzende Person des Steuerungsgremiums.
@@ -96,17 +102,20 @@ stellvertretenden Person vertreten.
 
 
 ## § 6 Vertretung des Steuerungsgremiums nach außen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000700000)
 
 Die vorsitzende Person vertritt das Steuerungsgremium gegenüber der
 Zentralen Stelle für die Digitale Rentenübersicht und nach außen.
 
 
 ## § 7 Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000800000)
 
 Das Steuerungsgremium kann sich eine Geschäftsordnung geben.
 
 
 ## § 8 Leitung der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE000900000)
 
 (1) Die Sitzungen des Steuerungsgremiums werden von der vorsitzenden
 Person geleitet.
@@ -121,6 +130,7 @@ Person die Sitzung.
 
 
 ## § 9 Teilnahme der Zentralen Stelle für die Digitale Rentenübersicht an Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001000000)
 
 An den Sitzungen des Steuerungsgremiums können auch Vertreterinnen und
 Vertreter der Zentralen Stelle für die Digitale Rentenübersicht
@@ -128,6 +138,7 @@ teilnehmen.
 
 
 ## § 10 Nichtöffentlichkeit der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001100000)
 
 (1) Die Sitzungen des Steuerungsgremiums sind nicht öffentlich.
 
@@ -136,12 +147,14 @@ des Steuerungsgremiums teilnehmen.
 
 
 ## § 11 Beschlussfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001200000)
 
 Beschlussfähig ist das Steuerungsgremium, wenn mindestens drei Stimmen
 abgegeben werden können.
 
 
 ## § 12 Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001300000)
 
 (1) Das Steuerungsgremium fasst seine Beschlüsse in der Regel in
 seinen Sitzungen.
@@ -178,6 +191,7 @@ Gültigkeit mindestens dreier abgegebener Stimmen.
 
 
 ## § 13 Vertretung bei der Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001400000)
 
 (1) Nimmt ein Mitglied an einer Beschlussfassung des
 Steuerungsgremiums nicht teil, so wird sein Stimmrecht auf seine
@@ -193,6 +207,7 @@ Stimmabgabe der vorsitzenden Person anzuzeigen.
 
 
 ## § 14 Annahmefiktion für Beschlussvorlagen der Zentralen Stelle für die Digitale Rentenübersicht
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001500000)
 
 Hat das Steuerungsgremium zu einer Beschlussvorlage der Zentralen
 Stelle für die Digitale Rentenübersicht, die den Mitgliedern und den
@@ -203,6 +218,7 @@ der Sitzung als angenommen.
 
 
 ## § 15 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zsdigrent_gremv/BJNR182200021.html#BJNR182200021BJNE001600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

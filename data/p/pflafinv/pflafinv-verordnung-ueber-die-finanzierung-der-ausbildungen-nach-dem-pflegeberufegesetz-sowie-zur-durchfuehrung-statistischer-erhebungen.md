@@ -31,6 +31,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000100000)
 
 Auf Grund des § 55 Absatz 1 und des § 56 Absatz 3 des
 Pflegeberufegesetzes vom 17. Juli 2017 (BGBl. I S. 2581) verordnen das
@@ -41,9 +42,11 @@ im Benehmen mit dem Bundesministerium der Finanzen:
 
 
 ## Teil 1 - Finanzierung der beruflichen und der hochschulischen Ausbildung in der Pflege
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNG000101360)
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000301360)
 
 (1) Sektor im Sinne dieser Verordnung bezeichnet die jeweilige
 Gesamtheit der Pflegeeinrichtungen im Sinne des § 7 Absatz 1 Nummer 2
@@ -100,6 +103,7 @@ bestimmt ist.
 
 
 ### § 2 Rechtsträgerschaft bei staatlichen Pflegeschulen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000400000)
 
 Die Befugnis der Länder, für staatliche Pflegeschulen die
 Rechtsträgerschaft für das Finanzierungsverfahren nach dieser
@@ -108,6 +112,7 @@ dieser Rechtsträgerschaft auf die Kostenträger ist zulässig.
 
 
 ### § 3 Bestimmung der Ausbildungskosten und Bemessung von Pauschal- und Individualbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000501360)
 
 (1) Die bei der Finanzierung der Pflegeausbildung
 berücksichtigungsfähigen Ausbildungskosten sind anhand der in Anlage 1
@@ -137,6 +142,7 @@ Vorgaben vollständig durch die Ausbildungsbudgets finanziert werden.
 
 
 ### § 4 Unterschiedliche Pauschalen bei Pauschalbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000601360)
 
 (1) Werden Pauschalen nach § 30 des Pflegeberufegesetzes, auch in
 Verbindung mit § 39a Absatz 3 des Pflegeberufegesetzes, vereinbart,
@@ -156,6 +162,7 @@ Differenzierungskriterien.
 
 
 ### § 5 Mitteilungspflichten vor Festsetzung von Ausbildungsbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000702360)
 
 (1) Die Träger der praktischen Ausbildung und die Pflegeschulen haben
 der zuständigen Stelle bis zum 15. Juni des Festsetzungsjahres jeweils
@@ -210,6 +217,7 @@ Schülerzahl eine Klasse neu eingerichtet wird oder wegfällt.
 
 
 ### § 6 Zurückweisung unangemessener Ausbildungsvergütungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000800000)
 
 (1) Teilt ein Träger der praktischen Ausbildung der zuständigen Stelle
 eine unangemessen niedrige Ausbildungsvergütung mit, wirkt die
@@ -235,6 +243,7 @@ berücksichtigt wird.
 
 
 ### § 7 Zurückweisung unplausibler Angaben
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE000900000)
 
 (1) Die zuständige Stelle prüft die Plausibilität der mitgeteilten
 Auszubildenden- oder Schülerzahlen anhand der mitgeteilten Begründung
@@ -254,6 +263,7 @@ Ausbildungsbudget auf null fest.
 
 
 ### § 8 Festsetzung der Ausbildungsbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001000000)
 
 (1) Die zuständige Stelle setzt für jeden Träger der praktischen
 Ausbildung und für jede Pflegeschule das jeweilige Ausbildungsbudget
@@ -273,6 +283,7 @@ Ausbildungsbudget fest.
 
 
 ### § 9 Ermittlung des Finanzierungsbedarfs
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001101360)
 
 (1) Im Festsetzungsjahr 2019 setzt die zuständige Stelle zur Bildung
 einer Liquiditätsreserve einen Aufschlag von 3 Prozent auf die Summe
@@ -308,6 +319,7 @@ des Festsetzungsjahres fest und veröffentlicht diese.
 
 
 ### § 10 Mitteilungspflichten und Aufteilung des Finanzierungsbedarfs auf die Krankenhäuser
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001200000)
 
 (1) Die Landeskrankenhausgesellschaften teilen der zuständigen Stelle
 bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der
@@ -333,6 +345,7 @@ Absatz 1 beim jeweiligen Krankenhaus.
 
 
 ### § 11 Mitteilungspflichten zur Aufteilung des Finanzierungsbedarfs auf die Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001301360)
 
 (1) Die Landesverbände der Pflegekassen teilen der zuständigen Stelle
 bis zum 1. April des Festsetzungsjahres Name, Träger und Anschrift der
@@ -370,6 +383,7 @@ nach Satz 2 festlegen.
 
 
 ### § 12 Aufteilung des Finanzierungsbedarfs auf die Pflegeeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001401360)
 
 (1) Der Finanzierungsbedarf, der nach § 33 Absatz 1 Nummer 2 des
 Pflegeberufegesetzes durch die Pflegeeinrichtungen aufzubringen ist,
@@ -402,6 +416,7 @@ Differenzbetrag nach § 17 Absatz 1 der jeweiligen Einrichtung.
 
 
 ### § 13 Einzahlungen in den Ausgleichsfonds
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001502130)
 
 (1) Die Krankenhäuser und Pflegeeinrichtungen im Sinne des § 7 Absatz
 1 des Pflegeberufegesetzes zahlen den monatlichen Umlagebetrag für
@@ -435,6 +450,7 @@ Einzahlungen, abweichend von Satz 1 vereinbart werden.
 
 
 ### § 14 Höhe der Ausgleichszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001600000)
 
 (1) Die Höhe der Ausgleichszuweisung ergibt sich aus der
 Multiplikation der Zahl der Auszubildenden des jeweiligen Trägers der
@@ -450,6 +466,7 @@ der Schülerzahlen nach Beginn eines Schuljahres nicht.
 
 
 ### § 15 Zahlung der Ausgleichszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001700000)
 
 (1) Die Ausgleichszuweisungen werden zum letzten Tag jeden Monats an
 die Träger der praktischen Ausbildung und an die Pflegeschulen
@@ -464,6 +481,7 @@ Ausgleichszuweisung bis zum Eingang dieses Nachweises aus.
 
 
 ### § 16 Abrechnung der Ausgleichszuweisungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001800000)
 
 (1) Die Träger der praktischen Ausbildung und die Pflegeschulen legen
 der zuständigen Stelle die Abrechnung nach § 34 Absatz 5 und 6 des
@@ -479,6 +497,7 @@ Ausgleichszuweisung, insbesondere die Ausbildungsverträge, vorzulegen.
 
 
 ### § 17 Abrechnung der Umlagebeträge
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE001901360)
 
 (1) Die Krankenhäuser und Pflegeeinrichtungen im Sinne des § 7 Absatz
 1 des Pflegeberufegesetzes legen der zuständigen Stelle bis zum 30.
@@ -499,6 +518,7 @@ abgesehen hat, obwohl ihr eine Erhebung möglich gewesen wäre.
 
 
 ### § 18 Aufnahme und Aufgabe des Betriebs von Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002000000)
 
 (1) Nach dem 1. April des Festsetzungsjahres teilen die
 Landeskrankenhausgesellschaften der zuständigen Stelle unverzüglich
@@ -525,6 +545,7 @@ Umlagebeträgen für die Zukunft.
 
 
 ### § 19 Aufnahme und Aufgabe des Betriebs von Trägern der praktischen Ausbildung oder Pflegeschulen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002101360)
 
 (1) Wer den Betrieb eines Trägers der praktischen Ausbildung oder
 einer Pflegeschule nach § 9 und § 65 des Pflegeberufegesetzes aufnimmt
@@ -543,6 +564,7 @@ zu erfolgen.
 
 
 ### § 20 Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002200000)
 
 (1) Die zuständige Stelle stellt für das Sondervermögen für den
 Schluss eines jeden Finanzierungszeitraums je nach Rechtsform eine
@@ -556,9 +578,11 @@ aufzustellen.
 
 
 ## Teil 2 - Durchführung statistischer Erhebungen
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNG000200000)
 
 
 ### § 21 Art und Zweck, Umfang
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002301360)
 
 (1) Zur Darstellung und Bewertung der Pflegeausbildung sowie zur
 Beurteilung gesetzlicher Maßnahmen werden Erhebungen als
@@ -579,6 +603,7 @@ Bundesstatistik durchgeführt.
 
 
 ### § 22 Erhebungsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002402360)
 
 (1) Bei den Erhebungen nach § 21 Absatz 2 Nummer 1 werden Angaben zu
 folgenden Erhebungsmerkmalen erfasst:
@@ -657,6 +682,7 @@ vorgesehene Ausbildungsvergütung pro Ausbildungsjahr erfasst.
 
 
 ### § 23 Hilfsmerkmale
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002500000)
 
 Hilfsmerkmale sind:
 
@@ -675,6 +701,7 @@ Hilfsmerkmale sind:
 
 
 ### § 24 Periodizität, Berichtszeitraum und Berichtszeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002600000)
 
 (1) Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr
 (Berichtsjahr) durchgeführt, erstmals für das Jahr 2020.
@@ -688,6 +715,7 @@ Landesamt zu melden, erstmals zum 15. Februar 2021.
 
 
 ### § 25 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002700000)
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die
 Auskunftserteilung zu den Angaben nach § 23 Nummer 3 ist freiwillig.
@@ -696,6 +724,7 @@ Auskunftserteilung zu den Angaben nach § 23 Nummer 3 ist freiwillig.
 
 
 ### § 26 Übermittlung
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002800000)
 
 Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für
 Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen,
@@ -706,9 +735,11 @@ Tabellenfelder nur einen einzigen Fall ausweisen.
 
 
 ## Teil 3 - Verarbeitung personenbezogener Daten; Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNG000300000)
 
 
 ### § 27 Verarbeitung personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE002900000)
 
 (1) Die zuständige Stelle ist berechtigt, die in § 16 Absatz 2, § 23
 Nummer 3 und Anlage 2 enthaltenen personenbezogenen Daten zu
@@ -722,6 +753,7 @@ Danach sind sie zu löschen, sobald sie nicht mehr erforderlich sind.
 
 
 ### § 27a Datenverarbeitung nach § 62 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE003400360)
 
 Die zuständigen Stellen nach § 26 Absatz 4 des Pflegeberufegesetzes
 erheben die Angaben nach § 62 Absatz 2 des Pflegeberufegesetzes zum
@@ -738,17 +770,20 @@ Bundesministerium für Gesundheit übermittelt, erstmals zum 2. Mai
 
 
 ### § 28 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE003000000)
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE003100000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 3 Absatz 1, § 4 Absatz 1)
 
 ### Anlage 1 Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne die Mehrkosten der Ausbildungsvergütung nach § 27 Absatz 1 Satz 1 des Pflegeberufegesetzes und ohne die Kosten der Ausbildungsvergütung nach § 39a Absatz 1 des Pflegeberufegesetzes
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE003201360)
 
 (Fundstelle: BGBl. I 2018, 1628 - 1630;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1148,6 +1183,7 @@ zu finanzierenden Tatbestände der Pflegeausbildung
 (zu § 5 Absatz 1 Nummer 1)
 
 ### Anlage 2 Erforderliche Angaben zur Festsetzung der Ausbildungsbudgets
+[Direktlink](https://www.gesetze-im-internet.de/pflafinv/BJNR162200018.html#BJNR162200018BJNE003302360)
 
 (Fundstelle: BGBl. I 2018, 1631;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

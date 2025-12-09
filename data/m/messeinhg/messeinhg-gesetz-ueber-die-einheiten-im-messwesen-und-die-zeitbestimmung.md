@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000101310)
 
 (1) Im amtlichen und geschäftlichen Verkehr sind Größen in
 gesetzlichen Einheiten anzugeben, wenn für sie Einheiten in einer
@@ -57,6 +58,7 @@ und internationaler Übereinkommen ergeben.
 
 
 ## § 2 Gesetzliche Einheiten im Meßwesen
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000200304)
 
 Gesetzliche Einheiten im Meßwesen sind
 
@@ -71,6 +73,7 @@ Gesetzliche Einheiten im Meßwesen sind
 
 
 ## § 3 Ermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000305118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 zur Gewährleistung der Einheitlichkeit im Meßwesen auf der Grundlage
@@ -106,6 +109,7 @@ anzugeben.
 
 
 ## § 4 Gesetzliche Zeit
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE001000310)
 
 (1) Die gesetzliche Zeit ist die mitteleuropäische Zeit. Diese ist
 bestimmt durch die koordinierte Weltzeit unter Hinzufügung einer
@@ -118,6 +122,7 @@ Stunden.
 
 
 ## § 5 Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE001101118)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 zur besseren Ausnutzung der Tageshelligkeit und zur Angleichung der
@@ -135,6 +140,7 @@ doppelt erscheinenden Stunde.
 
 
 ## § 6 Physikalisch-Technische Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000402118)
 
 (1) Die Physikalisch-Technische Bundesanstalt ist eine
 bundesunmittelbare, nicht rechtsfähige Anstalt des öffentlichen Rechts
@@ -190,10 +196,12 @@ Einheitlichkeit des Messwesens zu sichern.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE001205301)
 
 
 
 ## § 8 Zuständige Behörden
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000501310)
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen
 die für die Durchführung dieses Gesetzes zuständigen Behörden, soweit
@@ -201,6 +209,7 @@ nicht die Physikalisch-Technische Bundesanstalt zuständig ist.
 
 
 ## § 9 Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000601310)
 
 Die für die Einhaltung der Vorschriften dieses Gesetzes
 verantwortlichen Personen haben der zuständigen Behörde die für die
@@ -214,6 +223,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ## § 10 Bußgeldvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/messeinhg/BJNR007090969.html#BJNR007090969BJNE000701310)
 
 (1) Ordnungswidrig handelt, wer
 

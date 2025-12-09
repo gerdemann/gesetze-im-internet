@@ -19,11 +19,13 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000100326)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000200326)
 
 (1) § 11 des Gesetzes zur Regelung von Ansprüchen aus Lebens- und
 Rentenversicherungen in der Fassung vom 15. Juli 1959 bleibt auf
@@ -65,6 +67,7 @@ von Ansprüchen aus Lebens- und Rentenversicherungen vom 6. Juli 1959
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000300326)
 
 (1) Verpflichtet sich ein Lebensversicherungsunternehmen, die
 Verbindlichkeiten von Versicherungsunternehmen zu erfüllen, die ihren
@@ -105,17 +108,20 @@ dieses Gesetzes geltend gemacht werden konnten.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000400326)
 
 -
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000500326)
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/versansprreglg_ndg_2/BJNR003290964.html#BJNR003290964BJNE000600326)
 
 Dieses Gesetz tritt am ersten Tage des auf seine Verkündung folgenden
 zweiten Monats in Kraft.

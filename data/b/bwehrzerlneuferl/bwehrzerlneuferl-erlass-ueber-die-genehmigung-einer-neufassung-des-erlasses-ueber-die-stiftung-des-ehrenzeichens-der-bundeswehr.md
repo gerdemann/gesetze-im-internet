@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bwehrzerlneuferl/BJNR192000008.html#BJNR192000008BJNE000100000)
 
 Der Bundesminister der Verteidigung hat am 13. August 2008 den Erlass
 vom 6. November 1980 über die Stiftung des Ehrenzeichens der
@@ -36,6 +37,7 @@ Bundesanzeiger.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bwehrzerlneuferl/BJNR192000008.html#BJNR192000008BJNE000200000)
 
 Der Bundespräsident
 

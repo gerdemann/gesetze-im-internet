@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Art 1 Rechtsfähigkeit des Rates des Anpassungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kyotoprotanpfondsg/BJNR014520011.html#BJNR014520011BJNE000100000)
 
 (1) Der Rat des Anpassungsfonds, das durch die
 Vertragsstaatenkonferenz des Protokolls von Kyoto vom 11. Dezember
@@ -41,6 +42,7 @@ durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
 
 
 ## Art 2 Gelder, Guthaben und sonstige Vermögenswerte des Rates des Anpassungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kyotoprotanpfondsg/BJNR014520011.html#BJNR014520011BJNE000200000)
 
 Artikel 9 des Abkommens vom 10. November 1995 zwischen der
 Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz
@@ -62,6 +64,7 @@ den Sitz des Sekretariats des Übereinkommens (BGBl. 2009 II S. 294,
 
 
 ## Art 3 Immunität der Mitglieder des Rates des Anpassungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/kyotoprotanpfondsg/BJNR014520011.html#BJNR014520011BJNE000300000)
 
 Artikel 5 des UNFCCC/KP-Sitzabkommens wird auf die Mitglieder des
 Rates des Anpassungsfonds und ihre Vertreter entsprechend angewandt.
@@ -71,6 +74,7 @@ verantwortlich.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kyotoprotanpfondsg/BJNR014520011.html#BJNR014520011BJNE000400000)
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

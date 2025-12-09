@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000100000)
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
@@ -33,6 +34,7 @@ und Arbeit:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000200000)
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
 durch die berufliche Fortbildung zum Geprüften Technischen
@@ -72,6 +74,7 @@ Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -97,6 +100,7 @@ sind, die eine Zulassung zur Prüfung rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000400000)
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -133,6 +137,7 @@ Absatz 1 Nr. 1 und 2 begonnen werden.
 
 
 ## § 4 Wirtschaftliches Handeln und betrieblicher Leistungsprozess
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000501128)
 
 (1) Der Prüfungsteil "Wirtschaftliches Handeln und betrieblicher
 Leistungsprozess" gliedert sich in folgende Prüfungsbereiche:
@@ -344,6 +349,7 @@ gewichtet.
 
 
 ## § 5 Management und Führung
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000601128)
 
 (1) Der Prüfungsteil "Management und Führung" umfasst die
 Handlungsbereiche:
@@ -785,6 +791,7 @@ mindestens 30 Minuten, höchstens 45 Minuten zu gewähren.
 
 
 ## § 6 Fachübergreifender technikbezogener Prüfungsteil
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000701128)
 
 (1) Im Prüfungsteil "Fachübergreifender technikbezogener Prüfungsteil"
 soll die Fähigkeit nachgewiesen werden, komplexe, praxisorientierte
@@ -816,6 +823,7 @@ mindestens ausreichende Leistungen erbracht wurden.
 
 
 ## § 7 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000801128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -831,6 +839,7 @@ Absatz 3 ist nicht zulässig.
 
 
 ## § 8 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE000902128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -879,6 +888,7 @@ werden gewichtet:
 
 
 ## § 9 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen
 jeweils mindestens 50 Punkte erreicht worden sind.
@@ -926,6 +936,7 @@ ist die Gesamtnote.
 
 
 ## § 10 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001600128)
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -952,6 +963,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 11 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001001128)
 
 (1) Jeder nicht bestandene Prüfungsteil, kann zweimal wiederholt
 werden.
@@ -971,6 +983,7 @@ ebenfalls als neue Aufgabe gestellt werden.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001101128)
 
 Begonnene Prüfungsverfahren zum Technischen Betriebswirt (IHK)/zur
 Technischen Betriebswirtin (IHK) können bis zum 31. Mai 2007 nach den
@@ -983,12 +996,14 @@ der bisherigen Vorschriften beantragt werden.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001201128)
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
 (zu den §§ 8 und 9)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2255 – 2256)
 
@@ -1290,6 +1305,7 @@ Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 (zu § 10)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/tbetrwprv/BJNR290700004.html#BJNR290700004BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2256 – 2257)
 

@@ -24,10 +24,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000101310)
 
 
 
 ### § 1 Begriff des Verfolgten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001101310)
 
 (1) Wer in der Zeit vom 8. Mai 1945 bis zum 2. Oktober 1990
 
@@ -64,6 +66,7 @@ erfolgt sein.
 
 
 ### § 2 Verfolgungszeit
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001201310)
 
 (1) Verfolgungszeit ist
 
@@ -88,6 +91,7 @@ Verfolgungszeit.
 
 
 ### § 3 Verfolgte Schüler
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001304116)
 
 (1) Wer in dem in § 1 Abs. 1 genannten Zeitraum infolge einer Maßnahme
 nach § 1 Abs. 1 Nr. 1 bis 3
@@ -120,6 +124,7 @@ Die Regelung über Verfolgungszeiten als Anrechnungszeiten in § 12 Abs.
 
 
 ### § 4 Ausschließungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001401310)
 
 Leistungen nach diesem Gesetz werden nicht gewährt, wenn der Verfolgte
 gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit
@@ -128,6 +133,7 @@ Vorteil oder zum Nachteil anderer mißbraucht hat.
 
 
 ### § 5 Ausschluß von Ansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001501310)
 
 Andere Ansprüche wegen einer aus politischen Gründen erfolgten
 Benachteiligung im Beruf oder in der Ausbildung sind ausgeschlossen,
@@ -136,10 +142,12 @@ Grundgesetzes betreffen.
 
 
 ## Zweiter Abschnitt - Bevorzugte berufliche Fortbildung und Umschulung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000202310)
 
 
 
 ### § 6 Arbeitslosengeld bei beruflicher Weiterbildung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001606310)
 
 (1) Verfolgte, die an nach § 81 Absatz 1 Nummer 3 in Verbindung mit
 den §§ 176 bis 180 des Dritten Buches Sozialgesetzbuch für die
@@ -166,6 +174,7 @@ dieser Leistung betreffen, entsprechend anzuwenden.
 
 
 ### § 7 Erstattung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001704310)
 
 Verfolgte, die an nach den Vorschriften des Dritten Buches
 Sozialgesetzbuch für die Weiterbildungsförderung zugelassenen
@@ -177,10 +186,12 @@ Sozialgesetzbuch erstattet.
 
 
 ## Dritter Abschnitt - Ausgleichsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000301310)
 
 
 
 ### § 8 Anspruchsvoraussetzungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001810130)
 
 (1) Verfolgte mit Wohnsitz oder gewöhnlichem Aufenthalt im
 Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen Lage
@@ -240,6 +251,7 @@ dem auf die Antragstellung folgenden Monat, gezahlt.
 
 
 ### § 9 Anrechnungsfreiheit, Unpfändbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE001901310)
 
 (1) Ausgleichsleistungen nach diesem Abschnitt werden bei
 Sozialleistungen, deren Gewährung vom Einkommen abhängig ist, nicht
@@ -249,14 +261,17 @@ als Einkommen angerechnet.
 
 
 ## Vierter Abschnitt - Ausgleich von Nachteilen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000401310)
 
 
 
 ### Erster Unterabschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000501310)
 
 
 
 #### § 10 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002001310)
 
 Die Vorschriften dieses Abschnitts ergänzen zugunsten des Verfolgten
 die allgemein anzuwendenden rentenrechtlichen Vorschriften. Leistungen
@@ -265,10 +280,12 @@ sie auch von Amts wegen erbracht werden.
 
 
 ### Zweiter Unterabschnitt - Renten nach den Vorschriften des Sechsten Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000601310)
 
 
 
 #### § 11 Verfolgungszeiten als Pflichtbeitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002102320)
 
 Für Verfolgungszeiten, in denen der Verfolgte eine die Versicherungs-
 und Beitragspflicht begründende Beschäftigung oder selbständige
@@ -283,6 +300,7 @@ ein höherer Wert ergibt.
 
 
 #### § 11a Kindererziehungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE004100116)
 
 (1) Für die Anrechnung oder Berücksichtigung von Kindererziehung
 gelten Verfolgungszeiten nach § 2 Absatz 1 Satz 1 Nummer 1 als Zeiten
@@ -309,6 +327,7 @@ gilt entsprechend.
 
 
 #### § 12 Verfolgungszeiten als Anrechnungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002201310)
 
 (1) Hat der Verfolgte wegen einer Verfolgungsmaßnahme seine
 Fachschulausbildung oder Hochschulausbildung nicht abschließen können,
@@ -324,6 +343,7 @@ Höchstdauer anzuerkennen.
 
 
 #### § 13 Entgeltpunkte für Verfolgungszeiten als Pflichtbeitragszeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002302320)
 
 (1) Zur Ermittlung von Entgeltpunkten für Verfolgungszeiten werden für
 ein Kalenderjahr als Beitragsbemessungsgrundlage
@@ -422,10 +442,12 @@ nach den Absätzen 1 bis 3 zugrunde gelegt.
 
 
 ### Dritter Unterabschnitt - Renten nach den Vorschriften des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000701310)
 
 
 
 #### § 14 Verfolgungszeiten als rentenrechtliche Zeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002401310)
 
 (1) Verfolgungszeiten gelten als
 
@@ -472,6 +494,7 @@ ist.
 
 
 #### § 15 Durchschnittseinkommen für Verfolgungszeiten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002502320)
 
 (1) Bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens
 der letzten 20 Jahre vor Ende der letzten versicherungspflichtigen
@@ -491,10 +514,12 @@ entsprechende Anwendung.
 
 
 ### Vierter Unterabschnitt - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000801310)
 
 
 
 #### § 16 Rentenleistungen vor dem 1. Juli 1994
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002601310)
 
 Wird zum Zeitpunkt der Anerkennung als Verfolgter eine Rente geleistet
 oder besteht auf Grund der Anerkennung als Verfolgter erstmals
@@ -503,10 +528,12 @@ Bezugs, frühestens für die Zeit vom 1. Juli 1990 an, zu leisten.
 
 
 ## Fünfter Abschnitt - Zuständigkeit und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG000901310)
 
 
 
 ### § 17 Rehabilitierungsbescheinigung und Behördenzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002702116)
 
 (1) Der Nachweis darüber, daß die Voraussetzungen des § 1 Absatz 1,
 des § 3 Absatz 1 oder des § 11a Absatz 3 vorliegen und daß
@@ -526,6 +553,7 @@ befaßt worden ist.
 
 
 ### § 18 Vorläufige Rehabilitierungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002801310)
 
 (1) Erfordert die Erteilung einer Bescheinigung nach § 17 Abs. 1
 voraussichtlich längere Zeit, kann die Rehabilitierungsbehörde als
@@ -542,6 +570,7 @@ Eides Statt verlangen und abnehmen.
 
 
 ### § 19 Verarbeitung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE002902116)
 
 Personenbezogene Daten aus einem beruflichen Rehabilitierungsverfahren
 dürfen auch für andere Verfahren zur Rehabilitierung, Wiedergutmachung
@@ -550,6 +579,7 @@ erforderlich verarbeitet werden.
 
 
 ### § 20 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003009116)
 
 Der Antrag auf Erteilung einer Bescheinigung nach § 17 Absatz 1 kann
 von dem Verfolgten gestellt werden und nach dessen Tod von seinen
@@ -559,6 +589,7 @@ Rehabilitierungsbehörde zu stellen.
 
 
 ### § 21 Inhalt des Antrags
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003102116)
 
 Der Antrag soll enthalten
 
@@ -589,6 +620,7 @@ Der Antrag soll enthalten
 
 
 ### § 22 Inhalt der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003202116)
 
 (1) Die Bescheinigung hat in den Fällen des § 1 folgende Angaben zu
 enthalten:
@@ -683,10 +715,12 @@ an die in der Bescheinigung enthaltenen Feststellungen gebunden.
 
 
 ### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003308116)
 
 
 
 ### § 24 Zuständigkeit für Leistungen nach dem Zweiten und Dritten Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003403310)
 
 (1) Leistungen nach dem Zweiten Abschnitt werden von der Bundesagentur
 für Arbeit als einem für diese Aufgabe entliehenen Organ des Landes,
@@ -698,6 +732,7 @@ und 99 Abs. 1 des Zwölften Buches Sozialgesetzbuch) zuständig.
 
 
 ### § 25 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003503116)
 
 (1) In dem Verfahren vor der Rehabilitierungsbehörde sind Zeugen zur
 Aussage und Sachverständige zur Erstattung von Gutachten verpflichtet.
@@ -729,6 +764,7 @@ hiervon sind Fälle nach § 8 Absatz 4.
 
 
 ### § 26 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003601310)
 
 Das Verwaltungsverfahren vor den Rehabilitierungsbehörden
 einschließlich des Widerspruchsverfahrens ist kostenfrei. Wurde ein
@@ -738,6 +774,7 @@ auferlegt werden.
 
 
 ### § 27 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003702310)
 
 (1) In Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben. Die Berufung gegen ein Urteil und die Beschwerde gegen eine
@@ -756,10 +793,12 @@ Sozialgerichtsbarkeit.
 
 
 ## Sechster Abschnitt - Kostenregelung
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG001001310)
 
 
 
 ### § 28 Kosten für Leistungen nach dem Zweiten Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003801310)
 
 (1) Von den Aufwendungen, die den Ländern durch Geldleistungen nach
 dem Zweiten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
@@ -768,16 +807,19 @@ dem Zweiten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
 
 
 ### § 29 Kosten für Leistungen nach dem Dritten Abschnitt
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE003901310)
 
 Von den Aufwendungen, die den Ländern durch Leistungen nach dem
 Dritten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
 
 
 ## Siebter Abschnitt - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNG001101310)
 
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/berrehag/BJNR131400994.html#BJNR131400994BJNE004001310)
 
 (weggefallen)
 

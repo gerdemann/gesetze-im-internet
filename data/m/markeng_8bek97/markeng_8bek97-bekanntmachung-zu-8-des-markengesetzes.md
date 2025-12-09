@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek97/BJNR055100997.html#BJNR055100997BJNE000100320)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die
@@ -44,6 +45,7 @@ Bundesministerium der Justiz
 
 
 ## Anlage 1 Name, Abkürzung und Emblem der Internationalen Organisation für Auswanderung
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek97/BJNR055100997.html#BJNR055100997BJNE000200320)
 
 (Fundstelle: BGBl. I 1997, 552)
 
@@ -56,6 +58,7 @@ Emblem:
 
 
 ## Anlage 2 Flagge, Name und Abkürzung der Internationalen Fernmeldeunion sowie Namen und Abkürzungen ihrer drei Bereiche
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek97/BJNR055100997.html#BJNR055100997BJNE000300320)
 
 (Fundstelle: BGBl. I 1997, 553)
 
@@ -92,6 +95,7 @@ Sector de Desarrollo de las Telecomunicaciones (UIT-D)
 
 
 ## Anlage 3 Emblem und Siegel der Multilateralen Investitions-Garantie-Agentur
+[Direktlink](https://www.gesetze-im-internet.de/markeng_8bek97/BJNR055100997.html#BJNR055100997BJNE000400320)
 
 (Inhalt: nicht darstellbares Emblem und Siegel,
 Fundstelle: BGBl. I 1997, 554)

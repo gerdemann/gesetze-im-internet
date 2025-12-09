@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE000600315)
 
 Auf Grund des § 1 Abs. 4 in Verbindung mit § 72 Abs. 2 des
 Soldatengesetzes vom 19. März 1956 (Bundesgesetzbl. I S. 114) wird
@@ -27,10 +28,12 @@ verordnet:
 
 
 ## I. - Vorgesetztenverhältnis auf Grund der Dienststellung
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNG000100315)
 
 
 
 ### § 1 Unmittelbare Vorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE000700315)
 
 (1) Ein Soldat, der einen militärischen Verband, eine militärische
 Einheit oder Teileinheit führt oder der eine militärische Dienststelle
@@ -43,6 +46,7 @@ Vorgesetzte nicht eingreifen.
 
 
 ### § 2 Fachvorgesetzte
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE000800315)
 
 Ein Soldat, dem nach seiner Dienststellung die Leitung des Fachdiensts
 von Soldaten obliegt, hat die Befugnis, ihnen im Dienst zu
@@ -50,6 +54,7 @@ fachdienstlichen Zwecken Befehle zu erteilen.
 
 
 ### § 3 Vorgesetzte mit besonderem Aufgabenbereich
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE000900315)
 
 Ein Soldat, dem nach seiner Dienststellung ein besonderer
 Aufgabenbereich zugewiesen ist, hat im Dienst die Befugnis, anderen
@@ -60,10 +65,12 @@ befinden.
 
 
 ## II. - Vorgesetztenverhältnis auf Grund des Dienstgrads
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNG000200315)
 
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE001001315)
 
 (1) In den Kompanien und in den entsprechenden Einheiten sowie
 innerhalb der Besatzung eines Schiffes steht die Befugnis, im Dienst
@@ -98,10 +105,12 @@ Dienstgradgruppe in und außer Dienst Befehle erteilen.
 
 
 ## III. - Vorgesetztenverhältnis auf Grund besonderer Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNG000300315)
 
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE001100315)
 
 (1) Ein Vorgesetzter kann innerhalb seiner Befehlsbefugnis Untergebene
 einem Soldaten für eine bestimmte Aufgabe vorübergehend unterstellen.
@@ -116,10 +125,12 @@ Aufgabe notwendig sind.
 
 
 ## IV. - Vorgesetztenverhältnis auf Grund eigener Erklärung
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNG000400315)
 
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE001200315)
 
 (1) Ein Offizier oder Unteroffizier kann sich in und außer Dienst über
 andere Soldaten, die im Dienstgrad nicht über ihm stehen, zum
@@ -150,15 +161,18 @@ eingreifen.
 
 
 ## V. - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNG000500315)
 
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE001300315)
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/svorgesv/BJNR004590956.html#BJNR004590956BJNE001400315)
 
 Der Bundesminister für Verteidigung
 

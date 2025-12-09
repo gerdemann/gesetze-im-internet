@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000100305)
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
 1996 (BGBl. I S. 1120) in Verbindung mit Artikel 56 Abs. 1 des
@@ -32,6 +33,7 @@ und dem Bundesministerium der Justiz:
 
 
 ## § 1 Beitragspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000200305)
 
 (1) Beitragspflichtig für die in § 48 Abs. 2 des
 Telekommunikationsgesetzes genannten Aufwendungen ist jeder Inhaber
@@ -62,6 +64,7 @@ ausgeschlossen.
 
 
 ## § 2 Beitragsbefreiungen
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000300305)
 
 (1) Von der Zahlung der Beiträge sind befreit:
 
@@ -123,6 +126,7 @@ erhoben.
 
 
 ## § 3 Ermittlung des Aufwands und Festlegung von Jahresbeiträgen
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000401308)
 
 (1) Der durch Beiträge abzugeltende Personal- und Sachaufwand wird von
 der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
@@ -148,6 +152,7 @@ Eisenbahnen maßgeblich.
 
 
 ## § 3a Selbstbehalt
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE001300308)
 
 Von dem durch Beiträge abzugeltenden Personal- und Sachaufwand trägt
 der Bund 20 vom Hundert als Selbstbehalt zur Abgeltung des
@@ -157,6 +162,7 @@ Selbstbehalt nach Satz 1 zu berücksichtigen.
 
 
 ## § 4 Ermittlung des Aufwands und Festlegung von Jahresbeiträgen für neue Nutzergruppen
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000500305)
 
 (1) Der durch Beiträge abzugeltende Aufwand wird durch die
 Regulierungsbehörde erstmalig in dem Kalenderjahr erfasst, in dem für
@@ -173,6 +179,7 @@ dem Jahr der Berechnung nachfolgende Kalenderjahr festgelegt.
 
 
 ## § 5 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000600305)
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheides,
 wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 16 des
@@ -181,6 +188,7 @@ sinngemäß anzuwenden.
 
 
 ## § 6 Säumniszuschlag
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000700305)
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
@@ -188,12 +196,14 @@ Verwaltungskostengesetzes erhoben.
 
 
 ## § 7 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000800305)
 
 Für die Verjährung des Anspruchs auf Zahlung von Beiträgen gilt § 20
 des Verwaltungskostengesetzes entsprechend.
 
 
 ## § 8 Erstattung von Beitragsanteilen
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE000900305)
 
 Für Zeiten innerhalb eines Kalenderjahres, für die keine
 Beitragspflicht nach § 1 Abs. 2 bestand, werden gezahlte
@@ -202,6 +212,7 @@ erstattet oder mit der nächsten Beitragszahlung verrechnet.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE001001308)
 
 (1) Beiträge für die Jahre 1998 und 1999, die nach der
 Frequenznutzungsbeitragsverordnung vom 19. November 1996 (BGBl. I S.
@@ -219,11 +230,13 @@ Beitragsermittlung und Beitragsfestsetzung § 1 Abs. 3 und § 4.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE001100305)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE001200305)
 
 (Fundstelle: BGBl. I 2000, 1706 - 1708)
 
@@ -844,6 +857,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
 
 
 ## Anlage 2
+[Direktlink](https://www.gesetze-im-internet.de/fbeitrv_2000/BJNR170400000.html#BJNR170400000BJNE001400308)
 
 (Fundstelle: BGBl. I 2002, 2226 - 2228)
 

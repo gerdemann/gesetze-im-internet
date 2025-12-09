@@ -27,6 +27,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
@@ -39,6 +40,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000200000)
 
 Der Ausbildungsberuf des Keramikers und der Keramikerin wird nach § 25
 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 43,
@@ -47,11 +49,13 @@ anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000400000)
 
 Die Berufsausbildung gliedert sich in
 
@@ -70,6 +74,7 @@ Die Berufsausbildung gliedert sich in
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -176,6 +181,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -197,6 +203,7 @@ durchzusehen.
 
 
 ## § 6 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000700000)
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung
 durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres
@@ -337,6 +344,7 @@ folgende Vorgaben:
 
 
 ## § 7 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000801377)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung
@@ -665,6 +673,7 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE000900000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
@@ -673,12 +682,14 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE001000000)
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 (zu § 4 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Keramiker und zur Keramikerin
+[Direktlink](https://www.gesetze-im-internet.de/kerausbv_2009/BJNR117700009.html#BJNR117700009BJNE001100000)
 
 (Fundstelle: BGBl. I 2009, 1181 -1186)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ewgfinbeistg/BJNR021560971.html#BJNR021560971BJNE000100326)
 
 (1) Hat die Bundesrepublik Deutschland im Rahmen des Mechanismus für
 den mittelfristigen finanziellen Beistand, der vom Rat der
@@ -38,6 +39,7 @@ der Deutschen Bundesbank erfüllt.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ewgfinbeistg/BJNR021560971.html#BJNR021560971BJNE000200326)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -45,6 +47,7 @@ im Land Berlin.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ewgfinbeistg/BJNR021560971.html#BJNR021560971BJNE000300326)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -43,16 +43,19 @@ Erzeugnisse des Weinsektors:
 
 
 ## Abschnitt 1 - Weinanbaugebiet
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG000303310)
 
 
 
 ### § 1 (wegefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000406310)
 
 -
 
 Landweingebiete
 
 ### § 2 (zu § 3 Absatz 2 Satz 1 Nummer 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000508310)
 
 Für die Bezeichnung von Landwein werden folgende Gebiete festgelegt:
 
@@ -138,16 +141,19 @@ Für die Bezeichnung von Landwein werden folgende Gebiete festgelegt:
 
 
 ### § 2a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008203310)
 
 -
 
 
 ## Abschnitt 2 - Anbauregeln
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG005703310)
 
 
 Formular für Anträge auf Genehmigung einer Neuanpflanzung
 
 ### § 3 (zu § 7c Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000607116)
 
 Anträge nach § 7c Absatz 1 Satz 1 des Weingesetzes sind auf dem von
 der Bundesanstalt für Landwirtschaft und Ernährung bereitgestellten
@@ -157,6 +163,7 @@ bereitgestellt sein.
 Nachweis des Vorliegens von Prioritätskriterien
 
 ### § 4 (zu § 7c Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000707116)
 
 (1) Der Nachweis, dass das in § 7b Absatz 1 Satz 1 des Weingesetzes
 festgelegte Prioritätskriterium erfüllt ist, ist durch Vorlage
@@ -187,6 +194,7 @@ Bepflanzung beantragten Fläche zu ermitteln.
 Härtefallregelung für Neuanpflanzungen
 
 ### § 5 (zu § 7c Absatz 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000807116)
 
 (1) Einem Erzeuger, dem eine Genehmigung nach § 7c Absatz 1 Satz 1 des
 Weingesetzes erteilt worden ist, kann auf Antrag gestattet werden, die
@@ -228,6 +236,7 @@ steht.
 Erzeugnisse aus Versuchsanbau
 
 ### § 6 (zu § 7e Absatz 2 Satz 2 und § 7f des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE010001116)
 
 (1) Die Anpflanzung oder Wiederbepflanzung von Flächen im Sinne von
 Artikel 3 Absatz 2 Unterabsatz 1 der Delegierten Verordnung (EU)
@@ -270,19 +279,23 @@ geografischen Angabe in Betracht kommen.
 
 
 ### (XXXX) §§ 7 bis 7a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE000909119)
 
 
 
 ### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001111130)
 
 
 
 ### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001204310)
 
 
 Hektarertragsregelung
 
 ### § 10 (zu § 12 Absatz 1 Nummer 1, 2 und 5 und Absatz 2 und § 33 Nummer 2 i.V.m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001305116)
 
 (1) Für die Umrechnung der Mengen nach § 9 Absatz 2 Satz 2 in
 Verbindung mit § 2 Nummer 8 und nach § 9a Absatz 1 Satz 2 des
@@ -329,6 +342,7 @@ Ertragsrebfläche im Sinne des § 2 Nummer 7 des Weingesetzes gelten.
 Destillation
 
 ### § 10a (zu § 12 Absatz 1 Nummer 6 und § 30 Satz 1 Nummer 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008904116)
 
 (1) Die Destillation von Wein, der nach § 11 Absatz 1 Satz 1 des
 Weingesetzes zu destillieren ist, darf nur in einer zugelassenen
@@ -361,11 +375,13 @@ lesbar die Worte "Wein - nur zur Destillation nach § 11 Absatz 1 Satz
 
 
 ## Abschnitt 3 - Verarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG005803310)
 
 
 Behandlungsverfahren und Behandlungsstoffe
 
 ### § 11 (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001413116)
 
 (1) Bei den zur Herstellung von weinhaltigen Getränken bestimmten
 Erzeugnissen dürfen nur die nach Artikel 80 Absatz 1 der Verordnung
@@ -442,11 +458,13 @@ nicht angewendet werden.
 
 
 ### § 12 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001505116)
 
 
 Behandlungsverfahren und Gehalt an Stoffen
 
 ### § 13 (zu § 13 Absatz 3 Nummer 1 und 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009122116)
 
 (1) Solange und soweit nicht auf Grund anderer Rechtsvorschriften
 etwas Abweichendes bestimmt ist, dürfen Erzeugnisse, wenn sie in den
@@ -619,10 +637,12 @@ werden.
 
 
 ### § 13a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008107119)
 
 
 
 ### § 14 Hygienische Anforderungen\*%(zu § 16 Absatz 3 Nummer 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001710310)
 
 Erzeugnisse dürfen nur unter Beachtung der Anforderungen des § 3 der
 Lebensmittelhygiene-Verordnung gewerbsmäßig verarbeitet, befördert,
@@ -631,6 +651,7 @@ gelagert, verwertet oder in den Verkehr gebracht werden.
 Erhöhung des natürlichen Alkoholgehaltes
 
 ### § 15 (zu § 15 Nummer 1, 3 bis 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001815116)
 
 (1) Der im gärfähig befüllten Behältnis festgestellte natürliche
 Alkoholgehalt von gemaischten Rotweintrauben, Traubenmost, teilweise
@@ -704,6 +725,7 @@ Verordnung (EU) 2019/934 zugelassen.
 Süßung
 
 ### § 16 (zu § 15 Nummer 2 und 3, § 22 Absatz 2 Nummer 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE001909116)
 
 (1) Qualitätswein oder Prädikatswein darf nach Maßgabe des Anhangs I
 Teil D Nummer 1 und 3 der Delegierten Verordnung (EU) 2019/934 nur mit
@@ -722,15 +744,18 @@ Traubenmost aus Rotweintrauben verwendet werden.
 
 
 ### § 16a (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009701119)
 
 
 
 ### § 17 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002005116)
 
 
 Weitere Verarbeitungsregeln
 
 ### § 18 (zu § 15 Nummer 3 und § 16 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009209116)
 
 (1) Soweit in Rechtsakten der Europäischen Gemeinschaft oder
 Europäischen Union nichts anderes bestimmt ist, dürfen Weißweintrauben
@@ -881,6 +906,7 @@ Weinbauzone B zu ermitteln ist, nicht unterschreiten.
 
 
 ## Abschnitt 4 - Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A., Qualitätslikörwein b.A. oder Landwein
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG005904116)
 
 
 Herstellen von Qualitätswein, Prädikatswein, Sekt b. A.,
@@ -888,6 +914,7 @@ Qualitätsperlwein b. A. oder Qualitätslikörwein b. A. außerhalb des
 bestimmten Anbaugebietes
 
 ### § 19 (zu § 17 Absatz 2 Nummer 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002211116)
 
 Qualitätswein, Prädikatswein, Sekt b. A., Qualitätsperlwein b. A. oder
 Qualitätslikörwein b. A. darf in einem anderen Gebiet hergestellt
@@ -915,6 +942,7 @@ worden sind und das in der Kennzeichnung angegeben wird, sofern
 Herstellen von Landwein außerhalb des Landweingebietes
 
 ### § 20 (zu § 22 Absatz 2 Nummer 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002309116)
 
 Landwein darf nach Maßgabe des Artikels 5 Absatz 1 Buchstabe b der
 Delegierten Verordnung (EU) 2019/33 der Kommission vom 17. Oktober
@@ -933,6 +961,7 @@ Land liegt.
 Vorübergehende Änderung einer Produktspezifikation
 
 ### § 20a (zu § 22c Absatz 9 Satz 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007306116)
 
 (1) Anträge auf vorübergehende Änderung einer Produktspezifikation
 sind schriftlich oder elektronisch bei der Bundesanstalt für
@@ -1005,6 +1034,7 @@ Bewilligungsbescheides nach Absatz 6 an die Kommission weiter.
 Qualitätsprüfung
 
 ### § 21 (zu § 21 Absatz 1 Nummer 1 i.V.m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002414116)
 
 (1) Eine Prüfungsnummer wird einem Qualitätswein, Prädikatswein, Sekt
 b.A., Sekt, Qualitätsperlwein b.A. oder Qualitätslikörwein b.A.
@@ -1055,6 +1085,7 @@ nach § 15 Absatz 2 erhöht worden ist, einen bestimmten Wert nicht
 Antrag auf Erteilung einer Prüfungsnummer
 
 ### § 22 (zu § 21 Absatz 1 Nummer 1 und 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002512360)
 
 (1) Eine Prüfungsnummer kann beantragen:
 
@@ -1123,6 +1154,7 @@ des Erzeugnisses eingeleitet hat.
 Untersuchungsbefund
 
 ### § 23 (zu § 21 Absatz 1 Nummer 3 i.V.m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002606310)
 
 (1) Mit dem Antrag auf Erteilung einer Prüfungsnummer ist unbeschadet
 des § 22 Absatz 5 von dem abgefüllten Erzeugnis ein
@@ -1166,6 +1198,7 @@ hat.
 Prüfungsverfahren
 
 ### § 24 (zu § 16 Absatz 2 Satz 1, § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 6 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002710116)
 
 (1) Die zuständige Stelle hat eine Sinnenprüfung zu veranlassen,
 sofern nicht bereits auf Grund der vorliegenden Unterlagen der Antrag
@@ -1251,6 +1284,7 @@ anzuwenden.
 Zuständige Stelle
 
 ### § 25 (zu § 21 Absatz 1 Nummer 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002805310)
 
 (1) Die zuständige Stelle des Landes, in dem die bei der Herstellung
 des Erzeugnisses verwendeten Weintrauben geerntet worden sind, trifft
@@ -1265,6 +1299,7 @@ den Prüfungen Kommissionen bestellt werden.
 Prüfungsbescheid
 
 ### § 26 (zu § 21 Absatz 1 Nummer 3 und § 24 Absatz 2 Nummer 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE002905310)
 
 (1) Die zuständige Stelle erteilt dem Antragsteller über das Ergebnis
 der Prüfung einen Prüfungsbescheid mit einer Prüfungsnummer für die
@@ -1298,6 +1333,7 @@ Prüfungsnummer zuständige Stelle ihren Sitz hat.
 Rücknahme der Prüfungsnummer
 
 ### § 27 (zu § 17 Absatz 2 Nummer 2 und § 21 Absatz 1 Nummer 3 und 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003005310)
 
 (1) Die Entscheidung über die Erteilung der Prüfungsnummer kann
 insbesondere zurückgenommen werden, wenn
@@ -1333,6 +1369,7 @@ verlassen hat, ist § 24 Absatz 2 Satz 2 entsprechend anzuwenden.
 Ausnahmen
 
 ### § 28 (zu § 16 Absatz 2 Satz 1, § 21 Absatz 2, § 24 Absatz 2, § 29 Absatz 1 Satz 1 Nummer 1 und § 30 Satz 1 Nummer 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003107116)
 
 Abweichend von § 19 Absatz 1 und § 20 Absatz 1 des Weingesetzes dürfen
 die beantragte Prüfungsnummer und die Bezeichnung, Qualitätswein,
@@ -1359,6 +1396,7 @@ Zuerkennung des Prädikats in den Verkehr gebracht werden.
 Qualitätsprüfung bestimmter Qualitätsschaumweine
 
 ### § 28a (zu § 21 Absatz 1 Nummer 1, 3, 5 und 6 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008302310)
 
 Wird für einen in § 19 Absatz 2 des Weingesetzes genannten
 Qualitätsschaumwein ein Antrag auf Zuteilung einer amtlichen
@@ -1369,11 +1407,13 @@ und 3, § 24 Absatz 1 Satz 1, 2, 3 Nummer 2 und 3 und Absatz 5, §§ 25,
 
 
 ## Abschnitt 5 - Bezeichnung und Aufmachung
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG006003310)
 
 
 Eintragung von Lagen und Bereichen
 
 ### § 29 (zu § 23 Absatz 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003203310)
 
 (1) Eine Lage darf in die Weinbergsrolle nur eingetragen werden, wenn
 sie insgesamt mindestens fünf Hektar groß ist. Abweichend davon kann
@@ -1424,6 +1464,7 @@ Weingesetzes erfüllt sind.
 Auszeichnungen und ähnliche Angaben
 
 ### § 30 (zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003316116)
 
 (1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene
 Auszeichnung oder ein Gütezeichen darf in der Kennzeichnung
@@ -1503,6 +1544,7 @@ anerkannten Auszeichnungen und Gütezeichen auf seiner Homepage.
 Wein für religiöse Zwecke
 
 ### § 31 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003404310)
 
 Die Bezeichnungen "Abendmahlswein", "Messwein", "Koscherer Wein" oder
 "Koscherer Passahwein" dürfen nur im geschäftlichen Verkehr mit der
@@ -1512,6 +1554,7 @@ Vorschriften gebraucht werden.
 Angabe von Weinarten; Reifeangaben
 
 ### § 32 (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 und 3 Nummer 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003514116)
 
 (1) Bei inländischem Qualitätswein oder Prädikatswein darf die
 Bezeichnung
@@ -1635,6 +1678,7 @@ Verordnung ist nicht zulässig.
 Classic
 
 ### § 32a (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008405116)
 
 Die Bezeichnung "Classic" darf nur verwendet werden, wenn es sich um
 Qualitätswein der Weinart Weißwein oder Rotwein handelt und
@@ -1690,6 +1734,7 @@ Qualitätswein der Weinart Weißwein oder Rotwein handelt und
 Erstes Gewächs und Großes Gewächs
 
 ### § 32b (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008508116)
 
 (1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn
 es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart
@@ -1825,6 +1870,7 @@ Anforderungen an die bestehenden Bezeichnungen weiter anzuwenden.
 Weitere Bestimmungen für Classic
 
 ### § 32c (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 Nummer 1 bis 3, dieser i.V.m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008606116)
 
 (1) Die in § 32a genannte Bezeichnung darf ferner nur verwendet
 werden, wenn
@@ -1925,6 +1971,7 @@ dass
 Abweichungen; Ausnahmen
 
 ### § 32d (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008708116)
 
 (1) Abweichend von
 
@@ -1967,6 +2014,7 @@ Aufbrauchen der Bestände in den Verkehr gebracht werden.
 Liebfrau(en)milch; Hock
 
 ### § 33 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003607116)
 
 (1) Weißer Qualitätswein der bestimmten Anbaugebiete Nahe, Pfalz,
 Rheingau und Rheinhessen darf als "Liebfrauenmilch" oder
@@ -2001,6 +2049,7 @@ Geschmacksangabe „lieblich“ zulässigen Spanne liegt.
 Verwendung bestimmter Behältnisse
 
 ### § 33a (zu § 24 Absatz 2 Nummer 4 i. V. m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009604116)
 
 (1) Die Landesregierungen von Baden-Württemberg und Bayern können für
 in ihrem Gebiet hergestellte Qualitätsweine, Prädikatsweine und Sekte
@@ -2032,6 +2081,7 @@ gebracht werden.
 Riesling-Hochgewächs; Der Neue; primeur
 
 ### § 34 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003704116)
 
 (1) Weißer Qualitätswein darf als "Riesling-Hochgewächs" nur
 bezeichnet werden, wenn
@@ -2068,6 +2118,7 @@ Erntejahres an Endverbraucher abgegeben wird.
 Crémant, Winzersekt
 
 ### § 34a (zu § 24 Absatz 2, auch i. V. m. § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007406116)
 
 (1) Bei einem Sekt b.A. darf die Angabe „Crémant“ nur gebraucht
 werden, wenn
@@ -2138,6 +2189,7 @@ Verkehr gebracht werden, wenn folgende Anforderungen erfüllt sind:
 Steillage; Terrassenlage
 
 ### § 34b (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007909116)
 
 (1) Bei inländischem Landwein, Qualitätswein und Prädikatswein sowie
 bei Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A. darf
@@ -2181,6 +2233,7 @@ gleichzeitig verwendet werden.
 Teilweise gegorener Traubenmost
 
 ### § 34c (zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009306116)
 
 (1) Nur bei einem teilweise gegorenen Traubenmost mit geschützter
 geografischer Angabe oder geschützter Ursprungsbezeichnung, der zum
@@ -2212,12 +2265,14 @@ Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 verwendet wird.
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003804310)
 
 -
 
 Vorgeschriebene Angaben
 
 ### § 36 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE003906310)
 
 Weinhaltige Getränke müssen als weinhaltiges Getränk bezeichnet
 werden. Abweichend von Satz 1 darf ein weinhaltiges Getränk, das durch
@@ -2229,6 +2284,7 @@ werden.
 Zugelassene und verbotene Angaben
 
 ### § 37 (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004005116)
 
 (1) Die Worte Kabinett, Spätlese, Auslese, Beerenauslese,
 Trockenbeerenauslese und Eiswein dürfen im geschäftlichen Verkehr
@@ -2266,6 +2322,7 @@ Kennzeichnung und Aufmachung tragen.
 Angaben zum Betrieb und zur Abfüllung
 
 ### § 38 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004111116)
 
 (1) Eine Angabe zum Betrieb ist bei Federweißer, Landwein,
 Qualitätswein, Prädikatswein, Sekt b.A., Qualitätsperlwein b.A. oder
@@ -2399,6 +2456,7 @@ oder der Hauptniederlassung anzugeben.
 Geografische Angaben
 
 ### § 39 (zu § 24 Absatz 2 und 3 Nummer 4 und 5 in Verbindung mit § 54 Absatz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004210116)
 
 (1) Wird zur Bezeichnung eines Qualitätsweines, Prädikatsweines, Sekts
 b.A., Qualitätslikörweines b.A. oder Qualitätsperlweines b.A. durch
@@ -2464,6 +2522,7 @@ die in Satz 1 vorgesehenen festgelegt werden.
 Geografische Bezeichnungen mit EU-Schutz
 
 ### § 39a (zu § 22c Absatz 8 Nummer 3, den §§ 22d und 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009804130)
 
 (1) Für einen Wein oder eine Gesamtheit von Weinen kann ein Antrag auf
 den Schutz einer Ursprungsbezeichnung oder einer geografischen Angabe
@@ -2532,6 +2591,7 @@ im Hinblick auf den Hektarertrag geändert werden soll.
 Angabe kleinerer geografischer Einheiten
 
 ### § 40 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004309116)
 
 Bei Qualitätswein, Prädikatswein, Qualitätsperlwein b.A. oder
 Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name einer
@@ -2549,6 +2609,7 @@ aus dem bestimmten Anbaugebiet stammen.
 Geschmacksangaben
 
 ### § 41 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004405310)
 
 Bei Perlwein und Perlwein mit zugesetzter Kohlensäure dürfen nur die
 Geschmacksangaben
@@ -2569,6 +2630,7 @@ verwendet werden.
 Rebsortenangaben
 
 ### § 42 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004516116)
 
 (1) Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A.
 oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name
@@ -2651,6 +2713,7 @@ aufgeführten Bezeichnungen von Rebsorten.
 Jahrgangsangaben
 
 ### § 43 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004607116)
 
 Bei Landwein, Qualitätswein, Prädikatswein, Qualitätsperlwein b.A.
 oder Qualitätslikörwein b.A., der gesüßt worden ist, darf der Name des
@@ -2663,6 +2726,7 @@ Herstellung verwendeten Erzeugnisse aus anderen Jahrgängen stammen.
 Kumulierungsverbot
 
 ### § 44 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004708116)
 
 (1) Artikel 49 Absatz 1 und Artikel 50 Absatz 1 Buchstabe a Ziffer i
 der Delegierten Verordnung (EU) 2019/33 dürfen bei Landwein,
@@ -2684,6 +2748,7 @@ und aus dem Jahrgang stammen, mit denen das Erzeugnis bezeichnet wird.
 Verwendung von Kennziffern
 
 ### § 45 (zu § 24 Absatz 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004808116)
 
 (1) Eine nach Artikel 46 Absatz 2, 3 oder 4 der Verordnung (EU)
 2019/33 erforderliche Angabe kann nach Maßgabe des Artikels 46 Absatz
@@ -2700,6 +2765,7 @@ Verkehrsverbote bei vorverpackten aromatisierten Weinerzeugnissen und
 vorverpackten weinhaltigen Getränken
 
 ### § 46 (zu § 24 Absatz 2 und 3 Nummer 4 und 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE004905119)
 
 Es ist verboten,
 
@@ -2760,6 +2826,7 @@ Nr. 1169/2011 freiwillig bereitgestellt werden.
 Kennzeichnung in deutscher Sprache
 
 ### § 46a (zu § 24 Absatz 2 Nummer 1 und 2 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007506116)
 
 (1) Aromatisierte Weinerzeugnisse und weinhaltige Getränke sind in
 deutscher Sprache zu kennzeichnen, wenn die Kennzeichnung
@@ -2785,6 +2852,7 @@ Zutaten und Verarbeitungshilfsstoffe, die Allergien oder
 Unverträglichkeiten auslösen
 
 ### § 46b (zu § 24 Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 4 und 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE009405119)
 
 (1) Vorverpackte Erzeugnisse, ausgenommen vorverpackte aromatisierte
 Weinerzeugnisse und vorverpackte weinhaltige Getränke, dürfen nur in
@@ -2881,6 +2949,7 @@ Schäumende Getränke aus entalkoholisiertem Wein, teilweise
 entalkoholisiertem Wein und Wein
 
 ### § 47 (zu § 26 Absatz 3 Satz 1 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005010116)
 
 (1) Schäumende Getränke, die unter Zusatz von Kohlensäure aus
 entalkoholisiertem Wein hergestellt sind, dürfen, auch soweit sie nach
@@ -2945,12 +3014,14 @@ Verkehr gebracht werden, wenn bei ihrer Herstellung
 
 
 ### § 48 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005105310)
 
 -
 
 Art der Aufmachung
 
 ### § 49 (zu § 21 Absatz 1 Nummer 4 und § 24 Absatz 3 Nummer 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005208116)
 
 (1) (weggefallen)
 
@@ -2973,6 +3044,7 @@ deutlich abgehoben ist.
 Angabe des Loses
 
 ### § 50 (zu § 24 Absatz 2 Nummer 1 und 2 und Absatz 3 Nummer 5 des Weingesetzes)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005306119)
 
 (1) Erzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie
 mit einer gut sichtbaren, deutlich lesbaren sowie unverwischbar
@@ -3032,15 +3104,18 @@ Kennzeichnung unterscheidet.
 
 
 ### § 51 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005406310)
 
 -
 
 
 ## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG006103310)
 
 
 
 ### § 52 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005511116)
 
 (1) Nach § 48 Absatz 1 Nummer 2, Absatz 2, 3 des Weingesetzes wird
 bestraft, wer vorsätzlich oder fahrlässig
@@ -3112,6 +3187,7 @@ bestraft, wer vorsätzlich oder fahrlässig
 
 
 ### § 53 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE005623116)
 
 (1) Wer eine in § 52 Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 50 Absatz 1 des Weingesetzes ordnungswidrig.
@@ -3220,10 +3296,12 @@ Weingesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## Abschnitt 7 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNG006203310)
 
 
 
 ### § 54 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006320130)
 
 (1) Abweichend von § 33 Absatz 1 dürfen Qualitätsweine der bestimmten
 Anbaugebiete Nahe, Pfalz, Rheingau und Rheinhessen als Liebfrauenmilch
@@ -3404,6 +3482,7 @@ Grundsätze zur Anerkennung von Witterungsverhältnissen als für den
 Weinanbau außergewöhnlich ungünstige Witterungsverhältnisse
 
 ### Anlage 1 (zu § 15 Absatz 3a Weinverordnung)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006406116)
 
 (Fundstelle: BGBl. I 2018, 2481)
 
@@ -3507,23 +3586,29 @@ Witterung gleichgestellt.
 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007607116)
 
 
 ### Anlage 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007705116)
 
 
 ### Anlage 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007805116)
 
 
 ### Anlage 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006505116)
 
 
 
 ### Anlage 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006609116)
 
 (zu § 13 Absatz 1)
 
 ### Anlage 7 Gehalt an Stoffen
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006710116)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 862)
 
@@ -3700,6 +3785,7 @@ stammen.
 (zu § 13 Absatz 2)
 
 ### Anlage 7a Stoffe
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE008020310)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 863 - 865)
 
@@ -4872,11 +4958,13 @@ stammen.
 
 
 ### Anlage 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006805116)
 
 
 (zu § 22 Absatz 1 und § 24 Absatz 1)
 
 ### Anlage 9 Prüfungsantrag/Sinnenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE006910119)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 867 - 868;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5132,6 +5220,7 @@ Abschnitt II.
 (zu § 22 Absatz 5 und § 23 Absatz 1)
 
 ### Anlage 10 Untersuchungsbefund
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007005310)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 869)
 
@@ -5215,6 +5304,7 @@ Der Untersuchungsbefund muss folgende Angaben enthalten:
 (zu § 26 Absatz 2 und § 45 Absatz 2)
 
 ### Anlage 11 Abkürzungen der Bundesländer bei der Angabe von Kennziffern
+[Direktlink](https://www.gesetze-im-internet.de/weinv_1995/BJNR063010995.html#BJNR063010995BJNE007104310)
 
 (Fundstelle des Originaltextes: BGBl. I 2009, 870)
 

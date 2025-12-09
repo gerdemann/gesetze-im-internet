@@ -17,9 +17,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften und Aufgaben der Zentralstelle für Sanktionsdurchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000100000)
 
 
 ### § 1 Aufgaben, Aufsicht und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000200000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung hat als zuständige
 Behörde unbeschadet der in § 13 des Außenwirtschaftsgesetzes
@@ -118,9 +120,11 @@ Befugnisse nach § 23 des Außenwirtschaftsgesetzes bleiben unberührt.
 
 
 ## Abschnitt 2 - Befugnisse der Zentralstelle für Sanktionsdurchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000200000)
 
 
 ### § 2 Befugnisse zur Ermittlung von Geldern und wirtschaftlichen Ressourcen
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000300000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung kann die
 erforderlichen Maßnahmen treffen
@@ -240,6 +244,7 @@ eingeschränkt.
 
 
 ### § 3 Befugnisse zur Sicherstellung von Geldern und wirtschaftlichen Ressourcen
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000400000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung kann Gelder oder
 wirtschaftliche Ressourcen bestimmter Personen oder
@@ -292,6 +297,7 @@ eintreten würden.
 
 
 ### § 4 Modalitäten der Sicherstellung von Geldern und wirtschaftlichen Ressourcen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000500000)
 
 (1) Nach § 3 Absatz 1 oder 2 sichergestellte Gelder oder
 wirtschaftliche Ressourcen sind in Verwahrung zu nehmen. Lässt die
@@ -407,6 +413,7 @@ bestehen.
 
 
 ### § 5 Verarbeitung personenbezogener Daten bei der Ermittlung und Sicherstellung von Geldern und wirtschaftlichen Ressourcen
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000600000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung darf, soweit dies zur
 Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist,
@@ -551,6 +558,7 @@ Absatz 1 Satz 2 Nummer 1 und 2 zu löschen.
 
 
 ### § 6 Übermittlung von personenbezogenen Daten durch die Zentralstelle für Sanktionsdurchsetzung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000700000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung darf nach § 5 erhobene
 personenbezogene Daten an andere öffentliche und nichtöffentliche
@@ -594,6 +602,7 @@ dürfen. Regelungen zur statistischen Geheimhaltung bleiben unberührt.
 
 
 ### § 7 Übermittlung von Informationen aus Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000800000)
 
 (1) Gerichte und Staatsanwaltschaften dürfen der Zentralstelle für
 Sanktionsdurchsetzung, soweit dies zur Erfüllung der Aufgaben der
@@ -623,6 +632,7 @@ Stelle nur weiterübermitteln, wenn
 
 
 ### § 8 Informationsaustausch mit ausländischen Stellen
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE000900000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung kann personenbezogene
 Daten mit öffentlichen und nichtöffentlichen Stellen in der
@@ -650,6 +660,7 @@ ausländischen Behörde vereinbart wurden. Die Weitergabe von nach § 7
 
 
 ### § 9 Besondere Überwachungsmaßnahmen bei wirtschaftlichen Sanktionsmaßnahmen; Beauftragung Dritter; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001000000)
 
 (1) Rechtfertigen Tatsachen die Annahme, dass eine juristische Person
 oder Personengesellschaft gegen ein Bereitstellungs- oder
@@ -816,9 +827,11 @@ und dem Auswärtigen Amt nähere Einzelheiten zu regeln, insbesondere
 
 
 ## Abschnitt 3 - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000300000)
 
 
 ### § 10 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001100000)
 
 (1) Soweit nicht bereits nach einem im Amtsblatt der Europäischen
 Gemeinschaften oder der Europäischen Union veröffentlichten
@@ -885,6 +898,7 @@ als nach Absatz 1 abgegeben.
 
 
 ### § 11 Vermögensermittlung bei sanktionierten Personen und Personengesellschaften (personenbezogene Ermittlung)
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001200000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung kann bei Personen und
 Personengesellschaften, denen nach einem im Amtsblatt der Europäischen
@@ -950,6 +964,7 @@ an die zuständige Strafverfolgungsbehörde.
 
 
 ### § 12 Vermögensermittlung zu bestimmten Geldern und wirtschaftlichen Ressourcen (vermögensbezogene Ermittlung)
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001300000)
 
 (1) Die Zentralstelle für Sanktionsdurchsetzung kann bei im
 Geltungsbereich dieses Gesetzes befindlichen Geldern und
@@ -1021,15 +1036,18 @@ an die zuständige Strafverfolgungsbehörde.
 
 
 ### § 13 Aufschiebende Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001400000)
 
 Widerspruch und Anfechtungsklage gegen Verwaltungsakte nach diesem
 Gesetz haben keine aufschiebende Wirkung.
 
 
 ## Abschnitt 4 - Register
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000400000)
 
 
 ### § 14 Register; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001500000)
 
 (1) Es wird ein Register eingerichtet, um über den rechtlichen Status
 eingefrorener Vermögenswerte zu informieren; in diesem Register werden
@@ -1146,9 +1164,11 @@ und dem Auswärtigen Amt folgende Einzelheiten zu regeln:
 
 
 ## Abschnitt 5 - Hinweisannahmestelle
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000500000)
 
 
 ### § 15 Hinweisannahmestelle; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001600000)
 
 (1) Unbeschadet der bestehenden Meldepflichten errichtet die
 Zentralstelle für Sanktionsdurchsetzung ein System zur Annahme von
@@ -1199,9 +1219,11 @@ Zentralstelle für Sanktionsdurchsetzung übertragen.
 
 
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNG000600000)
 
 
 ### § 16 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001700000)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 10 Absatz 1 Satz 1 Nummer 1 eine Meldung
@@ -1218,6 +1240,7 @@ musste.
 
 
 ### § 17 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001800000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 2 Absatz 2 Nummer 1 zuwiderhandelt.
@@ -1231,6 +1254,7 @@ Sanktionsdurchsetzung.
 
 
 ### § 18 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/sanktdg/BJNR260610022.html#BJNR260610022BJNE001900000)
 
 Ist eine Straftat nach § 16 oder eine Ordnungswidrigkeit nach § 17
 begangen worden, so können

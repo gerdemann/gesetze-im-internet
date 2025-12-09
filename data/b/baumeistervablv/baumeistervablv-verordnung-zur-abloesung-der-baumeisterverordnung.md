@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000100319)
 
 Auf Grund des § 133 Abs. 2 Satz 1 der Gewerbeordnung in der Fassung
 der Bekanntmachung vom 1. Januar 1978 (BGBl. I S. 97) in Verbindung
@@ -26,11 +27,13 @@ mit Zustimmung des Bundesrates:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000200319)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000300319)
 
 Die Berufsbezeichnung "Baumeister" sowie Berufsbezeichnungen, die das
 Wort "Baumeister" enthalten und auf eine Tätigkeit im Baugewerbe
@@ -41,6 +44,7 @@ noch nach diesem Zeitpunkt die Baumeisterprüfung bestanden hat
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000400319)
 
 Unberührt bleiben die Vorschriften über die Führung von Amts- und
 Berufsbezeichnungen durch die Beamten und Angestellten des Bundes, der
@@ -50,12 +54,14 @@ bleiben ferner die Vorschriften über die Führung der Bezeichnung
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000500319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 156 der Gewerbeordnung auch im Land Berlin.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/baumeistervablv/BJNR004190979.html#BJNR004190979BJNE000600319)
 
 (1) Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 

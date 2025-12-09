@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000100325)
 
 Auf Grund des § 21 Abs. 3 in Verbindung mit § 54 des Atomgesetzes in
 der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053),
@@ -28,6 +29,7 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000207119)
 
 Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden
 erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und
@@ -45,6 +47,7 @@ Strahlenschutzgesetzes zuständige Ethik-Kommission oder die nach
 
 
 ## § 2 Höhe der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000313119)
 
 (1) Die Gebühr beträgt
 
@@ -159,6 +162,7 @@ werden.
 
 
 ## § 3 Gebührenbemessung
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000400325)
 
 (1) Kosten der Errichtung sind die Aufwendungen des Antragstellers für
 die nach dem Atomgesetz genehmigungsbedürftigen Anlagenteile.
@@ -168,11 +172,13 @@ gehören nicht zu den Kosten der Errichtung.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000501377)
 
 (weggefallen)
 
 
 ## § 5 Kosten der Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000608118)
 
 (1) Für Maßnahmen der staatlichen Aufsicht nach § 19 des Atomgesetzes
 werden Kosten für folgende Tatbestände erhoben:
@@ -249,6 +255,7 @@ nachfolgenden Gebührenfestsetzung zu verrechnen sind.
 
 
 ## § 5a Kosten der staatlichen Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE001301377)
 
 (1) Die Gebühr für die staatliche Verwahrung von Kernbrennstoffen nach
 § 5 des Atomgesetzes beträgt
@@ -303,6 +310,7 @@ erhoben werden.
 
 
 ## § 6 Befreiung und Ermäßigung
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000703123)
 
 (1) Von der Erhebung einer Gebühr kann ganz oder teilweise abgesehen
 werden, wenn dies im Einzelfall aus Gründen des öffentlichen
@@ -312,11 +320,13 @@ Interesses oder der Billigkeit geboten ist.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000802377)
 
 -
 
 
 ## § 8 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE000900325)
 
 Der Anspruch auf Zahlung von Kosten verjährt in drei Jahren nach
 Bekanntgabe der Kostenentscheidung, spätestens mit dem Ablauf des
@@ -324,6 +334,7 @@ dreißigsten Jahres nach der Entstehung.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE001002118)
 
 (1) (weggefallen)
 
@@ -335,10 +346,12 @@ nicht bereits festgesetzt sind.
 
 
 ## § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE001101118)
 
 
 
 ## § 11 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/atkostv/BJNR014570981.html#BJNR014570981BJNE001200325)
 
 (1) Diese Verordnung tritt, mit Ausnahme des § 7 Abs. 2, am Tage nach
 der Verkündung in Kraft.

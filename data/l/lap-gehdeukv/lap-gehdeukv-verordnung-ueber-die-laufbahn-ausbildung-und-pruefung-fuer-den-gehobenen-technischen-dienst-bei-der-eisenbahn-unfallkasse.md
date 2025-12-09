@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001800000)
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
@@ -34,6 +35,7 @@ Unfallkasse im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Laufbahnämter
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000200000)
 
 (1) Die Laufbahn des gehobenen technischen Dienstes bei der Eisenbahn-
 Unfallkasse umfasst den Vorbereitungsdienst, die Probezeit und alle
@@ -108,6 +110,7 @@ oder Leiter der Außenbüros tätig.
 
 
 ## § 2 Ziel des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000300000)
 
 Der Vorbereitungsdienst vermittelt den Anwärterinnen und Anwärtern die
 wissenschaftlichen Erkenntnisse und Methoden sowie die
@@ -117,6 +120,7 @@ Dienstes bei der Eisenbahn-Unfallkasse erforderlich sind.
 
 
 ## § 3 Einstellungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000400000)
 
 Einstellungsbehörde ist die Eisenbahn-Unfallkasse. Ihr obliegen die
 Bedarfsermittlung, die Ausschreibung, die Durchführung des
@@ -125,6 +129,7 @@ Betreuung der Anwärterinnen und Anwärter.
 
 
 ## § 4 Einstellungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000501310)
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -143,6 +148,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 ## § 5 Ausschreibung, Bewerbung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000601311)
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
@@ -182,6 +188,7 @@ Bewerbung sind beizufügen:
 
 
 ## § 6 Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000700000)
 
 (1) Vor der Entscheidung über die Einstellung in den
 Vorbereitungsdienst wird in einem Auswahlverfahren durch
@@ -215,6 +222,7 @@ nicht gebunden.
 
 
 ## § 7 Einstellung in den Vorbereitungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000801310)
 
 (1) Die Eisenbahn-Unfallkasse entscheidet nach dem Ergebnis des
 Auswahlverfahrens über die Einstellung von Bewerberinnen und
@@ -231,6 +239,7 @@ die Eisenbahn-Unfallkasse veranlasst.
 
 
 ## § 8 Rechtsstellung während des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE000900000)
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
 Beamtenverhältnis auf Widerruf - Bewerberinnen zu Technischen
@@ -242,6 +251,7 @@ unterstehen der Dienstaufsicht der Einstellungsbehörde.
 
 
 ## § 9 Verlängerung des Vorbereitungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001001310)
 
 (1) Wird die Ausbildung wegen Krankheit oder aus anderen zwingenden
 Gründen unterbrochen, können Ausbildungsabschnitte verkürzt und
@@ -270,6 +280,7 @@ vom 15. Mai 1997.
 
 
 ## § 10 Schwerbehinderte Menschen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001100000)
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
 die Erbringung von Leistungsnachweisen und für die Teilnahme an
@@ -287,6 +298,7 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 
 ## § 11 Ausbildungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001200000)
 
 Für die Durchführung der Ausbildungsmaßnahmen (fachbezogene
 Ausbildung, Praxisausbildung, Ausbildungsplan, Bewertungen) gelten die
@@ -294,6 +306,7 @@ Regelungen der Prüfungsordnung vom 15. Mai 1997.
 
 
 ## § 12 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001300000)
 
 (1) Die nach Abschnitt III der Prüfungsordnung vom 15. Mai 1997
 abzulegende Prüfung wird als Laufbahnprüfung anerkannt. Einer
@@ -308,6 +321,7 @@ sind zu den Personalakten zu nehmen.
 
 
 ## § 13 Prüfungsakten, Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001400000)
 
 (1) Die Niederschriften über den Ablauf der mündlichen und
 schriftlichen Prüfung und die Feststellung des Gesamtergebnisses sind
@@ -319,6 +333,7 @@ gefertigten Prüfungsarbeiten einschließlich ihrer Bewertung nehmen.
 
 
 ## § 14 Rechtsstellung nach bestandener Prüfung, Probezeit
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001500000)
 
 Nach bestandener Prüfung werden - unter Berufung in das
 Beamtenverhältnis auf Probe - Anwärterinnen zu Technischen
@@ -327,6 +342,7 @@ Technischen Verwaltungsoberinspektoren zur Anstellung (z. A.) ernannt.
 
 
 ## § 15 Gleichwertige Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001601310)
 
 Die Befähigung für die Laufbahn des gehobenen technischen Dienstes bei
 der Eisenbahn-Unfallkasse wird auch Bewerberinnen und Bewerbern
@@ -340,6 +356,7 @@ Sie gelten als Regellaufbahnbewerberinnen und Regellaufbahnbewerber.
 
 
 ## § 16 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lap-gehdeukv/BJNR106600002.html#BJNR106600002BJNE001700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

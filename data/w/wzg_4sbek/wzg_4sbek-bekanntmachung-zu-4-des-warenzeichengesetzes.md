@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000100309)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
 der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden in der
@@ -26,6 +27,7 @@ Königreich Schweden eingeführt sind.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000200309)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
 bekanntgemacht, daß
@@ -48,23 +50,27 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000300309)
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 21.
 September 1984 (BGBl. I S. 1259).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000400309)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage 1 Amtliche Prüf- und Gewährzeichen des Königreichs Schweden
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000500309)
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1985, 599)
 
 
 ## Anlage 2 Internationaler Währungsfonds
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000600309)
 
 (Fundstelle: BGBl. I 1985, 599)
 Bezeichnung und Abkürzung in spanischer Sprache:
@@ -73,6 +79,7 @@ Abkürzung in englischer Sprache: IMF
 
 
 ## Anlage 3 Internationale Seeschiffahrts-Organisation
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4sbek/BJNR005980985.html#BJNR005980985BJNE000700309)
 
 Bezeichnung in arabischer Sprache
 (Inhalt: nicht darstellbare Schriftzeichen,

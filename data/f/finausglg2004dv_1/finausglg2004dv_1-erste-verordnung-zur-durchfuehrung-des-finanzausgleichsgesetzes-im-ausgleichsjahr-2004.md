@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2004dv_1/BJNR046000004.html#BJNR046000004BJNE000100000)
 
 Auf Grund des § 14 Abs. 3 des Finanzausgleichsgesetzes vom 23. Juni
 1993 (BGBl. I S. 944, 977) verordnet das Bundesministerium der
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2004
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2004dv_1/BJNR046000004.html#BJNR046000004BJNE000200000)
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des
 Finanzausgleichs unter den Ländern im Ausgleichsjahr 2004 wird der
@@ -161,11 +163,13 @@ Teilbeträgen zu berücksichtigen.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2004dv_1/BJNR046000004.html#BJNR046000004BJNE000300000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/finausglg2004dv_1/BJNR046000004.html#BJNR046000004BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

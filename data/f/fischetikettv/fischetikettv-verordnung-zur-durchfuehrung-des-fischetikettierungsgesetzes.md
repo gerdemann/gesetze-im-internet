@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000000000)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft verordnet
@@ -44,6 +45,7 @@ Landwirtschaft verordnet
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000101119)
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Verordnungen der Organe der Europäischen Union über die gemeinsame
@@ -53,6 +55,7 @@ Aquakulturerzeugnissen.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000201119)
 
 Im Sinne dieser Verordnung sind Fischereierzeugnisse und
 Aquakulturerzeugnisse die von Artikel 2 der Verordnung (EU) Nr.
@@ -66,6 +69,7 @@ Weichtiere, Algen und Tange sowie die daraus gewonnenen Erzeugnisse.
 
 
 ## § 2a Angabe des Fanggerätes
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE001200119)
 
 Bei der Angabe der Fanggerätekategorie nach Artikel 35 Absatz 1
 Buchstabe c der Verordnung (EU) Nr. 1379/2013 ist bei zugelassenen
@@ -75,6 +79,7 @@ Fanggerätes anzugeben.
 
 
 ## § 3 Handelsbezeichnungen
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000302119)
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 ist zuständig für die Aufstellung eines Verzeichnisses der
@@ -152,6 +157,7 @@ das Verzeichnis oder Änderung des Verzeichnisses mit.
 
 
 ## § 4 Ausnahme von der Etikettierungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000601119)
 
 Werden Fischereierzeugnisse oder Aquakulturerzeugnisse unmittelbar von
 einem Fischereifahrzeug verkauft und beträgt der gesamte Verkaufswert
@@ -161,6 +167,7 @@ Absatz 1 der Verordnung (EU) Nr. 1379/2013 nicht zu beachten.
 
 
 ## § 5 Aufbewahrung von Belegen
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000701119)
 
 Jeder Marktbeteiligte ist verpflichtet, die Belege, aus denen sich
 eine Bestätigung der nach den in § 1 genannten Rechtsakten für die
@@ -171,6 +178,7 @@ eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
 
 ## § 6 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000801119)
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe b des
 Fischetikettierungsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -191,6 +199,7 @@ Erzeugnis zum Verkauf anbietet.
 
 
 ## § 7 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE000901119)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 8 des Fischetikettierungsgesetzes und nach
@@ -200,11 +209,13 @@ sie nach § 4 Satz 1 Nr. 1 des Fischetikettierungsgesetzes für die
 
 
 ## § 8 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE001001119)
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/fischetikettv/BJNR336300002.html#BJNR336300002BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 

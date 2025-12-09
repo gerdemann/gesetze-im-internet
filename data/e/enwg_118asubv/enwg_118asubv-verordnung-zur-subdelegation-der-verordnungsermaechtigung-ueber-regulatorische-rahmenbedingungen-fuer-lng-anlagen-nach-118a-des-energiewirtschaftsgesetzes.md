@@ -19,6 +19,7 @@ Fundstelle
 Stand: Die V tritt gem. § 2 Satz 2 mit Ablauf des 31.12.2027 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/enwg_118asubv/BJNR200200022.html#BJNR200200022BJNE000100000)
 
 Auf Grund des § 118a Satz 1 und 2 des Energiewirtschaftsgesetzes vom
 7\. Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 3 Nummer 20
@@ -27,6 +28,7 @@ ist, verordnet das Bundesministerium für Wirtschaft und Klimaschutz:
 
 
 ## § 1 Subdelegation
+[Direktlink](https://www.gesetze-im-internet.de/enwg_118asubv/BJNR200200022.html#BJNR200200022BJNE000200000)
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen wird ermächtigt, Verordnungen nach Maßgabe des § 118a
@@ -34,6 +36,7 @@ Satz 1 des Energiewirtschaftsgesetzes zu erlassen.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/enwg_118asubv/BJNR200200022.html#BJNR200200022BJNE000300000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 mit Ablauf des 31. Dezember 2027 außer Kraft.

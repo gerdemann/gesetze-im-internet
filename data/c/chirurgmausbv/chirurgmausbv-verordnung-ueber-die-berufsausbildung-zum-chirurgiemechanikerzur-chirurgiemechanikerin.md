@@ -24,6 +24,7 @@ veröffentlicht.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000100326)
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
@@ -33,12 +34,14 @@ Bildung und Wissenschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000200326)
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Chirurgiemechaniker/Chirurgiemechanikerin nach der Handwerksordnung.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000300326)
 
 (1) Die Ausbildung dauert dreieinhalb Jahre.
 
@@ -50,6 +53,7 @@ betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000400326)
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
 berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
@@ -67,6 +71,7 @@ nachzuweisen.
 
 
 ## § 4 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000500326)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -154,6 +159,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 5 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000600326)
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
 für die berufliche Grundbildung und für die berufliche Fachbildung
@@ -166,12 +172,14 @@ soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 
 ## § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000700326)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000800326)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -180,6 +188,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 8 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE000900326)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -241,6 +250,7 @@ programmierter Form durchgeführt wird.
 
 
 ## § 9 Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001000326)
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -421,6 +431,7 @@ sind.
 
 
 ## § 10 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001100326)
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
 Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
@@ -431,6 +442,7 @@ nicht mehr anzuwenden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001200326)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -439,23 +451,27 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 12 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001300326)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
 
 ## § 13 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001400326)
 
 Diese Verordnung tritt am 1. August 1989 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001500326)
 
 Der Bundesminister für Wirtschaft
 
 (zu § 5)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE001600326)
 
 (Fundstelle: BGBl. I 1989, 575 - 584)
 
@@ -1643,6 +1659,7 @@ Der Bundesminister für Wirtschaft
 (BGBl. II 1990, 889, 998)
 
 ## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+[Direktlink](https://www.gesetze-im-internet.de/chirurgmausbv/BJNR005720989.html#BJNR005720989BJNE888800309)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

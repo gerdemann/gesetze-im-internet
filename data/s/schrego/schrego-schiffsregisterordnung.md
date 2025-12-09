@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000101307)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE000801307)
 
 (1) Die Schiffsregister werden von den Amtsgerichten geführt.
 
@@ -42,6 +44,7 @@ Landes Gerichten eines anderen Landes zugewiesen werden.
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE000902160)
 
 (1) Für die Entgegennahme eines auf eine Eintragung gerichteten
 Antrags oder Ersuchens und die Beurkundung des Zeitpunkts, in dem der
@@ -102,6 +105,7 @@ Entscheidung statt.
 
 
 ### § 3
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001002308)
 
 (1) Seeschiffsregister und Binnenschiffsregister werden getrennt
 geführt.
@@ -132,6 +136,7 @@ Eingetragen werden können
 
 
 ### § 4
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001103308)
 
 (1) Das Schiff ist in das Schiffsregister seines Heimathafens oder
 seines Heimatortes einzutragen.
@@ -151,6 +156,7 @@ Flaggenrechtsgesetzes.
 
 
 ### § 5
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001201307)
 
 Ist ein Seeschiff in das Binnenschiffsregister oder ein Binnenschiff
 in das Seeschiffsregister eingetragen, so ist die Eintragung des
@@ -158,6 +164,7 @@ Schiffs nicht aus diesem Grund unwirksam.
 
 
 ### § 6
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001301307)
 
 (1) Ist ein Schiff im Seeschiffsregister eingetragen, so kann sich der
 Eigentümer nicht darauf berufen, daß es ein Binnenschiff sei.
@@ -167,6 +174,7 @@ der Eigentümer nicht darauf berufen, daß es ein Seeschiff sei.
 
 
 ### § 7
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001401307)
 
 Jedes Schiff erhält bei der Eintragung eine besondere Stelle im
 Schiffsregister (Registerblatt). Das Registerblatt ist für das Schiff
@@ -174,6 +182,7 @@ als das Schiffsregister anzusehen.
 
 
 ### § 8
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001501307)
 
 (1) Das Schiffsregister ist öffentlich; die Einsicht in das Register
 ist jedem gestattet. Auf Verlangen ist eine Abschrift der Eintragung
@@ -187,10 +196,12 @@ sowie in die noch nicht erledigten Eintragungsanträge.
 
 
 ## Zweiter Abschnitt - Die Eintragung des Schiffs
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000201307)
 
 
 
 ### § 9
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001601307)
 
 Ein Schiff, das nach § 3 Abs. 2, 3 in das Schiffsregister eingetragen
 werden kann, wird eingetragen, wenn der Eigentümer es ordnungsmäßig
@@ -199,6 +210,7 @@ Anmeldung durch einen von mehreren Miteigentümern.
 
 
 ### § 10
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001705311)
 
 (1) Zur Anmeldung eines Seeschiffs ist der Eigentümer verpflichtet,
 wenn das Schiff nach § 1 des Flaggenrechtsgesetzes die Bundesflagge zu
@@ -231,6 +243,7 @@ nicht zur Eintragung angemeldet zu werden.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001803125)
 
 (1) Bei der Anmeldung eines Seeschiffs sind anzugeben:
 
@@ -279,6 +292,7 @@ vorgenommenen Vermessung.
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE001901307)
 
 Bei der Anmeldung eines Binnenschiffs sind anzugeben:
 
@@ -313,6 +327,7 @@ Bei der Anmeldung eines Binnenschiffs sind anzugeben:
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002001307)
 
 (1) Die in § 11 Abs. 1 Nr. 3, 4, 6, 7, Abs. 2, § 12 Nr. 3, 4, 6, 7
 bezeichneten Angaben sowie die Maschinenleistung sind glaubhaft zu
@@ -330,6 +345,7 @@ der Bundesflagge begründenden Tatsachen nachzuweisen.
 
 
 ### § 14
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002101307)
 
 (1) Ein Schiff darf nicht in das Schiffsregister eingetragen werden,
 solange es in einem ausländischen Schiffsregister eingetragen ist. Auf
@@ -348,6 +364,7 @@ Einreichung kann unterbleiben, wenn sie untunlich ist.
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002201307)
 
 Ist das Schiff ganz oder zum Teil im Inland erbaut, so ist bei der
 Anmeldung eine Bescheinigung des Registergerichts des Bauorts darüber
@@ -358,6 +375,7 @@ Eintragung des Schiffs in das Schiffsregister erteilt ist.
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002301307)
 
 (1) Die Eintragung des Schiffs (§ 9) hat die in § 11 Abs. 1 Nr. 1 bis
 7, 9, Abs. 2, § 12 bezeichneten Angaben, die Bezeichnung des
@@ -385,6 +403,7 @@ Eigentumseintragung eintragen.
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002401307)
 
 (1) Veränderungen der im § 11 Abs. 1 Nr. 1 bis 3, 5, 8, 9, Abs. 2, §
 12 Nr. 1 bis 3, 5 bezeichneten, nach § 16 Abs. 1, 2 eingetragenen
@@ -410,6 +429,7 @@ Satz 2 gilt sinngemäß.
 
 
 ### § 18
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002502125)
 
 (1) Zur Anmeldung nach § 17 ist der Eigentümer, bei einer Reederei
 auch der Korrespondentreeder verpflichtet.
@@ -421,6 +441,7 @@ die durch mehrere Personen vertreten wird.
 
 
 ### § 19
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002603125)
 
 (1) Wer einer ihm nach §§ 10, 13 bis 15, 17, 18 obliegenden
 Verpflichtung nicht nachkommt, ist hierzu vom Registergericht durch
@@ -433,6 +454,7 @@ freiwilligen Gerichtsbarkeit sinngemäß.
 
 
 ### § 20
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002702307)
 
 (1) Die Eintragung des Schiffs im Schiffsregister wird gelöscht, wenn
 eine der im § 17 Abs. 4 bezeichneten Tatsachen angemeldet wird. Wird
@@ -473,6 +495,7 @@ Bruttoraumgehalt 50 Kubikmeter übersteigt.
 
 
 ### § 21
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002801307)
 
 (1) Ist das Schiff eingetragen worden, obwohl die Eintragung wegen
 Fehlens einer wesentlichen Voraussetzung unzulässig war, oder kann
@@ -516,6 +539,7 @@ entsprechend.
 
 
 ### § 22
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE002901307)
 
 Ist seit 30 Jahren keine Eintragung im Schiffsregister erfolgt und ist
 nach Anhörung der zuständigen Schiffahrtsbehörde, bei Seeschiffen auch
@@ -528,10 +552,12 @@ bedarf.
 
 
 ## Dritter Abschnitt - Die Eintragung von Rechtsverhältnissen
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000301307)
 
 
 
 ### § 23
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003001307)
 
 (1) Im Schiffsregister soll eine Eintragung nur auf Antrag erfolgen,
 soweit nicht etwas anderes vorgeschrieben ist. Der Zeitpunkt, in dem
@@ -546,6 +572,7 @@ betroffen wird oder zu dessen Gunsten die Eintragung erfolgen soll.
 
 
 ### § 24
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003101307)
 
 Die Berichtigung des Schiffsregisters durch Eintragung eines
 Berechtigten darf auch der beantragen, der auf Grund eines gegen den
@@ -556,6 +583,7 @@ wird.
 
 
 ### § 25
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003201307)
 
 Ist die zu einer Eintragung erforderliche Erklärung von einem Notar
 beurkundet oder beglaubigt, so gilt dieser als ermächtigt, im Namen
@@ -563,6 +591,7 @@ eines Antragsberechtigten die Eintragung zu beantragen.
 
 
 ### § 26
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003301307)
 
 (1) Einen Eintragungsantrag, dessen Erledigung an einen Vorbehalt
 geknüpft wird, soll nicht stattgegeben werden.
@@ -573,6 +602,7 @@ andere erfolgen soll.
 
 
 ### § 27
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003401307)
 
 Werden mehrere Eintragungen beantragt, durch die dasselbe Recht
 betroffen wird, so darf die später beantragte Eintragung nicht vor der
@@ -580,6 +610,7 @@ Erledigung des früher gestellten Antrags erfolgen.
 
 
 ### § 28
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003501307)
 
 (1) Steht einer beantragten Eintragung ein Hindernis entgegen, so hat
 das Registergericht dem Antragsteller eine angemessene Frist zur
@@ -598,12 +629,14 @@ zurückgewiesen wird.
 
 
 ### § 29
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003601307)
 
 Eine Eintragung erfolgt, wenn der sie bewilligt, dessen Recht von ihr
 betroffen wird.
 
 
 ### § 30
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003701307)
 
 Im Falle der rechtsgeschäftlichen Übertragung des Eigentums an einem
 Binnenschiff darf die Eintragung nur erfolgen, wenn die Einigung des
@@ -611,6 +644,7 @@ Veräußerers und des Erwerbers erklärt ist.
 
 
 ### § 31
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003801307)
 
 (1) Zur Berichtigung des Schiffregisters bedarf es der Bewilligung
 nach § 29 nicht, wenn die Unrichtigkeit nachgewiesen wird. Dies gilt
@@ -624,6 +658,7 @@ vorliegt.
 
 
 ### § 32
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE003901307)
 
 Wird bei einem Seeschiff die Eintragung eines neuen Eigentümers oder
 des Erwerbers einer Schiffspart beantragt, so ist nachzuweisen, daß
@@ -631,6 +666,7 @@ das Schiff weiterhin zur Führung der Bundesflagge berechtigt ist.
 
 
 ### § 33
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004001307)
 
 Ergeben sich Zweifel gegen die Richtigkeit der Eintragung des
 Eigentümers im Schiffsregister, so hat das Registergericht von Amts
@@ -642,6 +678,7 @@ erforderlichen Unterlagen zu beschaffen; § 19 gilt sinngemäß.
 
 
 ### § 34
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004101307)
 
 Soll die Übertragung oder die Belastung einer Forderung, für die ein
 Pfandrecht an einer Schiffshypothek besteht, eingetragen werden, so
@@ -650,6 +687,7 @@ oder die Belastungserklärung des bisherigen Gläubigers vorgelegt wird.
 
 
 ### § 35
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004201307)
 
 Eine Schiffshypothek darf im Wege der Berichtigung nur mit Zustimmung
 des Eigentümers gelöscht werden. Dies gilt nicht, wenn nachgewiesen
@@ -657,6 +695,7 @@ wird, daß die Schiffshypothek nicht zur Entstehung gelangt ist.
 
 
 ### § 36
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004301307)
 
 In Eintragungsbewilligungen und Eintragungsanträgen sind einzutragende
 Geldbeträge in der im Geltungsbereich des Grundgesetzes geltenden
@@ -665,6 +704,7 @@ gesetzlich zugelassen ist.
 
 
 ### § 37
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004402311)
 
 (1) Eine Eintragung soll nur vorgenommen werden, wenn die
 Eintragungsbewilligung oder die sonstigen zu der Eintragung
@@ -687,6 +727,7 @@ werden.
 
 
 ### § 38
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004501307)
 
 Für den Eintragungsantrag sowie für die Vollmacht zur Stellung eines
 solchen gilt § 37 nur, wenn durch den Antrag zugleich eine zu der
@@ -694,6 +735,7 @@ Eintragung erforderliche Erklärung ersetzt werden soll.
 
 
 ### § 39
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004601307)
 
 Erklärungen, durch die ein Eintragsantrag zurückgenommen oder eine zur
 Stellung des Eintragungsantrags erteilte Vollmacht widerrufen wird,
@@ -701,10 +743,12 @@ bedürfen der in § 37 Abs. 1 Satz 1 vorgeschriebenen Form.
 
 
 ### § 40 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004703125)
 
 
 
 ### § 41
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004802311)
 
 (1) Der Nachweis der Erbfolge kann nur durch einen Erbschein oder ein
 Europäisches Nachlasszeugnis geführt werden. Beruht jedoch die
@@ -726,6 +770,7 @@ Absatzes 1 Satz 2 entsprechend anzuwenden.
 
 
 ### § 42
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE004901307)
 
 (1) Soll bei einem Schiff oder bei einer Schiffshypothek, die zu einem
 Nachlaß gehören, einer von mehreren Erben als Eigentümer oder neuer
@@ -746,6 +791,7 @@ der Beteiligten als Eigentümer oder Gläubiger eingetragen werden soll.
 
 
 ### § 43
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005001307)
 
 Soll ein Nießbrauch an einem Schiff zum Zweck der Erfüllung einer
 Verpflichtung zur Bestellung des Nießbrauchs an einer Erbschaft
@@ -756,6 +802,7 @@ Verfügung nicht in einer öffentlichen Urkunde enthalten ist.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005103125)
 
 Kann eine Tatsache durch das Zeugnis des das Schiffsregister führenden
 Amtsgerichts über den Inhalt anderer Register oder Akten oder durch
@@ -769,6 +816,7 @@ Grundbuchordnung.
 
 
 ### § 45
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005201307)
 
 In den Fällen, in denen nach gesetzlicher Vorschrift eine Behörde
 befugt ist, das Registergericht um eine Eintragung zu ersuchen,
@@ -777,6 +825,7 @@ erfolgt die Eintragung auf Grund des Ersuchens der Behörde; § 23 Abs.
 
 
 ### § 46
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005301307)
 
 Eine Eintragung soll nur erfolgen, wenn der, dessen Recht durch sie
 betroffen wird, als der Berechtigte eingetragen ist; dies gilt nicht,
@@ -784,6 +833,7 @@ wenn der Betroffene Erbe des eingetragenen Betroffen ist.
 
 
 ### § 47
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005401307)
 
 (1) Bei einer Schiffshypothek, die für die Forderung aus einer
 Schuldverschreibung auf den Inhaber oder aus einem Wechsel oder einem
@@ -798,12 +848,14 @@ diesen erlassenen gerichtlichen Entscheidung bewirkt werden soll.
 
 
 ### § 48
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005501307)
 
 Jede Eintragung soll den Tag angeben, an dem sie erfolgt ist. Sie ist
 von den zuständigen Beamten zu unterschreiben.
 
 
 ### § 49
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005601307)
 
 (1) Sind in einer Abteilung des Schiffsregisters mehrere Eintragungen
 zu bewirken, zwischen denen ein Rangverhältnis besteht, so erhalten
@@ -823,6 +875,7 @@ Antragstellern abweichend bestimmt ist.
 
 
 ### § 50
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005701307)
 
 (1) Ein Recht, eine Vormerkung, ein Widerspruch oder eine
 Verfügungsbeschränkung wird durch Eintragung eines Löschungsvermerks
@@ -833,6 +886,7 @@ eingetragenes Recht nicht mitübertragen, so gilt es als gelöscht.
 
 
 ### § 51
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005802125)
 
 (1) Wird ein Recht für mehrere gemeinschaftlich eingetragen, so sollen
 in der Eintragung entweder die Anteile der Berechtigten in Bruchteilen
@@ -846,6 +900,7 @@ Gesellschaftsregister eingetragen ist.
 
 
 ### § 52
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE005901307)
 
 (1) Werden mehrere Schiffe mit einer Schiffshypothek oder mit einem
 Nießbrauch belastet, so ist auf dem Blatt jedes Schiffs die
@@ -857,6 +912,7 @@ derartigen an einem Schiff bestehenden Recht belastet wird.
 
 
 ### § 53
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006001307)
 
 Bei der Eintragung einer Schiffshypothek für
 Teilschuldverschreibungen, die auf den Inhaber lauten oder durch
@@ -867,6 +923,7 @@ wird.
 
 
 ### § 54
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006101307)
 
 Bei der Eintragung eines Vorerben ist zugleich das Recht des Nacherben
 und, soweit der Vorerbe von den Beschränkungen seines Verfügungsrechts
@@ -874,6 +931,7 @@ befreit ist, auch die Befreiung von Amts wegen einzutragen.
 
 
 ### § 55
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006201307)
 
 Ist ein Testamentsvollstrecker ernannt, so ist dies bei der Eintragung
 des Erben von Amts wegen miteinzutragen, es sei denn, daß der
@@ -882,6 +940,7 @@ unterliegt.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006301307)
 
 Ergibt sich, daß das Registergericht unter Verletzung gesetzlicher
 Vorschriften eine Eintragung vorgenommen hat, durch die das
@@ -891,6 +950,7 @@ Inhalt als unzulässig, so ist sie von Amts wegen zu löschen.
 
 
 ### § 57
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006402307)
 
 (1) Jede Eintragung soll dem Antragsteller und dem eingetragenen
 Eigentümer sowie allen aus dem Schiffsregister ersichtlichen Personen
@@ -910,12 +970,14 @@ Seemannsgesetz bekanntzumachen.
 
 
 ### § 58
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006501307)
 
 Für die Eintragung der Rechtsverhältnisse an einer Schiffspart gelten
 die §§ 23 bis 57 sinngemäß.
 
 
 ### § 59
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006601307)
 
 (1) Urkunden, auf die eine Eintragung sich gründet oder Bezug nimmt,
 hat das Registergericht aufzubewahren. Eine solche Urkunde darf nur
@@ -934,10 +996,12 @@ Aufbewahrung übergeben.
 
 
 ## Vierter Abschnitt - Die Schiffsurkunden
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000401307)
 
 
 
 ### § 60
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006701307)
 
 (1) Das Registergericht hat über die Eintragung des Schiffs eine
 Urkunde auszustellen, in die der vollständige Inhalt der Eintragungen
@@ -955,6 +1019,7 @@ und das im Absatz 2 bezeichnete Zeugnis aufzunehmen sind.
 
 
 ### § 61
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006801307)
 
 Jede Eintragung in das Schiffsregister ist so bald als tunlich auf dem
 Schiffszertifikat oder dem Schiffsbrief zu vermerken. Dies gilt nicht
@@ -962,6 +1027,7 @@ für Eintragungen, welche die Belastung einer Schiffspart betreffen.
 
 
 ### § 62
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE006902160)
 
 (1) In den Fällen der §§ 17, 20 Abs. 2 Satz 1 sowie beim Übergang des
 Eigentums an dem Schiff oder beim Erwerb einer Schiffspart sind die im
@@ -982,6 +1048,7 @@ der Schiffsbrief unbrauchbar zu machen.
 
 
 ### § 63
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007001307)
 
 (1) Ein neues Schiffszertifikat oder ein neuer Schiffsbrief darf nur
 erteilt werden, wenn die bisherige Urkunde vorgelegt oder glaubhaft
@@ -996,15 +1063,18 @@ lassen.
 
 
 ### § 64
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007101307)
 
 (weggefallen)
 
 
 ## Fünfter Abschnitt - Register für Schiffsbauwerke (Schiffsbauregister)
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000501307)
 
 
 
 ### § 65
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007201307)
 
 (1) Für das Register für Schiffsbauwerke (Schiffsbauregister) gelten
 die §§ 1, 2, 7 sinngemäß. § 2 Abs. 3 gilt auch für die Gestattung der
@@ -1017,6 +1087,7 @@ auf Verlangen zu beglaubigen. Im übrigen gilt § 8 Abs. 2 sinngemäß.
 
 
 ### § 66
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007301307)
 
 Ein Schiffsbauwerk wird in das Schiffsbauregister nur eingetragen,
 wenn zugleich eine Schiffshypothek an dem Schiffsbauwerk eingetragen
@@ -1025,6 +1096,7 @@ ist.
 
 
 ### § 67
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007401307)
 
 (1) Das Schiffsbauwerk ist in das Register des Bauorts einzutragen.
 
@@ -1035,6 +1107,7 @@ neuen Bauorts die Eintragung des Schiffsbauwerks anzuzeigen.
 
 
 ### § 68
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007501307)
 
 (1) Das Schiffsbauwerk wird in das Schiffsbauregister eingetragen,
 wenn der Inhaber der Schiffswerft, auf der das Schiff erbaut wird, es
@@ -1049,6 +1122,7 @@ Schiffsbauwerks betreiben kann.
 
 
 ### § 69
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007601307)
 
 (1) Bei der Anmeldung des Schiffsbauwerks sind anzugeben:
 
@@ -1077,6 +1151,7 @@ Schiffsvermessungsbehörde oder Eichbehörde erbracht.
 
 
 ### § 70
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007701307)
 
 Die Eintragung des Schiffsbauwerks hat die im § 69 Abs. 1 bezeichneten
 Angaben, die Bezeichnung der im § 69 Abs. 2, 3 genannten Urkunden und
@@ -1085,6 +1160,7 @@ Beamten zu unterschreiben.
 
 
 ### § 71
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007801307)
 
 Der Inhaber der Schiffswerft, auf der das Schiff erbaut wird, und der
 Eigentümer des Schiffsbauwerks haben jede Veränderung in den
@@ -1094,6 +1170,7 @@ Veränderungen sind glaubhaft zu machen. § 19 gilt sinngemäß.
 
 
 ### § 72
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE007901307)
 
 Nach der Anmeldung der Fertigstellung des Schiffs kann eine
 Schiffshypothek im Schiffsbauregister nicht mehr eingetragen werden.
@@ -1101,6 +1178,7 @@ Das gleiche gilt, wenn die Bescheinigung nach § 15 erteilt ist.
 
 
 ### § 73
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008001307)
 
 Die Eintragung des Schiffsbauwerks wird gelöscht,
 
@@ -1123,6 +1201,7 @@ ersichtlichen Berechtigten.
 
 
 ### § 73a
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008101307)
 
 Auf im Bau befindliche Schwimmdocks sind die Vorschriften der §§ 66
 bis 71, 73 entsprechend anzuwenden. Nach Fertigstellung des
@@ -1132,6 +1211,7 @@ einzutragen.
 
 
 ### § 73b
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008201307)
 
 Auf fertiggestellte Schwimmdocks, die nicht im Schiffsbauregister des
 Bauorts eingetragen sind, sind die Vorschriften der §§ 66, 68 Abs. 2
@@ -1183,16 +1263,19 @@ entsprechend anzuwenden. Im übrigen gilt folgendes:
 
 
 ### § 74
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008301307)
 
 Die Vorschriften des Dritten Abschnitts dieses Gesetzes gelten für das
 Schiffsbauregister sinngemäß.
 
 
 ## Sechster Abschnitt - Die Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000601307)
 
 
 
 ### § 75
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008401307)
 
 (1) Entscheidungen des Registergerichts können mit dem Rechtsmittel
 der Beschwerde angefochten werden.
@@ -1203,12 +1286,14 @@ einzutragen oder eine Eintragung zu löschen.
 
 
 ### § 76
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008502160)
 
 Über die Beschwerde entscheidet das Oberlandesgericht, in dessen
 Bezirk das Registergericht seinen Sitz hat.
 
 
 ### § 77
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008604160)
 
 (1) Die Beschwerde kann bei dem Registergericht oder bei dem
 Beschwerdegericht eingelegt werden.
@@ -1224,6 +1309,7 @@ freiwilligen Gerichtsbarkeit.
 
 
 ### § 78
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008701307)
 
 Die Einlegung der Beschwerde hat nur dann aufschiebende Wirkung, wenn
 die Beschwerde gegen eine Verfügung gerichtet ist, durch die ein
@@ -1231,17 +1317,20 @@ Zwangsgeld festgesetzt wird.
 
 
 ### § 79
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008801307)
 
 Die Beschwerde kann auf neue Tatsachen und Beweise gestützt werden.
 
 
 ### § 80
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE008901307)
 
 Erachtet das Registergericht die Beschwerde für begründet, so hat es
 ihr abzuhelfen.
 
 
 ### § 81
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009001307)
 
 (1) Das Beschwerdegericht kann vor der Entscheidung eine einstweilige
 Anordnung erlassen, insbesondere dem Registergericht aufgeben, einen
@@ -1253,12 +1342,14 @@ Beschwerde zurückgenommen oder zurückgewiesen wird.
 
 
 ### § 82
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009101307)
 
 Die Entscheidung des Beschwerdegerichts ist mit Gründen zu versehen
 und dem Beschwerdeführer mitzuteilen.
 
 
 ### § 83
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009205160)
 
 (1) Gegen einen Beschluss des Beschwerdegerichts ist die
 Rechtsbeschwerde statthaft, wenn sie das Beschwerdegericht in dem
@@ -1284,31 +1375,37 @@ Gerichtsbarkeit entsprechende Anwendung.
 
 
 ### § 84
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009302160)
 
 (weggefallen)
 
 
 ### § 85
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009402160)
 
 (weggefallen)
 
 
 ### § 86
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009503160)
 
 (weggefallen)
 
 
 ### § 87
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009602160)
 
 (weggefallen)
 
 
 ### § 88
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009702160)
 
 (weggefallen)
 
 
 ### § 89
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009806311)
 
 (1) Über Beschwerden entscheidet bei den Oberlandesgerichten und dem
 Bundesgerichtshof ein Zivilsenat.
@@ -1335,6 +1432,7 @@ Verfahren beschränkt werden.
 
 
 ### § 90
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE009902160)
 
 Für die Fälle der sofortigen Beschwerde sind die Vorschriften über die
 Beschwerde nach dem Gesetz über das Verfahren in Familiensachen und in
@@ -1342,10 +1440,12 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden.
 
 
 ## Siebter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNG000703301)
 
 
 
 ### § 91
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010003311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
@@ -1356,6 +1456,7 @@ Schiffsurkunden zu erlassen.
 
 
 ### § 92
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010101307)
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das
 Verfahren zu bestimmen, nach dem ein Schiffsregister oder
@@ -1371,6 +1472,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 93
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010302311)
 
 Die Vorschriften des Siebenten Abschnitts der Grundbuchordnung gelten
 sinngemäß. Die Genehmigung für die Einrichtung eines automatisierten
@@ -1383,6 +1485,7 @@ Personen oder Stellen unter den Voraussetzungen des § 133 Abs. 2 Satz
 
 
 ### § 94
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010500311)
 
 (1) Anträge, sonstige Erklärungen sowie Nachweise über andere
 Eintragungsvoraussetzungen können dem Registergericht nach Maßgabe der
@@ -1454,6 +1557,7 @@ Beschwerdeverfahren bleiben unberührt.
 
 
 ### § 95
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010600311)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -1489,6 +1593,7 @@ Landesjustizverwaltungen übertragen können.
 
 
 ### § 96
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010700311)
 
 (1) Ist die Übernahme elektronischer Dokumente in die elektronische
 Registerakte vorübergehend nicht möglich, kann die Leitung des
@@ -1526,6 +1631,7 @@ elektronischen Führung der Register bleiben unberührt.
 
 
 ### § 97
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010800125)
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
 Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
@@ -1558,6 +1664,7 @@ Registerakten enthaltenen personenbezogenen Daten keine Anwendung.
 
 
 ### § 98
+[Direktlink](https://www.gesetze-im-internet.de/schrego/BJNR015910940.html#BJNR015910940BJNE010402125)
 
 (1) Ist ein Binnenschiff vor dem Inkrafttreten des Gesetzes zur
 Änderung der Schiffsregisterordnung vom 4. Juli 1980 (BGBl. I S. 833)

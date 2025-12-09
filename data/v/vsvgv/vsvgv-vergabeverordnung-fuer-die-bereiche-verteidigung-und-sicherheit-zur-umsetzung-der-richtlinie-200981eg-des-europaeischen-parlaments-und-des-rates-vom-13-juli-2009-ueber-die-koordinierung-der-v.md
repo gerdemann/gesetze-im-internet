@@ -26,6 +26,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000100000)
 
 Auf Grund des § 97 Absatz 6, des § 127 Nummer 1, 3 und 8 des Gesetzes
 gegen Wettbewerbsbeschränkungen, von denen § 127 Nummer 1 durch
@@ -38,9 +39,11 @@ Bundesregierung:
 
 
 ## Teil 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000202118)
 
 Diese Verordnung gilt für die Vergabe von verteidigungs- oder
 sicherheitsspezifischen öffentlichen Aufträgen im Sinne des § 104
@@ -52,6 +55,7 @@ werden.
 
 
 ### § 2 Anzuwendende Vorschriften für Liefer-, Dienstleistungs- und Bauaufträge
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000304125)
 
 (1) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
 Liefer- und Dienstleistungsaufträgen sind die Vorschriften dieser
@@ -76,6 +80,7 @@ den Datenservice Öffentlicher Einkauf entsprechend.
 
 
 ### § 3 Schätzung des Auftragswertes
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000402125)
 
 (1) Bei der Schätzung des Auftragswertes ist von der voraussichtlichen
 Gesamtvergütung ohne Umsatzsteuer für die vorgesehene Leistung
@@ -154,6 +159,7 @@ wird.
 
 
 ### § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000501118)
 
 (1) Krise ist jede Situation in einem Mitgliedstaat der Europäischen
 Union oder einem Drittland, in der ein Schadensereignis eingetreten
@@ -190,6 +196,7 @@ Technologie in einem relevanten oder repräsentativen Umfeld.
 
 
 ### § 5 Dienstleistungsaufträge
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000600000)
 
 (1) Aufträge über Dienstleistungen gemäß Anhang I der Richtlinie
 2009/81/EG unterliegen den Vorschriften dieser Verordnung.
@@ -206,6 +213,7 @@ unterliegen diese Aufträge ausschließlich den §§ 15 und 35.
 
 
 ### § 6 Wahrung der Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000700000)
 
 (1) Auftraggeber, Bewerber, Bieter und Auftragnehmer wahren
 gegenseitig die Vertraulichkeit aller Angaben und Unterlagen. Für die
@@ -233,6 +241,7 @@ gerechtfertigt sind.
 
 
 ### § 7 Anforderungen an den Schutz von Verschlusssachen durch Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000802118)
 
 (1) Im Falle eines Verschlusssachenauftrags im Sinne des § 104 Absatz
 3 des Gesetzes gegen Wettbewerbsbeschränkungen müssen Auftraggeber in
@@ -361,6 +370,7 @@ den einzuhaltenden Sicherheitsvorschriften entsprechen.
 [^f777502_02_BJNR150900012BJNE000802118]: 
 
 ### § 8 Versorgungssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE000900000)
 
 (1) Auftraggeber legen in der Bekanntmachung oder den
 Vergabeunterlagen ihre Anforderungen an die Versorgungssicherheit
@@ -434,6 +444,7 @@ Bedingungen anzuwenden.
 
 
 ### § 9 Unteraufträge
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001001118)
 
 (1) Auftraggeber können den Bieter auffordern, in seinem Angebot den
 Teil des Auftrags, den er im Wege von Unteraufträgen an Dritte zu
@@ -500,9 +511,11 @@ unberührt.
 
 
 ## Teil 2 - Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNG000200000)
 
 
 ### § 10 Grundsätze des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001101118)
 
 (1) Für die Berücksichtigung mittelständischer Interessen gilt § 97
 Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen. Mehrere Teil-
@@ -529,6 +542,7 @@ Zwecke der Ertragsberechnung ist unzulässig.
 
 
 ### § 11 Arten der Vergabe von Liefer- und Dienstleistungsaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001200000)
 
 (1) Die Vergabe von Liefer- und Dienstleistungsaufträgen erfolgt im
 nicht offenen Verfahren oder im Verhandlungsverfahren mit
@@ -551,6 +565,7 @@ ist.
 
 
 ### § 12 Verhandlungsverfahren ohne Teilnahmewettbewerb
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001303125)
 
 (1) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist zulässig
 
@@ -728,6 +743,7 @@ ohne Teilnahmewettbewerb in der Bekanntmachung gemäß § 35 begründen.
 
 
 ### § 13 Wettbewerblicher Dialog
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001401118)
 
 (1) Auftraggeber können einen wettbewerblichen Dialog gemäß § 119
 Absatz 6 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen zur
@@ -818,6 +834,7 @@ gehen die Auftraggeber wie folgt vor:
 
 
 ### § 14 Rahmenvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001502118)
 
 (1) Für den Abschluss einer Rahmenvereinbarung im Sinne des § 103
 Absatz 5 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen befolgen
@@ -899,6 +916,7 @@ gemäß § 35.
 
 
 ### § 15 Leistungsbeschreibung und technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001602118)
 
 (1) Die Auftraggeber stellen sicher, dass die Leistungsbeschreibung
 allen Bewerbern und Bietern gleichermaßen zugänglich ist und die
@@ -1061,6 +1079,7 @@ versehen.
 
 
 ### § 16 Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001700000)
 
 (1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich
 sind, um eine Entscheidung zur Teilnahme am Vergabeverfahren oder zur
@@ -1092,6 +1111,7 @@ einer abschließenden Liste zusammenzustellen.
 
 
 ### § 17 Vorinformation
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001802125)
 
 (1) Auftraggeber können durch Vorinformation, die von der Europäischen
 Kommission oder von ihnen selbst in ihrem Beschafferprofil
@@ -1147,6 +1167,7 @@ ohne Teilnahmewettbewerb.
 
 
 ### § 18 Bekanntmachung von Vergabeverfahren; Ex-ante-Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE001902125)
 
 (1) Auftraggeber, die einen Auftrag oder eine Rahmenvereinbarung im
 Wege eines nicht offenen Verfahrens, eines Verhandlungsverfahrens mit
@@ -1215,6 +1236,7 @@ Verbindung mit § 2 Absatz 3.
 
 
 ### § 19 Informationsübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002001118)
 
 (1) Die Auftraggeber geben in der Bekanntmachung oder den
 Vergabeunterlagen an, ob Informationen auf dem Postweg, mittels
@@ -1282,6 +1304,7 @@ Frist für die Übermittlung der Bestätigung an.
 
 
 ### § 20 Fristen für den Eingang von Anträgen auf Teilnahme und Eingang der Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002100000)
 
 (1) Bei der Festsetzung der Fristen für den Eingang der Angebote und
 der Anträge auf Teilnahme berücksichtigen die Auftraggeber unbeschadet
@@ -1353,6 +1376,7 @@ maßgeblichen Formerfordernisse zu beachten.
 
 
 ### § 21 Eignung und Auswahl der Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002201118)
 
 (1) Aufträge werden unter Wahrung der Eignungsanforderungen des § 122
 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen vergeben.
@@ -1413,6 +1437,7 @@ die ordnungsgemäße Durchführung des Auftrags notwendig ist.
 
 
 ### § 22 Allgemeine Vorgaben zum Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002301118)
 
 (1) Auftraggeber müssen in der Bekanntmachung oder im
 Verhandlungsverfahren ohne Teilnahmewettbewerb in den
@@ -1476,6 +1501,7 @@ oder Bieter auszuschließen.
 
 
 ### § 23 Zwingender Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002403118)
 
 (1) Der Auftraggeber schließt ein Unternehmen zu jedem Zeitpunkt des
 Vergabeverfahrens von der Teilnahme aus, wenn ein zwingender
@@ -1526,6 +1552,7 @@ Berufsorganisation des Herkunftslands abgibt.
 
 
 ### § 24 Fakultativer Ausschluss
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002501118)
 
 (1) Der Auftraggeber kann unter Berücksichtigung des Grundsatzes der
 Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt des
@@ -1552,6 +1579,7 @@ gilt § 23 Absatz 5 Satz 2 entsprechend.
 
 
 ### § 25 Nachweis der Erlaubnis zur Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002600000)
 
 (1) Die Auftraggeber können die Bewerber oder Bieter auffordern, als
 Nachweis für die Erlaubnis zur Berufsausübung
@@ -1579,6 +1607,7 @@ Nachweis zu erbringen.
 
 
 ### § 26 Nachweis der wirtschaftlichen und finanziellen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002700000)
 
 (1) Auftraggeber können je nach Art, Verwendungszweck und Menge der zu
 liefernden Güter oder dem Umfang der zu erbringenden Dienstleistungen
@@ -1615,6 +1644,7 @@ stehen. Dies gilt auch für Bewerber- oder Bietergemeinschaften.
 
 
 ### § 27 Nachweis der technischen und beruflichen Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002802118)
 
 (1) Auftraggeber können je nach Art, Verwendungszweck und Menge der zu
 liefernden Güter oder dem Umfang der zu erbringenden Dienstleistungen
@@ -1804,6 +1834,7 @@ Vorlage jedes anderen geeigneten Nachweises zulassen.
 
 
 ### § 28 Nachweis für die Einhaltung von Normen des Qualitäts- und Umweltmanagements
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE002900000)
 
 (1) Verlangen Auftraggeber zum Nachweis dafür, dass Bewerber oder
 Bieter bestimmte Normen des Qualitätsmanagements erfüllen, die Vorlage
@@ -1848,6 +1879,7 @@ Bietern vorgelegt werden.
 
 
 ### § 29 Aufforderung zur Abgabe eines Angebots
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003001118)
 
 (1) Beim nicht offenen Verfahren, Verhandlungsverfahren mit
 Teilnahmewettbewerb und wettbewerblichen Dialog fordern Auftraggeber
@@ -1914,6 +1946,7 @@ beizubringen. § 22 Absatz 6 gilt entsprechend.
 
 
 ### § 30 Öffnung der Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003100000)
 
 (1) Auf dem Postweg und direkt übermittelte Angebote sind ungeöffnet
 zu lassen, mit Eingangsvermerk zu versehen und bis zum Zeitpunkt der
@@ -1944,6 +1977,7 @@ sorgfältig zu verwahren und vertraulich zu behandeln.
 
 
 ### § 31 Prüfung der Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003201118)
 
 (1) Die Angebote sind auf Vollständigkeit sowie auf fachliche und
 rechnerische Richtigkeit zu prüfen.
@@ -1989,6 +2023,7 @@ rechnerische Richtigkeit zu prüfen.
 
 
 ### § 32 Nebenangebote
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003300000)
 
 (1) Auftraggeber können Nebenangebote in der Bekanntmachung zulassen.
 In diesem Fall geben Auftraggeber in den Vergabeunterlagen an, welche
@@ -2005,6 +2040,7 @@ eines Dienstleistungsauftrags führen würde.
 
 
 ### § 33 Ungewöhnlich niedrige Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003401118)
 
 (1) Erscheint ein Angebot im Verhältnis zu der zu erbringenden
 Leistung ungewöhnlich niedrig, verlangen die Auftraggeber vor
@@ -2028,6 +2064,7 @@ dies der Europäischen Kommission mitteilen.
 
 
 ### § 34 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003502118)
 
 (1) Die Annahme eines Angebots (Zuschlag) erfolgt in Schriftform oder
 elektronisch mindestens mittels einer fortgeschrittenen elektronischen
@@ -2074,6 +2111,7 @@ sein:
 
 
 ### § 35 Bekanntmachung über die Auftragserteilung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003602125)
 
 (1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags
 oder den Abschluss einer Rahmenvereinbarung innerhalb von 48 Tagen
@@ -2099,6 +2137,7 @@ bekanntzumachen.
 
 
 ### § 36 Unterrichtung der Bewerber oder Bieter
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003702118)
 
 (1) Unbeschadet des § 147 in Verbindung mit § 134 des Gesetzes gegen
 Wettbewerbsbeschränkungen unterrichten die Auftraggeber alle Bewerber
@@ -2138,6 +2177,7 @@ Gesetzbuchs,
 
 
 ### § 37 Aufhebung und Einstellung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003800000)
 
 (1) Die Vergabeverfahren können ganz oder bei Vergabe nach Losen auch
 teilweise aufgehoben werden, wenn
@@ -2165,9 +2205,11 @@ oder das Vergabeverfahren erneut einzuleiten.
 
 
 ## Teil 3 - Unterauftragsvergabe
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNG000300000)
 
 
 ### § 38 Allgemeine Vorgaben zur Unterauftragsvergabe
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE003901118)
 
 (1) In den Fällen des § 9 Absatz 3 Nummer 1 und 2 vergeben
 Auftragnehmer, die keine öffentlichen Auftraggeber im Sinne des § 99
@@ -2195,6 +2237,7 @@ entsprechend.
 
 
 ### § 39 Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004002125)
 
 (1) Der Auftragnehmer veröffentlicht seine Absicht, einen Unterauftrag
 zu vergeben, in Form einer Bekanntmachung. Die Bekanntmachung enthält
@@ -2212,6 +2255,7 @@ Teilnahmewettbewerb zulässig wäre.
 
 
 ### § 40 Kriterien zur Auswahl der Unterauftragsnehmer
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004100000)
 
 (1) In der Bekanntmachung für den Unterauftrag gibt der Auftragnehmer
 die vom Auftraggeber festgelegten Eignungskriterien sowie alle anderen
@@ -2232,6 +2276,7 @@ unmöglich wäre, die Anforderungen des Hauptauftrags zu erfüllen.
 
 
 ### § 41 Unteraufträge aufgrund einer Rahmenvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004200000)
 
 (1) Der Auftragnehmer kann die Anforderungen an die Vergabe von
 Unteraufträgen im Sinne des § 9 Absatz 3 Nummer 1 und 2 erfüllen,
@@ -2247,9 +2292,11 @@ gilt § 14 Absatz 1 Satz 2 und Absatz 6 Satz 1 und 2 entsprechend.
 
 
 ## Teil 4 - Besondere Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNG000400000)
 
 
 ### § 42 Ausgeschlossene Personen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004300000)
 
 (1) Als Organmitglied oder Mitarbeiter eines Auftraggebers oder als
 Beauftragter oder als Mitarbeiter eines Beauftragten eines
@@ -2293,6 +2340,7 @@ Pflegekinder.
 
 
 ### § 43 Dokumentations- und Aufbewahrungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004400000)
 
 (1) Das Vergabeverfahren ist von Beginn an in einem Vergabevermerk
 fortlaufend zu dokumentieren, um die einzelnen Stufen des Verfahrens,
@@ -2366,9 +2414,11 @@ mitteilen.
 
 
 ## Teil 5 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNG000501118)
 
 
 ### § 44 Übergangsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004601118)
 
 Vergabeverfahren, die vor dem Inkrafttreten der Verordnung begonnen
 haben, werden einschließlich der sich an diese anschließenden
@@ -2377,6 +2427,7 @@ Zeitpunkt der Einleitung des Verfahrens galt.
 
 
 ### § 44a Anwendungsbestimmungen aus Anlass der Einführung von e-Forms
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE005000125)
 
 Bis zum Ablauf des sich nach § 83 Absatz 2 der Vergabeverordnung
 ergebenden Tages sind
@@ -2392,11 +2443,13 @@ ergebenden Tages sind
 
 
 ### § 45 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004701118)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/vsvgv/BJNR150900012.html#BJNR150900012BJNE004801118)
 
 Der Bundesrat hat zugestimmt.
 

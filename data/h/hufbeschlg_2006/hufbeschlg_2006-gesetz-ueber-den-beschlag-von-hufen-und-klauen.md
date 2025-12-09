@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000100000)
 
 (1) Die Gesundheit von Huf- und Klauentieren, insbesondere die
 Leistungsfähigkeit ihres Bewegungsapparates, ist durch einen sach-,
@@ -43,6 +44,7 @@ Hufbeschlaglehrschmiedinnen und Hufbeschlagschulen geregelt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000200000)
 
 Im Sinne dieses Gesetzes sind
 
@@ -63,6 +65,7 @@ Im Sinne dieses Gesetzes sind
 
 
 ## § 3 Hufbeschlagschmiede/Hufbeschlagschmiedinnen, Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000300000)
 
 (1) Der Huf- und Klauenbeschlag darf nur von geprüften und staatlich
 anerkannten Hufbeschlagschmieden/Hufbeschlagschmiedinnen ausgeübt
@@ -86,6 +89,7 @@ Gewerbe im Sinne der Handwerksordnung.
 
 
 ## § 4 Anerkennung der Hufbeschlagschmiede/Hufbeschlagschmiedinnen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000400000)
 
 (1) Als Hufbeschlagschmied/Hufbeschlagschmiedin wird staatlich
 anerkannt, wer
@@ -126,6 +130,7 @@ Teile der Ausbildung an staatlich anerkannten Ausbildungsstätten
 
 
 ## § 5 Anerkennung der Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000500000)
 
 (1) Als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin wird staatlich
 anerkannt, wer
@@ -166,6 +171,7 @@ durchzuführen.
 
 
 ## § 6 Hufbeschlagschulen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000600000)
 
 (1) Hufbeschlagschulen dürfen nur betrieben werden, wenn sie staatlich
 anerkannt sind.
@@ -202,6 +208,7 @@ anerkannt sind.
 
 
 ## § 7 Widerruf der Anerkennungen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000700000)
 
 (1) Die Anerkennung als Hufbeschlagschmied/Hufbeschlagschmiedin oder
 als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin ist zu widerrufen,
@@ -222,6 +229,7 @@ die Aufhebung entfallen sind.
 
 
 ## § 8 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000801118)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -270,6 +278,7 @@ diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 
 
 ## § 9 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE000900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -304,6 +313,7 @@ werden.
 
 
 ## § 10 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE001000000)
 
 (1) Die bis zum Ablauf des 31. Dezember 2006 nach bisherigem Recht
 erworbenen Prüfungszeugnisse und staatlichen Anerkennungen für
@@ -325,6 +335,7 @@ unberührt.
 
 
 ## § 11 Aufhebung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hufbeschlg_2006/BJNR090010006.html#BJNR090010006BJNE001100000)
 
 (1) Es werden aufgehoben:
 

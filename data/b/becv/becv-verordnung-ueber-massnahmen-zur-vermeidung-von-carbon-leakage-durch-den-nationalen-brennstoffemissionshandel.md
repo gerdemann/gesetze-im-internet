@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000100000)
 
 Auf Grund des § 11 Absatz 3 des Brennstoffemissionshandelsgesetzes vom
 12\. Dezember 2019 (BGBl. I S. 2728), dessen Satz 1 durch Artikel 1
@@ -27,9 +28,11 @@ Beschlusses des Bundestages vom 24. Juni 2021:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zweck
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000300000)
 
 (1) Diese Verordnung gilt innerhalb des Anwendungsbereichs des
 Brennstoffemissionshandelsgesetzes.
@@ -41,6 +44,7 @@ Wettbewerbsfähigkeit betroffener Unternehmen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000400000)
 
 Für diese Verordnung gelten neben den Begriffsbestimmungen des
 Brennstoffemissionshandelsgesetzes und der
@@ -141,6 +145,7 @@ Begriffsbestimmungen:
 
 
 ### § 3 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000500000)
 
 Zuständige Behörde für die Durchführung dieser Verordnung ist das
 Umweltbundesamt als zuständige Behörde gemäß § 13 Absatz 1 des
@@ -148,6 +153,7 @@ Brennstoffemissionshandelsgesetzes.
 
 
 ### § 4 Voraussetzung für die Beihilfegewährung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000600000)
 
 (1) Auf Antrag gewährt die zuständige Behörde antragstellenden
 Unternehmen zur Vermeidung von Carbon-Leakage und zum Erhalt ihrer
@@ -209,9 +215,11 @@ Haushaltsmittel zur Gesamtbeihilfesumme anteilig gekürzt.
 
 
 ## Abschnitt 2 - Beihilfefähige Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000200000)
 
 
 ### § 5 Sektorzuordnung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000700000)
 
 (1) Ein Unternehmen ist beihilfefähig, wenn es einem
 beihilfeberechtigten Sektor oder Teilsektor zuzuordnen ist.
@@ -244,6 +252,7 @@ herangezogen werden.
 
 
 ### § 6 Anwendung auf selbständige Unternehmensteile
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000800000)
 
 (1) Anstelle der beihilfefähigen Unternehmen nach § 5 sind auch
 selbständige Unternehmensteile unter den Voraussetzungen des Absatzes
@@ -259,6 +268,7 @@ Dezember 2020 (BGBl. I S. 3138) geändert worden ist.
 
 
 ### § 7 Unternehmensbezogene Emissionsintensität, Schwellenwert
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE000900000)
 
 (1) Die zur Ermittlung des Kompensationsgrades nach § 8 Absatz 2 zu
 berücksichtigende Emissionsintensität eines Unternehmens ergibt sich
@@ -304,9 +314,11 @@ Verordnung ein Kompensationsgrad
 
 
 ## Abschnitt 3 - Berechnung der Beihilfehöhe
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000300000)
 
 
 ### § 8 Gesamtbeihilfebetrag
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001000000)
 
 (1) Der zu bestimmende Gesamtbeihilfebetrag ergibt sich aus dem
 Produkt der maßgeblichen Emissionsmenge nach § 9, dem für das
@@ -348,6 +360,7 @@ Absatz 1 Satz 2 und 3 des Brennstoffemissionshandelsgesetzes.
 
 
 ### § 9 Maßgebliche Emissionsmenge
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001100000)
 
 (1) Die maßgebliche Emissionsmenge des Unternehmens berechnet sich aus
 der beihilfefähigen Brennstoffmenge nach Absatz 2 multipliziert mit
@@ -467,9 +480,11 @@ einem Gesamtenergieverbrauch
 
 
 ## Abschnitt 4 - Gegenleistungen der Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000400000)
 
 
 ### § 10 Energiemanagementsystem
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001200000)
 
 (1) Als Gegenleistung für die Gewährung der Beihilfe muss ein
 beihilfeberechtigtes Unternehmen spätestens ab dem 1. Januar 2023 ein
@@ -507,6 +522,7 @@ spätestens ab dem 1. Januar 2023
 [^F817249_01_BJNR312900021BJNE001200000]: 
 
 ### § 11 Klimaschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001300000)
 
 (1) Ein Unternehmen erhält die Beihilfe nach dieser Verordnung, wenn
 es neben den weiteren Voraussetzungen dieser Verordnung ab dem
@@ -581,6 +597,7 @@ Dritte im Rahmen des vorgesehenen Projektablaufs.
 
 
 ### § 12 Nachweis der Gegenleistungen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001400000)
 
 (1) Die Erfüllung der Voraussetzungen nach § 10 ist gegenüber der
 zuständigen Behörde wie folgt nachzuweisen:
@@ -654,9 +671,11 @@ weiteren wirtschaftlich durchführbaren Maßnahmen identifiziert wurden.
 
 
 ## Abschnitt 5 - Beihilfeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000500000)
 
 
 ### § 13 Antragsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001500000)
 
 (1) Beihilfeanträge für die Abrechnungsjahre 2021 bis 2030 sind
 jeweils bis zum 30. Juni des auf das Abrechnungsjahr folgenden
@@ -705,6 +724,7 @@ Absatz 3 um mehr als 100 Prozent übersteigt.
 
 
 ### § 14 Subventionserheblichkeit
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001600000)
 
 Die subventionserheblichen Tatsachen im Sinne des § 264 des
 Strafgesetzbuches in Verbindung mit § 2 des Subventionsgesetzes vom
@@ -718,6 +738,7 @@ Beihilfe erheblich sind.
 
 
 ### § 15 Auskunftsanspruch
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001700000)
 
 (1) Das antragstellende Unternehmen ist verpflichtet, der zuständigen
 Behörde auf Verlangen Auskünfte zu erteilen und Einsicht in Bücher und
@@ -761,6 +782,7 @@ Einverständnis erklären, dass
 
 
 ### § 16 Bundeshaushaltsordnung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001800000)
 
 Für die Bewilligung, Auszahlung und Abrechnung der Beihilfe und die
 gegebenenfalls erforderliche Aufhebung des Beihilfebescheides und die
@@ -777,6 +799,7 @@ nach den §§ 91 ff. der Bundeshaushaltsordnung.
 
 
 ### § 17 Korruptionsprävention
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE001900000)
 
 Das antragstellende Unternehmen ist verpflichtet, die Richtlinie der
 Bundesregierung zur Korruptionsprävention in der Bundesverwaltung vom
@@ -784,9 +807,11 @@ Bundesregierung zur Korruptionsprävention in der Bundesverwaltung vom
 
 
 ## Abschnitt 6 - Nachträgliche Anerkennung beihilfeberechtigter Sektoren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000600000)
 
 
 ### § 18 Anerkennung weiterer Sektoren, Bekanntmachung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002000000)
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit trifft die Entscheidung über die nachträgliche Anerkennung
@@ -818,6 +843,7 @@ das Beihilfesystem nach dieser Verordnung im Bundesanzeiger bekannt.
 
 
 ### § 19 Antragsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002100000)
 
 (1) Die nachträgliche Anerkennung eines Sektors oder Teilsektors als
 beihilfeberechtigt nach diesem Abschnitt erfolgt auf Antrag.
@@ -862,6 +888,7 @@ einer 3-stelligen Einzel-BWA zuzuordnen sind.
 
 
 ### § 20 Nachträgliche Anerkennung nach quantitativen Kriterien
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002200000)
 
 (1) Die Entscheidung nach § 18 Absatz 1 über die nachträgliche
 Anerkennung von Sektoren und Teilsektoren aus Waren produzierenden
@@ -885,6 +912,7 @@ Sektor oder Teilsektor zuzuordnenden Unternehmen entsprechend.
 
 
 ### § 21 Nachträgliche Anerkennung nach qualitativen Kriterien
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002300000)
 
 (1) Die Entscheidung nach § 18 Absatz 1 über die nachträgliche
 Anerkennung von Sektoren und Teilsektoren, deren nationaler Carbon-
@@ -919,6 +947,7 @@ Prozesse.
 
 
 ### § 22 Anerkennungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002400000)
 
 (1) Für jeden Sektor oder Teilsektor kann jeweils nur ein Antrag auf
 nachträgliche Anerkennung als beihilfeberechtigter Sektor oder
@@ -962,9 +991,11 @@ Abweichungen ist.
 
 
 ## Abschnitt 7 - Besondere Einstufungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000700000)
 
 
 ### § 23 Anpassung der Emissionsintensität beihilfefähiger Teilsektoren
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002500000)
 
 (1) Für die nach der Tabelle 2 der Anlage zu dieser Verordnung
 beihilfefähigen Teilsektoren sowie für die Teilsektoren innerhalb der
@@ -993,9 +1024,11 @@ Kompensationsgrad von 95 Prozent zugeordnet.
 
 
 ## Abschnitt 8 - Datenschutz, Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000800000)
 
 
 ### § 24 Erhebung, Speicherung und Verwendung von personenbezogenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002600000)
 
 (1) Die zuständige Behörde erhebt, speichert und verwendet folgende
 personenbezogene Daten, soweit diese zur Durchführung des
@@ -1046,6 +1079,7 @@ anzupassen sind.
 
 
 ### § 25 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002700000)
 
 Im Zusammenhang mit der Durchführung des Beihilfeverfahrens, der
 Prüfung der Beihilfeberechtigung oder der Durchführung von Maßnahmen
@@ -1057,9 +1091,11 @@ behandeln.
 
 
 ## Abschnitt 9 - Sonstige Regelungen, Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNG000900000)
 
 
 ### § 26 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002800000)
 
 (1) Die zuständige Behörde wertet die durchgeführten Beihilfeverfahren
 für das vergangene Abrechnungsjahr aus und veröffentlicht einen
@@ -1099,6 +1135,7 @@ ob Änderungsbedarf an dieser Verordnung besteht.
 
 
 ### § 27 Beihilferechtlicher Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE002900000)
 
 Die Bestimmungen dieser Verordnung dürfen erst nach der
 beihilferechtlichen Genehmigung durch die Europäische Kommission und
@@ -1108,12 +1145,14 @@ Bestimmungen die abschließende Entscheidung der zuständigen Behörde
 
 
 ### § 28 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE003000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu den §§ 5, 7, 8 und 9)
 
 ### Anlage Beihilfeberechtigte Sektoren und sektorbezogene Kompensationsgrade
+[Direktlink](https://www.gesetze-im-internet.de/becv/BJNR312900021.html#BJNR312900021BJNE003200000)
 
 (Fundstelle: BGBl. I 2021, 3139 - 3140)
 

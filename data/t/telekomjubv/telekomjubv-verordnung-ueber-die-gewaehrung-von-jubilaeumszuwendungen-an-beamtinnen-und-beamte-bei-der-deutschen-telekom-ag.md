@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/telekomjubv/BJNR179100005.html#BJNR179100005BJNE000100000)
 
 Auf Grund des § 3 Abs. 5 des Postpersonalrechtsgesetzes vom 14.
 September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 3 des
@@ -31,6 +32,7 @@ Vorstands der Deutschen Telekom AG:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/telekomjubv/BJNR179100005.html#BJNR179100005BJNE000201305)
 
 Ergänzend zu den Vorschriften der Dienstjubiläumsverordnung vom 18.
 Dezember 2014 (BGBl. I S. 2267) gelten für die Beamtinnen und Beamten,
@@ -42,6 +44,7 @@ sind.
 
 
 ## § 2 Jubiläumszuwendung
+[Direktlink](https://www.gesetze-im-internet.de/telekomjubv/BJNR179100005.html#BJNR179100005BJNE000301305)
 
 (1) Anstelle der Jubiläumszuwendung nach § 2 Absatz 2 der
 Dienstjubiläumsverordnung können die Beamtinnen und Beamten nach § 1
@@ -59,6 +62,7 @@ auf ihr Wahlrecht, gilt § 2 Absatz 2 der Dienstjubiläumsverordnung.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/telekomjubv/BJNR179100005.html#BJNR179100005BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

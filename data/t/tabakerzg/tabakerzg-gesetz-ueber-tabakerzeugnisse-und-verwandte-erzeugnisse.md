@@ -20,9 +20,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000100000)
 
 
 ### § 1 Begriffsbestimmungen; Anwendbarkeit weiterer Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000203130)
 
 (1) Für die Anwendung dieses Gesetzes und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen gelten die Begriffsbestimmungen
@@ -79,6 +81,7 @@ Rechtsverordnungen bleiben unberührt.
 
 
 ### § 2 Sonstige Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000302116)
 
 Im Sinne dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen
 Rechtsverordnungen ist oder sind:
@@ -134,6 +137,7 @@ Rechtsverordnungen ist oder sind:
 
 
 ### § 3 Verantwortliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000401116)
 
 (1) Die Wirtschaftsteilnehmer und die Inhaber erster Verkaufsstellen
 sind im Rahmen ihrer Geschäftstätigkeit gleichermaßen verpflichtet
@@ -150,9 +154,11 @@ Person, die Werbung oder Sponsoring betreibt.
 
 
 ## Abschnitt 2 - Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000200000)
 
 
 ### § 4 Emissionswerte
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000502130)
 
 (1) Zigaretten dürfen nur in der Weise hergestellt oder in den Verkehr
 gebracht werden, dass folgende Emissionswerte nicht überschritten
@@ -178,6 +184,7 @@ Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
 
 
 ### § 5 Inhaltsstoffe
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000602130)
 
 (1) Es ist verboten, in den Verkehr zu bringen:
 
@@ -273,6 +280,7 @@ das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
 
 ### § 6 Warnhinweise und Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000702130)
 
 (1) Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn
 die Packungen und Außenverpackungen mit den gesundheitsbezogenen
@@ -302,6 +310,7 @@ ermächtigt,
 
 
 ### § 7 Rückverfolgbarkeit; Erkennungs- und Sicherheitsmerkmal
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000802116)
 
 (1) Tabakerzeugnisse dürfen nur hergestellt oder in Verkehr gebracht
 werden, wenn sie einem Rückverfolgbarkeitssystem unterliegen, das den
@@ -415,6 +424,7 @@ regeln. Es kann dabei insbesondere
 
 
 ### § 7a Ausgabestelle; unabhängiger Anbieter
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004900116)
 
 (1) Die Ausgabestelle nach Artikel 3 Absatz 1 der
 Durchführungsverordnung (EU) 2018/574 nimmt ihre Tätigkeit der
@@ -479,6 +489,7 @@ gilt in diesem Fall entsprechend.
 
 
 ### § 7b Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE005000116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann im
 Einvernehmen mit dem Bundesministerium der Finanzen
@@ -537,6 +548,7 @@ erlassen werden über
 
 
 ### § 8 Bestrahlung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE000903130)
 
 (1) Es ist verboten,
 
@@ -572,6 +584,7 @@ des Bundesrates,
 
 
 ### § 9 Pflanzenschutzmittel
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001001130)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -593,6 +606,7 @@ Gesundheitsschäden erforderlich ist,
 
 
 ### § 10 Kenntlichmachung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001102130)
 
 (1) Die Anwendung der aufgrund von Rechtsverordnungen nach § 8 Absatz
 2 Nummer 1 zugelassenen Bestrahlung ist kenntlich zu machen. Das
@@ -620,12 +634,14 @@ Gesundheitsschäden erforderlich ist,
 
 
 ### § 11 Tabakerzeugnisse zum oralen Gebrauch
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001200000)
 
 Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr
 zu bringen.
 
 
 ### § 12 Neuartige Tabakerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001302130)
 
 (1) Neuartige Tabakerzeugnisse dürfen nur in den Verkehr gebracht
 werden, wenn sie zugelassen sind.
@@ -662,9 +678,11 @@ beizubringenden Informationen insbesondere über
 
 
 ## Abschnitt 3 - Verwandte Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000300000)
 
 
 ### § 13 Inhaltsstoffe von elektronischen Zigaretten und Nachfüllbehältern
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001402130)
 
 (1) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den
 Verkehr gebracht werden, wenn
@@ -708,6 +726,7 @@ Nachfüllbehälter
 
 
 ### § 14 Beschaffenheit von elektronischen Zigaretten und Nachfüllbehältern
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001503130)
 
 (1) Elektronische Zigaretten und Nachfüllbehälter, die Nikotin
 enthalten, dürfen nach Maßgabe des Satzes 2 nur in den Verkehr
@@ -750,6 +769,7 @@ erforderlich ist, für elektronische Zigaretten und Nachfüllbehälter
 
 
 ### § 15 Beipackzettel, Warnhinweis und Verpackung für elektronische Zigaretten und Nachfüllbehälter
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001603130)
 
 (1) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den
 Verkehr gebracht werden
@@ -814,6 +834,7 @@ Dritter vor Gesundheitsschäden erforderlich ist,
 
 
 ### § 16 Allgemeine Pflichten des Herstellers, des Importeurs und des Händlers von elektronischen Zigaretten und Nachfüllbehältern
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001701116)
 
 (1) Der Hersteller, der Importeur und der Händler haben jeweils im
 Rahmen ihrer Geschäftstätigkeit Vorkehrungen für geeignete Maßnahmen
@@ -883,6 +904,7 @@ die Gesundheit.
 
 
 ### § 17 Pflanzliche Raucherzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001802130)
 
 (1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht
 werden, wenn die Packungen und Außenverpackungen mit
@@ -897,9 +919,11 @@ gesundheitsbezogenen Warnhinweisen zu regeln.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften für Tabakerzeugnisse und verwandte Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000400000)
 
 
 ### § 18 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE001900000)
 
 (1) Es ist verboten,
 
@@ -987,6 +1011,7 @@ die sich auf das Fehlen von Zusatz- oder Aromastoffen beziehen.
 
 
 ### § 19 Verbot der Hörfunkwerbung, der Werbung in Druckerzeugnissen und in Diensten der Informationsgesellschaft, Verbot des Sponsorings
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002000000)
 
 (1) Es ist verboten, für Tabakerzeugnisse, elektronische Zigaretten
 oder Nachfüllbehälter im Hörfunk zu werben.
@@ -1036,6 +1061,7 @@ fördern, wenn
 
 
 ### § 20 Verbot der audiovisuellen kommerziellen Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002101116)
 
 Es ist verboten, audiovisuelle kommerzielle Kommunikation im Sinne des
 Artikels 1 Absatz 1 Buchstabe h der Richtlinie 2010/13/EU des
@@ -1051,6 +1077,7 @@ dieser Erzeugnisse ist, zu betreiben.
 
 
 ### § 20a Verbot der Außenwerbung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE005100116)
 
 Es ist verboten, Außenwerbung für Tabakerzeugnisse, elektronische
 Zigaretten oder Nachfüllbehälter zu betreiben. Satz 1 gilt nicht für
@@ -1059,6 +1086,7 @@ von Geschäftsräumen des Fachhandels.
 
 
 ### § 20b Verbot der kostenlosen Abgabe und der Ausspielung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE005200116)
 
 (1) Es ist verboten, Zigaretten, Tabak zum Selbstdrehen oder
 Wasserpfeifentabak außerhalb von Geschäftsräumen des Fachhandels
@@ -1069,6 +1097,7 @@ Nachfüllbehälter gewerbsmäßig auszuspielen.
 
 
 ### § 21 Verbot von Werbung mit qualitativen Zielen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002202130)
 
 (1) Es ist verboten, im Verkehr mit Tabakerzeugnissen oder in der
 Werbung dafür werbliche Informationen zu verwenden,
@@ -1113,6 +1142,7 @@ Verbote des Absatzes 1 zu erlassen, insbesondere
 
 
 ### § 22 Grenzüberschreitender Fernabsatz an Verbraucher; Datenschutz
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002304130)
 
 (1) Wer grenzüberschreitenden Fernabsatz von Tabakerzeugnissen,
 elektronischen Zigaretten oder Nachfüllbehältern an Verbraucherinnen
@@ -1216,6 +1246,7 @@ Rechtsakten der Europäischen Union
 
 
 ### § 23 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002402130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -1332,9 +1363,11 @@ nicht in den Verkehr gebracht werden.
 
 
 ## Abschnitt 5 - Bedarfsgegenstände
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000500000)
 
 
 ### § 24 Allgemeine Anforderungen an das Inverkehrbringen von Bedarfsgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002500000)
 
 Bedarfsgegenstände dürfen nur in den Verkehr gebracht werden, wenn sie
 aufgrund ihrer stofflichen Zusammensetzung, insbesondere durch
@@ -1344,6 +1377,7 @@ bestimmungsgemäßer oder vorhersehbarer Verwendung nicht gefährden.
 
 
 ### § 25 Übergang von Stoffen auf Erzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002601000)
 
 (1) Es ist verboten, Bedarfsgegenstände so zu verwenden oder für
 solche Verwendungszwecke in den Verkehr zu bringen, dass von ihnen
@@ -1365,6 +1399,7 @@ solcher Rechtsverordnungen nicht der Zustimmung des Bundesrates.
 
 
 ### § 26 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002702130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
@@ -1423,9 +1458,11 @@ Verbraucherschutz.
 
 
 ## Abschnitt 6 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000600000)
 
 
 ### § 27 Zuständigkeit und Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002800000)
 
 (1) Vorbehaltlich des Satzes 2 obliegt die Marktüberwachung den nach
 Landesrecht zuständigen Behörden. Zuständigkeiten zur Durchführung
@@ -1452,6 +1489,7 @@ zuständig ist.
 
 
 ### § 27a Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE005300130)
 
 Die Überwachung der Einhaltung dieses Gesetzes, der aufgrund dieses
 Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden
@@ -1496,6 +1534,7 @@ Ermächtigung durch Rechtsverordnung auf andere Behörden zu übertragen.
 
 
 ### § 28 Aufgaben der Marktüberwachungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE002900000)
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung
 auf der Grundlage eines Überwachungskonzepts zu gewährleisten. Das
@@ -1540,6 +1579,7 @@ in anderen Mitgliedstaaten der Europäischen Union eingeleitet wurden.
 
 
 ### § 29 Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003000000)
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob
@@ -1637,12 +1677,14 @@ Daten.
 
 
 ### § 30 Adressaten der Marktüberwachungsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003100000)
 
 Die Maßnahmen der Marktüberwachungsbehörde sind gegen den nach § 3
 Verpflichteten gerichtet.
 
 
 ### § 31 Betretensrechte und Befugnisse, Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003200000)
 
 (1) Die Marktüberwachungsbehörden und die von ihnen beauftragten
 Personen sind, soweit dies zur Erfüllung ihrer Überwachungsaufgaben
@@ -1700,6 +1742,7 @@ eintreten würde.
 
 
 ### § 32 Duldungs- und Mitwirkungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003300000)
 
 Die nach § 3 Verpflichteten haben Maßnahmen nach § 31 Absatz 1 bis 3
 zu dulden sowie die Marktüberwachungsbehörden und deren Beauftragte zu
@@ -1715,6 +1758,7 @@ Auskunftsverweigerung zu belehren.
 
 
 ### § 33 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003400000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, um eine einheitliche Durchführung der Überwachung zu
@@ -1742,9 +1786,11 @@ fördern, durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000700000)
 
 
 ### § 34 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003501130)
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -1873,6 +1919,7 @@ Tatbestand auf diese Strafvorschrift verweist.
 
 
 ### § 35 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003601116)
 
 (1) Ordnungswidrig handelt, wer eine in § 34 bezeichnete Handlung
 fahrlässig begeht.
@@ -2016,6 +2063,7 @@ fünftausend Euro geahndet werden.
 
 
 ### § 36 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003700000)
 
 Gegenstände, auf die sich eine Straftat nach § 34 oder eine
 Ordnungswidrigkeit nach § 35 Absatz 1, 2 oder 3 bezieht, können
@@ -2024,6 +2072,7 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 ### § 37 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003800000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit es zur Durchführung der Rechtsakte der Europäischen
@@ -2040,9 +2089,11 @@ Bundesrates die Tatbestände zu bezeichnen, die
 
 
 ## Abschnitt 8 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNG000800000)
 
 
 ### § 38 Amtliche Sammlung von Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE003900000)
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und
@@ -2054,6 +2105,7 @@ Sammlung ist laufend auf dem neuesten Stand zu halten.
 
 
 ### § 39 Zulassung von Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004001000)
 
 (1) Von den Vorschriften dieses Gesetzes und der aufgrund dieses
 Gesetzes erlassenen Rechtsverordnungen können im Einzelfall auf Antrag
@@ -2098,6 +2150,7 @@ zu erlassen.
 
 
 ### § 40 Erzeugnisse aus anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004100000)
 
 (1) Erzeugnisse, die in einem anderen Mitgliedstaat der Europäischen
 Union oder einem anderen Vertragsstaat des Abkommens über den
@@ -2141,6 +2194,7 @@ Antragsteller über die Gründe zu unterrichten.
 
 
 ### § 41 Vorübergehende Verbringungsverbote
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004200000)
 
 Die zuständigen Behörden dürfen die Einfuhr oder das sonstige
 Verbringen von Erzeugnissen im Sinne dieses Gesetzes in das Inland im
@@ -2159,6 +2213,7 @@ Einzelfall vorübergehend verbieten oder beschränken, wenn
 
 
 ### § 42 Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004302116)
 
 (1) Auf Erzeugnisse, die zur Lieferung in das Ausland bestimmt sind,
 finden die Vorschriften dieses Gesetzes und der aufgrund dieses
@@ -2199,6 +2254,7 @@ Wirtschaftsraum oder in Drittländer zu verbieten oder zu beschränken.
 
 
 ### § 43 Rechtsverordnungen in Dringlichkeitsfällen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004401116)
 
 (1) Rechtsverordnungen nach diesem Gesetz können bei Gefahr im Verzug
 oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von
@@ -2220,6 +2276,7 @@ des Bundesrates verlängert werden.
 
 
 ### § 44 Rechtsverordnungen zur Angleichung an Unionsrecht
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004500000)
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zum Zweck der
 Angleichung der Rechts- und Verwaltungsvorschriften der
@@ -2234,6 +2291,7 @@ Europäischen Union dienen, ohne Zustimmung des Bundesrates erlassen.
 
 
 ### § 45 Übertragung von Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004600000)
 
 In den Rechtsverordnungen aufgrund dieses Gesetzes kann die jeweilige
 Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen
@@ -2244,6 +2302,7 @@ ganz oder teilweise auf andere Behörden zu übertragen.
 
 
 ### § 46 Ermächtigung zur Anpassung von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004700000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -2252,6 +2311,7 @@ angepasst werden müssen, in dem erforderlichen Umfang zu ändern.
 
 
 ### § 47 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/tabakerzg/BJNR056910016.html#BJNR056910016BJNE004803130)
 
 (1) Tabakerzeugnisse und pflanzliche Raucherzeugnisse, die
 

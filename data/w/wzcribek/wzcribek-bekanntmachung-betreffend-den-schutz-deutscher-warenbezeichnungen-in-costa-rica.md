@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzcribek/BJNR003750901.html#BJNR003750901BJNE000100303)
 
 Auf Grund einer Vereinbarung mit der Regierung von Costa Rica wird
 hierdurch unter Hinweis auf § 23 des Gesetzes zum Schutz der

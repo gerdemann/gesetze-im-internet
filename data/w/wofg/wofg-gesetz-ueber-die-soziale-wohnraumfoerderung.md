@@ -20,14 +20,17 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeines zur Förderung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000200000)
 
 
 
 ### Abschnitt 1 - Zweck und Maßnahmen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000300000)
 
 
 
 #### § 1 Zweck und Anwendungsbereich, Zielgruppe
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000100000)
 
 (1) Dieses Gesetz regelt die Förderung des Wohnungsbaus und anderer
 Maßnahmen zur Unterstützung von Haushalten bei der Versorgung mit
@@ -57,6 +60,7 @@ unterstützt
 
 
 #### § 2 Fördergegenstände und Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000200000)
 
 (1) Fördergegenstände sind:
 
@@ -96,6 +100,7 @@ bei der Bildung von selbst genutztem Wohneigentum erfolgt.
 
 
 #### § 3 Durchführung der Aufgaben und Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000301310)
 
 (1) Länder, Gemeinden und Gemeindeverbände wirken nach Maßgabe dieses
 Gesetzes bei der sozialen Wohnraumförderung zusammen.
@@ -121,6 +126,7 @@ Landesrecht entgegensteht.
 
 
 #### § 4 Bauland, sonstige Rahmenbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000401310)
 
 (1) Länder, Gemeinden, Gemeindeverbände, sonstige Körperschaften,
 Anstalten und Stiftungen des öffentlichen Rechts und die von ihnen
@@ -143,10 +149,12 @@ werden.
 
 
 ### Abschnitt 2 - Grundsätze, Voraussetzungen und Förderzusage
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000400000)
 
 
 
 #### § 5 Anforderungen an die Förderung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000500000)
 
 (1) Die soziale Wohnraumförderung wird nach diesem Gesetz und hierzu
 erlassenen Vorschriften des Landes durchgeführt.
@@ -163,6 +171,7 @@ können weitere Grundsätze aufstellen.
 
 
 #### § 6 Allgemeine Fördergrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000600000)
 
 Die soziale Wohnraumförderung ist der Nachhaltigkeit einer
 Wohnraumversorgung verpflichtet, die die wirtschaftlichen und sozialen
@@ -232,6 +241,7 @@ bevorzugt zu berücksichtigen.
 
 
 #### § 7 Besondere Grundsätze zur Förderung von Mietwohnraum
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000700000)
 
 Bei der Förderung von Mietwohnraum sind folgende Grundsätze zu
 berücksichtigen:
@@ -275,6 +285,7 @@ berücksichtigen:
 
 
 #### § 8 Besondere Grundsätze zur Förderung der Bildung selbst genutzten Wohneigentums
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000800000)
 
 Bei der Förderung der Bildung selbst genutzten Wohneigentums nach § 1
 Abs. 2 Satz 2 Nr. 2 sind folgende Grundsätze zu berücksichtigen:
@@ -302,6 +313,7 @@ Abs. 2 Satz 2 Nr. 2 sind folgende Grundsätze zu berücksichtigen:
 
 
 #### § 9 Einkommensgrenzen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE000901320)
 
 (1) Die Förderung darf nur Haushalte begünstigen, deren Einkommen die
 Grenzen für das jährliche Einkommen, die in Absatz 2 bezeichnet oder
@@ -352,6 +364,7 @@ Ermächtigung durch Rechtsverordnung auf eine oberste Landesbehörde
 
 
 #### § 10 Wohnungsgrößen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001000000)
 
 (1) Bei Bestimmungen der Länder über die Grenzen für Wohnungsgrößen
 sind folgende Grundsätze zu berücksichtigen:
@@ -373,6 +386,7 @@ sind folgende Grundsätze zu berücksichtigen:
 
 
 #### § 11 Förderempfänger
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001100000)
 
 (1) Empfänger der Förderung ist
 
@@ -435,6 +449,7 @@ ist.
 
 
 #### § 12 Bevorzugung von Maßnahmen, zusätzliche Förderung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001200000)
 
 (1) Maßnahmen, bei denen Bauherren in Selbsthilfe tätig werden oder
 bei denen Mieter von Wohnraum Leistungen erbringen, durch die sie im
@@ -480,6 +495,7 @@ insbesondere gewährt werden bei
 
 
 #### § 13 Förderzusage
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001300000)
 
 (1) Die Förderung wird auf Antrag durch eine Förderzusage der
 zuständigen Stelle gewährt.
@@ -511,10 +527,12 @@ enthaltenen Bestimmungen auf den Rechtsnachfolger über.
 
 
 ### Abschnitt 3 - Kooperationsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000500000)
 
 
 
 #### § 14 Zweck, Beteiligte
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001400000)
 
 (1) Gemeinden, Gemeindeverbände und sonstige öffentliche Stellen
 können mit Eigentümern oder sonstigen Verfügungsberechtigten von
@@ -532,6 +550,7 @@ Stellen berührt werden, sind diese Stellen zu beteiligen.
 
 
 #### § 15 Gegenstände des Kooperationsvertrags
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001500000)
 
 (1) Gegenstände des Kooperationsvertrags können insbesondere sein:
 
@@ -578,14 +597,17 @@ Rechtsvorschriften eine andere Form vorgeschrieben ist.
 
 
 ## Teil 2 - Begriffsbestimmungen, Durchführung der sozialen Wohnraumförderung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000600000)
 
 
 
 ### Abschnitt 1 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000700000)
 
 
 
 #### § 16 Wohnungsbau, Modernisierung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001600000)
 
 (1) Wohnungsbau ist das Schaffen von Wohnraum durch
 
@@ -634,6 +656,7 @@ werden, fallen unter die Modernisierung.
 
 
 #### § 17 Wohnraum
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001700000)
 
 (1) Wohnraum ist umbauter Raum, der tatsächlich und rechtlich zur
 dauernden Wohnnutzung geeignet und vom Verfügungsberechtigten dazu
@@ -649,6 +672,7 @@ Mietverhältnisses oder eines genossenschaftlichen oder sonstigen
 
 
 #### § 18 Haushaltsangehörige
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001800000)
 
 (1) Zum Haushalt rechnen die in Absatz 2 bezeichneten Personen, die
 miteinander eine Wohn- und Wirtschaftsgemeinschaft führen
@@ -677,6 +701,7 @@ Pflegeeltern.
 
 
 #### § 19 Wohnfläche
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE001901310)
 
 Die Wohnfläche einer Wohnung ist die Summe der anrechenbaren
 Grundflächen der ausschließlich zur Wohnung gehörenden Räume. Die
@@ -688,10 +713,12 @@ Ermächtigung durch Rechtsverordnung auf eine oberste Landesbehörde
 
 
 ### Abschnitt 2 - Einkommensermittlung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000800000)
 
 
 
 #### § 20 Gesamteinkommen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002000000)
 
 Maßgebendes Einkommen ist das Gesamteinkommen des Haushalts.
 Gesamteinkommen des Haushalts im Sinne dieses Gesetzes ist die Summe
@@ -701,6 +728,7 @@ der Antragstellung.
 
 
 #### § 21 Begriff des Jahreseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002116130)
 
 (1) Jahreseinkommen im Sinne dieses Gesetzes ist, vorbehaltlich der
 Absätze 2 und 3 sowie der §§ 22 und 23, die Summe der positiven
@@ -948,6 +976,7 @@ Höhe abgezogen werden.
 
 
 #### § 22 Zeitraum für die Ermittlung des Jahreseinkommens
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002200000)
 
 (1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu
 Grunde zu legen, das in den zwölf Monaten ab dem Monat der
@@ -981,6 +1010,7 @@ ist.
 
 
 #### § 23 Pauschaler Abzug
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002300000)
 
 (1) Bei der Ermittlung des Jahreseinkommens wird von dem nach den §§
 21 und 22 ermittelten Betrag ein pauschaler Abzug in Höhe von jeweils
@@ -1012,6 +1042,7 @@ besteht.
 
 
 #### § 24 Frei- und Abzugsbeträge
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002400000)
 
 (1) Bei der Ermittlung des Gesamteinkommens werden folgende
 Freibeträge abgesetzt:
@@ -1084,10 +1115,12 @@ gesetzlicher Unterhaltsverpflichtungen wie folgt abgesetzt werden:
 
 
 ### Abschnitt 3 - Begründung und Sicherung von Belegungs- und Mietbindungen sowie von Bindungen für selbst genutztes Wohneigentum
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG000900000)
 
 
 
 #### § 25 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002500000)
 
 (1) Mietwohnraum unterliegt den in der Förderzusage nach § 13 Abs. 2
 bestimmten Bindungen, insbesondere Belegungs- und Mietbindungen. Auf
@@ -1100,6 +1133,7 @@ nach § 13 Abs. 2 bestimmten Bindungen. Auf diese Bestimmungen sind §
 
 
 #### § 26 Gegenstände und Arten der Belegungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002600000)
 
 (1) Belegungsrechte können
 
@@ -1138,6 +1172,7 @@ ausüben kann.
 
 
 #### § 27 Wohnberechtigungsschein, Sicherung der Belegungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002700000)
 
 (1) Der Verfügungsberechtigte darf die Wohnung nur einem
 Wohnungssuchenden zum Gebrauch überlassen, wenn dieser ihm vorher
@@ -1260,6 +1295,7 @@ Zeitpunkt der Bezugsfertigkeit oder des Freiwerdens mitzuteilen.
 
 
 #### § 28 Bestimmung und Sicherung der höchstzulässigen Miete
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002800000)
 
 (1) In der Förderzusage ist eine höchstzulässige Miete zu bestimmen;
 sie ist die Miete ohne den Betrag für Betriebskosten. In der
@@ -1305,6 +1341,7 @@ sind unwirksam.
 
 
 #### § 29 Dauer der Belegungs- und Mietbindungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE002900000)
 
 (1) Die Dauer der Belegungs- und Mietbindungen ist in der Förderzusage
 durch Festlegung einer Frist zu bestimmen; bei der Gewährung von
@@ -1342,6 +1379,7 @@ Hinsicht verbindlich.
 
 
 #### § 30 Freistellung von Belegungsbindungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003000000)
 
 (1) Die zuständige Stelle kann den Verfügungsberechtigten von den
 Verpflichtungen nach § 27 Abs. 1 und 7 Satz 1 freistellen, wenn und
@@ -1382,6 +1420,7 @@ Interesse erteilt wird.
 
 
 #### § 31 Übertragung von Belegungs- und Mietbindungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003100000)
 
 (1) Die zuständige Stelle kann mit dem Verfügungsberechtigten
 vereinbaren, dass die Belegungs- und Mietbindungen von geförderten
@@ -1427,6 +1466,7 @@ bestellt werden.
 
 
 #### § 32 Sonstige Vorschriften der Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003201116)
 
 (1) Die zuständige Stelle kann Bestimmungen der Förderzusage nach den
 allgemeinen Vorschriften im Wege des Verwaltungszwangs vollziehen.
@@ -1501,6 +1541,7 @@ gleichgestellt.
 
 
 #### § 33 Geldleistung bei Gesetzesverstößen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003300000)
 
 Für die Zeit, während der der Verfügungsberechtigte oder ein von ihm
 Beauftragter schuldhaft gegen die Vorschriften des § 27 Abs. 1 oder 6
@@ -1516,10 +1557,12 @@ Wohnraumförderung einzusetzen.
 
 
 ### Abschnitt 4 - Ausgleich von Fehlförderungen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG001000000)
 
 
 
 #### § 34 Grundlagen der Ausgleichszahlung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003404310)
 
 (1) Die Länder können, um eine Fehlförderung im Sinne des § 7 Nr. 2
 Satz 1 und 3 auszugleichen, landesrechtliche Vorschriften über die
@@ -1601,6 +1644,7 @@ Abschnitt sind sonstige Wohnungsinhaber den Mietern gleichgestellt.
 
 
 #### § 35 Einkommensermittlung und Einkommensnachweis
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003500000)
 
 (1) Auf die Ermittlung des Gesamteinkommens sind die §§ 20 bis 24
 unter Einbeziehung der die Wohnung nicht nur vorübergehend nutzenden
@@ -1645,6 +1689,7 @@ Person Gelegenheit zur Stellungnahme gegeben werden.
 
 
 #### § 36 Höhe der Ausgleichszahlung und Leistungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003600000)
 
 (1) Die Länder bestimmen
 
@@ -1690,6 +1735,7 @@ hieraus ergebende Mietvorteil zu seinen Gunsten berücksichtigt werden.
 
 
 #### § 37 Wegfall und Minderung der Ausgleichszahlung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003700000)
 
 (1) Die Verpflichtung zur Leistung einer Ausgleichszahlung erlischt,
 sobald die Wohnung nicht mehr der Mietbindung unterliegt oder von
@@ -1727,19 +1773,23 @@ Verwaltungsaufwands von Satz 1 abweichende Bestimmungen erlassen.
 
 
 ## Teil 3 - Bundesmittel
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG001100000)
 
 
 
 ### (XXXX) §§ 38 bis 43 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE003802310)
 
 -
 
 
 ## Teil 4 - Ergänzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG001200000)
 
 
 
 ### § 44 Sonderregelungen für einzelne Länder
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004400000)
 
 In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
@@ -1759,6 +1809,7 @@ In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten:
 
 
 ### § 45 Förderung mit Wohnungsfürsorgemitteln
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004500000)
 
 (1) Bei der Vergabe von Fördermitteln für Wohnungen, die für
 Angehörige des öffentlichen Dienstes oder ähnlicher Personengruppen
@@ -1791,10 +1842,12 @@ Erhebung von Ausgleichszahlungen mit folgenden Maßgaben anzuwenden:
 
 
 ## Teil 5 - Überleitungs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNG001300000)
 
 
 
 ### § 46 Zeitlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004600000)
 
 (1) Die §§ 1 bis 45 dieses Gesetzes finden auf Maßnahmen der sozialen
 Wohnraumförderung Anwendung, für die die Förderzusage nach dem 31.
@@ -1821,6 +1874,7 @@ Betriebskosten § 27 der Zweiten Berechnungsverordnung mit ihrer Anlage
 
 
 ### § 47 Darlehen des Bundes und Förderung auf Grund früheren Rechts
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004701310)
 
 (1) weggefallen
 
@@ -1872,6 +1926,7 @@ Wohnungsbaugesetzes für das Saarland gefördert wurden, gilt:
 
 
 ### § 48 Anwendung des Zweiten Wohnungsbaugesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004803310)
 
 (1) Folgende Vorschriften des Zweiten Wohnungsbaugesetzes in der bis
 zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden:
@@ -1940,6 +1995,7 @@ Entscheidungen und sonstige Maßnahmen gelten weiter.
 
 
 ### § 49 Anwendung des Wohnungsbaugesetzes für das Saarland
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE004900000)
 
 (1) Folgende Vorschriften des Wohnungsbaugesetzes für das Saarland in
 der bis zum 31. Dezember 2001 geltenden Fassung sind weiter
@@ -2003,6 +2059,7 @@ Bestimmungen und sonstige Maßnahmen gelten weiter.
 
 
 ### § 50 Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE005002310)
 
 (1) Das Wohnungsbindungsgesetz in der Fassung der Bekanntmachung vom
 19\. August 1994 (BGBl. I S. 2166, 2319), geändert durch Artikel 7 Abs.
@@ -2061,6 +2118,7 @@ Fassung durchgeführt werden.
 
 
 ### § 51 Anwendung des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE005102310)
 
 (1) Das Gesetz über den Abbau der Fehlsubventionierung im
 Wohnungswesen in der Fassung der Bekanntmachung vom 19. August 1994
@@ -2079,6 +2137,7 @@ Fehlsubventionierung im Wohnungswesen entsprechend.
 
 
 ### § 52 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wofg/BJNR237610001.html#BJNR237610001BJNE005201310)
 
 (1) Ordnungswidrig handelt, wer
 

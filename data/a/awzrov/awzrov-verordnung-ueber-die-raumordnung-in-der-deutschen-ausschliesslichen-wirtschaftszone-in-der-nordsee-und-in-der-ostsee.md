@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2301-2-1 v. 21.9.2009 I 3107 (AWZ Nordsee-ROV) u. V 2301-2-2 v. 10.12.2009 I 3861 (AWZ Ostsee-ROV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/awzrov/BJNR388600021.html#BJNR388600021BJNE000100000)
 
 Auf Grund des § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes vom 22.
 Dezember 2008 (BGBl. I S. 2986), der zuletzt durch Artikel 159 der
@@ -34,6 +35,7 @@ der Verteidigung:
 
 
 ## § 1 Raumordnungsplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee
+[Direktlink](https://www.gesetze-im-internet.de/awzrov/BJNR388600021.html#BJNR388600021BJNE000200000)
 
 [^F817925_01_BJNR388600021BJNE000200000]
 In der deutschen ausschließlichen Wirtschaftszone in der Nordsee und
@@ -99,6 +101,7 @@ Anlage zu dieser Verordnung als Raumordnungsplan festgelegt.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/awzrov/BJNR388600021.html#BJNR388600021BJNE000300000)
 
 Diese Verordnung tritt am 1. September 2021 in Kraft. Gleichzeitig
 treten die Verordnung über die Raumordnung in der deutschen

@@ -23,16 +23,19 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Aufgaben und Stellung des Rechtspflegers
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000102311)
 
 
 
 ### § 1 Allgemeine Stellung des Rechtspflegers
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE000802311)
 
 Der Rechtspfleger nimmt die ihm durch dieses Gesetz übertragenen
 Aufgaben der Rechtspflege wahr.
 
 
 ### § 2 Voraussetzungen für die Tätigkeit als Rechtspfleger
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE000904311)
 
 (1) Mit den Aufgaben eines Rechtspflegers kann ein Beamter des
 Justizdienstes betraut werden, der einen Vorbereitungsdienst von drei
@@ -79,6 +82,7 @@ eines Rechtspflegers beauftragt werden.
 
 
 ### § 3 Übertragene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001032125)
 
 Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
@@ -256,6 +260,7 @@ Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
 
 ### § 4 Umfang der Übertragung
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001103311)
 
 (1) Der Rechtspfleger trifft alle Maßnahmen, die zur Erledigung der
 ihm übertragenen Geschäfte erforderlich sind.
@@ -291,6 +296,7 @@ Sache dem Richter zur Entscheidung vor.
 
 
 ### § 5 Vorlage an den Richter
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001202311)
 
 (1) Der Rechtspfleger hat ihm übertragene Geschäfte dem Richter
 vorzulegen, wenn
@@ -318,6 +324,7 @@ an eine von dem Richter mitgeteilte Rechtsauffassung gebunden.
 
 
 ### § 6 Bearbeitung übertragener Sachen durch den Richter
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001302311)
 
 Steht ein übertragenes Geschäft mit einem vom Richter wahrzunehmenden
 Geschäft in einem so engen Zusammenhang, dass eine getrennte
@@ -326,6 +333,7 @@ Angelegenheit bearbeiten.
 
 
 ### § 7 Bestimmung des zuständigen Organs der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001402311)
 
 Bei Streit oder Ungewissheit darüber, ob ein Geschäft von dem Richter
 oder dem Rechtspfleger zu bearbeiten ist, entscheidet der Richter über
@@ -333,6 +341,7 @@ die Zuständigkeit durch Beschluss. Der Beschluss ist unanfechtbar.
 
 
 ### § 8 Gültigkeit von Geschäften
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001502311)
 
 (1) Hat der Richter ein Geschäft wahrgenommen, das dem Rechtspfleger
 übertragen ist, so wird die Wirksamkeit des Geschäfts hierdurch nicht
@@ -359,12 +368,14 @@ hierdurch nicht berührt.
 
 
 ### § 9 Weisungsfreiheit des Rechtspflegers
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001602311)
 
 Der Rechtspfleger ist sachlich unabhängig und nur an Recht und Gesetz
 gebunden.
 
 
 ### § 10 Ausschließung und Ablehnung des Rechtspflegers
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001702311)
 
 Für die Ausschließung und Ablehnung des Rechtspflegers sind die für
 den Richter geltenden Vorschriften entsprechend anzuwenden. Über die
@@ -372,6 +383,7 @@ Ablehnung des Rechtspflegers entscheidet der Richter.
 
 
 ### § 11 Rechtsbehelfe
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001809311)
 
 (1) Gegen die Entscheidungen des Rechtspflegers ist das Rechtsmittel
 gegeben, das nach den allgemeinen verfahrensrechtlichen Vorschriften
@@ -407,6 +419,7 @@ eines Stimmrechts (§ 77 der Insolvenzordnung) ausgeschlossen.
 
 
 ### § 12 Bezeichnung des Rechtspflegers
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE001902311)
 
 Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen
 Angelegenheiten hat der Rechtspfleger seiner Unterschrift das Wort
@@ -414,6 +427,7 @@ Angelegenheiten hat der Rechtspfleger seiner Unterschrift das Wort
 
 
 ### § 13 Ausschluss des Anwaltszwangs
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002003311)
 
 § 78 Absatz 1 der Zivilprozessordnung und § 114 Absatz 1 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
@@ -422,10 +436,12 @@ nicht anzuwenden.
 
 
 ## Zweiter Abschnitt - Dem Richter vorbehaltene Geschäfte in Familiensachen und auf dem Gebiet der freiwilligen Gerichtsbarkeit sowie in Insolvenzverfahren und schifffahrtsrechtlichen Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000208311)
 
 
 
 ### § 14 Kindschafts- und Adoptionssachen
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002129125)
 
 (1) Von den dem Familiengericht übertragenen Angelegenheiten in
 Kindschafts- und Adoptionssachen sowie den entsprechenden
@@ -552,6 +568,7 @@ obliegen, bleiben sie dem Richter vorbehalten.
 
 
 ### § 15 Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002208125)
 
 (1) Von den Angelegenheiten, die dem Betreuungsgericht übertragen
 sind, bleiben dem Richter vorbehalten:
@@ -610,6 +627,7 @@ Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007
 
 
 ### § 16 Nachlass- und Teilungssachen; Europäisches Nachlasszeugnis
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002306311)
 
 (1) In Nachlass- und Teilungssachen bleiben dem Richter vorbehalten
 
@@ -686,6 +704,7 @@ gebunden.
 
 
 ### § 17 Registersachen und unternehmensrechtliche Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002413125)
 
 In Handelsregistersachen sowie in unternehmensrechtlichen Verfahren
 nach dem Buch 5 des Gesetzes über das Verfahren in Familiensachen und
@@ -749,6 +768,7 @@ Richter vorbehalten
 
 
 ### § 18 Insolvenzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002508311)
 
 (1) In Verfahren nach der Insolvenzordnung bleiben dem Richter
 vorbehalten:
@@ -809,6 +829,7 @@ alsbald zu erwarten ist.
 
 
 ### § 19 Aufhebung von Richtervorbehalten
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002611125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die in den vorstehenden Vorschriften bestimmten Richtervorbehalte ganz
@@ -867,6 +888,7 @@ des Bürgerlichen Gesetzbuchs anzuwenden.
 
 
 ### § 19a Verfahren nach dem internationalen Insolvenzrecht
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005106311)
 
 (1) In Verfahren nach der Verordnung (EG) Nr. 1346/2000 des Rates vom
 29\. Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) und nach
@@ -941,6 +963,7 @@ vorbehalten:
 
 
 ### § 19b Schifffahrtsrechtliches Verteilungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002706311)
 
 (1) Im Verfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 bleiben dem Richter vorbehalten:
@@ -978,10 +1001,12 @@ sich ziehen, wenn und solange er dies für erforderlich hält.
 
 
 ## Dritter Abschnitt - Dem Rechtspfleger nach § 3 Nummer 3 übertragene Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000304311)
 
 
 
 ### § 20 Bürgerliche Rechtsstreitigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002842125)
 
 (1) Folgende Geschäfte im Verfahren nach der Zivilprozessordnung
 werden dem Rechtspfleger übertragen:
@@ -1169,6 +1194,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 21 Festsetzungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE002904311)
 
 Folgende Geschäfte im Festsetzungsverfahren werden dem Rechtspfleger
 übertragen:
@@ -1191,6 +1217,7 @@ Folgende Geschäfte im Festsetzungsverfahren werden dem Rechtspfleger
 
 
 ### § 22 Gerichtliche Geschäfte in Straf- und Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003004311)
 
 Von den gerichtlichen Geschäften in Straf- und Bußgeldverfahren wird
 dem Rechtspfleger die Entscheidung über Feststellungsanträge nach § 52
@@ -1199,6 +1226,7 @@ Absatz 2 und § 53 Absatz 3 des Rechtsanwaltsvergütungsgesetzes
 
 
 ### § 23 Verfahren vor dem Bundespatentgericht
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003124125)
 
 (1) Im Verfahren vor dem Bundespatentgericht werden dem Rechtspfleger
 die folgenden Geschäfte übertragen:
@@ -1296,6 +1324,7 @@ einzulegen. § 11 Absatz 1 und 2 Satz 1 ist nicht anzuwenden.
 
 
 ### § 24 Aufnahme von Erklärungen
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003203311)
 
 (1) Folgende Geschäfte der Geschäftsstelle werden dem Rechtspfleger
 übertragen:
@@ -1338,6 +1367,7 @@ einzulegen. § 11 Absatz 1 und 2 Satz 1 ist nicht anzuwenden.
 
 
 ### § 24a Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005006311)
 
 (1) Folgende Geschäfte werden dem Rechtspfleger übertragen:
 
@@ -1356,6 +1386,7 @@ einzulegen. § 11 Absatz 1 und 2 Satz 1 ist nicht anzuwenden.
 
 
 ### § 24b Amtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005401311)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die Geschäfte der Amtshilfe dem Rechtspfleger zu übertragen.
@@ -1365,6 +1396,7 @@ Landesjustizverwaltungen übertragen.
 
 
 ### § 25 Sonstige Geschäfte auf dem Gebiet der Familiensachen
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005705311)
 
 Folgende weitere Geschäfte in Familiensachen einschließlich der
 entsprechenden Lebenspartnerschaftssachen werden dem Rechtspfleger
@@ -1434,6 +1466,7 @@ entsprechenden Lebenspartnerschaftssachen werden dem Rechtspfleger
 
 
 ### § 25a Verfahrenskostenhilfe
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005804125)
 
 In Verfahren über die Verfahrenskostenhilfe nach dem Gesetz über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -1443,10 +1476,12 @@ Absatz 2 und 3 gilt entsprechend.
 
 
 ## Vierter Abschnitt - Sonstige Vorschriften auf dem Gebiet der Gerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000402311)
 
 
 
 ### § 26 Verhältnis des Rechtspflegers zum Urkundsbeamten der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003409125)
 
 Die Zuständigkeit des Urkundsbeamten der Geschäftsstelle nach Maßgabe
 der gesetzlichen Vorschriften bleibt unberührt, soweit sich nicht aus
@@ -1456,6 +1491,7 @@ Erklärungen) etwas anderes ergibt.
 
 
 ### § 27 Pflicht zur Wahrnehmung sonstiger Dienstgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003502311)
 
 (1) Durch die Beschäftigung eines Beamten als Rechtspfleger wird seine
 Pflicht, andere Dienstgeschäfte einschließlich der Geschäfte des
@@ -1467,6 +1503,7 @@ Beamten nicht anzuwenden.
 
 
 ### § 28 Zuständiger Richter
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003602311)
 
 Soweit mit Angelegenheiten, die dem Rechtspfleger zur selbständigen
 Wahrnehmung übertragen sind, nach diesem Gesetz der Richter befasst
@@ -1476,10 +1513,12 @@ vorgeschriebenen Besetzung zuständig.
 
 
 ## Fünfter Abschnitt - Dem Rechtspfleger übertragene Geschäfte in anderen Bereichen
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000503311)
 
 
 
 ### § 29 Geschäfte im internationalen Rechtsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003707311)
 
 Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
@@ -1502,10 +1541,12 @@ Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
 
 ### § 30 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003803311)
 
 
 
 ### § 31 Geschäfte der Staatsanwaltschaft im Straf- und Bußgeldverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE003907125)
 
 (1) Von den Geschäften der Staatsanwaltschaft im Strafverfahren werden
 dem Rechtspfleger übertragen:
@@ -1617,16 +1658,19 @@ Verwaltungszwangsverfahren regeln.
 
 
 ### § 32 Nicht anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004003311)
 
 Auf die nach den §§ 29 und 31 dem Rechtspfleger übertragenen Geschäfte
 sind die §§ 5 bis 11 nicht anzuwenden.
 
 
 ## Sechster Abschnitt - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNG000602311)
 
 
 
 ### § 33 Regelung für die Übergangszeit; Befähigung zum Amt des Bezirksnotars
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004108125)
 
 (1) Justizbeamte, die die Voraussetzungen des § 2 nicht erfüllen,
 können mit den Aufgaben eines Rechtspflegers betraut werden, wenn sie
@@ -1662,6 +1706,7 @@ Nummer 1 bis 3 noch § 16. Dem Richter bleiben vorbehalten:
 
 
 ### § 33a Übergangsregelung für die Jugendstrafvollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004202311)
 
 Bis zum Inkrafttreten der auf Grund der Ermächtigung nach § 31 Absatz
 5 zu erlassenden Rechtsverordnung gelten die Bestimmungen über die
@@ -1669,6 +1714,7 @@ Entlastung des Jugendrichters in Strafvollstreckungsgeschäften weiter.
 
 
 ### § 34 Wahrnehmung von Rechtspflegeraufgaben durch Bereichsrechtspfleger
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004303311)
 
 (1) Mit Ablauf des 31. Dezember 1996 ist die Maßgabe zu diesem Gesetz
 in Anlage I Kapitel III Sachgebiet A Abschnitt III Nummer 3 des
@@ -1690,6 +1736,7 @@ Dienstes wahrgenommen werden, erfolgreich teilgenommen haben.
 
 
 ### § 34a Ausbildung von Bereichsrechtspflegern zu Rechtspflegern
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005202311)
 
 (1) Bereichsrechtspfleger, die an für sie bestimmten Lehrgängen einer
 Fachhochschule teilgenommen und diese Ausbildung mit einer Prüfung
@@ -1713,11 +1760,13 @@ für die einzelnen Sachgebiete am Ende der Lehrgänge abgelegt wird.
 
 
 ### § 35 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004407311)
 
 -
 
 
 ### § 35a Ratschreiber und Beschlussfertiger in Baden-Württemberg
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE006000311)
 
 (1) Ratschreiber mit Befähigung zum gehobenen Verwaltungs- oder
 Justizdienst, die bis 31. Dezember 2017 das Amt im Sinne des § 32 des
@@ -1743,11 +1792,13 @@ erforderlich sind, vermitteln.
 
 
 ### § 36 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004504311)
 
 -
 
 
 ### § 36a Vorbehalt für die Freie und Hansestadt Hamburg
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE000102311)
 
 In der Freien und Hansestadt Hamburg gilt § 24 Absatz 2 mit der
 Maßgabe, dass der Rechtspfleger die dort bezeichneten Anträge und
@@ -1757,6 +1808,7 @@ Schwierigkeiten oder aus sonstigen Gründen geboten ist.
 
 
 ### § 36b Übertragung von Rechtspflegeraufgaben auf den Urkundsbeamten der Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE005308125)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 folgende nach diesem Gesetz vom Rechtspfleger wahrzunehmende Geschäfte
@@ -1817,12 +1869,14 @@ Gerichtsverfassungsgesetzes bleiben unberührt.
 
 
 ### § 37 Rechtspflegergeschäfte nach Landesrecht
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004602311)
 
 Die Länder können Aufgaben, die den Gerichten durch landesrechtliche
 Vorschriften zugewiesen sind, auf den Rechtspfleger übertragen.
 
 
 ### § 38 Aufhebung und Änderung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004702311)
 
 (1) (Aufhebung von Vorschriften)
 
@@ -1832,9 +1886,11 @@ Vorschriften zugewiesen sind, auf den Rechtspfleger übertragen.
 
 
 ### § 39 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004803125)
 
 
 
 ### § 40 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/rpflg_1969/BJNR020650969.html#BJNR020650969BJNE004902311)
 
 

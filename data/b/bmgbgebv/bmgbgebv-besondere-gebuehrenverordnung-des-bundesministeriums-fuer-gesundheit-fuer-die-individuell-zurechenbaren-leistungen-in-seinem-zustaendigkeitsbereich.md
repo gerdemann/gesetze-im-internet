@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154)
@@ -28,6 +29,7 @@ verordnet das Bundesministerium für Gesundheit:
 
 
 ## § 1 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000203130)
 
 Im Zuständigkeitsbereich des Bundesministeriums für Gesundheit werden
 Gebühren und Auslagen für individuell zurechenbare öffentliche
@@ -144,6 +146,7 @@ folgenden Vorschriften erbracht werden:
 
 
 ## § 2 Höhe der Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000300000)
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren-
 und Auslagenverzeichnis in der Anlage. Das Gebühren- und
@@ -159,6 +162,7 @@ Anlage aufgeführt sind, sind mit der Gebühr abgegolten.
 
 
 ## § 3 Zeitgebühr
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000400000)
 
 Sofern im Gebühren- und Auslagenverzeichnis in der Anlage nichts
 Anderes bestimmt ist, gelten für den Zeitaufwand von
@@ -170,6 +174,7 @@ festgelegt sind.
 
 
 ## § 4 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000501116)
 
 (1) Für eine individuell zurechenbare öffentliche Leistung, die vor
 dem 1. Oktober 2021 beantragt oder begonnen, aber noch nicht
@@ -190,12 +195,14 @@ Gebührenfestsetzung ausdrücklich vorbehalten hat.
 
 
 ## § 5 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000600000)
 
 Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
 
 (zu § 2 Absatz 1)
 
 ## Anlage Gebühren- und Auslagenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/bmgbgebv/BJNR439100021.html#BJNR439100021BJNE000703130)
 
 (Fundstelle: BGBl. I 2021, 4393 - 4454;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000100000)
 
 Auf Grund
 
@@ -53,6 +54,7 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Durchschnittsentgelt in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000200000)
 
 (1) Das Durchschnittsentgelt für das Jahr 2013 beträgt 33 659 Euro.
 
@@ -64,6 +66,7 @@ ergänzt.
 
 
 ## § 2 Bezugsgröße in der Sozialversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000300000)
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahr 2015 jährlich 34 020 Euro und
@@ -75,6 +78,7 @@ monatlich 2 415 Euro.
 
 
 ## § 3 Beitragsbemessungsgrenzen in der Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000400000)
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2015
 
@@ -106,6 +110,7 @@ Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 
 ## § 4 Jahresarbeitsentgeltgrenze in der Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000500000)
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften
 Buches Sozialgesetzbuch für das Jahr 2015 beträgt 54 900 Euro.
@@ -115,6 +120,7 @@ Buches Sozialgesetzbuch für das Jahr 2015 beträgt 49 500 Euro.
 
 
 ## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000600000)
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:
@@ -143,11 +149,13 @@ ergänzt:
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/svbezgrv_2015/BJNR195700014.html#BJNR195700014BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

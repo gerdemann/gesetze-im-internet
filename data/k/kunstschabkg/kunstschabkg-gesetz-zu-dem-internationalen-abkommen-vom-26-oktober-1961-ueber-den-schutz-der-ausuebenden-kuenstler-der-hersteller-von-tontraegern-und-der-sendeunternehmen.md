@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000100303)
 
 Dem in Rom am 26. Oktober 1961 von der Bundesrepublik Deutschland
 unterzeichneten Internationalen Abkommen über den Schutz der
@@ -28,6 +29,7 @@ Vorbehalten zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000200303)
 
 Die Bundesrepublik Deutschland macht bei der Hinterlegung der
 Ratifikationsurkunde von den folgenden in Artikel 5 Abs. 3 und Artikel
@@ -51,6 +53,7 @@ Gebrauch:
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000300303)
 
 Der in Artikel 13 Buchstabe d des Abkommens vorgesehene Schutz gegen
 die öffentliche Wiedergabe von Fernsehsendungen wird für
@@ -60,6 +63,7 @@ Abkommens Gebrauch gemacht hat, nicht gewährt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000400303)
 
 Die Bestimmungen des Abkommens sind auf Darbietungen oder
 Funksendungen, die stattgefunden haben, bevor das Abkommen für die
@@ -68,12 +72,14 @@ vor diesem Zeitpunkt festgelegt sind, nicht anzuwenden.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000500303)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/kunstschabkg/BJNR212430965.html#BJNR212430965BJNE000600303)
 
 (1) Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 

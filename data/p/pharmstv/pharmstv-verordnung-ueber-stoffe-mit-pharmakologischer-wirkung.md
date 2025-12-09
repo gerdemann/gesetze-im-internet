@@ -23,6 +23,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000103310)
 
 Die in Anlage 1 aufgeführten Stoffe dürfen den in dieser Anlage
 bezeichneten Tieren für die dort genannten Anwendungsgebiete nicht
@@ -30,6 +31,7 @@ zugeführt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000211116)
 
 Die in den Anlagen 2 und 3 aufgeführten Stoffe, deren Anwendung nicht
 nach § 1 ausgeschlossen ist, dürfen Tieren, die der Gewinnung von
@@ -49,6 +51,7 @@ werden, sofern sie
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000305310)
 
 (1) Lebensmittel, die von Tieren gewonnen wurden, denen Stoffe
 entgegen § 1 in Verbindung mit Anlage 1 oder entgegen § 2 in
@@ -64,6 +67,7 @@ Anwendungsgebiete bestimmt sind.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000502310)
 
 Die in Anlage 1 aufgeführten Stoffe werden, soweit sie nicht Stoffe
 mit pharmakologischer Wirkung sind, den Stoffen mit pharmakologischer
@@ -71,6 +75,7 @@ Wirkung gleichgestellt.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000607310)
 
 Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer
@@ -94,6 +99,7 @@ Wer eine in Satz 1 bezeichnete Handlung fahrlässig begeht, ist nach §
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000702310)
 
 Unberührt bleiben futtermittelrechtliche Vorschriften, nach denen
 Stoffe als Futtermittel oder als Zusatzstoffe zu Futtermitteln in den
@@ -101,16 +107,19 @@ Verkehr gebracht oder verwendet werden dürfen.
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE001303310)
 
 -
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE000902310)
 
 -
 
 
 ## Anlage 1 (zu den §§ 1, 3 und 4)
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE001008310)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 732;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -191,6 +200,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2 (zu den §§ 2 und 3)
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE001107310)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 732;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -260,6 +270,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 
 ## Anlage 3 (zu den §§ 2 und 3 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/pharmstv/BJNR014790977.html#BJNR014790977BJNE001403310)
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 733;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

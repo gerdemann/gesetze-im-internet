@@ -20,6 +20,7 @@ Fundstelle
 Stand: Die V tritt gem. § 7 Abs. 2 mit Ablauf des 31.12.2026 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000100000)
 
 Auf Grund des § 5a Absatz 3 Satz 1 und des § 5c des
 Gemeindefinanzreformgesetzes, von denen § 5a Absatz 3 Satz 1 durch
@@ -32,6 +33,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Länderschlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000200000)
 
 Der Gemeindeanteil an der Umsatzsteuer verteilt sich nach § 5a Absatz
 1 des Gemeindefinanzreformgesetzes auf die Länder nach folgenden
@@ -121,6 +123,7 @@ Schlüsselzahlen:
 
 
 ## § 2 Ermittlung der Gemeindeschlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000300000)
 
 (1) Für die Summe des Gewerbesteueraufkommens, die der Ermittlung der
 Schlüsselzahl nach § 5a Absatz 2 Satz 2 Nummer 1 des
@@ -167,6 +170,7 @@ Arbeit.
 
 
 ## § 3 Gewichtung der den Gemeindeschlüsselzahlen zugrunde liegenden Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000400000)
 
 (1) Für die Gewichtung des Merkmals nach § 5a Absatz 2 Satz 2 Nummer 2
 des Gemeindefinanzreformgesetzes wird zunächst der Gewerbesteuer-
@@ -252,6 +256,7 @@ durchschnittliche örtliche Gewerbesteuer-Hebesatz ebenfalls bei null.
 
 
 ## § 4 Aufteilung der Merkmale bei Gebietsstandsänderung
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000500000)
 
 Die Merkmale nach § 5a Absatz 2 Satz 2 des
 Gemeindefinanzreformgesetzes werden bei Gebietsstandsänderungen im
@@ -259,6 +264,7 @@ Verhältnis der Einwohnerzahl auf die betroffenen Gemeinden aufgeteilt.
 
 
 ## § 5 Neufestsetzung der Gemeinde- und der Länderschlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000600000)
 
 (1) Werden Gemeinden nach dem 31. Dezember 2022 neu gegliedert, so
 sind die Schlüsselzahlen nach § 5a Absatz 2 Satz 2 des
@@ -278,6 +284,7 @@ sind entsprechend anzupassen.
 
 
 ## § 6 Rundung und Änderung der Schlüsselzahlen
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000700000)
 
 (1) Die Schlüsselzahlen sind auf die neunte Stelle nach dem Komma zu
 runden.
@@ -294,6 +301,7 @@ den Wert eins ergibt.
 
 
 ## § 7 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000800000)
 
 (1) Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
@@ -302,6 +310,7 @@ Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ustschlfestv_2024/BJNR11D0A0023.html#BJNR11D0A0023BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 

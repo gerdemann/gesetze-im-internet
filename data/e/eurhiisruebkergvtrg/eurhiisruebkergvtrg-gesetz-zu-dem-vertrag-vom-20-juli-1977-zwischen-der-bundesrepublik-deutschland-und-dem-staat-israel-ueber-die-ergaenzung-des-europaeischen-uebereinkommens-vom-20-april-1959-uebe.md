@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000100306)
 
 Dem in Jerusalem am 20. Juli 1977 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des
@@ -31,11 +32,13 @@ Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000201306)
 
 -
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000300306)
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels IX Abs. 1 des Vertrags
@@ -43,6 +46,7 @@ eingeschränkt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000400306)
 
 (1) Rechtshilfeersuchen israelischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
@@ -61,6 +65,7 @@ sie ihren Sitz haben.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000500306)
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels XI Abs. 5 des Vertrags nur insoweit befugt, als sie nach
@@ -69,6 +74,7 @@ können.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000600306)
 
 (1) Ordnungswidrig handelt, wer in Israel vorsätzlich oder fahrlässig
 eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit Strafe,
@@ -101,12 +107,14 @@ ist jedoch nur zulässig, wenn
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000700306)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/BJNR213340980.html#BJNR213340980BJNE000800306)
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach
 seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit

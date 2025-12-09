@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vfzv/BJNR054900007.html#BJNR054900007BJNE000100000)
 
 Auf Grund des § 16 Abs. 1 Satz 4 des Versorgungsrücklagegesetzes vom
 9\. Juli 1998 (BGBl. I S. 1800), der durch Artikel 1 Nr. 11 des
@@ -31,6 +32,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Höhe der Zuweisungssätze
+[Direktlink](https://www.gesetze-im-internet.de/vfzv/BJNR054900007.html#BJNR054900007BJNE000202310)
 
 (1) Die für die Höhe der regelmäßigen Zuweisungen an das
 Sondervermögen „Versorgungsfonds des Bundes“ maßgebenden Prozentsätze
@@ -74,6 +76,7 @@ ist.
 
 
 ## § 2 Zahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vfzv/BJNR054900007.html#BJNR054900007BJNE000301311)
 
 Die die Bezügezahlungen anordnenden Dienststellen leisten die
 Zuweisungen für das Kalenderjahr in halbjährlichen Teilbeträgen, die
@@ -84,6 +87,7 @@ Sonderkonto eingehen müssen.
 
 
 ## § 3 Überprüfung der Höhe der Zuweisungssätze
+[Direktlink](https://www.gesetze-im-internet.de/vfzv/BJNR054900007.html#BJNR054900007BJNE000402311)
 
 Die Höhe der Zuweisungssätze wird vom Bundesministerium des Innern,
 für Bau und Heimat im Einvernehmen mit dem Bundesministerium der
@@ -94,6 +98,7 @@ Bedarf angepasst.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/vfzv/BJNR054900007.html#BJNR054900007BJNE000500000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2007 in Kraft.
 

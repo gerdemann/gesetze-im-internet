@@ -30,9 +30,11 @@ Zuletzt geändert durch
 
 
 ## Teil 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000100000)
 
 
 ### § 1 Anwendungsbereich des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000201130)
 
 (1) Dieses Gesetz regelt
 
@@ -91,6 +93,7 @@ unberührt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000301130)
 
 (1) Die Begriffsbestimmungen des Telekommunikationsgesetzes, des
 Digitale-Dienste-Gesetzes und der Verordnung (EU) 2016/679 des
@@ -163,12 +166,15 @@ Absatz 2 keine abweichende Begriffsbestimmung getroffen wird.
 
 
 ## Teil 2 - Datenschutz und Schutz der Privatsphäre in der Telekommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000200000)
 
 
 ### Kapitel 1 - Vertraulichkeit der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000300000)
 
 
 #### § 3 Vertraulichkeit der Kommunikation – Fernmeldegeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000400000)
 
 (1) Dem Fernmeldegeheimnis unterliegen der Inhalt der
 Telekommunikation und ihre näheren Umstände, insbesondere die
@@ -220,6 +226,7 @@ führt, und ihrer Stellvertretung.
 
 
 #### § 4 Rechte des Erben des Endnutzers und anderer berechtigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000500000)
 
 Das Fernmeldegeheimnis steht der Wahrnehmung von Rechten gegenüber dem
 Anbieter des Telekommunikationsdienstes nicht entgegen, wenn diese
@@ -229,6 +236,7 @@ Endnutzers befugt ist, wahrgenommen werden.
 
 
 #### § 5 Abhörverbot, Geheimhaltungspflicht der Betreiber von Funkanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000600000)
 
 (1) Mit einer Funkanlage (§ 3 Absatz 1 Nr 1 des Funkanlagengesetzes)
 dürfen nur solche Nachrichten abgehört oder in vergleichbarer Weise
@@ -249,6 +257,7 @@ gesetzlicher Ermächtigung bleiben unberührt.
 
 
 #### § 6 Nachrichtenübermittlung mit Zwischenspeicherung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000700000)
 
 (1) Nach § 3 Absatz 2 Satz 1 Nummer 1 und 2 Verpflichtete dürfen bei
 Diensten, für deren Durchführung eine Zwischenspeicherung erforderlich
@@ -303,6 +312,7 @@ der Technik anzupassen.
 
 
 #### § 7 Verlangen eines amtlichen Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000800000)
 
 (1) Anbieter und mitwirkende Personen nach § 3 Absatz 2 Satz 1 Nummer
 1 und 2 können im Zusammenhang mit dem Begründen und dem Ändern eines
@@ -325,6 +335,7 @@ verarbeitet werden.
 
 
 #### § 8 Missbrauch von Telekommunikationsanlagen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE000900000)
 
 (1) Es ist verboten, Telekommunikationsanlagen zu besitzen,
 herzustellen, auf dem Markt bereitzustellen, einzuführen oder sonst in
@@ -427,9 +438,11 @@ aufzunehmen.
 
 
 ### Kapitel 2 - Verkehrsdaten, Standortdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000400000)
 
 
 #### § 9 Verarbeitung von Verkehrsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001000000)
 
 (1) Nach § 3 Absatz 2 Satz 1 Verpflichtete dürfen folgende
 Verkehrsdaten nur verarbeiten, soweit dies zum Aufbau und zur
@@ -483,6 +496,7 @@ Endnutzer darauf hinzuweisen, dass er die Einwilligung nach den Sätzen
 
 
 #### § 10 Entgeltermittlung und Entgeltabrechnung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001100000)
 
 (1) Die Verarbeitung der Verkehrsdaten nach § 9 Absatz 1 Satz 1 durch
 nach § 3 Absatz 2 Satz 1 Nummer 1 und 2 Verpflichtete zur Ermittlung
@@ -532,6 +546,7 @@ sind.
 
 
 #### § 11 Einzelverbindungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001200000)
 
 (1) Dem Endnutzer sind die Verkehrsdaten nach § 9 Absatz 1 Satz 1
 Nummer 1 bis 3 derjenigen Verbindungen, für die er entgeltpflichtig
@@ -607,6 +622,7 @@ Abrechnungsverfahren anzuwenden.
 
 
 #### § 12 Störungen von Telekommunikationsanlagen und Missbrauch von Telekommunikationsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001300000)
 
 (1) Soweit erforderlich, dürfen Verpflichtete nach § 3 Absatz 2 Satz 1
 Verkehrsdaten der Endnutzer sowie die Steuerdaten eines
@@ -673,6 +689,7 @@ setzen.
 
 
 #### § 13 Standortdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001400000)
 
 (1) Standortdaten, die in Bezug auf die Nutzer von öffentlichen
 Telekommunikationsnetzen oder Telekommunikationsdiensten verarbeitet
@@ -718,9 +735,11 @@ Zusatznutzen anbietet, handeln.
 
 
 ### Kapitel 3 - Mitteilen ankommender Verbindungen, Rufnummernanzeige und -unterdrückung, automatische Anrufweiterschaltung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000500000)
 
 
 #### § 14 Mitteilen ankommender Verbindungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001500000)
 
 (1) Trägt ein Anschlussinhaber in einem Verfahren schlüssig vor, dass
 bei seinem Anschluss bedrohende oder belästigende Anrufe ankommen, hat
@@ -765,6 +784,7 @@ unverzüglich in Kenntnis zu setzen.
 
 
 #### § 15 Rufnummernanzeige und -unterdrückung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001600000)
 
 (1) Bietet der Anbieter eines Sprachkommunikationsdienstes bei Anrufen
 die Anzeige der Rufnummer der anrufenden Endnutzer an, so müssen
@@ -809,6 +829,7 @@ im Inland betreffen.
 
 
 #### § 16 Automatische Anrufweiterschaltung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001700000)
 
 Anbieter von Sprachkommunikationsdiensten sind verpflichtet, ihren
 Endnutzern die Möglichkeit einzuräumen, eine von einem Dritten
@@ -818,9 +839,11 @@ dies technisch möglich ist.
 
 
 ### Kapitel 4 - Endnutzerverzeichnisse, Bereitstellen von Endnutzerdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000600000)
 
 
 #### § 17 Endnutzerverzeichnisse
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001800000)
 
 (1) Anschlussinhaber können mit ihrer Rufnummer, ihrem Namen und ihrer
 Anschrift in gedruckte oder elektronische Endnutzerverzeichnisse, die
@@ -855,6 +878,7 @@ und Berichtigungen vorzunehmen.
 
 
 #### § 18 Bereitstellen von Endnutzerdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE001900000)
 
 (1) Jeder Anbieter eines nummerngebundenen interpersonellen
 Telekommunikationsdienstes hat unter Beachtung der anzuwendenden
@@ -885,12 +909,15 @@ entsprechende Auskunftsdienste-Datenbank aufgenommen werden können.
 
 
 ## Teil 3 - Datenschutz bei digitalen Diensten, Endeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000701130)
 
 
 ### Kapitel 1 - Technische und organisatorische Vorkehrungen, Verarbeitung von Daten zum Zweck des Jugendschutzes und zur Auskunftserteilung
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000800000)
 
 
 #### § 19 Technische und organisatorische Vorkehrungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002002129)
 
 (1) Anbieter von digitalen Diensten haben durch technische und
 organisatorische Vorkehrungen sicherzustellen, dass der Nutzer von
@@ -937,6 +964,7 @@ des BSI-Gesetzes bleiben unberührt.
 
 
 #### § 20 Verarbeitung personenbezogener Daten Minderjähriger
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002101130)
 
 Hat ein Anbieter von digitalen Diensten zur Wahrung des Jugendschutzes
 personenbezogene Daten von Minderjährigen erhoben, etwa durch Mittel
@@ -946,6 +974,7 @@ Zwecke verarbeiten.
 
 
 #### § 21 Bestandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002202130)
 
 (1) Auf Anordnung der zuständigen Stellen dürfen Anbieter von
 digitalen Diensten im Einzelfall Auskunft über Bestandsdaten erteilen,
@@ -983,6 +1012,7 @@ Einleitung des Verfahrens unterrichten.
 
 
 #### § 22 Auskunftsverfahren bei Bestandsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002301130)
 
 (1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Bestandsdaten nach
@@ -1556,6 +1586,7 @@ einem positiven Prüfergebnis freigegeben werden.
 
 
 #### § 23 Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002403130)
 
 (1) Abweichend von § 22 darf derjenige, der geschäftsmäßig digitale
 Dienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran
@@ -1613,6 +1644,7 @@ einem positiven Prüfergebnis freigegeben werden.
 
 
 #### § 24 Auskunftsverfahren bei Nutzungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002501130)
 
 (1) Wer geschäftsmäßig digitale Dienste erbringt, daran mitwirkt oder
 den Zugang zur Nutzung daran vermittelt, darf die Nutzungsdaten nach
@@ -1814,9 +1846,11 @@ einem positiven Prüfergebnis freigegeben werden.
 
 
 ### Kapitel 2 - Endeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG000900000)
 
 
 #### § 25 Schutz der Privatsphäre bei Endeinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002601130)
 
 (1) Die Speicherung von Informationen in der Endeinrichtung des
 Endnutzers oder der Zugriff auf Informationen, die bereits in der
@@ -1845,6 +1879,7 @@ haben gemäß der Verordnung (EU) 2016/679 zu erfolgen.
 
 
 #### § 26 Anerkannte Dienste zur Einwilligungsverwaltung, Endnutzereinstellungen
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002701130)
 
 (1) Dienste zur Verwaltung von nach § 25 Absatz 1 erteilten
 Einwilligungen, die
@@ -1931,9 +1966,11 @@ legt dazu einen Bericht an den Bundestag und den Bundesrat vor.
 
 
 ## Teil 4 - Straf- und Bußgeldvorschriften und Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNG001000000)
 
 
 ### § 27 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002800000)
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -1957,6 +1994,7 @@ Geldstrafe.
 
 
 ### § 28 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE002900000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2040,6 +2078,7 @@ Geldbußen verhängt.
 
 
 ### § 29 Zuständigkeit, Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE003000000)
 
 (1) Soweit für die geschäftsmäßige Erbringung von
 Telekommunikationsdiensten Daten von natürlichen oder juristischen
@@ -2067,6 +2106,7 @@ dies erfordert.
 
 
 ### § 30 Zuständigkeit, Aufgaben und Befugnisse der Bundesnetzagentur
+[Direktlink](https://www.gesetze-im-internet.de/ttdsg/BJNR198210021.html#BJNR198210021BJNE003100000)
 
 (1) Die Bundesnetzagentur ist zuständige Aufsichtsbehörde für die
 Einhaltung der Vorschriften in Teil 2, soweit nicht gemäß § 29 die

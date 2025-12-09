@@ -24,6 +24,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000204116)
 
 Diese Verordnung gilt für genehmigungsbedürftige Anlagen mit Ausnahme
 der Anlagen, die in den folgenden Nummern des Anhangs 1 der Verordnung
@@ -43,6 +44,7 @@ für diese Teile oder Nebeneinrichtungen abzugeben.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000302310)
 
 Im Sinne dieser Verordnung sind:
 
@@ -75,6 +77,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ## § 3 Inhalt, Umfang und Form der Emissionserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000404116)
 
 (1) Der Betreiber einer Anlage hat eine Emissionserklärung abzugeben,
 die inhaltlich dem Anhang entspricht. Emissionen sind anzugeben für
@@ -139,6 +142,7 @@ erteilen.
 
 
 ## § 4 Erklärungszeitraum, Zeitpunkt der Erklärung, Erklärungspflichtiger
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000502310)
 
 (1) Der erste Erklärungszeitraum für die Emissionserklärung ist das
 Kalenderjahr 2008. Anschließend ist für jedes vierte Kalenderjahr eine
@@ -159,6 +163,7 @@ des Kalenderjahres, in denen die Anlage betrieben worden ist.
 
 
 ## § 5 Ermittlung der Emissionen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000601310)
 
 (1) Emissionen sind wie folgt zu ermitteln:
 
@@ -190,6 +195,7 @@ aufzubewahren.
 
 
 ## § 6 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000701310)
 
 Die zuständige Behörde kann auf Antrag den Betreiber von der Pflicht
 zur Abgabe einer Emissionserklärung befreien, soweit im Einzelfall von
@@ -198,11 +204,13 @@ können.
 
 
 ## § 7 (Inkrafttreten, Außerkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE000801310)
 
 -
 
 
 ## Anhang
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_11_2004/BJNR069400004.html#BJNR069400004BJNE001102310)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 292 - 293)
 

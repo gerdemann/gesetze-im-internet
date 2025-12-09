@@ -21,12 +21,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbache1971prot1992g/BJNR188620993.html#BJNR188620993BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/dbache1971prot1992g/BJNR188620993.html#BJNR188620993BJNE000200314)
 
 Dem in Bern am 21. Dezember 1992 unterzeichneten Protokoll zu dem
 Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland
@@ -39,6 +41,7 @@ Verhandlungsprotokoll werden nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/dbache1971prot1992g/BJNR188620993.html#BJNR188620993BJNE000300314)
 
 Zur Anwendung des Artikels 4 Absatz 5 des Abkommens gilt folgendes:
 Endet nach Artikel 4 Abs. 5 des Abkommens die unbeschränkte
@@ -52,6 +55,7 @@ jeweiligen Jahressteuer zeitanteilig zu berechnen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/dbache1971prot1992g/BJNR188620993.html#BJNR188620993BJNE000400314)
 
 Zur Anwendung des Artikels 15a des Abkommens gilt folgendes:
 
@@ -99,6 +103,7 @@ Abzugssteuer beizufügen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/dbache1971prot1992g/BJNR188620993.html#BJNR188620993BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

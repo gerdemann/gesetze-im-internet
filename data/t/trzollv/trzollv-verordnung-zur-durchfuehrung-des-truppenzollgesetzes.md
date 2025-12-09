@@ -20,15 +20,18 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 und 2 des Truppenzollgesetzes vom 19. Mai
 2009 (BGBl. I S. 1090) verordnet das Bundesministerium der Finanzen:
 
 
 ## Kapitel 1 - Bewilligung der Truppenverwendung nichtberechtigter Personen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000100000)
 
 
 ### § 1 Bewilligung der Truppenverwendung nach § 3 Absatz 2 des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000300000)
 
 (1) Die Bewilligung der Truppenverwendung zur Belieferung der
 ausländischen Streitkräfte oder der Hauptquartiere nach § 3 Absatz 2
@@ -212,6 +215,7 @@ nach Artikel 2 der Verordnung (EWG) Nr. 2658/87.
 
 
 ### § 2 Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000400000)
 
 Die in der Bewilligung festgesetzte Frist, innerhalb derer die Waren
 an die ausländischen Streitkräfte oder die Hauptquartiere übergeben
@@ -220,6 +224,7 @@ werden.
 
 
 ### § 3 Rückwirkende Bewilligung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000500000)
 
 (1) Bewilligungen nach § 1 können rückwirkend erteilt werden.
 Unbeschadet der Absätze 2 und 3 wird eine rückwirkende Bewilligung
@@ -263,9 +268,11 @@ kann eine Zollanmeldung für ungültig erklärt werden, nachdem die Waren
 
 
 ## Kapitel 2 - Anmeldung zur Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000200000)
 
 
 ### § 4 Verwendung des Einheitspapiers
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000600000)
 
 (1) Bei der Anmeldung zur Truppenverwendung nach § 4 Absatz 1 Nummer 8
 des Gesetzes sind die Exemplare Nummer 6, 7 und 8 sowie ein
@@ -293,6 +300,7 @@ der Verfahrenscode 99 zu verwenden.
 
 
 ### § 5 Der Zollanmeldung beizufügende Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000700000)
 
 (1) Der Zollanmeldung zur Truppenverwendung einer nichtberechtigten
 Person gemäß § 4 Absatz 1 Nummer 8 des Gesetzes sind folgende
@@ -330,6 +338,7 @@ jedes Packstücks verlangen.
 
 
 ### § 6 Verzicht auf die Einfuhr-/Erwerbsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000800000)
 
 (1) Die nach § 4 Absatz 1 Nummer 5 des Gesetzes erforderliche
 Einfuhr-/Erwerbsgenehmigung kann bei der Einfuhr von Übersiedlungsgut,
@@ -352,15 +361,19 @@ ausgestellte Registrierbescheinigung mitgeführt wird.
 
 
 ## Kapitel 3 - Abgabe von Waren in der Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000300000)
 
 
 ### Abschnitt 1 - Abgabe durch die ausländischen Streitkräfte und Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000400000)
 
 
 #### Unterabschnitt 1 - Abgabe aus dienstlichen Gründen, Abgabenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000500000)
 
 
 ##### § 7 Abgabe von Waren in Verpflegungseinrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE000900000)
 
 (1) Die ausländischen Streitkräfte und die Hauptquartiere dürfen in
 ihren Verpflegungseinrichtungen abweichend von dem in § 16 des
@@ -387,6 +400,7 @@ damit auch nicht buchmäßig erfasst.
 
 
 ##### § 8 Abgabe von Waren an deutsche Mitglieder der Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001000000)
 
 (1) An Mitglieder der Truppe eines Hauptquartiers, die die deutsche
 Staatsangehörigkeit besitzen, können folgende Einfuhrwaren abweichend
@@ -464,6 +478,7 @@ Gutscheine oder im Rahmen eines Tankkartenverfahrens.
 
 
 ##### § 9 Abgabe von Waren aus anderen dienstlichen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001100000)
 
 (1) Die Abgabe von rationierten Waren im Sinne des § 18 des Gesetzes
 und von Einfuhrwaren bis zu einem Wert von 25 Euro je einzelner Ware
@@ -491,9 +506,11 @@ gleichgestellt.
 
 
 #### Unterabschnitt 2 - Abgabe auf Veranstaltungen, Abgabenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000600000)
 
 
 ##### § 10 Öffentliche Veranstaltungen der ausländischen Streitkräfte oder der Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001200000)
 
 (1) Öffentliche Veranstaltungen der ausländischen Streitkräfte oder
 der Hauptquartiere, bei denen Einfuhrwaren an nichtberechtigte
@@ -516,6 +533,7 @@ ist eingeladen, ohne dass Eintrittsgelder erhoben werden.
 
 
 ##### § 11 Genehmigungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001300000)
 
 (1) Volksfeste und andere öffentliche Veranstaltungen der
 ausländischen Streitkräfte oder der Hauptquartiere, auf denen
@@ -574,6 +592,7 @@ damit auch nicht buchmäßig erfasst.
 
 
 ##### § 12 Sonstige öffentliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001400000)
 
 (1) Bei öffentlichen Veranstaltungen, zu denen die ausländischen
 Streitkräfte oder die Hauptquartiere lediglich eingeladen sind und
@@ -609,6 +628,7 @@ damit auch nicht buchmäßig erfasst.
 
 
 ##### § 13 Nichtöffentliche Veranstaltungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001500000)
 
 (1) Bei nichtöffentlichen Veranstaltungen der ausländischen
 Streitkräfte oder der Hauptquartiere dürfen Einfuhrwaren abweichend
@@ -627,9 +647,11 @@ damit auch nicht buchmäßig erfasst.
 
 
 #### Unterabschnitt 3 - Abgabe an nichtberechtigte Personen, die Kinder von Mitgliedern der ausländischen Streitkräfte oder der Hauptquartiere zeitweise betreuen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000700000)
 
 
 ##### § 14 Erwerb von Einfuhrwaren
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001600000)
 
 (1) Die ausländischen Streitkräfte oder die Hauptquartiere können
 nichtberechtigten Personen erlauben, Einfuhrwaren für den Bedarf
@@ -677,9 +699,11 @@ zuzusenden.
 
 
 #### Unterabschnitt 4 - Abgabe an versorgungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000800000)
 
 
 ##### § 15 Versorgungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001701377)
 
 (1) Personen, die Anspruch auf Versorgung durch die ausländischen
 Streitkräfte haben (versorgungsberechtigte Personen), im Sinne dieser
@@ -726,6 +750,7 @@ nachzuweisen.
 
 
 ##### § 16 Rechte und Pflichten der versorgungsberechtigten Personen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001800000)
 
 (1) Personen nach § 15 sind berechtigt, nach Zulassung durch die
 zuständige Zollstelle in den Verkaufseinrichtungen der ausländischen
@@ -750,6 +775,7 @@ als präferenzberechtigte Waren gilt.
 
 
 ##### § 17 Zulassung als versorgungsberechtigte Person
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE001900000)
 
 (1) Die zuständige Zollstelle kann den in § 15 genannten Personen die
 Zulassung auf Antrag erteilen. Diese wird entsprechend der Gültigkeit
@@ -768,9 +794,11 @@ Bescheinigung nach Absatz 2 zurückzugeben.
 
 
 ### Abschnitt 2 - Abgabe durch die Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG000900000)
 
 
 #### § 18 Veräußerungsgenehmigung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002000000)
 
 (1) Die nach § 16 Absatz 1 des Gesetzes erforderliche Anzeige soll bei
 der Übernahme von Waren aus der Truppenverwendung der Mitglieder der
@@ -789,6 +817,7 @@ des Gesetzes gilt sinngemäß.
 
 
 #### § 19 Abgabe von Geschenken, Abgabenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002100000)
 
 (1) Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere
 dürfen abweichend von dem in § 16 des Gesetzes und in § 18 dieser
@@ -853,6 +882,7 @@ damit auch nicht buchmäßig erfasst.
 
 
 #### § 20 Abgabe auf Flohmärkten, Abgabenbefreiung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002200000)
 
 (1) Flohmärkte sind öffentliche Veranstaltungen der ausländischen
 Streitkräfte oder der Hauptquartiere, auf denen Mitglieder der
@@ -879,9 +909,11 @@ damit auch nicht buchmäßig erfasst.
 
 
 ## Kapitel 4 - Handlungen, die keine zweckwidrige Verwendung darstellen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG001000000)
 
 
 ### § 21 Beförderung von Waren in der Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002300000)
 
 (1) Abweichend von § 17 des Gesetzes dürfen Waren in der
 Truppenverwendung der ausländischen Streitkräfte, der Hauptquartiere
@@ -898,6 +930,7 @@ Unternehmen befördert werden.
 
 
 ### § 22 Lagerung von Waren in der Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002400000)
 
 Abweichend von § 17 des Gesetzes dürfen Waren in der Truppenverwendung
 der Mitglieder der ausländischen Streitkräfte oder der Mitglieder der
@@ -907,6 +940,7 @@ mittelbaren Besitz dieser Mitglieder befinden.
 
 
 ### § 23 Unentgeltliches Überlassen von Waren in der Truppenverwendung
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002500000)
 
 (1) Abweichend von § 17 des Gesetzes dürfen Mitglieder der
 ausländischen Streitkräfte oder der Hauptquartiere Einfuhrwaren des
@@ -928,6 +962,7 @@ ausschließlich zu privaten Zwecken verwendet werden.
 
 
 ### § 24 Kommissionsgeschäfte über Kraftfahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002600000)
 
 Abweichend von § 17 des Gesetzes dürfen Kraftfahrzeuge in der
 Truppenverwendung der Mitglieder der ausländischen Streitkräfte oder
@@ -938,9 +973,11 @@ das Kraftfahrzeug für Probefahrten nutzen.
 
 
 ## Kapitel 5 - Ausnahmen von der Abgabenentstehung, Übersiedlungsgut
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG001100000)
 
 
 ### § 25 Geringfügige Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002700000)
 
 (1) Folgende Pflichtverletzungen gelten im Sinne des § 19 Absatz 2 des
 Gesetzes als Pflichtverletzungen, die sich nicht auf die
@@ -1002,6 +1039,7 @@ erfüllt werden, um die Situation der Ware zu bereinigen.
 
 
 ### § 26 Übersiedlungsgut
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002800000)
 
 Einfuhrwaren, die nach § 21 des Gesetzes als Übersiedlungsgut
 einfuhrabgabenfrei sind, gelten mit dem Verlust der Rechtsstellung als
@@ -1014,9 +1052,11 @@ Luftfahrzeuge.
 
 
 ## Kapitel 6 - Sonstige Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNG001200000)
 
 
 ### § 27 Zuständige Zollstelle
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE002901377)
 
 (1) Zuständige Zollstelle ist in den Fällen des § 16 Absatz 1 und 2
 des Gesetzes die Zollstelle, in deren Bezirk die Einfuhrwaren eine
@@ -1067,6 +1107,7 @@ ist die Zollstelle, in deren Bezirk der Flohmarkt stattfindet.
 
 
 ### § 28 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE003000000)
 
 Ordnungswidrig im Sinne des § 382 Absatz 1 Nummer 2 der Abgabenordnung
 handelt, wer vorsätzlich oder fahrlässig:
@@ -1089,6 +1130,7 @@ handelt, wer vorsätzlich oder fahrlässig:
 
 
 ### § 29 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/trzollv/BJNR294700009.html#BJNR294700009BJNE003100000)
 
 Diese Verordnung tritt am 1. November 2009 in Kraft.
 

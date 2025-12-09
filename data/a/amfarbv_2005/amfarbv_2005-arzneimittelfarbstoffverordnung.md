@@ -40,6 +40,7 @@ und der
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/amfarbv_2005/BJNR303100005.html#BJNR303100005BJNE000100000)
 
 Es verordnen
 
@@ -65,6 +66,7 @@ Es verordnen
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/amfarbv_2005/BJNR303100005.html#BJNR303100005BJNE000204116)
 
 (1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Absatz 1
 des Arzneimittelgesetzes dürfen über die in § 55 Absatz 8 des
@@ -107,6 +109,7 @@ werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/amfarbv_2005/BJNR303100005.html#BJNR303100005BJNE000301310)
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
 bestraft, wer vorsätzlich oder fahrlässig Arzneimittel entgegen § 1
@@ -122,6 +125,7 @@ handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/amfarbv_2005/BJNR303100005.html#BJNR303100005BJNE000400000)
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

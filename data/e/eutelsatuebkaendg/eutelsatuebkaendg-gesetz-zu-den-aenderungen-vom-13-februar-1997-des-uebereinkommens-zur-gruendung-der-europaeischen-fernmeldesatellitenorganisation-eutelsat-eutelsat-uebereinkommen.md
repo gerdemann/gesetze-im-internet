@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/eutelsat_bk_ndg/BJNR173820998.html#BJNR173820998BJNE000100311)
 
 Den in Paris am 13. Februar 1997 von der Versammlung der
 Vertragsparteien beschlossenen Änderungen des Übereinkommens zur
@@ -31,6 +32,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/eutelsat_bk_ndg/BJNR173820998.html#BJNR173820998BJNE000204305)
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde)
@@ -45,6 +47,7 @@ Rechtsverordnung zu regeln.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/eutelsat_bk_ndg/BJNR173820998.html#BJNR173820998BJNE000304305)
 
 Das Bundesministerium für Wirtschaft und Energie kann das EUTELSAT-
 Übereinkommen in der durch die vereinbarten Änderungen vom 13. Februar
@@ -53,6 +56,7 @@ der Neufassung bekanntmachen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/eutelsat_bk_ndg/BJNR173820998.html#BJNR173820998BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

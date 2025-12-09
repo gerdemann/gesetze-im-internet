@@ -26,6 +26,7 @@ Stand: Ersetzt V 8053-4-15 v. 17.6.1998 I 1393 (GSGV 12)
 [^F793497_01_BJNR060500016]: 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000100000)
 
 Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8.
 November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), der durch
@@ -40,9 +41,11 @@ des Ausschusses für Produktsicherheit:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000300000)
 
 (1) Diese Verordnung ist auf neue Aufzüge anzuwenden, die in den
 Verkehr gebracht oder ausgestellt werden, wenn diese Aufzüge
@@ -119,6 +122,7 @@ Sicherheitsbauteile für Aufzüge und die entsprechenden Risiken.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000401126)
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -246,6 +250,7 @@ anzuwenden.
 
 
 ### § 3 Inverkehrbringen und Bereitstellung auf dem Markt
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000500000)
 
 (1) Aufzüge dürfen nur in den Verkehr gebracht werden, wenn
 
@@ -275,6 +280,7 @@ bestimmungsgemäß betrieben werden.
 
 
 ### § 4 Konformitätsvermutung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000600000)
 
 Bei denjenigen Aufzügen und Sicherheitsbauteilen für Aufzüge, die
 harmonisierten Normen oder Teilen dieser Normen entsprechen, deren
@@ -286,9 +292,11 @@ dieser Normen abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000200000)
 
 
 ### § 5 Allgemeine Pflichten des Montagebetriebs
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000700000)
 
 (1) Der Montagebetrieb stellt sicher, wenn er einen Aufzug in den
 Verkehr bringt, dass dieser Aufzug nach den wesentlichen
@@ -334,6 +342,7 @@ die ergriffenen Korrekturmaßnahmen.
 
 
 ### § 6 Besondere Kennzeichnungs- und Informationspflichten des Montagebetriebs
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000800000)
 
 (1) Der Montagebetrieb hat dafür zu sorgen, dass seine Aufzüge beim
 Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine
@@ -368,6 +377,7 @@ gebracht hat.
 
 
 ### § 7 Allgemeine Pflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE000900000)
 
 (1) Der Hersteller stellt sicher, wenn er Sicherheitsbauteile für
 Aufzüge in den Verkehr bringt, dass sie
@@ -435,6 +445,7 @@ Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
 
 ### § 8 Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001000000)
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Sicherheitsbauteile
 für Aufzüge beim Inverkehrbringen eine Typen-, Chargen- oder
@@ -478,6 +489,7 @@ die er in den Verkehr gebracht hat.
 
 
 ### § 9 Bevollmächtigter des Montagebetriebs, Bevollmächtigter des Herstellers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001100000)
 
 (1) Sowohl der Montagebetrieb als auch der Hersteller kann schriftlich
 einen Bevollmächtigten benennen.
@@ -516,6 +528,7 @@ Bevollmächtigten übertragen.
 
 
 ### § 10 Allgemeine Pflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001200000)
 
 (1) Der Einführer darf nur Sicherheitsbauteile für Aufzüge in den
 Verkehr bringen, die die Anforderungen dieser Verordnung erfüllen.
@@ -583,6 +596,7 @@ Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
 
 ### § 11 Besondere Kennzeichnungs- und Informationspflichten des Einführers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001300000)
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seinen
 eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie
@@ -615,6 +629,7 @@ die er in den Verkehr gebracht hat.
 
 
 ### § 12 Pflichten des Händlers
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001400000)
 
 (1) Der Händler muss die Anforderungen dieser Verordnung mit der
 gebührenden Sorgfalt berücksichtigen, wenn er ein Sicherheitsbauteil
@@ -675,6 +690,7 @@ Aufzüge verbunden sind, die er auf dem Markt bereitgestellt hat.
 
 
 ### § 13 Einführer oder Händler als Hersteller
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001500000)
 
 Auf einen Einführer oder Händler sind die §§ 7 und 8 entsprechend
 anzuwenden, wenn er
@@ -692,6 +708,7 @@ anzuwenden, wenn er
 
 
 ### § 14 Angabe der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001600000)
 
 (1) Der Wirtschaftsakteur nennt den Marktüberwachungsbehörden auf
 deren Verlangen die Wirtschaftsakteure,
@@ -711,9 +728,11 @@ bereithalten.
 
 
 ## Abschnitt 3 - Konformitätsbewertungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000300000)
 
 
 ### § 15 Konformitätsbewertungsverfahren für Aufzüge
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001700000)
 
 (1) Für Aufzüge sind die Konformitätsbewertungsverfahren nach Artikel
 16 Absatz 1 in Verbindung mit Anhang IV Teil B, den Anhängen V, VIII,
@@ -744,6 +763,7 @@ nachzuweisen.
 
 
 ### § 16 Konformitätsbewertungsverfahren für Sicherheitsbauteile für Aufzüge
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001800000)
 
 Für Sicherheitsbauteile für Aufzüge sind die
 Konformitätsbewertungsverfahren nach Artikel 15 in Verbindung mit
@@ -752,9 +772,11 @@ Anhang IV Teil A, den Anhängen VI, VII oder Anhang IX der Richtlinie
 
 
 ## Abschnitt 4 - Marktüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000400000)
 
 
 ### § 17 Korrekturmaßnahmen der Wirtschaftsakteure
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE001900000)
 
 (1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
 Aufzug oder ein Sicherheitsbauteil für Aufzüge ein Risiko für die
@@ -806,6 +828,7 @@ bereitgestellt hat.
 
 
 ### § 18 Vorläufige Maßnahmen der Marktüberwachungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002000000)
 
 (1) Ergreift der Montagebetrieb innerhalb der nach § 17 Absatz 2
 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft die
@@ -886,6 +909,7 @@ Sicherheitsbauteils für Aufzüge.
 
 
 ### § 19 Konforme Aufzüge oder Sicherheitsbauteile für Aufzüge, die ein Risiko darstellen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002100000)
 
 (1) Stellt die Marktüberwachungsbehörde im Rahmen einer Beurteilung
 nach § 17 Absatz 1 fest, dass ein Aufzug ein Risiko für die Gesundheit
@@ -929,6 +953,7 @@ und den übrigen Mitgliedstaaten der Europäischen Union zu.
 
 
 ### § 20 Formale Nichtkonformität
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002200000)
 
 (1) Unabhängig von den Korrekturmaßnahmen nach § 17 fordert die
 Marktüberwachungsbehörde den betreffenden Wirtschaftsakteur dazu auf,
@@ -986,9 +1011,11 @@ die folgenden Fälle der Nichtkonformität zu korrigieren:
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNG000500000)
 
 
 ### § 21 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002301126)
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1051,6 +1078,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 22 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002401126)
 
 Wer eine in § 21 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
 wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
@@ -1059,6 +1087,7 @@ gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
 
 
 ### § 23 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002500000)
 
 (1) Aufzüge, die die Anforderungen der Richtlinie
 95/16/EG des Europäischen Parlaments und des Rates vom 29. Juni 1995
@@ -1078,6 +1107,7 @@ sind, bleiben im Rahmen dieser Verordnung gültig.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002600000)
 
 Diese Verordnung tritt am 20. April 2016 in Kraft. Gleichzeitig tritt
 die Aufzugsverordnung vom 17. Juni 1998 (BGBl. I S. 1393), die zuletzt
@@ -1086,6 +1116,7 @@ geändert worden ist, außer Kraft.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/prodsg2011v_12/BJNR060500016.html#BJNR060500016BJNE002700000)
 
 Der Bundesrat hat zugestimmt.
 

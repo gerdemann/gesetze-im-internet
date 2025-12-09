@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_9/BJNR010370977.html#BJNR010370977BJNE000100311)
 
 Nr. 1 bis 12
 
@@ -33,18 +34,21 @@ Nr. 14 bis 19
 
 
 ## Art 2 Besitzstandsklausel
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_9/BJNR010370977.html#BJNR010370977BJNE000200311)
 
 Artikel 1 Nr. 13 gilt nur für die früheren Ehefrauen, deren Ehe nach
 dem 30. Juni 1977 aufgelöst wurde.
 
 
 ## Art 3 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_9/BJNR010370977.html#BJNR010370977BJNE000300311)
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
 ## Art 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kovanpg_9/BJNR010370977.html#BJNR010370977BJNE000400311)
 
 (1) Dieses Gesetz tritt, soweit Absatz 2 nichts anderes bestimmt, am
 1\. Juli 1977 in Kraft.

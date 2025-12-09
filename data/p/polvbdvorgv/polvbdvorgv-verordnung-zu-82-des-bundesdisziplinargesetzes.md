@@ -18,6 +18,7 @@ Fundstelle
 Stand: Ersetzt V 2031-4-28 v. 16.10.2008 I 2004 (BDG§82V 2008)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/polvbdvorgv/BJNR151700020.html#BJNR151700020BJNE000100000)
 
 Auf Grund des § 82 des Bundesdisziplinargesetzes vom 9. Juli 2001
 (BGBl. I S. 1510) in Verbindung mit § 1 Absatz 2 des
@@ -27,6 +28,7 @@ verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Bundespolizei
+[Direktlink](https://www.gesetze-im-internet.de/polvbdvorgv/BJNR151700020.html#BJNR151700020BJNE000200000)
 
 (1) Dienstvorgesetzte der ihnen nachgeordneten
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten der Bundespolizei
@@ -117,6 +119,7 @@ genannten Vorgesetzten.
 
 
 ## § 2 Bundesministerium des Innern, für Bau und Heimat
+[Direktlink](https://www.gesetze-im-internet.de/polvbdvorgv/BJNR151700020.html#BJNR151700020BJNE000300000)
 
 Dienstvorgesetzte oder Dienstvorgesetzter der
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten im
@@ -126,6 +129,7 @@ der Bundesminister des Innern, für Bau und Heimat.
 
 
 ## § 3 Bundeskriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/polvbdvorgv/BJNR151700020.html#BJNR151700020BJNE000400000)
 
 Dienstvorgesetzte der Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten im Bundeskriminalamt im Sinne des § 33 Absatz 2
@@ -135,6 +139,7 @@ der Präsident des Bundeskriminalamtes.
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/polvbdvorgv/BJNR151700020.html#BJNR151700020BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung zu § 82 des

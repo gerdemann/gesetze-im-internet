@@ -21,12 +21,14 @@ Neugefasst durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000101307)
 
 Zur Realisierung von bisher ruhenden Ansprüchen aus Anteilrechten an
 der Altguthaben-Ablösungs-Anleihe wird folgendes verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000201307)
 
 (1) Das Ruhen der Ansprüche aus Anteilrechten an der Altguthaben-
 Ablösungs-Anleihe von Inhabern, die ihren Wohnsitz außerhalb der
@@ -41,6 +43,7 @@ Altguthaben-Ablösungs-Anleihe gilt gleichzeitig als aufgehoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000303307)
 
 (1) Inhaber von Anteilrechten an der Altguthaben-Ablösungs-Anleihe
 bzw. deren Erben können bis zum 31. Dezember 1992 einen entsprechenden
@@ -89,6 +92,7 @@ Danach erlöschen diese Ansprüche.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000403307)
 
 (1) Die Anteilrechte an der Altguthaben-Ablösungs-Anleihe werden mit
 einem Zinssatz von 3% pro Jahr für den Zeitraum vom 1. Januar 1949 bis
@@ -102,6 +106,7 @@ gebracht wird.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000501307)
 
 Bürger von Staaten, mit denen die Deutsche Demokratische Republik
 Ansprüche aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe durch
@@ -110,6 +115,7 @@ mehr geltend machen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/altgaatv/DDNR105430990.html#DDNR105430990BJNE000601307)
 
 (Inkrafttreten)
 

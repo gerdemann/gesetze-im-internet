@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Grundwehrdienst und Wehrübungen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNG000103377)
 
 
 
 ### § 1 Ruhen des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE000504377)
 
 (1) Wird ein Arbeitnehmer zum Grundwehrdienst oder zu einer Wehrübung
 einberufen, so ruht das Arbeitsverhältnis während des Wehrdienstes.
@@ -76,6 +78,7 @@ gestellt wird.
 
 
 ### § 2 Kündigungsschutz für Arbeitnehmer, Weiterbeschäftigung nach der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE000607310)
 
 (1) Von der Zustellung des Einberufungsbescheides bis zur Beendigung
 des Grundwehrdienstes sowie während einer Wehrübung darf der
@@ -122,6 +125,7 @@ Anlass des Wehrdienstes ablehnen.
 
 
 ### § 3 Wohnraum und Sachbezüge
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE000702310)
 
 (1) Das Ruhen des Arbeitsverhältnisses (§ 1 Abs. 1) lässt eine
 Verpflichtung zum Überlassen von Wohnraum unberührt.
@@ -149,6 +153,7 @@ weiterzuzahlen hat.
 
 
 ### § 4 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE000803310)
 
 (1) Der Arbeitgeber kann den Erholungsurlaub, der dem Arbeitnehmer für
 ein Urlaubsjahr aus dem Arbeitsverhältnis zusteht, für jeden vollen
@@ -176,6 +181,7 @@ Urlaubsvorschriften für Soldaten.
 
 
 ### § 5 Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE000903377)
 
 Einem Arbeitnehmer, der Grundwehrdienst leistet oder an einer
 Wehrübung teilnimmt, darf in beruflicher und betrieblicher Hinsicht
@@ -183,6 +189,7 @@ kein Nachteil entstehen.
 
 
 ### § 6 Fortsetzung des Arbeitsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001003377)
 
 (1) Die Zeit des Grundwehrdienstes oder einer Wehrübung wird auf die
 Berufs- und Betriebszugehörigkeit angerechnet; bei Auszubildenden und
@@ -206,6 +213,7 @@ Einstufung in die höhere Lohn- oder Vergütungsgruppe zustehen würde.
 
 
 ### § 7 Vorschriften für in Heimarbeit Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001103377)
 
 (1) Für in Heimarbeit Beschäftigte, die ihren Lebensunterhalt
 überwiegend aus der Heimarbeit beziehen, gelten die §§ 1 bis 4 sowie §
@@ -223,6 +231,7 @@ Zwischenmeister erzielt hat.
 
 
 ### § 8 Vorschriften für Handelsvertreter
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001202310)
 
 (1) Das Vertragsverhältnis zwischen einem Handelsvertreter und einem
 Unternehmer wird durch Einberufung des Handelsvertreters zum
@@ -262,6 +271,7 @@ oder den Abschluss von Geschäften zu bemühen.
 
 
 ### § 9 Vorschriften für Beamte und Richter
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001311377)
 
 (1) Wird ein Beamter zum Grundwehrdienst einberufen, so ist er für die
 Dauer des Grundwehrdienstes ohne Bezüge beurlaubt.
@@ -319,6 +329,7 @@ anzuwenden.
 
 
 ### § 10 Freiwillige Wehrübungen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001405310)
 
 Wird der Wehrpflichtige zu einer Wehrübung auf Grund freiwilliger
 Verpflichtung (§ 4 Abs. 3 Satz 1 und 2 des Wehrpflichtgesetzes)
@@ -328,11 +339,13 @@ Kalenderjahr nicht länger als sechs Wochen dauert.
 
 
 ### § 11
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001506310)
 
 (weggefallen)
 
 
 ### § 11a Bevorzugte Einstellung in den öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001603310)
 
 (1) Bewirbt sich ein Soldat oder entlassener Soldat bis zum Ablauf von
 sechs Monaten nach Beendigung des Grundwehrdienstes um Einstellung in
@@ -362,6 +375,7 @@ Wehrpflichtigen aufzurunden.
 
 
 ### § 12 Anrechnung der Wehrdienstzeit und der Zeit einer Berufsförderung bei Einstellung entlassener Soldaten
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE003003377)
 
 (1) Wird ein entlassener Soldat im Anschluss an den Grundwehrdienst
 oder an eine Wehrübung als Arbeitnehmer eingestellt, gilt § 6, nachdem
@@ -401,6 +415,7 @@ vorgeschriebenen Vorbereitungsdienstes durchgeführt wird.
 
 
 ### § 13 Anrechnung des Wehrdienstes im späteren Berufsleben
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001805310)
 
 (1) Die Zeit des Grundwehrdienstes und der Wehrübungen wird auf die
 bei der Zulassung zu weiterführenden Prüfungen im Beruf nachzuweisende
@@ -427,10 +442,12 @@ Vorbereitungsdienstes durchgeführt wird, gelten § 9 Abs. 8 Satz 4 und
 
 
 ## Abschnitt 2 - Meldung
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNG000203377)
 
 
 
 ### § 14 Weiterzahlung des Arbeitsentgelts
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE001907377)
 
 (1) Wird ein Arbeitnehmer nach Maßgabe des Wehrpflichtgesetzes von den
 Karrierecentern der Bundeswehr aufgefordert, sich persönlich zu melden
@@ -446,10 +463,12 @@ herangezogen werden soll.
 
 
 ## Abschnitt 3 - Alters- und Hinterbliebenenversorgung
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNG000304377)
 
 
 
 ### § 14a Zusätzliche Alters- und Hinterbliebenenversorgung für Arbeitnehmer
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002012377)
 
 (1) Eine bestehende Versicherung in der zusätzlichen Alters- und
 Hinterbliebenenversorgung für Arbeitnehmer im öffentlichen Dienst wird
@@ -504,6 +523,7 @@ für Elternzeit.
 
 
 ### § 14b Alters- und Hinterbliebenenversorgung in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002112377)
 
 (1) Einem Wehrpflichtigen, der am Tage vor Beginn des
 Wehrdienstverhältnisses (§ 2 des Soldatengesetzes) auf Grund einer
@@ -561,6 +581,7 @@ den Höchstbeitrag nicht übersteigen.
 
 
 ### § 14c Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE003100377)
 
 (1) Ist seit der Beendigung des Wehrdienstes ein Jahr verstrichen,
 können Beiträge nicht mehr nach § 14a Absatz 2 Satz 2 angemeldet und
@@ -576,10 +597,12 @@ beginnt mit dem Datum der Entscheidung über den Erstattungsantrag.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNG000403377)
 
 
 
 ### § 15 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002202310)
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und
 Angestellte sowie die zu ihrer Berufsausbildung Beschäftigten.
@@ -593,6 +616,7 @@ Religionsgesellschaften oder ihren Verbänden.
 
 
 ### § 16 Sonstige Geltung des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002312377)
 
 (1) Dieses Gesetz gilt auch im Falle des unbefristeten Wehrdienstes im
 Spannungs- oder Verteidigungsfall mit der Maßgabe, dass die
@@ -636,6 +660,7 @@ nach § 58b des Soldatengesetzes mit der Maßgabe, dass die Vorschriften
 
 
 ### § 16a Wehrdienst als Soldat auf Zeit
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002902116)
 
 (1) Dieses Gesetz gilt auch im Falle des Wehrdienstes als Soldat auf
 Zeit
@@ -671,6 +696,7 @@ Verteidigung (§ 54 Abs. 3 des Soldatengesetzes).
 
 
 ### § 17 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/arbplschg/BJNR002930957.html#BJNR002930957BJNE002507310)
 
 (1) Für Anspruchsberechtigte, die vor dem 1. Januar 1990 als Soldat
 eingestellt worden sind, bleiben die Vorschriften des § 14a Abs. 4,

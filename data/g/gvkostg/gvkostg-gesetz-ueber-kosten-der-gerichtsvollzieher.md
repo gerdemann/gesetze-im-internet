@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNG000100305)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE000600305)
 
 (1) Für die Tätigkeit des Gerichtsvollziehers, für die er nach Bundes-
 oder Landesrecht sachlich zuständig ist, werden Kosten (Gebühren und
@@ -34,6 +36,7 @@ Verwaltungszwangsverfahren bleiben unberührt.
 
 
 ### § 2 Kostenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE000806125)
 
 (1) Von der Zahlung der Kosten sind befreit der Bund, die Länder und
 die nach dem Haushaltsplan des Bundes oder eines Landes für Rechnung
@@ -68,6 +71,7 @@ der Entnahme der Kosten aus dem Erlös (§ 15) nicht entgegen.
 
 
 ### § 3 Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE000906125)
 
 (1) Ein Auftrag umfasst alle Amtshandlungen, die zu seiner
 Durchführung erforderlich sind; einem Vollstreckungsauftrag können
@@ -154,6 +158,7 @@ Gerichtsvollzieher eingegangen ist.
 
 
 ### § 3a Rechtsbehelfsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE003100308)
 
 Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine
 Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei
@@ -162,6 +167,7 @@ einzuhaltende Form zu enthalten.
 
 
 ### § 4 Vorschuss
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001002160)
 
 (1) Der Auftraggeber ist zur Zahlung eines Vorschusses verpflichtet,
 der die voraussichtlich entstehenden Kosten deckt. Die Durchführung
@@ -189,6 +195,7 @@ zur Zahlung der vorzuschießenden Beträge bestehen.
 
 
 ### § 5 Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001104311)
 
 (1) Die Kosten werden von dem Gerichtsvollzieher angesetzt, der den
 Auftrag durchgeführt hat. Der Kostenansatz kann im Verwaltungswege
@@ -216,6 +223,7 @@ elektronische Dokument anzuwenden.
 
 
 ### § 6 Nachforderung
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001200305)
 
 Wegen unrichtigen Ansatzes dürfen Kosten nur nachgefordert werden,
 wenn der berichtigte Ansatz vor Ablauf des nächsten Kalenderjahres
@@ -224,6 +232,7 @@ worden ist.
 
 
 ### § 7 Nichterhebung von Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001302125)
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
 wären, werden nicht erhoben. Das Gleiche gilt für Zustellungsgebühren
@@ -238,6 +247,7 @@ geändert werden.
 
 
 ### § 8 Verjährung, Verzinsung
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001504301)
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach
 Ablauf des Kalenderjahres, in dem die Kosten fällig geworden sind.
@@ -263,16 +273,19 @@ verzinst.
 
 
 ### § 9 Höhe der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001600305)
 
 Kosten werden nach dem Kostenverzeichnis der Anlage zu diesem Gesetz
 erhoben, soweit nichts anderes bestimmt ist.
 
 
 ## Abschnitt 2 - Gebührenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNG000200305)
 
 
 
 ### § 10 Abgeltungsbereich der Gebühren
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001704311)
 
 (1) Bei Durchführung desselben Auftrags wird eine Gebühr nach
 derselben Nummer des Kostenverzeichnisses nur einmal erhoben. Dies
@@ -322,6 +335,7 @@ worden sind.
 
 
 ### § 11 Tätigkeit zur Nachtzeit, an Sonnabenden, Sonn- und Feiertagen
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001801301)
 
 Wird der Gerichtsvollzieher auf Verlangen zur Nachtzeit (§ 758a Abs. 4
 Satz 2 der Zivilprozessordnung) oder an einem Sonnabend, Sonntag oder
@@ -329,6 +343,7 @@ Feiertag tätig, so werden die doppelten Gebühren erhoben.
 
 
 ### § 12 Siegelungen, Vermögensverzeichnisse, Proteste und ähnliche Geschäfte
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE001901311)
 
 Die Gebühren für Wechsel- und Scheckproteste, für Siegelungen und
 Entsiegelungen, für die Aufnahme von Vermögensverzeichnissen sowie für
@@ -338,10 +353,12 @@ Regelungen des Gerichts- und Notarkostengesetzes.
 
 
 ## Abschnitt 3 - Auslagenvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNG000500311)
 
 
 
 ### § 12a Erhöhtes Wegegeld
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE003200311)
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 eine höhere Stufe nach Nummer 711 des Kostenverzeichnisses für Wege
@@ -364,10 +381,12 @@ Rechtsverordnung auf die Landesjustizverwaltung übertragen.
 
 
 ## Abschnitt 4 - Kostenzahlung
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNG000301311)
 
 
 
 ### § 13 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002002311)
 
 (1) Kostenschuldner sind
 
@@ -392,6 +411,7 @@ Auslagen des gerichtlichen Verfahrens.
 
 
 ### § 14 Fälligkeit
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002100305)
 
 Gebühren werden fällig, wenn der Auftrag durchgeführt ist oder länger
 als zwölf Kalendermonate ruht. Auslagen werden sofort nach ihrer
@@ -399,6 +419,7 @@ Entstehung fällig.
 
 
 ### § 15 Entnahmerecht
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002202311)
 
 (1) Kosten, die im Zusammenhang mit der Versteigerung oder dem Verkauf
 von beweglichen Sachen, von Früchten, die vom Boden noch nicht
@@ -427,6 +448,7 @@ aller Auftraggeber.
 
 
 ### § 16 Verteilung der Verwertungskosten
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002300305)
 
 Reicht der Erlös einer Verwertung nicht aus, um die in § 15 Abs. 1
 bezeichneten Kosten zu decken, oder wird ein Erlös nicht erzielt, sind
@@ -434,6 +456,7 @@ diese Kosten im Verhältnis der Forderungen zu verteilen.
 
 
 ### § 17 Verteilung der Auslagen bei der Durchführung mehrerer Aufträge
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002402311)
 
 Auslagen, die in anderen als den in § 15 Abs. 1 genannten Fällen bei
 der gleichzeitigen Durchführung mehrerer Aufträge entstehen, sind nach
@@ -445,10 +468,12 @@ Auftrag gesondert zu erheben.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNG000401311)
 
 
 
 ### § 18 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002501160)
 
 (1) Die Kosten sind nach bisherigem Recht zu erheben, wenn der Auftrag
 vor dem Inkrafttreten einer Gesetzesänderung erteilt worden ist,
@@ -463,6 +488,7 @@ dieses Gesetz verweist.
 
 
 ### § 19 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002600305)
 
 (1) Die Kosten sind vorbehaltlich des Absatzes 2 nach dem Gesetz über
 Kosten der Gerichtsvollzieher in der im Bundesgesetzblatt Teil III,
@@ -482,6 +508,7 @@ sind.
 (zu § 9)
 
 ### Anlage Kostenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/gvkostg/BJNR062310001.html#BJNR062310001BJNE002927125)
 
 (Fundstelle: BGBl. I 2001, 634 - 637;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

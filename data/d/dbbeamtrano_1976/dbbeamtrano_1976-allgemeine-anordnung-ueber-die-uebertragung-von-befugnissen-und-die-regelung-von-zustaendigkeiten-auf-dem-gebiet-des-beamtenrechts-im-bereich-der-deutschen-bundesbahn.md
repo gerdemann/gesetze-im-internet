@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000100326)
 
 Wir übertragen folgende Befugnisse den nachstehenden Stellen oder
 Dienstvorgesetzten - je für ihren Geschäftsbereich -:
@@ -169,6 +170,7 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000200326)
 
 Wir ermächtigen - je für ihren Geschäftsbereich -
 
@@ -260,6 +262,7 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000300326)
 
 Wir bestimmen, daß
 
@@ -345,6 +348,7 @@ Wir bestimmen, daß
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000400326)
 
 Wir ordnen nach § 29 Abs. 4 BDO an, daß - je für ihren
 Geschäftsbereich - Geldbußen verhängen können:
@@ -374,6 +378,7 @@ Abs. 3 Nr. 3 BDO sind nicht befugt, Geldbußen zu verhängen.
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000500326)
 
 
 1.  Gemäß § 155 Abs. 1 Satz 2 BBG übertragen wir unsere Befugnisse als
@@ -455,22 +460,26 @@ Abs. 3 Nr. 3 BDO sind nicht befugt, Geldbußen zu verhängen.
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000600326)
 
 -
 
 
 ## VII.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000700326)
 
 Wir behalten uns im Einzelfall Entscheidungen nach den Abschnitten I
 bis VI dieser Anordnung vor.
 
 
 ## VIII.
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000800326)
 
 Diese Anordnung tritt mit Wirkung vom 1. Februar 1976 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dbbeamtrano_1976/BJNR004040976.html#BJNR004040976BJNE000900326)
 
 Deutsche Bundesbahn
 Der Vorstand

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch
@@ -32,6 +33,7 @@ Bundesministerium für Wirtschaft und Technologie:
 
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000200000)
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 „Geprüften Industriefachwirt“ und zur „Geprüften Industriefachwirtin“
@@ -75,6 +77,7 @@ Industriefachwirtin“.
 
 
 ## § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000300000)
 
 (1) Zur Prüfung in der Teilprüfung „Wirtschaftsbezogene
 Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
@@ -125,6 +128,7 @@ rechtfertigen.
 
 
 ## § 3 Gliederung und Durchführung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000401128)
 
 (1) Die Prüfung gliedert sich in folgende Teilprüfungen:
 
@@ -217,6 +221,7 @@ ausreichende Leistungen erbracht wurden.
 
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000500000)
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen
 zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre
@@ -349,6 +354,7 @@ schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
 ## § 5 Handlungsspezifische Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000600000)
 
 (1) Im Handlungsbereich „Finanzwirtschaft im Industrieunternehmen“
 soll die Fähigkeit nachgewiesen werden, Entscheidungen für das
@@ -518,6 +524,7 @@ bilden.
 
 
 ## § 6 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000701128)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -530,6 +537,7 @@ Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 7 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000801128)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -573,6 +581,7 @@ die Bewertungen wie folgt zu gewichten:
 
 
 ## § 8 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001500128)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -649,6 +658,7 @@ ist die Gesamtnote.
 
 
 ## § 9 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001600128)
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -675,6 +685,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 10 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE000901128)
 
 (1) Jede nicht bestandene Teilprüfung kann zweimal wiederholt werden.
 Einzelne Teilprüfungen können vor Abschluss des jeweiligen
@@ -691,6 +702,7 @@ diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
 ## § 11 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001001128)
 
 (1) Wer die Teilprüfung „Handlungsspezifische Qualifikationen“
 erfolgreich abgeschlossen hat, kann beantragen, eine zusätzliche
@@ -716,6 +728,7 @@ Ausbilder-Eignungsverordnung auszustellen.
 
 
 ## § 12 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001101128)
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. Dezember 2013 nach
 den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann
@@ -728,6 +741,7 @@ Fall keine Anwendung.
 
 
 ## § 13 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001201128)
 
 Diese Verordnung tritt am 1. Juli 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -738,6 +752,7 @@ I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 (zu den §§ 7 und 8)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001302128)
 
 (Fundstelle: BGBl. I 2019, 2333 – 2334)
 
@@ -1039,6 +1054,7 @@ I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 (zu § 9)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/indfachwirtprv_2010/BJNR083300010.html#BJNR083300010BJNE001402128)
 
 (Fundstelle: BGBl. I 2019, 2335)
 

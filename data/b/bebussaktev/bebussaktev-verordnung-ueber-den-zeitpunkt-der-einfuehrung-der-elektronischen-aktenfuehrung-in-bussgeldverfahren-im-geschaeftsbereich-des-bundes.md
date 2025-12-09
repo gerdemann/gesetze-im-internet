@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bebussaktev/BJNR035900021.html#BJNR035900021BJNE000100000)
 
 Auf Grund des § 110a Absatz 1 Satz 2 und 3 des Gesetzes über
 Ordnungswidrigkeiten, der durch Artikel 8 Nummer 13 des Gesetzes vom
@@ -26,6 +27,7 @@ Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bebussaktev/BJNR035900021.html#BJNR035900021BJNE000200000)
 
 Diese Verordnung gilt für die Führung elektronischer Bußgeldakten bei
 
@@ -43,6 +45,7 @@ Diese Verordnung gilt für die Führung elektronischer Bußgeldakten bei
 
 
 ## § 2 Einführung der elektronischen Akte
+[Direktlink](https://www.gesetze-im-internet.de/bebussaktev/BJNR035900021.html#BJNR035900021BJNE000300000)
 
 (1) Die Akten können ab dem 25. März 2021 elektronisch geführt werden.
 
@@ -59,6 +62,7 @@ desjenigen zu veröffentlichen, der sie erlassen hat.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bebussaktev/BJNR035900021.html#BJNR035900021BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

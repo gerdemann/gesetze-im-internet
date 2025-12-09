@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dbiblbdodano/BJNR002340970.html#BJNR002340970BJNE000100307)
 
 Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in
 der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl. I S.
@@ -28,6 +29,7 @@ beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/dbiblbdodano/BJNR002340970.html#BJNR002340970BJNE000200307)
 
 Für die Beamten der Deutschen Bibliothek sind im Sinne der
 Bundesdisziplinarordnung Einleitungsbehörden:
@@ -54,11 +56,13 @@ Bundesdisziplinarordnung Einleitungsbehörden:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/dbiblbdodano/BJNR002340970.html#BJNR002340970BJNE000300307)
 
 Diese Anordnung tritt am 1. März 1970 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/dbiblbdodano/BJNR002340970.html#BJNR002340970BJNE000400307)
 
 Der Bundesminister des Innern
 

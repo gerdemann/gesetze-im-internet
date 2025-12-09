@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000100000)
 
 Auf Grund des § 5 Absatz 6 des Gesetzes zur Errichtung der
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -26,6 +27,7 @@ verordnet das Bundesministerium der Finanzen:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000200000)
 
 Soweit in dieser Verordnung nichts anderes bestimmt ist, obliegt die
 Durchführung der nach § 5 Absatz 1 des Gesetzes zur Errichtung der
@@ -36,6 +38,7 @@ Logistik Telekommunikation.
 
 
 ## § 2 Kostenermittlung und Rechnungslegung
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000300000)
 
 (1) In der Rechnungslegung der Berufsgenossenschaft Verkehrswirtschaft
 Post-Logistik Telekommunikation sind die Einnahmen und die
@@ -104,6 +107,7 @@ zuzurechnen.
 
 
 ## § 3 Kostenerstattung für die übertragenen Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000400000)
 
 (1) Die Personal- und Sachkosten für die Prävention und den
 Arbeitsschutz sowie die Ausgaben für die Prävention, die durch die
@@ -133,6 +137,7 @@ werden monatlich abgerechnet und abgeführt.
 
 
 ## § 4 Laufende Finanzierung der übertragenen Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000500000)
 
 (1) Zur Sicherstellung ihrer Leistungsfähigkeit erhebt die
 Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
@@ -172,6 +177,7 @@ festgesetzt.
 
 
 ## § 5 Betriebsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000600000)
 
 (1) Um Einnahme- und Ausgabeschwankungen ausgleichen zu können, sind
 für die Erfüllung der übertragenen Aufgaben jeweils Betriebsmittel im
@@ -186,6 +192,7 @@ Betriebsmitteln wieder zuzuführen.
 
 
 ## § 6 Rücklage
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000700000)
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation hat zur Sicherstellung ihrer Leistungsfähigkeit für
@@ -210,6 +217,7 @@ Höchstbetrag nach Absatz 2 erreicht hat.
 
 
 ## § 7 Säumniszuschläge
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000800000)
 
 (1) Für Forderungen und Vorschusszahlungen, die ein
 Mitgliedsunternehmen nicht bis zum Ablauf des Fälligkeitstages
@@ -226,6 +234,7 @@ Kenntnis von der Zahlungspflicht hatte.
 
 
 ## § 8 Anzeige von Unfällen
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE000900000)
 
 (1) Die Mitgliedsunternehmen haben der Berufsgenossenschaft
 Verkehrswirtschaft Post-Logistik Telekommunikation hinsichtlich der
@@ -256,6 +265,7 @@ Meldeformular erfolgen.
 
 
 ## § 9 Unterstützung durch die Mitgliedsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE001000000)
 
 Die Mitgliedsunternehmen sind verpflichtet, die Berufsgenossenschaft
 Verkehrswirtschaft Post-Logistik Telekommunikation bei der
@@ -294,6 +304,7 @@ haben sie:
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgvpltaufgdv/BJNR003400016.html#BJNR003400016BJNE001100000)
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2016 in Kraft.
 

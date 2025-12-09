@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Teil I - Erfassung des Warenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG000100307)
 
 
 
 ### § 1 Aufgaben der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000212123)
 
 (1) Der Verkehr mit Waren über die Grenze des Zollgebiets der
 Europäischen Union (Zollgebiet der Union) sowie über die Grenzen von
@@ -91,6 +93,7 @@ andere Rechtsvorschriften zugewiesen sind.
 
 
 ### § 2 Verkehrswege
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000303377)
 
 (1) Waren dürfen im Geltungsbereich dieses Gesetzes nur auf
 Zollstraßen (Absatz 4) in das oder aus dem Zollgebiet der Union sowie
@@ -127,6 +130,7 @@ Ort zu befördern.
 
 
 ### § 3 Zeitliche Beschränkung der Ein- und Ausfuhr
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000403377)
 
 (1) Waren, die auf Zollstraßen zu befördern sind, dürfen nur während
 der Öffnungszeiten der zuständigen Zollstellen in das oder aus dem
@@ -143,6 +147,7 @@ die Umstände erfordern und die Möglichkeit der zollamtlichen
 
 
 ### § 4 Gestellung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000502377)
 
 (1) Die Gestellung ist innerhalb der dafür bekanntgegebenen
 Öffnungszeiten (§ 18) am Amtsplatz der zuständigen Zollstelle oder an
@@ -158,6 +163,7 @@ Beschränkungen nicht entgegenstehen.
 
 
 ### § 5 Sondervorschriften für Postsendungen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000603123)
 
 (1) Sofern Postsendungen nicht bereits nach Maßgabe des Zollkodex der
 Union und sonstiger unionsrechtlicher Vorschriften zu gestellen sind,
@@ -199,10 +205,12 @@ durch diese Vorschrift nicht berührt.
 
 
 ## Teil II - Erlangung einer zollrechtlichen Bestimmung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG000700307)
 
 
 
 ### § 6 Zolltarif
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000804377)
 
 (1) Der Zolltarif umfaßt die in Artikel 56 Absatz 2 des Zollkodex der
 Union genannten Rechtsakte sowie die Zolltarifverordnung vom 24.
@@ -309,6 +317,7 @@ von der Bestimmung des Ursprungs abhängt.
 
 
 ### § 7 Nichtannahme der Zollanmeldung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE000901377)
 
 (1) Unbeschadet des Zollkodex der Union und der sonstigen
 unionsrechtlichen Vorschriften lehnt die Zollstelle die Annahme der
@@ -339,6 +348,7 @@ Zollanmeldung ab, wenn
 
 
 ### § 8 Nämlichkeitssicherung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001001377)
 
 Soweit die Sicherung der Nämlichkeit (Artikel 192 des Zollkodex der
 Union) erforderlich ist, hat der Beteiligte Räume, Beförderungsmittel
@@ -351,6 +361,7 @@ sie als Nämlichkeitsmittel erforderlich sind.
 
 
 ### § 9 Zollbehandlung auf dem Betriebsgelände bestimmter Unternehmen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001101301)
 
 (1) Wird die Zollbehandlung des Personen- oder Güterverkehrs auf dem
 Betriebsgelände oder auf einem Beförderungsmittel eines Unternehmens
@@ -404,10 +415,12 @@ der vorstehenden Absätze.
 
 
 ## Teil III - Befugnisse der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG001200307)
 
 
 
 ### § 10 Zollamtliche Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001304377)
 
 (1) Unbeschadet der §§ 209 bis 211 der Abgabenordnung können die
 Bediensteten der Zollverwaltung zur Durchführung der in § 1 genannten
@@ -508,6 +521,7 @@ werden nach Maßgabe der Absätze 1 bis 4a eingeschränkt.
 
 
 ### § 10a Zollbedienstete in den Vollzugsbereichen der Zollverwaltung; Befugnisse bei Sicherungs- und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE005000377)
 
 (1) Zollbedienstete in den Vollzugsbereichen der Zollverwaltung im
 Sinne dieses Gesetzes sind die in § 9 Nummer 2 und 8 des Gesetzes über
@@ -571,6 +585,7 @@ Einsatzmitteln der Zollverwaltung erforderlich sind.
 
 
 ### § 11 Datenübermittlung ins Ausland sowie an über- oder zwischenstaatliche Stellen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001404123)
 
 (1) Die Dienststellen der Zollverwaltung, die Aufgaben nach § 1
 wahrnehmen, können an Zoll-, Polizei-, Justiz- und Verwaltungsbehörden
@@ -621,6 +636,7 @@ dass der Empfängerstaat oder die empfangende zwischen- oder
 
 
 ### § 11a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004800377)
 
 (1) Auf ein Ersuchen einer Polizeibehörde oder einer sonstigen für die
 Verhütung und Verfolgung von Straftaten zuständigen öffentlichen
@@ -744,6 +760,7 @@ Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
 
 ### § 11b Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004900377)
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die in § 11
 Absatz 1 Satz 1 genannten Dienststellen der Zollverwaltung übermittelt
@@ -762,6 +779,7 @@ zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 
 
 ### § 12 Weiterleitungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001500307)
 
 Ergeben sich bei der zollamtlichen Überwachung zureichende
 tatsächliche Anhaltspunkte dafür, daß Waren unter Verstoß gegen ein
@@ -779,6 +797,7 @@ Sätze 1 und 2 eingeschränkt.
 
 
 ### § 12a Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004214123)
 
 (1) Auf Verlangen der Zollbediensteten müssen natürliche Personen
 Barmittel und gleichgestellte Zahlungsmittel im Gesamtwert von 10 000
@@ -923,6 +942,7 @@ BND-Gesetzes sowie den landesrechtlichen Vorschriften.
 
 
 ### § 12b Befugnisse des Zollfahndungsdienstes bei der Verfolgung der internationalen organisierten Geldwäsche
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004302377)
 
 Die Behörden des Zollfahndungsdienstes und ihre Beamten haben bei der
 Erfüllung ihrer Aufgaben nach § 1 Absatz 5 dieselben Rechte und
@@ -932,6 +952,7 @@ Ermittlungspersonen der Staatsanwaltschaft.
 
 
 ### § 12c Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004404123)
 
 (1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
 Bundesministerium des Innern, für Bau und Heimat Beamte der
@@ -948,6 +969,7 @@ Fachaufsicht aus.
 
 
 ### § 12d Amtshandlungen von Zollbediensteten in den Vollzugsbereichen der Zollverwaltung im Zuständigkeitsbereich eines Landes
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE005100377)
 
 Zollbedienstete in den Vollzugsbereichen der Zollverwaltung dürfen
 nach Maßgabe des jeweiligen Landesrechts im Zuständigkeitsbereich des
@@ -957,6 +979,7 @@ kann.
 
 
 ### § 12e Überwachung des grenzüberschreitenden Verkehrs mit verbrauchsteuerpflichtigen Waren
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE005200377)
 
 (1) Zollbedienstete können Waren sowie dazugehörige Behältnisse und
 Umschließungen bis zum Ablauf des fünften Werktages nach dem Auffinden
@@ -982,6 +1005,7 @@ Abgabenordnung bleibt unberührt.
 
 
 ### § 13 Verwertung von Waren
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001601377)
 
 (1) Soweit im Zollkodex der Union und in sonstigen unionsrechtlichen
 Vorschriften geregelt ist, daß Waren durch die Zollbehörden veräußert
@@ -1005,10 +1029,12 @@ können, können vernichtet werden.
 
 
 ## Teil IV - Vorschriften für Grundstücke und Bauten im grenznahen Raum
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG001700307)
 
 
 
 ### § 14 Grenznaher Raum
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001804377)
 
 (1) Der grenznahe Raum erstreckt sich am deutschen Teil der Zollgrenze
 der Gemeinschaft bis zu einer Tiefe von 30 Kilometern, von der
@@ -1052,6 +1078,7 @@ und 3 sowie § 10 Abs. 1 und § 15 Abs. 5 entsprechend.
 
 
 ### § 15 Grundstücke und Bauten in Grenznähe, an Freizonengrenzen und auf Flugplätzen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE001903377)
 
 (1) Bauten dürfen innerhalb einer Entfernung von 100 Metern, in Orten
 mit geschlossener Bauweise von 50 Metern, vom deutschen Teil der
@@ -1100,6 +1127,7 @@ der Eisenbahnen des Bundes.
 
 
 ### § 16 Enteignung
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002000307)
 
 (1) Für die Errichtung von Zollbauten im grenznahen Raum (§ 14 Abs. 1)
 ist die Enteignung zulässig.
@@ -1112,10 +1140,12 @@ sinngemäß.
 
 
 ## Teil V - Zollverwaltung, Beistandspflichten
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG002100307)
 
 
 
 ### § 17 Zollbehörden und Zollstellen, Grenzaufsichtsdienst
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002203377)
 
 (1) Der organisatorische Aufbau der Zollverwaltung bestimmt sich nach
 dem Finanzverwaltungsgesetz vom 30. August 1971 (BGBl. I S. 1426,
@@ -1137,6 +1167,7 @@ Wasserzolldienstes -, die in der Grenzaufsicht tätig sind.
 
 
 ### § 17a Zentralstelle für Risikoanalyse
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004602301)
 
 Die Dienststellen der Zollverwaltung, insbesondere der
 Zollabfertigungs- und Prüfungsdienst, werden bei ihrer
@@ -1148,6 +1179,7 @@ der Finanzen.
 
 
 ### § 18 Öffnungszeiten und Amtsplätze
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002301301)
 
 Die Öffnungszeiten der Zollstellen und deren Amtsplätze werden durch
 Aushang bei den Zollstellen bekanntgegeben. Der Amtsplatz der
@@ -1157,6 +1189,7 @@ Vornahme der vorgenannten Maßnahmen besonders gekennzeichneten Plätze.
 
 
 ### § 19 Beistand
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002402301)
 
 (1) Das Bundesministerium der Finanzen kann den Eisenbahnen des Bundes
 durch Rechtsverordnung zur Erleichterung des Verkehrs Hoheitsaufgaben
@@ -1191,10 +1224,12 @@ die zollamtliche Überwachung erstreckt.
 
 
 ## Teil VI - Sondervorschriften für Freizonen und andere Teile des Hoheitsgebiets
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG002500307)
 
 
 
 ### § 20 Freizonen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002603377)
 
 (1) Freizonen (Artikel 243 des Zollkodex der Union) sind diejenigen
 Einrichtungen, die beim Inkrafttreten dieses Gesetzes bestehen. Die
@@ -1208,6 +1243,7 @@ wird.
 
 
 ### § 21 Persönliche Beschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002700307)
 
 Personen dürfen in Freizonen nur mit besonderer Erlaubnis des
 Hauptzollamts wohnen. Die Erlaubnis wird erteilt, wenn Zollbelange
@@ -1215,6 +1251,7 @@ nicht entgegenstehen.
 
 
 ### § 22 Bauten in Freizonen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002800307)
 
 Bauten dürfen in Freizonen nur mit Zustimmung des Hauptzollamts
 errichtet, wesentlich in ihrer Bauart geändert oder anders verwendet
@@ -1228,6 +1265,7 @@ Baubeginn zugeleitet werden.
 
 
 ### § 23 Überwachung von Freizonen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE002903377)
 
 Das Bundesministerium der Finanzen kann zur Sicherung der Begrenzungen
 von Freizonen, insbesondere zur Ausgestaltung der Umzäunung, das
@@ -1236,6 +1274,7 @@ bestimmen.
 
 
 ### § 24 Helgoland
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003001377)
 
 (1) Auf der Insel Helgoland kann nach Artikel 135 Absatz 4 des
 Zollkodex der Union eine Zollstelle errichtet werden, die nach den im
@@ -1255,10 +1294,12 @@ Helgoland gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
 
 
 ## Teil VII - Sonstige Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG003100307)
 
 
 
 ### § 25 Beschränkung des Warenverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003202377)
 
 (1) Der Handel mit Nichtunionswaren oder unversteuerten Waren, die zur
 Verwendung als Schiffs- und Reisebedarf bestimmt sind, darf nur mit
@@ -1273,6 +1314,7 @@ einschränken oder für bestimmte Fälle untersagen.
 
 
 ### § 26 Versand
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003302377)
 
 Soweit der Zollkodex oder sonstige gemeinschaftsrechtliche
 Vorschriften eine Befugnis zur Einräumung von Erleichterungen oder
@@ -1282,6 +1324,7 @@ das Nähere durch Rechtsverordnung regeln.
 
 
 ### § 27 Abgabenerhebung zum Pauschsatz
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003401301)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung für
 Waren, die weder zum Handel noch zur gewerblichen Verwendung bestimmt
@@ -1295,10 +1338,12 @@ Ländern zusteht.
 
 
 ## Teil VIII - Sonstige Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG003500307)
 
 
 
 ### § 28 Rechtsverordnungsermächtigungen für Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003604377)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Sicherung
 der Zollbelange durch Rechtsverordnung die durch dieses Gesetz
@@ -1318,6 +1363,7 @@ betreffen, in Kraft zu setzen.
 
 
 ### § 29 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003701301)
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 
@@ -1371,6 +1417,7 @@ ausschließen oder einschränken.
 
 
 ### § 30 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schiffahrt
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE003801301)
 
 Das Bundesministerium der Finanzen kann zur Förderung der Luftfahrt
 und der Schiffahrt durch Rechtsverordnung Betriebsstoffe auch in
@@ -1380,10 +1427,12 @@ verwendet werden.
 
 
 ## Teil IX - Steuerordnungswidrigkeiten, Steuerstraftaten und Steuerordnungswidrigkeiten im Reiseverkehr
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNG003901301)
 
 
 
 ### § 31 Steuerordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004001301)
 
 (1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 1 der Abgabenordnung
 handelt, wer vorsätzlich oder fahrlässig
@@ -1464,6 +1513,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ### § 31a Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004505123)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1553,6 +1603,7 @@ der Staatsanwaltschaft.
 
 
 ### § 32 Nichtverfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten, Erhebung eines Zuschlags
+[Direktlink](https://www.gesetze-im-internet.de/zollvg/BJNR121250992.html#BJNR121250992BJNE004103377)
 
 (1) Steuerstraftaten und Steuerordnungswidrigkeiten (§§ 369, 377 der
 Abgabenordnung) sollen als solche nicht verfolgt werden, wenn durch

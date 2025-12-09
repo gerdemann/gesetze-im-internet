@@ -21,9 +21,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000100000)
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000200000)
 
 Dieses Gesetz gilt, soweit hierin nicht ausdrücklich etwas anderes
 geregelt ist, für alle Verbraucher sowie für Zahlungsdienstleister,
@@ -31,6 +33,7 @@ die auf dem Markt Zahlungskonten für Verbraucher anbieten.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000301128)
 
 (1) Rechtmäßiger Aufenthalt in der Europäischen Union ist der
 rechtmäßige Aufenthalt natürlicher Personen, einschließlich Personen
@@ -96,6 +99,7 @@ Ausführung von Zahlungsvorgängen genutzt wird.
 
 
 ### § 3 Allgemeines Benachteiligungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000401118)
 
 Verbraucher mit rechtmäßigem Aufenthalt in der Europäischen Union, die
 innerhalb der Europäischen Union den Abschluss eines
@@ -109,6 +113,7 @@ benachteiligt werden.
 
 
 ### § 4 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000500000)
 
 (1) Soweit die Vorschriften dieses Gesetzes das Verhältnis zwischen
 Zahlungsdienstleistern und Verbrauchern regeln, darf von ihnen nicht
@@ -120,12 +125,15 @@ vor, es sei denn, es ist etwas anderes bestimmt.
 
 
 ## Abschnitt 2 - Informationspflichten sowie Vergleichbarkeit der Entgelte für Zahlungskonten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000200000)
 
 
 ### Unterabschnitt 1 - Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000300000)
 
 
 #### § 5 Vorvertragliche Entgeltinformation
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000601000)
 
 Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen
 Vertragserklärung zum Abschluss eines Zahlungsdiensterahmenvertrags
@@ -135,6 +143,7 @@ den §§ 6 bis 9 unentgeltlich mitzuteilen.
 
 
 #### § 6 Inhalt der Entgeltinformation zu den maßgeblichen Zahlungskontendiensten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000701000)
 
 (1) Die Entgeltinformation muss angeben, welche der maßgeblichen
 Zahlungskontendienste von dem Zahlungsdienstleister angeboten werden
@@ -155,6 +164,7 @@ Informationen zu den maßgeblichen Zahlungskontendiensten und den
 
 
 #### § 7 Inhalt der Entgeltinformation bei Paketen von Diensten oder von weiteren Produkten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000801000)
 
 (1) Soweit einer oder mehrere der maßgeblichen Zahlungskontendienste
 von dem Zahlungsdienstleister als Teil eines Dienstepakets für ein
@@ -193,6 +203,7 @@ Pakete vorgesehen sind.
 
 
 #### § 8 Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltinformation
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE000901000)
 
 (1) Für die Bezeichnung der in der Entgeltinformation genannten
 maßgeblichen Zahlungskontendienste ist die standardisierte
@@ -211,6 +222,7 @@ haben.
 
 
 #### § 9 Form und Gestaltung der Entgeltinformation
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001001000)
 
 (1) Die Entgeltinformation bedarf der Textform.
 
@@ -238,6 +250,7 @@ Entgeltinformationen veröffentlichte Muster verwenden.
 
 
 #### § 10 Entgeltaufstellung während und bei Beendigung des Vertragsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001101000)
 
 Ein Zahlungsdienstleister hat einem Verbraucher bei einem
 Zahlungsdiensterahmenvertrag über die Führung eines Zahlungskontos
@@ -251,6 +264,7 @@ Beendigung des Vertragsverhältnisses zur Verfügung zu stellen.
 
 
 #### § 11 Inhalt der Entgeltaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001201000)
 
 (1) Die Entgeltaufstellung muss bezogen auf den Zeitraum, für den die
 Entgeltaufstellung erteilt wird, mindestens folgende Angaben
@@ -294,6 +308,7 @@ oder Pakete angefallen sind.
 
 
 #### § 12 Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001301000)
 
 (1) Für die Bezeichnung der in der Entgeltaufstellung genannten
 maßgeblichen Zahlungskontendienste ist die standardisierte
@@ -312,6 +327,7 @@ haben.
 
 
 #### § 13 Form und Gestaltung der Entgeltaufstellung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001401000)
 
 (1) Die Entgeltaufstellung muss dem Verbraucher in Textform zur
 Verfügung gestellt werden. Der Verbraucher kann verlangen, dass ihm
@@ -338,6 +354,7 @@ Entgeltaufstellungen veröffentlichte Muster verwenden.
 
 
 #### § 14 Allgemeine Informationspflichten der Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001501000)
 
 (1) Ein Zahlungsdienstleister, der sich öffentlich zur Führung von
 Zahlungskonten für Verbraucher erboten hat, hat Verbrauchern ergänzend
@@ -401,6 +418,7 @@ für dieses Glossar veröffentlichte Muster verwenden.
 
 
 #### § 15 Allgemeine Verwendung der standardisierten Zahlungskontenterminologie
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001601000)
 
 Ein Zahlungsdienstleister, der sich öffentlich zur Führung von
 Zahlungskonten für Verbraucher erboten hat, hat die standardisierte
@@ -415,9 +433,11 @@ Zahlungskontenterminologie die betreffenden Dienste bezeichnet werden.
 
 
 ### Unterabschnitt 2 - Vergleichswebsites
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000400000)
 
 
 #### § 16 Betrieb einer Vergleichswebsite für Zahlungskonten durch die Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001703128)
 
 Die Bundesanstalt betreibt eine Vergleichswebsite, die die in § 17
 genannten Kriterien in der in § 18 vorgeschriebenen Art und Weise für
@@ -426,6 +446,7 @@ den Verbraucher entgeltfrei vergleicht. Diese trägt die Bezeichnung
 
 
 #### § 17 Anforderungen an die Vergleichswebsite für Zahlungskonten, Meldepflicht für Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001803128)
 
 (1) Die Vergleichswebsite muss das Angebot verschiedener
 Zahlungsdienstleister, die Zahlungskontendienste anbieten und
@@ -463,6 +484,7 @@ melden. Für das Kriterium Geldautomatennetz ist eine halbjährliche
 
 
 #### § 18 Weitere Anforderungen an die Vergleichswebsite
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE001903128)
 
 Die Vergleichswebsite muss
 
@@ -502,6 +524,7 @@ Die Vergleichswebsite muss
 
 
 #### § 19 Verordnungsermächtigung; Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002003128)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im
@@ -546,12 +569,15 @@ Naturschutz, nukleare Sicherheit und Verbraucherschutz ergeht.
 
 
 ## Abschnitt 3 - Kontenwechselhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000500000)
 
 
 ### Unterabschnitt 1 - Anspruch auf Kontenwechselhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000600000)
 
 
 #### § 20 Verpflichtung zur Gewährung von Kontenwechselhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002101000)
 
 (1) Im Zusammenhang mit einem Wechsel von einem beim übertragenden
 Zahlungsdienstleister geführten Zahlungskonto zu einem beim
@@ -580,6 +606,7 @@ Ermächtigung zur Kontenwechselhilfe erteilt hat.
 
 
 #### § 21 Ermächtigung des Kontoinhabers
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002201000)
 
 (1) Eine Ermächtigung zur Kontenwechselhilfe bedarf der Schriftform.
 Sie muss in deutscher Sprache verfasst sein, es sei denn, die
@@ -635,9 +662,11 @@ Zahlungskontos erteilt werden.
 
 
 ### Unterabschnitt 2 - Pflichten der beteiligten Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000700000)
 
 
 #### § 22 Einleitung des Kontenwechsels über den empfangenden Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002301000)
 
 Der empfangende Zahlungsdienstleister hat auf Verlangen des
 Verbrauchers innerhalb von zwei Geschäftstagen nach Erhalt der
@@ -685,6 +714,7 @@ soweit die Ermächtigung zur Kontenwechselhilfe dies vorsieht:
 
 
 #### § 23 Pflichten des übertragenden Zahlungsdienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002401000)
 
 (1) Der übertragende Zahlungsdienstleister hat nach Erhalt einer
 entsprechenden Aufforderung nach § 22 folgende Leistungen zu
@@ -733,6 +763,7 @@ sperren.
 
 
 #### § 24 Abschluss des Kontenwechsels durch den empfangenden Zahlungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002501000)
 
 (1) Der empfangende Zahlungsdienstleister hat innerhalb von fünf
 Geschäftstagen nach Erhalt der Listen und Informationen nach § 23
@@ -821,6 +852,7 @@ Erhalt der Listen und Informationen.
 
 
 #### § 25 Haftung bei Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002601000)
 
 Der empfangende und der übertragende Zahlungsdienstleister haften dem
 Verbraucher für Schäden aus einer Verletzung ihrer Pflichten nach
@@ -829,9 +861,11 @@ den allgemeinen Vorschriften.
 
 
 ### Unterabschnitt 3 - Entgelte, Kosten und Verbot von Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000800000)
 
 
 #### § 26 Entgelte, Kosten und Verbot von Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002701000)
 
 (1) Ein Zahlungsdienstleister hat für die Erfüllung seiner Pflichten
 nach den Unterabschnitten 1 und 2 nur dann einen Entgeltanspruch
@@ -872,9 +906,11 @@ schuldet, ist unzulässig.
 
 
 ## Abschnitt 4 - Grenzüberschreitende Kontoeröffnung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG000900000)
 
 
 ### § 27 Verpflichtung des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002801000)
 
 (1) Teilt der Verbraucher einem Zahlungsdienstleister, bei dem für ihn
 ein Zahlungskonto geführt wird, mit, dass er bei einem europäischen
@@ -888,6 +924,7 @@ für die grenzüberschreitende Kontoeröffnung zu übermitteln.
 
 
 ### § 28 Aufforderung durch den Verbraucher
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE002901000)
 
 (1) Die Aufforderung durch den Verbraucher zur Vornahme der in § 29
 genannten Handlungen muss das Datum enthalten, zu welchem diese
@@ -912,6 +949,7 @@ Verbrauchers ermöglichen.
 
 
 ### § 29 Handlungen des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003001000)
 
 Der Zahlungsdienstleister hat auf Aufforderung durch den Verbraucher
 zu dem gemäß § 28 Absatz 1 maßgeblichen Datum
@@ -949,12 +987,15 @@ zu dem gemäß § 28 Absatz 1 maßgeblichen Datum
 
 
 ## Abschnitt 5 - Zahlungskonten mit grundlegenden Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001000000)
 
 
 ### Unterabschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001100000)
 
 
 #### § 30 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003100000)
 
 (1) Dieser Abschnitt gilt für Zahlungsdiensterahmenverträge über die
 Führung eines Zahlungskontos für Verbraucher mit grundlegenden
@@ -999,9 +1040,11 @@ oder Zweigstelle.
 
 
 ### Unterabschnitt 2 - Zugang zu Zahlungskonten mit grundlegenden Funktionen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001200000)
 
 
 #### § 31 Anspruch auf Abschluss eines Basiskontovertrags
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003200000)
 
 (1) Ein Institut, das Zahlungskonten für Verbraucher anbietet
 (Verpflichteter), hat mit einem Berechtigten einen Basiskontovertrag
@@ -1020,6 +1063,7 @@ Antrags unter Beifügung einer Abschrift des Antrags zu bestätigen.
 
 
 #### § 32 Benachteiligungsfreies Leistungsangebot und Koppelungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003300000)
 
 (1) Der Abschluss und der gesetzlich vorgegebene Inhalt eines
 Basiskontovertrags nach dem dritten Unterabschnitt sowie die
@@ -1043,6 +1087,7 @@ zusätzlicher Dienstleistungen sind unzulässig.
 
 
 #### § 33 Antrag auf Abschluss eines Basiskontovertrags
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003400000)
 
 (1) Der Antrag des Berechtigten auf Abschluss eines Basiskontovertrags
 muss alle Angaben enthalten, die für den Abschluss dieses Vertrags
@@ -1065,6 +1110,7 @@ Formular nach Anlage 3 auch dort zur Verfügung zu stellen.
 
 
 #### § 34 Ablehnung des Antrags auf Abschluss eines Basiskontovertrags
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003500000)
 
 (1) Ein Verpflichteter kann den Antrag eines Berechtigten auf
 Abschluss eines Basiskontovertrags, der den Voraussetzungen des § 33
@@ -1098,6 +1144,7 @@ ist das Antragsformular nach Anlage 4 beizufügen.
 
 
 #### § 35 Ablehnung wegen eines bereits vorhandenen Zahlungskontos
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003600000)
 
 (1) Ein Verpflichteter kann den Antrag auf Abschluss eines
 Basiskontovertrags ablehnen, wenn der Berechtigte bereits Inhaber
@@ -1123,6 +1170,7 @@ beschränken, wenn deren Auskünfte zu den Angaben des Verbrauchers nach
 
 
 #### § 36 Ablehnung wegen strafbaren Verhaltens oder wegen Verstoßes gegen ein gesetzliches Verbot
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003702119)
 
 (1) Ein Verpflichteter kann den Antrag auf Abschluss eines
 Basiskontovertrags ablehnen, wenn
@@ -1156,6 +1204,7 @@ Ablehnungsgrund zu informieren.
 
 
 #### § 37 Ablehnung bei früherer Kündigung wegen Zahlungsverzugs
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003800000)
 
 Ein Verpflichteter kann den Antrag auf Abschluss eines
 Basiskontovertrags ablehnen, wenn der Berechtigte Inhaber eines
@@ -1166,9 +1215,11 @@ Nummer 2 berechtigt gekündigt hat.
 
 
 ### Unterabschnitt 3 - Basiskontovertrag
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001300000)
 
 
 #### § 38 Pflicht des kontoführenden Instituts zur Führung eines Basiskontos und zur Erbringung von Diensten in Bezug auf dieses Konto
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE003900000)
 
 (1) Durch einen Basiskontovertrag wird das kontoführende Institut
 verpflichtet, für den Kontoinhaber ein Basiskonto in Euro zu eröffnen
@@ -1227,6 +1278,7 @@ ermöglichen.
 
 
 #### § 39 Vereinbarung weiterer Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004000000)
 
 Unbeschadet des § 32 dürfen das kontoführende Institut und der
 Kontoinhaber zusätzlich Dienstleistungen vereinbaren, die sich auf das
@@ -1237,6 +1289,7 @@ geduldete Überziehung gemäß § 505 des Bürgerlichen Gesetzbuchs ein.
 
 
 #### § 40 Benachteiligungsverbot bei der Führung eines Basiskontos
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004100000)
 
 Das kontoführende Institut darf das Basiskonto für den Kontoinhaber im
 Übrigen nicht zu Bedingungen führen, die benachteiligend sind im
@@ -1245,6 +1298,7 @@ angeboten werden, die keine Inhaber eines Basiskontos sind.
 
 
 #### § 41 Entgelte, Kosten und Verbot von Vertragsstrafen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004200000)
 
 (1) Der Kontoinhaber ist verpflichtet, an das kontoführende Institut
 für die Erbringung von Diensten auf Grund des Basiskontovertrags das
@@ -1265,6 +1319,7 @@ Wirksamkeit des Basiskontovertrags im Übrigen unberührt.
 
 
 #### § 42 Kündigung durch das kontoführende Institut
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004300000)
 
 (1) Das kontoführende Institut kann den Basiskontovertrag nur unter
 den Voraussetzungen der nachfolgenden Absätze kündigen.
@@ -1346,6 +1401,7 @@ Informationsweitergabe verstoßen würde.
 
 
 #### § 43 Kündigungserklärung des kontoführenden Instituts
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004401119)
 
 (1) Die Kündigung durch das kontoführende Institut ist in Textform zu
 erklären. Die Kündigung muss klar und verständlich sein. Sie muss,
@@ -1376,6 +1432,7 @@ zu informieren.
 
 
 #### § 44 Ordentliche Kündigung durch den Kontoinhaber
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004500000)
 
 Für die ordentliche Kündigung des Basiskontovertrags durch den
 Kontoinhaber gilt § 675h Absatz 1 des Bürgerlichen Gesetzbuchs. Das
@@ -1384,6 +1441,7 @@ der Kündigung zu schließen.
 
 
 #### § 45 Unterstützungsleistungen zu Basiskonten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004600000)
 
 Institute, die Zahlungskonten auf dem Markt für Verbraucher anbieten,
 haben Verbrauchern jederzeit unentgeltlich Unterstützung in Bezug auf
@@ -1393,9 +1451,11 @@ stellen.
 
 
 ## Abschnitt 6 - Organisationspflichten der Zahlungsdienstleister; zuständige Behörde; Verwaltungsverfahren und Rechtsschutz
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001400000)
 
 
 ### § 46 Organisationspflichten der Zahlungsdienstleister; zuständige Behörde; Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004701128)
 
 (1) Ein Zahlungsdienstleister muss über eine ordnungsgemäße
 Geschäftsorganisation, über interne Verfahren und über Kontrollsysteme
@@ -1433,6 +1493,7 @@ bleibt unberührt.
 
 
 ### § 47 Öffentliche Informationen der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004800000)
 
 (1) Die Bundesanstalt veröffentlicht die Liste der repräsentativsten
 mit einem Zahlungskonto verbundenen Dienste nach Artikel 3 Absatz 5
@@ -1445,6 +1506,7 @@ archivieren und zum Abruf bereitzuhalten.
 
 
 ### § 48 Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE004901128)
 
 (1) Der Berechtigte kann gegenüber der Bundesanstalt die Durchführung
 eines Verwaltungsverfahrens nach dieser Vorschrift gegen den
@@ -1496,6 +1558,7 @@ bestätigt sie gleichermaßen.
 
 
 ### § 49 Anordnung bei unrechtmäßiger Ablehnung des Antrags auf Abschluss eines Basiskontovertrags, Untätigkeit und Fristversäumnis
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005000000)
 
 (1) Verweigert ein Verpflichteter dem Berechtigten den Abschluss eines
 Basiskontovertrags oder die Eröffnung eines Basiskontos, ordnet die
@@ -1519,6 +1582,7 @@ erlassenen Rechtsverordnung erheben.
 
 
 ### § 50 Klage gegen die Bundesanstalt; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005100000)
 
 (1) Gegen Anordnungen der Bundesanstalt gegenüber dem Verpflichteten
 gemäß § 49 Absatz 1 Satz 1 oder gegen Ablehnungen des Antrags des
@@ -1577,6 +1641,7 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 
 
 ### § 51 Klage gegen den Verpflichteten
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005200000)
 
 (1) Die Vorschriften dieses Abschnitts lassen die Zulässigkeit einer
 Klage des Berechtigten gegen den Verpflichteten auf Abschluss eines
@@ -1595,6 +1660,7 @@ Verpflichtete seinen Sitz hat.
 
 
 ### § 52 Mitteilung an die Bundesanstalt in Zivilverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005300000)
 
 In Streitigkeiten vor den Zivilgerichten um die Rechte und Pflichten
 des Berechtigten und des Verpflichteten auf Grund der Vorschriften
@@ -1605,9 +1671,11 @@ Bezugnahme auf die Bestimmungen dieses Gesetzes erfolgt.
 
 
 ## Abschnitt 7 - Sanktionen
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNG001500000)
 
 
 ### § 53 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005401128)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1708,6 +1776,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 (zu § 21 Absatz 3)
 
 ### Anlage 1 Ermächtigung durch den Kontoinhaber zur Kontenwechselhilfe
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005500000)
 
 (Fundstelle: BGBl. I 2016, 738 - 740)
 
@@ -2237,6 +2306,7 @@ Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 (zu § 27 Absatz 2)
 
 ### Anlage 2 Aufforderung durch den Kontoinhaber zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005600000)
 
 (Fundstelle: BGBl. I 2016, 741)
 
@@ -2368,6 +2438,7 @@ Aufforderung durch den Kontoinhaber
 (zu § 33 Absatz 2)
 
 ### Anlage 3 Antrag auf Abschluss eines Basiskontovertrags
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005700000)
 
 (Fundstelle: BGBl. I 2016, 742 - 743)
 
@@ -2607,6 +2678,7 @@ Aufforderung durch den Kontoinhaber
 (zu § 34 Absatz 4 Satz 3)
 
 ### Anlage 4 Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
+[Direktlink](https://www.gesetze-im-internet.de/zkg/BJNR072010016.html#BJNR072010016BJNE005801128)
 
 (Fundstelle: BGBl. I 2016, 744
 bzgl. der einzelnen Änderungen vgl. Fußnote)

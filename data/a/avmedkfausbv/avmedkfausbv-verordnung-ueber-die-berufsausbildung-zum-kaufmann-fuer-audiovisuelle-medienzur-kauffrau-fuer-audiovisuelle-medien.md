@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000100310)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -29,17 +30,20 @@ Wissenschaft, Forschung und Technologie:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000200310)
 
 Der Ausbildungsberuf Kaufmann für audiovisuelle Medien/Kauffrau für
 audiovisuelle Medien wird staatlich anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000300310)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000400310)
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
 Fertigkeiten und Kenntnisse:
@@ -123,6 +127,7 @@ Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000500310)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
 Anlagen I und II enthaltenen Anleitungen zur sachlichen und zeitlichen
@@ -141,12 +146,14 @@ ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000600310)
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000700310)
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
@@ -155,6 +162,7 @@ hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000800310)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres
@@ -186,6 +194,7 @@ durchzuführen:
 
 
 ## § 8 Abschlußprüfung
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE000900310)
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -294,6 +303,7 @@ nicht bestanden.
 
 
 ## § 9 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE001000310)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, sind die bisherigen Vorschriften weiter
@@ -302,6 +312,7 @@ Anwendung der Vorschriften dieser Verordnung.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE001100310)
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
@@ -310,6 +321,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien
 
 ## Anlage I - Sachliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE001200310)
 
 (Fundstelle: BGBl. I 1998, S. 1032 - 1035)
 
@@ -966,6 +978,7 @@ Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
 audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien
 
 ## Anlage II - Zeitliche Gliederung -
+[Direktlink](https://www.gesetze-im-internet.de/avmedkfausbv/BJNR103000998.html#BJNR103000998BJNE001300310)
 
 (Fundstelle: BGBl. I 1998, S. 1036 - 1037)
 

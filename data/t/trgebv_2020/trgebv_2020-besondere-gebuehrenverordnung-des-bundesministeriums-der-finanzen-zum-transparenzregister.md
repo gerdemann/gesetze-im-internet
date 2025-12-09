@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Ersetzt V 7613-3-5 v. 19.12.2017 I 3982 (TrGebV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000100000)
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2
 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) und
@@ -31,6 +32,7 @@ Finanzen:
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000200000)
 
 Die registerführende Stelle erhebt für individuell zurechenbare
 öffentliche Leistungen nach Abschnitt 4 des Geldwäschegesetzes
@@ -38,6 +40,7 @@ Gebühren nach der Anlage (Gebührenverzeichnis).
 
 
 ## § 2 Gebührenerhebung bei Rechtsgestaltungen
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000300000)
 
 Nimmt eine Rechtsgestaltung nach § 21 des Geldwäschegesetzes eine
 individuell zurechenbare öffentliche Leistung in Anspruch, so ist der
@@ -47,6 +50,7 @@ Geldwäschegesetzes.
 
 
 ## § 3 Tragung der Gebühren durch Dachverbände
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000400000)
 
 Die registerführende Stelle kann mit Dachverbänden von eingetragenen
 Vereinen Vereinbarungen treffen, wonach die Dachverbände die
@@ -60,6 +64,7 @@ Mitgliedsliste mit ihren Gebührenschuldnern ab.
 
 
 ## § 4 Verfahren für eine Gebührenbefreiung bei steuerbegünstigten Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000501119)
 
 (1) Ein Antrag auf Gebührenbefreiung nach § 24 Absatz 1 Satz 2 des
 Geldwäschegesetzes kann nur in einer von der registerführenden Stelle
@@ -105,6 +110,7 @@ Abweichend von Absatz 3 Satz 3 kann die Befreiung für das Gebührenjahr
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000600000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach
 der Verkündung in Kraft.
@@ -119,6 +125,7 @@ S. 3982) außer Kraft.
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/trgebv_2020/BJNR009300020.html#BJNR009300020BJNE000704128)
 
 (Fundstelle: BGBl. 2023 I Nr. 378, S. 1 – 2)
 

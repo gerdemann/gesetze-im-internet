@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Art 1 Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000100000)
 
 Als sichtbares Zeichen für die Teilnahme an Einsätzen oder besonderen
 Verwendungen im Ausland im Rahmen humanitärer, friedenserhaltender
@@ -26,6 +27,7 @@ Bundeswehr die Einsatzmedaille der Bundeswehr.
 
 
 ## Art 2 Gestaltung
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000200000)
 
 (1) Die Einsatzmedaille der Bundeswehr ist rund und aus bronze-,
 silber- oder goldfarbenem Metall. Sie trägt auf der Vorderseite den
@@ -77,6 +79,7 @@ Absatz 1 getragen werden.
 
 
 ## Art 3 Verleihung
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000300000)
 
 (1) Voraussetzung für die Verleihung der Einsatzmedaille der
 Bundeswehr nach Artikel 2 Absatz 1 sind folgende Dienstzeiten im
@@ -157,6 +160,7 @@ bestimmt die für die Aushändigung zuständige Stelle.
 
 
 ## Art 4 Ausnahmeregelung
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000400000)
 
 (1) Die Einsatzmedaille kann in Ausnahmefällen Angehörigen
 ausländischer Streitkräfte verliehen werden, wenn sie sich im Rahmen
@@ -182,6 +186,7 @@ Februar 2022 erfüllt worden sind.
 
 
 ## Art 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000500000)
 
 Dieser Erlass tritt am Tag nach der Verkündung in Kraft. Gleichzeitig
 tritt der Erlass über die Stiftung der Einsatzmedaille der Bundeswehr
@@ -189,6 +194,7 @@ vom 27. Januar 2022 (BGBl. I S. 679) außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stifteinsatzmedbwerl_2025/BJNR0CF0B0025.html#BJNR0CF0B0025BJNE000600000)
 
 Der Bundesminister der Verteidigung
 

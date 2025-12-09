@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/btgo1980anl6bek_1998/BJNR368210998.html#BJNR368210998BJNE000100310)
 
 Der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung des
 Deutschen Bundestages hat in seiner 2. Sitzung in

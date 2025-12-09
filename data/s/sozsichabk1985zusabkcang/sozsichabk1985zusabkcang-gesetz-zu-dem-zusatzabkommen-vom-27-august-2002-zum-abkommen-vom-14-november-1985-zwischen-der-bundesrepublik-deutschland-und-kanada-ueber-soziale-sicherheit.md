@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk1985zusabkcang/BJNR066620003.html#BJNR066620003BJNE000100000)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk1985zusabkcang/BJNR066620003.html#BJNR066620003BJNE000200000)
 
 Dem in Toronto am 27. August 2002 unterzeichneten Zusatzabkommen zum
 Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland
@@ -33,6 +35,7 @@ zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk1985zusabkcang/BJNR066620003.html#BJNR066620003BJNE000300000)
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
@@ -40,6 +43,7 @@ Beitrittsgebiet.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/sozsichabk1985zusabkcang/BJNR066620003.html#BJNR066620003BJNE000400000)
 
 (1) Dieses Gesetz tritt am Tage seiner Verkündung in Kraft.
 

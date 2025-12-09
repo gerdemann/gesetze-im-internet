@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000100326)
 
 Auf Grund des § 5 Abs. 1, des § 7 Abs. 2 sowie der §§ 79 und 80 des
 Bundesleistungsgesetzes in der im Bundesgesetzblatt Teil III,
@@ -28,6 +29,7 @@ die Bundesregierung:
 
 
 ## § 1 Allgemeine Anforderungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000200326)
 
 Anforderungsbehörden gemäß § 5 Abs. 1 und § 79 Satz 1 des
 Bundesleistungsgesetzes sind, soweit in § 2 nichts anderes bestimmt
@@ -35,6 +37,7 @@ ist, die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
 
 
 ## § 2 Besondere Anforderungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000306116)
 
 (1) Anforderungsbehörden sind für die Inanspruchnahme von
 
@@ -239,6 +242,7 @@ Post und Telekommunikation:
 
 
 ## § 3 Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000400326)
 
 (1) Örtlich zuständig ist die Anforderungsbehörde, in deren Bezirk
 sich der Gegenstand der Anforderung oder der Gegenstand befindet, auf
@@ -261,6 +265,7 @@ das Fahrzeug im Zeitpunkt der Anforderung befindet.
 
 
 ## § 4 Örtliche Zuständigkeit bei Schiffen
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000501116)
 
 Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde
 örtlich zuständig, in deren Bezirk sich der Heimathafen oder Heimatort
@@ -271,6 +276,7 @@ befindet. § 3 Abs. 2 Satz 2 gilt sinngemäß.
 
 
 ## § 5 Ersatzzuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000600326)
 
 Solange Anforderungsbehörden aus tatsächlichen Gründen nicht in der
 Lage sind, ihre Befugnisse auszuüben, können diese von den
@@ -283,6 +289,7 @@ zur Abwendung einer drohenden Gefahr notwendig ist und die
 
 
 ## § 6 Bedarfsträger
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000700326)
 
 Bedarfsträger gemäß § 7 Abs. 2 des Bundesleistungsgesetzes sind
 
@@ -309,6 +316,7 @@ Bedarfsträger gemäß § 7 Abs. 2 des Bundesleistungsgesetzes sind
 
 
 ## § 7 Bedarfsträger für Manöver oder andere Übungen
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000800326)
 
 Bedarfsträger für Manöver oder andere Übungen von Truppen oder
 Verbänden und Einheiten des Zivilschutzes (§ 66 Abs. 1, § 80 des
@@ -328,6 +336,7 @@ Bundesleistungsgesetzes) sind
 
 
 ## § 8 Zuständigkeit in Stadtstaaten
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE000900326)
 
 (1) Im Land Bremen sind zuständige Anforderungsbehörden
 
@@ -432,6 +441,7 @@ zuständige Fachbehörde.
 
 
 ## § 9 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE001000326)
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
@@ -440,6 +450,7 @@ folgenden Kalendermonats in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/blgabv/BJNR010880989.html#BJNR010880989BJNE001100326)
 
 Der Bundesrat hat zugestimmt.
 

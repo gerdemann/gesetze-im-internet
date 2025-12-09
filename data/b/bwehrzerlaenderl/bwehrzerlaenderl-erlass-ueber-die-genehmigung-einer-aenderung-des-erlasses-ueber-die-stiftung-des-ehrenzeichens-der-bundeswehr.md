@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/bwehrzerl_nderl/BJNR007640991.html#BJNR007640991BJNE000100308)
 
 Der Bundesminister der Verteidigung hat am 18. Februar 1991 den Erlaß
 vom 6. November 1980 über die Stiftung des Ehrenzeichens der

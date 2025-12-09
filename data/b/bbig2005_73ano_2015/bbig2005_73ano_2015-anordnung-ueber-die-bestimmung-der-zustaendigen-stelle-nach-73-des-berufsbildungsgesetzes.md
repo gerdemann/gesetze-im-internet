@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2015/BJNR029500015.html#BJNR029500015BJNE000100000)
 
 Nach § 73 Absatz 1 Nummer 2 des Berufsbildungsgesetzes vom 23. März
 2005 (BGBl. I S. 931) und nach § 1 Absatz 1 Satz 1 und § 3 Absatz 1
@@ -26,6 +27,7 @@ Finanzen:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2015/BJNR029500015.html#BJNR029500015BJNE000200000)
 
 Zuständige Stelle für die Berufsausbildungsverhältnisse bei der
 Bundesanstalt für Immobilienaufgaben in dem anerkannten
@@ -34,6 +36,7 @@ Büromanagement“ ist die Industrie- und Handelskammer.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/bbig2005_73ano_2015/BJNR029500015.html#BJNR029500015BJNE000300000)
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
 

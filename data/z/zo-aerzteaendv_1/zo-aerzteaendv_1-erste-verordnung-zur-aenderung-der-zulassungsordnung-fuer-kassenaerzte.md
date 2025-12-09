@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000100319)
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten
@@ -28,6 +29,7 @@ Bundesrates verordnet:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000200319)
 
 Die Zulassungsordnung für Kassenärzte in der im Bundesgesetzblatt Teil
 III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung
@@ -63,6 +65,7 @@ wird wie folgt geändert:
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000300319)
 
 (1) Die Vorbereitungszeit nach Artikel 1 Nr. 2 Buchstabe a hat auch
 erfüllt, wer bis zum Inkrafttreten dieser Verordnung eine mindestens
@@ -91,6 +94,7 @@ Zeitpunkt geltenden Fassung fort.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000400319)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 5 § 2 des Dritten Rentenversicherungs-
@@ -99,11 +103,13 @@ Berlin.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000500319)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/BJNR013320977.html#BJNR013320977BJNE000600319)
 
 Der Bundesminister für Arbeit und Sozialordnung
 

@@ -25,6 +25,7 @@ Stand: Ersetzt V 7110-6-59 v. 27.1.1997 I 78 (BogenmAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der durch
 Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
@@ -36,9 +37,11 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000300000)
 
 Der Ausbildungsberuf des Bogenmachers und der Bogenmacherin wird nach
 § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B
@@ -47,11 +50,13 @@ anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -69,6 +74,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -158,6 +164,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -165,6 +172,7 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ### § 6 Schriftlicher Ausbildungsnachweis
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000800000)
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
 zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu
@@ -175,9 +183,11 @@ durchzusehen.
 
 
 ## Abschnitt 2 - Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNG000200000)
 
 
 ### § 7 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE000900000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen.
@@ -187,6 +197,7 @@ stattfinden.
 
 
 ### § 8 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001000000)
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -203,6 +214,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich Vorarbeiten zur Herstellung eines Bogens
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001100000)
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Vorarbeiten zur
 Herstellung eines Bogens statt.
@@ -260,9 +272,11 @@ Minuten sowie die Bearbeitung der schriftlichen Aufgaben in höchstens
 
 
 ## Abschnitt 3 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNG000300000)
 
 
 ### § 10 Ziel und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001200000)
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat.
@@ -272,6 +286,7 @@ werden.
 
 
 ### § 11 Inhalt
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001300000)
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -288,6 +303,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 
 ### § 12 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001400000)
 
 Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -307,6 +323,7 @@ Die Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 
 ### § 13 Prüfungsbereich Herstellen eines spielfertigen Bogens
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001500000)
 
 (1) Im Prüfungsbereich Herstellen eines spielfertigen Bogens soll der
 Prüfling nachweisen, dass er in der Lage ist,
@@ -358,6 +375,7 @@ dauert höchstens zehn Minuten.
 
 
 ### § 14 Prüfungsbereich Durchführen von Teilarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001600000)
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -419,6 +437,7 @@ auftragsbezogenen Fachgespräche dauern zusammen höchstens 15 Minuten.
 
 
 ### § 15 Prüfungsbereich Planung und Konstruktion
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001700000)
 
 (1) Im Prüfungsbereich Planung und Konstruktion soll der Prüfling
 nachweisen, dass er in der Lage ist,
@@ -462,6 +481,7 @@ nachweisen, dass er in der Lage ist,
 
 
 ### § 16 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001800000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling
 nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -475,6 +495,7 @@ die Aufgaben schriftlich bearbeiten.
 
 
 ### § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE001900000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -552,9 +573,11 @@ im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNG000400000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE002000000)
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bereits bestehen, können nach den Vorschriften dieser Verordnung unter
@@ -563,6 +586,7 @@ wenn die Vertragsparteien dies vereinbaren.
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Bogenmacher/zur
@@ -571,6 +595,7 @@ Bogenmacherin vom 27. Januar 1997 (BGBl. I S. 78) außer Kraft.
 (zu § 3 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bogenmacher und zur Bogenmacherin
+[Direktlink](https://www.gesetze-im-internet.de/bmausv/BJNR128000015.html#BJNR128000015BJNE002200000)
 
 (Fundstelle: BGBl. I 2015, 1284 - 1288)
 

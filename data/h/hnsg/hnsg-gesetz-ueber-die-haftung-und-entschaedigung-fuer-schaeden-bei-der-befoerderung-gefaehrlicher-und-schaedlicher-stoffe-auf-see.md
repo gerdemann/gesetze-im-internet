@@ -18,10 +18,12 @@ Fundstelle
 
 
 ## § 1 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000100000)
 
 
 
 ## § 2 Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000200000)
 
 (1) Das Bestehen der nach Artikel 12 Absatz 1 des HNS-Übereinkommens
 2010, auch in Verbindung mit § 1 Absatz 3, vorgeschriebenen
@@ -52,6 +54,7 @@ vorliegen.
 
 
 ## § 3 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000300000)
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt
 durch Rechtsverordnung Bestimmungen über
@@ -80,14 +83,17 @@ werden.
 
 
 ## § 4 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000400000)
 
 
 
 ## § 5 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000500000)
 
 
 
 ## § 6 Behördliche Zuständigkeiten; Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000600000)
 
 (1) § 2 Absatz 2 und 3 und die nach § 3 erlassenen Rechtsverordnungen
 werden durch den Bund ausgeführt. Die Wahrnehmung der Aufgaben obliegt
@@ -100,6 +106,7 @@ anzuwenden.
 
 
 ## § 7 Mitteilung der Mengen beitragspflichtiger Ladung
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000700000)
 
 (1) Das Bundesministerium für Wirtschaft und Energie teilt dem
 Direktor des Internationalen Fonds für gefährliche und schädliche
@@ -142,6 +149,7 @@ sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
 
 ## § 8 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000802116)
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach
 § 7 Absatz 1 bis 3 zugewiesenen Aufgaben durch Rechtsverordnung auf
@@ -155,18 +163,22 @@ wahrenden Fristen.
 
 
 ## § 9 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE000900000)
 
 
 
 ## § 10 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE001000000)
 
 
 
 ## § 11 (zukünftig in Kraft)
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE001100000)
 
 
 
 ## § 12 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/hnsg/BJNR307910021.html#BJNR307910021BJNE001200000)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

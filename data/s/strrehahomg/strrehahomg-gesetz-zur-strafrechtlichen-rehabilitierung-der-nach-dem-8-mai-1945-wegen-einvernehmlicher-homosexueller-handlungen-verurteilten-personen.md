@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1 Aufhebung von Urteilen
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000100000)
 
 (1) Wer wegen einvernehmlicher homosexueller Handlungen als Täter
 verurteilt wurde, wird rehabilitiert, indem mit diesem Gesetz die
@@ -74,6 +75,7 @@ der Urteile nach den Absätzen 1 und 2 keine Rechtswirkungen.
 
 
 ## § 2 Teilaufhebung von Urteilen
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000200000)
 
 (1) Ist ein Urteil auch aufgrund anderer als der in § 1 Absatz 1
 genannten Strafvorschriften ergangen, so wird der Teil des Urteils
@@ -85,6 +87,7 @@ entsprechend.
 
 
 ## § 3 Feststellung der Aufhebung von Urteilen; Rehabilitierungsbescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000300000)
 
 (1) Die Staatsanwaltschaft stellt auf Antrag fest, ob ein Urteil nach
 § 1 Absatz 1 aufgehoben ist. In den Fällen des § 2 Absatz 1 stellt sie
@@ -133,6 +136,7 @@ Unterbringungsanordnungen entsprechend.
 
 
 ## § 4 Tilgung im Bundeszentralregister
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000400000)
 
 Eintragungen im Bundeszentralregister über strafgerichtliche Urteile
 oder Unterbringungsanordnungen, deren vollständige Aufhebung nach § 3
@@ -141,6 +145,7 @@ Verurteilten zu tilgen.
 
 
 ## § 5 Entschädigung
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000500000)
 
 (1) Der rehabilitierten Person steht nach Aufhebung eines Urteils nach
 § 1 Absatz 1 und 2 sowie § 2 ein Anspruch auf Entschädigung in Geld
@@ -169,6 +174,7 @@ Sozialleistungen angerechnet.
 
 
 ## § 6 Entschädigungsverfahren beim Bundesamt für Justiz
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000601116)
 
 (1) Der Anspruch auf Entschädigung ist bis einschließlich 21. Juli
 2027 beim Bundesamt für Justiz geltend zu machen. Das Bundesamt für
@@ -191,6 +197,7 @@ keine Kosten erhoben.
 
 
 ## § 7 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/strrehahomg/BJNR244310017.html#BJNR244310017BJNE000700000)
 
 Für den Anspruch auf Entschädigung nach § 5 ist der
 Verwaltungsrechtsweg gegeben.

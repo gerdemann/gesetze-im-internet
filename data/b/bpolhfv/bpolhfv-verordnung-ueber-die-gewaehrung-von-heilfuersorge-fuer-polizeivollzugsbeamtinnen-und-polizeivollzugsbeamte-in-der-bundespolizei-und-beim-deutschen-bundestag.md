@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000100000)
 
 Auf Grund des § 70 Absatz 2 Satz 3 des Bundesbesoldungsgesetzes, der
 durch Artikel 1 Nummer 31 des Gesetzes vom 11. Juni 2013 (BGBl. I S.
@@ -29,9 +30,11 @@ im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNG000100000)
 
 
 ### § 1 Zweck, Eigenverantwortung, Mitwirkungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000301130)
 
 (1) Die Heilfürsorge hat den Zweck, die Gesundheit der
 Heilfürsorgeberechtigten zu erhalten, wiederherzustellen oder ihren
@@ -58,6 +61,7 @@ Kosten trägt der Bund.
 
 
 ### § 2 Sachleistungsprinzip
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000400000)
 
 Die Heilfürsorge wird grundsätzlich als Sachleistung gewährt. Für
 Zuzahlungen und Belastungsgrenzen gelten die Regelungen des Fünften
@@ -65,6 +69,7 @@ Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 3 Heilfürsorgekarte
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000502130)
 
 (1) Alle Heilfürsorgeberechtigten erhalten eine Heilfürsorgekarte in
 Form einer elektronischen Gesundheitskarte, die für alle
@@ -76,6 +81,7 @@ Vertragszahnarzt die Heilfürsorgekarte vor der Behandlung vorzulegen.
 
 
 ### § 4 Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000603130)
 
 (1) Die Heilfürsorge umfasst folgende Leistungen:
 
@@ -174,9 +180,11 @@ Bundesministeriums des Innern und für Heimat zustimmen.
 
 
 ## Kapitel 2 - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNG000200000)
 
 
 ### § 5 Ärztliche Behandlung von Heilfürsorgeberechtigten
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE000701130)
 
 (1) Heilfürsorgeberechtigte haben eine an der vertragsärztlichen
 Versorgung teilnehmende Fachärztin für Allgemeinmedizin oder Innere
@@ -212,6 +220,7 @@ einen Facharzt.
 
 
 ### § 6 Zahnärztliche Behandlung
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001001130)
 
 (1) Heilfürsorgeberechtigte haben Anspruch auf die Übernahme der
 tatsächlichen Kosten einer Regelversorgung mit Zahnersatz,
@@ -251,6 +260,7 @@ Höhe von 50 Prozent übernommen.
 
 
 ### § 7 Arznei- und Verbandmittel
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001101130)
 
 (1) Die Einzelheiten der Versorgung der Heilfürsorgeberechtigten mit
 Arznei- und Verbandmitteln regelt der Arzneiversorgungsvertrag
@@ -263,6 +273,7 @@ Einsatz bleibt unberührt.
 
 
 ### § 8 Heilmittel
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001201130)
 
 Die Kosten für Heilmittel werden entsprechend den von den Ersatzkassen
 nach dem Fünften Buch Sozialgesetzbuch getroffenen Vereinbarungen mit
@@ -275,6 +286,7 @@ in Anspruch genommen werden.
 
 
 ### § 9 Hilfsmittel
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001301130)
 
 (1) Zur Versorgung mit Hilfsmitteln entsprechend den §§ 33 und 36 des
 Fünften Buches Sozialgesetzbuch kann das für
@@ -298,6 +310,7 @@ auf Heilfürsorge wegfällt.
 
 
 ### § 10 Krankenhausbehandlung
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001401130)
 
 (1) Die Krankenhausbehandlung ist in der Regel am Dienst- oder Wohnort
 oder in dessen Nähe in Anspruch zu nehmen.
@@ -318,6 +331,7 @@ Heilungsprozess oder der Verbesserung der Betreuung dient.
 
 
 ### § 11 Organ- und Gewebetransplantationen
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001501130)
 
 Bei Organ- und Gewebetransplantationen werden in entsprechender
 Anwendung der Vorschriften der Bundesbeihilfeverordnung auch die
@@ -331,6 +345,7 @@ nicht in Betracht kommt.
 
 
 ### § 12 Leistungen zur Rehabilitation
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001602130)
 
 (1) Leistungen zur medizinischen Rehabilitation werden entsprechend §
 40 des Fünften Buches Sozialgesetzbuch nach ärztlicher Feststellung
@@ -372,6 +387,7 @@ Bundespolizeipräsidiums schriftlich zu beantragen.
 
 
 ### § 13 Fahrkosten
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001701130)
 
 (1) Fahrtkosten für Krankenbeförderungen werden entsprechend der
 Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses nach
@@ -403,6 +419,7 @@ Entgelte.
 
 
 ### § 14 Leistungen bei Pflegebedürftigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001801130)
 
 (1) Heilfürsorgeberechtigte erhalten die im Elften Buch
 Sozialgesetzbuch genannten Leistungen zur Hälfte.
@@ -416,6 +433,7 @@ beizufügen.
 
 
 ### § 15 Behandlung während eines dienstlichen Aufenthaltes im Ausland
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE001901130)
 
 (1) Bei Erkrankungen während eines dienstlichen Aufenthaltes im
 Ausland werden die notwendigen und wirtschaftlich angemessenen
@@ -443,6 +461,7 @@ Die Kosten für Übersetzungen nach Satz 2 Nummer 2 werden übernommen.
 
 
 ### § 16 Behandlung während eines privaten Aufenthaltes oder bei Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE002001130)
 
 (1) Während eines privaten Aufenthaltes oder bei Wohnsitz in einem
 anderen Mitgliedstaat der Europäischen Union, in einem anderen
@@ -485,6 +504,7 @@ entsprechende Behandlung im Inland nicht möglich ist.
 
 
 ### § 17 Behandlung während eines privaten Aufenthaltes außerhalb der Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE002102130)
 
 (1) Die Kosten einer während eines privaten Aufenthaltes außerhalb der
 Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten
@@ -508,6 +528,7 @@ Bundesministeriums des Innern, für Bau und Heimat. § 18 Absatz 3 Satz
 
 
 ### § 18 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE002400130)
 
 (1) § 6 Absatz 4 ist anwendbar auf Behandlungen, die nach Ablauf des
 31\. Oktober 2025 begonnen wurden. Der Beginn einer Behandlung in
@@ -525,15 +546,18 @@ wird, die erste kostenauslösende Tätigkeit eines Leistungserbringers.
 
 
 ## Kapitel 3 - Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNG000301130)
 
 
 ### § 19 Verwaltungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE002202130)
 
 Das Bundesministerium des Innern, für Bau und Heimat erlässt eine
 Verwaltungsvorschrift zur Durchführung dieser Verordnung.
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bpolhfv/BJNR058600014.html#BJNR058600014BJNE002301130)
 
 (1) Diese Verordnung tritt am 1. Juli 2014 in Kraft.
 

@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/egvertrg/BJNR214530965.html#BJNR214530965BJNE000100314)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/egvertrg/BJNR214530965.html#BJNR214530965BJNE000200314)
 
 Dem in Brüssel am 8. April 1965 von der Bundesrepublik Deutschland
 unterzeichneten Vertrag zur Einsetzung eines gemeinsamen Rates und
@@ -33,6 +35,7 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/egvertrg/BJNR214530965.html#BJNR214530965BJNE000300314)
 
 Ein Beamter oder Richter, dessen Amtsverhältnis als Mitglied eines
 Organs der Europäischen Gemeinschaften endet, ist auf seinen Antrag in
@@ -43,6 +46,7 @@ den Ruhestand dem Beamten oder Richter mitgeteilt wird.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/egvertrg/BJNR214530965.html#BJNR214530965BJNE000400314)
 
 Dieses Gesetz sowie
 
@@ -75,6 +79,7 @@ dieser Gesetze feststellt.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/egvertrg/BJNR214530965.html#BJNR214530965BJNE000500314)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

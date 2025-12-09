@@ -26,9 +26,11 @@ Fundstelle
 
 
 ### Abschnitt 1 - Maler- und Lackiererhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000100000)
 
 
 #### § 1 Zusätzliche Altersversorgung im Maler- und Lackiererhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000200000)
 
 (1) Die Rechtsnormen des Tarifvertrags über eine zusätzliche
 Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
@@ -58,6 +60,7 @@ Beendigung des Tarifvertrags.
 
 
 #### § 2 Urlaubsregelungen im Maler- und Lackiererhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000300000)
 
 (1) Die Rechtsnormen des § 3 Nummer 2, des § 6, des § 7 Nummer 1, der
 §§ 8, 9, 13, 17 bis 21, 23 bis 24a, 26 bis 29, des § 34 Nummer 5, der
@@ -97,6 +100,7 @@ beschäftigten Arbeitnehmern.
 
 
 #### § 3 Sozialkassenverfahren im Maler- und Lackiererhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000400000)
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für den
 Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom
@@ -122,9 +126,11 @@ beschäftigten Arbeitnehmern.
 
 
 ### Abschnitt 2 - Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000200000)
 
 
 #### § 4 Zusätzliche Altersversorgung im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000500000)
 
 (1) Für den Zeitraum vom 1. Januar 2010 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags über eine Altersversorgung
@@ -152,6 +158,7 @@ alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 5 Ergänzende überbetriebliche Altersversorgung im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000600000)
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags über eine ergänzende
@@ -167,6 +174,7 @@ seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 6 Beschäftigungssicherung im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000700000)
 
 (1) Für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags zur Förderung der
@@ -198,6 +206,7 @@ Arbeitgeber und Arbeitnehmer.
 
 
 #### § 7 13. Monatseinkommen im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000800000)
 
 (1) Für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags über die Gewährung eines
@@ -222,6 +231,7 @@ und Arbeitnehmer.
 
 
 #### § 8 Berufsbildung im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE000900000)
 
 (1) Für den Zeitraum vom 1. September 2012 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im
@@ -266,6 +276,7 @@ Arbeitgeber und Arbeitnehmer.
 
 
 #### § 9 Sozialkassenverfahren im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001000000)
 
 (1) Für den Zeitraum vom 1. September 2012 bis zum 31. Dezember 2014
 gelten die Rechtsnormen des Tarifvertrags über die
@@ -305,6 +316,7 @@ und Arbeitnehmer.
 
 
 #### § 10 Bemessungsgrundlagen für die Sozialkassenverfahren im Dachdeckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001100000)
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014
 gelten die Rechtsnormen der §§ 3, 4, 7, 10 bis 14, des § 15 Nummer 1,
@@ -362,9 +374,11 @@ Arbeitgeber und Arbeitnehmer.
 
 
 ### Abschnitt 3 - Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000300000)
 
 
 #### § 11 Zusätzliche Altersversorgung im Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001200000)
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2016 gelten
 die Rechtsnormen des Tarifvertrags über die überbetriebliche
@@ -374,6 +388,7 @@ Arbeitgeber und Arbeitnehmer.
 
 
 #### § 12 Urlaubsregelungen im Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001300000)
 
 (1) Für den Zeitraum vom 1. Januar 2006 bis zum 31. August 2015 gelten
 die Rechtsnormen des § 3 Nummer 4.1, 4.2, 4.3.1 bis 4.3.4, 4.3.6 und
@@ -392,6 +407,7 @@ beschäftigten Arbeitnehmern.
 
 
 #### § 13 Lohnausgleich im Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001400000)
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 30. November 2016 gelten
 die Rechtsnormen des Tarifvertrags zur Förderung der Aufrechterhaltung
@@ -402,6 +418,7 @@ und Arbeitnehmer.
 
 
 #### § 14 Berufsbildung im Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001500000)
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten
 die Rechtsnormen des Tarifvertrags über die Berufsbildung im
@@ -411,6 +428,7 @@ Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 15 Sozialkassenverfahren im Gerüstbauer-Handwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001600000)
 
 (1) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2015
 gelten die Rechtsnormen des Tarifvertrags über das
@@ -424,9 +442,11 @@ beschäftigten Arbeitnehmern.
 
 
 ### Abschnitt 4 - Steinmetz- und Steinbildhauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000400000)
 
 
 #### § 16 Zusätzliche Altersversorgung im Steinmetz- und Steinbildhauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001700000)
 
 (1) Die Rechtsnormen des Tarifvertrags über eine überbetriebliche
 Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk
@@ -455,6 +475,7 @@ Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 17 Berufsbildung im Steinmetz- und Steinbildhauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001800000)
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. August 2015 gelten
 die Rechtsnormen des Tarifvertrags über die Berufsbildung im
@@ -493,6 +514,7 @@ Arbeitnehmer.
 
 
 #### § 18 Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE001900000)
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Juli 2015 gelten
 die Rechtsnormen des Tarifvertrags über das Verfahren für die
@@ -531,6 +553,7 @@ und Arbeitnehmer.
 
 
 #### § 19 Bemessungsgrundlagen für die Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002000000)
 
 (1) Die Rechtsnormen des § 3 Nummer 1.1, 1.2, 1.5 bis 1.7, 3 und 4,
 des § 4 Nummer 1 bis 3, 5 und 6, des § 5 Nummer 1.3, 1.4, 2 bis 6 und
@@ -561,6 +584,7 @@ und Arbeitnehmer.
 
 
 #### § 20 Betrieblicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002100000)
 
 Die tarifvertraglichen Rechtsnormen, auf die in § 16 Absatz 1 und 2,
 in § 17 Absatz 1 bis 3, in § 18 Absatz 1 bis 3 sowie in § 19 Absatz 1
@@ -570,9 +594,11 @@ vom 13. Dezember 2010 erfasst werden.
 
 
 ### Abschnitt 5 - Betonsteingewerbe Nordwestdeutschland
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000500000)
 
 
 #### § 21 Zusätzliche Altersversorgung im Betonsteingewerbe Nordwestdeutschland
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002200000)
 
 (1) Die Rechtsnormen des Tarifvertrags über die überbetriebliche
 Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie
@@ -590,6 +616,7 @@ alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 22 Verfahren der zusätzlichen Altersversorgung im Betonsteingewerbe Nordwestdeutschland
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002300000)
 
 Die Rechtsnormen des Tarifvertrags über das Verfahren der
 überbetrieblichen Zusatzversorgung im Betonsteingewerbe (Beton- und
@@ -600,9 +627,11 @@ Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 
 ### Abschnitt 6 - Steine- und Erden-Industrie, Betonsteinhandwerk und Ziegelindustrie in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000600000)
 
 
 #### § 23 Zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002400000)
 
 (1) Die Rechtsnormen des Tarifvertrags über eine überbetriebliche
 Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im
@@ -636,6 +665,7 @@ bis zum 20. Mai 2010.
 
 
 #### § 24 Ergänzende zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002500000)
 
 (1) Die Rechtsnormen des Tarifvertrags über eine ergänzende Alters-
 und Invalidenbeihilfe in der Steine- und Erden-Industrie, im
@@ -654,6 +684,7 @@ Arbeitgeber und Arbeitnehmer.
 
 
 #### § 25 Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002600000)
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für die
 Zusatzversorgung in der Steine- und Erden-Industrie, im
@@ -671,6 +702,7 @@ Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 26 Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002700000)
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für die
 Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-
@@ -689,6 +721,7 @@ in Bayern in der aus der Anlage 74 ersichtlichen Fassung vom 5. Juni
 
 
 #### § 27 Betrieblicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002800000)
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 23 bis 26
 verwiesen wird, gelten nicht für Betriebe, die dem Verein der
@@ -701,9 +734,11 @@ Land Bayern.
 
 
 ### Abschnitt 7 - Bäckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000700000)
 
 
 #### § 28 Aus- und Weiterbildung im Bäckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE002900000)
 
 Die Rechtsnormen des Tarifvertrags über die Errichtung eines
 Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks
@@ -714,6 +749,7 @@ Tarifvertrags.
 
 
 #### § 29 Einzug der Beiträge für die Aus- und Weiterbildung im Bäckerhandwerk
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003000000)
 
 Die Rechtsnormen des Verfahrenstarifvertrags zum Tarifvertrag über die
 Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen
@@ -724,15 +760,18 @@ Beendigung des Tarifvertrags.
 
 
 #### § 30 Betrieblicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003100000)
 
 Die §§ 28 und 29 gelten nicht für Betriebe, die Mitglied einer
 Konditorinnung sind.
 
 
 ### Abschnitt 8 - Brot- und Backwarenindustrie
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000800000)
 
 
 #### § 31 Zusatzversorgung in der Brot- und Backwarenindustrie
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003200000)
 
 (1) Die Rechtsnormen des Tarifvertrags über die Errichtung einer
 Zusatzversorgungskasse für die Beschäftigten in der Brot- und
@@ -760,6 +799,7 @@ seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 
 #### § 32 Verfahren für die Zusatzversorgung in der Brot- und Backwarenindustrie
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003300000)
 
 (1) Die Rechtsnormen des Verfahrenstarifvertrags vom 20. Februar 1970
 und des Tarifvertrags vom 30. Juli 1979 gelten in der aus der Anlage
@@ -781,9 +821,11 @@ und Arbeitnehmer.
 
 
 ### Abschnitt 9 - Tageszeitungen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG000900000)
 
 
 #### § 33 Zusätzliche Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003400000)
 
 (1) Die Rechtsnormen des Tarifvertrags über die Altersversorgung für
 Redakteurinnen und Redakteure an Tageszeitungen sowie der
@@ -797,9 +839,11 @@ wird, gelten nicht in den Bundesländern Sachsen-Anhalt und Thüringen.
 
 
 ### Abschnitt 10 - Garten-, Landschafts- und Sportplatzbau
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001000000)
 
 
 #### § 34 Berufsbildung im Garten-, Landschafts- und Sportplatzbau
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003500000)
 
 (1) Die Rechtsnormen des Tarifvertrags über die Berufsbildung im
 Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland
@@ -816,6 +860,7 @@ erfasst werden.
 
 
 #### § 35 Berufsbildung im Garten-, Landschafts- und Sportplatzbau im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003600000)
 
 (1) Die Rechtsnormen des Tarifvertrags über die Berufsbildung im
 Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland
@@ -831,9 +876,11 @@ Fassung vom 15. Dezember 2005 erfasst werden.
 
 
 ### Abschnitt 11 - Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001100000)
 
 
 #### § 36 Zusätzliche Altersversorgung in der Land- und Forstwirtschaft
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003700000)
 
 Die Rechtsnormen des Tarifvertrags über die Zusatzversorgung der
 Arbeitnehmer in der Land- und Forstwirtschaft gelten in der aus der
@@ -843,6 +890,7 @@ vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 
 #### § 37 Berufsbildung in der Land- und Forstwirtschaft in Hessen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003800000)
 
 Die Rechtsnormen des Tarifvertrags „Qualifizierung der Land- und
 Forstwirtschaft in Hessen“ gelten in der aus der Anlage 87
@@ -852,6 +900,7 @@ bis zur Beendigung des Tarifvertrags.
 
 
 #### § 38 Berufsbildung in der Forstwirtschaft in Niedersachsen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE003900000)
 
 Die Rechtsnormen des Tarifvertrags über die Qualifizierung der
 Arbeitnehmer und Arbeitnehmerinnen der forstwirtschaftlichen Lohn- und
@@ -864,9 +913,11 @@ des Tarifvertrags.
 
 
 ### Abschnitt 12 - Schlussbestimmungen, allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001200000)
 
 
 #### § 39 Beendigung des Tarifvertrags
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004000000)
 
 (1) Ein Tarifvertrag endet im Sinne dieses Gesetzes, wenn er
 gekündigt, aufgehoben, geändert oder durch einen anderen Tarifvertrag
@@ -877,12 +928,14 @@ Tarifvertrags im Bundesanzeiger bekannt.
 
 
 #### § 40 Persönlicher Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004100000)
 
 Arbeitnehmer im Sinne der §§ 1 bis 38 sind die unter den persönlichen
 Geltungsbereich des jeweiligen Tarifvertrags fallenden Personen.
 
 
 #### § 41 Geltung der tarifvertraglichen Rechtsnormen
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004200000)
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 38
 verwiesen wird, gelten unabhängig davon, ob die Tarifverträge wirksam
@@ -894,12 +947,14 @@ unberührt.
 
 
 #### § 42 Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004300000)
 
 Die Allgemeinverbindlichkeit tarifvertraglicher Rechtsnormen nach dem
 Tarifvertragsgesetz bleibt unberührt.
 
 
 #### Inhalt Anlage
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 1 - 3)
 
@@ -1590,13 +1645,16 @@ Tarifvertragsgesetz bleibt unberührt.
 
 
 ### Abschnitt 1 – Maler- und Lackiererhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001300000)
 
 
 #### Zusätzliche Altersversorgung im Maler- und Lackiererhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001400000)
 
 (zu § 1 Absatz 1)
 
 ##### Anlage 1 Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 27. März 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 5 - 15)
 
@@ -2902,6 +2960,7 @@ Anwendung.
 (zu § 1 Absatz 2)
 
 ##### Anlage 2 Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 16 - 25)
 
@@ -4075,6 +4134,7 @@ Anwendung.
 (zu § 1 Absatz 3)
 
 ##### Anlage 3 Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 26 - 35)
 
@@ -5211,6 +5271,7 @@ Anwendung.
 (zu § 1 Absatz 4)
 
 ##### Anlage 4 Tarifvertrag über den Beginn der Leistungsverpflichtung für eine überbetriebliche Zusatzversorgung von Arbeitnehmern in Betrieben des Beitrittsgebiets im Maler- und Lackiererhandwerk vom 23. November 1992, geändert durch Tarifvertrag vom 15. Dezember 1994
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE004900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 36)
 
@@ -5252,10 +5313,12 @@ Beitrittsgebietes begründen, festgelegt auf den 1. Juli 1995.
 
 
 #### Urlaubsregelungen im Maler- und Lackiererhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001500000)
 
 (zu § 2 Absatz 1)
 
 ##### Anlage 5 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 37 - 47)
 
@@ -6811,6 +6874,7 @@ gekündigt werden
 [^F798869_01_BJNR335610017BJNE005000000]: 
 
 ##### Anhang zu Anlage 5 (Anhang zu § 18 Nummer 2)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 48)
 
@@ -6990,6 +7054,7 @@ gemäß § 18 Nr. 2:
    (zu § 2 Absatz 2)
 
 ##### Anlage 6 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 49 - 59)
 
@@ -8444,6 +8509,7 @@ gekündigt werden.
 (zu § 2 Absatz 3)
 
 ##### Anlage 7 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 9. September 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 60 - 70)
 
@@ -9909,6 +9975,7 @@ gekündigt werden.
 (zu § 2 Absatz 4)
 
 ##### Anlage 8 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 6. April 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 71 - 81)
 
@@ -11371,10 +11438,12 @@ gekündigt werden.
 [^F798869_04_BJNR335610017BJNE005400000]: 
 
 #### Sozialkassenverfahren im Maler- und Lackiererhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001600000)
 
 (zu § 3 Absatz 1)
 
 ##### Anlage 9 Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 30. Juni 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 82 - 86)
 
@@ -12024,6 +12093,7 @@ Frist von drei Monaten zum Monatsende kündbar.
 (zu § 3 Absatz 2)
 
 ##### Anlage 10 Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 87 - 91)
 
@@ -12629,6 +12699,7 @@ Frist von drei Monaten zum Monatsende kündbar.
 (zu § 3 Absatz 3)
 
 ##### Anlage 11 Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 92 - 96)
 
@@ -13213,13 +13284,16 @@ Frist von drei Monaten zum Monatsende kündbar.
 
 
 ### Abschnitt 2 – Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001700000)
 
 
 #### Zusätzliche Altersversorgung im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001800000)
 
 (zu § 4 Absatz 1)
 
 ##### Anlage 12 Tarifvertrag über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 97 - 104)
 
@@ -13908,6 +13982,7 @@ einzutreten.
 (zu § 4 Absatz 2)
 
 ##### Anlage 13 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 22. Juni 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE005900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 105 - 111)
 
@@ -14522,6 +14597,7 @@ einzutreten.
 (zu § 4 Absatz 3)
 
 ##### Anlage 14 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 112 - 117)
 
@@ -15132,6 +15208,7 @@ einzutreten.
 (zu § 4 Absatz 4)
 
 ##### Anlage 15 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 20. Juni 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 118 - 124)
 
@@ -15733,10 +15810,12 @@ einzutreten.
 [^F798869_08_BJNR335610017BJNE006100000]: 
 
 #### Ergänzende überbetriebliche Altersversorgung im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG001900000)
 
 (zu § 5 Absatz 1)
 
 ##### Anlage 16 Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 125 - 126)
 
@@ -15851,6 +15930,7 @@ einer Frist von drei Monaten jeweils zum 31. Dezember, erstmalig zum
 (zu § 5 Absatz 2)
 
 ##### Anlage 17 Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 30. September 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 127 - 128)
 
@@ -15970,10 +16050,12 @@ einer Frist von drei Monaten jeweils zum 31. Dezember, erstmalig zum
 [^F798869_10_BJNR335610017BJNE006300000]: 
 
 #### Beschäftigungssicherung im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002000000)
 
 (zu § 6 Absatz 1)
 
 ##### Anlage 18 Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 129 - 130)
 
@@ -16125,6 +16207,7 @@ werden.
 (zu § 6 Absatz 2)
 
 ##### Anlage 19 Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 131 - 132)
 
@@ -16276,6 +16359,7 @@ werden.
 (zu § 6 Absatz 3)
 
 ##### Anlage 20 Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 133 - 134)
 
@@ -16427,6 +16511,7 @@ werden.
 (zu § 6 Absatz 4)
 
 ##### Anlage 21 Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 135 - 136)
 
@@ -16582,10 +16667,12 @@ werden.
 
 
 #### 13. Monatseinkommen im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002100000)
 
 (zu § 7 Absatz 1)
 
 ##### Anlage 22 Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 137 - 139)
 
@@ -16813,6 +16900,7 @@ die Tarifvertragsparteien auf einen neuen Tarifvertrag geeinigt haben.
 (zu § 7 Absatz 2)
 
 ##### Anlage 23 Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE006900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 140 - 142)
 
@@ -17040,6 +17128,7 @@ die Tarifvertragsparteien auf einen neuen Tarifvertrag geeinigt haben.
 (zu § 7 Absatz 3)
 
 ##### Anlage 24 Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 21. August 2003
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 143 - 145)
 
@@ -17260,10 +17349,12 @@ Fassung vom 18. März 1991 wird für die Zeit vom 1. Januar 1992 bis zum
 [^F798869_11_BJNR335610017BJNE007000000]: 
 
 #### Berufsbildung im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002200000)
 
 (zu § 8 Absatz 1)
 
 ##### Anlage 25 Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012, geändert durch Tarifvertrag vom 7. September 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 146 - 151)
 
@@ -17934,6 +18025,7 @@ zum 31. Dezember 2015.
 (zu § 8 Absatz 2)
 
 ##### Anlage 26 Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 152 - 157)
 
@@ -18605,6 +18697,7 @@ und Ausbildungsstätten gegen die LAK ist Wiesbaden.
 (zu § 8 Absatz 3)
 
 ##### Anlage 27 Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 158 - 161)
 
@@ -18968,6 +19061,7 @@ erstmals zum 31. Dezember 1990.
 (zu § 8 Absatz 4)
 
 ##### Anlage 28 Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 162 - 165)
 
@@ -19327,6 +19421,7 @@ erstmals zum 31. Dezember 1990.
 (zu § 8 Absatz 5)
 
 ##### Anlage 29 Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 29. November 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 166 - 169)
 
@@ -19687,6 +19782,7 @@ erstmals zum 31. Dezember 1990.
 (zu § 8 Absatz 6)
 
 ##### Anlage 30 Tarifvertrag über das Erstattungsverfahren für die Berufsbildung im Dachdeckerhandwerk vom 4. Oktober 1978, zuletzt geändert durch Tarifvertrag vom 29. August 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 170 - 171)
 
@@ -19821,10 +19917,12 @@ erstmalig zum 31. Dezember 1980, gekündigt werden.
 
 
 #### Sozialkassenverfahren im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002300000)
 
 (zu § 9 Absatz 1)
 
 ##### Anlage 31 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 172 - 177)
 
@@ -20374,6 +20472,7 @@ gekündigt werden.
 (zu § 9 Absatz 2)
 
 ##### Anlage 32 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 178 - 183)
 
@@ -20915,6 +21014,7 @@ gekündigt werden.
 (zu § 9 Absatz 3)
 
 ##### Anlage 33 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE007900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 184 - 189)
 
@@ -21459,6 +21559,7 @@ gekündigt werden.
 (zu § 9 Absatz 4)
 
 ##### Anlage 34 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 190 - 194)
 
@@ -21958,6 +22059,7 @@ gekündigt werden.
 (zu § 9 Absatz 5)
 
 ##### Anlage 35 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 195 - 199)
 
@@ -22458,6 +22560,7 @@ gekündigt werden.
 (zu § 9 Absatz 6)
 
 ##### Anlage 36 Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 21. August 2003
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 200 - 205)
 
@@ -23041,10 +23144,12 @@ gekündigt werden.
 
 
 #### Bemessungsgrundlagen für die Sozialkassenverfahren im Dachdeckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002400000)
 
 (zu § 10 Absatz 1)
 
 ##### Anlage 37 Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 206 - 215)
 
@@ -24134,6 +24239,7 @@ die Kündigungsfrist einen Monat zum Monatsende.
 (zu § 10 Absatz 2)
 
 ##### Anlage 38 Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 8. November 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 216 - 225)
 
@@ -25211,6 +25317,7 @@ die Kündigungsfrist einen Monat zum Monatsende.
 (zu § 10 Absatz 3)
 
 ##### Anlage 39 Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 226 - 236)
 
@@ -26396,6 +26503,7 @@ die Kündigungsfrist einen Monat zum Monatsende.
 (zu § 10 Absatz 4)
 
 ##### Anlage 40 Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 27. November 2006
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 237 - 247)
 
@@ -27591,6 +27699,7 @@ Kündigungsfrist einen Monat zum Monatsende.
 (zu § 10 Absatz 5)
 
 ##### Anlage 41 Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 22. Mai 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 248 - 259)
 
@@ -28904,13 +29013,16 @@ Mai 2007 gekündigt werden.
 [^F798869_13_BJNR335610017BJNE008700000]: 
 
 ### Abschnitt 3 – Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002500000)
 
 
 #### Zusätzliche Altersversorgung im Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002600000)
 
 (zu § 11)
 
 ##### Anlage 42 Tarifvertrag über die überbetriebliche Zusatzversorgung im Gerüstbaugewerbe vom 21. September 1987, zuletzt geändert durch Tarifvertrag vom 16. Januar 1998
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 260 - 265)
 
@@ -29572,10 +29684,12 @@ Wirkung vom 1. Februar 1998 ausgesprochen wird.
 
 
 #### Urlaubsregelungen im Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002700000)
 
 (zu § 12 Absatz 1)
 
 ##### Anlage 43 Auszug aus dem Rahmentarifvertrag für das Gerüstbauerhandwerk vom 27. Juli 1993, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE008900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 266 - 273)
 
@@ -30425,10 +30539,12 @@ Dezember, erstmalig zum 31. Dezember 2006 kündbar.
 
 
 #### Lohnausgleich im Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002800000)
 
 (zu § 13)
 
 ##### Anlage 44 Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Gerüstbauerhandwerk während der Winterperiode vom 15. August 1983, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 274 - 277)
 
@@ -30770,6 +30886,7 @@ einzutreten.
 [^F798869_14_BJNR335610017BJNE009000000]: 
 
 ##### Anhang zu Anlage 44 (zu § 4 Absatz 2 der Anlage 44)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 277)
 
@@ -30829,10 +30946,12 @@ Sachsen-Anhalt und Thüringen, ab 1. August 2011 inkl. Berlin
 
 
 #### Berufsbildung im Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG002900000)
 
 (zu § 14)
 
 ##### Anlage 45 Auszug aus dem Tarifvertrag über die Berufsbildung im Gerüstbauerhandwerk vom 3. Dezember 1996, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 278 - 283)
 
@@ -31543,6 +31662,7 @@ einer Frist von sechs Monaten zum 30. Juni, erstmals zum 30. Juni
 [^F798869_15_BJNR335610017BJNE009200000]: 
 
 ##### Anhang zu Anlage 45 (zu § 12 Absatz 1 der Anlage 45)
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 284)
 
@@ -31615,10 +31735,12 @@ Sachsen-Anhalt und Thüringen
 
 
 #### Sozialkassenverfahren im Gerüstbauer-Handwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003000000)
 
 (zu § 15 Absatz 1)
 
 ##### Anlage 46 Tarifvertrag über das Sozialkassenverfahren im Gerüstbauerhandwerk vom 20. Januar 1994, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 285 - 292)
 
@@ -32529,13 +32651,16 @@ mit sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember
 
 
 ### Abschnitt 4 – Steinmetz- und Steinbildhauerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003100000)
 
 
 #### Zusätzliche Altersversorgung im Steinmetz- und Steinbildhauerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003200000)
 
 (zu § 16 Absatz 1)
 
 ##### Anlage 47 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 10. Juli 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 293 - 299)
 
@@ -33144,6 +33269,7 @@ einzutreten.
 (zu § 16 Absatz 2)
 
 ##### Anlage 48 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 300 - 305)
 
@@ -33730,6 +33856,7 @@ einzutreten.
 (zu § 16 Absatz 3)
 
 ##### Anlage 49 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 306 - 311)
 
@@ -34304,6 +34431,7 @@ einzutreten.
 (zu § 16 Absatz 4)
 
 ##### Anlage 50 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 26. August 2004
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 312 - 317)
 
@@ -34877,10 +35005,12 @@ einzutreten.
 
 
 #### Berufsbildung im Steinmetz- und Steinbildhauerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003300000)
 
 (zu § 17 Absatz 1)
 
 ##### Anlage 51 Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 11. November 2013
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE009900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 318 - 321)
 
@@ -35308,6 +35438,7 @@ einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember
 (zu § 17 Absatz 2)
 
 ##### Anlage 52 Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 16. Juli 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 322 - 325)
 
@@ -35736,6 +35867,7 @@ einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember
 (zu § 17 Absatz 3)
 
 ##### Anlage 53 Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 326 - 329)
 
@@ -36162,6 +36294,7 @@ einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember
 (zu § 17 Absatz 4)
 
 ##### Anlage 54 Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 330 - 333)
 
@@ -36589,6 +36722,7 @@ einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember
 (zu § 17 Absatz 5)
 
 ##### Anlage 55 Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 26. August 2004
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 334 - 337)
 
@@ -37016,10 +37150,12 @@ einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember
 
 
 #### Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003400000)
 
 (zu § 18 Absatz 1)
 
 ##### Anlage 56 Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 338 - 342)
 
@@ -37436,6 +37572,7 @@ Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember
 (zu § 18 Absatz 2)
 
 ##### Anlage 57 Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 12. Oktober 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 343 - 347)
 
@@ -37850,6 +37987,7 @@ Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember
 (zu § 18 Absatz 3)
 
 ##### Anlage 58 Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 348 - 352)
 
@@ -38259,6 +38397,7 @@ Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember
 (zu § 18 Absatz 4)
 
 ##### Anlage 59 Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 353 - 356)
 
@@ -38667,6 +38806,7 @@ Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember
 (zu § 18 Absatz 5)
 
 ##### Anlage 60 Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 13. Januar 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 357 - 360)
 
@@ -39075,10 +39215,12 @@ Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember
 
 
 #### Bemessungsgrundlagen für die Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003500000)
 
 (zu § 19 Absatz 1)
 
 ##### Anlage 61 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 2. Dezember 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE010900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 361 - 367)
 
@@ -39833,6 +39975,7 @@ einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum
 (zu § 19 Absatz 2)
 
 ##### Anlage 62 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 368 - 374)
 
@@ -40679,6 +40822,7 @@ einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum
 (zu § 19 Absatz 3)
 
 ##### Anlage 63 Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, geändert durch Tarifvertrag vom 26. August 2004
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 375 - 381)
 
@@ -41532,13 +41676,16 @@ einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum
 
 
 ### Abschnitt 5 – Betonsteingewerbe Nordwestdeutschland - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003600000)
 
 
 #### Zusätzliche Altersversorgung im Betonsteingewerbe Nordwestdeutschland - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003700000)
 
 (zu § 21 Absatz 1)
 
 ##### Anlage 64 Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 31. Mai 2010
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 382 - 390)
 
@@ -42463,6 +42610,7 @@ einzutreten.
 (zu § 21 Absatz 2)
 
 ##### Anlage 65 Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 391 - 399)
 
@@ -43382,10 +43530,12 @@ einzutreten.
 
 
 #### Verfahren der zusätzlichen Altersversorgung im Betonsteingewerbe Nordwestdeutschland - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003800000)
 
 (zu § 22)
 
 ##### Anlage 66 Tarifvertrag über das Verfahren der überbetrieblichen Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (Verfahrenstarifvertrag) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 400 - 403)
 
@@ -43805,13 +43955,16 @@ zum 31. Dezember 2007.
 
 
 ### Abschnitt 6 – Steine- und Erden-Industrie, Betonsteinhandwerk und Ziegelindustrie in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG003900000)
 
 
 #### Zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004000000)
 
 (zu § 23 Absatz 1)
 
 ##### Anlage 67 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 404 - 410)
 
@@ -44509,6 +44662,7 @@ einzutreten.
 (zu § 23 Absatz 2)
 
 ##### Anlage 68 Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 411 - 416)
 
@@ -45087,10 +45241,12 @@ einzutreten.
 
 
 #### Ergänzende zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004100000)
 
 (zu § 24 Absatz 1)
 
 ##### Anlage 69 Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 417 - 419)
 
@@ -45332,6 +45488,7 @@ erstmalig zum 31. Dezember 2015, gekündigt werden.
 (zu § 24 Absatz 2)
 
 ##### Anlage 70 Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe und ein ergänzendes Sterbegeld in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 420 - 422)
 
@@ -45601,10 +45758,12 @@ Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
 
 #### Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004200000)
 
 (zu § 25 Absatz 1)
 
 ##### Anlage 71 Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE011900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 423 - 426)
 
@@ -45961,6 +46120,7 @@ erstmalig zum 31. Dezember 2015 gekündigt werden.
 (zu § 25 Absatz 2)
 
 ##### Anlage 72 Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 427 - 430)
 
@@ -46309,10 +46469,12 @@ Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
 
 #### Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004300000)
 
 (zu § 26 Absatz 1)
 
 ##### Anlage 73 Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 431 - 433)
 
@@ -46582,6 +46744,7 @@ erstmalig zum 31. Dezember 2015 gekündigt werden.
 (zu § 26 Absatz 2)
 
 ##### Anlage 74 Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrpflichtigen in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegel-Industrie in Bayern vom 5 Juni 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 434 - 436)
 
@@ -46838,13 +47001,16 @@ Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
 
 ### Abschnitt 7 – Bäckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004400000)
 
 
 #### Aus- und Weiterbildung im Bäckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004500000)
 
 (zu § 28)
 
 ##### Anlage 75 Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 437 - 438)
 
@@ -46967,10 +47133,12 @@ Kündigung ist erstmals zum 31. Dezember 2015 zulässig.
 
 
 #### Einzug der Beiträge für die Aus- und Weiterbildung im Bäckerhandwerk - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004600000)
 
 (zu § 29)
 
 ##### Anlage 76 Verfahrenstarifvertrag zum Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 439)
 
@@ -47048,13 +47216,16 @@ Allgemeinverbindlicherklärung dieses Tarifvertrages zu beantragen.
 
 
 ### Abschnitt 8 – Brot- und Backwarenindustrie - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004700000)
 
 
 #### Zusatzversorgung in der Brot- und Backwarenindustrie - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004800000)
 
 (zu § 31 Absatz 1)
 
 ##### Anlage 77 Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 440 - 443)
 
@@ -47456,6 +47627,7 @@ Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 (zu § 31 Absatz 2)
 
 ##### Anlage 78 Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 444 - 447)
 
@@ -47848,6 +48020,7 @@ Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 (zu § 31 Absatz 3)
 
 ##### Anlage 79 Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 448 - 451)
 
@@ -48220,6 +48393,7 @@ Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 [^F798869_18_BJNR335610017BJNE012700000]: 
 
 ##### Anhang 1 zu den Anlagen 77 bis 79 Anlage zum Tarifvertrag (§ 5 Absatz 5) über die Errichtung einer „Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie“ vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 15. April 1987
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 452 - 453)
 
@@ -48439,6 +48613,7 @@ Genehmigung der Aufsichtsbehörde.
 
 
 ##### Anhang 2 zu den Anlagen 77 bis 79 Protokollnotizen vom 28. Februar 1977 und vom 4. September 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE012900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 454)
 
@@ -48463,6 +48638,7 @@ Geltungsbereich des Tarifvertrages ausscheidet.
 
 
 ##### Anhang 3 zu den Anlagen 77 bis 79 Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 455)
 
@@ -48497,10 +48673,12 @@ Kündigungsbestimmungen.
 
 
 #### Verfahren für die Zusatzversorgung in der Brot- und Backwarenindustrie - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG004900000)
 
 (zu § 32 Absatz 1)
 
 ##### Anlage 80 Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 456)
 
@@ -48601,6 +48779,7 @@ gelegt werden, an die Zusatzversorgungskasse abzuführen.
 (zu § 32 Absatz 2)
 
 ##### Anlage 81 Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013200000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 457)
 
@@ -48694,6 +48873,7 @@ gelegt werden, an die Zusatzversorgungskasse abzuführen.
 (zu § 32 Absatz 3)
 
 ##### Anlage 82 Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013300000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 458)
 
@@ -48784,6 +48964,7 @@ an die Zusatzversorgungskasse abzuführen.
 
 
 ##### Anhang zu den Anlagen 80 bis 82 Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013400000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 459)
 
@@ -48818,13 +48999,16 @@ Kündigungsbestimmungen.
 
 
 ### Abschnitt 9 – Tageszeitungen - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005000000)
 
 
 #### Zusätzliche Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005100000)
 
 (zu § 33 Absatz 1)
 
 ##### Anlage 83 Tarifvertrag über die Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen vom 15. Dezember 1997
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013500000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 460 - 465)
 
@@ -49424,13 +49608,16 @@ lassen.
 
 
 ### Abschnitt 10 – Garten-, Landschafts- und Sportplatzbau - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005200000)
 
 
 #### Berufsbildung im Garten-, Landschafts- und Sportplatzbau - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005300000)
 
 (zu § 34 Absatz 1)
 
 ##### Anlage 84 Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland einschließlich Berlin (West) ohne das Beitrittsgebiet vom 1. April 1977, zuletzt geändert durch Tarifvertrag vom 11. März 1991
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013600000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 466 - 469)
 
@@ -49815,6 +50002,7 @@ Allgemeinverbindlichkeit zu beantragen.
 [^F798869_19_BJNR335610017BJNE013600000]: 
 
 ##### Anhang zu Anlage 84 Protokollnotiz vom 11. März 1991 zum Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau vom 1. April 1977
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013700000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 470)
 
@@ -49841,10 +50029,12 @@ Sportplatzbau als Mitglied angehören.
 
 
 #### Berufsbildung im Garten-, Landschafts- und Sportplatzbau im Beitrittsgebiet - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005400000)
 
 (zu § 35 Absatz 1)
 
 ##### Anlage 85 Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland – nur Beitrittsgebiet – vom 11. März 1991, geändert durch Tarifvertrag vom 7. Juni 1991
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013800000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 471 - 474)
 
@@ -50255,13 +50445,16 @@ Allgemeinverbindlichkeit zu beantragen.
 [^F798869_20_BJNR335610017BJNE013800000]: 
 
 ### Abschnitt 11 – Land- und Forstwirtschaft - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005500000)
 
 
 #### Zusätzliche Altersversorgung in der Land- und Forstwirtschaft - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005600000)
 
 (zu § 36)
 
 ##### Anlage 86 Tarifvertrag über die Zusatzversorgung der Arbeitnehmer in der Land- und Forstwirtschaft vom 28. November 2000
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE013900000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 475 - 479)
 
@@ -50711,10 +50904,12 @@ werden.
 [^F798869_21_BJNR335610017BJNE013900000]: 
 
 #### Berufsbildung in der Land- und Forstwirtschaft in Hessen - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005700000)
 
 (zu § 37)
 
 ##### Anlage 87 Tarifvertrag „Qualifizierung der Land- und Forstwirtschaft in Hessen“ vom 31. Mai 2001
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE014000000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 480 - 481)
 
@@ -50867,10 +51062,12 @@ Juli 1995 außer Kraft.
 
 
 #### Berufsbildung in der Forstwirtschaft in Niedersachsen - 
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNG005800000)
 
 (zu § 38)
 
 ##### Anlage 88 Tarifvertrag über die Qualifizierung der Arbeitnehmer und Arbeitnehmerinnen der forstwirtschaftlichen Lohn- und Dienstleistungsunternehmen und über Maßnahmen zur Erschließung und Sicherung wettbewerbsfähiger Voll- oder Teilzeitarbeitsplätze in der Forstwirtschaft vom 1. Januar 2002
+[Direktlink](https://www.gesetze-im-internet.de/sokasig_2/BJNR335610017.html#BJNR335610017BJNE014100000)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 482 - 483)
 

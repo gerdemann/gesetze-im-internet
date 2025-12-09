@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Arbeitnehmerüberlassung, Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE000515119)
 
 (1) Arbeitgeber, die als Verleiher Dritten (Entleihern) Arbeitnehmer
 (Leiharbeitnehmer) im Rahmen ihrer wirtschaftlichen Tätigkeit zur
@@ -140,6 +141,7 @@ auf die Arbeitnehmerüberlassung
 
 
 ## § 1a Anzeige der Überlassung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003008308)
 
 (1) Keiner Erlaubnis bedarf ein Arbeitgeber mit weniger als 50
 Beschäftigten, der zur Vermeidung von Kurzarbeit oder Entlassungen an
@@ -168,6 +170,7 @@ Bundesagentur für Arbeit angezeigt hat.
 
 
 ## § 1b Einschränkungen im Baugewerbe
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003202308)
 
 Arbeitnehmerüberlassung nach § 1 in Betriebe des Baugewerbes für
 Arbeiten, die üblicherweise von Arbeitern verrichtet werden, ist
@@ -197,6 +200,7 @@ fallen, von denen der Betrieb des Entleihers erfasst wird.
 
 
 ## § 2 Erteilung und Erlöschen der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE000603308)
 
 (1) Die Erlaubnis wird auf schriftlichen Antrag erteilt.
 
@@ -225,6 +229,7 @@ Gebrauch gemacht hat.
 
 
 ## § 3 Versagung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE000817119)
 
 (1) Die Erlaubnis oder ihre Verlängerung ist zu versagen, wenn
 Tatsachen die Annahme rechtfertigen, daß der Antragsteller
@@ -287,6 +292,7 @@ Rechtsvorschriften des anderen Staates gegründet sind.
 
 
 ## § 3a Lohnuntergrenze
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003301377)
 
 (1) Gewerkschaften und Vereinigungen von Arbeitgebern, die zumindest
 auch für ihre jeweiligen in der Arbeitnehmerüberlassung tätigen
@@ -361,6 +367,7 @@ vorschlagen. Die Absätze 1 bis 5 finden entsprechend Anwendung.
 
 
 ## § 4 Rücknahme
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE000902308)
 
 (1) Eine rechtswidrige Erlaubnis kann mit Wirkung für die Zukunft
 zurückgenommen werden. § 2 Abs. 4 Satz 4 gilt entsprechend.
@@ -397,6 +404,7 @@ erhalten hat, die die Rücknahme der Erlaubnis rechtfertigen.
 
 
 ## § 5 Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001002308)
 
 (1) Die Erlaubnis kann mit Wirkung für die Zukunft widerrufen werden,
 wenn
@@ -431,6 +439,7 @@ erhalten hat, die den Widerruf der Erlaubnis rechtfertigen.
 
 
 ## § 6 Verwaltungszwang
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001102308)
 
 Werden Leiharbeitnehmer von einem Verleiher ohne die erforderliche
 Erlaubnis überlassen, so hat die Erlaubnisbehörde dem Verleiher dies
@@ -439,6 +448,7 @@ Verwaltungsvollstreckungsgesetzes zu verhindern.
 
 
 ## § 7 Anzeigen und Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001203126)
 
 (1) Der Verleiher hat der Erlaubnisbehörde nach Erteilung der
 Erlaubnis unaufgefordert die Verlegung, Schließung und Errichtung von
@@ -486,6 +496,7 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 
 
 ## § 8 Grundsatz der Gleichstellung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001303119)
 
 (1) Der Verleiher ist verpflichtet, dem Leiharbeitnehmer für die Zeit
 der Überlassung an den Entleiher die im Betrieb des Entleihers für
@@ -550,6 +561,7 @@ Mindeststundenentgelt zu zahlen.
 
 
 ## § 9 Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001407119)
 
 (1) Unwirksam sind:
 
@@ -640,6 +652,7 @@ Festhaltenserklärung.
 
 
 ## § 10 Rechtsfolgen bei Unwirksamkeit
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001508119)
 
 (1) Ist der Vertrag zwischen einem Verleiher und einem
 Leiharbeitnehmer nach § 9 unwirksam, so gilt ein Arbeitsverhältnis
@@ -679,6 +692,7 @@ Arbeitgeber; beide haften insoweit als Gesamtschuldner.
 
 
 ## § 10a Rechtsfolgen bei Überlassung durch eine andere Person als den Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE004100119)
 
 Werden Arbeitnehmer entgegen § 1 Absatz 1 Satz 3 von einer anderen
 Person überlassen und verstößt diese Person hierbei gegen § 1 Absatz 1
@@ -687,6 +701,7 @@ Leiharbeitnehmers § 9 Absatz 1 Nummer 1 bis 1b und § 10 entsprechend.
 
 
 ## § 11 Sonstige Vorschriften über das Leiharbeitsverhältnis
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001616126)
 
 (1) Der Nachweis der wesentlichen Vertragsbedingungen des
 Leiharbeitsverhältnisses richtet sich nach den Bestimmungen des
@@ -774,6 +789,7 @@ gemacht, so gilt der Entleiher als Arbeitgeber im Sinne des Gesetzes
 
 
 ## § 11a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE004202126)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates zu bestimmen, dass das in § 11 Absatz 4
@@ -786,6 +802,7 @@ zeitlich zu befristen. Die Ermächtigung tritt mit Ablauf des 30. Juni
 
 
 ## § 12 Rechtsbeziehungen zwischen Verleiher und Entleiher
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001709126)
 
 (1) Der Vertrag zwischen dem Verleiher und dem Entleiher bedarf der
 Textform. Wenn der Vertrag und seine tatsächliche Durchführung
@@ -812,6 +829,7 @@ Abwicklung (§ 2 Abs. 4 Satz 4) und die gesetzliche Abwicklungsfrist (§
 
 
 ## § 13 Auskunftsanspruch des Leiharbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001807119)
 
 Der Leiharbeitnehmer kann im Falle der Überlassung von seinem
 Entleiher Auskunft über die im Betrieb des Entleihers für einen
@@ -822,6 +840,7 @@ gilt nicht, soweit die Voraussetzungen der in § 8 Absatz 2 und 4 Satz
 
 
 ## § 13a Informationspflicht des Entleihers über freie Arbeitsplätze und Übernahmegesuch des Leiharbeitnehmers
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003401126)
 
 (1) Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des
 Entleihers, die besetzt werden sollen, zu informieren. Die Information
@@ -840,6 +859,7 @@ angezeigt hat. Für die Bestimmung der Dauer der Überlassung nach Satz
 
 
 ## § 13b Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003500308)
 
 Der Entleiher hat dem Leiharbeitnehmer Zugang zu den
 Gemeinschaftseinrichtungen oder -diensten im Unternehmen unter den
@@ -853,6 +873,7 @@ Beförderungsmittel.
 
 
 ## § 14 Mitwirkungs- und Mitbestimmungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE001908126)
 
 (1) Leiharbeitnehmer bleiben auch während der Zeit ihrer
 Arbeitsleistung bei einem Entleiher Angehörige des entsendenden
@@ -898,6 +919,7 @@ Anwendung des Bundespersonalvertretungsgesetzes sinngemäß.
 
 
 ## § 15 Ausländische Leiharbeitnehmer ohne Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002006126)
 
 (1) Wer als Verleiher einen Ausländer, der einen erforderlichen
 Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des Aufenthaltsgesetzes,
@@ -916,6 +938,7 @@ handelt.
 
 
 ## § 15a Entleih von Ausländern ohne Genehmigung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002109126)
 
 (1) Wer als Entleiher einen ihm überlassenen Ausländer, der einen
 erforderlichen Aufenthaltstitel nach § 4a Absatz 5 Satz 1 des
@@ -955,6 +978,7 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 ## § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002227126)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1105,6 +1129,7 @@ Ordnungswidrigkeiten.
 
 
 ## § 17 Durchführung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002306119)
 
 (1) Die Bundesagentur für Arbeit führt dieses Gesetz nach fachlichen
 Weisungen des Bundesministeriums für Arbeit und Soziales durch.
@@ -1115,6 +1140,7 @@ den Behörden der Zollverwaltung nach Maßgabe der §§ 17a bis 18a.
 
 
 ## § 17a Befugnisse der Behörden der Zollverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003601119)
 
 Die §§ 2, 3 bis 6 und 14 bis 20, 22, 23 des
 Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der
@@ -1126,6 +1152,7 @@ unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach §
 
 
 ## § 17b Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003702126)
 
 (1) Überlässt ein Verleiher mit Sitz im Ausland einen Leiharbeitnehmer
 zur Arbeitsleistung einem Entleiher, hat der Verleiher, sofern eine
@@ -1187,6 +1214,7 @@ Satz 1 bestimmen.
 
 
 ## § 17c Erstellen und Bereithalten von Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003801377)
 
 (1) Sofern eine Rechtsverordnung nach § 3a auf ein Arbeitsverhältnis
 Anwendung findet, ist der Entleiher verpflichtet, Beginn, Ende und
@@ -1206,6 +1234,7 @@ Beschäftigung bereitzuhalten.
 
 
 ## § 18 Zusammenarbeit mit anderen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002423126)
 
 (1) Zur Verfolgung und Ahndung der Ordnungswidrigkeiten nach § 16
 arbeiten die Bundesagentur für Arbeit und die Behörden der
@@ -1335,6 +1364,7 @@ hiervon unberührt.
 
 
 ## § 19 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE002508119)
 
 (1) § 8 Absatz 3 findet keine Anwendung auf Leiharbeitsverhältnisse,
 die vor dem 15. Dezember 2010 begründet worden sind.
@@ -1345,6 +1375,7 @@ der Überlassungshöchstdauer nach § 1 Absatz 1b und der Berechnung der
 
 
 ## § 20 Evaluation
+[Direktlink](https://www.gesetze-im-internet.de/a_g/BJNR113930972.html#BJNR113930972BJNE003102119)
 
 Die Anwendung dieses Gesetzes ist im Jahr 2020 zu evaluieren.
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000100000)
 
 Auf Grund des § 9a Satz 1 in Verbindung mit § 9b Absatz 2 Satz 1 des
 Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom
@@ -39,6 +40,7 @@ Naturschutz, nukleare Sicherheit und Verbraucherschutz:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000200000)
 
 Diese Verordnung dient der Durchführung der Durchführungsverordnung
 (EU) 2022/1317 der Kommission vom 27. Juli 2022 zur Ermöglichung von
@@ -50,6 +52,7 @@ S. 1) in der jeweils geltenden Fassung.
 
 
 ## § 2 Aussetzung der Verpflichtung zum Fruchtwechsel auf Ackerland
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000300000)
 
 (1) Abweichend von § 18 der GAP-Konditionalitäten-Verordnung vom
 7\. Dezember 2022 (BGBl. I
@@ -64,6 +67,7 @@ Pflicht von Absatz 1 unberührt.
 
 
 ## § 3 Zusätzliche Anrechnungsmöglichkeit von produktiven Flächen
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000401119)
 
 (1) Zusätzlich zu den Anrechnungsmöglichkeiten nach § 20 Absatz 1 der
 GAP-Konditionalitäten-Verordnung kann für das Antragsjahr 2023 auch
@@ -128,11 +132,13 @@ Nr. 1305/2013 geleistet wurden.
 
 
 ## § 4 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000500000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/gapausnv/BJNR236600022.html#BJNR236600022BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I. Übertragung von Befugnissen
+[Direktlink](https://www.gesetze-im-internet.de/uvbundbahndiszrano/BJNR171700015.html#BJNR171700015BJNE000100000)
 
 Auf Grund der Verordnung zur Durchführung des
 Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften
@@ -55,6 +56,7 @@ Bundesdisziplinargesetzes bleiben hiervon unberührt.
 
 
 ## II. Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/uvbundbahndiszrano/BJNR171700015.html#BJNR171700015BJNE000200000)
 
 Der Vorstand der Unfallversicherung Bund und Bahn behält sich vor, die
 nach Abschnitt I erteilten Befugnisse im Einzelfall und in jedem
@@ -62,11 +64,13 @@ Stadium des Verfahrens zu übernehmen.
 
 
 ## III. Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/uvbundbahndiszrano/BJNR171700015.html#BJNR171700015BJNE000300000)
 
 Die vorstehende Anordnung tritt am 1. Oktober 2015 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/uvbundbahndiszrano/BJNR171700015.html#BJNR171700015BJNE000400000)
 
 Unfallversicherung Bund und Bahn
 Vorsitzender des Vorstandes

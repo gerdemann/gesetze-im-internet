@@ -29,9 +29,11 @@ sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses
 
 
 ## Kapitel 1 - Organisation
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000100000)
 
 
 ### § 1 Zollfahndungsdienst
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000200000)
 
 Der Zollfahndungsdienst besteht aus dem Zollkriminalamt und den
 Zollfahndungsämtern. Das Zollkriminalamt und die Zollfahndungsämter
@@ -40,6 +42,7 @@ Befugnisse als Behörden des Zollfahndungsdienstes wahr.
 
 
 ### § 2 Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000300000)
 
 Das Zollkriminalamt ist die Zentralstelle für den Zollfahndungsdienst
 und darüber hinaus eine der Zentralstellen der Zollverwaltung für das
@@ -47,9 +50,11 @@ Auskunfts- und Nachrichtenwesen.
 
 
 ## Kapitel 2 - Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000200000)
 
 
 ### § 3 Aufgaben des Zollkriminalamtes als Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000400000)
 
 (1) Das Zollkriminalamt unterstützt als Zentralstelle die Behörden der
 Zollverwaltung
@@ -233,6 +238,7 @@ erstellen.
 
 
 ### § 4 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000500000)
 
 (1) Das Zollkriminalamt kann die Aufgaben der Zollfahndungsämter auf
 dem Gebiet der Strafverfolgung wahrnehmen und die Ermittlungen selbst
@@ -276,6 +282,7 @@ Zollverwaltungsgesetzes mit.
 
 
 ### § 5 Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch die Zollfahndungsämter
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000600000)
 
 (1) Die Zollfahndungsämter wirken im Zuständigkeitsbereich der
 Zollverwaltung bei der Überwachung des Außenwirtschaftsverkehrs und
@@ -310,6 +317,7 @@ die zur Erfüllung seiner Aufgaben erforderlich sind, bereitzustellen.
 
 
 ### § 6 Behördlicher Eigenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000700000)
 
 (1) Den Behörden des Zollfahndungsdienstes obliegt die Sicherung ihrer
 Liegenschaften, sonstigen Einrichtungen und eigenen Veranstaltungen
@@ -325,6 +333,7 @@ für sie tätig werden sollen.
 
 
 ### § 7 Sicherung und Schutz von eingesetzten Bediensteten, Dritten und Vermögenswerten; Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000800000)
 
 (1) Den Behörden des Zollfahndungsdienstes obliegt im Rahmen ihrer
 Aufgabenwahrnehmung nach § 3 Absatz 1 Nummer 1 und 2, Absatz 5 und 6
@@ -358,15 +367,19 @@ Maßnahmen zu treffen haben, bleibt unberührt.
 
 
 ## Kapitel 3 - Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000300000)
 
 
 ### Abschnitt 1 - Befugnisse des Zollkriminalamtes als Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000400000)
 
 
 #### Unterabschnitt 1 - Datenverarbeitung durch die Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000500000)
 
 
 ##### § 8 Allgemeine Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE000900000)
 
 (1) Das Zollkriminalamt kann personenbezogene Daten verarbeiten,
 soweit dies zur Erfüllung seiner Aufgaben als Zentralstelle
@@ -400,6 +413,7 @@ dieses Unterabschnittes vor.
 
 
 ##### § 9 Befragung und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001000000)
 
 (1) Das Zollkriminalamt kann eine Person befragen, wenn Tatsachen die
 Annahme rechtfertigen, dass die Person sachdienliche Angaben für die
@@ -467,6 +481,7 @@ privaten Rechts entsprechend.
 
 
 ##### § 10 Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001104123)
 
 (1) Das Zollkriminalamt kann, soweit es als Zentralstelle
 
@@ -640,6 +655,7 @@ zu übermitteln.
 
 
 ##### § 11 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001200000)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3
 Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11,
@@ -758,6 +774,7 @@ wenn
 
 
 ##### § 12 Daten zu anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001300000)
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige
 Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist,
@@ -807,6 +824,7 @@ Absatz 1 oder Absatz 2 erfüllt.
 
 
 ##### § 13 Daten zur Beobachtung bestimmter Verkehre
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001400000)
 
 Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach
 § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11,
@@ -836,6 +854,7 @@ bleiben unberührt.
 
 
 ##### § 14 Daten für Zwecke der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001500000)
 
 (1) Das Zollkriminalamt kann personenbezogene Daten für Zwecke der
 Ausschreibung der betroffenen Person zur zollrechtlichen Überwachung
@@ -860,6 +879,7 @@ Ausschreibung zu bezeichnen.
 
 
 ##### § 14a Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE011000123)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben zur
 Verhütung von Straftaten nach § 3 Absatz 1 Nummer 2 eine Person, eine
@@ -892,6 +912,7 @@ dokumentieren.
 
 
 ##### § 15 Zollfahndungsinformationssystem
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001601123)
 
 (1) Das Zollkriminalamt ist im Rahmen seiner Aufgaben nach § 3 Absatz
 1 und 3 Zentralstelle für den elektronischen Datenverbund zwischen den
@@ -943,6 +964,7 @@ Daten ergänzend erfassen.
 
 
 ##### § 16 Unterrichtung der Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001700000)
 
 (1) Die Stellen, die zur Teilnahme am Zollfahndungsinformationssystem
 berechtigt sind, übermitteln dem Zollkriminalamt die Daten, die zur
@@ -960,6 +982,7 @@ Absätzen 1 und 2 trägt die jeweils übermittelnde Stelle.
 
 
 ##### § 17 Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001800000)
 
 (1) Das Zollkriminalamt kann von den Mitarbeiterinnen und Mitarbeitern
 der Zollverwaltung, die Umgang mit Spurenmaterial haben oder die
@@ -1013,6 +1036,7 @@ Daten zu informieren.
 
 
 ##### § 18 Abgleich personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE001900000)
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als
 Zentralstelle personenbezogene Daten mit dem Inhalt von Dateisystemen,
@@ -1027,6 +1051,7 @@ bleiben unberührt.
 
 
 ##### § 19 Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002000000)
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als
 Zentralstelle bei ihm vorhandene personenbezogene Daten verarbeiten,
@@ -1109,6 +1134,7 @@ ist und das Zollkriminalamt der Veröffentlichung zugestimmt hat.
 
 
 ##### § 20 Verarbeitung von Daten zu sonstigen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002100000)
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als
 Zentralstelle die im Zollfahndungsdienst vorhandenen personenbezogenen
@@ -1139,9 +1165,11 @@ Rechtsvorschriften zulässig.
 
 
 #### Unterabschnitt 2 - Datenübermittlung durch die Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000600000)
 
 
 ##### § 21 Datenübermittlung im innerstaatlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002201123)
 
 (1) Das Zollkriminalamt kann personenbezogene Daten an andere
 Dienststellen der Zollverwaltung übermitteln, soweit dies zur
@@ -1279,6 +1307,7 @@ ist unzulässig.
 
 
 ##### § 22 Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002300000)
 
 (1) Für die Übermittlung von personenbezogenen Daten an
 
@@ -1313,6 +1342,7 @@ die internationale Rechtshilfe in Strafsachen).
 
 
 ##### § 23 Datenübermittlung im internationalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002400000)
 
 (1) Das Zollkriminalamt kann unter Beachtung der §§ 78 bis 80 des
 Bundesdatenschutzgesetzes an
@@ -1389,6 +1419,7 @@ den beim Zollkriminalamt vorgesehenen Löschungszeitpunkt mitzuteilen.
 
 
 ##### § 24 Übermittlungsverbote und Verweigerungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002500000)
 
 (1) Die Übermittlung personenbezogener Daten nach diesem
 Unterabschnitt unterbleibt, wenn
@@ -1440,9 +1471,11 @@ hinaus, wenn
 
 
 #### Unterabschnitt 3 - Steuerungsbefugnis der Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000700000)
 
 
 ##### § 25 Weisungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002600000)
 
 (1) Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung
 deren Aufgaben fachliche Weisungen erteilen.
@@ -1455,12 +1488,15 @@ führen, fachliche Weisungen erteilen.
 
 
 ### Abschnitt 2 - Befugnisse der Behörden des Zollfahndungsdienstes bei der Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten sowie im Rahmen von Sicherungs- und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000800000)
 
 
 #### Unterabschnitt 1 - Datenverarbeitung durch die Behörden des Zollfahndungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG000900000)
 
 
 ##### § 26 Allgemeine Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002700000)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach den
@@ -1502,6 +1538,7 @@ dieses Unterabschnittes vor. § 35 bleibt unberührt.
 
 
 ##### § 27 Verarbeitungsbeschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002801123)
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen personenbezogene
 Daten, die sie durch eine Maßnahme nach § 10 Absatz 2 und 3, § 30
@@ -1553,6 +1590,7 @@ organisatorische Maßnahmen sicher, dass Absatz 1 beachtet wird.
 
 
 ##### § 28 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE002901123)
 
 (1) Personenbezogene Daten, die durch eine Maßnahme nach § 10 Absatz 2
 und 3, § 30 Absatz 2 bis 4, den §§ 47, 62, 72, 77 oder § 78 erhoben
@@ -1566,12 +1604,14 @@ Kennzeichnung durch diese aufrechtzuerhalten.
 
 
 ##### § 29 Befragung und Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003000000)
 
 Bei der Wahrnehmung von Aufgaben nach den §§ 4 bis 7 ist für die
 Behörden des Zollfahndungsdienstes § 9 entsprechend anzuwenden.
 
 
 ##### § 30 Bestandsdatenauskunft
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003104123)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 4
 Absatz 2 Nummer 1, Absatz 3 Nummer 1 oder § 4 Absatz 4 Auskunft
@@ -1775,6 +1815,7 @@ zulässig, wenn zugleich die Voraussetzungen des Absatzes 6 vorliegen.
 
 
 ##### § 31 Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003200000)
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen zur Erfüllung ihrer
 Aufgaben nach den §§ 4 bis 7 personenbezogene Daten weiterverarbeiten
@@ -1870,6 +1911,7 @@ Ordnungswidrigkeitenverfahren entsprechend.
 
 
 ##### § 32 Daten zu anderen Personen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003300000)
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige
 Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist,
@@ -1919,6 +1961,7 @@ die Voraussetzung nach Absatz 1 oder Absatz 2 erfüllt.
 
 
 ##### § 33 Daten für Zwecke der Ausschreibung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003400000)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten für Zwecke der Ausschreibung der betroffenen Person zur
@@ -1943,6 +1986,7 @@ Dauer der Ausschreibung zu bezeichnen.
 
 
 ##### § 33a Daten für Zwecke der Ausschreibung zur Ermittlungsanfrage oder zur verdeckten Kontrolle
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE011100123)
 
 (1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
 Aufgaben zur Verhütung von Straftaten nach § 4 und § 5 eine Person,
@@ -1961,6 +2005,7 @@ dokumentieren.
 
 
 ##### § 34 Aufzeichnung eingehender Telefonanrufe
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003500000)
 
 (1) Die Behörden des Zollfahndungsdienstes können, soweit dies zur
 Erfüllung ihrer Aufgaben erforderlich ist, Telefonanrufe aufzeichnen,
@@ -1976,6 +2021,7 @@ oder zum Zeugenschutz benötigt.
 
 
 ##### § 35 Daten aus Strafverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003600000)
 
 Die Behörden des Zollfahndungsdienstes können nach Maßgabe dieses
 Gesetzes personenbezogene Daten aus Strafverfahren verarbeiten
@@ -1993,6 +2039,7 @@ Regelungen entgegenstehen.
 
 
 ##### § 36 Abgleich personenbezogener Daten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003700000)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten mit dem Inhalt von Dateisystemen, die sie zur Erfüllung ihrer
@@ -2006,6 +2053,7 @@ bleiben unberührt.
 
 
 ##### § 37 Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003800000)
 
 (1) Die Behörden des Zollfahndungsdienstes können im Rahmen ihrer
 Aufgaben im Zollfahndungsdienst bei ihnen vorhandene personenbezogene
@@ -2090,6 +2138,7 @@ ist und die Behörde des Zollfahndungsdienstes, die die Daten
 
 
 ##### § 38 Verarbeitung von Daten zu sonstigen Zwecken
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE003900000)
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen, wenn dies zur
 Vorgangsverwaltung erforderlich ist, vorhandene personenbezogene Daten
@@ -2112,9 +2161,11 @@ Rechtsvorschriften zulässig.
 
 
 #### Unterabschnitt 2 - Allgemeine Maßnahmen zur Gefahrenabwehr und zur Vorsorge für die künftige Verfolgung von Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001000000)
 
 
 ##### § 39 Allgemeine Befugnisse
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004000000)
 
 Die Behörden des Zollfahndungsdienstes treffen im
 Zuständigkeitsbereich der Zollverwaltung, mit Ausnahme der Bekämpfung
@@ -2137,6 +2188,7 @@ Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 
 ##### § 40 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004100000)
 
 (1) Die Behörden des Zollfahndungsdienstes können im
 Zuständigkeitsbereich der Zollverwaltung
@@ -2162,6 +2214,7 @@ Zuständigkeitsbereich der Zollverwaltung
 
 
 ##### § 41 Verwahrung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004200000)
 
 (1) Die sichergestellte Sache ist durch die zuständige Behörde des
 Zollfahndungsdienstes in Verwahrung zu nehmen. Lässt die
@@ -2186,6 +2239,7 @@ dass Verwechslungen vermieden werden.
 
 
 ##### § 42 Aufhebung der Sicherstellung, Einziehung, Verwertung, Vernichtung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004300000)
 
 (1) Kann der Inhaber der tatsächlichen Gewalt oder der Eigentümer der
 sichergestellten Sache vorbehaltlich des Absatzes 2 Satz 2 innerhalb
@@ -2237,6 +2291,7 @@ Zweckbestimmung zugeführt werden.
 
 
 ##### § 43 Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004400000)
 
 (1) Sobald die Voraussetzungen für die Sicherstellung einer Sache
 weggefallen sind, ist die Sache an denjenigen herauszugeben, bei dem
@@ -2277,6 +2332,7 @@ beigetrieben werden.
 
 
 ##### § 44 Durchsuchung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004500000)
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Person
 durchsuchen, wenn Tatsachen die Annahme rechtfertigen, dass sie Sachen
@@ -2293,6 +2349,7 @@ Leben erforderlich ist.
 
 
 ##### § 45 Durchsuchung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004600000)
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Sache
 durchsuchen, wenn
@@ -2317,6 +2374,7 @@ Durchsuchung und ihren Grund zu erteilen.
 
 
 ##### § 46 Betreten und Durchsuchung von Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004700000)
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Wohnung ohne
 Einwilligung des Inhabers betreten und durchsuchen, wenn Tatsachen die
@@ -2363,9 +2421,11 @@ und Ort der Durchsuchung schriftlich zu bestätigen.
 
 
 #### Unterabschnitt 3 - Besondere Maßnahmen zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001100000)
 
 
 ##### § 47 Besondere Mittel der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004800000)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten mit den besonderen Mitteln nach Absatz 2 erheben über
@@ -2460,6 +2520,7 @@ Sie dürfen zugleich neben derartigen Maßnahmen angeordnet werden.
 
 
 ##### § 48 Gerichtliche Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE004900000)
 
 (1) Maßnahmen nach
 
@@ -2527,6 +2588,7 @@ Anordnung.
 
 
 ##### § 49 Schutz des Kernbereichs privater Lebensgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005000000)
 
 (1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch
 eine Maßnahme nach § 47 Absatz 2 allein Erkenntnisse aus dem
@@ -2576,6 +2638,7 @@ nicht verwertet werden dürfen, verpflichtet.
 
 
 ##### § 50 Gerichtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005100000)
 
 (1) Für gerichtliche Entscheidungen nach den §§ 48 und 49 ist das
 Amtsgericht zuständig, in dessen Bezirk die Behörde des
@@ -2596,6 +2659,7 @@ Löschung das Gericht anordnet, verpflichtet.
 
 
 ##### § 51 Löschung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005200000)
 
 Personenbezogene Daten, die durch eine Maßnahme nach § 47 Absatz 1
 erlangt worden sind, sind unverzüglich zu löschen, soweit sie
@@ -2618,9 +2682,11 @@ Betroffenen nur zu diesem Zweck verarbeitet werden.
 
 
 #### Unterabschnitt 4 - Strafverfolgung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001200000)
 
 
 ##### § 52 Befugnisse bei Ermittlungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005300000)
 
 Soweit die Behörden des Zollfahndungsdienstes Ermittlungen
 durchführen, haben sie und ihre Beamten dieselben Rechte und Pflichten
@@ -2630,9 +2696,11 @@ Ermittlungspersonen der Staatsanwaltschaft.
 
 
 #### Unterabschnitt 5 - Sicherungs- und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001300000)
 
 
 ##### § 53 Sicherungs- und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005400000)
 
 (1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
 Aufgaben nach § 7 Absatz 1 die notwendigen Maßnahmen treffen, um eine
@@ -2670,6 +2738,7 @@ Zollfahndungsdienstes, tragen diese die Verantwortung.
 
 
 ##### § 54 Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005500000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 die Identität einer Person
@@ -2698,6 +2767,7 @@ dienen, durchsucht werden.
 
 
 ##### § 55 Prüfung von mitzuführenden Dokumenten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005600000)
 
 Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 verlangen, dass
@@ -2715,6 +2785,7 @@ Urkunden zur Prüfung ausgehändigt werden, soweit
 
 
 ##### § 56 Durchsuchung von Personen und Sachen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005700000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 eine Person oder eine Sache
@@ -2750,6 +2821,7 @@ Durchsuchung und ihren Grund zu erteilen.
 
 
 ##### § 57 Erkennungsdienstliche Maßnahmen zur Identitätsfeststellung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005800000)
 
 Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 erkennungsdienstliche Maßnahmen im
@@ -2759,6 +2831,7 @@ nur unter erheblichen Schwierigkeiten möglich ist.
 
 
 ##### § 58 Platzverweisung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE005900000)
 
 Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 eine Person vorübergehend von einem
@@ -2768,6 +2841,7 @@ auf die Person bezogenen Anhaltspunkten erforderlich ist.
 
 
 ##### § 59 Sicherstellung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006000000)
 
 Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 Sachen zur Abwehr einer
@@ -2777,6 +2851,7 @@ Bedienstete oder zu schützende Vermögenswerte sicherstellen. Die §§
 
 
 ##### § 60 Betreten und Durchsuchen von Wohnungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006100000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 eine Wohnung ohne Einwilligung des
@@ -2837,6 +2912,7 @@ und Ort der Durchsuchung schriftlich zu bestätigen.
 
 
 ##### § 61 Gewahrsam
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006200000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den
 Voraussetzungen des § 53 Absatz 1 eine Person in Gewahrsam nehmen,
@@ -2857,6 +2933,7 @@ Absatz 2 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ##### § 62 Besondere Mittel der Datenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006300000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unbeschadet der
 Absätze 2 bis 6 unter den Voraussetzungen des § 53 Absatz 1 verdeckte
@@ -2921,9 +2998,11 @@ die in Absatz 5 genannten Zwecke noch benötigt.
 
 
 #### Unterabschnitt 6 - Sicherung der Behörden des Zollfahndungsdienstes und behördlicher Eigenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001400000)
 
 
 ##### § 63 Behördlicher Eigenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006400000)
 
 Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer
 Aufgaben nach § 6 Absatz 1 die erforderlichen Maßnahmen treffen, um
@@ -2933,6 +3012,7 @@ bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ##### § 64 Sicherheitsüberprüfung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006500000)
 
 Für Personen, die für die Behörden des Zollfahndungsdienstes tätig
 werden sollen, ist eine einfache Sicherheitsüberprüfung nach dem
@@ -2942,9 +3022,11 @@ Tätigkeit dies zulassen.
 
 
 #### Unterabschnitt 7 - Datenübermittlung durch die Behörden des Zollfahndungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001500000)
 
 
 ##### § 65 Datenübermittlung im innerstaatlichen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006601123)
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene
 Daten an andere Dienststellen der Zollverwaltung übermitteln, soweit
@@ -3077,6 +3159,7 @@ ist unzulässig.
 
 
 ##### § 66 Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006700000)
 
 (1) Für die Übermittlung von personenbezogenen Daten an
 
@@ -3112,6 +3195,7 @@ Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
 
 ##### § 67 Datenübermittlung im internationalen Bereich
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006800000)
 
 (1) Die Behörden des Zollfahndungsdienstes können unter Beachtung der
 §§ 78 bis 80 des Bundesdatenschutzgesetzes an Zoll-, Polizei- und
@@ -3186,6 +3270,7 @@ mitzuteilen.
 
 
 ##### § 68 Übermittlungsverbote und Verweigerungsgründe
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE006900000)
 
 (1) Die Übermittlung personenbezogener Daten nach diesem
 Unterabschnitt unterbleibt, wenn
@@ -3238,9 +3323,11 @@ hinaus, wenn
 
 
 #### Unterabschnitt 8 - Ergänzende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001600000)
 
 
 ##### § 69 Unterstützung durch andere Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007000000)
 
 (1) Bedienstete der Hauptzollämter und der Steuerfahndung der
 Landesfinanzverwaltung, die mit Vollzugsaufgaben betraut sind, sowie
@@ -3259,6 +3346,7 @@ unterliegen insoweit der Weisung dieser Behörde.
 
 
 ##### § 70 Unterstützung anderer Behörden
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007100000)
 
 (1) Vollzugsbeamte des Zollfahndungsdienstes dürfen im
 Zuständigkeitsbereich eines Landes tätig werden, soweit das jeweilige
@@ -3278,12 +3366,15 @@ Gesetz.
 
 
 ### Abschnitt 3 - Besondere Befugnisse des Zollkriminalamtes
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001700000)
 
 
 #### Unterabschnitt 1 - Allgemeine Maßnahmen zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001800000)
 
 
 ##### § 71 Auskunftspflicht im Außenwirtschaftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007200000)
 
 Zur Abwehr einer im Einzelfall bestehenden Gefahr für die in § 4
 Absatz 1 des Außenwirtschaftsgesetzes genannten Rechtsgüter ist § 9
@@ -3295,9 +3386,11 @@ herauszugeben.
 
 
 #### Unterabschnitt 2 - Besondere Maßnahmen zur Gefahrenabwehr
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG001900000)
 
 
 ##### § 72 Überwachung der Telekommunikation sowie des Brief- und Postverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007301123)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 4
 Absatz 2 ohne Wissen der betroffenen Person dem Brief- oder
@@ -3523,6 +3616,7 @@ Satz 1 Nummer 4 entsprechend.
 
 
 ##### § 73 Kernbereich privater Lebensgestaltung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007400000)
 
 (1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch
 eine Überwachung der Telekommunikation nach § 72 Absatz 1, 2, 3 oder
@@ -3574,6 +3668,7 @@ Kernbereich privater Lebensgestaltung dürfen nicht verwertet werden.
 
 
 ##### § 74 Gerichtliche Anordnung und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007500000)
 
 (1) Maßnahmen nach § 72 Absatz 1, 2, 3 oder Absatz 4 bedürfen einer
 gerichtlichen Anordnung. Die Anordnung ergeht auf Antrag der Leitung
@@ -3687,6 +3782,7 @@ Absatz 4 sowie § 48 Absatz 3 entsprechend.
 
 
 ##### § 75 Verarbeitungs- und Durchführungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007600000)
 
 (1) Die angeordnete Telekommunikations-, Brief- und Postüberwachung
 nach § 72 Absatz 1, 2, 3 oder Absatz 4 ist durch das Zollkriminalamt
@@ -3796,6 +3892,7 @@ mehr verarbeitet werden und sind ebenfalls unverzüglich zu löschen.
 
 
 ##### § 76 Übermittlung von personenbezogenen Daten durch das Zollkriminalamt
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007700000)
 
 (1) Das Zollkriminalamt kann die von ihm nach § 72 Absatz 1, 2, 3 oder
 Absatz 4 erhobenen personenbezogenen Daten zur Verhütung von
@@ -3978,6 +4075,7 @@ Stelle, an die die Daten übermittelt werden, darauf hinzuweisen, dass
 
 
 ##### § 77 Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007805123)
 
 (1) Das Zollkriminalamt kann unter den Voraussetzungen des § 72 Absatz
 1, 2 oder Absatz 4 auch ohne Wissen des Betroffenen Verkehrsdaten (§§
@@ -4010,6 +4108,7 @@ andere Weise aussichtslos oder wesentlich erschwert wäre.
 
 
 ##### § 78 Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE007900000)
 
 (1) Das Zollkriminalamt kann unter den Voraussetzungen des § 72 Absatz
 1, 2 oder Absatz 4 durch technische Mittel Folgendes ermitteln:
@@ -4046,6 +4145,7 @@ unverzüglich mitzuteilen.
 
 
 ##### § 79 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008000000)
 
 Werden Maßnahmen nach den §§ 72, 77 oder § 78 vorgenommen, so darf
 diese Tatsache von Personen, die geschäftsmäßig Post- oder
@@ -4054,6 +4154,7 @@ Dienste mitwirken, anderen nicht mitgeteilt werden.
 
 
 ##### § 80 Unterrichtung des Deutschen Bundestages
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008100000)
 
 Das Bundesministerium der Finanzen unterrichtet in Abständen von
 höchstens sechs Monaten ein Gremium, das aus neun vom Deutschen
@@ -4067,9 +4168,11 @@ zu berichten.
 
 
 #### Unterabschnitt 3 - Zeugenschutz
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002000000)
 
 
 ##### § 81 Zeugenschutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008200000)
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgabe nach § 7
 Absatz 2, soweit nicht dieses Gesetz oder das Zeugenschutz-
@@ -4106,9 +4209,11 @@ herzustellen.
 
 
 ### Abschnitt 4 - Verfahrensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002100000)
 
 
 #### § 82 Schutz zeugnisverweigerungsberechtigter Berufsgeheimnisträger
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008300000)
 
 (1) Maßnahmen nach diesem Kapitel, die sich gegen eine in § 53 Absatz
 1 Satz 1 Nummer 1 bis 3 oder Nummer 4 der Strafprozessordnung genannte
@@ -4150,6 +4255,7 @@ Gefahr verantwortlich ist.
 
 
 #### § 83 Ausschluss der aufschiebenden Wirkung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008400000)
 
 Widerspruch und Anfechtungsklage gegen unaufschiebbare Anordnungen und
 Maßnahmen nach diesem Gesetz, deren gerichtliche Überprüfung den
@@ -4158,12 +4264,15 @@ aufschiebende Wirkung.
 
 
 ## Kapitel 4 - Datenschutz und Datensicherheit
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002200000)
 
 
 ### Abschnitt 1 - Datenschutzaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002300000)
 
 
 #### § 84 Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008500000)
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit führt mindestens alle zwei Jahre Kontrollen der
@@ -4192,9 +4301,11 @@ Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
 
 ### Abschnitt 2 - Datenschutzbeauftragte oder Datenschutzbeauftragter
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002400000)
 
 
 #### § 85 Benennung der oder des Datenschutzbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008600000)
 
 (1) Die Generalzolldirektion benennt im Einvernehmen mit dem
 Bundesministerium der Finanzen schriftlich eine oder einen für das
@@ -4214,6 +4325,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen herzustellen.
 
 
 #### § 86 Aufgaben der oder des Datenschutzbeauftragten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008700000)
 
 (1) Die oder der in § 85 Absatz 1 genannte Datenschutzbeauftragte
 arbeitet mit den in § 71 Absatz 1 des Bundeskriminalamtgesetzes und in
@@ -4232,6 +4344,7 @@ Abgabenordnung, unterliegen.
 
 
 #### § 87 Stellung der oder des Datenschutzbeauftragten und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008800000)
 
 (1) Die oder der in § 85 Absatz 1 genannte Datenschutzbeauftragte ist
 der Leitung der Generalzolldirektion unmittelbar unterstellt. Satz 1
@@ -4252,9 +4365,11 @@ Generalzolldirektion entscheidet das Bundesministerium der Finanzen.
 
 
 ### Abschnitt 3 - Datenschutzrechtliche Verantwortung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002500000)
 
 
 #### § 88 Datenschutzrechtliche Verantwortung im Zollfahndungsinformationssystem
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE008900000)
 
 (1) Das Zollkriminalamt hat die Einhaltung der Regelungen zur Führung
 des Zollfahndungsinformationssystems zu überwachen.
@@ -4278,6 +4393,7 @@ Empfänger.
 
 
 #### § 89 Datenschutzrechtliche Verantwortung für die Tätigkeit der den deutschen Auslandsvertretungen zugeordneten Zollverbindungsbeamtinnen und Zollverbindungsbeamten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009000000)
 
 Die datenschutzrechtliche Verantwortung für die Tätigkeit der
 Zollverbindungsbeamtinnen und Zollverbindungsbeamten, die den
@@ -4286,9 +4402,11 @@ Zollkriminalamt.
 
 
 ### Abschnitt 4 - Errichtungsanordnung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002600000)
 
 
 #### § 90 Errichtungsanordnung für automatisierte Dateisysteme
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009100000)
 
 (1) Das Zollkriminalamt hat für automatisierte Dateisysteme, die die
 Behörden des Zollfahndungsdienstes zur Verarbeitung personenbezogener
@@ -4345,9 +4463,11 @@ oder Änderung der Verarbeitungen zu überprüfen.
 
 
 ### Abschnitt 5 - Pflichten des Zollfahndungsdienstes
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002700000)
 
 
 #### § 91 Protokollierung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009200000)
 
 (1) Die Protokollierung nach § 76 des Bundesdatenschutzgesetzes
 erfolgt zu Verarbeitungsvorgängen im Zollfahndungsinformationssystem
@@ -4376,6 +4496,7 @@ löschen.
 
 
 #### § 92 Dokumentation bei verdeckten Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009300000)
 
 (1) Bei der Erhebung von Daten nach den §§ 47, 62, 72, 77 und 78 sind
 zu dokumentieren:
@@ -4502,6 +4623,7 @@ Satz 1 genannten Zweck noch erforderlich sind.
 
 
 #### § 93 Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009402123)
 
 (1) Über eine Maßnahme sind zu benachrichtigen im Falle
 
@@ -4636,6 +4758,7 @@ Gegen die Entscheidung ist die sofortige Beschwerde statthaft.
 
 
 #### § 94 Benachrichtigung bei Ausschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009500000)
 
 (1) Ist eine Ausschreibung zur Feststellung und Unterrichtung oder zur
 verdeckten Registrierung nach
@@ -4687,6 +4810,7 @@ freiwilligen Gerichtsbarkeit finden entsprechende Anwendung.
 
 
 #### § 95 Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009600000)
 
 Werden personenbezogene Daten von Kindern, die ohne Kenntnis der
 Sorgeberechtigten erhoben worden sind, gespeichert, sind die
@@ -4698,6 +4822,7 @@ obliegt der dateneingebenden Stelle.
 
 
 #### § 96 Aussonderungsprüffrist, Mitteilung von Löschungsverpflichtungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009701123)
 
 (1) Die Behörden des Zollfahndungsdienstes prüfen nach § 75 des
 Bundesdatenschutzgesetzes bei der Einzelfallbearbeitung und nach
@@ -4787,6 +4912,7 @@ und hierfür zu beachtende Fristen bleiben unberührt.
 
 
 #### § 97 Berichtigung personenbezogener Daten, Einschränkung der Verarbeitung in Akten, Vernichtung von Akten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009800000)
 
 (1) Stellen die Behörden des Zollfahndungsdienstes die Unrichtigkeit
 personenbezogener Daten in Akten fest, ist die in § 75 Absatz 1 des
@@ -4849,6 +4975,7 @@ deren Vernichtung und hierfür zu beachtende Fristen bleiben unberührt.
 
 
 #### § 98 Verzeichnis von Verarbeitungstätigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE009900000)
 
 Das Zollkriminalamt stellt zentral ein Verzeichnis nach § 70 des
 Bundesdatenschutzgesetzes über Kategorien von Verarbeitungstätigkeiten
@@ -4857,6 +4984,7 @@ Verfügung.
 
 
 #### § 99 Automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010000000)
 
 (1) Das Zollkriminalamt und die sonst beteiligten Stellen haben bei
 einem nach § 21 Absatz 5 eingerichteten automatisierten Abrufverfahren
@@ -4911,9 +5039,11 @@ eines Entgelts, abrufen kann.
 
 
 ### Abschnitt 6 - Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002800000)
 
 
 #### § 100 Rechte der betroffenen Person
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010100000)
 
 Über die in den §§ 56 bis 58 des Bundesdatenschutzgesetzes enthaltenen
 Rechte der betroffenen Personen hinaus gelten für die Verarbeitung
@@ -4929,9 +5059,11 @@ Zollfahndungsdienstes verarbeitet werden.
 
 
 ## Kapitel 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNG002900000)
 
 
 ### § 101 Entschädigung für Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010201123)
 
 Die Behörden des Zollfahndungsdienstes haben denjenigen, die
 geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder an
@@ -4945,6 +5077,7 @@ Anwendung.
 
 
 ### § 102 Schadensausgleich
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010300000)
 
 Erleidet jemand bei der Erfüllung der Aufgaben der Behörden des
 Zollfahndungsdienstes nach § 7 sowie bei einer Inanspruchnahme nach §
@@ -4953,6 +5086,7 @@ entsprechend.
 
 
 ### § 103 Schadensersatz in Informationssystemen
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010400000)
 
 (1) Bei der Datenverarbeitung in den Informationssystemen der Behörden
 des Zollfahndungsdienstes gilt das Zollkriminalamt gegenüber einer
@@ -4966,6 +5100,7 @@ einer anderen Stelle zuzurechnen ist.
 
 
 ### § 104 Einschränkung von Grundrechten
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010500000)
 
 Die Grundrechte auf körperliche Unversehrtheit (Artikel 2 Absatz 2
 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2
@@ -4977,12 +5112,14 @@ Gesetzes eingeschränkt.
 
 
 ### § 105 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010600000)
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 79 eine Mitteilung macht.
 
 
 ### § 106 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010701123)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -5046,6 +5183,7 @@ Gesetzes über Ordnungswidrigkeiten ist in Fällen des Absatzes 1 Nummer
 
 
 ### § 107 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010800000)
 
 Die Landesregierungen werden ermächtigt, die Zuständigkeit des
 Amtsgerichts nach
@@ -5073,6 +5211,7 @@ die Landesjustizverwaltungen übertragen.
 
 
 ### § 108 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/zfdg_2021/BJNR040210021.html#BJNR040210021BJNE010900000)
 
 (1) Für automatisierte Dateisysteme, die vor dem 6. Mai 2016
 eingerichtet worden sind, ist § 11 Absatz 4 Satz 1 bis 3 des

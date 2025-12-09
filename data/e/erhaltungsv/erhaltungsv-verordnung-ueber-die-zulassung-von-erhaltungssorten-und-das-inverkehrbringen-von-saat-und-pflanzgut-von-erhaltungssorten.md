@@ -28,6 +28,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000101377)
 
 Die Vorschriften dieser Verordnung gelten für die Zulassung von
 Erhaltungssorten und das Inverkehrbringen von Saatgut von
@@ -39,6 +40,7 @@ Zierpflanzenarten und Obstarten.
 
 
 ## § 2 Voraussetzungen für die Zulassung als Erhaltungssorte
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000201377)
 
 (1) Eine Sorte wird als Erhaltungssorte zugelassen, wenn
 
@@ -211,6 +213,7 @@ kontrolliert wird“ eingetragen.
 
 
 ## § 3 Feststellung des landeskulturellen Wertes
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000300000)
 
 Abweichend von § 34 des Saatgutverkehrsgesetzes hat eine
 Erhaltungssorte einen landeskulturellen Wert, wenn sie hinsichtlich
@@ -220,6 +223,7 @@ Verringerung der genetischen Vielfalt droht.
 
 
 ## § 4 Antrag auf Zulassung einer Erhaltungssorte
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000401377)
 
 (1) Der Antragsteller hat mit dem Antrag auf Zulassung einer
 Erhaltungssorte beim Bundessortenamt folgende Angaben zu machen und
@@ -267,6 +271,7 @@ Vordrucke des Bundessortenamtes zu verwenden.
 
 
 ## § 5 Anforderungen an das Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000502360)
 
 (1) Abweichend von § 3 Absatz 1 Satz 1 Nummer 1 des
 Saatgutverkehrsgesetzes darf Saatgut zugelassener Erhaltungssorten
@@ -368,6 +373,7 @@ Kartoffeln keine Anwendung.
 
 
 ## § 6 Beschränkung des Inverkehrbringens
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000601377)
 
 (1) Das Bundessortenamt setzt die Höchstmenge des je Erhaltungssorte
 und Jahr zum Inverkehrbringen zugelassenen Saatgutes derart fest, dass
@@ -454,6 +460,7 @@ mitzuteilen.
 
 
 ## § 7 Zusätzliche Region für das Inverkehrbringen von Saatgut
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000700000)
 
 Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche
 Region für das Inverkehrbringen von Saatgut benennen, in der die
@@ -467,6 +474,7 @@ dass die Erhaltung der Sorte im Ursprungsgebiet sichergestellt ist.
 
 
 ## § 8 Verpackung und Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000801377)
 
 (1) Für Packungen mit Saatgut von Amateursorten gelten die in Anhang
 II der Richtlinie
@@ -486,6 +494,7 @@ Saatgutes verwechselbar sein.
 
 
 ## § 9 Kennzeichnung
+[Direktlink](https://www.gesetze-im-internet.de/erhaltungsv/BJNR210710009.html#BJNR210710009BJNE000903119)
 
 Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr
 gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck

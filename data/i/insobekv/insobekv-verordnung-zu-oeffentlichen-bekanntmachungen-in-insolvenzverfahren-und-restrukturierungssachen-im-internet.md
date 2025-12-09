@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000000000)
 
 Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der
 Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), der durch
@@ -29,6 +30,7 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
 ## § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000103125)
 
 Öffentliche Bekanntmachungen in Insolvenzverfahren im Internet haben
 den Anforderungen dieser Verordnung zu entsprechen. Die
@@ -41,6 +43,7 @@ nachfolgenden Vorschriften nichts Abweichendes geregelt ist.
 
 
 ## § 2 Datensicherheit, Schutz vor Missbrauch
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000203125)
 
 (1) Durch geeignete technische und organisatorische Maßnahmen ist
 sicherzustellen, dass die Daten
@@ -86,6 +89,7 @@ Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
 
 
 ## § 3 Löschungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000302125)
 
 (1) Die in einem elektronischen Informations- und Kommunikationssystem
 erfolgte Veröffentlichung von Daten aus einem Insolvenzverfahren
@@ -111,6 +115,7 @@ Stabilisierungsanordnungen nach dem Ende ihrer Wirkungsdauer gelöscht.
 
 
 ## § 4 Einsichtsrecht
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000401301)
 
 Die Insolvenzgerichte haben sicherzustellen, dass jedermann von den
 öffentlichen Bekanntmachungen in angemessenem Umfang unentgeltlich
@@ -118,12 +123,14 @@ Kenntnis nehmen kann.
 
 
 ## § 4a Anwendbares Recht
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000700310)
 
 Die §§ 2 bis 4 gelten entsprechend für den Datenabruf über das
 Unternehmensregister (§ 8b des Handelsgesetzbuchs).
 
 
 ## § 5 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000501125)
 
 Für öffentliche Bekanntmachungen in Insolvenzverfahren, die vor dem
 26\. Juni 2018 eröffnet oder vor dem 26. Juni 2018 mangels Masse
@@ -135,6 +142,7 @@ Erledigung gefunden hat.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/insobekv/BJNR067700002.html#BJNR067700002BJNE000600000)
 
 Der Bundesrat hat zugestimmt.
 

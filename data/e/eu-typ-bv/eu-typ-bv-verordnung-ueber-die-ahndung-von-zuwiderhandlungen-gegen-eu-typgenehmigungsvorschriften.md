@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000100000)
 
 Auf Grund des § 24 Absatz 2 Satz 2 des Straßenverkehrsgesetzes in der
 Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919) in
@@ -29,6 +30,7 @@ Bundesministerium für Digitales und Verkehr:
 
 
 ## § 1 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 167/2013
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000200000)
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2
 Buchstabe a des Straßenverkehrsgesetzes handelt, wer gegen die
@@ -202,6 +204,7 @@ Einheit den dort genannten Anforderungen entspricht.
 
 
 ## § 2 Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 168/2013
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000300000)
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2
 Buchstabe a des Straßenverkehrsgesetzes handelt, wer gegen die
@@ -383,6 +386,7 @@ die dort genannten Anforderungen erfüllt.
 
 
 ## § 3 Ordnungswidrigkeiten nach der Delegierten Verordnung (EU) Nr. 44/2014
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000400000)
 
 Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2 Buchstabe a
 des Straßenverkehrsgesetzes handelt, wer gegen die die Delegierte
@@ -407,6 +411,7 @@ fahrlässig
 
 
 ## § 4 Ordnungswidrigkeiten nach der Delegierten Verordnung (EU) Nr. 1322/2014
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000500000)
 
 Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2 Buchstabe a
 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -416,6 +421,7 @@ gestattet oder eine Information nicht bereitstellt.
 
 
 ## § 5 Ordnungswidrigkeiten nach der Verordnung (EU) 2018/858
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000600000)
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 2 Satz 1 Nummer 2
 Buchstabe a des Straßenverkehrsgesetzes handelt, wer gegen die
@@ -626,6 +632,7 @@ entspricht.
 
 
 ## § 6 Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000700000)
 
 Verweisungen in dieser Verordnung auf Vorschriften in Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union beziehen sich
@@ -633,12 +640,14 @@ auf die in der Anlage 3 angegebenen Fassungen.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 1 Absatz 1 Nummer 3, Absatz 3 Nummer 1)
 
 ## Anlage 1 Aufstellung der Anforderungen im Sinne des Anhanges I der Verordnung (EU) 167/2013 an Fahrzeuge, Systeme, Bauteile und selbstständige technische Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE000900000)
 
 (Fundstelle: BGBl. 2023 I Nr. 78, S. 7 - 9)
 
@@ -1267,6 +1276,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
    (zu § 5 Absatz 1 Nummer 3, Absatz 3 Nummer 1 und 7)
 
 ## Anlage 2 Aufstellung der Anforderungen im Sinne des Anhanges II der Verordnung (EU) 2018/858 an Fahrzeuge, Systeme, Bauteile und selbstständige technische Einheiten
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE001000000)
 
 (Fundstelle: BGBl. 2023 I Nr. 78, S. 10)
 
@@ -1381,6 +1391,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 (zu § 6)
 
 ## Anlage 3 Fundstellenverzeichnis der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/eu-typ-bv/BJNR04E0A0023.html#BJNR04E0A0023BJNE001100000)
 
 (Fundstelle: BGBl. 2023 I Nr. 78, S. 11 - 12)
 

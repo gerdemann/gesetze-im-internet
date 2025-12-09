@@ -26,6 +26,7 @@ Stand: Ersetzt V 806-21-1-315 v. 21.7.2003 I 1512 (FahrzIAAusbV)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes in der Fassung
 der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) verordnet das
@@ -34,9 +35,11 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000300000)
 
 Der Ausbildungsberuf des Fahrzeuginterieur-Mechanikers und der
 Fahrzeuginterieur-Mechanikerin wird nach § 4 Absatz 1 des
@@ -44,11 +47,13 @@ Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage, Abschnitt A und B) genannten
@@ -67,6 +72,7 @@ Kontrollieren ein.
 
 
 ### § 4 Struktur der Berufsausbildung, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000600000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -141,6 +147,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000700000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -148,9 +155,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNG000200000)
 
 
 ### § 6 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000800000)
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
@@ -160,6 +169,7 @@ die zuständige Stelle fest.
 
 
 ### § 7 Inhalt von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE000900000)
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -176,6 +186,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 
 ### § 8 Prüfungsbereich von Teil 1
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001000000)
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Herstellen
 eines Fahrzeuginterieurteils statt.
@@ -249,6 +260,7 @@ die schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
 
 
 ### § 9 Inhalt von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001100000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -270,6 +282,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 10 Prüfungsbereiche von Teil 2
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001200000)
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -290,6 +303,7 @@ statt:
 
 
 ### § 11 Prüfungsbereich Montageauftrag
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001300000)
 
 (1) Im Prüfungsbereich Montageauftrag hat der Prüfling nachzuweisen,
 dass er in der Lage ist,
@@ -352,6 +366,7 @@ entfallen auf das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
 ### § 12 Prüfungsbereich Auftrags- und Fertigungssteuerung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001400000)
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungssteuerung hat der
 Prüfling nachzuweisen, dass er in der Lage ist,
@@ -395,6 +410,7 @@ Prüfling nachzuweisen, dass er in der Lage ist,
 
 
 ### § 13 Prüfungsbereich Interieurtechnologien
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001500000)
 
 (1) Im Prüfungsbereich Interieurtechnologien hat der Prüfling
 nachzuweisen, dass er in der Lage ist,
@@ -437,6 +453,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 14 Prüfungsbereich Wirtschafts- und Sozialkunde
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001600000)
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -450,6 +467,7 @@ die Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001700000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -512,6 +530,7 @@ auch unter Berücksichtigung einer mündlichen Ergänzungsprüfung nach §
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001800000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche
 Ergänzungsprüfung beantragen.
@@ -552,9 +571,11 @@ Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## Abschnitt 3 - Zusatzqualifikation Additive Fertigungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNG000300000)
 
 
 ### § 17 Inhalt der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE001900000)
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die
 Ausbildung in der Zusatzqualifikation Additive Fertigungsverfahren
@@ -565,6 +586,7 @@ Abschnitt C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 
 ### § 18 Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE002000000)
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der
 Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
@@ -592,6 +614,7 @@ nachzuweisen, dass er in der Lage ist,
 
 
 ### § 19 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE002100000)
 
 (1) In der Prüfung wird mit dem Prüfling zur Zusatzqualifikation
 Additive Fertigung ein fallbezogenes Fachgespräch geführt.
@@ -629,9 +652,11 @@ bewertet worden ist.
 
 
 ## Abschnitt 4 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNG000400000)
 
 
 ### § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE002200000)
 
 Diese Verordnung tritt am 1. August 2021 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum
@@ -641,6 +666,7 @@ Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin vom 21. Juli
 (zu § 3)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginterieur-Mechaniker und zur Fahrzeuginterieur-Mechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/fintmechausbv/BJNR216600020.html#BJNR216600020BJNE002300000)
 
 (Fundstelle: BGBl. I 2020, 2171 - 2177)
 

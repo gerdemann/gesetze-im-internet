@@ -19,12 +19,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000100320)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 Zustimmung zu dem Übereinkommen zur Errichtung der Welthandelsorganisation
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000200320)
 
 Dem in Marrakesch am 15. April 1994 unterzeichneten Übereinkommen zur
 Errichtung der Welthandelsorganisation einschließlich der Schlußakte
@@ -67,11 +69,13 @@ veröffentlicht.
 
 
 ## (XXXX) Art 2 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000300320)
 
 -
 
 
 ## Art 7 Steuerliche Privilegien
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000400320)
 
 Für die Gewährung steuer- und zollrechtlicher Vorrechte und
 Befreiungen an die Welthandelsorganisation, ihre Beamten und die
@@ -86,11 +90,13 @@ können.
 
 
 ## (XXXX) Art 8 und 9
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000500320)
 
 -
 
 
 ## Art 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wto_bkg/BJNR143820994.html#BJNR143820994BJNE000600320)
 
 (1) Die Artikel 1, 4, 8 und 9 treten am Tage nach ihrer Verkündung in
 Kraft, die Artikel 2, 3 und 5 bis 7 treten an dem Tag in Kraft, an dem

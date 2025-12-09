@@ -20,54 +20,66 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNE004100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Erster Teil - Ergänzung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000100307)
 
 
 
 ### Art 1 - Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000200307)
 
 
 
 ## Zweiter Teil - Änderung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000300307)
 
 
 
 ### Art 2 bis 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000400307)
 
 
 
 ## Dritter Teil - Änderung weiterer Gesetze
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000500307)
 
 
 
 ### Art 6 bis 21 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000600307)
 
 
 
 ### Art 22 - Regelung für Amtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000800307)
 
 Für die Empfänger von Amtsbezügen des Bundes gilt § 3a des
 Bundesbesoldungsgesetzes sinngemäß.
 
 
 ### Art 23 bis 35 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG000900307)
 
 
 
 ## Vierter Teil - Überleitungsvorschriften zu den Artikeln 1 bis 35
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001000307)
 
 
 
 ### Art 36 bis 38 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001100307)
 
 
 
 ### Art 39 - Rückkehr zum einheitlichen Verordnungsrang
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001300307)
 
 Die auf den Artikeln 36 bis 38 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
@@ -75,6 +87,7 @@ Ermächtigung durch Rechtsverordnung geändert werden.
 
 
 ### Art 40 - Familienversicherung der Behinderten
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001400307)
 
 Familienversicherung besteht auch für Behinderte, die im Zeitpunkt des
 Inkrafttretens des Gesetzes die Voraussetzungen nach § 25 Abs. 2 Nr. 4
@@ -84,6 +97,7 @@ des Eintritts der Behinderung bereits bestanden hätte.
 
 
 ### Art 41 - Übergangsregelungen für Fristen bei Wahlrechten der Versicherten
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001500307)
 
 (1) Personen, die am 1. Januar 1995 in der gesetzlichen
 Krankenversicherung freiwillig versichert sind, können sich bis zum
@@ -101,6 +115,7 @@ Abs. 2 des Elften Buches Sozialgesetzbuch auch schon vor dem 1. Januar
 
 
 ### Art 42 - Behandlung der bestehenden privaten Pflegeversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001603126)
 
 (1) Wer bei Inkrafttreten des Gesetzes bei einem privaten
 Versicherungsunternehmen gegen das Risiko der Pflegebedürftigkeit
@@ -156,16 +171,19 @@ Pflegeversicherung ein.
 
 
 ### Art 43 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001701308)
 
 -
 
 
 ### Art 44 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG001901308)
 
 -
 
 
 ### Art 45 - Bezieher von Pflegeleistungen nach den §§ 53 bis 57 des Fünften Buches Sozialgesetzbuch
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002101308)
 
 (1) Pflegebedürftige Versicherte, die bis zum 31. März 1995 Leistungen
 bei Schwerpflegebedürftigkeit nach den §§ 53 bis 57 des Fünften Buches
@@ -179,33 +197,40 @@ des Elften Buches Sozialgesetzbuch vorgesehen ist.
 
 
 ### Art 46 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002201308)
 
 -
 
 
 ### Art 47 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002401308)
 
 -
 
 
 ### Art 48 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002501308)
 
 -
 
 
 ### Art 49 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002602119)
 
 
 
 ### Art 49a - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG004301119)
 
 
 
 ### Art 49b - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG004601119)
 
 
 
 ### Art 50 - Übergangsregelung zum Bundessozialhilfegesetz, Bundesversorgungsgesetz und Lastenausgleichsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002701308)
 
 (1) Die Regelung in § 69 Abs. 3 Satz 4 des Bundessozialhilfegesetzes,
 wonach die Geldleistung nach § 57 des Fünften Buches Sozialgesetzbuch
@@ -250,6 +275,7 @@ getragen hat.
 
 
 ### Art 51 - Pflegegeld nach dem Bundessozialhilfegesetz
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG002903308)
 
 (1) Personen, die am 31. März 1995 Pflegegeld nach § 69
 Bundessozialhilfegesetzes in der bis zum 31. März 1995 geltenden
@@ -326,6 +352,7 @@ April 1995 zu ersetzen.
 
 
 ### Art 52 - Finanzhilfen für Investitionen in Pflegeeinrichtungen im Beitrittsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003003308)
 
 (1) Zur zügigen und nachhaltigen Verbesserung der Qualität der
 ambulanten, teilstationären und stationären Versorgung der Bevölkerung
@@ -403,30 +430,37 @@ Verfahren nachzuweisen.
 
 
 ### Art 52a - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG004201119)
 
 
 
 ## Fünfter Teil - Änderung der Entgeltfortzahlung an Feiertagen und im Krankheitsfall
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003100307)
 
 
 
 ### Art 53 - Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall (Entgeltfortzahlungsgesetz)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003200307)
 
 
 
 ### Art 54 bis 61 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003300307)
 
 
 
 ### Art 62 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003400307)
 
 
 
 ### Art 63 bis 65 - 
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003500307)
 
 
 
 ### Art 66 - Unanwendbarkeit von Maßgaben
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG004100308)
 
 Die in Anlage I Kapitel VIII Sachgebiet A Abschnitt III Nr. 4 des
 Einigungsvertrages vom 31. August 1990 in Verbindung mit Art. 1 des
@@ -435,10 +469,12 @@ aufgeführte Maßgabe ist nicht mehr anzuwenden.
 
 
 ## Sechster Teil - Überleitungsvorschriften zu Artikel 5 Nr. 5 und zu den Artikel 53 bis 66
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003600307)
 
 
 
 ### Art 67 - Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003700307)
 
 (1) Ist der Arbeitnehmer im Zeitpunkt des Inkrafttretens des Artikels
 5 Nr. 5 sowie der Artikel 53 bis 66 arbeitsunfähig oder befindet er
@@ -461,10 +497,12 @@ entsprechenden Vorschriften oder Bezeichnungen dieses Gesetzes.
 
 
 ## Siebter Teil - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003800307)
 
 
 
 ### Art 68 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG003902308)
 
 (1) Dieses Gesetz tritt am 1. Januar 1995 in Kraft, soweit in den
 Absätzen 2 bis 4 nichts Abweichendes bestimmt ist.
@@ -486,6 +524,7 @@ Artikel 1 § 46 Abs. 1, 2, 5 und 6, §§ 47, 52, 53, 93 bis 108, Artikel
 
 
 ### Art 69 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/pflegevg/BJNR101409994.html#BJNR101409994BJNG004001308)
 
 -
 

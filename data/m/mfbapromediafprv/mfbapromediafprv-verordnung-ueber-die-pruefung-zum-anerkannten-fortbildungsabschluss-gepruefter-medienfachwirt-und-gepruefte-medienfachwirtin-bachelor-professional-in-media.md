@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-63 v. 27.11.2019 I 1963 (MFFPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000100000)
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§
 53a und 53c des Berufsbildungsgesetzes in der Fassung der
@@ -29,9 +30,11 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000300000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss „Geprüfter Medienfachwirt-Bachelor Professional
@@ -127,6 +130,7 @@ Medienfachwirt“ oder „Geprüfte Medienfachwirtin“ vorangestellt.
 
 
 ### § 2 Teile des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000400000)
 
 Für den anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt-
 Bachelor Professional in Media oder Geprüfte Medienfachwirtin-Bachelor
@@ -144,6 +148,7 @@ Professional in Media ist Folgendes erforderlich:
 
 
 ### § 3 Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000500000)
 
 (1) Der Erwerb der berufs- und arbeitspädagogischen Qualifikationen
 ist von der zu prüfenden Person nachzuweisen durch
@@ -165,6 +170,7 @@ Prüfung nach § 2 Nummer 1 vorzulegen.
 
 
 ### § 4 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000600000)
 
 Die Prüfung nach § 2 Nummer 1 gliedert sich in zwei aufeinander
 aufbauende Prüfungsteile:
@@ -179,6 +185,7 @@ aufbauende Prüfungsteile:
 
 
 ### § 5 Voraussetzungen für die Zulassung zur Prüfung in den Prüfungsteilen
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000700000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -222,9 +229,11 @@ vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
 
 ## Abschnitt 2 - Prüfungsteil „Grundlegende Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNG000200000)
 
 
 ### § 6 Prüfungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000800000)
 
 Im Prüfungsteil „Grundlegende Qualifikationen“ werden folgende
 Prüfungsbereiche geprüft:
@@ -246,6 +255,7 @@ Prüfungsbereiche geprüft:
 
 
 ### § 7 Prüfungsaufgaben, Bearbeitungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE000900000)
 
 (1) Der zu prüfenden Person werden anwendungsbezogene Aufgaben
 gestellt. Sie hat die Aufgaben schriftlich unter Aufsicht zu
@@ -257,6 +267,7 @@ betragen; sie soll je Prüfungsbereich mindestens 90 Minuten betragen.
 
 
 ### § 8 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001000000)
 
 (1) Die zu prüfende Person kann in höchstens einem der
 Prüfungsbereiche nach § 6 eine mündliche Ergänzungsprüfung beantragen.
@@ -287,6 +298,7 @@ Ergebnisses für den Prüfungsbereich im Verhältnis 2 : 1 zu gewichten.
 
 
 ### § 9 Prüfungsbereich „Rechtsbewusstes Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001100000)
 
 (1) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die zu prüfende
 Person nachweisen, dass sie in der Lage ist, einschlägige
@@ -336,6 +348,7 @@ werden:
 
 
 ### § 10 Prüfungsbereich „Betriebswirtschaftliches Handeln“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001200000)
 
 (1) Im Prüfungsbereich „Betriebswirtschaftliches Handeln“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist,
@@ -373,6 +386,7 @@ werden:
 
 
 ### § 11 Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001300000)
 
 (1) Im Prüfungsbereich „Anwenden von Methoden der Information,
 Kommunikation und Planung“ soll die zu prüfende Person nachweisen,
@@ -412,6 +426,7 @@ werden:
 
 
 ### § 12 Prüfungsbereich „Zusammenarbeit im Betrieb“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001400000)
 
 (1) Im Prüfungsbereich „Zusammenarbeit im Betrieb“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist, Zusammenhänge
@@ -460,9 +475,11 @@ werden:
 
 
 ## Abschnitt 3 - Prüfungsteil „Handlungsspezifische Qualifikationen“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNG000300000)
 
 
 ### § 13 Handlungsbereiche und Qualifikationsschwerpunkte
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001500000)
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst
 die folgenden Handlungsbereiche:
@@ -513,6 +530,7 @@ Qualifikationsschwerpunkte
 
 
 ### § 14 Gliederung des Prüfungsteils
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001600000)
 
 Der Prüfungsteil besteht aus
 
@@ -526,6 +544,7 @@ Der Prüfungsteil besteht aus
 
 
 ### § 15 Schriftlicher Teil
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001700000)
 
 (1) Der schriftliche Teil besteht aus
 
@@ -558,6 +577,7 @@ Stunden dauern.
 
 
 ### § 16 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001800000)
 
 (1) Die zu prüfende Person kann in höchstens einem der
 Handlungsbereiche nach § 13 Absatz 1 eine mündliche Ergänzungsprüfung
@@ -589,6 +609,7 @@ Ergebnisses für den Handlungsbereich im Verhältnis 2 : 1 zu gewichten.
 
 
 ### § 17 Situationsaufgabe aus dem Handlungsbereich „Medienproduktion“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE001900000)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich
 „Medienproduktion“ bildet der von der zu prüfenden Person nach § 13
@@ -607,6 +628,7 @@ Handlungsbereich „Führung und Organisation“ sein.
 
 
 ### § 18 Qualifikationsschwerpunkt „Produkte und Prozesse der Print- und Digitalmedienproduktion“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002000000)
 
 (1) Im Qualifikationsschwerpunkt „Produkte und Prozesse der Print- und
 Digitalmedienproduktion“ soll die zu prüfende Person nachweisen, dass
@@ -646,6 +668,7 @@ werden:
 
 
 ### § 19 Wahlpflichtqualifikationsschwerpunkt „Printmedien“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002100000)
 
 (1) Im Wahlpflichtqualifikationsschwerpunkt „Printmedien“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist,
@@ -690,6 +713,7 @@ werden:
 
 
 ### § 20 Wahlpflichtqualifikationsschwerpunkt „Digitalmedien“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002200000)
 
 (1) Im Wahlpflichtqualifikationsschwerpunkt „Digitalmedien“ soll die
 zu prüfende Person nachweisen, dass sie in der Lage ist, Gestaltungs-,
@@ -732,6 +756,7 @@ werden:
 
 
 ### § 21 Situationsaufgabe aus dem Handlungsbereich „Führung und Organisation“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002300000)
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Führung und
 Organisation“ sollen mindestens zwei der Qualifikationsschwerpunkte
@@ -750,6 +775,7 @@ Bestandteil der Situationsaufgabe aus dem Handlungsbereich
 
 
 ### § 22 Qualifikationsschwerpunkt „Personalmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002400000)
 
 (1) Im Qualifikationsschwerpunkt „Personalmanagement“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist, den
@@ -821,6 +847,7 @@ werden:
 
 
 ### § 23 Qualifikationsschwerpunkt „Vertriebs- und Geschäftsprozesse“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002500000)
 
 (1) Im Qualifikationsschwerpunkt „Vertriebs- und Geschäftsprozesse“
 soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
@@ -869,6 +896,7 @@ werden:
 
 
 ### § 24 Qualifikationsschwerpunkt „Kostenmanagement“
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002600000)
 
 (1) Im Qualifikationsschwerpunkt „Kostenmanagement“ soll die zu
 prüfende Person nachweisen, dass sie in der Lage ist,
@@ -913,6 +941,7 @@ werden:
 
 
 ### § 25 Projektarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002700000)
 
 (1) Die Projektarbeit umfasst
 
@@ -981,9 +1010,11 @@ bewertet wurde.
 
 
 ## Abschnitt 4 - Bewerten der Prüfungsleistungen, Gesamtnote, Zeugnisse und Wiederholung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNG000400000)
 
 
 ### § 26 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002800000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -996,6 +1027,7 @@ zugrunde zu legen.
 
 
 ### § 27 Bewerten der Prüfungsleistungen und der Projektarbeit
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE002900000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -1039,6 +1071,7 @@ Ergebnis ist die zusammengefasste Bewertung für die Projektarbeit.
 
 
 ### § 28 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003000000)
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
 Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
@@ -1119,6 +1152,7 @@ ist die Gesamtnote.
 
 
 ### § 29 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003100000)
 
 (1) Wer die Prüfung nach § 28 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -1146,6 +1180,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ### § 30 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003200000)
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -1174,9 +1209,11 @@ Gesamtplanung anzufertigen.
 
 
 ## Abschnitt 5 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNG000500000)
 
 
 ### § 31 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003300000)
 
 (1) Vor Ablauf des 30. Dezember 2019 angemeldete Prüfungen zum
 anerkannten Abschluss „Geprüfter Medienfachwirt/Geprüfte
@@ -1202,6 +1239,7 @@ erforderlichen Prüfungsbestandteile anzurechnen.
 
 
 ### § 32 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Medienfachwirt-Fortbildungsprüfungsverordnung
@@ -1210,6 +1248,7 @@ vom 27. November 2019 (BGBl. I S. 1963) außer Kraft.
 (zu den §§ 27 und 28)
 
 ### Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003500000)
 
 (Fundstelle: BGBl. I 2020, 2974 - 2975)
 
@@ -1512,6 +1551,7 @@ vom 27. November 2019 (BGBl. I S. 1963) außer Kraft.
 (zu § 29)
 
 ### Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/mfbapromediafprv/BJNR296500020.html#BJNR296500020BJNE003600000)
 
 (Fundstelle: BGBl. I 2020, 2976)
 

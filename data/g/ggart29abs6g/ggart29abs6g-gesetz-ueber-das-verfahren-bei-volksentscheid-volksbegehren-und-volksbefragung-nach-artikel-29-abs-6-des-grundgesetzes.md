@@ -22,10 +22,12 @@ Geändert durch
 
 
 ## Erster Abschnitt - Volksentscheid
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNG000100311)
 
 
 
 ### § 1 Gegenstand des Volksentscheides
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE000500311)
 
 Gegenstand des Volksentscheides ist das gemäß Artikel 29 Abs. 2 des
 Grundgesetzes beschlossene Gesetz über eine Maßnahme zur
@@ -35,6 +37,7 @@ umgrenzte Land gebildet werden soll.
 
 
 ### § 2 Abstimmungsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE000600311)
 
 Das Abstimmungsgebiet besteht aus den Ländern, aus deren Gebieten oder
 Gebietsteilen ein neues oder neu umgrenztes Land gebildet werden soll
@@ -51,6 +54,7 @@ jeweils einen eigenen Abstimmungsbereich bilden.
 
 
 ### § 3 Bestimmung des Abstimmungstages
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE000701311)
 
 (1) Der Bundesminister des Innern, für Bau und Heimat bestimmt den
 Abstimmungstag und gibt den Gegenstand des Volksentscheides, das
@@ -66,6 +70,7 @@ Abstimmungsbereiche und den Abstimmungstag.
 
 
 ### § 4 Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE000800311)
 
 (1) Stimmberechtigt ist, wer am Abstimmungstag zum Bundestag
 wahlberechtigt ist und seit mindestens drei Monaten im
@@ -76,6 +81,7 @@ Hauptwohnung, innehat oder sich sonst gewöhnlich aufhält.
 
 
 ### § 5 Ausübung des Stimmrechts
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE000900311)
 
 (1) Abstimmen kann nur, wer
 
@@ -113,6 +119,7 @@ persönlich ausüben.
 
 
 ### § 6 Abstimmungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001001311)
 
 (1) Abstimmungsorgane sind
 
@@ -154,6 +161,7 @@ nachweisen, nach Möglichkeit zu berücksichtigen.
 
 
 ### § 7 Anwendung von Vorschriften des Bundeswahlgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001100311)
 
 Die Vorschriften des Bundeswahlgesetzes über
 
@@ -190,6 +198,7 @@ sind entsprechend anzuwenden.
 
 
 ### § 8 Abstimmungszeit
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001200311)
 
 Die Abstimmung dauert von 8 bis 18 Uhr. Der Kreisabstimmungsleiter
 kann im Einzelfall, wenn besondere Gründe es erfordern, die
@@ -198,11 +207,13 @@ Abstimmungszeit mit einem früheren Beginn festsetzen und bis höchstens
 
 
 ### § 9 Abstimmungsgeheimnis
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001300311)
 
 Die Stimmabgabe ist geheim.
 
 
 ### § 10 Stimmabgabe
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001401311)
 
 (1) Abgestimmt wird mit amtlichen Stimmzetteln in amtlichen
 Umschlägen. Das Muster des Stimmzettels wird vom Bundesminister des
@@ -221,6 +232,7 @@ Person seines Vertrauens bedienen.
 
 
 ### § 11 Abstimmungsergebnis
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001500311)
 
 (1) Nach Beendigung der Abstimmungshandlung stellt der
 Abstimmungsvorstand das Abstimmungsergebnis im Stimmbezirk fest.
@@ -231,6 +243,7 @@ Stadt oder dem Abstimmungsbereich fest.
 
 
 ### § 12 Ungültige Stimmen
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001600311)
 
 (1) Ungültig sind Stimmen, wenn der Stimmzettel
 
@@ -306,6 +319,7 @@ Stimmrecht verliert.
 
 
 ### § 13 Entscheidung des Abstimmungsvorstandes
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001700311)
 
 Der Abstimmungsvorstand entscheidet über die Gültigkeit der
 abgegebenen Stimmen und über alle bei der Abstimmungshandlung und bei
@@ -314,6 +328,7 @@ Der Kreisabstimmungsausschuß hat das Recht der Nachprüfung.
 
 
 ### § 14 Feststellung des Abstimmungsergebnisses und des Ergebnisses des Volksentscheides
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001801311)
 
 (1) Die Abstimmungsvorsteher übermitteln das Abstimmungsergebnis dem
 Kreisabstimmungsleiter. Dieser stellt das Abstimmungsergebnis seines
@@ -364,6 +379,7 @@ Bundesverfassungsgericht erheben.
 
 
 ### § 15 Nachabstimmung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE001900311)
 
 (1) Eine Nachabstimmung findet statt, wenn die Abstimmung in einem
 Stimmbezirk nicht durchgeführt worden ist.
@@ -377,6 +393,7 @@ denselben Vorschriften wie die ausgefallene Abstimmung statt.
 
 
 ### § 16 Wiederholung der Abstimmung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002000311)
 
 (1) Wird im Prüfungsverfahren die Abstimmung ganz oder teilweise für
 ungültig erklärt, so ist sie nach Maßgabe der Entscheidung zu
@@ -394,6 +411,7 @@ der zu wiederholenden Abstimmung bestimmt der Gesamtabstimmungsleiter.
 
 
 ### § 17 Veröffentlichung des Abstimmungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002101311)
 
 Der Bundesminister des Innern, für Bau und Heimat veröffentlicht die
 Feststellung des Gesamtabstimmungsausschusses nach § 14 Abs. 2 Satz 2
@@ -401,10 +419,12 @@ im Bundesgesetzblatt und das Abstimmungsergebnis im Bundesanzeiger.
 
 
 ## Zweiter Abschnitt - Volksbegehren
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNG000200311)
 
 
 
 ### § 18 Gegenstand des Volksbegehrens
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002200311)
 
 In einem zusammenhängenden, abgegrenzten Siedlungs- und
 Wirtschaftsraum, dessen Teile in mehreren Ländern liegen und der
@@ -416,6 +436,7 @@ herbeizuführen.
 
 
 ### § 19 Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002301311)
 
 (1) Die Durchführung eines Volksbegehrens ist beim Bundesminister des
 Innern, für Bau und Heimat zu beantragen. Der Antrag muß von
@@ -432,6 +453,7 @@ aufhält.
 
 
 ### § 20 Inhalt des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002400311)
 
 Im Antrag ist anzugeben
 
@@ -449,6 +471,7 @@ nach § 25 wegzulassen.
 
 
 ### § 21 Unzulässige Anträge
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002500311)
 
 (1) Ein Antrag ist unzulässig,
 
@@ -478,6 +501,7 @@ Landeszugehörigkeit abzielt.
 
 
 ### § 22 Reihenfolge mehrerer Anträge
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002600311)
 
 (1) Werden für im wesentlichen gleiche Neugliederungsräume mehrere
 Anträge auf Durchführung von gleichgerichteten Volksbegehren gestellt,
@@ -492,6 +516,7 @@ vorrangige Antrag abgelehnt oder zurückgenommen worden ist.
 
 
 ### § 23 Vertrauensmänner
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002701311)
 
 (1) Im Antrag sind ein Vertrauensmann und ein Stellvertreter zu
 bezeichnen. Fehlt eine solche Angabe, so gilt der erste Unterzeichner
@@ -510,6 +535,7 @@ andere ersetzt werden.
 
 
 ### § 24 Entscheidung über den Zulassungsantrag
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002801311)
 
 (1) Über den Antrag entscheidet der Bundesminister des Innern, für Bau
 und Heimat innerhalb von drei Monaten nach Eingang des mängellosen
@@ -543,6 +569,7 @@ Senat.
 
 
 ### § 25 Veröffentlichung des zugelassenen Antrags
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE002901311)
 
 (1) Ist dem Antrag stattgegeben worden (§ 24 Abs. 4 und 5), so
 veröffentlicht der Bundesminister des Innern, für Bau und Heimat den
@@ -570,6 +597,7 @@ Eintragungsstunden.
 
 
 ### § 26 Änderung, Zurücknahme des Zulassungsantrags
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003001311)
 
 (1) Nach der Zulassung kann der Antrag nicht mehr geändert werden.
 
@@ -592,6 +620,7 @@ zurückgenommen werden.
 
 
 ### § 27 Eintragungsberechtigung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003100311)
 
 Eintragungsberechtigt ist, wer am letzten Tag der Eintragungsfrist zum
 Bundestag wahlberechtigt ist und seit mindestens drei Monaten in dem
@@ -601,6 +630,7 @@ aufhält.
 
 
 ### § 28 Ausübung des Eintragungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003200311)
 
 (1) Zur Eintragung ist nur zuzulassen, wer
 
@@ -623,6 +653,7 @@ eintragen.
 
 
 ### § 29 Eintragungsschein
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003300311)
 
 (1) Ein Eintragungsberechtigter, der in das
 Eintragungsberechtigtenverzeichnis eingetragen ist, erhält auf Antrag
@@ -647,6 +678,7 @@ aufgenommen worden ist, erhält auf Antrag einen Eintragungsschein.
 
 
 ### § 30 Einspruch gegen die Versagung des Eintragungsscheines und Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003400311)
 
 (1) Gegen die Versagung des Eintragungsscheines kann innerhalb von
 zwei Tagen Einspruch bei der Gemeindebehörde eingelegt werden.
@@ -659,6 +691,7 @@ Rechtsaufsichtsbehörde eingelegt werden.
 
 
 ### § 31 Eintragungsorgane
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003501311)
 
 (1) Eintragungsorgane sind
 
@@ -710,6 +743,7 @@ nicht dieses Gesetz etwas anderes bestimmt.
 
 
 ### § 32 Tätigkeit der Eintragungsausschüsse
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003600311)
 
 (1) Die Eintragungsausschüsse verhandeln und entscheiden in
 öffentlicher Sitzung.
@@ -722,6 +756,7 @@ angefertigt.
 
 
 ### § 33 Auslegung der Eintragungslisten
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003701311)
 
 (1) Die Gemeinde legt während der Eintragungsfrist die
 Eintragungslisten nach dem vom Bundesminister des Innern, für Bau und
@@ -739,6 +774,7 @@ ersetzt.
 
 
 ### § 34 Inhalt der Eintragung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003800311)
 
 Die Eintragung muß enthalten
 
@@ -758,6 +794,7 @@ Die Eintragung muß enthalten
 
 
 ### § 35 Ungültige Eintragungen
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE003900311)
 
 Ungültig sind Eintragungen, die
 
@@ -783,6 +820,7 @@ Ungültig sind Eintragungen, die
 
 
 ### § 36 Feststellung und Prüfung des Eintragungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004001311)
 
 (1) Nach Ablauf der Eintragungsfrist schließen die Gemeinden die
 Eintragungslisten ab, bestätigen auf den Eintragungslisten, daß die
@@ -827,6 +865,7 @@ Bundesverfassungsgericht erheben.
 
 
 ### § 37 Veröffentlichung des Eintragungsergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004101311)
 
 Der Bundesminister des Innern, für Bau und Heimat veröffentlicht die
 Feststellung über das Zustandekommen des Volksbegehrens im
@@ -834,10 +873,12 @@ Bundesgesetzblatt und das Eintragungsergebnis im Bundesanzeiger.
 
 
 ## Dritter Abschnitt - Volksbefragung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNG000300311)
 
 
 
 ### § 38 Gegenstand der Volksbefragung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004200311)
 
 Gegenstand der Volksbefragung ist das gemäß Artikel 29 Abs. 4 und 5
 des Grundgesetzes beschlossene Gesetz, mit dem eine Änderung der
@@ -853,6 +894,7 @@ möchte.
 
 
 ### § 39 Geltung von Vorschriften des Ersten Abschnitts
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004300311)
 
 Für Volksbefragungen gelten die Vorschriften der §§ 2 bis 17
 entsprechend. Ungültig nach § 12 Abs. 1 Nr. 5 ist eine Stimme auch
@@ -860,10 +902,12 @@ dann, wenn mehr als einer der Fragen zugestimmt wird.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNG000400311)
 
 
 
 ### § 40 Ermächtigung zum Erlaß von Rechtsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004401311)
 
 Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung für die Durchführung von Volksentscheiden,
@@ -917,6 +961,7 @@ Volksbegehren und Volksbefragungen Ausführungsvorschriften zu erlassen
 
 
 ### § 41 Kosten des Volksentscheides, des Eintragungsverfahrens und der Volksbefragung
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004501311)
 
 Die Kosten des Volksentscheides, des Eintragungsverfahrens und der
 Volksbefragung trägt der Bund. Er erstattet den Ländern, zugleich für
@@ -931,6 +976,7 @@ berücksichtigt.
 
 
 ### § 42 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/ggart29abs6g/BJNR013170979.html#BJNR013170979BJNE004600311)
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Monats in Kraft.

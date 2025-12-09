@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000204377)
 
 (1) Die Verordnung gilt für die Aufbewahrung von
 explosionsgefährlichen Stoffen (Explosivstoffe und sonstige
@@ -52,6 +53,7 @@ explosionsgefährliche Stoffe).
 
 
 ## § 2 Allgemeine Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000307377)
 
 (1) Explosionsgefährliche Stoffe sind nach den Vorschriften des
 Anhangs dieser Verordnung und im Übrigen nach dem Stand der Technik,
@@ -67,6 +69,7 @@ nachzuweisen.
 
 
 ## § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000405118)
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen
 Antrag Ausnahmen von den Vorschriften des Anhangs zu dieser Verordnung
@@ -85,6 +88,7 @@ zulassen, wenn
 
 
 ## § 4 Lager- und Verträglichkeitsgruppenzuordnung
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000506377)
 
 (1) Wer explosionsgefährliche Stoffe, die in der vorgesehenen
 Verpackung von der Bundesanstalt für Materialforschung und -prüfung
@@ -146,6 +150,7 @@ bestimmte Lager- und Verträglichkeitsgruppe zugrunde zu legen.
 
 
 ## § 5 Bauartzulassung
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000602377)
 
 (1) Der Antrag auf Erteilung der Bauartzulassung für Bauteile oder
 Systeme eines Lagers, insbesondere für Schranklager, ist bei der nach
@@ -187,6 +192,7 @@ jedem nachgebauten Stück das Zulassungszeichen anzubringen.
 
 
 ## § 6 Freistellung vom Genehmigungsvorbehalt
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000703377)
 
 Kleine Mengen von explosionsgefährlichen Stoffen nach Nummer 4 des
 Anhangs dürfen ohne Genehmigung nach § 17 des Gesetzes aufbewahrt
@@ -195,6 +201,7 @@ bleiben unberührt.
 
 
 ## § 7 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000804377)
 
 Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Abs. 5 das
@@ -203,21 +210,25 @@ anbringt.
 
 
 ## § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE000903377)
 
 -
 
 
 ## § 9 (Berlin-Klausel)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001002377)
 
 -
 
 
 ## § 10 (Inkrafttreten, Außerkrafttreten von Rechtsvorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001102377)
 
 -
 
 
 ## Anhang Zu § 2 der Zweiten Verordnung zum Sprengstoffgesetz (2. SprengV)
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001206377)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3546 - 3554;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1793,6 +1804,7 @@ Anlagenverzeichnis
 
 
 ## Anlage 1 zum Anhang Schutzabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001304377)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3555;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1971,6 +1983,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 2 zum Anhang Sicherheitsabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001404377)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3556 - 3563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3657,6 +3670,7 @@ Tabelle 7
 [^F774705_78_BJNR021890977BJNE001404377]: 
 
 ## Anlage 3 zum Anhang Schutzabstände nach Nummer 3.2.2 des Anhangs für Lager mit sonstigen explosionsgefährlichen Stoffen der Lagergruppen I bis III
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001504377)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3564;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3785,6 +3799,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 4 zum Anhang Sicherheitsabstände nach Nummer 3.2.2 des Anhangs für Lager mit sonstigen explosionsgefährlichen Stoffen der Lagergruppen I bis III
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001604377)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3565;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3907,6 +3922,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 5 zum Anhang Verträglichkeitsgruppen nach Nummer 2.7 des Anhangs
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001704377)
 
 (Fundstelle: BGBl. I 2010, 1688)
 
@@ -4008,6 +4024,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^F774705_11_BJNR021890977BJNE001704377]: 
 
 ## Anlage 6 zum Anhang Aufbewahrung kleiner Mengen im gewerblichen Bereich nach Nummer 4 des Anhangs Maximal zulässige Nettoexplosivstoffmassen/Nettomassen in kg
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001805377)
 
 (Fundstelle: BGBl. I 2010, 1688 — 1689)
 
@@ -4393,6 +4410,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ## Anlage 7 zum Anhang Aufbewahrung kleiner Mengen im nicht gewerblichen Bereich nach Nummer 4 des Anhangs Maximal zulässige Nettoexplosivstoffmassen/Nettomassen in kg
+[Direktlink](https://www.gesetze-im-internet.de/sprengv_2/BJNR021890977.html#BJNR021890977BJNE001904377)
 
 (Fundstelle: BGBl. I 2010, 1690)
 

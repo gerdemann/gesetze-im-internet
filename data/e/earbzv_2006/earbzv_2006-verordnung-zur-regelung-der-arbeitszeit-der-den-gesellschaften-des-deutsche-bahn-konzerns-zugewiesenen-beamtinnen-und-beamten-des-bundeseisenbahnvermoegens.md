@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000100000)
 
 Auf Grund des § 7 Abs. 4 Nr. 2 und des § 27 Abs. 1 Satz 1 des Gesetzes
 zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27.
@@ -32,6 +33,7 @@ im Einvernehmen mit dem Bundesministerium des Innern:
 
 
 ## § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000200000)
 
 Für die Beamtinnen und Beamten, die nach § 12 Abs. 2 und 3 des
 Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S.
@@ -45,6 +47,7 @@ nichts anderes bestimmt ist.
 
 
 ## § 2 Jahresarbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000300000)
 
 (1) Die regelmäßige Arbeitszeit der Beamtinnen und Beamten kann als
 Jahresarbeitszeit festgelegt werden. Diese errechnet sich im
@@ -70,6 +73,7 @@ Abrechnungszeitraum übertragen.
 
 
 ## § 3 Ruhepausen
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000400000)
 
 (1) Ruhepausen werden nicht auf die Arbeitszeit angerechnet.
 Abweichend hiervon können Ruhepausen angerechnet werden, soweit dies
@@ -81,6 +85,7 @@ leistende Tätigkeit eine ausreichende Erholung gewährleistet ist.
 
 
 ## § 4 Nachtdienst
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000500000)
 
 (1) Nachtdienst ist ein Dienst, der mehr als zwei Stunden in der Zeit
 zwischen 23 und 6 Uhr umfasst.
@@ -97,6 +102,7 @@ Sonn- und gesetzlichen Feiertagen erreicht werden.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/earbzv_2006/BJNR235300006.html#BJNR235300006BJNE000600000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

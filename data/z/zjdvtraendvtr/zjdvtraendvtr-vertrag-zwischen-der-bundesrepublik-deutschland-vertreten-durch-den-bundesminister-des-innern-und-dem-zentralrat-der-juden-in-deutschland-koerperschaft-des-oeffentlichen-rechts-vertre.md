@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1 Leistungsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr/BJNR239800008.html#BJNR239800008BJNE000100000)
 
 Artikel 2 Abs. 1 des Vertrages zwischen der Bundesrepublik
 Deutschland, vertreten durch den Bundeskanzler, und dem Zentralrat der
@@ -35,6 +36,7 @@ des Vertrages – mit dem Haushaltsjahr 2008."
 
 
 ## Art 2 Zustimmung des Deutschen Bundestages, Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr/BJNR239800008.html#BJNR239800008BJNE000200000)
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
 ein Bundesgesetz.
@@ -44,6 +46,7 @@ Vertrag zugestimmt wird, in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/zjdvtr_ndvtr/BJNR239800008.html#BJNR239800008BJNE000300000)
 
 
 *    *

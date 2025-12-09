@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4upovbek/BJNR001850972.html#BJNR001850972BJNE000100303)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
 Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1,
@@ -32,11 +33,13 @@ Eintragung als Warenzeichen ausgeschlossen ist.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4upovbek/BJNR001850972.html#BJNR001850972BJNE000900303)
 
 Der Bundesminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzg_4upovbek/BJNR001850972.html#BJNR001850972BJNE000200303)
 
 (Fundstelle: BGBl. I 1972, 185)
 **Abkürzung**

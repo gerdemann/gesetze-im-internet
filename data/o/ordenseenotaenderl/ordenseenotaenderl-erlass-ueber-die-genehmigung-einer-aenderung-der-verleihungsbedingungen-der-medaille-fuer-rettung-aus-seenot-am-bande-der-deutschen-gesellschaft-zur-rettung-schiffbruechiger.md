@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/ordenseenot_nderl/BJNR004720987.html#BJNR004720987BJNE000100308)
 
 Der Vorstand der Deutschen Gesellschaft zur Rettung Schiffbrüchiger
 hat am 5. Januar 1987 eine Änderung seines Beschlusses über die

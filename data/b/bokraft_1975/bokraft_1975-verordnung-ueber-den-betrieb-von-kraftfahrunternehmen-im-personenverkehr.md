@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE001700311)
 
 Auf Grund des § 57 Abs. 1 und 3 sowie des § 58 Abs. 1 Nr. 3 des
 Personenbeförderungsgesetzes (PBefG) vom 21. März 1961
@@ -30,10 +31,12 @@ wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000100311)
 
 
 
 ### § 1 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE001801307)
 
 (1) Die Verordnung gilt für Unternehmen, die Fahrgäste mit
 Kraftfahrzeugen oder Obussen befördern, soweit sie den Vorschriften
@@ -56,6 +59,7 @@ Personenbeförderungsgesetzes zuständig wäre.
 
 
 ### § 2 Grundregel
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE001900311)
 
 Der Betrieb des Unternehmens sowie die Ausrüstung und Beschaffenheit
 der Fahrzeuge müssen den besonderen Anforderungen genügen, die sich
@@ -64,14 +68,17 @@ ergeben.
 
 
 ## 2. Abschnitt - Vorschriften über den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000200311)
 
 
 
 ### 1. Titel - Betriebsleitung
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000300311)
 
 
 
 #### § 3 Pflichten des Unternehmers
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002000311)
 
 (1) Der Unternehmer ist dafür verantwortlich, daß die Vorschriften
 dieser Verordnung eingehalten und die hierzu behördlich erlassenen
@@ -112,6 +119,7 @@ Betriebspersonals während des Dienstes, insbesondere
 
 
 #### § 4 Betriebsleiter
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002100311)
 
 (1) Der Unternehmer kann zur Wahrnehmung der ihm nach § 3 obliegenden
 Aufgaben unbeschadet seiner eigenen Verantwortlichkeit einen
@@ -166,6 +174,7 @@ Voraussetzung des Absatzes 4 Satz 2 weggefallen ist.
 
 
 #### § 5 Auswärtige Unternehmer
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002201307)
 
 (1) Hat ein Unternehmer seinen Sitz (Wohnsitz) nicht am Ort des
 Betriebssitzes, kann die Genehmigungsbehörde anordnen, daß er zur
@@ -188,6 +197,7 @@ Voraussetzung der Zuverlässigkeit weggefallen ist.
 
 
 #### § 6 Meldepflicht
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002300311)
 
 Der Unternehmer hat der Genehmigungsbehörde unverzüglich mitzuteilen
 
@@ -205,10 +215,12 @@ Der Unternehmer hat der Genehmigungsbehörde unverzüglich mitzuteilen
 
 
 ### 2. Titel - Fahrdienst
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000400311)
 
 
 
 #### § 7 Grundregel
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002400311)
 
 Das im Fahrdienst eingesetzte Betriebspersonal hat die besondere
 Sorgfalt anzuwenden, die sich daraus ergibt, daß ihm Personen zur
@@ -216,6 +228,7 @@ Beförderung anvertraut sind.
 
 
 #### § 8 Verhalten im Fahrdienst
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002505140)
 
 (1) Das Betriebspersonal, das im Fahrdienst oder zur Bedienung von
 Fahrgästen eingesetzt ist, hat sich rücksichtsvoll und besonnen zu
@@ -265,6 +278,7 @@ Absatzes 3 Nr. 1 und 3 entsprechende Anwendung.
 
 
 #### § 9 Verhalten bei Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002601311)
 
 (1) Mitglieder des im Fahrdienst oder zur Bedienung von Fahrgästen
 eingesetzten Betriebspersonals dürfen diese Tätigkeit nicht ausüben,
@@ -283,6 +297,7 @@ unverzüglich anzuzeigen.
 
 
 #### § 10 Mitführen von Vorschriften und Fahrplänen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002700311)
 
 Die geltenden Vorschriften über die Beförderungsentgelte,
 Beförderungsbedingungen und Fahrpläne sind mitzuführen. Den Fahrgästen
@@ -290,6 +305,7 @@ ist auf Verlangen Einsicht zu gewähren.
 
 
 #### § 11 Fundsachen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002800311)
 
 Nach Beendigung jeder Fahrt haben Fahrzeugführer oder Schaffner
 festzustellen, ob Gegenstände zurückgeblieben sind. Fundsachen sind
@@ -300,15 +316,18 @@ Gesetzbuchs bleibt unberührt.
 
 
 ### 3. Titel - Fahrgäste, Beförderungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000500311)
 
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE002900311)
 
 -
 
 
 #### § 13 Beförderung von Personen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003000311)
 
 Der Unternehmer und das im Fahrdienst eingesetzte Betriebspersonal
 sind nach Maßgabe der Vorschriften des Personenbeförderungsgesetzes
@@ -321,6 +340,7 @@ Betriebs oder für die Fahrgäste darstellt.
 
 
 #### § 14 Verhalten der Fahrgäste
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003101140)
 
 (1) Die Fahrgäste haben sich bei der Benutzung der Betriebsanlagen und
 Fahrzeuge so zu verhalten, wie es die Sicherheit und Ordnung des
@@ -390,6 +410,7 @@ ausgeschlossen werden.
 
 
 #### § 15 Beförderung von Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003200311)
 
 (1) Der Fahrgast hat Sachen (Handgepäck, Reisegepäck, Kinderwagen) so
 unterzubringen und zu beaufsichtigen, daß die Sicherheit und Ordnung
@@ -418,14 +439,17 @@ Gegenstände ausgeschlossen, insbesondere
 
 
 ## 3. Abschnitt - Ausrüstung und Beschaffenheit der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000600311)
 
 
 
 ### 1. Titel - Bestimmungen für alle Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000700311)
 
 
 
 #### § 16 Anzuwendende Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003301308)
 
 Für Bau, Ausrüstung und Beschaffenheit der Fahrzeuge gelten neben den
 auf Grund des Straßenverkehrsgesetzes erlassenen Verordnungen die
@@ -439,12 +463,14 @@ geltenden Vorschriften entsprechen.
 
 
 #### § 17 Zulässige Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003400311)
 
 Die der Personenbeförderung dienenden Fahrzeuge müssen mindestens zwei
 Achsen und vier Räder haben.
 
 
 #### § 18 Ausrüstung
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003500311)
 
 Beim Einsatz der Fahrzeuge ist die Ausrüstung den jeweiligen Straßen-
 und Witterungsverhältnissen anzupassen. Wenn es die Umstände angezeigt
@@ -453,6 +479,7 @@ sowie Abschleppseil oder -stange mitzuführen.
 
 
 #### § 19 Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003600311)
 
 Zeichen und Ausrüstungsgegenstände an oder im Fahrzeug müssen so
 beschaffen und angebracht sein, daß niemand gefährdet oder behindert
@@ -460,10 +487,12 @@ wird.
 
 
 ### 2. Titel - Obusse und Kraftomnibusse
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000800311)
 
 
 
 #### § 20 Beschriftung
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003700311)
 
 (1) An den Außenseiten der Obusse und Kraftomnibusse sind anzubringen
 
@@ -494,6 +523,7 @@ oder Bildzeichen nicht beeinträchtigt werden.
 
 
 #### § 21 Verständigung mit dem Fahrzeugführer
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003801307)
 
 (1) Obusse und Kraftomnibusse des Linienverkehrs müssen deutlich hör-
 oder sichtbare Verständigungseinrichtungen haben
@@ -518,6 +548,7 @@ anzeigen, wann Sicherheitsgurte anzulegen sind.
 
 
 #### § 22 Stehplätze
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE003901307)
 
 (1) Stehplätze sind nur zulässig, wenn das Fahrzeug im Obusverkehr
 oder im Linienverkehr mit Kraftomnibussen eingesetzt wird.
@@ -528,20 +559,24 @@ Zulässigkeit von Stehplätzen ganz oder teilweise ausschließen.
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004001307)
 
 -
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004101140)
 
 -
 
 
 ### 3. Titel - Taxen und Mietwagen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG000900311)
 
 
 
 #### § 25 Türen, Alarmanlage und Trennwand
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004201308)
 
 (1) Taxen und Mietwagen müssen mindestens auf der rechten Längsseite
 zwei Türen haben.
@@ -562,6 +597,7 @@ seitlich verschoben werden kann.
 
 
 #### § 26 Kenntlichmachung
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004302140)
 
 (1) Taxen müssen kenntlich gemacht sein
 
@@ -587,6 +623,7 @@ Taxen ist unzulässig.
 
 
 #### § 27 Ordnungsnummer, Unternehmeranschrift
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004401119)
 
 (1) Bei Taxen ist an der rechten unteren Ecke der Heckscheibe ein nach
 außen und innen wirkendes Schild nach Anlage 3 mit der Ordnungsnummer,
@@ -608,6 +645,7 @@ anzubringen.
 
 
 #### § 28 Fahrpreisanzeiger
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004501119)
 
 (1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger ausgerüstet
 sein. Abweichend von Satz 1 ist statt der Ausrüstung mit einem
@@ -628,6 +666,7 @@ Die Anzeige muß leicht ablesbar und bei Dunkelheit beleuchtet sein.
 
 
 #### § 28a Navigationsgerät
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE007100119)
 
 Taxen müssen mit einem dem Stand der Technik entsprechenden
 Navigationsgerät ausgerüstet sein, welches mindestens nachfolgende
@@ -652,12 +691,14 @@ auf einem entsprechenden Endgerät.
 
 
 #### § 29 Gepäck
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004600311)
 
 Taxen müssen auch bei vollständiger Besetzung im Rahmen ihres
 zulässigen Gesamtgewichts mindestens 50 kg Gepäck befördern können.
 
 
 #### § 30 Wegstreckenzähler
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004701119)
 
 (1) In Mietwagen ist ein leicht ablesbarer Wegstreckenzähler
 anzubringen. Anstelle des Wegstreckenzählers ist die Ausrüstung mit
@@ -669,6 +710,7 @@ nach den Angaben eines Wegstreckenzählers ermittelt wird.
 
 
 #### § 31 Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und gebündelten Bedarfsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004801119)
 
 (1) Für Fahrzeuge, die für den Taxenverkehr und mindestens einen
 weiteren Gelegenheitsverkehr nach § 49 Absatz 4 oder § 50 des
@@ -687,14 +729,17 @@ Berechnung des Beförderungsentgelts hinzuweisen.
 
 
 ## 4. Abschnitt - Sondervorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001000311)
 
 
 
 ### 1. Titel - Obusverkehr und Linienverkehr mit Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001100311)
 
 
 
 #### § 32 Haltestellen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE004900311)
 
 (1) Bei der Bestimmung über die Anbringung der Haltestellenzeichen
 nach § 45 Abs. 3 StVO ist dem genehmigten Fahrplan entsprechend den
@@ -719,6 +764,7 @@ Erfordernissen des Betriebs und des Verkehrs Rechnung zu tragen.
 
 
 #### § 33 Kennzeichnung und Beschilderung
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005001307)
 
 (1) Jedes Fahrzeug ist an der Stirnseite mit einem Zielschild und an
 der rechten Längsseite mit einem Streckenschild zu kennzeichnen. Bei
@@ -753,6 +799,7 @@ Fahrzeugführer) geeignet und bestimmt sind, gilt Absatz 4 nicht.
 
 
 #### § 34 Sitzplätze für behinderte und andere sitzplatzbedürftige Personen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005100311)
 
 Der Unternehmer hat Sitzplätze für Schwerbehinderte, in der
 Gehfähigkeit Beeinträchtigte, ältere oder gebrechliche Personen,
@@ -762,6 +809,7 @@ sichtbarer Stelle kenntlich zu machen.
 
 
 #### § 35 Übersicht über Linienverlauf und Haltestellen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005200311)
 
 In Fahrzeugen, die im Orts- oder Nachbarortslinienverkehr eingesetzt
 sind, soll an gut sichtbarer Stelle eine Übersicht über den
@@ -769,16 +817,19 @@ Linienverlauf und über die Haltestellen angebracht sein.
 
 
 #### § 36 Ausnahmen für Sonderformen des Linienverkehrs
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005300311)
 
 Die §§ 32, 33 Abs. 1 bis 3 und § 35 gelten nicht für die Sonderformen
 des Linienverkehrs (§ 43 PBefG).
 
 
 ### 2. Titel - Taxenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001200311)
 
 
 
 #### § 37 Beförderungsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005402119)
 
 (1) Ein anderes als das vom Fahrpreisanzeiger angezeigte oder im
 Rahmen des Bestellvorgangs vereinbarte Beförderungsentgelt darf nicht
@@ -800,6 +851,7 @@ Pflichtfahrbereich festgesetzten Beförderungsentgelte als vereinbart.
 
 
 #### § 38 Fahrweg
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005500311)
 
 Sofern der Fahrgast nichts anderes bestimmt, hat der Fahrzeugführer
 den kürzesten Weg zum Fahrtziel zu wählen, es sei denn, daß ein
@@ -808,6 +860,7 @@ vereinbart wird.
 
 
 #### § 39 Benutzung des Taxischildes
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005600311)
 
 Im Geltungsbereich der festgesetzten Beförderungsentgelte muß das
 Taxischild (§ 26 Abs. 1 Nr. 2) beleuchtet sein, wenn keine
@@ -817,10 +870,12 @@ die Beleuchtung ausgeschaltet sein.
 
 
 ### 3. Titel - Mietwagenverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001300311)
 
 
 
 #### § 40 Beförderungsentgelte
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005700311)
 
 Im Mietwagenverkehr sind die Beförderungsentgelte nach der Anzeige des
 Wegstreckenzählers (§ 30 Abs. 1) zu berechnen, wenn nichts anderes
@@ -828,10 +883,12 @@ vereinbart ist.
 
 
 ## 5. Abschnitt - Sondervorschriften über die Untersuchungen der Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001400311)
 
 
 
 ### § 41 Hauptuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005800311)
 
 (1) Bei den Hauptuntersuchungen der Fahrzeuge nach § 29 StVZO ist auch
 festzustellen, ob die Fahrzeuge den Vorschriften dieser Verordnung
@@ -844,6 +901,7 @@ Behörde vorzulegen.
 
 
 ### § 42 Außerordentliche Hauptuntersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE005900311)
 
 (1) Vor der ersten Inbetriebnahme in einem Unternehmen hat der
 Unternehmer auf seine Kosten eine außerordentliche Hauptuntersuchung
@@ -862,10 +920,12 @@ unterbleiben.
 
 
 ## 6. Abschnitt - Schluß- und Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNG001500311)
 
 
 
 ### § 43 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006007305)
 
 (1) Die zuständigen obersten Landesbehörden oder die von ihnen
 bestimmten oder nach Landesrecht zuständigen Stellen können in
@@ -891,11 +951,13 @@ Verlangen zuständigen Personen auszuhändigen.
 
 
 ### § 44
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006101314)
 
 -
 
 
 ### § 45 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006205140)
 
 (1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 PBefG handelt, wer
 vorsätzlich oder fahrlässig als Unternehmer
@@ -1121,6 +1183,7 @@ wer vorsätzlich oder fahrlässig
 
 
 ### § 46 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006300311)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 66 PBefG
@@ -1128,6 +1191,7 @@ auch im Land Berlin.
 
 
 ### § 47 Inkrafttreten, Aufhebung von Rechtsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006400311)
 
 (1) Die Verordnung tritt zwei Monate nach der Verkündung in Kraft,
 jedoch
@@ -1185,11 +1249,13 @@ außer Kraft die entsprechenden Vorschriften
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006500311)
 
 Der Bundesminister für Verkehr
 
 
 ### Anlage 1 (§ 26 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006601307)
 
 (Fundstelle: BGBl. I 1975, 1582 - 1583
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1273,11 +1339,13 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 
 
 ### Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006701140)
 
 -
 
 
 ### Anlage 3 (§ 27 Abs. 1)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006800311)
 
 (Fundstelle: BGBl. I 1975, 1585)
 
@@ -1329,6 +1397,7 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 (zu § 27 Absatz 3)
 
 ### Anlage 3a Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE007200119)
 
 (Fundstelle: BGBl. I 2021, 831)
 
@@ -1377,6 +1446,7 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 (zu § 27 Absatz 4)
 
 ### Anlage 3b Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE007300119)
 
 (Fundstelle: BGBl. I 2021, 832)
 
@@ -1423,6 +1493,7 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 
 
 ### Anlage 4 (§ 33 Abs. 4)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE006900311)
 
 (Fundstelle: BGBl. I 1975, 1586 - 1587
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1485,6 +1556,7 @@ mm und mit einer Stärke der Bildumrandung von 35 mm verwendet werden.
 
 
 ### Anlage 5 (§ 34 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/bokraft_1975/BJNR015730975.html#BJNR015730975BJNE007000311)
 
 (Fundstelle: BGBl. I 1977, 601
 bzgl. der einzelnen Änderungen vgl. Fußnote)

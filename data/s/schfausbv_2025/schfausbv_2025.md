@@ -27,6 +27,7 @@ Stand: Ersetzt V 7110-6-113 v. 20.6.2012 I 1430 (SchfAusbV 2012)
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000100000)
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung
 der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -37,9 +38,11 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## Abschnitt 1 - Gegenstand, Dauer und Gliederung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNG000100000)
 
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000300000)
 
 Der Ausbildungsberuf mit der Berufsbezeichnung des Schornsteinfegers
 und der Schornsteinfegerin wird nach § 25 der Handwerksordnung zur
@@ -48,11 +51,13 @@ der Handwerksordnung staatlich anerkannt.
 
 
 ### § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000400000)
 
 Die Berufsausbildung dauert drei Jahre.
 
 
 ### § 3 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000500000)
 
 Im Sinne dieser Verordnung sind:
 
@@ -87,6 +92,7 @@ Zusatzeinrichtungen.
 
 
 ### § 4 Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000600000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und
@@ -112,6 +118,7 @@ beruflichen Aufgaben ein.
 
 
 ### § 5 Struktur der Berufsausbildung und Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000700000)
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -224,6 +231,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten sind:
 
 
 ### § 6 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000800000)
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
 Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für
@@ -231,9 +239,11 @@ jede Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## Abschnitt 2 - Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNG000200000)
 
 
 ### § 7 Aufteilung in zwei Teile und Zeitpunkt
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE000900000)
 
 (1) Die Gesellenprüfung besteht aus den Teilen 1 und 2.
 
@@ -249,6 +259,7 @@ der Gesellenprüfung stattfinden.
 
 
 ### § 8 Inhalt des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001000000)
 
 Teil 1 der Gesellenprüfung erstreckt sich auf
 
@@ -265,6 +276,7 @@ Teil 1 der Gesellenprüfung erstreckt sich auf
 
 
 ### § 9 Prüfungsbereich des Teiles 1
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001100000)
 
 (1) Teil 1 der Gesellenprüfung findet im Prüfungsbereich „Kehr- und
 Überprüfungsarbeiten“ statt.
@@ -377,6 +389,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ### § 10 Inhalt des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001200000)
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf
 
@@ -398,6 +411,7 @@ beruflichen Handlungsfähigkeit erforderlich ist.
 
 
 ### § 11 Prüfungsbereiche des Teiles 2
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001300000)
 
 Teil 2 der Gesellenprüfung findet in den folgenden Prüfungsbereichen
 statt:
@@ -418,6 +432,7 @@ statt:
 
 
 ### § 12 Prüfungsbereich „Betriebssicherheit sowie Brandsicherheit“
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001400000)
 
 (1) Im Prüfungsbereich „Betriebssicherheit sowie Brandsicherheit“ hat
 der Prüfling nachzuweisen, dass er in der Lage ist,
@@ -501,6 +516,7 @@ und für das auftragsbezogene Fachgespräch 20 Minuten.
 
 
 ### § 13 Prüfungsbereich „Klimaschutz und Energieeffizienz“
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001500000)
 
 (1) Im Prüfungsbereich „Klimaschutz und Energieeffizienz“ besteht die
 Prüfung aus zwei Teilen.
@@ -637,6 +653,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ### § 14 Prüfungsbereich „Lüftungstechnik“
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001600000)
 
 (1) Im Prüfungsbereich „Lüftungstechnik“ besteht die Prüfung aus zwei
 Teilen.
@@ -757,6 +774,7 @@ Bewertungen wie folgt zu gewichten:
 
 
 ### § 15 Prüfungsbereich „Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001700000)
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
 nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
@@ -770,6 +788,7 @@ Aufgaben schriftlich zu bearbeiten.
 
 
 ### § 16 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001800000)
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
 gewichten:
@@ -846,6 +865,7 @@ Handwerksordnung zu fassen.
 
 
 ### § 17 Mündliche Ergänzungsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE001900000)
 
 (1) Der Prüfling kann in einem Prüfungsbereich für die schriftlich zu
 bearbeitenden Aufgaben eine mündliche Ergänzungsprüfung beantragen.
@@ -889,9 +909,11 @@ gewichten.
 
 
 ## Abschnitt 3 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNG000300000)
 
 
 ### § 18 Bestehende Berufsausbildungsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE002000000)
 
 Berufsausbildungsverhältnisse, die am 1. August 2025 bestehen, können
 nach den Vorschriften dieser Verordnung unter Anrechnung der bisher
@@ -907,6 +929,7 @@ absolvierten Ausbildungszeit fortgesetzt werden, wenn
 
 
 ### § 19 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE002100000)
 
 Diese Verordnung tritt am 1. August 2025 in Kraft. Gleichzeitig tritt
 die Schornsteinfeger-Ausbildungsverordnung vom 20. Juni 2012 (BGBl. I
@@ -915,6 +938,7 @@ S. 1430) außer Kraft.
 (zu § 4 Absatz 1)
 
 ### Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
+[Direktlink](https://www.gesetze-im-internet.de/schfausbv_2025/BJNR02E0A0025.html#BJNR02E0A0025BJNE002200000)
 
 (Fundstelle: BGBl. 2025 I Nr. 46, S. 10 - 20)
 

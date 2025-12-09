@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000100000)
 
 (1) Personendaten von Beschuldigten im Sinne des § 8 Absatz 1 Nummer 1
 des Bundeskriminalamtgesetzes sind
@@ -143,6 +144,7 @@ Absatz 1 Nummer 1 des Bundeskriminalamtgesetzes sind
 
 
 ## § 2 Weitere personenbezogene Daten von Beschuldigten und personenbezogene Daten von Personen, die einer Straftat verdächtig sind
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000201116)
 
 (1) Weitere personenbezogene Daten von Beschuldigten im Sinne des § 8
 Absatz 2 des Bundeskriminalamtgesetzes sind
@@ -337,6 +339,7 @@ sind, im Sinne des § 8 Absatz 2 des Bundeskriminalamtgesetzes sind
 
 
 ## § 3 Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000300000)
 
 Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des
 Bundeskriminalamtgesetzes sind die in § 1 Absatz 1 Nummer 1 bis 3, 7,
@@ -345,6 +348,7 @@ Daten sowie die Telefon- und Telefaxnummer.
 
 
 ## § 4 Personenbezogene Daten sonstiger Personen
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000400000)
 
 Personenbezogene Daten sonstiger Personen im Sinne des § 8 Absatz 5
 des Bundeskriminalamtgesetzes sind die in den §§ 1 und 2 genannten
@@ -352,6 +356,7 @@ Daten.
 
 
 ## § 5 Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000500000)
 
 (1) Personenbezogene Daten, die bei der Durchführung
 erkennungsdienstlicher Maßnahmen erhoben worden sind, im Sinne des § 8
@@ -550,6 +555,7 @@ Bundeskriminalamtgesetzes genannten Zwecke übermittelt worden ist.
 
 
 ## § 6 Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000600000)
 
 (1) Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
 im Sinne des § 9 Absatz 1 des Bundeskriminalamtgesetzes sind
@@ -682,6 +688,7 @@ ausgeschriebenen Sachen auch beziehen auf
 
 
 ## § 7 Personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000700000)
 
 Personenbezogene Daten zum Zwecke des Nachweises von Personen, die
 wegen des Verdachts oder des Nachweises einer rechtswidrigen Tat,
@@ -707,6 +714,7 @@ Sinne des § 9 Absatz 2 des Bundeskriminalamtgesetzes sind
 
 
 ## § 8 Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000800000)
 
 Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen
 und unbekannten Toten im Sinne des § 9 Absatz 3 des
@@ -743,6 +751,7 @@ Auffindens benachrichtigt werden müssen, gespeichert werden.
 
 
 ## § 9 Dateien des Bundeskriminalamts nach den §§ 8 und 9 des Bundeskriminalamtgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE000900000)
 
 (1) Das Bundeskriminalamt führt auf der Grundlage von § 8 des
 Bundeskriminalamtgesetzes zur Erfüllung seiner Aufgaben Dateien der
@@ -827,6 +836,7 @@ dienen.
 
 
 ## § 10 Speicherung der Daten in den Dateien der Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE001000000)
 
 (1) Das Bundeskriminalamt kann in der nach § 34 des
 Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung
@@ -900,6 +910,7 @@ gespeichert werden dürfen:
 
 
 ## § 11 Speicherung der Daten in sonstigen Dateien der Zentralstelle
+[Direktlink](https://www.gesetze-im-internet.de/bkadv/BJNR071610010.html#BJNR071610010BJNE001101360)
 
 (1) Das Bundeskriminalamt kann in der nach § 34 des
 Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung

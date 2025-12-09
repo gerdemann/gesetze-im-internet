@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Stabilitätsrat
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000103131)
 
 (1) Bund und Länder bilden einen Stabilitätsrat mit dem Ziel der
 Vermeidung von Haushaltsnotlagen. Dem Stabilitätsrat gehören an:
@@ -65,6 +66,7 @@ Vertreterin oder Vertreter geleitet wird.
 
 
 ## § 2 Aufgaben des Stabilitätsrates
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000204131)
 
 (1) Aufgaben des Stabilitätsrates sind
 
@@ -98,6 +100,7 @@ zur Stellungnahme jeweils einen Beschluss.
 
 
 ## § 3 Fortlaufende Haushaltsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000301377)
 
 (1) Der Stabilitätsrat überwacht die aktuelle Lage und die Entwicklung
 der Haushalte von Bund und Ländern. Dafür legt er für Vergleichszwecke
@@ -117,6 +120,7 @@ landesrechtlichen Verschuldungsregel enthalten soll.
 
 
 ## § 4 Prüfung einer drohenden Haushaltsnotlage
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000402131)
 
 (1) Der Stabilitätsrat beschließt für die einzelnen Kennziffern nach §
 3 Absatz 1 Schwellenwerte, deren Nichteinhaltung auf eine drohende
@@ -157,6 +161,7 @@ Haushaltsnotlage droht.
 
 
 ## § 5 Sanierungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000501377)
 
 (1) Hat der Stabilitätsrat eine drohende Haushaltsnotlage nach § 4
 Absatz 4 für den Bund oder ein Land festgestellt, vereinbart er mit
@@ -203,6 +208,7 @@ Haushaltssanierung zu verstärken.
 
 
 ## § 6 Überwachung der Einhaltung der grundgesetzlichen Verschuldungsregel
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000802377)
 
 (1) Der Stabilitätsrat überwacht die Einhaltung der Verschuldungsregel
 des Artikels 109 Absatz 3 des Grundgesetzes durch den Bund und jedes
@@ -219,6 +225,7 @@ Konjunkturbereinigungsverfahren.
 
 
 ## § 7 Stellungnahme zur Festlegung des Nettoausgabenpfades und Überwachung der Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan festgelegten Nettoausgabenpfades
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000603131)
 
 (1) Der Stabilitätsrat gibt vor Einreichung des mittelfristigen
 finanzpolitisch-strukturellen Plans durch die Bundesregierung eine
@@ -260,6 +267,7 @@ Maßnahmen darzulegen sind.
 
 
 ## § 8 Unabhängiger Beirat des Stabilitätsrates
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000702131)
 
 (1) Zur Unterstützung des Stabilitätsrates bei der Überwachung der
 Einhaltung des im mittelfristigen finanzpolitisch-strukturellen Plan
@@ -310,6 +318,7 @@ Stellungnahmen und Empfehlungen.
 
 
 ## § 9 Veröffentlichung der Beschlüsse und Unterrichtung der Parlamente
+[Direktlink](https://www.gesetze-im-internet.de/stabiratg/BJNR270210009.html#BJNR270210009BJNE000901377)
 
 (1) Der Stabilitätsrat veröffentlicht seine Beschlüsse nach § 2 Absatz
 2 und die ihnen zugrundeliegenden Beratungsunterlagen.

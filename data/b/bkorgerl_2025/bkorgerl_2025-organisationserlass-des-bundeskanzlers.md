@@ -17,18 +17,21 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000100000)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000200000)
 
 Es wird ein Bundesministerium für Digitales und Staatsmodernisierung
 gebildet.
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000300000)
 
 Es erhalten
 
@@ -70,6 +73,7 @@ Es erhalten
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000400000)
 
 Dem Bundesministerium der Finanzen werden übertragen
 
@@ -86,6 +90,7 @@ Dem Bundesministerium der Finanzen werden übertragen
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000500000)
 
 Dem Bundesministerium des Innern werden übertragen
 
@@ -104,6 +109,7 @@ Dem Bundesministerium des Innern werden übertragen
 
 
 ## V.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000600000)
 
 Dem Bundesministerium der Justiz und für Verbraucherschutz werden aus
 dem Geschäftsbereich des Bundesministeriums für Umwelt, Klimaschutz,
@@ -127,6 +133,7 @@ Naturschutz und nukleare Sicherheit die Zuständigkeiten übertragen für
 
 
 ## VI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000700000)
 
 Dem Bundesministerium für Arbeit und Soziales werden aus dem
 Geschäftsbereich des Bundeskanzleramtes die Zuständigkeiten der
@@ -137,6 +144,7 @@ Staatsministerin wahrgenommen.
 
 
 ## VII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000800000)
 
 Dem Bundesministerium für Landwirtschaft, Ernährung und Heimat werden
 aus dem Geschäftsbereich des Bundesministeriums des Innern die
@@ -145,6 +153,7 @@ Kultur übertragen.
 
 
 ## VIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE000900000)
 
 Dem Bundesministerium für Bildung, Familie, Senioren, Frauen und
 Jugend werden aus dem Geschäftsbereich des Bundesministeriums für
@@ -155,6 +164,7 @@ Lernen sowie die dazugehörige Bildungsforschung und -finanzierung
 
 
 ## IX.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001000000)
 
 Dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
 nukleare Sicherheit werden übertragen
@@ -173,6 +183,7 @@ nukleare Sicherheit werden übertragen
 
 
 ## X.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001100000)
 
 Dem Bundesministerium für Forschung, Technologie und Raumfahrt werden
 übertragen
@@ -198,6 +209,7 @@ beim Bundesministerium für Forschung, Technologie und Raumfahrt.
 
 
 ## XI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001200000)
 
 Dem Bundesministerium für wirtschaftliche Zusammenarbeit und
 Entwicklung werden übertragen alle Projekte und Programme der
@@ -211,6 +223,7 @@ geboten ist.
 
 
 ## XII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001300000)
 
 Dem Bundesministerium für Digitales und Staatsmodernisierung werden
 übertragen
@@ -315,6 +328,7 @@ Dem Bundesministerium für Digitales und Staatsmodernisierung werden
 
 
 ## XIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001400000)
 
 Das Bundesministerium für Digitales und Staatsmodernisierung erhält
 ferner die Zuständigkeit für einen Zustimmungsvorbehalt für alle
@@ -328,6 +342,7 @@ Vereinbarung.
 
 
 ## XIV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001500000)
 
 Dem Geschäftsbereich des Bundesministeriums für Wohnen,
 Stadtentwicklung und Bauwesen werden aus dem Geschäftsbereich des
@@ -338,6 +353,7 @@ Baurechts und Flächenverbrauch übertragen.
 
 
 ## XV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001600000)
 
 Die Funktion der Beauftragten der Bundesregierung für den Berlin-Umzug
 und den Bonn-Ausgleich fällt weg. Die verbleibenden fachlichen
@@ -346,11 +362,13 @@ Stadtentwicklung und Bauwesen wahrgenommen.
 
 
 ## XVI.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001700000)
 
 Im Bundeskanzleramt wird ein Nationaler Sicherheitsrat gebildet.
 
 
 ## XVII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001800000)
 
 Dem Geschäftsbereich des Bundeskanzleramtes werden übertragen
 
@@ -369,6 +387,7 @@ Bundeskanzler wahrgenommen.
 
 
 ## XVIII.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE001900000)
 
 Alle Zuständigkeitsübertragungen schließen deren europäische und
 internationale Bezüge sowie die entsprechenden übergeordneten und
@@ -394,6 +413,7 @@ Bundeskanzleramtes bis zum 1. August 2025 mitgeteilt.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_2025/BJNR0830A0025.html#BJNR0830A0025BJNE002000000)
 
 Der Bundeskanzler
 

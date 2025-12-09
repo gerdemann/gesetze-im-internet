@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## § 1 Grundsatz der offenen Daten
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000100000)
 
 (1) Daten, die in den Anwendungsbereich dieses Gesetzes fallen,
 sollen, soweit möglich, nach dem Grundsatz „konzeptionell und
@@ -27,6 +28,7 @@ wird mit diesem Gesetz nicht begründet.
 
 
 ## § 2 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000200000)
 
 (1) Dieses Gesetz gilt für Daten von Datenbereitstellern nach Absatz
 2, die
@@ -157,6 +159,7 @@ Urheberrechtsgesetzes.
 
 
 ## § 3 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000300000)
 
 Im Sinne dieses Gesetzes
 
@@ -270,6 +273,7 @@ Im Sinne dieses Gesetzes
 
 
 ## § 4 Grundsatz der uneingeschränkten Datennutzung; Zulässigkeit von Lizenzen
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000400000)
 
 (1) Daten dürfen für jeden kommerziellen oder nichtkommerziellen Zweck
 genutzt werden.
@@ -290,6 +294,7 @@ Möglichkeit offene Lizenzen verwenden.
 
 
 ## § 5 Nichtdiskriminierung
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000500000)
 
 (1) Die Bedingungen für die Datennutzung müssen nichtdiskriminierend
 sein.
@@ -302,6 +307,7 @@ und sonstigen Bedingungen wie für andere Nutzer.
 
 
 ## § 6 Ausschließlichkeitsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000600000)
 
 (1) Vereinbarungen öffentlicher Stellen oder Unternehmen der
 Daseinsvorsorge, die ausschließliche Rechte an der Nutzung von Daten
@@ -349,6 +355,7 @@ Ausschließlichkeitsvereinbarung, spätestens jedoch am 31. Dezember
 
 
 ## § 7 Verfügbare Formate, Metadaten
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000700000)
 
 (1) Der Datenbereitsteller muss die Nutzung der Daten in allen
 angefragten und bei ihm vorhandenen Formaten und Sprachen ermöglichen.
@@ -376,6 +383,7 @@ stellen.
 
 
 ## § 8 Dynamische Daten
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000800000)
 
 (1) Der Datenbereitsteller muss die Nutzung von dynamischen Daten
 unmittelbar nach der Erfassung in Echtzeit mithilfe geeigneter
@@ -393,6 +401,7 @@ beeinträchtigt werden.
 
 
 ## § 9 Hochwertige Datensätze
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE000900000)
 
 Öffentliche Stellen und Unternehmen der Daseinsvorsorge müssen die
 Nutzung hochwertiger Datensätze in maschinenlesbarem Format über
@@ -401,6 +410,7 @@ erforderlich, als Massen-Download ermöglichen.
 
 
 ## § 10 Grundsatz der Unentgeltlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE001000000)
 
 (1) Die Nutzung von Daten ist unentgeltlich. Es ist jedoch zulässig,
 die Erstattung von verursachten Grenzkosten für die folgenden
@@ -455,6 +465,7 @@ zwölf Monate nach dem 23. Juli 2021.
 
 
 ## § 11 Bemessung der Entgelthöhe
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE001100000)
 
 (1) In den in § 10 Absatz 2 Nummer 1 und 3 genannten Fällen berechnen
 die öffentlichen Stellen und Unternehmen der Daseinsvorsorge die
@@ -475,6 +486,7 @@ Buchführungsgrundsätze berechnet.
 
 
 ## § 12 Transparenz von Entgelten
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE001200000)
 
 (1) Wurden für die Nutzung von Daten Entgelte festgelegt, die für die
 Allgemeinheit gelten (Standardentgelte), sind die Bedingungen und die
@@ -488,6 +500,7 @@ in Bezug auf einen spezifischen Antrag auf Nutzung angegeben.
 
 
 ## § 13 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/dng/BJNR294200021.html#BJNR294200021BJNE001300000)
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.

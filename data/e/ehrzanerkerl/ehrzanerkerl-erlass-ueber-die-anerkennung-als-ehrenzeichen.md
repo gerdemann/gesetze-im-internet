@@ -17,6 +17,7 @@ Fundstelle
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/ehrzanerkerl/BJNR161900014.html#BJNR161900014BJNE000100000)
 
 Auf Grund des § 3 Absatz 2 des Gesetzes über Titel, Orden und
 Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -40,6 +41,7 @@ als Ehrenzeichen an.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/ehrzanerkerl/BJNR161900014.html#BJNR161900014BJNE000200000)
 
 Die Verleihungsbedingungen sowie die Abbildungen und Beschreibungen
 der nach Artikel 1 anerkannten Ehrenzeichen werden vom
@@ -47,6 +49,7 @@ Bundesministerium des Innern im Bundesanzeiger bekannt gemacht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/ehrzanerkerl/BJNR161900014.html#BJNR161900014BJNE000300000)
 
 Jede Änderung der Verleihungsbedingungen und jede Änderung der Form
 oder Benennung der hiermit anerkannten Ehrenzeichen ist mir vor dem
@@ -54,6 +57,7 @@ Inkraftsetzen anzuzeigen.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/ehrzanerkerl/BJNR161900014.html#BJNR161900014BJNE000400000)
 
 Der Bundespräsident
 Der Bundesminister des Innern

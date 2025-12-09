@@ -20,15 +20,18 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Der Rechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000101311)
 
 
 
 ### § 1 Stellung des Rechtsanwalts in der Rechtspflege
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005201311)
 
 Der Rechtsanwalt ist ein unabhängiges Organ der Rechtspflege.
 
 
 ### § 2 Beruf des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005301311)
 
 (1) Der Rechtsanwalt übt einen freien Beruf aus.
 
@@ -36,6 +39,7 @@ Der Rechtsanwalt ist ein unabhängiges Organ der Rechtspflege.
 
 
 ### § 3 Recht zur Beratung und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005401311)
 
 (1) Der Rechtsanwalt ist der berufene unabhängige Berater und
 Vertreter in allen Rechtsangelegenheiten.
@@ -51,14 +55,17 @@ vertreten zu lassen.
 
 
 ## Zweiter Teil - Zulassung und allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000202125)
 
 
 
 ### Erster Abschnitt - Zulassung zur Rechtsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000301311)
 
 
 
 #### § 4 Zugang zum Beruf des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005504311)
 
 Zur Rechtsanwaltschaft kann nur zugelassen werden, wer
 
@@ -79,10 +86,12 @@ Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
 
 #### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005602311)
 
 
 
 #### § 6 Antrag auf Zulassung zur Rechtsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005703311)
 
 (1) Die Zulassung zur Rechtsanwaltschaft wird auf Antrag erteilt.
 
@@ -91,6 +100,7 @@ abgelehnt werden.
 
 
 #### § 7 Versagung der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE005807125)
 
 Die Zulassung zur Rechtsanwaltschaft ist zu versagen,
 
@@ -154,14 +164,17 @@ lässt die Anwendbarkeit des Satzes 1 Nummer 5 unberührt.
 
 
 #### § 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE030004311)
 
 
 
 #### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006004311)
 
 
 
 #### § 10 Aussetzung des Zulassungsverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006102125)
 
 Die Entscheidung über den Antrag auf Zulassung zur Rechtsanwaltschaft
 kann ausgesetzt werden, wenn gegen die antragstellende Person ein
@@ -171,10 +184,12 @@ Zulassung zur Folge haben würde.
 
 
 #### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006204311)
 
 
 
 #### § 12 Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006304125)
 
 (1) Die Zulassung zur Rechtsanwaltschaft wird wirksam mit der
 Aushändigung einer von der Rechtsanwaltskammer ausgestellten Urkunde.
@@ -199,6 +214,7 @@ Rechtsanwaltskammer.
 
 
 #### § 12a Vereidigung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033902125)
 
 (1) Der Bewerber hat folgenden Eid vor der Rechtsanwaltskammer zu
 leisten:
@@ -234,6 +250,7 @@ auf den früheren Eid oder das frühere Gelöbnis hingewiesen wird.
 
 
 #### § 13 Erlöschen der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006402311)
 
 Die Zulassung zur Rechtsanwaltschaft erlischt, wenn durch ein
 rechtskräftiges Urteil auf Ausschließung aus der Rechtsanwaltschaft
@@ -242,6 +259,7 @@ bestandskräftig geworden ist.
 
 
 #### § 14 Rücknahme und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034103125)
 
 (1) Die Zulassung zur Rechtsanwaltschaft ist mit Wirkung für die
 Zukunft zurückzunehmen, wenn Tatsachen nachträglich bekannt werden,
@@ -331,6 +349,7 @@ ist die Anordnung in der Regel zu treffen.
 
 
 #### § 15 Ärztliches Gutachten bei Versagung und Widerruf der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006606125)
 
 (1) Wenn dies zur Entscheidung über den Versagungsgrund des § 7 Satz 1
 Nummer 7 oder über den Widerrufsgrund des § 14 Absatz 2 Nummer 3
@@ -357,10 +376,12 @@ Fristsetzung hinzuweisen.
 
 
 #### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006707311)
 
 
 
 #### § 17 Erlöschen der Befugnis zur Führung der Berufsbezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006805125)
 
 (1) Mit dem Erlöschen der Zulassung zur Rechtsanwaltschaft (§ 13)
 endet die Befugnis, die Berufsbezeichnung "Rechtsanwalt" oder
@@ -388,34 +409,42 @@ der auch „i. R.“ abgekürzt werden kann.
 
 
 ### Zweiter Abschnitt - Kanzlei und Rechtsanwaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000602311)
 
 
 
 #### § 18 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE006902311)
 
 
 
 #### (XXXX) §§ 19 bis 21 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007002311)
 
 
 
 #### § 22 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007302311)
 
 
 
 #### § 23 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007402311)
 
 
 
 #### § 24 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007503311)
 
 
 
 #### (XXXX) §§ 25 und 26 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007602311)
 
 
 
 #### § 27 Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007805311)
 
 (1) Der Rechtsanwalt muss im Bezirk der Rechtsanwaltskammer, deren
 Mitglied er ist, eine Kanzlei einrichten und unterhalten.
@@ -436,10 +465,12 @@ Rechtsanwaltskammer.
 
 
 #### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE007903311)
 
 
 
 #### § 29 Befreiung von der Kanzleipflicht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008004311)
 
 (1) Im Interesse der Rechtspflege oder zur Vermeidung von Härten kann
 die Rechtsanwaltskammer einen Rechtsanwalt von der Pflicht des § 27
@@ -454,6 +485,7 @@ Rechtspflege erforderlich ist.
 
 
 #### § 29a Kanzleien in anderen Staaten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE030105125)
 
 (1) Der Rechtsanwalt darf auch in anderen Staaten Kanzleien einrichten
 oder unterhalten.
@@ -469,6 +501,7 @@ Staat sowie deren Änderung der Rechtsanwaltskammer mitzuteilen.
 
 
 #### § 30 Zustellungsbevollmächtigter
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008107125)
 
 (1) Ist der Rechtsanwalt von der Pflicht befreit, eine Kanzlei zu
 unterhalten, so hat er der Rechtsanwaltskammer einen
@@ -491,6 +524,7 @@ Zustellung an den Zustellungsbevollmächtigten nicht ausführbar ist.
 
 
 #### § 31 Verzeichnisse der Rechtsanwaltskammern und Gesamtverzeichnis der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008215125)
 
 (1) Die Rechtsanwaltskammern führen elektronische Verzeichnisse der in
 ihren Bezirken zugelassenen Rechtsanwälte und der zugelassenen
@@ -668,6 +702,7 @@ zuständigen Rechtsanwaltskammer unverzüglich
 
 
 #### § 31a Besonderes elektronisches Anwaltspostfach
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035805125)
 
 (1) Die Bundesrechtsanwaltskammer richtet für jede im
 Gesamtverzeichnis eingetragene natürliche Person ein besonderes
@@ -728,6 +763,7 @@ entsprechend.
 
 
 #### § 31b Besonderes elektronisches Anwaltspostfach für Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036901125)
 
 (1) Die Bundesrechtsanwaltskammer richtet für jede im
 Gesamtverzeichnis eingetragene Berufsausübungsgesellschaft ein
@@ -768,6 +804,7 @@ entsprechend.
 
 
 #### § 31c Europäisches Rechtsanwaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035904125)
 
 Die Bundesrechtsanwaltskammer ermöglicht über die Suche nach § 31
 Absatz 2 Satz 3 hinaus über das auf den Internetseiten der
@@ -778,6 +815,7 @@ Europäischen Rechtsanwaltsverzeichnisses sind.
 
 
 #### § 31d Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036102125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz regelt
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten
@@ -823,10 +861,12 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten
 
 
 ### Dritter Abschnitt - Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005102311)
 
 
 
 #### § 32 Ergänzende Anwendung der Verwaltungsverfahrensgesetze
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035304125)
 
 (1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer auf
 Grund dieses Gesetzes erlassenen Rechtsverordnung gelten, soweit
@@ -844,6 +884,7 @@ Verwaltungsverfahrensgesetzes gilt entsprechend. In den Fällen des §
 
 
 #### § 33 Sachliche und örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034204125)
 
 (1) Für die Ausführung dieses Gesetzes und der auf seiner Grundlage
 erlassenen Rechtsverordnungen sind die Rechtsanwaltskammern zuständig,
@@ -886,6 +927,7 @@ Absatz 3), so entscheidet diese über den Antrag.
 
 
 #### § 34 Zustellung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034301311)
 
 Verwaltungsakte, durch die die Zulassung zur Rechtsanwaltschaft oder
 die Mitgliedschaft in einer Rechtsanwaltskammer begründet oder versagt
@@ -894,12 +936,14 @@ versagt, zurückgenommen oder widerrufen wird, sind zuzustellen.
 
 
 #### § 35 Bestellung eines Vertreters im Verwaltungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034401311)
 
 Wird auf Ersuchen der Rechtsanwaltskammer für das Verwaltungsverfahren
 ein Vertreter bestellt, soll ein Rechtsanwalt bestellt werden.
 
 
 #### § 36 Ermittlung des Sachverhalts und Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034502125)
 
 (1) Die Rechtsanwaltskammer kann zur Ermittlung des Sachverhalts in
 Zulassungssachen eine unbeschränkte Auskunft nach § 41 Abs. 1 Nr. 11
@@ -948,6 +992,7 @@ Abgabenordnung.
 
 
 #### § 37 Ersetzung der Schriftform
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE008906125)
 
 Ist nach diesem Gesetz für die Abgabe einer Erklärung die Schriftform
 vorgeschrieben, so kann die Erklärung auch über das besondere
@@ -961,18 +1006,22 @@ besonderen elektronischen Anwaltspostfach nach Satz 1 gleich.
 
 
 #### (XXXX) §§ 38 bis 42 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036800125)
 
 
 
 ## Dritter Teil - Rechte und Pflichten des Rechtsanwalts und berufliche Zusammenarbeit der Rechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000803311)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005601311)
 
 
 
 #### § 43 Allgemeine Berufspflicht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE009501311)
 
 Der Rechtsanwalt hat seinen Beruf gewissenhaft auszuüben. Er hat sich
 innerhalb und außerhalb des Berufes der Achtung und des Vertrauens,
@@ -980,6 +1029,7 @@ welche die Stellung des Rechtsanwalts erfordert, würdig zu erweisen.
 
 
 #### § 43a Grundpflichten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031104125)
 
 (1) Der Rechtsanwalt darf keine Bindungen eingehen, die seine
 berufliche Unabhängigkeit gefährden.
@@ -1050,6 +1100,7 @@ oder auf ein Anderkonto einzuzahlen.
 
 
 #### § 43b Werbung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031201311)
 
 Werbung ist dem Rechtsanwalt nur erlaubt, soweit sie über die
 berufliche Tätigkeit in Form und Inhalt sachlich unterrichtet und
@@ -1057,6 +1108,7 @@ nicht auf die Erteilung eines Auftrags im Einzelfall gerichtet ist.
 
 
 #### § 43c Fachanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031304125)
 
 (1) Dem Rechtsanwalt, der besondere Kenntnisse und Erfahrungen in
 einem Rechtsgebiet erworben hat, kann die Befugnis verliehen werden,
@@ -1087,6 +1139,7 @@ Fortbildung unterlassen wird.
 
 
 #### § 43d Darlegungs- und Informationspflichten bei Inkassodienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035702119)
 
 (1) Der Rechtsanwalt, der Inkassodienstleistungen erbringt, muss mit
 der ersten Geltendmachung einer Forderung gegenüber einer Privatperson
@@ -1179,6 +1232,7 @@ Tätigkeit steht.
 
 
 #### § 43e Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036700311)
 
 (1) Der Rechtsanwalt darf Dienstleistern den Zugang zu Tatsachen
 eröffnen, auf die sich die Verpflichtung zur Verschwiegenheit gemäß §
@@ -1239,6 +1293,7 @@ unberührt.
 
 
 #### § 43f Kenntnisse im Berufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037000125)
 
 (1) Der Rechtsanwalt hat innerhalb des ersten Jahres nach seiner
 erstmaligen Zulassung zur Rechtsanwaltschaft an einer
@@ -1254,6 +1309,7 @@ Lehrveranstaltung nach Absatz 1 teilgenommen hat.
 
 
 #### § 44 Mitteilung der Ablehnung eines Auftrags
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE009601311)
 
 Der Rechtsanwalt, der in seinem Beruf in Anspruch genommen wird und
 den Auftrag nicht annehmen will, muß die Ablehnung unverzüglich
@@ -1262,6 +1318,7 @@ Verzögerung dieser Erklärung entsteht.
 
 
 #### § 45 Tätigkeitsverbote bei nichtanwaltlicher Vorbefassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE009707125)
 
 (1) Der Rechtsanwalt darf nicht tätig werden, wenn er
 
@@ -1330,6 +1387,7 @@ betroffenen Person offenbart werden.
 
 
 #### § 46 Angestellte Rechtsanwälte und Syndikusrechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE009804125)
 
 (1) Rechtsanwälte dürfen ihren Beruf als Angestellte solcher
 Arbeitgeber ausüben, die als Rechtsanwälte, Patentanwälte oder rechts-
@@ -1406,6 +1464,7 @@ Sinne des Absatzes 2 Satz 1.
 
 
 #### § 46a Zulassung als Syndikusrechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036204125)
 
 (1) Die Zulassung zur Rechtsanwaltschaft als Syndikusrechtsanwalt ist
 auf Antrag zu erteilen, wenn
@@ -1467,6 +1526,7 @@ der Maßgabe, dass
 
 
 #### § 46b Erlöschen und Änderung der Zulassung als Syndikusrechtsanwalt
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036302125)
 
 (1) Die Zulassung als Syndikusrechtsanwalt erlischt nach Maßgabe des §
 13\.
@@ -1511,6 +1571,7 @@ beizufügen. § 57 gilt entsprechend.
 
 
 #### § 46c Besondere Vorschriften für Syndikusrechtsanwälte
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036402125)
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, gelten für
 Syndikusrechtsanwälte die Vorschriften über Rechtsanwälte.
@@ -1563,6 +1624,7 @@ Beruf auszuüben. § 30 gilt entsprechend.
 
 
 #### § 47 Rechtsanwälte im öffentlichen Dienst
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE009904125)
 
 (1) Rechtsanwälte, die als Richter oder Beamte verwendet werden, ohne
 auf Lebenszeit ernannt zu sein, die in das Dienstverhältnis eines
@@ -1584,6 +1646,7 @@ Vertretung bestellen.
 
 
 #### § 48 Pflicht zur Übernahme der Prozessvertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010006311)
 
 (1) Der Rechtsanwalt muß im gerichtlichen Verfahren die Vertretung
 einer Partei oder die Beistandschaft übernehmen,
@@ -1610,6 +1673,7 @@ hierfür wichtige Gründe vorliegen.
 
 
 #### § 49 Pflichtverteidigung und Beistandsleistung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010104311)
 
 (1) Der Rechtsanwalt muss eine Verteidigung oder Beistandsleistung
 übernehmen, wenn er nach den Vorschriften der Strafprozessordnung, des
@@ -1621,6 +1685,7 @@ Verteidiger oder Beistand bestellt ist.
 
 
 #### § 49a Pflicht zur Übernahme der Beratungshilfe
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE029902311)
 
 (1) Der Rechtsanwalt ist verpflichtet, die in dem Beratungshilfegesetz
 vorgesehene Beratungshilfe zu übernehmen. Er kann die Beratungshilfe
@@ -1633,6 +1698,7 @@ wichtigem Grund ablehnen.
 
 
 #### § 49b Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031409125)
 
 (1) Es ist unzulässig, geringere Gebühren und Auslagen zu vereinbaren
 oder zu fordern, als das Rechtsanwaltsvergütungsgesetz vorsieht,
@@ -1686,6 +1752,7 @@ hat der Rechtsanwalt vor Übernahme des Auftrags hierauf hinzuweisen.
 
 
 #### § 49c Einreichung von Schutzschriften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036001311)
 
 Der Rechtsanwalt ist verpflichtet, Schutzschriften ausschließlich zum
 Schutzschriftenregister nach § 945a der Zivilprozessordnung
@@ -1693,6 +1760,7 @@ einzureichen.
 
 
 #### § 50 Handakten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010202311)
 
 (1) Der Rechtsanwalt muss durch das Führen von Handakten ein
 geordnetes und zutreffendes Bild über die Bearbeitung seiner Aufträge
@@ -1728,6 +1796,7 @@ und Herausgabepflichten bleiben unberührt.
 
 
 #### § 51 Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031507125)
 
 (1) Der Rechtsanwalt ist verpflichtet, eine
 Berufshaftpflichtversicherung zur Deckung der sich aus seiner
@@ -1800,6 +1869,7 @@ Versicherungsvertragsgesetzes ist die Rechtsanwaltskammer.
 
 
 #### § 52 Vertragliche Begrenzung von Ersatzansprüchen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031604125)
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem
 Rechtsanwalt bestehenden Vertragsverhältnis auf Ersatz eines
@@ -1830,6 +1900,7 @@ Textform.
 
 
 #### § 53 Bestellung einer Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010506125)
 
 (1) Der Rechtsanwalt muss für seine Vertretung sorgen, wenn er
 
@@ -1866,6 +1937,7 @@ aus wichtigem Grund ablehnen.
 
 
 #### § 54 Befugnisse der Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010603125)
 
 (1) Der Vertretung stehen die anwaltlichen Befugnisse des
 Rechtsanwalts zu, den sie vertritt. Sie wird in eigener Verantwortung,
@@ -1899,6 +1971,7 @@ haftet die Rechtsanwaltskammer wie ein Bürge.
 
 
 #### § 55 Bestellung eines Abwicklers der Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010706125)
 
 (1) Ist ein Rechtsanwalt gestorben, so kann die Rechtsanwaltskammer
 einen Rechtsanwalt oder eine andere Person, welche die Befähigung zum
@@ -1932,6 +2005,7 @@ Rechtsanwaltschaft erloschen ist.
 
 
 #### § 56 Besondere Pflichten gegenüber dem Vorstand der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010805125)
 
 (1) In Aufsichts- und Beschwerdesachen hat der Rechtsanwalt dem
 Vorstand der Rechtsanwaltskammer oder einem beauftragten Mitglied des
@@ -1977,6 +2051,7 @@ Dem Vorstand der Rechtsanwaltskammer sind auf Verlangen die Unterlagen
 
 
 #### § 57 Zwangsgeld bei Verletzung der besonderen Pflichten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE010905311)
 
 (1) Um einen Rechtsanwalt zur Erfüllung seiner Pflichten nach § 56
 anzuhalten, kann der Vorstand der Rechtsanwaltskammer gegen ihn, auch
@@ -2016,6 +2091,7 @@ machen.
 
 
 #### § 58 Mitgliederakten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011003125)
 
 (1) Die Rechtsanwaltskammern führen zur Erfüllung ihrer Aufgaben Akten
 über ihre Mitglieder (§ 60 Absatz 2). Mitgliederakten können teilweise
@@ -2073,6 +2149,7 @@ haben, sind die Absätze 1, 2, 4 und 5 entsprechend anzuwenden. Absatz
 
 
 #### § 59 Ausbildung von Referendaren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011103311)
 
 Der Rechtsanwalt soll in angemessenem Umfang an der Ausbildung der
 Referendare mitwirken. Er hat den Referendar, der im
@@ -2085,6 +2162,7 @@ Berufsrecht und die Organisation einer Anwaltskanzlei.
 
 
 #### § 59a Satzungskompetenz
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE031806360)
 
 (1) Das Nähere zu den beruflichen Rechten und Pflichten wird durch
 Satzung in einer Berufsordnung bestimmt.
@@ -2229,10 +2307,12 @@ Umstände zu prüfen, ob die Vorschrift anzupassen ist.
 
 
 ### Zweiter Abschnitt - Berufliche Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005702125)
 
 
 
 #### § 59b Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037100125)
 
 (1) Rechtsanwälte dürfen sich zur gemeinschaftlichen Ausübung ihres
 Berufs zu Berufsausübungsgesellschaften verbinden. Sie dürfen sich zur
@@ -2270,6 +2350,7 @@ gilt § 207a.
 
 
 #### § 59c Berufsausübungsgesellschaften mit Angehörigen anderer Berufe
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032503125)
 
 (1) Die Verbindung zur gemeinschaftlichen Berufsausübung in einer
 Berufsausübungsgesellschaft nach § 59b ist Rechtsanwälten auch
@@ -2320,6 +2401,7 @@ Ausübung des Rechtsanwaltsberufs dienen.
 
 
 #### § 59d Berufspflichten bei beruflicher Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032603125)
 
 (1) Gesellschafter, die Angehörige eines in § 59c Absatz 1 Satz 1
 genannten Berufs sind, haben bei ihrer Tätigkeit für die
@@ -2359,6 +2441,7 @@ Mandatsgesellschaft Sorge zu tragen.
 
 
 #### § 59e Berufspflichten der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032704125)
 
 (1) Die §§ 43 bis 43b, 43d, 43e, 44, 45 Absatz 1 Nummer 2 und 3, die
 §§ 48, 49a bis 50, 53, 54, 56 Absatz 1 und 2 und die §§ 57 bis 59a
@@ -2387,6 +2470,7 @@ Mandatsgesellschaft Sorge zu tragen. Absatz 4 gilt entsprechend.
 
 
 #### § 59f Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032805125)
 
 (1) Berufsausübungsgesellschaften bedürfen der Zulassung durch die
 Rechtsanwaltskammer. Keiner Zulassung nach Satz 1 bedürfen
@@ -2451,6 +2535,7 @@ Deckungszusage angegeben ist, die Zulassung mit.
 
 
 #### § 59g Zulassungsverfahren; Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032905125)
 
 (1) Der Antrag auf Zulassung muss folgende Angaben enthalten:
 
@@ -2491,6 +2576,7 @@ anzugebenden Verhältnisse unverzüglich anzuzeigen. Absatz 1 Satz 2 und
 
 
 #### § 59h Erlöschen, Rücknahme und Widerruf der Zulassung; Abwickler
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033006125)
 
 (1) Die Zulassung einer Berufsausübungsgesellschaft erlischt durch
 ihre Auflösung. Im Übrigen gilt § 13 entsprechend.
@@ -2571,6 +2657,7 @@ Abwicklers haften die Gesellschafter als Gesamtschuldner. § 54 Absatz
 
 
 #### § 59i Gesellschafter- und Kapitalstruktur von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033104125)
 
 (1) Zugelassene Berufsausübungsgesellschaften nach diesem Gesetz
 können Gesellschafter einer Berufsausübungsgesellschaft sein. Bei
@@ -2604,6 +2691,7 @@ Ausübung von Gesellschafterrechten bevollmächtigen.
 
 
 #### § 59j Geschäftsführungsorgane; Aufsichtsorgane
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033205125)
 
 (1) Nur Rechtsanwälte oder Angehörige eines der in § 59c Absatz 1 Satz
 1 genannten Berufe können Mitglieder des Geschäftsführungs- oder
@@ -2659,6 +2747,7 @@ Geschäftsbetrieb sind die Absätze 1, 5 und 6 entsprechend anzuwenden.
 
 
 #### § 59k Rechtsdienstleistungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033304125)
 
 Berufsausübungsgesellschaften sind befugt, Rechtsdienstleistungen im
 Sinne des § 2 des Rechtsdienstleistungsgesetzes zu erbringen. Sie
@@ -2668,6 +2757,7 @@ vorgeschriebenen Voraussetzungen im Einzelfall vorliegen müssen.
 
 
 #### § 59l Vertretung vor Gerichten und Behörden
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033402125)
 
 (1) Berufsausübungsgesellschaften können als Prozess- oder
 Verfahrensbevollmächtigte beauftragt werden. Sie haben in diesem Fall
@@ -2684,6 +2774,7 @@ werden.
 
 
 #### § 59m Kanzlei der Berufsausübungsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033507125)
 
 (1) Die Berufsausübungsgesellschaft muss an ihrem Sitz eine Kanzlei
 unterhalten, in der zumindest ein geschäftsführender Rechtsanwalt
@@ -2705,6 +2796,7 @@ Absatz 2 und 3 sowie § 30 entsprechend.
 
 
 #### § 59n Berufshaftpflichtversicherung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037201125)
 
 (1) Berufsausübungsgesellschaften sind verpflichtet, eine
 Berufshaftpflichtversicherung abzuschließen und während der Dauer
@@ -2728,6 +2820,7 @@ Versicherungsschutzes.
 
 
 #### § 59o Mindestversicherungssumme und Jahreshöchstleistung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037302125)
 
 (1) Für Berufsausübungsgesellschaften, bei denen für Verbindlichkeiten
 der Berufsausübungsgesellschaft aus Schäden wegen fehlerhafter
@@ -2767,6 +2860,7 @@ vierfachen Betrag der Mindestversicherungssumme belaufen.
 
 
 #### § 59p Rechtsanwaltsgesellschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037400125)
 
 Berufsausübungsgesellschaften, bei denen Rechtsanwälte die Mehrheit
 der Stimmrechte innehaben und bei denen die Mehrheit der Mitglieder
@@ -2775,6 +2869,7 @@ des Geschäftsführungsorgans Rechtsanwälte sind, dürfen die Bezeichnung
 
 
 #### § 59q Bürogemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037500125)
 
 (1) Rechtsanwälte können sich zu einer Gesellschaft verbinden, die der
 gemeinschaftlichen Organisation der Berufstätigkeit der Gesellschafter
@@ -2802,14 +2897,17 @@ Bürogemeinschaft nach Absatz 2 entsprechend.
 
 
 ## Vierter Teil - Die Rechtsanwaltskammern
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG000901311)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001001311)
 
 
 
 #### § 60 Bildung und Zusammensetzung der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011205125)
 
 (1) Für den Bezirk eines Oberlandesgerichts wird eine
 Rechtsanwaltskammer gebildet. Sie hat ihren Sitz am Ort des
@@ -2878,10 +2976,12 @@ Oberlandesgerichts.
 
 
 #### § 61 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011304125)
 
 
 
 #### § 62 Stellung der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011401311)
 
 (1) Die Rechtsanwaltskammer ist eine Körperschaft des öffentlichen
 Rechts.
@@ -2893,13 +2993,16 @@ und Satzung beachtet, insbesondere die der Rechtsanwaltskammer
 
 
 ### Zweiter Abschnitt - Organe der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001101311)
 
 
 
 #### Erster Unterabschnitt - Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001201311)
 
 
 ##### § 63 Zusammensetzung des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011501311)
 
 (1) Die Rechtsanwaltskammer hat einen Vorstand.
 
@@ -2910,6 +3013,7 @@ kann eine höhere Zahl festsetzen.
 
 
 ##### § 64 Wahlen zum Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011602311)
 
 (1) Die Mitglieder des Vorstandes werden von den Mitgliedern der
 Kammer in geheimer und unmittelbarer Wahl durch Briefwahl gewählt.
@@ -2922,6 +3026,7 @@ oder Bewerber, die die meisten Stimmen auf sich vereinigen.
 
 
 ##### § 65 Voraussetzungen der Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011702311)
 
 Zum Mitglied des Vorstandes kann nur gewählt werden, wer
 
@@ -2936,6 +3041,7 @@ Zum Mitglied des Vorstandes kann nur gewählt werden, wer
 
 
 ##### § 66 Verlust der Wählbarkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011805125)
 
 (1) Zum Mitglied des Vorstands kann nicht gewählt werden,
 
@@ -2972,6 +3078,7 @@ vorsehen.
 
 
 ##### § 67 Recht zur Ablehnung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE011902311)
 
 Die Wahl zum Mitglied des Vorstandes kann ablehnen,
 
@@ -2989,6 +3096,7 @@ Die Wahl zum Mitglied des Vorstandes kann ablehnen,
 
 
 ##### § 68 Wahlperiode
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012001311)
 
 (1) Die Mitglieder des Vorstandes werden auf vier Jahre gewählt. Die
 Wiederwahl ist zulässig.
@@ -3007,6 +3115,7 @@ Neuwahl statt, so sind beide Wahlen getrennt vorzunehmen.
 
 
 ##### § 69 Vorzeitiges Ausscheiden eines Vorstandsmitgliedes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012105125)
 
 (1) Ein Rechtsanwalt scheidet als Mitglied des Vorstandes aus,
 
@@ -3048,6 +3157,7 @@ Mitgliedschaft führen.
 
 
 ##### § 70 Sitzungen des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012202125)
 
 (1) Der Vorstand wird durch den Präsidenten einberufen.
 
@@ -3059,12 +3169,14 @@ Gegenstand angeben, der behandelt werden soll.
 
 
 ##### § 71 Beschlussfähigkeit des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012303125)
 
 Der Vorstand ist beschlußfähig, wenn mindestens die Hälfte seiner
 Mitglieder anwesend ist.
 
 
 ##### § 72 Beschlüsse des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012404125)
 
 (1) Die Beschlüsse des Vorstandes werden mit einfacher Stimmenmehrheit
 gefaßt. Das gleiche gilt für die von dem Vorstand vorzunehmenden
@@ -3085,6 +3197,7 @@ Abstimmungen außerhalb von Sitzungen sind schriftlich durchzuführen.
 
 
 ##### § 73 Aufgaben des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012507125)
 
 (1) Der Vorstand hat die ihm durch Gesetz zugewiesenen Aufgaben zu
 erfüllen. Ihm obliegen auch die der Rechtsanwaltskammer in diesem
@@ -3162,6 +3275,7 @@ verbindlich, wenn er von beiden Seiten angenommen wird.
 
 
 ##### § 73a Einheitliche Stelle
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036600311)
 
 Die Länder können durch Gesetz den Rechtsanwaltskammern allein oder
 gemeinsam mit anderen Stellen die Aufgaben einer einheitlichen Stelle
@@ -3172,6 +3286,7 @@ werden wollen.
 
 
 ##### § 73b Verwaltungsbehörde für Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035402125)
 
 (1) Die Rechtsanwaltskammer ist im Sinne des § 36 Absatz 1 Nummer 1
 des Gesetzes über Ordnungswidrigkeiten Verwaltungsbehörde für
@@ -3190,6 +3305,7 @@ Gesetzes über Ordnungswidrigkeiten.
 
 
 ##### § 74 Rügerecht des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012605125)
 
 (1) Der Vorstand kann das Verhalten eines Rechtsanwalts, durch das
 dieser ihm obliegende Pflichten verletzt hat, rügen, wenn die Schuld
@@ -3234,6 +3350,7 @@ anzuwenden.
 
 
 ##### § 74a Antrag auf anwaltsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012706125)
 
 (1) Wird der Einspruch gegen den Rügebescheid durch den Vorstand der
 Rechtsanwaltskammer zurückgewiesen, so kann der Rechtsanwalt innerhalb
@@ -3290,6 +3407,7 @@ Berufsausübungsgesellschaften entsprechend anzuwenden. Die §§ 113b und
 
 
 ##### § 75 Ehrenamtliche Tätigkeit des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012802125)
 
 Die Mitglieder des Vorstandes üben ihre Tätigkeit unentgeltlich aus.
 Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer
@@ -3299,6 +3417,7 @@ Rechtsanwaltskammer herangezogen werden.
 
 
 ##### § 76 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE012902125)
 
 (1) Die Mitglieder des Vorstands haben über die Angelegenheiten, die
 ihnen bei ihrer Tätigkeit im Vorstand über Rechtsanwälte und andere
@@ -3343,6 +3462,7 @@ unterliegen, § 43e Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 
 ##### § 77 Abteilungen des Vorstandes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013004125)
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die
 Geschäftsordnung der Kammer es zuläßt. Er überträgt den Abteilungen
@@ -3371,10 +3491,12 @@ beantragt.
 
 
 #### Zweiter Unterabschnitt - Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001301311)
 
 
 
 ##### § 78 Zusammensetzung und Wahl des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013101311)
 
 (1) Der Vorstand wählt aus seiner Mitte ein Präsidium.
 
@@ -3400,6 +3522,7 @@ Monaten ein neues Mitglied gewählt.
 
 
 ##### § 79 Aufgaben des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013201311)
 
 (1) Das Präsidium erledigt die Geschäfte des Vorstandes, die ihm durch
 dieses Gesetz oder durch Beschluß des Vorstandes übertragen werden.
@@ -3409,6 +3532,7 @@ Es berichtet hierüber dem Vorstand jedes Vierteljahr.
 
 
 ##### § 80 Aufgaben des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013301311)
 
 (1) Der Präsident vertritt die Kammer gerichtlich und
 außergerichtlich.
@@ -3425,6 +3549,7 @@ ihm weitere Aufgaben übertragen werden.
 
 
 ##### § 81 Berichte über die Tätigkeit der Kammer und über Wahlergebnisse
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013402125)
 
 (1) Der Präsident erstattet der Landesjustizverwaltung jährlich
 Bericht über die Tätigkeit der Kammer und des Vorstandes.
@@ -3435,6 +3560,7 @@ Bundesrechtsanwaltskammer an.
 
 
 ##### § 82 Aufgaben des Schriftführers
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013501311)
 
 Der Schriftführer führt das Protokoll über die Sitzungen des
 Vorstandes und der Kammerversammlung. Er führt den Schriftwechsel des
@@ -3442,6 +3568,7 @@ Vorstandes, soweit es sich nicht der Präsident vorbehält.
 
 
 ##### § 83 Aufgaben des Schatzmeisters
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013601311)
 
 (1) Der Schatzmeister verwaltet das Vermögen der Kammer nach den
 Weisungen des Präsidiums. Er ist berechtigt, Geld in Empfang zu
@@ -3451,6 +3578,7 @@ nehmen.
 
 
 ##### § 84 Einziehung rückständiger Beiträge
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013703311)
 
 (1) Rückständige Beiträge, Umlagen, Gebühren und Auslagen werden auf
 Grund der von dem Schatzmeister ausgestellten, mit der Bescheinigung
@@ -3471,10 +3599,12 @@ geltend zu machen.
 
 
 #### Dritter Unterabschnitt - Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001401311)
 
 
 
 ##### § 85 Einberufung der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013802125)
 
 (1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
@@ -3488,6 +3618,7 @@ die Kammerversammlung am Sitz der Rechtsanwaltskammer stattfinden.
 
 
 ##### § 86 Einladung und Einberufungsfrist
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE013903125)
 
 Die Kammerversammlung ist mindestens zwei Wochen vorher durch
 schriftliche oder elektronische Einladung einzuberufen. Verfügt das
@@ -3499,6 +3630,7 @@ Kammerversammlung mit kürzerer Frist einberufen werden.
 
 
 ##### § 86a Durchführung der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038800125)
 
 (1) Die Kammerversammlung findet vorbehaltlich des Absatzes 2 in
 Präsenz aller Beteiligten am Ort der Versammlung statt.
@@ -3550,6 +3682,7 @@ Kammerversammlung nicht anzuwenden.
 
 
 ##### § 87 Ankündigung der Tagesordnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014001311)
 
 (1) Bei der Einberufung der Kammerversammlung ist der Gegenstand, über
 den in der Kammerversammlung Beschluß gefaßt werden soll, anzugeben.
@@ -3559,6 +3692,7 @@ angekündigt ist, dürfen keine Beschlüsse gefaßt werden.
 
 
 ##### § 88 Wahlen und Beschlüsse der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014103311)
 
 (1) Die Voraussetzungen, unter denen die Kammerversammlung
 beschlußfähig ist, werden durch die Geschäftsordnung der Kammer
@@ -3583,6 +3717,7 @@ zu unterzeichnen ist.
 
 
 ##### § 89 Aufgaben der Kammerversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014206125)
 
 (1) Die Kammerversammlung hat die ihr durch Gesetz zugewiesenen
 Aufgaben zu erfüllen. Sie hat Angelegenheiten, die von allgemeiner
@@ -3629,19 +3764,23 @@ Bedeutung für die Rechtsanwaltschaft sind, zu erörtern.
 
 
 ##### (XXXX) §§ 90 und 91 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014303311)
 
 
 Gerichte in Anwaltssachen und gerichtliches
 
 ## Fünfter Teil - Verfahren in verwaltungsrechtlichen Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001603311)
 
 
 
 ### Erster Abschnitt - Das Anwaltsgericht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001702311)
 
 
 
 #### § 92 Bildung des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014502311)
 
 (1) Für den Bezirk der Rechtsanwaltskammer wird ein Anwaltsgericht
 errichtet. Es hat seinen Sitz an demselben Ort wie die
@@ -3656,6 +3795,7 @@ Landesjustizverwaltung.
 
 
 #### § 93 Besetzung des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014603311)
 
 (1) Das Anwaltsgericht wird mit der erforderlichen Anzahl von
 Vorsitzenden und weiteren Mitgliedern besetzt. Sind mehrere
@@ -3669,6 +3809,7 @@ Bestellung des geschäftsleitenden Vorsitzenden zu hören.
 
 
 #### § 94 Ernennung der Mitglieder des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014706125)
 
 (1) Zu Mitgliedern des Anwaltsgerichts können nur Rechtsanwälte
 ernannt werden. Sie müssen der Rechtsanwaltskammer angehören, für
@@ -3707,6 +3848,7 @@ werden.
 
 
 #### § 95 Rechtsstellung der Mitglieder des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014806311)
 
 (1) Die Mitglieder des Anwaltsgerichts sind ehrenamtliche Richter. Sie
 haben in ihrer Eigenschaft als ehrenamtliche Richter des
@@ -3754,12 +3896,14 @@ persönlichen Gründen nicht zuzumuten ist, sein Amt weiter auszuüben.
 
 
 #### § 96 Besetzung der Kammern des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE014902311)
 
 Die Kammern des Anwaltsgerichts entscheiden in der Besetzung von drei
 Mitgliedern einschließlich des Vorsitzenden.
 
 
 #### § 97 Geschäftsverteilung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015002311)
 
 Für die Geschäftsverteilung bei dem Anwaltsgericht gelten die
 Vorschriften des Zweiten Titels sowie § 70 Abs. 1 des
@@ -3767,6 +3911,7 @@ Gerichtsverfassungsgesetzes entsprechend.
 
 
 #### § 98 Geschäftsstelle und Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015102311)
 
 (1) Bei dem Anwaltsgericht wird eine Geschäftsstelle eingerichtet.
 
@@ -3785,6 +3930,7 @@ Landesjustizverwaltung.
 
 
 #### § 99 Amts- und Rechtshilfe
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015202311)
 
 (1) Die Anwaltsgerichte haben sich gegenseitig Amts- und Rechtshilfe
 zu leisten.
@@ -3799,10 +3945,12 @@ einzelnes Mitglied erledigt werden.
 
 
 ### Zweiter Abschnitt - Der Anwaltsgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001802311)
 
 
 
 #### § 100 Bildung des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015302311)
 
 (1) Der Anwaltsgerichtshof wird bei dem Oberlandesgericht errichtet. §
 92 Abs. 3 ist entsprechend anzuwenden.
@@ -3827,6 +3975,7 @@ Landesgericht eines Landes vereinbaren.
 
 
 #### § 101 Besetzung des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015403311)
 
 (1) Der Anwaltsgerichtshof wird mit einem Präsidenten, der
 erforderlichen Anzahl von weiteren Vorsitzenden sowie mit
@@ -3845,6 +3994,7 @@ bestellen. § 93 Abs. 2 gilt sinngemäß.
 
 
 #### § 102 Bestellung von Berufsrichtern zu Mitgliedern des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015503311)
 
 (1) Die Mitglieder des Anwaltsgerichtshofes, die Berufsrichter sind,
 werden von der Landesjustizverwaltung aus der Zahl der ständigen
@@ -3860,6 +4010,7 @@ Ländern getroffenen Vereinbarung (§ 100 Abs. 4) bestellt.
 
 
 #### § 103 Ernennung von Rechtsanwälten zu Mitgliedern des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015609125)
 
 (1) Die anwaltlichen Mitglieder des Anwaltsgerichtshofes werden von
 der Landesjustizverwaltung für die Dauer von fünf Jahren ernannt.
@@ -3897,6 +4048,7 @@ Fahrt- und Übernachtungskosten nach Maßgabe der Nummern 7003, 7004 und
 
 
 #### § 104 Besetzung der Senate des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015703311)
 
 Die Senate des Anwaltsgerichtshofes entscheiden in der Besetzung von
 fünf Mitgliedern einschließlich des Vorsitzenden, soweit nicht
@@ -3906,6 +4058,7 @@ anwaltliche Mitglieder und zwei Berufsrichter mit.
 
 
 #### § 105 Geschäftsverteilung und Geschäftsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015802311)
 
 (1) Für die Geschäftsverteilung bei dem Anwaltsgerichtshof gelten die
 Vorschriften des Zweiten Titels sowie § 70 Abs. 1 des
@@ -3917,10 +4070,12 @@ bedarf der Bestätigung durch die Landesjustizverwaltung.
 
 
 ### Dritter Abschnitt - Der Bundesgerichtshof in Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG001901311)
 
 
 
 #### § 106 Besetzung des Senats für Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE015903311)
 
 (1) Für Angelegenheiten, die in diesem Gesetz dem Bundesgerichtshof
 zugewiesen sind, wird bei dem Bundesgerichtshof ein Senat für
@@ -3938,6 +4093,7 @@ Bundesgerichtshofes bestimmter Vorsitzender Richter.
 
 
 #### § 107 Rechtsanwälte als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016005125)
 
 (1) Die Beisitzer aus den Reihen der Rechtsanwälte werden von dem
 Bundesministerium der Justiz und für Verbraucherschutz auf die Dauer
@@ -3960,6 +4116,7 @@ Rest seiner Amtszeit ein Nachfolger berufen.
 
 
 #### § 108 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016104311)
 
 (1) Zum Beisitzer kann nur ein Rechtsanwalt berufen werden, der in den
 Vorstand der Rechtsanwaltskammer gewählt werden kann (§§ 65, 66). § 94
@@ -3970,6 +4127,7 @@ Gründen abgelehnt werden.
 
 
 #### § 109 Beendigung des Amtes als Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016205311)
 
 (1) Für das Ende des Amtes des anwaltlichen Beisitzers gilt § 95 Abs.
 1a Satz 1 und 2 entsprechend mit der Maßgabe, dass keine
@@ -3988,6 +4146,7 @@ Rechtsanwalt und die Bundesrechtsanwaltskammer zu hören.
 
 
 #### § 110 Stellung der Rechtsanwälte als Beisitzer und Pflicht zur Verschwiegenheit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016302125)
 
 (1) Die Rechtsanwälte sind ehrenamtliche Richter. Sie haben in der
 Sitzung, zu der sie als Beisitzer herangezogen werden, die Stellung
@@ -4000,6 +4159,7 @@ Aussage erteilt der Präsident des Bundesgerichtshofes.
 
 
 #### § 111 Reihenfolge der Teilnahme an den Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016401311)
 
 Die zu Beisitzern berufenen Rechtsanwälte sind zu den einzelnen
 Sitzungen in der Reihenfolge einer Liste heranzuziehen, die der
@@ -4009,16 +4169,19 @@ aufstellt.
 
 
 #### § 112 Entschädigung der anwaltlichen Beisitzer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016502311)
 
 Für die Aufwandsentschädigung der anwaltlichen Beisitzer und für den
 Ersatz ihrer Reisekosten gilt § 103 Abs. 6 entsprechend.
 
 
 ### Vierter Abschnitt - Gerichtliches Verfahren in verwaltungsrechtlichen Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005801311)
 
 
 
 #### § 112a Rechtsweg und sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034602311)
 
 (1) Der Anwaltsgerichtshof entscheidet im ersten Rechtszug über alle
 öffentlich-rechtlichen Streitigkeiten nach diesem Gesetz, nach einer
@@ -4057,6 +4220,7 @@ Anwaltssachen).
 
 
 #### § 112b Örtliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034701311)
 
 Örtlich zuständig ist der Anwaltsgerichtshof, der für den
 Oberlandesgerichtsbezirk errichtet ist, in dem der Verwaltungsakt
@@ -4069,6 +4233,7 @@ Sitz, seine Kanzlei oder ansonsten seinen Wohnsitz hat.
 
 
 #### § 112c Anwendung der Verwaltungsgerichtsordnung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034801311)
 
 (1) Soweit dieses Gesetz keine abweichenden Bestimmungen über das
 gerichtliche Verfahren enthält, gelten die Vorschriften der
@@ -4087,6 +4252,7 @@ Verwaltungsaktes.
 
 
 #### § 112d Klagegegner und Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034901311)
 
 (1) Die Klage ist gegen die Rechtsanwaltskammer, die
 Bundesrechtsanwaltskammer oder die Behörde zu richten,
@@ -4109,6 +4275,7 @@ Gerichts besonders bestellt.
 
 
 #### § 112e Berufung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035001311)
 
 Gegen Endurteile einschließlich der Teilurteile, Grundurteile und
 Zwischenurteile über die Zulässigkeit steht den Beteiligten die
@@ -4120,6 +4287,7 @@ Bundesgerichtshof an die Stelle des Oberverwaltungsgerichts tritt.
 
 
 #### § 112f Klagen gegen Wahlen und Beschlüsse
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035101311)
 
 (1) Für ungültig oder nichtig erklärt werden können, wenn sie unter
 Verletzung des Gesetzes oder der Satzung zustande gekommen sind oder
@@ -4158,6 +4326,7 @@ werden.
 
 
 #### § 112g Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035501311)
 
 Auf den Rechtsschutz bei überlangen Gerichtsverfahren sind die
 Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
@@ -4167,6 +4336,7 @@ anzuwenden.
 
 
 #### § 112h Verwendung gefälschter Berufsqualifikationsnachweise
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE036501125)
 
 Wird durch den Anwaltsgerichtshof oder den Bundesgerichtshof
 festgestellt, dass ein Rechtsanwalt bei einem Antrag auf Anerkennung
@@ -4178,10 +4348,12 @@ Rechtsanwaltskammer zu übermitteln.
 
 
 ## Sechster Teil - Anwaltsgerichtliche Ahndung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002002311)
 
 
 
 ### § 113 Ahndung einer Pflichtverletzung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016604125)
 
 (1) Gegen einen Rechtsanwalt, der schuldhaft gegen Pflichten verstößt,
 die in diesem Gesetz oder in der Berufsordnung nach § 59a bestimmt
@@ -4227,6 +4399,7 @@ nebeneinander verhängt werden.
 
 
 ### § 113a Leitungspersonen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037600125)
 
 Leitungspersonen einer Berufsausübungsgesellschaft sind
 
@@ -4255,6 +4428,7 @@ Leitungspersonen einer Berufsausübungsgesellschaft sind
 
 
 ### § 113b Rechtsnachfolger
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037700125)
 
 Im Fall einer Gesamtrechtsnachfolge oder einer partiellen
 Gesamtrechtsnachfolge durch Aufspaltung (§ 123 Absatz 1 des
@@ -4263,6 +4437,7 @@ oder die Rechtsnachfolger verhängt werden.
 
 
 ### § 114 Anwaltsgerichtliche Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016706125)
 
 (1) Anwaltsgerichtliche Maßnahmen sind bei Verfahren gegen
 Rechtsanwälte
@@ -4325,6 +4500,7 @@ können nebeneinander verhängt werden.
 
 
 ### § 114a Wirkungen des Vertretungsverbots und Zuwiderhandlungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016804125)
 
 (1) Der Rechtsanwalt, gegen den ein Vertretungsverbot (§ 114 Abs. 1
 Nr. 4) verhängt ist, darf auf dem ihm untersagten Rechtsgebiet nicht
@@ -4353,6 +4529,7 @@ Rechtsdienstleistungsbefugnis.
 
 
 ### § 115 Verjährung von Pflichtverletzungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE016903125)
 
 (1) Die Verfolgung einer Pflichtverletzung verjährt nach fünf Jahren.
 Abweichend davon verjährt sie
@@ -4390,6 +4567,7 @@ Strafgesetzbuches entsprechend.
 
 
 ### § 115a Rüge und anwaltsgerichtliche Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017003125)
 
 (1) Der Einleitung eines anwaltsgerichtlichen Verfahrens steht es
 nicht entgegen, daß der Vorstand der Rechtsanwaltskammer bereits wegen
@@ -4410,6 +4588,7 @@ Absatz 1 bis 3 nicht festzustellen ist.
 
 
 ### § 115b Anderweitige Ahndung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017103125)
 
 Von einer anwaltsgerichtlichen Ahndung ist abzusehen, wenn
 
@@ -4433,18 +4612,22 @@ anderweitige Ahndung unberührt.
 
 
 ## Siebenter Teil - Anwaltsgerichtliches Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002103125)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002202125)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG006100125)
 
 
 
 ##### § 116 Vorschriften für das Verfahren und den Rechtsschutz bei überlangen Gerichtsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017203311)
 
 (1) Für das anwaltsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften. Ergänzend sind das Gerichtsverfassungsgesetz und die
@@ -4458,6 +4641,7 @@ anzuwenden.
 
 
 ##### § 117 Keine Verhaftung des Rechtsanwalts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017302311)
 
 Der Rechtsanwalt darf zur Durchführung des anwaltsgerichtlichen
 Verfahrens weder vorläufig festgenommen noch verhaftet oder vorgeführt
@@ -4467,12 +4651,14 @@ werden.
 
 
 ##### § 117a Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017403311)
 
 Auf die Verteidigung im anwaltsgerichtlichen Verfahren ist § 140 Abs.
 1 Nr. 1 bis 3, 6, 7 und 9 der Strafprozeßordnung nicht anzuwenden.
 
 
 ##### § 117b Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017503125)
 
 Der Vorstand der Rechtsanwaltskammer und das Mitglied der
 Rechtsanwaltskammer, das einer Verletzung seiner Pflichten beschuldigt
@@ -4484,6 +4670,7 @@ die Akteneinsicht durch das Mitglied ist § 147 Abs. 2 Satz 1, Abs. 3,
 
 
 ##### § 118 Verhältnis des anwaltsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017604125)
 
 (1) Ist gegen ein Mitglied der Rechtsanwaltskammer, das einer
 Verletzung seiner Pflichten beschuldigt wird, wegen desselben
@@ -4530,6 +4717,7 @@ im Straf- oder Bußgeldverfahren stellen.
 
 
 ##### § 118a Verhältnis des anwaltsgerichtlichen Verfahrens zu berufsaufsichtlichen Verfahren nach anderen Berufsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017704125)
 
 (1) Über eine Pflichtverletzung eines Mitglieds der
 Rechtsanwaltskammer, die zugleich Pflichten eines anderen Berufs
@@ -4552,6 +4740,7 @@ Pflichten.
 
 
 ##### § 118b Aussetzung des anwaltsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017802311)
 
 Das anwaltsgerichtliche Verfahren kann ausgesetzt werden, wenn in
 einem anderen gesetzlich geordneten Verfahren über eine Frage zu
@@ -4560,10 +4749,12 @@ anwaltsgerichtlichen Verfahren von wesentlicher Bedeutung ist.
 
 
 #### Zweiter Unterabschnitt - Anwaltsgerichtliches Verfahren gegen Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG006200125)
 
 
 
 ##### § 118c Anwaltsgerichtliche Verfahren gegen Leitungspersonen und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037800125)
 
 (1) Das anwaltsgerichtliche Verfahren gegen eine Leitungsperson und
 das anwaltsgerichtliche Verfahren gegen eine
@@ -4579,6 +4770,7 @@ erforderlich erscheinen.
 
 
 ##### § 118d Vertretung von Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE037900125)
 
 (1) Die Berufsausübungsgesellschaft wird vorbehaltlich des § 118e
 Absatz 1 Satz 2 im anwaltsgerichtlichen Verfahren durch ihre
@@ -4591,6 +4783,7 @@ Berufspflichtverletzung beschuldigt sind.
 
 
 ##### § 118e Besonderer Vertreter
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038000125)
 
 (1) Hat die Berufsausübungsgesellschaft keinen gesetzlichen Vertreter
 oder sind alle gesetzlichen Vertreter der Berufsausübungsgesellschaft
@@ -4606,6 +4799,7 @@ Bestellung ist der Vorsitzende des Anwaltsgerichts zuständig.
 
 
 ##### § 118f Verfahrenseintritt von Rechtsnachfolgern
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038100125)
 
 Im Fall einer Rechtsnachfolge (§ 113b) treten Rechtsnachfolger der
 Berufsausübungsgesellschaft in diejenige Lage des anwaltsgerichtlichen
@@ -4614,6 +4808,7 @@ Zeitpunkt des Wirksamwerdens der Rechtsnachfolge befunden hat.
 
 
 ##### § 118g Vernehmung des gesetzlichen Vertreters
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038200125)
 
 (1) Dem gesetzlichen Vertreter der Berufsausübungsgesellschaft steht
 es im anwaltsgerichtlichen Verfahren frei, sich zu äußern oder nicht
@@ -4630,14 +4825,17 @@ Strafprozessordnung gelten entsprechend.
 
 
 ### Zweiter Abschnitt - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002301311)
 
 
 
 #### Erster Unterabschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002401311)
 
 
 
 ##### § 119 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017903125)
 
 (1) Für das anwaltsgerichtliche Verfahren ist im ersten Rechtszug das
 Anwaltsgericht zuständig.
@@ -4648,6 +4846,7 @@ Rechtsanwaltskammer zur Zeit der Einleitung des Verfahrens angehört.
 
 
 ##### § 120 Mitwirkung der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018002311)
 
 Die Staatsanwaltschaft bei dem Oberlandesgericht, in dessen Bezirk das
 Anwaltsgericht seinen Sitz hat (§ 119 Abs. 2), nimmt in den Verfahren
@@ -4655,10 +4854,12 @@ vor dem Anwaltsgericht die Aufgaben der Staatsanwaltschaft wahr.
 
 
 #### Zweiter Unterabschnitt - Einleitung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002501311)
 
 
 
 ##### § 121 Einleitung des anwaltsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018202311)
 
 Das anwaltsgerichtliche Verfahren wird dadurch eingeleitet, daß die
 Staatsanwaltschaft bei dem Anwaltsgericht eine Anschuldigungsschrift
@@ -4666,6 +4867,7 @@ einreicht.
 
 
 ##### § 122 Gerichtliche Entscheidung über die Einleitung des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018303125)
 
 (1) Gibt die Staatsanwaltschaft einem Antrag des Vorstandes der
 Rechtsanwaltskammer, gegen ein Mitglied der Rechtsanwaltskammer das
@@ -4688,6 +4890,7 @@ der Strafprozeßordnung entsprechend anzuwenden.
 
 
 ##### § 123 Antrag des Rechtsanwalts auf Einleitung des anwaltsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018403125)
 
 (1) Das Mitglied der Rechtsanwaltskammer kann bei der
 Staatsanwaltschaft beantragen, das anwaltsgerichtliche Verfahren gegen
@@ -4734,10 +4937,12 @@ durch den Vorstand der Rechtsanwaltskammer erteilt werden.
 
 
 ##### (XXXX) §§ 124 bis 129 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018501311)
 
 
 
 ##### § 130 Inhalt der Anschuldigungsschrift
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018603125)
 
 In der Anschuldigungsschrift (§ 121 dieses Gesetzes sowie § 207 Abs. 3
 der Strafprozeßordnung) ist die dem Mitglied der Rechtsanwaltskammer
@@ -4749,6 +4954,7 @@ das Hauptverfahren vor dem Anwaltsgericht zu eröffnen.
 
 
 ##### § 131 Entscheidung über die Eröffnung des Hauptverfahrens vor dem Anwaltsgericht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018703125)
 
 (1) In dem Beschluß, durch den das Hauptverfahren eröffnet wird, läßt
 das Anwaltsgericht die Anschuldigung zur Hauptverhandlung zu.
@@ -4763,6 +4969,7 @@ Staatsanwaltschaft die sofortige Beschwerde zu.
 
 
 ##### § 132 Rechtskraftwirkung eines ablehnenden Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018802311)
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
 anfechtbaren Beschluß abgelehnt, so kann der Antrag auf Einleitung des
@@ -4772,6 +4979,7 @@ rechtskräftig geworden ist, erneut gestellt werden.
 
 
 ##### § 133 Zustellung des Eröffnungsbeschlusses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE018902125)
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem Mitglied
 der Rechtsanwaltskammer spätestens mit der Ladung zuzustellen.
@@ -4780,10 +4988,12 @@ Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
 
 
 #### Dritter Unterabschnitt - Hauptverhandlung vor dem Anwaltsgericht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002602311)
 
 
 
 ##### § 134 Hauptverhandlung trotz Ausbleibens des Mitglieds der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019002125)
 
 Die Hauptverhandlung kann gegen ein Mitglied der Rechtsanwaltskammer,
 das nicht erschienen ist, durchgeführt werden, wenn das Mitglied
@@ -4793,14 +5003,17 @@ ist nicht zulässig.
 
 
 ##### § 135 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019103125)
 
 
 
 ##### § 136 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019201311)
 
 
 
 ##### § 137 Beweisaufnahme durch einen beauftragten oder ersuchten Richter
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019303125)
 
 Das Anwaltsgericht kann eines seiner Mitglieder beauftragen, Zeugen
 oder Sachverständige zu vernehmen. Es kann auch ein anderes
@@ -4813,6 +5026,7 @@ Entfernung nicht zugemutet werden kann.
 
 
 ##### § 138 Verlesen von Protokollen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019403125)
 
 (1) Das Anwaltsgericht beschließt nach pflichtmäßigem Ermessen, ob die
 Aussagen von Zeugen oder Sachverständigen, die bereits in dem
@@ -4837,6 +5051,7 @@ und Gründe für eine Ablehnung des Antrags jetzt nicht mehr bestehen.
 
 
 ##### § 139 Entscheidung des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019505125)
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
 Verkündung des Urteils.
@@ -4858,6 +5073,7 @@ des Verfahrens.
 
 
 ##### § 140 Protokollführer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019604125)
 
 (1) In der Hauptverhandlung vor dem Anwaltsgericht werden die Aufgaben
 des Protokollführers von einem Rechtsanwalt wahrgenommen. Der
@@ -4877,20 +5093,24 @@ Aussage erteilt der Vorsitzende der Kammer des Anwaltsgerichts.
 
 
 ##### § 141 Ausfertigung der Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019702311)
 
 Ausfertigungen und Auszüge der Entscheidungen des Anwaltsgerichts
 werden von dem Vorsitzenden der Kammer des Anwaltsgerichts erteilt.
 
 
 ### Dritter Abschnitt - Rechtsmittel
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002701311)
 
 
 
 #### Erster Unterabschnitt - Rechtsmittel gegen Entscheidungen des Anwaltsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002802311)
 
 
 
 ##### § 142 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019802311)
 
 Soweit Beschlüsse des Anwaltsgerichts mit der Beschwerde angefochten
 werden können, ist für die Verhandlung und Entscheidung über dieses
@@ -4898,6 +5118,7 @@ Rechtsmittel der Anwaltsgerichtshof zuständig.
 
 
 ##### § 143 Berufung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE019904125)
 
 (1) Gegen das Urteil des Anwaltsgerichts ist die Berufung an den
 Anwaltsgerichtshof zulässig.
@@ -4915,6 +5136,7 @@ sinngemäß anzuwenden; hierbei lässt § 134 die sinngemäße Anwendung des
 
 
 ##### § 144 Mitwirkung der Staatsanwaltschaft vor dem Anwaltsgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020002311)
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Anwaltsgerichtshof werden von der Staatsanwaltschaft bei dem
@@ -4923,10 +5145,12 @@ dem der Anwaltsgerichtshof errichtet ist.
 
 
 #### Zweiter Unterabschnitt - Rechtsmittel gegen Entscheidungen des Anwaltsgerichtshofes
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG002902311)
 
 
 
 ##### § 145 Revision
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020103125)
 
 (1) Gegen ein Urteil des Anwaltsgerichtshofes ist die Revision an den
 Bundesgerichtshof zulässig,
@@ -4967,6 +5191,7 @@ Revisionsfrist.
 
 
 ##### § 146 Einlegung der Revision und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020203125)
 
 (1) Die Revision ist binnen einer Woche bei dem Anwaltsgerichtshof
 schriftlich einzulegen. Die Frist beginnt mit der Verkündung des
@@ -4985,16 +5210,19 @@ eines anderen Landes zurückverwiesen werden.
 
 
 ##### § 147 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020301311)
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
 
 ### Vierter Abschnitt - Sicherung von Beweisen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003001311)
 
 
 
 #### § 148 Anordnung der Beweissicherung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020404125)
 
 (1) Wird ein anwaltsgerichtliches Verfahren gegen ein Mitglied der
 Rechtsanwaltskammer eingestellt, weil dessen Zulassung erloschen ist,
@@ -5011,6 +5239,7 @@ beauftragen.
 
 
 #### § 149 Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020506125)
 
 (1) Das Anwaltsgericht hat von Amts wegen alle Beweise zu erheben, die
 eine Entscheidung darüber begründen können, ob das eingestellte
@@ -5036,10 +5265,12 @@ bekannt ist.
 
 
 ### Fünfter Abschnitt - Berufs- und Vertretungsverbot als vorläufige Maßnahme
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003101311)
 
 
 
 #### § 150 Voraussetzung für das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020604125)
 
 (1) Liegen dringende Gründe für die Annahme vor, dass gegen ein
 Mitglied der Rechtsanwaltskammer auf Ausschließung aus der
@@ -5061,6 +5292,7 @@ anwaltsgerichtliche Verfahren anhängig ist.
 
 
 #### § 150a Verfahren zur Erzwingung des Antrags der Staatsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020702125)
 
 Hat der Vorstand der Rechtsanwaltskammer gegenüber der
 Staatsanwaltschaft beantragt, daß diese den Antrag auf Verhängung
@@ -5069,6 +5301,7 @@ entsprechend anzuwenden.
 
 
 #### § 151 Mündliche Verhandlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020803125)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, kann nur auf Grund mündlicher Verhandlung ergehen.
@@ -5090,12 +5323,14 @@ des Mitglieds der Rechtsanwaltskammer gebunden zu sein.
 
 
 #### § 152 Abstimmung über das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE020901311)
 
 Zur Verhängung des Berufs- oder Vertretungsverbotes ist eine Mehrheit
 von zwei Dritteln der Stimmen erforderlich.
 
 
 #### § 153 Verbot im Anschluss an die Hauptverhandlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021002125)
 
 Hat das Gericht auf Ausschließung aus der Rechtsanwaltschaft oder auf
 Aberkennung der Rechtsdienstleistungsbefugnis erkannt, so kann es im
@@ -5106,6 +5341,7 @@ Hauptverhandlung nicht erschienen ist.
 
 
 #### § 154 Zustellung des Beschlusses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021103125)
 
 Der Beschluß ist mit Gründen zu versehen. Er ist dem Mitglied der
 Rechtsanwaltskammer zuzustellen. War das Mitglied bei der Verkündung
@@ -5114,6 +5350,7 @@ Gründe unverzüglich nach der Verkündung zuzustellen.
 
 
 #### § 155 Wirkungen des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021203125)
 
 (1) Der Beschluß wird mit der Verkündung wirksam.
 
@@ -5142,6 +5379,7 @@ gegenüber vorgenommen werden.
 
 
 #### § 156 Zuwiderhandlungen gegen das Verbot
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021303125)
 
 (1) Gegen ein Mitglied der Rechtsanwaltskammer, das einem gegen sich
 ergangenen Berufs- oder Vertretungsverbot wissentlich zuwiderhandelt,
@@ -5155,6 +5393,7 @@ zurückzuweisen.
 
 
 #### § 157 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021402311)
 
 (1) Gegen den Beschluß, durch den das Anwaltsgericht oder der
 Anwaltsgerichtshof ein Berufs- oder Vertretungsverbot verhängt, ist
@@ -5174,6 +5413,7 @@ Strafprozeßordnung über die Beschwerde § 151 Abs. 1, 2 und 4 sowie §§
 
 
 #### § 158 Außerkrafttreten des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021503125)
 
 Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
@@ -5189,6 +5429,7 @@ Das Berufs- oder Vertretungsverbot tritt außer Kraft,
 
 
 #### § 159 Aufhebung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021602125)
 
 (1) Das Berufs- oder Vertretungsverbot wird aufgehoben, wenn sich
 ergibt, daß die Voraussetzungen für seine Verhängung nicht oder nicht
@@ -5206,6 +5447,7 @@ Antrag abgelehnt wird, ist eine Beschwerde nicht zulässig.
 
 
 #### § 159a Dreimonatsfrist
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021702311)
 
 (1) Solange das anwaltsgerichtliche Verfahren noch nicht eingeleitet
 ist, darf ein Berufs- oder Vertretungsverbot über drei Monate hinaus
@@ -5224,6 +5466,7 @@ Entscheidung.
 
 
 #### § 159b Prüfung der Fortdauer des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021803125)
 
 (1) In den Fällen des § 159a legt das Anwaltsgericht die Akten durch
 Vermittlung der Staatsanwaltschaft dem Anwaltsgerichtshof zur
@@ -5239,6 +5482,7 @@ anwaltsgerichtliche Verfahren noch nicht eingeleitet ist.
 
 
 #### § 160 Mitteilung des Verbots
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE021904125)
 
 (1) Der Beschluß, durch den ein Berufs- oder Vertretungsverbot
 verhängt wird, ist alsbald dem Präsidenten der Rechtsanwaltskammer in
@@ -5251,6 +5495,7 @@ aufgehoben oder abgeändert, so ist Absatz 1 entsprechend anzuwenden.
 
 
 #### § 161 Bestellung einer Vertretung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022006125)
 
 (1) Für ein Mitglied der Rechtsanwaltskammer, gegen das ein Berufs-
 oder Vertretungsverbot verhängt ist, wird von der Rechtsanwaltskammer
@@ -5263,6 +5508,7 @@ und 4 sind entsprechend anzuwenden.
 
 
 #### § 161a Gegenständlich beschränktes Vertretungsverbot
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022103125)
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass gegen ein
 Mitglied der Rechtsanwaltskammer auf eine Maßnahme nach § 114 Absatz 1
@@ -5276,14 +5522,17 @@ bis 5, §§ 156 bis 160 sind entsprechend anzuwenden.
 
 
 ## Achter Teil - Die Rechtsanwaltschaft bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003201311)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003301311)
 
 
 
 #### § 162 Entsprechende Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022201311)
 
 Für die Rechtsanwaltschaft bei dem Bundesgerichtshof gelten der Erste
 bis Siebente Teil dieses Gesetzes, soweit sich nicht aus den
@@ -5291,6 +5540,7 @@ nachstehenden Vorschriften etwas Besonderes ergibt.
 
 
 #### § 163 Sachliche Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022307125)
 
 Von den Aufgaben, die nach den Vorschriften des Ersten bis Siebenten
 Teils dieses Gesetzes der Rechtsanwaltskammer
@@ -5310,10 +5560,12 @@ Staatsanwaltschaft wahr.
 
 
 ### Zweiter Abschnitt - Zulassung als Rechtsanwalt bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003401311)
 
 
 
 #### § 164 Besondere Voraussetzung für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022401311)
 
 Bei dem Bundesgerichtshof kann als Rechtsanwalt nur zugelassen werden,
 wer durch den Wahlausschuß für Rechtsanwälte bei dem Bundesgerichtshof
@@ -5321,6 +5573,7 @@ benannt wird.
 
 
 #### § 165 Wahlausschuss für Rechtsanwälte bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022501311)
 
 (1) Der Wahlausschuß besteht aus dem Präsidenten und den
 Senatspräsidenten der Zivilsenate des Bundesgerichtshofes sowie aus
@@ -5340,6 +5593,7 @@ vor der Sitzung zugehen.
 
 
 #### § 166 Vorschlagslisten für die Wahl
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022601311)
 
 (1) Die Wahl findet auf Grund von Vorschlagslisten statt.
 
@@ -5364,6 +5618,7 @@ Rechtsanwalts seit mindestens fünf Jahren ohne Unterbrechung ausübt.
 
 
 #### § 167 Prüfung des Wahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022701311)
 
 (1) Der Wahlausschuß prüft, ob der Vorgeschlagene die sachlichen und
 persönlichen Voraussetzungen für die Tätigkeit als Rechtsanwalt bei
@@ -5374,6 +5629,7 @@ Mitglieder als Berichterstatter.
 
 
 #### § 167a Akteneinsicht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE030302125)
 
 (1) Der Rechtsanwalt, der in die Vorschlagsliste aufgenommen wurde,
 hat das Recht, die Protokolle des Wahlausschusses einzusehen.
@@ -5386,6 +5642,7 @@ der Rechtsanwalt einsehen kann.
 
 
 #### § 168 Entscheidung des Wahlausschusses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022801311)
 
 (1) Der Wahlausschuß ist beschlußfähig, wenn die Mehrzahl sowohl der
 dem Bundesgerichtshof angehörenden Mitglieder als auch der Mitglieder
@@ -5403,6 +5660,7 @@ nicht begründet.
 
 
 #### § 169 Mitteilung des Wahlergebnisses
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE022903311)
 
 (1) Der Vorsitzende des Wahlausschusses teilt das Ergebnis der Wahlen
 dem Bundesministerium der Justiz und für Verbraucherschutz mit.
@@ -5412,6 +5670,7 @@ Bundesgerichtshof zuzulassen, sind der Mitteilung beizufügen.
 
 
 #### § 170 Entscheidung über den Antrag auf Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023006125)
 
 (1) Über den Antrag auf Zulassung als Rechtsanwalt bei dem
 Bundesgerichtshof entscheidet das Bundesministerium der Justiz und für
@@ -5428,18 +5687,22 @@ nur dann zu hören, wenn gegen die Zulassung Bedenken bestehen.
 
 
 #### § 171 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023102311)
 
 
 
 ### Dritter Abschnitt - Besondere Rechte und Pflichten und berufliche Zusammenarbeit der Rechtsanwälte beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003502125)
 
 
 
 #### Erster Unterabschnitt - Besondere Rechte und Pflichten der Rechtsanwälte beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG006300125)
 
 
 
 ##### § 172 Beschränkung des Auftretens vor anderen Gerichten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023202311)
 
 (1) Die bei dem Bundesgerichtshof zugelassenen Rechtsanwälte dürfen
 nur vor dem Bundesgerichtshof, den anderen obersten Gerichtshöfen des
@@ -5454,6 +5717,7 @@ Absatz 1 genannten Gerichte ausgeht.
 
 
 ##### § 172a Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE034003125)
 
 Der beim Bundesgerichtshof zugelassene Rechtsanwalt hat seine Kanzlei
 am Sitz des Bundesgerichtshofes einzurichten und zu unterhalten. § 14
@@ -5462,6 +5726,7 @@ dem Bundesgerichtshof widerrufen werden kann.
 
 
 ##### § 173 Bestellung einer Vertretung und eines Abwicklers der Kanzlei
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023306125)
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz soll
 als Vertretung einen bei dem Bundesgerichtshof zugelassenen
@@ -5483,10 +5748,12 @@ Amtshandlung fällig. Sie kann schon vorher eingefordert werden.
 
 
 #### Zweiter Unterabschnitt - Berufliche Zusammenarbeit der Rechtsanwälte beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG006400125)
 
 
 
 ##### § 173a Berufsausübungsgesellschaften von Rechtsanwälten beim Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038400125)
 
 (1) Rechtsanwälte, die beim Bundesgerichtshof zugelassen sind, dürfen
 nur untereinander eine Berufsausübungsgesellschaft im Sinne des § 59b
@@ -5505,10 +5772,12 @@ unterhalten hat. § 59m Absatz 2 bis 4 findet keine Anwendung.
 
 
 ### Vierter Abschnitt - Die Rechtsanwaltskammer bei dem Bundesgerichtshof
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003601311)
 
 
 
 #### § 174 Zusammensetzung und Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023403125)
 
 (1) Die Rechtsanwälte und Berufsausübungsgesellschaften, die bei dem
 Bundesgerichtshof zugelassen sind, bilden die Rechtsanwaltskammer bei
@@ -5522,14 +5791,17 @@ anzuwenden.
 
 
 ## Neunter Teil - Die Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003701311)
 
 
 
 ### Erster Abschnitt - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003801311)
 
 
 
 #### § 175 Zusammensetzung und Sitz der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023501311)
 
 (1) Die Rechtsanwaltskammern werden zu einer Bundesrechtsanwaltskammer
 zusammengeschlossen.
@@ -5539,6 +5811,7 @@ bestimmt.
 
 
 #### § 176 Stellung der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023603311)
 
 (1) Die Bundesrechtsanwaltskammer ist eine Körperschaft des
 öffentlichen Rechts.
@@ -5551,6 +5824,7 @@ werden.
 
 
 #### § 177 Aufgaben der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023704125)
 
 (1) Die Bundesrechtsanwaltskammer hat die ihr durch Gesetz
 zugewiesenen Aufgaben zu erfüllen.
@@ -5595,6 +5869,7 @@ zugewiesenen Aufgaben zu erfüllen.
 
 
 #### § 178 Beiträge zur Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023801311)
 
 (1) Die Bundesrechtsanwaltskammer erhebt von den Rechtsanwaltskammern
 Beiträge, die zur Deckung des persönlichen und sächlichen Bedarfs
@@ -5607,14 +5882,17 @@ Rechtsanwaltskammern Erleichterungen gewähren.
 
 
 ### Zweiter Abschnitt - Organe der Bundesrechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG003901311)
 
 
 
 #### Erster Unterabschnitt - Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004001311)
 
 
 
 ##### § 179 Zusammensetzung des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE023902311)
 
 (1) Die Bundesrechtsanwaltskammer hat ein Präsidium.
 
@@ -5635,6 +5913,7 @@ Rechtsanwaltskammern Erleichterungen gewähren.
 
 
 ##### § 180 Wahlen zum Präsidium
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024003311)
 
 (1) Das Präsidium der Bundesrechtsanwaltskammer wird von der
 Hauptversammlung aus ihrer Mitte gewählt. In das Präsidium kann
@@ -5645,6 +5924,7 @@ Rechtsanwaltskammer ist.
 
 
 ##### § 181 Recht zur Ablehnung der Wahl
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024101311)
 
 Die Wahl zum Mitglied des Präsidiums kann ablehnen,
 
@@ -5662,6 +5942,7 @@ Die Wahl zum Mitglied des Präsidiums kann ablehnen,
 
 
 ##### § 182 Wahlperiode und vorzeitiges Ausscheiden
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024204125)
 
 (1) Die Mitglieder des Präsidiums werden auf vier Jahre gewählt.
 
@@ -5688,6 +5969,7 @@ im Vorstand einer Rechtsanwaltskammer ruht.
 
 
 ##### § 183 Ehrenamtliche Tätigkeit des Präsidiums
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024301311)
 
 Die Mitglieder des Präsidiums üben ihre Tätigkeit unentgeltlich aus.
 Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer
@@ -5695,6 +5977,7 @@ Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung.
 
 
 ##### § 184 Verschwiegenheitspflicht; Inanspruchnahme von Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024403125)
 
 (1) Für die Verschwiegenheitspflicht der Mitglieder des Präsidiums und
 der Angestellten der Bundesrechtsanwaltskammer sowie der Personen, die
@@ -5709,6 +5992,7 @@ unterliegen, § 43e Absatz 1 bis 4, 7 und 8 sinngemäß.
 
 
 ##### § 185 Aufgaben des Präsidenten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024504125)
 
 (1) Der Präsident vertritt die Bundesrechtsanwaltskammer gerichtlich
 und außergerichtlich.
@@ -5730,6 +6014,7 @@ Präsidenten weitere Aufgaben übertragen werden.
 
 
 ##### § 186 Aufgaben des Schatzmeisters
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024601311)
 
 (1) Der Schatzmeister verwaltet das Vermögen der
 Bundesrechtsanwaltskammer nach den Weisungen des Präsidiums. Er ist
@@ -5740,16 +6025,19 @@ Vermögens hat er jährlich der Hauptversammlung Rechnung zu legen.
 
 
 #### Zweiter Unterabschnitt - Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004101311)
 
 
 
 ##### § 187 Versammlung der Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024701311)
 
 Die Bundesrechtsanwaltskammer faßt ihre Beschlüsse regelmäßig auf
 Versammlungen ihrer Mitglieder (Hauptversammlungen).
 
 
 ##### § 188 Vertretung der Rechtsanwaltskammern in der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024802125)
 
 (1) Die Rechtsanwaltskammern werden in der Hauptversammlung durch ihre
 Präsidenten vertreten.
@@ -5759,6 +6047,7 @@ Vorstandsmitglied vertreten werden.
 
 
 ##### § 189 Einberufung der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE024903125)
 
 (1) Die Hauptversammlung wird durch den Präsidenten schriftlich
 einberufen. Der Präsident muß die Hauptversammlung einberufen, wenn
@@ -5784,6 +6073,7 @@ diesem Fall gilt § 86a Absatz 3 entsprechend.
 
 
 ##### § 190 Beschlüsse der Hauptversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025003125)
 
 (1) In der Hauptversammlung werden die Stimmen der
 Rechtsanwaltskammern wie folgt gewichtet:
@@ -5852,14 +6142,17 @@ von einem Vizepräsidenten als Schriftführer zu unterzeichnen ist.
 
 
 ##### § 191 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025103311)
 
 
 
 #### Dritter Unterabschnitt - Satzungsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005502311)
 
 
 
 ##### § 191a Einrichtung und Aufgabe
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032002125)
 
 (1) Bei der Bundesrechtsanwaltskammer wird eine Satzungsversammlung
 eingerichtet.
@@ -5884,6 +6177,7 @@ beruflichen Pflichten und nach Maßgabe des § 59a.
 
 
 ##### § 191b Wahl der stimmberechtigten Mitglieder der Satzungsversammlung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032105125)
 
 (1) Die Zahl der stimmberechtigten Mitglieder der Satzungsversammlung
 bemißt sich nach der Zahl der Mitglieder der Rechtsanwaltskammern. Es
@@ -5911,6 +6205,7 @@ Satzungsversammlung ein.
 
 
 ##### § 191c Einberufung und Stimmrecht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032203125)
 
 (1) Die Satzungsversammlung wird durch den Präsidenten der
 Bundesrechtsanwaltskammer schriftlich einberufen.
@@ -5930,6 +6225,7 @@ Satzungsversammlung stattfinden kann. In diesem Fall gilt § 86a Absatz
 
 
 ##### § 191d Leitung der Versammlung und Beschlussfassung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032301311)
 
 (1) Den Vorsitz der Satzungsversammlung führt der Präsident der
 Bundesrechtsanwaltskammer. Der Vorsitzende bestimmt den Schriftführer
@@ -5953,6 +6249,7 @@ Bundesrechtsanwaltskammer zu verwahren ist.
 
 
 ##### § 191e Prüfung von Beschlüssen durch die Aufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE032405125)
 
 (1) Der Vorsitzende der Satzungsversammlung hat die von der
 Satzungsversammlung gefassten Beschlüsse zur Berufsordnung dem
@@ -5981,10 +6278,12 @@ Kraft.
 
 
 ### Dritter Abschnitt - Schlichtung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005901311)
 
 
 
 #### § 191f Schlichtungsstelle der Rechtsanwaltschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE035206125)
 
 (1) Bei der Bundesrechtsanwaltskammer wird eine unabhängige Stelle zur
 Schlichtung von Streitigkeiten zwischen Mitgliedern von
@@ -6060,14 +6359,17 @@ folgenden Grundsätzen:
 
 
 ## Zehnter Teil - Kosten in Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004301311)
 
 
 
 ### Erster Abschnitt - Kosten in Verwaltungsverfahren der Rechtsanwaltskammern
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004403311)
 
 
 
 #### § 192 Erhebung von Gebühren und Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025211125)
 
 Die Rechtsanwaltskammer kann für Amtshandlungen nach diesem Gesetz zur
 Deckung des Verwaltungsaufwands Gebühren nach festen Sätzen und
@@ -6083,10 +6385,12 @@ geltenden Fassung) beim Erlass von Satzungen auf Grund des § 89 Absatz
 
 
 ### Zweiter Abschnitt - Kosten in gerichtlichen Verfahren in verwaltungsrechtlichen Anwaltssachen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG006001311)
 
 
 
 #### § 193 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025308360)
 
 In verwaltungsrechtlichen Anwaltssachen werden Gebühren nach dem
 Gebührenverzeichnis der Anlage 2 zu diesem Gesetz erhoben. Im Übrigen
@@ -6097,6 +6401,7 @@ Abschnitt nichts anderes bestimmt ist.
 
 
 #### § 194 Streitwert
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025403311)
 
 (1) Der Streitwert bestimmt sich nach § 52 des Gerichtskostengesetzes.
 Er wird von Amts wegen festgesetzt.
@@ -6113,10 +6418,12 @@ Gerichtskostengesetzes bleibt unberührt.
 
 
 ### Dritter Abschnitt - Kosten im anwaltsgerichtlichen Verfahren und im Verfahren bei Anträgen auf anwaltsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004503311)
 
 
 
 #### § 195 Gerichtskosten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025504360)
 
 Im anwaltsgerichtlichen Verfahren, im Verfahren über den Antrag auf
 Entscheidung des Anwaltsgerichts über die Rüge (§ 74a Abs. 1) und im
@@ -6129,6 +6436,7 @@ anzuwenden.
 
 
 #### § 196 Kosten bei Anträgen auf Einleitung des anwaltsgerichtlichen Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025603125)
 
 (1) Einem Mitglied der Rechtsanwaltskammer, das einen Antrag auf
 gerichtliche Entscheidung über die Entschließung der
@@ -6142,6 +6450,7 @@ den Antrag veranlaßten Kosten der Rechtsanwaltskammer aufzuerlegen.
 
 
 #### § 197 Kostenpflicht des Verurteilten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025705125)
 
 (1) Dem Mitglied der Rechtsanwaltskammer, das im anwaltsgerichtlichen
 Verfahren verurteilt wird, sind zugleich die in dem Verfahren
@@ -6168,6 +6477,7 @@ worden sind, ist Absatz 2 entsprechend anzuwenden.
 
 
 #### § 197a Kostenpflicht im Verfahren bei Anträgen auf anwaltsgerichtliche Entscheidung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025803125)
 
 (1) Wird der Antrag auf anwaltsgerichtliche Entscheidung gegen die
 Androhung oder die Festsetzung des Zwangsgelds oder über die Rüge als
@@ -6194,6 +6504,7 @@ wird (§ 74a Abs. 5 Satz 2).
 
 
 #### § 198 Haftung der Rechtsanwaltskammer
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE025904125)
 
 (1) Auslagen, die weder dem Mitglied der Rechtsanwaltskammer noch
 einem Dritten auferlegt noch von dem Mitglied eingezogen werden
@@ -6209,6 +6520,7 @@ ihnen auf Antrag ein Vorschuß zu bewilligen.
 
 
 #### § 199 Festsetzung der Kosten des Verfahrens vor dem Anwaltsgericht
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026004125)
 
 (1) Die Kosten, die das Mitglied der Rechtsanwaltskammer in dem
 Verfahren vor dem Anwaltsgericht zu tragen hat, werden von dem
@@ -6225,14 +6537,17 @@ nicht erstattet.
 
 
 #### (XXXX) §§ 200 bis 203 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026103311)
 
 
 
 ## Elfter Teil - Vollstreckung anwaltsgerichtlicher Maßnahmen und Kosten sowie Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004702311)
 
 
 
 ### § 204 Vollstreckung anwaltsgerichtlicher Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026504125)
 
 (1) Die Ausschließung aus der Rechtsanwaltschaft (§ 114 Absatz 1
 Nummer 5) und die Aberkennung der Rechtsdienstleistungsbefugnis (§ 114
@@ -6268,6 +6583,7 @@ vorläufigen Verbots eingerechnet.
 
 
 ### § 205 Beitreibung der Kosten
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026603311)
 
 (1) Die Kosten, die in dem Verfahren vor dem Anwaltsgericht entstanden
 sind, werden auf Grund des Festsetzungsbeschlusses (§ 199)
@@ -6284,6 +6600,7 @@ dem der Anwaltsgerichtshof errichtet ist.
 
 
 ### § 205a Tilgung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026705125)
 
 (1) Eintragungen in den über das Mitglied der Rechtsanwaltskammer
 geführten Akten über die in den Sätzen 4 und 5 genannten Maßnahmen und
@@ -6370,10 +6687,12 @@ betroffen.
 
 
 ## Zwölfter Teil - Ausländische Rechtsanwaltsberufe und Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG004803125)
 
 
 
 ### § 206 Ausländische Rechtsanwaltsberufe; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE030410125)
 
 (1) Angehörige solcher ausländischer Berufe, die in der
 Rechtsverordnung nach Absatz 2 aufgeführt sind, dürfen sich zur
@@ -6429,6 +6748,7 @@ die Gegenseitigkeit verbürgt ist.
 
 
 ### § 207 Aufnahme in die Rechtsanwaltskammer und berufliche Stellung; Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE030508125)
 
 (1) Dem Antrag auf Aufnahme in die Rechtsanwaltskammer (§ 206 Absatz 1
 Nummer 2) ist eine Bescheinigung der im Herkunftsstaat zuständigen
@@ -6517,6 +6837,7 @@ den Rechtsanwälten und Anwälten gleich:
 
 
 ### § 207a Ausländische Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038502125)
 
 (1) Eine Berufsausübungsgesellschaft, die ihren Sitz in einem
 Mitgliedstaat der Welthandelsorganisation hat, darf über eine
@@ -6595,10 +6916,12 @@ Rechtsdienstleistungen in der Bundesrepublik Deutschland befugt sind.
 
 
 ## Dreizehnter Teil - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNG005201311)
 
 
 
 ### § 208 Landesrechtliche Beschränkungen der Parteivertretung und Beistandschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE026903125)
 
 Ist durch Landesgesetz in Verfahren vor Schiedspersonen oder vor
 anderen Güte- oder Sühnestellen der Ausschluss von Bevollmächtigten
@@ -6609,6 +6932,7 @@ werden.
 
 
 ### § 209 Kammermitgliedschaft von Inhabern einer Erlaubnis nach dem Rechtsberatungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE027010125)
 
 (1) Natürliche Personen, die im Besitz einer uneingeschränkt oder
 unter Ausnahme lediglich des Sozial- oder Sozialversicherungsrechts
@@ -6642,6 +6966,7 @@ Erlaubnisinhaber Mitglied der nunmehr zuständigen Rechtsanwaltskammer.
 
 
 ### § 209a Zulassung und Befugnisse bestehender Berufsausübungsgesellschaften
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038600125)
 
 (1) Wenn eine Gesellschaft vor dem 1. August 2022 als
 Rechtsanwaltsgesellschaft zugelassen war, gilt diese Zulassung als
@@ -6665,12 +6990,14 @@ den Antrag auf Zulassung die Befugnisse nach den §§ 59k und 59l zu.
 
 
 ### § 210 Bestehenbleiben von Rechtsanwaltskammern
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE027103311)
 
 Am 1. September 2009 bestehende Rechtsanwaltskammern, die ihren Sitz
 nicht am Ort eines Oberlandesgerichts haben, bleiben bestehen.
 
 
 ### § 211 Befreiung von der Voraussetzung der Befähigung zum Richteramt
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE027503311)
 
 (1) Die Befähigung zur anwaltlichen Tätigkeit besitzen auch Personen,
 die bis zum 9. September 1996 die fachlichen Voraussetzungen für die
@@ -6684,6 +7011,7 @@ Richteramt gemäß § 93 Abs. 1 Satz 3 und § 101 Abs. 1 Satz 2.
 
 
 ### § 212 Übergangsvorschrift zu aufsichtsrechtlichen Verfahren bei Wegfall der doppelten Kammermitgliedschaft
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE027302125)
 
 Die Zuständigkeit für am 1. Januar 2025 anhängige aufsichtsrechtliche
 Verfahren gegen ein Mitglied eines Geschäftsführungs- oder
@@ -6696,6 +7024,7 @@ die Zuständigkeit für das Verfahren zukommt.
 (zu § 59a Absatz 4 Satz 1)
 
 ### Anlage 1 Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE038700360)
 
 (Fundstelle: BGBl. 2024 I Nr. 12, S. 1 – 3)
 
@@ -6975,6 +7304,7 @@ Eine Vorschrift im Sinne des § 59a Absatz 3 Satz 2
 (zu § 193 Satz 1 und § 195 Satz 1)
 
 ### Anlage 2 Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE033805360)
 
 (Fundstelle: BGBl. I 2006, 3418 - 3420
 bzgl. der einzelnen Änderungen vgl. Fußnote)

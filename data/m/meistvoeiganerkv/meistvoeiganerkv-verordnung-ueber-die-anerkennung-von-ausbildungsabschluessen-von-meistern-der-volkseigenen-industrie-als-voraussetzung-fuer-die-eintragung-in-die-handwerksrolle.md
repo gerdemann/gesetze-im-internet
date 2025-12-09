@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/meistv_iganerkv/BJNR021620991.html#BJNR021620991BJNE000100307)
 
 Auf Grund des § 7 Abs. 2 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1) in Verbindung
@@ -31,6 +32,7 @@ verordnet der Bundesminister für Wirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/meistv_iganerkv/BJNR021620991.html#BJNR021620991BJNE000201310)
 
 Ausbildungsabschlüsse zum Meister der volkseigenen Industrie, die bis
 zum 31. Dezember 1991 erlangt werden, werden für ein Handwerk, dessen
@@ -59,17 +61,20 @@ Ausbildungsabschlusses
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/meistv_iganerkv/BJNR021620991.html#BJNR021620991BJNE000300307)
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/meistv_iganerkv/BJNR021620991.html#BJNR021620991BJNE000400307)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 1)
 
 ## Anlage Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
+[Direktlink](https://www.gesetze-im-internet.de/meistv_iganerkv/BJNR021620991.html#BJNR021620991BJNE000500307)
 
 ( Fundstelle: BGBl. I 1991, 2163 - 2168 )
 

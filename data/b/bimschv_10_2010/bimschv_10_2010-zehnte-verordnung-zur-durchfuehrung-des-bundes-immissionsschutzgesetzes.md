@@ -44,6 +44,7 @@ zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000100000)
 
 Es verordnen
 
@@ -81,6 +82,7 @@ Es verordnen
 
 
 ## § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000203130)
 
 (1) Für diese Verordnung gelten die in den Absätzen 2 bis 15
 geregelten Begriffsbestimmungen.
@@ -246,6 +248,7 @@ worden ist.
 
 
 ## § 2 Chlor- und Bromverbindungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000300000)
 
 (1) Kraftstoffe für Kraftfahrzeuge im Sinne des § 1 Absatz 2 des
 Straßenverkehrsgesetzes dürfen nur dann gewerbsmäßig oder im Rahmen
@@ -261,6 +264,7 @@ Zweck der Forschung, Entwicklung oder Analyse.
 
 
 ## § 3 Anforderungen an Ottokraftstoffe; Bestandsschutzsortenregelung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000402116)
 
 (1) Ottokraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
@@ -295,6 +299,7 @@ den Anforderungen der DIN EN 228, Ausgabe August 2017, genügt hat.
 
 
 ## § 4 Anforderungen an Dieselkraftstoff, paraffinischer Dieselkraftstoff, Gasöl und andere flüssige Kraftstoffe; Bestandsschutzsortenregelung; Schwefelgehalt; Verwendung für Binnenschiffe und Sportboote
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000503130)
 
 (1) Dieselkraftstoff der Qualität „B7“ darf nur dann gewerbsmäßig oder
 im Rahmen wirtschaftlicher Unternehmungen gegenüber dem
@@ -352,6 +357,7 @@ Schwefelgehalt nicht überschreitet.
 
 
 ## § 5 Anforderungen an Biodiesel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000602116)
 
 Biodiesel darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht
@@ -360,6 +366,7 @@ genügt. Das gilt auch für Biodiesel als Zusatz zum Dieselkraftstoff.
 
 
 ## § 6 Anforderungen an Ethanolkraftstoff (E85)
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000701116)
 
 Ethanolkraftstoff (E85) darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen als Kraftstoff gegenüber dem
@@ -368,6 +375,7 @@ Anforderungen der DIN EN 15293, Ausgabe Oktober 2018, genügt.
 
 
 ## § 7 Anforderungen an Autogas
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000803130)
 
 Autogas darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht
@@ -376,6 +384,7 @@ genügt.
 
 
 ## § 8 Anforderungen an Erdgas und Biogas als Kraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE000902130)
 
 (1) Erdgas und Biogas dürfen nur dann als Kraftstoff gewerbsmäßig oder
 im Rahmen wirtschaftlicher Unternehmungen gegenüber dem
@@ -402,6 +411,7 @@ sowie Mischungen hieraus.
 
 
 ## § 9 Anforderung an Pflanzenölkraftstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001003130)
 
 (1) Pflanzenölkraftstoff – Rapsöl – darf nur dann gewerbsmäßig oder im
 Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher
@@ -415,6 +425,7 @@ Anforderungen der DIN 51623, Ausgabe November 2020, genügt.
 
 
 ## § 9a Anforderungen an Wasserstoff als Kraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004001130)
 
 Wasserstoff darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen als Kraftstoff gegenüber dem Letztverbraucher in den
@@ -423,6 +434,7 @@ Ausgabe Dezember 2022, genügt.
 
 
 ## § 10 Schwefelgehalt von Heizöl
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001103130)
 
 (1) Leichtes Heizöl darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
@@ -458,6 +470,7 @@ dieses Heizöl:
 
 
 ## § 11 Gleichwertigkeitsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001203130)
 
 Den Kraftstoffen nach § 3 und § 4 Absatz 1 bis 3 sowie den §§ 5 bis 9a
 sind solche Kraftstoffe gleichgestellt, die den Anforderungen anderer
@@ -520,6 +533,7 @@ sofern
 
 
 ## § 12 Einschränkungen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001302130)
 
 (1) Für Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10, die
 eingeführt oder sonst in den Geltungsbereich dieser Verordnung
@@ -538,6 +552,7 @@ für Kraft- oder Brennstoffe zur Verwendung in Luftfahrzeugen.
 
 
 ## § 13 Auszeichnung von Kraft- und Brennstoffen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001403130)
 
 (1) Der Betreiber einer Zapfstelle hat an den entsprechenden
 Zapfsäulen und Zapfventilen die Qualität des jeweiligen Kraftstoffs
@@ -705,6 +720,7 @@ Leistung anzugeben.
 
 
 ## § 14 Nachweisführung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001502130)
 
 (1) Wer gewerbsmäßig oder im Rahmen einer wirtschaftlichen
 Unternehmung Kraftstoffe in den Verkehr bringt, hat den nach § 13
@@ -733,6 +749,7 @@ den Kraft- und Brennstoff geliefert haben.
 
 
 ## § 15 Bekanntmachung der Kraftstoffqualität für den Betrieb von Kraftfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001603130)
 
 Bei der Bekanntmachung der Kraftstoffqualität durch die Hersteller
 sind für flüssige oder gasförmige Kraftstoffe die Bezeichnungen nach §
@@ -746,6 +763,7 @@ Fahrzeugstecker dieser Fahrzeuge.
 
 
 ## § 16 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001702130)
 
 (1) Die zuständige Behörde kann auf Antrag Ausnahmen von den
 Anforderungen der § 3 und § 4 Absatz 1 bis 3 sowie §§ 5 bis 9a
@@ -772,6 +790,7 @@ Erteilung nicht mehr vorliegen.
 
 
 ## § 17 Zugänglichkeit der Normen
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001802116)
 
 DIN-, DIN EN-, ISO-, DIN ISO- und DIN EN ISO-Normen, auf die in dieser
 Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin und
@@ -784,6 +803,7 @@ gesichert niedergelegt.
 
 
 ## § 18 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE001903130)
 
 (1) Die zuständigen Behörden überwachen die in den §§ 3 bis 9a
 festgelegten Anforderungen an Kraftstoffe sowie die in § 13
@@ -935,6 +955,7 @@ Europäische Kommission.
 
 
 ## § 19 Einfuhr von Heizöl, Schiffskraftstoff und Dieselkraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002000000)
 
 (1) Der Einführer von Kraft- und Brennstoffen nach § 1 Absatz 4 bis 10
 hat der für den ersten Bestimmungsort zuständigen Behörde die Sendung
@@ -954,6 +975,7 @@ Staaten der Europäischen Union.
 
 
 ## § 20 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002103130)
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1036,6 +1058,7 @@ worden ist
 
 
 ## § 21 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004100116)
 
 (1) Die Verwaltungsbehörde hat in den Fällen des § 20 Absatz 1 Nummer
 5 und 6 bis zum 19. Juni 2020 von einer Ahndung abzusehen, sofern bis
@@ -1051,11 +1074,13 @@ dem 19. März 2021 anzuwenden.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002300000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## § 22 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002201116)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig treten die Verordnung über den Schwefelgehalt bestimmter
@@ -1071,6 +1096,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 1)
 
 ## Anlage 1 Zeichen Super
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002402116)
 
 (Fundstelle: BGBl. I 2019, 2746)
 
@@ -1087,6 +1113,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 1)
 
 ## Anlage 2 Zeichen Super Plus
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002502116)
 
 (Fundstelle: BGBl. I 2019, 2746)
 
@@ -1103,6 +1130,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 2)
 
 ## Anlage 3 Zeichen Super E10
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002702116)
 
 (Fundstelle: BGBl. I 2019, 2747)
 
@@ -1119,6 +1147,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 2)
 
 ## Anlage 4 Zeichen Super Plus E10
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE002802116)
 
 (Fundstelle: BGBl. I 2019, 2747)
 
@@ -1135,6 +1164,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 3)
 
 ## Anlage 5 Zeichen Diesel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003001116)
 
 (Fundstelle: BGBl. I 2019, 2748)
 
@@ -1151,6 +1181,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 4)
 
 ## Anlage 6 Zeichen Diesel B10
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004600130)
 
 (Fundstelle: BGBl. 2024 I Nr. 169, S. 7)
 
@@ -1167,6 +1198,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 5)
 
 ## Anlage 7 Zeichen Paraffinischer Diesel XTL
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004700130)
 
 (Fundstelle: BGBl. 2024 I Nr. 169, S. 7)
 
@@ -1183,6 +1215,7 @@ geändert worden ist, außer Kraft.
 (zu § 13 Absatz 1 Satz 1 Nummer 6)
 
 ## Anlage 8 Zeichen Biodiesel
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003102130)
 
 (Fundstelle: BGBl. I 2019, 2748;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1200,6 +1233,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 7)
 
 ## Anlage 9 Zeichen Ethanolkraftstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003202130)
 
 (Fundstelle: BGBl. I 2019, 2749;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1217,6 +1251,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 8)
 
 ## Anlage 10 Zeichen Autogas
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003302130)
 
 (Fundstelle: BGBl. I 2019, 2749;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1234,6 +1269,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe a Doppelbuchstabe aa)
 
 ## Anlage 11 Zeichen Erdgas und Biogas als Kraftstoff – CNG Gruppe H
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003402130)
 
 (Fundstelle: BGBl. I 2019, 2750;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1251,6 +1287,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe a Doppelbuchstabe bb)
 
 ## Anlage 12 Zeichen Erdgas und Biogas als Kraftstoff – CNG Gruppe L
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003502130)
 
 (Fundstelle: BGBl. I 2019, 2750;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1269,6 +1306,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe b Doppelbuchstabe aa)
 
 ## Anlage 13 Zeichen Erdgas und Biogas als Kraftstoff – LNG Gruppe H
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004201130)
 
 (Fundstelle: BGBl. I 2019, 2751;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1286,6 +1324,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 10)
 
 ## Anlage 14 Zeichen Pflanzenölkraftstoff – Rapsöl
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003603130)
 
 (Fundstelle: BGBl. I 2019, 2752;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1303,6 +1342,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 11)
 
 ## Anlage 15 Zeichen Pflanzenölkraftstoff – alle Saaten
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004401130)
 
 (Fundstelle: BGBl. I 2019, 2752;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1320,6 +1360,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 13 Absatz 1 Satz 1 Nummer 12)
 
 ## Anlage 16 Zeichen Wasserstoff
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE004501130)
 
 (Fundstelle: BGBl. I 2019, 2753;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1339,6 +1380,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Erklärung des Herstellers, des Vermischers oder des Lieferanten über
 
 ## Anlage 17 die Beschaffenheit flüssiger Kraft- und Brennstoffe
+[Direktlink](https://www.gesetze-im-internet.de/bimschv_10_2010/BJNR184900010.html#BJNR184900010BJNE003703130)
 
 (Fundstelle: BGBl. 2024 I Nr. 169, S. 8 - 11)
 

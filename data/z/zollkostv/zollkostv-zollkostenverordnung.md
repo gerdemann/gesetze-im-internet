@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000100000)
 
 Auf Grund des § 178 Absatz 3 der Abgabenordnung in der Fassung der
 Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61) und
@@ -30,6 +31,7 @@ Bundesministerium der Finanzen:
 
 
 ## § 1 Regelungsgegenstand
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000302123)
 
 Von den Behörden der Bundeszollverwaltung und den Behörden, denen die
 Wahrnehmung von Aufgaben der Bundeszollverwaltung übertragen worden
@@ -38,6 +40,7 @@ Auslagen) erhoben.
 
 
 ## § 2 Kostenpflichtige Amtshandlungen
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000403123)
 
 (1) Kostenpflichtig sind die nachfolgenden Amtshandlungen:
 
@@ -137,6 +140,7 @@ kostenpflichtigen Teils der Amtshandlungen eine Viertelstunde nicht
 
 
 ## § 3 Gebührensätze
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000504123)
 
 (1) Die Gebühren für Amtshandlungen nach § 2 Absatz 1 werden als feste
 Sätze nach dem Zeitaufwand bestimmt, der zu ihrer Durchführung
@@ -182,6 +186,7 @@ erforderlich ist (Stunden- oder Monatsgebühren).
 
 
 ## § 4 Gebührenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000604123)
 
 (1) Die in Form von Stundengebühren zu erhebenden Kosten sind für jede
 Beamtin und jeden Beamten nach der Dauer ihrer oder seiner Beteiligung
@@ -234,6 +239,7 @@ Aufwand zu erheben. Absatz 1 gilt entsprechend.
 
 
 ## § 5 Zusätzliche Kosten
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000700000)
 
 (1) In den Fällen des § 3 Absatz 2 werden für kostenpflichtige
 Amtshandlungen außerhalb der festgesetzten Dienststunden zusätzlich
@@ -255,6 +261,7 @@ Monatsgebühr um einen entsprechenden Anteil herabgesetzt.
 
 
 ## § 6 Untersuchung von Waren
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000804123)
 
 (1) Für die Untersuchung von Waren durch die Generalzolldirektion oder
 durch eine sonstige Dienststelle der Bundeszollverwaltung werden nach
@@ -315,6 +322,7 @@ dadurch entstehenden Gebühren und Auslagen.
 
 
 ## § 7 Lagerkosten
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE000901123)
 
 (1) Für die Lagerung von Nichtunionswaren durch die Zollstelle wird
 eine Verwahrungsgebühr erhoben. Sie beträgt pro Tag:
@@ -353,6 +361,7 @@ erhoben.
 
 
 ## § 8 Schreibauslagen
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001000000)
 
 (1) Schreibauslagen in zoll- und steuerlichen Angelegenheiten werden
 für Schriftstücke und Ablichtungen erhoben, die auf Antrag gefertigt
@@ -364,6 +373,7 @@ weitere Seite 0,15 Euro.
 
 
 ## § 9 Kostenpflichtige Amtshandlungen im Bereich des gewerblichen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001103123)
 
 (1) Für folgende Amtshandlungen werden Kosten nach Maßgabe der Anlage
 2 zu dieser Verordnung erhoben:
@@ -430,6 +440,7 @@ Nummer 2 der Anlage 2 zu dieser Verordnung erhoben.
 
 
 ## § 10 Verbundener Kostenbescheid
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001201123)
 
 Die Zollbehörde kann die in einem Monat für einen Kostenschuldner
 entstandenen Kosten zu einem Kostenbescheid verbinden, soweit der auf
@@ -438,12 +449,14 @@ Wert von 5 Euro erreicht.
 
 
 ## § 11 Absehen von der Kostenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001300000)
 
 Von der Erhebung der Kosten ist abzusehen, wenn diese im Einzelfall
 weniger als 5 Euro betragen.
 
 
 ## § 12 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001404123)
 
 (1) Für Maßnahmen nach den §§ 2 und 6, die vor dem 1. Dezember 2021
 beantragt wurden oder mit deren Durchführung vor dem 1. Dezember 2021
@@ -458,6 +471,7 @@ angeordnet wurden, sind die Gebührensätze dieser Verordnung in der am
 (zu § 6 Absatz 1)
 
 ## Anlage 1 Gebührentarif für Untersuchungen
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001505123)
 
 (Fundstelle: BGBl. I 2009, 3005 - 3013;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2488,6 +2502,7 @@ Nationalbibliothek archivmäßig gesichert niedergelegt.
 (zu § 9 Absatz 1)
 
 ## Anlage 2 Gebührentarif für Maßnahmen im Bereich des gewerblichen Rechtsschutzes
+[Direktlink](https://www.gesetze-im-internet.de/zollkostv/BJNR300100009.html#BJNR300100009BJNE001600118)
 
 (Fundstelle: BGBl. I 2014, 508)
 

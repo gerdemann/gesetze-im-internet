@@ -31,10 +31,12 @@ der Vorschriften betreffend Insidergeschäfte (ABl. EG Nr. L 334/30).
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000101307)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE000921360)
 
 (1) Dieses Gesetz enthält Regelungen in Bezug auf
 
@@ -260,6 +262,7 @@ Kapitalanlagegesetzbuchs handelt.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001028360)
 
 (1) Wertpapiere im Sinne dieses Gesetzes sind, auch wenn keine
 Urkunden über sie ausgestellt sind, alle Gattungen von übertragbaren
@@ -1205,6 +1208,7 @@ Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014.
 
 
 ### § 2a Unzuverlässigkeit von sanktionierten Personen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024000125)
 
 Eine natürliche oder juristische Person oder eine Personengesellschaft
 gilt als unzuverlässig, wenn nach einem im Amtsblatt der Europäischen
@@ -1228,6 +1232,7 @@ fällt.
 
 
 ### § 3 Ausnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005822360)
 
 (1) Als Wertpapierdienstleistungsunternehmen gelten nicht
 
@@ -1582,6 +1587,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 4 Wahl des Herkunftsstaates; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009903123)
 
 (1) Ein Emittent im Sinne des § 2 Absatz 13 Nummer 1 Buchstabe b kann
 die Bundesrepublik Deutschland als Herkunftsstaat wählen, wenn
@@ -1674,6 +1680,7 @@ zur Wahl des Herkunftsstaates erlassen.
 
 
 ### § 5 Veröffentlichung des Herkunftsstaates; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015802360)
 
 (1) Ein Emittent, dessen Herkunftsstaat nach § 2 Absatz 11 Nummer 1
 Buchstabe a die Bundesrepublik Deutschland ist oder der nach § 4
@@ -1721,10 +1728,12 @@ zur Veröffentlichung des Herkunftsstaates erlassen.
 
 
 ## Abschnitt 2 - Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000203123)
 
 
 
 ### § 6 Aufgaben und allgemeine Befugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001321360)
 
 (1) Die Bundesanstalt übt die Aufsicht nach den Vorschriften dieses
 Gesetzes aus. Sie hat im Rahmen der ihr zugewiesenen Aufgaben
@@ -2083,6 +2092,7 @@ anderer sachverständiger Personen und Einrichtungen bedienen.
 
 
 ### § 7 Herausgabe von Kommunikationsdaten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016703360)
 
 (1) Die Bundesanstalt kann von einem Telekommunikationsbetreiber die
 Herausgabe von in dessen Besitz befindlichen bereits existierenden
@@ -2130,6 +2140,7 @@ eingeschränkt.
 
 
 ### § 8 Übermittlung und Herausgabe marktbezogener Daten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016800123)
 
 (1) Von Börsen und Betreibern von Märkten, an denen Finanzinstrumente
 gehandelt werden, kann die Bundesanstalt insbesondere verlangen, dass
@@ -2169,6 +2180,7 @@ Bundesanstalt übertragen.
 
 
 ### § 9 Verringerung und Einschränkung von Positionen oder offenen Forderungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017000123)
 
 (1) Die Bundesanstalt kann von jedermann verlangen, die Größe der
 Positionen oder offenen Forderungen in Finanzinstrumenten zu
@@ -2182,6 +2194,7 @@ Durchsetzung der Verbote und Gebote der in § 6 Absatz 6 Satz 1 Nummer
 
 
 ### § 10 Besondere Befugnisse nach der Verordnung (EU) Nr. 1286/2014, der Verordnung (EU) 2016/1011, der Verordnung (EU) 2019/2088, der Verordnung (EU) 2020/852 und der Verordnung (EU) 2020/1503
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017203360)
 
 (1) Die Bundesanstalt überwacht die Einhaltung der Verbote und Gebote
 der Verordnung (EU) Nr. 1286/2014 sowie der auf deren Grundlage
@@ -2383,6 +2396,7 @@ erforderlich sind. Insbesondere kann die Bundesanstalt
 
 
 ### § 10a Besondere Befugnisse nach der Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024300360)
 
 (1) Die Bundesanstalt kann bei Verstößen gegen die Verordnung (EU)
 2022/2554 unbeschadet sonstiger in diesem Gesetz geregelter Befugnisse
@@ -2425,6 +2439,7 @@ in Zusammenhang stehen, und die mündlichen Erklärungen aufzeichnen. §
 
 
 ### § 11 Anzeige straftatbegründender Tatsachen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017301360)
 
 Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat nach
 § 119 begründen, der zuständigen Staatsanwaltschaft unverzüglich
@@ -2444,6 +2459,7 @@ der für Strafsachen zuständigen Gerichte nicht zu besorgen ist.
 
 
 ### § 12 Adressaten einer Maßnahme wegen möglichen Verstoßes gegen Artikel 14 oder 15 der Verordnung (EU) Nr. 596/2014
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017401360)
 
 Die Adressaten von Maßnahmen nach § 6 Absatz 2 bis 4, 6 bis 8 und 10
 bis 13 sowie den §§ 7 bis 9, die von der Bundesanstalt wegen eines
@@ -2456,6 +2472,7 @@ Ermittlungsverfahren nicht in Kenntnis setzen.
 
 
 ### § 13 Sofortiger Vollzug
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017503360)
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 6 Absatz 1 bis
 13 und den §§ 7 bis 10a und 54 Absatz 1 einschließlich der Androhung
@@ -2464,6 +2481,7 @@ Wirkung.
 
 
 ### § 14 Befugnisse zur Sicherung des Finanzsystems
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013403123)
 
 (1) Die Bundesanstalt kann im Benehmen mit der Deutschen Bundesbank
 Anordnungen treffen, die geeignet und erforderlich sind, Missstände,
@@ -2518,6 +2536,7 @@ aufschiebende Wirkung.
 
 
 ### § 14a Befugnisse zur Durchsetzung von Sanktionsmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023900360)
 
 (1) Die Bundesanstalt kann die zur Durchsetzung eines von einer
 zuständigen Stelle der Europäischen Union oder Einrichtungen eines
@@ -2540,6 +2559,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 15 Produktintervention
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015603360)
 
 (1) Der Bundesanstalt stehen die Befugnisse nach Artikel 42 der
 Verordnung (EU) Nr. 600/2014 unter den dort genannten Voraussetzungen,
@@ -2562,6 +2582,7 @@ Personen und Einrichtungen bedienen.
 
 
 ### § 16 Wertpapierrat
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001408123)
 
 (1) Bei der Bundesanstalt wird ein Wertpapierrat gebildet. Er besteht
 aus Vertretern der Länder. Die Mitgliedschaft ist nicht
@@ -2602,6 +2623,7 @@ Beratungsvorschläge einzubringen.
 
 
 ### § 17 Zusammenarbeit mit anderen Behörden im Inland
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001515360)
 
 (1) Die Börsenaufsichtsbehörden werden im Wege der Organleihe für die
 Bundesanstalt bei der Durchführung von eilbedürftigen Maßnahmen im
@@ -2655,6 +2677,7 @@ Kalenderjahres zu löschen.
 
 
 ### § 18 Zusammenarbeit mit zuständigen Stellen im Ausland; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001618360)
 
 (1) Der Bundesanstalt obliegt die Zusammenarbeit mit den für die
 Überwachung von Verhaltens- und Organisationspflichten von
@@ -2905,6 +2928,7 @@ Finanzdienstleistungsaufsicht übertragen.
 
 
 ### § 19 Zusammenarbeit mit der Europäischen Wertpapier- und Marktaufsichtsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE014901123)
 
 (1) Die Bundesanstalt stellt der Europäischen Wertpapier- und
 Marktaufsichtsbehörde gemäß den Artikeln 35 und 36 der Verordnung (EU)
@@ -2924,6 +2948,7 @@ Verwaltungsverfahrensgesetze der Länder.
 
 
 ### § 20 Zusammenarbeit mit der Europäischen Kommission im Rahmen des Energiewirtschaftsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE014801123)
 
 Die Bundesanstalt übermittelt der Europäischen Kommission auf
 Verlangen diejenigen Angaben zu Geschäften in Finanzinstrumenten
@@ -2937,6 +2962,7 @@ Energiewirtschaftsgesetz näher beschriebenen Aufgaben benötigt.
 
 
 ### § 21 Verschwiegenheitspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001713360)
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3
 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen
@@ -3034,6 +3060,7 @@ jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
 
 
 ### § 22 Meldepflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE001813123)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne der Artikel 26
 und 27 der Verordnung (EU) Nr. 600/2014. Dies gilt insbesondere auch
@@ -3078,6 +3105,7 @@ Marktaufsichtsbehörde vorgegeben sind, entsprechen.
 
 
 ### § 23 Anzeige von Verdachtsfällen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008606123)
 
 (1) Wertpapierdienstleistungsunternehmen, andere Kreditinstitute,
 Kapitalverwaltungsgesellschaften und Betreiber von außerbörslichen
@@ -3119,6 +3147,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 24 Verpflichtung des Insolvenzverwalters
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE002107123)
 
 (1) Wird über das Vermögen eines nach diesem Gesetz zu einer Handlung
 Verpflichteten ein Insolvenzverfahren eröffnet, hat der
@@ -3136,6 +3165,7 @@ stellt.
 
 
 ### § 24a Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024100360)
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung festzulegen, welche Meldungen, Mitteilungen,
@@ -3168,10 +3198,12 @@ Bundesrates.
 
 
 ## Abschnitt 3 - Marktmissbrauchsüberwachung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000303123)
 
 
 
 ### § 25 Anwendung der Verordnung (EU) Nr. 596/2014 auf Waren und ausländische Zahlungsmittel
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE002309123)
 
 Artikel 15 in Verbindung mit Artikel 12 Absatz 1 bis 4 der Verordnung
 (EU) Nr. 596/2014 gilt entsprechend für
@@ -3190,6 +3222,7 @@ Wirtschaftsraum gehandelt werden.
 
 
 ### § 26 Übermittlung von Insiderinformationen und von Eigengeschäften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017603360)
 
 (1) Ein Inlandsemittent, ein MTF-Emittent oder ein OTF-Emittent, der
 gemäß Artikel 17 Absatz 1, 7 oder 8 der Verordnung (EU) Nr. 596/2014
@@ -3260,6 +3293,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 27 Aufzeichnungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE002808123)
 
 Wertpapierdienstleistungsunternehmen sowie Unternehmen mit Sitz im
 Inland, die an einer inländischen Börse zur Teilnahme am Handel
@@ -3277,13 +3311,16 @@ Handelsgesetzbuchs entsprechend.
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006407360)
 
 
 
 ## Abschnitt 4 - Ratingagenturen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001701123)
 
 
 ### § 29 Zuständigkeit im Sinne der Verordnung (EG) Nr. 1060/2009
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013304360)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 22
 der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des
@@ -3331,9 +3368,11 @@ ordnungsgemäßen Abgabe dieser Erklärung unberührt.
 
 
 ## Abschnitt 5 - OTC-Derivate und Transaktionsregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001902123)
 
 
 ### § 30 Überwachung des Clearings von OTC-Derivaten und Aufsicht über Transaktionsregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE002910360)
 
 (1) Die Bundesanstalt ist unbeschadet des § 6 des Kreditwesengesetzes
 nach diesem Gesetz zuständig für die Einhaltung der Vorschriften nach
@@ -3399,6 +3438,7 @@ Nr. 648/2012, haben keine aufschiebende Wirkung.
 
 
 ### § 31 Verordnungsermächtigung zu den Mitteilungspflichten nach der Verordnung (EU) Nr. 648/2012
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015102360)
 
 Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -3412,6 +3452,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 32 Prüfung der Einhaltung bestimmter Pflichten der Verordnung (EU) Nr. 648/2012 und der Verordnung (EU) Nr. 600/2014
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015206360)
 
 (1) Kapitalgesellschaften, die weder kleine Kapitalgesellschaften im
 Sinne des § 267 Absatz 1 des Handelsgesetzbuchs noch finanzielle
@@ -3497,9 +3538,11 @@ Bundesanstalt übertragen.
 
 
 ## Abschnitt 5a - Paneuropäisches Privates Pensionsprodukt (PEPP)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG002200360)
 
 
 ### § 32a Zuständigkeit im Sinne der Verordnung (EU) 2019/1238
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023100360)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne von Artikel 2
 Nummer 18 der Verordnung (EU) 2019/1238 des Europäischen Parlaments
@@ -3517,9 +3560,11 @@ keine aufschiebende Wirkung.
 
 
 ## Abschnitt 5b - Schwarmfinanzierungsdienstleister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG002300360)
 
 
 ### § 32b Zuständigkeit der Bundesanstalt nach der Verordnung (EU) 2020/1503
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023300360)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne des Artikels 29
 Absatz 1 der Verordnung (EU) 2020/1503.
@@ -3540,6 +3585,7 @@ haben keine aufschiebende Wirkung.
 
 
 ### § 32c Haftung für Angaben im Anlagebasisinformationsblatt nach Artikel 23 der Verordnung (EU) 2020/1503
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023401360)
 
 (1) Der für das Anlagebasisinformationsblatt nach Artikel 23 der
 Verordnung (EU) 2020/1503 verantwortliche Projektträger im Sinne des
@@ -3612,6 +3658,7 @@ Veräußerungspreis den ersten Erwerbspreis nicht überschreitet.
 
 
 ### § 32d Haftung für Angaben im Anlagebasisinformationsblatt auf Ebene der Plattform nach Artikel 24 der Verordnung (EU) 2020/1503
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023501360)
 
 (1) Der für das Anlagebasisinformationsblatt auf Ebene der Plattform
 nach Artikel 24 der Verordnung (EU) 2020/1503 verantwortliche
@@ -3666,6 +3713,7 @@ Fahrlässigkeit
 
 
 ### § 32e Sonstige Regelungen hinsichtlich der Ansprüche nach den §§ 32c und 32d
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023601360)
 
 (1) Ein Anspruch des Anlegers nach § 32c oder § 32d besteht nicht,
 wenn der Anleger vor seiner Entscheidung die Unrichtigkeit oder die
@@ -3684,6 +3732,7 @@ Handlungen erhoben werden können, bleiben unberührt.
 
 
 ### § 32f Überwachung und Prüfung der Pflichten der Schwarmfinanzierungsdienstleister nach der Verordnung (EU) 2020/1503 und nach der Verordnung (EU) 2022/2554; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023702360)
 
 (1) Die Bundesanstalt kann zur Überwachung der Einhaltung
 
@@ -3781,10 +3830,12 @@ Bundesanstalt übertragen.
 
 
 ## Abschnitt 6 - Mitteilung, Veröffentlichung und Übermittlung von Veränderungen des Stimmrechtsanteils an das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000404123)
 
 
 
 ### § 33 Mitteilungspflichten des Meldepflichtigen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003411123)
 
 (1) Wer durch Erwerb, Veräußerung oder auf sonstige Weise 3 Prozent, 5
 Prozent, 10 Prozent, 15 Prozent, 20 Prozent, 25 Prozent, 30 Prozent,
@@ -3837,6 +3888,7 @@ Nutzung eines elektronischen Verfahrens, betroffen sind.
 
 
 ### § 34 Zurechnung von Stimmrechten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003509123)
 
 (1) Für die Mitteilungspflichten nach § 33 Absatz 1 und 2 stehen den
 Stimmrechten des Meldepflichtigen Stimmrechte aus Aktien des
@@ -3909,6 +3961,7 @@ Bevollmächtigten zugerechnet wird.
 
 
 ### § 35 Tochterunternehmenseigenschaft; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015901123)
 
 (1) Vorbehaltlich der Absätze 2 bis 4 sind Tochterunternehmen im Sinne
 dieses Abschnitts Unternehmen,
@@ -4039,6 +4092,7 @@ gegeben ist.
 
 
 ### § 36 Nichtberücksichtigung von Stimmrechten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003609360)
 
 (1) Stimmrechte aus Aktien eines Emittenten, für den die
 Bundesrepublik Deutschland der Herkunftsstaat ist, bleiben bei der
@@ -4160,6 +4214,7 @@ jeweils geltenden Fassung.
 
 
 ### § 37 Mitteilung durch Mutterunternehmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003704123)
 
 (1) Ein Meldepflichtiger ist von den Meldepflichten nach § 33 Absatz 1
 und 2, § 38 Absatz 1 und § 39 Absatz 1 befreit, wenn die Mitteilung
@@ -4174,6 +4229,7 @@ Form der Mitteilung nach Absatz 1.
 
 
 ### § 38 Mitteilungspflichten beim Halten von Instrumenten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003815360)
 
 (1) Die Mitteilungspflicht nach § 33 Absatz 1 und 2 gilt bei
 Erreichen, Überschreiten oder Unterschreiten der in § 33 Absatz 1 Satz
@@ -4255,6 +4311,7 @@ sind.
 
 
 ### § 39 Mitteilungspflichten bei Zusammenrechnung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE014205123)
 
 (1) Die Mitteilungspflicht nach § 33 Absatz 1 und 2 gilt entsprechend
 für Inhaber von Stimmrechten im Sinne des § 33 und Instrumenten im
@@ -4275,6 +4332,7 @@ sind.
 
 
 ### § 40 Veröffentlichungspflichten des Emittenten und Übermittlung an das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE003912360)
 
 (1) Ein Inlandsemittent hat Informationen nach § 33 Absatz 1 Satz 1,
 Absatz 2 und § 38 Absatz 1 Satz 1 sowie § 39 Absatz 1 Satz 1 oder nach
@@ -4319,6 +4377,7 @@ erlassen über
 
 
 ### § 41 Veröffentlichung der Gesamtzahl der Stimmrechte und Übermittlung an das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010004360)
 
 (1) Ist es bei einem Inlandsemittenten zu einer Zu- oder Abnahme von
 Stimmrechten gekommen, so ist er verpflichtet, die Gesamtzahl der
@@ -4344,6 +4403,7 @@ bedarf es nicht.
 
 
 ### § 42 Nachweis mitgeteilter Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE004006123)
 
 Wer eine Mitteilung nach § 33 Absatz 1 oder 2, § 38 Absatz 1 oder § 39
 Absatz 1 abgegeben hat, muß auf Verlangen der Bundesanstalt oder des
@@ -4352,6 +4412,7 @@ ist, das Bestehen der mitgeteilten Beteiligung nachweisen.
 
 
 ### § 43 Mitteilungspflichten für Inhaber wesentlicher Beteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013106360)
 
 (1) Ein Meldepflichtiger im Sinne der §§ 33 und 34, der die Schwelle
 von 10 Prozent der Stimmrechte aus Aktien oder eine höhere Schwelle
@@ -4418,6 +4479,7 @@ Mitteilungen nach Absatz 1 erlassen.
 
 
 ### § 44 Rechtsverlust
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE004106123)
 
 (1) Rechte aus Aktien, die einem Meldepflichtigen gehören oder aus
 denen ihm Stimmrechte gemäß § 34 zugerechnet werden, bestehen nicht
@@ -4440,6 +4502,7 @@ desselben Emittenten anzuwenden, die dem Meldepflichtigen gehören.
 
 
 ### § 45 Richtlinien der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE004207123)
 
 Die Bundesanstalt kann Richtlinien aufstellen, nach denen sie für den
 Regelfall beurteilt, ob die Voraussetzungen für einen
@@ -4449,6 +4512,7 @@ sind im Bundesanzeiger zu veröffentlichen.
 
 
 ### § 46 Befreiungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010107360)
 
 (1) Die Bundesanstalt kann Inlandsemittenten mit Sitz in einem
 Drittstaat von den Pflichten nach § 40 Absatz 1 und § 41 freistellen,
@@ -4479,6 +4543,7 @@ erlassen.
 
 
 ### § 47 Handelstage
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE004309123)
 
 (1) Für die Berechnung der Mitteilungs- und Veröffentlichungsfristen
 nach diesem Abschnitt gelten als Handelstage alle Kalendertage, die
@@ -4490,10 +4555,12 @@ Kalender der Handelstage zur Verfügung.
 
 
 ## Abschnitt 7 - Notwendige Informationen für die Wahrnehmung von Rechten aus Wertpapieren
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001401123)
 
 
 
 ### § 48 Pflichten der Emittenten gegenüber Wertpapierinhabern
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010203123)
 
 (1) Emittenten, für die die Bundesrepublik Deutschland der
 Herkunftsstaat ist, müssen sicherstellen, dass
@@ -4567,6 +4634,7 @@ Hinterlegungsscheine den Inhabern der vertretenen Aktien gleich.
 
 
 ### § 49 Veröffentlichung von Mitteilungen und Übermittlung im Wege der Datenfernübertragung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010306360)
 
 (1) Der Emittent von zugelassenen Aktien, für den die Bundesrepublik
 Deutschland der Herkunftsstaat ist, muss
@@ -4674,6 +4742,7 @@ Satzungsregelungen des Emittenten auf schriftlichem Wege.
 
 
 ### § 50 Veröffentlichung zusätzlicher Angaben und Übermittlung an das Unternehmensregister; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010604360)
 
 (1) Ein Inlandsemittent muss
 
@@ -4715,6 +4784,7 @@ Mitteilung nach Absatz 1 Satz 1.
 
 
 ### § 51 Befreiung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010703360)
 
 (1) Die Bundesanstalt kann Inlandsemittenten mit Sitz in einem
 Drittstaat von den Pflichten nach den §§ 48, 49 und 50 Absatz 1 Satz 1
@@ -4742,15 +4812,18 @@ erlassen.
 
 
 ### § 52 Ausschluss der Anfechtung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010801123)
 
 Die Anfechtung eines Hauptversammlungsbeschlusses kann nicht auf eine
 Verletzung der Vorschriften dieses Abschnitts gestützt werden.
 
 
 ## Abschnitt 8 - Leerverkäufe und Geschäfte in Derivaten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001801123)
 
 
 ### § 53 Überwachung von Leerverkäufen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013503360)
 
 (1) Die Bundesanstalt ist zuständige Behörde im Sinne der Verordnung
 (EU) Nr. 236/2012. § 15 Absatz 7 des Börsengesetzes bleibt unberührt.
@@ -4799,9 +4872,11 @@ Bundesanstalt übertragen.
 
 
 ## Abschnitt 9 - Positionslimits und Positionsmanagementkontrollen bei Warenderivaten und Positionsmeldungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG002000123)
 
 
 ### § 54 Positionslimits und Positionsmanagementkontrollen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017701360)
 
 (1) Die Bundesanstalt legt vorbehaltlich des § 55 für jedes Derivat
 auf landwirtschaftliche Erzeugnisse und jedes kritische oder
@@ -4927,6 +5002,7 @@ Regulierungsstandards.
 
 
 ### § 55 Positionslimits bei europaweit gehandelten Derivaten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017801360)
 
 (1) Werden Derivate auf landwirtschaftliche Erzeugnisse mit demselben
 Basiswert und denselben Eigenschaften in erheblichen Volumina oder
@@ -4984,6 +5060,7 @@ und Durchsetzung des einheitlichen Positionslimits zu ermöglichen.
 
 
 ### § 56 Anwendung von Positionslimits
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE017901360)
 
 (1) Bei der Anwendung der nach den §§ 54 und 55 festgelegten
 Positionslimits werden alle Positionen berücksichtigt, die von einer
@@ -5042,6 +5119,7 @@ Regulierungsstandards.
 
 
 ### § 57 Positionsmeldungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE018101360)
 
 (1) Mitglieder und Teilnehmer von Handelsplätzen sind verpflichtet,
 dem jeweiligen Betreiber des Handelsplatzes einmal täglich die
@@ -5173,9 +5251,11 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ## Abschnitt 10 - Organisationspflichten von Datenbereitstellungsdiensten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG002100123)
 
 
 ### § 58 Hinweisgeberverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE018201360)
 
 Ein Datenbereitstellungsdienst muss über ein Hinweisgeberverfahren in
 entsprechender Anwendung des § 25a Absatz 1 Satz 6 Nummer 3 des
@@ -5183,6 +5263,7 @@ Kreditwesengesetzes verfügen.
 
 
 ### § 59 Überwachung der Organisationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE018301360)
 
 Die Bundesanstalt kann zur Überwachung der in § 58 sowie der in Titel
 IVa der Verordnung (EU) Nr. 600/2014, auch in Verbindung mit
@@ -5198,6 +5279,7 @@ Wirkung.
 
 
 ### § 60 Prüfung der Organisationspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE018401360)
 
 (1) Unbeschadet des § 59 ist die Einhaltung der in § 58 sowie der in
 Titel IVa der Verordnung (EU) Nr. 600/2014, auch in Verbindung mit
@@ -5216,13 +5298,16 @@ Bundesanstalt übertragen.
 
 
 ### (XXXX) §§ 61 und 62 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE018501360)
 
 
 ## Abschnitt 11 - Verhaltenspflichten, Organisationspflichten, Transparenzpflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000507123)
 
 
 
 ### § 63 Allgemeine Verhaltensregeln; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE021203360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen ist verpflichtet,
 Wertpapierdienstleistungen und Wertpapiernebendienstleistungen
@@ -5594,6 +5679,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE021307360)
 
 (1) Erbringt ein Wertpapierdienstleistungsunternehmen Anlageberatung,
 muss es den Kunden zusätzlich zu den Informationen nach § 63 Absatz 7
@@ -5970,6 +6056,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 64a Form der Kundenkommunikation
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022900360)
 
 Wertpapierdienstleistungsunternehmen stellen ihren Kunden oder
 potenziellen Kunden alle gemäß diesem Abschnitt zur Verfügung zu
@@ -5984,6 +6071,7 @@ haben, die Informationen in schriftlicher Form zu erhalten.
 
 
 ### § 65 Selbstauskunft bei der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019101360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen hat vor der Vermittlung
 des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des
@@ -6026,6 +6114,7 @@ Fahrlässigkeit unbekannt.
 
 
 ### § 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE021801360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen hat vor der Vermittlung
 des Vertragsschlusses über Wertpapiere im Sinne des § 6 des
@@ -6066,6 +6155,7 @@ bekannt oder infolge grober Fahrlässigkeit unbekannt.
 
 
 ### § 65b Veräußerung nachrangiger berücksichtigungsfähiger Verbindlichkeiten und relevanter Kapitalinstrumente an Privatkunden
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022200360)
 
 Unbeschadet der Vorschriften dieses Abschnitts dürfen nachrangige
 berücksichtigungsfähige Verbindlichkeiten nach § 2 Absatz 3 Nummer 40a
@@ -6084,6 +6174,7 @@ Vorschrift, die vor dem 28. Dezember 2020 begeben wurden.
 
 
 ### § 66 Ausnahmen für Immobiliar-Verbraucherdarlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019200123)
 
 § 63 Absatz 10 und 12 sowie § 64 Absatz 3, 4 und 8 gelten nicht für
 Immobiliar-Verbraucherdarlehensverträge, die an die Vorbedingung
@@ -6096,6 +6187,7 @@ refinanziert oder abgelöst werden kann.
 
 
 ### § 67 Kunden; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011502123)
 
 (1) Kunden im Sinne dieses Gesetzes sind alle natürlichen oder
 juristischen Personen, für die Wertpapierdienstleistungsunternehmen
@@ -6265,6 +6357,7 @@ Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 68 Geschäfte mit geeigneten Gegenparteien; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011604360)
 
 (1) Wertpapierdienstleistungsunternehmen, die das
 Finanzkommissionsgeschäft, die Anlage- und Abschlussvermittlung und
@@ -6289,6 +6382,7 @@ der Delegierten Verordnung (EU) 2017/565.
 
 
 ### § 69 Bearbeitung von Kundenaufträgen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019300123)
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss geeignete
 Vorkehrungen treffen, um
@@ -6332,6 +6426,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 70 Zuwendungen und Gebühren; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019401360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen darf im Zusammenhang mit
 der Erbringung von Wertpapierdienstleistungen oder
@@ -6563,6 +6658,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 71 Erbringung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen über ein anderes Wertpapierdienstleistungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE012101123)
 
 Erhält ein Wertpapierdienstleistungsunternehmen über ein anderes
 Wertpapierdienstleistungsunternehmen einen Auftrag,
@@ -6589,6 +6685,7 @@ Einklang mit den Bestimmungen dieses Abschnitts:
 
 
 ### § 72 Betrieb eines multilateralen Handelssystems oder eines organisierten Handelssystems
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE012205123)
 
 (1) Der Betreiber eines multilateralen oder organisierten
 Handelssystems ist dazu verpflichtet,
@@ -6812,6 +6909,7 @@ unverzüglich schriftlich zu unterrichten. Die Bundesanstalt kann
 
 
 ### § 73 Aussetzung des Handels und Ausschluss von Finanzinstrumenten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019501123)
 
 (1) Der Betreiber eines multilateralen oder organisierten
 Handelssystems kann den Handel mit einem Finanzinstrument aussetzen
@@ -6879,6 +6977,7 @@ für die Aufhebung einer Handelsaussetzung.
 
 
 ### § 74 Besondere Anforderungen an multilaterale Handelssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE012301123)
 
 (1) Die Regeln für den Zugang zu einem multilateralen Handelssystem
 müssen mindestens den Anforderungen nach § 19 Absatz 2 und 4 Satz 1
@@ -6919,6 +7018,7 @@ Zusammenführung sich deckender Kundenaufträge im Sinne von § 2 Absatz
 
 
 ### § 75 Besondere Anforderungen an organisierte Handelssysteme
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019600123)
 
 (1) Der Betreiber eines organisierten Handelssystems hat geeignete
 Vorkehrungen zu treffen, durch die die Ausführung von Kundenaufträgen
@@ -7011,6 +7111,7 @@ Handelssystem abgeschlossen wurden.
 
 
 ### § 76 KMU-Wachstumsmärkte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019801360)
 
 (1) Der Betreiber eines multilateralen Handelssystems kann dieses bei
 der Bundesanstalt als Wachstumsmarkt für kleine und mittlere
@@ -7106,6 +7207,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 77 Direkter elektronischer Zugang
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE019900123)
 
 (1) Ein Wertpapierdienstleistungsunternehmen, das einen direkten
 elektronischen Zugang zu einem Handelsplatz anbietet, muss
@@ -7171,6 +7273,7 @@ Einhaltung der Anforderungen dieses Gesetzes zu überprüfen.
 
 
 ### § 78 Handeln als General-Clearing-Mitglied
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020000123)
 
 Ein Wertpapierdienstleistungsunternehmen, das als General-Clearing-
 Mitglied für andere Personen handelt, muss über wirksame Systeme und
@@ -7187,6 +7290,7 @@ und Pflichten regelt.
 
 
 ### § 79 Mitteilungspflicht von systematischen Internalisierern
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE004505123)
 
 Wertpapierdienstleistungsunternehmen, die als systematischer
 Internalisierer tätig sind, haben dies der Bundesanstalt unverzüglich
@@ -7195,6 +7299,7 @@ Europäische Wertpapier- und Marktaufsichtsbehörde.
 
 
 ### § 80 Organisationspflichten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020105360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss die
 organisatorischen Pflichten nach § 25a Absatz 1 und § 25e des
@@ -7466,6 +7571,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 81 Geschäftsleiter
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020201360)
 
 (1) Die Geschäftsleiter eines Wertpapierdienstleistungsunternehmens
 haben im Rahmen der Pflichten aus § 25c Absatz 3 des
@@ -7568,6 +7674,7 @@ Der Beauftragte kann daneben auch weitere Aufgaben wahrnehmen.
 
 
 ### § 82 Bestmögliche Ausführung von Kundenaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE012903123)
 
 (1) Ein Wertpapierdienstleistungsunternehmen, das Aufträge seiner
 Kunden für den Kauf oder Verkauf von Finanzinstrumenten im Sinne des §
@@ -7729,6 +7836,7 @@ Qualität der Ausführung von Geschäften veröffentlichen müssen (ABl. L
 
 
 ### § 83 Aufzeichnungs- und Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020304360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen muss, unbeschadet der
 Aufzeichnungspflichten nach den Artikeln 74 und 75 der Delegierten
@@ -7862,6 +7970,7 @@ damit das Darlehen ausgezahlt, refinanziert oder abgelöst werden kann.
 
 
 ### § 84 Vermögensverwahrung und Finanzsicherheiten; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020403360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen, das Gelder von Kunden
 hält, hat geeignete Vorkehrungen zu treffen, um die Rechte der Kunden
@@ -8015,6 +8124,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 85 Anlagestrategieempfehlungen und Anlageempfehlungen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007104123)
 
 (1) Unternehmen, die Anlagestrategieempfehlungen im Sinne des Artikels
 3 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 596/2014 oder
@@ -8041,6 +8151,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 86 Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008803123)
 
 (1) Andere Personen als Wertpapierdienstleistungsunternehmen,
 Kapitalverwaltungsgesellschaften, EU-Verwaltungsgesellschaften oder
@@ -8087,6 +8198,7 @@ oder der Hauptniederlassung.
 
 
 ### § 87 Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsbeauftragte, in der Finanzportfolioverwaltung oder als Compliance-Beauftragte; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020501360)
 
 (1) Ein Wertpapierdienstleistungsunternehmen darf einen Mitarbeiter
 nur dann mit der Anlageberatung betrauen, wenn dieser sachkundig ist
@@ -8250,6 +8362,7 @@ abgelöst werden kann.
 
 
 ### § 88 Überwachung der Meldepflichten und Verhaltensregeln
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022401360)
 
 (1) Die Bundesanstalt kann zur Überwachung der Einhaltung
 
@@ -8351,6 +8464,7 @@ veröffentlichen.
 
 
 ### § 89 Prüfung der Meldepflichten und Verhaltensregeln; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020604360)
 
 (1) Unbeschadet des § 88 ist einmal jährlich durch einen geeigneten
 Prüfer zu prüfen, ob die folgenden Pflichten eingehalten werden:
@@ -8491,6 +8605,7 @@ Bundesanstalt übertragen.
 
 
 ### § 90 Unternehmen, organisierte Märkte und multilaterale Handelssysteme mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006010360)
 
 (1) Die in diesem Abschnitt und den Artikeln 14 bis 26 der Verordnung
 (EU) Nr. 600/2014 geregelten Rechte und Pflichten sind mit Ausnahme
@@ -8583,6 +8698,7 @@ Nr. 1095/2010 um Hilfe ersuchen.
 
 
 ### § 91 Unternehmen mit Sitz in einem Drittstaat
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020700123)
 
 Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr.
 600/2014 kann die Bundesanstalt im Einzelfall bestimmen, dass auf ein
@@ -8603,6 +8719,7 @@ gleichwertig ist.
 
 
 ### § 92 Werbung der Wertpapierdienstleistungsunternehmen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006105123)
 
 (1) Um Mißständen bei der Werbung für Wertpapierdienstleistungen und
 Wertpapiernebendienstleistungen zu begegnen, kann die Bundesanstalt
@@ -8638,6 +8755,7 @@ anzuhören.
 
 
 ### § 93 Register Unabhängiger Honorar-Anlageberater; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006212360)
 
 (1) Die Bundesanstalt führt auf ihrer Internetseite ein öffentliches
 Register Unabhängiger Honorar-Anlageberater über alle
@@ -8715,6 +8833,7 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ### § 94 Bezeichnungen zur Unabhängigen Honorar-Anlageberatung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015401123)
 
 (1) Die Bezeichnungen „Unabhängiger Honorar-Anlageberater“,
 „Unabhängige Honorar-Anlageberaterin“, „Unabhängige Honorar-
@@ -8749,6 +8868,7 @@ Honorar-Anlageberater nach § 93 tritt.
 
 
 ### § 95 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005006123)
 
 § 63 Absatz 1 und 3 bis 7 und 9, § 56 Absatz 1 sowie der §§ 69, 70 und
 82 gelten nicht für Geschäfte, die an organisierten Märkten oder in
@@ -8763,6 +8883,7 @@ Wertpapierdienstleistungsunternehmen jedoch den Verpflichtungen des §§
 
 
 ### § 96 Strukturierte Einlagen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020800123)
 
 Die §§ 63 und 64, mit Ausnahme von § 64 Absatz 2, § 67 Absatz 4, die
 §§ 68 bis 71, 80 Absatz 1 Satz 2 Nummer 2 und 3 und Absatz 7 bis 13, §
@@ -8774,10 +8895,12 @@ beraten.
 
 
 ## Abschnitt 12 - Haftung für falsche und unterlassene Kapitalmarktinformationen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000902123)
 
 
 
 ### § 97 Schadenersatz wegen unterlassener unverzüglicher Veröffentlichung von Insiderinformationen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007203123)
 
 (1) Unterlässt es ein Emittent, der für seine Finanzinstrumente die
 Zulassung zum Handel an einem inländischen Handelsplatz genehmigt oder
@@ -8816,6 +8939,7 @@ Absatz 1 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
 
 
 ### § 98 Schadenersatz wegen Veröffentlichung unwahrer Insiderinformationen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007304123)
 
 (1) Veröffentlicht ein Emittent, der für seine Finanzinstrumente die
 Zulassung zum Handel an einem inländischen Handelsplatz genehmigt oder
@@ -8856,10 +8980,12 @@ Absatz 1 im Voraus ermäßigt oder erlassen werden, ist unwirksam.
 
 
 ## Abschnitt 13 - Finanztermingeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001001123)
 
 
 
 ### § 99 Ausschluss des Einwands nach § 762 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007502123)
 
 Gegen Ansprüche aus Finanztermingeschäften, bei denen mindestens ein
 Vertragsteil ein Unternehmen ist, das gewerbsmäßig oder in einem
@@ -8874,6 +9000,7 @@ Optionsscheine.
 
 
 ### § 100 Verbotene Finanztermingeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007702123)
 
 (1) Unbeschadet der Befugnisse der Bundesanstalt nach § 15 kann das
 Bundesministerium der Finanzen durch Rechtsverordnung
@@ -8906,10 +9033,12 @@ gilt entsprechend für
 
 
 ## Abschnitt 14 - Schiedsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001101123)
 
 
 
 ### § 101 Schiedsvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007801123)
 
 Schiedsvereinbarungen über künftige Rechtsstreitigkeiten aus
 Wertpapierdienstleistungen, Wertpapiernebendienstleistungen oder
@@ -8918,10 +9047,12 @@ Kaufleute oder juristische Personen des öffentlichen Rechts sind.
 
 
 ## Abschnitt 15 - Märkte für Finanzinstrumente mit Sitz außerhalb der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001203123)
 
 
 
 ### § 102 Erlaubnis; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE007908360)
 
 (1) Vorbehaltlich der Regelungen in Titel VIII der Verordnung (EU) Nr.
 600/2014 sowie von Beschlüssen der Europäischen Kommission gemäß
@@ -9001,6 +9132,7 @@ Anhörung getroffen und öffentlich bekannt gegeben werden.
 
 
 ### § 103 Versagung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008003123)
 
 Die Erlaubnis ist zu versagen, wenn
 
@@ -9026,6 +9158,7 @@ Die Erlaubnis ist zu versagen, wenn
 
 
 ### § 104 Aufhebung der Erlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008105360)
 
 (1) Die Bundesanstalt kann die Erlaubnis außer nach den Vorschriften
 des Verwaltungsverfahrensgesetzes aufheben, wenn
@@ -9049,6 +9182,7 @@ Bundesanzeiger bekannt zu machen.
 
 
 ### § 105 Untersagung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008203123)
 
 Die Bundesanstalt kann Handelsteilnehmern mit Sitz im Inland, die
 Wertpapierdienstleistungen im Inland erbringen, untersagen, Aufträge
@@ -9059,14 +9193,17 @@ dieses elektronische Handelssystem ohne Erlaubnis gewähren.
 
 
 ## Abschnitt 16 - Überwachung von Unternehmensabschlüssen, Veröffentlichung von Finanzberichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001302123)
 
 
 
 ### Unterabschnitt 1 - Überwachung von Unternehmensabschlüssen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001501123)
 
 
 
 #### § 106 Prüfung von Unternehmensabschlüssen und -berichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009008360)
 
 Die Bundesanstalt hat die Aufgabe, nach den Vorschriften dieses
 Abschnitts zu prüfen, ob folgende Abschlüsse und Berichte, jeweils
@@ -9096,6 +9233,7 @@ entsprechen:
 
 
 #### § 107 Einleitung einer Prüfung der Rechnungslegung und Ermittlungsbefugnisse der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009111360)
 
 (1) Die Bundesanstalt leitet eine Prüfung der Rechnungslegung ein,
 soweit konkrete Anhaltspunkte für einen Verstoß gegen
@@ -9257,10 +9395,12 @@ der Bekanntmachung.
 
 
 #### § 108 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009205360)
 
 
 
 #### § 109 Ergebnis der Prüfung der Bundesanstalt
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009304360)
 
 (1) Ergibt die Prüfung durch die Bundesanstalt, dass die
 Rechnungslegung fehlerhaft ist, so stellt die Bundesanstalt den Fehler
@@ -9310,6 +9450,7 @@ Informationen zehn Jahre nach ihrer Bekanntmachung.
 
 
 #### § 109a Informationsaustausch, Befreiung von Verschwiegenheitspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022500360)
 
 (1) Soweit
 
@@ -9346,6 +9487,7 @@ Verschwiegenheits- oder Geheimhaltungsflichten.
 
 
 #### § 110 Mitteilungen an andere Stellen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009404360)
 
 (1) Die Bundesanstalt hat Tatsachen, die den Verdacht einer Straftat
 im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen,
@@ -9373,6 +9515,7 @@ Börsenaufsichtsbehörde. Absatz 1 Satz 2 gilt entsprechend.
 
 
 #### § 111 Internationale Zusammenarbeit
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009503360)
 
 (1) Der Bundesanstalt obliegt die Zusammenarbeit mit den Stellen im
 Ausland, die zuständig sind für die Untersuchung möglicher Verstöße
@@ -9402,6 +9545,7 @@ Verfügung gestellt werden.
 
 
 #### § 112 Widerspruchsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009606360)
 
 (1) Vor Einlegung der Beschwerde sind Rechtmäßigkeit und
 Zweckmäßigkeit der Verfügungen, welche die Bundesanstalt nach den
@@ -9419,6 +9563,7 @@ aufschiebende Wirkung.
 
 
 #### § 113 Beschwerde
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE009701123)
 
 (1) Gegen Verfügungen der Bundesanstalt nach diesem Abschnitt ist die
 Beschwerde statthaft. Die Beschwerde hat keine aufschiebende Wirkung.
@@ -9429,6 +9574,7 @@ entsprechend.
 
 
 #### § 113a Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022600360)
 
 Das Bundesministerium der Finanzen berichtet den gesetzgebenden
 Körperschaften zum 1. Januar 2027 über die Erfahrungen mit den
@@ -9437,10 +9583,12 @@ in Kraft getretenen Fassung.
 
 
 ### Unterabschnitt 2 - Veröffentlichung und Übermittlung von Finanzberichten an das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG001601123)
 
 
 
 #### § 114 Jahresfinanzbericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE010907360)
 
 (1) Ein Unternehmen, das als Inlandsemittent Wertpapiere begibt, hat
 für den Schluss eines jeden Geschäftsjahrs einen Jahresfinanzbericht
@@ -9543,6 +9691,7 @@ nähere Bestimmungen erlassen über
 
 
 #### § 115 Halbjahresfinanzbericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011006360)
 
 (1) Ein Unternehmen, das als Inlandsemittent Aktien oder Schuldtitel
 im Sinne des § 2 Absatz 1 begibt, hat für die ersten sechs Monate
@@ -9655,6 +9804,7 @@ einen Abschlussprüfer Absatz 5 entsprechend.
 
 
 #### § 116 Zahlungsbericht; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011104360)
 
 (1) Ein Unternehmen, das als Inlandsemittent Wertpapiere begibt, hat
 unter entsprechender Anwendung der §§ 341r bis 341v des
@@ -9741,6 +9891,7 @@ nähere Bestimmungen erlassen über
 
 
 #### § 117 Konzernabschluss
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011205360)
 
 Ist ein Mutterunternehmen verpflichtet, einen Konzernabschluss und
 einen Konzernlagebericht aufzustellen, gelten die §§ 114 und 115 mit
@@ -9776,6 +9927,7 @@ der folgenden Maßgabe:
 
 
 #### § 118 Ausnahmen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011307360)
 
 (1) Die §§ 114, 115 und 117 sind nicht anzuwenden auf Unternehmen, die
 ausschließlich
@@ -9837,10 +9989,12 @@ erlassen.
 
 
 ## Abschnitt 17 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000605123)
 
 
 
 ### § 119 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005109123)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in § 120 Absatz 2 Nummer 3 oder Absatz 15 Nummer 2
@@ -9952,6 +10106,7 @@ Geldstrafe.
 
 
 ### § 119a Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022700360)
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -9973,6 +10128,7 @@ bis zu zwei Jahren oder Geldstrafe.
 
 
 ### § 120 Bußgeldvorschriften; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005353360)
 
 (1) Ordnungswidrig handelt, wer
 
@@ -12449,6 +12605,7 @@ Nummer 16 geahndet werden können.
 
 
 ### § 120a Bußgeldvorschriften zur Delegierten Verordnung (EU) Nr. 149/2013
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024400360)
 
 (1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 Nr. 149/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der
@@ -12515,6 +12672,7 @@ hunderttausend Euro geahndet werden.
 
 
 ### § 120b Bußgeldvorschriften zur Delegierten Verordnung (EU) 2017/2154
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024500360)
 
 (1) Ordnungswidrig handelt, wer gegen die Delegierte Verordnung (EU)
 2017/2154 der Kommission vom 22. September 2017 zur Ergänzung der
@@ -12576,6 +12734,7 @@ hunderttausend Euro geahndet werden.
 
 
 ### § 120c Bußgeldvorschriften zur Verordnung (EU) 2019/1238
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023202360)
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/1238
 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
@@ -12759,6 +12918,7 @@ lässt.
 
 
 ### § 120d Bußgeldvorschriften zur Verordnung (EU) 2020/1503
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023801360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 Artikel 18 Absatz 1 der Verordnung (EU) 2020/1503 des Europäischen
@@ -12940,6 +13100,7 @@ soweit sich dieser beziffern lässt.
 
 
 ### § 120e Bußgeldvorschriften zur Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024600360)
 
 Zuwiderhandlungen gegen die Verordnung (EU) 2022/2554 des Europäischen
 Parlaments und des Rates vom 14. Dezember 2022 über die digitale
@@ -12952,12 +13113,14 @@ werden.
 
 
 ### § 121 Zuständige Verwaltungsbehörde
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005404123)
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
 
 
 ### § 122 Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005707360)
 
 (1) Die Staatsanwaltschaft informiert die Bundesanstalt über die
 Einleitung eines Ermittlungsverfahrens, welches Straftaten nach § 119
@@ -13013,6 +13176,7 @@ erkennbar ist, dass schutzwürdige Interessen des Betroffenen
 
 
 ### § 123 Bekanntmachung von Maßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE008906123)
 
 (1) Die Bundesanstalt kann unanfechtbare Maßnahmen, die sie wegen
 Verstößen gegen Verbote oder Gebote dieses Gesetzes getroffen hat, auf
@@ -13049,6 +13213,7 @@ mehr erforderlich ist.
 
 
 ### § 124 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen Transparenzpflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016001123)
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen gegen Verbote oder Gebote nach den
@@ -13094,6 +13259,7 @@ mehr erforderlich ist.
 
 
 ### § 125 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 596/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 und die Verordnung (EU) 2022/2554
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016204360)
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen, die wegen Verstößen nach den Artikeln 14, 15, 16 Absatz 1
@@ -13174,6 +13340,7 @@ eines Rechtsbehelfs erfolgt ist.
 
 
 ### § 126 Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen Vorschriften der Abschnitte 9 bis 11 und gegen die Verordnung (EU) Nr. 600/2014
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE020900123)
 
 (1) Die Bundesanstalt macht Entscheidungen über Maßnahmen und
 Sanktionen, die erlassen wurden wegen Verstößen gegen
@@ -13274,10 +13441,12 @@ gleichzeitig darüber.
 
 
 ## Abschnitt 18 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNG000704123)
 
 
 
 ### § 127 Erstmalige Mitteilungs- und Veröffentlichungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE005612123)
 
 (1) Ein Unternehmen im Sinne des § 9 Absatz 1 Satz 1 in der Fassung
 dieses Gesetzes vom 26. Juli 1994 (BGBl. I S. 1749), das am 1. August
@@ -13504,6 +13673,7 @@ einer Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
 
 ### § 128 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten zur Wahl des Herkunftsstaats
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE015002123)
 
 Auf einen Emittenten im Sinne des § 2 Absatz 11 Satz 1 Nummer 1
 Buchstabe b oder Nummer 2, für den die Bundesrepublik Deutschland am
@@ -13512,9 +13682,11 @@ Bundesanstalt mitgeteilt hat, ist § 5 nicht anzuwenden.
 
 
 ### § 129 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006304360)
 
 
 ### § 130 Übergangsregelung für die Mitteilungs- und Veröffentlichungspflichten für Inhaber von Netto-Leerverkaufspositionen nach § 30i in der Fassung dieses Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2481)
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013902123)
 
 (1) Wer am 26. März 2012 Inhaber einer Netto-Leerverkaufsposition nach
 § 30i Absatz 1 Satz 1 in der Fassung dieses Gesetzes vom 6. Dezember
@@ -13552,6 +13724,7 @@ Geldbuße bis zu zweihunderttausend Euro geahndet werden.
 
 
 ### § 131 Übergangsregelung für die Verjährung von Ersatzansprüchen nach § 37a der bis zum 4. August 2009 gültigen Fassung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE006603123)
 
 § 37a in der bis zum 4. August 2009 geltenden Fassung ist auf
 Ansprüche anzuwenden, die in der Zeit vom 1. April 1998 bis zum Ablauf
@@ -13559,6 +13732,7 @@ des 4. August 2009 entstanden sind.
 
 
 ### § 132 Anwendungsbestimmung für das Transparenzrichtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE011403123)
 
 (1) § 37n und § 37o Abs. 1 Satz 4 sowie die Bestimmungen des
 Abschnitts 11 Unterabschnitt 2 in der Fassung des Gesetzes vom 5.
@@ -13589,6 +13763,7 @@ Anwendung, die nach dem 31. Dezember 2007 übermittelt werden.
 
 
 ### § 133 Anwendungsbestimmung für § 34 der bis zum 2. Januar 2018 gültigen Fassung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE013201123)
 
 Auf Ansprüche auf Herausgabe einer Ausfertigung des Protokolls nach §
 34 Absatz 2a der bis zum 2. Januar 2018 gültigen Fassung dieses
@@ -13598,6 +13773,7 @@ dieses Gesetzes weiterhin Anwendung.
 
 
 ### § 134 Anwendungsbestimmung für das Gesetz zur Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016101123)
 
 (1) Die §§ 37n, 37o und 37p in der Fassung des Gesetzes vom 20.
 November 2015 (BGBl. I S. 2029) sind ab dem 1. Januar 2016 anzuwenden.
@@ -13609,6 +13785,7 @@ anzuwenden.
 
 
 ### § 135 Übergangsvorschriften zur Verordnung (EU) Nr. 596/2014
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016301123)
 
 § 39 Absatz 3d Nummer 1 in der Fassung dieses Gesetzes vom 30. Juni
 2016 (BGBl. I S. 1514) ist bis zu dem Tag, ab dem die Richtlinie
@@ -13650,6 +13827,7 @@ ist für die Vorschriften dieses Gesetzes die Verordnung (EU) Nr.
 
 
 ### § 136 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE021900123)
 
 Die §§ 37w und 37y in der Fassung des CSR-Richtlinie-
 Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals
@@ -13661,6 +13839,7 @@ bis zum 18. April 2017 geltenden Fassung anwendbar.
 
 
 ### § 137 Übergangsvorschrift für Verstöße gegen die §§ 38 und 39 in der bis zum Ablauf des 1. Juli 2016 geltenden Fassung dieses Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE016501123)
 
 (1) Straftaten nach § 38 in der bis zum Ablauf des 1. Juli 2016
 geltenden Fassung werden abweichend von § 2 Absatz 3 des
@@ -13674,6 +13853,7 @@ Bestimmungen geahndet werden.
 
 
 ### § 138 Übergangsvorschrift zur Richtlinie 2014/65/EU über Märkte für Finanzinstrumente
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE021001123)
 
 (1) C.6-Energiederivatkontrakte, die von einer nichtfinanziellen
 Gegenpartei im Sinne von Artikel 10 Absatz 1 der Verordnung (EU) Nr.
@@ -13705,6 +13885,7 @@ Ausnahmen nach den Absätzen 1 und 2 gewährt worden sind.
 
 
 ### § 138a Übergangsregelung zur Verordnung (EU) Nr. 600/2014
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024700360)
 
 Das in Artikel 39a Absatz 1 der Verordnung (EU) Nr. 600/2014 geregelte
 Verbot von Zuwendungen für die Weiterleitung von Kundenaufträgen
@@ -13714,6 +13895,7 @@ zum 30. Juni 2026 keine Anwendung.
 
 
 ### § 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022000360)
 
 (1) § 76 Absatz 1 Satz 1 Nummer 3 in der bis zum 20. Juli 2019
 geltenden Fassung findet weiterhin Anwendung für den Fall eines
@@ -13729,6 +13911,7 @@ Juli 2019 geltenden Fassung weiterhin Anwendung.
 
 
 ### § 140 Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022100360)
 
 Die §§ 106, 107, 114 und 120 in der ab dem 19. August 2020 geltenden
 Fassung sind erstmals auf Jahres-, Einzel- und Konzernabschlüsse sowie
@@ -13741,6 +13924,7 @@ vor dem 1. Januar 2020 beginnende Geschäftsjahr.
 
 
 ### § 141 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE022800360)
 
 (1) Bis zum Ablauf des 31. Dezember 2021 nicht abgeschlossene
 Prüfungen nach § 342b Absatz 2 Satz 3 des Handelsgesetzbuchs in der
@@ -13772,6 +13956,7 @@ Interesse an der Einsichtnahme oder Übermittlung besteht.
 
 
 ### § 142 Übergangsvorschriften für das Schwarmfinanzierung-Begleitgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE023000360)
 
 (1) Wertpapierdienstleistungsunternehmen haben ihre Kunden
 (Bestandskunden), die die gemäß Abschnitt 11 zur Verfügung zu
@@ -13796,6 +13981,7 @@ Anwendung.
 
 
 ### § 143 Übergangsvorschrift zum Zukunftsfinanzierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/wphg/BJNR174910994.html#BJNR174910994BJNE024200360)
 
 Auf die Haftung für fehlerhafte Anlagebasisinformationsblätter sind
 die §§ 32c bis 32e in der bis einschließlich 14. Dezember 2023

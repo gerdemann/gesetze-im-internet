@@ -18,12 +18,14 @@ Fundstelle
 Stand: Ersetzt G 224-3 v. 25.7.1957 I 841 (PrKultbG)
 
 ## § 1 Name, Rechtsform und Sitz der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000100000)
 
 Die Stiftung Preußischer Kulturbesitz ist eine rechtsfähige Stiftung
 des öffentlichen Rechts mit Sitz in Berlin.
 
 
 ## § 2 Stiftungszweck
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000200000)
 
 (1) Die Stiftung hat den Zweck, als Kultur-, Bildungs- und
 Wissenschaftseinrichtung die ihr übertragenen Kulturgüter im
@@ -41,6 +43,7 @@ Abgabenordnung.
 
 
 ## § 3 Vermögen und Finanzierung
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000300000)
 
 (1) Das Vermögen der Stiftung besteht aus
 
@@ -75,6 +78,7 @@ können.
 
 
 ## § 4 Satzung
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000400000)
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat beschlossen
 wird. Hierzu bedarf es einer Mehrheit von mindestens zwei Dritteln der
@@ -86,6 +90,7 @@ entsprechend.
 
 
 ## § 5 Organe der Stiftung
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000500000)
 
 Organe der Stiftung sind
 
@@ -102,6 +107,7 @@ Organe der Stiftung sind
 
 
 ## § 6 Stiftungsrat
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000600000)
 
 (1) Der Stiftungsrat besteht aus insgesamt neun Mitgliedern. Zwei
 Mitglieder werden vom Bund entsandt, davon eines von der für Kultur
@@ -131,6 +137,7 @@ sachkundige Personen können hinzugezogen werden.
 
 
 ## § 7 Aufgaben und Beschlussfassung des Stiftungsrats
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000700000)
 
 (1) Der Stiftungsrat ist das oberste Organ der Stiftung. Er gibt die
 Leitlinien der Stiftungstätigkeit vor und überwacht diese im Hinblick
@@ -160,6 +167,7 @@ einschließlich der Stimme des Landes Berlin.
 
 
 ## § 8 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000800000)
 
 (1) Der Vorstand besteht aus bis zu sieben Mitgliedern, die vom
 Stiftungsrat ernannt werden. Ihm gehören an
@@ -204,6 +212,7 @@ Wiederholte Berufungen sind zulässig.
 
 
 ## § 9 Präsident, Präsidentin
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE000900000)
 
 (1) Der Präsident oder die Präsidentin wird vom Stiftungsrat zeitlich
 befristet berufen. Wiederholte Berufungen sind zulässig.
@@ -225,6 +234,7 @@ der Präsidentin, soweit die Satzung nichts anderes bestimmt.
 
 
 ## § 10 Beirat
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001000000)
 
 Der Beirat berät die Organe der Stiftung in fachlichen Belangen. Seine
 Mitglieder sind vom Stiftungsrat aus dem Kreis von in- und
@@ -234,12 +244,14 @@ Satzung.
 
 
 ## § 11 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001100000)
 
 Die Stiftung untersteht der Rechtsaufsicht der für Kultur und Medien
 zuständigen obersten Bundesbehörde.
 
 
 ## § 12 Haushalt
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001200000)
 
 (1) Die Stiftung hat zum 1. Oktober eines jeden Jahres einen
 Haushaltsplan aufzustellen. Der Haushaltsplan bedarf der Genehmigung
@@ -269,6 +281,7 @@ Steuerungsinstrumente fest.
 
 
 ## § 13 Übertragung und Verwaltung der Kulturgüter
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001300000)
 
 (1) Die Stiftung ist verpflichtet,
 
@@ -295,6 +308,7 @@ Berechtigten befindet.
 
 
 ## § 14 Beschäftigte
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001400000)
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch
 Arbeitnehmerinnen und Arbeitnehmer wahrgenommen. Auf diese sind die
@@ -328,6 +342,7 @@ Beamtenverhältnisse werden fortgeführt.
 
 
 ## § 15 Benutzungsordnungen, eigenwirtschaftliche Tätigkeit
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001500000)
 
 (1) Die Stiftung erlässt nach näherer Bestimmung in der Satzung
 Gebühren- und Benutzungsordnungen, in denen die Gebühren und Auslagen
@@ -341,6 +356,7 @@ mit eigener Rechtspersönlichkeit tätig zu werden.
 
 
 ## § 16 Auskunfts- und Einsichtsrechte
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001600000)
 
 Die für Kultur und Medien zuständige oberste Bundesbehörde und der
 Vorstand der Stiftung sind berechtigt, von allen öffentlichen Stellen,
@@ -353,6 +369,7 @@ Unterlagen zu nehmen. Das gleiche Recht hat der Bundesrechnungshof.
 
 
 ## § 17 Gerichtsgebühren, Abgaben
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001700000)
 
 Gerichtsgebühren und Abgaben, die aus Anlass und in Durchführung
 dieses Gesetzes oder des Gesetzes zur Errichtung einer Stiftung
@@ -362,11 +379,13 @@ erhoben. Bare Auslagen bleiben außer Ansatz.
 
 
 ## § 18 Dienstsiegel
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001800000)
 
 Die Stiftung führt ein Dienstsiegel.
 
 
 ## § 19 Zulegung von Stiftungen des Privatrechts
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE001900000)
 
 Der Stiftung können Stiftungen des Privatrechts zugelegt werden. Für
 die Zulegung gelten die §§ 86 bis 86h des Bürgerlichen Gesetzbuchs mit
@@ -377,6 +396,7 @@ Deutschen Bundestages bedarf.
 
 
 ## § 20 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stiftpkg/BJNR0650A0025.html#BJNR0650A0025BJNE002000000)
 
 (1) Dieses Gesetz tritt am 1. Dezember 2025 in Kraft.
 

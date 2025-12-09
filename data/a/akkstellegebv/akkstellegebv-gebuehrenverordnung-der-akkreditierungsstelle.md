@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000100000)
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 und § 23 Absatz 8 Satz 2 des
 Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet
@@ -27,6 +28,7 @@ das Bundesministerium für Wirtschaft und Energie:
 
 
 ## § 1 Gebührenerhebung
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000200000)
 
 Die Akkreditierungsstelle erhebt für individuell zurechenbare
 öffentliche Leistungen Gebühren und Auslagen nach den Vorschriften
@@ -35,6 +37,7 @@ Gebührenverzeichnis.
 
 
 ## § 2 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000300000)
 
 (1) Für die Zwecke dieser Verordnung gelten nachstehende
 Begriffsbestimmungen.
@@ -86,6 +89,7 @@ Akkreditierung.
 
 
 ## § 3 Gebührenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000400000)
 
 (1) Eine individuell zurechenbare öffentliche Leistung wird nach
 Zeitgebühr abgerechnet. Die Zeitgebühr ist durch Multiplikation des
@@ -131,6 +135,7 @@ zu berücksichtigen, insbesondere für
 
 
 ## § 4 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000501119)
 
 (1) Auslagen sind auch zu erheben für
 
@@ -205,6 +210,7 @@ Warte- und Reisezeiten werden zu einem Viertel abgegolten.
 
 
 ## § 5 Nichtanwendung bisherigen Rechts
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000600000)
 
 § 23 Absatz 2 bis 7 des Bundesgebührengesetzes in Verbindung mit § 7
 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S.
@@ -213,6 +219,7 @@ des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S.
 
 
 ## § 6 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000702119)
 
 (1) Für individuell zurechenbare öffentliche Leistungen, die vor dem
 1\. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist,
@@ -266,6 +273,7 @@ vorbehalten worden ist.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000800000)
 
 (1) Diese Verordnung tritt am ersten Tag des siebten auf die
 Verkündung folgenden Kalendermonats in Kraft.
@@ -278,6 +286,7 @@ ist, außer Kraft.
 (zu § 1)
 
 ## Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/akkstellegebv/BJNR387700017.html#BJNR387700017BJNE000902119)
 
 (Fundstelle: BGBl. I 2017, 3879 - 3881;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rov/BJNR027660990.html#BJNR027660990BJNE000100308)
 
 Auf Grund des § 6a Abs. 2 Satz 1 des Raumordnungsgesetzes in der
 Fassung der Bekanntmachung vom 19. Juli 1989 (BGBl. I S. 1461)
@@ -27,6 +28,7 @@ verordnet die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rov/BJNR027660990.html#BJNR027660990BJNE000211130)
 
 Die Durchführung einer Raumverträglichkeitsprüfung erfolgt nur auf
 Grundlage eines Antrags nach § 15 Absatz 4 Satz 1 des
@@ -138,16 +140,19 @@ Raumverträglichkeitsprüfung durchzuführen, bleibt unberührt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rov/BJNR027660990.html#BJNR027660990BJNE000301310)
 
 (weggefallen)
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rov/BJNR027660990.html#BJNR027660990BJNE000400308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rov/BJNR027660990.html#BJNR027660990BJNE000500308)
 
 Der Bundesrat hat zugestimmt.
 

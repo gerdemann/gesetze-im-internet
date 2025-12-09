@@ -21,6 +21,7 @@ Geändert durch
 Stand: Gem. § 33 Abs. 2 dieser V tritt Abschnitt 5 mWv 1.10.2021 außer Kraft
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000100000)
 
 Das Bundesministerium für Gesundheit verordnet
 
@@ -37,9 +38,11 @@ Das Bundesministerium für Gesundheit verordnet
 
 
 ## Abschnitt 1 - Lenkungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000100000)
 
 
 ### § 1 Aufgaben des Lenkungsausschusses, Rechts- und Fachaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000300000)
 
 (1) Das Paul-Ehrlich-Institut richtet für das Deutsche
 Hämophilieregister (Register) einen Lenkungsausschuss ein. Der
@@ -70,6 +73,7 @@ Bundesministerium für Gesundheit.
 
 
 ### § 2 Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000400000)
 
 (1) Das Bundesministerium für Gesundheit beruft die Mitglieder des
 Lenkungsausschusses. Die Berufung der Mitglieder soll einheitlich alle
@@ -101,6 +105,7 @@ Satz 1 gilt entsprechend.
 
 
 ### § 3 Ehrenamt
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000500000)
 
 (1) Die Mitgliedschaft im Lenkungsausschuss ist ein persönliches
 Ehrenamt.
@@ -113,6 +118,7 @@ oder Dienstort des Mitglieds erfolgen.
 
 
 ### § 4 Vorsitz, Stellvertretung des Vorsitzes
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000600000)
 
 (1) Die in der ersten Sitzung nach der jeweiligen Berufung des
 Lenkungsausschusses anwesenden Mitglieder wählen aus ihrer Mitte in
@@ -137,6 +143,7 @@ nach § 18 wahrgenommen.
 
 
 ### § 5 Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000700000)
 
 (1) Die Mitglieder haben über die im Zusammenhang mit der
 Mitgliedschaft bekannt gewordenen Tatsachen Verschwiegenheit zu
@@ -158,6 +165,7 @@ Abstimmungsverhalten und bisher unveröffentlichte Daten.
 
 
 ### § 6 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000800000)
 
 (1) Der Lenkungsausschuss führt einmal jährlich eine ordentliche
 Ausschusssitzung durch.
@@ -262,6 +270,7 @@ Geschäftsstelle nach § 18 wahrgenommen.
 
 
 ### § 7 Ergebnisprotokoll der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE000900000)
 
 (1) Die Geschäftsstelle nach § 18 fertigt von jeder Sitzung ein
 Ergebnisprotokoll an. Das Ergebnisprotokoll hat zu enthalten:
@@ -297,6 +306,7 @@ aufzubewahren.
 
 
 ### § 8 Beratungen, Beschlussfassungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001000000)
 
 (1) Beschlüsse werden in der Regel im Rahmen der Sitzungen des
 Lenkungsausschusses nach mündlicher Beratung gefasst.
@@ -353,6 +363,7 @@ Mitglieder des Lenkungsausschusses über das Ergebnis der Abstimmung.
 
 
 ### § 9 Arbeitsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001100000)
 
 (1) Der Lenkungsausschuss kann durch Beschluss zur Vorbereitung von
 Entscheidungen aus dem Kreis seiner Mitglieder zeitlich befristete
@@ -367,6 +378,7 @@ Ablauf des Mandats einen Abschlussbericht vor.
 
 
 ### § 10 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001200000)
 
 (1) Der Lenkungsausschuss kann durch Beschluss mit Zustimmung der
 Geschäftsstelle nach § 18 zur Vorbereitung von Entscheidungen
@@ -386,9 +398,11 @@ die Vorschriften zur Vertraulichkeit nach § 5 entsprechend.
 
 
 ## Abschnitt 2 - Fachausschuss
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000200000)
 
 
 ### § 11 Aufgaben des Fachausschusses, Vorsitz
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001300000)
 
 (1) Das Paul-Ehrlich-Institut richtet für das Register einen
 Fachausschuss ein. Der Fachausschuss berät den Lenkungsausschuss zu
@@ -399,6 +413,7 @@ fachlichen Fragen im Hinblick auf die Aufgaben des Registers nach §
 
 
 ### § 12 Mitglieder, stellvertretende Mitglieder
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001400000)
 
 (1) Der Fachausschuss soll über ausgewiesene Erfahrungen auf dem
 Gebiet der Diagnostik, Behandlung und Versorgung der in § 21 Absatz 1a
@@ -476,6 +491,7 @@ Mitglieder sowie stellvertretenden Mitglieder entsprechend.
 
 
 ### § 13 Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001500000)
 
 (1) Der Fachausschuss führt einmal jährlich eine ordentliche
 Ausschusssitzung durch.
@@ -576,6 +592,7 @@ Berechtigten nehmen mit beratender Stimme an den Sitzungen teil.
 
 
 ### § 14 Ergebnisprotokoll der Sitzungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001600000)
 
 (1) Die Geschäftsstelle nach § 18 fertigt von jeder Sitzung ein
 Ergebnisprotokoll an. Das Ergebnisprotokoll hat zu enthalten:
@@ -612,6 +629,7 @@ unterzeichnen. Es ist in der Geschäftsstelle aufzubewahren.
 
 
 ### § 15 Beratungen, Beschlussfassungen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001700000)
 
 (1) Beschlüsse werden in der Regel im Rahmen der Sitzungen des
 Fachausschusses nach mündlicher Beratung gefasst.
@@ -654,6 +672,7 @@ Ergebnis der Abstimmung.
 
 
 ### § 16 Arbeitsgruppen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001800000)
 
 (1) Der Fachausschuss kann durch Beschluss zur Vorbereitung von
 Entscheidungen aus dem Kreis seiner Mitglieder und stellvertretenden
@@ -669,6 +688,7 @@ Ablauf des Mandats einen Abschlussbericht vor.
 
 
 ### § 17 Sachverständige
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE001900000)
 
 (1) Der Fachausschuss kann durch Beschluss mit Zustimmung der
 Geschäftsstelle nach § 18 zur Vorbereitung von Entscheidungen
@@ -687,9 +707,11 @@ die Vorschriften zur Vertraulichkeit nach § 5 entsprechend.
 
 
 ## Abschnitt 3 - Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000300000)
 
 
 ### § 18 Aufgaben der Geschäftsstelle, Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002000000)
 
 (1) Der Lenkungsausschuss und der Fachausschuss werden durch eine
 Geschäftsstelle unterstützt. Die Geschäftsstelle ist beim Paul-
@@ -706,6 +728,7 @@ Dienst- und Geschäftsgeheimnisse zu wahren.
 
 
 ### § 19 Vertretung gegenüber Dritten
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002100000)
 
 Die Vertretung des Registers gegenüber Dritten wird durch das Paul-
 Ehrlich-Institut, vertreten durch die Geschäftsstelle nach § 18,
@@ -713,9 +736,11 @@ wahrgenommen.
 
 
 ## Abschnitt 4 - Datenverarbeitung und Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000400000)
 
 
 ### § 20 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002200000)
 
 (1) Das Register verarbeitet die bei ihm gespeicherten Daten nach
 Maßgabe der §§ 22 bis 25.
@@ -734,6 +759,7 @@ Transfusionsgesetz und dem Arzneimittelgesetz, unberührt.
 
 
 ### § 21 Allgemeine Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002300000)
 
 Die Geschäftsstelle nach § 18 kann auf Anfrage allgemeine Auskünfte
 zur Arbeitsweise des Registers und zu dessen Datenbestand zur
@@ -741,6 +767,7 @@ Verfügung stellen.
 
 
 ### § 22 Datenverarbeitung durch die Geschäftsstelle
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002400000)
 
 Die Geschäftsstelle nach § 18 verarbeitet die Daten nach § 21a Absatz
 3 des Transfusionsgesetzes und § 2 Absatz 4 der Transfusionsgesetz-
@@ -748,6 +775,7 @@ Meldeverordnung zur Erfüllung ihrer Aufgaben nach dieser Verordnung.
 
 
 ### § 23 Datenverarbeitung durch den Lenkungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002500000)
 
 (1) Die Geschäftsstelle übermittelt den Mitgliedern des
 Lenkungsausschusses die Daten, die im Register nach § 21a Absatz 3
@@ -762,6 +790,7 @@ Beschluss festzulegen, welche Daten er für welche Aufgaben benötigt.
 
 
 ### § 24 Datenverarbeitung durch hämophiliebehandelnde ärztliche Personen
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002601116)
 
 Zu Zwecken der Verbesserung der Patientenversorgung übermittelt die
 Geschäftsstelle einer hämophiliebehandelnden ärztlichen Person auf
@@ -785,6 +814,7 @@ deren schriftliche oder elektronische Anfrage
 
 
 ### § 25 Datenverarbeitung durch Dritte
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002701116)
 
 (1) Der Antrag nach § 21a Absatz 5 Satz 2 des Transfusionsgesetzes ist
 schriftlich oder elektronisch bei der Geschäftsstelle nach § 18 zu
@@ -900,6 +930,7 @@ Paul-Ehrlich-Institut nach pflichtgemäßem Ermessen.
 
 
 ### § 26 Nutzungsvereinbarung
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002800000)
 
 Das Paul-Ehrlich-Institut veröffentlicht auf seiner Internetseite die
 Nutzungsvereinbarung, die nach § 21a Absatz 5 Satz 2 des
@@ -930,6 +961,7 @@ insbesondere die folgenden Inhalte umfassen:
 
 
 ### § 27 Publikationsgrundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE002900000)
 
 (1) Der Genehmigungsinhaber ist verpflichtet,
 
@@ -972,20 +1004,25 @@ zu machen:
 
 
 ## Abschnitt 5 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000501000)
 
 
 ### § 28 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003001000)
 
 
 
 ### § 29 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003101000)
 
 
 
 ## Abschnitt 6 - Qualitätskontrolle und Qualitätssicherung der Daten des Registers
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000600000)
 
 
 ### § 30 Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003200000)
 
 (1) Das Register stellt die Qualität der im Register gespeicherten
 Daten sicher. Dazu legt das Register die Verfahren verbindlich fest,
@@ -1003,6 +1040,7 @@ zur Dokumentation bleiben unberührt.
 
 
 ### § 31 Datenplausibilisierung
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003300000)
 
 Das Register nimmt bei jeder Datenmeldung eine formale und inhaltliche
 Plausibilisierung der gemeldeten Daten vor. Die Datenplausibilisierung
@@ -1011,9 +1049,11 @@ Prüfung von Klassifikations- oder Schlüsselsystemen.
 
 
 ## Abschnitt 7 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNG000700000)
 
 
 ### § 32 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003400000)
 
 Diese Verordnung gilt auch für die Erhebung von Gebühren für
 individuell zurechenbare öffentliche Leistungen, die bis zum 31. Juli
@@ -1022,6 +1062,7 @@ sind.
 
 
 ### § 33 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003500000)
 
 (1) Diese Verordnung tritt am 1. August 2019 in Kraft.
 
@@ -1029,12 +1070,14 @@ sind.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003600000)
 
 Der Bundesrat hat zugestimmt.
 
 (zu § 28)
 
 ### Anlage Gebührenverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/dhrv/BJNR074400019.html#BJNR074400019BJNE003700000)
 
 (Fundstelle: BGBl. I 2019, 752)
 Das Paul-Ehrlich-Institut erhebt für individuell zurechenbare

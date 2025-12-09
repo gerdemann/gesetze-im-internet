@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Errichtung
+[Direktlink](https://www.gesetze-im-internet.de/bfkeg/BJNR256300013.html#BJNR256300013BJNE000104119)
 
 Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und
 nukleare Sicherheit wird ein „Bundesamt für die Sicherheit der
@@ -36,6 +37,7 @@ Mitarbeiterinnen und Mitarbeitern erfolgen im Laufe des Jahres.
 
 
 ## § 2 Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/bfkeg/BJNR256300013.html#BJNR256300013BJNE000204119)
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung erledigt
 Verwaltungsaufgaben des Bundes auf den Gebieten der Planfeststellung,
@@ -64,6 +66,7 @@ Absatz 1 genannten Gebieten.
 
 
 ## § 3 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/bfkeg/BJNR256300013.html#BJNR256300013BJNE000304119)
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung untersteht
 der Aufsicht des Bundesministeriums für Umwelt, Naturschutz und
@@ -74,6 +77,7 @@ fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
 ## § 4 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bfkeg/BJNR256300013.html#BJNR256300013BJNE000402119)
 
 (1) Nach der Errichtung des Bundesamtes finden innerhalb von sechs
 Monaten Wahlen zur Personalvertretung statt. Bis zur Konstituierung

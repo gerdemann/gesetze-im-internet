@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE000500328)
 
 Auf Grund des § 4 Abs. 3 Nr. 1, des § 5 Abs. 1 Nr. 1, 5 und 6, des § 9
 Abs. 1, des § 10 Abs. 3, des § 22 Abs. 1 Nr. 1, 4 und 5 und Abs. 2 und
@@ -28,15 +29,18 @@ der §§ 25 und 61 des Saatgutverkehrsgesetzes vom 20. August 1985
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNG000100328)
 
 
 
 ### § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE000600328)
 
 Die Vorschriften dieser Verordnung gelten für Pflanzgut von Rebe.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE000703119)
 
 Im Sinne dieser Verordnung sind
 
@@ -166,16 +170,19 @@ Im Sinne dieser Verordnung sind
 
 
 ### § 2a Gestattung des Inverkehrbringens von Standardpflanzgut
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003700124)
 
 Standardpflanzgut, außer Standardpflanzgut von Unterlagsreben, darf zu
 gewerblichen Zwecken in den Verkehr gebracht werden.
 
 
 ## Abschnitt 2 - Anerkennung von Pflanzgut
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNG000200328)
 
 
 
 ### § 3 Anerkennungsstelle
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE000802377)
 
 (1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu
 stellen, in deren Bereich der Betrieb liegt, in dem das Pflanzgut
@@ -196,6 +203,7 @@ für den Betriebssitz des Antragstellers zuständig ist.
 
 
 ### § 4 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE000905119)
 
 (1) Der Antrag auf Anerkennung ist bis zum 15. Juni, für Topfreben und
 Kartonagereben bis zum 1. Juli, zu stellen. Die Anerkennungsstelle
@@ -283,6 +291,7 @@ gestellt werden.
 
 
 ### § 5 Anforderungen an die Vermehrungsfläche
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001002119)
 
 (1) Pflanzgut wird nur anerkannt, wenn der Kulturzustand der
 Vermehrungsfläche eine ordnungsgemäße Bearbeitung und Behandlung
@@ -321,6 +330,7 @@ Verlangen vorzulegen.
 
 
 ### § 6 Anforderungen an den Rebenbestand und an die Beschaffenheit des Pflanzgutes
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001102119)
 
 Die Anforderungen an den Rebenbestand, einschließlich der
 Anforderungen hinsichtlich des Befalls mit RNQPs, ergeben sich aus
@@ -329,6 +339,7 @@ ergeben sich aus Anlage 2.
 
 
 ### § 7 Rebenbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001204119)
 
 (1) Jede Vermehrungsfläche und jeder Bestand von Topfreben und
 Kartonagereben ist im Jahr der Pflanzguterzeugung mindestens einmal
@@ -362,6 +373,7 @@ nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
 
 ### § 8 Mängel des Rebenbestandes
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001302119)
 
 Soweit Mängel des Rebenbestandes behoben werden können, wird auf einen
 spätestens zehn Werktage nach Mitteilung der Mängel vom Antragsteller
@@ -375,6 +387,7 @@ festgestellt werden, dass diese Viren nicht mehr nachweisbar sind.
 
 
 ### § 9 Mitteilung des Ergebnisses der Rebenbestandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001400328)
 
 Das Ergebnis der Rebenbestandsprüfung wird dem Antragsteller und dem
 Vermehrer schriftlich mitgeteilt; im Falle mehrfacher
@@ -383,6 +396,7 @@ der letzten Besichtigung oder Nachbesichtigung.
 
 
 ### § 10 Wiederholungsbesichtigung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001501377)
 
 (1) Der Antragsteller oder Vermehrer kann innerhalb von zehn Werktagen
 nach Zugang der Mitteilung nach § 9 eine Wiederholung der Besichtigung
@@ -398,6 +412,7 @@ werden. § 9 gilt entsprechend.
 
 
 ### § 11 Beschaffenheitsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001603377)
 
 (1) Die Beschaffenheit wird an dem aufbereiteten und für das
 Inverkehrbringen zu gewerblichen Zwecken in Packungen oder Bündeln
@@ -438,6 +453,7 @@ gemacht wird, daß der festgestellte Mangel beseitigt ist.
 
 
 ### § 12 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001701377)
 
 (1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben:
 
@@ -505,6 +521,7 @@ Zertifiziertes Pflanzgut erfüllt.
 
 
 ### § 13 Nachprüfung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001801308)
 
 (1) Die Anerkennungsstelle prüft, soweit sie dies für erforderlich
 hält, anerkanntes Pflanzgut daraufhin nach, ob es sortenecht ist und
@@ -531,6 +548,7 @@ Fällen des Absatzes 2 dem Bundessortenamt zu.
 
 
 ### § 14 Verfahren für die Nachprüfung durch Anbau
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE001900328)
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden
 Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung
@@ -538,6 +556,7 @@ durch Anbau sind zusammen mit Vergleichsproben anzubauen.
 
 
 ### § 15 Rücknahme der Anerkennung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002000328)
 
 Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung
 zurückgenommen und ist der Antragsteller nicht mehr im Besitz des
@@ -552,10 +571,12 @@ Betriebsnummer des Erzeugers von der Rücknahme zu unterrichten.
 
 
 ## Abschnitt 3 - Verpackung, Kennzeichnung und Verschließung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNG000300328)
 
 
 
 ### § 16 Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002103377)
 
 Wer Edelreiser, veredelungsfähige Unterlagsreben, Blindholz,
 Wurzelreben und Pfropfreben zu gewerblichen Zwecken in den Verkehr
@@ -565,6 +586,7 @@ entsprechend den Anforderungen der Anlage 3 verpackt sind.
 
 
 ### § 17 Etikett
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002201377)
 
 (1) Vor der Beschaffenheitsprüfung nach § 11 ist jede Packung oder
 jedes Bündel Pflanzgutes durch den Antragsteller oder den von ihm
@@ -579,6 +601,7 @@ in anderen Sprachen gemacht werden.
 
 
 ### § 17a Pflanzenpass
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003800119)
 
 (1) Für Pflanzgut, für das in dieser Verordnung besondere
 Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind,
@@ -631,6 +654,7 @@ Pflanzenpass von der zuständigen Behörde auszustellen.
 
 
 ### § 18 Angaben in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002303119)
 
 (1) Die Packungen oder Bündel von anerkanntem Pflanzgut müssen bei
 Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt
@@ -657,6 +681,7 @@ in kleinen Mengen an Letztverbraucher abgegeben werden soll.
 
 
 ### § 19 Schließung der Packungen und Bündel
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002402377)
 
 (1) Der Antragsteller oder der von ihm Beauftragte hat Bündel vor und
 Packungen sofort nach der Beschaffenheitsprüfung zu schließen und mit
@@ -688,6 +713,7 @@ Anerkennungsstelle zusammen.
 
 
 ### § 19a Aufbewahrungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003600377)
 
 Der Erwerber von Rebenpflanzgut hat, soweit er der Letztverbraucher
 ist, je Pflanzgutpartie ein amtliches Etikett ein Jahr lang nach dem
@@ -696,6 +722,7 @@ Empfang der Partie aufzubewahren. Satz 1 gilt nicht in den Fällen der
 
 
 ### § 20 Topfreben und Kartonagereben
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002503119)
 
 Topfreben und Kartonagereben dürfen ungebündelt zu gewerblichen
 Zwecken in den Verkehr gebracht werden, sofern dem Erwerber bei der
@@ -708,6 +735,7 @@ entsprechend bezeichneten Partien aufzubewahren.
 
 
 ### § 21 Abgabe in kleinen Mengen
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002602377)
 
 Zertifiziertes Pflanzgut und Standardpflanzgut darf aus
 vorschriftsmäßig gekennzeichneten und verschlossenen Packungen oder
@@ -735,6 +763,7 @@ auf Verlangen bei der Übergabe schriftlich angegeben werden:
 
 
 ### § 22 Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE002703377)
 
 Wird Pflanzgut, das nicht anerkannt ist, in den Fällen des § 3 Abs. 1
 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu gewerblichen
@@ -789,21 +818,25 @@ Satz 1 gilt nicht für Topfreben oder Kartonagereben, wenn die in Satz
 
 
 ## Abschnitt 4 - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNG000400328)
 
 
 
 ### § 23 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003002119)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ### Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003100328)
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 (zu § 4 Abs. 3, § 6 Satz 1)
 
 ### Anlage 1 Anforderungen an den Rebenbestand
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003202119)
 
 (Fundstelle: BGBl. I 2006, 1440 - 1441;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1156,6 +1189,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 6 Satz 2)
 
 ### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003302119)
 
 (Fundstelle: BGBl. I 2006, 1441 - 1442;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1327,6 +1361,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 11 Abs. 1, § 16, § 21 Abs. 1)
 
 ### Anlage 3 Verpackung
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003401377)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1442)
 
@@ -1422,6 +1457,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 17 Absatz 2, § 17a, § 19 Absatz 4)
 
 ### Anlage 4 Angaben auf dem Etikett
+[Direktlink](https://www.gesetze-im-internet.de/rebpflv_1986/BJNR002040986.html#BJNR002040986BJNE003502119)
 
 (Fundstelle: BGBl. I 1986, 213;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

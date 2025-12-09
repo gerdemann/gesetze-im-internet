@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1992-03-09/BJNR004650992.html#BJNR004650992BJNE001000305)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung vom 21.
 Juni 1991 (BGBl. I S. 1345) werden in den nachstehenden Anlagen 1, 2,
@@ -32,6 +33,7 @@ Der Bundesminister des Innern
 
 
 ## Anlage 1 (Anlage IV des BBesG)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1992-03-09/BJNR004650992.html#BJNR004650992BJNE002000305)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 
@@ -1257,6 +1259,7 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 Ortszuschlag
 
 ## Anlage 2 (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1992-03-09/BJNR004650992.html#BJNR004650992BJNE003000305)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 468
 
@@ -1358,6 +1361,7 @@ Anwärtergrundbetrag
 Anwärterverheiratetenzuschlag
 
 ## Anlage 3 (Monatsbeträge in DM)
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1992-03-09/BJNR004650992.html#BJNR004650992BJNE004000305)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 469
 
@@ -1452,6 +1456,7 @@ Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 (Monatsbeträge)
 
 ## Anlage 4 - in der Reihenfolge der Gesetzesstellen -
+[Direktlink](https://www.gesetze-im-internet.de/bes_v2bek_1992-03-09/BJNR004650992.html#BJNR004650992BJNE005000305)
 
 (Fundstelle des Originaltextes: BGBl. I 1992, 470 - 472)
 

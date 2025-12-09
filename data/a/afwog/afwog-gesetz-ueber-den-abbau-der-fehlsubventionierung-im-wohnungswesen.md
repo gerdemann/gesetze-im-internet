@@ -23,6 +23,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Ausgleichszahlung der Inhaber von Mietwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE000704320)
 
 (1) Inhaber einer öffentlich geförderten Wohnung im Sinne des
 Wohnungsbindungsgesetzes haben vorbehaltlich des § 2 eine
@@ -77,6 +78,7 @@ unangemessenen Verhältnis zu den erwarteten Einnahmen stehen würde.
 
 
 ## § 2 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE000807310)
 
 (1) Eine Ausgleichszahlung ist nicht zu leisten, wenn
 
@@ -148,6 +150,7 @@ nicht gesichert wäre.
 
 
 ## § 3 Einkommen, Einkommensgrenze
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE000905320)
 
 (1) Das Einkommen und die Einkommensgrenze bestimmen sich nach den §§
 9 und 35 Abs. 1 Satz 1 des Wohnraumförderungsgesetzes; soweit auf
@@ -177,6 +180,7 @@ maßgebend.
 
 
 ## § 4 Beginn der Ausgleichszahlungen, Leistungszeitraum
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001004320)
 
 (1) Die Leistungspflicht beginnt
 
@@ -220,6 +224,7 @@ monatlich im Voraus zu entrichten.
 
 
 ## § 5 Einkommensnachweis, Auskünfte
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001103320)
 
 (1) Jeder Wohnungsinhaber hat auf Aufforderung die Personen zu
 benennen, die die Wohnung nicht nur vorübergehend nutzen, und deren
@@ -247,6 +252,7 @@ Gesetzes es erfordert.
 
 
 ## § 6 Beschränkung der Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001204320)
 
 (1) Die Ausgleichszahlung ist auf Antrag zu beschränken auf den
 Unterschiedsbetrag zwischen dem für die Wohnung zulässigen Entgelt und
@@ -305,6 +311,7 @@ zugrunde zu legen.
 
 
 ## § 7 Wegfall und Minderung der Leistungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001303320)
 
 (1) Die Leistungspflicht erlischt, sobald
 
@@ -344,6 +351,7 @@ Leistungszeitraums gestellt werden.
 
 
 ## § 8 Geltung für Bergarbeiterwohnungen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001403320)
 
 Dieses Gesetz ist auf Inhaber von Wohnungen, die nach dem Gesetz zur
 Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau gefördert
@@ -353,6 +361,7 @@ genannten Gesetzes ist.
 
 
 ## § 9 Geltung für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert worden sind
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001503320)
 
 (1) Dieses Gesetz ist auf Inhaber von steuerbegünstigten oder
 freifinanzierten Wohnungen, die mit Wohnungsfürsorgemitteln im Sinne
@@ -375,6 +384,7 @@ maßgebend.
 
 
 ## § 10 Zweckbestimmung der Ausgleichszahlungen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001606320)
 
 (1) Die zuständige Stelle hat die eingezogenen Ausgleichszahlungen an
 das Land abzuführen. Das Aufkommen aus den Ausgleichszahlungen ist
@@ -424,6 +434,7 @@ dem Betrage nach das Darlehen aus Wohnungsfürsorgemitteln überwiegt.
 
 
 ## § 11 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001703320)
 
 Zuständige Stelle ist die Stelle, die von der Landesregierung bestimmt
 wird oder die nach Landesrecht zuständig ist. In den Fällen des § 9
@@ -436,6 +447,7 @@ wahr.
 
 
 ## § 12 Geltung im Saarland
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001803320)
 
 (1) Dieses Gesetz gilt im Saarland nur mit folgenden Maßgaben:
 
@@ -473,6 +485,7 @@ rechtlichen Besonderheiten im Saarland.
 
 
 ## § 13 Sonderregelung für das Land Bremen
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE001903320)
 
 Im Land Bremen sind Ausgleichszahlungen nicht zu erheben, wenn bei der
 Bewilligung der öffentlichen Mittel sichergestellt worden ist, dass
@@ -486,6 +499,7 @@ Bewilligungszeitraum am 1. Januar 1959 beginnt.
 
 
 ## § 14 Landesrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE002206310)
 
 (1) Die Vorschriften dieses Gesetzes sind nicht mehr anzuwenden,
 soweit landesrechtliche Vorschriften an deren Stelle erlassen werden.
@@ -521,6 +535,7 @@ der Miethöhe bestand, ist dieser Mietspiegel weiterhin anzuwenden.
 
 
 ## § 15 Überleitungsvorschriften zum Wohnraumförderungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/afwog/BJNR115420981.html#BJNR115420981BJNE002105310)
 
 (1) Durch landesrechtliche Vorschriften kann bestimmt werden, dass
 Wohnungsinhaber des in § 50 Abs. 1 Satz 1 Nr. 1 bis 3 und Satz 2 des

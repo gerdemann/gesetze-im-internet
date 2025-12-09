@@ -20,6 +20,7 @@ Neugefasst durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000201377)
 
 (1) Die Entgelte für die Nutzung von Bodenflächen auf Grund von
 Verträgen nach § 312 des Zivilgesetzbuchs der Deutschen Demokratischen
@@ -43,6 +44,7 @@ dieser Verordnung angemessen gestaltet werden.
 
 
 ## § 2 Abweichende Entgeltvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000301377)
 
 (1) Die Vorschriften dieser Verordnung gehen Entgeltvereinbarungen
 vor, die vor dem 3. Oktober 1990 getroffen worden sind.
@@ -65,6 +67,7 @@ der Ausschluss sich aus den Umständen ergibt.
 
 
 ## § 3 Schrittweise Entgelterhöhung bis zur Höhe der ortsüblichen Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000403377)
 
 (1) Die Entgelte dürfen, soweit sich nicht aus den §§ 4 und 5 etwas
 anderes ergibt, schrittweise bis zur Höhe der ortsüblichen Entgelte
@@ -110,6 +113,7 @@ tatsächlichen Nutzung des Grundstücks zu ermitteln.
 
 
 ## § 4 Entgelterhöhung bei vertragwidriger Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000501377)
 
 (1) Im Falle einer vertragwidrigen Nutzung des Grundstücks dürfen die
 Entgelte ohne die Beschränkung des § 3 Abs. 1 bis zur Höhe der
@@ -124,6 +128,7 @@ vertragswidrig.
 
 
 ## § 5 Entgelterhöhung bei Garagenflächen
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000601377)
 
 (1) Die Nutzungsentgelte für Garagengrundstücke sind ab dem 1.
 November 1993 nach der Anzahl der Stellplätze zu bemessen. Die
@@ -137,6 +142,7 @@ Einstellen von Kraftfahrzeugen ist.
 
 
 ## § 6 Erklärung über die Entgelterhöhung
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000704377)
 
 (1) Will der Überlassende das Nutzungsentgelt nach dieser Verordnung
 erhöhen, so hat er dem Nutzer das Erhöhungsverlangen in Textform zu
@@ -172,6 +178,7 @@ Entgelte einhält, so trifft die Beweislast den Überlassenden.
 
 
 ## § 7 Gutachten und Auskünfte über die ortsüblichen Entgelte
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000802377)
 
 (1) Auf Antrag einer Vertragspartei hat der nach § 192 des
 Baugesetzbuchs eingerichtete und örtlich zuständige Gutachterausschuss
@@ -187,6 +194,7 @@ erteilen.
 
 
 ## § 8 Kündigung des Nutzers
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE000901377)
 
 Der Nutzer ist berechtigt, das Nutzungsverhältnis bis zum Ablauf des
 Monats, der auf den Zugang der Erklärung über die Entgelterhöhung
@@ -195,6 +203,7 @@ wird, zu kündigen.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/nutzev/BJNR133900993.html#BJNR133900993BJNE001001377)
 
 (Inkrafttreten)
 

@@ -27,6 +27,7 @@ Zuletzt geändert durch
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000100000)
 
 (1) Diese Verordnung gilt für den Betrieb von Anlagen zur Anwendung
 nichtionisierender Strahlung am Menschen, die zu kosmetischen oder
@@ -44,6 +45,7 @@ Gesetz gestützten Rechtsverordnungen bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000201128)
 
 (1) Anlagen im Sinne dieser Verordnung sind:
 
@@ -151,6 +153,7 @@ Gesetz gestützten Rechtsverordnungen bleiben unberührt.
 
 
 ## § 3 Allgemeine Anforderungen an den Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000304128)
 
 (1) Der Betreiber einer Anlage muss sicherstellen, dass
 
@@ -268,6 +271,7 @@ nach § 4 Absatz 1 Satz 1 erfüllt sind.
 
 
 ## § 4 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000404128)
 
 (1) Der Betreiber einer Anlage muss sicherstellen, dass die Person,
 die die Anlage anwendet, über die erforderliche Fachkunde nach den §§
@@ -316,6 +320,7 @@ dass die betreffenden Anforderungen dieser Bestimmung erfüllt sind.
 
 
 ## § 4a Nachweis der Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001600128)
 
 (1) In dem Fall, dass die Fachkunde durch die Teilnahme an einer
 geeigneten Schulung gemäß § 4 Absatz 3 Satz 1 erworben wurde, erfolgt
@@ -353,6 +358,7 @@ Akkreditierungsverfahren wird auf Artikel 5 Absatz 1 der Verordnung
 [^F826459_02_BJNR218700018BJNE001600128]: 
 
 ## § 4b Anerkennung der Schulungsanbieter
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001700128)
 
 Eine Schulung oder eine Aktualisierungsschulung gilt im Sinne von § 4
 Absatz 3 nur dann als geeignet, wenn der Schulungsanbieter durch eine
@@ -385,6 +391,7 @@ Adresse für den Zugang mitzuteilen.
 
 
 ## § 5 Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000503119)
 
 (1) Die erforderliche Fachkunde zur Anwendung von Lasereinrichtungen
 und intensiven Lichtquellen wird durch erfolgreiche Teilnahme an einer
@@ -404,6 +411,7 @@ durchgeführt werden.
 
 
 ## § 6 Fachkunde zur Anwendung von Hochfrequenzgeräten
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000603119)
 
 (1) Die erforderliche Fachkunde zur Anwendung von Hochfrequenzgeräten
 wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3
@@ -420,6 +428,7 @@ dürfen nur von approbierten Ärztinnen und Ärzten mit entsprechender
 
 
 ## § 7 Fachkunde zur Anwendung von Anlagen zur elektrischen Nerven- und Muskelstimulation und zur Magnetfeldstimulation
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000704128)
 
 (1) Die erforderliche Fachkunde zur Anwendung von
 Niederfrequenzgeräten, Gleichstromgeräten und Magnetfeldgeräten zur
@@ -455,6 +464,7 @@ Fortbildung erworben.
 
 
 ## § 8 Stimulation des Zentralen Nervensystems
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000800000)
 
 Anlagen zur Stimulation des zentralen Nervensystems am Menschen dürfen
 nur von approbierten Ärztinnen und Ärzten angewendet werden, die
@@ -463,6 +473,7 @@ Fortbildung nachweisen.
 
 
 ## § 9 Fachkunde zur Anwendung von Ultraschall
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE000904128)
 
 (1) Die erforderliche Fachkunde zur Anwendung von Ultraschallgeräten
 wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3
@@ -477,12 +488,14 @@ approbierten Arzt durchgeführt werden.
 
 
 ## § 10 Anwendung von Ultraschall an einer schwangeren Person
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001000000)
 
 Bei der Anwendung von Ultraschallgeräten zu nichtmedizinischen Zwecken
 darf ein Fötus nicht exponiert werden.
 
 
 ## § 11 Anwendung von Magnetresonanzverfahren
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001100000)
 
 Magnetresonanztomographen dürfen zu nichtmedizinischen Zwecken am
 Menschen nur unter Verantwortung einer Ärztin oder eines Arztes mit
@@ -491,6 +504,7 @@ dienenden Fachkunde angewendet werden.
 
 
 ## § 12 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001200000)
 
 Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 3 des Gesetzes zum
 Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
@@ -540,6 +554,7 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 13 Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001800128)
 
 (1) Wurde eine Anlage bereits am 31. Dezember 2020 betrieben, hatte
 die Anzeige nach § 3 Absatz 3 bis zum Ablauf des 31. März 2021 zu
@@ -577,6 +592,7 @@ geführt werden.
 (zu § 2 Absatz 1 Nummer 4 und 5)
 
 ## Anlage 1 Werte für Anlagen im Sinne dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001301128)
 
 (Fundstelle: BGBl. I 2018, 2191 - 2192; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
@@ -843,11 +859,13 @@ vgl. Fußnote)
 
 
 ## Anlage 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001401128)
 
 
 (zu § 5 Absatz 1, § 6 Absatz 1, § 7 und § 9 Absatz 1)
 
 ## Anlage 3 Fachkunde
+[Direktlink](https://www.gesetze-im-internet.de/nisv/BJNR218700018.html#BJNR218700018BJNE001502128)
 
 (Fundstelle: Anhang 2 zum BGBl. 2023 I Nr. 149 v. 12.6.2023, S. 9 -
 12)

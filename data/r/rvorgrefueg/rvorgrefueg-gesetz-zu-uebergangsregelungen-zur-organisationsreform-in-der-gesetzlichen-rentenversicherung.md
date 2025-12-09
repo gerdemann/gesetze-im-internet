@@ -20,10 +20,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Dienstrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNG000100000)
 
 
 
 ### § 1 Deutsche Rentenversicherung Bund
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000101308)
 
 (1) Die Deutsche Rentenversicherung Bund tritt mit Auflösung des
 Verbandes Deutscher Rentenversicherungsträger in die
@@ -64,6 +66,7 @@ des Bundes zu Gunsten der Deutschen Rentenversicherung Bund zugeführt.
 
 
 ### § 2 Deutsche Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000201308)
 
 (1) Die Beamtinnen, Beamten, Versorgungsempfängerinnen und
 Versorgungsempfänger der Bahnversicherungsanstalt treten mit Ablauf
@@ -118,6 +121,7 @@ Rentenversicherung Knappschaft-Bahn-See als bei ihr verbrachte Zeiten.
 
 
 ### § 3 Beschäftigte der Auskunfts- und Beratungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000301308)
 
 (1) Beamtinnen und Beamte der Bundesversicherungsanstalt für
 Angestellte in den Auskunfts- und Beratungsstellen, die zuletzt
@@ -151,6 +155,7 @@ abgeschlossen ist.
 
 
 ### § 4 Sonstige dienstrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000401308)
 
 (1) Für die nach § 1 Abs. 1 und § 2 Abs. 2 übergetretenen
 Dienstordnungsangestellten gelten die Regelungen der bisherigen
@@ -265,10 +270,12 @@ landesunmittelbaren Träger entsprechend anzuwenden.
 
 
 ## Abschnitt 2 - Übergangsregelungen zum Selbstverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNG000200000)
 
 
 
 ### § 5 Übergangsregelungen zu den Selbstverwaltungsorganen und der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000500000)
 
 Bis zum Ablauf der am 1. Oktober 2005 laufenden Wahlperiode richtet
 sich die Bildung der Selbstverwaltungsorgane und der Geschäftsführung
@@ -279,6 +286,7 @@ Sozialgesetzbuch nach den §§ 6 bis 10.
 
 
 ### § 6 Zusammensetzung der Vertreterversammlung der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000600000)
 
 (1) Die Vertreterversammlung der Deutschen Rentenversicherung
 Knappschaft-Bahn-See besteht aus 69 Mitgliedern.
@@ -328,6 +336,7 @@ des Vorsitzenden des Wahlausschusses wahrnimmt.
 
 
 ### § 7 Zusammensetzung des Vorstandes der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000700000)
 
 (1) Der Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See
 setzt sich entsprechend der Stimmenverteilung in der
@@ -342,6 +351,7 @@ seiner ersten Sitzung zusammentritt.
 
 
 ### § 8 Selbstverwaltungsorgane der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000800000)
 
 (1) Die Selbstverwaltungsorgane der Deutschen Rentenversicherung
 Knappschaft-Bahn-See wählen aus ihrer Mitte eine Vorsitzende oder
@@ -402,6 +412,7 @@ Anwendung.
 
 
 ### § 9 Amtsdauer
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE000900000)
 
 (1) Die Amtsdauer der Mitglieder der Selbstverwaltungsorgane der
 Bundesknappschaft, der Bahnversicherungsanstalt und der Seekasse endet
@@ -416,6 +427,7 @@ Bahnversicherungsanstalt und der Seekasse wählt.
 
 
 ### § 10 Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001000000)
 
 Die am 30. September 2005 amtierenden Mitglieder der Geschäftsführung
 der Bundesknappschaft nehmen die Aufgaben der Mitglieder der
@@ -425,6 +437,7 @@ Sozialgesetzbuch in der ab 1. Oktober 2005 geltenden Fassung wahr.
 
 
 ### § 11 Übergangsregelungen zu den Selbstverwaltungsorganen und der Geschäftsführung der Deutschen Rentenversicherung Bund
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001100000)
 
 Bis zum Ablauf der am 1. Oktober 2005 laufenden Wahlperiode richtet
 sich die Bildung der Selbstverwaltungsorgane und der Geschäftsführung
@@ -434,6 +447,7 @@ des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch nach den §§
 
 
 ### § 12 Bundesvertreterversammlung der Deutschen Rentenversicherung Bund
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001201308)
 
 (1) Die Mitglieder der Vertreterversammlung der
 Bundesversicherungsanstalt für Angestellte werden Mitglieder der
@@ -458,10 +472,12 @@ Rentenversicherung Bund.
 
 
 ### § 13 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001301308)
 
 
 
 ### § 14 Geschäftsführung der Deutschen Rentenversicherung Bund
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001400000)
 
 Die am 30. September 2005 amtierenden Mitglieder der Geschäftsführung
 der Bundesversicherungsanstalt für Angestellte sowie die
@@ -476,6 +492,7 @@ geltenden Fassung wahr.
 
 
 ### § 15 Erweitertes Direktorium
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001500000)
 
 Die Geschäftsführerin oder der Geschäftsführer und die
 stellvertretende Geschäftsführerin oder der stellvertretende
@@ -486,10 +503,12 @@ dessen Aufgaben wahr.
 
 
 ## Abschnitt 3 - Überleitung des Satzungsrechts der Bahnversicherungsanstalt und sonstige Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNG000300000)
 
 
 
 ### § 16 Überleitung des Satzungsrechts der Bahnversicherungsanstalt
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001602119)
 
 (1) Soweit die Bahnversicherungsanstalt Leistungen auf Grund
 satzungsrechtlicher Regelungen erbringt, werden diese ab dem 1.
@@ -510,6 +529,7 @@ Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
 
 ### § 17 Vorlagefrist für die Haushaltspläne 2006
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001701308)
 
 In Abänderung der Fristen nach § 70 Abs. 4 und § 71 Abs. 3 des Vierten
 Buches Sozialgesetzbuch sind die Haushaltspläne der Deutschen
@@ -521,6 +541,7 @@ Februar 2006 beanstandet werden.
 
 
 ### § 18 Finanzierung der Träger der Rentenversicherung im Kalenderjahr 2005
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001800000)
 
 (1) Für das Kalenderjahr 2005 erfolgt die Finanzierung der Träger der
 Rentenversicherung weiterhin nach der am 31. Dezember 2004 geltenden
@@ -554,6 +575,7 @@ wahrgenommen wird.
 
 
 ### § 19 Weiterleitung von Beiträgen im Jahr 2005
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE001900000)
 
 Für das Kalenderjahr 2005 teilt der Verband Deutscher
 Rentenversicherungsträger den Einzugsstellen die nach § 28k Abs. 1 des
@@ -563,6 +585,7 @@ Beitragsanteil unverzüglich nach Inkrafttreten dieses Gesetzes mit.
 
 
 ### § 20 Zuständigkeit der Träger der Rentenversicherung bis zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE002000000)
 
 (1) Bis zum 30. September 2005 tritt in Vorschriften, die durch das
 Gesetz zur Organisationsreform in der gesetzlichen Rentenversicherung
@@ -577,6 +600,7 @@ Rentenversicherung Knappschaft-Bahn-See die Bundesknappschaft.
 
 
 ### § 21 Information über die Organisationsreform
+[Direktlink](https://www.gesetze-im-internet.de/rvorgref_g/BJNR329210004.html#BJNR329210004BJNE002100000)
 
 Der Verband Deutscher Rentenversicherungsträger informiert gemeinsam
 mit den Trägern der Rentenversicherung die Versicherten sowie die

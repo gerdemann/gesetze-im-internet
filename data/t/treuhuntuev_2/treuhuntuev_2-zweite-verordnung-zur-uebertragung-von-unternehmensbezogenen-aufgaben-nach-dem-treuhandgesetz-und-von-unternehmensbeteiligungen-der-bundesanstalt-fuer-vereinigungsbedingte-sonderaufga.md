@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v_2/BJNR111500996.html#BJNR111500996BJNE000100310)
 
 Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch
 Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062)
@@ -29,6 +30,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Übertragung von Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v_2/BJNR111500996.html#BJNR111500996BJNE000204377)
 
 Die der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf
 Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages
@@ -42,6 +44,7 @@ wahr.
 
 
 ## § 2 Übertragung von Unternehmensbeteiligungen
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v_2/BJNR111500996.html#BJNR111500996BJNE000300310)
 
 (1) Die Geschäftsanteile der Bundesanstalt für vereinigungsbedingte
 Sonderaufgaben an der im Handelsregister des Amtsgerichts Berlin-
@@ -56,11 +59,13 @@ mbH übertragen.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v_2/BJNR111500996.html#BJNR111500996BJNE000400310)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 2 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/treuhunt_v_2/BJNR111500996.html#BJNR111500996BJNE000500310)
 
 
 *    *   Firma

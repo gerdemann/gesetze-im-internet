@@ -27,9 +27,11 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000100000)
 
 
 ### § 1 Zweck des Gesetzes
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000201116)
 
 (1) Zweck dieses Gesetzes ist es, für den sicheren Verkehr mit
 Tierarzneimitteln und veterinärmedizintechnischen Produkten zu sorgen
@@ -54,6 +56,7 @@ die den Anwendungsbereich dieses Gesetzes betreffen.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000300000)
 
 (1) Für die Zwecke dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen gelten im Anwendungsbereich dieses
@@ -88,6 +91,7 @@ Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union.
 
 
 ### § 3 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000401125)
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen gelten für
@@ -282,12 +286,15 @@ Satz 1 Nummer 1 gilt nicht für § 63.
 
 
 ## Abschnitt 2 - Tierarzneimittel im Anwendungsbereich der Verordnung (EU) 2019/6
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000200000)
 
 
 ### Unterabschnitt 1 - Freistellung von der Zulassungspflicht von Tierarzneimitteln für bestimmte Heimtiere, Kennzeichnung und Packungsbeilage sowie Widerruf der Freistellung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000300000)
 
 
 #### § 4 Freistellung von Tierarzneimitteln für bestimmte Heimtiere von der Pflicht zur Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000500000)
 
 (1) Die zuständige Bundesoberbehörde stellt ein Tierarzneimittel im
 Geltungsbereich dieses Gesetzes auf Antrag von dem Erfordernis einer
@@ -400,6 +407,7 @@ Freistellung zu beantragen.
 
 
 #### § 5 Kennzeichnung und Packungsbeilage freigestellter Tierarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000600000)
 
 (1) Die nach § 4 Absatz 1 freigestellten Tierarzneimittel dürfen im
 Geltungsbereich dieses Gesetzes nur bereitgestellt werden, wenn ihre
@@ -435,6 +443,7 @@ vorzulegen.
 
 
 #### § 6 Widerruf der Freistellung von Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000700000)
 
 (1) Die zuständige Bundesoberbehörde widerruft die Freistellung nach §
 4 Absatz 1, wenn
@@ -475,9 +484,11 @@ wenn sich nach Erteilung der Freistellung herausstellt, dass
 
 
 ### Unterabschnitt 2 - Besondere Anforderungen an die Primärverpackung, die äußere Umhüllung und die Packungsbeilage
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000400000)
 
 
 #### § 7 Kennzeichnung und Packungsbeilage von nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6 zulassungspflichtigen Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000800000)
 
 (1) Die nach Artikel 5 Absatz 1 der Verordnung (EU) 2019/6
 zulassungspflichtigen Tierarzneimittel dürfen im Geltungsbereich
@@ -508,6 +519,7 @@ Tierarzneimittel darstellen.
 
 
 #### § 8 Packungsbeilage in Papierform
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE000900000)
 
 Die Inhaberin oder der Inhaber der Zulassung für ein Tierarzneimittel
 hat die Packungsbeilage nach Artikel 14 Absatz 1 bis 3 der Verordnung
@@ -516,9 +528,11 @@ Verfügung zu stellen.
 
 
 ### Unterabschnitt 3 - Durchführungsvorschriften für die Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000500000)
 
 
 #### § 9 Durchführungsvorschriften für die Zulassung von Tierarzneimitteln; Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001000000)
 
 (1) Die zuständige Bundesoberbehörde bestimmt die Frist nach Artikel
 31 Satz 2 der Verordnung (EU) 2019/6 für die Vorlage zusätzlicher
@@ -575,9 +589,11 @@ beizufügen.
 
 
 ### Unterabschnitt 4 - Ergänzende Vorschriften für klinische Prüfungen und Rückstandsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000600000)
 
 
 #### § 10 Genehmigung von Anträgen zur Durchführung einer klinischen Prüfung und einer Rückstandsprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001101125)
 
 (1) Die zuständige Bundesoberbehörde erteilt auf Antrag die
 Genehmigung zur Durchführung einer klinischen Prüfung und einer
@@ -773,6 +789,7 @@ Landes, in dem die Prüfungen durchgeführt werden oder werden sollen,
 
 
 #### § 11 Verordnungsermächtigung zur Gewährleistung der ordnungsgemäßen Durchführung einer klinischen Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001200000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
@@ -807,9 +824,11 @@ insbesondere Regelungen getroffen werden über
 
 
 ### Unterabschnitt 5 - Übermittlung von Informationen an die Produktdatenbank
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000700000)
 
 
 #### § 12 Übermittlung von Informationen an die Produktdatenbank; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001300000)
 
 (1) Die zuständige Bundesoberbehörde übermittelt der Europäischen
 Arzneimittel-Agentur die für die Datenbank der Union für
@@ -825,9 +844,11 @@ nähere Einzelheiten des Verfahrens nach Absatz 1 zu regeln.
 
 
 ### Unterabschnitt 6 - Ergänzende Vorschriften für homöopathische Tierarzneimittel
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000800000)
 
 
 #### § 13 Registrierung, Kennzeichnung und Packungsbeilage homöopathischer Tierarzneimittel; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001400000)
 
 (1) Die zuständige Bundesoberbehörde registriert homöopathische
 Tierarzneimittel auf Antrag schriftlich oder elektronisch nach Artikel
@@ -913,9 +934,11 @@ Registrierung nach Absatz 1 zu treffen.
 
 
 ### Unterabschnitt 7 - Ergänzende Vorschriften für die Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG000900000)
 
 
 #### § 14 Ausnahmen von der Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001500000)
 
 (1) Die zuständige Behörde des Landes, in dem die Betriebsstätte liegt
 oder liegen soll, erteilt auf Antrag für die im Geltungsbereich dieses
@@ -993,6 +1016,7 @@ Absatz 1:
 
 
 #### § 15 Ergänzende Vorschriften zur Erteilung der Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001600000)
 
 (1) Zusätzlich zu den Angaben nach Artikel 89 Absatz 2 der Verordnung
 (EU) 2019/6 muss der Antrag auf Erteilung einer Herstellungserlaubnis
@@ -1039,6 +1063,7 @@ diese zur Ergänzung der spezifischen Regelungen der Verordnung (EU)
 
 
 #### § 16 Import, Herstellung von und Handel mit Wirkstoffen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001700000)
 
 (1) Die zuständige Behörde des Landes, in dem die Betriebsstätte liegt
 oder liegen soll, registriert nach Artikel 95 Absatz 1 der Verordnung
@@ -1055,6 +1080,7 @@ Artikel 95 Absatz 2 der Verordnung (EU) 2019/6 erforderlich sind.
 
 
 #### § 17 Nachweis über die erforderliche Sachkunde der für die Herstellung und die Chargenfreigabe verantwortlichen sachkundigen Person; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001800000)
 
 (1) Der Nachweis über die Einhaltung der Voraussetzungen nach Artikel
 97 Absatz 2 und 3 der Verordnung (EU) 2019/6 muss gegenüber der
@@ -1079,9 +1105,11 @@ der erforderlichen Sachkunde geeignete Verfahrensabläufe nach Artikel
 
 
 ### Unterabschnitt 8 - Ergänzende Vorschriften für die Großhandelsvertriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001000000)
 
 
 #### § 18 Ergänzende Vorschriften zur Erteilung der Großhandelsvertriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE001900000)
 
 (1) Die zuständige Behörde des Landes, in dem die Betriebsstätte liegt
 oder liegen soll, erteilt auf Antrag eine
@@ -1147,6 +1175,7 @@ im Rahmen des üblichen Apothekenbetriebes.
 
 
 #### § 19 Verordnungsermächtigung zur Regelung der Benennung einer verantwortlichen Person
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002000000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -1156,6 +1185,7 @@ Buchstabe a der Verordnung (EU) 2019/6 festzulegen.
 
 
 #### § 20 Verordnungsermächtigung zur Regelung von Ausnahmen von der Großhandelsvertriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002100000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -1175,9 +1205,11 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es mit §
 
 
 ### Unterabschnitt 9 - Parallelhandel mit Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001100000)
 
 
 #### § 21 Verordnungsermächtigung zur Regelung des Parallelhandels mit Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002200000)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -1207,12 +1239,15 @@ auf die zuständige Bundesoberbehörde übertragen.
 
 
 ## Abschnitt 3 - Anforderungen an Tierarzneimittel außerhalb des Anwendungsbereiches der Verordnung (EU) 2019/6 und an veterinärmedizintechnische Produkte
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001200000)
 
 
 ### Unterabschnitt 1 - Zulassung von Tierarzneimitteln außerhalb des Anwendungsbereiches der Verordnung (EU) 2019/6 und von veterinärmedizintechnischen Produkten; Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001300000)
 
 
 #### § 22 Verfahren der Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002300000)
 
 (1) Tierarzneimittel im Sinne von Artikel 2 Absatz 7 Buchstabe a und b
 der Verordnung (EU) 2019/6 und veterinärmedizintechnische Produkte im
@@ -1256,6 +1291,7 @@ begründete Stellungnahme beizufügen.
 
 
 #### § 23 Klinische Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002400000)
 
 Für klinische Prüfungen der nach § 22 Absatz 1 zulassungspflichtigen
 Tierarzneimittel und veterinärmedizintechnischen Produkte sind Artikel
@@ -1263,6 +1299,7 @@ Tierarzneimittel und veterinärmedizintechnischen Produkte sind Artikel
 
 
 #### § 24 Einstufung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002500000)
 
 (1) Die zuständige Bundesoberbehörde stuft ein nach § 22 Absatz 1
 zulassungspflichtiges Tierarzneimittel aus den in Artikel 34 Absatz 1
@@ -1288,6 +1325,7 @@ Absatz 3 der Verordnung (EU) 2019/6 erfüllt sind.
 
 
 #### § 25 Verbringen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002600000)
 
 (1) Ein Tierarzneimittel oder veterinärmedizintechnisches Produkt, das
 der Pflicht zur Zulassung nach § 22 oder der Freistellung nach § 4
@@ -1398,9 +1436,11 @@ regelt die Apothekenbetriebsordnung.
 
 
 ### Unterabschnitt 2 - Kennzeichnung, Packungsbeilage, Fachinformation
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001400000)
 
 
 #### § 26 Kennzeichnung und Packungsbeilage von nach § 22 zulassungspflichtigen Tierarzneimitteln und veterinärmedizintechnischen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002700000)
 
 Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und
 veterinärmedizinischen Produkte dürfen im Geltungsbereich dieses
@@ -1423,6 +1463,7 @@ Im Übrigen ist § 7 Absatz 2 entsprechend anzuwenden.
 
 
 #### § 27 Fachinformation
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002800000)
 
 Für die Fachinformation der nach § 22 Absatz 1 zulassungspflichtigen
 Tierarzneimittel und veterinärmedizintechnischen Produkte gilt Artikel
@@ -1430,9 +1471,11 @@ Tierarzneimittel und veterinärmedizintechnischen Produkte gilt Artikel
 
 
 ### Unterabschnitt 3 - Herstellung, Abgabe und Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001500000)
 
 
 #### § 28 Herstellungserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE002900000)
 
 (1) Für die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel
 und veterinärmedizintechnischen Produkte im Geltungsbereich dieses
@@ -1465,6 +1508,7 @@ gewerbs- oder berufsmäßig herstellt:
 
 
 #### § 29 Großhandelsvertriebserlaubnis
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003000000)
 
 (1) Die nach § 22 Absatz 1 zulassungspflichtigen Tierarzneimittel und
 veterinärmedizintechnischen Produkte sowie Testsera und Testantigene
@@ -1484,6 +1528,7 @@ anzuwenden.
 
 
 #### § 30 Einzelhandel im Fernabsatz
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003100000)
 
 Auf den Einzelhandel mit nicht verschreibungspflichtigen
 Tierarzneimitteln und veterinärmedizintechnischen Produkten im
@@ -1496,6 +1541,7 @@ Rechtsverordnung nach § 52 Absatz 1 Nummer 11 zugelassen ist.
 
 
 #### § 31 Tierärztliche Verschreibungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003200000)
 
 (1) Die nach § 24 Absatz 1 und 2 verschreibungspflichtigen
 Tierarzneimittel und veterinärmedizintechnischen Produkte bedürfen der
@@ -1506,6 +1552,7 @@ Absatz 5 Verordnung (EU) 2019/6 entsprechend anzuwenden.
 
 
 #### § 32 Buchführung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003300000)
 
 Für Eigentümer und Halter von der Gewinnung von Lebensmitteln
 dienenden Tieren gelten die Buchführungspflichten nach Artikel 108 der
@@ -1513,6 +1560,7 @@ Verordnung (EU) 2019/6 entsprechend.
 
 
 #### § 33 Werbung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003400000)
 
 Auf die Werbung für Tierarzneimittel nach § 3 Absatz 1 Nummer 2, und
 für veterinärmedizintechnische Produkte sind die Artikel 119 bis 121
@@ -1520,6 +1568,7 @@ der Verordnung (EU) 2019/6 anzuwenden.
 
 
 #### § 34 Pharmakovigilanz
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003500000)
 
 Für Tätigkeiten im Zusammenhang mit der Pharmakovigilanz zur
 Erkennung, zur Bewertung, zum Verständnis und zur Verhütung mutmaßlich
@@ -1530,6 +1579,7 @@ entsprechend anzuwenden.
 
 
 #### § 35 Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003600000)
 
 Für die Überwachung der Einhaltung der Vorschriften dieses Gesetzes
 über Tierarzneimittel und veterinärmedizintechnische Produkte ist
@@ -1537,12 +1587,15 @@ Kapitel VIII der Verordnung (EU) 2019/6 entsprechend anzuwenden.
 
 
 ## Abschnitt 4 - Gemeinsame Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001600000)
 
 
 ### Unterabschnitt 1 - Information der Öffentlichkeit, Verbote
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001700000)
 
 
 #### § 36 Information der Öffentlichkeit
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003700000)
 
 Die zuständige Bundesoberbehörde hat im Bundesanzeiger Folgendes
 bekannt zu machen:
@@ -1584,6 +1637,7 @@ bekannt zu machen:
 
 
 #### § 37 Verbot des Bereitstellens
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003800000)
 
 (1) Es ist verboten, ein Tierarzneimittel oder ein
 veterinärmedizintechnisches Produkt ohne die erforderliche Zulassung,
@@ -1604,6 +1658,7 @@ Wissenschaft vertretbares Maß hinausgehen.
 
 
 #### § 38 Verbote zum Schutz vor Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE003900000)
 
 (1) Es ist verboten, ein Tierarzneimittel, einen Wirkstoff oder ein
 veterinärmedizintechnisches Produkt herzustellen oder auf dem Markt
@@ -1649,6 +1704,7 @@ ist, auf dem Markt bereitzustellen oder anzuwenden.
 
 
 #### § 39 Verbot der Anwendung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004001125)
 
 (1) Es ist verboten, ein Tierarzneimittel oder ein
 veterinärmedizintechnisches Produkt entgegen den Zulassungsbedingungen
@@ -1712,9 +1768,11 @@ geändert worden ist, aufgeführt sind.
 
 
 ### Unterabschnitt 2 - Kategorisierung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001800000)
 
 
 #### § 40 Kategorisierung; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004100000)
 
 (1) Tierarzneimittel und veterinärmedizintechnische Produkte werden
 als apothekenpflichtig oder als frei verkäuflich kategorisiert.
@@ -1734,6 +1792,7 @@ Einteilungskriterien für die Kategorien nach Absatz 1 festzulegen.
 
 
 #### § 41 Zuordnung zu den einzelnen Kategorien der Verkaufsabgrenzung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004200000)
 
 (1) Die zuständige Bundesoberbehörde ordnet ein zugelassenes oder
 registriertes Tierarzneimittel oder veterinärmedizintechnisches
@@ -1746,9 +1805,11 @@ der Zulassung und passt sie dem Stand von Wissenschaft und Technik an.
 
 
 ### Unterabschnitt 3 - Abgabe, Bezug und Anwendung von Arzneimitteln und veterinärmedizintechnischen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG001900000)
 
 
 #### § 42 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004300000)
 
 Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6 oder
 nach § 24 Absatz 1 oder 2 verschreibungspflichtiges Tierarzneimittel
@@ -1758,6 +1819,7 @@ Verschreibung abgegeben werden.
 
 
 #### § 43 Apothekenpflicht
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004400000)
 
 Ein nach § 41 Absatz 1 als apothekenpflichtig kategorisiertes
 Tierarzneimittel oder veterinärmedizintechnisches Produkt darf im
@@ -1767,6 +1829,7 @@ Apothekengesetz.
 
 
 #### § 44 Tierärztliches Dispensierrecht
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004500000)
 
 (1) Abweichend von § 43 darf eine Tierärztin oder ein Tierarzt im
 Rahmen des Betriebes einer tierärztlichen Hausapotheke ein als
@@ -1838,6 +1901,7 @@ die tierärztliche Hausapotheke weiter betreibt.
 
 
 #### § 45 Weitere Vorschriften zur Abgabe; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004601116)
 
 (1) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis
 dürfen Tierarzneimittel und veterinärmedizintechnische Produkte, deren
@@ -2044,6 +2108,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 #### § 46 Abgabe von Mustern
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004700000)
 
 (1) Inhaberinnen und Inhaber einer Großhandelsvertriebserlaubnis
 dürfen ein Muster eines Tierarzneimittels oder eines
@@ -2083,6 +2148,7 @@ Herstellungserlaubnis innehaben.
 
 
 #### § 47 Abgabe verschreibungspflichtiger Tierarzneimittel und veterinärmedizintechnischer Produkte
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004800000)
 
 (1) Ein nach Artikel 34 Absatz 1 oder 2 der Verordnung (EU) 2019/6
 oder nach § 24 Absatz 1 oder 2 verschreibungspflichtiges
@@ -2097,6 +2163,7 @@ Menge beschränkt.
 
 
 #### § 48 Bezug und Abgabe von Stoffen und Zubereitungen aus Stoffen, die bei Tieren angewendet werden dürfen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE004901116)
 
 (1) Tierärztinnen und Tierärzte dürfen Stoffe, die als Wirkstoffe in
 apothekenpflichtigen Tierarzneimitteln oder in Arzneimitteln nach § 2
@@ -2180,6 +2247,7 @@ nach Satz 3 umfasst
 
 
 #### § 49 Bezug von Arzneimitteln und veterinärmedizintechnischen Produkten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005000000)
 
 (1) Tierärztinnen und Tierärzte dürfen zum Zweck der Abgabe und
 Anwendung im Rahmen des Betriebes einer tierärztlichen Hausapotheke
@@ -2255,6 +2323,7 @@ Herstellungserlaubnis innehaben.
 
 
 #### § 50 Anwendung von Tierarzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005101130)
 
 (1) Nach der Verordnung (EU) 2019/6 oder nach den Vorschriften dieses
 Gesetzes verschreibungspflichtige Tierarzneimittel oder
@@ -2324,6 +2393,7 @@ veterinärbehördlichen Anweisung angewendet werden.
 
 
 #### § 51 Befugnisse tierärztlicher Bildungsstätten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005200000)
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich,
 die der Arzneimittelversorgung der dort behandelten Tiere dienen und
@@ -2334,6 +2404,7 @@ Tierärztin oder ein Tierarzt nach den Vorschriften der Verordnung (EU)
 
 
 #### § 52 Verordnungsermächtigungen zur Regelung von Verfahrensvorschriften auf Grundlage der Verordnung (EU) 2019/6
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005301130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -2457,9 +2528,11 @@ Prüfungsverfahren regeln.
 
 
 ### Unterabschnitt 4 - Kennzeichnung, Packungsbeilage, Packungsgrößen und Preise
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002000000)
 
 
 #### § 53 Verordnungsermächtigungen zur Regelung der Kennzeichnung, der Packungsbeilage, der Packungsgrößen und der Preise
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005401130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -2518,9 +2591,11 @@ Rechnung tragen.
 
 
 ### Unterabschnitt 5 - Vorschriften zur Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln und zu tierärztlichen Mitteilungen über die Arzneimittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002101116)
 
 
 #### § 54 Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005501116)
 
 Für die Zwecke dieses Unterabschnittes sind die in der Anlage 1 Spalte
 2 bezeichneten Nutzungsarten zu Grunde zu legen:
@@ -2539,6 +2614,7 @@ Für die Zwecke dieses Unterabschnittes sind die in der Anlage 1 Spalte
 
 
 #### § 55 Mitteilungen über Tierhaltungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005601116)
 
 (1) Wer Tiere einer der Nutzungsarten nach der Anlage 1 Spalte 3
 berufs- oder gewerbsmäßig hält, hat der zuständigen Behörde nach
@@ -2613,6 +2689,7 @@ Absatz 4 Satz 1 zuständigen Behörde die verlangten Angaben zu
 
 
 #### § 56 Tierärztliche Mitteilungen über Arzneimittelverwendung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005701116)
 
 (1) Tierärztinnen und Tierärzte, die Tiere einer der Nutzungsarten
 nach der Anlage 1 Spalte 4 mit den in den Nummern 3 und 4 Absatz 1 bis
@@ -2670,6 +2747,7 @@ Nennung des Dritten der zuständigen Behörde angezeigt hat.
 
 
 #### § 57 Ermittlung der Therapiehäufigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005801116)
 
 (1) Die zuständige Behörde hat für jedes Halbjahr die
 durchschnittliche Anzahl der Behandlungen mit den in § 56 Absatz 1
@@ -2810,6 +2888,7 @@ sind die Daten zu löschen.
 
 
 #### § 58 Verringerung der Behandlung mit antibiotisch wirksamen Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE005901116)
 
 (1) Zur wirksamen Verringerung der Anwendung von antibiotisch
 wirksamen Arzneimitteln hat die Person, die Tiere der Nutzungsarten
@@ -2972,6 +3051,7 @@ erforderlich.
 
 
 #### § 59 Verarbeitung und Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006001116)
 
 (1) Unbeschadet des Artikels 57 der Verordnung (EU) 2019/6 dürfen die
 nach den §§ 55 bis 58 erhobenen Daten ausschließlich zu folgenden
@@ -3029,6 +3109,7 @@ sie Grund zu der Annahme hat, dass
 
 
 #### § 60 Resistenzmonitoring
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006101116)
 
 Um die Wirksamkeit von Antibiotika zu überwachen, führt die zuständige
 Bundesoberbehörde ein Resistenzmonitoring auf der Grundlage
@@ -3040,6 +3121,7 @@ von Berichten ein.
 
 
 #### § 61 Verordnungsermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006201116)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -3163,9 +3245,11 @@ im Bundesanzeiger veröffentlicht worden sind.
 
 
 ### Unterabschnitt 6 - Sicherung und Kontrolle der Qualität
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002200000)
 
 
 #### § 62 Verordnungsermächtigung zur Regelung von Betriebsverordnungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006301130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -3297,6 +3381,7 @@ Tätigkeiten berufsmäßig ausüben.
 
 
 #### § 63 Arzneibuch und amtliche Sammlung von Untersuchungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006400000)
 
 Hinsichtlich der Regelungen zum Arzneibuch und der amtlichen Sammlung
 von Untersuchungsverfahren gelten die §§ 55 und 55a des
@@ -3304,9 +3389,11 @@ Arzneimittelgesetzes entsprechend.
 
 
 ### Unterabschnitt 7 - Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002300000)
 
 
 #### § 64 Zuständige Behörde
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006502130)
 
 (1) Die Durchführung der Vorschriften dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie der
@@ -3370,6 +3457,7 @@ informieren.
 
 
 #### § 65 Zuständige Bundesoberbehörde, Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006601130)
 
 (1) Zuständige Bundesoberbehörde im Sinne dieses Gesetzes ist
 
@@ -3461,9 +3549,11 @@ den Absätzen 1 und 2 sowie von § 64 Absatz 3 zu regeln.
 
 
 ### Unterabschnitt 8 - Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002400000)
 
 
 #### § 66 Gegenseitige Information
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006700000)
 
 (1) Die für die Durchführung dieses Gesetzes zuständigen Behörden und
 Stellen des Bundes und der Länder haben sich gegenseitig
@@ -3542,6 +3632,7 @@ können die Befugnisse nach den Sätzen 2 und 3 auf andere Behörden
 
 
 #### § 67 Verwendung bestimmter Daten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006800000)
 
 (1) Die nach dem Lebensmittel- und Futtermittelgesetzbuch, dem
 Tierschutzgesetz sowie dem Tiergesundheitsgesetz für die Erhebung der
@@ -3572,6 +3663,7 @@ gemeinsame Stelle einrichten.
 
 
 #### § 68 Datenbankgestütztes Informationssystem; Übermittlungsbefugnisse
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE006900000)
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte betreibt
 im Anwendungsbereich dieses Gesetzes ein zentrales Informationssystem
@@ -3691,6 +3783,7 @@ Geschäftsgeheimnissen bleiben unberührt.
 
 
 #### § 69 Datenübermittlungen an das Informationssystem; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007002130)
 
 (1) Unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen
 übermitteln die nach den §§ 64 und 65 zuständigen Behörden des Bundes
@@ -3787,6 +3880,7 @@ Strahlen verwendet werden.
 
 
 #### § 70 Datenabrufe aus dem Informationssystem
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007101130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft, das
 Bundesministerium für Gesundheit und das Bundesministerium für Umwelt,
@@ -3823,6 +3917,7 @@ nach sechs Monaten zu löschen.
 
 
 #### § 71 Speicherungsfristen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007200000)
 
 Daten nach § 68 Absatz 5 mit Ausnahme personenbezogener Daten sollen
 mindestens 30 Jahre über die Dauer der Verkehrsfähigkeit des
@@ -3843,6 +3938,7 @@ die zuständige Bundesoberbehörde.
 
 
 #### § 72 Durchführung der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007300000)
 
 (1) Die mit der Überwachung beauftragten Personen müssen diese
 Tätigkeit hauptberuflich ausüben. Die zuständige Behörde kann
@@ -3992,6 +4088,7 @@ Strafverfahrens entgegenstehen.
 
 
 #### § 73 Probenahme
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007400000)
 
 (1) Die mit der Überwachung beauftragten Personen sind befugt, gegen
 Empfangsbescheinigung Proben von Arzneimitteln,
@@ -4049,6 +4146,7 @@ eintreten würde.
 
 
 #### § 74 Duldungs-, Mitwirkungs- und Übermittlungspflichten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007500000)
 
 (1) Die Inhaberinnen oder Inhaber der in § 72 Absatz 4 Satz 1 Nummer 1
 bezeichneten Grundstücke, Betriebsräume und Transportmittel und die
@@ -4099,6 +4197,7 @@ Charge.
 
 
 #### § 75 Probenahme bei Tierarzneimitteln und veterinärmedizintechnischen Produkten, die unter Verwendung von Fernkommunikationsmitteln angeboten werden
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007600000)
 
 (1) Im Fall von Tierarzneimitteln und veterinärmedizintechnischen
 Produkten, die unter Verwendung von Fernkommunikationsmitteln im Sinne
@@ -4123,6 +4222,7 @@ den Kaufpreis sowie die erforderlichen Versandkosten zu erstatten.
 
 
 #### § 76 Maßnahmen der zuständigen Behörden
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007700000)
 
 (1) Die zuständigen Behörden treffen die notwendigen Anordnungen und
 Maßnahmen, die zur Beseitigung festgestellter Verstöße, zur Verhütung
@@ -4204,6 +4304,7 @@ solche Anordnung oder Maßnahme getroffen werden kann.
 
 
 #### § 77 Überwachung von Stoffen, die als Tierarzneimittel verwendet werden können
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007800000)
 
 Die §§ 72 bis 74 gelten entsprechend für die in § 72 Absatz 2
 genannten Unternehmen, Betriebe, Einrichtungen und Personen sowie für
@@ -4213,9 +4314,11 @@ Anhangs der Verordnung (EU) Nr. 37/2010 aufgeführt sind.
 
 
 ### Unterabschnitt 9 - Sondervorschriften für Bundeswehr, Bundespolizei, Bereitschaftspolizei
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002500000)
 
 
 #### § 78 Anwendung und Vollzug des Gesetzes; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE007901130)
 
 (1) Die Vorschriften dieses Gesetzes sind auf Einrichtungen der
 Bundeswehr, der Bundespolizei und der Bereitschaftspolizeien der
@@ -4247,9 +4350,11 @@ Katastrophenschutzes berührt.
 
 
 ### Unterabschnitt 10 - Allgemeine Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002600000)
 
 
 #### § 79 Allgemeine Anzeigepflicht
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008001116)
 
 (1) Betriebe und Einrichtungen, die Tierarzneimittel und
 veterinärmedizintechnische Produkte entwickeln, herstellen, einer
@@ -4299,9 +4404,11 @@ Beendigung des Bereitstellens sind anzuzeigen.
 
 
 ### Unterabschnitt 11 - Sonstige Durchführungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002700000)
 
 
 #### § 80 Unabhängigkeit
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008100000)
 
 Die zuständigen Bundesoberbehörden und die zuständigen Behörden der
 Länder stellen im Hinblick auf die Gewährleistung von Unabhängigkeit
@@ -4314,6 +4421,7 @@ könnten. Diese Personen geben jährlich dazu eine Erklärung ab.
 
 
 #### § 81 Verordnungsermächtigungen für Krisenzeiten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008201130)
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -4338,6 +4446,7 @@ sechs Monate zu befristen.
 
 
 #### § 82 Verhältnis zu anderen Gesetzen
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008300000)
 
 Die Vorschriften des Betäubungsmittel- und des Atomrechts, des Anti-
 Doping-Gesetzes und des Tierschutzgesetzes bleiben von den
@@ -4345,6 +4454,7 @@ Vorschriften dieses Gesetzes unberührt.
 
 
 #### § 83 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008400000)
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur
 Durchführung dieses Gesetzes erforderlichen allgemeinen
@@ -4356,6 +4466,7 @@ Gesundheit erlassen.
 
 
 #### § 84 Verordnungsermächtigung zur Angleichung an das Recht der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008500000)
 
 Rechtsverordnungen oder allgemeine Verwaltungsvorschriften nach diesem
 Gesetz können auch zum Zweck der Angleichung an die Rechts- und
@@ -4367,6 +4478,7 @@ ist, die den Anwendungsbereich dieses Gesetzes betreffen.
 
 
 #### § 85 Verordnungsermächtigung zur Anpassung an Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008600000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
@@ -4378,13 +4490,16 @@ erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an
 
 
 #### § 86 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008701116)
 
 
 
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002800000)
 
 
 ### § 87 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008800000)
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -4433,6 +4548,7 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 ### § 88 Strafvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE008900000)
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer
@@ -4460,6 +4576,7 @@ bestraft, wer
 
 
 ### § 89 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009003125)
 
 (1) Ordnungswidrig handelt, wer eine in § 88 bezeichnete Handlung
 fahrlässig begeht.
@@ -4686,6 +4803,7 @@ dreißigtausend Euro geahndet werden.
 
 
 ### § 90 Einziehung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009100000)
 
 Gegenstände, auf die sich eine
 Straftat nach § 87 oder § 88 oder eine Ordnungswidrigkeit nach § 89
@@ -4695,6 +4813,7 @@ anzuwenden.
 
 
 ### § 91 Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009200000)
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
@@ -4711,9 +4830,11 @@ Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die
 
 
 ## Abschnitt 6 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNG002900000)
 
 
 ### § 92 Übergangsvorschriften aus Anlass des Gesetzes zum Erlass eines Tierarzneimittelgesetzes und zur Anpassung arzneimittelrechtlicher und anderer Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009300000)
 
 (1) In den Anwendungsbereich des § 22 Absatz 1 fallende
 Tierarzneimittel und veterinärmedizintechnische Produkte, die auf der
@@ -4732,6 +4853,7 @@ erfüllen.
 
 
 ### § 93 Weitere Anwendung von Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009401116)
 
 (1) Die in der Anlage 2 genannten Daten, die die zuständige Behörde im
 Zeitraum vom 1. Januar 2018 bis zum 27. Januar 2022 erhoben und
@@ -4754,6 +4876,7 @@ August 2023.
 
 
 ### § 94 Übergangsvorschrift aus Anlass des Gesetzes zur Änderung des Tierarzneimittelgesetzes zur Erhebung von Daten zu antibiotisch wirksamen Arzneimitteln
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009600116)
 
 Die Pflicht zur Verringerung der Behandlung mit antibiotisch wirksamen
 Arzneimitteln nach § 58 besteht für Tierhalterinnen und Tierhalter der
@@ -4762,6 +4885,7 @@ und 3.3 ab dem 1. Januar 2024.
 
 
 ### § 95 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009700116)
 
 Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem
 Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes
@@ -4770,6 +4894,7 @@ Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes
 (zu §§ 54, 55 Absatz 1 und § 56 Absatz 1)
 
 ### Anlage 1 Einteilung der Nutzungsarten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009501116)
 
 (Fundstelle: BGBl. I 2022, 2859 - 2860)
 
@@ -5008,6 +5133,7 @@ Deutschen Bundestag drei Jahre nach dem Inkrafttreten dieses Gesetzes
 (zu § 57 Absatz 3 Satz 3)
 
 ### Anlage 2 Dem Bundesinstitut für Risikobewertung zum Zweck der Durchführung einer Risikobewertung mitzuteilende Daten
+[Direktlink](https://www.gesetze-im-internet.de/tamg/BJNR453010021.html#BJNR453010021BJNE009800116)
 
 (Fundstelle: BGBl. I 2022, 2860)
 

@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000100000)
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
 Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
@@ -35,6 +36,7 @@ nukleare Sicherheit und Verbraucherschutz:
 
 
 ## § 1 Zweck
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000200000)
 
 Diese Verordnung regelt zum Schutz der Natur und Landschaft und der
 Tier- und Pflanzenwelt das Befahren der Bundeswasserstraßen in den
@@ -43,6 +45,7 @@ Erreichung der Schutzzwecke dieser Nationalparke beizutragen.
 
 
 ## § 2 Sachlicher Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000300000)
 
 Diese Verordnung regelt das Befahren der in den Nationalparken
 
@@ -71,6 +74,7 @@ mit Wasserfahrzeugen nach näherer Bestimmung des § 3.
 
 
 ## § 3 Räumlicher Geltungsbereich, Gebietsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000400000)
 
 [^f825184_01_BJNR0710A0023BJNE000400000]
 (1) Der Geltungsbereich dieser Verordnung, die Allgemeinen
@@ -107,6 +111,7 @@ Monaten nach Inkrafttreten dieser Verordnung erfolgen.
 [^f825184_01_BJNR0710A0023BJNE000400000]: 
 
 ## § 4 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000500000)
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -162,6 +167,7 @@ Im Sinne dieser Verordnung bedeutet
 
 
 ## § 5 Allgemeine Pflichten der Verkehrsteilnehmer, Anordnungsbefugnis
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000600000)
 
 (1) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen im
 Geltungsbereich dieser Verordnung so zu verhalten, dass Natur und
@@ -178,6 +184,7 @@ Gebiet eine Geschwindigkeit nicht zu überschreiten ist.
 
 
 ## § 6 Verbote und Verkehrsführung
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000700000)
 
 (1) Es ist untersagt, die Bundeswasserstraßen im Geltungsbereich
 dieser Verordnung mit Bodeneffekt- oder Luftkissenfahrzeugen und
@@ -240,6 +247,7 @@ Wasserfahrzeugs dringend geboten ist.
 
 
 ## § 7 Geschwindigkeitsbegrenzungen
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000800000)
 
 [^f825184_02_BJNR0710A0023BJNE000800000]
 (1) Soweit diese Verordnung nichts anderes bestimmt, ist es untersagt,
@@ -326,6 +334,7 @@ bezeichneten Erlaubniszonen für die betreffende Nutzung.
 [^f825184_02_BJNR0710A0023BJNE000800000]: 
 
 ## § 8 Ausnahmen und Befreiungen
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE000900000)
 
 (1) Die Verbote nach § 6 Absatz 3 Satz 1 gelten nicht für das Befahren
 
@@ -409,6 +418,7 @@ Bundeswasserstraßen
 
 
 ## § 9 Änderung der Gebietsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001000000)
 
 Die nach § 3 Absatz 2 in Verbindung mit Anlage 2 eingetragenen
 Allgemeinen Schutzgebiete und Besonderen Schutzgebiete sollen alle
@@ -418,6 +428,7 @@ Jahre Bestand haben.
 
 
 ## § 10 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001100000)
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -444,6 +455,7 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## § 11 Evaluierung
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001200000)
 
 Zehn Jahre nach Inkrafttreten dieser Verordnung werden die Regelungen
 der Verordnung aufgrund einer Evaluierung des Bundesministeriums für
@@ -456,6 +468,7 @@ Verbraucherschutz abzustimmen.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001300000)
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über das Befahren der
@@ -467,6 +480,7 @@ zuletzt durch Artikel 28 der Verordnung vom 2. Juni 2016 (BGBl. I S.
 (zu § 3 Absatz 1)
 
 ## Anlage 1 Übersichtskarten Nordsee-Befahrensverordnung
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001400000)
 
 (Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 1 - 2)
 
@@ -479,6 +493,7 @@ westlicher Teil
 (zu § 3 Absatz 2 Satz 2, § 6 Absatz 3, § 9 Satz 1)
 
 ## Anlage 2 Geltungsbereich, Allgemeine Schutzgebiete, Besondere Schutzgebiete
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001500000)
 
 (Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 3 - 218)
 
@@ -64719,6 +64734,7 @@ III. Schleswig-Holstein ****
 7, § 9 Satz 2)
 
 ## Anlage 3 Erlaubniszonen und Routen für Sport- und Freizeitzwecke sowie für die gewerbliche Nutzung
+[Direktlink](https://www.gesetze-im-internet.de/nordsbefv/BJNR0710A0023.html#BJNR0710A0023BJNE001601123)
 
 (Fundstelle: BGBl. 2023 I Nr. 113 Anlageband, S. 219 - 277; bzgl. der
 einzelnen Änderungen vgl. Fußnote)

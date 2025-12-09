@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000100000)
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
 Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der
@@ -30,12 +31,14 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000200000)
 
 Der Ausbildungsberuf Tierpfleger/Tierpflegerin wird staatlich
 anerkannt.
 
 
 ## § 2 Ausbildungsdauer
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000300000)
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -53,6 +56,7 @@ gewählt werden.
 
 
 ## § 3 Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden
 Kenntnisse und Fertigkeiten:
@@ -167,6 +171,7 @@ Tierpension sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 
 ## § 4 Ausbildungsrahmenplan
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000500000)
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
 Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung
@@ -184,12 +189,14 @@ ist auch in den Prüfungen nach den §§ 7 bis 10 nachzuweisen.
 
 
 ## § 5 Ausbildungsplan
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000600000)
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
 ## § 6 Berichtsheft
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000700000)
 
 Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
@@ -198,6 +205,7 @@ haben das Berichtsheft regelmäßig durchzusehen.
 
 
 ## § 7 Zwischenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000800000)
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
 durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres
@@ -265,6 +273,7 @@ folgende Bereiche in Betracht:
 
 
 ## § 8 Abschlussprüfung in der Fachrichtung Forschung und Klinik
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE000900000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -479,6 +488,7 @@ mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 9 Abschlussprüfung in der Fachrichtung Zoo
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE001000000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -693,6 +703,7 @@ bewertet, so ist die Prüfung nicht bestanden.
 
 
 ## § 10 Abschlussprüfung in der Fachrichtung Tierheim und Tierpension
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE001100000)
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im
@@ -951,6 +962,7 @@ bestanden.
 
 
 ## § 11 Übergangsregelung
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE001200000)
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
 Verordnung bestehen, ist die Tierpfleger-Ausbildungsverordnung vom 14.
@@ -961,12 +973,14 @@ Verordnung.
 
 
 ## § 12 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE001300000)
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 (zu § 4)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tierpfleger/zur Tierpflegerin
+[Direktlink](https://www.gesetze-im-internet.de/tierpflausbv_2003/BJNR109300003.html#BJNR109300003BJNE001400000)
 
 (Fundstelle: BGBl. I 2000, 1098 - 1104)
 

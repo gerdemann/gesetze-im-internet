@@ -21,9 +21,11 @@ Zuletzt geändert durch
 Stand: Ersetzt V 805-3-9 v. 27.9.2002 I 3777 (BetrSichV)
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNG000100000)
 
 
 ### § 1 Anwendungsbereich und Zielsetzung
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000201301)
 
 (1) Diese Verordnung gilt für die Verwendung von Arbeitsmitteln. Ziel
 dieser Verordnung ist es, die Sicherheit und den Schutz der Gesundheit
@@ -76,6 +78,7 @@ andere Weise gewährleistet ist.
 
 
 ### § 2 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000302126)
 
 (1) Arbeitsmittel sind Werkzeuge, Geräte, Maschinen oder Anlagen, die
 für die Arbeit verwendet werden, sowie überwachungsbedürftige Anlagen.
@@ -176,9 +179,11 @@ Betriebsgeländes befinden.
 
 
 ## Abschnitt 2 - Gefährdungsbeurteilung und Schutzmaßnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNG000200000)
 
 
 ### § 3 Gefährdungsbeurteilung
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000402126)
 
 (1) Der Arbeitgeber hat vor der Verwendung von Arbeitsmitteln die
 auftretenden Gefährdungen zu beurteilen (Gefährdungsbeurteilung) und
@@ -328,6 +333,7 @@ ausreichend.
 
 
 ### § 4 Grundpflichten des Arbeitgebers
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000502126)
 
 (1) Arbeitsmittel dürfen erst verwendet werden, nachdem der
 Arbeitgeber
@@ -393,6 +399,7 @@ ausreichend berücksichtigt werden.
 
 
 ### § 5 Anforderungen an die zur Verfügung gestellten Arbeitsmittel
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000600000)
 
 (1) Der Arbeitgeber darf nur solche Arbeitsmittel zur Verfügung
 stellen und verwenden lassen, die unter Berücksichtigung der
@@ -440,6 +447,7 @@ deren Verwendung er ihnen ausdrücklich gestattet hat.
 
 
 ### § 6 Grundlegende Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000700000)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass die Arbeitsmittel sicher
 verwendet und dabei die Grundsätze der Ergonomie beachtet werden.
@@ -509,6 +517,7 @@ Witterungsverhältnisse stets gewährleistet ist.
 
 
 ### § 7 Vereinfachte Vorgehensweise bei der Verwendung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000800000)
 
 (1) Der Arbeitgeber kann auf weitere Maßnahmen nach den §§ 8 und 9
 verzichten, wenn sich aus der Gefährdungsbeurteilung ergibt, dass
@@ -539,6 +548,7 @@ Anhang 3 genannten Arbeitsmittel.
 
 
 ### § 8 Schutzmaßnahmen bei Gefährdungen durch Energien, Ingangsetzen und Stillsetzen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE000900000)
 
 (1) Der Arbeitgeber darf nur solche Arbeitsmittel verwenden lassen,
 die gegen Gefährdungen ausgelegt sind durch
@@ -625,6 +635,7 @@ entziehen können.
 
 
 ### § 9 Weitere Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001001301)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass Arbeitsmittel unter
 Berücksichtigung der zu erwartenden Betriebsbedingungen so verwendet
@@ -741,6 +752,7 @@ vorhanden sein.
 
 
 ### § 10 Instandhaltung und Änderung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001100000)
 
 (1) Der Arbeitgeber hat Instandhaltungsmaßnahmen zu treffen, damit die
 Arbeitsmittel während der gesamten Verwendungsdauer den für sie
@@ -832,6 +844,7 @@ des Produktsicherheitsgesetzes ergeben.
 
 
 ### § 11 Besondere Betriebszustände, Betriebsstörungen und Unfälle
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001200000)
 
 (1) Der Arbeitgeber hat Maßnahmen zu ergreifen, durch die unzulässige
 oder instabile Betriebszustände von Arbeitsmitteln verhindert werden.
@@ -894,6 +907,7 @@ Sicherheit der Beschäftigten gewährleisten.
 
 
 ### § 12 Unterweisung und besondere Beauftragung von Beschäftigten
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001301301)
 
 (1) Bevor Beschäftigte Arbeitsmittel erstmalig verwenden, hat der
 Arbeitgeber ihnen ausreichende und angemessene Informationen anhand
@@ -941,6 +955,7 @@ hierzu beauftragten Beschäftigten verwendet werden.
 
 
 ### § 13 Zusammenarbeit verschiedener Arbeitgeber
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001400000)
 
 (1) Beabsichtigt der Arbeitgeber, in seinem Betrieb Arbeiten durch
 eine betriebsfremde Person (Auftragnehmer) durchführen zu lassen, so
@@ -976,6 +991,7 @@ Verordnung.
 
 
 ### § 14 Prüfung von Arbeitsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001502126)
 
 (1) Der Arbeitgeber hat Arbeitsmittel, deren Sicherheit von den
 Montagebedingungen abhängt, vor der erstmaligen Verwendung von einer
@@ -1078,9 +1094,11 @@ sind.
 
 
 ## Abschnitt 3 - Zusätzliche Vorschriften für überwachungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNG000300000)
 
 
 ### § 15 Prüfung vor Inbetriebnahme und vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001602126)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass überwachungsbedürftige
 Anlagen vor erstmaliger Inbetriebnahme und vor Wiederinbetriebnahme
@@ -1133,6 +1151,7 @@ gilt nicht für Dampfkesselanlagen nach § 18 Absatz 1 Satz 1 Nummer 1.
 
 
 ### § 16 Wiederkehrende Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001701126)
 
 (1) Der Arbeitgeber hat sicherzustellen, dass überwachungsbedürftige
 Anlagen nach Maßgabe der in Anhang 2 genannten Vorgaben wiederkehrend
@@ -1152,6 +1171,7 @@ Prüfung, wenn diese der wiederkehrenden Prüfung entspricht.
 
 
 ### § 17 Prüfaufzeichnungen und -bescheinigungen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001802126)
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass das Ergebnis der Prüfung
 nach den §§ 15 und 16 aufgezeichnet wird. Sofern die Prüfung von einer
@@ -1206,6 +1226,7 @@ wiederkehrenden Prüfung sowie der prüfenden Stelle ergibt.
 
 
 ### § 18 Erlaubnispflicht
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE001903126)
 
 (1) Die Errichtung und der Betrieb sowie die Änderungen der Bauart
 oder Betriebsweise, welche die Sicherheit der Anlage beeinflussen,
@@ -1352,9 +1373,11 @@ verlängern.
 
 
 ## Abschnitt 4 - Vollzugsregelungen und Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNG000400000)
 
 
 ### § 19 Mitteilungspflichten, behördliche Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002001301)
 
 (1) Der Arbeitgeber hat bei Arbeitsmitteln nach den Anhängen 2 und 3
 der zuständigen Behörde folgende Ereignisse unverzüglich anzuzeigen:
@@ -1454,6 +1477,7 @@ andere Weise gewährleistet ist.
 
 
 ### § 20 Sonderbestimmungen für überwachungsbedürftige Anlagen des Bundes
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002103126)
 
 (1) Aufsichtsbehörde für die in Anhang 2 Abschnitt 2 bis 4 genannten
 überwachungsbedürftigen Anlagen der Wasserstraßen- und
@@ -1475,6 +1499,7 @@ Bundespolizei.
 
 
 ### § 21 Ausschuss für Betriebssicherheit
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002203126)
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
 für Betriebssicherheit gebildet. Dieser Ausschuss soll aus
@@ -1554,9 +1579,11 @@ Arbeitsschutz und Arbeitsmedizin.
 
 
 ## Abschnitt 5 - Ordnungswidrigkeiten und Straftaten, Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNG000500000)
 
 
 ### § 22 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002305126)
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -1779,6 +1806,7 @@ richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 
 ### § 23 Straftaten
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002401126)
 
 (1) Wer durch eine in § 22 Absatz 1 bezeichnete vorsätzliche Handlung
 Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26
@@ -1792,6 +1820,7 @@ Anlagen strafbar.
 
 
 ### § 24 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002502126)
 
 (1) Der Weiterbetrieb einer erlaubnisbedürftigen Anlage, die vor dem
 1\. Juni 2015 befugt errichtet und verwendet wurde, ist zulässig. Eine
@@ -1864,6 +1893,7 @@ durchzuführen.
 (zu § 6 Absatz 1 Satz 2)
 
 ### Anhang 1 Besondere Vorschriften für bestimmte Arbeitsmittel
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002604126)
 
 (Fundstelle: BGBl. I 2015, 63 - 69;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2696,6 +2726,7 @@ Inhaltsübersicht ****
 (zu den §§ 15 und 16)
 
 ### Anhang 2 Prüfvorschriften für überwachungsbedürftige Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002704126)
 
 (Fundstelle: BGBl. I 2015, 70 - 86;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6726,6 +6757,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu § 14 Absatz 4)
 
 ### Anhang 3 Prüfvorschriften für bestimmte Arbeitsmittel
+[Direktlink](https://www.gesetze-im-internet.de/betrsichv_2015/BJNR004910015.html#BJNR004910015BJNE002802126)
 
 (Fundstelle: BGBl. I 2015, 87 - 90;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000100000)
 
 Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des
 Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März
@@ -41,6 +42,7 @@ Verkehr, Bau und Stadtentwicklung:
 
 
 ## § 1 Gebührentarif
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000202123)
 
 (1) Für Amtshandlungen, einschließlich der Prüfungen und
 Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des § 55
@@ -60,6 +62,7 @@ Gebühr hinzugerechnet werden.
 
 
 ## § 2 Auslagen
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000303123)
 
 (1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der
 Gebührenschuldner folgende Auslagen zu tragen:
@@ -159,6 +162,7 @@ die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
 
 
 ## § 3 Kostengläubiger
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000400000)
 
 (1) Kostengläubiger ist der Rechtsträger, dessen Stelle eine
 kostenpflichtige Amtshandlung, Prüfung oder Untersuchung vornimmt.
@@ -169,6 +173,7 @@ Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
 
 
 ## § 4 Kostenschuldner
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000500000)
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -192,6 +197,7 @@ von Betrieben ist der Inhaber des Betriebs Kostenschuldner.
 
 
 ## § 5 Persönliche Gebührenfreiheit
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000601123)
 
 (1) Von der Zahlung der Gebühren nach dem 1. und 2. Abschnitt des
 Gebührentarifs sind befreit:
@@ -295,6 +301,7 @@ Grundlage von § 37 bis § 37c des Straßenverkehrsgesetzes erhalten.
 
 
 ## § 6 Übergangs- und Anwendungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000703124)
 
 (1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14.
 August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1
@@ -320,6 +327,7 @@ Kostengläubiger- und Kostenschuldnerschaft enthalten.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft;
 gleichzeitig tritt die Gebührenordnung für Maßnahmen im Straßenverkehr
@@ -329,11 +337,13 @@ ist, außer Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE000900000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage (zu § 1)
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE001305123)
 
 (Fundstelle: BGBl. I 2011, 101 - 123;
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -5135,6 +5145,7 @@ _\_\__\_\__\_\__\_\__\_\_
 (zu Gebühren-Nummer 263.1.1)
 
 ## Anhang Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
+[Direktlink](https://www.gesetze-im-internet.de/stgebo_2011/BJNR009800011.html#BJNR009800011BJNE001200124)
 
 (Fundstelle: BGBl. I 2020, 822 - 824)
 

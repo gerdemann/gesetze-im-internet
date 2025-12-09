@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000100000)
 
 Auf Grund des § 12 Absatz 3 des Krankenhausfinanzierungsgesetzes, der
 durch Artikel 1 Nummer 5 des Gesetzes vom 10. Dezember 2015 (BGBl. I
@@ -28,9 +29,11 @@ Gesundheit:
 
 
 ## Teil 1 - Förderung nach § 12 des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNG000100116)
 
 
 ### § 1 Förderungsfähige Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000200000)
 
 (1) Ein Vorhaben wird nach § 12 Absatz 1 des
 Krankenhausfinanzierungsgesetzes gefördert, wenn
@@ -87,6 +90,7 @@ an anderen Krankenhäusern besteht.
 
 
 ### § 2 Förderungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000300000)
 
 (1) Nicht förderungsfähig sind die Kosten, die auf andere als die in §
 9 des Krankenhausfinanzierungsgesetzes genannten Fördertatbestände
@@ -121,6 +125,7 @@ von Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
 
 ### § 3 Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000401116)
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner
 Internetseite die auf die einzelnen Länder entfallenden Anteile an den
@@ -154,6 +159,7 @@ einheitlichen Format oder in einer maschinell auswertbaren Form
 
 
 ### § 4 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000502130)
 
 (1) Die Länder können bis zum 31. Juli 2017 Anträge an das Bundesamt
 für Soziale Sicherung auf Auszahlung von Fördermitteln aus dem
@@ -217,6 +223,7 @@ Förderungsfähigkeit eines Vorhabens zu prüfen.
 
 
 ### § 5 Nachverteilung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000602116)
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt, in welcher Höhe für
 die bis zum 31. Juli 2017 eingegangenen Anträge höchstens Mittel aus
@@ -243,6 +250,7 @@ gilt entsprechend.
 
 
 ### § 6 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000701116)
 
 (1) Das Bundesamt für Soziale Sicherung entscheidet über die Anträge
 durch Bescheid und zahlt die bewilligten Mittel an das antragstellende
@@ -273,6 +281,7 @@ dem Beihilfenrecht der Europäischen Union erfolgt.
 
 
 ### § 7 Rückforderung und Verzinsung von Fördermitteln
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000801116)
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des
 Bundesamtes für Soziale Sicherung und für die Erstattung von
@@ -303,6 +312,7 @@ entsprechend.
 
 
 ### § 8 Auswertung der Wirkungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE000903116)
 
 (1) Für die Auswertung der Wirkungen der Förderung übermitteln die
 zuständigen obersten Landesbehörden dem Bundesamt für Soziale
@@ -355,6 +365,7 @@ Krankenhausfinanzierungsgesetzes beauftragte Stelle.
 
 
 ### § 9 Bewirtschaftung der Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001001116)
 
 Die vom Bundesamt für Soziale Sicherung aus dem Strukturfonds
 ausgezahlten Fördermittel werden als Einnahmen in den Haushaltsplänen
@@ -365,6 +376,7 @@ nach dem Haushaltsrecht der Länder.
 
 
 ### § 10 Beteiligung der privaten Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001101116)
 
 Im Fall einer finanziellen Beteiligung der privaten
 Krankenversicherung an der Förderung nach § 12 Absatz 1 Satz 2 des
@@ -375,9 +387,11 @@ mit dem Verband der privaten Krankenversicherungen.
 
 
 ## Teil 2 - Förderung nach § 12a des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNG000200116)
 
 
 ### § 11 Förderungsfähige Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001202116)
 
 (1) Ein Vorhaben wird nach § 12a Absatz 1 in Verbindung mit Absatz 2
 Satz 1 oder Satz 4 des Krankenhausfinanzierungsgesetzes gefördert,
@@ -490,6 +504,7 @@ an anderen Krankenhäusern besteht.
 
 
 ### § 12 Förderungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001401116)
 
 (1) Gefördert werden können
 
@@ -554,6 +569,7 @@ die Abwicklung von Verträgen handelt.
 
 
 ### § 13 Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001501116)
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner
 Internetseite die nach § 12a Absatz 2 Satz 1 des
@@ -599,6 +615,7 @@ einheitlichen Format oder in einer maschinell auswertbaren Form
 
 
 ### § 14 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001602130)
 
 (1) Die Länder können bis zum 31. Dezember 2025 Anträge an das
 Bundesversicherungsamt auf Auszahlung von Fördermitteln nach § 12a des
@@ -707,6 +724,7 @@ beizufügen:
 
 
 ### § 15 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001701116)
 
 (1) Für die Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
 gilt § 6 Absatz 1 entsprechend.
@@ -732,6 +750,7 @@ Auszahlungsbescheid aufheben und die Fördermittel zurückfordern.
 
 
 ### § 16 Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001801116)
 
 (1) Das Bundesamt für Soziale Sicherung macht Rückforderungsansprüche
 gegenüber den Ländern durch Bescheid geltend, soweit einer der in § 15
@@ -745,6 +764,7 @@ Rückforderung begründende Sachverhalt eingetreten ist. Im Übrigen gilt
 
 
 ### § 17 Auswertung der Wirkungen der Förderung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001901116)
 
 (1) Für die Auswertung der Wirkungen der Förderung übermitteln die
 zuständigen obersten Landesbehörden dem Bundesamt für Soziale
@@ -783,6 +803,7 @@ entsprechend.
 
 
 ### § 18 Beteiligung der privaten Krankenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002001116)
 
 Im Fall einer Beteiligung der privaten Krankenversicherung an der
 Förderung nach § 12a Absatz 1 Satz 2 des
@@ -793,14 +814,17 @@ Sicherung mit dem Verband der privaten Krankenversicherungen.
 
 
 ### Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE001301116)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Teil 3 - Förderung nach § 14a des Krankenhausfinanzierungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNG000300116)
 
 
 ### § 19 Förderungsfähige Vorhaben
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002101116)
 
 (1) Nach § 14a Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes
 werden folgende Vorhaben, insbesondere zur Digitalisierung der
@@ -943,6 +967,7 @@ nutzen, sobald diese zur Verfügung stehen.
 
 
 ### § 20 Förderungsfähige Kosten
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002200116)
 
 (1) Bei den in § 19 Absatz 1 genannten Vorhaben können folgende Kosten
 erstattet werden:
@@ -987,6 +1012,7 @@ die ambulante Einrichtung.
 
 
 ### § 21 Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002302116)
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner
 Internetseite die nach § 14a Absatz 3 Satz 1 des
@@ -1057,6 +1083,7 @@ tragenden Anteils der förderungsfähigen Kosten unterstützt.
 
 
 ### § 22 Antragstellung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002401116)
 
 (1) Die Länder können bis zum 31. Dezember 2021 Anträge auf Auszahlung
 von Fördermitteln nach § 14a Absatz 3 Satz 1 des
@@ -1168,6 +1195,7 @@ genannten Unterlagen sowie die folgenden Unterlagen beizufügen:
 
 
 ### § 23 Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002500116)
 
 (1) Für die Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
 gilt § 6 Absatz 1 entsprechend.
@@ -1204,6 +1232,7 @@ Vorhabens vor.
 
 
 ### § 24 Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002600116)
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des
 Bundesamtes für Soziale Sicherung und für die Erstattung von
@@ -1223,6 +1252,7 @@ gilt entsprechend.
 
 
 ### § 25 Nachweis über die zweckentsprechende Verwendung der Fördermittel
+[Direktlink](https://www.gesetze-im-internet.de/khsfv/BJNR235000015.html#BJNR235000015BJNE002701116)
 
 (1) Die Länder übermitteln dem Bundesamt für Soziale Sicherung zum 1.
 April eines Jahres, erstmals zum 1. April 2021, für die Vorhaben, für

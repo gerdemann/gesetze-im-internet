@@ -22,11 +22,13 @@ Geändert durch
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000100319)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000200319)
 
 Innerstaatliches Recht im Sinne des Artikels 2 Buchstabe a des
 Vertrags ist die in der Bundesrepublik Deutschland und im Land Berlin
@@ -35,12 +37,14 @@ Bestimmungen des Vertrags und dieses Gesetzes nicht entgegensteht.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000300319)
 
 Das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz vom 25. Februar
 1960 (Bundesgesetzbl. I S. 93) gilt entsprechend.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000400319)
 
 (1) Unfälle und Krankheiten, welche die in Artikel 1 Abs. 1 Buchstabe
 a des Vertrags genannten Deutschen vor dem 1. Januar 1956 während der
@@ -57,6 +61,7 @@ Inkrafttretens des Vertrags.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000600319)
 
 (1) Zeiten, die von den in Artikel 1 Abs. 1 Buchstabe a des Vertrags
 genannten Deutschen vor dem 1. Januar 1956 in einer jugoslawischen
@@ -74,6 +79,7 @@ Mindestbeitragszeit zurückgelegt worden ist.
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000700319)
 
 (1) Hat ein Versicherungsträger im Bundesgebiet oder im Land Berlin
 auf Grund der in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten
@@ -96,6 +102,7 @@ von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird.
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000800319)
 
 Die Aufwendungen, die den Versicherungsträgern im Bundesgebiet und im
 Land Berlin in Erfüllung der von ihnen nach Artikel 2 Buchstabe a des
@@ -105,6 +112,7 @@ Land Berlin (Artikel 9) getragen.
 
 
 ## Art 8
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE000902377)
 
 Der Bund trägt die Aufwendungen für die Leistungen, die in
 entsprechender Anwendung des Fremdrenten- und Auslandsrenten-
@@ -113,6 +121,7 @@ von der Unfallversicherung Bund und Bahn gewährt werden.
 
 
 ## Art 9
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001000319)
 
 Aufwendungen, die nicht nach Artikel 8 vom Bund getragen werden, sind
 von den verpflichteten Versicherungsträgern im Bundesgebiet und im
@@ -121,6 +130,7 @@ Bund zu tragen sind.
 
 
 ## Art 10
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001100319)
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
 Bundesrates
@@ -158,6 +168,7 @@ Bundesrates
 
 
 ## Art 11
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001200319)
 
 Der Bundesminister für Arbeit und Sozialordnung bestimmt im Benehmen
 mit dem Bundesminister der Finanzen durch Rechtsverordnung mit
@@ -178,6 +189,7 @@ Anteile auf die Versicherungsträger zu verteilen sind.
 
 
 ## Art 12
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001300319)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
@@ -187,11 +199,13 @@ S. 1).
 
 
 ## Art 13
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001400319)
 
 Dieses Gesetz gilt nicht im Saarland.
 
 
 ## Art 14
+[Direktlink](https://www.gesetze-im-internet.de/svvtryugvtrg/BJNR201680958.html#BJNR201680958BJNE001500319)
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

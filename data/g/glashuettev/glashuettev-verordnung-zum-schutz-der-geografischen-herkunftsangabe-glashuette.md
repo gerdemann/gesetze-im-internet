@@ -23,6 +23,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000100000)
 
 Auf Grund des § 137 des Markengesetzes, der zuletzt durch Artikel 206
 Nummer 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert
@@ -35,6 +36,7 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 
 ## § 1 Verwendung der Herkunftsangabe „Glashütte“
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000200000)
 
 Die Herkunftsangabe „Glashütte“ darf im geschäftlichen Verkehr nur für
 solche Uhren verwendet werden, die im Herkunftsgebiet hergestellt
@@ -42,6 +44,7 @@ worden sind.
 
 
 ## § 2 Herkunftsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000300000)
 
 Das Herkunftsgebiet umfasst folgende Gebiete im Freistaat Sachsen:
 
@@ -74,12 +77,14 @@ Das Herkunftsgebiet umfasst folgende Gebiete im Freistaat Sachsen:
 
 
 ## § 3 Uhren
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000400000)
 
 Uhren im Sinne dieser Verordnung sind Instrumente, deren Hauptfunktion
 die Zeitmessung ist, und sonstige Instrumente mit Zeitmessfunktion.
 
 
 ## § 4 Herstellungsstufen
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000500000)
 
 (1) Wesentliche Herstellungsstufen im Sinne von § 5 Nummer 2 sind:
 
@@ -126,6 +131,7 @@ Herstellungsstufen:
 
 
 ## § 5 Herstellung im Herkunftsgebiet
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000600000)
 
 Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
@@ -158,11 +164,13 @@ Eine Uhr ist im Herkunftsgebiet hergestellt, wenn
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000700000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/glash_ttev/BJNR021800022.html#BJNR021800022BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

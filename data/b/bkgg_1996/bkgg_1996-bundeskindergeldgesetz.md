@@ -23,10 +23,12 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNG000107308)
 
 
 
 ### § 1 Anspruchsberechtigte
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE000530126)
 
 (1) Kindergeld nach diesem Gesetz für seine Kinder erhält, wer nach §
 1 Absatz 1 und 2 des Einkommensteuergesetzes nicht unbeschränkt
@@ -142,6 +144,7 @@ von einer Erwerbstätigkeit Kindergeld.
 
 
 ### § 2 Kinder
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE000631126)
 
 (1) Als Kinder werden auch berücksichtigt
 
@@ -299,6 +302,7 @@ gewährten dem Kindergeld vergleichbaren Leistungen geboten ist.
 
 
 ### § 3 Zusammentreffen mehrerer Ansprüche
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE000713377)
 
 (1) Für jedes Kind werden nur einer Person Kindergeld, Kinderzuschlag
 und Leistungen für Bildung und Teilhabe gewährt.
@@ -332,6 +336,7 @@ gilt Absatz 2 Satz 3 und 4 entsprechend.
 
 
 ### § 4 Andere Leistungen für Kinder
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE000814126)
 
 Kindergeld wird nicht für ein Kind gezahlt, für das eine der folgenden
 Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu
@@ -364,6 +369,7 @@ hat.
 
 
 ### § 5 Beginn und Ende des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE000915126)
 
 (1) Das Kindergeld, der Kinderzuschlag und die Leistungen für Bildung
 und Teilhabe werden vom Beginn des Monats an gewährt, in dem die
@@ -382,6 +388,7 @@ ist, nachzuholen ist.
 
 
 ### § 6 Höhe des Kindergeldes
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001027126)
 
 (1) Das Kindergeld beträgt monatlich für jedes Kind 255 Euro.
 
@@ -397,6 +404,7 @@ Kindergeld besteht.
 
 
 ### § 6a Kinderzuschlag
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002624126)
 
 (1) Personen erhalten für in ihrem Haushalt lebende unverheiratete
 oder nicht verpartnerte Kinder, die noch nicht das 25. Lebensjahr
@@ -550,6 +558,7 @@ Bewilligungszeitraums maßgeblich.
 
 
 ### § 6b Leistungen für Bildung und Teilhabe
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002803126)
 
 (1) Personen erhalten Leistungen für Bildung und Teilhabe für ein
 Kind, wenn sie für dieses Kind nach diesem Gesetz oder nach dem X.
@@ -595,11 +604,13 @@ entsprechend.
 
 
 ### § 6c Unterhaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE003100311)
 
 Unterhaltspflichten werden durch den Kinderzuschlag nicht berührt.
 
 
 ### § 6d Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie für Familien mit Kinderzuschlag, Wohngeld oder Sozialhilfe
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE003200311)
 
 (1) Personen erhalten eine Einmalzahlung in Höhe von 100 Euro für ein
 Kind, welches das 18. Lebensjahr noch nicht vollendet hat und für das
@@ -633,10 +644,12 @@ Satz 1 ist unpfändbar. § 6c gilt entsprechend.
 
 
 ## Zweiter Abschnitt - Organisation und Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNG000207308)
 
 
 
 ### § 7 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001109308)
 
 (1) Die Bundesagentur für Arbeit (Bundesagentur) führt dieses Gesetz
 nach fachlichen Weisungen des Bundesministeriums für Familie,
@@ -650,6 +663,7 @@ Angelegenheit aus.
 
 
 ### § 7a Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002901126)
 
 (1) Die Träger der Leistungen nach § 6b und die Träger der
 Grundsicherung für Arbeitsuchende teilen sich alle Tatsachen mit, die
@@ -670,6 +684,7 @@ abfragen.
 
 
 ### § 7b Automatisiertes Abrufverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE003000124)
 
 Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach
 § 68 Absatz 6 Satz 2 des Einkommensteuergesetzes Gebrauch und erlässt
@@ -680,6 +695,7 @@ anzuwenden.
 
 
 ### § 8 Aufbringung der Mittel
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001210126)
 
 (1) Die Aufwendungen der Bundesagentur für die Durchführung dieses
 Gesetzes trägt der Bund.
@@ -697,6 +713,7 @@ für die Leistungen nach § 6b und ihre Durchführung.
 
 
 ### § 9 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001310126)
 
 (1) Das Kindergeld und der Kinderzuschlag sind schriftlich zu
 beantragen. Der Antrag soll bei der nach § 13 zuständigen
@@ -714,6 +731,7 @@ Stelle zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
 
 
 ### § 10 Auskunftspflicht
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001410377)
 
 (1) § 60 Absatz 1 des Ersten Buches Sozialgesetzbuch gilt auch für die
 bei dem Antragsteller oder Berechtigten berücksichtigten Kinder, für
@@ -733,6 +751,7 @@ angemessene Frist zur Erfüllung der Pflicht setzen.
 
 
 ### § 11 Gewährung des Kindergeldes und des Kinderzuschlags
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001512126)
 
 (1) Das Kindergeld und der Kinderzuschlag werden monatlich gewährt.
 
@@ -769,6 +788,7 @@ Sozialgesetzbuch über
 
 
 ### § 12 Aufrechnung
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001609308)
 
 § 51 des Ersten Buches Sozialgesetzbuch gilt für die Aufrechnung eines
 Anspruchs auf Erstattung von Kindergeld und Kinderzuschlag gegen einen
@@ -780,6 +800,7 @@ berücksichtigt werden konnte.
 
 
 ### § 13 Zuständige Stelle
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001713126)
 
 (1) Für die Entgegennahme des Antrages und die Entscheidungen über den
 Anspruch ist die Familienkasse (§ 7 Absatz 2) zuständig, in deren
@@ -805,6 +826,7 @@ die für die Durchführung zuständigen Behörden.
 
 
 ### § 14 Bescheid
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001811311)
 
 Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
 Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das
@@ -813,16 +835,19 @@ Bildung und Teilhabe entzogen werden.
 
 
 ### § 15 Rechtsweg
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE001907308)
 
 Für Streitigkeiten nach diesem Gesetz sind die Gerichte der
 Sozialgerichtsbarkeit zuständig.
 
 
 ## Dritter Abschnitt - Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNG000307308)
 
 
 
 ### § 16 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002012308)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -857,10 +882,12 @@ Verwaltungsbehörden.
 
 
 ## Vierter Abschnitt - Übergangs- und Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNG000407308)
 
 
 
 ### § 17 Recht der Europäischen Gemeinschaft
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002107308)
 
 Soweit in diesem Gesetz Ansprüche Deutschen vorbehalten sind, haben
 Angehörige der anderen Mitgliedstaaten der Europäischen Union,
@@ -871,12 +898,14 @@ Bestimmungen der genannten Verordnungen unberührt.
 
 
 ### § 18 Anwendung des Sozialgesetzbuches
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002207308)
 
 Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der
 Ausführung das Sozialgesetzbuch anzuwenden.
 
 
 ### § 19 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002311311)
 
 (1) Ist für die Nachzahlung und Rückforderung von Kindergeld und
 Zuschlag zum Kindergeld für Berechtigte mit geringem Einkommen der
@@ -899,6 +928,7 @@ geworden sind, unberührt.
 
 
 ### § 20 Anwendungsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002443126)
 
 (1) § 1 Absatz 3 in der am 19. Dezember 2006 geltenden Fassung ist in
 Fällen, in denen eine Entscheidung über den Anspruch auf Kindergeld
@@ -1050,6 +1080,7 @@ dem 31. Mai 2024 beginnen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
+[Direktlink](https://www.gesetze-im-internet.de/bkgg_1996/BJNR137800995.html#BJNR137800995BJNE002505308)
 
 In Fällen, in denen die Entscheidung über die Höhe des
 Kindergeldanspruchs für Monate in dem Zeitraum zwischen dem 1. Januar

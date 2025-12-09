@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000100000)
 
 Auf Grund des § 3 Abs. 1 Nr. 3, Abs. 4 und 6 des
 Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
@@ -33,10 +34,12 @@ Bundesministerium der Finanzen:
 
 
 ## I. - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNG000200000)
 
 
 
 ### § 1 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000301124)
 
 Im Sinne dieser Verordnung sind:
 
@@ -102,6 +105,7 @@ Im Sinne dieser Verordnung sind:
 
 
 ### § 2 Kennzeichnungspflicht
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000405124)
 
 (1) Der Schiffsführer darf ein deutsches Kleinfahrzeug auf den
 Binnenschiffahrtsstraßen nur führen, wenn es mit einem gültigen
@@ -147,6 +151,7 @@ nur einvernehmlich getroffen werden.
 
 
 ### § 3 Ausnahmen
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000503123)
 
 Von der Kennzeichnungspflicht sind ausgenommen:
 Kleinfahrzeuge, die
@@ -189,6 +194,7 @@ Kleinfahrzeuge, die
 
 
 ### § 4 Amtliche Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000603123)
 
 (1) Das in § 2 genannte Kennzeichen besteht aus einer Kombination von
 
@@ -244,6 +250,7 @@ Rechtsvorschriften des Bundes, insbesondere:
 
 
 ### § 5 Amtlich anerkannte Kennzeichen
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000700000)
 
 Ein Kennzeichen gilt als amtlich anerkannt, wenn es aus der Nummer des
 Internationalen Bootsscheines für Wassersportfahrzeuge (Resolution Nr.
@@ -255,6 +262,7 @@ Deutsche Automobilclub e. V. den Kennbuchstaben A.
 
 
 ### § 6 Urkunden
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE000801301)
 
 Zum Nachweis über das zugeteilte Kennzeichen ist an Bord mitzuführen:
 
@@ -288,10 +296,12 @@ Personen auf Verlangen zur Prüfung auszuhändigen.
 
 
 ## II. - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNG000900000)
 
 
 
 ### § 7 Antrag
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001007123)
 
 (1) Der Eigentümer des Kleinfahrzeugs hat ein amtliches Kennzeichen
 bei einem Wasserstraßen- und Schifffahrtsamt oder ein amtlich
@@ -370,6 +380,7 @@ elektronischer Antragstellung die Beifügung einer Kopie gleich.
 
 
 ### § 8 Zuteilung des Kennzeichens, Ausstellung des Ausweises
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001103123)
 
 (1) Das Wasserstraßen- und Schifffahrtsamt teilt das amtliche
 Kennzeichen zu. Kennzeichen können auf Antrag auch befristet oder als
@@ -396,6 +407,7 @@ elektronischen Mitteilung ausreichend.
 
 
 ### § 9 Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001205123)
 
 (1) Der Eigentümer hat den ausstellenden Stellen unverzüglich
 mitzuteilen, wenn sich
@@ -430,15 +442,18 @@ gilt auch, wenn er das Kleinfahrzeug abgemeldet hat.
 
 
 ## III. - Schlußvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNG001300000)
 
 
 
 ### § 10 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001401308)
 
 -
 
 
 ### § 11 Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001503123)
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -507,16 +522,19 @@ fahrlässig
 
 
 ### § 12
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001600000)
 
 -
 
 
 ### § 13
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001700000)
 
 -
 
 
 ### § 14 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE001800000)
 
 (1) Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. März 1995
 in Kraft. Abweichend von Satz 1 treten in Kraft:
@@ -590,6 +608,7 @@ genannten Verordnungen treten außer Kraft:
 
 
 ### Anlage (zu § 8 Abs. 2)
+[Direktlink](https://www.gesetze-im-internet.de/klfzkv-binsch/BJNR022600995.html#BJNR022600995BJNE002003119)
 
 (Fundstelle: BGBl. 2025 I Nr. 242, S. 56)
 

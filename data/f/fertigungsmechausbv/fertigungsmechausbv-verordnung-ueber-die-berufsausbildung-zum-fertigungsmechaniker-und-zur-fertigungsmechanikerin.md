@@ -24,6 +24,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -34,17 +35,20 @@ und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000200000)
 
 Der Ausbildungsberuf Fertigungsmechaniker und Fertigungsmechanikerin
 wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000300000)
 
 Die Ausbildung dauert drei Jahre.
 
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000400000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -123,6 +127,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 ## § 4 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000500000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -144,6 +149,7 @@ durchzusehen.
 
 
 ## § 5 Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000600000)
 
 Die Abschlussprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
@@ -161,6 +167,7 @@ erforderlich ist.
 
 
 ## § 6 Teil 1 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000700000)
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
@@ -223,6 +230,7 @@ Baugruppe bestehen folgende Vorgaben:
 
 
 ## § 7 Teil 2 der Abschlussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000800000)
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
@@ -405,6 +413,7 @@ folgende Vorgaben:
 
 
 ## § 8 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE000900000)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -490,6 +499,7 @@ mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
 
 ## § 9 Anrechnungsregelung
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE001000000)
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
 Metalltechnik in der Fachrichtung Montagetechnik kann unter
@@ -499,6 +509,7 @@ Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE001100000)
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Fertigungsmechaniker/zur
@@ -508,6 +519,7 @@ Kraft.
 (zu § 3 Absatz 1 Satz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fertigungsmechaniker und zur Fertigungsmechanikerin
+[Direktlink](https://www.gesetze-im-internet.de/fertigungsmechausbv/BJNR064800013.html#BJNR064800013BJNE001200000)
 
 (Fundstelle: BGBl. I 2013, 651 - 655)
 

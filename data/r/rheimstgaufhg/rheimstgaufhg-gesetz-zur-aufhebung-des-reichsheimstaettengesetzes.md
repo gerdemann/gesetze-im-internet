@@ -20,24 +20,29 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000100307)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNG000200307)
 
 
 
 ## Art 2 bis 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNG000300307)
 
 
 
 ## Art 6 - Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNG000400307)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000501310)
 
 (1) Auf die zum Zeitpunkt des Inkrafttretens dieses Gesetzes im
 Grundbuch eingetragenen Hypotheken und Grundschulden findet § 17 Abs.
@@ -47,6 +52,7 @@ Grundbuch eingetragenen Hypotheken und Grundschulden findet § 17 Abs.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000601310)
 
 (1) Der Reichsheimstättenvermerk im Grundbuch (§§ 4 und 6 des
 Reichsheimstättengesetzes) ist unbeschadet des Absatzes 4 nach dem 31.
@@ -80,16 +86,19 @@ Anwendung. Absatz 3 ist nicht anzuwenden.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000701310)
 
 (weggefallen)
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000801310)
 
 -
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNE000900307)
 
 Der Ausgeber hat den Heimstätter vom Wegfall der
 Heimstätteneigenschaft in Kenntnis zu setzen und ihn darauf
@@ -100,6 +109,7 @@ ein etwa bestehendes Testament oder einen Erbvertrag darauf zu
 
 
 ## Art 7 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rheimstgaufhg/BJNR091209993.html#BJNR091209993BJNG001000307)
 
 Dieses Gesetz tritt am 1. Oktober 1993 in Kraft.
 

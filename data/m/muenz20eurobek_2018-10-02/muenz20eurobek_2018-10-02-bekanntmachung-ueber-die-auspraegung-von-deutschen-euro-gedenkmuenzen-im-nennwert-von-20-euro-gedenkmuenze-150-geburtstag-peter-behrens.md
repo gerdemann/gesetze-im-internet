@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2018-10-02/BJNR171400018.html#BJNR171400018BJNE000100000)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, eine deutsche Euro-
@@ -55,11 +56,13 @@ Der Entwurf stammt von der Künstlerin Anna Steinmann aus Berlin.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2018-10-02/BJNR171400018.html#BJNR171400018BJNE000200000)
 
 Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz20eurobek_2018-10-02/BJNR171400018.html#BJNR171400018BJNE000300000)
 
 (Fundstelle: BGBl. I 2018, 1714)
 

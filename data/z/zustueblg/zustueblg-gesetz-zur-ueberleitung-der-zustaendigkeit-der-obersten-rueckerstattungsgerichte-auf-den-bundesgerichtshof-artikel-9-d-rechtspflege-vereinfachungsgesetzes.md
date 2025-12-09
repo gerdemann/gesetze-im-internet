@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000100308)
 
 In den Verfahren über Ansprüche nach dem Bundesrückerstattungsgesetz
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 250-1,
@@ -41,6 +42,7 @@ Bundesgerichtshof (Zivilsenat) statt.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000200308)
 
 Für das Verfahren über die Revision und die weitere Beschwerde gelten
 die Vorschriften des Zweiten Abschnitts des Dritten Buches der
@@ -49,6 +51,7 @@ bestimmt.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000300308)
 
 (1) Die weitere Beschwerde und die Revision finden ohne Rücksicht auf
 den Wert des Beschwerdegegenstandes statt.
@@ -58,6 +61,7 @@ Beschwerde unterliegenden Entscheidung nicht befugt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000400308)
 
 (1) Die weitere Beschwerde und die Revision sind binnen eines Monats
 durch Einreichung eines Schriftsatzes bei dem Bundesgerichtshof
@@ -77,17 +81,20 @@ nicht anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000500308)
 
 Für das Verfahren vor dem Bundesgerichtshof werden Gerichtskosten
 nicht erhoben.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000600308)
 
 -
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/zust_blg/BJNR028620990.html#BJNR028620990BJNE000701301)
 
 (weggefallen)
 

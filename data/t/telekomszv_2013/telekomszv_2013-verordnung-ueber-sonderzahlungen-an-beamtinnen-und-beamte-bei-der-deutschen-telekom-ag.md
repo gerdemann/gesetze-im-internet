@@ -21,6 +21,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/telekomszv_2013/BJNR192500013.html#BJNR192500013BJNE000100000)
 
 Auf Grund des § 10 Absatz 1 des Postpersonalrechtsgesetzes, der durch
 Artikel 1 Nummer 5 Buchstabe b des Gesetzes vom 21. November 2012
@@ -30,6 +31,7 @@ Anhörung des Vorstands der Deutschen Telekom AG:
 
 
 ## § 1 Sonderzahlung bei veränderter Wochenarbeitszeit
+[Direktlink](https://www.gesetze-im-internet.de/telekomszv_2013/BJNR192500013.html#BJNR192500013BJNE000200000)
 
 (1) Beamtinnen und Beamte, deren regelmäßige Wochenarbeitszeit auf
 Grund der Telekom-Arbeitszeitverordnung 2000 oder bei Abordnungen auf
@@ -66,10 +68,12 @@ Ausscheiden gezahlten Dienstbezügen.
 
 
 ## § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/telekomszv_2013/BJNR192500013.html#BJNR192500013BJNE000301305)
 
 
 
 ## § 3 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/telekomszv_2013/BJNR192500013.html#BJNR192500013BJNE000400000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Telekom-Sonderzahlungsverordnung vom 12. Juli

@@ -23,10 +23,12 @@ Geändert durch
 
 
 ## I. - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000104377)
 
 
 
 ### § 1
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE001509301)
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -79,10 +81,12 @@ freier Schweinebestand ein Bestand mit Schweinen, der
 
 
 ## Ia. - Freiheit von Aujeszkyscher Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG001401377)
 
 
 
 ### § 2
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE001605377)
 
 Zur Aufrechterhaltung des Status als frei von Aujeszkyscher Krankheit
 geltendes Gebiet im Sinne des § 1 Abs. 2 Nr. 2 sind die Untersuchungen
@@ -90,14 +94,17 @@ nach Anlage 2 vorzunehmen.
 
 
 ## II. - Schutzmaßregeln gegen die Aujeszkysche Krankheit bei Schweinen
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000203377)
 
 
 
 ### 1. - Allgemeine Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000303377)
 
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE001706377)
 
 (1) Impfungen gegen die Aujeszkysche Krankheit sowie Heilversuche an
 seuchenkranken und seuchenverdächtigen Schweinen sind verboten.
@@ -149,6 +156,7 @@ einschließlich der Entnahme von Blutproben anordnen.
 
 
 #### § 3a
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE001806377)
 
 Der Besitzer hat Zucht- und Nutzschweine im Abstand von längstens 12
 Monaten nach näherer Anweisung der zuständigen Behörde serologisch auf
@@ -162,6 +170,7 @@ der Seuchenbekämpfung nicht entgegenstehen.
 
 
 #### § 3b
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE004102377)
 
 Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung
 erforderlich ist, anordnen, dass Dung und flüssige Stallabgänge aus
@@ -170,6 +179,7 @@ Genehmigung ausgebracht werden dürfen.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE001908377)
 
 (1) Zucht- und Nutzschweine dürfen
 
@@ -196,19 +206,23 @@ genügen.
 
 
 #### § 4a
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002004377)
 
 (weggefallen)
 
 
 ### 2. - Besondere Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000403377)
 
 
 
 #### A. - Vor amtlicher Feststellung der Aujeszkyschen Krankheit oder des Seuchenverdachts
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000503377)
 
 
 
 ##### § 5
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002104377)
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der
 Aujeszkyschen Krankheit bei Schweinen in einem Gehöft oder an einem
@@ -256,16 +270,19 @@ sonstigen Standort gilt vor der amtlichen Feststellung Folgendes:
 
 
 #### B. - Nach amtlicher Feststellung der Aujeszkyschen Krankheit oder des Seuchenverdachts
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000603377)
 
 
 
 ##### § 5a
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002203377)
 
 Die zuständige Behörde macht den Ausbruch der Seuche öffentlich
 bekannt.
 
 
 ##### § 6
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002305377)
 
 Ist der Ausbruch oder der Verdacht auf Ausbruch der Aujeszkyschen
 Krankheit bei Schweinen amtlich festgestellt, so unterliegen das
@@ -360,6 +377,7 @@ der Sperre:
 
 
 ##### § 7
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002404377)
 
 (1) Ist die Aujeszkysche Krankheit in einem Gehöft oder an einem
 sonstigen Standort amtlich festgestellt, so ordnet die zuständige
@@ -380,10 +398,12 @@ Seuchenbekämpfung erforderlich ist.
 
 
 ##### (XXXX) §§ 8 und 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002505377)
 
 
 
 ##### § 10
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002703377)
 
 Ist der Ausbruch der Aujeszkyschen Krankheit bei Schweinen in einem
 Gehöft oder an einem sonstigen Standort amtlich festgestellt, so kann
@@ -397,15 +417,18 @@ dürfen.
 
 
 ##### § 10a
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002804377)
 
 (weggefallen)
 
 
 #### C. - Bei Ansteckungsverdacht
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000703377)
 
 
 
 ##### § 11
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE002905377)
 
 Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder
 der Verdacht des Ausbruchs der Aujeszkyschen Krankheit amtlich
@@ -426,10 +449,12 @@ ansteckungsverdächtigen Schweine anordnen.
 
 
 #### D. - Desinfektion
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000803377)
 
 
 
 ##### § 12
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003006377)
 
 (1) Nach Entfernung der seuchenkranken und -verdächtigen Schweine sind
 unverzüglich nach näherer Anweisung des beamteten Tierarztes
@@ -466,10 +491,12 @@ werden.
 
 
 ### 3. - Schutzmaßregeln auf Schweineausstellungen
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG000904377)
 
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003105377)
 
 Wird bei Schweinen, die sich auf Schweineausstellungen,
 Schweinemärkten und Veranstaltungen ähnlicher Art befinden,
@@ -479,10 +506,12 @@ sinngemäße Anwendung der Maßregeln nach den §§ 6 bis 12 anordnen.
 
 
 ### 4. - Aufhebung der Schutzmaßregeln
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG001003377)
 
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003206377)
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Aujeszkysche
 Krankheit erloschen ist oder der Verdacht auf Aujeszkysche Krankheit
@@ -538,10 +567,12 @@ a)  keine auf Aujeszkysche Krankheit hindeutenden klinischen Erscheinungen
 
 
 ## III. - Schutzmaßregeln gegen die Aujeszkysche Krankheit bei anderen Tieren
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG001103377)
 
 
 
 ### § 15
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003306377)
 
 Wird bei anderen für die Aujeszkysche Krankheit empfänglichen Tieren
 der Ausbruch oder der Verdacht des Ausbruchs der Seuche amtlich
@@ -549,10 +580,12 @@ festgestellt, so gelten die §§ 5a bis 14 entsprechend.
 
 
 ## IV. - Ordnungswidrigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG001203377)
 
 
 
 ### § 16
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003407301)
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
 Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -627,16 +660,19 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 ## V. - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNG001303377)
 
 
 
 ### § 17
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003604377)
 
 (Inkrafttreten)
 
 (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)
 
 ### Anlage 1 Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE003805377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3615 - 3616;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -873,6 +909,7 @@ aufrechterhalten, wenn die nachfolgenden Anforderungen erfüllt sind:
 (zu § 2)
 
 ### Anlage 2 Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als  frei von der Aujeszkyschen Krankheit
+[Direktlink](https://www.gesetze-im-internet.de/aujeszkkrv/BJNR004880980.html#BJNR004880980BJNE004201377)
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3617
 

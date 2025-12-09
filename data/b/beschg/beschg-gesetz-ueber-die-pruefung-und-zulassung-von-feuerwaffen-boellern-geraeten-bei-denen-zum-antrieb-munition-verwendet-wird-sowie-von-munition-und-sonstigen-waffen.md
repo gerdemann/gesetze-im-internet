@@ -21,10 +21,12 @@ Zuletzt geändert durch
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNG000100000)
 
 
 
 ### § 1 Zweck, Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000201377)
 
 (1) Dieses Gesetz regelt die Prüfung und Zulassung von
 
@@ -114,6 +116,7 @@ Befugnis nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden
 
 
 ### § 2 Beschusstechnische Begriffe
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000301377)
 
 (1) Feuerwaffen im Sinne dieses Gesetzes sind
 
@@ -211,10 +214,12 @@ diesem Gesetz abweichend definiert werden.
 
 
 ## Abschnitt 2 - Prüfung und Zulassung
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNG000200000)
 
 
 
 ### § 3 Beschusspflicht für Feuerwaffen und Böller
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000400000)
 
 (1) Wer Feuerwaffen, Böller sowie höchstbeanspruchte Teile, die ohne
 Nacharbeit ausgetauscht werden können, herstellt oder in den
@@ -237,6 +242,7 @@ Beschussgasdruck beschossen worden sind.
 
 
 ### § 4 Ausnahmen von der Beschusspflicht
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000501377)
 
 (1) Von der Beschusspflicht sind ausgenommen:
 
@@ -300,6 +306,7 @@ vereinbart ist.
 
 
 ### § 5 Beschussprüfung
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000601360)
 
 (1) Bei dem Beschuss von Feuerwaffen ist zu prüfen, ob
 
@@ -359,6 +366,7 @@ Stahlschrotmunition vorzunehmen.
 
 
 ### § 6 Prüfzeichen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000700000)
 
 (1) Feuerwaffen, Böller und deren höchstbeanspruchte Teile sind mit
 dem amtlichen Beschusszeichen zu versehen, wenn sie mindestens
@@ -373,6 +381,7 @@ versehen.
 
 
 ### § 7 Zulassung von Schussapparaten, Einsteckläufen und nicht der Beschusspflicht unterliegenden Feuerwaffen, Systemprüfungen von Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000800000)
 
 (1) Schussapparate, Zusatzgeräte für diese Apparate, Gasböller,
 Einsätze für Munition mit kleinerer Abmessung sowie Einsteckläufe ohne
@@ -443,6 +452,7 @@ wenn
 
 
 ### § 8 Zulassung von Schreckschuss-, Reizstoff- und Signalwaffen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE000901360)
 
 (1) Schusswaffen mit einem Patronen- oder Kartuschenlager bis 12,5
 Millimeter Durchmesser und tragbare Geräte nach § 2 Absatz 1 Nummer 2
@@ -512,6 +522,7 @@ bestimmt sind.
 
 
 ### § 8a Prüfung und Zulassung von unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE002700128)
 
 (1) Wer eine Schusswaffe unbrauchbar gemacht hat, muss diese der
 zuständigen Behörde binnen zwei Wochen zur Einzelzulassung vorlegen.
@@ -540,6 +551,7 @@ zur Deaktivierungsbescheinigung zu regeln.
 
 
 ### § 9 Anzeige, Prüfung, Zulassung von sonstigen Waffen und Kartuschenmunition mit Reizstoffen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001003360)
 
 (1) Wer Schusswaffen nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer
 1\.5.1 des Waffengesetzes eines bestimmten Modells gewerbsmäßig
@@ -612,6 +624,7 @@ Bauartzulassung an Stelle dieser Prüfungen.
 
 
 ### § 10 Zulassung von pyrotechnischer Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001101377)
 
 (1) Pyrotechnische Munition einschließlich der mit ihr fest
 verbundenen Antriebsvorrichtung darf nur dann in den Geltungsbereich
@@ -655,6 +668,7 @@ kleinsten Verpackungseinheit anzubringen.
 
 
 ### § 11 Zulassung sonstiger Munition
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001200000)
 
 (1) Munition im Sinne der Anlage 1 Abschnitt 1 Unterabschnitt 3 Nr.
 1\.1 bis 1.3 zum Waffengesetz darf gewerbsmäßig nur vertrieben oder
@@ -703,6 +717,7 @@ Antragsteller die Überwachung der Herstellung der zuständigen Behörde
 
 
 ### § 12 Überlassen und Verwenden beschuss- oder zulassungspflichtiger Gegenstände
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001300000)
 
 (1) Feuerwaffen, Böller und höchstbeanspruchte Teile, die nach § 3 der
 Beschusspflicht unterliegen, dürfen anderen nur überlassen oder zum
@@ -719,6 +734,7 @@ vorgeschriebene Prüf- oder Zulassungszeichen tragen und, im Falle des
 
 
 ### § 13 Ausnahmen in Einzelfällen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001400000)
 
 Die für die Zulassung jeweils zuständige Behörde kann im Einzelfall
 Ausnahmen von dem Erfordernis der Prüfung und Zulassung nach § 7 Abs.
@@ -730,6 +746,7 @@ entgegenstehen.
 
 
 ### § 14 Ermächtigungen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001503128)
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, zur Durchführung der §§ 3, 5 und 6 durch Rechtsverordnung
@@ -931,10 +948,12 @@ zu erlassen und die für die Prüfung zuständige Stelle zu bestimmen.
 
 
 ## Abschnitt 3 - Sonstige beschussrechtliche Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNG000300000)
 
 
 
 ### § 15 Beschussrat
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001601128)
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates einen Ausschuss
@@ -947,10 +966,12 @@ Verbände, die keine wirtschaftlichen Interessen verfolgen, zu berufen.
 
 
 ### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001705301)
 
 
 
 ### § 17 Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001800000)
 
 (1) Wer mit Gegenständen im Sinne dieses Gesetzes umgeht, insbesondere
 die Herstellung und den Vertrieb von diesen Gegenständen betreibt, hat
@@ -994,6 +1015,7 @@ bestimmender Frist zur Prüfung vorzeigt.
 
 
 ### § 18 Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE001900000)
 
 (1) Zulassungen und andere Erlaubnisse nach diesem Gesetz können
 inhaltlich beschränkt werden, um Leben oder Gesundheit von Menschen
@@ -1031,6 +1053,7 @@ dieses Gesetzes ganz oder teilweise untersagen, wenn
 
 
 ### § 19 Rücknahme und Widerruf
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE002000000)
 
 (1) Eine Zulassung oder andere Erlaubnis ist zurückzunehmen, wenn
 nachträglich bekannt wird, dass sie hätte versagt werden müssen.
@@ -1059,6 +1082,7 @@ Zulassungsinhaber
 
 
 ### § 20 Zuständigkeiten
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE002102118)
 
 (1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen können durch Rechtsverordnung die für die
@@ -1113,6 +1137,7 @@ Kostenerstattung eine Abschrift oder Vervielfältigung zu überlassen.
 
 
 ### § 21 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE002201118)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1195,10 +1220,12 @@ zuständige Behörde.
 
 
 ## Abschnitt 4 - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNG000400000)
 
 
 
 ### § 22 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/beschg/BJNR400300002.html#BJNR400300002BJNE002306360)
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Zulassung im Sinne
 der §§ 7 bis 11 gilt im bisherigen Umfang als Zulassung nach diesem

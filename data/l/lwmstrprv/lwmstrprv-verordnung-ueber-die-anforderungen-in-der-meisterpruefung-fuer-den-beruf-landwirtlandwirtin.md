@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000100307)
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 53 Nr. 2 des
@@ -32,6 +33,7 @@ vom 23. Dezember 1981 (BGBl. I S. 1692):
 
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000201377)
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der
 Prüfungsteilnehmer die notwendigen Kenntnisse, Fertigkeiten und
@@ -82,6 +84,7 @@ Landwirtschaftsmeister/Landwirtschaftsmeisterin.
 
 
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE001200308)
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -113,6 +116,7 @@ rechtfertigen.
 
 
 ## § 2 Gliederung der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000302377)
 
 (1) Die Meisterprüfung umfaßt die Teile
 
@@ -135,6 +139,7 @@ betriebliche Situationen beziehen.
 
 
 ## § 3 Prüfungsanforderungen im Teil "Produktions- und Verfahrenstechnik"
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000402377)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er die pflanzliche und
 tierische Produktion sowie den damit verbundenen Einsatz von
@@ -247,6 +252,7 @@ anzufertigenden Arbeit und soll nicht länger als drei Stunden dauern.
 
 
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000500307)
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche,
 rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren
@@ -326,6 +332,7 @@ sowie das Prüfungsgespräch selbst nicht länger als 60 Minuten dauern.
 
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000602377)
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
 Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
@@ -576,6 +583,7 @@ länger als 20 Minuten dauern.
 
 
 ## § 6 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000703377)
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile
@@ -588,6 +596,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ## § 7 Bestehen der Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000802377)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
 "Produktions- und Verfahrenstechnik" ist eine Note als arithmetisches
@@ -628,6 +637,7 @@ der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 8 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE000900307)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -642,6 +652,7 @@ Wiederholungsprüfung anmeldet.
 
 
 ## § 9 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE001002377)
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
 den bis dahin geltenden Vorschriften zu Ende geführt werden.
@@ -654,6 +665,7 @@ geltenden Vorschriften ablegen.
 
 
 ## § 10 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/lwmstrprv/BJNR006590991.html#BJNR006590991BJNE001100307)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

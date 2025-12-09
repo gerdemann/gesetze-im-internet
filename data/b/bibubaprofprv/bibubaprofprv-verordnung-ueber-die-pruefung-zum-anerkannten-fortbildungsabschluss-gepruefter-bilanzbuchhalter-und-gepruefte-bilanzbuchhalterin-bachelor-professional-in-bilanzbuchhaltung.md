@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 806-22-6-53 v. 26.10.2015 I 1819 (BibuchhFPrV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000100000)
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
@@ -39,6 +40,7 @@ auf Grund
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000300000)
 
 Diese Verordnung regelt
 
@@ -58,6 +60,7 @@ Diese Verordnung regelt
 
 
 ## § 2 Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000400000)
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Bilanzbuchhalter-Bachelor Professional
@@ -129,6 +132,7 @@ Bilanzbuchhalter“ oder „Geprüfte Bilanzbuchhalterin“ vorangestellt.
 
 
 ## § 3 Voraussetzung für die Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000500000)
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des
 Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
@@ -176,6 +180,7 @@ Prüfung rechtfertigen.
 
 
 ## § 4 Gliederung und Handlungsbereiche der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000600000)
 
 (1) Die Prüfung besteht aus einem schriftlichen Teil und einem
 mündlichen Teil.
@@ -210,6 +215,7 @@ mündlichen Teil.
 
 
 ## § 5 Schriftliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000700000)
 
 (1) Die schriftliche Prüfung wird auf der Grundlage einer Beschreibung
 einer betrieblichen Situation durchgeführt.
@@ -231,6 +237,7 @@ drei Aufgabenstellungen situationsbezogen thematisiert werden.
 
 
 ## § 6 Mündliche Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000800000)
 
 (1) Zur mündlichen Prüfung wird nur zugelassen, wer die schriftliche
 Prüfung bestanden hat.
@@ -266,6 +273,7 @@ Fachgespräch soll nicht länger als 30 Minuten dauern.
 
 
 ## § 7 Handlungsbereiche
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE000900000)
 
 (1) Im Handlungsbereich „Geschäftsvorfälle erfassen und nach
 Rechnungslegungsvorschriften zu Abschlüssen führen“ soll die zu
@@ -537,6 +545,7 @@ Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
 
 ## § 8 Befreiung von einzelnen Prüfungsbestandteilen
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001000000)
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des
 Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
@@ -549,6 +558,7 @@ zugrunde zu legen.
 
 
 ## § 9 Bewerten der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001100000)
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
@@ -581,6 +591,7 @@ das gewichtete arithmetische Mittel berechnet. Dabei werden gewichtet:
 
 
 ## § 10 Bestehen der Prüfung, Gesamtnote
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001200000)
 
 (1) Die Prüfung ist bestanden, wenn in jeder der drei
 Aufgabenstellungen der schriftlichen Prüfung und in der nicht
@@ -608,6 +619,7 @@ Gesamtnote.
 
 
 ## § 11 Zeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001300000)
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
 zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
@@ -634,6 +646,7 @@ Information (Bemerkungen) enthalten, insbesondere
 
 
 ## § 12 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001400000)
 
 (1) Ist die schriftliche oder die mündliche Prüfung nicht bestanden,
 kann sie jeweils zweimal wiederholt werden.
@@ -653,6 +666,7 @@ diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 
 ## § 13 Ausbildereignung
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001500000)
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der Ausbilder-Eignungsverordnung
@@ -660,6 +674,7 @@ befreit.
 
 
 ## § 14 Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001600000)
 
 (1) Auf Antrag bei der zuständigen Stelle kann eine Prüfung zu dem
 Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter
@@ -784,6 +799,7 @@ Anlage 2 aus.
 
 
 ## § 15 Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001700000)
 
 (1) Nach der Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015
 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember
@@ -808,6 +824,7 @@ erreicht worden sind.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Bilanzbuchhalterprüfungsverordnung vom 26.
@@ -818,6 +835,7 @@ Kraft.
 (zu den §§ 9, 10 und 14)
 
 ## Anlage 1 Bewertungsmaßstab und -schlüssel
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE001900000)
 
 (Fundstelle: BGBl. I 2020, 3076 - 3077)
 
@@ -1119,6 +1137,7 @@ Kraft.
 (zu den §§ 11 und 14)
 
 ## Anlage 2 Zeugnisinhalte
+[Direktlink](https://www.gesetze-im-internet.de/bibubaprofprv/BJNR307000020.html#BJNR307000020BJNE002000000)
 
 (Fundstelle: BGBl. I 2020, 3078)
 

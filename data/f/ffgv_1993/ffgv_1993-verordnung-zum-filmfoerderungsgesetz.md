@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000100308)
 
 Auf Grund des § 43 des Filmförderungsgesetzes in der Fassung der
 Bekanntmachung vom 25. Januar 1993 (BGBl. I S. 66) verordnet das
@@ -27,6 +28,7 @@ Bundesministerium für Wirtschaft:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000200308)
 
 (1) Die Auszeichnungen (erste Preise), die einem Kurzfilm oder einem
 nicht programmfüllenden Kinder- oder Jugendfilm im Sinne des § 15 Abs.
@@ -41,16 +43,19 @@ zusammen mit mehr als einem weiteren Film zuerkannt wird.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000300308)
 
 -
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000400308)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage 1 (zu § 1 Abs. 1 Satz 1)
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000501320)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2605
 
@@ -84,6 +89,7 @@ World Festival of Animated Films Zagreb
 
 
 ## Anlage 2 (zu § 1 Abs. 1 Satz 2)
+[Direktlink](https://www.gesetze-im-internet.de/ffgv_1993/BJNR056200993.html#BJNR056200993BJNE000602320)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2606
 

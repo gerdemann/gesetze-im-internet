@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## I.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-01/BJNR105300991.html#BJNR105300991BJNE000100333)
 
 Dem Bundesministerium für Gesundheit werden übertragen:
 
@@ -35,6 +36,7 @@ Dem Bundesministerium für Gesundheit werden übertragen:
 
 
 ## II.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-01/BJNR105300991.html#BJNR105300991BJNE000200333)
 
 Dem Bundesministerium für Familie und Senioren wird aus dem
 Geschäftsbereich des ehemaligen Bundesministeriums für Jugend,
@@ -43,12 +45,14 @@ Soziales übertragen.
 
 
 ## III.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-01/BJNR105300991.html#BJNR105300991BJNE000300333)
 
 Das Bundesministerium für Arbeit und Sozialordnung ist zuständig für
 Fragen der Absicherung bei Pflegebedürftigkeit.
 
 
 ## IV.
+[Direktlink](https://www.gesetze-im-internet.de/bkorgerl_1991-01/BJNR105300991.html#BJNR105300991BJNE000400333)
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten
 Bundesministern geregelt und dem Chef des Bundeskanzleramtes

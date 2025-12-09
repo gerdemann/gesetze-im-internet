@@ -28,6 +28,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000100000)
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des
 Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
@@ -40,6 +41,7 @@ dem Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000200000)
 
 Der Ausbildungsberuf des Kraftfahrzeugmechatronikers und der
 Kraftfahrzeugmechatronikerin wird staatlich anerkannt
@@ -55,11 +57,13 @@ Kraftfahrzeugmechatronikerin wird staatlich anerkannt
 
 
 ## § 2 Dauer der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000300000)
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
 
 ## § 3 Struktur der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000400000)
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte
 und die Ausbildungsinhalte in einem der Schwerpunkte
@@ -83,6 +87,7 @@ und die Ausbildungsinhalte in einem der Schwerpunkte
 
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000500000)
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
 Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
@@ -161,6 +166,7 @@ Kraftfahrzeugmechatronikerin gliedert sich in
 
 
 ## § 5 Durchführung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000600000)
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
 Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
@@ -182,6 +188,7 @@ durchzusehen.
 
 
 ## § 6 Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000700000)
 
 Die Abschluss- oder Gesellenprüfung besteht aus den beiden zeitlich
 auseinanderfallenden Teilen 1 und 2. Durch die Abschluss- oder
@@ -200,6 +207,7 @@ Berufsbefähigung erforderlich ist.
 
 
 ## § 7 Teil 1 der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000800000)
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung soll vor dem Ende des
 zweiten Ausbildungsjahres stattfinden.
@@ -281,6 +289,7 @@ Prüfungsbereich Serviceauftrag.
 
 
 ## § 8 Teil 2 der Abschluss- oder Gesellenprüfung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE000900000)
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf die
 in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -504,6 +513,7 @@ folgende Vorgaben:
 
 
 ## § 9 Gewichtungs- und Bestehensregelungen
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE001001377)
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -599,6 +609,7 @@ im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 10 Fortsetzung der Berufsausbildung
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE001100000)
 
 Die erfolgreich abgeschlossene Ausbildung zum
 Kraftfahrzeugservicemechaniker und zur
@@ -609,6 +620,7 @@ dieser Verordnung fortgesetzt werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE001200000)
 
 (1) Diese Verordnung tritt am 1. August 2013 in Kraft.
 
@@ -622,6 +634,7 @@ und zur Mechanikerin für Karosserieinstandhaltungstechnik vom 25. Juli
 (zu § 4 Absatz 1)
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
+[Direktlink](https://www.gesetze-im-internet.de/kfzmechaausbv_2013/BJNR157800013.html#BJNR157800013BJNE001300000)
 
 
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

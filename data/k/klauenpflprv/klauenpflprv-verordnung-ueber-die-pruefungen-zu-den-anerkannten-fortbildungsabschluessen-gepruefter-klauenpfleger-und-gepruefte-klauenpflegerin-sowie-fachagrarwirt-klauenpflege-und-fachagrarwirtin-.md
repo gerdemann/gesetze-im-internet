@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000100000)
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
 Berufsbildungsgesetzes, dessen Absatz 3 durch Artikel 232 Nummer 3
@@ -30,9 +31,11 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## Abschnitt 1 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Klauenpfleger und Geprüfte Klauenpflegerin
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNG000100000)
 
 
 ### § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000200000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die
 durch die berufliche Fortbildung zum Geprüften Klauenpfleger und zur
@@ -90,6 +93,7 @@ Klauenpflegerin“.
 
 
 ### § 2 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000300000)
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -122,6 +126,7 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 3 Gliederung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000400000)
 
 (1) Die Prüfung beinhaltet die Prüfungsteile:
 
@@ -140,6 +145,7 @@ worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 4 Prüfungsteil „Tiergesundheit und Tierschutz“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000500000)
 
 (1) Der Prüfling soll nachweisen, dass er den Zustand von Klauen und
 die Durchführung von Klauenpflegearbeiten beurteilen und dabei
@@ -154,6 +160,7 @@ bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
 
 ### § 5 Prüfungsteil „Funktionelle Klauenpflege“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000600000)
 
 (1) Der Prüfling soll nachweisen, dass er Maßnahmen der Klauenpflege
 unter Berücksichtigung der Tiergesundheit, des Tierschutzes, des
@@ -213,6 +220,7 @@ höchstens 20 Minuten geführt werden.
 
 
 ### § 6 Prüfungsteil „Rechtsgrundlagen, Wirtschafts- und Sozialkunde“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000700000)
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
 und soziale Zusammenhänge in seinem Aufgabenbereich erkennen,
@@ -246,6 +254,7 @@ Inhalten zu bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 
 ### § 7 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000800000)
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
 einzelner Prüfungsteile nach § 3 Absatz 1 freistellen, wenn in den
@@ -257,6 +266,7 @@ Prüfungsinhalte nach dieser Verordnung entspricht.
 
 
 ### § 8 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE000900000)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten.
 
@@ -305,6 +315,7 @@ der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
 
 ### § 9 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001000000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -318,9 +329,11 @@ bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ## Abschnitt 2 - Prüfung zum anerkannten Fortbildungsabschluss Fachagrarwirt Klauenpflege und Fachagrarwirtin Klauenpflege
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNG000200000)
 
 
 ### § 10 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001100000)
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die
 durch die berufliche Fortbildung zum Fachagrarwirt Klauenpflege und
@@ -384,6 +397,7 @@ Fortbildungsabschluss „Fachagrarwirt Klauenpflege“ oder
 
 
 ### § 11 Zulassungsvoraussetzungen
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001200000)
 
 (1) Zur Prüfung ist zuzulassen, wer einen Fortbildungsabschluss
 „Geprüfter Klauenpfleger“ oder „Geprüfte Klauenpflegerin“ sowie eine
@@ -398,6 +412,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 12 Gliederung und Inhalt der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001300000)
 
 (1) Die Prüfung umfasst die Prüfungsteile:
 
@@ -416,6 +431,7 @@ Zulassung zur Prüfung rechtfertigen.
 
 
 ### § 13 Prüfungsteil „Rechtliche Bestimmungen“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001400000)
 
 (1) Der Prüfling soll nachweisen, dass er die berufsbezogenen
 Rechtsvorschriften, insbesondere aus den Bereichen Arbeits- und
@@ -430,6 +446,7 @@ bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
 
 ### § 14 Prüfungsteil „Betriebs- und Unternehmensführung“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001500000)
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
 und soziale Zusammenhänge im Betrieb erkennen, analysieren und
@@ -507,6 +524,7 @@ aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt
 
 
 ### § 15 Prüfungsteil „Mitarbeiterführung und Qualifizierung“
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001600000)
 
 (1) Der Prüfling soll nachweisen, dass er Mitarbeiter eines
 Klauenpflegebetriebes unter Anwendung berufs- und arbeitspädagogischer
@@ -553,6 +571,7 @@ aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt
 
 
 ### § 16 Anrechnung anderer Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001700000)
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
 einzelner Prüfungsbestandteile nach § 13 Absatz 2, § 14 Absatz 3 und §
@@ -565,6 +584,7 @@ Verordnung entspricht.
 
 
 ### § 17 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001800000)
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den
 Prüfungsteil „Betriebs- und Unternehmensführung“ ist eine Note als
@@ -626,6 +646,7 @@ der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
 
 ### § 18 Wiederholung der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE001900000)
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
 werden.
@@ -640,12 +661,14 @@ bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
 ### § 19 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE002000000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (zu § 8 Absatz 5)
 
 ### Anlage 1 Muster
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE002100000)
 
 (Fundstelle: BGBl. I 2011, 237)
 
@@ -718,6 +741,7 @@ S. 232) bestanden.
 (zu § 8 Absatz 5)
 
 ### Anlage 2 Muster
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE002200000)
 
 (Fundstelle: BGBl. I 2011, 238)
 
@@ -835,6 +859,7 @@ Prüfungsteil ...........   freigestellt. “)
 (zu § 17 Absatz 5)
 
 ### Anlage 3 Muster
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE002300000)
 
 (Fundstelle: BGBl. I 2011, 239)
 
@@ -901,6 +926,7 @@ S. 232) bestanden.
 (zu § 17 Absatz 5)
 
 ### Anlage 4 Muster
+[Direktlink](https://www.gesetze-im-internet.de/kla_npflprv/BJNR023200011.html#BJNR023200011BJNE002400000)
 
 (Fundstelle: BGBl. I 2011, 240)
 

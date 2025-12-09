@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000000000)
 
 Auf Grund des § 10 Abs. 2 des Behindertengleichstellungsgesetzes vom
 27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des
@@ -30,6 +31,7 @@ Sozialordnung:
 
 
 ## § 1 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000101119)
 
 (1) Die Verordnung gilt für alle blinden Menschen und Menschen mit
 anderen Sehbehinderungen nach Maßgabe des § 3 des
@@ -45,6 +47,7 @@ Behindertengleichstellungsgesetzes geltend machen.
 
 
 ## § 2 Gegenstand der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000201119)
 
 Der Anspruch nach § 10 Absatz 1 Satz 2 des
 Behindertengleichstellungsgesetzes umfasst Bescheide, öffentlich-
@@ -53,6 +56,7 @@ Anlagen, die die Dokumente in Bezug nehmen.
 
 
 ## § 3 Formen der Zugänglichmachung
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000300000)
 
 (1) Die Dokumente können den Berechtigten schriftlich, elektronisch,
 akustisch, mündlich oder in sonstiger Weise zugänglich gemacht werden.
@@ -69,6 +73,7 @@ maßgebend.
 
 
 ## § 4 Bekanntgabe
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000400000)
 
 Die Dokumente sollen den Berechtigten, soweit möglich, gleichzeitig
 mit der Bekanntgabe auch in der für sie wahrnehmbaren Form zugänglich
@@ -76,6 +81,7 @@ gemacht werden.
 
 
 ## § 5 Umfang des Anspruchs
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000501119)
 
 (1) Berechtigte haben zur Wahrnehmung eigener Rechte im
 Verwaltungsverfahren einen Anspruch darauf, dass ihnen Dokumente in
@@ -102,6 +108,7 @@ ihr Wahlrecht nach Absatz 2 Satz 1 hinzuweisen.
 
 
 ## § 6 Organisation und Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vbd/BJNR265200002.html#BJNR265200002BJNE000601119)
 
 (1) Die Dokumente können den Berechtigten durch den Träger
 öffentlicher Gewalt selbst, durch eine andere Behörde oder durch eine

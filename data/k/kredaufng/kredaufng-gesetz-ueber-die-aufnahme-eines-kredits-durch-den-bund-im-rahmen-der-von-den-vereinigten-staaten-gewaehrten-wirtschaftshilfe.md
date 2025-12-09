@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredaufng/BJNR003010952.html#BJNR003010952BJNE000100307)
 
 Der Bundesminister der Finanzen wird ermächtigt, einen Betrag bis zur
 Höhe von sechzehn Millionen neunhunderttausend US-Dollar im Wege des
@@ -26,6 +27,7 @@ Kredits zu beschaffen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredaufng/BJNR003010952.html#BJNR003010952BJNE000200307)
 
 Dieses Gesetz tritt mit dem Tage seiner Verkündung in Kraft.
 

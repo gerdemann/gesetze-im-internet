@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000100306)
 
 Auf Grund des Artikels 2 des Gesetzes über das deutsch-schweizerische
 Abkommen über die gegenseitige Anerkennung und Vollstreckung von
@@ -30,6 +31,7 @@ gerichtlichen Entscheidungen und Schiedssprüchen vom 28. Juli 1930
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000200306)
 
 Für die Vollstreckbarerklärung der in Artikel 1 des deutsch-
 schweizerischen Abkommens bezeichneten gerichtlichen Entscheidungen
@@ -43,6 +45,7 @@ Art, soweit die Entscheidung der Vollstreckbarerklärung bedarf.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000302310)
 
 (1) Auf das Verfahren sind § 1063 Abs. 1, § 1064 Abs. 2 sowie § 794
 Abs. 1 Nr. 4a der Zivilprozeßordnung entsprechend anzuwenden.
@@ -61,6 +64,7 @@ sind entsprechend anzuwenden.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000400306)
 
 Hängt die Vollstreckung der Entscheidung oder des Vergleichs nach
 deren Inhalt von dem Ablauf einer Frist oder von dem Eintritt einer
@@ -79,6 +83,7 @@ mündliche Verhandlung anzuordnen.
 
 
 ## Art 4
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000501307)
 
 Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
 den Anspruch geltend machen, soweit diese nach schweizerischem Recht
@@ -91,16 +96,19 @@ machen.
 
 
 ## Art 5
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000600306)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000700306)
 
 -
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000800306)
 
 Die Verordnung tritt gleichzeitig mit dem deutsch-schweizerischen
 Abkommen über die gegenseitige Anerkennung und Vollstreckung von
@@ -108,6 +116,7 @@ gerichtlichen Entscheidungen und Schiedssprüchen in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/vollstrabkcheav/BJNR212090930.html#BJNR212090930BJNE000900306)
 
 Der Reichsminister des Auswärtigen
 Der Reichsminister der Justiz

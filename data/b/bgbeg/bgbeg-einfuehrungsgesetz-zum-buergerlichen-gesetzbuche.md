@@ -23,14 +23,17 @@ Zuletzt geändert durch
 
 
 ## Erster Teil - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000103377)
 
 
 
 ### Erstes Kapitel - Inkrafttreten. Vorbehalt für Landesrecht. Gesetzesbegriff
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG001602377)
 
 
 
 ##### Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030900377)
 
 (1) Das Bürgerliche Gesetzbuch tritt am 1. Januar 1900 gleichzeitig
 mit einem Gesetz, betreffend Änderungen des
@@ -47,20 +50,24 @@ Kraft und können neue landesgesetzliche Vorschriften erlassen werden.
 
 
 ##### Art 2 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031000377)
 
 Gesetz im Sinne des Bürgerlichen Gesetzbuchs und dieses Gesetzes ist
 jede Rechtsnorm.
 
 
 ### Zweites Kapitel - Internationales Privatrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000702377)
 
 
 
 #### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000803140)
 
 
 
 ###### Art 3 - Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031108360)
 
 Soweit nicht
 
@@ -125,6 +132,7 @@ den Vorschriften dieses Kapitels (Internationales Privatrecht).
 
 
 ###### Art 4 - Verweisung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031201360)
 
 (1) Wird auf das Recht eines anderen Staates verwiesen, so ist auch
 dessen Internationales Privatrecht anzuwenden, sofern dies nicht dem
@@ -146,6 +154,7 @@ der Sachverhalt am engsten verbunden ist.
 
 
 ###### Art 5 - Personalstatut
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031300377)
 
 (1) Wird auf das Recht des Staates verwiesen, dem eine Person
 angehört, und gehört sie mehreren Staaten an, so ist das Recht
@@ -167,6 +176,7 @@ Anwendung eines anderen Rechts.
 
 
 ###### Art 6 - Öffentliche Ordnung (ordre public)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031400377)
 
 Eine Rechtsnorm eines anderen Staates ist nicht anzuwenden, wenn ihre
 Anwendung zu einem Ergebnis führt, das mit wesentlichen Grundsätzen
@@ -176,10 +186,12 @@ unvereinbar ist.
 
 
 #### Zweiter Abschnitt - Recht der natürlichen Personen und der Rechtsgeschäfte
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000902377)
 
 
 
 ###### Art 7 - Rechts- und Geschäftsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031501360)
 
 (1) Die Rechtsfähigkeit einer Person unterliegt dem Recht des Staates,
 dem die Person angehört. Die einmal erlangte Rechtsfähigkeit wird
@@ -194,6 +206,7 @@ des gewöhnlichen Aufenthalts nicht beeinträchtigt.
 
 
 ###### Art 7a - Geschlechtszugehörigkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055500360)
 
 (1) Die Geschlechtszugehörigkeit einer Person unterliegt dem Recht des
 Staates, dem die Person angehört.
@@ -209,6 +222,7 @@ beurkundet werden.
 
 
 ###### Art 8 - Gewillkürte Stellvertretung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031601123)
 
 (1) Auf die gewillkürte Stellvertretung ist das vom Vollmachtgeber vor
 der Ausübung der Vollmacht gewählte Recht anzuwenden, wenn die
@@ -266,6 +280,7 @@ den Dritten nicht erkennbar ist.
 
 
 ###### Art 9 - Todeserklärung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031700377)
 
 Die Todeserklärung, die Feststellung des Todes und des Todeszeitpunkts
 sowie Lebens- und Todesvermutungen unterliegen dem Recht des Staates,
@@ -277,6 +292,7 @@ Interesse besteht.
 
 
 ###### Art 10 - Name
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031802360)
 
 (1) Der Name einer Person unterliegt den Sachvorschriften des Staates,
 in dem sie ihren gewöhnlichen Aufenthalt hat.
@@ -322,6 +338,7 @@ Kindes ist § 1617c des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
 
 
 ###### Art 11 - Form von Rechtsgeschäften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG031901140)
 
 (1) Ein Rechtsgeschäft ist formgültig, wenn es die Formerfordernisse
 des Rechts, das auf das seinen Gegenstand bildende Rechtsverhältnis
@@ -345,6 +362,7 @@ Gegenstand bildende Rechtsverhältnis anzuwenden ist.
 
 
 ###### Art 12 - Schutz des anderen Vertragsteils
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032000377)
 
 Wird ein Vertrag zwischen Personen geschlossen, die sich in demselben
 Staat befinden, so kann sich eine natürliche Person, die nach den
@@ -359,10 +377,12 @@ anderen Staat belegenes Grundstück.
 
 
 #### Dritter Abschnitt - Familienrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG001002377)
 
 
 
 ###### Art 13 - Eheschließung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032101123)
 
 (1) Die Voraussetzungen der Eheschließung unterliegen für jeden
 Verlobten dem Recht des Staates, dem er angehört.
@@ -412,6 +432,7 @@ Eheschließung.
 
 
 ###### Art 14 - Allgemeine Ehewirkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032201360)
 
 (1) Soweit allgemeine Ehewirkungen nicht in den Anwendungsbereich der
 Verordnung (EU) 2016/1103 fallen, unterliegen sie dem von den
@@ -459,6 +480,7 @@ entspricht.
 
 
 ###### Art 15 - Gegenseitige Vertretung von Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032302360)
 
 In Angelegenheiten der Gesundheitssorge, die im Inland wahrgenommen
 werden, ist § 1358 des Bürgerlichen Gesetzbuchs auch dann anzuwenden,
@@ -467,9 +489,11 @@ wäre.
 
 
 ###### Art 16 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032401360)
 
 
 ###### Art 17 - Sonderregelungen zur Scheidung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032504360)
 
 (1) Soweit vermögensrechtliche Scheidungsfolgen nicht in den
 Anwendungsbereich der Verordnung (EU) 2016/1103 oder der Verordnung
@@ -526,6 +550,7 @@ der gesamten Ehezeit der Billigkeit nicht widerspricht.
 
 
 ###### Art 17a - Ehewohnung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032602360)
 
 Betretungs-, Näherungs- und Kontaktverbote, die mit einer im Inland
 belegenen Ehewohnung zusammenhängen, unterliegen den deutschen
@@ -533,6 +558,7 @@ Sachvorschriften.
 
 
 ###### Art 17b - Eingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032711360)
 
 (1) Die Begründung, die Auflösung und die nicht in den
 Anwendungsbereich der Verordnung (EU) 2016/1104 fallenden allgemeinen
@@ -575,10 +601,12 @@ treffen.
 
 
 ###### Art 18 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032801160)
 
 
 
 ###### Art 19 - Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG032901360)
 
 (1) Die Abstammung eines Kindes unterliegt dem Recht des Staates, in
 dem das Kind seinen gewöhnlichen Aufenthalt hat. Sie kann im
@@ -596,6 +624,7 @@ gewöhnlichen Aufenthalt hat.
 
 
 ###### Art 20 - Anfechtung der Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033000377)
 
 Die Abstammung kann nach jedem Recht angefochten werden, aus dem sich
 ihre Voraussetzungen ergeben. Das Kind kann die Abstammung in jedem
@@ -604,6 +633,7 @@ gewöhnlichen Aufenthalt hat.
 
 
 ###### Art 21 - Wirkungen des Eltern-Kind-Verhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033100377)
 
 Das Rechtsverhältnis zwischen einem Kind und seinen Eltern unterliegt
 dem Recht des Staates, in dem das Kind seinen gewöhnlichen Aufenthalt
@@ -611,6 +641,7 @@ hat.
 
 
 ###### Art 22 - Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033203360)
 
 (1) Die Annahme als Kind im Inland unterliegt dem deutschen Recht. Im
 Übrigen unterliegt sie dem Recht des Staates, in dem der Anzunehmende
@@ -634,6 +665,7 @@ achtzehnte Lebensjahr vollendet hatte.
 
 
 ###### Art 23 - Zustimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033302360)
 
 Die Erforderlichkeit und die Erteilung der Zustimmung des Kindes und
 einer Person, zu der das Kind in einem familienrechtlichen Verhältnis
@@ -643,6 +675,7 @@ erforderlich ist, ist statt dessen das deutsche Recht anzuwenden.
 
 
 ###### Art 24 - Vormundschaft, Betreuung und Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033401360)
 
 (1) Die Entstehung, die Ausübung, die Änderung und das Ende eines
 Fürsorgeverhältnisses (Vormundschaft, Betreuung, Pflegschaft), das
@@ -662,10 +695,12 @@ deutschem Recht.
 
 
 #### Vierter Abschnitt - Erbrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG001102377)
 
 
 
 ###### Art 25 - Rechtsnachfolge von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033501360)
 
 Soweit die Rechtsnachfolge von Todes wegen nicht in den
 Anwendungsbereich der Verordnung (EU) Nr. 650/2012 fällt, gelten die
@@ -673,6 +708,7 @@ Vorschriften des Kapitels III dieser Verordnung entsprechend.
 
 
 ###### Art 26 - Form von Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033601360)
 
 (1) In Ausführung des Artikels 3 des Haager Übereinkommens vom 5.
 Oktober 1961 über das auf die Form letztwilliger Verfügungen
@@ -690,14 +726,17 @@ der Verordnung (EU) Nr. 650/2012 maßgeblich.
 
 
 #### Fünfter Abschnitt - Außervertragliche Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG001203140)
 
 
 
 ###### Art 27 bis 37 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG033701140)
 
 
 
 ###### Art 38 - Ungerechtfertigte Bereicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG034900377)
 
 (1) Bereicherungsansprüche wegen erbrachter Leistung unterliegen dem
 Recht, das auf das Rechtsverhältnis anzuwenden ist, auf das die
@@ -713,6 +752,7 @@ eingetreten ist.
 
 
 ###### Art 39 - Geschäftsführung ohne Auftrag
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035000377)
 
 (1) Gesetzliche Ansprüche aus der Besorgung eines fremden Geschäfts
 unterliegen dem Recht des Staates, in dem das Geschäft vorgenommen
@@ -723,6 +763,7 @@ unterliegen dem Recht, das auf die Verbindlichkeit anzuwenden ist.
 
 
 ###### Art 40 - Unerlaubte Handlung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035100377)
 
 (1) Ansprüche aus unerlaubter Handlung unterliegen dem Recht des
 Staates, in dem der Ersatzpflichtige gehandelt hat. Der Verletzte kann
@@ -763,6 +804,7 @@ Versicherungsvertrag unterliegt, dies vorsieht.
 
 
 ###### Art 41 - Wesentlich engere Verbindung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035200377)
 
 (1) Besteht mit dem Recht eines Staates eine wesentlich engere
 Verbindung als mit dem Recht, das nach den Artikeln 38 bis 40 Abs. 2
@@ -784,6 +826,7 @@ maßgebend wäre, so ist jenes Recht anzuwenden.
 
 
 ###### Art 42 - Rechtswahl
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035300377)
 
 Nach Eintritt des Ereignisses, durch das ein außervertragliches
 Schuldverhältnis entstanden ist, können die Parteien das Recht wählen,
@@ -791,10 +834,12 @@ dem es unterliegen soll. Rechte Dritter bleiben unberührt.
 
 
 #### Sechster Abschnitt - Sachenrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG029201377)
 
 
 
 ###### Art 43 - Rechte an einer Sache
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035400377)
 
 (1) Rechte an einer Sache unterliegen dem Recht des Staates, in dem
 sich die Sache befindet.
@@ -810,6 +855,7 @@ berücksichtigen.
 
 
 ###### Art 44 - Von Grundstücken ausgehende Einwirkungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035502140)
 
 Für Ansprüche aus beeinträchtigenden Einwirkungen, die von einem
 Grundstück ausgehen, gelten die Vorschriften der Verordnung (EG) Nr.
@@ -817,6 +863,7 @@ Grundstück ausgehen, gelten die Vorschriften der Verordnung (EG) Nr.
 
 
 ###### Art 45 - Transportmittel
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035601360)
 
 (1) Rechte an Luft-, Wasser- und Schienenfahrzeugen unterliegen dem
 Recht des Herkunftsstaats. Das ist
@@ -852,6 +899,7 @@ ist. Für die Rangfolge mehrerer Sicherungsrechte gilt Artikel 43 Abs.
 
 
 ###### Art 46 - Wesentlich engere Verbindung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035702140)
 
 Besteht mit dem Recht eines Staates eine wesentlich engere Verbindung
 als mit dem Recht, das nach den Artikeln 43 und 45 maßgebend wäre, so
@@ -859,14 +907,17 @@ ist jenes Recht anzuwenden.
 
 
 #### Siebter Abschnitt - Besondere Vorschriften zur Durchführung und Umsetzung international-privatrechtlicher Regelungen der Europäischen Union
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052602123)
 
 
 
 ##### Erster Unterabschnitt - Durchführung der Verordnung (EG) Nr. 864/2007
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052800140)
 
 
 
 ###### Art 46a - Umweltschädigungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052702140)
 
 Die geschädigte Person kann das ihr nach Artikel 7 der Verordnung (EG)
 Nr. 864/2007 zustehende Recht, ihren Anspruch auf das Recht des
@@ -876,10 +927,12 @@ ersten Termins oder dem Ende des schriftlichen Vorverfahrens ausüben.
 
 
 ##### Zweiter Unterabschnitt - Umsetzung international-privatrechtlicher Regelungen im Verbraucherschutz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052901123)
 
 
 
 ###### Art 46b - Verbraucherschutz für besondere Gebiete
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053003360)
 
 (1) Unterliegt ein Vertrag auf Grund einer Rechtswahl nicht dem Recht
 eines Mitgliedstaats der Europäischen Union oder eines anderen
@@ -960,6 +1013,7 @@ wenn
 
 
 ###### Art 46c - Pauschalreisen und verbundene Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054700123)
 
 (1) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine
 Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in
@@ -1027,10 +1081,12 @@ genommene Vertrag in den Bereich dieser Tätigkeit fällt.
 
 
 ##### Dritter Unterabschnitt - Durchführung der Verordnung (EG) Nr. 593/2008
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054800123)
 
 
 
 ###### Art 46d - Pflichtversicherungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053101123)
 
 (1) Ein Versicherungsvertrag über Risiken, für die ein Mitgliedstaat
 der Europäischen Union oder ein anderer Vertragsstaat des Abkommens
@@ -1044,10 +1100,12 @@ seinem Abschluss auf deutschem Recht beruht.
 
 
 ##### Vierter Unterabschnitt - Durchführung der Verordnung (EU) Nr. 1259/2010
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053901123)
 
 
 
 ###### Art 46e - Rechtswahl
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054001123)
 
 (1) Eine Rechtswahlvereinbarung nach Artikel 5 der Verordnung (EU) Nr.
 1259/2010 ist notariell zu beurkunden.
@@ -1058,10 +1116,12 @@ zum Schluss der mündlichen Verhandlung im ersten Rechtszug vornehmen.
 
 
 ### Drittes Kapitel - Angleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052301377)
 
 
 
 ##### Art 47 - Vor- und Familiennamen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052501377)
 
 (1) Hat eine Person nach einem anwendbaren ausländischen Recht einen
 Namen erworben und richtet sich ihr Name fortan nach deutschem Recht,
@@ -1104,6 +1164,7 @@ gegenüber einem deutschen Standesamt abgegeben werden.
 
 
 ##### Art 48 - Namenswahl
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035804360)
 
 Unterliegt der Name einer Person deutschem Recht, so kann sie durch
 Erklärung gegenüber dem Standesamt den Namen wählen, der in einem
@@ -1121,14 +1182,17 @@ Namenswahl nur für die Zukunft wirken soll. Die Erklärung muss
 
 
 ##### Art 49 - (Änderung anderer Vorschriften)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054100377)
 
 
 
 ## Zweiter Teil - Verhältnis des Bürgerlichen Gesetzbuchs zu den Reichsgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000203377)
 
 
 
 #### Art 50 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG035900377)
 
 Die Vorschriften der Reichsgesetze bleiben in Kraft. Sie treten jedoch
 insoweit außer Kraft, als sich aus dem Bürgerlichen Gesetzbuch oder
@@ -1136,6 +1200,7 @@ aus diesem Gesetz die Aufhebung ergibt.
 
 
 #### Art 51 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036000377)
 
 Soweit in dem Gerichtsverfassungsgesetz, der Zivilprozeßordnung, der
 Strafprozeßordnung, der Insolvenzordnung und in dem Anfechtungsgesetz
@@ -1146,6 +1211,7 @@ Schwägerschaft Anwendung.
 
 
 #### Art 52 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036100377)
 
 Ist auf Grund eines Reichsgesetzes dem Eigentümer einer Sache wegen
 der im öffentlichen Interesse erfolgenden Entziehung, Beschädigung
@@ -1159,6 +1225,7 @@ zustehen.
 
 
 #### Art 53 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036200377)
 
 (1) Ist in einem Falle des Artikel 52 die Entschädigung dem Eigentümer
 eines Grundstücks zu gewähren, so finden auf den
@@ -1183,6 +1250,7 @@ entsprechende Anwendung.
 
 
 #### Art 53a - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036300377)
 
 (1) Ist in einem Falle des Artikels 52 die Entschädigung dem
 Eigentümer eines eingetragenen Schiffs oder Schiffsbauwerks zu
@@ -1195,14 +1263,17 @@ entsprechend anzuwenden.
 
 
 #### Art 54 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036400377)
 
 
 
 ## Dritter Teil - Verhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000303377)
 
 
 
 #### Art 55 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036500377)
 
 Die privatrechtlichen Vorschriften der Landesgesetze treten außer
 Kraft, soweit nicht in dem Bürgerlichen Gesetzbuch oder in diesem
@@ -1210,6 +1281,7 @@ Gesetz ein anderes bestimmt ist.
 
 
 #### Art 56 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036600377)
 
 Unberührt bleiben die Bestimmungen der Staatsverträge, die ein
 Bundesstaat mit einem ausländischen Staat vor dem Inkrafttreten des
@@ -1217,10 +1289,12 @@ Bürgerlichen Gesetzbuchs geschlossen hat.
 
 
 #### Art 57 und 58 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036700377)
 
 
 
 #### Art 59 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Familienfideikommisse und Lehen, mit Einschluß der allodifizierten
@@ -1228,6 +1302,7 @@ Lehen, sowie über Stammgüter.
 
 
 #### Art 60 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG036900377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Bestellung einer Hypothek, Grundschuld oder Rentenschuld an einem
@@ -1238,6 +1313,7 @@ im Wege der Zwangsverwaltung suchen kann.
 
 
 #### Art 61 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037000377)
 
 Ist die Veräußerung oder Belastung eines Gegenstandes nach den in den
 Artikeln 57 bis 59 bezeichneten Vorschriften unzulässig oder nur
@@ -1248,12 +1324,14 @@ Nichtberechtigten herleiten, entsprechende Anwendung.
 
 
 #### Art 62 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037100377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Rentengüter.
 
 
 #### Art 63 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das
 Erbpachtrecht, mit Einschluß des Büdnerrechts und des Häuslerrechts,
@@ -1263,6 +1341,7 @@ Rechte entsprechende Anwendung.
 
 
 #### Art 64 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037300377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften über das
 Anerbenrecht in Ansehung landwirtschaftlicher und
@@ -1274,16 +1353,19 @@ nicht beschränken.
 
 
 #### Art 65 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037401140)
 
 
 
 #### Art 66 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Deich- und Sielrecht angehören.
 
 
 #### Art 67 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037600377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Bergrecht angehören.
@@ -1295,6 +1377,7 @@ Landesgesetze ein anderes bestimmen.
 
 
 #### Art 68 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037700377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks mit dem vererblichen und veräußerlichen
@@ -1305,6 +1388,7 @@ Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
 
 #### Art 69 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Jagd und Fischerei, unbeschadet der Vorschrift des § 958 Abs. 2 des
@@ -1313,31 +1397,37 @@ Gesetzbuchs über den Ersatz des Wildschadens.
 
 
 #### Art 70 bis 72 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG037900377)
 
 
 
 #### Art 73 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über Regalien.
 
 
 #### Art 74 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038100377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Zwangsrechte, Bannrechte und Realgewerbeberechtigungen.
 
 
 #### Art 75 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038200377)
 
 
 
 #### Art 76 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038300377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Verlagsrecht angehören.
 
 
 #### Art 77 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038400377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die Haftung
 des Staates, der Gemeinden und anderer Kommunalverbände (Provinzial-,
@@ -1349,6 +1439,7 @@ insoweit ausschließen, als der Staat oder der Kommunalverband haftet.
 
 
 #### Art 78 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die Beamten für die von ihnen angenommenen Stellvertreter und Gehilfen
@@ -1356,6 +1447,7 @@ in weiterem Umfang als nach dem Bürgerlichen Gesetzbuch haften.
 
 
 #### Art 79 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038600377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die zur amtlichen Feststellung des Wertes von Grundstücken bestellten
@@ -1365,6 +1457,7 @@ Gesetzbuch haften.
 
 
 #### Art 80 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038700377)
 
 (1) Unberührt bleiben, soweit nicht in dem Bürgerlichen Gesetzbuch
 eine besondere Bestimmung getroffen ist, die landesgesetzlichen
@@ -1378,6 +1471,7 @@ Pfründenrecht.
 
 
 #### Art 81 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Übertragbarkeit der Ansprüche der in Artikel 80 Abs. 1 bezeichneten
@@ -1388,6 +1482,7 @@ Aufrechnung gegen solche Ansprüche abweichend von der Vorschrift des §
 
 
 #### Art 82 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG038900377)
 
 Unberührt bleiben die Vorschriften der Landesgesetze über die
 Verfassung solcher Vereine, deren Rechtsfähigkeit auf staatlicher
@@ -1395,17 +1490,20 @@ Verleihung beruht.
 
 
 #### Art 83 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Waldgenossenschaften.
 
 
 #### Art 84 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039100377)
 
 (gegenstandslos)
 
 
 #### Art 85 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle des § 45 Abs. 3 des Bürgerlichen Gesetzbuchs das Vermögen des
@@ -1414,6 +1512,7 @@ oder Anstalt des öffentlichen Rechts anfällt.
 
 
 #### Art 86 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039301123)
 
 Vorschriften, die den Erwerb von Rechten durch Ausländer oder durch
 juristische Personen, die ihren satzungsmäßigen Sitz, ihre
@@ -1432,14 +1531,17 @@ Europäischen Union.
 
 
 #### Art 87 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039400377)
 
 
 
 #### Art 88 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039500377)
 
 
 
 #### Art 89 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039600377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die zum
 Schutz der Grundstücke und der Erzeugnisse von Grundstücken gestattete
@@ -1448,6 +1550,7 @@ Entrichtung von Pfandgeld oder Ersatzgeld.
 
 
 #### Art 90 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039700377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Rechtsverhältnisse, welche sich aus einer auf Grund des öffentlichen
@@ -1456,6 +1559,7 @@ erfolgten Sicherheitsleistung ergeben.
 
 
 #### Art 91 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 der Fiskus, eine Körperschaft, Stiftung oder Anstalt des öffentlichen
@@ -1469,10 +1573,12 @@ Eintragung.
 
 
 #### Art 92 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG039900377)
 
 
 
 #### Art 93 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Fristen, bis zu deren Ablauf gemietete Räume bei Beendigung des
@@ -1480,6 +1586,7 @@ Mietverhältnisses zu räumen sind.
 
 
 #### Art 94 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040101140)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche den
 Geschäftsbetrieb der Pfandleihanstalten betreffen.
@@ -1491,10 +1598,12 @@ Sache gewährten Darlehens herauszugeben.
 
 
 #### Art 95 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040200377)
 
 
 
 #### Art 96 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040300377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über einen mit
 der Überlassung eines Grundstücks in Verbindung stehenden
@@ -1504,6 +1613,7 @@ regeln, daß nicht besondere Vereinbarungen getroffen werden.
 
 
 #### Art 97 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040400377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Eintragung von Gläubigern des Bundesstaats in ein Staatsschuldbuch und
@@ -1522,6 +1632,7 @@ mit Zustimmung des Ehemanns verfügen kann.
 
 
 #### Art 98 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Rückzahlung oder Umwandlung verzinslicher Staatsschulden, für die
@@ -1530,6 +1641,7 @@ sind.
 
 
 #### Art 99 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040600377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 öffentlichen Sparkassen, unbeschadet der Vorschriften des § 808 des
@@ -1538,6 +1650,7 @@ Gesetzbuchs über die Anlegung von Mündelgeld.
 
 
 #### Art 100 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040700377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 bei Schuldverschreibungen auf den Inhaber, die der Bundesstaat oder
@@ -1558,6 +1671,7 @@ eine ihm angehörende Körperschaft, Stiftung oder Anstalt des
 
 
 #### Art 101 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche den
 Bundesstaat oder ihm angehörende Körperschaften, Stiftungen und
@@ -1571,6 +1685,7 @@ Einschluß der Kraftloserklärung, regeln.
 
 
 #### Art 102 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG040900377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Kraftloserklärung und die Zahlungssperre in Ansehung der im § 807 des
@@ -1583,10 +1698,12 @@ bestimmen.
 
 
 #### Art 103 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041000377)
 
 
 
 #### Art 104 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041100377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den
 Anspruch auf Rückerstattung mit Unrecht erhobener öffentlicher Abgaben
@@ -1594,6 +1711,7 @@ oder Kosten eines Verfahrens.
 
 
 #### Art 105 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 der Unternehmer eines
@@ -1604,6 +1722,7 @@ verantwortlich ist.
 
 
 #### Art 106 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041300377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen,
 wenn ein dem öffentlichen Gebrauch dienendes Grundstück zu einer
@@ -1614,6 +1733,7 @@ Betrieb verursacht wird.
 
 
 #### Art 107 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041400377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Verpflichtung zum Ersatz des Schadens, der durch das Zuwiderhandeln
@@ -1622,6 +1742,7 @@ verursacht wird.
 
 
 #### Art 108 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Verpflichtung zum Ersatz des Schadens, der bei einer Zusammenrottung,
@@ -1629,6 +1750,7 @@ einem Auflauf oder einem Aufruhr entsteht.
 
 
 #### Art 109 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041600377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die im
 öffentlichen Interesse erfolgende Entziehung, Beschädigung oder
@@ -1643,6 +1765,7 @@ genügt.
 
 
 #### Art 110 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041700377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für den
 Fall, daß zerstörte Gebäude in anderer Lage wiederhergestellt werden,
@@ -1650,6 +1773,7 @@ die Rechte an den beteiligten Grundstücken regeln.
 
 
 #### Art 111 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche im
 öffentlichen Interesse das Eigentum in Ansehung tatsächlicher
@@ -1657,6 +1781,7 @@ Verfügungen beschränken.
 
 
 #### Art 112 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG041900377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Behandlung der einem Eisenbahn- oder Kleinbahnunternehmen gewidmeten
@@ -1671,6 +1796,7 @@ zusteht.
 
 
 #### Art 113 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Zusammenlegung von Grundstücken, über die Gemeinheitsteilung, die
@@ -1685,6 +1811,7 @@ Berichtigung des Grundbuchs beziehen.
 
 
 #### Art 114 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042100377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die dem Staat oder einer öffentlichen Anstalt infolge der Ordnung der
@@ -1696,6 +1823,7 @@ der Eintragung bedürfen.
 
 
 #### Art 115 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks mit gewissen Grunddienstbarkeiten oder
@@ -1706,6 +1834,7 @@ bestimmen.
 
 
 #### Art 116 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042300377)
 
 Die in den Artikeln 113 bis 115 bezeichneten landesgesetzlichen
 Vorschriften finden keine Anwendung auf die nach den §§ 912, 916 und
@@ -1715,6 +1844,7 @@ Unterhaltungspflichten.
 
 
 #### Art 117 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042400377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks über eine bestimmte Wertgrenze hinaus
@@ -1729,6 +1859,7 @@ beschränken und bei Rentenschulden nur für eine kürzere als die in §
 
 
 #### Art 118 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche einer
 Geldrente, Hypothek, Grundschuld oder Rentenschuld, die dem Staat oder
@@ -1740,6 +1871,7 @@ Anwendung.
 
 
 #### Art 119 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042601360)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 
@@ -1755,6 +1887,7 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 
 
 #### Art 120 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042700377)
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, nach
 welchen im Falle der Veräußerung eines Teiles eines Grundstücks dieser
@@ -1785,6 +1918,7 @@ welchen unter der gleichen Voraussetzung:
 
 
 #### Art 121 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle der Teilung eines für den Staat oder eine öffentliche Anstalt
@@ -1795,6 +1929,7 @@ Reallasten belastet werden.
 
 
 #### Art 122 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG042900377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Rechte des Eigentümers eines Grundstücks in Ansehung der auf der
@@ -1804,6 +1939,7 @@ Gesetzbuchs bestimmen.
 
 
 #### Art 123 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche das
 Recht des Notwegs zum Zwecke der Verbindung eines Grundstücks mit
@@ -1811,6 +1947,7 @@ einer Wasserstraße oder einer Eisenbahn gewähren.
 
 
 #### Art 124 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043100377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche das
 Eigentum an Grundstücken zugunsten der Nachbarn noch anderen als den
@@ -1821,6 +1958,7 @@ Grenze gehalten werden dürfen.
 
 
 #### Art 125 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Vorschrift des § 26 der Gewerbeordnung auf Eisenbahn-,
@@ -1828,6 +1966,7 @@ Dampfschiffahrts- und ähnliche Verkehrsunternehmungen erstrecken.
 
 
 #### Art 126 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043300377)
 
 Durch Landesgesetz kann das dem Staat an einem Grundstück zustehende
 Eigentum auf einen Kommunalverband und das einem Kommunalverband an
@@ -1836,6 +1975,7 @@ oder auf den Staat übertragen werden.
 
 
 #### Art 127 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043400377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Übertragung des Eigentums an einem Grundstück, das im Grundbuch nicht
@@ -1844,6 +1984,7 @@ nach der Übertragung nicht eingetragen zu werden braucht.
 
 
 #### Art 128 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Begründung und Aufhebung einer Dienstbarkeit an einem Grundstück, das
@@ -1852,6 +1993,7 @@ Grundbuchordnung nicht eingetragen zu werden braucht.
 
 
 #### Art 129 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043600377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 das Recht zur Aneignung eines nach § 928 des Bürgerlichen Gesetzbuchs
@@ -1860,6 +2002,7 @@ Person zusteht.
 
 
 #### Art 130 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043700377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Aneignung der einem anderen gehörenden, im Freien betroffenen
@@ -1867,6 +2010,7 @@ Tauben.
 
 
 #### Art 131 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043800377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für den
 Fall, daß jedem der Miteigentümer eines mit einem Gebäude versehenen
@@ -1879,12 +2023,14 @@ Gemeinschaft zu verlangen, versagen.
 
 
 #### Art 132 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG043900377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Kirchenbaulast und die Schulbaulast.
 
 
 #### Art 133 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044000377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Benutzung eines Platzes in einem dem öffentlichen Gottesdienst
@@ -1892,10 +2038,12 @@ gewidmeten Gebäude oder auf einer öffentlichen Begräbnisstätte.
 
 
 #### Art 134 bis 136 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044100377)
 
 
 
 #### Art 137 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044200377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Grundsätze, nach denen in den Fällen des § 1376 Abs. 4, § 1515 Abs. 2
@@ -1908,6 +2056,7 @@ ist, der Ertragswert eines Landguts festzustellen ist.
 
 
 #### Art 138 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044300377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle des § 1936 des Bürgerlichen Gesetzbuchs an Stelle des Fiskus
@@ -1916,6 +2065,7 @@ gesetzlicher Erbe ist.
 
 
 #### Art 139 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044400377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 dem Fiskus oder einer anderen juristischen Person in Ansehung des
@@ -1924,6 +2074,7 @@ ein Pflichtteilsanspruch oder ein Recht auf bestimmte Sachen zusteht.
 
 
 #### Art 140 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044500377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 das Nachlaßgericht auch unter anderen als den in § 1960 Abs. 1 des
@@ -1934,10 +2085,12 @@ Siegeln, von Amts wegen anordnen kann oder soll.
 
 
 #### Art 141 und 142 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044600377)
 
 
 
 #### Art 143 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044700377)
 
 (1) (weggefallen)
 
@@ -1949,6 +2102,7 @@ Versteigerungstermin stattfindet.
 
 
 #### Art 144 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044801360)
 
 Die Landesgesetze können bestimmen, daß das Jugendamt die
 Beistandschaft mit Zustimmung des Elternteils auf einen nach § 54 des
@@ -1957,10 +2111,12 @@ Achten Buches Sozialgesetzbuch anerkannten Vormundschaftsverein
 
 
 #### Art 145 und 146 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG044900377)
 
 
 
 #### Art 147 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045002140)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen für
 die Aufgaben des Betreuungsgerichts oder des Nachlassgerichts andere
@@ -1968,14 +2124,17 @@ Stellen als Gerichte zuständig sind.
 
 
 #### Art 148 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045101360)
 
 
 
 #### Art 149 bis 151 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045200377)
 
 
 
 #### Art 152 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045300377)
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für die
 nicht nach den Vorschriften der Zivilprozeßordnung zu erledigenden
@@ -1987,14 +2146,17 @@ entsprechende Anwendung.
 
 
 ## Vierter Teil - Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG000403377)
 
 
 
 #### Art 153 bis 156 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045400377)
 
 
 
 #### Art 157 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045500377)
 
 Die Vorschriften der französischen und der badischen Gesetze über den
 erwählten Wohnsitz bleiben für Rechtsverhältnisse, die sich nach
@@ -2003,10 +2165,12 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs erwählt worden ist.
 
 
 #### Art 158 bis 162 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045600377)
 
 
 
 #### Art 163 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045700377)
 
 Auf die zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehenden juristischen Personen finden von dieser Zeit an die
@@ -2016,6 +2180,7 @@ ein anderes ergibt.
 
 
 #### Art 164 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045800377)
 
 In Kraft bleiben die landesgesetzlichen Vorschriften über die zur Zeit
 des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehenden
@@ -2028,6 +2193,7 @@ Grundbesitz geknüpft ist oder nicht.
 
 
 #### Art 165 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG045900377)
 
 In Kraft bleiben die Vorschriften der bayerischen Gesetze, betreffend
 die privatrechtliche Stellung der Vereine sowie der Erwerbs- und
@@ -2038,6 +2204,7 @@ bestehen.
 
 
 #### Art 166 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046000377)
 
 In Kraft bleiben die Vorschriften des sächsischen Gesetzes vom 15.
 Juni 1868, betreffend die juristischen Personen, in Ansehung
@@ -2047,6 +2214,7 @@ Genossenschaftsregister erlangt haben.
 
 
 #### Art 167 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046100377)
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, welche die zur
 Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehenden
@@ -2054,6 +2222,7 @@ landschaftlichen oder ritterschaftlichen Kreditanstalten betreffen.
 
 
 #### Art 168 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046200377)
 
 Eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Verfügungsbeschränkung bleibt wirksam, unbeschadet der
@@ -2062,6 +2231,7 @@ Rechte von einem Nichtberechtigten herleiten.
 
 
 #### Art 169 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046300377)
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 finden auf die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
@@ -2079,12 +2249,14 @@ Verjährung mit dem Ablauf der längeren Frist vollendet.
 
 
 #### Art 170 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046400377)
 
 Für ein Schuldverhältnis, das vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs entstanden ist, bleiben die bisherigen Gesetze maßgebend.
 
 
 #### Art 171 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046500377)
 
 Ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehendes Miet-, Pacht- oder Dienstverhältnis bestimmt sich, wenn
@@ -2095,6 +2267,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs.
 
 
 #### Art 172 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046600377)
 
 Wird eine Sache, die zur Zeit des Inkrafttretens des Bürgerlichen
 Gesetzbuchs vermietet oder verpachtet war, nach dieser Zeit veräußert
@@ -2106,6 +2279,7 @@ unberührt, unbeschadet der Vorschrift des Artikels 171.
 
 
 #### Art 173 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046700377)
 
 Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Gemeinschaft nach Bruchteilen finden von dieser Zeit an die
@@ -2113,6 +2287,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
 
 #### Art 174 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046800377)
 
 (1) Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten für
 die vorher ausgestellten Schuldverschreibungen auf den Inhaber die
@@ -2130,6 +2305,7 @@ Bürgerlichen Gesetzbuchs, nach den bisherigen Gesetzen.
 
 
 #### Art 175 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG046900377)
 
 Für Zins-, Renten- und Gewinnanteilscheine, die nach dem Inkrafttreten
 des Bürgerlichen Gesetzbuchs für ein vor dieser Zeit ausgestelltes
@@ -2139,6 +2315,7 @@ ausgegebenen Scheine gleicher Art gelten.
 
 
 #### Art 176 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047000377)
 
 Die Außerkurssetzung von Schuldverschreibungen auf den Inhaber findet
 nach dem Inkrafttreten des Bürgerlichen Gesetzbuchs nicht mehr statt.
@@ -2147,6 +2324,7 @@ des Bürgerlichen Gesetzbuchs ihre Wirkung.
 
 
 #### Art 177 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047100377)
 
 Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten für
 vorher ausgegebene Urkunden der in § 808 des Bürgerlichen Gesetzbuchs
@@ -2157,6 +2335,7 @@ Urkunde zur Leistung verpflichtet ist, die Vorschriften des § 808 Abs.
 
 
 #### Art 178 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047200377)
 
 Ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 anhängiges Verfahren, das die Kraftloserklärung einer
@@ -2168,6 +2347,7 @@ Wirkungen des Verfahrens und der Entscheidung.
 
 
 #### Art 179 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047300377)
 
 Hat ein Anspruch aus einem Schuldverhältnis nach den bisherigen
 Gesetzen durch Eintragung in ein öffentliches Buch Wirksamkeit gegen
@@ -2176,6 +2356,7 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs.
 
 
 #### Art 180 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047400377)
 
 Auf ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehendes Besitzverhältnis finden von dieser Zeit an, unbeschadet
@@ -2184,6 +2365,7 @@ Anwendung.
 
 
 #### Art 181 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047500377)
 
 (1) Auf das zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Eigentum finden von dieser Zeit an die Vorschriften des
@@ -2197,6 +2379,7 @@ Rechte bestehen.
 
 
 #### Art 182 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047600377)
 
 Das zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Stockwerkseigentum bleibt bestehen. Das Rechtsverhältnis
@@ -2205,6 +2388,7 @@ Gesetzen.
 
 
 #### Art 183 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047700377)
 
 Zugunsten eines Grundstücks, das zur Zeit des Inkrafttretens des
 Bürgerlichen Gesetzbuchs mit Wald bestanden ist, bleiben die
@@ -2217,6 +2401,7 @@ Kraft.
 
 
 #### Art 184 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047800377)
 
 Rechte, mit denen eine Sache oder ein Recht zur Zeit des
 Inkrafttretens des Bürgerlichen Gesetzbuchs belastet ist, bleiben mit
@@ -2229,6 +2414,7 @@ Bürgerlichen Gesetzbuchs.
 
 
 #### Art 185 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG047900377)
 
 Ist zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs die
 Ersitzung des Eigentums oder Nießbrauchs an einer beweglichen Sache
@@ -2237,6 +2423,7 @@ des Artikel 169 entsprechende Anwendung.
 
 
 #### Art 186 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048000377)
 
 (1) Das Verfahren, in welchem die Anlegung der Grundbücher erfolgt,
 sowie der Zeitpunkt, in welchem das Grundbuch für einen Bezirk als
@@ -2251,6 +2438,7 @@ sind.
 
 
 #### Art 187 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048100377)
 
 (1) Eine Grunddienstbarkeit, die zu der Zeit besteht, zu welcher das
 Grundbuch als angelegt anzusehen ist, bedarf zur Erhaltung der
@@ -2268,6 +2456,7 @@ Bestimmung kann auf einzelne Grundbuchbezirke beschränkt werden.
 
 
 #### Art 188 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048200377)
 
 (1) Durch landesherrliche Verordnung kann bestimmt werden, daß
 gesetzliche Pfandrechte, die zu der Zeit bestehen, zu welcher das
@@ -2284,6 +2473,7 @@ der Eintragung bedürfen.
 
 
 #### Art 189 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048300377)
 
 (1) Der Erwerb und Verlust des Eigentums sowie die Begründung,
 Übertragung, Belastung und Aufhebung eines anderen Rechts an einem
@@ -2308,6 +2498,7 @@ bisherigen Gesetzen, bis das Recht in das Grundbuch eingetragen wird.
 
 
 #### Art 190 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048400377)
 
 Das nach § 928 Abs. 2 des Bürgerlichen Gesetzbuchs dem Fiskus
 zustehende Aneignungsrecht erstreckt sich auf alle Grundstücke, die zu
@@ -2317,6 +2508,7 @@ Anwendung.
 
 
 #### Art 191 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048500377)
 
 (1) Die bisherigen Gesetze über den Schutz im Besitz einer
 Grunddienstbarkeit oder einer beschränkten persönlichen Dienstbarkeit
@@ -2338,6 +2530,7 @@ worden ist.
 
 
 #### Art 192 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048600377)
 
 (1) Ein zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen
 ist, an einem Grundstück bestehendes Pfandrecht gilt von dieser Zeit
@@ -2352,6 +2545,7 @@ suchen kann, so bleibt diese Beschränkung bestehen.
 
 
 #### Art 193 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048700377)
 
 Durch Landesgesetz kann bestimmt werden, daß ein Pfandrecht, welches
 nach Artikel 192 nicht als Sicherungshypothek gilt, als
@@ -2361,6 +2555,7 @@ Erteilung des Hypothekenbriefs nicht ausgeschlossen ist, und daß eine
 
 
 #### Art 194 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048800377)
 
 Durch Landesgesetz kann bestimmt werden, daß ein Gläubiger, dessen
 Pfandrecht zu der im Artikel 192 bezeichneten Zeit besteht, die
@@ -2371,6 +2566,7 @@ Rechts auf Löschung eine Vormerkung im Grundbuch eingetragen wäre.
 
 
 #### Art 195 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG048900377)
 
 (1) Eine zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen
 ist, bestehende Grundschuld gilt von dieser Zeit an als Grundschuld im
@@ -2386,6 +2582,7 @@ Grundschuld erteilte Urkunde als Hypothekenbrief gelten soll.
 
 
 #### Art 196 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049000377)
 
 Durch Landesgesetz kann bestimmt werden, daß auf ein an einem
 Grundstück bestehendes vererbliches und übertragbares Nutzungsrecht
@@ -2396,6 +2593,7 @@ Anwendung finden.
 
 
 #### Art 197 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049100377)
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen in
 Ansehung solcher Grundstücke, bezüglich deren zur Zeit des
@@ -2406,6 +2604,7 @@ werden kann und der Gutsherr zu der Begründung verpflichtet ist.
 
 
 #### Art 198 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049200377)
 
 (1) Die Gültigkeit einer vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs geschlossenen Ehe bestimmt sich nach den bisherigen
@@ -2427,6 +2626,7 @@ Gesetzbuch gleich.
 
 
 #### Art 199 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049300377)
 
 Die persönlichen Rechtsbeziehungen der Ehegatten zueinander,
 insbesondere die gegenseitige Unterhaltspflicht, bestimmen sich auch
@@ -2435,6 +2635,7 @@ bestehenden Ehen nach dessen Vorschriften.
 
 
 #### Art 200 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049400377)
 
 (1) Für den Güterstand einer zur Zeit des Inkrafttretens des
 Bürgerlichen Gesetzbuchs bestehenden Ehe bleiben die bisherigen
@@ -2452,6 +2653,7 @@ sein würde.
 
 
 #### Art 201 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049500377)
 
 (1) Die Scheidung und die Aufhebung der ehelichen Gemeinschaft
 erfolgen von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an nach
@@ -2461,6 +2663,7 @@ dessen Vorschriften.
 
 
 #### Art 202 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049600377)
 
 Für die Wirkungen einer beständigen oder zeitweiligen Trennung von
 Tisch und Bett, auf welche vor dem Inkrafttreten des Bürgerlichen
@@ -2471,6 +2674,7 @@ in allen oder einzelnen Beziehungen der Auflösung der Ehe gleichsteht.
 
 
 #### Art 203 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049700377)
 
 Das Rechtsverhältnis zwischen den Eltern und einem vor dem
 Inkrafttreten des Bürgerlichen Gesetzbuchs geborenen ehelichen Kind
@@ -2479,10 +2683,12 @@ nach dessen Vorschriften.
 
 
 #### Art 204 bis 206 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049800377)
 
 
 
 #### Art 207 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG049900377)
 
 Inwieweit die Kinder aus einer vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs geschlossenen nichtigen oder ungültigen Ehe als eheliche
@@ -2492,6 +2698,7 @@ bisherigen Gesetzen.
 
 
 #### Art 208 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050000377)
 
 (1) Die rechtliche Stellung eines vor dem Inkrafttreten des
 Bürgerlichen Gesetzbuchs geborenen nichtehelichen Kindes bestimmt sich
@@ -2513,6 +2720,7 @@ französischen oder den badischen Gesetzen anerkanntes Kind.
 
 
 #### Art 209 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050100377)
 
 Inwieweit ein vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
 legitimiertes oder an Kindes Statt angenommenes Kind die rechtliche
@@ -2522,6 +2730,7 @@ nach den bisherigen Gesetzen.
 
 
 #### Art 210 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050200377)
 
 (1) Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Vormundschaft oder Pflegschaft finden von dieser Zeit an
@@ -2541,10 +2750,12 @@ Gesetzbuchs ein Gegenvormund nicht zu bestellen sein würde.
 
 
 #### Art 211 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050300377)
 
 
 
 #### Art 212 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050400377)
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen
 gewisse Wertpapiere zur Anlegung von Mündelgeld für geeignet erklärt
@@ -2552,6 +2763,7 @@ sind.
 
 
 #### Art 213 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050500377)
 
 Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor
 dem Inkrafttreten des Bürgerlichen Gesetzbuchs gestorben ist, die
@@ -2560,6 +2772,7 @@ Vorschriften über das erbschaftliche Liquidationsverfahren.
 
 
 #### Art 214 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050600377)
 
 (1) Die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs erfolgte
 Errichtung oder Aufhebung einer Verfügung von Todes wegen wird nach
@@ -2573,6 +2786,7 @@ Gesetzbuchs errichtet worden ist.
 
 
 #### Art 215 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050700377)
 
 (1) Wer vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs die
 Fähigkeit zur Errichtung einer Verfügung von Todes wegen erlangt und
@@ -2587,10 +2801,12 @@ errichtet hat.
 
 
 #### Art 216 - (gegenstandslos)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050800377)
 
 
 
 #### Art 217 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG050900377)
 
 (1) Die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs erfolgte
 Errichtung eines Erbverzichtsvertrags sowie die Wirkungen eines
@@ -2602,6 +2818,7 @@ aufgehoben worden ist.
 
 
 #### Art 218 - 
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051000377)
 
 Soweit nach den Vorschriften dieses Abschnitts die bisherigen
 Landesgesetze maßgebend bleiben, können sie nach dem Inkrafttreten des
@@ -2609,10 +2826,12 @@ Bürgerlichen Gesetzbuchs durch Landesgesetz auch geändert werden.
 
 
 ## Fünfter Teil - Übergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG022702377)
 
 
 
 #### Art 219 - Übergangsvorschrift zum Gesetz vom 8. November 1985 zur Neuordnung des landwirtschaftlichen Pachtrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051100377)
 
 (1) Pachtverhältnisse auf Grund von Verträgen, die vor dem 1. Juli
 1986 geschlossen worden sind, richten sich von da an nach der neuen
@@ -2636,6 +2855,7 @@ Pachtverträgen nach dem bisher geltenden Recht zu entscheiden.
 
 
 #### Art 220 - Übergangsvorschrift zum Gesetz vom 25. Juli 1986 zur Neuregelung des Internationalen Privatrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051201360)
 
 (1) Auf vor dem 1. September 1986 abgeschlossene Vorgänge bleibt das
 bisherige Internationale Privatrecht anwendbar.
@@ -2683,6 +2903,7 @@ einschließlich 28. Januar 2019 geltenden Fassung treffen.
 
 
 #### Art 221 - Übergangsvorschrift zum Gesetz vom 26. Juni 1990 zur Änderung des Arbeitsgerichtsgesetzes und anderer arbeitsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051300377)
 
 Bei einer vor dem 1. Juli 1990 zugegangenen Kündigung werden bei der
 Berechnung der Beschäftigungsdauer auch Zeiten, die zwischen der
@@ -2701,6 +2922,7 @@ Juli 1990
 
 
 #### Art 222 - Übergangsvorschrift zum Kündigungsfristengesetz vom 7. Oktober 1993
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051400377)
 
 Bei einer vor dem 15. Oktober 1993 zugegangenen Kündigung gilt Artikel
 1 des Kündigungsfristengesetzes vom 7. Oktober 1993 (BGBl. I S. 1668),
@@ -2738,6 +2960,7 @@ wenn am 15. Oktober 1993
 
 
 #### Art 223 - Übergangsvorschrift zum Beistandschaftsgesetz vom 4. Dezember 1997
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051500377)
 
 (1) Bestehende gesetzliche Amtspflegschaften nach den §§ 1706 bis 1710
 des Bürgerlichen Gesetzbuchs werden am 1. Juli 1998 zu
@@ -2764,6 +2987,7 @@ entsprechend. Diese Beistandschaften enden am 1. Januar 1999.
 
 
 #### Art 223a - Übergangsvorschrift aus Anlaß der Aufhebung von § 419 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051600377)
 
 § 419 des Bürgerlichen Gesetzbuchs ist in seiner bis zum Ablauf des
 31\. Dezember 1998 geltenden Fassung auf Vermögensübernahmen
@@ -2771,10 +2995,12 @@ anzuwenden, die bis zu diesem Zeitpunkt wirksam werden.
 
 
 #### Art 224 - Übergangsvorschrift zum Kindschaftsrechtsreformgesetz vom 16. Dezember 1997
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG028401377)
 
 
 
 #### § 1 Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030901377)
 
 (1) Die Vaterschaft hinsichtlich eines vor dem 1. Juli 1998 geborenen
 Kindes richtet sich nach den bisherigen Vorschriften.
@@ -2806,6 +3032,7 @@ beginnt frühestens am 1. Juli 1998.
 
 
 #### § 2 Elterliche Sorge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031003377)
 
 (1) Ist ein Kind auf Antrag des Vaters für ehelich erklärt worden, so
 ist dies als Entscheidung gemäß § 1671 Absatz 2 des Bürgerlichen
@@ -2823,6 +3050,7 @@ erklärt worden, so ist dies als Entscheidung gemäß § 1680 Abs. 2 Satz
 
 
 #### § 3 Name des Kindes
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031101377)
 
 (1) Führt ein vor dem 1. Juli 1998 geborenes Kind einen Geburtsnamen,
 so behält es diesen Geburtsnamen. § 1617a Abs. 2 und die §§ 1617b,
@@ -2866,6 +3094,7 @@ führen.
 
 
 #### Art 225 - Überleitungsvorschrift zum Wohnraummodernisierungssicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051700377)
 
 Artikel 231 § 8 Abs. 2 ist nicht anzuwenden, wenn vor dem 24. Juli
 1997 über den Bestand des Vertrages ein rechtskräftiges Urteil
@@ -2877,6 +3106,7 @@ Urteil ergangen oder eine Einigung der Beteiligten erfolgt ist.
 
 
 #### Art 226 - Überleitungsvorschrift zum Gesetz vom 4. Mai 1998 zur Neuordnung des Eheschließungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051800377)
 
 (1) Die Aufhebung einer vor dem 1. Juli 1998 geschlossenen Ehe ist
 ausgeschlossen, wenn die Ehe nach dem bis dahin geltenden Recht nicht
@@ -2893,6 +3123,7 @@ Anwendung.
 
 
 #### Art 227 - Übergangsvorschrift zum Gesetz zur erbrechtlichen Gleichstellung nichtehelicher Kinder vom 16. Dezember 1997
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG051900377)
 
 (1) Die bis zum 1. April 1998 geltenden Vorschriften über das Erbrecht
 des nichtehelichen Kindes sind weiter anzuwenden, wenn vor diesem
@@ -2915,6 +3146,7 @@ entsprechend.
 
 
 #### Art 228 - Übergangsvorschrift zum Überweisungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052000377)
 
 (1) Die §§ 675a bis 676g des Bürgerlichen Gesetzbuchs gelten nicht für
 Überweisungen, Übertragungs- und Zahlungsverträge, mit deren
@@ -2937,11 +3169,13 @@ Postgiroübereinkommen und dem Postanweisungsübereinkommen unberührt.
 
 
 #### Art 229 - Weitere Überleitungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030801377)
 
 (weggefallen)
 
 
 #### § 1 Überleitungsvorschrift zum Gesetz zur Beschleunigung fälliger Zahlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031301377)
 
 (1) § 284 Abs. 3 des Bürgerlichen Gesetzbuchs in der seit dem 1. Mai
 2000 geltenden Fassung gilt auch für Geldforderungen, die vor diesem
@@ -2961,6 +3195,7 @@ Frist erst mit dem 1. Mai 2000 beginnt.
 
 
 #### § 2 Übergangsvorschriften zum Gesetz vom 27. Juni 2000
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031203377)
 
 Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs
 sind nur auf Sachverhalte anzuwenden, die nach dem 29. Juni 2000
@@ -2968,6 +3203,7 @@ entstanden sind.
 
 
 #### § 3 Übergangsvorschriften zum Gesetz zur Neugliederung, Vereinfachung und Reform des Mietrechts vom 19. Juni 2001
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031503377)
 
 (1) Auf ein am 1. September 2001 bestehendes Mietverhältnis oder
 Pachtverhältnis sind
@@ -3119,6 +3355,7 @@ Bestimmungen weiterhin anwendbar.
 
 
 #### § 4 Übergangsvorschrift zum Zweiten Gesetz zur Änderung reiserechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031601377)
 
 (1) Die §§ 651k und 651l des Bürgerlichen Gesetzbuchs sind in ihrer
 seit dem 1. September 2001 geltenden Fassung nur auf Verträge
@@ -3150,6 +3387,7 @@ gelten für die nachfolgenden Zeiträume folgende Haftungshöchstsummen.
 
 
 #### § 5 Allgemeine Überleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE230201377)
 
 Auf Schuldverhältnisse, die vor dem 1. Januar 2002 entstanden sind,
 sind das Bürgerliche Gesetzbuch, das AGB-Gesetz, das
@@ -3169,6 +3407,7 @@ der dann geltenden Fassung anzuwenden sind.
 
 
 #### § 6 Überleitungsvorschrift zum Verjährungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE230301377)
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 in der seit dem 1. Januar 2002 geltenden Fassung finden auf die an
@@ -3218,6 +3457,7 @@ Handelsgesetzbuch und dem Umwandlungsgesetz entsprechend.
 
 
 #### § 7 Überleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE230401377)
 
 (1) Soweit sie als Bezugsgröße für Zinsen und andere Leistungen in
 Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts
@@ -3325,6 +3565,7 @@ entspricht.
 
 
 #### § 8 Übergangsvorschriften zum Zweiten Gesetz zur Änderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE230801377)
 
 (1) Die durch das Zweite Gesetz zur Änderung schadensersatzrechtlicher
 Vorschriften im
@@ -3405,6 +3646,7 @@ schädigende Ereignis nach dem 31. Dezember 2002 eingetreten ist.
 
 
 #### § 9 Überleitungsvorschrift zum OLG-Vertretungsänderungsgesetz vom 23. Juli 2002
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE230901377)
 
 (1) Die §§ 312a, 312d, 346, 355, 358, 491, 492, 494, 495, 497, 498,
 502, 505 und 506 des Bürgerlichen Gesetzbuchs in der seit dem 1.
@@ -3432,6 +3674,7 @@ Rückgaberecht erst nach diesem Zeitpunkt erteilt wird.
 
 
 #### § 10 Überleitungsvorschrift zum Gesetz zur Änderung der Vorschriften über die Anfechtung der Vaterschaft und das Umgangsrecht von Bezugspersonen des Kindes, zur Registrierung von Vorsorgeverfügungen und zur Einführung von Vordrucken für die Vergütung von Berufsbetreuern vom 23. April 2004
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023102377)
 
 Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen
 Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1
@@ -3439,6 +3682,7 @@ des Bürgerlichen Gesetzbuchs nicht vor dem 30. April 2004.
 
 
 #### § 11 Überleitungsvorschrift zu dem Gesetz zur Änderung der Vorschriften über Fernabsatzverträge bei Finanzdienstleistungen vom 2. Dezember 2004
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231001377)
 
 (1) Auf Schuldverhältnisse, die bis zum Ablauf des 7. Dezember 2004
 entstanden sind, finden das Bürgerliche Gesetzbuch und die BGB-
@@ -3456,6 +3700,7 @@ Finanzdienstleistungen sind.
 
 
 #### § 12 Überleitungsvorschrift zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231101377)
 
 (1) Auf die Verjährungsfristen gemäß den durch das Gesetz zur
 Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung
@@ -3545,11 +3790,13 @@ Verjährungsfrist eingerechnet.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231201377)
 
 (weggefallen)
 
 
 #### § 14 Übergangsvorschrift zum Zweiten Betreuungsrechtsänderungsgesetz vom 21. April 2005
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231301377)
 
 Die Vergütungs- und Aufwendungsersatzansprüche von Vormündern,
 Betreuern und Pflegern, die vor dem 1. Juli 2005 entstanden sind,
@@ -3559,6 +3806,7 @@ geltenden Vorschriften.
 
 
 #### § 15 Übergangsvorschrift zum Minderjährigenhaftungsbeschränkungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232000377)
 
 Soweit der volljährig Gewordene Verbindlichkeiten vor dem
 Inkrafttreten des Minderjährigenhaftungsbeschränkungsgesetzes vom 25.
@@ -3568,10 +3816,12 @@ aus ungerechtfertigter Bereicherung ausgeschlossen.
 
 
 #### § 16 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237001123)
 
 
 
 #### § 17 Übergangsvorschrift zum Gesetz zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237100140)
 
 Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs
 rechtskräftig abgewiesen worden, so ist eine Restitutionsklage nach §
@@ -3583,6 +3833,7 @@ Abstammung widerlegt.
 
 
 #### § 18 Übergangsvorschrift zum Risikobegrenzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237200140)
 
 (1) § 498 des Bürgerlichen Gesetzbuchs ist in seiner seit dem 19.
 August 2008 geltenden Fassung nur auf Verträge anzuwenden, die nach
@@ -3601,6 +3852,7 @@ die nach dem 19. August 2008 bestellt werden.
 
 
 #### § 19 Überleitungsvorschrift zum Forderungssicherungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237300140)
 
 (1) Die Vorschriften der §§ 204, 632a, 641, 648a und 649 des
 Bürgerlichen Gesetzbuchs in der seit dem 1. Januar 2009 geltenden
@@ -3613,6 +3865,7 @@ Zeitpunkt geltenden Fassung anzuwenden.
 
 
 #### § 20 Übergangsvorschrift zum Gesetz zur Änderung des Zugewinnausgleichs- und Vormundschaftsrechts vom 6. Juli 2009
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232101160)
 
 (1) Bei der Behandlung von Haushaltsgegenständen aus Anlass der
 Scheidung ist auf Haushaltsgegenstände, die vor dem 1. September 2009
@@ -3632,6 +3885,7 @@ Betreuungen (§ 1908i Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs).
 
 
 #### § 21 Übergangsvorschriften für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren und im Schiffsregisterverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236701360)
 
 (1) Eintragungen in das Grundbuch, die ein Recht einer Gesellschaft
 bürgerlichen Rechts betreffen, sollen nicht erfolgen, solange die
@@ -3686,6 +3940,7 @@ die Anmeldung zur Eintragung beim Schiffsregister erfolgte.
 
 
 #### § 22 Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232201140)
 
 (1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen
 zum Gegenstand haben und die vor dem 31. Oktober 2009 entstanden sind,
@@ -3708,6 +3963,7 @@ anzuwenden.
 
 
 #### § 23 Überleitungsvorschrift zum Gesetz zur Änderung des Erb- und Verjährungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236800140)
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 in der seit dem 1. Januar 2010 geltenden Fassung sind auf die an
@@ -3741,6 +3997,7 @@ der Zeit vor dem Inkrafttreten dieser Vorschriften angeknüpft wird.
 
 
 #### § 24 Übergangsvorschrift zu dem Gesetz zur Erleichterung elektronischer Anmeldungen zum Vereinsregister und anderer vereinsrechtlicher Änderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236900140)
 
 Ausländische Vereine und Stiftungen, denen vor dem 30. September 2009
 die Rechtsfähigkeit im Inland verliehen wurde, bleiben rechtsfähig.
@@ -3750,6 +4007,7 @@ anzuwenden.
 
 
 #### § 25 Übergangsvorschriften zum Gesetz zur Modernisierung der Regelungen über Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237500140)
 
 (1) Auf einen vor dem 23. Februar 2011 abgeschlossenen Teilzeit-
 Wohnrechtevertrag sind die §§ 481 bis 487 des Bürgerlichen Gesetzbuchs
@@ -3764,6 +4022,7 @@ von § 481b Absatz 2 des Bürgerlichen Gesetzbuchs sind die §§ 481 bis
 
 
 #### § 26 Überleitungsvorschrift zum Gesetz zur Bekämpfung der Zwangsheirat und zum besseren Schutz der Opfer von Zwangsheirat sowie zur Änderung weiterer aufenthalts- und asylrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237501140)
 
 Die Aufhebung einer vor dem 1. Juli 2011 geschlossenen Ehe ist
 ausgeschlossen, wenn die Ehe nach dem bis dahin geltenden Recht zu
@@ -3771,6 +4030,7 @@ diesem Zeitpunkt nicht mehr hätte aufgehoben werden können.
 
 
 #### § 27 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften über den Wertersatz bei Widerruf von Fernabsatzverträgen und über verbundene Verträge vom 27. Juli 2011
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237800140)
 
 Sowohl Artikel 246 § 2 Absatz 3 Satz 1 als auch § 360 Absatz 3 des
 Bürgerlichen Gesetzbuchs sind bis zum Ablauf des 4. November 2011 auch
@@ -3783,6 +4043,7 @@ Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juni 2009
 
 
 #### § 28 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur Änderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237900377)
 
 (1) Artikel 17 Absatz 1 in der am 29. Januar 2013 geltenden Fassung
 ist anzuwenden, wenn das Verfahren auf Ehescheidung nach dem 28.
@@ -3795,6 +4056,7 @@ dem 29. Januar 2013 eingeleitet worden ist.
 
 
 #### § 29 Übergangsvorschriften zum Mietrechtsänderungsgesetz vom 11. März 2013
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238000377)
 
 (1) Auf ein bis zum 1. Mai 2013 entstandenes Mietverhältnis sind die
 §§ 536, 554, 559 bis 559b, 578 des Bürgerlichen Gesetzbuchs in der bis
@@ -3818,6 +4080,7 @@ zum 1. Mai 2013 geltenden Fassung weiter anzuwenden, wenn
 
 
 #### § 30 Überleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238100377)
 
 Hat ein Elternteil vor dem 19. Mai 2013 beim Familiengericht einen
 Antrag auf Ersetzung der Sorgeerklärung des anderen Elternteils
@@ -3826,6 +4089,7 @@ elterlichen Sorge nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs.
 
 
 #### § 31 Überleitungsvorschrift zur Änderung der Verjährungsvorschriften des Bürgerlichen Gesetzbuchs durch das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238200360)
 
 Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni
 2013 geltenden Fassung über die Verjährung sind auf die an diesem Tag
@@ -3833,6 +4097,7 @@ bestehenden und noch nicht verjährten Ansprüche anzuwenden.
 
 
 #### § 32 Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238300360)
 
 (1) Auf einen vor dem 13. Juni 2014 abgeschlossenen Verbrauchervertrag
 sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs,
@@ -3889,6 +4154,7 @@ des 27. Juni 2015.
 
 
 #### § 33 Überleitungsvorschrift zu dem Gesetz gegen unseriöse Geschäftspraktiken
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238302360)
 
 Auf Schuldverhältnisse, die vor dem 9. Oktober 2013 entstanden sind,
 ist § 675 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag
@@ -3896,6 +4162,7 @@ geltenden Fassung anzuwenden.
 
 
 #### § 34 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239100144)
 
 Die §§ 271a, 286, 288, 308 und 310 des Bürgerlichen Gesetzbuchs in der
 seit dem 29. Juli 2014 geltenden Fassung sind nur auf ein
@@ -3906,6 +4173,7 @@ die Gegenleistung nach dem 30. Juni 2016 erbracht wird.
 
 
 #### § 35 Übergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239200360)
 
 (1) Die §§ 556d bis 556g, 557a Absatz 4 und § 557b Absatz 4 des
 Bürgerlichen Gesetzbuchs sind nicht anzuwenden auf Mietverträge und
@@ -3922,6 +4190,7 @@ des Bürgerlichen Gesetzbuchs fällt.
 
 
 #### § 36 Überleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur Änderung von Vorschriften zum Erbschein sowie zur Änderung sonstiger Vorschriften vom 29. Juni 2015
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239300360)
 
 Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der
 vor dem 17. August 2015 verstorben ist, sind das Bürgerliche
@@ -3931,6 +4200,7 @@ diesem Tag geltenden Fassung weiterhin anzuwenden.
 
 
 #### § 37 Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239400123)
 
 § 309 Nummer 13 des Bürgerlichen Gesetzbuchs in der seit dem 1.
 Oktober 2016 geltenden Fassung ist nur auf ein Schuldverhältnis
@@ -3938,6 +4208,7 @@ anzuwenden, das nach dem 30. September 2016 entstanden ist.
 
 
 #### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239500123)
 
 (1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis
 zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2
@@ -3983,6 +4254,7 @@ beiderseitigen Leistungen aus dem Vertrag.
 
 
 #### § 39 Übergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur Änderung der kaufrechtlichen Mängelhaftung, zur Stärkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240300123)
 
 Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist,
 finden die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs
@@ -3991,6 +4263,7 @@ der bis zu diesem Tag geltenden Fassung Anwendung.
 
 
 #### § 40 Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240800123)
 
 (1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017
 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem
@@ -4019,6 +4292,7 @@ abgeschlossen wurden:
 
 
 #### § 41 Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240900123)
 
 Ist vor Inkrafttreten von Artikel 8 am 17. Juni 2017 eine Vollmacht
 erteilt oder eine Erklärung im Namen einer anderen Person gegenüber
@@ -4027,6 +4301,7 @@ worden, bleibt das bisherige Internationale Privatrecht anwendbar.
 
 
 #### § 42 Übergangsvorschrift zum Dritten Gesetz zur Änderung reiserechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242400123)
 
 Auf einen vor dem 1. Juli 2018 abgeschlossenen Reisevertrag sind die
 Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, der BGB-
@@ -4036,6 +4311,7 @@ geltenden Fassung weiter anzuwenden.
 
 
 #### § 43 Überleitungsvorschrift zum Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE241000123)
 
 Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017
 eingetreten ist, sind die durch das Gesetz zur Einführung eines
@@ -4070,6 +4346,7 @@ geänderten Vorschriften in folgenden Gesetzen anzuwenden:
 
 
 #### § 44 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242000123)
 
 (1) § 1303 Satz 2 des Bürgerlichen Gesetzbuchs in der ab dem 22. Juli
 2017 geltenden Fassung ist für Ehen, die vor dem 22. Juli 2017
@@ -4105,6 +4382,7 @@ Fassung kann nach dem 22. Juli 2017 nicht mehr erteilt werden.
 
 
 #### § 45 Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242100123)
 
 (1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen
 zum Gegenstand haben und ab dem 13. Januar 2018 entstanden sind, sind
@@ -4133,6 +4411,7 @@ sind.
 
 
 #### § 46 Überleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244800123)
 
 § 1600d Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden,
 wenn der Samen, mithilfe dessen das Kind gezeugt wurde, vor
@@ -4142,6 +4421,7 @@ Abstammung bei heterologer Verwendung von Samen vom 17. Juli 2017
 
 
 #### § 47 Übergangsvorschrift zum Gesetz zum Internationalen Güterrecht und zur Änderung von Vorschriften des Internationalen Privatrechts vom 17. Dezember 2018
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244900360)
 
 (1) Die allgemeinen Wirkungen der Ehe bestimmen sich bis
 einschließlich 28. Januar 2019 nach Artikel 14 in der bis zu diesem
@@ -4177,6 +4457,7 @@ anwendbar.
 
 
 #### § 48 Überleitungsvorschrift zum Gesetz zur Umsetzung des Gesetzes zur Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245000360)
 
 Auf gleichgeschlechtliche Ehen und eingetragene Lebenspartnerschaften,
 die vor dem 1. Oktober 2017 im Ausland nach den Sachvorschriften des
@@ -4186,6 +4467,7 @@ September 2017 geltenden Fassung keine Anwendung.
 
 
 #### § 49 Übergangsvorschriften zum Mietrechtsanpassungsgesetz vom 18. Dezember 2018
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245100360)
 
 (1) Auf ein bis einschließlich 31. Dezember 2018 entstandenes
 Mietverhältnis sind die §§ 555c und 559 des Bürgerlichen Gesetzbuchs
@@ -4217,6 +4499,7 @@ anzuwenden.
 
 
 #### § 50 Übergangsvorschriften zum Gesetz zur Verlängerung des Betrachtungszeitraums für die ortsübliche Vergleichsmiete
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245200360)
 
 (1) Mietspiegel können auch nach dem 31. Dezember 2019 nach § 558
 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in der bis dahin
@@ -4240,6 +4523,7 @@ Anpassung maßgeblich.
 
 
 #### § 51 Übergangsvorschriften zum Gesetz zur Verlängerung und Verbesserung der Regelungen über die zulässige Miethöhe bei Mietbeginn
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245300360)
 
 Auf ein bis einschließlich 31. März 2020 entstandenes Mietverhältnis
 ist § 556g des Bürgerlichen Gesetzbuchs in der bis dahin geltenden
@@ -4247,12 +4531,14 @@ Fassung weiter anzuwenden.
 
 
 #### § 52 Überleitungsvorschrift zum Gesetz zur Umsetzung der Entscheidung des Bundesverfassungsgerichts vom 26. März 2019 zum Ausschluss der Stiefkindadoption in nichtehelichen Familien
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245800360)
 
 Auf vor dem 31. März 2020 abgeschlossene Vorgänge bleibt das bisherige
 Internationale Privatrecht anwendbar.
 
 
 #### § 53 Übergangsvorschrift zum Gesetz über die Maklerkosten bei der Vermittlung von Kaufverträgen über Wohnungen und Einfamilienhäuser
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246000360)
 
 Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind,
 sind die Vorschriften des Bürgerlichen Gesetzbuchs in der bis zu
@@ -4260,6 +4546,7 @@ diesem Tag geltenden Fassung weiter anzuwenden.
 
 
 #### § 54 Übergangsvorschrift zum Gesetz zur Reform des Vormundschafts- und Betreuungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246301360)
 
 (1) Eine bei Ablauf des 31. Dezember 2022 bestehende
 Geschäftsfähigkeit besteht fort.
@@ -4290,6 +4577,7 @@ bisherige Internationale Privatrecht anwendbar.
 
 
 #### § 55 Übergangsvorschrift zum Gesetz zum Schutz von Kindern mit Varianten der Geschlechtsentwicklung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246400125)
 
 § 1631e Absatz 6 des Bürgerlichen Gesetzbuchs ist auch auf
 Patientenakten von Kindern mit Varianten der Geschlechtsentwicklung
@@ -4299,6 +4587,7 @@ Gesetzbuchs nicht vor dem 22. Mai 2021 abgelaufen ist.
 
 
 #### § 56 Überleitungsvorschrift zum Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds und zur Änderung reiserechtlicher Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246700360)
 
 (1) Auf Pauschalreiseverträge und Verträge über verbundene
 Reiseleistungen, die vor dem 1. November 2021 abgeschlossen wurden,
@@ -4334,6 +4623,7 @@ Deutschland.
 
 
 #### § 57 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler Inhalte und digitaler Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246800360)
 
 (1) Auf Verbraucherverträge, welche die Bereitstellung eines digitalen
 Produkts zum Gegenstand haben und ab dem 1. Januar 2022 abgeschlossen
@@ -4359,6 +4649,7 @@ wurden.
 
 
 #### § 58 Übergangsvorschrift zum Gesetz zur Regelung des Verkaufs von Sachen mit digitalen Elementen und anderer Aspekte des Kaufvertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246900360)
 
 Auf einen Kaufvertrag, der vor dem 1. Januar 2022 geschlossen worden
 ist, sind die Vorschriften dieses Gesetzes und des Bürgerlichen
@@ -4367,6 +4658,7 @@ Fassung anzuwenden.
 
 
 #### § 59 Allgemeine Überleitungsvorschrift zum Gesetz zur Vereinheitlichung des Stiftungsrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247000360)
 
 Auf die vor dem 1. Juli 2023 bestehenden Stiftungen sind die §§ 82a
 bis 88 des Bürgerlichen Gesetzbuchs in der am 1. Juli 2023 geltenden
@@ -4376,6 +4668,7 @@ Stiftungsverfassung.
 
 
 #### § 60 Übergangsvorschrift zum Gesetz für faire Verbraucherverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247502360)
 
 Auf ein Schuldverhältnis, das vor dem 1. Oktober 2021 entstanden ist,
 sind die §§ 308 und 310 Absatz 1 Satz 1 und 2 des Bürgerlichen
@@ -4388,6 +4681,7 @@ Hinblick auf Schuldverhältnisse, die vor diesem Tag entstanden sind.
 
 
 #### § 61 Übergangsvorschrift zum Personengesellschaftsrechtsmodernisierungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247600360)
 
 Die §§ 723 bis 728 des Bürgerlichen Gesetzbuchs in der vor dem 1.
 Januar 2024 geltenden Fassung sind mangels anderweitiger vertraglicher
@@ -4400,6 +4694,7 @@ einen Gesellschafterbeschluss zurückgewiesen werden.
 
 
 #### § 62 Übergangsvorschrift zum Mietspiegelreformgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247700360)
 
 Für Gemeinden, für die infolge der durch § 558c Absatz 4 Satz 2 des
 Bürgerlichen Gesetzbuchs in der ab dem 1. Juli 2022 geltenden Fassung
@@ -4411,6 +4706,7 @@ spätestens 1. Januar 2024 zu erstellen und zu veröffentlichen.
 
 
 #### § 63 Überleitungsvorschrift zum Gesetz zur Änderung der Strafprozessordnung – Erweiterung der Wiederaufnahmemöglichkeiten zuungunsten des Verurteilten gemäß § 362 StPO und zur Änderung der zivilrechtlichen Verjährung (Gesetz zur Herstellung materieller Gerechtigkeit)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248200116)
 
 § 194 des Bürgerlichen Gesetzbuchs in der ab dem 30. Dezember 2021
 geltenden Fassung ist auf die an diesem Tag bestehenden noch nicht
@@ -4418,6 +4714,7 @@ verjährten Ansprüche anzuwenden.
 
 
 #### § 64 Übergangsvorschrift zum Gesetz zur Abschaffung des Güterrechtsregisters
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248300125)
 
 (1) Abweichend von § 1412 des Bürgerlichen Gesetzbuchs können
 Ehegatten und Partner einer eingetragenen Lebenspartnerschaft auch aus
@@ -4488,6 +4785,7 @@ entsprechend.
 
 
 #### § 65 Überleitungsvorschrift zum Verbandsklagenrichtlinienumsetzungsgesetz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248400360)
 
 Die Vorschriften über die Hemmung der Verjährung nach den §§ 204 und
 204a Absatz 1 Satz 1 Nummer 3 sowie Absatz 3 und 4 des Bürgerlichen
@@ -4512,6 +4810,7 @@ entsprechend für die Regelungen über die Hemmung der Verjährung nach §
 
 
 #### § 66 Übergangsvorschrift zum Gesetz zur Finanzierung von zukunftssichernden Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248500360)
 
 Auf ein Schuldverhältnis, das vor dem 15. Dezember 2023 entstanden
 ist, ist § 310 des Bürgerlichen Gesetzesbuchs in der bis
@@ -4519,6 +4818,7 @@ einschließlich 14. Dezember 2023 geltenden Fassung weiter anzuwenden.
 
 
 #### § 67 Überleitungsvorschrift zum Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248601360)
 
 (1) Ehegatten, die am 1. Mai 2025 bereits einen Ehenamen führen,
 können
@@ -4597,6 +4897,7 @@ bisherige Internationale Privatrecht anwendbar.
 
 
 #### § 68 Überleitungsvorschrift zum Gesetz zum Schutz Minderjähriger bei Auslandsehen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248700360)
 
 Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam
 Verheirateten über sein Vermögen im Ganzen oder über
@@ -4607,6 +4908,7 @@ Gesetzbuchs keine Anwendung.
 
 
 #### § 69 Übergangsvorschrift zum Gesetz zur Zulassung virtueller Wohnungseigentümerversammlungen, zur Erleichterung des Einsatzes von Steckersolargeräten und zur Übertragbarkeit beschränkter persönlicher Dienstbarkeiten für Erneuerbare-Energien-Anlagen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248800125)
 
 § 1092 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs in der seit dem
 17\. Oktober 2024 geltenden Fassung ist nur auf beschränkte persönliche
@@ -4616,6 +4918,7 @@ wird.
 
 
 #### § 70 Übergangsvorschrift zum Schriftformerfordernis bei Gewerbemiet- und Landpachtverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248900125)
 
 (1) Auf Mietverhältnisse gemäß § 578 des Bürgerlichen Gesetzbuchs, die
 vor dem 1. Januar 2025 entstanden sind, ist § 578 Absatz 1 des
@@ -4637,10 +4940,12 @@ Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
 
 
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG022802377)
 
 
 
 #### Art 230 - Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052100377)
 
 Das Bürgerliche Gesetzbuch und dieses Einführungsgesetz treten für das
 in Artikel 3 des Einigungsvertrages genannte Gebiet am Tage des
@@ -4649,15 +4954,18 @@ Wirksamwerdens des Beitritts nach Maßgabe der folgenden
 
 
 #### Art 231 - Erstes Buch. Allgemeiner Teil des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG023002377)
 
 
 
 #### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231800377)
 
 -
 
 
 #### § 2 Vereine
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023203377)
 
 (1) Rechtsfähige Vereinigungen, die nach dem Gesetz über Vereinigungen
 - Vereinigungsgesetz - vom 21. Februar 1990 (GBl. I Nr. 10 S. 75),
@@ -4678,6 +4986,7 @@ Gesetzbuchs Anwendung.
 
 
 #### § 3 Stiftungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023302377)
 
 (1) Die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 bestehenden rechtsfähigen Stiftungen bestehen fort.
@@ -4688,6 +4997,7 @@ Gesetzbuchs anzuwenden.
 
 
 #### § 4 Haftung juristischer Personen für ihre Organe
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023402377)
 
 Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche
 Handlungen anzuwenden, die am Tag des Wirksamwerdens des Beitritts
@@ -4695,6 +5005,7 @@ oder danach begangen werden.
 
 
 #### § 5 Sachen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023506377)
 
 (1) Nicht zu den Bestandteilen eines Grundstücks gehören Gebäude,
 Baulichkeiten, Anlagen, Anpflanzungen oder Einrichtungen, die gemäß
@@ -4735,6 +5046,7 @@ befindlichen Teils des Gebäudes die Vorschriften über den zu duldenden
 
 
 #### § 6 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023602377)
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 finden auf die am Tag des Wirksamwerdens des Beitritts bestehenden und
@@ -4759,6 +5071,7 @@ maßgebend sind.
 
 
 #### § 7 Beurkundungen und Beglaubigungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028003377)
 
 (1) Eine vor dem Wirksamwerden des Beitritts erfolgte notarielle
 Beurkundung oder Beglaubigung ist nicht deshalb unwirksam, weil die
@@ -4790,6 +5103,7 @@ eingetragen ist.
 
 
 #### § 8 Vollmachtsurkunden staatlicher Organe, Falschbezeichnung von Kommunen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030503377)
 
 (1) Eine von den in den §§ 2 und 3 der Siegelordnung der Deutschen
 Demokratischen Republik vom 29. November 1966 (GBl. 1967 II Nr. 9 S.
@@ -4842,6 +5156,7 @@ beachten, wenn er darauf gestützt wird, daß
 
 
 #### § 9 Heilung unwirksamer Vermögensübertragungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030601377)
 
 (1) Sollte das ehemals volkseigene Vermögen oder ein Teil des ehemals
 volkseigenen Vermögens, das einem Betrieb der kommunalen
@@ -4928,6 +5243,7 @@ Vermögensgesetz und rechtskräftige Urteile bleiben unberührt.
 
 
 #### § 10 Übergang volkseigener Forderungen, Grundpfandrechte und Verbindlichkeiten auf Kreditinstitute
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE031402140)
 
 (1) Ein volkseigenes oder genossenschaftliches Kreditinstitut, das die
 Geschäfte eines solchen Kreditinstituts fortführende Kreditinstitut
@@ -4973,10 +5289,12 @@ unberührt.
 
 
 #### Art 232 - Zweites Buch. Recht der Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG023702377)
 
 
 
 #### § 1 Allgemeine Bestimmungen für Schuldverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023802377)
 
 Für ein Schuldverhältnis, das vor dem Wirksamwerden des Beitritts
 entstanden ist, bleibt das bisherige für das in Artikel 3 des
@@ -4984,6 +5302,7 @@ Einigungsvertrages genannte Gebiet geltende Recht maßgebend.
 
 
 #### § 1a Überlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030002377)
 
 Ein vor dem 3. Oktober 1990 geschlossener Vertrag, durch den ein
 bisher staatlich verwaltetes (§ 1 Abs. 4 des Vermögensgesetzes)
@@ -4995,6 +5314,7 @@ Grundstück sowie etwa aufstehende Gebäude und gegen Übernahme der
 
 
 #### § 2 Mietverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE023907377)
 
 Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des
 Beitritts geschlossen worden sind, richten sich von diesem Zeitpunkt
@@ -5002,6 +5322,7 @@ an nach den Vorschriften des Bürgerlichen Gesetzbuchs.
 
 
 #### § 3 Pachtverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024003377)
 
 (1) Pachtverhältnisse aufgrund von Verträgen, die vor dem
 Wirksamwerden des Beitritts geschlossen worden sind, richten sich von
@@ -5013,6 +5334,7 @@ Juni 1990 (GBl. I Nr. 42 S. 642) bleiben unberührt.
 
 
 #### § 4 Nutzung von Bodenflächen zur Erholung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024104377)
 
 (1) Nutzungsverhältnisse nach den §§ 312 bis 315 des Zivilgesetzbuchs
 der Deutschen Demokratischen Republik aufgrund von Verträgen, die vor
@@ -5043,6 +5365,7 @@ wurden.
 
 
 #### § 4a Vertrags-Moratorium
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030102377)
 
 (1) Verträge nach § 4 können, auch soweit sie Garagen betreffen,
 gegenüber dem Nutzer bis zum Ablauf des 31. Dezember 1994 nur aus den
@@ -5104,6 +5427,7 @@ zwischen ihnen abweichende rechtskräftige Urteile ergangen sind.
 
 
 #### § 5 Arbeitsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024205377)
 
 (1) Für am Tag des Wirksamwerdens des Beitritts bestehende
 Arbeitsverhältnisse gelten unbeschadet des Artikels 230 von dieser
@@ -5130,6 +5454,7 @@ genannten Gebiet vom Tage des Inkrafttretens dieses Gesetzes bis zum
 
 
 #### § 6 Verträge über wiederkehrende Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024302377)
 
 Für am Tag des Wirksamwerdens des Beitritts bestehende Pflege- und
 Wartungsverträge und Verträge über wiederkehrende persönliche
@@ -5138,6 +5463,7 @@ Bürgerlichen Gesetzbuchs.
 
 
 #### § 7 Kontoverträge und Sparkontoverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024402377)
 
 Das Kreditinstitut kann durch Erklärung gegenüber dem Kontoinhaber
 bestimmen, daß auf einen am Tag des Wirksamwerdens des Beitritts
@@ -5150,12 +5476,14 @@ Monats von dem Zugang der Erklärung an kündigen.
 
 
 #### § 8 Kreditverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024502377)
 
 Auf Kreditverträge, die nach dem 30. Juni 1990 abgeschlossen worden
 sind, ist § 609a des Bürgerlichen Gesetzbuchs anzuwenden.
 
 
 #### § 9 Bruchteilsgemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024602377)
 
 Auf eine am Tag des Wirksamwerdens des Beitritts bestehende
 Gemeinschaft nach Bruchteilen finden von dieser Zeit an die
@@ -5163,6 +5491,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
 
 #### § 10 Unerlaubte Handlungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024702377)
 
 Die Bestimmungen der §§ 823 bis 853 des Bürgerlichen Gesetzbuchs sind
 nur auf Handlungen anzuwenden, die am Tag des Wirksamwerdens des
@@ -5170,14 +5499,17 @@ Beitritts oder danach begangen werden.
 
 
 #### Art 233 - Drittes Buch. Sachenrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG024802377)
 
 
 
 ##### Erster Abschnitt - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG027801377)
 
 
 
 ##### § 1 Besitz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE024902377)
 
 Auf ein am Tag des Wirksamwerdens des Beitritts bestehendes
 Besitzverhältnis finden von dieser Zeit an die Vorschriften des
@@ -5185,6 +5517,7 @@ Bürgerlichen Gesetzbuchs Anwendung.
 
 
 ##### § 2 Inhalt des Eigentums
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025004377)
 
 (1) Auf das am Tag des Wirksamwerdens des Beitritts bestehende
 Eigentum an Sachen finden von dieser Zeit an die Vorschriften des
@@ -5225,6 +5558,7 @@ Gesetzen verwiesen wird. § 11b des Vermögensgesetzes bleibt unberührt.
 
 
 ##### § 2a Moratorium
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028110301)
 
 (1) Als zum Besitz eines in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet belegenen Grundstücks berechtigt gelten unbeschadet
@@ -5404,6 +5738,7 @@ unberührt.
 
 
 ##### § 2b Gebäudeeigentum ohne dingliches Nutzungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028208377)
 
 (1) In den Fällen des § 2a Abs. 1 Satz 1 Buchstabe a und b sind
 Gebäude und Anlagen von Arbeiter-Wohnungsbaugenossenschaften und von
@@ -5465,6 +5800,7 @@ entgegensteht.
 
 
 ##### § 2c Grundbucheintragung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030203377)
 
 (1) Selbständiges Gebäudeeigentum nach § 2b ist auf Antrag (§ 13 Abs.
 2 der Grundbuchordnung) im Grundbuch wie eine Belastung des
@@ -5491,6 +5827,7 @@ Gebäudeeigentum auch bei dem belasteten Grundstück eingetragen ist.
 
 
 ##### § 3 Inhalt und Rang beschränkter dinglicher Rechte
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025104377)
 
 (1) Rechte, mit denen eine Sache oder ein Recht am Ende des Tages vor
 dem Wirksamwerden des Beitritts belastet ist, bleiben mit dem sich aus
@@ -5524,6 +5861,7 @@ Oktober 1994 an die Bestimmungen des Bürgerlichen Gesetzbuchs nach den
 
 
 ##### § 4 Sondervorschriften für dingliche Nutzungsrechte und Gebäudeeigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025207377)
 
 (1) Für das Gebäudeeigentum nach § 288 Abs. 4 oder § 292 Abs. 3 des
 Zivilgesetzbuchs der Deutschen Demokratischen Republik gelten von dem
@@ -5612,6 +5950,7 @@ betroffenen Grundstück besteht.
 
 
 ##### § 5 Mitbenutzungsrechte
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025306377)
 
 (1) Mitbenutzungsrechte im Sinn des § 321 Abs. 1 bis 3 und des § 322
 des Zivilgesetzbuchs der Deutschen Demokratischen Republik gelten als
@@ -5666,6 +6005,7 @@ seinem festgestellten Inhalt eingetragen werden.
 
 
 ##### § 6 Hypotheken
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025402377)
 
 (1) Für die Übertragung von Hypothekenforderungen nach dem
 Zivilgesetzbuch der Deutschen Demokratischen Republik, die am Tag des
@@ -5686,6 +6026,7 @@ Bürgerlichen Gesetzbuchs.
 
 
 ##### § 7 Am Tag des Wirksamwerdens des Beitritts schwebende Rechtsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025503377)
 
 (1) Die Übertragung des Eigentums an einem Grundstück richtet sich
 statt nach den Vorschriften des Bürgerlichen Gesetzbuchs nach den am
@@ -5712,6 +6053,7 @@ Vorschriften anzuwenden.
 
 
 ##### § 8 Rechtsverhältnisse nach § 459 des Zivilgesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025604377)
 
 Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459
 des Zivilgesetzbuchs der Deutschen Demokratischen Republik und der
@@ -5723,6 +6065,7 @@ entsprechend anzuwenden.
 
 
 ##### § 9 Rangbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028402377)
 
 (1) Das Rangverhältnis der in § 3 Abs. 1 bezeichneten Rechte an
 Grundstücken bestimmt sich nach dem Zeitpunkt der Eintragung in das
@@ -5748,6 +6091,7 @@ entsprechend.
 
 
 ##### § 10 Vertretungsbefugnis für Personenzusammenschlüsse alten Rechts
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028302377)
 
 (1) Steht ein dingliches Recht an einem Grundstück einem
 Personenzusammenschluß zu, dessen Mitglieder nicht namentlich im
@@ -5789,10 +6133,12 @@ wird.
 
 
 ##### Zweiter Abschnitt - Abwicklung der Bodenreform
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG027901377)
 
 
 
 ##### § 11 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028504377)
 
 (1) Eigentümer eines Grundstücks, das im Grundbuch als Grundstück aus
 der Bodenreform gekennzeichnet ist oder war, ist der aus einem
@@ -5880,6 +6226,7 @@ Juli 1992 erlebt hat. Maßgeblich ist
 
 
 ##### § 12 Berechtigter
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028603377)
 
 (1) Berechtigter ist in den Fällen des § 11 Abs. 2 Satz 1 Nr. 1 und
 Nr. 2 Fall 2 in nachfolgender Reihenfolge:
@@ -5991,6 +6338,7 @@ bisherigen Nutzung unbillige Härte bedeuten würde.
 
 
 ##### § 13 Verfügungen des Eigentümers
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028704377)
 
 Wird vor dem 3. Oktober 2000 die Berichtigung des Grundbuchs zugunsten
 desjenigen beantragt, der nach § 11 Abs. 2 Eigentümer ist, so
@@ -6001,6 +6349,7 @@ Verfügungen, deren Eintragung dieser Eigentümer vor dem 3. Oktober
 
 
 ##### § 13a Vormerkung zugunsten des Fiskus
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030302377)
 
 Auf Ersuchen des Fiskus trägt das Grundbuchamt eine Vormerkung zur
 Sicherung von dessen Anspruch nach § 11 Abs. 3 ein. Die Vormerkung ist
@@ -6009,6 +6358,7 @@ Verwaltungsgericht aufgehoben wird.
 
 
 ##### § 14 Verjährung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028803377)
 
 Die Ansprüche nach den §§ 11 und 16 verjähren mit dem Ablauf des 2.
 Oktober 2000. Ist für einen Auflassungsanspruch eine Vormerkung nach §
@@ -6018,6 +6368,7 @@ von der Eintragung der Vormerkung.
 
 
 ##### § 15 Verbindlichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE028903140)
 
 (1) Auf den Eigentümer nach § 11 Abs. 2 gehen mit Inkrafttreten dieser
 Vorschriften Verbindlichkeiten über, soweit sie für Maßnahmen an dem
@@ -6057,6 +6408,7 @@ ausüben.
 
 
 ##### § 16 Verhältnis zu anderen Vorschriften, Übergangsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE029003377)
 
 (1) Die Vorschriften dieses Abschnitts lassen die Bestimmungen des
 Vermögensgesetzes sowie andere Vorschriften unberührt, nach denen die
@@ -6090,10 +6442,12 @@ Vorschriften über die Bodenreform kann von Amts wegen gelöscht werden.
 
 
 #### Art 234 - Viertes Buch. Familienrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG025702377)
 
 
 
 #### § 1 Grundsatz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025802377)
 
 Das Vierte Buch des Bürgerlichen Gesetzbuchs gilt für alle
 familienrechtlichen Verhältnisse, die am Tag des Wirksamwerdens des
@@ -6101,16 +6455,19 @@ Beitritts bestehen, soweit im folgenden nichts anderes bestimmt ist.
 
 
 #### § 2 Verlöbnis
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE025902377)
 
 Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die
 vor dem Wirksamwerden des Beitritts geschlossen worden sind.
 
 
 #### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026003123)
 
 
 
 #### § 4 Eheliches Güterrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026105125)
 
 (1) Haben die Ehegatten am Tag des Wirksamwerdens des Beitritts im
 gesetzlichen Güterstand der Eigentums- und Vermögensgemeinschaft des
@@ -6156,6 +6513,7 @@ Geschäftswert 3 000 Euro.
 
 
 #### § 4a Gemeinschaftliches Eigentum
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030404125)
 
 (1) Haben die Ehegatten keine Erklärung nach § 4 Abs. 2 Satz 1
 abgegeben, so wird gemeinschaftliches Eigentum von Ehegatten Eigentum
@@ -6184,6 +6542,7 @@ nicht aus dem Grundbuch andere Bruchteile ergeben.
 
 
 #### § 5 Unterhalt des geschiedenen Ehegatten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026202377)
 
 Für den Unterhaltsanspruch eines Ehegatten, dessen Ehe vor dem
 Wirksamwerden des Beitritts geschieden worden ist, bleibt das
@@ -6191,6 +6550,7 @@ bisherige Recht maßgebend. Unterhaltsvereinbarungen bleiben unberührt.
 
 
 #### § 6 Versorgungsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE231900377)
 
 (1) Für Ehegatten, die vor dem grundsätzlichen Inkrafttreten der
 versicherungs- und rentenrechtlichen Vorschriften des Sechsten Buches
@@ -6219,6 +6579,7 @@ in der jeweils geltenden Fassung.
 
 
 #### § 7 Abstammung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026402377)
 
 (1) Entscheidungen, die vor dem Wirksamwerden des Beitritts ergangen
 sind und feststellen, daß der Ehemann der Mutter nicht der Vater des
@@ -6249,10 +6610,12 @@ Vaterschaft im Sinne des Absatzes 1 Satz 2 gleich.
 
 
 #### (XXXX) §§ 8 und 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026503377)
 
 
 
 #### § 10 Rechtsverhältnis zwischen den Eltern und dem Kind im allgemeinen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026702377)
 
 Der Familienname eines vor dem Wirksamwerden des Beitritts geborenen
 Kindes bestimmt sich in Ansehung der bis zum Wirksamwerden des
@@ -6261,16 +6624,19 @@ Recht.
 
 
 #### § 11 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026803377)
 
 
 
 #### § 12 Legitimation nichtehelicher Kinder
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE026902377)
 
 Die Frist nach § 1740e Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs
 beginnt nicht vor dem Wirksamwerden des Beitritts.
 
 
 #### § 13 Annahme als Kind
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027003377)
 
 (1) Für Annahmeverhältnisse, die vor dem Wirksamwerden des Beitritts
 begründet worden sind, gelten § 1755 Abs. 1 Satz 2, die §§ 1756 und
@@ -6326,6 +6692,7 @@ Bürgerlichen Gesetzbuchs gilt nicht.
 
 
 #### § 14 Vormundschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027102377)
 
 (1) Ab dem Wirksamwerden des Beitritts gelten für die bestehenden
 Vormundschaften und vorläufigen Vormundschaften die Vorschriften des
@@ -6352,6 +6719,7 @@ in dieser Zeit gemacht hat, gilt das bisherige Recht.
 
 
 #### § 15 Pflegschaft
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027202377)
 
 (1) Am Tag des Wirksamwerdens des Beitritts werden die bestehenden
 Pflegschaften zu den entsprechenden Pflegschaften nach dem
@@ -6362,10 +6730,12 @@ festgelegten Wirkungskreis.
 
 
 #### Art 235 - Fünftes Buch. Erbrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG027302377)
 
 
 
 #### § 1 Erbrechtliche Verhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027404140)
 
 Für die erbrechtlichen Verhältnisse bleibt das bisherige Recht
 maßgebend, wenn der Erblasser vor dem Wirksamwerden des Beitritts
@@ -6373,6 +6743,7 @@ gestorben ist.
 
 
 #### § 2 Verfügungen von Todes wegen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027502377)
 
 Die Errichtung oder Aufhebung einer Verfügung von Todes wegen vor dem
 Wirksamwerden des Beitritts wird nach dem bisherigen Recht beurteilt,
@@ -6383,16 +6754,19 @@ Wirksamwerden des Beitritts errichtet worden ist.
 
 
 #### Art 236 - Einführungsgesetz - Internationales Privatrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG027602377)
 
 
 
 #### § 1 Abgeschlossene Vorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027702377)
 
 Auf vor dem Wirksamwerden des Beitritts abgeschlossene Vorgänge bleibt
 das bisherige Internationale Privatrecht anwendbar.
 
 
 #### § 2 Wirkungen familienrechtlicher Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027802377)
 
 Die Wirkungen familienrechtlicher Rechtsverhältnisse unterliegen von
 dem Wirksamwerden des Beitritts an den Vorschriften des Zweiten
@@ -6400,6 +6774,7 @@ Kapitels des Ersten Teils.
 
 
 #### § 3 Güterstand
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE027903360)
 
 Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des
 Beitritts geschlossen worden sind, unterliegen von diesem Tag an dem
@@ -6413,10 +6788,12 @@ gestundet.
 
 
 #### Art 237 - Bestandsschutz, Ausschlußfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG028101377)
 
 
 
 #### § 1 Bestandsschutz
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030701377)
 
 (1) Fehler bei dem Ankauf, der Enteignung oder der sonstigen
 Überführung eines Grundstücks oder selbständigen Gebäudeeigentums in
@@ -6456,6 +6833,7 @@ hier gilt das Vermögensgesetz.
 
 
 #### § 2 Ausschlußfrist
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE030802140)
 
 (1) Wer als Eigentümer eines Grundstücks oder Gebäudes im Grundbuch
 eingetragen ist, ohne daß er das Eigentum erlangt hat, erwirbt das
@@ -6507,14 +6885,17 @@ oder zwischen ihnen abweichende Urteile ergangen sind.
 
 
 ## Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030003360)
 
 
 
 #### Art 238 - Datenverarbeitung und Auskunftspflichten für qualifizierte Mietspiegel
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG052204360)
 
 
 
 #### § 1 Erhebung und Übermittlung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247800360)
 
 (1) Zur Erstellung eines qualifizierten Mietspiegels dürfen die nach
 Landesrecht zuständigen Behörden bezogen auf das Gebiet, für das der
@@ -6635,6 +7016,7 @@ Zeitpunkt, spätestens jedoch zwei Jahre nach Erhebung, zu löschen.
 
 
 #### § 2 Auskunftspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247900360)
 
 (1) Zur Erstellung eines qualifizierten Mietspiegels und zu seiner
 Anpassung mittels Stichprobe sind Eigentümer und Mieter von Wohnraum
@@ -6698,6 +7080,7 @@ nach § 1 Absatz 3 beauftragt wurden.
 
 
 #### § 3 Datenverarbeitung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248000360)
 
 (1) Die nach Landesrecht zuständige Behörde darf die in § 2 Absatz 1
 und 2 genannten Merkmale in dem zur Erstellung oder Anpassung eines
@@ -6730,6 +7113,7 @@ anonymisieren.
 
 
 #### § 4 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE248100360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 2 Absatz 1 oder 2, jeweils auch in Verbindung mit Absatz 3, eine
@@ -6741,6 +7125,7 @@ Euro geahndet werden.
 
 
 #### Art 239 - Länderöffnungsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030104360)
 
 Die Länder können durch Gesetz bestimmen, dass der Antrag auf
 Erteilung eines Erbscheins der notariellen Beurkundung bedarf und die
@@ -6752,42 +7137,53 @@ S. 1042) nur vor einem Notar abzugeben ist.
 
 
 #### Art 240 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030207360)
 
 
 
 #### § 1 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245301360)
 
 
 
 #### § 2 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245401360)
 
 
 
 #### § 3 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245501360)
 
 
 
 #### § 4 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245601360)
 
 
 
 #### § 5 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE245901360)
 
 
 #### § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246101125)
 
 
 #### § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246201360)
 
 
 #### Art 241 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030304123)
 
 
 
 #### Art 242 - Informationspflichten bei Teilzeit-Wohnrechteverträgen, Verträgen über langfristige Urlaubsprodukte, Vermittlungsverträgen sowie Tauschsystemverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030402140)
 
 
 #### § 1 Vorvertragliche und vertragliche Pflichtangaben
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237600140)
 
 (1) Als vorvertragliche Informationen nach § 482 Absatz 1 des
 Bürgerlichen Gesetzbuchs für den Abschluss eines Teilzeit-
@@ -6829,6 +7225,7 @@ zu finden sind.
 
 
 #### § 2 Informationen über das Widerrufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237700140)
 
 Einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges
 Urlaubsprodukt, einem Vermittlungsvertrag oder einem
@@ -6844,6 +7241,7 @@ sind.
 
 
 #### Art 243 - Ver- und Entsorgungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030504301)
 
 Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
 mit dem Bundesministerium der Justiz und für Verbraucherschutz durch
@@ -6870,6 +7268,7 @@ des Verwaltungsverfahrens.
 
 
 #### Art 244 - Abschlagszahlungen beim Hausbau
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030606123)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
@@ -6886,9 +7285,11 @@ welche Sicherheit dem Besteller hierfür zu leisten ist.
 
 
 #### Art 245 - (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG030704360)
 
 
 #### Art 246 - Informationspflichten beim Verbrauchervertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053203360)
 
 (1) Der Unternehmer ist, sofern sich diese Informationen nicht aus den
 Umständen ergeben, nach § 312a Absatz 2 des Bürgerlichen Gesetzbuchs
@@ -6975,9 +7376,11 @@ Folgendes enthalten:
 
 
 #### Art 246a - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054200360)
 
 
 #### § 1 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238402360)
 
 (1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen
 Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur
@@ -7153,6 +7556,7 @@ Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
 
 #### § 2 Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238501360)
 
 (1) Hat der Verbraucher bei einem Vertrag über Reparatur- und
 Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen
@@ -7198,6 +7602,7 @@ Gesetzbuchs muss alle nach § 1 zu erteilenden Informationen enthalten.
 
 
 #### § 3 Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238601360)
 
 Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels
 geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für
@@ -7233,6 +7638,7 @@ machen.
 
 
 #### § 4 Formale Anforderungen an die Erfüllung der Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238700360)
 
 (1) Der Unternehmer muss dem Verbraucher die Informationen nach den §§
 1 bis 3 vor Abgabe von dessen Vertragserklärung in klarer und
@@ -7258,10 +7664,12 @@ Weise zugänglich machen.
 
 
 #### Art 246b - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054300360)
 
 
 
 #### § 1 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238802360)
 
 (1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen
 Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von
@@ -7419,6 +7827,7 @@ Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
 
 
 #### § 2 Weitere Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE238901360)
 
 (1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von
 dessen Vertragserklärung die folgenden Informationen auf einem
@@ -7465,6 +7874,7 @@ verwenden.
 
 
 #### Art 246c - Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054400360)
 
 Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer
 den Kunden unterrichten
@@ -7495,9 +7905,11 @@ den Kunden unterrichten
 
 
 #### Art 246d - Allgemeine Informationspflichten für Betreiber von Online-Marktplätzen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055300360)
 
 
 #### § 1 Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247100360)
 
 Der Betreiber eines Online-Marktplatzes muss den Verbraucher
 informieren
@@ -7557,6 +7969,7 @@ informieren
 
 
 #### § 2 Formale Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247200360)
 
 (1) Der Betreiber eines Online-Marktplatzes muss dem Verbraucher die
 Informationen nach § 1 vor Abgabe von dessen Vertragserklärung in
@@ -7570,9 +7983,11 @@ angezeigt werden, unmittelbar und leicht zugänglich ist.
 
 
 #### Art 246e - Verbotene Verletzung von Verbraucherinteressen und Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055400360)
 
 
 #### § 1 Verbotene Verletzung von Verbraucherinteressen im Zusammenhang mit Verbraucherverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247301360)
 
 (1) Die Verletzung von Verbraucherinteressen im Zusammenhang mit
 Verbraucherverträgen, bei der es sich um einen weitverbreiteten
@@ -7713,6 +8128,7 @@ Verbraucherverträgen nach Absatz 1 liegt auch vor, wenn
 
 
 #### § 2 Bußgeldvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE247401360)
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
 1 Absatz 1 Verbraucherinteressen im Zusammenhang mit
@@ -7746,10 +8162,12 @@ Gesetzes über Ordnungswidrigkeiten ist das Umweltbundesamt.
 
 
 #### Art 247 - Informationspflichten bei Verbraucherdarlehensverträgen, entgeltlichen Finanzierungshilfen und Darlehensvermittlungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053300140)
 
 
 
 #### § 1 Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232601123)
 
 (1) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der
 Darlehensgeber dem Darlehensnehmer mitteilen, welche Informationen und
@@ -7795,6 +8213,7 @@ mitteilen.
 
 
 #### § 2 Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232703123)
 
 (1) Bei einem Allgemein-Verbraucherdarlehensvertrag muss der
 Darlehensgeber den Darlehensnehmer über die Einzelheiten nach den §§ 3
@@ -7831,6 +8250,7 @@ der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften
 
 
 #### § 3 Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232803360)
 
 (1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen
 enthalten:
@@ -7921,6 +8341,7 @@ die Teilzahlungen getilgt werden.
 
 
 #### § 4 Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE232902123)
 
 (1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen
 folgende Angaben enthalten, soweit sie für den in Betracht kommenden
@@ -7964,6 +8385,7 @@ Darlehensnehmer mit.
 
 
 #### § 5 Information bei besonderen Kommunikationsmitteln
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233002123)
 
 (1) Wählt der Darlehensnehmer für die Vertragsanbahnung bei Allgemein-
 Verbraucherdarlehensverträgen Kommunikationsmittel, die die
@@ -7982,6 +8404,7 @@ Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
 
 #### § 6 Vertragsinhalt
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233104123)
 
 (1) Der Verbraucherdarlehensvertrag muss klar und verständlich
 folgende Angaben enthalten:
@@ -8041,6 +8464,7 @@ einfließen.
 
 
 #### § 7 Weitere Angaben im Vertrag
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233201123)
 
 (1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und
 verständlich formulierte weitere Angaben enthalten, soweit sie für den
@@ -8086,6 +8510,7 @@ Vertrag bedeutsam sind:
 
 
 #### § 8 Verträge mit Zusatzleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233301123)
 
 (1) Verlangt der Darlehensgeber zum Abschluss eines Allgemein-
 Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche
@@ -8116,9 +8541,11 @@ gewährleisten, es sei denn, dies wird vertraglich vereinbart.
 
 
 #### § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233401123)
 
 
 #### § 10 Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233503123)
 
 (1) Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des
 Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur
@@ -8174,6 +8601,7 @@ werden.
 
 
 #### § 11 Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233603123)
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß
 § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend
@@ -8224,6 +8652,7 @@ des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des
 
 
 #### § 12 Verbundene Verträge und entgeltliche Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233704123)
 
 (1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des
 Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche
@@ -8279,6 +8708,7 @@ Anschaffungspreis.
 
 
 #### § 13 Darlehensvermittler bei Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233803123)
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines
 Verbraucherdarlehensvertrags oder eines Vertrags über eine
@@ -8330,6 +8760,7 @@ nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
 
 
 #### § 13a Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239600123)
 
 Ist bei der Anbahnung oder beim Abschluss eines Allgemein-
 Verbraucherdarlehensvertrags oder eines Vertrags über eine
@@ -8340,6 +8771,7 @@ Darlehensvermittlers zu ergänzen.
 
 
 #### § 13b Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239700123)
 
 (1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen
 muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2
@@ -8396,6 +8828,7 @@ gilt § 18 entsprechend.
 
 
 #### § 14 Tilgungsplan
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE233901360)
 
 (1) Verlangt der Darlehensnehmer nach § 492 Abs. 3 Satz 2 des
 Bürgerlichen Gesetzbuchs einen Tilgungsplan, muss aus diesem
@@ -8417,6 +8850,7 @@ solange das Vertragsverhältnis besteht.
 
 
 #### § 15 Unterrichtungen bei Zinsanpassungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234001123)
 
 (1) Eine Zinsanpassung in einem Verbraucherdarlehensvertrag oder einem
 Vertrag über eine entgeltliche Finanzierungshilfe wird erst wirksam,
@@ -8457,6 +8891,7 @@ den Sollzinssatz auswirken könnte.
 
 
 #### § 16 Unterrichtung bei Überziehungsmöglichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234100140)
 
 Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen
 Gesetzbuchs muss folgende Angaben enthalten:
@@ -8489,6 +8924,7 @@ Gesetzbuchs muss folgende Angaben enthalten:
 
 
 #### § 17 Angaben bei geduldeten Überziehungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234200140)
 
 (1) Die Unterrichtung nach § 505 Abs. 1 des Bürgerlichen Gesetzbuchs
 muss folgende Angaben enthalten:
@@ -8523,6 +8959,7 @@ muss folgende Angaben enthalten:
 
 
 #### § 18 Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239800123)
 
 (1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-
 Verbraucherdarlehensvertrag erbringt oder einen entsprechenden
@@ -8557,10 +8994,12 @@ werden.
 
 
 #### Art 247a - Allgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054500123)
 
 
 
 #### § 1 Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239902125)
 
 (1) Unternehmer, die den Abschluss von Immobiliar-
 Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene
@@ -8663,6 +9102,7 @@ Bürgerlichen Gesetzbuchs angeboten wird.
 
 
 #### § 2 Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240001125)
 
 (1) Unternehmer, die den Abschluss von Verträgen über die Einräumung
 von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs
@@ -8687,14 +9127,17 @@ gemäß § 505 des Bürgerlichen Gesetzbuchs anbieten.
 
 
 #### Art 248 - Informationspflichten bei der Erbringung von Zahlungsdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053400140)
 
 
 
 ##### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053500140)
 
 
 
 ##### § 1 Konkurrierende Informationspflichten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234303123)
 
 Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein
 außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die
@@ -8707,6 +9150,7 @@ Nummer 12 genannten Informationspflichten.
 
 
 ##### § 2 Allgemeine Form
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234401123)
 
 Die Informationen und Vertragsbedingungen sind in einer Amtssprache
 des Mitgliedstaats der Europäischen Union oder des Vertragsstaats des
@@ -8717,10 +9161,12 @@ klarer und verständlicher Form abzufassen.
 
 
 ##### Abschnitt 2 - Zahlungsdiensterahmenverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053600140)
 
 
 
 ##### § 3 Besondere Form
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234501360)
 
 Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen
 Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer
@@ -8729,6 +9175,7 @@ auf einem dauerhaften Datenträger mitzuteilen.
 
 
 ##### § 4 Vorvertragliche Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234603123)
 
 (1) Die folgenden vorvertraglichen Informationen und
 Vertragsbedingungen müssen rechtzeitig vor Abgabe der
@@ -8932,6 +9379,7 @@ Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
 
 ##### § 5 Zugang zu Vertragsbedingungen und vorvertraglichen Informationen während der Vertragslaufzeit
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234701360)
 
 Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit
 die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten
@@ -8940,6 +9388,7 @@ Datenträger verlangen.
 
 
 ##### § 6 Informationen vor Ausführung einzelner Zahlungsvorgänge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234801123)
 
 Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs
 teilt der Zahlungsdienstleister auf Verlangen des Zahlers Folgendes
@@ -8958,6 +9407,7 @@ mit:
 
 
 ##### § 7 Informationen an den Zahler bei einzelnen Zahlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE234901123)
 
 Nach Belastung des Kontos des Zahlers mit dem Zahlungsbetrag eines
 einzelnen Zahlungsvorgangs oder, falls der Zahler kein Zahlungskonto
@@ -8994,6 +9444,7 @@ Informationen mit:
 
 
 ##### § 8 Informationen an den Zahlungsempfänger bei einzelnen Zahlungsvorgängen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235001123)
 
 Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der
 Zahlungsdienstleister des Zahlungsempfängers diesem unverzüglich die
@@ -9027,6 +9478,7 @@ folgenden Informationen mit:
 
 
 ##### § 9 Sonstige Informationen während des Vertragsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235100140)
 
 Während des Vertragsverhältnisses ist der Zahlungsdienstleister
 verpflichtet, den Zahlungsdienstnutzer unverzüglich zu unterrichten,
@@ -9044,6 +9496,7 @@ wenn
 
 
 ##### § 10 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235200140)
 
 Für die in den §§ 7, 8 und 9 Nr. 2 genannten Informationen können
 Zahlungsdienstleister und Zahlungsdienstnutzer eine andere Häufigkeit
@@ -9055,6 +9508,7 @@ unverändert aufbewahren und wiedergeben kann.
 
 
 ##### § 11 Ausnahmen für Kleinbetragsinstrumente und E-Geld
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235302123)
 
 (1) Bei Zahlungsdiensteverträgen über die Überlassung eines
 Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs)
@@ -9105,10 +9559,12 @@ Zahlungsdienstnutzer nach Ausführung eines Zahlungsvorgangs
 
 
 ##### Abschnitt 3 - Einzelzahlungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053700140)
 
 
 
 ##### § 12 Besondere Form
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235402123)
 
 Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines
 Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem
@@ -9122,6 +9578,7 @@ Verfügung.
 
 
 ##### § 13 Vorvertragliche Informationen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235501123)
 
 (1) Die folgenden vorvertraglichen Informationen und
 Vertragsbedingungen sind rechtzeitig vor Abgabe der Vertragserklärung
@@ -9181,6 +9638,7 @@ Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
 
 ##### § 13a Informationen an den Zahler und den Zahlungsempfänger nach Auslösung des Zahlungsauftrags über einen Zahlungsauslösedienstleister
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242200123)
 
 Ein Zahlungsauslösedienstleister unterrichtet den Zahler und
 gegebenenfalls den Zahlungsempfänger unmittelbar nach der Auslösung
@@ -9209,6 +9667,7 @@ des Zahlungsauftrags über
 
 
 ##### § 14 Informationen an den Zahler nach Zugang des Zahlungsauftrags
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235601123)
 
 Nach Zugang des Zahlungsauftrags unterrichtet der
 Zahlungsdienstleister des Zahlers diesen hinsichtlich der von ihm zu
@@ -9240,6 +9699,7 @@ erbringenden Zahlungsdienste unverzüglich über
 
 
 ##### § 15 Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235701123)
 
 Nach Ausführung des Zahlungsvorgangs unterrichtet der
 Zahlungsdienstleister des Zahlungsempfängers diesen hinsichtlich der
@@ -9272,6 +9732,7 @@ von ihm erbrachten Zahlungsdienste unverzüglich über
 
 
 ##### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235801123)
 
 Wird ein Zahlungsauftrag für eine Einzelzahlung über ein
 rahmenvertraglich geregeltes Zahlungsinstrument übermittelt, so ist
@@ -9281,10 +9742,12 @@ Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
 
 
 ##### Abschnitt 4 - Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG053801123)
 
 
 
 ##### § 17 Informationspflichten des Zahlungsempfängers
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE235901123)
 
 (1) Sollen Zahlungen mittels eines Zahlungsinstruments in einer
 anderen Währung als Euro erfolgen und wird vor der Auslösung des
@@ -9299,6 +9762,7 @@ teilt er dies dem Zahler vor Auslösung des Zahlungsvorgangs mit.
 
 
 ##### § 17a Informationspflichten des Bargeldabhebungsdienstleisters
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242300123)
 
 Ein Dienstleister, der Bargeldabhebungsdienste erbringt, ist
 verpflichtet, den Kunden über alle Entgelte für eine Geldabhebung
@@ -9308,6 +9772,7 @@ Bargeldes zu unterrichten.
 
 
 ##### § 18 Informationspflichten Dritter
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236001123)
 
 Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen
 Zahlungsvorgang auslösen kann, von diesem für die Nutzung eines
@@ -9316,6 +9781,7 @@ Zahlungsdienstnutzer vor der Auslösung des Zahlungsvorgangs mit.
 
 
 ##### § 19 Abweichende Vereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236100140)
 
 Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen
 Verbraucher, so können die Parteien vereinbaren, dass die §§ 17 und 18
@@ -9323,9 +9789,11 @@ ganz oder teilweise nicht anzuwenden sind.
 
 
 #### Art 249 - Informationspflichten bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054600123)
 
 
 #### § 1 Informationspflichten bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240500123)
 
 Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs
 verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen
@@ -9334,6 +9802,7 @@ stellen.
 
 
 #### § 2 Inhalt der Baubeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240600123)
 
 (1) In der Baubeschreibung sind die wesentlichen Eigenschaften des
 angebotenen Werks in klarer Weise darzustellen. Sie muss mindestens
@@ -9383,6 +9852,7 @@ Baumaßnahme noch nicht fest, ist ihre Dauer anzugeben.
 
 
 #### § 3 Widerrufsbelehrung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240701360)
 
 (1) Steht dem Verbraucher ein Widerrufsrecht nach § 650l Satz 1 des
 Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den
@@ -9423,9 +9893,11 @@ Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
 
 #### Art 250 - Informationspflichten bei Pauschalreiseverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG054900123)
 
 
 #### § 1 Form und Zeitpunkt der vorvertraglichen Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242500123)
 
 (1) Die Unterrichtung des Reisenden nach § 651d Absatz 1 und 5 sowie §
 651v Absatz 1 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser
@@ -9439,6 +9911,7 @@ mitzuteilen.
 
 
 #### § 2 Formblatt für die vorvertragliche Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242600123)
 
 (1) Dem Reisenden ist gemäß dem in Anlage 11 enthaltenen Muster ein
 zutreffend ausgefülltes Formblatt zur Verfügung zu stellen.
@@ -9454,6 +9927,7 @@ den Absätzen 1 und 2 auch telefonisch zur Verfügung gestellt werden.
 
 
 #### § 3 Weitere Angaben bei der vorvertraglichen Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242700123)
 
 Die Unterrichtung muss folgende Informationen enthalten, soweit sie
 für die in Betracht kommende Pauschalreise erheblich sind:
@@ -9557,6 +10031,7 @@ für die in Betracht kommende Pauschalreise erheblich sind:
 
 
 #### § 4 Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242800123)
 
 Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist
 abweichend von § 2 Absatz 1 anstelle des Formblatts gemäß dem in
@@ -9578,12 +10053,14 @@ Unterrichtung nach § 3 sind verpflichtet
 
 
 #### § 5 Gestaltung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE242900123)
 
 Der Pauschalreisevertrag muss in einfacher und verständlicher Sprache
 abgefasst und, sofern er schriftlich geschlossen wird, leserlich sein.
 
 
 #### § 6 Abschrift oder Bestätigung des Vertrags
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243001360)
 
 (1) Dem Reisenden ist bei oder unverzüglich nach Vertragsschluss auf
 einem dauerhaften Datenträger eine Abschrift oder Bestätigung des
@@ -9687,6 +10164,7 @@ Informationen die folgenden Angaben enthalten:
 
 
 #### § 7 Reiseunterlagen, Unterrichtung vor Reisebeginn
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243100123)
 
 (1) Der Reiseveranstalter hat dem Reisenden rechtzeitig vor
 Reisebeginn die notwendigen Reiseunterlagen zu übermitteln,
@@ -9706,6 +10184,7 @@ sind.
 
 
 #### § 8 Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243200123)
 
 (1) Schließt ein Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des
 Bürgerlichen Gesetzbuchs Daten übermittelt werden, mit dem Reisenden
@@ -9725,6 +10204,7 @@ unterrichtet wurde.
 
 
 #### § 9 Weitere Informationspflichten bei Verträgen über Gastschulaufenthalte
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243300123)
 
 Über die in § 6 Absatz 2 bestimmten Angaben hinaus hat der
 Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
@@ -9747,6 +10227,7 @@ Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
 
 
 #### § 10 Unterrichtung bei erheblichen Vertragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243400123)
 
 Beabsichtigt der Reiseveranstalter eine Vertragsänderung nach § 651g
 Absatz 1 des Bürgerlichen Gesetzbuchs, hat er den Reisenden
@@ -9784,9 +10265,11 @@ Weise zu informieren über
 
 
 #### Art 251 - Informationspflichten bei Vermittlung verbundener Reiseleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055000123)
 
 
 #### § 1 Form und Zeitpunkt der Unterrichtung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243500123)
 
 Die Unterrichtung des Reisenden nach § 651w Absatz 2 des Bürgerlichen
 Gesetzbuchs muss erfolgen, bevor dieser eine Vertragserklärung
@@ -9797,6 +10280,7 @@ und in hervorgehobener Weise mitzuteilen.
 
 
 #### § 2 Formblatt für die Unterrichtung des Reisenden
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243600123)
 
 Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen
 Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu
@@ -9846,6 +10330,7 @@ Reiseleistungen noch online erfolgt.
 
 
 #### Art 252 - Sicherungsschein; Mitteilungspflicht des Absicherers
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055101360)
 
 (1) Der Sicherungsschein nach § 651r Absatz 4 Satz 1, auch in
 Verbindung mit § 651w Absatz 3 Satz 4, des Bürgerlichen Gesetzbuchs
@@ -9881,9 +10366,11 @@ Behörde unverzüglich mitzuteilen.
 
 
 #### Art 253 - Zentrale Kontaktstelle
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNG055200123)
 
 
 #### § 1 Zentrale Kontaktstelle; Informationen über die Insolvenzsicherung
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243700123)
 
 (1) Die Aufgaben der zentralen Kontaktstelle nach Artikel 18 Absatz 2
 bis 4 der Richtlinie (EU) 2015/2302 nimmt das Bundesamt für Justiz
@@ -9899,6 +10386,7 @@ Gesetzbuchs) zur Verfügung.
 
 
 #### § 2 Ausgehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243800123)
 
 Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen
 Behörden zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein
@@ -9911,6 +10399,7 @@ Niederlassungsstaats weiter.
 
 
 #### § 3 Eingehende Ersuchen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE243900123)
 
 (1) Auskunftsersuchen zentraler Kontaktstellen anderer Mitgliedstaaten
 oder sonstiger Vertragsstaaten des Abkommens über den Europäischen
@@ -9934,6 +10423,7 @@ dieser Frist eine erste Antwort.
 (zu Artikel 246a § 1 Absatz 2 Satz 2)
 
 ### Anlage 1 Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236205360)
 
 (Fundstelle: BGBl. I 2013, S. 3663 – 3664;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10125,6 +10615,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 2)
 
 ### Anlage 2 Muster für das Widerrufsformular
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236303360)
 
 (Fundstelle: BGBl. I 2013, S. 3665;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10172,6 +10663,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Anlage 3 (zu Artikel 246b § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über Finanzdienstleistungen mit Ausnahme von Verträgen über die Erbringung von Zahlungsdiensten und Immobiliarförderdarlehensverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE239002360)
 
 (Fundstelle: BGBl. I 2021, 1670 - 1672;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10611,6 +11103,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 246b § 2 Absatz 3 Satz 1)
 
 ### Anlage 3a Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Zahlungsdiensterahmenverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246501360)
 
 (Fundstelle: BGBl. I 2021, 1673 - 1677;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11352,6 +11845,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 246b § 2 Absatz 3 Satz 1)
 
 ### Anlage 3b Muster für die Widerrufsbelehrung bei im Fernabsatz und außerhalb von Geschäftsräumen geschlossenen Verträgen über die Erbringung von Zahlungsdiensten in Form von Einzelzahlungsverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE246601360)
 
 (Fundstelle: BGBl. I 2021, 1678 - 1681;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12052,6 +12546,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 247 § 2)
 
 ### Anlage 4 Europäische Standardinformationen für Verbraucherkredite
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236403360)
 
 (Fundstelle: BGBl. I 2009, S. 2393 - 2397;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -12381,6 +12876,7 @@ Europäische Verbraucherkreditinformationen bei
 1\. Überziehungskrediten
 
 ### Anlage 5 2. Umschuldungen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236503360)
 
 (Fundstelle: BGBl. I 2009, S. 2398 - 2401;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -12648,6 +13144,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 247 § 1 Absatz 2)
 
 ### Anlage 6 Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE236604360)
 
 (Fundstelle: BGBl. I 2016, S. 420 - 429)
 
@@ -13772,6 +14269,7 @@ vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)
 
 ### Anlage 7 Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE237405360)
 
 (Fundstelle: BGBl. I 2021, 1682 - 1686;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14656,6 +15154,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)
 
 ### Anlage 8 Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240101360)
 
 (Fundstelle: BGBl. I 2016, S. 433 - 435;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -15158,6 +15657,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 246 Absatz 3)
 
 ### Anlage 9 Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240201360)
 
 (Fundstelle: BGBl. I 2016, S. 436 - 438;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -15604,6 +16104,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 249 § 3)
 
 ### Anlage 10 Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE240400123)
 
 (Fundstelle: BGBl. I 2017, 979)
 
@@ -15665,6 +16166,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 250 § 2 Absatz 1)
 
 ### Anlage 11 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244001360)
 
 (Fundstelle: BGBl. I 2017, 2409 — 2410;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -15872,6 +16374,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 250 § 2 Absatz 2)
 
 ### Anlage 12 Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244101360)
 
 (Fundstelle: BGBl. I 2017, 2411 — 2412;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16084,6 +16587,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 250 § 4)
 
 ### Anlage 13 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244201360)
 
 (Fundstelle: BGBl. I 2017, 2413 — 2414;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16275,6 +16779,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)
 
 ### Anlage 14 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244301360)
 
 (Fundstelle: BGBl. I 2017, 2415;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16389,6 +16894,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)
 
 ### Anlage 15 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244401360)
 
 (Fundstelle: BGBl. I 2017, 2416;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16499,6 +17005,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)
 
 ### Anlage 16 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244501360)
 
 (Fundstelle: BGBl. I 2017, 2417 — 2418;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16657,6 +17164,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)
 
 ### Anlage 17 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244601360)
 
 (Fundstelle: BGBl. I 2017, 2419;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -16777,6 +17285,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (zu Artikel 252 Absatz 1 Satz 1)
 
 ### Anlage 18 Muster für den Sicherungsschein
+[Direktlink](https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html#BJNR006049896BJNE244701360)
 
 (Fundstelle: BGBl. I 2021, 2121;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

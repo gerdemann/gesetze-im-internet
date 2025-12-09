@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50pfbek_1972/BJNR017260972.html#BJNR017260972BJNE000100314)
 
 (1) Die auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
 vom 8. Juli 1950 herausgegebenen Münzen zu 50 Deutschen Pfennig, die
@@ -37,6 +38,7 @@ vom 14. September 1950 - Bundesgesetzblatt S. 694 -).
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/m_nz50pfbek_1972/BJNR017260972.html#BJNR017260972BJNE000200314)
 
 Der Bundesminister für Wirtschaft und Finanzen
 

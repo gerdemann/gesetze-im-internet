@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rohtabbeih2006v/BJNR048000007.html#BJNR048000007BJNE000100000)
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe g und § 6 Abs. 1 Nr. 2 des
 Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der
@@ -32,6 +33,7 @@ Finanzen und für Wirtschaft und Technologie:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rohtabbeih2006v/BJNR048000007.html#BJNR048000007BJNE000200000)
 
 (1) Der Beihilfebetrag nach Artikel 171ci der Verordnung (EG) Nr.
 1973/2004 der Kommission vom 29. Oktober 2004 mit
@@ -80,6 +82,7 @@ feuchtigkeitskorrigierte Gewicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rohtabbeih2006v/BJNR048000007.html#BJNR048000007BJNE000300000)
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

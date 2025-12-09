@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000100000)
 
 Auf Grund des § 2 Abs. 1 des Gesetzes über die Überleitung der
 Staatsbank Berlin vom 23. September 1990 (BGBl. 1990 II S. 885, 992)
@@ -30,6 +31,7 @@ Wiederaufbau:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000200000)
 
 (1) Mit Inkrafttreten dieser Verordnung geht das Vermögen der
 Staatsbank Berlin einschließlich der Verbindlichkeiten als Ganzes ohne
@@ -56,6 +58,7 @@ können kein eigenes Kreditgeschäft betreiben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000300000)
 
 Die Gewährträgerhaftung des Bundes für die Verbindlichkeiten der
 Staatsbank Berlin besteht fort; dies gilt nicht für Verbindlichkeiten,
@@ -68,6 +71,7 @@ geeignete Maßnahmen ausgleichen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000400000)
 
 (1) Die Kreditanstalt für Wiederaufbau tritt nach Maßgabe der
 folgenden Regelungen in die Rechte und Pflichten aus den Arbeits- und
@@ -101,6 +105,7 @@ Staatsbank Berlin verbrachte Beschäftigungszeiten angerechnet werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000500000)
 
 (1) Der Vorstand der Kreditanstalt für Wiederaufbau stellt zum 30.
 September 1994 für das von der Kreditanstalt für Wiederaufbau
@@ -127,6 +132,7 @@ und die Kreditanstalt für Wiederaufbau vertraglich regeln.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kredanstwia_v/BJNR255400994.html#BJNR255400994BJNE000600000)
 
 Diese Verordnung tritt am Ende des Tages nach ihrer Verkündung in
 Kraft.

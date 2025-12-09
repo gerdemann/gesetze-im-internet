@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wissbdvv/BJNR203900020.html#BJNR203900020BJNE000100000)
 
 Auf Grund des § 7 Absatz 3 des Wissenschaftszeitvertragsgesetzes, der
 durch Artikel 1 Nummer 2 des Gesetzes vom 25. Mai 2020 (BGBl. I S.
@@ -26,6 +27,7 @@ Bildung und Forschung:
 
 
 ## § 1 Verlängerung der zulässigen Befristungsdauer nach § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes aus Anlass der COVID-19-Pandemie
+[Direktlink](https://www.gesetze-im-internet.de/wissbdvv/BJNR203900020.html#BJNR203900020BJNE000200000)
 
 Die nach § 2 Absatz 1 Satz 1 und 2 des
 Wissenschaftszeitvertragsgesetzes vom 12. April 2007 (BGBl. I S. 506),
@@ -41,11 +43,13 @@ zulässige Befristungsdauer um sechs Monate.
 
 
 ## § 2 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/wissbdvv/BJNR203900020.html#BJNR203900020BJNE000300000)
 
 Diese Verordnung tritt am 1. Oktober 2020 in Kraft.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/wissbdvv/BJNR203900020.html#BJNR203900020BJNE000400000)
 
 Der Bundesrat hat zugestimmt.
 

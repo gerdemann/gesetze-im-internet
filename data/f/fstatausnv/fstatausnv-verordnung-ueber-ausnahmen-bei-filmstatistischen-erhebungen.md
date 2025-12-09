@@ -18,12 +18,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fstatausnv/BJNR011240982.html#BJNR011240982BJNE000100317)
 
 Auf Grund des § 72 Abs. 4 Nr. 2 des Filmförderungsgesetzes vom 25.
 Juni 1979 (BGBl. I S. 803) wird verordnet:
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/fstatausnv/BJNR011240982.html#BJNR011240982BJNE000200317)
 
 Angaben nach § 72 Abs. 2 Nr. 3 und 6 des Filmförderungsgesetzes werden
 von Unternehmen, die Filme verleihen, vertreiben oder vorführen und
@@ -35,17 +37,20 @@ Eintrittskarten erhoben.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/fstatausnv/BJNR011240982.html#BJNR011240982BJNE000300317)
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 76 des Filmförderungsgesetzes auch im Land Berlin.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/fstatausnv/BJNR011240982.html#BJNR011240982BJNE000400317)
 
 Diese Verordnung tritt am 1. Oktober 1982 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/fstatausnv/BJNR011240982.html#BJNR011240982BJNE000500317)
 
 Der Bundesminister für Wirtschaft
 

@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## (XXXX)
+[Direktlink](https://www.gesetze-im-internet.de/wzgbek_1936-09-15/BJNR203070936.html#BJNR203070936BJNE000100303)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai
 1936 (Reichsgesetzbl. II S. 134) werden in der Anlage amtliche Prüf-
@@ -28,6 +29,7 @@ Der Reichsminister der Justiz
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/wzgbek_1936-09-15/BJNR203070936.html#BJNR203070936BJNE000200303)
 
 (Fundstelle: RGBl. II 1936, 308)
 (Inhalt: nicht darstellbare Prüf- und Gewährzeichen)

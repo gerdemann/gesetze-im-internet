@@ -18,9 +18,11 @@ Fundstelle
 
 
 ## Abschnitt 1 - Personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNG000100000)
 
 
 ### § 1 Übertritt des Personals
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000101000)
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 tritt mit Auflösung der bisherigen Träger der landwirtschaftlichen
@@ -84,6 +86,7 @@ Regelungen für Tarifangestellte zu berücksichtigen.
 
 
 ### § 2 Geschäftsführer
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000200000)
 
 Die Geschäftsführerin oder der Geschäftsführer und die
 stellvertretende Geschäftsführerin oder der stellvertretende
@@ -103,6 +106,7 @@ Geschäftsführer vor Eintritt in den Ruhestand aus ihrem Amt aus, ist §
 
 
 ### § 3 Sonstige personalrechtliche Übergangsregelungen
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000301000)
 
 (1) Für die nach § 1 Absatz 1 übergetretenen
 Dienstordnungsangestellten gilt die Dienstordnung des Spitzenverbandes
@@ -156,9 +160,11 @@ regelmäßige Amtszeit im Jahr 2012 endet, wird bis zum 31. Dezember
 
 
 ## Abschnitt 2 - Übergangsregelungen zum Selbstverwaltungsrecht
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNG000200000)
 
 
 ### § 4 Übergangsregelungen zu den Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000400000)
 
 Bis zum Ablauf der am 1. Januar 2013 laufenden Wahlperiode richten
 sich die Bildung und das Verfahren der Selbstverwaltungsorgane der
@@ -168,6 +174,7 @@ Titels des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch.
 
 
 ### § 5 Vertreterversammlung
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000501000)
 
 (1) Die Vertreterversammlung besteht aus 81 Mitgliedern. Die
 Vertreterversammlung tritt spätestens am 31. Januar 2013 zusammen.
@@ -214,6 +221,7 @@ Das Nähere bestimmt die Satzung.
 
 
 ### § 6 Vorstand
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000600000)
 
 Die am 31. Dezember 2012 amtierenden Mitglieder des Vorstandes des
 Spitzenverbandes der landwirtschaftlichen Sozialversicherung werden
@@ -229,6 +237,7 @@ fremde Arbeitskräfte angehören.
 
 
 ### § 7 Beiräte
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000700000)
 
 (1) Bei den Geschäftsstellen der Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau werden für die Dauer der am 1.
@@ -296,9 +305,11 @@ Mitgliederzahl.
 
 
 ## Abschnitt 3 - Aufbau der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNG000300000)
 
 
 ### § 8 Errichtungsausschuss
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000800000)
 
 (1) Zum Aufbau der Sozialversicherung für Landwirtschaft, Forsten und
 Gartenbau wird ein Errichtungsausschuss gebildet. Die Mitglieder des
@@ -353,6 +364,7 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau vor.
 
 
 ### § 9 Haushaltsplan 2013
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE000900000)
 
 (1) Für das Haushaltsjahr 2013 wird der Haushaltsplan der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau vom
@@ -390,9 +402,11 @@ hierbei zu berücksichtigen.
 
 
 ## Abschnitt 4 - Bildung von Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNG000400000)
 
 
 ### § 10 Sondervermögen
+[Direktlink](https://www.gesetze-im-internet.de/svlf_g/BJNR058100012.html#BJNR058100012BJNE001000000)
 
 (1) Aus dem Vermögen, das nach § 3 Absatz 2 des Gesetzes zur
 Errichtung der Sozialversicherung für Landwirtschaft, Forsten und

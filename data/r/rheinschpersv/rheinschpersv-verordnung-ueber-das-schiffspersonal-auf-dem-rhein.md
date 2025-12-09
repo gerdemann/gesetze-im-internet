@@ -21,6 +21,7 @@ Zuletzt geändert durch
 Stand: Diese V ist gem. Art. 1 § 13 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023 nicht mehr anzuwenden
 
 ## Inhaltsverzeichnis
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000101305)
 
 
 *    *   Teil I
@@ -871,12 +872,15 @@ Stand: Diese V ist gem. Art. 1 § 13 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023 nich
 
 
 ## Teil I - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000100000)
 
 
 ### Kapitel 1 - Allgemeine Bestimmungen für Teile I, II und III
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000200000)
 
 
 #### § 1.01 Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000204119)
 
 In dieser Verordnung gelten als
 Fahrzeugarten
@@ -1074,6 +1078,7 @@ Andere Begriffe
 [^bjnr130030011bjne000202125_01_BJNR130030011BJNE000204119]: 
 
 #### § 1.02 Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000301124)
 
 Die Zentralkommission für die Rheinschifffahrt kann Anordnungen
 vorübergehender Art mit einer Gültigkeit von höchstens drei Jahren
@@ -1091,6 +1096,7 @@ b)  um Versuche, durch die die Sicherheit und Leichtigkeit des
 
 
 #### § 1.03 Dienstanweisungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000400000)
 
 Zur Erleichterung und Vereinheitlichung der Anwendung dieser
 Verordnung kann die ZKR Dienstanweisungen für die zuständigen Behörden
@@ -1098,12 +1104,15 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 ## Teil II - Besatzungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000300000)
 
 
 ### Kapitel 2 - Allgemeine Bestimmungen für Teil II
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000400000)
 
 
 #### § 2.01 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000500000)
 
 
 1.  Dieser Teil gilt
@@ -1144,6 +1153,7 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 #### § 2.02 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000600000)
 
 
 1.  Die Besatzung und das Sicherheitspersonal, die sich nach der
@@ -1193,12 +1203,15 @@ beschließen. Die zuständigen Behörden sind daran gebunden.
 
 
 ### Kapitel 3 - Bestimmungen für alle Fahrzeugarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000500000)
 
 
 #### Abschnitt 1 - Befähigung der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000600000)
 
 
 ##### § 3.01 Beschreibung der Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000701116)
 
 Zu den Besatzungsmitgliedern gehören die Decksmannschaft und das
 Maschinenpersonal. Mitglieder der Decksmannschaft sind der Decksmann,
@@ -1207,9 +1220,11 @@ Schiffsführer. Das Maschinenpersonal besteht aus dem Maschinisten.
 
 
 ##### Unterabschnitt 1 - Voraussetzungen für den Erwerb der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000700000)
 
 
 ###### § 3.02 Voraussetzungen für die Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000803116)
 
 Die Mitglieder der Besatzung müssen folgende Voraussetzungen für die
 Befähigung erfüllen:
@@ -1387,6 +1402,7 @@ werden.
 
 
 ###### § 3.03 Tauglichkeit der Besatzungsmitglieder
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE000900000)
 
 
 1.  Alle Besatzungsmitglieder müssen die Voraussetzungen für die
@@ -1432,6 +1448,7 @@ werden.
 
 
 ###### § 3.04 Regelmäßige Überprüfung der Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001000000)
 
 Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen
 Zeugnisses nach Anlage B2 oder eines von der ZKR als gleichwertig
@@ -1451,9 +1468,11 @@ b)  mit Vollendung des 65. Lebensjahres und danach jährlich für die
 
 
 ##### Unterabschnitt 2 - Art des Nachweises der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000800000)
 
 
 ###### § 3.05 Nachweis der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001100000)
 
 
 1.  Die Befähigung für eine Funktion an Bord muss jederzeit nachgewiesen
@@ -1485,6 +1504,7 @@ b)  mit Vollendung des 65. Lebensjahres und danach jährlich für die
 
 
 ###### § 3.06 Schifferdienstbuch
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001200000)
 
 
 1.  Die Person, auf deren Namen das Schifferdienstbuch ausgestellt ist,
@@ -1556,6 +1576,7 @@ b)  mit Vollendung des 65. Lebensjahres und danach jährlich für die
 
 
 ###### § 3.07 Gültigkeit des Schifferdienstbuches
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001300000)
 
 
 1.  Die Gültigkeit des Schifferdienstbuches ruht auch ohne Anordnung, wenn
@@ -1594,9 +1615,11 @@ b)  mit Vollendung des 65. Lebensjahres und danach jährlich für die
 
 
 ##### Unterabschnitt 3 - Fahrzeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG000900000)
 
 
 ###### § 3.08 Anrechnung der Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001400000)
 
 180 effektive Fahrtage in der Binnenschifffahrt gelten als ein Jahr
 Fahrzeit. Innerhalb von 365 aufeinanderfolgenden Tagen können
@@ -1605,6 +1628,7 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 ###### § 3.09 Nachweis von Fahrzeiten und Streckenfahrten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001500000)
 
 
 1.  Die erforderlichen Streckenfahrten auf dem Rhein und die Fahrzeit sind
@@ -1668,9 +1692,11 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 #### Abschnitt 2 - Mindestruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001000000)
 
 
 ##### § 3.10 Betriebsformen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001600000)
 
 
 1.  Es werden folgende Betriebsformen unterschieden:
@@ -1734,6 +1760,7 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 ##### § 3.11 Mindestruhezeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001701124)
 
 
 1.  In der Betriebsform A1 hat jedes Besatzungsmitglied Anspruch auf eine
@@ -1793,6 +1820,7 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 ##### § 3.12 Wechsel oder Wiederholung der Betriebsform
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001801124)
 
 
 1.  Abweichend von § 3.10 Nr. 1 und 3 ist ein Wechsel oder eine
@@ -1885,6 +1913,7 @@ Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
 
 ##### § 3.13 Bordbuch – Fahrtenschreiber
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE001902125)
 
 
 1.  Auf jedem Schiff ist im Steuerhaus ein Bordbuch nach dem Muster der
@@ -1972,9 +2001,11 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 #### Abschnitt 3 - Mindestbesatzung an Bord
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001100000)
 
 
 ##### § 3.14 Ausrüstung der Schiffe
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002001125)
 
 
 1.  Unbeschadet der Bestimmungen des ES-TRIN müssen Motorschiffe,
@@ -2104,6 +2135,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 ##### § 3.15 Mindestbesatzung der Motorschiffe und Schubboote
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002101116)
 
 
 1.  Die Mindestbesatzung der Motorschiffe und Schubboote beträgt:
@@ -2461,6 +2493,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^bjnr130030011bjne002100000_3_BJNR130030011BJNE002101116]: 
 
 ##### § 3.16 Mindestbesatzung der starren Verbände und anderen starren Zusammenstellungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002201116)
 
 
 1.  Die Mindestbesatzung der starren Verbände und anderen starren
@@ -3196,6 +3229,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^bjnr130030011bjne002100000_4_BJNR130030011BJNE002201116]: 
 
 ##### § 3.17 Mindestbesatzung der Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002302125)
 
 
 1.  Die Mindestbesatzung der Tagesausflugsschiffe umfasst:
@@ -4578,6 +4612,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 [^bjnr130030011bjne002100000_2_BJNR130030011BJNE002302125]: 
 
 ##### § 3.18 Nichterfüllung der Ausrüstung nach § 3.14
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002402125)
 
 
 1.  Entspricht ein Motorschiff, ein Schubboot, ein starrer Verband, eine
@@ -4627,6 +4662,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 ##### § 3.19 Mindestbesatzung der übrigen Fahrzeuge
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002501125)
 
 
 1.  Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die
@@ -4649,6 +4685,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 ##### § 3.20 Mindestbesatzung von Seeschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002600000)
 
 
 1.  Für die Festlegung der Mindestbesatzung von Seeschiffen ist dieser
@@ -4690,6 +4727,7 @@ c)  Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung
 
 
 ##### § 3.21 Mindestbesatzung von Kanalpenichen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002700000)
 
 Die Bestimmungen dieses Kapitels gelten nicht für Kanalpenichen. Die
 Besatzung muss jedoch mindestens umfassen:
@@ -4706,6 +4744,7 @@ Besatzung muss jedoch mindestens umfassen:
 
 
 ##### § 3.22 Mindestbesatzung von Sportfahrzeugen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002800000)
 
 Die Bestimmungen dieses Kapitels gelten nicht für Sportfahrzeuge. Die
 Besatzung muss jedoch mindestens umfassen:
@@ -4721,6 +4760,7 @@ Besatzung muss jedoch mindestens umfassen:
 
 
 ##### § 3.23 Ausnahme
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE002900000)
 
 Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) genügen,
 sofern die deutsch-niederländische Grenze in der einen oder anderen
@@ -4730,9 +4770,11 @@ niederländischen „Binnenvaart wet“ (Staatsblad 2007 Nummer 498).
 
 
 ### Kapitel 4 - Ergänzende Bestimmungen für das Sicherheitspersonal auf Schiffen, die gefährliche Güter befördern
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001200000)
 
 
 #### § 4.01 Verweis auf die Bestimmungen des ADN
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003000000)
 
 Auf Schiffen, die gefährliche Güter befördern, muss eine Person gemäß
 7\.1.3.15 und 7.2.3.15 des ADN Inhaber einer Sachkundigenbescheinigung
@@ -4740,9 +4782,11 @@ nach dem Muster des Abschnitts 8.6.2 des ADN sein.
 
 
 ### Kapitel 4a - Ergänzende Bestimmungen über die Sachkunde der Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002700305)
 
 
 #### § 4a.01 Sachkunde und Einweisung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010300305)
 
 
 1.  Der Schiffsführer und am Bunkervorgang beteiligte Besatzungsmitglieder
@@ -4760,6 +4804,7 @@ nach dem Muster des Abschnitts 8.6.2 des ADN sein.
 
 
 #### § 4a.02 Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010400305)
 
 Die betroffenen Besatzungsmitglieder weisen ihre Sachkunde durch eine
 Bescheinigung nach dem Muster der Anlage E1 nach. Die Bescheinigung
@@ -4768,6 +4813,7 @@ wird erteilt, wenn der Kandidat die Anforderungen der §§ 4a.03 und
 
 
 #### § 4a.03 Lehrgang und Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010500305)
 
 Der Lehrgang zur Sachkunde besteht aus einem theoretischen und einem
 praktischen Teil und wird mit einer Prüfung abgeschlossen. Der
@@ -4785,6 +4831,7 @@ Bord eines Fahrzeugs und/oder an Land abgenommen.
 
 
 #### § 4a.04 Gültigkeit und Verlängerung der Bescheinigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010600305)
 
 
 1.  Die Bescheinigung hat eine Gültigkeitsdauer von fünf Jahren.
@@ -4819,6 +4866,7 @@ Bord eines Fahrzeugs und/oder an Land abgenommen.
 
 
 #### § 4a.05 Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010700305)
 
 Zuständig für die Durchführung von anerkannten Lehrgängen und
 Auffrischungslehrgängen, für die Abnahme von Prüfungen und für die
@@ -4838,9 +4886,11 @@ veröffentlicht.
 
 
 ### Kapitel 5 - Ergänzende Bestimmungen für das Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001300000)
 
 
 #### § 5.01 Sicherheitspersonal auf Fahrgastschiffen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003100000)
 
 
 1.  Auf jedem Fahrgastschiff muss sich Sicherheitspersonal in
@@ -4855,9 +4905,11 @@ veröffentlicht.
 
 
 #### Abschnitt 1 - Anforderungen für den Erwerb und den Nachweis der Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001400000)
 
 
 ##### § 5.02 Sachkundiger für Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003200000)
 
 Der Sachkundige für Fahrgastschifffahrt muss mindestens 18 Jahre alt
 sein und die erforderliche Befähigung besitzen. Diese gilt als
@@ -4875,6 +4927,7 @@ b)  regelmäßig nach Maßgabe des § 5.04 Nr. 2 fortgebildet worden ist.
 
 
 ##### § 5.03 Basislehrgang für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003300000)
 
 Personen, die die Aufgabe des Sachkundigen nach § 5.02 wahrnehmen
 sollen, müssen zur Erlangung der Fachkunde an einem Basislehrgang
@@ -4941,6 +4994,7 @@ c)  eine Abschlussprüfung.
 
 
 ##### § 5.04 Auffrischungslehrgang für Sachkundige
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003400000)
 
 
 1.  Vor Ablauf von fünf Jahren nach der erfolgreichen Teilnahme an dem
@@ -4966,6 +5020,7 @@ c)  eine Abschlussprüfung.
 
 
 ##### § 5.05 Ersthelfer
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003500000)
 
 Der Ersthelfer muss mindestens 17 Jahre alt sein und die erforderliche
 Befähigung besitzen. Diese gilt als vorhanden, wenn die betreffende
@@ -4981,6 +5036,7 @@ b)  regelmäßig nach Maßgabe des § 5.07 fortgebildet worden ist.
 
 
 ##### § 5.06 Atemschutzgeräteträger
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003601125)
 
 Der Atemschutzgeräteträger muss mindestens 18 Jahre alt sein und die
 erforderliche Eignung besitzen, um die Atemschutzgeräte nach Artikel
@@ -4992,6 +5048,7 @@ regelmäßig nach Maßgabe des § 5.07 fortgebildet worden ist.
 
 
 ##### § 5.07 Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003700000)
 
 Die Lehrgänge und Auffrischungslehrgänge für Ersthelfer und
 Atemschutzgeräteträger müssen nach den Vorschriften eines der
@@ -4999,6 +5056,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 5.08 Art des Nachweises der Befähigung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003800000)
 
 
 1.  Die Befähigung zum Sachkundigen in der Fahrgastschifffahrt wird nach
@@ -5040,9 +5098,11 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 #### Abschnitt 2 - Anforderungen an den Betrieb der Fahrgastschiffe
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001500000)
 
 
 ##### § 5.09 Anzahl des Sicherheitspersonals
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE003900000)
 
 
 1.  Die Funktionen des Sachkundigen für Fahrgastschifffahrt, des
@@ -5156,6 +5216,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 5.10 Pflichten des Schiffsführers und des Sachkundigen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004001125)
 
 
 1.  Über die Bestimmungen der Rheinschifffahrtspolizeiverordnung hinaus
@@ -5207,6 +5268,7 @@ Rheinuferstaaten oder Belgiens durchgeführt werden.
 
 
 ##### § 5.11 Aufsicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004100000)
 
 Solange sich Fahrgäste an Bord befinden, muss nachts stündlich ein
 Kontrollgang durchgeführt werden. Die Durchführung muss auf geeignete
@@ -5214,12 +5276,15 @@ Weise nachweisbar sein.
 
 
 ## Teil III - Patentvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001600000)
 
 
 ### Kapitel 6 - Allgemeine Bestimmungen für Teil III
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001700000)
 
 
 #### § 6.01 Geltungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004200000)
 
 Dieser Teil regelt die Patentpflicht für die Schifffahrt auf dem Rhein
 für die jeweilige Fahrzeugsart und -größe und die zu durchfahrende
@@ -5227,6 +5292,7 @@ Strecke sowie die Bedingungen für den Erwerb der Patente.
 
 
 #### § 6.02 Schifferpatentpflicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004301305)
 
 
 1.  Wer auf dem Rhein ein Fahrzeug führen will, bedarf entweder eines
@@ -5291,6 +5357,7 @@ Strecke sowie die Bedingungen für den Erwerb der Patente.
 
 
 #### § 6.03 Radarpatentpflicht
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004400000)
 
 
 1.  Wer eine Radarfahrt durchführt, muss neben dem für die zu
@@ -5311,6 +5378,7 @@ Strecke sowie die Bedingungen für den Erwerb der Patente.
 
 
 #### § 6.04 Patentarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004500000)
 
 Nach dieser Verordnung sind zu unterscheiden
 
@@ -5348,15 +5416,19 @@ Nach dieser Verordnung sind zu unterscheiden
 
 
 ### Kapitel 7 - Bestimmungen über die Schifferpatente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001800000)
 
 
 #### Abschnitt 1 - Erwerb der Befähigungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG001900000)
 
 
 ##### Unterabschnitt 1 - Patentarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002000000)
 
 
 ###### § 7.01 Großes Patent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004601116)
 
 
 1.  Wer das Große Patent erwerben will, muss mindestens 21 Jahre alt sein.
@@ -5417,6 +5489,7 @@ Nach dieser Verordnung sind zu unterscheiden
 
 
 ###### § 7.02 Kleines Patent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004701116)
 
 
 1.  Wer das Kleine Patent erwerben will, muss mindestens 21 Jahre alt
@@ -5477,6 +5550,7 @@ Nach dieser Verordnung sind zu unterscheiden
 
 
 ###### § 7.03 Sportpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004800000)
 
 
 1.  Wer das Sportpatent erwerben will, muss mindestens 18 Jahre alt sein.
@@ -5509,6 +5583,7 @@ Nach dieser Verordnung sind zu unterscheiden
 
 
 ###### § 7.04 Behördenpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE004900000)
 
 
 1.  Wer das Behördenpatent erwerben will, muss
@@ -5549,9 +5624,11 @@ Nach dieser Verordnung sind zu unterscheiden
 
 
 ##### Unterabschnitt 2 - Streckenkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002100000)
 
 
 ###### § 7.05 Streckenkundepflichtige Strecke
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005000000)
 
 Ohne Rücksicht auf die betreffende Patentart sind spezifische
 Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
@@ -5559,6 +5636,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ###### § 7.06 Erwerb der Streckenkenntnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005101116)
 
 
 1.  Wer ein Rheinpatent oder ein Streckenzeugnis erwerben will, muss den
@@ -5603,6 +5681,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ###### § 7.07 Streckenzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005200000)
 
 
 1.  Bewerber um ein Patent für einen Abschnitt, der die in § 7.05
@@ -5623,9 +5702,11 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 #### Abschnitt 2 - Zulassungs- und Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002200000)
 
 
 ##### § 7.08 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005300000)
 
 
 1.  Die zuständige Behörde bildet für die Abnahme der Prüfungen eine oder
@@ -5645,6 +5726,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.09 Antrag auf Erwerb oder Erweitern eines Rheinpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005400000)
 
 
 1.  Wer ein Rheinpatent erwerben oder ein Rheinpatent erweitern will, hat
@@ -5749,6 +5831,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.10 Antrag auf Erwerb oder Erweitern eines Streckenzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005500000)
 
 
 1.  Wer ein Streckenzeugnis erwerben oder erweitern will, hat einen Antrag
@@ -5787,6 +5870,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.11 Zulassung zur Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005600000)
 
 
 1.  Nach Vorlage der vollständigen Antragsunterlagen nach § 7.09 Nr. 1 bis
@@ -5824,6 +5908,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.12 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005700000)
 
 
 1.  Der Bewerber der Prüfung hat vor einer Prüfungskommission
@@ -5860,6 +5945,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.13 Befreiungen und Erleichterungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005800000)
 
 
 1.  Wer eine berufsbezogene Abschlussprüfung bestanden hat, kann von dem
@@ -5898,6 +5984,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.14 Ausstellung und Erweiterung der Rheinpatente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE005900000)
 
 
 1.  Hat der Bewerber die Prüfung bestanden, erteilt ihm die ausstellende
@@ -5939,6 +6026,7 @@ Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km
 
 
 ##### § 7.15 Ausstellung des Streckenzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006000000)
 
 Hat der Bewerber die Prüfung für die Streckenkenntnisse nach § 7.06
 Nr. 2 bestanden, erteilt ihm die zuständige Behörde ein
@@ -5946,6 +6034,7 @@ Streckenzeugnis nach dem Muster der Anlage D3.
 
 
 ##### § 7.16 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006100000)
 
 Die Prüfung, die Erteilung, Erweiterung und Erstreckung des
 Rheinpatentes oder eines Streckenzeugnisses sowie die
@@ -5956,9 +6045,11 @@ teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
 
 #### Abschnitt 3 - Kontrolle der Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002300000)
 
 
 ##### § 7.17 Regelmäßige Überprüfung der Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006200000)
 
 
 1.  Wer das Große Patent, das Kleine Patent, das Sportpatent oder ein von
@@ -5984,6 +6075,7 @@ teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
 
 ##### § 7.18 Nachweis der Tauglichkeit von Inhabern eines Rheinpatents ab dem Alter von 50 Jahren
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006300000)
 
 
 1.  Die ausstellende Behörde stellt dem Patentinhaber auf Vorlage des
@@ -6034,6 +6126,7 @@ teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
 
 ##### § 7.19 Nachweis der Tauglichkeit von Inhabern eines als gleichwertig anerkannten Schiffsführerzeugnisses ab dem Alter von 50 Jahren
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006400000)
 
 
 1.  Die zuständige Behörde, wie sie in § 7.17 Nummer 3 definiert wird,
@@ -6068,9 +6161,11 @@ teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
 
 #### Abschnitt 4 - Überprüfung und Entzug
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002400000)
 
 
 ##### § 7.20 Aussetzen der Gültigkeit des Rheinpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006500000)
 
 
 1.  Die Gültigkeit des Rheinpatentes ruht
@@ -6118,6 +6213,7 @@ teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
 
 ##### § 7.21 Ablauf der Gültigkeit eines als gleichwertig anerkannten Schiffsführerzeugnisses auf dem Rhein
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006600000)
 
 Das von der ZKR als gleichwertig anerkannte Schiffsführerzeugnis
 verliert, auch ohne dass es dazu einer besonderen Entscheidung bedarf,
@@ -6139,6 +6235,7 @@ b)  wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die
 
 
 ##### § 7.22 Entzug des Rheinpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006700000)
 
 
 1.  Erweist sich der Inhaber eines Rheinpatentes zum Führen von Fahrzeugen
@@ -6182,6 +6279,7 @@ b)  wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die
 
 
 ##### § 7.23 Fahrverbot für den Inhaber eines als gleichwertig anerkannten Schiffsführerzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006800000)
 
 
 1.  Bestehen Zweifel an der körperlichen oder geistigen Tauglichkeit des
@@ -6223,6 +6321,7 @@ b)  wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die
 
 
 ##### § 7.24 Sicherstellung eines Rheinpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE006900000)
 
 
 1.  Sind dringende Gründe für die Annahme vorhanden, dass ein Rheinpatent
@@ -6257,6 +6356,7 @@ b)  wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die
 
 
 ##### § 7.25 Sicherstellung eines als gleichwertig anerkannten Schiffsführerzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007000000)
 
 
 1.  Sind dringende Gründe für die Annahme vorhanden, dass das
@@ -6280,9 +6380,11 @@ b)  wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die
 
 
 ### Kapitel 8 - Radarpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002500000)
 
 
 #### § 8.01 Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007100000)
 
 Wer ein Radarpatent erwerben will, muss
 
@@ -6299,6 +6401,7 @@ c)  Inhaber eines Sprechfunkzeugnisses sein.
 
 
 #### § 8.02 Antrags- und Zulassungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007200000)
 
 
 1.  Wer ein Radarpatent erwerben will, hat einen Antrag auf Zulassung zur
@@ -6338,6 +6441,7 @@ c)  Inhaber eines Sprechfunkzeugnisses sein.
 
 
 #### § 8.03 Prüfungskommission
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007300000)
 
 
 1.  Die zuständige Behörde bildet für die Abnahme der Prüfungen eine oder
@@ -6354,6 +6458,7 @@ c)  Inhaber eines Sprechfunkzeugnisses sein.
 
 
 #### § 8.04 Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007400000)
 
 
 1.  Der Bewerber hat in einer Prüfung vor einer Prüfungskommission nach §
@@ -6391,6 +6496,7 @@ c)  Inhaber eines Sprechfunkzeugnisses sein.
 
 
 #### § 8.05 Ausstellung des Radarpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007500000)
 
 
 1.  Hat der Bewerber die Prüfung bestanden, erteilt ihm die zuständige
@@ -6419,6 +6525,7 @@ c)  Inhaber eines Sprechfunkzeugnisses sein.
 
 
 #### § 8.06 Entzug des Radarpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007600000)
 
 Das Radarpatent kann durch die ausstellende Behörde, die es erteilt
 hat, entzogen werden, wenn der Inhaber bei der Führung des Fahrzeuges
@@ -6427,6 +6534,7 @@ hat. Das Radarpatent kann auf Zeit oder für dauernd entzogen werden.
 
 
 #### § 8.07 Maßnahmen gegen Inhaber eines als gleichwertig anerkannten Radarzeugnisses
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007700000)
 
 
 1.  Die zuständige Behörde oder das zuständige Gericht kann für einen
@@ -6447,6 +6555,7 @@ hat. Das Radarpatent kann auf Zeit oder für dauernd entzogen werden.
 
 
 #### § 8.08 Kosten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007800000)
 
 Die Prüfung, die Erteilung, die Ersatzausfertigung und der Umtausch
 des Radarpatentes erfolgen gegen angemessene Erstattung der Kosten
@@ -6456,9 +6565,11 @@ Antragstellung erheben.
 
 
 ### Kapitel 9 - Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNG002600000)
 
 
 #### § 9.01 Gültigkeit der Bordbücher und Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE007900000)
 
 Bordbücher und Schifferdienstbücher, die nach den bis zum
 Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt
@@ -6467,6 +6578,7 @@ Vorschriften bis zu ihrer Erneuerung gültig.
 
 
 #### § 9.02 Gültigkeit der bisherigen Patente
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008000000)
 
 
 1.  Patente, die nach den bis zum Inkrafttreten dieser Verordnung
@@ -6500,6 +6612,7 @@ Vorschriften bis zu ihrer Erneuerung gültig.
 
 
 #### § 9.03 Zuordnung der Patentarten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008100000)
 
 
 1.  Gültige Patente nach § 9.02 Nr. 1 entsprechen den Patenten nach § 6.04
@@ -6567,6 +6680,7 @@ Vorschriften bis zu ihrer Erneuerung gültig.
 
 
 #### § 9.04 Anrechnung von Fahrzeiten
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008200000)
 
 Die Fahrzeit und die Streckenfahrten, die vor Inkrafttreten dieser
 Verordnung geleistet wurden, werden nach Maßgabe der bisherigen
@@ -6574,6 +6688,7 @@ Vorschriften angerechnet.
 
 
 #### § 9.05 Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010800305)
 
 Besatzungsmitglieder von Fahrzeugen, die vor dem 1. Juli 2016 mit der
 Nutzung von Flüssigerdgas (LNG) als Brennstoff begonnen haben,
@@ -6585,12 +6700,14 @@ mindestens 90 Tage Fahrzeit auf derartigen Schiffen nachweisen können.
 (Muster)
 
 #### Anlage A1 Bordbuch
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008302125)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 35 - 37)
 
 
 
 #### Anlage A1a Zuständige Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE011100305)
 
 (Fundstelle: BGBl. II 2016, S. 718)
 
@@ -6621,12 +6738,14 @@ www.ccr-zkr.org bekannt gemacht.
 (Muster)
 
 #### Anlage A2 Schifferdienstbuch
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008400000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 38 - 59)
 
 
 
 #### Anlage A3 Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord in Anwendung des § 3.10 dieser Verordnung
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008500000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 60 - 61)
 
@@ -6826,12 +6945,14 @@ einzuhalten:
 (Muster)
 
 #### Anlage A4 Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008600000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 62)
 
 
 
 #### Anlage A5 Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008702305)
 
 (Fundstelle: BGBl. II 2017, 324)
 
@@ -6842,6 +6963,7 @@ zkr.org* bekannt gemacht.
 
 
 #### Anlage B1 Mindestanforderungen an die Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008800000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 64)
 
@@ -6969,6 +7091,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage B2 Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE008900000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 65 - 66)
 
@@ -6976,6 +7099,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage B3 Bescheid zur Tauglichkeit
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009000000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 67)
 
@@ -6983,6 +7107,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage C1 Bescheinigung Sachkundiger für Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009100000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 68)
 
@@ -6990,6 +7115,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage C2 Bescheinigung Ersthelfer in der Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009200000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 69)
 
@@ -6997,6 +7123,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage C3 Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009300000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 70)
 
@@ -7004,6 +7131,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage C4 Bescheinigungsbuch für die Fahrgastschifffahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009400000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 71 - 80)
 
@@ -7011,6 +7139,7 @@ zkr.org* bekannt gemacht.
 (Muster)
 
 #### Anlage D1 Rheinpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009501305)
 
 (Fundstelle: BGBl. II 2016, S. 708; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -7027,6 +7156,7 @@ Rheinpatent
 (Muster)
 
 #### Anlage D2 Vorläufiges Rheinpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009600000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 82)
 
@@ -7034,6 +7164,7 @@ Rheinpatent
 (Muster)
 
 #### Anlage D3 Streckenzeugnis
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009700000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 83)
 
@@ -7041,12 +7172,14 @@ Rheinpatent
 (Muster)
 
 #### Anlage D4 Radarpatent
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009800000)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 84)
 
 
 
 #### Anlage D5 Als gleichwertig anerkannte Schiffsführerzeugnisse
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE009906305)
 
 (Fundstelle: BGBl. II 2017, 324)
 
@@ -7057,6 +7190,7 @@ bekannt gemacht.
 
 
 #### Anlage D6 Als gleichwertig anerkannte Befähigungszeugnisse für die Radarfahrt
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010004305)
 
 (Fundstelle: BGBl. II 2017, 324)
 
@@ -7067,6 +7201,7 @@ Website *www.ccr-zkr.org* bekannt gemacht.
 
 
 #### Anlage D7 Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010101125)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 102 - 103)
 
@@ -7923,6 +8058,7 @@ Website *www.ccr-zkr.org* bekannt gemacht.
 
 
 #### Anlage D8 Prüfungsprogramm für den Erwerb eines Radarpatentes
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010201125)
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 104 - 105)
 
@@ -8294,6 +8430,7 @@ Website *www.ccr-zkr.org* bekannt gemacht.
 
 
 #### Anlage E1 Muster der Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE010900305)
 
 (Fundstelle: BGBl. II 2016, S. 705; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -8302,6 +8439,7 @@ Fußnote)
 ![bgbl2_2016_j0705_0010.jpg](bgbl2_2016_j0705_0010.jpg)![bgbl2_2016_j0705_0020.jpg](bgbl2_2016_j0705_0020.jpg)
 
 #### Anlage E2 Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+[Direktlink](https://www.gesetze-im-internet.de/rheinschpersv/BJNR130030011.html#BJNR130030011BJNE011001125)
 
 (Fundstelle: BGBl. II 2016, S. 706 - 707)
 

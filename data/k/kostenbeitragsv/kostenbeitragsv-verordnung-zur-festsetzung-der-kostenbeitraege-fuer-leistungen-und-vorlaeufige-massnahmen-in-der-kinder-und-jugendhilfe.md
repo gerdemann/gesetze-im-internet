@@ -22,6 +22,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000100000)
 
 Auf Grund des § 94 Abs. 5 Satz 1 des Achten Buches Sozialgesetzbuch -
 Kinder- und Jugendhilfe - in der Fassung der Bekanntmachung vom 8.
@@ -32,6 +33,7 @@ Jugend:
 
 
 ## § 1 Festsetzung des Kostenbeitrags
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000202126)
 
 (1) Die Höhe des Kostenbeitrags, den Elternteile zu entrichten haben,
 richtet sich nach
@@ -52,6 +54,7 @@ Kostenbeitrag getrennt ermittelt und erhoben.
 
 
 ## § 2 Wahl der Beitragsstufe bei vollstationären Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000301126)
 
 (1) Die Höhe des Beitrags zu den Kosten einer vollstationären Leistung
 nach § 91 Abs. 1 des Achten Buches Sozialgesetzbuch ergibt sich aus
@@ -70,6 +73,7 @@ Sozialgesetzbuch erhoben.
 
 
 ## § 3 Wahl der Beitragsstufe bei teilstationären Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000401377)
 
 Die Höhe des Kostenbeitrags für teilstationäre Leistungen nach § 91
 Absatz 2 des Achten Buches Sozialgesetzbuch ergibt sich aus der
@@ -78,6 +82,7 @@ Anlage.
 
 
 ## § 4 Berücksichtigung weiterer Unterhaltspflichten
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000502126)
 
 (1) Ist die kostenbeitragspflichtige Person gegenüber anderen Personen
 nach § 1609 des Bürgerlichen Gesetzbuchs im mindestens gleichen Rang
@@ -112,6 +117,7 @@ Unterhaltspflichten regelmäßig nachkommt.
 
 
 ## § 5 Behandlung hoher Einkommen
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000602126)
 
 (1) Liegt das nach § 93 des Achten Buches Sozialgesetzbuch maßgebliche
 Einkommen eines Elternteils oberhalb der Einkommensgruppe 14 der
@@ -146,6 +152,7 @@ nicht überschreiten.
 
 
 ## § 6 Heranziehung der Eltern bei Leistungen für junge Volljährige
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE000702126)
 
 Bei Leistungen für junge Volljährige ist ein kostenbeitragspflichtiger
 Elternteil höchstens zu einem Kostenbeitrag auf Grund der
@@ -159,11 +166,13 @@ Zuordnung nach § 4 Absatz 1.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE001100000)
 
 Der Bundesrat hat zugestimmt.
 
 
 ## Anlage
+[Direktlink](https://www.gesetze-im-internet.de/kostenbeitragsv/BJNR290700005.html#BJNR290700005BJNE001202126)
 
 (Fundstelle: BGBl. 2023 I Nr. 396, S. 2)
 

@@ -20,6 +20,7 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000104125)
 
 (1) Die Industrie- und Handelskammern haben, soweit nicht die
 Zuständigkeit der Organisationen des Handwerks nach Maßgabe der
@@ -121,6 +122,7 @@ Selbstverwaltung liegen.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000207125)
 
 (1) Zur Industrie- und Handelskammer gehören, sofern sie zur
 Gewerbesteuer veranlagt sind, natürliche Personen,
@@ -169,6 +171,7 @@ c)  Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000309301)
 
 (1) Die Industrie- und Handelskammer ist Körperschaft des öffentlichen
 Rechts.
@@ -303,6 +306,7 @@ werden.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000407125)
 
 (1) Die Organe der Industrie- und Handelskammer sind
 
@@ -367,6 +371,7 @@ Satzungsrecht vorgesehen ist, hat diese im Bundesanzeiger zu erfolgen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000502125)
 
 (1) Die Mitglieder der Vollversammlung werden von den
 Kammerzugehörigen gewählt.
@@ -405,6 +410,7 @@ gesamtwirtschaftliche Bedeutung der Gewerbegruppen berücksichtigen.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000600312)
 
 (1) Die Vollversammlung wählt aus ihrer Mitte den Präsidenten (Präses)
 und die von der Satzung zu bestimmende Zahl von weiteren Mitgliedern
@@ -415,6 +421,7 @@ beruft die Vollversammlung ein und führt in ihr den Vorsitz.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000700312)
 
 (1) Die Vollversammlung bestellt den Hauptgeschäftsführer.
 
@@ -424,6 +431,7 @@ rechtsgeschäftlich und gerichtlich.
 
 
 ## § 8
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000801377)
 
 Werden bei den Industrie- und Handelskammern zur Durchführung anderer
 als der in § 79 des Berufsbildungsgesetzes genannten Aufgaben
@@ -433,6 +441,7 @@ wählbar sind.
 
 
 ## § 9
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE000907125)
 
 (1) Die Industrie- und Handelskammern erheben die Daten nach § 14
 Absatz 8 Satz 1 Nummer 1 in Verbindung mit Satz 2 der Gewerbeordnung
@@ -553,6 +562,7 @@ Verordnung (EU) 2016/679 die Datenschutzgesetze der Länder.
 
 
 ## § 10 Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001004125)
 
 (1) Industrie- und Handelskammern können Aufgaben, die ihnen auf Grund
 von Gesetz oder Rechtsverordnung obliegen, einvernehmlich einer
@@ -582,6 +592,7 @@ entsprechend anzuwenden.
 
 
 ## § 10a
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001800125)
 
 (1) Die Deutsche Industrie- und Handelskammer hat die Aufgabe,
 
@@ -668,6 +679,7 @@ Berufsbildungsgesetz ist ausgeschlossen.
 
 
 ## § 10b
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001900125)
 
 (1) Die Deutsche Industrie- und Handelskammer ist eine Körperschaft
 des öffentlichen Rechts. Sie führt ein Dienstsiegel und hat
@@ -707,6 +719,7 @@ Bundeshaushaltsordnung durch Satzung zu regeln.
 
 
 ## § 10c
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE002000125)
 
 (1) Für die Organe der Deutschen Industrie- und Handelskammer gilt § 4
 Absatz 1 Nummer 1 bis 4 entsprechend.
@@ -793,6 +806,7 @@ rechtsgeschäftlich und gerichtlich.
 
 
 ## § 11
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001105125)
 
 (1) Die Industrie- und Handelskammern unterliegen der Aufsicht des
 Landes darüber, daß sie sich bei Ausübung ihrer Tätigkeit im Rahmen
@@ -856,6 +870,7 @@ Handelskammern keine Anwendung.
 
 
 ## § 11a
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE002100125)
 
 (1) Die Deutsche Industrie- und Handelskammer unterliegt in
 entsprechender Anwendung des § 11 Absatz 1 Satz 1 der Aufsicht des
@@ -899,6 +914,7 @@ Beschwerdeausschuss einzurichten.
 
 
 ## § 12
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001203301)
 
 (1) Durch Landesrecht können ergänzende Vorschriften erlassen werden
 über
@@ -941,12 +957,14 @@ die Kammerzugehörigen gemäß § 2 Abs. 1 zu hören.
 
 
 ## § 13
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001300312)
 
 Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige
 Bezeichnung weiterzuführen.
 
 
 ## § 13a
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001601377)
 
 (1) Kammerzugehörige, die am 31. Dezember 1993 nach § 2 Abs. 3 und § 3
 Abs. 3 Satz 2 in der am 31. Dezember 1993 geltenden Fassung einer
@@ -963,6 +981,7 @@ Dezember 2003 erfolgt.
 
 
 ## § 13b
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001701125)
 
 (1) Präsidiumsmitglieder und der Hauptgeschäftsführer einer Industrie-
 und Handelskammer bleiben auch nach Ablauf ihrer Amtszeit bis zur
@@ -1046,6 +1065,7 @@ anzuwenden.
 
 
 ## § 13c
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE002200125)
 
 (1) Der Deutsche Industrie- und Handelskammertag e. V. wird zum 1.
 Januar 2023 zur Deutschen Industrie- und Handelskammer durch einen
@@ -1178,6 +1198,7 @@ Satz 3 bedarf der Genehmigung der Aufsichtsbehörde.
 
 
 ## § 13d
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE002300125)
 
 (1) Wird die Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 nicht bis zu
 dem in § 13c Absatz 1 Satz 2 genannten Stichtag beschlossen und dem
@@ -1206,6 +1227,7 @@ der Satzung nach § 10c Absatz 3 Satz 2 Nummer 1 maßgeblich.
 
 
 ## § 14
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001401308)
 
 Bis zum 31. Dezember 1997 können die Beiträge der Kammerzugehörigen
 von den Industrie- und Handelskammern in dem in Artikel 3 des
@@ -1219,6 +1241,7 @@ Aufsichtsbehörde.
 
 
 ## § 15
+[Direktlink](https://www.gesetze-im-internet.de/ihkg/BJNR009200956.html#BJNR009200956BJNE001500312)
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

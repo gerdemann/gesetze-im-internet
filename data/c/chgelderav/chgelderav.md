@@ -27,6 +27,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000100000)
 
 Das Bundesministerium der Justiz verordnet aufgrund
 
@@ -45,6 +46,7 @@ Das Bundesministerium der Justiz verordnet aufgrund
 
 
 ## § 1 Elektronischer Rechtsverkehr mit dem Bundesamt für Justiz
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000200000)
 
 (1) Beim Bundesamt für Justiz können ab dem 1. Mai 2025 in Verfahren
 nach den Artikeln 48 bis 51 des Vertrages vom 5. April 2022 zwischen
@@ -76,6 +78,7 @@ www.bundesjustizamt.de bekannt.
 
 
 ## § 2 Signaturanforderungen
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000300000)
 
 (1) Elektronische Dokumente gemäß § 1 Absatz 1 sind mit einer
 qualifizierten elektronischen Signatur zu versehen.
@@ -130,6 +133,7 @@ wenn
 
 
 ## § 3 Formular
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000400000)
 
 Für ausgehende Vollstreckungshilfeersuchen stellt das Bundesamt für
 Justiz über seine Internetseite
@@ -141,6 +145,7 @@ ermöglicht.
 
 
 ## § 4 Zulassung der elektronischen Aktenführung
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000500000)
 
 Das Bundesamt für Justiz kann ab dem 1. Mai 2025 die Akten in
 Verfahren nach den Artikeln 48 bis 51 des Deutsch-Schweizerischen
@@ -150,6 +155,7 @@ Zwangsvollstreckungsverfahren elektronisch führen.
 
 
 ## § 5 Führung elektronischer Akten
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000600000)
 
 (1) Es ist durch geeignete technische und organisatorische Maßnahmen
 nach dem Stand der Technik sicherzustellen, dass die Grundsätze
@@ -171,6 +177,7 @@ sein.
 
 
 ## § 6 Datenschutz, Datensicherheit und Barrierefreiheit
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000700000)
 
 (1) Das Bundesamt für Justiz dokumentiert die dem Stand der Technik
 entsprechenden technischen und organisatorischen Maßnahmen, die es zur
@@ -186,6 +193,7 @@ Verordnung zu gewährleisten.
 
 
 ## § 7 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/chgelderav/BJNR07B0A0025.html#BJNR07B0A0025BJNE000800000)
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

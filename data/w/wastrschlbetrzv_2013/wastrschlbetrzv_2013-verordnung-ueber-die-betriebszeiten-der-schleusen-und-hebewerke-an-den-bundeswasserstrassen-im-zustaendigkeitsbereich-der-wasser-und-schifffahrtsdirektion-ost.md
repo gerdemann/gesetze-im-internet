@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000100000)
 
 Auf Grund des § 46 Nr. 1 des Bundeswasserstraßengesetzes in der
 jeweils aktuellen Fassung in Verbindung mit § 1 der Verordnung zur
@@ -28,6 +29,7 @@ Schifffahrtsdirektion Ost für ihren Zuständigkeitsbereich:
 
 
 ## § 1 Betriebszeiten
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000200000)
 
 Die Betriebszeiten der Schleusen und Hebewerke an den
 Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und
@@ -35,12 +37,14 @@ Schifffahrtsdirektion Ost sind in der Anlage festgesetzt.
 
 
 ## § 2 Betrieb
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000300000)
 
 Fahrzeuge und Verbände müssen bis Ende der festgelegten Betriebszeiten
 in die Schleusenkammer eingefahren sein.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000400000)
 
 
 (1) Schleusungen, die nach Ende der in der Anlage genannten Betriebszeiten
@@ -118,6 +122,7 @@ in die Schleusenkammer eingefahren sein.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000500000)
 
 An den bundeseinheitlichen Feiertagen, am 31. Oktober, sowie am 24.
 und 31. Dezember gelten die Schleusenbetriebszeiten wie an Sonntagen,
@@ -129,6 +134,7 @@ erfordern oder zulassen.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000600000)
 
 Fahrzeuge der gewerblichen Schifffahrt können an den Tagen, an denen
 nach § 4 Betriebsruhe angeordnet ist, auf Anmeldung geschleust werden,
@@ -138,6 +144,7 @@ angemeldet wurde und die Schleusung von diesem bestätigt worden ist.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt
 die Verordnung über die Betriebszeiten der Schleusen und Hebewerke an
@@ -149,6 +156,7 @@ außer Kraft.
 Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen
 
 ## Anlage im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion Ost
+[Direktlink](https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/BJNR794500012.html#BJNR794500012BJNE000800000)
 
 (Fundstelle: VkBl. 2012, 946 - 953)
 

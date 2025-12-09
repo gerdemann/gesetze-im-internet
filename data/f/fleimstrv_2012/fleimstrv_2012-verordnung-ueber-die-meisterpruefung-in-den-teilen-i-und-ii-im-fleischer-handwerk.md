@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000100000)
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung, der zuletzt durch
 Artikel 3 Nummer 1 des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341)
@@ -29,6 +30,7 @@ und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000200000)
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
@@ -37,6 +39,7 @@ Handwerk.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000300000)
 
 Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende
 Fertigkeiten und Kenntnisse zum Nachweis der beruflichen
@@ -149,6 +152,7 @@ Handlungskompetenz zu berücksichtigen:
 
 
 ## § 3 Ziel und Gliederung des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000400000)
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche
@@ -160,6 +164,7 @@ Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen
@@ -201,6 +206,7 @@ Dokumentationsunterlagen mit 20 Prozent gewichtet.
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000600000)
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in
 einem Fachgespräch nachzuweisen, dass er befähigt ist,
@@ -221,6 +227,7 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
 
 ## § 6 Prüfungsdauer und Bestehen des Teils I
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000700000)
 
 (1) Das Meisterprüfungsprojekt dauert drei Arbeitstage. Das
 Fachgespräch soll höchstens 30 Minuten dauern.
@@ -237,6 +244,7 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 
 ## § 7 Ziel, Gliederung und Inhalt des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000800000)
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in
 Absatz 2 Satz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine
@@ -398,6 +406,7 @@ auch handlungsfeldübergreifend verknüpft werden können.
 
 
 ## § 8 Prüfungsdauer und Bestehen des Teils II
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE000900000)
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in
 jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden
@@ -428,6 +437,7 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE001001128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -438,6 +448,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 10 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE001100000)
 
 (1) Die bis zum 31. Dezember 2012 begonnenen Prüfungsverfahren werden
 nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die
@@ -453,6 +464,7 @@ geltenden Vorschriften ablegen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/fleimstrv_2012/BJNR210900012.html#BJNR210900012BJNE001200000)
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt
 die Fleischermeisterverordnung vom 19. Juni 1996 (BGBl. I S. 882), die

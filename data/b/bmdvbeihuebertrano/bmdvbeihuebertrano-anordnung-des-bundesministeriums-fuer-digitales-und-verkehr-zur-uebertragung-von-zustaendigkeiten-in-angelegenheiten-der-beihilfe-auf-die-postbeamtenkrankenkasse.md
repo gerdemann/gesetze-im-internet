@@ -18,6 +18,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/bmdvbeih_bertrano/BJNR0610A0025.html#BJNR0610A0025BJNE000100000)
 
 Nach § 80 Absatz 6, § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1
 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160), das
@@ -30,6 +31,7 @@ Digitales und Verkehr an:
 
 
 ## § 1 Übertragung von Zuständigkeiten für die Festsetzung von Leistungen sowie für damit zusammenhängende Widerspruchs- und Klageverfahren
+[Direktlink](https://www.gesetze-im-internet.de/bmdvbeih_bertrano/BJNR0610A0025.html#BJNR0610A0025BJNE000200000)
 
 (1) Der Postbeamtenkrankenkasse wird die Zuständigkeit für die
 Beihilfebearbeitung einschließlich der Beihilfefestsetzung für
@@ -74,12 +76,14 @@ Widerspruchsbescheids zuständig war.
 
 
 ## § 2 Vorbehaltsklausel
+[Direktlink](https://www.gesetze-im-internet.de/bmdvbeih_bertrano/BJNR0610A0025.html#BJNR0610A0025BJNE000300000)
 
 Das Bundesministerium für Digitales und Verkehr behält sich vor,
 Zuständigkeiten nach § 1 in besonderen Fällen selbst auszuüben.
 
 
 ## § 3 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/bmdvbeih_bertrano/BJNR0610A0025.html#BJNR0610A0025BJNE000400000)
 
 Diese Anordnung tritt am 1. April 2025 in Kraft.
 

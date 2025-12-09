@@ -25,12 +25,15 @@ Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen und Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000100000)
 
 
 ### Unterabschnitt 1 - Allgemeine Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000200000)
 
 
 #### § 1 Gegenstand und Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000200000)
 
 (1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende
 Verfahren bei der dem Teil 4 des Gesetzes gegen
@@ -56,6 +59,7 @@ Aufträgen und bei der Ausrichtung von Wettbewerben durch den
 
 
 #### § 2 Vergabe von Bauaufträgen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000302125)
 
 Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2,
 Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der
@@ -66,6 +70,7 @@ zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
 
 
 #### § 3 Schätzung des Auftragswerts
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000402125)
 
 (1) Bei der Schätzung des Auftragswerts ist vom voraussichtlichen
 Gesamtwert der vorgesehenen Leistung ohne Umsatzsteuer auszugehen.
@@ -176,6 +181,7 @@ ausschließt.
 
 
 #### § 4 Gelegentliche gemeinsame Auftragsvergabe; zentrale Beschaffung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000500000)
 
 (1) Mehrere öffentliche Auftraggeber können vereinbaren, bestimmte
 öffentliche Aufträge gemeinsam zu vergeben. Dies gilt auch für die
@@ -205,6 +211,7 @@ Beschaffungsdienstleistungen erlassen.
 
 
 #### § 5 Wahrung der Vertraulichkeit
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000600000)
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts
 anderes bestimmt ist, darf der öffentliche Auftraggeber keine von den
@@ -230,6 +237,7 @@ die Abgabe einer Verschwiegenheitserklärung.
 
 
 #### § 6 Vermeidung von Interessenkonflikten
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000700000)
 
 (1) Organmitglieder oder Mitarbeiter des öffentlichen Auftraggebers
 oder eines im Namen des öffentlichen Auftraggebers handelnden
@@ -279,6 +287,7 @@ und Pflegekinder.
 
 
 #### § 7 Mitwirkung an der Vorbereitung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000800000)
 
 (1) Hat ein Unternehmen oder ein mit ihm in Verbindung stehendes
 Unternehmen den öffentlichen Auftraggeber beraten oder war auf andere
@@ -303,6 +312,7 @@ kann.
 
 
 #### § 8 Dokumentation und Vergabevermerk
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE000900000)
 
 (1) Der öffentliche Auftraggeber dokumentiert das Vergabeverfahren von
 Beginn an fortlaufend in Textform nach § 126b des Bürgerlichen
@@ -410,9 +420,11 @@ zuständigen Aufsichts-oder Prüfbehörden auf deren Anforderung hin zu
 
 
 ### Unterabschnitt 2 - Kommunikation; Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000301125)
 
 
 #### § 9 Grundsätze der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001000000)
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in
 einem Vergabeverfahren verwenden der öffentliche Auftraggeber und die
@@ -433,6 +445,7 @@ freiwillige Registrierung ist zulässig.
 
 
 #### § 10 Anforderungen an die verwendeten elektronischen Mittel
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001100000)
 
 (1) Der öffentliche Auftraggeber legt das erforderliche
 Sicherheitsniveau für die elektronischen Mittel fest. Elektronische
@@ -482,6 +495,7 @@ vom 1. April 2010 zu verwenden.
 
 
 #### § 10a Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008700125)
 
 (1) Auftragsbekanntmachungen, Vorinformationen,
 Vergabebekanntmachungen und Bekanntmachungen über Auftragsänderungen
@@ -570,6 +584,7 @@ Wettbewerbsbeschränkungen nicht erreicht.
 
 
 #### § 11 Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001202124)
 
 (1) Elektronische Mittel und deren technische Merkmale müssen
 allgemein verfügbar, nichtdiskriminierend und mit allgemein
@@ -604,6 +619,7 @@ Informationen zur Verfügung stellen über
 
 
 #### § 12 Einsatz alternativer elektronischer Mittel bei der Kommunikation
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001300000)
 
 (1) Der öffentliche Auftraggeber kann im Vergabeverfahren die
 Verwendung elektronischer Mittel, die nicht allgemein verfügbar sind
@@ -629,6 +645,7 @@ alternativen Zugang zu ihnen gemäß Absatz 1 an.
 
 
 #### § 13 Allgemeine Verwaltungsvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001400000)
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften über die zu verwendenden elektronischen Mittel
@@ -637,12 +654,15 @@ einzuhaltenden technischen Standards erlassen.
 
 
 ## Abschnitt 2 - Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000400000)
 
 
 ### Unterabschnitt 1 - Verfahrensarten
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000500000)
 
 
 #### § 14 Wahl der Verfahrensart
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001502360)
 
 (1) Die Vergabe von öffentlichen Aufträgen erfolgt nach § 119 des
 Gesetzes gegen Wettbewerbsbeschränkungen im offenen Verfahren, im
@@ -810,6 +830,7 @@ Auftragsvergabeparameter ist.
 
 
 #### § 15 Offenes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001600000)
 
 (1) Bei einem offenen Verfahren fordert der öffentliche Auftraggeber
 eine unbeschränkte Anzahl von Unternehmen öffentlich zur Abgabe von
@@ -837,6 +858,7 @@ unzulässig.
 
 
 #### § 16 Nicht offenes Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001700000)
 
 (1) Bei einem nicht offenen Verfahren fordert der öffentliche
 Auftraggeber eine unbeschränkte Anzahl von Unternehmen im Rahmen eines
@@ -887,6 +909,7 @@ Angebote akzeptiert.
 
 
 #### § 17 Verhandlungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001801125)
 
 (1) Bei einem Verhandlungsverfahren mit Teilnahmewettbewerb fordert
 der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen
@@ -995,6 +1018,7 @@ Verpflichtungen der §§ 9 bis 13, des § 53 Absatz 1 sowie der §§ 54 und
 
 
 #### § 18 Wettbewerblicher Dialog
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE001900000)
 
 (1) In der Auftragsbekanntmachung oder den Vergabeunterlagen zur
 Durchführung eines wettbewerblichen Dialogs beschreibt der öffentliche
@@ -1081,6 +1105,7 @@ Teilnehmer am Dialog vorsehen.
 
 
 #### § 19 Innovationspartnerschaft
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002000000)
 
 (1) Der öffentliche Auftraggeber kann für die Vergabe eines
 öffentlichen Auftrags eine Innovationspartnerschaft mit dem Ziel der
@@ -1197,6 +1222,7 @@ die Kostenobergrenze eingehalten werden.
 
 
 #### § 20 Angemessene Fristsetzung; Pflicht zur Fristverlängerung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002100000)
 
 (1) Bei der Festlegung der Fristen für den Eingang der Angebote und
 der Teilnahmeanträge nach den §§ 15 bis 19 sind die Komplexität der
@@ -1235,9 +1261,11 @@ rechtzeitig angefordert wurde.
 
 
 ### Unterabschnitt 2 - Besondere Methoden und Instrumente in Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000600000)
 
 
 #### § 21 Rahmenvereinbarungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002200000)
 
 (1) Der Abschluss einer Rahmenvereinbarung erfolgt im Wege einer nach
 dieser Verordnung anwendbaren Verfahrensart. Das in Aussicht genommene
@@ -1345,6 +1373,7 @@ Rahmenvereinbarung begründeter Sonderfall vor.
 
 
 #### § 22 Grundsätze für den Betrieb dynamischer Beschaffungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002300000)
 
 (1) Der öffentliche Auftraggeber kann für die Beschaffung
 marktüblicher Leistungen ein dynamisches Beschaffungssystem nutzen.
@@ -1368,6 +1397,7 @@ Unternehmen kostenlos.
 
 
 #### § 23 Betrieb eines dynamischen Beschaffungssystems
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002401125)
 
 (1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung
 an, dass er ein dynamisches Beschaffungssystem nutzt und für welchen
@@ -1411,6 +1441,7 @@ zugelassenen Bewerber aufgefordert, ein Angebot zu unterbreiten.
 
 
 #### § 24 Fristen beim Betrieb dynamischer Beschaffungssysteme
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002500000)
 
 (1) Abweichend von § 16 gelten bei der Nutzung eines dynamischen
 Beschaffungssystems die Bestimmungen der Absätze 2 bis 5.
@@ -1453,6 +1484,7 @@ findet Anwendung.
 
 
 #### § 25 Grundsätze für die Durchführung elektronischer Auktionen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002600000)
 
 (1) Der öffentliche Auftraggeber kann im Rahmen eines offenen, eines
 nicht offenen oder eines Verhandlungsverfahrens vor der
@@ -1500,6 +1532,7 @@ prozentual beschrieben werden.
 
 
 #### § 26 Durchführung elektronischer Auktionen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002700000)
 
 (1) Der öffentliche Auftraggeber kündigt in der Auftragsbekanntmachung
 oder in der Aufforderung zur Interessensbestätigung an, dass er eine
@@ -1585,6 +1618,7 @@ entsprechend ihrem Ergebnis mitgeteilt.
 
 
 #### § 27 Elektronische Kataloge
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002801360)
 
 (1) Der öffentliche Auftraggeber kann festlegen, dass Angebote in Form
 eines elektronischen Katalogs einzureichen sind oder einen
@@ -1630,9 +1664,11 @@ keine materiellen Fehler enthält.
 
 
 ### Unterabschnitt 3 - Vorbereitung des Vergabeverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000700000)
 
 
 #### § 28 Markterkundung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE002900000)
 
 (1) Vor der Einleitung eines Vergabeverfahrens darf der öffentliche
 Auftraggeber Markterkundungen zur Vorbereitung der Auftragsvergabe und
@@ -1644,6 +1680,7 @@ und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
 
 #### § 29 Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003000000)
 
 (1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich
 sind, um dem Bewerber oder Bieter eine Entscheidung zur Teilnahme am
@@ -1676,6 +1713,7 @@ eindeutig und erschöpfend beschrieben werden kann.
 
 
 #### § 30 Aufteilung nach Losen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003100000)
 
 (1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen
 Wettbewerbsbeschränkungen kann der öffentliche Auftraggeber festlegen,
@@ -1703,6 +1741,7 @@ angibt, die kombiniert werden können.
 
 
 #### § 31 Leistungsbeschreibung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003200000)
 
 (1) Der öffentliche Auftraggeber fasst die Leistungsbeschreibung (§
 121 des Gesetzes gegen Wettbewerbsbeschränkungen) in einer Weise, dass
@@ -1801,6 +1840,7 @@ Zusatz „oder gleichwertig“ zu versehen.
 
 
 #### § 32 Technische Anforderungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003300000)
 
 (1) Verweist der öffentliche Auftraggeber in der Leistungsbeschreibung
 auf technische Anforderungen nach § 31 Absatz 2 Nummer 2, so darf er
@@ -1842,6 +1882,7 @@ Herstellers oder ein Prüfbericht einer anerkannten Stelle sein.
 
 
 #### § 33 Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003400000)
 
 (1) Als Beleg dafür, dass eine Liefer- oder Dienstleistung bestimmten,
 in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann
@@ -1872,6 +1913,7 @@ Konformitätsbewertungstätigkeiten durchführt.
 
 
 #### § 34 Nachweisführung durch Gütezeichen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003500000)
 
 (1) Als Beleg dafür, dass eine Liefer- oder Dienstleistung bestimmten,
 in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann
@@ -1922,6 +1964,7 @@ Auftraggeber angegebenen spezifischen Anforderungen erfüllt.
 
 
 #### § 35 Nebenangebote
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003600000)
 
 (1) Der öffentliche Auftraggeber kann Nebenangebote in der
 Auftragsbekanntmachung oder in der Aufforderung zur
@@ -1946,6 +1989,7 @@ Lieferauftrag anstelle eines Dienstleistungsauftrags führen würde.
 
 
 #### § 36 Unteraufträge
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003700000)
 
 (1) Der öffentliche Auftraggeber kann Unternehmen in der
 Auftragsbekanntmachung oder den Vergabeunterlagen auffordern, bei
@@ -1993,9 +2037,11 @@ Auftraggeber kann dem Bewerber oder Bieter dafür eine Frist setzen.
 
 
 ### Unterabschnitt 4 - Veröffentlichungen, Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000800000)
 
 
 #### § 37 Auftragsbekanntmachung; Beschafferprofil; Ex-ante-Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003801125)
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen
 öffentlichen Auftrag zu vergeben oder eine Rahmenvereinbarung
@@ -2027,6 +2073,7 @@ Verbindung mit § 10a.
 
 
 #### § 38 Vorinformation
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE003901125)
 
 (1) Der öffentliche Auftraggeber kann die Absicht einer geplanten
 Auftragsvergabe mittels Veröffentlichung einer Vorinformation nach den
@@ -2112,6 +2159,7 @@ Amt für Veröffentlichungen der Europäischen Union.
 
 
 #### § 39 Vergabebekanntmachung; Bekanntmachung über Auftragsänderungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004001125)
 
 (1) Der öffentliche Auftraggeber übermittelt spätestens 30 Tage nach
 der Vergabe eines öffentlichen Auftrags oder nach dem Abschluss einer
@@ -2164,6 +2212,7 @@ würde.
 
 
 #### § 40 Veröffentlichung von Bekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004101125)
 
 (1) Der öffentliche Auftraggeber muss den Tag der Absendung der
 Bekanntmachungen an das Amt für Veröffentlichungen der Europäischen
@@ -2194,6 +2243,7 @@ der Europäischen Union übermitteln.
 
 
 #### § 41 Bereitstellung der Vergabeunterlagen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004200000)
 
 (1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung
 oder der Aufforderung zur Interessensbestätigung eine elektronische
@@ -2236,9 +2286,11 @@ liegt ein Fall hinreichend begründeter Dringlichkeit gemäß § 15 Absatz
 
 
 ### Unterabschnitt 5 - Anforderungen an Unternehmen; Eignung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG000900000)
 
 
 #### § 42 Auswahl geeigneter Unternehmen; Ausschluss von Bewerbern und Bietern
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004300000)
 
 (1) Der öffentliche Auftraggeber überprüft die Eignung der Bewerber
 oder Bieter anhand der nach § 122 des Gesetzes gegen
@@ -2262,6 +2314,7 @@ durchführt.
 
 
 #### § 43 Rechtsform von Unternehmen und Bietergemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004400000)
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des
 Staates, in dem sie niedergelassen sind, zur Erbringung der
@@ -2292,6 +2345,7 @@ Durchführung des Auftrags erforderlich ist.
 
 
 #### § 44 Befähigung und Erlaubnis zur Berufsausübung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004500000)
 
 (1) Der öffentliche Auftraggeber kann verlangen, dass Bewerber oder
 Bieter je nach den Rechtsvorschriften des Staats, in dem sie
@@ -2314,6 +2368,7 @@ verlangen, ihre Berechtigung oder Mitgliedschaft nachzuweisen.
 
 
 #### § 45 Wirtschaftliche und finanzielle Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004600000)
 
 (1) Der öffentliche Auftraggeber kann im Hinblick auf die
 wirtschaftliche und finanzielle Leistungsfähigkeit der Bewerber oder
@@ -2386,6 +2441,7 @@ Unterlagen belegen.
 
 
 #### § 46 Technische und berufliche Leistungsfähigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004700000)
 
 (1) Der öffentliche Auftraggeber kann im Hinblick auf die technische
 und berufliche Leistungsfähigkeit der Bewerber oder Bieter
@@ -2494,6 +2550,7 @@ Vorlage von einer oder mehreren der folgenden Unterlagen verlangen:
 
 
 #### § 47 Eignungsleihe
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004800000)
 
 (1) Ein Bewerber oder Bieter kann für einen bestimmten öffentlichen
 Auftrag im Hinblick auf die erforderliche wirtschaftliche und
@@ -2547,6 +2604,7 @@ ausgeführt werden müssen.
 
 
 #### § 48 Beleg der Eignung und des Nichtvorliegens von Ausschlussgründen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE004900000)
 
 (1) In der Auftragsbekanntmachung oder der Aufforderung zur
 Interessensbestätigung ist neben den Eignungskriterien ferner
@@ -2615,6 +2673,7 @@ entsprechenden Bescheinigung verlangen.
 
 
 #### § 49 Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005000000)
 
 (1) Verlangt der öffentliche Auftraggeber als Beleg dafür, dass
 Bewerber oder Bieter bestimmte Normen der Qualitätssicherung erfüllen,
@@ -2676,6 +2735,7 @@ sind, gleichwertig sind.
 
 
 #### § 50 Einheitliche Europäische Eigenerklärung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005100000)
 
 (1) Die Einheitliche Europäische Eigenerklärung ist in der Form des
 Anhangs 2 der Durchführungsverordnung (EU) 2016/7 der Kommission vom
@@ -2710,6 +2770,7 @@ Unterlagen beibringen, sofern und soweit die zuschlagerteilende Stelle
 
 
 #### § 51 Begrenzung der Anzahl der Bewerber
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005200000)
 
 (1) Bei allen Verfahrensarten mit Ausnahme des offenen Verfahrens kann
 der öffentliche Auftraggeber die Zahl der geeigneten Bewerber, die zur
@@ -2740,9 +2801,11 @@ zugelassen werden.
 
 
 ### Unterabschnitt 6 - Einreichung, Form und Umgang mit Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträgen und Angeboten
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001000000)
 
 
 #### § 52 Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005300000)
 
 (1) Ist ein Teilnahmewettbewerb durchgeführt worden, wählt der
 öffentliche Auftraggeber gemäß § 51 Bewerber aus, die er auffordert,
@@ -2832,6 +2895,7 @@ Angaben:
 
 
 #### § 53 Form und Übermittlung der Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005401118)
 
 (1) Die Unternehmen übermitteln ihre Interessensbekundungen,
 Interessensbestätigungen, Teilnahmeanträge und Angebote in Textform
@@ -2907,6 +2971,7 @@ beizubringen.
 
 
 #### § 54 Aufbewahrung ungeöffneter Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005500000)
 
 Elektronisch übermittelte Interessensbekundungen,
 Interessensbestätigungen, Teilnahmeanträge und Angebote sind auf
@@ -2921,6 +2986,7 @@ zu halten.
 
 
 #### § 55 Öffnung der Interessensbestätigungen, Teilnahmeanträge und Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005600000)
 
 (1) Der öffentliche Auftraggeber darf vom Inhalt der
 Interessensbestätigungen, Teilnahmeanträge und Angebote erst nach
@@ -2932,9 +2998,11 @@ Ablauf der Angebotsfrist durchgeführt. Bieter sind nicht zugelassen.
 
 
 ### Unterabschnitt 7 - Prüfung und Wertung der Interessensbestätigungen, Teilnahmeanträge und Angebote; Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001100000)
 
 
 #### § 56 Prüfung der Interessensbestätigungen, Teilnahmeanträge und Angebote; Nachforderung von Unterlagen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005700000)
 
 (1) Die Interessensbestätigungen, Teilnahmeanträge und Angebote sind
 auf Vollständigkeit und fachliche Richtigkeit, Angebote zudem auf
@@ -2968,6 +3036,7 @@ dokumentieren.
 
 
 #### § 57 Ausschluss von Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträgen und Angeboten
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005800000)
 
 (1) Von der Wertung ausgeschlossen werden Angebote von Unternehmen,
 die die Eignungskriterien nicht erfüllen, und Angebote, die nicht den
@@ -3010,6 +3079,7 @@ Anwendung.
 
 
 #### § 58 Zuschlag und Zuschlagskriterien
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE005900000)
 
 (1) Der Zuschlag wird nach Maßgabe des § 127 des Gesetzes gegen
 Wettbewerbsbeschränkungen auf das wirtschaftlichste Angebot erteilt.
@@ -3060,6 +3130,7 @@ mindestens zwei Vertreter des öffentlichen Auftraggebers mitwirken.
 
 
 #### § 59 Berechnung von Lebenszykluskosten
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006000000)
 
 (1) Der öffentliche Auftraggeber kann vorgeben, dass das
 Zuschlagskriterium „Kosten“ auf der Grundlage der Lebenszykluskosten
@@ -3126,6 +3197,7 @@ worden ist, hat der öffentliche Auftraggeber diese Methode vorzugeben.
 
 
 #### § 60 Ungewöhnlich niedrige Angebote
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006100000)
 
 (1) Erscheinen der Preis oder die Kosten eines Angebots im Verhältnis
 zu der zu erbringenden Leistung ungewöhnlich niedrig, verlangt der
@@ -3175,6 +3247,7 @@ die Ablehnung der Europäischen Kommission mit.
 
 
 #### § 61 Ausführungsbedingungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006200000)
 
 Für den Beleg, dass die angebotene Leistung den geforderten
 Ausführungsbedingungen gemäß § 128 Absatz 2 des Gesetzes gegen
@@ -3183,6 +3256,7 @@ entsprechend.
 
 
 #### § 62 Unterrichtung der Bewerber und Bieter
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006300000)
 
 (1) Unbeschadet des § 134 des Gesetzes gegen Wettbewerbsbeschränkungen
 teilt der öffentliche Auftraggeber jedem Bewerber und jedem Bieter
@@ -3223,6 +3297,7 @@ Beschaffungssystem entsprechend anzuwenden.
 
 
 #### § 63 Aufhebung von Vergabeverfahren
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006400000)
 
 (1) Der öffentliche Auftraggeber ist berechtigt, ein Vergabeverfahren
 ganz oder teilweise aufzuheben, wenn
@@ -3251,9 +3326,11 @@ Textform nach § 126b des Bürgerlichen Gesetzbuchs mit.
 
 
 ## Abschnitt 3 - Besondere Vorschriften für die Vergabe von sozialen und anderen besonderen Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001200000)
 
 
 ### § 64 Vergabe von Aufträgen für soziale und andere besondere Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006500000)
 
 Öffentliche Aufträge über soziale und andere besondere
 Dienstleistungen im Sinne von § 130 Absatz 1 des Gesetzes gegen
@@ -3263,6 +3340,7 @@ jeweiligen Dienstleistung nach Maßgabe dieses Abschnitts vergeben.
 
 
 ### § 65 Ergänzende Verfahrensregeln
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006600000)
 
 (1) Neben dem offenen und dem nicht offenen Verfahren stehen dem
 öffentlichen Auftraggeber abweichend von § 14 Absatz 3 auch das
@@ -3307,6 +3385,7 @@ insbesondere berücksichtigt werden:
 
 
 ### § 66 Veröffentlichungen, Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006701125)
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen
 öffentlichen Auftrag zur Erbringung sozialer oder anderer besonderer
@@ -3347,9 +3426,11 @@ Durchführungsverordnung (EU) 2019/1780 jeweils in Verbindung mit §
 
 
 ## Abschnitt 4 - Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001301125)
 
 
 ### § 67 Beschaffung energieverbrauchsrelevanter Liefer- oder Dienstleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006800000)
 
 [^F793682_02_BJNR062410016BJNE006800000]
 (1) Wenn energieverbrauchsrelevante Waren, technische Geräte oder
@@ -3420,13 +3501,16 @@ Zuschlagskriterium angemessen zu berücksichtigen.
 
 
 ### § 68 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE006901125)
 
 
 
 ## Abschnitt 5 - Planungswettbewerbe
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001400000)
 
 
 ### § 69 Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007000000)
 
 (1) Wettbewerbe nach § 103 Absatz 6 des Gesetzes gegen
 Wettbewerbsbeschränkungen werden insbesondere auf den Gebieten der
@@ -3439,6 +3523,7 @@ dieses Abschnitts an.
 
 
 ### § 70 Veröffentlichung, Transparenz
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007101125)
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen
 Planungswettbewerb auszurichten, in einer Wettbewerbsbekanntmachung
@@ -3465,6 +3550,7 @@ in Verbindung mit § 10a erstellt.
 
 
 ### § 71 Ausrichtung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007200000)
 
 (1) Die an einem Planungswettbewerb Interessierten sind vor
 Wettbewerbsbeginn über die geltenden Durchführungsregeln zu
@@ -3490,6 +3576,7 @@ gewährleisten.
 
 
 ### § 72 Preisgericht
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007300000)
 
 (1) Das Preisgericht darf nur aus Preisrichtern bestehen, die von den
 Teilnehmern des Planungswettbewerbs unabhängig sind. Wird von den
@@ -3515,12 +3602,15 @@ zwischen Preisrichtern und Teilnehmern ist zu dokumentieren.
 
 
 ## Abschnitt 6 - Besondere Vorschriften für die Vergabe von Architekten- und Ingenieurleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001500000)
 
 
 ### Unterabschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001600000)
 
 
 #### § 73 Anwendungsbereich und Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007401125)
 
 (1) Die Bestimmungen dieses Abschnitts gelten zusätzlich für die
 Vergabe von Architekten- und Ingenieurleistungen, deren Gegenstand
@@ -3545,6 +3635,7 @@ Ausführungs- und Lieferinteressen vergeben werden.
 
 
 #### § 74 Verfahrensart
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007500000)
 
 Architekten- und Ingenieurleistungen werden in der Regel im
 Verhandlungsverfahren mit Teilnahmewettbewerb nach § 17 oder im
@@ -3552,6 +3643,7 @@ wettbewerblichen Dialog nach § 18 vergeben.
 
 
 #### § 75 Eignung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007600000)
 
 (1) Wird als Berufsqualifikation der Beruf des Architekten,
 Innenarchitekten, Landschaftsarchitekten oder Stadtplaners gefordert,
@@ -3593,6 +3685,7 @@ unter den verbleibenden Bewerbern durch Los getroffen werden.
 
 
 #### § 76 Zuschlag
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007701125)
 
 (1) Architekten- und Ingenieurleistungen werden im Leistungswettbewerb
 vergeben. Auf die zu erbringende Leistung anwendbare Gebühren- oder
@@ -3607,6 +3700,7 @@ unberücksichtigt.
 
 
 #### § 77 Kosten und Vergütung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007800000)
 
 (1) Für die Erstellung der Bewerbungs- und Angebotsunterlagen werden
 Kosten nicht erstattet.
@@ -3623,9 +3717,11 @@ Urheberrechtsschutz bleiben unberührt.
 
 
 ### Unterabschnitt 2 - Planungswettbewerbe für Architekten- und Ingenieurleistungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001700000)
 
 
 #### § 78 Grundsätze und Anwendungsbereich für Planungswettbewerbe
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE007900000)
 
 (1) Planungswettbewerbe gewährleisten die Wahl der besten Lösung der
 Planungsaufgabe und sind gleichzeitig ein geeignetes Instrument zur
@@ -3650,6 +3746,7 @@ nach Absatz 2 sind in der Wettbewerbsbekanntmachung mitzuteilen.
 
 
 #### § 79 Durchführung von Planungswettbewerben
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008000000)
 
 (1) Mit der Ausrichtung eines Planungswettbewerbs sind Preise oder
 neben Preisen Anerkennungen auszuloben, die der Bedeutung und
@@ -3689,6 +3786,7 @@ seines Protokolls nichts anderes bestimmt hat.
 
 
 #### § 80 Aufforderung zur Verhandlung; Nutzung der Ergebnisse des Planungswettbewerbs
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008100000)
 
 (1) Soweit und sobald das Ergebnis des Planungswettbewerbs realisiert
 werden soll und beabsichtigt ist, einen oder mehrere der Preisträger
@@ -3705,9 +3803,11 @@ dürfen, bleiben unberührt.
 
 
 ## Abschnitt 7 - Übergangs- und Schlussbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNG001800000)
 
 
 ### § 81 Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008200000)
 
 Zentrale Beschaffungsstellen im Sinne von § 120 Absatz 4 Satz 1 des
 Gesetzes gegen Wettbewerbsbeschränkungen können bis zum 18. April
@@ -3721,6 +3821,7 @@ die Bereitstellung der Vergabeunterlagen betrifft.
 
 
 ### § 82 Fristenberechnung
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008300000)
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt
 sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3.
@@ -3729,6 +3830,7 @@ Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 
 
 ### § 83 Anwendungsbestimmungen aus Anlass der Einführung von eForms
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008800125)
 
 (1) Bis zum Ablauf des sich nach Absatz 2 ergebenden Tages sind
 
@@ -3774,6 +3876,7 @@ Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine
 (zu § 31 Absatz 2)
 
 ### Anlage 1 Technische Anforderungen, Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vgv_2016/BJNR062410016.html#BJNR062410016BJNE008400000)
 
 (Fundstelle: BGBl. I 2016, 654)
 

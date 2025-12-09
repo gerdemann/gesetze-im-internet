@@ -22,6 +22,7 @@ Geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000101308)
 
 Der Bund erhält das Recht zur Entziehung und Beschränkung des
 Eigentums und der Rechte an den Grundstücken, die benötigt werden zur
@@ -34,6 +35,7 @@ Ablagerung von Baustoffen und Abraum.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000201308)
 
 (1) Das gleiche Recht erhält der Bund hinsichtlich der Grundstücke
 oder Rechte an Grundstücken, die zur Erreichung der mit dem
@@ -55,6 +57,7 @@ ausschließen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000300304)
 
 (1) Gesetzliche Vorschriften, die die Veräußerung oder Teilbarkeit
 eines Grundstücks ausschließen oder beschränken, sowie Vorkaufsrechte
@@ -67,6 +70,7 @@ Vorkaufsrecht irgendwelcher Art statt.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000401308)
 
 (1) Bei der Festsetzung der Enteignungsentschädigung darf die
 Möglichkeit eines Spekulationsgewinns oder eine Wertsteigerung, die
@@ -79,6 +83,7 @@ landesrechtlichen Enteignungsgesetzes.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000501308)
 
 Die Heranziehung der Eigentümer und Benutzer von Grundstücken oder
 Berechtigungen, denen aus der Herstellung oder Verbesserung von
@@ -88,6 +93,7 @@ durch besonderes Bundesgesetz geregelt werden.
 
 
 ## § 6
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000602305)
 
 Die zur Ausführung des Gesetzes erforderlichen Bestimmungen erlassen
 der Bundesminister für Verkehr und digitale Infrastruktur und der
@@ -95,6 +101,7 @@ Bundesfinanzminister mit Zustimmung des Bundesrates.
 
 
 ## § 7
+[Direktlink](https://www.gesetze-im-internet.de/neckar_maing/BJNR016130920.html#BJNR016130920BJNE000700304)
 
 Dieses Gesetz tritt mit der Verkündung in Kraft.
 

@@ -21,6 +21,7 @@ Zuletzt geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000100000)
 
 Auf Grund des § 9a Abs. 2 und 3 des Handelsgesetzbuchs in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten
@@ -34,6 +35,7 @@ der Finanzen:
 
 
 ## § 1 Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000207360)
 
 (1) Im Unternehmensregister werden die nach § 8b Abs. 3 Satz 1 des
 Handelsgesetzbuchs zur Einstellung übermittelten Daten, mit Ausnahme
@@ -74,6 +76,7 @@ rechtzeitig anzukündigen.
 
 
 ## § 2 Sicherheit
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000301360)
 
 (1) Kommt es während einer Datenübermittlung zu Störungen oder
 Unterbrechungen, soll dies der übermittelnden Stelle angezeigt und im
@@ -97,6 +100,7 @@ Unternehmensregister.
 
 
 ## § 3 Registrierung der Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000404130)
 
 (1) Soweit nach § 11 Absatz 1 Satz 4, auch in Verbindung mit Absatz 2
 Satz 4, § 13 Absatz 4, § 15 Abs. 1 Satz 2 oder Abs. 2 Satz 2 eine
@@ -153,6 +157,7 @@ Stelle dies bei einer Anbindung vorsieht.
 
 
 ## § 3a Identifikation der Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE002100130)
 
 (1) Für eine Registrierung nach § 3 Absatz 2 hat eine elektronische
 Identifikation des Nutzers zu erfolgen. Nutzer ist diejenige
@@ -250,6 +255,7 @@ Identifizierung zu verlangen.
 
 
 ## § 4 Art der Datenübermittlung
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000502360)
 
 Daten werden dem Unternehmensregister im Wege der Datenfernübertragung
 übermittelt. Die Landesjustizverwaltungen können mit der
@@ -258,6 +264,7 @@ vereinbaren.
 
 
 ## § 5 Datenübermittlung durch die Landesjustizverwaltungen
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000602360)
 
 (1) Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 die Indexdaten (§ 1 Abs. 2) über eine nach dem Stand der Technik
@@ -283,6 +290,7 @@ Unternehmensregisters nicht beeinträchtigt wird.
 
 
 ## § 6 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000702360)
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts-,
@@ -340,6 +348,7 @@ Unternehmensregister auch diese zu übermitteln.
 
 
 ## § 7 Übermittlung von Indexdaten zu Registerbekanntmachungen aus dem Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregister
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000802360)
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 folgende Indexdaten zu Registerbekanntmachungen aus dem Handels-,
@@ -378,6 +387,7 @@ Bekanntmachungsdokument oder als Eintragungsmitteilung zu übermitteln.
 
 
 ## § 8 Übermittlung von Indexdaten zu Insolvenzbekanntmachungen
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE000900000)
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
 folgende Indexdaten zu Bekanntmachungen der Insolvenzgerichte im Sinn
@@ -411,10 +421,12 @@ des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs:
 
 
 ## § 9 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001002360)
 
 
 
 ## § 10 Datenübermittlung durch den Betreiber des Bundesanzeigers
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001107360)
 
 Der Betreiber des Bundesanzeigers übermittelt dem Unternehmensregister
 die Daten im Sinn des § 8b Abs. 3 Satz 1 Nr. 1 des Handelsgesetzbuchs
@@ -430,6 +442,7 @@ fortgeschrittenen elektronischen Signatur zu dokumentieren.
 
 
 ## § 11 Datenübermittlung durch Veröffentlichungs- und Offenlegungspflichtige, durch mit der Veranlassung der Veröffentlichung oder Offenlegung beauftragte Dritte oder durch die Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001204360)
 
 (1) Daten im Sinn des § 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind
 dem Unternehmensregister unverzüglich nach der Veröffentlichung sowie
@@ -494,6 +507,7 @@ Technik gesicherte Internetverbindung.
 
 
 ## § 12 Prüfung, Zugänglichkeit, Berichtigung und Löschung von Daten
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001303360)
 
 (1) Die nach den §§ 10 und 11 Absatz 1 übermittelten Daten werden
 unverzüglich nach ihrer Übermittlung, spätestens bis zum Ablauf des
@@ -520,6 +534,7 @@ Gesetzliche Löschungsregelungen bleiben unberührt.
 
 
 ## § 13 Einsichtnahme in das Unternehmensregister
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001403360)
 
 (1) Das Unternehmensregister ist ausschließlich über das Internet
 zugänglich. Eine vorherige Registrierung ist für die Einsichtnahme in
@@ -553,12 +568,14 @@ versehen.
 
 
 ## § 14 Suche im Register
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001501360)
 
 Das Unternehmensregister erlaubt die Suche nach allen eingestellten
 Daten sowie über Indexdaten.
 
 
 ## § 15 Dienstleistungen; Zahlungen und Rechnungsstellung
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001604360)
 
 (1) Die mit der Führung des Unternehmensregisters nach § 9a Absatz 1
 des Handelsgesetzbuchs beliehene Stelle kann mit den Daten im Sinn des
@@ -583,6 +600,7 @@ elektronisch angezeigt.
 
 
 ## § 16 Befugnisse der Bundesanstalt für Finanzdienstleistungsaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001703360)
 
 (1) Im Hinblick auf kapitalmarktrechtliche Daten überwacht die
 Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber der
@@ -609,12 +627,14 @@ und die Beseitigung von Missständen hinwirken.
 
 
 ## § 17 Erstmalige Übermittlung der Indexdaten
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001800000)
 
 Die Landesjustizverwaltungen übermitteln die Indexdaten (§§ 6 bis 8)
 erstmalig zum 1. Januar 2007.
 
 
 ## § 18 Übergangsvorschrift zum Gesetz zur Umsetzung der Digitalisierungsrichtlinie
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE001901360)
 
 Die §§ 1 bis 4, 10 bis 13 und 15 in der ab dem 1. August 2022
 geltenden Fassung sind erstmals auf Rechnungslegungsunterlagen und
@@ -626,6 +646,7 @@ das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
 
 
 ## Schlussformel
+[Direktlink](https://www.gesetze-im-internet.de/urv/BJNR021700007.html#BJNR021700007BJNE002000000)
 
 Der Bundesrat hat zugestimmt.
 

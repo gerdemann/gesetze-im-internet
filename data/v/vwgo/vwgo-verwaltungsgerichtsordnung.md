@@ -26,20 +26,24 @@ Mittelbare änderung durch
 
 
 ## Teil I - Gerichtsverfassung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000101308)
 
 
 
 ### 1. Abschnitt - Gerichte
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000201308)
 
 
 
 #### § 1
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002401308)
 
 Die Verwaltungsgerichtsbarkeit wird durch unabhängige, von den
 Verwaltungsbehörden getrennte Gerichte ausgeübt.
 
 
 #### § 2
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002502307)
 
 Gerichte der Verwaltungsgerichtsbarkeit sind in den Ländern die
 Verwaltungsgerichte und je ein Oberverwaltungsgericht, im Bund das
@@ -47,6 +51,7 @@ Bundesverwaltungsgericht mit Sitz in Leipzig.
 
 
 #### § 3
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002603311)
 
 (1) Durch Gesetz werden angeordnet
 
@@ -87,6 +92,7 @@ Sachgebiete, vereinbaren.
 
 
 #### § 4
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002702310)
 
 Für die Gerichte der Verwaltungsgerichtsbarkeit gelten die
 Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes
@@ -97,6 +103,7 @@ Vertreter müssen Richter auf Lebenszeit sein.
 
 
 #### § 5
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002803305)
 
 (1) Das Verwaltungsgericht besteht aus dem Präsidenten und aus den
 Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
@@ -111,6 +118,7 @@ ehrenamtlichen Richter nicht mit.
 
 
 #### § 6
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022500305)
 
 (1) Die Kammer soll in der Regel den Rechtsstreit einem ihrer
 Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
@@ -143,10 +151,12 @@ unterlassene Übertragung kann ein Rechtsbehelf nicht gestützt werden.
 
 
 #### (XXXX) §§ 7 bis 8 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE002902305)
 
 
 
 #### § 9
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003005360)
 
 (1) Das Oberverwaltungsgericht besteht aus dem Präsidenten und aus den
 Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
@@ -177,6 +187,7 @@ Entscheidung übertragen, wenn
 
 
 #### § 10
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003102360)
 
 (1) Das Bundesverwaltungsgericht besteht aus dem Präsidenten und aus
 den Vorsitzenden Richtern und weiteren Richtern in erforderlicher
@@ -203,6 +214,7 @@ Besetzung mit drei Richtern entscheiden, wenn
 
 
 #### § 11
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003202308)
 
 (1) Bei dem Bundesverwaltungsgericht wird ein Großer Senat gebildet.
 
@@ -246,6 +258,7 @@ vorliegenden Sache für den erkennenden Senat bindend.
 
 
 #### § 12
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003303308)
 
 (1) Die Vorschriften des § 11 gelten für das Oberverwaltungsgericht
 entsprechend, soweit es über eine Frage des Landesrechts endgültig
@@ -260,22 +273,26 @@ Großen Senats bestimmt werden.
 
 
 #### § 13
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003401308)
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet. Sie wird mit
 der erforderlichen Anzahl von Urkundsbeamten besetzt.
 
 
 #### § 14
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003501308)
 
 Alle Gerichte und Verwaltungsbehörden leisten den Gerichten der
 Verwaltungsgerichtsbarkeit Rechts- und Amtshilfe.
 
 
 ### 2. Abschnitt - Richter
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000301308)
 
 
 
 #### § 15
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003601308)
 
 (1) Die Richter werden auf Lebenszeit ernannt, soweit nicht in §§ 16
 und 17 Abweichendes bestimmt ist.
@@ -287,6 +304,7 @@ fünfunddreißigste Lebensjahr vollendet haben.
 
 
 #### § 16
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003701308)
 
 Bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht können
 auf Lebenszeit ernannte Richter anderer Gerichte und ordentliche
@@ -296,6 +314,7 @@ Nebenamt ernannt werden.
 
 
 #### § 17
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003802311)
 
 Bei den Verwaltungsgerichten können auch folgende Richter verwendet
 werden:
@@ -313,6 +332,7 @@ werden:
 
 
 #### § 18
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE003903311)
 
 Zur Deckung eines nur vorübergehenden Personalbedarfs kann ein Beamter
 auf Lebenszeit mit der Befähigung zum Richteramt für die Dauer von
@@ -323,16 +343,19 @@ anzuwenden.
 
 
 ### 3. Abschnitt - Ehrenamtliche Richter
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000401308)
 
 
 
 #### § 19
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004001308)
 
 Der ehrenamtliche Richter wirkt bei der mündlichen Verhandlung und der
 Urteilsfindung mit gleichen Rechten wie der Richter mit.
 
 
 #### § 20
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004102301)
 
 Der ehrenamtliche Richter muß Deutscher sein. Er soll das 25.
 Lebensjahr vollendet und seinen Wohnsitz innerhalb des Gerichtsbezirks
@@ -340,6 +363,7 @@ haben.
 
 
 #### § 21
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004202307)
 
 (1) Vom Amt des ehrenamtlichen Richters sind ausgeschlossen
 
@@ -365,6 +389,7 @@ ehrenamtlichen Richtern berufen werden.
 
 
 #### § 22
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004303307)
 
 Zu ehrenamtlichen Richtern können nicht berufen werden
 
@@ -394,6 +419,7 @@ Zu ehrenamtlichen Richtern können nicht berufen werden
 
 
 #### § 23
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004404160)
 
 (1) Die Berufung zum Amt des ehrenamtlichen Richters dürfen ablehnen
 
@@ -425,6 +451,7 @@ Zu ehrenamtlichen Richtern können nicht berufen werden
 
 
 #### § 24
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004501308)
 
 (1) Ein ehrenamtlicher Richter ist von seinem Amt zu entbinden, wenn
 er
@@ -467,11 +494,13 @@ rechtskräftig außer Verfolgung gesetzt oder freigesprochen worden ist.
 
 
 #### § 25
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004602301)
 
 Die ehrenamtlichen Richter werden auf fünf Jahre gewählt.
 
 
 #### § 26
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004702301)
 
 (1) Bei jedem Verwaltungsgericht wird ein Ausschuß zur Wahl der
 ehrenamtlichen Richter bestellt.
@@ -499,6 +528,7 @@ ein Verwaltungsbeamter und drei Vertrauensleute anwesend sind.
 
 
 #### § 27
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004801308)
 
 Die für jedes Verwaltungsgericht erforderliche Zahl von ehrenamtlichen
 Richtern wird durch den Präsidenten so bestimmt, daß voraussichtlich
@@ -507,6 +537,7 @@ herangezogen wird.
 
 
 #### § 28
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE004903310)
 
 Die Kreise und kreisfreien Städte stellen in jedem fünften Jahr eine
 Vorschlagsliste für ehrenamtliche Richter auf. Der Ausschuß bestimmt
@@ -524,6 +555,7 @@ Präsidenten des zuständigen Verwaltungsgerichts zu übermitteln.
 
 
 #### § 29
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005001308)
 
 (1) Der Ausschuß wählt aus den Vorschlagslisten mit einer Mehrheit von
 mindestens zwei Dritteln der Stimmen die erforderliche Zahl von
@@ -534,6 +566,7 @@ Amt.
 
 
 #### § 30
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005102301)
 
 (1) Das Präsidium des Verwaltungsgerichts bestimmt vor Beginn des
 Geschäftsjahres die Reihenfolge, in der die ehrenamtlichen Richter zu
@@ -545,17 +578,20 @@ aufgestellt werden, die am Gerichtssitz oder in seiner Nähe wohnen.
 
 
 #### § 31
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005201308)
 
 (weggefallen)
 
 
 #### § 32
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005302301)
 
 Der ehrenamtliche Richter und der Vertrauensmann (§ 26) erhalten eine
 Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
 #### § 33
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005401308)
 
 (1) Gegen einen ehrenamtlichen Richter, der sich ohne genügende
 Entschuldigung zu einer Sitzung nicht rechtzeitig einfindet oder der
@@ -568,6 +604,7 @@ Entschuldigung kann er sie ganz oder zum Teil aufheben.
 
 
 #### § 34
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005501308)
 
 §§ 19 bis 33 gelten für die ehrenamtlichen Richter bei dem
 Oberverwaltungsgericht entsprechend, wenn die Landesgesetzgebung
@@ -575,10 +612,12 @@ bestimmt hat, daß bei diesem Gericht ehrenamtliche Richter mitwirken.
 
 
 ### 4. Abschnitt - Vertreter des öffentlichen Interesses
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000501308)
 
 
 
 #### § 35
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005603125)
 
 (1) Die Bundesregierung bestellt einen Vertreter des Bundesinteresses
 beim Bundesverwaltungsgericht und richtet ihn im Bundesministerium des
@@ -594,6 +633,7 @@ Bundesinteresses beim Bundesverwaltungsgericht Gelegenheit zur
 
 
 #### § 36
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005701308)
 
 (1) Bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht kann
 nach Maßgabe einer Rechtsverordnung der Landesregierung ein Vertreter
@@ -605,6 +645,7 @@ Landesbehörden übertragen werden.
 
 
 #### § 37
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005803125)
 
 (1) Der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht
 und seine hauptamtlichen Mitarbeiter des höheren Dienstes müssen die
@@ -617,10 +658,12 @@ Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben; §
 
 
 ### 5. Abschnitt - Gerichtsverwaltung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000601308)
 
 
 
 #### § 38
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE005901308)
 
 (1) Der Präsident des Gerichts übt die Dienstaufsicht über die
 Richter, Beamten, Angestellten und Arbeiter aus.
@@ -630,16 +673,19 @@ ist der Präsident des Oberverwaltungsgerichts.
 
 
 #### § 39
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006001308)
 
 Dem Gericht dürfen keine Verwaltungsgeschäfte außerhalb der
 Gerichtsverwaltung übertragen werden.
 
 
 ### 6. Abschnitt - Verwaltungsrechtsweg und Zuständigkeit
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000701308)
 
 
 
 #### § 40
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006102310)
 
 (1) Der Verwaltungsrechtsweg ist in allen öffentlich-rechtlichen
 Streitigkeiten nichtverfassungsrechtlicher Art gegeben, soweit die
@@ -661,11 +707,13 @@ Rücknahme rechtswidriger Verwaltungsakte bleiben unberührt.
 
 
 #### § 41
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006202308)
 
 (weggefallen)
 
 
 #### § 42
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006301308)
 
 (1) Durch Klage kann die Aufhebung eines Verwaltungsakts
 (Anfechtungsklage) sowie die Verurteilung zum Erlaß eines abgelehnten
@@ -678,6 +726,7 @@ seine Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 
 
 #### § 43
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006401308)
 
 (1) Durch Klage kann die Feststellung des Bestehens oder
 Nichtbestehens eines Rechtsverhältnisses oder der Nichtigkeit eines
@@ -691,6 +740,7 @@ der Nichtigkeit eines Verwaltungsakts begehrt wird.
 
 
 #### § 44
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006501308)
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen
 verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im
@@ -698,6 +748,7 @@ Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
 
 #### § 44a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006601308)
 
 Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur
 gleichzeitig mit den gegen die Sachentscheidung zulässigen
@@ -707,12 +758,14 @@ einen Nichtbeteiligten ergehen.
 
 
 #### § 45
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006701308)
 
 Das Verwaltungsgericht entscheidet im ersten Rechtszug über alle
 Streitigkeiten, für die der Verwaltungsrechtsweg offensteht.
 
 
 #### § 46
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006803311)
 
 Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
@@ -729,6 +782,7 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 
 #### § 47
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE006910311)
 
 (1) Das Oberverwaltungsgericht entscheidet im Rahmen seiner
 Gerichtsbarkeit auf Antrag über die Gültigkeit
@@ -783,6 +837,7 @@ Gründen dringend geboten ist.
 
 
 #### § 48
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007027131)
 
 (1) Das Oberverwaltungsgericht entscheidet im ersten Rechtszug über
 sämtliche Streitigkeiten, die betreffen
@@ -941,6 +996,7 @@ Geschäftsverteilung zuständig bleibt.
 
 
 #### § 49
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007103307)
 
 Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
@@ -959,6 +1015,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 
 #### § 50
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007218125)
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten
 Rechtszug
@@ -1018,6 +1075,7 @@ Bundesverfassungsgericht zur Entscheidung vor.
 
 
 #### § 51
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007303307)
 
 (1) Ist gemäß § 5 Abs. 2 des Vereinsgesetzes das Verbot des
 Gesamtvereins an Stelle des Verbots eines Teilvereins zu vollziehen,
@@ -1034,6 +1092,7 @@ Nr. 2.
 
 
 #### § 52
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007409125)
 
 Für die örtliche Zuständigkeit gilt folgendes:
 
@@ -1106,6 +1165,7 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 
 #### § 53
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007501308)
 
 (1) Das zuständige Gericht innerhalb der Verwaltungsgerichtsbarkeit
 wird durch das nächsthöhere Gericht bestimmt,
@@ -1143,14 +1203,17 @@ mündliche Verhandlung entscheiden.
 
 
 ## Teil II - Verfahren
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000801308)
 
 
 
 ### 7. Abschnitt - Allgemeine Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG000901308)
 
 
 
 #### § 54
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007601308)
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten §§
 41 bis 49 der Zivilprozeßordnung entsprechend.
@@ -1166,6 +1229,7 @@ Verfahren berührt werden.
 
 
 #### § 55
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007701308)
 
 §§ 169, 171a bis 198 des Gerichtsverfassungsgesetzes über die
 Öffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und
@@ -1173,6 +1237,7 @@ Abstimmung finden entsprechende Anwendung.
 
 
 #### § 55a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023209125)
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
 einzureichende Anträge und Erklärungen der Beteiligten sowie
@@ -1270,6 +1335,7 @@ gemäß § 55b Absatz 6 Satz 4 übertragen worden ist.
 
 
 #### § 55b
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023306125)
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen jeweils für ihren
@@ -1368,6 +1434,7 @@ Behörden und Gerichten geltenden Standards bestimmen.
 
 
 #### § 55c Formulare; Verordnungsermächtigung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023502125)
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates elektronische
@@ -1384,6 +1451,7 @@ Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
 
 
 #### § 55d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023601125)
 
 Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
 einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
@@ -1401,6 +1469,7 @@ Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 #### § 56
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007802301)
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf
 gesetzt wird, sowie Terminbestimmungen und Ladungen sind zuzustellen,
@@ -1414,6 +1483,7 @@ Zustellungsbevollmächtigten zu bestellen.
 
 
 #### § 56a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021604125)
 
 (1) Sind gleiche Bekanntgaben an mehr als fünfzig Personen
 erforderlich, kann das Gericht für das weitere Verfahren die
@@ -1449,6 +1519,7 @@ Veröffentlichung gleichfalls hinzuweisen.
 
 
 #### § 57
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE007901308)
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist,
 mit der Zustellung oder, wenn diese nicht vorgeschrieben ist, mit der
@@ -1459,6 +1530,7 @@ Eröffnung oder Verkündung.
 
 
 #### § 58
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008002310)
 
 (1) Die Frist für ein Rechtsmittel oder einen anderen Rechtsbehelf
 beginnt nur zu laufen, wenn der Beteiligte über den Rechtsbehelf, die
@@ -1476,10 +1548,12 @@ Fall höherer Gewalt entsprechend.
 
 
 #### § 59 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008103311)
 
 
 
 #### § 60
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008202301)
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche
 Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den
@@ -1506,6 +1580,7 @@ die versäumte Rechtshandlung zu befinden hat.
 
 
 #### § 61
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008301308)
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -1522,6 +1597,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 
 #### § 62
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008404125)
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -1550,6 +1626,7 @@ Vertreter und Vorstände.
 
 
 #### § 63
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008502301)
 
 Beteiligte am Verfahren sind
 
@@ -1571,12 +1648,14 @@ Beteiligte am Verfahren sind
 
 
 #### § 64
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008601308)
 
 Die Vorschriften der §§ 59 bis 63 der Zivilprozeßordnung über die
 Streitgenossenschaft sind entsprechend anzuwenden.
 
 
 #### § 65
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008704140)
 
 (1) Das Gericht kann, solange das Verfahren noch nicht rechtskräftig
 abgeschlossen oder in höherer Instanz anhängig ist, von Amts wegen
@@ -1609,6 +1688,7 @@ werden. Die Beiladung ist unanfechtbar.
 
 
 #### § 66
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008801308)
 
 Der Beigeladene kann innerhalb der Anträge eines Beteiligten
 selbständig Angriffs- und Verteidigungsmittel geltend machen und alle
@@ -1617,6 +1697,7 @@ er nur stellen, wenn eine notwendige Beiladung vorliegt.
 
 
 #### § 67
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE008915125)
 
 (1) Die Beteiligten können vor dem Verwaltungsgericht den Rechtsstreit
 selbst führen.
@@ -1766,6 +1847,7 @@ oder berichtigt wird.
 
 
 #### § 67a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021703311)
 
 (1) Sind an einem Rechtsstreit mehr als zwanzig Personen im gleichen
 Interesse beteiligt, ohne durch einen Prozeßbevollmächtigten vertreten
@@ -1789,10 +1871,12 @@ angezeigt wird.
 
 
 ### 8. Abschnitt - Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001001308)
 
 
 
 #### § 68
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009002307)
 
 (1) Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und
 Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen.
@@ -1815,11 +1899,13 @@ Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
 
 #### § 69
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009101308)
 
 Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
 
 #### § 70
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009203125)
 
 (1) Der Widerspruch ist innerhalb eines Monats, nachdem der
 Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
@@ -1835,6 +1921,7 @@ erlassen hat, gewahrt.
 
 
 #### § 71 Anhörung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009302307)
 
 Ist die Aufhebung oder Änderung eines Verwaltungsakts im
 Widerspruchsverfahren erstmalig mit einer Beschwer verbunden, soll der
@@ -1843,12 +1930,14 @@ Widerspruchsbescheids gehört werden.
 
 
 #### § 72
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009401308)
 
 Hält die Behörde den Widerspruch für begründet, so hilft sie ihm ab
 und entscheidet über die Kosten.
 
 
 #### § 73
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009503301)
 
 (1) Hilft die Behörde dem Widerspruch nicht ab, so ergeht ein
 Widerspruchsbescheid. Diesen erläßt
@@ -1882,6 +1971,7 @@ Der Widerspruchsbescheid bestimmt auch, wer die Kosten trägt.
 
 
 #### § 74
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009601308)
 
 (1) Die Anfechtungsklage muß innerhalb eines Monats nach Zustellung
 des Widerspruchsbescheids erhoben werden. Ist nach § 68 ein
@@ -1893,6 +1983,7 @@ Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
 
 #### § 75
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009701308)
 
 Ist über einen Widerspruch oder über einen Antrag auf Vornahme eines
 Verwaltungsakts ohne zureichenden Grund in angemessener Frist sachlich
@@ -1911,11 +2002,13 @@ erklären.
 
 
 #### § 76
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009801308)
 
 (weggefallen)
 
 
 #### § 77
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE009901308)
 
 (1) Alle bundesrechtlichen Vorschriften in anderen Gesetzen über
 Einspruchs- oder Beschwerdeverfahren sind durch die Vorschriften
@@ -1927,6 +2020,7 @@ verwaltungsgerichtlichen Klage.
 
 
 #### § 78
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010002307)
 
 (1) Die Klage ist zu richten
 
@@ -1949,6 +2043,7 @@ Absatzes 1 die Widerspruchsbehörde.
 
 
 #### § 79
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010102307)
 
 (1) Gegenstand der Anfechtungsklage ist
 
@@ -1971,6 +2066,7 @@ Verletzung beruht. § 78 Abs. 2 gilt entsprechend.
 
 
 #### § 80
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010206125)
 
 (1) Widerspruch und Anfechtungsklage haben aufschiebende Wirkung. Das
 gilt auch bei rechtsgestaltenden und feststellenden Verwaltungsakten
@@ -2060,6 +2156,7 @@ beantragen.
 
 
 #### § 80a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021802125)
 
 (1) Legt ein Dritter einen Rechtsbehelf gegen den an einen anderen
 gerichteten, diesen begünstigenden Verwaltungsakt ein, kann die
@@ -2086,6 +2183,7 @@ gilt entsprechend.
 
 
 #### § 80b
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022602360)
 
 (1) Die aufschiebende Wirkung des Widerspruchs und der
 Anfechtungsklage endet mit der Unanfechtbarkeit oder, wenn die
@@ -2104,6 +2202,7 @@ aufschiebende Wirkung fortdauert.
 
 
 #### § 80c
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE024000360)
 
 (1) In Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50
 Absatz 1 Nummer 6 gelten für die Anordnung oder Wiederherstellung der
@@ -2146,10 +2245,12 @@ Interesse liegen.
 
 
 ### 9. Abschnitt - Verfahren im ersten Rechtszug
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001101308)
 
 
 
 #### § 81
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010305125)
 
 (1) Die Klage ist bei dem Gericht schriftlich zu erheben. Bei dem
 Verwaltungsgericht kann sie auch zu Protokoll des Urkundsbeamten der
@@ -2162,6 +2263,7 @@ werden.
 
 
 #### § 82
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010404311)
 
 (1) Die Klage muß den Kläger, den Beklagten und den Gegenstand des
 Klagebegehrens bezeichnen. Sie soll einen bestimmten Antrag enthalten.
@@ -2180,6 +2282,7 @@ vorigen Stand gilt § 60 entsprechend.
 
 
 #### § 83
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010502308)
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b
 des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
@@ -2187,6 +2290,7 @@ des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
 
 
 #### § 84
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010604310)
 
 (1) Das Gericht kann ohne mündliche Verhandlung durch Gerichtsbescheid
 entscheiden, wenn die Sache keine besonderen Schwierigkeiten
@@ -2230,6 +2334,7 @@ Gerichtsbescheides folgt und dies in seiner Entscheidung feststellt.
 
 
 #### § 85
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010701308)
 
 Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten.
 Zugleich mit der Zustellung ist der Beklagte aufzufordern, sich
@@ -2238,6 +2343,7 @@ kann eine Frist gesetzt werden.
 
 
 #### § 86
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010805311)
 
 (1) Das Gericht erforscht den Sachverhalt von Amts wegen; die
 Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und an
@@ -2265,11 +2371,13 @@ Einsicht bei Gericht zu gewähren.
 
 
 #### § 86a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022801310)
 
 (weggefallen)
 
 
 #### § 87
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE010905310)
 
 (1) Der Vorsitzende oder der Berichterstatter hat schon vor der
 mündlichen Verhandlung alle Anordnungen zu treffen, die notwendig
@@ -2319,6 +2427,7 @@ würdigen vermag.
 
 
 #### § 87a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021902301)
 
 (1) Der Vorsitzende entscheidet, wenn die Entscheidung im
 vorbereitenden Verfahren ergeht,
@@ -2354,6 +2463,7 @@ des Vorsitzenden.
 
 
 #### § 87b
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022003360)
 
 (1) Der Vorsitzende oder der Berichterstatter kann dem Kläger eine
 Frist setzen zur Angabe der Tatsachen, durch deren Berücksichtigung
@@ -2410,6 +2520,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 
 #### § 87c
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE024100360)
 
 (1) Verfahren nach § 48 Absatz 1 Satz 1 Nummer 3 bis 15 und § 50
 Absatz 1 Nummer 6 sollen vorrangig und beschleunigt durchgeführt
@@ -2446,12 +2557,14 @@ mündlichen Verhandlung.
 
 
 #### § 88
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011001308)
 
 Das Gericht darf über das Klagebegehren nicht hinausgehen, ist aber an
 die Fassung der Anträge nicht gebunden.
 
 
 #### § 89
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011101308)
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden,
 wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch
@@ -2464,6 +2577,7 @@ ausgeschlossen.
 
 
 #### § 90
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011203311)
 
 Durch Erhebung der Klage wird die Streitsache rechtshängig. In
 Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
@@ -2472,6 +2586,7 @@ mit Zustellung der Klage rechtshängig.
 
 
 #### § 91
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011301308)
 
 (1) Eine Änderung der Klage ist zulässig, wenn die übrigen Beteiligten
 einwilligen oder das Gericht die Änderung für sachdienlich hält.
@@ -2486,6 +2601,7 @@ zuzulassen sei, ist nicht selbständig anfechtbar.
 
 
 #### § 92
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011404301)
 
 (1) Der Kläger kann bis zur Rechtskraft des Urteils seine Klage
 zurücknehmen. Die Zurücknahme nach Stellung der Anträge in der
@@ -2511,6 +2627,7 @@ Der Beschluß ist unanfechtbar.
 
 
 #### § 93
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011501308)
 
 Das Gericht kann durch Beschluß mehrere bei ihm anhängige Verfahren
 über den gleichen Gegenstand zu gemeinsamer Verhandlung und
@@ -2520,6 +2637,7 @@ verhandelt und entschieden werden.
 
 
 #### § 93a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022102307)
 
 (1) Ist die Rechtmäßigkeit einer behördlichen Maßnahme Gegenstand von
 mehr als zwanzig Verfahren, kann das Gericht eines oder mehrere
@@ -2548,6 +2666,7 @@ dieses Rechtsmittel zu belehren.
 
 
 #### § 94
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011603310)
 
 Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder
 zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses
@@ -2558,6 +2677,7 @@ bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
 
 #### § 95
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011702125)
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten
 anordnen. Als persönliches Erscheinen gilt auch die nach § 102a Absatz
@@ -2580,6 +2700,7 @@ Rechtslage ausreichend unterrichtet ist.
 
 
 #### § 96
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011801308)
 
 (1) Das Gericht erhebt Beweis in der mündlichen Verhandlung. Es kann
 insbesondere Augenschein einnehmen, Zeugen, Sachverständige und
@@ -2592,6 +2713,7 @@ Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 
 
 #### § 97
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE011901308)
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und
 können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
@@ -2600,6 +2722,7 @@ beanstandet, so entscheidet das Gericht.
 
 
 #### § 98
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012001308)
 
 Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf
 die Beweisaufnahme §§ 358 bis 444 und 450 bis 494 der
@@ -2607,6 +2730,7 @@ Zivilprozeßordnung entsprechend anzuwenden.
 
 
 #### § 99
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012104360)
 
 (1) Behörden sind zur Vorlage von Urkunden oder Akten, zur
 Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet.
@@ -2659,6 +2783,7 @@ das Beschwerdeverfahren gelten die Sätze 4 bis 11 sinngemäß.
 
 
 #### § 100
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012207125)
 
 (1) Die Beteiligten können die Gerichtsakten und die dem Gericht
 vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten
@@ -2695,6 +2820,7 @@ betreffen, wird Akteneinsicht nach den Absätzen 1 bis 3 nicht gewährt.
 
 
 #### § 101
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012302125)
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf
 Grund mündlicher Verhandlung. Die mündliche Verhandlung soll so früh
@@ -2708,6 +2834,7 @@ mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
 
 #### § 102
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012402307)
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind
 die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen, bei
@@ -2725,6 +2852,7 @@ Erledigung notwendig ist.
 
 
 #### § 102a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023402125)
 
 (1) Die mündliche Verhandlung kann in geeigneten Fällen und soweit
 ausreichende Kapazitäten zur Verfügung stehen als Videoverhandlung
@@ -2762,6 +2890,7 @@ informieren.
 
 
 #### § 103
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012501308)
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
 
@@ -2773,6 +2902,7 @@ stellen und zu begründen.
 
 
 #### § 104
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012601308)
 
 (1) Der Vorsitzende hat die Streitsache mit den Beteiligten
 tatsächlich und rechtlich zu erörtern.
@@ -2787,12 +2917,14 @@ Wiedereröffnung beschließen.
 
 
 #### § 105
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012702311)
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung
 entsprechend.
 
 
 #### § 106
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012804125)
 
 Um den Rechtsstreit vollständig oder zum Teil zu erledigen, können die
 Beteiligten zu Protokoll des Gerichts oder des beauftragten oder
@@ -2806,16 +2938,19 @@ Gericht annehmen.
 
 
 ### 10. Abschnitt - Urteile und andere Entscheidungen
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001201308)
 
 
 
 #### § 107
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE012901308)
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil
 entschieden.
 
 
 #### § 108
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013001308)
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis
 des Verfahrens gewonnenen Überzeugung. In dem Urteil sind die Gründe
@@ -2826,18 +2961,21 @@ werden, zu denen die Beteiligten sich äußern konnten.
 
 
 #### § 109
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013101308)
 
 Über die Zulässigkeit der Klage kann durch Zwischenurteil vorab
 entschieden werden.
 
 
 #### § 110
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013201308)
 
 Ist nur ein Teil des Streitgegenstands zur Entscheidung reif, so kann
 das Gericht ein Teilurteil erlassen.
 
 
 #### § 111
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013301308)
 
 Ist bei einer Leistungsklage ein Anspruch nach Grund und Betrag
 streitig, so kann das Gericht durch Zwischenurteil über den Grund
@@ -2846,6 +2984,7 @@ erklärt ist, anordnen, daß über den Betrag zu verhandeln ist.
 
 
 #### § 112
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013401308)
 
 Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern
 gefällt werden, die an der dem Urteil zugrunde liegenden Verhandlung
@@ -2853,6 +2992,7 @@ teilgenommen haben.
 
 
 #### § 113
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013502308)
 
 (1) Soweit der Verwaltungsakt rechtswidrig und der Kläger dadurch in
 seinen Rechten verletzt ist, hebt das Gericht den Verwaltungsakt und
@@ -2906,6 +3046,7 @@ Beachtung der Rechtsauffassung des Gerichts zu bescheiden.
 
 
 #### § 114
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013602307)
 
 Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu
 handeln, prüft das Gericht auch, ob der Verwaltungsakt oder die
@@ -2918,12 +3059,14 @@ verwaltungsgerichtlichen Verfahren ergänzen.
 
 
 #### § 115
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013701308)
 
 §§ 113 und 114 gelten entsprechend, wenn nach § 79 Abs. 1 Nr. 2 und
 Abs. 2 der Widerspruchsbescheid Gegenstand der Anfechtungsklage ist.
 
 
 #### § 116
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013803125)
 
 (1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden
 hat, in der Regel in dem Termin, in dem die mündliche Verhandlung
@@ -2943,6 +3086,7 @@ Verkündung durch Zustellung an die Beteiligten ersetzt.
 
 
 #### § 117
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE013903310)
 
 (1) Das Urteil ergeht "Im Namen des Volkes". Es ist schriftlich
 abzufassen und von den Richtern, die bei der Entscheidung mitgewirkt
@@ -3007,6 +3151,7 @@ festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
 
 #### § 118
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014002310)
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
 im Urteil sind jederzeit vom Gericht zu berichtigen.
@@ -3019,6 +3164,7 @@ untrennbar zu verbinden.
 
 
 #### § 119
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014102310)
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder
 Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach
@@ -3035,6 +3181,7 @@ verbinden.
 
 
 #### § 120
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014202125)
 
 (1) Wenn ein nach dem Tatbestand von einem Beteiligten gestellter
 Antrag oder die Kostenfolge bei der Entscheidung ganz oder zum Teil
@@ -3053,6 +3200,7 @@ erfordert.
 
 
 #### § 121
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014302308)
 
 Rechtskräftige Urteile binden, soweit über den Streitgegenstand
 entschieden worden ist,
@@ -3068,6 +3216,7 @@ entschieden worden ist,
 
 
 #### § 122
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014402308)
 
 (1) §§ 88, 108 Abs. 1 Satz 1, §§ 118, 119 und 120 gelten entsprechend
 für Beschlüsse.
@@ -3084,10 +3233,12 @@ zurückweist.
 
 
 ### 11. Abschnitt - Einstweilige Anordnung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001301308)
 
 
 
 #### § 123
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014502308)
 
 (1) Auf Antrag kann das Gericht, auch schon vor Klageerhebung, eine
 einstweilige Anordnung in bezug auf den Streitgegenstand treffen, wenn
@@ -3116,14 +3267,17 @@ der §§ 80 und 80a.
 
 
 ## Teil III - Rechtsmittel und Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001401308)
 
 
 
 ### 12. Abschnitt - Berufung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001501308)
 
 
 
 #### § 124
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014604311)
 
 (1) Gegen Endurteile einschließlich der Teilurteile nach § 110 und
 gegen Zwischenurteile nach den §§ 109 und 111 steht den Beteiligten
@@ -3157,6 +3311,7 @@ Oberverwaltungsgericht zugelassen wird.
 
 
 #### § 124a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022702301)
 
 (1) Das Verwaltungsgericht lässt die Berufung in dem Urteil zu, wenn
 die Gründe des § 124 Abs. 2 Nr. 3 oder Nr. 4 vorliegen. Das
@@ -3204,6 +3359,7 @@ einzureichen. Absatz 3 Satz 3 bis 5 gilt entsprechend.
 
 
 #### § 125
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014702308)
 
 (1) Für das Berufungsverfahren gelten die Vorschriften des Teils II
 entsprechend, soweit sich aus diesem Abschnitt nichts anderes ergibt.
@@ -3217,6 +3373,7 @@ hätte. Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
 
 #### § 126
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014802307)
 
 (1) Die Berufung kann bis zur Rechtskraft des Urteils zurückgenommen
 werden. Die Zurücknahme nach Stellung der Anträge in der mündlichen
@@ -3236,6 +3393,7 @@ Das Gericht entscheidet durch Beschluß über die Kostenfolge.
 
 
 #### § 127
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE014902310)
 
 (1) Der Berufungsbeklagte und die anderen Beteiligten können sich der
 Berufung anschließen. Die Anschlussberufung ist bei dem
@@ -3257,6 +3415,7 @@ zurückgenommen oder als unzulässig verworfen wird.
 
 
 #### § 128
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015001308)
 
 Das Oberverwaltungsgericht prüft den Streitfall innerhalb des
 Berufungsantrags im gleichen Umfang wie das Verwaltungsgericht. Es
@@ -3264,6 +3423,7 @@ berücksichtigt auch neu vorgebrachte Tatsachen und Beweismittel.
 
 
 #### § 128a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022201308)
 
 (1) Neue Erklärungen und Beweismittel, die im ersten Rechtszug
 entgegen einer hierfür gesetzten Frist (§ 87b Abs. 1 und 2) nicht
@@ -3282,12 +3442,14 @@ zurückgewiesen hat, bleiben auch im Berufungsverfahren ausgeschlossen.
 
 
 #### § 129
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015101308)
 
 Das Urteil des Verwaltungsgerichts darf nur soweit geändert werden,
 als eine Änderung beantragt ist.
 
 
 #### § 130
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015202310)
 
 (1) Das Oberverwaltungsgericht hat die notwendigen Beweise zu erheben
 und in der Sache selbst zu entscheiden.
@@ -3313,6 +3475,7 @@ Berufungsentscheidung gebunden.
 
 
 #### § 130a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022302307)
 
 Das Oberverwaltungsgericht kann über die Berufung durch Beschluß
 entscheiden, wenn es sie einstimmig für begründet oder einstimmig für
@@ -3321,6 +3484,7 @@ hält. § 125 Abs. 2 Satz 3 bis 5 gilt entsprechend.
 
 
 #### § 130b
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE022402307)
 
 Das Oberverwaltungsgericht kann in dem Urteil über die Berufung auf
 den Tatbestand der angefochtenen Entscheidung Bezug nehmen, wenn es
@@ -3331,15 +3495,18 @@ angefochtenen Entscheidung als unbegründet zurückweist.
 
 
 #### § 131
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015304307)
 
 (weggefallen)
 
 
 ### 13. Abschnitt - Revision
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001601308)
 
 
 
 #### § 132
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015404307)
 
 (1) Gegen das Urteil des Oberverwaltungsgerichts (§ 49 Nr. 1) und
 gegen Beschlüsse nach § 47 Abs. 5 Satz 1 steht den Beteiligten die
@@ -3368,6 +3535,7 @@ das Bundesverwaltungsgericht sie zugelassen hat.
 
 
 #### § 133
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015502308)
 
 (1) Die Nichtzulassung der Revision kann durch Beschwerde angefochten
 werden.
@@ -3400,6 +3568,7 @@ Entscheidung zurückverweisen.
 
 
 #### § 134
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015604310)
 
 (1) Gegen das Urteil eines Verwaltungsgerichts (§ 49 Nr. 2) steht den
 Beteiligten die Revision unter Übergehung der Berufungsinstanz zu,
@@ -3431,6 +3600,7 @@ hat.
 
 
 #### § 135
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015702308)
 
 Gegen das Urteil eines Verwaltungsgerichts (§ 49 Nr. 2) steht den
 Beteiligten die Revision an das Bundesverwaltungsgericht zu, wenn
@@ -3441,11 +3611,13 @@ hat. Für die Zulassung gelten die §§ 132 und 133 entsprechend.
 
 
 #### § 136
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015803307)
 
 (weggefallen)
 
 
 #### § 137
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE015901308)
 
 (1) Die Revision kann nur darauf gestützt werden, daß das angefochtene
 Urteil auf der Verletzung
@@ -3474,6 +3646,7 @@ Revisionsgründe nicht gebunden.
 
 
 #### § 138
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016001308)
 
 Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend
 anzusehen, wenn
@@ -3506,6 +3679,7 @@ anzusehen, wenn
 
 
 #### § 139
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016102308)
 
 (1) Die Revision ist bei dem Gericht, dessen Urteil angefochten wird,
 innerhalb eines Monats nach Zustellung des vollständigen Urteils oder
@@ -3535,6 +3709,7 @@ gerügt werden, die Tatsachen angeben, die den Mangel ergeben.
 
 
 #### § 140
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016202301)
 
 (1) Die Revision kann bis zur Rechtskraft des Urteils zurückgenommen
 werden. Die Zurücknahme nach Stellung der Anträge in der mündlichen
@@ -3548,6 +3723,7 @@ Das Gericht entscheidet durch Beschluß über die Kostenfolge.
 
 
 #### § 141
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016302308)
 
 Für die Revision gelten die Vorschriften über die Berufung
 entsprechend, soweit sich aus diesem Abschnitt nichts anderes ergibt.
@@ -3555,6 +3731,7 @@ Die §§ 87a, 130a und 130b finden keine Anwendung.
 
 
 #### § 142
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016402308)
 
 (1) Klageänderungen und Beiladungen sind im Revisionsverfahren
 unzulässig. Das gilt nicht für Beiladungen nach § 65 Abs. 2.
@@ -3566,6 +3743,7 @@ gestellten Antrag von dem Vorsitzenden verlängert werden.
 
 
 #### § 143
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016501308)
 
 Das Bundesverwaltungsgericht prüft, ob die Revision statthaft und ob
 sie in der gesetzlichen Form und Frist eingelegt und begründet worden
@@ -3574,6 +3752,7 @@ unzulässig.
 
 
 #### § 144
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016602308)
 
 (1) Ist die Revision unzulässig, so verwirft sie das
 Bundesverwaltungsgericht durch Beschluß.
@@ -3620,15 +3799,18 @@ werden, für Rügen, auf denen die Zulassung der Revision beruht.
 
 
 #### § 145
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016702307)
 
 (weggefallen)
 
 
 ### 14. Abschnitt - Beschwerde, Erinnerung, Anhörungsrüge
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001702301)
 
 
 
 #### § 146
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016807311)
 
 (1) Gegen die Entscheidungen des Verwaltungsgerichts, des Vorsitzenden
 oder des Berichterstatters, die nicht Urteile oder Gerichtsbescheide
@@ -3667,6 +3849,7 @@ die dargelegten Gründe.
 
 
 #### § 147
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE016904311)
 
 (1) Die Beschwerde ist bei dem Gericht, dessen Entscheidung
 angefochten wird, schriftlich oder zu Protokoll des Urkundsbeamten der
@@ -3678,6 +3861,7 @@ innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
 
 #### § 148
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017002308)
 
 (1) Hält das Verwaltungsgericht, der Vorsitzende oder der
 Berichterstatter, dessen Entscheidung angefochten wird, die Beschwerde
@@ -3689,6 +3873,7 @@ Beschwerde an das Oberverwaltungsgericht in Kenntnis setzen.
 
 
 #### § 149
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017102308)
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die
 Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Das
@@ -3702,12 +3887,14 @@ unberührt.
 
 
 #### § 150
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017201308)
 
 Über die Beschwerde entscheidet das Oberverwaltungsgericht durch
 Beschluß.
 
 
 #### § 151
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017302311)
 
 Gegen die Entscheidungen des beauftragten oder ersuchten Richters oder
 des Urkundsbeamten kann innerhalb von zwei Wochen nach Bekanntgabe die
@@ -3717,6 +3904,7 @@ zu stellen. §§ 147 bis 149 gelten entsprechend.
 
 
 #### § 152
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017403307)
 
 (1) Entscheidungen des Oberverwaltungsgerichts können vorbehaltlich
 des § 99 Abs. 2 und des § 133 Abs. 1 dieses Gesetzes sowie des § 17a
@@ -3729,6 +3917,7 @@ Urkundsbeamten der Geschäftsstelle § 151 entsprechend.
 
 
 #### § 152a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023103125)
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung
 beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
@@ -3779,10 +3968,12 @@ anzuwenden.
 
 
 ### 15. Abschnitt - Wiederaufnahme des Verfahrens
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001801308)
 
 
 
 #### § 153
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017502301)
 
 (1) Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften
 des Vierten Buchs der Zivilprozeßordnung wiederaufgenommen werden.
@@ -3795,14 +3986,17 @@ Bundesverwaltungsgericht zu.
 
 
 ## Teil IV - Kosten und Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG001901308)
 
 
 
 ### 16. Abschnitt - Kosten
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG002001308)
 
 
 
 #### § 154
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017603360)
 
 (1) Der unterliegende Teil trägt die Kosten des Verfahrens.
 
@@ -3823,6 +4017,7 @@ Absatz 3 bleibt unberührt.
 
 
 #### § 155
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017703310)
 
 (1) Wenn ein Beteiligter teils obsiegt, teils unterliegt, so sind die
 Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind
@@ -3842,6 +4037,7 @@ können diesem auferlegt werden.
 
 
 #### § 156
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017801308)
 
 Hat der Beklagte durch sein Verhalten keine Veranlassung zur Erhebung
 der Klage gegeben, so fallen dem Kläger die Prozeßkosten zur Last,
@@ -3849,11 +4045,13 @@ wenn der Beklagte den Anspruch sofort anerkennt.
 
 
 #### § 157
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE017901308)
 
 (weggefallen)
 
 
 #### § 158
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018002308)
 
 (1) Die Anfechtung der Entscheidung über die Kosten ist unzulässig,
 wenn nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel
@@ -3864,6 +4062,7 @@ Entscheidung über die Kosten unanfechtbar.
 
 
 #### § 159
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018101308)
 
 Besteht der kostenpflichtige Teil aus mehreren Personen, so gilt § 100
 der Zivilprozeßordnung entsprechend. Kann das streitige
@@ -3873,6 +4072,7 @@ Gesamtschuldnern auferlegt werden.
 
 
 #### § 160
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018201308)
 
 Wird der Rechtsstreit durch Vergleich erledigt und haben die
 Beteiligten keine Bestimmung über die Kosten getroffen, so fallen die
@@ -3881,6 +4081,7 @@ Kosten trägt jeder Beteiligte selbst.
 
 
 #### § 161
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018302301)
 
 (1) Das Gericht hat im Urteil oder, wenn das Verfahren in anderer
 Weise beendet worden ist, durch Beschluß über die Kosten zu
@@ -3902,6 +4103,7 @@ durfte.
 
 
 #### § 162
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018406125)
 
 (1) Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur
 zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung
@@ -3926,28 +4128,33 @@ unterliegenden Partei oder der Staatskasse auferlegt.
 
 
 #### § 163
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018501308)
 
 (weggefallen)
 
 
 #### § 164
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018601308)
 
 Der Urkundsbeamte des Gerichts des ersten Rechtszugs setzt auf Antrag
 den Betrag der zu erstattenden Kosten fest.
 
 
 #### § 165
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018701308)
 
 Die Beteiligten können die Festsetzung der zu erstattenden Kosten
 anfechten. § 151 gilt entsprechend.
 
 
 #### § 165a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023000310)
 
 § 110 der Zivilprozessordnung gilt entsprechend.
 
 
 #### § 166
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018804311)
 
 (1) Die Vorschriften der Zivilprozeßordnung über die
 Prozesskostenhilfe sowie § 569 Abs. 3 Nr. 2 der Zivilprozessordnung
@@ -3997,10 +4204,12 @@ für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 ### 17. Abschnitt - Vollstreckung
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG002101308)
 
 
 
 #### § 167
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE018901308)
 
 (1) Soweit sich aus diesem Gesetz nichts anderes ergibt, gilt für die
 Vollstreckung das Achte Buch der Zivilprozeßordnung entsprechend.
@@ -4011,6 +4220,7 @@ der Kosten für vorläufig vollstreckbar erklärt werden.
 
 
 #### § 168
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019002307)
 
 (1) Vollstreckt wird
 
@@ -4042,6 +4252,7 @@ der Zustellung eines vollständigen Urteils gleichsteht.
 
 
 #### § 169
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019101308)
 
 (1) Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands,
 einer Gemeinde oder einer Körperschaft, Anstalt oder Stiftung des
@@ -4059,6 +4270,7 @@ durchzuführen.
 
 
 #### § 170
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019201308)
 
 (1) Soll gegen den Bund, ein Land, einen Gemeindeverband, eine
 Gemeinde, eine Körperschaft, eine Anstalt oder Stiftung des
@@ -4092,12 +4304,14 @@ einstweiligen Anordnung handelt.
 
 
 #### § 171
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019301308)
 
 In den Fällen der §§ 169, 170 Abs. 1 bis 3 bedarf es einer
 Vollstreckungsklausel nicht.
 
 
 #### § 172
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019403310)
 
 Kommt die Behörde in den Fällen des § 113 Abs. 1 Satz 2 und Abs. 5 und
 des § 123 der ihr im Urteil oder in der einstweiligen Anordnung
@@ -4109,10 +4323,12 @@ wiederholt angedroht, festgesetzt und vollstreckt werden.
 
 
 ## Teil V - Schluß- und Übergangsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNG002201308)
 
 
 
 ### § 173
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019507125)
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
@@ -4131,6 +4347,7 @@ das zuständige Oberverwaltungsgericht.
 
 
 ### § 174
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019601308)
 
 (1) Für den Vertreter des öffentlichen Interesses bei dem
 Oberverwaltungsgericht und bei dem Verwaltungsgericht steht der
@@ -4146,12 +4363,14 @@ haben.
 
 
 ### § 175
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023700311)
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
 entsprechend.
 
 
 ### § 176
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019802125)
 
 Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember
 2025 abweichend von § 29 Absatz 1 des Deutschen Richtergesetzes bei
@@ -4168,6 +4387,7 @@ einer gerichtlichen Entscheidung auch mitwirken:
 
 
 ### § 177
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE019705125)
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
 des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
@@ -4197,11 +4417,13 @@ für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden
 
 
 ### (XXXX) §§ 178 und 179
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020001308)
 
 (Änderungsvorschriften)
 
 
 ### § 180
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020101308)
 
 Erfolgt die Vernehmung oder die Vereidigung von Zeugen und
 Sachverständigen nach dem Verwaltungsverfahrensgesetz oder nach dem
@@ -4214,11 +4436,13 @@ Verwaltungsgericht durch Beschluß.
 
 
 ### (XXXX) §§ 181 und 182
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020201308)
 
 (Änderungsvorschriften)
 
 
 ### § 183
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020301308)
 
 Hat das Verfassungsgericht eines Landes die Nichtigkeit von
 Landesrecht festgestellt oder Vorschriften des Landesrechts für
@@ -4231,12 +4455,14 @@ Zivilprozeßordnung gilt entsprechend.
 
 
 ### § 184
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020401308)
 
 Das Land kann bestimmen, daß das Oberverwaltungsgericht die bisherige
 Bezeichnung "Verwaltungsgerichtshof" weiterführt.
 
 
 ### § 185
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020503125)
 
 (1) In den Ländern Berlin und Hamburg treten an die Stelle der Kreise
 im Sinne des § 28 die Bezirke.
@@ -4253,6 +4479,7 @@ Landesstraßengesetzes.
 
 
 ### § 186
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020602301)
 
 § 22 Nr. 3 findet in den Ländern Berlin, Bremen und Hamburg auch mit
 der Maßgabe Anwendung, daß in der öffentlichen Verwaltung ehrenamtlich
@@ -4262,6 +4489,7 @@ entsprechend.
 
 
 ### § 187
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020702307)
 
 (1) Die Länder können den Gerichten der Verwaltungsgerichtsbarkeit
 Aufgaben der Disziplinargerichtsbarkeit und der Schiedsgerichtsbarkeit
@@ -4278,6 +4506,7 @@ Oberverwaltungsgerichts erlassen.
 
 
 ### § 188
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020806125)
 
 Die Sachgebiete in Angelegenheiten der Fürsorge mit Ausnahme der
 Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes,
@@ -4289,6 +4518,7 @@ Erstattungsstreitigkeiten zwischen Sozialleistungsträgern.
 
 
 ### § 188a
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023800125)
 
 Für Angelegenheiten des Wirtschaftsrechts können besondere Kammern
 oder Senate gebildet werden (Wirtschaftskammern, Wirtschaftssenate).
@@ -4302,6 +4532,7 @@ werden.
 
 
 ### § 188b
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE023901360)
 
 Für Angelegenheiten des Planungsrechts sollen besondere Kammern oder
 Senate gebildet werden (Planungskammern, Planungssenate). Ihnen können
@@ -4310,6 +4541,7 @@ Angelegenheiten des Planungsrechts im Zusammenhang stehen.
 
 
 ### § 189
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE020902310)
 
 Für die nach § 99 Abs. 2 zu treffenden Entscheidungen sind bei den
 Oberverwaltungsgerichten und dem Bundesverwaltungsgericht Fachsenate
@@ -4317,6 +4549,7 @@ zu bilden.
 
 
 ### § 190
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021003308)
 
 (1) Die folgenden Gesetze, die von diesem Gesetz abweichen, bleiben
 unberührt:
@@ -4363,6 +4596,7 @@ unberührt:
 
 
 ### § 191
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021102160)
 
 (1) (Änderungsvorschrift)
 
@@ -4371,11 +4605,13 @@ Beamtenstatusgesetzes bleiben unberührt.
 
 
 ### § 192
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021201308)
 
 (Änderungsvorschrift)
 
 
 ### § 193
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021301308)
 
 In einem Land, in dem kein Verfassungsgericht besteht, bleibt eine dem
 Oberverwaltungsgericht übertragene Zuständigkeit zur Entscheidung von
@@ -4384,6 +4620,7 @@ eines Verfassungsgerichts unberührt.
 
 
 ### § 194
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021403125)
 
 (1) Die Zulässigkeit der Berufungen richtet sich nach dem bis zum 31.
 Dezember 2001 geltenden Recht, wenn vor dem 1. Januar 2002
@@ -4427,6 +4664,7 @@ der Kriegsopferfürsorge gilt § 67 Absatz 2 Satz 2 Nummer 6 in der am
 
 
 ### § 195
+[Direktlink](https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html#BJNR000170960BJNE021502301)
 
 (1) (Inkrafttreten)
 

@@ -19,6 +19,7 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000100000)
 
 Auf Grund
 
@@ -50,12 +51,14 @@ Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Anpassung des aktuellen Rentenwerts (Ost) in der gesetzlichen Rentenversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000200000)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1995 an 35,45
 Deutsche Mark.
 
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000300000)
 
 Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
 Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
@@ -65,6 +68,7 @@ Anpassungsfaktor beträgt 1,0278.
 
 
 ## § 3 Pflegegeld
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000400000)
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1995 an für Arbeitsunfälle, für die § 1151 der
@@ -73,12 +77,14 @@ und 1.601 Deutsche Mark monatlich.
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000500000)
 
 Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte
 beträgt vom 1. Januar 1995 an 16,37 Deutsche Mark.
 
 
 ## § 5 Grenzbetrag für die Zahlung eines Sozialzuschlags
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000600000)
 
 Der in § 2 Abs. 1 Nr. 2 des Gesetzes zur Zahlung eines Sozialzuschlags
 zu Renten im Beitrittsgebiet bestimmte Betrag beträgt vom 1. Juli 1994
@@ -86,11 +92,13 @@ an 1.081 Deutsche Mark monatlich.
 
 
 ## § 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000700000)
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
 
 ## Schlußformel
+[Direktlink](https://www.gesetze-im-internet.de/rav_9/BJNR380500994.html#BJNR380500994BJNE000800000)
 
 Der Bundesrat hat zugestimmt.
 

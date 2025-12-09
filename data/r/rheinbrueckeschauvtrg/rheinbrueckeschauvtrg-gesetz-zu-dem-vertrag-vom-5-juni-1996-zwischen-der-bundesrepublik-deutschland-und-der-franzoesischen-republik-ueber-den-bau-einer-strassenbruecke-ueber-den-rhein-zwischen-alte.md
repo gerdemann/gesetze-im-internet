@@ -20,12 +20,14 @@ Fundstelle
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/rheinbr_ckeschauvtrg/BJNR098620998.html#BJNR098620998BJNE000100311)
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
+[Direktlink](https://www.gesetze-im-internet.de/rheinbr_ckeschauvtrg/BJNR098620998.html#BJNR098620998BJNE000200311)
 
 Dem in Dijon am 5. Juni 1996 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Französischen Republik über den Bau
@@ -34,6 +36,7 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/rheinbr_ckeschauvtrg/BJNR098620998.html#BJNR098620998BJNE000300311)
 
 (1) Bis zur Abnahme der Rheinbrücke gilt die Baustelle für die
 Anwendung des deutschen Umsatzsteuer- und Verbrauchsteuerrechts auf
@@ -50,6 +53,7 @@ anzusehen.
 
 
 ## Art 3
+[Direktlink](https://www.gesetze-im-internet.de/rheinbr_ckeschauvtrg/BJNR098620998.html#BJNR098620998BJNE000400311)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

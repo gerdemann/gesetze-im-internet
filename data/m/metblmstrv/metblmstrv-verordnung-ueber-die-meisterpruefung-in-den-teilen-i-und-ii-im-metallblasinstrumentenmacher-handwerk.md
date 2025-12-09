@@ -20,6 +20,7 @@ Geändert durch
 
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000100000)
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S.
@@ -30,6 +31,7 @@ Bundesministerium für Bildung und Forschung:
 
 
 ## § 1 Gegenstand
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000200000)
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die in der
 Prüfung in den Teilen I und II der Meisterprüfung im
@@ -37,6 +39,7 @@ Metallblasinstrumentenmacher-Handwerk zu stellenden Anforderungen.
 
 
 ## § 2 Meisterprüfungsberufsbild
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000300000)
 
 In den Teilen I und II der Meisterprüfung im
 Metallblasinstrumentenmacher-Handwerk hat der Prüfling den Teil seiner
@@ -211,6 +214,7 @@ bezieht. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
 
 ## § 3 Ziel und Gliederung der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000400000)
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -230,6 +234,7 @@ meisterhaft verrichtet.
 
 
 ## § 4 Meisterprüfungsprojekt
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000500000)
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus
@@ -366,6 +371,7 @@ Bestandteile wie folgt gewichtet:
 
 
 ## § 5 Fachgespräch
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000600000)
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage
 ist,
@@ -394,6 +400,7 @@ ist,
 
 
 ## § 6 Situationsaufgabe
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000700000)
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und
 vervollständigt den Nachweis der beruflichen Handlungskompetenz für
@@ -424,6 +431,7 @@ Absatz 2 Satz 2.
 
 
 ## § 7 Gewichtung; Bestehen der Prüfung in Teil I
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000800000)
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die
 Situationsaufgabe werden gesondert bewertet. Für das Gesamtergebnis
@@ -446,6 +454,7 @@ gewichtet.
 
 
 ## § 8 Ziel und Gliederung der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE000900000)
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und
 zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen,
@@ -481,6 +490,7 @@ Stunden an einem Tag darf nicht überschritten werden.
 
 
 ## § 9 Handlungsfeld „Anforderungen von Kunden eines Metallblasinstrumentenmacher-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001000000)
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines
 Metallblasinstrumentenmacher-Betriebs analysieren, Lösungen erarbeiten
@@ -625,6 +635,7 @@ und anbieten“ besteht aus folgenden Qualifikationen:
 
 
 ## § 10 Handlungsfeld „Leistungen eines Metallblasinstrumentenmacher-Betriebs erbringen, kontrollieren und übergeben“
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001100000)
 
 (1) Im Handlungsfeld „Leistungen eines Metallblasinstrumentenmacher-
 Betriebs erbringen, kontrollieren und übergeben“ hat der Prüfling
@@ -758,6 +769,7 @@ Qualifikationen:
 
 
 ## § 11 Handlungsfeld „Einen Metallblasinstrumentenmacher-Betrieb führen und organisieren“
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001200000)
 
 (1) Im Handlungsfeld „Einen Metallblasinstrumentenmacher-Betrieb
 führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der
@@ -906,6 +918,7 @@ führen und organisieren“ besteht aus folgenden Qualifikationen:
 
 
 ## § 12 Gewichtung; Bestehen der Prüfung in Teil II
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001300000)
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung
 ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach
@@ -934,6 +947,7 @@ Meisterprüfung ausschlaggebend ist.
 
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001401128)
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
 unberührt.
@@ -944,6 +958,7 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 
 ## § 14 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001500000)
 
 Die bis zum Ablauf des 31. August 2020 begonnenen Prüfungsverfahren
 werden nach den bisherigen Vorschriften für das Metallblas- und
@@ -951,6 +966,7 @@ Schlagzeuginstrumentenmacher-Handwerk zu Ende geführt.
 
 
 ## § 15 Inkrafttreten, Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/metblmstrv/BJNR116200020.html#BJNR116200020BJNE001600000)
 
 Diese Verordnung tritt am 1. September 2020 in Kraft. Die nach § 122
 Absatz 3 und 4 der Handwerksordnung für das Metallblas- und

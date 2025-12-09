@@ -21,6 +21,7 @@ Fundstelle
 
 
 ## Art 1 Zustimmung zu den Verträgen
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000100308)
 
 Dem in Berlin am 3. August 1990 von der Bundesrepublik Deutschland
 unterzeichneten Vertrag zur Vorbereitung und Durchführung der ersten
@@ -33,6 +34,7 @@ nachstehend veröffentlicht.
 
 
 ## Art 2 Änderung des Bundeswahlgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000200308)
 
 Das Bundeswahlgesetz in der Fassung der Bekanntmachung vom 1.
 September 1975 (BGBl. I S. 2325), zuletzt geändert durch das Gesetz
@@ -172,6 +174,7 @@ vom 11. Juni 1990 (BGBl. I S. 1015), wird wie folgt geändert:
 
 
 ## Art 3 Besondere Maßgaben für die Anwendung des Bundeswahlgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000300308)
 
 Für die Anwendung des Bundeswahlgesetzes auf die Vorbereitung und
 Durchführung der Wahl in den Ländern Mecklenburg-Vorpommern,
@@ -273,6 +276,7 @@ gelten folgende Maßgaben:
 
 
 ## Art 4 Neubekanntmachung des Bundeswahlgesetzes
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000400308)
 
 Der Bundesminister des Innern kann den Wortlaut des Bundeswahlgesetzes
 in der vom Tage des Inkrafttretens dieses Gesetzes an für die Wahl zum
@@ -281,12 +285,14 @@ bekanntmachen.
 
 
 ## Art 5 Berlin-Klausel
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000500308)
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6 Inkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000600308)
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
@@ -299,6 +305,7 @@ Bundesgesetzblatt bekanntzugeben.
 
 
 ## Anlage (zu Artikel 2 Nr. 3)
+[Direktlink](https://www.gesetze-im-internet.de/gdtwahlvdvtrg/BJNR208130990.html#BJNR208130990BJNE000700308)
 
 Fundstelle des Originaltextes: BGBl. II 1990, 816 - 821
 

@@ -19,15 +19,18 @@ Fundstelle
 
 
 ## Art 1 - 
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000100319)
 
 -
 
 
 ## Art 2
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000200319)
 
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNE000800319)
 
 (1) Kapitalgesellschaften, die beim Inkrafttreten dieses Gesetzes die
 in § 1 Abs. 1 und
@@ -64,6 +67,7 @@ sind, gilt
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNE000900319)
 
 (1) Die Übertragung des Vermögens der Grundstücksgesellschaft auf das
 Kreditinstitut bedarf eines Beschlusses der Hauptversammlung
@@ -101,6 +105,7 @@ Gläubiger sind in der Bekanntmachung auf dieses Recht hinzuweisen.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNE001000319)
 
 Geschäfte, die der Anpassung der Rechtsverhältnisse einer
 Kapitalgesellschaft an die in § 1 Abs. 2 Satz 2 genannten Vorschriften
@@ -109,6 +114,7 @@ von den in der Kostenordnung bestimmten Gebühren befreit.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNE001100319)
 
 (1) Aufwendungen in Geld für den Erwerb von Anteilscheinen, die von
 Kapitalgesellschaften im Sinne des § 1 ausgegeben werden, gelten als
@@ -119,6 +125,7 @@ gemacht werden, anzuwenden.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNE001200319)
 
 (1) Wird das Vermögen einer Grundstücksgesellschaft nach den
 Vorschriften des § 2 übertragen, so gelten die Absätze 2 bis 7.
@@ -160,6 +167,7 @@ Kapitalverkehrsteuergesetzes.
 
 
 ## Art 3 - 
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000300319)
 
 Der Bundesminister der Justiz, der Bundesminister für Wirtschaft und
 der Bundesminister der Finanzen werden ermächtigt, das Gesetz über
@@ -169,16 +177,19 @@ dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
 ## Art 4 - 
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000400319)
 
 -
 
 
 ## Art 5 - 
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000500319)
 
 -
 
 
 ## Art 6
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000600319)
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des
 Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
@@ -188,6 +199,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 
 ## Art 7
+[Direktlink](https://www.gesetze-im-internet.de/kagg_gew_rgg/BJNR009929969.html#BJNR009929969BJNG000700319)
 
 (1) Dieses Gesetz tritt am ersten Tage des auf seine Verkündung
 folgenden vierten Monats in Kraft, soweit die Absätze 2 und 3 nichts

@@ -19,6 +19,7 @@ Fundstelle
 Stand: Ersetzt V 2030-8-5-2 v. 8.12.2012 I 2622 (GVIDVDV)
 
 ## Eingangsformel
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000100000)
 
 Auf Grund des § 26 Absatz 2 des Bundesbeamtengesetzes, der durch
 Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250)
@@ -33,9 +34,11 @@ sind, verordnet das Bundesministerium der Finanzen:
 
 
 ## Abschnitt 1 - Allgemeines
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000100000)
 
 
 ### § 1 Bachelorstudiengang
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000300000)
 
 Der Studiengang „Verwaltungsinformatikdienst des Bundes“ am
 Fachbereich Finanzen der Hochschule des Bundes für öffentliche
@@ -47,6 +50,7 @@ Verwaltungsinformatikdienst des Bundes.
 
 
 ### § 2 Ziele des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000400000)
 
 (1) Das Studium vermittelt die wissenschaftlichen Methoden und das
 fachtheoretische Wissen sowie die berufspraktischen Fähigkeiten und
@@ -70,12 +74,14 @@ der Bundesverwaltung gerecht werden zu können.
 
 
 ### § 3 Bachelorgrad
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000500000)
 
 Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 „Bachelor of Science (B. Sc.)“ verliehen.
 
 
 ### § 4 Einstellungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000600000)
 
 (1) Einstellungsbehörden sind die Behörden des Bundes sowie der
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
@@ -87,6 +93,7 @@ Verordnung nicht anderen Behörden übertragen werden.
 
 
 ### § 5 Ausbildungsbehörden
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000700000)
 
 Ausbildungsbehörden sind
 
@@ -102,6 +109,7 @@ Ausbildungsbehörden sind
 
 
 ### § 6 Dienstaufsicht
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000800000)
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die
 Leiterin oder der Leiter der Einstellungsbehörde.
@@ -120,6 +128,7 @@ Leiterin oder der Leiter der Einstellungsbehörde.
 
 
 ### § 7 Nachteilsausgleich
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE000900000)
 
 (1) Menschen mit Schwerbehinderung, diesen gleichgestellten Menschen
 mit Behinderung und Menschen, die Beeinträchtigungen haben, die die
@@ -161,6 +170,7 @@ gewährten Nachteilsausgleiche dem Prüfungsamt mit.
 
 
 ### § 8 Erholungsurlaub
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001000000)
 
 (1) Erholungsurlaub wird auf den Vorbereitungsdienst angerechnet. Die
 Zeiten des Erholungsurlaubs bestimmt:
@@ -180,6 +190,7 @@ können, festlegt.
 
 
 ### § 9 Elektronisches Informations- und Kommunikationssystem
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001100000)
 
 (1) Der Fachbereich Finanzen kann ein elektronisches Informations- und
 Kommunikationssystem nutzen, um den Studierenden die Informationen
@@ -223,9 +234,11 @@ Informations- und Kommunikationssystem abzurufen.
 
 
 ## Abschnitt 2 - Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000200000)
 
 
 ### § 10 Zweck des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001200000)
 
 (1) Auf Grundlage eines Auswahlverfahrens entscheidet die
 Einstellungsbehörde über die Einstellung in den Vorbereitungsdienst.
@@ -252,6 +265,7 @@ die folgenden Voraussetzungen verfügen:
 
 
 ### § 11 Zulassung zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001300000)
 
 (1) Zum Auswahlverfahren wird von der Einstellungsbehörde zugelassen,
 wer nach den eingereichten Unterlagen die in der Ausschreibung
@@ -279,6 +293,7 @@ elektronischer Bewerbungsunterlagen, zu löschen.
 
 
 ### § 12 Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001400000)
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die
 Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf können
@@ -330,18 +345,21 @@ Punktvergabe ist nicht zulässig.
 
 
 ### § 13 Gemeinsame Auswahlkommission
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001500000)
 
 Für mehrere Einstellungsbehörden können eine oder mehrere gemeinsame
 Auswahlkommissionen bestimmt werden.
 
 
 ### § 14 Teile des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001600000)
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem
 mündlichen Teil.
 
 
 ### § 15 Festlegungen zum Auswahlverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001700000)
 
 (1) Die Einstellungsbehörde legt fest:
 
@@ -373,6 +391,7 @@ Auswahlverfahren für jeden Teil des Auswahlverfahrens ändern.
 
 
 ### § 16 Schriftlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001800000)
 
 (1) Im schriftlichen Teil des Auswahlverfahrens können insbesondere
 folgende Bereiche geprüft werden:
@@ -416,6 +435,7 @@ Auswahlkommission.
 
 
 ### § 17 Bestehen des schriftlichen Teils des Auswahlverfahrens und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE001900000)
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn im
 Leistungstest und im Fall der Ergänzung durch weitere
@@ -436,6 +456,7 @@ maßgebend.
 
 
 ### § 18 Zulassung zum mündlichen Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002000000)
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den
 schriftlichen Teil des Auswahlverfahrens bestanden hat.
@@ -461,6 +482,7 @@ Auswahlverfahrens noch nicht festgestellt werden konnte.
 
 
 ### § 19 Mündlicher Teil des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002100000)
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung
 der Bewerberinnen und Bewerber in verschiedenen persönlichen und
@@ -494,6 +516,7 @@ zur Stellungnahme zu geben.
 
 
 ### § 20 Bestehen des mündlichen Teils des Auswahlverfahrens
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002200000)
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn in den
 angewendeten Auswahlinstrumenten jeweils die erforderliche
@@ -501,6 +524,7 @@ Mindestpunktzahl erreicht worden ist.
 
 
 ### § 21 Gesamtergebnis und Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002300000)
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden
 Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens
@@ -524,6 +548,7 @@ Frist zu löschen.
 
 
 ### § 22 Ausnahmeregelung zur Rangfolge
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002400000)
 
 (1) Bewerberinnen und Bewerber mit Schwerbehinderung und diesen
 gleichgestellte Bewerberinnen und Bewerber mit Behinderung, die den
@@ -551,6 +576,7 @@ erfolglos am Auswahlverfahren teilgenommen.
 
 
 ### § 23 Täuschung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002500000)
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder an
 einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
@@ -560,9 +586,11 @@ Auswahlverfahren ausgeschlossen.
 
 
 ## Abschnitt 3 - Studienordnung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000300000)
 
 
 ### § 24 Dauer und Umfang des Studiums
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002600000)
 
 (1) Die Regelstudienzeit beträgt drei Jahre. Jedes Studienjahr besteht
 aus zwei Semestern.
@@ -581,6 +609,7 @@ entscheiden.
 
 
 ### § 25 Studieninhalte
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002700000)
 
 Das Studium vermittelt Grundlagen der Informatik, der
 Wirtschaftswissenschaften, der Rechtswissenschaften und der
@@ -588,6 +617,7 @@ Verwaltungspsychologie sowie berufsfeldbezogene Studieninhalte.
 
 
 ### § 26 Studienstruktur
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002800000)
 
 (1) Die Studieninhalte werden in thematisch und zeitlich abgegrenzten
 Modulen vermittelt. Die Module können interdisziplinär ausgestaltet
@@ -684,6 +714,7 @@ sein.
 
 
 ### § 27 Modulhandbuch
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE002900000)
 
 (1) Für das Studium erstellt der Fachbereich Finanzen ein
 Modulhandbuch.
@@ -736,6 +767,7 @@ Maßgeblich ist jeweils die Fassung, die bei Beginn des Studiums gilt.
 
 
 ### § 28 Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003000000)
 
 (1) Die Fachstudien bestehen aus fachtheoretischen
 Lehrveranstaltungen.
@@ -756,6 +788,7 @@ zugewiesen.
 
 
 ### § 29 Praxisstudien
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003100000)
 
 (1) Die Praxisstudien sind Praxisaufenthalte bei den
 Ausbildungsbehörden.
@@ -765,6 +798,7 @@ Finanzen. Ihre Durchführung obliegt den Ausbildungsbehörden.
 
 
 ### § 30 Transferkoordinatorin und Transferkoordinator
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003200000)
 
 Der Fachbereich Finanzen bestellt eine Transferkoordinatorin oder
 einen Transferkoordinator und eine Vertretung, die oder der den
@@ -775,6 +809,7 @@ verantwortlich.
 
 
 ### § 31 Praxisstudienleiterin und Praxisstudienleiter
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003300000)
 
 (1) Jede Ausbildungsbehörde bestellt im Einvernehmen mit dem
 Fachbereich Finanzen eine Praxisstudienleiterin oder einen
@@ -795,6 +830,7 @@ Studierenden in Angelegenheiten der Praxisstudien.
 
 
 ### § 32 Praxistutorinnen und Praxistutoren
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003400000)
 
 (1) Jede Ausbildungsbehörde bestellt Praxistutorinnen und
 Praxistutoren für die praktische Ausbildung der Studierenden.
@@ -818,6 +854,7 @@ aktuellen Ausbildungsstand der Studierenden, die ihnen zugeteilt sind.
 
 
 ### § 33 Qualitätsmanagement
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003500000)
 
 (1) Das Studium unterliegt einem systematischen Qualitätsmanagement.
 
@@ -831,12 +868,15 @@ geltenden Fassung in unveränderlicher Form vorgehalten und archiviert.
 
 
 ## Abschnitt 4 - Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000400000)
 
 
 ### Unterabschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000500000)
 
 
 #### § 34 Prüfungsamt
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003600000)
 
 (1) Für die Organisation und Durchführung der Prüfungen ist das
 Prüfungsamt des Fachbereichs Finanzen zuständig.
@@ -846,6 +886,7 @@ Rahmen der Prüfungen.
 
 
 #### § 35 Prüfende
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003700000)
 
 (1) Die Prüfenden werden vom Prüfungsamt bestellt.
 
@@ -863,6 +904,7 @@ weisungsgebunden.
 
 
 #### § 36 Durchführung der Prüfungen, Prüfungsplan
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003800000)
 
 (1) Das Prüfungsamt erstellt vor Beginn eines Semesters einen
 Prüfungsplan, in dem geregelt wird, welche Prüfungen zu welchem
@@ -885,6 +927,7 @@ und ohne unzulässige fremde Mitwirkung erbracht worden ist.
 
 
 #### § 37 Bewertung der Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE003900000)
 
 (1) Die Prüfungsleistungen werden, soweit sich aus § 38 nichts anderes
 ergibt, wie folgt bewertet:
@@ -1222,6 +1265,7 @@ Notenwert 6,0 bewertet.
 
 
 #### § 38 Multiple-Choice-Aufgaben
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004000000)
 
 (1) Multiple-Choice-Aufgaben können gestellt werden als
 
@@ -1423,12 +1467,14 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 
 #### § 39 Bestehen der Prüfung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004100000)
 
 Eine Prüfung ist vorbehaltlich § 54 bestanden, wenn sie mit mindestens
 der Note „ausreichend“, numerischer Notenwert 4,0, bewertet ist.
 
 
 #### § 40 Bewertungsverfahren bei Wiederholungsprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004200000)
 
 (1) Prüfungsleistungen in Wiederholungsprüfungen werden von zwei
 Prüfenden als Erst- und Zweitprüfenden bewertet. Das Prüfungsamt legt
@@ -1442,9 +1488,11 @@ Erstprüfenden haben.
 
 
 ### Unterabschnitt 2 - Abschluss der Module und Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000600000)
 
 
 #### § 41 Abschluss der Module und Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004300000)
 
 (1) Jedes belegte Modul muss erfolgreich abgeschlossen werden. Die
 Voraussetzungen hierfür werden im Modulhandbuch geregelt.
@@ -1456,6 +1504,7 @@ Prüfungsformat durchgeführt.
 
 
 #### § 42 Modulprüfungen in den Fachstudien
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004400000)
 
 Die Modulprüfungen während der Fachstudien können aus einem oder
 mehreren der folgenden Prüfungsformate bestehen:
@@ -1488,6 +1537,7 @@ mehreren der folgenden Prüfungsformate bestehen:
 
 
 #### § 43 Modulprüfungen in den Praxisstudien
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004500000)
 
 (1) Die Modulprüfungen während der Praxisstudien bestehen aus einer
 Praxisbewertung mit einer Gewichtung in Höhe von 25 Prozent und einer
@@ -1515,6 +1565,7 @@ bestehen:
 
 
 #### § 44 Anforderungen an Prüfungsformate bei Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004600000)
 
 (1) Eine Klausur ist eine unter Aufsicht schriftlich oder elektronisch
 zu erstellende Ausarbeitung. Sie kann ganz oder teilweise aus
@@ -1576,6 +1627,7 @@ entsprechenden Fremdsprache durchgeführt werden.
 
 
 #### § 45 Verfahren zur Bewertung der Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004700000)
 
 (1) Modulprüfungen werden von einer oder einem Prüfenden bewertet.
 Handelt es sich um eine mündlich durchgeführte Modulprüfung, so
@@ -1595,6 +1647,7 @@ bestellen sind.
 
 
 #### § 46 Wiederholung von Modulprüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004800000)
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
 Für Wiederholungsprüfungen kann ein anderes Prüfungsformat gewählt
@@ -1620,15 +1673,18 @@ Studium beendet.
 
 
 ### Unterabschnitt 3 - Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000700000)
 
 
 #### § 47 Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE004900000)
 
 Die Bachelorarbeit besteht aus der Bachelorthesis, ihrer mündlichen
 Präsentation und mündlichen Verteidigung.
 
 
 #### § 48 Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005000000)
 
 (1) Durch die Bachelorthesis sollen die Studierenden ihre Fähigkeit
 nachweisen, innerhalb einer vorgegebenen Frist eine für die
@@ -1657,6 +1713,7 @@ elektronischer Hilfsmittel zu überprüfen.
 
 
 #### § 49 Verfahren zur Bewertung und Prüfende der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005100000)
 
 (1) Die Bachelorthesis wird von einer oder einem Erstprüfenden und von
 einer oder einem Zweitprüfenden geprüft.
@@ -1680,6 +1737,7 @@ abgeschlossen sein.
 
 
 #### § 50 Wiederholung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005200000)
 
 (1) Ist die Bachelorthesis nicht bestanden, kann sie einmal wiederholt
 werden.
@@ -1697,6 +1755,7 @@ Studium beendet.
 
 
 #### § 51 Präsentation und Verteidigung der Bachelorthesis
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005300000)
 
 (1) Zur Präsentation und Verteidigung der Bachelorthesis wird
 zugelassen, wer die Bachelorthesis bestanden hat.
@@ -1734,6 +1793,7 @@ Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 
 
 #### § 52 Wiederholung der Präsentation und Verteidigung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005400000)
 
 (1) Ist die Präsentation oder die Verteidigung nicht bestanden worden,
 kann jede der beiden Prüfungen einmal wiederholt werden. Die
@@ -1749,6 +1809,7 @@ ihrer Einstellungsbehörde zugeteilt.
 
 
 #### § 53 Gesamtnote der Bachelorarbeit
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005500000)
 
 (1) Sind alle Einzelprüfungen der Bachelorarbeit bestanden, so wird
 die Gesamtnote der Bachelorarbeit gemäß § 37 Absatz 4 bis 6 berechnet
@@ -1772,9 +1833,11 @@ genannten Gewichtung ein
 
 
 ### Unterabschnitt 4 - Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000800000)
 
 
 #### § 54 Bestehen der Bachelorprüfung, Abschlussnote
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005600000)
 
 (1) Die Bachelorprüfung ist bestanden, wenn die Modulprüfungen und die
 Bachelorarbeit bestanden sind und mindestens 180 ECTS-Leistungspunkte
@@ -1853,11 +1916,13 @@ unveränderlicher Form vorgehalten und archiviert.
 
 
 #### § 55 Laufbahnprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005700000)
 
 Die Bachelorprüfung ist die Laufbahnprüfung.
 
 
 #### § 56 Abschlusszeugnis, Urkunde, Diploma Supplement
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005800000)
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält
 
@@ -1915,6 +1980,7 @@ ausgestellt.
 
 
 #### § 57 Bescheid bei Nichtbestehen der Bachelorprüfung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE005900000)
 
 Wer die Bachelorprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid über das Nichtbestehen der Bachelorprüfung und eine
@@ -1928,9 +1994,11 @@ Schriftformersatzes.
 
 
 ### Unterabschnitt 5 - Weitere Prüfungsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG000900000)
 
 
 #### § 58 Verhinderung, Säumnis und Verspätung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006000000)
 
 (1) Sind Prüflinge aus wichtigem Grund verhindert, eine Prüfung oder
 eine Teilprüfung rechtzeitig zu erbringen, so haben sie dies
@@ -1971,6 +2039,7 @@ entsprechend.
 
 
 #### § 59 Verstöße bei Prüfungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006100000)
 
 (1) Verstöße bei Prüfungen können sein:
 
@@ -2025,6 +2094,7 @@ verfügen. Die Bachelorprüfung gilt in diesem Fall als nicht bestanden.
 
 
 #### § 60 Störungen und Mängel im Prüfungsverfahren
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006200000)
 
 (1) Fühlt sich ein Prüfling während einer Prüfung oder einer
 Teilprüfung durch äußere Einwirkungen erheblich gestört, so hat sie
@@ -2050,6 +2120,7 @@ Absatz 2 nicht mehr treffen.
 
 
 #### § 61 Prüfungsakte und Einsichtnahme
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006300000)
 
 (1) Zu jeder und jedem Studierenden führt das Prüfungsamt eine
 Prüfungsakte.
@@ -2097,9 +2168,11 @@ ist zu vermerken.
 
 
 ## Abschnitt 5 - Anerkennung und Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG001000000)
 
 
 ### § 62 Anerkennung von Studien- und Prüfungsleistungen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006400000)
 
 (1) Auf Antrag der oder des Studierenden werden folgende Leistungen
 anerkannt:
@@ -2128,6 +2201,7 @@ Einzelne Teilprüfungen können nicht ersetzt werden.
 
 
 ### § 63 Anrechnung von Kenntnissen und Qualifikationen
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006500000)
 
 (1) Auf Antrag der oder des Studierenden können Kenntnisse und
 Qualifikationen, die auf andere Weise als durch ein Studium erworben
@@ -2145,6 +2219,7 @@ gilt entsprechend.
 
 
 ### § 64 Verfahren zur Anerkennung oder Anrechnung
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006600000)
 
 (1) Der Antrag auf Anerkennung oder Anrechnung ist beim Prüfungsamt zu
 stellen. Es ist anzugeben, welche Prüfungsleistung ersetzt werden
@@ -2179,9 +2254,11 @@ numerischen Notenwert 4,0 bewertet, sofern keine Bewertung nach Absatz
 
 
 ## Abschnitt 6 - Schlussvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNG001100000)
 
 
 ### § 65 Übergangsvorschrift
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006700000)
 
 (1) Auf Studierende, die vor dem 1. März 2025 das Studium begonnen
 haben, ist die Verordnung über den Vorbereitungsdienst für den
@@ -2199,6 +2276,7 @@ dieser Verfahren weiter anzuwenden.
 
 
 ### § 66 Inkrafttreten; Außerkrafttreten
+[Direktlink](https://www.gesetze-im-internet.de/gvidvdv_2025/BJNR11C0A0024.html#BJNR11C0A0024BJNE006800000)
 
 Diese Verordnung tritt am 1. März 2025 in Kraft. Gleichzeitig tritt
 die Verordnung über den Vorbereitungsdienst für den gehobenen

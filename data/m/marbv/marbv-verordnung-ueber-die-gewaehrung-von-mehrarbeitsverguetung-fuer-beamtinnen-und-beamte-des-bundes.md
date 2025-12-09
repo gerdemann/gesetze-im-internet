@@ -24,12 +24,14 @@ Zuletzt geändert durch
 
 
 ## § 1
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000105310)
 
 Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen
 nur nach Maßgabe dieser Verordnung gezahlt werden.
 
 
 ## § 2
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000221130)
 
 (1) Beamtinnen und Beamten mit Dienstbezügen in Besoldungsgruppen mit
 aufsteigenden Gehältern kann in folgenden Bereichen für Mehrarbeit
@@ -119,6 +121,7 @@ bis zur Hälfte aufgezehrt ist.
 
 
 ## § 3
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000308130)
 
 (1) Die Vergütung wird nur gewährt, wenn die Mehrarbeit
 
@@ -155,6 +158,7 @@ Kalendermonat fällt, diesem zuzurechnen.
 
 
 ## § 4
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000433360)
 
 (1) Die Vergütung beträgt je Stunde
 
@@ -221,6 +225,7 @@ wird.
 
 
 ## § 4a
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE001201310)
 
 (1) Teilzeitbeschäftigte erhalten bis zur Erreichung der regelmäßigen
 Arbeitszeit von Vollzeitbeschäftigten je Stunde Mehrarbeit eine
@@ -239,6 +244,7 @@ hinausgeht, wird nach § 4 Absatz 1 und 3 vergütet.
 
 
 ## § 5
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000504310)
 
 (1) Als Mehrarbeitsstunde im Sinne der §§ 3 und 4 Absatz 1 und 2 sowie
 § 4a gilt die volle Zeitstunde. Hiervon abweichend wird eine Stunde
@@ -258,16 +264,19 @@ Stunde aufgerundet, weniger als 30 Minuten bleiben unberücksichtigt.
 
 
 ## § 6 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE000901310)
 
 -
 
 
 ## § 7 (weggefallen)
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE001001310)
 
 -
 
 
 ## § 8 (Inkrafttreten)
+[Direktlink](https://www.gesetze-im-internet.de/marbv/BJNR007470972.html#BJNR007470972BJNE001101310)
 
 -
 

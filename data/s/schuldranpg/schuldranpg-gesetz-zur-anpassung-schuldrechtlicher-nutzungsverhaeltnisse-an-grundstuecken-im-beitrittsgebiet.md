@@ -21,14 +21,17 @@ Zuletzt geändert durch
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000100000)
 
 
 
 ### Abschnitt 1 - Anwendungsbereich
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000200000)
 
 
 
 #### § 1 Betroffene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000300000)
 
 (1) Dieses Gesetz regelt Rechtsverhältnisse an Grundstücken in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet),
@@ -60,6 +63,7 @@ auch auf diesen Vertrag anzuwenden.
 
 
 #### § 2 Nicht einbezogene Rechtsverhältnisse
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000400000)
 
 (1) Die Bestimmungen dieses Gesetzes sind nicht auf Rechtsverhältnisse
 anzuwenden, deren Bereinigung im Sachenrechtsbereinigungsgesetz
@@ -100,6 +104,7 @@ anzuwenden.
 
 
 #### § 3 Zeitliche Begrenzung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000500000)
 
 Die Bestimmungen dieses Gesetzes sind nur auf solche Verträge
 anzuwenden, die bis zum Ablauf des 2. Oktober 1990 abgeschlossen
@@ -107,10 +112,12 @@ worden sind.
 
 
 ### Abschnitt 2 - Begriffsbestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000300000)
 
 
 
 #### § 4 Nutzer
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000600000)
 
 (1) Nutzer im Sinne dieses Gesetzes sind natürliche oder juristische
 Personen des privaten oder öffentlichen Rechts, die aufgrund eines
@@ -126,6 +133,7 @@ anzuwenden.
 
 
 #### § 5 Bauwerke
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000700000)
 
 (1) Bauwerke sind Gebäude, Baulichkeiten nach § 296 Abs. 1 des
 Zivilgesetzbuchs der Deutschen Demokratischen Republik und
@@ -136,14 +144,17 @@ Erschließung des Grundstücks erforderlichen Anlagen.
 
 
 ### Abschnitt 3 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000400000)
 
 
 
 #### Unterabschnitt 1 - Durchführung der Schuldrechtsanpassung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000500000)
 
 
 
 ##### § 6 Gesetzliche Umwandlung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000801377)
 
 (1) Auf die in § 1 Abs. 1 bezeichneten Verträge sind die Bestimmungen
 des Bürgerlichen Gesetzbuchs über den Miet- oder den Pachtvertrag
@@ -165,6 +176,7 @@ wirksam, soweit es in diesem Gesetz bestimmt ist.
 
 
 ##### § 7 Kündigungsschutz durch Moratorium
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE000900000)
 
 (1) Eine vom Grundstückseigentümer oder einem anderen
 Vertragschließenden (§ 8 Abs. 1 Satz 1) nach Ablauf des 2. Oktober
@@ -185,10 +197,12 @@ Gesetzbuche bleibt unberührt.
 
 
 #### Unterabschnitt 2 - Rechtsgeschäfte mit anderen Vertragschließenden
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000600000)
 
 
 
 ##### § 8 Vertragseintritt
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001000000)
 
 (1) Der Grundstückseigentümer tritt in die sich ab dem 1. Januar 1995
 ergebenden Rechte und Pflichten aus einem Vertragsverhältnis über den
@@ -222,6 +236,7 @@ ist nicht beachtlich.
 
 
 ##### § 9 Vertragliche Nebenpflichten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001100000)
 
 Grundstückseigentümer und Nutzer können die Erfüllung solcher
 Pflichten verweigern, die nicht unmittelbar die Nutzung des
@@ -233,6 +248,7 @@ Mitarbeit in einer landwirtschaftlichen Produktionsgenossenschaft.
 
 
 ##### § 10 Verantwortlichkeit für Fehler oder Schäden
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001200000)
 
 (1) Der Grundstückseigentümer haftet dem Nutzer nicht für Fehler oder
 Schäden, die infolge eines Umstandes eingetreten sind, den der andere
@@ -244,10 +260,12 @@ Schadensersatz von dem anderen Vertragschließenden verlangen.
 
 
 #### Unterabschnitt 3 - Beendigung des Vertragsverhältnisses
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000700000)
 
 
 
 ##### § 11 Eigentumserwerb an Baulichkeiten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001300000)
 
 (1) Mit der Beendigung des Vertragsverhältnisses geht das nach dem
 Recht der Deutschen Demokratischen Republik begründete, fortbestehende
@@ -261,6 +279,7 @@ Dritte Wertersatz aus der Entschädigung nach § 12 verlangen.
 
 
 ##### § 12 Entschädigung für das Bauwerk
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001400000)
 
 (1) Der Grundstückseigentümer hat dem Nutzer nach Beendigung des
 Vertragsverhältnisses eine Entschädigung für ein entsprechend den
@@ -295,6 +314,7 @@ Bestimmungen dieses Gesetzes unberührt.
 
 
 ##### § 13 Entschädigungsleistung bei Sicherungsrechten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001500000)
 
 Hat der Sicherungsnehmer dem Grundstückseigentümer das Bestehen eines
 Sicherungsrechts an der Baulichkeit angezeigt, kann der
@@ -304,6 +324,7 @@ Sicherungsnehmer und den Nutzer gemeinschaftlich leisten. § 1281 Satz
 
 
 ##### § 14 Entschädigung für Vermögensnachteile
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001601377)
 
 Endet das Vertragsverhältnis durch Kündigung des
 Grundstückseigentümers vor Ablauf der Kündigungsschutzfrist, kann der
@@ -318,6 +339,7 @@ Verhalten Anlaß zu einer Kündigung aus wichtigem Grund gegeben hat.
 
 
 ##### § 15 Beseitigung des Bauwerks, Abbruchkosten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001700000)
 
 (1) Der Nutzer ist bei Vertragsbeendigung zur Beseitigung eines
 entsprechend den Rechtsvorschriften der Deutschen Demokratischen
@@ -346,6 +368,7 @@ Vertragsverhältnis nach Ablauf des 31. Dezember 2022 endet.
 
 
 ##### § 16 Kündigung bei Tod des Nutzers
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001805308)
 
 (1) Stirbt der Nutzer, ist sowohl dessen Erbe als auch der
 Grundstückseigentümer zur Kündigung des Vertrages nach § 564 Satz 2, §
@@ -358,6 +381,7 @@ Ehegatte oder Lebenspartner Nutzer ist.
 
 
 ##### § 17 Unredlicher Erwerb
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE001900000)
 
 (1) Der Grundstückseigentümer kann ein Vertragsverhältnis nach § 1
 Abs. 1 kündigen, wenn der Nutzer beim Abschluß des Vertrages unredlich
@@ -378,14 +402,17 @@ ist nicht anzuwenden.
 
 
 ## Kapitel 2 - Vertragliche Nutzungen zu anderen persönlichen Zwecken als Wohnzwecken
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000800000)
 
 
 
 ### Abschnitt 1 - Allgemeine Vorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG000900000)
 
 
 
 #### § 18 Anwendbarkeit der nachfolgenden Bestimmungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002100000)
 
 Auf Verträge über die Nutzung von Grundstücken zu anderen persönlichen
 Zwecken als Wohnzwecken nach § 1 Abs. 1 Nr. 1 sind die nachfolgenden
@@ -393,6 +420,7 @@ Bestimmungen anzuwenden.
 
 
 #### § 19 Heilung von Mängeln
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002200000)
 
 (1) Ein Vertrag nach § 1 Abs. 1 Nr. 1 ist nicht deshalb unwirksam,
 weil die nach § 312 Abs. 1 Satz 2 des Zivilgesetzbuchs der Deutschen
@@ -408,6 +436,7 @@ Körperschaft dem Nutzer eine Bauzustimmung erteilt hat.
 
 
 #### § 20 Nutzungsentgelt
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002301377)
 
 (1) Der Grundstückseigentümer kann vom Nutzer die Zahlung eines
 Nutzungsentgelts verlangen. Die Höhe des Entgelts richtet sich nach
@@ -432,6 +461,7 @@ geschuldet, der auf den Zugang des Anpassungsverlangens folgt.
 
 
 #### § 20a Beteiligung des Nutzers an öffentlichen Lasten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE006500377)
 
 (1) Der Grundstückseigentümer kann vom Nutzer eines außerhalb von
 Kleingartenanlagen kleingärtnerisch genutzten Grundstücks, eines
@@ -468,6 +498,7 @@ bleiben unberührt.
 
 
 #### § 21 Gebrauchsüberlassung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002401377)
 
 (1) Macht der Grundstückseigentümer innerhalb der
 Kündigungsschutzfrist seinen Anspruch auf Anpassung des
@@ -496,6 +527,7 @@ Nutzungsentgelts verpflichtet.
 
 
 #### § 22 Zustimmung zu baulichen Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002500000)
 
 (1) Die Neuerrichtung eines Bauwerks sowie Veränderungen an einem
 bestehenden Bauwerk, durch die dessen Nutzfläche vergrößert oder
@@ -509,6 +541,7 @@ Abbruchkosten verpflichtet.
 
 
 #### § 23 Kündigungsschutzfrist
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002601377)
 
 (1) Der Grundstückseigentümer kann den Vertrag bis zum Ablauf des 31.
 Dezember 1999 nicht kündigen.
@@ -592,6 +625,7 @@ Interessen des Grundstückseigentümers nicht zu rechtfertigen ist.
 
 
 #### § 23a Teilkündigung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE006600377)
 
 (1) Erstreckt sich das Nutzungsrecht an einem Erholungs- und
 Freizeitgrundstück nach dem Vertrag auf die Fläche von mindestens
@@ -634,6 +668,7 @@ sind.
 
 
 #### § 24 Sonderregelungen für bewohnte Gebäude
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002701377)
 
 (1) Wohnt der Nutzer in einem zum dauernden Wohnen geeigneten
 Wochenendhaus, kann er auch nach Ablauf der in § 23 genannten Fristen
@@ -661,6 +696,7 @@ dauernd als Wohnung nutzt.
 
 
 #### § 25 Nutzungsrechtsbestellung mit Nutzungsvertrag
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002800000)
 
 (1) Wurde der Vertrag im Zusammenhang mit der Bestellung eines
 Nutzungsrechts zur Errichtung eines Eigenheimes abgeschlossen und
@@ -695,6 +731,7 @@ Bestimmungen des Sachenrechtsbereinigungsgesetzes verlangen.
 
 
 #### § 26 Mehrere Grundstückseigentümer
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE002900000)
 
 (1) Erstreckt sich die dem Nutzer zugewiesene Fläche über mehrere
 Grundstücke, können die Grundstückseigentümer das Vertragsverhältnis
@@ -733,6 +770,7 @@ von einer Entschädigungspflicht nach § 12 Abs. 1 freizustellen.
 
 
 #### § 27 Entschädigung für Anpflanzungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003000000)
 
 Nach Beendigung des Vertrages hat der Grundstückseigentümer dem Nutzer
 neben der Entschädigung für das Bauwerk auch eine Entschädigung für
@@ -741,6 +779,7 @@ anzuwenden.
 
 
 #### § 28 Überlassungsverträge zu Erholungszwecken
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003100000)
 
 Ist die Nutzungsbefugnis am Grundstück durch einen Überlassungsvertrag
 im Sinne des Artikels 232 § 1a des Einführungsgesetzes zum
@@ -753,10 +792,12 @@ Grundstückseigentümers verwandt wurden, bestimmen sich nach § 37.
 
 
 ### Abschnitt 2 - Besondere Bestimmungen für Ferienhaus- und Wochenendhaussiedlungen sowie andere Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001000000)
 
 
 
 #### § 29 Begriffsbestimmung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003200000)
 
 Ferienhaus- und Wochenendhaussiedlungen sind Flächen, die
 
@@ -780,6 +821,7 @@ Ferienhaus- und Wochenendhaussiedlungen sind Flächen, die
 
 
 #### § 30 Kündigung des Zwischenpachtvertrages
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003300000)
 
 (1) Der Grundstückseigentümer ist berechtigt, die Kündigung des
 Zwischenpachtvertrages auf eine Teilfläche zu beschränken. Ist eine
@@ -799,6 +841,7 @@ Vertragsverhältnisse mit den unmittelbar Nutzungsberechtigten ein.
 
 
 #### § 31 Kündigung durch den Zwischenpächter
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003400000)
 
 (1) Der Zwischenpächter kann den Vertrag mit dem unmittelbar
 Nutzungsberechtigten auch kündigen, wenn die Beendigung des Vertrages
@@ -809,6 +852,7 @@ Abbruchkosten hat der Zwischenpächter zu tragen.
 
 
 #### § 32 Benutzung gemeinschaftlicher Einrichtungen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003500000)
 
 (1) Der Grundstückseigentümer, der das Grundstück zur Erholung oder
 Freizeitgestaltung nutzt, ist berechtigt, die in der Siedlung
@@ -825,6 +869,7 @@ Grundstückseigentümer nicht Mitglied der Gemeinschaft wird.
 
 
 #### § 33 Andere Gemeinschaften
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003600000)
 
 Auf Rechtsverhältnisse in Garagen-, Bootsschuppen- und vergleichbaren
 Gemeinschaften sind die Bestimmungen der §§ 29 bis 32 entsprechend
@@ -832,14 +877,17 @@ anzuwenden.
 
 
 ## Kapitel 3 - Überlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001100000)
 
 
 
 ### Abschnitt 1 - Überlassungsverträge zu Wohnzwecken
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001200000)
 
 
 
 #### § 34 Anwendbarkeit des Mietrechts
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003801377)
 
 Überlassungsverträge zu Wohnzwecken werden als auf unbestimmte Zeit
 geschlossene Mietverträge fortgesetzt. Auf sie sind die allgemeinen
@@ -848,6 +896,7 @@ folgenden etwas anderes bestimmt ist.
 
 
 #### § 35 Mietzins
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE003902377)
 
 (1) Der Grundstückseigentümer kann vom Nutzer die Zahlung einer Miete
 verlangen. Die Miete wird an dem ersten Tag des zweiten Monats fällig,
@@ -867,6 +916,7 @@ bis zum 31. August 2001 geltenden Fassung nicht.
 
 
 #### § 36 Öffentliche Lasten
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004001377)
 
 (1) Hat sich der Nutzer vertraglich zur Übernahme der auf dem
 Grundstück ruhenden öffentlichen Lasten verpflichtet, ist er von
@@ -880,6 +930,7 @@ tragen.
 
 
 #### § 37 Sicherheitsleistung
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004101377)
 
 (1) Die Ansprüche des Nutzers auf Erstattung der Beträge, die vom
 staatlichen Verwalter aus dem bei Vertragsabschluß vom Nutzer
@@ -903,6 +954,7 @@ Sicherheit zu leisten.
 
 
 #### § 38 Beendigung der Verträge
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004200000)
 
 (1) Eine Kündigung des Mietvertrages durch den Grundstückseigentümer
 ist bis zum Ablauf des 31. Dezember 1995 ausgeschlossen.
@@ -924,6 +976,7 @@ Vertrag vor dem 13. Januar 1994 abgeschlossen worden ist.
 
 
 #### § 39 Verlängerung der Kündigungsschutzfrist
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004300000)
 
 Hat der Nutzer auf dem Grundstück in nicht unerheblichem Umfang Um-
 und Ausbauten oder wesentliche bauliche Maßnahmen zur
@@ -935,6 +988,7 @@ dem 20. Juli 1993 begonnen wurde.
 
 
 #### § 40 Kündigung bei abtrennbaren Teilflächen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004400000)
 
 Der Grundstückseigentümer ist berechtigt, eine Kündigung des
 Mietvertrages für eine abtrennbare, nicht überbaute Teilfläche des
@@ -949,6 +1003,7 @@ entsprechend anzuwenden.
 
 
 #### § 41 Verwendungsersatz
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004500000)
 
 (1) Der Nutzer kann bei Beendigung des Mietvertrages vom
 Grundstückseigentümer für alle werterhöhenden Aufwendungen, die er bis
@@ -964,10 +1019,12 @@ werterhöhenden Aufwendungen bleibt unberührt.
 
 
 ### Abschnitt 2 - Andere Überlassungsverträge
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001300000)
 
 
 
 #### § 42 Überlassungsverträge für gewerbliche und andere Zwecke
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004600000)
 
 (1) Überlassungsverträge über gewerblich oder zu anderen als den in
 den §§ 18 und 34 genannten Zwecken genutzte Grundstücke werden als
@@ -983,14 +1040,17 @@ dritten auf den Zugang des Zahlungsverlangens folgenden Monats. Die §§
 
 
 ## Kapitel 4 - Errichtung von Gebäuden aufgrund eines Miet-, Pacht- oder sonstigen Nutzungsvertrages
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001400000)
 
 
 
 ### Abschnitt 1 - Grundsätze
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001500000)
 
 
 
 #### § 43 Erfaßte Verträge
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004800000)
 
 Auf Miet-, Pacht- oder sonstige Nutzungsverträge über Grundstücke
 finden die nachstehenden Regelungen Anwendung, wenn der Nutzer auf dem
@@ -1002,6 +1062,7 @@ vorherigen Nutzer übernommen hat (§ 1 Abs. 1 Nr. 3).
 
 
 #### § 44 Vermuteter Vertragsabschluß
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE004900000)
 
 Sind Flächen oder Räumlichkeiten nach der
 Gewerberaumlenkungsverordnung vom 6. Februar 1986 (GBl. I Nr. 16 S.
@@ -1015,10 +1076,12 @@ Bestimmungen dieses Gesetzes anzuwenden.
 
 
 ### Abschnitt 2 - Gewerblich genutzte Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001600000)
 
 
 
 #### § 45 Bauliche Maßnahmen des Nutzers
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005000000)
 
 (1) Bauwerke im Sinne dieses Abschnitts sind nur Gebäude und die in §
 12 Abs. 3 des Sachenrechtsbereinigungsgesetzes bezeichneten baulichen
@@ -1030,6 +1093,7 @@ gleich.
 
 
 #### § 46 Gebrauchsüberlassung an Dritte
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005100000)
 
 Der Nutzer ist ohne Erlaubnis des Grundstückseigentümers berechtigt,
 Grundstück und aufstehendes Bauwerk einem Dritten zum Gebrauch zu
@@ -1039,6 +1103,7 @@ soll.
 
 
 #### § 47 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005201377)
 
 (1) Der Grundstückseigentümer kann vom Nutzer die Zahlung des für die
 Nutzung des Grundstücks ortsüblichen Entgelts verlangen. Im Zweifel
@@ -1076,6 +1141,7 @@ Anpassungsverlangens folgt.
 
 
 #### § 48 Zustimmung zu baulichen Investitionen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005300000)
 
 (1) Um- und Ausbauten an bestehenden Bauwerken durch den Nutzer
 bedürfen nicht der Zustimmung des Grundstückseigentümers.
@@ -1091,6 +1157,7 @@ Anerkenntnis der Verpflichtung zum Wertersatz enthalten.
 
 
 #### § 49 Kündigungsschutzfristen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005400000)
 
 (1) Der Grundstückseigentümer kann den Vertrag bis zum Ablauf des 31.
 Dezember 2000 nur kündigen, wenn das vom Nutzer errichtete Bauwerk
@@ -1134,10 +1201,12 @@ Nutzer errichteten Gebäudes, längstens bis zum 31. Dezember 2020.
 
 
 ### Abschnitt 3 - Zu Wohnzwecken genutzte Grundstücke
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001700000)
 
 
 
 #### § 50 Bauliche Maßnahmen des Nutzers
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005500000)
 
 (1) Gebäude im Sinne dieses Abschnitts sind Wohnhäuser und die in § 5
 Abs. 2 Satz 2 des Sachenrechtsbereinigungsgesetzes bezeichneten
@@ -1148,6 +1217,7 @@ des § 12 Abs. 1 des Sachenrechtsbereinigungsgesetzes gleich.
 
 
 #### § 51 Entgelt
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005600000)
 
 (1) Der Grundstückseigentümer kann vom Nutzer die Zahlung des für die
 Nutzung des Grundstücks ortsüblichen Entgelts verlangen. Im Zweifel
@@ -1163,6 +1233,7 @@ Gebäudes zu zahlen wäre.
 
 
 #### § 52 Kündigung aus besonderen Gründen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005700000)
 
 (1) Der Grundstückseigentümer kann den Vertrag bis zum Ablauf des 31.
 Dezember 2000 nur kündigen, wenn das vom Nutzer errichtete Gebäude
@@ -1187,22 +1258,26 @@ Vertrag vor dem 13. Januar 1994 abgeschlossen worden ist.
 
 
 #### § 53 Kündigung bei abtrennbaren Teilflächen
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005800000)
 
 Auf die Kündigung abtrennbarer Teilflächen ist § 40 entsprechend
 anzuwenden.
 
 
 #### § 54 Anwendbarkeit des Abschnitts 2
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE005900000)
 
 Im übrigen sind die Bestimmungen der §§ 46 und 48 entsprechend
 anzuwenden.
 
 
 ## Kapitel 5 - Verfahrensvorschriften
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001800000)
 
 
 
 ### § 55 Ausschließliche Zuständigkeit des Amtsgerichts
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE006100000)
 
 Das Amtsgericht, in dessen Bezirk das genutzte Grundstück ganz oder
 zum größten Teil belegen ist, ist ohne Rücksicht auf den Wert des
@@ -1213,15 +1288,18 @@ Verhältnisse ausschließlich zuständig.
 
 
 ### § 56
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE006201377)
 
 (weggefallen)
 
 
 ## Kapitel 6 - Vorkaufsrecht
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNG001900000)
 
 
 
 ### § 57 Vorkaufsrecht des Nutzers
+[Direktlink](https://www.gesetze-im-internet.de/schuldranpg/BJNR253810994.html#BJNR253810994BJNE006402377)
 
 (1) Der Nutzer ist zum Vorkauf berechtigt, wenn das Grundstück
 erstmals an einen Dritten verkauft wird.
